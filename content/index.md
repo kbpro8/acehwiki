@@ -2,7 +2,7 @@
 title: Ensiklopedia Sejarah Aceh
 ---
 
-Selamat datang di **AcehJurnal** — ensiklopedia sejarah Aceh yang komprehensif.
+Selamat datang di **Aceh Wiki History** — ensiklopedia sejarah Aceh yang komprehensif.
 
 Jelajahi sejarah berdasarkan:
 - [[Kronologi Sejarah Aceh|Urutan Waktu]]
