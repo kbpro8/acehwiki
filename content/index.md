@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: Ensiklopedia Sejarah Aceh
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Selamat datang di **Aceh Wiki History** — ensiklopedia sejarah Aceh yang komprehensif.
+
+Jelajahi sejarah berdasarkan:
+- [[Kronologi Sejarah Aceh|Urutan Waktu]]
+- [[Tokoh-Tokoh Aceh|Tokoh Penting]]
+- [[Peristiwa Bersejarah|Peristiwa]]
+- [[Tempat Bersejarah|Tempat]]
