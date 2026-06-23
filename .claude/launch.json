@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "acehwiki",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["quartz", "build", "--serve"],
+      "port": 8080
+    }
+  ]
+}
