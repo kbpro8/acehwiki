@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: wiki.trida.id
+  baseUrl: kbpro8.github.io/acehwiki
   ignorePatterns:
     - private
     - templates
