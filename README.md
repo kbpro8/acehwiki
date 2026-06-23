@@ -1,17 +1,27 @@
-# Quartz v5
+# Aceh Wiki History
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+**Aceh Wiki History** is an encyclopedia of Acehnese history — sultans, religious scholars, war heroes, literary hikayat characters, sacred places, and historical events — built as a [Quartz](https://quartz.jzhao.xyz/) digital garden.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+🔗 **Live site:** https://kbpro8.github.io/acehwiki/
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## What's inside
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+- **~190 people pages** — sultans and rulers, ulamas and mystics, Aceh War fighters, hikayat literary figures, prophets and religious legends, and the Western scholars (Hurgronje, van der Tuuk, and others) who documented them
+- **Historical places** — Acheh, Pidie, Kutaraja, Mecca, Medina, and other sites central to the history
+- **Historical events** — the Aceh War, the Hok Canton Incident, the great hikayat epics (Malem Dagang, Pochut Muhamat, Prang Gompeuni), and more
+- **A year-linked timeline** — every article links its dates to a dedicated year page, so you can browse history chronologically and see everything tied to a given year
 
-## Sponsors
+Content is compiled and adapted from *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson (Leyden: E.J. Brill, 1906) — every article cites this source.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Running locally
+
+```bash
+npm ci
+npx quartz build --serve
+```
+
+This builds the site and serves it at `http://localhost:8080`.
+
+## Built with
+
+This wiki runs on [Quartz v5](https://quartz.jzhao.xyz/), a static site generator for publishing digital gardens and notes.

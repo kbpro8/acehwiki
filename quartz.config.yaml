@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: wiki.trida.id
+  baseUrl: kbpro8.github.io/acehwiki
   ignorePatterns:
     - private
     - templates
@@ -133,7 +133,7 @@ plugins:
   - source: github:quartz-community/og-image
     enabled: true
   - source: github:quartz-community/cname
-    enabled: true
+    enabled: false
   - source: github:quartz-community/canvas-page
     enabled: true
   - source: github:quartz-community/content-page
