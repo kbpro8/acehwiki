@@ -180,7 +180,7 @@ plugins:
     layout:
       position: beforeBody
       priority: 30
-  - source: github:quartz-community/page-title
+  - source: ./quartz/custom-plugins/page-title
     enabled: true
     layout:
       position: left

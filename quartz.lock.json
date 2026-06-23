@@ -188,10 +188,10 @@
       "installedAt": "2026-06-22T17:57:32.170Z"
     },
     "page-title": {
-      "source": "github:quartz-community/page-title",
-      "resolved": "https://github.com/quartz-community/page-title.git",
-      "commit": "a1c1fe0a9c6a5ce1acf6efa01d473a7d9850e2a3",
-      "installedAt": "2026-06-22T17:57:36.148Z"
+      "source": "./quartz/custom-plugins/page-title",
+      "resolved": "/Users/riadihusaini/acehwiki/quartz/custom-plugins/page-title",
+      "commit": "local",
+      "installedAt": "2026-06-23T17:17:30.556Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
