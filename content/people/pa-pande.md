@@ -1,7 +1,7 @@
 ---
 title: Pa' Pande
 aliases: [the Blacksmith]
-tags: [tokoh, karya-sastra, cerita-rakyat]
+tags: [person, literary-work, folklore]
 ---
 
 An alternative trickster-fool identity in Acehnese folklore, who misunderstands instructions in a string of comic episodes paralleling the adventures of the Sundanese Si Kabayan.
@@ -10,3 +10,7 @@ An alternative trickster-fool identity in Acehnese folklore, who misunderstands 
 
 - [[Si Meuseukin]]
 - [[Si Kabayan]]
+
+## Source
+
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

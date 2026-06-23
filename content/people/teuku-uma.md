@@ -1,10 +1,10 @@
 ---
 title: Teuku Uma
 aliases: [Teuku Umar, Juhan Pahlawan]
-tags: [tokoh, pejuang]
+tags: [person, warrior]
 ---
 
-The most colorful figure of the later Aceh War, a "priman" (freeman) without office or territory who led attacks in the IV Mukims. He staged a sensational apparent submission to the Dutch, obtaining money and a man-of-war before his followers attacked its crew. His followers' seizure of the steamer Hok Canton in 1886, taking Mrs. Hansen and John Fay hostage, is described in detail in the Hikayat Prang Gompeuni. He later became master of Krueng Sabe and met ceremonially with Teungku Tiro, declaring fealty both knew to be a polite fiction.
+The most colorful figure of the later Aceh War, a "priman" (freeman) without office or territory who led attacks in the IV Mukims. He staged a sensational apparent submission to the Dutch, obtaining money and a man-of-war before his followers attacked its crew. His followers' seizure of the steamer Hok Canton in [[1886]], taking Mrs. Hansen and John Fay hostage, is described in detail in the Hikayat Prang Gompeuni. He later became master of Krueng Sabe and met ceremonially with Teungku Tiro, declaring fealty both knew to be a polite fiction.
 
 ## See Also
 
@@ -14,3 +14,7 @@ The most colorful figure of the later Aceh War, a "priman" (freeman) without off
 - [[Teungku Tiro]]
 - [[Hikayat Prang Gompeuni]]
 - [[Daya]]
+
+## Source
+
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

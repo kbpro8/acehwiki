@@ -1,7 +1,7 @@
 ---
 title: Kutaraja
 aliases: [Banda Aceh]
-tags: [tempat]
+tags: [place]
 ---
 
 Kutaraja (today Banda Aceh) was the capital of the Sultanate of Acheh, seat of the Dalam (royal palace) and the great mosque, Meuseugit Raya. It was the political and religious center of the kingdom, the site of the royal court's dealings with foreign embassies, and the focal point of the Dutch military campaigns during the Aceh War.
@@ -11,3 +11,7 @@ Kutaraja (today Banda Aceh) was the capital of the Sultanate of Acheh, seat of t
 - [[Acheh]]
 - [[Habib Abdurrahman Zahir]]
 - [[Aceh War]]
+
+## Source
+
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

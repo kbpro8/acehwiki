@@ -1,9 +1,9 @@
 ---
-title: Peristiwa Bersejarah
-tags: [hub, peristiwa]
+title: Historical Events
+tags: [hub, event]
 ---
 
-Peristiwa, karya sastra (hikayat), dan tradisi bersejarah yang membentuk sejarah Aceh.
+Events, literary works (hikayat), and traditions that shaped Acehnese history.
 
 - [[Aceh War]]
 - [[Eleumee Keubay]]

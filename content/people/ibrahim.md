@@ -1,7 +1,7 @@
 ---
 title: Ibrahim
 aliases: [Abraham]
-tags: [tokoh, agama]
+tags: [person, religious-figure]
 ---
 
 Among the prophets whose major life events fall on the day of Achura in the Hikayat palilat uroe Achura, and briefly mentioned in connection with the holy places at Mecca.
@@ -10,3 +10,7 @@ Among the prophets whose major life events fall on the day of Achura in the Hika
 
 - [[Isa]]
 - [[Mecca]]
+
+## Source
+
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

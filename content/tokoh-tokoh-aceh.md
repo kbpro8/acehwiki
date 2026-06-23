@@ -1,11 +1,11 @@
 ---
-title: Tokoh-Tokoh Aceh
-tags: [hub, tokoh]
+title: Notable Figures of Aceh
+tags: [hub, person]
 ---
 
-Daftar tokoh yang muncul dalam sumber-sumber sejarah dan sastra Aceh, dikelompokkan berdasarkan kategori. Disusun dari *The Achehnese* (Vol. II) karya Dr. C. Snouck Hurgronje (1906).
+A list of figures appearing in the historical and literary sources of Aceh, grouped by category. Compiled from *The Achehnese* (Vol. II) by Dr. C. Snouck Hurgronje (1906).
 
-## Sultan & Penguasa
+## Sultans & Rulers
 
 - [[Alaedin Ahmat Shah]]
 - [[Alaedin Juhan Shah]]
@@ -23,7 +23,7 @@ Daftar tokoh yang muncul dalam sumber-sumber sejarah dan sastra Aceh, dikelompok
 - [[Sapiatodin Shah]]
 - [[Shamsul Alam]]
 
-## Ulama, Wali & Mistikus
+## Scholars, Saints & Mystics
 
 - [[Abduggamad]]
 - [[Abdul-qadir Jilani]]
@@ -80,7 +80,7 @@ Daftar tokoh yang muncul dalam sumber-sumber sejarah dan sastra Aceh, dikelompok
 - [[Tuan di Langkeueng]]
 - [[Tuan di Lungkeueng]]
 
-## Pejuang Perang Aceh
+## Aceh War Fighters
 
 - [[Habib Abdurrahman Zahir]]
 - [[Habib Samalanga]]
@@ -101,7 +101,7 @@ Daftar tokoh yang muncul dalam sumber-sumber sejarah dan sastra Aceh, dikelompok
 - [[Teungku Tiro]]
 - [[Teungku di Meuke']]
 
-## Tokoh Epik & Sastra Hikayat
+## Epic & Hikayat Literary Figures
 
 - [[Abu Samaih]]
 - [[Adam and Hawa]]
@@ -156,7 +156,7 @@ Daftar tokoh yang muncul dalam sumber-sumber sejarah dan sastra Aceh, dikelompok
 - [[Tuan Sri Reubee]]
 - [[Usoh]]
 
-## Nabi & Tokoh Religius Legendaris
+## Prophets & Legendary Religious Figures
 
 - [[Abdallah]]
 - [[Abu Jhay]]
@@ -178,7 +178,7 @@ Daftar tokoh yang muncul dalam sumber-sumber sejarah dan sastra Aceh, dikelompok
 - [[Tamim Ansa]]
 - [[Yadib]]
 
-## Makhluk Legendaris & Roh
+## Legendary Beings & Spirits
 
 - [[Bunduri]]
 - [[Eumpee Blieng]]
@@ -190,7 +190,7 @@ Daftar tokoh yang muncul dalam sumber-sumber sejarah dan sastra Aceh, dikelompok
 - [[Raja Beureuhat]]
 - [[Sane']]
 
-## Sarjana Barat yang Dikutip
+## Cited Western Scholars
 
 - [[A.F. Von de Wall]]
 - [[Dr. G.K. Niemann]]
@@ -212,7 +212,7 @@ Daftar tokoh yang muncul dalam sumber-sumber sejarah dan sastra Aceh, dikelompok
 - [[Veth]]
 - [[W.W. Hunter]]
 
-## Tokoh Lainnya
+## Other Figures
 
 - [[Captain Roura]]
 - [[Hansen]]

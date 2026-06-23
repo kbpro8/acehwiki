@@ -1,6 +1,6 @@
 ---
 title: Tiro
-tags: [tempat]
+tags: [place]
 ---
 
 A place sanctified in Acehnese tradition as a center of living ulamas and holy tombs, and the seat of an old family of religious pandits who held the hereditary title Teungku di Tiro. It became the center of organized religious resistance against the Dutch under Teungku Muhamat Amin and his successor Cheh Saman (Teungku Tiro), the most prominent ulama-led leader of the holy war.
@@ -11,3 +11,7 @@ A place sanctified in Acehnese tradition as a center of living ulamas and holy t
 - [[Cheh Saman]]
 - [[Teungku Mat Amin]]
 - [[Aceh War]]
+
+## Source
+
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

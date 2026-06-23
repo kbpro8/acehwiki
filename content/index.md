@@ -1,11 +1,11 @@
 ---
-title: Ensiklopedia Sejarah Aceh
+title: Encyclopedia of Aceh History
 ---
 
-Selamat datang di **Aceh Wiki History** — ensiklopedia sejarah Aceh yang komprehensif.
+Welcome to **Aceh Wiki History** — a comprehensive encyclopedia of Acehnese history.
 
-Jelajahi sejarah berdasarkan:
-- [[Kronologi Sejarah Aceh|Urutan Waktu]]
-- [[Tokoh-Tokoh Aceh|Tokoh Penting]]
-- [[Peristiwa Bersejarah|Peristiwa]]
-- [[Tempat Bersejarah|Tempat]]
+Explore history by:
+- [[Kronologi Sejarah Aceh|Timeline]]
+- [[Tokoh-Tokoh Aceh|Notable Figures]]
+- [[Peristiwa Bersejarah|Events]]
+- [[Tempat Bersejarah|Places]]

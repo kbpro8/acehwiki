@@ -1,13 +1,14 @@
 ---
-title: Tempat Bersejarah
-tags: [hub, tempat]
+title: Historical Places
+tags: [hub, place]
 ---
 
-Tempat-tempat penting dalam sejarah Aceh yang disebut dalam sumber-sumber wiki ini.
+Important places in Acehnese history referenced in this wiki.
 
 - [[Acheh]]
 - [[Daya]]
 - [[Gampong Jawa]]
+- [[Johor]]
 - [[Keumala]]
 - [[Kutaraja]]
 - [[Malacca]]
