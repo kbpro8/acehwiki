@@ -1,17 +1,17 @@
 # Aceh Wiki History
 
-**Aceh Wiki History** is an encyclopedia of Acehnese history — sultans, religious scholars, war heroes, literary hikayat characters, sacred places, and historical events — built as a [Quartz](https://quartz.jzhao.xyz/) digital garden.
+**Aceh Wiki History** is an encyclopedia of Acehnese history — sultans, religious scholars, war heroes, literary hikayat characters, sacred places, and historical events — built as a permanent digital archive on the internet.
 
 🔗 **Live site:** https://kbpro8.github.io/acehwiki/
 
 ## What's inside
 
-- **~190 people pages** — sultans and rulers, ulamas and mystics, Aceh War fighters, hikayat literary figures, prophets and religious legends, and the Western scholars (Hurgronje, van der Tuuk, and others) who documented them
+- **people pages** — sultans and rulers, ulamas and mystics, Aceh War fighters, hikayat literary figures, prophets and religious legends, and the Western scholars (Hurgronje, van der Tuuk, and others) who documented them
 - **Historical places** — Acheh, Pidie, Kutaraja, Mecca, Medina, and other sites central to the history
 - **Historical events** — the Aceh War, the Hok Canton Incident, the great hikayat epics (Malem Dagang, Pochut Muhamat, Prang Gompeuni), and more
 - **A year-linked timeline** — every article links its dates to a dedicated year page, so you can browse history chronologically and see everything tied to a given year
 
-Content is compiled and adapted from *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson (Leyden: E.J. Brill, 1906) — every article cites this source.
+Content is compiled and adapted from various book about Aceh history. — every article cites sources from books and other historical materials.
 
 ## Running locally
 
