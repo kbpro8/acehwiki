@@ -1,7 +1,7 @@
 ---
 title: Penang
 aliases: [Pinang, Prince of Wales Island]
-tags: [place, island, straits-settlements, british]
+tags: [place, straits-settlements, british, islands]
 description: A British Straits Settlement island where the English Government adopted the Acehnese term mukim to designate minor subdivisions of a district, as noted by R.J. Wilkinson.
 ---
 
@@ -12,16 +12,16 @@ Referenced in the sadati dialogue: 'My desire, brothers, is to go to Pulo Pinang
 This linguistic adoption is significant as evidence of the close administrative and cultural ties between the British Straits Settlements and the Acehnese-Malay world.
 
 ## See Also
-- [[Acheh]]
-- [[Great Acheh]]
-- [[Hok Canton Incident]]
-- [[Malay Peninsula]]
+
 - [[Mukim]]
 - [[R.J. Wilkinson]]
-- [[Singapore]]
 - [[Straits Settlements]]
+- [[Malay Peninsula]]
+- [[Great Acheh]]
+- [[Acheh]]
+- [[Hok Canton Incident]]
+- [[Singapore]]
 
 ## Source
-*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 6, footnote p. 81.
