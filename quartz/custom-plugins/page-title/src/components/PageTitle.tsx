@@ -14,7 +14,8 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <h2 class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>
-        <img src={`${baseDir}/static/logo.svg`} alt={title} class="page-title-logo" />
+        <img src={`${baseDir}/static/logo.svg`} alt={title} class="page-title-logo page-title-logo-square" />
+        <img src={`${baseDir}/static/logo-horizontal.svg`} alt={title} class="page-title-logo page-title-logo-horizontal" />
       </a>
     </h2>
   );
@@ -27,9 +28,23 @@ PageTitle.css = `
   font-family: var(--titleFont);
 }
 .page-title-logo {
+  width: auto;
+}
+.page-title-logo-square {
   display: block;
   height: 11rem;
-  width: auto;
+}
+.page-title-logo-horizontal {
+  display: none;
+  height: 3.5rem;
+}
+@media all and (max-width: 800px) {
+  .page-title-logo-square {
+    display: none;
+  }
+  .page-title-logo-horizontal {
+    display: block;
+  }
 }
 `;
 

@@ -52,7 +52,10 @@ var PageTitle = ({ fileData, cfg, displayClass }) => {
   const locale = cfg?.locale ?? "en-US";
   const title = cfg?.pageTitle ?? i18n(locale).propertyDefaults.title;
   const baseDir = pathToRoot(fileData.slug);
-  return /* @__PURE__ */ u2("h2", { class: classNames(displayClass, "page-title"), children: /* @__PURE__ */ u2("a", { href: baseDir, children: /* @__PURE__ */ u2("img", { src: `${baseDir}/static/logo.svg`, alt: title, class: "page-title-logo" }) }) });
+  return /* @__PURE__ */ u2("h2", { class: classNames(displayClass, "page-title"), children: /* @__PURE__ */ u2("a", { href: baseDir, children: [
+    /* @__PURE__ */ u2("img", { src: `${baseDir}/static/logo.svg`, alt: title, class: "page-title-logo page-title-logo-square" }),
+    /* @__PURE__ */ u2("img", { src: `${baseDir}/static/logo-horizontal.svg`, alt: title, class: "page-title-logo page-title-logo-horizontal" })
+  ] }) });
 };
 PageTitle.css = `
 .page-title {
@@ -61,9 +64,23 @@ PageTitle.css = `
   font-family: var(--titleFont);
 }
 .page-title-logo {
+  width: auto;
+}
+.page-title-logo-square {
   display: block;
   height: 11rem;
-  width: auto;
+}
+.page-title-logo-horizontal {
+  display: none;
+  height: 3.5rem;
+}
+@media all and (max-width: 800px) {
+  .page-title-logo-square {
+    display: none;
+  }
+  .page-title-logo-horizontal {
+    display: block;
+  }
 }
 `;
 var PageTitle_default = (() => PageTitle);
