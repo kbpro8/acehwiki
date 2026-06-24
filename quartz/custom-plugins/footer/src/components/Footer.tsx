@@ -30,7 +30,7 @@ export default ((opts?: FooterOptions) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           A permanent knowledge graph project dedicated to documenting Aceh's history.
-          Developed by <a href="https://www.trida.id">Trida Advokasi &amp; Riset</a>, led by{" "}
+          Developed by <a href="https://www.trida.id">TAR</a>, led by{" "}
           <a href="https://github.com/kbpro8">Kbpro8</a>, and powered by{" "}
           <a href="https://github.com">GitHub</a> and{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz{version ? ` v${version}` : ""}</a> &copy;{" "}
