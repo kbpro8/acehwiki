@@ -350,7 +350,7 @@ var Footer_default = ((opts) => {
     return /* @__PURE__ */ u2("footer", { class: `${displayClass ?? ""}`, children: [
       /* @__PURE__ */ u2("p", { children: [
         "A permanent knowledge graph project dedicated to documenting Aceh's history. Developed by ",
-        /* @__PURE__ */ u2("a", { href: "https://www.trida.id", children: "Trida Advokasi & Riset" }),
+        /* @__PURE__ */ u2("a", { href: "https://www.trida.id", children: "TAR" }),
         ", led by ",
         /* @__PURE__ */ u2("a", { href: "https://github.com/kbpro8", children: "Kbpro8" }),
         ", and powered by ",
