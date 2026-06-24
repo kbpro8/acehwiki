@@ -191,7 +191,7 @@
       "source": "./quartz/custom-plugins/page-title",
       "resolved": "/Users/riadihusaini/acehwiki/quartz/custom-plugins/page-title",
       "commit": "local",
-      "installedAt": "2026-06-23T17:17:30.556Z"
+      "installedAt": "2026-06-24T02:42:51.416Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",

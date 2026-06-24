@@ -28,7 +28,7 @@ PageTitle.css = `
 }
 .page-title-logo {
   display: block;
-  height: 2.75rem;
+  height: 11rem;
   width: auto;
 }
 `;
