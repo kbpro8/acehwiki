@@ -30,7 +30,7 @@ The compensation of neglected *salat* was one branch of the wider Achehnese inst
 
 ## Additional account from *The Achehnese*, Vol. I — Pitrah (Zakat al-Fitr)
 
-The **pitrah** (Achehnese, from the Arabic *zakāt al-fiṭr*) was the tax payable at the end of the [[Ramadhan (fasting month)|fasting month]] by all whose means allowed of it, on behalf of themselves and all who were dependent on them for support. Its general character and canonical distribution are described in the article [[Pitrah|Pitrah]]; the present entry treats the pitrah in its relation to the revenues of the [[Uleebalang|uleebalangs]] of [[Acheh|Acheh]], a feature noted by [[C. Snouck Hurgronje|Snouck Hurgronje]] in his account of the emoluments of the territorial chiefs.
+The **pitrah** (Achehnese, from the Arabic *zakāt al-fiṭr*) was the tax payable at the end of the [[Ramadhan (fasting month)|fasting month]] by all whose means allowed of it, on behalf of themselves and all who were dependent on them for support. Its general character and canonical distribution are described above; the present entry treats the pitrah in its relation to the revenues of the [[Uleebalang|uleebalangs]] of [[Acheh|Acheh]], a feature noted by [[C. Snouck Hurgronje|Snouck Hurgronje]] in his account of the emoluments of the territorial chiefs.
 
 ### The uleebalang's sources of profit
 

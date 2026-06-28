@@ -24,7 +24,7 @@ This could not go on for long. As soon as it ceased to be possible for Uma to co
 
 ## Additional account from *The Achehnese*, Vol. I — Submission of Teuku Uma to the Dutch Government
 
-The **submission of [[Teuku Uma]] to the Dutch Government** in [[1893]] marked the moment at which the celebrated Achehnese chief — then at the height of his influence over the [[West Coast]] and one of the three *sagis* of [[Great Acheh]] — formally tendered his submission, asking forgiveness for his past offences. The episode is treated in detail in the [[Submission of Teuku Uma|article on the submission itself]]; the present note records the reference to it which occurs in a footnote at p. 188 of *The Achehnese*, Vol. I, in connection with the public life of the ulama [[Teungku Kutakarang]].
+The **submission of [[Teuku Uma]] to the Dutch Government** in [[1893]] marked the moment at which the celebrated Achehnese chief — then at the height of his influence over the [[West Coast]] and one of the three *sagis* of [[Great Acheh]] — formally tendered his submission, asking forgiveness for his past offences. The episode is treated in detail above; the present note records the reference to it which occurs in a footnote at p. 188 of *The Achehnese*, Vol. I, in connection with the public life of the ulama [[Teungku Kutakarang]].
 
 ### The reference in Vol. I
 
@@ -36,7 +36,7 @@ The acceptance of the submission by the Dutch authorities belongs to the larger 
 
 ### Outcome
 
-The submission, in short, is the prelude to the betrayal; and the death of Teungku Kutakarang in [[1895]], recorded at the same moment, is the symbol of the closing of the heroic age of the ulama-pamphleteers. With the [[Submission of Teuku Uma|main article]] the reader will find a fuller discussion of the political, military, and personal circumstances of the submission; this article is confined to its place in Vol. I's account of the religious propagandists of the resistance.
+The submission, in short, is the prelude to the betrayal; and the death of Teungku Kutakarang in [[1895]], recorded at the same moment, is the symbol of the closing of the heroic age of the ulama-pamphleteers. The account above provides a fuller discussion of the political, military, and personal circumstances of the submission; this section is confined to its place in Vol. I's account of the religious propagandists of the resistance.
 
 ## See Also
 

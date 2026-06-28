@@ -14,7 +14,7 @@ So says the law; but the actual practice in Acheh is that the traweh is a religi
 
 ## Additional account from *The Achehnese*, Vol. I — Traweh Recitations
 
-The **traweh recitations** are the night-long sessions of voluntary prayer and Quran-reading held in the meunasah during the [[Puasa (Ramadhan fasting month)|fasting month]], of which the noisy character became proverbial in Acheh and is repeatedly noted by [[C. Snouck Hurgronje|Snouck Hurgronje]]. The full institution of the *traweh* — the recommended prayer of twenty *rakʾahs* performed nightly after the *ʿIsya* — is described in the article on the [[Traweh|traweh]] itself; the present entry records a particular reference, occurring in a footnote at p. 326 of *The Achehnese*, Vol. I, where the noisy traweh-recitations in the meunasah during the fasting month are cited as one of the standard occasions on which the Achehnese technical expression *keunong teuh* ("he has obtained filth") was applied.
+The **traweh recitations** are the night-long sessions of voluntary prayer and Quran-reading held in the meunasah during the [[Puasa (Ramadhan fasting month)|fasting month]], of which the noisy character became proverbial in Acheh and is repeatedly noted by [[C. Snouck Hurgronje|Snouck Hurgronje]]. The full institution of the *traweh* — the recommended prayer of twenty *rakʾahs* performed nightly after the *ʿIsya* — is described above; the present entry records a particular reference, occurring in a footnote at p. 326 of *The Achehnese*, Vol. I, where the noisy traweh-recitations in the meunasah during the fasting month are cited as one of the standard occasions on which the Achehnese technical expression *keunong teuh* ("he has obtained filth") was applied.
 
 ### The *keunong teuh* usage
 
@@ -30,7 +30,7 @@ The reference also throws light on the position of the teungku. The popular idea
 
 ## Additional account from *The Achehnese*, Vol. I — Traweh Service
 
-The **traweh service** (Achehnese; Arabic *tarāwīḥ*) is the voluntary but recommended night prayer of twenty *rakʾahs* performed in the meunasah during the [[Puasa (Ramadhan fasting month)|fasting month]], after the *ʿIsya* or evening prayer. The full institution is described in the article on the [[Traweh|traweh]] itself; the present entry records the specific reference to the service which occurs at p. 73 of *The Achehnese*, Vol. I, in the chapter on the teungku of the gampong.
+The **traweh service** (Achehnese; Arabic *tarāwīḥ*) is the voluntary but recommended night prayer of twenty *rakʾahs* performed in the meunasah during the [[Puasa (Ramadhan fasting month)|fasting month]], after the *ʿIsya* or evening prayer. The full institution is described above; the present entry records the specific reference to the service which occurs at p. 73 of *The Achehnese*, Vol. I, in the chapter on the teungku of the gampong.
 
 ### The reference in Vol. I
 
