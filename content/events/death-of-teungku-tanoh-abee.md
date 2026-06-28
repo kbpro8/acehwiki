@@ -1,0 +1,32 @@
+---
+title: Death of Teungku Tanoh Abee
+aliases: [Death of Teungku Tanoh Abee, Death of the kali of the XXII Mukims]
+tags: [event, religious, death, 19th-century]
+---
+
+The **death of Teungku Tanoh Abee** in [[1893]] deprived the [[XXII Mukims]] sagi of [[Great Acheh]] of its learned hereditary *kali* (*kali rabon jale*), and marked the close of one of the few lines of genuine hereditary learning in the Achehnese religious establishment. The event is recorded by [[C. Snouck Hurgronje|Snouck Hurgronje]] in a laconic footnote: "He died in 1893". The loss of such a man was significant in a country where, as the survey of kalis shows, true learning was the exception rather than the rule.
+
+## The kali of the XXII Mukims
+
+The *kali rabon jale* of the XXII Mukims, though according to custom he acquired his office by inheritance, was "as a matter of fact a man of learning". As was the Achehnese custom, the late kali was called after the gampong in which he lived — [[Tanoh Abee]] — rather than by a personal name. "By reason of his learning this chief esteemed himself too highly to act as a sort of acolyte of the Panglima of his sagi, and refused to appear at the call of the [[Panglima Polem]]. This powerful uleebalang was thus constrained, when need arose, to seek the help of teungkus of inferior qualifications, while his hereditary kali devoted his time to study and the instruction of his disciples." The chief of those who rendered service in this way to the Panglima Polem was [[Teungku di Lheue]], "an ulama of inferior repute".
+
+## The sheltering of the homicide
+
+Even Teungku Tanoh Abee's reputation, however, did not prevent his harbouring a *bila gob* (a man guilty of homicide, literally "blood-sacrifice of others") who had taken refuge with him. "Even Teungku Tanoh Abee, the learned kali of the XXII Mukims, alluded to above, has for years past harboured a *bila gob*, who has meantime become under his guidance a diligent student of the *kitabs*." The sanctuary given to the homicide is one of the many ways in which the authority of a learned kali could extend beyond the strict limits of his office; the conversion of the refugee into a diligent student of the religious books testifies to the pedagogical vocation that set Teungku Tanoh Abee apart from his contemporaries.
+
+## A rare figure
+
+The contrast between Teungku Tanoh Abee and the other kalis of the late sultanate is sharp. Snouck Hurgronje observes that the kalis of Acheh, in the degenerate period, were often men without learning who depended on the assistance of some learned man of only second or third rank; "in the very smallest duties of his office the kali, like many a teungku meunasah, had to invoke the assistance of some learned man of only second or third rank". Teungku Tanoh Abee was the rare opposite: a kali whose own learning was sufficient to dispense with such assistance, and who could even instruct a homicide in the *kitabs*. His death in [[1893]] was the close of one of the few lines of genuine hereditary learning in the Achehnese religious establishment.
+
+## See Also
+
+- [[Teungku Tanoh Abee]]
+- [[XXII Mukims]]
+- [[Panglima Polem]]
+- [[Tanoh Abee]]
+- [[Teungku di Lheue]]
+- [[Kali]]
+
+## Source
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
