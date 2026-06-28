@@ -1,8 +1,7 @@
 ---
 title: Gampong Jawa
-aliases: [Kampong Jawa]
-tags: [place, aceh-proper, gampong, capital-area]
-description: One of the most important gampongs near Banda Acheh, the location of the most venerated kramat (sacred tomb) in Acheh — the tomb of Teungku Anjong (Sayyid Abu Bakar bin Husain Bil-Faqih).
+aliases: [Kampong Jawa, Gampong Jawa, Gampông Jawa, Java Village, Gampông Java, Gampong Djawa, Kampung Jawa, Gampong Java, Gampong Jawè, The Javanese village of Acheh]
+tags: [place, aceh-proper, gampong, capital-area, ziarah, sacred-site, religious-site, capital, village]
 ---
 
 A village (gampong) within or near the capital of [[Acheh]]. It was inhabited chiefly by Javanese and Malay settlers and traders, as well as foreigners who had settled in [[Acheh]]. Javanese and Malay traders in Gampong Jawa had grown accustomed to using tea and coffee during their sojourn in Arabia or from Achehnese neighbours. During the civil war between Jeumaloy and [[Pochut Muhamat]], Jeumaloy fortified Gampong Jawa (along with [[Peunayong]] and [[Meura'sa]]) as a stronghold; its fall to [[Pochut Muhamat]] was decisive. The tomb of [[Poteu Jeumaloy]] (the Arab claimant to the Achehnese throne) is located in the ancient [[Gampong Kandang]], not far from [[The Dalam]]. The sadati kisah also mentions: 'In Gampong Jawa the heavens are greatly overcast; storms of rain and thunder and lightning come up. Cocoanut trees are cleft in twain.' Habib Abdurrahman (the Habib par excellence) was absent from [[Acheh]] on a voyage to [[Constantinople]] at the outbreak of the Dutch war; upon his return he entered Achehnese soil and assumed a considerable share in the conduct of the war; he also worked on the [[Meuseugit Raya]] after his arrival. The sadati texts also say: 'In Gampong Jawa there are lamps in a row; let us make processions round the tomb of the Prophet.' The Sayyid of the family of Aidarus who lived in Gampong Jawa was revered as a saint even during his lifetime.
@@ -17,7 +16,54 @@ Gampong Jawa was especially significant as the location of the tomb of [[Teungku
 
 The inhabitants of Gampong Jawa and the neighbouring villages near the capital were distinguished by the epithet *banda* ("town-bred" or civilized), as opposed to the *dusön* (country people) of more remote districts. Their language and customs set the tone for all of [[Great Acheh]].
 
+## Expanded account from *The Achehnese*, Vol. I — Gampong Java
+
+**Gampong Java** (Achehnese *gampông Java*, "the Javanese village") is a locality near the capital of [[Acheh|Acheh]] in which, according to Snouck Hurgronje, the holy saint **Sayyid Teungku Anjong** is buried. The shrine of this saint was, in the late nineteenth century, one of the great destinations of parental vows on behalf of sick children, and Gampong Java accordingly takes its place among the minor sacred geographies of [[Great Acheh|Great Acheh]].
+
+### The Saint of Gampong Java
+
+The holy Sayyid Teungku Anjong — a *sayyid* by descent and so a descendant of the Prophet — was reverenced as one of the great saints (*wali* or *keulia*) of Acheh. His shrine at Gampong Java attracted, in Snouck's account, the same class of devotions as were paid at the tomb of the renowned **Teungku di Kuala Abdora'oh** of [[Singkel|Singkel]], the saint whose memory was so powerful that sufferers from every part of the Achehnese territories resorted to it. Both saints were reckoned among the small number whose intercession could be sought on behalf of a child that had not yet been "brought down" — that is, had not yet been ceremonially introduced to the earth by contact with the soil of a holy place.
+
+### The Vow of the First Contact with Earth
+
+Among the popular observances described by Snouck is the parental vow whereby the parents of a sick child promise that, in the event of its recovery, they will not merely bring it to the nearest holy tomb for the *peusijuk* (the inaugural contact with the earth) but will take it on a pilgrimage to the resting-place of one of the great saints of Acheh. The two such saints named are the Teungku di Kuala Abdora'oh of [[Singkel|Singkel]] and the holy Sayyid Teungku Anjong buried in Gampong Java. Where the vow includes the expression of an intention to head the procession with *geundrang* — the two-headed drum of royal and ceremonial music — and the flute, the child is escorted to the sacred spot by a great procession of men and women, cattle are slaughtered, and a feast is given at the tomb.
+
+### The Place of the Gampong in the Sacred Geography
+
+Gampong Java, lying near the capital, was thus one of the principal sacred sites of the immediate hinterland of [[Banda Acheh|Banda-Acheh]]. Its name — the Javanese village — probably records a settlement of Javanese immigrants or of descendants of captives and settlers brought to Acheh from [[Java|Java]] during the period of Achehnese commercial and military expansion in the sixteenth and seventeenth centuries. Such Javanese settlements were common in the suburbs of the Achehnese capital, and the attachment of a *sayyid*'s shrine to one of them is a typical instance of the way in which the sacred geography of Acheh grew up around the tombs of holy men, without reference to the political or commercial origins of the settlements in which they happened to die.
+
+## Expanded account from *The Achehnese*, Vol. I — Gampong Java
+
+**Gampong Java** (Achehnese *gampông Jawà*, "the Javanese village") is a settlement in or near the capital of [[Acheh|Acheh]] celebrated as the burial-place of the great saint [[Sayyid Teungku Anjong|Teungku Anjong]], and consequently one of the most venerated places of pilgrimage in the whole country. Snouck Hurgronje describes it, in his chapter on the saints of Acheh, as the site of the tomb that has "completely outshone the more ancient tomb of [[Teungku di Kuala|Teungku di Kuala Abdora'oh]] (Abdurra'uf of [[Singkel|Singkel]]) which enjoyed the highest reputation in former times."
+
+The saint buried there is [[Sayyid Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]], a sayyid of distinguished descent whose posthumous fame has made the village a focal point of popular religion. So pre-eminent is the sanctity of the spot that, when Achehnese parents make a vow (*nazar*) on behalf of a sick child who has not yet been "brought down" to the earth in the customary rite of first contact, they will undertake — should the child recover — not merely to bring it to the nearest holy tomb, but to conduct it on a pilgrimage to one of the great saints of Acheh, "such as the renowned [[Teungku di Kuala|Teungku di Kuala Abdora'oh]], the saint of [[Singkel]], or the holy [[Sayyid Teungku Anjong|Sayyid Teungku Anjong]] buried in Gampong Java." In such cases the child is escorted to the sacred spot by a great procession of men and women, cattle are slaughtered, and a feast is given at the tomb. Where the vow includes the intention to head the procession with *geundrang* (the twin drums of state), the two drums and the flute are carried before the recovered child.
+
+The name *Java* points to the settlement's origin as a colony of Javanese settlers in the Achehnese capital — a not uncommon feature of the commercial cosmopolitanism of [[Banda Acheh|Banda-Acheh]] in the days of the sultanate. Such ethnic quarters preserved their identity long after the original immigrants had been assimilated, and the name survived even where the Javanese character of the village had become little more than a memory. The presence of so celebrated a saint's tomb in a settlement bearing this name is consistent with the wider pattern, repeatedly noted by Snouck, by which foreign-born holy men — whether Javanese, Arab, or Indian — came to be the principal objects of Achehnese veneration.
+
+An annual *kanduri* is held at the tomb, on the day prescribed by the saint's commemorative calendar, in fulfilment of the vows made by parents throughout the year. The settlement thus participates, alongside [[Ulee Lheue|Ulee Lheue]] (the site of the venerated tomb of [[Teungku Lam Guha|Teungku Lam Guha]]) and other holy places of the country, in the round of popular religion through which the Achehnese at once honour their saints and seek their intercession.
+
+## Expanded account from *The Achehnese*, Vol. I — Gampong Jawa
+
+**Gampong Jawa** is a *gampong* (village) of [[Acheh]] in the neighbourhood of the capital, [[Banda Acheh]], and the site of the most highly honoured tomb in the country, that of the great saint **[[Teungku Anjong]]** (Sayyid Abu Bakar bin Husain Bil-Faqih). It figures in *The Achehnese* Vol. I both as a religious centre of the first rank and as a political example of the compromising tendency that came over certain communities of the lowlands after the establishment of Dutch authority.
+
+The tomb of Teungku Anjong in Gampong Jawa has completely outshone the more ancient tomb of [[Teungku di Kuala]] (Abdora'oh, i.e. Abdurra'uf of Singkel), which had previously enjoyed the highest reputation in Acheh. The annual religious feasts of the Achehnese calendar are intimately connected with this shrine. A specially great *kanduri Mo'lot* is held on the actual Mo'lot day at the tomb, when one or more buffaloes are slaughtered and pieces of meat are sent by the guardian of the tomb to sundry *ulamas*. On the 18th of the month Rajab a second of the three principal annual *kanduris* is held in the *deah* (prayer-house) of the tomb, in honour of the saint's consort, commonly known as **Aja Eseutiri** ("my lady the consort"), a daughter of a Sayyid of the famous Aidid clan, who appears to have died on the 18th of Rajab 1235 (May [[1820]]). The third of the annual *kanduris* takes place on the night before the 14th of the month, dedicated to the saint himself, who according to the Achehnese died on the 14th of the same month.
+
+Snouck Hurgronje's account of Gampong Jawa also bears on the trustworthiness of Achehnese written tradition. The so-called laws of [[Sultan Meukuta Alam]] mention the tomb of Teungku Anjong, although Teungku Anjong (who died in [[1782]]) was not even born in the reign of Meukuta Alam (who died in [[1636]]); the anachronism shows how little reliance can be placed on Achehnese data in respect to the origin of written laws. The general tendency, he notes, is to refer all that has become customary law to the Sultans of the past.
+
+In the political life of the late sultanate and the early Dutch period, Gampong Jawa is cited as a byword for submission. Even the people of [[Meura'sa]] and Gampong Jawa, who had wholly compromised themselves by complete submission, continued to call all Dutch authorities *kafir* and to speak, without the slightest intention to give offence, of the regulations of the *kaphe* — thus in their common talk denying to the Dutch Government the very authority to which they had submitted. Their attitude is contrasted with the more stubborn view of the up-country Achehnese, who held that the estimate of infidels that prevailed in Acheh in ancient times was more reliable than the view taken by the people of Meura'sa, Gampong Jawa and the like, according to which the wisest course would be to submit to the first *kafir* power that came by.
+
+## Expanded account from *The Achehnese*, Vol. I — Gampong Jawa
+
+**Gampong Jawa** (sometimes written **Gampong Java**) was one of the most important **gampongs** or villages of [[Banda Acheh]], the capital of [[Acheh]]. It is named in *The Achehnese* among the chief gampongs which clustered around the [[Dalam (Sultan's Court)|Dalam]] — the Sultan's residence — together with [[Pande]], [[Peunayong]], [[Lam Bhu]], [[Lueng Bata]], [[Lam Seupeu'eng]], [[Ateung]], [[Batoh]] and [[Meura'sa]]. Together with their neighbours, the inhabitants of these villages were distinguished by the epithet **banda** — "town-bred" or "civilized" — and gave the tone to the whole country in matters of custom and dress.
+
+The chief religious importance of Gampong Jawa lay in its being the site of the **tomb of [[Teungku Anjong]]** — properly **[[Sayyid Abu Bakar bin Husain Bil-Faqih]]** — which in the time of Snouck Hurgronje's writing (1891–1892) was "the tomb at present most highly honoured in Acheh." This tomb had completely outshone the more ancient one of [[Teungku di Kuala Abdora'oh|Teungku di Kuala]] (Abdurra'uf of Singkel), which had enjoyed the highest reputation in former times. Votive gifts promised to the Prophet, to the saint [[Mirah Sab]] (or [[Tuan Meurasab]]), or to Teungku Anjong could, the Achehnese held, be validly fulfilled by handing them over to a *teungku* for his own use; all that the latter need do was to recite over the gift the first chapter of the Quran and dedicate the celestial recompense to the saint to whom the vow had been made.
+
+The tomb of Teungku Anjong in Gampong Jawa was the scene of **three annual *kanduris***, which formed part of the cycle of Achehnese religious festivals. One was held on the great day of the [[Maulud (Mo'lot)|Maulud]] (the 12th of Rabi' al-awwal), when one or more buffaloes were slaughtered in the *deah* and pieces of meat were sent to sundry *ulamas* by the guardian of the tomb. Another was held under the month of [[Kanduri Bu]] (Sha'ban). The third, called the **kanduri Teungku Anjong**, was held on the night before the 14th of Ramadhan — the anniversary, according to the Achehnese, of the saint's death on the 14th of Ramadhan 1196 (August [[1782]]). These feasts gave Gampong Jawa a place in the religious calendar of the entire country, comparable only to that of the great festivals of the [[Meuseugit Raya]] and the tombs of [[Teungku di Kuala]] and [[Teungku Kutakarang]].
+
+In the political life of the [[Achehnese War|Dutch war]] the people of Gampong Jawa, like those of neighbouring [[Meura'sa]], were among the first to "compromise themselves by complete submission" to the Dutch. They were the most exposed to the influence of the colonial government, and their example was repeatedly cited by Snouck Hurgronje in discussing the political attitude of the lowland gampongs. Yet even the people of Meura'sa and Gampong Jawa, who had wholly submitted, continued in their common talk to deny to the ruling authority any comparative degree of lawful right, calling all Dutch authorities ***jih*** — a pronoun of contempt — and speaking "without the slightest intention to give offence of the regulations of the *kaphe*" (the infidel). This usage illustrates the tenacity of the Mohammedan contempt for the infidel, even in those villages which had been longest under Dutch influence.
+
 ## See Also
+
 - [[Abdurra'uf of Singkel]]
 - [[Acheh]]
 - [[Banda Acheh]]
@@ -35,8 +81,24 @@ The inhabitants of Gampong Jawa and the neighbouring villages near the capital w
 - [[Sayyid Abu Bakar bin Husain Bil-Faqih]]
 - [[Teungku Anjong]]
 - [[The Dalam]]
+- [[Singkel]]
+- [[Sayyid]]
+- [[Teungku di Kuala Abdora'oh]]
+- [[Sayyid Teungku Anjong]]
+- [[Teungku di Kuala]]
+- [[Ulee Lheue]]
+- [[Teungku Lam Guha]]
+- [[Kanduri]]
+- [[Sultan Meukuta Alam]]
+- [[Lueng Bata]]
+- [[Lam Bhu]]
+- [[Pande]]
+- [[Kanduri T'eungku Anjong]]
+- [[Maulud (Mo'lot)]]
+- [[Achehnese War]]
 
 ## Source
+
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 2, 9, pp. 24, 156.
