@@ -1,6 +1,6 @@
 ---
 title: Banda Acheh
-aliases: [Kuta Raja, Banda Aceh, Koetaradja, Kutaradja, Banda, Banda Acheh, Banda-Acheh, Kutaraja, Bandar Acheh, Acheh capital, Capital of Acheh]
+aliases: [Kuta Raja, Banda Aceh, Koetaradja, Kutaradja, Banda, Banda Acheh, Banda-Acheh, Kutaraja, Bandar Acheh, Acheh capital, Capital of Acheh, Kota Acheh, hoofdplaats Atjeh, Acheen capital]
 tags: [place, aceh-proper, capital, city, coast]
 ---
 
@@ -42,6 +42,27 @@ As a trading-mart, Banda Acheh was the venue of one of the great annual festival
 
 The importance of Banda Acheh as a centre of Mohammadan learning was, in Snouck Hurgronje's view, much exaggerated by writers such as [[T. H. der Kinderen|Mr. Der Kinderen]]. Those who wrote books on theology and law under the wealthy sultans in Banda Acheh were, for the most part, strangers from Arabia and other Muslim lands whose influence outside Acheh was at least as noticeable as within it; the notion of a native school of learning in the capital was largely a legend. With the [[First Dutch attack on Acheh|coming of the Dutch]] in [[1873]] the highlanders were driven back to their mountain fastnesses, the Sultan fled to [[Keumala]], and Banda Acheh became the capital of the territory seized by the Dutch and the base of their operations. After the establishment of the Dutch *linie* or "pale" ([[1884]]–[[1896]]) the city was the seat of the colonial government, and the scenes of religious ceremonial which had formerly taken place around the Dalam — including the great feasts of the [[Maulud (Mo'lot)|Maulud]] and the [[Leubè raya (Hari Raya Puasa / Eid al-Fitr)|Hari Raya]] — could "now be witnessed year by year at Kuta Raja."
 
+## Account from *Raffles' Atjeh-overeenkomst van 1819* — Banda Acheh
+
+**Banda Acheh** — in Van der Kemp's Dutch text usually *de hoofdplaats Atjeh*, "the capital of Acheh" — was the political and commercial centre of the sultanate of [[Acheh]]. Known also by later names such as Kutaraja (the present Banda Aceh), the city stood at the mouth of the [[Acheh River]] on the northern coast of [[Sumatra]], commanding the roadstead where European shipping anchored when visiting the sultanate.
+
+## Political situation in 1819
+
+When the [[Raffles-Coombs Acheh Commission (1819)]] dropped anchor before Banda Acheh on [[14 March]] [[1819]], the city was without a sultan in residence. The deposed [[Sultan Jauhar Alum]] had withdrawn to [[Pedir]], and the upstart [[Sultan Saif ul-Alum]] (Syf) had been driven out to establish his rival court at [[Telok Semawé]]. Effective authority at the capital was exercised, as the Calcutta government reported to London, "in naam door den raad der Sagis, maar in werkelijkheid door [[Panglima Polim]] bijgestaan door zijne aanhangers" — nominally by the council of the [[Three Sagis]], but in reality by Panglima Polim and his adherents.
+
+The three sagis in question — the [[XXII Mukims]], [[XXV Mukims]] and [[XXVI Mukims]] — were the highland and lowland confederacies surrounding the capital, whose chiefs had since the late seventeenth century acted as kingmakers. Panglima Polim, head of the XXII Mukims, was regarded as the foremost among them.
+
+## The commission's stay
+
+The commissioners spent nearly seven weeks on the roadstead of Banda Acheh. [[Sir Thomas Stamford Raffles]] described the visit in a letter from [[Singapore]] to [[Sir Robert Harry Inglis]] dated [[12 June]] [[1819]]: "We remained there (in Atjeh) nearly seven weeks, during the early portion of which we were directly opposed in our polities, but at length after a paper war which actually occupies above a thousand pages of the Company's largest sized paper, he came round to my opinion…". The reception on shore was anything but cordial; the population, suspecting the commission had come to take possession of the country, threw up fortifications at the mouth of the [[Acheh River]] and assumed a hostile posture that Raffles formally complained of to Polim.
+
+[[Captain Coombs]], who had been designated Resident at Acheh, found his reception so discouraging that he was about to leave the place. A circular sent by the commission to the inland chiefs was answered only by Polim, from his own country of the XXII Mukims: the assembly might take place in eight days, but until then the commission was not to land; if it had anything to say, it should address itself to the [[Shahbandar of Acheh]]. After this fruitless sojourn, the commissioners abandoned the capital and sailed for [[Pedir]] to treat with Jauhar Alum, leading to the [[Treaty of Pedir (1819)]] of [[22 April]] [[1819]].
+
+## After 1819
+
+In the years following the treaty, Banda Acheh remained effectively independent of Jauhar Alum. When Governor [[W. E. Phillips|Phillips]] of [[Penang]] urged the sultan to remove from Pedir to the capital, he replied on [[15 April]] [[1822]] that the place had gone to decay, that the houses had been destroyed by Syf, and that to restore it to its former state would require an outlay of 100,000 dollars. He commanded only some 250 men and could not enlist Achehnese. By the date of the [[Three Sagis' letter to Penang (4 December 1822)]] the chiefs of the capital had sworn, on the tomb of [[Teungku Anjong]] at [[Kampong Java]], never to receive Jauhar back. After the sultan's death in [[1823]] the [[Three Sagis]] and the [[Queen-Mother of Acheh|Queen-Mother]] exercised what passed for authority. Robert [[Robert Fullerton|Fullerton]]'s minute of [[21 March]] [[1825]] recorded that "the whole power at Acheen was in the hands of Panglima Polim and at the subordinate ports the respective chiefs had established their independence".
+
+
 ## See Also
 
 - [[Aceh Sultanate]]
@@ -67,9 +88,23 @@ The importance of Banda Acheh as a centre of Mohammadan learning was, in Snouck 
 - [[Keumala]]
 - [[Peunayong]]
 - [[Three Sagis (XXVI, XXV, XXII Mukims)]]
+- [[Acheh River]]
+- [[Three Sagis]]
+- [[XXII Mukims]]
+- [[XXV Mukims]]
+- [[XXVI Mukims]]
+- [[Panglima Polim]]
+- [[Shahbandar of Acheh]]
+- [[Kampong Java]]
+- [[Treaty of Pedir (1819)]]
+- [[Sir Thomas Stamford Raffles]]
+- [[Captain Coombs]]
+- [[Panglima Polim's supremacy at Acheh]]
 
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 2–5, pp. 23–58.
+
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.

@@ -1,7 +1,7 @@
 ---
 title: Penang
-aliases: [Pinang, Prince of Wales Island, Penang, Pulau Pinang, Pulau Penang, Pulo Pinang, Penang Island]
-tags: [place, straits-settlements, british, islands, island, foreign, british-settlement, colonial, coast, settlement]
+aliases: [Pinang, Prince of Wales Island, Penang, Pulau Pinang, Pulau Penang, Pulo Pinang, Penang Island, Poeloe Pinang, Pulo Penang, Prince of Wales' Island]
+tags: [place, straits-settlements, british, islands, island, foreign, british-settlement, colonial, coast, settlement, colony, capital]
 ---
 
 Referenced in the sadati dialogue: 'My desire, brothers, is to go to Pulo Pinang (Penang).' The Hok Canton was a ship 'belonging to Chinese traders in Penang, trading to [[Acheh]] under Dutch colours.' After the ransom affair following the [[Hok Canton Incident]], Achehnese who had been involved found their way to [[Singapore]] and Penang. Penang thus served as both a trading partner and a place of refuge for Achehnese connected to the events of the holy war against the Dutch.
@@ -38,6 +38,29 @@ The Achehnese themselves, in the same chapter, are said to have placed the easte
 
 In a later footnote the translator remarks that "Penang Mohammedans have a superstition that articles of value vowed to [[Tuan Meurasab]] if thrown into the sea at Penang will be washed up in a few months' time close to the shrine at Nagore" on the Coromandel coast — a popular belief linking the island to the cult of that southern Indian saint. The word *mukim*, Snouck Hurgronje adds, has been adopted by "the English Government" in Penang and Province Wellesley "to designate the minor subdivisions of a district for administrative purposes," though in its stricter Achehnese sense it corresponds rather to a group of villages grouped around a central mosque. The English government of Pulau Pinang thus preserved, in colonial administrative vocabulary, a legacy of the Achehnese political geography it had replaced.
 
+## Account from *Raffles' Atjeh-overeenkomst van 1819* — Penang
+
+**Penang** (Dutch *Pinang*; Malay *Pulo Pinang*; officially, in the early nineteenth century, *Prince of Wales Island*) is an island off the west coast of the [[Malay Peninsula]] which in [[1786]] was ceded to the British East India Company by the [[Raja of Quedah]] and became, for nearly half a century, the principal British settlement east of [[Bengal]] and the political and commercial base from which the relations with [[Acheh]] were conducted. Van der Kemp's article is, in no small part, the history of how the government of Penang came to be drawn into the Achehnese succession dispute, and of how its differences with [[Sir Thomas Stamford Raffles|Raffles]] over the conduct of that dispute conditioned the [[Acheh treaty of 1819]].
+
+## Foundation
+
+In the same year [[1786]] in which the Achehnese sultan [[Sultan Ziemul Abudeen|Sultan Munson]] addressed his dismissive letter to [[Warren Hastings]], Captain [[Captain Francis Light|Francis Light]] "Deva Rajah" concluded with the Raja of [[Kedah|Quedah]] an agreement ceding Pulo Penang to the British for an annual rent of 10,000 dollars. Light, as Van der Kemp records, judged Penang "more healthy and entire free from that oppression, war and confusion which however distressed and at length driven out every European nation who has attempted to settle" at [[Acheh]]. The superintendence of political relations over Acheh was from the outset entrusted to the government of Penang, and the early years of the new settlement were "eene lijdensgeschiedenis" — a passion story — during which the idea of abandoning the island for some other station was repeatedly canvassed, though always rejected.
+
+## The succession dispute and the Raffles–Coombs commission
+
+By the time [[Sultan Jauhar Alum]] had been driven to [[Pedir]] and [[Sultan Saif ul-Alum|Syf]] to [[Telok Semawé]], Penang was deeply involved in the Achehnese succession. The Penang-based merchant [[Said Hussein]] had equipped the expedition that placed his son Syf on the throne in [[1815]], and the government of the island had to decide which of the rival claimants to recognise. [[Captain Coombs]]'s [[Captain Coombs' first Acheh mission (1817-1818)|first mission of 1817–1818]] concluded that Syf was the recognised sultan, a view that brought Coombs and Governor [[Colonel John Alexander Bannerman|Bannerman]] into direct conflict with Raffles of [[Bencoolen]], who favoured Jauhar Alum. The [[Raffles-Coombs Acheh Commission (1819)|joint commission]] was organised from Penang in early [[1819]]; the proceedings opened there with disputes over troops, artillery and the order of ports to be visited, and culminated in Raffles's sudden departure on the [[Raffles' detour to Karimon Islands|Karimon detour]] — the foundation of [[Singapore]] — without a word of farewell to either Bannerman or Coombs.
+
+Penang's governor, [[Colonel John Alexander Bannerman|Bannerman]], died on [[8 August]] [[1819]] — the [[Death of Bannerman]] — and was succeeded by [[W. E. Phillips]]. Under Phillips the island's government continued to nurse the [[Acheh treaty of 1819]], sending circulars to the mukims and receiving the [[Three Sagis' letter to Penang (4 December 1822)|defiant letter of 4 December 1822]]. It was also at Penang that the ex-sultan Syf lived out his days on his pension (the [[Syf's pension at Penang]]), and from Penang that [[John Anderson]] conducted the lengthy correspondence with the [[Sultan of Deli]] and [[Said Akil]] that marks the [[Said Akil's Deli adventure (1824-1828)]].
+
+## The Wilhelmina and Lucas affairs
+
+The *Wilhelmina* affair and the [[Lucas mission to Telok Semawé (February 1821)|Lucas mission]] showed Penang in a less heroic light. The island's government, when appealed to by the Dutch governor of [[Malacca]] [[Timmerman Thyssen]], declined to permit Colonel [[Colonel E. Lucas|Lucas]] to proceed against [[Telok Semawé]], reasoning that Syf had exercised sovereign authority there and that the port would be "the last to acknowledge" [[Sultan Jauhar Alum]]. The island's secretary [[W. A. Clubley|Clubley]] formally refused a fresh examination; the Dutch *Irene* returned empty. Van der Kemp treats this as a typical episode of the "paper war" between the British and Dutch settlements in the Malay world.
+
+## Strategic position after 1824
+
+After the [[Anglo-Dutch Treaty of London (1824)|treaty of London of 17 March 1824]], which exchanged Malacca for Benkoelen and ceded Singapore to Britain, Penang retained its supervisory role over the northern Sumatran coast. [[Robert Fullerton|Fullerton]]'s minute of [[21 March]] [[1825]] on the Acheh situation — the [[Fullerton's minute on Acheh (21 March 1825)]] — was drawn up for the Bengal government at Penang. The island's trade benefited from the disintegration of central authority in [[Acheh]]: as Fullerton observed, the more ports were independent of the sultan, the more the trade of Penang flourished. The [[Pinang Nota (1825)]] and the [[Dutch Salt Price Reduction]] of the late 1820s show Penang's continuing preoccupation with the commerce of [[Sumatra's East Coast]] and with the competition of [[Singapore]] itself, which under [[John Prince]] and [[Robert Fullerton|Fullerton]] rapidly eclipsed the older settlement.
+
+
 ## See Also
 
 - [[Mukim]]
@@ -64,7 +87,28 @@ In a later footnote the translator remarks that "Penang Mohammedans have a super
 - [[Tamiang]]
 - [[Netherlands India]]
 - [[A.W.S. O'Sullivan]]
+- [[Banda Acheh]]
+- [[Bencoolen]]
+- [[Colonel John Alexander Bannerman]]
+- [[W. E. Phillips]]
+- [[Robert Fullerton]]
+- [[W. A. Clubley]]
+- [[R. Ibbetson]]
+- [[John Anderson]]
+- [[Said Hussein]]
+- [[Sultan Saif ul-Alum]]
+- [[Said Akil]]
+- [[Treaty of Quedah (Penang cession, 1786)]]
+- [[Raffles-Coombs Acheh Commission (1819)]]
+- [[Syf's pension at Penang]]
+- [[Lucas mission to Telok Semawé (February 1821)]]
+- [[Fullerton's minute on Acheh (21 March 1825)]]
+- [[Pinang Nota (1825)]]
+- [[Bellona mission to Sumatra's East Coast (1827-1828)]]
+- [[Dutch Salt Price Reduction]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 6, footnote p. 81.
+
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
