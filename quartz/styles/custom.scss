@@ -1,3 +1,44 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Folder & tag listing pages (concept, events, people, places, years, tags/*):
+// show each entry's tags under its title instead of in a separate right-hand
+// grid column, and keep them visible at all viewport widths. Overrides the
+// upstream folder-page/tag-page plugin CSS, which is re-fetched fresh from
+// GitHub on every build and so can't be patched at the source.
+.section-li > .section {
+  display: grid !important;
+  grid-template-columns: fit-content(8em) 1fr !important;
+  grid-template-areas:
+    "meta desc"
+    "meta tags" !important;
+  column-gap: 1em;
+  align-items: start;
+
+  > .meta {
+    grid-area: meta;
+    margin: 0;
+    opacity: 0.6;
+  }
+
+  > .desc {
+    grid-area: desc;
+
+    > h3 > a {
+      background-color: transparent;
+    }
+  }
+
+  > .tags {
+    grid-area: tags !important;
+    display: block !important;
+    margin: 0.3em 0 0 0 !important;
+  }
+}
+
+// Higher specificity than the rule above, so tags stay hidden inside
+// link-preview popovers regardless of cascade order.
+.popover .section-li > .section > .tags {
+  display: none !important;
+}
