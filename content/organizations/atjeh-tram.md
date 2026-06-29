@@ -1,0 +1,46 @@
+---
+title: Atjeh-tram
+aliases: [Atjeh-tram, Atjeh Tramway, Atjehsche tram, Atjeh train, Dienst der S.S.]
+tags: [organization, colonial, dutch, railway, infrastructure]
+---
+**The Atjeh-tram** was the military-origin tramway of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] that, by [[1917]], had become the principal transport artery of the *gewest* — connecting [[Koeta Radja|Koeta Radja]] and [[Oelèë Lheuë|Oelèë Lheuë]] with Indragiri and Seulimeum and, beyond the Goudberg-hoogvlakte, with the principal bevolkings-centra of the Noord- and Oostkust as far as [[Koeala Simpang|Koeala Simpang]] and [[Besitang|Besitang]]. Operated as the *Dienst der S.S.* (Staatsspoorwegen) under the Department van Gouvernements-Bedrijven, the Atjeh-tram had, *De Buitenbezittingen* records, "haar militaire rol reeds geheel losgelaten" — already entirely shed its military role — and now possessed "in de voornaamste plaats economische beteekenis."
+
+## Origins and the military role
+
+The Atjeh-tram originated as a military line, built to support the operations of the [[Aceh War|Aceh War]] that had begun with [[J. L. J. H. Pel|J. L. J. H. Pel]]'s expedition of [[1874]]. Its initial trackage — the line from [[Koeta Radja|Koeta Radja]] through Indrapoeri to Seulimeum, and onward across the Goudberg to the Noordkust — supplied the *bivakken* and *militaire posten* by which the successive Civil and Military Governors, from [[Joannes Benedictus van Heutsz|van Heutsz]] onward, enforced the subjection of the *oelèëbalangschappen* of Groot-Atjeh. *De Buitenbezittingen* refers the reader to its earlier, fuller account in *Deel I* of the work for the *uitgebreid overzicht omtrent de ontwikkeling van de Atjeh-tram*.
+
+## From military to economic instrument
+
+The transition from military to civilian role was the work of the *pacificatie* under [[H. N. A. Swart|Swart]], whose *verzoenende en vertrouwenwekkende politiek* after [[1908]] allowed the extension of the line into regions where no *bivak* had stood. The crucial southern extensions followed: "Tusschen [[1910]]–[[1912]] werd het baanvak [[Langsa|Langsa]]–[[Koeala Simpang|Koeala Simpang]] aangelegd, terwijl pas in [[1913]] de doortrekking van [[Koeala Simpang|Koeala Simpang]] naar [[Besitang|Besitang]] werd aangevangen." Beyond Besitang, the projected extension to [[Pangkalan Soesoeh|Pangkalan Soesoeh]] on the [[Aroebaai|Aroebaai]] — which had recently been chosen in preference to Telok Taboehan as the line's terminus — was "reeds ver gevorderd." The *Deli-tram*, the [[Deli Spoorweg Maatschappij|Deli Spoorweg Maatschappij]], was simultaneously to begin construction of a line from [[Pangkalan Brandan|Pangkalan Brandan]] to Besitang, "zoodat over enkele jaren de Deli-Atjeh-aansluiting eindelijk tot stand zal zijn gekomen."
+
+## Length, traffic, and exploitation
+
+The exploitation-statistics tabulated in *De Buitenbezittingen* show a steady growth in length and traffic. The *lengte in K.M.* rose from 432 in [[1911]] to 460 in [[1912]], 465 in [[1913]], 471 in [[1914]], and 478 in [[1915]]; the *aanlegkapitaal* from ƒ17,544,000 to ƒ20,049,000. *Opbrengst reizigers* grew from ƒ473,000 to ƒ589,000; *vrachtgoederen* from ƒ198,000 to ƒ286,000; the *totaal opbrengst* from ƒ704,000 to ƒ925,000. The *exploitatiekosten* overtook income in [[1915]] (ƒ950,000 against ƒ925,000), so that the *netto-inkomsten* fell to a deficit of ƒ25,000 — the first negative year after the modest surpluses of [[1911]]–[[1914]]. The number of *reizigers* carried grew from 1,986,000 to 3,035,000; *vrachtgoed* from 103,000 to 120,000 tonnen.
+
+## The Sigli ateliers
+
+The great *ateliers* of the Atjeh-tram at [[Sigli|Sigli]], where "± 270 Inlanders en Chineezen geregeld werkzaam zijn," performed — for want of any other repair-establishment — much work for *particulieren* in the surrounding *afdeeling*. The ateliers served as a *vak-onderricht* school: the *goede resultaten* of this training, *De Buitenbezittingen* notes, "wijzen op eene werkelijke geschiktheid van den Atjeher voor ambachts-opleiding." An ijsfabriek at [[Koeta Radja|Koeta Radja]] was likewise operated under Atjeh-tram beheer.
+
+## Significance
+
+The completion of the Deli-Atjeh-aansluiting, *De Buitenbezittingen* predicted, would be "vooral voor Atjeh's Oostkust een grooten stap naar verdere ontwikkeling," particularly once the haven-installations at [[Pangkalan Soesoeh|Pangkalan Soesoeh]] were brought to completion. The line, with its subsidised tariffs for *peper, rijst en klappers* and its payments in kind to the *atjehsche* peper-planters — the Company paying them, on top of the purchase-price, "nog f 0.10 uit" per *pikol* — had become the principal carrier of the *bevolkingscultures* on which the *gewest*'s economy now rested.
+
+## See Also
+
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[H. N. A. Swart]]
+- [[Joannes Benedictus van Heutsz]]
+- [[J. L. J. H. Pel]]
+- [[Aceh War]]
+- [[Koeta Radja]]
+- [[Oelèë Lheuë]]
+- [[Sigli]]
+- [[Langsa]]
+- [[Koeala Simpang]]
+- [[Besitang]]
+- [[Pangkalan Soesoeh]]
+- [[Deli Spoorweg Maatschappij]]
+
+## Source
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 20–25, 181, 234–235, 242.

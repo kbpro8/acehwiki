@@ -1,7 +1,7 @@
 ---
 title: Teuku Uma
-aliases: [Teuku Umar, Juhan Pahlawan, Teuku Unia, Uma]
-tags: [person, warrior, panglima, war-leader, west-coast]
+aliases: [Teuku Umar, Juhan Pahlawan, Teuku Unia, Uma, T. Oemar, Toekoe Oemar]
+tags: [person, warrior, panglima, war-leader, west-coast, achehnese, military, resistance]
 ---
 
 The most colorful figure of the later Aceh War, a "priman" (freeman) without office or territory who led attacks in the IV Mukims. He staged a sensational apparent submission to the Dutch, obtaining money and a man-of-war before his followers attacked its crew. His followers' seizure of the steamer Hok Canton in [[1886]], taking Mrs. Hansen and John Fay hostage, is described in detail in the Hikayat Prang Gompeuni. He later became master of Krueng Sabe and met ceremonially with Teungku Tiro, declaring fealty both knew to be a polite fiction.
@@ -20,7 +20,21 @@ Snouck Hurgronje classifies Teuku Uma as the type of the energetic adventurer wh
 
 The Uma episode, "however melancholy in itself," indirectly exercised a healthy influence on the management of Achehnese affairs. Its termination opened all eyes to the need for vigorous action, and in [[1896]] the war against the Achehnese, suspended without real gain since [[1881]], was resumed. Under [[Governor Van Heutsz]] from [[1898]] onwards, the subjugation of the country was methodically pursued to its end.
 
+## Account from *De Buitenbezittingen* (1917) — Teukoe Oemar
+
+**Teukoe Oemar** was an [[Atjehers|Acehnese]] chieftain whose death in battle near [[Meulabôh|Meulabôh]] is commemorated by a monument on the West Coast, mentioned in *De Buitenbezittingen* in the legend to one of its plates: "Monumentje op de plek, waar Toekoe Oemar sneuvelde; nabij Meulabôh." His fall — *sneuvelde*, the Dutch military vocabulary's term for a soldier killed in action — marked a turning point in the pacification of the West Coast, where his shifting allegiances and military capability had made him one of the most formidable Acehnese leaders of the late-nineteenth-century war.
+
+## The West Coast theatre
+
+The West Coast of Atjeh, which Meulabôh commands, was throughout the [[Aceh War|Atjeh-krijg]] a critical theatre. Its maze of estuaries, swamps, and forested foothills made it both a corridor for arms and supplies from the overwal — the Malay peninsula, especially [[Penang]] — and a refuge for *onverzoenlijken* (irreconcilables) driven out of the [[Groot-Atjeh|Groot-Atjeh]] plain. The *kustvaart* (coasting trade) that supplied the interior also supplied the resistance; the Dutch response, in the years after [[1874]], was a blockade that closed the harbours one by one and concentrated what trade remained at [[Oelèë Lheuë|Oelèë Lheuë]] and [[Koeta Radja|Koeta Radja]].
+
+## The monument near Meulabôh
+
+The plate in *De Buitenbezittingen* shows the landscape of the West Coast from Seudoe northward, with the *Glé Radja*, the cape of *O. Masam Moeka* (the Aceh Head), and the islands of *P. Breuë* in the background; in the foreground stands the small monument that marks the spot where Teukoe Oemar fell. The choice to commemorate his death in this way — and to publish the image in an official handbook — reflects the Dutch respect for a formidable adversary and the symbolic importance they attached to the place where he was killed. His elimination removed one of the last effective chieftains of the West Coast and opened the region to the administrative consolidation described in the handbook's chapter on the *Onderhoorigheden*.
+
+
 ## See Also
+
 - [[Daya]]
 - [[General Deykerhoff]]
 - [[Governor Van Heutsz]]
@@ -38,8 +52,21 @@ The Uma episode, "however melancholy in itself," indirectly exercised a healthy 
 - [[VI Mukims]]
 - [[West Coast (of Acheh)]]
 - [[XXV Mukims]]
+- [[Aceh War]]
+- [[Meulabôh]]
+- [[Westkust van Atjeh]]
+- [[Glé Radja]]
+- [[O. Masam Moeka]]
+- [[P. Breuë]]
+- [[Oelèë Lheuë]]
+- [[Koeta Radja]]
+- [[Penang]]
+- [[1874]]
 
 ## Source
+
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), Plate 4, Fig. 2 (caption: "Monumentje op de plek, waar Toekoe Oemar sneuvelde; nabij Meulabôh").

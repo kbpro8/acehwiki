@@ -1,7 +1,7 @@
 ---
 title: Singkel
-aliases: [Singkil, Singkél]
-tags: [place, north-east-coast, west-coast, region, slaves, batak, holy-site]
+aliases: [Singkil, Singkél, Singkel, Beneden-Singkel, Boven-Singkel, Oeloe Singkel]
+tags: [place, north-east-coast, west-coast, region, slaves, batak, holy-site, onderafdeeling, westkust, colonial]
 ---
 
 A port and territory at the southern extreme of the West Coast, marking the boundary of [[Acheh]]. 'Beginning at Padang right up to Singkel, all tribute is raised for the King of Holland.' (sadati dialogue). [[Abdurra'uf of Singkel]], the great saint Teungku di Kuala, came from Singkel; his family name ('of Singkel') appears in the salasilahs. The hikayat Banta Beuransah (a romance) describes the war waged by Beuransah against [[China]]: 'the poet makes him touch successively at almost all the harbours of the East, West and North Coasts of [[Acheh]] and its dependencies, and finally arrive in [[Aramiah]] at the source of the river of Singke (Singkel).'
@@ -24,6 +24,23 @@ When a child is to be brought into first contact with the earth, Snouck notes th
 
 The two faces of Singkel in Vol. I — a south-coast source of Batak bondsmen and the home of one of the most revered saints in the Achehnese calendar — together reflect the ambivalent position of this distant land in the Achehnese imagination: a frontier both of unfree labour and of Sufi sanctity, lying at the southern limit of the sultanate's effective influence.
 
+## Account from *De Buitenbezittingen* (1917) — Singkel
+
+**Singkel** was the onderafdeeling at the southern extremity of the [[Afdeeling Westkust van Atjeh|Afdeeling Westkust van Atjeh]] — the territory about the mouth of the Singkel River whose *bong-stelsel* had, for centuries, made the native chiefs of the coast the obligatory intermediaries in the trade between the [[Alaslanden|Alassers]] of the interior and the outside world. *De Buitenbezittingen* describes Singkel as the one onderafdeeling of the Westkust whose direct-rule districts had been transferred, in [[1905]], from the *residentie* of Tapanoeli to the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]], and as the gateway through which Dutch administration was, after that date, extended into the upper Singkel basin.
+
+## The four districts and the landschap Trumën
+
+The onderafdeeling Singkel consisted, by [[1917]], of the indirect-bestuurd *landschap* [[Trumën|Trumën]] and four *rechtstreeks bestuurd* districts: the Banjak-eilanden, Beneden-Singkel, Simpang kanan, and Simpang kiri. Until [[1905]] (St. No. 449) the rechtstreeks bestuurd gebied had belonged to the *residentie* Tapanoeli; Trumën, from [[1881]] to [[1902]], had also been part of Tapanoeli, before and after which it was assigned to the onderafdeeling Tapaʼ Toean until its [[1905]] union with Singkel as a separate onderafdeeling of the Gouvernement Atjeh en Onderhoorigheden. Beneden-Singkel had stood under Dutch direct rule since [[1840]] and originally comprised seven districts under bezoldigde districtshoofden; these were later consolidated into the four onderdistricts of Nieuw-Singkel, Pajaci Boemboeng, Rantau Gedang, and Telok Amboeng.
+
+## The rijkje Singkel and the datoe nan berampat
+
+In the early nineteenth century the four onderdistricts of Beneden-Singkel formed together the *rijkje Singkel*, "ontstaan uit eenige Atjehsche nederzettingen aan de monding der Singkelrivier." Its vorst appointed *Keuthjïʼs* in the bovenstreken at Pajaci Boemboeng, Telok Amboeng, Rantau Gedang, and Tandjong Baroe, who together formed a Rijksraad, the *berampat*, presided over by the *datoe Irian*. After the Dutch vestiging at Singkel in [[1840]] these were treated as *zelfstandige hoofden*; the vereniging of the small landschapjes into a single district "waarbij Rantau Gedang en Tandjoeng Baroe samengevoegd werden" restored the original onderhoorigheid. The bevolking of boven-Singkel and of the boven-streken of Beneden-Singkel was of *Pak-Paksche* origin, governed by the *marga*-verband described in the *Batakspiegel* and the *Nota-Ypes*.
+
+## The bong-stelsel and the Alasweg
+
+Before the Dutch arrival, *De Buitenbezittingen* explains, the Alas-vallei had been accessible only by the difficult voetpad up the Simpang Kiri (Singkel River), and the entire handelsverkeer — zout and katoentjes upward, boschproducten downward — had moved along it. The Singkelsche hoofden maintained a forced mediation, the *bong-bong-stelsel*: the Alassers brought their goods to *pangkalans*, the controle-vestigingen of the hoofden where the river became bevaarbaar, where they received in exchange boschproducten and — above all — opium. Handelaren were not admitted above, nor Singkeleezen to the coast. "De hoofden uit de laagvlakte hadden het dus volkomen in hun macht, de prijs der Alassche producten naar willekeur te bepalen." The opening of the [[Alasweg|Alasweg]] from [[Kota Tjane|Kota Tjane]] to Kaban Djahe, and its connection to the wegennet of the Oostkust of Sumatra, broke this dependence and "bracht met het wegennet der Oostkust van Sumatra … een einde aan de schadelijke en onderdrukkende werking van dit ouderwetsche ruilsysteem."
+
+
 ## See Also
 
 - [[Abdurra'uf of Singkel]]
@@ -33,7 +50,21 @@ The two faces of Singkel in Vol. I — a south-coast source of Batak bondsmen an
 - [[Gampong Jawa]]
 - [[Teungku di Kuala]]
 - [[Teungku Anjong]]
+- [[Meulabôh]]
+- [[Tjalang]]
+- [[Trumën]]
+- [[Alaslanden]]
+- [[Alasweg]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Nota-Ypes]]
+- [[1840]]
+- [[1881]]
+- [[1902]]
+- [[1905]]
+- [[1917]]
 
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 11, 22–23, 25, 38, 60–63, 216.

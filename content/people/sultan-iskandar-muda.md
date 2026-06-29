@@ -1,7 +1,7 @@
 ---
 title: Sultan Iskandar Muda
-aliases: [Iskandar Muda, Eseukanda Muda, Perkasa Alam, Meukuta Alam, Sultan Meukuta Alam, the great Meukuta Alam]
-tags: [person, sultanate, golden-era, sultan, historical-figure, 17th-century, legendary]
+aliases: [Iskandar Muda, Eseukanda Muda, Perkasa Alam, Meukuta Alam, Sultan Meukuta Alam, the great Meukuta Alam, Sultan Iskandar Moeda, Sultan of Atjeh in the 17th century]
+tags: [person, sultanate, golden-era, sultan, historical-figure, 17th-century, legendary, achehnese, precolonial]
 ---
 
 The most famous Sultan of Acheh, posthumously known as Meukuta Alam ("Crown of the World"), who reigned [[1607]]-[[1636]]. His conquests included Johor ([[1613]]) and Pahang ([[1618]]), and he made several attempts to drive the Portuguese from Malacca, culminating in his most celebrated naval expedition in [[1628]] with a fleet of enormous proportions.
@@ -28,7 +28,25 @@ Snouck dismisses this tradition — of which there are also other versions less 
 
 Meukuta Alam appears, *par excellence* the prince of old Acheh, on the [[Sarakata with chab sikureu'eng|ninefold seal]] (*chab sikureu'eng*) of the sultans. The choice of the eight names inscribed in the circular spaces surrounding the central name rests with the reigning sultan; but "those of Eseukanda Muda (Meukuta Alam), *par excellence* the prince of old Acheh, and of the immediate predecessors of the reigning king are never omitted, but great freedom of choice is shown as regards the rest." His mediation is also invoked in the formal preambles of royal letters patent, alongside that of [[Sultan Tajul-alam|Tajul-alam Sapiatodin]], [[Sultan Ahmat Shah|Alaedin Ahmat Shah]] and others.
 
+## Account from *De Buitenbezittingen* (1917) — Sultan Iskandar Muda of Atjeh
+
+**Sultan Iskandar Muda** was the seventeenth-century [[Sultans of Atjeh|Sultan of Atjeh]] under whose reign the Atjehsse Sultanate reached the greatest extent of its political domination over northern Sumatra, projecting its power along the East Coast to the borders of [[Siak|Siak]] and reducing the coast-statelets that had emerged from the half-mythical Batak kingdom of [[Aroe|Aroe]]. *De Buitenbezittingen* credits him with having, "in de 17de eeuw," imposed Acehnese supremacy on every coast-state of the eastern seaboard — the same supremacy that, "met afwisselend geluk," was maintained until the [[1850s]], when Dutch intervention finally brought it to an end.
+
+## Empire and vassalage
+
+The pattern Iskandar Muda established — a [[Sultans of Atjeh|Sultan of Atjeh]] in [[Koeta Radja|Koeta Radja]] asserting vague suzerainty over a constellation of self-governing coast-statelets — shaped the political geography of northern Sumatra for two and a half centuries. The Sultans appointed *stedehouders* (lieutenants, equivalent to [[Oelèëbalang|oelèëbalangs]]) and, more significantly, *Sjahbandars* — harbour-kings and customs-collectors — in the ports they claimed. With the decay of the great Sultanate, these vassal states broke away, the lieutenants and Sjahbandars made themselves independent, and the small *landschapjes* of the North, East, and West Coasts that the Dutch encountered on their arrival came into being. Even so, the [[Sultans of Atjeh|Sultan's]] court at [[Koeta Radja|Koeta Radja]] continued to issue *[[Sarakata|sarakata]]'s* — letters of appointment — to chiefs who would pay homage or tribute, and these documents remained prized as "ornament," as tangible proof of legitimacy, long after their practical force had evaporated.
+
+## Toponymic and institutional traces
+
+Iskandar Muda's reach is recorded in the political vocabulary of the territory the Dutch inherited. The [[Kawaj XVI|Kawaj XVI]] — the sixteen-chieftain federation on the West Coast — originated in a delegation of sixteen chiefs from the Meulabôh region who, "in het jaar 1185 Moh. tijdr. (± [[1760]] n. Chr.)," made their appearance at the Sultan's court to receive *sarakata*'s and to be placed under a *Keudjeuroeën Tjhï'* as the Sultan's customs-collector. The [[Kawaj XII|Kawaj XII]] of the Pedir highlands similarly commemorates the twelve gold-seeker settlements that paid the Sultan an annual *boengkaj* of gold dust. Both institutions perpetuated, in fossilised form, the apparatus of Iskandar Muda's empire.
+
+## The Alas connection
+
+The Sultanate's reach into the [[Alaslanden|Alaslanden]] is also associated with Iskandar Muda's epoch. The [[Radja Tjèq|Radja Tjèq]] of [[Batoe Mboelan|Batoe Mboelan]] — the *roi fainéant* whom the Dutch encountered in [[1904]] — claimed his authority by descent from a Sultan's appointee, and the *bawar* (regalia) of the [[Gajoland|Gayo]] *Kédjoerön Boekét* were said to have been bestowed on the legendary progenitor *Saëda* by the Sultan of Atjeh himself. These traditions, whether historically grounded or retroactively constructed, anchored the political legitimacy of the interior chiefs in the authority of the Sultanate Iskandar Muda had built.
+
+
 ## See Also
+
 - [[Acheh]]
 - [[Adat Meukuta Alam]]
 - [[Hikayat Malem Dagang]]
@@ -41,8 +59,22 @@ Meukuta Alam appears, *par excellence* the prince of old Acheh, on the [[Sarakat
 - [[Si Ujut]]
 - [[Sultan Meukuta Alam]]
 - [[Sultan Sayyidi al-Mukamnal]]
+- [[Sultans of Atjeh]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Aroe]]
+- [[Sarakata]]
+- [[Kawaj XVI]]
+- [[Kawaj XII]]
+- [[Radja Tjèq]]
+- [[Saëda (Gayo progenitor)]]
+- [[Koeta Radja]]
+- [[1760]]
+- [[1904]]
 
 ## Source
+
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 30–31, 47–48, 54–55, 96–97, 121.

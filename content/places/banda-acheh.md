@@ -1,7 +1,7 @@
 ---
 title: Banda Acheh
-aliases: [Kuta Raja, Banda Aceh, Koetaradja, Kutaradja, Banda, Banda Acheh, Banda-Acheh, Kutaraja, Bandar Acheh, Acheh capital, Capital of Acheh, Kota Acheh, hoofdplaats Atjeh, Acheen capital]
-tags: [place, aceh-proper, capital, city, coast]
+aliases: [Kuta Raja, Banda Aceh, Koetaradja, Kutaradja, Banda, Banda Acheh, Banda-Acheh, Kutaraja, Bandar Acheh, Acheh capital, Capital of Acheh, Kota Acheh, hoofdplaats Atjeh, Acheen capital, Koeta Radja, Kota Raja]
+tags: [place, aceh-proper, capital, city, coast, achehnese, colonial]
 ---
 
 The capital city. The Dutch established their administrative seat here under the name [[Kutaraja]] ('King's Fort'). Europeans at [[Kutaraja]] incorrectly named [[The Gunongan]] 'Kotta Pechut' (should be 'Kuta Pochut'). The city contained the royal [[The Dalam]], the [[Meuseugit Raya]] (Great Mosque), [[The Gunongan]] pleasure building, [[Gampong Jawa]], and numerous saints' tombs. The capital was the centre of royal power, religious controversy, trade, and literary activity. [[The Dalam]] (Royal Palace and Enclosure) The royal residence and fortified enclosure at the capital of [[Acheh]]. [[The Dalam]] contained the Sultan's court, audience hall, and living quarters. It was the scene of councils, royal installations, and political drama. During Jeumaloy's conflict with [[Pochut Muhamat]], Jeumaloy fortified [[The Dalam]] and eventually fled from it disguised in women's clothing. After the Dutch conquest, the Sultan fled from [[The Dalam]], first to [[Lueng Bata]] and then to [[Lam Teungoh]]. The Kandang Poteu (royal tombs) inside [[The Dalam]] have been roofed over by the Dutch government. A great bell believed to be from the legendary ship Chakra Donya hangs near the Governor's house at [[Kutaraja]]. The Pinto Khob — the low vaulted gate at the back of [[The Dalam]] through which in former times none but royalties might enter — gives evidence of the same style of masonry observable in the royal tombs. When a salvo of seven guns was fired in [[The Dalam]], four were let off at the great gate (Pinto Raya) and three near the back gate (Pinto Khob). [[The Gunongan]] A unique architectural structure standing behind [[The Dalam]] at [[Kutaraja]], of which numerous representations have been published. Its origin and purpose remain unexplained except by a legend resembling that of Nebuchadnezzar's hanging gardens. The story holds that a prince of [[Acheh]], to gratify his highland consort who was homesick for the mountains of her native land, had this artificial hill erected and a pleasure ground laid out around it. The place is known to the Achehnese as Taman ('pleasure ground'), suggesting it was formerly surrounded by a garden. In the latter days before the Dutch occupation, the building served as a place of recreation for the royal household, especially the women, who sat on the topmost terrace to enjoy the view. In the sadati dialogue, [[The Gunongan]] is mentioned: 'what is the form of the summit of [[The Gunongan]]? Its summit is of a truth exceeding beautiful; the king goes thither on horseback.' [[The Gunongan]] is thus confirmed as a real building of the royal capital that figures in popular knowledge and poetry.
@@ -62,6 +62,22 @@ The commissioners spent nearly seven weeks on the roadstead of Banda Acheh. [[Si
 
 In the years following the treaty, Banda Acheh remained effectively independent of Jauhar Alum. When Governor [[W. E. Phillips|Phillips]] of [[Penang]] urged the sultan to remove from Pedir to the capital, he replied on [[15 April]] [[1822]] that the place had gone to decay, that the houses had been destroyed by Syf, and that to restore it to its former state would require an outlay of 100,000 dollars. He commanded only some 250 men and could not enlist Achehnese. By the date of the [[Three Sagis' letter to Penang (4 December 1822)]] the chiefs of the capital had sworn, on the tomb of [[Teungku Anjong]] at [[Kampong Java]], never to receive Jauhar back. After the sultan's death in [[1823]] the [[Three Sagis]] and the [[Queen-Mother of Acheh|Queen-Mother]] exercised what passed for authority. Robert [[Robert Fullerton|Fullerton]]'s minute of [[21 March]] [[1825]] recorded that "the whole power at Acheen was in the hands of Panglima Polim and at the subordinate ports the respective chiefs had established their independence".
 
+## Account from *De Buitenbezittingen* (1917) — Koeta Radja
+
+**Koeta Radja** (Kuta Raja, "Fort of the King") was the *bestuursvestiging* and hoofdplaats of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] — the seat of the Civil and Military Governor, the focal point of the *geconcentreerde linie* that anchored Dutch power in [[Atjeh]] from [[1874]] onward, and, by [[1917]], the principal administrative, military, and commercial centre of the entire *gewest*. *De Buitenbezittingen* describes it as the place where, "in den harden strijd, door onze troepen gedurende langen tijd op Atjeh gestreden," the colonial state had its visible centre, and from which the successive governorships of [[Joannes Benedictus van Heutsz|van Heutsz]], Jhr. J. C. v. d. Wyck, [[G. C. E. van Daalen|van Daalen]] and [[H. N. A. Swart|Swart]] were exercised.
+
+## The hoofdplaats of Groot-Atjeh
+
+As *standplaats* of the Assistant-Resident of the [[Groot-Atjeh|Afdeeling Groot-Atjeh]], Koeta Radja formed its own *onderafdeeling* (A. Koeta Radja), which included the hoofdplaats itself together with the *zelfstandige gampongs* of Keudah, Djawa, Pasar Bard, Meuseugit Raja (on the right bank of the Atjeh River), Planggahan and Blang Peureulaʼ — the latter "het eigenlijke Soeltansgebied," the actual territory of the [[Sultans of Atjeh|Sultan]]. The *Groote Meuseugit* (Great Mosque) of Koeta Radja, depicted in Plaat 6 of the source, was the religious centre of the colonial capital and the place whose *feestgewaad* (festive vestments) were regarded as among the treasures of Atjehsche craft.
+
+## An artificial trade-centre
+
+*De Buitenbezittingen* is emphatic that Koeta Radja's commercial dominance was an artefact of war, not of nature: "Deze bijzondere positie is echter niet te danken aan natuurlijke oorzaken … het zijn voornamelijk de politieke omstandigheden van den veeljarigen Atjeh-krijg, met zijne herhaalde en langdurige blokkade der kusten, het sluiten van havens … welke Koeta Radja zijn kunstmatigen bloei verschaffen." With the *volkomen pacificatie* under Swart after [[1908]], the older havens of the *Onderhoorigheden* resumed their natural role and the trade-centres of [[Langsa|Langsa]], Lhoʼ Seumawè and [[Sigli|Sigli]] "streven … het reeds merkbaar ter zijde" — began to draw level. Even so, Koeta Radja remained, at the date of writing, the largest *in-* and *uitvoer* haven of the *gewest*, with [[Oelèë Lheuë|Oelèë Lheuë]] as its harbour.
+
+## Bestuurs- and verkeerscentrum
+
+As administrative seat, Koeta Radja hosted the seat of the *landraad*, the Residentierechtbank, the Groot-Atjehsche Afdeelingsbank (founded [[1908]]), the proeftuinen of the Department of Agriculture, the Atjeh-tram workshops, and the great European leerlooierij (tannery) that consumed some 12,000 hides yearly. As transport hub it anchored the great rijweg that ran, with the single missing link of Seulimeum–Padang Tidji, along the Noord- and Oostkust to the border of Langkat — and the *Atjeh-tram* that linked it, via [[Oelèë Lheuë|Oelèë Lheuë]], Indragiri and Seulimeum, with all the principal population centres of the North and East coasts.
+
 
 ## See Also
 
@@ -100,6 +116,16 @@ In the years following the treaty, Banda Acheh remained effectively independent 
 - [[Sir Thomas Stamford Raffles]]
 - [[Captain Coombs]]
 - [[Panglima Polim's supremacy at Acheh]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Groot-Atjeh]]
+- [[Oelèë Lheuë]]
+- [[Joannes Benedictus van Heutsz]]
+- [[H. N. A. Swart]]
+- [[Atjeh-tram]]
+- [[Sabang]]
+- [[1874]]
+- [[1908]]
+- [[1917]]
 
 ## Source
 
@@ -108,3 +134,5 @@ In the years following the treaty, Banda Acheh remained effectively independent 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 2–5, pp. 23–58.
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 21, 38, 46–47, 214–215.

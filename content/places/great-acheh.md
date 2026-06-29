@@ -1,7 +1,7 @@
 ---
 title: Great Acheh
-aliases: [Acheh, Atjeh, Acheh Proper, Great Aceh, True Acheh, the heartland of Acheh, Great-Acheh, Atjeh Besar, the kernel of the kingdom]
-tags: [place, kingdom, capital-region, region, great-acheh, highland, lowland]
+aliases: [Acheh, Atjeh, Acheh Proper, Great Aceh, True Acheh, the heartland of Acheh, Great-Acheh, Atjeh Besar, the kernel of the kingdom, Groot-Atjeh, Atjeh-proper, Aceh Besar, Groote Atjeh]
+tags: [place, kingdom, capital-region, region, great-acheh, highland, lowland, achehnese, colonial]
 ---
 
 **Great Acheh** (*Acheh* proper, or the "kernel of the kingdom") was the heartland of the [[Aceh Sultanate]], distinct from the wider dependencies and coast states. The [[Acehnese People|Acehnese]] themselves placed the limits of the whole kingdom at [[Teumieng]] (Tamiang) on the East Coast, and at [[Baros]] or some other southern point on the West Coast. Far more restricted is the territory they described as "Acheh" proper, or "Great Acheh."
@@ -70,6 +70,23 @@ As regards language and manners, the lowlanders followed the people of the capit
 
 In the Dutch military campaigns the conquest of Great Acheh was the central object. All Great Acheh was conquered in the offensives of the late [[1870]]s; the establishment of widely extended military posts in Great Acheh and the introduction of a settled administration were expected, but never came, to break the opposition in the dependencies. The Ordinance of [[1881]] respecting the administration of justice among the native population of Great Acheh — drawn up by [[T. H. der Kinderen|Mr. Der Kinderen]] — "perished at its birth," and the Achehnese never felt its effects. With the abolition of the Dutch "linie" or military line, the whole of Great Acheh was brought under direct Dutch control, and the old relations between landlord and tenant revived.
 
+## Account from *De Buitenbezittingen* (1917) — Groot-Atjeh
+
+**Groot-Atjeh**, also called *Atjeh-proper*, was the heartland of the [[Sultans of Atjeh|Sultanate of Atjeh]] and the nucleus around which the Dutch *Gouvernement* of [[1874]] was constructed — the triangular alluvial plain watered by the [[Kr. Atjeh|Atjeh River]] and politically organised, since time immemorial, into the three federations known as the [[Sagi|Sagi]]'s of the XXII, XXVI and XXV Moekims. *De Buitenbezittingen* treats Groot-Atjeh as the model against which the *Onderhoorigheden* are measured: only here, it stresses, was the classic Atjehsche institutional triad of *gampong*, *moekim*, and *oelèëbalangschap* "ongeschonden" (intact) preserved in its full form, and from here that the [[C. Snouck Hurgronje|Snouck Hurgronje]]-an template was extended to the rest of the territory.
+
+## Geography
+
+The Groot-Atjeh valley is an "uitgestrekte, flauw hellende, driehoekige vlakte" — an extensive, gently sloping triangular plain — whose base of roughly 16 km runs along the Noordkust between Atjeh-hoofd (Oedjoeng Masam Moeka) and Pedropunt, and whose apex reaches inland to Indrapoeri, some 25 km to the south. Of its approximately 200 km², about a quarter along the western edge is taken up by an unfruitful sandstone *kopjes*-heuvelland, while the remainder is an open plain of more than 20,000 *bouws*, of which four-fifths is given over to sawah cultivation. The population density reached about 100 souls per km² — the highest in the *gewest*.
+
+## The three Sagi's
+
+The political division of Atjeh-proper into three *sagi*'s — federations of *oelèëbalangschappen* — was, the source notes, of immemorial origin: "De oorsprong … kan niet meer positief worden vastgesteld." Each sagi was named for the number of *moekims* (Friday-prayer congregations) it nominally contained: the [[XXII Moekims|XXII Moekims]], the [[XXVI Moekims|XXVI Moekims]], and the [[XXV Moekims|XXV Moekims]], names retained even after population growth had multiplied the actual count. Each federation chose a *Panglima sagi* from among its constituent *oelèëbalangs*, who — like the celebrated Polim family of the XXII — could in time absorb the territorial authority of all his associates.
+
+## Administrative division
+
+By St. No. 1914, 87 the [[Afdeeling Groot-Atjeh|Afdeeling Groot-Atjeh]], under an Assistant-Resident at [[Koeta Radja|Koeta Radja]], was divided into five *onderafdeelingen*: Koeta Radja (including the hoofdplaats and the Sultan's own gampongs of Keudah, Djawa, Pasar Bard, Meuseugit Raja, Planggahan and Blang Peureulaʼ); [[Oelèë Lheuë|Oelèë Lheuë]] (including the harbour and the sagi of the XXVI Moekims); Lhoʼ Nga (the sagi of the XXV Moekims and the Southern settlements); Seulimeum (the sagi of the XXII Moekims and the VII Moekims Pidië); and [[Sabang|Sabang]] (the islands of Wé and Rondo). The Afdeeling counted some 96,000 inhabitants over 3,100 km² — about 30.5 per km².
+
+
 ## See Also
 
 - [[Aceh Sultanate]]
@@ -95,7 +112,18 @@ In the Dutch military campaigns the conquest of Great Acheh was the central obje
 - [[VII Mukims Bueng]]
 - [[Nurul Alam Nakiatodin]]
 - [[Acheh proper]]
+- [[Koeta Radja]]
+- [[Oelèë Lheuë]]
+- [[Sagi]]
+- [[XXII Moekims]]
+- [[XXVI Moekims]]
+- [[XXV Moekims]]
+- [[C. Snouck Hurgronje]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[1874]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 1–2, pp. 1–25.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 12–13, 33–47.

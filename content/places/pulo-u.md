@@ -1,7 +1,7 @@
 ---
 title: Pulo U
-aliases: [Pulau U, Simalur, Simalu, Simeulue, Pulo U (Simalur), Pulo U Simalur]
-tags: [place, island, headmanship, west-coast, meulaboh, sumatra, dutch-east-indies, aceh-region]
+aliases: [Pulau U, Simalur, Simalu, Simeulue, Pulo U (Simalur), Pulo U Simalur, Simeuloë, Simaloer, Simeuloe, Sinabang]
+tags: [place, island, headmanship, west-coast, meulaboh, sumatra, dutch-east-indies, aceh-region, westkust]
 ---
 
 **Pulo U** — vulgo **Simalur** (the modern **Simeulue**) — is an island lying off the west coast of [[Acheh|Achehnese] territory, whose headman figures in *The Achehnese* Vol. I as a survival of the older port-king's supremacy, reduced in modern times to a merely local dignity.
@@ -26,6 +26,26 @@ The island's traditional name, *Pulo U* (literally "island U" — with the lette
 
 In the strategic calculus that Van der Kemp traces through the years 1817-1824, islands like Pulo U mattered principally as potential way-stations on the sea-lanes between [[Padang]] and [[Acheh]]. They were part of the broader Sumatran perimeter whose disposition [[Raffles]] hoped to influence from [[Bencoolen]], and which the Dutch were equally determined to control from Padang and [[Batavia]]. The [[Treaty of London (1824)|Anglo-Dutch treaty of 1824]], by which Britain withdrew from Sumatra in exchange for Dutch withdrawal from [[Hindostan|Nederlandsch Hindostan]] and [[Malacca]], settled the island's status by placing it firmly within the Dutch sphere, although effective Dutch administration did not reach Simalur until much later in the century.
 
+## Account from *De Buitenbezittingen* (1917) — Simeuloë
+
+**Simeuloë** (also Simaloer) is the northernmost of the great islands lying west of Sumatra — a heavily-wooded, mountainous island administratively part of the [[Afdeeling Westkust van Atjeh|Afdeeling Westkust van Atjeh]] and administered from the *bestuursvestiging* of Sinabang, some 100 km off the Sumatran coast and six to nine hours by steamer from [[Singkel|Singkel]]. *De Buitenbezittingen* describes Simeuloë as the island whose forests — "waarin zeer vele deugdelijke houtsoorten worden aangetroffen" — had drawn the two great houtaankap-maatschappijen that, by [[1917]], divided its entire territory between them, and which by reason of its isolation had retained a primitive administrative order distinct from that of the mainland.
+
+## Geography
+
+Lying between approximately 2° 20′ and 2° 57′ N.B. and 95° 39′ and 96° 51′ O.L., Simeuloë is about 100 km long and between 9 and 26 km broad. It consists of "zwaar geaccidenteerd heuvelland" — heavily dissected hill country — whose greatest height (567 m) is reached in the Delo Sibao near the Sinabangbaai and the Lhoʼ Dalam. The grillig gevormde hoofdwaterscheiding runs from south-east to north-west; the countless uitloopers reach the coast at many points, so that vlakten of any consequence are virtually absent, and the few that exist near the great baaien are too moerassig for settlement or cultivation. The island's small bevolking lives in *primitive nederzettingen* and practices *ladangbouw* — shifting cultivation — without irrigation.
+
+## Bestuursindeeling
+
+The onderafdeeling Simeuloë, consisting of the island itself together with the small surrounding eilandjes and the groep der Kokos-eilanden, was divided into five *landschappen*: Tapah, Simeuloë, Lakëon, Salang, and Sigoelèh. The principal baaien — the Sinabangbaai, the Lhoʼ Dalam, the baai of Sibigo in the west, and the baai of Sibaboh further east — all offered suitable ankerplaatsen for the largest steamers; the southern coast, more open to the heavy oceandeining, was less hospitable, though its riviermondingen were accessible to inheemsche vaartuigen during the Oost-moesson (December to half May). The island's bevolking was 4,157 registered Atjehers at the end of [[1915]].
+
+## Bosexploitatie and the Java-Bosch
+
+The island's "rijkdom aan bosschen" had led, by [[1917]], to its entire exploitation by two maatschappijen: the *Javasche Boschexploitatie Maatschappij*, active in the southern half (the landschap Tapah and the eastern part of the landschap Simeuloë), which had laid a railbaan near the bestuursvestiging Sinabang for the transport of heavy stammen; and the *Houtaankap-Maatschappij Noord-Simaloer*, a daughter of the *Nederl.-Indische Houtaankap-Mij.*, which exploited the northern half (the landschappen Salang, Sigoelèh, Lekon, and the western part of the landschap Simeuloë). The Java-Bosch, *De Buitenbezittingen* notes, had developed its concession as "een modern grootbedrijf, op zeer ruime leest geschoeid," with installations already representing two to three million guilders, primarily for the extraction of merbau-hout and the on-the-spot *uitloogen en appréteeren* of lesser houtsoorten. Between 700 and 800 contractkoelies — almost all Javanese and Chinese — were regularly employed.
+
+## Trade and tribute
+
+The principal exports of Simeuloë were hout, copra, hides, and horns, with a small quantity of vogelnestjes. The island served as a major supplier of slachtvee to the Westkust and [[Groot-Atjeh|Groot-Atjeh]], its large karbouwenstapel — *niet voor den landbouw gebezigd* — yielding "groote hoeveelheden slachtvee." The haven of Sinabang received 67 steamers (242,000 M³) in [[1913]], 58 (250,000) in [[1914]], and 61 (240,000) in [[1915]]. The *in-* and *uitvoerrechten* rose from ƒ14,000/ƒ2,000 in [[1910]] to ƒ15,000/ƒ1,000 in [[1914]]. *De Buitenbezittingen* records that the island stood in tribute-relation to the [[Teukoe Tjhï' Meulabôh|Keudjeuroeën Tjhï' of Meulabôh]], whose *Panghoeloe-Sidik* had once collected the Sultan's dues on the island; "het heffen der Sultansrechten op het eiland Simeuloë" was thus included among the privileges of the Tjhï' office.
+
 
 ## See Also
 
@@ -40,9 +60,21 @@ In the strategic calculus that Van der Kemp traces through the years 1817-1824, 
 - [[Bencoolen]]
 - [[Treaty of London (1824)]]
 - [[Raffles' Atjeh-overeenkomst van 1819]]
+- [[Meulabôh]]
+- [[Tjalang]]
+- [[Teukoe Tjhï' Meulabôh]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Java-Bosch-Exploitatie-Maatschappij]]
+- [[1910]]
+- [[1913]]
+- [[1914]]
+- [[1915]]
+- [[1917]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 16–18, 25, 29–30, 38, 53–60, 176–181, 217.

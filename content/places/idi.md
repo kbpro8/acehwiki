@@ -1,7 +1,7 @@
 ---
 title: Idi
-aliases: [Edi, Idi Rayeuk, Idi of the East Coast, Idi Cut]
-tags: [place, region, east-coast, district, dependency, coast]
+aliases: [Edi, Idi Rayeuk, Idi of the East Coast, Idi Cut, Idi, Idi Rajeu, Idi Tjoet, Onderafdeeling Idi]
+tags: [place, region, east-coast, district, dependency, coast, oostkust, achehnese, colonial, petroleum]
 ---
 
 **Idi** (also spelled *Edi*) was a district on the East Coast of [[Great Acheh|Acheh]], mentioned by [[C. Snouck Hurgronje]] in the context of regional saints and the *kramat* tradition. The recently deceased raja of Idi — the first pioneer of that district — was identified as the father of a Habib of the famous ʿAidarus Sayyid family, described as a half-crazy young man, the son of Teungku di Bukét.
@@ -40,6 +40,34 @@ The district of Idi lies in the stretch of coast between [[Lho Seumawe|Lho' Seum
 
 Snouck's incidental mention of Idi is otherwise sparing, and the district receives no full topographical treatment in Vol. I. It reappears, however, in the wider colonial context of the Achehnese War as one of the East Coast dependencies whose chiefs were compelled, by the alternation of Dutch advances and Achehnese reconquests, to make and to renew their submissions to the colonial government. The article on [[Raja of Idi|Raja of Idi]] may be consulted for the personal and political aspect of the chiefdom at the close of the nineteenth century.
 
+## Account from *De Buitenbezittingen* (1917) — Idi
+
+**Idi** is a region and former harbour town on the East Coast of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]], situated between [[Langsa|Langsa]] to the south and the *afdeeling Noordkust* to the north, whose pre-eminence as a pepper port in the late nineteenth century was gradually eclipsed, in the colonial period, by the rise of [[Langsa|Langsa]] and [[Lhôseumawè|Lhôseumawè]], but whose territory became, with the discovery of petroleum, one of the principal oil-producing districts of Atjeh. *De Buitenbezittingen* treats Idi as a place whose economic history encapsulates the larger shift from native pepper cultivation to European plantation agriculture and extractive industry.
+
+## The onderafdeeling
+
+The *onderafdeeling Idi* was composed of eight *landschappen*:
+
+1. Tandjong Seumatang and Meureubôh
+2. Simpang Olém
+3. Djoelèq Tjoet
+4. Djoelèq Rajeu
+5. Boegèng and Bagië
+6. Idi Tjoet
+7. Idi Rajeu
+8. Peudawa Rajeu
+
+These *landschappen* originated, like those of the surrounding East Coast, as colonies of pepper planters whose *tuinhoofden* — the *peutoeha seuneubô* — gradually acquired territorial authority over the lands they had cleared. The institutional structure was the same as that of [[Peureulak|Peureulak]]: the *toeha' peuët* (four elders) and *toeha' lapan* (eight-heads) stood between the *landschapshoofd* and the village heads, with the *peutoeha rajeu* and *peutoeha tjoet* administering the *meunasa*'s below.
+
+## The decline of the pepper port
+
+In the pre-colonial and early colonial period, Idi was "een der belangrijke havens der Oostkust" — one of the important harbours of the East Coast. With the construction of the [[Atjeh-tram|Atjeh-tram]] (which reached Koeala Simpang in [[1910]]–[[1912]] and was extended to Besitang in [[1913]]) and the rise of [[Langsa|Langsa]] as the principal East Coast harbour, Idi "bijna alle beteekenis als zoodanig verloren" — lost almost all significance as such — and its trade was diverted, partly to Langsa and partly to [[Lhôseumawè|Lhôseumawè]], the next importante harbour to the north. By the time of the handbook, Idi was "nog slechts beteekenis heeft als centrum voor den kleinhandel" — still only of significance as a centre for the small trade.
+
+## Petroleum
+
+The territory of Idi became, in the colonial period, one of the principal petroleum-producing districts of Atjeh. Of the five petroleum concession terrains that had been brought into exploitation by the time of the handbook, two were in Idi: *Peudawa* (split into the inactive Peudawa proper and the active *Oost-Peudawa*, exploited by the [[Bataafsche Petroleum Maatschappij|Bataafsche Petroleum Maatschappij]]) and *Paja-Bilik* (no longer exploited). The crude oil from these fields was piped, through a 5-inch pipeline of more than 120 kilometres, to the [[Bataafsche Petroleum Maatschappij|BPM]] refinery at [[Pangkalan Brandan|Pangkalan Brandan]] on the Oostkust van Sumatra. The declining production of the Idi fields — from 1,609 K.G.-tons in [[1913]] to 220 K.G.-tons in [[1915]] at Oost-Peudawa — was a concern of the handbook's compilers.
+
+
 ## See Also
 
 - [[Great Acheh]]
@@ -59,7 +87,21 @@ Snouck's incidental mention of Idi is otherwise sparing, and the district receiv
 - [[Habib kramat of 'Aidarus family]]
 - [[Lho Seumawe]]
 - [[Acheh]]
+- [[Oostkust van Atjeh]]
+- [[Langsa]]
+- [[Lhôseumawè]]
+- [[Atjeh-tram]]
+- [[Bataafsche Petroleum Maatschappij]]
+- [[Pangkalan Brandan]]
+- [[Peureulak]]
+- [[Pepper cultivation in Atjeh]]
+- [[1910]]
+- [[1913]]
+- [[1912]]
+- [[1915]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 9, p. 156.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 76–77, 213–216, 248–251.

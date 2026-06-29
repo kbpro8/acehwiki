@@ -1,7 +1,7 @@
 ---
 title: Lho' Seumawe
-aliases: [Lhokseumawe, Lho Seumawe, Lho' Seumawé, Lho Seumawe (north coast), Lho' Seumawe, Lhô Seumawe, Lho Seumawan]
-tags: [place, north-east-coast, coast, uleebalangship, north-coast, north-east, mahraja, port]
+aliases: [Lhokseumawe, Lho Seumawe, Lho' Seumawé, Lho Seumawe (north coast), Lho' Seumawe, Lhô Seumawe, Lho Seumawan, Lhô Seumawè, Lhò' Seumawè, Lhoseumawe, Lhöi Seumawè]
+tags: [place, north-east-coast, coast, uleebalangship, north-coast, north-east, mahraja, port, noordkust, oostkust, colonial, harbour]
 ---
 
 An important port and centre on the North Coast. The Mahraja (chief) of Lho' Seumawe is mentioned: 'I will not live at Sawang Keupula, for I fear lest the Mahraja (of Lho' Seumawe) may carry me off.' (sadati dialogue). Lho' Seumawe appears in the list of North Coast places referenced in the hikayats and sadati performances.
@@ -38,6 +38,27 @@ Snouck's point is characteristically sceptical. The Achehnese explanation — th
 
 Although Lho Seumawe itself is mentioned in Vol. I only in this discussion of titles, its situation on the north-eastern coast made it one of the principal ports of the sultanate. The [[Mahraja of Lho' Seumawe|Mahraja]] who ruled it was one of the most venerable hereditary chiefs of Acheh, and the survival of his Indianised title at so late a date is itself an important fact in the political anthropology of the sultanate. Vol. II of *The Achehnese* treats Lho Seumawe and its dependencies in greater detail.
 
+## Account from *De Buitenbezittingen* (1917) — Lhôseumawè
+
+**Lhôseumawè** is the harbour town and *onderafdeelingshoofdplaats* on the boundary between the *afdeeling Noordkust* and the *afdeeling Oostkust* of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]], whose position at the natural junction of the two coast-cultivation zones made it, in the colonial period, one of the three great trade centres of the Gouvernement alongside [[Koeta Radja|Koeta Radja]] and [[Langsa|Langsa]]. *De Buitenbezittingen* records that, in the years before the handbook's compilation, Lhôseumawè had become "het handels-emporium van een groot deel der Noord- en Oostkust" — the trade emporium of a great part of the North and East Coasts — though the rise of Langsa had already begun to draw off some of its trade.
+
+## The onderafdeeling
+
+The *onderafdeeling Lhôseumawè*, like the other *onderafdeelingen* of the Noordkust, was composed of various *landschappen* whose internal administration combined the Groot-Atjehsche system with local variations produced by the expansion of pepper cultivation and the rise of *oelèëbalang-tjoet*-schappen. The town of Lhôseumawè itself was, like [[Sigli|Sigli]], [[Bireuën|Bireuën]], [[Langsa|Langsa]], and [[Koeala Simpang|Koeala Simpang]], *onttrokken aan de landschapsbesturen* — withdrawn from the *landschap* administrations — and placed under direct Dutch rule as the *onderafdeelingshoofdplaats*.
+
+## Trade and shipping
+
+Lhôseumawè's emergence as a trade emporium is documented in the harbour statistics of *De Buitenbezittingen*. In [[1913]] the harbour recorded 193 steamship arrivals totalling 311,000 cubic metres; in [[1914]], 179 arrivals totalling 354,000 cubic metres; in [[1915]], 157 arrivals totalling 379,000 cubic metres. The opbrengst der in- en uitvoerrechten (revenue from import and export duties) rose from f 56,000 (in) and f 17,000 (out) in [[1910]] to f 90,000 and f 25,000 in [[1911]], settling at f 87,000–f 90,000 (in) and f 28,000–f 32,000 (out) in the years [[1912]]–[[1914]]. The Koninklijke Paketvaart Maatschappij's Route 1 (Java-Padang-Atjeh, 14-day cycle) and Route 3a (Penang-Atjeh, 9-day cycle) both called at Lhôseumawè.
+
+## The Volkscredietwezen
+
+Lhôseumawè was also the seat of the *Afdeelingsbank "Lhôseumawè"*, one of the three principal *Volkscredietwezen* institutions of the Gouvernement (alongside the [[Groot-Atjehsche Afdeelingsbank|Groot-Atjehsche Afdeelingsbank]] and the *Credietbank "Langsa"*). The bank, *De Buitenbezittingen* records, suffered from the same *achterstand* — arrears — and *kwade practijken* — abuses — that afflicted the Groot-Atjehsche bank, though to a less catastrophic degree. Its financial overview, influence, and the causes of its arrears are recorded in the handbook's chapter on the *Volkscredietwezen*.
+
+## Significance
+
+The position of Lhôseumawè at the boundary of the Noord- and Oostkust made it, with [[Sigli|Sigli]], one of the "twee polen van het dichtstbevolkte deel van geheel Atjeh" — the two poles of the most densely populated part of all Atjeh. The *algemeene uitbreiding der productie* that the handbook anticipated, supported by the Dutch administration's promotion of agricultural instruction, would, it was expected, "voor deze twee uitvoerhavens van veel belang zijn" — be of great importance for these two export harbours — particularly if Atjeh should prove capable of becoming the principal rice producer for the great *Cultuurgebied* of the East Coast.
+
+
 ## See Also
 
 - [[Acheh]]
@@ -47,7 +68,24 @@ Although Lho Seumawe itself is mentioned in Vol. I only in this discussion of ti
 - [[XXV Mukims]]
 - [[Mahraja of Lho' Seumawe]]
 - [[Meura'sa]]
+- [[Noordkust van Atjeh]]
+- [[Oostkust van Atjeh]]
+- [[Koninklijke Paketvaart Maatschappij]]
+- [[Groot-Atjehsche Afdeelingsbank]]
+- [[Sigli]]
+- [[Langsa]]
+- [[Koeta Radja]]
+- [[Atjeh-tram]]
+- [[Koeala Simpang]]
+- [[1910]]
+- [[1911]]
+- [[1912]]
+- [[1913]]
+- [[1914]]
+- [[1915]]
 
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 28–30, 70–72, 126, 213–217, 227–229.

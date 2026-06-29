@@ -1,7 +1,7 @@
 ---
 title: Sabang
-aliases: [Sabang free port, Sabang harbour, Sabang coaling station, Zeehaven Sabang]
-tags: [place, harbour, free-port, trade, colonial]
+aliases: [Sabang free port, Sabang harbour, Sabang coaling station, Zeehaven Sabang, Sabang, Sabanghaven, Sabangbaai, Free Port of Sabang]
+tags: [place, harbour, free-port, trade, colonial, port, dutch]
 ---
 
 **Sabang** was the free port and coaling station developed on the northern bay of
@@ -118,6 +118,23 @@ and the [[Packet Service]], Sabang made itself indispensable as a coaling and tr
 approach to the [[Strait of Malacca]]. It is the clearest expression of how Dutch power, once it had
 brought [[Acheh]] under control, sought to convert the conquest into a commercial gateway.
 
+## Account from *De Buitenbezittingen* (1917) — Sabang
+
+**Sabang** was the great ocean harbour and free port established in [[1897]] on the Sabangbaai of the island of [[Poeloe Wé|Poeloe Wé]], at the northern tip of Sumatra — the colonial venture that [[Joannes Benedictus van Heutsz|van Heutsz]] had, in his [[1892]] brochure *De Onderwerping van Atjeh*, pressed upon the Government as a competitor to [[Penang]] for the trade of northern Sumatra, and which the *N.V. Zeehaven en Kolenstation Sabang* (the Sabang Maatschappij) operated, after [[1898]], as the only *vrijhaven* of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* devotes an extended chapter to its installations and finances, while conceding that "de grootsche toekomstdroomen van Sabang als handels-emporium voor geheel Noord-Sumatra niet verwezenlijkt hebben" — the grand dream of Sabang as the trade-emporium of all Northern Sumatra was never realised.
+
+## Origins, 1884–1898
+
+The Dutch flag was first hoisted over [[Poeloe Wé|Poeloe Wé]] in [[1884]], when a small *kolenloods* (coal-shed) was built on the Zuidbaai (Lhoʼ Balohan) and a *hoofd* appointed; an [[1887]] commission under De Lange concluded that the Noordbaai — the Sabangbaai — was the more serviceable anchorage. The Bataviaasche firma De Lange & Co. received that year the concession for a *kolenstation*, and De Lange's *Chef* van Oosterzee is named by *De Buitenbezittingen* as "de geestelijken vader van Sabang" — the spiritual father of Sabang. Van Heutsz, then a major, propagated the project in [[1892]]. In [[1897]] the haven was opened as a *vrijhaven* for general trade, and in [[1898]] the *N.V. Zeehaven en Kolenstation Sabang* was founded, taking over De Lange's business. A Gouvernements-*dok* of 3,000-ton capacity, stationed from [[1898]], later passed into the Maatschappij's ownership under servitude of free docking for Government vessels.
+
+## The Sabang Maatschappij
+
+The Maatschappij held, by [[1917]], extensive mechanical installations for the bunkering of steamers — self-trimming *bunker-lichters* with band-transporteurs capable of handling 150 tons per hour, lighter cranes of 2,000–3,000 kg, four transbordcranes, and a 3,000-ton *droogdok* ceded in ownership by the Gouvernement. In [[1903]] the *Stoomv. Mij. Nederland* committed to routing via Sabang rather than Padang; the *Koninklijke Paketvaart Maatschappij|K.P.M.* followed; and by [[1911]] the island possessed a radio-telegrafisch station described as the most powerful in East Asia. A telegraphkabel had already, in [[1897]], connected Sabang with [[Oelèë Lheuë|Oelèë Lheuë]], and in [[1912]] a direct cable to Medan was added.
+
+## Coal and dividends
+
+The kolenbedrijf grew from 19,000 tons delivered in [[1900]] to a peak of 210,000 tons in [[1912]]–[[1913]], before the war brought a drop to 135,000 tons in [[1915]]. The customary mixture was the so-called *Sabang-mixture* of two parts Bengaalsche to one part Ombilin-kolen. Dividends on shares of ƒ1,000 rose from ƒ82.50 in [[1910]] to ƒ125 in [[1913]], with additional *winstaandeel* to the Gouvernement under St. 1910 No. 56. The Gouvernement acquired the kaaimuren, steigers, and *corps-morts* of the haven in [[1909]] for roughly ƒ1,200,000 and now maintains them itself; the Maatschappij pays a yearly *pacht* of 3¼ % on the original purchase plus extension costs.
+
+
 ## See Also
 
 - [[Poeloe We]]
@@ -129,12 +146,35 @@ brought [[Acheh]] under control, sought to convert the conquest into a commercia
 - [[Penang]]
 - [[Belawan]]
 - [[Petroleum industry in Atjeh]]
+- [[Poeloe Wé]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Sabang Maatschappij]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[1884]]
+- [[1887]]
+- [[1892]]
+- [[1897]]
+- [[1898]]
+- [[1900]]
+- [[1903]]
+- [[1909]]
+- [[1910]]
+- [[1911]]
+- [[1912]]
+- [[1913]]
+- [[1915]]
+- [[1917]]
 
 ## Source
 
 *De Europeesche Industrie* ["The European Industry"], section *De Buitenbezittingen* ("The Outer
+
 Possessions"), in *Grooten van Zee en Land in Nederlandsch-Indië*, Vol. 6, pp. 243–251 (English
+
 translation from the Dutch).
 
 B. A. van Sandick, *Sabang en Belawan als oceaanhavens* ["Sabang and Belawan as Ocean Harbours"], in
+
 *Indische Mercuur* (1913), No. 49 — cited in the source.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 15, 25–27, 243–248.

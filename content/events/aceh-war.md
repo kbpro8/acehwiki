@@ -1,7 +1,7 @@
 ---
 title: Aceh War
-aliases: [Dutch-Aceh War, Atjeh War, Perang Aceh, Acehnese War, Aceh War, Achehnese-Dutch War, Prang Acèh, Aceh-Dutch War, Acheh-Dutch War, Prang Gompeuni, Dutch War in Acheh, Achehnese War, Beginning of the Dutch war in Acheh]
-tags: [event, war, dutch-colonial, military, political, political-history, military-history]
+aliases: [Dutch-Aceh War, Atjeh War, Perang Aceh, Acehnese War, Aceh War, Achehnese-Dutch War, Prang Acèh, Aceh-Dutch War, Acheh-Dutch War, Prang Gompeuni, Dutch War in Acheh, Achehnese War, Beginning of the Dutch war in Acheh, Atjeh-krijg, Achinese War, Aceh War 1873]
+tags: [event, war, dutch-colonial, military, political, political-history, military-history, colonial, dutch, religious]
 ---
 
 **The Aceh War** (Dutch: *Atjeh-oorlog*) was the military conflict between the [[Netherlands India|Dutch colonial government]] and the [[Acehnese People|Acehnese people]] that began in [[years/1873|1873]] and continued with varying intensity for decades. It was one of the longest and most costly colonial wars in Dutch history, and the defining catastrophe of the nineteenth century for [[Great Acheh|Acheh]].
@@ -76,6 +76,27 @@ After the first Dutch campaigns, the government adopted the [[Dutch Policy of 'C
 
 The war dragged on with little prospect of Dutch victory as long as the policy of concentration was maintained. Hurgronje, as adviser to the Netherlands-Indian government, advocated a different course: co-operation with the uleebalangs, the systematic undermining of the prestige of the ulamas, and the substitution of a civil for a military administration in the occupied territory. These counsels prevailed under [[Governor Van Heutsz|Governor Van Heutsz]], under whom the line was broken and the country progressively brought under Dutch control. Hurgronje's own account in *The Achehnese* (1906) marks a stage in this final phase of the conflict.
 
+## Account from *De Buitenbezittingen* (1917) — Aceh War
+
+**The Aceh War** — known in Dutch as the **Atjeh-krijg** — was the protracted armed conflict between the [[Gouvernement Atjeh en Onderhoorigheden|Netherlands-Indies Government]] and the [[Atjehers|Acehnese]] that began with the first Dutch expedition against the [[Sultans of Atjeh|Sultan of Atjeh]] in [[1873]] and smouldered, with intermittent truces, for some thirty years until the pacification of the [[Gajoland|Gajoland]] and [[Alaslanden|Alaslanden]] in [[1904]]–[[1905]] and the final extinction of organised resistance under [[H. N. A. Swart|Governor Swart]] after [[1908]]. *De Buitenbezittingen* characterises it as a "hardnekkige godsdienst-oorlog" — a stubborn religious war — that, "met enkele rustiger tusschenpoozen, gedurende de laatste dertig jaren der negentiende eeuw woedde," repeatedly flared up thanks to "een telkens te snel de overhand krijgend pacifisme der moederlandsche Regeering" — the all-too-often prevailing pacifism of the metropolitan government in The Hague.
+
+## A religious war, repeatedly rekindled
+
+The Encyclopaedisch Bureau frames the conflict as fundamentally ideological. The Acehnese, rallied by their [[Oelèëbalangs|oelèëbalangs]] and religious leaders, fought under the banner of Islam against an infidel invader; Dutch strategic indecision in the 1870s–1890s allowed the war to be rekindled each time a more conciliatory cabinet in the Netherlands curtailed operations. The "corruptie van het Sultans-bestuur" had already pushed the country to the edge of dissolution, and the war "drukte nog dieper den stempel van verval en verwildering op het ongelukkige land." Across the entire Netherlands Indies the "groote kosten van dezen strijd" exerted a "verlammenden invloed" — a paralysing influence — on colonial finances.
+
+## The system of the flying columns, 1896–1904
+
+The accession of [[Joannes Benedictus van Heutsz|van Heutsz]] to the governorship in [[1898]] "beteekende het begin van eene geheel nieuwe periode." The "onverzoenlijke benden" that had hitherto found safe haven beyond the Dutch *postenlinie* were "sedert [[1896]] reeds door kleine, vliegende colonnes allerwege aangetast en vervolgd" under what the handbook calls the "systeem Graafland, van Daalen en van Heutsz" — the combined doctrine of column warfare pioneered by Graafland, [[G. C. E. van Daalen|van Daalen]] and van Heutsz. The campaigns culminated in the [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)|colonne van Daalen]] of [[1904]] and its sequel in [[1905]], which brought the "bolwerken der onverzoenlijken" — the strongholds of the irreconcilables — in the interior within Dutch influence. A "vrij hevige opflikkering van het verzet" still flared in [[1907]] and [[1908]], provoked by van Daalen's "al te hard doorgevoerde represaille-maatregelen" and by the "scherpe besnoeiing der adat-inkomsten," before [[H. N. A. Swart|Swart]]'s conciliatory policy from [[1908]] drew the coerced chiefs "steeds meer ook uit overtuiging aan onze zijde."
+
+## Human cost
+
+[[Bijlage IV|Bijlage IV]] of the handbook is a chronological map showing the extension of Dutch authority across [[Atjeh en Onderhoorigheden]] between [[1896]] and the present. [[Bijlage V|Bijlage V]] tabulates the losses of the [[Nederlandsch-Indisch Leger|Nederlandsch-Indisch Leger]]: in the heaviest year, [[1904]], 56 European and 1 native soldier were killed in the field, with 434 wounded; on the Acehnese side the same year yielded 4,726 dead, 502 wounded, 2,443 captured and 538 who submitted. Across the entire conflict the Acehnese losses, "voor zoover ons bekend geworden," ran into the tens of thousands — the handbook speaks of "ongeveer veertig duizenden slachtoffers."
+
+## Significance
+
+The Atjeh-krijg was the longest and costliest colonial war in Dutch East Indies history. Its resolution enabled the economic reconstruction, administrative consolidation and civilising mission that the rest of *De Buitenbezittingen* describes; but it also entrenched in the Acehnese character "een diep geworteld gevoel van wantrouwen en haat jegens den overheerscher" — a deep-rooted sense of distrust and hatred toward the overlords — that, the handbook warns, would only slowly die out through "tact en toewijding onzerzijds."
+
+
 ## See Also
 
 - [[C. Snouck Hurgronje]]
@@ -102,7 +123,27 @@ The war dragged on with little prospect of Dutch victory as long as the policy o
 - [[Sabil Contributions]]
 - [[Kuta Raja]]
 - [[Keumala]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Joannes Benedictus van Heutsz]]
+- [[G. C. E. van Daalen]]
+- [[H. N. A. Swart]]
+- [[Christiaan Snouck Hurgronje]]
+- [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)]]
+- [[1907–1908 Aceh resistance]]
+- [[Bijlage IV]]
+- [[Bijlage V]]
+- [[Teukoe Oemar]]
+- [[Teukoe Tjhï' Meulabôh]]
+- [[1873]]
+- [[1896]]
+- [[1898]]
+- [[1904]]
+- [[1905]]
+- [[1907]]
+- [[1908]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Introduction, pp. v–xxi; Chapter I, §§ 7–9, pp. 120–193.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 33–36, Bijlage IV–V.

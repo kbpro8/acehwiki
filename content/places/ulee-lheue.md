@@ -1,7 +1,7 @@
 ---
 title: Ulee Lheue
-aliases: [Olehleh, Ulee Iheue, Uleë Iheue, Oleh Leue, Ulee Lheue, Olehheh, Uleelheue, Uleë Lheuë]
-tags: [place, aceh-proper, coastal-place, kanduri-laut, sea-kanduri, monsoon, keunong, xxvi-mukims, gampong, coastal, capital, village, coast]
+aliases: [Olehleh, Ulee Iheue, Uleë Iheue, Oleh Leue, Ulee Lheue, Olehheh, Uleelheue, Uleë Lheuë, Oelèë Lheuë, Ule Lheue, Oleelheue]
+tags: [place, aceh-proper, coastal-place, kanduri-laut, sea-kanduri, monsoon, keunong, xxvi-mukims, gampong, coastal, capital, village, coast, port, achehnese]
 ---
 
 A port near the capital of [[Acheh]], the most important harbour. Teuku Nya' Muhamat (the loyal '[[Raja Muda]]' chief) used his efforts to advance the prosperity of the capital and of Ulee Lheue (Olehleh). The death of [[Teuku Asan]] occurred at Ulee Lheue under peculiar circumstances. The soldiers occupying the mosque of Ulee Lheue actually fired the fatal shot, though most Achehnese attributed it to Teuku Ne's followers. [[Teuku Uma]]'s dramatic submission to the Gompeuni included a journey to Ulee Lheue and [[Kutaraja]]. Near Ulee Lheue (the keude or bazaar) is the tomb of [[Tuan di Bunot]] (named because it lies beneath a huge bunot-tree). The tomb of Teungku [[Lam Guha]] ('saint of the cave'), a Javanese from [[Demak]], lies behind the mosque at Ulee Lheue and is now visited by many pilgrims. Also [[Teungku Pante Cheureumen]]'s tomb lies near Kuala Doe on the shore of Ulee Lheue.
@@ -48,6 +48,23 @@ The *pawangs* of Ulee Lheue were, however, peculiarly burdened by the multiplici
 
 Ulee Lheue was also a place of some religious and antiquarian note. Off its shore lay [[Pulo Batee]] ("Stone Island"), whose porous and easily workable stone supplied, in former times, the material for the chiselled tombstones of the wealthier Achehnese. The people of neighbouring [[Meura'sa]] "possessed great skill in cutting these stones, so that the *batie Meura'sa* were in great demand throughout all Acheh." A Javanese whose tomb at Ulee Lheue was, at the time of writing, an object of veneration, was known by the name of [[Teungku Lam Guha]] — "the Teungku of the Cave" — having, it was said, performed *tapa* (religious seclusion) for successive years in the cave at the source of the [[Krueng Daroy|river Daroy]]. A freed Circassian slave, formerly the property of [[Habib Abdurrahman]] (who also imported Hindus as slaves into Acheh), still lived at Ulee Lheue in Snouck Hurgronje's time — a curious relic of the cosmopolitan slave-trade which had once made the capital a meeting-point of races from [[Circassia]] to [[Nias]].
 
+## Account from *De Buitenbezittingen* (1917) — Oelèë Lheuë
+
+**Oelèë Lheuë** was the harbour-place at the mouth of the [[Kr. Atjeh|Atjeh River]] — the maritime outlet of [[Koeta Radja|Koeta Radja]] and, from [[1874]] onward, the seaward terminus of the Atjeh-tram and the principal entrepôt through which the trade of [[Groot-Atjeh|Groot-Atjeh]] was conducted. *De Buitenbezittingen* treats it, together with Koeta Radja, as one of the twin poles of the colonial capital: the two were linked by a rijweg through the vlakte of Lam Pisang and by the *Atjeh-tram*, and were served by a regular veerdienst across the strait to [[Sabang|Sabang]] maintained by a daughter-company of the [[Sabang Maatschappij|Sabang Maatschappij]] called the *Atjeh-transport-maatschappij*.
+
+## The havenplaats
+
+Oelèë Lheuë was the havenplaats of the onderafdeeling B. Oelèë Lheuë of the [[Afdeeling Groot-Atjeh|Afdeeling Groot-Atjeh]], which also comprised the territory outside the three sagi's (the oelèëbalangschappen Meuraksa and Meuseugit Raja on the left bank of the Atjeh River, the *zelfstandige gampongs* Peunajong with Lam Poʼ, Lam Dingèn, Beurawé and Lam Bhoes, and the *zelfstandige moekims* Loeëng Bata and Pagar Ajé) along with the sagi of the XXVI Moekims. The *geografische beschrijving* notes the Breuë-groep of small limestone islands that "den doorgang van de Westkust naar de reede van Oeleë Lheuë gevaarlijk versperren" — dangerously obstruct the passage from the Westkust to the roadstead of Oelèë Lheuë.
+
+## Trade and shipping
+
+The 1913–[[1915]] statistics in Bijlage III record Oelèë Lheuë receiving 384, 382 and 370 steamers (576,000, 656,000 and 694,000 M³) in the three years respectively — by tonnage the second haven of the *gewest* after [[Sabang|Sabang]], and the principal Atjehsche haven for Atjeh's own products. The *in-* and *uitvoerrechten* figures (Bijlage VII) show Oelèë Lheuë with ƒ166,000 in- and ƒ41,000 uitvoer in [[1910]], declining to ƒ148,000 and ƒ38,000 by [[1914]] as the pacificatie shifted trade back toward the natural havens of the *Onderhoorigheden*. The registered adult Atjehsche population of the onderafdeeling was 5,688 at the end of [[1915]].
+
+## The Atjeh-tram terminus
+
+The *Atjeh-tram*, which linked Koeta Radja with [[Sigli|Sigli]], [[Bireuën|Bireuën]], and — by [[1915]] — Koeala Simpang, had its seaward terminus at Oelèë Lheuë. Thehaven's pier was lengthened to accommodate the *veerdienst* with [[Sabang|Sabang]], and a small zeewaardige passagiersboot was stationed there to maintain "te allen tijde de gemeenschap tusschen Sabang … en Oelèë Lheuë." The prauwenveer and the pakhuizen at Oelèë Lheuë were taken over by the *Atjeh-transport-maatschappij*, a daughter-company of the Sabang-Mij., which "tegenover het Gouvernement eene bevoorrechte positie inneemt" — occupied a privileged position vis-à-vis the Government. A Gouvernements-*droogdok* was first stationed at Sabang in [[1898]], but the Oelèë Lheuë pier remained indispensable to the koopvaardij until the completion of larger works at Sabang.
+
+
 ## See Also
 
 - [[Acheh]]
@@ -78,7 +95,20 @@ Ulee Lheue was also a place of some religious and antiquarian note. Off its shor
 - [[Pukat-fishing season (upayang)]]
 - [[S.W. Monsoon]]
 - [[N.E. Monsoon]]
+- [[Koeta Radja]]
+- [[Sabang]]
+- [[Groot-Atjeh]]
+- [[Atjeh-tram]]
+- [[Sabang Maatschappij]]
+- [[Breuë-groep]]
+- [[1874]]
+- [[1898]]
+- [[1910]]
+- [[1914]]
+- [[1915]]
 
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 15, 25–30, 38, 46–47, 214–217, 245.
