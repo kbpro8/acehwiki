@@ -1,6 +1,6 @@
 ---
 title: Acheh River
-aliases: [Krueng Acheh, Kuala Acheh, Aceh River, Acheh River, Krueng Aceh, Sungai Aceh]
+aliases: [Krueng Acheh, Kuala Acheh, Aceh River, Acheh River, Krueng Aceh, Sungai Aceh, Atjeh-rivier, Acheen River]
 tags: [place, river, waterway, capital, banda-aceh, coast]
 ---
 
@@ -36,6 +36,21 @@ The [[Panglima Meuseugit Raya]] — literally "Commander of the Great Mosque" �
 
 A notable institution connected with the river was the **tanoh raja** ("king's land"): a strip of ground *seven great fathoms* (*deuëpa meunara*) on each side of the Acheh river, reserved from ancient times to the sultan. Subjects might build or plant within this reserve, but the land never became their property, and the sultans could always withdraw the right of user. This royal privilege no doubt originated in the interest of an unimpeded exercise of sovereignty by the kings of the port. The word *wakeuëh* is more commonly used than *tanoh raja* to describe this reservation, although *wakeuëh* also designates the inhabitants of certain districts relieved from sundry burdens and exempted from the authority of the local chiefs.
 
+## Account from *Raffles' Atjeh-overeenkomst van 1819* — Acheh River
+
+The **Acheh River** (Dutch *Atjeh-rivier*; modern *Krueng Aceh*) is the river discharging into the sea at [[Banda Acheh]], the capital of the sultanate of [[Acheh]]. Its mouth, commanding the roadstead on which European shipping anchored, made it a strategic point in the defence of the capital and is mentioned twice in Van der Kemp's narrative.
+
+## Fortification in 1819
+
+When the [[Raffles-Coombs Acheh Commission (1819)|Raffles–Coombs commission]] arrived before [[Banda Acheh]] in [[1819]] and anchored there on [[14 March]], the city was without a sultan in residence. The deposed [[Sultan Jauhar Alum]] had withdrawn to [[Pedir]] and the upstart [[Sultan Saif ul-Alum]] had fled to [[Telok Semawé]]. Effective authority lay with the [[Three Sagis]], in practice with [[Panglima Polim]] of the [[XXII Mukims]]. As the commission's stay lengthened — it would last nearly seven weeks — rumour spread that the British had come to take possession of the country. "De bevolking liep te hoop en richtte aan den mond der Atjeh-rivier eene versterking op", Van der Kemp records, "welke vijandige houding de commissie zich bij Polim beklaagde". The hostile posture of the population at the river-mouth was the subject of a formal complaint by the commissioners to Polim.
+
+## Jauhar Alum's stockade
+
+The river-mouth reappears in [[Robert Fullerton|Fullerton]]'s minute of [[21 March]] [[1825]] on the state of [[Acheh]] after the [[Anglo-Dutch Treaty of London (1824)|treaty of London of 1824]]. Reviewing the futility of the [[Acheh treaty of 1819]], Fullerton observed that [[Sultan Jauhar Alum]] had never recovered his authority, and that "the remaining years of his life were spent in one stockade at the mouth of the Acheen river without commanding influence or even respect". Jauhar Alum had died in December [[1823]] (the [[Death of Sultan Jauhar Alum]]), having never been able to establish himself at the capital in the manner the [[Treaty of Pedir (1819)|treaty of 22 April 1819]] presupposed. The stockade at the river-mouth was the outward symbol of his impotence.
+
+The Acheh River also gave its name to the description of the *Wilhelmina* affair, in which [[Lieutenant Marx Bouwens|Bouwens]] was murdered "op de hoogte van Atjeh" — off Acheh — before his ship drifted on to [[Pasangan]] and [[Telok Semawé]].
+
+
 ## See Also
 
 - [[Great Acheh]]
@@ -55,7 +70,17 @@ A notable institution connected with the river was the **tanoh raja** ("king's l
 - [[XXV Mukims]]
 - [[XXVI Mukims]]
 - [[Kuala (of the Aceh River)]]
+- [[Acheh]]
+- [[Sultan Jauhar Alum]]
+- [[Panglima Polim]]
+- [[Three Sagis]]
+- [[Raffles-Coombs Acheh Commission (1819)]]
+- [[Fullerton's minute on Acheh (21 March 1825)]]
+- [[Death of Sultan Jauhar Alum]]
+- [[Wilhelmina mutiny and murder of Bouwens]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 1–7, pp. 1–120.
+
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.

@@ -1,7 +1,7 @@
 ---
 title: Acheh
-aliases: [Aceh, Atjeh, Achin, Achehnese country, Kingdom of Acheh]
-tags: [place, kingdom, country, region]
+aliases: [Aceh, Atjeh, Achin, Achehnese country, Kingdom of Acheh, Acheen, Atchin, Acheh proper]
+tags: [place, kingdom, country, region, sultanate, coast]
 ---
 
 Acheh (modern Aceh) is the region at the northern tip of Sumatra that was home to the Sultanate of Acheh, one of the most powerful Islamic port-kingdoms in Southeast Asia from the 16th to the 19th century. It became a major stopping point for Muslim pilgrims traveling between the Indonesian archipelago and Mecca, and a center of Islamic scholarship, mysticism, and literature in the Malay world. Acheh fought a prolonged war of resistance against Dutch colonial conquest beginning in [[1873]], a conflict that produced much of the religious-political and literary material recorded in Hurgronje's study of the Achehnese.
@@ -30,6 +30,27 @@ Acheh is distinguished in the comparative ethnography of the [[East Indian Archi
 
 Snouck Hurgronje's account of Acheh in Vol. I treats in turn the distribution of the people, the forms of government and the administration of justice, the social and domestic institutions, the adats of marriage, divorce, pregnancy, birth and childhood, and the popular religious life. Throughout, he insists that the institutions of Acheh are in large measure genuinely indigenous and of very great antiquity, and that the Sultan's authority — even at its strongest — never seriously displaced the ancient autonomy of the uleebalangs, the *kawoms* and the *mukims*. After the loss of the [[Dalam (Sultan's Court)|Dalam]] and the death of [[Sultan Mahmut Shah]], the fugitive court of the pretender [[Tuanku Muhamat Dawot]] established itself at [[Keumala]] in [[Pidie]] territory, but the sultanate continued to exercise no perceptible influence on the conduct of affairs.
 
+## Account from *Raffles' Atjeh-overeenkomst van 1819* — Acheh
+
+**Acheh** (Dutch *Atjeh*; English *Acheen*; also *Atchin*, *Achin*), in the early nineteenth century a sultanate occupying the northern portion of [[Sumatra]], was the state whose troubled relations with European powers form the subject of Van der Kemp's study of the [[Acheh treaty of 1819]]. The sultanate's decline, the contested successions of the early 1800s, and its strategic position athwart the northern entrance to the [[Straits of Malacca]] made it a permanent object of concern to the British settlement at [[Penang]] and, after [[1819]], to the government of [[Bengal]].
+
+## Geography and political structure
+
+Acheh "proper" comprised the territories around the capital, [[Banda Acheh]], where effective authority had long since slipped from the sultan into the hands of the three confederacies known as the [[Three Sagis]]: the [[XXII Mukims]], [[XXV Mukims]] and [[XXVI Mukims]]. Beyond the capital, the East Coast towns of [[Pedir]] and [[Telok Semawé]] and the subordinate ports along [[Sumatra's East Coast]] enjoyed near-complete autonomy, their chiefs treating with European visitors on their own account. As Van der Kemp notes, by the end of the seventeenth century the sultanate already lay "onder voogdij van de hoofden dier om de hoofdplaats gelegen landschappen" — under the tutelage of the chiefs of the lands surrounding the capital.
+
+## The succession dispute
+
+Since [[1802]] the throne had been occupied, "zooveel de Omstandigheden dit toelieten", by [[Sultan Jauhar Alum]], whose authority was contested by a powerful opposition. In [[1815]] the Penang-based merchant [[Said Hussein]] dispatched a fleet to instal his son as [[Sultan Saif ul-Alum]] (Syf). The ousted Jauhar Alum withdrew to [[Pedir]], while Syf, finding Acheh itself too hot to hold, transferred his rival court to [[Telok Semawé]] on the East Coast. The result, as Van der Kemp summarises, was two sultans — Jauhar at Pedir, Syf at Telok Semawé — while at Acheh proper the federation of the [[Three Sagis]] ruled in fact.
+
+## The Raffles–Coombs commission
+
+When in [[1819]] [[Sir Thomas Stamford Raffles]] and [[Captain Coombs]] were sent by Lord [[Lord Moira|Moira]]'s government in [[Calcutta]] to negotiate with the "king actually in power", the directive at once embroiled them in this contested sovereignty. Raffles favoured Jauhar; [[Colonel John Alexander Bannerman|Bannerman]] and Coombs supported Syf. After a fruitless seven-week stay on the roadstead of [[Banda Acheh]] — where [[Panglima Polim]] made clear that neither pretender counted for much at the capital — the commission sailed to Pedir and on [[22 April]] [[1819]] concluded with Jauhar the [[Treaty of Pedir (1819)]]. The treaty's articles promised free trade, a British resident, and exclusion of other European powers; its Article 6 in particular was later invoked as the foundation of British claims to political suzerainty over the sultanate.
+
+## A "dead letter"
+
+Within months the agreement had proved worthless. Syf continued his piratical career, eventually turning up in [[Calcutta]] and being pensioned at [[Penang]]. Jauhar never recovered the authority the treaty supposed him to possess, and when the [[Three Sagis]] wrote to Governor [[W. E. Phillips|Phillips]] on [[4 December]] [[1822]] they swore on the tomb of [[Teungku Anjong]] at [[Kampong Java]] never to accept him again. By the time of the [[Anglo-Dutch Treaty of London (1824)]] the [[Acheh treaty of 1819]] was openly acknowledged by the London authorities to have been a "dead letter", yet the British plenipotentiaries suddenly produced it at the eleventh hour to extract from the Dutch a guarantee of Achehnese independence — a clause that would generate decades of controversy and ultimately contribute to the negotiations leading to the [[Sumatra Treaty of 1871]].
+
+
 ## See Also
 
 - [[Kesultanan Aceh]]
@@ -47,7 +68,23 @@ Snouck Hurgronje's account of Acheh in Vol. I treats in turn the distribution of
 - [[Tuanku Muhamat Dawot]]
 - [[Achehnese War]]
 - [[C. Snouck Hurgronje]]
+- [[Pedir]]
+- [[Telok Semawé]]
+- [[Three Sagis]]
+- [[Penang]]
+- [[Singapore]]
+- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)]]
+- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Sumatra Treaty of 1871]]
+- [[Sultan Jauhar Alum]]
+- [[Sultan Saif ul-Alum]]
+- [[Panglima Polim]]
+- [[Sir Thomas Stamford Raffles]]
+- [[Captain Coombs]]
 
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.

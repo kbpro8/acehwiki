@@ -1,6 +1,6 @@
 ---
 title: Sumatra
-aliases: [Chamtalira, Sumatera, Sumatra, Isle of Sumatra, Sumatra island]
+aliases: [Chamtalira, Sumatera, Sumatra, Isle of Sumatra, Sumatra island, Pulo Puchee, Puloepuchee, Pulopuchee, Sumatra-eiland, Java minor]
 tags: [place, sacred-site, foreign-land, island, region]
 ---
 
@@ -31,6 +31,27 @@ As a political arena, Sumatra was, in the nineteenth century, dominated by the [
 The comparative ethnography of Sumatra supplies several points of contrast with Acheh. The characteristic institutions regarding the law of person and inheritance which prevail among the Malays of the west coast of Sumatra — including the *ta'liq* marriage contract and the matrilineal institutions of the Menangkabau — are absent from Acheh, where the *ta'liq* is unknown and where the woman, instead of remaining in her mother's house, takes up residence with her husband. The *tariqahs* or mystic orders "so popular in other parts of Sumatra" do not flourish in Acheh, though sundry Achehnese *hajis* have enrolled themselves as members of a *tariqah* in [[Mecca]]. The stereotyped speeches which accompany important domestic occasions in Acheh — betrothal, marriage, the installation of chiefs — find their analogies in other parts of Sumatra and in Java, especially in the formal orations of the Menangkabau districts such as [[Kapau]].
 
 The west coast of Sumatra also figures in *The Achehnese* as a region of related but distinct Muslim custom. The [[Hasan-Husain festival]] was, at the time of writing, celebrated in different parts of Netherlands India, "and especially on the West Coast of Sumatra ([[Padang]], [[Bencoolen]] etc.) … on a smaller scale, but in much the same manner as we find it described in the *Qanoon-e-islam*." It was thought to have been introduced along the seaboard by the *sipahis* (sepoys) who immigrated during the English domination, though Snouck Hurgronje considers it probable that a Hasan-Husain feast had previously enjoyed much popularity both in Sumatra and elsewhere — a view supported by its observance at [[Trumon]] in the manner customary in the [[Deccan]]. The Achehnese slave-traders, until quite recently the terror of [[Nias]] and the adjacent islands, were another Sumatran-wide phenomenon of which Acheh was the most aggressive exponent.
+
+## Account from *Raffles' Atjeh-overeenkomst van 1819* — Sumatra
+
+**Sumatra** (Malay *Pulo Puchee*, "the great island"; in some Dutch letters of the 1820s rhetorically styled *Java minor*) is the great island of the East Indian Archipelago whose political fate forms the wider subject of Van der Kemp's study of the [[Acheh treaty of 1819]]. The sixth-largest island in the world, Sumatra stretches some 1,700 miles from the north-west, where the sultanate of [[Acheh]] commanded the entrance to the [[Straits of Malacca]], to the south-east, where the old Batavian and Palembang spheres bordered the Dutch possessions in [[Java]]. Throughout the early nineteenth century it was the principal theatre of Anglo-Dutch rivalry in the Eastern Seas.
+
+## Partition between spheres
+
+By Article 9 of the [[Anglo-Dutch Treaty of London (1824)]] of [[17 March]] [[1824]] Britain renounced, "op dat eiland", all political establishments and treaties with native rulers; the Netherlands in turn pledged reciprocal abstention in the [[Malay Peninsula]]. The island — "geheel Sumatra", as the Dutch plenipotentiaries wrote home on [[1 February]] [[1824]] — was to fall "exclusief voor Nederland", and the Dutch commissioner [[Anton Reinhard Falck|Falck]] exulted in a private letter of [[7 April]] [[1824]] to [[J. H. van der Palm]] that the entire island was now "aan den Britschen invloed onttrokken en in den werkingskreits der Nederlandsche staatkunde geplaatst". To this general cession one critical exception was extracted at the last moment by the British plenipotentiaries: the [[Acheh treaty of 1819]] was declared incompatible with the new treaty, and the Dutch negotiators — exceeding their instructions — bound their government to respect the independence of Acheh.
+
+## The Acheh reservation and its consequences
+
+As Van der Kemp shows in the central argument of his article, this unscripted reservation — "plotseling uit de lucht komen vallen" — became the hinge on which the whole later Sumatra question turned. [[Robert Fullerton|Fullerton]] of [[Penang]] seized upon it at once in his minute of [[21 March]] [[1825]]: since Acheh was independent, the Dutch could not pass from Article 3 (which forbade differential duties against independent states) to Article 2 (which permitted them) on [[Sumatra's East Coast]], and so the British trade with the petty ports of [[Deli]], [[Langkat]], [[Siak]], [[Kampar]] and [[Jambi]] was preserved. When the Netherlands government afterwards protested that the reservation had never been intended to bar Dutch expansion on Sumatra, [[Lord Palmerston|Palmerston]] replied by clinging, in E. de Waal's phrase, "aan de letter van 't tractaat van 1824". The dispute ran for nearly half a century, until the [[Sumatra Treaty of 1871]] finally saw Britain "afzien van alle vertoogen tegen de uitbreiding van het Nederlandsch gezag in eenig gedeelte van het eiland Sumatra".
+
+## British intrusion; Dutch recovery
+
+Even before 1824 the British had been active on the island. [[Sir Thomas Stamford Raffles|Raffles]] had intrigued from [[Bencoolen]] against the Dutch position on Sumatra; his raid on [[Palembang]] in [[1819]] is compared by Van der Kemp, with deliberate provocation, to the Jameson raid of 1895. After the treaty, Raffles's foundation of [[Singapore]] in [[1819]] — announced to his colleague [[Captain Coombs|Coombs]] only by a note left at [[Penang]] — converted British abstention on Sumatra itself into a powerful strategic position at its eastern gateway. The Dutch, who had given up Malacca, Singapore, and their Hindostan factories for the sake of "onverdeeld gezag op Sumatra", spent the next decades trying to make good their asserted supremacy — sending the man-of-war *Bellona* to [[Sumatra's East Coast]] in [[1827]]–[[1828]], reducing the export price of Java salt, and gradually extending their administration from [[Padang]] and [[Tapanoeli]] on [[Sumatra's West Coast]] toward the eastern states.
+
+## In Van der Kemp's argument
+
+The historical question of Sumatra, for Van der Kemp, is not merely regional but exemplary: it shows how an apparently inoffensive clause, accepted to soothe "de oppositie" at the moment of signature, could be turned, by clinging to the letter, into an instrument for undoing the treaty's main purpose. The parallel he draws in his closing pages is with the [[Suzerainty question|suzerainty question]] of the [[Transvaal]], where the convention of [[1884]] had similarly inserted a formula originally meant as nothing, later to be wielded, in [[D. P. Faure|Faure]]'s phrase, as an "oorlogsram".
+
 
 ## See Also
 
@@ -63,9 +84,21 @@ The west coast of Sumatra also figures in *The Achehnese* as a region of related
 - [[Anglo-Dutch Treaty of 1824]]
 - [[Anglo-Dutch Treaty of 1871]]
 - [[Achehnese War]]
+- [[Sumatra's East Coast]]
+- [[Sumatra's West Coast]]
+- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Sumatra Treaty of 1871]]
+- [[Acheh treaty of 1819]]
+- [[Robert Fullerton]]
+- [[Anton Reinhard Falck]]
+- [[Sir Thomas Stamford Raffles]]
+- [[Tapanoeli]]
+- [[Palembang]]
 
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 1, pp. 1–4.
+
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.

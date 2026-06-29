@@ -1,7 +1,7 @@
 ---
 title: Bencoolen
-aliases: [Benculen, Bancoolen, Benkulu, Bengkulu, Fort Marlborough]
-tags: [place, region, coast, west-coast, foreign, british-india]
+aliases: [Benculen, Bancoolen, Benkulu, Bengkulu, Fort Marlborough, Benkoelen]
+tags: [place, region, coast, west-coast, foreign, british-india, city, colony]
 ---
 
 **Bencoolen** — the modern **Bengkulu**, on the south-west coast of [[Sumatra]] — is named in Vol. I of *The Achehnese* as one of the places on the West Coast of Sumatra where the **Hasan-Husain festival** was celebrated in a form which bears the marks of [[British India|British-Indian]] influence. It is paired by [[C. Snouck Hurgronje]] with [[Padang]] and "etc." as the principal localities of the West Coast at which the festival was observed.
@@ -14,6 +14,25 @@ He is, however, careful to add a caveat: "it is however probable, to say the lea
 
 Bencoolen's appearance in Vol. I is thus that of a comparative locality — a place whose English-Indian history throws light on the diffusion of South-Indian Mohammedan forms in Sumatra, but which cannot by itself account for the prevalence of those forms throughout the Archipelago.
 
+## Account from *Raffles' Atjeh-overeenkomst van 1819* — Bencoolen
+
+**Bencoolen** (Dutch **Benkoelen**; modern **Bengkulu**) was the British East India Company's settlement on the south-west coast of [[Sumatra]], centred on the fortress of **Fort Marlborough**. In P. H. van der Kemp's account of the [[Acheh treaty of 1819|Atjeh-overeenkomst van 1819]], Bencoolen is the seat of authority of [[Sir Thomas Stamford Raffles|Sir Stamford Raffles]], Lieutenant-Governor of Bencoolen from 1817 onward, and the base from which he intrigued against Dutch influence on Sumatra and the wider Eastern Archipelago.
+
+## Raffles's chair of authority
+
+The opening pages of Van der Kemp's narrative set Bencoolen squarely against [[Penang|Pulo Pinang]]. The two chief British authorities in those waters were Raffles, lieutenant-governor of Benkoelen, and Colonel [[Colonel John Alexander Bannerman|Bannerman]], governor of [[Penang]]. Bannerman's name has been eclipsed, Van der Kemp observes, "because he had no taste for the conscienceless driving of Benkoelen's governor." It was from Bencoolen that Raffles wrote to [[Sultan Jauhar Alum|Sultan Djohor]] warning him to refuse the Dutch aid allegedly offered at [[Pedir]], and promising that he was "ready to go to [[Calcutta]]" and there invoke "the help of the Bengal government for Djohor."
+
+## The Acheh Commission of 1819
+
+When [[Lord Moira|Lord Moira]], Governor-General of [[Bengal|Bengalen]], decided to send a commission to [[Acheh]] to secure British influence and exclude that of the Dutch, Raffles was named senior commissioner with a casting vote. The choice was natural given his rank at Bencoolen, but it placed him in uneasy partnership with [[Captain Coombs|Captain Coombs]] of the Bengal establishment. Raffles diverted artillery and military stores intended for the Acheh expedition to his [[Raffles' detour to Karimon Islands|detour to the Karimon Islands]] in January [[1819]], provoking formal complaint from Bannerman and Coombs that "Benkoelen's governor" had arbitrarily interrupted the Acheh commission and sent off the *Minto* on his own authority. After the [[Raffles-Coombs Acheh Commission (1819)|treaty with Sultan Jauhar Alum]] was nonetheless concluded in April 1819, Raffles was credited in the *Asiatic Journal* and the *Oriental Star* as the sole architect: "the man who had accomplished that great work was none other than the Governor of Bencoolen."
+
+## A pawn in the Anglo-Dutch revision
+
+After the [[Anglo-Dutch Treaty of London (1814)|treaty of 1814]] restored the Dutch possessions in the East, Bencoolen's situation became untenable. British-Indian officials in [[Bengal|Bengalen]] urged the Dutch to surrender the now-worthless factories in [[Hindostan]] in exchange for Bencoolen. [[Anton Reinhard Falck|Falck]] and [[Hendrik Fagel|Fagel]] had agreed already in [[1814]] on the worthlessness of the Hindostan factories, and [[Elout|Commissioner-General Elout]] in February [[1817]] formally recommended that Bencoolen be taken over in exchange for them. This became the foundation of the revision of the treaty of 1814 culminating in the [[Anglo-Dutch Treaty of London (1824)|treaty of London of 17 March 1824]].
+
+Van der Kemp characterises the surrender as a deliberate sacrifice: "we bade farewell to our possessions on the Ganges, more glorious in memory; for that we finally acquiesced in the humiliation of [[Singapore]]; for that we threw in costly [[Malacca]] to boot." Under article 10 of the 1824 treaty the transfer of Bencoolen to the Dutch took effect, and with it the abandonment of British political influence on Sumatra as a whole. The British plenipotentiaries nevertheless stipulated that "the new possessor of Fort Marlborough" should take no hostile measures against the King of [[Acheh]] — a stipulation whose very formulation Van der Kemp treats as a piece of effrontery.
+
+
 ## See Also
 
 - [[Sumatra]]
@@ -25,7 +44,22 @@ Bencoolen's appearance in Vol. I is thus that of a comparative locality — a pl
 - [[Deccan]]
 - [[British India]]
 - [[Jaffur Shurreef]]
+- [[Sir Thomas Stamford Raffles]]
+- [[Colonel John Alexander Bannerman]]
+- [[Captain Coombs]]
+- [[Raffles-Coombs Acheh Commission (1819)]]
+- [[Raffles' detour to Karimon Islands]]
+- [[Penang]]
+- [[Calcutta]]
+- [[Bengal]]
+- [[Malacca]]
+- [[Singapore]]
+- [[Anglo-Dutch Treaty of London (1814)]]
+- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Hindostan]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.

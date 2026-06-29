@@ -1,7 +1,7 @@
 ---
 title: Straits of Malacca
-aliases: [Strait of Malacca, Selat Melaka, Malacca Strait, Straits]
-tags: [place, foreign, strait, sea, malay]
+aliases: [Strait of Malacca, Selat Melaka, Malacca Strait, Straits, Straat van Malakka, Malacca Straits, Straits of Malacca]
+tags: [place, foreign, strait, sea, malay, maritime-route, malay-world]
 ---
 
 The **Straits of Malacca** (Malay *Selat Melaka*) is the long, narrow stretch of water between the [[Malay Peninsula]] and the island of [[Sumatra]], connecting the Andaman Sea with the South China Sea. In *The Achehnese* Vol. I, the Straits are invoked chiefly through [[Newbold|T. J. Newbold]]'s *British Settlements in the Straits of Malacca*, which serves Snouck Hurgronje as a standard comparative source for Malay institutions, and as a term in the geographical and political vocabulary of the region.
@@ -14,6 +14,17 @@ Snouck Hurgronje draws repeatedly on Newbold's work. The discussion of the *muki
 
 The Straits of Malacca form the maritime corridor through which Islam, trade-goods, and political influence moved between the [[East Indian Archipelago]], the [[Malay Peninsula|Malay world]], and the wider Indian Ocean. In Snouck Hurgronje's analysis, the close resemblance between Achehnese and Malay institutions on such matters as the *mukim*, the *sawah/ladang* vocabulary of rice-fields, and the [[Mandi Safar]] festival is itself testimony to the Straits' role as a conduit of culture. [[Acheh]], commanding the northern entrance of the Straits, was the natural point of contact between the Mohammedan world of the [[Deccan]] and [[Arabia]] and the Malay-Indonesian world to the south-east.
 
+## Account from *Raffles' Atjeh-overeenkomst van 1819* — Straits of Malacca
+
+The **Straits of Malacca** (Dutch: *Straat van Malakka*) is the long, narrow stretch of water between the [[Malay Peninsula]] and the island of [[Sumatra]], connecting the Indian Ocean with the South China Sea. It is one of the world's most important maritime chokepoints, and in the early nineteenth century its control was the strategic prize that shaped British interest in both [[Acheh]] and [[Penang]].
+
+Van der Kemp's monograph singles out the Straits of Malacca as one of the two explicit objects of the [[Raffles-Coombs Acheh Commission|Raffles–Coombs commission]] of [[1819]]. The Calcutta government, in its report to [[London]] defining the commission's purpose, listed as the second objective "to secure the free navigation of the Straits of Malacca and a fixed commercial intercourse with the north coast of Sumatra" ("*to secure the free navigation of the straits of Malacca and an [established commercial intercourse with the north coast of Sumatra]*") (Van der Kemp, 1900, p. 164). Freedom of navigation through the Straits was, in other words, the political end for which the [[Acheh Treaty of 1819|treaty of 1819]] was the means.
+
+The strategic logic was straightforward. The northern entrance to the Straits was commanded by Achehnese ports, and any hostile power established at Acheh could, in principle, interrupt the China trade on which British India depended. This had been the burden of Raffles's representations to Governor-General [[Lord Moira|Lord Moira]] in Calcutta: the Dutch, if they succeeded in establishing themselves at Acheh, "would come to monopolise the China road." The [[Acheh Treaty of 1819|treaty of 1819]] accordingly contained clauses excluding other European nations from Achehnese harbours, and its renegotiation in [[1824]] produced the [[Anglo-Dutch Treaty of London 1824|London treaty]] by which Britain withdrew from Sumatra in exchange for Dutch withdrawal from [[Malacca]] and the Indian factories.
+
+The Straits retained their strategic salience throughout the colonial period and into Van der Kemp's own day. The prosperity of [[Singapore]], founded by Raffles in [[1819]], was understood to depend on the uninterrupted flow of trade through the Straits, and [[Robert Fullerton|Governor Fullerton]]'s [[Fullerton's Minute on Acheh|minute on Acheh]] of the late [[1820s]] returned again and again to the dependence of [[Malacca]] and Singapore on the surrounding states. The Straits of Malacca thus function in Van der Kemp's narrative both as a concrete waterway and as a recurring strategic abstraction — the indispensable artery of British power in the Eastern Seas.
+
+
 ## See Also
 
 - [[Malay Peninsula]]
@@ -25,7 +36,13 @@ The Straits of Malacca form the maritime corridor through which Islam, trade-goo
 - [[Penang]]
 - [[Newbold]]
 - [[Straits Settlements]]
+- [[Singapore]]
+- [[Acheh Treaty of 1819]]
+- [[Anglo-Dutch Treaty of London 1824]]
+- [[Sir Thomas Stamford Raffles]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
