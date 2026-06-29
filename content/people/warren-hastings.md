@@ -1,7 +1,7 @@
 ---
 title: Warren Hastings
-aliases: [Warren Hastings, Governor-General of Bengal]
-tags: [person, colonial-official, british]
+aliases: ['Hastings', 'Warren Hastings', 'governor-generaal van Bengalen', 'Governor-General of Bengal']
+tags: ['british', 'person', 'british-official', 'colonial-official']
 ---
 
 **Warren Hastings** (1732–1818) was the first Governor-General of Bengal, from 1773 to 1785, and one of the principal architects of the early British East India Company state in India. In the context of Achehnese history he is remembered as the addressee of the celebrated discourteous letter sent by the then [[Sultan of Acheh]] in [[1786]], in reply to an expression of goodwill — an episode that has come to symbolise the persistent failure of European powers, throughout the eighteenth and nineteenth centuries, to establish reliable friendly relations with the Achehnese court.
@@ -23,7 +23,33 @@ Warren Hastings's own share in the episode is slight — he is the recipient rat
 - [[Acheh War]]
 - [[Penang]]
 - [[Raffles]]
+- [[Sultan of Acheh's letter to Warren Hastings]]
+- [[Sultan Alauddin Muhammad Shah Jauhar]]
+- [[Sultan Ziemul Abudeen]]
+- [[Captain Francis Light]]
+- [[Captain Hobbs]]
+- [[John Bird]]
+- [[George Canning]]
+- [[W. E. Phillips]]
+- [[Treaty of Quedah (Penang cession, 1786)]]
+- [[Hindostan]]
+- [[Bengal]]
+- [[Tringano]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159-239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+## The Acheh Letter of 7 November 1786
+
+Van der Kemp opens his article with the observation that, down to the eighteenth century, the relations of the European powers with Acheh had «invariably been either very loose or very strained». Even so powerful a figure as Warren Hastings, Governor-General of Bengal, had to resign himself to receiving, in reply to a profession of goodwill, the «brutal communication» conveyed in [[Sultan of Acheh's letter to Warren Hastings|the sultan's letter of 7 November 1786]]. The letter, printed in full as Appendix 1 of Van der Kemp's article, is from «sultan Munson, son of sultan [[Sultan Ziemul Abudeen|Ziemul Abudeen]]» (identified by [[Pieter Johannes Veth|Professor Veth]] as [[Sultan Alauddin Muhammad Shah Jauhar|Alaue'd-din Mahmoed Shah Djohan]], who had come to the throne in [[1781]] and would die in [[1795]]) to «you who are a valuable and noble friend, and who are known to [[Hindostan]] and Arabia». After expressing a desire for lasting friendship with the English, the Sultan turns to the question of the arms:
+
+> «The muskets which you sent me, as mentioned in your letter, from not being worth anything, I have returned, and request in future you will send me such as may be useful, or I do not want any, though I ask you for 300 small muskets agreeable to a muster I send by [[John Bird|Mr. John Bird]] after the death of [[Captain Hobbs|captain Hobbs]].»
+
+The letter also relates the death of [[Captain Hobbs|Captain Hobbs]], who had been wounded by a «classy» (i.e. a sailor) from [[Java]] while asleep two days out from [[Tringano]], and who died after five or six days on his return to that port; and it mentions the consultations held with «[[George Canning|captain Canning]] and [[W. E. Phillips|Mr. Phillips]]» concerning the effects of the deceased.
+
+## Significance in the Achehnese Tradition
+
+The incident is cited by Van der Kemp as evidence of the standing difficulty of European relations with Acheh, a difficulty that, in his reading, was the backdrop to the later British preference for [[Penang]] (settled at [[Treaty of Quedah (Penang cession, 1786)|the Quedah treaty of 1786]] by [[Captain Francis Light|Captain Francis Light]]) over Acheh itself, and ultimately to [[Sir Thomas Stamford Raffles|Raffles's]] [[Acheh treaty of 1819|Acheh treaty of 1819]]. The same year [[1786]] that produced Hastings's rebuff also produced Light's settlement at Penang, and thus the future seat of British political superintendence over Achehnese affairs.

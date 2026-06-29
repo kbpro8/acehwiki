@@ -1,7 +1,7 @@
 ---
 title: James Price
-aliases: [JAMES PRICE]
-tags: [person, colonial-official, british, east-india-company]
+aliases: ['JAMES PRICE', 'J. Price', 'Price']
+tags: ['correspondent', 'british', 'person', 'east-india-company', 'british-official', 'colonial-official']
 ---
 
 **James Price** was a British East India Company officer who, in the same year [[1786]] in which [[Captain Francis Light|Captain Francis Light]] founded the settlement of [[Penang|Pulau Pinang]], wrote to the Chairman of the Company in London setting out the case for preferring Penang to the port of [[Acheh|Acheh]] as the site of a British factory. Together with Light and [[Warren Hastings|Warren Hastings]], he figures in Snouck Hurgronje's Introduction to *The Achehnese* as one of the three contemporary British observers who, in the last quarter of the eighteenth century, grasped the practical impossibility of establishing European influence in Acheh without an overwhelming military force.
@@ -23,7 +23,11 @@ The decision taken on Price's and Light's advice — to settle [[Penang|Penang]]
 - [[Pulau Pinang]]
 - [[Acheh]]
 - [[Achehnese War]]
+- [[Treaty of Quedah (Penang cession, 1786)]]
+- [[Acheh treaty of 1819]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159-239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
