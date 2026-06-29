@@ -1,6 +1,6 @@
 ---
 title: The Hague
-aliases: [The Hague, 's-Gravenhage, Den Haag, s'Gravenhage, 's Gravenhage, the Hague]
+aliases: [The Hague, "'s-Gravenhage", Den Haag, "s'Gravenhage", "'s Gravenhage", the Hague]
 tags: [place, city, netherlands, publication, colonial-government, capital, european-city, dutch-government]
 ---
 
