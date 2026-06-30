@@ -1,7 +1,7 @@
 ---
 title: Habib Abdurrahman Zahir
-aliases: [the Habib, Sayyid Abdurrahman Zahir, Habib Abdurrahman, Sayyid Abdurrahman]
-tags: [person, warrior, religious-figure, sayyid, reformer, arab, jihad-leader]
+aliases: [the Habib, Sayyid Abdurrahman Zahir, Habib Abdurrahman, Sayyid Abdurrahman, Habib Abdoerrahman, Abdul Rachman, Habib]
+tags: [person, warrior, religious-figure, sayyid, reformer, arab, jihad-leader, religious, aceh, resistance]
 ---
 
 The most famous Habib in Acehnese history and the most energetic political-religious figure of the Dutch war period. He was abroad seeking help at Constantinople when the Dutch first attacked in [[1873]], and his return marked a turning point in the war. He established himself at Mon Tasie' and led several expeditions before submitting to the Dutch — an act his enemies attributed to treachery. He rebuilt the great mosque Meuseugit Raya at Kutaraja.
@@ -48,7 +48,47 @@ The Habib was a competent politician, ruthless in his dealings with opposing chi
 
 Circumstances made him for a time the leader of the [[Holy War (Jihad) against the Dutch|holy war]] against the Dutch, but he repeatedly showed that he would have preferred a peaceful settlement. He was hindered by Dutch mistrust on one side and by Achehnese overconfidence on the other. At the [[Battle at Krueng Raba|investment of the Dutch fort at Krueng Raba]] he promised the commandant a free retreat and forbade his followers to raise a hand against the unbelievers if the offer were accepted — conduct which the Achehnese afterwards cited as proof that he was a spy. "Placed thus between two fires," Snouck writes, "he finally longed for repose, which he found in accepting a pension and migrating to Arabia." The Achehnese now generally regard him as an ambitious traitor. Yet, as Snouck insists, his success in the centralisation of power under his own control was "nothing short of prodigious," and would have been impossible without the impregnable basis furnished by his character as a Sayyid.
 
+## Account from *Boon, Van Lansberge* (1943) — Habib Abdul Rahman
+
+**Habib Abdul Rahman**, commonly referred to as **Habib**, was a prominent religious leader and resistance figure in [[Aceh]] during the [[Aceh War]]. He played a significant role in the conflict, particularly in the period [[1878]]-[[1879]], when his actions influenced Dutch military strategy and led to the controversial decision to "buy him off" with a yearly allowance.
+
+## Background and Role
+
+Habib was a *habib* (a descendant of the Prophet Muhammad) who wielded considerable religious prestige among the Acehnese population. His influence extended beyond religious matters, as he was a political leader who could organize resistance against Dutch rule.
+
+Van Lansberge described Habib as "a politician" and noted that "he may not be able to keep the enemies together and wage a regular war against us, he can certainly, through his system of terrorism and his religious prestige, do us much harm through assassination and robbery, and long delay the submission."
+
+## The [[1878]] Expedition
+
+In [[June]] [[1878]], during a major Dutch military expedition into the XXII Mukims, Habib launched a counterattack:
+- He invaded the Dutch-occupied part of [[Great Aceh]], forcing General [[K. van der Heijden]] to return his troops to [[Kota Radja]].
+- The invasion demonstrated Habib's ability to threaten Dutch positions despite military setbacks.
+
+## Negotiations and Submission
+
+Following the [[October]] [[1878]] submission of Habib, he was granted a yearly allowance of [[12,000 dollars]] in exchange for his departure from Aceh:
+
+1. **Dutch rationale**: Van Lansberge justified the payment on pragmatic grounds: "What the purchase of Habib concerns, I would like to make an exception for him for the following reasons. The situation depends on him. He may not be able to keep the enemies together and wage a regular war against us, he can certainly, through his system of terrorism and his religious prestige, do us much harm through assassination and robbery, and long delay the submission."
+
+2. **Method**: The payment was to be made monthly through the Dutch consul in [[Jeddah]], ensuring Habib's permanent departure from Aceh.
+
+3. **Departure**: Habib left Aceh on [[13 October]] [[1878]], though he did not actually depart until [[24 October]].
+
+4. **Assessment**: The purchase was controversial. Van Bosse was reluctantly supportive, stating: "It is true that one cannot trust them; that one must be very careful. But one must not forget that the end of the matter is highly desirable."
+
+## Dutch Assessment
+
+Habib's departure was seen as a significant victory by the Dutch:
+- Van Lansberge: "We are not only rid of him for good, but we have him constantly in our hand, because his interest requires him not to be disloyal to us anymore."
+- Van Goltstein: "I would have preferred to see him in our hands through force or cunning, to keep him, like [[Dipo Negoro]], in secure custody hundreds of hours away."
+
+## Legacy
+
+The Habib affair established a precedent for dealing with influential Acehnese leaders through financial inducements. The Dutch later reflected that "the purchase of the Habib was a necessary evil" given the high costs of continued warfare.
+
+
 ## See Also
+
 - [[Aceh War]]
 - [[Battle at Krueng Raba]]
 - [[Establishment of the bale menhakamah (religious court)]]
@@ -64,8 +104,17 @@ Circumstances made him for a time the leader of the [[Holy War (Jihad) against t
 - [[Stoning of a couple for illicit intercourse by Habib Abdurrahman]]
 - [[Teuku Uma]]
 - [[Teungku Tiro (Muhamat Amin)]]
+- [[J.W. van Lansberge]]
+- [[K. van der Heijden]]
+- [[P.P. van Bosse]]
+- [[Dipo Negoro]]
+- [[1878]]
+- [[1879]]
 
 ## Source
+
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni [[1855]]*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, [[1943]], Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, pp. 40-41, 153-156, 164-169.

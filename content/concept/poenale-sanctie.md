@@ -1,0 +1,70 @@
+---
+title: Poenale Sanctie
+aliases: [poenale sanctie, penal sanctions, Article 2 No. 27]
+tags: [concept, labor, java, colonial]
+---
+The **Poenale Sanctie** (Penal Sanction) was a legal provision that made it a criminal offense for workers to break their labor contracts. The provision, particularly **Article 2, No. 27** of the General Police Criminal Regulation for Natives, was a key element of colonial labor policy and was the subject of intense debate in the [[Netherlands]] and the [[Dutch East Indies]] during the [[1870s]].
+
+## Background
+
+Under the Cultivation System, labor was often compelled through traditional authority structures. When the system moved toward free labor in the [[1870s]], labor recruitment became more difficult. The poenale sanctie was used to ensure that workers, particularly those who had received advances, would fulfill their contracts.
+
+## Article 2, No. 27
+
+The provision stated that: "Those who hire themselves as servants or laborers for the usual term and, without acceptable reasons within the usual term or during the current month, leave their service or refuse to work without the consent of the employer—and subject to their civil obligations and unless the act constitutes a crime—shall be punished with a fine of 16 to 25 guilders or 7 to 12 days of work on public works at cost."
+
+## The Debate
+
+### Liberal Criticism
+
+Liberals in the [[States-General]] criticized the poenale sanctie as:
+- A form of disguised slavery (pandelingschap).
+- A violation of the principle of free labor.
+- An incentive for employers to abuse their power.
+
+### Government Defense
+
+The colonial government defended the provision on pragmatic grounds:
+- Without it, employers could not secure labor.
+- Advances to workers would be lost if the contract was broken.
+- In [[Deli]], where immigrant labor was essential, the provision was "absolutely indispensable."
+
+## Implementation
+
+### Deli (Sumatra's East Coast)
+
+In Deli, where plantation labor was largely imported, the poenale sanctie was seen as essential:
+- J.T. Cremer, a planter and later Minister, argued that without the provision, "the immigrants, after the expiration of their punishment, would leave their employers and turn to robbery."
+- The [[1880]] Coelie Ordnantie (Labor Ordinance) established a written labor contract system for Deli.
+
+### Java
+
+On Java, the provision was less widely used and eventually abolished in [[1879]], replaced by Article 328a of the Criminal Code for Natives, which was "practically useless."
+
+## Van Lansberge's View
+
+Van Lansberge defended the provision, arguing that its abolition was driven by "the desire to apply a theory without considering whether that application is possible or advisable." He noted that:
+- The provision was applied "with moderation" on Java.
+- Workers were only hired for a month (or 3-4 months during harvest).
+- The "disguised slavery" claims were "absurd."
+
+## Legacy
+
+The poenale sanctie debate reflected broader tensions in colonial policy:
+- The conflict between liberal ideology and economic necessity.
+- The problem of labor supply in a colonial economy.
+- The tension between the rights of workers and the needs of employers.
+
+The issue was eventually resolved through a combination of labor regulation (the [[1880]] Coelie Ordnantie) and the gradual development of free labor systems.
+
+## See Also
+
+- [[Cultivation System]]
+- [[Deli]]
+- [[J.T. Cremer]]
+- [[Coelie Ordnantie]]
+- [[Pandelingschap]]
+
+## Source
+
+*J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni [[1855]]*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, [[1943]], Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, Chapter VI, pp. 118-133.
