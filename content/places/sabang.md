@@ -5,7 +5,7 @@ tags: [place, harbour, free-port, trade, colonial, port, dutch, island]
 ---
 
 **Sabang** was the free port and coaling station developed on the northern bay of
-[[Poeloe We|pulo we]], the island off the northern tip of [[Acheh]], by the
+[[Pulo We|Poeloe We]], the island off the northern tip of [[Acheh]], by the
 [[Netherlands Indies]] Government and the [[N.V. Zeehaven en Kolenstation Sabang|Sabang Company]]
 from the 1880s onward. Conceived as the only [[Acheh|Atjehnese]] free port and promoted as a rival
 to [[Penang]] and [[Singapore]], it never captured the regional entrepôt trade its founders
@@ -14,7 +14,7 @@ predicted, but established itself instead as one of the most important bunkering
 
 ## The island and its occupation (1884–1887)
 
-The harbour was laid out in the northern bay of [[Poeloe We|Pulo We]], an island that in the seventeenth
+The harbour was laid out in the northern bay of [[Pulo We|Poeloe We]], an island that in the seventeenth
 and eighteenth centuries had served the [[Sultanate of Acheh]] as a penal colony and that in the
 nineteenth century held only a very small permanent population on its southern side. The island
 retained importance for [[Acheh]] chiefly because it yielded *sulphur*, which the warlike sultanate
@@ -120,7 +120,7 @@ brought [[Acheh]] under control, sought to convert the conquest into a commercia
 
 ## Account from *De Buitenbezittingen* (1917) — Sabang
 
-**Sabang** was the great ocean harbour and free port established in [[1897]] on the Sabangbaai of the island of [[Poeloe Wé|Pulo We]], at the northern tip of Sumatra — the colonial venture that [[Joannes Benedictus van Heutsz|van Heutsz]] had, in his [[1892]] brochure *De Onderwerping van Atjeh*, pressed upon the Government as a competitor to [[Penang]] for the trade of northern Sumatra, and which the *N.V. Zeehaven en Kolenstation Sabang* (the Sabang Maatschappij) operated, after [[1898]], as the only *vrijhaven* of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* devotes an extended chapter to its installations and finances, while conceding that "de grootsche toekomstdroomen van Sabang als handels-emporium voor geheel Noord-Sumatra niet verwezenlijkt hebben" — the grand dream of Sabang as the trade-emporium of all Northern Sumatra was never realised.
+**Sabang** was the great ocean harbour and free port established in [[1897]] on the Sabangbaai of the island of [[Pulo We|Poeloe We]], at the northern tip of Sumatra — the colonial venture that [[Joannes Benedictus van Heutsz|van Heutsz]] had, in his [[1892]] brochure *De Onderwerping van Atjeh*, pressed upon the Government as a competitor to [[Penang]] for the trade of northern Sumatra, and which the *N.V. Zeehaven en Kolenstation Sabang* (the Sabang Maatschappij) operated, after [[1898]], as the only *vrijhaven* of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* devotes an extended chapter to its installations and finances, while conceding that "de grootsche toekomstdroomen van Sabang als handels-emporium voor geheel Noord-Sumatra niet verwezenlijkt hebben" — the grand dream of Sabang as the trade-emporium of all Northern Sumatra was never realised.
 
 ## Origins, 1884–1898
 
@@ -157,7 +157,7 @@ When the Japanese capitulation came on [[14 August]] [[1945]], the preparations 
 
 ## See Also
 
-- [[Poeloe We]]
+- [[Pulo We|Poeloe We]]
 - [[N.V. Zeehaven en Kolenstation Sabang]]
 - [[Atjeh Transport Maatschappij]]
 - [[Van Heutsz]]
