@@ -150,30 +150,10 @@ The kolenbedrijf grew from 19,000 tons delivered in [[1900]] to a peak of 210,00
 - [[Joannes Benedictus van Heutsz]]
 - [[Sabang Maatschappij]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[1884]]
-- [[1887]]
-- [[1892]]
-- [[1897]]
-- [[1898]]
-- [[1900]]
-- [[1903]]
-- [[1909]]
-- [[1910]]
-- [[1911]]
-- [[1912]]
-- [[1913]]
-- [[1915]]
-- [[1917]]
 
 ## Source
 
-*De Europeesche Industrie* ["The European Industry"], section *De Buitenbezittingen* ("The Outer
-
-Possessions"), in *Grooten van Zee en Land in Nederlandsch-Indië*, Vol. 6, pp. 243–251 (English
-
-translation from the Dutch).
-
-B. A. van Sandick, *Sabang en Belawan als oceaanhavens* ["Sabang and Belawan as Ocean Harbours"], in
+*De Europeesche Industrie* ["The European Industry"], section *De Buitenbezittingen* ("The Outer Possessions"), in *Grooten van Zee en Land in Nederlandsch-Indië*, Vol. 6, pp. 243–251 (English translation from the Dutch). B. A. van Sandick, *Sabang en Belawan als oceaanhavens* ["Sabang and Belawan as Ocean Harbours"], in
 
 *Indische Mercuur* (1913), No. 49 — cited in the source.
 
