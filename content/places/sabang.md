@@ -5,7 +5,7 @@ tags: [place, harbour, free-port, trade, colonial, port, dutch, island]
 ---
 
 **Sabang** was the free port and coaling station developed on the northern bay of
-[[Poeloe We]], the island off the northern tip of [[Acheh]], by the
+[[Poeloe We|pulo we]], the island off the northern tip of [[Acheh]], by the
 [[Netherlands Indies]] Government and the [[N.V. Zeehaven en Kolenstation Sabang|Sabang Company]]
 from the 1880s onward. Conceived as the only [[Acheh|Atjehnese]] free port and promoted as a rival
 to [[Penang]] and [[Singapore]], it never captured the regional entrepôt trade its founders
@@ -14,7 +14,7 @@ predicted, but established itself instead as one of the most important bunkering
 
 ## The island and its occupation (1884–1887)
 
-The harbour was laid out in the northern bay of [[Poeloe We]], an island that in the seventeenth
+The harbour was laid out in the northern bay of [[Poeloe We|Pulo We]], an island that in the seventeenth
 and eighteenth centuries had served the [[Sultanate of Acheh]] as a penal colony and that in the
 nineteenth century held only a very small permanent population on its southern side. The island
 retained importance for [[Acheh]] chiefly because it yielded *sulphur*, which the warlike sultanate
@@ -113,18 +113,18 @@ strengthen Sabang's position against competing foreign ports.
 Sabang stands as a case of a colonial port that failed in its declared purpose yet succeeded in
 another. The "illusion" of supplanting [[Penang]] and [[Singapore]] as the entrepôt of the region
 was never realised, and the old credit-bound trade with [[Penang]] held firm; but by exploiting
-[[Poeloe We]]'s deep, all-hours anchorage and the new ocean routes of the [[Stoomvaart Maatschappij Nederland]]
+[[Poeloe We|Pulo We]]'s deep, all-hours anchorage and the new ocean routes of the [[Stoomvaart Maatschappij Nederland]]
 and the [[Packet Service]], Sabang made itself indispensable as a coaling and transit station on the
 approach to the [[Strait of Malacca]]. It is the clearest expression of how Dutch power, once it had
 brought [[Acheh]] under control, sought to convert the conquest into a commercial gateway.
 
 ## Account from *De Buitenbezittingen* (1917) — Sabang
 
-**Sabang** was the great ocean harbour and free port established in [[1897]] on the Sabangbaai of the island of [[Poeloe Wé|Poeloe Wé]], at the northern tip of Sumatra — the colonial venture that [[Joannes Benedictus van Heutsz|van Heutsz]] had, in his [[1892]] brochure *De Onderwerping van Atjeh*, pressed upon the Government as a competitor to [[Penang]] for the trade of northern Sumatra, and which the *N.V. Zeehaven en Kolenstation Sabang* (the Sabang Maatschappij) operated, after [[1898]], as the only *vrijhaven* of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* devotes an extended chapter to its installations and finances, while conceding that "de grootsche toekomstdroomen van Sabang als handels-emporium voor geheel Noord-Sumatra niet verwezenlijkt hebben" — the grand dream of Sabang as the trade-emporium of all Northern Sumatra was never realised.
+**Sabang** was the great ocean harbour and free port established in [[1897]] on the Sabangbaai of the island of [[Poeloe Wé|Pulo We]], at the northern tip of Sumatra — the colonial venture that [[Joannes Benedictus van Heutsz|van Heutsz]] had, in his [[1892]] brochure *De Onderwerping van Atjeh*, pressed upon the Government as a competitor to [[Penang]] for the trade of northern Sumatra, and which the *N.V. Zeehaven en Kolenstation Sabang* (the Sabang Maatschappij) operated, after [[1898]], as the only *vrijhaven* of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* devotes an extended chapter to its installations and finances, while conceding that "de grootsche toekomstdroomen van Sabang als handels-emporium voor geheel Noord-Sumatra niet verwezenlijkt hebben" — the grand dream of Sabang as the trade-emporium of all Northern Sumatra was never realised.
 
 ## Origins, 1884–1898
 
-The Dutch flag was first hoisted over [[Poeloe Wé|Poeloe Wé]] in [[1884]], when a small *kolenloods* (coal-shed) was built on the Zuidbaai (Lhoʼ Balohan) and a *hoofd* appointed; an [[1887]] commission under De Lange concluded that the Noordbaai — the Sabangbaai — was the more serviceable anchorage. The Bataviaasche firma De Lange & Co. received that year the concession for a *kolenstation*, and De Lange's *Chef* van Oosterzee is named by *De Buitenbezittingen* as "de geestelijken vader van Sabang" — the spiritual father of Sabang. Van Heutsz, then a major, propagated the project in [[1892]]. In [[1897]] the haven was opened as a *vrijhaven* for general trade, and in [[1898]] the *N.V. Zeehaven en Kolenstation Sabang* was founded, taking over De Lange's business. A Gouvernements-*dok* of 3,000-ton capacity, stationed from [[1898]], later passed into the Maatschappij's ownership under servitude of free docking for Government vessels.
+The Dutch flag was first hoisted over [[Poeloe Wé|Pulo We]] in [[1884]], when a small *kolenloods* (coal-shed) was built on the Zuidbaai (Lhoʼ Balohan) and a *hoofd* appointed; an [[1887]] commission under De Lange concluded that the Noordbaai — the Sabangbaai — was the more serviceable anchorage. The Bataviaasche firma De Lange & Co. received that year the concession for a *kolenstation*, and De Lange's *Chef* van Oosterzee is named by *De Buitenbezittingen* as "de geestelijken vader van Sabang" — the spiritual father of Sabang. Van Heutsz, then a major, propagated the project in [[1892]]. In [[1897]] the haven was opened as a *vrijhaven* for general trade, and in [[1898]] the *N.V. Zeehaven en Kolenstation Sabang* was founded, taking over De Lange's business. A Gouvernements-*dok* of 3,000-ton capacity, stationed from [[1898]], later passed into the Maatschappij's ownership under servitude of free docking for Government vessels.
 
 ## The Sabang Maatschappij
 
