@@ -118,6 +118,10 @@ and the [[Packet Service]], Sabang made itself indispensable as a coaling and tr
 approach to the [[Strait of Malacca]]. It is the clearest expression of how Dutch power, once it had
 brought [[Acheh]] under control, sought to convert the conquest into a commercial gateway.
 
+## Sabang as an internment site, 1905–1908
+
+Beyond its role as a commercial harbour, Sabang served during the governorship of [[G. C. E. van Daalen|Van Daalen]] ([[1905]]–[[1908]]) as a site for the arbitrary internment of local chiefs and their families. Van Daalen frequently sent *oelèëbalangs* — sometimes along with their wives and children — to Sabang without any judicial process; the internment was often indefinite, and Van Daalen claimed such measures were necessary to maintain control. [[J. B. van Heutsz|Van Heutsz]]'s investigation in [[1907]] as part of the [[Atjéh-enquête|Atjéh-enquête]] found that in many cases the individuals interned had committed no offence; the internments were arbitrary and not based on the legal provisions of Article 47 of the *Regeeringsreglement*; and families were separated and left without means of support. Van Heutsz condemned the practice and ordered it ended. After Van Daalen's removal in [[1908]], Sabang ceased to be used as an internment site for political prisoners, reverting to its original functions as a naval and coaling station. The episode exemplified the abuses of the Van Daalen era and highlighted the tension between the governor's discretionary powers and the rule of law.
+
 ## Account from *De Buitenbezittingen* (1917) — Sabang
 
 **Sabang** was the great ocean harbour and free port established in [[1897]] on the Sabangbaai of the island of [[Pulo We|Poeloe We]], at the northern tip of Sumatra — the colonial venture that [[Joannes Benedictus van Heutsz|van Heutsz]] had, in his [[1892]] brochure *De Onderwerping van Atjeh*, pressed upon the Government as a competitor to [[Penang]] for the trade of northern Sumatra, and which the *N.V. Zeehaven en Kolenstation Sabang* (the Sabang Maatschappij) operated, after [[1898]], as the only *vrijhaven* of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* devotes an extended chapter to its installations and finances, while conceding that "de grootsche toekomstdroomen van Sabang als handels-emporium voor geheel Noord-Sumatra niet verwezenlijkt hebben" — the grand dream of Sabang as the trade-emporium of all Northern Sumatra was never realised.
@@ -191,5 +195,7 @@ When the Japanese capitulation came on [[14 August]] [[1945]], the preparations 
 *Indische Mercuur* (1913), No. 49 — cited in the source.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 15, 25–27, 243–248.
+
+*J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 198, 255. Rijksarchief, Den Haag.
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I §§ 1–4, Chapter II, Chapter V § 1, Chapter VII § 4.

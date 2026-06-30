@@ -36,6 +36,10 @@ In religious custom, too, Pidie followed its own local usages. In the matter of 
 
 Pidie acquired fresh political importance during the [[Achehnese War]]. When the [[Dalam (Sultan's Court)|Dalam]] was lost and [[Sultan Mahmut Shah]] died, the fugitive court of the pretender [[Tuanku Muhamat Dawot]] found refuge in Pidie territory — at [[Keumala]] — "far removed from the theatre of the conflict," where the sultanate continued "very much the same as it had been before the war, the scene alone being changed." It was in Pidie, too, that [[Teuku Chut Lamreueng]] of the [[XXVI Mukims]] was murdered by the adherents of [[Teuku Muda Lampaseh|Teuku Lampaseh]] after he had gone there to fetch his family. Pidie was also the seat of a semi-independent branch of the royal family, settled at [[Kuala Batee]] and given to piracy, to which belonged the [[Tuanku Usen]] and [[Tuanku Abdomajet]] who eventually submitted to the Dutch Government.
 
+## Under Van Daalen, 1905–1907
+
+During the governorship of [[G. C. E. van Daalen|Van Daalen]] ([[1905]]–[[1907]]), Pidië suffered particularly harsh treatment that Van Heutsz's [[Atjéh-enquête|1907 investigation]] found was "exclusively punished and treated arbitrarily, against justice and equity." Several *oelèëbalangs* had been arbitrarily dismissed and not replaced, leaving the civil administrator to take over their functions — what Van Heutsz called "an absolute impossibility"; other chiefs were subjected to heavy fines for political reasons without any legal basis, and some were threatened with career repercussions if they resisted. Following Van Daalen's removal in [[1908]], his successor [[H. N. A. Swart|Swart]] reversed these policies, restored the chiefs, and re-established a cooperative relationship that made Pidië a model of successful pacification under the more conciliatory approach.
+
 ## Account from *Atjèh and the War with Japan* (1949) — Pidië
 
 **Pidië** is the historical region of the [[Noordkust|Noordkust]] of [[Atjèh|Atjèh]], "the rich Pidië," the rice barn of the pre-colonial Acehnese sultanate whose *sawah* plains — "for a long time before the establishment of Dutch authority excellently irrigated" — formed the demographic and economic heart of the former district, and whose "medieval system of feudal ownership" of the land survived into the twentieth century as a defining feature of Atjèhnese agrarian society. Piekaar's *Atjèh and the War with Japan* treats Pidië as the geographical and political reality behind the three subdistricts of [[Sigli|Sigli]], [[Lam Meuló|Lam Meuló]] and [[Meureudoe|Meureudoe]] into which it was administratively divided, and as the source of the great *oelèëbalang* families whose authority was, in [[1942]], the bulwark against which the [[Poesa|Poesa]] movement measured itself.
@@ -97,5 +101,7 @@ Piekaar records of Pidië that "in fact a medieval system of feudal ownership st
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 1, 9, pp. 1–2, 156.
+
+*J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 198–199, 252. Rijksarchief, Den Haag.
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 2, Chapter III § 2, Chapter V §§ 1–2, Chapter VII § 4.

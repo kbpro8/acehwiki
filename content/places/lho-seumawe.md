@@ -38,6 +38,10 @@ Snouck's point is characteristically sceptical. The Achehnese explanation — th
 
 Although Lho Seumawe itself is mentioned in Vol. I only in this discussion of titles, its situation on the north-eastern coast made it one of the principal ports of the sultanate. The [[Mahraja of Lho' Seumawe|Mahraja]] who ruled it was one of the most venerable hereditary chiefs of Acheh, and the survival of his Indianised title at so late a date is itself an important fact in the political anthropology of the sultanate. Vol. II of *The Achehnese* treats Lho Seumawe and its dependencies in greater detail.
 
+## Van Daalen's governorship and its consequences
+
+During the governorship of [[G. C. E. van Daalen|Van Daalen]] ([[1905]]–[[1907]]), the local civil administrator at Lho' Seumawé proved totally unsuited to his task. When [[J. B. van Heutsz|Van Heutsz]] visited the district in [[1907]] as part of the [[Atjéh-enquête|Atjéh-enquête]], he was shocked to find that the chiefs openly refused to cooperate, complaining of unjust treatment and loss of income; the interior above Keureu'toë had not seen a military patrol or civil administrator for months; local religious leaders (*teungkoe's*) had used the vacuum to turn the population against the Dutch; and the chiefs warned Van Heutsz that "if you go there now, you will get fire everywhere," whereas under the previous administrator ([[H. N. A. Swart|H. N. A. Swart]]), they had come without any military escort. Van Heutsz immediately replaced the incompetent official and ordered a restoration of regular patrols and dialogue. After Van Daalen's removal in [[1908]], Lho' Seumawé was gradually brought back under effective control, and the policy of supporting the chiefs was resumed. The district later became a symbol of how poor local leadership could undo the gains of pacification.
+
 ## Account from *De Buitenbezittingen* (1917) — Lhôseumawè
 
 **Lhôseumawè** is the harbour town and *onderafdeelingshoofdplaats* on the boundary between the *afdeeling Noordkust* and the *afdeeling Oostkust* of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]], whose position at the natural junction of the two coast-cultivation zones made it, in the colonial period, one of the three great trade centres of the Gouvernement alongside [[Koeta Radja|Koeta Radja]] and [[Langsa|Langsa]]. *De Buitenbezittingen* records that, in the years before the handbook's compilation, Lhôseumawè had become "het handels-emporium van een groot deel der Noord- en Oostkust" — the trade emporium of a great part of the North and East Coasts — though the rise of Langsa had already begun to draw off some of its trade.
@@ -84,8 +88,14 @@ The position of Lhôseumawè at the boundary of the Noord- and Oostkust made it,
 - [[1914]]
 - [[1915]]
 
+- [[Atjéh-enquête]]
+- [[G. C. E. van Daalen]]
+- [[H. N. A. Swart]]
+
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 28–30, 70–72, 126, 213–217, 227–229.
+
+*J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 198–199. Rijksarchief, Den Haag.
