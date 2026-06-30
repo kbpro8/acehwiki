@@ -1,7 +1,7 @@
 ---
 title: Panglima Polem
-aliases: [Panglima Polem of the XXII Mukims, Lord Elder Brother, Polem]
-tags: [person, uleebalang, panglima-sagi, xxii-mukims, hereditary]
+aliases: [Panglima Polem of the XXII Mukims, Lord Elder Brother, Polem, Teukoe Panglima Pólém, Panglima Polém, Panglima Polem, Polém]
+tags: [person, uleebalang, panglima-sagi, xxii-mukims, hereditary, achehnese, sagi, achehnese-war]
 ---
 
 **Panglima Polem** ("Lord Elder Brother") is the hereditary title of the chief (*panglima sagi*) of the [[XXII Mukims]] of [[Great Acheh]]. The bearer is regarded as the doyen of the chiefs of the three sagis, on account of the antiquity of his lineage, the bravery of the men of his sagi, and its wealth. His sagi really numbers many more mukims than the name implies — increase of population having given rise to the formation of new districts — yet the traditional name has survived. The same is true, though in a less degree, of the [[XXV Mukims]], while the [[XXVI Mukims]] continue to correspond with their ancient name.
@@ -24,6 +24,23 @@ The hereditary kali of the XXII Mukims — [[Teungku Tanoh Abee]] — by reason 
 
 In [[Pidie]] there are federations of the same kind as that of the Panglima Polem; just as Acheh has its XXII Mukims of Panglima Polem, so we find in Pidie the XXII Mukims of [[Bentara Keumangan]].
 
+## Account from *Atjèh and the War with Japan* (1949) — Teukoe Panglima Polém
+
+**Teukoe Panglima Polém** — in full **Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed** — was the [[Panglima Sagi|Panglima Sagi]] of the [[XXII Mukims|XXII Mukims]] of [[Groot-Atjèh|Great Atjèh]], "one of the great figures of the [[Atjèh War|Aceh War]]," whose conflict with the encroaching Dutch troops in [[1896]] made him a central figure of the late Atjèhnese resistance and whose descendants — his son [[Teukoe Panglima Polém Moehamad Ali|Teukoe Panglima Polém Moehamad Ali]] — would inherit the sagi headship and continue the family's political role into the colonial and Japanese periods. Piekaar's *Atjèh and the War with Japan* introduces the old Polém as a representative of the traditional Atjèhnese resistance: "Being a good Mohammedan, for the old Pedém in his youth the acceptance of the authority of the infidel (Atj. *kaphé*) had been an abomination and the conduct of the holy war (Atj. *prang sabi*) a religious duty."
+
+## The 1896 conflict with the Dutch
+
+In [[1896]], the old Teukoe Panglima Polém "came into conflict with the encroaching Dutch troops" and soon, "through his descent and position, belonged to the foremost figures in the struggle against the Dutch." The conflict placed him at the head of the Atjèhnese resistance in Great Atjèh at the moment when the Dutch — under the system of [[van Heutsz|van Heutsz]] and his flying columns — were beginning the final subjugation of the residency. His decision to take up arms in [[1896]] marked the entry of the Polém house into the front line of the anti-Dutch struggle.
+
+## The Panglima Polém of the next generation
+
+After the death of the old Teukoe Panglima Polém Moehamad Daoed and of "the equally powerful *oelèëbalang* of Ba'ét," the younger generation — the son, [[Teukoe Panglima Polém Moehamad Ali|Teukoe Panglima Polém Moehamad Ali]] — "continued the struggle," though Piekaar notes that "the later events justify the impression that Teukoe Panglima Polém Moehamad Ali in this strongly predominated." The transition from father to son, and the continuation of the struggle in a new key, marked the passage from the armed resistance of the Atjèh War to the political-religious agitation of the colonial and Japanese periods.
+
+## The refusal of hari raja puasa congratulations
+
+The political role of the Polém house in the colonial period is illustrated, Piekaar records, by "the refusal of these *oelèëbalang* to, on the occasion of the *hari raja puasa*, offer their congratulations to the sagi head with the termination of the fast." The *hari raja puasa* — the feast marking the end of the Ramadan fast — was the occasion on which the *oelèëbalang*'s of the sagi would traditionally pay their respects to the Panglima Sagi. The refusal to do so was a public repudiation of the sagi head's authority, and an assertion of the independent political standing of the Polém house.
+
+
 ## See Also
 
 - [[Teuku Nanta Seutia]]
@@ -33,7 +50,19 @@ In [[Pidie]] there are federations of the same kind as that of the Panglima Pole
 - [[Meukuta Alam]]
 - [[XXII Mukims]]
 - [[Bentara Keumangan]]
+- [Panglima Sagi]
+- [XXII Mukims]
+- [Groot-Atjèh]
+- [Atjèh War]
+- [Teukoe Panglima Polém Moehamad Ali]
+- [Kaphé]
+- [Prang sabi]
+- [1896]
+- [Hari raja puasa]
+- [[1896]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I, § 3.

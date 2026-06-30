@@ -1,6 +1,6 @@
 ---
 title: Banda Acheh
-aliases: [Kuta Raja, Banda Aceh, Koetaradja, Kutaradja, Banda, Banda Acheh, Banda-Acheh, Kutaraja, Bandar Acheh, Acheh capital, Capital of Acheh, Kota Acheh, hoofdplaats Atjeh, Acheen capital, Koeta Radja, Kota Raja]
+aliases: [Kuta Raja, Banda Aceh, Koetaradja, Kutaradja, Banda, Banda Acheh, Banda-Acheh, Kutaraja, Bandar Acheh, Acheh capital, Capital of Acheh, Kota Acheh, hoofdplaats Atjeh, Acheen capital, Koeta Radja, Kota Raja, Koetaraja]
 tags: [place, aceh-proper, capital, city, coast, achehnese, colonial]
 ---
 
@@ -78,6 +78,26 @@ As *standplaats* of the Assistant-Resident of the [[Groot-Atjeh|Afdeeling Groot-
 
 As administrative seat, Koeta Radja hosted the seat of the *landraad*, the Residentierechtbank, the Groot-Atjehsche Afdeelingsbank (founded [[1908]]), the proeftuinen of the Department of Agriculture, the Atjeh-tram workshops, and the great European leerlooierij (tannery) that consumed some 12,000 hides yearly. As transport hub it anchored the great rijweg that ran, with the single missing link of Seulimeum–Padang Tidji, along the Noord- and Oostkust to the border of Langkat — and the *Atjeh-tram* that linked it, via [[Oelèë Lheuë|Oelèë Lheuë]], Indragiri and Seulimeum, with all the principal population centres of the North and East coasts.
 
+## Account from *Atjèh and the War with Japan* (1949) — Koetaradja
+
+**Koetaradja** (modern Kuta Raja) was the capital of the residency of [[Atjèh|Atjèh]] and seat of the Resident and the territorial commander throughout the late colonial period and the [[1942|1942]] Japanese invasion, the urban centre on the north-western tip of Sumatra from which Dutch authority over the entire residency was administered and through which the main road, the railway — the *Atjèh-tram* — and the regular steamer service to [[Medan|Medan]] converged. Piekaar's *Atjèh and the War with Japan* places Koetaradja at the centre of every decisive episode of the crisis of [[1941]]–[[1942]]: the heavy bombings of [[Sabang|Sabang]], the sabotage of the [[Seulimeum|Seulimeum]] communications, the "coup d'état" of [[11 March]] [[1942]] and the evacuation of the European civilian population that preceded it.
+
+## The capital and its population
+
+The residency capital, which "counted over 10,000 inhabitants at the [[1930|1930]] census," presented, with its urban population largely of non-Acehnese origin, "in political-religious respect the ordinary picture, which most larger places in the Outer Territories offer." The sub-division Koetaradja counted some 80,000 inhabitants in [[1930]] — against 45,000 in the sub-division [[Seulimeum|Seulimeum]] — together forming the division of [[Groot-Atjèh|Groot-Atjèh]] with its almost 125,000 inhabitants. It was at Koetaradja that the "lively political life, mainly among the non-Acehnese personnel of the insane asylum, [[Sabang|Sabang]] society, etc." flourished, and that the only flourishing *Parindra* branch in Atjèh was based. The Taman-Siswa school association had schools in Atjèh "only in a few places, e.g. in Koetaradja and [[Sabang|Sabang]]." The director of the N.V. Atjèhse Handel Maatschappij in Koetaradja was charged with civilian service duty regarding the distribution of foodstuffs during the war months.
+
+## The crisis of 1941–1942
+
+When the Pacific War broke out on [[8 December]] [[1941]], Koetaradja was the seat of [[Resident J. Pauw|Resident Pauw]] and of Colonel [[Gosenson|Gosenson]], the territorial commander. The heavy bombing of [[Sabang|Sabang]] on [[22 January]] [[1942]] and the daily air reconnaissance flights over Atjèh "had a paralyzing effect on normal life in the various *kota's*," and "many business people leaving the *kota's*." In early February [[1942]] the administration, "in consultation with the territorial commander … designed an emergency evacuation plan for the urban population of Koetaradja and the military families eligible for it to [[Takéngón|Takéngón]], and for the isolated West Coast sub-district of Atjèh to the [[Singkel|Singkel]] sub-district." An "evacuation information committee" was established in Koetaradja under private leadership. The "curfew" established in Koetaradja and the strict control of traffic "had on several occasions given rise to difficulties."
+
+## The March 1942 collapse
+
+In three large transports, the European civilian population still remaining in Koetaradja was evacuated on [[10 March]] and [[11 March]] [[1942]] to [[Medan|Medan]]. The third transport, "which departed in the afternoon of the same day, stranded at [[Bireuën|Bireuën]] and would later be taken up in the central internment camps for Atjèh." On the night of [[7 March|7]] to [[8 March]] [[1942]], the third sabotage wave "made various bridges unusable and trees were felled across the road in the immediate vicinity of Koetaradja," and "the bathing resort Mata Ië, at 7 km from Koetaradja, was destroyed." When the Japanese landings came in the night of [[11 March|11]] to [[12 March]] [[1942]], "the troops commander of Koetaradja, Colonel G. J. Bekkers, decided, upon receiving news of the Japanese landing on [[Sabang|Sabang]], to evacuate Koetaradja that same night." The remaining European citizens were imprisoned together with the prisoners of war in the jail in Koetaradja; the prisoners of war were, "a short time later, at [[Oelèë Lheuë|Oelèë Lheuë]], executed."
+
+## The Japanese occupation
+
+During the Japanese occupation Koetaradja remained the residency capital. The Malay-language newspaper *Atjèh Shimbun* — the principal documentary source for the second part of Piekaar's work — was published in Koetaradja. The kempeitai headquarters in Koetaradja was the site at which "honorable *teungkoe*'s, upon passing the headquarters … were forced to unwrap their headscarves." After the Japanese capitulation of [[August]] [[1945]], Koetaradja again became the focus of the post-war struggle, when, on [[5 October]] [[1945]], a "party of the 'A.D.C.S. 1.3.6. force'" under Major M. J. Knottenbelt arrived in Koetaradja by order of Sacsea.
+
 
 ## See Also
 
@@ -126,6 +146,17 @@ As administrative seat, Koeta Radja hosted the seat of the *landraad*, the Resid
 - [[1874]]
 - [[1908]]
 - [[1917]]
+- [[Resident J. Pauw]]
+- [[Colonel Gosenson]]
+- [[Seulimeum]]
+- [[Bireuën]]
+- [[Takéngón]]
+- [[Atjèh Shimbun]]
+- [[1942]]
+- [[11 March]] [[1942]]
+- [[1930]]
+- [[1941]]
+- [[1945]]
 
 ## Source
 
@@ -136,3 +167,5 @@ As administrative seat, Koeta Radja hosted the seat of the *landraad*, the Resid
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 21, 38, 46–47, 214–215.
+
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Foreword, Chapter I §§ 3–5, Chapter II, Chapter III § 1, Chapter IV, Chapter V § 1, Chapter VII § 4.

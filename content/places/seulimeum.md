@@ -1,7 +1,7 @@
 ---
 title: Seulimeum
-aliases: [XXII Mukims, Seulimum, Seulimeum, Seulimèum, the chiefdom of Seulimeum, Dua ploh dua, 22 Mukims, Twenty-two Mukims, Sagi of the XXII Mukims, XXII Mukims of Panglima Polem]
-tags: [place, aceh-proper, uleebalangship, mukim, xxii-mukims, highland, sagi, region, great-acheh]
+aliases: [XXII Mukims, Seulimum, Seulimeum, Seulimèum, the chiefdom of Seulimeum, Dua ploh dua, 22 Mukims, Twenty-two Mukims, Sagi of the XXII Mukims, XXII Mukims of Panglima Polem, Seulimeum subdistrict]
+tags: [place, aceh-proper, uleebalangship, mukim, xxii-mukims, highland, sagi, region, great-acheh, groot-atjeh, achehnese]
 ---
 
 The main centre of the XXII Mukims district. A teacher named [[Teungku Usen]] resides there; his father [[Teungku Tanoh Abie]], celebrated for his learning and independence, held the position of kali of the XXII Mukims.
@@ -44,6 +44,23 @@ Within the sagi itself, however, another chief arose who thought himself no whit
 
 The kali *rabon jale* of the XXII Mukims, though his office is hereditary, was, at the time of Snouck's writing, a man of real learning — the late Teungku of [[Tanoh Abee]], whose reputation as a jurist had spread beyond his sagi. The sagi also had its historic *kanduri* at [[Indrapuri]], the chief mosque of the XXII Mukims; this was one of the three great religious establishments maintained, one for each sagi, in the neighbourhood of the capital. In the years preceding the Dutch war, the chief of the XXII Mukims had even usurped the sultan's prerogative of inflicting the mutilations prescribed by Mohammedan law for theft — a privilege assumed by no other panglima sagi or uleebalang.
 
+## Account from *Atjèh and the War with Japan* (1949) — Seulimeum
+
+**Seulimeum** is the subdistrict headquarters-town and subdistrict of [[Groot-Atjèh|Groot-Atjèh]] situated on the watershed between the west and east coasts of [[Atjèh|Atjèh]], "the residence and often the birthplace of numerous prominent *oelama*'s, whose reputation for knowledge and piety attracted pupils not only from the immediate vicinity but also from other parts of the residency," and the centre of the religious and political life of the [[Poesa|Poesa]] movement from which the first sabotage wave of February [[1942]] broke out against the Dutch administration. Piekaar's *Atjèh and the War with Japan* treats Seulimeum as the insurgent heart of the residency: the subdistrict where the *Poesa* youth movement first took shape, where the murder of *controleur* J. C. Tiggelman marked the opening of the armed revolt, and where the garrison at Padjang Tidji had been disbanded in the late [[1930s]] reforms.
+
+## The geography and demography of the subdistrict
+
+"On the less favorable economic condition of the division Groot-Atjèh with its almost 125,000 inhabitants in [[1930]], of whom 80,000 in the sub-division [[Koetaradja|Koetaradja]] and 45,000 in the sub-division Seulimeum, we already pointed out." Piekaar draws attention "to the geographical situation, on the mountainous and typically Acehnese hilly landscape of the 'watershed,' which, dominated by [[Goudberg|Goudberg]] and [[Weesberg|Weesberg]] (Atj. Seulawaih Agam and Seulawaih Inehng), covers the largest part of the sub-division. The inhabited area remains thereby mainly limited to the area belonging to the Groot-Atjèh valley in the West and the area belonging to the Pidirese lowland in the East." In the inhabited area lie "the sub-divisional headquarters Seulimeum, the residence of the sagihoofd Lam Sië, the important *veepasar* Sibrèë, and the marketplace Indrapoeri." On the administrative reforms of [[1938]] "the garrisons at Padjang Tidji in the subdistrict Seulimeum and at [[Singkel|Singkel]] were disbanded" — the first reduction of the infantry and marechaussee garrison network with which Atjèh was covered.
+
+## The centre of religious life
+
+"It is not to be considered accidental, that, as appears from the residence of these district leaders, the center of this movement in the Seulimeum subdistrict was established. In this subdistrict, after all, a flourishing religious life existed from of old. It was the residence and often the birthplace of numerous prominent *oelama*'s." Teukoe Panglima Pólém Moehamad Daoed, sagi-head of the XXII Moekims, "did, in his capacity as head of religion in his territory, everything within his power to promote the faithful observance of Mohammedan law and religious life." Among the prominent *oelama*'s Piekaar mentions Teungkoe Hadji Ahmad Hasballah of Indrapoeri, "the type of the Acehnese *oelama* of the old stamp, orthodox and uncompromising," his younger brother Teungkoe Hadji Manja' alias Teungkoe Lam Oe, Teungkoe Abdoel Wahab, "head of a flourishing religious school, '*Pergoeroean Islam*,' at Seulimeum," and the wealthy Teungkoe Sjech Ibrahim of Meintasië'. The chairmanship of the [[Poesa|Poesa]] district board for Groot-Atjèh rested with Teungkoe Abdoel Wahab; the leadership of the Kasjafatoel Islam scout organization for the district rested with Ahmad Abdoellah and A. Hasjmy, both residing at Seulimeum.
+
+## The revolt of February 1942
+
+The first sabotage wave "began in the night of [[19 February|19]] to [[20 February]] [[1942]] and culminated in the murder of *controleur* Tiggelman of Seulimeum in the night of [[23 February|23]] to [[24 February]] and the encounter at Keumirë on [[24 February]], in which the chief of exploitation of the Acehnese state railways, Mr. Von Sperling, was killed." On the night of [[23 February|23]]–[[24 February]] [[1942]], "in Seulimeum itself, the *controleur*, Mr. J. C. Tiggelman, was lured outside at night by the sounding of the alarm and murdered in a beastly manner, while the Atjèhse manager of the auxiliary post office, Tjoet Amat, made off with the cash register." The sagi head Teukoe Panglima Pólém Moehamad Ali "appeared after the end of the first phase untraceable," and "it can hardly be doubted that Teukoe Moehamad Ali, at least in the further course of the insurgent movement, took a leading part." The commander of the marechaussee corps, Major W. F. Palmer van den Broek, was placed at Seulimeum, "entrusted with both the administration of the subdistrict and the leadership of the military action."
+
+
 ## See Also
 
 - [[Teungku Tanoh Abie]]
@@ -61,7 +78,22 @@ The kali *rabon jale* of the XXII Mukims, though his office is hereditary, was, 
 - [[Teuku Ba'et]]
 - [[Indrapuri]]
 - [[Tanoh Abee]]
+- [[Groot-Atjèh]]
+- [[Koetaradja]]
+- [[Indrapoeri]]
+- [[Teukoe Panglima Pólém Moehamad Ali]]
+- [[Teukoe Panglima Pólém Moehamad Daoed]]
+- [[Teungkoe Abdoel Wahab]]
+- [[J. C. Tiggelman]]
+- [[W. F. Palmer van den Broek]]
+- [[Poesa]]
+- [[1942]]
+- [[19 February]] [[1942]]
+- [[1930]]
+- [[1938]]
 
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I §§ 1–3, Chapter III § 1, Chapter V § 1.

@@ -1,7 +1,7 @@
 ---
 title: Pidie
-aliases: [Pedir, Pidié, Pidië, Mukim Tujoh, VII Mukims Pidie, Pidie territory, Pidie Region]
-tags: [place, north-east-coast, region, coast-state, east-coast, dependency]
+aliases: [Pedir, Pidié, Pidië, Mukim Tujoh, VII Mukims Pidie, Pidie territory, Pidie Region, Pidie]
+tags: [place, north-east-coast, region, coast-state, east-coast, dependency, achehnese, noordkust]
 ---
 
 The major North Coast territory and kingdom. 'The Achehnese give the name of Pidie to the whole of the territory which formerly belonged to the kingdom of that name, i.e. almost the whole of the North Coast with its hinterland.' Pidie is historically known as a seat of religious learning: 'Thus most of the learned in Great [[Acheh]] have spent the greater part of their student life in Pidie, while vice versa the studiously inclined in Pidie and on the East Coast amass their capital of knowledge in Great [[Acheh]].' The centres of learning in Pidie before the Dutch included [[Langga and Langgo]], [[Langga and Langgo]], [[Sriweue]], [[Simpang]], and [[Ie Leubeue]] (= Ayer Labu). [[Tiro]] in Pidie was 'sanctified by the presence of so many living ulamas and the holy tombs of their predecessors.' Heretical mysticism (eleumee sale) also flourished in Pidie. In the [[Hikayat Malem Dagang]], 'The first place touched at is Pidie (vulg. Pedir), the panglima of which is handed down to fame as the bravest and most distinguished of generals.' The [[Hikayat Pochut Muhamat]] describes [[Pochut Muhamat]]'s tour through Pidie gathering allies: he visited [[Padang Teuji]], [[Reubee]], and eventually won over [[Pangulee Beunaroe]], the powerful uleebalang of the IX Mukims. The sadati kisah describes Pidie as forming a square with four uleebalangs holding power: 'The X Mukims are subject to Bentara Keumangan; Teungku Sama Indra rules the VIII Mukims; The La'seumana is a fatherless child; he rules the XXII Mukims; The V Mukims are under the control of Teungku Ujong
@@ -36,6 +36,23 @@ In religious custom, too, Pidie followed its own local usages. In the matter of 
 
 Pidie acquired fresh political importance during the [[Achehnese War]]. When the [[Dalam (Sultan's Court)|Dalam]] was lost and [[Sultan Mahmut Shah]] died, the fugitive court of the pretender [[Tuanku Muhamat Dawot]] found refuge in Pidie territory — at [[Keumala]] — "far removed from the theatre of the conflict," where the sultanate continued "very much the same as it had been before the war, the scene alone being changed." It was in Pidie, too, that [[Teuku Chut Lamreueng]] of the [[XXVI Mukims]] was murdered by the adherents of [[Teuku Muda Lampaseh|Teuku Lampaseh]] after he had gone there to fetch his family. Pidie was also the seat of a semi-independent branch of the royal family, settled at [[Kuala Batee]] and given to piracy, to which belonged the [[Tuanku Usen]] and [[Tuanku Abdomajet]] who eventually submitted to the Dutch Government.
 
+## Account from *Atjèh and the War with Japan* (1949) — Pidië
+
+**Pidië** is the historical region of the [[Noordkust|Noordkust]] of [[Atjèh|Atjèh]], "the rich Pidië," the rice barn of the pre-colonial Acehnese sultanate whose *sawah* plains — "for a long time before the establishment of Dutch authority excellently irrigated" — formed the demographic and economic heart of the former district, and whose "medieval system of feudal ownership" of the land survived into the twentieth century as a defining feature of Atjèhnese agrarian society. Piekaar's *Atjèh and the War with Japan* treats Pidië as the geographical and political reality behind the three subdistricts of [[Sigli|Sigli]], [[Lam Meuló|Lam Meuló]] and [[Meureudoe|Meureudoe]] into which it was administratively divided, and as the source of the great *oelèëbalang* families whose authority was, in [[1942]], the bulwark against which the [[Poesa|Poesa]] movement measured itself.
+
+## The geographical region
+
+Pidië was the great alluvial plain of north-central Atjèh, enclosed by hill and mountain country on its inland side. Piekaar records that "the inhabited area remains thereby mainly limited to the area belonging to the Groot-Atjèh valley in the West and the area belonging to the Pidirese lowland in the East." The easternmost portion of the Seulimeum subdistrict, "known as the VII Moekims Pidië, comprises the 8 easternmost independent *moekims*. Together with some adjoining areas in the [[Sigli|Sigli]] sub-division, these 8 *mukims* were for some time united in the subdistrict [[Padang Tidji|Padang Tidji]], thus named after the flourishing marketplace and former garrison post [[Padang Tidji|Padang Tidji]], which forms the center of the VII Moekims Pidië." This enclosure by and immediate proximity to the hill and mountain country have "made the population here familiar with it from a young age. Possibly this is also one of the causes by which here a stronger, perhaps more primitive race has continued to exist than in the great plains along the North Coast."
+
+## The feudal ownership system
+
+Piekaar records of Pidië that "in fact a medieval system of feudal ownership still" survived there into the [[1940s|1940s]], and that this was characteristic of "the large landholdings, especially in Pidië (subdivisions [[Sigli|Sigli]], [[Meureudoe|Meureudoe]] and [[Lam Meuló|Lam Meuló]])." The feudal ownership system was intertwined with the great trade interests of the *oelèëbalangs* through which "they controlled the economic life." The political fragmentation of Pidië was extreme. "Politically however this area was extremely splintered and fragmented. The subdistrict of [[Sigli|Sigli]] alone counted no less than 14 lands, of which only four with a population of more than 10,000." The old historical political alliances were "grouped around the *oelèëbalangs* of the XII Moekims Pidië and Ndjóng (federation XII) on the one hand and those of [[Keumangan|Keumangan]] (federation VI) on the other." Even the Lam Meuló subdistrict — also part of former Pidië — contained "9 *landschap*" of which the largest, Tjoembó', held only 8,500 inhabitants.
+
+## Pidië as the bulwark of the oelèëbalang authority
+
+"On the other hand however [[Sigli|Sigli]], the heart of the former district of Pidie, was the bulwark of the *oelèëbalang* authority. Nowhere were the *oelèëbalangs* more powerful, both politically and economically, than in the rich Pidië." The bulwark quality of Pidië was, in Piekaar's analysis, precisely the reason why the [[Poesa|Poesa]] leaders — although Sigli belonged to their foremost action centres — did not unleash a large-scale revolt in Pidië in February [[1942]], as they had done in [[Seulimeum|Seulimeum]] and [[Tjalang|Tjalang]]. "May it be concluded from this that the Pusa leaders, although Sigli belonged to their foremost action centers, did not feel themselves capable of unleashing a large-scale fifth column action in this stronghold of the *oelèëbalangs*?" The region between [[Sigli|Sigli]] and [[Bireuën|Bireuën]] was, after the Japanese capitulation of [[August]] [[1945]], the "stronghold of PUSA" from which the post-war unrest of the republican period radiated.
+
+
 ## See Also
 
 - [[Aceh Sultanate]]
@@ -66,9 +83,19 @@ Pidie acquired fresh political importance during the [[Achehnese War]]. When the
 - [[Teungku Tiro (Muhamat Amin)]]
 - [[Kuala Batee]]
 - [[Daya]]
+- [[Sigli]]
+- [[Lam Meuló]]
+- [[Keumangan]]
+- [[Poesa]]
+- [[Teungkoe Moehamad Daoed Beureu-éh]]
+- [[Padang Tidji]]
+- [[1942]]
+- [[1945]]
 
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 1, 9, pp. 1–2, 156.
+
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 2, Chapter III § 2, Chapter V §§ 1–2, Chapter VII § 4.

@@ -1,7 +1,7 @@
 ---
 title: Teuku Uma
-aliases: [Teuku Umar, Juhan Pahlawan, Teuku Unia, Uma, T. Oemar, Toekoe Oemar]
-tags: [person, warrior, panglima, war-leader, west-coast, achehnese, military, resistance]
+aliases: [Teuku Umar, Juhan Pahlawan, Teuku Unia, Uma, T. Oemar, Toekoe Oemar, Teukoe Oemar, Oemar of Keumangan, Teuku Umar of Keumangan]
+tags: [person, warrior, panglima, war-leader, west-coast, achehnese, military, resistance, oeleebalang, colonial]
 ---
 
 The most colorful figure of the later Aceh War, a "priman" (freeman) without office or territory who led attacks in the IV Mukims. He staged a sensational apparent submission to the Dutch, obtaining money and a man-of-war before his followers attacked its crew. His followers' seizure of the steamer Hok Canton in [[1886]], taking Mrs. Hansen and John Fay hostage, is described in detail in the Hikayat Prang Gompeuni. He later became master of Krueng Sabe and met ceremonially with Teungku Tiro, declaring fealty both knew to be a polite fiction.
@@ -31,6 +31,22 @@ The West Coast of Atjeh, which Meulabôh commands, was throughout the [[Aceh War
 ## The monument near Meulabôh
 
 The plate in *De Buitenbezittingen* shows the landscape of the West Coast from Seudoe northward, with the *Glé Radja*, the cape of *O. Masam Moeka* (the Aceh Head), and the islands of *P. Breuë* in the background; in the foreground stands the small monument that marks the spot where Teukoe Oemar fell. The choice to commemorate his death in this way — and to publish the image in an official handbook — reflects the Dutch respect for a formidable adversary and the symbolic importance they attached to the place where he was killed. His elimination removed one of the last effective chieftains of the West Coast and opened the region to the administrative consolidation described in the handbook's chapter on the *Onderhoorigheden*.
+
+## Account from *Atjèh and the War with Japan* (1949) — Teukoe Oemar of Keumangan
+
+**Teukoe Oemar** was the [[oelèëbalang|oelèëbalang]] — self-governing official — of the *landschap* [[Keumangan|Keumangan]] in the subdistrict [[Sigli|Sigli]] whose removal by the Dutch administration in [[1938]] was, alongside the [[1934|1934]] removal of [[Teukoe Tjhi' Moehamad Thajéb|Teukoe Tjhi' Moehamad Thajéb]] of Peureula', one of the "notorious removals" of prominent self-governing officials of the late colonial period. Piekaar's *Atjèh and the War with Japan* treats the removal as a defining episode of the late colonial administration and as the origin of the estrangement between the Keumangan house and the religious movement led by [[Teungkoe Moehamad Daoed Beureu-éh|Teungkoe Moehamad Daoed Beureu-éh]], whose landschap Keumangan was.
+
+## The 1938 removal
+
+The removal of Teukoe Oemar in [[1938]] was, Piekaar records, one of the "notorious removals" of prominent self-governing officials. The removal "showed that replacement even of prominent self-governing officials by the population was accepted." Teukoe Oemar belonged, Piekaar categorises, "to the group of older still patriarchally-despotically governing administrators" — that is, the older generation of *oelèëbalang*'s whose style of government was personal and patriarchal rather than modern and administrative. His removal was paired, in Piekaar's account, with the [[1934|1934]] removal of the progressive Teukoe Tjhi' Moehamad Thajéb.
+
+## The relationship with Teungkoe Moehamad Daoed Beureu-éh
+
+Piekaar notes that the relationship of Teungkoe Moehamad Daoed Beureu-éh — the chairman of the [[Poesa|Poesa]] who was himself from the *landschap* Keumangan — with Teukoe Oemar "left something to be desired." The friction between the religious leader and the *oelèëbalang* of the same *landschap* — a friction that the Dutch removal of Teukoe Oemar in [[1938]] did nothing to resolve — was one of the local political tensions that the Poesa would inherit and that would shape the religious-political dynamics of Keumangan in the events of [[1942]].
+
+## The successor
+
+After the removal of Teukoe Oemar, his successor "appeared little in the foreground. Only recently returned from the exile which he had shared with his father, he established himself as a farmer in the subdistrict of Lam Meuló, where he seemed to keep far away from all politics." The withdrawal of the house from political life — the new *oelèëbalang*'s retreat into farming and his distance from politics — left the field open to the religious movement and to the other political figures of the subdistrict.
 
 
 ## See Also
@@ -62,6 +78,16 @@ The plate in *De Buitenbezittingen* shows the landscape of the West Coast from S
 - [[Koeta Radja]]
 - [[Penang]]
 - [[1874]]
+- [Keumangan]
+- [Sigli]
+- [Teungkoe Moehamad Daoed Beureu-éh]
+- [Teukoe Tjhi' Moehamad Thajéb]
+- [Poesa]
+- [Oelèëbalang]
+- [Lam Meuló]
+- [1938]
+- [[1938]]
+- [[1942]]
 
 ## Source
 
@@ -70,3 +96,5 @@ The plate in *De Buitenbezittingen* shows the landscape of the West Coast from S
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), Plate 4, Fig. 2 (caption: "Monumentje op de plek, waar Toekoe Oemar sneuvelde; nabij Meulabôh").
+
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I, § 2 and § 3.

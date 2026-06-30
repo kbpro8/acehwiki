@@ -1,7 +1,7 @@
 ---
 title: Sabang
-aliases: [Sabang free port, Sabang harbour, Sabang coaling station, Zeehaven Sabang, Sabang, Sabanghaven, Sabangbaai, Free Port of Sabang]
-tags: [place, harbour, free-port, trade, colonial, port, dutch]
+aliases: [Sabang free port, Sabang harbour, Sabang coaling station, Zeehaven Sabang, Sabang, Sabanghaven, Sabangbaai, Free Port of Sabang, Sabang Island, Poelau Wè, Pulau We]
+tags: [place, harbour, free-port, trade, colonial, port, dutch, island]
 ---
 
 **Sabang** was the free port and coaling station developed on the northern bay of
@@ -134,6 +134,26 @@ The Maatschappij held, by [[1917]], extensive mechanical installations for the b
 
 The kolenbedrijf grew from 19,000 tons delivered in [[1900]] to a peak of 210,000 tons in [[1912]]–[[1913]], before the war brought a drop to 135,000 tons in [[1915]]. The customary mixture was the so-called *Sabang-mixture* of two parts Bengaalsche to one part Ombilin-kolen. Dividends on shares of ƒ1,000 rose from ƒ82.50 in [[1910]] to ƒ125 in [[1913]], with additional *winstaandeel* to the Gouvernement under St. 1910 No. 56. The Gouvernement acquired the kaaimuren, steigers, and *corps-morts* of the haven in [[1909]] for roughly ƒ1,200,000 and now maintains them itself; the Maatschappij pays a yearly *pacht* of 3¼ % on the original purchase plus extension costs.
 
+## Account from *Atjèh and the War with Japan* (1949) — Sabang
+
+**Sabang** is the strategic island harbour off the northern tip of [[Atjèh|Atjèh]], the free-port town on the bay of [[Poeloe Wè|Poeloe Wè]] whose airfield, harbour works and oil and gasoline supplies made it — together with [[Koetaradja|Koetaradja]] — one of the two great strategic objectives of the [[1942|1942]] Japanese invasion of Atjèh, and where, after three and a half years of Japanese naval occupation, the English fleet reappeared in [[August]] [[1945]] and the [[Amacab|Amacab]] (Allied Military Administration Civil Affairs Branch) landed to restore Dutch authority in northern Sumatra. Piekaar's *Atjèh and the War with Japan* treats Sabang as the focal point of the aerial war against Atjèh, the one subdistrict of Atjèh where the Japanese occupation "would proceed peacefully," and the eventual Allied bridgehead at the capitulation.
+
+## The pre-war island
+
+Of the 8,700 inhabitants who constituted the entire population of the island, "almost 7000 lived in the sub-department headquarters," and "the Acehnese the rural population was thus far in the minority compared to the population of the subdistrict headquarters, in which the non-Acehnese element held a predominant position." Of the four independent *moekims* (Sabang, Balóhan, Ibóih and Paja) from which the directly governed island consisted, "the moekim Sabang or Ië Meulè, in which the subdistrict headquarters was located, was by far the most important." The sub-district of Sabang "as the only sub-district in Aceh had a flourishing *Parindra* branch, in which however again mainly the non-Acehnese personnel of the mental hospital, Sabang society and other intellectuals had united." The Taman-Siswa school association had schools in Atjèh "only in a few places, e.g. in [[Koetaradja|Koetaradja]] and Sabang." The mental hospital counted more than 1,400 patients.
+
+## The bombing of January 1942
+
+After the declaration of war on [[8 December]] [[1941]], "the unexpectedly rapid course of the battle immediately placed Sabang in an advanced strategic position." An English torpedo boat destroyer and auxiliary cruisers took charge of maritime defence; in the coconut plantations a barrack camp was prepared for the Royal Air Force. "On [[18 January]] the first air attack took place, after which the bombings repeated themselves with a frequency of four to five attack days per week until the arrival of the enemy." Piekaar records that the "strategically important Sabang was repeatedly bombed, most heavily on [[22 January]] [[1942]]." The workers on the quay and in the workshops of the N.V. Zeehaven and Sabang coal station "felt like trapped rats"; the hills obstructed the view, so an observation post was established on one of the highest peaks of the island. The state mobilisation council "initially considered an evacuation guided by the government unnecessary. A so-called 'dispersal plan' would suffice."
+
+## The Japanese landing
+
+When the Japanese attack was launched in the night of [[11 March|11]] to [[12 March]] [[1942]], "the English naval units and the personnel of the R.A.F. had left the island" and Dutch troop strength had been reduced to two brigades under 1st lieutenant A. C. Verhoeff. The Aceh aircraft watch, appointed by the independent *moekim* head of Balóhan, reported by telephone "the appearance of the Japanese fleet in the Balóhanbaai on the southern side of the island Wè." Lieutenant Verhoeff left the island by motorboat; the remaining troops were "considered attached to the administration, charged with field police services." "No resistance was therefore offered. The airfield, harbor, oil and gasoline supplies fell undamaged into the hands of the enemy. No trace of an F-movement was detected, and no disturbances occurred. Sabang became a Japanese naval base and remained so until [[31 August]] [[1945]]."
+
+## The capitulation of August 1945
+
+When the Japanese capitulation came on [[14 August]] [[1945]], the preparations for the Allied invasion were in full swing; a "party" of the "1.3.6. force" under B. W. Lefrandt was already located in the mountainous region of [[Seulimeum|Seulimeum]]. "Still in [[August 1945|August]] the English fleet appeared before Sabang and a temporary naval base was established on Sabang. Also the Dutch navy and the Dutch administration, the latter as part of the [[Amacab|Amacab]], made their entry." The thousands of enterprise workers from Atjèh, East Sumatra and Tapanoeli who on the island had performed slave labour for the Japanese army were transferred to the mainland. The Allies' hesitation to push the occupation inland meant that, throughout the early republican period, Sabang — together with [[Medan|Medan]], [[Padang|Padang]] and [[Palembang|Palembang]] — remained one of the few footholds of direct Allied authority in Sumatra.
+
 
 ## See Also
 
@@ -150,6 +170,19 @@ The kolenbedrijf grew from 19,000 tons delivered in [[1900]] to a peak of 210,00
 - [[Joannes Benedictus van Heutsz]]
 - [[Sabang Maatschappij]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Koetaradja]]
+- [[Seulimeum]]
+- [[Amacab]]
+- [[1.3.6. force]]
+- [[B. W. Lefrandt]]
+- [[A. C. Verhoeff]]
+- [[W. F. Palmer van den Broek]]
+- [[1942]]
+- [[22 January]] [[1942]]
+- [[11 March]] [[1942]]
+- [[31 August]] [[1945]]
+- [[1941]]
+- [[1945]]
 
 ## Source
 
@@ -158,3 +191,5 @@ The kolenbedrijf grew from 19,000 tons delivered in [[1900]] to a peak of 210,00
 *Indische Mercuur* (1913), No. 49 — cited in the source.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 15, 25–27, 243–248.
+
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I §§ 1–4, Chapter II, Chapter V § 1, Chapter VII § 4.
