@@ -1,7 +1,7 @@
 ---
 title: Simpang Olim
-aliases: [Simpang Oleim, Simpang-Olim, Landschap Simpang Olim]
-tags: [place, coast-state, acehnese, aceh-war]
+aliases: [Simpang Oleim, Simpang-Olim, Simpang Olim, Simpang Oelim, Landschap Simpang Olim]
+tags: [place, coast-state, acehnese, aceh-war, event]
 ---
 
 **Simpang Olim** (also written Simpang-Olim, Simpang Oleim) was a coast-state on the east coast of [[Acheh|Atjeh]] which, together with [[Tandjong Semantoh|Tandjong Semantoh]], remained hostile to the Dutch throughout the first years of the [[Aceh War|Atjeh-oorlog]]. The state was the object of the [[Expedition against Simpang Olim and Tandjong Semantoh (November-December 1876)|expedition of November-December 1876]] under [[A. J. E. Diemont|General Diemont]], in which the impregnable hill-benting of [[Toekoe Paja|Toekoe Paja]] was carried by a single officer and six Ambonese soldiers — a feat of arms that the source work describes as "undeniably brilliant." The radja's continued evasions led to his deprivation of authority on [[12 December]] [[12 December]] [[1876]] and to the appointment of a new radja, who swore the conditions imposed on [[5 February]] [[5 February]] [[1877]].
@@ -24,9 +24,11 @@ Diemont imposed the conditions that Dutch troops should be admitted into the ged
 
 That the radja had remained hostile to the Dutch appeared from the fact that on [[11 December]] [[11 December]] the Dutch ally [[Toekoe Moeda Angkasa|Toekoe Moeda Angkasa]] was treacherously murdered by one of his handlangers, and that on [[13 December]] [[13 December]] in the evening he had invited his adherents and allies to a feast at [[Teping Sirin|Teping Sirin]], in order to devise plans for an attack on the Dutch positions. Before the Dutch troops returned, the affairs were first regulated: the son of Toekoe Moeda Angkasa was appointed radja of Merbau and Tandjong Semantho; by the chiefs a new radja of Simpang Olim was chosen, who on [[5 February]] [[5 February]] [[1877]] solemnly swore the conditions imposed by the government, whereupon the Dutch flag was given to him.
 
-## Later Operations
+## Later Operations and Significance
 
 In [[July 1877|July 1877]] a new expedition was necessary to Simpang Olim, whose banished radja had nearly succeeded in an attempt on the Dutch post at Blang-Ni. The expedition dispatched to punish that deed reached on [[9 July]] [[9 July]] after a very difficult march its object and made itself master of [[Tepin Sirin|Tepin Sirin]], the enemy's headquarters. The submission of Simpang Olim made a great impression everywhere and confirmed the Dutch authority also in the other [[Onderhoorigheden|Onderhoorigheden]].
+
+The expedition against Simpang Oelim (Olim) marked a turning point in the Aceh War, demonstrating that aggressive action could achieve results. Following the death of General [[J.L.J.H. Pel]] in [[February]] [[1876]], the Dutch military continued operations in Aceh. The expedition was authorized by Governor-General [[J.W. van Lansberge]] in [[July]] [[1876]], with instructions to suppress the recalcitrant chief [[Teukoe Moeda Nja Malém]], who had planned an attack on the Dutch post at [[Blang Ni]]. The operation, commanded by General [[A.J.E. Diemont]], successfully established the pattern of using military force to compel submission, followed by negotiation with recalcitrant chiefs.
 
 ## See Also
 

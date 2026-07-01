@@ -1,10 +1,10 @@
 ---
 title: Padang Tiji
-aliases: [Padangtiji, Padang Tijie, Padang Tjie]
-tags: [place, gampong, mukim, xxii-mukims, royal-residence]
+aliases: [Padangtiji, Padang Tijie, Padang Tjie, Tiji, Padang Teuji]
+tags: [place, gampong, mukim, xxii-mukims, royal-residence, north-east-coast]
 ---
 
-**Padang Tiji** is a locality in the [[Mukims VII|VII Mukims]] of the [[XXII Mukims|Sagi of the XXII Mukims]] of [[Great Acheh]]. In *The Achehnese* Vol. I, Snouck Hurgronje cites Padang Tiji as the place of death of a member of the Achehnese royal house, the prince **Tuanku Asem**.
+**Padang Tiji** (also written **Padang Teuji** or simply **Tiji**) is a locality in the [[Mukims VII|VII Mukims]] of the [[XXII Mukims|Sagi of the XXII Mukims]] of [[Great Acheh]], associated with the VII Mukims. In *The Achehnese* Vol. I, Snouck Hurgronje cites Padang Tiji as the place of death of a member of the Achehnese royal house, the prince **Tuanku Asem**. The place is also mentioned in the [[Hikayat Pochut Muhamat]], where 'Padang Teuji (Tiji)' is where [[Pochut Muhamat]] remains as long as necessary for regulating the affairs of the VII Mukims and winning over the people to his cause.
 
 ## The Death of Tuanku Asem
 
@@ -19,9 +19,13 @@ Padang Tiji belongs to that upland portion of the [[XXII Mukims]] in which the m
 - [[Mukims VII]]
 - [[XXII Mukims]]
 - [[Tuanku Asem]]
+- [[Pochut Muhamat]]
+- [[Hikayat Pochut Muhamat]]
 - [[Three Sagis (XXVI, XXV, XXII Mukims)]]
 - [[Great Acheh]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

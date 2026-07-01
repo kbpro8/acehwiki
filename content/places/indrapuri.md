@@ -1,16 +1,34 @@
 ---
 title: Indrapuri
-aliases: [Indra Puri, Indrapuri mosque, Meuseugit Raya of the XXII Mukims, Indrapoeri]
-tags: [place, mosque, religious-site, sacred-site, great-acheh]
+aliases: [Indra Puri, Indrapuri mosque, Meuseugit Raya of the XXII Mukims, Indrapoeri, Indrapoeri, Missigit of Indrapuri]
+tags: [place, mosque, religious-site, sacred-site, great-acheh, kampong, acehnese, aceh-war]
 ---
 
 **Indrapuri** is the locality in the [[XXII Mukims|XXII Mukims]] sagi of [[Great Acheh|Great Acheh]] which gave its name to the great mosque (*meuseugit raya*) founded, by tradition, by [[Sultan Meukuta Alam|Sultan Meukuta Alam]] ([[Iskandar Muda|Iskandar Muda]], reigned [[1607|1607]]–[[1636|1636]]) as the head mosque of that sagi. Among the three sagi-mosques of Great Acheh, that of Indrapuri was, at the time of Snouck Hurgronje's writing, the only one of which it could be said that it "still exists."
+
+**Indrapoeri** (modern Indrapuri) was a kampong in the [[XXII Moekims|Sagi der XXII Moekims]] of [[Acheh|Atjeh]], south of the Dutch hoofd-stelling at [[Kota Radja|Kota Radja]], whose famous [[missigit Indrapoeri|missigit]] — one of the most celebrated mosques of Atjeh — was the object of the [[Capture of Indrapuri (24 March 1879)|capture of 24 March 1879]], the opening operation of the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]]. The missigit was taken by a stratagem: a guide and five unarmed native soldiers swam the river and set fire to some houses, leading the enemy to abandon the mosque; then some fifty Buginese soldiers swam across and charged the mosque at the double, and it fell without a blow on the part of the Dutch.
 
 The foundation is described in Snouck's account of the Achehnese mosque system. The erection of certain great mosques was, in the popular tradition, among the institutions ascribed to Sultan Meukuta Alam; such mosques were recognised as *meuseugit raya* both on account of their size and of the fact of their being erected by a sovereign prince, and also because they were regarded as the head mosques of a great number of mukims. Besides the [[Meuseugit Raya of the capital|Meuseugit Raya of the capital]] — the great mosque par excellence, from which the whole district surrounding the ancient seat of royalty takes its name — there was one for each of the three sagis of Great Acheh: that of Indrapuri for the [[XXII Mukims|XXII Mukims]]; that of [[Indrapeurua|Indrapeurua]] (in the [[VI Mukims of the XXV|VI Mukims of the XXV]]) for the [[XXV Mukims|XXV Mukims]]; and that of [[Indrapatra|Indrapatra]], almost in the place where [[Ladong|Ladong]] now stands, for the [[XXVI Mukims|XXVI Mukims]]. Of the last two, "scarcely any trace remains."
 
 The three related toponyms — *Indrapatra*, *Indrapuri*, *Indrapeurua* — bear witness to a common layer of Hindu or Hindu-Buddhist nomenclature anterior to the Mohammedan settlement of the country. The first element *Indra-* is the name of the Vedic king of the gods, found in countless place-names of the Indianised archipelago; the second element *-puri* is the Sanskrit *pura*, "city." The survival of the Sanskritic form in the name of Indrapuri (whereas the corresponding names of [[Indrapatra|Indrapatra]] and [[Indrapeurua|Indrapeurua]] show phonological alteration) is one of the small evidences by which Snouck infers the depth and antiquity of Hindu influence on the language and civilisation of the country.
 
 The pre-eminence of Indrapuri among the three sagi-mosques may be connected with the general pre-eminence of the [[XXII Mukims|XXII Mukims]] in the affairs of Great Acheh. The chief of that sagi, the hereditary [[Panglima Polem|Panglima Polem]], was accounted the doyen of the panglima sagis on account of the antiquity of his lineage, the bravery of the men of his sagi, and its wealth; and his sagi really numbered, in Snouck's time, many more mukims than the name implied, the increase of population having given rise to the formation of new districts within its limits. It is consistent with this primacy that the head mosque of the XXII Mukims should have survived the decay that overtook its sister foundations.
+
+## Background of the Capture
+
+After the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman on 13 October 1878]] the campaign against the [[XXII Moekims|XXII Moekims]] was decided upon. In his cabinet letter of [[21 March]] [[1879]] the Governor-General [[J. W. van Lansberge|Van Lansberge]] instructed the governor [[K. van der Heyden|Van der Heyden]] that "the war must now come to an end." On [[23 March]] [1879] the columns marched.
+
+## The Capture of 24 March 1879
+
+The troops, which had marched on [[23 March]] [1879], reached on [[24 March]] [1879] along the sultan's road, now and then coming into fight with the enemy, [[Gle Kambing|Gle Kambing]], opposite the missigit of Indrapuri. As the river proved not to be fordable, the guide was allowed, with five unarmed native soldiers, to swim across the river to set fire to some houses. "This bold deed indeed had the predicted effect; the enemy, already plagued from three sides by our fire, evidently got into the belief that part of the troops had crossed the river, ceased his fire and abandoned the missigit. But as this was not soon occupied by our men, he saw his mistake and occupied his fortification anew. When, however, some fifty soldiers, mostly Buginese, had swum across the river and charged the mosque at the double, the enemy abandoned it anew and it fell without a blow into our hands."
+
+## The Continuation of the Campaign
+
+The road from [[Anak Galoeëng|Anak Galoeëng]] to Gle Kambing had first to be put in good order and the enemy's withdrawal cleared. For the conquest of Indrapuri did not lead to the desired submission. "On the contrary, it was as if the struggle, under the leadership of our embittered enemies — [[Panglima Polim|Panglima Polim]], [[Imam of Longbatta|Imam Longbatta]] and others — flared up with new strength." Heavy fighting followed at [[Djerreek|Djerreek]], [[Redep|Redep]], [[Panteh Karang|Panteh Karang]] in May, and at [[Gleiêng|Gleiêng]] in July.
+
+## Later Operations
+
+After the [[Capture of Gleiêng (9 July 1879)|capture of Gleiêng on 9 July 1879]] and the [[Campaign against the XXVI Moekims (July 1879)|campaign against the XXVI Moekims]] of early July, the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August [[1879]] set out from Indrapuri. A column from Indrapuri over Gleiêng along the river approached Selimoen from one side, while a column from [[Lamtobah|Lamtobah]] approached it from the other. On [[30 July]] [1879] two Atjehers with a white flag presented themselves to the Dutch authority at Indrapuri, as envoys of the blind priest [[Habib Machmoed|Habib Machmoed]], bearer of a letter from the chiefs at Selimoen offering submission.
 
 The survival of the Indrapuri mosque into the late nineteenth century did not, however, imply the survival of its original functions. Snouck repeatedly notes the degeneration of the office of *imeum*, which had been intended to provide for each great mosque a superior religious superintendent of the surrounding mukims, but which had by his time become an ordinary adat-chieftainship or had lapsed altogether. The supervision of the great mosques had passed, in practice, into the same hands as those of the parish mosques; their religious character was preserved principally in the reverence attached to their foundation and in the occasional *kanduri* held within their walls. Indrapuri, however, by virtue of its continued existence, retained something of its old dignity; and the name remains to this day one of the most familiar in the religious topography of Acheh.
 
@@ -38,6 +56,21 @@ The name **Indrapuri** is one of a small class of *Indra*- toponyms on the Acheh
 
 ## See Also
 
+- [[K. van der Heyden]]
+- [[J. W. van Lansberge]]
+- [[missigit Indrapoeri]]
+- [[Gle Kambing]]
+- [[Anak Galoeëng]]
+- [[Panglima Polim]]
+- [[Imam of Longbatta]]
+- [[Habib Machmoed]]
+- [[Djerreek]]
+- [[Redep]]
+- [[Panteh Karang]]
+- [[Gleiêng]]
+- [[Capture of Indrapuri (24 March 1879)]]
+- [[Campaign against the XXII Moekims (1879)]]
+- [[Selimoen Expedition (August 1879)]]
 - [[Indrapatra]]
 - [[Indrapeurua]]
 - [[Meuseugit Raya of the capital]]
@@ -49,7 +82,10 @@ The name **Indrapuri** is one of a small class of *Indra*- toponyms on the Acheh
 - [[XXV Mukims]]
 - [[XXVI Mukims]]
 - [[Meukuta Alam]]
+- [[Aceh War]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 103-108.

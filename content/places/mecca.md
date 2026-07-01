@@ -1,7 +1,7 @@
 ---
 title: Mecca
-aliases: [Abu Jahl's kingdom in the Hikayat Nubuet, Mekka, Makkah, Mecca, Holy City of Islam, Sacred City, The Holy City]
-tags: [place, legendary-land, holy-city, arabia, city, foreign, religious]
+aliases: [Abu Jahl's kingdom in the Hikayat Nubuet, Mekka, Makkah, Mekkah, Makkah al-Mukarramah, Mekka (Snouck Hurgronje spelling), Mekka folk, Mecca, Holy City of Islam, Sacred City, The Holy City]
+tags: [place, legendary-land, holy-city, arabia, city, foreign, religious, sacred-site]
 ---
 
 In the [[Hikayat Nubuet]]: 'Abu Jhay (Abu Jahl) is represented as king of Mecca' and Muhammad 'in his tender youth... with the help of forty companions, waged a long war against Abu Jhay who is represented as king of Mecca and who deemed himself slighted by the young lad.'
@@ -63,8 +63,8 @@ Mecca exerted a continuous influence on the development of Mohammedan practice i
 - [[Ta'liq]]
 - [[Ruya (moon-sighting)]]
 
-## Source
-
-*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Introduction, p. v; Chapter I, §§ 4, 9, pp. 44–58, 151–160.
+
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

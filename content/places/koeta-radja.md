@@ -1,6 +1,6 @@
 ---
 title: Koeta-Radja
-aliases: [Kuta Raja, Koeta Radja, Kutaraja, Kutaraja (Banda Aceh), Banda Aceh]
+aliases: [Kuta Raja, Koeta Radja, Kutaraja, Kutaraja (Banda Aceh), Banda Aceh, Banda Aceh]
 tags: [place, city, aceh, colonial-capital]
 ---
 
