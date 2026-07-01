@@ -1,7 +1,7 @@
 ---
 title: Takengën
-aliases: [Takengën, Takengon, Takengipn, Takéngón, Takéngen]
-tags: [place, gayo, highland, colonial, military]
+aliases: [Takengën, Takengon, Takengipn, Takéngón, Takéngen, Takëngon, the Gajo-landen terminus at Takengon]
+tags: [place, gayo, highland, colonial, military, dutch, buitenbezittingen, wegennet]
 ---
 
 **Takengën** (modern *Takengon*) is the bestuursvestiging — the Dutch administrative seat — established on the western shore of the [[Laoet Tawar|Laoet Tawar]] lake in the heart of the [[Gajoland|Gayo]] highlands, around which the colonial administration of the *onderafdeeling Gajo Loeës* was organised after the [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)|1904 campaign]] of [[G. C. E. van Daalen|van Daalen]]. *De Buitenbezittingen* treats Takengën as the political and communications centre of the Gayo high plateau: the point from which the *Gajo-weg* — the great road down to the North Coast at [[Bireuën|Bireuën]] — descends the *Klietel*-saddle to the lake, and the seat of the onderafdeling that comprised, at the time of the handbook, the four Gayo *landschappen* of [[Redjë Tjèq|Redjë Tjèq]] (Bobasan), [[Redjë Boekét|Redjë Boekét]], [[Sjah Oetama|Sjah Oetama]], and [[Redjë Linggo|Redjë Linggo]].
@@ -19,6 +19,12 @@ The four *landschappen* of the Takengën onderafdeeling were grouped under the b
 ## The Dutch seat
 
 The choice of Takengën as the *bestuursvestiging* reflected both its central position on the lake shore and its accessibility from the North Coast via the Gajo-weg. The same location gave it strategic command of the *Laoet Tawar* basin, the most densely populated and agriculturally productive part of the Gayo highlands. The Dutch administration's persistent effort to give the *Kédjoerön Pétiambang* — the titular overlord of the Gayo Loeës whose authority had long since decayed — the actual power of a central territorial prince, and the resistance of the other tjèqs to this imposed authority, is the principal political drama of the Gayo Loeës in the colonial period.
+
+## Account from *De Buitenbezittingen* (1917) — Takengon and the Gajo-weg
+
+The Encyclopaedisch Bureau's account of the [[Wegenplan Sumatra|Sumatra road plan]] lists the Gajo-weg as project no. 14: "Gajo-weg from [[Bireuen]] to Takengon. Length 76 K.M.; cost f 1,496,000. For the connection of the [[Gajolanden|Gajo lands]] with the North coast. Completed." Takengon thus appears as the inland terminus of one of the principal road projects of the [[1904]]–[[1914]] decade in the Atjehnese interior.
+
+The completion of the Gajo-weg from [[Bireuen]] to Takengon opened the [[Gajolanden|Gajo lands]] — previously accessible only with difficulty from the coast — to direct road communication with the northern coast of Atjeh. Takengon, as the principal town of the Gajo lands, thereby became the administrative and economic gateway to the interior highland region of the [[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]] residency. The Gajo-weg's completion is one of the principal infrastructural achievements of the post-[[Pacificatie van Atjeh|pacification]] consolidation in the Atjehnese interior.
 
 ## Account from *Atjèh and the War with Japan* (1949) — Takéngón
 
@@ -65,8 +71,10 @@ The town of Takéngón lay at the heart of the [[Gajó Loeós|Gajó Loeós]] val
 - [[1941]]
 - [[1943]]
 
-## Source
+## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 4–6, 9, 93–94, 129.
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 4, Chapter II, Chapter IV, Chapter V § 3.
+
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 53–56 (section "De aanleg van wegen op de Buitenbezittingen").

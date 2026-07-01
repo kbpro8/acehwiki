@@ -1,7 +1,7 @@
 ---
 title: Ulee Lheue
-aliases: [Olehleh, Ulee Iheue, Uleë Iheue, Oleh Leue, Ulee Lheue, Olehheh, Uleelheue, Uleë Lheuë, Oelèë Lheuë, Ule Lheue, Oleelheue, Oeleë Lheue, Oelee-Lheuë]
-tags: [place, aceh-proper, coastal-place, kanduri-laut, sea-kanduri, monsoon, keunong, xxvi-mukims, gampong, coastal, capital, village, coast, port, achehnese]
+aliases: [Olehleh, Ulee Iheue, Uleë Iheue, Oleh Leue, Ulee Lheue, Olehheh, Uleelheue, Uleë Lheuë, Oelèë Lheuë, Ule Lheue, Oleelheue, Oeleë Lheue, Oelee-Lheuë, Oelee Lheue, Oelèe Lheue, Oelèe Lheuë, reede van Oelèe Lheuë, the roadstead of Oelèe Lheuë, Oelé Lheué, Oleh lehe, Ole Lheu]
+tags: [place, aceh-proper, coastal-place, kanduri-laut, sea-kanduri, monsoon, keunong, xxvi-mukims, gampong, coastal, capital, village, coast, port, achehnese, harbour, roadstead, colonial, dutch, buitenbezittingen]
 ---
 
 A port near the capital of [[Acheh]], the most important harbour. Teuku Nya' Muhamat (the loyal '[[Raja Muda]]' chief) used his efforts to advance the prosperity of the capital and of Ulee Lheue (Olehleh). The death of [[Teuku Asan]] occurred at Ulee Lheue under peculiar circumstances. The soldiers occupying the mosque of Ulee Lheue actually fired the fatal shot, though most Achehnese attributed it to Teuku Ne's followers. [[Teuku Uma]]'s dramatic submission to the Gompeuni included a journey to Ulee Lheue and [[Kutaraja]]. Near Ulee Lheue (the keude or bazaar) is the tomb of [[Tuan di Bunot]] (named because it lies beneath a huge bunot-tree). The tomb of Teungku [[Lam Guha]] ('saint of the cave'), a Javanese from [[Demak]], lies behind the mosque at Ulee Lheue and is now visited by many pilgrims. Also [[Teungku Pante Cheureumen]]'s tomb lies near Kuala Doe on the shore of Ulee Lheue.
@@ -62,7 +62,15 @@ The 1913–[[1915]] statistics in Bijlage III record Oelèë Lheuë receiving 38
 
 ## The Atjeh-tram terminus
 
-The *Atjeh-tram*, which linked Koeta Radja with [[Sigli|Sigli]], [[Bireuën|Bireuën]], and — by [[1915]] — Koeala Simpang, had its seaward terminus at Oelèë Lheuë. Thehaven's pier was lengthened to accommodate the *veerdienst* with [[Sabang|Sabang]], and a small zeewaardige passagiersboot was stationed there to maintain "te allen tijde de gemeenschap tusschen Sabang … en Oelèë Lheuë." The prauwenveer and the pakhuizen at Oelèë Lheuë were taken over by the *Atjeh-transport-maatschappij*, a daughter-company of the Sabang-Mij., which "tegenover het Gouvernement eene bevoorrechte positie inneemt" — occupied a privileged position vis-à-vis the Government. A Gouvernements-*droogdok* was first stationed at Sabang in [[1898]], but the Oelèë Lheuë pier remained indispensable to the koopvaardij until the completion of larger works at Sabang.
+The *Atjeh-tram*, which linked Koeta Radja with [[Sigli|Sigli]], [[Bireuën|Bireuën]], and — by [[1915]] — Koeala Simpang, had its seaward terminus at Oelèë Lheuë. The haven's pier was lengthened to accommodate the *veerdienst* with [[Sabang|Sabang]], and a small zeewaardige passagiersboot was stationed there to maintain "te allen tijde de gemeenschap tusschen Sabang … en Oelèë Lheuë." The prauwenveer and the pakhuizen at Oelèë Lheuë were taken over by the *Atjeh-transport-maatschappij*, a daughter-company of the Sabang-Mij., which "tegenover het Gouvernement eene bevoorrechte positie inneemt" — occupied a privileged position vis-à-vis the Government. A Gouvernements-*droogdok* was first stationed at Sabang in [[1898]], but the Oelèë Lheuë pier remained indispensable to the koopvaardij until the completion of larger works at Sabang.
+
+## The origin of the Atjeh-tram (1875)
+
+The Bureau identifies Oelèe Lheuë as the western terminus of the very first Atjeh railway: "the first line was already laid shortly after the beginning of the [[Atjeh-expeditie (1873)|Atjeh-expedition]], when in [[1875]] the [[Departement van Oorlog|Department of War]] had a small railway built between the roadstead of Oelèe Lheuë and our principal military station at [[Kota Radja]]." This small line — converted to a tramway in [[1882]], connected by three radial lines to the [[Ceintuur-trambaan|belt-tramway of 1885]] along the [[Postenlinie|postenlinie]], and reverted to the [[Departement van Oorlog|War Department]] in [[1891]] — was the seed of the entire [[Atjeh-tram|Atjeh-tramway]] network.
+
+## The trans-Sumatra "iron band" project
+
+In the Bureau's closing survey of the Sumatra-wide railway project, the roadstead at Oelèe Lheuë appears again as the northern terminus of the projected trans-Sumatra line. The Bureau writes: "the great plan that aims to lay the meshes of this net also over the [Sumatran] *gewesten* Palembang, Benkoelen and the Lampongsche Districten … would form the basis for the giant plan: the striking of an iron band over the entire length of the island, from the deep East haven at the Keizersbaai near [[Telok Betong]] to the roadstead of [[Oelèe Lheuë|Oelèe Lheuë]] on Atjeh's marshy North coast, with feeder lines from the important economic centres." The Bureau's characterisation of "Atjeh's marshy North coast" acknowledges the physical difficulties of the roadstead, which would lead the [[Aroe-baai-plannen|Aroe-baai-plannen]] of [[1913]] to seek a better maritime outlet for the residency at [[Aroebai|Arube Bay]].
 
 ## Account from *St. Claverbond Register* (1939) — Oeleë-Lheue
 
@@ -115,9 +123,21 @@ Oeleë-Lheue was part of a network of missionary stations and military posts tha
 - [[Atjeh-tram]]
 - [[Sabang Maatschappij]]
 - [[Breuë-groep]]
+- [[Aroe-baai-plannen]]
+- [[Aroebai]]
+- [[Postenlinie]]
+- [[Ceintuur-trambaan]]
+- [[Departement van Oorlog]]
+- [[Telok Betong]]
+- [[1873]]
 - [[1874]]
+- [[1875]]
+- [[1882]]
+- [[1885]]
+- [[1891]]
 - [[1898]]
 - [[1910]]
+- [[1913]]
 - [[1914]]
 - [[1915]]
 - [[Catholic Mission in Aceh]]
@@ -133,3 +153,5 @@ Oeleë-Lheue was part of a network of missionary stations and military posts tha
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 15, 25–30, 38, 46–47, 214–217, 245.
 
 *Register op de eerste 50 jaargangen van het missietijdschrift der P.P. Jezuieten "St. Claverbond", 1889 tot en met 1938*, samengesteld door Herman Hagdorn S.J. en Jacques Dinjens (Nijmegen: Stichting St. Claverbond, 1939).
+
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 68 (section "De Atjeh-tram"), p. 83 (section "Midden-Sumatra-spoorweg").

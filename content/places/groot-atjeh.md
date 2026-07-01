@@ -28,6 +28,12 @@ The three sagis of Groot-Atjeh were:
 
 By the administrative reorganisation of [[March 1881|March 1881]], the gewest Atjeh en Onderhoorigheden was organised under a governor at Kota Radja, with three assistant-residents: Groot-Atjeh (with Kota Radja as chief place, in which direct Dutch administration was introduced); the [[Noord- en Oostkust|Noord- en Oostkust]] (with [[Telok Semawe|Telok Semawé]] as chief place); and the [[Westkust van Atjeh|Westkust van Atjeh]] (with [[Malaboeh|Malaboeh]] as chief place). To the landscapes belonging to the two last afdeelingen self-government was left. In Groot-Atjeh the inland administration was conducted by district-heads or hoeloebalangs, appointed by the Governor-General; their replacements and helpers, as well as the moekim-heads, imams, were appointed by the governor; the replacements and helpers of the imams, as well as the kampong-heads, ketjihiks, by the assistant-resident; the heads of the wards, mandarsé's, by the controleur.
 
+## Account from *De Buitenbezittingen* (1917) — Groot-Atjeh and the Tramway
+
+**Groot-Atjeh** was also the colonial designation for the core territory in the Encyclopaedisch Bureau's account of the [[Atjeh-tram|Atjeh-tramway]], appearing as the western terminus of the network: the region containing the original tramway from [[Oelèe Lheuë]] to [[Kota Radja]] (built [[1875]]), the [[Ceintuur-trambaan|belt-tramway]] along the [[Postenlinie|postenlinie]] (built [[1885]]), and the western end of the *berglijntje* (mountain line) of [[1904]]–[[1908]] that connected the old Groot-Atjeh network with the second tramway of the [[Atjeh's Onderhoorigheden|Dependencies]] at [[Seulimeum]].
+
+The Bureau draws an explicit contrast between "the old tramway in Groot-Atjeh" (*de oude trambaan in Groot-Atjeh*) and "the second tramway in the Dependencies." After [[1896]], the belt-tramway was "gradually cleared" (*geleidelijk opgeruimd*), and the long tramway of [[1897]] onward replaced it as the principal axis of the network. The Groot-Atjeh network was then reconnected to the Dependencies network by the [[Berglijntje Keude Breue–Seulimeum|berglijntje from Keude Breue over the hills to Seulimeum]] — built [[1904]]–[[1908]] — which gave the military administration "a powerful instrument for achieving the complete [[Pacificatie van Atjeh|pacification]] of the intersected regions" of Groot-Atjeh and the Dependencies.
+
 ## See Also
 
 - [[Acheh]]
@@ -45,7 +51,21 @@ By the administrative reorganisation of [[March 1881|March 1881]], the gewest At
 - [[Van Swieten's Proclamation of 31 January 1874]]
 - [[Aceh War]]
 - [[Establishment of Civil Government in Aceh (6 April 1881)]]
+- [[Atjeh-tram]]
+- [[Ceintuur-trambaan]]
+- [[Postenlinie]]
+- [[Berglijntje Keude Breue–Seulimeum]]
+- [[Oelèe Lheuë]]
+- [[Seulimeum]]
+- [[Pacificatie van Atjeh]]
+- [[1873]]
+- [[1875]]
+- [[1885]]
+- [[1896]]
+- [[1904]]
 
-## Source
+## Sources
+
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 68–69 (section "De Atjeh-tram").
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 6-8, 26, 113-115.

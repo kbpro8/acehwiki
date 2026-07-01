@@ -1,9 +1,15 @@
 ---
 title: Encyclopaedisch Bureau
-aliases: [Encyclopaedisch Bureau, Encyclopaedic Bureau, Encyclopedisch Bureau]
-tags: [organization, colonial, dutch, scholarly]
+aliases: [Encyclopaedisch Bureau, Encyclopaedic Bureau, Encyclopedisch Bureau, Encyclopaedisch Bureau van het Departement van Binnenlandsch Bestuur, Encyclopaedisch Bureau (Nederlandsch-Indië), the Encyclopaedic Bureau, Bureau encyclopaedique]
+tags: [organization, colonial, dutch, scholarly, administration, publication, buitenbezittingen, colonial-bureau, encyclopedia]
 ---
 **The Encyclopaedisch Bureau** was the scholarly editorial office of the Netherlands East Indies colonial administration that, in [[1917]], compiled *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden* — the second instalment of the systematic gazetteer of the Outer Possessions — as one of the *Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen* issued by the [[Bureau voor de Bestuurszaken der Buitenbezittingen|Bureau voor de Bestuurszaken der Buitenbezittingen]] from the Landsdrukkerij at Weltevreden. The Bureau's imprint appears on the title page of the volume itself — *bewerkt door het Encyclopaedisch Bureau* — and its work is repeatedly cited in the running text, which refers forward to companion *Mededeelingen* still in preparation, including the *uitvoerige nota* on [[Simeuloë|Simeuloë]] that "weldra als Mededeeling van het Encyclopaedisch Bureau verschijnt."
+
+## Institutional mandate and founding
+
+The Bureau was tasked — in its own words — with "publishing all kinds of data concerning the Buitenbezittingen in order to inform the public, and in particular Trade and Industry, of the knowledge that had in the meantime been gathered about the regions that had only recently become accessible, in order to make use of it in the interest of the development of those regions." It was attached to the office of the [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur voor de Bestuurszaken der Buitenbezittingen]] and the [[Bureau voor de Bestuurszaken der Buitenbezittingen|Bureau voor de Bestuurszaken der Buitenbezittingen]] from their establishment in [[1908]].
+
+The immediate occasion for the Bureau's composition of *De Buitenbezittingen 1904 tot 1914* was the [[Koloniale Tentoonstelling van 1914 te Semarang|Colonial Exhibition of 1914 at Semarang]], at which the gewesten of the Buitenbezittingen had presented overviews of the state of land and people. The exhibition's partial failure — owing to the [[1914]] outbreak of the European war — prompted the commissioning of the Bureau's report: "to the Encyclopaedisch Bureau was now tasked the duty of meeting the adverse influence of the circumstances by compiling a report on the Buitenbezittingen, using the Government and gewestelijke submissions present at the exhibition." The Bureau's report "became much more extensive than was intended in the conception of that limited assignment" — growing into "a sketch of the development of the Buitenbezittingen during the period [[1904]]–[[1914]], so important for those territories."
 
 ## Place within the colonial information order
 
@@ -20,11 +26,21 @@ The *De Buitenbezittingen* series, and the Atjeh volume in particular, became th
 ## See Also
 
 - [[Bureau voor de Bestuurszaken der Buitenbezittingen]]
+- [[Adviseur voor de Bestuurszaken der Buitenbezittingen]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Departement van Binnenlandsch Bestuur]]
+- [[Koloniale Tentoonstelling van 1914 te Semarang]]
 - [[C. Snouck Hurgronje]]
 - [[H. N. A. Swart]]
+- [[H. Colijn]]
 - [[Simeuloë]]
+- [[Buitenbezittingen]]
+- [[Pacificatie van Atjeh]]
+- [[1908]]
+- [[1914]]
 
-## Source
+## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), title page, p. 60.
+
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 3–4 (Bestuurs-organisatie), Voorwoord.

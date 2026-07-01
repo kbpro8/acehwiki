@@ -1,7 +1,7 @@
 ---
 title: C. Snouck Hurgronje
-aliases: [Christiaan Snouck Hurgronje, Dr. C. Snouck Hurgronje, Dr. Snouck Hurgronje, Snouck Hurgronje]
-tags: [person, scholar, dutch, orientalist, author, colonial-official]
+aliases: [Christiaan Snouck Hurgronje, Dr. C. Snouck Hurgronje, Dr. Snouck Hurgronje, Snouck Hurgronje, Snouck, Dr. Snouck, the advisor on Atjeh affairs]
+tags: [person, scholar, dutch, orientalist, author, colonial-official, advisor, islamologist, colonial, aceh, buitenbezittingen]
 ---
 
 **Christiaan Snouck Hurgronje** ([[1857]]–[[1936]]), cited on the title-page of Vol. I as **Dr. C. Snouck Hurgronje, Adviser for Native Affairs, Netherlands India**, was the author of *The Achehnese* and the foremost Dutch Islamicist of his generation. His work on Acheh — first published in Dutch in 1893–94, then translated into English by the late [[A. S. O'Sullivan|A. W. S. O'Sullivan]] in [[1906]], with an index by [[R. J. Wilkinson]] — remains the principal source for the political, social, domestic and religious life of the Achehnese in the closing decades of the sultanate.
@@ -19,6 +19,10 @@ During his residence in Acheh, Snouck obtained copies of a number of sarakatas (
 ## The 1906 revision
 
 When [[A. S. O'Sullivan|Mr. O'Sullivan]], early in [[1899]], informed Snouck of his project of translating the book, it was just the time that the real conquest of Acheh was being commenced; and Snouck, "spending a great deal of my time in that country, was in an incomparably better position to investigate that old pirate-state than I had been in 1891 and 1892." He nevertheless decided that the text should be left substantially unaltered, "and that only occasionally would some improvements and fuller explanations be included in it, that isolated additions to the text regarding individuals mentioned in it should be put in brackets after the names referred to, and, finally, that in an introductory article as much should be said regarding the course of recent events in Acheh as would suffice to give the reader some idea of their significance." The Introduction accordingly takes account of the events of 1899–1903, including the [[Submission of Tuanku Muhamat Dawot|submission]] of [[Tuanku Muhamat Dawot]] in January 1903.
+
+## Role in the extension of Dutch authority (1902)
+
+In the Encyclopaedisch Bureau's volume *De Buitenbezittingen 1904 tot 1914*, Snouck Hurgronje is mentioned as the principal advisor — together with the Residents of [[Palembang]] and [[Benkoelen]] — whose [[1902]] advice on [[Djambi]] and [[Koerintji]] led the Indische Regeering to adopt the "active policy" that extended the post-[[1896]] Atjeh model of "effective authority" to other parts of the Buitenbezittingen. The Bureau writes: "the date at which a beginning was made with the complete subjection to our effective authority… properly dates only from [[1902]], when the necessity of an active policy with regard to [[Djambi]] and thereby also against [[Koerintji]] was adopted by the Indische Regeering, principally in consequence of the relevant advices of the Residents of [[Palembang]] and [[Benkoelen]] and of Dr. [[C. Snouck Hurgronje|Snouck Hurgronje]]."
 
 ## Account from *Dispereert Niet Vol. XI* (1946) — C. Snouck Hurgronje
 
@@ -77,9 +81,21 @@ Snouck Hurgronje's work established a new approach to colonial governance, combi
 - [[Teukoe Oema]]
 - [[Korte Verklaring]]
 - [[Anglo-Dutch Treaty of London (1824)]]
+- [[Pacificatie van Atjeh]]
+- [[Toekoe Oemar's verraad (1896)]]
+- [[Buitenbezittingen]]
+- [[Djambi]]
+- [[Koerintji]]
+- [[Palembang]]
+- [[Benkoelen]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[1896]]
+- [[1902]]
 
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
+
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 2 (section "Bestuurs-organisatie").

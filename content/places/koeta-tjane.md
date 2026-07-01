@@ -1,9 +1,15 @@
 ---
 title: Koeta Tjané
-aliases: [Kuta Cane, Koeta Tjane, Kutacane]
-tags: [place, achehnese, colonial]
+aliases: [Kuta Cane, Koeta Tjane, Kutacane, Kota Tjane, Kota Cane, Kota Janè, Kota Tjane (Alaslanden), the Alaslanden terminus of the Alasweg]
+tags: [place, achehnese, colonial, dutch, buitenbezittingen, wegennet, alas]
 ---
 **Koeta Tjané** is the subdistrict headquarters-town of the [[Alaslanden|Alaslanden]] in the Alas valley of Central Atjèh, the place where the Dutch military and civil administration of the Alas valley resided, the headquarters to which General [[Major-General Overakker|Overakker]] moved on [[14 March]] [[1942]] after Kaban Djahé, and the centre from which the defense of the [[Alasvalley|Alasvalley]] — the focus of the final Dutch resistance in Sumatra — was organised until its fall on [[27 March]] [[1942]]. Piekaar's *Atjèh and the War with Japan* treats Koeta Tjané as one of the five subdistricts in which the military commander was replaced by civil administration in [[1938]], and as the key road junction on the *Alasweg* between [[Kaban Djahé|Kaban Djahé]] in the East Coast residency and [[Blang Kédjérèn|Blang Kédjérèn]] in the [[Gajó Loeós|Gajó Loeós]].
+
+## Account from *De Buitenbezittingen* (1917) — Kota Tjane
+
+The Encyclopaedisch Bureau's account of the [[Wegenplan Sumatra|Sumatra road plan]] lists the Alasweg as project no. 13 in its numbered list of fifteen Sumatra road projects: "Weg [[Kaban Djahe|Kaban Djahe]]–Kota Tjane (Alasweg). Length 137 K.M.; cost f 1,173,000. For the connection of the [[Alaslanden|Alas lands]] with the Karo-hoogvlakte and the wegennet of the [[Oostkust van Sumatra|East Coast]]. In the main completed." Kota Tjane thus appears as the southern terminus of one of the two principal road projects of the [[1904]]–[[1914]] decade in the Atjehnese interior.
+
+The completion of the Alasweg from [[Kaban Djahe]] to Kota Tjane opened the [[Alaslanden|Alas lands]] to direct road communication with the Karo highlands and the road network of the [[Oostkust van Sumatra|East Coast of Sumatra]] — that is, with the southern rather than the northern coast of Atjeh. Kota Tjane, as the principal town of the Alas lands, thereby became the administrative and economic gateway to the Alas valley region.
 
 ## The administrative reform of 1938
 
@@ -27,10 +33,21 @@ On [[25 March]] [[1942]] a Japanese breakthrough took place "from the valley of 
 - [[Major-General Overakker]]
 - [[Th. O. B. Gunther]]
 - [[Radja Mariboen]]
+- [[Wegenplan Sumatra]]
+- [[Gajo-landen]]
+- [[Bireuen]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Oostkust van Sumatra]]
+- [[Departement der Burgerlijke Openbare Werken]]
+- [[Pacificatie van Atjeh]]
+- [[1904]]
+- [[1914]]
 - [[1938]]
 - [[1942]]
 - [[27 March]] [[1942]]
 
-## Source
+## Sources
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 1, Chapter II, Chapter IV, Chapter V § 3.
+
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 53–56 (section "De aanleg van wegen op de Buitenbezittingen").

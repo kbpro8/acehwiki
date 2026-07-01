@@ -18,6 +18,10 @@ The onderafdeeling Bireuën comprised three *oelèëbalangschappen*: [[Gloempang
 
 The bivak at Bireuën was the starting-point of the *Gajo-weg*, the military trace driven across the gebergte to the bestuursvestiging of [[Takengön|Takengön]] on the Laoet Tawar — "met groote moeite en kosten dwars over het gebergte tot stand gebracht." Originally laid as a *colonne-weg* for the weeks-long transporten of the Gajo-lands bezetting, the road was by [[1917]] "geheel voltooid en in den drogen tijd reeds voor autoverkeer geschikt," opening the Pegasèng-, Ketèl- and DörUbekken to commerce. The Atjeh-tram station at Bireuën — depicted in Plaat 5 of the source — connected the town with [[Koeta Radja|Koeta Radja]] to the north-west and Koeala Simpang to the south-east. The onderafdeeling counted 20,337 registered adult Atjehers at end [[1915]].
 
+## Account from *De Buitenbezittingen* (1917) — Bireuen
+
+The Encyclopaedisch Bureau's account of the [[Wegenplan Sumatra|Sumatra road plan]] lists **Bireuen** as the northern terminus of the **Gajo-weg** (project no. 14 in the Bureau's numbered list of fifteen Sumatra road projects): "Gajo-weg from Bireuen to [[Takengon|Takengon]]. Length 76 K.M.; cost f 1,496,000. For the connection of the [[Gajo-landen|Gajo lands]] with the North coast. Completed." The road was one of the principal infrastructural projects of the [[1904]]–[[1914]] decade in the [[Atjeh en Onderhoorigheden|Atjeh and Dependencies]] residency, opening the interior Gajo lands — previously accessible only with difficulty — to direct road communication with the northern coast of Atjeh. Of the fifteen Sumatra road projects listed, the Gajo-weg from Bireuen to [[Takengon]] was one of only a handful listed as "completed" by the end of the decade.
+
 ## Account from *Atjèh and the War with Japan* (1949) — Bireuën
 
 **Bireuën** is the subdistrict headquarters-town and subdistrict of the [[Noordkust|Noordkust]] of [[Atjèh|Atjèh]], "with its more than 100,000 inhabitants the most populous after [[Sigli|Sigli]] of Atjèh," the subdistrict where the [[Poesa|Poesa]] — the All-Aceh Union of Ulemas — was founded in [[1939]] under the high patronage of Teukoe Hadji Tjhi' Moehamad Djohan Alam Sjah of [[Peusangan|Peusangan]], and the strategic junction on the *Gajóweg* between the coastal plain and the [[Takéngón|Takéngón]] highlands. Piekaar's *Atjèh and the War with Japan* treats Bireuën as the political and educational centre of the [[Poesa|Poesa]] movement, and as the point through which the retreating Dutch troops and the civilian evacuation transports from [[Koetaradja|Koetaradja]] passed on their way to [[Takéngón|Takéngón]] in March [[1942]].
@@ -74,6 +78,8 @@ Bireuën is the departure point of the lieutenant's journey through Aceh — the
 - [[13 March]] [[1942]]
 
 ## Sources
+
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 53–56 (section "De aanleg van wegen op de Buitenbezittingen").
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 13–14, 21–22, 38, 65–67, 126.
 

@@ -1,7 +1,7 @@
 ---
 title: Gajolanden (Gayo Lands)
-aliases: [Gajolanden, Gayo Lands, Gayoland, land of the Gajos]
-tags: [place, region, aceh, gajo]
+aliases: [Gajolanden, Gayo Lands, Gayoland, land of the Gajos, Gajo lands, Gayo-landen, Gajo-Landen, Tanah Gayo, the Gajo highlands, Gajo country]
+tags: [place, region, aceh, gajo, highland, colonial, dutch, buitenbezittingen, wegennet]
 ---
 
 **The Gajolanden** — the Gayo Lands — is the highland region of central [[Atjeh|Aceh]] inhabited by the Gajo (Gayo) people, the region through which the [[Gajoweg]] runs from [[Bireuën]] to [[Takengeun]] on Laut Tawar. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), the Gajolanden are the book's — and the lieutenant's journey through Aceh — destination: the beautiful lake of the Gajolanden at the end of the Gajoweg, and the region of the [Gajo- en Alaslanden tochten] of Van Heutsz's period of glory.
@@ -26,6 +26,12 @@ The old hunter [[Datoek]] — before settling at [[Blang Rakal]] in [[1917]] —
 
 The Gajolanden are significant in *[[Oost-Indisch Journael]]* as the highland region of central Aceh that the [[Gajoweg]] connects to Bireuën and that the [Gajo- en Alaslanden tochten] opened to the colonial army. The book's argument — that the Gajolanden were the destination of the lieutenant's journey through Aceh, the region of the blangs and the Boerni-dit and Boer-ni-dat, and the old days of Datoek's journeys to Takengeun — is the book's marker of the Gajolanden as the highland region of central Aceh. The Gajolanden are therefore the book's marker of the all-out offensive in the highlands and of the old days of the Gajolanden.
 
+## Account from *De Buitenbezittingen* (1917) — Gajo-landen
+
+The Encyclopaedisch Bureau's account of the [[Wegenplan Sumatra|Sumatra road plan]] lists the Gajo-weg as project no. 14 in its numbered list of fifteen Sumatra road projects: "Gajo-weg from [[Bireuen]] to [[Takengen|Takengon]]. Length 76 K.M.; cost f 1,496,000. For the connection of the [[Gajolanden|Gajo lands]] with the North coast. Completed." The road was one of the principal infrastructural projects of the [[1904]]–[[1914]] decade in the [[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]] residency, opening the interior Gajo-landen — previously accessible only with difficulty — to direct road communication with the northern coast of Atjeh.
+
+The Bureau's account also notes that the Sumatra road plan included a separate project — the Alasweg, project no. 13 — connecting the [[Alaslanden|Alas lands]] with the Karo-hoogvlakte (Karo highlands) and the road network of the [[Oostkust van Sumatra|East Coast of Sumatra]]. The Alasweg and the Gajo-weg together represent the two principal road projects of the decade in the Atjehnese interior — both designed to open the highland interior of Atjeh to road communication with the coast.
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -34,12 +40,21 @@ The Gajolanden are significant in *[[Oost-Indisch Journael]]* as the highland re
 - [[Takengeun]]
 - [[Blang Rakal]]
 - [[Laut Tawar]]
+- [[Wegenplan Sumatra]]
+- [[Alaslanden]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Departement der Burgerlijke Openbare Werken]]
+- [[Pacificatie van Atjeh]]
+- [[1904]]
+- [[1914]]
 - [Boerni-dit en Boer-ni-dat](/places/boerni-dit-en-boer-ni-dat)
 - [Gajo- en Alaslanden tochten](/events/gajo-en-alaslanden-tochten)
 - [Heinzenknecht](/people/heinzenknecht)
 - [[Datoek]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
 
-## Source
+## Sources
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn* and the chapter on den zieleherder.
+
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 53–56 (section "De aanleg van wegen op de Buitenbezittingen").

@@ -1,7 +1,7 @@
 ---
 title: Sabang
-aliases: [Sabang free port, Sabang harbour, Sabang coaling station, Zeehaven Sabang, Sabang, Sabanghaven, Sabangbaai, Free Port of Sabang, Sabang Island, Poelau Wè, Pulau We, Sabang Harbor]
-tags: [place, harbour, free-port, trade, colonial, port, dutch, island]
+aliases: [Sabang free port, Sabang harbour, Sabang coaling station, Zeehaven Sabang, Sabang, Sabanghaven, Sabangbaai, Free Port of Sabang, Sabang Island, Poelau Wè, Pulau We, Sabang Harbor, Sabang-haven, Sabang Maatschappij, the free port of Sabang, Sabang (Atjeh), haven van Sabang, Weh Island]
+tags: [place, harbour, free-port, trade, colonial, port, dutch, island, aceh, buitenbezittingen, ocean-port, sabang-maatschappij]
 ---
 
 **Sabang** was the free port and coaling station developed on the northern bay of
@@ -138,6 +138,39 @@ The Maatschappij held, by [[1917]], extensive mechanical installations for the b
 
 The kolenbedrijf grew from 19,000 tons delivered in [[1900]] to a peak of 210,000 tons in [[1912]]–[[1913]], before the war brought a drop to 135,000 tons in [[1915]]. The customary mixture was the so-called *Sabang-mixture* of two parts Bengaalsche to one part Ombilin-kolen. Dividends on shares of ƒ1,000 rose from ƒ82.50 in [[1910]] to ƒ125 in [[1913]], with additional *winstaandeel* to the Gouvernement under St. 1910 No. 56. The Gouvernement acquired the kaaimuren, steigers, and *corps-morts* of the haven in [[1909]] for roughly ƒ1,200,000 and now maintains them itself; the Maatschappij pays a yearly *pacht* of 3¼ % on the original purchase plus extension costs.
 
+## Harbour Traffic Statistics (1904–1913)
+
+The growth of Sabang's port is strikingly illustrated by the shipping statistics from the period:
+
+| Year | Ships Arrived | Gross Tonnage (M³) |
+| :--- | :--- | :--- |
+| [[1904]] | 588 | 1,869,000 |
+| [[1908]] | 794 | 3,429,000 |
+| [[1910]] | 890 | 4,337,000 |
+| [[1912]] | 1,016 | 5,507,000 |
+| [[1913]] | 1,061 | 5,874,000 |
+
+*(Source: Mededeelingen Encyclopaedisch Bureau, p. 308)*
+
+Between [[1904]] and [[1913]], the number of ships nearly doubled while gross tonnage more than tripled. The Encyclopaedisch Bureau's comparative table of the six principal Indische havens breaks the [[1913]] figure down as 559 ships from abroad (4,664,000 M³) and 350 ships from inland (1,181,000 M³) — a total of 909 ships (5,845,000 M³), or 1,061 ships (5,874,000 M³) including *stroomschepen*. The growth between [[1909]] and [[1913]] — from 84 ships from abroad (3,841,000 M³) to 559 — is the most dramatic of any of the six principal Indische havens in the Bureau's table. The Bureau concludes that "the Sabanghaven has, in the short duration of its existence (Sabang Maatschappij founded [[1898]]), as *oceaanhaven* taken an enormous flight, and now already occupies the first place, as far as concerns the immediate foreign traffic, and the fourth place for the total traffic, compared with all other harbours in the Archipelago."
+
+## Sabang and the Aroe-baai-plannen
+
+The Bureau's account of the [[Aroe-baai-plannen|Aroe-baai-plannen]] of [[1913]] identifies Sabang as one of the three principal competitors that the projected [[Aroebai|Arube Bay]] harbour was designed to rival: "the defenders of the [[Aroe-baai-plannen|Aroe-baai-plannen]], who see in this natural harbour [of [[Aroebai|Arube Bay]]] a competitor of [[Belawan]] and even of [[Singapore]] and Sabang." This places the Aroe-baai project in the context of the wider ambition to develop the Atjehnese coast as a deep-water harbour region — of which Sabang itself was the principal existing realisation.
+
+## The Radio-kuststation at Sabang
+
+The Bureau's account of the *radio-kuststation* (radio coastal station) at Sabang notes that the station "has little significance for trade, but so much the more for shipping. In [[1913]] it obtained 3,809 connections with ship stations, while telegrams were exchanged with 737 of these." The radio-kuststation at Sabang is one of the principal radio stations of the Buitenbezittingen — alongside those at [[Koepang]] and [[Amboina]] — and was the principal radio station serving the Atjehnese coast.
+
+## Economic and Strategic Role
+
+The development of Sabang served multiple colonial purposes simultaneously:
+
+- **Commercial hub:** Sabang served as a critical transshipment and refuelling point for the [[Koninklijke Paketvaart Maatschappij (KPM)|K.P.M.]] and other international shipping companies, connecting the recently pacified region of Atjeh to global trade networks.
+- **Strategic value:** Its deep-water port, accessible at any hour, gave the Dutch navy a secure base commanding the northern approach to the [[Strait of Malacca|Malacca Strait]].
+- **Export gateway:** Sabang served as the primary export outlet for the developing plantation economy of the [[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]] — rubber, pepper, and copra from the east coast were transported to Sabang for onward shipment abroad.
+- **Tax revenue:** A toll was levied on the export of products from the island of [[Pulo We|Weh]], contributing to the colonial revenue of the *gewest*.
+
 ## Account from *Atjèh and the War with Japan* (1949) — Sabang
 
 **Sabang** is the strategic island harbour off the northern tip of [[Atjèh|Atjèh]], the free-port town on the bay of [[Poeloe Wè|Poeloe Wè]] whose airfield, harbour works and oil and gasoline supplies made it — together with [[Koetaradja|Koetaradja]] — one of the two great strategic objectives of the [[1942|1942]] Japanese invasion of Atjèh, and where, after three and a half years of Japanese naval occupation, the English fleet reappeared in [[August]] [[1945]] and the [[Amacab|Amacab]] (Allied Military Administration Civil Affairs Branch) landed to restore Dutch authority in northern Sumatra. Piekaar's *Atjèh and the War with Japan* treats Sabang as the focal point of the aerial war against Atjèh, the one subdistrict of Atjèh where the Japanese occupation "would proceed peacefully," and the eventual Allied bridgehead at the capitulation.
@@ -195,6 +228,17 @@ Sabang remains an important port and naval station to the present day. Its strat
 - [[B. W. Lefrandt]]
 - [[A. C. Verhoeff]]
 - [[W. F. Palmer van den Broek]]
+- [[Aroe-baai-plannen]]
+- [[Aroebai]]
+- [[Koninklijke Paketvaart Maatschappij (KPM)]]
+- [[Rubber Industry in Atjeh]]
+- [[Opiumregie in Atjeh]]
+- [[Buitenbezittingen]]
+- [[Strait of Malacca]]
+- [[1898]]
+- [[1904]]
+- [[1909]]
+- [[1913]]
 - [[1942]]
 - [[22 January]] [[1942]]
 - [[11 March]] [[1942]]
@@ -207,9 +251,7 @@ Sabang remains an important port and naval station to the present day. Its strat
 
 ## Sources
 
-*De Europeesche Industrie* ["The European Industry"], section *De Buitenbezittingen* ("The Outer Possessions"), in *Grooten van Zee en Land in Nederlandsch-Indië*, Vol. 6, pp. 243–251 (English translation from the Dutch). B. A. van Sandick, *Sabang en Belawan als oceaanhavens* ["Sabang and Belawan as Ocean Harbours"], in
-
-*Indische Mercuur* (1913), No. 49 — cited in the source.
+*De Europeesche Industrie* ["The European Industry"], section *De Buitenbezittingen* ("The Outer Possessions"), in *Grooten van Zee en Land in Nederlandsch-Indië*, Vol. 6, pp. 243–251 (English translation from the Dutch). B. A. van Sandick, *Sabang en Belawan als oceaanhavens* ["Sabang and Belawan as Ocean Harbours"], in *Indische Mercuur* (1913), No. 49 — cited in the source.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 15, 25–27, 243–248.
 
@@ -218,3 +260,7 @@ Sabang remains an important port and naval station to the present day. Its strat
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I §§ 1–4, Chapter II, Chapter V § 1, Chapter VII § 4.
 
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
+
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 48–51 (section "Het Havenwezen"), p. 63 (section "Post- Telegraaf- en Telefoondienst"), pp. 69–70 (section "De Atjeh-tram").
+
+*De Buitenbezittingen 1904*, in: *Mededeelingen van het Encyclopaedisch Bureau*. Batavia: G.C.T. van Dorp & Co., [ca. 1915], p. 308.

@@ -1,7 +1,7 @@
 ---
 title: Korte Verklaring
-aliases: [Korte Verklaring, Korte Verklaringen, Short Declaration, korte verklaring, Declaration of Submission]
-tags: [concept, colonial, dutch, sovereignty, document, legal, achehnese]
+aliases: [Korte Verklaring, Korte Verklaringen, Short Declaration, korte verklaring, Declaration of Submission, Korte Verklaring (colonial), the Short Declaration, Korte Verklaring regime, de Korte Verklaring]
+tags: [concept, colonial, dutch, sovereignty, document, legal, achehnese, administration, treaty, buitenbezittingen, zelfbesturen]
 ---
 
 **The Korte Verklaring** — "Short Declaration" — was the standard colonial compact by which the [[Gouvernement Atjeh en Onderhoorigheden|Nederlandsch-Indisch Gouvernement]] recognised a native chief as *zelfbestuurder* — self-ruler — of his *landschap*, replacing the [[Sarakata|sarakata]] of the [[Sultans of Atjeh|Sultans of Atjeh]] as the documentary basis of native authority in Atjeh and its Onderhoorigheden. Introduced by Governor [[J. B. van Heutsz|J. B. van Heutsz]] as part of his pacification system during his governorship of Aceh ([[1898]]–[[1904]]) and later extended to other troubled regions of the Dutch East Indies during his Governor-Generalship ([[1904]]–[[1909]]), the declaration became a central tool of colonial policy whose most controversial provision — Article 3, obliging the ruler to obey all future regulations that the Dutch government might issue — critics argued eliminated any real autonomy and reduced the ruler to a mere official.
@@ -19,6 +19,16 @@ Van Heutsz devised the Korte Verklaring as a swift and unambiguous way to end th
 ## Judicial consequences
 
 The Declaration was not merely symbolic: it defined the jurisdiction of the *landschapshoofd*. *De Buitenbezittingen* records that in the Onderhoorigheden, native justice was exercised by: district heads; landschapshoofden who had signed the Korte Verklaring; and the indigenous courts (*moesapats*, in Singkel *rapat's*), composed of the landschapshoofden who had signed the Declaration. Only signatory chiefs could thus sit on the *moesapat* — the native bench — alongside the *bestuurder der onderafdeeling*. The Declaration was accordingly the constitutional foundation of the chief's judicial as well as administrative role.
+
+## Account from *De Buitenbezittingen* (1917) — The 1899 reform
+
+The Encyclopaedisch Bureau frames the introduction of the Korte Verklaring in [[1899]] as a response to the inadequacy of the older *politieke contracten* for the post-[[Pacificatie van Atjeh|pacification]] order: "until [[1899]] the regulation of the relationship of the [[Zelfbesturen|Zelfbesturen]] to the Gouvernement generally found its expression in the detailed political contracts (*omstandige politieke contracten*) concluded between the two parties, in which the principles to be observed in the governance of the landschappen, as well as the mutual rights, obligations, and competences, were set out."
+
+The Bureau notes that "since that year a different path has been taken, since such a detailed regulation was misplaced and incomprehensible for many of the less significant zelfbesturen, and the actual promotion of the development of land and people, as well as the raising of those landschappen and their rulers to the level they must come to occupy in our system of administration, in many cases required a deeper and more powerful intervention of our administration in the affairs of the said landschappen than the political contracts had hitherto given the Gouvernement authority to do."
+
+The content of the Korte Verklaring is summarised by the Bureau as: "a declaration to be made by them [the native rulers] and to be approved and confirmed by the Gouvernement — the so-called Korte Verklaring — which, alongside the recognition of Dutch supremacy and the promise to abstain from political contacts with foreign powers, otherwise only contains the promise to comply with and enforce all regulations issued or declared applicable by the Gouvernement for the landschap, and to obey in general all orders given to them by or on behalf of the [[Gouverneur-Generaal|Governor-General]] or his representative."
+
+The landschappen still governed by older detailed political contracts were a small and declining minority — primarily the larger Sumatran and Bornean sultanates (Asahan, Deli, Koela, Langkat, Pelalawan, Serdang, Siak Sri Indrapoera, Landak, Mampawa, Matan, Pontianak, Sambas, Sanggau, Tajan, Koetei, Laiwoei, Bima, Dompo, Sanggar, Soembawa). By contrast, "the rulers of all other landschappen, in total about 306 in number, signed the Korte Verklaring." The Korte Verklaring regime was, in [[1914]], formally codified by the [[Zelfbestuurs-ordonnantie|Zelfbestuurs-ordonnantie]] (Stbl. 1914 No. 24).
 
 ## Application beyond Aceh
 
@@ -65,9 +75,9 @@ In Aceh, the Korte Verklaring was applied after the submission of **[[Panglima P
 - [[G. C. E. van Daalen]]
 - [[H. N. A. Swart]]
 - [[Atjéh-enquête]]
-- [[Pacification of Aceh]]
+- [[Pacificatie van Atjeh]]
 - [[Aceh War]]
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje]]
 - [[Oelèëbalang]]
 - [[Keudjeuroeën]]
 - [[Sarakata]]
@@ -77,6 +87,10 @@ In Aceh, the Korte Verklaring was applied after the submission of **[[Panglima P
 - [[Alaslanden]]
 - [[Tamiang]]
 - [[Moesapat]]
+- [[Politieke Contracten]]
+- [[Zelfbesturen]]
+- [[Zelfbestuurs-ordonnantie]]
+- [[Buitenbezittingen]]
 - [[1878 Langkat–Tamiang Transfer]]
 - [[Poeloe Nas]]
 - [[Boni]]
@@ -84,6 +98,7 @@ In Aceh, the Korte Verklaring was applied after the submission of **[[Panglima P
 - [[Fock]]
 - [[Idenburg]]
 - [[1878]]
+- [[1899]]
 - [[1904]]
 - [[1907]]
 - [[1914]]
@@ -99,3 +114,5 @@ In Aceh, the Korte Verklaring was applied after the submission of **[[Panglima P
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 46–47, 49, 173–177. Rijksarchief, Den Haag.
 
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
+
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 5–7 (section "Bestuurs-organisatie").

@@ -1,7 +1,7 @@
 ---
 title: Sigli
-aliases: [Sigli, Siglir, Tandjong Sigli]
-tags: [place, hoofdplaats, noordkust, achehnese]
+aliases: [Sigli, Siglir, Tandjong Sigli, Atjeh Sigli, haven van Sigli, the harbour of Sigli]
+tags: [place, hoofdplaats, noordkust, achehnese, colonial, dutch, buitenbezittingen, tramway]
 ---
 
 **Sigli** was the *hoofdplaats* of the onderafdeeling of the same name in the [[Afdeeling Noordkust van Atjeh|Afdeeling Noordkust van Atjeh]] — the town on the coast of the Pedir plain that served, together with Lhoʼ Seumawè, as one of the two principal export havens of the densely populated north coast of [[Gouvernement Atjeh en Onderhoorigheden|Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* places Sigli among the four "polen van het dichtstbevolkte deel van geheel Atjeh," whose trade in inlandsche producten — chiefly rijst, klappers, and peper — was already, by [[1917]], drawing level with the artificial primacy of [[Koeta Radja|Koeta Radja]].
@@ -13,6 +13,12 @@ The geography of Sigli is that of the Pedir vlakte — the great alluvial plain,
 ## Administrative division
 
 The onderafdeeling Sigli, whose *bestuursindeeling* is given in the source, comprised twenty-three *landschappen*, of which the most considerable were the XII Moekims of Pidië (with the moekims of Kale and Laweuëng), the V Moekims of Reubèë, the VI Moekims of Ndjèëng, the VIII Moekims of Sama Indra, the III Moekims of Keumala (joined with Keumala Raja to form the II Moekims Keumala), the IX Moekims of Keumangan, and Geumpang with Lamjeuë. The landgraafschap of Keumala Dalam, formerly associated with the [[Kawaj XII|Kawaj XII]] of the upper Wojla-dal, was by Dutch organisation joined with Keumala Raja and assigned to Sigli; Geumpang with Lamjeuë was transferred to the onderafdeeling Meulabôh. The hoofdplaats itself was withdrawn from the *landschapsbestuur* and placed under *rechtstreeks bestuurd gebied* by G. B. 5 July 1911 No. 11.
+
+## Account from *De Buitenbezittingen* (1917) — Sigli and the Tramway
+
+**Sigli** also served as the central junction of the second [[Atjeh-tram|Atjeh tramway]] in the [[Atjeh's Onderhoorigheden|Dependencies]]. According to the Encyclopaedisch Bureau: "from [[1899]] onward, [the Gouvernement] was already proceeding to the construction of a second tramway, in the Onderhoorigheden, where between [[1899]]–[[1906]] the line was successively completed from Sigli to the harbour of [[Langsa]], to which between [[1910]]–[[1912]] the [[Langsa]]–[[Koeala Simpang]] section was added, while already in [[1899]] from Sigli a lijntje was built westward over [[Padang Tiji|Padang Tidji]] to [[Keude Breue]]."
+
+The two lines meeting at Sigli — the eastward line to [[Langsa]] and the westward branch to [[Keude Breue]] — formed a T-shaped junction that, after the [[1904]]–[[1908]] completion of the [[Berglijntje Keude Breue–Seulimeum|berglijntje]] to [[Seulimeum]], became the principal intersection of the Atjeh-tram network. This made Sigli the strategic key to the entire system: the only point at which the Dependencies tramway connected with the old tramway of [[Groot-Atjeh|Great Atjeh]] and thence to [[Kota Radja]].
 
 ## Trade, shipping, and the tram
 
@@ -55,7 +61,9 @@ Despite the strength of the religious movement, the subdistrict remained quiet u
 - [[1910]]
 - [[1940]]
 
-## Source
+## Sources
+
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 69 (section "De Atjeh-tram").
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 13, 25–30, 38, 63–64, 126, 213–217.
 

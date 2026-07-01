@@ -1,7 +1,7 @@
 ---
 title: Seulimeum
-aliases: [XXII Mukims, Seulimum, Seulimeum, Seulimèum, the chiefdom of Seulimeum, Dua ploh dua, 22 Mukims, Twenty-two Mukims, Sagi of the XXII Mukims, XXII Mukims of Panglima Polem, Seulimeum subdistrict]
-tags: [place, aceh-proper, uleebalangship, mukim, xxii-mukims, highland, sagi, region, great-acheh, groot-atjeh, achehnese]
+aliases: [XXII Mukims, Seulimum, Seulimeum, Seulimèum, the chiefdom of Seulimeum, Dua ploh dua, 22 Mukims, Twenty-two Mukims, Sagi of the XXII Mukims, XXII Mukims of Panglima Polem, Seulimeum subdistrict, Seulimeuë, the berglijntje terminus at Seulimeum]
+tags: [place, aceh-proper, uleebalangship, mukim, xxii-mukims, highland, sagi, region, great-acheh, groot-atjeh, achehnese, colonial, dutch, buitenbezittingen, tramway, berglijntje]
 ---
 
 The main centre of the XXII Mukims district. A teacher named [[Teungku Usen]] resides there; his father [[Teungku Tanoh Abie]], celebrated for his learning and independence, held the position of kali of the XXII Mukims.
@@ -43,6 +43,12 @@ Within the sagi itself, however, another chief arose who thought himself no whit
 ### Justice and religion
 
 The kali *rabon jale* of the XXII Mukims, though his office is hereditary, was, at the time of Snouck's writing, a man of real learning — the late Teungku of [[Tanoh Abee]], whose reputation as a jurist had spread beyond his sagi. The sagi also had its historic *kanduri* at [[Indrapuri]], the chief mosque of the XXII Mukims; this was one of the three great religious establishments maintained, one for each sagi, in the neighbourhood of the capital. In the years preceding the Dutch war, the chief of the XXII Mukims had even usurped the sultan's prerogative of inflicting the mutilations prescribed by Mohammedan law for theft — a privilege assumed by no other panglima sagi or uleebalang.
+
+## Account from *De Buitenbezittingen* (1917) — Seulimeum and the Berglijntje
+
+**Seulimeum** also served as the western terminus of the [[Berglijntje Keude Breue–Seulimeum|berglijntje (mountain line) from Keude Breue over the hills to Seulimeum]] — the line built in [[1904]]–[[1908]] to connect the second tramway of the [[Atjeh's Onderhoorigheden|Atjeh Dependencies]] with the old tramway of [[Groot-Atjeh|Great Atjeh]] running from [[Kota Radja]] to [[Oelèe Lheuë]]. The Encyclopaedisch Bureau's account notes: "this, somewhat hanging-in-the-air, piece of tramway in the Dependencies was connected in the years [[1904]]–[[1908]] by a berglijntje from [[Keude Breue]] over the hills to Seulimeum with the old tramway in Groot-Atjeh, by which the military administration had created a powerful instrument for achieving the complete [[Pacificatie van Atjeh|pacification]] of the intersected regions."
+
+Before [[1904]], the two halves of the Atjeh railway network had been operationally separate; after [[1908]], Seulimeum became the geographic keystone connecting them into a single integrated system.
 
 ## Account from *Atjèh and the War with Japan* (1949) — Seulimeum
 
@@ -91,8 +97,18 @@ The first sabotage wave "began in the night of [[19 February|19]] to [[20 Februa
 - [[19 February]] [[1942]]
 - [[1930]]
 - [[1938]]
+- [[Atjeh-tram]]
+- [[Berglijntje Keude Breue–Seulimeum]]
+- [[Keude Breue]]
+- [[Oelèe Lheuë]]
+- [[Postenlinie]]
+- [[Ceintuur-trambaan]]
+- [[1904]]
+- [[1908]]
 
-## Source
+## Sources
+
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 69 (section "De Atjeh-tram").
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
