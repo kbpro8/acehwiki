@@ -1,6 +1,6 @@
 ---
 title: Aceh War
-aliases: [Dutch-Aceh War, Atjeh War, Atjeh-oorlog, atjeh oorlog, Perang Aceh, Acehnese War, Aceh War, Achehnese-Dutch War, Prang Acèh, Aceh-Dutch War, Acheh-Dutch War, Prang Gompeuni, Dutch War in Acheh, Achehnese War, Beginning of the Dutch war in Acheh, Atjeh-krijg, Achinese War, Aceh War 1873]
+aliases: [Dutch-Aceh War, Atjeh War, Atjeh-oorlog, atjeh oorlog, events/atjeh-oorlog, Perang Aceh, Acehnese War, Aceh War, Achehnese-Dutch War, Prang Acèh, Aceh-Dutch War, Acheh-Dutch War, Prang Gompeuni, Dutch War in Acheh, Achehnese War, Beginning of the Dutch war in Acheh, Atjeh-krijg, Achinese War, Aceh War 1873]
 tags: [event, war, dutch-colonial, military, political, political-history, military-history, colonial, dutch, religious]
 ---
 
