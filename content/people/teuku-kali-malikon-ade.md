@@ -1,10 +1,10 @@
 ---
 title: Teuku Kali Malikon Ade
-aliases: [the Kali Malikon Ade, Kali Malikon Ade, Qadlu Malikul Adil, Teuku Kali, Malikul Adil, Qadi Maliku'l-Adil, Judge of the Righteous King, Teuku Malikon Ade]
-tags: [person, scholar, court-official, uleebalang, kali, sultanate, colonial-official, judge]
+aliases: [the Kali Malikon Ade, Kali Malikon Ade, Qadlu Malikul Adil, Teuku Kali, Malikul Adil, Qadi Maliku'l-Adil, Judge of the Righteous King, Teuku Malikon Ade, Kali, the Teuku Kali]
+tags: [person, scholar, court-official, uleebalang, kali, sultanate, colonial-official, judge, warrior, title-bearer]
 ---
 
-The most important religious-administrative official in the capital of Acheh, the Chief Kali, whose office adjudicated inheritance, marriage, and other religious law matters. He was among those who persuaded Cheh Marahaban to settle at the capital after his return from Mecca.
+The most important religious-administrative official in the capital of Acheh, the Chief Kali, whose office adjudicated inheritance, marriage, and other religious law matters. He was among those who persuaded Cheh Marahaban to settle at the capital after his return from Mecca. He was a leading figure in the early phases of the [[Aceh War|Atjeh-oorlog]], appearing in the [[Hikayat prang Kompeuni|Hikayat prang Kompeuni]] as a chief speaker in the council held in the Dalam when Dutch ships first arrived demanding submission.
 
 ## Expanded account from *The Achehnese*, Vol. I — Teuku Kali Malikon Ade
 
@@ -32,16 +32,18 @@ At the solemn installation of a new sultan the Kali Malikon Ade performed his fu
 
 ## See Also
 - [[Acheh]]
+- [[Aceh War]]
 - [[Acheh River]]
 - [[Cheh Marahaban]]
 - [[Dalam]]
+- [[Hikayat prang Kompeuni]]
 - [[Imeum of Lueng Bata]]
 - [[Kutaraja]]
 - [[Panglima Meuseugit Raya]]
 - [[Sultanate of Acheh]]
 - [[T. H. der Kinderen]]
-- [[Teuku Kali]]
 - [[Teuku Ne' of Meura'sa]]
+- [[Teuku Nanta Seutia]]
 - [[Teungku Tiro (Muhamat Amin)]]
 - [[Uleebalang]]
 

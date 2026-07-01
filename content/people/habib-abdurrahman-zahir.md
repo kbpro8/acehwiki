@@ -1,10 +1,10 @@
 ---
 title: Habib Abdurrahman Zahir
-aliases: [the Habib, Sayyid Abdurrahman Zahir, Habib Abdurrahman, Sayyid Abdurrahman, Habib Abdoerrahman, Abdul Rachman, Habib]
-tags: [person, warrior, religious-figure, sayyid, reformer, arab, jihad-leader, religious, aceh, resistance]
+aliases: [the Habib, Sayyid Abdurrahman Zahir, Habib Abdurrahman, Sayyid Abdurrahman, Habib Abdoerrahman, Abdul Rachman, Habib, Sayyid Abdurrahman Zair, Habib Abdoe'r Rachman, Habib Abdoor Rahman, Habib Abdoerrahman Zahir]
+tags: [person, warrior, religious-figure, sayyid, reformer, arab, jihad-leader, religious, aceh, resistance, aceh-war, arab-scholar, rijksbestuurder, military-leader]
 ---
 
-The most famous Habib in Acehnese history and the most energetic political-religious figure of the Dutch war period. He was abroad seeking help at Constantinople when the Dutch first attacked in [[1873]], and his return marked a turning point in the war. He established himself at Mon Tasie' and led several expeditions before submitting to the Dutch — an act his enemies attributed to treachery. He rebuilt the great mosque Meuseugit Raya at Kutaraja.
+**Habib Abdurrahman Zahir** — properly Sayyid Abdurrahman Zair — was an Arab scholar and sayyid who served as the first rijksbestuurder (chief minister) of [[Acheh|Atjeh]] under the sultanate, and the most famous Habib in Acehnese history and the most energetic political-religious figure of the Dutch war period. He was abroad seeking help at Constantinople when the Dutch first attacked in [[1873]], and his return marked a turning point in the war. He established himself at Mon Tasie' and led several expeditions before [[Submission of Habib Abdurrahman (13 October 1878)|submitting to the Dutch on 13 October 1878]] — an act his enemies attributed to treachery. He rebuilt the great mosque Meuseugit Raya at Kutaraja and was exiled to [[Jeddah|Jeddah]] in [[November 1878]] with a personal annual pension of 12,000 dollars.
 
 ## Expanded account from *The Achehnese*, Vol. I — Habib Abdurrahman
 
