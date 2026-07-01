@@ -29,9 +29,9 @@ export default ((opts?: FooterOptions) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          A permanent knowledge graph project dedicated to documenting Aceh's history.
-          Developed by <a href="https://www.trida.id">TAR</a>, led by{" "}
-          <a href="https://github.com/kbpro8">Kbpro8</a>, and powered by{" "}
+          A knowledge graph project dedicated to documenting Aceh's history.
+          Developed by <a href="https://github.com/kbpro8">Kbpro8</a>, supported by{" "}
+          <a href="https://www.trida.id">trida</a>, and powered by{" "}
           <a href="https://github.com">GitHub</a> and{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz{version ? ` v${version}` : ""}</a> &copy;{" "}
           {year}.
