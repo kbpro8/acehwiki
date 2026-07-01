@@ -1,35 +1,43 @@
 ---
 title: Lhong
-aliases: [= Lam Ara, Lam-Ara, Lamara, Lam Ara (XXII Mukims)]
-tags: [place, aceh-proper, mukim, xxii-mukims]
+aliases: [Lhong, Lhong (Aceh West Coast), Lam Ara, Lam-Ara, Lamara, Lam Ara (XXII Mukims)]
+tags: [place, town, aceh, westkust, aceh-proper, mukim, xxii-mukims]
 ---
 
-A mukim (district). In the [[Hikayat Prang Gompeuni]]: 'the Mukim [[Lueng Bata]] (whose brave imeum was sick at the time) and the Mukim Lhong (= Lam Ara) were overcome by the
+**Lhong** — also **Lam Ara** (= Lam Ara in the mukim records) — carries two distinct identities in the sources: as a place on the [[Westkust (of Atjeh)|West Coast of Aceh]] it was the setting of the [[Verzet in Lhong]] recorded in *[[Oost-Indisch Journael]]*; as **Lam Ara** it was a *mukim* of the [[XXII Mukims]] in the highlands of [[Great Acheh]], cited by [[C. Snouck Hurgronje|Snouck Hurgronje]] in *The Achehnese* as the sole example of a mukim divided between two distinct joint judicial unions.
 
-## Expanded account from *The Achehnese*, Vol. I — Lam Ara
+## The resistance at Lhong (West Coast)
 
-**Lam Ara** is a *mukim* of the [[XXII Mukims]] in the highlands of [[Great Acheh]]. In *The Achehnese* it is cited as the sole example of a mukim divided between two distinct *joint judicial unions* of imeums — the boards of three or four district chiefs whom adat had entrusted with quasi-judicial authority in parts of the sagi too remote from the uleebalang's headquarters for ordinary appeals.
+At the most recent resistance in Lhong, the colonial army — following the old method — surrounded a house in which the remaining eight exiles had entrenched themselves. The eight exiles, breaking out with the naked weapon in hand, escaped to the [[Glé Groetèë|caves of the Glé Groetèë]], where the band was annihilated. The encirclement, the breakout, the Glé Groetèë annihilation, and the eight holy graves are the set-piece of the [[Verzet in Lhong]] — the book's set-piece Aceh story. Lhong is therefore the place where the colonial army's surrounding-and-searching method was applied, and where the book's argument about the failure to use modern methods (tear-gas bombs) is voiced.
 
-### Joint Judicial Unions in the XXII Mukims
+Sometimes on such occasions soldiers were wounded or killed by friendly fire, as for example the worthy [Kapitein Haga](/people/kapitein-haga). Captain Haga — wounded or killed by friendly fire during a surrounding-and-searching operation — is the small marker of the method's danger: the encirclement and searching of gampongs, gampong-complexes and isolated dwellings could kill soldiers by friendly fire.
 
-In several parts of the [[XXII Mukims]] — situated, as Snouck Hurgronje notes, at too great a distance from the headquarters of the uleebalang for all matters of importance to be submitted to his decision — custom had assigned a measure of judicial authority to specified boards of imeums. Groups of three or four mukims were united for this purpose, and the decision of the assembled imeums had the same force as that of the uleebalang himself.
+## Lam Ara: a mukim of the XXII Mukims
 
-Among the examples Snouck Hurgronje gives are: the union of [[Lam Lheue]], [[Lam Kra']], Krueng Ma' and Ateue'; the union of Sibree, [[Ba'et]] and *part* of Lam Ara; and a second union consisting of *another* part of Lam Ara together with Aneu' Gle and Jrue'. Thus Lam Ara alone among the mukims of the XXII was split, with one of its sections attached to each of two different judicial boards.
+In *The Achehnese*, **Lam Ara** is cited as the sole example of a mukim divided between two distinct *joint judicial unions* of imeums — the boards of three or four district chiefs whom adat had entrusted with quasi-judicial authority in parts of the sagi too remote from the uleebalang's headquarters for ordinary appeals. In the *Hikayat Prang Gompeuni*: 'the Mukim [[Lueng Bata]] (whose brave imeum was sick at the time) and the Mukim Lhong (= Lam Ara) were overcome by the …'
 
-### Significance
+Among the examples Snouck Hurgronje gives for the [[XXII Mukims]] are: the union of [[Lam Lheue]], [[Lam Kra']], Krueng Ma' and Ateue'; the union of Sibree, [[Ba'et]] and *part* of Lam Ara; and a second union consisting of *another* part of Lam Ara together with Aneu' Gle and Jrue'. Thus Lam Ara alone among the mukims of the XXII was split, with one of its sections attached to each of two different judicial boards.
 
-The split at Lam Ara illustrates the essentially ad hoc and territorial, rather than doctrinal, character of adat in the highlands. The imeum (Ar. *imam*) had originally been a religious officer attached to the *meuseugit* (mosque) of his mukim, but by Snouck Hurgronje's time his office had degenerated into one of "purely worldly authority," and many imeums had succeeded in emancipating themselves from the uleebalang altogether. The joint judicial unions — and the fragmented status of Lam Ara within them — were the institutional relic of that long process of accretion.
+The split at Lam Ara illustrates the essentially ad hoc and territorial, rather than doctrinal, character of adat in the highlands. The imeum (*imam*) had originally been a religious officer attached to the *meuseugit* (mosque) of his mukim, but by Snouck Hurgronje's time his office had degenerated into one of "purely worldly authority." The joint judicial unions — and the fragmented status of Lam Ara within them — were the institutional relic of that long process of accretion.
 
 ## See Also
 
+- [[Oost-Indisch Journael]]
+- [[Verzet in Lhong]]
+- [[Musket]]
+- [[Glé Groetèë]]
+- [Westkust (of Atjeh)](/places/westkust-of-atjeh)
+- [Paradijs-dood](/concept/paradijs-dood)
+- [Kapitein Haga](/people/kapitein-haga)
 - [[Hikayat Prang Gompeuni]]
 - [[Lueng Bata]]
 - [[XXII Mukims]]
 - [[Lam Lheue]]
 - [[Lam Kra']]
 - [[Great Acheh]]
-- [[Imeum of Lueng Bata]]
+- [Atjeh-oorlog](/events/atjeh-oorlog)
 
-## Source
+## Sources
 
-*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+- *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Sloebers*.
+- *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

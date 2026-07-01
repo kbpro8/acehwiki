@@ -4,7 +4,7 @@ aliases: [orang pendek, koekoeman, short man of the Atjehse forests, short man o
 tags: [concept, folklore, acehnese, aceh]
 ---
 
-The **orang pendek** ("short person"), known as the **koekoeman** in the region of the hunter [[Datoek]], is a legendary forest-dwelling humanoid of Acehnese folklore. In Merac's *[[Oost-Indisch Journael]]* (1947), the creature is the focus of the chapter *Jagerslatijn*, where Datoek recounts what he claims was a firsthand encounter. His story is contrasted with the scholarly account of the [[Manté's|manté's]] presented by [[Snouck Hurgronje]] in *De Atjehers*.
+The **orang pendek** ("short person"), known as the **koekoeman** in the region of the hunter [[Datoek]], is a legendary forest-dwelling humanoid of Acehnese folklore. In Merac's *[[Oost-Indisch Journael]]* ([[1947]]), the creature is the focus of the chapter *Jagerslatijn*, where Datoek recounts what he claims was a firsthand encounter. His story is contrasted with the scholarly account of the [[Manté's|manté's]] presented by [[Snouck Hurgronje]] in *De Atjehers*.
 
 ## Datoek's account
 
@@ -43,8 +43,7 @@ The chapter juxtaposes two different forms of knowledge. Datoek offers the persp
 - [[XXII Moekims]]
 - [[Pawang]]
 - [[Ilmoe]]
-- Aceh War
 
 ## Source
 
-Merac. *Oost-Indisch Journael: Palaver om de tafel met het gat*. Toekan Series No. 2. Edited by G. L. Tichelman. Haarlem: De Gulden Pers, 1947. Chapter: *Jagerslatijn*.
+Merac. *Oost-Indisch Journael: Palaver om de tafel met het gat*. Toekan Series No. 2. Edited by G. L. Tichelman. Haarlem: De Gulden Pers, [[1947]]. Chapter: *Jagerslatijn*.

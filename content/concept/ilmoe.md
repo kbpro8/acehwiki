@@ -4,7 +4,7 @@ aliases: [ilmoe, ilmu, geheime wetenschap, secret science]
 tags: [concept, term, acehnese, aceh, folklore]
 ---
 
-**Ilmoe** (modern Indonesian and Malay: *ilmu*, "knowledge" or "science") refers to the special knowledge or esoteric expertise traditionally attributed to a [[Pawang|pawang]], the ritual specialist and forest guide of the Malay world. In Merac's *[[Oost-Indisch Journael]]* (1947), however, the concept is treated with deliberate irony. Rather than describing *ilmoe* as supernatural power, the hunter [[Datoek]] redefines it as practical skill, moral conduct, and experience.
+**Ilmoe** (modern Indonesian and Malay: *ilmu*, "knowledge" or "science") refers to the special knowledge or esoteric expertise traditionally attributed to a [[Pawang|pawang]], the ritual specialist and forest guide of the Malay world. In Merac's *[[Oost-Indisch Journael]]* ([[1947]]), however, the concept is treated with deliberate irony. Rather than describing *ilmoe* as supernatural power, the hunter [[Datoek]] redefines it as practical skill, moral conduct, and experience.
 
 ## Datoek's explanation
 
@@ -33,8 +33,7 @@ At the same time, the passage reflects the broader tension between folklore and 
 - [[Pawang]]
 - [[Orang pendek / koekoeman]]
 - [[Manté's]]
-- Aceh War
 
 ## Source
 
-Merac. *Oost-Indisch Journael: Palaver om de tafel met het gat*. Toekan Series No. 2. Edited by G. L. Tichelman. Haarlem: De Gulden Pers, 1947. Chapter: *Jagerslatijn*.
+Merac. *Oost-Indisch Journael: Palaver om de tafel met het gat*. Toekan Series No. 2. Edited by G. L. Tichelman. Haarlem: De Gulden Pers, [[1947]]. Chapter: *Jagerslatijn*.
