@@ -3,6 +3,7 @@ title: H. Colijn
 aliases: [Colijn, Hendrikus Colijn, Captain Colijn, H. Colijn, kapitein Colijn, Kapitein Colijn]
 tags: [person, colonial, military, politician, dutch, achehnese]
 ---
+
 **Hendrikus Colijn** ([[1869]]–[[1944]]) was a Dutch military officer, colonial administrator, and later Prime Minister of the Netherlands ([[1925]]–[[1926]], [[1933]]–[[1939]]). During the [[Aceh War]] and the early years of [[J. B. van Heutsz|Van Heutsz]]'s Governor-Generalship, he served as a captain and then as a roving advisor for the outer islands, playing a key role in shaping the pacification policy in [[Acheh|Atjèh]] and other territories. He was a close collaborator of Van Heutsz and, like [[Snouck Hurgronje]], warned against the appointment of [[G. C. E. van Daalen|G. C. E. van Daalen]] as Governor of Aceh — a warning vindicated by the [[Atjéh-enquête|Atjéh-enquête]] of [[1907]]–[[1908]]. He is also the officer to whom the former Sultan's legeraanvoerder *[[Panglima Prang Polim]]* "zich tenslotte had gemeld" — eventually surrendered — marking the political closure of the Acehnese Sultanate.
 
 ## Military and early career in Aceh
@@ -35,8 +36,27 @@ Colijn left the colonial service in [[1909]] to enter Dutch politics. He became 
 
 Colijn's combination of military experience, administrative skill, and political acumen made him one of the most influential figures in the transition from the Aceh War to the era of consolidation and ethical governance. His early warnings about Van Daalen were vindicated by the Atjéh-enquête, and his subsequent political career ensured that the principles of the "ethical policy" were carried forward into the twentieth century. In the narrative of *Oom Ambon van het K.N.I.L.*, his reception of the Sultan's own army commander is the moment at which the formal Acehnese political establishment passed under Dutch authority — the commander of the Sultan's own army came in to a young Dutch *kapitein* who would, decades later, become the Prime Minister of the colonial power.
 
-## See Also
+## Account from *Dispereert Niet Vol. XI* (1946) — H. Colijn
 
+**H. Colijn** was a Dutch military officer and later politician who served in **[[Aceh]]** during the final phase of the **[[Aceh War]]** ([[1898]]–[[1904]]). He was a close associate of **[[J. B. van Heutsz]]** and played a key role in the pacification of Aceh, particularly the surrender of **[[Panglima Polem]]** at **[[Lhokseumawe]]** in [[1903]].
+
+### Early Career
+
+Colijn served as an officer in the Royal Netherlands East Indies Army (KNIL), specializing in the *marechaussee* tactics developed during the Aceh campaign. He was noted for his energy and persistence in pursuing guerrilla forces.
+
+### Role in Aceh
+
+Under Van Heutsz's command, Colijn led pursuit operations against Acehnese resistance forces. In [[1901]], he was present at the capture of **[[Batêê Iliê]]**. In [[1903]], he accepted the surrender of Panglima Polem at **[[Lhokseumawe]]**. This event, while underreported in the Dutch press at the time, marked the effective end of organized Acehnese resistance.
+
+### Later Career
+
+Colijn later became a prominent Dutch politician, serving as Prime Minister of the Netherlands from [[1933]] to [[1939]]. His experience in Aceh shaped his views on colonial and administrative issues.
+
+### Significance
+
+Colijn's military career in Aceh demonstrated the effectiveness of Van Heutsz's strategies. His later political career brought the colonial experience to the forefront of Dutch politics.
+
+## See Also
 - [[J. B. van Heutsz]]
 - [[G. C. E. van Daalen]]
 - [[H. N. A. Swart]]
@@ -61,9 +81,14 @@ Colijn's combination of military experience, administrative skill, and political
 - [[1925]]
 - [[1933]]
 - [[1944]]
+- [[Panglima Polem]]
+- [[Batêê Iliê]]
+- [[Lhokseumawe]]
 
 ## Sources
 
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 32–35, 52–53, 86–95, 161, 224–225, 231–232. Rijksarchief, Den Haag.
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
+
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).

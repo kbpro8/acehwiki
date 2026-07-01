@@ -1,6 +1,6 @@
 ---
 title: Samalanga
-aliases: [Samalangá, Samalangga]
+aliases: [Samalangá, Samalangga, Samalanga]
 tags: [place, north-east-coast, region, north-coast, ulama, military-operations]
 ---
 
@@ -24,8 +24,23 @@ The other prominent bearer of the Samalanga name in Vol. I is the sayyid **Habib
 
 Although Samalanga as a place is mentioned only briefly in Vol. I, its double appearance — both as a major military theatre of the late Acheh War and as the geographic designation of a leading sayyid war-preacher — marks it as one of the most important centres of Achehnese armed and religious resistance at the turn of the twentieth century. The place is treated more fully in Vol. II of *The Achehnese*.
 
-## See Also
+## Account from *Dispereert Niet Vol. XI* (1946) — Samalanga
 
+**Samalanga** is a region of **[[Aceh]]** on the east coast of **[[Sumatra]]**, notable for its role in the **[[Aceh War]]** and the site of the battle of **[[Batêê Iliê]]** in [[1901]].
+
+### Background
+
+Samalanga was a stronghold of Acehnese resistance, particularly under the leadership of **[[Panglima Polem]]**. Its location made it a key region for controlling the interior highlands.
+
+### The Battle of Batêê Iliê (1901)
+
+Batêê Iliê was a fortified village in Samalanga that had successfully resisted Dutch attacks for twenty years. In [[1901]], **[[J. B. van Heutsz]]** personally led an assault on the position. After a hard fight, Batêê Iliê fell, and Samalanga was brought under Dutch control.
+
+### Aftermath
+
+After the battle, Panglima Polem retreated into the interior. He was eventually surrounded and surrendered to **[[H. Colijn]]** at **[[Lhokseumawe]]** in [[1903]].
+
+## See Also
 - [[Habib Samalanga]]
 - [[Hikayat Prang Gompeuni]]
 - [[Teungku Kuta Karang]]
@@ -34,7 +49,14 @@ Although Samalanga as a place is mentioned only briefly in Vol. I, its double ap
 - [[Imeum of Lueng Bata]]
 - [[Teungku Kutakarang]]
 - [[Acheh]]
+- [[Aceh War]]
+- [[J. B. van Heutsz]]
+- [[Panglima Polem]]
+- [[Batêê Iliê]]
+- [[Lhokseumawe]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).

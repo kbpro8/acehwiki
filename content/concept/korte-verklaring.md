@@ -3,6 +3,7 @@ title: Korte Verklaring
 aliases: [Korte Verklaring, Korte Verklaringen, Short Declaration, korte verklaring, Declaration of Submission]
 tags: [concept, colonial, dutch, sovereignty, document, legal, achehnese]
 ---
+
 **The Korte Verklaring** — "Short Declaration" — was the standard colonial compact by which the [[Gouvernement Atjeh en Onderhoorigheden|Nederlandsch-Indisch Gouvernement]] recognised a native chief as *zelfbestuurder* — self-ruler — of his *landschap*, replacing the [[Sarakata|sarakata]] of the [[Sultans of Atjeh|Sultans of Atjeh]] as the documentary basis of native authority in Atjeh and its Onderhoorigheden. Introduced by Governor [[J. B. van Heutsz|J. B. van Heutsz]] as part of his pacification system during his governorship of Aceh ([[1898]]–[[1904]]) and later extended to other troubled regions of the Dutch East Indies during his Governor-Generalship ([[1904]]–[[1909]]), the declaration became a central tool of colonial policy whose most controversial provision — Article 3, obliging the ruler to obey all future regulations that the Dutch government might issue — critics argued eliminated any real autonomy and reduced the ruler to a mere official.
 
 ## Origin and purpose
@@ -35,8 +36,31 @@ In Aceh specifically, its rigid application under [[G. C. E. van Daalen|Van Daal
 
 In [[1914]] the government issued the *Zelfbestuursordonnantie* to clarify the practical use of the Korte Verklaring and prevent arbitrary intervention, later replaced by the *Zelfbestuursregelen* of [[1919]] and [[1927]], though the core principle of unconditional recognition of Dutch sovereignty remained intact. In [[1938]], following a shift towards decentralisation, many previously subordinated self-governing territories on Bali and elsewhere were restored to their traditional status, but the Korte Verklaring itself was never formally abolished. In the broader history of the [[Aceh War]], the declaration exemplifies the tension between military pacification and civil governance: a powerful instrument for establishing order when correctly applied, and a vehicle for abuse when wielded without the conciliatory intent its designer had envisaged.
 
-## See Also
+## Account from *Dispereert Niet Vol. XI* (1946) — Korte Verklaring
 
+The **Korte Verklaring** (Short Declaration) was a legal instrument used by the Dutch colonial administration to formalize relations with local rulers in **[[Aceh]]** and other parts of the Netherlands East Indies after the pacification campaigns of **[[J. B. van Heutsz]]**. It replaced earlier lengthy agreements with a simple three-point declaration of submission.
+
+### The Three Points
+
+The Korte Verklaring required local rulers to acknowledge:
+
+1. That their territory was part of the Netherlands East Indies
+2. That they would not have relations with any foreign power
+3. That they would obey all regulations and orders issued by the Dutch government
+
+### Purpose
+
+The Korte Verklaring was designed to:
+
+- Avoid the lengthy and complex treaty negotiations of the past
+- Prevent the use of treaties by local rulers as a source of leverage against the Dutch
+- Establish unambiguous sovereignty without entangling legal obligations
+
+### Use in Aceh
+
+In Aceh, the Korte Verklaring was applied after the submission of **[[Panglima Polem]]** and other leaders. It was the instrument by which nominal Dutch authority was replaced with effective control.
+
+## See Also
 - [[J. B. van Heutsz]]
 - [[G. C. E. van Daalen]]
 - [[H. N. A. Swart]]
@@ -66,9 +90,12 @@ In [[1914]] the government issued the *Zelfbestuursordonnantie* to clarify the p
 - [[1919]]
 - [[1927]]
 - [[1938]]
+- [[Anglo-Dutch Treaty of London (1824)]]
 
 ## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 44–45, 122.
 
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 46–47, 49, 173–177. Rijksarchief, Den Haag.
+
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).

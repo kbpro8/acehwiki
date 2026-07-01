@@ -1,6 +1,6 @@
 ---
 title: Aceh War
-aliases: [Dutch-Aceh War, Atjeh War, Atjeh-oorlog, atjeh oorlog, events/atjeh-oorlog, Perang Aceh, Acehnese War, Aceh War, Achehnese-Dutch War, Prang Acèh, Aceh-Dutch War, Acheh-Dutch War, Prang Gompeuni, Dutch War in Acheh, Achehnese War, Beginning of the Dutch war in Acheh, Atjeh-krijg, Achinese War, Aceh War 1873]
+aliases: [Dutch-Aceh War, Atjeh War, Atjeh-oorlog, atjeh oorlog, events/atjeh-oorlog, Perang Aceh, Acehnese War, Aceh War, Achehnese-Dutch War, Prang Acèh, Aceh-Dutch War, Acheh-Dutch War, Prang Gompeuni, Dutch War in Acheh, Achehnese War, Beginning of the Dutch war in Acheh, Atjeh-krijg, Achinese War, Aceh War 1873, Atjehoorlog, Atjeh Oorlog, Aceh Expedition]
 tags: [event, war, dutch-colonial, military, political, political-history, military-history, colonial, dutch, religious]
 ---
 
@@ -96,9 +96,49 @@ The accession of [[Joannes Benedictus van Heutsz|van Heutsz]] to the governorshi
 
 The Atjeh-krijg was the longest and costliest colonial war in Dutch East Indies history. Its resolution enabled the economic reconstruction, administrative consolidation and civilising mission that the rest of *De Buitenbezittingen* describes; but it also entrenched in the Acehnese character "een diep geworteld gevoel van wantrouwen en haat jegens den overheerscher" — a deep-rooted sense of distrust and hatred toward the overlords — that, the handbook warns, would only slowly die out through "tact en toewijding onzerzijds."
 
+## Account from *Dispereert Niet Vol. XI* (1946) — Aceh War
+
+**Aceh War** (also known as the **Atjeh Oorlog**) was a protracted colonial military conflict fought between the **Kingdom of the Netherlands** and the **Sultanate of Aceh** on the northern tip of **[[Sumatra]]**, lasting from [[1873]] to approximately [[1904]], with sporadic resistance continuing into the [[1910s]]. The war was one of the longest and most costly colonial campaigns in Dutch history, involving multiple expeditions, a disastrous early defeat, the rise of guerrilla warfare, and eventual pacification through a combination of military pressure and administrative reform.
+
+### Background
+
+The origins of the Aceh War lie in the **[[Anglo-Dutch Treaty of London (1824)]]**, which divided the Malay world into British and Dutch spheres of influence. Under the treaty, the Netherlands was assigned a role as "police agent" over Aceh, but was constrained from exercising direct control. This ambiguous arrangement allowed Aceh to maintain de facto independence while Dutch authority remained nominal.
+
+By the mid-19th century, Aceh's strategic position astride the **[[Strait of Malacca]]**—one of the world's busiest shipping lanes—made it increasingly important to colonial powers. The opening of the **[[Suez Canal]]** in [[1869]] heightened the strategic value of the strait. Meanwhile, Acehnese piracy and the practice of *kliprecht* (shipwreck rights) continued to provoke complaints from foreign powers, including the United States, Britain, and Italy.
+
+### The First Expedition (1873)
+
+The immediate trigger for war was a series of diplomatic incidents involving Acehnese attempts to secure foreign protection. In [[1872]], a mission from Aceh traveled to **[[Constantinople]]** to seek Ottoman protection, and in [[1873]], efforts were made to negotiate treaties with American and Italian consuls in **[[Singapore]]**. These actions convinced the Dutch government that military action was necessary.
+
+The first Dutch expedition, under **General Köhler**, landed on Aceh's north coast on **[[26 March]] [[1873]]**. Despite initial successes—including the capture of the Great Mosque—the expedition ended in disaster. Köhler was killed when he paused to rest under a *waringin* (banyan) tree, and the Dutch forces were forced to retreat. This defeat boosted Acehnese morale and gave the conflict a religious dimension as a *Holy War* against the Christian "kafirs."
+
+### The Second Expedition and the Capture of Kutaradja
+
+A second, larger expedition under **General Van Swieten** landed in November [[1873]] with approximately 13,000 troops. This force captured the *kraton* (royal palace), and the sultan fled into the interior, dying soon after of cholera. The sultanate was declared directly governed territory, and **[[Kutaradja]]** (now Banda Aceh) was established as the capital.
+
+### The Guerrilla Phase
+
+Despite the capture of the capital, the war entered a prolonged guerrilla phase. Acehnese resistance was organized by local chiefs (*uleëbalang*) and religious leaders (*ulama*), who led scattered but persistent attacks. The Dutch responded with the "benteng system" (fortification system), building a network of posts connected by tramways.
+
+### The Concencrated Line Period (1884–1896)
+
+From [[1884]], the Dutch adopted a defensive strategy, withdrawing to the **"Geconcentreerde Linie"** (Concentrated Line)—a fortified perimeter around Kutaradja. This period was one of stagnation, with Dutch troops confined to a small area while Acehnese resistance continued in the hinterland.
+
+### The War of Pacification (1896–1904)
+
+The turning point came with the arrival of **[[J. B. van Heutsz]]** as Governor of Aceh in [[1898]], advised by the scholar **[[C. Snouck Hurgronje]]**. Van Heutsz abandoned defensive tactics and adopted the *"doorzetten"* (push through) strategy, using small, mobile units called *marechaussees* to pursue guerrilla bands relentlessly.
+
+Key campaigns included:
+- **The conquest of Pidië** ([[1898]]–[[1899]])
+- **The Battle of Batêê Iliê** ([[1901]])
+- **The submission of Panglima Polem** ([[15 May]] [[1903]])
+- **The Gajo and Alas expeditions** under **Van Daalen** ([[1904]])
+
+### Significance
+
+The Aceh War was the largest and most costly colonial conflict in Dutch history, with over 7,000 Dutch soldiers killed and an estimated 30,000–50,000 Acehnese casualties. It marked the final extension of Dutch control over Sumatra and established patterns of colonial governance—including the "Short Declaration" (*Korte Verklaring*) system of indirect rule—that would shape the entire Netherlands East Indies.
 
 ## See Also
-
 - [[C. Snouck Hurgronje]]
 - [[Great Acheh]]
 - [[Dutch Concentration Scheme]]
@@ -141,9 +181,21 @@ The Atjeh-krijg was the longest and costliest colonial war in Dutch East Indies 
 - [[1905]]
 - [[1907]]
 - [[1908]]
+- [[J. B. van Heutsz]]
+- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Padri War on Sumatra's East Coast]]
+- [[Kutaradja]]
+- [[Batêê Iliê]]
+- [[Teukoe Oema]]
+- [[Panglima Polem]]
+- [[General Köhler]]
+- [[General Van Swieten]]
+- [[Van Daalen's Gajo Expedition]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Introduction, pp. v–xxi; Chapter I, §§ 7–9, pp. 120–193.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 33–36, Bijlage IV–V.
+
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).

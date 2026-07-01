@@ -1,6 +1,6 @@
 ---
 title: Ulee Lheue
-aliases: [Olehleh, Ulee Iheue, Uleë Iheue, Oleh Leue, Ulee Lheue, Olehheh, Uleelheue, Uleë Lheuë, Oelèë Lheuë, Ule Lheue, Oleelheue]
+aliases: [Olehleh, Ulee Iheue, Uleë Iheue, Oleh Leue, Ulee Lheue, Olehheh, Uleelheue, Uleë Lheuë, Oelèë Lheuë, Ule Lheue, Oleelheue, Oeleë Lheue, Oelee-Lheuë]
 tags: [place, aceh-proper, coastal-place, kanduri-laut, sea-kanduri, monsoon, keunong, xxvi-mukims, gampong, coastal, capital, village, coast, port, achehnese]
 ---
 
@@ -64,9 +64,23 @@ The 1913–[[1915]] statistics in Bijlage III record Oelèë Lheuë receiving 38
 
 The *Atjeh-tram*, which linked Koeta Radja with [[Sigli|Sigli]], [[Bireuën|Bireuën]], and — by [[1915]] — Koeala Simpang, had its seaward terminus at Oelèë Lheuë. Thehaven's pier was lengthened to accommodate the *veerdienst* with [[Sabang|Sabang]], and a small zeewaardige passagiersboot was stationed there to maintain "te allen tijde de gemeenschap tusschen Sabang … en Oelèë Lheuë." The prauwenveer and the pakhuizen at Oelèë Lheuë were taken over by the *Atjeh-transport-maatschappij*, a daughter-company of the Sabang-Mij., which "tegenover het Gouvernement eene bevoorrechte positie inneemt" — occupied a privileged position vis-à-vis the Government. A Gouvernements-*droogdok* was first stationed at Sabang in [[1898]], but the Oelèë Lheuë pier remained indispensable to the koopvaardij until the completion of larger works at Sabang.
 
+## Account from *St. Claverbond Register* (1939) — Oeleë-Lheue
+
+**Oeleë-Lheue** was a coastal locality in **[[Aceh]]** near **[[Kutaradja]]**, notable as the site of a Catholic chapel dedicated to St. Aloysius, built for the Dutch garrison during the **[[Aceh War]]**. The chapel was described in detail by **[[H. C. Verbraak S.J.]]** in his article "De St. Aloysius-kapel te Oeleë-Lheue, Atjeh" ([[1907]]), published in the mission magazine **[[St. Claverbond]]**.
+
+### Location and Significance
+
+Oeleë-Lheue was situated on the north coast of Aceh, close to the Dutch headquarters. Its strategic position made it a key logistics point. The chapel served the spiritual needs of the soldiers stationed there, reflecting the Catholic mission's role in supporting the colonial military effort.
+
+### The Chapel
+
+Verbraak's article described the construction and dedication of the chapel, likely as a testament to the enduring faith of the troops amid the hardships of war. The chapel was a symbol of the Catholic presence in Aceh and a focal point for religious services, including Mass and confessions.
+
+### Connection to the Wider Mission
+
+Oeleë-Lheue was part of a network of missionary stations and military posts that dotted the Acehnese coastline. The chapel's existence illustrates the close relationship between the Dutch military and the Catholic Church during the colonial period.
 
 ## See Also
-
 - [[Acheh]]
 - [[Demak]]
 - [[Java]]
@@ -106,9 +120,16 @@ The *Atjeh-tram*, which linked Koeta Radja with [[Sigli|Sigli]], [[Bireuën|Bire
 - [[1910]]
 - [[1914]]
 - [[1915]]
+- [[Catholic Mission in Aceh]]
+- [[H. C. Verbraak S.J.]]
+- [[Aceh War]]
+- [[Kutaradja]]
+- [[St. Claverbond]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 15, 25–30, 38, 46–47, 214–217, 245.
+
+*Register op de eerste 50 jaargangen van het missietijdschrift der P.P. Jezuieten "St. Claverbond", 1889 tot en met 1938*, samengesteld door Herman Hagdorn S.J. en Jacques Dinjens (Nijmegen: Stichting St. Claverbond, 1939).

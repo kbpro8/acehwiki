@@ -1,6 +1,6 @@
 ---
 title: Panglima Polem
-aliases: [Panglima Polem of the XXII Mukims, Lord Elder Brother, Polem, Teukoe Panglima Pólém, Panglima Polém, Panglima Polem, Polém]
+aliases: [Panglima Polem of the XXII Mukims, Lord Elder Brother, Polem, Teukoe Panglima Pólém, Panglima Polém, Panglima Polem, Polém, Po-lem, Panglima Polam]
 tags: [person, uleebalang, panglima-sagi, xxii-mukims, hereditary, achehnese, sagi, achehnese-war]
 ---
 
@@ -40,9 +40,35 @@ After the death of the old Teukoe Panglima Polém Moehamad Daoed and of "the equ
 
 The political role of the Polém house in the colonial period is illustrated, Piekaar records, by "the refusal of these *oelèëbalang* to, on the occasion of the *hari raja puasa*, offer their congratulations to the sagi head with the termination of the fast." The *hari raja puasa* — the feast marking the end of the Ramadan fast — was the occasion on which the *oelèëbalang*'s of the sagi would traditionally pay their respects to the Panglima Sagi. The refusal to do so was a public repudiation of the sagi head's authority, and an assertion of the independent political standing of the Polém house.
 
+## Account from *Dispereert Niet Vol. XI* (1946) — Panglima Polem
+
+**Panglima Polem** was the principal Acehnese military leader during the final phase of the **[[Aceh War]]**, and the most prominent figure in the resistance after the capture of **[[Kutaradja]]** and the deaths of **[[Teukoe Oema]]** and other leaders. His surrender on **[[15 May]] [[1903]]** marked the effective end of organized Acehnese resistance.
+
+### Role in the War
+
+Panglima Polem was the leader of the XXII *moekims* (territorial units) in Greater Aceh, making him one of the most powerful local chiefs in the sultanate. His title *Panglima Polem* means "Elder Brother" or "Supreme Commander," reflecting his authority over a significant federation of villages.
+
+As the Dutch military campaign intensified under **[[J. B. van Heutsz]]**, Panglima Polem became the principal target of Dutch operations. He organized resistance in the interior, coordinating with other leaders such as **Teukoe Oema** and the pretender sultan. His forces fought in the battles of Batêê Iliê and other fortified positions.
+
+### The Battle of Batêê Iliê (1901)
+
+Batêê Iliê was a heavily fortified position in Samalanga that had successfully resisted Dutch attacks for twenty years, including an earlier attempt by General Van der Heyden. Van Heutsz personally led the assault, and after a hard struggle, Batêê Iliê fell. Panglima Polem was forced to flee into the interior.
+
+### Pursuit and Surrender
+
+Following the fall of Batêê Iliê, Panglima Polem was hunted relentlessly by Dutch forces. Captain **[[H. Colijn]]** and Lieutenant **[[Christoffel]]** led repeated pursuit operations. The pretender sultan surrendered in January [[1903]], but Panglima Polem continued to resist.
+
+On **[[15 May]] [[1903]]**, Panglima Polem was surrounded by Dutch forces. He surrendered to Captain H. Colijn at **[[Lhokseumawe]]**. The event received minimal attention in the Dutch press, appearing as a small item among "mixed news," but it was understood by military officers as a decisive moment.
+
+### Aftermath and Legacy
+
+After his surrender, Panglima Polem was reinstated as head of the XXII *moekims* and served as a reliable Dutch ally. He proved to be an effective administrator, overseeing the reconstruction and development of his region.
+
+### Significance
+
+Panglima Polem's surrender marked the end of organized military resistance in Aceh. Although skirmishes continued until [[1913]], the loss of its principal leader effectively ended the **[[Aceh War]]** as a unified conflict. His subsequent service to the Dutch also demonstrated the pacification policy that combined military pressure with administrative and welfare measures.
 
 ## See Also
-
 - [[Teuku Nanta Seutia]]
 - [[Teuku Ne' Raja Muda Seutia]]
 - [[Teungku Tanoh Abee]]
@@ -60,9 +86,17 @@ The political role of the Polém house in the colonial period is illustrated, Pi
 - [1896]
 - [Hari raja puasa]
 - [[1896]]
+- [[Aceh War]]
+- [[J. B. van Heutsz]]
+- [[Teukoe Oema]]
+- [[Batêê Iliê]]
+- [[H. Colijn]]
+- [[Van Daalen's Gajo Expedition]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I, § 3.
+
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).

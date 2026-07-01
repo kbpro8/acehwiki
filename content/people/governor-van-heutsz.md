@@ -1,8 +1,9 @@
 ---
 title: Governor Van Heutsz
-aliases: [Van Heutsz, General Van Heutsz, J. B. van Heutsz, Joannes Benedictus van Heutsz, J. B. V. Heutsz, Gouverneur-Generaal Van Heutsz, J.B. van Heutsz]
+aliases: [Van Heutsz, General Van Heutsz, J. B. van Heutsz, Joannes Benedictus van Heutsz, J. B. V. Heutsz, Gouverneur-Generaal Van Heutsz, J.B. van Heutsz, Johannes Benedictus van Heutsz, Heutsz]
 tags: [person, colonial-official, dutch, military, governor, conqueror-of-acheh, colonial, governor-general]
 ---
+
 **Governor Van Heutsz** — General **Joannes Benedictus van Heutsz** ([[1851]]–[[1924]]) — was the Dutch military officer who, as **Governor of Acheh** from [[1898]] onwards, carried through the systematic subjugation of the Achehnese sultanate and ended the long war that had begun with the [[First Dutch attack on Acheh|first Dutch expedition]] of [[1873]], before serving as Governor-General of the Dutch East Indies from [[1904]] to [[1909]]. He is the central colonial figure of Snouck Hurgronje's Introduction to *The Achehnese*, where his governorship is presented as the vindication of the policy of vigorous offensive first adumbrated by [[Captain Francis Light|Captain Francis Light]] in [[1786]]. In G. W. T. Dames's *[[Oom Ambon van het K.N.I.L.]]*, he is the book's preferred example of the colonial officer whose method actually worked: "In Nederland wordt er op alle scholen geleerd, dat de Atjeh-oorlog eerst werd verprutst, doch dat toen Van Heutsz heeft laten zien, hoe zoiets moet worden opgeknapt."
 
 ## The Aceh conqueror: account from *The Achehnese* (1906)
@@ -37,8 +38,52 @@ Van Heutsz was subsequently appointed Governor-General of the Netherlands East I
 
 Van Heutsz's legacy is double. As the conqueror of Aceh, he is the figure who, after twenty-five years of Dutch vacillation, finally brought the war to its military conclusion. As Governor-General, he oversaw the transition from military occupation to civil administration in Aceh, and the expansion of the ethical policy across the outer islands. In the broader colonial narrative, *De Buitenbezittingen* treats his governorship as the foundational moment of modern Atjeh administration; Dames's *Oom Ambon* treats his *systeem* as the tactical paradigm that shaped the colonial army's last generation of fighting men.
 
-## See Also
+## Account from *Dispereert Niet Vol. XI* (1946) — J. B. van Heutsz
 
+**J. B. van Heutsz** (Johannes Benedictus van Heutsz) was a Dutch military officer and colonial administrator who served as Governor of **[[Aceh]]** from [[1898]] to [[1904]] and as **Governor-General of the Netherlands East Indies** from [[1904]] to [[1909]]. He is best known for his successful pacification of **[[Aceh]]** during the **[[Aceh War]]**, which earned him a reputation as one of the most effective—and controversial—colonial commanders of the era.
+
+### Early Career
+
+Van Heutsz was born on **[[3 February]] [[1851]]** in Coevorden, the Netherlands. He entered the Royal Military Academy and was commissioned into the Royal Netherlands East Indies Army (KNIL) in [[1873]], the same year the **[[Aceh War]]** began. He served in multiple campaigns throughout the archipelago, gaining combat experience and developing a reputation as a capable officer.
+
+### The Aceh War
+
+In [[1893]], Van Heutsz published a pamphlet, *"De onderwerping van Atjeh"* (The Subjugation of Aceh), arguing that the Dutch defensive strategy was failing and that only an aggressive, persistent offensive could bring the war to an end. His ideas were strongly influenced by the scholar **[[C. Snouck Hurgronje]]**, who provided detailed knowledge of Acehnese society.
+
+In [[1898]], Van Heutsz was appointed Governor of Aceh, with Snouck Hurgronje as his advisor. He immediately implemented a new strategy based on four principles:
+
+1. **Relentless pursuit** of guerrilla bands using small, mobile units (*marechaussees*)
+2. **Intelligence-led operations**, guided by Snouck Hurgronje's ethnographic research
+3. **Pacification through welfare**, combining military action with infrastructure development
+4. **The "Short Declaration"** (*Korte Verklaring*), requiring local chiefs to recognize Dutch sovereignty without detailed treaty negotiations
+
+### Key Military Campaigns
+
+Under Van Heutsz's command, Dutch forces achieved a series of decisive victories:
+
+- **[[Batêê Iliê]]** ([[1901]])—capture of a fortified position that had previously defied Dutch attacks
+- **[[Pidië]]** ([[1898]]–[[1899]])—subjugation of this rebellious region
+- **[[Samalanga]]** ([[1901]])—capture of a major stronghold
+- **The surrender of Panglima Polem** ([[15 May]] [[1903]])—eliminating the principal Acehnese military leader
+- **[[Van Daalen's Gajo Expedition]]** ([[1904]])—subjugation of the Gajo and Alas highlands
+
+### Governor-General
+
+In [[1904]], Van Heutsz was appointed Governor-General of the Netherlands East Indies, a position he held until [[1909]]. During this period, he extended the "Short Declaration" system throughout the Outer Islands, effectively replacing nominal Dutch authority with effective control over areas previously only loosely governed.
+
+### Controversy
+
+Van Heutsz was a polarizing figure. To his supporters, he was a military genius who ended a ruinous war and brought peace and development to Aceh. To his critics, he was a brutal imperialist responsible for harsh tactics and civilian casualties. The **"Van Heutsz affair"** in the Dutch parliament reflected these tensions, with debates over his conduct continuing well after his death.
+
+### Death and Legacy
+
+Van Heutsz died on **[[11 July]] [[1924]]** in Montreux, Switzerland. A statue was erected in his honor in **[[Batavia]]** (now Jakarta), which became a site of both commemoration and protest. His methods in Aceh shaped Dutch colonial policy for decades and remain a subject of historical debate.
+
+### Significance
+
+Van Heutsz represents a pivotal figure in the transition from **nominal to effective colonial control** in the Netherlands East Indies. His combination of military force, ethnographic knowledge, and administrative reform established a model of colonial governance that was later applied throughout the archipelago.
+
+## See Also
 - [[General van der Heijden]]
 - [[General Deykerhoff]]
 - [[Teuku Uma]]
@@ -64,6 +109,12 @@ Van Heutsz's legacy is double. As the conqueror of Aceh, he is the figure who, a
 - [[1907]]
 - [[1908]]
 - [[1909]]
+- [[C. Snouck Hurgronje]]
+- [[Van Daalen's Gajo Expedition]]
+- [[Panglima Polem]]
+- [[Teukoe Oema]]
+- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Batêê Iliê]]
 
 ## Sources
 
@@ -74,3 +125,5 @@ Van Heutsz's legacy is double. As the conqueror of Aceh, he is the figure who, a
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938). Rijksarchief, Den Haag.
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Ooms leger," chapter "Dominee Thenu," and the *Nawoord*.
+
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).

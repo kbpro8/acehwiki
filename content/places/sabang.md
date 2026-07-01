@@ -1,6 +1,6 @@
 ---
 title: Sabang
-aliases: [Sabang free port, Sabang harbour, Sabang coaling station, Zeehaven Sabang, Sabang, Sabanghaven, Sabangbaai, Free Port of Sabang, Sabang Island, Poelau Wè, Pulau We]
+aliases: [Sabang free port, Sabang harbour, Sabang coaling station, Zeehaven Sabang, Sabang, Sabanghaven, Sabangbaai, Free Port of Sabang, Sabang Island, Poelau Wè, Pulau We, Sabang Harbor]
 tags: [place, harbour, free-port, trade, colonial, port, dutch, island]
 ---
 
@@ -158,9 +158,23 @@ When the Japanese attack was launched in the night of [[11 March|11]] to [[12 Ma
 
 When the Japanese capitulation came on [[14 August]] [[1945]], the preparations for the Allied invasion were in full swing; a "party" of the "1.3.6. force" under B. W. Lefrandt was already located in the mountainous region of [[Seulimeum|Seulimeum]]. "Still in [[August 1945|August]] the English fleet appeared before Sabang and a temporary naval base was established on Sabang. Also the Dutch navy and the Dutch administration, the latter as part of the [[Amacab|Amacab]], made their entry." The thousands of enterprise workers from Atjèh, East Sumatra and Tapanoeli who on the island had performed slave labour for the Japanese army were transferred to the mainland. The Allies' hesitation to push the occupation inland meant that, throughout the early republican period, Sabang — together with [[Medan|Medan]], [[Padang|Padang]] and [[Palembang|Palembang]] — remained one of the few footholds of direct Allied authority in Sumatra.
 
+## Account from *Dispereert Niet Vol. XI* (1946) — Sabang
+
+**Sabang** is a city on **[[Pulau Weh]]**, a small island off the north coast of **[[Aceh]]** in **[[Sumatra]]**. Its deep-water harbor, one of the best in the region, was developed by the Dutch after the pacification of Aceh and became a major refueling station for international shipping.
+
+### Strategic Importance
+
+Sabang's location at the entrance to the **[[Strait of Malacca]]** made it strategically important for controlling maritime trade routes. The harbor could accommodate large ships and had the potential to serve as a naval base.
+
+### Development
+
+After the **[[Aceh War]]** ended, the Dutch constructed modern harbor facilities at Sabang. The port became a stopping point for ships traveling between Europe and East Asia.
+
+### Later History
+
+Sabang remains an important port and naval station to the present day. Its strategic location has kept it relevant in both colonial and independent Indonesia.
 
 ## See Also
-
 - [[Pulo We|Poeloe We]]
 - [[N.V. Zeehaven en Kolenstation Sabang]]
 - [[Atjeh Transport Maatschappij]]
@@ -187,8 +201,11 @@ When the Japanese capitulation came on [[14 August]] [[1945]], the preparations 
 - [[31 August]] [[1945]]
 - [[1941]]
 - [[1945]]
+- [[Aceh War]]
+- [[J. B. van Heutsz]]
+- [[Kutaradja]]
 
-## Source
+## Sources
 
 *De Europeesche Industrie* ["The European Industry"], section *De Buitenbezittingen* ("The Outer Possessions"), in *Grooten van Zee en Land in Nederlandsch-Indië*, Vol. 6, pp. 243–251 (English translation from the Dutch). B. A. van Sandick, *Sabang en Belawan als oceaanhavens* ["Sabang and Belawan as Ocean Harbours"], in
 
@@ -199,3 +216,5 @@ When the Japanese capitulation came on [[14 August]] [[1945]], the preparations 
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 198, 255. Rijksarchief, Den Haag.
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I §§ 1–4, Chapter II, Chapter V § 1, Chapter VII § 4.
+
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).

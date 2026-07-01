@@ -1,6 +1,6 @@
 ---
 title: Straits of Malacca
-aliases: [Strait of Malacca, Selat Melaka, Malacca Strait, Straits, Straat van Malakka, Malacca Straits, Straits of Malacca]
+aliases: [Strait of Malacca, Selat Melaka, Malacca Strait, Straits, Straat van Malakka, Malacca Straits, Straits of Malacca, Straat Malakka]
 tags: [place, foreign, strait, sea, malay, maritime-route, malay-world]
 ---
 
@@ -24,9 +24,27 @@ The strategic logic was straightforward. The northern entrance to the Straits wa
 
 The Straits retained their strategic salience throughout the colonial period and into Van der Kemp's own day. The prosperity of [[Singapore]], founded by Raffles in [[1819]], was understood to depend on the uninterrupted flow of trade through the Straits, and [[Robert Fullerton|Governor Fullerton]]'s [[Fullerton's Minute on Acheh|minute on Acheh]] of the late [[1820s]] returned again and again to the dependence of [[Malacca]] and Singapore on the surrounding states. The Straits of Malacca thus function in Van der Kemp's narrative both as a concrete waterway and as a recurring strategic abstraction — the indispensable artery of British power in the Eastern Seas.
 
+## Account from *Dispereert Niet Vol. XI* (1946) — Strait of Malacca
+
+The **Strait of Malacca** is a narrow sea passage between the **[[Malay Peninsula]]** and the island of **[[Sumatra]]**, one of the world's most important shipping lanes. Its strategic and economic significance made it a major point of contention between colonial powers, including the Dutch and British, and directly contributed to the **[[Aceh War]]**.
+
+### Strategic Importance
+
+The strait connects the Indian Ocean to the South China Sea and is the primary shipping route between Europe, the Middle East, and East Asia. Control of the strait was essential for any power seeking to dominate trade in the region.
+
+### Colonial Rivalry
+
+The opening of the **[[Suez Canal]]** in [[1869]] increased the strait's importance, as shipping between Europe and Asia increased dramatically. This made the British, who controlled the **[[Malay Peninsula]]**, and the Dutch, who controlled **[[Sumatra]]**, rivals for influence in the region.
+
+### Singapore and the Strait
+
+The establishment of **[[Singapore]]** at the strait's southern entrance in [[1819]] by **[[Raffles]]** gave Britain a commanding position. The Netherlands' protests were resolved by the **[[Anglo-Dutch Treaty of London (1824)]]**, which confirmed British control of Singapore but gave the Dutch a free hand on Sumatra—except for **[[Aceh]]**.
+
+### Aceh and the Strait
+
+Aceh's strategic position near the northern entrance to the strait made it of intense interest to both powers. The Dutch wish to control the entire Strait, combined with the ambiguous provisions of the Treaty of London, ultimately led to the **[[Aceh War]]** ([[1873]]–[[1904]]).
 
 ## See Also
-
 - [[Malay Peninsula]]
 - [[Malacca]]
 - [[Sumatra]]
@@ -40,9 +58,15 @@ The Straits retained their strategic salience throughout the colonial period and
 - [[Acheh Treaty of 1819]]
 - [[Anglo-Dutch Treaty of London 1824]]
 - [[Sir Thomas Stamford Raffles]]
+- [[Aceh War]]
+- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Raffles]]
+- [[Suez Canal]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).

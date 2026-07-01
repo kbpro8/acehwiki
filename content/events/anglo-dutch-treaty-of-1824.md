@@ -1,6 +1,6 @@
 ---
 title: Anglo-Dutch Treaty of 1824
-aliases: [Treaty of 1824, Anglo-Dutch Treaty of 1824, Treaty of London 1824, Dutch-British Treaty of 1824, Tractaat van 17 Maart 1824, London treaty of 17 March 1824, Londensch tractaat van 1824]
+aliases: [Treaty of 1824, Anglo-Dutch Treaty of 1824, Treaty of London 1824, Dutch-British Treaty of 1824, Tractaat van 17 Maart 1824, London treaty of 17 March 1824, Londensch tractaat van 1824, Tractaat van Londen, London Treaty, Treaty of London]
 tags: [event, political, treaty, international, colonial, anglo-dutch]
 ---
 
@@ -32,8 +32,45 @@ Van der Kemp traces how [[Lord Palmerston|Palmerston]] thereafter "attached hims
 
 Snouck Hurgronje, writing from the Achehnese end of the same history, drew the same conclusion by a different route: no wonder, he observes, that in the following half-century the complaints of wrongs of every sort suffered at the hands of the Achehnese by European and American traders became more and more plentiful — complaints that ultimately led, in [[1871]], to the new treaty with England under which Holland was left with more freedom of action in the control of Acheh. People flattered themselves "quite seriously with the hope that a treaty with the Sultan of Acheh — forced out of him, if need be, by menaces and by the despatch of a small force — would succeed in doing all that was wanted; they did not trouble their minds in the least degree with the internal condition of the country." Even after the war had actually begun in [[1873]], they continued to entertain the vain hope that a treaty of this sort might be the basis of a solution of their Achehnese difficulties.
 
-## See Also
+## Account from *Dispereert Niet Vol. XI* (1946) — Anglo-Dutch Treaty of London (1824)
 
+The **Anglo-Dutch Treaty of London (1824)** was a diplomatic agreement between the **[[United Kingdom]]** and the **[[Kingdom of the Netherlands]]** that divided the Malay archipelago into British and Dutch spheres of influence. Signed on **[[17 March]] [[1824]]**, it laid the foundation for the modern borders of **[[Indonesia]]** and **[[Malaysia]]**, and its terms shaped the relationship between the two colonial powers for the remainder of the 19th century.
+
+### Background
+
+The treaty was negotiated to resolve disputes arising from the restoration of Dutch territories in the East Indies after the Napoleonic Wars. Key figures in the negotiations included **[[Raffles]]**, whose ambitions in the region complicated relations, and Dutch commissioners-general **Elout**, **Buyskes**, and **Van der Capellen**.
+
+### Terms
+
+The treaty included several important provisions:
+
+- **[[Malacca]]** and all Dutch possessions on the **[[Malay Peninsula]]** were ceded to Britain
+- British possessions on **[[Sumatra]]** were ceded to the Netherlands
+- The Netherlands dropped all claims to **[[Singapore]]**
+- Both powers pledged not to sign treaties with local rulers in each other's spheres
+- A commitment to suppress piracy
+- Provisions for free trade in each other's colonies
+- A payment of £100,000 to the Netherlands for British expenses during the interim period
+
+### Special Clause on Aceh
+
+The treaty included a provision regarding **[[Aceh]]**: the Netherlands was assigned the role of "police agent" in the sultanate, but was simultaneously prohibited from exercising direct control. This ambiguous arrangement created decades of instability and led to the **[[Aceh War]]**:
+
+> "Nederland kreeg dus de taak van politieagent, maar het beloofde tevens den dief niet te zullen arresteeren, maar in volle vrijheid te laten rondloopen."—"The Netherlands thus had the task of police agent, but promised simultaneously not to arrest the thief, but to let him roam around in complete freedom."
+
+### Implementation
+
+The treaty's provisions were implemented over several years, with British and Dutch commissioners working to resolve boundary disputes and other issues.
+
+### Amendment (1871)
+
+The treaty's provisions on Aceh were amended in [[1871]] to allow the Netherlands a free hand in Aceh. This amendment cleared the way for the **[[Aceh War]]** ([[1873]]–[[1904]]).
+
+### Significance
+
+The Treaty of London (1824) established the colonial framework for the Malay archipelago and shaped relations between British Malaya and the Dutch East Indies. Its provisions on Aceh, however, created a fifty-year period of instability that ultimately led to the Aceh War.
+
+## See Also
 - [[Anglo-Dutch Treaty of 1871]]
 - [[Treaty of Pedir (1819)]]
 - [[Anglo-Dutch Treaty of London (1814)]]
@@ -57,8 +94,12 @@ Snouck Hurgronje, writing from the Achehnese end of the same history, drew the s
 - [[Singapore]]
 - [[Suzerainty question]]
 - [[Sphere of influence]]
+- [[Aceh War]]
+- [[Raffles]]
+- [[Malacca]]
 
 ## Sources
 
 - *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 - *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159-239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+- *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).

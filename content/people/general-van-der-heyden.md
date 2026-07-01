@@ -1,6 +1,6 @@
 ---
 title: General van der Heyden
-aliases: [General van der Heijden, General van der Ileyden]
+aliases: [General van der Heijden, General van der Ileyden, Van der Heyden, General Eenogig, Eenoog]
 tags: [person, colonial-official, military]
 ---
 
@@ -12,8 +12,29 @@ The change of method associated with his name is treated by Snouck Hurgronje as 
 
 His governorship belongs to the period between the [[Establishment of the Dutch 'linie' (pale)|establishment of the Dutch 'linie' (pale)]] around the capital and the later, more systematic subjugation of the [[Three Sagis (XXVI, XXV, XXII Mukims)|Three Sagis]] under Van Heutsz. It thus occupies a transitional place in the [[Acheh War|Achehnese War]]: the moment at which the policy of "concentration" gave way to one of progressive conquest.
 
-## See Also
+## Account from *Dispereert Niet Vol. XI* (1946) — General Van der Heyden
 
+**General Van der Heyden** was a Dutch military officer who played a significant role in the **[[Aceh War]]** during the [[1870s]] and [[1880s]]. Known as "Eenoog" (One-Eye) after losing an eye in battle, he was a controversial figure whose aggressive strategies were ultimately overruled by colonial authorities.
+
+### Early Career
+
+Van der Heyden lost an eye during a battle in Aceh, earning him the moniker "Eenoog." He was known for his aggressive approach to the conflict, advocating for offensive operations rather than defensive measures.
+
+### Role in Aceh
+
+Van der Heyden was one of the first Dutch officers to argue that the war could not be won through defensive tactics. He advocated for the pacification of the interior regions, arguing that only the complete subjugation of the highlands could bring lasting peace.
+
+His strategy was partially implemented from [[1874]] to [[1882]], during which time Dutch forces made significant gains. However, his campaigns were expensive, and colonial authorities were reluctant to fund further operations.
+
+### The End of the Campaign
+
+In [[1882]], Van der Heyden was replaced by a commander who favored a more cautious approach. Van der Heyden's vision of pacification was abandoned, and the Dutch reverted to the defensive **[[Geconcentreerde Linie]]** strategy.
+
+### Later Assessment
+
+Van der Heyden's judgment has been vindicated by subsequent events. When **[[J. B. van Heutsz]]** adopted an offensive strategy in [[1898]], he essentially implemented Van der Heyden's earlier recommendations. The delay in adopting this approach cost many lives and prolonged the war.
+
+## See Also
 - [[Acheh War]]
 - [[Governor Van Heutsz]]
 - [[C. Snouck Hurgronje]]
@@ -21,7 +42,12 @@ His governorship belongs to the period between the [[Establishment of the Dutch 
 - [[Kuta Raja]]
 - [[Establishment of the Dutch 'linie' (pale)]]
 - [[Governorship of General van der Heyden]]
+- [[Aceh War]]
+- [[Geconcentreerde Linie]]
+- [[J. B. van Heutsz]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).

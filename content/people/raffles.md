@@ -12,8 +12,27 @@ Snouck draws the details of the Raffles treaty from a "recent essay upon the tre
 
 Raffles's celebrated description of the sultan of Acheh as "revered throughout his whole kingdom, but obeyed nowhere" is quoted by Snouck in a footnote to the chapter on the Dalam, in illustration of the practical impotence of the later sultans. "This feeling of awe", Snouck writes, "has within the memory of man always been coupled with the conviction that the sole sovereign prince of the country exercised no perceptible influence on the conduct of affairs, and was in fact but an expensive luxury like the documents sealed with the *chab sikureuʾeng*". The dictum of Raffles is the more authoritative because Raffles had himself, during his lieutenancy of Java, been in a position to observe at first hand the practical working of native sovereignty in the archipelago; and his verdict on Acheh stands as the contemporary equivalent of the diagnosis of [[Captain Francis Light|Francis Light]] and [[James Price|James Price]] from a generation earlier.
 
-## See Also
+## Account from *Dispereert Niet Vol. XI* (1946) — Raffles
 
+**Raffles** (Sir Thomas Stamford Raffles) was a British colonial administrator and founder of **[[Singapore]]**. He played a pivotal role in the history of **[[Sumatra]]** and **[[Aceh]]** in the period after the Napoleonic Wars, often acting in direct competition with Dutch interests.
+
+### Role in Sumatra
+
+Raffles was appointed Lieutenant-Governor of **[[Benkoelen]]** (Bencoolen) in [[1817]], a British possession on the west coast of **[[Sumatra]]**. From this base, he attempted to expand British influence throughout the island, often in conflict with the re-established Dutch authority.
+
+### The Singapore Coup
+
+In **[[1819]]**, Raffles engineered the establishment of a British settlement at **[[Singapore]]**, which he had identified as a key strategic point for controlling the **[[Strait of Malacca]]**. The Netherlands protested, claiming Singapore fell within its sphere of influence, but Britain maintained control. The dispute was resolved by the **[[Anglo-Dutch Treaty of London (1824)]]**.
+
+### The Treaty of 1819 with Aceh
+
+During his time in Sumatra, Raffles had concluded a treaty with the Sultan of Aceh, granting Britain special rights in the sultanate. This treaty was abrogated by the Treaty of London (1824), but its existence illustrates Raffles's ambitions in the region.
+
+### Legacy
+
+Raffles is remembered as the founder of Singapore and a key figure in the expansion of British influence in Southeast Asia. His actions in Sumatra and the Strait of Malacca contributed to the division of the Malay archipelago into British and Dutch spheres.
+
+## See Also
 - [[Johor Allum]]
 - [[Raffles Treaty with Acheh]]
 - [[Anglo-Dutch Treaty of 1824]]
@@ -22,7 +41,13 @@ Raffles's celebrated description of the sultan of Acheh as "revered throughout h
 - [[P. H. van der Kemp]]
 - [[Singapore]]
 - [[Acheh]]
+- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Sumatra]]
+- [[Aceh]]
+- [[Benkoelen]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).

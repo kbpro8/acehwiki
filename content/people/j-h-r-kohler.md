@@ -1,6 +1,6 @@
 ---
 title: J. H. R. Köhler
-aliases: [Generaal Köhler, Major-general Köhler, J.H.R. Köhler, Köhler]
+aliases: [Generaal Köhler, Major-general Köhler, J.H.R. Köhler, Köhler, General Koehler]
 tags: [person, general, dutch, military, aceh-war]
 ---
 
@@ -28,8 +28,31 @@ He had been struck by a bullet — probably a sharpshooter's — while standing 
 
 Köhler's death and the failure of the first expedition were attributed by the author of the source work chiefly to "the unfamiliarity with the situation, the too low opinion of the enemy's strength and perseverance, and the consequent inadequate preparation of the expedition." The lesson was not lost on his successors: the [[Second Aceh Expedition (1873-1874)|second expedition]] of [[November 1873]] under [[J. van Swieten|Lieutenant-general J. van Swieten]] was strengthened to 6354 infantry, all troops were equipped with breech-loaders, and the artillery was considerably reinforced. [[G. M. Verspyck|Major-general Verspyck]], who had been designated as Köhler's successor, was available to take command immediately, but it was decided instead to wait for the better season and to send out Van Swieten.
 
-## See Also
+## Account from *Dispereert Niet Vol. XI* (1946) — General Köhler
 
+**General Köhler** was the commander of the first Dutch expedition to **[[Aceh]]** in [[1873]], during the early phase of the **[[Aceh War]]**. He was killed in action when he paused to rest under a *waringin* (banyan) tree, a death that became a symbol of Dutch overconfidence and contributed to the immediate failure of the first expedition.
+
+### Background
+
+Köhler was a senior officer in the Royal Netherlands East Indies Army (KNIL), appointed to lead the expedition intended to "pacify" Aceh. His instructions were to capture the capital, **[[Kutaradja]]**, and establish Dutch authority over the sultanate.
+
+### The Expedition
+
+Köhler's force landed on Aceh's north coast on **[[26 March]] [[1873]]**. The initial phase of the campaign was successful: Dutch troops captured the Great Mosque of Aceh, a symbolic victory.
+
+### Death
+
+After the capture of the mosque, Köhler paused to rest under a *waringin* (banyan) tree. It was a moment of apparent triumph—but it was also a moment of vulnerability. Acehnese forces counterattacked, and Köhler was killed.
+
+### Aftermath
+
+Köhler's death demoralized the Dutch forces and prevented them from consolidating their gains. The expedition was forced to retreat, making the first campaign a humiliating failure. The victory boosted Acehnese morale and turned the conflict into a religious war.
+
+### Legacy
+
+Köhler's death became a cautionary tale for Dutch military planners. It was also commemorated by the Acehnese, who saw the *waringin* tree as a symbol of their victory. The base of the tree where Köhler rested later became part of the Aceh Museum, used as a table.
+
+## See Also
 - [[First Aceh Expedition (1873)]]
 - [[Battle of the Missigit (10 April 1873)]]
 - [[J. van Swieten]]
@@ -39,7 +62,12 @@ Köhler's death and the failure of the first expedition were attributed by the a
 - [[E. C. van Daalen]]
 - [[Kraton of Aceh]]
 - [[Aceh War]]
+- [[General Van Swieten]]
+- [[Kutaradja]]
+- [[J. B. van Heutsz]]
 
-## Source
+## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 12-19.
+
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).

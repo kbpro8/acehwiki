@@ -1,6 +1,6 @@
 ---
 title: J. van Swieten
-aliases: [Lieutenant-general Van Swieten, Generaal Van Swieten, J. van Swieten]
+aliases: [Lieutenant-general Van Swieten, Generaal Van Swieten, J. van Swieten, Van Swieten]
 tags: [person, general, dutch, military, aceh-war]
 ---
 
@@ -32,8 +32,27 @@ Before his departure Van Swieten laid down his policy in a note of [[22 April]] 
 
 On [[25 April|25]] and [[26 April]] [[1874]] the troops whose continued presence was no longer needed embarked, and on [[26 April]] the supreme commander, the second-in-command, the general and general staff, with the troops no longer required, left the theatre of war. A force of 128 officers, 1788 Europeans, 176 Africans, 489 Ambonese and 698 natives remained under Pel's command. Van Swieten's later letter of [[19 July]] [[1874]] approved Pel's conduct and recommended the subjection of the IV Moekims, an eastward expansion from Kota Radja, and an attempt to bring the southern parts to submission.
 
-## See Also
+## Account from *Dispereert Niet Vol. XI* (1946) — General Van Swieten
 
+**General Van Swieten** was the commander of the second Dutch expedition to **[[Aceh]]** in [[1873]]–[[1874]], during the early phase of the **[[Aceh War]]**. He succeeded **General Köhler** after the failure of the first expedition and achieved the capture of the Acehnese capital, **[[Kutaradja]]**.
+
+### The Second Expedition
+
+Van Swieten was sent to Aceh in [[November]] [[1873]] with a significantly larger force than Köhler's expedition—approximately 13,000 troops. His mission was to achieve what Köhler had failed to accomplish: the permanent occupation of Aceh's capital and the establishment of Dutch authority.
+
+### The Capture of Kutaradja
+
+Van Swieten's forces landed on Aceh's north coast and advanced on the capital. After a hard fight, the Great Mosque was again captured, and this time the Dutch forces consolidated their position. The *kraton* (royal palace) was evacuated by the sultan and his followers, who fled into the interior. The sultan died soon after of cholera.
+
+### Aftermath
+
+Van Swieten declared Aceh directly governed territory and established Kutaradja as the administrative capital. He then returned to Java, leaving a garrison behind to maintain order. However, the "victory" was illusory: Acehnese resistance continued, and the war would drag on for decades.
+
+### Significance
+
+Van Swieten's expedition marked the first successful Dutch occupation of Aceh's capital, but it failed to end the war. His decision to leave a garrison without adequate pacification measures laid the groundwork for the prolonged guerrilla warfare that followed.
+
+## See Also
 - [[Second Aceh Expedition (1873-1874)]]
 - [[Capture of the Kraton (24 January 1874)]]
 - [[Van Swieten's Proclamation of 31 January 1874]]
@@ -44,7 +63,12 @@ On [[25 April|25]] and [[26 April]] [[1874]] the troops whose continued presence
 - [[Toekoe Nek Radja Moeda Setia]]
 - [[Mas Soemo Widikdjo]]
 - [[Aceh War]]
+- [[General Köhler]]
+- [[Kutaradja]]
+- [[Geconcentreerde Linie]]
 
-## Source
+## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 19-37.
+
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
