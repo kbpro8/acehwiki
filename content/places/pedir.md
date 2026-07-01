@@ -38,6 +38,30 @@ Pedir was, in the pre-colonial period, one of the half-mythical great Sultanates
 
 In the early colonial period, the *Groot-Atjehsche* administrative system — [[Gampong|gampong]], [[Moekim|moekim]], [[Oelèëbalang|oelèëbalang]], [[Sagi|sagi]] — survived most completely in Pedir. *De Buitenbezittingen* notes that "men het Groot-Atjehsche bestuursstelsel hier [in Pedir] vrijwel ongeschonden terugvindt" — one finds the Groot-Atjehsche administrative system here virtually intact — though with the distinction that the smallest administrative unit was called *meunasa* rather than *gampong*. The [[Kawaj XII|Kawaj XII]] — the federation of twelve gold-seeker settlements in the highlands between Beutông and Keumala Dalam, ruled by a *keudjeuroeën mas* (gold customs-collector) appointed by the Sultan — was, until its dissolution in [[1914]], a peculiarly Pedir institution. Its depopulation, the result of the decline of the gold workings and the cholera epidemic of [[1878]], led to its partition between the *onderafdeelingen* of [[Sigli|Sigli]] and [[Meulabôh|Meulabôh]].
 
+## Pedir in the Aceh War (1873-1879)
+
+Pedir was a coast-state on the north coast of [[Acheh|Atjeh]] whose radja was among the most persistent opponents of the Dutch in the [[Aceh War|Atjeh-oorlog]]. Pedir was bombarded by a Dutch squadron on [[29 December]] [[29 December]] – [[31 December]] [[31 December]] [[1873]] for the radja's march with his men to the [[Kraton of Aceh|Kraton]] to help defend it against the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]]; in [[1876]] the Dutch established a fortification at Pedir, against the opposition of [[Toekoe di Tiroe|Toekoe di Tiroe]], a self-reliant chief; in [[February 1877|February 1877]] it was decided to move the post to [[Segli|Segli]]; and in [[1878]] and [[1879]] the upper lands of Pedir became the refuge of the irreducible hostile chiefs, including [[Panglima Polim|Panglima Polim]] and the [[Imam of Longbatta|Imam Longbatta]], at [[Kemala|Kemala]] in the interior south of Pedir.
+
+### The Bombardment of 29-31 December 1873
+
+During the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] it appeared that the radja of Pedir had marched with his men to the Kraton to help defend it. A squadron — consisting of the *Zeeland*, *Metalen Kruis*, *Citadel van Antwerpen*, *Borneo* and *Banda* — was ordered to punish Pedir, to bombard the chief kampong and, if possible, to destroy it by a landing. The order was fulfilled in the days of [[29 December]] [[29 December]] – [[31 December]] [[31 December]] [[1873]].
+
+### The Submission and its Failure, 1876
+
+After the victories of [[J. L. J. H. Pel|General Pel]] in [[1875]]-[[1876|76]], the vorst of [[Gighen|Gighen]] — who had fought against the Dutch in Atjeh but now began to give up hope of driving them out — decided to negotiate his submission. He signed the act of submission on [[29 February]] [[29 February]] [[1876]] and hoisted the Dutch flag. The Dutch then decided to set up a fortification at Pedir on the north coast, to better assert their authority there, and to place an official there under the protection of a sufficient military force. In the establishment of this they met all kinds of opposition and difficulties from the population, among whom a self-reliant chief in Pedir, [[Toekoe di Tiroe|Toekoe di Tiroe]], proved particularly hostile. After the arrival of military reinforcements in [[June 1876|June]] the resistance gave way, and by the end of that month the post was in a sufficient state. It later proved, however, to be less favourably situated for the supervision of trade, as continually great quantities of rice were imported, which seemed to find their way to the enemy. That the submission was rather in the interest of trade than from a real desire to place oneself under Dutch authority appeared in the same year in Gighen, whose vorst betook himself to the [[XXII Moekims|XXII Moekims]] to fight against the Dutch there. On [[19 August]] [[19 August]] [1876] the tractaat of friendship with the vorst was accordingly cancelled by the Dutch, the Dutch flag was taken down, and the country was again closed to trade.
+
+### The Move to Segli, February 1877
+
+On the north coast it was decided in [[February 1877|February 1877]] to move the establishment from Pedir to [[Segli|Segli]], and to that end a column in [[February 1877|February]] marched along the coast from [[Kroëng Raja|Kroëng Rajah]] to Segli. In [[May 1878|May 1878]] the governor [[K. van der Heyden|Van der Heyden]] himself led an expedition to [[Gighen|Gighen]] and the upper lands of Pedir, where [[Toekoe di Tiroe|Toekoe di Tiroe]] remained hostile and the post at Segli had been attacked by a great force. The actual object of the expedition — the kampong [[Garouw|Garouw]], the headquarters of Toekoe di Tiroe — was not reached, but the taking of [[Telok Kadjoe|Telok Kadjoe]], which had been mistaken for Garouw, had the consequence that the radja of Gighen offered his submission and promised the surrender of Toekoe di Tiroe.
+
+### The Refuge of the Hostile Chiefs
+
+After the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] of [[1879]], the [[Campaign against the XXVI Moekims (July 1879)|campaign against the XXVI Moekims]] of early July, and the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August, the principal hostile chiefs — [[Toewankoe Haschim|Toewankoe Haschim]], the [[Imam of Longbatta|Imam Longbatta]], [[Panglima Polim|Panglima Polim]], his son [[Radja Koelala|Radja Koelala]], and others — persisted in their hostile attitude, but their means were scattered and they had placed themselves beyond the reach of the Dutch troops, "namely at [[Kemala|Kemala]], in the interior south of Pedir."
+
+### Significance
+
+Pedir's persistent hostility throughout the first phase of the [[Aceh War|Atjeh-oorlog]] illustrates the limits of Dutch authority outside the immediate neighbourhood of [[Kota Radja|Kota Radja]]. The landscape's notables — especially the self-reliant chief Toekoe di Tiroe — kept up resistance long after the formal conquest of Great Acheh in [[1879]], and the upper lands of Pedir served as the refuge of the irreducible hostile chiefs until the next phase of the war under Governor [[Van Heutsz|Van Heutsz]] after [[1898]].
+
 ## Economy
 
 The Pedir plain's rice surplus was, until the European war, mostly hoarded rather than exported — "de Pedirees, liever dan zijn productie-overschot te verkoopen, dit gedurende jaren opschuurt" — the Pedir farmer, rather than sell his surplus, would store it for years, sometimes "zwart van ouderdom en aangetast door ongedierte" (black with age and infested with vermin) but still fit for consumption. The war-time pressure exerted by the Dutch administration to release these hoards made Pedir rice available for export to the [[Oostkust van Sumatra|Oostkust van Sumatra]] in [[1914]] and [[1915]], and substantially reduced the territory's dependence on imported rice.
@@ -66,12 +90,30 @@ The Pedir plain's rice surplus was, until the European war, mostly hoarded rathe
 - [[Samoedra-Pasé]]
 - [[Perlak]]
 - [[Daja]]
+- [[Toekoe di Tiroe]]
+- [[Gighen]]
+- [[Segli]]
+- [[Garouw]]
+- [[Telok Kadjoe]]
+- [[Kroëng Raja]]
+- [[Panglima Polim]]
+- [[Imam of Longbatta]]
+- [[Toewankoe Haschim]]
+- [[Radja Koelala]]
+- [[Kemala]]
+- [[Bombardment of Pedir (29-31 December 1873)]]
+- [[Second Aceh Expedition (1873-1874)]]
+- [[Campaign against the XXII Moekims (1879)]]
+- [[Campaign against the XXVI Moekims (July 1879)]]
+- [[Selimoen Expedition (August 1879)]]
+- [[Aceh War]]
+- [[Van Heutsz]]
 - [[1878]]
 - [[1914]]
 - [[1915]]
 
-## Source
+## Sources
 
-*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
-
-*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 12–14, 30–31, 47–49, 55–57, 137–138.
+- *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+- *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 12–14, 30–31, 47–49, 55–57, 137–138.
+- *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 29, 80, 94, 96, 108.
