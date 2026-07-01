@@ -21,6 +21,12 @@ The Dutch government, on learning of the affair, instructed the Governor of Mala
 
 Telok Semawé remained a place of resort for the disaffected of Acheh. After his submission to the Raffles–Coombs commission, Syf had in fact briefly joined [[Panglima Polim]] at the capital against Jauhar, then fled in early [[1820]] to [[Calcutta]] on a captured junk, where he was eventually pensioned and returned to [[Penang]] (the [[Syf's pension at Penang]]). The place nevertheless continued to be cited in Dutch and British dispatches as a watchpoint on the East Coast, and appears in the [[Treaty of Pedir (1819)|treaty]] itself: Article 5 guaranteed to British ships "their commercial intercourse with the ports of Acheen and Teluksamoy", subject only to a temporary blockade by mutual consent.
 
+## Telok Semawe in the Aceh War (1874-1881)
+
+In the later period of the [[Aceh War|Atjeh-oorlog]], Telok Semawe was a coast-state on the north coast of [[Acheh|Atjeh]] which hoisted the Dutch flag on [[July 1874|July 1874]]. In [[August 1874|August 1874]] other coastal states including Pasanga, Kertoï and Endjoeng on the north coast, Perlak on the east coast, Batih and Kloewang on the west coast followed; in [[October 1874|October]] Pasei and Djolok also submitted. By the end of [[1874]] the Dutch flag had not yet been accepted by [[Telok Kroet|Telok Kroet]], [[Rigas|Rigas]] and [[Tenom|Tenom]] on the west coast, by [[Pedir|Pedir]], [[Merdoe|Merdoe]] and [[Samalanga|Samalanga]] on the north coast, and by [[Simpang Olim|Simpang Olim]], [[Arakoendoer|Arakoendoer]] and [[Langsar|Langsar]] on the east coast.
+
+Under the [[Establishment of Civil Government in Aceh (6 April 1881)|administrative reorganisation of March 1881]], Telok Semawé became the chief place of the assistant-residency of the [[Noord- en Oostkust|Noord- en Oostkust]], one of the three assistant-residencies of the *gewest* Atjeh en Onderhoorigheden. The controleurs of the assistant-residency were stationed at [[Edi|Edi]], [[Samalanga|Samalanga]] and [[Segli|Segli]]. To the landscapes belonging to this *afdeeling*, however, self-government was left; only in [[Groot-Atjeh|Groot-Atjeh]] was direct Dutch administration introduced.
+
 ## See Also
 
 - [[Acheh]]
@@ -35,7 +41,14 @@ Telok Semawé remained a place of resort for the disaffected of Acheh. After his
 - [[Treaty of Pedir (1819)]]
 - [[Timmerman Thyssen]]
 - [[Colonel E. Lucas]]
+- [[Noord- en Oostkust]]
+- [[Edi]]
+- [[Samalanga]]
+- [[Segli]]
+- [[Establishment of Civil Government in Aceh (6 April 1881)]]
+- [[Aceh War]]
 
-## Source
+## Sources
 
-*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+- *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+- *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 64, 114.
