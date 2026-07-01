@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - v5
+  workflow_dispatch:
 
 permissions:
   contents: read
