@@ -25,6 +25,16 @@ The great *ateliers* of the Atjeh-tram at [[Sigli|Sigli]], where "± 270 Inlande
 
 The completion of the Deli-Atjeh-aansluiting, *De Buitenbezittingen* predicted, would be "vooral voor Atjeh's Oostkust een grooten stap naar verdere ontwikkeling," particularly once the haven-installations at [[Pangkalan Soesoeh|Pangkalan Soesoeh]] were brought to completion. The line, with its subsidised tariffs for *peper, rijst en klappers* and its payments in kind to the *atjehsche* peper-planters — the Company paying them, on top of the purchase-price, "nog f 0.10 uit" per *pikol* — had become the principal carrier of the *bevolkingscultures* on which the *gewest*'s economy now rested.
 
+## Account from *De Buitenbezittingen* (1904) — Three Functions of the Atjeh Tram
+
+The Encyclopaedisch Bureau's Mededeelingen publication frames the Atjeh Tram as serving three interconnected purposes in its development:
+
+1. **Military Pacification:** The primary initial purpose was military. The tramway was a counter-insurgency instrument, enabling the rapid deployment of troops, supplies, and artillery from [[Koeta Radja|Kutaradja]] to suppress remaining resistance and maintain control. The abandonment of the [[Postenlinie|postenlinie]] after the betrayal of [[Toekoe Oemar|Toekoe Oemar]] in [[1896]] made the original [[Ceintuur-trambaan|belt-tramway of 1885]] redundant, and it was gradually cleared. In its place came the longer tramway that, from [[1897]] onward, followed the Dutch extension of authority into Atjeh's Dependencies — "step by step" tying post after post of the ever-expanding military occupation to the command centre at [[Koeta Radja|Kota Radja]].
+2. **Economic Consolidation:** After the military phase, the economic function became paramount. The tramway connected the productive interior and the booming plantation region around [[Langsa]] with the port of [[Sabang]] and the coastal towns, enabling the cost-effective export of [[Rubber Industry in Atjeh|rubber]], pepper, and copra, and the import of goods and contract laborers.
+3. **Administrative Integration:** The improved transport network allowed for more efficient colonial administration — enabling officials to travel, conduct inspections, collect taxes, and maintain order more effectively, reinforcing the state's presence across the entire Governorate.
+
+The Bureau's publication references a "Kaartje der verbinding tusschen Atjeh-tram en Deli-net" — a map of the connection between the Atjeh Tram and the [[Deli Spoorweg Maatschappij|Deli network]] — indicating that the Atjeh Tram was conceived as part of a larger plan to create a transportation corridor linking the northern coast with the plantation economy of the [[Oostkust van Sumatra]] (Deli area). The "Grafiek betreffende de Atjeh-tram" (financial graph) likewise tracked the line's economic performance as the colonial state assessed the viability of its investment.
+
 ## See Also
 
 - [[Gouvernement Atjeh en Onderhoorigheden]]
@@ -40,7 +50,26 @@ The completion of the Deli-Atjeh-aansluiting, *De Buitenbezittingen* predicted, 
 - [[Besitang]]
 - [[Pangkalan Soesoeh]]
 - [[Deli Spoorweg Maatschappij]]
+- [[Rubber Industry in Atjeh]]
+- [[Opiumregie in Atjeh]]
+- [[Ceintuur-trambaan]]
+- [[Postenlinie]]
+- [[Toekoe Oemar]]
+- [[Sabang]]
+- [[Oostkust van Sumatra]]
+- [[1874]]
+- [[1885]]
+- [[1896]]
+- [[1897]]
+- [[1899]]
+- [[1906]]
+- [[1908]]
+- [[1910]]
+- [[1912]]
+- [[1913]]
 
-## Source
+## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 20–25, 181, 234–235, 242.
+
+*De Buitenbezittingen 1904*. In: *Mededeelingen van het Encyclopaedisch Bureau*. Batavia: G.C.T. van Dorp & Co., [ca. 1915].

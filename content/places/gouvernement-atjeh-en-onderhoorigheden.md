@@ -53,6 +53,23 @@ The Bureau characterised this second tramway, in its early state, as "a piece of
 
 The [[1913]] extension approvals (G. Bn. of 17 June [[1913]] No. 59, 16 October [[1913]] No. 25, and 8 November [[1913]] No. 40) authorised the *doortrekking* of the Atjeh-tram from [[Koeala Simpang]] through [[Tamiang]] to [[Besitang]], and from [[Pangkalan Soesoe]] to [[Telok Taboeban]] on the [[Aroebai|Arube Bay]]. With the completion of the connecting line between [[Besitang]] and [[Pangkalan Soesoe]], the Atjeh-tram network would "finally reach its natural terminus: the fine and accessible [[Aroebai|Arube Bay]]."
 
+## Account from *De Buitenbezittingen* (1904) — Economy and Administration
+
+The Encyclopaedisch Bureau's Mededeelingen publication offers a snapshot of the Governorate's economy and administrative policies as recorded for the decade [[1904]]–[[1914]]:
+
+### Legal and Fiscal Administration
+
+The *opiumregie* applied a geographically nuanced system across the Governorate. While opium consumption was generally "free" in [[Gouvernement Atjeh en Onderhoorigheden|Atjeh]], a *decreasing licensing system* (*afloopend licentie-stelsel*) prevailed in the temporary sub-department of [[Gajo-Loeos]], with exceptions similar to those applied in [[Sumatra's Westkust]], reflecting the colonial recognition of differing social conditions across the vast territory. The *Inheemsche rechtspraak* (indigenous justice) was maintained throughout the Governorate under *Staatsblad* [[1909]] No. 207, as later amended and supplemented — a continuity of local customary law alongside the colonial courts.
+
+### Economy in 1913
+
+By [[1913]], the Governorate's economy showed clear signs of transformation following pacification:
+
+- **Rubber:** The government plantation at [[Langsa]] had triggered a private boom. There were **148 land concessions** covering nearly **300,000 *bouws*** across the Governorate, the vast majority established for rubber cultivation, often alongside robusta coffee as a "catch crop." The Langsa under-subdivision alone hosted 28 concessions covering 54,000 *bouws*. See [[Rubber Industry in Atjeh]].
+- **Pepper:** [[Pepper]] exports from the Governorate reached **3,023,000 kg** in [[1913]], confirming [[Gouvernement Atjeh en Onderhoorigheden|Atjeh's]] position as a leading producer of black pepper in the Outer Possessions.
+- **Labor:** The plantation economy relied heavily on recruited contract laborers. In [[1913]], the Governorate had **3,931 Javanese contract laborers** and **3,070 Javanese women** under the labor inspectorate.
+- **Infrastructure:** The [[Atjeh-tram|Atjeh tramway]] continued to expand, and the [[Koninklijke Paketvaart Maatschappij|K.P.M.]] maintained regular coastal services connecting the Governorate's ports to the wider archipelago.
+
 ## Significance
 
 [[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]] is, in the Encyclopaedisch Bureau's account, the Buitenbezittingen gewest in which the post-[[1896]] Dutch project of "effective authority" was most fully and most recently realised. The combination of the rapid expansion of the [[Landschapskassen|landschapskassen]], the special 6:4 fiscal regime, the exceptional military command of the police, the unique peper- en pinanghasil revenues, and the systematic extension of the [[Atjeh-tram|Atjeh-tramway]] network all mark the gewest as the paradigmatic case of the post-pacification colonial order.
@@ -97,9 +114,14 @@ The [[1913]] extension approvals (G. Bn. of 17 June [[1913]] No. 59, 16 October 
 - [[1910]]
 - [[1912]]
 - [[1913]]
+- [[Rubber Industry in Atjeh]]
+- [[Opiumregie in Atjeh]]
+- [[Gajo-Loeos]]
 
 ## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), Bijlage I and pp. 1–3, 33–38.
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 2–3, 9–10, 12, 17, 19, 53, 68–72.
+
+*De Buitenbezittingen 1904*. In: *Mededeelingen van het Encyclopaedisch Bureau*. Batavia: G.C.T. van Dorp & Co., [ca. 1915].
