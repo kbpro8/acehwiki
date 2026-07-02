@@ -100,3 +100,33 @@ Panglima Polem's surrender marked the end of organized military resistance in Ac
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I, § 3.
 
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
+
+*Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 113, 119–120, 127.
+
+## Account from *Nederlands-Indië contra Japan (1959)* — Panglima Polem (d. 1941)
+
+**Panglima Polem** — the last of the [[Panglima Polim's supremacy at Acheh|Panglima Polem]] line of *sagihoofden* (sagi heads) of the [[XXII Moekims|XXII moekims]] of [[Groot-Atjeh|Groot-Atjeh]] — was the Atjehnese chief whose conduct as a "legendary hero" sustained Dutch authority in the [[Seulimeum|Seulimeumse]] through the consolidation of the [[Pacificatie van Atjeh|pacification]], whose death in [[1941]] placed the Dutch government before a great problem, and whose eldest son's succession as *sagihoofd* — politically almost outspokenly anti-Dutch in orientation — was the principal Dutch political risk of [[1941]] and the immediate political context of the [[F-beweging|F. beweging]] rising of February [[1942]]. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), Panglima Polem is the principal Dutch political anchor of the *sagi der XXII moekims*, and the staff history's principal instance of the loss of a loyal Atjehnese chief on the eve of the Japanese invasion.
+
+## The title "Panglima Polem"
+
+The staff history glosses the title *Panglima Polem* as follows: the special position of this sagi-head is already evident from his title Polem, which means elder brother (namely of the former Sultan of Atjeh). The title *Panglima Polem* thus marked the *sagihoofd* of the XXII moekims as the elder brother of the former sultan of Atjeh, and the *sagihoofd*'s authority in the Seulimeumse rested on this royal-kinship claim. The *Panglima Polem* title was thus both a political and a dynastic institution.
+
+## The Dutch decoration
+
+The staff history records that Panglima Polem was decorated by the Dutch colonial state for his conduct as a loyal *sagihoofd*: the death of Panglima Polem in 1941 (he had been decorated, among other things, with the Knight's Cross of the [[Oranje Nassau (Orde van Oranje Nassau)|Order of Oranje Nassau]] for his great support to our administration) placed our government before a great problem. The Knight's Cross of the Order of Oranje Nassau was thus the principal Dutch recognition of Panglima Polem's great support to the colonial administration — a recognition that framed the *sagihoofd* as the indispensable Dutch political anchor of the Seulimeumse.
+
+## The succession problem
+
+The staff history records the succession problem: his eldest son enjoyed a less than favourable reputation, so that he had repeatedly to be corrected by his father. Politically almost outspokenly anti-Dutch in orientation, he sought contact with extreme nationalist circles in Java during his stay there. Returned to Atjeh, he showed great interest in the [[Poesa|Poesa]], a movement whose anti-Dutch disposition he understood. The succession of Panglima Polem's eldest son was thus the principal Dutch political risk of [[1941]]: a son who was anti-Dutch in orientation, who had sought out extreme nationalist circles on Java, and who had shown interest in the [[Poesa|Poesa]] movement on his return to Atjeh.
+
+The Dutch government accepted the eldest son's succession by heredity — the principle of succession in the first place destined the eldest son as successor — but the staff history records that those who had no confidence in the new chief had been right in their judgement. The eldest son's succession was the immediate political context of the [[F-beweging|F. beweging]] rising of February [[1942]], in which the *sagi der XXII moekims* around [[Seulimeum|Seulimeum]] — the eldest son's *sagi* — was the principal theatre of sabotage.
+
+## The flight of the eldest son
+
+When, on [[23 February]] [[23 February 1942|23 February 1942]], [[Major W. F. Palmer van den Broek|Palmer van den Broek]]'s Seulimeum-colonne restored outward calm in the Seulimeumse, the chiefs who had fled — including the eldest son of the late Panglima Polem — remained, however, untraceable. The eldest son's flight — together with the chiefs who had fled the Seulimeumse — was the staff history's principal instance of the F-beweging's penetration of the *sagihoofd* institution, and the principal Dutch political failure of the pre-invasion rising.
+
+## Significance
+
+Panglima Polem (d. [[1941]]) is, in the [[Nederlands-Indië contra Japan|staff history's]] Atjeh chapter, the principal Dutch political anchor of the *sagi der XXII moekims*, and the staff history's principal instance of the loss of a loyal Atjehnese chief on the eve of the Japanese invasion. The staff history's emphasis on Panglima Polem's Knight's Cross of the Order of Oranje Nassau, on the anti-Dutch orientation of his eldest son, and on the eldest son's flight in February [[1942]] frames the Panglima Polem succession as the principal political failure of the Dutch pre-invasion period: the *sagihoofd* institution that had sustained Dutch authority in the Seulimeumse through the consolidation of the pacification was, by [[1941]], in the hands of an anti-Dutch successor whose flight in February [[1942]] symbolised the collapse of the Dutch political anchor of the XXII moekims.
+
+*Source:* *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 113, 119–120, 127.

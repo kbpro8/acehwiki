@@ -31,6 +31,30 @@ The 1e Divisie Marechaussee uit Blang Kedjeren is significant in *[[Oom Ambon va
 - [[6e Divisie Marechaussee]]
 - [[1933]]
 
-## Source
-
+## Sources
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…"
+
+*Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 114–118.
+
+## Account from *Nederlands-Indië contra Japan (1959)* — 1ste Divisie Marechaussee
+
+**The 1ste Divisie Marechaussee** was the first of the six divisions of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussee van Atjeh en Onderhorigen]] stationed in the *gewest* of [[Atjeh|Atjeh]] during [[1940]]–[[1942]]. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), the 1ste Divisie is the Blangkedjeren- and central-Atjeh-oriented Maréchaussee division whose eight brigades at [[Blangkedjeren|Blangkedjeren]] — together with the four brigades at [[Koeala Bee|Koeala Bee]] — formed the principal Dutch force in the Alas valley theatre on the eve of the [[Japanese invasion of Atjèh|Japanese invasion of March 1942]].
+
+## Organisation as of 1 January 1940
+
+As of [[1 January]] [[1940]], the 1ste Divisie Marechaussee was grouped as follows (each brigade of Maréchaussee numbering 20 men):
+
+- [[Blangkedjeren|Blangkedjeren]]: 8 brigades (Iste Divisie)
+- [[Koeala Bee|Koeala Bee]]: 4 brigades (Iste Divisie)
+
+**Total**: 12 brigades (about 240 men).
+
+## Operations 1940–1942
+
+The 1ste Divisie's Blangkedjeren brigades were progressively drawn upon for the pre-invasion reorganisations of [[1940]]–[[1941]]. By March [[1942]], the Iste Divisie's Blangkedjeren strength had been consolidated with troops of various other units at Blangkedjeren under Lt-Col [[Blogg|Blogg]]'s command. The 1ste Divisie's Koeala Bee brigades remained on the Westkust, where they formed part of Captain [[L. H. J. Kloprogge|Kloprogge]]'s reduced IIde divisie command after the [[1940]] reductions.
+
+## Significance
+
+The 1ste Divisie Marechaussee is, in the staff history's Atjeh chapter, the Blangkedjeren-oriented division whose troops formed the backbone of the Dutch defence at the [[Sumatra capitulation (28 March 1942)|Blangkedjeren capitulation of 28 March 1942]]. The staff history's emphasis on the division's progressive reduction through [[1940]]–[[1941]] is part of the compilers' broader argument that the Dutch pre-invasion force drawdown structurally disabled the Maréchaussee's capacity to mount sustained resistance.
+
+*Source:* *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 114–118.

@@ -34,6 +34,29 @@ The 6e Divisie Marechaussee is significant in *[[Oom Ambon van het K.N.I.L.]]* a
 - [[Zelfbestuurder van Troemon]]
 - [[1933]]
 
-## Source
-
+## Sources
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Thijs."
+
+*Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 114–121.
+
+## Account from *Nederlands-Indië contra Japan (1959)* — 6de (VIde) Divisie Marechaussee
+
+**The 6de (VIde) Divisie Marechaussee** was the [[Bakongan|Bakongan]] division of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussee van Atjeh en Onderhorigen]] during [[1940]]–[[1942]], the southernmost Maréchaussee division on the [[Westkust van Atjeh|Westkust van Atjeh]] and the formation whose seven brigades at [[Bakongan|Bakongan]] formed the Dutch anchor of the [[Evacuation of women and children from the Westkust of Atjeh (March 1942)|Westkust evacuation]] of March [[1942]]. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), the VIde Divisie is the staff history's principal narrative unit of the southern Westkust outposts — the formation whose [[Bakongan|Bakongan]] camp served as the southern Dutch concentration point for the Westkust women-and-children convoys.
+
+## Organisation as of 1 January 1940
+
+As of [[1 January]] [[1940]], the VIde Divisie Marechaussee was grouped as follows (each brigade of Maréchaussee numbering 20 men):
+
+- [[Bakongan|Bakongan]]: 7 brigades
+
+**Total**: 7 brigades (about 140 men).
+
+## Operations 1940–1942
+
+The VIde Divisie's Bakongan outpost was one of the Westkust outposts dissolved in the pre-invasion drawdown: at the end of December 1941 the outposts at Tapatoean and Bakongan were evacuated by the eight Maréchaussee brigades stationed there. The eight brigades (the four from Tapatoean plus the seven from Bakongan, minus three brigades left at [[Lho Seumawé|Lho Seumawé]]) were sent under Captain **T. J. F. M. Supheert** via [[Medan|Medan]] to [[Malakka|Malakka]] to conduct guerrilla operations against the Japanese on behalf of the Dutch allies. The Bakongan outpost was later reoccupied by the Westkust evacuee convoys as a concentration point on the march south.
+
+## Significance
+
+The VIde Divisie is, in the staff history's Atjeh chapter, the staff history's principal narrative unit of the southern Westkust outposts and of the structural drawdown that left the southern Westkust without a Dutch garrison at the moment of the Japanese invasion. The dispatch of the eight Tapatoean–Bakongan brigades to Malakka under Captain Supheert — for which the staff history refers the reader to Deel III for the operations of the troops sent to Malakka — is the staff history's principal instance of the structural abandonment of the southern Westkust as a Dutch theatre of independent operation.
+
+*Source:* *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 114–121.
