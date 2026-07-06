@@ -24,12 +24,15 @@ Amidst the diplomatic chaos and the Sultan's subsequent blockade of the harbor, 
 
 Upon returning to the ship, Frederik advised Van Caerden to inform the Sultan of his escape to maintain a facade of good faith, offering to return ashore to guarantee the peace. The Sultan, recognizing the futility of further conflict with the heavily armed Dutch ships, formally granted Frederik his freedom, bringing the fifteen-month ordeal to an end.
 
+Frederik's release was formalised, together with a commercial agreement securing the Dutch a monopoly on Acehnese pepper purchases, in the [[Treaty of Friendship and Trade with Aceh (1600)|treaty signed by Van Caerden and the Sultan]] on [[28 December]] [[1600]].
+
 ## See Also
 - [[Atjeh]]
 - [[Frederik Houtman]]
 - [[Houtman brothers' visit to Atjeh (1599)]]
 - [[Paulus van Caerden]]
 - [[Pedir]]
+- [[Treaty of Friendship and Trade with Aceh (1600)]]
 - [[1599]]
 - [[1600]]
 

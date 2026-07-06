@@ -1,7 +1,7 @@
 ---
 title: Houtman brothers' visit to Atjeh (1599)
-aliases: [Houtman's first visit to Atjeh, Atjeh ambush 1599, Houtman brothers Atjeh 1599, Eerste Nederlandsche bezoeken aan Atjeh, Murder of Cornelis de Houtman in Atjeh (1599), De Houtman's death in Aceh, Atjeh massacre of 1599]
-tags: [event, dutch, colonial, precolonial, atjeh, trade, diplomacy, 1599, houtman, netherlands-east-indies, conflict]
+aliases: [Houtman's first visit to Atjeh, Atjeh ambush 1599, Houtman brothers Atjeh 1599, Eerste Nederlandsche bezoeken aan Atjeh, Murder of Cornelis de Houtman in Atjeh (1599), De Houtman's death in Aceh, Atjeh massacre of 1599, First Dutch Voyage to Aceh (Cornelis de Houtman), Cornelis de Houtman's voyage to Aceh, De Houtman's Atjeh Expedition, 1599 Aceh Expedition]
+tags: [event, dutch, colonial, precolonial, atjeh, trade, diplomacy, 1599, houtman, netherlands-east-indies, conflict, exploration]
 ---
 
 **The Houtman brothers' visit to Atjeh of 1599** — the first Dutch visit to the *rijk* [[Atjeh|Atjeh]] on Sumatra, conducted by the brothers **[[Cornelis Houtman|Cornelis Houtman]]** and **[[Frederik Houtman|Frederik Houtman]]** in two Zeeland ships in the summer of [[1599]] — ended in ambush, the killing of most of the crew, and the captivity of Frederik Houtman at the Atjehnese court, and is the opening Dutch-Atjehnese encounter of the [[De Kleine Oosterling|school-textbook]] narrative of Atjeh history. The visit is the *terminus a quo* of Dutch-Atjehnese relations — the first in a sequence of encounters that would culminate in the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1903|1903]].
@@ -16,9 +16,13 @@ Cornelis Houtman was "genoodzaakt, zijn broeder en de anderen in de handen van d
 
 A fuller and independently sourced account of the [[11 September]] [[1599]] ambush is given by Johan van der Woude's biography of Jan Pieterszoon Coen, which frames the episode as the **Murder of Cornelis de Houtman in Atjeh** and adds substantial detail absent from the [[De Kleine Oosterling|school-reader]] account.
 
+### Background and departure
+
+Following the success of the first Dutch voyage to [[Bantam]] ([[1595]]–[[1597]]), and seeking to bypass the [[Portuguese]] monopoly on the spice trade, [[Cornelis Houtman|Cornelis de Houtman]] was employed by the Zeeland merchant [[Balthasar de Moucheron]], who outfitted the two ships *Leeuw* and *Leeuwin*. The expedition departed from [[Vlissingen]] on [[25 March]] [[1598]], shadowed by the English pilot [[John Davis]], who was acting as a spy for the Earl of Essex. After a difficult and delayed journey, the ships anchored at Atjeh on [[24 June]] [[1599]].
+
 ### Arrival and initial trade
 
-In [[1599]], [[Cornelis Houtman|Cornelis de Houtman]], commanding the ships *Leeuw* and *Leeuwin*, anchored before Atjeh. The expedition was organised by the Zeeland merchant [[Balthasar de Moucheron]]. The Dutch were initially received with great hospitality by the Sultan of Atjeh, who granted them permission to trade and assigned them a house on shore. A small quantity of pepper was purchased, and de Houtman attempted to negotiate lower prices directly with the Sultan, bypassing the *sabander* (harbourmaster), who had fixed the rates.
+Commanding the ships *Leeuw* and *Leeuwin*, [[Cornelis Houtman|Cornelis de Houtman]] anchored before Atjeh on [[24 June]] [[1599]]. The Dutch were initially received with great hospitality by the Sultan of Atjeh — who accepted a letter from [[Prince Maurits|Prince Maurits of Nassau]] — and were granted permission to trade and assigned a house on shore. A small quantity of pepper was purchased, and de Houtman attempted to negotiate lower prices directly with the Sultan, bypassing the *sabander* (harbourmaster), who had fixed the rates.
 
 ### Portuguese intrigue
 
@@ -30,7 +34,7 @@ On [[11 September]] [[1599]], the Sultan invited de Houtman and a delegation of 
 
 ### Aftermath
 
-The surviving Dutch ships fled to the nearby port of [[Pedir]] to attempt a rescue of the men in the sloops, but were driven off by Acehnese forces and a squadron of Portuguese galleys. The disaster forced the remnants of the expedition to abandon [[Sumatra]] and eventually return to the Dutch Republic. The event cemented a deep Dutch mistrust of Acehnese diplomacy, though the sheer profitability of the pepper trade would compel subsequent fleets to return to Atjeh within a year — see [[Imprisonment of Frederik de Houtman in Atjeh]].
+The surviving Dutch ships fled to the nearby port of [[Pedir]] to attempt a rescue of the men in the sloops, but were driven off by Acehnese forces and a squadron of Portuguese galleys. Frederik de Houtman and the other captives were forced to work on the Sultan's own fleet; the ship's council refused to ransom them for one of the Dutch vessels and retreated. The disaster forced the remnants of the expedition to abandon [[Sumatra]] without a profitable cargo of pepper and eventually return to the Dutch Republic. The event cemented a deep Dutch mistrust of Acehnese diplomacy — a stark lesson in the complex political landscape of [[Sumatra]], where local rulers played European powers against each other, often favouring the established Portuguese presence — though the sheer profitability of the pepper trade would compel subsequent fleets to return to Atjeh within a year. See [[Imprisonment of Frederik de Houtman in Atjeh]].
 
 ## The aftermath and the 1601 embassy
 
@@ -55,6 +59,10 @@ The Houtman brothers' visit of [[1599]] is, in the [[De Kleine Oosterling|school
 - [[Paulus van Caerden]]
 - [[Portuguese]]
 - [[Malaka]]
+- [[John Davis]]
+- [[Bantam]]
+- [[Vlissingen]]
+- [[1598]]
 - [[1599]]
 - [[1601]]
 

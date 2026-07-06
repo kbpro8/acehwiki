@@ -26,6 +26,10 @@ The letter concluded with a token gift: "I have nothing to offer my friend as a 
 
 Van der Kemp drew attention to the letter as evidence of two things. First, it shows the extent of the [[Padri War on Sumatra's East Coast|Padri]] advance by mid-[[1824]], confirming that the Rinchis had already reduced [[Tanah Putih]], [[Balah]] and [[Panei]] and were menacing [[Batu Bara]] and [[Deli]] — a situation that would within a few years draw the Dutch into the wars on Sumatra's East Coast. Second, it establishes that the adoption of [[Said Akil]] by the Sultan of [[Deli]] was already a matter of record at Penang before Fullerton's accession, and that the British government cannot subsequently have pleaded ignorance of Akil's status at Deli when its remonstrances of [[1826]] and [[1828]] were issued. The letter is also one of the earliest pieces of correspondence between the new Governor Fullerton and a Malay ruler, foreshadowing the close attention to Sumatran affairs that would mark his [[Fullerton's minute on Acheh (21 March 1825)|minute on Acheh]] of March [[1825]] and his later [[Pinang Nota (1825)|Pinang Nota]].
 
+## Note on a further reference in van der Woude's *Coen* biography
+
+Johan van der Woude's 1948 biography of Jan Pieterszoon Coen, in a footnote (p. 66, n. 1) also referencing Van der Kemp's work, cites a letter of the Sultan of [[Deli]] to [[Penang]] — there tentatively dated [[1786]] and treated as a document that the [[British East India Company]] used to assert influence over the pepper-producing [[Deli Sultanate|Deli]] region in the late eighteenth and early nineteenth centuries, and that was invoked in the [[1824]] negotiations to counter Dutch claims on Sumatra's East Coast. Van der Woude's citation notes that Van der Kemp himself regarded the evidence for British suzerainty over Deli drawn from such a letter as "not indisputable" — a caution that applies more precisely to the present letter of [[27 August]] [[1824]], since no Deli–Penang letter as early as 1786 is otherwise attested in Van der Kemp's own study. The 1786 date given by Van der Woude's footnote is best read as an imprecise secondary reference to the same historiographical dispute over Deli's status vis-à-vis Penang and the British Crown, rather than as evidence of a separate, earlier letter.
+
 ## See Also
 
 - [[Sultan of Deli]]
@@ -38,7 +42,11 @@ Van der Kemp drew attention to the letter as evidence of two things. First, it s
 - [[Fullerton's minute on Acheh (21 March 1825)]]
 - [[Pinang Nota (1825)]]
 - [[Anglo-Dutch Treaty of London (1824)]]
+- [[Deli Sultanate]]
+- [[British East India Company]]
 
-## Source
+## Sources
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159-239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*Coen: Koopman van Heeren Zeventien*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. de Boer Jr., 1948), p. 66, footnote 1.
