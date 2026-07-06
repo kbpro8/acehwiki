@@ -1,7 +1,7 @@
 ---
 title: General Van Swieten
-aliases: [Van Swieten, General Van Swieten, Conqueror of the Acehnese Van Swieten, war-hero Van Swieten]
-tags: [person, general, dutch, aceh, colonial]
+aliases: [Van Swieten, General Van Swieten, Generaal Van Swieten, J. van Swieten, Jan van Swieten, Conqueror of the Acehnese Van Swieten, war-hero Van Swieten]
+tags: [person, general, dutch, military, colonial, knil, aceh, atjeh, 19th-century, aceh-war]
 ---
 
 **General Van Swieten** — the grey war-hero and conqueror of the Acehnese — was the Dutch general who, after the historic storming of the [[Meusigit Raja|misigit]] in [[Koeta-Radja|Koeta Radja]] by the Dutch troops in [[April 1873|April]] [[1873]] (the [[Eerste Atjeh-expeditie (1873)|Eerste Atjeh-expeditie]]) and the burning-down and demolition of the mosque, managed to bring about that the colonial government, entirely at its own cost, built a new mosque — the [[Meusigit Raja]] — which was given to the Acehnese population "to make them forget the suffering of the war and to demonstrate, in the Islamic land par excellence, that the Netherlands respected the Mohammedan religion perfectly." Van Swieten is the figure through whom *[[Oost-Indisch Journael]]* by Merac ([[1947]]) narrates the colonial state's religious politics in [[Atjeh|Aceh]]: the rebuilding of the Meusigit Raja as the forced benefaction of the *kafir Beulanda* (unbelieving Hollander).
@@ -31,11 +31,19 @@ General Van Swieten is significant in *[[Oost-Indisch Journael]]* as the conquer
 ## See Also
 
 - [[Oost-Indisch Journael]]
+- [[De Kleine Oosterling]]
 - [[Meusigit Raja]]
 - [[Snouck Hurgronje]]
-- [[Koeta-Radja]]
+- [[Second Aceh Expedition (1873-1874)]]
+- [[First Aceh Expedition (1873)]]
+- [[Capture of the Kraton (24 January 1874)]]
+- [[Van Swieten's proclamation of 31 January 1874]]
 - [[Eerste Atjeh-expeditie (1873)]]
-- [Atjeh-oorlog](/events/atjeh-oorlog)
+- [[General Kaler]]
+- [[Kolonel Pel]]
+- [[Kraton Atjeh]]
+- [[Koeta-Radja]]
+- [[Atjeh War]]
 - [[8 February]]
 - [[1873]]
 - [[1874]]
