@@ -24,6 +24,10 @@ When the Governor-General [[J. W. van Lansberge|Van Lansberge]] arrived at Oleh-
 
 In the [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]] Oleh-leh appears alongside [[Kota Radja|Kota Radja]] as the commercial centre of the Dutch establishment: "The Radja Moeda, [[Toekoe Nja Moekamat|Toekoe Nja Moekamat]], strained every effort to bring the chief place and Oleh-leh to prosperity, and succeeded so well, that the population fled from their villages in streams not to be stemmed to the chief place, and fraternised with the kafirs. One lived as in continual festivity, drove profitable trade, and the war-leaders could find no people to follow them."
 
+## Account from *De Kleine Oosterling* (1901) — the haven and the spoorweg
+
+The Dutch primary-school reader *De Kleine Oosterling* records Oleh-leh as the Dutch-built haven at the mouth of the Atjeh-rivier, calling it "onze haven op kust van Atjeh, door ons aangelegd" (our harbour on the coast of Atjeh, built by us). The reader describes the haven's bustling activity — steamships, praus ferrying goods to shore, steam cranes at the pier, rows of houses, toko's, and officers, soldiers, natives and coolies moving among the buildings and warehouses — and records the spoorweg connecting Oleh-leh to [[Kota Radja|Kotta-Radja]], with trains running several times daily in each direction. In the school-textbook narrative, Oleh-leh is presented as the principal instance of the Dutch colonial state's constructive (*opbouwende*) activity in Atjeh, framed against the *fanatiek* resistance of the Atjeh-oorlog.
+
 ## See Also
 
 - [[Kota Radja]]
@@ -39,7 +43,15 @@ In the [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]] Oleh-leh appears alongs
 - [[Van Lansberge's visit to Aceh (March-April 1877)]]
 - [[Hikajat prang Kompeuni]]
 - [[Aceh War]]
+- [[De Kleine Oosterling]]
+- [[Building of Oleh-leh harbor]]
+- [[Atjeh-tram]]
+- [[Atjehsche Staatsspoorwegen]]
+- [[1874]]
+- [[1901]]
 
-## Source
+## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 33-37, 64-65, 85.
+
+*De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 38 ("Een nieuwe stad").

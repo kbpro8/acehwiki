@@ -21,6 +21,12 @@ The Dutch names *Goudberg* (Gold Mountain) and *Weesberg* (Orphan Mountain) pres
 
 The Goudberg–Weesberg region is also associated with the *Pantjang Alas* — the *defile of refuge* — through which, in the late nineteenth century, the bands of *onverzoenlijken* (irreconcilables) driven out of the Groot-Atjeh plain made their way to the East Coast. The route, and the various *pangkalan* (fortified positions) along it, are mentioned in the military correspondence of the [[Aceh War|Atjeh-krijg]].
 
+## Account from *De Buitenbezittingen, Deel II, Aflevering 1* (1917) — orographic position
+
+The Encyclopaedisch Bureau's earlier Sumatra-wide survey (Aflevering 1, Hoofdstuk I) places the Goudberg (numbered 67 in the Bureau's volcano list) as the point at which the eastern volcanic row of Sumatra terminates in a transverse ridge running to [[Poeloe Wè|Poeloe Wè]]: "Over den Goudberg (67) [in Groot-Atjeh] eindigt de Oostrij van het eiland met de oceaanhaven, Sabang, terwijl de Goudberg (67) met den ten Oosten daarvan gelegen Weesberg (68) de Noordelijkste dwarsrij vormt." The Goudberg thus closes the eastern volcanic row of Sumatra — the row that runs from the *Loeboek Raja* (56) of Midden-Sumatra northward through the *Dolok Saoet* (58), the *Poesoek Boehit* (59), the *Wilhelmina gebergte* (60–65), and the *Abong-Abong* (66) to the Goudberg itself — and forms, with the Weesberg (68) and the northernmost volcano (69) of Poeloe Wè, the *Noordelijkste dwarsrij* (northernmost transverse ridge) of the Sumatran volcanic system.
+
+The Bureau frames the Goudberg's *dwarsrij* as the geological foundation of the Sabang oceaanhaven and thus of the Dutch colonial state's principal northern haven — a strategic reading that complements the *De Buitenbezittingen* Aflevering 2 account of the mountain's gold-working history and its role in the geography of the Pantjang Alas refuge route.
+
 ## See Also
 
 - [[Pedir]]
@@ -33,9 +39,16 @@ The Goudberg–Weesberg region is also associated with the *Pantjang Alas* — t
 - [[Indrapoeri]]
 - [[Seulimeum]]
 - [[Aceh War]]
+- [[De Buitenbezittingen, Deel II, Aflevering 1]]
+- [[Poeloe Wè]]
+- [[Sabang]]
+- [[Wilhelmina gebergte]]
 - [[1878]]
 - [[1914]]
+- [[1917]]
 
-## Source
+## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 4, 9–13, 55.
+
+*De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), p. 12, and Lijst der Vulkanen.

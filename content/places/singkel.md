@@ -40,6 +40,11 @@ In the early nineteenth century the four onderdistricts of Beneden-Singkel forme
 
 Before the Dutch arrival, *De Buitenbezittingen* explains, the Alas-vallei had been accessible only by the difficult voetpad up the Simpang Kiri (Singkel River), and the entire handelsverkeer — zout and katoentjes upward, boschproducten downward — had moved along it. The Singkelsche hoofden maintained a forced mediation, the *bong-bong-stelsel*: the Alassers brought their goods to *pangkalans*, the controle-vestigingen of the hoofden where the river became bevaarbaar, where they received in exchange boschproducten and — above all — opium. Handelaren were not admitted above, nor Singkeleezen to the coast. "De hoofden uit de laagvlakte hadden het dus volkomen in hun macht, de prijs der Alassche producten naar willekeur te bepalen." The opening of the [[Alasweg|Alasweg]] from [[Kota Tjane|Kota Tjane]] to Kaban Djahe, and its connection to the wegennet of the Oostkust of Sumatra, broke this dependence and "bracht met het wegennet der Oostkust van Sumatra … een einde aan de schadelijke en onderdrukkende werking van dit ouderwetsche ruilsysteem."
 
+## Account from *De Buitenbezittingen, Deel II, Aflevering 1* (1917) — hydrography and demographic frontier
+
+The Encyclopaedisch Bureau's earlier Sumatra-wide survey (Aflevering 1, Hoofdstuk I) describes Singkel as the *Indische Oceaan* outflow of the *Simpang Kin i* — the lower course of the [[Lao Alas|Lao Alas]] after its confluence with the *Lae Renoen*: "Na de vereeniging met de Lae Renoen neemt de Lao Alas nog de Lae Mbelin op … om dan als Simpang Kin i de Westelijke Barisanketenen te doorbreken en bij Singkel den Indischen Oceaan te bereiken." Even above Singkel, the Simpang Kin i also receives the *Simpang Kanan* or *Soelampi* river, which drains the *Kelasan Pak Pak* region of the upper-Baroes.
+
+The [[Nederlands-Indië contra Japan|Dutch WWII staff history]] separately describes Singkel as the demographic frontier between the Atjehnese and the Minangkabau-Batak populations: the *onderafdeeling* Singkel "viel dus eigenlijk buiten de Atjehse sfeer" (thus actually fell outside the Atjehnese sphere), its population being "hoofdzakelijk Minangkabauers en Batakkers." This demographic frontier was the geographical foundation of Singkel's role as the southern destination of the [[Evacuation of women and children from the Westkust of Atjeh (March 1942)|Westkust evacuation of March 1942]] — the *onderafdeeling* lying outside the [[F-beweging|F. beweging]]'s zone of mobilisation. The *cultuuronderneming* [[Lae Boetar|Lae Boetar]], 60 km north-east of Singkel, was the site of the resulting [[Capitulation at Lae Boetar (29 March 1942)|capitulation of 29 March 1942]].
 
 ## See Also
 
@@ -57,14 +62,23 @@ Before the Dutch arrival, *De Buitenbezittingen* explains, the Alas-vallei had b
 - [[Alasweg]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]
 - [[Nota-Ypes]]
+- [[Lao Alas]]
+- [[Bakongan]]
+- [[Evacuation of women and children from the Westkust of Atjeh (March 1942)]]
+- [[Nederlands-Indië contra Japan]]
 - [[1840]]
 - [[1881]]
 - [[1902]]
 - [[1905]]
 - [[1917]]
+- [[1942]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 11, 22–23, 25, 38, 60–63, 216.
+
+*De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), pp. 28–29.
+
+*Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V, p. 120.

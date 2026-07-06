@@ -17,6 +17,12 @@ Even west of the present *bestuursvestiging* [[Takengën|Takengën]], the *Laoet
 
 The shores of the *Laoet Tawar* are the demographic core of the [[Gajo Loeës|Gajo Loeës]]. The great kampong of *Bintang* — seat of the *Boekét Ewéh* branch of the [[Kédjoerön Boekét|Kédjoerön Boekét]] house — lies on its eastern shore; the *bestuursvestiging* of [[Takengën|Takengën]] lies on its western shore; the small shore settlements of *Kenawa*, *Towéran*, *Rawé*, and *Nosan* occupy the enclosed plains along its banks. The *Kédjoerön Pétiambang* — the titular overlord of the Gayo Loeës whose authority had, by the colonial period, decayed into a *theoretisch gezag* — had his seat at *Penampacian* on the lake shore.
 
+## Account from *De Buitenbezittingen, Deel II, Aflevering 1* (1917) — hydrography and orographic setting
+
+The Encyclopaedisch Bureau's earlier Sumatra-wide survey (Aflevering 1, Hoofdstuk I) places the Laoet Tawar on the *rand* of the *Gajosche Centraalgebergte*, between the [[Geureudong|Geureudong I (71)]] and [[Boer ni Telong|Boer ni Telong (73)]] volcanoes, and among the second category of Sumatran *kratermeren* (crater lakes). The lake's waters drain through the *Kroeëng Keureutë* to the *Noordkust* of Atjeh, forming the principal hydrographical connection between the Gayo hoogvlakte and the Noordkust *kustvlakte*; its *stroomgebied* includes the hoogvlakte of [[Takengon|Takengon]] and [[Ketol|Ketol]].
+
+In the [[Nederlands-Indië contra Japan|Dutch WWII staff history's]] Atjeh chapter, the Laoet Tawar's *rand* at Takengon is the site of [[Major W. F. Palmer van den Broek|Palmer van den Broek]]'s [[19 March 1942]] capitulation, of Lt [[H. van Zanten|Van Zanten]]'s [[Van Zanten's resistance (March 1942 – March 1943)|post-capitulation resistance]], and of Lt [[L. C. G. F. Onvlee|Onvlee]]'s post-war brief of the Korpscommandant on the [[safeguarding of the vaandel of the Korps Maréchaussee|safeguarding of the vaandel]].
+
 ## See Also
 
 - [[Gajoland]]
@@ -29,7 +35,20 @@ The shores of the *Laoet Tawar* are the demographic core of the [[Gajo Loeës|Ga
 - [[Kédjoerön Pétiambang]]
 - [[Gajo-weg]]
 - [[Bireuën]]
+- [[De Buitenbezittingen, Deel II, Aflevering 1]]
+- [[Ketol]]
+- [[Kroeëng Keureutë]]
+- [[Gajoesche Centraalgebergte]]
+- [[Geureudong]]
+- [[Boer ni Telong]]
+- [[Major W. F. Palmer van den Broek]]
+- [[H. van Zanten]]
+- [[L. C. G. F. Onvlee]]
+- [[1917]]
+- [[1942]]
 
-## Source
+## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 4–6, 9.
+
+*De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), pp. 12–13, 17–20.

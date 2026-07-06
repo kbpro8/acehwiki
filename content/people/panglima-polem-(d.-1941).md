@@ -10,6 +10,8 @@ tags: [person, achehnese, sagihoofd, colonial, dutch, atjeh, oranje-nassau, 20th
 
 The Panglima Polem line was the senior *sagihoofd* lineage of the [[XXII Moekims|XXII moekims]] of [[Groot-Atjeh|Groot-Atjeh]] — the western sagi of the Atjeh river valley, whose territory centred on [[Seulimeum|Seulimeum]] in the interior. The *sagihoofd* was the senior Atjehnese chief of the sagi, below the sultan but above the *uleëbalang* (district chiefs). The XXII moekims were the sagi whose chiefs had — in the account of the [[Nederlands-Indië contra Japan|staff history]] and of earlier colonial sources — historically provided the principal resistance to the Dutch in the central phase of the [[Atjeh War|Atjeh War]].
 
+The staff history glosses the title *Panglima Polem* itself: the special position of this *sagihoofd* is already apparent from his title Polem, which means elder brother (namely, of the former Sultan of Atjeh). The title thus marked the *sagihoofd* of the XXII moekims as the elder brother of the former sultan, and the *sagihoofd*'s authority in the Seulimeumse rested on this claim of royal kinship — a claim that was both a political and a dynastic institution.
+
 The Panglima Polem who died in [[1941]] was the last of the line who had actively supported the Dutch colonial administration. His grandfather or great-grandfather — depending on the genealogical account — was the Panglima Polem who had submitted to the Dutch in the early consolidation phase and been rewarded with the continuation of the *sagihoofd* position. The exact generation count is not given in the [[Nederlands-Indië contra Japan|staff history's]] account.
 
 ## His conduct as a "legendary hero"
@@ -26,7 +28,11 @@ The [[Nederlands-Indië contra Japan|staff history]] records: *"De dood van Pang
 
 ## The eldest son's succession and the Dutch political risk
 
-The staff history records that Panglima Polem's eldest son succeeded him as *sagihoofd* of the XXII moekims, and that this successor was *"politiek practisch openlijk anti-Hollands ingesteld"* — politically almost outspokenly anti-Dutch in orientation. The eldest son's succession is the staff history's principal instance of the loss of the Dutch political anchor in the Seulimeumse, and the immediate political context of the [[F-beweging|F. beweging]] rising of February [[1942]]: it was in the *sagi der XXII moekims* around [[Seulimeum|Seulimeum]] that the F. beweging sabotage wave broke on the night of [[19 February]]–[[20 February 1942]].
+The staff history records that Panglima Polem's eldest son succeeded him as *sagihoofd* of the XXII moekims, and that this successor was *"politiek practisch openlijk anti-Hollands ingesteld"* — politically almost outspokenly anti-Dutch in orientation. The eldest son enjoyed a poor reputation and had often had to be corrected by his father; politically he was almost outspokenly anti-Dutch in orientation, and during a stay on Java he had sought contact with extremist nationalist circles. On his return to Atjeh he showed great interest in the [[Poesa|Poesa]] movement, whose anti-Dutch character he saw through clearly. The Dutch government nonetheless accepted his succession under the principle that the eldest son was in the first place predestined to succeed — though the staff history records that those who placed no confidence in the new *sagihoofd* had, in the event, seen correctly. The eldest son's succession is the staff history's principal instance of the loss of the Dutch political anchor in the Seulimeumse, and the immediate political context of the [[F-beweging|F. beweging]] rising of February [[1942]]: it was in the *sagi der XXII moekims* around [[Seulimeum|Seulimeum]] that the F. beweging sabotage wave broke on the night of [[19 February]]–[[20 February 1942]].
+
+## The flight of the eldest son
+
+When, on [[23 February 1942]], [[Major W. F. Palmer van den Broek|Palmer van den Broek]]'s [[Seulimeum-colonne|Seulimeum-colonne]] restored outward calm in the Seulimeumse, the fled chiefs — including Panglima Polem's eldest son — remained unfindable. The eldest son's flight, together with that of the other fled chiefs of the Seulimeumse, is the staff history's principal instance of the F-beweging's penetration of the *sagihoofd* institution, and the principal Dutch political failure of the pre-invasion rising.
 
 ## Significance
 
@@ -44,6 +50,9 @@ Panglima Polem (d. [[1941]]) is the [[Nederlands-Indië contra Japan|staff histo
 - [[Oranje Nassau (Orde van Oranje Nassau)]]
 - [[Atjeh War]]
 - [[G. F. V. Gosenson]]
+- [[Major W. F. Palmer van den Broek]]
+- [[Seulimeum-colonne]]
+- [[Poesa]]
 - [[1941]]
 - [[1942]]
 

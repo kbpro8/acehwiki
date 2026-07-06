@@ -18,7 +18,7 @@ Total as of 1 January [[1940]]: 7 brigades. Bakongan was the principal Dutch pos
 
 ## The evacuation to Malakka (December 1941)
 
-The [[Nederlands-Indië contra Japan|staff history]] records that the VIde Divisie Maréchaussee was evacuated from Bakongan at the end of December [[1941]] and sent to [[Malakka|Malakka]] under Captain Supheert. The evacuation to Malakka was part of the broader redeployment of Dutch forces in the context of the Japanese advance through Southeast Asia: with the [[Malayan campaign|British retreat in Malaya]] and the anticipated Japanese invasion of Sumatra, the Dutch colonial command transferred the VIde Divisie from its Atjeh posting to reinforce the Malakka theatre.
+The [[Nederlands-Indië contra Japan|staff history]] records that the bivaks at [[Tapatoean|Tapatoean]] and Bakongan were evacuated at the end of December [[1941]] by the eight brigades of Maréchaussee stationed there. The eight brigades — the four from Tapatoean plus the seven from Bakongan, less three left behind at [[Lho Seumawé|Lho Seumawé]] — were sent under Captain T. J. F. M. Supheert via [[Medan|Medan]] to [[Malakka|Malakka]] to conduct guerrilla warfare there on behalf of the Allies. The evacuation to Malakka was part of the broader redeployment of Dutch forces in the context of the Japanese advance through Southeast Asia: with the [[Malayan campaign|British retreat in Malaya]] and the anticipated Japanese invasion of Sumatra, the Dutch colonial command transferred the VIde Divisie from its Atjeh posting to reinforce the Malakka theatre. The vacated Bakongan bivak was later reoccupied as a concentration point by the Westkust evacuee convoys of March [[1942]].
 
 The evacuation of the VIde Divisie reduced the Dutch Maréchaussee presence on the Westkust of Atjeh at a critical moment — the months immediately before the Japanese landings of [[12 March 1942]].
 
@@ -36,10 +36,13 @@ The 6de (VIde) Divisie Maréchaussee is significant in the [[Nederlands-Indië c
 - [[L. H. J. Kloprogge]]
 - [[Major W. F. Palmer van den Broek]]
 - [[Japanese invasion of Atjèh]]
+- [[Tapatoean]]
+- [[Lho Seumawé]]
+- [[Medan]]
 - [[1940]]
 - [[1941]]
 - [[1942]]
 
 ## Source
 
-*Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 115–120.
+*Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 114–121.
