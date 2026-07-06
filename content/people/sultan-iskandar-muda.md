@@ -34,6 +34,14 @@ Meukuta Alam appears, *par excellence* the prince of old Acheh, on the [[Sarakat
 
 Iskandar Muda's reach is recorded in the political vocabulary of the territory the Dutch inherited. The [[Kawaj XVI]] — the sixteen-chieftain federation on the West Coast — originated in a delegation of sixteen chiefs from the Meulabôh region who, "in het jaar 1185 Moh. tijdr. (± [[1760]] n. Chr.)," made their appearance at the Sultan's court to receive *sarakata*'s. The [[Kawaj XII]] of the Pedir highlands similarly commemorates the twelve gold-seeker settlements that paid the Sultan an annual *boengkaj* of gold dust. The Sultanate's reach into the [[Alaslanden]] is also associated with Iskandar Muda's epoch.
 
+## Account from *Geschiedkundige Atlas van Nederland* (1928) — relations with the VOC
+
+Iskander Moeda (as this source renders his name) was a declared enemy of the [[Portuguese]], making him a potential ally of the [[Dutch East India Company|VOC]] in its struggle for control of the [[Strait of Malacca]]. His reign was marked by military campaigns and a complex relationship with the Company, which both sought his support and feared his ambitions.
+
+The VOC saw Iskander Moeda as a useful counterweight against the Portuguese at [[Malakka]]. However, his "zeer militante neigingen" (very militant tendencies) also made him a threat to the Company's pepper trade, as he interfered with commerce in areas like [[Indragiri]], over which he claimed sovereignty. The Company therefore hesitated to accept his open support, fearing his expansionist policies.
+
+In [[1629]], Iskander Moeda launched a large naval expedition against Malakka, which the VOC watched with satisfaction, hoping that both the Acehnese and the Portuguese would exhaust each other. However, the Acehnese fleet was decisively defeated by the Portuguese admiral Botelho. His daughter, [[Sultan Tajul-alam|Tajul-alam]], succeeded — via her husband and Iskandar Muda's own successor [[Iskandar Thani]] — to the throne in [[1641]], and continued the relationship with the VOC, signing the [[Dutch–Aceh Treaty of 1641|1641]], [[Dutch–Aceh Treaty of 1649|1649]] and [[Treaty of 1650 on Perak Tin|1650]] treaties that granted the Company trading concessions on the West Coast of Sumatra and the Perak tin trade. His conflict with the Portuguese and his ambitions in the Malay Peninsula shaped the geopolitical landscape that the VOC had to navigate throughout the 17th century — see also [[VOC trading post at Aceh]], the Company's intermittent factorij established during his reign.
+
 ## The Hikayat Malem Dagang
 
 He is portrayed in the legend-poem as receiving the defecting prince Raja Raden and his brother Si Ujut from Malacca, granting them territory, and then leading a great naval expedition after Si Ujut's treachery. He is sometimes anachronistically credited by the Achehnese with introducing Islam to Acheh, though Islam pre-dates him by two centuries. His tomb in the ancient gampong Kuta Alam is revered, and the name Meukuta Alam is probably preserved in that gampong's name. His successor had the disciples of the heretical mystic Hamzah Pansuri put to death and his books burned.
@@ -59,11 +67,18 @@ Sultan Iskandar Muda is significant across multiple sources as the Acehnese sun-
 - [[Alaslanden]]
 - [[Oost-Indisch Journael]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
+- [[Sultan Tajul-alam]]
+- [[VOC trading post at Aceh]]
+- [[Dutch–Aceh Treaty of 1641]]
+- [[Indragiri]]
+- [[Portuguese]]
 - [[1607]]
 - [[1613]]
 - [[1618]]
 - [[1628]]
+- [[1629]]
 - [[1636]]
+- [[1641]]
 - [[1760]]
 
 ## Sources
@@ -71,3 +86,4 @@ Sultan Iskandar Muda is significant across multiple sources as the Acehnese sun-
 - *The Achehnese*, Vol. I and Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 - *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 30–31, 47–48, 54–55, 96–97, 121.
 - *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja and the chapter *Atjeh's Transport-Olifanten*.
+- *Geschiedkundige Atlas van Nederland: De Archipel en het Maleische Schiereiland in 1619 – Idem in 1650 – De Compagnie buiten den Archipel in 1650*, by Dr. F. W. Stapel ('s-Gravenhage: Martinus Nijhoff, 1928), pp. 25–26, 30.
