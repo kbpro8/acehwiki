@@ -1,0 +1,50 @@
+---
+title: Atjèh's accession to the Negara Islam Indonesia (1953)
+aliases: [Aceh DI/TII rebellion, Atjeh rebellion of 1953, Daud Beureuh rebellion, Negara Islam Indonesia in Atjeh]
+tags: [event, achehnese, religious, rebellion, military, post-colonial]
+---
+
+**Atjèh's accession to the Negara Islam Indonesia** was the armed rebellion proclaimed on [[21 September]] [[1953]] by [[Teungkoe Moehamad Daoed Beureu-éh|Teungkoe Moehamad Daoed Beureu-éh]], by which Atjeh joined the [[Negara Islam Indonesia]] (N.I.I.) led by the Imam [[Kartosuwirjo|Kartosuwirjo]] and took up arms against the Republic of Indonesia. Henri J. H. Alers's *Om een rode of groene Merdeka* devotes a full chapter to the episode, treating it as the culmination of years of friction between Atjeh's autonomous, Ulama-led administration and a central government in [[Djakarta]] bent on unification — and as a rebellion whose strategic importance, unlike the parallel risings in [[West Java|West Java]] and South Celebes, threatened to become genuinely international in scope.
+
+## Background: from autonomy to incorporation into North Sumatra
+
+Since the [[Ulama–Uleëbalang social revolution in Atjeh (1945–1946)|1945–1946 social revolution]], Atjeh had been governed, in practice if not always in law, as a self-contained Ulama state under Teungkoe Moehamad Daoed Beureu-éh as republican military governor. A visit by the head of the Republic's Emergency Government, [[Mr. Sjafrudin Prawiranegara|Sjafrudin Prawiranegara]], in [[August]] [[1949]] confirmed Atjeh's status as a *de jure* autonomous province, only for the central government to partially disavow the concession — and then, in early [[1951]], to fold Atjeh into the merged province of [[North Sumatra]] alongside [[Tapanoeli]] and the former federal state of [[East Sumatra]], reducing it to a mere residency under a Javanese resident-coordinator, [[Danubroto|Danubroto]]. Daoed Beureuh, removed from the governorship and denied any further role, began from [[1951]] onward denouncing central-government officials as "*kafirs*" (unbelievers) — a charge Alers reads as reflecting his genuine conviction that the Republic's own revolutionary legitimacy and his own Islamic revolution shared common roots that Djakarta refused to recognise.
+
+## The political trigger of 1953
+
+Alers argues that Daoed Beureuh restrained himself so long as the national government remained in [[Masjumi]] hands, under Prime Ministers [[Dr. Sukiman Wirjosandjojo|Sukiman Wirjosandjojo]] and [[Mr. Wilopo|Wilopo]]. The fall of Wilopo's cabinet after the [[17 oktober-affaire|17 October 1952]] crisis, and the formation on [[1 August]] [[1953]] of a cabinet under [[Mr. Ali Sastroamidjojo|Ali Sastroamidjojo]] from which Masjumi was excluded, removed his last motive for patience.
+
+## Warning signs and the proclamation
+
+By early September 1953 the Atjeh police coordinator, [[Njakumar|Njakumar]], had begun placing guards on public buildings in response to intelligence; an illegal arms shipment was intercepted at Pangkalan Bandan on [[11 September]], the post at [[Kuala Simpang|Kuala Simpang]] was fired on by [[16 September]], and by [[19 September]] the authorities held a nearly complete plan for an attack on [[Kutaradja|Kota-Radja]]. On [[20 September]] the uprising became general, and on [[21 September]] [[1953]] Atjeh's accession to the Negara Islam Indonesia was formally proclaimed. Kartosuwirjo named Daoed Beureuh his governor for Atjeh, and the *[[Prang sabi|prang sabil]]* — holy war — against the "*kafir* government" began immediately. Green-and-white, or sometimes plain green, flags bearing the crescent and star were raised across the province; telephone lines were cut, railway track torn up, and numerous raids carried out.
+
+## Military dimensions
+
+Pamphlets announced that the rebel forces, too, had been consolidated into a *Tentara Islam Indonesia*, styled in Atjeh as **Divisie Tje' Dit'Do**; Atjeh itself became the N.I.I.'s Vth military territory (North Sumatra having been the Republic's Ist). Desertions from the T.N.I. to the rebel T.I.I. occurred on a considerable scale — Alers cites the case of an Ibrahim Salek at Sidikalang, whose entire company deserted save for its non-Atjèhnese members — and the regents of [[Langsa|Langsa]] and [[Takengon|Takengon]] disappeared on the very first day of the revolt. Government police posts at [[Peureula|Peureula]], [[Alue Gading|Alor Gading]], [[Langsa|Langsa]], [[Sigli|Sigli]], [[Idi|Idi]], [[Meulaboh|Meulaboh]], and Alor Pidi were attacked as early as [[20 September]], and a major assault was launched on [[Loh Semawe|Loh Semawée]]; hundreds of republican loyalists evacuated to [[Medan|Medan]], and the evacuation of the small European population also began. By [[27 September]] [[1953]] — not yet a week after the proclamation — nearly all of Atjeh was in rebel hands. [[Groot Atjeh|Groot Atjeh]] joined the N.I.I. as a body under [[Teuku Sulaiman Daud|Teuku Sulaiman Daud]]; government forces held only around [[Kutaradja|Kota-Radja]] and [[Langsa|Langsa]] on the East Coast, the garrison at [[Kutatjané|Kuta Tjané]] in Central Atjeh, and [[Meulaboh|Meulaboh]] and [[Tapatoean|Tapatoean]] on the West Coast — even these under continual pressure. Rebels attacked an Alri naval vessel landing arms for Kota-Radja on [[24 September]].
+
+## International dimension and the government's strategy
+
+Alers stresses that Atjeh's rebellion, unlike the parallel risings of [[Kahar Muzakkar|Kahar Muzakkar]] in South Celebes, carried real international risk. He notes that the World Muslim Conference's secretary-general, Inamullah Khan, declared on [[27 September]] [[1953]] that Muslim states should side with the West against any "red" cause — a declaration Kartosuwirjo seized on, circulating a pamphlet to foreign embassies in Djakarta charging the Republic's government with serving as an instrument of international communism. Alers connects this to the contemporaneous secret negotiations between the United States and Pakistan over arms deliveries, and observes that President [[Soekarno|Sukarno]], speaking at [[Bone|Bone]] on [[14 October]] [[1953]], alleged that Kartosuwirjo had sought American aid — an appeal Alers judges could only sensibly concern the strategically significant Atjeh, given the negligible strategic value of South Celebes. Recognising this risk, the government adopted a deliberate strategy of first securing the coasts, the main roads, and the principal towns of Atjeh, reducing the conflict as quickly as possible to the scale of "roving bands in the interior" so as to forestall any international complication.
+
+## The reconquest
+
+The task of reconquest fell to Colonel [[Simbolon|Simbolon]] of Territorium I, Bukit Barisan. His counter-offensive, launched in early October 1953, retook [[Seulimeum|Seulimeum]] and [[Bajeunen|Bajeunen]] on [[3 October]], [[Meureudu|Meureudu]] after heavy fighting on [[10 October]], [[Blangkedjeren|Blangkedjeren]] and [[Bireuën|Biruën]] on [[20 October]], and finally [[Takengon|Takengon]] on [[24 November]] [[1953]] in a pincer movement from Blangkedjeren and Bireuën. By the end of November 1953, all major towns and connecting roads were back in government hands, sharply curtailing arms smuggling from [[Singapore|Singapore]], although sporadic fierce attacks continued and, as in West Java and South Celebes, the underlying insurgency became a protracted, unresolved affair. On [[20 October]] [[1953]] [[Mr. S. M. Amin|Mr. S. M. Amin]] took office as the new Governor of [[North Sumatra]], an appointment Alers judges was received with considerable local scepticism.
+
+## See Also
+
+- [[Teungkoe Moehamad Daoed Beureu-éh]]
+- [[Teuku Sulaiman Daud]]
+- [[Njakumar]]
+- [[Kolonel Simbolon]]
+- [[Mr. S. M. Amin]]
+- [[Negara Islam Indonesia]]
+- [[Poesa]]
+- [[Formation of the Province of North Sumatra (1951)]]
+- [[Danubroto]]
+- [[Kutaradja]]
+- [[Takengon]]
+- [[1953]]
+
+## Source
+
+*Om een rode of groene Merdeka: Tien jaren binnenlandse politiek Indonesië, 1943–1953*, by Henri J. H. Alers (Eindhoven: Uitgeverij Vulkaan, 1956), Chapter VII §35 "De Negara Islam Indonesia in Atjeh," pp. 265–274.

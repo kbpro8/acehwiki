@@ -17,16 +17,24 @@ The *landschap* Idi Rajeu' was one of the eight *landschappen* of the *onderafde
 
 The introduction of Teukoe Tjhi' Moehamad Daoed Sjah in Piekaar's account — alongside the other *oelèëbalang*'s who "came to the fore" in the late colonial administration — illustrates the political landscape of pre-war Atjèh: a network of self-governing rulers, linked by family ties and political alliances, whose cooperation with the Dutch administration was the principal instrument of indirect rule. The Tjhi' family — with its branches in Peusangan, Idi Rajeu', and the Kawaj XVI — was one of the principal nodes of this network, and its members' fates in the events of [[1942]] would shape the political reorganisation of the residency under the Japanese occupation.
 
+## A possible post-war successor to Teukoe Nja' Arif (1946)
+
+Henri J. H. Alers's *Om een rode of groene Merdeka* records that when the republican *oelèëbalang*-administrator [[Teukoe Nja' Arif|Teukoe Nja' Arif]] died in [[April]] [[1946]] while interned by the [[Poesa|Poesa]], he was succeeded as nominal head of Atjeh's administration by an *oelèëbalang* Alers names as "Teuku Tjhi Muhamad Daud Sjah" — a figure Alers describes as no more than "a willing instrument in the hands of the great man behind the scenes," [[Teungkoe Moehamad Daoed Beureu-éh|Teungkoe Moehamad Daoed Beureu-éh]], who had by then made himself head of the *Dienst van Godsdienstzaken* (Service of Religious Affairs). Alers does not indicate whether this figure is identical with the *oelèëbalang* of [[Idi Rajeu'|Idi Rajeu']] documented by Piekaar under the same name and title, and given how widely the honorific *Tjhi'* was shared across branches of the wider [[Teukoe Tjhi' Moehamad Djohan Alam Sjah|Tjhi' family]], the identification must be treated as tentative rather than established.
+
 ## See Also
 
-- [Idi Rajeu']
-- [Idi]
-- [Teukoe Hadji Tjhi' Moehamad Djohan Alam Sjah]
-- [Teukoe Tjhi' Moehamad Ali Akbar]
-- [Teukoe Tjhi' Moehamad Thajéb]
-- [Oelèëbalang]
-- [Poesa]
+- [[Idi Rajeu']]
+- [[Idi]]
+- [[Teukoe Hadji Tjhi' Moehamad Djohan Alam Sjah]]
+- [[Teukoe Tjhi' Moehamad Ali Akbar]]
+- [[Teukoe Tjhi' Moehamad Thajéb]]
+- [[Oelèëbalang]]
+- [[Poesa]]
+- [[Teukoe Nja' Arif]]
+- [[Teungkoe Moehamad Daoed Beureu-éh]]
 
-## Source
+## Sources
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I, § 2.
+
+*Om een rode of groene Merdeka: Tien jaren binnenlandse politiek Indonesië, 1943–1953*, by Henri J. H. Alers (Eindhoven: Uitgeverij Vulkaan, 1956), Chapter II §9 "Atjeh," p. 91.

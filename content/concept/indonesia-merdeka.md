@@ -19,7 +19,7 @@ Like its predecessor, Indonesia Merdéka was immediately subordinated to the war
 
 ## Significance
 
-Piekaar observes that "however little trust one may have placed in a realization by Japan of the Indonesia Merdéka-idea," the idea — together with the anti-Western propaganda that accompanied it — "found fertile soil in the hearts of the Atjèhnese population." Together with the religious institutionalisation of the [[Poesa|Poesa]], the Indonesia Merdéka campaign laid the groundwork for the rapid alignment of Atjèh with the [[17 August]] [[1945]] Republic after the capitulation.
+Piekaar observes that "however little trust one may have placed in a realization by Japan of the Indonesia Merdéka-idea," the idea — together with the anti-Western propaganda that accompanied it — "found fertile soil in the hearts of the Atjèhnese population." Together with the religious institutionalisation of the [[Poesa|Poesa]], the Indonesia Merdéka campaign laid the groundwork for the rapid alignment of Atjèh with the [[17 August]] [[1945]] Republic after the capitulation. The historian Henri J. H. Alers later treated this same wartime moment — Sukarno's and [[Teungkoe Moehamad Daoed Beureu-éh|Daoed Beureuh]]'s parallel appeals "over the heads of the Japanese authorities" — as the starting point of his comparative "red"/"green" framework for the Indonesian revolution as a whole; see [[Red or Green Merdeka (Alers's comparative framework)]].
 
 ## See Also
 
@@ -30,9 +30,12 @@ Piekaar observes that "however little trust one may have placed in a realization
 - [[Teukoe Nja' Arif]]
 - [[Teungkoe Moehamad Daoed Beureu-éh]]
 - [[Koiso]]
+- [[Red or Green Merdeka (Alers's comparative framework)]]
 - [[1944]]
 - [[1945]]
 
-## Source
+## Sources
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Glossary and Chapter VII § 3.
+
+*Om een rode of groene Merdeka: Tien jaren binnenlandse politiek Indonesië, 1943–1953*, by Henri J. H. Alers (Eindhoven: Uitgeverij Vulkaan, 1956), Chapter II §9 "Atjeh," p. 84.
