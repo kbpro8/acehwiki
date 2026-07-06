@@ -138,6 +138,10 @@ Key campaigns included:
 
 The Aceh War was the largest and most costly colonial conflict in Dutch history, with over 7,000 Dutch soldiers killed and an estimated 30,000–50,000 Acehnese casualties. It marked the final extension of Dutch control over Sumatra and established patterns of colonial governance—including the "Short Declaration" (*Korte Verklaring*) system of indirect rule—that would shape the entire Netherlands East Indies.
 
+## Account from the Topografische Dienst catalogue (1933) — the chronological overview map
+
+The **Aceh War**'s status as a formally periodised episode of Dutch colonial history is confirmed by the [[Topografische Dienst|Topografische Dienst]]'s issue of a "Historisch-Chronologische overzichtskaart van den Atjeh-oorlog (1873 t/m 1896)" (Historical-Chronological Overview Map of the Aceh War, 1873 to 1896). This map, at a scale of 1:1,000,000, was printed in colour and sold for f0.50. Its existence — listed in the 1933 catalogue of the Topografische Dienst as a single sheet, with no year of original issue or reprint given, but still available for purchase at that time — confirms that the Dutch colonial administration considered the war a defined period running from [[1873]] to [[1896]], and that a specialized cartographic product was created to document its events chronologically and geographically. The map's terminal date of [[1896]] corresponds to the resumption of the war under [[Governor Van Heutsz|Van Heutsz]] described above; the existence of a dedicated historical-chronological map underscores the war's importance to the colonial state as a subject of official documentation and commemoration, and its timeline of [[1873]]–[[1896]] remains a key reference point for understanding the period of Dutch intervention in northern Sumatra.
+
 ## See Also
 - [[C. Snouck Hurgronje]]
 - [[Great Acheh]]
@@ -191,6 +195,9 @@ The Aceh War was the largest and most costly colonial conflict in Dutch history,
 - [[General Köhler]]
 - [[General Van Swieten]]
 - [[Van Daalen's Gajo Expedition]]
+- [[Topografische Dienst]]
+- [[Submission of Aceh]]
+- [[Keuchenius]]
 
 ## Sources
 
@@ -199,3 +206,5 @@ The Aceh War was the largest and most costly colonial conflict in Dutch history,
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 33–36, Bijlage IV–V.
 
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
+
+*Opgave van Kaarten, Legenda, Verslagen, enz. verkrijgbaar bij den Beheerder der Kaarten van den Topografischen dienst te Weltevreden. Bijgewerkt tot 1 Januari 1933.* (Bijlage LLL). Geologisch Instituut der Universiteit van Amsterdam. LB 08841, pp. 827*-828*.

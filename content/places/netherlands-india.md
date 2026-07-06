@@ -33,11 +33,21 @@ The [[Acheh treaty of 1819|Acheh treaty]] of April [[1819]], concluded by Raffle
 Van der Kemp's concluding pages draw the wider moral that "the political complications with England or its servants since the restoration of the Dutch authority in the East Indian archipelago brought to mind many a time how the same questions, the same manners, the same ways of speaking on the English side recur in the study of history." He draws explicit comparison between [[Raffles' raid on Palembang (1819)|Raffles's raid on Palembang]] in 1819 and the [[Jameson's raid comparison|Jameson raid]] on the [[Transvaal]] a century later — an analogy that frames Netherlands India's experience as one chapter in a recurring pattern of British frontier encroachment against colonial spheres of influence.
 
 
+## Account from Keuchenius's 1905 letter — Nederlandsch-Indië and colonial economic reform
+
+**Nederlandsch-Indië** is also the overarching context for the [[Submission of Aceh|submission of Aceh]] and the broader economic and administrative reforms proposed in the [[1905]] letter by [[Keuchenius|W. H. J. Keuchenius]] to Governor-General [[J. B. van Heutsz]]. Aceh was a part of the Dutch East Indies, though it retained a distinct political and cultural identity. The successful campaign to pacify Aceh, as championed by Van Heutsz, was a significant event in the history of the colony. Keuchenius, in his letter, argues that the economic health of the entire colony of Nederlandsch-Indië depends on reforms in trade representation, the private sector, and the Chinese question, placing Aceh's pacification as a precedent for a broader colonial revival — see [[Kracht van wapenen]].
+
 ## See Also
 
 - [[C. Snouck Hurgronje]]
 - [[A.W.S. O'Sullivan]]
 - [[Governor Van Heutsz]]
+- [[Keuchenius]]
+- [[Submission of Aceh]]
+- [[Kracht van wapenen]]
+- [[Atjeh-opstellen]]
+- [[1896]]
+- [[1905]]
 - [[Sultan of Acheh]]
 - [[Jaffur Shurreef]]
 - [[Pulau Pinang]]
@@ -64,3 +74,5 @@ Van der Kemp's concluding pages draw the wider moral that "the political complic
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*Brief aan Zijne Excellentie den Heere J. B. VAN HEUTSZ, Gouverneur-Generaal van Nederlandsch-Indië*, by W. H. J. Keuchenius (Batavia: Atelier A. M. Van Belkum & Co., 1905). BIBLIOTHEEK Dr ABRAHAM KUYPERSTICHTING, 3259 D 64 i 76, passim.
