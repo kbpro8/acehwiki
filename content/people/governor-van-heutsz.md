@@ -38,6 +38,10 @@ Van Heutsz was subsequently appointed Governor-General of the Netherlands East I
 
 Van Heutsz's legacy is double. As the conqueror of Aceh, he is the figure who, after twenty-five years of Dutch vacillation, finally brought the war to its military conclusion. As Governor-General, he oversaw the transition from military occupation to civil administration in Aceh, and the expansion of the ethical policy across the outer islands. In the broader colonial narrative, *De Buitenbezittingen* treats his governorship as the foundational moment of modern Atjeh administration; Dames's *Oom Ambon* treats his *systeem* as the tactical paradigm that shaped the colonial army's last generation of fighting men.
 
+## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — the governor who turned the war
+
+Dr. [[Johan Wøller]], a Danish physician serving in the Netherlands-Indies army around [[1905]], recorded the same turning-point in plainer, more personal terms. After twenty years in which "it looked as if a struggle and effort of twenty years was wasted" following the defection of [[Teukoe Oemar|Toekoe Oemar]], "the wait was for a man, who was at the same time a military leader and a statesman, and he came at the right moment, as so often in history." Wøller notes that "Van Heutz had already distinguished himself several times during the fighting in Atjeh as young officer; he had in '1892' published a brochure 'Atjehs onderwerping', in which he clearly set out the tactics and politics, that had to be followed to reach this goal, and now, when it looked darkest, the government turned to him; he was in March 1898 as young colonel appointed civil and military governor of Atjeh, and with that began the last and decisive phase of the long war." Within a remarkably short time, Wøller writes, Van Heutsz "blew a new spirit into the army; a band of young, gifted officers was trained in his school, and on all fronts a vigorous attack tactic introduced, that in the course of only a few years brought the whole country under a firm Dutch administration" — above all through "the brilliantly organized mobile columns, that used the own tactics of the Atjehnese and the same weapons as they."
+
 ## Account from *Dispereert Niet Vol. XI* (1946) — J. B. van Heutsz
 
 **J. B. van Heutsz** (Johannes Benedictus van Heutsz) was a Dutch military officer and colonial administrator who served as Governor of **[[Aceh]]** from [[1898]] to [[1904]] and as **Governor-General of the Netherlands East Indies** from [[1904]] to [[1909]]. He is best known for his successful pacification of **[[Aceh]]** during the **[[Aceh War]]**, which earned him a reputation as one of the most effective—and controversial—colonial commanders of the era.
@@ -115,6 +119,8 @@ Van Heutsz represents a pivotal figure in the transition from **nominal to effec
 - [[Teukoe Oema]]
 - [[Anglo-Dutch Treaty of London (1824)]]
 - [[Batêê Iliê]]
+- [[Johan Wøller]]
+- [[Kotta Loempoer]]
 
 ## Sources
 
@@ -125,5 +131,7 @@ Van Heutsz represents a pivotal figure in the transition from **nominal to effec
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938). Rijksarchief, Den Haag.
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Ooms leger," chapter "Dominee Thenu," and the *Nawoord*.
+
+*Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), p. 145.
 
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).

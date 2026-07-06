@@ -52,6 +52,10 @@ For the definitive regulation of the administration in Atjeh, Van der Heyden was
 
 By the Governor-General's decision, the civil and military commands were separated; the Lieutenant-general Van der Heyden was honourably discharged from his functions. [[A. Pruys van der Hoeven|Pruys van der Hoeven]] was appointed civil governor and [[J. F. Haus|Colonel J. F. Haus]] took the military command. Both assumed their functions on [[6 April]] [[1881]]. The discharge to Van der Heyden — "which set many pens in motion, and also gave rise to discussions in the [[Staten-Generaal|States-General]]" — was one of the last administrative acts of [[J. W. van Lansberge|Governor-General Van Lansberge]].
 
+## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — "the one-eyed general"
+
+Dr. [[Johan Wøller]], recalling the course of the [[Aceh War]] from his posting at [[Kotta Loempoer]] around [[1905]], singled out van der Heyden's brief triumph and its reversal: "already in the late years between 70 and 80 the capable, 'one-eyed' general van der Heyden had conquered [[Groot-Atjeh]], and subjected many of the foremost chiefs; it looked as if the war in short time could be brought to an end, when the Dutch suddenly changed tactics — partly perhaps for economic reasons: they withdrew into a defensive position around the capital and introduced a reconciliation policy with disastrous consequences." Wøller attributes much of the war's subsequent thirty-year duration to this reversal, which allowed "the fanatical Imams and the few irreconcilable chiefs" to regain their influence with the people.
+
 ## See Also
 
 - [[A. J. E. Diemont]]
@@ -70,7 +74,12 @@ By the Governor-General's decision, the civil and military commands were separat
 - [[Selimoen Expedition (August 1879)]]
 - [[Batoe Iliq Expedition (July 1880)]]
 - [[Hikajat prang Kompeuni]]
+- [[Johan Wøller]]
+- [[Kotta Loempoer]]
+- [[Groot-Atjeh]]
 
-## Source
+## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 94-115.
+
+*Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 144-145.

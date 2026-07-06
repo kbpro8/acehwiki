@@ -26,6 +26,12 @@ The [[Calcutta]] government, while ratifying the treaty, treated it coolly: it o
 
 Van der Kemp's portrait of Raffles in *Raffles' Atjeh-overeenkomst van 1819* ([[1900]]) is sharply critical but acknowledges his «great good sense» and «genial insight»; the historian contrasts his decisiveness with the bureaucratic caution of [[Colonel John Alexander Bannerman|Bannerman]] and [[Captain Coombs|Coombs]], even while condemning the «over-driving» by which he set aside his colleagues and superiors. Raffles's own justification of his conduct during the commission is preserved in his letter to [[O. F. Metcalfe]] of [[30 September 1819]] (printed as Appendix 5 of Van der Kemp's article) and in his well-known letter to [[Sir Robert Harry Inglis]] of [[12 January 1819]], in which he declared that he had «never had a more disagreeable duty».
 
+## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — Fort Marlborough and the Anglo-Dutch treaty
+
+Dr. [[Johan Wøller]], sailing north to [[Atjeh en Onderhorigheden|Atjeh]] in [[April]] [[1904]], put ashore at [[Benkoelen]] to view [[Fort Marlborough]] — "a real fort with walls and bastions and lunettes, where old cannons still powerless as greybeards stood threatening invisible enemies, while heavy balls rested in neat pyramids beside them." Wøller linked the fort directly to Raffles: "From here ruled Sir Stamford Raffles for five years over Sumatra, after England had to return Java to Holland; this was his last temporary grip on the Indies, which he had governed with such great foresight and as no white man before him had loved and understood." He noted that Raffles's residence there was later destroyed "by an earthquake — on the same day that the Austrian ultimatum was sent to Serbia" — and, contrasting Benkoelen's quiet decline with the settlement Raffles secured for Britain, credited him with having obtained, on relinquishing the fort, "a brilliant compensation — Singapore — which forever prevented that Further Asia became a closed Dutch continent."
+
+Wøller also identified Raffles as the architect of the restrictive [[Anglo-Dutch Treaty of 1824]] that bound Dutch policy toward Atjeh for the following half-century: it "was still the work of Raffles to prevent that the Netherlands would control both sides of Singapore Strait Malacca."
+
 ## See Also
 
 - [[Captain Coombs]]
@@ -40,7 +46,13 @@ Van der Kemp's portrait of Raffles in *Raffles' Atjeh-overeenkomst van 1819* ([[
 - [[Anglo-Dutch Treaty of London (1824)]]
 - [[Paper war]]
 - [[Dead letter]]
+- [[Fort Marlborough]]
+- [[Johan Wøller]]
+- [[Benkoelen]]
+- [[Anglo-Dutch Treaty of 1824]]
 
-## Source
+## Sources
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159-239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 140, 144.

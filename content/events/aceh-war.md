@@ -138,6 +138,16 @@ Key campaigns included:
 
 The Aceh War was the largest and most costly colonial conflict in Dutch history, with over 7,000 Dutch soldiers killed and an estimated 30,000–50,000 Acehnese casualties. It marked the final extension of Dutch control over Sumatra and established patterns of colonial governance—including the "Short Declaration" (*Korte Verklaring*) system of indirect rule—that would shape the entire Netherlands East Indies.
 
+## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — a doctor's memory of the war
+
+Dr. [[Johan Wøller|Johan Wøller]], a Danish physician who served as an officer of health in the Netherlands-Indies army and reached [[Atjeh en Onderhorigheden|Atjeh]] around [[1905]], recalled the war as the land "where since 1873, during more than thirty years, war had been waged, that they with all means, war on land, blockade at sea, promises and bribery, attempts at fragmentation and sincere approaches, had tried to suppress, — everything equally in vain."
+
+Wøller records that "in 1873 the first, large expeditions were sent there, which however were both poorly equipped and badly led; they had after a few engagements to embark and sail home again with significant losses." A second expeditionary army of 8,000 men and the entire available fleet arrived that December; "now [[Koeta-Radja|Kota Radja]] was conquered, and with that the war first began, that would last so long and be so bloody."
+
+He attributes the war's long duration less to Atjehnese arms than to "the unbelievably wavering and changing policy, that the Dutch pursued": the "capable, 'one-eyed' general [[K. van der Heyden|van der Heyden]]" had, in the late 1870s, conquered [[Groot-Atjeh]] and subjected many chiefs, only for the Dutch to withdraw into a defensive posture and a disastrous reconciliation policy — allowing "the fanatical Imams and the few irreconcilable chiefs" to regain influence, and, in the 1890s, the defection of the erstwhile ally [[Teukoe Oemar|Toekoe Oemar]] to bring the whole effort to the brink of collapse.
+
+The turn came with [[J. B. van Heutsz|General Van Heutz]], "a man, who was at the same time a military leader and a statesman," appointed civil and military governor in March 1898 on the strength of his 1892 brochure *Atjehs onderwerping*. Wøller describes his brilliantly organised mobile columns — adopting the Atjehnese's own tactics and weapons — and a war fought "without quarter: no pardon was given, prisoners were not made... an endless series of forced, nerve-wracking marches, nightly surprises and ambushes, espionage and betrayal, acts of violence of every kind from both sides." For Wøller's own generation of Dutch officers, met at the garrison of [[Kotta Loempoer]] where he served, the word "Atjeh" meant precisely this three-decade war of attrition.
+
 ## Account from the Topografische Dienst catalogue (1933) — the chronological overview map
 
 The **Aceh War**'s status as a formally periodised episode of Dutch colonial history is confirmed by the [[Topografische Dienst|Topografische Dienst]]'s issue of a "Historisch-Chronologische overzichtskaart van den Atjeh-oorlog (1873 t/m 1896)" (Historical-Chronological Overview Map of the Aceh War, 1873 to 1896). This map, at a scale of 1:1,000,000, was printed in colour and sold for f0.50. Its existence — listed in the 1933 catalogue of the Topografische Dienst as a single sheet, with no year of original issue or reprint given, but still available for purchase at that time — confirms that the Dutch colonial administration considered the war a defined period running from [[1873]] to [[1896]], and that a specialized cartographic product was created to document its events chronologically and geographically. The map's terminal date of [[1896]] corresponds to the resumption of the war under [[Governor Van Heutsz|Van Heutsz]] described above; the existence of a dedicated historical-chronological map underscores the war's importance to the colonial state as a subject of official documentation and commemoration, and its timeline of [[1873]]–[[1896]] remains a key reference point for understanding the period of Dutch intervention in northern Sumatra.
@@ -198,6 +208,9 @@ The **Aceh War**'s status as a formally periodised episode of Dutch colonial his
 - [[Topografische Dienst]]
 - [[Submission of Aceh]]
 - [[Keuchenius]]
+- [[Johan Wøller]]
+- [[Kotta Loempoer]]
+- [[K. van der Heyden]]
 
 ## Sources
 
@@ -208,3 +221,5 @@ The **Aceh War**'s status as a formally periodised episode of Dutch colonial his
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
 
 *Opgave van Kaarten, Legenda, Verslagen, enz. verkrijgbaar bij den Beheerder der Kaarten van den Topografischen dienst te Weltevreden. Bijgewerkt tot 1 Januari 1933.* (Bijlage LLL). Geologisch Instituut der Universiteit van Amsterdam. LB 08841, pp. 827*-828*.
+
+*Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 143-146, 167.

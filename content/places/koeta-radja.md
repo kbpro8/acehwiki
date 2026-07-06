@@ -22,6 +22,10 @@ The [[Meusigit Raja]] is the well-known Mohammedan place of prayer in Aceh's cap
 
 When [[Dominee Thenu]] died on [[11 May]] [[1937]], his [[Funeral of Dominee Thenu (11 May 1937)|funeral]] was held at Koeta-Radja. Four retired [[Militaire Willemsorde (M.W.O.)|M.W.O.]]-ridders — [[Salawono]] (3e kl.), [[Pattiasina]], [[Kazen]] and [[Pattipuluhu]] — acted as *slippendragers*; a Marechaussee brigade served as *vuurpeleton*; he was buried at [[Peutjoet]]. "Vóór zijn kerkje in Koeta-Radja richtte Atjeh voor hem een standbeeld op" — before his little church in Koeta-Radja, Aceh erected for him a statue.
 
+## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller)
+
+Dr. [[Johan Wøller]], describing the fertile northern and eastern lowlands of [[Atjeh en Onderhorigheden|Atjeh]] that he sailed past in [[April]] [[1904]], noted that these had "formerly independent or vassal states under the sultan of [[Groot-Atjeh]] with his capital Kota Radja." During the [[Aceh War]], he recorded, "in December of the same year [1873] a new expeditionary army of 8,000 men and the entire fleet, that was available, arrived. Now Kota Radja was conquered, and with that the war first began, that would last so long and be so bloody."
+
 ## Significance
 
 Koeta-Radja is significant across all phases of the colonial history of Aceh. In *[[Oost-Indisch Journael]]* (Merac, [[1947]]), it is the capital and the place of the Meusigit Raja, the centre of the colonial state's religious politics. In *[[Oom Ambon van het K.N.I.L.]]* (Dames, [[1954]]), it is the principal garrison of the [[K.N.I.L.]], the place at which [[Dominee Thenu]] was placed, and the site of his funeral — the book's moral closure of the Aceh War: the men of courage carrying the man of faith, in the capital of the country they had fought forty-five years to subdue.
@@ -51,8 +55,12 @@ Koeta-Radja is significant across all phases of the colonial history of Aceh. In
 - [[1881]]
 - [[1933]]
 - [[1937]]
+- [[Johan Wøller]]
+- [[Aceh War]]
+- [[1904]]
 
 ## Sources
 
 - *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapter "Dominee Thenu."
 - *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja and the chapter on den zieleherder.
+- *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 143-145.

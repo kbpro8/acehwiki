@@ -207,6 +207,10 @@ After the **[[Aceh War]]** ended, the Dutch constructed modern harbor facilities
 
 Sabang remains an important port and naval station to the present day. Its strategic location has kept it relevant in both colonial and independent Indonesia.
 
+## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — a physician's arrival
+
+Dr. [[Johan Wøller]], a Danish physician bound for service in the Netherlands-Indies army, entered the East Indies through Sabang's harbour in early [[1904]]. Having heard, at a stop in [[Colombo]], the news of the outbreak of the [[Russo-Japanese War]] in [[February]] [[1904]], "some days later they entered the new harbor of Sabang. Netherlands-Indies, the tropics, the land where the adventure awaited him and his young wife, was reached." From Sabang, Wøller continued by sea to [[Atjeh en Onderhorigheden]], which he reached in [[April]] [[1904]].
+
 ## See Also
 - [[Pulo We|Poeloe We]]
 - [[N.V. Zeehaven en Kolenstation Sabang]]
@@ -248,6 +252,8 @@ Sabang remains an important port and naval station to the present day. Its strat
 - [[Aceh War]]
 - [[J. B. van Heutsz]]
 - [[Kutaradja]]
+- [[Johan Wøller]]
+- [[Atjeh en Onderhorigheden]]
 
 ## Sources
 
@@ -264,3 +270,5 @@ Sabang remains an important port and naval station to the present day. Its strat
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 48–51 (section "Het Havenwezen"), p. 63 (section "Post- Telegraaf- en Telefoondienst"), pp. 69–70 (section "De Atjeh-tram").
 
 *De Buitenbezittingen 1904*, in: *Mededeelingen van het Encyclopaedisch Bureau*. Batavia: G.C.T. van Dorp & Co., [ca. 1915], p. 308.
+
+*Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), p. 11.

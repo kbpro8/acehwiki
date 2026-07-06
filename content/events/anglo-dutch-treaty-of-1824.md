@@ -70,6 +70,10 @@ The treaty's provisions on Aceh were amended in [[1871]] to allow the Netherland
 
 The Treaty of London (1824) established the colonial framework for the Malay archipelago and shaped relations between British Malaya and the Dutch East Indies. Its provisions on Aceh, however, created a fifty-year period of instability that ultimately led to the Aceh War.
 
+## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — a doctor's summary of the treaty's legacy
+
+Dr. [[Johan Wøller]], recalling the background to the [[Aceh War]] he witnessed around [[1905]], gave a plain-spoken summary of this treaty's effect on Dutch policy toward [[Atjeh en Onderhorigheden|Atjeh]]: the Dutch "were until then bound by an old treaty (1824) with England, in which they obligated themselves to regulate their affairs with Atjeh in such a way, that this state *without losing its independence* would be brought to guarantee the safety of the white sailors and merchants, which could hardly be achieved, without a moderate European influence being exercised." He calls it "a very weakly formulated treaty, of which Atjeh moreover never got to know anything," and credits its restrictive character to [[Sir Stamford Raffles|Raffles]]'s determination "to prevent that the Netherlands would control both sides of Singapore Strait Malacca." Only once Dutch hands were freed in the early 1870s were the expeditions of 1873 launched.
+
 ## See Also
 - [[Anglo-Dutch Treaty of 1871]]
 - [[Treaty of Pedir (1819)]]
@@ -97,9 +101,12 @@ The Treaty of London (1824) established the colonial framework for the Malay arc
 - [[Aceh War]]
 - [[Raffles]]
 - [[Malacca]]
+- [[Johan Wøller]]
+- [[Atjeh en Onderhorigheden]]
 
 ## Sources
 
 - *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 - *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159-239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 - *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
+- *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), p. 144.

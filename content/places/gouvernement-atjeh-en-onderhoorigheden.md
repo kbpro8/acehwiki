@@ -70,6 +70,14 @@ By [[1913]], the Governorate's economy showed clear signs of transformation foll
 - **Labor:** The plantation economy relied heavily on recruited contract laborers. In [[1913]], the Governorate had **3,931 Javanese contract laborers** and **3,070 Javanese women** under the labor inspectorate.
 - **Infrastructure:** The [[Atjeh-tram|Atjeh tramway]] continued to expand, and the [[Koninklijke Paketvaart Maatschappij|K.P.M.]] maintained regular coastal services connecting the Governorate's ports to the wider archipelago.
 
+## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — geography, peoples, and history to 1873
+
+Dr. [[Johan Wøller|Johan Wøller]], a Danish physician who reached the coast of Atjeh by sea in [[April]] [[1904]] aboard the "Soembawa," described the *gewest* as occupying "about the eighth part of Sumatra, that has a form and area as [[Sweden]]" — "mountainous, covered by the last spurs of the [[Barisan Mountains|Barisanketen]] with peaks of 9 — 10,000 feet, almost everywhere covered by virgin forest," with "broad, alluvial areas" in the north and east that were "very fertile and very densely populated," formerly independent or vassal states under the sultan of [[Groot-Atjeh]] with his capital [[Koeta-Radja|Kota Radja]].
+
+Rounding the north point of Sumatra, Wøller recorded that the lowland widened: "green rice fields spread their checked velvet cloths at the foot of the mountains; the land was strewn with brown villages and traversed by the living water of countless streams and small rivers," while behind the plain the mountains rose "in quiet formations, in mighty terraces, from top to foot covered with primeval forest." He found the coast unlike [[Java]] — "no elegant and slender solitary volcano cones... but dark, torn mountain massifs" with "thousands of peaks, with razor-sharp points and ridges" — and the strand "narrow and covered with white sand," bordered by surf and "thousands and thousands of slender, bent coconut palms."
+
+Wøller described the population as "a mixed people, whose original core is unknown, but where Hindu-, Batak- and Malay elements are strongly represented," whose culture derived from nearby [[British India|Voor-Indië]], with Buddhist kingdoms formed in North Sumatra by the sixth and seventh centuries and Islam arriving with Arab traders in the twelfth to thirteenth. Slavery was common, "a great multitude of slaves... especially fetched from the large island [[Nias]] off the west coast," and "piracy and plundering expeditions were favorite occupations." Detailed history, he noted, was known "only from about [[1500]]" and consisted of "a long series of wars between the different landscapes and small kingdoms," periodically unified by a strong sultan whose armies even besieged Portuguese [[Malacca]] — provoking punitive bombardments by English, Dutch, Portuguese and American warships alike, none of which attempted actual conquest before the [[Aceh War|Atjeh-oorlog]] that began in [[1873]].
+
 ## Significance
 
 [[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]] is, in the Encyclopaedisch Bureau's account, the Buitenbezittingen gewest in which the post-[[1896]] Dutch project of "effective authority" was most fully and most recently realised. The combination of the rapid expansion of the [[Landschapskassen|landschapskassen]], the special 6:4 fiscal regime, the exceptional military command of the police, the unique peper- en pinanghasil revenues, and the systematic extension of the [[Atjeh-tram|Atjeh-tramway]] network all mark the gewest as the paradigmatic case of the post-pacification colonial order.
@@ -117,6 +125,11 @@ By [[1913]], the Governorate's economy showed clear signs of transformation foll
 - [[Rubber Industry in Atjeh]]
 - [[Opiumregie in Atjeh]]
 - [[Gajo-Loeos]]
+- [[Johan Wøller]]
+- [[Fort Marlborough]]
+- [[Sabang]]
+- [[Kotta Loempoer]]
+- [[1904]]
 
 ## Sources
 
@@ -125,3 +138,5 @@ By [[1913]], the Governorate's economy showed clear signs of transformation foll
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 2–3, 9–10, 12, 17, 19, 53, 68–72.
 
 *De Buitenbezittingen 1904*. In: *Mededeelingen van het Encyclopaedisch Bureau*. Batavia: G.C.T. van Dorp & Co., [ca. 1915].
+
+*Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 131-145.

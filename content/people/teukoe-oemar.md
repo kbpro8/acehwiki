@@ -32,6 +32,10 @@ The book's sequence is: the Graafland era (when the concentrated line was abando
 
 Teukoe Oemar is significant across two distinct colonial framings of the [[Atjeh-oorlog|Aceh War]]. In *[[Oost-Indisch Journael]]*, he is the Acehnese cunning adventurer whose defection on [[29 March]] [[1896]] opened the critical days between the Graafland era and the glorious period of [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] — the book's marker of crisis and transition. In the Encyclopaedisch Bureau's *De Buitenbezittingen*, his *verraad* is the originating event of the entire post-[[1896]] Dutch strategic reorientation: the act that triggered the dismantling of the [[Postenlinie|postenlinie]], the abandonment of the [[Ceintuur-trambaan|belt-tramway]], and the inauguration of the new policy that led to the [[Pacificatie van Atjeh|complete pacification of Atjeh]] and the wider extension of Dutch authority across the Buitenbezittingen. The Bureau's choice of the word *verraad* (betrayal) places the Dutch interpretation firmly on the surface of the account; the same act, viewed from the Atjehnese side, was an act of patriotic resistance — a fact the Bureau's account does not foreground but which the very prominence of the *verraad* in the Dutch narrative indirectly confirms.
 
+## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — the ally who defected
+
+Dr. [[Johan Wøller]], recalling the [[Aceh War]] from his posting at [[Kotta Loempoer]] around [[1905]], described Toekoe Oemar as "one of the foremost chiefs, who for years had been a 'loyal' ally, with all his troops, who had been well provided with weapons by the Dutch, went over to the enemy." Wøller places the episode "in the years between '90 and 1900," at the height of a crisis in which "it looked as if a struggle and effort of twenty years was wasted" — a low point resolved only by the appointment of [[J. B. van Heutsz]] as governor in 1898.
+
 ## Account from *Dispereert Niet Vol. XI* (1946) — Teukoe Oema
 
 **Teukoe Oema** (also known as **Teukoe Johan**) was an Acehnese guerrilla leader who played a central role in the **[[Aceh War]]** from the [[1880s]] until his death in [[1899]]. His career was marked by dramatic defections, shifting allegiances, and a guerrilla campaign that frustrated Dutch military efforts and made him one of the most famous—and controversial—figures in the conflict.
@@ -91,6 +95,8 @@ Teukoe Oema's career illustrates the complexity of the **[[Aceh War]]**, where s
 - [[Kutaradja]]
 - [[1897]]
 - [[1902]]
+- [[Johan Wøller]]
+- [[Kotta Loempoer]]
 
 ## Sources
 
@@ -99,3 +105,5 @@ Teukoe Oema's career illustrates the complexity of the **[[Aceh War]]**, where s
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 2 (Bestuurs-organisatie), p. 68 (section "De Atjeh-tram").
+
+*Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), p. 144.
