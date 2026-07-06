@@ -20,6 +20,7 @@ The Bureau further notes that the Aroe-baai-plannen were "of evident interest to
 
 ## See Also
 
+- [[Aroe Kingdom]] — the pre-colonial maritime polity centred on Aroe Bay, destroyed by Acheh in [[1539]]
 - [[Atjeh-tram]]
 - [[Aroe-baai-plannen]]
 - [[Telok Taboeban]]
