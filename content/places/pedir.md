@@ -66,6 +66,12 @@ Pedir's persistent hostility throughout the first phase of the [[Aceh War|Atjeh-
 
 The Pedir plain's rice surplus was, until the European war, mostly hoarded rather than exported — "de Pedirees, liever dan zijn productie-overschot te verkoopen, dit gedurende jaren opschuurt" — the Pedir farmer, rather than sell his surplus, would store it for years, sometimes "zwart van ouderdom en aangetast door ongedierte" (black with age and infested with vermin) but still fit for consumption. The war-time pressure exerted by the Dutch administration to release these hoards made Pedir rice available for export to the [[Oostkust van Sumatra|Oostkust van Sumatra]] in [[1914]] and [[1915]], and substantially reduced the territory's dependence on imported rice.
 
+## Account from *Coen: Koopman van Heeren Zeventien* (1948) — early Dutch role as rice depot and prison
+
+Three centuries earlier, Pedir had already served as a coastal dependency of Atjeh east of the capital, functioning as a vital agricultural hinterland and secondary port for the Acehnese sultanate — providing essential rice (*rijst*) supplies to the heavily populated, trade-oriented capital, which relied on imports to feed its merchants, sailors, and slaves. When early Dutch expeditions anchored at [[Acheh|Atjeh]], they frequently dispatched sloops to Pedir to provision their ships; the local *sabander* (harbourmaster) exercised strict control over the export of foodstuffs, using it as a lever in negotiations with foreign traders.
+
+Pedir also gained notoriety in Dutch maritime history as the initial site of captivity for [[Frederik Houtman|Frederik de Houtman]] and his surviving crewmen following the [[Houtman brothers' visit to Atjeh (1599)|murder of Cornelis de Houtman]]. After the ambush on [[11 September 1599]], the Acehnese transported the prisoners to Pedir, where they were held in heavy irons. When [[Paulus van Caerden]] arrived in [[1600]] to negotiate a pepper contract, he attempted to secure the prisoners' release, but the Acehnese authorities in Pedir proved unyielding; it was only through a daring, unauthorised escape by de Houtman and his companions — who stole a prau from the riverbank and navigated through the surf — that the Dutchmen evaded their captors and reached Van Caerden's ships. See [[Imprisonment of Frederik de Houtman in Atjeh]].
+
 
 ## See Also
 
@@ -108,6 +114,12 @@ The Pedir plain's rice surplus was, until the European war, mostly hoarded rathe
 - [[Selimoen Expedition (August 1879)]]
 - [[Aceh War]]
 - [[Van Heutsz]]
+- [[Houtman brothers' visit to Atjeh (1599)]]
+- [[Imprisonment of Frederik de Houtman in Atjeh]]
+- [[Frederik Houtman]]
+- [[Paulus van Caerden]]
+- [[1599]]
+- [[1600]]
 - [[1878]]
 - [[1914]]
 - [[1915]]
@@ -117,3 +129,4 @@ The Pedir plain's rice surplus was, until the European war, mostly hoarded rathe
 - *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 - *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 12–14, 30–31, 47–49, 55–57, 137–138.
 - *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 29, 80, 94, 96, 108.
+- *Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598—1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 110-113.

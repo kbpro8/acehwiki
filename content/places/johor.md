@@ -4,7 +4,7 @@ aliases: [Jho, Johore, Johor-Riau, Johor Sultanate, Djohor]
 tags: [place, sacred-site, foreign-land, foreign, malay-state, comparative, sawah, malay-peninsula, malay-world]
 ---
 
-A Malay sultanate on the Malay Peninsula. [[Sultan Iskandar Muda]] conquered Johor in [[1613]]. In the [[Hikayat Malem Dagang]]: 'From [[Pahang]] the fleet moves to [[Johor Lama and Johor Bali]] (Jho Lama) to which place [[Si Ujut]] has also just paid a visit, but whence he has retired to [[Johor Lama and Johor Bali]]. Here some of the Achehnese invaders establish themselves without opposition under the direction of their Sultan, who builds fortifications... Panglima Tibang was a member of Achehnese embassies to [[Riouw]] and [[Singapore]].' The fictional kingdom of Cham Nadiman has a king named after 'Johor' — 'Meunua Jho, king of [[Irandamin]] (Iran zemin).'
+A Malay sultanate on the Malay Peninsula. [[Sultan Iskandar Muda]] conquered Johor in [[1613]] — see [[Acehnese conquest of Djohor (1613)]] for the full campaign, triggered by Johor's [[1610]] peace treaty with the [[Portuguese]] and culminating in the fall of the Djohor capital, Batu Sawar, on [[6 June]] [[1613]]. In the [[Hikayat Malem Dagang]]: 'From [[Pahang]] the fleet moves to [[Johor Lama and Johor Bali]] (Jho Lama) to which place [[Si Ujut]] has also just paid a visit, but whence he has retired to [[Johor Lama and Johor Bali]]. Here some of the Achehnese invaders establish themselves without opposition under the direction of their Sultan, who builds fortifications... Panglima Tibang was a member of Achehnese embassies to [[Riouw]] and [[Singapore]].' The fictional kingdom of Cham Nadiman has a king named after 'Johor' — 'Meunua Jho, king of [[Irandamin]] (Iran zemin).'
 
 ## Expanded account from *The Achehnese*, Vol. I — Johor
 
@@ -53,9 +53,13 @@ The founding of [[Singapore]] in January 1819 was, in legal terms, an arrangemen
 - [[Lingga]]
 - [[Treaty of London (1824)]]
 - [[Raffles' Atjeh-overeenkomst van 1819]]
+- [[Acehnese conquest of Djohor (1613)]]
+- [[Atjeh]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598—1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 122, 131-132.

@@ -14,6 +14,10 @@ The visit's account in the school reader is succinct: the brothers were the firs
 
 Cornelis's role in the aftermath is described in a single sentence: Cornelis was forced to leave his brother and the others in the hands of the treacherous enemy and to depart with the two ships. The school reader thus frames Cornelis's abandonment of Frederik as a necessity imposed by the treacherous Atjehnese ambush.
 
+## Account from *Coen: Koopman van Heeren Zeventien* (1948) — the Moucheron expedition and the sabander dispute
+
+Johan van der Woude's biography of Jan Pieterszoon Coen gives a fuller account of Cornelis de Houtman's 1599 expedition, organised by the Zeeland merchant [[Balthasar de Moucheron]] and commanding the ships *Leeuw* and *Leeuwin*. On arrival at Atjeh, de Houtman was received with great hospitality by the Sultan, who granted trade permission and a house on shore. De Houtman then attempted to negotiate lower pepper prices directly with the Sultan, bypassing the *sabander* (harbourmaster) who had fixed the rates — a diplomatic blunder that, combined with Portuguese intrigue at court (the agent Affonso Vicenti convinced the Sultan the Dutch were spies), set the stage for the [[Houtman brothers' visit to Atjeh (1599)|ambush of 11 September 1599]] in which de Houtman was killed in his cabin and his brother Frederik taken captive.
+
 ## Significance
 
 Cornelis Houtman is, in the [[De Kleine Oosterling|school-textbook]] narrative, the principal named Dutch actor of the [[Houtman brothers' visit to Atjeh (1599)|1599 visit]], and the staff history's opening instance of the Dutch commander forced to choose between his crew and his mission. The school reader's emphasis on Cornelis's necessity — and on the treacherous character of the Atjehnese — frames the abandonment as a moral rather than a tactical act, and establishes the treacherous framing of the Atjehnese that the rest of the school reader's Atjeh lessons will deploy.
@@ -27,9 +31,12 @@ Cornelis Houtman is, in the [[De Kleine Oosterling|school-textbook]] narrative, 
 - [[Prince Maurits]]
 - [[Atjeh]]
 - [[Netherlands East Indies]]
+- [[Balthasar de Moucheron]]
 - [[1599]]
 - [[1601]]
 
-## Source
+## Sources
 
 *De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 3 ("Een gezantschap").
+
+*Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598—1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 109-111.

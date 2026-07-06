@@ -51,6 +51,26 @@ When in [[1819]] [[Sir Thomas Stamford Raffles]] and [[Captain Coombs]] were sen
 Within months the agreement had proved worthless. Syf continued his piratical career, eventually turning up in [[Calcutta]] and being pensioned at [[Penang]]. Jauhar never recovered the authority the treaty supposed him to possess, and when the [[Three Sagis]] wrote to Governor [[W. E. Phillips|Phillips]] on [[4 December]] [[1822]] they swore on the tomb of [[Teungku Anjong]] at [[Kampong Java]] never to accept him again. By the time of the [[Anglo-Dutch Treaty of London (1824)]] the [[Acheh treaty of 1819]] was openly acknowledged by the London authorities to have been a "dead letter", yet the British plenipotentiaries suddenly produced it at the eleventh hour to extract from the Dutch a guarantee of Achehnese independence — a clause that would generate decades of controversy and ultimately contribute to the negotiations leading to the [[Sumatra Treaty of 1871]].
 
 
+## Account from *Coen: Koopman van Heeren Zeventien* (1948) — Acheh's early-seventeenth-century diplomacy
+
+**Atjeh** was, in the account given by Johan van der Woude's biography of Jan Pieterszoon Coen, a powerful and independent Islamic sultanate that served as a major hub for the international pepper trade and a strategic counterweight to [[Portuguese Malacca]] during the late sixteenth and early seventeenth centuries. Situated at the crossroads of the Bay of Bengal and the Strait of Malacca, Atjeh maintained a complex diplomatic posture, playing the [[Portuguese]], the [[English]], and the [[Vereenigde Oost-Indische Compagnie|Vereenigde Oost-Indische Compagnie (VOC)]] against one another to preserve its sovereignty and maximise its commercial leverage.
+
+### The pepper trade and early European contact
+
+Before the arrival of the Dutch, Atjeh was already a vital node in the Asian maritime network. The sultanate exported vast quantities of pepper, which attracted merchants from [[Gujarat]], [[Arabia]], and Portuguese Malacca. The Portuguese maintained a delicate, often tense peace with Atjeh; they required the sultan's tolerance to secure their own trade routes to [[China]] and the [[Moluccas]], while the Acehnese sultans tolerated the Portuguese to avoid a devastating war and to use them as a foil against their regional rival, [[Djohor]].
+
+The first Dutch expedition to Atjeh, commanded by [[Cornelis Houtman|Cornelis de Houtman]], arrived in [[1599]]. Initial trade was promising, but Portuguese intrigue and Dutch diplomatic blunders culminated in the [[Houtman brothers' visit to Atjeh (1599)|murder of Cornelis de Houtman]] and the subsequent [[Imprisonment of Frederik de Houtman in Atjeh|imprisonment of Frederik de Houtman]]. Despite this violent rupture, the immense profitability of the Acehnese pepper trade ensured that subsequent Dutch fleets, as well as English and French expeditions, continued to seek audiences at the Acehnese court.
+
+### Diplomacy and the balance of power
+
+The sultans of Atjeh were astute diplomats who strictly controlled foreign access to their markets. The *sabander* (harbourmaster and trade minister) wielded immense power, fixing prices and mediating disputes between foreign merchants. When the English East India Company sent [[James Lancaster's mission to Atjeh (1602)|James Lancaster's mission]] in [[1602]], Lancaster secured favourable terms by leveraging Queen Elizabeth I's reputation as an enemy of Spain and Portugal. Similarly, the Dutch sought to formalise alliances, resulting in documents like the [[Treaty of Atjeh (1607)|Treaty of Atjeh]] of [[1607]], which aimed to exclude rival European nations from Acehnese ports.
+
+However, Atjeh refused to become a mere client state or permit the construction of heavily fortified European citadels on its soil, having observed the destructive consequences of Portuguese fortifications in the Moluccas and [[Malaka|Malaka]]. The sultanate maintained its own formidable navy, which it periodically deployed to punish regional rivals, most notably during the [[Acehnese conquest of Djohor (1613)|Acehnese conquest of Djohor]] of [[1613]].
+
+### Relations with the Coromandel Coast and Guzeratte
+
+Beyond pepper, Atjeh served as the primary gateway for Dutch and English traders seeking to establish factories on the [[Koromandel]] coast and in [[Guzeratte]]. The Acehnese sultans issued letters of recommendation and safe conduct to European merchants travelling to [[Masulipatnam]] and [[Suratte]], recognising that a robust network of Indian Ocean trade enriched the Acehnese treasury through tariffs and the importation of Indian textiles, which were essential for purchasing spices in the eastern Archipelago.
+
 ## See Also
 
 - [[Kesultanan Aceh]]
@@ -82,9 +102,20 @@ Within months the agreement had proved worthless. Syf continued his piratical ca
 - [[Panglima Polim]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Captain Coombs]]
+- [[Houtman brothers' visit to Atjeh (1599)]]
+- [[Imprisonment of Frederik de Houtman in Atjeh]]
+- [[James Lancaster's mission to Atjeh (1602)]]
+- [[Treaty of Atjeh (1607)]]
+- [[Acehnese conquest of Djohor (1613)]]
+- [[Djohor]]
+- [[Vereenigde Oost-Indische Compagnie]]
+- [[Cornelis Houtman]]
+- [[Frederik Houtman]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598—1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 108-125.
