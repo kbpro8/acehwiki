@@ -12,6 +12,24 @@ Pedir was in this period a relatively powerful chiefdom of the Achehnese East Co
 
 Tunku Pakih was a persistent source of trouble to Europeans. A few days before [[Captain Coombs]]' visit to [[Banda Acheh|Acheh]] in early [[1818]] he had seized a brig under British colours, an exploit that became the subject of Coombs's representations to the Achehnese chiefs. By the time of the Raffles–Coombs commission in [[1819]] he was dead — "Packie bestond niet meer", in Van der Kemp's phrase — but his legacy still shaped Pedir's relations with the capital.
 
+## The Portuguese visit (1509)
+
+Pedir was one of the two pepper ports — with [[Pasei|Pasei]] — that the [[Diogo Lopez de Sequeira|Sequeira]] mission of [[1509]] called at on the way to [[Malaka|Malaka]], "waar de Portugeezen toestemming verwierven om handel te drijven". The visit was the first European commercial contact with the Atjeh coast and the foundation of the European pepper trade with the region. Pedir and Pasei would, within a generation, become the chief attractions of the Atjeh coast to European traders; the [[Houtman brothers' visit to Atjeh (1599)|Houtman brothers' visit of 1599]] would call at Pedir for rice and would find one of its crew taken prisoner there.
+
+## The Houtman captivity (1599-1601)
+
+After the [[Houtman brothers' visit to Atjeh (1599)|ambush of 11 September 1599]] at Atjeh, the surviving Dutch captives — including [[Frederik de Houtman|Frederik de Houtman]] — were held partly at Pedir. A sloop from the *Leeuw* sent to Pedir for rice was captured by the Atjehers; the Dutch sailors aboard were taken prisoner. Houtman himself was held partly at Pedir, partly at Atjeh, and was repeatedly transported between the two. The **sabander of Pedir** was the official who, on the sultan's authority, rearrested Houtman on a fabricated theft charge on his return to land after his December [[1600]] escape — the rearrest that provoked [[Paulus van Caerden|Paulus van Caerden]]'s seizure of the Arab junks on [[12 January]] [[1601]].
+
+Five of the surviving Dutch captives escaped from Pedir in a prauw in [[1600]] and reached [[Paulus van Caerden|Van Caerden]]'s ships safely — the escape that warned Van Caerden of the sultan's planned attack and led him to advance payment on the pepper contract. [[Frederik de Houtman|Houtman]] himself escaped from Pedir on [[30 December]] [[1600]] with three companions in a small prauw they had fashioned with their own sail and oars; the prauw overturned in the surf but they reached Van Caerden's ship on New Year's Eve [[1601]].
+
+## The pepper trade
+
+Pedir was one of the chief pepper sources of the Dutch East India trade at Atjeh in the early VOC period. The [[Paulus van Caerden's Atjeh visit (1600-1601)|pepper contract of 28 December 1600]] between [[Paulus van Caerden|Van Caerden]] and the [[Sultan of Atjeh (1589-1604)|sultan of Atjeh]] covered pepper from the new harvest, of which a portion was to be delivered at Pedir. The [[Zeeland Company's Atjeh mission (1601)|Zeeland mission of August 1601]] bought pepper at Pedir as well as at Atjeh; the [[Jan Grenier|Jan Grenier]] fleet of December [[1601]] called at Pedir on its way to the west coast of Sumatra.
+
+## Significance
+
+Pedir is, in Van der Woude's narrative, the principal north-coast pepper port of [[Acheh|Atjeh]] in the early-modern period and the principal place of captivity of [[Frederik de Houtman|Frederik de Houtman]] during the [[Houtman brothers' visit to Atjeh (1599)|1599-1601 captivity]]. The port's pepper trade was the proximate commercial attraction of the Atjeh coast to European traders from the [[Diogo Lopez de Sequeira|Sequeira]] mission of [[1509]] onward, and its role in the [[Houtman brothers' visit to Atjeh (1599)|Houtman affair]] — the place of captivity of [[Frederik de Houtman|Houtman]] and the site of his [[30 December]] [[1600]] escape — made it the principal Dutch-Atjeh location in the early Dutch-Achehnese narrative. The sabander of Pedir's rearrest of Houtman on a fabricated theft charge was the proximate cause of [[Paulus van Caerden|Van Caerden]]'s seizure of the Arab junks on [[12 January]] [[1601]] and the resulting armed clash between the Dutch and the Atjeh shore batteries. Pedir's pepper trade would decline in importance for the Dutch as the trade shifted to the west coast of Sumatra — [[Priaman|Priaman]], [[Tikoe|Tikoe]], [[Pasaman|Pasaman]] — and to [[Bantam|Bantam]] and the Sunda islands.
+
 ## The Raffles–Coombs commission
 
 A bitter dispute divided [[Sir Thomas Stamford Raffles]] from [[Colonel John Alexander Bannerman|Bannerman]] and Coombs over whether the commission should proceed first to Pedir — Raffles's friend Jauhar being there — or to the capital where the recognised sultan Syf's party was nominally in power. The Calcutta government later endorsed the Bannerman–Coombs view that going first to Pedir "would undoubtedly have been decidedly contrary to the spirit of our instructions". Nevertheless, even while the commission was at [[Banda Acheh]], Raffles dispatched the Company's ship *Minto* under [[Lieutenant Criddle]] to Pedir to notify Jauhar of the commission's approach — the [[Dispatch of the Minto to Pedir]] — without informing either Bannerman or Coombs.
@@ -115,6 +133,13 @@ Pedir also gained notoriety in Dutch maritime history as the initial site of cap
 - [[Aceh War]]
 - [[Van Heutsz]]
 - [[Houtman brothers' visit to Atjeh (1599)]]
+- [[Diogo Lopez de Sequeira]]
+- [[Pasei]]
+- [[Bantam]]
+- [[Priaman]]
+- [[Tikoe]]
+- [[Pasaman]]
+- [[Zeeland Company's Atjeh mission (1601)]]
 - [[Imprisonment of Frederik de Houtman in Atjeh]]
 - [[Frederik Houtman]]
 - [[Paulus van Caerden]]
