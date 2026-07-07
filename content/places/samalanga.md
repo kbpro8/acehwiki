@@ -72,6 +72,32 @@ Samalanga's significance for the encyclopedia of [[Acheh]] history is as a docum
 
 *De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, 1893-94), passim.
 
+## Additional Information from Samalanga
+
+**Samalanga** is a coastal region of [[Acheh|Atjeh]] on the north coast of Sumatra, between [[Banda Acheh|Koetaradja]] and [[Pedirse|Pedir]], mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* (1956)]] (p. 124) as the locality where, in particular, much *dadih* — curdled buffalo-milk, the most widely consumed buffalo-milk product in northern Sumatra — was made. The Samalanga reference is part of *De Karbouw*'s wider account of buffalo-milking and buffalo-milk consumption in Atjeh, which locates Atjeh within a broader North-Sumatran dairy complex that included the [[Pedirse|Pedir]] region (where goats were also milked), the [[Gajoland|Gajoland]] highlands (where *minjaq sapi* buffalo-milk cream was boiled down to fat for frying *toempi* and *tjoetjoer*), and the [[Klingalese]] and [[Arab|Arab]] communities resident in Atjeh (great lovers of *dadih*, who knew it by their own terms *tairō* and *halib* respectively).
+
+## Samalanga in De Karbouw
+
+The Samalanga passage in *De Karbouw* (p. 124) runs in full:
+
+> *"In Atjeh worden van de huisdieren bijna uitsluitend karbouwen door de bevolking nu en dan gemolken; in het [[Pedirse|Pedirse]] ook geiten. Voor de bereiding van de verschillende soorten van rijstepap (*[[kandji|kandji]]*, een Tamil-woord), die in Atjeh bij bijzondere gelegenheden worden gegeten, wordt buffelmelk of klappermelk gebruikt. Gestremde buffelmelk, ook op N.-Sumatra *[[dadih (Atjeh)|dadih]]* genoemd, wordt bij de Atjehers soms met rijst of pisang, maar bij de Gajo's zelden genuttigd. De Klinganezen en Arabieren in Atjeh zijn er echter grote liefhebbers van; de eersten noemen die *[[tairō|tairō]]*, de laatsten *[[halib|halib]]*. Vooral in [[Samalanga|Samalanga]] wordt veel *dadih* gemaakt."*
+
+The passage locates Samalanga within a layered account of Atjehnese dairy practice: buffaloes are the principal milk-animal (goats additionally in Pedirse), the milk is used in *kandji* rice-porridge (a Tamil loan-word) at ceremonial occasions, the curdled *dadih* is sometimes eaten with rice or banana by Atjehnese (rarely by Gajos), and is especially favoured by the Klingalese (who call it *tairō*) and Arabs (who call it *halib*) of Atjeh — and Samalanga is the locality singled out for the abundance of its *dadih* production.
+
+## Historical context
+
+Samalanga was, in the period of the [[Aceh War|Atjeh War]] of the late nineteenth and early twentieth centuries, one of the most stubbornly resistant districts of the Atjehnese interior, and its name figures prominently in the Dutch military and administrative literature on the pacification of Atjeh. [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers (1893-94)|*De Atjehers*]] treats Samalanga as one of the principal seats of the Atjehnese resistance. The fact that Samalanga was, in *De Karbouw*'s ethnographic present, also a centre of *dadih* production is a small but pointed reminder that the ethnographic and the military-administrative faces of the Dutch encounter with Atjeh were inscribed on the same localities.
+
+## Significance
+
+Samalanga's significance for the encyclopedia of [[Acheh]] history is as a documented locality of Atjehnese buffalo-milk consumption — specifically, the place most strongly associated with *dadih* production in the comparative ethnographic literature. It also figures as one of the most stubbornly resistant districts of the Atjehnese interior during the [[Aceh War|Atjeh War]], a fact that places its ethnographic profile in the same frame as its military-historical profile.
+
+## Sources
+
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, 1956), p. 124.
+
+*De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, 1893-94), passim.
+
 ## See Also
 
 - [[Aceh War]]

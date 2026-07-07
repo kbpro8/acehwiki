@@ -54,6 +54,38 @@ Pasei's significance for the encyclopedia of [[Acheh]] history is foundational. 
 
 *Bijdrage tot de kennis van stamverwantschap op Sumatra*, by W. K. H. Ypes, p. 57 nt. 1.
 
+## Additional Information from Pasei
+
+**Pasei** (modern *Pasai*; also *Samudra Pasai*) was the historical Muslim kingdom on the north coast of [[Acheh|Atjeh]], founded (on the chronology of the [[Hikajat Radja-radja Pasei|Pasai chronicle]]) in the late thirteenth century and absorbed by the [[Atjeh|Atjeh sultanate]] under [[Sultan Iskandar Muda|Iskandar Muda]] in the early seventeenth century. Pasei was, before the rise of [[Banda Acheh|Koetaradja]], the principal Muslim polity of northern Sumatra and one of the earliest Muslim kingdoms in the Indonesian archipelago; its chronicle, the [[Hikajat Radja-radja Pasei|*Hikajat Radja-radja Pasei*]], is one of the foundational Malay historical texts and was made accessible to European scholarship by [[E. Dulaurier]] in [[1849]] and by [[A. Marre]] in [[1874]]. In [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* (1956)]] (p. 220) Pasei appears as the place of origin of [[Gedong (Atjeher of Pasei)|Gedong]], the eponymous ancestor of the [[marga Ramin]] of [[Boven-Singkel]], whose encounter with an eel and a buffalo during a shipwreck on the way to [[Belawan]] gave rise to the lineage's double food-prohibition.
+
+## In De Karbouw
+
+Pasei appears in *De Karbouw* as the home of [[Gedong (Atjeher of Pasei)|Gedong]], the Atjeher whose legend is recorded by [[W. K. H. Ypes|Ypes]] (*Bijdrage tot de kennis van stamverwantschap op Sumatra*, p. 57 nt. 1) and reproduced by Kreemer at p. 220:
+
+> *"Van de [[marga Ramin|marga Ramin]] in [[Boven-Singkel|Boven-Singkel]] bestaat de volgende legende. Een Atjeher van [[Pasei|Pasei]], [[Gedong (Atjeher of Pasei)|Gedong]] geheten, die de stamvader heet te zijn van genoemde marga, leed op weg naar [[Belawan|Belawan]] schipbreuk en werd door een paling gevangen, welke hem echter naar land bracht, toen hij de eed had gezworen, nooit paling te zullen eten. Op het strand wachtte hem evenwel een buffel op (of dit een albino-dier was, wordt niet vermeld), welke hem dreigde, weder in zee te zullen stoten, doch hem ongedeerd liet landen, toen hij gezworen had, ook geen buffelvlees te zullen nuttigen. Men zegt, dat de leden van de [[marga Ramin|marga Ramin]] nu nog geen paling of karbouwenvlees mogen eten."*
+
+The Pasei provenance of [[Gedong (Atjeher of Pasei)|Gedong]] is significant because it ties the [[Boven-Singkel|Boven-Singkel]] (Singkil-area) origin-legend of the [[marga Ramin|marga Ramin]] to the North-Acehnese Pasai cultural sphere, suggesting (as [[J. Kreemer|Kreemer]] notes elsewhere in the same chapter) the wide diffusion of buffalo-*pantang* legends across the northern Sumatran coastal and highland belt.
+
+The [[Hikajat Radja-radja Pasei|*Hikajat Radja-radja Pasei*]] itself — the chronicle of the kings of Pasai — is cited at *De Karbouw*, p. 209 (footnote), among the textual witnesses to the Minangkabau buffalo-fight founding legend, alongside [[A. Marre]]'s [[1874]] *Histoire des rois de Pasey* (pp. 100 vg., 125 vg.), [[J. L. A. Brandes|Brandes]]'s *Pararaton* (2nd ed., p. 149 vg.), and [[L. C. Westenenk|Westenenk]]'s Minangkabau writings. The Pasai chronicle thus circulated in Malay textual tradition in close proximity to the Javanese-Minangkabau historical-literary complex, and the [[1849]] edition by [[E. Dulaurier]] and the [[1874]] translation by [[A. Marre]] were the principal European entry-points into that textual web.
+
+## Historical context
+
+The kingdom of Samudra-Pasai was founded, according to the [[Hikajat Radja-radja Pasei|Pasai chronicle]], in the late thirteenth century (traditionally 1267 CE) by Merah Silau, who is said to have converted to Islam and assumed the title Malik as-Saleh. The kingdom rapidly became the principal Muslim polity of northern Sumatra and a major entrepôt for the India-Indonesia trade, attracting merchants from Gujarat, Bengal, the Coromandel Coast (the "Klingalese" of the Atjeh ethnographic record) and the Arab world. The kingdom was visited by [[Ibn Battuta|Ibn Battuta]] in 1345-46, by [[Marco Polo|Marco Polo]] (in nearby Perlak) on his return journey in 1292, and by [[Zheng He|Zheng He]]'s fleets in the early fifteenth century; it was absorbed by the rising [[Atjeh|Atjeh]] sultanate in the early sixteenth century and finally incorporated into the Atjehnese state under [[Sultan Iskandar Muda|Iskandar Muda]] (r. [[1607]]–[[1636]]).
+
+## Significance
+
+Pasei's significance for the encyclopedia of [[Acheh]] history is foundational. As the principal Muslim predecessor-state of the [[Atjeh|Atjeh]] sultanate on the northern Sumatran coast, as the locus of one of the earliest Muslim kingdoms in the Indonesian archipelago, as the home of the [[Hikajat Radja-radja Pasei|foundational Malay chronicle]] of the kings of Pasai, and as the place of origin of [[Gedong (Atjeher of Pasei)|Gedong]] — the legendary Atjeher whose double oath gave rise to the [[marga Ramin|marga Ramin]] buffalo- and eel-prohibition — Pasei anchors a long arc of Atjehnese history that runs from the late-thirteenth-century conversion to Islam, through the early-modern cosmopolitan entrepôt, to the early-seventeenth-century absorption into the [[Atjeh bloeitijdperk (1607-1636)|Atjeh bloeitijdperk]] under [[Sultan Iskandar Muda|Iskandar Muda]].
+
+## Sources
+
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, 1956), pp. 209, 220.
+
+*Hikajat Radja-radja Pasei*, edited by E. Dulaurier (Paris, 1849).
+
+*Sumatra, Histoire des rois de Pasey*, by A. Marre (Paris, 1874).
+
+*Bijdrage tot de kennis van stamverwantschap op Sumatra*, by W. K. H. Ypes, p. 57 nt. 1.
+
 ## See Also
 
 - [[1509]]

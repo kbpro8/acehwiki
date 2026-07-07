@@ -74,6 +74,40 @@ Groot-Atjeh's significance for the encyclopedia of [[Acheh]] history is as the g
 
 *Atjèh*, by J. Kreemer, vol. I (1922), p. 471; vol. II (1923), pp. 578 vg.
 
+## Additional Information from Groot-Atjeh
+
+**Groot-Atjeh** ("Greater Aceh") was the Dutch colonial designation for the heartland of the [[Acheh|Atjeh]] sultanate — the densely settled coastal and hinterland district around the capital [[Banda Acheh|Koetaradja]] and its immediate interior, distinguished in colonial usage from [[Kleine-Atjeh|Kleine-Atjeh]] (Lesser Atjeh, the outlying western-coast districts) and from the dependent highland territories of [[Gajoland|Gajoland]] and [[Alasland|Alasland]]. Groot-Atjeh appears repeatedly in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* (1956)]] as the locus of a cluster of specifically Atjehnese buffalo-ritual practices — among them the *teungkoe meunasah* slaughterer institution, the [[Poephon blang|*poephon blang*]] field-consecration rite, the prohibition on albino-buffalo slaughter for the [[kawōm Dja Sandang|*kawōm* Dja Sandang]] lineage, the annual [[Rabò annual seven-day feast|Rabò buffalo-sacrifice feast]] on the islet of [[Rabò]] near [[Poelo Breuëh|Poelo Breuëh]], and the former local production of *minjaq sapi* buffalo-milk frying-fat in the [[Bovenstreken van Groot-Atjeh|Bovenstreken]] (upper districts).
+
+## In De Karbouw
+
+The several Atjehnese buffalo-practices that *De Karbouw* explicitly localises in Groot-Atjeh are:
+
+- The [[teungkoe meunasah]] as the village ritual slaughterer: "In Groot-Atjeh behoort het slachten tot de speciale taak van de *teungkoe meunasah*" — in Groot-Atjeh slaughter is the special task of the *teungkoe meunasah*, the village religious official who, alongside the village head [[keutjhiq|*keutjhiq*]], represents public authority in the village and is responsible for the spiritual concerns of the villagers ([[Christiaan Snouck Hurgronje|Snouck Hurgronje]], [[Snouck Hurgronje's De Atjehers (1893-94)|*De Atjehers*]] I, p. 241; [[Kreemer's De Karbouw (1956)|*De Karbouw*]], p. 117).
+
+- The [[Poephon blang|first field-*kandoeri* before ploughing]] (*poephon blang*), held about a month before ploughing begins: "Ongeveer een maand vóór men met ploegen aanvangt, heeft in Groot-Atjeh de eerste veld-*kandoeri* (offermaaltijd) plaats" ([[Kreemer's Atjeh (1922-23)|Kreemer, *Atjeh*]], I, p. 471; II, pp. 578 vg.). The rite is performed by a [[malim|*malim*]] — a scriptural scholar skilled in calculating auspicious moments and versed in the secret lore of rice-cultivation — who, with completely shaved head, goes to the field at midnight, draws the first furrow-lines with his *parang*, and mutters an incantation. In the [[Pederse|Pederse (Pidie)]] region within or adjacent to Groot-Atjeh, the *malim* uses a tiny golden plough at this sacramental act, since gold — like iron — has magical potency in Atjehse conception.
+
+- The prohibition on albino-buffalo slaughter for the [[kawōm Dja Sandang|*kawōm* Dja Sandang]]: "1° Groot-Atjeh, waar het verbod geldt voor het ouderwetse geslacht (*kawōm*) Dja Sandang. Hoewel de *kawōm*-naam reeds lang vergeten is, leeft het *pantang*-voorschrift toch nog onverzwakt voort" ([[Christiaan Snouck Hurgronje|Snouck Hurgronje]], [[Snouck Hurgronje's De Atjehers (1893-94)|*De Atjehers*]] I, p. 54, II, p. 332; *De Karbouw*, p. 217).
+
+- The [[Rabò annual seven-day feast|annual seven-day feast at Rabò]]: "Op het nabij [[Poelo Breuëh|Poelo Breuëh]] (Poelau Bras) gelegen eilandje [[Rabò|Rabò]] in Groot-Atjeh plegen de bewoners der [[VI Moekim's of Groot-Atjeh|VI Moekim's]] elk jaar aan het strand een zevendaags feest te geven" ([[Christiaan Snouck Hurgronje|Snouck Hurgronje]], [[Snouck Hurgronje's De Atjehers (1893-94)|*De Atjehers*]] II, p. 315; *De Karbouw*, p. 246).
+
+- The former local production of *minjaq sapi* (buffalo-milk cream boiled down to fat, used as frying-fat for *toempi* and *tjoetjoer*): "Vroeger werd dit bakvet ook in Groot-Atjeh bereid, speciaal in de [[Bovenstreken van Groot-Atjeh|Bovenstreken]]" (*De Karbouw*, p. 124).
+
+## In Atjeh administrative geography
+
+Groot-Atjeh, as the colonial term for the heartland of the sultanate, corresponded roughly to the area of the [[VI Moekim's of Groot-Atjeh|six *mukim* federation]] (the VI Moekim's) and adjacent *mukim* federations that formed the territorial core of the Atjehnese state, and that were organised, after the Dutch conquest in the [[Aceh War|Atjeh War]] of the late nineteenth and early twentieth centuries, as the colonial administrative unit of [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] (with [[Banda Acheh|Koetaradja]] as its capital). The highland interior of Groot-Atjeh, the [[Bovenstreken van Groot-Atjeh|Bovenstreken]], bordered the [[Gajoland|Gayo]] country and shared with it a number of buffalo-related customs (such as the *minjaq sapi* production).
+
+## Significance
+
+Groot-Atjeh's significance for the encyclopedia of [[Acheh]] history is as the geographical core of the Atjehnese sultanate and the locus classicus of its specifically courtly and village-ritual practices. In *De Karbouw*'s comparative framework, Groot-Atjeh functions as the type-locality for a cluster of buffalo-ritual institutions — the *teungkoe meunasah* slaughterer, the *poephon blang* field-consecration, the [[kawōm Dja Sandang|*kawōm* Dja Sandang]] albino-prohibition, the Rabò sacrifice — that recur, with local variation, in the [[Gajoland]], [[Alasland]], [[Atjeh's Westkust]] and [[Simaloer]] rings of the wider Atjeh cultural sphere.
+
+## Sources
+
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, 1956), pp. 117, 124, 177-178, 217, 246.
+
+*De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, 1893-94), vol. I, pp. 54, 241; vol. II, pp. 315, 332.
+
+*Atjèh*, by J. Kreemer, vol. I (1922), p. 471; vol. II (1923), pp. 578 vg.
+
 ## See Also
 
 - [[1873]]

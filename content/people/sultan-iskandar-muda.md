@@ -85,6 +85,34 @@ Iskandar Muda's significance for the encyclopedia of [[Acheh]] history is founda
 
 *Atjèh*, by J. Kreemer, vol. I (1922), p. 192.
 
+## Additional Information from Sultan Iskandar Muda
+
+**Sultan Iskandar Muda** was the *"Roi soleil"* of the Atjehnese sultans, whose reign from [[1607]] to [[1636]] — known in Dutch historiography as the [[Atjeh bloeitijdperk (1607-1636)|*bloeitijdperk*]] (golden age) of [[Acheh|Atjeh]]'s past — saw the sultanate reach the zenith of its military, commercial and cultural power, and whose court at [[Banda Acheh|Koetaradja]] entertained foreign envoys with spectacles in which both elephants and buffaloes were deployed as fighting animals. Iskandar Muda's reign is the high-water mark of pre-colonial Atjehnese statehood; under his rule the sultanate dominated the [[Straits of Malacca|Strait of Malacca]], projected military force across northern Sumatra and the Malay Peninsula, and patronised an Islamic courtly culture whose pomp — in [[J. Kreemer|Kreemer]]'s words — "would have bordered on the marvellous."
+
+## The 1613 festival and Thomas Best's visit
+
+The single most-cited European eyewitness account of Iskandar Muda's court is that of the English envoy [[Thomas Best]], who visited [[Banda Acheh|Koetaradja]] in [[1613]] and whose journal was edited by [[William Foster]] as *The Voyage of Thomas Best to the East Indies, 1612-14* (London: Hakluyt Society, 1934). [[J. Kreemer|Kreemer]] — drawing on his own [[Kreemer's Atjeh (1922-23)|*Atjeh*]] (vol. I, p. 192) — summarises Best's account in [[Kreemer's De Karbouw (1956)|*De Karbouw* (1956)]] in a passage that fixes the court buffalo-fight as an institution of Iskandar Muda's reign:
+
+> *"In Atjeh waren die krachtmetingen van buffel tegen buffel een zwakke weerklank uit het bloeitijdperk van Atjeh's verleden (1607–1636), toen de pracht en de praal van des Soeltan's hofhouding aan het wonderbaarlijke zouden hebben gegrensd en toen daar ook olifanten als vechtdieren werden gebruikt. Thomas Best, Engels gezant in die dagen, geeft in zijn journaal een entousiast verslag van zijn bezoek in 1613 aan het hof van Soeltan Iskandar Moeda, de „Roi soleil" der Atjehse vorsten, toen er te zijner ere een groot feest plaats had. Eén der hoofdmomenten daarvan was een toernooi van olifanten. 'After them came buffelos, a beast verie fierce and stronge, which maid a worthie feight and gave greatt content to the spectators.'"*
+
+The juxtaposition of elephant-tournament and buffalo-fight at a single state festival is, in Kreemer's reading, evidence of a courtly culture in which animal combat had been elevated from a village pastime to a spectacle of kingship — a reading supported by the parallel practice, recorded elsewhere in *De Karbouw*, of using [[koeta djaq|buffalo-hide "walking forts"]] in Atjehnese siege warfare, and by the persistence in much attenuated form of village buffalo-fights in the archipelago in later centuries.
+
+## The bloeitijdperk
+
+Iskandar Muda's reign — the [[Atjeh bloeitijdperk (1607-1636)|Atjeh *bloeitijdperk*]] — is the period against which all later Atjehnese history is, in some sense, measured. The dates [[1607]]–[[1636]] are given as the standard frame in [[J. Kreemer|Kreemer]]'s account in *De Karbouw* (p. 84); they mark the accession and death of a ruler under whom Atjeh's armies overran neighbouring Sumatran and Malay states, its navy dominated the strait, and its court attracted foreign embassies (of which Best's [[Thomas Best's visit to Atjeh (1613)|visit of 1613]] is merely the best documented for our purposes). The literary and architectural efflorescence of the reign is attested in the surviving monuments of [[Banda Acheh]] and in the Atjehnese chronicle tradition; the military spectacle is attested, in part, by the very fact that the court possessed both *vechtdieren* (fighting animals) — elephants and buffaloes — and the institutional capacity to deploy them in choreographed festivals for foreign envoys.
+
+## Significance
+
+Iskandar Muda's significance for the encyclopedia of [[Acheh]] history is foundational. His reign defines the [[Atjeh bloeitijdperk (1607-1636)|Atjeh *bloeitijdperk*]], the period to which later Atjehnese — and later Dutch colonial scholars — looked back as the sultanate's classic age. The court institutions, the literary culture, the military posture, and the diplomatic horizons of his reign furnished the template against which the long decline of the seventeenth and eighteenth centuries was measured, and against which the Dutch colonial conquest of the [[Aceh War|late-nineteenth-century Atjeh War]] was, in its turn, understood. For the present encyclopedia, Iskandar Muda's reign is the indispensable chronological anchor for entries on court spectacle, military technology (including the [[koeta djaq|buffalo-hide siege engine]]), and the early-modern European eyewitness record on Atjeh.
+
+## Sources
+
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, 1956), p. 84.
+
+*The Voyage of Thomas Best to the East Indies, 1612-14*, edited by William Foster (London: Hakluyt Society, 1934), p. 168.
+
+*Atjèh*, by J. Kreemer, vol. I (1922), p. 192.
+
 ## See Also
 
 - [Atjeh-oorlog](/events/atjeh-oorlog)

@@ -1,7 +1,7 @@
 ---
 title: J. Kreemer
-aliases: [Johannes Kreemer, Kreemer, J. Kreemer (author of Atjeh), Kreemer (author of De Karbouw)]
-tags: [person, scholar, dutch, colonial, ethnographer]
+aliases: ["J. Kreemer (author of Atjeh)", "Johannes Kreemer", "Kreemer", "Kreemer (author of De Karbouw)"]
+tags: ["colonial", "dutch", "ethnographer", "person", "scholar"]
 ---
 
 **J. Kreemer** was a Dutch colonial official and ethnographer who served as a *Kontroleur B.B.* on [[Sumatra's Westkust]] in the early twentieth century and later became the author of the standard two-volume monograph [[Kreemer's Atjeh (1922-23)|*Atjeh* (1922-23)]] and of the comparative ethnography [[Kreemer's De Karbouw (1956)|*De Karbouw* (1956)]], the latter a sweeping survey of the water buffalo's significance for the peoples of the Indonesian archipelago. Kreemer's career illustrates the typical trajectory of the colonial scholar-administrator: he began as a young *Kontroleur* in northern Sumatra — a posting that brought him into direct contact with [[Acheh|Atjeh]], the [[Gajoland|Gayo]] highlands, and the [[Alasland|Alas]] valley — and over the following half-century converted his field observations and wide reading into a body of ethnographic and folkloristic work on which later students of northern Sumatran culture have continued to draw. He explicitly identifies himself, in the preface to *De Karbouw*, as the same author who fifty years earlier had published "*De Maleier en zijn karbouw*" in [[1907]] in *De Indische Gids*, dl. I — a first fruit composed when he was still a junior official working a single under-district on Sumatra's Westkust.
@@ -26,22 +26,52 @@ Kreemer writes in a measured, comparative, late-nineteenth-century ethnographic 
 
 Kreemer is significant for the encyclopedia of [[Acheh]] history on two grounds. First, his *Atjeh* (1922–23) is, with [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s *De Atjehers* (1893–94), one of the two principal Dutch scholarly syntheses on Atjeh as a country and people, and a large proportion of the Atjeh-specific facts recorded in *De Karbouw* derive from it. Second, *De Karbouw* itself, although a work of comparative ethnography rather than an Atjeh monograph, contains in concentrated form a uniquely rich dossier of Atjeh buffalo-lore — vocabulary, agricultural practice, ritual, folk-belief, legal custom — that is in many cases not easily recoverable from any other source. For both reasons, entries throughout this wiki that draw on Atjeh buffalo-related material cite Kreemer as a principal authority.
 
-## See Also
+## Sources
 
-- [[Kreemer's Atjeh (1922-23)]]
-- [[Kreemer's De Karbouw (1956)]]
-- [[Kreemer's De Maleier en zijn karbouw (1907)]]
-- [[Christiaan Snouck Hurgronje]]
-- [[G. A. J. Hazeu]]
-- [[Hoesein Djajadiningrat]]
-- [[K. F. H. van Langen]]
-- [[Atjeh en Onderhorigheden]]
-- [[Gajoland]]
-- [[Alasland]]
-- [[Gajo-weg]]
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, 1956), *Voorbericht* (pp. 5-6) and passim.
+
+*Atjèh: algemeen samenvattend overzicht van land en volk van Atjèh en Onderhoorigheden*, by J. Kreemer, 2 dln. (1922-23).
+
+## Additional Information from J. Kreemer
+
+**J. Kreemer** was a Dutch colonial official and ethnographer who served as a *Kontroleur B.B.* on [[Sumatra's Westkust]] in the early twentieth century and later became the author of the standard two-volume monograph [[Kreemer's Atjeh (1922-23)|*Atjeh* (1922-23)]] and of the comparative ethnography [[Kreemer's De Karbouw (1956)|*De Karbouw* (1956)]], the latter a sweeping survey of the water buffalo's significance for the peoples of the Indonesian archipelago. Kreemer's career illustrates the typical trajectory of the colonial scholar-administrator: he began as a young *Kontroleur* in northern Sumatra — a posting that brought him into direct contact with [[Acheh|Atjeh]], the [[Gajoland|Gayo]] highlands, and the [[Alasland|Alas]] valley — and over the following half-century converted his field observations and wide reading into a body of ethnographic and folkloristic work on which later students of northern Sumatran culture have continued to draw. He explicitly identifies himself, in the preface to *De Karbouw*, as the same author who fifty years earlier had published "*De Maleier en zijn karbouw*" in [[1907]] in *De Indische Gids*, dl. I — a first fruit composed when he was still a junior official working a single under-district on Sumatra's Westkust.
+
+## Career and field experience in Atjeh
+
+Kreemer's field experience in northern Sumatra was both prolonged and intimate. In [[1907]] he was a young *Kontroleur B.B.* (a junior civil administrator of the Binnenlands Bestuur) on [[Sumatra's Westkust]], where his observations of the local Malay buffalo economy supplied the material for his first scholarly article. Over the following years his responsibilities and travels extended into the Atjeh sphere proper. He records, in *De Karbouw*, that he personally passed along the [[Gajo-weg]] — the road linking the [[N.O.-kust van Atjeh|N.E. coast of Atjeh]] with the interior [[Gajoland|Gayo]] country — in [[1917]], and observed on its steep descents that the buffalo-cart drivers did, contrary to a widespread Dutch assumption that such braking technology was unknown in the archipelago, make use of a kind of wooden brake-shoe (*remschoen*) under their buffelkar wheels. He also notes that he had "during an earlier stay in Atjeh" (*bij ons vroeger verblijf in Atjeh*) personally verified the near-identity of the albino-buffalo prohibition legend across the six North-Sumatran population groups among whom it is attested — [[Groot-Atjeh]] (*kawōm* [[kawōm Dja Sandang|Dja Sandang]]), [[Atjeh's Westkust]], the [[Gajoland|Gajoland]] groups of [[Kedjoeroen Boekit]] and [[Petiambang]], the [[Alasland|Alas]] *mergō*'s, and the [[Simaloer|Simaloer]] landschap [[Tapah]]. He likewise notes a personal visit to the [[Gajoland]] during which he found, repeatedly, that an informant could no longer remember the name of his own genealogical group, while the *pantang* prescription attached to that group was "muurvast in zijn herinnering vastgelegd" (firmly fixed in his memory).
+
+## The *Atjeh* monograph (1922-23)
+
+Kreemer's principal scholarly monument is the two-volume general survey *Atjèh: algemeen samenvattend overzicht van land en volk van Atjèh en Onderhoorigheden*, published in [[1922]]–[[1923]]. The work — cited throughout *De Karbouw* (and indeed throughout the wider Atjeh scholarly literature) as "Kreemer, *Atjeh*, I/II" with specific page references — treats Atjeh as a territorial-administrative unit (the colonial [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]]) and gathers together ethnographic, linguistic, religious and historical material on the Achehnese and on the neighbouring Gayo and Alas peoples of the interior. *De Karbouw* cites *Atjeh* on, among other subjects: the Atjehs plough-term *langaj* (I, 501); the Atjeh riverside enclosures during the growing season (I, 504); the Atjeh fattening custom [[peuteumbôn]] (I, 497–498; II, 595, 628); the Atjeh *dwangjuk* term [[leunggoeq]] (I, 505); the Atjeh [[bòh pè]] pulley device (I, 505); the Atjehse crocodile-charmers [[goeroe boeja]] (I, 188, 201); the Atjeh bloeitijdperk of [[1607]]–[[1636]] (I, 192); the Atjeh sale-rite of grasping the buffalo's nose-rope (I, 321); the [[koeta djaq]] "wandelende fort" of buffalo-hide (I, 307); the [[Poephon blang|*poephon blang*]] field-consecration rite (I, 471; II, 578); the magic-circle [[baris-Laksamana]] (I, 312; II, 586–587, 661); the [[sakét oelèe neuraja]] maturation crisis (II, 624); the Atjeh rules on the *teungkoe meunasah* slaughterer (II, 209); the *tjaram* / *tjinggram* earnest-money (II, 321, 368, 383); the [[poewôê siê]] husband obligation (II, 335, 673 nt.); the prohibition on using rice from a death-house as seed-rice (II, 458 nt. 2); the [[Gajoland]] and [[Alasland]] genealogical groups subject to the albino-buffalo prohibition (II, 544); the *seurapi* gold necklace with horn-motif (I, 584); and the Atjeh pantang legend of the albino-buffalo and the *andjalai* storage (I, 507).
+
+## *De Karbouw* (1956)
+
+Kreemer's late synthesis *De Karbouw: Zijn betekenis voor de volken van de Indonesische Archipel* was published in [[1956]] by N.V. Uitgeverij W. van Hoeve in 's-Gravenhage and Bandung. As Kreemer explains in his *Voorbericht* (dated 's-Gravenhage, October [[1955]]), he undertook the book to fill a gap in the ethnographic literature: the buffalo, "the pre-eminently useful domestic animal for the life of the peoples of the Archipelago," had never received a monographic treatment, although Kruyt, Kleiweg de Zwaan and others had written on related animals (the dog, the cat) and Merkens's veterinary dissertation on the buffalo had not addressed its place in popular life and belief. Kreemer accordingly returned, after half a century, to the same subject with which he had begun his scholarly career, but now on the scale of the entire Indonesian archipelago rather than of a single under-district. The book is thus both a culmination and a compendium, and Kreemer notes with quiet wryness that "what is described in this book belongs to an outlived order (*een overleefd tijdsbestel*)" — much had changed since the pre-war sources on which he largely drew, but much also remained the same.
+
+## Method and tone
+
+Kreemer writes in a measured, comparative, late-nineteenth-century ethnographic idiom: he ranges across the archipelago, marshals his citations (to [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers (1893-94)|*De Atjehers*]], to [[G. A. J. Hazeu|Hazeu]]'s Gayo dictionary, to [[Hoesein Djajadiningrat|Djajadiningrat]]'s Atjehsch dictionary, to his own earlier writings), and is generally content to let the comparative material speak for itself rather than to impose a theoretical apparatus. He is, however, attentive to the explanatory glosses offered by his sources — recording, for instance, Snouck Hurgronje's cautionary note that the present-day obedience to a *pantang* food-prohibition rests not on totemistic conviction but on fear of ancestral wrath — and he occasionally allows himself a quietly critical aside, as when he rejects [[W. W. Skeat|Skeat]]'s folk-etymology of *baris-Laksamana* as "Admiral's Line" in favour of the [[Ramayana]] reference to Laksamana's protective circle around Sita.
+
+## Significance
+
+Kreemer is significant for the encyclopedia of [[Acheh]] history on two grounds. First, his *Atjeh* (1922–23) is, with [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s *De Atjehers* (1893–94), one of the two principal Dutch scholarly syntheses on Atjeh as a country and people, and a large proportion of the Atjeh-specific facts recorded in *De Karbouw* derive from it. Second, *De Karbouw* itself, although a work of comparative ethnography rather than an Atjeh monograph, contains in concentrated form a uniquely rich dossier of Atjeh buffalo-lore — vocabulary, agricultural practice, ritual, folk-belief, legal custom — that is in many cases not easily recoverable from any other source. For both reasons, entries throughout this wiki that draw on Atjeh buffalo-related material cite Kreemer as a principal authority.
 
 ## Sources
 
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, 1956), *Voorbericht* (pp. 5-6) and passim.
 
 *Atjèh: algemeen samenvattend overzicht van land en volk van Atjèh en Onderhoorigheden*, by J. Kreemer, 2 dln. (1922-23).
+
+## See Also
+
+- [[Alasland]]
+- [[Atjeh en Onderhorigheden]]
+- [[Christiaan Snouck Hurgronje]]
+- [[G. A. J. Hazeu]]
+- [[Gajo-weg]]
+- [[Gajoland]]
+- [[Hoesein Djajadiningrat]]
+- [[K. F. H. van Langen]]
+- [[Kreemer's Atjeh (1922-23)]]
+- [[Kreemer's De Karbouw (1956)]]
+- [[Kreemer's De Maleier en zijn karbouw (1907)]]
