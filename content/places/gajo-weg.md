@@ -1,6 +1,6 @@
 ---
 title: Gajo-weg
-aliases: ["Aceh-Gayo road", "Gajo weg", "Gajoweg", "Gayo road", "road connecting NE coast of Atjeh with the interior", "verband N.O.-kust Atjeh met binnenland"]
+aliases: [Aceh-Gayo road", Gajo weg", Gajoweg", Gayo road", road connecting NE coast of Atjeh with the interior", verband N.O.-kust Atjeh met binnenland"]
 tags: ["achehnese", "colonial", "gajo", "infrastructure", "place", "road"]
 ---
 **The Gajo-weg** (the Gayo road) was the road connecting the [[N.O.-kust van Atjeh|north-east coast of Atjeh]] with the interior [[Gajoland|Gayo]] highlands of central [[Acheh|Atjeh]], mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 102) as the route along which, in [[1917]], Kreemer personally observed buffalo-cart (*buffelkar*) drivers using a kind of wooden brake-shoe (*remschoen*) on the steep descents — an observation that overturned the then-current Dutch ethnographic assumption that such braking technology was unknown in the archipelago. The Gajo-weg is the only piece of Atjeh infrastructure explicitly named in *De Karbouw*'s chapter on the buffalo as transport animal, and the [[1917]] observation is one of the few personally dated field observations that Kreemer records in the book.

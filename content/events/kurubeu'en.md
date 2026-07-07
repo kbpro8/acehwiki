@@ -1,6 +1,6 @@
 ---
 title: Kurubeu'en (Qurban / Great Feast of Sacrifices)
-aliases: [Kurubeu'en, Qurban, "'Id al-Adha", Great Feast of Sacrifices, Kurban]
+aliases: ["Kurubeu'en", "Qurban", "Id al-Adha", "Great Feast of Sacrifices", "Kurban"]
 tags: [event, religious, festival, calendar, ceremony]
 ---
 

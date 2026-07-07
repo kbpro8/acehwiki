@@ -1,6 +1,6 @@
 ---
 title: Said Hussein's expedition to Acheh (1815)
-aliases: ["Hussain's expedition 1815"]
+aliases: [Hussain's expedition 1815"]
 tags: [event, mission, war, acheh]
 ---
 

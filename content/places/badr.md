@@ -1,6 +1,6 @@
 ---
 title: Badr
-aliases: ["= Raja Bada", "near Medina"]
+aliases: [= Raja Bada", near Medina"]
 tags: ["place", "legendary-land"]
 ---
 

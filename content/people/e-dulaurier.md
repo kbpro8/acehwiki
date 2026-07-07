@@ -1,7 +1,7 @@
 ---
 
 title: E. Dulaurier
-aliases: ["Dulaurier", "E. Dulaurier (editor of Hikajat Radja-radja Pasei)", "Edgar Dulaurier"]
+aliases: [Dulaurier", E. Dulaurier (editor of Hikajat Radja-radja Pasei)", Edgar Dulaurier"]
 tags: ["french", "orientalist", "person", "scholar"]
 ---
 **E. Dulaurier** was a French orientalist whose [[1849]] edition and translation of the [[Hikajat Radja-radja Pasei|*Hikajat Radja-radja Pasei*]] — the Malay chronicle of the kings of [[Pasei|Pasai]], the historical Muslim kingdom on the north coast of [[Acheh|Atjeh]] — made this foundational Atjehnese-Pasai text accessible to European scholarship and supplied one of the earliest Western-language reference points for the history of the Pasai sultanate. Dulaurier's edition is cited in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 209, footnote) in connection with the famous Minangkabau buffalo-fight founding legend, for which the Pasai chronicle is among the early Malay textual witnesses, and is listed in the *Lijst van geschriften* (bibliography) of *De Karbouw* (p. 261) as "DULAURIER, E., Hikajat Radja-radja Pasei, [[1849]]."

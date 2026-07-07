@@ -1,6 +1,6 @@
 ---
 title: Boreudat
-aliases: ["= Baghdad in fictional context"]
+aliases: [= Baghdad in fictional context"]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

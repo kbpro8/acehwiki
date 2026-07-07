@@ -1,7 +1,8 @@
 ---
 title: General Van Swieten
 aliases: [Van Swieten, General Van Swieten, Generaal Van Swieten, J. van Swieten, Jan van Swieten, Conqueror of the Acehnese Van Swieten, war-hero Van Swieten]
-tags: [person, general, dutch, military, colonial, knil, aceh, atjeh, 19th-century, aceh-war]---
+tags: [person, general, dutch, military, colonial, knil, aceh, atjeh, 19th-century, aceh-war]
+---
 **Generaal Van Swieten** — the school-textbook spelling of **Jan van Swieten** (1807–1888), the Dutch general who commanded the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] of November [[1873]]–January [[1874]] and the [[Capture of the Kraton (24 January 1874)|capture of the kraton of 24 January 1874]] — is the [[De Kleine Oosterling|school-textbook]]'s principal Dutch commander of the triumph phase of the Aceh War, and the staff history's principal instance of the Dutch general whose courtesy toward the Atjehnese contrasts with the Atjehnese cruelty toward Dutch envoys.
 
 **General Van Swieten** — the grey war-hero and conqueror of the Acehnese — was the Dutch general who, after the historic storming of the [[Meusigit Raja|misigit]] in [[Koeta-Radja|Koeta Radja]] by the Dutch troops in [[April 1873|April]] [[1873]] (the [[Eerste Atjeh-expeditie (1873)|Eerste Atjeh-expeditie]]) and the burning-down and demolition of the mosque, managed to bring about that the colonial government, entirely at its own cost, built a new mosque — the [[Meusigit Raja]] — which was given to the Acehnese population "to make them forget the suffering of the war and to demonstrate, in the Islamic land par excellence, that the Netherlands respected the Mohammedan religion perfectly." Van Swieten is the figure through whom *[[Oost-Indisch Journael]]* by Merac ([[1947]]) narrates the colonial state's religious politics in [[Atjeh|Aceh]]: the rebuilding of the Meusigit Raja as the forced benefaction of the *kafir Beulanda* (unbelieving Hollander).

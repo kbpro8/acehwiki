@@ -1,6 +1,6 @@
 ---
 title: Koeta djaq
-aliases: ["Atjeh mobile siege-shelter", "Atjehse walking fort", "buffalo-hide siege engine", "koeta djaq", "kuta jak", "wandelende fort"]
+aliases: [Atjeh mobile siege-shelter", Atjehse walking fort", buffalo-hide siege engine", koeta djaq", kuta jak", wandelende fort"]
 tags: ["achehnese", "concept", "military", "precolonial", "siege"]
 ---
 The **koeta djaq** (in [[J. Kreemer|Kreemer]]'s spelling; modern Atjehnese *kuta jak*) was the Atjehnese "wandelende fort" (walking fort) — a mobile siege-shelter made of folded sheets of buffalo-hide, behind which besiegers advanced in small groups and which served as a large shield for several persons at once during the inter-tribal wars of the [[Acheh|Atjeh]] cultural sphere. The *koeta djaq* is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 146) — citing [[Kreemer's Atjeh ([[1922]]-23)|his *Atjeh*]] (vol. I, p. 307) — and is already mentioned in the [[Potjoet Moehammat|mid-eighteenth-century Atjehnese epic *Potjoet Moehammat*]], which attests its use as a military technology of the Atjehnese state at least from the mid-eighteenth century.

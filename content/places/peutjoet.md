@@ -1,6 +1,6 @@
 ---
 title: Peutjoet
-aliases: [Peutjoet, Peucut, the "Eik en Duinen" of Aceh, Aceh cemetery, Peutjoet cemetery, Kuta Alam cemetery, heroes cemetery]
+aliases: [Peutjoet, Peucut, the Eik en Duinen of Aceh, Aceh cemetery, Peutjoet cemetery, Kuta Alam cemetery, heroes cemetery]
 tags: [place, cemetery, aceh, koeta-radja, knil]
 ---
 

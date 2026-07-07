@@ -1,6 +1,6 @@
 ---
 title: Nama
-aliases: ["'the saint with the wrong name' because his real name sounds improper) is"]
+aliases: ["the saint with the wrong name"]
 tags: ["place", "aceh-proper"]
 ---
 

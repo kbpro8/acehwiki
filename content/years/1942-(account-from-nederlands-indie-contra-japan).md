@@ -1,7 +1,8 @@
 ---
 title: 1942 (Account from Nederlands-Indië contra Japan)
 aliases: [Account from Nederlands-Indië contra Japan — 1942, 1942 DLP-20 account, 1942 Atjeh staff history]
-tags: [year, colonial, dutch, military, world-war-ii, japanese-invasion, 20th-century, supplement]---
+tags: [year, colonial, dutch, military, world-war-ii, japanese-invasion, 20th-century, supplement]
+---
 **The year 1942** was, in the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), the year of the [[Japanese invasion of Atjèh|Japanese invasion of March 1942]] and of the [[Sumatra capitulation (28 March 1942)|Dutch capitulation of 28 March 1942]] — the year that ended 39 years of Dutch rule in [[Atjeh|Atjeh]] and installed the Japanese military occupation. The staff history's account of [[1942]] is the most detailed published Dutch narrative of the Atjeh campaign, and the operational complement to Dr. [[A. J. Piekaar|Piekaar]]'s political and social account in *[[Atjèh and the War with Japan]]*.
 
 ## Significance

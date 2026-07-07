@@ -1,6 +1,6 @@
 ---
 title: Lam Teungoh
-aliases: ["XXII Mukims"]
+aliases: [XXII Mukims"]
 tags: ["place", "aceh-proper"]
 ---
 

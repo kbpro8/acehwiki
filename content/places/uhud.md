@@ -1,6 +1,6 @@
 ---
 title: Uhud (Ahat)
-aliases: ["near Medina"]
+aliases: [near Medina"]
 tags: ["place", "sacred-site"]
 ---
 

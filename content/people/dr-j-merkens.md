@@ -1,7 +1,7 @@
 ---
 
 title: Dr. J. Merkens
-aliases: ["Dr. Merkens", "J. Merkens", "J. Merkens (veterinary scientist)"]
+aliases: [Dr. Merkens", J. Merkens", J. Merkens (veterinary scientist)"]
 tags: ["colonial", "dutch", "person", "scholar", "veterinary"]
 ---
 **Dr. J. Merkens** was a Dutch veterinary scientist whose [[1927]] dissertation *Bijdrage tot de kennis van den karbouw en de karbouwenteelt in Nederlandsch O.-Indië* ("Contribution to the knowledge of the buffalo and buffalo-breeding in the Dutch East Indies") and his article "veeteelt" in the *Encyclopaedie van Nederlandsch-Indië* (vol. VI supplement) supplied the principal zoötechnical literature on the water buffalo in the late-colonial Netherlands Indies, and in the course of his fieldwork brought him to [[Acheh|Atjeh]] — where he personally observed the sporadic occurrence of black-piebald (*zwart-bonte*) buffaloes. Merkens is cited repeatedly in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (pp. 28, 30, 50, etc.) as a principal authority on the zoötechnical side of the buffalo, and his Atjeh observation on piebald buffaloes is noted in the chapter on the buffalo's external appearance.

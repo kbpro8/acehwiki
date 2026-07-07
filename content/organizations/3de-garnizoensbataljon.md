@@ -1,7 +1,8 @@
 ---
 title: 3de Garnizoensbataljon
 aliases: [Derde Garnizoensbataljon, IIIde Garnizoensbataljon, 3rd Garrison Battalion, 3de Garnizoensbataljon Atjeh]
-tags: [organization, military, dutch, colonial, knil, atjeh, garrison, 20th-century, world-war-ii]---
+tags: [organization, military, dutch, colonial, knil, atjeh, garrison, 20th-century, world-war-ii]
+---
 **The 3de Garnizoensbataljon** was a garrison battalion of the [[K.N.I.L.|Netherlands Indies Army]] stationed on the *noordkust* and *oostkust* of [[Atjeh|Atjeh]] during [[1940]]–[[1941]], and one of the four garrison battalions (together with the [[1ste Garnizoensbataljon|1ste]], [[2de Garnizoensbataljon|2de]] and [[4de Garnizoensbataljon|4de]]) that formed the Dutch garrison-infantry strength of Atjeh on the eve of the [[Japanese invasion of Atjèh|Japanese invasion of March 1942]]. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), the 3de Garnizoensbataljon is the *oostkust*-oriented battalion whose progressive reduction through [[1940]]–[[1941]] led to its formal dissolution in [[1941]], with its surviving detachments at [[Sigli|Sigli]] and [[Lho Seumawé|Lho Seumawé]] transferred to the [[2de Garnizoensbataljon|2de Garnizoensbataljon]].
 
 The **3de Garnizoensbataljon** was the third Dutch colonial garrison battalion in [[Atjeh|Atjeh]], responsible for the eastern and northern Atjeh coast (*Oostkust* and *Noordkust*) districts. As of [[1 January 1940]], the 3de Garnizoensbataljon held 34 brigades in total, distributed across multiple detachments in the Sigli–Lho Seumawé corridor and the eastern Atjeh coast. It was reduced through the two-phase pre-invasion drawdown of [[1940]] and [[1941]], and formally dissolved following the [[15 February 1941]] reduction that stripped it of its remaining troop detachments.

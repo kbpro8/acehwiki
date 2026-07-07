@@ -1,6 +1,6 @@
 ---
 title: Ceylon
-aliases: ["Silan"]
+aliases: [Silan"]
 tags: ["place", "sacred-site", "foreign-land"]
 ---
 

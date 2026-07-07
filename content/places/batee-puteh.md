@@ -1,6 +1,6 @@
 ---
 title: Batee Puteh
-aliases: ["near Krueng Raya", "XXVI Mukims"]
+aliases: [near Krueng Raya", XXVI Mukims"]
 tags: ["place", "aceh-proper"]
 ---
 

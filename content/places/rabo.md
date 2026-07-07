@@ -1,6 +1,6 @@
 ---
 title: Rabò
-aliases: ["Rabo", "Rabò (near Poelo Breuëh)", "Rabò islet", "islet of Rabò"]
+aliases: [Rabo", Rabò (near Poelo Breuëh)", Rabò islet", islet of Rabò"]
 tags: ["achehnese", "island", "place", "ritual"]
 ---
 **Rabò** is a small islet near [[Poelo Breuëh|Poelo Breuëh]] (also called *Poelau Bras*) off the north-western coast of [[Groot-Atjeh|Groot-Atjeh]] in [[Acheh|Atjeh]], on which the inhabitants of the [[VI Moekim's of Groot-Atjeh|VI Moekim's of Groot-Atjeh]] held, in the period documented by [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] ([[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]], vol. II, p. 315), an annual seven-day feast on the beach — the [[Rabò annual seven-day feast|Rabò annual seven-day feast]] — the seventh day of which culminated in the ritual sacrifice of a buffalo that was first stabbed in some body part and then led bleeding over all the rice-fields "so that none of them should miss the disaster-averting sprinkling with its blood," before being ritually slaughtered and consumed. The islet is named in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 246) as the type-locality of this Atjehnese ritual.

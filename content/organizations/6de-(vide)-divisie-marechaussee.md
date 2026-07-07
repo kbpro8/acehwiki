@@ -1,7 +1,8 @@
 ---
 title: 6de (VIde) Divisie Maréchaussee
 aliases: [Zesde Divisie Maréchaussee, VIde Divisie Maréchaussee, 6th Division Maréchaussee, 6de Divisie Marechaussee, VIde Divisie Marechaussee]
-tags: [organization, military, dutch, colonial, marechaussee, atjeh, knil, 20th-century, world-war-ii, westkust, bakongan]---
+tags: [organization, military, dutch, colonial, marechaussee, atjeh, knil, 20th-century, world-war-ii, westkust, bakongan]
+---
 **The 6de (VIde) Divisie Marechaussee** was the [[Bakongan|Bakongan]] division of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussee van Atjeh en Onderhorigen]] during [[1940]]–[[1942]], the southernmost Maréchaussee division on the [[Westkust van Atjeh|Westkust van Atjeh]] and the formation whose seven brigades at [[Bakongan|Bakongan]] formed the Dutch anchor of the [[Evacuation of women and children from the Westkust of Atjeh (March 1942)|Westkust evacuation]] of March [[1942]]. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), the VIde Divisie is the staff history's principal narrative unit of the southern Westkust outposts — the formation whose [[Bakongan|Bakongan]] camp served as the southern Dutch concentration point for the Westkust women-and-children convoys.
 
 The **6de (VIde) Divisie Maréchaussee** was the sixth divisional formation of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussee van Atjeh en Onderhorigen]], garrisoned at [[Bakongan|Bakongan]] on the Westkust (west coast) of [[Atjeh|Atjeh]] as of [[1 January 1940]], with 7 brigades at that date. The VIde Divisie was evacuated from Bakongan at the end of December [[1941]] and sent under Captain [[R. Supheert|Supheert]] to [[Malakka|Malakka]] — one of the two Maréchaussee divisies transferred out of Atjeh during the pre-invasion drawdown.

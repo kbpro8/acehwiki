@@ -1,6 +1,6 @@
 ---
 title: Hakikah ('Aqiqah)
-aliases: [Hakikah, Aqiqah, "'Aqiqah", Achehnese birth sacrifice, Sacrifice for a newborn child]
+aliases: ["Hakikah", "Aqiqah", "Achehnese birth sacrifice", "Sacrifice for a newborn child"]
 tags: [event, religious-practice, childhood-rite, sacrifice, family-law]
 ---
 

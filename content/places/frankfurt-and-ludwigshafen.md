@@ -1,6 +1,6 @@
 ---
 title: Frankfurt and Ludwigshafen
-aliases: ["Germany"]
+aliases: [Germany"]
 tags: ["place", "legendary-land"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Yaman
-aliases: ["Yemen", "in Hikayat Putroe Baren"]
+aliases: [Yemen", in Hikayat Putroe Baren"]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

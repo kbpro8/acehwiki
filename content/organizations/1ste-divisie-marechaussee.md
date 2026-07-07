@@ -1,7 +1,8 @@
 ---
 title: 1ste Divisie Maréchaussee
 aliases: [Eerste Divisie Maréchaussee, Iste Divisie Maréchaussee, 1st Division Maréchaussee, 1ste Divisie Marechaussee]
-tags: [organization, military, dutch, colonial, marechaussee, atjeh, knil, 20th-century, world-war-ii]---
+tags: [organization, military, dutch, colonial, marechaussee, atjeh, knil, 20th-century, world-war-ii]
+---
 **The 1ste Divisie Marechaussee** was the first of the six divisions of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussee van Atjeh en Onderhorigen]] stationed in the *gewest* of [[Atjeh|Atjeh]] during [[1940]]–[[1942]]. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), the 1ste Divisie is the Blangkedjeren- and central-Atjeh-oriented Maréchaussee division whose eight brigades at [[Blangkedjeren|Blangkedjeren]] — together with the four brigades at [[Koeala Bee|Koeala Bee]] — formed the principal Dutch force in the Alas valley theatre on the eve of the [[Japanese invasion of Atjèh|Japanese invasion of March 1942]].
 
 The **1ste Divisie Maréchaussee** was the first divisional formation of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussee van Atjeh en Onderhorigen]] in the period of the Dutch pre-invasion garrison drawdown ([[1940]]–[[1941]]). As of [[1 January 1940]], the 1ste Divisie was garrisoned principally at [[Blangkedjeren|Blangkedjeren]] — the principal Dutch administrative post of the Gajo Alas interior — with a detachment at [[Koeala Bee|Koeala Bee]] in the south.

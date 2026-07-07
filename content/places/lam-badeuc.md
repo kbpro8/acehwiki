@@ -1,6 +1,6 @@
 ---
 title: Lam Badeuc'
-aliases: ["VI Mukims"]
+aliases: [VI Mukims"]
 tags: ["place", "aceh-proper"]
 ---
 

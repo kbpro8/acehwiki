@@ -1,6 +1,6 @@
 ---
-title: Kreemer's De Karbouw ([[1956]])
-aliases: ["De Karbouw", "De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel", "Kreemer [[1956]]", "Kreemer's De Karbouw"]
+title: Kreemer's De Karbouw (1956)
+aliases: [De Karbouw", De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel", Kreemer 1956", Kreemer's De Karbouw"]
 tags: ["achehnese", "book", "colonial", "document", "dutch", "ethnography"]
 ---
 **Kreemer's *De Karbouw* ([[1956]])** — full title *De Karbouw: Zijn betekenis voor de volken van de Indonesische Archipel* ("The Water-Buffalo: Its significance for the peoples of the Indonesian Archipelago") — is the late synthesis of [[J. Kreemer|J. Kreemer]], published in [[1956]] by N.V. Uitgeverij W. van Hoeve in 's-Gravenhage and Bandung, in which the author, at the end of a half-century career as a Dutch colonial official and ethnographer of northern Sumatra, gathered the comparative ethnographic material on the water-buffalo across the Indonesian archipelago into a single comprehensive survey. The book is, after [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] ([[1922]]-23) and [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] ([[1893]]-94), the principal Dutch scholarly source on the Atjehnese buffalo-complex, and is the immediate source on which a large proportion of the Atjeh-specific entries in this wiki rest.

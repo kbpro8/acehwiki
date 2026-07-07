@@ -1,7 +1,7 @@
 ---
 
 title: K. F. H. van Langen
-aliases: ["C. F. H. van Langen", "K.F.H. van Langen", "Karel Ferdinand Hubert van Langen", "Van Langen"]
+aliases: [C. F. H. van Langen", K.F.H. van Langen", Karel Ferdinand Hubert van Langen", Van Langen"]
 tags: ["colonial", "dutch", "geographer", "person", "scholar"]
 ---
 **K. F. H. van Langen** was a Dutch colonial official and geographer whose article "[[Van Langen's Atjeh's Westkust ([[1888]])|Atjeh's Westkust]]," published in [[1888]] in volume II of the *Tijdschrift van het Koninklijk Nederlandsch Aardrijkskundig Genootschap*, supplied one of the earliest systematic Western geographical accounts of the West Coast of [[Acheh|Atjeh]] and remained a standard reference for the region through the early decades of the twentieth century. Van Langen's study is cited in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 104) — together with [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (I, p. 120) and [[G. A. J. Wilken|Wilken]]'s *Verspreide Geschriften* (II, p. 488) — as one of the three principal authorities for the [[Atjeh adat schimpstraf (buffalo-riding wife-beater)|Atjeh *adat* schimpstraf]] that paraded a wife-beater seated on a female buffalo, dressed in a head-cloth of dried banana-leaves and hung with wooden weapons and a chain of shells, to public mockery.

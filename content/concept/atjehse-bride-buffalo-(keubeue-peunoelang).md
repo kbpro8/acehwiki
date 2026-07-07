@@ -1,6 +1,6 @@
 ---
 title: Atjehse bride buffalo (keubeuë peunoelang)
-aliases: ["Atjeh bride buffalo custom", "Atjehse bride buffalo", "bride buffalo of Atjeh", "keubeuë peunoelang custom"]
+aliases: [Atjeh bride buffalo custom", Atjehse bride buffalo", bride buffalo of Atjeh", keubeuë peunoelang custom"]
 tags: ["achehnese", "adat", "concept", "marriage"]
 ---
 See [[keubeuë peunoelang]].

@@ -1,6 +1,6 @@
 ---
 title: Boytay Jami
-aliases: ["in Hikayat Banta Ali Peureudan"]
+aliases: [in Hikayat Banta Ali Peureudan"]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

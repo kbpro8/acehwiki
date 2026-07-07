@@ -1,7 +1,7 @@
 ---
 
 title: Sultan Iskandar Muda
-aliases: ["Acehnese Sun-King", "Eseukanda Muda", "Iskandar Muda", "Iskandar Muda of Aceh", "Meukuta Alam", "Perkasa Alam", "Roi soleil" of Atjeh", "Soeltan Iskandar Moeda", "Sultan Iskandar Moeda", "Sultan Iskandar Muda of Atjeh", "Sultan Meukuta Alam", "Sultan of Atjeh in the 17th century", "the great Meukuta Alam"]
+aliases: [Acehnese Sun-King", Eseukanda Muda", Iskandar Muda", Iskandar Muda of Aceh", Meukuta Alam", Perkasa Alam", Roi soleil of Atjeh", Soeltan Iskandar Moeda", Sultan Iskandar Moeda", Sultan Iskandar Muda of Atjeh", Sultan Meukuta Alam", Sultan of Atjeh in the 17th century", the great Meukuta Alam"]
 tags: ["17th-century", "aceh", "acehnese", "achehnese", "golden-era", "historical-figure", "legendary", "person", "precolonial", "sultan", "sultanate"]
 ---
 **Sultan Iskandar Muda** was the *"Roi soleil"* of the Atjehnese sultans, whose reign from [[1607]] to [[1636]] — known in Dutch historiography as the [[Atjeh bloeitijdperk ([[1607]]-[[1636]])|*bloeitijdperk*]] (golden age) of [[Acheh|Atjeh]]'s past — saw the sultanate reach the zenith of its military, commercial and cultural power, and whose court at [[Banda Acheh|Koetaradja]] entertained foreign envoys with spectacles in which both elephants and buffaloes were deployed as fighting animals. Iskandar Muda's reign is the high-water mark of pre-colonial Atjehnese statehood; under his rule the sultanate dominated the [[Straits of Malacca|Strait of Malacca]], projected military force across northern Sumatra and the Malay Peninsula, and patronised an Islamic courtly culture whose pomp — in [[J. Kreemer|Kreemer]]'s words — "would have bordered on the marvellous."

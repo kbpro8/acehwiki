@@ -1,6 +1,6 @@
 ---
 title: kawōm Dja Sandang
-aliases: ["Dja Sandang lineage", "kawom Dja Sandang", "kawōm Dja Sandang of Groot-Atjeh", "old-fashioned lineage of Groot-Atjeh"]
+aliases: [Dja Sandang lineage", kawom Dja Sandang", kawōm Dja Sandang of Groot-Atjeh", old-fashioned lineage of Groot-Atjeh"]
 tags: ["achehnese", "adat", "concept", "lineage", "pantang"]
 ---
 The **kawōm Dja Sandang** was the "old-fashioned" lineage (*ouderwetse geslacht*) of [[Groot-Atjeh|Groot-Atjeh]] among whom the [[Pantang of the albino buffalo in Atjeh|prohibition on slaughtering the albino buffalo]] applied. The *kawōm* (the Atjehnese term for a genealogical lineage / kinship group) is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 217) — citing [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 54; vol. II, p. 332) — as the first of the six North-Sumatran population-groups among whom the albino-buffalo prohibition is attested. [[J. Kreemer|Kreemer]] notes that although the *kawōm*-name itself had long been forgotten by the descendants, the *pantang* prescription still lived on unweakened (*onverzwakt voort*).

@@ -1,7 +1,7 @@
 ---
 
 title: L. C. Westenenk
-aliases: ["L.C. Westenenk", "Louis Constant Westenenk", "Westenenk"]
+aliases: [L.C. Westenenk", Louis Constant Westenenk", Westenenk"]
 tags: ["colonial", "dutch", "ethnographer", "person", "scholar"]
 ---
 **L. C. Westenenk** was a Dutch colonial official and ethnographer whose writings on the Sumatran interior — including Minangkabau studies and a [[1922]] article on "Rëntjong-schrift, II, Beschreven hoorns in het landschap Krintji" published in the *Tijdschrift van het Bataviaasch Genootschap* — documented the [[rëntjong-schrift]] (rencong / surat ulú) script family that includes the pre-Islamic writing systems of [[Acheh|Atjeh]], the [[Gajoland|Gayo]]-[[Alasland|Alas]] highlands, [[Krintji|Kerinci]] and the [[Rejang|Rejang]] country, and specifically the practice of inscribing buffalo horns as a documentation medium. Westenenk's work is cited in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] in connection with the Minangkabau buffalo-fight founding legend (where his *Land en volk van Minangkabau* and *Opstellen over Minangkabau* are listed alongside [[E. Dulaurier]] and [[A. Marre]] as authorities for the textual tradition), and his [[1922]] rëntjong-schrift article is listed in the *Lijst van geschriften* (bibliography) of *De Karbouw* (p. 268).

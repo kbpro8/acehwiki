@@ -1,6 +1,6 @@
 ---
 title: Keureutoe
-aliases: ["Kerti"]
+aliases: [Kerti"]
 tags: ["place", "north-east-coast"]
 ---
 

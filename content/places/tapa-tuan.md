@@ -1,6 +1,6 @@
 ---
 title: Tapa' Tuan
-aliases: ["vulg. Tempat Tuan"]
+aliases: [vulg. Tempat Tuan"]
 tags: ["place", "north-east-coast", "west-coast"]
 ---
 

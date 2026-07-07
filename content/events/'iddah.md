@@ -1,6 +1,6 @@
 ---
 title: "'Iddah"
-aliases: ["'Iddah", Iddat, Waiting period after divorce or widowhood]
+aliases: ["Iddah", "Iddat", "Waiting period after divorce or widowhood"]
 tags: [event, family-law, divorce, religious-practice]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Reubee
-aliases: [V Mukims, Five Mukims, V Mukims of the XXII, "Lhee Mukim?"]
+aliases: ["V Mukims", "Five Mukims", "V Mukims of the XXII", "Lhee Mukim"]
 tags: [place, north-east-coast, mukim, district, xxii-mukims, tunong, uleebalang, twelve-uleebalangs]
 ---
 

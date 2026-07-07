@@ -1,6 +1,6 @@
 ---
 title: The Dalam
-aliases: ["Royal Palace and Enclosure"]
+aliases: [Royal Palace and Enclosure"]
 tags: ["place"]
 ---
 

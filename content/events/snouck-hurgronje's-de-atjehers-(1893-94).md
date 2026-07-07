@@ -1,6 +1,6 @@
 ---
-title: Snouck Hurgronje's De Atjehers ([[1893]]-94)
-aliases: ["De Atjehers", "De Atjèhers", "Snouck Atjehers", "Snouck Hurgronje De Atjehers", "Snouck's Atjehers", "The Achehnese (Snouck Hurgronje)"]
+title: Snouck Hurgronje's De Atjehers (1893-94)
+aliases: [De Atjehers", De Atjèhers", Snouck Atjehers", Snouck Hurgronje De Atjehers", Snouck's Atjehers", The Achehnese (Snouck Hurgronje)"]
 tags: ["achehnese", "book", "colonial", "document", "dutch", "ethnography"]
 ---
 **Snouck Hurgronje's *De Atjehers* ([[1893]]-94)** ("The Atjehnese") is the two-volume foundational ethnography of the [[Acheh|Atjeh]]nese by [[Christiaan Snouck Hurgronje|Christiaan Snouck Hurgronje]], published in [[1893]]-[[1894]] (Leiden: E. J. Brill), and is, with [[J. Kreemer|Kreemer]]'s [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh* ([[1922]]-23)]], one of the two principal Dutch scholarly syntheses on Atjeh as a country and people. The English translation by A. W. S. O'Sullivan, with index by R. J. Wilkinson, was published as *The Achehnese* (Leiden: E. J. Brill; London: Luzac & Co., [[1906]]). The work is the most-cited source in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] for Atjehnese ethnographic detail, and is cited throughout the Atjeh-specific entries in this wiki.

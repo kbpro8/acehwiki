@@ -1,6 +1,6 @@
 ---
 title: Gampong Kandang
-aliases: ["ancient gampong"]
+aliases: [ancient gampong"]
 tags: ["place", "aceh-proper"]
 ---
 

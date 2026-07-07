@@ -1,7 +1,8 @@
 ---
 title: Prince Maurits
 aliases: [Maurits van Nassau, Maurits van Oranje, Maurice of Nassau, Prince Maurice, Prins Maurits]
-tags: [person, dutch, statesman, military, colonial, voc, atjeh, netherlands, 16th-century, 17th-century, staten-generaal]---
+tags: [person, dutch, statesman, military, colonial, voc, atjeh, netherlands, 16th-century, 17th-century, staten-generaal]
+---
 **Prince Maurits** — *Maurits van Oranje* (Maurice of Orange, 1567–1625), stadtholder of the United Provinces of the Netherlands from [[1585]] to [[1625]] — was the addressee of the [[Atjeh embassy to Prince Maurits (1601)|first Atjehnese embassy to the Netherlands of 1601]], the recipient of the sultan of [[Atjeh|Atjeh]]'s letters and gifts in response to Maurits's own letter and gifts of the same year, and the staff history's principal Dutch royal actor of the [[De Kleine Oosterling|school-textbook]] narrative of early Dutch-Atjehnese relations.
 
 **Prince Maurits** (1567-1625) — **Maurits van Nassau, Prins van Oranje**, Stadhouder of Holland and Zeeland from [[1585]] and of all the United Provinces from [[1590]] — was the principal Dutch military commander of the Dutch Revolt against Spain and the principal political opponent of [[Johan van Oldenbarneveldt|Johan van Oldenbarneveldt]] in the conflict over the [[Twelve Years' Truce (1609)|Twelve Years' Truce]]. In the Dutch-Atjeh relationship, Maurits is the principal Dutch royal correspondent of the [[Sultan of Atjeh (1589-1604)|Sultan of Atjeh]], whose letters and gifts to the sultan produced the [[Atjeh embassy to Prince Maurits (1601)|first Achehnese embassy to the Netherlands]] and inaugurated formal Dutch-Achehnese diplomatic relations.

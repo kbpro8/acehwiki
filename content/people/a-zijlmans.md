@@ -1,7 +1,8 @@
 ---
 title: A. Zijlmans
 aliases: [1st Lt A. Zijlmans, Eerste Luitenant Zijlmans, Zijlmans, acting commander IIde Divisie Marechaussee]
-tags: [person, dutch, military, colonial, knil, marechaussee, atjeh, world-war-ii]---
+tags: [person, dutch, military, colonial, knil, marechaussee, atjeh, world-war-ii]
+---
 *(This entry is reserved. The source file contained only YAML frontmatter and no body text. Please supply the article text or remove this entry from the index.)*
 
 **A. Zijlmans** was a first lieutenant of the [[K.N.I.L.|Netherlands Indies Army]] Maréchaussee who, on [[10 March 1942]], succeeded to the acting command of the IIde Divisie Maréchaussee on the Westkust van Atjeh when Captain [[L. H. J. Kloprogge|Kloprogge]] marched to relieve [[Tjalang|Tjalang]], and who in that capacity conducted the [[Evacuation of women and children from the Westkust of Atjeh (March 1942)|evacuation of the Westkust women and children]] from [[Meulaboh|Meulaboh]] to the Singkelse and fought the [[Battle of Blang Pidië (16 March 1942)|Battle of Blang Pidië]] on [[17 March 1942]]. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), Zijlmans is the principal subordinate of Kloprogge in the Westkust theatre.

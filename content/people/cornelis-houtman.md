@@ -1,7 +1,8 @@
 ---
 title: Cornelis Houtman
 aliases: [Cornelis de Houtman, Cornelius Houtman, Houtman (Cornelis)]
-tags: [person, dutch, navigator, precolonial, atjeh, netherlands-east-indies, 16th-century]---
+tags: [person, dutch, navigator, precolonial, atjeh, netherlands-east-indies, 16th-century]
+---
 **Cornelis Houtman** was a Zeeland navigator and merchant who, together with his brother [[Frederik Houtman|Frederik Houtman]], commanded the two Zeeland ships that in [[1599]] conducted the [[Houtman brothers' visit to Atjeh (1599)|first Dutch visit to the kingdom of Atjeh]] on Sumatra, and whose abandonment of his captured brother at the Atjehnese court is the [[De Kleine Oosterling|school-textbook]]'s opening instance of Dutch-Atjehnese encounter. In the [[De Kleine Oosterling|Wijma school reader]], Cornelis is the principal named Dutch actor of the [[Houtman brothers' visit to Atjeh (1599)|1599 visit]] — the captain forced to choose between his brother and his ships.
 
 **Cornelis Houtman** was a Zeeland navigator and merchant who, together with his brother [[Frederik Houtman|Frederik Houtman]], commanded the two Zeeland ships that in [[1599]] conducted the [[Houtman brothers' visit to Atjeh (1599)|first Dutch visit to the kingdom of Atjeh]] on Sumatra, and whose abandonment of his captured brother at the Atjehnese court is the [[De Kleine Oosterling|school-textbook]]'s opening instance of Dutch-Atjehnese encounter. In the [[De Kleine Oosterling|Wijma school reader]], Cornelis is the principal named Dutch actor of the [[Houtman brothers' visit to Atjeh (1599)|1599 visit]] — the captain forced to choose between his brother and his ships.

@@ -1,6 +1,6 @@
 ---
 title: Kawadamin
-aliases: ["= Khwarizm", "in Hikayat Cham Nadiman"]
+aliases: [= Khwarizm", in Hikayat Cham Nadiman"]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Leubè raya
-aliases: [Hari Raya Puasa, Eid al-Fitr, Leube raya, "'Id al-Fitr", Uroe raya]
+aliases: ["Hari Raya Puasa", "Eid al-Fitr", "Leube raya", "Id al-Fitr", "Uroe raya"]
 tags: [event, religious, festival, ceremony]
 ---
 

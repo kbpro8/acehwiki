@@ -1,6 +1,6 @@
 ---
 title: Keutapang Dua
-aliases: ["in sadati performance"]
+aliases: [in sadati performance"]
 tags: ["place", "legendary-land"]
 ---
 

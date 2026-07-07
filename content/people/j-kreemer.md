@@ -1,7 +1,7 @@
 ---
 
 title: J. Kreemer
-aliases: ["J. Kreemer (author of Atjeh)", "Johannes Kreemer", "Kreemer", "Kreemer (author of De Karbouw)"]
+aliases: [J. Kreemer (author of Atjeh)", Johannes Kreemer", Kreemer", Kreemer (author of De Karbouw)"]
 tags: ["colonial", "dutch", "ethnographer", "person", "scholar"]
 ---
 **J. Kreemer** was a Dutch colonial official and ethnographer who served as a *Kontroleur B.B.* on [[Sumatra's Westkust]] in the early twentieth century and later became the author of the standard two-volume monograph [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh* ([[1922]]-23)]] and of the comparative ethnography [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]], the latter a sweeping survey of the water buffalo's significance for the peoples of the Indonesian archipelago. Kreemer's career illustrates the typical trajectory of the colonial scholar-administrator: he began as a young *Kontroleur* in northern Sumatra — a posting that brought him into direct contact with [[Acheh|Atjeh]], the [[Gajoland|Gayo]] highlands, and the [[Alasland|Alas]] valley — and over the following half-century converted his field observations and wide reading into a body of ethnographic and folkloristic work on which later students of northern Sumatran culture have continued to draw. He explicitly identifies himself, in the preface to *De Karbouw*, as the same author who fifty years earlier had published "*De Maleier en zijn karbouw*" in [[1907]] in *De Indische Gids*, dl. I — a first fruit composed when he was still a junior official working a single under-district on Sumatra's Westkust.

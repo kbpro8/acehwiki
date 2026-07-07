@@ -1,6 +1,6 @@
 ---
 title: Atjeh's Westkust
-aliases: ["Aceh's West Coast", "West Aceh", "West Coast of Atjeh", "Westkust Atjeh", "Westkust van Atjeh"]
+aliases: [Aceh's West Coast", West Aceh", West Coast of Atjeh", Westkust Atjeh", Westkust van Atjeh"]
 tags: ["aceh-proper", "achehnese", "coast", "colonial", "place"]
 ---
 **Atjeh's Westkust** (the West Coast of Atjeh) is the long stretch of Atlantic-facing coast of [[Acheh|Atjeh]] running south-west from [[Banda Acheh|Koetaradja]] through the modern [[Aceh Jaya Regency|Aceh Jaya]], [[Aceh Barat Regency|Aceh Barat]] (Meulaboh), [[Nagan Raya Regency|Nagan Raya]] and [[Aceh Selatan Regency|Aceh Selatan]] (Tapak Tuan) regencies — a coast that figures in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] as both a documented locus of buffalo-related adat practice (the [[Atjeh adat schimpstraf (buffalo-riding wife-beater)|buffalo-riding *schimpstraf*]]) and as a hinterland of buffalo-export trade. The standard Dutch geographical account of the Westkust is [[K. F. H. van Langen|Van Langen]]'s [[Van Langen's Atjeh's Westkust ([[1888]])|*Atjeh's Westkust*]] ([[1888]]), published in the *Tijdschrift van het Koninklijk Nederlandsch Aardrijkskundig Genootschap*.

@@ -1,7 +1,7 @@
 ---
 
 title: Teuku Keureukon
-aliases: ["Katib ul-mulk", "Katiboy mulut", "Keureukon Katibulmuluk"]
+aliases: [Katib ul-mulk", Katiboy mulut", Keureukon Katibulmuluk"]
 tags: [person, official-title]
 ---
 

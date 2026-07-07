@@ -1,6 +1,6 @@
 ---
 title: Sakét oelèe neuraja
-aliases: ["Atjeh buffalo crisis of nest-hairs", "Atjeh buffalo maturation crisis", "illness at onset of maturity", "s.o. neurajeuq", "sakét oelèe neuraja"]
+aliases: [Atjeh buffalo crisis of nest-hairs", Atjeh buffalo maturation crisis", illness at onset of maturity", s.o. neurajeuq", sakét oelèe neuraja"]
 tags: ["achehnese", "concept", "folk-belief", "magic", "veterinary"]
 ---
 The **sakét oelèe neuraja** (in [[J. Kreemer|Kreemer]]'s spelling; variant *s.o. neurajeuq*; literally "illness at the onset of maturity" — *ziekte bij het begin van de wasdom*) is the Atjehnese concept of a critical maturation-crisis through which, according to the Atjeher, every buffalo (like all other animals and humans) must pass before it is adult. The crisis shows no specific disease-symptoms but is recognised, in buffaloes, by "the falling-out of the nest-hairs" (*het uitvallen der nestharen*); if the animal does not pass this crisis, all sorts of illnesses can ensue. The concept is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 172) — citing [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. II, p. 52) and [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. II, p. 624).

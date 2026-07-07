@@ -1,6 +1,6 @@
 ---
 title: Betal-faqih
-aliases: ["Bayt al-Faqih", "Yemen"]
+aliases: [Bayt al-Faqih", Yemen"]
 tags: ["place", "sacred-site"]
 ---
 
