@@ -1,9 +1,8 @@
 ---
 title: Singkel
-aliases: [Singkil, Singkél, Singkel, Beneden-Singkel, Boven-Singkel, Oeloe Singkel]
-tags: [place, north-east-coast, west-coast, region, slaves, batak, holy-site, onderafdeeling, westkust, colonial]
+aliases: [Singkil, Singkél, Singkel, Beneden-Singkel, Boven-Singkel, Oeloe Singkel, Singkeln, Sinkel]
+tags: [place, north-east-coast, west-coast, region, slaves, batak, holy-site, onderafdeeling, westkust, colonial, sumatra, achehnese]
 ---
-
 A port and territory at the southern extreme of the West Coast, marking the boundary of [[Acheh]]. 'Beginning at Padang right up to Singkel, all tribute is raised for the King of Holland.' (sadati dialogue). [[Abdurra'uf of Singkel]], the great saint Teungku di Kuala, came from Singkel; his family name ('of Singkel') appears in the salasilahs. The hikayat Banta Beuransah (a romance) describes the war waged by Beuransah against [[China]]: 'the poet makes him touch successively at almost all the harbours of the East, West and North Coasts of [[Acheh]] and its dependencies, and finally arrive in [[Aramiah]] at the source of the river of Singke (Singkel).'
 
 ## Expanded account from *The Achehnese*, Vol. I — Singkel
@@ -46,6 +45,38 @@ The Encyclopaedisch Bureau's earlier Sumatra-wide survey (Aflevering 1, Hoofdstu
 
 The [[Nederlands-Indië contra Japan|Dutch WWII staff history]] separately describes Singkel as the demographic frontier between the Atjehnese and the Minangkabau-Batak populations: the *onderafdeeling* Singkel "viel dus eigenlijk buiten de Atjehse sfeer" (thus actually fell outside the Atjehnese sphere), its population being "hoofdzakelijk Minangkabauers en Batakkers." This demographic frontier was the geographical foundation of Singkel's role as the southern destination of the [[Evacuation of women and children from the Westkust of Atjeh (March 1942)|Westkust evacuation of March 1942]] — the *onderafdeeling* lying outside the [[F-beweging|F. beweging]]'s zone of mobilisation. The *cultuuronderneming* [[Lae Boetar|Lae Boetar]], 60 km north-east of Singkel, was the site of the resulting [[Capitulation at Lae Boetar (29 March 1942)|capitulation of 29 March 1942]].
 
+## Account from Stapel's *De Koloniën* (1931)
+
+**Singkel** was the northernmost significant place on the [[Westkust van Sumatra|Westkust van Sumatra]] included in the [[Painansch Contract]] system, lying north of [[Baros|Baros]] and south of [[Atjeh|Atjeh]] itself. In Dr. F. W. Stapel's *Geschiedkundige Atlas van Nederland* Singkel is the last major place to accede to the Painansch system, signing on [[19 March]] [[1672]] and thereby completing the Westkust-wide coverage of the Compagnie's treaty network.
+
+## The 1672 accession
+
+The extension of the [[Painansch Contract]] to Singkel was the work of commandeur [[Jacob Jorisse Pits|Jacob Jorisse Pits]], acting in his capacity as the Menangkabau king's stadtholder over the coastal lands. "On 19 March 1672 Singkel recognised the king of Menangkabau as sovereign and the Compagnie as protectress. The Compagnie also received there the trade monopoly, with entire toll-freedom" (*19 Maart 1672 erkende Singkel Menangkabau's Vorst als soeverein en de Compagnie als beschermster. De Compagnie kreeg ook daar het handelsmonopolie, met geheele tolvrijheid*).
+
+The Singkel accession is the clearest statement of the Menangkabau constitutional theory of the Westkust system: the king of Menangkabau is sovereign, the Compagnie is protectress, and the trade monopoly is the price of protection. Singkel is the test case because it is the northernmost place included, lying closest to Atjeh itself.
+
+## The completion of the Painansch system
+
+"With the accession of Singkel to the Painansch contract all places of importance on the West Coast were now united in it" (*Met de opneming van Singkel in het Painansch contract waren nu alle plaatsen van beteekenis op de Westkust daarin vereenigd*). The completion of the Painansch system in [[1672]] is the high point of [[Jacob Jorisse Pits|Pits]]'s Westkust command.
+
+## The 1681 re-accession
+
+Singkel re-confirmed its accession in [[1681]] as part of the post-[[Padang Conference (29 August 1680)|Padang Conference]] consolidation. "On 12 February [1681] those of Singkel signed a similar contract" (*Den 12den Februari teekenden die van Singkel een gelijk contract*). The re-accession followed the pattern of the Padang Conference: the Compagnie was re-stating its treaty network in the more solemn form of the 1680 general bond.
+
+## The 1690 renewal
+
+Stapel records that "in 1690 the contract with Baros and Singkel was confirmed" (*In 1690 werd het contract met Baros en Singkel bevestigd*). The pairing of Baros and Singkel — the two northernmost Painansch places — is consistent in Stapel's narrative; they are treated as a single northern Westkust complex, lying closest to Atjeh and most exposed to Atjehsche intrigue.
+
+## The 1693 Jorrendayyer presence
+
+Singkel was also a station of the [[Atjehsche Jorrendayyers|Atjehsche Jorrendayyers]]. "Atjehsche 'Jorrendayyers' came regularly to the West Coast and the islands to carry on unauthorised trade. At [[Ajerbangis]], Singkel, [[Nias]] they came" (*Atjehsche 'Jorrendayyers' kwamen geregeld op de Westkust en de eilanden ongeoorloofden handel drijven. Te Ajerbangis, Singkel, Nias kwamen ze*). The Jorrendayyer presence at Singkel is the operational proof that the Painansch Contract's formal exclusivity could not suppress the small Atjehsche trade that operated at the edges of the Compagnie's system.
+
+## Significance
+
+Singkel is the northernmost place included in the [[Painansch Contract]] system, and its [[1672]] accession completed the Compagnie's Westkust-wide treaty network. Its closeness to Atjeh made it both strategically important — it was the Compagnie's northernmost Westkust outpost — and commercially porous: the persistent presence of Atjehsche Jorrendayyers at Singkel through the late seventeenth century is the proof that even the formal completion of the Painansch system could not exclude the small-scale Atjehsche trade.
+
+The Menangkabau constitutional theory is also stated most clearly in the Singkel accession: "the king of Menangkabau as sovereign and the Compagnie as protectress" is the formula that would define the Westkust system through the entire VOC period.
+
 ## See Also
 
 - [[Abdurra'uf of Singkel]]
@@ -72,8 +103,25 @@ The [[Nederlands-Indië contra Japan|Dutch WWII staff history]] separately descr
 - [[1905]]
 - [[1917]]
 - [[1942]]
+- [[Baros]]
+- [[Painansch Contract]]
+- [[Jacob Jorisse Pits]]
+- [[Menangkabau]]
+- [[Atjehsche Jorrendayyers]]
+- [[Ajerbangis]]
+- [[Nias]]
+- [[Westkust van Sumatra]]
+- [[Vereenigde Oost-Indische Compagnie]]
+- [[19 March]]
+- [[12 February]]
+- [[1672]]
+- [[1681]]
+- [[1690]]
+- [[1693]]
 
 ## Sources
+
+s
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
@@ -82,3 +130,5 @@ The [[Nederlands-Indië contra Japan|Dutch WWII staff history]] separately descr
 *De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), pp. 28–29.
 
 *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V, p. 120.
+
+*De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 18–19, 21–22, 3 (tekst bij blad 4 en 5: *Atjeh en de Westkust van Sumatra in 1684*, *De Compagnie in den Archipel na 1684 tot 1791 — Sumatra*).
