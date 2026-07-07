@@ -47,6 +47,16 @@ Van der Kemp adduces the Siak correspondence as evidence of the British governme
 - [[Bellona mission to Sumatra's East Coast (1827-1828)]]
 - [[Fullerton's minute on Acheh (21 March 1825)]]
 - [[Dutch Salt Price Reduction]]
+- [[Tongkoe Ismail (Sultan of Siak)]]
+- [[Sultan Said Ali (of Siak)]]
+- [[Sultan Ismail of Siak]]
+- [[Radja Ketjil]]
+- [[atjehsche-overheersing-der-noordelijke-kuststaatjes]]
+- [[atjeh-as-opperheer-in-langkat-deli-serdang-(1854)]]
+- [[Siak tractate of 1 February 1858]]
+- [[Siak Contract of 23 June 1884 (cession of rights from Panei to Atjeh)]]
+- [[1827]]
+- [[1828]]
 
 ## Source
 
@@ -96,6 +106,16 @@ Van der Kemp adduces the Siak correspondence as evidence of the British governme
 - [[Bellona mission to Sumatra's East Coast (1827-1828)]]
 - [[Fullerton's minute on Acheh (21 March 1825)]]
 - [[Dutch Salt Price Reduction]]
+- [[Tongkoe Ismail (Sultan of Siak)]]
+- [[Sultan Said Ali (of Siak)]]
+- [[Sultan Ismail of Siak]]
+- [[Radja Ketjil]]
+- [[atjehsche-overheersing-der-noordelijke-kuststaatjes]]
+- [[atjeh-as-opperheer-in-langkat-deli-serdang-(1854)]]
+- [[Siak tractate of 1 February 1858]]
+- [[Siak Contract of 23 June 1884 (cession of rights from Panei to Atjeh)]]
+- [[1827]]
+- [[1828]]
 
 ## Source
 
