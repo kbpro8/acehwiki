@@ -1,10 +1,11 @@
 ---
 title: Koeta-Radja
-aliases: [Kuta Raja, Koeta Radja, Kutaraja, Kutaraja (Banda Aceh), Banda Aceh, Banda Aceh]
-tags: [place, city, aceh, colonial-capital]
+aliases: [Kuta Raja, Koeta Radja, Kutaraja, Kutaraja (Banda Aceh), Banda Aceh, Kota Radja, Kotaradja, Kota Raja, capital of Atjeh]
+tags: [place, city, capital, aceh, sumatra, colonial, colonial-capital, government-seat, achehnese-history]
+description: Kota Radja (also Kotaradja, Koeta-Radja; modern Banda Aceh) was the capital of the Dutch Gouvernement Atjeh en Onderhoorigheden and the principal city of Atjeh. By 1926 it served as the starting point for automobile travel across Sumatra to Padang, symbolising the transformation of transport infrastructure following the pacification.
 ---
 
-**Koeta-Radja** — also *Kutaraja*, modern *Banda Aceh* — was the *hoofdplaats* (capital) of the *gewest* (province) of [[Atjeh|Aceh]], the seat of the Sultanate of [[Aceh]] before the [[Atjeh-oorlog|Aceh War]] and the seat of the Dutch military and civilian administration after. It is the place of the [[Meusigit Raja]] — the Royal Mosque built on the site of the first mosque of [[Sultan Iskandar Muda]], stormed by the Dutch troops in [[April 1873|April]] [[1873]] and rebuilt by [[generaal Van Swieten|Van Swieten]] — and, in the later colonial period, the principal garrison of the [[K.N.I.L.]], the post of [[Dominee Thenu]], and the site of his [[Funeral of Dominee Thenu (11 May 1937)|funeral]] on [[11 May]] [[1937]].
+**Koeta-Radja** — also *Kutaraja*, *Kota Radja*, modern *Banda Aceh* — was the *hoofdplaats* (capital) of the *gewest* (province) of [[Atjeh|Aceh]], the seat of the Sultanate of [[Aceh]] before the [[Atjeh-oorlog|Aceh War]] and the seat of the Dutch military and civilian administration after. It is the place of the [[Meusigit Raja]] — the Royal Mosque built on the site of the first mosque of [[Sultan Iskandar Muda]], stormed by the Dutch troops in [[April 1873|April]] [[1873]] and rebuilt by [[generaal Van Swieten|Van Swieten]] — and, in the later colonial period, the principal garrison of the [[K.N.I.L.]], the post of [[Dominee Thenu]], and the site of his [[Funeral of Dominee Thenu (11 May 1937)|funeral]] on [[11 May]] [[1937]]. By [[1926]], the city served as a symbol of the transformed infrastructure of the [[Buitengewesten|Outer Territories]], being the northern terminus from which one could travel by automobile all the way to [[Padang]] on the west coast of Sumatra.
 
 ## The colonial capital
 
@@ -16,9 +17,9 @@ The [[Meusigit Raja]] is the well-known Mohammedan place of prayer in Aceh's cap
 
 ## The dominee's post
 
-"Er was in Koeta Radja een dominee geplaatst" — a dominee was placed in Koeta-Radja. The post of the *Inlands Godsdienstleraar* attached to the garrison of Koeta-Radja was the post [[Dominee Thenu]] accepted in [[1894]]. The dominee visited the zieken in the hospitaal and held kerkdiensten for the garnizoen. Newcomers to Aceh always started at Koeta-Radja. "Als Dominee Thenu iets ongunstigs over een post in Koeta Radja meldde, was de toestand onhoudbaar" — if Dominee Thenu reported something unfavourable about a post "in Koeta-Radja," it meant the situation was untenable.
+"Er was in Koeta Radja een dominee geplaatst" — a dominee was placed in Koeta-Radja. The post of the *Inlands Godsdienstleraar* attached to the garrison of Koeta-Radja was the post [[Dominee Thenu]] accepted in [[1894]]. The dominee visited the zieken in the hospitaal and held kerkdiensten for the garnizoen. Newcomers to Aceh always started at Koeta-Radja. "Als Dominee Thenu iets ongunstigs over een post in Koeta-Radja meldde, was de toestand onhoudbaar" — if Dominee Thenu reported something unfavourable about a post "in Koeta-Radja," it meant the situation was untenable.
 
-## The funeral of Dominee Thenu (11 May 1937)
+## The funeral of Dominee Thenu ([[11 May]] [[1937]])
 
 When [[Dominee Thenu]] died on [[11 May]] [[1937]], his [[Funeral of Dominee Thenu (11 May 1937)|funeral]] was held at Koeta-Radja. Four retired [[Militaire Willemsorde (M.W.O.)|M.W.O.]]-ridders — [[Salawono]] (3e kl.), [[Pattiasina]], [[Kazen]] and [[Pattipuluhu]] — acted as *slippendragers*; a Marechaussee brigade served as *vuurpeleton*; he was buried at [[Peutjoet]]. "Vóór zijn kerkje in Koeta-Radja richtte Atjeh voor hem een standbeeld op" — before his little church in Koeta-Radja, Aceh erected for him a statue.
 
@@ -26,9 +27,17 @@ When [[Dominee Thenu]] died on [[11 May]] [[1937]], his [[Funeral of Dominee The
 
 Dr. [[Johan Wøller]], describing the fertile northern and eastern lowlands of [[Atjeh en Onderhorigheden|Atjeh]] that he sailed past in [[April]] [[1904]], noted that these had "formerly independent or vassal states under the sultan of [[Groot-Atjeh]] with his capital Kota Radja." During the [[Aceh War]], he recorded, "in December of the same year [1873] a new expeditionary army of 8,000 men and the entire fleet, that was available, arrived. Now Kota Radja was conquered, and with that the war first began, that would last so long and be so bloody."
 
+## Account from *Nederlandsch Indië Platen Atlas* ([[1926]]) — Kota Radja
+
+The atlas, in its chapter on transport (*Verkeer*), uses Kota Radja as its benchmark for the revolutionary improvement in Sumatran road infrastructure: "thans kan men per auto van Kota-Radja (in Atjeh) uit, Padang bereiken!" (now one can reach Padang by automobile, starting from Kota-Radja in Atjeh!). This statement is presented in stark contrast to conditions twenty-five years earlier, when Sumatra could only be crossed "slechts deels te voet, te paard of per korretje met veel moeite en opoffering van tijd" (only partly on foot, on horseback, or by small cart, with much effort and sacrifice of time).
+
+The atlas also mentions the [[Peutjot Cemetery|cemetery at Peutjot]] near Kota Radja, which was "voornamelijk bestemd voor de op de verschillende expedities in Atjeh gesneuvelden" (primarily intended for those who fell on the various expeditions in Atjeh), their names carved into the stone walls of the entrance.
+
 ## Significance
 
 Koeta-Radja is significant across all phases of the colonial history of Aceh. In *[[Oost-Indisch Journael]]* (Merac, [[1947]]), it is the capital and the place of the Meusigit Raja, the centre of the colonial state's religious politics. In *[[Oom Ambon van het K.N.I.L.]]* (Dames, [[1954]]), it is the principal garrison of the [[K.N.I.L.]], the place at which [[Dominee Thenu]] was placed, and the site of his funeral — the book's moral closure of the Aceh War: the men of courage carrying the man of faith, in the capital of the country they had fought forty-five years to subdue.
+
+In the *Nederlandsch Indië Platen Atlas* ([[1926]]), Kota Radja's mention in the transport chapter underscores the connection between the [[Pacification of Atjeh|pacification of Atjeh]] under [[Governor Van Heutsz]] and the subsequent infrastructure development in the Buitengewesten. The road from Kota Radja to Padang represented one of the most significant engineering achievements in the Outer Territories and served as tangible proof that the policy of active administration (*actieve politiek*) had replaced the earlier policy of abstention (*onthoudingspolitiek*).
 
 ## See Also
 
@@ -45,22 +54,39 @@ Koeta-Radja is significant across all phases of the colonial history of Aceh. In
 - [[Snouck Hurgronje]]
 - [[Sultan Iskandar Muda]]
 - [[Peutjoet]]
-- [Pante Perak](/places/pante-perak)
+- [[Peutjot Cemetery]]
+- [[Pante Perak]]
+- [[Atjeh-oorlog]]
 - [[Dominee Thenu]]
 - [[Eerste Atjeh-expeditie (1873)]]
-- [Atjeh-oorlog](/events/atjeh-oorlog)
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Governor Van Heutsz]]
+- [[Governor Van der Heyden]]
+- [[Aceh War]]
+- [[Aceh Railway]]
+- [[Buitengewesten]]
+- [[Onthoudingspolitiek]]
+- [[Pacification of Atjeh]]
+- [[Volkslectuur]]
+- [[Nederlandsch Indië Platen Atlas (1926)]]
+- [[Padang]]
+- [[Johan Wøller]]
 - [[1873]]
 - [[1874]]
 - [[1879]]
 - [[1881]]
+- [[1894]]
+- [[1904]]
 - [[1933]]
 - [[1937]]
-- [[Johan Wøller]]
-- [[Aceh War]]
-- [[1904]]
+- [[1926]]
 
 ## Sources
 
-- *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapter "Dominee Thenu."
-- *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja and the chapter on den zieleherder.
-- *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 143-145.
+*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapter "Dominee Thenu."
+
+*Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja and the chapter on den zieleherder.
+
+*Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 143-145.
+
+*Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter IX (Verkeer / Transport), p. 160, and Plate 70 (Monuments at Weltevreden), p. 70.

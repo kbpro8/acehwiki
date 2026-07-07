@@ -1,9 +1,11 @@
 ---
 title: Gouvernement Atjeh en Onderhoorigheden
-aliases: [Gouvernement Atjeh en Onderhoorigheden, Gouvernement of Atjeh and its Dependencies, Government of Aceh and Dependencies, Atjeh and Dependencies, Gouvernement Atjeh, Atjeh en Onderhoorigh., Gewest Atjeh, Residency of Atjeh and Dependencies, Aceh Governorate, Atjeh-residency, Atjeh en Onderhoorigheden, Atjeh's Onderhoorigheden, Onderhoorigheden, Atjeh Dependencies, Atjeh en Onderhorigheden]
-tags: [place, gouvernement, residency, region, colonial, dutch, aceh, sumatra, buitenbezittingen, military, tramway]
+aliases: [Gouvernement Atjeh en Onderhoorigheden, Gouvernement of Atjeh and its Dependencies, Government of Aceh and Dependencies, Atjeh and Dependencies, Gouvernement Atjeh, Atjeh en Onderhoorigh., Gewest Atjeh, Residency of Atjeh and Dependencies, Aceh Governorate, Atjeh-residency, Atjeh en Onderhoorigheden, Atjeh's Onderhoorigheden, Onderhoorigheden, Atjeh Dependencies, Atjeh en Onderhorigheden, Government of Atjeh and Dependencies, Gouvernement van Atjeh, Atjeh government]
+tags: [place, organization, gouvernement, residency, region, colonial, dutch, aceh, sumatra, buitenbezittingen, military, tramway, administrative-division, achehnese-history]
+description: The Gouvernement Atjeh en Onderhoorigheden (Government of Atjeh and Dependencies) was a Dutch colonial administrative unit in North Sumatra. Its head bore the title of Gouverneur (Governor), a rank higher than the Resident who headed most other territorial units.
 ---
-**The Gouvernement Atjeh en Onderhoorigheden** was the colonial administrative unit established by the Dutch in [[1874]] to comprise the northern tip of Sumatra and its subject territories — the *gewest* whose protracted subjection through the [[Aceh War|Atjeh-krijg]] became, in the words of *De Buitenbezittingen*, "het zorgenkind van het Nederlandsch-Indische Gouvernement" (the worry-child of the Netherlands-Indies Government). Bounded on three sides by the sea — the Indian Ocean to the west, the Strait of Malacca to the north and east — and to the south by the *gewesten* of the East Coast of Sumatra and Tapanoeli, it covered roughly one-eighth of the entire island and was administered, by [[1917]], under a Civil and Military Governor resident at [[Koeta Radja|Koeta Radja]].
+
+**The Gouvernement Atjeh en Onderhoorigheden** (English: Government of Atjeh and Dependencies; also simply *Gouvernement Atjeh*) was the colonial administrative unit established by the Dutch in [[1874]] to comprise the northern tip of [[Sumatra]] and its subject territories — the *gewest* whose protracted subjection through the [[Aceh War|Atjeh-krijg]] became, in the words of *De Buitenbezittingen*, "het zorgenkind van het Nederlandsch-Indische Gouvernement" (the worry-child of the Netherlands-Indies Government). Bounded on three sides by the sea — the Indian Ocean to the west, the Strait of Malacca to the north and east — and to the south by the *gewesten* of the East Coast of Sumatra and Tapanoeli, it covered roughly one-eighth of the entire island and was administered, by [[1917]], under a Civil and Military Governor resident at [[Koeta Radja|Koeta Radja]]. It was one of the three colonial territorial divisions whose head bore the elevated title of Gouverneur (Governor), alongside [[Sumatra's East Coast]] and Celebes and Dependencies.
 
 ## Extent and boundaries
 
@@ -17,7 +19,12 @@ By [[1914]] (St. No. 1914, 87) the gouvernement was divided into five *afdeeling
 
 The gouverneurs listed in Bijlage I begin with the first Civil and Military Governor of [[1874]] and run through [[Joannes Benedictus van Heutsz|van Heutsz]] ([[1898]]–[[1904]]), Jhr. J. C. v. d. Wyck ([[1904]]–[[1905]]), [[G. C. E. van Daalen|van Daalen]] ([[1905]]–[[1908]]), and [[H. N. A. Swart|Swart]] ([[1908]] onward). Van Heutsz's appointment, *De Buitenbezittingen* states, "beteekende echter het begin van eene geheel nieuwe periode in ons optreden," the period of *vliegende colonnes* and consolidated rule.
 
-## Account from *De Buitenbezittingen* (1917) — Colonial Administration
+Two Governors of Atjeh are featured prominently in the *Nederlandsch Indië Platen Atlas* ([[1926]]) portrait gallery of "Groote Mannen uit de Nieuwste Geschiedenis van Nederl.-Oost-Indië":
+
+- [[Governor Van der Heyden|H. K. van der Heyden]] (appointed [[1878]]), who achieved sufficient success to enable the introduction of regular administration (*geregeld bestuur*) in [[1879]].
+- [[Governor Van Heutsz|J. B. van Heutsz]] (appointed [[1897]]), who accomplished the subjugation of the territory and later served as Governor-General ([[1905]]–[[1909]]), completing the pacification of the [[Buitengewesten]].
+
+## Account from *De Buitenbezittingen* ([[1917]]) — Colonial Administration
 
 ### Population and territory
 
@@ -43,7 +50,7 @@ The gewest was the only Buitenbezittingen gewest in which the [[Gewapende Politi
 
 The [[Wegenplan Sumatra|Sumatra road plan]] of the [[Departement der Burgerlijke Openbare Werken|B.O.W.]] included several major road projects in the gewest: the Gajo-weg from [[Bireuen]] to [[Takengon]] (76 K.M., cost f 1,496,000 — "completed"), the Alasweg from [[Kaban Djahe]] to [[Koeta Tjane]] (137 K.M., cost f 1,173,000 — "in the main completed"), and the projected connection of the [[Atjeh-tram|Atjeh-tramway]] network with the Benkoelen-Padangsche wegennet.
 
-## Account from *De Buitenbezittingen* (1917) — Atjeh's Onderhoorigheden and the Tramway
+## Account from *De Buitenbezittingen* ([[1917]]) — Atjeh's Onderhoorigheden and the Tramway
 
 **Atjeh's Onderhoorigheden** ("Atjeh's Dependencies") was the colonial designation for the territories east and south of [[Groot-Atjeh|Great Atjeh]] brought under Dutch authority by the long campaign of pacification following the [[Toekoe Oemar's verraad (1896)|betrayal of Toekoe Oemar in 1896]]. In the Encyclopaedisch Bureau's account of the [[Atjeh-tram|Atjeh-tramway]], the Onderhoorigheden appear as the eastern and southern theatre of the network.
 
@@ -53,7 +60,7 @@ The Bureau characterised this second tramway, in its early state, as "a piece of
 
 The [[1913]] extension approvals (G. Bn. of 17 June [[1913]] No. 59, 16 October [[1913]] No. 25, and 8 November [[1913]] No. 40) authorised the *doortrekking* of the Atjeh-tram from [[Koeala Simpang]] through [[Tamiang]] to [[Besitang]], and from [[Pangkalan Soesoe]] to [[Telok Taboeban]] on the [[Aroebai|Arube Bay]]. With the completion of the connecting line between [[Besitang]] and [[Pangkalan Soesoe]], the Atjeh-tram network would "finally reach its natural terminus: the fine and accessible [[Aroebai|Arube Bay]]."
 
-## Account from *De Buitenbezittingen* (1904) — Economy and Administration
+## Account from *De Buitenbezittingen* ([[1904]]) — Economy and Administration
 
 The Encyclopaedisch Bureau's Mededeelingen publication offers a snapshot of the Governorate's economy and administrative policies as recorded for the decade [[1904]]–[[1914]]:
 
@@ -78,16 +85,27 @@ Rounding the north point of Sumatra, Wøller recorded that the lowland widened: 
 
 Wøller described the population as "a mixed people, whose original core is unknown, but where Hindu-, Batak- and Malay elements are strongly represented," whose culture derived from nearby [[British India|Voor-Indië]], with Buddhist kingdoms formed in North Sumatra by the sixth and seventh centuries and Islam arriving with Arab traders in the twelfth to thirteenth. Slavery was common, "a great multitude of slaves... especially fetched from the large island [[Nias]] off the west coast," and "piracy and plundering expeditions were favorite occupations." Detailed history, he noted, was known "only from about [[1500]]" and consisted of "a long series of wars between the different landscapes and small kingdoms," periodically unified by a strong sultan whose armies even besieged Portuguese [[Malacca]] — provoking punitive bombardments by English, Dutch, Portuguese and American warships alike, none of which attempted actual conquest before the [[Aceh War|Atjeh-oorlog]] that began in [[1873]].
 
+## Account from *Nederlandsch Indië Platen Atlas* ([[1926]]) — The Government
+
+The atlas, in its chapter on governance (*Gezagvoering*), notes that the heads of government of "Sumatra's Oostkust, Atjeh en Onderhoorigheden en Celebes en Onderhoorigheden" bore the title of Gouverneur, distinguishing these from the Residencies on Java, whose heads were called Residents. This elevated status reflected both the strategic importance and the recent history of military conflict in these territories.
+
+### Infrastructure
+
+By [[1926]], the Gouvernement Atjeh en Onderhoorigheden possessed an important and expanding [[Aceh Railway|railway network]], and the road from its capital [[Kota Radja]] to [[Padang]] had been completed, permitting automobile travel across the full breadth of northern Sumatra. The atlas records that after the [[Onthoudingspolitiek|policy of abstention]] towards the Outer Territories was abandoned at the end of the previous century, and was replaced under the Governor-General Van Heutsz by an energetic and purposeful policy of bringing these territories under Dutch authority, it was also recognised that a proper road network was a first prerequisite for effective administration.
+
 ## Significance
 
-[[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]] is, in the Encyclopaedisch Bureau's account, the Buitenbezittingen gewest in which the post-[[1896]] Dutch project of "effective authority" was most fully and most recently realised. The combination of the rapid expansion of the [[Landschapskassen|landschapskassen]], the special 6:4 fiscal regime, the exceptional military command of the police, the unique peper- en pinanghasil revenues, and the systematic extension of the [[Atjeh-tram|Atjeh-tramway]] network all mark the gewest as the paradigmatic case of the post-pacification colonial order.
+[[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]] is, in the Encyclopaedisch Bureau's account, the Buitenbezittingen gewest in which the post-[[1896]] Dutch project of "effective authority" was most fully and most recently realised. The combination of the rapid expansion of the [[Landschapskassen|landschapskassen]], the special 6:4 fiscal regime, the exceptional military command of the police, the unique peper- en pinanghasil revenues, and the systematic extension of the [[Atjeh-tram|Atjeh-tramway]] network all mark the gewest as the paradigmatic case of the post-pacification colonial order. The *Nederlandsch Indië Platen Atlas* ([[1926]]) cements this status by featuring two of its governors — [[Governor Van der Heyden|Van der Heyden]] and [[Governor Van Heutsz|Van Heutsz]] — among the "Groote Mannen" of the latest colonial history.
 
 ## See Also
 
 - [[Groot-Atjeh]]
 - [[Koeta Radja]]
+- [[Kota Radja]]
 - [[Aceh War]]
 - [[Joannes Benedictus van Heutsz]]
+- [[Governor Van Heutsz]]
+- [[Governor Van der Heyden]]
 - [[H. N. A. Swart]]
 - [[Korte Verklaring]]
 - [[Atjeh-tram]]
@@ -105,6 +123,7 @@ Wøller described the population as "a mixed people, whose original core is unkn
 - [[Telok Taboeban]]
 - [[Aroebai]]
 - [[Pacificatie van Atjeh]]
+- [[Pacification of Atjeh]]
 - [[Landschapskassen]]
 - [[Gewapende Politie]]
 - [[Wegenplan Sumatra]]
@@ -113,15 +132,29 @@ Wøller described the population as "a mixed people, whose original core is unkn
 - [[Gajo-landen]]
 - [[Alaslanden]]
 - [[Oostkust van Sumatra]]
+- [[Sumatra's East Coast]]
 - [[Sumatra's Westkust]]
+- [[C. Snouck Hurgronje]]
+- [[Aceh Railway]]
+- [[Buitengewesten]]
+- [[Onthoudingspolitiek]]
+- [[Volkslectuur]]
+- [[Nederlandsch Indië Platen Atlas (1926)]]
 - [[1896]]
 - [[1897]]
+- [[1898]]
 - [[1899]]
 - [[1904]]
+- [[1905]]
 - [[1906]]
+- [[1909]]
 - [[1910]]
 - [[1912]]
 - [[1913]]
+- [[1873]]
+- [[1874]]
+- [[1878]]
+- [[1879]]
 - [[Rubber Industry in Atjeh]]
 - [[Opiumregie in Atjeh]]
 - [[Gajo-Loeos]]
@@ -129,7 +162,6 @@ Wøller described the population as "a mixed people, whose original core is unkn
 - [[Fort Marlborough]]
 - [[Sabang]]
 - [[Kotta Loempoer]]
-- [[1904]]
 
 ## Sources
 
@@ -140,3 +172,5 @@ Wøller described the population as "a mixed people, whose original core is unkn
 *De Buitenbezittingen 1904*. In: *Mededeelingen van het Encyclopaedisch Bureau*. Batavia: G.C.T. van Dorp & Co., [ca. 1915].
 
 *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 131-145.
+
+*Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter III (Gezagvoering), p. 54; Plates 23, 70.

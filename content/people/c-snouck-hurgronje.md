@@ -1,15 +1,23 @@
 ---
-
 title: C. Snouck Hurgronje
-aliases: [Christiaan Snouck Hurgronje, Dr. C. Snouck Hurgronje, Dr. Snouck Hurgronje, Snouck Hurgronje, Snouck, Dr. Snouck, the advisor on Atjeh affairs]
-tags: [person, scholar, dutch, orientalist, author, colonial-official, advisor, islamologist, colonial, aceh, buitenbezittingen]
+aliases: [Christiaan Snouck Hurgronje, Dr. C. Snouck Hurgronje, Dr. Snouck Hurgronje, Snouck Hurgronje, Snouck, Dr. Snouck, Prof. Dr. C. Snouck Hurgronje, the advisor on Atjeh affairs, de rijksadviseur, Sn. H.]
+tags: [person, scholar, dutch, orientalist, author, colonial-official, advisor, islamologist, colonial, aceh, buitenbezittingen, achehnese-history]
+description: Prof. Dr. C. Snouck Hurgronje (1857-1936), the world-renowned Dutch scholar of Islam and Muslim law, was sent to the Dutch East Indies in 1889 as Government Advisor and provided services of inestimable value to the colonial government, particularly regarding Atjeh. His works include 'Mekka' and 'De Atjehers'.
 ---
 
-**Christiaan Snouck Hurgronje** ([[1857]]–[[1936]]), cited on the title-page of Vol. I as **Dr. C. Snouck Hurgronje, Adviser for Native Affairs, Netherlands India**, was the author of *The Achehnese* and the foremost Dutch Islamicist of his generation. His work on Acheh — first published in Dutch in 1893–94, then translated into English by the late [[A. S. O'Sullivan|A. W. S. O'Sullivan]] in [[1906]], with an index by [[R. J. Wilkinson]] — remains the principal source for the political, social, domestic and religious life of the Achehnese in the closing decades of the sultanate.
+**Christiaan Snouck Hurgronje** ([[8 February]] [[1857]]–[[1936]]), cited on the title-page of Vol. I of *The Achehnese* as **Dr. C. Snouck Hurgronje, Adviser for Native Affairs, Netherlands India**, was a Dutch orientalist, Islamic scholar, and colonial adviser who played a formative role in the pacification of [[Acheh|Atjèh]] (Aceh), both through his intellectual framework for [[Governor Van Heutsz|Van Heutsz]]'s policy and as a vocal critic of the appointments and methods that violated it. His two-volume ethnographic and historical study *De Atjehers* (Leiden, [[1893]]–[[1894]]; English translation as *The Achehnese*, [[1906]]) remains even now the standard work on the country and people with which it deals — and the principal source of which the present Wiki is, in effect, an index.
 
-## Mission to Acheh
+## Preparation: Arabia and Mecca
 
-In July [[1891]], Snouck Hurgronje proceeded to Acheh "in pursuance of instructions from the Netherlands-India Government to make a special study of the religious element in the political conditions of that country." He had already, during a residence in Arabia in 1884–85, been in a position — especially at [[Mecca]] — to obtain an intimate knowledge of the influence of Mohammedan fanaticism upon the obstinate resistance of the Achehnese to Dutch rule; "some time spent in direct relations with Achehnese on their own soil was required to round off the knowledge gained by me from literature and from my experience in the sacred city of the Arabs." In Acheh he soon saw that the available data regarding the language, country and people fell far short of what was wanted, and he therefore extended his enquiry beyond the limits of his commission, taking — so far as local conditions allowed — that life in its entire range as the subject of his research. In February 1892 he had got together enough preliminary matter for compiling a book; he worked up his materials at [[Batavia]]; and so, in 1893–94, first appeared the treatise which is now being again offered to the public in the form of an English translation.
+Snouck's preparation for the Acehnese mission had begun years earlier in Arabia. "During a residence in Arabia ([[1884]]–[[1885]]) I had been in a position — especially at [[Mecca|Mecca]] — to obtain an intimate knowledge of the influence of Mohammedan fanaticism upon the obstinate resistance of the Achehnese to Dutch rule." He had already in [[1884]] become one of the first Western scholars to enter Mecca in disguise and observe the holy city at first hand; his experience there gave him unrivalled insight into the pan-Islamic networks that linked far-flung Muslim lands to the Hejaz, and through which Acehnese pilgrims and exiles carried home the religious ideas animating their resistance to Dutch rule.
+
+## The Acehnese mission and *The Achehnese*
+
+As Adviser for Native Affairs, Snouck was sent to [[Acheh]] in July [[1891]] under instructions from the Netherlands-India Government "to make a special study of the religious element in the political conditions of that country." In Aceh he soon saw that "the available data regarding the language, country and people fell far short of what was wanted," and accordingly "extended my enquiry beyond the limits of my commission." By February [[1892]] he had gathered enough preliminary matter to begin composing the work; he wrote up his materials at [[Batavia]], and the treatise first appeared in [[1893]]–[[1894]].
+
+When the English translation was undertaken by [[A. S. O'Sullivan|A. S. O'Sullivan]] in [[1899]], Snouck was again in Aceh, "spending a great deal of my time in that country" while the real conquest was being commenced, and was therefore "in an incomparably better position to investigate that old pirate-state than I had been in 1891 and 1892." He nevertheless decided that the text should be left substantially unaltered, "and that only occasionally would some improvements and fuller explanations be included in it, that isolated additions to the text regarding individuals mentioned in it should be put in brackets after the names referred to, and, finally, that in an introductory article as much should be said regarding the course of recent events in Acheh as would suffice to give the reader some idea of their significance." The Introduction accordingly takes account of the events of [[1899]]–[[1903]], including the [[Submission of Tuanku Muhamat Dawot|submission]] of [[Tuanku Muhamat Dawot]] in January [[1903]].
+
+The English translation was published in two volumes by [[E. J. Brill|E. J. Brill]] of Leiden in [[1906]], indexed by [[R. J. Wilkinson|R. J. Wilkinson]], Inspector of Schools in the Federated Malay States; the translator's footnotes are themselves a valuable commentary on Snouck's material.
 
 ## Method
 
@@ -17,57 +25,48 @@ Snouck's method is uniformly comparative and historical. The institutions of Ach
 
 During his residence in Acheh, Snouck obtained copies of a number of sarakatas (royal edicts) not included among those published by Van Langen, and he quotes them throughout Vol. I. His own earlier writings are also cited: the *Studien over Atjëhsche klank- en schriftleer* in the *Tijdschrift van het Batav. Genootschap*, vol. XXXV; and his *Mekka* (Vol. II), which is repeatedly referred to for comparative matters touching Arabia and the Sayyids.
 
-## The 1906 revision
+## Intellectual framework for pacification
 
-When [[A. S. O'Sullivan|Mr. O'Sullivan]], early in [[1899]], informed Snouck of his project of translating the book, it was just the time that the real conquest of Acheh was being commenced; and Snouck, "spending a great deal of my time in that country, was in an incomparably better position to investigate that old pirate-state than I had been in 1891 and 1892." He nevertheless decided that the text should be left substantially unaltered, "and that only occasionally would some improvements and fuller explanations be included in it, that isolated additions to the text regarding individuals mentioned in it should be put in brackets after the names referred to, and, finally, that in an introductory article as much should be said regarding the course of recent events in Acheh as would suffice to give the reader some idea of their significance." The Introduction accordingly takes account of the events of 1899–1903, including the [[Submission of Tuanku Muhamat Dawot|submission]] of [[Tuanku Muhamat Dawot]] in January 1903.
+Snouck argued that the [[Aceh War]] could not be won by military means alone; the Dutch must win over the local population by respecting Islamic institutions while undermining the political power of the *ulama* (religious leaders). His analysis rested on several premises: that Acehnese resistance was religious as much as political; that no mere treaty with a Sultan could pacify a country divided among countless independent chiefs; and that the hereditary territorial chiefs (*oelèëbalangs*) were the natural partners of colonial governance, to be supported and guided rather than suppressed.
 
-## Role in the extension of Dutch authority (1902)
+*De Buitenbezittingen* draws on Snouck Hurgronje's *De Atjehers* at almost every turn of its discussion of native administration, treating it as the canonical description of Acehnese political institutions — "waaraan wij het volgende ontleenen" (to which we owe the following). His account of the [[Gampong|gampong]] as the smallest territorial unit, of the rise of the [[Moekim|moekim]] (Vrijdagskring) around the *meuseugit* (mosque), of the territorial authority of the *oelèëbalangs* as *radja's* of their districts, of the relationship of *adat* (customary law) and *hoeköm* (Islamic law), and of the role of the [[Sarakata|sarakata]] — the letters of appointment issued by the Sultan to chiefs who paid him homage — is reproduced and cited verbatim throughout. His observation that "geen Atjehsch hoofd zonder eigen politiek" (no Acehnese chief without a politics of his own) shaped Dutch expectations of the chiefs with whom they negotiated the [[Korte Verklaring|Korte Verklaringen]].
+
+Snouck's influence on the Dutch conduct of the Aceh War was considerable. His advice helped shape the policies pursued by [[Governor Van Heutsz|Governor Van Heutsz]] and [[General van der Heijden|General van der Heijden]] during the years of the final subjugation, including the use of the Korte Verklaring and the strategy of supporting the traditional chiefs against the religiously inspired resistance. The partnership between Snouck Hurgronje and Van Heutsz is considered one of the most effective collaborations between scholarship and military strategy in colonial history.
+
+## Role in the extension of Dutch authority ([[1902]])
 
 In the Encyclopaedisch Bureau's volume *De Buitenbezittingen 1904 tot 1914*, Snouck Hurgronje is mentioned as the principal advisor — together with the Residents of [[Palembang]] and [[Benkoelen]] — whose [[1902]] advice on [[Djambi]] and [[Koerintji]] led the Indische Regeering to adopt the "active policy" that extended the post-[[1896]] Atjeh model of "effective authority" to other parts of the Buitenbezittingen. The Bureau writes: "the date at which a beginning was made with the complete subjection to our effective authority… properly dates only from [[1902]], when the necessity of an active policy with regard to [[Djambi]] and thereby also against [[Koerintji]] was adopted by the Indische Regeering, principally in consequence of the relevant advices of the Residents of [[Palembang]] and [[Benkoelen]] and of Dr. [[C. Snouck Hurgronje|Snouck Hurgronje]]."
 
-## Account from *Dispereert Niet Vol. XI* (1946) — C. Snouck Hurgronje
+## Opposition to Van Daalen
 
-**C. Snouck Hurgronje** was a Dutch orientalist and colonial advisor whose ethnographic work on **[[Aceh]]** played a decisive role in the Dutch pacification of the sultanate during the **[[Aceh War]]**. His 1893 monograph, *"De Atjehers"* (The Achehnese), remains a foundational text in the study of Acehnese society and the relationship between Islam and colonial governance in Southeast Asia.
+In [[1904]], when Van Heutsz proposed [[G. C. E. van Daalen|Van Daalen]] as his successor as Governor of Aceh, Snouck wrote a confidential memorandum strongly opposing the appointment, characterising Van Daalen as:
 
-### Early Life and Education
+> "inhumane, ruwe, tactlooze manier van besturen en rechtspreken" (inhumane, rude, tactless in governing and judging).
 
-Christiaan Snouck Hurgronje was born on **[[8 February]] [[1857]]** in Oosterhout, the Netherlands. He studied theology and oriental languages at the University of Leiden, where he developed expertise in Arabic and Islamic studies. In [[1885]], he made a pilgrimage to **[[Mecca]]**, disguised as a Muslim convert, an experience that brought him international recognition and deepened his understanding of Islamic practice.
+He warned that Van Daalen's harshness would alienate the chiefs and undo the progress made under Van Heutsz, and also criticised Van Heutsz's judgment, suggesting that the Governor-General "had it quite wrong" in his assessment. Despite Snouck's warning, Van Heutsz proceeded with the appointment; Snouck later commented that he had "reconciled himself" to the decision, but the subsequent [[Atjéh-enquête|Atjéh-enquête]] of [[1907]]–[[1908]] confirmed his original fears.
 
-### Appointment as Colonial Advisor
+## Later criticism of Van Heutsz
 
-In [[1889]], Snouck Hurgronje was appointed advisor on Oriental affairs to the Dutch colonial government in Batavia. This position brought him into the orbit of colonial policy, particularly regarding the ongoing **[[Aceh War]]**.
+In [[1908]], Snouck published a series of articles in *De Nieuwe Courant* attacking Van Heutsz's Aceh policy and his handling of the Van Daalen affair. He accused Van Heutsz of lacking "menschenkennis" (understanding of people), of failing to grasp the nuances of Acehnese society, and of not speaking the Acehnese language — a criticism widely cited by Van Heutsz's political opponents. However, Snouck's later writings also acknowledged the overall success of Van Heutsz's pacification framework, even though he remained critical of specific personnel decisions.
 
-### The Aceh Study (1889–1892)
+## Later Career and Legacy
 
-In [[1892]], Snouck Hurgronje traveled to Aceh, where he conducted extensive ethnographic fieldwork. His research produced the two-volume work *"De Atjehers"* (1893–1894), which analyzed Acehnese society in exhaustive detail, covering:
+After his work in Aceh, Snouck Hurgronje returned to the Netherlands in [[1906]], where he became a professor at the University of Leiden. He continued to advise the Dutch government on colonial and Islamic matters. As Adviser for Native and Arab Affairs from [[1891]] to [[1906]], he had combined rigorous ethnographic fieldwork with practical administrative counsel.
 
-- Social structure and kinship
-- The *adat* (customary law) system
-- The role of Islam in daily life
-- Political organization, including the *sagi* (federation) system
-- Military and economic patterns
+Snouck Hurgronje's influence on Dutch colonial policy in Aceh was immense. The handbook's editors credit him with having shown that the Groot-Atjehsche system was "in den grond reeds aanwezig" — already present in substance — when the Dutch took over the administration, so that the Dutch task was the *herstelling c.q. handhaving* — restoration or maintenance — of the native institutions rather than their invention. This principle, applied unevenly across the Onderhoorigheden where Acehnese influence had only partially displaced Malay, Gayo, or Alas institutions, set the doctrinal baseline for the entire structure of indirect rule. His ethnographic and political analyses provided the basis for the shift from brute force to a more subtle, co-optive strategy. His opposition to Van Daalen, though initially unheeded, later proved prescient and helped shape the debate over colonial governance. He remains one of the most studied and debated figures in the history of Dutch–Acehnese relations.
 
-### The Doctrine of Acehnese Pacification
+## Account from *Nederlandsch Indië Platen Atlas* ([[1926]]) — Snouck Hurgronje
 
-Snouck Hurgronje's conclusions were both scholarly and practical. He argued that:
+The *Nederlandsch Indië Platen Atlas*, published by [[Volkslectuur]] in [[1926]], includes Snouck Hurgronje among its "Groote Mannen uit de Nieuwste Geschiedenis van Nederl.-Oost-Indië" (Great Men from the Latest History of the Dutch East Indies). The atlas describes him as follows: "Prof. Dr. C. Snouck Hurgronje. Deze wereldvermaarde Nederlandsche kenner van den Islam en het Mohammedaansch recht werd in [[1889]] naar Indië uitgezonden als Regeeringsadviseur en bewees als zoodanig der Regeering diensten van onschatbare waarde. Ook als hoogeeraar dient hij thans nog van advies. Een paar van zijn voornaamste werken zijn 'Mekka' en 'De Atjehers'." (This world-renowned Dutch expert on Islam and Mohammedan law was sent to the Indies in [[1889]] as Government Advisor and proved as such to be of inestimable value to the Government. Even as a professor he still serves in an advisory capacity. A couple of his principal works are 'Mekka' and 'De Atjehers'.)
 
-1. The **sultan** was a figurehead of little practical importance; real authority lay with local chiefs (*uleëbalang*) and religious leaders (*ulama*)
-2. The conflict was not a unified anti-colonial struggle but a series of localized resistance movements
-3. The key to pacification was **intelligence-led military action** combined with **welfare programs** to win civilian support
+His portrait appears in the atlas alongside those of [[Governor Van Heutsz]] and [[Governor Van der Heyden|H. K. van der Heyden]], the three figures who, between them, represent the scholarly, military, and administrative dimensions of the Dutch engagement with Atjeh. The inclusion of Snouck Hurgronje — still living in [[1926]] — alongside the two deceased governors underscored the colonial government's recognition that the pacification of Atjeh had been as much an intellectual as a military achievement.
 
-### Influence on Van Heutsz
+## Significance
 
-Snouck Hurgronje's work had a decisive influence on **[[J. B. van Heutsz]]**, who shared his analysis and implemented his recommendations as Governor of Aceh from [[1898]]. The partnership between Snouck Hurgronje and Van Heutsz is considered one of the most effective collaborations between scholarship and military strategy in colonial history.
-
-### Later Career and Legacy
-
-After his work in Aceh, Snouck Hurgronje returned to the Netherlands in [[1906]], where he became a professor at the University of Leiden. He continued to advise the Dutch government on colonial and Islamic matters.
-
-### Significance
-
-Snouck Hurgronje's work established a new approach to colonial governance, combining ethnographic understanding with practical policy recommendations. His analysis of Acehnese society—particularly the distinction between political and religious authority—shaped Dutch policy for decades and remains influential in Southeast Asian studies.
+Snouck Hurgronje's work established a new approach to colonial governance, combining ethnographic understanding with practical policy recommendations. His analysis of Acehnese society—particularly the distinction between political and religious authority—shaped Dutch policy for decades and remains influential in Southeast Asian studies. The atlas's portrait of him as one of the "Great Men" of the late colonial period attests to the public recognition of his role in the consolidation of Dutch authority over the archipelago.
 
 ## See Also
+
 - [[A. S. O'Sullivan]]
 - [[R. J. Wilkinson]]
 - [[K. F. H. Van Langen]]
@@ -90,111 +89,54 @@ Snouck Hurgronje's work established a new approach to colonial governance, combi
 - [[Palembang]]
 - [[Benkoelen]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[G. C. E. van Daalen]]
+- [[Atjéh-enquête]]
+- [[Pacification of Aceh]]
+- [[H. Colijn]]
+- [[H. N. A. Swart]]
+- [[Snouck Hurgronje's Acheh Mission]]
+- [[E. J. Brill]]
+- [[Mecca]]
+- [[Batavia]]
+- [[Leyden]]
+- [[Groot-Atjeh]]
+- [[Gampong]]
+- [[Moekim]]
+- [[Oelèëbalang]]
+- [[Sagi]]
+- [[Sultans of Atjeh]]
+- [[Sarakata]]
+- [[Governor Van Heutsz]]
+- [[General van der Heijden]]
+- [[Governor Van der Heyden]]
+- [[Rooseboom]]
+- [[Volkslectuur]]
+- [[Nederlandsch Indië Platen Atlas (1926)]]
+- [[1884]]
+- [[1885]]
+- [[1889]]
+- [[1891]]
+- [[1893]]
+- [[1894]]
 - [[1896]]
+- [[1899]]
 - [[1902]]
+- [[1903]]
+- [[1904]]
+- [[1906]]
+- [[1907]]
+- [[1908]]
 
 ## Sources
 
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+*The Achehnese*, Vol. I & II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 33–47 and passim. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I (Leiden: E. J. Brill, 1893–1894).
+
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 2 (section "Bestuurs-organisatie").
+
+*J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 52–54, 233. Rijksarchief, Den Haag.
 
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
 
-*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 2 (section "Bestuurs-organisatie").
----
-
-
-**Christiaan Snouck Hurgronje** ([[1857]]–[[1936]]), cited on the title-page of Vol. I as **Dr. C. Snouck Hurgronje, Adviser for Native Affairs, Netherlands India**, was the author of *The Achehnese* and the foremost Dutch Islamicist of his generation. His work on Acheh — first published in Dutch in 1893–94, then translated into English by the late [[A. S. O'Sullivan|A. W. S. O'Sullivan]] in [[1906]], with an index by [[R. J. Wilkinson]] — remains the principal source for the political, social, domestic and religious life of the Achehnese in the closing decades of the sultanate.
-
-## Mission to Acheh
-
-In July [[1891]], Snouck Hurgronje proceeded to Acheh "in pursuance of instructions from the Netherlands-India Government to make a special study of the religious element in the political conditions of that country." He had already, during a residence in Arabia in 1884–85, been in a position — especially at [[Mecca]] — to obtain an intimate knowledge of the influence of Mohammedan fanaticism upon the obstinate resistance of the Achehnese to Dutch rule; "some time spent in direct relations with Achehnese on their own soil was required to round off the knowledge gained by me from literature and from my experience in the sacred city of the Arabs." In Acheh he soon saw that the available data regarding the language, country and people fell far short of what was wanted, and he therefore extended his enquiry beyond the limits of his commission, taking — so far as local conditions allowed — that life in its entire range as the subject of his research. In February 1892 he had got together enough preliminary matter for compiling a book; he worked up his materials at [[Batavia]]; and so, in 1893–94, first appeared the treatise which is now being again offered to the public in the form of an English translation.
-
-## Method
-
-Snouck's method is uniformly comparative and historical. The institutions of Acheh are continually set beside those of [[Java]], the [[Straits Settlements]], [[British India]] and the Arabic East; and his footnotes invoke a wide range of authorities — [[K. F. H. Van Langen|Van Langen]] and [[T. H. der Kinderen|Der Kinderen]] for Achehnese government; [[Van den Berg|L. W. C. van den Berg]] for Mohammedan law in Netherlands-India (sharply criticised); [[Edward William Lane|Lane]] for the modern Egyptians; [[Jaffur Shurreef]] and [[G. A. Herklots|Herklots]] for the Deccan; [[Walter William Skeat|Skeat]] for the Malay Peninsula; [[Dr. A. B. Cohen Stuart|Cohen Stuart]] and [[T. J. Newbold|Newbold]] for calendars; [[Maxwell]] for Malay. His criticism of [[Van den Berg|van den Berg]] is especially instructive of his method: he complains that van den Berg constructed his account of Netherlands-Indian Mohammedan law "from printed works which he studied in Holland," and was therefore wanting in the personal observation the subject demanded.
-
-During his residence in Acheh, Snouck obtained copies of a number of sarakatas (royal edicts) not included among those published by Van Langen, and he quotes them throughout Vol. I. His own earlier writings are also cited: the *Studien over Atjëhsche klank- en schriftleer* in the *Tijdschrift van het Batav. Genootschap*, vol. XXXV; and his *Mekka* (Vol. II), which is repeatedly referred to for comparative matters touching Arabia and the Sayyids.
-
-## The 1906 revision
-
-When [[A. S. O'Sullivan|Mr. O'Sullivan]], early in [[1899]], informed Snouck of his project of translating the book, it was just the time that the real conquest of Acheh was being commenced; and Snouck, "spending a great deal of my time in that country, was in an incomparably better position to investigate that old pirate-state than I had been in 1891 and 1892." He nevertheless decided that the text should be left substantially unaltered, "and that only occasionally would some improvements and fuller explanations be included in it, that isolated additions to the text regarding individuals mentioned in it should be put in brackets after the names referred to, and, finally, that in an introductory article as much should be said regarding the course of recent events in Acheh as would suffice to give the reader some idea of their significance." The Introduction accordingly takes account of the events of 1899–1903, including the [[Submission of Tuanku Muhamat Dawot|submission]] of [[Tuanku Muhamat Dawot]] in January 1903.
-
-## Role in the extension of Dutch authority (1902)
-
-In the Encyclopaedisch Bureau's volume *De Buitenbezittingen 1904 tot 1914*, Snouck Hurgronje is mentioned as the principal advisor — together with the Residents of [[Palembang]] and [[Benkoelen]] — whose [[1902]] advice on [[Djambi]] and [[Koerintji]] led the Indische Regeering to adopt the "active policy" that extended the post-[[1896]] Atjeh model of "effective authority" to other parts of the Buitenbezittingen. The Bureau writes: "the date at which a beginning was made with the complete subjection to our effective authority… properly dates only from [[1902]], when the necessity of an active policy with regard to [[Djambi]] and thereby also against [[Koerintji]] was adopted by the Indische Regeering, principally in consequence of the relevant advices of the Residents of [[Palembang]] and [[Benkoelen]] and of Dr. [[C. Snouck Hurgronje|Snouck Hurgronje]]."
-
-## Account from *Dispereert Niet Vol. XI* (1946) — C. Snouck Hurgronje
-
-**C. Snouck Hurgronje** was a Dutch orientalist and colonial advisor whose ethnographic work on **[[Aceh]]** played a decisive role in the Dutch pacification of the sultanate during the **[[Aceh War]]**. His 1893 monograph, *"De Atjehers"* (The Achehnese), remains a foundational text in the study of Acehnese society and the relationship between Islam and colonial governance in Southeast Asia.
-
-### Early Life and Education
-
-Christiaan Snouck Hurgronje was born on **[[8 February]] [[1857]]** in Oosterhout, the Netherlands. He studied theology and oriental languages at the University of Leiden, where he developed expertise in Arabic and Islamic studies. In [[1885]], he made a pilgrimage to **[[Mecca]]**, disguised as a Muslim convert, an experience that brought him international recognition and deepened his understanding of Islamic practice.
-
-### Appointment as Colonial Advisor
-
-In [[1889]], Snouck Hurgronje was appointed advisor on Oriental affairs to the Dutch colonial government in Batavia. This position brought him into the orbit of colonial policy, particularly regarding the ongoing **[[Aceh War]]**.
-
-### The Aceh Study (1889–1892)
-
-In [[1892]], Snouck Hurgronje traveled to Aceh, where he conducted extensive ethnographic fieldwork. His research produced the two-volume work *"De Atjehers"* (1893–1894), which analyzed Acehnese society in exhaustive detail, covering:
-
-- Social structure and kinship
-- The *adat* (customary law) system
-- The role of Islam in daily life
-- Political organization, including the *sagi* (federation) system
-- Military and economic patterns
-
-### The Doctrine of Acehnese Pacification
-
-Snouck Hurgronje's conclusions were both scholarly and practical. He argued that:
-
-1. The **sultan** was a figurehead of little practical importance; real authority lay with local chiefs (*uleëbalang*) and religious leaders (*ulama*)
-2. The conflict was not a unified anti-colonial struggle but a series of localized resistance movements
-3. The key to pacification was **intelligence-led military action** combined with **welfare programs** to win civilian support
-
-### Influence on Van Heutsz
-
-Snouck Hurgronje's work had a decisive influence on **[[J. B. van Heutsz]]**, who shared his analysis and implemented his recommendations as Governor of Aceh from [[1898]]. The partnership between Snouck Hurgronje and Van Heutsz is considered one of the most effective collaborations between scholarship and military strategy in colonial history.
-
-### Later Career and Legacy
-
-After his work in Aceh, Snouck Hurgronje returned to the Netherlands in [[1906]], where he became a professor at the University of Leiden. He continued to advise the Dutch government on colonial and Islamic matters.
-
-### Significance
-
-Snouck Hurgronje's work established a new approach to colonial governance, combining ethnographic understanding with practical policy recommendations. His analysis of Acehnese society—particularly the distinction between political and religious authority—shaped Dutch policy for decades and remains influential in Southeast Asian studies.
-
-## See Also
-- [[A. S. O'Sullivan]]
-- [[R. J. Wilkinson]]
-- [[K. F. H. Van Langen]]
-- [[T. H. der Kinderen]]
-- [[Van den Berg]]
-- [[Edward William Lane]]
-- [[Walter William Skeat]]
-- [[Jaffur Shurreef]]
-- [[Aceh War]]
-- [[J. B. van Heutsz]]
-- [[Panglima Polem]]
-- [[Teukoe Oema]]
-- [[Korte Verklaring]]
-- [[Anglo-Dutch Treaty of London (1824)]]
-- [[Pacificatie van Atjeh]]
-- [[Toekoe Oemar's verraad (1896)]]
-- [[Buitenbezittingen]]
-- [[Djambi]]
-- [[Koerintji]]
-- [[Palembang]]
-- [[Benkoelen]]
-- [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[1896]]
-- [[1902]]
-
-## Sources
-
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
-
-*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
-
-*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 2 (section "Bestuurs-organisatie").
+*Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Plate 23 (Great Men from the Latest History of the Dutch East Indies).
