@@ -1,7 +1,7 @@
 ---
 title: Sultan Iskandar Muda
-aliases: [Iskandar Muda, Eseukanda Muda, Perkasa Alam, Meukuta Alam, Sultan Meukuta Alam, the great Meukuta Alam, Sultan Iskandar Moeda, Sultan of Atjeh in the 17th century, Acehnese Sun-King]
-tags: [person, sultan, acehnese, precolonial, aceh, sultanate, golden-era, historical-figure, 17th-century, legendary, achehnese]
+aliases: ["Acehnese Sun-King", "Eseukanda Muda", "Iskandar Muda", "Iskandar Muda of Aceh", "Meukuta Alam", "Perkasa Alam", "Roi soleil" of Atjeh", "Soeltan Iskandar Moeda", "Sultan Iskandar Moeda", "Sultan Iskandar Muda of Atjeh", "Sultan Meukuta Alam", "Sultan of Atjeh in the 17th century", "the great Meukuta Alam"]
+tags: ["17th-century", "aceh", "acehnese", "achehnese", "golden-era", "historical-figure", "legendary", "person", "precolonial", "sultan", "sultanate"]
 ---
 
 The most famous Sultan of Acheh, posthumously known as **Meukuta Alam** ("Crown of the World"), who reigned [[1607]]–[[1636]]. His conquests included Johor ([[1613]]) and Pahang ([[1618]]), and he made several attempts to drive the Portuguese from Malacca, culminating in his most celebrated naval expedition in [[1628]] with a fleet of enormous proportions. He is the central heroic figure of the Hikayat Malem Dagang. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Sultan Iskandar Muda is the book's marker of the period of greatest splendour of the Acehnese empire: the sun-king whose Sultan's court had a thousand elephants and on whose site the [[Meusigit Raja]] was later built.
@@ -50,28 +50,45 @@ He is portrayed in the legend-poem as receiving the defecting prince Raja Raden 
 
 Sultan Iskandar Muda is significant across multiple sources as the Acehnese sun-king during whose reign the first mosque of Koeta Radja is said to have been built (the site of the later [[Meusigit Raja]]), as the type of the great sultan in the popular legend and the sultanate's edicts, and as the founder of the imperial apparatus — the sarakatas, the oelèëbalangs, the Sjahbandars — whose institutional traces the Dutch inherited. In *[[Oost-Indisch Journael]]* he is the marker of the golden age: the sun-king whose empire preceded the [[Atjeh-oorlog|Aceh War]] and the colonial state.
 
+## Sources
+
+- *The Achehnese*, Vol. I and Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+- *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 30–31, 47–48, 54–55, 96–97, 121.
+- *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja and the chapter *Atjeh's Transport-Olifanten*.
+- *Geschiedkundige Atlas van Nederland: De Archipel en het Maleische Schiereiland in 1619 – Idem in 1650 – De Compagnie buiten den Archipel in 1650*, by Dr. F. W. Stapel ('s-Gravenhage: Martinus Nijhoff, 1928), pp. 25–26, 30.
+
+## Additional Information from Sultan Iskandar Muda
+
+**Sultan Iskandar Muda** was the *"Roi soleil"* of the Atjehnese sultans, whose reign from [[1607]] to [[1636]] — known in Dutch historiography as the [[Atjeh bloeitijdperk (1607-1636)|*bloeitijdperk*]] (golden age) of [[Acheh|Atjeh]]'s past — saw the sultanate reach the zenith of its military, commercial and cultural power, and whose court at [[Banda Acheh|Koetaradja]] entertained foreign envoys with spectacles in which both elephants and buffaloes were deployed as fighting animals. Iskandar Muda's reign is the high-water mark of pre-colonial Atjehnese statehood; under his rule the sultanate dominated the [[Straits of Malacca|Strait of Malacca]], projected military force across northern Sumatra and the Malay Peninsula, and patronised an Islamic courtly culture whose pomp — in [[J. Kreemer|Kreemer]]'s words — "would have bordered on the marvellous."
+
+## The 1613 festival and Thomas Best's visit
+
+The single most-cited European eyewitness account of Iskandar Muda's court is that of the English envoy [[Thomas Best]], who visited [[Banda Acheh|Koetaradja]] in [[1613]] and whose journal was edited by [[William Foster]] as *The Voyage of Thomas Best to the East Indies, 1612-14* (London: Hakluyt Society, 1934). [[J. Kreemer|Kreemer]] — drawing on his own [[Kreemer's Atjeh (1922-23)|*Atjeh*]] (vol. I, p. 192) — summarises Best's account in [[Kreemer's De Karbouw (1956)|*De Karbouw* (1956)]] in a passage that fixes the court buffalo-fight as an institution of Iskandar Muda's reign:
+
+> *"In Atjeh waren die krachtmetingen van buffel tegen buffel een zwakke weerklank uit het bloeitijdperk van Atjeh's verleden (1607–1636), toen de pracht en de praal van des Soeltan's hofhouding aan het wonderbaarlijke zouden hebben gegrensd en toen daar ook olifanten als vechtdieren werden gebruikt. Thomas Best, Engels gezant in die dagen, geeft in zijn journaal een entousiast verslag van zijn bezoek in 1613 aan het hof van Soeltan Iskandar Moeda, de „Roi soleil" der Atjehse vorsten, toen er te zijner ere een groot feest plaats had. Eén der hoofdmomenten daarvan was een toernooi van olifanten. 'After them came buffelos, a beast verie fierce and stronge, which maid a worthie feight and gave greatt content to the spectators.'"*
+
+The juxtaposition of elephant-tournament and buffalo-fight at a single state festival is, in Kreemer's reading, evidence of a courtly culture in which animal combat had been elevated from a village pastime to a spectacle of kingship — a reading supported by the parallel practice, recorded elsewhere in *De Karbouw*, of using [[koeta djaq|buffalo-hide "walking forts"]] in Atjehnese siege warfare, and by the persistence in much attenuated form of village buffalo-fights in the archipelago in later centuries.
+
+## The bloeitijdperk
+
+Iskandar Muda's reign — the [[Atjeh bloeitijdperk (1607-1636)|Atjeh *bloeitijdperk*]] — is the period against which all later Atjehnese history is, in some sense, measured. The dates [[1607]]–[[1636]] are given as the standard frame in [[J. Kreemer|Kreemer]]'s account in *De Karbouw* (p. 84); they mark the accession and death of a ruler under whom Atjeh's armies overran neighbouring Sumatran and Malay states, its navy dominated the strait, and its court attracted foreign embassies (of which Best's [[Thomas Best's visit to Atjeh (1613)|visit of 1613]] is merely the best documented for our purposes). The literary and architectural efflorescence of the reign is attested in the surviving monuments of [[Banda Acheh]] and in the Atjehnese chronicle tradition; the military spectacle is attested, in part, by the very fact that the court possessed both *vechtdieren* (fighting animals) — elephants and buffaloes — and the institutional capacity to deploy them in choreographed festivals for foreign envoys.
+
+## Significance
+
+Iskandar Muda's significance for the encyclopedia of [[Acheh]] history is foundational. His reign defines the [[Atjeh bloeitijdperk (1607-1636)|Atjeh *bloeitijdperk*]], the period to which later Atjehnese — and later Dutch colonial scholars — looked back as the sultanate's classic age. The court institutions, the literary culture, the military posture, and the diplomatic horizons of his reign furnished the template against which the long decline of the seventeenth and eighteenth centuries was measured, and against which the Dutch colonial conquest of the [[Aceh War|late-nineteenth-century Atjeh War]] was, in its turn, understood. For the present encyclopedia, Iskandar Muda's reign is the indispensable chronological anchor for entries on court spectacle, military technology (including the [[koeta djaq|buffalo-hide siege engine]]), and the early-modern European eyewitness record on Atjeh.
+
+## Sources
+
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, 1956), p. 84.
+
+*The Voyage of Thomas Best to the East Indies, 1612-14*, edited by William Foster (London: Hakluyt Society, 1934), p. 168.
+
+*Atjèh*, by J. Kreemer, vol. I (1922), p. 192.
+
 ## See Also
 
-- [[Acheh]]
-- [[Adat Meukuta Alam]]
-- [[Hikayat Malem Dagang]]
-- [[Malacca]]
-- [[Panglima Polem]]
-- [[Sarakata with chab sikureu'eng]]
-- [[Sultans of Atjeh]]
-- [[Meusigit Raja]]
-- [[Koeta-Radja]]
-- [Transport-olifanten (Aceh)](/concept/transport-olifanten-aceh)
-- [[Kawaj XVI]]
-- [[Kawaj XII]]
-- [[Alaslanden]]
-- [[Oost-Indisch Journael]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
-- [[Sultan Tajul-alam]]
-- [[VOC trading post at Aceh]]
-- [[Dutch–Aceh Treaty of 1641]]
-- [[Indragiri]]
-- [[Portuguese]]
+- [Transport-olifanten (Aceh)](/concept/transport-olifanten-aceh)
 - [[1607]]
 - [[1613]]
 - [[1618]]
@@ -80,10 +97,31 @@ Sultan Iskandar Muda is significant across multiple sources as the Acehnese sun-
 - [[1636]]
 - [[1641]]
 - [[1760]]
-
-## Sources
-
-- *The Achehnese*, Vol. I and Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
-- *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 30–31, 47–48, 54–55, 96–97, 121.
-- *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja and the chapter *Atjeh's Transport-Olifanten*.
-- *Geschiedkundige Atlas van Nederland: De Archipel en het Maleische Schiereiland in 1619 – Idem in 1650 – De Compagnie buiten den Archipel in 1650*, by Dr. F. W. Stapel ('s-Gravenhage: Martinus Nijhoff, 1928), pp. 25–26, 30.
+- [[Aceh War]]
+- [[Acheh]]
+- [[Adat Meukuta Alam]]
+- [[Alaslanden]]
+- [[Atjeh bloeitijdperk (1607-1636)]]
+- [[Banda Acheh]]
+- [[Court buffalo-fight at Sultan Iskandar Muda's court (1613)]]
+- [[Dutch–Aceh Treaty of 1641]]
+- [[Hikayat Malem Dagang]]
+- [[Indragiri]]
+- [[Kawaj XII]]
+- [[Kawaj XVI]]
+- [[Koeta djaq]]
+- [[Koeta-Radja]]
+- [[Kreemer's Atjeh (1922-23)]]
+- [[Kreemer's De Karbouw (1956)]]
+- [[Malacca]]
+- [[Meusigit Raja]]
+- [[Oost-Indisch Journael]]
+- [[Panglima Polem]]
+- [[Portuguese]]
+- [[Sarakata with chab sikureu'eng]]
+- [[Sultan Tajul-alam]]
+- [[Sultans of Atjeh]]
+- [[Thomas Best's visit to Atjeh (1613)]]
+- [[Thomas Best]]
+- [[VOC trading post at Aceh]]
+- [[William Foster]]
