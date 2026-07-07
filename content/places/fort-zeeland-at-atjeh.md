@@ -1,6 +1,6 @@
 ---
 title: Fort Zeeland at Atjeh
-aliases: [Zeeland (factory), "Zeeland" factory at Atjeh, 't Kantoor Zeeland te Atjeh, First Dutch office on Sumatra, Zeeland factory]
+aliases: ["Zeeland (factory)", "Zeeland factory at Atjeh", "'t Kantoor Zeeland te Atjeh", "First Dutch office on Sumatra", "Zeeland factory"]
 tags: [place, fort, factory, voc, dutch, atjehnese, colonial, 17th-century]
 ---
 

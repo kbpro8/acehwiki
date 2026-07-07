@@ -1,6 +1,6 @@
 ---
 title: Hans de Decker
-aliases: [Hans de Dekker, De Decker, "Generaal" De Decker, Decker]
+aliases: ["Hans de Dekker", "De Decker", "Generaal De Decker", "Decker"]
 tags: [person, dutch, french-service, navigator, 17th-century]
 ---
 

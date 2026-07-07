@@ -1,6 +1,6 @@
 ---
 title: Orangkaja
-aliases: [Orang Kaya, Orangkaya, Orang Kajas, Orangkajas, "rich men" (Atjeh nobility), Rijksgrooten of Atjeh]
+aliases: ["Orang Kaya", "Orangkaya", "Orang Kajas", "Orangkajas", "rich men (Atjeh nobility)", "Rijksgrooten of Atjeh"]
 tags: [concept, office, atjehnese, nobility, title]
 ---
 

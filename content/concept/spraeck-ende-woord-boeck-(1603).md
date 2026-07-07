@@ -1,6 +1,6 @@
 ---
 title: Spraeck ende woord-boeck (1603)
-aliases: [Frederik de Houtman's Malay-Dutch dictionary (1603), "Spraeck ende woord-boeck in de Maleysche ende Madagaskarsche talen" (1603), De Houtman's Malay dictionary, Atjeh-captivity Malay dialogue book, Houtman's Spraek- en woordboek]
+aliases: ["Frederik de Houtman's Malay-Dutch dictionary (1603)", "Spraeck ende woord-boeck in de Maleysche ende Madagaskarsche talen (1603)", "De Houtman's Malay dictionary", "Atjeh-captivity Malay dialogue book", "Houtman's Spraek- en woordboek"]
 tags: [document, language, dictionary, dutch, atjehnese, malay, 17th-century]
 ---
 
