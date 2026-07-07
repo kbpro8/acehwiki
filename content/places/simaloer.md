@@ -3,6 +3,7 @@ title: Simaloer
 aliases: ["Pulau Simeulue", "Simaloer island", "Simalur", "Simeulue", "Simeulue island"]
 tags: ["achehnese", "coast", "island", "place"]
 ---
+**Simaloer** (modern *Simeulue*; also *Simalur*) is the island off the western coast of [[Acheh|Atjeh]] in the Indian Ocean, mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] as one of the North-Sumatran population-groups among whom the prohibition on slaughtering the albino buffalo (*Pantang of the albino buffalo in Atjeh|pantang*) is attested — specifically, for the *landschap* (district) of [[Tapah|Tapah]] — and as one of the regions whose buffalo-horn-stand nomenclature Kreemer documented in vol. I of his [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]] monograph (p. 501) alongside [[Acheh|Atjeh]] proper, the [[Gajoland|Gayo]] country, [[Alasland|Alas]] and [[Tapaq-Toean|Tapaq-Toean]]. The island is paired with the adjacent Atjeh mainland in both connections, which is consistent with the long-standing pattern of close cultural contact between Simaloer and the western coast of Atjeh.
 
 ## In De Karbouw
 Simaloer appears in *De Karbouw* in two principal connections:
@@ -22,9 +23,6 @@ Simaloer's significance for the encyclopedia of [[Acheh]] history is as a docume
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 32, 217.
 
 *Atjèh*, by J. Kreemer, vol. I ([[1922]]), p. 501.
-
-## Additional Information from Simaloer
-**Simaloer** (modern *Simeulue*; also *Simalur*) is the island off the western coast of [[Acheh|Atjeh]] in the Indian Ocean, mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] as one of the North-Sumatran population-groups among whom the prohibition on slaughtering the albino buffalo (*Pantang of the albino buffalo in Atjeh|pantang*) is attested — specifically, for the *landschap* (district) of [[Tapah|Tapah]] — and as one of the regions whose buffalo-horn-stand nomenclature Kreemer documented in vol. I of his [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]] monograph (p. 501) alongside [[Acheh|Atjeh]] proper, the [[Gajoland|Gayo]] country, [[Alasland|Alas]] and [[Tapaq-Toean|Tapaq-Toean]]. The island is paired with the adjacent Atjeh mainland in both connections, which is consistent with the long-standing pattern of close cultural contact between Simaloer and the western coast of Atjeh.
 
 ## See Also
 - [[Alasland]]

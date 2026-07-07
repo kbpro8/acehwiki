@@ -3,6 +3,7 @@ title: Hakikah and Koeroebeuën pre-Islamic preparation in Atjeh
 aliases: ["Atjeh Koeroebeuën", "Atjeh hakikah", "Atjeh pre-Islamic sacrifice preparation", "Koeroebeuën", "aqiqah in Atjeh", "hakikah", "qurban preparation rites Atjeh"]
 tags: ["achehnese", "concept", "pre-islamic", "religious", "sacrifice", "syncretism"]
 ---
+The **hakikah and Koeroebeuën pre-Islamic preparation in Atjeh** is the set of pre-Islamic preparatory ceremonies attached in Atjehnese practice to the *hakikah* (Arabic *aqiqah*) sacrifice for a newborn (preferably on the 7th day after birth; a sheep or a cow, never a buffalo) and to the *Koeroebeuën* (Arabic *Qurbān*) sacrifice at *Id al-Adha* (the "great feast" that concludes the pilgrimage to Mecca). The ceremonies involve the presentation to the slaughterer of a tray of objects — two raw eggs, "cooling" (luck-bringing) items, a bottle of perfume oil, a little black eye-powder, some tooth-blackener, a small mirror, a comb, a razor, a sunshade, and 4 *el* of white cotton — which the slaughterer applies to the slaughter-animal before performing the cut. The same inventory is found in Java for *koerban* sacrifices among old-fashioned practitioners. [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] judges these to be of pre-Islamic origin. The ceremonies are recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (pp. 118-119) — citing [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, pp. 263 vg.).
 
 ## The ceremonies
 The hakikah and Koeroebeuën preparation passage in *De Karbouw* (pp. 118-119) reads:
@@ -38,9 +39,6 @@ The hakikah and Koeroebeuën pre-Islamic preparation in Atjeh is significant for
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 118-119.
 
 *De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), vol. I, pp. 263-264.
-
-## Additional Information from Hakikah and Koeroebeuën pre-Islamic preparation in Atjeh
-The **hakikah and Koeroebeuën pre-Islamic preparation in Atjeh** is the set of pre-Islamic preparatory ceremonies attached in Atjehnese practice to the *hakikah* (Arabic *aqiqah*) sacrifice for a newborn (preferably on the 7th day after birth; a sheep or a cow, never a buffalo) and to the *Koeroebeuën* (Arabic *Qurbān*) sacrifice at *Id al-Adha* (the "great feast" that concludes the pilgrimage to Mecca). The ceremonies involve the presentation to the slaughterer of a tray of objects — two raw eggs, "cooling" (luck-bringing) items, a bottle of perfume oil, a little black eye-powder, some tooth-blackener, a small mirror, a comb, a razor, a sunshade, and 4 *el* of white cotton — which the slaughterer applies to the slaughter-animal before performing the cut. The same inventory is found in Java for *koerban* sacrifices among old-fashioned practitioners. [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] judges these to be of pre-Islamic origin. The ceremonies are recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (pp. 118-119) — citing [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, pp. 263 vg.).
 
 ## See Also
 - [[Atjehse Id al-Adha cow-not-buffalo choice]]

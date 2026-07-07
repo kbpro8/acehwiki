@@ -3,6 +3,7 @@ title: Atjeh bloeitijdperk ([[1607]]-[[1636]])
 aliases: ["Atjeh golden age", "Atjeh's golden age [[1607]]-[[1636]]", "bloeitijdperk van Atjeh", "golden age of Atjeh's past", "golden age of the Atjeh sultanate"]
 tags: ["achehnese", "courtly", "event", "political", "precolonial"]
 ---
+The **Atjeh *bloeitijdperk* of [[1607]]–[[1636]]** — the "golden age of Atjeh's past" in [[J. Kreemer|Kreemer]]'s phrase — was the reign of [[Sultan Iskandar Muda]] (r. [[1607]]–[[1636]]), the *"Roi soleil"* of the Atjehnese sultans, under whom the [[Acheh|Atjeh]] sultanate reached the zenith of its military, commercial and cultural power, and during whose court at [[Banda Acheh|Koetaradja]] both elephants and buffaloes were deployed as *vechtdieren* (fighting animals) in spectacles staged before foreign envoys. The period is the high-water mark of pre-colonial Atjehnese statehood and the chronological anchor against which the long decline of the seventeenth and eighteenth centuries — and, ultimately, the [[Aceh War|Dutch conquest of the late nineteenth century]] — was measured.
 
 ## Kreemer's account in De Karbouw
 [[J. Kreemer|Kreemer]] introduces the *bloeitijdperk* in [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 84), in the chapter on buffalo-fights and buffalo-races, as the chronological frame against which the village buffalo-fights of more recent times are to be understood as a "zwakke weerklank" (faint echo):
@@ -29,9 +30,6 @@ The Atjeh *bloeitijdperk* is significant for the encyclopedia of [[Acheh]] histo
 
 *The Voyage of Thomas Best to the East Indies, 1612-14*, edited by William Foster (London: Hakluyt Society, [[1934]]), p. 168.
 *Atjèh*, by J. Kreemer, vol. I ([[1922]]), p. 192.
-
-## Additional Information from Atjeh bloeitijdperk ([[1607]]-[[1636]])
-The **Atjeh *bloeitijdperk* of [[1607]]–[[1636]]** — the "golden age of Atjeh's past" in [[J. Kreemer|Kreemer]]'s phrase — was the reign of [[Sultan Iskandar Muda]] (r. [[1607]]–[[1636]]), the *"Roi soleil"* of the Atjehnese sultans, under whom the [[Acheh|Atjeh]] sultanate reached the zenith of its military, commercial and cultural power, and during whose court at [[Banda Acheh|Koetaradja]] both elephants and buffaloes were deployed as *vechtdieren* (fighting animals) in spectacles staged before foreign envoys. The period is the high-water mark of pre-colonial Atjehnese statehood and the chronological anchor against which the long decline of the seventeenth and eighteenth centuries — and, ultimately, the [[Aceh War|Dutch conquest of the late nineteenth century]] — was measured.
 
 ## See Also
 - [[Aceh War]]

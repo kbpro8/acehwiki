@@ -3,6 +3,7 @@ title: Keubeuë peunoelang
 aliases: ["Atjehse bride buffalo", "bride buffalo of Atjeh", "keubeue peunoelang", "keubeuë peunulang"]
 tags: ["achehnese", "adat", "concept", "marriage"]
 ---
+The **keubeuë peunoelang** (in [[J. Kreemer|Kreemer]]'s spelling; modern Atjehnese *keubeuë peunulang*) was the buffalo that the Atjehse bride received from her mother-in-law (*schoonmoeder*) as a marriage-gift — an animal held in high esteem, comparable to the old Dutch "bruidskoe" (bride cow). The custom is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 215) and is documented in [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 392).
 
 ## The custom
 The *keubeuë peunoelang* passage in *De Karbouw* (p. 215) reads:
@@ -23,9 +24,6 @@ The *keubeuë peunoelang* is significant for the encyclopedia of [[Acheh]] histo
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 215.
 
 *De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), vol. I, p. 392.
-
-## Additional Information from Keubeuë peunoelang
-The **keubeuë peunoelang** (in [[J. Kreemer|Kreemer]]'s spelling; modern Atjehnese *keubeuë peunulang*) was the buffalo that the Atjehse bride received from her mother-in-law (*schoonmoeder*) as a marriage-gift — an animal held in high esteem, comparable to the old Dutch "bruidskoe" (bride cow). The custom is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 215) and is documented in [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 392).
 
 ## See Also
 - [[Christiaan Snouck Hurgronje]]

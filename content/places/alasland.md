@@ -3,6 +3,7 @@ title: Alasland
 aliases: ["Alas (landschap)", "Alas country", "Alas land", "Alas valley", "Alas-land", "Tanah Alas"]
 tags: ["achehnese", "alas", "highland", "place"]
 ---
+**Alasland** (the Alas valley; in *De Karbouw* also *Het Alasland* or *het landschap Alas*) is the highland valley of the Alas river in south-eastern [[Acheh|Atjeh]], inhabited by the Alas people and lying to the south-east of [[Gajoland|Gajoland]] along the upper course of the river that flows eventually into the [[Singkil|Singkil]] country and the Indian Ocean. Alasland is mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] as one of the inner highland regions paired with Atjeh proper in matters of buffalo-vocabulary, buffalo-custom and buffalo-belief, and specifically as the home of the five *mergō* patrilineages among whom the [[Pantang of the albino buffalo in Atjeh|prohibition of albino-buffalo slaughter]] is attested. The Alas country is administered, in the colonial period, as part of [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] and is, in the modern Indonesian provincial structure, the [[Aceh Tenggara Regency|Aceh Tenggara Regency]] of the province of Aceh.
 
 ## In De Karbouw
 Alasland appears in *De Karbouw* in a series of comparative ethnographic connections, always paired with [[Gajoland|Gajoland]] and [[Acheh|Atjeh]] proper:
@@ -26,9 +27,6 @@ Alasland is significant for the encyclopedia of [[Acheh]] history as the south-e
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 57, 165, 181, 217, 224.
 
 *Atjèh*, by J. Kreemer, vol. I ([[1922]]), p. 475; vol. II ([[1923]]), pp. 521, 544.
-
-## Additional Information from Alasland
-**Alasland** (the Alas valley; in *De Karbouw* also *Het Alasland* or *het landschap Alas*) is the highland valley of the Alas river in south-eastern [[Acheh|Atjeh]], inhabited by the Alas people and lying to the south-east of [[Gajoland|Gajoland]] along the upper course of the river that flows eventually into the [[Singkil|Singkil]] country and the Indian Ocean. Alasland is mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] as one of the inner highland regions paired with Atjeh proper in matters of buffalo-vocabulary, buffalo-custom and buffalo-belief, and specifically as the home of the five *mergō* patrilineages among whom the [[Pantang of the albino buffalo in Atjeh|prohibition of albino-buffalo slaughter]] is attested. The Alas country is administered, in the colonial period, as part of [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] and is, in the modern Indonesian provincial structure, the [[Aceh Tenggara Regency|Aceh Tenggara Regency]] of the province of Aceh.
 
 ## See Also
 - [[Aceh Tenggara Regency]]

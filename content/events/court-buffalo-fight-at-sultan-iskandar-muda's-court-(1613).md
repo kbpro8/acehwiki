@@ -3,6 +3,7 @@ title: Court buffalo-fight at Sultan Iskandar Muda's court ([[1613]])
 aliases: ["Best's buffalo-fight [[1613]]", "[[1613]] Atjeh court buffalo-fight", "buffalo-fight at the court of Sultan Iskandar Muda", "court buffalo-fight at Koetaradja [[1613]]"]
 tags: ["achehnese", "animal-fight", "courtly", "event", "precolonial", "spectacle"]
 ---
+The **court buffalo-fight at the court of [[Sultan Iskandar Muda|Sultan Iskandar Muda]] in [[1613]]** was a state spectacle staged at [[Banda Acheh|Koetaradja]] in honour of the visiting English envoy [[Thomas Best]], in which buffaloes were deployed as *vechtdieren* (fighting animals) alongside elephants in a choreographed sequence that constitutes one of the earliest European eyewitness descriptions of court spectacle at the [[Acheh|Atjeh]] capital. The fight is documented in [[Thomas Best|Best]]'s journal — edited by [[William Foster]] as *The Voyage of Thomas Best to the East Indies, 1612-14* (London: Hakluyt Society, [[1934]], p. 168) — and is cited in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 84), drawing on [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. I, p. 192), as the principal first-hand account of buffalo-fights as a courtly entertainment in [[Acheh|Atjeh]].
 
 ## The event
 The fight was staged as part of a larger state festival held in [[Thomas Best|Best]]'s honour during his [[Thomas Best's visit to Atjeh ([[1613]])|embassy of 1613]] to the court of [[Sultan Iskandar Muda|Iskandar Muda]] (r. [[1607]]–[[1636]]), the *"Roi soleil"* of the Atjehse vorsten. [[J. Kreemer|Kreemer]]'s summary of Best's journal in *De Karbouw* (p. 84) gives the sequence:
@@ -27,9 +28,6 @@ The court buffalo-fight of [[1613]] is significant for the encyclopedia of [[Ach
 
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 84.
 *Atjèh*, by J. Kreemer, vol. I ([[1922]]), p. 192.
-
-## Additional Information from Court buffalo-fight at Sultan Iskandar Muda's court ([[1613]])
-The **court buffalo-fight at the court of [[Sultan Iskandar Muda|Sultan Iskandar Muda]] in [[1613]]** was a state spectacle staged at [[Banda Acheh|Koetaradja]] in honour of the visiting English envoy [[Thomas Best]], in which buffaloes were deployed as *vechtdieren* (fighting animals) alongside elephants in a choreographed sequence that constitutes one of the earliest European eyewitness descriptions of court spectacle at the [[Acheh|Atjeh]] capital. The fight is documented in [[Thomas Best|Best]]'s journal — edited by [[William Foster]] as *The Voyage of Thomas Best to the East Indies, 1612-14* (London: Hakluyt Society, [[1934]], p. 168) — and is cited in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 84), drawing on [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. I, p. 192), as the principal first-hand account of buffalo-fights as a courtly entertainment in [[Acheh|Atjeh]].
 
 ## See Also
 - [[Atjeh bloeitijdperk ([[1607]]-[[1636]])]]

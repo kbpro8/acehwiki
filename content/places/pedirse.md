@@ -3,6 +3,7 @@ title: Pedirse
 aliases: ["Pedir", "Pedirse", "Pidie", "Pidie region", "Pidir", "the Pedir region"]
 tags: ["aceh-proper", "achehnese", "coast", "colonial", "place", "region"]
 ---
+**Pedirse** (in *De Karbouw*'s spelling; more commonly *Pedir* in Dutch colonial sources, *Pidie* in modern Indonesian) is the region of the north coast of [[Acheh|Atjeh]] between [[Groot-Atjeh|Greater Aceh]] and the [[Pasei|Pasai]] country, named from the coastal town of Pedir that was, in the sixteenth and seventeenth centuries, one of the principal ports of the sultanate. In [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] Pedirse is named for three Atjeh-specific facts: the local milking of goats (alongside buffaloes); the production of *dadih* (curdled buffalo-milk) — specifically at [[Samalanga|Samalanga]] in the Pedir region; and the use, in the [[Pederse|Pederse (Pidie)]] sub-district of Groot-Atjeh, of a tiny golden plough at the [[Poephon blang|*poephon blang*]] field-consecration rite.
 
 ## In De Karbouw
 The Pedirse-specific facts that *De Karbouw* records are:
@@ -23,9 +24,6 @@ Pedirse's significance for the encyclopedia of [[Acheh]] history is twofold. Fir
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 124, 178.
 
 *Atjèh*, by J. Kreemer, vol. II ([[1923]]), pp. 578 vg.
-
-## Additional Information from Pedirse
-**Pedirse** (in *De Karbouw*'s spelling; more commonly *Pedir* in Dutch colonial sources, *Pidie* in modern Indonesian) is the region of the north coast of [[Acheh|Atjeh]] between [[Groot-Atjeh|Greater Aceh]] and the [[Pasei|Pasai]] country, named from the coastal town of Pedir that was, in the sixteenth and seventeenth centuries, one of the principal ports of the sultanate. In [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] Pedirse is named for three Atjeh-specific facts: the local milking of goats (alongside buffaloes); the production of *dadih* (curdled buffalo-milk) — specifically at [[Samalanga|Samalanga]] in the Pedir region; and the use, in the [[Pederse|Pederse (Pidie)]] sub-district of Groot-Atjeh, of a tiny golden plough at the [[Poephon blang|*poephon blang*]] field-consecration rite.
 
 ## See Also
 - [[Groot-Atjeh]]

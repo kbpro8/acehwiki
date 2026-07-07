@@ -3,6 +3,7 @@ title: Peuteumbôn
 aliases: ["Atjehnese buffalo-fattening custom", "fattening of buffaloes for Ramadan feasts in Atjeh", "peuteumbeun", "peuteumbon"]
 tags: ["achehnese", "adat", "agricultural", "concept", "ramadan"]
 ---
+**Peuteumbôn** (in [[J. Kreemer|Kreemer]]'s spelling; modern Atjehnese *peuteumbeun*) is the Atjehnese custom of fattening water-buffaloes for the two great annual Islamic feast-days that fall immediately before and after the *Vasten* (the Ramadan fasting month) — accomplished by force-feeding the animals sugarcane and dew-moistened grass to the point of over-satiation, in the same manner that sick people and small children were fed. The custom is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 59) and in his [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]] (vol. I, pp. 497-498; vol. II, pp. 595, 628 nt. 3). The Gayo equivalent term is *memantar*.
 
 ## The custom
 The *peuteumbôn* passage in *De Karbouw* (p. 59) reads:
@@ -22,9 +23,6 @@ The structural elements of the custom are:
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 59.
 
 *Atjèh*, by J. Kreemer, vol. I ([[1922]]), pp. 497-498; vol. II ([[1923]]), pp. 595, 628 nt. 3.
-
-## Additional Information from Peuteumbôn
-**Peuteumbôn** (in [[J. Kreemer|Kreemer]]'s spelling; modern Atjehnese *peuteumbeun*) is the Atjehnese custom of fattening water-buffaloes for the two great annual Islamic feast-days that fall immediately before and after the *Vasten* (the Ramadan fasting month) — accomplished by force-feeding the animals sugarcane and dew-moistened grass to the point of over-satiation, in the same manner that sick people and small children were fed. The custom is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 59) and in his [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]] (vol. I, pp. 497-498; vol. II, pp. 595, 628 nt. 3). The Gayo equivalent term is *memantar*.
 
 ## See Also
 - [[Gajoland]]

@@ -118,8 +118,5 @@ Each entry is a self-contained `.md` file in Obsidian/Quartz-flavoured Markdown,
 
 Some wikilinks point to pages that may already exist in the wiki (e.g. [[Christiaan Snouck Hurgronje]], [[Banda Acheh]], [[Aceh War]]) — these will resolve to the existing pages. Other wikilinks point to pages that do not yet exist (e.g. [[Kleine-Atjeh]], [[meunasah]], [[mukim]]) — these will appear as red/stub links in the wiki, which is the expected Quartz behaviour and signals where future entries could be written.
 
-## Additional Information from Readme
-
-
 ## Source
 The source book is a [[1956]] Dutch comparative ethnography of the water-buffalo in the Indonesian archipelago. Kreemer (a former *Kontroleur B.B.* on Sumatra's Westkust and the author of the two-volume monograph *Atjèh*, [[1922]]-23) draws extensively on his own field experience in northern Sumatra, on Christiaan Snouck Hurgronje's *De Atjehers* ([[1893]]-94) and *Het Gajoland en zijne bewoners* ([[1903]]), and on the lexicographical works of Hazeu (*Gajosch-Ned. Wdbk.*) and Djajadiningrat (*Atjehsch-Ned. Wdbk.*).

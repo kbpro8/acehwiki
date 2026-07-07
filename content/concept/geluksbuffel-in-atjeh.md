@@ -3,6 +3,7 @@ title: Geluksbuffel in Atjeh
 aliases: ["Atjeh fortune-bringing buffalo", "Atjeh luck-buffalo", "betoeah in Atjeh", "geluksbuffel Atjeh", "luck-bringing buffalo Atjeh"]
 tags: ["achehnese", "agricultural", "concept", "folk-belief", "magic"]
 ---
+The **geluksbuffel in Atjeh** (the luck-bringing buffalo in Atjeh) is the documented Atjehnese belief that certain individual buffaloes — independent of any external mark — were bringers of good fortune (*geluk*), specifically in two respects: (1) if a luck-bringing buffalo was the first to step onto a *sawah* (wet-rice field), or deposited its dung there, mice would not come to destroy the planting; and (2) if such a buffalo was bound under one's house, it kept the lice out. The belief is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 215) — citing [[Kreemer's Atjeh ([[1922]]-23)|his *Atjeh*]] (vol. I, p. 508) — and is the Atjehnese instance of the wider archipelagic pattern of the *geluksbuffel* (in Minangkabau called *soembarag*-karbouw).
 
 ## The belief
 The geluksbuffel passage in *De Karbouw* (p. 215) reads:
@@ -24,9 +25,6 @@ The geluksbuffel in Atjeh is significant for the encyclopedia of [[Acheh]] histo
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 215.
 
 *Atjèh*, by J. Kreemer, vol. I ([[1922]]), p. 508.
-
-## Additional Information from Geluksbuffel in Atjeh
-The **geluksbuffel in Atjeh** (the luck-bringing buffalo in Atjeh) is the documented Atjehnese belief that certain individual buffaloes — independent of any external mark — were bringers of good fortune (*geluk*), specifically in two respects: (1) if a luck-bringing buffalo was the first to step onto a *sawah* (wet-rice field), or deposited its dung there, mice would not come to destroy the planting; and (2) if such a buffalo was bound under one's house, it kept the lice out. The belief is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 215) — citing [[Kreemer's Atjeh ([[1922]]-23)|his *Atjeh*]] (vol. I, p. 508) — and is the Atjehnese instance of the wider archipelagic pattern of the *geluksbuffel* (in Minangkabau called *soembarag*-karbouw).
 
 ## See Also
 - [[Atjehs buffalo vocabulary]]

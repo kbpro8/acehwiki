@@ -3,6 +3,7 @@ title: Getah dadih
 aliases: ["Atjeh-Gajo weapon-scabbard glue", "buffalo-milk curd glue", "dadih glue", "getah dadih"]
 tags: ["achehnese", "concept", "craft", "gajo", "technology"]
 ---
+**Getah dadih** (literally "dadih-glue"; the *getah* or gum/resin of *dadih*, the curdled buffalo-milk of northern Sumatra) is the adhesive prepared by the Atjehnese and the Gayo from curdled buffalo-milk, used (among other purposes) for gluing the two halves of weapon-scabbards together. The preparation and use of *getah dadih* is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 124) — citing [[J. F. K. van Hasselt|Van Hasselt]]'s *Volksbeschrijving* (pp. 31, 374 vg.), [[Kreemer's De Maleier en zijn karbouw ([[1907]])|Kreemer's *De Maleier en zijn karbouw*]] (p. 956), and [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. I, pp. 333 vg.).
 
 ## Preparation and use
 The *getah dadih* passage in *De Karbouw* (p. 124) reads:
@@ -25,9 +26,6 @@ The preparation steps are:
 *Volksbeschrijving van Midden-Sumatra*, by J. F. K. van Hasselt, pp. 31, 374-375.
 *De Maleier en zijn karbouw*, by J. Kreemer, in *De Indische Gids* [[1907]], vol. I, p. 956.
 *Atjèh*, by J. Kreemer, vol. I ([[1922]]), pp. 333-334.
-
-## Additional Information from Getah dadih
-**Getah dadih** (literally "dadih-glue"; the *getah* or gum/resin of *dadih*, the curdled buffalo-milk of northern Sumatra) is the adhesive prepared by the Atjehnese and the Gayo from curdled buffalo-milk, used (among other purposes) for gluing the two halves of weapon-scabbards together. The preparation and use of *getah dadih* is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 124) — citing [[J. F. K. van Hasselt|Van Hasselt]]'s *Volksbeschrijving* (pp. 31, 374 vg.), [[Kreemer's De Maleier en zijn karbouw ([[1907]])|Kreemer's *De Maleier en zijn karbouw*]] (p. 956), and [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. I, pp. 333 vg.).
 
 ## See Also
 - [[Atjehs buffalo vocabulary]]

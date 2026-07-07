@@ -3,6 +3,7 @@ title: Poelo Breuëh
 aliases: ["Bras island", "Breueh island", "Bunta island of Atjeh", "Bureukuh", "Poelau Bras", "Pulau Bras", "Pulau Breueh"]
 tags: ["achehnese", "coast", "island", "place"]
 ---
+**Poelo Breuëh** (also *Poelau Bras*; modern *Pulau Breueh* or *Pulau Bras*) is the island off the north-western coast of [[Groot-Atjeh|Groot-Atjeh]] in [[Acheh|Atjeh]] on which — or, more precisely, on the nearby islet of [[Rabò|Rabò]] — the inhabitants of the [[VI Moekim's of Groot-Atjeh|VI Moekim's of Groot-Atjeh]] held, in the period documented by [[Christiaan Snouck Hurgronje|Snouck Hurgronje]], an annual seven-day feast on the beach, the seventh day of which culminated in the [[Rabò annual seven-day feast|ritual sacrifice of a buffalo]] that was first stabbed and then led bleeding over all the rice-fields so that none should miss the disaster-averting sprinkling of its blood. The island is named in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 246) in connection with this [[Rabò annual seven-day feast|Rabò sacrifice]], cited from [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. II, p. 315).
 
 ## In De Karbouw
 The Poelo Breuëh passage in *De Karbouw* (p. 246) runs:
@@ -22,9 +23,6 @@ Poelo Breuëh's significance for the encyclopedia of [[Acheh]] history is as the
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 246.
 
 *De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), vol. II, p. 315.
-
-## Additional Information from Poelo Breuëh
-**Poelo Breuëh** (also *Poelau Bras*; modern *Pulau Breueh* or *Pulau Bras*) is the island off the north-western coast of [[Groot-Atjeh|Groot-Atjeh]] in [[Acheh|Atjeh]] on which — or, more precisely, on the nearby islet of [[Rabò|Rabò]] — the inhabitants of the [[VI Moekim's of Groot-Atjeh|VI Moekim's of Groot-Atjeh]] held, in the period documented by [[Christiaan Snouck Hurgronje|Snouck Hurgronje]], an annual seven-day feast on the beach, the seventh day of which culminated in the [[Rabò annual seven-day feast|ritual sacrifice of a buffalo]] that was first stabbed and then led bleeding over all the rice-fields so that none should miss the disaster-averting sprinkling of its blood. The island is named in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 246) in connection with this [[Rabò annual seven-day feast|Rabò sacrifice]], cited from [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. II, p. 315).
 
 ## See Also
 - [[Bebloeding (rituele bebloeding)]]

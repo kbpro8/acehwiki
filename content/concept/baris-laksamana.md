@@ -3,6 +3,7 @@ title: Baris-Laksamana
 aliases: ["Atjeh magic circle for stall", "Ramayana magic circle", "baris-Laksamana", "laqseumana", "magic circle of Laksamana", "oeris-Laksamana", "uris Laksamana"]
 tags: ["achehnese", "concept", "folk-belief", "magic", "ramayana", "sumatra"]
 ---
+The **baris-Laksamana** (also **oeris-Laksamana**; Atj. *laqseumana*) is the magic circle drawn around a livestock-stall to protect the animals from diseases, wild animals, and other dangers — a practice attested across Sumatra (and beyond), used by the [[Acheh|Atjehnese]] (Atjehers), Malays and Gayo under the same name. The term, despite [[W. W. Skeat|Skeat]]'s folk-etymology "Admiral's Line," does not refer to an admiral but to the magic circle that Laksamana — in the old Hindu epic [[Ramayana]] — drew around Rama's wife Sita before leaving her, to protect her from Rawana, the demon-prince of the realm of Langkapoera. The practice is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 172) — citing [[Kreemer's Atjeh ([[1922]]-23)|his *Atjeh*]] (vol. I, p. 312; vol. II, pp. 586 vg., 661 nt. 2) and [[Hoesein Djajadiningrat|Djajadiningrat]]'s *Atjehsch-Ned. Wdbk.* i.v. *laqseumana*.
 
 ## The practice
 The baris-Laksamana passage in *De Karbouw* (p. 172) reads:
@@ -30,9 +31,6 @@ The baris-Laksamana is significant for the encyclopedia of [[Acheh]] history as 
 *Atjèh*, by J. Kreemer, vol. I ([[1922]]), p. 312; vol. II ([[1923]]), pp. 586-587, 661 nt. 2.
 *Atjehsch-Nederlandsch Woordenboek*, by Hoesein Djajadiningrat, i.v. *laqseumana*.
 *Malay-English Dictionary*, by R. J. Wilkinson, i.v. *laksamana*.
-
-## Additional Information from Baris-Laksamana
-The **baris-Laksamana** (also **oeris-Laksamana**; Atj. *laqseumana*) is the magic circle drawn around a livestock-stall to protect the animals from diseases, wild animals, and other dangers — a practice attested across Sumatra (and beyond), used by the [[Acheh|Atjehnese]] (Atjehers), Malays and Gayo under the same name. The term, despite [[W. W. Skeat|Skeat]]'s folk-etymology "Admiral's Line," does not refer to an admiral but to the magic circle that Laksamana — in the old Hindu epic [[Ramayana]] — drew around Rama's wife Sita before leaving her, to protect her from Rawana, the demon-prince of the realm of Langkapoera. The practice is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 172) — citing [[Kreemer's Atjeh ([[1922]]-23)|his *Atjeh*]] (vol. I, p. 312; vol. II, pp. 586 vg., 661 nt. 2) and [[Hoesein Djajadiningrat|Djajadiningrat]]'s *Atjehsch-Ned. Wdbk.* i.v. *laqseumana*.
 
 ## See Also
 - [[Atjehs buffalo vocabulary]]

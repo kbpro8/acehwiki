@@ -3,6 +3,7 @@ title: Gajoland
 aliases: ["Gajo-land", "Gayo country", "Gayo highlands of central Atjeh", "Gayoland", "Het Gajoland", "Tanah Gayo"]
 tags: ["achehnese", "gajo", "highland", "place"]
 ---
+**Gajoland** (the Gayo country; in [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s usage *Het Gajoland*) is the highland region of central [[Acheh|Atjeh]], inhabited by the Gayo people and lying between [[Groot-Atjeh|Greater Aceh]] on the north coast and the [[Alasland|Alas]] valley to the south-east, mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] as the inland neighbour of the Atjehnese with whom a wide range of buffalo-related vocabulary, customs and beliefs are explicitly paired. The Gayo were the subject of [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s monograph [[Snouck Hurgronje's Het Gajoland en zijne bewoners ([[1903]])|*Het Gajoland en zijne bewoners* ([[1903]])]] and of [[G. A. J. Hazeu|Hazeu]]'s *Gajosch-Nederlandsch Woordenboek*, both repeatedly cited in *De Karbouw* as the principal sources on Gayo vocabulary and custom.
 
 ## In De Karbouw
 Gajoland is paired with Atjeh throughout *De Karbouw* — sometimes explicitly ("in Atjeh en het Gajoland *tjaram*") and sometimes by juxtaposition — in a long list of buffalo-related vocabulary and custom, including:
@@ -28,9 +29,6 @@ Gajoland is significant for the encyclopedia of [[Acheh]] history as the highlan
 *Het Gajoland en zijne bewoners*, by C. Snouck Hurgronje (The Hague: M. Nijhoff, [[1903]]).
 *Gajosch-Nederlandsch Woordenboek*, by G. A. J. Hazeu.
 *Atjèh*, by J. Kreemer, 2 vols. ([[1922]]-23), vol. II, p. 446.
-
-## Additional Information from Gajoland
-**Gajoland** (the Gayo country; in [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s usage *Het Gajoland*) is the highland region of central [[Acheh|Atjeh]], inhabited by the Gayo people and lying between [[Groot-Atjeh|Greater Aceh]] on the north coast and the [[Alasland|Alas]] valley to the south-east, mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] as the inland neighbour of the Atjehnese with whom a wide range of buffalo-related vocabulary, customs and beliefs are explicitly paired. The Gayo were the subject of [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s monograph [[Snouck Hurgronje's Het Gajoland en zijne bewoners ([[1903]])|*Het Gajoland en zijne bewoners* ([[1903]])]] and of [[G. A. J. Hazeu|Hazeu]]'s *Gajosch-Nederlandsch Woordenboek*, both repeatedly cited in *De Karbouw* as the principal sources on Gayo vocabulary and custom.
 
 ## See Also
 - [[Alasland]]

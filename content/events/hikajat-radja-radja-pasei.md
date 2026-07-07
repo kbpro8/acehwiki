@@ -3,6 +3,7 @@ title: Hikajat Radja-radja Pasei
 aliases: ["Hikajat Radja-radja Pasei", "Hikayat Pasai", "Hikayat Raja-Raja Pasai", "Malay chronicle of Pasai", "Pasai chronicle", "chronicle of the kings of Pasai"]
 tags: ["achehnese", "chronicle", "document", "malay", "muslim", "precolonial"]
 ---
+The **Hikajat Radja-radja Pasei** (modern spelling *Hikayat Raja-Raja Pasai*) is the Malay chronicle of the kings of [[Pasei|Samudra Pasai]], the historical Muslim kingdom on the north coast of [[Acheh|Atjeh]], and one of the foundational Malay historical texts. The chronicle was made accessible to European scholarship by [[E. Dulaurier]] in his [[1849]] edition, and was translated into French by [[A. Marre]] in [[1874]] as *Sumatra, Histoire des rois de Pasey*. In [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 209, footnote) the chronicle is cited among the textual witnesses to the famous Minangkabau buffalo-fight founding legend, alongside [[A. Marre|Marre]]'s [[1874]] translation, [[J. L. A. Brandes|Brandes]]'s *Pararaton* (2nd ed., p. 149 vg.), and [[L. C. Westenenk|Westenenk]]'s Minangkabau writings.
 
 ## The text
 The *Hikajat Radja-radja Pasei* is a Malay prose chronicle treating the early Muslim kings of [[Pasei|Samudra Pasai]], the North-Acehnese polity that was, before the rise of [[Banda Acheh|Koetaradja]] under [[Sultan Iskandar Muda|Iskandar Muda]], the principal Muslim state of the northern Sumatran coast and one of the earliest Muslim kingdoms in the Indonesian archipelago. According to the chronicle's own chronology, the kingdom was founded in the late thirteenth century (traditionally 1267 CE) by Merah Silau, who is said to have converted to Islam and assumed the title Malik as-Saleh; the chronicle then traces the succession of the Pasai kings down to the absorption of the kingdom by the [[Acheh|Atjeh]] sultanate in the early sixteenth century.
@@ -29,9 +30,6 @@ The *Hikajat Radja-radja Pasei* is significant for the encyclopedia of [[Acheh]]
 
 *Sumatra, Histoire des rois de Pasey*, by A. Marre (Paris, [[1874]]).
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 209.
-
-## Additional Information from Hikajat Radja-radja Pasei
-The **Hikajat Radja-radja Pasei** (modern spelling *Hikayat Raja-Raja Pasai*) is the Malay chronicle of the kings of [[Pasei|Samudra Pasai]], the historical Muslim kingdom on the north coast of [[Acheh|Atjeh]], and one of the foundational Malay historical texts. The chronicle was made accessible to European scholarship by [[E. Dulaurier]] in his [[1849]] edition, and was translated into French by [[A. Marre]] in [[1874]] as *Sumatra, Histoire des rois de Pasey*. In [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 209, footnote) the chronicle is cited among the textual witnesses to the famous Minangkabau buffalo-fight founding legend, alongside [[A. Marre|Marre]]'s [[1874]] translation, [[J. L. A. Brandes|Brandes]]'s *Pararaton* (2nd ed., p. 149 vg.), and [[L. C. Westenenk|Westenenk]]'s Minangkabau writings.
 
 ## See Also
 - [[A. Marre]]

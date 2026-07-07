@@ -3,6 +3,7 @@ title: Poewôê siê
 aliases: ["Atjehnese first-year husband meat obligation", "peugöt sië", "poewoe siê", "the poewôê siê custom of Atjeh"]
 tags: ["achehnese", "adat", "concept", "marriage", "ramadan"]
 ---
+**Poewôê siê** (in [[J. Kreemer|Kreemer]]'s spelling) is the Atjehnese adat obligation by which a newly-married young man, during the first year of his marriage, was required to bring meat home to his wife on the two ritual slaughter-days before the beginning and at the end of the *Vastenmaand* (Ramadan fasting month) — the same two slaughter-days known as [[maq meugang|*maq meugang*]]. The obligation is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (pp. 113-114) and in [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 398), and is one of the principal adat institutions linking the buffalo-slaughter complex to the Atjehnese marriage-cycle.
 
 ## The custom
 The *poewôê siê* passage in *De Karbouw* (pp. 113-114) reads:
@@ -24,9 +25,6 @@ The structural elements of the custom are:
 
 *De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), vol. I, p. 398.
 *Atjèh*, by J. Kreemer, vol. II ([[1923]]), pp. 335, 673 nt.
-
-## Additional Information from Poewôê siê
-**Poewôê siê** (in [[J. Kreemer|Kreemer]]'s spelling) is the Atjehnese adat obligation by which a newly-married young man, during the first year of his marriage, was required to bring meat home to his wife on the two ritual slaughter-days before the beginning and at the end of the *Vastenmaand* (Ramadan fasting month) — the same two slaughter-days known as [[maq meugang|*maq meugang*]]. The obligation is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (pp. 113-114) and in [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 398), and is one of the principal adat institutions linking the buffalo-slaughter complex to the Atjehnese marriage-cycle.
 
 ## See Also
 - [[Christiaan Snouck Hurgronje]]

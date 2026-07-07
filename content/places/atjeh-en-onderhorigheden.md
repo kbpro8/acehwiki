@@ -3,6 +3,7 @@ title: Atjeh en Onderhorigheden
 aliases: ["Aceh and Dependencies", "Atjeh and Dependencies", "Atjèh en Onderhoorigheden", "Gouvernement Atjeh en Onderhorigheden", "residency of Atjeh"]
 tags: ["achehnese", "administrative-unit", "colonial", "dutch", "place"]
 ---
+**Atjeh en Onderhorigheden** (Atjeh and Dependencies; in the spelling of [[J. Kreemer|Kreemer]]'s title-page *Atjèh en Onderhoorigheden*) was the Dutch colonial administrative unit comprising the territory of the former [[Acheh|Atjeh]] sultanate and its highland dependencies — the [[Gajoland|Gayo]] and [[Alasland|Alas]] countries — that was constituted after the [[Aceh War|Atjeh War]] of the late nineteenth and early twentieth centuries and that supplied, throughout the late-colonial period, the territorial frame within which the Dutch government compiled the livestock statistics, the administrative reports, and the ethnographic syntheses on which the study of Atjehnese buffalo-husbandry has largely rested. The unit appears in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (pp. 50, 51) as the source of the buffalo-density statistics (≈ 2 buffaloes per km², ≈ 95 per 1000 inhabitants) tabulated in the *Indisch Verslag [[1939]]*, II, p. 283, and is the territorial referent of [[J. Kreemer|Kreemer]]'s own [[Kreemer's Atjeh ([[1922]]-23)|*Atjèh*]] ([[1922]]-23), whose subtitle is "algemeen samenvattend overzicht van land en volk van Atjèh en Onderhoorigheden."
 
 ## In De Karbouw
 Atjeh en Onderhorigheden appears in *De Karbouw* in two principal connections:
@@ -24,9 +25,6 @@ Atjeh en Onderhorigheden is significant for the encyclopedia of [[Acheh]] histor
 
 *Indisch Verslag [[1939]]*, vol. II, p. 283.
 *Atjèh: algemeen samenvattend overzicht van land en volk van Atjèh en Onderhoorigheden*, by J. Kreemer, 2 vols. ([[1922]]-23).
-
-## Additional Information from Atjeh en Onderhorigheden
-**Atjeh en Onderhorigheden** (Atjeh and Dependencies; in the spelling of [[J. Kreemer|Kreemer]]'s title-page *Atjèh en Onderhoorigheden*) was the Dutch colonial administrative unit comprising the territory of the former [[Acheh|Atjeh]] sultanate and its highland dependencies — the [[Gajoland|Gayo]] and [[Alasland|Alas]] countries — that was constituted after the [[Aceh War|Atjeh War]] of the late nineteenth and early twentieth centuries and that supplied, throughout the late-colonial period, the territorial frame within which the Dutch government compiled the livestock statistics, the administrative reports, and the ethnographic syntheses on which the study of Atjehnese buffalo-husbandry has largely rested. The unit appears in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (pp. 50, 51) as the source of the buffalo-density statistics (≈ 2 buffaloes per km², ≈ 95 per 1000 inhabitants) tabulated in the *Indisch Verslag [[1939]]*, II, p. 283, and is the territorial referent of [[J. Kreemer|Kreemer]]'s own [[Kreemer's Atjeh ([[1922]]-23)|*Atjèh*]] ([[1922]]-23), whose subtitle is "algemeen samenvattend overzicht van land en volk van Atjèh en Onderhoorigheden."
 
 ## See Also
 - [[Aceh War]]

@@ -3,6 +3,7 @@ title: Potjoet Moehammat
 aliases: ["Atjehnese epic Potjoet Moehammat", "Atjehse epos Potjoet Moehammat", "Hikajat Potjoet Moehammat", "Poetry Moehammat", "Putjut Meukat", "Putjut Muhammad"]
 tags: ["achehnese", "document", "epic", "literature", "precolonial"]
 ---
+The **Potjoet Moehammat** (modern Atjehnese *Putjut Muhammad* or *Hikayat Putjut Meukat*) is an Atjehnese-language historical epic, composed — in [[J. Kreemer|Kreemer]]'s dating — "omstreeks het midden der 18e eeuw" (around the middle of the eighteenth century), which is cited in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 146) — drawing on [[Kreemer's Atjeh ([[1922]]-23)|his *Atjeh*]] (vol. I, p. 307) — as the earliest literary attestation of the [[koeta djaq|*koeta djaq*]] "wandelende fort" (walking fort), the mobile buffalo-hide siege-shelter used in the inter-tribal wars of the [[Acheh|Atjeh]] cultural sphere.
 
 ## The epic and the koeta djaq
 The *Potjoet Moehammat* passage in *De Karbouw* (p. 146) reads:
@@ -18,9 +19,6 @@ The *Potjoet Moehammat* is significant for the encyclopedia of [[Acheh]] history
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 146.
 
 *Atjèh*, by J. Kreemer, vol. I ([[1922]]), p. 307.
-
-## Additional Information from Potjoet Moehammat
-The **Potjoet Moehammat** (modern Atjehnese *Putjut Muhammad* or *Hikayat Putjut Meukat*) is an Atjehnese-language historical epic, composed — in [[J. Kreemer|Kreemer]]'s dating — "omstreeks het midden der 18e eeuw" (around the middle of the eighteenth century), which is cited in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 146) — drawing on [[Kreemer's Atjeh ([[1922]]-23)|his *Atjeh*]] (vol. I, p. 307) — as the earliest literary attestation of the [[koeta djaq|*koeta djaq*]] "wandelende fort" (walking fort), the mobile buffalo-hide siege-shelter used in the inter-tribal wars of the [[Acheh|Atjeh]] cultural sphere.
 
 ## See Also
 - [[Aceh War]]

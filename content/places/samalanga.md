@@ -3,6 +3,7 @@ title: Samalanga
 aliases: ["Samalanga", "Samalanga (Atjeh)", "Samalanga region", "Samalangga", "Samalangá"]
 tags: ["aceh-proper", "achehnese", "coast", "colonial", "military-operations", "north-coast", "north-east-coast", "place", "region", "ulama"]
 ---
+**Samalanga** is a coastal region of [[Acheh|Atjeh]] on the north coast of Sumatra, between [[Banda Acheh|Koetaradja]] and [[Pedirse|Pedir]], mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 124) as the locality where, in particular, much *dadih* — curdled buffalo-milk, the most widely consumed buffalo-milk product in northern Sumatra — was made. The Samalanga reference is part of *De Karbouw*'s wider account of buffalo-milking and buffalo-milk consumption in Atjeh, which locates Atjeh within a broader North-Sumatran dairy complex that included the [[Pedirse|Pedir]] region (where goats were also milked), the [[Gajoland|Gajoland]] highlands (where *minjaq sapi* buffalo-milk cream was boiled down to fat for frying *toempi* and *tjoetjoer*), and the [[Klingalese]] and [[Arab|Arab]] communities resident in Atjeh (great lovers of *dadih*, who knew it by their own terms *tairō* and *halib* respectively).
 
 ## Expanded account from *The Achehnese*, Vol. I — Samalanga
 **Samalanga** is a region on the north coast of Acheh mentioned in *The Achehnese* Vol. I both as the scene of Dutch military operations in the Acheh War and as the geographical designation borne by the influential sayyid preacher **Habib Samalanga**, one of the chief rivals of [[Teungku Tiro]].
@@ -40,9 +41,6 @@ After the battle, Panglima Polem retreated into the interior. He was eventually 
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 124.
 *De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), passim.
-
-## Additional Information from Samalanga
-**Samalanga** is a coastal region of [[Acheh|Atjeh]] on the north coast of Sumatra, between [[Banda Acheh|Koetaradja]] and [[Pedirse|Pedir]], mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 124) as the locality where, in particular, much *dadih* — curdled buffalo-milk, the most widely consumed buffalo-milk product in northern Sumatra — was made. The Samalanga reference is part of *De Karbouw*'s wider account of buffalo-milking and buffalo-milk consumption in Atjeh, which locates Atjeh within a broader North-Sumatran dairy complex that included the [[Pedirse|Pedir]] region (where goats were also milked), the [[Gajoland|Gajoland]] highlands (where *minjaq sapi* buffalo-milk cream was boiled down to fat for frying *toempi* and *tjoetjoer*), and the [[Klingalese]] and [[Arab|Arab]] communities resident in Atjeh (great lovers of *dadih*, who knew it by their own terms *tairō* and *halib* respectively).
 
 ## Samalanga in De Karbouw
 The Samalanga passage in *De Karbouw* (p. 124) runs in full:

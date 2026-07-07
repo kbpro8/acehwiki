@@ -3,6 +3,7 @@ title: Atjeh sale rite of grasping the nose-rope
 aliases: ["Atjeh buffalo transaction ceremony", "Atjeh buffalo-sale rite", "nose-rope rite Atjeh", "tjaram sale ritual Atjeh"]
 tags: ["achehnese", "adat", "commerce", "concept", "magic"]
 ---
+The **Atjeh sale rite of grasping the nose-rope** is the documented Atjehnese and Gayo ritual of the buffalo-sale, in which buyer and seller, at the closing of the sale, each grasp one end of the nose-rope that passes through the buffalo's nose, while pronouncing the formulas of offer and acceptance. The rite is the Atjehnese analogue of the European handshake that seals a bargain, and is paired with the *tjaram*/*tjinggram* earnest-money (the "godspenning") that the buyer pays to secure preference in the purchase. The rite is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 128) — citing [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 312) and [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. I, p. 321; vol. II, pp. 368, 539).
 
 ## The rite
 The sale-rite passage in *De Karbouw* (p. 128) reads:
@@ -31,9 +32,6 @@ The Atjeh sale rite of grasping the nose-rope is significant for the encyclopedi
 
 *De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), vol. I, p. 312.
 *Atjèh*, by J. Kreemer, vol. I ([[1922]]), pp. 321, 509; vol. II ([[1923]]), pp. 368, 539.
-
-## Additional Information from Atjeh sale rite of grasping the nose-rope
-The **Atjeh sale rite of grasping the nose-rope** is the documented Atjehnese and Gayo ritual of the buffalo-sale, in which buyer and seller, at the closing of the sale, each grasp one end of the nose-rope that passes through the buffalo's nose, while pronouncing the formulas of offer and acceptance. The rite is the Atjehnese analogue of the European handshake that seals a bargain, and is paired with the *tjaram*/*tjinggram* earnest-money (the "godspenning") that the buyer pays to secure preference in the purchase. The rite is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 128) — citing [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 312) and [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. I, p. 321; vol. II, pp. 368, 539).
 
 ## See Also
 - [[Atjehs buffalo vocabulary]]

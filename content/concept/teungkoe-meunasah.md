@@ -3,6 +3,7 @@ title: Teungkoe meunasah
 aliases: ["teungkoe meunasah (Groot-Atjeh)", "teungku meunasah", "teungku meunasah (Atjeh)", "village religious official of Groot-Atjeh"]
 tags: ["achehnese", "concept", "islamic", "office", "slaughter", "village"]
 ---
+The **teungkoe meunasah** (in [[J. Kreemer|Kreemer]]'s spelling; modern Atjehnese *teungku meunasah*) was the village religious official of [[Groot-Atjeh|Groot-Atjeh]] who, alongside the village head [[keutjhiq|*keutjhiq*]], represented public authority in the village and was specifically responsible for the spiritual concerns of the villagers — and who served, in particular, as the village's ritual slaughterer (*slachter*). The office is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 117) and in [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 241) as a central institution of the village religious-and-civil administration of [[Groot-Atjeh|Groot-Atjeh]].
 
 ## The office
 The *teungkoe meunasah* is introduced in *De Karbouw* (p. 117) as follows:
@@ -34,9 +35,6 @@ The *teungkoe meunasah* is significant for the encyclopedia of [[Acheh]] history
 
 *De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), vol. I, p. 241.
 *Atjèh*, by J. Kreemer, vol. II ([[1923]]), p. 209.
-
-## Additional Information from Teungkoe meunasah
-The **teungkoe meunasah** (in [[J. Kreemer|Kreemer]]'s spelling; modern Atjehnese *teungku meunasah*) was the village religious official of [[Groot-Atjeh|Groot-Atjeh]] who, alongside the village head [[keutjhiq|*keutjhiq*]], represented public authority in the village and was specifically responsible for the spiritual concerns of the villagers — and who served, in particular, as the village's ritual slaughterer (*slachter*). The office is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 117) and in [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 241) as a central institution of the village religious-and-civil administration of [[Groot-Atjeh|Groot-Atjeh]].
 
 ## See Also
 - [[Christiaan Snouck Hurgronje]]
