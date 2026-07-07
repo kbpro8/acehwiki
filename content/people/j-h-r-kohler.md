@@ -48,10 +48,6 @@ After the capture of the mosque, Köhler paused to rest under a *waringin* (bany
 
 Köhler's death demoralized the Dutch forces and prevented them from consolidating their gains. The expedition was forced to retreat, making the first campaign a humiliating failure. The victory boosted Acehnese morale and turned the conflict into a religious war.
 
-### Legacy
-
-Köhler's death became a cautionary tale for Dutch military planners. It was also commemorated by the Acehnese, who saw the *waringin* tree as a symbol of their victory. The base of the tree where Köhler rested later became part of the Aceh Museum, used as a table.
-
 ## See Also
 - [[First Aceh Expedition (1873)]]
 - [[Battle of the Missigit (10 April 1873)]]

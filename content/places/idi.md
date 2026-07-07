@@ -13,6 +13,7 @@ Idi represents the type of small coastal district that fell under nominal [[Aceh
 ## Expanded account from *The Achehnese*, Vol. I — Idi
 
 **Idi** (Achehnese *Idi*, vulgarly *Edi*) is a district on the [[East Coast|East Coast]] of [[Acheh|Acheh]] mentioned by Snouck Hurgronje in connection with the settlement of Hadrami sayyids on that coast, and especially with the pioneering activities of the late raja of Idi in conjunction with the saint **Teungku di Buket**.
+**Idi** (vulgarly *Edi*) is a district on the [[East Coast|East Coast]] of [[Acheh|Acheh]], mentioned in *The Achehnese* Vol. I as the scene of the pioneering activity of a deceased raja who, together with the father of a celebrated living *Habib kramat*, first opened the district to settlement and influence. The raja, whose recent death is recorded by Snouck Hurgronje at the time of his writing, is referred to as "the lately deceased raja of Idi"; his profile is preserved among the people of the present wiki as [[Raja of Idi|Raja of Idi]].
 
 ### The Raja of Idi and the Saint of Buket
 
@@ -29,16 +30,6 @@ The conjunction of the raja of Idi with the saint **Teungku di Buket** is a typi
 ### The Idi District in Later Times
 
 The raja of Idi whose death is recorded by Snouck was the late nineteenth-century chief of the district, and his pioneering activity, in conjunction with Teungku di Buket, must be referred to the earlier part of the century. The district was, at the time of Snouck's writing, one of the recognized chiefdoms of the [[East Coast|East Coast]] dependencies of the [[Sultanate of Acheh|Sultanate]]; after the abolition of the royal authority and the death of the last sultan, the [[Netherlands India|Netherlands India]] Government claimed the allegiance of its chief as the successor of the sultan. The Idi chief was one of those who formally submitted in order to protect their commerce, and his district passed, in the late nineteenth century, under the colonial administration.
-
-## Expanded account from *The Achehnese*, Vol. I — Idi
-
-**Idi** (vulgarly *Edi*) is a district on the [[East Coast|East Coast]] of [[Acheh|Acheh]], mentioned in *The Achehnese* Vol. I as the scene of the pioneering activity of a deceased raja who, together with the father of a celebrated living *Habib kramat*, first opened the district to settlement and influence. The raja, whose recent death is recorded by Snouck Hurgronje at the time of his writing, is referred to as "the lately deceased raja of Idi"; his profile is preserved among the people of the present wiki as [[Raja of Idi|Raja of Idi]].
-
-The reference occurs in Snouck's catalogue of the sayyids of Acheh, in the course of his account of the reverence paid by the Achehnese to descendants of the Prophet. Among the living representatives of that class he notes "a Habib kramat of the famous family of [[Habib kramat of 'Aidarus family|'Aidarus]], a half-crazy young man, the son of [[Teungku di Buket|Teungku di Buket]]." The father, who also enjoyed a reputation for sanctity, "was in conjunction with the lately deceased raja of Idi (vulg. Edi) the first pioneer of that district." The connection thus established between an 'Aidarus sayyid and a temporal raja of the East Coast is characteristic of the way in which the religious and political opening of an Achehnese district was commonly a joint enterprise: the sanctity of the sayyid lent prestige and authority to the temporal ruler, while the patronage of the latter secured for the former a footing in the new country.
-
-The district of Idi lies in the stretch of coast between [[Lho Seumawe|Lho' Seumawe]] and [[Tamiang|Tamiang]] — a low-lying, riverine region of pepper plantations and commercial settlements that had long been one of the chief centres of Achehnese trade with the Straits. The economic importance of the East Coast in the late nineteenth century attracted to its petty chiefdoms a number of energetic and ambitious men, both Achehnese and foreign, who built up territorial influence by a mixture of commercial enterprise, marriage alliance, and the cultivation of religious prestige. The partnership of the raja of Idi with the sayyid of Buket is a typical instance of this pattern.
-
-Snouck's incidental mention of Idi is otherwise sparing, and the district receives no full topographical treatment in Vol. I. It reappears, however, in the wider colonial context of the Achehnese War as one of the East Coast dependencies whose chiefs were compelled, by the alternation of Dutch advances and Achehnese reconquests, to make and to renew their submissions to the colonial government. The article on [[Raja of Idi|Raja of Idi]] may be consulted for the personal and political aspect of the chiefdom at the close of the nineteenth century.
 
 ## Account from *De Buitenbezittingen* (1917) — Idi
 

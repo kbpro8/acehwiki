@@ -64,10 +64,6 @@ Teukoe Oema became even more popular among his compatriots after his betrayal. H
 
 Teukoe Oema was killed in a *marechaussee* ambush in [[1899]]. His death was a significant blow to the Acehnese resistance, though the conflict would continue for several more years.
 
-### Significance
-
-Teukoe Oema's career illustrates the complexity of the **[[Aceh War]]**, where shifting alliances and opportunism were as common as ideological commitment. His betrayal—and the Dutch governor's willingness to trust him—revealed the desperation of both sides in a conflict that had become a war of attrition. His death marked the beginning of the end for organized Acehnese resistance.
-
 ## See Also
 - [[Oost-Indisch Journael]]
 - [[Gilles Graafland]]

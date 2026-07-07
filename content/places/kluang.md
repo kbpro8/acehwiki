@@ -9,6 +9,7 @@ tags: [place, boundary, west-coast, locality, boundary-point, great-acheh, regio
 ## Expanded account from *The Achehnese*, Vol. I — Kluang
 
 **Kluang** is a locality on the western boundary of [[Great Acheh|Great Acheh]], named by Snouck Hurgronje as the westernmost point of the conventional Achehnese boundary-line of the kernel of the kingdom.
+**Kluang** (Achehnese *Kluang*, also *Klua'*) is a locality on the west coast of [[Acheh|Acheh]] named by Snouck Hurgronje as the western terminus of the boundary line by which the Achehnese themselves circumscribe the kernel of the kingdom. The reference occurs in the opening geographical chapter of *The Achehnese* Vol. I.
 
 ### The Boundary of Great Acheh
 
@@ -27,18 +28,6 @@ The West Coast, of which Kluang marks the conventional northern limit, was one o
 ### The Conventional Nature of the Boundary
 
 Snouck is at pains to insist that the Achehnese boundary of [[Great Acheh|Great Acheh]] is conventional rather than fixed. The line is drawn "according to the Achehnese idea," and the points named in the list are landmarks rather than a surveyed frontier. The boundary was, in the late nineteenth century, the subject of constant negotiation between the sultan and the outlying chiefs; the inclusion of Kluang in the list fixes it as one of the recognised landmarks of the kingdom, but does not imply that it was the seat of an administrative boundary in the European sense.
-
-## Expanded account from *The Achehnese*, Vol. I — Kluang
-
-**Kluang** (Achehnese *Kluang*, also *Klua'*) is a locality on the west coast of [[Acheh|Acheh]] named by Snouck Hurgronje as the western terminus of the boundary line by which the Achehnese themselves circumscribe the kernel of the kingdom. The reference occurs in the opening geographical chapter of *The Achehnese* Vol. I.
-
-The Achehnese, Snouck explains, distinguish sharply between the outlying dependencies of the kingdom and the central territory to which they restrict the name "Acheh" proper — what Europeans are wont to term "Great Acheh." This kernel of the kingdom, which has supplied the outlying districts with a considerable portion of their inhabitants, and has constantly striven to exercise more or less dominion over them, is, according to the Achehnese idea, "bounded by a line extending from Kluang on the West, to [[Krueng Raya|Krueng Raya]] on the North Coast, and passing through [[Reueng-reueng|Reueng-reueng]], [[Pancha|Pancha]] and [[Janthoe|Janthoe]]."
-
-The position of Kluang at the western end of the line marks it as a recognised landmark of the West Coast. The line, however, is not a frontier in the European sense: it is a conventional boundary used in geographical description rather than a political or military perimeter, and its constituent points are familiar landmarks rather than fortified posts. The Achehnese boundary line passes from the west coast to the north coast, enclosing within it the territory of the three sagis — the [[XXVI Mukims|XXVI]], [[XXV Mukims|XXV]], and [[XXII Mukims|XXII]] Mukims — together with the *wakeueh* districts of the [[III Mukims|III Mukims]] and the [[IV Mukims (of XXV)|IV Mukims]] of the XXV; the dependencies of [[Pidie|Pidie]], the [[East Coast|East Coast]], and the [[West Coast (of Acheh)|West Coast]] lie without it.
-
-The name *Kluang* — identical with the Malay word for the large fruit-eating bat (*Pteropus*), and a common place-name element in the western parts of the archipelago — is otherwise unremarked in Vol. I. The locality is not to be confounded with the modern town of Kluang in Johor, which lies at the other end of the peninsula; the Achehnese Kluang is a small West Coast locality of the kingdom, included in the boundary list for its value as a recognised landmark of the late nineteenth century.
-
-Apart from its appearance in the boundary enumeration, Kluang is not further noticed in Vol. I. The footnote to the passage records only that various etymological explanations of the name "Acheh" itself are in vogue, "but not a single one is reliable"; the constituent localities of the boundary line are left without further comment.
 
 ## See Also
 

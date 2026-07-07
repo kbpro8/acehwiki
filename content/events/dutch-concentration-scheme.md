@@ -50,10 +50,6 @@ In [[1884]] the "concentration-scheme" was inaugurated by the construction of a 
 
 Snouck Hurgronje observes that certainly no one ever rendered a greater service to the war-party in Acheh than the inventor of "concentration." The Achehnese were free, at whatever time and in whatever way suited them best and without heavy expenditure or loss, to harass the line and the coast-stations as often as they pleased; the troops within the line were as little able to prevent them as they were to punish them when the deed was done. In the presence of a quite harmless enemy within the country, the religious party and the energetic adventurers enjoyed a most desirable opportunity of establishing war-chests and, with them, *imperia in imperio* — petty despotisms financed by the [[Jakeuet (zakat)|jakeuet]] and the [[sabil contributions|sabil share of the alms-tax]]. Even chiefs in nominal subjection to the Dutch Government remained under the influence of the Government's foes, who everywhere derived more profit than injury from the presence of the Dutch forts.
 
-### Abandonment
-
-The line was finally abandoned in [[1896]], when the failure of the policy of concentration had become undeniable and the war against the Achehnese, suspended since [[1881]], was resumed. From [[1898]], under [[Governor Van Heutsz|Governor Van Heutsz]], everything was methodically done to bring about the necessary end, once and for all, of the insurrection. The "linie" survives in Achehnese memory chiefly through the *sarakata* documents of the period, which distinguish the chiefs "on this side of the linie" — those who had pilgrimaged to [[Keumala]] and obtained letters-patent from the pretender-sultan — from their fellows in the unconquered interior.
-
 ## See Also
 
 - [[Aceh War]]

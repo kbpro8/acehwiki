@@ -21,6 +21,7 @@ tags: [organization, military-unit, knil, marechaussee, aceh]
 ## Significance
 
 The 6e Divisie Marechaussee is significant in *[[Oom Ambon van het K.N.I.L.]]* as the division at [[Bakongan]] in the dertiger jaren — the division of [[Thijs de Fretes]] and [[Tanamal]], and the division visited by the kolonel in [[1933]]. The division is the book's principal unit of the dertiger jaren chapters, and the unit through which Dames makes his argument about the *woudloper* tradition of the old [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]]: the men who knew the *[[rimboe]]* and its dieren as well as they knew the kampong.
+*Source:* *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 114–121.
 
 ## See Also
 
@@ -55,8 +56,3 @@ As of [[1 January]] [[1940]], the VIde Divisie Marechaussee was grouped as follo
 
 The VIde Divisie's Bakongan outpost was one of the Westkust outposts dissolved in the pre-invasion drawdown: at the end of December 1941 the outposts at Tapatoean and Bakongan were evacuated by the eight Maréchaussee brigades stationed there. The eight brigades (the four from Tapatoean plus the seven from Bakongan, minus three brigades left at [[Lho Seumawé|Lho Seumawé]]) were sent under Captain **T. J. F. M. Supheert** via [[Medan|Medan]] to [[Malakka|Malakka]] to conduct guerrilla operations against the Japanese on behalf of the Dutch allies. The Bakongan outpost was later reoccupied by the Westkust evacuee convoys as a concentration point on the march south.
 
-## Significance
-
-The VIde Divisie is, in the staff history's Atjeh chapter, the staff history's principal narrative unit of the southern Westkust outposts and of the structural drawdown that left the southern Westkust without a Dutch garrison at the moment of the Japanese invasion. The dispatch of the eight Tapatoean–Bakongan brigades to Malakka under Captain Supheert — for which the staff history refers the reader to Deel III for the operations of the troops sent to Malakka — is the staff history's principal instance of the structural abandonment of the southern Westkust as a Dutch theatre of independent operation.
-
-*Source:* *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 114–121.

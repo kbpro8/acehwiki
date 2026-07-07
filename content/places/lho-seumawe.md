@@ -58,11 +58,6 @@ Lhôseumawè's emergence as a trade emporium is documented in the harbour statis
 
 Lhôseumawè was also the seat of the *Afdeelingsbank "Lhôseumawè"*, one of the three principal *Volkscredietwezen* institutions of the Gouvernement (alongside the [[Groot-Atjehsche Afdeelingsbank|Groot-Atjehsche Afdeelingsbank]] and the *Credietbank "Langsa"*). The bank, *De Buitenbezittingen* records, suffered from the same *achterstand* — arrears — and *kwade practijken* — abuses — that afflicted the Groot-Atjehsche bank, though to a less catastrophic degree. Its financial overview, influence, and the causes of its arrears are recorded in the handbook's chapter on the *Volkscredietwezen*.
 
-## Significance
-
-The position of Lhôseumawè at the boundary of the Noord- and Oostkust made it, with [[Sigli|Sigli]], one of the "twee polen van het dichtstbevolkte deel van geheel Atjeh" — the two poles of the most densely populated part of all Atjeh. The *algemeene uitbreiding der productie* that the handbook anticipated, supported by the Dutch administration's promotion of agricultural instruction, would, it was expected, "voor deze twee uitvoerhavens van veel belang zijn" — be of great importance for these two export harbours — particularly if Atjeh should prove capable of becoming the principal rice producer for the great *Cultuurgebied* of the East Coast.
-
-
 ## See Also
 
 - [[Acheh]]

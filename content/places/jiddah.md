@@ -9,6 +9,7 @@ A port of Arabia. [[Abdurra'uf of Singkel]] studied at Jiddah as part of his lon
 ## Expanded account from *The Achehnese*, Vol. I — Jeddah
 
 **Jeddah** (modern spelling *Jiddah*) is the port-city of the [[Hejaz|Hejaz]] on the [[Red Sea|Red Sea]], the principal sea-gate of [[Mecca|Mecca]] and the place of exile and retirement of several Achehnese notables mentioned by Snouck Hurgronje in *The Achehnese* Vol. I. The city appears in the work chiefly as the place of death of the sayyid **Habib Abdurrahman Zahir**, the celebrated political and religious leader of [[Acheh|Acheh]] in the early years of the [[Acheh War|Acheh War]].
+**Jeddah** (also spelled *Jedda*, *Jidda*) is the port of [[Mecca|Mecca]] on the Red Sea coast of [[Arabia|Arabia]], mentioned in *The Achehnese* Vol. I as the place of death of the celebrated sayyid [[Sayyid Abdurrahman Zahir|Sayyid Abdurrahman Zahir]], known to the Achehnese as "the Habib."
 
 ### The Death of Habib Abdurrahman Zahir
 
@@ -25,18 +26,6 @@ Snouck's broader argument about the religious life of the Achehnese includes a c
 ### Jeddah in the Cosmopolitan Geography of the Sayyids
 
 The death of Habib Abdurrahman Zahir at Jeddah is one of the small facts by which Snouck's work links the local history of [[Acheh|Acheh]] to the wider cosmopolitan geography of the Mohammedan world. The sayyids of Acheh were, by descent and by education, citizens of that wider world; they travelled between [[Hadramaut|Hadramaut]], the Hejaz, and the Archipelago with a freedom that few other Achehnese enjoyed; and the city of Jeddah — cosmopolitan, commercial, and the indispensable port of pilgrimage — was one of the natural poles of their movement. To die at Jeddah, within reach of [[Mecca|Mecca]] and yet not withdrawn from the society of the port, was a fitting end for a sayyid who had spent his life negotiating between the religious and the political, the local and the cosmopolitan.
-
-## Expanded account from *The Achehnese*, Vol. I — Jeddah
-
-**Jeddah** (also spelled *Jedda*, *Jidda*) is the port of [[Mecca|Mecca]] on the Red Sea coast of [[Arabia|Arabia]], mentioned in *The Achehnese* Vol. I as the place of death of the celebrated sayyid [[Sayyid Abdurrahman Zahir|Sayyid Abdurrahman Zahir]], known to the Achehnese as "the Habib."
-
-The reference occurs in a footnote to Snouck Hurgronje's extended portrait of the Habib's political career. After surveying the centralisation of power achieved by the Habib during his years of influence at the Achehnese court, the methods by which he overcame his rivals, and the successive political reverses which finally drove him to seek repose, Snouck concludes: "The fact, too, that after all that had occurred, after he had been branded by so many with the name of traitor and spy, he should still (as he did in [[1884|1884]]) have asked the government as a favour to permit him to return to Acheh and there play his part anew under their supervision and in accordance with their wishes, proves indeed that this man of much experience deemed nothing impossible for a sayyid in Acheh." To this the footnote is appended: "[This ambitious sayyid died at Jeddah in [[1896|1896]].]"
-
-The choice of Jeddah as the place of the Habib's death is in keeping with the well-established pattern by which sayyids of the Eastern Archipelago, on retiring from public life, returned to the land of their ancestors. The Hadrami sayyids — to whose 'Aidarus and related families many of the most influential religious figures of the archipelago belonged — maintained a continuous intercourse between Arabia and the islands; those whose colonial or local circumstances made further residence in the Indies inconvenient or impossible commonly retired to [[Mecca|Mecca]], [[Medina|Medina]], or their port of entry, Jeddah. The same pattern is illustrated in the opposite direction by the constant arrival in Acheh of new sayyids from Arabia — random adventurers and learned theologians alike — recorded by Snouck in his chapter on the religious nobility of the country.
-
-Jeddah was, in the nineteenth century, the principal gateway for pilgrims and traders from the Eastern Archipelago to the Hejaz. The steamship services established by the colonial governments in the second half of the century had made Jeddah a regular port of call, and the Achehnese *hajis* who had performed the pilgrimage — many of whom figure in Vol. I as members of mystic orders or as depositaries of religious prestige — had, almost without exception, entered the Hejaz by way of Jeddah. The death of the Habib there in 1896 thus closed, in a fitting place, the career of a man who had spent his active life in playing off his sacred descent against the political necessities of an Achehnese capital.
-
-Apart from this single biographical notice, Jeddah is not directly mentioned in Vol. I. The city's role as gateway to [[Mecca|Mecca]] and as the natural retirement of Eastern sayyids is, however, implicit throughout Snouck's account of the religious nobility of Acheh.
 
 ## See Also
 

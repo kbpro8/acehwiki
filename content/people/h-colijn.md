@@ -54,14 +54,6 @@ Colijn served as an officer in the Royal Netherlands East Indies Army (KNIL), sp
 
 Under Van Heutsz's command, Colijn led pursuit operations against Acehnese resistance forces. In [[1901]], he was present at the capture of **[[Batêê Iliê]]**. In [[1903]], he accepted the surrender of Panglima Polem at **[[Lhokseumawe]]**. This event, while underreported in the Dutch press at the time, marked the effective end of organized Acehnese resistance.
 
-### Later Career
-
-Colijn later became a prominent Dutch politician, serving as Prime Minister of the Netherlands from [[1933]] to [[1939]]. His experience in Aceh shaped his views on colonial and administrative issues.
-
-### Significance
-
-Colijn's military career in Aceh demonstrated the effectiveness of Van Heutsz's strategies. His later political career brought the colonial experience to the forefront of Dutch politics.
-
 ## See Also
 - [[J. B. van Heutsz]]
 - [[A. W. F. Idenburg]]

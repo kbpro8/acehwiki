@@ -67,6 +67,7 @@ After his surrender, Panglima Polem was reinstated as head of the XXII *moekims*
 ### Significance
 
 Panglima Polem's surrender marked the end of organized military resistance in Aceh. Although skirmishes continued until [[1913]], the loss of its principal leader effectively ended the **[[Aceh War]]** as a unified conflict. His subsequent service to the Dutch also demonstrated the pacification policy that combined military pressure with administrative and welfare measures.
+*Source:* *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 113, 119–120, 127.
 
 ## See Also
 - [[Teuku Nanta Seutia]]
@@ -125,8 +126,3 @@ The Dutch government accepted the eldest son's succession by heredity — the pr
 
 When, on [[23 February]] [[23 February 1942|23 February 1942]], [[Major W. F. Palmer van den Broek|Palmer van den Broek]]'s Seulimeum-colonne restored outward calm in the Seulimeumse, the chiefs who had fled — including the eldest son of the late Panglima Polem — remained, however, untraceable. The eldest son's flight — together with the chiefs who had fled the Seulimeumse — was the staff history's principal instance of the F-beweging's penetration of the *sagihoofd* institution, and the principal Dutch political failure of the pre-invasion rising.
 
-## Significance
-
-Panglima Polem (d. [[1941]]) is, in the [[Nederlands-Indië contra Japan|staff history's]] Atjeh chapter, the principal Dutch political anchor of the *sagi der XXII moekims*, and the staff history's principal instance of the loss of a loyal Atjehnese chief on the eve of the Japanese invasion. The staff history's emphasis on Panglima Polem's Knight's Cross of the Order of Oranje Nassau, on the anti-Dutch orientation of his eldest son, and on the eldest son's flight in February [[1942]] frames the Panglima Polem succession as the principal political failure of the Dutch pre-invasion period: the *sagihoofd* institution that had sustained Dutch authority in the Seulimeumse through the consolidation of the pacification was, by [[1941]], in the hands of an anti-Dutch successor whose flight in February [[1942]] symbolised the collapse of the Dutch political anchor of the XXII moekims.
-
-*Source:* *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 113, 119–120, 127.

@@ -36,10 +36,6 @@ Snouck Hurgronje, writing from the Achehnese end of the same history, drew the s
 
 The **Anglo-Dutch Treaty of London (1824)** was a diplomatic agreement between the **[[United Kingdom]]** and the **[[Kingdom of the Netherlands]]** that divided the Malay archipelago into British and Dutch spheres of influence. Signed on **[[17 March]] [[1824]]**, it laid the foundation for the modern borders of **[[Indonesia]]** and **[[Malaysia]]**, and its terms shaped the relationship between the two colonial powers for the remainder of the 19th century.
 
-### Background
-
-The treaty was negotiated to resolve disputes arising from the restoration of Dutch territories in the East Indies after the Napoleonic Wars. Key figures in the negotiations included **[[Raffles]]**, whose ambitions in the region complicated relations, and Dutch commissioners-general **Elout**, **Buyskes**, and **Van der Capellen**.
-
 ### Terms
 
 The treaty included several important provisions:

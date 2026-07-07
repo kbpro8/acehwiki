@@ -19,6 +19,7 @@ tags: [organization, military-unit, knil, marechaussee, aceh]
 ## Significance
 
 The 1e Divisie Marechaussee uit Blang Kedjeren is significant in *[[Oom Ambon van het K.N.I.L.]]* as the division through which Dames introduces the book's two great themes: the *plichtsbesef* of the Ambonese soldier, and the boundary between the tall story and the *waarheid*. The division is the unit of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]] at [[Blang Kedjeren]] — one of the most *afgelegen* posts of the colonial army in [[Atjeh|Aceh]] — and its captain's Hotel de Boer story is the book's methodological frame: the boundary between the tall story and the *waarheid* is the boundary the book will observe.
+*Source:* *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 114–118.
 
 ## See Also
 
@@ -53,8 +54,3 @@ As of [[1 January]] [[1940]], the 1ste Divisie Marechaussee was grouped as follo
 
 The 1ste Divisie's Blangkedjeren brigades were progressively drawn upon for the pre-invasion reorganisations of [[1940]]–[[1941]]. By March [[1942]], the Iste Divisie's Blangkedjeren strength had been consolidated with troops of various other units at Blangkedjeren under Lt-Col [[Blogg|Blogg]]'s command. The 1ste Divisie's Koeala Bee brigades remained on the Westkust, where they formed part of Captain [[L. H. J. Kloprogge|Kloprogge]]'s reduced IIde divisie command after the [[1940]] reductions.
 
-## Significance
-
-The 1ste Divisie Marechaussee is, in the staff history's Atjeh chapter, the Blangkedjeren-oriented division whose troops formed the backbone of the Dutch defence at the [[Sumatra capitulation (28 March 1942)|Blangkedjeren capitulation of 28 March 1942]]. The staff history's emphasis on the division's progressive reduction through [[1940]]–[[1941]] is part of the compilers' broader argument that the Dutch pre-invasion force drawdown structurally disabled the Maréchaussee's capacity to mount sustained resistance.
-
-*Source:* *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 114–118.

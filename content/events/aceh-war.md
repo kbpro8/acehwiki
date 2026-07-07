@@ -134,10 +134,6 @@ Key campaigns included:
 - **The submission of Panglima Polem** ([[15 May]] [[1903]])
 - **The Gajo and Alas expeditions** under **Van Daalen** ([[1904]])
 
-### Significance
-
-The Aceh War was the largest and most costly colonial conflict in Dutch history, with over 7,000 Dutch soldiers killed and an estimated 30,000–50,000 Acehnese casualties. It marked the final extension of Dutch control over Sumatra and established patterns of colonial governance—including the "Short Declaration" (*Korte Verklaring*) system of indirect rule—that would shape the entire Netherlands East Indies.
-
 ## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — a doctor's memory of the war
 
 Dr. [[Johan Wøller|Johan Wøller]], a Danish physician who served as an officer of health in the Netherlands-Indies army and reached [[Atjeh en Onderhorigheden|Atjeh]] around [[1905]], recalled the war as the land "where since 1873, during more than thirty years, war had been waged, that they with all means, war on land, blockade at sea, promises and bribery, attempts at fragmentation and sincere approaches, had tried to suppress, — everything equally in vain."

@@ -48,10 +48,6 @@ Van Daalen's tactics were the same as those used in the lowlands: relentless pur
 
 The expedition lasted **163 days**. Van Daalen reached **[[Tarotoeng]]** in the **[[Tapanoeli]]** residency on **[[18 June]] [[1904]]**. The campaign established Dutch control over the Gajo and Alas highlands, completing the pacification of Aceh.
 
-### Significance
-
-The Gajo expedition demonstrated the effectiveness of Dutch *marechaussee* tactics in the most demanding conditions. It also brought an end to the Aceh War's highland phase and left the Acehnese resistance with no remaining major strongholds.
-
 ## See Also
 - [[G. C. E. van Daalen]]
 - [[Gajoland]]

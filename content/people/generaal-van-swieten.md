@@ -27,6 +27,7 @@ The book also registers the Acehnese indifference to Van Swieten's rebuilding: "
 ## Significance
 
 General Van Swieten is significant in *[[Oost-Indisch Journael]]* as the conqueror of the Acehnese who brought about the rebuilding of the [[Meusigit Raja]] as the colonial state's gift to the Acehnese population. The book's argument — that the Van Swieten rebuilding was intended as a proof of the colonial state's respect for the Mohammedan religion, but that the Acehnese population had received it with indifference and mockery because it was the forced benefaction of the unbelieving Hollander — is the book's clearest example of the colonial state's failure to understand the Acehnese religious politics. Van Swieten is therefore the book's marker of the colonial state's religious politics in Aceh: the conqueror of the Acehnese who tried, and failed, to make the Acehnese population forget the suffering of the war.
+*Source:* *De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 37 ("Een hoofdsterkte bemachtigd").
 
 ## See Also
 
@@ -79,8 +80,3 @@ Van Swieten's *Wien Neerlandsch bloed* — the playing of the Dutch national ant
 
 The school reader records Van Swieten's return to the Netherlands after the kraton's capture: General Van Swieten considered his task accomplished and departed once more for the mother country. Van Swieten's departure left supreme command in the hands of [[Kolonel Pel|Kolonel Pel]], later appointed general.
 
-## Significance
-
-Generaal Van Swieten is, in the [[De Kleine Oosterling|school-textbook]] narrative, the principal Dutch commander of the triumph phase of the Aceh War, and the staff history's principal instance of the Dutch general whose courtesy toward the Atjehnese contrasts with the Atjehnese cruelty toward Dutch envoys. The school reader's emphasis on Van Swieten's capable character — and on the *Wien Neerlandsch bloed* ceremonial of the kraton's capture — frames the second Aceh expedition as the Dutch triumph that vindicates the first expedition's adversity, and establishes Van Swieten as the moral counterpart to [[General Kaler|Kaler]]: the capable commander whose success closes the adversity–triumph arc of the school reader's Aceh War.
-
-*Source:* *De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 37 ("Een hoofdsterkte bemachtigd").

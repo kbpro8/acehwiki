@@ -76,10 +76,6 @@ On the north coast it was decided in [[February 1877|February 1877]] to move the
 
 After the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] of [[1879]], the [[Campaign against the XXVI Moekims (July 1879)|campaign against the XXVI Moekims]] of early July, and the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August, the principal hostile chiefs — [[Toewankoe Haschim|Toewankoe Haschim]], the [[Imam of Longbatta|Imam Longbatta]], [[Panglima Polim|Panglima Polim]], his son [[Radja Koelala|Radja Koelala]], and others — persisted in their hostile attitude, but their means were scattered and they had placed themselves beyond the reach of the Dutch troops, "namely at [[Kemala|Kemala]], in the interior south of Pedir."
 
-### Significance
-
-Pedir's persistent hostility throughout the first phase of the [[Aceh War|Atjeh-oorlog]] illustrates the limits of Dutch authority outside the immediate neighbourhood of [[Kota Radja|Kota Radja]]. The landscape's notables — especially the self-reliant chief Toekoe di Tiroe — kept up resistance long after the formal conquest of Great Acheh in [[1879]], and the upper lands of Pedir served as the refuge of the irreducible hostile chiefs until the next phase of the war under Governor [[Van Heutsz|Van Heutsz]] after [[1898]].
-
 ## Economy
 
 The Pedir plain's rice surplus was, until the European war, mostly hoarded rather than exported — "de Pedirees, liever dan zijn productie-overschot te verkoopen, dit gedurende jaren opschuurt" — the Pedir farmer, rather than sell his surplus, would store it for years, sometimes "zwart van ouderdom en aangetast door ongedierte" (black with age and infested with vermin) but still fit for consumption. The war-time pressure exerted by the Dutch administration to release these hoards made Pedir rice available for export to the [[Oostkust van Sumatra|Oostkust van Sumatra]] in [[1914]] and [[1915]], and substantially reduced the territory's dependence on imported rice.

@@ -42,10 +42,6 @@ The IV Mukims of the [[XXV Mukims]] is mentioned as one of the principal distric
 
 A footnote in the chapter on the kawoms records that "a number of smaller kawoms" have left traces in local superstitions. "Compare [[Ja Karieng|Ja Kariéng]], a dreaded tree on [[Pulo Lam Puyang]], the subject of many vows; **Eumpèe Luluh**, a mountain on the coast of the IV Mukims which plays a part in the rain-making superstition; [[Eumpèe Blieng]], a holy well in the [[IX Mukims]], which also helps to cause rain, etc." This mountain is one of the natural features that the Achehnese consulted as omens for the monsoon and the rains, alongside the Pleiades and the *keunong* cycle.
 
-### Relation to Other "Four Mukims"
-
-The generic name "IV Mukims" is also borne by the [[IV Mukims Ateue]] of the [[XXVI Mukims]] and (in a wider confederation) by the [[IV Mukims of the VII of the XXVI]], the latter being a subdivision of the seven-mukim uleebalangship of the [[XXVI Mukims|XXVI]]. The fact that three different districts of Great Acheh could each be called simply "the IV Mukims" reflects the Achehnese convention that the smaller wakeuëh-districts and territorial fractions could be identified by their numerical designation alone, without further qualification.
-
 ## See Also
 
 - [[XXV Mukims]]
