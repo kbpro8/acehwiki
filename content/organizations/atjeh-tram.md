@@ -9,6 +9,10 @@ tags: [organization, colonial, dutch, railway, infrastructure]
 
 The Atjeh-tram originated as a military line, built to support the operations of the [[Aceh War|Aceh War]] that had begun with [[J. L. J. H. Pel|J. L. J. H. Pel]]'s expedition of [[1874]]. Its initial trackage — the line from [[Koeta Radja|Koeta Radja]] through Indrapoeri to Seulimeum, and onward across the Goudberg to the Noordkust — supplied the *bivakken* and *militaire posten* by which the successive Civil and Military Governors, from [[Joannes Benedictus van Heutsz|van Heutsz]] onward, enforced the subjection of the *oelèëbalangschappen* of Groot-Atjeh. *De Buitenbezittingen* refers the reader to its earlier, fuller account in *Deel I* of the work for the *uitgebreid overzicht omtrent de ontwikkeling van de Atjeh-tram*.
 
+## The First Section: Kota Radja–Olehleh (1874–1875)
+
+The first section of the Atjeh-tram — the smalspoorbaan from [[Koeta Radja|Kota Radja]] to [[Oleh-leh|Olehleh]] — was built in [[1874]]–[[1875]] as one of the peacetime engineer works of the Staf der Genie at [[Koeta Radja|Kota Radja]]. The biographer [[D. van den Berg|Van den Berg]] lists the work, in his enumeration of [[Cornelis Jacobus Snijders|Snijders]]'s peacetime duties during his Atjeh service of [[1874]]–[[1875]], as "den aanleg van eene smalspoorbaan van Kota Radja naar Olehleh: den bouw van een vakwerk-aanleggtiier in laatstgenoemde plaats." The construction of a vakwerk-aanleggtiier (timber-framed landing-stage) at [[Oleh-leh|Olehleh]] was the seaward terminus work: the railway was built to connect the port of [[Oleh-leh|Olehleh]] with the military base at [[Koeta Radja|Kota Radja]] so that troops, supplies, and material could be moved between the two without the overland march. [[Cornelis Jacobus Snijders|Snijders]] had at his disposal for this work the large mixed labour force — some 900 vrije koelies, soldiers, and dwangarbeiders — that the Staf der Genie commanded at [[Koeta Radja|Kota Radja]] in the last months of his Atjeh service. The Kota Radja–Olehleh section of [[1874]]–[[1875]] is the earliest documented Dutch military railway in Atjeh and the foundation on which the later Atjeh-tram system was built.
+
 ## From military to economic instrument
 
 The transition from military to civilian role was the work of the *pacificatie* under [[H. N. A. Swart|Swart]], whose *verzoenende en vertrouwenwekkende politiek* after [[1908]] allowed the extension of the line into regions where no *bivak* had stood. The crucial southern extensions followed: "Tusschen [[1910]]–[[1912]] werd het baanvak [[Langsa|Langsa]]–[[Koeala Simpang|Koeala Simpang]] aangelegd, terwijl pas in [[1913]] de doortrekking van [[Koeala Simpang|Koeala Simpang]] naar [[Besitang|Besitang]] werd aangevangen." Beyond Besitang, the projected extension to [[Pangkalan Soesoeh|Pangkalan Soesoeh]] on the [[Aroebaai|Aroebaai]] — which had recently been chosen in preference to Telok Taboehan as the line's terminus — was "reeds ver gevorderd." The *Deli-tram*, the [[Deli Spoorweg Maatschappij|Deli Spoorweg Maatschappij]], was simultaneously to begin construction of a line from [[Pangkalan Brandan|Pangkalan Brandan]] to Besitang, "zoodat over enkele jaren de Deli-Atjeh-aansluiting eindelijk tot stand zal zijn gekomen."
@@ -41,9 +45,11 @@ The Bureau's publication references a "Kaartje der verbinding tusschen Atjeh-tra
 - [[H. N. A. Swart]]
 - [[Joannes Benedictus van Heutsz]]
 - [[J. L. J. H. Pel]]
+- [[Cornelis Jacobus Snijders]]
 - [[Aceh War]]
 - [[Koeta Radja]]
 - [[Oelèë Lheuë]]
+- [[Oleh-leh]]
 - [[Sigli]]
 - [[Langsa]]
 - [[Koeala Simpang]]
@@ -57,7 +63,10 @@ The Bureau's publication references a "Kaartje der verbinding tusschen Atjeh-tra
 - [[Toekoe Oemar]]
 - [[Sabang]]
 - [[Oostkust van Sumatra]]
+- [[Vrije koelies]]
+- [[Dwangarbeiders]]
 - [[1874]]
+- [[1875]]
 - [[1885]]
 - [[1896]]
 - [[1897]]
@@ -70,6 +79,8 @@ The Bureau's publication references a "Kaartje der verbinding tusschen Atjeh-tra
 
 ## Sources
 
-*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 20–25, 181, 234–235, 242.
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, [[1917]]), pp. 20–25, 181, 234–235, 242.
 
 *De Buitenbezittingen 1904*. In: *Mededeelingen van het Encyclopaedisch Bureau*. Batavia: G.C.T. van Dorp & Co., [ca. 1915].
+
+D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), p. 33. Koninklijke Bibliotheek shelfmark 0301 4872. The biography records the construction of the Kota Radja–Olehleh smalspoorbaan and the vakwerk-aanleggtiier at [[Oleh-leh|Olehleh]] as one of the peacetime engineer works of [[Cornelis Jacobus Snijders|Snijders]] at [[Koeta Radja|Kota Radja]] in [[1874]]–[[1875]].
