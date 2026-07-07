@@ -87,6 +87,14 @@ Three centuries earlier, Pedir had already served as a coastal dependency of Atj
 Pedir also gained notoriety in Dutch maritime history as the initial site of captivity for [[Frederik Houtman|Frederik de Houtman]] and his surviving crewmen following the [[Houtman brothers' visit to Atjeh (1599)|murder of Cornelis de Houtman]]. After the ambush on [[11 September 1599]], the Acehnese transported the prisoners to Pedir, where they were held in heavy irons. When [[Paulus van Caerden]] arrived in [[1600]] to negotiate a pepper contract, he attempted to secure the prisoners' release, but the Acehnese authorities in Pedir proved unyielding; it was only through a daring, unauthorised escape by de Houtman and his companions — who stole a prau from the riverbank and navigated through the surf — that the Dutchmen evaded their captors and reached Van Caerden's ships. See [[Imprisonment of Frederik de Houtman in Atjeh]].
 
 
+## Account from *Tijdens de O.I. Compagnie* (1932) — the 1599 refuge and the 1641 audience
+
+In Godee Molsbergen's account Pedir appears in two principal connections: as the refuge to which the ships of the [[Balthazar de Moucheron|De Moucheron]] expedition fled after the [[Death of Cornelis de Houtman at Atjeh (1599)|Houtman disaster of 1599]], and as one of the two *Panglima*-led territories (with Deli) whose chiefs attended the audience at which the [[Maagden als losprijs|maidens-as-ransom request]] was put to the Dutch in [[1641]].
+
+After the [[Death of Cornelis de Houtman at Atjeh (1599)|Houtman disaster at Atjeh in 1599]] — in which [[Cornelis de Houtman|Cornelis de Houtman]] was killed and many Dutchmen taken prisoner, including [[Frederik de Houtman|Frederik de Houtman]] — the ships that escaped Atjeh made for Pedir. There they beat off an Atjehnese naval attack: "De uit Atjeh vertrokken schepen weken naar Pedir, waar ze een Atjehschen vlootaanval afsloegen" — The ships that had departed Atjeh made for Pedir, where they beat off an Atjehnese naval attack. The incident illustrates both the extent of Atjeh's naval reach (its fleets could pursue enemies as far as Pedir) and the limits of that reach (the attack was beaten off). The ships then touched at the Nicobars and, after much misfortune, reached Middelburg in the summer of [[1600]].
+
+At an audience at the court of the [[Sultana of Atjeh (1641)|Sultana of Atjeh]] in [[1641]], attended by the *[[Panglima|Panglima's]]* of Pedir and Deli and many other Atjeh nobles, the chiefs asked whether the Dutch had brought "Portugeesche jonge dochterkens" — Portuguese maidens — to be delivered as *losprijs* (ransom). The *Panglima of Pedir*'s presence at this audience is a measure of how widely the sultanate's interest in the ransom exchange was shared among its regional commanders.
+
 ## See Also
 
 - [[Acheh]]
@@ -129,6 +137,7 @@ Pedir also gained notoriety in Dutch maritime history as the initial site of cap
 - [[Aceh War]]
 - [[Van Heutsz]]
 - [[Houtman brothers' visit to Atjeh (1599)]]
+- [[Death of Cornelis de Houtman at Atjeh (1599)]]
 - [[Diogo Lopez de Sequeira]]
 - [[Pasei]]
 - [[Bantam]]
@@ -139,8 +148,14 @@ Pedir also gained notoriety in Dutch maritime history as the initial site of cap
 - [[Imprisonment of Frederik de Houtman in Atjeh]]
 - [[Frederik Houtman]]
 - [[Paulus van Caerden]]
+- [[Balthazar de Moucheron]]
+- [[Sultana of Atjeh (1641)]]
+- [[Maagden als losprijs]]
+- [[Panglima]]
+- [[Francisco de Souza de Castro]]
 - [[1599]]
 - [[1600]]
+- [[1641]]
 - [[1878]]
 - [[1914]]
 - [[1915]]
@@ -151,3 +166,4 @@ Pedir also gained notoriety in Dutch maritime history as the initial site of cap
 - *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 12–14, 30–31, 47–49, 55–57, 137–138.
 - *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 29, 80, 94, 96, 108.
 - *Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598—1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 110-113.
+- *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapters XXIII and XI ("Sint Thomas. De Madoera-ziekte. Malakka. Het groote kanon in Atjeh"; "Atjehsche ambassade. Inlandsche feesten. Maagden als losprijs"), pp. 81, 39–43 of the numbered-letter sequence.
