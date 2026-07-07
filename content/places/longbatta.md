@@ -24,6 +24,10 @@ The retreat became a rout. The Atjehers, considerably reinforced by fighters who
 
 Longbatta was one of the most bitterly contested kampongs in the immediate neighbourhood of the [[Kraton of Aceh|Kraton]]. Its imam, the [[Imam of Longbatta|Imam of Longbatta]], was named by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the principal leaders of the war-party. The [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]] records that, after the [[Campaign against the XXVI Moekims (July 1879)|conquest of the XXVI Moekims]] in [[1879]], the Imam "sheathed his sword and withdrew from public life," marking the end of the first phase of the *prang Gompeuni*.
 
+## Account from *Snijders* (1944) — Longbatta and the Kota Alam Covering Position
+
+Longbatta also enters the Snijders biography as the principal landmark that the [[Benting Kota Alam operation (13 November 1874)|Benting Kota Alam]] was sited to cover. When intelligence in early [[November 1874|November]] [[1874]] indicated that the [[Achehnese|Atjehers]] were preparing to occupy [[Kuta Alam|Kota Alam]] further east — a move that would have threatened Longbatta and the Dutch line of communication — [[J. L. J. H. Pel|Kolonel PEL]] dispatched a column under [[M. C. E. Ruempol|Luitenant-Kolonel Ruempol]] to forestall them. [[T. J. A. van Zijll de Jong|Majoor van Zijll de Jong]] (artillery) and [[W. J. C. Leers|Majoor Leers]] (engineers) sited the new redoubt on a bend of the [[Acheh River|Atjeh River]] precisely so as to command both the fortified edge of Pinang to the northeast and Longbatta to the south, while dominating one of the best river-crossing points. The sapper section in the vanguard was commanded by [[Cornelis Jacobus Snijders|Tweede Luitenant C. J. Snijders]] of the [[Bataillon Mineurs en Sappeurs|Bataillon Mineurs en Sappeurs]], for whom the action was a baptism of fire. The [[Benting Kota Alam operation (13 November 1874)|full operation]] is described on the dedicated event page; the redoubt, once completed on [[13 November]] [[13 November]] [[1874]], secured the eastern flank of the Dutch positions and covered the Dutch line of communication with Longbatta and the country further east.
+
 ## See Also
 
 - [[Imam of Longbatta]]
@@ -32,13 +36,23 @@ Longbatta was one of the most bitterly contested kampongs in the immediate neigh
 - [[G. M. Verspyck]]
 - [[J. Muller]]
 - [[J. van Bennekom]]
+- [[Cornelis Jacobus Snijders]]
+- [[W. J. C. Leers]]
+- [[M. C. E. Ruempol]]
+- [[T. J. A. van Zijll de Jong]]
 - [[Murder of Mas Soemo Widikdjo]]
 - [[Battle of Longbattah]]
+- [[Benting Kota Alam operation (13 November 1874)]]
+- [[Kuta Alam]]
 - [[Capture of the Kraton (24 January 1874)]]
 - [[Krueng Daroy]]
 - [[Aceh War]]
 - [[Hikajat prang Kompeuni]]
+- [[Bataillon Mineurs en Sappeurs]]
+- [[1874]]
 
-## Source
+## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 21, 24, 30-37.
+
+Cornelis Jacobus Snijders ([[1852]]–[[1939]]): *Een leven in dienst van zijn Land en zijn Volk*, by D. van den Berg (Voorburg: September [[1944]]), pp. 10–35. Koninklijke Bibliotheek shelfmark 0301 4872.
