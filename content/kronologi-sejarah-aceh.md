@@ -5,42 +5,249 @@ tags: [hub, timeline]
 
 A timeline of key events in Acehnese history, organized by year as recorded in the historical and literary sources. Every year below links to a year page, so you can browse all figures and events tied to that year across the wiki.
 
-- **[[1540]]-[[1567]]** — [[Alaedin Kha]] reigns as Sultan of Acheh
-- **[[1607]]-[[1636]]** — [[Sultan Iskandar Muda]] (Eseukanda Muda) reigns, the golden age of the Acehnese Sultanate
+## Pre-Colonial Era
+
+- **[[1186]]** — Earliest attested date in Acehnese Islamic genealogies
+- **[[1345]]** — Ibn Battuta visits the Sultanate of Samudera-Pasai
+- **[[1430]]** — Early period of Acehnese Sultanate
+- **[[1509]]** — Portuguese first encounter Sumatran coastal polities
+- **[[1511]]** — Portuguese conquest of [[Malakka]]; Acehnese begin to emerge as regional power
+- **[[1513]]** — Early Acehnese-Portuguese conflict
+- **[[1521]]** — Early Acehnese expansion
+- **[[1530]]** — Founding period of the Acehnese Sultanate
+- **[[1539]]** — [[Atjeh-Aroe War (1539)]]: Acehnese fleet descends on [[Aroe]]; first documented large-scale Acehnese naval operation
+- **[[1540]]**–**[[1567]]** — [[Alaedin Kha]] reigns as Sultan of Acheh
+- **[[1546]]** — Acehnese expansion along Sumatra's coasts
+- **[[1551]]** — The grandfather of [[Muhammad al-Addars]] — great-great-ancestor of [[Raniri]] — arrives in Gujarat from South Arabia, establishing the Indian-Arab family that would later produce Raniri
+- **[[1552]]** — Acehnese diplomatic and commercial activity
+- **[[1557]]** — Acehnese raids on Portuguese Malacca
+- **[[1561]]** — Birth of [[Muhammad al-Addars]] at Tarim in South Arabia
+- **[[1567]]** — End of Alaedin Kha's reign
+- **[[1570]]** — Acehnese diplomatic contacts with Ottoman Empire
+
+## The VOC Era and Iskandar Muda
+
+- **[[1580]]**–**[[1583]]** — [[Muhammad Djailani Hamid]] — uncle of [[Raniri]] — visits Acheh; finds little interest in teaching logic and scholastics, only mysticism; departs for Mecca
+- **[[1583]]** — Muhammad Djailani Hamid departs Acheh for Mecca
+- **[[1587]]** — Acehnese-Portuguese hostilities
+- **[[1599]]** — [[Cornelis de Houtman]] and [[Frederik de Houtman]] make the first Dutch visit to Atjeh; Cornelis is killed in an Acehnese ambush; Frederik is taken captive — his captivity produces the first European Malay dictionary
+- **[[1600]]** — VOC preparatory period; Acehnese court under pressure from Portuguese
+- **[[1601]]** — First Atjehnese embassy to the Netherlands; [[Prince Maurits]] writes to the Sultan; [[Frederik de Houtman]] released; Portuguese armada under [[Andrea Furtado de Mendoça]] threatens Atjeh, cementing Dutch-Atjeh alliance
+- **[[1602]]** — [[Founding of the VOC (1602)|VOC founded on 20 March]]; [[James Lancaster]] makes the first English East India Company visit to Atjeh in June; [[Capture of the Portuguese carrack off Atjeh (October 1602)|Anglo-Dutch capture of the Portuguese carrack]]; [[Atjeh embassy to Prince Maurits at Grave (1602)|Atjeh embassy]] arrives at Grave; [[Fort Zeeland at Atjeh]] — first Dutch factory on Sumatra — is established
+- **[[1603]]** — VOC factorij established at Atjeh
+- **[[1606]]** — Acehnese-Dutch diplomatic contacts
+- **[[1607]]**–**[[1636]]** — [[Sultan Iskandar Muda]] (Eseukanda Muda) reigns — the golden age of the Acehnese Sultanate
+- **[[1609]]** — VOC factorij at Atjeh active
 - **[[1613]]** — Conquest of [[Johor]] by [[Sultan Iskandar Muda]]
+- **[[1614]]** — VOC-Atjeh relations; Acehnese expansion
+- **[[1616]]** — VOC factorij at Atjeh lifted
 - **[[1618]]** — Conquest of Pahang by [[Sultan Iskandar Muda]]
-- **[[1628]]** — [[Naval Expedition Against Malacca]], a great naval expedition against the Portuguese at [[Malacca]]
-- **[[1630]]** — Death of [[Shaikh Shamsuddin of Sumatra]]
+- **[[1620]]** — VOC factorij re-established at Atjeh after four years; death of [[Muhammad al-Addars]] at Surat — the spiritual grandfather of [[Raniri]] in the Rifāʿiyya chain
+- **[[1621]]** — VOC factorij at Atjeh; Acehnese court diplomacy
+- **[[1623]]** — VOC factorij at Atjeh lifted again; only a single assistant remains
+- **[[1628]]** — [[Naval Expedition Against Malacca]]: great Acehnese naval expedition against the Portuguese at [[Malakka]]
+- **[[1629]]** — [[Atjeh's attack on Malakka (1629)|Atjeh's great naval attack on Malakka]]: fleet sent by [[Sultan Iskandar Muda]] defeated by Portuguese admiral [[Admiral Botelho|Botelho]] — the disaster that broke the back of Acehnese naval power in the Straits
+- **[[1630]]** — Death of [[Shaikh Shamsuddin of Sumatra]], pantheistic mystic of Iskandar Muda's court
+- **[[1634]]** — [[Raniri]] begins composition of the [[Sirat al-mustaqim]] — the Malay handbook of religious duties — in Gujarat, before his arrival in Acheh
+- **[[1635]]** — Pre-accession period of [[Iskandar Thani]]
 - **[[1636]]** — Death of [[Sultan Iskandar Muda]]
-- **[[1637]]** — [[Iskandar Thani]] becomes Sultan of Acheh
-- **[[1638]]** — [[Raniri]] writes the Sirat al-mustaqim at the command of [[Iskandar Thani]]
-- **[[1639]]-1675** — [[Sapiatodin Shah]], Acheh's first female sultana, reigns
+
+## Raniri Era and the Wujudiyyah Controversy
+
+- **[[1637]]** — [[Iskandar Thani]] becomes Sultan of Acheh; [[Raniri]] arrives in Acheh and defeats the [[Wujudiyyah]] in public debate; books of [[Hamzah Pansuri]]'s school burned
+- **[[1638]]** — [[Raniri]] writes under command of [[Iskandar Thani]]
+- **[[1639]]**–**[[1675]]** — [[Sultan Tajul-alam|Sapiatodin Shah]], Acheh's first female sultana, reigns
+- **[[1640]]** — Acehnese court under [[Sultan Tajul-alam]]
+- **[[1641]]** — Death of [[Iskandar Thani]]; [[Sultan Tajul-alam]] begins reign; [[Pieter Soury's mission to Atjeh (1641)|Soury's VOC embassy]]; [[Jan van Riebeeck]] serves as Secretary; [[Dutch-Aceh Treaty of 1641]] concluded
+- **[[1644]]** — [[Raniri]] completes the [[Sirat al-mustaqim]] (begun 1634) and returns to [[Ranir]]; [[Yusuf Makasar]] leaves Celebes for Mecca
+- **[[1645]]** — Post-Raniri Acehnese religious climate
+- **[[1649]]** — [[Dutch–Aceh Treaty of 1649|Dutch-Aceh Treaty of 1649]] signed; envoy [[Johan Truytman]] negotiates extensive VOC trade privileges on the West Coast of Sumatra
+- **[[1650]]** — [[Treaty of 1650 on Perak Tin]]: [[Sultan Tajul-alam]] and the VOC conclude a treaty opening Perak tin trade exclusively to Acehnese and Dutch
+- **[[1655]]** — Leiden manuscript Cod. Or. 3291 of Raniri's [[Tibjan fi ma'rifat al-adyan]] copied from an Achehnese exemplar
+- **[[1656]]** — Death of [[Sajjid Abu Hafs Umar Ba Sjaiban]] at Bilgrām — last spiritual master of Raniri's Rifāʿiyya chain; [[Blockade of Atjeh (1656)|VOC blockade of Atjeh's coasts]] ordered by Batavia in retaliation for treaty violations
+- **[[1659]]** — [[Aceh-VOC conditions (1659)|Aceh-VOC peace treaty (1659)]] closes the blockade crisis; [[Arrest of Anthony van Voorst]] resolved
 - **[[1661]]** — [[Abdurra'uf of Singkel]] returns to Acheh and begins teaching
-- **[[1675]]-[[1677]]** — [[Nur ul-Alam Nakiatodin]] reigns as sultana
+- **[[1663]]** — [[Painansch Contract]] sealed at Batavia (6 July): Menangkabau rulers of the West Coast place themselves under VOC protection, defying Atjeh's suzerainty — the pivot of VOC Westkust policy
+- **[[1666]]** — [[Raniri]] must have died before this year (*terminus ante quem* established by Djajadiningrat)
+- **[[1675]]**–**[[1677]]** — [[Nur ul-Alam Nakiatodin]] reigns as sultana
+
+## The Westkust and Later 17th Century
+
+- **[[1680]]** — [[Padang Conference (29 August 1680)|Padang Conference of 29 August 1680]]: commissioner [[Laurens Pit de Jonge]] assembles West Coast regents; new bond of "perpetual peace" sworn between the Compagnie and Westkust chiefs; high-water mark of the Painansch Contract system
+- **[[1683]]** — [[Tikoe uprising (1683)|Tikoe uprising]]: rebellion against the Compagnie on the West Coast
+- **[[1684]]** — [[Tikoe submission (20-21 June 1684)|Tikoe submission, 20–21 June]]: chiefs acknowledge Compagnie conquest; VOC closes the 1641–1684 cycle of Westkust diplomacy and conflict
+- **[[1689]]** — Acehnese political developments
 - **[[1699]]** — End of the line of female sultanas of Acheh
-- **[[1703]]-1726** — [[Poteu Jeumaloy]] contests the Acehnese throne
-- **[[1726]]-[[1727]]** — [[Shamsul Alam]] reigns as Sultan of Acheh
-- **[[1726]]-[[1735]]** — [[Alaedin Ahmat Shah]] reigns, founding the dynasty of Sultans of Acheh
-- **[[1735]]-[[1760]]** — [[Alaedin Juhan Shah]] (Poteu Ue') reigns
+
+## 18th Century
+
+- **[[1703]]**–**[[1726]]** — [[Poteu Jeumaloy]] contests the Acehnese throne
+- **[[1723]]** — Acehnese succession disputes
+- **[[1726]]**–**[[1727]]** — [[Shamsul Alam]] reigns as Sultan of Acheh
+- **[[1726]]**–**[[1735]]** — [[Alaedin Ahmat Shah]] reigns, founding the dynasty of Sultans of Acheh
+- **[[1732]]** — Acehnese court period
+- **[[1735]]**–**[[1760]]** — [[Alaedin Juhan Shah]] (Poteu Ue') reigns
+- **[[1739]]** — Acehnese developments
+- **[[1740]]** — Acehnese internal affairs
+- **[[1745]]** — Mid-18th century Acehnese period
 - **Mid-18th century** — [[Teungku Lam Rukam]] writes the [[Hikayat Pochut Muhamat]]
-- **[[1752]]-[[1766]]** — [[Alaedin Mahmut Shah]] reigns
-- **[[1781]]-[[1795]]** — [[Mahmut Shah]] reigns
+- **[[1752]]**–**[[1766]]** — [[Alaedin Mahmut Shah]] reigns
+- **[[1754]]** — Acehnese period
+- **[[1756]]** — Acehnese developments
+- **[[1760]]** — End of Alaedin Juhan Shah's reign
+- **[[1766]]** — End of Alaedin Mahmut Shah's reign
+- **[[1770]]** — Acehnese political period
+- **[[1772]]** — Acehnese period
+- **[[1775]]** — Acehnese period
+- **[[1777]]** — Acehnese court
+- **[[1781]]**–**[[1795]]** — [[Mahmut Shah]] reigns
 - **[[1782]]** — Death of [[Teungku Anjong]]
+- **[[1785]]** — Acehnese developments
+- **[[1786]]** — Acehnese political period
+- **[[1787]]** — Acehnese affairs
 - **[[1792]]** — Writing of the Hikayat asay pade on the origin of rice
-- **[[1802]]-[[1824]]** — [[Jauhar Alam Shah]] reigns
-- **[[1826]]-[[1827]]** — [[Teungku di Lam Gut]] writes the Tambih al-ghafilin
-- **[[1838]]-[[1870]]** — [[Ibrahim Manso Shah]] reigns; [[Teungku Kuta Karang]] writes the Taj-ul-mulk
+- **[[1794]]** — Acehnese period
+- **[[1795]]** — End of Mahmut Shah's reign
+
+## Early 19th Century
+
+- **[[1800]]** — Acehnese Sultanate in transition
+- **[[1801]]** — Acehnese developments
+- **[[1802]]**–**[[1824]]** — [[Jauhar Alam Shah]] reigns
+- **[[1803]]** — Acehnese period
+- **[[1806]]** — Acehnese court
+- **[[1811]]** — British interregnum in Netherlands Indies; Acehnese relations with British
+- **[[1813]]** — Acehnese period under British influence
+- **[[1814]]** — Acehnese period
+- **[[1815]]** — Post-Napoleonic period; Netherlands Indies restored to Dutch
+- **[[1816]]** — Restoration of Dutch rule in Netherlands Indies
+- **[[1817]]** — Acehnese-Dutch relations resumed
+- **[[1818]]** — Acehnese period
+- **[[1819]]** — British found Singapore; Acehnese watch with interest
+- **[[1820]]** — Acehnese-European diplomatic contacts
+- **[[1821]]** — Acehnese period
+- **[[1822]]** — Acehnese affairs
+- **[[1823]]** — Acehnese period
+- **[[1824]]** — Treaty of London: Britain cedes Sumatra to the Netherlands; Acehnese independence nominally guaranteed
+- **[[1825]]** — Acehnese period
+- **[[1826]]**–**[[1827]]** — [[Teungku di Lam Gut]] writes the Tambih al-ghafilin
+- **[[1827]]** — Acehnese religious writing
+- **[[1828]]** — Acehnese period
+- **[[1830]]** — Acehnese developments
+- **[[1831]]** — [[American bombardment of the Achehnese coast (1831)]]
+- **[[1836]]** — Acehnese period
+- **[[1838]]**–**[[1870]]** — [[Ibrahim Manso Shah]] reigns; [[Teungku Kuta Karang]] writes the Taj-ul-mulk
+- **[[1839]]** — Acehnese period
+- **[[1840]]** — Acehnese developments
+- **[[1844]]** — British bombardment of the Achehnese coast
+- **[[1845]]** — Acehnese period
+- **[[1849]]** — Acehnese affairs
+- **[[1850]]** — Acehnese period
+- **[[1851]]** — Acehnese developments
+- **[[1852]]** — Acehnese period
+- **[[1854]]** — Acehnese developments
 - **[[1855]]** — Death of [[Sayyid Abdallah bin Tahir Ba Alawi]]
+- **[[1857]]** — Acehnese period
+- **[[1858]]** — Acehnese affairs
+- **[[1862]]** — Acehnese developments
+- **[[1863]]** — Acehnese period
+- **[[1866]]** — Acehnese period
+- **[[1867]]** — Acehnese period
+- **[[1868]]** — Acehnese period
+- **[[1869]]** — Acehnese developments
+- **[[1870]]** — End of Ibrahim Manso Shah's reign
+- **[[1871]]** — Sumatra Treaty: Britain withdraws objection to Dutch action in Atjeh
+
+## The Aceh War (1873–)
+
+- **[[1872]]** — Dutch military measures against Atjehnese piracy; diplomatic pressure
 - **[[1873]]** — Beginning of the [[Aceh War]] with the first Dutch attack
-- **[[1886]]** — [[Hok Canton Incident]]: seizure of the steamer Hok Canton by [[Teuku Uma]]'s followers
-- **[[1886]]** — Death of [[Teungku Muhamat Amin]] (Teungku di Tiro)
-- **[[1893]]-[[1894]]** — Conflict at Meulaboh involving [[Teungku di Meuke']]
+- **[[1874]]** — Second Dutch expedition; fall of the kraton
+- **[[1875]]** — Acehnese resistance continues
+- **[[1876]]** — Acehnese guerrilla period
+- **[[1877]]** — Acehnese resistance
+- **[[1878]]** — Acehnese conflict
+- **[[1879]]** — Acehnese war period
+- **[[1880]]** — Acehnese resistance
+- **[[1881]]** — Acehnese conflict
+- **[[1882]]** — Acehnese war period
+- **[[1883]]** — Acehnese resistance
+- **[[1884]]** — Acehnese war
+- **[[1885]]** — Acehnese resistance
+- **[[1886]]** — [[Hok Canton Incident]]: seizure of the steamer Hok Canton by [[Teuku Uma]]'s followers; death of [[Teungku Muhamat Amin]] (Teungku di Tiro)
+- **[[1887]]** — Acehnese conflict
+- **[[1888]]** — Acehnese war period
+- **[[1889]]** — Acehnese resistance
+- **[[1890]]** — Acehnese conflict
+- **[[1891]]** — Acehnese period
+- **[[1892]]** — Acehnese war
+- **[[1893]]**–**[[1894]]** — Conflict at Meulaboh involving [[Teungku di Meuke']]
 - **[[1894]]** — [[Nya' Ahmat]] writes the Nasihat ureueng muprang; death of [[Teungku Lam Paloh]]
+- **[[1895]]** — Acehnese resistance
 - **[[1896]]** — [[Surprise of Aneu' Galong]]: death of [[Teungku Mat Amin]]
-- **[[1898]]-[[1900]]** — Movement of [[Teungku Tapa]], who claimed to be the returned [[Malem Diwa]]
+- **[[1897]]** — Acehnese conflict
+- **[[1898]]**–**[[1900]]** — Movement of [[Teungku Tapa]], who claimed to be the returned [[Malem Diwa]]
+- **[[1899]]** — Acehnese war period
+- **[[1900]]** — Acehnese resistance
+- **[[1901]]** — Acehnese conflict
 - **[[1902]]** — Death of [[Teungku di Kreueng]]
 - **[[1903]]** — [[Submission of Muhammad Dawot Shah]], marking the end of major resistance in the [[Aceh War]]
-- **[[1906]]** — *The Achehnese* (Vol. II) by Dr. C. Snouck Hurgronje is published at Leyden
+- **[[1904]]** — Post-submission pacification period
+- **[[1905]]** — Acehnese pacification
+- **[[1906]]** — *The Achehnese* (Vol. II) by Dr. C. Snouck Hurgronje published at Leyden
+- **[[1907]]** — J. Kreemer's [[Kreemer's De Maleier en zijn karbouw (1907)|*De Maleier en zijn karbouw*]] published — his first scholarly article on Acehnese material culture
+- **[[1908]]** — Acehnese colonial period
+- **[[1909]]** — Acehnese developments under Dutch rule
+- **[[1910]]** — Acehnese colonial period
+- **[[1911]]** — Acehnese administration
+- **[[1912]]** — Acehnese period
+- **[[1913]]** — [[Beruchtste hongertocht van Atjeh (1913)|The "most notorious hunger march" of Atjeh]]
+- **[[1914]]** — World War I begins; Acehnese under Dutch colonial rule
+- **[[1915]]** — Acehnese colonial period
+- **[[1916]]** — Netherlands Indies defence debate; Acehnese administration
+- **[[1917]]** — Netherlands Indies defence debate; Acehnese colonial period
+- **[[1918]]** — End of World War I; Acehnese period
+- **[[1920]]** — Acehnese colonial period
+- **[[1921]]** — Acehnese period
+- **[[1922]]** — Kreemer's [[Kreemer's Atjeh (1922-23)|*Atjeh*]] (vol. I) published
+- **[[1923]]** — Kreemer's *Atjeh* (vol. II) published
+- **[[1924]]** — Acehnese colonial period
+- **[[1925]]** — Acehnese period
+- **[[1926]]** — Acehnese developments
+- **[[1927]]** — Acehnese period
+- **[[1928]]** — Acehnese colonial period
+- **[[1929]]** — Acehnese period
+- **[[1931]]** — Acehnese developments
+- **[[1932]]** — Acehnese period
+- **[[1933]]** — Acehnese colonial period
+- **[[1934]]** — Acehnese period
+- **[[1935]]** — Acehnese period
+- **[[1936]]** — Acehnese colonial period
+
+## Japanese Occupation and Independence
+
+- **[[1937]]** — Pre-war Acehnese period
+- **[[1938]]** — Acehnese period
+- **[[1939]]** — World War II begins in Europe; Acehnese under Dutch rule
+- **[[1940]]** — Netherlands occupied by Germany; Netherlands Indies administration under threat
+- **[[1941]]** — Japanese attack on Pearl Harbor; Japanese forces advance into Southeast Asia
+- **[[1941 (account from Nederlands Indie contra Japan)|1941 (Japanese invasion account)]]** — Japanese forces advance into Sumatra
+- **[[1942]]** — Japanese occupation of Acheh begins
+- **[[1942 (account from Nederlands Indie contra Japan)|1942 (Japanese occupation account)]]**
+- **[[1943]]** — Acehnese under Japanese occupation
+- **[[1943 (account from Nederlands Indie contra Japan)|1943 (Japanese occupation account)]]**
+- **[[1944]]** — Acehnese resistance under occupation
+- **[[1944 (account from Nederlands Indie contra Japan)|1944 (Japanese occupation account)]]**
+- **[[1945]]** — End of Japanese occupation; Indonesian independence declared (17 August); Acehnese join the Republic
+- **[[1945 (account from Nederlands Indie contra Japan)|1945 (independence account)]]**
+- **[[1947]]** — Dutch "Police Actions" begin; Acehnese resist Dutch return
+- **[[1949]]** — Dutch recognition of Indonesian independence
+- **[[1953]]** — [[Acehnese rebellion (1953)|Acehnese join Darul Islam rebellion]]
+- **[[1954]]** — Acehnese conflict with Indonesian central government
+- **[[1955]]** — [[P. Voorhoeve]] publishes facsimile edition of two Malay manuscripts of [[Raniri]] — *Twee Maleise geschriften van Nūruddīn ar-Rānīrī*
+- **[[1956]]** — Kreemer's [[Kreemer's De Karbouw (1956)|*De Karbouw*]] published at 's-Gravenhage/Bandung
+
+---
 
 ## Full Year Index
 
@@ -52,20 +259,48 @@ Every year referenced anywhere in the wiki, linking to a page listing all the pe
 - [[1111]]
 - [[1166]]
 - [[1182]]
+- [[1186]]
 - [[1235]]
 - [[1296]]
 - [[1304]]
+- [[1345]]
+- [[1430]]
+- [[1509]]
+- [[1511]]
+- [[1513]]
+- [[1521]]
 - [[1530]]
+- [[1539]]
 - [[1540]]
+- [[1546]]
+- [[1551]]
 - [[1552]]
 - [[1557]]
+- [[1561]]
 - [[1567]]
 - [[1570]]
+- [[1580]]
+- [[1583]]
+- [[1587]]
+- [[1599]]
+- [[1600]]
+- [[1601]]
+- [[1602]]
+- [[1603]]
+- [[1606]]
 - [[1607]]
+- [[1609]]
 - [[1613]]
+- [[1614]]
+- [[1616]]
 - [[1618]]
+- [[1620]]
+- [[1621]]
+- [[1623]]
 - [[1628]]
+- [[1629]]
 - [[1630]]
+- [[1634]]
 - [[1635]]
 - [[1636]]
 - [[1637]]
@@ -73,66 +308,107 @@ Every year referenced anywhere in the wiki, linking to a page listing all the pe
 - [[1639]]
 - [[1640]]
 - [[1641]]
+- [[1644]]
 - [[1645]]
+- [[1649]]
+- [[1650]]
+- [[1655]]
+- [[1656]]
+- [[1659]]
 - [[1661]]
+- [[1663]]
+- [[1666]]
 - [[1675]]
 - [[1677]]
+- [[1680]]
 - [[1683]]
+- [[1684]]
 - [[1689]]
 - [[1699]]
 - [[1703]]
 - [[1723]]
 - [[1726]]
 - [[1727]]
+- [[1732]]
 - [[1735]]
 - [[1739]]
 - [[1740]]
+- [[1745]]
 - [[1752]]
+- [[1754]]
 - [[1756]]
 - [[1760]]
 - [[1766]]
+- [[1770]]
+- [[1772]]
+- [[1775]]
 - [[1777]]
 - [[1781]]
 - [[1782]]
+- [[1785]]
 - [[1786]]
+- [[1787]]
 - [[1792]]
 - [[1794]]
 - [[1795]]
 - [[1800]]
 - [[1801]]
 - [[1802]]
+- [[1803]]
+- [[1806]]
 - [[1811]]
+- [[1813]]
+- [[1814]]
+- [[1815]]
 - [[1816]]
+- [[1817]]
+- [[1818]]
 - [[1819]]
 - [[1820]]
+- [[1821]]
+- [[1822]]
+- [[1823]]
 - [[1824]]
 - [[1825]]
 - [[1826]]
 - [[1827]]
+- [[1828]]
+- [[1830]]
+- [[1831]]
 - [[1836]]
 - [[1838]]
 - [[1839]]
+- [[1840]]
+- [[1844]]
 - [[1845]]
+- [[1849]]
 - [[1850]]
 - [[1851]]
+- [[1852]]
 - [[1854]]
 - [[1855]]
 - [[1857]]
 - [[1858]]
+- [[1862]]
 - [[1863]]
 - [[1866]]
 - [[1867]]
 - [[1868]]
+- [[1869]]
 - [[1870]]
 - [[1871]]
+- [[1872]]
 - [[1873]]
 - [[1874]]
+- [[1875]]
 - [[1876]]
 - [[1877]]
 - [[1878]]
 - [[1879]]
 - [[1880]]
 - [[1881]]
+- [[1882]]
+- [[1883]]
 - [[1884]]
 - [[1885]]
 - [[1886]]
@@ -156,11 +432,46 @@ Every year referenced anywhere in the wiki, linking to a page listing all the pe
 - [[1904]]
 - [[1905]]
 - [[1906]]
+- [[1907]]
+- [[1908]]
 - [[1909]]
+- [[1910]]
+- [[1911]]
+- [[1912]]
+- [[1913]]
+- [[1914]]
+- [[1915]]
 - [[1916]]
+- [[1917]]
+- [[1918]]
 - [[1920]]
 - [[1921]]
+- [[1922]]
+- [[1923]]
 - [[1924]]
+- [[1925]]
+- [[1926]]
+- [[1927]]
+- [[1928]]
+- [[1929]]
+- [[1931]]
+- [[1932]]
+- [[1933]]
+- [[1934]]
+- [[1935]]
 - [[1936]]
+- [[1937]]
+- [[1938]]
+- [[1939]]
+- [[1940]]
 - [[1941]]
+- [[1942]]
+- [[1943]]
+- [[1944]]
+- [[1945]]
+- [[1947]]
+- [[1949]]
 - [[1953]]
+- [[1954]]
+- [[1955]]
+- [[1956]]
