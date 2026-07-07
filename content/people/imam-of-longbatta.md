@@ -1,10 +1,10 @@
 ---
 title: Imam of Longbatta
-aliases: [Imam Longbatta, Imam Longbattah, Imam of Longbattah, the Imam of Longbatta, Imeum of Lueng Bata, Imeum Lueng Bata, Imeum Longbatta]
+aliases: [Imam Longbatta, Imam Longbattah, Imam of Longbattah, the Imam of Longbatta, Imeum of Lueng Bata, Imeum Lueng Bata, Imeum Longbatta, Iman Longbatta, Iman of Longbatta]
 tags: [person, imam, religious-leader, acehnese, aceh-war, military-leader, uleebalang]
 ---
 
-**Imam of Longbatta** — also written Imam Longbatta or, after the alternate spelling of the place, Imam Longbattah — was one of the principal Acehnese military and religious leaders of the first phase of the [[Aceh War|Atjeh-oorlog]], named together with [[Panglima Polim|Panglima Polim]] and [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the influential chiefs who led the war-party, and remembered in the [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]] as the leader who, after the conquest of the [[XXVI Moekims|XXVI Moekims]] in [[1879]], "sheathed his sword and withdrew from public life."
+**Imam of Longbatta** — also written Imam Longbatta, Iman Longbatta, or, after the alternate spelling of the place, Imam Longbattah — was the hereditary *imeum* (religious chief) of the *mukim* of [[Lueng Bata|Lueng Bata]] (also written Longbatta) near the [[Kraton of Aceh|Kraton]] of [[Acheh|Acheh]], and one of the principal Acehnese military and religious leaders of the first phase of the [[Aceh War|Atjeh-oorlog]]. Named together with [[Panglima Polim|Panglima Polim]] and [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the influential chiefs who led the war-party — and identified by [[J. L. J. H. Pel|Kolonel PEL]] as "een van de voornaamste verzetslieden," one of the principal resistance leaders — he is remembered in the [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]] as the leader who, after the conquest of the [[XXVI Moekims|XXVI Moekims]] in [[1879]], "sheathed his sword and withdrew from public life."
 
 ## Political Status and Character
 
@@ -14,13 +14,19 @@ According to [[C. Snouck Hurgronje|Snouck Hurgronje]], the Imeum was "a rare phe
 
 ## The War-Party
 
-In his note of [[30 April]] [[1875]] General Pel named the Imam together with [[Panglima Polim|Panglima Polim]] and [[Toekoe Rajoet Lamkapang]] as among the influential chiefs of the war-party. He was the religious head of [[Longbatta|Longbatta]] (also written Longbattah), one of the kampongs near the [[Kraton of Aceh|Kraton]] of [[Acheh|Acheh]] that had been one of the Dutch army's bitterest enemies since the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] of [[1873]]-[[1874]]. His religious authority gave him a position distinct from the hereditary [[Uleebalang|hoeloebalangs]]; he was an *imam* — the head of the mosque and the religious community — and could therefore command the kind of loyalty that came from the religious conception of the war as a jihad against the infidel Dutch.
+In his note of [[30 April]] [[30 April]] [[1875]] General Pel named the Imam together with [[Panglima Polim|Panglima Polim]] and [[Toekoe Rajoet Lamkapang]] as among the influential chiefs of the war-party. The biographer [[D. van den Berg|Van den Berg]] records the identification in the same terms: when [[J. L. J. H. Pel|Kolonel PEL]] resolved on [[31 December]] [[31 December]] [[1874]] to drive the [[Achehnese|Atjehers]] from the immediate vicinity of the Dutch main positions and to make the [[Acheh River|Atjeh River]] the eastern defensive line, the action was directed specifically against [[Longbatta|Longbatta]], "welks hoofd, IMAN LONGBATTA, een van de voornaamste verzetslieden was." The wording echoes the contemporary identification by [[J. L. J. H. Pel|Pel]] of the imam as one of the principal leaders of the *prang* (war) party in his note of [[30 April]] [[30 April]] [[1875]].
+
+He was the religious head of [[Longbatta|Longbatta]] (also written Longbattah), one of the kampongs near the [[Kraton of Aceh|Kraton]] of [[Acheh|Acheh]] that had been one of the Dutch army's bitterest enemies since the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] of [[1873]]-[[1874]]. His religious authority gave him a position distinct from the hereditary [[Uleebalang|hoeloebalangs]]; he was an *imam* — the head of the mosque and the religious community — and could therefore command the kind of loyalty that came from the religious conception of the war as a jihad against the infidel Dutch.
 
 When the Acehnese war against the Gompeuni (Dutch) began, many sought the coveted death of martyrs to their creed, selling their lives as dearly as they could. Sometimes they fought in separate bands and sometimes they joined the standards of those *adat*-chiefs who took the most zealous part in the defence of the capital — such as the Imeum of Lueng Bata, who was foremost in defence of the capital. Together with [[Teuku Uma|Teuku Uma]] and the members of his own family, the Imeum was among the energetic adventurers who, in the prevailing confusion, saw a chance of essaying their fortunes afresh.
 
 ## Earlier Mention: The Embassy of Mas Soemo Widikdjo
 
 The kampong [[Longbatta|Longbatta]] first appears in the source work as the place where the Dutch envoy [[Mas Soemo Widikdjo|Mas Soemo Widikdjo]] was murdered in [[December 1873]]. Van Swieten had sent two letters to the sultan offering terms; with their delivery he charged Mas Soemo Widikdjo, the son of a British-Indian officer, "who had repeatedly rendered us services as a guide or interpreter on previous occasions, hoping for his children to recover the place in society which he had lost for himself by the early death of his father." He departed on [[26 December]] [1873] and never returned: "Later it became known that, after being held prisoner for a couple of days, he was murderously killed at Longbatta."
+
+## The Missigit Longbatta Operations of 31 December 1874 – 13 January 1875
+
+The [[31 December]] [[31 December]] [[1874]] action against [[Longbatta|Longbatta]] resulted in the capture of the [[Missigit Longbatta|Missigit (mosque) Longbatta]]. The mosque was then fortified by [[Cornelis Jacobus Snijders|Tweede-Luitenant C. J. Snijders]] of the [[Bataillon Mineurs en Sappeurs|Bataillon Mineurs en Sappeurs]] between [[1 January|1]] and [[13 January]] [[13 January]] [[1875]] as a redoubt enclosing the building, in the face of daily rifle and gun fire from the Atjehers, who refused to accept the loss of their sanctuary — "wilden niet lijdelijk in het verlies van hun heiligdom berusten." On [[9 January]] [[9 January]] [[1875]] the post was so heavily bombarded that one officer and three men were severely wounded; in the night of [[10 January|10]]/[[11 January]] [[11 January]] the enemy pressed to within 50 metres of the parapet before being driven off by case-shot and infantry volleys. The continued Atjehese counter-attacks on the work, including the night assault of [[10 January|10]]/[[11 January]] [[11 January]] [[1875]], illustrate the symbolic as well as strategic importance of the site.
 
 ## Resistance in 1879
 
@@ -46,12 +52,15 @@ The Imeum of Lueng Bata also appears among those *uleebalangs* in the Sultan's t
 
 - [[Longbatta]]
 - [[Lueng Bata]]
+- [[Missigit Longbatta]]
+- [[Missigit Longbatta operation (31 December 1874 – 13 January 1875)]]
 - [[Pagaraye]]
 - [[Panglima Polim]]
 - [[Toekoe Rajoet Lamkapang]]
 - [[Toewankoe Haschim]]
 - [[Radja Koelala]]
 - [[J. L. J. H. Pel]]
+- [[Cornelis Jacobus Snijders]]
 - [[K. van der Heyden]]
 - [[Mas Soemo Widikdjo]]
 - [[Campaign against the XXII Moekims (1879)]]
@@ -71,9 +80,17 @@ The Imeum of Lueng Bata also appears among those *uleebalangs* in the Sultan's t
 - [[Imam]]
 - [[Holy War (Jihad) against the Dutch]]
 - [[Dutch Concentration Scheme]]
+- [[1874]]
+- [[1875]]
+- [[1879]]
+- [[1901]]
 
 ## Sources
 
-- *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 27, 71, 103, 108.
-- *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
-- *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, [[1912]], Hoofdstuk I, pp. 27, 71, 103, 108.
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, [[1906]].
+
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, [[1906]].
+
+D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), p. 28. Koninklijke Bibliotheek shelfmark 0301 4872. The biography identifies the imam as "een van de voornaamste verzetslieden" on the authority of [[J. L. J. H. Pel|Kolonel Pel]]'s note of [[30 April]] [[30 April]] [[1875]], and records the [[Missigit Longbatta operation (31 December 1874 – 13 January 1875)|Missigit Longbatta operations]] of [[31 December]] [[31 December]] [[1874]]–[[January 1875|January]] [[1875]] against his kampong.
