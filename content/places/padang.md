@@ -1,9 +1,8 @@
 ---
 title: Padang
-aliases: [Padang (Sumatra), Padang highlands, West-Coast Padang, Highlands of Padang, Padang uplands, Minangkabau highlands, Padang, Padang on Sumatra, Padang op Sumatra's Westkust]
-tags: [place, foreign, region, coast, highland, sumatra, minangkabau, adat, city, colony]
+aliases: [Padang (Sumatra), Padang highlands, West-Coast Padang, Highlands of Padang, Padang uplands, Minangkabau highlands, Padang, Padang on Sumatra, Padang op Sumatra's Westkust, City of Padang, Hoofdkantoor Padang]
+tags: [place, foreign, region, coast, highland, sumatra, minangkabau, adat, city, colony, westkust, colonial, dutch]
 ---
-
 **Padang** is the chief Dutch colonial station on the west coast of [[Sumatra]], and the surrounding residency of the same name. In *The Achehnese* Vol. I, Snouck Hurgronje invokes Padang chiefly for comparison: as a centre of Minangkabau culture, as a locus of the Hasan-Husain festival, as the seat of colonial lithographic publishing, and as the source of certain settlers in [[Acheh]].
 
 ## The Hasan-Husain Festival on the West Coast
@@ -54,6 +53,41 @@ Padang recurs in the documentation of the late 1820s, when the salt trade of the
 
 Van der Kemp's footnote to the passage is characteristic. The substantial reduction in the export price of Java salt, he explains, was adopted on the advice of the councillor of the Indies [[Van de Graaff|Van de Graaff]] to keep Java salt competitive with Siamese, Makassarese and Bimanese salt on the [[Netherlands India|Buitenbezittingen]]; it stood "in no other relation to the bitter enmity against Singapore" than that "every interested party seeks to bring his wares to market or to draw the trade to himself." The complaint from Padang was, in this reading, merely the natural voice of a colonial treasury confronted by a rival entrepôt — not a piece of anti-Singapore machination. The episode is one of the many small collisions out of which the [[Paper war|paper war]] of the late 1820s was built.
 
+## Account from Stapel's *De Koloniën* (1931)
+
+**Padang** was the principal Compagnie station on the [[Westkust van Sumatra|Westkust van Sumatra]], the headquarters of the [[Vereenigde Oost-Indische Compagnie|Compagnie]]'s Westkust government from the [[1664]]–[[1665]] campaign of [[Jacob Cau|Jacob Cau]] through the end of the VOC period in [[1795]]. In Dr. F. W. Stapel's *Geschiedkundige Atlas van Nederland* Padang is the institutional capital of the Westkust system — the place where the commandeur resided, where the [[panglima-radja|panglima-radja]] held office, where the [[Padang Conference (29 August 1680)|Padang Conference of 29 August 1680]] was held, and from which the entire Painansch Contract system was administered.
+
+## In the 1641 Schouten treaty
+
+Padang was one of the four pepper ports named in the [[Treaty of Atjeh-VOC (15 February 1641)|Schouten treaty]] of [[15 February]] [[1641]], by which the [[Sultana of Atjeh (Taj ul-Alam)|sultane of Atjeh]] conceded to the Compagnie the tolls in the pepper ports of [[Tikoe]], [[Priaman]], Padang and [[Indrapoera]].
+
+## The 1659 Bort treaty
+
+After the [[Treaty of Atjeh-VOC (5 October 1659)|peace of 5 October 1659]] with the sultane, commissioner [[Balthasar Bort|Balthasar Bort]] concluded new trade treaties with the chiefs of [[Silebar|Sillebar]], [[Indrapoera|Indrapera]] and Padang. "On the two last-named places — Indrapera and Padang — offices (*kantoren*) were established" (*Op de twee laatstgenoemde plaatsen werden kantoren gevestigd*). The Compagnie was now physically present at Padang as well as at [[Tikoe]] and [[Priaman]].
+
+## The 1664-1665 headquarters
+
+The [[Painansch Contract]] of [[6 July]] [[1663]] named Padang as one of the four contracting landheeren. The ratification was achieved by the campaign of [[Jacob Cau|Jacob Cau]] in [[1664]]–[[1665]]. "On arrival at Padang the chiefs there complained of 'the increasing oppression and vexation they suffered from the Atjehers.' At their request Cau rowed with part of his force to land. From a thrown-up fortification the Atjehers tried with 2 cannon to prevent this landing, but Cau drove them out and made himself master of the cannon" (*Op Padang gekomen, klaagden de hoofden aldaar over de toenemende onderdrukking en overlast, die zij van de zijde der Atjehers ondervonden; op hun verzoek roeide Cau met een deel van zijn macht naar land*).
+
+When Cau returned to Batavia on [[2 January]] [[1665]] he had established four definitive factories on the Westkust: **Padang — head office** (*hoofdkantoor*) — [[Poeloe Tjingkoek|Poeloe Tjingkoek]] or [[Salido]], [[Priaman]] and [[Tikoe]]. Padang has been chosen as the headquarters, and it would retain that status through the entire VOC period.
+
+## The Padang panglima-radja
+
+The panglima-radja at Padang — the senior native military governor of the Westkust — was the principal native counterpart to the Compagnie's commandeur. The Padang panglima-radja was one of the four signatories of the [[Padang Conference (29 August 1680)|Padang Conference of 29 August 1680]], and in August [[1671]] the panglima-radja and the regents of Padang "declared 'from their own motion and particular inclination' to transfer to the Compagnie the tolls and import and export rights, which there trading Chinese, Javanese and Malays had formerly had to pay to Atjeh" (*verklaarden 'uyt eygen beweging ende besondere inclinatie' aan de Compagnie over te dragen de tollen en in- en uitvoerrechten, welke daar handelende Chineezen, Javanen en Maleiers vroeger aan Atjeh hadden moeten betalen*).
+
+## The 1680 Padang Conference
+
+The [[Padang Conference (29 August 1680)|Padang Conference of 29 August 1680]] was the high-water mark of the Painansch Contract system. Commissioner [[Laurens Pit de Jonge|Laurens Pit de Jonge]] presided; the commandeur [[Melchior Hurdt|Hurdt]] (about to be suspended) was host. "Finally on 29 August 1680 a meeting took place at Padang with the principal regents of the West Coast, at which a new general bond was founded and sworn" (*Ten slotte had 29 Augustus 1680 te Padang een bijeenkomst plaats met de hoofdregenten van de Westkust, waarbij een nieuw algemeen verbond werd opgericht en bezworen*).
+
+## The 1692 Padang seat
+
+In [[1692]] "the place of the secunde of the 'commandery of the West Coast' would henceforth be Padang" (*De plaats van den secunde van de 'commanderie van de Westkust' zou voortaan te Padang zijn*). The formal designation of Padang as the seat of the secunde — the second-in-command of the Westkust — confirms the institutional centrality of Padang in the late-seventeenth-century Westkust system.
+
+## Significance
+
+Padang is the institutional capital of the Westkust system. From [[1664]]–[[1665]] onward it was the headquarters of the Compagnie's Westkust government, and from [[1680]] it was the seat of the [[Padang Conference (29 August 1680)|Padang Conference]] and the [[panglima-radja|panglima-radja]]. The choice of Padang as head office — made by [[Jacob Cau|Cau]] in [[1664]]–[[1665]] — would prove durable: it remained the chief Dutch (and later Indonesian) station on the Westkust through the entire VOC period and into the nineteenth century, and it is today the capital of West Sumatra province.
+
+The pairing of Padang as the Compagnie's headquarters with the [[panglima-radja|panglima-radja]] as the native military governor is the constitutional model of the entire Westkust system. The Compagnie exercises commercial and military authority from Padang; the native military governor exercises panglima authority from Padang; and the two offices coexist in the same place. The [[Tikoe submission (20-21 June 1684)|Tikoe submission of 1684]] would assimilate the commandeur of Padang to the panglima-radja office itself.
 
 ## See Also
 
@@ -78,9 +112,32 @@ Van der Kemp's footnote to the passage is characteristic. The substantial reduct
 - [[Bellona mission to Sumatra's East Coast (1827-1828)]]
 - [[Anglo-Dutch Treaty of London (1824)]]
 - [[Paper war]]
+- [[Tikoe]]
+- [[Priaman]]
+- [[Indrapoera]]
+- [[Painansch Contract]]
+- [[Padang Conference (29 August 1680)]]
+- [[panglima-radja]]
+- [[Balthasar Bort]]
+- [[Jacob Cau]]
+- [[Jacob Jorisse Pits]]
+- [[Melchior Hurdt]]
+- [[Laurens Pit de Jonge]]
+- [[Westkust van Sumatra]]
+- [[Vereenigde Oost-Indische Compagnie]]
+- [[15 February]]
+- [[2 January]]
+- [[29 August]]
+- [[1641]]
+- [[1659]]
+- [[1664]]
+- [[1680]]
+- [[1692]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 15–16, 18, 20–21, 3 (tekst bij blad 4 en 5: *Atjeh en de Westkust van Sumatra in 1684*, *De Compagnie in den Archipel na 1684 tot 1791 — Sumatra*).
