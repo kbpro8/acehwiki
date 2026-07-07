@@ -1,9 +1,8 @@
 ---
 title: Menangkabau
-aliases: [Minangkabau, Menangkabouw, Menangkabau people, Manangkabau, Menangkabau territories, Menangkabau, Menangkabau country, Minangkabau country]
-tags: [place, region, sumatra, foreign, people, highland]
+aliases: [Minangkabau, Menangkabouw, Menangkabau people, Manangkabau, Menangkabau territories, Menangkabau, Menangkabau country, Minangkabau country, Menangkabausche, Minangkabauers, King of Menangkabau, Emperor of Menangkabau, Keijser van Menangkabau]
+tags: [place, region, sumatra, foreign, people, highland, polity, achehnese, colonial]
 ---
-
 **Menangkabau** (also *Minangkabau*) was the principal cultural and political territory of central [[Sumatra]], whose princes' domain was separated from the [[Aceh Sultanate|Acehnese sultanate's]] territory by [[Baros]] on the West Coast. The boundary between the territory of the princes of Menangkabau and that of the Sultans of [[Great Acheh|Acheh]] was marked at Baros or whatever other point the Acehnese regarded as the correct boundary.
 
 Menangkabau had its own distinct political and cultural traditions — most notably its matrilineal (*adat perpatih*) social system — that contrasted with the patrilineal and Islamised structures of Acheh. Its territories lay south and east of the Acehnese zone of influence along the western Sumatran coast.
@@ -52,6 +51,44 @@ Minangkabau is also cited for its elaborate ceremonial oratory, of which a publi
 
 Finally, the people of mixed descent on the [[West Coast (of Acheh)|West Coast]] are nicknamed *aneu' Rawa* ("people from the province of Rawa") — Rawa being a district of Minangkabau origin — "to which latter nickname the epithet 'tailed' (*meuikit*) is also added." These "tailed or tail-less strangers contributed their quota to the composition of the Achehnese race." Minangkabau emigrants, like the Kling traders of the [[East Coast|East]] and the Arabs and Bugis of the royal house, are thus among the foreign elements whose share in the formation of the Achehnese people Snouck Hurgronje regards as "merely accidental", in contrast to the established unity of the Achehnese themselves.
 
+## Account from Stapel's *De Koloniën* (1931)
+
+**Menangkabau** (modern Minangkabau) was the inland Sumatran polity whose king — usually called the "keijser" (*keijser*) of Menangkabau by the Dutch — claimed suzerainty over the [[Westkust van Sumatra|West Coast of Sumatra]]'s coastal lands and was, from [[1662]] onward, the principal native ally of the [[Vereenigde Oost-Indische Compagnie|Compagnie]] in its contest with [[Atjeh|Atjeh]] for the Westkust. In Dr. F. W. Stapel's *Geschiedkundige Atlas van Nederland* Menangkabau is the constitutional fiction on which the [[Painansch Contract]] system rests: a native sovereign whose authority the Compagnie invokes to legitimise its Westkust government.
+
+## The Atjehsche yoke and the appeal to the Compagnie
+
+Before [[1662]] the Westkust was under Atjehsche sovereignty, exercised through Atjehsche governors in the pepper ports. The Menangkabau chiefs' complaint about "the hard yoke of the Atjehers" (*het harde juk der Atjehers*) was the political occasion for the Compagnie's first overtures. The repeated Menangkabau appeals — "the already repeatedly directed request of the Menangkabau chiefs 'that we should bind ourselves to defend them against the Atchinders, both by water and by land'" (*dat wy ons souden verbinden haar tegens d'Atchinders te defenderen, soo te water als te lande*) — were finally accepted by Batavia in [[1656]], in the wake of the [[Blockade of Atjeh (1656)|1656 blockade]] and the [[Arrest of Anthony van Voorst|arrest of Van Voorst]].
+
+## The 1662 secret mission
+
+[[Jan van Groenewegen|Jan van Groenewegen]]'s [[1662]] secret mission — the political foundation of the [[Painansch Contract]] — was framed as the act of drawing the Menangkabauers "from the croone of Atchin to the protection of the Compagnie" (*van de croone van Atchin tot de bescherming van de Compagnie te trecken*). The Menangkabau chiefs' defection from Atjeh to the Compagnie was the political essence of the [[Painansch Contract]] of [[6 July]] [[1663]].
+
+## The 1666 stadtholder-ship
+
+[[Jacob Jorisse Pits|Jacob Jorisse Pits]]'s appointment as the Menangkabau king's stadtholder over the coastal lands — c. [[1666]] — was the constitutional instrument by which the Compagnie's chief of trade at Padang became a native military-chief with the right to appoint regents. "One of the most influential princes of the Padangsche Bovenlanden, usually indicated as the king of Menangkabau, had appointed Pits as his stadtholder over the coastal lands" (*Een der invloedrijkste vorsten der Padangsche Bovenlanden, gewoonlijk aangeduid als de koning van Menangkabau, had Pits benoemd tot zijn stadhouder over de kustlanden*).
+
+## The 1672 Singkel accession
+
+The extension of the Painansch Contract to [[Singkel]] on [[19 March]] [[1672]] is the clearest statement of the Menangkabau constitutional theory. The Singkel chiefs "acknowledged the king of Menangkabau as their sovereign and the Compagnie as protectress" (*erkennende den koning van Menangkabau als haaren souvereinen koning ende hooft, ende d'Ed. Compagnie als haare beschermers ende gebieders*).
+
+## The 1680 imperial confirmation
+
+The year [[1680]] opened with a change at the top of Menangkabau. On [[24 February]] [[1680]] the commandeur [[Melchior Hurdt|Hurdt]] at [[Padang]] received an embassy from the uplands, announcing "that a new 'keijser' in the Menangkabau realm had succeeded; that he had the old contracts, 'concluded with his predecessor' confirmed, and at the same time given order 'to confirm commander Hurdt in the honour-title of imperial stadtholder'" (*dat een nieuwe 'keijser' in het Menangkabausche rijk was opgevolgd; dat hij de oude contracten, 'met sijn voorsaat aangegaan' liet bevestigen, en tevens opdracht gegeven had, 'den commandeur Hurt in de eertitul van keyserlycke stadthouder te confirmeeren'*).
+
+## The 1680 Padang Conference
+
+The [[Padang Conference (29 August 1680)|Padang Conference of 29 August 1680]] was the high-water mark of the Menangkabau constitutional theory. The "keijser" (*keijser*) of [[Indrapoera]] — acting in the name of the Menangkabau sovereign — was the senior signatory, and the panglima-radja at [[Padang]] signed in his capacity as the king's military governor. The Compagnie's authority on the Westkust was, in form, the authority of the Menangkabau king's stadtholder.
+
+## The 1684 panglimaschap
+
+The [[Tikoe submission (20-21 June 1684)|Tikoe submission of 20–21 June 1684]] brought the panglima-radja title into the Compagnie's own hands. The chiefs of Tikoe "promised 'to acknowledge and obey the commandeur at Padang as their panglima.' … They declared that their regents were to be appointed by the commandeur, 'by force of the panglimaschap'" (*belovende de commandeur op Padang voor haer panglima te erkennen en gehoorsamen. … zij verklaarden, dat hun regenten door den commandeur moesten worden aangesteld, 'kraghte van het panglimaschap'*).
+
+## Significance
+
+Menangkabau is the constitutional fiction on which the [[Painansch Contract]] system rests. The Compagnie's Westkust authority is, in form, the authority of the Menangkabau king's stadtholder, and the Painansch Contract signatories acknowledge the Menangkabau king as their sovereign. The fiction allowed the Compagnie to displace Atjehsche sovereignty without appearing to acquire direct sovereignty itself — a useful constitutional ambiguity that would persist through the entire VOC period.
+
+The Menangkabau fiction is also the principal point of contact between the Westkust story and the larger history of the Padangsche Bovenlanden. The interior uplands — the future heartland of the [[Padri War]] — were the seat of the Menangkabau king, and the Compagnie's relationship with them through the stadtholder-ship was the precondition of its later nineteenth-century involvement with the Padangsche Bovenlanden.
+
 ## See Also
 
 - [[Aceh Sultanate]]
@@ -69,7 +106,29 @@ Finally, the people of mixed descent on the [[West Coast (of Acheh)|West Coast]]
 - [[Alas]]
 - [[India]]
 - [[R. Edw. van Muien]]
+- [[Westkust van Sumatra]]
+- [[Painansch Contract]]
+- [[Padang Conference (29 August 1680)]]
+- [[Tikoe submission (20-21 June 1684)]]
+- [[panglima-radja]]
+- [[Jan van Groenewegen]]
+- [[Jacob Jorisse Pits]]
+- [[Melchior Hurdt]]
+- [[Laurens Pit de Jonge]]
+- [[Indrapoera]]
+- [[Agam]]
+- [[Atjeh]]
+- [[Vereenigde Oost-Indische Compagnie]]
+- [[24 February]]
+- [[29 August]]
+- [[1662]]
+- [[1663]]
+- [[1666]]
+- [[1680]]
+- [[1684]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 1, p. 1.
+
+*De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 14–22 (tekst bij blad 4: *Atjeh en de Westkust van Sumatra in 1684*).
