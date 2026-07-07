@@ -1,6 +1,6 @@
 ---
 title: Aceh Sultanate
-aliases: [Sultanate of Acheh, Kesultanan Aceh, Acehnese Sultanate, Kingdom of Acheh]
+aliases: [Sultanate of Acheh, Kesultanan Aceh, Acehnese Sultanate, Kingdom of Acheh, Sultanate of Aceh]
 tags: [event, sultanate, government, history]
 description: The Islamic sultanate that ruled Acheh from approximately the early 16th century, reaching its greatest power under Sultan Iskandar Muda (1607–1636) and declining through internal weakness and Dutch colonial pressure, finally yielding to the Dutch in the Aceh War.
 ---

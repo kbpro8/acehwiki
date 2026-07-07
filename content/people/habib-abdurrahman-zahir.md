@@ -1,6 +1,6 @@
 ---
 title: Habib Abdurrahman Zahir
-aliases: [the Habib, Sayyid Abdurrahman Zahir, Habib Abdurrahman, Sayyid Abdurrahman, Habib Abdoerrahman, Abdul Rachman, Habib, Sayyid Abdurrahman Zair, Habib Abdoe'r Rachman, Habib Abdoor Rahman, Habib Abdoerrahman Zahir]
+aliases: [the Habib, Sayyid Abdurrahman Zahir, Habib Abdurrahman, Sayyid Abdurrahman, Habib Abdoerrahman, Abdul Rachman, Habib, Sayyid Abdurrahman Zair, Habib Abdoe'r Rachman, Habib Abdoor Rahman, Habib Abdoerrahman Zahir, Habib Abdul Rahman]
 tags: [person, warrior, religious-figure, sayyid, reformer, arab, jihad-leader, religious, aceh, resistance, aceh-war, arab-scholar, rijksbestuurder, military-leader]
 ---
 

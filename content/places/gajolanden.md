@@ -1,6 +1,6 @@
 ---
 title: Gajolanden (Gayo Lands)
-aliases: [Gajolanden, Gayo Lands, Gayoland, land of the Gajos, Gajo lands, Gayo-landen, Gajo-Landen, Tanah Gayo, the Gajo highlands, Gajo country]
+aliases: [Gajolanden, Gayo Lands, Gayoland, land of the Gajos, Gajo lands, Gayo-landen, Gajo-Landen, Tanah Gayo, the Gajo highlands, Gajo country, Gajoland]
 tags: [place, region, aceh, gajo, highland, colonial, dutch, buitenbezittingen, wegennet]
 ---
 

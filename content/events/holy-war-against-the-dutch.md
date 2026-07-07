@@ -1,6 +1,6 @@
 ---
 title: Holy War against the Dutch
-aliases: [Jihad against the Dutch, Prang Sabi, Sabilullah, Holy War in Acheh]
+aliases: [Jihad against the Dutch, Prang Sabi, Sabilullah, Holy War in Acheh, Holy War (Jihad) against the Dutch]
 tags: [event, war, religious, political]
 ---
 

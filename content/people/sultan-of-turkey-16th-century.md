@@ -1,6 +1,6 @@
 ---
 title: Sultan of Turkey (16th century)
-aliases: [The Sultan of Turkey, Raja Rom, The Lord of all Believers, Ottoman Sultan of the Achehnese legend]
+aliases: [The Sultan of Turkey, Raja Rom, The Lord of all Believers, Ottoman Sultan of the Achehnese legend, Sultan of Turkey]
 tags: [person, sultan, religious-figure, legendary]
 ---
 

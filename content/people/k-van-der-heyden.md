@@ -1,6 +1,6 @@
 ---
 title: K. van der Heyden
-aliases: [Generaal Van der Heyden, Kolonel Van der Heyden, Gouverneur Van der Heyden, the one-eyed general]
+aliases: [Generaal Van der Heyden, Kolonel Van der Heyden, Gouverneur Van der Heyden, the one-eyed general, K. van der Heijden]
 tags: [person, general, dutch, military, governor, aceh-war]
 ---
 

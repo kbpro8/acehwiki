@@ -1,6 +1,6 @@
 ---
 title: L. H. J. Kloprogge
-aliases: [Captain Kloprogge, Kapitein Kloprogge, L.H.J. Kloprogge, Kloprogge (Westkust), commandant IIde divisie Maréchaussee]
+aliases: [Captain Kloprogge, Kapitein Kloprogge, L.H.J. Kloprogge, Kloprogge (Westkust), commandant IIde divisie Maréchaussee, Captain L. H. J. Kloprogge]
 tags: [person, dutch, military, colonial, knil, marechaussee, atjeh, world-war-ii]
 ---
 

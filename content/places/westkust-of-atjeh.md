@@ -1,6 +1,6 @@
 ---
 title: West Coast of Aceh
-aliases: [West Coast of Aceh, Aceh's West Coast, West Coast, the always restless West Coast]
+aliases: [West Coast of Aceh, Aceh's West Coast, West Coast, the always restless West Coast, Westkust van Atjeh, Westkust (of Atjeh)]
 tags: [place, region, aceh, westkust]
 ---
 

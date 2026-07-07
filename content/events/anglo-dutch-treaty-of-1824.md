@@ -1,6 +1,6 @@
 ---
 title: Anglo-Dutch Treaty of 1824
-aliases: [Treaty of 1824, Anglo-Dutch Treaty of 1824, Treaty of London 1824, Dutch-British Treaty of 1824, Tractaat van 17 Maart 1824, London treaty of 17 March 1824, Londensch tractaat van 1824, Tractaat van Londen, London Treaty, Treaty of London]
+aliases: [Treaty of 1824, Anglo-Dutch Treaty of 1824, Treaty of London 1824, Dutch-British Treaty of 1824, Tractaat van 17 Maart 1824, London treaty of 17 March 1824, Londensch tractaat van 1824, Tractaat van Londen, London Treaty, Treaty of London, Anglo-Dutch Treaty of London (1824), Anglo-Dutch Treaty of London 1824, Treaty of London (1824)]
 tags: [event, political, treaty, international, colonial, anglo-dutch]
 ---
 

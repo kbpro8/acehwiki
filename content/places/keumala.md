@@ -1,6 +1,6 @@
 ---
 title: Keumala
-aliases: [Keumala, Court of Keumala, Keumala in Pidie, Kuta Keumala, Keumala court, Keumala Pidie, valley of Keumala, classic battle-ground Keumala]
+aliases: [Keumala, Court of Keumala, Keumala in Pidie, Kuta Keumala, Keumala court, Keumala Pidie, valley of Keumala, classic battle-ground Keumala, Kemala]
 tags: [place, valley, aceh, resistance, sultanate, interior, region, royal-court, court, pretender]
 ---
 

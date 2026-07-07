@@ -1,6 +1,6 @@
 ---
 title: Gajo Loeës
-aliases: [Gajo Loeës, Gayo Lues, Gajo-Loeës, Gajoloes, Gayo Lues Highlands]
+aliases: [Gajo Loeës, Gayo Lues, Gajo-Loeës, Gajoloes, Gayo Lues Highlands, Gajó Loeós]
 tags: [place, gayo, highland]
 ---
 **Gajo Loeës** (Gayo Lues) is the great Gayo high plateau at the head of the Tripa River — the *brongebied der Tripa-rivier*, "eene wijde, langzaam naar het gebergte oploopende vlakte" and one of the principal population-centres of the interior of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* contrasts the Gajo-Loeës with the more *geaccidenteerd* high plains of the interior: "Zijn deze laatste meestal zeer geaccidenteerd en als het ware samengesteld uit tal van kleinere blangs en valleien … de Gajo-Loeës daarentegen vormt, vooral in het Oostelijk gedeelte, eene wijde, langzaam naar het gebergte oploopende vlakte met weinig belangrijke verheffingen."

@@ -1,6 +1,6 @@
 ---
 title: Vereenigde Oostindische Compagnie
-aliases: [VOC, Dutch East India Company, Vereenigde O.I. Compagnie, Geoctroyeerde Oostindische Compagnie, Heeren Compagnie]
+aliases: [VOC, Dutch East India Company, Vereenigde O.I. Compagnie, Geoctroyeerde Oostindische Compagnie, Heeren Compagnie, Verenigde Oostindische Compagnie]
 tags: [organization, company, colonial, dutch, atjeh, banda, malaka, monopoly, 17th-century, voc]
 ---
 

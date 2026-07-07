@@ -1,5 +1,6 @@
 ---
 title: Meureudu
+aliases: [Meureudoe]
 tags: ["place", "north-east-coast"]
 ---
 

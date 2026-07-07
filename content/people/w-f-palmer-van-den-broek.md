@@ -1,6 +1,6 @@
 ---
 title: W. F. Palmer van den Broek
-aliases: [Majoor Palmer van den Broek, Major Palmer van den Broek, W.F. Palmer van den Broek, Palmer van den Broek, commandant Korps Maréchaussee Atjeh 1941-1942]
+aliases: [Majoor Palmer van den Broek, Major Palmer van den Broek, W.F. Palmer van den Broek, Palmer van den Broek, commandant Korps Maréchaussee Atjeh 1941-1942, Major W. F. Palmer van den Broek]
 tags: [person, dutch, military, colonial, knil, marechaussee, atjeh, world-war-ii]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Colonne van Daalen naar de Gajolanden en Alaslanden (1904)
-aliases: [Colonne van Daalen 1904, Zegetocht van Daalen, Gayo-Alas campaign 1904, Van Daalen expedition 1904, Gajo Expedition, Alas Expedition, Van Daalen Expedition]
+aliases: [Colonne van Daalen 1904, Zegetocht van Daalen, Gayo-Alas campaign 1904, Van Daalen expedition 1904, Gajo Expedition, Alas Expedition, Van Daalen Expedition, Van Daalen's Gajo Expedition]
 tags: [event, military, colonial, gayo, alas]
 ---
 

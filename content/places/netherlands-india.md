@@ -1,6 +1,6 @@
 ---
 title: Netherlands India
-aliases: [Netherlands-India, Netherlands India, Dutch East Indies, Nederlandsch-Indië, Nederlandsch Oost-Indië, Buitenbezittingen]
+aliases: [Netherlands-India, Netherlands India, Dutch East Indies, Nederlandsch-Indië, Nederlandsch Oost-Indië, Buitenbezittingen, Netherlands Indies]
 tags: [place, foreign, region, colonial, colony]
 ---
 

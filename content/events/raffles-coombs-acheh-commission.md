@@ -1,6 +1,6 @@
 ---
 title: Raffles-Coombs Acheh Commission (1819)
-aliases: [Acheh commissie 1819, Acheh-commissie, Acheen Mission]
+aliases: [Acheh commissie 1819, Acheh-commissie, Acheen Mission, Raffles-Coombs Acheh Commission]
 tags: [event, mission, diplomacy, colonial, anglo-dutch, acheh]
 ---
 

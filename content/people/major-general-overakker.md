@@ -1,6 +1,6 @@
 ---
 title: Major-General R. T. Overakker
-aliases: [R. T. Overakker, General Overakker, Colonel Overakker, Overakker]
+aliases: [R. T. Overakker, General Overakker, Colonel Overakker, Overakker, Major-General Overakker]
 tags: [person, dutch, colonial, military]
 ---
 **Major-General R. T. Overakker** was the Dutch officer who, after being directed from Java to Sumatra on [[9 February]] [[1942]], assumed command of the newly established territorial command Middle-Sumatra and was entrusted with the central leadership of the defense of all of Central and North Sumatra during the Japanese invasion of March [[1942]]. Piekaar's *Atjèh and the War with Japan* treats Overakker as the strategist of the last-stand defense of the Atjèh highlands — the decision, taken after the fall of Java, to withdraw the troops elsewhere on Sumatra via [[Kaban Djahé|Kaban Djahé]] to Central Atjèh and to try to hold out in the Atjèh highlands for as long as possible.

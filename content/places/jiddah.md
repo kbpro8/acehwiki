@@ -1,6 +1,6 @@
 ---
 title: Jiddah
-aliases: [Jedda, Jiddah, Jidda, Port of Jeddah, Port of Mecca]
+aliases: [Jedda, Jiddah, Jidda, Port of Jeddah, Port of Mecca, Jeddah]
 tags: [place, sacred-site, city, arabia, red-sea, exile, foreign, coast]
 ---
 

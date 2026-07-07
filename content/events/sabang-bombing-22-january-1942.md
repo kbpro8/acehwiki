@@ -1,6 +1,6 @@
 ---
 title: Sabang bombing of 22 January 1942
-aliases: [Bombing of Sabang, 22 January 1942, Heavy air raid on Sabang]
+aliases: [Bombing of Sabang, 22 January 1942, Heavy air raid on Sabang, Sabang bombing (22 January 1942)]
 tags: [event, war, japanese, military]
 ---
 **The Sabang bombing of [[22 January]] [[1942]]** was the heaviest in the sustained Japanese air offensive against the free-port island of [[Sabang|Sabang]] off the northern tip of [[Atjèh|Atjèh]], whose harbour works, airfield, and oil and gasoline supplies made it — together with [[Koetaradja|Koetaradja]] — one of the two great strategic objectives of the Japanese assault on northern Sumatra. Piekaar's *Atjèh and the War with Japan* records the raid as the climax of a bombing campaign that opened on [[18 January]] [[1942]] and continued at a rate of "four to five attack days per week until the arrival of the enemy," inflicting paralysis on the civilian life of every *kota* in Atjèh.
