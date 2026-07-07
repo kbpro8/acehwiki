@@ -1,8 +1,17 @@
 ---
+
 title: Klinkert
 aliases: [H.C. Klinkert]
 tags: [person, western-scholar]
 ---
+
+Author of "Drie Maleische gedichten" (Leiden [[1886]]), which includes the Malay version of Chintabuhan, source for the Acehnese Hikayat Chintabuhan; also cited for his "Bloemlezing" (Leiden [[1890]]).
+
+## Source
+
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+---
+
 
 Author of "Drie Maleische gedichten" (Leiden [[1886]]), which includes the Malay version of Chintabuhan, source for the Acehnese Hikayat Chintabuhan; also cited for his "Bloemlezing" (Leiden [[1890]]).
 
