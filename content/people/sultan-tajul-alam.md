@@ -1,116 +1,116 @@
 ---
-
 title: Sultan Tajul-alam
-aliases: [Sapiatodin, the first sultana, Sultane of Aceh, Queen of Aceh, Sultana of Aceh, daughter of Iskander Moeda]
-tags: [person, sultana, sultan, 17th-century, voc, treaty]
+aliases: [Sapiatodin, the first sultana, Sultane of Aceh, Queen of Aceh, Sultana of Aceh, daughter of Iskander Moeda, Sultana of Atjeh, Taj ul-Alam, Safiatuddin Syah, Taj ul-Alam Safiatuddin Syah, Vorstin van Atjeh, Atjehsche sultane]
+tags: [person, sultana, sultan, 17th-century, voc, treaty, achehnese, precolonial, diplomacy, colonial, dutch]
 ---
 
-**Sultan Tajul-alam** — also known as **Sapiatodin**, and remembered in Achehnese tradition as the **first sultana** — ruled Acheh from [[1639]] or [[1641]] until [[1675]]. She is one of the four monarchs whose names recur on virtually every *chab sikureu'eng* — the [[Sarakata with chab sikureu'eng|ninefold seal]] of the sultans of Acheh — and her mediation (*afwah*) is invoked in the preamble of sultans' letters patent (*sarakata*).
+**Sultan Tajul-alam** — also known as **Sapiatodin** (Safiatuddin Syah), and remembered in Achehnese tradition as the **first sultana** — ruled [[Acheh|Atjeh]] from [[1641]] until [[1675]]. She is one of the four monarchs whose names recur on virtually every *chab sikureu'eng* — the [[Sarakata with chab sikureu'eng|ninefold seal]] of the sultans of Acheh — and her mediation (*afwah*) is invoked in the preamble of sultans' letters patent (*sarakata*). In Dr. F. W. Stapel's *Geschiedkundige Atlas van Nederland* she is unnamed but constantly referred to as the *sultane van Atjeh*, the *vorstin van Atjeh*, or simply *de Atjehsche sultane*: the woman with whom the [[Vereenigde Oost-Indische Compagnie|Compagnie]] negotiated every major settlement between [[1641]] and her death in [[1675]].
 
-Tajul-alam's reign inaugurated the celebrated [[Female rule of Acheh (1641–1699)|female rule of Acheh]] (1641–1699), the period during which the sultanate was successively held by four queens. Her accession followed the death of her husband [[Iskandar Thani]], himself the successor of [[Sultan Meukuta Alam|Iskandar Muda]] (the great monarch who had raised Acheh to its zenith). The succession of a woman to the throne is one of the most distinctive features of Achehnese political history, and reflects both the matrilineal survivals in Achehnese society and the practical balance of power among the territorial chiefs who actually controlled the choice of sultan.
+## Accession and the female rule of Acheh
+
+Tajul-alam's reign inaugurated the celebrated [[Female rule of Acheh (1641–1699)|female rule of Acheh]] (1641–1699), the period during which the sultanate was successively held by four queens. Her accession followed the death of her husband [[Iskandar Thani|Iskandar Thani]] (also [[Iskander Tsani|Iskander Tsani]]), himself the successor of [[Sultan Meukuta Alam|Iskandar Muda]] (the great monarch who had raised Acheh to its zenith). The succession of a woman to the throne is one of the most distinctive features of Achehnese political history, and reflects both the matrilineal survivals in Achehnese society and the practical balance of power among the territorial chiefs who actually controlled the choice of sultan.
+
+Stapel records her accession in the context of the [[14 January|14 January]] [[1641]] fall of [[Malakka]]: "In 1641 a sultane came to power in Atjeh, daughter of [[Iskandar Muda of Atjeh|Iskander Moeda]]" (*In 1641 kwam in Atjeh een sultane aan het bewind, dochter van Iskander Moeda*). The same widow, at about forty years of age, "wilde … een Nederlander tot Prinsgemaal verheffen" — wished to elevate a Dutchman to the rank of prince-consort — a proposal over which both the *Rijksgrooten* and the *Hooge Regeering* at [[Batavia|Batavia]] placed their veto.
+
+## The ninefold seal and the royal imagination
 
 The ninefold seal, as [[C. Snouck Hurgronje]] explains, consists of a large central circle bearing the name of the reigning sultan, surrounded by eight smaller circles each containing the name of a celebrated predecessor. The four names that recur on almost every seal are those of the rulers to whom the former prosperity of Acheh and her adat-institutions were generally ascribed: [[Sultan Sayyidi al-Mukamnal|Sidi Meukamay]] (Alaedin al-Qahhar), [[Sultan Meukuta Alam]] (Iskandar Muda), Tajul-alam Sapiatodin, and [[Sultan Ahmat Shah]]. The presence of a woman among these four canonical names is striking, and testifies to the enduring respect in which the first sultana was held.
 
 The preamble of the letters patent granted by [[Tuanku Muhamat Dawot|Sultan Alaedin Muhamad Daud Shah Juhan]] to [[Panglima Meuseugit Raya]] on 4 Rabi' al-Awwal 1307 H ([[1889]]) explicitly invokes the mediation of "Her late Majesty Tajul-alam Sapiatodin", alongside [[Sultan Meukuta Alam|Meukuta Alam Iskandar Muda]], [[Sultan Ahmat Shah|Alaedin Ahmat Shah]], [[Sultan Mahmut Shah|Alaedin Mahmut Shah]], [[Sultan Alaedin Muhamat Shah|Alaedin Muhamat Shah]], [[Sultan Jauhar Alain Shah|Alaedin Jauhar al-Alam Shah]], and [[Sultan Mansur Shah|Alaedin Manso Shah]]. The continuing invocation of her name more than two centuries after her death is a measure of the place she holds in the Achehnese royal imagination.
 
-## Account from *Geschiedkundige Atlas van Nederland* (1928) — VOC treaties, 1641–1650
+## The 1641 treaty with Joost Schouten
 
-Dutch VOC records of the period, which do not preserve her name, refer to Tajul-alam simply as the "Sultane of Aceh" — recorded as the daughter of [[Sultan Iskandar Muda|Iskander Moeda]] — and document a sequence of commercial treaties by which she secured the Company's friendship and trading interest during her long reign.
+The sultane's accession in February [[1641]] — coincident with the [[14 January|14 January]] [[1641]] fall of [[Malakka|Portuguese Malakka]] to the Compagnie — produced the [[Treaty of Atjeh-VOC (15 February 1641)|first major Acehnese-Dutch treaty of her reign]], concluded "still in the first month of her reign — February" (*nog in de eerste maand van haar regeering — Februari*). The Compagnie's envoy was [[Joost Schouten|Joost Schouten]] (the [[Justus Schouten|Justus Schouten]] of the Godee Molsbergen account).
 
-### The 1641 treaty with Joost Schouten
+By the agreement the sultane "conceded to the Dutchmen the tolls in the pepper ports [[Tikoe]], [[Priaman]], [[Padang]] and [[Indrapoera]], and promised to admit no other European traders there" (*zij de Nederlanders concessies deed op het gebied der tollen in de peperhavens Tikoe, Priaman, Padang en Indrapoera, en beloofde, daar geen andere Europeesche handelaars toe te laten*). This treaty laid the groundwork for the more comprehensive agreements of [[1649]] and [[1650]]. The careful restriction of the exclusion to *European* traders left the Atjehers' own rights on the Westkust intact — a pattern that would recur in every subsequent Acehnese-Dutch treaty.
 
-In February [[1641]], shortly after her accession — and in the same month that the VOC completed its conquest of [[Malakka]] from the Portuguese — Tajul-alam concluded an agreement with the VOC envoy [[Joost Schouten]]. This [[Dutch–Aceh Treaty of 1641|treaty]] granted the Dutch concessions on tolls in the pepper ports of [[Tikoe]], [[Priaman]], [[Padang]], and [[Indrapoera]], and promised to exclude all other European traders from those ports — a major diplomatic success for the Company, whose newly enhanced regional power after the fall of Malakka may have influenced her decision to negotiate such favourable terms.
+## The 1649 treaty with Johan Truytman
 
-### The 1649 treaty with Johan Truytman
+The conquest of [[Malakka]] "sharpened the relationship with Atjeh again, and it became even very strained" (*verscherpte de verhouding met Atjeh weer en ze werd zelfs zéér gespannen*). The breakthrough came in [[1649]] when the envoy of the Hooge Regeering, [[Johan Truytman|Johan Truytman]], "in a tactful manner won the sultane for the Compagnie" (*op tactvolle wijze de sultane voor de Compagnie te winne*).
 
-After the VOC's conquest of Malakka had initially strained relations through the Company's aggressive trading policies on the Malay Peninsula, in [[1649]] the VOC envoy [[Johan Truytman]] successfully negotiated new treaties (signed in November of that year) — the [[Dutch–Aceh Treaty of 1649|Dutch–Aceh Treaty of 1649]] — that secured the Company important trade advantages across the entire West Coast of Sumatra, with the exclusion of all other European and indigenous nations except the Acehnese themselves, and with fixed pepper prices.
+He concluded in November of that year the [[Treaty of Atjeh-VOC (November 1649)|two treaties]] by which the Compagnie obtained "important commercial advantages on the whole West Coast, with the exclusion of all other European and native nations — except Atjehers — and a regulation of the pepper prices" (*de Compagnie belangrijke handelsvoordeelen kreeg op de geheele Westkust, met uitsluiting van alle andere Europeesche en Inlandsche naties — behalve Atjehers — en eene regeling van de peperprijzen*). The careful reservation of Atjeher rights — *behals Atjehers* — is structurally identical to the [[Treaty of Atjeh-VOC (15 February 1641)|Schouten treaty]] of 1641, but the geographic scope has dramatically widened: from four named pepper ports in 1641 to "the whole West Coast" in 1649.
 
-### The 1650 treaty on Perak tin
+## The 1650 treaty on Perak tin
 
-On [[15 August]] [[1650]], Tajul-alam concluded a further agreement — the [[Treaty of 1650 on Perak Tin|Treaty of 1650 on Perak Tin]] — that opened the tin trade of [[Perak]] exclusively to Acehnese and Dutch merchants, effectively shutting out other competitors. This was a critical step in the VOC's efforts to monopolize the tin trade in the region.
+The most concrete diplomatic achievement of the sultane's first decade was the [[Treaty of Atjeh-Perak (15 August 1650)|treaty of 15 August 1650]], in which "the queen of Atjeh bound herself to open the tin trade of [[Perak]], which stood under her suzerainty, only to Atjehers and Hollanders" (*de vorstin van Atjeh zich verbonden, den tinhandel in Perak alleen open te stellen voor Atjehers en Hollanders*). This monopoly secured the Compagnie half of the peninsula's tin and was the crown of the Truytman treaties.
 
-### Significance of the VOC treaties
+## The 1656 blockade and the arrest of Anthony van Voorst
 
-Tajul-alam's reign, on this account, represents a period of pragmatic accommodation with the VOC, balancing Aceh's traditional interests against the rising power of the Dutch. Her treaties established the framework for VOC trade on Sumatra's West Coast for decades to come and helped secure Aceh's position as a key pepper and tin supplier, even as the sultanate's autonomy was progressively narrowed by Dutch commercial demands.
+Stapel emphasises that "the capriciousness of the Atjehers was proverbial" (*De wispelturigheid der Atjehers was evenwel sprekwoordelijk geworden*), and the sultane's reign gave repeated demonstration of it. The Compagnie's merchants on the West Coast, in buying pepper and camphor, repeatedly suffered difficulties from the Atjehsche governors there. When oral and written protests failed, Batavia in [[1656]] resolved to blockade Atjeh's coasts — the [[Blockade of Atjeh (1656)|1656 blockade]].
+
+The sultane's response was sharp. Rather than submit, "the sultane had the chief of the Compagnie's trade on the West Coast, [[Anthony van Voorst|Anthony van Voorst]], with all his officials arrested, and laid hands at the same time on the 'effects' of the Compagnie at Atjeh and on the West Coast" (*liet de sultane het opperhoofd van 's Compagnies handel op de Westkust, Anthony van Voorst, met al zijn ambtenaren in arrest nemen, en legde tevens beslag op de 'effecten' der Compagnie te Atjeh en aan de Westkust*). The episode reveals the sultane as a ruler willing to use the persons and property of Compagnie officials as leverage — a tactic that forced Batavia to undertake the [[1657]]–[[1659]] expeditions that produced the [[Treaty of Atjeh-VOC (5 October 1659)|peace of 5 October 1659]].
+
+## The 1659 peace and after
+
+The [[Treaty of Atjeh-VOC (5 October 1659)|peace of 5 October 1659]] was negotiated through the deputation of [[Jacob de Keyser|Jacob de Keyser]] and [[Balthasar Bort|Balthasar Bort]], who "obtained on 5 October the ratification by the sultane" (*verkreeg den 5den October de ratificatie door de sultane*). The Compagnie was to receive compensation for the damage suffered in the arrest of its people and goods; on the West Coast trade was to be carried on only by Atjehers and the Compagnie, and the latter was to re-establish a lodge (*loge*) at Atjeh. A separate regulation covered [[Perak]]: half of the tin to Atjeh, half to the Compagnie, at 30 reals the bar (rising to 32½ once Dutch arrears were satisfied).
+
+Stapel stresses the limits of this settlement. Despite the 1659 treaty and despite the sultane's personal participation, "the Atjehsche governors" on the West Coast continued to levy tolls and other rights on the pepper sold by the [[Menangkabau]]s to the Compagnie — a permanent source of friction that ultimately drove the Compagnie into the secret [[Painansch Contract]] of [[1663]] with the Menangkabau rulers.
+
+## Late reign and death
+
+The sultane's authority waned visibly in her last decade. The secret negotiations of [[Jan van Groenewegen|Jan van Groenewegen]] in [[1662]] drew the Menangkabau chiefs away from "the croone of Atchin" (*de croone van Atchin*) and toward the Compagnie's protection, and "despite all secrecy the Atjehers got wind of it" (*Ondanks alle geheimhouding kregen de Atjehers er toch de lucht van*). At Atjeh itself "the resident of the Compagnie established there noticed the displeasure; he was no longer admitted to the court" (*hij werd niet meer tot het hof toegelaten*). The Compagnie's withdrawal of its factories from both Atjeh and Perak in [[1663]] deepened the unease of the West Coast populations, especially those of [[Tikoe]] and [[Priaman]], which lay closest to Atjeh.
+
+The sultane died in [[1675]], by which point Atjeh's hold on the Westkust had been broken at [[Paoeh]], [[Indrapoera]], [[Padang]] and [[Priaman]] by the combined work of [[Jacob Cau|Jacob Cau]], [[Abraham Versprect|Abraham Versprect]] and [[Jacob Jorisse Pits|Jacob Jorisse Pits]]. Her successors inherited a kingdom stripped of its Sumatran provinces and a Dutch frontier that now reached almost to the borders of Atjeh proper.
+
+## Significance
+
+In the wider frame of Acehnese history the sultane's reign is the hinge. It opens with Atjeh still commanding the West Coast and the Compagnie a single assistant resident at the Acehnese court; it closes with the [[Painansch Contract]] (6 July 1663) signed, the [[Battle of Paoeh (12 March 1666)|Paoeh expedition]] imminent, and the Westkust a Dutch sphere of influence in everything but name. The sultane was no passive victim — her arrest of [[Anthony van Voorst]] in [[1656]] was a sovereign act of reprisal — but the structural forces of Dutch commercial pressure and Menangkabau restiveness were beyond any single ruler's capacity to resist. Her reign is also the last period in which Atjeh was treated by Batavia as a co-equal power: under her successors, Acehnese envoys became supplicants, and by the 1680s the Atjehsch-gezinde partij on the Westkust had been reduced to a faction the Compagnie could simply expel.
+
+Tajul-alam's reign, on the VOC-treaty account, represents a period of pragmatic accommodation with the VOC, balancing Aceh's traditional interests against the rising power of the Dutch. Her treaties established the framework for VOC trade on Sumatra's West Coast for decades to come and helped secure Aceh's position as a key pepper and tin supplier, even as the sultanate's autonomy was progressively narrowed by Dutch commercial demands. The continuing invocation of her name on the ninefold seals more than two centuries after her death is a measure of the place she holds in the Achehnese royal imagination.
 
 ## See Also
 
-- [[Sultan Sayyidi al-Mukamnal]]
+- [[Iskandar Muda of Atjeh]]
 - [[Sultan Meukuta Alam]]
 - [[Iskandar Thani]]
+- [[Iskander Tsani]]
 - [[Female rule of Acheh (1641–1699)]]
 - [[Sarakata with chab sikureu'eng]]
+- [[Sultan Sayyidi al-Mukamnal]]
 - [[Sultan Ahmat Shah]]
+- [[Treaty of Atjeh-VOC (15 February 1641)]]
 - [[Dutch–Aceh Treaty of 1641]]
+- [[Treaty of Atjeh-VOC (November 1649)]]
 - [[Dutch–Aceh Treaty of 1649]]
+- [[Treaty of Atjeh-Perak (15 August 1650)]]
 - [[Treaty of 1650 on Perak Tin]]
+- [[Blockade of Atjeh (1656)]]
+- [[Treaty of Atjeh-VOC (5 October 1659)]]
+- [[Painansch Contract]]
+- [[Anthony van Voorst]]
 - [[Joost Schouten]]
 - [[Johan Truytman]]
+- [[Jacob de Keyser]]
+- [[Balthasar Bort]]
+- [[Jan van Groenewegen]]
+- [[Jacob Cau]]
+- [[Abraham Versprect]]
+- [[Jacob Jorisse Pits]]
+- [[Vereenigde Oost-Indische Compagnie]]
 - [[VOC trading post at Aceh]]
+- [[Westkust van Sumatra]]
 - [[Malakka]]
 - [[Perak]]
+- [[Tikoe]]
+- [[Priaman]]
+- [[Padang]]
+- [[Indrapoera]]
+- [[Menangkabau]]
+- [[Paoeh]]
 - [[1641]]
 - [[1649]]
 - [[1650]]
+- [[1656]]
+- [[1659]]
+- [[1663]]
+- [[1675]]
 
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Geschiedkundige Atlas van Nederland: De Archipel en het Maleische Schiereiland in 1619 – Idem in 1650 – De Compagnie buiten den Archipel in 1650*, by Dr. F. W. Stapel ('s-Gravenhage: Martinus Nijhoff, 1928), pp. 30–31.
----
 
+*De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 27, 30–31, 64–65 (tekst bij de bladen 2 en 3: *De Archipel en het Maleische Schiereiland in 1650*, *De Archipel in 1684*, *Malakka en het Maleische Schiereiland*) en blz. 14–23 (tekst bij blad 4: *Atjeh en de Westkust van Sumatra in 1684*).
 
-**Sultan Tajul-alam** — also known as **Sapiatodin**, and remembered in Achehnese tradition as the **first sultana** — ruled Acheh from [[1639]] or [[1641]] until [[1675]]. She is one of the four monarchs whose names recur on virtually every *chab sikureu'eng* — the [[Sarakata with chab sikureu'eng|ninefold seal]] of the sultans of Acheh — and her mediation (*afwah*) is invoked in the preamble of sultans' letters patent (*sarakata*).
-
-Tajul-alam's reign inaugurated the celebrated [[Female rule of Acheh (1641–1699)|female rule of Acheh]] (1641–1699), the period during which the sultanate was successively held by four queens. Her accession followed the death of her husband [[Iskandar Thani]], himself the successor of [[Sultan Meukuta Alam|Iskandar Muda]] (the great monarch who had raised Acheh to its zenith). The succession of a woman to the throne is one of the most distinctive features of Achehnese political history, and reflects both the matrilineal survivals in Achehnese society and the practical balance of power among the territorial chiefs who actually controlled the choice of sultan.
-
-The ninefold seal, as [[C. Snouck Hurgronje]] explains, consists of a large central circle bearing the name of the reigning sultan, surrounded by eight smaller circles each containing the name of a celebrated predecessor. The four names that recur on almost every seal are those of the rulers to whom the former prosperity of Acheh and her adat-institutions were generally ascribed: [[Sultan Sayyidi al-Mukamnal|Sidi Meukamay]] (Alaedin al-Qahhar), [[Sultan Meukuta Alam]] (Iskandar Muda), Tajul-alam Sapiatodin, and [[Sultan Ahmat Shah]]. The presence of a woman among these four canonical names is striking, and testifies to the enduring respect in which the first sultana was held.
-
-The preamble of the letters patent granted by [[Tuanku Muhamat Dawot|Sultan Alaedin Muhamad Daud Shah Juhan]] to [[Panglima Meuseugit Raya]] on 4 Rabi' al-Awwal 1307 H ([[1889]]) explicitly invokes the mediation of "Her late Majesty Tajul-alam Sapiatodin", alongside [[Sultan Meukuta Alam|Meukuta Alam Iskandar Muda]], [[Sultan Ahmat Shah|Alaedin Ahmat Shah]], [[Sultan Mahmut Shah|Alaedin Mahmut Shah]], [[Sultan Alaedin Muhamat Shah|Alaedin Muhamat Shah]], [[Sultan Jauhar Alain Shah|Alaedin Jauhar al-Alam Shah]], and [[Sultan Mansur Shah|Alaedin Manso Shah]]. The continuing invocation of her name more than two centuries after her death is a measure of the place she holds in the Achehnese royal imagination.
-
-## Account from *Geschiedkundige Atlas van Nederland* (1928) — VOC treaties, 1641–1650
-
-Dutch VOC records of the period, which do not preserve her name, refer to Tajul-alam simply as the "Sultane of Aceh" — recorded as the daughter of [[Sultan Iskandar Muda|Iskander Moeda]] — and document a sequence of commercial treaties by which she secured the Company's friendship and trading interest during her long reign.
-
-### The 1641 treaty with Joost Schouten
-
-In February [[1641]], shortly after her accession — and in the same month that the VOC completed its conquest of [[Malakka]] from the Portuguese — Tajul-alam concluded an agreement with the VOC envoy [[Joost Schouten]]. This [[Dutch–Aceh Treaty of 1641|treaty]] granted the Dutch concessions on tolls in the pepper ports of [[Tikoe]], [[Priaman]], [[Padang]], and [[Indrapoera]], and promised to exclude all other European traders from those ports — a major diplomatic success for the Company, whose newly enhanced regional power after the fall of Malakka may have influenced her decision to negotiate such favourable terms.
-
-### The 1649 treaty with Johan Truytman
-
-After the VOC's conquest of Malakka had initially strained relations through the Company's aggressive trading policies on the Malay Peninsula, in [[1649]] the VOC envoy [[Johan Truytman]] successfully negotiated new treaties (signed in November of that year) — the [[Dutch–Aceh Treaty of 1649|Dutch–Aceh Treaty of 1649]] — that secured the Company important trade advantages across the entire West Coast of Sumatra, with the exclusion of all other European and indigenous nations except the Acehnese themselves, and with fixed pepper prices.
-
-### The 1650 treaty on Perak tin
-
-On [[15 August]] [[1650]], Tajul-alam concluded a further agreement — the [[Treaty of 1650 on Perak Tin|Treaty of 1650 on Perak Tin]] — that opened the tin trade of [[Perak]] exclusively to Acehnese and Dutch merchants, effectively shutting out other competitors. This was a critical step in the VOC's efforts to monopolize the tin trade in the region.
-
-### Significance of the VOC treaties
-
-Tajul-alam's reign, on this account, represents a period of pragmatic accommodation with the VOC, balancing Aceh's traditional interests against the rising power of the Dutch. Her treaties established the framework for VOC trade on Sumatra's West Coast for decades to come and helped secure Aceh's position as a key pepper and tin supplier, even as the sultanate's autonomy was progressively narrowed by Dutch commercial demands.
-
-## See Also
-
-- [[Sultan Sayyidi al-Mukamnal]]
-- [[Sultan Meukuta Alam]]
-- [[Iskandar Thani]]
-- [[Female rule of Acheh (1641–1699)]]
-- [[Sarakata with chab sikureu'eng]]
-- [[Sultan Ahmat Shah]]
-- [[Dutch–Aceh Treaty of 1641]]
-- [[Dutch–Aceh Treaty of 1649]]
-- [[Treaty of 1650 on Perak Tin]]
-- [[Joost Schouten]]
-- [[Johan Truytman]]
-- [[VOC trading post at Aceh]]
-- [[Malakka]]
-- [[Perak]]
-- [[1641]]
-- [[1649]]
-- [[1650]]
-
-## Sources
-
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
-
-*Geschiedkundige Atlas van Nederland: De Archipel en het Maleische Schiereiland in 1619 – Idem in 1650 – De Compagnie buiten den Archipel in 1650*, by Dr. F. W. Stapel ('s-Gravenhage: Martinus Nijhoff, 1928), pp. 30–31.
+*Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen (Amsterdam: N.V. Swets & Zeitlinger, 1932), on the Soury embassy of 1641 and the proposal to elevate a Dutchman to prince-consort.
