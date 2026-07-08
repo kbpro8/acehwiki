@@ -30,6 +30,12 @@ Alers stresses that Atjeh's rebellion, unlike the parallel risings of [[Kahar Mu
 
 The task of reconquest fell to Colonel [[Simbolon|Simbolon]] of Territorium I, Bukit Barisan. His counter-offensive, launched in early October 1953, retook [[Seulimeum|Seulimeum]] and [[Bajeunen|Bajeunen]] on [[3 October]], [[Meureudu|Meureudu]] after heavy fighting on [[10 October]], [[Blangkedjeren|Blangkedjeren]] and [[Bireuën|Biruën]] on [[20 October]], and finally [[Takengon|Takengon]] on [[24 November]] [[1953]] in a pincer movement from Blangkedjeren and Bireuën. By the end of November 1953, all major towns and connecting roads were back in government hands, sharply curtailing arms smuggling from [[Singapore|Singapore]], although sporadic fierce attacks continued and, as in West Java and South Celebes, the underlying insurgency became a protracted, unresolved affair. On [[20 October]] [[1953]] [[Mr. S. M. Amin|Mr. S. M. Amin]] took office as the new Governor of [[North Sumatra]], an appointment Alers judges was received with considerable local scepticism.
 
+## Account from *De staatkundige ontwikkeling van Indonesië* ([[1955]]) — the chronological survey
+
+The *[[De staatkundige ontwikkeling van Indonesië in de 20e eeuw|staatkundige ontwikkeling]]* survey, published by the [[Koninklijk Instituut voor de Tropen|Koninklijk Instituut voor de Tropen]] in a revised and updated edition closed in May [[1955]], records the Atjeh revolt in its chronological survey under the year [[1953]]: "Augustus 1953 — Onder leiding van Daoed Beurouch breekt een opstand uit in Atjeh" — In August 1953, under the leadership of Daud Beureu'eh, a revolt breaks out in Atjeh. The survey likewise records, in its chapter on the Darul Islam, that the [[Negara Islam Indonesia|Darul Islam]] operated in "West-Java, Atjeh en Zuid-Celebes" — West Java, Atjeh, and South Celebes — alongside the areas of West Java and South Celebes where the Darul Islam's bands were more generally active.
+
+The August 1953 date given by the survey for the outbreak of the revolt under Daud Beureu'eh's leadership is slightly earlier than the [[21 September]] [[1953]] date of the formal proclamation of Atjeh's accession to the Negara Islam Indonesia recorded in the Alers account above. The discrepancy most plausibly reflects the difference between the beginning of the unrest — the "opstand breekt uit" (revolt breaks out) — and the formal proclamation of accession to the N.I.I.; the August date may refer to the beginning of the underground preparations or the first incidents, while the September date records the formal proclamation. The survey's concise entry — "Onder leiding van Daoed Beurouch breekt een opstand uit in Atjeh" — is the metropolitan Dutch retrospective on the revolt within the framework of the wider Indonesian political development, and it furnishes an independent source for the outbreak and for the leadership of Daud Beureu'eh.
+
 ## See Also
 
 - [[Teungkoe Moehamad Daoed Beureu-éh]]
@@ -44,7 +50,12 @@ The task of reconquest fell to Colonel [[Simbolon|Simbolon]] of Territorium I, B
 - [[Kutaradja]]
 - [[Takengon]]
 - [[1953]]
+- [[De staatkundige ontwikkeling van Indonesië in de 20e eeuw]]
+- [[Koninklijk Instituut voor de Tropen]]
+- [[Kartosuwirjo]]
 
 ## Source
 
 *Om een rode of groene Merdeka: Tien jaren binnenlandse politiek Indonesië, 1943–1953*, by Henri J. H. Alers (Eindhoven: Uitgeverij Vulkaan, 1956), Chapter VII §35 "De Negara Islam Indonesia in Atjeh," pp. 265–274.
+
+*De staatkundige ontwikkeling van Indonesië in de 20e eeuw*, uitgave van het Bureau Cursussen en Vertalingen van het Koninklijk Instituut voor de Tropen (Amsterdam: Koninklijk Instituut voor de Tropen, revised ed. 1955). Chronologisch overzicht: "Augustus 1953 — Onder leiding van Daoed Beurouch breekt een opstand uit in Atjeh"; and Hoofdstuk VII: "het optreden van de Darul Islam in West-Java, Atjeh en Zuid-Celebes."
