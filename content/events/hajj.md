@@ -40,6 +40,16 @@ A further connection between the *haj* and Achehnese society is mentioned in Sno
 
 The pilgrimage thus enters Achehnese family law in another connection — the so-called "debt to Allah" which survives a man's death and must be discharged from his estate. Where the deceased has been in a position to perform the *haj* during his lifetime but has availed himself of the permission given by the Shafi'ite school to postpone indefinitely the fulfilment of this duty, the expenses of a [[Haji by deputy (badal)|deputy haji (*badal*)]] are deducted from the effects after death. The performance of the pilgrimage by deputy was thus a recognised expedient of Achehnese inheritance practice; and the costs of that deputy-pilgrimage, like the fees for the original certificate, eventually passed through the hands of the uleebalang.
 
+## Additional account from *De Islaam in Indonesië* ([[1947]]) — the Haddji title
+
+[[R. L. Mellema|Mellema]], in his comparative ethnological survey *[[De Islaam in Indonesië (Mellema, 1947)|De Islaam in Indonesië (in het bijzonder op Java)]]* (Amsterdam, [[1947]]), records the social prestige of the Haddji title in Atjeh and the wider archipelago from the comparative side, complementing the Snouckian account given above. In his chapter on the *haddj* — the fifth pillar of the Muslim law, the pilgrimage to [[Mecca]] — Mellema describes the position of the returned pilgrim in the Indonesian society of the late nineteenth and early twentieth centuries. In the earlier period, when a much smaller number of Indonesians performed the pilgrimage owing to the far greater difficulties of the journey, the returned Haddji could still occupy a singular place in the stratified society of the archipelago: "Het kon gebeuren, dat zo iemand zelfs nog bij zijn leven een zekere graad van heiligheid bereikte" — it could happen that such a person attained, even in his lifetime, a certain degree of holiness.
+
+The Dutch, Mellema continues, saw in the returned Haddjis a kind of "priesters" (priests) — especially when, after their return, they continued to wear Arab dress or at least distinguished themselves from their fellow-countrymen by a white cloth wound round the head in the manner of a turban. Mellema is careful to add, however, that "de pelgrims zijn na hun terugkeer geen priesters" — the pilgrims are not priests after their return — since Islam knows no priesthood; and that the majority of the pilgrims returned no different from how they had departed, and were not, in general, "infected" in Mecca with ideas dangerous to the state. The Dutch suspicion of the returned Haddji as a potential carrier of pan-Islamic or anti-colonial politics is thus, in Mellema's account, overstated.
+
+The returned Haddji who had spent some years in Mecca in the study of the law and the faith might feel called to impart his newly acquired knowledge to his "onwetende landgenoten" (ignorant compatriots). Such a man would settle as *godsdienstleraar* (religious teacher) — *goeroe* — and give instruction in the village prayer-house, known in Atjeh as the [[Meunasah|meunasah]] or [[Rangkang|rangkang]]. The Haddji title thus opened the way to the office of the religious teacher, and the office of the religious teacher was, in turn, the point of entry into the personnel of the mosque and, potentially, into the class of the oelama's.
+
+It is in connection with the [[Oelama zakaat war-chest in the Atjehoorlog (Mellema 1947)|diversion of the zakaat as a war-chest]] during the [[Aceh War|Atjehoorlog]] that Mellema records the political significance of the Haddji title in Atjeh. The *[[oelama|oelama]]*'s who, during the Atjehoorlog, acted as *zakaatinner* (zakaat-collectors) and formed a *particuliere krijgskas* (private war-chest) from which they paid their followers, thereby gained "een persoonlijk overwicht op de bevolking" (a personal ascendancy over the population) and "groter invloed … dan de officiele hoofden bezatten" (greater influence than the official chiefs — the [[Uleebalang|uleebalang]]s — possessed). The ascendancy so gained was further strengthened when the oelama could in addition assume the title of Haddji: "Wanneer zij dan daarenboven nog de titel van Haddji konden aannemen, omdat zij een tocht naar Mekka hadden volbracht, kon dit slechts het aanzien, dat zij in de ogen van het volk genoten, verhogen." The Haddji title is thus, in Mellema's account, the religious-cultural complement to the fiscal-military base supplied by the zakaat: together, the two made the oelama's the effective rivals of the uleebalangs in the society of wartime Atjeh. The Haddji title's prestige is treated at length in [[Haddji title prestige in Atjeh (Mellema 1947)]].
+
 ## See Also
 
 - [[Haj]]
@@ -53,7 +63,17 @@ The pilgrimage thus enters Achehnese family law in another connection — the so
 - [[Jakeuet (zakat)]]
 - [[Pitrah]]
 - [[Tcase]]
+- [[De Islaam in Indonesië (Mellema, 1947)]]
+- [[R. L. Mellema]]
+- [[Haddji title prestige in Atjeh (Mellema 1947)]]
+- [[Oelama zakaat war-chest in the Atjehoorlog (Mellema 1947)]]
+- [[Meunasah]]
+- [[Rangkang]]
+- [[Oelama]]
+- [[1947]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*De Islaam in Indonesië (in het bijzonder op Java)*, by Drs. R. L. Mellema. Mededeling No. LXXVII, Afd. Volkenkunde No. 25. Amsterdam: Koninklijke Vereniging "Indisch Instituut," 1947. "De haddj, de 5e zuil van de wet," pp. 36–39; and "De zakaat, de 3e zuil van de wet," pp. 34–36; and *Register*, s.v. *haddj* and *haddji*.

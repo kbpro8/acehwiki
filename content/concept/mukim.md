@@ -45,6 +45,10 @@ At the head of the moekim stood the [[Imeum|imeum]], whose original task was "ee
 Under a strong oelèëbalang, the imeum was "niet veel meer dan tusschenpersoon" — little more than an intermediary — but under a weak one an energetic imeum could place himself, "zooveel zijn eigen gebied betreft, bijna geheel in diens plaats." The moekim, like the [[Gampong|gampong]], was retained in the Dutch administrative reorganisation as a cadastral and ecclesiastical subdivision: the three [[Sagi|sagi]]'s of [[Groot-Atjeh|Groot-Atjeh]] were named for their nominal moekim counts — the XXII, XXVI, and XXV Moekims — designations "behouden gebleven ook nadat door toename van de bevolking, het aantal moekims is toegenomen."
 
 
+## Additional account from *De Islaam in Indonesië* ([[1947]]) — the etiology of the territorial moekim
+
+[[R. L. Mellema|Mellema]], in his comparative ethnological survey *[[De Islaam in Indonesië (Mellema, 1947)|De Islaam in Indonesië (in het bijzonder op Java)]]* (Amsterdam, [[1947]]), gives an etiology of the moekim as a territorial parish that complements the Snouckian and *De Buitenbezittingen* accounts treated above. In his discussion of the distinction between the *moskee* (the Friday mosque) and the *langgar* (the prayer-house without Friday service), Mellema observes that the Muslim law requires the Friday service to be held only where at least forty adult male Muslims are settled as permanent residents (*moekim* in the canonical sense). In [[Acheh|Atjeh]], he records, it could happen that several *desa*'s joined together — "dat verschillende desa's zich aaneensloten om gezamenlijk een moskee met Vrijdagsdienst te kunnen houden" — to maintain, jointly, a mosque with a Friday service. From this cooperation "zijn nieuwe territoriale gemeenten ontstaan, eveneens met de naam moekim aangeduid" — new territorial communes arose, likewise designated by the name *moekim* — at the head of which stood an *imeum*, "Atjeh's voor imaam." The distinctive contribution of Mellema's account is the canonical-genetic framing: the territorial moekim arises, in his presentation, as an institutional solution to the canonical requirement of the Friday-service quorum of forty resident men. The term *moekim* thus undergoes a semantic extension — from its canonical sense of "permanent resident" to its Atjehnese sense of "territorial congregation." This etiology is recorded in the *Register* of the survey under *Moekim* "(gebiedsdeel in Atjeh)" — "territorial unit in Atjeh."
+
 ## See Also
 
 - [[Gampong]]
@@ -62,9 +66,15 @@ Under a strong oelèëbalang, the imeum was "niet veel meer dan tusschenpersoon"
 - [[Groot-Atjeh]]
 - [[Adat]]
 - [[Hoeköm]]
+- [[De Islaam in Indonesië (Mellema, 1947)]]
+- [[R. L. Mellema]]
+- [[Moekim and Imeum in Atjeh (Mellema 1947)]]
+- [[1947]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 5–6, pp. 58–88.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 42–44. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, pp. 83–84, 91.
+
+*De Islaam in Indonesië (in het bijzonder op Java)*, by Drs. R. L. Mellema. Mededeling No. LXXVII, Afd. Volkenkunde No. 25. Amsterdam: Koninklijke Vereniging "Indisch Instituut," 1947. "Verschil tussen moskee en langgar," p. 16; and *Register*, s.v. *Moekim* "(gebiedsdeel in Atjeh)."

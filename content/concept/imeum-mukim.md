@@ -32,6 +32,14 @@ The drift of the office away from its religious foundation was, in [[Christiaan 
 The imeum was viewed by the gampongs of his circle "als hun oelèëbalang" — as their oelèëbalang — and was colloquially called the *oelèëbalang tjoet* — "little oelèëbalang." The territorial chief for his part used the imeum as "zijn gemachtigde om te helpen uitvoeren en beslissingen binnen zijn eigen gebied te geven" — his agent to help enforce commands and decisions within his own territory. Like the [[Keutjhï|Keutjhï]], the imeum had no formal judicial authority, but he could act as arbiter "voor die zaken, welke het gamponghoofd niet kon behandelen, aangezien er gampongs in het geschil betrokken waren" — for disputes the gampong head could not handle because more than one gampong was involved. "Onder een krachtig oelèëbalang is de imeum niet veel meer dan tusschenpersoon; onder een zwak oelèëbalang weet een energiek imeum zich, zooveel zijn eigen gebied betreft, bijna geheel in diens plaats te stellen."
 
 
+## Additional account from *De Islaam in Indonesië* ([[1947]]) — the territorial moekim
+
+[[R. L. Mellema|Mellema]], in his comparative ethnological survey *[[De Islaam in Indonesië (Mellema, 1947)|De Islaam in Indonesië (in het bijzonder op Java)]]* (Amsterdam, [[1947]]), gives an etiology of the moekim as a territorial parish that complements the Snouckian and *De Buitenbezittingen* accounts. In his discussion of the distinction between the *moskee* (*masdjid*, the mosque in which the Friday service is held) and the *langgar* (the prayer-house in which it is not), Mellema observes that the Muslim law requires the Friday service to be held only where at least "een veertigtal mannelijke, meerderjarige Moslims" — some forty adult male Muslims — are settled as permanent residents (*moekim* in the canonical sense). This requirement is "uiteraard steeds het geval op de residentsschapshoofdplaats" — naturally always satisfied at the seat of a Residency — and it is for this reason that one finds a mosque, properly so called, only in such places.
+
+In [[Acheh|Atjeh]], however, Mellema records a distinctively different arrangement: "In Atjeh kon het gebeuren, dat verschillende desa's zich aaneensloten om gezamenlijk een moskee met Vrijdagsdienst te kunnen houden" — in Atjeh it could happen that several *desa*'s joined together in order to be able, jointly, to maintain a mosque with a Friday service. The canonical number of forty resident men was thus achieved not within a single settlement but across a cluster of settlements; and the cluster, once formed, became a new territorial unit: "uit deze samenwerking zijn nieuwe territoriale gemeenten ontstaan, eveneens met de naam moekim aangeduid" — from this cooperation new territorial communes arose, likewise designated by the name *moekim*. At the head of each such territorial moekim stood an *imeum* — "Atjeh's voor imaam" — that is, the Atjehnese form of the Arabic *imām*.
+
+The distinctive contribution of Mellema's account is the canonical-genetic framing: the territorial moekim arises, in his presentation, as an institutional solution to the canonical requirement of the Friday-service quorum. Where [[C. Snouck Hurgronje|Snouck Hurgronje]] (in the account drawn on above) and the *De Buitenbezittingen* handbook describe the historical "drift" of the imeum's office away from its religious foundation toward adat chieftaincy, Mellema foregrounds the canonical origin: the moekim as the parish formed by several villages combining to satisfy the forty-man quorum, and the imeum as the head of that parish. The term *moekim* thus undergoes, in Mellema's account, a semantic extension — from its canonical sense of "permanent resident" (the man whose presence, in numbers of forty, authorises the Friday service) to its Atjehnese sense of "territorial congregation." This etiology is the Mellema-source counterpart to the fuller institutional anatomy given in the Snouckian tradition, and it is recorded in the *Register* of the survey under both *Imeum* "(in Atjeh hoofd van een moekim)" and *Moekim* "(gebiedsdeel in Atjeh)."
+
 ## See Also
 
 - [[Mukim]]
@@ -50,9 +58,15 @@ The imeum was viewed by the gampongs of his circle "als hun oelèëbalang" — a
 - [[Adat]]
 - [[Christiaan Snouck Hurgronje]]
 - [[Groot-Atjeh]]
+- [[De Islaam in Indonesië (Mellema, 1947)]]
+- [[R. L. Mellema]]
+- [[Moekim and Imeum in Atjeh (Mellema 1947)]]
+- [[1947]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 6–7, pp. 80–120.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 43–44. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, pp. 83–84, 91.
+
+*De Islaam in Indonesië (in het bijzonder op Java)*, by Drs. R. L. Mellema. Mededeling No. LXXVII, Afd. Volkenkunde No. 25. Amsterdam: Koninklijke Vereniging "Indisch Instituut," 1947. "Verschil tussen moskee en langgar," p. 16; and *Register*, s.v. *Imeum* "(in Atjeh hoofd van een moekim)" and *Moekim* "(gebiedsdeel in Atjeh)."
