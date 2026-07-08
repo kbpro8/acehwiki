@@ -77,6 +77,12 @@ His portrait appears in the atlas alongside those of [[Governor Van Heutsz]] and
 
 Snouck Hurgronje's work established a new approach to colonial governance, combining ethnographic understanding with practical policy recommendations. His analysis of Acehnese society—particularly the distinction between political and religious authority—shaped Dutch policy for decades and remains influential in Southeast Asian studies. The atlas's portrait of him as one of the "Great Men" of the late colonial period attests to the public recognition of his role in the consolidation of Dutch authority over the archipelago.
 
+## Additional account from *Beginselen en Stelsel* ([[1950]]) — De Atjehers as the source for the Atjeh rechtskring
+
+[[B. ter Haar BzN|B. ter Haar BzN]], in his *[[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)|Beginselen en Stelsel van het Adatrecht]]* (first ed. [[1939]]; 4th ed. [[1950]]), identifies [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *[[Snouck Hurgronje's De Atjehers (1893-94)|De Atjehers]]* ([[1893]]–[[1894]]) as the principal source for the *rechtskring Atjeh* — the first of the nineteen legal circles into which Ter Haar divides the archipelago. The work is, Ter Haar writes, "dus van vóór den legger" — thus from before the [adatrecht] foundation — yet "desalniettemin in dit verband niet mag ontbreken" — nevertheless, must not be absent in this connection. The work of [[J. Kreemer|J. J. Kreemer]], *Atjeh* ([[1922]]–[[1923]]), is noted as bringing, "na Snouck Hurgronje en Van Vollenhoven geen nieuws" — after Snouck Hurgronje and Van Vollenhoven, no news. The Atjeh legal circle is thus one of the *streken* (regions) for which a full, whole-stoff-covering treatment of the adatrecht is available as part of a land-and-people description — the category to which the Gayo legal circle (Snouck Hurgronje's *Het Gajoland*, [[1903]]), the Toba and Dairi Batak legal circle (Ypes, [[1932]]), the Nias legal circle (Schröder, [[1917]]), and the Toradja legal circle (Adriani and Kruyt, [[1912]], [[1938]]) also belong.
+
+[[B. ter Haar BzN|Ter Haar]]'s account draws on *De Atjehers* for the concrete Atjehnese adat-law institutions cited throughout the *Beginselen en Stelsel* as illustrations of general Indonesian legal types — the *[[Djinamée (Atjehnese marriage gift)|djinamée]]* (the Atjehnese marriage gift), the *[[Wang pemasoeqan (Atjeh)|wang pemasoeqan]]* (the Atjehnese *entree*), the *[[Sanbod-aanname (idjaab kaboel) in Atjeh|sanbod-aanname (idjaab kaboel)]]* (the Muslim-derived offer-and-acceptance formula in Atjehnese land-transactions), the *[[Peungklēh (Atjehnese trousseau)|peungklēh]]* (the Atjehnese trousseau), and the *maatschapjes tot het slachten van buffels in Atjeh* (the Atjehnese buffalo-slaughtering partnerships) — and the account places the *rechtskring Atjeh* first in the overview of the nineteen legal circles of the archipelago. The full treatment of the Atjeh adatrecht, as drawn from Snouck Hurgronje and as systematised by Ter Haar, is in [[Atjeh adatrecht (Ter Haar account)]].
+
 ## See Also
 
 - [[A. S. O'Sullivan]]
@@ -142,6 +148,16 @@ Snouck Hurgronje's work established a new approach to colonial governance, combi
 - [[generaal Van Swieten]]
 - [[P. H. van der Kemp]]
 - [[Datoek]]
+- [[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)]]
+- [[B. ter Haar BzN]]
+- [[Atjeh adatrecht (Ter Haar account)]]
+- [[Djinamée (Atjehnese marriage gift)]]
+- [[Wang pemasoeqan (Atjeh)]]
+- [[Sanbod-aanname (idjaab kaboel) in Atjeh]]
+- [[Peungklēh (Atjehnese trousseau)]]
+- [[J. Kreemer]]
+- [[1939]]
+- [[1950]]
 ## Sources
 
 *The Achehnese*, Vol. I & II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -157,3 +173,5 @@ Snouck Hurgronje's work established a new approach to colonial governance, combi
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Plate 23 (Great Men from the Latest History of the Dutch East Indies).
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja, the chapter on bestuursambtenaren, and the chapter *Jagerslatijn*.
+
+*Beginselen en Stelsel van het Adatrecht*, door Mr. B. ter Haar Bzn. Vierde ongewijzigde druk. Groningen, Djakarta: J. B. Wolters, 1950. Pp. 245–246 (sources for the rechtskring Atjeh).

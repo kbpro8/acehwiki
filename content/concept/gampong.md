@@ -44,6 +44,12 @@ The gampong was governed by three elements: the [[Keutjhï|Keutjhï]] with one o
 Although the Keutjhï lacked any formal judicial authority — "geenerlei rechtsmacht," notes the source, for all serious cases had to be sent up to the [[Oelèëbalang|oelèëbalang]] — his role as intermediary, mediator, and representative of his community's interests was indispensable. The handbook concludes that the gampong and its administration "den hoeksteen vormen van het Inlandsch Bestuur in Atjeh" and "moet blijven vormen" — must continue to form — the cornerstone of native government in Atjeh.
 
 
+## Additional account from *Beginselen en Stelsel* ([[1950]]) — the gampong as territorial community
+
+[[B. ter Haar BzN|B. ter Haar BzN]], in his *[[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)|Beginselen en Stelsel van het Adatrecht]]* (first ed. [[1939]]; 4th ed. [[1950]]), cites the *atjehse gampong (meunasah)* as a typical example of a territorial community — a community in which the genealogical factor, "de genealogische faktor, de verbondenheid der personen krachtens gemeenschappelijke afstamming" (the genealogical factor, the connectedness of persons by virtue of common descent), has no significance. Such communities are, Ter Haar writes, "talrijk" (numerous) in the archipelago: "de javaanse, soendase, madoerese en balise désa, de atjehse gampong (meunasah), de dorpen in het maleise gebied en op Bangka en Belitoeng, een deel der streekgemeenschappen van Zuid-Sumatra, de dorps- en steekgemenschappen van Zuid-Celebes, de negorijen van de Minahasa en die van Ambon." The gampong is thus placed by Ter Haar within the typology of Indonesian village communities as a territorial — not a genealogical — community, on a par with the *désa* of Java and the *negorij* of Ambon.
+
+The placement is significant for the legal characterisation of the gampong: as a territorial community, the gampong admits of the accession of newcomers by residence and acceptance, and the genealogical descent of its members is not a criterion of membership. "Is echter eenmaal iemand van elders in het adatverband opgenomen," Ter Haar writes of such communities generally, "dan heeft hij dien-ten-gevolge de volle lasten te dragen en heeft hij de volle rechten der genoten" — once someone from elsewhere is taken up into the adat-verband, he has, in consequence, the full burdens to bear and the full rights of the genoten (community-members). The territorial character of the gampong is thus, in Ter Haar's account, the legal foundation of its openness to the accession of newcomers — a feature that distinguishes it from the genealogical communities (such as the Gajo and the Batak clans) in which membership is determined by descent.
+
 ## See Also
 
 - [[Mukim]]
@@ -63,9 +69,16 @@ Although the Keutjhï lacked any formal judicial authority — "geenerlei rechts
 - [[Christiaan Snouck Hurgronje]]
 - [[Groot-Atjeh]]
 - [[Hoeköm]]
+- [[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)]]
+- [[B. ter Haar BzN]]
+- [[Atjeh adatrecht (Ter Haar account)]]
+- [[1939]]
+- [[1950]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 2, 5, pp. 23–80.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 39–42. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, pp. 61 e.v., 79.
+
+*Beginselen en Stelsel van het Adatrecht*, door Mr. B. ter Haar Bzn. Vierde ongewijzigde druk. Groningen, Djakarta: J. B. Wolters, 1950. Pp. 17 (gampong as territorial community), 32 (accession of newcomers).

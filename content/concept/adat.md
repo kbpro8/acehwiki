@@ -42,6 +42,14 @@ In the colonial army, *adat* took on a different meaning. G. W. T. Dames, in *[[
 
 The *adat* of the *tangsi* was also the *adat* of the feesten — the *Nieuwjaar* (the *grootste, vrolijkste feest*), the *Poeusa* (the end of the fasting month), the *[[Koninginnedag]]* (the Queen's birthday) — the mechanism by which the customary atmosphere was transmitted across generations of *anak-kolong*. The *damai* — reconciliation through a shared meal, "een aloude inheemse gewoonte" — was likewise an *adat* of the *tangsi*, the customary way of resolving emerging quarrels in the campement.
 
+## Additional account from *Beginselen en Stelsel* ([[1950]]) — the Atjeh rechtskring
+
+[[B. ter Haar BzN|B. ter Haar BzN]], in his *[[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)|Beginselen en Stelsel van het Adatrecht]]* (first ed. [[1939]]; 4th ed. [[1950]]), places the *rechtskring Atjeh* — the legal circle of Atjeh — first among the nineteen legal circles (*rechtskringen*) into which he divides the archipelago, comprising [[Groot-Atjeh|Groot-Atjeh]], the [[Westkust van Atjeh|Westkust of Atjeh]], [[Singkel|Singkel]], and [[Simeuloeë|Simeuloet]]. The *atjehse gampong (meunasah)* — the Atjehnese village, with its *meunasah* — is cited by Ter Haar as a typical example of a territorial community in which the genealogical factor has no significance, alongside the Javanese, Sundanese, Madurese, and Balinese *désa*, the villages of the Malay region, and the *negorijen* of the Minahasa and Ambon. The *sultanaat van Atjeh* is cited as one of the central indigenous sultanates in which the "vernielend invloed" (destructive influence) of the central royal power worked on the communities around the royal residence, alongside Palembang, Djambi, the Oostkust-sultanaten, the kingdoms of South Celebes, Ternate and Tidore, Bali and Lombok, and the *nagaragoeng* of Java. The *vorsten en vorstentelgen in Atjeh* — the princes and princely lineages of Atjeh — are likewise cited as forming the first group of persons living outside the village communities, within the *vorstensfeer* (princely sphere), and the *atjehse groten in Padang* — the Atjehnese grandees in Padang — are noted as a marker of the reach of the Atjehnese princely sphere beyond the borders of the sultanate.
+
+Ter Haar's systematic account cites several Atjehnese adat-law institutions as illustrations of general Indonesian legal types. The *[[Djinamée (Atjehnese marriage gift)|djinamée]]* — the Atjehnese marriage gift — is cited as a typical example of a marriage payment that has become a validity requirement of the marriage, alongside the *soenrang* of South Celebes and the Muslim *mas kawin*, and is noted as having "samengesmolten" (coalesced) with the Muslim *mas kawin* in Atjeh. The *[[Wang pemasoeqan (Atjeh)|wang pemasoeqan]]* — the Atjehnese *entree* — is cited as a typical example of the formal recognition-payment required of community-foreigners who would profit from the community's *beschikkingskreis* (sphere of disposal over land), alongside the *mesi* of Java. The *[[Sanbod-aanname (idjaab kaboel) in Atjeh|sanbod-aanname (idjaab kaboel)]]* — the Muslim-derived offer-and-acceptance formula incorporated into Atjehnese land-pledging and land-sale transactions — is cited as a typical example of the local coloring that adat-law transactions receive, "zonder dat daardoor aan het indonesisch karakter van den grondverkoop wordt getornd" (without thereby the Indonesian character of the land-sale being infringed). The *[[Peungklēh (Atjehnese trousseau)|peungklēh]]* — the Atjehnese trousseau — is cited as a species of *toescheiding* (allocation), given to marrying daughters "soms met grote plechtigheid" (sometimes with great ceremony). The *maatschapjes tot het slachten van buffels in Atjeh* — the Atjehnese partnerships for the slaughtering of buffaloes — are cited as a typical example of the voluntary associations formed for reciprocal services-and-goods exchange.
+
+The principal source for the Atjeh legal circle is identified by Ter Haar as [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *[[Snouck Hurgronje's De Atjehers (1893-94)|De Atjehers]]* ([[1893]]–[[1894]]) — "dus van vóór den legger" (thus from before the [adatrecht] foundation) — which, "desalniettemin in dit verband niet mag ontbreken" (nevertheless, must not be absent in this connection). The work of [[J. Kreemer|J. J. Kreemer]], *Atjeh* ([[1922]]–[[1923]]), is noted as bringing, "na Snouck Hurgronje en Van Vollenhoven geen nieuws" (after Snouck Hurgronje and Van Vollenhoven, no news). The full account is treated in [[Atjeh adatrecht (Ter Haar account)]].
+
 ## See Also
 
 - [[Hikum]]
@@ -65,6 +73,16 @@ The *adat* of the *tangsi* was also the *adat* of the feesten — the *Nieuwjaar
 - [[Koninginnedag]]
 - [[Adatrechtbundels]]
 - [[St. 1881 No. 83]]
+- [[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)]]
+- [[B. ter Haar BzN]]
+- [[Atjeh adatrecht (Ter Haar account)]]
+- [[Djinamée (Atjehnese marriage gift)]]
+- [[Wang pemasoeqan (Atjeh)]]
+- [[Sanbod-aanname (idjaab kaboel) in Atjeh]]
+- [[Peungklēh (Atjehnese trousseau)]]
+- [[J. Kreemer]]
+- [[1939]]
+- [[1950]]
 
 ## Sources
 
@@ -73,3 +91,5 @@ The *adat* of the *tangsi* was also the *adat* of the feesten — the *Nieuwjaar
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 39–47, 50–53, 126–128. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, pp. 74, 106 e.v.
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Tangsi en Tante" and chapter "De buitenpost."
+
+*Beginselen en Stelsel van het Adatrecht*, door Mr. B. ter Haar Bzn. Vierde ongewijzigde druk. Groningen, Djakarta: J. B. Wolters, 1950. Pp. 17 (gampong), 29 (minangkabause koloniën), 51 (vorsten), 52 (sultanaat), 63 (wang pemasoeqan), 98, 100 (sanbod-aanname), 124 (buffalo-slaughtering partnerships), 148 (dubbelunilaterale trek), 168, 169, 178, 192 (djinamée), 171 (teruggeven van huwelijksgift), 192 (inkomsten van den man), 205 (peungklēh), 213 (voorkeur aan de dochter), 245–246 (sources), 256–257 (overzicht van de rechtskringen).
