@@ -1,7 +1,7 @@
 ---
 title: Koeta-Radja
-aliases: [Kuta Raja, Koeta Radja, Kutaraja, Kutaraja (Banda Aceh), Banda Aceh, Kota Radja, Kotaradja, Kota Raja, capital of Atjeh]
-tags: [place, city, capital, aceh, sumatra, colonial, colonial-capital, government-seat, achehnese-history]
+aliases: [Kuta Raja, Koeta Radja, Kutaraja, Kutaraja (Banda Aceh), Banda Aceh, Kota Radja, Kotaradja, Kota Raja, capital of Atjeh, Koetaradja]
+tags: [place, city, capital, aceh, sumatra, colonial, colonial-capital, government-seat, achehnese-history, hoofdplaats, atjeh, administrative-center]
 description: Kota Radja (also Kotaradja, Koeta-Radja; modern Banda Aceh) was the capital of the Dutch Gouvernement Atjeh en Onderhoorigheden and the principal city of Atjeh. By 1926 it served as the starting point for automobile travel across Sumatra to Padang, symbolising the transformation of transport infrastructure following the pacification.
 ---
 
@@ -42,6 +42,28 @@ Koetaradja served as a printing centre for Acehnese religious texts in the early
 Koeta-Radja is significant across all phases of the colonial history of Aceh. In *[[Oost-Indisch Journael]]* (Merac, [[1947]]), it is the capital and the place of the Meusigit Raja, the centre of the colonial state's religious politics. In *[[Oom Ambon van het K.N.I.L.]]* (Dames, [[1954]]), it is the principal garrison of the [[K.N.I.L.]], the place at which [[Dominee Thenu]] was placed, and the site of his funeral — the book's moral closure of the Aceh War: the men of courage carrying the man of faith, in the capital of the country they had fought forty-five years to subdue.
 
 In the *Nederlandsch Indië Platen Atlas* ([[1926]]), Kota Radja's mention in the transport chapter underscores the connection between the [[Pacification of Atjeh|pacification of Atjeh]] under [[Governor Van Heutsz]] and the subsequent infrastructure development in the Buitengewesten. The road from Kota Radja to Padang represented one of the most significant engineering achievements in the Outer Territories and served as tangible proof that the policy of active administration (*actieve politiek*) had replaced the earlier policy of abstention (*onthoudingspolitiek*).
+
+## Account from the *Notulen der bestuursvergaderingen* (1914) — Koeta-Radja
+
+**Koeta-Radja** (modern Banda Aceh) was the *hoofdplaats* (chief town) of the [[Gouvernement Atjeh en Onderhoorigheden]] and the seat of the Civiel en Militair Gouverneur. In the context of the [[Bestuursreorganisatie Sumatra (1913-1914)]], Koeta-Radja served as the venue for the final two *bestuursvergaderingen* on [[19 January]] [[1914]] (evening) and [[20 January]] [[1914]] (morning), convened by Regeeringscommissaris [[S. de Graaff]]. The meetings were attended by the full administrative and military leadership of the Gouvernement, including Gouverneur [[H. N. N. A. Swart]] and all Assistent-Residenten, Controleurs, and Civiel Gezaghebbers of the Atjeh *afdeelingen* and *onderafdeelingen*.
+
+## Historical Significance
+
+Koeta-Radja occupied a singular position in the colonial administrative architecture of the Netherlands East Indies as the capital of one of only two *Gouvernementen* in the archipelago, the other being Celebes. Established as the seat of Dutch authority in Atjeh following the military campaigns of the late nineteenth and early twentieth centuries, the city symbolized the hard-won Dutch presence in a territory that had resisted colonial domination for decades. The very name Koeta-Radja—meaning "Royal City" in Acehnese—carried echoes of the pre-colonial Acehnese sultanate that had once made this city its capital, and the Dutch choice to retain the name underscored the symbolic importance of occupying the former seat of Acehnese sovereignty. By 1914, Koeta-Radja had developed into a substantial colonial administrative center, equipped with the apparatus of a *Gouvernement* capital: government offices, military installations, and the infrastructure necessary to support both the civilian and military branches of the colonial state that coexisted in this uniquely governed territory.
+
+The hosting of the final two *bestuursvergaderingen* of the [[Bestuursreorganisatie Sumatra (1913-1914)]] at Koeta-Radja was itself of considerable symbolic and practical significance. After meetings in Palembang, Padang, and Medan, the decision to hold the concluding sessions in the Atjeh capital ensured that the Gouverneur and his staff—those most directly affected by the proposed abolition of the *Gouvernement*—had the fullest opportunity to present their views. The evening session of [[19 January]] [[1914]] and the morning session of [[20 January]] [[1914]] allowed for extended discussion of the specific administrative arrangements proposed for Atjeh, with [[H. N. N. A. Swart]] making detailed contributions regarding the indigenous administrative hierarchy and the feasibility of *zelfbestuur* in the territory.
+
+## Administrative Role in the Gouvernement
+
+As the *hoofdplaats* of the [[Gouvernement Atjeh en Onderhoorigheden]], Koeta-Radja served as the central node from which both civilian and military authority radiated across the territory. The *Civiel en Militair Gouverneur*—a unique title reflecting the dual nature of Atjeh's administration—was headquartered in the city, combining in a single office the civil administrative functions normally exercised by a Governor with military command responsibilities that reflected the territory's still-partial pacification. This institutional arrangement made Koeta-Radja unlike any other colonial capital in Sumatra, where civil and military authority were more strictly separated. The Gouverneur's staff at Koeta-Radja included officers responsible for coordinating with the *Assistent-Residenten* who headed the various *afdeelingen* (Groot-Atjeh, Westkust van Atjeh, Oostkust van Atjeh, Noordkust van Atjeh), as well as the *Controleurs* and *Civiel Gezaghebbers* who administered the *onderafdeelingen*.
+
+The port area of Koeta-Radja, known as [[Oeléë-Lhenë]], was administered as a separate *onderafdeeling* by Controleur [[F. W. A. L. de Nijs]], reflecting the administrative distinction between the inland capital and its maritime gateway. Oeléë-Lhenë was of considerable commercial and strategic importance, serving as the primary point of entry and exit for goods and personnel moving between Atjeh and the outside world. The separate administrative treatment of the port area also illustrated the granular level of colonial administrative subdivision in Atjeh, where even areas in the immediate vicinity of the capital warranted their own *onderafdeeling* and dedicated colonial official.
+
+## The 1913–1914 Reorganization and Koeta-Radja's Future
+
+In the proposed administrative reorganization discussed during the [[Bestuursreorganisatie Sumatra (1913-1914)]], Koeta-Radja was to lose its status as a *Gouvernement* capital—a change of profound significance for the city and its inhabitants. Under the new scheme, the *Gouvernement Atjeh en Onderhoorigheden* would be abolished, and its territories would be incorporated into the new [[Noord-Sumatra (proposed gewest)]] with its capital at Medan. Koeta-Radja itself would become the seat of a *Resident* rather than a *Gouverneur*, representing a substantial downgrade in the city's administrative rank and, consequently, in the resources and prestige associated with its governmental functions. The minutes of the Koeta-Radja meetings noted that *representatiekosten* (representation expenses) for the Resident at Koeta-Radja would be necessary, reflecting the continued importance of the city as an administrative center even after the downgrade from *Gouvernement* to *afdeeling* level. This provision acknowledged that the Resident at Koeta-Radja would still need to maintain a degree of ceremonial and representational activity appropriate to the former capital of a *Gouvernement*, particularly in dealings with the indigenous elite whose cooperation remained essential to Dutch administration.
+
+The transition from *Gouvernement* capital to *Residentie* also raised questions about the disposition of the military apparatus that had been headquartered in Koeta-Radja. Under the *Gouvernement* system, the *Civiel en Militair Gouverneur* exercised direct military command; under the proposed new arrangement, this military function would need to be reorganized, potentially through the creation of a separate military command structure or the subordination of Atjeh's military forces to a broader Sumatra-wide command. The details of this transition were among the many issues that the *bestuursvergaderingen* sought to address, with the recognition that Koeta-Radja's long association with military government could not be simply dissolved by administrative decree.
 
 ## See Also
 
@@ -84,15 +106,19 @@ In the *Nederlandsch Indië Platen Atlas* ([[1926]]), Kota Radja's mention in th
 - [[1933]]
 - [[1937]]
 - [[1926]]
+- [[H. N. N. A. Swart]]
+- [[S. de Graaff]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Oeléë-Lhenë]]
+- [[Noord-Sumatra (proposed gewest)]]
+- [[1914]]
+- [[Groot-Atjeh]]
 
 ## Sources
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapter "Dominee Thenu."
-
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja and the chapter on den zieleherder.
-
 *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 143-145.
-
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter IX (Verkeer / Transport), p. 160, and Plate 70 (Monuments at Weltevreden), p. 70.
-
 *20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, p. 21.
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130.

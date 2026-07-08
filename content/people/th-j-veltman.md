@@ -1,0 +1,25 @@
+---
+title: Th. J. Veltman
+aliases: [Th. J. Veltman, Veltman, Theodorus J. Veltman]
+tags: [person, dutch, colonial-administrator, military, civiel-gezaghebber, pidie]
+---
+
+Th. J. Veltman was a Dutch colonial official who held the dual position of *Majoor der Infanterie* (Major of the Infantry) and *Civiel Gezaghebber van de onderafdeeling Pidië* (Civil Authority Holder of the Pidië sub-district) during the period of the [[Bestuursreorganisatie Sumatra (1913-1914)]]. This combination of military rank and civil administrative responsibility was a distinctive feature of the governance system in the [[Gouvernement Atjeh en Onderhoorigheden]], reflecting the unique conditions that had prevailed in Atjeh since the beginning of Dutch military operations in 1873. Veltman was present at the *bestuursvergaderingen* (administrative meetings) held at [[Koeta-Radja]] on [[19 January]] [[1914]] and [[20 January]] [[1914]], though no recorded remarks from him appear in the official minutes. His presence at these high-level deliberations nonetheless underscores the importance of the Pidië sub-district within the broader administrative and strategic landscape of Atjeh.
+
+## Military-Civil Administration in Atjeh
+
+The practice of assigning military officers to civil administrative positions in Atjeh was a direct consequence of the protracted *Atjeh-oorlog* (Atjeh War), which had necessitated a governance model that could simultaneously manage military operations and civil administration in contested or recently pacified areas. The *Civiel Gezaghebber* (Civil Authority Holder) was an official invested with civil administrative powers, typically operating in *onderafdeelingen* (sub-districts) where the security situation required a military presence alongside civil governance. In Pidië, a region that had been a center of resistance against Dutch rule and continued to present significant security challenges, the appointment of a military officer as *Civiel Gezaghebber* ensured that administrative authority was backed by the force necessary to maintain order and enforce colonial policy. This dual military-civil role placed officials like Veltman in a complex position: they were responsible for both the welfare and governance of the civilian population under their jurisdiction and the conduct of military operations against residual resistance.
+
+The Pidië region held particular significance in the history of the Atjeh conflict. Located along the north coast of Atjeh, Pidië had been the domain of powerful *uleëbalang* (territorial chiefs) who had oscillated between cooperation and resistance with the Dutch authorities. The region's political landscape was shaped by the competing interests of these chiefs, the influence of religious leaders, and the strategic imperatives of the colonial government. As *Civiel Gezaghebber*, Veltman would have been responsible for managing relationships with local *uleëbalang*, overseeing the implementation of colonial policies regarding taxation, labor, and infrastructure, and maintaining the security of the sub-district. The military component of his role meant that he commanded troops stationed in the area, providing him with the means to respond to security threats while also creating potential tensions with the civilian population over the conduct and presence of military forces.
+
+## Significance at the Koeta-Radja Meetings
+
+Veltman's attendance at the Koeta-Radja meetings reflected the inclusion of military-civil officials in the deliberative process surrounding the [[Bestuursreorganisatie Sumatra (1913-1914)]], acknowledging that the reorganization of Atjeh's administrative structure could not be divorced from the security realities that had shaped governance in the territory. The proposed reforms included changes to the territorial boundaries and administrative hierarchies that would directly affect the Pidië sub-district and its relationship to the larger *afdeeling* structure. Although Veltman did not contribute recorded remarks to the proceedings, his presence ensured that the perspective of officials working at the intersection of military and civil administration was represented in the discussions. The reorganization deliberations took place at a time when the Dutch were seeking to transition from a primarily military governance model in Atjeh toward a more normalized civil administration, a process in which officials like Veltman played a crucial transitional role. His dual commission embodied the very tension—between military necessity and civil governance—that the reorganization sought to address and resolve.
+
+## See Also
+
+[[H. N. N. A. Swart]], [[Pidië]], [[Civiel Gezaghebber]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Uleëbalang]], [[Atjeh-oorlog]], [[Inlandsch Bestuur]], [[Koeta-Radja]]
+
+## Source
+
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118-130.

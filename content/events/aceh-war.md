@@ -148,15 +148,18 @@ The turn came with [[J. B. van Heutsz|General Van Heutz]], "a man, who was at th
 
 The **Aceh War**'s status as a formally periodised episode of Dutch colonial history is confirmed by the [[Topografische Dienst|Topografische Dienst]]'s issue of a "Historisch-Chronologische overzichtskaart van den Atjeh-oorlog (1873 t/m 1896)" (Historical-Chronological Overview Map of the Aceh War, 1873 to 1896). This map, at a scale of 1:1,000,000, was printed in colour and sold for f0.50. Its existence — listed in the 1933 catalogue of the Topografische Dienst as a single sheet, with no year of original issue or reprint given, but still available for purchase at that time — confirms that the Dutch colonial administration considered the war a defined period running from [[1873]] to [[1896]], and that a specialized cartographic product was created to document its events chronologically and geographically. The map's terminal date of [[1896]] corresponds to the resumption of the war under [[Governor Van Heutsz|Van Heutsz]] described above; the existence of a dedicated historical-chronological map underscores the war's importance to the colonial state as a subject of official documentation and commemoration, and its timeline of [[1873]]–[[1896]] remains a key reference point for understanding the period of Dutch intervention in northern Sumatra.
 
-## Account from *De staatkundige ontwikkeling van Indonesië* ([[1955]]) — the Atjeh-oorlog as 19th-century resistance
+## Account from *In Memoriam Maurice Henri du Croo* (1951) — Aceh War (1920s patrolling)
 
-The *[[De staatkundige ontwikkeling van Indonesië in de 20e eeuw|staatkundige ontwikkeling]]* survey, published by the [[Koninklijk Instituut voor de Tropen|Koninklijk Instituut voor de Tropen]] in a revised and updated edition closed in May [[1955]], places the Atjeh-oorlog alongside the [[Padri War on Sumatra's East Coast|Padri-oorlog]] ([[1833]]) and the [[Java War|Java-oorlog]] ([[1825]]–[[1830]]) as one of the three great *verzetsacties van grote omvang en lange duur* — resistance actions of great scope and long duration — of the 19th century. The survey notes that these resistance actions arose only after the Netherlands Indies had been incorporated as a colony into the Kingdom of the Netherlands and the direct Dutch administrative influence had begun to assert itself more forcefully: "Eerst in de 19e eeuw, nadat Nederlands Indië als kolonie was ingelijfd bij het Koninkrijk der Nederlanden en de directe Nederlandse bestuursinvloed zich krachtiger deed gelden, deden zich enkele verzetsacties van grote omvang en lange duur voor, zoals de Pedri-oorlog ter Westkust van Sumatra (1833), de Java-oorlog (1825–1830) en de Atjeh-oorlog."
+The **Aceh War** (also known as the *Atjeh-oorlog*) was a prolonged armed conflict between the [[Netherlands|Dutch]] colonial power and the [[Aceh Sultanate|Sultanate of Aceh]] and its successors, beginning in [[1873]] and continuing into the early 20th century. The war was characterised by stubborn Acehnese resistance, guerrilla warfare, and the Dutch deployment of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Marechaussee te voet]] as a counter-insurgency force. Even after the formal subjugation of Aceh, unrest persisted well into the [[1920s]], when officers like [[Maurice Henri du Croo]] patrolled the *rimboe* (jungle) of [[Aceh|Atjeh]] at their own request — du Croo arriving in [[1925]] and being decorated with the [[Ridder O.N.O. met de Zwaarden]] (Knight of the [[Orde van Oranje-Nassau]] with Swords) in [[1927]] for his service in the ongoing conflict.
 
-The survey is careful to note, however, that even these great resistance actions did not yet amount to Indonesian national resistance: "Niettemin kon ook toen nog niet worden gesproken van Indonesisch nationaal verzet. Van enige saamhorigheid tussen de onderscheiden delen van Indonesië was geen sprake" — nevertheless, even then one could not yet speak of Indonesian national resistance. Of any solidarity between the different parts of Indonesia there was no question. The survey attributes this absence of national solidarity to the lack of connecting means (*verbindingsmiddelen*), a common language, and leaders. Those who by adat and tradition were called to lead the people — the chiefs — had, in general, reconciled themselves with the Dutch authority and had, moreover, become dependent on it for the maintenance of their position: "Degenen, die krachtens adat en traditie waren geroepen om het volk te leiden, hadden zich in het algemeen verzoend met het Nederlandse gezag en waren bovendien voor de handhaving van hun positie in zekeren zin afhankelijk geworden van dat gezag."
+### In Colonial Memory
 
-The mid-1950s characterization of the Atjeh-oorlog as one of the three great 19th-century resistance actions — alongside the Padri-oorlog and the Java-oorlog — but as not yet constituting Indonesian national resistance, is the metropolitan Dutch retrospective on the war within the framework of the Indonesian nationalist narrative. The Atjeh-oorlog is, in this account, a local resistance — of great scope and long duration, but not yet part of a national movement — that belongs to the pre-history of Indonesian nationalism rather than to the nationalist movement itself.
+The Dutch journalist Johan Luger, writing in the memorial for [[Maurice Henri du Croo|du Croo]], called Aceh "het lastige kindje dat Atjeh heette" — the troublesome child called Atjeh. Du Croo's book *[[Marechaussée in Atjeh (book)|Marechaussée in Atjeh]]* (co-authored with [[Schmidt (Kolonel)|Kolonel Schmidt]]) aimed to convey "het beeld van Atjeh en de Atjehoorlog, zoals dat in die officieren heeft geleefd" — the image of Aceh and the war as it lived in the officers who fought there. Together with the same authors' *[[Generaal Swart (book)|Generaal Swart]]* — a biography of the [[H. N. A. Swart|Swart]] administration under which the war was brought to its formal conclusion — *Marechaussée in Atjeh* forms part of the interwar literary commemoration of the conflict by the [[K.N.I.L.]] officer corps.
+
+*Source: In Memoriam Maurice Henri du Croo* (1951), pp. 5, 6, 10, 20 (Meyer Ranneft, Luger).
 
 ## See Also
+
 - [[C. Snouck Hurgronje]]
 - [[Great Acheh]]
 - [[Dutch Concentration Scheme]]
@@ -215,17 +218,20 @@ The mid-1950s characterization of the Atjeh-oorlog as one of the three great 19t
 - [[Johan Wøller]]
 - [[Kotta Loempoer]]
 - [[K. van der Heyden]]
+- [[Maurice Henri du Croo]]
+- [[Marechaussée in Atjeh (book)]]
+- [[Generaal Swart (book)]]
+- [[Schmidt (Kolonel)]]
+- [[Korps Marechaussee van Atjeh en Onderhorigen]]
+- [[Orde van Oranje-Nassau]]
+- [[1925]]
+- [[1927]]
 
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Introduction, pp. v–xxi; Chapter I, §§ 7–9, pp. 120–193.
-
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 33–36, Bijlage IV–V.
-
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
-
 *Opgave van Kaarten, Legenda, Verslagen, enz. verkrijgbaar bij den Beheerder der Kaarten van den Topografischen dienst te Weltevreden. Bijgewerkt tot 1 Januari 1933.* (Bijlage LLL). Geologisch Instituut der Universiteit van Amsterdam. LB 08841, pp. 827*-828*.
-
 *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 143-146, 167.
-
-*De staatkundige ontwikkeling van Indonesië in de 20e eeuw*, uitgave van het Bureau Cursussen en Vertalingen van het Koninklijk Instituut voor de Tropen (Amsterdam: Koninklijk Instituut voor de Tropen, revised ed. 1955). Hoofdstuk I: "Eerst in de 19e eeuw, nadat Nederlands Indië als kolonie was ingelijfd bij het Koninkrijk der Nederlanden en de directe Nederlandse bestuursinvloed zich krachtiger deed gelden, deden zich enkele verzetsacties van grote omvang en lange duur voor, zoals de Pedri-oorlog ter Westkust van Sumatra (1833), de Java-oorlog (1825–1830) en de Atjeh-oorlog."
+*In Memoriam Maurice Henri du Croo* (1951), pp. 5, 6, 10, 20 (Meyer Ranneft, Luger).

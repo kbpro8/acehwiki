@@ -1,7 +1,7 @@
 ---
 title: Groot-Atjeh
-aliases: [Atjeh proper", Banda Aceh region", Eigenlijk Atjeh", Great Aceh", Great Acheh", Greater Aceh", Groot-Atchéh", Groot-Atje", Groote Atjeh", Proper Acheh"]
-tags: ["aceh-proper", "aceh-war", "acehnese", "achehnese", "colonial", "place", "region"]
+aliases: [Atjeh proper, Banda Aceh region, Eigenlijk Atjeh, Great Aceh, Great Acheh, Greater Aceh, Groot-Atchéh, Groot-Atje, Groote Atjeh, Proper Acheh, Greater Atjeh, Aceh Besar, Groot Atjeh]
+tags: [aceh-proper, aceh-war, acehnese, achehnese, colonial, place, region, afdeeling, rechtstreeks-bestuurd-gebied, atjeh, sagi, administrative-division]
 ---
 **Groot-Atjeh** ("Greater Aceh") was the Dutch colonial designation for the heartland of the [[Acheh|Atjeh]] sultanate — the densely settled coastal and hinterland district around the capital [[Banda Acheh|Koetaradja]] and its immediate interior, distinguished in colonial usage from [[Kleine-Atjeh|Kleine-Atjeh]] (Lesser Atjeh, the outlying western-coast districts) and from the dependent highland territories of [[Gajoland|Gajoland]] and [[Alasland|Alasland]]. Groot-Atjeh appears repeatedly in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] as the locus of a cluster of specifically Atjehnese buffalo-ritual practices — among them the *teungkoe meunasah* slaughterer institution, the [[Poephon blang|*poephon blang*]] field-consecration rite, the prohibition on albino-buffalo slaughter for the [[kawōm Dja Sandang|*kawōm* Dja Sandang]] lineage, the annual [[Rabò annual seven-day feast|Rabò buffalo-sacrifice feast]] on the islet of [[Rabò]] near [[Poelo Breuëh|Poelo Breuëh]], and the former local production of *minjaq sapi* buffalo-milk frying-fat in the [[Bovenstreken van Groot-Atjeh|Bovenstreken]] (upper districts).
 
@@ -28,32 +28,32 @@ By the administrative reorganisation of [[March [[1881]]|March 1881]], the gewes
 
 The Bureau draws an explicit contrast between "the old tramway in Groot-Atjeh" (*de oude trambaan in Groot-Atjeh*) and "the second tramway in the Dependencies." After [[1896]], the belt-tramway was "gradually cleared" (*geleidelijk opgeruimd*), and the long tramway of [[1897]] onward replaced it as the principal axis of the network. The Groot-Atjeh network was then reconnected to the Dependencies network by the [[Berglijntje Keude Breue–Seulimeum|berglijntje from Keude Breue over the hills to Seulimeum]] — built [[1904]]–[[1908]] — which gave the military administration "a powerful instrument for achieving the complete [[Pacificatie van Atjeh|pacification]] of the intersected regions" of Groot-Atjeh and the Dependencies.
 
-## Sources
-*De Buitenbezittingen [[1904]] tot [[1914]], Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, [[1917]]), pp. 68–69 (section "De Atjeh-tram").
+## Account from the *Notulen der bestuursvergaderingen* (1914) — Groot-Atjeh
 
-*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. [[1872]]-[[1883]]. Nieuwe uitgave. Schiedam: J. F. Dupont, [[1912]], Hoofdstuk I, pp. 6-8, 26, 113-115.
-*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 117, 124, 177-178, 217, 246.
-*De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), vol. I, pp. 54, 241; vol. II, pp. 315, 332.
-*Atjèh*, by J. Kreemer, vol. I ([[1922]]), p. 471; vol. II ([[1923]]), pp. 578 vg.
+**Groot-Atjeh** (Greater Atjeh) was one of the *afdeelingen* (divisions) of the [[Gouvernement Atjeh en Onderhoorigheden]], administered by Assistent-Resident [[W. Doornik]]. It was one of only two areas in the Gouvernement classified as *rechtstreeks bestuurd gebied* (directly ruled territory), the other being part of the *onderafdeeling* [[Singkel]]. The remainder of the Gouvernement consisted of *Inlandsche Zelfbesturen* (Native Self-Governments/*landschappen*). This dual structure—directly ruled territory alongside self-governing *landschappen*—made the Gouvernement Atjeh exceptional among the *Buitenbezittingen* and was the reason [[S. de Graaff]] concluded that only [[Gewestelijk Zelfbestuur]] was feasible for Atjeh, rather than the local *zelfbestuur* proposed for other territories.
 
-## In De Karbouw
-The several Atjehnese buffalo-practices that *De Karbouw* explicitly localises in Groot-Atjeh are:
+## Administrative Structure and Indigenous Governance
 
-- The [[teungkoe meunasah]] as the village ritual slaughterer: "In Groot-Atjeh behoort het slachten tot de speciale taak van de *teungkoe meunasah*" — in Groot-Atjeh slaughter is the special task of the *teungkoe meunasah*, the village religious official who, alongside the village head [[keutjhiq|*keutjhiq*]], represents public authority in the village and is responsible for the spiritual concerns of the villagers ([[Christiaan Snouck Hurgronje|Snouck Hurgronje]], [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] I, p. 241; [[Kreemer's De Karbouw ([[1956]])|*De Karbouw*]], p. 117).
-- The [[Poephon blang|first field-*kandoeri* before ploughing]] (*poephon blang*), held about a month before ploughing begins: "Ongeveer een maand vóór men met ploegen aanvangt, heeft in Groot-Atjeh de eerste veld-*kandoeri* (offermaaltijd) plaats" ([[Kreemer's Atjeh ([[1922]]-23)|Kreemer, *Atjeh*]], I, p. 471; II, pp. 578 vg.). The rite is performed by a [[malim|*malim*]] — a scriptural scholar skilled in calculating auspicious moments and versed in the secret lore of rice-cultivation — who, with completely shaved head, goes to the field at midnight, draws the first furrow-lines with his *parang*, and mutters an incantation. In the [[Pederse|Pederse (Pidie)]] region within or adjacent to Groot-Atjeh, the *malim* uses a tiny golden plough at this sacramental act, since gold — like iron — has magical potency in Atjehse conception.
-- The prohibition on albino-buffalo slaughter for the [[kawōm Dja Sandang|*kawōm* Dja Sandang]]: "1° Groot-Atjeh, waar het verbod geldt voor het ouderwetse geslacht (*kawōm*) Dja Sandang. Hoewel de *kawōm*-naam reeds lang vergeten is, leeft het *pantang*-voorschrift toch nog onverzwakt voort" ([[Christiaan Snouck Hurgronje|Snouck Hurgronje]], [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] I, p. 54, II, p. 332; *De Karbouw*, p. 217).
-- The [[Rabò annual seven-day feast|annual seven-day feast at Rabò]]: "Op het nabij [[Poelo Breuëh|Poelo Breuëh]] (Poelau Bras) gelegen eilandje [[Rabò|Rabò]] in Groot-Atjeh plegen de bewoners der [[VI Moekim's of Groot-Atjeh|VI Moekim's]] elk jaar aan het strand een zevendaags feest te geven" ([[Christiaan Snouck Hurgronje|Snouck Hurgronje]], [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] II, p. 315; *De Karbouw*, p. 246).
-- The former local production of *minjaq sapi* (buffalo-milk cream boiled down to fat, used as frying-fat for *toempi* and *tjoetjoer*): "Vroeger werd dit bakvet ook in Groot-Atjeh bereid, speciaal in de [[Bovenstreken van Groot-Atjeh|Bovenstreken]]" (*De Karbouw*, p. 124).
+Groot-Atjeh contained the indigenous administrative hierarchy described in detail by Gouverneur [[H. N. N. A. Swart]] at the Koeta-Radja meetings of [[19 January]] and [[20 January]] [[1914]]. This hierarchy comprised three [[sagi]]'s (comparable to Javanese *regentschappen*), [[peleebalangschap]]pen (comparable to *districten*), and [[moekimschap]]pen (comparable to *onderdistricten*). The *sagi* was a uniquely Acehnese territorial and political unit, rooted in the pre-colonial organization of the Acehnese sultanate, which had divided the core territory of Atjeh into three confederations. The survival of this indigenous structure under Dutch rule reflected both the pragmatism of colonial administration—which sought to utilize existing native institutions where possible—and the distinctive character of Acehnese political organization, which could not be easily mapped onto the standard colonial template of *regentschap*, *district*, and *onderdistrict* used in Java and other parts of the Netherlands East Indies.
 
-## In Atjeh administrative geography
-Groot-Atjeh, as the colonial term for the heartland of the sultanate, corresponded roughly to the area of the [[VI Moekim's of Groot-Atjeh|six *mukim* federation]] (the VI Moekim's) and adjacent *mukim* federations that formed the territorial core of the Atjehnese state, and that were organised, after the Dutch conquest in the [[Aceh War|Atjeh War]] of the late nineteenth and early twentieth centuries, as the colonial administrative unit of [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] (with [[Banda Acheh|Koetaradja]] as its capital). The highland interior of Groot-Atjeh, the [[Bovenstreken van Groot-Atjeh|Bovenstreken]], bordered the [[Gajoland|Gayo]] country and shared with it a number of buffalo-related customs (such as the *minjaq sapi* production).
+Gouverneur Swart's description of the *sagi* system was offered in the context of discussions about the feasibility of introducing *zelfbestuur* (self-government) in Atjeh. The *sagi*'s, he explained, functioned as units that could, with appropriate development, serve as the basis for a native self-governing structure analogous to the Javanese *regentschap* system. However, the Gouverneur also made clear that this would require significant investment in *opleiding* (training) of *Inlandsche bestuurskrachten* (Native administrative forces). He expressed confidence that with proper training, within a few years the necessary indigenous administrative personnel would be produced in Groot-Atjeh, suggesting that the territory was on a trajectory toward greater self-governance, even if it was not yet ready for full *zelfbestuur* in the Javanese mold. This assessment was consequential for the broader reorganization debate, as it informed [[S. de Graaff]]'s ultimate determination that Atjeh should receive *Gewestelijk Zelfbestuur* rather than the local *zelfbestuur* proposed for other territories.
 
+## Direct Rule and Its Implications
 
-## Significance
-Groot-Atjeh's significance for the encyclopedia of [[Acheh]] history is as the geographical core of the Atjehnese sultanate and the locus classicus of its specifically courtly and village-ritual practices. In *De Karbouw*'s comparative framework, Groot-Atjeh functions as the type-locality for a cluster of buffalo-ritual institutions — the *teungkoe meunasah* slaughterer, the *poephon blang* field-consecration, the [[kawōm Dja Sandang|*kawōm* Dja Sandang]] albino-prohibition, the Rabò sacrifice — that recur, with local variation, in the [[Gajoland]], [[Alasland]], [[Atjeh's Westkust]] and [[Simaloer]] rings of the wider Atjeh cultural sphere.
+The classification of Groot-Atjeh as *rechtstreeks bestuurd gebied* (directly ruled territory) set it apart from the majority of the *Gouvernement Atjeh en Onderhoorigheden*, which was composed of *Inlandsche Zelfbesturen* (Native Self-Governments). This distinction was of fundamental importance for the reorganization discussions, as it meant that Atjeh could not be simply reclassified as a *gewest* with local *zelfbestuur* in the manner proposed for territories like Lampong and Bengkulu, where the entire population lived under self-governing *landschappen*. In Groot-Atjeh, the Dutch colonial state exercised direct administrative control, with colonial officials at every level of governance down to the *moekimschap*. This direct rule was a legacy of the protracted Atjeh War and the incremental extension of Dutch administrative control into the core Acehnese territories, a process that had required sustained military effort and that had produced a governance structure fundamentally different from the indirect rule arrangements prevailing elsewhere in the *Buitenbezittingen*.
 
+The coexistence within a single *Gouvernement* of directly ruled territory (Groot-Atjeh and part of [[Singkel]]) and self-governing *landschappen* (the remainder of the territory) created what [[S. de Graaff]] identified as a uniquely complex administrative situation. This duality was the primary reason he concluded that only *Gewestelijk Zelfbestuur*—a form of regional autonomy exercised at the *gewest* level rather than the local level—was appropriate for Atjeh. The directly ruled population of Groot-Atjeh could not be placed under *zelfbestuur* because the indigenous administrative structures, while present in embryonic form, were not yet sufficiently developed; yet the *landschappen* could not be deprived of their existing self-governing status. *Gewestelijk Zelfbestuur* thus represented a compromise that accommodated both realities within a single governance framework.
+
+## Onderafdeelingen Within Groot-Atjeh
+
+Specific *onderafdeelingen* within or adjacent to Groot-Atjeh included Oeléë-Lhenë en de XXVI Moekims (under Controleur [[F. W. A. L. de Nijs]]) and the XXII Moekims (under Civiel Gezaghebber [[G. F. B. Watrin]]). These *onderafdeelingen* were defined by their *moekim* (village cluster) composition, a system of territorial organization unique to Atjeh that reflected the Islamic and Acehnese tradition of community organization around mosque congregations. The XXVI Moekims and XXII Moekims were numerical designations indicating the number of *moekim* units within each *onderafdeeling*, and their administration by different classes of colonial official—Controleur versus Civiel Gezaghebber—reflected the varying levels of administrative complexity and security concern associated with each area. The Oeléë-Lhenë *onderafdeeling*, which included the port area serving [[Koeta-Radja]], was of particular importance due to its commercial and strategic significance and warranted the attention of a Controleur, a higher-ranking official than the Civiel Gezaghebber assigned to the XXII Moekims.
+
+## The Proposed Merger with Westkust van Atjeh
+
+In the proposed administrative reorganization discussed during the [[Bestuursreorganisatie Sumatra (1913-1914)]], Groot-Atjeh was to be combined with the [[Westkust van Atjeh]] into a single *afdeeling* "Groot-Atjeh benevens de Westkust van Atjeh" with a population of approximately 210,000, as part of the new [[Noord-Sumatra (proposed gewest)]]. This merger reflected both practical administrative considerations and the broader logic of the reorganization, which sought to create *afdeelingen* of sufficient population size to justify the administrative apparatus of a *Resident* and associated officials. Neither Groot-Atjeh nor the Westkust van Atjeh alone possessed a population adequate for the new *afdeeling* standard, but their geographic continuity—the Westkust being essentially the western extension of the Groot-Atjeh interior—made their combination a natural and administratively logical solution. The merged *afdeeling* would retain the *sagi*-based indigenous administrative structure described by Gouverneur Swart, while incorporating the Westkust territories that had their own distinct administrative history and challenges.
 
 ## See Also
+
 - [[1873]]
 - [[1875]]
 - [[1885]]
@@ -94,3 +94,25 @@ Groot-Atjeh's significance for the encyclopedia of [[Acheh]] history is as the g
 - [[XXVI Moekims]]
 - [[kawōm Dja Sandang]]
 - [[teungkoe meunasah]]
+- [[Koeta-Radja]]
+- [[Sagi]]
+- [[Peleebalangschap]]
+- [[Moekimschap]]
+- [[W. Doornik]]
+- [[H. N. N. A. Swart]]
+- [[Rechtstreeks bestuurd gebied]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Westkust van Atjeh]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Oeléë-Lhenë]]
+- [[G. F. B. Watrin]]
+- [[Singkel]]
+
+## Sources
+
+*De Buitenbezittingen [[1904]] tot [[1914]], Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, [[1917]]), pp. 68–69 (section "De Atjeh-tram").
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. [[1872]]-[[1883]]. Nieuwe uitgave. Schiedam: J. F. Dupont, [[1912]], Hoofdstuk I, pp. 6-8, 26, 113-115.
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 117, 124, 177-178, 217, 246.
+*De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), vol. I, pp. 54, 241; vol. II, pp. 315, 332.
+*Atjèh*, by J. Kreemer, vol. I ([[1922]]), p. 471; vol. II ([[1923]]), pp. 578 vg.
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130, 358.

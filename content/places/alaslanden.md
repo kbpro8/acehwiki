@@ -1,7 +1,7 @@
 ---
 title: De Alaslanden
-aliases: [Alaslanden, Alas-vallei, Alas Valley, Alas lands, Alas valley, Alaslanden valley, Alas-landen, Alas (Atjeh), Tanah Alas, the Alas lands, Alasvalley]
-tags: [place, alas, highland, military, region, valley, colonial, dutch, aceh, buitenbezittingen, wegennet]
+aliases: [Alaslanden, Alas-vallei, Alas Valley, Alas lands, Alas valley, Alaslanden valley, Alas-landen, Alas (Atjeh), Tanah Alas, the Alas lands, Alasvalley, Alas Lands, Land der Alas]
+tags: [place, alas, highland, military, region, valley, colonial, dutch, aceh, buitenbezittingen, wegennet, alaslanden, interior, atjeh, deli, administrative-division]
 ---
 
 **The Alaslanden** ("Alas lands," modern **Tanah Alas**) was the colonial designation for the interior Alas valley region of [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]], inhabited by the Alas people, south of the [[Gajo-landen|Gajo lands]] and east of the [[Groot-Atjeh|Great Atjeh]] coastal plain. It is the long, fertile valley of the *Lao Alas* — the great river that, rising on the slopes of the G. Losèr as the W. ni Agoesen, runs south-eastward through the heart of the gouvernement to its confluence with the Lao Renéën — and one of the five *afdeelingen* of the gouvernement, established after the *colonne van Daalen* of [[1904]] brought the Alas valley under Dutch authority. In the Encyclopaedisch Bureau's account of the [[Wegenplan Sumatra|Sumatra road plan]], the Alaslanden appear as the inland terminus of the Alasweg — the 137 K.M. road built from [[Kaban Djahe]] on the Karo-hoogvlakte (Karo highlands) to [[Kota Tjane]] in the Alaslanden at a cost of f 1,173,000, and reported by the Bureau as "in the main completed" by the end of the [[1904]]–[[1914]] decade. *De Buitenbezittingen* describes the Alaslanden as one of the four *cultuur-centra* of the interior, an "oase te midden van het ongastvrije, woeste landschap" — an oasis amid an inhospitable, savage landscape.
@@ -48,6 +48,26 @@ When, "after the fall of Java, namely, General Overakker decided to also withdra
 
 "On [[14 March]] general Overakker had moved his headquarters from [[Kaban Djahé|Kaban Djahé]] to the Alasvalley and first established it at [[Koeta Tjané|Koeta Tjané]], later at the former Japanese undertaking 'Boekit Toesam'." The Japanese troops advanced from Siborongborong and "Only at the border between Tapanoeli and Sumatra's West Coast did the Japanese notice their mistake and turned their attention to the Alasvalley." "On [[25 March]] a Japanese breakthrough took place from the valley of the Lawé Rénoen, a left-side tributary of the Lawé Alas, to the road [[Kaban Djahé|Kaban Djahé]]-[[Koeta Tjané|Koeta Tjané]], at a distance of 80 km. before [[Koeta Tjané|Koeta Tjané]]." This breakthrough made "a further retreat to the last stronghold, the [[Gajó Loeós|Gajó Loeós]], necessary. The headquarters was moved to [[Blang Kédjérèn|Blang Kédjérèn]]. On [[26 March]] our last troops left [[Koeta Tjané|Koeta Tjané]]." When General Overakker "decided on [[27 March]] to surrender, there was no longer any enemy to be acknowledged in the [[Blang Kédjérèn|Blang]], so that the surrender could only be offered on [[28 March]]. Thus in Atjèh the final phase of the fighting on Sumatra would be fought."
 
+## Account from the *Notulen der bestuursvergaderingen* (1914) — Alaslanden
+
+**Alaslanden** (Alas Lands) was a region in the interior of Atjeh, inhabited by the Alas people. In the proposed administrative reorganization discussed at the Medan meeting ([[14 January]] [[1914]]), Resident [[Van der Plas]] proposed that the Alaslanden be added to the Deli *afdeeling* as part of "Deli benevens de Karo- en de Alaslanden" (Deli together with the Karo and Alas Lands) with a population of approximately 370,000. This proposal would have removed the Alaslanden from Atjeh's administrative jurisdiction and placed it under a division centered on the Deli region, reflecting the geographic and economic connections between the Alas valley and the east coast plantation belt rather than with the Atjeh highlands.
+
+## The Alas People and Their Territory
+
+The Alaslanden comprised the valley of the Alas River, a substantial watercourse that flowed through the interior of northern Sumatra, carving a fertile valley between the mountain ranges that separated the Atjeh highlands from the east coast lowlands. The Alas people who inhabited this valley were ethnically and linguistically distinct from both the Acehnese of the coast and the Batak peoples of the southern highlands, occupying a cultural and geographic intermediary position that made their territory a natural frontier zone between different ecological and cultural regions. The Alas language, belonging to the Batak subgroup of Austronesian languages, reflected these connections with the Batak world to the south, while the Islamic faith of many Alas communities created ties with the Muslim Acehnese to the north.
+
+The Alas valley's geography made it a natural corridor of communication between the interior highlands and the east coast lowlands of Sumatra. The river valley provided a relatively accessible route through the Bukit Barisan mountain range, linking the Atjeh interior with the plantation districts of Deli and Langkat. This geographic reality had shaped the economic life of the Alas communities, who engaged in trade with both the coastal regions to the east and the highland territories to the north and west. By the early twentieth century, the economic pull of the rapidly developing east coast plantation economy was increasingly felt in the Alaslanden, as the demand for labor and trade goods created opportunities that connected the valley more closely to the world of Sumatra's Oostkust than to the more remote administrative center of [[Koeta-Radja]].
+
+## The Proposed Transfer to Deli
+
+The proposal to transfer the Alaslanden from Atjeh to the Deli *afdeeling* was rooted in the recognition of these geographic and economic realities. Resident [[Van der Plas]], who as Resident of Sumatra's Oostkust was intimately familiar with the economic connections between the interior highlands and the east coast plantation belt, argued that the Alaslanden belonged more naturally within the administrative orbit of Deli than within that of Atjeh. The proposed *afdeeling* "Deli benevens de Karo- en de Alaslanden" would have created a large and economically coherent administrative unit encompassing the Deli plantation district, the Karo highlands, and the Alas valley, with a combined population of approximately 370,000. This arrangement would have aligned administrative boundaries with the economic geography of the region, placing the Alas communities under the authority of officials based in the east coast lowlands who were best positioned to understand and manage the region's economic connections.
+
+The transfer of the Alaslanden to Deli was part of a broader pattern of boundary adjustments proposed during the [[Bestuursreorganisatie Sumatra (1913-1914)]] that sought to rationalize administrative divisions by aligning them with economic and geographic realities rather than with the historical patterns of military conquest. The *onderafdeeling* [[Tamiang]] was similarly proposed for transfer to the Langkat *afdeeling*, and the town of [[Langsa]] was identified as another candidate for reassignment. These adjustments collectively represented a significant redrawing of the boundary between the former *Gouvernement Atjeh en Onderhoorigheden* and the territories of Sumatra's Oostkust, recognizing that the historic border—drawn during the military phases of the Atjeh War—did not always correspond to the economic and social geography of the border regions.
+
+## The Karo-Alas Connection
+
+The proposed combination of the Alaslanden with the Karo lands in the Deli-based *afdeeling* reflected the recognition that these two highland regions shared significant geographic and economic characteristics. Both the Karo and Alas highlands served as hinterlands for the east coast plantation economy, supplying labor, trade goods, and agricultural products to the lowland markets. Both regions were inhabited by Batak-related peoples whose cultural and linguistic affiliations connected them more closely to each other and to the Batak lands to the south than to the Acehnese territories to the north. The creation of a combined "Karo- en Alaslanden" administrative unit within the Deli *afdeeling* would thus have produced an administratively coherent territory that recognized these underlying geographic and cultural realities, rather than maintaining the artificial separation imposed by the existing boundary between the *Gouvernement Atjeh* and Sumatra's Oostkust.
+
 ## See Also
 
 - [[Radja Tjèq of Alas]]
@@ -79,13 +99,19 @@ When, "after the fall of Java, namely, General Overakker decided to also withdra
 - [[1941]]
 - [[1942]]
 - [[28 March]] [[1942]]
+- [[Van der Plas]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Noord-Sumatra (proposed gewest)]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Tamiang]]
+- [[Langsa]]
+- [[Oostkust van Atjeh]]
+- [[Koeta-Radja]]
 
 ## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 2–5, 8, 22–24, 33, 36, 38, 114–125.
-
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 53–56 (section "De aanleg van wegen op de Buitenbezittingen").
-
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 32, 50, 253. Rijksarchief, Den Haag.
-
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter IV, Chapter V § 3.
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 114, 358.

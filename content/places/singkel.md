@@ -1,7 +1,7 @@
 ---
 title: Singkel
-aliases: [Singkil, Singkél, Singkel, Beneden-Singkel, Boven-Singkel, Oeloe Singkel, Singkeln, Sinkel]
-tags: [place, north-east-coast, west-coast, region, slaves, batak, holy-site, onderafdeeling, westkust, colonial, sumatra, achehnese]
+aliases: [Singkil, Singkél, Singkel, Beneden-Singkel, Boven-Singkel, Oeloe Singkel, Singkeln, Sinkel, Sinabang, Simeulue, Simaloer]
+tags: [place, north-east-coast, west-coast, region, slaves, batak, holy-site, onderafdeeling, westkust, colonial, sumatra, achehnese, singkel, rechtstreeks-bestuurd-gebied, atjeh, simeulue, administrative-division]
 ---
 A port and territory at the southern extreme of the West Coast, marking the boundary of [[Acheh]]. 'Beginning at Padang right up to Singkel, all tribute is raised for the King of Holland.' (sadati dialogue). [[Abdurra'uf of Singkel]], the great saint Teungku di Kuala, came from Singkel; his family name ('of Singkel') appears in the salasilahs. The hikayat Banta Beuransah (a romance) describes the war waged by Beuransah against [[China]]: 'the poet makes him touch successively at almost all the harbours of the East, West and North Coasts of [[Acheh]] and its dependencies, and finally arrive in [[Aramiah]] at the source of the river of Singke (Singkel).'
 
@@ -77,6 +77,26 @@ Singkel is the northernmost place included in the [[Painansch Contract]] system,
 
 The Menangkabau constitutional theory is also stated most clearly in the Singkel accession: "the king of Menangkabau as sovereign and the Compagnie as protectress" is the formula that would define the Westkust system through the entire VOC period.
 
+## Account from the *Notulen der bestuursvergaderingen* (1914) — Singkel
+
+**Singkel** was an *onderafdeeling* (sub-district) of the [[Gouvernement Atjeh en Onderhoorigheden]], administered by Controleur [[L. Berkhout]] from the *hoofdplaats* Sinabang on the island of Simeulue. Gouverneur [[H. N. N. A. Swart]] noted at the Koeta-Radja meeting ([[19 January]] [[1914]]) that part of the *onderafdeeling* Singkel was classified as *rechtstreeks bestuurd gebied* (directly ruled territory), alongside [[Groot-Atjeh]]. This made Singkel one of only two areas in the Gouvernement under direct Dutch administrative control, while the remainder of the Gouvernement consisted of *Inlandsche Zelfbesturen* (Native Self-Governments). The inclusion of part of Singkel in the directly ruled territory reflected the complex administrative reality of the *Gouvernement Atjeh en Onderhoorigheden*, where direct and indirect rule coexisted within a single governmental unit.
+
+## Geography and the Simeulue Connection
+
+The *onderafdeeling* Singkel was a geographically dispersed administrative unit that encompassed both a portion of the Sumatran mainland and the island of Simeulue (also known in colonial sources as Simaloer), located off the western coast of Sumatra in the Indian Ocean. The *hoofdplaats* (chief town) of the *onderafdeeling* was Sinabang, situated on Simeulue, which served as the administrative center from which Controleur [[L. Berkhout]] exercised his authority over the entire *onderafdeeling*. This arrangement—administering a mainland territory from an island *hoofdplaats*—was unusual and reflected the particular pattern of Dutch administrative penetration in this remote region, where control had been established from the sea and the island of Simeulue had served as a base for the extension of colonial authority onto the adjacent mainland coast.
+
+Simeulue itself was a distinctive community within the *Gouvernement Atjeh en Onderhoorigheden*. The island's population spoke their own language—Simeulue—not Acehnese, and their cultural and social traditions differed significantly from those of the mainland Acehnese. The administrative subordination of Simeulue to the *Gouvernement* at [[Koeta-Radja]] was a consequence of the colonial state's territorial organization rather than of any organic political or cultural connection between the island and the Acehnese mainland. The island's remoteness and its distinct ethno-linguistic identity posed ongoing challenges for colonial administration, as the standard administrative templates developed for the Acehnese-speaking territories were not directly applicable to Simeulue's communities.
+
+## Direct Rule and the Dual Administrative Structure
+
+The classification of part of Singkel as *rechtstreeks bestuurd gebied* (directly ruled territory) was a point of considerable administrative significance that Gouverneur [[H. N. N. A. Swart]] specifically raised at the Koeta-Radja meetings. The *Gouvernement Atjeh en Onderhoorigheden* was unique among the *Buitenbezittingen* in containing both directly ruled territory and *Inlandsche Zelfbesturen* (Native Self-Governments) within a single governmental unit. The directly ruled areas comprised [[Groot-Atjeh]] and part of Singkel, while the remainder of the Gouvernement—including the various *landschappen* (territories under indigenous self-government)—fell under the *zelfbestuur* system. This dual structure was the product of the incremental and uneven nature of Dutch expansion in Atjeh, where some areas had been brought under direct colonial administration while others retained their indigenous governing institutions under the supervision of the colonial state.
+
+The existence of *rechtstreeks bestuurd gebied* within Singkel had direct implications for the reorganization discussions. [[S. de Graaff]] cited this dual structure—the coexistence of directly ruled territory with self-governing *landschappen*—as the primary reason why Atjeh could not be placed under the local *zelfbestuur* proposed for other territories in the reorganization. Where an entire territory consisted of *Inlandsche Zelfbesturen*, as in the case of Lampong or Bengkulu, the introduction of local *zelfbestuur* at the *gewest* level was straightforward. But in Atjeh, the presence of a substantial directly ruled population in Groot-Atjeh and Singkel meant that local *zelfbestuur*—which presupposed the existence of indigenous self-governing institutions at every level—was not feasible. Instead, De Graaff determined that only *Gewestelijk Zelfbestuur* (regional self-government at the *gewest* level) was appropriate for Atjeh, a form of autonomy that could accommodate both directly ruled and self-governing territories within a single framework.
+
+## Singkel in the Broader Reorganization Context
+
+The *onderafdeeling* Singkel's place in the proposed reorganization of the [[Bestuursreorganisatie Sumatra (1913-1914)]] reflected its peripheral position within the *Gouvernement Atjeh en Onderhoorigheden*. Unlike the core *afdeelingen* of Groot-Atjeh, the Westkust, Oostkust, and Noordkust—which were the subject of detailed boundary adjustments and merger proposals—Singkel's fate received less specific attention in the *bestuursvergaderingen*, suggesting that its remote location and relatively small population made it a lower priority for reorganization. Nevertheless, the administrative classification of part of Singkel as *rechtstreeks bestuurd gebied* ensured that it remained relevant to the broader discussion about Atjeh's governance future, as it contributed to the unique administrative character that distinguished the *Gouvernement* from other territories and that shaped De Graaff's decision to assign it *Gewestelijk Zelfbestuur* rather than local *zelfbestuur*.
+
 ## See Also
 
 - [[Abdurra'uf of Singkel]]
@@ -118,17 +138,21 @@ The Menangkabau constitutional theory is also stated most clearly in the Singkel
 - [[1681]]
 - [[1690]]
 - [[1693]]
+- [[L. Berkhout]]
+- [[Groot-Atjeh]]
+- [[Rechtstreeks bestuurd gebied]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[H. N. N. A. Swart]]
+- [[S. de Graaff]]
+- [[Gewestelijk Zelfbestuur]]
+- [[Koeta-Radja]]
 
 ## Sources
 
 s
-
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
-
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 11, 22–23, 25, 38, 60–63, 216.
-
 *De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), pp. 28–29.
-
 *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V, p. 120.
-
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 18–19, 21–22, 3 (tekst bij blad 4 en 5: *Atjeh en de Westkust van Sumatra in 1684*, *De Compagnie in den Archipel na 1684 tot 1791 — Sumatra*).
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130.

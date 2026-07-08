@@ -1,0 +1,25 @@
+---
+title: C. Lulofs
+aliases: [C. Lulofs, Lulofs]
+tags: [person, dutch, colonial-administrator, advisor, buitenbezittingen]
+---
+
+C. Lulofs was a Dutch colonial administrator who served as *Waarnemend Adviseur voor de bestuurszaken der Buitenbezittingen* (Acting Advisor for the Administrative Affairs of the Outer Possessions) during the critical period of the [[Bestuursreorganisatie Sumatra (1913-1914)]]. In this capacity, he occupied a pivotal advisory position within the colonial bureaucracy, responsible for guiding policy on the governance of territories outside the directly administered regions of the Netherlands East Indies. His role as *waarnemend* (acting) advisor indicates that he was filling the position on an interim basis, yet the substantive nature of his contributions to the reform discussions demonstrates that he was thoroughly versed in the complexities of indigenous administration and colonial governance. He was present at the *bestuursvergaderingen* (administrative meetings) held at [[Koeta-Radja]] on [[19 January]] [[1914]] and [[20 January]] [[1914]], where the future administrative structure of Atjeh and the broader Sumatran territories was debated.
+
+## Role in the Bestuursreorganisatie
+
+Lulofs played an active and consequential role in the deliberations surrounding the [[Bestuursreorganisatie Sumatra (1913-1914)]], contributing questions and observations that prompted significant clarifications from senior officials. His most notable intervention during the [[Koeta-Radja]] meetings concerned the appointment process for *Inlandsche hoofden* (Native heads), the indigenous officials who formed the backbone of the *Inlandsch Bestuur* (Native Administration) in Atjeh and other territories. Lulofs asked whether the Atjeh population itself proposed candidates for these appointments, or whether nominations originated exclusively from the European *Bestuur* (administration). This question struck at the heart of a fundamental tension in Dutch colonial policy: the balance between respecting indigenous customs of selection and maintaining European oversight and control over the appointment process. The question reflected Lulofs's professional concern with how the *Buitenbezittingen*—territories governed through indirect rule rather than direct European administration—should manage the interface between indigenous customary law and colonial bureaucratic requirements.
+
+The response from [[H. N. N. A. Swart|Gouverneur Swart]] revealed the specific character of the Atjeh system of consultation. Swart explained that the population was indeed heard and their preferences taken into account, but that their recommendations could be overridden if the *rechthebbende* (claimant)—the person who would traditionally inherit or claim the position—lacked the required qualifications. Crucially, Swart emphasized that *bekwaamheden* (competence) was increasingly becoming the decisive factor in appointments, signaling a shift away from purely hereditary succession toward a more meritocratic approach favored by the colonial administration. This exchange between Lulofs and Swart illuminated the evolving philosophy of colonial governance in Atjeh, where decades of conflict had forced the Dutch to renegotiate the relationship between indigenous authority structures and colonial administrative needs.
+
+## Earlier Contributions at Medan
+
+Lulofs had also contributed meaningfully to the earlier Medan phase of the reform discussions, where his questions about administrative personnel revealed practical frictions in the existing system. He noted that the position of *Assistent-Resident ter beschikking* (Assistant-Resident at disposal)—an official assigned to a region without a fixed administrative portfolio—had sometimes led to friction with *besturende ambtenaren* (administrative officials) who held defined territorial responsibilities. This observation pointed to a structural problem in the colonial administrative apparatus, where officials without clear jurisdictional boundaries could inadvertently encroach upon the authority of those with specific mandates. The *ter beschikking* arrangement, while intended to provide flexible staffing for emerging needs, had in practice created confusion about chains of command and areas of competence. Lulofs's attention to this matter reflected his broader concern with administrative efficiency and the need for clearly delineated responsibilities within the reformed governance structure. His contributions at both Medan and Koeta-Radja demonstrate that he was deeply engaged with the practical implications of the reorganization, not merely its theoretical framework.
+
+## See Also
+
+[[H. N. N. A. Swart]], [[S. de Graaff]], [[Inlandsch Bestuur]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Erfelijkheid in Atjeh hoofd appointments]], [[Buitenbezittingen]], [[Koeta-Radja]]
+
+## Source
+
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118-130.

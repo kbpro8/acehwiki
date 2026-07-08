@@ -1,7 +1,7 @@
 ---
 title: Pidie
-aliases: [Pedir, Pidié, Pidië, Mukim Tujoh, VII Mukims Pidie, Pidie territory, Pidie Region, Pidie]
-tags: [place, north-east-coast, region, coast-state, east-coast, dependency, achehnese, noordkust]
+aliases: [Pedir, Pidié, Pidië, Mukim Tujoh, VII Mukims Pidie, Pidie territory, Pidie Region, Pidie, Pedir Sultanate region]
+tags: [place, north-east-coast, region, coast-state, east-coast, dependency, achehnese, noordkust, onderafdeeling, pidie, noordkust-van-atjeh, atjeh, strategic, administrative-division]
 ---
 
 The major North Coast territory and kingdom. 'The Achehnese give the name of Pidie to the whole of the territory which formerly belonged to the kingdom of that name, i.e. almost the whole of the North Coast with its hinterland.' Pidie is historically known as a seat of religious learning: 'Thus most of the learned in Great [[Acheh]] have spent the greater part of their student life in Pidie, while vice versa the studiously inclined in Pidie and on the East Coast amass their capital of knowledge in Great [[Acheh]].' The centres of learning in Pidie before the Dutch included [[Langga and Langgo]], [[Langga and Langgo]], [[Sriweue]], [[Simpang]], and [[Ie Leubeue]] (= Ayer Labu). [[Tiro]] in Pidie was 'sanctified by the presence of so many living ulamas and the holy tombs of their predecessors.' Heretical mysticism (eleumee sale) also flourished in Pidie. In the [[Hikayat Malem Dagang]], 'The first place touched at is Pidie (vulg. Pedir), the panglima of which is handed down to fame as the bravest and most distinguished of generals.' The [[Hikayat Pochut Muhamat]] describes [[Pochut Muhamat]]'s tour through Pidie gathering allies: he visited [[Padang Teuji]], [[Reubee]], and eventually won over [[Pangulee Beunaroe]], the powerful uleebalang of the IX Mukims. The sadati kisah describes Pidie as forming a square with four uleebalangs holding power: 'The X Mukims are subject to Bentara Keumangan; Teungku Sama Indra rules the VIII Mukims; The La'seumana is a fatherless child; he rules the XXII Mukims; The V Mukims are under the control of Teungku Ujong
@@ -45,6 +45,25 @@ Piekaar records of Pidië that "in fact a medieval system of feudal ownership st
 
 "On the other hand however [[Sigli|Sigli]], the heart of the former district of Pidie, was the bulwark of the *oelèëbalang* authority. Nowhere were the *oelèëbalangs* more powerful, both politically and economically, than in the rich Pidië." The bulwark quality of Pidië was, in Piekaar's analysis, precisely the reason why the [[Poesa|Poesa]] leaders — although Sigli belonged to their foremost action centres — did not unleash a large-scale revolt in Pidië in February [[1942]], as they had done in [[Seulimeum|Seulimeum]] and [[Tjalang|Tjalang]]. "May it be concluded from this that the Pusa leaders, although Sigli belonged to their foremost action centers, did not feel themselves capable of unleashing a large-scale fifth column action in this stronghold of the *oelèëbalangs*?" The region between [[Sigli|Sigli]] and [[Bireuën|Bireuën]] was, after the Japanese capitulation of [[August]] [[1945]], the "stronghold of PUSA" from which the post-war unrest of the republican period radiated.
 
+## Account from the *Notulen der bestuursvergaderingen* (1914) — Pidië
+
+**Pidië** (also Pedir, modern Pidie) was an *onderafdeeling* (sub-district) of the [[Gouvernement Atjeh en Onderhoorigheden]], administered by Majoor [[Th. J. Veltman]] as *Civiel Gezaghebber*. Pidië occupied a strategically important position on the north coast of Atjeh and was one of the most significant regions in Atjeh's history, having been the site of the powerful sultanate of Pedir in the pre-colonial period. The placement of a military officer (a Majoor der Infanterie) as its *Civiel Gezaghebber* indicated the continued importance of Pidië from a security perspective and the ongoing militarization of Atjeh's civil administration, a hallmark of the *Gouvernement* system that distinguished it from civilian-governed territories elsewhere in the Netherlands East Indies.
+
+## Historical Significance: The Sultanate of Pedir
+
+The region of Pidië carried historical resonances that extended far beyond its administrative status as an *onderafdeeling*. In the fifteenth and sixteenth centuries, the Sultanate of Pedir had been one of the most powerful polities on the island of Sumatra, a major center of trade and Islamic learning whose influence extended across the Indian Ocean world. Portuguese and other European sources of the early modern period regularly identified Pedir as a key port of call and a significant political power in the Strait of Malacca region. The decline of the Pedir sultanate in the later sixteenth century—coinciding with the rise of the Aceh sultanate based at [[Koeta-Radja]]—did not erase the region's political and cultural significance, and the communities of Pidië retained a strong sense of distinct identity within the broader Acehnese world.
+
+The Dutch colonial administration's recognition of Pidië as a separate *onderafdeeling* reflected this historical and political legacy. Unlike some *onderafdeelingen* that were defined primarily by their *moekim* composition or geographic boundaries, Pidië was a region with a deeply rooted indigenous political identity that predated the colonial state. The decision to administer it under a *Civiel Gezaghebber* rather than a Controleur—and specifically a military officer of the rank of Majoor—indicated that the colonial authorities viewed Pidië as a region requiring both administrative attention and a military presence. This assessment likely reflected both the strategic location of Pidië on the northern coast and the possibility that its historically rooted regional identity could pose challenges to colonial control if not carefully managed.
+
+## Administrative Role Within the Noordkust
+
+As an *onderafdeeling* within the [[Noordkust van Atjeh]] *afdeeling*, Pidië operated under the overall authority of Assistent-Resident [[M. C. Roos van Raadshoven]], while maintaining its own administrative apparatus under [[Th. J. Veltman]]. This two-tiered structure—*onderafdeeling* within *afdeeling*—was characteristic of the colonial administrative system, which relied on a hierarchy of officials with progressively broader territorial responsibilities. The *Civiel Gezaghebber* at Pidië exercised direct administrative control over the *onderafdeeling*, overseeing the indigenous *moekim* and *gampong* (village) level officials who formed the lowest tier of the governance structure. The military rank of the *Civiel Gezaghebber* meant that civil and military functions were combined in a single official, a feature of Atjeh's administration that reflected the territory's unique status as a *Gouvernement* under a Civiel en Militair Gouverneur.
+
+The continued presence of a Majoor as *Civiel Gezaghebber* in Pidië as late as 1914—more than three decades after the initial Dutch military penetration of the region—testified to the persistent security concerns that shaped Atjeh's governance. While other parts of the Netherlands East Indies had transitioned to fully civilian administration by this period, Atjeh remained under a governance system that explicitly combined civil and military authority. The specific circumstances of Pidië, with its historically powerful regional identity and its location on the densely populated northern coast, warranted the retention of a military officer in this civil administrative post, ensuring that the colonial state could respond rapidly to any security challenge without the delays inherent in requesting military support from a separate command structure.
+
+## Pidië in the Proposed Reorganization
+
+In the proposed administrative reorganization of the [[Bestuursreorganisatie Sumatra (1913-1914)]], the *onderafdeeling* Pidië continued as a subdivision within the merged "Noord- en Oostkust van Atjeh behalve Tamiang" *afdeeling*, which combined the former [[Noordkust van Atjeh]] and [[Oostkust van Atjeh]] into a single administrative unit with a population of approximately 480,000. The preservation of Pidië as a distinct *onderafdeeling* within this larger entity recognized the region's unique historical identity and its continuing administrative and strategic importance. The reorganization did not propose to alter the fundamental internal structure of Pidië's governance, suggesting that the colonial authorities regarded the existing arrangement—including the appointment of military officers as *Civiel Gezaghebbers*—as appropriate to local conditions and likely to persist under the new administrative framework.
 
 ## See Also
 
@@ -84,13 +103,19 @@ Piekaar records of Pidië that "in fact a medieval system of feudal ownership st
 - [[Padang Tidji]]
 - [[1942]]
 - [[1945]]
+- [[Th. J. Veltman]]
+- [[Noordkust van Atjeh]]
+- [[Civiel Gezaghebber]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[M. C. Roos van Raadshoven]]
+- [[Oostkust van Atjeh]]
+- [[Koeta-Radja]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
-
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 1, 9, pp. 1–2, 156.
-
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 198–199, 252. Rijksarchief, Den Haag.
-
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 2, Chapter III § 2, Chapter V §§ 1–2, Chapter VII § 4.
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), p. 118.

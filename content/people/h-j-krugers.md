@@ -1,0 +1,25 @@
+---
+title: H. J. Krugers
+aliases: [H. J. Krugers, Krugers]
+tags: [person, dutch, colonial-administrator, assistent-resident, oostkust-van-atjeh]
+---
+
+H. J. Krugers was a Dutch colonial administrator who served as *Assistent-Resident der afdeeling Oostkust van Atjeh* (Assistant-Resident of the East Coast of Atjeh division) during the period of the [[Bestuursreorganisatie Sumatra (1913-1914)]]. As the senior European official responsible for the [[Oostkust van Atjeh]], Krugers occupied a strategically significant position within the administrative framework of the [[Gouvernement Atjeh en Onderhoorigheden]]. The *afdeeling* (division) he administered comprised the eastern coastal region of Atjeh, an area that had experienced substantial economic and administrative transformation under Dutch rule, particularly as a result of the expansion of plantation agriculture and the associated infrastructure development. Krugers was present at the *bestuursvergaderingen* (administrative meetings) held at [[Koeta-Radja]] on [[19 January]] [[1914]] and [[20 January]] [[1914]], though no recorded remarks from him appear in the official minutes. His attendance nonetheless reflects his status as one of the key territorial administrators whose jurisdiction would be directly reshaped by the proposed reorganization.
+
+## The Oostkust van Atjeh and the Medan Deliberations
+
+The [[Oostkust van Atjeh]] was a significant topic of discussion during the earlier Medan phase of the [[Bestuursreorganisatie Sumatra (1913-1914)]], where its administrative future was debated in the context of broader territorial consolidation. At Medan, it had been proposed that the Oostkust be combined with the neighboring *afdeeling* of Langkat to form a new consolidated division designated "Langkat met de Oostkust van Atjeh" (Langkat with the East Coast of Atjeh), with a combined population of approximately 230,000. This proposal reflected a vision of administrative rationalization that sought to merge territories across the existing boundary between the [[Gouvernement Atjeh en Onderhoorigheden]] and the *Residentie Oostkust van Sumatra* (Residency of the East Coast of Sumatra). The rationale for such cross-boundary consolidation was rooted in economic geography: the plantation districts of the Oostkust van Atjeh were closely integrated with the economic infrastructure of Langkat and the broader Deli region, and their separate administration under different governmental structures was seen as an impediment to efficient governance and economic development.
+
+The Medan proposal to merge the Oostkust with Langkat was part of a larger vision for the new *gewest* (province) of [[Noord-Sumatra (proposed gewest)]], which would reorganize the territories of northern Sumatra under a unified administrative structure. Under this plan, the artificial boundary between the Atjeh government and the East Coast Residency would be dissolved or fundamentally reconfigured, allowing for more rational administrative divisions based on economic and geographic realities rather than historical military-political boundaries. Krugers's jurisdiction as *Assistent-Resident* of the Oostkust would have been directly affected by this proposal, potentially eliminating his current position or requiring his reassignment to a different role within the reorganized structure.
+
+## The Koeta-Radja Revisions
+
+At the Koeta-Radja meetings, the proposals concerning the Oostkust underwent significant revision. Rather than being combined with Langkat as previously discussed at Medan, the [[Oostkust van Atjeh]] was instead merged with the [[Noordkust van Atjeh]] into a new consolidated *afdeeling* designated "Noord- en Oostkust van Atjeh behalve Tamiang" (North and East Coast of Atjeh except Tamiang). This revision represented a departure from the cross-boundary consolidation envisioned at Medan, keeping the Oostkust within the Atjeh administrative sphere rather than merging it with territories to the south and east. The exclusion of Tamiang from the new division indicated that this sub-region was to be administered separately, likely because of its distinct geographic and administrative characteristics. The new combined division would encompass a substantial population and territory, requiring an *Assistent-Resident* with the capacity to manage a diverse and expansive jurisdiction. While Krugers did not speak during the recorded proceedings, his presence ensured that he was informed of these changes, which would have profound implications for his professional responsibilities and the administrative landscape of his division.
+
+## See Also
+
+[[H. N. N. A. Swart]], [[M. C. Roos van Raadshoven]], [[Oostkust van Atjeh]], [[Noordkust van Atjeh]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Noord-Sumatra (proposed gewest)]], [[Langkat]], [[Koeta-Radja]]
+
+## Source
+
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118, 358.

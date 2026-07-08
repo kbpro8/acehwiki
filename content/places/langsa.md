@@ -1,7 +1,7 @@
 ---
 title: Langsa
-aliases: [Langsa, Langsar, Koewala Langsa, Koeala Langsa, Langsa Estate, haven van Langsa, the harbour of Langsa]
-tags: [place, hoofdplaats, oostkust, colonial, dutch, buitenbezittingen, tramway, rubber]
+aliases: [Langsa, Langsar, Koewala Langsa, Koeala Langsa, Langsa Estate, haven van Langsa, the harbour of Langsa, Langsa town, East Coast Atjeh]
+tags: [place, hoofdplaats, oostkust, colonial, dutch, buitenbezittingen, tramway, rubber, town, langsa, oostkust-van-atjeh, atjeh, border-region]
 ---
 **Langsa** was the hoofdplaats of the [[Afdeeling Oostkust van Atjeh|Afdeeling Oostkust van Atjeh]] and, by [[1917]], the second city of the *gewest* — the trade-centre of the great European rubber, tobacco, and petroleum cultures of the eastern lowlands and the natural rival of [[Koeta Radja|Koeta Radja]] for commercial primacy in the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* describes Langsa as the place where, after the *pacificatie* under [[H. N. A. Swart|Swart]], "eene jonge, frissche handels-energie" unfolded, transforming a town "als het ware uit den moerassigen bodem gestampte stad" — a city, as it were, hammered out of the swampy ground — into the principal European centre of the eastern coast.
 
@@ -34,6 +34,26 @@ Langsa also served as the eastern terminus of the second [[Atjeh-tram|Atjeh tram
 
 The haven of Koeala Langsa — second only to [[Sabang|Sabang]] in importance among the Atjehsche havens — was fostered by [[Joannes Benedictus van Heutsz|Generaal Van Heutsz]], who "trachtte in te blazen door de sluiting van andere havens als het meer Noordelijk gelegen Idi" — sought to invigorate it by closing other havens such as the more northerly Idi. Despite this *kunstmatige bescherming*, the haven's ligging was favourable; vrij diepgaande schepen could lie alongside a schroefpaal-steiger and discharge directly to the spoorweg. The haven received 577 steamers (285,000 M³) in [[1913]], 465 (235,000) in [[1914]], and 437 (207,000) in [[1915]] — figures exceeded only by Sabang. The *in-* and *uitvoerrechten* of Langsa grew from ƒ27,000/ƒ5,000 in [[1910]] to ƒ90,000/ƒ24,000 in [[1914]], the steepest rise in the *gewest*. Plans for a great ocean-haven at Telok Taboean, ten km east of Pangkalan Soesoe in the Aroebaai, were abandoned in favour of simpler installations at Pangkalan Soesoe itself, where the Deli Spoorweg Maatschappij, the Atjeh-tram, and the Bataafsche Petroleum Maatschappij all maintained installations.
 
+## Account from the *Notulen der bestuursvergaderingen* (1914) — Langsa
+
+**Langsa** was a town in the eastern part of Atjeh, on the Oostkust (East Coast). In the proposed administrative reorganization discussed at the Medan meeting ([[January]] [[1914]]), Langsa was identified as one of the Atjeh areas that would be added to the *afdeeling* Langkat in the new [[Noord-Sumatra (proposed gewest)]]. Resident [[Van der Plas]] stated that the addition of Atjeh areas including Langsa and [[Tamiang]] to the *afdeelingen* Deli and Langkat should be left to the judgment of the Gouverneur van Atjeh, recognizing that local knowledge was essential for final border determinations. Langsa's proposed transfer out of the Atjeh administrative structure underscored the town's position as a border community whose economic and social connections pointed toward the east coast plantation belt rather than toward the Acehnese highlands.
+
+## Geographic and Economic Context
+
+Langsa occupied a position on the eastern coast of Atjeh that placed it at the interface between the Acehnese world and the economically dynamic region of Sumatra's Oostkust. Situated along the Strait of Malacca littoral, Langsa was part of a chain of coastal settlements that had historically served as ports of trade and points of contact between the interior highlands and the maritime commercial networks of the strait. By the early twentieth century, the development of the plantation economy in the neighboring Deli and Langkat regions had transformed the economic landscape of the eastern coast, creating demand for labor, agricultural products, and trade goods that increasingly drew coastal communities like Langsa into the economic orbit of the east coast rather than the more remote administrative center of [[Koeta-Radja]].
+
+The economic orientation of Langsa toward the east coast was reinforced by the transportation infrastructure of the region. Roads and railway lines connecting the plantation districts of Deli and Langkat with their ports and processing facilities extended along the coastal plain, and the communities of the Atjeh Oostkust—including Langsa—found themselves increasingly connected to this infrastructure. The practical reality of commerce and communication meant that Langsa's residents were more likely to travel to Medan or the ports of Langkat for trade and administrative business than to make the longer and more difficult journey to Koeta-Radja. This economic and infrastructural alignment provided the substantive basis for the proposal to transfer Langsa out of the Atjeh administrative structure and into the Langkat-based *afdeeling*.
+
+## Langsa in the Reorganization Discussions
+
+The proposal to transfer Langsa to the Langkat *afdeeling* was part of the broader [[Atjeh-Sumatra's Oostkust merger proposal]] discussed during the [[Bestuursreorganisatie Sumatra (1913-1914)]]. At the Medan meeting, Resident [[Van der Plas]] had proposed that the entire [[Oostkust van Atjeh]] be merged with Langkat, which would have brought Langsa—and indeed all of eastern Atjeh—under the Langkat-based administration. However, this proposal was modified at the Koeta-Radja meeting, where the revised plan created the combined *afdeeling* "Noord- en Oostkust van Atjeh behalve Tamiang," keeping most of the Oostkust within the Atjeh-based administrative structure while explicitly excluding [[Tamiang]] for transfer to Langkat. The specific fate of Langsa within this revised scheme was not definitively resolved in the minutes; Van der Plas's statement that the addition of Atjeh areas including Langsa and Tamiang to the *afdeelingen* Deli and Langkat should be left to the judgment of the Gouverneur van Atjeh indicated that the final determination of Langsa's administrative归属 was considered a matter requiring local consultation and discretion.
+
+The decision to leave Langsa's fate to the Gouverneur's judgment reflected a pragmatic recognition that boundary adjustments of this nature could not be fully resolved in the abstract discussions of a *bestuursvergadering*. The Gouverneur's familiarity with local conditions—including the specific economic and social connections of Langsa, the views of local officials and community leaders, and the practical implications of transferring the town from one administrative jurisdiction to another—was essential for making a determination that would be both administratively sound and politically acceptable. This deference to local expertise was a recurring theme in the reorganization discussions, where the participants recognized that the broad principles of administrative rationalization needed to be tempered by attention to the specific realities of individual localities.
+
+## Relationship to Tamiang and the Broader Border Question
+
+Langsa's proposed transfer was closely linked to the parallel proposal regarding [[Tamiang]], as both were communities in the eastern Atjeh border region whose economic connections pointed toward the east coast. The two areas were often discussed together—as in Van der Plas's reference to "Atjeh areas including Langsa and Tamiang"—reflecting their shared position as border territories whose administrative reassignment was under consideration. However, the explicit exclusion of Tamiang from the combined "Noord- en Oostkust van Atjeh" *afdeeling*—memorialized in the very name of the new administrative unit—suggested that Tamiang's transfer had been more firmly decided than Langsa's, which remained subject to the Gouverneur's determination. The different treatment of the two areas may have reflected differences in their degree of economic integration with the east coast, the strength of their connections to the Acehnese highlands, or simply the practical considerations of administrative geography that made Tamiang's transfer more straightforward than Langsa's.
+
 ## See Also
 
 - [[Gouvernement Atjeh en Onderhoorigheden]]
@@ -54,11 +74,16 @@ The haven of Koeala Langsa — second only to [[Sabang|Sabang]] in importance am
 - [[1904]]
 - [[1907]]
 - [[1913]]
+- [[Oostkust van Atjeh]]
+- [[Atjeh-Sumatra's Oostkust merger proposal]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Van der Plas]]
+- [[Koeta-Radja]]
+- [[Noord-Sumatra (proposed gewest)]]
 
 ## Sources
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 69 (section "De Atjeh-tram").
-
-- *De Buitenbezittingen 1904*. In: *Mededeelingen van het Encyclopaedisch Bureau*. Batavia: G.C.T. van Dorp & Co., [ca. 1915], p. 258–261.
-
+*De Buitenbezittingen 1904*. In: *Mededeelingen van het Encyclopaedisch Bureau*. Batavia: G.C.T. van Dorp & Co., [ca. 1915], p. 258–261.
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 14–15, 25–27, 29–30, 38, 72–76, 214–217.
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), p. 358.

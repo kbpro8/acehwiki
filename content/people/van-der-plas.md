@@ -1,0 +1,29 @@
+---
+title: Van der Plas
+aliases: [Van der Plas, Resident Van der Plas]
+tags: [person, resident, bestuursreorganisatie, dutch-colonial-official, oostkust-sumatra, noord-sumatra]
+---
+
+## Lead
+
+Van der Plas was the *Resident van de Oostkust van Sumatra* (Resident of the East Coast of Sumatra), the senior Dutch colonial administrative official responsible for one of the most economically dynamic and strategically important residencies in the Netherlands East Indies. He attended the *bestuursvergaderingen* (administrative meetings) at Medan on [[13 January]]–[[15 January]] [[1914]], convened by *Regeeringscommissaris* [[S. de Graaff]] as part of the [[Bestuursreorganisatie Sumatra (1913-1914)]]. As Resident of the Oostkust, Van der Plas occupied a position of considerable influence in the deliberations over the proposed administrative restructuring of northern Sumatra, as his residency would be directly affected by—and would form a core component of—the proposed new [[Gouvernement Noord-Sumatra]]. His most significant contribution to the discussions was his detailed proposal for the administrative division of the proposed new governorate, including the partition of Atjeh into several *afdeelingen* that would integrate the former military governorate into the larger regional framework.
+
+## Proposed Administrative Division of Atjeh
+
+Van der Plas proposed seven *afdeelingen* (administrative divisions) for the proposed [[Noord-Sumatra (proposed gewest)]], including three specifically Atjeh-related divisions that would replace the existing structure of the [[Gouvernement Atjeh en Onderhoorigheden]]. The first of these was *Groot-Atjeh benevens de Westkust van Atjeh* (Great Atjeh together with the West Coast of Atjeh), with an estimated population of 210,000, which would encompass the core of the directly ruled territory and the western coastal region that had long been under Dutch military and administrative control. The second was *Noord-Atjeh* (North Atjeh), with a substantially larger estimated population of 480,000, covering the northern coastal districts that represented a significant portion of Atjeh's territory and population. The third was *Langkat met de Oostkust van Atjeh* (Langkat with the East Coast of Atjeh), with an estimated population of 230,000, which would combine the economically important Langkat district with the eastern Atjeh coastal areas, including the regions around [[Langsa]] and [[Tamiang]].
+
+Van der Plas's proposal was notable for the way it integrated Atjeh's territory into the broader administrative structure of the proposed governorate, rather than treating it as a separate entity requiring its own distinct administrative framework. The inclusion of the [[Oostkust van Atjeh]] within the same *afdeeling* as Langkat reflected the practical logic of combining territories that shared economic and geographic characteristics, even though they had historically been administered under different governance regimes. The significant population disparity between the proposed *afdeelingen*—ranging from 210,000 for Groot-Atjeh to 480,000 for Noord-Atjeh—suggests that Van der Plas's division was based on a combination of geographic logic, existing administrative boundaries, and demographic considerations rather than any attempt to create uniformly sized units.
+
+Van der Plas also stated that the addition of Atjeh areas, including [[Langsa]] and [[Tamiang]], to the *afdeelingen* of Deli and Langkat should be left to the judgment of the [[Gouverneur van Atjeh]]. This deference to the judgment of the Atjeh governor was significant, as it acknowledged that the precise boundaries of the proposed administrative divisions would need to be determined by officials with detailed knowledge of local conditions, rather than being fixed by the reorganization plan itself. It also reflected a practical recognition that the transition from the existing governorate structure to the new *Gouvernement Noord-Sumatra* framework would require careful management of boundary questions that could not be resolved in the abstract deliberations of a *bestuursvergadering*.
+
+## Significance
+
+Van der Plas's proposed administrative division of Atjeh represents one of the most concrete and detailed contributions to the [[Bestuursreorganisatie Sumatra (1913-1914)]] as it pertained to the Atjeh question. While much of the discussion at the *bestuursvergaderingen* focused on principles and general frameworks, Van der Plas provided a specific territorial plan with population estimates that could serve as a practical basis for implementation. His proposal to partition Atjeh into three *afdeelingen* integrated within the larger structure of the proposed [[Gouvernement Noord-Sumatra]] embodied the central logic of the reorganization: the replacement of the anomalous military governorate with a standard administrative structure that would bring Atjeh into alignment with the rest of the colonial territory. At the same time, his suggestion that certain boundary questions be left to the judgment of the *Gouverneur van Atjeh* demonstrated a pragmatic awareness that the transition would need to accommodate the specific knowledge and authority of local officials, rather than being imposed purely from above. Van der Plas's contribution thus illustrates the interplay between the standardizing impulse of the reorganization and the practical accommodations necessary to make it workable in a territory as complex and distinctive as Atjeh.
+
+## See Also
+
+[[S. de Graaff]], [[Noord-Sumatra (proposed gewest)]], [[Groot-Atjeh]], [[Westkust van Atjeh]], [[Oostkust van Atjeh]], [[Noordkust van Atjeh]], [[Bestuursreorganisatie Sumatra (1913-1914)]]
+
+## Source
+
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 114, 358.

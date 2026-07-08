@@ -1,0 +1,29 @@
+---
+title: V. A. Doeve
+aliases: [Doeve, V.A. Doeve, Victor Adolf Doeve]
+tags: [person, dutch, colonial-administrator, secretary, atjeh]
+---
+
+## Overview
+
+V. A. Doeve was a Dutch colonial official who held the position of *Secretaris van het Gouvernement Atjeh en Onderhoorigheden* (Secretary of the Government of Atjeh and Dependencies) during the early twentieth century. He was present at the *bestuursvergaderingen* (administrative meetings) convened at [[Koeta-Radja]] on [[19 January]] [[1914]] and [[20 January]] [[1914]] by Gouverneur [[H. N. N. A. Swart]] to discuss the *bestuursreorganisatie* (administrative reorganization) of the Netherlands Indies. Although no specific remarks are recorded under his name in the *notulen* (minutes), his attendance was a matter of course given his position as the chief bureaucratic officer of the Gouvernement. The secretary of a *Gouvernement* was responsible for the formal correspondence, official records, and administrative processes of the governor's office, making his presence at any meeting of administrative significance both essential and expected. His role in the meetings likely extended beyond mere attendance to include the preparation of agenda materials, the drafting of minutes, and the subsequent communication of decisions to the relevant authorities in Batavia and across the Gouvernement.
+
+## The Role of the Gouvernements-Secretaris
+
+The position of *Secretaris van het Gouvernement* (Government Secretary) was one of the most important bureaucratic posts in the [[Gouvernement Atjeh en Onderhoorigheden]], serving as the principal administrative officer under the *Civiel en Militair Gouverneur*. The secretary was responsible for managing the voluminous correspondence that flowed between the Gouvernement and the central government in Batavia, the various *afdeelingen* and *onderafdeelingen* within Atjeh, and the military commands stationed throughout the territory. In a Gouvernement that exercised quasi-sovereign powers over a vast and complex territory, the secretary's office was the bureaucratic engine that kept the administrative machine running, processing orders, reports, personnel matters, financial accounts, and legal documents. The secretary also played a crucial role in the preparation and distribution of official communications related to the governance of the territory, including the *bestuursvergaderingen* that Gouverneur [[H. N. N. A. Swart]] convened in January 1914. It is probable that Doeve was involved in the logistical arrangements for the meetings, the compilation of briefing materials for the attendees, and the subsequent preparation of the *notulen* that were published by the *Landsdrukkerij* (State Printing Office) in Batavia later that year.
+
+## The Bestuursreorganisatie and the Bureaucratic Apparatus
+
+The *bestuursreorganisatie* (administrative reorganization) discussed at the Koeta-Radja meetings in January 1914 had profound implications for the bureaucratic apparatus of the [[Gouvernement Atjeh en Onderhoorigheden]], and therefore for Doeve's own position and responsibilities. The central question of the reorganization was whether the Gouvernement would continue to exist as a separate administrative entity under the leadership of a *Civiel en Militair Gouverneur*, or whether it would be abolished and its territories incorporated into a new *gewest* (region) of [[Noord-Sumatra (proposed gewest)]] under a *Gouverneur* with more limited powers. If the latter course were adopted, the entire bureaucratic structure of the Gouvernement—including the secretary's office—would need to be reorganized, downsized, or merged with the administrative apparatus of the new regional government. Gouverneur [[H. N. N. A. Swart]] argued forcefully during the meetings for the retention of the Gouvernement's unique status, citing the territory's exceptional conditions and the continued need for the special powers vested in the *Civiel en Militair Gouverneur*. For Doeve, the outcome of these discussions would determine not only the future trajectory of his career but also the nature and scale of the bureaucratic organization he would be called upon to manage.
+
+## The Gouvernement Atjeh en Onderhoorigheden as an Administrative Entity
+
+The [[Gouvernement Atjeh en Onderhoorigheden]] occupied a unique position in the administrative hierarchy of the Netherlands Indies, exercising powers and maintaining structures that distinguished it from every other territory in the colonial archipelago. Established in the aftermath of the initial Dutch military intervention in Atjeh, the Gouvernement was placed under the authority of a *Civiel en Militair Gouverneur* who combined both civil and military powers in a single office—a concentration of authority that had no parallel in the ordinary Residencies of the Indies. The Gouvernement's territory was divided between the *rechtstreeks bestuurd gebied* (directly ruled territory) of [[Groot-Atjeh]] and surrounding areas, and the *Inlandsche Zelfbesturen* (Native Self-Governments) that exercised indirect rule over more remote or less pacified regions. As the secretary of this anomalous administrative entity, Doeve occupied a position that required both the bureaucratic competence expected of any senior colonial administrator and a nuanced understanding of the unique political, military, and social conditions that prevailed in Atjeh after decades of conflict.
+
+## See Also
+
+[[H. N. N. A. Swart]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Koeta-Radja]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Noord-Sumatra (proposed gewest)]], [[Civiel en Militair Gouverneur]], [[Groot-Atjeh]]
+
+## Source
+
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118-130.
