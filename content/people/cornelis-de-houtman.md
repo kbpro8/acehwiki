@@ -67,8 +67,12 @@ Cornelis de Houtman is significant to [[Acheh|Atjeh]]'s history as the first Dut
 
 - [[De Kleine Oosterling]]
 - [[Houtman brothers' visit to Atjeh (1599)]]
+- [[Het Land van Jan Pieterszoon Coen (Terwogt)]]
+- [[Dr. W. A. Terwogt]]
 ## Source
 
 *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter XXIII ("Sint Thomas. De Madoera-ziekte. Malakka. Het groote kanon in Atjeh. Java. Paradijsvogels. Lélang. Koloniale Portugeezen"), p. 81 of the numbered-letter sequence, and chapter XXXII ("Het Kasteel van Verre. De brief op varkensvel in Atjeh. Bali en Holland één!"), pp. 114–118.
 
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 27 (tekst bij blad 1: *De eerste reizen der Nederlanders — Eenige der volgende reizen naar O. Indië, I. Rond Z. Afrika, a. C. en F. de Houtman en Lefort (Atjeh) 1598/9*).
+
+*Het Land van Jan Pieterszoon Coen*, door Dr. W. A. Terwogt (Hoorn: P. Geerts, [1891]). Hoofdstuk I: the arrival at Atjeh on 21 June 1599, the poisoning and treacherous assault of 1 September 1599, and the death of Cornelis de Houtman — "de Atjehneezen zich door grootere energie van alle andere bevolkingen van den Archipel onderscheiden, maar hunne zeden diep verdorven zijn" (the Atjehnese distinguish themselves from all other populations of the archipelago by greater energy, but their morals are deeply corrupted).

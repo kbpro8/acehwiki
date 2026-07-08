@@ -158,6 +158,12 @@ The Dutch journalist Johan Luger, writing in the memorial for [[Maurice Henri du
 
 *Source: In Memoriam Maurice Henri du Croo* (1951), pp. 5, 6, 10, 20 (Meyer Ranneft, Luger).
 
+## Account from *Het Land van Jan Pieterszoon Coen* ([[1891]]) — the popular narrative
+
+[[Dr. W. A. Terwogt|Dr. W. A. Terwogt]]'s *[[Het Land van Jan Pieterszoon Coen (Terwogt)|Het Land van Jan Pieterszoon Coen]]* — a popular thirteen-chapter history of the Dutch in the East Indies, published by P. Geerts at [[Hoorn|Hoorn]] at the end of [[1891]] — treats the Atjeh-oorlog in the closing pages of its thirteenth chapter. The account is a continuous narrative from the [[1857]] treaty of [[Van Swieten|Van Swieten]] through the [[Eerste Atjeh-expeditie (1873)|first]] and [[Tweede Atjeh-expeditie (1873-1874)|second]] expeditions of [[1873]]–[[1874]] to the protracted guerrilla of the 1880s, and it is notable for its frank acknowledgment of the Dutch defeat in the first expedition and for its judgment that the war continued "onverzwakt" (unabated) at the time of writing. The full account is treated in [[Terwogt's account of the Atjeh-oorlog (1891)]].
+
+[[Dr. W. A. Terwogt|Terwogt]]'s key judgments: the first expedition was begun "met te geringe macht, overmoedig, met volkomen miskenning van de dapperheid en doodsverachting der Atjehers" (with too small a force, overconfident, with complete misappreciation of the bravery and death-defiance of the Atjehnese); the death of [[J. H. R. Köhler|Generaal-Majoor Köhler]] and the failed assault on the Kraton by [[Van Daalen|Van Daalen]] led to the withdrawal of [[25 April]] [[1873]] — "Zoo eindigde deze expeditie op treurige wijze. Wij hadden de nederlaag geleden" (Thus ended this expedition in a sad manner. We had suffered the defeat). The second expedition under [[Van Swieten|Van Swieten]] — over 6,000 strong, landed under [[Verspijck|Verspijck]] on [[9 December]] [[1873]] — occupied the Kraton on [[24 January]] [[1874]] (found deserted), named it [[Kutaradja|Kota-Radja]], and entrusted the command to [[Kolonel Pel|Kolonel Pel]]. The war continued, however, "onverzwakt" (unabated) to the end of [[1891]], thanks to the "wisselende houding" (wavering attitude) of the Dutch government. The account closes with the hope placed in the new Minister of Colonies, [[W. K. Baron van Dedem|W. K. Baron van Dedem]], who declared that he expected no good from "toegeven en zachtheid" (yielding and softness) toward the "fanatieken Atjeher" (fanatical Atjehnese).
+
 ## See Also
 
 - [[C. Snouck Hurgronje]]
@@ -224,6 +230,12 @@ The Dutch journalist Johan Luger, writing in the memorial for [[Maurice Henri du
 - [[Schmidt (Kolonel)]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[Orde van Oranje-Nassau]]
+- [[Het Land van Jan Pieterszoon Coen (Terwogt)]]
+- [[Dr. W. A. Terwogt]]
+- [[Terwogt's account of the Atjeh-oorlog (1891)]]
+- [[Nieuwenhuizen]]
+- [[Verspijck]]
+- [[W. K. Baron van Dedem]]
 - [[1925]]
 - [[1927]]
 
@@ -235,3 +247,4 @@ The Dutch journalist Johan Luger, writing in the memorial for [[Maurice Henri du
 *Opgave van Kaarten, Legenda, Verslagen, enz. verkrijgbaar bij den Beheerder der Kaarten van den Topografischen dienst te Weltevreden. Bijgewerkt tot 1 Januari 1933.* (Bijlage LLL). Geologisch Instituut der Universiteit van Amsterdam. LB 08841, pp. 827*-828*.
 *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 143-146, 167.
 *In Memoriam Maurice Henri du Croo* (1951), pp. 5, 6, 10, 20 (Meyer Ranneft, Luger).
+*Het Land van Jan Pieterszoon Coen*, door Dr. W. A. Terwogt (Hoorn: P. Geerts, [1891]). Hoofdstuk XIII: the Atjeh-oorlog 1857–1891, including the [[Eerste Atjeh-expeditie (1873)|first expedition]] (March–April 1873), the [[Tweede Atjeh-expeditie (1873-1874)|second expedition]] (December 1873–January 1874), and the protracted guerrilla to the end of 1891.

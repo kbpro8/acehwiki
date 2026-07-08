@@ -65,9 +65,16 @@ The Eerste Atjeh-expeditie is significant in both *[[Oom Ambon van het K.N.I.L.]
 - [[1885]]
 - [[1896]]
 - [[1918]]
+- [[Het Land van Jan Pieterszoon Coen (Terwogt)]]
+- [[Dr. W. A. Terwogt]]
+- [[Terwogt's account of the Atjeh-oorlog (1891)]]
+- [[Nieuwenhuizen]]
+- [[J. H. R. Köhler]]
+- [[Van Daalen]]
 
 ## Sources
 
 - *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Oom en de Bintang."
 - *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja.
 - *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 68 (section "De Atjeh-tram").
+- *Het Land van Jan Pieterszoon Coen*, door Dr. W. A. Terwogt (Hoorn: P. Geerts, [1891]). Hoofdstuk XIII: the first expedition 22 March–25 April 1873 — "Opnieuw, gelijk reeds zoo menigmaal te voren, begon men dezen oorlog met te geringe macht, overmoedig, met volkomen miskenning van de dapperheid en doodsverachting der Atjehers" (Once again, as so many times before, one began this war with too small a force, overconfident, with complete misappreciation of the bravery and death-defiance of the Atjehnese); the death of Köhler on 14 April; the failed assault on the Kraton by Van Daalen on 16 April; the withdrawal of 25 April — "Zoo eindigde deze expeditie op treurige wijze. Wij hadden de nederlaag geleden" (Thus ended this expedition in a sad manner. We had suffered the defeat).
