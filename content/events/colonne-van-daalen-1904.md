@@ -48,6 +48,15 @@ Van Daalen's tactics were the same as those used in the lowlands: relentless pur
 
 The expedition lasted **163 days**. Van Daalen reached **[[Tarotoeng]]** in the **[[Tapanoeli]]** residency on **[[18 June]] [[1904]]**. The campaign established Dutch control over the Gajo and Alas highlands, completing the pacification of Aceh.
 
+## Additional account from *Literatuur-Overzicht* ([[1940]]) — the 1939 retrospective accounts
+
+The van Daalen campaign of [[1904]] was the subject of two independent retrospective accounts published in [[1939]] — thirty-five years after the campaign — and recorded in [[H. van Meurs|Van Meurs]]'s *[[Literatuur-Overzicht over het jaar 1939 (Van Meurs, 1940)|Literatuur-Overzicht over het jaar 1939]]* (The Hague, [[1940]]), in the Sumatra chapter:
+
+- **[[De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden (Geusau, 1939)|No. 566]]** — by [[J. Alting van Geusau|J. Alting van Geusau]], in *Indisch Militair Tijdschrift*, No. 30, p. 593 *e.v.*, with illustrations, giving the campaign's precise dates as [[8 February]]–[[23 July]] [[1904]] and including the [[Bataklanden|Bataklands]] in the traverse of the column.
+- **[[De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden 1904 (Harders, 1939)|No. 568]]** — by [[J. E. Harders|J. E. Harders]], in the *Orgaan van de Nederlandsch-Indische Officiersvereeniging* (1939), with a cross-reference ("zie bij TICHELMAN, G. L.") indicating a connection to the ethnographic and illustrative work of [[G. L. Tichelmann|G. L. Tichelmann]].
+
+The double publication of retrospective accounts of the same campaign in two distinct professional military journals in the same year marks [[1939]] as a year of sustained retrospective interest in the van Daalen campaign. The inclusion of the Bataklanden in both titles extends the scope of the campaign account beyond the Gayo-Alas theatre proper, and the precise dates ([[8 February]]–[[23 July]] [[1904]]) furnish an independent confirmation of the campaign's duration. The cross-reference from the [[De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden 1904 (Harders, 1939)|Harders account]] to [[G. L. Tichelmann|Tichelmann]] connects the campaign retrospective to the wider ethnographic and antiquarian work on northern Sumatra represented in the same chapter of Van Meurs's survey — including [[In Atjeh opgedolven glazen kruikjes (Tichelmann, 1939)|Tichelmann's note on glass vessels excavated in Atjeh]] (No. 625) — and it suggests that Tichelmann may have contributed illustrations or ethnographic observations to the Harders article.
+
 ## See Also
 - [[G. C. E. van Daalen]]
 - [[Gajoland]]
@@ -65,9 +74,22 @@ The expedition lasted **163 days**. Van Daalen reached **[[Tarotoeng]]** in the 
 - [[J. B. van Heutsz]]
 - [[Panglima Polem]]
 - [[Tarotoeng]]
+- [[De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden (Geusau, 1939)]]
+- [[De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden 1904 (Harders, 1939)]]
+- [[J. Alting van Geusau]]
+- [[J. E. Harders]]
+- [[G. L. Tichelmann]]
+- [[Literatuur-Overzicht over het jaar 1939 (Van Meurs, 1940)]]
+- [[H. van Meurs]]
+- [[8 February]]
+- [[23 July]]
+- [[1939]]
+- [[1940]]
 
 ## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 33, 107, 114–115.
 
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
+
+*Literatuur-Overzicht over het jaar 1939 van de Taal-, Land- en Volkenkunde en Geschiedenis van Nederlandsch-Indië*, door H. van Meurs ('s-Gravenhage: M. Nijhoff, 1940), Hoofdstuk III (Sumatra en naburig gebied), Nos. 566, 568. Citing: J. Alting van Geusau, "De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden. Met ills. (8 Febr.–23 Juli 1904)," *Indisch Militair Tijdschrift*, No. 30 (1939), p. 593 e.v.; and J. E. Harders, "De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden 1904," *Orgaan van de Nederlandsch-Indische Officiersvereeniging* (1939). Zie bij Tichelmann, G. L.

@@ -24,6 +24,12 @@ The Padri threat forms the immediate background to the [[Said Akil's Deli advent
 
 Van der Kemp's mention of the Padri movement is brief but pointed. The [[Sultan of Deli's letter to Penang|letter of 27 August 1824]] demonstrates that already in [[1824]] the East-Coast states were begging for European intervention against the Padries, and that the British — having just signed the [[Anglo-Dutch Treaty of London (1824)|treaty of London]] — were unable or unwilling to provide it. The way was thus opened for the Dutch to take up the task. Within a few years the Dutch colonial government would launch military expeditions against the Padris, both in the Minangkabau highlands (the Padri War proper, c. 1821–1837) and on the East Coast, where Dutch posts were established at [[Batu Bara]], [[Deli]] and elsewhere. The Padri movement, Van der Kemp suggests, was one of the several threads — together with the [[Acheh succession dispute (1802-1819)|Achehnese succession dispute]], the [[Treaty of Pedir (1819)|Raffles-Acheh convention]] of 1819, and the subsequent [[Anglo-Dutch Treaty of London (1824)|London treaty]] — that drew the colonial powers deeper into Sumatran affairs and ultimately set the stage for the long Aceh conflict of the late nineteenth century.
 
+## Additional account from *Literatuur-Overzicht* ([[1940]]) — the 1939 west-coast retrospective
+
+The Padri War was the subject of a [[1939]] retrospective by **[[S. da Costa|S. da Costa]]**, *[[De Padrie-oorlog (Costa, 1939)|De Padrie-oorlog; haar oorsprong, strijd en verloop ter Sumatra's Westkust]]* ("The Padri War; its origin, struggle, and course on Sumatra's West Coast"), published in the *Orgaan van de Nederlandsch-Indische Officiersvereeniging*, No. 24, p. 149 *e.v.*, and reprinted in *Ons Aller Belang*, No. 33, p. 318 *e.v.* The article is recorded as No. 558 in [[H. van Meurs|Van Meurs]]'s *[[Literatuur-Overzicht over het jaar 1939 (Van Meurs, 1940)|Literatuur-Overzicht over het jaar 1939]]* (The Hague, [[1940]]), in the Sumatra chapter.
+
+Da Costa's survey treated the Padri War in three aspects — its *oorsprong* (origin), *strijd* (struggle), and *verloop* (course) — as fought on [[Sumatra's Westkust|Sumatra's Westkust]] (Sumatra's West Coast), the western seaboard of the island. The restriction to the west coast is the article's distinctive contribution: where the corpus's present entry treats the Padri War from the perspective of the east-coast theatre — drawing on [[P. H. van der Kemp|Van der Kemp]]'s study of the [[Sultan of Deli's letter to Penang|Sultan of Deli's appeal]] of [[27 August]] [[1824]] — da Costa's survey treats the war as it played out on the western seaboard, where the colonial engagement with the Padries intersected with the longer history of Dutch involvement in the west-coast ports and with the geopolitics of the [[Acheh|Atjehnese]] sphere of influence on the same coast. The double publication — in the officers' journal and in the general colonial periodical — marks the article as one judged to be of interest to both military and civilian colonial readerships, and it places the west-coast dimension of the Padri War alongside the east-coast dimension treated in the present entry.
+
 ## See Also
 
 - [[Sultan of Deli]]
@@ -34,7 +40,17 @@ Van der Kemp's mention of the Padri movement is brief but pointed. The [[Sultan 
 - [[Anglo-Dutch Treaty of London (1824)]]
 - [[Sumatra Treaty of 1871]]
 - [[Acheh]]
+- [[De Padrie-oorlog (Costa, 1939)]]
+- [[S. da Costa]]
+- [[westkust-van-sumatra]]
+- [[atjeh's-westkust]]
+- [[Literatuur-Overzicht over het jaar 1939 (Van Meurs, 1940)]]
+- [[H. van Meurs]]
+- [[1939]]
+- [[1940]]
 
 ## Source
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159-239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*Literatuur-Overzicht over het jaar 1939 van de Taal-, Land- en Volkenkunde en Geschiedenis van Nederlandsch-Indië*, door H. van Meurs ('s-Gravenhage: M. Nijhoff, 1940), Hoofdstuk III (Sumatra en naburig gebied), No. 558. Citing: S. da Costa, "De Padrie-oorlog; haar oorsprong, strijd en verloop ter Sumatra's Westkust," *Orgaan van de Nederlandsch-Indische Officiersvereeniging*, No. 24 (1939), p. 149 e.v.; ook in *Ons Aller Belang*, No. 33 (1939), p. 318 e.v.
