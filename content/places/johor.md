@@ -1,41 +1,40 @@
 ---
 title: Johor
-aliases: [Jho, Johore, Johor-Riau, Johor Sultanate, Djohor]
-tags: [place, sacred-site, foreign-land, foreign, malay-state, comparative, sawah, malay-peninsula, malay-world]
+aliases: [Jho, Johore, Johor-Riau, Johor Sultanate, Djohor, Johor, Sultanate of Johor]
+tags: [place, sacred-site, foreign-land, foreign, malay-state, comparative, sawah, malay-peninsula, malay-world, sultanate, malay, east-indies]
 ---
 
-A Malay sultanate on the Malay Peninsula. [[Sultan Iskandar Muda]] conquered Johor in [[1613]] — see [[Acehnese conquest of Djohor (1613)]] for the full campaign, triggered by Johor's [[1610]] peace treaty with the [[Portuguese]] and culminating in the fall of the Djohor capital, Batu Sawar, on [[6 June]] [[1613]]. In the [[Hikayat Malem Dagang]]: 'From [[Pahang]] the fleet moves to [[Johor Lama and Johor Bali]] (Jho Lama) to which place [[Si Ujut]] has also just paid a visit, but whence he has retired to [[Johor Lama and Johor Bali]]. Here some of the Achehnese invaders establish themselves without opposition under the direction of their Sultan, who builds fortifications... Panglima Tibang was a member of Achehnese embassies to [[Riouw]] and [[Singapore]].' The fictional kingdom of Cham Nadiman has a king named after 'Johor' — 'Meunua Jho, king of [[Irandamin]] (Iran zemin).'
+**Johor** was a Malay sultanate occupying the southern tip of the [[Malay Peninsula]] that, from the late sixteenth to the early nineteenth century, evolved from the successor polity of the great [[Melaka Sultanate]] into a fragmented polity comprising the peninsula‑based Sultanate of [[Johor]] proper (under the Temenggong dynasty) and the [[Riouw|Riau]]‑[[Lingga]] archipelago (under a Bugis‑backed Yamtuan Muda line). Its name carried diplomatic weight far beyond its shrinking territories, appearing in British, Dutch, and Acehnese correspondence as both a reference to the Malay state and, confusingly, as a rendering of the Acehnese sovereign’s title *Jauhar al‑Alam* (“jewel of the world”). The sultanate’s history intertwines military confrontations—most notably the Acehnese conquest of [[1613]]—succession disputes in the Riau archipelago, and its role in the colonial reshaping of the region after the [[Treaty of London (1824)|Anglo‑Dutch treaty of [[1824]]]].
 
-## Expanded account from *The Achehnese*, Vol. I — Johor
+## Early Modern Conflict and Conquest (1610–1613)
 
-**Johor** is the Malay state at the southern tip of the Malay Peninsula mentioned in *The Achehnese* Vol. I both as a place-name appearing in the title of a one-time "king of Acheen" and as a comparator in a discussion of Achehnese agricultural terminology.
+In [[1610]] the Sultanate of Johor concluded a peace treaty with the [[Portuguese]], a move that provoked the expansionist ambitions of [[Sultan Iskandar Muda]] of [[Aceh]]. On [[6 June]] [[1613]] the Acehnese forces captured the Johor capital of Batu Sawar, an event detailed in the [[Acehnese conquest of Djohor (1613)]] narrative. The campaign is also recorded in the [[Hikayat Malem Dagang]]: “From [[Pahang]] the fleet moves to [[Johor Lama and Johor Bali]] (Jho Lama) … Here some of the Achehnese invaders establish themselves without opposition under the direction of their Sultan, who builds fortifications…”. The Acehnese commander [[Panglima Tibang]] later served as an envoy to [[Riouw]] and [[Singapore]].
 
-### Johor Allum as "King of Acheen"
+## Onomastic Confusion in Diplomatic Sources
 
-In his introduction on the diplomatic history of Acheh, Snouck Hurgronje discusses the British East India Company's eighteenth- and nineteenth-century attempts to establish friendly relations with the sultanate. In a footnote he notes that these approaches were made "or rather with 'Johor Allum as king of Acheen', concerning whom the Chairman of the Company wrote to Bengal on the 4th August 1824: 'that chief, so far as we can collect from your correspondence, not having possessed an established authority in the country which he assumed to represent, has never been in a situation to maintain the relations into which he entered.'" The figure of Johor Allum — whose Achehnese name is more usually rendered [[Johor Allum]] — illustrates how loosely the British at this date identified the Achehnese sovereign, conflating him with the Malay world of Johor whose prestige still carried weight in European diplomacy.
+C. Snouck Hurgronje, in *The Achehnese* (Vol. I), notes that British officials sometimes addressed the Acehnese ruler as “[[Johor Allum]]” or “king of Acheen,” reflecting a loose identification of the Acehnese sovereign with the prestigious Malay name. A footnote records a British East India Company letter dated [[4 August]] [[1824]] in which the Chairman wrote that the “chief … not having possessed an established authority in the country which he assumed to represent, has never been in a situation to maintain the relations into which he entered.” In the same volume, Snouck’s translator links the term *sawah* (“irrigated rice‑field”) to its usage in “Johor, [[Malacca]] etc.” and [[Java]], illustrating how Johor functioned as a linguistic comparator for Achehnese agricultural terminology.
 
-### Johor and the Word "Sawah"
+## Fragmentation and Succession Disputes (Late 18th–Early 19th Century)
 
-The other appearance of Johor in Vol. I is in the translator's note on the word **sawah** (irrigated rice-field). The translator explains: "Sawah is the Malay word for rice-fields used in the Southern parts of the Peninsula (Johor, [[Malacca]] etc.) and also in [[Java]]. In [[Penang|Penang]], [[Province Wellesley]], [[Kedah]] etc. the word is 'padang.'" The note accompanies Snouck's discussion of the Achehnese *blang* — the official who superintends the rice-fields — and shows how the Achehnese agricultural vocabulary stood in relation to the cognate Malay and Javanese usages.
+By the early nineteenth century the once‑vast Johor Empire had fragmented. The Temenggong dynasty retained control over the peninsula, while the Bugis‑backed Yamtuan Muda line governed the Riau‑Lingga archipelago. The Dutch derived their legal claim over the Riau islands from treaties with the sultan of Lingga‑Riau, the heir of the Johor sultanate, a claim solidified by the [[Treaty of London (1824)|treaty of [[1824]]]] which allocated the archipelago to Dutch influence.
 
-### Significance
+The founding of [[Singapore]] in [[January]] [[1819]] was legally an arrangement with the Temenggong of Johor and with Sultan [[Hussein Mua'zzam Shah]], a rival claimant recognised by [[Stamford Raffles]]. The Dutch, however, supported the Bugis claimant, leading to a disputed succession that echoed throughout the region’s diplomatic correspondence.
 
-Although Johor itself is mentioned in Vol. I only in these two comparative contexts, both references are revealing. The first underlines the long reach of Johor's name in the Malay world, which allowed a man of Johor (or a prince bearing its title) to be presented to the British as "king of Acheen"; the second places Johor within a continuum of Malay agricultural terminology that Snouck and his translator use to clarify the Achehnese vocabulary. Vol. II of *The Achehnese* contains further Malay-Peninsula comparisons drawn from [[Walter William Skeat|W. W. Skeat]] and [[T. J. Newbold|T. J. Newbold]].
+## Role in the 1784 Conflict and the Mahmoed Episode
 
-## Account from *Raffles' Atjeh-overeenkomst van 1819* — Johor
+A later Dutch source records that the Dutch considered the Johor dynasty the rightful heir to the Riau throne. After the defeat of the usurper [[Radya Aly]], the Dutch restored a legitimate young prince, [[Mahmoed]], from the Johor royal line to the Riau throne. This episode, described in *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, highlights the continued importance of Johor’s dynastic legitimacy in Dutch colonial policy, even as the sultanate’s own territorial power waned.
 
-**Johor** (also spelled **Johore**; Dutch **Djohor**) is a Malay sultanate occupying the southern tip of the [[Malay Peninsula]], together with its dependency, the [[Riouw|Riau]]-[[Lingga]] archipelago. The successor polity of the great Melaka Sultanate, the **Johor Empire** dominated the maritime Malay world from the late sixteenth to the late eighteenth century; by the early nineteenth century it had fragmented into the sultanate of [[Johor]] proper (under the Temenggong dynasty on the peninsula) and the sultanate of [[Riouw]]-[[Lingga]] (under the Bugis-backed Yamtuan Muda line). In the diplomatic correspondence assembled by P. H. van der Kemp, the word "Johor" appears with a particular — and somewhat confusing — resonance, since it was also the popular rendering of the Acehnese sovereign's title, *Jauhar al-Alam*.
+## Agricultural Terminology and Cultural Comparisons
 
-Van der Kemp uses the form **Djohor** or **Johor Alum** throughout his narrative to refer to the Sultan of [[Acheh|Aceh]] rather than to the Malay state. Sultan **Jauhar al-Alam** (c. 1770s–1823), whose Arabic regnal name means "jewel of the world," is rendered by Raffles and his contemporaries as "Johor Alum," "Jowhar 00l Aulum" or "sultan Johor al Allum Shah," and it is this Acehnese sultan — not the Malay state — who is the central political figure of the [[Raffles' Atjeh-overeenkomst van 1819|Aceh agreement of 1819]]. Van der Kemp records that when Raffles wrote from [[Bencoolen]] to the Acehnese court, he addressed "sultan Djohor," and when the Aceh commissioners in 1819 wished to inform the Sultan of their arrival, they dispatched the *Minto* to [[Pedir]] so that "sultan Djohor" could be informed. To confuse matters further, the same name was used of a Malay sovereign in the [[Malay Peninsula]]: in one of Van der Kemp's appendix letters, an official writes that the British Government, "being on terms of amity and bound by treaty to the sultan Johor al Allum Shah," cannot deal with his enemies — a passage that has been read as referring to the Acehnese sultan.
+Snouck’s translator further observes that the Malay word *sawah* for irrigated rice‑fields was used in “Southern parts of the Peninsula (Johor, [[Malacca]] etc.) and also in [[Java]]”, whereas in [[Penang|Penang]], [[Province Wellesley]], and [[Kedah]] the term “padang” was preferred. This comparative note underscores Johor’s role as a linguistic reference point for scholars mapping Malay‑Austronesian agricultural vocabularies.
 
-Behind this onomastic confusion lay a real political reality. The Malay sultanate of Johor — by 1819 a much diminished polity, its former maritime empire broken up between the Bugis *Yamtuan Muda* at [[Riouw]] and the Temenggong at [[Singapore|Johor Baharu]] — was closely tied to the same Malay-Muslim commercial world that linked [[Siak]], [[Lingga]], [[Pahang]] and the [[Sumatra's East Coast|east coast of Sumatra]]. The sultan's nominal suzerainty over [[Riouw]] and [[Lingga]] was the legal foundation of Dutch authority in the Riau archipelago after the [[Treaty of London (1824)|Anglo-Dutch treaty of 1824]], since the Dutch derived their rights from treaties with the sultan of Lingga-Riau, himself the heir of the Johor sultanate.
+## Significance
 
-The founding of [[Singapore]] in January 1819 was, in legal terms, an arrangement with the Temenggong of Johor and with the sultan Hussein Mua'zzam Shah — a rival claimant to the Johor sultanate whom Raffles recognised for the purpose. The brief against the Dutch position in the Riau archipelago was that the Johor succession was disputed, and that the Dutch had merely backed one of the claimants. Van der Kemp's study does not dwell on the internal politics of Johor itself, but the sultanate's shadow lies across the entire narrative, since the [[Riouw]]-[[Lingga]] archipelago that the [[Treaty of London (1824)|treaty of 1824]] confirmed as Dutch was the maritime remnant of the Johor Empire.
-
+Johor’s historical trajectory illustrates the fluidity of political authority in the Malay world from the sixteenth to the nineteenth centuries. Its name functioned simultaneously as a marker of a once‑powerful maritime empire, a diplomatic shorthand for the Acehnese sovereign, and a point of reference for linguistic studies. The sultanate’s fragmentation, the succession disputes in the Riau archipelago, and its entanglement in the Anglo‑Dutch colonial settlement of [[1824]] all demonstrate how local dynastic politics intersected with European imperial strategies, shaping the modern political geography of the Malay Peninsula and the Riau‑Lingga islands.
 
 ## See Also
 
-- [[Acheh]]
+- [[Aceh]]
 - [[Hikayat Malem Dagang]]
 - [[Irandamin]]
 - [[Johor Lama and Johor Bali]]
@@ -52,14 +51,24 @@ The founding of [[Singapore]] in January 1819 was, in legal terms, an arrangemen
 - [[Province Wellesley]]
 - [[Lingga]]
 - [[Treaty of London (1824)]]
-- [[Raffles' Atjeh-overeenkomst van 1819]]
+- [[Raffles' Atjew-overeenkomst van 1819]]
 - [[Acehnese conquest of Djohor (1613)]]
 - [[Atjeh]]
+- [[Mahmoed (young prince of Riouw)]]
+- [[Radya Aly]]
+- [[Oost-Indische Compagnie]]
+- [[Stamford Raffles]]
+- [[Hussein Mua'zzam Shah]]
+- [[Bengkulu]]
+- [[Bugis]]
+- [[Yamtuan Muda]]
 
-## Sources
+## Source
 
-*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
-*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
-*Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598—1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 122, 131-132.
+*Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598—1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 122, 131‑132.
+
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, pp. 81‑82.
