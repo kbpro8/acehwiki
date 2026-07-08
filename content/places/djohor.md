@@ -1,7 +1,7 @@
 ---
 title: Djohor
-aliases: [Johor, Johore, Johor-Riau, Sultanate of Johor, Djohor Lama, Johor Lama, Batoesawer]
-tags: [place, kingdom, malay-peninsula, sultanate, atjeh, malaka, portuguese, precolonial, 16th-century, 17th-century]
+aliases: [Johor, Johore, Johor-Riau, Sultanate of Johor, Djohor Lama, Johor Lama, Batoesawer, Johor Hooykaas account]
+tags: [place, kingdom, malay-peninsula, sultanate, atjeh, malaka, portuguese, precolonial, 16th-century, 17th-century, hooykaas, batoe-sawar, 1613-attack, 1615-attack, second-exodus]
 ---
 
 **Djohor** — the Malay Muslim sultanate on the southern tip of the Malay Peninsula, successor state of the sultanate of Malaka after the [[Portuguese conquest of Malaka (1511)|Portuguese conquest of 1511]], and the chief Malay rival of both the Portuguese at [[Malaka|Malaka]] and the [[Sultan of Atjeh (1589-1604)|sultan of Atjeh]] — was the Dutch Republic's chief Malay ally in the early seventeenth century, the strategic partner in the [[Matelieff's Malaka campaign (1606)|Matelieff campaign of 1606]] and the [[Verhoeff's Malaka expedition (1608)|Verhoeff expedition of 1608]], and the principal Malay counterpart to the Dutch in the early Dutch-Indies relationship. Djohor is the principal Malay place in Van der Woude's chapter "Atjeh. Djohor. Malaka." in his [[Coen, Koopman van Heeren Zeventien (1948)|Van der Woude (1948)]].
@@ -28,6 +28,32 @@ The [[Sultan of Atjeh (1589-1604)|sultan of Atjeh]]'s hostility to Djohor was th
 
 Djohor is, in Van der Woude's narrative, the principal Malay place of the early Dutch-Indies relationship and the principal Malay ally of the [[Vereenigde Oostindische Compagnie|VOC]] in the early seventeenth century. The Dutch-Djohor alliance of [[1603]]-[[1613]] was the principal Dutch-Malay military partnership of the early VOC period, and the framework within which the [[Matelieff's Malaka campaign (1606)|Matelieff campaign of 1606]] and the [[Verhoeff's Malaka expedition (1608)|Verhoeff expedition of 1608]] were conducted. The sultanate's contest with [[Acheh|Atjeh]] — for the wingewest of Aru and for the commercial primacy of the Strait of Malaka — defined the framework within which the [[Sultan of Atjeh (1589-1604)|sultan of Atjeh]]'s European policy would unfold, and the [[Atjeh's attack on Djohor (May 1613)|Achehnese attack of 1613]] was the principal military expression of the Atjeh-Djohor rivalry. The sultanate's separate peace with the Portuguese in [[1610]] — and the [[Atjeh's attack on Djohor (May 1613)|Achehnese attack of 1613]] — marked the effective end of the Dutch-Djohor military alliance and the strategic turn southward to [[Jacatra|Jacatra]] and the eventual founding of [[Batavia|Batavia]] in [[1619]].
 
+## Account from *Over Maleise Literatuur* (1947) — Djohor
+
+In [[C. Hooykaas|Hooykaas]]'s survey of Malay literature, the sultanate of [[Djohor|Johor]] is the principal Malay place caught up in the [[Sultan Iskandar Muda|Iskandar Muda]] wars, and the place whose [[1612]] commissioning of the *[[Sadjarah Malajoe]]* and [[1613]]/[[1615]] Atjehnese catastrophes frame the composition-history of the principal Malay chronicle.
+
+### Batoe Sawar as the Capital
+
+The capital of Johor in the late sixteenth and early seventeenth centuries was [[Batoe Sawar]] — founded upstream by Sultan Moezaffar Sjah II (c. [[1564]]-[[1580]]) "om beter buiten bereik te zijn van Atjehse en Portugese schepen" (to be better out of reach of Atjehnese and Portuguese ships). The move upstream was the response of the Johor sultans to the twin threats of the Atjehnese and the Portuguese, who could both reach the lower reaches of the Johor River with their seagoing fleets. The capital thus, from its foundation, existed under the shadow of the Atjehnese threat.
+
+### The 1613 Atjehnese Attack and Captivity
+
+The [[1613]] Atjehnese attack on Batoe Sawar — sent by Sultan [[Sultan Iskandar Muda|Iskandar Muda]] — was the principal military event of the Batoe Sawar period. Hooykaas records: "een Atjehse vloot verscheen in 1613 onverwachts, die zich meester wist te maken van niemand minder dan de vorst 'Alā' oed-Din Ri'ājat Sjāh III, Radja 'Abdoellāh en de meeste rijksgroten, waaronder de Bēndahara. Ze worden naar Atjeh overgebracht, waar de Soeltān gehouden wordt en spoedig sterft" (an Atjehnese fleet appeared unexpectedly in 1613, which managed to seize no less than the Sultan Alā'uddīn Ri'āyat Shāh III, Radja 'Abdoellah, and most of the great men of the realm, including the *Bendahara*. They are taken to Atjeh, where the Sultan is held and soon dies).
+
+The captives were taken to Atjeh, where *Radja 'Abdoellāh* — the younger brother who had commissioned the *[[Sadjarah Malajoe]]* in [[1612]] — married a sister of Sultan Iskandar Muda, was pardoned, and was returned to Batoe Sawar as a vassal sultan of Atjeh. The new sultan then asked the *[[Bendahara Sri Lanang|Bendahara]]* — also returned from Atjeh — to complete the *Sadjarah Malajoe*, which he did in [[1614]].
+
+### The 1615 Atjehnese Attack and the Second Exodus
+
+The [[1615]] Atjehnese attack — also sent by Iskandar Muda — found the Johor court warned, and the Sultan fled before the Atjehnese fleet arrived. The city, however, was destroyed "ten tweeden male door de Atjehers" (for the second time by the Atjehnese) — as thoroughly as [[Djohor|Djohor Lama]] had been destroyed by the Portuguese on [[15 August]] [[1587]]. The [[1615]] attack drove the Johor court into the "Tweede Exodus naar Bintan en elders" (Second Exodus to Bintan and elsewhere) — a long exile that would last from the autumn of [[1615]] to April [[1641]], when the Dutch-Johor conquest of Malacca finally allowed the court to return.
+
+The Sultan — *Abdoellah Masajat Sjah*, the former *Radja 'Abdoellāh* — "gevlucht naar Bintan, blijft als een opgejaagd hert zwermen" (fled to Bintan, remains wandering like a hunted deer). In [[1618]] he established himself on Lingga, but in early [[1623]] he was again driven out by an Atjehnese fleet, and died around May [[1623]] on Great-Tambēlan. "Zó droevig eindigde de auctor intellectualis der SM" (Thus sadly ended the auctor intellectualis of the SM) — the man who had commissioned the *Sadjarah Malajoe* in [[1612]].
+
+### The Atjehnese Naval Power
+
+The [[1613]] and [[1615]] attacks on Batoe Sawar illustrate, in Hooykaas's reading, the Atjehnese naval power that dominated the Strait of Malacca in the early seventeenth century. The Atjehnese fleet could appear "onverwachts" (unexpectedly) at Batoe Sawar, could "zich meester weten te maken" (manage to seize) the Sultan and the *Bendahara*, and could destroy the city "ten tweeden male" (for the second time) with the same thoroughness as the Portuguese had destroyed [[Djohor|Djohor Lama]] in [[1587]]. The Atjehnese naval dominance of the Strait of Malacca under [[Sultan Iskandar Muda|Iskandar Muda]] was the strategic fact that framed the composition-history of the *Sadjarah Malajoe*.
+
+*Source: Over Maleise Literatuur*, by Dr. C. Hooykaas, Hoogleraarte Batavia; Tweede Druk (Leiden: E. J. Brill, 1947), chapter 11 ("Geschiedschrijving in het Maleis"), pp. 96-98; appendix III ("De Vorsten van Malakka en Djohor"), pp. 273-276.
+
 ## See Also
 
 - [[Acheh]]
@@ -51,7 +77,15 @@ Djohor is, in Van der Woude's narrative, the principal Malay place of the early 
 - [[1606]]
 - [[1610]]
 - [[1613]]
+- [[Batoe Sawar]]
+- [[Bendahara Sri Lanang]]
+- [[Sadjarah Malajoe]]
+- [[Over Maleise Literatuur (1947)]]
+- [[Dr. C. Hooykaas]]
+- [[1615]]
+- [[1623]]
 
-## Source
+## Sources
 
 *Coen, Koopman van Heeren Zeventien. Geschiedenis van den Hollandshen Handel in Indië (1598-1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. De Boer Jr., 1948), Hoofdstuk V "Voorgangers, Hollanders en mededingers tot 1614. Atjeh. Djohor. Malaka." (pp. 108-140).
+*Over Maleise Literatuur*, by Dr. C. Hooykaas, Hoogleraarte Batavia; Tweede Druk (Leiden: E. J. Brill, 1947).

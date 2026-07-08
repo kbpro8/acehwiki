@@ -1,7 +1,7 @@
 ---
 title: Malacca
-aliases: [Malacca, Melaka, Malay Malacca, Malakka, Malacka, Mallaca]
-tags: [place, sacred-site, foreign-land, region, foreign, malay-state, city, colony, british-india, coast]
+aliases: [Malacca, Melaka, Malay Malacca, Malakka, Malacka, Mallaca, Malacca Hooykaas account]
+tags: [place, sacred-site, foreign-land, region, foreign, malay-state, city, colony, british-india, coast, hooykaas, pasai, salam-sembah, 1511-conquest]
 ---
 
 The great Portuguese stronghold and Malay capital on the Malay Peninsula. '[[Sultan Iskandar Muda]]... made several attempts to drive out these rivals of his power from Malacca. For instance, he attacked that port in [[1628]] with a fleet of gigantic proportions.' In the [[Hikayat Malem Dagang]], [[Si Ujut]] is described as a son of the raja of Malacca; the fleet sails to Malacca, 'the king of which place (the father of [[Si Ujut]] and [[Raja Raden]]) has fled with all the inhabitants of the coast to the hills in the interior.' The Portuguese disappearing from the field of vision of the Achehnese while the Dutch came to represent European danger.
@@ -32,6 +32,27 @@ When the colonial schooner *Wilhelmina* was carried off by its Malay and Javanes
 
 In the [[Fagel-Elout negotiations (August 1820)|Fagel-Elout negotiations]] and the [[Anglo-Dutch Treaty of London (1824)|treaty of 17 March 1824]], Malacca's position was again prominent. The Dutch plenipotentiaries noted that the price of Britain's withdrawal from [[Sumatra]] — to be exclusively Dutch — had been the cession of "Nederlandsch Hindostan, of Malakka, of Singapore," together with one million guilders: a heavy price, in Van der Kemp's words, for the abandonment of "kostbaar Malakka" itself. The [[Pinang Nota (1825)|Pinang Nota of 1825]] and [[Robert Fullerton|Fullerton]]'s later minutes continued to treat Malacca as the British counterpart to the Dutch sphere in Sumatra, the two governments being bound, in the words of Clubley's letter to Lucas, "to preserve the good intelligence which exists between the Government of [[Penang|Prince of Wales Island]] and that of Malacca."
 
+## Account from *Over Maleise Literatuur* (1947) — Malacca
+
+In [[C. Hooykaas|Hooykaas]]'s survey of Malay literature, [[Malacca]] is the principal Malay place of the pre-Atjehnese period — the place whose [[1511]] Portuguese conquest gave rise to the sultanate of [[Djohor|Johor]] and to the rise of [[Acheh|Atjeh]] as the chief Muslim commercial rival of the Portuguese in the Strait of Malacca.
+
+### Malacca and Pasai
+
+Before the rise of Atjeh, Malacca's principal Sumatran relationship was with [[Pasai]] — the older, pre-Atjeh centre of Islamic learning on the north Sumatran coast. Hooykaas records: Pasai "had de glorie gehad van het eerst en best geïslamiseerde staatje te zijn in die wateren, zodat Malakka in zijn glanstijd herhaaldelijk er gezantschappen heenzendt om antwoord te krijgen in theologische vraagpunten" (had the glory of having been the first and best Islamised state in those waters, so that Malacca in its golden age repeatedly sent embassies there to get answers in theological questions). This Malacca-Pasai theological relationship — recorded in the *[[Sadjarah Malajoe]]*'s account of Malacca's repeated consultations with the ulema of Pasai — is the older Sumatran-Malay relationship that Atjeh would inherit in the early seventeenth century.
+
+### The Portuguese Conquest of 1511
+
+The [[1511]] Portuguese conquest of Malacca — by [[Affonso d'Albuquerque|Albuquerque]], who "voer eerst naar Pedir (Pidie) op Noord-Sumatra" (first sailed to Pedir (Pidie) on North Sumatra) on the way to Malacca — is the foundational event of the Portuguese empire in the Malay-Indonesian archipelago and the proximate cause of the rise of Atjeh. After the conquest, "de sultans van Atjéh — pressing from the west along the north Sumatran coast — became the most dangerous Muslim rivals of the Portuguese" (the sultans of Atjeh — pressing from the west along the north Sumatran coast — became the most dangerous Muslim rivals of the Portuguese). The Atjehnese siege of Malacca of [[1 February|1-17 February]] [[1575]] — recorded in the *Sadjarah Malajoe* and in the Portuguese sources — nearly succeeded; the [[1587]] treaty between Atjeh and the Portuguese, by which [[Aru|Aru]] was assigned to [[Djohor|Johor]], opened a generation of relative peace.
+
+### The Etiquette of the Salam and the Sembah
+
+The *Sadjarah Malajoe*, in Hooykaas's *Toelichting*, also records the protocol relationship between Malacca, Pasai, Aroe, and Haroe — the four Malay sultanates that, in the fifteenth century, treated each other as equals. Hooykaas notes: "In de grote regeling van Malakkaanse kraton-etikette in SM 11/11 wordt uitdrukkelijk vastgesteld, dat bij brieven uit de rijken Aroe en Pasai, die even groot geacht worden als Malakka, slechts de salam-groet zal gebezigd worden, ongeacht de leeftijdsverhoudingen der regerende vorsten" (In the great regulation of Malacca court etiquette in SM 11/11 it is explicitly established, that for letters from the realms of Aroe and Pasai, which are considered as great as Malacca, only the *salam*-greeting will be used, regardless of the age-relationships of the reigning sultans). The *salam* — the collegial Muslim greeting — was the protocol of equals; the *sēmbah* — the obeisant gesture of inferior to superior — was reserved for subordinates. The protocol of the *salam* and the *sēmbah* is, in Hooykaas's reading, the diplomatic expression of the Malacca-Pasai-Aroe-Haroe system that Atjeh would dismantle in the early seventeenth century.
+
+### The Sadjarah Malajoe's Composition at Batoe Sawar
+
+The *Sadjarah Malajoe* — the principal Malay chronicle of the Malacca-Johor sultanate — was commissioned at [[Batoe Sawar]] in [[1612]], in the context of the rising Atjehnese threat to the Johor successor of Malacca. The chronicle's composition-history — interrupted by the [[1613]] Atjehnese attack, completed after the *Bendahara*'s return from Atjeh, and diplomatically silent on the [[1615]] catastrophe — is the principal literary record of the Malacca-Johor-Atjeh triangle in the early seventeenth century.
+
+*Source: Over Maleise Literatuur*, by Dr. C. Hooykaas, Hoogleraarte Batavia; Tweede Druk (Leiden: E. J. Brill, 1947), chapter 11 ("Geschiedschrijving in het Maleis"), pp. 94-96; Toelichting tot de Sadjarah Malajoe, aantekening bij 11/11 and 24/1, pp. 219, 237.
 
 ## See Also
 
@@ -58,9 +79,17 @@ In the [[Fagel-Elout negotiations (August 1820)|Fagel-Elout negotiations]] and t
 - [[Sartorius mission to Acheh]]
 - [[Anglo-Dutch Treaty of London (1824)]]
 - [[Anglo-Dutch Treaty of London (1814)]]
+- [[Pasai]]
+- [[Sadjarah Malajoe]]
+- [[Batoe Sawar]]
+- [[Bendahara Sri Lanang]]
+- [[Over Maleise Literatuur (1947)]]
+- [[Dr. C. Hooykaas]]
+- [[1511]]
+- [[1612]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
-
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+*Over Maleise Literatuur*, by Dr. C. Hooykaas, Hoogleraarte Batavia; Tweede Druk (Leiden: E. J. Brill, 1947).
