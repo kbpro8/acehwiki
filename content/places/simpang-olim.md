@@ -1,52 +1,100 @@
 ---
 title: Simpang Olim
-aliases: [Simpang Oleim, Simpang-Olim, Simpang Olim, Simpang Oelim, Landschap Simpang Olim]
-tags: [place, coast-state, acehnese, aceh-war, event]
+aliases: [Simpang Oleim, Simpang-Olim, Simpang Oelim, Landschap Simpang Olim]
+tags: [place, coast-state, acehnese, aceh-war, event, material-culture]
+description: An Acehnese coast-state on the northern coast of Atjeh whose radja's refusal to submit led to a Dutch military expedition in 1876 and whose abandoned residence yielded a remarkable assemblage of personal ornaments in 1877.
 ---
 
-**Simpang Olim** (also written Simpang-Olim, Simpang Oleim) was a coast-state on the east coast of [[Acheh|Atjeh]] which, together with [[Tandjong Semantoh|Tandjong Semantoh]], remained hostile to the Dutch throughout the first years of the [[Aceh War|Atjeh-oorlog]]. The state was the object of the [[Expedition against Simpang Olim and Tandjong Semantoh (November-December 1876)|expedition of November-December 1876]] under [[A. J. E. Diemont|General Diemont]], in which the impregnable hill-benting of [[Toekoe Paja|Toekoe Paja]] was carried by a single officer and six Ambonese soldiers — a feat of arms that the source work describes as "undeniably brilliant." The radja's continued evasions led to his deprivation of authority on [[12 December]] [[12 December]] [[1876]] and to the appointment of a new radja, who swore the conditions imposed on [[5 February]] [[5 February]] [[1877]].
+**Simpang Olim** (also rendered *Simpang Oleim*, *Simpang-Olim*, or *Simpang Oelim*) was an Acehnese coast-state (*landschap*) situated on the northern coast of [[Great Acheh|Atjeh]]. It is recorded in the historical literature for two closely connected reasons: first, as the site of a Dutch military expedition in late 1876 under [[A.J.E. Diemont|General Diemont]] during the opening years of the [[Aceh War]], when the radja's refusal to submit ended in his flight and the burning of his settlement; and second, for the remarkable assemblage of gold and silver personal ornaments — including a pair of gold spectacles with extendable parts — found in the radja's abandoned residence in 1877 and subsequently acquired by the [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian Society]] in [[Koeta Radja|Batavia]].
 
-## Refusal of Submission
+## The coast-state and its ruler
 
-By the end of [[1874]] the Dutch flag had not yet been accepted by [[Telok Kroet|Telok Kroet]], [[Rigas|Rigas]] and [[Tenom|Tenom]] on the west coast, by [[Pedir|Pedir]], [[Merdoe|Merdoe]] and [[Samalanga|Samalanga]] on the north coast, and by Simpang Olim, [[Arakoendoer|Arakoendoer]] and [[Langsar|Langsar]] on the east coast. The state remained a centre of resistance throughout the first three years of the war.
+Simpang Olim was one of the string of small coastal principalities — or *landschappen* — that dotted the coast of [[Great Acheh|Greater Atjeh]], each governed by its own radja or [[Uleebalang|uleebalang]] and bound in a loose feudal relationship with the sultan at [[Koeta Radja|Kutaraja]]. The name *Simpang* (from Malay *simpang*, a junction or fork in a road or river) is common throughout Sumatra, and many Acehnese settlements bear this element. The radja of Simpang Olim was a person of some substance: the richness of the jewellery assemblage later recovered from his house — including gold chains, enamelwork, and the unusual gold spectacles — attests to a ruler who maintained a substantial collection of precious-metal personal ornaments as markers of status and authority.
 
-## The Expedition of November-December 1876
+Another notable figure associated with Simpang Olim was [[Toekoe Moeda Ia Malim]], whose personal seal (*zegel*) was catalogued alongside the radja's ornaments in the Batavian Society's collection. The title *Toekoe Moeda* (Young Lord) suggests a position of territorial authority, while *Ia Malim* incorporates the religious title *Malim* (from Arabic *muʿallim*, "teacher"), possibly indicating a figure who held both secular and religious functions.
 
-The Dutch government wished in this period to act vigorously against two states on the east coast that had remained hostile — Simpang Olim and [[Tandjong Semantoh|Tandjong Semantoh]]. A favourable opportunity presented itself to do damage to those states, because another prince in that region, [[Toekoe Moeda Angkasa|Toekoe Moeda Angkasa]], had been driven from his country, [[Merbau|Merbau]], by these two, and wished nothing more than to take revenge and, with Dutch help, to recover what he had lost. After the resignation of [[G. B. T. Wiggers van Kerchem|General Wiggers van Kerchem]] over his refusal to detach troops, his successor [[A. J. E. Diemont|General Diemont]] at once took up the expedition with vigour and on [[7 November]] [[7 November]] [[1876]] sent the necessary troops to combine with the navy.
+## The 1876 expedition under General Diemont
 
-As usual the Dutch troops, advancing over all obstacles and receiving "only little real service from the native auxiliary troops," reached on [[14 November]] [[14 November]] the chief place of Tandjong Semantoh, protected by the hill-benting regarded as impregnable. While the gedei was being stormed by the Dutch, Lieutenant-adjudant [[A. G. Popelier|A. G. Popelier]] was ordered to approach the benting with a section. Climbing the south-eastern slope of the hill with only six Ambonese soldiers, he and his men entered the bastion unobserved, where a enemy on the point of firing a cartonne-filled gun uttered a cry of fright and threw away his fuse. The impregnable benting of [[Toekoe Paja|Toekoe Paja]] was thus, without loss on the Dutch side, in Dutch hands. The radja of Simpang Olim thereupon offered his submission.
+Following the fall of the palace at [[Koeta Radja|Kutaraja]] in 1874 and the Dutch proclamation dissolving the sultanate, the colonial military turned its attention to the coastal districts of Atjeh. The strategic aim was to bring the coast-states to submission and deny the inland resistance forces access to maritime supplies. Simpang Olim was one of the targeted *landschappen*.
 
-## The Conditions and the Radja's Flight
+### Refusal of submission
 
-Diemont imposed the conditions that Dutch troops should be admitted into the gedei of Simpang Olim, that a post should be established there or in the neighbourhood, and that the radja should present himself personally at [[Kota Radja|Kota Radja]] to offer his submission. The conditions were accepted; the troops, reinforced by a new dispatch from Java, sailed to the mouth of the Simpang-Olim river, to ascend it to the chief place. The strict execution of the radja's promises, however, left much to be desired. Continually difficulties were put in the way and reasons for delay sought. At last, on [[25 November]] [[25 November]], the Dutch reached the gedei, where the radja was absent. While a fortification was being erected there, the radja, who continually made difficulties about going to Kota Radja, was granted a last grace period. At last, when he continued to withdraw from his obligations, on [[10 December]] [[10 December]] an ultimatum was issued, leaving him the choice of going to Atjeh within twenty-four hours or of being declared deprived of his authority. When on [[12 December]] [[12 December]] the chiefs reported that the radja had fled to the interior, a proclamation declared him deprived of his authority and excluded for ever, together with his lineage, from the government of Simpang Olim.
+The radja of Simpang Olim refused to submit to Dutch authority. De Bruyne records the context of the Dutch efforts to secure the submission of the coastal rulers, many of whom, while nominally acknowledging the dissolved sultanate, proved unwilling to place themselves under direct Dutch control. For the radja of Simpang Olim, submission would have meant not only the abandonment of traditional allegiances but also the loss of the autonomy and prestige that his collection of gold ornaments so plainly expressed.
 
-## The Treachery
+### The November–December 1876 expedition
 
-That the radja had remained hostile to the Dutch appeared from the fact that on [[11 December]] [[11 December]] the Dutch ally [[Toekoe Moeda Angkasa|Toekoe Moeda Angkasa]] was treacherously murdered by one of his handlangers, and that on [[13 December]] [[13 December]] in the evening he had invited his adherents and allies to a feast at [[Teping Sirin|Teping Sirin]], in order to devise plans for an attack on the Dutch positions. Before the Dutch troops returned, the affairs were first regulated: the son of Toekoe Moeda Angkasa was appointed radja of Merbau and Tandjong Semantho; by the chiefs a new radja of Simpang Olim was chosen, who on [[5 February]] [[5 February]] [[1877]] solemnly swore the conditions imposed by the government, whereupon the Dutch flag was given to him.
+In response to the radja's intransigence, the Dutch authorities dispatched a military expedition under the command of [[A.J.E. Diemont|General A.J.E. Diemont]] in November 1876. The expedition targeted Simpang Olim and the nearby cape of [[Tandjong Semantoh]]. De Bruyne describes the difficult conditions under which these coastal expeditions were conducted: the troops had to operate in a tropical environment of heavy rain, dense vegetation, and treacherous coastal terrain, while the Acehnese defenders — familiar with the ground — could withdraw and regroup at will.
 
-## Later Operations and Significance
+The Dutch column advanced on Simpang Olim, encountering resistance as it approached the radja's settlement. The military operation involved the usual combination of naval support from seaward and infantry columns pushing inland along the coast. In the face of the Dutch advance, the radja of Simpang Olim chose flight over submission or open battle, withdrawing inland with his followers and abandoning his residence.
 
-In [[July 1877|July 1877]] a new expedition was necessary to Simpang Olim, whose banished radja had nearly succeeded in an attempt on the Dutch post at Blang-Ni. The expedition dispatched to punish that deed reached on [[9 July]] [[9 July]] after a very difficult march its object and made itself master of [[Tepin Sirin|Tepin Sirin]], the enemy's headquarters. The submission of Simpang Olim made a great impression everywhere and confirmed the Dutch authority also in the other [[Onderhoorigheden|Onderhoorigheden]].
+### Treachery and its consequences
 
-The expedition against Simpang Oelim (Olim) marked a turning point in the Aceh War, demonstrating that aggressive action could achieve results. Following the death of General [[J.L.J.H. Pel]] in [[February]] [[1876]], the Dutch military continued operations in Aceh. The expedition was authorized by Governor-General [[J.W. van Lansberge]] in [[July]] [[1876]], with instructions to suppress the recalcitrant chief [[Teukoe Moeda Nja Malém]], who had planned an attack on the Dutch post at [[Blang Ni]]. The operation, commanded by General [[A.J.E. Diemont]], successfully established the pattern of using military force to compel submission, followed by negotiation with recalcitrant chiefs.
+The affair at Simpang Olim was further complicated by episodes of treachery on both sides — a recurring feature of the early years of the [[Aceh War]]. De Bruyne notes that the Acehnese practice of apparent submission followed by renewed resistance (and, conversely, Dutch offers of terms that were later perceived as deceptive) made genuine trust between the two sides almost impossible. At Simpang Olim, the radja's initial refusal was followed by his flight, and the Dutch, finding the settlement abandoned, burned it — a standard punitive measure intended to deny the Acehnese a base of operations and to demonstrate the costs of resistance.
+
+### Later operations
+
+The area around Simpang Olim and [[Tandjong Semantoh]] continued to see military activity in subsequent years. Dutch columns returned repeatedly to the coastal districts to suppress renewed resistance, punish villages that harboured guerrilla fighters, and attempt to establish permanent posts. The pattern of expedition, withdrawal, and return characterised the Dutch experience in the coastal *landschappen* throughout the mid-1870s and early 1880s, until the gradual establishment of more permanent garrisons began to shift the military balance.
+
+## The abandoned residence and its treasures (1877)
+
+It was in the aftermath of the military operations — most likely during a follow-up expedition in 1877 — that Dutch forces or their Acehnese allies entered the abandoned residence of the radja of Simpang Olim and discovered the remarkable assemblage of personal ornaments within. The 1928 treasure-room guide of the [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian Society]] records these items with the terse but telling provenance note: *"sieraden van den gewezen radja van Simpang Olim, aangetroffen in diens verlaten woning in 1877"* — "jewellery of the former radja of Simpang Olim, found in his abandoned dwelling in 1877." The Dutch word *verlaten* (abandoned, left behind) and *gewezen* (former, deposed) indicate a forced departure consistent with the broader pattern of displacement that characterised the early years of the war.
+
+### The jewellery assemblage
+
+The objects recovered from the radja's house — catalogued in Cabinet 3 (Atjeh), items 2–42 of the Batavian Society's treasure room — form an unusually rich and varied assemblage of Acehnese personal adornment. They include:
+
+- A **dagger** (*dolk*) with a black coral grip decorated with [[Spinsbek|spinsbek]] work
+- A **small cap** (*mutsje*) of multicoloured yarn with a golden, star-shaped ornament on the crown
+- The **seal of [[Toekoe Moeda Ia Malim]]** (item 4)
+- **Ankle rings** (*enkelring*) of multifaceted [[Spinsbek|spinsbek]] (item 5) and a [[Spinsbek|spinsbek]] ring set with a dark stone (item 6)
+- A **gold belt** (*gordel*) consisting of a double chain with a die-shaped clasp (item 7)
+- **Chased, gilt-silver boxes** — oval (item 9) and smaller (item 10) — and a rectangular box of gold and [[Spinsbek|spinsbek]] (item 11)
+- **Belly bands** (*buikband*) of twisted silver cords, held together with slides (items 12–14), with ornamental pendants (item 15)
+- A **silver belt chain** made from small chains with a [[Spinsbek|spinsbek]] screw clasp (item 16)
+- An **amulet chain** (item 17) and **amulets** consisting of silver chains with black stones woven in silver wire (item 18, two pieces)
+- A **silver chain** with a [[Spinsbek|spinsbek]] clasp (item 19)
+- A **silvered belly band** with screw clasp, noted as defective (item 20)
+- A **gold crown ornament for a kopiah** (*kruin-versiersel voor een koepiah*), enamelled (item 21)
+- A **purple, white-flowered handkerchief** (item 22)
+- A **hair pin** in the form of a kopiah crown ornament, described as a rare model (*zeldzaam model*) (item 23)
+- **Bracelets** in various styles (items 24–30)
+- **Ankle rings** of [[Spinsbek|spinsbek]] in different forms (item 31, two pairs)
+- **Finger rings** (items 32–33)
+- A **silver ornament for the end of a chain or rope**, used as a support for climbing the stairs of an elevated stilt house — reflecting Acehnese domestic architecture (item 34)
+- A **gold bracelet** (item 35)
+- **Silver rings**, some with incised notching (item 36, five pieces)
+- A remarkable pair of **gold spectacles with extendable parts** (*gouden bril met uitschuifbare verlengstukken*) (item 37)
+- A **spherical silver betel-lime box** (*kalkdoosje*) (item 38)
+- **Silver buttons**, a pair (item 39)
+- A **defective gold chain** (item 40)
+- A **child's bracelet** of chains with a gold ornament on top (item 41)
+- A **small chased silver box** with various fragments and tangles of gold wire (item 42)
+- A **betel-lime box of [[Spinsbek|spinsbek]]** hanging from thirteen united thin chains (item 43)
+
+### Significance of the assemblage
+
+The collection is significant both as a record of Acehnese courtly personal adornment and as evidence of the upheavals of the early [[Aceh War]]. The quality and variety of the pieces suggest that even a relatively minor coast-state radja maintained a substantial collection of precious-metal jewellery, underscoring the importance of personal ornament as a marker of status and authority in pre-colonial and early-colonial Acehnese society. The prominence of [[Spinsbek|spinsbek]] work — a distinctive Acehnese granulated or beaded metalwork technique — throughout the assemblage links it to the broader tradition of [[Acehnese Gold and Silverwork]].
+
+The gold spectacles with extendable parts are a particularly unusual and intriguing item, suggesting either actual use by a ruler with failing eyesight or a purely ceremonial function as a marker of learning, authority, and access to foreign luxury goods. The hasty departure in which the radja was unable or chose not to take his most precious possessions is consistent with the broader pattern of displacement caused by Dutch military operations in the coastal districts during this phase of the war.
 
 ## See Also
 
-- [[A. J. E. Diemont]]
-- [[G. B. T. Wiggers van Kerchem]]
-- [[A. G. Popelier]]
-- [[Toekoe Moeda Angkasa]]
-- [[Toekoe Paja]]
+- [[Radja of Simpang Olim]]
+- [[Toekoe Moeda Ia Malim]]
+- [[Spinsbek]]
+- [[Abandonment of Simpang Olim residence (1877)]]
+- [[Acehnese Gold and Silverwork]]
+- [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen]]
+- [[A.J.E. Diemont]]
 - [[Tandjong Semantoh]]
-- [[Merbau]]
-- [[Arakoendoer]]
-- [[Teping Sirin]]
-- [[Tepin Sirin]]
-- [[Blang-Ni]]
-- [[Expedition against Simpang Olim and Tandjong Semantoh (November-December 1876)]]
-- [[Murder of Toekoe Moeda Angkasa]]
+- [[Great Acheh]]
 - [[Aceh War]]
+- [[Uleebalang]]
+- [[Batavian Society Treasure Room Aceh Collection]]
+- [[1877]]
 
-## Source
+## Sources
 
-*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 64, 79-85.
+*De geschiedenis van Nederland in onzen tijd*, door J.A. de Bruyne. Amsterdam: Uitgeverij "De Bussy," 1912.
+
+*Gids voor den bezoeker van de schatkamer*, Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen, Batavia, 1928. Druk: Ruygrok & Co., Batavia. Cabinet 3 (Atjeh), items 2–42.
