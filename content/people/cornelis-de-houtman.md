@@ -34,6 +34,16 @@ The ships that escaped Atjeh made for [[Pedir]], where they beat off an Atjehnes
 
 The death of Cornelis de Houtman did not end Dutch interest in Atjeh; if anything, it gave the Dutch a personal stake in the sultanate. [[Balthazar de Moucheron|De Moucheron]] suffered heavy losses; [[John Davis|Davis]] turned his spy-material to English advantage. But [[Frederik de Houtman|Frederik de Houtman]]'s captivity became the foundation of European Malay studies, and the [[Maurits van Oranje|Prince Maurits]]-Sultan correspondence of [[1601]]–[[1602]] — for which see [[Atjeh embassy to Prince Maurits at Grave (1602)]] — was in part motivated by the need to obtain his release. By [[1602]] the deed was done: Frederik was free, and an Atjeh embassy had stood in Prince Maurits's military camp at the siege of Grave.
 
+## Account from *De Kleine Oosterling* (1901) — the 1599 visit in the Dutch school reader
+
+The [[De Kleine Oosterling|Wijma school reader]] of [[1901]] introduces the Houtman brothers as the commanders of two Zeeland ships sent to the East Indies: "two of them had been sent out by Zeeland merchants. Cornelis Houtman and his brother Frederik were in command." In the school reader, Cornelis is the principal named Dutch actor of the [[Houtman brothers' visit to Atjeh (1599)|1599 visit]] — the captain forced to choose between his brother and his ships.
+
+The visit's account is succinct: the brothers were the first Dutch visitors to Atjeh; they received a friendly welcome from one of the great men of the realm; and the welcome turned to ambush. "Suddenly the Atjehnese attacked our men. A fierce fight followed, and on both sides many fell. The sailors who were on shore were also seized, and all were killed except eight. Among those eight was Frederik Houtman." Cornelis's role in the aftermath is described in a single sentence: "Cornelis was forced to leave his brother and the others in the hands of the treacherous enemy and to depart with the two ships." The school reader frames Cornelis's abandonment of Frederik as a necessity imposed by the treacherous Atjehnese ambush, establishing the treacherous framing of the Atjehnese that the rest of the school reader's Atjeh lessons would deploy.
+
+## Account from *Coen: Koopman van Heeren Zeventien* (1948) — the *sabander* dispute
+
+Johan van der Woude's biography of Jan Pieterszoon Coen gives a fuller account of Cornelis de Houtman's [[1599]] expedition, organised by the Zeeland merchant [[Balthasar de Moucheron|Balthazar de Moucheron]] and commanding the ships *Leeuw* and *Leeuwin*. On arrival at Atjeh, de Houtman was received with great hospitality by the Sultan, who granted trade permission and a house on shore. De Houtman then attempted to negotiate lower pepper prices directly with the Sultan, bypassing the *sabander* (harbourmaster) who had fixed the rates — a diplomatic blunder that, combined with Portuguese intrigue at court (the Portuguese agent Affonso Vicenti convinced the Sultan the Dutch were spies), set the stage for the ambush of [[11 September]] [[1599]] in which de Houtman was killed in his cabin and his brother [[Frederik de Houtman|Frederik]] taken captive.
+
 ## Significance
 
 Cornelis de Houtman is significant to [[Acheh|Atjeh]]'s history as the first Dutchman of note to die there — the eldest casualty of the Dutch-Atjeh encounter, and the human cause of the diplomatic and scholarly chain that produced his brother's Malay dictionary and the [[Atjeh embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits]]. His death fixed Atjeh in the Dutch colonial memory as a place of danger, treachery, and — paradoxically — of compulsory apprenticeship. In Stapel's structure of the Dutch-Acehnese narrative, his death is the opening Dutch casualty of a three-century relationship.
@@ -55,6 +65,8 @@ Cornelis de Houtman is significant to [[Acheh|Atjeh]]'s history as the first Dut
 - [[Pedir]]
 - [[Nicobaren]]
 
+- [[De Kleine Oosterling]]
+- [[Houtman brothers' visit to Atjeh (1599)]]
 ## Source
 
 *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter XXIII ("Sint Thomas. De Madoera-ziekte. Malakka. Het groote kanon in Atjeh. Java. Paradijsvogels. Lélang. Koloniale Portugeezen"), p. 81 of the numbered-letter sequence, and chapter XXXII ("Het Kasteel van Verre. De brief op varkensvel in Atjeh. Bali en Holland één!"), pp. 114–118.

@@ -55,6 +55,18 @@ After his work in Aceh, Snouck Hurgronje returned to the Netherlands in [[1906]]
 
 Snouck Hurgronje's influence on Dutch colonial policy in Aceh was immense. The handbook's editors credit him with having shown that the Groot-Atjehsche system was "in den grond reeds aanwezig" — already present in substance — when the Dutch took over the administration, so that the Dutch task was the *herstelling c.q. handhaving* — restoration or maintenance — of the native institutions rather than their invention. This principle, applied unevenly across the Onderhoorigheden where Acehnese influence had only partially displaced Malay, Gayo, or Alas institutions, set the doctrinal baseline for the entire structure of indirect rule. His ethnographic and political analyses provided the basis for the shift from brute force to a more subtle, co-optive strategy. His opposition to Van Daalen, though initially unheeded, later proved prescient and helped shape the debate over colonial governance. He remains one of the most studied and debated figures in the history of Dutch–Acehnese relations.
 
+## The Meusigit Raja judgement
+
+"Dr Snouck Hurgronje called this house of God — intended as a proof of our conciliatory disposition and generosity towards the Acehnese enemy — even 'one of the many expensive mistakes that marked the beginning of our Aceh interference,' and this eminent scholar qualified the mosque as 'an empty monument of our folly.'" The Snouck Hurgronje judgement — "an empty monument of our folly" — is the sharpest colonial critique of the [[generaal Van Swieten|Van Swieten]] rebuilding of the [[Meusigit Raja]] at [[Koeta-Radja|Koeta Radja]]. The book — and the priest who narrates the chapter — immediately qualifies: "One should, however, bear in mind that one then lived in the raw reality of the war years."
+
+## The experienced controllers remark
+
+In the book's chapter on civil administrators and transfer malady, the Resident cites Snouck Hurgronje's remark: "Has not Prof. Snouck Hurgronje written somewhere that experienced controllers, especially in the Outer Territories, often happily complement the qualities lacking in their Residents — and knowledge of affairs, one might add?" The book immediately adds: "His Learnedship, however, neglected to mention how this was often made impossible by the element of personal vanity."
+
+## *De Atjehers* and the manté's
+
+In the chapter *Jagerslatijn* of *[[Oost-Indisch Journael]]*, the land council chairman cites Snouck Hurgronje's *De Atjehers* on the manté's: "These manté's would wear no clothing and would be densely hairy over the whole body. They would live in the mountains of the [[XXII Moekims]] and all informants knew them only by hearsay. One informant knew to tell that, in the time of his grandfather, a 'manté' married couple was brought captive to the Sultan of Atjeh. Despite all the efforts that were employed to persuade them, those forest-people refused to speak or to eat and finally died the voluntary death by starvation." "Also in Acehnese writings these 'manté's' are sometimes mentioned, but Snouck Hurgronje already remarked that these beings always lived one day's journey further inland than the researcher who wished to see them."
+
 ## Account from *Nederlandsch Indië Platen Atlas* ([[1926]]) — Snouck Hurgronje
 
 The *Nederlandsch Indië Platen Atlas*, published by [[Volkslectuur]] in [[1926]], includes Snouck Hurgronje among its "Groote Mannen uit de Nieuwste Geschiedenis van Nederl.-Oost-Indië" (Great Men from the Latest History of the Dutch East Indies). The atlas describes him as follows: "Prof. Dr. C. Snouck Hurgronje. Deze wereldvermaarde Nederlandsche kenner van den Islam en het Mohammedaansch recht werd in [[1889]] naar Indië uitgezonden als Regeeringsadviseur en bewees als zoodanig der Regeering diensten van onschatbare waarde. Ook als hoogeeraar dient hij thans nog van advies. Een paar van zijn voornaamste werken zijn 'Mekka' en 'De Atjehers'." (This world-renowned Dutch expert on Islam and Mohammedan law was sent to the Indies in [[1889]] as Government Advisor and proved as such to be of inestimable value to the Government. Even as a professor he still serves in an advisory capacity. A couple of his principal works are 'Mekka' and 'De Atjehers'.)
@@ -127,6 +139,9 @@ Snouck Hurgronje's work established a new approach to colonial governance, combi
 - [[1907]]
 - [[1908]]
 
+- [[generaal Van Swieten]]
+- [[P. H. van der Kemp]]
+- [[Datoek]]
 ## Sources
 
 *The Achehnese*, Vol. I & II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -140,3 +155,5 @@ Snouck Hurgronje's work established a new approach to colonial governance, combi
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
 
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Plate 23 (Great Men from the Latest History of the Dutch East Indies).
+
+*Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja, the chapter on bestuursambtenaren, and the chapter *Jagerslatijn*.

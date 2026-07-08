@@ -1,6 +1,6 @@
 ---
 title: Klinkert
-aliases: [H.C. Klinkert, H. Klinkert, Herman Neubronner van der Tuuk? actually Klinkert is a different person]
+aliases: ["H.C. Klinkert", "H. Klinkert", "Klinkert the lexicographer"]
 tags: [person, western-scholar, lexicographer, missionary, dutch]
 ---
 

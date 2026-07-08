@@ -21,6 +21,10 @@ In its chapter on religion: "Uit gegevens uit reisverhalen en Mohammedaansche gr
 
 In its description of the graves at Gresik: "Soenan Goenoeng Djati was een Mohammedaan, vermoedelijk uit Pasei (Noord-Sumatra) afkomstig, die met zijn godsdienst-onderwijs op Java veel opgang maakte. Hij stierf [[1570]] te Cheribon." (Soenan Goenoeng Djati was a Mohammedan, presumably from Pasai [North Sumatra] by origin, who with his religious teaching achieved much success on Java. He died in [[1570]] at Cheribon.)
 
+## The Hikayat Raja-raja Pasai and European editions
+
+The *[[Hikayat Raja-raja Pasai]]* (Chronicle of the Kings of Pasai) is the foundational Malay literary source for the history of Pasai. The chronicle was edited by [[E. Dulaurier]] (Paris, [[1849]]) and later published in the *[[Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië|B.K.I.]]* and in an edition by [[J. P. Mead]] appearing in the *[[Journal of the Straits Branch of the Royal Asiatic Society|J.S.B.R.As.S]]*. These successive European editions made the Pasai chronicle accessible to Western Malay scholarship and introduced it into the comparative discussion of early Muslim polities in the archipelago.
+
 ## The Portuguese visit ([[1509]])
 
 Pasei was one of the two pepper ports — with [[Pedir|Pedir]] — that the [[Diogo Lopez de Sequeira|Sequeira]] mission of [[1509]] called at on the way to [[Malaka|Malaka]], "waar de Portugeezen toestemming verwierven om handel te drijven". The visit was the first European commercial contact with the Atjeh coast and the foundation of the European pepper trade with the region. Pasei, like Pedir, would within a generation become one of the chief attractions of the Atjeh coast to European traders.
@@ -90,6 +94,8 @@ The kingdom of Samudra-Pasai was founded, according to the [[Hikajat Radja-radja
 - [[Zeeland Company's Atjeh mission ([[1601]])]]
 - [[marga Ramin]]
 
+- [[Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]
+- [[Journal of the Straits Branch of the Royal Asiatic Society]]
 ## Sources
 
 *Coen, Koopman van Heeren Zeventien. Geschiedenis van den Hollandshen Handel in Indië (1598-1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. De Boer Jr., 1948), Hoofdstuk V "Voorgangers, Hollanders en mededingers tot 1614. Atjeh. Djohor. Malaka." (pp. 114-115, 134-135).

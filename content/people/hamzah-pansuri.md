@@ -25,6 +25,10 @@ A notable passage of the *Kitāb al-Muntahī* cited by Raniri contains a play, i
 
 The accession of [[Iskandar Thani]] in [[1637]] and the [[Raniri's public debate against the Wujudiyyah in Acheh|public disputation]] of Raniri against the Wujūdiyyah were followed by the burning of the books of Hamzah's school and the execution of his disciples. The burning was not wholly effective: manuscripts of the *[[Asrar al-'arifin|Asrār al-ʿārifīn*]] and the *[[Kitab al-Muntahi|Kitāb al-Muntahī*]] survive — the latter in Cod. Or. 7291(3) and Cod. Or. 1952, with a Javanese translation in Cod. Or. 5716(2) and 7736(1) — and the *Asrār al-ʿārifīn* was edited by [[J. Doorenbos|Doorenbos]].
 
+## Role as editor of the Malay translation of the Burda
+
+In a sixteenth-century Malay translation of the *Burda* of [[Al-Busiri]], Hamzah Pansuri is identified as one of the editors who supplied emendations to the text. His contributions appear in footnotes such as "80) hs. manusjia; Ar. fPl‑djasam, in het vette der aarde. De tekestverbetering is ingegeven door Hamzah Fansoeri ed. J. Doorenbos bl. 46: lemah manis terlalu njaman." These notes show his work in correcting archaic Malay spellings and providing Arabic glosses through the medium of the [[J. Doorenbos|Doorenbos]] edition of the *Asrār al-ʿārifīn*. This editorial tradition — Hamzah's textual authority being invoked in the apparatus of a later Burda edition — attests to the long shadow that Hamzah's scholarship cast over Malay Islamic literary culture well after his own death and the burning of his books.
+
 ## Significance
 
 Hamzah Pansuri is the principal pantheistic mystic of [[Acheh]] and the founder of the school of [[Wujudiyyah]] mysticism against which Raniri directed his polemic. The Voorhoeve account of [[1955]] adds substantially to the picture drawn by Snouck Hurgronje in *The Achehnese* by documenting the textual basis of Hamzah's school: the *[[Asrar al-'arifin|Asrār al-ʿārifīn*]] and the *[[Kitab al-Muntahi|Kitāb al-Muntahī*]] are the principal surviving works of Hamzah, and the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] of Raniri preserves, in its polemical citations, the only extended fragments of these works. The play on *kuphō* and *kuphu* in the *Kitāb al-Muntahī* is a remarkable trace of the linguistic specificity of the *[[Bahasa Djawi]]* of the Achehnese court.
@@ -33,6 +37,8 @@ Hamzah Pansuri is the principal pantheistic mystic of [[Acheh]] and the founder 
 
 
 
+- [[Malay translation of the Burda]]
+- [[Burda (poem)]]
 ## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -41,3 +47,5 @@ The forerunner and spiritual predecessor of Shamsuddin of Sumatra, a highly cele
 *Twee Maleise geschriften van Nūruddīn ar-Rānīrī: in facsimile uitgegeven met aantekeningen door P. Voorhoeve*. Uitgaven van de Stichting De Goeje, No. 16. Leiden: E. J. Brill, 1955. Inleiding §2a ("Inhoudsoverzicht"), pp. 9–10; §2c ("De secten"), p. 16; apparatus criticus ad pp. 18, 71, 97–105 of the *Tibjān* facsimile.
 J. Doorenbos, edition of the *Asrār al-ʿārifīn* of Hamzah Pansuri.
 *The Achehnese*, Vol. I and Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pages 52–58 (footnotes crediting Hamzah Fansoeri with textual emendations).

@@ -33,6 +33,10 @@ The atlas, in its chapter on transport (*Verkeer*), uses Kota Radja as its bench
 
 The atlas also mentions the [[Peutjot Cemetery|cemetery at Peutjot]] near Kota Radja, which was "voornamelijk bestemd voor de op de verschillende expedities in Atjeh gesneuvelden" (primarily intended for those who fell on the various expeditions in Atjeh), their names carved into the stone walls of the entrance.
 
+## Early twentieth-century printing at Koetaradja ([[1925]])
+
+Koetaradja served as a printing centre for Acehnese religious texts in the early twentieth century. The [[Nalam Mo'lôt]] and a local translation of the [[Akidat al-awāmm]] were both produced around [[1925]] in an anthology issued as the *[[Madjmit rasa'il]]* — "Nalam Mo'lôt en de door Kreemer aan hem toegeschreven Atjêhse vertaling van de 'Akidat al‑awāmm', beide in een omstreeks 1925 te Koetaradja uitgegeven Madjmit rasa'il." These publications were likely intended for use in pesantren and surau, reflecting the continued vitality of Acehnese Islamic scholarship after the Dutch conquest ([[1873]]–[[1904]]). The attribution of the Atjehnese translation of the *Akidat al-awāmm* was a matter noted by [[J. Kreemer]] in his study of Acehnese devotional literature.
+
 ## Significance
 
 Koeta-Radja is significant across all phases of the colonial history of Aceh. In *[[Oost-Indisch Journael]]* (Merac, [[1947]]), it is the capital and the place of the Meusigit Raja, the centre of the colonial state's religious politics. In *[[Oom Ambon van het K.N.I.L.]]* (Dames, [[1954]]), it is the principal garrison of the [[K.N.I.L.]], the place at which [[Dominee Thenu]] was placed, and the site of his funeral — the book's moral closure of the Aceh War: the men of courage carrying the man of faith, in the capital of the country they had fought forty-five years to subdue.
@@ -90,3 +94,5 @@ In the *Nederlandsch Indië Platen Atlas* ([[1926]]), Kota Radja's mention in th
 *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 143-145.
 
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter IX (Verkeer / Transport), p. 160, and Plate 70 (Monuments at Weltevreden), p. 70.
+
+*20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, p. 21.

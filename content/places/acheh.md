@@ -1,7 +1,7 @@
 ---
 title: Acheh
 aliases: [Aceh, Atjeh, Achin, Achehnese country, Kingdom of Acheh, Acheen, Atchin, Acheh proper]
-tags: [place, kingdom, country, region, sultanate, coast]
+tags: [place, kingdom, country, region, sultanate, coast, islamic-learning, 16th-century]
 ---
 
 Acheh (modern Aceh) is the region at the northern tip of Sumatra that was home to the Sultanate of Acheh, one of the most powerful Islamic port-kingdoms in Southeast Asia from the 16th to the 19th century. It became a major stopping point for Muslim pilgrims traveling between the Indonesian archipelago and Mecca, and a center of Islamic scholarship, mysticism, and literature in the Malay world. Acheh fought a prolonged war of resistance against Dutch colonial conquest beginning in [[1873]], a conflict that produced much of the religious-political and literary material recorded in Hurgronje's study of the Achehnese.
@@ -18,6 +18,14 @@ Acheh is distinguished in the comparative ethnography of the [[East Indian Archi
 
 From the seventeenth century onward the Sultanate of Acheh had lost effective control over the great chiefs of the State and over their dependents; even at the height of royal power under such princes as [[Alauddin al-Qahar]] (reigned [[1540]]–[[1567]]), [[Sultan Meukuta Alam|Meukuta Alam / Iskandar Muda]] ([[1607]]–[[1636]]), or his successor [[Iskandar Thani]], the show of grandeur consisted chiefly in enlargements of territory, increased authority over the ports and a consequent growth of revenue and court splendour — not in solid institutions capable of surviving dynastic overthrow. Throughout, Snouck Hurgronje insists that the institutions of Acheh are in large measure genuinely indigenous and of very great antiquity, and that the Sultan's authority — even at its strongest — never seriously displaced the ancient autonomy of the uleebalangs, the *kawoms* and the *mukims*.
 **Acheh** (also written **Atjeh**, **Achin** or, in modern spelling, **Aceh**) is the country forming the subject of *The Achehnese* of Dr. [[C. Snouck Hurgronje|Snouck Hurgronje]]. It occupies the northern extremity of [[Sumatra]], and the Achehnese themselves placed the limits of their kingdom at [[Tamiang|Teumiang]] on the [[East Coast (of Acheh)|East Coast]] and at [[Baros]] on the [[West Coast (of Acheh)|West Coast]]. Far more restricted, however, was the territory they described as **Acheh proper**, or what the Dutch were wont to term **[[Great Acheh]]** — the kernel of the kingdom, which has supplied the outlying districts with much of their population and has constantly striven to exercise dominion over them. According to the Achehnese idea, this core territory was bounded by a line extending from [[Kluang]] on the west to [[Krueng Raya]] on the [[North Coast|north coast]], and passing through [[Reueng-reueng]], [[Pancha]] and [[Janthoe]].
+
+## Sixteenth-century manuscripts and linguistic evidence
+
+The literary vitality of Atjeh in the sixteenth century is attested by Malay manuscripts held at Cambridge and Oxford. The Erpenius-hss. (Cambridge) and the Hikajat Seri Rama manuscript (Oxford) are described as "blijken van de godsdienstige en litteraire activiteit in het 16de eeuwse Atjeh" (evidence of the religious and literary activity in 16th-century Atjeh). These contain religious-didactic Malay prose and represent the oldest datable examples of such literature, indicating a vibrant intellectual milieu in the sultanate's courts and pesantren.
+
+An early linguistic attestation of the Acehnese dialect occurs in a sixteenth-century Malay translation of the *Burda*, where the Malay word *ureh* ("stripe" or "streak") is glossed as *Atj. ureh*, confirming the Acehnese lexical form. The same manuscript tradition also preserves evidence of close Acehnese-Perak cultural and linguistic ties: the text shows Perak-Malay influence, and Acehnese influence in Perak was "duidelijk merkbaar" (clearly perceptible). In [[1579]] the forces of Atjeh invaded and conquered Perak, incorporating the tin-rich state into the Acehnese sphere of influence; in the early seventeenth century [[Sultan Iskandar Muda]] restored Acehnese overlordship over Perak a second time.
+
+The sultanate also maintained cultural links with [[India]] through the circulation of Malay-language Islamic texts. The source observes of one such text — a Malay translation of al-Ushi's *Bad' al-Amali* — that "het uit Indië naar Atjēh is gekomen" (the work may have come from India to Atjēh), indicating that Aceh in the sixteenth century was a recipient of Islamic textual currents from the Indian subcontinent.
 
 ## Account from *Raffles' Atjeh-overeenkomst van 1819* — Acheh
 
@@ -101,6 +109,9 @@ Beyond pepper, Atjeh served as the primary gateway for Dutch and English traders
 - [[Cornelis Houtman]]
 - [[Frederik Houtman]]
 
+- [[Perak]]
+- [[Hikajat Seri Rama]]
+- [[Malay translation of al-Ushi's Bad' al-Amali]]
 ## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -108,3 +119,5 @@ Beyond pepper, Atjeh served as the primary gateway for Dutch and English traders
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
 *Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598—1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 108-125.
+
+*20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pp. 18–21, 44–45, 62, 98.
