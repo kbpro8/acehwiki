@@ -1,12 +1,11 @@
 ---
 title: Teunom
-aliases: [Teunôm, Tëunom]
-tags: [place, north-east-coast, west-coast, uleebalangship, imeum, punishment]
+aliases: ["Teunôm", "Tëunom", "Kr. Teunom", "Krueng Teunom (West Atjeh)", "NW Krueng Teunom"]
+tags: ["place", "north-east-coast", "west-coast", "uleebalangship", "imeum", "punishment", "river", "atjeh", "westkust", "coal"]
 ---
 
-A location on the West Coast with an important chief. 'The energetic chief of Teunom (Teuku Imeum) is said to be a descendant of this dreaded protector of property' ([[Teungku di Weueng]]). Teunom is listed as a major territorial division.
-
 ## Expanded account from *The Achehnese*, Vol. I — Teunom
+
 
 **Teunom** is a place on the West Coast of Acheh mentioned in *The Achehnese* Vol. I both for its chief's arbitrary punishments and for its energetic imeum, who is contrasted with the adventurer [[Teuku Uma]] as an example of how an entrenched adat-chief could hold his own against a powerful upstart.
 
@@ -22,14 +21,43 @@ The other appearance of Teunom in Vol. I is in Snouck's discussion of the rise o
 
 Though Teunom appears only briefly in Vol. I, its double association — with the cruel ingenuity of West-Coast adat-justice and with the strong hereditary chieftainship that kept even Teuku Uma at bay — gives it an illustrative importance in Snouck's analysis of the political fragmentation of the West Coast. The place is treated more fully in Vol. II of *The Achehnese*.
 
+
+## Account from *The Geology of Indonesia* ([[1949]]) — Krueng Teunom
+
+### The 1922 Zwierzycki observation
+
+Zwierzycki's [[1922]] entry for the NW Krueng Teunom locality, as reproduced by Van Bemmelen, records "Seam 2½ ft thick, interbedded with sandstone and shale". The locality is cited in the standard form "ZWIERZYCKI, 1922, p. 35" and is assigned to the Paleogene series of Atjeh coals. The 2½-ft seam — about 0.75 m thick — is the thickest of the three West-Atjeh Paleogene coal seams recorded by Rinaud and Zwierzycki, the others being the "very thin seams" of the [[Krueng Kluet]] (No. 13) and the 3-ft seam South of [[Tapatuan]] (No. 14).
+
+### Place in the Atjeh coal record
+
+For the wider context of the West-Atjeh coal localities, see the entries on [[Krueng Kluet]] and [[Krueng Raja]]. The NW Krueng Teunom locality is one of the three West-Atjeh Paleogene-coal localities in Zwierzycki's consolidated inventory, alongside the Krueng Kluet (No. 13) and South of Tapatuan (No. 14). The Paleogene localities are exposed along the inland margin of the West-Atjeh coastal plain, where the rivers of the West-Atjeh coast emerge from the central mountains and flow across the older Tertiary rocks before reaching the recent alluvium of the coast.
+
+
+
 ## See Also
 
+- [[Acheh]]
 - [[Teungku di Weueng]]
 - [[Chief of Teunom]]
-- [[Imeum of Teunom]]
 - [[Teuku Uma]]
-- [[Acheh]]
+- [[Imeum of Teunom]]
+- [[Atjeh's Westkust]]
+- [[Coal in Atjeh]]
+- [[J. Zwierzycki]]
+- [[Krueng Antjong]]
+- [[Krueng Kluet]]
+- [[Krueng Raja]]
+- [[Rinaud]]
+- [[Tapatuan]]
+- [[Van Bemmelen's The Geology of Indonesia (1949)]]
+- [[1885]]
+- [[1922]]
+
 
 ## Source
 
+
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 49 (Table 13, coal localities of Sumatra, No. 15).
+

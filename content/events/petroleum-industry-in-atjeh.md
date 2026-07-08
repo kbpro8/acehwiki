@@ -1,16 +1,11 @@
 ---
 title: Petroleum industry in Atjeh
-aliases: [Atjeh oil concessions, Acheh petroleum, oil industry in Atjeh, Perlak oilfields]
-tags: [concept, petroleum, mining, trade, colonial]
+aliases: ["Atjeh oil concessions", "Acheh petroleum", "oil industry in Atjeh", "Perlak oilfields", "North Sumatra oil exploration", "Petroleum exploration in North Sumatra", "Atjeh oil exploration"]
+tags: ["concept", "petroleum", "mining", "trade", "colonial", "event", "oil", "atjeh", "sumatra"]
 ---
 
-**The petroleum industry in [[Acheh|Atjeh]]** was, alongside [[Sabang]]'s shipping trade, the
-principal European industry of the region in the early twentieth century. Centred on the oil
-concessions of the [[Idi]]–[[Langsa]] district on the [[East Coast of Sumatra|east coast]], it was
-worked chiefly by the [[Batavian Petroleum Company]], whose crude was piped to the refinery at
-[[Pangkalan Brandan]], though by the [[1910s]] its output was in steady decline.
-
 ## The concessions of Idi–Langsa
+
 
 Fifteen concession territories, together measuring 8,652 hectares, had been brought into exploitation
 in the sub-district of [[Idi|Idi Langsa]]. Two of them, [[Peudawa]] and [[Paja-Bilik]], were no
@@ -20,7 +15,9 @@ while South [[Peureulak|Peureula]] was worked by the [[Petroleum Company of Sout
 licence territory of [[Krueng Meureubo|Kroeng Meureubo]], also held by the "Batavian," came into
 production for the first time in [[1914]], yielding 17 K.G. tons of crude oil that year.
 
+
 ## The Pangkalan Brandan refinery
+
 
 All the oil from these territories was delivered to and processed by the [[Batavian Petroleum Company]]'s
 refinery at [[Pangkalan Brandan]] on the [[East Coast of Sumatra]], to which it was carried from the
@@ -30,7 +27,9 @@ refined into petrol (benzine), kerosene, diesel oil, residue and a little asphal
 example, fell from 66,253 K.G. tons in [[1913]] to 44,144 in [[1915]], and kerosene from 92,895 to
 65,079 over the same span.
 
+
 ## Declining output
+
 
 Production continued the decline that had set in after [[1913]]. Across the three working fields the
 totals fell from 182,447 K.G. tons in [[1913]] to 148,493 in [[1914]] and 125,733 in [[1915]]. The
@@ -38,7 +37,9 @@ fall was sharpest at East [[Peudawa]], which collapsed from 1,609 K.G. tons in [
 [[1915]]; [[Peureulak|Peureula]], much the largest field, slipped from 164,100 to 114,045 K.G. tons,
 and South [[Peureulak|Peureula]] from 16,738 to 11,468 over the same years.
 
+
 ## Exploration and prospecting
+
 
 Beyond the producing fields, nine mining-investigation licences were still in force in [[1914]]. On
 the territory of [[Batoe Bedoelang]] in [[Tamiang]] the [[Colonial Petroleum Company]] began deep
@@ -49,7 +50,9 @@ drilling in [[1913]] but abandoned it at a depth of 405 metres. The
 [[Bajeuën]]. The presence of crude oil had also been established outside the worked areas, among
 other places at [[Peusangan]], though the definitive results of these surveys were not yet known.
 
+
 ## Significance
+
 
 The petroleum fields of [[Idi|Idi Langsa]] made [[Acheh]] a contributor to the wider Sumatran oil
 economy that the [[Batavian Petroleum Company]] built around [[Pangkalan Brandan]], and their hoped-for
@@ -57,18 +60,114 @@ expansion was one of the developments that might one day furnish a hinterland fo
 declining yields of the [[1910s]] showed the [[Acheh|Atjehnese]] fields to be ageing even as colonial
 enterprise in the region was at its most confident.
 
+
+## Account from *The Geology of Indonesia* ([[1949]]) — Oil exploration in North Sumatra
+
+### The 1883 Zulkler concession and the 1885 Telaga Said drilling
+
+The founding episode of the northern-Sumatran oil industry is the [[1883]] oil concession granted to the private entrepreneur [[J. Zulkler|J. Zulkler]]. Van Bemmelen's account reads:
+
+> "In [[1883]] a concession for oil had been granted in North Sumatra. The concessionary, J. ZulkER, met with considerable difficulties in drilling on account of an abundant flow of gas and asked the Government Bureau of Mines for assistance. A government crew, under the leadership of the mining engineer FENNEMA, was sent with drilling equipment and shortly afterwards, in [[1885]], this oil venture proved to be an outstanding success."
+
+The episode is significant on three counts. First, it is the first documented oil concession in northern Sumatra, and accordingly the founding legal episode of the northern-Sumatran oil industry. Second, the technical difficulty that Zulkler encountered — "an abundant flow of gas" — is the first recorded encounter with the high-pressure gas zones that would become a recurrent feature of northern-Sumatran drilling. Third, the fact that Zulkler had to ask the [[Bureau of Mines in Indonesia|Government Bureau of Mines]] for technical assistance is the first documented instance of the public-private partnership model that would subsequently characterise the entire East Indian oil industry: private concessionaries held the legal rights, but the government supplied the geological expertise and (in the early years) the drilling equipment.
+
+### The 1890 founding of Royal Dutch
+
+The success of the [[Telaga Said]] drilling attracted further private investment, and in [[1890]] the concession became the first oil property of the newly founded *Koninklijke Maatschappij tot ontginning van Petroleum terreinen in Nederlandsch Indië* ("Royal Company for the exploitation of oil fields in the Netherlands East Indies") — the future [[Royal Dutch Shell|Royal Dutch]]. The [[1890]] founding of the *Koninklijke Maatschappij* accordingly represents the consolidation of the northern-Sumatran oil industry under a single corporate umbrella, and the beginning of the corporate sequence that would lead, via the [[1907]] amalgamation with Shell, to the creation of the [[B.P.M.]] as the dominant East Indian oil company.
+
+### The 1907 amalgamation and the creation of the B.P.M.
+
+The [[1907]] amalgamation of Royal Dutch with the Shell Transport and Trading Company created the [[Royal Dutch Shell]] group, and the [[B.P.M.]] (Bataafsche Petroleum Maatschappij) was created as the Royal Dutch subsidiary for the East Indian oil interests. The B.P.M. subsequently took over "all interests of the Royal Dutch in the Indian Archipelago", and the B.P.M.'s dominance of the East Indian oil industry (57.3 % of crude production in [[1940]]) made it the principal corporate actor in the colonial mineral economy of which Atjeh was a part.
+
+### The 1912 entry of Standard Oil of New Jersey
+
+The [[1912]] entry of the Standard Oil Company of New Jersey — through its subsidiary the [[N.K.P.M.]] (Nederlandsche Koloniale Petroleum Maatschappij) — marked the first significant American participation in the East Indian oil industry. The N.K.P.M. subsequently grew to "about one fourth of the total crude output" by [[1940]], making it the second-largest oil company in the East Indies, after the B.P.M. For Atjeh specifically, the N.K.P.M. was the operator of the [[Pulu Pandjang]] field in the [[Atjeh oil complex]] — the only Atjeh-complex field operated by the company.
+
+### The 1931 entry of Standard Oil of California
+
+The [[1931]] entry of the Standard Oil Company of California — through its subsidiary the [[N.P.P.M.]] (Nederlandsche Pacific Petroleum Maatschappij) — marked the second significant American participation in the East Indian oil industry. For Atjeh specifically, the N.P.P.M. was the operator of the [[Pasé oil field|Pasé]] field in the [[Atjeh oil complex]] — the only Atjeh-complex field brought into production in [[1941]] (i.e. the newest of the Atjeh-complex fields).
+
+### The 1940–1941 production tables
+
+By the [[1940]]–[[1941]] period, the North Sumatra oil province — as recorded in Van Bemmelen's Table 4 — comprised the following producing fields:
+
+| Field | Operator | 1940 | 1941 |
+|-------|----------|------|------|
+| [[Aru Bay]] | [[B.P.M.]] | 55,924 | 55,070 |
+| [[Telaga Said]] | [[B.P.M.]] | 1,076 | 960 |
+| [[Bulu Telang]] | [[B.P.M.]] | 919 | 900 |
+| [[East Atjeh oil block|East Atjeh (block)]] | [[B.P.M.]] | — | 4,626 |
+| [[Tamiang oil block|Tamiang (block)]] | [[B.P.M.]] | 709,625 | 527,590 |
+| S. Aru Bay (block) | [[B.P.M.]] | 2,100 | 5,030 |
+| [[Peureula]] (Atjeh complex) | [[N.L.A.M.]] | 48,219 | 36,640 |
+| South Perlak (Atjeh complex) | [[N.L.A.M.]] | — | — |
+| [[Pulu Pandjang]] (Atjeh complex) | [[N.K.P.M.]] | — | — |
+| [[Pasé oil field|Pasé]] (Atjeh complex) | [[N.P.P.M.]] | — | 1,797 |
+| Rokan block | [[N.P.P.M.]] | — | 1,402 |
+| **Total North Sumatra** | — | **920,755** | **728,682** |
+
+The total North-Sumatran production of 920,755 tons in [[1940]] and 728,682 tons in [[1941]] represents the high-point of the colonial northern-Sumatran oil industry, and the B.P.M.'s share of this production (769,644 tons in [[1940]], 83.7 % of the total) reflects the company's overwhelming dominance of the North-Sumatran oil province.
+
+### The deepest exploratory drilling: Lho Sukon, 3,450 m
+
+The North-Sumatran oil exploration also set the depth-record for the colonial East Indian petroleum industry: the deepest exploratory drilling was made at [[Lho Sukon]] in Atjeh, reaching a depth of 3,450 m. The Lho Sukon drilling is the technical high-point of the colonial oil-prospecting activity on Atjeh territory, and it accordingly marks the high-point of the colonial state's investment in the exploration of the Atjeh-interior petroleum geology.
+
+### Significance
+
+The oil exploration in North Sumatra is significant for the encyclopedia of [[Acheh]] history because it is the principal mineral-economic link between colonial Atjeh and the world petroleum economy in the first half of the twentieth century. The [[1883]] [[J. Zulkler|Zulkler]] concession and the [[1885]] [[Ph. C. Fennema|Fennema]]-led [[Telaga Said]] drilling are the founding episodes of the northern-Sumatran oil industry, and the subsequent extension of the industry onto Atjeh territory — the [[East Atjeh oil block|East Atjeh]], [[Tamiang oil block|Tamiang]] and [[Atjeh oil complex]] fields — is the central fact of Atjeh's colonial oil economy. The B.P.M.'s dominance of the North-Sumatran oil province, and the [[N.K.P.M.]]'s and [[N.P.P.M.]]'s secondary presence in the Atjeh oil complex, are the corporate facts of Atjeh's colonial oil economy, and the [[1940]]–[[1941]] production tables are the quantitative record of that economy's high-point.
+
+
+
 ## See Also
 
-- [[Batavian Petroleum Company]]
-- [[Pangkalan Brandan]]
-- [[Peureulak]]
-- [[Peudawa]]
-- [[Mining Service]]
 - [[Gold mining in Atjeh]]
+- [[Peureulak]]
 - [[Sabang]]
+- [[Mining Service]]
+- [[Pangkalan Brandan]]
+- [[Peudawa]]
+- [[Batavian Petroleum Company]]
+- [[Aru Bay]]
+- [[Atjeh oil complex]]
+- [[B.P.M.]]
+- [[Bulu Telang]]
+- [[Bureau of Mines in Indonesia]]
+- [[De Greve]]
+- [[East Atjeh oil block]]
+- [[J. H. Menten]]
+- [[J. Zulkler]]
+- [[Lho Sukon]]
+- [[N.K.P.M.]]
+- [[N.L.A.M.]]
+- [[N.P.P.M.]]
+- [[Netherlands Indies Geological Survey]]
+- [[Netherlands Indies Mining Law of 1899]]
+- [[Oil exploration in North Sumatra]]
+- [[Pasé oil field]]
+- [[Peureula]]
+- [[Ph. C. Fennema]]
+- [[Pulu Pandjang]]
+- [[Royal Dutch Shell]]
+- [[S. W. Tromp]]
+- [[Tamiang oil block]]
+- [[Telaga Said]]
+- [[Van Bemmelen's The Geology of Indonesia (1949)]]
+- [[1883]]
+- [[1885]]
+- [[1890]]
+- [[1907]]
+- [[1912]]
+- [[1931]]
+- [[1940]]
+- [[1941]]
+
 
 ## Source
+
 
 *De Europeesche Industrie* ["The European Industry"], section *De Buitenbezittingen* ("The Outer
 Possessions"), in *Grooten van Zee en Land in Nederlandsch-Indië*, Vol. 6, pp. 248–249 (English
 translation from the Dutch).
+
+*The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), pp. 7–11 (petroleum history, situation before WWII, oil districts of the East Indies).
+
