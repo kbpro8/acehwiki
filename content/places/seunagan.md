@@ -1,14 +1,18 @@
 ---
 title: Seunagan
 aliases: [West Coast, south of Meulaboh, West Coast of Acheh, the Western Coast, Atjeh Westkust, the West Coast of Acheh]
-tags: [place, north-east-coast, coast, region, dependency]
+tags: [place, north-east-coast, coast, region, dependency, material-culture]
 ---
 
-The area on the West Coast where Habib Seunagan carried out his teaching of unorthodox mysticism. He derived his name from 'the scene of his labours on the West Coast to the South of [[Meulaboh]].' Before attaining celebrity he was known as Teungku [[Peunado]] after the gampong in [[Pidie]] where he was born. His teaching included disseminating the ideas of [[Hamzah Pansuri]]. 'In Seunagan one Teungku di Krueng (ob. [[1902]]) may be considered as the spiritual successor of Habib Seunagan.'
+**Seunagan** is a region on the west coast of [[Acheh|Atjeh]], situated in what is today the Nagan Raya Regency of Aceh province, Sumatra. It is known both as a centre of unorthodox mysticism and as a source of fine woven craft production. The area lies to the south of [[Meulaboh]] and formed part of the West Coast dependency (*Westkust*) of the sultanate, a region distinguished by its pepper-planting colonies, its monsoon-bound communications, and its history of foreign admixture.
 
-## Expanded account from *The Achehnese*, Vol. I — West Coast (of Acheh)
+## Habib Seunagan and the mystic tradition
 
-The **West Coast** of [[Acheh|Acheh]] is one of the two great coast-dependencies of the sultanate, the other being the [[East Coast (of Acheh)|East Coast]]. It is separated from the rest of Acheh by the wild *rantos* districts — inhospitable tracts in which the larger settlements lie embedded — and was historically the principal field of labour of the Achehnese pepper-planters, who established colonies there and remained sometimes for years at a time in a society where there were no women.
+The area takes its name from **Habib Seunagan**, who carried out his teaching of unorthodox mysticism there and derived his name from the scene of his labours on the West Coast. Before attaining celebrity he was known as Teungku [[Peunado]] after the gampong in [[Pidie]] where he was born. His teaching included disseminating the ideas of [[Hamzah Pansuri]]. "In Seunagan one Teungku di Krueng (ob. [[1902]]) may be considered as the spiritual successor of Habib Seunagan."
+
+## The West Coast context
+
+The West Coast of [[Acheh|Acheh]] is one of the two great coast-dependencies of the sultanate, the other being the [[East Coast (of Acheh)|East Coast]]. It is separated from the rest of Acheh by the wild *rantos* districts — inhospitable tracts in which the larger settlements lie embedded — and was historically the principal field of labour of the Achehnese pepper-planters, who established colonies there and remained sometimes for years at a time in a society where there were no women.
 
 ### The rantos and the planters
 
@@ -26,7 +30,11 @@ The West Coast has received, more than any other part of Acheh, the impress of f
 
 ### Place-names and political chiefs
 
-The word *tandil* — a Tamil word originally meaning a collector of moneys, but among the Malays denoting the headman of a gang of coolies or of the crew of a boat — survives as an hereditary title of certain chiefs in the highland districts of the West Coast. The coastal towns of the West Coast — among which [[Daya|Daya]], [[Trumon|Trumon]], [[Susoh|Susoh]], [[Meulaboh|Meulaboh]], [[Tapa Tuan|Tapa Tuan]] and others are named in *The Achehnese* — were the seats of uleebalangs whose authority was, in the eyes of the chiefs of [[Acheh proper|Acheh proper]], only that of *keuchis* or *mantris* magnified by royal favour or by their own arrogance. The West Coast was, however, the theatre of important events in the [[Achehnese War|Achehnese War]]: the Hasan-Husain feast, for instance, is still celebrated to this day in Trumon in the manner customary in the Deccan.
+The word *tandil* — a Tamil word originally meaning a collector of moneys, but among the Malays denoting the headman of a gang of coolies or of the crew of a boat — survives as an hereditary title of certain chiefs in the highland districts of the West Coast. The coastal towns of the West Coast — among which [[Daya|Daya]], [[Trumon|Trumon]], [[Susoh|Susoh]], [[Meulaboh|Meulaboh]], [[Tapa Tuan|Tapa Tuan]] and others are named in *The Achehnese* — were the seats of uleebalangs whose authority was, in the eyes of the chiefs of [[Acheh proper|Acheh proper]], only that of *keuchis* or *mantris* magnified by royal favour or by their own arrogance. The West Coast was, however, the theatre of important events in the [[Aceh War|Achehnese War]]: the Hasan-Husain feast, for instance, is still celebrated to this day in Trumon in the manner customary in the Deccan.
+
+## Woven craft: the Seunagan sitting mat
+
+The [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian Society's]] 1928 treasure-room guide records a finely woven sitting mat from Seunagan, catalogued in Cabinet 3 (Atjeh), item 2, described as *"Zitmatje uit Seunagan, gevlochten van pandanbladrepen"* — "a small sitting mat from Seunagan, woven from pandan-leaf strips." Although the treasure room primarily housed objects of gold and silver, this mat was included in the Atjeh section, presumably as a representative example of Acehnese craft production to contextualise the metalwork. Pandan-leaf weaving is a widespread craft across Southeast Asia, but the inclusion of this particular mat in the Batavian Society's collection — alongside objects of gold, silver, and precious stones — suggests that the Seunagan example was considered of exceptional quality or artistic merit. Seunagan and the neighbouring west-coast regions of Atjeh have long been known for their weaving traditions, which extend beyond mats to include the plaited work used in house construction, basketry, and ceremonial objects. During the [[Aceh War]], the west-coast regions saw extensive military activity, as Dutch forces sought to establish control over the coastal districts before pushing into the interior.
 
 ## See Also
 
@@ -41,9 +49,13 @@ The word *tandil* — a Tamil word originally meaning a collector of moneys, but
 - [[Trumon]]
 - [[Susoh]]
 - [[Tapa Tuan]]
-- [[Achehnese War]]
+- [[Aceh War]]
 - [[Acheh proper]]
+- [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen]]
+- [[Acehnese Gold and Silverwork]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Gids voor den bezoeker van de schatkamer*, Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen, Batavia, 1928. Druk: Ruygrok & Co., Batavia. Cabinet 3 (Atjeh), item 2.
