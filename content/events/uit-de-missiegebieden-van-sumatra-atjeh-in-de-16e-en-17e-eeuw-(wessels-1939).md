@@ -1,5 +1,5 @@
 ---
-title: Uit de missiegebieden van Sumatra: Atjeh in de 16e en 17e eeuw (Wessels, 1939)
+title: "Uit de missiegebieden van Sumatra: Atjeh in de 16e en 17e eeuw (Wessels, 1939)"
 aliases: [Wessels 1939, Atjeh in de 16e en 17e eeuw, Atjeh in the 16th and 17th centuries, Wessels Atjeh missiegebieden, C. Wessels Atjeh, Atjeh mission fields Wessels, Jesuit Atjeh Wessels]
 tags: [document, article, colonial, religious, atjeh, catholic, mission, 16th-century, 17th-century, wessels, 1939, historisch-tijdschrift]
 ---

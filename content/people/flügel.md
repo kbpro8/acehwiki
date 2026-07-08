@@ -1,6 +1,6 @@
 ---
 title: Flügel
-aliases: [Carl Ludwig Blume? (if known), Flügel IV]
+aliases: ["Carl Ludwig Blume? (if known)", "Flügel IV"]
 tags: [person, editor, scholar, colonial]
 ---
 **Flügel** was a 19th‑century European editor who compiled the edition of the *[[Hādjdji Khalifa]]* notes on the *[[Bad' al-Amali]]* (published as IV:558 no 9524). His work made the Acehnese manuscript material accessible to Western scholars.
