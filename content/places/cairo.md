@@ -1,21 +1,30 @@
 ---
 title: Cairo
-aliases: [Egypt, Cairo, Al-Qahira, Kairo, Cairo (Egypt), Al-Qahirah, Al-Kahira, Al-Caire]
-tags: [place, legendary-land, city, foreign, religious]
+aliases: [Egypt, Cairo, Al-Qahira, Kairo, Cairo (Egypt), Al-Qahirah, Al-Kahira, Al-Caire, Al‑Qāhira]
+tags: [place, city, legendary-land, foreign, religious, egypt, islamic]
 ---
 
-The Taj-ul-mulk was printed at Cairo in [[1891]] (A.H. 1309). The Hikayat Raja Jumjum (a separate story) had a published edition at Cairo (A.H. 1299). The Cairene edition of the
+**Cairo** (Arabic **Al‑Qahira**) was the capital of [[Egypt]] and, in the early modern period, a major centre of Islamic scholarship and publishing, noted in *The Achehnese* and other sources for its role in the legal equality of slave‑children, the production of *maulid* texts, the dissemination of the *Burda* poem to the [[Sultanate of Acheh]], and the construction of a ribāt by [[Tādj al‑Dīn b. Hinna]].
 
-## Expanded account from *The Achehnese*, Vol. I — Cairo
+## Legal Equality and Comparative Observations
 
-**Cairo** (Arabic **Al-Qahira**) is the capital of [[Egypt]] and one of the great centres of Mohammedan civilisation cited in *The Achehnese* Vol. I. Together with [[Mecca]] and [[Medina]], Cairo is named as a place where the legal equality of the children of slave-concubines with those of free wives is actually observed in practice — a custom only partially observed in [[Acheh]] and in inland Arabia. The legal privileges are the same in all these places, but the social position of slave-children in Acheh is markedly different from what it is in the great cities of Islam.
+In *The Achehnese* [[C. Snouck Hurgronje|Snouck Hurgronje]] cites [[Cairo]] together with [[Mecca]] and [[Medina]] as one of the few places where the legal equality of children born to slave‑concubines with those of free wives is actually observed in practice. This custom, while formally recognised in Islamic law, is only partially observed in [[Acheh]] and inland [[Arabia]]. The equality is reflected in the same legal privileges granted to slave‑children in these three cities, although their social position in [[Acheh]] differs markedly from that in the great urban centres of the Muslim world.
 
-Cairo is also a place of publication for some of the religious works that enjoy the greatest popularity in the East Indian Archipelago. The *maulids* most in use in Acheh have been handsomely lithographed at Cairo by Hasan at-Tochi Ahmad and published in a single volume along with a number of other formulas used for religious purposes. This collection enjoys the greatest popularity both at [[Mekka]] and throughout the whole Indian Archipelago. Two of these *maulids* are in rhyming prose alternating with songs of praise in verse; one was composed by a certain Bukhari, the other by Ja'far-al-Barzanji. The Cairo edition thus serves as a common literary bond between the Malay world and the heart of Islam.
+## Religious Publishing and Maulids
 
-In the matter of the calendar, Cairo appears as the place of publication (A.H. 1298) of the tables used in some districts of the East Indian Archipelago for the computation of the months by *hisab* (calculation) rather than by *ruya* (observation of the new moon). In many districts calculation is adhered to, though according to the teaching of the Shafi'ite school it should only be employed for the indifferent affairs of daily life. It is only lately, under the influence of Mecca and [[Hadramaut]], that the *ruya* has been more universally accepted in place of the older method of *hisab*. Snouck Hurgronje's reference to Cairo is part of his broader argument that the Mohammedan calendar of the Archipelago is the result of successive waves of influence, of which the most recent — that of the holy cities and of Hadramaut — has been progressively replacing the older computed calendar.
+Cairo served as a prolific centre for the lithographic publication of religious works that were widely circulated throughout the East Indian Archipelago. The *maulids* most popular in Acheh were hand‑lithographed in Cairo by [[Hasan at‑Tochi Ahmad]] and issued in a single volume together with a variety of other devotional formulas. Two of these *maulids* are composed in rhyming prose alternating with verses of praise: one by a certain [[Al‑Bukhari (maulid author)|Bukhari]], the other by [[Ja'far al‑Barzanji]]. The Cairo edition thus created a literary bond between the Malay world and the heart of Islam, enjoying great popularity both at [[Mekka]] and throughout the whole Indian Archipelago.
 
-The general significance of Cairo in the book is therefore twofold: it is, on the one hand, the city in which an ideal Mohammedan practice (the social equality of slave-children with free-born children) is actually carried out, and on the other, a great centre of Arabic religious publishing whose editions circulate throughout the East Indies and help to standardise the devotional life of the Achehnese.
-**Cairo** (Arabic **Al-Qahirah**) is the great capital of [[Egypt]] and, in *The Achehnese*, one of the chief cities of the Mohammedan world invoked by [[C. Snouck Hurgronje|Snouck Hurgronje]] as a point of comparison with [[Acheh]]. Together with [[Mecca]] and [[Medina]], Cairo represents the cosmopolitan centre of Mohammedan civilisation, where the principles of the religious law are most fully carried out in practice and where the standard works of Shafi'ite jurisprudence are printed and disseminated throughout the [[East Indian Archipelago|Indian Archipelago]].
+## Calendrical Tables and Computation
+
+Cairo also appears as the place of publication (A.H. [[1298]]) of astronomical tables used in several districts of the East Indian Archipelago for the computation of months by *hisab* (calculation) rather than by *ruya* (observation of the new moon). While the Shafiʿite school taught that *hisab* should be limited to indifferent daily affairs, the influence of [[Mecca]] and [[Hadramaut]] has recently promoted the wider acceptance of *ruya*. Snouck Hurgronje’s reference to Cairo is part of his broader argument that the Mohammedan calendar of the Archipelago evolved through successive waves of influence, the most recent being the holy cities and Hadramaut.
+
+## Transmission of the *Burda* and the Ribāt of Tādj al‑Dīn b. Hinna
+
+According to a later source, the eminent scholar [[Tādj al‑Dīn b. Hinna]] amassed a large collection of relics in Cairo and erected a personal [[ribāt]] (monastic house) there. Through his connections, Cairo functioned as a conduit for the transmission of the *Burda* poem and its associated rituals to the [[Sultanate of Acheh]]. This transmission helped embed the *Burda* within Achehnese devotional practice, linking the city’s scholarly prestige to the religious life of the Sultanate.
+
+## Significance
+
+Cairo’s significance in the Acehnese context is therefore twofold: it exemplifies an urban environment where an ideal Mohammedan practice—the legal equality of slave‑children—is fully realised, and it operates as a hub of Arabic religious publishing whose editions standardised devotional life across the Indian Archipelago. Moreover, its role in the transmission of the *Burda* poem and the establishment of a ribāt by [[Tādj al‑Dīn b. Hinna]] underscores Cairo’s function as a conduit for religious and cultural exchange between the Arab heartland and the Sultanate of Acheh.
 
 ## See Also
 
@@ -25,16 +34,23 @@ The general significance of Cairo in the book is therefore twofold: it is, on th
 - [[Hadramaut]]
 - [[Egypt]]
 - [[Acheh]]
-- [[Hasan at-Tochi Ahmad]]
-- [[Ja'far al-Barzanji]]
+- [[Hasan at‑Tochi Ahmad]]
+- [[Ja'far al‑Barzanji]]
 - [[C. Snouck Hurgronje]]
 - [[Arabia]]
-- [[Al-Bukhari (maulid author)]]
-- [[as-Sharwani]]
+- [[Al‑Bukhari (maulid author)]]
+- [[as‑Sharwani]]
 - [[Ashura]]
 - [[Maulud (Mo'lot)]]
 - [[L. W. C. van den Berg]]
+- [[Tādj al‑Dīn b. Hinna]]
+- [[ribāt]]
+- [[Sultanate of Acheh]]
+- [[Cheikh al‑Būsīrī]]
+- [[Shafiʿite]]
 
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, p. 29.
