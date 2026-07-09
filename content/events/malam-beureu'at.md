@@ -1,6 +1,7 @@
 ---
 title: "Malam beureu'at"
-aliases: ["malam beureu'at, malam beureuat, Shab-i-barat, night of the middle of Sha'ban", "Lailat al-Bara'ah"]
+aliases: ["malam beureu'at", "malam beureuat", "Shab-i-barat", "night of the middle of Sha'ban", "Lailat al-Bara'ah"]
+
 tags: [event, ceremony, feast, calendar, islamic, sha'ban]
 ---
 

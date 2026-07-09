@@ -1,7 +1,8 @@
 ---
 
 title: Gedong (Atjeher of Pasei)
-aliases: ["Atjeher Gedong\", Gedong\"", "Gedong (eponymous ancestor of marga Ramin)\", Gedong of Pasei\""]
+aliases: ["Atjeher Gedong\"", "Gedong\"", "Gedong (eponymous ancestor of marga Ramin)\"", "Gedong of Pasei\""]
+
 tags: ["achehnese", "ancestor", "legendary", "pasai", "person"]
 ---
 **Gedong** was an Atjeher from [[Pasei|Pasei]], named in the origin legend of the [[marga Ramin]] of [[Boven-Singkel|Boven-Singkel]] (Upper Singkel, in present-day [[Aceh Singkil Regency]]) as the eponymous stamvader (ancestral father) of that *marga*, whose descendants are said to abstain to this day from eating both eel and buffalo-meat in fulfilment of the oaths Gedong swore during a miraculous shipwreck on his way to [[Belawan]]. The legend is recorded in [[W. K. H. Ypes]]'s *Bijdrage tot de kennis van stamverwantschap op Sumatra* (cited at p. 57, nt. 1) and is reproduced in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 220) as one of the Sumatran legends explaining the origin of buffalo-meat avoidance (*pantang*) prohibitions attached to particular genealogical groups.

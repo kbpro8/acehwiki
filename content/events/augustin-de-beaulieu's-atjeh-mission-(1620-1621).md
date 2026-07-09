@@ -1,6 +1,7 @@
 ---
 title: "Augustin de Beaulieu's Atjeh mission (1620-1621)"
-aliases: ["De Beaulieu's Atjeh mission, French expedition to Atjeh 1620-1621, Saint-Malo expedition, De Beaulieu and the Atjeh pepper trade"]
+aliases: ["De Beaulieu's Atjeh mission", "French expedition to Atjeh 1620-1621", "Saint-Malo expedition", "De Beaulieu and the Atjeh pepper trade"]
+
 tags: [event, trade, french, atjehnese, dutch, voc, 17th-century]
 ---
 

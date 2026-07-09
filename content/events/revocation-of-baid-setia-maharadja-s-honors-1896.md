@@ -1,6 +1,7 @@
 ---
 title: "Revocation of Baid Setia Maharadja's Honours (1896)"
-aliases: ["Revocation of Baid Setia Maharadja's chain, Confiscation of Dutch arms chain 1896, Ontneming eereteeken Baid Setia Maharadja"]
+aliases: ["Revocation of Baid Setia Maharadja's chain", "Confiscation of Dutch arms chain 1896", "Ontneming eereteeken Baid Setia Maharadja"]
+
 tags: [event, political-history, colonial, dutch, achehnese, 1896, aceh-war, diplomacy]
 description: "The Dutch colonial government's 1896 revocation and confiscation of the gold chain of arms previously awarded to the uleebalang of the VII Mukims, on grounds of disloyalty."
 ---

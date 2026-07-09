@@ -1,6 +1,7 @@
 ---
 title: "Ruju'"
-aliases: ["Ruju', Rujuk, Recall of divorce, Right of recall"]
+aliases: ["Ruju'", "Rujuk", "Recall of divorce", "Right of recall"]
+
 tags: [event, family-law, divorce, religious-practice]
 ---
 

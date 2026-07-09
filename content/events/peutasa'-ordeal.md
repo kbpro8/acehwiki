@@ -1,6 +1,7 @@
 ---
 title: "Peutasa' ordeal"
-aliases: ["Peutasa' ordeal, Peunglo minye, Boiling of oil, Plunging of the hands into oil"]
+aliases: ["Peutasa' ordeal", "Peunglo minye", "Boiling of oil", "Plunging of the hands into oil"]
+
 tags: [event, ordeal, adat, justice, uleebalang]
 ---
 

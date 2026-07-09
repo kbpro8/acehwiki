@@ -1,6 +1,7 @@
 ---
 title: "Fullerton's minute on Acheh (21 March 1825)"
-aliases: ["Fullerton's Nota 1825, Pinang minute of 1825, Fullerton's minute of 21 March 1825", Pinang Nota 1825]
+aliases: ["Fullerton's Nota 1825", "Pinang minute of 1825", "Fullerton's minute of 21 March 1825", "Pinang Nota 1825"]
+
 tags: [event, correspondence, colonial, anglo-dutch, diplomacy]
 ---
 

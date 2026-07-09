@@ -1,6 +1,7 @@
 ---
 title: "Van Rijn's visit to Aroe-baai (1888)"
-aliases: ["Van Rijn's 1888 visit, Van Rijn at Aroe bay, Aroe-baai visit 1888"]
+aliases: ["Van Rijn's 1888 visit", "Van Rijn at Aroe bay", "Aroe-baai visit 1888"]
+
 tags: [event, colonial, dutch, exploration, 19th-century, east-coast]
 ---
 

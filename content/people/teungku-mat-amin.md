@@ -1,7 +1,8 @@
 ---
 
 title: Teungku Mat Amin
-aliases: ["Nya' Amin, Nya' Mat"]
+aliases: ["Nya' Amin", "Nya' Mat"]
+
 tags: [person, warrior]
 ---
 

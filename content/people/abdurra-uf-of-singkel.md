@@ -1,7 +1,8 @@
 ---
 
 title: "Abdurra'uf of Singkel"
-aliases: ["Abdora'oh, Teungku di Kuala"]
+aliases: ["Abdora'oh", "Teungku di Kuala"]
+
 tags: [person, scholar, mystic, religious-figure, saint, legendary]
 ---
 

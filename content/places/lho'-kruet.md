@@ -1,6 +1,7 @@
 ---
 title: "Lho' Kruet"
-aliases: ["Lho' Kruet, Lho Kruet, Lho'-Kruet", Lho Kruët]
+aliases: ["Lho' Kruet", "Lho Kruet", "Lho'-Kruet", "Lho Kruët"]
+
 tags: [place, west-coast, uleebalangship]
 ---
 

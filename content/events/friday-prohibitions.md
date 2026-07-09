@@ -1,6 +1,7 @@
 ---
 title: "Friday (Jumu'ah) Prohibitions"
-aliases: [Friday prohibitions, Pantang on Friday, "Jumu'ah taboos, Friday taboos in Acheh"]
+aliases: ["Friday prohibitions", "Pantang on Friday", "Jumu'ah taboos", "Friday taboos in Acheh"]
+
 tags: [event, religious-practice, adat, taboo, calendar]
 ---
 

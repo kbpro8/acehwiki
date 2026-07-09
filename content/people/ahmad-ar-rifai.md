@@ -1,6 +1,7 @@
 ---
 title: Ahmad ar-Rifāʿī
-aliases: ["Ahmad Rifa'i, Ahmad al-Rifa'i", Ahmad Rifai, "Sheikh Ahmad Rifa'i, Shaikh Ahmad ar-Rifa'i", Aḥmad ar-Rifāʿī, founder of the Rifāʿiyya]
+aliases: ["Ahmad Rifa'i", "Ahmad al-Rifa'i", "Ahmad Rifai", "Sheikh Ahmad Rifa'i", "Shaikh Ahmad ar-Rifa'i", "Aḥmad ar-Rifāʿī", "founder of the Rifāʿiyya"]
+
 tags: [person, scholar, religious-figure, sufi, saint, founder-of-order, rifa'i, medieval, iraq, gujarat, mocha, acheh, rapa'i, tasawwuf]
 description: "Twelfth-century Islamic mystic, founder of the Rifāʿiyya Sufi order; eponym of the Achehnese Rapa'i performances and the spiritual ancestor of Nūruddīn ar-Rānīrī."
 ---

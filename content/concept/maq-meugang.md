@@ -1,6 +1,7 @@
 ---
 title: Maq meugang
-aliases: ["Atjeh slaughter-days before and after Ramadan\", maq meugang\"", "meugang\", the two Ramadan slaughter-days of Atjeh\""]
+aliases: ["Atjeh slaughter-days before and after Ramadan\"", "maq meugang\"", "meugang\"", "the two Ramadan slaughter-days of Atjeh\""]
+
 tags: ["achehnese", "adat", "concept", "ramadan", "slaughter"]
 ---
 **Maq meugang** (in [[J. Kreemer|Kreemer]]'s spelling) is the Atjehnese term for the two great annual ritual slaughter-days that fall immediately before the beginning and at the end of the *Vastenmaand* (the Ramadan fasting month) — the two days on which, in [[Groot-Atjeh|Groot-Atjeh]], the [[teungkoe meunasah|*teungkoe meunasah*]] (village religious official) was entitled to his slaughter-fee (a neck-piece three fingers wide below the ears), and on which the [[poewôê siê|*poewôê siê*]] first-year husband meat-obligation was discharged. The term is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 118) and in his [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]] (vol. II, p. 209) as one of the named slaughter-occasions of the Atjehnese calendar, distinguished by the fact that the *teungkoe*'s fee was paid on these days — in contrast to the *Moloet* (Mawlid), the *hakikah* (newborn) sacrifice, and the *kanoeri's* (sacred meals on other occasions), on which the *teungkoe* received no fee.

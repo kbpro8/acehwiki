@@ -1,6 +1,7 @@
 ---
 title: "Tibjan fi ma'rifat al-adyan"
-aliases: [Tibjān fī maʿrifat al-adyān, Tibjan, Tibyān al-madhāhib, "Tibyān fi ma'rifat al-adyan, Tibyān, Raniri's book of sects", Exposé der religies, Book of sects by Raniri]
+aliases: ["Tibjān fī maʿrifat al-adyān", "Tibjan", "Tibyān al-madhāhib", "Tibyān fi ma'rifat al-adyan", "Tibyān", "Raniri's book of sects", "Exposé der religies", "Book of sects by Raniri"]
+
 tags: [document, religious-work, manuscript, islamic-scholarship, sects, polemic, precolonial, 17th-century, aceh, malay, gujarati]
 ---
 

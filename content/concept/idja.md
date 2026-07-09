@@ -1,6 +1,7 @@
 ---
 title: Idja
-aliases: ["idja's, idjas, Atjeh idja, Atjehsche idja, Atjeh silk cloth with gold thread, Atjeh gold-cloth, idja cloth"]
+aliases: ["idja's", "idjas", "Atjeh idja", "Atjehsche idja", "Atjeh silk cloth with gold thread", "Atjeh gold-cloth", "idja cloth"]
+
 tags: [concept, textile, achehnese, silk, gold-thread, silver-thread, flottante-inslag, precolonial]
 ---
 

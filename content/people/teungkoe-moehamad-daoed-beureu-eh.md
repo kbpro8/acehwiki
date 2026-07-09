@@ -1,7 +1,8 @@
 ---
 
 title: Teungkoe Moehamad Daoed Beureu-éh
-aliases: ["Teungkoe Mohamad Daoed Beureu'éh, Teungkoe Muhammad Daud Beureueh, Daoed Beureu, Daud Beureueh, Tgk. M. Daud Beureueh, Teungku Muhammad Daud Beureuh, Daud Beureuh"]
+aliases: ["Teungkoe Mohamad Daoed Beureu'éh", "Teungkoe Muhammad Daud Beureueh", "Daoed Beureu", "Daud Beureueh", "Tgk. M. Daud Beureueh", "Teungku Muhammad Daud Beureuh", "Daud Beureuh"]
+
 tags: [person, achehnese, religious, political, military, rebellion]
 ---
 **Teungkoe Moehamad Daoed Beureu-éh** was a forty-year-old [[oelama|oelama]] from the *landschap* [[Keumangan|Keumangan]] in the subdistrict [[Sigli|Sigli]], chairman of the central board of the [[Poesa|Poesa]] — the All-Aceh Union of Ulemas founded in [[1939]] — and the principal religious-political figure of pre-war Atjèh, whose influence "extended far beyond the borders of his *landschap*" and whose organisation provided, for the first time in the history of Atjèh, a form in which "both the oelama's and the more militant youth would find a place." Piekaar's *Atjèh and the War with Japan* treats him as the central figure of the religious movement that would, in early [[1942]], ally itself with the Japanese and would, after the war, become the principal vehicle of the [[Atjèh|Atjèhnese]] struggle against the Dutch and against the Indonesian Republic alike.

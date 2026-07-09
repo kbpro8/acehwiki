@@ -1,6 +1,7 @@
 ---
 title: Ruya (moon-sighting)
-aliases: [Ruya, "Ru'ya, Moon-sighting, Observation of the new moon, New moon observation"]
+aliases: ["Ruya", "Ru'ya", "Moon-sighting", "Observation of the new moon", "New moon observation"]
+
 tags: [event, religious-observance, calendar, shafi-ite-law, ramadhan]
 ---
 

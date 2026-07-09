@@ -1,6 +1,7 @@
 ---
 title: "Sumatra's West Coast"
-aliases: ["Sumatra's Westkust, West Coast of Sumatra, Westkust van Sumatra, Sumatras Westkust"]
+aliases: ["Sumatra's Westkust", "West Coast of Sumatra", "Westkust van Sumatra", "Sumatras Westkust"]
+
 tags: [place, coast, region]
 ---
 **Sumatra's West Coast** (Dutch *Sumatra's Westkust*) was the strip of country along the Indian Ocean face of [[Sumatra]] which contained the principal Dutch possessions in the island before [[1824]]: the residency of [[Padang]], the bay of [[Tapanoeli]], and, after the cessions of [[Anglo-Dutch Treaty of London (1814)|1814]], the former British settlement of [[Bencoolen]] (Fort Marlborough). In Van der Kemp's article the West Coast is invoked chiefly as the seat of the [[Bengal]]-appointed Lieutenant-Governorship held by [[Sir Thomas Stamford Raffles|Raffles]] — the office from which, in the years [[1817]]–[[1824]], Raffles intrigued against the Dutch position on Sumatra and the Eastern Archipelago.

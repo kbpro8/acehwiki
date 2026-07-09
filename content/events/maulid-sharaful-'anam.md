@@ -1,6 +1,7 @@
 ---
 title: "Maulid sharaful 'anam"
-aliases: ["Maulid sharaf al-'anam, Charapha anam, Sarapulanam, Maulid sharaful anam, Birth of the Glory of Mankind"]
+aliases: ["Maulid sharaf al-'anam", "Charapha anam", "Sarapulanam", "Maulid sharaful anam", "Birth of the Glory of Mankind"]
+
 tags: [event, ceremony, feast, calendar, islamic, mawlid, literature]
 ---
 

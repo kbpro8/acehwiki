@@ -1,6 +1,7 @@
 ---
 title: Arrest of the eight Atjeh chiefs
-aliases: [Arrestatie van de acht Atjehse hoofden, Arrest of the eight chiefs 11 March 1942, "Gosenson's coup, impulsieve daad 11 March 1942"]
+aliases: ["Arrestatie van de acht Atjehse hoofden", "Arrest of the eight chiefs 11 March 1942", "Gosenson's coup", "impulsieve daad 11 March 1942"]
+
 tags: [event, colonial, dutch, atjeh, world-war-ii, f-beweging, political-violence, command-decision]
 ---
 

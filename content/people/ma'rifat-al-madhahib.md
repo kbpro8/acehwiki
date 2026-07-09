@@ -1,7 +1,8 @@
 ---
 
 title: "Ma'rifat al-madhahib"
-aliases: [Maʿrifat al-madhāhib, "Ma'rifat al-madhahib, Tadhkirat al-madhāhib, Tadhkirat al-madhahib, Knowledge of the Sects, Treatise on the Sects"]
+aliases: ["Maʿrifat al-madhāhib", "Ma'rifat al-madhahib", "Tadhkirat al-madhāhib", "Tadhkirat al-madhahib", "Knowledge of the Sects", "Treatise on the Sects"]
+
 tags: [document, religious-work, islamic-scholarship, sects, popular-literature, precolonial, source-of-tibjan, arabic, persian]
 ---
 

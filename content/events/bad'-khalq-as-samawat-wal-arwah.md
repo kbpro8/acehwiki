@@ -1,6 +1,7 @@
 ---
 title: "Bad' khalq as-samawat wal-arwah"
-aliases: [Badʾ khalq as-samāwāt wal-arwāḥ, "Bad' khalq as-samawat, Beginning of the Creation of the Heavens and the Spirits, Raniri's Bad' khalq"]
+aliases: ["Badʾ khalq as-samāwāt wal-arwāḥ", "Bad' khalq as-samawat", "Beginning of the Creation of the Heavens and the Spirits", "Raniri's Bad' khalq"]
+
 tags: [document, religious-work, islamic-scholarship, cosmology, precolonial, 17th-century, aceh, malay]
 ---
 

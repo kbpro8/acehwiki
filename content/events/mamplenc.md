@@ -1,6 +1,7 @@
 ---
 title: Mamplenc
-aliases: [Mamplènc, "Bridegroom's procession, Wedding procession"]
+aliases: ["Mamplènc", "Bridegroom's procession", "Wedding procession"]
+
 tags: [event, life-cycle, ceremony]
 ---
 

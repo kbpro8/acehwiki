@@ -1,6 +1,7 @@
 ---
 title: Batak Pakpak
-aliases: ["Bata' Pakpak, Pakpak, Dairi Batak"]
+aliases: ["Bata' Pakpak", "Pakpak", "Dairi Batak"]
+
 tags: [place, people, region, batak, highland, foreign]
 ---
 

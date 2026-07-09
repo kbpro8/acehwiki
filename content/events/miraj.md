@@ -1,6 +1,7 @@
 ---
 title: Miraj (Ascension of Mohammad)
-aliases: [Miraj, "Mi'raj, Ascension of Mohammad, Meureu'et"]
+aliases: ["Miraj", "Mi'raj", "Ascension of Mohammad", "Meureu'et"]
+
 tags: [event, religious, festival, calendar, ceremony]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Journey of Teuku Ne' and followers to Keumala"
-aliases: ["Journey of Teuku Ne' to Keumala, Pilgrimage of Teuku Ne' to the pretender's court, Famous journey of Teuku Ne'"]
+aliases: ["Journey of Teuku Ne' to Keumala", "Pilgrimage of Teuku Ne' to the pretender's court", "Famous journey of Teuku Ne'"]
+
 tags: [event, political, religious-practice, pilgrimage, 19th-century]
 ---
 

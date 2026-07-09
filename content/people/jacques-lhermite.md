@@ -1,6 +1,7 @@
 ---
 title: "Jacques l'Hermite"
-aliases: ["Jacques l'Hermite (VOC), Jacques le Hermite, l'Hermite (VOC)", "Jacques L'Hermite"]
+aliases: ["Jacques l'Hermite (VOC)", "Jacques le Hermite", "l'Hermite (VOC)", "Jacques L'Hermite"]
+
 tags: [person, dutch, navigator, colonial, voc, banda, atjeh, netherlands-east-indies, 17th-century, monopoly]
 ---
 

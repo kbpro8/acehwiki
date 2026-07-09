@@ -1,6 +1,7 @@
 ---
 title: Getah dadih
-aliases: ["Atjeh-Gajo weapon-scabbard glue\", buffalo-milk curd glue\"", "dadih glue\", getah dadih\""]
+aliases: ["Atjeh-Gajo weapon-scabbard glue\"", "buffalo-milk curd glue\"", "dadih glue\"", "getah dadih\""]
+
 tags: ["achehnese", "concept", "craft", "gajo", "technology"]
 ---
 **Getah dadih** (literally "dadih-glue"; the *getah* or gum/resin of *dadih*, the curdled buffalo-milk of northern Sumatra) is the adhesive prepared by the Atjehnese and the Gayo from curdled buffalo-milk, used (among other purposes) for gluing the two halves of weapon-scabbards together. The preparation and use of *getah dadih* is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 124) — citing [[J. F. K. van Hasselt|Van Hasselt]]'s *Volksbeschrijving* (pp. 31, 374 vg.), [[Kreemer's De Maleier en zijn karbouw ([[1907]])|Kreemer's *De Maleier en zijn karbouw*]] (p. 956), and [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. I, pp. 333 vg.).

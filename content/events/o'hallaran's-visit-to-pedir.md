@@ -1,6 +1,7 @@
 ---
 title: "O'Hallaran's visit to Pedir (1820)"
-aliases: ["O'Hallaran at Pedir, colonel O'Hallaran's visit, Pedir visit of 1820"]
+aliases: ["O'Hallaran at Pedir", "colonel O'Hallaran's visit", "Pedir visit of 1820"]
+
 tags: [event, mission, colonial, correspondence]
 ---
 

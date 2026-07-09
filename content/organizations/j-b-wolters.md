@@ -1,6 +1,7 @@
 ---
 title: J. B. Wolters
-aliases: [J.B. Wolters, "J. B. Wolters' U.M., Wolters publisher, Wolters Groningen, Wolters Djakarta, J.B. Wolters' Uitgevers-Maatschappij"]
+aliases: ["J.B. Wolters", "J. B. Wolters' U.M.", "Wolters publisher", "Wolters Groningen", "Wolters Djakarta", "J.B. Wolters' Uitgevers-Maatschappij"]
+
 tags: [organization, publisher, dutch, colonial, groningen, djakarta, publishing, 1950, ter-haar, adatrecht]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Maulud
-aliases: [Maulid, Mulud, "Mo'lot, Mawlid"]
+aliases: ["Maulid", "Mulud", "Mo'lot", "Mawlid"]
+
 tags: [event, religious, festival, calendar]
 ---
 

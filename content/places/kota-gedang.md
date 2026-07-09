@@ -1,6 +1,7 @@
 ---
 title: Kota Gédang
-aliases: [Kota Gedang, "Kota Gedang on Sumatra's Westkust, Kota Gēdang, the pedal-loom centre of Sumatra's Westkust", "the Sumatra's-Westkust Kota Gédang, Kota Gadang"]
+aliases: ["Kota Gedang", "Kota Gedang on Sumatra's Westkust", "Kota Gēdang", "the pedal-loom centre of Sumatra's Westkust", "the Sumatra's-Westkust Kota Gédang", "Kota Gadang"]
+
 tags: [place, town, sumatra, weaving, craft-center, sumatras-westkust, pedal-loom]
 ---
 

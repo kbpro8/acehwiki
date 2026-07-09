@@ -1,6 +1,7 @@
 ---
 title: "Publication of Van der Kemp's article"
-aliases: ["Van der Kemp's 1900 article, Bijdragen 1900 publication, publication in Bijdragen 6e Volgr. VII"]
+aliases: ["Van der Kemp's 1900 article", "Bijdragen 1900 publication", "publication in Bijdragen 6e Volgr. VII"]
+
 tags: [event, publication, colonial, scholarship]
 ---
 

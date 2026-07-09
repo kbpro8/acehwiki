@@ -1,6 +1,7 @@
 ---
 title: Sultanszegel van Atjeh
-aliases: ["Sultan's seal of Aceh, negenvoudige zegel, nine-fold seal, Sultanszegel, chop sultan, cap siam, Mohor Sultan"]
+aliases: ["Sultan's seal of Aceh", "negenvoudige zegel", "nine-fold seal", "Sultanszegel", "chop sultan", "cap siam", "Mohor Sultan"]
+
 tags: [concept, government, authority, sultanate, achehnese, material-culture, royal-insignia]
 description: "The so-called \"nine-fold seal\" of the Sultan of Aceh — a silver-gilt seal matrix preserved in the Batavian Society's collection, representing the supreme instrument of sultanate authority."
 ---

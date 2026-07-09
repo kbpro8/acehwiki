@@ -1,6 +1,7 @@
 ---
 title: "Mir'at al-muhakkikin"
-aliases: [Mirʾāt al-muḥaqqiqīn, "Mir'at al-muhakkikin, Mir-at al-muhaqqiqin, The Mirror of the Verifiers, Shamsuddin of Pasai's Mir'at al-muhakkikin"]
+aliases: ["Mirʾāt al-muḥaqqiqīn", "Mir'at al-muhakkikin", "Mir-at al-muhaqqiqin", "The Mirror of the Verifiers", "Shamsuddin of Pasai's Mir'at al-muhakkikin"]
+
 tags: [document, religious-work, sufi-text, malay-literature, wujudiyyah, precolonial, 17th-century, aceh, mysticism]
 ---
 

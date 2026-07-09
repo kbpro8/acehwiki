@@ -1,6 +1,7 @@
 ---
 title: Pacification of Aceh
-aliases: [Aceh pacification, "Van Heutsz's pacification, pacification of Atjeh, pacification policy, Pacificatie van Atjeh, Pacification of Atjeh, onderwerping van Atjeh, subjugation of Atjeh, subjugation of Acheh"]
+aliases: ["Aceh pacification", "Van Heutsz's pacification", "pacification of Atjeh", "pacification policy", "Pacificatie van Atjeh", "Pacification of Atjeh", "onderwerping van Atjeh", "subjugation of Atjeh", "subjugation of Acheh"]
+
 tags: [concept, event, colonial, achehnese, war, pacification, military, political, dutch, achehnese-history]
 description: "The pacification of Atjeh refers to the eventual subjugation of the Achehnese sultanate by Dutch military and political means, a process that began with the first expedition of 1873 and was completed under Governor Van Heutsz. It was commemorated by the Atjeh Monument in Weltevreden and the Peutjot Cemetery near Kota Radja."
 ---

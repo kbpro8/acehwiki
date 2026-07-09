@@ -1,6 +1,7 @@
 ---
 title: Sarakata
-aliases: [Sarakata, sarakata, "sarakata', sarakataʼ, sarakat, brief van aanstelling, acte van bevestiging, letter of appointment, Royal edicts of Acheh, Achehnese edicts, Cap sikureung, Ninefold seal, Letters-patent of recognition, sarakata with chab sikureu'eng", "chab sikureu'eng"]
+aliases: ["Sarakata", "sarakata", "sarakata'", "sarakataʼ", "sarakat", "brief van aanstelling", "acte van bevestiging", "letter of appointment", "Royal edicts of Acheh", "Achehnese edicts", "Cap sikureung", "Ninefold seal", "Letters-patent of recognition", "sarakata with chab sikureu'eng", "chab sikureu'eng"]
+
 tags: [concept, document, achehnese, sultanate, diplomacy, law, adat, chancery]
 description: "The sarakata — the manuscript letters-patent and royal edicts of the Sultanate of Acheh — comprising both the central royal edicts of the 17th–18th-century Sultans (regulating court ceremonial, trade, and religious observance) and the letters of appointment issued to regional chiefs as tokens of the Sultan's suzerainty over the Atjehsche Onderhoorigheden."
 ---

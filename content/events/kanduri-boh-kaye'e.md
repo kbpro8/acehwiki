@@ -1,6 +1,7 @@
 ---
 title: "Kanduri Boh Kaye'e (Feast of Fruits)"
-aliases: ["Kanduri Boh Kaye'e, Feast of Fruits, Kanduri of Fruits, Jumada al-akhir feast"]
+aliases: ["Kanduri Boh Kaye'e", "Feast of Fruits", "Kanduri of Fruits", "Jumada al-akhir feast"]
+
 tags: [event, religious, festival, calendar, ceremony]
 ---
 

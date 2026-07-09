@@ -1,6 +1,7 @@
 ---
 title: "Lam Bhu'"
-aliases: [Gampong, Lam Bhu, Lam-Bhu, Lambhu, "Lam Bhu' (near the Dalam), Lam Bhuu, Lam Bhuë"]
+aliases: ["Gampong", "Lam Bhu", "Lam-Bhu", "Lambhu", "Lam Bhu' (near the Dalam)", "Lam Bhuu", "Lam Bhuë"]
+
 tags: [place, aceh-proper, gampong, banda-acheh, banda, capital, lowlands, lam-gut]
 ---
 

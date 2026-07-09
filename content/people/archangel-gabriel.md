@@ -1,7 +1,8 @@
 ---
 
 title: Archangel Gabriel
-aliases: [Jibril, "Jibra'il, Gabriel"]
+aliases: ["Jibril", "Jibra'il", "Gabriel"]
+
 tags: [person, religious-figure, angel, legendary]
 ---
 

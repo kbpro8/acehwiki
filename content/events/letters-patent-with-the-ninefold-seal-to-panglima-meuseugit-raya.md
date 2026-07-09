@@ -1,6 +1,7 @@
 ---
 title: Letters patent with the ninefold seal to Panglima Meuseugit Raya
-aliases: [Sarakata to Panglima Meuseugit Raya, "Chab sikureu'eng letters patent, Letters patent of 4 Rabi' al-Awwal 1307"]
+aliases: ["Sarakata to Panglima Meuseugit Raya", "Chab sikureu'eng letters patent", "Letters patent of 4 Rabi' al-Awwal 1307"]
+
 tags: [event, political, treaty, religious, ceremony]
 ---
 

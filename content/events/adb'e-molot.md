@@ -1,6 +1,7 @@
 ---
 title: "Adb'e Molot (Rabi' al-akhir)"
-aliases: ["Adb'e Molot, Rabi' al-akhir", Lucky month for marriage, Fourth month of the Islamic year, "Adbe Mo'lot, Adbe Mulud, Younger brother of Mo'lot", Rabioy Akhir, Rabul-akhir]
+aliases: ["Adb'e Molot", "Rabi' al-akhir", "Lucky month for marriage", "Fourth month of the Islamic year", "Adbe Mo'lot", "Adbe Mulud", "Younger brother of Mo'lot", "Rabioy Akhir", "Rabul-akhir"]
+
 tags: [event, calendar, marriage, adat, month, religious, festival]
 ---
 

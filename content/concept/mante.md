@@ -1,6 +1,7 @@
 ---
 title: "Manté's"
-aliases: ["manté's, manté, mante's", Bosmensen van de XXII Moekims, forest people of the XXII Moekims]
+aliases: ["manté's", "manté", "mante's", "Bosmensen van de XXII Moekims", "forest people of the XXII Moekims"]
+
 tags: [concept, folklore, acehnese, aceh]
 description: "Legendary forest-dwelling people said to inhabit the mountains of the XXII Mukims in Aceh, described by Snouck Hurgronje and Merac."
 ---

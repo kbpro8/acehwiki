@@ -1,6 +1,7 @@
 ---
 title: Battle of Aneu Galong (1896)
-aliases: ["Capture of Aneu' Galong fortress, Fall of Aneu' Galong", Defence of Aneu Galong, Aneu Galong 1896, "Aneu' Galong 1896, Aneu'Galong 1896"]
+aliases: ["Capture of Aneu' Galong fortress", "Fall of Aneu' Galong", "Defence of Aneu Galong", "Aneu Galong 1896", "Aneu' Galong 1896", "Aneu'Galong 1896"]
+
 tags: [event, war, colonial, aceh-war, 19th-century, knil, aceh, resistance, tirio]
 description: "The Dutch capture of the Aneu' Galong fortress in 1896 — the engagement in which the patriarchal generation of the Tiro family was killed and the inheritance of the Acehnese holy war was transferred to the surviving sons and the infant grandson."
 ---

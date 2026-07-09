@@ -1,6 +1,7 @@
 ---
 title: "Sumatra's East Coast"
-aliases: ["Sumatra's Oostkust, Gouvernement Sumatra's Oostkust", Sumatra Oostkust, Oostkust van Sumatra, East Coast of Sumatra, Sumatras Oostkust, Eastcoast of Sumatra, "Sumatra's East Coast government"]
+aliases: ["Sumatra's Oostkust", "Gouvernement Sumatra's Oostkust", "Sumatra Oostkust", "Oostkust van Sumatra", "East Coast of Sumatra", "Sumatras Oostkust", "Eastcoast of Sumatra", "Sumatra's East Coast government"]
+
 tags: [place, organization, coast, region, colonial, dutch, administrative-division, sumatra, deli, achehnese-history]
 description: "Sumatra's East Coast (Gouvernement Sumatra's Oostkust) was a Dutch colonial government unit whose head bore the title of Gouverneur. Alongside Atjeh, it possessed an important railway network by 1926. The Sultan of Deli was among its self-governing territories."
 ---

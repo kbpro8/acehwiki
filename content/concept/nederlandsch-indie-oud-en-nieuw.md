@@ -1,6 +1,7 @@
 ---
 title: "Nederlandsch-Indië, Oud en Nieuw"
-aliases: [Nederl-Indië Oud en Nieuw, Maandblad Nederlandsch-Indië Oud en Nieuw, Nederlandsch-Indië Old and New, "NIO&N", "Nederl-Indië, Oud en Nieuw", ten Hagen monthly on the Netherlands Indies, the Oud en Nieuw monthly]
+aliases: ["Nederl-Indië Oud en Nieuw", "Maandblad Nederlandsch-Indië Oud en Nieuw", "Nederlandsch-Indië Old and New", "NIO&N", "Nederl-Indië", "Oud en Nieuw", "ten Hagen monthly on the Netherlands Indies", "the Oud en Nieuw monthly"]
+
 tags: [document, periodical, dutch, colonial, ethnography, popular-scholarship]
 ---
 

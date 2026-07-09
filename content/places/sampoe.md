@@ -1,6 +1,7 @@
 ---
 title: Sampoe
-aliases: ["island near Teumieng\", vulg. Tamiang\"", "island near Tamiang\""]
+aliases: ["island near Teumieng\"", "vulg. Tamiang\"", "island near Tamiang\""]
+
 tags: ["place", "north-east-coast"]
 ---
 

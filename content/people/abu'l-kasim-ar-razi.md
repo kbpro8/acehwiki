@@ -1,7 +1,8 @@
 ---
 
 title: "Abu'l-Kasim ar-Razi"
-aliases: ["Abū'l-Qāsim ar-Rāzī, Abu'l-Kasim ar-Razi", Abulqasim ar-Razi, ar-Rāzī, the mystic of 378 H]
+aliases: ["Abū'l-Qāsim ar-Rāzī", "Abu'l-Kasim ar-Razi", "Abulqasim ar-Razi", "ar-Rāzī", "the mystic of 378 H"]
+
 tags: [person, scholar, religious-figure, sufi, mystic, 10th-century, persia, source-of-ma'rifat-al-madhahib]
 ---
 

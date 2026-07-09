@@ -1,6 +1,7 @@
 ---
 title: Batak Tuba
-aliases: ["Bata' Tuba, Tuba Batak"]
+aliases: ["Bata' Tuba", "Tuba Batak"]
+
 tags: [place, people, region, batak, highland, foreign]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Teungku Lam Peuneu'eun"
-aliases: ["Teungku Lam Peuneu'eun, Teungku Lam Peuneuenn, Teungku Lam Keuneu'eun", the pepper saint, patron saint of pepper, pepper saint of the IX Mukims]
+aliases: ["Teungku Lam Peuneu'eun", "Teungku Lam Peuneuenn", "Teungku Lam Keuneu'eun", "the pepper saint", "patron saint of pepper", "pepper saint of the IX Mukims"]
+
 tags: [person, religious-figure, saint, legendary, aceh, folk-saint, agriculture]
 description: "Achehnese folk saint of the IX Mukims to whom popular tradition attributes the miraculous origin of pepper; possibly identical with Teungku Lam Keuneu'eun."
 ---

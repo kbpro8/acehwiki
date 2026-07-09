@@ -1,6 +1,7 @@
 ---
 title: "Twelve Years' Truce (1609)"
-aliases: [Twaalfjarig Bestand 1609, "Twelve Years' Truce of Antwerp 1609, Bestand van 9 April 1609, Spanish-Dutch truce 1609, Twelve Years' Truce"]
+aliases: ["Twaalfjarig Bestand 1609", "Twelve Years' Truce of Antwerp 1609", "Bestand van 9 April 1609", "Spanish-Dutch truce 1609", "Twelve Years' Truce"]
+
 tags: [event, dutch, spanish, portuguese, colonial, voc, atjeh, malaka, banda, diplomacy, 1609, oldenbarneveldt, twelve-years-truce]
 ---
 

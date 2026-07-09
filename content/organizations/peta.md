@@ -1,7 +1,8 @@
 ---
 
 title: PETA
-aliases: [Pembela Tanah Air, Defenders of the Fatherland, "people's army, giyūgun, lasjkar ra'jat", volksleger]
+aliases: ["Pembela Tanah Air", "Defenders of the Fatherland", "people's army", "giyūgun", "lasjkar ra'jat", "volksleger"]
+
 tags: [organization, japanese, indonesian, military]
 ---
 **PETA** — the *Pembela Tanah Air*, "Defenders of the Fatherland," known in Japanese as *giyūgun* ("volunteer army") and in Malay as *lasjkar ra'jat* — was the Japanese-organised Indonesian militia established in [[Atjèh|Atjèh]] on [[22 November]] [[1943]] as a "people's army" intended as the kernel of an indigenous military organisation with its own officer corps for the defence of Sumatra. Recruited heavily from the [[Poesa|Poesa]]-inspired youth and officered in part by veterans of the [[Fujiwara-kikan|Fujiwara-kikan]]'s fifth-column apparatus, PETA grew to more than 5,000 men by the [[Japanese capitulation of 15 August 1945|Japanese capitulation of 15 August 1945]] and was absorbed, along with the [[Maibkatra|Maibkatra]] and the *Kapal Oedara Atjèh*, into the mass body [[Permai|Permai]] on [[20 January]] [[1945]].

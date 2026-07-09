@@ -1,6 +1,7 @@
 ---
 title: "Fullerton's letter to Sultan of Siak (7 February 1828)"
-aliases: [Siak letter 7 February 1828, "Fullerton's letter to Siak, Singapore letter to Sultan of Siak 7 Feb 1828"]
+aliases: ["Siak letter 7 February 1828", "Fullerton's letter to Siak", "Singapore letter to Sultan of Siak 7 Feb 1828"]
+
 tags: [event, correspondence, colonial, anglo-dutch, diplomacy]
 ---
 

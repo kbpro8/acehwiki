@@ -1,7 +1,8 @@
 ---
 
 title: Prince of Wales Island Governor
-aliases: [Prince of Wales Island government, "Government of Prince of Wales' Island, Governor in Council of Prince of Wales' Island", "Governor of Prince of Wales' Island"]
+aliases: ["Prince of Wales Island government", "Government of Prince of Wales' Island", "Governor in Council of Prince of Wales' Island", "Governor of Prince of Wales' Island"]
+
 tags: [person, british, colonial-government, penang, generic]
 ---
 

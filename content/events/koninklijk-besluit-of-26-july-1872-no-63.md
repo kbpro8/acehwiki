@@ -1,6 +1,7 @@
 ---
 title: Koninklijk Besluit of 26 July 1872 No. 63
-aliases: [KB 26 July 1872 No. 63, Royal Decree of 26 July 1872, "Snijders' commissioning decree, Koninklijk Besluit 26 Juli 1872 No. 63"]
+aliases: ["KB 26 July 1872 No. 63", "Royal Decree of 26 July 1872", "Snijders' commissioning decree", "Koninklijk Besluit 26 Juli 1872 No. 63"]
+
 tags: [document, decree, dutch, military, commissioning]
 ---
 

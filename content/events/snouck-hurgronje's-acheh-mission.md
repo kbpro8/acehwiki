@@ -1,6 +1,7 @@
 ---
 title: "Snouck Hurgronje's Acheh Mission"
-aliases: ["Snouck Hurgronje's Acheh mission, Hurgronje mission to Acheh, Acheh mission of 1891"]
+aliases: ["Snouck Hurgronje's Acheh mission", "Hurgronje mission to Acheh", "Acheh mission of 1891"]
+
 tags: [event, dutch-intervention, scholarship, colonial-administration]
 ---
 

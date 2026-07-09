@@ -1,7 +1,8 @@
 ---
 
 title: "Teukoe Tjhi' Moehamad Thajéb"
-aliases: ["Teukoe Tjhi' Moehamad Thajéb, Tjhi' Thajéb", "Teuku Tjhi' Mohammad Thaib"]
+aliases: ["Teukoe Tjhi' Moehamad Thajéb", "Tjhi' Thajéb", "Teuku Tjhi' Mohammad Thaib"]
+
 tags: [person, achehnese, oeleebalang, colonial]
 ---
 **Teukoe Tjhi' Moehamad Thajéb** was the [[oelèëbalang|oelèëbalang]] — self-governing official — of the *landschap* [[Peureula'|Peureula']] in the subdistrict [[Langsa|Langsa]] whose removal by the Dutch administration in [[1934]] was, Piekaar records, one of the "notorious removals" of prominent self-governing officials that marked the late colonial period and that illustrated both the readiness of the population to accept such replacements and the political costs of the policy. Piekaar's *Atjèh and the War with Japan* treats the removal of Teukoe Tjhi' Moehamad Thajéb — together with the [[1938|1938]] removal of [[Teukoe Oemar|Teukoe Oemar]] of Keumangan — as a defining episode of the late colonial administration.

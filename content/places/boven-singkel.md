@@ -1,6 +1,7 @@
 ---
 title: Boven-Singkel
-aliases: ["Boven-Singkel (Atjeh)\", Boven-Singkel marga country\"", "Singkel upstream\", Singkil upstream\"", "Upper Singkel\""]
+aliases: ["Boven-Singkel (Atjeh)\"", "Boven-Singkel marga country\"", "Singkel upstream\"", "Singkil upstream\"", "Upper Singkel\""]
+
 tags: ["achehnese", "colonial", "place", "region", "singkil"]
 ---
 **Boven-Singkel** (Upper Singkel; in present-day [[Aceh Singkil Regency|Aceh Singkil Regency]]) is the upstream region of the Singkel river in southern [[Acheh|Atjeh]], mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 220) as the home of the [[marga Ramin|marga Ramin]], whose eponymous ancestor [[Gedong (Atjeher of Pasei)|Gedong]] — an Atjeher of [[Pasei|Pasei]] — gave rise, by his shipwreck on the way to [[Belawan]] and his encounters with an eel and a buffalo, to the *marga*'s double food-prohibition against eel and buffalo-meat. The legend is recorded by [[W. K. H. Ypes|Ypes]] in his *Bijdrage tot de kennis van stamverwantschap op Sumatra* (p. 57 nt. 1) and is reproduced in *De Karbouw* as one of the Sumatran *pantang*-origin legends explaining the prohibition of buffalo-meat for particular genealogical groups.

@@ -1,6 +1,7 @@
 ---
 title: Death of Bannerman
-aliases: ["Bannerman's death 1819, Death of Colonel Bannerman, Death of Governor Bannerman"]
+aliases: ["Bannerman's death 1819", "Death of Colonel Bannerman", "Death of Governor Bannerman"]
+
 tags: [event, death, colonial]
 ---
 

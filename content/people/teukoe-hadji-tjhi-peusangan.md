@@ -1,7 +1,8 @@
 ---
 
 title: "Teukoe Hadji Tjhi' Moehamad Djohan Alam Sjah"
-aliases: ["Teukoe Tjhi' Peusangan, Tjhi' Peusangan", "Teukoe Hadji Tjhi' Moehamad Djohan Alam Sjah, Alam Sjah of Peusangan"]
+aliases: ["Teukoe Tjhi' Peusangan", "Tjhi' Peusangan", "Teukoe Hadji Tjhi' Moehamad Djohan Alam Sjah", "Alam Sjah of Peusangan"]
+
 tags: [person, achehnese, oeleebalang, colonial]
 ---
 **Teukoe Hadji Tjhi' Moehamad Djohan Alam Sjah** was the [[oelèëbalang|oelèëbalang]] — self-governing authority — of the *landschap* [[Peusangan|Peusangan]] in the subdistrict [[Bireuën|Bireuën]], and one of the most prominent and progressive of the Atjèhnese self-governing rulers under Dutch rule, whose high patronage of the founding of the [[Poesa|Poesa]] in [[1939]] gave the All-Aceh Union of Ulemas the political legitimacy it needed to take root. Piekaar's *Atjèh and the War with Japan* describes him as "undoubtedly the most gifted figure" among Atjèh's self-governing rulers, "tall and stately in build, a good fifty years old, this engaging personality … a regent in the truest sense of the word."

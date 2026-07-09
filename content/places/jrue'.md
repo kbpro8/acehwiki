@@ -1,6 +1,7 @@
 ---
 title: "Jrue'"
-aliases: [Jruë, Jru, Jrue, "Jrue' Mukim, Mukim Jrue"]
+aliases: ["Jruë", "Jru", "Jrue", "Jrue' Mukim", "Mukim Jrue"]
+
 tags: [place, mukim, region, great-acheh, xxii-mukims]
 ---
 

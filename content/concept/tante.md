@@ -1,6 +1,7 @@
 ---
 title: Tante
-aliases: [Tante, "the Oom's wife, soldiers' wife"]
+aliases: ["Tante", "the Oom's wife", "soldiers' wife"]
+
 tags: [concept, term, ambonese, knil, identity]
 ---
 

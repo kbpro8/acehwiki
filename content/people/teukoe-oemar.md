@@ -1,7 +1,8 @@
 ---
 
 title: Teukoe Oemar
-aliases: [Teukoe Oemar, Teuku Umar, T. Oemar, The Cunning Adventurer, Teukoe Johan, Teuku Johan, "Tjut Meutia's husband, Teuku Uma, Tuku Umar, Toekoe Oemar, the betrayal of Toekoe Oemar, Panglima Toekoe Oemar"]
+aliases: ["Teukoe Oemar", "Teuku Umar", "T. Oemar", "The Cunning Adventurer", "Teukoe Johan", "Teuku Johan", "Tjut Meutia's husband", "Teuku Uma", "Tuku Umar", "Toekoe Oemar", "the betrayal of Toekoe Oemar", "Panglima Toekoe Oemar"]
+
 tags: [person, acehnese, achehnese, resistance, aceh, turncoat, aceh-war, military-leader, colonial, 19th-century, traitor-or-patriot]
 ---
 

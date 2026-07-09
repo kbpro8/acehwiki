@@ -1,6 +1,7 @@
 ---
 title: Aneu Galong
-aliases: ["Aneu' Galong, Aneu Galong, Aneu'Galong", Aneu-Galong, "Aneu' Galoom, Galong"]
+aliases: ["Aneu' Galong", "Aneu Galong", "Aneu'Galong", "Aneu-Galong", "Aneu' Galoom", "Galong"]
+
 tags: [place, fortress, battle-site, aceh, resistance, highland]
 description: "A fortress in the interior of Great Acheh, captured by Netherlands troops in 1896, marking a turning point in the Tiro family's resistance."
 ---

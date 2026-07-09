@@ -1,6 +1,7 @@
 ---
 title: Haji (month)
-aliases: [Haji month, "Du'l-hidjah, Dhu al-Hijjah, Month of the pilgrimage, Doy Hijah"]
+aliases: ["Haji month", "Du'l-hidjah", "Dhu al-Hijjah", "Month of the pilgrimage", "Doy Hijah"]
+
 tags: [event, calendar, religious, festival, month]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Zebid
-aliases: ["Zabid\", Yemen\""]
+aliases: ["Zabid\"", "Yemen\""]
+
 tags: ["place", "sacred-site"]
 ---
 

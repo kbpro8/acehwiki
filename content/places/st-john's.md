@@ -1,6 +1,7 @@
 ---
 title: "St. John's"
-aliases: ["St. John's Island, Saint John's Island"]
+aliases: ["St. John's Island", "Saint John's Island"]
+
 tags: [place, island, foreign, british-india]
 ---
 **St. John's** (St. John's Island) is an island about five miles from [[Singapore]], mentioned in P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819* in connection with the strategic reasoning of British officials immediately after the [[Founding of Singapore|founding of Singapore]] in [[1819]].

@@ -1,6 +1,7 @@
 ---
 title: "Kaje'e Jat'oe"
-aliases: ["Kaje'e Jat'oe", Kayee Jatoe, "Kaje'e Jatoe, Kampong Kaje'e Jat'oe"]
+aliases: ["Kaje'e Jat'oe", "Kayee Jatoe", "Kaje'e Jatoe", "Kampong Kaje'e Jat'oe"]
+
 tags: [place, gampong, capital, banda-aceh]
 ---
 

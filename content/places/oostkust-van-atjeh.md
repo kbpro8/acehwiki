@@ -1,6 +1,7 @@
 ---
 title: Oostkust van Atjeh
-aliases: [East Coast of Atjeh, "Atjeh's Oostkust, Aceh Timur, Oostkust Atjeh"]
+aliases: ["East Coast of Atjeh", "Atjeh's Oostkust", "Aceh Timur", "Oostkust Atjeh"]
+
 tags: [place, afdeeling, oostkust, atjeh, coastal, border-region, administrative-division]
 ---
 

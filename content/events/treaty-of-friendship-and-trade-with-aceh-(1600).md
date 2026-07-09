@@ -1,6 +1,7 @@
 ---
 title: Treaty of Friendship and Trade with Aceh (1600)
-aliases: [Aceh-Dutch Treaty 1600, "Van Caerden's Aceh Treaty, 1600 Aceh Treaty"]
+aliases: ["Aceh-Dutch Treaty 1600", "Van Caerden's Aceh Treaty", "1600 Aceh Treaty"]
+
 tags: [document, treaty, diplomacy, trade, achehnese, dutch]
 ---
 

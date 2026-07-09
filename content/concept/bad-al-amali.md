@@ -1,6 +1,7 @@
 ---
 title: "Bad' al-Amali"
-aliases: [Kasida al-Lamiyya fil-tawwidd, Kasida al-Lamiyya, al-Lamiyya fil-tawhid, "Bad' al-amaht, Amāli, I-poem on creed, L-poem on creed"]
+aliases: ["Kasida al-Lamiyya fil-tawwidd", "Kasida al-Lamiyya", "al-Lamiyya fil-tawhid", "Bad' al-amaht", "Amāli", "I-poem on creed", "L-poem on creed"]
+
 tags: [document, poem, creed, islamic, medieval, arabic, acehnese, malay-translation]
 description: "A short Arabic creed poem of fewer than 70 verses by Siraj al-Din al-Ushi (c. 569/1173), each verse ending in the letter lam; transmitted to Aceh via a 16th-century interlinear Malay translation."
 ---

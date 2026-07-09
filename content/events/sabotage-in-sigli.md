@@ -1,6 +1,7 @@
 ---
 title: Sabotage in Sigli (1942)
-aliases: [Sigli sabotage, "Gloempang Minjeu' sabotage, Sabotage in Pidië"]
+aliases: ["Sigli sabotage", "Gloempang Minjeu' sabotage", "Sabotage in Pidië"]
+
 tags: [event, resistance, achehnese]
 ---
 **The sabotage in Sigli** was the localised fifth-column action which broke out in the subdistrict of [[Sigli|Sigli]] — "the heart of the former district of [[Pidië|Pidië]]" and "the bulwark of the *oelèëbalang* authority" — on the night of [[24 February|24]]–[[25 February]] [[1942]], when railway and telephone lines were cut at [[Gloempang Minjeu'|Gloempang Minjeu']] in the *landschap* III Moekims Arón. Piekaar's *Atjèh and the War with Japan* (Chapter III § 2) treats the Sigli sabotage as the controlled and contained counterpart to the [[revolt in Great Atjèh|revolt in Great Atjèh]] — the action which proved that, even in a stronghold of *oelèëbalang* power, the [[Poesa|Poesa]] leadership felt itself "not yet … strong enough to commit the organization as such to the struggle."

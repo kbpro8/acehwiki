@@ -1,7 +1,8 @@
 ---
 
 title: "Mahraja of Lho' Seumawe"
-aliases: [Mahraja, Mbahraja, "Maharaja of Lho' Seumawe, Chief of Lho' Seumawe"]
+aliases: ["Mahraja", "Mbahraja", "Maharaja of Lho' Seumawe", "Chief of Lho' Seumawe"]
+
 tags: [person, uleebalang, adat-chief]
 ---
 

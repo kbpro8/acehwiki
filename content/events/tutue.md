@@ -1,6 +1,7 @@
 ---
 title: "Tutu'e (the Bridge)"
-aliases: ["Tutu'e, Tutue, The bridge, Titi, Tuti, Funeral bridge of cotton"]
+aliases: ["Tutu'e", "Tutue", "The bridge", "Titi", "Tuti", "Funeral bridge of cotton"]
+
 tags: [event, adat, funeral, ceremony]
 ---
 

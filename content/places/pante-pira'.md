@@ -1,6 +1,7 @@
 ---
 title: "Pante Pira'"
-aliases: [Pante Pira, "Panté Pira', Pante Pirah, Pante Pira' (Acheh)"]
+aliases: ["Pante Pira", "Panté Pira'", "Pante Pirah", "Pante Pira' (Acheh)"]
+
 tags: [place, padang, locality, capital, lowland]
 ---
 

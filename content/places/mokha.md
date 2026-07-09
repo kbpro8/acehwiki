@@ -1,6 +1,7 @@
 ---
 title: Mokha
-aliases: ["Mocha\", Yemen\""]
+aliases: ["Mocha\"", "Yemen\""]
+
 tags: ["place", "sacred-site"]
 ---
 

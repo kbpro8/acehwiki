@@ -1,6 +1,7 @@
 ---
 title: Defection of Teuku Uma
-aliases: [Treachery of Teuku Uma, Treachery of Teuku Uma against the Dutch, "Uma's defection, The Uma episode, March 1896"]
+aliases: ["Treachery of Teuku Uma", "Treachery of Teuku Uma against the Dutch", "Uma's defection", "The Uma episode", "March 1896"]
+
 tags: [event, aceh-war, political, conflict, dutch-intervention, war]
 ---
 

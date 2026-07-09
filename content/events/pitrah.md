@@ -1,6 +1,7 @@
 ---
 title: Pitrah
-aliases: [Zakat fitrah, Zakat al-fitr, Fitrah, Fitr tax, Pitrah, Zakat al-fitr in Acheh, Padiah for neglected prayers, Pitrah and padiah, "Pitrah as uleebalang's due, Uleebalang's share of pitrah", Pitrah and jakeuet]
+aliases: ["Zakat fitrah", "Zakat al-fitr", "Fitrah", "Fitr tax", "Pitrah", "Zakat al-fitr in Acheh", "Padiah for neglected prayers", "Pitrah and padiah", "Pitrah as uleebalang's due", "Uleebalang's share of pitrah", "Pitrah and jakeuet"]
+
 tags: [event, religious, ceremony, festival, legal, padiah, uleebalang, revenue]
 ---
 

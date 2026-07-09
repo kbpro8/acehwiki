@@ -1,6 +1,7 @@
 ---
 title: Peumite beueh ordeal
-aliases: [Peumite beueh, "Peumite beu'eh, Bolting of raw rice, Peumite beueh"]
+aliases: ["Peumite beueh", "Peumite beu'eh", "Bolting of raw rice", "Peumite beueh"]
+
 tags: [event, ordeal, adat, judicial, theft]
 ---
 

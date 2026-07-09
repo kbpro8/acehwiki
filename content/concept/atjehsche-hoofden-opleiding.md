@@ -1,6 +1,7 @@
 ---
 title: Atjehsche hoofden opleiding
-aliases: [Opleiding Atjehsche hoofden, "training of Atjeh chiefs' sons, Fort de Koek kweekschool Atjeh, Atjehse hoofden opleiding Fort de Koek 1916"]
+aliases: ["Opleiding Atjehsche hoofden", "training of Atjeh chiefs' sons", "Fort de Koek kweekschool Atjeh", "Atjehse hoofden opleiding Fort de Koek 1916"]
+
 tags: [concept, atjeh, dutch-colonial, inlandsch-bestuur, indigenous-administration, education, 1916]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Kreemer's De Maleier en zijn karbouw (1907)"
-aliases: ["De Maleier en zijn karbouw\", De Maleier en zijn karbouw in De Indische Gids\"", "Kreemer 1907\", Kreemer's first scholarly article\""]
+aliases: ["De Maleier en zijn karbouw\"", "De Maleier en zijn karbouw in De Indische Gids\"", "Kreemer 1907\"", "Kreemer's first scholarly article\""]
+
 tags: ["achehnese", "article", "colonial", "document", "dutch", "ethnography"]
 ---
 **Kreemer's *De Maleier en zijn karbouw* ([[1907]])** ("The Malay and his water-buffalo") is the first scholarly article of [[J. Kreemer|J. Kreemer]], published in [[1907]] in volume I of *De Indische Gids*, composed when Kreemer was a young *Kontroleur B.B.* on [[Sumatra's Westkust|Sumatra's Westkust]] and based on his personal observations in a single under-district on the Westkust. The article is the first-fruit of Kreemer's half-century scholarly career, the predecessor of his [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh* ([[1922]]-23)]] and of his late synthesis [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]], and is cited in *De Karbouw* (e.g. at pp. 124, 217) for comparative Minangkabau and Padangse Benedenlanden material adjacent to the Atjeh cultural sphere.

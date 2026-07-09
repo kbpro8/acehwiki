@@ -1,6 +1,7 @@
 ---
 title: Dutch–Aceh Treaty of 1641
-aliases: [Treaty of 1641, Schouten treaty, Aceh-VOC agreement 1641, "Schouten's treaty with the sultane, Verdrag van Atjeh-VOC februari 1641, Atjeh-VOC verdrag van februari 1641, Schouten-Atjeh treaty"]
+aliases: ["Treaty of 1641", "Schouten treaty", "Aceh-VOC agreement 1641", "Schouten's treaty with the sultane", "Verdrag van Atjeh-VOC februari 1641", "Atjeh-VOC verdrag van februari 1641", "Schouten-Atjeh treaty"]
+
 tags: [document, treaty, diplomacy, colonial, aceh, dutch, achehnese]
 ---
 The **Dutch–Aceh Treaty of [[1641]]** was an agreement signed in February of that year between [[Sultan Tajul-alam|Tajul-alam]], the newly acceded "Sultane of Aceh" (daughter of [[Sultan Iskandar Muda|Iskander Moeda]]), and the [[Dutch East India Company]] (VOC) envoy [[Joost Schouten]], shortly after her accession. The treaty granted the VOC significant trading concessions on the West Coast of Sumatra and excluded other European nations from the pepper ports.

@@ -1,7 +1,8 @@
 ---
 
 title: "Rifa'iyah order"
-aliases: [Rifāʿiyya, Rifaiyya, "Rifa'i order, Rifa'iyah", Rifāʿiyya order, the Rifāʿiyya, "the Rifa'i tariqa, Bāṭāʾiḥiyya"]
+aliases: ["Rifāʿiyya", "Rifaiyya", "Rifa'i order", "Rifa'iyah", "Rifāʿiyya order", "the Rifāʿiyya", "the Rifa'i tariqa", "Bāṭāʾiḥiyya"]
+
 tags: [organization, sufi-order, tariqa, rifa'i, islam, precolonial, 12th-century, iraq, gujarat, aceh, makassar]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Wilhelmina mutiny and murder of Bouwens
-aliases: [Wilhelmina affair, Wilhelmina incident, "Bouwens' murder, Mutiny on the Wilhelmina, Wilhelmina schooner mutiny"]
+aliases: ["Wilhelmina affair", "Wilhelmina incident", "Bouwens' murder", "Mutiny on the Wilhelmina", "Wilhelmina schooner mutiny"]
+
 tags: [event, mutiny, war, colonial, correspondence, anglo-dutch]
 ---
 

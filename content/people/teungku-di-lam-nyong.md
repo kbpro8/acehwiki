@@ -1,7 +1,8 @@
 ---
 
 title: Teungku di Lam Nyong
-aliases: ["Nya' Him, Ibrahim"]
+aliases: ["Nya' Him", "Ibrahim"]
+
 tags: [person, scholar]
 ---
 

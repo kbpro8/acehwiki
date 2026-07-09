@@ -1,6 +1,7 @@
 ---
 title: Hudjdjat as-siddik li-daf az-zindik
-aliases: ["Hujjat al-Siddiq li-Daf' al-Zindiq, Argument of the Truthful"]
+aliases: ["Hujjat al-Siddiq li-Daf' al-Zindiq", "Argument of the Truthful"]
+
 tags: [document, polemic, acehnese, religious]
 ---
 

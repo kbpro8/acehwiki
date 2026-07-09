@@ -1,6 +1,7 @@
 ---
 title: Lueng Bata
-aliases: [Mukim Lueng Bata, Lueng Bata, Luëng Bata, "Lu'eng-Bata, Luengbata, Lu'eng Bata", Lheong Bata, Lhueng Bata]
+aliases: ["Mukim Lueng Bata", "Lueng Bata", "Luëng Bata", "Lu'eng-Bata", "Luengbata", "Lu'eng Bata", "Lheong Bata", "Lhueng Bata"]
+
 tags: [place, aceh-proper, gampong, capital-area, banda-acheh, wakeueh, imeum, mukim, capital]
 ---
 

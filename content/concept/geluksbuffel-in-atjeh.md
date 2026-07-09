@@ -1,6 +1,7 @@
 ---
 title: Geluksbuffel in Atjeh
-aliases: ["Atjeh fortune-bringing buffalo\", Atjeh luck-buffalo\"", "betoeah in Atjeh\", geluksbuffel Atjeh\"", "luck-bringing buffalo Atjeh\""]
+aliases: ["Atjeh fortune-bringing buffalo\"", "Atjeh luck-buffalo\"", "betoeah in Atjeh\"", "geluksbuffel Atjeh\"", "luck-bringing buffalo Atjeh\""]
+
 tags: ["achehnese", "agricultural", "concept", "folk-belief", "magic"]
 ---
 The **geluksbuffel in Atjeh** (the luck-bringing buffalo in Atjeh) is the documented Atjehnese belief that certain individual buffaloes — independent of any external mark — were bringers of good fortune (*geluk*), specifically in two respects: (1) if a luck-bringing buffalo was the first to step onto a *sawah* (wet-rice field), or deposited its dung there, mice would not come to destroy the planting; and (2) if such a buffalo was bound under one's house, it kept the lice out. The belief is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 215) — citing [[Kreemer's Atjeh ([[1922]]-23)|his *Atjeh*]] (vol. I, p. 508) — and is the Atjehnese instance of the wider archipelagic pattern of the *geluksbuffel* (in Minangkabau called *soembarag*-karbouw).

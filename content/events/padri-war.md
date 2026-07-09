@@ -1,6 +1,7 @@
 ---
 title: Padri War
-aliases: ["Padri War on Sumatra's East Coast, Padri War (Sumatra), Padri disturbances on the East Coast, Padries, Padri war, Rinchis, Perang Padri, Padri Conflict"]
+aliases: ["Padri War on Sumatra's East Coast", "Padri War (Sumatra)", "Padri disturbances on the East Coast", "Padries", "Padri war", "Rinchis", "Perang Padri", "Padri Conflict"]
+
 tags: [event, war, malay, religious, colonial, sumatra, 19th-century]
 description: Religious-military conflict on Sumatra (c. 1821-1837) pitting the reformist Padri movement against the traditional Minangkabau authorities and the Dutch colonial government.
 ---

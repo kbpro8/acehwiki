@@ -1,6 +1,7 @@
 ---
 title: Indonesische Kunstnijverheid (Bezemer 1933)
-aliases: [Indonesische Kunstnijverheid, Bezemer 1933, "Bezemer's Platen-Atlas, Indonesische Kunstnijverheid Platen-Atlas, T. J. Bezemer Indonesische Kunstnijverheid, Indonesian Arts and Crafts (Bezemer 1933), De Bezemer-atlas, Platen-Atlas over de inheemsche kunstnijverheid van Nederlandsch-Indië"]
+aliases: ["Indonesische Kunstnijverheid", "Bezemer 1933", "Bezemer's Platen-Atlas", "Indonesische Kunstnijverheid Platen-Atlas", "T. J. Bezemer Indonesische Kunstnijverheid", "Indonesian Arts and Crafts (Bezemer 1933)", "De Bezemer-atlas", "Platen-Atlas over de inheemsche kunstnijverheid van Nederlandsch-Indië"]
+
 tags: [document, source-book, dutch, colonial, decorative-art, indonesia, plate-atlas]
 ---
 

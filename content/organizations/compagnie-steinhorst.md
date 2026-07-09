@@ -1,7 +1,8 @@
 ---
 
 title: Compagnie Steinhorst
-aliases: [Steinhorst company, Compagnie Steinhorst, "Steinhorst's compagnie, vertragende actie Westkust 1942"]
+aliases: ["Steinhorst company", "Compagnie Steinhorst", "Steinhorst's compagnie", "vertragende actie Westkust 1942"]
+
 tags: [organization, military, dutch, colonial, knil, atjeh, world-war-ii, westkust]
 ---
 

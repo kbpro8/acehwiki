@@ -1,6 +1,7 @@
 ---
 title: "Raniri's public debate against the Wujudiyyah in Acheh"
-aliases: ["Raniri's disputation against the Wujudiyyah, The public debate of Raniri at the Achehnese court, Raniri's refutation of the Wujudiyyah", The orthodox reaction in Acheh]
+aliases: ["Raniri's disputation against the Wujudiyyah", "The public debate of Raniri at the Achehnese court", "Raniri's refutation of the Wujudiyyah", "The orthodox reaction in Acheh"]
+
 tags: [event, religious-history, precolonial, 17th-century, aceh, raniri, iskandar-thani, wujudiyyah, persecution]
 ---
 

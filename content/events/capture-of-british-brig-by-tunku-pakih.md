@@ -1,6 +1,7 @@
 ---
 title: Capture of British brig by Tunku Pakih
-aliases: ["Tunku Pakih's brig capture, Toekoe Packie's capture of the brig", Capture of the English-flagged brig]
+aliases: ["Tunku Pakih's brig capture", "Toekoe Packie's capture of the brig", "Capture of the English-flagged brig"]
+
 tags: [event, piracy, colonial]
 ---
 

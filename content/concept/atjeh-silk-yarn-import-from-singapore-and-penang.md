@@ -1,6 +1,7 @@
 ---
 title: Atjeh silk yarn import from Singapore and Penang
-aliases: [zijden garens voor Atjeh, Atjehsche zijde-import, Atjeh silk yarn import, "silk yarn imports for Atjeh Riouw and Sumatra's East Coast, Atjehse zijde-invoer"]
+aliases: ["zijden garens voor Atjeh", "Atjehsche zijde-import", "Atjeh silk yarn import", "silk yarn imports for Atjeh Riouw and Sumatra's East Coast", "Atjehse zijde-invoer"]
+
 tags: [concept, trade, achehnese, silk, textile, singapore, penang, colonial]
 ---
 

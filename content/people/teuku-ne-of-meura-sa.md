@@ -1,7 +1,8 @@
 ---
 
 title: "Teuku Ne' of Meura'sa"
-aliases: [Teuku Ne, "Teuku Ne' Raja Muda Seutia, Uleebalang of Meura'sa", "Ne' Raja Muda Seutia"]
+aliases: ["Teuku Ne", "Teuku Ne' Raja Muda Seutia", "Uleebalang of Meura'sa", "Ne' Raja Muda Seutia"]
+
 tags: [person, warrior, uleebalang, sultanate, adat-chief, xxv-mukims]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Treaty of Pedir (1819)
-aliases: [Acheh treaty of 1819, 1819 Acheh treaty, "Raffles' Acheh-overeenkomst, Raffles' Acheh-overeenkomst van 1819", Atjeh-verdrag van 1819, Pedir-verdrag, Acheen treaty, tractaat met den sultan van Atjeh, Treaty of Pedir 1819]
+aliases: ["Acheh treaty of 1819", "1819 Acheh treaty", "Raffles' Acheh-overeenkomst", "Raffles' Acheh-overeenkomst van 1819", "Atjeh-verdrag van 1819", "Pedir-verdrag", "Acheen treaty", "tractaat met den sultan van Atjeh", "Treaty of Pedir 1819"]
+
 tags: [event, treaty, diplomacy, colonial, anglo-dutch, acheh, treaty-doctrine, colonial-policy, diplomatic-concept]
 ---
 

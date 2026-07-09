@@ -1,7 +1,8 @@
 ---
 
 title: "Tgk. Tjhi Ma'at"
-aliases: ["Tgk. Tjhi Ma'at, Teungkoe Tjhi Ma'at", "Tgk. Tjhi Ma'at di Tiri, Tgk. Tjhi Ma'at di Tirè", "Tgk. Tjhi Ma'at di Tiró, de jonge Tjhi Ma'at", de jonge Teungkoe]
+aliases: ["Tgk. Tjhi Ma'at", "Teungkoe Tjhi Ma'at", "Tgk. Tjhi Ma'at di Tiri", "Tgk. Tjhi Ma'at di Tirè", "Tgk. Tjhi Ma'at di Tiró", "de jonge Tjhi Ma'at", "de jonge Teungkoe"]
+
 tags: [person, religious-leader, acehnese, resistance]
 ---
 

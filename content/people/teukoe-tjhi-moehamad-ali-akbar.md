@@ -1,7 +1,8 @@
 ---
 
 title: "Teukoe Tjhi' Moehamad Ali Akbar"
-aliases: ["Teukoe Tjhi' Moehamad Ali Akbar, Tjhi' Moehamad Ali Akbar", "Teuku Tjhi' Mohammad Ali Akbar"]
+aliases: ["Teukoe Tjhi' Moehamad Ali Akbar", "Tjhi' Moehamad Ali Akbar", "Teuku Tjhi' Mohammad Ali Akbar"]
+
 tags: [person, achehnese, oeleebalang, westkust]
 ---
 **Teukoe Tjhi' Moehamad Ali Akbar** was the [[oelèëbalang|oelèëbalang]] — self-governing ruler — of the [[Kawaj XVI|Kawaj XVI]] on the West Coast of Atjèh, one of the two loyal Dutch self-governors — the other being [[Teukoe Bin of Seunagan|Teukoe Bin of Seunagan]] — whose displacement by the governing commission assembled by the F-propagandist [[Said Aboe Bakar|Said Aboe Bakar]] at [[Meulabóh|Meulabóh]] in March [[1942]] marked the political reorganisation of the West Coast under the Japanese occupation. Piekaar's *Atjèh and the War with Japan* treats Teukoe Tjhi' Moehamad Ali Akbar as one of the principal casualties of the F-organisatie's activation — the loyal *oelèëbalang* whose removal illustrated the costs of the Dutch loss of Atjèh.

@@ -1,6 +1,7 @@
 ---
 title: Poewôê siê
-aliases: ["Atjehnese first-year husband meat obligation\", peugöt sië\"", "poewoe siê\", the poewôê siê custom of Atjeh\""]
+aliases: ["Atjehnese first-year husband meat obligation\"", "peugöt sië\"", "poewoe siê\"", "the poewôê siê custom of Atjeh\""]
+
 tags: ["achehnese", "adat", "concept", "marriage", "ramadan"]
 ---
 **Poewôê siê** (in [[J. Kreemer|Kreemer]]'s spelling) is the Atjehnese adat obligation by which a newly-married young man, during the first year of his marriage, was required to bring meat home to his wife on the two ritual slaughter-days before the beginning and at the end of the *Vastenmaand* (Ramadan fasting month) — the same two slaughter-days known as [[maq meugang|*maq meugang*]]. The obligation is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (pp. 113-114) and in [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 398), and is one of the principal adat institutions linking the buffalo-slaughter complex to the Atjehnese marriage-cycle.

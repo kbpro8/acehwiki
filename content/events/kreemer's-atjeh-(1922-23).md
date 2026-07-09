@@ -1,6 +1,7 @@
 ---
 title: "Kreemer's Atjeh (1922-23)"
-aliases: ["Atjèh (Kreemer 1922-23)\", Atjèh: algemeen samenvattend overzicht van land en volk van Atjèh en Onderhoorigheden\"", "Kreemer Atjeh\", Kreemer's Atjeh monograph\"", "Kreemer's Atjèh\""]
+aliases: ["Atjèh (Kreemer 1922-23)\"", "Atjèh: algemeen samenvattend overzicht van land en volk van Atjèh en Onderhoorigheden\"", "Kreemer Atjeh\"", "Kreemer's Atjeh monograph\"", "Kreemer's Atjèh\""]
+
 tags: ["achehnese", "book", "colonial", "document", "dutch", "ethnography"]
 ---
 **Kreemer's *Atjeh* (1922-23)** — full title *Atjèh: algemeen samenvattend overzicht van land en volk van Atjèh en Onderhoorigheden* ("Atjeh: a general summary overview of the land and people of Atjeh and Dependencies") — is the two-volume general survey of Acheh|Atjeh and its dependencies published by J. Kreemer|J. Kreemer in 1922-1923, which stands, alongside Christiaan Snouck Hurgronje|Snouck Hurgronje's Snouck Hurgronje's De Atjehers ([[1893-94)|*De Atjehers*]] (1893-94), as one of the two principal Dutch scholarly syntheses on Atjeh as a country and people. The work is cited throughout Kreemer's De Karbouw ([[1956)|Kreemer's *De Karbouw* (1956)]] — and throughout the wider Atjeh scholarly literature — as "Kreemer, *Atjeh*, I/II" with specific page references, and is the source of record for a substantial proportion of the Atjeh-specific ethnographic, linguistic, religious and historical material documented in the comparative literature.

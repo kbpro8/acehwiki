@@ -1,6 +1,7 @@
 ---
 title: "Sjahroe'n Noewi"
-aliases: [Sjahroen Noewi, "Sjahroe'n-noewi, Sjahr Noewi, Sjahru-n Nawi, New City, Nieuw-stal, Cernovem, Xarnauz, Sarnau"]
+aliases: ["Sjahroen Noewi", "Sjahroe'n-noewi", "Sjahr Noewi", "Sjahru-n Nawi", "New City", "Nieuw-stal", "Cernovem", "Xarnauz", "Sarnau"]
+
 tags: [place, kingdom, sumatra, east-coast, sadjarah-malajoe, achehnese]
 ---
 

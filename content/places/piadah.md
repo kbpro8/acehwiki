@@ -1,6 +1,7 @@
 ---
 title: Piadah
-aliases: ["on the Pase / Pasei River\", East Coast / Pase region\""]
+aliases: ["on the Pase / Pasei River\"", "East Coast / Pase region\""]
+
 tags: ["place", "aceh-proper"]
 ---
 

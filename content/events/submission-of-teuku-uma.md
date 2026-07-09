@@ -1,6 +1,7 @@
 ---
 title: Submission of Teuku Uma
-aliases: [Submission of Teuku Uma, "Uma's submission, Submission of Umar, Submission of Teuku Uma to the Dutch Government, Teuku Uma's submission of 1893", Submission of Umar 1893]
+aliases: ["Submission of Teuku Uma", "Uma's submission", "Submission of Umar", "Submission of Teuku Uma to the Dutch Government", "Teuku Uma's submission of 1893", "Submission of Umar 1893"]
+
 tags: [event, aceh-war, dutch-intervention, treaty, vol1-note]
 ---
 

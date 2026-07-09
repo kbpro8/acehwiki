@@ -1,6 +1,7 @@
 ---
 title: "Friday the 15th of Mo'lot"
-aliases: ["Friday 15th of Mo'lot, Jumu'ah 15 Rabī' al-awwal, Friday 15 Maulud"]
+aliases: ["Friday 15th of Mo'lot", "Jumu'ah 15 Rabī' al-awwal", "Friday 15 Maulud"]
+
 tags: [event, adat, judicial-practice, criminal-law, speech, calendar]
 ---
 

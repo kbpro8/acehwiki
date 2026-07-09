@@ -1,7 +1,8 @@
 ---
 
 title: Sultan Alauddin Muhammad Shah Jauhar
-aliases: [Alaëddin Mohammed Shah, Alauddin Mahmud Shah Jauhan, "Alaoe'd-din Mahmoed Shah Djohan, sultan Munson"]
+aliases: ["Alaëddin Mohammed Shah", "Alauddin Mahmud Shah Jauhan", "Alaoe'd-din Mahmoed Shah Djohan", "sultan Munson"]
+
 tags: [person, sultan, achehnese]
 ---
 

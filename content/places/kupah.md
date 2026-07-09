@@ -1,6 +1,7 @@
 ---
 title: Kupah
-aliases: ["Kufa\", Iraq\""]
+aliases: ["Kufa\"", "Iraq\""]
+
 tags: ["place", "sacred-site"]
 ---
 

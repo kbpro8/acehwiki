@@ -1,6 +1,7 @@
 ---
 title: "Kanduri beureu'at"
-aliases: ["Kanduri beureu'at, Kanduri of mid-Sha'ban", "Malam beureu'at feast"]
+aliases: ["Kanduri beureu'at", "Kanduri of mid-Sha'ban", "Malam beureu'at feast"]
+
 tags: [event, religious, festival, calendar, ceremony, life-cycle]
 ---
 

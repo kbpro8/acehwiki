@@ -1,6 +1,7 @@
 ---
 title: Battle of Paoeh (12 March 1666)
-aliases: [Nederlaag bij Paoeh 1666, "Gruys's defeat at Paoeh, Expeditie naar Paoeh 1666, Atjehsche overwinning bij Paoeh, Defeat at Paoeh"]
+aliases: ["Nederlaag bij Paoeh 1666", "Gruys's defeat at Paoeh", "Expeditie naar Paoeh 1666", "Atjehsche overwinning bij Paoeh", "Defeat at Paoeh"]
+
 tags: [event, war, colonial, dutch, achehnese, military, sumatra]
 ---
 

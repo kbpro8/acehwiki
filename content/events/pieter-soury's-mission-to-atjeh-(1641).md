@@ -1,6 +1,7 @@
 ---
 title: "Pieter Soury's mission to Atjeh (1641)"
-aliases: ["Soury's embassy to Atjeh, Atjeh embassy of 1641, Pieter Soury's Atjeh mission", "Soury's Atjeh embassy, Het gezantschap van Soury naar Atjeh (1641)"]
+aliases: ["Soury's embassy to Atjeh", "Atjeh embassy of 1641", "Pieter Soury's Atjeh mission", "Soury's Atjeh embassy", "Het gezantschap van Soury naar Atjeh (1641)"]
+
 tags: [event, diplomacy, voc, dutch, atjehnese, 17th-century]
 ---
 

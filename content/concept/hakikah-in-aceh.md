@@ -1,6 +1,7 @@
 ---
 title: "Hakikah ('Aqiqah) in Aceh"
-aliases: [Hakikah, Aqiqah, "'Aqiqah, Achehnese birth sacrifice, Sacrifice for a newborn child, Atjeh hakikah, hakikah, aqiqah in Atjeh, Atjeh Koeroebeuën, Koeroebeuën, Atjeh pre-Islamic sacrifice preparation, qurban preparation rites Atjeh"]
+aliases: ["Hakikah", "Aqiqah", "'Aqiqah", "Achehnese birth sacrifice", "Sacrifice for a newborn child", "Atjeh hakikah", "hakikah", "aqiqah in Atjeh", "Atjeh Koeroebeuën", "Koeroebeuën", "Atjeh pre-Islamic sacrifice preparation", "qurban preparation rites Atjeh"]
+
 tags: [concept, religious-practice, sacrifice, childhood-rite, family-law, syncretism, pre-islamic, achehnese]
 description: "The hakikah ('aqiqah) sacrifice for a newborn in Achehnese practice, together with the pre-Islamic preparatory ceremonies attached to it and to the Koeroebeuën (Qurbān) sacrifice at Id al-Adha."
 ---

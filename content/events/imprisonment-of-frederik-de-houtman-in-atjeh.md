@@ -1,6 +1,7 @@
 ---
 title: Imprisonment of Frederik de Houtman in Atjeh
-aliases: ["Frederik de Houtman's captivity, Captivity of Frederick de Houtman"]
+aliases: ["Frederik de Houtman's captivity", "Captivity of Frederick de Houtman"]
+
 tags: [event, diplomacy, dutch, precolonial]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Sir Thomas Stamford Raffles
-aliases: [Stamford Raffles, Sir S. Raffles, T. S. Raffles, Raffles, "Benkoelen's governor, lieutenant-governor of Bencoolen, Sir Stamford Raffles, Thomas Stamford Raffles, Thomas Stamford Bingley Raffles"]
+aliases: ["Stamford Raffles", "Sir S. Raffles", "T. S. Raffles", "Raffles", "Benkoelen's governor", "lieutenant-governor of Bencoolen", "Sir Stamford Raffles", "Thomas Stamford Raffles", "Thomas Stamford Bingley Raffles"]
+
 tags: [person, british-official, scholar, colonial-official, east-india-company, founder-of-singapore]
 description: "British East India Company official, founder of Singapore, and Lieutenant-Governor of Bencoolen whose 1819 Acheh commission produced the Acheh treaty of 1819."
 ---

@@ -1,6 +1,7 @@
 ---
 title: Jan van Swieten
-aliases: ["Van Swieten", "J. van Swieten", "Jan van Swieten", "General Van Swieten", "Generaal Van Swieten", "Lieutenant-general Van Swieten", "Lieutenant-colonel Van Swieten", "Van Swieten, General", "Conqueror of the Acehnese Van Swieten", "war-hero Van Swieten"]
+aliases: ["Van Swieten", "J. van Swieten", "Jan van Swieten", "General Van Swieten", "Generaal Van Swieten", "Lieutenant-general Van Swieten", "Lieutenant-colonel Van Swieten", "Van Swieten", "General", "Conqueror of the Acehnese Van Swieten", "war-hero Van Swieten"]
+
 tags: [person, general, dutch, military, colonial, knil, aceh-war, bali-expedition, 19th-century]
 description: "Dutch lieutenant-general (1807–1888) who commanded the Second Aceh Expedition of 1873–1874, presided over the capture of the Kraton and the proclamation of annexation of Groot-Atjeh, and earlier in his career negotiated the Treaty of 30 March 1857 with the Sultan of Aceh and took command of the third Bali expedition of 1849."
 ---

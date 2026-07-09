@@ -1,6 +1,7 @@
 ---
 title: Joannes Benedictus van Heutsz
-aliases: ["Van Heutsz", "J. B. van Heutsz", "J.B. van Heutsz", "Jan van Heutsz", "Johan van Heutsz", "Johan Hendrik van Heutsz", "J. B. V. Heutsz", "v. Heutsz", "Heutsz", "Joannes Benedictus van Heutsz", "Johannes Benedictus van Heutsz", "Governor Van Heutsz", "Governor-General Van Heutsz", "General Van Heutsz", "Colonel Van Heutsz", "Lieutenant Van Heutsz", "Gouverneur-Generaal Van Heutsz", "Oud-Gouverneur-Generaal Van Heutsz", "Adjudant-Generaal Van Heutsz", "Zijne Excellentie J. B. van Heutsz", "Toean Djenderal Van Heutsz", "Van Heutsz, J. B.", "Van Heutsz, General"]
+aliases: ["Van Heutsz", "J. B. van Heutsz", "J.B. van Heutsz", "Jan van Heutsz", "Johan van Heutsz", "Johan Hendrik van Heutsz", "J. B. V. Heutsz", "v. Heutsz", "Heutsz", "Joannes Benedictus van Heutsz", "Johannes Benedictus van Heutsz", "Governor Van Heutsz", "Governor-General Van Heutsz", "General Van Heutsz", "Colonel Van Heutsz", "Lieutenant Van Heutsz", "Gouverneur-Generaal Van Heutsz", "Oud-Gouverneur-Generaal Van Heutsz", "Adjudant-Generaal Van Heutsz", "Zijne Excellentie J. B. van Heutsz", "Toean Djenderal Van Heutsz", "Van Heutsz", "J. B.", "Van Heutsz", "General"]
+
 tags: [person, military, colonial, dutch, governor-general, aceh, pacification, buitenbezittingen, knil]
 description: "Dutch military officer and colonial administrator (1851–1924) who, as Civil and Military Governor of Aceh from 1898 and Governor-General of the Dutch East Indies from 1904 to 1909, carried through the subjugation of the Acehnese sultanate and completed the pacification of the Buitengewesten."
 ---

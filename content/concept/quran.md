@@ -1,6 +1,7 @@
 ---
 title: Quran
-aliases: ["Al‑Qur'an, Koran"]
+aliases: ["Al‑Qur'an", "Koran"]
+
 tags: [document, scripture, islamic]
 ---
 **Quran** is the holy book of Islam, frequently quoted in Acehnese religious poetry, including the Malay translation of the *Burda* where verses are described as “pearls in the shell of the speaking mouth”. Its verses underpin the theological arguments against *kāfir* (non‑believers) and *jinn* (spirits) found throughout the text.

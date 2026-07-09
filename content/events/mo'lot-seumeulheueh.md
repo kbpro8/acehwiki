@@ -1,6 +1,7 @@
 ---
 title: "Mo'lot Seumeulheueh"
-aliases: ["Mo'lot Seumeulheueh, Final Mo'lot", Achehnese month of Jumada al-awwal, Madika phon]
+aliases: ["Mo'lot Seumeulheueh", "Final Mo'lot", "Achehnese month of Jumada al-awwal", "Madika phon"]
+
 tags: [event, religious, calendar, festival, maulud]
 ---
 

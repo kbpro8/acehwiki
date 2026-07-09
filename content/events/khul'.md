@@ -1,6 +1,7 @@
 ---
 title: "Khul'"
-aliases: [teubòh taleuë, teuboh taleue, redemption of a divorce, "khiul', khul, purchased divorce"]
+aliases: ["teubòh taleuë", "teuboh taleue", "redemption of a divorce", "khiul'", "khul", "purchased divorce"]
+
 tags: [event, ceremony, divorce, law, marriage, adat]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Raniri's arrival in Acheh (1637)"
-aliases: ["Nuruddin ar-Raniri's arrival in Acheh, Raniri's arrival in Atjeh 1637", The arrival of the pandit Raniri]
+aliases: ["Nuruddin ar-Raniri's arrival in Acheh", "Raniri's arrival in Atjeh 1637", "The arrival of the pandit Raniri"]
+
 tags: [event, religious-history, precolonial, 17th-century, aceh, raniri, iskandar-thani]
 ---
 

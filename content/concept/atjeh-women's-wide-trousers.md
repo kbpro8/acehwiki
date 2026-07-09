@@ -1,6 +1,7 @@
 ---
 title: "Atjeh women's wide trousers"
-aliases: [wijde broek der Atjehse vrouw, Atjehsche vrouwenbroek, "Atjeh women's trousers, Atjehse wijde broek, women's wide trousers of Atjeh", Atjeh female wide pantaloon]
+aliases: ["wijde broek der Atjehse vrouw", "Atjehsche vrouwenbroek", "Atjeh women's trousers", "Atjehse wijde broek", "women's wide trousers of Atjeh", "Atjeh female wide pantaloon"]
+
 tags: [concept, garment, achehnese, textile, silk, precolonial]
 ---
 

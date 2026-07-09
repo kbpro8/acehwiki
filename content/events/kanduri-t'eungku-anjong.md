@@ -1,6 +1,7 @@
 ---
 title: "Kanduri T'eungku Anjong"
-aliases: ["Kanduri T'eungku Anjong, Kanduri of Teungku Anjong, Ramadhan feast at Gampong Jawa"]
+aliases: ["Kanduri T'eungku Anjong", "Kanduri of Teungku Anjong", "Ramadhan feast at Gampong Jawa"]
+
 tags: [event, religious, festival, calendar, ceremony, sainthood]
 ---
 

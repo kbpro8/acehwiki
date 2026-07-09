@@ -1,6 +1,7 @@
 ---
 title: Death of Tunku Pakih
-aliases: [killing of Tunku Pakih, "Packie's death, Murder of Tunku Pakih, Death of Packie"]
+aliases: ["killing of Tunku Pakih", "Packie's death", "Murder of Tunku Pakih", "Death of Packie"]
+
 tags: [event, death, assassination]
 ---
 

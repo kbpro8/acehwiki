@@ -1,6 +1,7 @@
 ---
 title: Chadé
-aliases: [Chade, Chadé (mukim), Mukim Chadé, "Chade', Chadé, Mukim Chade'", Tjhadé]
+aliases: ["Chade", "Chadé (mukim)", "Mukim Chadé", "Chade'", "Chadé", "Mukim Chade'", "Tjhadé"]
+
 tags: [place, mukim, banda-acheh, city]
 ---
 

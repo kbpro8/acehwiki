@@ -1,6 +1,7 @@
 ---
 title: Sāwa
-aliases: [Sāwa, "Sa'wa, Sawa"]
+aliases: ["Sāwa", "Sa'wa", "Sawa"]
+
 tags: [place, geographic, acehnese]
 ---
 **Sāwa** was a historic settlement mentioned in Acehnese literary sources as “the city Sāwa between Kazwin and Kum”. The reference appears on page [[91]] of the *Burda* translation.

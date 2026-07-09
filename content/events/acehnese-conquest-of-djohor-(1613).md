@@ -1,6 +1,7 @@
 ---
 title: Acehnese conquest of Djohor (1613)
-aliases: ["Atjeh's invasion of Johor, Fall of Batu Sawar"]
+aliases: ["Atjeh's invasion of Johor", "Fall of Batu Sawar"]
+
 tags: [event, war, sumatra, malay, colonial]
 ---
 

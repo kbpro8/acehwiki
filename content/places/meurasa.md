@@ -1,6 +1,7 @@
 ---
 title: "Meura'sa"
-aliases: [cutters of repute whose chief work was the, "Mukim Meura'sa, Mu'ëra Sa", Meurasa, "Alura'sa, the great mukim of Meura'sa"]
+aliases: ["cutters of repute whose chief work was the", "Mukim Meura'sa", "Mu'ëra Sa", "Meurasa", "Alura'sa", "the great mukim of Meura'sa"]
+
 tags: [place, aceh-proper, mukim, uleebalangship, lowland, xxv-mukims]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Pati Oenoes' attack on Malacca (1513)"
-aliases: ["Pate Unus' attack on Malacca, 1513 attack on Malacca, Japara's attack on Malacca", "Demak's attack on Malacca 1513"]
+aliases: ["Pate Unus' attack on Malacca", "1513 attack on Malacca", "Japara's attack on Malacca", "Demak's attack on Malacca 1513"]
+
 tags: [event, war, javanese, japara, portuguese, malacca, 16th-century]
 ---
 

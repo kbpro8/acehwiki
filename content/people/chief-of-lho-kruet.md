@@ -1,7 +1,8 @@
 ---
 
 title: "Chief of Lho' Kruet"
-aliases: ["Late chief of Lho'-Kruet, Late chief of Lho' Kruet"]
+aliases: ["Late chief of Lho'-Kruet", "Late chief of Lho' Kruet"]
+
 tags: [person, chief, uleebalang]
 ---
 

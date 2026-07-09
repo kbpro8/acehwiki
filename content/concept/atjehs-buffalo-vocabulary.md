@@ -1,6 +1,7 @@
 ---
 title: Atjehs buffalo vocabulary
-aliases: ["Achehnese words for buffalo\", Atjehnese buffalo vocabulary\"", "Atjehs buffalo-lexicon\", Atjehs terms for the buffalo\"", "keubeuë and related terms\""]
+aliases: ["Achehnese words for buffalo\"", "Atjehnese buffalo vocabulary\"", "Atjehs buffalo-lexicon\"", "Atjehs terms for the buffalo\"", "keubeuë and related terms\""]
+
 tags: ["achehnese", "agriculture", "concept", "language", "lexicography"]
 ---
 The **Atjehs buffalo vocabulary** is the set of Atjehnese-language (Atjehs) terms for the water-buffalo, its varieties, its husbandry-implements, and its ritual-legal-economic functions, as documented in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] and his [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]] ([[1922]]-23), and in the lexicographical sources [[Hoesein Djajadiningrat|Djajadiningrat]]'s *Atjehsch-Nederlandsch Woordenboek* and [[G. A. J. Hazeu|Hazeu]]'s *Gajosch-Nederlandsch Woordenboek*. The vocabulary is exceptionally rich — a single small language-community maintains distinct terms for the buffalo itself, for its colour-varieties (albino, blaze, piebald), for its feral form, for its vocalisation, for its wallow, for its herd-leader, for the various implements of its husbandry (plough, harrow, yoke, restraining stock, bell, brake-shoe, freight-cart), and for the various ritual-legal concepts (earnest-money, half-share arrangement, fattening custom, nose-rope) attached to its commercial and ceremonial use.

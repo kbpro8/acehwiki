@@ -1,6 +1,7 @@
 ---
 title: Gouvernement Atjeh en Onderhoorigheden
-aliases: [Gouvernement Atjeh en Onderhoorigheden, Gouvernement of Atjeh and its Dependencies, Government of Aceh and Dependencies, Atjeh and Dependencies, Gouvernement Atjeh, Atjeh en Onderhoorigh., Gewest Atjeh, Residency of Atjeh and Dependencies, Aceh Governorate, Atjeh-residency, Atjeh en Onderhoorigheden, "Atjeh's Onderhoorigheden, Onderhoorigheden, Atjeh Dependencies, Atjeh en Onderhorigheden, Government of Atjeh and Dependencies, Gouvernement van Atjeh, Atjeh government"]
+aliases: ["Gouvernement Atjeh en Onderhoorigheden", "Gouvernement of Atjeh and its Dependencies", "Government of Aceh and Dependencies", "Atjeh and Dependencies", "Gouvernement Atjeh", "Atjeh en Onderhoorigh.", "Gewest Atjeh", "Residency of Atjeh and Dependencies", "Aceh Governorate", "Atjeh-residency", "Atjeh en Onderhoorigheden", "Atjeh's Onderhoorigheden", "Onderhoorigheden", "Atjeh Dependencies", "Atjeh en Onderhorigheden", "Government of Atjeh and Dependencies", "Gouvernement van Atjeh", "Atjeh government"]
+
 tags: [place, organization, gouvernement, residency, region, colonial, dutch, aceh, sumatra, buitenbezittingen, military, tramway, administrative-division, achehnese-history]
 description: "The Gouvernement Atjeh en Onderhoorigheden (Government of Atjeh and Dependencies) was a Dutch colonial administrative unit in North Sumatra. Its head bore the title of Gouverneur (Governor), a rank higher than the Resident who headed most other territorial units."
 ---

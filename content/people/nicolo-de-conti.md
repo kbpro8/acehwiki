@@ -1,7 +1,8 @@
 ---
 
 title: Nicolo de Conti
-aliases: ["Niccolò de' Conti, De Conti, Conti, Nicolaus de Conti"]
+aliases: ["Niccolò de' Conti", "De Conti", "Conti", "Nicolaus de Conti"]
+
 tags: [person, traveller, venetian, italian, 15th-century]
 ---
 

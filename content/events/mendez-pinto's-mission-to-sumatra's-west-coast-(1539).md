@@ -1,6 +1,7 @@
 ---
 title: "Mendez Pinto's mission to Sumatra's west coast (1539)"
-aliases: ["Pinto's mission to the gold-lands (1539), Pinto to Batu (1539), First Pinto mission"]
+aliases: ["Pinto's mission to the gold-lands (1539)", "Pinto to Batu (1539)", "First Pinto mission"]
+
 tags: [event, portuguese, sumatra, west-coast, 16th-century]
 ---
 

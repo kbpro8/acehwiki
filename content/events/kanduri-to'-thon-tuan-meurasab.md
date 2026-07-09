@@ -1,6 +1,7 @@
 ---
 title: "Kanduri to' thon Tuan Meurasab"
-aliases: ["kanduri to' thon, Tuan Meurasab feast, kanduri Meurasab, anniversary of Tuan Meurasab"]
+aliases: ["kanduri to' thon", "Tuan Meurasab feast", "kanduri Meurasab", "anniversary of Tuan Meurasab"]
+
 tags: [event, ceremony, feast, kanduri, saints, calendar]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Urb'e Raya (Feasting Month)"
-aliases: ["Urb'e Raya, Urbe Raya, Feasting month, Chawal, Shawwal in Acheh"]
+aliases: ["Urb'e Raya", "Urbe Raya", "Feasting month", "Chawal", "Shawwal in Acheh"]
+
 tags: [event, calendar, religious, ramadhan]
 ---
 

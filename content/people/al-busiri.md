@@ -1,6 +1,7 @@
 ---
 title: Al-Busiri
-aliases: [Al-Busiri, al-Busiri, al-Būṣīrī, Al-Buṣīrī, al-Būsīrī, Al-Būsīrī, al-Bousiri, al-Būri, Busiri, Al-Busiri (poet), al-Busiri (d. 1295), Imam al-Busiri, Abu al-Hasan al-Busiri, Abu al-Qasim al-Busiri, "Muhammad ibn Sa'id al-Busiri, Muhammad al-Busiri, Sharaf al-Din Abu Abdallah Muhammad ibn Said al-Busiri, Sharaf al-Din Muhammad ibn Sa'id al-Busiri", Sharaf al-Dīn Abū ʿAbdallāh Muḥammad ibn Saʿīd al-Būsīrī, Sharaf al-Dīn Abū ʿAbdallāh Muḥammad ibn Saʿīd al-Dulāst al-Būsīrī]
+aliases: ["Al-Busiri", "al-Busiri", "al-Būṣīrī", "Al-Buṣīrī", "al-Būsīrī", "Al-Būsīrī", "al-Bousiri", "al-Būri", "Busiri", "Al-Busiri (poet)", "al-Busiri (d. 1295)", "Imam al-Busiri", "Abu al-Hasan al-Busiri", "Abu al-Qasim al-Busiri", "Muhammad ibn Sa'id al-Busiri", "Muhammad al-Busiri", "Sharaf al-Din Abu Abdallah Muhammad ibn Said al-Busiri", "Sharaf al-Din Muhammad ibn Sa'id al-Busiri", "Sharaf al-Dīn Abū ʿAbdallāh Muḥammad ibn Saʿīd al-Būsīrī", "Sharaf al-Dīn Abū ʿAbdallāh Muḥammad ibn Saʿīd al-Dulāst al-Būsīrī"]
+
 tags: [person, poet, arabic, islamic, sufi, mystic, devotional, precolonial, acehnese, calligrapher, scholar, shadhiliyya, mamluk]
 description: "13th-century Egyptian Sufi poet of the Shadhiliyya order, best known for composing the Qaṣīda al-Burda (Poem of the Cloak) in praise of the Prophet Muhammad, a work that became a cornerstone of devotional practice in the Sultanate of Aceh and across the Islamic world."
 ---

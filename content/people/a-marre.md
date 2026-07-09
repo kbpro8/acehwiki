@@ -1,7 +1,8 @@
 ---
 
 title: A. Marre
-aliases: ["Aristide Marre\", Aristide Marre (translator of Hikayat Raja-Raja Pasai)\"", "Marre\""]
+aliases: ["Aristide Marre\"", "Aristide Marre (translator of Hikayat Raja-Raja Pasai)\"", "Marre\""]
+
 tags: ["french", "orientalist", "person", "scholar"]
 ---
 **A. Marre** was a French orientalist whose [[1874]] *Sumatra, Histoire des rois de Pasey* — a French rendering of the [[Hikajat Radja-radja Pasei|Malay chronicle of the kings of Pasai]] — made the historical tradition of [[Pasei|Samudra Pasai]], the early Muslim kingdom on the north coast of [[Acheh|Atjeh]], available in French a quarter-century after [[E. Dulaurier]]'s [[1849]] edition of the same text. Marre's translation is cited in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 209, footnote) in connection with the Minangkabau buffalo-fight founding legend, for which the Pasai chronicle is among the early Malay textual witnesses, and is listed in the *Lijst van geschriften* (bibliography) of *De Karbouw* (p. 264) as "MARRE, A., Sumatra, Histoire des rois de Pasey, [[1874]]."

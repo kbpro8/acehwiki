@@ -1,6 +1,7 @@
 ---
 title: Bustan al-Salatin
-aliases: ["Bustanu's-Salatin, Bustān as-Salāṭīn, Bustan as-Salatin, Bustan us-Salatin, Boestan oes-Salāṭīn, Boestan oes-Salatin, Bustan al-Salatin of Raniri, Raniri's Bustan", Lusthof der Vorsten, Garden of Kings]
+aliases: ["Bustanu's-Salatin", "Bustān as-Salāṭīn", "Bustan as-Salatin", "Bustan us-Salatin", "Boestan oes-Salāṭīn", "Boestan oes-Salatin", "Bustan al-Salatin of Raniri", "Raniri's Bustan", "Lusthof der Vorsten", "Garden of Kings"]
+
 tags: [document, mirror-for-princes, malay-literature, precolonial, 17th-century, aceh, islamic, raniri, didactic, historical-work, religious-work]
 description: "A Malay Islamic didactic and historical compendium composed by Nur al-Din al-Raniri at Aceh in 1638, and the second of the two principal Acehnese-composed \"mirrors for princes\"."
 ---

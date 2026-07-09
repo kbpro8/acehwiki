@@ -1,6 +1,7 @@
 ---
 title: Nias
-aliases: [Nias, Nieh, Nias Island, Pulau Nias, "Nii'h, Niasese island"]
+aliases: ["Nias", "Nieh", "Nias Island", "Pulau Nias", "Nii'h", "Niasese island"]
+
 tags: [place, sacred-site, foreign-land, island, foreign]
 ---
 

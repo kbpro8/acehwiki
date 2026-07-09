@@ -1,6 +1,7 @@
 ---
 title: "Ateue'"
-aliases: [Ateue, "Ateuë', Ateuë"]
+aliases: ["Ateue", "Ateuë'", "Ateuë"]
+
 tags: [place, mukim, xxii-mukims]
 ---
 

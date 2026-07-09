@@ -1,6 +1,7 @@
 ---
 title: Kraton Atjeh
-aliases: [Kraton (Aceh), Kraton Aceh, Kraton Atjèh, Atjehse kraton, Atjehnese kraton, Aceh kraton, "Sultan's kraton Atjeh, Royal Palace of Aceh"]
+aliases: ["Kraton (Aceh)", "Kraton Aceh", "Kraton Atjèh", "Atjehse kraton", "Atjehnese kraton", "Aceh kraton", "Sultan's kraton Atjeh", "Royal Palace of Aceh"]
+
 tags: [place, atjeh, groot-atjeh, palace, fortification, dutch-colonial, 19th-century, military, aceh, 1873]
 description: "The palace-fortress of the sultan of Acheh at Kotta-Radja — principal fortification of the Achehnese sultanate, captured by Dutch forces on 24 January 1874 and transformed into the colonial capital."
 ---

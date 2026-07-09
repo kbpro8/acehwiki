@@ -1,6 +1,7 @@
 ---
 title: Koepiah der Atjehers
-aliases: [koepiah, kupiah, Atjehsche koepiah, Atjeh cap, Acehnese skullcap, "Atjehers' koepiah, koepiah of the Atjehers, kopiah"]
+aliases: ["koepiah", "kupiah", "Atjehsche koepiah", "Atjeh cap", "Acehnese skullcap", "Atjehers' koepiah", "koepiah of the Atjehers", "kopiah"]
+
 tags: [concept, garment, achehnese, headwear, plaiting, precolonial]
 ---
 

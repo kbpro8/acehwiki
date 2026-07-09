@@ -1,6 +1,7 @@
 ---
 title: Parisi
-aliases: ["in Hikayats Banta Ali\", Chut Gambang China\"", "Pha Suasa\""]
+aliases: ["in Hikayats Banta Ali\"", "Chut Gambang China\"", "Pha Suasa\""]
+
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

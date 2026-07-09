@@ -1,6 +1,7 @@
 ---
 title: Feast of the Birthday of Mohammad
-aliases: [Maulud, Mulud, Mawlid, "Mo'lot, Feast of the birth of the Prophet"]
+aliases: ["Maulud", "Mulud", "Mawlid", "Mo'lot", "Feast of the birth of the Prophet"]
+
 tags: [event, religious, festival, calendar, maulud]
 ---
 

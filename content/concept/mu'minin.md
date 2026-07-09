@@ -1,6 +1,7 @@
 ---
 title: "mu'minin"
-aliases: ["mu'minin, mu’minīn, believers"]
+aliases: ["mu'minin", "mu’minīn", "believers"]
+
 tags: [concept, islamic, acehnese]
 ---
 **mu'minin** were the plural form of the Arabic word *mu'min* “believer”, used in Acehnese religious literature to denote the community of faithful Muslims. The term appears in the 16th‑century Malay translation of the *Burda* (page [[88]]), where it is listed among other theological vocabulary.

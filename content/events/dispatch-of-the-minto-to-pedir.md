@@ -1,6 +1,7 @@
 ---
 title: Dispatch of the Minto to Pedir
-aliases: [Minto to Pedir, "Raffles' dispatch of the Minto, Criddle's mission to Pedir"]
+aliases: ["Minto to Pedir", "Raffles' dispatch of the Minto", "Criddle's mission to Pedir"]
+
 tags: [event, mission, colonial, diplomacy]
 ---
 

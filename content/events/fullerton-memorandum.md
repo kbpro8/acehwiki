@@ -1,6 +1,7 @@
 ---
 title: Fullerton Memorandum
-aliases: [Fullerton memorandum of 1825, "Governor Fullerton's memorandum, 1825 Fullerton despatch"]
+aliases: ["Fullerton memorandum of 1825", "Governor Fullerton's memorandum", "1825 Fullerton despatch"]
+
 tags: [event, political, diplomatic, colonial, british]
 ---
 

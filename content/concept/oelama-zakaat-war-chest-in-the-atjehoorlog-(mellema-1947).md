@@ -1,6 +1,7 @@
 ---
 title: Oelama zakaat war-chest in the Atjehoorlog (Mellema 1947)
-aliases: [Zakaat as war-chest in the Atjehoorlog, Oelama as zakaat-collectors in Atjeh, Zakaat diversion in the Aceh War, Atjehoorlog zakaat, Oelama of Atjeh (Mellema account), Zakaatinner in Atjeh, "Particuliere krijgskas of the Atjeh oelama's, Underground war-chest of the Atjehoorlog"]
+aliases: ["Zakaat as war-chest in the Atjehoorlog", "Oelama as zakaat-collectors in Atjeh", "Zakaat diversion in the Aceh War", "Atjehoorlog zakaat", "Oelama of Atjeh (Mellema account)", "Zakaatinner in Atjeh", "Particuliere krijgskas of the Atjeh oelama's", "Underground war-chest of the Atjehoorlog"]
+
 tags: [concept, religious, military, taxation, holy-war, achehnese, oelama, zakaat, atjehoorlog, comparative, mellema-1947]
 ---
 

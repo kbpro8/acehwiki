@@ -1,6 +1,7 @@
 ---
 title: Pante Teungoh
-aliases: ["Pante Teungoh Middle Bank\", Middle Bank, Pante Teungoh (Acheh)"]
+aliases: ["Pante Teungoh Middle Bank\"", "Middle Bank", "Pante Teungoh (Acheh)"]
+
 tags: [place, locality, gampong, bank, capital]
 ---
 

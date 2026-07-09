@@ -1,7 +1,8 @@
 ---
 
 title: Thomas Best
-aliases: ["Best\", Thomas Best (English envoy)\"", "Thomas Best's voyage to Atjeh\""]
+aliases: ["Best\"", "Thomas Best (English envoy)\"", "Thomas Best's voyage to Atjeh\""]
+
 tags: ["colonial", "english", "envoy", "maritime", "person"]
 ---
 **Thomas Best** was an English sea-captain and envoy of the [[East India Company]] who, in [[1613]], visited the court of [[Sultan Iskandar Muda]] in [[Acheh|Atjeh]] during the [[Atjeh bloeitijdperk ([[1607]]-[[1636]])|bloeitijdperk]] (golden age) of the sultanate, and whose journal preserves one of the earliest European eyewitness descriptions of court spectacle at [[Banda Acheh|Koetaradja]] — including a celebrated passage on the buffalo fight staged in his honour. Best's visit is recorded in his journal, edited and published by [[William Foster]] as *The Voyage of Thomas Best to the East Indies, 1612-14* (London: Hakluyt Society, [[1934]]), and is cited in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (drawing in turn on [[J. Kreemer|Kreemer]]'s own [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]], vol. I, p. 192) as the principal first-hand account of buffalo-fights as a courtly entertainment in [[Acheh]].
