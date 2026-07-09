@@ -1,7 +1,7 @@
 ---
 title: Abu Bakr
 aliases: [Abu Bahr, Abu Bakr al‑Siddiq, Abu Bakr (companion)]
-tags: [person, religious-figure, companion, early‑islam]
+tags: ["person", "religious-figure", "companion", "early-islam"]
 ---
 
 **Abu Bakr** (also written, by an obvious clerical error, **Abu Bahr**) was the first of the four Rashidūn caliphs of Islam, the close companion of the Prophet [[Muhammad]], and the inaugural Caliph of the nascent Muslim community. He is named alongside [[Omar]], [[Uthman]] and [[Ali]] in the preamble of the Achehnese sultans’ letters patent (*sarakata*), and his name also appears in the Malay translation of the *Burda* where a passage recounts his refuge with the Prophet in a cave, symbolising divine protection.

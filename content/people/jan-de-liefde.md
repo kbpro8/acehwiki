@@ -1,7 +1,7 @@
 ---
 title: Jan de Liefde
 aliases: [Jan de Liefde, Vice‑Admiral Jan de Liefde]
-tags: [person, vice‑admiral, dutch]
+tags: ["person", "vice-admiral", "dutch"]
 ---
 **Jan de Liefde** was a Dutch vice‑admiral who served under **[[Michiel de Ruyter]]** during the **[[Battle of Schooneveld]]** (1666).  According to the source, he was among the senior officers who fell in the action, his death contributing to the high cost of the battle for the **[[Dutch Republic]]** (see [[275]]).  As a senior naval commander, de Liefde played a part in safeguarding the **[[Indische retourvloot]]**, whose voyages to **[[Aceh]]** were essential for the **[[Dutch East India Company]]**’s spice trade.
 

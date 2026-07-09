@@ -1,7 +1,7 @@
 ---
 title: Zakariyyā al‑Ansåri
 aliases: [Zakariyyā al‑Ansari, Zakariyya al‑Ansari]
-tags: [person, scholar, Arabic, 15th‑century]
+tags: ["person", "scholar", "Arabic", "15th-century"]
 ---
 **Zakariyyā al‑Ansåri** was a 15th‑century Arabic scholar who authored a commentary on the kasida *al‑mannaridja* (Van Ronkel, no 852/853). His work reflects the scholarly tradition of interpreting devotional poetry for practical and theological purposes.
 

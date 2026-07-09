@@ -1,7 +1,7 @@
 ---
 title: Carmen Arabicum Amäli dictum
 aliases: [Latin-German translation of Kasida al-Lamiyya]
-tags: [document, translation, german, latin, 19th‑century]
+tags: ["document", "translation", "german", "latin", "19th-century"]
 ---
 **Carmen Arabicum Amäli dictum** is the Latin‑German translation of the creed poem *[[Bad' al-Amali|Kasida al-Lamiyya fil-tawwidd]]* published by [[P. von Bohlen]] in [[1825]]. The work presented the Arabic text with accompanying Latin and German commentary.
 

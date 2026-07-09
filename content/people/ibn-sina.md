@@ -1,7 +1,7 @@
 ---
 title: Ibn Sina (Avicenna)
 aliases: [Ibn Sina, Avicenna, Abu Ali al‑Husayn ibn Abdallah ibn Sina]
-tags: [person, philosopher, Arabic, 11th‑century]
+tags: ["person", "philosopher", "Arabic", "11th-century"]
 ---
 **Ibn Sina**, known in the West as **Avicenna**, was an 11th‑century Persian polymath whose kasida *al‑sainiyya* appears in the Jakarta manuscript collection (Van Ronkel, no ?; later translated by Henri Massé in *Revue du Caire* [[1914]]). The poem’s inclusion illustrates the breadth of Arabic literary works circulating in Aceh and the wider Indonesian world.
 

@@ -1,7 +1,7 @@
 ---
 title: Akhond Derwizeh
 aliases: [Akhond Derwizeh]
-tags: [person, scholar, persian, 16th‑century, rawshaniyya]
+tags: ["person", "scholar", "persian", "16th-century", "rawshaniyya"]
 ---
 **Akhond Derwizeh** was a Persian scholar who authored a commentary on the creed poem of [[Siraj al-Din Abu Muhammad Ali ibn Uthman al-Ushi]]. He is noted in the source as an opponent and biographer of [[Bayazid]], founder of the [[Rawshaniyya]] sect.
 

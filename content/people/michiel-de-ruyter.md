@@ -1,7 +1,7 @@
 ---
 title: Michiel de Ruyter
 aliases: ["Michiel Adriaenszoon de Ruyter", "Admiral de Ruyter"]
-tags: [person, admiral, dutch, naval, aceh, 17th‑century]
+tags: ["person", "admiral", "dutch", "naval", "aceh", "17th-century"]
 ---
 
 **Michiel de Ruyter** was a pre‑eminent [[Dutch Republic|Dutch]] admiral who served the [[Dutch Navy]] and the [[Dutch East India Company|VOC]] from the mid‑[[1640s]] until his death in [[1676]], commanding major naval actions such as the [[Battle of Schooneveld]] [[1666]], the [[Battle of Kijkduin]] [[1673]], the [[Battle of Solebay]] [[1672]], the raid on the [[River Medway]] during the [[Second Anglo‑Dutch War|Second Anglo‑Dutch War]] [[1665]]–[[1667]], and leading a large squadron to the Caribbean in [[1674]]. His tactical skill secured the safety of the [[Indische retourvloot|Indies return fleet]]—the lifeline of Dutch spice trade with the Sultanate of [[Aceh]]—and his strategic decisions were later invoked in discussions of Dutch colonial naval doctrine.

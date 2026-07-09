@@ -1,7 +1,7 @@
 ---
 title: Georg Andreas Ludwig Brockelmann
 aliases: [G. A. L. Brockelmann, Brockelmann, Georg Heinrich Brockelmann]
-tags: [person, scholar, bibliographer, german, bibliography, 20th‑century]
+tags: ["person", "scholar", "bibliographer", "german", "bibliography", "20th-century"]
 ---
 
 **Georg Andreas Ludwig Brockelmann** ([[1869]] – [[1952]]) was a [[German]] [[bibliographer]] whose monumental catalogues of Arabic manuscripts—most famously the *Geschichte der arabischen Litteratur*—are repeatedly cited for listings of *takhmīs* and related works on the [[Burda (poem)]]. He also compiled a comprehensive catalogue of commentaries on the creed poem of [[Siraj al‑Dīn Abu Muhammad ʿAlī ibn Uthmān al‑Ushī]], documenting at least twenty‑nine commentaries in [[Persian]], [[Turkish]], [[Hindustani]] and other languages. Brockelmann’s bibliographic entries facilitated the identification of manuscripts that later entered the Malay scholarly community of the [[Sultanate of Acheh]].

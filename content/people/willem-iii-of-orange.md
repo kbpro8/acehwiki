@@ -1,7 +1,7 @@
 ---
 title: Willem III of Orange
 aliases: [William III of England, William of Orange, Willem III]
-tags: [person, stadtholder, dutch, 17th‑century, political]
+tags: ["person", "stadtholder", "dutch", "17th-century", "political"]
 ---
 **Willem III of Orange** was the Stadtholder of the Dutch Republic and later King of England, Scotland and Ireland. In the source he is presented as the “Prins van Oranje” (Prince of Orange) who, during the Franco‑Dutch conflicts of the early 1670s, sought to coordinate the allied forces of the **Dutch Republic**, **Spain**, and various German princes against the French. His strategic aims included the rapid recapture of **Maastricht** and **Grave**, and the decisive defeat of the French field army, as described in the discussion of the campaigns of 1673‑1674.
 

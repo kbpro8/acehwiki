@@ -1,7 +1,7 @@
 ---
 title: Ibn Zarrük al‑Burnüsi
 aliases: [Ibn Zarrük al‑Burnusi, Ibn Zarrük]
-tags: [person, scholar, Arabic, 16th‑century]
+tags: ["person", "scholar", "Arabic", "16th-century"]
 ---
 **Ibn Zarrük al‑Burnüsi** was a 16th‑century Arabic scholar whose commentary on a kasida concerning the names of God (*k. al‑Dima’ al‑hadjdj wa ‘Ittimār*) is catalogued in the Jakarta manuscript collection (Van Ronkel, no 316). His work reflects the scholarly engagement with Arabic devotional poetry in the Indonesian archipelago.
 

@@ -1,7 +1,7 @@
 ---
 title: Afghanistan
 aliases: []
-tags: [place, central‑asia, historical]
+tags: ["place", "central-asia", "historical"]
 ---
 **Afghanistan** is a landlocked country in Central Asia. In the 16th century, under the reign of [[Akbar]], it was a region where the *[[Bad' al-Amali|Kasida al-Lamiyya fil-tawwidd]]* enjoyed considerable circulation, as noted in the source.
 

@@ -1,7 +1,7 @@
 ---
 title: Atjeh campaign (26 December 1875 – 7 February 1876)
 aliases: [Atjeh campaign early 1876]
-tags: [event, military, aceh, colonial, 19th‑century]
+tags: ["event", "military", "aceh", "colonial", "19th-century"]
 ---
 **Atjeh campaign (26 December 1875 – 7 February 1876)** denotes the initial phase of the Dutch offensive in [[Atjeh (Aceh)]] that concluded with a temporary withdrawal on [[7 February 1876]]. This shorter timeframe is the subject of a second Cambier monograph titled *De mariniers te Atjeh van 26 December 1875 tot 7 February 1876* (see page 473).  
 

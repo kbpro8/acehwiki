@@ -1,7 +1,7 @@
 ---
 title: J. S. Broers
 aliases: ["J. S. Broers", "Broers (Société Financière)"]
-tags: ["person", "dutch", "plantation", "société-financière", "atjeh", "westkust-van-atjeh"]
+tags: ["person", "dutch", "plantation", "societe-financiere", "atjeh", "westkust-van-atjeh"]
 ---
 
 **J. S. Broers** was a Dutch plantation inspector (*inspecteur*) of the Société Financière des Caoutchoucs (Soc. Fin. d. C.) who served in Sumatra for over three decades. He arrived in Deli in 1919 and entered the service of the Société Financière on 1 April [[1920]]. Before the war he was transferred as inspector to the West Coast of [[Atjeh]] (*Westkust van Atjeh*). After the Japanese occupation and internment, he served from early [[1946]] in Medan as inspector until his repatriation to the Netherlands on 30 August [[1952]] aboard the *Willem Ruys*.

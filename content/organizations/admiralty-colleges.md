@@ -1,7 +1,7 @@
 ---
 title: Admiralty colleges
 aliases: [Admiraliteitscolleges, Dutch Admiralties]
-tags: [organization, naval, dutch, 17th‑century, aceh]
+tags: ["organization", "naval", "dutch", "17th-century", "aceh"]
 ---
 **Admiralty colleges** were the administrative bodies of the **Dutch Navy**, responsible for shipbuilding, provisioning, and strategic planning. The source cites them repeatedly as the “opdrachtgevers in Den Haag” (commissioners in **The Hague**) who bore ultimate responsibility for the failure of a landing operation in [[1674]]. The author argues that De Ruyter’s lack of direct command over the landing troops was due to the Admiralty’s delegation of authority.
 

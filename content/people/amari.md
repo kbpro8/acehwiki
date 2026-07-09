@@ -1,7 +1,7 @@
 ---
 title: Amari
 aliases: [Amari (journalist), Amari (author)]
-tags: [person, scholar, french, 19th century]
+tags: ["person", "scholar", "french", "19th century"]
 ---
 **Amari** was a 19th‑century French author cited in the source (Journal Asiatique, 1853) for his observations on the *Burda* manuscript tradition. His writings contributed to the European scholarship that filtered into the Malay translation used in the Sultanate of [[Acheh]].
 

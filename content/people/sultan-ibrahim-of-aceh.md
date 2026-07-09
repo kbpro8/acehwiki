@@ -1,7 +1,7 @@
 ---
 title: Sultan Ibrahim of Aceh
 aliases: [Ibrahim, Sultan of Aceh (1585–1620), Sultan Ibrahim (Aceh)]
-tags: [person, sultan, acehnese, early‑modern]
+tags: ["person", "sultan", "acehnese", "early-modern"]
 ---
 **Sultan Ibrahim of Aceh** reigned over the Sultanate of [[Acheh]] from [[1585]] to [[1620]], overseeing a period of literary flourishing that included the patronage of Malay translations of Arabic devotional texts such as the *Burda*.
 

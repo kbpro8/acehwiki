@@ -1,7 +1,7 @@
 ---
 title: Böngkisan Budi
 aliases: []
-tags: [person, scholar, indonesian, 20th‑century]
+tags: ["person", "scholar", "indonesian", "20th-century"]
 ---
 **Böngkisan Budi** was an Indonesian scholar whose work appears in the bibliography *Van Ronkel* (see source). He is cited in the discussion of the manuscript tradition of the creed poem.
 

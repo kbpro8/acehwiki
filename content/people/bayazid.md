@@ -1,7 +1,7 @@
 ---
 title: Bayazid
 aliases: [Bayazid (founder of Rawshaniyya)]
-tags: [person, founder, sect, sufi, 16th‑century]
+tags: ["person", "founder", "sect", "sufi", "16th-century"]
 ---
 **Bayazid** was a Sufi mystic and the founder of the [[Rawshaniyya]] sect. He is mentioned in the source as the subject of a biography by [[Akhond Derwizeh]].
 

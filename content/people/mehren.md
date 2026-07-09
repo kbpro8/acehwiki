@@ -1,7 +1,7 @@
 ---
 title: Mehren
 aliases: [Mehren (scholar), Mehren]
-tags: [person, scholar, german, 19th century]
+tags: ["person", "scholar", "german", "19th century"]
 ---
 **Mehren** was a German orientalist referenced in the source (Journal Asiatique, 1879) for his contributions to the study of the *Burda* poem. His research formed part of the academic background that informed later Malay translations for the Sultanate of [[Acheh]].
 

@@ -1,7 +1,7 @@
 ---
 title: Ceuta
 aliases: [Ceuta (Spain), Ceuta (North Africa)]
-tags: [place, city, north‑africa, colonial]
+tags: ["place", "city", "north-africa", "colonial"]
 ---
 **Ceuta** is a Spanish enclave on the North African coast. The source cites it as the location where scholars answered questions posed by [[Frederick II, Holy Roman Emperor]], demonstrating the broad scholarly network that engaged with the *Burda* poem. Knowledge of the poem traveled from such Mediterranean centres to the Sultanate of [[Acheh]] via Arabic scholars and Malay translators.
 

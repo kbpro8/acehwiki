@@ -1,7 +1,7 @@
 ---
 title: Bivouacs on Groot Atjeh
 aliases: [Bivaks op Groot Atjeh, Aceh bivouac camps]
-tags: [event, military, aceh, colonial, 19th‑century]
+tags: ["event", "military", "aceh", "colonial", "19th-century"]
 ---
 **Bivouacs on Groot Atjeh** were temporary Dutch marine encampments established in the interior of [[Groot Atjeh]] during the [[Aceh Expedition (1873–1876)|Atjeh expedition (1873–1876)]] and the subsequent [[Aceh Expedition (1873–1876)|Atjeh campaign (26 December 1875 – 4 September 1876)]]. The locations are noted on the *Map of Groot Atjeh* (c. [[1873]]) and described in Cambier’s monographs (see pages 471‑473).  
 

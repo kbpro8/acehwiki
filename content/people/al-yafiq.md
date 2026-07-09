@@ -1,7 +1,7 @@
 ---
 title: Al‑Yāfiq
 aliases: [Al‑Yāfiq, al‑Yafiq]
-tags: [person, poet, Arabic, 14th‑century]
+tags: ["person", "poet", "Arabic", "14th-century"]
 ---
 **Al‑Yāfiq** was a 14th‑century Arabic poet whose two kasidas (*k. al‑bahiyya ft madh khair al‑bariyya* and *k. al‑djāmisa al‑Shams al‑imān wa‑lawhjdd al‑Rahmān*) are listed in the Jakarta manuscript collection (Van Ronkel, nos 894 & 272). These poems illustrate the continued production of devotional Arabic poetry that later reached the Malay world.
 

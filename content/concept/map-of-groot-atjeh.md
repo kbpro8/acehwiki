@@ -1,7 +1,7 @@
 ---
 title: Map of Groot Atjeh
 aliases: [Kaart van Groot Atjeh, Great Aceh map]
-tags: [document, map, aceh, colonial, 19th‑century]
+tags: ["document", "map", "aceh", "colonial", "19th-century"]
 ---
 **Map of Groot Atjeh** is a Dutch cartographic work dated circa [[1873]] that depicts the interior of [[Atjeh (Aceh)]], including river systems, topography, and the locations of Dutch bivouacs during the 1875‑1876 campaigns. The map is reproduced in the *De geschiedenis van het Nederlandsche Korps Mariniers* (page 471) and was used by the [[Royal Netherlands Marine Corps|Korps Mariniers]] for operational planning.  
 
