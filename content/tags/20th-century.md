@@ -1,9 +1,9 @@
 ---
-title: "20th‑century"
+title: "20th century"
 tags: [tag]
-description: "**20th‑century** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below."
+description: "Pertaining to the years 1900-1999, including the late Aceh War, the Japanese occupation, the Indonesian revolution, and the Darul Islam rebellion."
 ---
 
-**20th‑century** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below.
+Pertaining to the years 1900-1999, including the late Aceh War, the Japanese occupation, the Indonesian revolution, and the Darul Islam rebellion.
 
-This tag is applied to 2 entries in the AcehWiki.
+This tag is applied to 32 entries in the AcehWiki.

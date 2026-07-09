@@ -1,9 +1,9 @@
 ---
-title: "Early‑modern"
+title: "Early modern"
 tags: [tag]
-description: "**Early‑modern** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below."
+description: "Pertaining to the early modern period (c. 1500-1800), during which the Sultanate of Aceh was a major Indian Ocean power."
 ---
 
-**Early‑modern** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below.
+Pertaining to the early modern period (c. 1500-1800), during which the Sultanate of Aceh was a major Indian Ocean power.
 
 This tag is applied to 1 entries in the AcehWiki.

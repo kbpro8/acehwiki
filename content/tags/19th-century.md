@@ -1,9 +1,9 @@
 ---
-title: "19th‑century"
+title: "19th century"
 tags: [tag]
-description: "**19th‑century** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below."
+description: "Pertaining to the years 1800-1899, marked by the treaties of 1819 and 1824, the Padri War, and the outbreak of the Aceh War in 1873."
 ---
 
-**19th‑century** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below.
+Pertaining to the years 1800-1899, marked by the treaties of 1819 and 1824, the Padri War, and the outbreak of the Aceh War in 1873.
 
-This tag is applied to 11 entries in the AcehWiki.
+This tag is applied to 2 entries in the AcehWiki.

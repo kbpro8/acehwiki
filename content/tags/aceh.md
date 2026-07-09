@@ -6,4 +6,4 @@ description: "The northernmost province of Sumatra, historically the seat of the
 
 The northernmost province of Sumatra, historically the seat of the Sultanate of Aceh and the central subject of the AcehWiki.
 
-This tag is applied to 447 entries in the AcehWiki.
+This tag is applied to 449 entries in the AcehWiki.

@@ -1,9 +1,9 @@
 ---
-title: "Société financière"
+title: "Societe financiere"
 tags: [tag]
-description: "**Société financière** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below."
+description: "**Societe financiere** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below."
 ---
 
-**Société financière** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below.
+**Societe financiere** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below.
 
 This tag is applied to 2 entries in the AcehWiki.

@@ -1,9 +1,9 @@
 ---
-title: "17th‑century"
+title: "17th century"
 tags: [tag]
-description: "**17th‑century** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below."
+description: "Pertaining to the years 1600-1699, the golden age of the Sultanate of Aceh under Iskandar Muda and the female sovereigns."
 ---
 
-**17th‑century** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below.
+Pertaining to the years 1600-1699, the golden age of the Sultanate of Aceh under Iskandar Muda and the female sovereigns.
 
-This tag is applied to 3 entries in the AcehWiki.
+This tag is applied to 168 entries in the AcehWiki.

@@ -6,4 +6,4 @@ description: "Pertaining to the period before European colonial domination of Ac
 
 Pertaining to the period before European colonial domination of Aceh, especially before the Dutch intervention of 1873.
 
-This tag is applied to 161 entries in the AcehWiki.
+This tag is applied to 165 entries in the AcehWiki.

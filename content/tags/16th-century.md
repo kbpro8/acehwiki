@@ -1,9 +1,9 @@
 ---
-title: "16th‑century"
+title: "16th century"
 tags: [tag]
-description: "**16th‑century** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below."
+description: "Pertaining to the 16th century (the 1600s), a period documented in AcehWiki entries on Acehnese and regional history."
 ---
 
-**16th‑century** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below.
+Pertaining to the 16th century (the 1600s), a period documented in AcehWiki entries on Acehnese and regional history.
 
-This tag is applied to 4 entries in the AcehWiki.
+This tag is applied to 66 entries in the AcehWiki.

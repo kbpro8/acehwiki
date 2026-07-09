@@ -1,9 +1,9 @@
 ---
-title: "11th‑century"
+title: "11th century"
 tags: [tag]
-description: "**11th‑century** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below."
+description: "Pertaining to the 11th century (the 1100s), a period documented in AcehWiki entries on Acehnese and regional history."
 ---
 
-**11th‑century** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below.
+Pertaining to the 11th century (the 1100s), a period documented in AcehWiki entries on Acehnese and regional history.
 
-This tag is applied to 1 entries in the AcehWiki.
+This tag is applied to 4 entries in the AcehWiki.

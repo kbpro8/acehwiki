@@ -1,9 +1,9 @@
 ---
-title: "15th‑century"
+title: "15th century"
 tags: [tag]
-description: "**15th‑century** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below."
+description: "Pertaining to the 15th century (the 1500s), a period documented in AcehWiki entries on Acehnese and regional history."
 ---
 
-**15th‑century** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below.
+Pertaining to the 15th century (the 1500s), a period documented in AcehWiki entries on Acehnese and regional history.
 
-This tag is applied to 1 entries in the AcehWiki.
+This tag is applied to 6 entries in the AcehWiki.

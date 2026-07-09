@@ -1,9 +1,9 @@
 ---
-title: "14th‑century"
+title: "14th century"
 tags: [tag]
-description: "**14th‑century** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below."
+description: "Pertaining to the 14th century (the 1400s), a period documented in AcehWiki entries on Acehnese and regional history."
 ---
 
-**14th‑century** is a tag used in the AcehWiki to group entries that share this subject, theme, region, period, or entity type. Entries with this tag are listed below.
+Pertaining to the 14th century (the 1400s), a period documented in AcehWiki entries on Acehnese and regional history.
 
-This tag is applied to 1 entries in the AcehWiki.
+This tag is applied to 7 entries in the AcehWiki.
