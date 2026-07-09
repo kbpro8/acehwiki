@@ -3,7 +3,7 @@ title: Henri Laoust
 aliases: [Henri Laoust, H. Laoust]
 tags: [person, scholar, orientalism]
 ---
-**Henri Laoust** was a French Orientalist who, in his *Essai sur les doctrines sociales et politiques de Taki‑d‑Din Almad b. Taimtya* (1939), noted the anti‑Wahhabi condemnation of the [[Burda]] by scholars such as [[Abd al‑Rahmān b. Hasan b. al‑Shaikh Muhammad b. Abd al‑Wahhāb]] (see [[PAGE 35]]).
+**Henri Laoust** was a French Orientalist who, in his *Essai sur les doctrines sociales et politiques de Taki‑d‑Din Almad b. Taimtya* (1939), noted the anti‑Wahhabi condemnation of the [[Burda (poem)|Burda]] by scholars such as [[Abd al‑Rahmān b. Hasan b. al‑Shaikh Muhammad b. Abd al‑Wahhāb]] (see [[PAGE 35]]).
 
 ## Scholarly Work
 Laoust’s essay, published in Cairo in 1939, discusses the social and political doctrines of Taki‑d‑Din Almad and references the broader anti‑Wahhabi discourse surrounding the Burda.
@@ -14,7 +14,7 @@ His observations help contextualise the transmission of anti‑Wahhabi sentiment
 ## See Also
 - [[Taki‑d‑Din Almad b. Taimtya]]
 - [[Wahhabism]]
-- [[Burda]]
+- [[Burda (poem)|Burda]]
 - [[Malay translation of the Burda]]
 - [[Abd al‑Rahmān b. Hasan b. al‑Shaikh Muhammad b. Abd al‑Wahhāb]]
 

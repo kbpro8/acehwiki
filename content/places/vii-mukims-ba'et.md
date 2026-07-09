@@ -20,7 +20,7 @@ In the sagi of the [[XXII Mukims]] the power and influence of the uleebalang of 
 
 ## Recognition at the Sultan's Court
 
-At the election of a new sultan, which was usually decided by war between the parties, the scale was turned not so much by the support of the panglimas as by that of the real wielders of power in their sagis. A tradition recorded by Achehnese authorities on adat gives a list of "twelve uleebalangs who appoint and dethrone princes," among whom [[Teuku Ba'et]] of the VII Mukims appears for the [[XXII Mukims]]. Snouck Hurgronje cautions that this list at most represents the conditions of a short period, and that other chiefs — such as [[Teuku Kali]] the [[Panglima Meuseugit Raya]] and the [[Imeum of Lueng Bata]] — often carried more weight than many of the board of twelve.
+At the election of a new sultan, which was usually decided by war between the parties, the scale was turned not so much by the support of the panglimas as by that of the real wielders of power in their sagis. A tradition recorded by Achehnese authorities on adat gives a list of "twelve uleebalangs who appoint and dethrone princes," among whom [[Teuku Ba'et]] of the VII Mukims appears for the [[XXII Mukims]]. Snouck Hurgronje cautions that this list at most represents the conditions of a short period, and that other chiefs — such as [[Teuku Kali Malikon Ade|Teuku Kali]] the [[Panglima Meuseugit Raya]] and the [[Imeum of Lueng Bata]] — often carried more weight than many of the board of twelve.
 
 ## See Also
 

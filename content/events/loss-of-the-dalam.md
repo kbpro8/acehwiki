@@ -22,7 +22,7 @@ The war which followed the loss of the Dalam was thus, from the first, a war wit
 - [[Habib Abdurrahman Zahir]]
 - [[Banda Acheh]]
 - [[Pidie]]
-- [[Coronation of the Sultan]]
+- [[Installation of a New Sultan|Coronation of the Sultan]]
 - [[Adat Meukuta Alam]]
 
 ## Source

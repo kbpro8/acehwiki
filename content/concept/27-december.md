@@ -4,7 +4,7 @@ aliases: [27 December, 27 December 1881]
 tags: [concept, date, aceh, colonial, meusigit-raja]
 ---
 
-**[[27 December]]** is the date of the solemn transfer of the [[Meusigit Raja]] to the Acehnese people on [[27 December]] [[1881]] — in the name of the Dutch government — by the Governor of Atjeh and Dependencies, [[Pruys van der Hoeven|Pruys van der Hoeven]]. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), [[27 December]] is the book's marker of the solemn transfer of the Meusigit Raja.
+**[[27 December]]** is the date of the solemn transfer of the [[Meusigit Raja]] to the Acehnese people on [[27 December]] [[1881]] — in the name of the Dutch government — by the Governor of Atjeh and Dependencies, [[A. Pruys van der Hoeven|A. Pruys van der Hoeven]]. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), [[27 December]] is the book's marker of the solemn transfer of the Meusigit Raja.
 
 ## The solemn transfer
 
@@ -18,8 +18,8 @@ tags: [concept, date, aceh, colonial, meusigit-raja]
 
 - [[Oost-Indisch Journael]]
 - [[Meusigit Raja]]
-- [[Pruys van der Hoeven]]
-- [[Van Lansberge]]
+- [[A. Pruys van der Hoeven|Pruys van der Hoeven]]
+- [[Johan Willem van Lansberge|Van Lansberge]]
 - [[generaal Van Swieten]]
 - [[1881]]
 - [[1879]]

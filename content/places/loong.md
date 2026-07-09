@@ -16,7 +16,7 @@ The punishment had the submission of Loöng and a few neighbouring landscapes as
 
 ## See Also
 
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[Van Lansberge's visit to Aceh (March-April 1877)]]
 - [[Malaboeh]]
 - [[Westkust van Atjeh]]

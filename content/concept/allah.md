@@ -17,7 +17,7 @@ The use of *Allah* in Acehnese poetry reflects the integration of Arabic religio
 
 - [[Muhammad (Prophet of Islam)]]
 - [[Rasulullah]]
-- [[Al‑Burda (Arabic poem)]]
+- [[Burda (poem)|Al‑Burda (Arabic poem)]]
 - [[Arabic terms in Acehnese religious poetry]]
 
 ## Source

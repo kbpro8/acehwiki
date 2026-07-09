@@ -5,7 +5,7 @@ aliases: [Bureau for the Administrative Affairs of the Outer Possessions, Afdeel
 tags: [organization, colonial, dutch, administration, buitenbezittingen, aceh, colonial-bureau]
 ---
 
-**The Bureau voor de Bestuurszaken der Buitenbezittingen** ("Bureau for the Administrative Affairs of the Outer Possessions") was the Dutch colonial administrative bureau established in [[1908]] within the [[Departement van Binnenlandsch Bestuur|Department of the Interior]] to oversee the post-[[Pacificatie van Atjeh|pacification]] administration of the [[Buitenbezittingen|Outer Possessions]] of the Netherlands East Indies, including [[Acheh|Atjeh]]. The Bureau was attached to the office of the [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur for the Administrative Affairs of the Outer Possessions]] — the inaugural holder of which was [[H. Colijn|H. Colijn]] — and was also the institutional home of the [[Encyclopaedisch Bureau|Encyclopaedisch Bureau]] that produced the volume *De Buitenbezittingen 1904 tot 1914*.
+**The Bureau voor de Bestuurszaken der Buitenbezittingen** ("Bureau for the Administrative Affairs of the Outer Possessions") was the Dutch colonial administrative bureau established in [[1908]] within the [[Departement van Binnenlandsch Bestuur|Department of the Interior]] to oversee the post-[[Pacificatie van Atjeh|pacification]] administration of the [[Buitenbezittingen|Outer Possessions]] of the Netherlands East Indies, including [[Acheh|Atjeh]]. The Bureau was attached to the office of the [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur for the Administrative Affairs of the Outer Possessions]] — the inaugural holder of which was [[Hendrikus Colijn|Hendrikus Colijn]] — and was also the institutional home of the [[Encyclopaedisch Bureau|Encyclopaedisch Bureau]] that produced the volume *De Buitenbezittingen 1904 tot 1914*.
 
 ## Account from *De Buitenbezittingen* (1917) — Bureau voor de Bestuurszaken der Buitenbezittingen
 
@@ -13,7 +13,7 @@ The Encyclopaedisch Bureau's account of the [[Bureau voor de Bestuurszaken der B
 
 The Bureau was conceived as an institutional intermediary between the central Government and the local Government organs in the outer possessions: "on the one hand, those officials would be able to provide guidance to the central Government organs regarding what ought to be done in the said regions from the side of the Government; on the other hand, [guidance] to the local Government organs regarding the direction and the views that the central Government wished to see them follow in the exercise of administration."
 
-The Bureau was attached to the office of the [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur voor de Bestuurszaken der Buitenbezittingen]] — the inaugural holder of which, [[H. Colijn|H. Colijn]], was "the first Adviseur for the Administrative Affairs of the Buitenbezittingen, [later] Old-Minister of War, Member of the Eerste Kamer der Staten-Generaal." The Adviseur was "gradually supplied with two Adjuncts" (*een tweetal Adjuncten*) — that is, with two Adjunct-Adviseurs. The [[Encyclopaedisch Bureau|Encyclopaedisch Bureau]] was "further attached to the said bureau since [its establishment]," with the task of "publishing all kinds of data concerning the Buitenbezittingen in order to inform the public, and in particular Trade and Industry, of the knowledge that had in the meantime been gathered about the regions that had only recently become accessible, in order to make use of it in the interest of the development of those regions."
+The Bureau was attached to the office of the [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur voor de Bestuurszaken der Buitenbezittingen]] — the inaugural holder of which, [[Hendrikus Colijn|Hendrikus Colijn]], was "the first Adviseur for the Administrative Affairs of the Buitenbezittingen, [later] Old-Minister of War, Member of the Eerste Kamer der Staten-Generaal." The Adviseur was "gradually supplied with two Adjuncts" (*een tweetal Adjuncten*) — that is, with two Adjunct-Adviseurs. The [[Encyclopaedisch Bureau|Encyclopaedisch Bureau]] was "further attached to the said bureau since [its establishment]," with the task of "publishing all kinds of data concerning the Buitenbezittingen in order to inform the public, and in particular Trade and Industry, of the knowledge that had in the meantime been gathered about the regions that had only recently become accessible, in order to make use of it in the interest of the development of those regions."
 
 The Bureau's establishment in [[1908]] is identified by the Encyclopaedisch Bureau as the institutional recognition that the post-[[Toekoe Oemar's verraad (1896)|1896]] [[Pacificatie van Atjeh|pacification of Atjeh]] — together with the wider post-[[1902]] extension of Dutch "effective authority" across the Buitenbezittingen — had outgrown the original military-administrative framework and required a permanent institutional intermediary between Batavia and the field.
 
@@ -25,7 +25,7 @@ The [[Bureau voor de Bestuurszaken der Buitenbezittingen|Bureau voor de Bestuurs
 
 - [[Adviseur voor de Bestuurszaken der Buitenbezittingen]]
 - [[Encyclopaedisch Bureau]]
-- [[H. Colijn]]
+- [[Hendrikus Colijn|H. Colijn]]
 - [[Departement van Binnenlandsch Bestuur]]
 - [[Pacificatie van Atjeh]]
 - [[Buitenbezittingen]]
@@ -40,7 +40,7 @@ The [[Bureau voor de Bestuurszaken der Buitenbezittingen|Bureau voor de Bestuurs
 ---
 
 
-**The Bureau voor de Bestuurszaken der Buitenbezittingen** ("Bureau for the Administrative Affairs of the Outer Possessions") was the Dutch colonial administrative bureau established in [[1908]] within the [[Departement van Binnenlandsch Bestuur|Department of the Interior]] to oversee the post-[[Pacificatie van Atjeh|pacification]] administration of the [[Buitenbezittingen|Outer Possessions]] of the Netherlands East Indies, including [[Acheh|Atjeh]]. The Bureau was attached to the office of the [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur for the Administrative Affairs of the Outer Possessions]] — the inaugural holder of which was [[H. Colijn|H. Colijn]] — and was also the institutional home of the [[Encyclopaedisch Bureau|Encyclopaedisch Bureau]] that produced the volume *De Buitenbezittingen 1904 tot 1914*.
+**The Bureau voor de Bestuurszaken der Buitenbezittingen** ("Bureau for the Administrative Affairs of the Outer Possessions") was the Dutch colonial administrative bureau established in [[1908]] within the [[Departement van Binnenlandsch Bestuur|Department of the Interior]] to oversee the post-[[Pacificatie van Atjeh|pacification]] administration of the [[Buitenbezittingen|Outer Possessions]] of the Netherlands East Indies, including [[Acheh|Atjeh]]. The Bureau was attached to the office of the [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur for the Administrative Affairs of the Outer Possessions]] — the inaugural holder of which was [[Hendrikus Colijn|Hendrikus Colijn]] — and was also the institutional home of the [[Encyclopaedisch Bureau|Encyclopaedisch Bureau]] that produced the volume *De Buitenbezittingen 1904 tot 1914*.
 
 ## Account from *De Buitenbezittingen* (1917) — Bureau voor de Bestuurszaken der Buitenbezittingen
 
@@ -48,7 +48,7 @@ The Encyclopaedisch Bureau's account of the [[Bureau voor de Bestuurszaken der B
 
 The Bureau was conceived as an institutional intermediary between the central Government and the local Government organs in the outer possessions: "on the one hand, those officials would be able to provide guidance to the central Government organs regarding what ought to be done in the said regions from the side of the Government; on the other hand, [guidance] to the local Government organs regarding the direction and the views that the central Government wished to see them follow in the exercise of administration."
 
-The Bureau was attached to the office of the [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur voor de Bestuurszaken der Buitenbezittingen]] — the inaugural holder of which, [[H. Colijn|H. Colijn]], was "the first Adviseur for the Administrative Affairs of the Buitenbezittingen, [later] Old-Minister of War, Member of the Eerste Kamer der Staten-Generaal." The Adviseur was "gradually supplied with two Adjuncts" (*een tweetal Adjuncten*) — that is, with two Adjunct-Adviseurs. The [[Encyclopaedisch Bureau|Encyclopaedisch Bureau]] was "further attached to the said bureau since [its establishment]," with the task of "publishing all kinds of data concerning the Buitenbezittingen in order to inform the public, and in particular Trade and Industry, of the knowledge that had in the meantime been gathered about the regions that had only recently become accessible, in order to make use of it in the interest of the development of those regions."
+The Bureau was attached to the office of the [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur voor de Bestuurszaken der Buitenbezittingen]] — the inaugural holder of which, [[Hendrikus Colijn|Hendrikus Colijn]], was "the first Adviseur for the Administrative Affairs of the Buitenbezittingen, [later] Old-Minister of War, Member of the Eerste Kamer der Staten-Generaal." The Adviseur was "gradually supplied with two Adjuncts" (*een tweetal Adjuncten*) — that is, with two Adjunct-Adviseurs. The [[Encyclopaedisch Bureau|Encyclopaedisch Bureau]] was "further attached to the said bureau since [its establishment]," with the task of "publishing all kinds of data concerning the Buitenbezittingen in order to inform the public, and in particular Trade and Industry, of the knowledge that had in the meantime been gathered about the regions that had only recently become accessible, in order to make use of it in the interest of the development of those regions."
 
 The Bureau's establishment in [[1908]] is identified by the Encyclopaedisch Bureau as the institutional recognition that the post-[[Toekoe Oemar's verraad (1896)|1896]] [[Pacificatie van Atjeh|pacification of Atjeh]] — together with the wider post-[[1902]] extension of Dutch "effective authority" across the Buitenbezittingen — had outgrown the original military-administrative framework and required a permanent institutional intermediary between Batavia and the field.
 
@@ -60,7 +60,7 @@ The [[Bureau voor de Bestuurszaken der Buitenbezittingen|Bureau voor de Bestuurs
 
 - [[Adviseur voor de Bestuurszaken der Buitenbezittingen]]
 - [[Encyclopaedisch Bureau]]
-- [[H. Colijn]]
+- [[Hendrikus Colijn|H. Colijn]]
 - [[Departement van Binnenlandsch Bestuur]]
 - [[Pacificatie van Atjeh]]
 - [[Buitenbezittingen]]

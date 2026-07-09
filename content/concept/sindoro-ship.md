@@ -11,7 +11,7 @@ The ship’s armed boats helped clear rotan, rope and bamboo blockades that impe
 
 ## See Also
 
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Flores (ship)]]
 - [[Soembawa (ship)]]
 - [[Tamiang (river)]]

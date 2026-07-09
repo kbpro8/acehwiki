@@ -16,7 +16,7 @@ In [[January 1877|January 1877]] the troops resumed operations for the completio
 
 ## See Also
 
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[G. M. Verspyck]]
 - [[K. van der Heyden]]
 - [[J. L. J. H. Pel]]

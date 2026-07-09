@@ -5,7 +5,7 @@ aliases: [Meukuta Alam, Iskandar Muda, Eseukanda Muda, Iskandar Muda]
 tags: [person, sultan, historical-figure, 17th-century]
 ---
 
-**Sultan Meukuta Alam**, better known as **Iskandar Muda** (Achehnese *Eseukanda Muda*), was Sultan of [[Acheh]] from [[1607]] to [[1636]]. He was called *Meukuta Alam* ("the Crown of the World") after his death, and his ordinances are accordingly known as the [[Adat Meukuta Alam]]. His reign, in the received Achehnese tradition, marks the high-water mark of the port-kingdom's prosperity: he is one of the princes whose names are repeated in the sultans' edicts and inscribed on the [[Sarakata with chab sikureu'eng|ninefold seal]] (*chab sikureu'eng*), and his mediation — together with that of [[Sultan Tajul-alam|Tajul-alam Sapiatodin]], [[Sultan Ahmat Shah|Alaedin Ahmat Shah]], [[Sultan Mahmut Shah|Alaedin Mahmut Shah]] and others — is invoked in the formal preamble of royal letters patent.
+**Sultan Meukuta Alam**, better known as **Iskandar Muda** (Achehnese *Eseukanda Muda*), was Sultan of [[Acheh]] from [[1607]] to [[1636]]. He was called *Meukuta Alam* ("the Crown of the World") after his death, and his ordinances are accordingly known as the [[Adat Meukuta Alam]]. His reign, in the received Achehnese tradition, marks the high-water mark of the port-kingdom's prosperity: he is one of the princes whose names are repeated in the sultans' edicts and inscribed on the [[Sarakata|ninefold seal]] (*chab sikureu'eng*), and his mediation — together with that of [[Sultan Tajul-alam|Tajul-alam Sapiatodin]], [[Sultan Ahmat Shah|Alaedin Ahmat Shah]], [[Sultan Mahmut Shah|Alaedin Mahmut Shah]] and others — is invoked in the formal preamble of royal letters patent.
 
 ## Edicts and the Adat Meukuta Alam
 
@@ -28,9 +28,9 @@ During his residence in Acheh, Snouck obtained copies of a number of *sarakatas*
 - [[Sultan Tajul-alam]]
 - [[Sultan Mahmut Shah]]
 - [[Adat Meukuta Alam]]
-- [[Edicts of Meukuta Alam]]
+- [[Adat Meukuta Alam|Edicts of Meukuta Alam]]
 - [[Meuseugit Raya]]
-- [[Sarakata with chab sikureu'eng]]
+- [[Sarakata|Sarakata with chab sikureu'eng]]
 
 ## Source
 
@@ -38,7 +38,7 @@ During his residence in Acheh, Snouck obtained copies of a number of *sarakatas*
 ---
 
 
-**Sultan Meukuta Alam**, better known as **Iskandar Muda** (Achehnese *Eseukanda Muda*), was Sultan of [[Acheh]] from [[1607]] to [[1636]]. He was called *Meukuta Alam* ("the Crown of the World") after his death, and his ordinances are accordingly known as the [[Adat Meukuta Alam]]. His reign, in the received Achehnese tradition, marks the high-water mark of the port-kingdom's prosperity: he is one of the princes whose names are repeated in the sultans' edicts and inscribed on the [[Sarakata with chab sikureu'eng|ninefold seal]] (*chab sikureu'eng*), and his mediation — together with that of [[Sultan Tajul-alam|Tajul-alam Sapiatodin]], [[Sultan Ahmat Shah|Alaedin Ahmat Shah]], [[Sultan Mahmut Shah|Alaedin Mahmut Shah]] and others — is invoked in the formal preamble of royal letters patent.
+**Sultan Meukuta Alam**, better known as **Iskandar Muda** (Achehnese *Eseukanda Muda*), was Sultan of [[Acheh]] from [[1607]] to [[1636]]. He was called *Meukuta Alam* ("the Crown of the World") after his death, and his ordinances are accordingly known as the [[Adat Meukuta Alam]]. His reign, in the received Achehnese tradition, marks the high-water mark of the port-kingdom's prosperity: he is one of the princes whose names are repeated in the sultans' edicts and inscribed on the [[Sarakata|ninefold seal]] (*chab sikureu'eng*), and his mediation — together with that of [[Sultan Tajul-alam|Tajul-alam Sapiatodin]], [[Sultan Ahmat Shah|Alaedin Ahmat Shah]], [[Sultan Mahmut Shah|Alaedin Mahmut Shah]] and others — is invoked in the formal preamble of royal letters patent.
 
 ## Edicts and the Adat Meukuta Alam
 
@@ -61,9 +61,9 @@ During his residence in Acheh, Snouck obtained copies of a number of *sarakatas*
 - [[Sultan Tajul-alam]]
 - [[Sultan Mahmut Shah]]
 - [[Adat Meukuta Alam]]
-- [[Edicts of Meukuta Alam]]
+- [[Adat Meukuta Alam|Edicts of Meukuta Alam]]
 - [[Meuseugit Raya]]
-- [[Sarakata with chab sikureu'eng]]
+- [[Sarakata|Sarakata with chab sikureu'eng]]
 
 ## Source
 

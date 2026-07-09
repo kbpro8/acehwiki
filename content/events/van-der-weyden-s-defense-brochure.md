@@ -22,19 +22,19 @@ The brochure was authored by Lieutenant-Colonel [[J. Van der Weyden]] of the Gen
 
 ## Van Heutsz's Role in Authorship
 
-[[Van der Maaten]] revealed in [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies|his 1917 pamphlet]] that the brochure was in fact written in collaboration with [[J. B. van Heutsz]], Van der Weyden's father-in-law. Pages 389–395 of the brochure were entirely in Van Heutsz's own hand. Van der Maaten argued the work should properly be called the "brochure Van Heutsz-Van der Weijden."
+[[Van der Maaten]] revealed in [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies|his 1917 pamphlet]] that the brochure was in fact written in collaboration with [[Joannes Benedictus van Heutsz|J. B. van Heutsz]], Van der Weyden's father-in-law. Pages 389–395 of the brochure were entirely in Van Heutsz's own hand. Van der Maaten argued the work should properly be called the "brochure Van Heutsz-Van der Weijden."
 
 ## Core Proposals
 
-The brochure put forward two principal proposals. First, it advocated the introduction of mandatory military service (*militieplicht*) for the native population (*Inlanders*) of [[Netherlands India|Netherlands Indies]]. Second, it proposed a reformed army and fleet composition for the defence of the archipelago. The proposal that native militia service was essential to the defence plan was central to [[J. B. van Heutsz]]'s about-face on the issue, since as Governor-General ([[1904]]–[[1909]]) he had strongly advised *against* introducing militia service for natives.
+The brochure put forward two principal proposals. First, it advocated the introduction of mandatory military service (*militieplicht*) for the native population (*Inlanders*) of [[Netherlands India|Netherlands Indies]]. Second, it proposed a reformed army and fleet composition for the defence of the archipelago. The proposal that native militia service was essential to the defence plan was central to [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]'s about-face on the issue, since as Governor-General ([[1904]]–[[1909]]) he had strongly advised *against* introducing militia service for natives.
 
 ## Financing Defence Through India
 
-The brochure controversally proposed that [[India]] should bear *all* costs of defence, including both fleet and army, on the grounds that "it is also in India's interest that the [[Netherlands]] remains master." It suggested that India could take out loans "*op eigen naam en voor eigen rekening*" for defence purposes. The brochure proposed exploiting the "*onschatbare rijkdommen*" (inestimable riches) in and on the soil of India to fund defence. Pages 389–395, written by [[J. B. van Heutsz]] himself, proposed specific revenue measures including increased export duties and taxation reforms. Van der Maaten acknowledged "much good" in the brochure but criticised its premises and conclusions as incorrect, particularly the proposition that India alone should bear all defence costs, which he called "immorality."
+The brochure controversally proposed that [[India]] should bear *all* costs of defence, including both fleet and army, on the grounds that "it is also in India's interest that the [[Netherlands]] remains master." It suggested that India could take out loans "*op eigen naam en voor eigen rekening*" for defence purposes. The brochure proposed exploiting the "*onschatbare rijkdommen*" (inestimable riches) in and on the soil of India to fund defence. Pages 389–395, written by [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] himself, proposed specific revenue measures including increased export duties and taxation reforms. Van der Maaten acknowledged "much good" in the brochure but criticised its premises and conclusions as incorrect, particularly the proposition that India alone should bear all defence costs, which he called "immorality."
 
 ## Promotion of Van Heutsz
 
-Through the brochure, Van der Weyden promoted [[J. B. van Heutsz]] as the supreme authority on Indian defence, describing him as "better than anyone, indeed better than the entire [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]] combined, informed about [[India]], its resources, and the Indian defence question." This promotion fed directly into the campaign that culminated in [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)|Van Heutsz's speech at the Bond van Vrije Liberalen]] on [[13 January]] [[1917]].
+Through the brochure, Van der Weyden promoted [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] as the supreme authority on Indian defence, describing him as "better than anyone, indeed better than the entire [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]] combined, informed about [[India]], its resources, and the Indian defence question." This promotion fed directly into the campaign that culminated in [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)|Van Heutsz's speech at the Bond van Vrije Liberalen]] on [[13 January]] [[1917]].
 
 ## Political Impact
 
@@ -42,12 +42,12 @@ The brochure was used in the [[Volksvertegenwoordiging]] to pressure the governm
 
 ## Significance
 
-The brochure is a key document in the Dutch colonial defence debate of the [[First World War]] era. Its revelation as a co-authored work with [[J. B. van Heutsz]], exposed by Van der Maaten, makes it significant not only for its policy proposals but for what it reveals about the personal and political manoeuvring behind the campaign to reshape the defence of [[Netherlands India|Netherlands Indies]].
+The brochure is a key document in the Dutch colonial defence debate of the [[First World War]] era. Its revelation as a co-authored work with [[Joannes Benedictus van Heutsz|J. B. van Heutsz]], exposed by Van der Maaten, makes it significant not only for its policy proposals but for what it reveals about the personal and political manoeuvring behind the campaign to reshape the defence of [[Netherlands India|Netherlands Indies]].
 
 ## See Also
 
 - [[J. Van der Weyden]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies]]
 - [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)]]
 - [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]]

@@ -20,7 +20,7 @@ The mention of the Padang Mekka — literally the "plain of Mekka" — reflects 
 
 ## Place in Van der Kemp's article
 
-In P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819* the phrase belongs to the religious-cultural register that surrounded the [[Acheh]] court and that formed the indispensable background to its diplomacy. The [[Acheh treaty of 1819]] was negotiated with rulers and chiefs who, like all Achehnese Muslims, framed their political dealings in language saturated with Qur'anic and prophetic reference; the same vocabulary that produced the sultan's Arabic titulature and the formulas of Malay letter-writing also yielded expressions such as *Padang Mekka*, in which the destinies of this world and the next were held to meet. The phrase is therefore best read as an instance of the wider religious idiom within which the events of [[1819]] must be understood.
+In P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819* the phrase belongs to the religious-cultural register that surrounded the [[Acheh]] court and that formed the indispensable background to its diplomacy. The [[Treaty of Pedir (1819)|Acheh treaty of 1819]] was negotiated with rulers and chiefs who, like all Achehnese Muslims, framed their political dealings in language saturated with Qur'anic and prophetic reference; the same vocabulary that produced the sultan's Arabic titulature and the formulas of Malay letter-writing also yielded expressions such as *Padang Mekka*, in which the destinies of this world and the next were held to meet. The phrase is therefore best read as an instance of the wider religious idiom within which the events of [[1819]] must be understood.
 
 ## Religious background
 
@@ -28,11 +28,11 @@ Islamic tradition describes the Day of Resurrection (*Yaum al-Qiyamah*) as begin
 
 ## Acheh as Serambi Mekkah
 
-The connection thus runs in both directions. Just as Acheh looked towards Mecca for its religious authority, so the eschatological plain was, so to speak, projected back onto Acheh's symbolic geography. The phrase *Padang Mekka*, occurring in the cultural surroundings of the [[Acheh treaty of 1819]], belongs to the same conceptual universe as the sultan's Islamic titles, the reference to [[Sultan Djohor|Djohor]] and [[Sultan Syf|Syf]] as claimants within an Islamic polity, and the dual role of the [[Panglima Polim]] and the **Sagis** of the [[XXII Mukims|XXII]], [[XXV Mukims|XXV]] and [[XXVI Mukims|XXVI]] mukims as both temporal magnates and religiously sanctioned notables.
+The connection thus runs in both directions. Just as Acheh looked towards Mecca for its religious authority, so the eschatological plain was, so to speak, projected back onto Acheh's symbolic geography. The phrase *Padang Mekka*, occurring in the cultural surroundings of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]], belongs to the same conceptual universe as the sultan's Islamic titles, the reference to [[Sultan Djohor|Djohor]] and [[Sultan Syf|Syf]] as claimants within an Islamic polity, and the dual role of the [[Panglima Polem|Panglima Polim]] and the **Sagis** of the [[XXII Mukims|XXII]], [[XXV Mukims|XXV]] and [[XXVI Mukims|XXVI]] mukims as both temporal magnates and religiously sanctioned notables.
 
 ## Significance for the narrative
 
-The eschatological resonance of such phrases is not mere ornament. Van der Kemp's treatment of the [[1819]] agreement is, throughout, attentive to the religious and political categories that the Achehnese themselves employed; he reproduces the formulas of the Malay letters, the titles of the sultans, and the structure of the territorial divisions (mukims and sagis) without which the negotiations cannot be understood. *Padang Mekka*, in this context, is one element of that wider vocabulary — a reminder that the men with whom [[Stamford Raffles|Raffles]] and [[John Coombs|Coombs]] treated lived, in thought as in ritual, in the shadow of the Last Things, and that their political decisions were framed by a sense of ultimate accountability quite foreign to the secularised diplomacy of the European plenipotentiaries.
+The eschatological resonance of such phrases is not mere ornament. Van der Kemp's treatment of the [[1819]] agreement is, throughout, attentive to the religious and political categories that the Achehnese themselves employed; he reproduces the formulas of the Malay letters, the titles of the sultans, and the structure of the territorial divisions (mukims and sagis) without which the negotiations cannot be understood. *Padang Mekka*, in this context, is one element of that wider vocabulary — a reminder that the men with whom [[Sir Thomas Stamford Raffles|Raffles]] and [[John Coombs|Coombs]] treated lived, in thought as in ritual, in the shadow of the Last Things, and that their political decisions were framed by a sense of ultimate accountability quite foreign to the secularised diplomacy of the European plenipotentiaries.
 
 
 ## See Also
@@ -41,16 +41,16 @@ The eschatological resonance of such phrases is not mere ornament. Van der Kemp'
 - [[Mekka]]
 - [[Mecca]]
 - [[Arabia]]
-- [[Hasan-Husain festival]]
+- [[Hasan-Husain Festival|Hasan-Husain festival]]
 - [[Acheh]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Sultan Djohor]]
 - [[Sultan Syf]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[XXII Mukims]]
 - [[XXV Mukims]]
 - [[XXVI Mukims]]
-- [[Stamford Raffles]]
+- [[Sir Thomas Stamford Raffles|Stamford Raffles]]
 - [[John Coombs]]
 
 ## Source

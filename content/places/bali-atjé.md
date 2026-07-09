@@ -8,7 +8,7 @@ tags: [place, mythical-region, sumatra, east-coast, djawaka, legendary]
 
 ## The Javanese legend of Djaja Baja
 
-The Javanese legend recorded by [[Raffles|Raffles]] (*History* II, p. 87) speaks of [[Astina|Astina]], the realm of [[Djaja Baja|praboe Djaja-Baja]] of Jaya's oldest princely house, whose name — *h-asti-na-ma*, "elephant" — was changed on the dynasty's extinction to *Enj°-* or *Guj'rat*. A Dutch *babad*-translation (*Not. Bat. Gen.* vol. 42) speaks of this king as a "Moorschen" prince of *kodjrat-Bali-Atjé* — where the *mor*, [[P. de Roo de la Faille|De Roo de la Faille]] notes, is plainly used in the sense of *kahilangan* ("vanished, deceased"), and the *Kodj* or *Guj-rat* conceals *Koen- of Goendjara-ma-t-i*, "the dead land of elephants".
+The Javanese legend recorded by [[Sir Thomas Stamford Raffles|Sir Thomas Stamford Raffles]] (*History* II, p. 87) speaks of [[Astina|Astina]], the realm of [[Djaja Baja|praboe Djaja-Baja]] of Jaya's oldest princely house, whose name — *h-asti-na-ma*, "elephant" — was changed on the dynasty's extinction to *Enj°-* or *Guj'rat*. A Dutch *babad*-translation (*Not. Bat. Gen.* vol. 42) speaks of this king as a "Moorschen" prince of *kodjrat-Bali-Atjé* — where the *mor*, [[P. de Roo de la Faille|De Roo de la Faille]] notes, is plainly used in the sense of *kahilangan* ("vanished, deceased"), and the *Kodj* or *Guj-rat* conceals *Koen- of Goendjara-ma-t-i*, "the dead land of elephants".
 
 ## Decoding: *Koendjara-ma-ti Bali-Atjé*
 

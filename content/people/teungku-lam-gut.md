@@ -16,7 +16,7 @@ The grandson of Teungku Lam Gut â€” the son of his daughter by Cheh Marahaban â€
 ## See Also
 
 - [[XXVI Mukims]]
-- [[Kali]]
+- [[Teuku Kali Malikon Ade|Kali]]
 - [[Cheh Marahaban]]
 - [[Dalam]]
 - [[Sultanate of Acheh]]
@@ -38,7 +38,7 @@ The grandson of Teungku Lam Gut â€” the son of his daughter by Cheh Marahaban â€
 ## See Also
 
 - [[XXVI Mukims]]
-- [[Kali]]
+- [[Teuku Kali Malikon Ade|Kali]]
 - [[Cheh Marahaban]]
 - [[Dalam]]
 - [[Sultanate of Acheh]]

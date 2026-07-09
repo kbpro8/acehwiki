@@ -4,7 +4,7 @@ aliases: [Thenu's funeral, Begrafenis van Dominee Thenu, 11 Mei 1937]
 tags: [event, ceremony, knil, aceh, ambonese]
 ---
 
-**The Funeral of Dominee Thenu (11 May 1937)** was the *indrukwekkende, grootse begrafenis* of the [[Korps Marechaussee van Atjeh en Onderhorigen|Royaal Nederlandsch-Indisch Leger's]] *Soldaten-Dominee* [[Dominee Thenu]] at [[Koeta-Radja]] on [[11 May]] [[1937]], in which four retired [[Militaire Willemsorde (M.W.O.)|M.W.O.]]-ridders — [[Salawono]] (3e kl.), [[Pattiasina]], [[Kazen]] and [[Pattipuluhu]] — acted as *slippendragers* (pall-bearers), a Marechaussee brigade served as *vuurpeleton* (firing party), and the dominee was buried at [[Peutjoet]] "temidden van zovelen, die hij voorbereid had op die laatste gang daarheen." A *standbeeld* (statue) was later erected before his *kerkje* in [[Koeta-Radja]]. The funeral is the closing set-piece of the chapter "Dominee Thenu" in *[[Oom Ambon van het K.N.I.L.]]* and one of the book's most resonant images of the moral economy of the colonial army.
+**The Funeral of Dominee Thenu (11 May 1937)** was the *indrukwekkende, grootse begrafenis* of the [[Korps Marechaussee van Atjeh en Onderhorigen|Royaal Nederlandsch-Indisch Leger's]] *Soldaten-Dominee* [[Dominee Thenu]] at [[Koeta-Radja]] on [[11 May]] [[1937]], in which four retired [[Militaire Willemsorde|M.W.O.]]-ridders — [[Salawono]] (3e kl.), [[Pattiasina]], [[Kazen]] and [[Pattipuluhu]] — acted as *slippendragers* (pall-bearers), a Marechaussee brigade served as *vuurpeleton* (firing party), and the dominee was buried at [[Peutjoet]] "temidden van zovelen, die hij voorbereid had op die laatste gang daarheen." A *standbeeld* (statue) was later erected before his *kerkje* in [[Koeta-Radja]]. The funeral is the closing set-piece of the chapter "Dominee Thenu" in *[[Oom Ambon van het K.N.I.L.]]* and one of the book's most resonant images of the moral economy of the colonial army.
 
 ## The slippendragers
 
@@ -33,7 +33,7 @@ The funeral is significant in *[[Oom Ambon van het K.N.I.L.]]* as the moment at 
 - [[Pattipuluhu]]
 - [[Koeta-Radja]]
 - [[Peutjoet]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[11 May]]
 - [[1937]]

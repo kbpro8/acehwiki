@@ -8,7 +8,7 @@ tags: [place, mukim, banda-acheh, city]
 
 **Chade'** (also rendered **Chadé** in the OCR of Vol. I) is a *mukim* (parish-district) lying near the **Dalam**, the Sultan's residence in [[Banda Acheh]]. It is named in Vol. I of *The Achehnese* by [[C. Snouck Hurgronje]] in his account of the *uleebalangships* which, though situated in the Sultan's own territory or in the so-called *wakeueh*-districts, exercised an influence on the affairs of the capital out of all proportion to the formal rank assigned to them by the constitution of the three sagis.
 
-The Imeum of Chade' is listed alongside [[Teuku Kali]], [[Panglima Meuseugit Raya]] and the [[Imeum of Lueng Bata]] as one of those uleebalangs of the Sultan's territory and the *wakeueh*-districts "who had much more weight in the scale than many of the members of the board of twelve." The "board of twelve" (*padroe*) was the formal council of twelve territorial chiefs which, in the decadent period, was supposed to share with the Sultan the government of the capital; but its effective authority had passed, by Snouck's time, to a smaller number of powerful individuals, of whom the Imeum of Chade' was one.
+The Imeum of Chade' is listed alongside [[Teuku Kali Malikon Ade|Teuku Kali]], [[Panglima Meuseugit Raya]] and the [[Imeum of Lueng Bata]] as one of those uleebalangs of the Sultan's territory and the *wakeueh*-districts "who had much more weight in the scale than many of the members of the board of twelve." The "board of twelve" (*padroe*) was the formal council of twelve territorial chiefs which, in the decadent period, was supposed to share with the Sultan the government of the capital; but its effective authority had passed, by Snouck's time, to a smaller number of powerful individuals, of whom the Imeum of Chade' was one.
 
 The same Imeum of Chade' appears in another passage of Vol. I as "the most powerful supporter of the finally defeated candidate" in the last conflict for royal honours before the Achehnese war — that is, in the disputed succession which immediately preceded the Dutch attack on the capital in [[1873]]. The support of the Imeum was thus turned to the losing side; but the fact that his support was decisive enough to be recorded in the political tradition of the country is itself a measure of his importance.
 
@@ -26,7 +26,7 @@ The mukim of Chadé thus appears in Vol. I as one of the urban *mukims* of the c
 
 - [[Imeum of Lueng Bata]]
 - [[Imeum of Chade']]
-- [[Teuku Kali]]
+- [[Teuku Kali Malikon Ade|Teuku Kali]]
 - [[Panglima Meuseugit Raya]]
 - [[Dalam (Sultan's Court)]]
 - [[Banda Acheh]]

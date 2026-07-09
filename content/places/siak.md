@@ -12,7 +12,7 @@ The Dutch East India Company and later the Netherlands‑Indies Government frequ
 
 ## In Fullerton's minute of 1825
 
-The first substantial mention of Siak comes in Appendix 10, where Van der Kemp prints the passages of Fullerton's minute of [[21 March]] [[1825]] on the [[Acheh treaty of 1819]]. Like [[Deli]] and [[Langkat]], Siak is enumerated among the "petty states" whose trade with the British settlements was threatened by the Dutch assertion of supremacy over [[Sumatra]]. Fullerton pointed out that under Article 3 of the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]] the Dutch could make no treaty with Siak imposing differential duties against British trade; but that under Article 2 they might do so if Siak were deemed a dependency. The reservation of Achehnese independence therefore preserved Siak's independence as well — and with it, Penang's trade.
+The first substantial mention of Siak comes in Appendix 10, where Van der Kemp prints the passages of Fullerton's minute of [[21 March]] [[1825]] on the [[Treaty of Pedir (1819)|Acheh treaty of 1819]]. Like [[Deli]] and [[Langkat]], Siak is enumerated among the "petty states" whose trade with the British settlements was threatened by the Dutch assertion of supremacy over [[Sumatra]]. Fullerton pointed out that under Article 3 of the [[Anglo-Dutch Treaty of 1824|treaty of 1824]] the Dutch could make no treaty with Siak imposing differential duties against British trade; but that under Article 2 they might do so if Siak were deemed a dependency. The reservation of Achehnese independence therefore preserved Siak's independence as well — and with it, Penang's trade.
 
 ## The Bellona affair
 
@@ -91,7 +91,7 @@ In a footnote to the [[Said Akil's Deli adventure (1824-1828)|Said Akil affair]]
 - [[Mandau]]
 - [[Mohamed Ali (Malaysian prince)]]
 - [[Salangore]]
-- [[Van Braam (commander)]]
+- [[Jacob Pieter van Braam|Van Braam (commander)]]
 - [[Oost-Indische Compagnie]]
 - [[1717]]
 - [[1755]]

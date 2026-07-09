@@ -17,7 +17,7 @@ Peutjoet was the military cemetery of [[Koeta-Radja]], the burial place of the [
 
 ## The funeral of Dominee Thenu ([[11 May]] [[1937]])
 
-The [[Funeral of Dominee Thenu (11 May 1937)|funeral of Dominee Thenu]] at [[Koeta-Radja]] on [[11 May]] [[1937]] concluded with his burial at Peutjoet. The funeral — with four retired [[Militaire Willemsorde (M.W.O.)|M.W.O.]]-ridders ([[Salawono]] (3e kl.), [[Pattiasina]], [[Kazen]] and [[Pattipuluhu]]) as *slippendragers* and a Marechaussee brigade as *vuurpeleton* — was the most resonant image of the moral economy of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]]. The burial at Peutjoet — among the many whom Thenu had prepared for death — is the quiet closure of the Thenu narrative.
+The [[Funeral of Dominee Thenu (11 May 1937)|funeral of Dominee Thenu]] at [[Koeta-Radja]] on [[11 May]] [[1937]] concluded with his burial at Peutjoet. The funeral — with four retired [[Militaire Willemsorde|M.W.O.]]-ridders ([[Salawono]] (3e kl.), [[Pattiasina]], [[Kazen]] and [[Pattipuluhu]]) as *slippendragers* and a Marechaussee brigade as *vuurpeleton* — was the most resonant image of the moral economy of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]]. The burial at Peutjoet — among the many whom Thenu had prepared for death — is the quiet closure of the Thenu narrative.
 
 ## The gravestone
 
@@ -29,7 +29,7 @@ The atlas describes the cemetery in the caption accompanying the plate depicting
 
 ## Historical Context
 
-The "various expeditions" referenced in the atlas description span the entire period of the [[Aceh War]] from the first Dutch attack in [[1873]] through the protracted guerrilla phase and the eventual pacification under [[Governor Van Heutsz]]. The cemetery thus holds the remains of casualties from multiple generations of the conflict, reflecting both the large-scale conventional campaigns of the 1870s and the extended counter-insurgency operations of the 1890s and early 1900s. Its inclusion in the atlas, alongside the [[Atjeh Monument]] in [[Weltevreden]], indicates that by [[1926]] the Atjeh War had taken its place in the official colonial memory as a chapter of sacrifice and ultimate triumph.
+The "various expeditions" referenced in the atlas description span the entire period of the [[Aceh War]] from the first Dutch attack in [[1873]] through the protracted guerrilla phase and the eventual pacification under [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]. The cemetery thus holds the remains of casualties from multiple generations of the conflict, reflecting both the large-scale conventional campaigns of the 1870s and the extended counter-insurgency operations of the 1890s and early 1900s. Its inclusion in the atlas, alongside the [[Atjeh Monument]] in [[Weltevreden]], indicates that by [[1926]] the Atjeh War had taken its place in the official colonial memory as a chapter of sacrifice and ultimate triumph.
 
 ## Significance
 
@@ -48,12 +48,12 @@ In the *Nederlandsch Indië Platen Atlas* ([[1926]]), Peutjoet stands alongside 
 - [[Pattiasina]]
 - [[Kazen]]
 - [[Pattipuluhu]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[Pante Perak]]
 - [[Atjeh-oorlog]]
 - [[Aceh War]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[Pacification of Atjeh]]
 - [[Atjeh Monument]]
 - [[Weltevreden]]

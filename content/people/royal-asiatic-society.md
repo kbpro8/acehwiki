@@ -5,7 +5,7 @@ aliases: [Royal Asiatic Society of Great Britain and Ireland, RAS, the Royal Asi
 tags: [organization, scholarly-society, london, british-orientalism, manuscript-collection, 19th-century, raniri, maxwell-collection]
 ---
 
-**The Royal Asiatic Society of Great Britain and Ireland** — abbreviated **RAS** — is a British scholarly society founded in 1823, the principal British society for the study of Asia. Its library in London holds the Maxwell collection of Malay manuscripts, of which no. 93 is the only known complete manuscript of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Raniri|Nūruddīn ar-Rānīrī]]. The Society granted [[P. Voorhoeve|Voorhoeve]] permission to reproduce the text of the second part of the Maxwell manuscript for his [[1955]] edition of Raniri's two Malay treatises.
+**The Royal Asiatic Society of Great Britain and Ireland** — abbreviated **RAS** — is a British scholarly society founded in 1823, the principal British society for the study of Asia. Its library in London holds the Maxwell collection of Malay manuscripts, of which no. 93 is the only known complete manuscript of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]]. The Society granted [[P. Voorhoeve|Voorhoeve]] permission to reproduce the text of the second part of the Maxwell manuscript for his [[1955]] edition of Raniri's two Malay treatises.
 
 ## The Maxwell manuscript of the *Ḥujjat*
 
@@ -20,7 +20,7 @@ The Royal Asiatic Society is the holder of the Maxwell collection of Malay manus
 - [[Herman Neubronner van der Tuuk]]
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Sir R. O. Winstedt]]
 - [[Stichting De Goeje]]
 - [[Tibjan fi ma'rifat al-adyan]]
@@ -31,7 +31,7 @@ The Royal Asiatic Society is the holder of the Maxwell collection of Malay manus
 ---
 
 
-**The Royal Asiatic Society of Great Britain and Ireland** — abbreviated **RAS** — is a British scholarly society founded in 1823, the principal British society for the study of Asia. Its library in London holds the Maxwell collection of Malay manuscripts, of which no. 93 is the only known complete manuscript of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Raniri|Nūruddīn ar-Rānīrī]]. The Society granted [[P. Voorhoeve|Voorhoeve]] permission to reproduce the text of the second part of the Maxwell manuscript for his [[1955]] edition of Raniri's two Malay treatises.
+**The Royal Asiatic Society of Great Britain and Ireland** — abbreviated **RAS** — is a British scholarly society founded in 1823, the principal British society for the study of Asia. Its library in London holds the Maxwell collection of Malay manuscripts, of which no. 93 is the only known complete manuscript of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]]. The Society granted [[P. Voorhoeve|Voorhoeve]] permission to reproduce the text of the second part of the Maxwell manuscript for his [[1955]] edition of Raniri's two Malay treatises.
 
 ## The Maxwell manuscript of the *Ḥujjat*
 
@@ -46,7 +46,7 @@ The Royal Asiatic Society is the holder of the Maxwell collection of Malay manus
 - [[Herman Neubronner van der Tuuk]]
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Sir R. O. Winstedt]]
 - [[Stichting De Goeje]]
 - [[Tibjan fi ma'rifat al-adyan]]

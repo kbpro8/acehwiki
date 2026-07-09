@@ -3,7 +3,7 @@ title: Batam
 aliases: [Battam, Batam Island, Pulau Batam]
 tags: [place, island, riau-archipelago, dutch-east-indies, treaty-of-london-1824]
 ---
-**Batam** (Dutch **Battam**) is an island in the [[Riouw|Riau]] archipelago, lying immediately south of [[Singapore]] across the Singapore Strait. Although in the early nineteenth century it was of far less political or commercial importance than its neighbours [[Bintan]] and [[Lingga]], Batam occupies a place in the diplomatic record because of its inclusion — alongside those more prominent islands — in the [[Treaty of London (1824)|Anglo-Dutch treaty of 1824]]'s exclusion clause.
+**Batam** (Dutch **Battam**) is an island in the [[Riouw|Riau]] archipelago, lying immediately south of [[Singapore]] across the Singapore Strait. Although in the early nineteenth century it was of far less political or commercial importance than its neighbours [[Bintan]] and [[Lingga]], Batam occupies a place in the diplomatic record because of its inclusion — alongside those more prominent islands — in the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch treaty of 1824]]'s exclusion clause.
 
 Van der Kemp quotes article 12 of the 1824 treaty directly. After the Netherlands' renunciation of Singapore, the British counter-promise reads: "geen Britsch kantoor zal worden opgerigt op de Carimons-eilanden, of op de eilanden Battam, Bintang, Lingen of op eenig der andere eilanden, liggende ten zuiden van Sinkapoer." Batam is the first of the three named islands south of Singapore to be placed off-limits to British settlement and treaty-making. The enumeration reflects the Dutch desire to foreclose any British foothold in the Riau archipelago as a whole, not merely at the obvious points of Tanjung Pinang (on [[Bintan]]) or Daik (on [[Lingga]]).
 
@@ -18,7 +18,7 @@ Batam remained a sparsely populated backwater for most of the nineteenth century
 - [[Lingga]]
 - [[Karimon Islands]]
 - [[Singapore]]
-- [[Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Treaty of London (1824)]]
 - [[Raffles' Atjeh-overeenkomst van 1819]]
 
 ## Source

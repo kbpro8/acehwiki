@@ -3,7 +3,7 @@ title: Atjeh sale rite of grasping the nose-rope
 aliases: [Atjeh buffalo transaction ceremony", Atjeh buffalo-sale rite", nose-rope rite Atjeh", tjaram sale ritual Atjeh"]
 tags: ["achehnese", "adat", "commerce", "concept", "magic"]
 ---
-The **Atjeh sale rite of grasping the nose-rope** is the documented Atjehnese and Gayo ritual of the buffalo-sale, in which buyer and seller, at the closing of the sale, each grasp one end of the nose-rope that passes through the buffalo's nose, while pronouncing the formulas of offer and acceptance. The rite is the Atjehnese analogue of the European handshake that seals a bargain, and is paired with the *tjaram*/*tjinggram* earnest-money (the "godspenning") that the buyer pays to secure preference in the purchase. The rite is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 128) — citing [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 312) and [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. I, p. 321; vol. II, pp. 368, 539).
+The **Atjeh sale rite of grasping the nose-rope** is the documented Atjehnese and Gayo ritual of the buffalo-sale, in which buyer and seller, at the closing of the sale, each grasp one end of the nose-rope that passes through the buffalo's nose, while pronouncing the formulas of offer and acceptance. The rite is the Atjehnese analogue of the European handshake that seals a bargain, and is paired with the *tjaram*/*tjinggram* earnest-money (the "godspenning") that the buyer pays to secure preference in the purchase. The rite is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 128) — citing [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 312) and [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. I, p. 321; vol. II, pp. 368, 539).
 
 ## The rite
 The sale-rite passage in *De Karbouw* (p. 128) reads:
@@ -24,7 +24,7 @@ The sale-rite is paired, in Atjeh, with a fuller consecration rite performed on 
 The consecration involves: (1) the Arabic formula *bismillah*; (2) pouring a *tjinoe*-dipperful of water over the buffalo's head; (3) sprinkling the head with a handful of peeled and unpeeled rice (the "cooling" agent to neutralise "warm" — i.e. baleful — influences); (4) giving salt to the sold animal and to the remaining stall-animals, with encouraging words; and (5) plucking a few chin- and tail-hairs from the sold animal, cutting a little from its hooves, and feeding these — mixed with salt — to the remaining buffaloes "so that they may continue to remember each other," establishing a magical contact between the separated animals.
 
 ## Significance
-The Atjeh sale rite of grasping the nose-rope is significant for the encyclopedia of [[Acheh]] history as the principal documented instance of the magical-symbolic sealing of a commercial transaction in Atjehnese adat — a rite that joined buyer and seller through the medium of the buffalo's nose-rope, and that was paired with a fuller consecration rite on the newly bought animal. The rite is documented by [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] in [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 312) and by [[J. Kreemer|Kreemer]] in [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]] (vol. I, pp. 321, 509; vol. II, pp. 368, 539, 578) and re-cited in [[Kreemer's De Karbouw ([[1956]])|*De Karbouw*]] (pp. 128-129). The rite is one of the documents of the wider Atjehnese pattern in which the commercial exchange of the buffalo was framed as a magical-symbolic act, not merely an economic one — a pattern visible also in the *tjaram*/*tjinggram* earnest-money and in the consecration of the newly bought animal.
+The Atjeh sale rite of grasping the nose-rope is significant for the encyclopedia of [[Acheh]] history as the principal documented instance of the magical-symbolic sealing of a commercial transaction in Atjehnese adat — a rite that joined buyer and seller through the medium of the buffalo's nose-rope, and that was paired with a fuller consecration rite on the newly bought animal. The rite is documented by [[C. Snouck Hurgronje|Snouck Hurgronje]] in [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 312) and by [[J. Kreemer|Kreemer]] in [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]] (vol. I, pp. 321, 509; vol. II, pp. 368, 539, 578) and re-cited in [[Kreemer's De Karbouw ([[1956]])|*De Karbouw*]] (pp. 128-129). The rite is one of the documents of the wider Atjehnese pattern in which the commercial exchange of the buffalo was framed as a magical-symbolic act, not merely an economic one — a pattern visible also in the *tjaram*/*tjinggram* earnest-money and in the consecration of the newly bought animal.
 
 
 ## Sources
@@ -35,7 +35,7 @@ The Atjeh sale rite of grasping the nose-rope is significant for the encyclopedi
 
 ## See Also
 - [[Atjehs buffalo vocabulary]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Gajoland]]
 - [[Kreemer's Atjeh ([[1922]]-23)]]
 - [[Kreemer's De Karbouw ([[1956]])]]

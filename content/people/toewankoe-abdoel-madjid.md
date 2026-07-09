@@ -11,13 +11,13 @@ tags: [person, royal, acehnese, aceh-war]
 
 In his note of [[30 April]] [[30 April]] [[1875]] General Pel named Toewankoe Abdoel Madjid among the influential chiefs of the war-party:
 
-> "That party forms, like an army, a fairly coherent whole, which is led by influential chiefs, as [[Panglima Polim|Panglima Polim]], [[Imam of Longbatta|Imam Longbatta]], [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] and others, who have the same motives for their actions as those above assigned to their subordinates, and to which, of course, the relatives of the former sultans, the Toewankoe's Haschim, Hoesin, Abdoel Madjid and others, have attached themselves, who rightly see that they have nothing more to expect from a foreign overrule."
+> "That party forms, like an army, a fairly coherent whole, which is led by influential chiefs, as [[Panglima Polem|Panglima Polem]], [[Imam of Longbatta|Imam Longbatta]], [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] and others, who have the same motives for their actions as those above assigned to their subordinates, and to which, of course, the relatives of the former sultans, the Toewankoe's Haschim, Hoesin, Abdoel Madjid and others, have attached themselves, who rightly see that they have nothing more to expect from a foreign overrule."
 
 ## See Also
 
 - [[Toewankoe Haschim]]
 - [[Toewankoe Hoesin]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Toekoe Rajoet Lamkapang]]
 - [[J. L. J. H. Pel]]
@@ -36,13 +36,13 @@ In his note of [[30 April]] [[30 April]] [[1875]] General Pel named Toewankoe Ab
 
 In his note of [[30 April]] [[30 April]] [[1875]] General Pel named Toewankoe Abdoel Madjid among the influential chiefs of the war-party:
 
-> "That party forms, like an army, a fairly coherent whole, which is led by influential chiefs, as [[Panglima Polim|Panglima Polim]], [[Imam of Longbatta|Imam Longbatta]], [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] and others, who have the same motives for their actions as those above assigned to their subordinates, and to which, of course, the relatives of the former sultans, the Toewankoe's Haschim, Hoesin, Abdoel Madjid and others, have attached themselves, who rightly see that they have nothing more to expect from a foreign overrule."
+> "That party forms, like an army, a fairly coherent whole, which is led by influential chiefs, as [[Panglima Polem|Panglima Polem]], [[Imam of Longbatta|Imam Longbatta]], [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] and others, who have the same motives for their actions as those above assigned to their subordinates, and to which, of course, the relatives of the former sultans, the Toewankoe's Haschim, Hoesin, Abdoel Madjid and others, have attached themselves, who rightly see that they have nothing more to expect from a foreign overrule."
 
 ## See Also
 
 - [[Toewankoe Haschim]]
 - [[Toewankoe Hoesin]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Toekoe Rajoet Lamkapang]]
 - [[J. L. J. H. Pel]]

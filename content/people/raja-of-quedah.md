@@ -21,7 +21,7 @@ Van der Kemp introduces the Raja of Quedah not for his own sake, but to explain 
 
 ## Legacy
 
-The cession of Penang by the Raja of Quedah became the constitutional foundation of the British presence in the Straits of Malacca, on which later settlements at [[Singapore]] (in [[1819]]) and at [[Malacca]] (acquired under the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 1824]]) were built. The annual payment of 10,000 dollars, however, became a running sore in Kedah–British relations: the Raja and his successors repeatedly protested that the sum was inadequate compensation for the loss of revenue and that Britain had failed to provide the promised military protection against Siam. The Quedah cession thus stands as both the making of British Penang and the beginning of a long history of Kedah's grievance against the colonial power it had invited into the Straits.
+The cession of Penang by the Raja of Quedah became the constitutional foundation of the British presence in the Straits of Malacca, on which later settlements at [[Singapore]] (in [[1819]]) and at [[Malacca]] (acquired under the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 1824]]) were built. The annual payment of 10,000 dollars, however, became a running sore in Kedah–British relations: the Raja and his successors repeatedly protested that the sum was inadequate compensation for the loss of revenue and that Britain had failed to provide the promised military protection against Siam. The Quedah cession thus stands as both the making of British Penang and the beginning of a long history of Kedah's grievance against the colonial power it had invited into the Straits.
 
 ## See Also
 
@@ -54,7 +54,7 @@ Van der Kemp introduces the Raja of Quedah not for his own sake, but to explain 
 
 ## Legacy
 
-The cession of Penang by the Raja of Quedah became the constitutional foundation of the British presence in the Straits of Malacca, on which later settlements at [[Singapore]] (in [[1819]]) and at [[Malacca]] (acquired under the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 1824]]) were built. The annual payment of 10,000 dollars, however, became a running sore in Kedah–British relations: the Raja and his successors repeatedly protested that the sum was inadequate compensation for the loss of revenue and that Britain had failed to provide the promised military protection against Siam. The Quedah cession thus stands as both the making of British Penang and the beginning of a long history of Kedah's grievance against the colonial power it had invited into the Straits.
+The cession of Penang by the Raja of Quedah became the constitutional foundation of the British presence in the Straits of Malacca, on which later settlements at [[Singapore]] (in [[1819]]) and at [[Malacca]] (acquired under the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 1824]]) were built. The annual payment of 10,000 dollars, however, became a running sore in Kedah–British relations: the Raja and his successors repeatedly protested that the sum was inadequate compensation for the loss of revenue and that Britain had failed to provide the promised military protection against Siam. The Quedah cession thus stands as both the making of British Penang and the beginning of a long history of Kedah's grievance against the colonial power it had invited into the Straits.
 
 ## See Also
 

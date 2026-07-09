@@ -12,7 +12,7 @@ The Gedong legend, as reproduced from Ypes in *De Karbouw*, runs as follows. Ged
 The legend is structurally a compact double-taboo narrative: a single ancestor, in a single episode of maritime crisis, contracts two food prohibitions (eel and buffalo), each mediated by an animal rescuer-thrartner, and the prohibitions pass to his genealogical descendants. As [[J. Kreemer|Kreemer]] presents it, the legend belongs to the wider corpus of [[Pantang of the albino buffalo in Atjeh|Sumatran *pantang* legends]] that explain, by appeal to an ancestral encounter, why a particular genealogical group abstains from a particular food — a corpus in which the buffalo (especially the albino buffalo) figures prominently across [[Groot-Atjeh]] (*kawōm* [[kawōm Dja Sandang|Dja Sandang]]), [[Atjeh's Westkust]], the [[Gajoland]] groups of [[Kedjoeroen Boekit]] and [[Petiambang]], the [[Alasland]] *mergō*'s, and the [[Simaloer]] landschap [[Tapah]].
 
 ## Significance
-Gedong's significance for the encyclopedia of [[Acheh]] history is as the legendary ancestral figure of the [[marga Ramin]] of [[Boven-Singkel|Boven-Singkel]] — a figure whose narrative anchors a living Sumatran food-prohibition in a putatively historical Atjehnese ancestor from [[Pasei|Pasei]], and thus ties the Singkil-area genealogical tradition to the North-Acehnese Pasai cultural sphere. The legend is also significant as a documented instance of the wider Atjeh-north-Sumatran pattern in which buffalo-meat avoidance is legitimated by an ancestral oath, a pattern that [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] (cited in *De Karbouw*) cautiously suggested might once have had a totemistic basis, even if present-day obedience rests simply on fear of ancestral wrath.
+Gedong's significance for the encyclopedia of [[Acheh]] history is as the legendary ancestral figure of the [[marga Ramin]] of [[Boven-Singkel|Boven-Singkel]] — a figure whose narrative anchors a living Sumatran food-prohibition in a putatively historical Atjehnese ancestor from [[Pasei|Pasei]], and thus ties the Singkil-area genealogical tradition to the North-Acehnese Pasai cultural sphere. The legend is also significant as a documented instance of the wider Atjeh-north-Sumatran pattern in which buffalo-meat avoidance is legitimated by an ancestral oath, a pattern that [[C. Snouck Hurgronje|Snouck Hurgronje]] (cited in *De Karbouw*) cautiously suggested might once have had a totemistic basis, even if present-day obedience rests simply on fear of ancestral wrath.
 
 
 ## Sources
@@ -22,7 +22,7 @@ Gedong's significance for the encyclopedia of [[Acheh]] history is as the legend
 
 ## See Also
 - [[Boven-Singkel]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Kreemer's De Karbouw ([[1956]])]]
 - [[Pantang of the albino buffalo in Atjeh]]
 - [[Pasei]]
@@ -39,7 +39,7 @@ The Gedong legend, as reproduced from Ypes in *De Karbouw*, runs as follows. Ged
 The legend is structurally a compact double-taboo narrative: a single ancestor, in a single episode of maritime crisis, contracts two food prohibitions (eel and buffalo), each mediated by an animal rescuer-thrartner, and the prohibitions pass to his genealogical descendants. As [[J. Kreemer|Kreemer]] presents it, the legend belongs to the wider corpus of [[Pantang of the albino buffalo in Atjeh|Sumatran *pantang* legends]] that explain, by appeal to an ancestral encounter, why a particular genealogical group abstains from a particular food — a corpus in which the buffalo (especially the albino buffalo) figures prominently across [[Groot-Atjeh]] (*kawōm* [[kawōm Dja Sandang|Dja Sandang]]), [[Atjeh's Westkust]], the [[Gajoland]] groups of [[Kedjoeroen Boekit]] and [[Petiambang]], the [[Alasland]] *mergō*'s, and the [[Simaloer]] landschap [[Tapah]].
 
 ## Significance
-Gedong's significance for the encyclopedia of [[Acheh]] history is as the legendary ancestral figure of the [[marga Ramin]] of [[Boven-Singkel|Boven-Singkel]] — a figure whose narrative anchors a living Sumatran food-prohibition in a putatively historical Atjehnese ancestor from [[Pasei|Pasei]], and thus ties the Singkil-area genealogical tradition to the North-Acehnese Pasai cultural sphere. The legend is also significant as a documented instance of the wider Atjeh-north-Sumatran pattern in which buffalo-meat avoidance is legitimated by an ancestral oath, a pattern that [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] (cited in *De Karbouw*) cautiously suggested might once have had a totemistic basis, even if present-day obedience rests simply on fear of ancestral wrath.
+Gedong's significance for the encyclopedia of [[Acheh]] history is as the legendary ancestral figure of the [[marga Ramin]] of [[Boven-Singkel|Boven-Singkel]] — a figure whose narrative anchors a living Sumatran food-prohibition in a putatively historical Atjehnese ancestor from [[Pasei|Pasei]], and thus ties the Singkil-area genealogical tradition to the North-Acehnese Pasai cultural sphere. The legend is also significant as a documented instance of the wider Atjeh-north-Sumatran pattern in which buffalo-meat avoidance is legitimated by an ancestral oath, a pattern that [[C. Snouck Hurgronje|Snouck Hurgronje]] (cited in *De Karbouw*) cautiously suggested might once have had a totemistic basis, even if present-day obedience rests simply on fear of ancestral wrath.
 
 
 ## Sources
@@ -49,7 +49,7 @@ Gedong's significance for the encyclopedia of [[Acheh]] history is as the legend
 
 ## See Also
 - [[Boven-Singkel]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Kreemer's De Karbouw ([[1956]])]]
 - [[Pantang of the albino buffalo in Atjeh]]
 - [[Pasei]]

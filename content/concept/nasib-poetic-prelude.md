@@ -15,7 +15,7 @@ Acehnese *bakāsidah* often incorporate local imagery—such as references to th
 ## See Also
 - [[Kasida (Acehnese poetic form)]]
 - [[Madih (praise)]]
-- [[Al‑Burda (poem)]]
+- [[Burda (poem)|Al‑Burda (poem)]]
 - [[Mawlid in Aceh]]
 - [[dikië jadjandji (dhikr Barzandji)]]
 

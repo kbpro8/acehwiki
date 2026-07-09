@@ -18,11 +18,11 @@ He coordinated the marine sections that supported artillery batteries and partic
 His leadership exemplifies the role of marine officers in combined‑arms operations during the later phases of the **Aceh War**, integrating infantry, artillery, and native troops.
 
 ## See Also
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Adjoen]]
 - [[Lamhasan]]
 - [[Kroesen (steamship)]]
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 
 ## Source
 *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 135‑136.

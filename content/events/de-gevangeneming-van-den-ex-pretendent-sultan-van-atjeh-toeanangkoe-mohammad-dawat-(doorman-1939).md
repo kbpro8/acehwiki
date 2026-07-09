@@ -10,7 +10,7 @@ tags: [document, article, colonial, political, atjeh, sultanate, mohammad-dawat,
 
 The article's subject, as recorded by Van Meurs, is the capture (*gevangeneming*) of the ex-pretender Sultan of Atjeh — *ex-pretendent Sultan van Atjeh* in Van Meurs's spelling, *ex-pretendent* in the OCR — bearing the title **[[Toeanangkoe Mohammad Dawat|Toeanangkoe Mohammad Dawat]]** (also *Tocangkoe Mohammad Dawat*), and the circumstance of his death in exile. The title *Toeanangkoe* (or *Tocangkoe*) is a rendering of the Acehnese/Malay *Tuanaku* — "our lord" — a royal title borne by Atjehnese princes; *Mohammad Dawat* is the personal name, known elsewhere in the corpus in the forms [[muhammad-dawot-shah|Muhammad Dawot Shah]], [[teuku-muda-dawot|Teuku Muda Dawot]], and [[tuanku-muhamat-dawot|Tuanku Muhamat Dawot]]. The designation *ex-pretendent Sultan* indicates that Mohammad Dawat had been, at some point before his capture, put forward as a claimant to the Atjehnese sultanate — a pretender — and that his capture removed him from the political arena of Atjeh.
 
-The article notes that Mohammad Dawat died at [[Mr.-Cornelis|Meester-Cornelis]] — the suburb of [[Batavia|Batavia]] now known as [[Jatinegara|Jatinegara]] — on [[7 February]] [[1939]], after thirty-two years of *ballingschap* (banishment, exile). The figure of thirty-two years places the beginning of his exile in [[1907]] — the year of the [[Atjéh-enquête|Atjéh-enquête]] and of the [[1907-1908-aceh-resistance|1907–1908 flare-up of resistance]] under [[G. C. E. van Daalen|van Daalen]]'s governorship — suggesting that the pretender's capture and banishment were part of the Dutch response to the late phase of the [[Aceh War|Atjeh-oorlog]] and to the residual royalist politics of the sultanate. His death in exile, in [[1939]], marks the close of the line of Atjehnese pretender-sultans in the colonial period.
+The article notes that Mohammad Dawat died at [[Mr.-Cornelis|Meester-Cornelis]] — the suburb of [[Batavia|Batavia]] now known as [[Jatinegara|Jatinegara]] — on [[7 February]] [[1939]], after thirty-two years of *ballingschap* (banishment, exile). The figure of thirty-two years places the beginning of his exile in [[1907]] — the year of the [[Atjéh-enquête|Atjéh-enquête]] and of the [[1907-1908-aceh-resistance|1907–1908 flare-up of resistance]] under [[Gotfried Coenraad Ernst van Daalen|van Daalen]]'s governorship — suggesting that the pretender's capture and banishment were part of the Dutch response to the late phase of the [[Aceh War|Atjeh-oorlog]] and to the residual royalist politics of the sultanate. His death in exile, in [[1939]], marks the close of the line of Atjehnese pretender-sultans in the colonial period.
 
 ## Author and venue
 
@@ -35,7 +35,7 @@ For AcehWiki, the article is significant as the [[1939]] record of the death —
 - [[Aceh War]]
 - [[Atjéh-enquête]]
 - [[1907-1908-aceh-resistance]]
-- [[G. C. E. van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[Mr.-Cornelis]]
 - [[Jatinegara]]
 - [[Batavia]]

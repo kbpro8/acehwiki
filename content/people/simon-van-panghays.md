@@ -7,7 +7,7 @@ tags: [person, dutch, military, aceh]
 
 ## Career and Aceh Connection
 
-The source provides only the occurrence of his name in the index, without further biographical detail. The placement of his name among other entries related to Aceh (e.g., [[Panglima Polim]], [[Pedir]]) implies that Simon van Panghays participated in the Dutch military activities in the region, possibly during the late 18th‑early 19th century confrontations that culminated in the [[Aceh War|Aceh War (1873–1904)]].
+The source provides only the occurrence of his name in the index, without further biographical detail. The placement of his name among other entries related to Aceh (e.g., [[Panglima Polem|Panglima Polim]], [[Pedir]]) implies that Simon van Panghays participated in the Dutch military activities in the region, possibly during the late 18th‑early 19th century confrontations that culminated in the [[Aceh War|Aceh War (1873–1904)]].
 
 ## Significance
 
@@ -15,7 +15,7 @@ Although the source does not elaborate on his actions, the inclusion of Simon va
 
 ## See Also
 
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Pedir]]
 - [[Pasoeh]]
 - [[Aceh]]

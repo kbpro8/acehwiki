@@ -35,7 +35,7 @@ A punitive expedition against the kampong Simpang Olim in [[1878]] earned honour
 
 * In [[1890]] the marines advanced inland to the town of [[Edi (Atjeh)|Edi]], a strategic centre on the east coast.  
 * The following year a punitive expedition was sent to the **Aroe Islands** (today the Aru Archipelago) to quell a rebellion threatening Dutch shipping.  
-* In [[1893]] operations against the interior region of [[Tamiang (Sumatra)|Tamiang]] were conducted under the command of the Dutch officer **Heuter**, whose name appears in the corps’ records.
+* In [[1893]] operations against the interior region of [[Tamiang|Tamiang]] were conducted under the command of the Dutch officer **Heuter**, whose name appears in the corps’ records.
 
 ### Later Campaigns ([[1901]]–[[1908]])
 
@@ -58,15 +58,15 @@ The prolonged resistance of Atjeh became the longest‑running colonial conflict
 - [[Aceh War (1873–1904)]]
 - [[Dutch East India Company]]
 - [[Netherlands in the East Indies]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Indische legerverband]]
 - [[Pacification of the Dutch East Indies]]
 - [[War against the Aceh Sultanate (1873–1874)]]
 - [[Krijgverrichtingen in Atjeh (1874–1875)]]
 - [[Operation Simpang Olim (1878)]]
-- [[Expedition Samalanga and Peusangan (1901)]]
+- [[Samalanga Expedition|Expedition Samalanga and Peusangan (1901)]]
 - [[Edi (Atjeh)]]
-- [[Tamiang (Sumatra)]]
+- [[Tamiang|Tamiang (Sumatra)]]
 - [[Ridder Militaire Willemsorde]]
 - [[Ridder in Orde van Oranje‑Nassau]]
 

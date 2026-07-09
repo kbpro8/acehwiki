@@ -11,13 +11,13 @@ The religious duty of *prang sabi* was inculcated through the *[[hikajat prang s
 
 ## The doctrine: scope and intensity
 
-For the Atjèhnese, *prang sabi* was "a pious duty imposed by Islamic law." [[Teukoe Panglima Pólém|Teukoe Panglima Pólém]] of [[Seulimeum|Seulimeum]] — the great resistance leader — considered "the acceptance of the authority of the infidel (Atj. *[[kaphé|kaphé]]*) … an abomination and the conduct of the holy war (Atj. *prang sabi*) a religious duty." The fighter who fell in its performance became a *[[sjahid]]* (Arabic *shahīd*, "witness of faith"): the badge of honour that the Tiriō family and their followers claimed in each generation.
+For the Atjèhnese, *prang sabi* was "a pious duty imposed by Islamic law." [[Panglima Polem|Panglima Polem]] of [[Seulimeum|Seulimeum]] — the great resistance leader — considered "the acceptance of the authority of the infidel (Atj. *[[kaphé|kaphé]]*) … an abomination and the conduct of the holy war (Atj. *prang sabi*) a religious duty." The fighter who fell in its performance became a *[[sjahid]]* (Arabic *shahīd*, "witness of faith"): the badge of honour that the Tiriō family and their followers claimed in each generation.
 
 G. W. T. Dames, in *[[Oom Ambon van het K.N.I.L.]]*, registers the doctrinal nuance: "Het is wel volgens de Koran aan te tonen, dat er in de hele Atjeh-oorlog geen sprake is geweest van een werkelijke heilige oorlog" — by the Koran it can be shown that there was no true holy war in the whole Aceh War — "maar Tgk. Sjech Saman di Tiri was wel van die mening geweest." The distinction is between the doctrinal question of whether the war as a whole qualified as *prang sabi* and the lived conviction of the Tiriō family and their followers that it did.
 
 ## The doctrine in action: the refusal of submission
 
-The doctrine made the [[Teungkoe Sjech Saman di Tiri|Tiriō bende]] uniquely hard to break. When, at [[H. N. A. Swart|Generaal Swart]]'s request, the three *voornaamste Atjehse hoofden* — two *[[Toeankoe Machmoed Radja Keumala|Sultans-family members]]* and *[[Panglima Prang Polim]]* — wrote urging submission, the Teungkoes "bespraken de brief, doch besloten tot het einde te vechten; hen zou geschieden naar Allah's wil." The religious resisters would not accept the authority of the Sultan's former army commander to override their doctrine of *prang sabi*: political authority had no standing against religious conviction.
+The doctrine made the [[Teungkoe Sjech Saman di Tiri|Tiriō bende]] uniquely hard to break. When, at [[H. N. A. Swart|Generaal Swart]]'s request, the three *voornaamste Atjehse hoofden* — two *[[Toeankoe Machmoed Radja Keumala|Sultans-family members]]* and *[[Panglima Polem|Panglima Prang Polim]]* — wrote urging submission, the Teungkoes "bespraken de brief, doch besloten tot het einde te vechten; hen zou geschieden naar Allah's wil." The religious resisters would not accept the authority of the Sultan's former army commander to override their doctrine of *prang sabi*: political authority had no standing against religious conviction.
 
 When the widow of *[[Teungkoe Asan Oeleë Toetooë]]* went into the bergen to urge the young *[[Tgk. Tjhi Ma'at]]* to submit, the boy refused: "Zijn Vader was als *geloofsgetuige* gevallen, hij zou in diens voetstappen treden. Allah's wil zou geschieden." The doctrine of *prang sabi* made submission not just dishonourable but sinful: the boy's father had fallen as a *geloofsgetuige*, and the boy would follow in his footsteps.
 
@@ -52,10 +52,10 @@ In [[1942]] the duty of *prang sabi* was reawakened across Atjèh. The Japanese 
 - [[Habib Teupin Wan]]
 - [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
 - [[Tangsé]]
-- [[Panglima Prang Polim]]
+- [[Panglima Polem|Panglima Prang Polim]]
 - [[H. N. A. Swart]]
 - [[Bakóngan uprising (1925–1927)]]
-- [[Teukoe Panglima Pólém]]
+- [[Panglima Polem|Teukoe Panglima Pólém]]
 - [[1873]]
 - [[1896]]
 - [[1911]]

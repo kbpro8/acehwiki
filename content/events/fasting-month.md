@@ -16,7 +16,7 @@ Before the war, the payment of the vendors used to be put off until just before 
 
 ## The Husband's Obligations During the Fasting Month
 
-The fasting month also has its place in the calendar of husbandly obligations. The Achehnese adat sets the husband free, during a certain period known as the [[Janji Jinamee|janji jinamee]], from all obligation to maintain his wife. The length of this period depends on the amount of the dowry, irrespective of whether it is in fact paid in full, or only half, or even not at all. For every *bungkay* of gold (25 dollars) of the marriage gift, the bride is made dependent for a full year on the support of her parents. All that the man gives her during this period is regarded as a free gift, even though these gifts are themselves to some extent regulated by the adat. These presents consist first of all in the monthly *biaya* of three or four dollars or more, which may be almost considered as boarding expenses for the ten to fifteen days in each month which the young man spends in the house of his wife.
+The fasting month also has its place in the calendar of husbandly obligations. The Achehnese adat sets the husband free, during a certain period known as the [[Jinamee|janji jinamee]], from all obligation to maintain his wife. The length of this period depends on the amount of the dowry, irrespective of whether it is in fact paid in full, or only half, or even not at all. For every *bungkay* of gold (25 dollars) of the marriage gift, the bride is made dependent for a full year on the support of her parents. All that the man gives her during this period is regarded as a free gift, even though these gifts are themselves to some extent regulated by the adat. These presents consist first of all in the monthly *biaya* of three or four dollars or more, which may be almost considered as boarding expenses for the ten to fifteen days in each month which the young man spends in the house of his wife.
 
 In the next place, he has to "bring home meat" (*puwoe sië*) as it is called, at the two great Mohammedan feasts, and especially that at the end of the fasting month. In Acheh it is an established adat to form small societies for the slaughter of buffaloes before these feast-days, and the ancient custom required the young man to bring home to his wife a handsome share of the meat from the slaughter in his own gampong. This gift of meat gradually gave place to other gifts of a fixed value. Where the dowry amounts to one *bungkay* of gold, it is considered proper for the husband to present to his wife six dollars as a feast-gift the first time; on later occasions five dollars or so is sufficient. For a dowry of two *bungkays*, these feast-gifts may amount to eight or ten dollars.
 
@@ -24,7 +24,7 @@ In the next place, he has to "bring home meat" (*puwoe sië*) as it is called, a
 
 - [[Puasa]]
 - [[Bukah]]
-- [[Janji Jinamee]]
+- [[Jinamee|Janji Jinamee]]
 - [[Meunasah]]
 - [[Pitrah]]
 - [[Banda Acheh]]

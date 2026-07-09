@@ -8,7 +8,7 @@ tags: [concept, fortification, dutch-colonial, aceh-war, military]
 
 ## Background
 
-After the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[24 January]] [[1874]] and the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] on [[31 January]] [[31 January]] [[1874]], the Dutch held the Kraton and a few outworks. After the departure of [[J. van Swieten|Van Swieten]] on [[26 April]] [[26 April]] [[1874]] the war continued under General Pel, who in [[May 1874|May-June 1874]] occupied the [[Westerlinie|Westerlinie]] — a series of posts west of Kota Radja to connect it with [[Marassa|Marassa]] and [[Lampassei|Lampassei]] — in response to the enemy's resumption of the struggle.
+After the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[24 January]] [[1874]] and the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] on [[31 January]] [[31 January]] [[1874]], the Dutch held the Kraton and a few outworks. After the departure of [[Jan van Swieten|Van Swieten]] on [[26 April]] [[26 April]] [[1874]] the war continued under General Pel, who in [[May 1874|May-June 1874]] occupied the [[Westerlinie|Westerlinie]] — a series of posts west of Kota Radja to connect it with [[Marassa|Marassa]] and [[Lampassei|Lampassei]] — in response to the enemy's resumption of the struggle.
 
 ## The Posts at Lamara and Kota Radja Bedil
 

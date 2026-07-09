@@ -9,7 +9,7 @@ The central villain of the Hikayat Malem Dagang, represented as a son of the Raj
 
 ## See Also
 
-- [[Hikayat Malem Dagang]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
 - [[Malem Dagang]]
 - [[Raja Raden]]
 - [[Sultan Iskandar Muda]]
@@ -25,7 +25,7 @@ The central villain of the Hikayat Malem Dagang, represented as a son of the Raj
 
 ## See Also
 
-- [[Hikayat Malem Dagang]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
 - [[Malem Dagang]]
 - [[Raja Raden]]
 - [[Sultan Iskandar Muda]]

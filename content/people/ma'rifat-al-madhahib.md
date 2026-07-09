@@ -5,7 +5,7 @@ aliases: [Maʿrifat al-madhāhib, Ma'rifat al-madhahib, Tadhkirat al-madhāhib, 
 tags: [document, religious-work, islamic-scholarship, sects, popular-literature, precolonial, source-of-tibjan, arabic, persian]
 ---
 
-**The *Maʿrifat al-madhāhib*** ("Knowledge of the Sects"), sometimes entitled *Tadhkirat al-madhāhib*, is a short schematic overview of the seventy-two Islamic sects that enjoyed wide diffusion in both Arabic and Persian manuscripts from at least the eleventh century of the Hegira. It belongs, in genre, more to popular than to learned literature; various authors are named in the manuscripts, sometimes [[Abu Hanifa|Abū Ḥanīfa]]. The work is identified by [[P. Voorhoeve|Voorhoeve]] as the third principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nuruddin ar-Raniri]]: it supplied Raniri with his schematic classification of the seventy-two sects into six groups of twelve, and with the names and dogmas of the individual sects.
+**The *Maʿrifat al-madhāhib*** ("Knowledge of the Sects"), sometimes entitled *Tadhkirat al-madhāhib*, is a short schematic overview of the seventy-two Islamic sects that enjoyed wide diffusion in both Arabic and Persian manuscripts from at least the eleventh century of the Hegira. It belongs, in genre, more to popular than to learned literature; various authors are named in the manuscripts, sometimes [[Abu Hanifa|Abū Ḥanīfa]]. The work is identified by [[P. Voorhoeve|Voorhoeve]] as the third principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]]: it supplied Raniri with his schematic classification of the seventy-two sects into six groups of twelve, and with the names and dogmas of the individual sects.
 
 ## Content and structure
 
@@ -67,7 +67,7 @@ The *Maʿrifat al-madhāhib* is, after the [[Tamhid fi bayan at-tawhid|*Tamhīd*
 - [[al-Insan al-Kamil]]
 - [[P. Voorhoeve]]
 - [[Pulo Ai]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
@@ -79,7 +79,7 @@ J. Schacht, "On the popular literature of the sects," *Studia Islamica* I, pp. 2
 ---
 
 
-**The *Maʿrifat al-madhāhib*** ("Knowledge of the Sects"), sometimes entitled *Tadhkirat al-madhāhib*, is a short schematic overview of the seventy-two Islamic sects that enjoyed wide diffusion in both Arabic and Persian manuscripts from at least the eleventh century of the Hegira. It belongs, in genre, more to popular than to learned literature; various authors are named in the manuscripts, sometimes [[Abu Hanifa|Abū Ḥanīfa]]. The work is identified by [[P. Voorhoeve|Voorhoeve]] as the third principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nuruddin ar-Raniri]]: it supplied Raniri with his schematic classification of the seventy-two sects into six groups of twelve, and with the names and dogmas of the individual sects.
+**The *Maʿrifat al-madhāhib*** ("Knowledge of the Sects"), sometimes entitled *Tadhkirat al-madhāhib*, is a short schematic overview of the seventy-two Islamic sects that enjoyed wide diffusion in both Arabic and Persian manuscripts from at least the eleventh century of the Hegira. It belongs, in genre, more to popular than to learned literature; various authors are named in the manuscripts, sometimes [[Abu Hanifa|Abū Ḥanīfa]]. The work is identified by [[P. Voorhoeve|Voorhoeve]] as the third principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]]: it supplied Raniri with his schematic classification of the seventy-two sects into six groups of twelve, and with the names and dogmas of the individual sects.
 
 ## Content and structure
 
@@ -141,7 +141,7 @@ The *Maʿrifat al-madhāhib* is, after the [[Tamhid fi bayan at-tawhid|*Tamhīd*
 - [[al-Insan al-Kamil]]
 - [[P. Voorhoeve]]
 - [[Pulo Ai]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Tibjan fi ma'rifat al-adyan]]
 

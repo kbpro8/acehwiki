@@ -5,7 +5,7 @@ aliases: [commissaris-generaal Elout, minister Elout, Cornelis Elout, C. T. Elou
 tags: [person, dutch-official, minister, commissioner-general]
 ---
 
-**Elout** — Cornelis Theodorus Elout (1767–1841), minister of Finance of the [[Netherlands|Netherlands]] and former commissioner-general — is one of the central figures in P. H. van der Kemp's account of the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]]. Although not himself a plenipotentiary in 1824, he was the minister to whom all the papers of the London negotiators were referred for advice, the author of the celebrated [[Elout's advice of 12 February 1824|nota of 12 February 1824]], and the father of [[Captain Elout|Captain Elout]] who carried the draft treaty and the oral message on the Acheh reservation to The Hague. Van der Kemp holds him up as the one Dutch statesman whose judgement, in the whole affair, was both sound and unheeded.
+**Elout** — Cornelis Theodorus Elout (1767–1841), minister of Finance of the [[Netherlands|Netherlands]] and former commissioner-general — is one of the central figures in P. H. van der Kemp's account of the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]]. Although not himself a plenipotentiary in 1824, he was the minister to whom all the papers of the London negotiators were referred for advice, the author of the celebrated [[Elout's advice of 12 February 1824|nota of 12 February 1824]], and the father of [[Captain Elout|Captain Elout]] who carried the draft treaty and the oral message on the Acheh reservation to The Hague. Van der Kemp holds him up as the one Dutch statesman whose judgement, in the whole affair, was both sound and unheeded.
 
 ## Earlier Career: Commissioner-General and the 1817 Convention
 
@@ -39,7 +39,7 @@ Van der Kemp's portrait of Elout is that of a sound adviser in overreached circu
 - [[Ridder Reinhold]]
 - [[Cornelis Felix van Maanen]]
 - [[J. C. Baud]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Convention of 24 January 1817]]
 - [[Fagel-Elout negotiations (August 1820)]]
 - [[Concept-convention of 24 July 1820]]
@@ -56,7 +56,7 @@ Van der Kemp's portrait of Elout is that of a sound adviser in overreached circu
 ---
 
 
-**Elout** — Cornelis Theodorus Elout (1767–1841), minister of Finance of the [[Netherlands|Netherlands]] and former commissioner-general — is one of the central figures in P. H. van der Kemp's account of the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]]. Although not himself a plenipotentiary in 1824, he was the minister to whom all the papers of the London negotiators were referred for advice, the author of the celebrated [[Elout's advice of 12 February 1824|nota of 12 February 1824]], and the father of [[Captain Elout|Captain Elout]] who carried the draft treaty and the oral message on the Acheh reservation to The Hague. Van der Kemp holds him up as the one Dutch statesman whose judgement, in the whole affair, was both sound and unheeded.
+**Elout** — Cornelis Theodorus Elout (1767–1841), minister of Finance of the [[Netherlands|Netherlands]] and former commissioner-general — is one of the central figures in P. H. van der Kemp's account of the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]]. Although not himself a plenipotentiary in 1824, he was the minister to whom all the papers of the London negotiators were referred for advice, the author of the celebrated [[Elout's advice of 12 February 1824|nota of 12 February 1824]], and the father of [[Captain Elout|Captain Elout]] who carried the draft treaty and the oral message on the Acheh reservation to The Hague. Van der Kemp holds him up as the one Dutch statesman whose judgement, in the whole affair, was both sound and unheeded.
 
 ## Earlier Career: Commissioner-General and the 1817 Convention
 
@@ -90,7 +90,7 @@ Van der Kemp's portrait of Elout is that of a sound adviser in overreached circu
 - [[Ridder Reinhold]]
 - [[Cornelis Felix van Maanen]]
 - [[J. C. Baud]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Convention of 24 January 1817]]
 - [[Fagel-Elout negotiations (August 1820)]]
 - [[Concept-convention of 24 July 1820]]

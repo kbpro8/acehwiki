@@ -17,7 +17,7 @@ Nöldeke was one of the towering figures of nineteenth-century Semitic philology
 
 ## See Also
 
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [[Burong]]
 - [[Tuan Siti]]
 - [[Mekka]]
@@ -40,7 +40,7 @@ Nöldeke was one of the towering figures of nineteenth-century Semitic philology
 
 ## See Also
 
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [[Burong]]
 - [[Tuan Siti]]
 - [[Mekka]]

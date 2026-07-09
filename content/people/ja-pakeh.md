@@ -9,7 +9,7 @@ A teacher from Medina living among the people of Meureudu, whose title combines 
 
 ## See Also
 
-- [[Hikayat Malem Dagang]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
 - [[Sultan Iskandar Muda]]
 - [[Medina]]
 
@@ -23,7 +23,7 @@ A teacher from Medina living among the people of Meureudu, whose title combines 
 
 ## See Also
 
-- [[Hikayat Malem Dagang]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
 - [[Sultan Iskandar Muda]]
 - [[Medina]]
 

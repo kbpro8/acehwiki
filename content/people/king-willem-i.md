@@ -12,7 +12,7 @@ His decrees of honor were transmitted to the Dutch East Indies, though some reci
 ## See Also
 
 - [[Militaire Willemsorde]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Padri War]]
 - [[1824]]
 

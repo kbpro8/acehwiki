@@ -3,7 +3,7 @@ title: Kasidat al‑Burda (Malay translation)
 aliases: ["Burda (Malay)", "Kasidat al‑Burda (Melayu)"]
 tags: [document, poem, religious, acehnese, translation]
 ---
-**Kasidat al‑Burda (Malay translation)** was a 16th‑century Malay rendering of the celebrated Arabic poem *Al‑Burda* by the Sufi saint [[Imam al‑Busiri]], adapted for use in [[Aceh]]’s devotional practice. The translation survives in the Dutch‑Malay manuscript DLP‑54, pages [[73]]‑[[79]], and exemplifies how Arabic theological terminology was incorporated into Acehnese religious literature.
+**Kasidat al‑Burda (Malay translation)** was a 16th‑century Malay rendering of the celebrated Arabic poem *Al‑Burda* by the Sufi saint [[Al-Busiri|Imam al‑Busiri]], adapted for use in [[Aceh]]’s devotional practice. The translation survives in the Dutch‑Malay manuscript DLP‑54, pages [[73]]‑[[79]], and exemplifies how Arabic theological terminology was incorporated into Acehnese religious literature.
 
 ## Context
 
@@ -23,8 +23,8 @@ The Malay translation of the *Burda* demonstrates the depth of Islamic literary 
 
 ## See Also
 
-- [[Al‑Burda (Arabic poem)]]
-- [[Imam al‑Busiri]]
+- [[Burda (poem)|Al‑Burda (Arabic poem)]]
+- [[Al-Busiri|Imam al‑Busiri]]
 - [[Malay language]]
 - [[Dutch language]]
 - [[Acehnese literature]]

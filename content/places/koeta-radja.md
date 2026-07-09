@@ -26,7 +26,7 @@ The [[Meusigit Raja]] is the well-known Mohammedan place of prayer in Aceh's cap
 ## The funeral of Dominee Thenu ([[11 May]] [[1937]])
 
 
-When [[Dominee Thenu]] died on [[11 May]] [[1937]], his [[Funeral of Dominee Thenu (11 May 1937)|funeral]] was held at Koeta-Radja. Four retired [[Militaire Willemsorde (M.W.O.)|M.W.O.]]-ridders — [[Salawono]] (3e kl.), [[Pattiasina]], [[Kazen]] and [[Pattipuluhu]] — acted as *slippendragers*; a Marechaussee brigade served as *vuurpeleton*; he was buried at [[Peutjoet]]. "Vóór zijn kerkje in Koeta-Radja richtte Atjeh voor hem een standbeeld op" — before his little church in Koeta-Radja, Aceh erected for him a statue.
+When [[Dominee Thenu]] died on [[11 May]] [[1937]], his [[Funeral of Dominee Thenu (11 May 1937)|funeral]] was held at Koeta-Radja. Four retired [[Militaire Willemsorde|M.W.O.]]-ridders — [[Salawono]] (3e kl.), [[Pattiasina]], [[Kazen]] and [[Pattipuluhu]] — acted as *slippendragers*; a Marechaussee brigade served as *vuurpeleton*; he was buried at [[Peutjoet]]. "Vóór zijn kerkje in Koeta-Radja richtte Atjeh voor hem een standbeeld op" — before his little church in Koeta-Radja, Aceh erected for him a statue.
 
 
 ## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller)
@@ -54,13 +54,13 @@ Koetaradja served as a printing centre for Acehnese religious texts in the early
 
 Koeta-Radja is significant across all phases of the colonial history of Aceh. In *[[Oost-Indisch Journael]]* (Merac, [[1947]]), it is the capital and the place of the Meusigit Raja, the centre of the colonial state's religious politics. In *[[Oom Ambon van het K.N.I.L.]]* (Dames, [[1954]]), it is the principal garrison of the [[K.N.I.L.]], the place at which [[Dominee Thenu]] was placed, and the site of his funeral — the book's moral closure of the Aceh War: the men of courage carrying the man of faith, in the capital of the country they had fought forty-five years to subdue.
 
-In the *Nederlandsch Indië Platen Atlas* ([[1926]]), Kota Radja's mention in the transport chapter underscores the connection between the [[Pacification of Atjeh|pacification of Atjeh]] under [[Governor Van Heutsz]] and the subsequent infrastructure development in the Buitengewesten. The road from Kota Radja to Padang represented one of the most significant engineering achievements in the Outer Territories and served as tangible proof that the policy of active administration (*actieve politiek*) had replaced the earlier policy of abstention (*onthoudingspolitiek*).
+In the *Nederlandsch Indië Platen Atlas* ([[1926]]), Kota Radja's mention in the transport chapter underscores the connection between the [[Pacification of Atjeh|pacification of Atjeh]] under [[Joannes Benedictus van Heutsz|Governor Van Heutsz]] and the subsequent infrastructure development in the Buitengewesten. The road from Kota Radja to Padang represented one of the most significant engineering achievements in the Outer Territories and served as tangible proof that the policy of active administration (*actieve politiek*) had replaced the earlier policy of abstention (*onthoudingspolitiek*).
 
 
 ## Account from the *Notulen der bestuursvergaderingen* (1914) — Koeta-Radja
 
 
-**Koeta-Radja** (modern Banda Aceh) was the *hoofdplaats* (chief town) of the [[Gouvernement Atjeh en Onderhoorigheden]] and the seat of the Civiel en Militair Gouverneur. In the context of the [[Bestuursreorganisatie Sumatra (1913-1914)]], Koeta-Radja served as the venue for the final two *bestuursvergaderingen* on [[19 January]] [[1914]] (evening) and [[20 January]] [[1914]] (morning), convened by Regeeringscommissaris [[S. de Graaff]]. The meetings were attended by the full administrative and military leadership of the Gouvernement, including Gouverneur [[H. N. N. A. Swart]] and all Assistent-Residenten, Controleurs, and Civiel Gezaghebbers of the Atjeh *afdeelingen* and *onderafdeelingen*.
+**Koeta-Radja** (modern Banda Aceh) was the *hoofdplaats* (chief town) of the [[Gouvernement Atjeh en Onderhoorigheden]] and the seat of the Civiel en Militair Gouverneur. In the context of the [[Bestuursreorganisatie Sumatra (1913-1914)]], Koeta-Radja served as the venue for the final two *bestuursvergaderingen* on [[19 January]] [[1914]] (evening) and [[20 January]] [[1914]] (morning), convened by Regeeringscommissaris [[S. de Graaff]]. The meetings were attended by the full administrative and military leadership of the Gouvernement, including Gouverneur [[H. N. A. Swart|H. N. N. A. Swart]] and all Assistent-Residenten, Controleurs, and Civiel Gezaghebbers of the Atjeh *afdeelingen* and *onderafdeelingen*.
 
 
 ## Historical Significance
@@ -68,7 +68,7 @@ In the *Nederlandsch Indië Platen Atlas* ([[1926]]), Kota Radja's mention in th
 
 Koeta-Radja occupied a singular position in the colonial administrative architecture of the Netherlands East Indies as the capital of one of only two *Gouvernementen* in the archipelago, the other being Celebes. Established as the seat of Dutch authority in Atjeh following the military campaigns of the late nineteenth and early twentieth centuries, the city symbolized the hard-won Dutch presence in a territory that had resisted colonial domination for decades. The very name Koeta-Radja—meaning "Royal City" in Acehnese—carried echoes of the pre-colonial Acehnese sultanate that had once made this city its capital, and the Dutch choice to retain the name underscored the symbolic importance of occupying the former seat of Acehnese sovereignty. By 1914, Koeta-Radja had developed into a substantial colonial administrative center, equipped with the apparatus of a *Gouvernement* capital: government offices, military installations, and the infrastructure necessary to support both the civilian and military branches of the colonial state that coexisted in this uniquely governed territory.
 
-The hosting of the final two *bestuursvergaderingen* of the [[Bestuursreorganisatie Sumatra (1913-1914)]] at Koeta-Radja was itself of considerable symbolic and practical significance. After meetings in Palembang, Padang, and Medan, the decision to hold the concluding sessions in the Atjeh capital ensured that the Gouverneur and his staff—those most directly affected by the proposed abolition of the *Gouvernement*—had the fullest opportunity to present their views. The evening session of [[19 January]] [[1914]] and the morning session of [[20 January]] [[1914]] allowed for extended discussion of the specific administrative arrangements proposed for Atjeh, with [[H. N. N. A. Swart]] making detailed contributions regarding the indigenous administrative hierarchy and the feasibility of *zelfbestuur* in the territory.
+The hosting of the final two *bestuursvergaderingen* of the [[Bestuursreorganisatie Sumatra (1913-1914)]] at Koeta-Radja was itself of considerable symbolic and practical significance. After meetings in Palembang, Padang, and Medan, the decision to hold the concluding sessions in the Atjeh capital ensured that the Gouverneur and his staff—those most directly affected by the proposed abolition of the *Gouvernement*—had the fullest opportunity to present their views. The evening session of [[19 January]] [[1914]] and the morning session of [[20 January]] [[1914]] allowed for extended discussion of the specific administrative arrangements proposed for Atjeh, with [[H. N. A. Swart|H. N. N. A. Swart]] making detailed contributions regarding the indigenous administrative hierarchy and the feasibility of *zelfbestuur* in the territory.
 
 
 ## Administrative Role in the Gouvernement
@@ -122,7 +122,7 @@ Kota Radja is significant for the encyclopedia of [[Acheh]] history because it w
 - [[Meusigit Raja]]
 - [[Noord-Sumatra (proposed gewest)]]
 - [[1904]]
-- [[Pruys van der Hoeven]]
+- [[A. Pruys van der Hoeven|Pruys van der Hoeven]]
 - [[Groot-Atjeh]]
 - [[Dominee Thenu]]
 - [[1937]]
@@ -130,7 +130,7 @@ Kota Radja is significant for the encyclopedia of [[Acheh]] history because it w
 - [[1879]]
 - [[Aceh Railway]]
 - [[Atjeh-oorlog]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[1881]]
 - [[1874]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]
@@ -139,7 +139,7 @@ Kota Radja is significant for the encyclopedia of [[Acheh]] history because it w
 - [[1e Divisie Marechaussee uit Blang Kedjeren]]
 - [[Volkslectuur]]
 - [[Aceh War]]
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [[Governor Van der Heyden]]
 - [[Hotel de Boer]]
 - [[Eerste Atjeh-expeditie (1873)]]
@@ -148,8 +148,8 @@ Kota Radja is significant for the encyclopedia of [[Acheh]] history because it w
 - [[Sultan Iskandar Muda]]
 - [[Salawono]]
 - [[1926]]
-- [[Van Lansberge]]
-- [[H. N. N. A. Swart]]
+- [[Johan Willem van Lansberge|Van Lansberge]]
+- [[H. N. A. Swart|H. N. N. A. Swart]]
 - [[Nederlandsch Indië Platen Atlas (1926)]]
 - [[1914]]
 - [[Peutjot Cemetery]]

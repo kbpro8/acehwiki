@@ -13,7 +13,7 @@ The obstruction of the Peladjoe exemplified the tactical challenges faced by Dut
 
 - [[Soensang River]]
 - [[Palembang]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[1821 Palembang expedition]]
 
 ## Source

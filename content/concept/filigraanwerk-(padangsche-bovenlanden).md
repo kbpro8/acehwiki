@@ -14,7 +14,7 @@ The technique therefore requires four distinct skills: wire-drawing (the product
 
 ## The Padangsche Bovenlanden as the Sumatran centre
 
-The Padangsche Bovenlanden — the highlands of [[Padang|Padang]], in west-central [[Sumatra|Sumatra]] — are the principal Sumatran centre of filigree work in the late colonial period. The region is the heartland of the [[Minangkabau|Minangkabau]] people, and the filigree technique is one of the characteristic Minangkabau crafts. The Padangsche Bovenlanden filigree tradition is documented extensively in the Bezemer atlas: the silver boxes for tobacco and chalk (*tabaks- en kalkdoosjes*) of plates 182a, 182b, 182c-e, 182f (pp. 129–131), the silver belt-buckles (*gordelplaten*) of plate 183 (p. 131), the brass bowls (*kommen*) of plate 151 (p. 114), the brass bowls with ornament of plate 152 (p. 115), the ornaments on bowls of plate 153 (p. 116), the brass bowls of plates 154 and 155 (p. 116), the brass water-pitchers (*gēndi's*) of plates 156/157 (p. 117), the brass kettles of plate 159 (p. 117), the bronze bowls of plates 158 and 166 (pp. 117, 121), the brass boxes for sirih of plate 160 (p. 118), the lid of a brass betel-box of plate 161 (p. 119), the brass model of a house of plate 162 (p. 119), the brass model of a Minangkabau house of plate 163 (p. 120), the brass bowl on foot of plate 164 (p. 121), and the brass chalk-box of plate 167 (p. 121) are all from the Padangsche Bovenlanden. The Padangsche Bovenlanden are, in the Bezemer atlas, the most heavily documented Sumatran centre of metalwork — far more heavily documented than Atjeh.
+The Padangsche Bovenlanden — the highlands of [[Padang|Padang]], in west-central [[Sumatra|Sumatra]] — are the principal Sumatran centre of filigree work in the late colonial period. The region is the heartland of the [[Menangkabau|Menangkabau]] people, and the filigree technique is one of the characteristic Minangkabau crafts. The Padangsche Bovenlanden filigree tradition is documented extensively in the Bezemer atlas: the silver boxes for tobacco and chalk (*tabaks- en kalkdoosjes*) of plates 182a, 182b, 182c-e, 182f (pp. 129–131), the silver belt-buckles (*gordelplaten*) of plate 183 (p. 131), the brass bowls (*kommen*) of plate 151 (p. 114), the brass bowls with ornament of plate 152 (p. 115), the ornaments on bowls of plate 153 (p. 116), the brass bowls of plates 154 and 155 (p. 116), the brass water-pitchers (*gēndi's*) of plates 156/157 (p. 117), the brass kettles of plate 159 (p. 117), the bronze bowls of plates 158 and 166 (pp. 117, 121), the brass boxes for sirih of plate 160 (p. 118), the lid of a brass betel-box of plate 161 (p. 119), the brass model of a house of plate 162 (p. 119), the brass model of a Minangkabau house of plate 163 (p. 120), the brass bowl on foot of plate 164 (p. 121), and the brass chalk-box of plate 167 (p. 121) are all from the Padangsche Bovenlanden. The Padangsche Bovenlanden are, in the Bezemer atlas, the most heavily documented Sumatran centre of metalwork — far more heavily documented than Atjeh.
 
 ## Contrast with the Atjeh *soeasa* technique
 
@@ -45,7 +45,7 @@ For [[Acheh|Atjeh]]'s history, the Padangsche Bovenlanden filigree is significan
 - [[Mas Pirngadie]]
 - [[Toba-Bataklanden]]
 - [[Sumatra]]
-- [[Minangkabau]]
+- [[Menangkabau|Minangkabau]]
 
 ## Source
 

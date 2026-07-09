@@ -16,7 +16,7 @@ Lancaster was granted leave to trade without difficulty. He found, however, that
 
 While Lancaster lay at Atjeh, the French ship *Croissart* appeared on [[24 May]] [[1602]] — its consort *Corbin* had been wrecked on one of the [[Maldives|Maldives]] early in May. The French were received civilly and given leave to land their goods in a house and trade, but they arrived at an unfavourable moment: the pepper had mostly been bought up by the Zeelanders and the English, and "door zieckte van den Gouverneur, als ander quaet toesicht" they could not get into trade; on [[20 September]] [[1602]] the *Croissart* sailed for home. The French visit marks the first appearance of a fourth European nation on the Atjeh roadstead within four years.
 
-In early September the Dutch yacht *'t Lam* under [[Cornelis Spex|Cornelis Spex]] arrived, having become separated from the [[Joris Spilbergh|Joris Spilbergh]] fleet near the Comoros. The yacht was so badly damaged that Spex did not dare continue the voyage; Lancaster took the ship and crew into his service. A few days later Spilbergh himself arrived with the other two ships of his fleet, having visited [[Ceylon]] on the way. When Spilbergh heard of Lancaster's plan to ambush the Portuguese carrack, he offered to join with one of his ships for an eighth of the prize — the first recorded Anglo-Dutch joint naval operation in the East Indies.
+In early September the Dutch yacht *'t Lam* under [[Cornelis Spex|Cornelis Spex]] arrived, having become separated from the [[Joris van Spilbergen|Joris van Spilbergen]] fleet near the Comoros. The yacht was so badly damaged that Spex did not dare continue the voyage; Lancaster took the ship and crew into his service. A few days later Spilbergh himself arrived with the other two ships of his fleet, having visited [[Ceylon]] on the way. When Spilbergh heard of Lancaster's plan to ambush the Portuguese carrack, he offered to join with one of his ships for an eighth of the prize — the first recorded Anglo-Dutch joint naval operation in the East Indies.
 
 ## The capture of the Portuguese carrack (3 October 1602)
 
@@ -30,7 +30,7 @@ James Lancaster's Atjeh visit is, in Van der Woude's narrative, the principal in
 
 - [[James Lancaster]]
 - [[English East India Company]]
-- [[Joris Spilbergh]]
+- [[Joris van Spilbergen|Joris Spilbergh]]
 - [[Joris Spilbergh's Atjeh visit (1602)]]
 - [[Cornelis Spex]]
 - [[John Davis]]

@@ -5,7 +5,7 @@ aliases: [Sultan of Aceh, The Sultan]
 tags: [person, sultan, acehnese, aceh, precolonial]
 ---
 
-**The Sultan of Aceh** was the Acehnese sovereign to whom, in [[Snouck Hurgronje]]'s *De Atjehers* and in the chapter *Jagerslatijn* of *[[Oost-Indisch Journael]]* by Merac ([[1947]]), a manté married couple was brought captive in the time of his grandfather. The Sultan of Aceh is the book's — and Snouck Hurgronje's — marker of the precolonial Acehnese sovereign who received the manté couple and whose efforts to persuade them failed.
+**The Sultan of Aceh** was the Acehnese sovereign to whom, in [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *De Atjehers* and in the chapter *Jagerslatijn* of *[[Oost-Indisch Journael]]* by Merac ([[1947]]), a manté married couple was brought captive in the time of his grandfather. The Sultan of Aceh is the book's — and Snouck Hurgronje's — marker of the precolonial Acehnese sovereign who received the manté couple and whose efforts to persuade them failed.
 
 ## The Manté Couple and the Sultan
 
@@ -22,7 +22,7 @@ The Sultan of Aceh is significant in *[[Oost-Indisch Journael]]* as the precolon
 ## See Also
 
 - [[Oost-Indisch Journael]]
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [Manté's](/concept/mante-s)
 - [[Sultan Iskandar Muda]]
 - [Transport-olifanten (Aceh)](/concept/transport-olifanten-aceh)
@@ -35,7 +35,7 @@ The Sultan of Aceh is significant in *[[Oost-Indisch Journael]]* as the precolon
 ---
 
 
-**The Sultan of Aceh** was the Acehnese sovereign to whom, in [[Snouck Hurgronje]]'s *De Atjehers* and in the chapter *Jagerslatijn* of *[[Oost-Indisch Journael]]* by Merac ([[1947]]), a manté married couple was brought captive in the time of his grandfather. The Sultan of Aceh is the book's — and Snouck Hurgronje's — marker of the precolonial Acehnese sovereign who received the manté couple and whose efforts to persuade them failed.
+**The Sultan of Aceh** was the Acehnese sovereign to whom, in [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *De Atjehers* and in the chapter *Jagerslatijn* of *[[Oost-Indisch Journael]]* by Merac ([[1947]]), a manté married couple was brought captive in the time of his grandfather. The Sultan of Aceh is the book's — and Snouck Hurgronje's — marker of the precolonial Acehnese sovereign who received the manté couple and whose efforts to persuade them failed.
 
 ## The Manté Couple and the Sultan
 
@@ -52,7 +52,7 @@ The Sultan of Aceh is significant in *[[Oost-Indisch Journael]]* as the precolon
 ## See Also
 
 - [[Oost-Indisch Journael]]
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [Manté's](/concept/mante-s)
 - [[Sultan Iskandar Muda]]
 - [Transport-olifanten (Aceh)](/concept/transport-olifanten-aceh)

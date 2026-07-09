@@ -3,11 +3,11 @@ title: Wekker articles
 aliases: [Wekker, De Avondpost articles, Aceh press campaign, the Wekker campaign]
 tags: [event, document, colonial, press, achehnese]
 ---
-The **"Wekker" articles** were a series of articles published in the Dutch newspaper *[[De Avondpost]]* in [[October]] [[1907]], written under the pseudonym "Wekker." They accused [[G. C. E. van Daalen|Governor Van Daalen]] of [[Acheh|Atjèh]] of gross misconduct, cruelty, and the toleration of atrocities, and sparked a major political controversy in the Netherlands. The articles led directly to the [[Atjéh-enquête|Atjéh-enquête]] of [[1907]]–[[1908]] and ultimately contributed to Van Daalen's removal from office in [[1908]]. However, the subsequent official inquiry found that the articles were largely false, exaggerated, or based on unreliable hearsay — though they accelerated a political process that was independently justified.
+The **"Wekker" articles** were a series of articles published in the Dutch newspaper *[[De Avondpost]]* in [[October]] [[1907]], written under the pseudonym "Wekker." They accused [[Gotfried Coenraad Ernst van Daalen|Governor Van Daalen]] of [[Acheh|Atjèh]] of gross misconduct, cruelty, and the toleration of atrocities, and sparked a major political controversy in the Netherlands. The articles led directly to the [[Atjéh-enquête|Atjéh-enquête]] of [[1907]]–[[1908]] and ultimately contributed to Van Daalen's removal from office in [[1908]]. However, the subsequent official inquiry found that the articles were largely false, exaggerated, or based on unreliable hearsay — though they accelerated a political process that was independently justified.
 
 ## Content and impact
 
-The Wekker articles, appearing in multiple instalments, presented a lurid picture of atrocities committed by Dutch troops under Van Daalen's command — including allegations of unprovoked killing of civilians, torture of prisoners, and systematic plunder and destruction of villages. They were widely read in the Netherlands and fuelled parliamentary criticism, particularly from left-wing members such as [[Van Kol]], [[De Stuers]], and [[Thomson]], who used them to press for a formal inquiry. They also strengthened the hand of those who already opposed [[J. B. van Heutsz|Van Heutsz]]'s "imperialist" colonial policies, and his initial public defence of Van Daalen made the controversy a political liability for him personally.
+The Wekker articles, appearing in multiple instalments, presented a lurid picture of atrocities committed by Dutch troops under Van Daalen's command — including allegations of unprovoked killing of civilians, torture of prisoners, and systematic plunder and destruction of villages. They were widely read in the Netherlands and fuelled parliamentary criticism, particularly from left-wing members such as [[Van Kol]], [[De Stuers]], and [[Thomson]], who used them to press for a formal inquiry. They also strengthened the hand of those who already opposed [[Joannes Benedictus van Heutsz|Van Heutsz]]'s "imperialist" colonial policies, and his initial public defence of Van Daalen made the controversy a political liability for him personally.
 
 ## The official inquiry's findings
 
@@ -23,8 +23,8 @@ The Wekker episode illustrates the power of the press in colonial politics and t
 
 ## See Also
 
-- [[G. C. E. van Daalen]]
-- [[J. B. van Heutsz]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Atjéh-enquête]]
 - [[Rost van Tonningen]]
 - [[Pacification of Aceh]]

@@ -35,7 +35,7 @@ The proposed Noord-Sumatra gewest would have ended Atjeh's exceptional status as
 ## See Also
 
 - [[S. de Graaff]]
-- [[H. N. N. A. Swart]]
+- [[H. N. A. Swart|H. N. N. A. Swart]]
 - [[Van der Plas]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]
 - [[Atjeh-Sumatra's Oostkust merger proposal]]

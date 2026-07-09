@@ -5,7 +5,7 @@ aliases: [Derde Bataljon, 3e Bataljon, Atjeh-Bataljon, Aceh Battalion]
 tags: [organization, military-unit, knil, aceh]
 ---
 
-**The Derde Bataljon** — the 3rd Battalion of the [[K.N.I.L.]] — was the "Atjeh-Bataljon," the battalion that received the [[Militaire Willemsorde (M.W.O.)|M.W.O.]] decoration "in [[1877]] voor het buitengewoon roemrijk aandeel" in the early years of the [[Atjeh-oorlog|Aceh War]], "in het bijzonder vermeld die van begin [[1876]]." The Derde Bataljon's M.W.O. was one of the earliest battalion-level decorations of the Aceh War, and the battalion's nickname "Atjeh-Bataljon" marks it as the battalion most identified with the Aceh theatre.
+**The Derde Bataljon** — the 3rd Battalion of the [[K.N.I.L.]] — was the "Atjeh-Bataljon," the battalion that received the [[Militaire Willemsorde|M.W.O.]] decoration "in [[1877]] voor het buitengewoon roemrijk aandeel" in the early years of the [[Atjeh-oorlog|Aceh War]], "in het bijzonder vermeld die van begin [[1876]]." The Derde Bataljon's M.W.O. was one of the earliest battalion-level decorations of the Aceh War, and the battalion's nickname "Atjeh-Bataljon" marks it as the battalion most identified with the Aceh theatre.
 
 ## The M.W.O. of 1877
 
@@ -26,7 +26,7 @@ The Derde Bataljon is significant in *[[Oom Ambon van het K.N.I.L.]]* as the "At
 ## See Also
 
 - [Atjeh-oorlog](/events/atjeh-oorlog)
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Missigit (Meusigit)]]
 - [[K.N.I.L.]]
 - [[1849]]
@@ -40,7 +40,7 @@ The Derde Bataljon is significant in *[[Oom Ambon van het K.N.I.L.]]* as the "At
 ---
 
 
-**The Derde Bataljon** — the 3rd Battalion of the [[K.N.I.L.]] — was the "Atjeh-Bataljon," the battalion that received the [[Militaire Willemsorde (M.W.O.)|M.W.O.]] decoration "in [[1877]] voor het buitengewoon roemrijk aandeel" in the early years of the [[Atjeh-oorlog|Aceh War]], "in het bijzonder vermeld die van begin [[1876]]." The Derde Bataljon's M.W.O. was one of the earliest battalion-level decorations of the Aceh War, and the battalion's nickname "Atjeh-Bataljon" marks it as the battalion most identified with the Aceh theatre.
+**The Derde Bataljon** — the 3rd Battalion of the [[K.N.I.L.]] — was the "Atjeh-Bataljon," the battalion that received the [[Militaire Willemsorde|M.W.O.]] decoration "in [[1877]] voor het buitengewoon roemrijk aandeel" in the early years of the [[Atjeh-oorlog|Aceh War]], "in het bijzonder vermeld die van begin [[1876]]." The Derde Bataljon's M.W.O. was one of the earliest battalion-level decorations of the Aceh War, and the battalion's nickname "Atjeh-Bataljon" marks it as the battalion most identified with the Aceh theatre.
 
 ## The M.W.O. of 1877
 
@@ -61,7 +61,7 @@ The Derde Bataljon is significant in *[[Oom Ambon van het K.N.I.L.]]* as the "At
 ## See Also
 
 - [Atjeh-oorlog](/events/atjeh-oorlog)
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Missigit (Meusigit)]]
 - [[K.N.I.L.]]
 - [[1849]]

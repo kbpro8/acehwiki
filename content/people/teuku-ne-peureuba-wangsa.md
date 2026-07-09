@@ -23,7 +23,7 @@ The title **Peureuba Wangsa** itself — meaning approximately "the dynasty's re
 - [[Panglima Polem]]
 - [[Teuku Seutia Ulama]]
 - [[Panglima Polem]]
-- [[Coronation of the Sultan]]
+- [[Installation of a New Sultan|Coronation of the Sultan]]
 
 ## Source
 
@@ -49,7 +49,7 @@ The title **Peureuba Wangsa** itself — meaning approximately "the dynasty's re
 - [[Panglima Polem]]
 - [[Teuku Seutia Ulama]]
 - [[Panglima Polem]]
-- [[Coronation of the Sultan]]
+- [[Installation of a New Sultan|Coronation of the Sultan]]
 
 ## Source
 

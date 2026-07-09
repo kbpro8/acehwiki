@@ -15,7 +15,7 @@ The Padri militias engaged in armed resistance against both indigenous rulers an
 While centred in West *Sumatra*, the Padri movement’s unrest reverberated northward, influencing the strategic calculations of the [[Aceh]] Sultanate, which perceived the Dutch preoccupation with the Padri as an opportunity to assert its own autonomy.
 
 ## See Also
-- [[Padri War (Sumatra)]]
+- [[Padri War|Padri War (Sumatra)]]
 - [[Expedition against the Padri's (1838)]]
 - [[Aceh]]
 - [[Sumatra]]

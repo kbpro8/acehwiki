@@ -5,7 +5,7 @@ aliases: [Luitenant Onvlee, Lt Onvlee, L.C.G.F. Onvlee, Onvlee, bewaarder van he
 tags: [person, dutch, military, colonial, knil, marechaussee, atjeh, world-war-ii, prisoner-of-war]
 ---
 
-**L. C. G. F. Onvlee** was a lieutenant of the [[K.N.I.L.|Netherlands Indies Army]] Maréchaussee who, as commander of the [[Tangsé|Tangsé]] detachment of the IVde divisie Maréchaussee from [[1 December]] [[1 December 1941|1 December 1941]], was entrusted by the Korpscommandant with the safeguarding of the *vaandel* (colours) of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussee van Atjeh en Onderhorigen]] — together with its associated [[Militaire Willemsorde (M.W.O.)|Militaire Willemsorde]] and gold and silver decorations — and who, through nearly four years of Japanese captivity in Atjeh, [[Birma|Birma]], [[Bangkok|Bangkok]] and onward, succeeded in keeping the vaandel out of Japanese hands. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), the Onvlee episode is the closing special operation of the Atjeh chapter — a near-legendary narrative of obsessive loyalty to a regimental relic.
+**L. C. G. F. Onvlee** was a lieutenant of the [[K.N.I.L.|Netherlands Indies Army]] Maréchaussee who, as commander of the [[Tangsé|Tangsé]] detachment of the IVde divisie Maréchaussee from [[1 December]] [[1 December 1941|1 December 1941]], was entrusted by the Korpscommandant with the safeguarding of the *vaandel* (colours) of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussee van Atjeh en Onderhorigen]] — together with its associated [[Militaire Willemsorde|Militaire Willemsorde]] and gold and silver decorations — and who, through nearly four years of Japanese captivity in Atjeh, [[Birma|Birma]], [[Bangkok|Bangkok]] and onward, succeeded in keeping the vaandel out of Japanese hands. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), the Onvlee episode is the closing special operation of the Atjeh chapter — a near-legendary narrative of obsessive loyalty to a regimental relic.
 
 ## The safeguarding order (December 1941)
 
@@ -42,7 +42,7 @@ The Onvlee episode is, in the staff history's Atjeh chapter, the only sustained 
 - [[Nederlands-Indië contra Japan]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[IVde Divisie Marechaussee]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Tangsé]]
 - [[Geumpang]]
 - [[Lam Meulo]]
@@ -58,7 +58,7 @@ The Onvlee episode is, in the staff history's Atjeh chapter, the only sustained 
 ---
 
 
-**L. C. G. F. Onvlee** was a lieutenant of the [[K.N.I.L.|Netherlands Indies Army]] Maréchaussee who, as commander of the [[Tangsé|Tangsé]] detachment of the IVde divisie Maréchaussee from [[1 December]] [[1 December 1941|1 December 1941]], was entrusted by the Korpscommandant with the safeguarding of the *vaandel* (colours) of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussee van Atjeh en Onderhorigen]] — together with its associated [[Militaire Willemsorde (M.W.O.)|Militaire Willemsorde]] and gold and silver decorations — and who, through nearly four years of Japanese captivity in Atjeh, [[Birma|Birma]], [[Bangkok|Bangkok]] and onward, succeeded in keeping the vaandel out of Japanese hands. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), the Onvlee episode is the closing special operation of the Atjeh chapter — a near-legendary narrative of obsessive loyalty to a regimental relic.
+**L. C. G. F. Onvlee** was a lieutenant of the [[K.N.I.L.|Netherlands Indies Army]] Maréchaussee who, as commander of the [[Tangsé|Tangsé]] detachment of the IVde divisie Maréchaussee from [[1 December]] [[1 December 1941|1 December 1941]], was entrusted by the Korpscommandant with the safeguarding of the *vaandel* (colours) of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussee van Atjeh en Onderhorigen]] — together with its associated [[Militaire Willemsorde|Militaire Willemsorde]] and gold and silver decorations — and who, through nearly four years of Japanese captivity in Atjeh, [[Birma|Birma]], [[Bangkok|Bangkok]] and onward, succeeded in keeping the vaandel out of Japanese hands. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), the Onvlee episode is the closing special operation of the Atjeh chapter — a near-legendary narrative of obsessive loyalty to a regimental relic.
 
 ## The safeguarding order (December 1941)
 
@@ -95,7 +95,7 @@ The Onvlee episode is, in the staff history's Atjeh chapter, the only sustained 
 - [[Nederlands-Indië contra Japan]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[IVde Divisie Marechaussee]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Tangsé]]
 - [[Geumpang]]
 - [[Lam Meulo]]

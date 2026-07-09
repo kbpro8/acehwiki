@@ -16,7 +16,7 @@ The place of publication of this book ('Late E.J. Brill, [[Leyden]], [[1906]]').
 
 ### Holland as Source of Achehnese Scholarship
 
-The book is dedicated, in the first instance, to Dutch scholarship on the East Indies. Snouck Hurgronje quotes [[Prof. Veth|Professor Veth's]] *Atjèh* for the principal historical traditions of Acheh, [[Van Langen]]'s *Atjèhsch Staatsbestuur* for the structure of the sultanate, and the writings of [[G. K. Niemann|G. H. Niemann]] and [[G. A. Wilken]] for comparative ethnography. The exposition of [[Adat Meukuta Alam]] and the *Makota Alam* codes rests on Dutch archival labours, while the ordonnantie of 19 March [[1881]] for the administration of justice among the native population of [[Great Acheh]] was drafted by [[T. H. der Kinderen|Mr. der Kinderen]] and annotated by [[L. W. C. van den Berg|Mr. L. W. C. van den Berg]].
+The book is dedicated, in the first instance, to Dutch scholarship on the East Indies. Snouck Hurgronje quotes [[Pieter Johannes Veth|Professor Veth's]] *Atjèh* for the principal historical traditions of Acheh, [[K. F. H. van Langen|Van Langen]]'s *Atjèhsch Staatsbestuur* for the structure of the sultanate, and the writings of [[G. K. Niemann|G. H. Niemann]] and [[G. A. Wilken]] for comparative ethnography. The exposition of [[Adat Meukuta Alam]] and the *Makota Alam* codes rests on Dutch archival labours, while the ordonnantie of 19 March [[1881]] for the administration of justice among the native population of [[Great Acheh]] was drafted by [[T. H. der Kinderen|Mr. der Kinderen]] and annotated by [[L. W. C. van den Berg|Mr. L. W. C. van den Berg]].
 
 ### The Author's Position
 
@@ -31,13 +31,13 @@ Holland's freedom of action in Acheh was governed by her treaties with Great Bri
 - [[Leyden]]
 - [[Netherlands India]]
 - [[Achehnese War]]
-- [[Van Langen]]
+- [[K. F. H. van Langen|Van Langen]]
 - [[L. W. C. van den Berg]]
 - [[T. H. der Kinderen]]
 - [[C. Snouck Hurgronje]]
 - [[A. S. O'Sullivan]]
 - [[Anglo-Dutch Treaty of 1824]]
-- [[Anglo-Dutch Treaty of 1871]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1871]]
 - [[The Hague]]
 
 ## Source

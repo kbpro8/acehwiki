@@ -19,7 +19,7 @@ Meyer evaluates the campaign as a turning point in the [[Aceh War]], arguing tha
 - [[Marine operations on Sumatra 1874–1876]]
 - [[Royal Netherlands East Indies Army]]
 - [[Royal Netherlands Marine Corps]]
-- [[J.J. Korndörffer]]
+- [[J. J. Korndörffer|J.J. Korndörffer]]
 
 ## Source
 

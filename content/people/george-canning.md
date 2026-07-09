@@ -5,7 +5,7 @@ aliases: [Canning, British plenipotentiary Canning]
 tags: [person, british-official]
 ---
 
-George Canning ([[1770]]–[[1827]]) was a British statesman who, with [[Charles Watkin Williams Wynn|Charles Watkin Williams Wynn]], served as British plenipotentiary at the negotiations which produced the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]]. In the Achehnese record he is also significant as the «[[George Canning|captain Canning]]» who, in [[1814]], conducted an earlier [[Captain Canning's mission to Acheh (1814)|mission to Acheh]] on behalf of the Calcutta government.
+George Canning ([[1770]]–[[1827]]) was a British statesman who, with [[Charles Watkin Williams Wynn|Charles Watkin Williams Wynn]], served as British plenipotentiary at the negotiations which produced the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]]. In the Achehnese record he is also significant as the «[[George Canning|captain Canning]]» who, in [[1814]], conducted an earlier [[Captain Canning's mission to Acheh (1814)|mission to Acheh]] on behalf of the Calcutta government.
 
 ## The Acheh Mission of 1814
 
@@ -17,9 +17,9 @@ A decade later, Canning — now a senior statesman, who would shortly serve as F
 
 ## The Acheh Question at the Eleventh Hour
 
-The most striking episode of the Acheh negotiations, as related by Van der Kemp, is the eleventh-hour raising of the [[Acheh treaty of 1819]] by the British plenipotentiaries ([[Raising of the Acheh treaty in London negotiations|Raising of the Acheh treaty in London negotiations]]). Down to that moment neither side had mentioned Acheh. «The truth», writes Van der Kemp, «will rather be that neither Canning nor Wynn were aware of it, and that the London administration unexpectedly drew their attention to that treaty». When Captain [[Captain Elout|Elout]], son of the Dutch minister, was on the point of departing for [[The Hague]] with the draft treaty, the British plenipotentiaries suddenly informed him that there existed «a British treaty with Acheh» and that they would wish to see it maintained. They described it, however, as «nothing in particular — nothing else than a promise of Acheh to grant hospitality and assistance in shipwreck to British ships». On this representation the Dutch plenipotentiaries raised no objection.
+The most striking episode of the Acheh negotiations, as related by Van der Kemp, is the eleventh-hour raising of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] by the British plenipotentiaries ([[Raising of the Acheh treaty in London negotiations|Raising of the Acheh treaty in London negotiations]]). Down to that moment neither side had mentioned Acheh. «The truth», writes Van der Kemp, «will rather be that neither Canning nor Wynn were aware of it, and that the London administration unexpectedly drew their attention to that treaty». When Captain [[Captain Elout|Elout]], son of the Dutch minister, was on the point of departing for [[The Hague]] with the draft treaty, the British plenipotentiaries suddenly informed him that there existed «a British treaty with Acheh» and that they would wish to see it maintained. They described it, however, as «nothing in particular — nothing else than a promise of Acheh to grant hospitality and assistance in shipwreck to British ships». On this representation the Dutch plenipotentiaries raised no objection.
 
-When the draft was read in full at the conference of [[23 February 1824]], however, it appeared that the engagement was not nearly so innocent as had been represented: by its sixth article, indeed, [[Sir Thomas Stamford Raffles|Raffles]] had provided for the exclusion of other European powers, and the British plenipotentiaries had to acknowledge that the treaty established British «sovereignty». The Dutch plenipotentiaries, in their [[Dutch plenipotentiaries' dispatch of 21 February 1824|dispatch of 21 February 1824]], observed that the treaty «is read and recognised on both sides as in the new state of things no longer capable even of partial maintenance». The final [[Anglo-Dutch Treaty of London (1824)]] accordingly made no mention of the Acheh engagement, but, as Van der Kemp shows, the Dutch government's later recognition of British interests at Acheh was the fruit of Canning and Wynn's eleventh-hour manoeuvre.
+When the draft was read in full at the conference of [[23 February 1824]], however, it appeared that the engagement was not nearly so innocent as had been represented: by its sixth article, indeed, [[Sir Thomas Stamford Raffles|Raffles]] had provided for the exclusion of other European powers, and the British plenipotentiaries had to acknowledge that the treaty established British «sovereignty». The Dutch plenipotentiaries, in their [[Dutch plenipotentiaries' dispatch of 21 February 1824|dispatch of 21 February 1824]], observed that the treaty «is read and recognised on both sides as in the new state of things no longer capable even of partial maintenance». The final [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]] accordingly made no mention of the Acheh engagement, but, as Van der Kemp shows, the Dutch government's later recognition of British interests at Acheh was the fruit of Canning and Wynn's eleventh-hour manoeuvre.
 
 ## See Also
 
@@ -30,9 +30,9 @@ When the draft was read in full at the conference of [[23 February 1824]], howev
 - [[Ridder Reinhold]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Captain Canning's mission to Acheh (1814)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Convention of 24 January 1817]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Raising of the Acheh treaty in London negotiations]]
 - [[Dutch plenipotentiaries' dispatch of 21 February 1824]]
 - [[Lord Castlereagh]]
@@ -43,7 +43,7 @@ When the draft was read in full at the conference of [[23 February 1824]], howev
 ---
 
 
-George Canning ([[1770]]–[[1827]]) was a British statesman who, with [[Charles Watkin Williams Wynn|Charles Watkin Williams Wynn]], served as British plenipotentiary at the negotiations which produced the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]]. In the Achehnese record he is also significant as the «[[George Canning|captain Canning]]» who, in [[1814]], conducted an earlier [[Captain Canning's mission to Acheh (1814)|mission to Acheh]] on behalf of the Calcutta government.
+George Canning ([[1770]]–[[1827]]) was a British statesman who, with [[Charles Watkin Williams Wynn|Charles Watkin Williams Wynn]], served as British plenipotentiary at the negotiations which produced the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]]. In the Achehnese record he is also significant as the «[[George Canning|captain Canning]]» who, in [[1814]], conducted an earlier [[Captain Canning's mission to Acheh (1814)|mission to Acheh]] on behalf of the Calcutta government.
 
 ## The Acheh Mission of 1814
 
@@ -55,9 +55,9 @@ A decade later, Canning — now a senior statesman, who would shortly serve as F
 
 ## The Acheh Question at the Eleventh Hour
 
-The most striking episode of the Acheh negotiations, as related by Van der Kemp, is the eleventh-hour raising of the [[Acheh treaty of 1819]] by the British plenipotentiaries ([[Raising of the Acheh treaty in London negotiations|Raising of the Acheh treaty in London negotiations]]). Down to that moment neither side had mentioned Acheh. «The truth», writes Van der Kemp, «will rather be that neither Canning nor Wynn were aware of it, and that the London administration unexpectedly drew their attention to that treaty». When Captain [[Captain Elout|Elout]], son of the Dutch minister, was on the point of departing for [[The Hague]] with the draft treaty, the British plenipotentiaries suddenly informed him that there existed «a British treaty with Acheh» and that they would wish to see it maintained. They described it, however, as «nothing in particular — nothing else than a promise of Acheh to grant hospitality and assistance in shipwreck to British ships». On this representation the Dutch plenipotentiaries raised no objection.
+The most striking episode of the Acheh negotiations, as related by Van der Kemp, is the eleventh-hour raising of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] by the British plenipotentiaries ([[Raising of the Acheh treaty in London negotiations|Raising of the Acheh treaty in London negotiations]]). Down to that moment neither side had mentioned Acheh. «The truth», writes Van der Kemp, «will rather be that neither Canning nor Wynn were aware of it, and that the London administration unexpectedly drew their attention to that treaty». When Captain [[Captain Elout|Elout]], son of the Dutch minister, was on the point of departing for [[The Hague]] with the draft treaty, the British plenipotentiaries suddenly informed him that there existed «a British treaty with Acheh» and that they would wish to see it maintained. They described it, however, as «nothing in particular — nothing else than a promise of Acheh to grant hospitality and assistance in shipwreck to British ships». On this representation the Dutch plenipotentiaries raised no objection.
 
-When the draft was read in full at the conference of [[23 February 1824]], however, it appeared that the engagement was not nearly so innocent as had been represented: by its sixth article, indeed, [[Sir Thomas Stamford Raffles|Raffles]] had provided for the exclusion of other European powers, and the British plenipotentiaries had to acknowledge that the treaty established British «sovereignty». The Dutch plenipotentiaries, in their [[Dutch plenipotentiaries' dispatch of 21 February 1824|dispatch of 21 February 1824]], observed that the treaty «is read and recognised on both sides as in the new state of things no longer capable even of partial maintenance». The final [[Anglo-Dutch Treaty of London (1824)]] accordingly made no mention of the Acheh engagement, but, as Van der Kemp shows, the Dutch government's later recognition of British interests at Acheh was the fruit of Canning and Wynn's eleventh-hour manoeuvre.
+When the draft was read in full at the conference of [[23 February 1824]], however, it appeared that the engagement was not nearly so innocent as had been represented: by its sixth article, indeed, [[Sir Thomas Stamford Raffles|Raffles]] had provided for the exclusion of other European powers, and the British plenipotentiaries had to acknowledge that the treaty established British «sovereignty». The Dutch plenipotentiaries, in their [[Dutch plenipotentiaries' dispatch of 21 February 1824|dispatch of 21 February 1824]], observed that the treaty «is read and recognised on both sides as in the new state of things no longer capable even of partial maintenance». The final [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]] accordingly made no mention of the Acheh engagement, but, as Van der Kemp shows, the Dutch government's later recognition of British interests at Acheh was the fruit of Canning and Wynn's eleventh-hour manoeuvre.
 
 ## See Also
 
@@ -68,9 +68,9 @@ When the draft was read in full at the conference of [[23 February 1824]], howev
 - [[Ridder Reinhold]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Captain Canning's mission to Acheh (1814)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Convention of 24 January 1817]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Raising of the Acheh treaty in London negotiations]]
 - [[Dutch plenipotentiaries' dispatch of 21 February 1824]]
 - [[Lord Castlereagh]]

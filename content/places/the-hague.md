@@ -8,7 +8,7 @@ tags: [place, city, netherlands, publication, colonial-government, capital, euro
 
 ## Cited Works Published at The Hague
 
-Snouck Hurgronje's most explicit reference to The Hague in Vol. I comes in a footnote to the Introduction, in which he refers his readers to a recent essay by [[P. H. van der Kemp]] on the 1819 treaty concluded by [[Raffles]] with "Johor Allum" as king of [[Acheh]]. "Essay of P. H. van der Kemp in *Bijdragen van het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch Indië*, vol. LI, pp. 159–240 (the Hague, 1900)." The volume of the *Bijdragen* in which Van der Kemp's article appeared was published at The Hague in [[1900]], and from its pages Snouck quotes long extracts from the archives of the India Office in London.
+Snouck Hurgronje's most explicit reference to The Hague in Vol. I comes in a footnote to the Introduction, in which he refers his readers to a recent essay by [[P. H. van der Kemp]] on the 1819 treaty concluded by [[Sir Thomas Stamford Raffles|Raffles]] with "Johor Allum" as king of [[Acheh]]. "Essay of P. H. van der Kemp in *Bijdragen van het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch Indië*, vol. LI, pp. 159–240 (the Hague, 1900)." The volume of the *Bijdragen* in which Van der Kemp's article appeared was published at The Hague in [[1900]], and from its pages Snouck quotes long extracts from the archives of the India Office in London.
 
 The same journal of the Royal Institute, published at The Hague, is cited again in connection with [[G. K. Niemann]]'s "Bijdrage tot de kennis der verhouding van het Tjam tot de talen van Indonesië" (*Bijdragen* for 1891, "at the Hague, p. 27 et seq."), as well as its *Bibliographische Bijdragen*. Other writings of [[G. A. Wilken]], including the treatise on *Struma en Cretinisme in den Indischen Archipel* (*Bijdragen* for 1890), are likewise cited by Snouck as publications of the Hague-based Institute.
 
@@ -48,7 +48,7 @@ The King's authorisation, drafted by Reinhold and signed by the sovereign on [[1
 - [[Ridder Reinhold]]
 - [[J. C. Baud|J. C. Baud]]
 - [[King's Authorization of 13 February 1824]]
-- [[Anglo-Dutch Treaty of London 1824]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London 1824]]
 
 ## Source
 

@@ -13,11 +13,11 @@ The imeum mukim oversaw: the proper maintenance of the [[Meusigit|mosque]] and F
 
 ## Title
 
-The title *imeum* (from Arabic *imām*) was applied in [[Penang]] and Province Wellesley (as [[R.J. Wilkinson]] noted) to the same office under British administration — the English Government having adopted the Acehnese/Malay word *[[Mukim|mukim]]* for the administrative unit. In the [[Pidie|Pidië dialect]] the word *penghulu* (Malay equivalent) was employed in this sense; it was the equivalent of the Malay *pënghulu* — chief or lord — a title otherwise confined in [[Great Acheh|Acheh]] to the Prophet and his disciples.
+The title *imeum* (from Arabic *imām*) was applied in [[Penang]] and Province Wellesley (as [[R. J. Wilkinson|R.J. Wilkinson]] noted) to the same office under British administration — the English Government having adopted the Acehnese/Malay word *[[Mukim|mukim]]* for the administrative unit. In the [[Pidie|Pidië dialect]] the word *penghulu* (Malay equivalent) was employed in this sense; it was the equivalent of the Malay *pënghulu* — chief or lord — a title otherwise confined in [[Great Acheh|Acheh]] to the Prophet and his disciples.
 
 ## Account from *De Buitenbezittingen* (1917) — Imeum
 
-**The imeum** was the head of the [[Moekim|moekim]] — the Friday-service circle of [[Groot-Atjeh|Groot-Atjeh]] and the surrounding Atjehsche lands — and the central figure in the historical transformation of an originally religious office into an adat chieftaincy. *De Buitenbezittingen*, drawing on Prof. Dr. [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] (*De Atjehers*, Vol. I, p. 84 e.v.), describes the imeum as the counterpart at the moekim level of the [[Teungkoe|Teungkoe meunasah]] at the gampong level — yet one whose office "spoedig geheel ontaard" by usurping the powers of the territorial [[Oelèëbalang|oelèëbalang]].
+**The imeum** was the head of the [[Moekim|moekim]] — the Friday-service circle of [[Groot-Atjeh|Groot-Atjeh]] and the surrounding Atjehsche lands — and the central figure in the historical transformation of an originally religious office into an adat chieftaincy. *De Buitenbezittingen*, drawing on Prof. Dr. [[C. Snouck Hurgronje|Snouck Hurgronje]] (*De Atjehers*, Vol. I, p. 84 e.v.), describes the imeum as the counterpart at the moekim level of the [[Teungkoe|Teungkoe meunasah]] at the gampong level — yet one whose office "spoedig geheel ontaard" by usurping the powers of the territorial [[Oelèëbalang|oelèëbalang]].
 
 ## Religious origin
 
@@ -25,7 +25,7 @@ In the beginning, the handbook records, the imeum's task was "eene geheel of gro
 
 ## Drift to adat
 
-The drift of the office away from its religious foundation was, in [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s analysis, the inevitable consequence of Islam's own structural propensity to open up "een wijd veld voor zijn heerschzucht" — a wide field for ambition — to anyone entrusted with religious function. "Zoo dan is het ambt der Imeums spoedig geheel ontaard," the source records; imeums strove "om over de gampongs, die tot hun Vrijdagskring behoorden, overal de macht van een oelèëbalang toe te eigenen." The result was that imeums "thans alle adathoofden zonder eenig godsdienstig karakter zijn geworden" — are now all adat chiefs without any religious character. Some even "hebben het zelfs geheel tot de zelfstandigheid gebracht" — achieved full independence — "van den oelèëbalang," though they often did not assume the title.
+The drift of the office away from its religious foundation was, in [[C. Snouck Hurgronje|Snouck Hurgronje]]'s analysis, the inevitable consequence of Islam's own structural propensity to open up "een wijd veld voor zijn heerschzucht" — a wide field for ambition — to anyone entrusted with religious function. "Zoo dan is het ambt der Imeums spoedig geheel ontaard," the source records; imeums strove "om over de gampongs, die tot hun Vrijdagskring behoorden, overal de macht van een oelèëbalang toe te eigenen." The result was that imeums "thans alle adathoofden zonder eenig godsdienstig karakter zijn geworden" — are now all adat chiefs without any religious character. Some even "hebben het zelfs geheel tot de zelfstandigheid gebracht" — achieved full independence — "van den oelèëbalang," though they often did not assume the title.
 
 ## Constitutional position
 
@@ -56,7 +56,7 @@ The distinctive contribution of Mellema's account is the canonical-genetic frami
 - [[Meuseugit]]
 - [[Hoeköm]]
 - [[Adat]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Groot-Atjeh]]
 - [[De Islaam in Indonesië (Mellema, 1947)]]
 - [[R. L. Mellema]]

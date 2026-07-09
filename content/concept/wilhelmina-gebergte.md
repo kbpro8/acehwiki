@@ -8,7 +8,7 @@ tags: [place, atjeh, central-atjeh, mountain-range, orography, dutch-colonial, b
 
 ## Naming (1912)
 
-The Bureau's Hoofdstuk I records the naming of the Wilhelmina gebergte in [[1912]]: *Op verzoek van Dr. W. Volz te Breslau ontving dit gebergte den naam van „Koningin Wilhelmina gebergte"* (Kab. Res. van [[5 September]] [[1912]] No. 17). The naming is the Bureau's principal evidence of the Dutch colonial practice of naming Sumatran orographic features after members of the Dutch royal house — a practice that linked the colonial geographical survey to the metropolitan monarchical culture. The Wilhelmina gebergte was named for [[Koningin Wilhelmina|Queen Wilhelmina]] of the Netherlands, who reigned from [[1890]] to [[1948]].
+The Bureau's Hoofdstuk I records the naming of the Wilhelmina gebergte in [[1912]]: *Op verzoek van Dr. W. Volz te Breslau ontving dit gebergte den naam van „Koningin Wilhelmina gebergte"* (Kab. Res. van [[5 September]] [[1912]] No. 17). The naming is the Bureau's principal evidence of the Dutch colonial practice of naming Sumatran orographic features after members of the Dutch royal house — a practice that linked the colonial geographical survey to the metropolitan monarchical culture. The Wilhelmina gebergte was named for [[Queen Wilhelmina|Queen Wilhelmina]] of the Netherlands, who reigned from [[1890]] to [[1948]].
 
 The [[1918]] Oostkust volume adds Volz's own rationale for the naming: *Zoo gezien schijnt dit hooggebergte wel de moeite waard, een Koninklijken naam te dragen* — "Seen thus, this high mountain range seems well worth bearing a Royal name." Volz identified the range as the most spectacular expression of the *Batak-boog* (Batak arc), a meridional fold system forming the eastern Barisan row in northern Sumatra. The *van Heutszgebergte* (third Barisan row) abuts its eastern flank.
 
@@ -54,7 +54,7 @@ The range was a formidable barrier (*verkeershindernis*) between the [[Batak Kar
 
 ## Significance
 
-The Wilhelmina gebergte is, in the [[1917]] Bureau's Sumatra survey, the principal mountain range of central [[Gouvernement Atjeh en Onderhoorigheden|Atjeh]] and the orographic nucleus of the central-Atjeh *hoogvlakte*. The Bureau's emphasis on the range's naming in [[1912]] — and on its composition from the *Bandahara*, *Kembar* and *Abong-Abong* peaks — frames the Wilhelmina gebergte as the geographical foundation of the Dutch colonial state's central-Atjeh *bivaks* at [[Takengon|Takengon]] and [[Blangkedjeren|Blangkedjeren]], and as the orographic nucleus of the [[Lao Alas|Lao Alas]] and [[Laoet Tawar|Laoet Tawar]] hydrographical systems.
+The Wilhelmina gebergte is, in the [[1917]] Bureau's Sumatra survey, the principal mountain range of central [[Gouvernement Atjeh en Onderhoorigheden|Atjeh]] and the orographic nucleus of the central-Atjeh *hoogvlakte*. The Bureau's emphasis on the range's naming in [[1912]] — and on its composition from the *Bandahara*, *Kembar* and *Abong-Abong* peaks — frames the Wilhelmina gebergte as the geographical foundation of the Dutch colonial state's central-Atjeh *bivaks* at [[Takengon|Takengon]] and [[Blangkedjeren|Blangkedjeren]], and as the orographic nucleus of the [[Lao Alas|Lao Alas]] and [[Laut Tawar|Laut Tawar]] hydrographical systems.
 
 In the [[Nederlands-Indië contra Japan|staff history's]] Atjeh chapter, the Wilhelmina gebergte is the orographic theatre of the [[Sumatra capitulation (28 March 1942)|Blangkedjeren capitulation of 28 March 1942]] and of the [[Van Zanten's resistance (March 1942 – March 1943)|Van Zanten resistance]] of [[March 1942|March 1942]]–[[March 1943|March 1943]].
 
@@ -63,7 +63,7 @@ The [[1918]] Oostkust volume extends the picture from the [[Gouvernement Oostkus
 ## See Also
 
 - [[De Buitenbezittingen, Deel II, Aflevering 1]]
-- [[Koningin Wilhelmina]]
+- [[Queen Wilhelmina|Koningin Wilhelmina]]
 - [[Barisan]]
 - [[Gajoesche Centraalgebergte]]
 - [[Abong-Abong]]
@@ -72,7 +72,7 @@ The [[1918]] Oostkust volume extends the picture from the [[Gouvernement Oostkus
 - [[G. Loser]]
 - [[Goudberg]]
 - [[Lao Alas]]
-- [[Laoet Tawar]]
+- [[Laut Tawar|Laoet Tawar]]
 - [[Takengon]]
 - [[Blangkedjeren]]
 - [[van Heutszgebergte]]

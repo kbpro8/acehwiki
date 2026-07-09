@@ -20,7 +20,7 @@ The *niet-inmengingspolitiek* was the explicit framing of the Dutch decision to 
 
 ## The Resolution
 
-The [[Pacificatie van Atjeh|pacification of Atjeh]] by [[J. B. van Heutsz|Van Heutsz]] around the turn of the century, and the subsequent reforms by which Van Heutsz preserved native self-government under a thin layer of properly prepared Dutch administrators, marked the definitive abandonment of the *niet-inmengingspolitiek* and its replacement by an active, though economical, colonial administration. Frijling defends Van Heutsz against the charge of being a *geweldenaar en onderdrukker* — a violent man and oppressor — and praises his policy of preserving the native self-governments (*inlandse zelfbesturen*) under the supervision of a single, properly prepared Dutch official with multiple functions. This was the "ei van Columbus" — alternatively, the "ei van van Heutsz" — that resolved the problem that the *niet-inmengingspolitiek* had failed to solve.
+The [[Pacificatie van Atjeh|pacification of Atjeh]] by [[Joannes Benedictus van Heutsz|Van Heutsz]] around the turn of the century, and the subsequent reforms by which Van Heutsz preserved native self-government under a thin layer of properly prepared Dutch administrators, marked the definitive abandonment of the *niet-inmengingspolitiek* and its replacement by an active, though economical, colonial administration. Frijling defends Van Heutsz against the charge of being a *geweldenaar en onderdrukker* — a violent man and oppressor — and praises his policy of preserving the native self-governments (*inlandse zelfbesturen*) under the supervision of a single, properly prepared Dutch official with multiple functions. This was the "ei van Columbus" — alternatively, the "ei van van Heutsz" — that resolved the problem that the *niet-inmengingspolitiek* had failed to solve.
 
 ## See Also
 
@@ -32,7 +32,7 @@ The [[Pacificatie van Atjeh|pacification of Atjeh]] by [[J. B. van Heutsz|Van He
 - [[First Aceh Expedition (1873)]]
 - [[Capture of the Kraton (24 January 1874)]]
 - [[Pacificatie van Atjeh]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[J. Frijling]]
 - [[Anglo-Dutch Treaty of London]]
 - [[Vereenigde Oost-Indische Compagnie]]

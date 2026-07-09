@@ -15,7 +15,7 @@ The term exemplifies how Acehnese‑Malay poets employed local natural symbols t
 
 ## See Also
 
-- [[Burda]]
+- [[Burda (poem)|Burda]]
 - [[Arabic loanwords in Acehnese Malay]]
 
 ## Source

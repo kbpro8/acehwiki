@@ -4,7 +4,7 @@ aliases: [Kroeeng Keureute, Krueng Keureutoe, Keureutë river, Kroeëng Keureut�
 tags: [place, atjeh, noordkust, river, hydrography, dutch-colonial]
 ---
 
-**The Kroeëng Keureutë** is a *Noordkust* van Atjeh river that drains the [[Laoet Tawar|Laoet Tawar]] lake and the *hoogvlakte* of [[Takengon|Takengon]] and [[Ketol|Ketol]] to the *Noordkust* of Atjeh. In the [[De Buitenbezittingen, Deel II, Aflevering 1|Encyclopaedisch Bureau's Sumatra survey]] (1917), the Kroeëng Keureutë is one of the two principal exceptions (with the [[Peusanganrivier|Peusanganrivier]]) to the *te korten loop* of the [[Diamantpunt|Diamantpunt]]-area *Noordkust* rivers, and the principal hydrographical connection between the central-Atjeh *hoogvlakte* and the *Noordkust* *kustvlakte*.
+**The Kroeëng Keureutë** is a *Noordkust* van Atjeh river that drains the [[Laut Tawar|Laut Tawar]] lake and the *hoogvlakte* of [[Takengon|Takengon]] and [[Ketol|Ketol]] to the *Noordkust* of Atjeh. In the [[De Buitenbezittingen, Deel II, Aflevering 1|Encyclopaedisch Bureau's Sumatra survey]] (1917), the Kroeëng Keureutë is one of the two principal exceptions (with the [[Peusanganrivier|Peusanganrivier]]) to the *te korten loop* of the [[Diamantpunt|Diamantpunt]]-area *Noordkust* rivers, and the principal hydrographical connection between the central-Atjeh *hoogvlakte* and the *Noordkust* *kustvlakte*.
 
 ## Hydrography
 
@@ -22,7 +22,7 @@ The Kroeëng Keureutë is, in the Bureau's Sumatra survey, one of the two princi
 - [[Kroeëng Wojla]]
 - [[Kroeëng Teunom]]
 - [[Peusanganrivier]]
-- [[Laoet Tawar]]
+- [[Laut Tawar|Laoet Tawar]]
 - [[Takengon]]
 - [[Ketol]]
 - [[Diamantpunt]]

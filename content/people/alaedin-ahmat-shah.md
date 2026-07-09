@@ -25,17 +25,17 @@ On the ninefold seal of the pretender [[Sultan Alaedin Muhamad Daud Shah Juhan|S
 
 ## Invocation in letters patent
 
-In the formal letters patent given by the pretender sultans to their chiefs — such as the document bestowed upon [[Panglima Meuseugit Raya]] on 4 Rabi' al-Awwal 1307 H ([[1889]]) — the "blessing of the mediation" of a fixed series of former monarchs is invoked. Among them appears "His late Majesty Alaedin Ahmat Shah", together with [[Sultan Meukuta Alam|Meukuta Alam Iskandar Muda]], [[Sultan Tajul-alam|Tajul-alam Sapiatodin]], [[Sultan Mahmut Shah|Alaedin Mahmut Shah]], [[Sultan Alaedin Muhamat Shah|Alaedin Muhamat Shah]], [[Sultan Jauhar Alain Shah|Alaedin Jauhar al-Alam Shah]] and [[Sultan Mansur Shah|Alaedin Manso Shah]]. The formula underscores the place of Amat Shah Juhan in the canonical memory of the dynasty he founded.
+In the formal letters patent given by the pretender sultans to their chiefs — such as the document bestowed upon [[Panglima Meuseugit Raya]] on 4 Rabi' al-Awwal 1307 H ([[1889]]) — the "blessing of the mediation" of a fixed series of former monarchs is invoked. Among them appears "His late Majesty Alaedin Ahmat Shah", together with [[Sultan Meukuta Alam|Meukuta Alam Iskandar Muda]], [[Sultan Tajul-alam|Tajul-alam Sapiatodin]], [[Sultan Mahmut Shah|Alaedin Mahmut Shah]], [[Sultan Alaedin Muhamat Shah|Alaedin Muhamat Shah]], [[Sultan Jauhar Alain Shah|Alaedin Jauhar al-Alam Shah]] and [[Sultan Ibrahim Mansur Shah|Alaedin Manso Shah]]. The formula underscores the place of Amat Shah Juhan in the canonical memory of the dynasty he founded.
 
 ## Expanded account from *The Achehnese*, Vol. I — Sultan Ahmat Shah
 
-**Sultan Ahmat Shah** (also styled **Alaedin Ahmat Shah**) was the first prince of the present Bugis-origin dynasty of [[Acheh]], and reigned from [[1723]] or [[1726]] until [[1735]]. His name is preserved on the *chab sikureu'eng*, the [[Sarakata with chab sikureu'eng|ninefold seal]] placed at the head of sultans' edicts, and his mediation (*afwah*, "mouths") is invoked in the preamble of those documents.
+**Sultan Ahmat Shah** (also styled **Alaedin Ahmat Shah**) was the first prince of the present Bugis-origin dynasty of [[Acheh]], and reigned from [[1723]] or [[1726]] until [[1735]]. His name is preserved on the *chab sikureu'eng*, the [[Sarakata|ninefold seal]] placed at the head of sultans' edicts, and his mediation (*afwah*, "mouths") is invoked in the preamble of those documents.
 
 The ninefold seal, as described by [[C. Snouck Hurgronje]], consists of one large central circle bearing the name of the reigning sultan, surrounded by eight smaller circles each containing the name of a celebrated predecessor. The choice of the eight names rests with the reigning sultan, but four names recur on virtually all such seals — those of the rulers to whom the former prosperity of Acheh and her adat-institutions were generally ascribed. These four fixed names are [[Sultan Sayyidi al-Mukamnal]] (Alaedin al-Qahhar), [[Sultan Meukuta Alam]] (Iskandar Muda), [[Sultan Tajul-alam]] (Sapiatodin), and Sultan Ahmat Shah.
 
-Sultan Ahmat Shah's place in this select group marks the political importance attached to the establishment of the present dynasty, which supplanted the older line of Achehnese rulers in the early eighteenth century. He was succeeded by Sultan Juhan Shah ([[1735]]–[[1760]]). The dynasty he founded continued to occupy the throne of Acheh, in increasingly attenuated form, down to the reign of [[Sultan Mansur Shah]] ([[1838]]–[[1870]]) and his son [[Tuanku Muhamat Dawot|Sultan Alaedin Muhamad Daud Shah Juhan]], the last sultan recognised by the Achehnese.
+Sultan Ahmat Shah's place in this select group marks the political importance attached to the establishment of the present dynasty, which supplanted the older line of Achehnese rulers in the early eighteenth century. He was succeeded by Sultan Juhan Shah ([[1735]]–[[1760]]). The dynasty he founded continued to occupy the throne of Acheh, in increasingly attenuated form, down to the reign of [[Sultan Ibrahim Mansur Shah|Sultan Mansur Shah]] ([[1838]]–[[1870]]) and his son [[Tuanku Muhamat Dawot|Sultan Alaedin Muhamad Daud Shah Juhan]], the last sultan recognised by the Achehnese.
 
-In the actual letters patent (*sarakata*) issued by the later sultans, the blessing of Allah, of the Prophet [[Mohammad (the Prophet)|Mohammad]], of the saint [[Abdul-Qadir Jilani]], and of the deceased kings of blessed memory is invoked upon the deed. The preamble of the letters patent given to [[Panglima Meuseugit Raya]] on 4 Rabi' al-Awwal 1307 H ([[1889]]) explicitly names Ahmat Shah among the monarchs whose mediation is sought, alongside [[Sultan Mahmut Shah]], [[Sultan Alaedin Muhamat Shah]], [[Sultan Jauhar Alain Shah]], and [[Sultan Mansur Shah]].
+In the actual letters patent (*sarakata*) issued by the later sultans, the blessing of Allah, of the Prophet [[Mohammad (the Prophet)|Mohammad]], of the saint [[Abdul-Qadir Jilani]], and of the deceased kings of blessed memory is invoked upon the deed. The preamble of the letters patent given to [[Panglima Meuseugit Raya]] on 4 Rabi' al-Awwal 1307 H ([[1889]]) explicitly names Ahmat Shah among the monarchs whose mediation is sought, alongside [[Sultan Mahmut Shah]], [[Sultan Alaedin Muhamat Shah]], [[Sultan Jauhar Alain Shah]], and [[Sultan Ibrahim Mansur Shah|Sultan Mansur Shah]].
 
 ## See Also
 - [[Acheh]]
@@ -46,10 +46,10 @@ In the actual letters patent (*sarakata*) issued by the later sultans, the bless
 - [[Pochut Muhamat]]
 - [[Poteu Jeumaloy]]
 - [[Sarakata (royal edicts of Acheh)]]
-- [[Sarakata with chab sikureu'eng]]
+- [[Sarakata|Sarakata with chab sikureu'eng]]
 - [[Sultan Ahmat Shah]]
 - [[Sultan Juhan Shah]]
-- [[Sultan Mansur Shah]]
+- [[Sultan Ibrahim Mansur Shah|Sultan Mansur Shah]]
 - [[Sultan Meukuta Alam]]
 - [[Sultan Sayyidi al-Mukamnal]]
 - [[Sultan Tajul-alam]]
@@ -82,17 +82,17 @@ On the ninefold seal of the pretender [[Sultan Alaedin Muhamad Daud Shah Juhan|S
 
 ## Invocation in letters patent
 
-In the formal letters patent given by the pretender sultans to their chiefs — such as the document bestowed upon [[Panglima Meuseugit Raya]] on 4 Rabi' al-Awwal 1307 H ([[1889]]) — the "blessing of the mediation" of a fixed series of former monarchs is invoked. Among them appears "His late Majesty Alaedin Ahmat Shah", together with [[Sultan Meukuta Alam|Meukuta Alam Iskandar Muda]], [[Sultan Tajul-alam|Tajul-alam Sapiatodin]], [[Sultan Mahmut Shah|Alaedin Mahmut Shah]], [[Sultan Alaedin Muhamat Shah|Alaedin Muhamat Shah]], [[Sultan Jauhar Alain Shah|Alaedin Jauhar al-Alam Shah]] and [[Sultan Mansur Shah|Alaedin Manso Shah]]. The formula underscores the place of Amat Shah Juhan in the canonical memory of the dynasty he founded.
+In the formal letters patent given by the pretender sultans to their chiefs — such as the document bestowed upon [[Panglima Meuseugit Raya]] on 4 Rabi' al-Awwal 1307 H ([[1889]]) — the "blessing of the mediation" of a fixed series of former monarchs is invoked. Among them appears "His late Majesty Alaedin Ahmat Shah", together with [[Sultan Meukuta Alam|Meukuta Alam Iskandar Muda]], [[Sultan Tajul-alam|Tajul-alam Sapiatodin]], [[Sultan Mahmut Shah|Alaedin Mahmut Shah]], [[Sultan Alaedin Muhamat Shah|Alaedin Muhamat Shah]], [[Sultan Jauhar Alain Shah|Alaedin Jauhar al-Alam Shah]] and [[Sultan Ibrahim Mansur Shah|Alaedin Manso Shah]]. The formula underscores the place of Amat Shah Juhan in the canonical memory of the dynasty he founded.
 
 ## Expanded account from *The Achehnese*, Vol. I — Sultan Ahmat Shah
 
-**Sultan Ahmat Shah** (also styled **Alaedin Ahmat Shah**) was the first prince of the present Bugis-origin dynasty of [[Acheh]], and reigned from [[1723]] or [[1726]] until [[1735]]. His name is preserved on the *chab sikureu'eng*, the [[Sarakata with chab sikureu'eng|ninefold seal]] placed at the head of sultans' edicts, and his mediation (*afwah*, "mouths") is invoked in the preamble of those documents.
+**Sultan Ahmat Shah** (also styled **Alaedin Ahmat Shah**) was the first prince of the present Bugis-origin dynasty of [[Acheh]], and reigned from [[1723]] or [[1726]] until [[1735]]. His name is preserved on the *chab sikureu'eng*, the [[Sarakata|ninefold seal]] placed at the head of sultans' edicts, and his mediation (*afwah*, "mouths") is invoked in the preamble of those documents.
 
 The ninefold seal, as described by [[C. Snouck Hurgronje]], consists of one large central circle bearing the name of the reigning sultan, surrounded by eight smaller circles each containing the name of a celebrated predecessor. The choice of the eight names rests with the reigning sultan, but four names recur on virtually all such seals — those of the rulers to whom the former prosperity of Acheh and her adat-institutions were generally ascribed. These four fixed names are [[Sultan Sayyidi al-Mukamnal]] (Alaedin al-Qahhar), [[Sultan Meukuta Alam]] (Iskandar Muda), [[Sultan Tajul-alam]] (Sapiatodin), and Sultan Ahmat Shah.
 
-Sultan Ahmat Shah's place in this select group marks the political importance attached to the establishment of the present dynasty, which supplanted the older line of Achehnese rulers in the early eighteenth century. He was succeeded by Sultan Juhan Shah ([[1735]]–[[1760]]). The dynasty he founded continued to occupy the throne of Acheh, in increasingly attenuated form, down to the reign of [[Sultan Mansur Shah]] ([[1838]]–[[1870]]) and his son [[Tuanku Muhamat Dawot|Sultan Alaedin Muhamad Daud Shah Juhan]], the last sultan recognised by the Achehnese.
+Sultan Ahmat Shah's place in this select group marks the political importance attached to the establishment of the present dynasty, which supplanted the older line of Achehnese rulers in the early eighteenth century. He was succeeded by Sultan Juhan Shah ([[1735]]–[[1760]]). The dynasty he founded continued to occupy the throne of Acheh, in increasingly attenuated form, down to the reign of [[Sultan Ibrahim Mansur Shah|Sultan Mansur Shah]] ([[1838]]–[[1870]]) and his son [[Tuanku Muhamat Dawot|Sultan Alaedin Muhamad Daud Shah Juhan]], the last sultan recognised by the Achehnese.
 
-In the actual letters patent (*sarakata*) issued by the later sultans, the blessing of Allah, of the Prophet [[Mohammad (the Prophet)|Mohammad]], of the saint [[Abdul-Qadir Jilani]], and of the deceased kings of blessed memory is invoked upon the deed. The preamble of the letters patent given to [[Panglima Meuseugit Raya]] on 4 Rabi' al-Awwal 1307 H ([[1889]]) explicitly names Ahmat Shah among the monarchs whose mediation is sought, alongside [[Sultan Mahmut Shah]], [[Sultan Alaedin Muhamat Shah]], [[Sultan Jauhar Alain Shah]], and [[Sultan Mansur Shah]].
+In the actual letters patent (*sarakata*) issued by the later sultans, the blessing of Allah, of the Prophet [[Mohammad (the Prophet)|Mohammad]], of the saint [[Abdul-Qadir Jilani]], and of the deceased kings of blessed memory is invoked upon the deed. The preamble of the letters patent given to [[Panglima Meuseugit Raya]] on 4 Rabi' al-Awwal 1307 H ([[1889]]) explicitly names Ahmat Shah among the monarchs whose mediation is sought, alongside [[Sultan Mahmut Shah]], [[Sultan Alaedin Muhamat Shah]], [[Sultan Jauhar Alain Shah]], and [[Sultan Ibrahim Mansur Shah|Sultan Mansur Shah]].
 
 ## See Also
 - [[Acheh]]
@@ -103,10 +103,10 @@ In the actual letters patent (*sarakata*) issued by the later sultans, the bless
 - [[Pochut Muhamat]]
 - [[Poteu Jeumaloy]]
 - [[Sarakata (royal edicts of Acheh)]]
-- [[Sarakata with chab sikureu'eng]]
+- [[Sarakata|Sarakata with chab sikureu'eng]]
 - [[Sultan Ahmat Shah]]
 - [[Sultan Juhan Shah]]
-- [[Sultan Mansur Shah]]
+- [[Sultan Ibrahim Mansur Shah|Sultan Mansur Shah]]
 - [[Sultan Meukuta Alam]]
 - [[Sultan Sayyidi al-Mukamnal]]
 - [[Sultan Tajul-alam]]

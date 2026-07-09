@@ -4,7 +4,7 @@ aliases: [Raffles Treaty with Acheh, Treaty of 1819 with Acheh, Treaty with Joho
 tags: [event, diplomatic, treaty, british, colonial, 1819]
 ---
 
-The **Raffles Treaty with Acheh** of [[1819]] was the agreement negotiated between [[Sir Stamford Raffles|Raffles]] — then acting in the service of the [[British East India Company|British East India Company]] — and "Johor Allum as king of Acheen," by which the British sought to establish friendly relations with the Sultanate of [[Acheh|Acheh]] at the close of the long decline that had followed the great days of the seventeenth-century port-kings. The treaty was examined in detail by [[P. H. van der Kemp|P. H. van der Kemp]] in a recent essay published in the *Bijdragen van het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch Indië*, in which long extracts were quoted from the archives of the [[India Office|India Office]].
+The **Raffles Treaty with Acheh** of [[1819]] was the agreement negotiated between [[Sir Thomas Stamford Raffles|Raffles]] — then acting in the service of the [[British East India Company|British East India Company]] — and "Johor Allum as king of Acheen," by which the British sought to establish friendly relations with the Sultanate of [[Acheh|Acheh]] at the close of the long decline that had followed the great days of the seventeenth-century port-kings. The treaty was examined in detail by [[P. H. van der Kemp|P. H. van der Kemp]] in a recent essay published in the *Bijdragen van het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch Indië*, in which long extracts were quoted from the archives of the [[India Office|India Office]].
 
 ## Background of the treaty
 
@@ -20,11 +20,11 @@ The condition of Acheh that gave the treaty its empty character was the same tha
 
 ## Aftermath
 
-The treaty of 1819 was followed, in [[1824]], by the [[Treaty of London|Anglo-Dutch Treaty of London]], by which [[Acheh|Acheh]] was left in the Dutch sphere of influence. The Chairman's letter of August 1824 closed the British attempt to maintain relations with the Achehnese court, and the treaty itself passed into the archives, from which [[P. H. van der Kemp|Van der Kemp]] afterwards drew the long extracts quoted by [[C. Snouck Hurgronje|Snouck Hurgronje]] in his introduction to *The Achehnese*.
+The treaty of 1819 was followed, in [[1824]], by the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London]], by which [[Acheh|Acheh]] was left in the Dutch sphere of influence. The Chairman's letter of August 1824 closed the British attempt to maintain relations with the Achehnese court, and the treaty itself passed into the archives, from which [[P. H. van der Kemp|Van der Kemp]] afterwards drew the long extracts quoted by [[C. Snouck Hurgronje|Snouck Hurgronje]] in his introduction to *The Achehnese*.
 
 ## See Also
 
-- [[Raffles]]
+- [[Sir Thomas Stamford Raffles|Raffles]]
 - [[Johor Allum]]
 - [[P. H. van der Kemp]]
 - [[Warren Hastings]]

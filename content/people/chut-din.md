@@ -17,7 +17,7 @@ Chut Din's marriage to [[Teuku Uma]] brought together the rising power of the We
 
 ## The "defection" of Teuku Uma and the deposition of the Nantas
 
-The political consequences of the marriage fell out in [[1896]]. In that year, as Snouck Hurgronje records in a footnote, "the Nanta family having taken a prominent part in the treachery of Teuku Uma against the Dutch, the Ne' family was restored to power". The Nantas were "declared deposed from the government of the VI Mukims, and the native authority in that place is exercised by the young Teuku Raja Itam, son of the late Teuku Ne' of Meura'sa". Thus Chut Din's marriage — by tying her family to Teuku Uma's fortunes — proved the means by which the Nantas lost, in consequence of Teuku Uma's [[Defection of Teuku Uma|defection]] and [[Treachery of Teuku Uma against the Dutch|treachery]], the very territory that her father had spent his career winning.
+The political consequences of the marriage fell out in [[1896]]. In that year, as Snouck Hurgronje records in a footnote, "the Nanta family having taken a prominent part in the treachery of Teuku Uma against the Dutch, the Ne' family was restored to power". The Nantas were "declared deposed from the government of the VI Mukims, and the native authority in that place is exercised by the young Teuku Raja Itam, son of the late Teuku Ne' of Meura'sa". Thus Chut Din's marriage — by tying her family to Teuku Uma's fortunes — proved the means by which the Nantas lost, in consequence of Teuku Uma's [[Defection of Teuku Uma|defection]] and [[Defection of Teuku Uma|treachery]], the very territory that her father had spent his career winning.
 
 ## See Also
 
@@ -26,7 +26,7 @@ The political consequences of the marriage fell out in [[1896]]. In that year, a
 - [[Teuku Ne' Peureuba Wangsa]]
 - [[Teuku Ne' Raja Muda Seutia]]
 - [[Defection of Teuku Uma]]
-- [[Treachery of Teuku Uma against the Dutch]]
+- [[Defection of Teuku Uma|Treachery of Teuku Uma against the Dutch]]
 - [[Acheh]]
 
 ## Source
@@ -47,7 +47,7 @@ Chut Din's marriage to [[Teuku Uma]] brought together the rising power of the We
 
 ## The "defection" of Teuku Uma and the deposition of the Nantas
 
-The political consequences of the marriage fell out in [[1896]]. In that year, as Snouck Hurgronje records in a footnote, "the Nanta family having taken a prominent part in the treachery of Teuku Uma against the Dutch, the Ne' family was restored to power". The Nantas were "declared deposed from the government of the VI Mukims, and the native authority in that place is exercised by the young Teuku Raja Itam, son of the late Teuku Ne' of Meura'sa". Thus Chut Din's marriage — by tying her family to Teuku Uma's fortunes — proved the means by which the Nantas lost, in consequence of Teuku Uma's [[Defection of Teuku Uma|defection]] and [[Treachery of Teuku Uma against the Dutch|treachery]], the very territory that her father had spent his career winning.
+The political consequences of the marriage fell out in [[1896]]. In that year, as Snouck Hurgronje records in a footnote, "the Nanta family having taken a prominent part in the treachery of Teuku Uma against the Dutch, the Ne' family was restored to power". The Nantas were "declared deposed from the government of the VI Mukims, and the native authority in that place is exercised by the young Teuku Raja Itam, son of the late Teuku Ne' of Meura'sa". Thus Chut Din's marriage — by tying her family to Teuku Uma's fortunes — proved the means by which the Nantas lost, in consequence of Teuku Uma's [[Defection of Teuku Uma|defection]] and [[Defection of Teuku Uma|treachery]], the very territory that her father had spent his career winning.
 
 ## See Also
 
@@ -56,7 +56,7 @@ The political consequences of the marriage fell out in [[1896]]. In that year, a
 - [[Teuku Ne' Peureuba Wangsa]]
 - [[Teuku Ne' Raja Muda Seutia]]
 - [[Defection of Teuku Uma]]
-- [[Treachery of Teuku Uma against the Dutch]]
+- [[Defection of Teuku Uma|Treachery of Teuku Uma against the Dutch]]
 - [[Acheh]]
 
 ## Source

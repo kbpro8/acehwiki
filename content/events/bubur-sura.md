@@ -8,7 +8,7 @@ The **bubur sura** is the Javanese porridge cooked on the 10th of [[Muharram]] (
 
 ## The wider complex of Ashura dishes
 
-The cooking of special viands on the Ashura day is a custom "which is really no more than an insignificant adjunct of the [[Hasan-Husain festival|Hasan-Husain festivals]], but which exists elsewhere as an independent usage". In Hindustan the chosen dish seems to be that known as *khichri*; in Cairo it is called *lujub* (i.e. "seeds" or "grains"). In Java the *bubur sura*, as described, also consists of various grains or seeds, mixed with pieces of cocoanut and placed on top of the rice. In Acheh this dish of porridge is called *kanji Achura*, and consists of rice, cocoanut milk, sugar and pieces of cocoanut, mixed with various fruits cut into small pieces — papayas, peas, pomegranates, plantains, sugarcane and various edible roots. The grain-and-fruit pottage of the Ashura day is thus, in one form or another, the common observance of the day across the Indian Ocean; the Achehnese version is the most elaborate, the Javanese the most austere.
+The cooking of special viands on the Ashura day is a custom "which is really no more than an insignificant adjunct of the [[Hasan-Husain Festival|Hasan-Husain festivals]], but which exists elsewhere as an independent usage". In Hindustan the chosen dish seems to be that known as *khichri*; in Cairo it is called *lujub* (i.e. "seeds" or "grains"). In Java the *bubur sura*, as described, also consists of various grains or seeds, mixed with pieces of cocoanut and placed on top of the rice. In Acheh this dish of porridge is called *kanji Achura*, and consists of rice, cocoanut milk, sugar and pieces of cocoanut, mixed with various fruits cut into small pieces — papayas, peas, pomegranates, plantains, sugarcane and various edible roots. The grain-and-fruit pottage of the Ashura day is thus, in one form or another, the common observance of the day across the Indian Ocean; the Achehnese version is the most elaborate, the Javanese the most austere.
 
 ## The blessing of the bubur in Java
 
@@ -22,7 +22,7 @@ The *bubur sura*, like the *kanji Ashura* of Acheh, is a survival of the old com
 
 - [[Ashura]]
 - [[Ashura (10th of Muharram)]]
-- [[Hasan-Husain festival]]
+- [[Hasan-Husain Festival|Hasan-Husain festival]]
 - [[Hasan and Husain]]
 - [[Kerbela]]
 - [[Asan-Usen]]

@@ -8,7 +8,7 @@ tags: [event, battle, military, dutch-colonial, aceh-war]
 
 ## Background
 
-After the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman on 13 October 1878]] the campaign against the [[XXII Moekims|XXII Moekims]] was decided upon. In his cabinet letter of [[21 March]] [[1879]] the Governor-General [[J. W. van Lansberge|Van Lansberge]] instructed Van der Heyden that "the war must now come to an end." On [[23 March]] [1879] the columns marched.
+After the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman on 13 October 1878]] the campaign against the [[XXII Moekims|XXII Moekims]] was decided upon. In his cabinet letter of [[21 March]] [[1879]] the Governor-General [[Johan Willem van Lansberge|Van Lansberge]] instructed Van der Heyden that "the war must now come to an end." On [[23 March]] [1879] the columns marched.
 
 ## The Capture
 
@@ -21,13 +21,13 @@ The capture of Indrapuri was the opening operation of the [[Campaign against the
 ## See Also
 
 - [[K. van der Heyden]]
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[Indrapoeri]]
 - [[missigit Indrapoeri]]
 - [[XXII Moekims]]
 - [[Campaign against the XXII Moekims (1879)]]
 - [[Capture of Gleiêng (9 July 1879)]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Aceh War]]
 

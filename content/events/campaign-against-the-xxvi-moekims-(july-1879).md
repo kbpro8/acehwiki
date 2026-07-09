@@ -22,7 +22,7 @@ On [[1 July]] [1879] the columns marched from various points into the theatre of
 
 - [[K. van der Heyden]]
 - [[Imam of Longbatta]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[XXVI Moekims]]
 - [[missigit Melajoe]]
 - [[missigit Boëng Tjala]]

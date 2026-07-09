@@ -9,12 +9,12 @@ tags: [place, island, sumatra, east-indies]
 The island was divided by a river that split the settlement of Salangore into two parts and was defended by a fort on an elevated position, a lower earthwork, and a beach battery covering the whole shore.
 
 ## Military Action
-During the Dutch landing, the fleet under [[Van Braam (commander)]] engaged enemy vessels gathered near the island. Later, on [[28 October]] [[1784]], a Dutch ultimatum was delivered to the local ruler from the island’s fortifications.
+During the Dutch landing, the fleet under [[Jacob Pieter van Braam|Van Braam (commander)]] engaged enemy vessels gathered near the island. Later, on [[28 October]] [[1784]], a Dutch ultimatum was delivered to the local ruler from the island’s fortifications.
 
 ## See Also
 - [[Salangore]]
 - [[Riouw]]
-- [[Van Braam (commander)]]
+- [[Jacob Pieter van Braam|Van Braam (commander)]]
 - [[Oost-Indische Compagnie]]
 
 ## Source

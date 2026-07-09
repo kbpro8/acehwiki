@@ -22,7 +22,7 @@ The telegram of [[16 February]] [[16 February]] [[1873]] from the Consul-General
 - [[W. H. Read]]
 - [[Aceh Envoys' Visit to Singapore (January 1873)]]
 - [[First Aceh Expedition (1873)]]
-- [[Van Goltstein]]
+- [[W. van Goltstein|Van Goltstein]]
 - [[Alting Mees]]
 - [[Aceh War]]
 
@@ -49,7 +49,7 @@ The telegram of [[16 February]] [[16 February]] [[1873]] from the Consul-General
 - [[W. H. Read]]
 - [[Aceh Envoys' Visit to Singapore (January 1873)]]
 - [[First Aceh Expedition (1873)]]
-- [[Van Goltstein]]
+- [[W. van Goltstein|Van Goltstein]]
 - [[Alting Mees]]
 - [[Aceh War]]
 

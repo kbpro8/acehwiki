@@ -19,7 +19,7 @@ The lexicography of Javanese was one of the foundational undertakings of Dutch c
 
 - [[L. W. C. van den Berg]]
 - [[Javanese]]
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 
 ## Source
 
@@ -41,7 +41,7 @@ The lexicography of Javanese was one of the foundational undertakings of Dutch c
 
 - [[L. W. C. van den Berg]]
 - [[Javanese]]
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 
 ## Source
 

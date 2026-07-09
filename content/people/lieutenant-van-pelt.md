@@ -12,7 +12,7 @@ Van Pelt fell during a fierce engagement when the enemy opened fire after the 
 ## See Also
 
 - [[Celebes]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Lieutenant P. Troost]]
 - [[1824]]
 

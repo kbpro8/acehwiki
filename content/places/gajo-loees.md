@@ -25,7 +25,7 @@ The administrative centre of the onderafdeeling was *Blang Kédjérèn*, the bes
 
 - [[Alaslanden]]
 - [[Takengön]]
-- [[Laoet Tawar]]
+- [[Laut Tawar|Laoet Tawar]]
 - [[Gajo]]
 - [[Kédjoerön Pétiambang]]
 - [[Radja Tjèq of Alas]]

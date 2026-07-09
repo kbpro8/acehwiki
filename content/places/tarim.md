@@ -4,11 +4,11 @@ aliases: [Tarīm, Tarim of Hadramawt, Tarim in South Arabia]
 tags: [place, city, hadramawt, south-arabia, arab-migration, hadrami, muhammad-al-addars, 16th-century]
 ---
 
-**Tarim** — also written **Tarīm** — is the ancient capital of the Ḥaḍramawt valley in South Arabia, and one of the principal centres of Ḥadramī scholarship. It is the birthplace of [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] ([[1561]]–[[1620]]) — the spiritual grandfather of [[Raniri|Nūruddīn ar-Rānīrī]] and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] — and one of the principal points of origin of the Ḥadramī diaspora that, from the late middle ages onwards, carried the scholars and saints of the Ḥaḍramawt to the ports of the Indian Ocean, including [[Surat]] and [[Acheh]].
+**Tarim** — also written **Tarīm** — is the ancient capital of the Ḥaḍramawt valley in South Arabia, and one of the principal centres of Ḥadramī scholarship. It is the birthplace of [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] ([[1561]]–[[1620]]) — the spiritual grandfather of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] — and one of the principal points of origin of the Ḥadramī diaspora that, from the late middle ages onwards, carried the scholars and saints of the Ḥaḍramawt to the ports of the Indian Ocean, including [[Surat]] and [[Acheh]].
 
 ## The birthplace of al-ʿAddārs
 
-[[Muhammad al-Addars|Muḥammad al-ʿAddārs]] — the spiritual grandfather of [[Raniri]] and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] — was born at Tarim in [[1561]]. He came to [[Gudjarat|Gujarat]] at the age of nineteen — that is, in [[1580]] — and succeeded his famous grandfather as religious teacher, first at [[Ahmadabad]] and later at [[Surat]], where he died in [[1620]]. His migration from Tarim to Gujarat was part of the larger Ḥadramī diaspora that carried the scholars and saints of the Ḥaḍramawt to the ports of the Indian Ocean.
+[[Muhammad al-Addars|Muḥammad al-ʿAddārs]] — the spiritual grandfather of [[Nur al-Din al-Raniri|Raniri]] and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] — was born at Tarim in [[1561]]. He came to [[Gudjarat|Gujarat]] at the age of nineteen — that is, in [[1580]] — and succeeded his famous grandfather as religious teacher, first at [[Ahmadabad]] and later at [[Surat]], where he died in [[1620]]. His migration from Tarim to Gujarat was part of the larger Ḥadramī diaspora that carried the scholars and saints of the Ḥaḍramawt to the ports of the Indian Ocean.
 
 ## The Ḥadramī diaspora
 
@@ -16,15 +16,15 @@ The Ḥadramī diaspora — one of the principal channels by which the orthodox 
 
 ## Significance
 
-Tarim is the birthplace of [[Muhammad al-Addars|al-ʿAddārs]] — the spiritual grandfather of [[Raniri]] and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] — and one of the principal points of origin of the Ḥadramī diaspora that linked the religious scholarship of South Arabia with the orthodox reaction of Acheh. The migration of al-ʿAddārs from Tarim to Gujarat in [[1580]] was the immediate antecedent of the formation of the Gujarati-Ḥadramī network from which Raniri himself was to draw, more than half a century later, the authority of an orthodox Sufi silsila against the [[Wujudiyyah]] of [[Hamzah Pansuri]]'s school.
+Tarim is the birthplace of [[Muhammad al-Addars|al-ʿAddārs]] — the spiritual grandfather of [[Nur al-Din al-Raniri|Raniri]] and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] — and one of the principal points of origin of the Ḥadramī diaspora that linked the religious scholarship of South Arabia with the orthodox reaction of Acheh. The migration of al-ʿAddārs from Tarim to Gujarat in [[1580]] was the immediate antecedent of the formation of the Gujarati-Ḥadramī network from which Raniri himself was to draw, more than half a century later, the authority of an orthodox Sufi silsila against the [[Wujudiyyah]] of [[Hamzah Pansuri]]'s school.
 
 ## See Also
 
 - [[Abd al-Qadir al-Aidaros]]
-- [[Ahmad Rifa'i]]
+- [[Ahmad ar-Rifāʿī|Ahmad Rifa'i]]
 - [[Gudjarat]]
 - [[Muhammad al-Addars]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Rifa'iyah order]]
 - [[Sajjid Abu Hafs Umar Ba Sjaiban]]
 - [[Surat]]

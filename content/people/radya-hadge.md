@@ -12,7 +12,7 @@ Radya Hadgè was regarded by the indigenous population as a figure of “onkwets
 During the Dutch attack, Radya Hadgè was struck by enemy fire while standing on the royal battery, leading to his death. His demise was followed by the killing of several allied princes and sons of the local ruler, weakening the resistance against the Dutch.
 
 ## See Also
-- [[Van Braam (commander)]]
+- [[Jacob Pieter van Braam|Van Braam (commander)]]
 - [[Majoor Hamell]]
 - [[Radya Aly]]
 - [[Salangore]]

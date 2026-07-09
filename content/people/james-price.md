@@ -17,15 +17,15 @@ The decision taken on Price's and Light's advice — to settle [[Penang|Penang]]
 
 - [[Captain Francis Light]]
 - [[Warren Hastings]]
-- [[Governor R. Fullerton]]
-- [[Raffles]]
+- [[Robert Fullerton|Governor R. Fullerton]]
+- [[Sir Thomas Stamford Raffles|Raffles]]
 - [[P. H. van der Kemp]]
 - [[Penang]]
 - [[Pulau Pinang]]
 - [[Acheh]]
 - [[Achehnese War]]
 - [[Treaty of Quedah (Penang cession, 1786)]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 
 ## Sources
 
@@ -47,15 +47,15 @@ The decision taken on Price's and Light's advice — to settle [[Penang|Penang]]
 
 - [[Captain Francis Light]]
 - [[Warren Hastings]]
-- [[Governor R. Fullerton]]
-- [[Raffles]]
+- [[Robert Fullerton|Governor R. Fullerton]]
+- [[Sir Thomas Stamford Raffles|Raffles]]
 - [[P. H. van der Kemp]]
 - [[Penang]]
 - [[Pulau Pinang]]
 - [[Acheh]]
 - [[Achehnese War]]
 - [[Treaty of Quedah (Penang cession, 1786)]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 
 ## Sources
 

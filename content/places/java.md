@@ -24,7 +24,7 @@ After the establishment of [[Batavia]] in [[1619]], the Dutch East India Company
 
 In the early nineteenth century Dutch officials spoke of making Sumatra a “second Java.” Following the 1814 revision of the [[Anglo-Dutch Treaty of London (1814)|treaty of [[1814]]]], [[Anton Reinhard Falck|Falck]] and [[Hendrik Fagel|Fagel]] recommended exchanging [[Bencoolen|Benkoelen]] for Dutch factories in [[Hindostan]], arguing that an undivided authority on Sumatra offered the opportunity to develop the island on the Javanese model. British Governor [[Sir Thomas Stamford Raffles|Raffles]] warned Sultan [[Sultan Jauhar Alum|Sultan Djohor]] that the Dutch intended to turn Sumatra into a northward extension of Java.
 
-Article 9 of the [[Anglo-Dutch Treaty of London (1824)|treaty of [[17 March]] [[1824]]] labelled Sumatra as **Java minor**, acknowledging its subordination to the Dutch seat in Java and the intention to replicate Javanese administrative intensity there. The British use of the term signalled an implicit recognition of Dutch supremacy over the larger island.
+Article 9 of the [[Anglo-Dutch Treaty of 1824|treaty of [[17 March]] [[1824]]] labelled Sumatra as **Java minor**, acknowledging its subordination to the Dutch seat in Java and the intention to replicate Javanese administrative intensity there. The British use of the term signalled an implicit recognition of Dutch supremacy over the larger island.
 
 ## Economic Measures: Java Salt and the Singapore Trade
 
@@ -68,7 +68,7 @@ Java’s dual role—as a cultural benchmark for Achehnese customs and as the ad
 - [[John Prince]]
 - [[Bellona mission to Sumatra's East Coast (1827-1828)]]
 - [[Dutch Salt Price Reduction]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Java War (1825-1830)]]
 - [[Jacob Pieter van Braam]]
 - [[Kweekschool voor de Zeevaart]]

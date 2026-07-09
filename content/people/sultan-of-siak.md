@@ -5,7 +5,7 @@ aliases: [sultan of Siack, Siak Sultan]
 tags: [person, sultan, malay]
 ---
 
-The **Sultan of Siak** (also written *sultan of Siack*) was the ruler of the east-coast Sumatran state of [[Siak]] in the late 1820s. He is known to history chiefly through the correspondence exchanged with Governor [[Robert Fullerton|Fullerton]] of [[Penang]] in [[1828]], preserved in the Roosegaarde Bisschop collection and printed by Van der Kemp as part of the [[Bellona mission to Sumatra's East Coast (1827-1828)|Bellona]] correspondence. The exchange is the principal documentary evidence of the British attempt to maintain the confidence of the east-coast Malay chiefs in the face of Dutch commercial expansion after the [[Anglo-Dutch Treaty of London (1824)|treaty of 17 March 1824]].
+The **Sultan of Siak** (also written *sultan of Siack*) was the ruler of the east-coast Sumatran state of [[Siak]] in the late 1820s. He is known to history chiefly through the correspondence exchanged with Governor [[Robert Fullerton|Fullerton]] of [[Penang]] in [[1828]], preserved in the Roosegaarde Bisschop collection and printed by Van der Kemp as part of the [[Bellona mission to Sumatra's East Coast (1827-1828)|Bellona]] correspondence. The exchange is the principal documentary evidence of the British attempt to maintain the confidence of the east-coast Malay chiefs in the face of Dutch commercial expansion after the [[Anglo-Dutch Treaty of 1824|treaty of 17 March 1824]].
 
 ## Background: the Dutch Bellona mission and British anxiety
 
@@ -27,7 +27,7 @@ This passage establishes a succession in the Siak sultanate: the present Sultan 
 
 ## Place in Van der Kemp's argument
 
-Van der Kemp adduces the Siak correspondence as evidence of the British government's design — already foreshadowed in [[Fullerton's minute on Acheh (21 March 1825)|Fullerton's minute of 21 March 1825]] — to maintain a British sphere of commercial influence on [[Sumatra's East Coast]] in spite of the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]], by which the Netherlands had been recognised as the sole European power competent to make political treaties on Sumatra. The Sultan of Siak, in his courteous reply, is thus a small but visible figure in the long Anglo-Dutch rivalry over Sumatra that culminated in the [[Sumatra Treaty of 1871]].
+Van der Kemp adduces the Siak correspondence as evidence of the British government's design — already foreshadowed in [[Fullerton's minute on Acheh (21 March 1825)|Fullerton's minute of 21 March 1825]] — to maintain a British sphere of commercial influence on [[Sumatra's East Coast]] in spite of the [[Anglo-Dutch Treaty of 1824|treaty of 1824]], by which the Netherlands had been recognised as the sole European power competent to make political treaties on Sumatra. The Sultan of Siak, in his courteous reply, is thus a small but visible figure in the long Anglo-Dutch rivalry over Sumatra that culminated in the [[Sumatra Treaty of 1871]].
 
 ## See Also
 
@@ -41,7 +41,7 @@ Van der Kemp adduces the Siak correspondence as evidence of the British governme
 - [[Singapore]]
 - [[Malacca]]
 - [[Riouw]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Fullerton's letter to Sultan of Siak (7 February 1828)]]
 - [[Fullerton's circular to nine Siak chiefs]]
 - [[Bellona mission to Sumatra's East Coast (1827-1828)]]
@@ -64,7 +64,7 @@ Van der Kemp adduces the Siak correspondence as evidence of the British governme
 ---
 
 
-The **Sultan of Siak** (also written *sultan of Siack*) was the ruler of the east-coast Sumatran state of [[Siak]] in the late 1820s. He is known to history chiefly through the correspondence exchanged with Governor [[Robert Fullerton|Fullerton]] of [[Penang]] in [[1828]], preserved in the Roosegaarde Bisschop collection and printed by Van der Kemp as part of the [[Bellona mission to Sumatra's East Coast (1827-1828)|Bellona]] correspondence. The exchange is the principal documentary evidence of the British attempt to maintain the confidence of the east-coast Malay chiefs in the face of Dutch commercial expansion after the [[Anglo-Dutch Treaty of London (1824)|treaty of 17 March 1824]].
+The **Sultan of Siak** (also written *sultan of Siack*) was the ruler of the east-coast Sumatran state of [[Siak]] in the late 1820s. He is known to history chiefly through the correspondence exchanged with Governor [[Robert Fullerton|Fullerton]] of [[Penang]] in [[1828]], preserved in the Roosegaarde Bisschop collection and printed by Van der Kemp as part of the [[Bellona mission to Sumatra's East Coast (1827-1828)|Bellona]] correspondence. The exchange is the principal documentary evidence of the British attempt to maintain the confidence of the east-coast Malay chiefs in the face of Dutch commercial expansion after the [[Anglo-Dutch Treaty of 1824|treaty of 17 March 1824]].
 
 ## Background: the Dutch Bellona mission and British anxiety
 
@@ -86,7 +86,7 @@ This passage establishes a succession in the Siak sultanate: the present Sultan 
 
 ## Place in Van der Kemp's argument
 
-Van der Kemp adduces the Siak correspondence as evidence of the British government's design — already foreshadowed in [[Fullerton's minute on Acheh (21 March 1825)|Fullerton's minute of 21 March 1825]] — to maintain a British sphere of commercial influence on [[Sumatra's East Coast]] in spite of the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]], by which the Netherlands had been recognised as the sole European power competent to make political treaties on Sumatra. The Sultan of Siak, in his courteous reply, is thus a small but visible figure in the long Anglo-Dutch rivalry over Sumatra that culminated in the [[Sumatra Treaty of 1871]].
+Van der Kemp adduces the Siak correspondence as evidence of the British government's design — already foreshadowed in [[Fullerton's minute on Acheh (21 March 1825)|Fullerton's minute of 21 March 1825]] — to maintain a British sphere of commercial influence on [[Sumatra's East Coast]] in spite of the [[Anglo-Dutch Treaty of 1824|treaty of 1824]], by which the Netherlands had been recognised as the sole European power competent to make political treaties on Sumatra. The Sultan of Siak, in his courteous reply, is thus a small but visible figure in the long Anglo-Dutch rivalry over Sumatra that culminated in the [[Sumatra Treaty of 1871]].
 
 ## See Also
 
@@ -100,7 +100,7 @@ Van der Kemp adduces the Siak correspondence as evidence of the British governme
 - [[Singapore]]
 - [[Malacca]]
 - [[Riouw]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Fullerton's letter to Sultan of Siak (7 February 1828)]]
 - [[Fullerton's circular to nine Siak chiefs]]
 - [[Bellona mission to Sumatra's East Coast (1827-1828)]]

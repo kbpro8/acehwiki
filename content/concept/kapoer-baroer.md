@@ -12,7 +12,7 @@ tags: [concept, trade-good, barus, sumatra, west-coast, achehnese]
 
 ## The Gouverneur du Royaume de Baarros
 
-[[Alleredin Mahomet]], the commander of the [[Atjehsche vloot|Atjehnese fleet]] of [[1539]], held, [[Mendez Pinto|Pinto]] records, the office of "Gouverneur du Royaume de Baarros" — i.e. governor of [[Barus|Barus]] on the Sumatran west coast. The combination of fleet command, royal kinship, and the governorship of [[Barus|Barus]] marks, in [[P. de Roo de la Faille|De Roo de la Faille]]'s reading, the breadth of the [[Sultan of Atjeh (16th century)|sultan of Atjeh]]'s design in [[1539]]: not merely to chastise a single neighbour but to bring the whole circuit of Sumatran coast, west and east, under Atjehnese command — and so to close the [[Straits of Malacca|Strait of Malacca]] to Portuguese shipping.
+[[Alleredin Mahomet]], the commander of the [[Atjehsche vloot|Atjehnese fleet]] of [[1539]], held, [[Mendez Pinto|Pinto]] records, the office of "Gouverneur du Royaume de Baarros" — i.e. governor of [[Barus|Barus]] on the Sumatran west coast. The combination of fleet command, royal kinship, and the governorship of [[Barus|Barus]] marks, in [[P. de Roo de la Faille|De Roo de la Faille]]'s reading, the breadth of the [[Sultan of Acheh (16th century)|sultan of Atjeh]]'s design in [[1539]]: not merely to chastise a single neighbour but to bring the whole circuit of Sumatran coast, west and east, under Atjehnese command — and so to close the [[Straits of Malacca|Strait of Malacca]] to Portuguese shipping.
 
 ## The *bahasa kapoer*
 

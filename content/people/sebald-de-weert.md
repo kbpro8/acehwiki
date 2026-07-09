@@ -8,7 +8,7 @@ tags: [person, dutch, colonial, voc, navigator, 17th-century]
 
 ## The fleet of fifteen ships under Wybrand van Waerwyck
 
-In late [[1602]] three Zeeland ships under De Weert — belonging to a fleet of fifteen ships under [[Wybrand van Waerwyck|Wybrand van Waerwyck]] destined for the Archipelago and China — arrived at Batticaloa on Ceylon's east coast. Soon afterwards two ships left for Atjeh, while the third waited for De Weert, who — having heard that [[Joris van Spilbergh|Spilbergh]] had been well received at the Kandyan court — wanted to go himself to do business, since there was no cargo to be had at Batticaloa. De Weert covered the 225 km from Batticaloa to Kandi on six elephants.
+In late [[1602]] three Zeeland ships under De Weert — belonging to a fleet of fifteen ships under [[Wybrand van Waerwyck|Wybrand van Waerwyck]] destined for the Archipelago and China — arrived at Batticaloa on Ceylon's east coast. Soon afterwards two ships left for Atjeh, while the third waited for De Weert, who — having heard that [[Joris van Spilbergen|Spilbergh]] had been well received at the Kandyan court — wanted to go himself to do business, since there was no cargo to be had at Batticaloa. De Weert covered the 225 km from Batticaloa to Kandi on six elephants.
 
 ## The Kandyan alliance
 
@@ -39,7 +39,7 @@ For [[Acheh|Atjeh]]'s history, De Weert's role is chiefly that of the Vice-Admir
 ## See Also
 
 - [[Wybrand van Waerwyck]]
-- [[Joris van Spilbergh]]
+- [[Joris van Spilbergen|Joris van Spilbergh]]
 - [[Prince Maurits]]
 - [[1602]]
 - [[1603]]

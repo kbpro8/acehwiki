@@ -17,7 +17,7 @@ Acehnese scholars have long cited verses about Mekka in sermons and poetry, link
 
 ## See Also
 
-- [[Abraha (Abessynian ruler)]]
+- [[Abraha|Abraha (Abessynian ruler)]]
 - [[Sūra al‑Fīl (Qur’anic chapter)]]
 - [[Haji (Acehnese practice)]]
 - [[Medina]]

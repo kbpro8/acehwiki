@@ -17,7 +17,7 @@ Toekoe Nek had already before then "promised his intervention in the recovery of
 
 ## The Storming of the Taman, 12 January 1874
 
-[[J. van Swieten|Van Swieten]], who had already vainly attempted to surprise the Kraton, decided to follow Toekoe Nek's advice. On [[12 January]] the Taman or Kota Goenoengan was stormed and taken. "Probably from resentment at this, the enemy made an attack on our bivouac at [[Penajoeng|Penajoeng]] and the trench-guard. Although our guards were at first surprised, the attack was chiefly repelled by the gallant conduct of Captain Van Daalen." After the taking of the missigit on [[6 January]] [1874], letters had been sent to Toekoe Nek and to four other chiefs of the [[XXV Moekims|XXV Moekims]], inviting Toekoe Nek to come openly to offer his submission. Toekoe Nek kept his promise.
+[[Jan van Swieten|Van Swieten]], who had already vainly attempted to surprise the Kraton, decided to follow Toekoe Nek's advice. On [[12 January]] the Taman or Kota Goenoengan was stormed and taken. "Probably from resentment at this, the enemy made an attack on our bivouac at [[Penajoeng|Penajoeng]] and the trench-guard. Although our guards were at first surprised, the attack was chiefly repelled by the gallant conduct of Captain Van Daalen." After the taking of the missigit on [[6 January]] [1874], letters had been sent to Toekoe Nek and to four other chiefs of the [[XXV Moekims|XXV Moekims]], inviting Toekoe Nek to come openly to offer his submission. Toekoe Nek kept his promise.
 
 ## The Discovery of the Kraton's Evacuation, 24 January 1874
 
@@ -28,7 +28,7 @@ Toekoe Nek's intervention was thus the proximate cause of the discovery that the
 ## See Also
 
 - [[Marassa]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[Kroesen (controller)]]
 - [[Nino Bixio]]
 - [[Taman (Kota Goenoengan)]]
@@ -55,7 +55,7 @@ Toekoe Nek had already before then "promised his intervention in the recovery of
 
 ## The Storming of the Taman, 12 January 1874
 
-[[J. van Swieten|Van Swieten]], who had already vainly attempted to surprise the Kraton, decided to follow Toekoe Nek's advice. On [[12 January]] the Taman or Kota Goenoengan was stormed and taken. "Probably from resentment at this, the enemy made an attack on our bivouac at [[Penajoeng|Penajoeng]] and the trench-guard. Although our guards were at first surprised, the attack was chiefly repelled by the gallant conduct of Captain Van Daalen." After the taking of the missigit on [[6 January]] [1874], letters had been sent to Toekoe Nek and to four other chiefs of the [[XXV Moekims|XXV Moekims]], inviting Toekoe Nek to come openly to offer his submission. Toekoe Nek kept his promise.
+[[Jan van Swieten|Van Swieten]], who had already vainly attempted to surprise the Kraton, decided to follow Toekoe Nek's advice. On [[12 January]] the Taman or Kota Goenoengan was stormed and taken. "Probably from resentment at this, the enemy made an attack on our bivouac at [[Penajoeng|Penajoeng]] and the trench-guard. Although our guards were at first surprised, the attack was chiefly repelled by the gallant conduct of Captain Van Daalen." After the taking of the missigit on [[6 January]] [1874], letters had been sent to Toekoe Nek and to four other chiefs of the [[XXV Moekims|XXV Moekims]], inviting Toekoe Nek to come openly to offer his submission. Toekoe Nek kept his promise.
 
 ## The Discovery of the Kraton's Evacuation, 24 January 1874
 
@@ -66,7 +66,7 @@ Toekoe Nek's intervention was thus the proximate cause of the discovery that the
 ## See Also
 
 - [[Marassa]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[Kroesen (controller)]]
 - [[Nino Bixio]]
 - [[Taman (Kota Goenoengan)]]

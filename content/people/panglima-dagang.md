@@ -8,7 +8,7 @@ tags: [person, gayo, precolonial, legendary]
 
 ## The dispersal after Saëda
 
-According to the legend, when the invasion of the [[Bataq Doeloe Poeloh Toedjéh|Bataq doeloe poeloh toedjéh]] drove the Boekét family from the *Meerstreek* (the [[Laoet Tawar|Laoet Tawar]] basin), [[Saëda (Gayo progenitor)|Saëda]] returned to Seroelë and disappeared from the legend. *Mérah Lama*, Saëda's son by his second (Acehnese) wife, went with his two stepbrothers *Ménèt* and *Mpos Kèlaq* to *Kébajakan*, where — in possession of the *bawar* — he was installed as *Kédjoerön Boekét*. *Panglima Dagang*, the younger full brother of *Mérah Lama*, settled in [[Meureudoe|Meureudoe]].
+According to the legend, when the invasion of the [[Bataq Doeloe Poeloh Toedjéh|Bataq doeloe poeloh toedjéh]] drove the Boekét family from the *Meerstreek* (the [[Laut Tawar|Laut Tawar]] basin), [[Saëda (Gayo progenitor)|Saëda]] returned to Seroelë and disappeared from the legend. *Mérah Lama*, Saëda's son by his second (Acehnese) wife, went with his two stepbrothers *Ménèt* and *Mpos Kèlaq* to *Kébajakan*, where — in possession of the *bawar* — he was installed as *Kédjoerön Boekét*. *Panglima Dagang*, the younger full brother of *Mérah Lama*, settled in [[Meureudoe|Meureudoe]].
 
 ## The recovery of the bawar
 
@@ -28,7 +28,7 @@ The descendants of *Panglima Dagang* became the *Boekét Lah* lineage, which hel
 - [[Bataq Doeloe Poeloh Toedjéh]]
 - [[Prang toedjéh tahoen]]
 - [[Gajoland]]
-- [[Laoet Tawar]]
+- [[Laut Tawar|Laoet Tawar]]
 - [[Meureudoe]]
 - [[Sultans of Atjeh]]
 
@@ -41,7 +41,7 @@ The descendants of *Panglima Dagang* became the *Boekét Lah* lineage, which hel
 
 ## The dispersal after Saëda
 
-According to the legend, when the invasion of the [[Bataq Doeloe Poeloh Toedjéh|Bataq doeloe poeloh toedjéh]] drove the Boekét family from the *Meerstreek* (the [[Laoet Tawar|Laoet Tawar]] basin), [[Saëda (Gayo progenitor)|Saëda]] returned to Seroelë and disappeared from the legend. *Mérah Lama*, Saëda's son by his second (Acehnese) wife, went with his two stepbrothers *Ménèt* and *Mpos Kèlaq* to *Kébajakan*, where — in possession of the *bawar* — he was installed as *Kédjoerön Boekét*. *Panglima Dagang*, the younger full brother of *Mérah Lama*, settled in [[Meureudoe|Meureudoe]].
+According to the legend, when the invasion of the [[Bataq Doeloe Poeloh Toedjéh|Bataq doeloe poeloh toedjéh]] drove the Boekét family from the *Meerstreek* (the [[Laut Tawar|Laut Tawar]] basin), [[Saëda (Gayo progenitor)|Saëda]] returned to Seroelë and disappeared from the legend. *Mérah Lama*, Saëda's son by his second (Acehnese) wife, went with his two stepbrothers *Ménèt* and *Mpos Kèlaq* to *Kébajakan*, where — in possession of the *bawar* — he was installed as *Kédjoerön Boekét*. *Panglima Dagang*, the younger full brother of *Mérah Lama*, settled in [[Meureudoe|Meureudoe]].
 
 ## The recovery of the bawar
 
@@ -61,7 +61,7 @@ The descendants of *Panglima Dagang* became the *Boekét Lah* lineage, which hel
 - [[Bataq Doeloe Poeloh Toedjéh]]
 - [[Prang toedjéh tahoen]]
 - [[Gajoland]]
-- [[Laoet Tawar]]
+- [[Laut Tawar|Laoet Tawar]]
 - [[Meureudoe]]
 - [[Sultans of Atjeh]]
 

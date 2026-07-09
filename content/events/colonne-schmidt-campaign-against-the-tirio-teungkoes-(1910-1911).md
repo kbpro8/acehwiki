@@ -4,7 +4,7 @@ aliases: [Colonne Schmidt, Colonne-Schmidt, De colonne Schmidt, Tiriō campaign,
 tags: [event, war, colonial, aceh, knil, marechaussee]
 ---
 
-**The colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)** was the two-year counter-insurgency operation conducted by *luitenant* (later *kapitein*) [[Schmidt]] of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]] — a small colonne of forty-one militairen (Schmidt himself included) and twenty-five *dwangarbeiders* (all [[Boeginezen|Buginese]] convicts serving as dragers) — that destroyed the *Tiriō bende*, the last organised armed resistance in [[Atjeh|Aceh]], in the bergland ten Oosten of [[Tangsé]]. Beginning in [[1910]] with the hunt for the small, highly mobile band of *[[Peutoeha Gam Masén]]* and concluding on [[3 December]] [[1911]] with the killing of the fifteen-year-old *[[Tgk. Tjhi Ma'at]]* by the korporaal [[Nussy]] — aided by [[Rampisela]] and [[Koentjoeng]] — the campaign earned Schmidt the *[[Eresabel]]* for [[1910]] and the [[Militaire Willemsorde (M.W.O.)|M.W.O.]] 3e klas for [[1911]], and was the military precondition for [[Generaal Swart]]'s handover of a peaceful Aceh to a civilian Gouverneur in [[1918]].
+**The colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)** was the two-year counter-insurgency operation conducted by *luitenant* (later *kapitein*) [[Schmidt]] of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]] — a small colonne of forty-one militairen (Schmidt himself included) and twenty-five *dwangarbeiders* (all [[Boeginezen|Buginese]] convicts serving as dragers) — that destroyed the *Tiriō bende*, the last organised armed resistance in [[Atjeh|Aceh]], in the bergland ten Oosten of [[Tangsé]]. Beginning in [[1910]] with the hunt for the small, highly mobile band of *[[Peutoeha Gam Masén]]* and concluding on [[3 December]] [[1911]] with the killing of the fifteen-year-old *[[Tgk. Tjhi Ma'at]]* by the korporaal [[Nussy]] — aided by [[Rampisela]] and [[Koentjoeng]] — the campaign earned Schmidt the *[[Eresabel]]* for [[1910]] and the [[Militaire Willemsorde|M.W.O.]] 3e klas for [[1911]], and was the military precondition for [[H. N. A. Swart|Generaal Swart]]'s handover of a peaceful Aceh to a civilian Gouverneur in [[1918]].
 
 ## The theatre and the colonne
 
@@ -14,7 +14,7 @@ The colonne was correspondingly small: forty-one militairen (Schmidt included) a
 
 ## The diplomatic track: the letter from the three hoofden
 
-Schmidt's methods combined military pressure with diplomatic outreach. At [[Generaal Swart]]'s request, the three *voornaamste Atjehse hoofden* — two *[[Toeankoe Machmoed Radja Keumala|Sultans-family members]]* and *[[Panglima Prang Polim]]* (who had surrendered to [[Kapitein Colijn|kapitein Colijn]]) — wrote a letter urging the Tiriō Teungkoes to submit. "De Teungkoes bespraken de brief, doch besloten tot het einde te vechten; hen zou geschieden naar Allah's wil." The letter failed; the doctrinal *[[prang sabi]]* conviction of the Tiriō family overrode the political authority of the Sultan's former army commander.
+Schmidt's methods combined military pressure with diplomatic outreach. At [[H. N. A. Swart|Generaal Swart]]'s request, the three *voornaamste Atjehse hoofden* — two *[[Toeankoe Machmoed Radja Keumala|Sultans-family members]]* and *[[Panglima Polem|Panglima Prang Polim]]* (who had surrendered to [[Hendrikus Colijn|kapitein Colijn]]) — wrote a letter urging the Tiriō Teungkoes to submit. "De Teungkoes bespraken de brief, doch besloten tot het einde te vechten; hen zou geschieden naar Allah's wil." The letter failed; the doctrinal *[[prang sabi]]* conviction of the Tiriō family overrode the political authority of the Sultan's former army commander.
 
 ## The diplomatic track: the widow's intercession
 
@@ -46,7 +46,7 @@ After the destruction of the Tiriō bende, some forty *onverzoenlijken* "sloot z
 
 ## Significance
 
-The colonne Schmidt campaign is the military climax of *[[Oom Ambon van het K.N.I.L.]]* and the last great counter-insurgency operation of the [[Atjeh-oorlog|Aceh War]]. Its significance in the book is fourfold. First, it is the moment at which the last organised Acehnese armed resistance was destroyed — the precondition for the [[Handover of Aceh to a civil Gouverneur (1918)|handover of Aceh to a civilian Gouverneur]] in [[1918]]. Second, it is the book's clearest example of the *colonne* method — small, highly trained patrouilles operating with local intelligence against a religiously motivated resistance — that had been developed in Aceh since the [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] era. Third, it is the book's clearest example of the doctrinal difficulty of fighting a *[[prang sabi]]*: the religious resisters could not be brought in by political authority, because their doctrine overrode the political authority of the Sultan's former army commander. Fourth, it is the book's clearest example of the moral weight of the *[[dardanellen|dardanel]]* system — the point-man who, like [[Nussy]], went ahead alone and shot first.
+The colonne Schmidt campaign is the military climax of *[[Oom Ambon van het K.N.I.L.]]* and the last great counter-insurgency operation of the [[Atjeh-oorlog|Aceh War]]. Its significance in the book is fourfold. First, it is the moment at which the last organised Acehnese armed resistance was destroyed — the precondition for the [[Handover of Aceh to a civil Gouverneur (1918)|handover of Aceh to a civilian Gouverneur]] in [[1918]]. Second, it is the book's clearest example of the *colonne* method — small, highly trained patrouilles operating with local intelligence against a religiously motivated resistance — that had been developed in Aceh since the [[Joannes Benedictus van Heutsz|Van Heutsz]] era. Third, it is the book's clearest example of the doctrinal difficulty of fighting a *[[prang sabi]]*: the religious resisters could not be brought in by political authority, because their doctrine overrode the political authority of the Sultan's former army commander. Fourth, it is the book's clearest example of the moral weight of the *[[dardanellen|dardanel]]* system — the point-man who, like [[Nussy]], went ahead alone and shot first.
 
 ## See Also
 
@@ -59,11 +59,11 @@ The colonne Schmidt campaign is the military climax of *[[Oom Ambon van het K.N.
 - [[Habib Teupin Wan]]
 - [[Peutoeha Gam Masén]]
 - [[Teukoe Dagang]]
-- [[Panglima Prang Polim]]
+- [[Panglima Polem|Panglima Prang Polim]]
 - [[Toeankoe Machmoed Radja Keumala]]
-- [[Generaal Swart]]
+- [[H. N. A. Swart|Generaal Swart]]
 - [[Eresabel]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Dardanellen]]
 - [[Prang sabi]]
 - [[Sjahid]]

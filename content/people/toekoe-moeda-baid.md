@@ -5,7 +5,7 @@ aliases: [Toekoe Moeda Baid, Tunku Muda Baid, the head of the VII Moekims in the
 tags: [person, uleebalang, acehnese, aceh-war]
 ---
 
-**Toekoe Moeda Baid** was the [[Uleebalang|hoeloebalang]] of the [[VII Moekims|VII Moekims]] in the [[XXII Moekims|Sagi der XXII Moekims]] of [[Acheh|Atjeh]], who [[Submission of Toekoe Moeda Baid (14 October 1878)|submitted to the Dutch on 14 October 1878]] — the day after the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman]] — but whose subsequent conduct appeared more and more treacherous, leading to his arrest on [[9 May]] [[9 May]] [[1879]], his transportation to Batavia in July [[1879]], and his banishment by the Governor-General to [[Banda|Banda]].
+**Toekoe Moeda Baid** was the [[Uleebalang|hoeloebalang]] of the [[VII Mukims|VII Mukims]] in the [[XXII Moekims|Sagi der XXII Moekims]] of [[Acheh|Atjeh]], who [[Submission of Toekoe Moeda Baid (14 October 1878)|submitted to the Dutch on 14 October 1878]] — the day after the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman]] — but whose subsequent conduct appeared more and more treacherous, leading to his arrest on [[9 May]] [[9 May]] [[1879]], his transportation to Batavia in July [[1879]], and his banishment by the Governor-General to [[Banda|Banda]].
 
 ## Submission, 14 October 1878
 
@@ -13,7 +13,7 @@ After the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habi
 
 ## Treason and Arrest, 9 May 1879
 
-As the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] developed, however, it more and more appeared that Toekoe Moeda Baid played a treacherous role. He was taken prisoner on [[9 May]] [[9 May]] [[1879]] and transported to Batavia in July [[1879]], where the Governor-General [[J. W. van Lansberge|Van Lansberge]] banished him to [[Banda|Banda]]. His arrest removed a dangerous double-dealer from the theatre of war and coincided with the heavy fighting at [[Panteh Karang|Panteh Karang]] of [[6 May]] [[6 May]] – [[7 May]] [[7 May]] [[1879]].
+As the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] developed, however, it more and more appeared that Toekoe Moeda Baid played a treacherous role. He was taken prisoner on [[9 May]] [[9 May]] [[1879]] and transported to Batavia in July [[1879]], where the Governor-General [[Johan Willem van Lansberge|Van Lansberge]] banished him to [[Banda|Banda]]. His arrest removed a dangerous double-dealer from the theatre of war and coincided with the heavy fighting at [[Panteh Karang|Panteh Karang]] of [[6 May]] [[6 May]] – [[7 May]] [[7 May]] [[1879]].
 
 ## Significance
 
@@ -23,9 +23,9 @@ The case of Toekoe Moeda Baid illustrates the difficulty the Dutch faced in deal
 
 - [[Habib Abdoerrahman]]
 - [[K. van der Heyden]]
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[XXII Moekims]]
-- [[VII Moekims]]
+- [[VII Mukims|VII Moekims]]
 - [[Submission of Habib Abdurrahman (13 October 1878)]]
 - [[Campaign against the XXII Moekims (1879)]]
 - [[Capture of Gleiêng (9 July 1879)]]
@@ -39,7 +39,7 @@ The case of Toekoe Moeda Baid illustrates the difficulty the Dutch faced in deal
 ---
 
 
-**Toekoe Moeda Baid** was the [[Uleebalang|hoeloebalang]] of the [[VII Moekims|VII Moekims]] in the [[XXII Moekims|Sagi der XXII Moekims]] of [[Acheh|Atjeh]], who [[Submission of Toekoe Moeda Baid (14 October 1878)|submitted to the Dutch on 14 October 1878]] — the day after the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman]] — but whose subsequent conduct appeared more and more treacherous, leading to his arrest on [[9 May]] [[9 May]] [[1879]], his transportation to Batavia in July [[1879]], and his banishment by the Governor-General to [[Banda|Banda]].
+**Toekoe Moeda Baid** was the [[Uleebalang|hoeloebalang]] of the [[VII Mukims|VII Mukims]] in the [[XXII Moekims|Sagi der XXII Moekims]] of [[Acheh|Atjeh]], who [[Submission of Toekoe Moeda Baid (14 October 1878)|submitted to the Dutch on 14 October 1878]] — the day after the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman]] — but whose subsequent conduct appeared more and more treacherous, leading to his arrest on [[9 May]] [[9 May]] [[1879]], his transportation to Batavia in July [[1879]], and his banishment by the Governor-General to [[Banda|Banda]].
 
 ## Submission, 14 October 1878
 
@@ -47,7 +47,7 @@ After the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habi
 
 ## Treason and Arrest, 9 May 1879
 
-As the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] developed, however, it more and more appeared that Toekoe Moeda Baid played a treacherous role. He was taken prisoner on [[9 May]] [[9 May]] [[1879]] and transported to Batavia in July [[1879]], where the Governor-General [[J. W. van Lansberge|Van Lansberge]] banished him to [[Banda|Banda]]. His arrest removed a dangerous double-dealer from the theatre of war and coincided with the heavy fighting at [[Panteh Karang|Panteh Karang]] of [[6 May]] [[6 May]] – [[7 May]] [[7 May]] [[1879]].
+As the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] developed, however, it more and more appeared that Toekoe Moeda Baid played a treacherous role. He was taken prisoner on [[9 May]] [[9 May]] [[1879]] and transported to Batavia in July [[1879]], where the Governor-General [[Johan Willem van Lansberge|Van Lansberge]] banished him to [[Banda|Banda]]. His arrest removed a dangerous double-dealer from the theatre of war and coincided with the heavy fighting at [[Panteh Karang|Panteh Karang]] of [[6 May]] [[6 May]] – [[7 May]] [[7 May]] [[1879]].
 
 ## Significance
 
@@ -57,9 +57,9 @@ The case of Toekoe Moeda Baid illustrates the difficulty the Dutch faced in deal
 
 - [[Habib Abdoerrahman]]
 - [[K. van der Heyden]]
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[XXII Moekims]]
-- [[VII Moekims]]
+- [[VII Mukims|VII Moekims]]
 - [[Submission of Habib Abdurrahman (13 October 1878)]]
 - [[Campaign against the XXII Moekims (1879)]]
 - [[Capture of Gleiêng (9 July 1879)]]

@@ -20,7 +20,7 @@ The Painansch Contract system was consolidated by the campaigns of [[Jacob Cau|J
 
 ## The post-1684 Westkust
 
-After [[1684]] the Westkust entered a long eighteenth-century phase of Compagnie government. The four-factory system ([[Padang]], [[Salido|Poeloe Tjingkoek/Salido]], [[Priaman]], [[Tikoe]]) was reduced in [[1698]] when the posts at [[Priaman]], [[Ajerhadji]] and [[Taroesan]] were withdrawn; restored in [[1743]] after the Westkust war of 1740; retrenched in the 1770s; and finally surrendered to the English in [[1784]]–[[1795]] during the [[Vereenigde Oost-Indische Compagnie|Compagnie]]'s late-eighteenth-century crisis. The English period at [[Benkoelen]], [[Batang Kapas]] and [[Silebar]] — opened in [[1685]] — lasted until the [[Anglo-Dutch Treaty of London (1824)|1824 Anglo-Dutch Treaty of London]].
+After [[1684]] the Westkust entered a long eighteenth-century phase of Compagnie government. The four-factory system ([[Padang]], [[Salido|Poeloe Tjingkoek/Salido]], [[Priaman]], [[Tikoe]]) was reduced in [[1698]] when the posts at [[Priaman]], [[Ajerhadji]] and [[Taroesan]] were withdrawn; restored in [[1743]] after the Westkust war of 1740; retrenched in the 1770s; and finally surrendered to the English in [[1784]]–[[1795]] during the [[Vereenigde Oost-Indische Compagnie|Compagnie]]'s late-eighteenth-century crisis. The English period at [[Benkoelen]], [[Batang Kapas]] and [[Silebar]] — opened in [[1685]] — lasted until the [[Anglo-Dutch Treaty of 1824|1824 Anglo-Dutch Treaty of London]].
 
 ## Significance
 

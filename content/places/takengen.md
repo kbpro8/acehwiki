@@ -4,7 +4,7 @@ aliases: [Takengën, Takengon, Takengipn, Takéngón, Takéngen, Takëngon, the 
 tags: [place, gayo, highland, colonial, military, dutch, buitenbezittingen, wegennet]
 ---
 
-**Takengën** (modern *Takengon*) is the bestuursvestiging — the Dutch administrative seat — established on the western shore of the [[Laoet Tawar|Laoet Tawar]] lake in the heart of the [[Gajoland|Gayo]] highlands, around which the colonial administration of the *onderafdeeling Gajo Loeës* was organised after the [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)|1904 campaign]] of [[G. C. E. van Daalen|van Daalen]]. *De Buitenbezittingen* treats Takengën as the political and communications centre of the Gayo high plateau: the point from which the *Gajo-weg* — the great road down to the North Coast at [[Bireuën|Bireuën]] — descends the *Klietel*-saddle to the lake, and the seat of the onderafdeling that comprised, at the time of the handbook, the four Gayo *landschappen* of [[Redjë Tjèq|Redjë Tjèq]] (Bobasan), [[Redjë Boekét|Redjë Boekét]], [[Sjah Oetama|Sjah Oetama]], and [[Redjë Linggo|Redjë Linggo]].
+**Takengën** (modern *Takengon*) is the bestuursvestiging — the Dutch administrative seat — established on the western shore of the [[Laut Tawar|Laut Tawar]] lake in the heart of the [[Gajoland|Gayo]] highlands, around which the colonial administration of the *onderafdeeling Gajo Loeës* was organised after the [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)|1904 campaign]] of [[Gotfried Coenraad Ernst van Daalen|van Daalen]]. *De Buitenbezittingen* treats Takengën as the political and communications centre of the Gayo high plateau: the point from which the *Gajo-weg* — the great road down to the North Coast at [[Bireuën|Bireuën]] — descends the *Klietel*-saddle to the lake, and the seat of the onderafdeling that comprised, at the time of the handbook, the four Gayo *landschappen* of [[Redjë Tjèq|Redjë Tjèq]] (Bobasan), [[Redjë Boekét|Redjë Boekét]], [[Sjah Oetama|Sjah Oetama]], and [[Redjë Linggo|Redjë Linggo]].
 
 ## The Laoet Tawar and its setting
 
@@ -28,7 +28,7 @@ The completion of the Gajo-weg from [[Bireuen]] to Takengon opened the [[Gajolan
 
 ## Account from *Atjèh and the War with Japan* (1949) — Takéngón
 
-**Takéngón** (also Takengën) is the subdistrict headquarters-town of the [[Gajó Loeós|Gajó Loeós]] highlands of Central Atjèh, the principal town of the Gayo highlands where Colonel [[Colonel Gosenson|Gosenson]] established his headquarters on the tea enterprise "Rédèlóng" of the N.V. Serdang cultuur maatschappij in mid-February [[1942]], and where, after the Japanese breakthrough from the [[Alasvalley|Alasvalley]], the Colonel remained in command as the main centre covering the rear of the highland defense. Piekaar's *Atjèh and the War with Japan* treats Takéngón as the principal pivot of the Dutch military dispositions of [[1942]]: the destination of the Koetaradja evacuation transports, the headquarters of the territorial commander, and the centre from which the Government's resin and turpentine enterprise operated.
+**Takéngón** (also Takengën) is the subdistrict headquarters-town of the [[Gajó Loeós|Gajó Loeós]] highlands of Central Atjèh, the principal town of the Gayo highlands where Colonel [[G. F. V. Gosenson|Gosenson]] established his headquarters on the tea enterprise "Rédèlóng" of the N.V. Serdang cultuur maatschappij in mid-February [[1942]], and where, after the Japanese breakthrough from the [[Alasvalley|Alasvalley]], the Colonel remained in command as the main centre covering the rear of the highland defense. Piekaar's *Atjèh and the War with Japan* treats Takéngón as the principal pivot of the Dutch military dispositions of [[1942]]: the destination of the Koetaradja evacuation transports, the headquarters of the territorial commander, and the centre from which the Government's resin and turpentine enterprise operated.
 
 ## The town and its economic role
 
@@ -47,7 +47,7 @@ The town of Takéngón lay at the heart of the [[Gajó Loeós|Gajó Loeós]] val
 
 - [[Gajoland]]
 - [[Gajo Loeës]]
-- [[Laoet Tawar]]
+- [[Laut Tawar|Laoet Tawar]]
 - [[Gajo-weg]]
 - [[Bireuën]]
 - [[Kr. Peusangan]]
@@ -61,7 +61,7 @@ The town of Takéngón lay at the heart of the [[Gajó Loeós|Gajó Loeós]] val
 - [[Gajó Loeós]]
 - [[Blang Kédjérèn]]
 - [[Alasvalley]]
-- [[Colonel Gosenson]]
+- [[G. F. V. Gosenson|Colonel Gosenson]]
 - [[Major-General Overakker]]
 - [[1942]]
 - [[27 March]] [[1942]]

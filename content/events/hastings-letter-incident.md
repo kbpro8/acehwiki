@@ -16,7 +16,7 @@ The Hastings letter incident thus belongs to the same body of British experience
 
 ## Historical Context
 
-The incident took place against the background of more than a century of European attempts to establish friendly relations with Acheh — attempts that, as Snouck Hurgronje observes, "were overridden in the most insulting way." The arrangements which the British East India Company made with Acheh at the close of the eighteenth and the beginning of the nineteenth century for the establishment of friendly relations "were overridden in the most insulting way"; this can be verified, Snouck Hurgronje notes, by reference to the recent essay of P. H. van der Kemp on the treaty made with Acheh by [[Raffles]] in [[1819]], in which long extracts have been quoted from the archives of the India Office.
+The incident took place against the background of more than a century of European attempts to establish friendly relations with Acheh — attempts that, as Snouck Hurgronje observes, "were overridden in the most insulting way." The arrangements which the British East India Company made with Acheh at the close of the eighteenth and the beginning of the nineteenth century for the establishment of friendly relations "were overridden in the most insulting way"; this can be verified, Snouck Hurgronje notes, by reference to the recent essay of P. H. van der Kemp on the treaty made with Acheh by [[Sir Thomas Stamford Raffles|Raffles]] in [[1819]], in which long extracts have been quoted from the archives of the India Office.
 
 ## Legacy
 
@@ -26,10 +26,10 @@ The Hastings letter incident is one of a series of frustrations that defined the
 
 - [[Fullerton memorandum]]
 - [[First Dutch attack on Acheh]]
-- [[Treaty of 1824]]
+- [[Anglo-Dutch Treaty of 1824|Treaty of 1824]]
 - [[Acheh War]]
 - [[Pulau Pinang]]
-- [[Raffles]]
+- [[Sir Thomas Stamford Raffles|Raffles]]
 
 ## Source
 

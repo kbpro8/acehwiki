@@ -3,7 +3,7 @@ title: Anjer
 aliases: [Anjer, Anjer on Java, Cape Anjer, Anjier, Point of Anjer, Kaap Anjer]
 tags: [place, coast, colony, foreign]
 ---
-**Anjer** (modern **Anyer**) was the point on the north-west extremity of [[Java]] — at the eastern entrance of the Sunda Strait — that ships from Europe and India routinely called at for fresh provisions and water before proceeding to [[Batavia]] or beyond. In P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819*, Anjer appears as one of the two places (with [[Tapanoeli]] on the west coast of [[Sumatra]]) for which the Dutch plenipotentiaries of [[1824]] offered the British special assurances of friendly reception, in articles 11 and 12 of the draft convention that preceded the [[Anglo-Dutch Treaty of London (1824)|treaty of 17 March 1824]].
+**Anjer** (modern **Anyer**) was the point on the north-west extremity of [[Java]] — at the eastern entrance of the Sunda Strait — that ships from Europe and India routinely called at for fresh provisions and water before proceeding to [[Batavia]] or beyond. In P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819*, Anjer appears as one of the two places (with [[Tapanoeli]] on the west coast of [[Sumatra]]) for which the Dutch plenipotentiaries of [[1824]] offered the British special assurances of friendly reception, in articles 11 and 12 of the draft convention that preceded the [[Anglo-Dutch Treaty of 1824|treaty of 17 March 1824]].
 
 ## Article 11 of the draft convention
 
@@ -25,7 +25,7 @@ Van der Kemp finds the whole affair singular. The plenipotentiaries had, "in a s
 - [[Anton Reinhard Falck]]
 - [[Hendrik Fagel]]
 - [[Elout]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Netherlands India]]
 
 ## Source

@@ -24,7 +24,7 @@ The recurrence of place-names like Lubo' in the wedding pantuns reflects the str
 ## See Also
 
 - [[Lam Baro]]
-- [[Lam Gugob]]
+- [[Lam Gut|Lam Gugob]]
 - [[Great Acheh]]
 - [[Mamplenc (wedding procession)]]
 

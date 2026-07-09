@@ -16,7 +16,7 @@ On [[14 May]] [[14 May]] [[1872]] a small troop force of 5 officers and 135 rank
 
 ## Significance
 
-By decree of [[15 May]] [[15 May]] [[1873]] a reorganisation of the administration of [[Sumatra's Oostkust|Sumatra's Oostkust]] was carried out, by which this was separated from the residency of [[Riouw|Riouw]] and made into a separate residency. The expedition to Deli was, in the source work's view, not wholly without connection with the events in Atjeh; both belonged to the wider pattern of Dutch expansion along the coasts of Sumatra, which the [[Anglo-Dutch Treaty of 1871|Sumatra-tractaat of 1871]] had made possible.
+By decree of [[15 May]] [[15 May]] [[1873]] a reorganisation of the administration of [[Sumatra's Oostkust|Sumatra's Oostkust]] was carried out, by which this was separated from the residency of [[Riouw|Riouw]] and made into a separate residency. The expedition to Deli was, in the source work's view, not wholly without connection with the events in Atjeh; both belonged to the wider pattern of Dutch expansion along the coasts of Sumatra, which the [[Anglo-Dutch Treaty of 1824|Sumatra-tractaat of 1871]] had made possible.
 
 ## See Also
 
@@ -32,7 +32,7 @@ By decree of [[15 May]] [[15 May]] [[1873]] a reorganisation of the administrati
 - [[Siak]]
 - [[Sumatra's Oostkust]]
 - [[Riouw]]
-- [[Anglo-Dutch Treaty of 1871]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1871]]
 - [[Batak War (1878)]]
 - [[Aceh War]]
 

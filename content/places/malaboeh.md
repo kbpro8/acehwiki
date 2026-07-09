@@ -19,7 +19,7 @@ In accordance with the [[Establishment of Civil Government in Aceh (6 April 1881
 - [[Loöng]]
 - [[Merbau]]
 - [[Westkust van Atjeh]]
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[Establishment of Civil Government in Aceh (6 April 1881)]]
 - [[Aceh War]]
 

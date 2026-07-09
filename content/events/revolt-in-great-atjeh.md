@@ -15,7 +15,7 @@ Piekaar identifies the *sagi*-head [[Teukoe Panglima Pólém Moehamad Ali|Teukoe
 
 ## The coup d'état of 11 March 1942
 
-On [[11 March]] [[1942]], with the second sabotage wave in full spate, [[Colonel Gosenson|Colonel Gosenson]] carried out his celebrated "coup d'état" in the [[Heutsz-room|Heutsz-room]] of the Residency: eight Great-Atjèhnese chiefs — including [[Teukoe Oemar Djohan Pahlawan|Teukoe Oemar Djohan Pahlawan]], [[Teukoe Radja Djoema'at|Teukoe Radja Djoema'at]] of [[Lhóng|Lhóng]], and [[Teukoe Ali Basjah|Teukoe Ali Basjah]] of [[Peukan Bada|Peukan Bada]] — were arrested and shipped aboard the *Sabangbaai* to [[Sigli|Sigli]]. "The following night the Japanese landings came as a welcome relief."
+On [[11 March]] [[1942]], with the second sabotage wave in full spate, [[G. F. V. Gosenson|G. F. V. Gosenson]] carried out his celebrated "coup d'état" in the [[Heutsz-room|Heutsz-room]] of the Residency: eight Great-Atjèhnese chiefs — including [[Teukoe Oemar Djohan Pahlawan|Teukoe Oemar Djohan Pahlawan]], [[Teukoe Radja Djoema'at|Teukoe Radja Djoema'at]] of [[Lhóng|Lhóng]], and [[Teukoe Ali Basjah|Teukoe Ali Basjah]] of [[Peukan Bada|Peukan Bada]] — were arrested and shipped aboard the *Sabangbaai* to [[Sigli|Sigli]]. "The following night the Japanese landings came as a welcome relief."
 
 ## Significance
 
@@ -27,7 +27,7 @@ The revolt in Great Atjèh was the only one of the 1942 risings to assume "the a
 - [[Indrapoeri]]
 - [[Koetaradja]]
 - [[Teukoe Panglima Pólém Moehamad Ali]]
-- [[Colonel Gosenson]]
+- [[G. F. V. Gosenson|Colonel Gosenson]]
 - [[Resident J. Pauw]]
 - [[Poesa]]
 - [[Fujiwara-kikan]]

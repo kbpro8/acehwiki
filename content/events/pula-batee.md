@@ -20,7 +20,7 @@ The tombstones are imported from neighbouring islands such as [[Pulo We|Pulo We]
 
 ## The Ceremony
 
-The pula batee is attended to by the *walé* of the deceased, or — if the deceased is a married woman — by her husband. The setting up of the stones is accompanied by a religious feast (*[[kanduri]]*). Some give this at home, others on a larger scale at the place of burial. Yellow glutinous rice is indispensable, and ideally a goat is slaughtered. The teungku acts as "planter." Before he sets the stones, he first performs the *peusijië* or "cooling" rite, besprinkling them with flour and water using a besom formed from the three kinds of "cooling" plants. The ceremony is introduced with a *bismillah* ("in the name of Allah"). The teungku then sets up the tombstones and consecrates the feast with a prayer — if, Hurgronje wryly notes, the viands furnished for the occasion appear to him worth the trouble.
+The pula batee is attended to by the *walé* of the deceased, or — if the deceased is a married woman — by her husband. The setting up of the stones is accompanied by a religious feast (*[[Kanduri|kanduri]]*). Some give this at home, others on a larger scale at the place of burial. Yellow glutinous rice is indispensable, and ideally a goat is slaughtered. The teungku acts as "planter." Before he sets the stones, he first performs the *peusijië* or "cooling" rite, besprinkling them with flour and water using a besom formed from the three kinds of "cooling" plants. The ceremony is introduced with a *bismillah* ("in the name of Allah"). The teungku then sets up the tombstones and consecrates the feast with a prayer — if, Hurgronje wryly notes, the viands furnished for the occasion appear to him worth the trouble.
 
 ## See Also
 

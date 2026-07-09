@@ -8,7 +8,7 @@ tags: [event, visit, dutch, post-war, aceh-war-commemoration, luchtvaart]
 
 ## The First Indies Journey (April–September 1920)
 
-In [[1920]] Snijders, as chairman of the Vereeniging "Ons Leger," undertook a journey to [[Nederlandsch-Indië|Nederlandsch-Indië]] to represent "Ons Leger" at the Algemene Vergadering of "Indië Weerbaar" at [[Bandoeng|Bandoeng]]. He was accompanied by Kapitein van den Generalen Staf E. H. A. van den Akker as secretary. A transport workers' strike forced him to give up his intended passage on the *Wilis*; with some effort he secured a berth on the English mailboat *Delta* of the P&O Line, leaving Europe on [[7 April]] [[7 April]] and arriving at [[Tandjong Priok|Tandjong Priok]] on [[16 May]] [[16 May]].
+In [[1920]] Snijders, as chairman of the Vereeniging "Ons Leger," undertook a journey to [[Nederlandsch-Indië|Nederlandsch-Indië]] to represent "Ons Leger" at the Algemene Vergadering of "Indië Weerbaar" at [[Bandoeng|Bandoeng]]. He was accompanied by Kapitein van den Generalen Staf E. H. A. van den Akker as secretary. A transport workers' strike forced him to give up his intended passage on the *Wilis*; with some effort he secured a berth on the English mailboat *Delta* of the P&O Line, leaving Europe on [[7 April]] [[7 April]] and arriving at [[Tanjung Priok|Tanjung Priok]] on [[16 May]] [[16 May]].
 
 The Bandoeng meeting of [[24 May]] [[24 May]] (the second Whitmonday) was followed by lectures on the defensie-vraagstuk at [[Surabaya|Surabaya]] on [[14 July]] [[14 July]], at [[Semarang|Semarang]] on [[21 July]] [[21 July]], and at [[Medan|Medan]] on [[12 August]] [[12 August]], in addition to several lectures on air-traffic matters in connection with the [[K.L.M.|K.L.M.]] interests that he had also undertaken to pursue. On his tour he was received hospitably by the Governor-General [[Jhr. Mr. A. W. F. Idenburg|Graaf Van Limburg Stirum]] and by the Susuhunan and the Sultan of Surakarta and Djokjakarta. During his stay with the latter he attended a performance of the Serimpi dance and was presented by the Sultan with a walking-stick with a golden knob engraved with the Sunan's monogram.
 
@@ -42,7 +42,7 @@ The [[1920]] visit is the only documented return of [[Cornelis Jacobus Snijders|
 - [[Bandoeng]]
 - [[Surabaya]]
 - [[Semarang]]
-- [[Tandjong Priok]]
+- [[Tanjung Priok|Tandjong Priok]]
 - [[K.L.M.]]
 - [[1920]]
 

@@ -16,7 +16,7 @@ Lancaster was granted a magnificent audience with the Sultan, complete with a pa
 
 While in Atjeh, Lancaster learned of the annual Portuguese galleon that sailed from the [[Koromandel]] coast to [[Malaka]], laden with highly valuable Indian textiles. Recognizing an opportunity for both profit and geopolitical sabotage, Lancaster requested the Sultan's assistance in masking the English fleet's movements so the Portuguese would not be warned of their ambush.
 
-The Sultan agreed, and Lancaster was joined by the Dutch admiral [[Joris Spilbergh]], who had recently arrived with two ships. The combined Anglo-Dutch force blockaded the Strait of Malacca and successfully intercepted the Portuguese galleon in [[October]] [[1602]]. The vessel, carrying 950 bales of calicoes and pintados, was captured without the loss of the 600 passengers and crew, who were allowed to proceed to Malaka in their emptied ship. Spilbergh received an eighth of the prize for his assistance, cementing a rare moment of tactical cooperation between the English and Dutch in the Archipelago.
+The Sultan agreed, and Lancaster was joined by the Dutch admiral [[Joris van Spilbergen|Joris Spilbergh]], who had recently arrived with two ships. The combined Anglo-Dutch force blockaded the Strait of Malacca and successfully intercepted the Portuguese galleon in [[October]] [[1602]]. The vessel, carrying 950 bales of calicoes and pintados, was captured without the loss of the 600 passengers and crew, who were allowed to proceed to Malaka in their emptied ship. Spilbergh received an eighth of the prize for his assistance, cementing a rare moment of tactical cooperation between the English and Dutch in the Archipelago.
 
 ## Departure and legacy
 
@@ -25,7 +25,7 @@ Having secured a massive cargo of pepper and the captured Indian textiles, Lanca
 ## See Also
 - [[Atjeh]]
 - [[James Lancaster]]
-- [[Joris Spilbergh]]
+- [[Joris van Spilbergen|Joris Spilbergh]]
 - [[English East India Company]]
 - [[Koromandel]]
 - [[Portuguese Malacca]]

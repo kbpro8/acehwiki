@@ -12,7 +12,7 @@ Mennert’s injury illustrates the intense combat experienced by Dutch naval off
 ## See Also
 
 - [[Broers (naval officer)]]
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Tamiang (river)]]
 - [[Koerier (ship)]]
 

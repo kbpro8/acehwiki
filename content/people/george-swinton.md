@@ -15,14 +15,14 @@ The Penang government accordingly proposed, in its letter to Swinton, the altern
 
 ## Role in the Bengal Administration
 
-As Government Secretary at Calcutta, Swinton stood at the apex of the official correspondence between the Government of India and its subordinate presidencies. The letter preserved by Van der Kemp is significant not so much for Swinton's personal action as for the fact that it placed before the Supreme Government the choice which would determine the future of British relations with Acheh. The Calcutta government ultimately chose the second alternative — relinquishment of interference — and the [[Acheh treaty of 1819]] became, as Van der Kemp emphasises, a "dead letter". The Swinton correspondence marks one of the last moments at which a more active British policy towards Acheh was seriously pressed upon the Supreme Government.
+As Government Secretary at Calcutta, Swinton stood at the apex of the official correspondence between the Government of India and its subordinate presidencies. The letter preserved by Van der Kemp is significant not so much for Swinton's personal action as for the fact that it placed before the Supreme Government the choice which would determine the future of British relations with Acheh. The Calcutta government ultimately chose the second alternative — relinquishment of interference — and the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] became, as Van der Kemp emphasises, a "dead letter". The Swinton correspondence marks one of the last moments at which a more active British policy towards Acheh was seriously pressed upon the Supreme Government.
 
 Van der Kemp gives no further biographical particulars of Swinton, but notes that other letters on Achehnese affairs, in connection with the death of Sultan Djohar, are preserved in the Roosegaarde Bisschop collection. The single dispatch printed in his appendix is offered as sufficient to illustrate the position taken by the Penang government.
 
 ## See Also
 
 - [[Death of Sultan Jauhar Alum]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
 - [[Dead letter]]
 - [[Penang]]
@@ -43,14 +43,14 @@ The Penang government accordingly proposed, in its letter to Swinton, the altern
 
 ## Role in the Bengal Administration
 
-As Government Secretary at Calcutta, Swinton stood at the apex of the official correspondence between the Government of India and its subordinate presidencies. The letter preserved by Van der Kemp is significant not so much for Swinton's personal action as for the fact that it placed before the Supreme Government the choice which would determine the future of British relations with Acheh. The Calcutta government ultimately chose the second alternative — relinquishment of interference — and the [[Acheh treaty of 1819]] became, as Van der Kemp emphasises, a "dead letter". The Swinton correspondence marks one of the last moments at which a more active British policy towards Acheh was seriously pressed upon the Supreme Government.
+As Government Secretary at Calcutta, Swinton stood at the apex of the official correspondence between the Government of India and its subordinate presidencies. The letter preserved by Van der Kemp is significant not so much for Swinton's personal action as for the fact that it placed before the Supreme Government the choice which would determine the future of British relations with Acheh. The Calcutta government ultimately chose the second alternative — relinquishment of interference — and the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] became, as Van der Kemp emphasises, a "dead letter". The Swinton correspondence marks one of the last moments at which a more active British policy towards Acheh was seriously pressed upon the Supreme Government.
 
 Van der Kemp gives no further biographical particulars of Swinton, but notes that other letters on Achehnese affairs, in connection with the death of Sultan Djohar, are preserved in the Roosegaarde Bisschop collection. The single dispatch printed in his appendix is offered as sufficient to illustrate the position taken by the Penang government.
 
 ## See Also
 
 - [[Death of Sultan Jauhar Alum]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
 - [[Dead letter]]
 - [[Penang]]

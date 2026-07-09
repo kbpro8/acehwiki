@@ -16,7 +16,7 @@ In the Acehnese Malay version of the *Burda*, Hūd’s narrative is invoked to c
 ## See Also
 
 - [[‘Ad (people)]]
-- [[Al‑Burda (Arabic poem)]]
+- [[Burda (poem)|Al‑Burda (Arabic poem)]]
 - [[Muhammad]]
 - [[Arabic terms in Acehnese religious poetry]]
 

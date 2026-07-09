@@ -13,7 +13,7 @@ The Dutch fleet had to contend with the fortified island while attempting to nav
 
 - [[Peladjoe]]
 - [[Palembang]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[1821 Palembang expedition]]
 
 ## Source

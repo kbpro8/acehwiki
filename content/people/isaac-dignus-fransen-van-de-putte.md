@@ -9,9 +9,9 @@ tags: [person, dutch-official, colonial-administrator, politician]
 
 ## The 17 January 1872 Statement on Article 3
 
-The principal mention of the minister in Van der Kemp's narrative occurs during the Dutch Second Chamber's consideration of the [[Sumatra Treaty of 1871|Sumatra-tractaat]] of 2 November 1871, by which Great Britain finally withdrew all representations against the extension of Netherlands authority over any part of Sumatra. In the debate of 17 January 1872, the minister — identified by Van der Kemp as "the minister of Colonies Van Bosse" — explained that Article 3 of the [[Anglo-Dutch Treaty of London (1824)|treaty of 17 March 1824]] had been the seed of the long Acheh dispute. "It is precisely that provision," he declared, "which has given rise to the conflict. For in this article a stipulation is given from which England derived certain rights and could also continue to derive them. And over the extent of those rights, and over the meaning of this article, controversy has been repeatedly conducted since 1824."
+The principal mention of the minister in Van der Kemp's narrative occurs during the Dutch Second Chamber's consideration of the [[Sumatra Treaty of 1871|Sumatra-tractaat]] of 2 November 1871, by which Great Britain finally withdrew all representations against the extension of Netherlands authority over any part of Sumatra. In the debate of 17 January 1872, the minister — identified by Van der Kemp as "the minister of Colonies Van Bosse" — explained that Article 3 of the [[Anglo-Dutch Treaty of 1824|treaty of 17 March 1824]] had been the seed of the long Acheh dispute. "It is precisely that provision," he declared, "which has given rise to the conflict. For in this article a stipulation is given from which England derived certain rights and could also continue to derive them. And over the extent of those rights, and over the meaning of this article, controversy has been repeatedly conducted since 1824."
 
-The statement is significant because it constitutes a ministerial admission, on the floor of the States-General, that the much-lamented Acheh question had been the fruit of an ambiguous provision inserted into the 1824 treaty at the eleventh hour, partly through the action of [[Anton Reinhard Falck|Falck]] and [[Hendrik Fagel|Fagel]] in acceding to the British plenipotentiaries' demands touching the [[Acheh treaty of 1819|Raffles–Coombs convention]].
+The statement is significant because it constitutes a ministerial admission, on the floor of the States-General, that the much-lamented Acheh question had been the fruit of an ambiguous provision inserted into the 1824 treaty at the eleventh hour, partly through the action of [[Anton Reinhard Falck|Falck]] and [[Hendrik Fagel|Fagel]] in acceding to the British plenipotentiaries' demands touching the [[Treaty of Pedir (1819)|Raffles–Coombs convention]].
 
 ## The Declaration of 21 November 1871
 
@@ -25,7 +25,7 @@ Van der Kemp reads the ministerial pronouncements of 1871–1872 as part of a br
 
 - [[Gericke]]
 - [[Sumatra Treaty of 1871]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Anton Reinhard Falck]]
 - [[E. de Waal]]
 - [[S. van Deventer]]
@@ -41,9 +41,9 @@ Van der Kemp reads the ministerial pronouncements of 1871–1872 as part of a br
 
 ## The 17 January 1872 Statement on Article 3
 
-The principal mention of the minister in Van der Kemp's narrative occurs during the Dutch Second Chamber's consideration of the [[Sumatra Treaty of 1871|Sumatra-tractaat]] of 2 November 1871, by which Great Britain finally withdrew all representations against the extension of Netherlands authority over any part of Sumatra. In the debate of 17 January 1872, the minister — identified by Van der Kemp as "the minister of Colonies Van Bosse" — explained that Article 3 of the [[Anglo-Dutch Treaty of London (1824)|treaty of 17 March 1824]] had been the seed of the long Acheh dispute. "It is precisely that provision," he declared, "which has given rise to the conflict. For in this article a stipulation is given from which England derived certain rights and could also continue to derive them. And over the extent of those rights, and over the meaning of this article, controversy has been repeatedly conducted since 1824."
+The principal mention of the minister in Van der Kemp's narrative occurs during the Dutch Second Chamber's consideration of the [[Sumatra Treaty of 1871|Sumatra-tractaat]] of 2 November 1871, by which Great Britain finally withdrew all representations against the extension of Netherlands authority over any part of Sumatra. In the debate of 17 January 1872, the minister — identified by Van der Kemp as "the minister of Colonies Van Bosse" — explained that Article 3 of the [[Anglo-Dutch Treaty of 1824|treaty of 17 March 1824]] had been the seed of the long Acheh dispute. "It is precisely that provision," he declared, "which has given rise to the conflict. For in this article a stipulation is given from which England derived certain rights and could also continue to derive them. And over the extent of those rights, and over the meaning of this article, controversy has been repeatedly conducted since 1824."
 
-The statement is significant because it constitutes a ministerial admission, on the floor of the States-General, that the much-lamented Acheh question had been the fruit of an ambiguous provision inserted into the 1824 treaty at the eleventh hour, partly through the action of [[Anton Reinhard Falck|Falck]] and [[Hendrik Fagel|Fagel]] in acceding to the British plenipotentiaries' demands touching the [[Acheh treaty of 1819|Raffles–Coombs convention]].
+The statement is significant because it constitutes a ministerial admission, on the floor of the States-General, that the much-lamented Acheh question had been the fruit of an ambiguous provision inserted into the 1824 treaty at the eleventh hour, partly through the action of [[Anton Reinhard Falck|Falck]] and [[Hendrik Fagel|Fagel]] in acceding to the British plenipotentiaries' demands touching the [[Treaty of Pedir (1819)|Raffles–Coombs convention]].
 
 ## The Declaration of 21 November 1871
 
@@ -57,7 +57,7 @@ Van der Kemp reads the ministerial pronouncements of 1871–1872 as part of a br
 
 - [[Gericke]]
 - [[Sumatra Treaty of 1871]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Anton Reinhard Falck]]
 - [[E. de Waal]]
 - [[S. van Deventer]]

@@ -11,7 +11,7 @@ The **Tamiang** river basin, part of the interior of **[[Sumatra]]**, became a f
 
 ## Military Action
 
-On **[[13 February]] [[1893]]**, **[[Colonel Van de Pol|Van de Pol]]** led a force of 130 infantrymen from **[[Deli]]** together with a **[[Royal Netherlands Navy|naval]]** flotilla to confront **Nja‑Makam**. The expedition ultimately forced the insurgents to retreat, though the conflict continued in subsequent months.
+On **[[13 February]] [[1893]]**, **[[Colonel Van de Pol|Van de Pol]]** led a force of 130 infantrymen from **[[Deli]]** together with a **[[Dutch Navy|naval]]** flotilla to confront **Nja‑Makam**. The expedition ultimately forced the insurgents to retreat, though the conflict continued in subsequent months.
 
 ## Significance
 
@@ -21,7 +21,7 @@ On **[[13 February]] [[1893]]**, **[[Colonel Van de Pol|Van de Pol]]** led a for
 
 - [[Tamiang (river)]]
 - [[Colonel Van de Pol]]
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Atjeh War]]
 - [[Deli (province)]]
 

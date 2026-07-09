@@ -38,7 +38,7 @@ The *bangei* is **rarely documented** outside Kunst's 1946 monograph. It does no
 | **[[Polynesia]]** (Hawai'i, Tahiti, Māori) | *'Ohe hano ihu* / *Vivo* / *Kōauau* | Bamboo/gourd nose flute | Ceremonial, genealogy chants |
 | **[[Melanesia]]** (New Guinea) | *Kundu* (generic) | Various | Ritual |
 | **[[Taiwan]]** (Atayal, Bunun) | *Lalaw* / *Pisil* | Bamboo nose flute | Hunting, courtship |
-| **[[Minangkabau]]** | *Suling* (mouth-blown) | Bamboo ring flute | *Talempong*, *Randai* |
+| **[[Menangkabau|Minangkabau]]** | *Suling* (mouth-blown) | Bamboo ring flute | *Talempong*, *Randai* |
 | **[[Gayo Lands]]** | *Suling* (mouth-blown) | Bamboo ring flute | *Saman*, *Didong* |
 
 The *bangei* is the **only documented nose flute in western Indonesia** (Sumatra, Java, Borneo, Malay Peninsula). Its presence in Aceh may reflect **ancient Austronesian connections** with the Philippines and the Pacific, or a **local innovation** in bamboo organology.

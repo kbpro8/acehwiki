@@ -10,7 +10,7 @@ tags: [place, town, harbour, colonial, dutch, aceh, buitenbezittingen, tramway, 
 
 The Encyclopaedisch Bureau's account of the [[1913]] extension approvals places [[Telok Taboeban|Telok Taboeban]] at the maritime terminus of the [[Aroe-baai-plannen|Aroe-baai-plannen]]: by the G. Bn. of [[17 June]] [[1913]] No. 59, [[16 October]] [[1913]] No. 25, and [[8 November]] [[1913]] No. 40, "the doortrekking was approved of the [[Atjeh-tram|Atjeh-tram]] network from [[Koeala Simpang]] through [[Tamiang]] to [[Besitang]], and from [[Pangkalan Soesoe]] to Telok Taboeban (on [[Aroebai|Arube Bay]], with a good roadstead), while the connecting line between [[Besitang]] and [[Pangkalan Soesoe]] is also already in preparation."
 
-The Bureau's account of the [[Aroe-baai-plannen|Aroe-baai-plannen]] and of the contested relationship between the Atjeh-tram extension and the [[Deli-Spoorweg-Maatschappij|Deli-Spoorweg-Maatschappij]] also identifies Telok Taboeban as the proposed junction for a direct connection with [[Pangkalan Brandan]] — a connection that the Bureau reports as "now under consideration" (*thans in overweging*) in preference to the originally proposed direct [[Besitang]]–[[Tandjoeng Slamat]] junction.
+The Bureau's account of the [[Aroe-baai-plannen|Aroe-baai-plannen]] and of the contested relationship between the Atjeh-tram extension and the [[Deli Spoorweg Maatschappij|Deli Spoorweg Maatschappij]] also identifies Telok Taboeban as the proposed junction for a direct connection with [[Pangkalan Brandan]] — a connection that the Bureau reports as "now under consideration" (*thans in overweging*) in preference to the originally proposed direct [[Besitang]]–[[Tandjoeng Slamat]] junction.
 
 ## Significance
 
@@ -27,7 +27,7 @@ The Bureau's account of the [[Aroe-baai-plannen|Aroe-baai-plannen]] and of the c
 - [[Koeala Simpang]]
 - [[Pangkalan Brandan]]
 - [[Tandjoeng Slamat]]
-- [[Deli-Spoorweg-Maatschappij]]
+- [[Deli Spoorweg Maatschappij|Deli-Spoorweg-Maatschappij]]
 - [[Atjeh's Onderhoorigheden]]
 - [[1913]]
 

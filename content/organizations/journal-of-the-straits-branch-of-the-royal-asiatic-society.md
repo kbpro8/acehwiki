@@ -15,7 +15,7 @@ By making the Hikayat accessible to an English‑reading audience, J.S.B.R.ASS f
 - [[Hikayat Raja-raja Pasai]]
 - [[Pasai]]
 - [[J. P. Mead]]
-- [[Dulaurier]]
+- [[E. Dulaurier|Dulaurier]]
 - [[Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]
 
 ## Source

@@ -24,11 +24,11 @@ The founding of the VOC immediately changed the Dutch position at [[Acheh|Atjeh]
 
 ## The early VOC at Atjeh
 
-The early VOC retained the diplomatic framework that the voorcompagnieën had established at Atjeh. The [[Atjeh embassy to Prince Maurits (1601)|Atjeh embassy of 1601]] had produced a treaty of friendship and commerce between the sultan and the States-General; the VOC inherited this treaty and continued to operate under its terms. The Company's factors at Atjeh continued to buy pepper, though in declining quantities as the trade shifted to the west coast and to Bantam; the sultan's court continued to receive Dutch, English and French visitors and to play them against each other. The [[Sultan of Atjeh (1589-1604)|sultan of Atjeh]]'s death in [[1604]] and the eventual succession of his son — the [[Sultan of Atjeh (1589-1604)|sultan who would attack Djohor in 1613]] — preserved the same balancing policy.
+The early VOC retained the diplomatic framework that the voorcompagnieën had established at Atjeh. The [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy of 1601]] had produced a treaty of friendship and commerce between the sultan and the States-General; the VOC inherited this treaty and continued to operate under its terms. The Company's factors at Atjeh continued to buy pepper, though in declining quantities as the trade shifted to the west coast and to Bantam; the sultan's court continued to receive Dutch, English and French visitors and to play them against each other. The [[Sultan of Atjeh (1589-1604)|sultan of Atjeh]]'s death in [[1604]] and the eventual succession of his son — the [[Sultan of Atjeh (1589-1604)|sultan who would attack Djohor in 1613]] — preserved the same balancing policy.
 
 ## Significance
 
-The founding of the VOC is, in Van der Woude's narrative, the principal institutional event of the early Dutch-Indies trade and the proximate cause of the consolidation of the Dutch position at [[Acheh|Atjeh]] after a decade of fragmented competition. The charter's grant of quasi-sovereign powers — fortification, war, treaty-making — was the legal foundation of the [[Jan Pieterszoon Coen|Coen]] programme of monopoly-by-force that would define VOC policy from [[1609]] onward. The early VOC inherited the diplomatic framework of the voorcompagnieën at Atjeh — the [[Atjeh embassy to Prince Maurits (1601)|treaty of 1601]], the lodge "Zeelant", the practice of buying pepper from visiting fleets — and continued to operate within it for the first decade of its existence, while the strategic centre of Dutch-Indies policy shifted south and east to [[Banda|Banda]] and [[Jacatra|Jacatra]]. The founding also marks the moment at which the Dutch-Atjeh relationship ceased to be a private commercial venture and became a state-backed enterprise — a transformation that would, in the long run, lead to the [[Aceh War|Atjeh-oorlog]] of [[1873]]-[[1903]].
+The founding of the VOC is, in Van der Woude's narrative, the principal institutional event of the early Dutch-Indies trade and the proximate cause of the consolidation of the Dutch position at [[Acheh|Atjeh]] after a decade of fragmented competition. The charter's grant of quasi-sovereign powers — fortification, war, treaty-making — was the legal foundation of the [[Jan Pieterszoon Coen|Coen]] programme of monopoly-by-force that would define VOC policy from [[1609]] onward. The early VOC inherited the diplomatic framework of the voorcompagnieën at Atjeh — the [[Aceh Embassy to Prince Maurits at Grave (1602)|treaty of 1601]], the lodge "Zeelant", the practice of buying pepper from visiting fleets — and continued to operate within it for the first decade of its existence, while the strategic centre of Dutch-Indies policy shifted south and east to [[Banda|Banda]] and [[Jacatra|Jacatra]]. The founding also marks the moment at which the Dutch-Atjeh relationship ceased to be a private commercial venture and became a state-backed enterprise — a transformation that would, in the long run, lead to the [[Aceh War|Atjeh-oorlog]] of [[1873]]-[[1903]].
 
 ## See Also
 
@@ -40,7 +40,7 @@ The founding of the VOC is, in Van der Woude's narrative, the principal institut
 - [[Middelburgsche Compagnie]]
 - [[Nieuwe Brabantsche Compagnie]]
 - [[Moucheron's firm]]
-- [[Atjeh embassy to Prince Maurits (1601)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits (1601)]]
 - [[Zeeland Company's Atjeh mission (1601)]]
 - [[Sultan of Atjeh (1589-1604)]]
 - [[Cornelis de Houtman]]

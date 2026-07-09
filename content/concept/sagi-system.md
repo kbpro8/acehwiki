@@ -23,7 +23,7 @@ Each sagi also had its own chief kali (*qadi*) — the "judge of the Almighty Lo
 
 ## Account from *De Buitenbezittingen* (1917) — Sagi
 
-**The sagi** — literally "side" — was the great federation of [[Oelèëbalang|oelèëbalangschappen]] into which [[Groot-Atjeh|Groot-Atjeh]] was immemorially divided, the uppermost tier of the native constitution above the [[Gampong|gampong]], the [[Moekim|moekim]], and the individual oelèëbalangschap. *De Buitenbezittingen*, again following Prof. Dr. [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] (*De Atjehers*, Vol. I, p. 94), treats the three sagi's as the masterwork of Atjehsche political art — defensive leagues by which independent oelèëbalangs collectively oversaw the Sultanate itself.
+**The sagi** — literally "side" — was the great federation of [[Oelèëbalang|oelèëbalangschappen]] into which [[Groot-Atjeh|Groot-Atjeh]] was immemorially divided, the uppermost tier of the native constitution above the [[Gampong|gampong]], the [[Moekim|moekim]], and the individual oelèëbalangschap. *De Buitenbezittingen*, again following Prof. Dr. [[C. Snouck Hurgronje|Snouck Hurgronje]] (*De Atjehers*, Vol. I, p. 94), treats the three sagi's as the masterwork of Atjehsche political art — defensive leagues by which independent oelèëbalangs collectively oversaw the Sultanate itself.
 
 ## The three federations
 
@@ -37,7 +37,7 @@ These names were "behouden gebleven ook nadat door toename van de bevolking, het
 
 ## Origins and parallels
 
-The origin of the tripartition, the handbook warns, "kan niet meer positief worden vastgesteld" — can no longer be positively determined. Such federations, however, were widely paralleled in the archipelago: on Celebes the *Teloe Potjoë* — the "Three Colours" — league of Bone, Wadjo, and Soppeng, and the *Adjatapparang* federation of the states west of Lake Sidenreng. [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s explanation, quoted verbatim, is that "evenals nu de gampongs, die op zichzelf staande aan de genade en ongenade van elken geweldenaar overgeleverd zouden zijn, hare kracht vonden in de vereeniging onder eenen oeleëbalang, zoo moesten wel de oelèëbalangs in hun onderlingen strijd het nut van een offensief en defensief verbond gaan inzien." The federations persisted through the centuries because, "zoals wij soms zullen zien," the constituent oelèëbalangschappen genuinely shared "duurzame gemeenschappelijke belangen."
+The origin of the tripartition, the handbook warns, "kan niet meer positief worden vastgesteld" — can no longer be positively determined. Such federations, however, were widely paralleled in the archipelago: on Celebes the *Teloe Potjoë* — the "Three Colours" — league of Bone, Wadjo, and Soppeng, and the *Adjatapparang* federation of the states west of Lake Sidenreng. [[C. Snouck Hurgronje|Snouck Hurgronje]]'s explanation, quoted verbatim, is that "evenals nu de gampongs, die op zichzelf staande aan de genade en ongenade van elken geweldenaar overgeleverd zouden zijn, hare kracht vonden in de vereeniging onder eenen oeleëbalang, zoo moesten wel de oelèëbalangs in hun onderlingen strijd het nut van een offensief en defensief verbond gaan inzien." The federations persisted through the centuries because, "zoals wij soms zullen zien," the constituent oelèëbalangschappen genuinely shared "duurzame gemeenschappelijke belangen."
 
 ## Constitutional role
 
@@ -60,7 +60,7 @@ The Panglima sagi "stond buiten de inwendige aangelegenheden van ieder oelèëba
 - [[Moekim]]
 - [[Panglima Sagi]]
 - [[Sultans of Atjeh]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 
 ## Source
 

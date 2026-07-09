@@ -16,7 +16,7 @@ When a gift has been vowed to the Prophet, to the saint **Mirah Sab** or **Meura
 
 ## Nagore and the Deccanese Channel of Islam
 
-The cult of Tuan Meurasab is one of Snouck Hurgronje's clearest pieces of evidence for the "Deccan form of Mohammedanism" that, in his view, exercised on the Islam of the Eastern Archipelago "an influence superior in force to that of any other agency." The saint's festival, the choice of days, and the manner of its observance in Acheh all point to Southern India rather than to [[Arabia]] as the immediate source. In this respect the cult of Nagore takes its place alongside the Achehnese names for the months of the Islamic year (such as *Asan-Usen* for Sha'bān) and the Achehnese form of the [[Hasan-Husain festival]], as indexes of an Indian channel of transmission.
+The cult of Tuan Meurasab is one of Snouck Hurgronje's clearest pieces of evidence for the "Deccan form of Mohammedanism" that, in his view, exercised on the Islam of the Eastern Archipelago "an influence superior in force to that of any other agency." The saint's festival, the choice of days, and the manner of its observance in Acheh all point to Southern India rather than to [[Arabia]] as the immediate source. In this respect the cult of Nagore takes its place alongside the Achehnese names for the months of the Islamic year (such as *Asan-Usen* for Sha'bān) and the Achehnese form of the [[Hasan-Husain Festival|Hasan-Husain festival]], as indexes of an Indian channel of transmission.
 
 ## See Also
 
@@ -27,7 +27,7 @@ The cult of Tuan Meurasab is one of Snouck Hurgronje's clearest pieces of eviden
 - [[Teungku Anjong]]
 - [[Gampong Jawa]]
 - [[Kanduri to' thon Tuan Meurasab]]
-- [[Hasan-Husain festival]]
+- [[Hasan-Husain Festival|Hasan-Husain festival]]
 - [[Deccan]]
 
 ## Source

@@ -8,7 +8,7 @@ The **pantang of the albino buffalo in Atjeh** is the food-avoidance prohibition
 ## The six North-Sumatran groups
 [[J. Kreemer|Kreemer]] in [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (pp. 217-218) enumerates the six North-Sumatran population-groups among whom the prohibition is attested:
 
-> *"1° [[Groot-Atjeh|Groot-Atjeh]], waar het verbod geldt voor het ouderwetse geslacht ([[kawōm Dja Sandang|*kawōm*]]) Dja Sandang. Hoewel de *kawōm*-naam reeds lang vergeten is, leeft het *pantang*-voorschrift toch nog onverzwakt voort."* — citing [[Christiaan Snouck Hurgronje|Snouck Hurgronje]], [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] I, p. 54, II, p. 332.
+> *"1° [[Groot-Atjeh|Groot-Atjeh]], waar het verbod geldt voor het ouderwetse geslacht ([[kawōm Dja Sandang|*kawōm*]]) Dja Sandang. Hoewel de *kawōm*-naam reeds lang vergeten is, leeft het *pantang*-voorschrift toch nog onverzwakt voort."* — citing [[C. Snouck Hurgronje|Snouck Hurgronje]], [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] I, p. 54, II, p. 332.
 > *"2° Het [[Gajoland|Gajoland]], waar het verbod bestaat voor de genealogische groepen Gölö en Beroeksah in het gebied van [[Kedjoeroen Boekit|Kedjoeroen Boekit]] en in een deel van het Tjéq-geslacht van [[Petiambang|Petiambang]]."* — citing [[Kreemer's Atjeh ([[1922]]-23)|Kreemer, *Atjeh*]] II, p. 544.
 > *"3° Het [[Alasland|Alasland]], waar hetzelfde geldt voor de *mergō*'s: Tjebero, Terigan, Pinding, Bintjawan en Sinagō."* — citing *idem*.
 > *"4° De W.-kust van Atjeh; hier bestaat het verbod bij de Maleiers algemeen."*
@@ -23,13 +23,13 @@ The first five of these groups fall within the Atjeh cultural sphere proper (wit
 Two variant versions of the legend are noted: in one, the buffalo pushed over the storage with its horns, exposing the corpse; in the other, a turtledove (*tortelduif*) cooed at the scene until the parents came and smelled the corpse — in which case it is turtledove-meat (not albino-buffalo) that is *pantang*, and out of reverence for the faithful dove rather than out of disgust. Kreemer notes that the legend is "nagenoeg dezelfde" (virtually identical) across all six North-Sumatran groups, a fact he had personally verified during his stay in Atjeh; he also notes that a corresponding version of the legend is attested among the Toba-Batak *marga* Nasoetion and even among the Malays of the Malay Peninsula.
 
 ## Snouck Hurgronje on the prohibition's basis
-[[Christiaan Snouck Hurgronje|Snouck Hurgronje]] is quoted in *De Karbouw* (p. 218) cautioning that, although totemists may have their own explanation of such prohibitions, present-day obedience rests not on totemistic conviction but on fear of ancestral wrath:
+[[C. Snouck Hurgronje|Snouck Hurgronje]] is quoted in *De Karbouw* (p. 218) cautioning that, although totemists may have their own explanation of such prohibitions, present-day obedience rests not on totemistic conviction but on fear of ancestral wrath:
 
 > *"'Misschien' — zo merkt Prof. C. Snouck Hurgronje voorzichtig op — 'dat totemisten van dit alles hunne eigene verklaring weten te geven, maar zeker berust thans de gehoorzaamheid aan de verbodsbepalingen alleen op de vrees, dat ziekte, rampen of dood hem zouden treffen, die door overtreding den toorn van zijnen voorvader gaande maakte.'"*
-The quoted passage — cited from [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's Het Gajoland en zijne bewoners ([[1903]])|*Het Gajoland*]] (p. 328) — is significant for the conceptual analysis of the prohibition: the present-day Atjehnese and Gayo obedience is, on Snouck's reading, motivated by fear of ancestral wrath rather than by an explicitly totemistic cosmology, even if the prohibition's origin may lie in pre-Islamic totemistic ideas.
+The quoted passage — cited from [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's Het Gajoland en zijne bewoners ([[1903]])|*Het Gajoland*]] (p. 328) — is significant for the conceptual analysis of the prohibition: the present-day Atjehnese and Gayo obedience is, on Snouck's reading, motivated by fear of ancestral wrath rather than by an explicitly totemistic cosmology, even if the prohibition's origin may lie in pre-Islamic totemistic ideas.
 
 ## Significance
-The pantang of the albino buffalo is significant for the encyclopedia of [[Acheh]] history as the principal Atjeh-specific instance of the wider Sumatran pattern in which buffalo-meat avoidance is legitimated by an ancestral encounter. The prohibition defines a coherent North-Sumatran zone of albino-buffalo avoidance centred on Atjeh; its explanatory legend (the white buffalo licking the corpse-fluid of a fallen child) is documented as virtually identical across the six North-Sumatran groups; and its present-day observance is, on [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s analysis, motivated by fear of ancestral wrath. The prohibition also exemplifies the wider Atjehnese pattern, recorded elsewhere in *De Karbouw*, in which the albino buffalo — categorised in the Atjehs language as [[keubeuë djagat|*keubeuë djagat*]] — is treated as a special, ritually-charged animal.
+The pantang of the albino buffalo is significant for the encyclopedia of [[Acheh]] history as the principal Atjeh-specific instance of the wider Sumatran pattern in which buffalo-meat avoidance is legitimated by an ancestral encounter. The prohibition defines a coherent North-Sumatran zone of albino-buffalo avoidance centred on Atjeh; its explanatory legend (the white buffalo licking the corpse-fluid of a fallen child) is documented as virtually identical across the six North-Sumatran groups; and its present-day observance is, on [[C. Snouck Hurgronje|Snouck Hurgronje]]'s analysis, motivated by fear of ancestral wrath. The prohibition also exemplifies the wider Atjehnese pattern, recorded elsewhere in *De Karbouw*, in which the albino buffalo — categorised in the Atjehs language as [[keubeuë djagat|*keubeuë djagat*]] — is treated as a special, ritually-charged animal.
 
 
 ## Sources
@@ -43,7 +43,7 @@ The pantang of the albino buffalo is significant for the encyclopedia of [[Acheh
 ## See Also
 - [[Alasland]]
 - [[Atjeh's Westkust]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Gajoland]]
 - [[Gedong (Atjeher of Pasei)]]
 - [[Groot-Atjeh]]

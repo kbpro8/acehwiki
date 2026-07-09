@@ -8,7 +8,7 @@ tags: [person, merchant, diplomat, manuscript-collector, dutch, precolonial]
  
 ## Activity in Aceh
  
-According to [[Ph. S. van Ronkel]]'s investigation of the Cambridge manuscripts ([[1896]]), at least three of the four Erpenius Malay manuscripts bear an ownership note indicating they belonged to Floris van Elbingh. Van Ronkel states that the merchant "vertoefd" (stayed/sojourned) in Aceh in [[1604]] and "waarschijnlijk handschriften voor Erpenius heeft verzameld" (probably collected manuscripts for Erpenius). The manuscripts contain predominantly Islamic religious texts: the story of Joseph (Qur'an Sura 12), the death of Hasan and Husayn (a fragment of the *Hikajat Muhammad Hanafiah*), a cosmogony, a commentary on Sura 18 (al-Kahf) with the Seven Sleepers, a tale of a king with five viziers (a *vorstenspiegel* translated from Persian), two Arabic texts with interlinear Malay translation (the *Burda* of [[al-Busiri]] and a fragment of [[al-Ushi]]'s *Bad' al-Amali*), and the Arabic text of Sura 58 (al-Mujadila) with prayers showing Javanese usage notes. Also included were a brief Dutch-Malay wordlist and a Telugu alphabet, reflecting Van Elbingh's broader linguistic interests.
+According to [[Ph. S. van Ronkel]]'s investigation of the Cambridge manuscripts ([[1896]]), at least three of the four Erpenius Malay manuscripts bear an ownership note indicating they belonged to Floris van Elbingh. Van Ronkel states that the merchant "vertoefd" (stayed/sojourned) in Aceh in [[1604]] and "waarschijnlijk handschriften voor Erpenius heeft verzameld" (probably collected manuscripts for Erpenius). The manuscripts contain predominantly Islamic religious texts: the story of Joseph (Qur'an Sura 12), the death of Hasan and Husayn (a fragment of the *Hikajat Muhammad Hanafiah*), a cosmogony, a commentary on Sura 18 (al-Kahf) with the Seven Sleepers, a tale of a king with five viziers (a *vorstenspiegel* translated from Persian), two Arabic texts with interlinear Malay translation (the *Burda* of [[Al-Busiri|al-Busiri]] and a fragment of [[Siraj al-Din Abu Muhammad Ali ibn Uthman al-Ushi|al-Ushi]]'s *Bad' al-Amali*), and the Arabic text of Sura 58 (al-Mujadila) with prayers showing Javanese usage notes. Also included were a brief Dutch-Malay wordlist and a Telugu alphabet, reflecting Van Elbingh's broader linguistic interests.
  
 ## Connection to the Erpenius Collection
  
@@ -25,7 +25,7 @@ Van Elbingh's 1604 sojourn in Aceh provides a firm *terminus ante quem* for the 
 - [[Cambridge University Library]]
 - [[16th-century Malay translation of the Burda]]
 - [[Hikajat Muhammad Hanafiah]]
-- [[al-Ushi]]
+- [[Siraj al-Din Abu Muhammad Ali ibn Uthman al-Ushi|al-Ushi]]
 - [[Bad' al-Amali]]
 - [[Ph. S. van Ronkel]]
 - [[E. G. Browne]]

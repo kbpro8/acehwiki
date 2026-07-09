@@ -4,7 +4,7 @@ aliases: [negorij, negeri, village, home community]
 tags: [concept, term, ambonese, identity]
 ---
 
-**Negorij** — from the Malay *negeri*, "settlement" or "village territory" — was the term for the home village or home community of an Ambonese (or other) soldier of the [[K.N.I.L.]] on [[Ambon]]. In *[[Oom Ambon van het K.N.I.L.]]* the *negorij* is the place to which the Ambonese soldier belonged even when he had not lived there for generations, and the place that took pride in his decorations: "*Ridders [[Militaire Willemsorde (M.W.O.)|M.W.O.]], dragers van de [[Medaille voor Moed en Trouw]] en van het [[Kroontje (Eervolle Vermelding)|Kroontje]] (de Eervolle Vermelding), waren de trots van hun *[[kampong]]* of *negorij*."
+**Negorij** — from the Malay *negeri*, "settlement" or "village territory" — was the term for the home village or home community of an Ambonese (or other) soldier of the [[K.N.I.L.]] on [[Ambon]]. In *[[Oom Ambon van het K.N.I.L.]]* the *negorij* is the place to which the Ambonese soldier belonged even when he had not lived there for generations, and the place that took pride in his decorations: "*Ridders [[Militaire Willemsorde|M.W.O.]], dragers van de [[Medaille voor Moed en Trouw]] en van het [[Kroontje (Eervolle Vermelding)|Kroontje]] (de Eervolle Vermelding), waren de trots van hun *[[kampong]]* of *negorij*."
 
 ## The negorij and the soldier
 
@@ -12,7 +12,7 @@ tags: [concept, term, ambonese, identity]
 
 ## The negorij and the decorations
 
-"*Ridders [[Militaire Willemsorde (M.W.O.)|M.W.O.]], dragers van de [[Medaille voor Moed en Trouw]] en van het [[Kroontje (Eervolle Vermelding)|Kroontje]] (de Eervolle Vermelding), waren de trots van hun *[[kampong]]* of *negorij*." The M.W.O. Ridder was the pride of his *negorij*: the *negorij* tracked his wedervaren through the gehele Archipel, and his decoration was worn at the *[[Koninginnedag]]* rondgang.
+"*Ridders [[Militaire Willemsorde|M.W.O.]], dragers van de [[Medaille voor Moed en Trouw]] en van het [[Kroontje (Eervolle Vermelding)|Kroontje]] (de Eervolle Vermelding), waren de trots van hun *[[kampong]]* of *negorij*." The M.W.O. Ridder was the pride of his *negorij*: the *negorij* tracked his wedervaren through the gehele Archipel, and his decoration was worn at the *[[Koninginnedag]]* rondgang.
 
 ## The negorij and the verlofganger
 
@@ -31,7 +31,7 @@ The *negorij* is significant in *[[Oom Ambon van het K.N.I.L.]]* as the home com
 - [[Oom Ambon]]
 - [[Kampong / kamponggemeenschap]]
 - [[Tangsi]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Medaille voor Moed en Trouw]]
 - [[Kroontje (Eervolle Vermelding)]]
 - [[Koninginnedag]]

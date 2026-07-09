@@ -3,15 +3,15 @@ title: Captain De Gelder
 aliases: [De Gelder, Captain De Gelder]
 tags: [person, military, dutch, colonial]
 ---
-**Captain De Gelder** was a Dutch marine officer who, together with [[Lieutenant Verhey]], [[Lieutenant Mirandolle]], [[Lieutenant Cambier]] and [[Lieutenant De Petit]], led a detachment of roughly seventy marines during the Aceh campaign of [[1875]]–[[1876]]. He inspected the troops before their departure from Aceh on [[5 February]] [[1876]].
+**Captain De Gelder** was a Dutch marine officer who, together with [[J. B. Verhey|Lieutenant Verhey]], [[Mirandolle|Lieutenant Mirandolle]], [[Lieutenant Cambier]] and [[Lieutenant De Petit]], led a detachment of roughly seventy marines during the Aceh campaign of [[1875]]–[[1876]]. He inspected the troops before their departure from Aceh on [[5 February]] [[1876]].
 
 ### Role in the Expedition
 De Gelder’s detachment participated in actions at [[Pakan Badak]], the mountain passes of [[Glitaroem]] and [[Beradin]], and the construction of a benteng at [[Bockit Daroe]].
 
 ## See Also
-- [[Lieutenant Verhey]]
-- [[Lieutenant Mirandolle]]
-- [[Korps Mariniers]]
+- [[J. B. Verhey|Lieutenant Verhey]]
+- [[Mirandolle|Lieutenant Mirandolle]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[Bockit Daroe]]
 
 ## Source

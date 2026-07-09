@@ -34,7 +34,7 @@ The uleebalangs were theoretically subordinate to the [[Aceh Sultanate|Sultan]] 
 
 ## Account from *De Buitenbezittingen* (1917) — Oelèëbalang
 
-**The oelèëbalang** was the territorial chief of [[Groot-Atjeh|Groot-Atjeh]] and the surrounding Atjehsche lands — "de heeren des lands, de territoriale hoofden bij uitnemendheid" — whom books and speech alike called the *radja*'s of their districts. *De Buitenbezittingen*, following Prof. Dr. [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] (*De Atjehers*, Vol. I, p. 91 e.v.), describes the oelèëbalangs as lords whose authority was "ouder dan dat der Sultans" — older than that of the Sultans themselves — and therefore not in fact derived from any royal appointment. After [[1874|1874]] they were the chiefs with whom the Dutch concluded the [[Korte Verklaring|Korte Verklaring]], recognising each as *zelfbestuurder* of his own *landschap*.
+**The oelèëbalang** was the territorial chief of [[Groot-Atjeh|Groot-Atjeh]] and the surrounding Atjehsche lands — "de heeren des lands, de territoriale hoofden bij uitnemendheid" — whom books and speech alike called the *radja*'s of their districts. *De Buitenbezittingen*, following Prof. Dr. [[C. Snouck Hurgronje|Snouck Hurgronje]] (*De Atjehers*, Vol. I, p. 91 e.v.), describes the oelèëbalangs as lords whose authority was "ouder dan dat der Sultans" — older than that of the Sultans themselves — and therefore not in fact derived from any royal appointment. After [[1874|1874]] they were the chiefs with whom the Dutch concluded the [[Korte Verklaring|Korte Verklaring]], recognising each as *zelfbestuurder* of his own *landschap*.
 
 ## Title and territory
 
@@ -46,7 +46,7 @@ Although their authority did not derive from royal appointment, the oelèëbalan
 
 ## Federation in the Sagi
 
-In [[Groot-Atjeh|Groot-Atjeh]] the oelèëbalangschappen were grouped, again in immemorial fashion, into the three federations called the [[Sagi|sagi]]'s — the XXII, XXVI, and XXV Moekims — each with its *Panglima sagi* chosen from among the constituent chiefs. [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s explanation, quoted in the handbook, is that "evenals nu de gampongs, die op zichzelf staande aan de genade en ongenade van elken geweldenaar overgeleverd zouden zijn, hare kracht vonden in de vereeniging onder eenen oeleëbalang, zoo moesten wel de oelèëbalangs in hun onderlingen strijd het nut van een offensief en defensief verbond gaan inzien." Through this defensive logic the oelèëbalangs of Atjeh maintained, for centuries, a stable balance against one another and against the Sultan.
+In [[Groot-Atjeh|Groot-Atjeh]] the oelèëbalangschappen were grouped, again in immemorial fashion, into the three federations called the [[Sagi|sagi]]'s — the XXII, XXVI, and XXV Moekims — each with its *Panglima sagi* chosen from among the constituent chiefs. [[C. Snouck Hurgronje|Snouck Hurgronje]]'s explanation, quoted in the handbook, is that "evenals nu de gampongs, die op zichzelf staande aan de genade en ongenade van elken geweldenaar overgeleverd zouden zijn, hare kracht vonden in de vereeniging onder eenen oeleëbalang, zoo moesten wel de oelèëbalangs in hun onderlingen strijd het nut van een offensief en defensief verbond gaan inzien." Through this defensive logic the oelèëbalangs of Atjeh maintained, for centuries, a stable balance against one another and against the Sultan.
 
 
 ## See Also
@@ -67,7 +67,7 @@ In [[Groot-Atjeh|Groot-Atjeh]] the oelèëbalangschappen were grouped, again in 
 - [[Korte Verklaring]]
 - [[Sarakata]]
 - [[Sultans of Atjeh]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Groot-Atjeh]]
 - [[Oelèëbalang tjoet]]
 

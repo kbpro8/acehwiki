@@ -15,7 +15,7 @@ A second and more generally current legend, which [[C. Snouck Hurgronje|Snouck H
 
 ## The Kali Malikon Ade and the installation of sultans
 
-Later on, the ruler of Acheh who reformed or endeavoured to reform the administration of justice chose his court judge from the tribe of Ja Sandang, which had meantime greatly increased in dignity. This official received the title of [[Kali Malikul-adil]] (Malikon Ade), and the judicial office, or at least the title appertaining to it, remained hereditary in his family. The later bearers of this title gradually acquired the positions of masters of ceremonies at the Court. Those who have seen them in the exercise of their functions at the installation of a new Sultan can testify that on such occasions the Teuku Kali wore a white cocoanut spathe under his head-cloth, and a blunderbuss attached to a leathern belt passing over his shoulder. The reason given for adhering to this adat is that the titular "judge" appeared also in the character of the representative of his tribe the Ja Sandang. As, however, customs change with lapse of time, the later Sultans permitted the holders of this office to exchange the bamboo vessel for a blunderbuss and to hide the cocoanut spathe to some extent beneath their head-cloth.
+Later on, the ruler of Acheh who reformed or endeavoured to reform the administration of justice chose his court judge from the tribe of Ja Sandang, which had meantime greatly increased in dignity. This official received the title of [[Teuku Kali Malikon Ade|Kali Malikul-adil]] (Malikon Ade), and the judicial office, or at least the title appertaining to it, remained hereditary in his family. The later bearers of this title gradually acquired the positions of masters of ceremonies at the Court. Those who have seen them in the exercise of their functions at the installation of a new Sultan can testify that on such occasions the Teuku Kali wore a white cocoanut spathe under his head-cloth, and a blunderbuss attached to a leathern belt passing over his shoulder. The reason given for adhering to this adat is that the titular "judge" appeared also in the character of the representative of his tribe the Ja Sandang. As, however, customs change with lapse of time, the later Sultans permitted the holders of this office to exchange the bamboo vessel for a blunderbuss and to hide the cocoanut spathe to some extent beneath their head-cloth.
 
 ## Tabus and the popular doggerel
 
@@ -26,7 +26,7 @@ The Suke'e Ja Sandang is one of the three allied tribes satirised in the popular
 ## See Also
 
 - [[Teuku Kali Malikon Ade]]
-- [[Kali Malikul-adil]]
+- [[Teuku Kali Malikon Ade|Kali Malikul-adil]]
 - [[Teuku Sandang]]
 - [[Installation of a new Sultan]]
 - [[Imeum Peuet]]
@@ -48,7 +48,7 @@ A second and more generally current legend, which [[C. Snouck Hurgronje|Snouck H
 
 ## The Kali Malikon Ade and the installation of sultans
 
-Later on, the ruler of Acheh who reformed or endeavoured to reform the administration of justice chose his court judge from the tribe of Ja Sandang, which had meantime greatly increased in dignity. This official received the title of [[Kali Malikul-adil]] (Malikon Ade), and the judicial office, or at least the title appertaining to it, remained hereditary in his family. The later bearers of this title gradually acquired the positions of masters of ceremonies at the Court. Those who have seen them in the exercise of their functions at the installation of a new Sultan can testify that on such occasions the Teuku Kali wore a white cocoanut spathe under his head-cloth, and a blunderbuss attached to a leathern belt passing over his shoulder. The reason given for adhering to this adat is that the titular "judge" appeared also in the character of the representative of his tribe the Ja Sandang. As, however, customs change with lapse of time, the later Sultans permitted the holders of this office to exchange the bamboo vessel for a blunderbuss and to hide the cocoanut spathe to some extent beneath their head-cloth.
+Later on, the ruler of Acheh who reformed or endeavoured to reform the administration of justice chose his court judge from the tribe of Ja Sandang, which had meantime greatly increased in dignity. This official received the title of [[Teuku Kali Malikon Ade|Kali Malikul-adil]] (Malikon Ade), and the judicial office, or at least the title appertaining to it, remained hereditary in his family. The later bearers of this title gradually acquired the positions of masters of ceremonies at the Court. Those who have seen them in the exercise of their functions at the installation of a new Sultan can testify that on such occasions the Teuku Kali wore a white cocoanut spathe under his head-cloth, and a blunderbuss attached to a leathern belt passing over his shoulder. The reason given for adhering to this adat is that the titular "judge" appeared also in the character of the representative of his tribe the Ja Sandang. As, however, customs change with lapse of time, the later Sultans permitted the holders of this office to exchange the bamboo vessel for a blunderbuss and to hide the cocoanut spathe to some extent beneath their head-cloth.
 
 ## Tabus and the popular doggerel
 
@@ -59,7 +59,7 @@ The Suke'e Ja Sandang is one of the three allied tribes satirised in the popular
 ## See Also
 
 - [[Teuku Kali Malikon Ade]]
-- [[Kali Malikul-adil]]
+- [[Teuku Kali Malikon Ade|Kali Malikul-adil]]
 - [[Teuku Sandang]]
 - [[Installation of a new Sultan]]
 - [[Imeum Peuet]]

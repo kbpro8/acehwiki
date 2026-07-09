@@ -42,7 +42,7 @@ In the war months Bireuën became the funnel of retreat. The third major evacuat
 
 Bireuën is a town in [[Atjeh|Aceh]] at the head of the [[Gajoweg]] — the southern terminus of the military road that runs 103 km south to [[Takengeun]] on Laut Tawar (Lake Tawar) in the [[Gajolanden|Gajolanden]] (Gayo Lands). In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Bireuën is the place where the [[Gajoweg]] begins — at the bronze bust of [Heinzenknecht](/people/heinzenknecht) on the yard of the controller — and the place from which the lieutenant's journey through Aceh departs.
 
-The Gajoweg begins at the bronze bust of [Heinzenknecht](/people/heinzenknecht) on the yard of the controller at Bireuën. The bust is the book's — and the Gajoweg's — marker of the cost of the road's construction: [Heinzenknecht](/people/heinzenknecht), the brave Bavarian who laid the road under [[Gouverneur-Generaal Van Heutsz|Van Heutsz]], was basely murdered by a convict labourer during that work. The bronze bust at Bireuën is therefore both the beginning of the Gajoweg and a memorial to its builder.
+The Gajoweg begins at the bronze bust of [Heinzenknecht](/people/heinzenknecht) on the yard of the controller at Bireuën. The bust is the book's — and the Gajoweg's — marker of the cost of the road's construction: [Heinzenknecht](/people/heinzenknecht), the brave Bavarian who laid the road under [[Joannes Benedictus van Heutsz|Van Heutsz]], was basely murdered by a convict labourer during that work. The bronze bust at Bireuën is therefore both the beginning of the Gajoweg and a memorial to its builder.
 
 The bronze bust stands on the yard of the controller at Bireuën — the yard of the Dutch civil administrator at Bireuën. The controller's yard is the book's marker of the colonial administrative presence at Bireuën: the town was a controller's post, the lowest level of the Dutch civil administration in the Outer Territories. The bronze bust of [Heinzenknecht](/people/heinzenknecht) on the controller's yard is therefore the book's marker of the colonial administration's presence at the head of the Gajoweg.
 
@@ -71,7 +71,7 @@ Bireuën is the departure point of the lieutenant's journey through Aceh — the
 - [[Teungkoe Moehamad Daoed Beureu-éh]]
 - [[Teungkoe Isma'el Jacoeb]]
 - [[Poesa]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[1903]]
 - [[1939]]
 - [[1942]]

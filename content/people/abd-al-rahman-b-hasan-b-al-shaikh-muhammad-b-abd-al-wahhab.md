@@ -3,7 +3,7 @@ title: Abd al‑Rahmān b. Hasan b. al‑Shaikh Muhammad b. Abd al‑Wahhāb
 aliases: [Abd al‑Rahmān ibn Hasan ibn al‑Shaikh Muhammad ibn Abd al‑Wahhāb]
 tags: [person, scholar, anti-wahhabi]
 ---
-**Abd al‑Rahmān b. Hasan b. al‑Shaikh Muhammad b. Abd al‑Wahhāb** was a noted anti‑Wahhabi critic who died in [[1882]] in [[Baghdad]] (see [[PAGE 35]]). His lineage traces back to the founder of Wahhabism, [[‘Abd al‑Wahhāb]], yet he opposed the Wahhabi interpretation of the [[Burda]].
+**Abd al‑Rahmān b. Hasan b. al‑Shaikh Muhammad b. Abd al‑Wahhāb** was a noted anti‑Wahhabi critic who died in [[1882]] in [[Baghdad]] (see [[PAGE 35]]). His lineage traces back to the founder of Wahhabism, [[‘Abd al‑Wahhāb]], yet he opposed the Wahhabi interpretation of the [[Burda (poem)|Burda]].
 
 ## Life and Death
 The source records his death in [[1882]] in [[Baghdad]], confirming his activity in the late 19th century. His criticism of the Burda is cited alongside that of Dā'ūd b. Sulaimān al‑Baghdadi.
@@ -15,7 +15,7 @@ He argued that the Burda represented “*goote shirk*” (unmistakable idolatry)
 - [[Dā'ūd b. Sulaimān al‑Baghdadi]]
 - [[Abd al‑Rahmān b. ‘Abd al‑Rahmān]]
 - [[Wahhabism]]
-- [[Burda]]
+- [[Burda (poem)|Burda]]
 - [[Malay translation of the Burda]]
 - [[Henri Laoust]]
 - [[1882]]

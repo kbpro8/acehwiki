@@ -4,7 +4,7 @@ aliases: [Van der Kemp's 1900 article, Bijdragen 1900 publication, publication i
 tags: [event, publication, colonial, scholarship]
 ---
 
-The **publication of [[P. H. van der Kemp|Van der Kemp]]'s article** *Raffles' Atjeh-overeenkomst van 1819* in the *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII ([[1900]]), pp. 159–239, is the event by which the documentary reconstruction of the [[Acheh treaty of 1819|Acheh treaty of 1819]] and the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London (1824)]] was placed before the Dutch reading public. The article is signed and dated "Den Haag, Februari 1900" — The Hague, February [[1900]] — at the close of the concluding paragraph.
+The **publication of [[P. H. van der Kemp|Van der Kemp]]'s article** *Raffles' Atjeh-overeenkomst van 1819* in the *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII ([[1900]]), pp. 159–239, is the event by which the documentary reconstruction of the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]] and the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1824]] was placed before the Dutch reading public. The article is signed and dated "Den Haag, Februari 1900" — The Hague, February [[1900]] — at the close of the concluding paragraph.
 
 ## Date and Place
 
@@ -12,7 +12,7 @@ The closing words of the article read: "Den Haag, Februari 1900." The article th
 
 ## Scope
 
-The article, which occupies pp. 159–239 of the *Bijdragen*, is divided into an introduction and six numbered sections, followed by twelve appendices of primary-source material. The sections trace the relations of the European powers with [[Acheh|Acheh]] from the eighteenth century through the [[Raffles-Coombs Acheh commission|Raffles-Coombs commission]] of [[1819]], the [[Anglo-Dutch Treaty of London (1824)|Treaty of London]] of [[1824]], the [[Article 6 controversy|Article 6 controversy]], the [[Paper war|paper war]] of the 1820s–1860s, the [[Sumatra Treaty of 1871|Sumatra Treaty of 1871]], and the [[Acheh War|Acheh expedition]] of [[1873]]. The appendices print, in extenso, the principal documents on which the argument rests: the [[Acheh treaty of 1819|treaty of 1819]] itself, the correspondence between the Dutch and British plenipotentiaries at London, the [[Fullerton's minute on Acheh|Fullerton minute]] of [[21 March 1825|21 March 1825]] and the [[Fullerton's circular to nine Siak chiefs|circular to nine Siak chiefs]] of [[21 May 1828|21 May 1828]], and the [[Faure's letter on Transvaal suzerainty|Faure letter]] on the Transvaal suzerainty question of [[28 May 1899|28 May 1899]].
+The article, which occupies pp. 159–239 of the *Bijdragen*, is divided into an introduction and six numbered sections, followed by twelve appendices of primary-source material. The sections trace the relations of the European powers with [[Acheh|Acheh]] from the eighteenth century through the [[Raffles-Coombs Acheh commission|Raffles-Coombs commission]] of [[1819]], the [[Anglo-Dutch Treaty of 1824|Treaty of London]] of [[1824]], the [[Article 6 controversy|Article 6 controversy]], the [[Paper war|paper war]] of the 1820s–1860s, the [[Sumatra Treaty of 1871|Sumatra Treaty of 1871]], and the [[Acheh War|Acheh expedition]] of [[1873]]. The appendices print, in extenso, the principal documents on which the argument rests: the [[Treaty of Pedir (1819)|treaty of 1819]] itself, the correspondence between the Dutch and British plenipotentiaries at London, the [[Fullerton's minute on Acheh|Fullerton minute]] of [[21 March 1825|21 March 1825]] and the [[Fullerton's circular to nine Siak chiefs|circular to nine Siak chiefs]] of [[21 May 1828|21 May 1828]], and the [[Faure's letter on Transvaal suzerainty|Faure letter]] on the Transvaal suzerainty question of [[28 May 1899|28 May 1899]].
 
 ## Significance
 
@@ -21,8 +21,8 @@ The publication is significant not only as a contribution to the historiography 
 ## See Also
 
 - [[P. H. van der Kemp]]
-- [[Acheh treaty of 1819]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Article 6 controversy]]
 - [[Jameson's raid comparison]]
 - [[Raffles' raid on Palembang (1819)]]

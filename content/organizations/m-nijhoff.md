@@ -4,7 +4,7 @@ aliases: [Martinus Nijhoff, Nijhoff, M. Nijhoff 's-Gravenhage, Martinus Nijhoff 
 tags: [organization, publisher, dutch, colonial, hague, publishing, 1940, koninklijk-instituut]
 ---
 
-**M. Nijhoff** — Martinus Nijhoff — was the Dutch publishing house of [['s-Gravenhage|'s-Gravenhage]] (The Hague) that served as the publisher of the [[Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië|Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]], and thus as the publisher of the *[[Bijdragen tot de Taal, Land en Volkenkunde van Nederlandsch Indie|Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]* (the *B.K.I.*), of the annual *Literatuur-Overzicht*, and of the separate offprints of vernacular-text editions issued from the *B.K.I.* — including the [[H. T. Damsté|Damsté]] edition of the [[Hikajat Eitia Toedjoh|Hikajat Eitia Toedjoh]] ([[1939]]) and the [[Luc. van der Linden|van der Linden]] commemoration of the [[Bij het derde eeuwfeest van de martelaren van Atjeh (1138-1938)|third centenary of the Atjeh martyrs]]. As the Institute's publisher, Nijhoff was the principal Dutch metropolitan venue for the publication of Atjehsch and other vernacular text editions, and for the bibliographic record of the [[1939]] Atjeh scholarship.
+**M. Nijhoff** — Martinus Nijhoff — was the Dutch publishing house of [['s-Gravenhage|'s-Gravenhage]] (The Hague) that served as the publisher of the [[Koninklijke Vereeniging Koloniaal Instituut|Koninklijke Vereeniging Koloniaal Instituut]], and thus as the publisher of the *[[Bijdragen tot de Taal, Land en Volkenkunde van Nederlandsch Indie|Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]* (the *B.K.I.*), of the annual *Literatuur-Overzicht*, and of the separate offprints of vernacular-text editions issued from the *B.K.I.* — including the [[H. T. Damsté|Damsté]] edition of the [[Hikajat Eitia Toedjoh|Hikajat Eitia Toedjoh]] ([[1939]]) and the [[Luc. van der Linden|van der Linden]] commemoration of the [[Bij het derde eeuwfeest van de martelaren van Atjeh (1138-1938)|third centenary of the Atjeh martyrs]]. As the Institute's publisher, Nijhoff was the principal Dutch metropolitan venue for the publication of Atjehsch and other vernacular text editions, and for the bibliographic record of the [[1939]] Atjeh scholarship.
 
 ## Role as publisher of the Koninklijk Instituut
 
@@ -26,13 +26,13 @@ For AcehWiki, M. Nijhoff is significant as the publisher of the Koninklijk Insti
 
 ## See Also
 
-- [[Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]
+- [[Koninklijke Vereeniging Koloniaal Instituut|Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]
 - [[Literatuur-Overzicht over het jaar 1939 (Van Meurs, 1940)]]
 - [[H. van Meurs]]
 - [[Bijdragen tot de Taal, Land en Volkenkunde van Nederlandsch Indie]]
 - [[Hikajat Eitia Toedjoh]]
 - [[De legende van de heilige zeven slapers in het Atjehsch (Damsté, 1939)]]
-- [[h-t-damste]]
+- [[H. T. Damsté|h-t-damste]]
 - [['s-Gravenhage]]
 - [[1939]]
 - [[1940]]

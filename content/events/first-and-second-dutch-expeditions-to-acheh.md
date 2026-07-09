@@ -20,7 +20,7 @@ The expeditions left their mark on the Achehnese vocabulary itself. The Achehnes
 
 ## Significance
 
-The first and second expeditions thus inaugurated not merely a military campaign but a lasting estrangement of the two communities, which no subsequent policy of concentration or of gradual subjugation could overcome. Their failure to bring the sultanate to terms set the pattern for the long series of fruitless enterprises that followed — the [[Establishment of the Dutch 'linie' (pale)|line of fortresses]] of [[1884]]–[[1896]], the abortive civil government of [[1881]]–[[1884]], and the slow, methodical conquest under [[Governor Van Heutsz|Governor Van Heutsz]] from [[1898]] onwards.
+The first and second expeditions thus inaugurated not merely a military campaign but a lasting estrangement of the two communities, which no subsequent policy of concentration or of gradual subjugation could overcome. Their failure to bring the sultanate to terms set the pattern for the long series of fruitless enterprises that followed — the [[Establishment of the Dutch 'linie' (pale)|line of fortresses]] of [[1884]]–[[1896]], the abortive civil government of [[1881]]–[[1884]], and the slow, methodical conquest under [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] from [[1898]] onwards.
 
 ## See Also
 

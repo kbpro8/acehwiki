@@ -4,7 +4,7 @@ aliases: [Kuala Simpang, Koela Simpang, Koeala-Simpang, Kuala Simpang (Atjeh), t
 tags: [place, town, colonial, dutch, aceh, buitenbezittingen, tramway, tamiang]
 ---
 
-**Koeala Simpang** (modern **Kuala Simpang**) was a town in the [[Atjeh's Onderhoorigheden|Atjeh Dependencies]] that served as the eastern terminus of the [[Atjeh-tram|Atjeh-tramway]]'s second line from its [[1910]]–[[1912]] extension onward, and as the originating point of the [[1913]]-approved extension through [[Tamiang]] to [[Besitang]]. In the Encyclopaedisch Bureau's account, Koeala Simpang also marks the geographic transition from the second tramway's original [[Sigli]]–[[Langsa]] axis to the projected southern extension toward [[Aroebai|Arube Bay]] and the [[Deli-Spoorweg-Maatschappij|Deli railway]] network of [[Oostkust van Sumatra|Sumatra's East Coast]].
+**Koeala Simpang** (modern **Kuala Simpang**) was a town in the [[Atjeh's Onderhoorigheden|Atjeh Dependencies]] that served as the eastern terminus of the [[Atjeh-tram|Atjeh-tramway]]'s second line from its [[1910]]–[[1912]] extension onward, and as the originating point of the [[1913]]-approved extension through [[Tamiang]] to [[Besitang]]. In the Encyclopaedisch Bureau's account, Koeala Simpang also marks the geographic transition from the second tramway's original [[Sigli]]–[[Langsa]] axis to the projected southern extension toward [[Aroebai|Arube Bay]] and the [[Deli Spoorweg Maatschappij|Deli railway]] network of [[Oostkust van Sumatra|Sumatra's East Coast]].
 
 ## Account from *De Buitenbezittingen* (1917) — Koeala Simpang
 

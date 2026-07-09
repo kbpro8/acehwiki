@@ -9,7 +9,7 @@ Sultan of Acheh, reigned from [[1637]], who in March [[1638]] gave the pandit Ra
 
 ## Expanded account from *The Achehnese*, Vol. I — Iskandar Thani
 
-**Iskandar Thani** was King of [[Acheh]] from [[1637]], succeeding [[Sultan Meukuta Alam|Meukuta Alam]] (Iskandar Muda) on the latter's death in [[1636]]. His accession is fixed in the chronology of Achehnese letters by the testimony of the [[Pandit Raniri]], the well-known Achehnese *ulama* and author, who relates in his treatise *Ṣirāṭ al-mustaqīm* (printed at [[Mecca]] in 1316 Heg., on the margin of the edition of Fath al-muʿīn) that he came to Acheh in [[1637]] while Iskandar Thani was king.
+**Iskandar Thani** was King of [[Acheh]] from [[1637]], succeeding [[Sultan Meukuta Alam|Meukuta Alam]] (Iskandar Muda) on the latter's death in [[1636]]. His accession is fixed in the chronology of Achehnese letters by the testimony of the [[Nur al-Din al-Raniri|Pandit Raniri]], the well-known Achehnese *ulama* and author, who relates in his treatise *Ṣirāṭ al-mustaqīm* (printed at [[Mecca]] in 1316 Heg., on the margin of the edition of Fath al-muʿīn) that he came to Acheh in [[1637]] while Iskandar Thani was king.
 
 This date is of cardinal importance for the chronology of Achehnese history, since it confirms [[1636]] as the correct date of the death of [[Sultan Meukuta Alam|Meukuta Alam]] (Iskandar Muda), the greatest of the sultans of Acheh. The transmitted Achehnese chronicles had left the date of Meukuta Alam's death in some uncertainty; Raniri's statement, preserved in a work printed at Mecca and therefore free from the local Achehnese tendency to idealise or rearrange the past, settles the question. Iskandar Thani's accession thus marks the beginning of the period of decline that followed the golden age of Meukuta Alam.
 
@@ -21,8 +21,8 @@ The reign of Iskandar Thani thus stands at a double turning-point in Achehnese h
 - [[Acheh]]
 - [[Alauddin al-Qahar]]
 - [[Mecca]]
-- [[Pandit Raniri]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Pandit Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Sultan Iskandar Muda]]
 - [[Sultan Meukuta Alam]]
 
@@ -37,7 +37,7 @@ Sultan of Acheh, reigned from [[1637]], who in March [[1638]] gave the pandit Ra
 
 ## Expanded account from *The Achehnese*, Vol. I — Iskandar Thani
 
-**Iskandar Thani** was King of [[Acheh]] from [[1637]], succeeding [[Sultan Meukuta Alam|Meukuta Alam]] (Iskandar Muda) on the latter's death in [[1636]]. His accession is fixed in the chronology of Achehnese letters by the testimony of the [[Pandit Raniri]], the well-known Achehnese *ulama* and author, who relates in his treatise *Ṣirāṭ al-mustaqīm* (printed at [[Mecca]] in 1316 Heg., on the margin of the edition of Fath al-muʿīn) that he came to Acheh in [[1637]] while Iskandar Thani was king.
+**Iskandar Thani** was King of [[Acheh]] from [[1637]], succeeding [[Sultan Meukuta Alam|Meukuta Alam]] (Iskandar Muda) on the latter's death in [[1636]]. His accession is fixed in the chronology of Achehnese letters by the testimony of the [[Nur al-Din al-Raniri|Pandit Raniri]], the well-known Achehnese *ulama* and author, who relates in his treatise *Ṣirāṭ al-mustaqīm* (printed at [[Mecca]] in 1316 Heg., on the margin of the edition of Fath al-muʿīn) that he came to Acheh in [[1637]] while Iskandar Thani was king.
 
 This date is of cardinal importance for the chronology of Achehnese history, since it confirms [[1636]] as the correct date of the death of [[Sultan Meukuta Alam|Meukuta Alam]] (Iskandar Muda), the greatest of the sultans of Acheh. The transmitted Achehnese chronicles had left the date of Meukuta Alam's death in some uncertainty; Raniri's statement, preserved in a work printed at Mecca and therefore free from the local Achehnese tendency to idealise or rearrange the past, settles the question. Iskandar Thani's accession thus marks the beginning of the period of decline that followed the golden age of Meukuta Alam.
 
@@ -49,8 +49,8 @@ The reign of Iskandar Thani thus stands at a double turning-point in Achehnese h
 - [[Acheh]]
 - [[Alauddin al-Qahar]]
 - [[Mecca]]
-- [[Pandit Raniri]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Pandit Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Sultan Iskandar Muda]]
 - [[Sultan Meukuta Alam]]
 

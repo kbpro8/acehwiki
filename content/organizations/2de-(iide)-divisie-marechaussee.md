@@ -39,7 +39,7 @@ The IIde Divisie is, in the staff history's Atjeh chapter, the principal Dutch f
 
 - [[Nederlands-Indië contra Japan]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
-- [[1ste Divisie Marechaussee]]
+- [[1e Divisie Marechaussee uit Blang Kedjeren|1ste Divisie Marechaussee]]
 - [[3de (IIIde) Divisie Marechaussee]]
 - [[4de (IVde) Divisie Marechaussee]]
 - [[5de (Vde) Divisie Marechaussee]]
@@ -95,7 +95,7 @@ The IIde Divisie is, in the staff history's Atjeh chapter, the principal Dutch f
 
 - [[Nederlands-Indië contra Japan]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
-- [[1ste Divisie Marechaussee]]
+- [[1e Divisie Marechaussee uit Blang Kedjeren|1ste Divisie Marechaussee]]
 - [[3de (IIIde) Divisie Marechaussee]]
 - [[4de (IVde) Divisie Marechaussee]]
 - [[5de (Vde) Divisie Marechaussee]]

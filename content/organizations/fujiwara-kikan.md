@@ -4,7 +4,7 @@ title: Fujiwara-kikan
 aliases: [Fujiwara kikan, F-organisatie, F-organization, F-movement, fifth column organization]
 tags: [organization, japanese, intelligence, military]
 ---
-**Fujiwara-kikan** — literally "the Fujiwara organisation," deriving its name from its founder [[Fujiwara|Major Fujiwara]] — was the Japanese intelligence organisation, also known as the [[F-organisatie|F-organisatie]] or F-movement, that supported anti-Dutch elements in [[Atjèh|Atjèh]] in the months before the [[Japanese invasion of Atjèh|Japanese invasion of Atjèh]] and that, in Piekaar's analysis, gave the insurgent movement of [[1942]] "its dangerous character" by uniting the [[Poesa|Poesa]], the sultan's party, and dissident *oelèëbalang* elements in a single fifth-column apparatus activated on the day of the landings. The kikan was formed from Indonesians living in [[Malaya|Malaya]] after the [[fall of Penang|fall of Penang]] on [[19 December]] [[1941]], and was succeeded — but never entirely replaced — by the [[Masubuchi-kikan|Masubuchi-kikan]] after the establishment of the Japanese military administration.
+**Fujiwara-kikan** — literally "the Fujiwara organisation," deriving its name from its founder [[Fujiwara Iwaichi|Major Fujiwara]] — was the Japanese intelligence organisation, also known as the [[F-organisatie|F-organisatie]] or F-movement, that supported anti-Dutch elements in [[Atjèh|Atjèh]] in the months before the [[Japanese invasion of Atjèh|Japanese invasion of Atjèh]] and that, in Piekaar's analysis, gave the insurgent movement of [[1942]] "its dangerous character" by uniting the [[Poesa|Poesa]], the sultan's party, and dissident *oelèëbalang* elements in a single fifth-column apparatus activated on the day of the landings. The kikan was formed from Indonesians living in [[Malaya|Malaya]] after the [[fall of Penang|fall of Penang]] on [[19 December]] [[1941]], and was succeeded — but never entirely replaced — by the [[Masubuchi-kikan|Masubuchi-kikan]] after the establishment of the Japanese military administration.
 
 ## Foundation on the ruins of Penang
 
@@ -24,7 +24,7 @@ When, after the invasion, the [[Masubuchi-kikan|Masubuchi-kikan]] emerged as the
 
 ## See Also
 
-- [[Fujiwara]]
+- [[Fujiwara Iwaichi|Fujiwara]]
 - [[Masubuchi]]
 - [[Masubuchi-kikan]]
 - [[F-organisatie]]
@@ -41,7 +41,7 @@ When, after the invasion, the [[Masubuchi-kikan|Masubuchi-kikan]] emerged as the
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Glossary and Chapter VI, Chapter VII §§ 1–4.
 ---
 
-**Fujiwara-kikan** — literally "the Fujiwara organisation," deriving its name from its founder [[Fujiwara|Major Fujiwara]] — was the Japanese intelligence organisation, also known as the [[F-organisatie|F-organisatie]] or F-movement, that supported anti-Dutch elements in [[Atjèh|Atjèh]] in the months before the [[Japanese invasion of Atjèh|Japanese invasion of Atjèh]] and that, in Piekaar's analysis, gave the insurgent movement of [[1942]] "its dangerous character" by uniting the [[Poesa|Poesa]], the sultan's party, and dissident *oelèëbalang* elements in a single fifth-column apparatus activated on the day of the landings. The kikan was formed from Indonesians living in [[Malaya|Malaya]] after the [[fall of Penang|fall of Penang]] on [[19 December]] [[1941]], and was succeeded — but never entirely replaced — by the [[Masubuchi-kikan|Masubuchi-kikan]] after the establishment of the Japanese military administration.
+**Fujiwara-kikan** — literally "the Fujiwara organisation," deriving its name from its founder [[Fujiwara Iwaichi|Major Fujiwara]] — was the Japanese intelligence organisation, also known as the [[F-organisatie|F-organisatie]] or F-movement, that supported anti-Dutch elements in [[Atjèh|Atjèh]] in the months before the [[Japanese invasion of Atjèh|Japanese invasion of Atjèh]] and that, in Piekaar's analysis, gave the insurgent movement of [[1942]] "its dangerous character" by uniting the [[Poesa|Poesa]], the sultan's party, and dissident *oelèëbalang* elements in a single fifth-column apparatus activated on the day of the landings. The kikan was formed from Indonesians living in [[Malaya|Malaya]] after the [[fall of Penang|fall of Penang]] on [[19 December]] [[1941]], and was succeeded — but never entirely replaced — by the [[Masubuchi-kikan|Masubuchi-kikan]] after the establishment of the Japanese military administration.
 
 ## Foundation on the ruins of Penang
 
@@ -61,7 +61,7 @@ When, after the invasion, the [[Masubuchi-kikan|Masubuchi-kikan]] emerged as the
 
 ## See Also
 
-- [[Fujiwara]]
+- [[Fujiwara Iwaichi|Fujiwara]]
 - [[Masubuchi]]
 - [[Masubuchi-kikan]]
 - [[F-organisatie]]

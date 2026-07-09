@@ -13,7 +13,7 @@ His name appears in the list of officers who distinguished themselves during the
 
 - [[Tanette]]
 - [[Soepa]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[1824]]
 
 ## Source

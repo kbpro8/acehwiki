@@ -5,7 +5,7 @@ aliases: [Teungku Harõn, Teungku Harun, Tgk. Haron, Tgk. Harun, the Achehnese a
 tags: [person, scholar, acehnese-scholar, religious-figure, islamic-scholarship, 20th-century, aceh, atjehnese-language]
 ---
 
-**Teungku Haron** — in [[P. Voorhoeve|Voorhoeve]]'s text **Teungku Harõn** — was an Achehnese religious scholar who, about [[1929]], composed an Achehnese treatise on the history of Islam in [[Acheh]], working from a manuscript of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]]. His work — preserved in the manuscript of the Koninklijk Instituut voor Taal-, Land- en Volkenkunde at The Hague, designated **D** in Voorhoeve's apparatus — is the principal witness to the survival of the *Tibjān* as a living text of Achehnese religious scholarship in the early twentieth century.
+**Teungku Haron** — in [[P. Voorhoeve|Voorhoeve]]'s text **Teungku Harõn** — was an Achehnese religious scholar who, about [[1929]], composed an Achehnese treatise on the history of Islam in [[Acheh]], working from a manuscript of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]]. His work — preserved in the manuscript of the Koninklijk Instituut voor Taal-, Land- en Volkenkunde at The Hague, designated **D** in Voorhoeve's apparatus — is the principal witness to the survival of the *Tibjān* as a living text of Achehnese religious scholarship in the early twentieth century.
 
 ## The Achehnese adaptation of the *Tibjān*
 
@@ -30,7 +30,7 @@ Teungku Haron is the principal witness to the survival of the [[Tibjan fi ma'rif
 - [[H. T. Damsté]]
 - [[P. Voorhoeve]]
 - [[Ph. S. van Ronkel]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
 ## Source
@@ -41,7 +41,7 @@ Ph. S. van Ronkel, in *BKI* 103, p. 599 — first notice of the Achehnese manusc
 ---
 
 
-**Teungku Haron** — in [[P. Voorhoeve|Voorhoeve]]'s text **Teungku Harõn** — was an Achehnese religious scholar who, about [[1929]], composed an Achehnese treatise on the history of Islam in [[Acheh]], working from a manuscript of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]]. His work — preserved in the manuscript of the Koninklijk Instituut voor Taal-, Land- en Volkenkunde at The Hague, designated **D** in Voorhoeve's apparatus — is the principal witness to the survival of the *Tibjān* as a living text of Achehnese religious scholarship in the early twentieth century.
+**Teungku Haron** — in [[P. Voorhoeve|Voorhoeve]]'s text **Teungku Harõn** — was an Achehnese religious scholar who, about [[1929]], composed an Achehnese treatise on the history of Islam in [[Acheh]], working from a manuscript of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]]. His work — preserved in the manuscript of the Koninklijk Instituut voor Taal-, Land- en Volkenkunde at The Hague, designated **D** in Voorhoeve's apparatus — is the principal witness to the survival of the *Tibjān* as a living text of Achehnese religious scholarship in the early twentieth century.
 
 ## The Achehnese adaptation of the *Tibjān*
 
@@ -66,7 +66,7 @@ Teungku Haron is the principal witness to the survival of the [[Tibjan fi ma'rif
 - [[H. T. Damsté]]
 - [[P. Voorhoeve]]
 - [[Ph. S. van Ronkel]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
 ## Source

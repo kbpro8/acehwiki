@@ -4,7 +4,7 @@ aliases: [Colonne van Daalen 1904, Zegetocht van Daalen, Gayo-Alas campaign 1904
 tags: [event, military, colonial, gayo, alas]
 ---
 
-**The Colonne van Daalen naar de Gajolanden en Alaslanden (1904)** was the military *zegetocht* — victorious campaign — led by the then-Colonel [[G. C. E. van Daalen|G. C. E. van Daalen]] in June [[1904]] through the interior highlands of northern Sumatra, by which the [[Gajoland|Gajolanden]] and the [[Alaslanden|Alaslanden]] were "ineens geheel onder onze macht" — at once brought entirely under Dutch control — and incorporated into the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. Together with the sequel expedition of [[1905]], it ended the long isolation in which the "onverzoenlijken" — the irreconcilables — of the interior had preserved their autonomy throughout the [[Aceh War|Atjeh-krijg]].
+**The Colonne van Daalen naar de Gajolanden en Alaslanden (1904)** was the military *zegetocht* — victorious campaign — led by the then-Colonel [[Gotfried Coenraad Ernst van Daalen|Gotfried Coenraad Ernst van Daalen]] in June [[1904]] through the interior highlands of northern Sumatra, by which the [[Gajoland|Gajolanden]] and the [[Alaslanden|Alaslanden]] were "ineens geheel onder onze macht" — at once brought entirely under Dutch control — and incorporated into the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. Together with the sequel expedition of [[1905]], it ended the long isolation in which the "onverzoenlijken" — the irreconcilables — of the interior had preserved their autonomy throughout the [[Aceh War|Atjeh-krijg]].
 
 ## Background: an unknown interior
 
@@ -53,12 +53,12 @@ The expedition lasted **163 days**. Van Daalen reached **[[Tarotoeng]]** in the 
 The van Daalen campaign of [[1904]] was the subject of two independent retrospective accounts published in [[1939]] — thirty-five years after the campaign — and recorded in [[H. van Meurs|Van Meurs]]'s *[[Literatuur-Overzicht over het jaar 1939 (Van Meurs, 1940)|Literatuur-Overzicht over het jaar 1939]]* (The Hague, [[1940]]), in the Sumatra chapter:
 
 - **[[De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden (Geusau, 1939)|No. 566]]** — by [[J. Alting van Geusau|J. Alting van Geusau]], in *Indisch Militair Tijdschrift*, No. 30, p. 593 *e.v.*, with illustrations, giving the campaign's precise dates as [[8 February]]–[[23 July]] [[1904]] and including the [[Bataklanden|Bataklands]] in the traverse of the column.
-- **[[De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden 1904 (Harders, 1939)|No. 568]]** — by [[J. E. Harders|J. E. Harders]], in the *Orgaan van de Nederlandsch-Indische Officiersvereeniging* (1939), with a cross-reference ("zie bij TICHELMAN, G. L.") indicating a connection to the ethnographic and illustrative work of [[G. L. Tichelmann|G. L. Tichelmann]].
+- **[[De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden 1904 (Harders, 1939)|No. 568]]** — by [[De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden 1904 (Harders, 1939)|De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden 1904 (Harders, 1939)]], in the *Orgaan van de Nederlandsch-Indische Officiersvereeniging* (1939), with a cross-reference ("zie bij TICHELMAN, G. L.") indicating a connection to the ethnographic and illustrative work of [[G. L. Tichelmann|G. L. Tichelmann]].
 
 The double publication of retrospective accounts of the same campaign in two distinct professional military journals in the same year marks [[1939]] as a year of sustained retrospective interest in the van Daalen campaign. The inclusion of the Bataklanden in both titles extends the scope of the campaign account beyond the Gayo-Alas theatre proper, and the precise dates ([[8 February]]–[[23 July]] [[1904]]) furnish an independent confirmation of the campaign's duration. The cross-reference from the [[De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden 1904 (Harders, 1939)|Harders account]] to [[G. L. Tichelmann|Tichelmann]] connects the campaign retrospective to the wider ethnographic and antiquarian work on northern Sumatra represented in the same chapter of Van Meurs's survey — including [[In Atjeh opgedolven glazen kruikjes (Tichelmann, 1939)|Tichelmann's note on glass vessels excavated in Atjeh]] (No. 625) — and it suggests that Tichelmann may have contributed illustrations or ethnographic observations to the Harders article.
 
 ## See Also
-- [[G. C. E. van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[Gajoland]]
 - [[Alaslanden]]
 - [[Gajo Loeës]]
@@ -71,13 +71,13 @@ The double publication of retrospective accounts of the same campaign in two dis
 - [[Aceh War]]
 - [[1907–1908 Aceh resistance]]
 - [[H. N. A. Swart]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Panglima Polem]]
 - [[Tarotoeng]]
 - [[De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden (Geusau, 1939)]]
 - [[De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden 1904 (Harders, 1939)]]
 - [[J. Alting van Geusau]]
-- [[J. E. Harders]]
+- [[De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden 1904 (Harders, 1939)|J. E. Harders]]
 - [[G. L. Tichelmann]]
 - [[Literatuur-Overzicht over het jaar 1939 (Van Meurs, 1940)]]
 - [[H. van Meurs]]

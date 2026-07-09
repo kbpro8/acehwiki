@@ -5,7 +5,7 @@ aliases: [Nieuwenhuyzen, colonel W. C. Nieuwenhuyzen, Wouter Carel Nieuwenhuyzen
 tags: [person, dutch-official, colonial-officer, scholar]
 ---
 
-**W. C. Nieuwenhuyzen** — *gep. kolonel* (late colonel) Nieuwenhuyzen — was a Dutch colonial officer and man of letters, the author of *Poeloe Weh* (1898) and a contributor to *De Nederlandsche Spectator*, who is cited three times by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Acheh treaty of 1819|Raffles–Coombs convention]] and its long aftermath. Nieuwenhuyzen's chief importance for Van der Kemp lies in his editorial and historical interventions on the early history of British and American activity in the East Indian archipelago.
+**W. C. Nieuwenhuyzen** — *gep. kolonel* (late colonel) Nieuwenhuyzen — was a Dutch colonial officer and man of letters, the author of *Poeloe Weh* (1898) and a contributor to *De Nederlandsche Spectator*, who is cited three times by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] and its long aftermath. Nieuwenhuyzen's chief importance for Van der Kemp lies in his editorial and historical interventions on the early history of British and American activity in the East Indian archipelago.
 
 ## *Poeloe Weh* (1898)
 
@@ -41,7 +41,7 @@ Taken together, the three citations present Nieuwenhuyzen as a distinctive voice
 ---
 
 
-**W. C. Nieuwenhuyzen** — *gep. kolonel* (late colonel) Nieuwenhuyzen — was a Dutch colonial officer and man of letters, the author of *Poeloe Weh* (1898) and a contributor to *De Nederlandsche Spectator*, who is cited three times by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Acheh treaty of 1819|Raffles–Coombs convention]] and its long aftermath. Nieuwenhuyzen's chief importance for Van der Kemp lies in his editorial and historical interventions on the early history of British and American activity in the East Indian archipelago.
+**W. C. Nieuwenhuyzen** — *gep. kolonel* (late colonel) Nieuwenhuyzen — was a Dutch colonial officer and man of letters, the author of *Poeloe Weh* (1898) and a contributor to *De Nederlandsche Spectator*, who is cited three times by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] and its long aftermath. Nieuwenhuyzen's chief importance for Van der Kemp lies in his editorial and historical interventions on the early history of British and American activity in the East Indian archipelago.
 
 ## *Poeloe Weh* (1898)
 

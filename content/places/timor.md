@@ -4,7 +4,7 @@ aliases: [Timor, Island of Timor]
 tags: [place, island, comparative, eastern-indonesia, numerology, invocation]
 ---
 
-**Timor** is an island in the eastern part of the [[Indian Archipelago]] which is mentioned in *The Achehnese* Vol. I in a comparative footnote on the Achehnese practice of counting up to seven as an introduction to ceremonial acts. The reference is one of a series of comparisons by which Snouck Hurgronje sought to place Achehnese usages in the wider context of Indonesian ritual.
+**Timor** is an island in the eastern part of the [[East Indian Archipelago|Indian Archipelago]] which is mentioned in *The Achehnese* Vol. I in a comparative footnote on the Achehnese practice of counting up to seven as an introduction to ceremonial acts. The reference is one of a series of comparisons by which Snouck Hurgronje sought to place Achehnese usages in the wider context of Indonesian ritual.
 
 ## Counting to Seven at the Andam Ceremony
 
@@ -22,8 +22,8 @@ Timor appears in Vol. I only in this brief comparative note, but the note is cha
 
 ## See Also
 
-- [[Indian Archipelago]]
-- [[Eastern Archipelago]]
+- [[East Indian Archipelago|Indian Archipelago]]
+- [[East Indian Archipelago|Eastern Archipelago]]
 - [[Nias]]
 - [[Batak Toba]]
 - [[Acheh]]

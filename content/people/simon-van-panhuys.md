@@ -7,7 +7,7 @@ tags: [person, dutch, military, aceh]
 
 ## Role in the Dutch‑Aceh Context
 
-The source does not provide narrative details, but the clustering of his name with other Aceh‑linked persons such as [[Simon van Panghays]] and [[Panglima Polim]] suggests that Simon van Panhuys was involved in the maritime or land campaigns conducted by the Dutch Marine Corps against the Sultanate of Aceh in the late 18th or early 19th century.
+The source does not provide narrative details, but the clustering of his name with other Aceh‑linked persons such as [[Simon van Panghays]] and [[Panglima Polem|Panglima Polim]] suggests that Simon van Panhuys was involved in the maritime or land campaigns conducted by the Dutch Marine Corps against the Sultanate of Aceh in the late 18th or early 19th century.
 
 ## Significance
 
@@ -16,7 +16,7 @@ Simon van Panhuys exemplifies the Dutch military personnel who were recorded i
 ## See Also
 
 - [[Simon van Panghays]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Aceh]]
 - [[Dutch East India Company|VOC]]
 - [[Aceh War]]

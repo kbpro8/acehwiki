@@ -11,7 +11,7 @@ The vessel contributed to the removal of enemy‑constructed barriers, enabling 
 
 ## See Also
 
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Flores (ship)]]
 - [[Sindoro (ship)]]
 - [[Tamiang (river)]]

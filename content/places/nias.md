@@ -30,7 +30,7 @@ In this legend, typifying the vileness of the origin of the Niasese in Achehnese
 - [[Sumatra]]
 - [[Train]]
 - [[Banten]]
-- [[Prof. Veth]]
+- [[Pieter Johannes Veth|Prof. Veth]]
 - [[C. Snouck Hurgronje]]
 - [[Civil war of 1854-58 (Raja Suloyman vs Raja Ibrahim)]]
 - [[Raja Suloyman]]

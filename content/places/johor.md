@@ -4,11 +4,11 @@ aliases: [Jho, Johore, Johor-Riau, Johor Sultanate, Djohor, Johor, Sultanate of 
 tags: [place, sacred-site, foreign-land, foreign, malay-state, comparative, sawah, malay-peninsula, malay-world, sultanate, malay, east-indies]
 ---
 
-**Johor** was a Malay sultanate occupying the southern tip of the [[Malay Peninsula]] that, from the late sixteenth to the early nineteenth century, evolved from the successor polity of the great [[Melaka Sultanate]] into a fragmented polity comprising the peninsula‑based Sultanate of [[Johor]] proper (under the Temenggong dynasty) and the [[Riouw|Riau]]‑[[Lingga]] archipelago (under a Bugis‑backed Yamtuan Muda line). Its name carried diplomatic weight far beyond its shrinking territories, appearing in British, Dutch, and Acehnese correspondence as both a reference to the Malay state and, confusingly, as a rendering of the Acehnese sovereign’s title *Jauhar al‑Alam* (“jewel of the world”). The sultanate’s history intertwines military confrontations—most notably the Acehnese conquest of [[1613]]—succession disputes in the Riau archipelago, and its role in the colonial reshaping of the region after the [[Treaty of London (1824)|Anglo‑Dutch treaty of [[1824]]]].
+**Johor** was a Malay sultanate occupying the southern tip of the [[Malay Peninsula]] that, from the late sixteenth to the early nineteenth century, evolved from the successor polity of the great [[Melaka Sultanate]] into a fragmented polity comprising the peninsula‑based Sultanate of [[Johor]] proper (under the Temenggong dynasty) and the [[Riouw|Riau]]‑[[Lingga]] archipelago (under a Bugis‑backed Yamtuan Muda line). Its name carried diplomatic weight far beyond its shrinking territories, appearing in British, Dutch, and Acehnese correspondence as both a reference to the Malay state and, confusingly, as a rendering of the Acehnese sovereign’s title *Jauhar al‑Alam* (“jewel of the world”). The sultanate’s history intertwines military confrontations—most notably the Acehnese conquest of [[1613]]—succession disputes in the Riau archipelago, and its role in the colonial reshaping of the region after the [[Anglo-Dutch Treaty of 1824|Anglo‑Dutch treaty of [[1824]]]].
 
 ## Early Modern Conflict and Conquest (1610–1613)
 
-In [[1610]] the Sultanate of Johor concluded a peace treaty with the [[Portuguese]], a move that provoked the expansionist ambitions of [[Sultan Iskandar Muda]] of [[Aceh]]. On [[6 June]] [[1613]] the Acehnese forces captured the Johor capital of Batu Sawar, an event detailed in the [[Acehnese conquest of Djohor (1613)]] narrative. The campaign is also recorded in the [[Hikayat Malem Dagang]]: “From [[Pahang]] the fleet moves to [[Johor Lama and Johor Bali]] (Jho Lama) … Here some of the Achehnese invaders establish themselves without opposition under the direction of their Sultan, who builds fortifications…”. The Acehnese commander [[Panglima Tibang]] later served as an envoy to [[Riouw]] and [[Singapore]].
+In [[1610]] the Sultanate of Johor concluded a peace treaty with the [[Portuguese]], a move that provoked the expansionist ambitions of [[Sultan Iskandar Muda]] of [[Aceh]]. On [[6 June]] [[1613]] the Acehnese forces captured the Johor capital of Batu Sawar, an event detailed in the [[Acehnese conquest of Djohor (1613)]] narrative. The campaign is also recorded in the [[Hikajat Malém Dagang|Hikayat Malem Dagang]]: “From [[Pahang]] the fleet moves to [[Johor Lama and Johor Bali]] (Jho Lama) … Here some of the Achehnese invaders establish themselves without opposition under the direction of their Sultan, who builds fortifications…”. The Acehnese commander [[Panglima Tibang]] later served as an envoy to [[Riouw]] and [[Singapore]].
 
 ## Onomastic Confusion in Diplomatic Sources
 
@@ -16,9 +16,9 @@ C. Snouck Hurgronje, in *The Achehnese* (Vol. I), notes that British offic
 
 ## Fragmentation and Succession Disputes (Late 18th–Early 19th Century)
 
-By the early nineteenth century the once‑vast Johor Empire had fragmented. The Temenggong dynasty retained control over the peninsula, while the Bugis‑backed Yamtuan Muda line governed the Riau‑Lingga archipelago. The Dutch derived their legal claim over the Riau islands from treaties with the sultan of Lingga‑Riau, the heir of the Johor sultanate, a claim solidified by the [[Treaty of London (1824)|treaty of [[1824]]]] which allocated the archipelago to Dutch influence.
+By the early nineteenth century the once‑vast Johor Empire had fragmented. The Temenggong dynasty retained control over the peninsula, while the Bugis‑backed Yamtuan Muda line governed the Riau‑Lingga archipelago. The Dutch derived their legal claim over the Riau islands from treaties with the sultan of Lingga‑Riau, the heir of the Johor sultanate, a claim solidified by the [[Anglo-Dutch Treaty of 1824|treaty of [[1824]]]] which allocated the archipelago to Dutch influence.
 
-The founding of [[Singapore]] in [[January]] [[1819]] was legally an arrangement with the Temenggong of Johor and with Sultan [[Hussein Mua'zzam Shah]], a rival claimant recognised by [[Stamford Raffles]]. The Dutch, however, supported the Bugis claimant, leading to a disputed succession that echoed throughout the region’s diplomatic correspondence.
+The founding of [[Singapore]] in [[January]] [[1819]] was legally an arrangement with the Temenggong of Johor and with Sultan [[Hussein Mua'zzam Shah]], a rival claimant recognised by [[Sir Thomas Stamford Raffles|Stamford Raffles]]. The Dutch, however, supported the Bugis claimant, leading to a disputed succession that echoed throughout the region’s diplomatic correspondence.
 
 ## Role in the 1784 Conflict and the Mahmoed Episode
 
@@ -35,7 +35,7 @@ Johor’s historical trajectory illustrates the fluidity of political authority 
 ## See Also
 
 - [[Aceh]]
-- [[Hikayat Malem Dagang]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
 - [[Irandamin]]
 - [[Johor Lama and Johor Bali]]
 - [[Malem Dagang]]
@@ -50,14 +50,14 @@ Johor’s historical trajectory illustrates the fluidity of political authority 
 - [[Malay Peninsula]]
 - [[Province Wellesley]]
 - [[Lingga]]
-- [[Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Treaty of London (1824)]]
 - [[Raffles' Atjew-overeenkomst van 1819]]
 - [[Acehnese conquest of Djohor (1613)]]
 - [[Atjeh]]
 - [[Mahmoed (young prince of Riouw)]]
 - [[Radya Aly]]
 - [[Oost-Indische Compagnie]]
-- [[Stamford Raffles]]
+- [[Sir Thomas Stamford Raffles|Stamford Raffles]]
 - [[Hussein Mua'zzam Shah]]
 - [[Bengkulu]]
 - [[Bugis]]

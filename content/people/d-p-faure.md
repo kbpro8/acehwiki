@@ -5,7 +5,7 @@ aliases: [Faure, D. P. Faure]
 tags: [person, cape-politician, journalist, witness, transvaal, cited-source]
 ---
 
-**D. P. Faure** was a Cape Colony journalist and politician who, in [[1899]], came forward as the only surviving non-party witness to the conferences that produced the [[London Convention on Transvaal (1884)|London Convention of 1884]] between Britain and the South African Republic (Transvaal). His testimony, set out in an open letter to Colonial Secretary [[Joseph Chamberlain]] published in the *Nieuwe Rotterdamsche Courant* of [[28 May]] [[1899]], occupies a prominent place in the twelfth and final appendix of [[P. H. van der Kemp|Van der Kemp]]'s article on the [[Acheh treaty of 1819|Acheh agreement of 1819]]. Van der Kemp uses Faure's evidence to draw an explicit parallel between the British handling of the Transvaal suzerainty question in [[1884]] and the Dutch handling of the Acheh reservation in the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]].
+**D. P. Faure** was a Cape Colony journalist and politician who, in [[1899]], came forward as the only surviving non-party witness to the conferences that produced the [[London Convention on Transvaal (1884)|London Convention of 1884]] between Britain and the South African Republic (Transvaal). His testimony, set out in an open letter to Colonial Secretary [[Joseph Chamberlain]] published in the *Nieuwe Rotterdamsche Courant* of [[28 May]] [[1899]], occupies a prominent place in the twelfth and final appendix of [[P. H. van der Kemp|Van der Kemp]]'s article on the [[Treaty of Pedir (1819)|Acheh agreement of 1819]]. Van der Kemp uses Faure's evidence to draw an explicit parallel between the British handling of the Transvaal suzerainty question in [[1884]] and the Dutch handling of the Acheh reservation in the [[Anglo-Dutch Treaty of 1824|treaty of 1824]].
 
 ## Background to the letter
 
@@ -25,7 +25,7 @@ Faure further cited an interview that the editor of the *Saturday Review* had co
 
 ## Significance for Acheh studies
 
-Van der Kemp reproduces Faure's letter at length because it offers a striking parallel to the Dutch experience with the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]]. In both cases a stipulation originally "proposed as of no significance" — the Acheh reservation in [[1824]], the omission of the word "suzerainty" in [[1884]] — was later treated by the stronger party as if it were decisive of the legal position. In both cases, also, the weaker party's understanding of the bargain was recorded in private conversations and unminuted conferences that only an interested survivor could later place on the record. Faure's letter thus furnished Van der Kemp with a tightly argued comparative case from contemporary imperial politics, on which to hang his indictment of British handling of the Acheh question.
+Van der Kemp reproduces Faure's letter at length because it offers a striking parallel to the Dutch experience with the [[Anglo-Dutch Treaty of 1824|treaty of 1824]]. In both cases a stipulation originally "proposed as of no significance" — the Acheh reservation in [[1824]], the omission of the word "suzerainty" in [[1884]] — was later treated by the stronger party as if it were decisive of the legal position. In both cases, also, the weaker party's understanding of the bargain was recorded in private conversations and unminuted conferences that only an interested survivor could later place on the record. Faure's letter thus furnished Van der Kemp with a tightly argued comparative case from contemporary imperial politics, on which to hang his indictment of British handling of the Acheh question.
 
 ## See Also
 
@@ -34,7 +34,7 @@ Van der Kemp reproduces Faure's letter at length because it offers a striking pa
 - [[Sir Robert Herbert]]
 - [[Sir Evelyn Ashley]]
 - [[London Convention on Transvaal (1884)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[P. H. van der Kemp]]
 
 ## Source
@@ -43,7 +43,7 @@ Van der Kemp reproduces Faure's letter at length because it offers a striking pa
 ---
 
 
-**D. P. Faure** was a Cape Colony journalist and politician who, in [[1899]], came forward as the only surviving non-party witness to the conferences that produced the [[London Convention on Transvaal (1884)|London Convention of 1884]] between Britain and the South African Republic (Transvaal). His testimony, set out in an open letter to Colonial Secretary [[Joseph Chamberlain]] published in the *Nieuwe Rotterdamsche Courant* of [[28 May]] [[1899]], occupies a prominent place in the twelfth and final appendix of [[P. H. van der Kemp|Van der Kemp]]'s article on the [[Acheh treaty of 1819|Acheh agreement of 1819]]. Van der Kemp uses Faure's evidence to draw an explicit parallel between the British handling of the Transvaal suzerainty question in [[1884]] and the Dutch handling of the Acheh reservation in the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]].
+**D. P. Faure** was a Cape Colony journalist and politician who, in [[1899]], came forward as the only surviving non-party witness to the conferences that produced the [[London Convention on Transvaal (1884)|London Convention of 1884]] between Britain and the South African Republic (Transvaal). His testimony, set out in an open letter to Colonial Secretary [[Joseph Chamberlain]] published in the *Nieuwe Rotterdamsche Courant* of [[28 May]] [[1899]], occupies a prominent place in the twelfth and final appendix of [[P. H. van der Kemp|Van der Kemp]]'s article on the [[Treaty of Pedir (1819)|Acheh agreement of 1819]]. Van der Kemp uses Faure's evidence to draw an explicit parallel between the British handling of the Transvaal suzerainty question in [[1884]] and the Dutch handling of the Acheh reservation in the [[Anglo-Dutch Treaty of 1824|treaty of 1824]].
 
 ## Background to the letter
 
@@ -63,7 +63,7 @@ Faure further cited an interview that the editor of the *Saturday Review* had co
 
 ## Significance for Acheh studies
 
-Van der Kemp reproduces Faure's letter at length because it offers a striking parallel to the Dutch experience with the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]]. In both cases a stipulation originally "proposed as of no significance" — the Acheh reservation in [[1824]], the omission of the word "suzerainty" in [[1884]] — was later treated by the stronger party as if it were decisive of the legal position. In both cases, also, the weaker party's understanding of the bargain was recorded in private conversations and unminuted conferences that only an interested survivor could later place on the record. Faure's letter thus furnished Van der Kemp with a tightly argued comparative case from contemporary imperial politics, on which to hang his indictment of British handling of the Acheh question.
+Van der Kemp reproduces Faure's letter at length because it offers a striking parallel to the Dutch experience with the [[Anglo-Dutch Treaty of 1824|treaty of 1824]]. In both cases a stipulation originally "proposed as of no significance" — the Acheh reservation in [[1824]], the omission of the word "suzerainty" in [[1884]] — was later treated by the stronger party as if it were decisive of the legal position. In both cases, also, the weaker party's understanding of the bargain was recorded in private conversations and unminuted conferences that only an interested survivor could later place on the record. Faure's letter thus furnished Van der Kemp with a tightly argued comparative case from contemporary imperial politics, on which to hang his indictment of British handling of the Acheh question.
 
 ## See Also
 
@@ -72,7 +72,7 @@ Van der Kemp reproduces Faure's letter at length because it offers a striking pa
 - [[Sir Robert Herbert]]
 - [[Sir Evelyn Ashley]]
 - [[London Convention on Transvaal (1884)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[P. H. van der Kemp]]
 
 ## Source

@@ -4,7 +4,7 @@ aliases: [Pedir-expeditie, Tocht naar Pedir Juni 1898, Van Heutsz Pedir expediti
 tags: [event, military, colonial, achehnese, dutch, atjeh, 19th-century, aceh-war, 1898, van-heutsz, toekoe-oemar]
 ---
 
-The **Pedir Expedition** was a military campaign carried out by Dutch forces under kolonel (later generaal) [[Van Heutsz's governorship|Van Heutsz]] against the Pedir region on **[[Aceh]]**'s north-east coast, beginning in June [[1898]], as part of the broader **[[Aceh War]]**. The defected Atjehnese chief [[Toekoe Oemar|Toekoe Oemar]] marched with his strijders on Pedir in the campaign's course. The Jesuit missionary **[[H. C. Verbraak S.J.]]** reported on the expedition — under the year [[1899]] — in his article "Atjeh. Pedir-expeditie" in the magazine **[[St. Claverbond]]**, while the Dutch primary-school reader *[[De Kleine Oosterling]]* (1901) records it as the operational turning point that ended Pedir's 25-year role as a *wijkplaats* (refuge) for Dutch enemies.
+The **Pedir Expedition** was a military campaign carried out by Dutch forces under kolonel (later generaal) [[Joannes Benedictus van Heutsz|Van Heutsz]] against the Pedir region on **[[Aceh]]**'s north-east coast, beginning in June [[1898]], as part of the broader **[[Aceh War]]**. The defected Atjehnese chief [[Toekoe Oemar|Toekoe Oemar]] marched with his strijders on Pedir in the campaign's course. The Jesuit missionary **[[H. C. Verbraak S.J.]]** reported on the expedition — under the year [[1899]] — in his article "Atjeh. Pedir-expeditie" in the magazine **[[St. Claverbond]]**, while the Dutch primary-school reader *[[De Kleine Oosterling]]* (1901) records it as the operational turning point that ended Pedir's 25-year role as a *wijkplaats* (refuge) for Dutch enemies.
 
 ## Context
 
@@ -12,7 +12,7 @@ After the initial Dutch conquest of **[[Kutaradja]]** in [[1874]], the war devol
 
 ## The defection of Toekoe Oemar
 
-The [[De Kleine Oosterling|Wijma school reader]] records the defection of [[Toekoe Oemar|Toekoe Oemar]] as the operational context of the Pedir expedition: "Ook na het vertrek van den held van Samalangan werd in Atjeh nog veel gestreden. Vooral Toekoe Oemar gaf ons veel te doen. Dit Atjehsch hoofd had ons eerst als bondgenoot goede diensten bewezen, maar sloot zich later weer bij den vijand aan." The school reader thus compresses the [[Treachery of Teuku Uma against the Dutch|verraad of Toekoe Oemar of 1896]] into a single sentence — without date and without explicit reference to the [[Toekoe Oemar's verraad (1896)|verraad van 1896]] — and frames Toekoe Oemar as the *Atjehsch hoofd* whose defection was the principal operational difficulty of the late [[1890s]].
+The [[De Kleine Oosterling|Wijma school reader]] records the defection of [[Toekoe Oemar|Toekoe Oemar]] as the operational context of the Pedir expedition: "Ook na het vertrek van den held van Samalangan werd in Atjeh nog veel gestreden. Vooral Toekoe Oemar gaf ons veel te doen. Dit Atjehsch hoofd had ons eerst als bondgenoot goede diensten bewezen, maar sloot zich later weer bij den vijand aan." The school reader thus compresses the [[Defection of Teuku Uma|verraad of Toekoe Oemar of 1896]] into a single sentence — without date and without explicit reference to the [[Toekoe Oemar's verraad (1896)|verraad van 1896]] — and frames Toekoe Oemar as the *Atjehsch hoofd* whose defection was the principal operational difficulty of the late [[1890s]].
 
 ## The June 1898 expedition
 
@@ -36,10 +36,10 @@ The Pedir Expedition of June [[1898]] is, in the [[De Kleine Oosterling|school-t
 - [[Kutaradja]]
 - [[Samalanga]]
 - [[De Kleine Oosterling]]
-- [[Van Heutsz's governorship]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz's governorship]]
 - [[Toekoe Oemar]]
 - [[Toekoe Oemar's verraad (1896)]]
-- [[Treachery of Teuku Uma against the Dutch]]
+- [[Defection of Teuku Uma|Treachery of Teuku Uma against the Dutch]]
 - [[Defection of Teuku Uma]]
 - [[Pedir]]
 - [[Groot-Atjeh]]

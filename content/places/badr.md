@@ -27,7 +27,7 @@ Beyond its immediate military outcome, the Battle of Badr functions as a corners
 - [[Muhammad]]
 - [[Medina]]
 - [[Raja Bada]]
-- [[Al‑Burda (Arabic poem)]]
+- [[Burda (poem)|Al‑Burda (Arabic poem)]]
 - [[Arabic terms in Acehnese religious poetry]]
 - [[Aceh]]
 - [[Qur’an 3:123‑127]]

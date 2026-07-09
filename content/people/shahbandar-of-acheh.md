@@ -9,7 +9,7 @@ The **Shahbandar of Acheh** (also written *Sjahbandar*) was the harbour master o
 
 ## The Commission's intermediary (March 1819)
 
-When, on [[14 March]] [[1819]], the [[Raffles-Coombs Acheh Commission (1819)|joint Commission of Raffles and Coombs]] anchored before the Achehnese capital, no sultan was present. The Commission sent a circular to the chiefs summoning them to an assembly. [[Panglima Polim]] replied from his [[XXII Mukims]] that the assembly would take place in eight days, but that until then the Commission was not to come ashore; "if it had anything to say, one would address oneself to the Shahbandar". The Shahbandar thus appears in the British records as the standing official through whom the Achehnese chiefs chose to transact with foreigners; his role was that of the customary *shahbandar* of Malay port-polities, with the difference that, at Acheh, the central authority was so fragmented that the office had become an instrument of the [[Three Sagis]] rather than of a sultan.
+When, on [[14 March]] [[1819]], the [[Raffles-Coombs Acheh Commission (1819)|joint Commission of Raffles and Coombs]] anchored before the Achehnese capital, no sultan was present. The Commission sent a circular to the chiefs summoning them to an assembly. [[Panglima Polem|Panglima Polim]] replied from his [[XXII Mukims]] that the assembly would take place in eight days, but that until then the Commission was not to come ashore; "if it had anything to say, one would address oneself to the Shahbandar". The Shahbandar thus appears in the British records as the standing official through whom the Achehnese chiefs chose to transact with foreigners; his role was that of the customary *shahbandar* of Malay port-polities, with the difference that, at Acheh, the central authority was so fragmented that the office had become an instrument of the [[Three Sagis]] rather than of a sultan.
 
 ## The mission to Pedir and the murder of Tunku Pakih
 
@@ -23,13 +23,13 @@ The [[Death of Tunku Pakih|death of Tunku Pakih]] removed at a stroke the princi
 
 ## Place in the wider narrative
 
-The Shahbandar's double role — official intermediary and factional assassin — captures the character of Achehnese politics in 1819: the formal port-officials of the sultanate had become instruments of the [[Three Sagis]] and of [[Panglima Polim]], who together treated both rival sultans as mere tools. The Shahbandar's mission to Pedir was one of the immediate preliminaries to the [[Acheh treaty of 1819]], and his murder of [[Tunku Pakih]] one of the decisive local events that made the treaty possible.
+The Shahbandar's double role — official intermediary and factional assassin — captures the character of Achehnese politics in 1819: the formal port-officials of the sultanate had become instruments of the [[Three Sagis]] and of [[Panglima Polem|Panglima Polim]], who together treated both rival sultans as mere tools. The Shahbandar's mission to Pedir was one of the immediate preliminaries to the [[Treaty of Pedir (1819)|Acheh treaty of 1819]], and his murder of [[Tunku Pakih]] one of the decisive local events that made the treaty possible.
 
 ## See Also
 
 - [[Sultan Jauhar Alum]]
 - [[Tunku Pakih]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Three Sagis]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Captain Coombs]]
@@ -48,7 +48,7 @@ The **Shahbandar of Acheh** (also written *Sjahbandar*) was the harbour master o
 
 ## The Commission's intermediary (March 1819)
 
-When, on [[14 March]] [[1819]], the [[Raffles-Coombs Acheh Commission (1819)|joint Commission of Raffles and Coombs]] anchored before the Achehnese capital, no sultan was present. The Commission sent a circular to the chiefs summoning them to an assembly. [[Panglima Polim]] replied from his [[XXII Mukims]] that the assembly would take place in eight days, but that until then the Commission was not to come ashore; "if it had anything to say, one would address oneself to the Shahbandar". The Shahbandar thus appears in the British records as the standing official through whom the Achehnese chiefs chose to transact with foreigners; his role was that of the customary *shahbandar* of Malay port-polities, with the difference that, at Acheh, the central authority was so fragmented that the office had become an instrument of the [[Three Sagis]] rather than of a sultan.
+When, on [[14 March]] [[1819]], the [[Raffles-Coombs Acheh Commission (1819)|joint Commission of Raffles and Coombs]] anchored before the Achehnese capital, no sultan was present. The Commission sent a circular to the chiefs summoning them to an assembly. [[Panglima Polem|Panglima Polim]] replied from his [[XXII Mukims]] that the assembly would take place in eight days, but that until then the Commission was not to come ashore; "if it had anything to say, one would address oneself to the Shahbandar". The Shahbandar thus appears in the British records as the standing official through whom the Achehnese chiefs chose to transact with foreigners; his role was that of the customary *shahbandar* of Malay port-polities, with the difference that, at Acheh, the central authority was so fragmented that the office had become an instrument of the [[Three Sagis]] rather than of a sultan.
 
 ## The mission to Pedir and the murder of Tunku Pakih
 
@@ -62,13 +62,13 @@ The [[Death of Tunku Pakih|death of Tunku Pakih]] removed at a stroke the princi
 
 ## Place in the wider narrative
 
-The Shahbandar's double role — official intermediary and factional assassin — captures the character of Achehnese politics in 1819: the formal port-officials of the sultanate had become instruments of the [[Three Sagis]] and of [[Panglima Polim]], who together treated both rival sultans as mere tools. The Shahbandar's mission to Pedir was one of the immediate preliminaries to the [[Acheh treaty of 1819]], and his murder of [[Tunku Pakih]] one of the decisive local events that made the treaty possible.
+The Shahbandar's double role — official intermediary and factional assassin — captures the character of Achehnese politics in 1819: the formal port-officials of the sultanate had become instruments of the [[Three Sagis]] and of [[Panglima Polem|Panglima Polim]], who together treated both rival sultans as mere tools. The Shahbandar's mission to Pedir was one of the immediate preliminaries to the [[Treaty of Pedir (1819)|Acheh treaty of 1819]], and his murder of [[Tunku Pakih]] one of the decisive local events that made the treaty possible.
 
 ## See Also
 
 - [[Sultan Jauhar Alum]]
 - [[Tunku Pakih]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Three Sagis]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Captain Coombs]]

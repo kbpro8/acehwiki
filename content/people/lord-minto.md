@@ -17,7 +17,7 @@ The passage establishes two things. First, that Lord Minto, during his Governor-
 
 Although Van der Kemp does not enter into the general history of Lord Minto's administration, certain features of it bear upon the Acheh question. Minto had been called to the governor-generalship at a moment of acute danger for British India: the French threat in the East Indies had materialised in the [[Java|Java]] expedition of [[1811]], and Minto had himself dispatched the expedition which, under the immediate command of [[Major William Farquhar|Major Farquhar]] and others, wrested Java from the Franco-Dutch government. His interest in the eastern seas and his awareness of the importance of the Dutch colonial position were therefore well established. The porcelain gift to the Achehnese sultan may be regarded as a minor expression of that broader strategic concern.
 
-Minto died on 21 June [[1814]], at the age of 62, and was succeeded in the governor-generalship by [[Lord Moira|Lord Moira]], who in [[1819]] would dispatch the [[Raffles-Coombs Acheh Commission (1819)|Raffles-Coombs Acheh Commission]] that concluded the [[Acheh treaty of 1819]]. The [[Lord Minto|Earl of Minto's]] own correspondence with Acheh, of which the porcelain gift was a token, represents the earlier and quieter phase of British relations with the sultanate, before the [[Acheh succession dispute (1802-1819)|Acheh succession dispute]] had been complicated by the [[Said Hussein's expedition to Acheh (1815)|Hussein expedition of 1815]] and the rival claims of [[Sultan Saif ul-Alum|Syf ul-Alum]].
+Minto died on 21 June [[1814]], at the age of 62, and was succeeded in the governor-generalship by [[Lord Moira|Lord Moira]], who in [[1819]] would dispatch the [[Raffles-Coombs Acheh Commission (1819)|Raffles-Coombs Acheh Commission]] that concluded the [[Treaty of Pedir (1819)|Acheh treaty of 1819]]. The [[Lord Minto|Earl of Minto's]] own correspondence with Acheh, of which the porcelain gift was a token, represents the earlier and quieter phase of British relations with the sultanate, before the [[Acheh succession dispute (1802-1819)|Acheh succession dispute]] had been complicated by the [[Said Hussein's expedition to Acheh (1815)|Hussein expedition of 1815]] and the rival claims of [[Sultan Saif ul-Alum|Syf ul-Alum]].
 
 ## Legacy in the Acheh Question
 
@@ -28,7 +28,7 @@ The porcelain anecdote is significant for Van der Kemp's argument because it con
 - [[Lord Moira]]
 - [[Colonel O'Hallaran]]
 - [[Sultan Jauhar Alum]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Major William Farquhar]]
 
@@ -50,7 +50,7 @@ The passage establishes two things. First, that Lord Minto, during his Governor-
 
 Although Van der Kemp does not enter into the general history of Lord Minto's administration, certain features of it bear upon the Acheh question. Minto had been called to the governor-generalship at a moment of acute danger for British India: the French threat in the East Indies had materialised in the [[Java|Java]] expedition of [[1811]], and Minto had himself dispatched the expedition which, under the immediate command of [[Major William Farquhar|Major Farquhar]] and others, wrested Java from the Franco-Dutch government. His interest in the eastern seas and his awareness of the importance of the Dutch colonial position were therefore well established. The porcelain gift to the Achehnese sultan may be regarded as a minor expression of that broader strategic concern.
 
-Minto died on 21 June [[1814]], at the age of 62, and was succeeded in the governor-generalship by [[Lord Moira|Lord Moira]], who in [[1819]] would dispatch the [[Raffles-Coombs Acheh Commission (1819)|Raffles-Coombs Acheh Commission]] that concluded the [[Acheh treaty of 1819]]. The [[Lord Minto|Earl of Minto's]] own correspondence with Acheh, of which the porcelain gift was a token, represents the earlier and quieter phase of British relations with the sultanate, before the [[Acheh succession dispute (1802-1819)|Acheh succession dispute]] had been complicated by the [[Said Hussein's expedition to Acheh (1815)|Hussein expedition of 1815]] and the rival claims of [[Sultan Saif ul-Alum|Syf ul-Alum]].
+Minto died on 21 June [[1814]], at the age of 62, and was succeeded in the governor-generalship by [[Lord Moira|Lord Moira]], who in [[1819]] would dispatch the [[Raffles-Coombs Acheh Commission (1819)|Raffles-Coombs Acheh Commission]] that concluded the [[Treaty of Pedir (1819)|Acheh treaty of 1819]]. The [[Lord Minto|Earl of Minto's]] own correspondence with Acheh, of which the porcelain gift was a token, represents the earlier and quieter phase of British relations with the sultanate, before the [[Acheh succession dispute (1802-1819)|Acheh succession dispute]] had been complicated by the [[Said Hussein's expedition to Acheh (1815)|Hussein expedition of 1815]] and the rival claims of [[Sultan Saif ul-Alum|Syf ul-Alum]].
 
 ## Legacy in the Acheh Question
 
@@ -61,7 +61,7 @@ The porcelain anecdote is significant for Van der Kemp's argument because it con
 - [[Lord Moira]]
 - [[Colonel O'Hallaran]]
 - [[Sultan Jauhar Alum]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Major William Farquhar]]
 

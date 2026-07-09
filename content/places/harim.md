@@ -15,7 +15,7 @@ The invocation of *Harim* reflects the broader Acehnese engagement with Islamic 
 
 ## See Also
 
-- [[Al‑Burda (Arabic poem)]]
+- [[Burda (poem)|Al‑Burda (Arabic poem)]]
 - [[Achirat]]
 - [[Muhammad]]
 - [[Arabic terms in Acehnese religious poetry]]

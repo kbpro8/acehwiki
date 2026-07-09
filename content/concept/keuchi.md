@@ -17,15 +17,15 @@ The keuchi' played a role in the administration of village justice. Suits for th
 
 ## Account from *De Buitenbezittingen* (1917) — Keutjhï
 
-**The Keutjhï** was the head of the [[Gampong|gampong]] — the smallest territorial unit of [[Groot-Atjeh|Groot-Atjeh]] — and the principal adat authority of his community. *De Buitenbezittingen*, drawing on Prof. Dr. [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] (*De Atjehers*, Vol. I, pp. 62, 79), describes him as "het hoofd, de vader der gampong" — the head, the father of the village — the male counterpart to the maternal religious authority of the [[Teungkoe|Teungkoe]]. Together with one or more *waki's* (deputies) and the [[Oereuëng toeha|Oereuëng toeha]] (elders), the Keutjhï formed one of the three pillars of gampong government.
+**The Keutjhï** was the head of the [[Gampong|gampong]] — the smallest territorial unit of [[Groot-Atjeh|Groot-Atjeh]] — and the principal adat authority of his community. *De Buitenbezittingen*, drawing on Prof. Dr. [[C. Snouck Hurgronje|Snouck Hurgronje]] (*De Atjehers*, Vol. I, pp. 62, 79), describes him as "het hoofd, de vader der gampong" — the head, the father of the village — the male counterpart to the maternal religious authority of the [[Teungkoe|Teungkoe]]. Together with one or more *waki's* (deputies) and the [[Oereuëng toeha|Oereuëng toeha]] (elders), the Keutjhï formed one of the three pillars of gampong government.
 
 ## Appointment and heredity
 
-The Keutjhï drew his authority, the handbook records, "aan den [[Oelèëbalang|oelèëbalang]] van de landstreek waartoe zijn dorp behoort" — from the oelèëbalang of the district to which his village belonged. Although the office had "in den loop der tijden wel erfelijk geworden" — become hereditary over the course of time — [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] insisted that "iedere Keutjhï weet, dat de eerste zijner voorvaderen, die dit ambt bekleedde, door den oelèëbalang werd aangesteld, en dat deze hem te allen tijde kan ontzetten" — every Keutjhï knows that the first of his ancestors to hold the office was appointed by the oelèëbalang, who can dismiss him at any time.
+The Keutjhï drew his authority, the handbook records, "aan den [[Oelèëbalang|oelèëbalang]] van de landstreek waartoe zijn dorp behoort" — from the oelèëbalang of the district to which his village belonged. Although the office had "in den loop der tijden wel erfelijk geworden" — become hereditary over the course of time — [[C. Snouck Hurgronje|Snouck Hurgronje]] insisted that "iedere Keutjhï weet, dat de eerste zijner voorvaderen, die dit ambt bekleedde, door den oelèëbalang werd aangesteld, en dat deze hem te allen tijde kan ontzetten" — every Keutjhï knows that the first of his ancestors to hold the office was appointed by the oelèëbalang, who can dismiss him at any time.
 
 ## The father of the village
 
-Despite his formal subordination, the Keutjhï's standing rested chiefly on the confidence of his own people. "Teekenend is echter," writes [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] (quoted in the handbook), "hetgeen de geleerde schrijver eenige regels verder doet volgen: 'dat de Keutjhï gewoonlijk zonder moeite zijn gezag kan handhaven, niet zoozeer door steun, van den oelèëbalang zelf als wel omdat hij naar buiten, zoowel tegenover andere gampongs of tegenover overdreven eischen van enkele zijner eigene onderdanen, steeds de belangen en zooveel mogelijk ook de wenschen van de geheele gampong vertegenwoordigt.'" It was, the source concedes, "ijdele phrase" — empty phrase — when the Atjehers reminded one another in their deliberations: "*Keutjhï eumbah, teungkoe ma*" — the Keutjhï is (our) father, the Teungkoe (our) mother.
+Despite his formal subordination, the Keutjhï's standing rested chiefly on the confidence of his own people. "Teekenend is echter," writes [[C. Snouck Hurgronje|Snouck Hurgronje]] (quoted in the handbook), "hetgeen de geleerde schrijver eenige regels verder doet volgen: 'dat de Keutjhï gewoonlijk zonder moeite zijn gezag kan handhaven, niet zoozeer door steun, van den oelèëbalang zelf als wel omdat hij naar buiten, zoowel tegenover andere gampongs of tegenover overdreven eischen van enkele zijner eigene onderdanen, steeds de belangen en zooveel mogelijk ook de wenschen van de geheele gampong vertegenwoordigt.'" It was, the source concedes, "ijdele phrase" — empty phrase — when the Atjehers reminded one another in their deliberations: "*Keutjhï eumbah, teungkoe ma*" — the Keutjhï is (our) father, the Teungkoe (our) mother.
 
 ## Functions and limits
 
@@ -44,7 +44,7 @@ The Keutjhï was the guardian of *adat* — the customary law of the gampong —
 - [[Oereuëng toeha]]
 - [[Oelèëbalang]]
 - [[Hoeköm]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Groot-Atjeh]]
 
 ## Source

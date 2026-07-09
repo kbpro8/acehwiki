@@ -4,7 +4,7 @@ aliases: [Mir Hassan (Atjeh edelman), Mir Hasan, Mirhässan, Atjeh noble ambassa
 tags: [person, atjehnese, ambassador, noble, 17th-century]
 ---
 
-**Mir Hassan** (also *Mir Hasan*) was an [[Acheh|Atjeh]] nobleman (*edelman*) who served as the third-ranking envoy of the [[Atjeh embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits]] in [[1602]]–[[1603]], alongside the senior ambassador [[Abdoel Hamid]] and the Admiral of Atjeh [[Sri Mohammed]]. He is one of only three Atjehnese named in Godee Molsbergen's account of the [[1602]] embassy to the Republic.
+**Mir Hassan** (also *Mir Hasan*) was an [[Acheh|Atjeh]] nobleman (*edelman*) who served as the third-ranking envoy of the [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits]] in [[1602]]–[[1603]], alongside the senior ambassador [[Abdoel Hamid]] and the Admiral of Atjeh [[Sri Mohammed]]. He is one of only three Atjehnese named in Godee Molsbergen's account of the [[1602]] embassy to the Republic.
 
 ## The embassy of 1602
 
@@ -35,7 +35,7 @@ Mir Hassan, like [[Abdoel Hamid]] and [[Sri Mohammed]], is significant as one of
 - [[Leonard Werner]]
 - [[Sultan Aloeddin of Atjeh]]
 - [[Prince Maurits]]
-- [[Atjeh embassy to Prince Maurits at Grave (1602)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits at Grave (1602)]]
 - [[Frederik de Houtman]]
 - [[Cornelis de Houtman]]
 - [[1602]]

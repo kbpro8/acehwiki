@@ -3,7 +3,7 @@ title: Captain J. A. Ernst (Van Sievert)
 aliases: [J. A. Ernst, Van Sievert]
 tags: [person, naval, colonial]
 ---
-**Captain J. A. Ernst (Van Sievert)** was an officer of the [[Korps Mariniers]] who distinguished himself during the third Bali expedition of [[1849]] (page 108). He received a knighthood in the *Militaire Willemsorde* by the royal decree of [[11 December]] [[1849]] (page 108).
+**Captain J. A. Ernst (Van Sievert)** was an officer of the [[Royal Netherlands Marine Corps|Korps Mariniers]] who distinguished himself during the third Bali expedition of [[1849]] (page 108). He received a knighthood in the *Militaire Willemsorde* by the royal decree of [[11 December]] [[1849]] (page 108).
 
 ## Service in the Bali Campaign
 
@@ -14,7 +14,7 @@ Ernst participated in the assaults on [[Djagaraga]] and the subsequent operation
 The royal decree (see [[Koninklijk Besluit (1849) No. 44]]) listed him among the officers awarded the *Militaire Willemsorde* 4th class (page 108).
 
 ## See Also
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[Militaire Willemsorde]]
 - [[1849 Bali Expedition]]
 - [[Koninklijk Besluit (1849) No. 44]]

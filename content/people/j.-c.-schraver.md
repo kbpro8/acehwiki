@@ -9,7 +9,7 @@ Schraver’s troops suffered nine wounded, but they succeeded in driving the ene
 
 ## See Also  
 
-- [[Dutch Marine Corps]]  
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]  
 - [[Edi River expedition (1890)]]  
 - [[Klewang (weapon)]]  
 

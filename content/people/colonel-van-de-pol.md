@@ -20,7 +20,7 @@ His actions contributed to the temporary suppression of resistance in the **Tami
 ## See Also
 
 - [[Tamiang (river)]]
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Lieutenant W. Allirol]]
 - [[Atjeh War]]
 - [[Deli (province)]]

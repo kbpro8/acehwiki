@@ -27,7 +27,7 @@ For AcehWiki, Kota Djawa is the principal architectural monument of the [[Djawak
 - [[Madjapahit in Langsar]]
 - [[Anderson's Mission to the East Coast of Sumatra (1825)]]
 - [[Cyama-Tara]]
-- [[Sultan of Atjeh (16th century)]]
+- [[Sultan of Acheh (16th century)|Sultan of Atjeh (16th century)]]
 - [[Historische Curiositeiten uit Malajoe en Java]]
 
 ## Source

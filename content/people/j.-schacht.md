@@ -5,7 +5,7 @@ aliases: [Professor Joseph Schacht, Joseph Schacht, Prof. Schacht, J. Schacht]
 tags: [person, scholar, german-orientalist, islamic-law, manuscript-studies, 20th-century, leiden, source-studies]
 ---
 
-**Professor Joseph Schacht** (1902–1969) — cited by [[P. Voorhoeve|Voorhoeve]] as **Prof. J. Schacht** — was a German-born Islamic scholar, one of the leading western scholars of Islamic law and of the manuscript traditions of Arabic scholastic literature. He is acknowledged by Voorhoeve in the introduction to the [[1955]] edition of Raniri's two Malay treatises for his guidance in the reading, explanation, and collation of the manuscripts of the [[Tamhid fi bayan at-tawhid|*Tamhīd*]] of [[Abu Syakur as-Salimi|Abū Shakūr as-Sālimī]] — the principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]].
+**Professor Joseph Schacht** (1902–1969) — cited by [[P. Voorhoeve|Voorhoeve]] as **Prof. J. Schacht** — was a German-born Islamic scholar, one of the leading western scholars of Islamic law and of the manuscript traditions of Arabic scholastic literature. He is acknowledged by Voorhoeve in the introduction to the [[1955]] edition of Raniri's two Malay treatises for his guidance in the reading, explanation, and collation of the manuscripts of the [[Tamhid fi bayan at-tawhid|*Tamhīd*]] of [[Abu Syakur as-Salimi|Abū Shakūr as-Sālimī]] — the principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]].
 
 ## Guidance in the collation of the *Tamhīd*
 
@@ -22,7 +22,7 @@ Schacht's guidance in the collation of the *Tamhīd* is one of the principal cha
 - [[Abu Syakur as-Salimi]]
 - [[al-Hallaj]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
@@ -34,7 +34,7 @@ J. Schacht, "On the popular literature of the sects," *Studia Islamica* I, pp. 2
 ---
 
 
-**Professor Joseph Schacht** (1902–1969) — cited by [[P. Voorhoeve|Voorhoeve]] as **Prof. J. Schacht** — was a German-born Islamic scholar, one of the leading western scholars of Islamic law and of the manuscript traditions of Arabic scholastic literature. He is acknowledged by Voorhoeve in the introduction to the [[1955]] edition of Raniri's two Malay treatises for his guidance in the reading, explanation, and collation of the manuscripts of the [[Tamhid fi bayan at-tawhid|*Tamhīd*]] of [[Abu Syakur as-Salimi|Abū Shakūr as-Sālimī]] — the principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]].
+**Professor Joseph Schacht** (1902–1969) — cited by [[P. Voorhoeve|Voorhoeve]] as **Prof. J. Schacht** — was a German-born Islamic scholar, one of the leading western scholars of Islamic law and of the manuscript traditions of Arabic scholastic literature. He is acknowledged by Voorhoeve in the introduction to the [[1955]] edition of Raniri's two Malay treatises for his guidance in the reading, explanation, and collation of the manuscripts of the [[Tamhid fi bayan at-tawhid|*Tamhīd*]] of [[Abu Syakur as-Salimi|Abū Shakūr as-Sālimī]] — the principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]].
 
 ## Guidance in the collation of the *Tamhīd*
 
@@ -51,7 +51,7 @@ Schacht's guidance in the collation of the *Tamhīd* is one of the principal cha
 - [[Abu Syakur as-Salimi]]
 - [[al-Hallaj]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Tibjan fi ma'rifat al-adyan]]
 

@@ -16,7 +16,7 @@ The strategic importance of the Oostkust van Atjeh derived from its position as 
 
 At the Medan meeting ([[14 January]] [[1914]]), Resident [[Van der Plas]] proposed that the Oostkust van Atjeh be combined with Langkat as "Langkat met de Oostkust van Atjeh" with a population of approximately 230,000. This proposal reflected the view that the eastern coast of Atjeh was more naturally aligned, in economic and geographic terms, with the Langkat sultanate than with the Acehnese highlands. The Langkat sultanate was one of the most prosperous of the east coast Malay states, with a thriving plantation economy and an established *zelfbestuur* under its Sultan. The addition of the Oostkust van Atjeh to Langkat would have created a substantial *afdeeling* with a coherent economic base in the plantation and trade economy of the Strait of Malacca littoral.
 
-However, at the Koeta-Radja meeting ([[19 January]]–[[20 January]] [[1914]]), the proposal was significantly modified. Rather than merging the entire Oostkust with Langkat, the revised plan merged the Oostkust with the [[Noordkust van Atjeh]] into "Noord- en Oostkust van Atjeh behalve Tamiang" (North and East Coast of Atjeh except Tamiang), with a combined population of 480,000. This modification reflected the input of Gouverneur [[H. N. N. A. Swart]] and other Atjeh-based officials who argued for the preservation of Atjeh's territorial integrity, at least in its northern and coastal core. The explicit exclusion of the *onderafdeeling* [[Tamiang]] from this combined *afdeeling*—and its proposed transfer to the Langkat division—represented a compromise: the border region of Tamiang, with its strong economic connections to the east coast plantation belt, would be administratively transferred, while the remainder of the Oostkust would remain under Atjeh's jurisdiction.
+However, at the Koeta-Radja meeting ([[19 January]]–[[20 January]] [[1914]]), the proposal was significantly modified. Rather than merging the entire Oostkust with Langkat, the revised plan merged the Oostkust with the [[Noordkust van Atjeh]] into "Noord- en Oostkust van Atjeh behalve Tamiang" (North and East Coast of Atjeh except Tamiang), with a combined population of 480,000. This modification reflected the input of Gouverneur [[H. N. A. Swart|H. N. N. A. Swart]] and other Atjeh-based officials who argued for the preservation of Atjeh's territorial integrity, at least in its northern and coastal core. The explicit exclusion of the *onderafdeeling* [[Tamiang]] from this combined *afdeeling*—and its proposed transfer to the Langkat division—represented a compromise: the border region of Tamiang, with its strong economic connections to the east coast plantation belt, would be administratively transferred, while the remainder of the Oostkust would remain under Atjeh's jurisdiction.
 
 ## Tamiang's Exclusion and Langsa's Fate
 
@@ -24,7 +24,7 @@ The decision to exclude [[Tamiang]] from the combined "Noord- en Oostkust van At
 
 ## See Also
 
-[[H. J. Krugers]], [[Noordkust van Atjeh]], [[Tamiang]], [[Langsa]], [[Atjeh-Sumatra's Oostkust merger proposal]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Van der Plas]], [[H. N. N. A. Swart]]
+[[H. J. Krugers]], [[Noordkust van Atjeh]], [[Tamiang]], [[Langsa]], [[Atjeh-Sumatra's Oostkust merger proposal]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Van der Plas]], [[H. N. A. Swart|H. N. N. A. Swart]]
 
 ## Source
 

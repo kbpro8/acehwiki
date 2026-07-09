@@ -4,7 +4,7 @@ aliases: [Chirkah, Ḥarakah, Harakah, Ḥaraka, Shamsuddin of Pasai's Chirkah, 
 tags: [document, religious-work, sufi-text, malay-literature, wujudiyyah, precolonial, 17th-century, aceh, mysticism]
 ---
 
-**The *Chirkah*** (or ***Ḥarakah***, as [[C.A.O. van Nieuwenhuijze|Van Nieuwenhuijze]] prefers to read it) is a Malay Sufi treatise by [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]], the pantheistic mystic who dominated the religious life of the court of [[Sultan Iskandar Muda|Iskandar Muda]] of [[Acheh]] until his death in [[1630]]. The work is named, together with the *[[Mir'at al-muhakkikin|Mirʾāt al-muḥaqqiqīn]]*, among the writings of Shamsuddin that [[Raniri|Nuruddin ar-Raniri]] cites and refutes in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] (pp. 108, 110–111 of the Voorhoeve facsimile).
+**The *Chirkah*** (or ***Ḥarakah***, as [[C.A.O. van Nieuwenhuijze|Van Nieuwenhuijze]] prefers to read it) is a Malay Sufi treatise by [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]], the pantheistic mystic who dominated the religious life of the court of [[Sultan Iskandar Muda|Iskandar Muda]] of [[Acheh]] until his death in [[1630]]. The work is named, together with the *[[Mir'at al-muhakkikin|Mirʾāt al-muḥaqqiqīn]]*, among the writings of Shamsuddin that [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]] cites and refutes in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] (pp. 108, 110–111 of the Voorhoeve facsimile).
 
 ## The reading of the title
 
@@ -34,7 +34,7 @@ The *Chirkah* is one of the principal surviving works of [[Shaikh Shamsuddin of 
 - [[Mir'at al-muhakkikin]]
 - [[P. Voorhoeve]]
 - [[Pasai]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's public debate against the Wujudiyyah in Acheh]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Sultan Iskandar Muda]]

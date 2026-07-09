@@ -4,7 +4,7 @@ aliases: [Gajoweg, Gajo-weg, Gayo Road, Aceh-Gayo road]
 tags: [place, road, aceh, colonial, infrastructure]
 ---
 
-**The Gajoweg** — the Gayo Road — is the military road in [[Atjeh|Aceh]] that begins at the bronze bust of [Heinzenknecht](/people/heinzenknecht) on the yard of the controller at [[Bireuën]] and runs 103 km south to [[Takengeun]] on Laut Tawar (the lake of Takengeun) in the [[Gajolanden|Gajolanden]]. The Gajoweg is the set-piece of the chapter *Jagerslatijn* in *[[Oost-Indisch Journael]]* by Merac ([[1947]]): its construction by [Heinzenknecht](/people/heinzenknecht) under [[Gouverneur-Generaal Van Heutsz|Van Heutsz]], the hurried laying-out of the route on military command with the klewang in a direct southerly direction, and the costly affair of its construction — is the book's set-piece of the colonial army's road-construction in Aceh.
+**The Gajoweg** — the Gayo Road — is the military road in [[Atjeh|Aceh]] that begins at the bronze bust of [Heinzenknecht](/people/heinzenknecht) on the yard of the controller at [[Bireuën]] and runs 103 km south to [[Takengeun]] on Laut Tawar (the lake of Takengeun) in the [[Gajolanden|Gajolanden]]. The Gajoweg is the set-piece of the chapter *Jagerslatijn* in *[[Oost-Indisch Journael]]* by Merac ([[1947]]): its construction by [Heinzenknecht](/people/heinzenknecht) under [[Joannes Benedictus van Heutsz|Van Heutsz]], the hurried laying-out of the route on military command with the klewang in a direct southerly direction, and the costly affair of its construction — is the book's set-piece of the colonial army's road-construction in Aceh.
 
 ## The Heinzenknecht bust
 
@@ -43,7 +43,7 @@ The Gajoweg is significant in *[[Oost-Indisch Journael]]* as the set-piece of th
 - [[Laut Tawar]]
 - [[Gajolanden]]
 - [Boerni-dit en Boer-ni-dat](/places/boerni-dit-en-boer-ni-dat)
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Datoek]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
 

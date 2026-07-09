@@ -4,7 +4,7 @@ aliases: [Atjeh-tram construction, the construction of the Atjeh-tramway, the bu
 tags: [event, infrastructure, tramway, colonial, dutch, aceh, buitenbezittingen, military, pacification, 19th-century, 20th-century]
 ---
 
-**The construction of the Atjeh-tram (1875–1914)** was the four-decade process by which the [[Atjeh-tram|Atjeh-tramway]] was built in successive phases — from the small military spoorbaantje of [[1875]] between [[Oelèe Lheuë]] and [[Kota Radja]] to the projected [[1913]] extensions toward [[Aroebai|Arube Bay]] and the [[Deli-Spoorweg-Maatschappij|Deli railway]] network. In the Encyclopaedisch Bureau's account, the construction of the Atjeh-tram is the principal material embodiment of the Dutch presence in [[Acheh|Atjeh]] from the [[1873]] outbreak of the [[Aceh War|Atjeh-war]] to the [[1914]] close of the [[1904]]–[[1914]] "decade of progress."
+**The construction of the Atjeh-tram (1875–1914)** was the four-decade process by which the [[Atjeh-tram|Atjeh-tramway]] was built in successive phases — from the small military spoorbaantje of [[1875]] between [[Oelèe Lheuë]] and [[Kota Radja]] to the projected [[1913]] extensions toward [[Aroebai|Arube Bay]] and the [[Deli Spoorweg Maatschappij|Deli railway]] network. In the Encyclopaedisch Bureau's account, the construction of the Atjeh-tram is the principal material embodiment of the Dutch presence in [[Acheh|Atjeh]] from the [[1873]] outbreak of the [[Aceh War|Atjeh-war]] to the [[1914]] close of the [[1904]]–[[1914]] "decade of progress."
 
 ## Account from *De Buitenbezittingen* (1917) — Construction of the Atjeh-tram (1875–1914)
 
@@ -20,7 +20,7 @@ In [[1891]] the management of the Atjeh lines reverted from the [[Departement de
 
 ### Phase III: The long line of conquest (1897–1908)
 
-In place of the dismantled belt-tramway, the long tramway of [[1897]] onward followed the Dutch extension of authority into the [[Atjeh's Onderhoorigheden|Atjeh Dependencies]], tying post after post of the ever-expanding military occupation to the command centre at [[Kota Radja]]. From [[1899]] onward, the construction of a second tramway in the [[Atjeh's Onderhoorigheden|Dependencies]] was also begun: between [[1899]] and [[1906]] the line was successively extended from [[Sigli]] to the harbour of [[Langsa]], with a western branch from [[Sigli]] over [[Padang Tidji]] to [[Keude Breue]] already built in [[1899]]. The [[1904]]–[[1908]] *berglijntje* from [[Keude Breue]] over the hills to [[Seulimeum]] then connected the second tramway of the [[Atjeh's Onderhoorigheden|Dependencies]] with the old tramway of [[Groot-Atjeh|Great Atjeh]] — the engineering keystone of the integrated network.
+In place of the dismantled belt-tramway, the long tramway of [[1897]] onward followed the Dutch extension of authority into the [[Atjeh's Onderhoorigheden|Atjeh Dependencies]], tying post after post of the ever-expanding military occupation to the command centre at [[Kota Radja]]. From [[1899]] onward, the construction of a second tramway in the [[Atjeh's Onderhoorigheden|Dependencies]] was also begun: between [[1899]] and [[1906]] the line was successively extended from [[Sigli]] to the harbour of [[Langsa]], with a western branch from [[Sigli]] over [[Padang Tiji|Padang Tidji]] to [[Keude Breue]] already built in [[1899]]. The [[1904]]–[[1908]] *berglijntje* from [[Keude Breue]] over the hills to [[Seulimeum]] then connected the second tramway of the [[Atjeh's Onderhoorigheden|Dependencies]] with the old tramway of [[Groot-Atjeh|Great Atjeh]] — the engineering keystone of the integrated network.
 
 ### Phase IV: Extension and economic reorientation (1910–1913)
 
@@ -28,7 +28,7 @@ The [[1910]]–[[1912]] extension of the second tramway from [[Langsa]] to [[Koe
 
 ### Phase V: The Aroe-baai-plannen and the deferral of the Deli junction (1913–1914)
 
-The [[1913]] Aroe-baai-plannen to develop [[Aroebai|Arube Bay]] as a deep-water harbour — and the parallel proposal for a direct [[Besitang]]–[[Tandjoeng Slamat]] junction with the [[Deli-Spoorweg-Maatschappij|Deli railway]] network — were deferred in [[1913]] in favour of a connection from [[Pangkalan Brandan]] to the Atjeh-tram. The [[1914]] outbreak of the European war then suspended further extension work.
+The [[1913]] Aroe-baai-plannen to develop [[Aroebai|Arube Bay]] as a deep-water harbour — and the parallel proposal for a direct [[Besitang]]–[[Tandjoeng Slamat]] junction with the [[Deli Spoorweg Maatschappij|Deli railway]] network — were deferred in [[1913]] in favour of a connection from [[Pangkalan Brandan]] to the Atjeh-tram. The [[1914]] outbreak of the European war then suspended further extension work.
 
 ## Statistical summary
 
@@ -61,7 +61,7 @@ The construction of the [[Atjeh-tram|Atjeh-tramway]] over the four decades [[187
 - [[Pangkalan Soesoe]]
 - [[Telok Taboeban]]
 - [[Tandjoeng Slamat]]
-- [[Deli-Spoorweg-Maatschappij]]
+- [[Deli Spoorweg Maatschappij|Deli-Spoorweg-Maatschappij]]
 - [[Departement van Oorlog]]
 - [[Departement der Burgerlijke Openbare Werken]]
 - [[1873]]

@@ -16,7 +16,7 @@ This situation, Snouck continues, "was the same, though on a very much smaller s
 
 The point of the comparison is that the caliph at Bagdad, like the Sultan of Acheh in the late period, had been stripped of effective temporal authority and survived chiefly as a source of legitimating acts; provincial dynasts nevertheless continued, well into the period of their independence, to seek from him the formal investiture which gave their rule a sacred colour. The Sultan of Acheh stood in much the same relation to his uleebalangs: his *sarakata* and his *chab sikureu'eng* remained indispensable as a form, even after the central power had so decayed that a new title-bearer would not report himself to the capital until the most influential men of his district had agreed on his appointment.
 
-Bagdad is thus in Vol. I a mirror held up to Acheh; its mention illuminates the institutional analogy between the Abbasid caliphate in its dotage and the Achehnese sultanate in the nineteenth century, when sultans such as [[Sultan Alaedin Muhamat Shah]], [[Sultan Mansur Shah]] and [[Tuanku Muhamat Dawot]] continued to grant seals and edicts to chiefs who had long since ceased to obey them.
+Bagdad is thus in Vol. I a mirror held up to Acheh; its mention illuminates the institutional analogy between the Abbasid caliphate in its dotage and the Achehnese sultanate in the nineteenth century, when sultans such as [[Sultan Alaedin Muhamat Shah]], [[Sultan Ibrahim Mansur Shah|Sultan Mansur Shah]] and [[Tuanku Muhamat Dawot]] continued to grant seals and edicts to chiefs who had long since ceased to obey them.
 
 ## See Also
 

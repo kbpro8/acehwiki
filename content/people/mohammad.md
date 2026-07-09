@@ -46,7 +46,7 @@ The name of Mohammad is invoked elsewhere in Vol. I in the prelude of the *sarak
 - [[Omar]]
 - [[Sarakata (royal edicts of Acheh)]]
 - [[Sayyid Abdurrahman Zahir]]
-- [[Sayyid Abu Bakar bin Husain Bil-Faqih]]
+- [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]]
 - [[Uthman]]
 
 ## Source
@@ -97,7 +97,7 @@ The name of Mohammad is invoked elsewhere in Vol. I in the prelude of the *sarak
 - [[Omar]]
 - [[Sarakata (royal edicts of Acheh)]]
 - [[Sayyid Abdurrahman Zahir]]
-- [[Sayyid Abu Bakar bin Husain Bil-Faqih]]
+- [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]]
 - [[Uthman]]
 
 ## Source

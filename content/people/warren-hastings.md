@@ -23,7 +23,7 @@ Warren Hastings's own share in the episode is slight — he is the recipient rat
 - [[Acheh]]
 - [[Acheh War]]
 - [[Penang]]
-- [[Raffles]]
+- [[Sir Thomas Stamford Raffles|Raffles]]
 - [[Sultan of Acheh's letter to Warren Hastings]]
 - [[Sultan Alauddin Muhammad Shah Jauhar]]
 - [[Sultan Ziemul Abudeen]]
@@ -53,7 +53,7 @@ The letter also relates the death of [[Captain Hobbs|Captain Hobbs]], who had be
 
 ## Significance in the Achehnese Tradition
 
-The incident is cited by Van der Kemp as evidence of the standing difficulty of European relations with Acheh, a difficulty that, in his reading, was the backdrop to the later British preference for [[Penang]] (settled at [[Treaty of Quedah (Penang cession, 1786)|the Quedah treaty of 1786]] by [[Captain Francis Light|Captain Francis Light]]) over Acheh itself, and ultimately to [[Sir Thomas Stamford Raffles|Raffles's]] [[Acheh treaty of 1819|Acheh treaty of 1819]]. The same year [[1786]] that produced Hastings's rebuff also produced Light's settlement at Penang, and thus the future seat of British political superintendence over Achehnese affairs.
+The incident is cited by Van der Kemp as evidence of the standing difficulty of European relations with Acheh, a difficulty that, in his reading, was the backdrop to the later British preference for [[Penang]] (settled at [[Treaty of Quedah (Penang cession, 1786)|the Quedah treaty of 1786]] by [[Captain Francis Light|Captain Francis Light]]) over Acheh itself, and ultimately to [[Sir Thomas Stamford Raffles|Raffles's]] [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]]. The same year [[1786]] that produced Hastings's rebuff also produced Light's settlement at Penang, and thus the future seat of British political superintendence over Achehnese affairs.
 ---
 
 
@@ -75,7 +75,7 @@ Warren Hastings's own share in the episode is slight — he is the recipient rat
 - [[Acheh]]
 - [[Acheh War]]
 - [[Penang]]
-- [[Raffles]]
+- [[Sir Thomas Stamford Raffles|Raffles]]
 - [[Sultan of Acheh's letter to Warren Hastings]]
 - [[Sultan Alauddin Muhammad Shah Jauhar]]
 - [[Sultan Ziemul Abudeen]]
@@ -105,4 +105,4 @@ The letter also relates the death of [[Captain Hobbs|Captain Hobbs]], who had be
 
 ## Significance in the Achehnese Tradition
 
-The incident is cited by Van der Kemp as evidence of the standing difficulty of European relations with Acheh, a difficulty that, in his reading, was the backdrop to the later British preference for [[Penang]] (settled at [[Treaty of Quedah (Penang cession, 1786)|the Quedah treaty of 1786]] by [[Captain Francis Light|Captain Francis Light]]) over Acheh itself, and ultimately to [[Sir Thomas Stamford Raffles|Raffles's]] [[Acheh treaty of 1819|Acheh treaty of 1819]]. The same year [[1786]] that produced Hastings's rebuff also produced Light's settlement at Penang, and thus the future seat of British political superintendence over Achehnese affairs.
+The incident is cited by Van der Kemp as evidence of the standing difficulty of European relations with Acheh, a difficulty that, in his reading, was the backdrop to the later British preference for [[Penang]] (settled at [[Treaty of Quedah (Penang cession, 1786)|the Quedah treaty of 1786]] by [[Captain Francis Light|Captain Francis Light]]) over Acheh itself, and ultimately to [[Sir Thomas Stamford Raffles|Raffles's]] [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]]. The same year [[1786]] that produced Hastings's rebuff also produced Light's settlement at Penang, and thus the future seat of British political superintendence over Achehnese affairs.

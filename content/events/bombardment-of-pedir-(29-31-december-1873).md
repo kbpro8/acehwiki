@@ -4,7 +4,7 @@ aliases: [Bombardement van Pedir, Bestraffing van Pedir, Punishment of Pedir, Es
 tags: [event, battle, naval, dutch-colonial, aceh-war]
 ---
 
-**The Bombardment of Pedir** on [[29 December|29]]-[[31 December]] [[1873]] was the punitive operation carried out by a Dutch squadron — consisting of the warships *Zeeland*, *Metalen Kruis*, *Citadel van Antwerpen*, *Borneo* and *Banda* — against the radja of [[Pedir|Pedir]] on the north coast of [[Acheh|Atjeh]], in punishment for his march with his men to the [[Kraton of Aceh|Kraton]] to help defend it against the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] of Lieutenant-general [[J. van Swieten|Van Swieten]]. The squadron was ordered to bombard the chief kampong and, if possible, to destroy it by a landing.
+**The Bombardment of Pedir** on [[29 December|29]]-[[31 December]] [[1873]] was the punitive operation carried out by a Dutch squadron — consisting of the warships *Zeeland*, *Metalen Kruis*, *Citadel van Antwerpen*, *Borneo* and *Banda* — against the radja of [[Pedir|Pedir]] on the north coast of [[Acheh|Atjeh]], in punishment for his march with his men to the [[Kraton of Aceh|Kraton]] to help defend it against the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] of Lieutenant-general [[Jan van Swieten|Van Swieten]]. The squadron was ordered to bombard the chief kampong and, if possible, to destroy it by a landing.
 
 ## Background
 
@@ -16,7 +16,7 @@ The bombardment of Pedir was part of the wider naval operations of the [[Second 
 
 ## See Also
 
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[Pedir]]
 - [[Toekoe di Tiroe]]
 - [[Segli]]

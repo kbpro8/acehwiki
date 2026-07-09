@@ -4,7 +4,7 @@ aliases: [Bezoek van Van Lansberge aan Atjeh, Van Lansberge's inspection of Atje
 tags: [event, diplomacy, inspection, dutch-colonial, aceh-war]
 ---
 
-**Van Lansberge's visit to Aceh** in [[March 1877|March-April 1877]] was the inspection of the theatre of war in [[Acheh|Atjeh]] by the Governor-General [[J. W. van Lansberge|Mr. J. W. van Lansberge]], who arrived at [[Oleh-leh|Oleh-leh]] on [[14 March]] [[14 March]] [[1877]] to inform himself personally of the situation and to decide what should next be done. The visit, coming four years after the beginning of the [[Aceh War|Atjeh-oorlog]], led to the abandonment of offensive operations, the reorganisation of the inland administration of the [[XXV Moekims|XXV Moekims]], and a policy of conciliation. With this visit the Atjeh War entered a new phase.
+**Van Lansberge's visit to Aceh** in [[March 1877|March-April 1877]] was the inspection of the theatre of war in [[Acheh|Atjeh]] by the Governor-General [[Johan Willem van Lansberge|Mr. J. W. van Lansberge]], who arrived at [[Oleh-leh|Oleh-leh]] on [[14 March]] [[14 March]] [[1877]] to inform himself personally of the situation and to decide what should next be done. The visit, coming four years after the beginning of the [[Aceh War|Atjeh-oorlog]], led to the abandonment of offensive operations, the reorganisation of the inland administration of the [[XXV Moekims|XXV Moekims]], and a policy of conciliation. With this visit the Atjeh War entered a new phase.
 
 ## Background
 
@@ -28,7 +28,7 @@ Van Lansberge's visit inaugurated the second phase of the [[Aceh War|Atjeh-oorlo
 
 ## See Also
 
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[K. van der Heyden]]
 - [[J. L. J. H. Pel]]
 - [[Oleh-leh]]

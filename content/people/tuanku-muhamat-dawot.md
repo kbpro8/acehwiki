@@ -5,7 +5,7 @@ aliases: [Tuanku Muhamat Dawot, Sultan Muhamat Dawot Shah, Sultan Alaedin Muhama
 tags: [person, sultan, pretender, 19th-century]
 ---
 
-**Tuanku Muhamat Dawot** — in full **Sultan Alaedin Muhamad Daud Shah Juhan**, also written **Sultan Muhamat Dawot Shah** — was the last pretender to the sultanate of [[Acheh]]. Proclaimed sultan as a child in [[1878]] (1296 H, as inscribed on his [[Sarakata with chab sikureu'eng|ninefold seal]]) on the death of [[Sultan Mahmut Shah|Sultan Mahmut Shah]] shortly after the [[Loss of the Dalam|loss of the Dalam]], he was raised under the guardianship of [[Tuanku Asem]] (Hashim) and maintained for more than two decades a wandering "court" at [[Keumala]] and elsewhere in Pidie territory. He finally submitted to the Dutch Government in the closing years of the [[Achehnese War|war]]. For his formal style and letters patent, see [[Sultan Alaedin Muhamad Daud Shah Juhan]].
+**Tuanku Muhamat Dawot** — in full **Sultan Alaedin Muhamad Daud Shah Juhan**, also written **Sultan Muhamat Dawot Shah** — was the last pretender to the sultanate of [[Acheh]]. Proclaimed sultan as a child in [[1878]] (1296 H, as inscribed on his [[Sarakata|ninefold seal]]) on the death of [[Sultan Mahmut Shah|Sultan Mahmut Shah]] shortly after the [[Loss of the Dalam|loss of the Dalam]], he was raised under the guardianship of [[Tuanku Asem]] (Hashim) and maintained for more than two decades a wandering "court" at [[Keumala]] and elsewhere in Pidie territory. He finally submitted to the Dutch Government in the closing years of the [[Achehnese War|war]]. For his formal style and letters patent, see [[Sultan Alaedin Muhamad Daud Shah Juhan]].
 
 ## Election as a child
 
@@ -40,7 +40,7 @@ The pretender to the sultanate was compelled, owing to a quarrel with the local 
 ---
 
 
-**Tuanku Muhamat Dawot** — in full **Sultan Alaedin Muhamad Daud Shah Juhan**, also written **Sultan Muhamat Dawot Shah** — was the last pretender to the sultanate of [[Acheh]]. Proclaimed sultan as a child in [[1878]] (1296 H, as inscribed on his [[Sarakata with chab sikureu'eng|ninefold seal]]) on the death of [[Sultan Mahmut Shah|Sultan Mahmut Shah]] shortly after the [[Loss of the Dalam|loss of the Dalam]], he was raised under the guardianship of [[Tuanku Asem]] (Hashim) and maintained for more than two decades a wandering "court" at [[Keumala]] and elsewhere in Pidie territory. He finally submitted to the Dutch Government in the closing years of the [[Achehnese War|war]]. For his formal style and letters patent, see [[Sultan Alaedin Muhamad Daud Shah Juhan]].
+**Tuanku Muhamat Dawot** — in full **Sultan Alaedin Muhamad Daud Shah Juhan**, also written **Sultan Muhamat Dawot Shah** — was the last pretender to the sultanate of [[Acheh]]. Proclaimed sultan as a child in [[1878]] (1296 H, as inscribed on his [[Sarakata|ninefold seal]]) on the death of [[Sultan Mahmut Shah|Sultan Mahmut Shah]] shortly after the [[Loss of the Dalam|loss of the Dalam]], he was raised under the guardianship of [[Tuanku Asem]] (Hashim) and maintained for more than two decades a wandering "court" at [[Keumala]] and elsewhere in Pidie territory. He finally submitted to the Dutch Government in the closing years of the [[Achehnese War|war]]. For his formal style and letters patent, see [[Sultan Alaedin Muhamad Daud Shah Juhan]].
 
 ## Election as a child
 

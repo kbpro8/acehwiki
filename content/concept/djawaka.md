@@ -16,7 +16,7 @@ The [[Kalang|Kalang's]] of Java — the people whom the [[Sadjarah Banten|Sadjar
 
 ## The Astina of Sumatra
 
-[[P. de Roo de la Faille|De Roo de la Faille]] further identifies the Djawaka with the ***Astina*** of the Javanese legend in [[Raffles|Raffles]]'s *History* — the realm of [[Djaja Baja|praboe Djaja-Baja]], whose name (*h-asti-na-ma*, "elephant") changed on the dynasty's extinction to *Enj°-* or *Guj'rat* — a *bedekte taal* form for the dead elephant-land of [[Bali-Atjé|Bali-Atjé]] on the Sumatran Overwal. The "elephants of war" that [[Vasco da Gama|Vasco da Gama]]'s *Roteiro* records for *Xarnauz* — "the king has 400 elephants of war" — De Roo de la Faille reads as confirmation of this identification.
+[[P. de Roo de la Faille|De Roo de la Faille]] further identifies the Djawaka with the ***Astina*** of the Javanese legend in [[Sir Thomas Stamford Raffles|Sir Thomas Stamford Raffles]]'s *History* — the realm of [[Djaja Baja|praboe Djaja-Baja]], whose name (*h-asti-na-ma*, "elephant") changed on the dynasty's extinction to *Enj°-* or *Guj'rat* — a *bedekte taal* form for the dead elephant-land of [[Bali-Atjé|Bali-Atjé]] on the Sumatran Overwal. The "elephants of war" that [[Vasco da Gama|Vasco da Gama]]'s *Roteiro* records for *Xarnauz* — "the king has 400 elephants of war" — De Roo de la Faille reads as confirmation of this identification.
 
 ## Decadence and the Atjehnese age
 

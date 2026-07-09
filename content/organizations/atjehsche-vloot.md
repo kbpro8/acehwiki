@@ -5,7 +5,7 @@ aliases: [Atjehsche vlot, Acehnese fleet, Atjeh fleet, Aceh fleet 1539, Fleet of
 tags: [organization, navy, atjehnese, achehnese, 16th-century, military]
 ---
 
-**The Atjehsche vloot** — the Atjehnese fleet, the [[Aceh Sultanate|Atjehnese sultanate]]'s principal instrument of sea-power — was the naval force by which, in [[1539]], the [[Sultan of Atjeh (16th century)|sultan of Atjeh]] projected his power across the [[Straits of Malacca|Strait of Malacca]] and brought the kingdom of [[Aroe]] to its fall. The fleet that descended on Aroe in October [[1539]] is the only Atjehnese fleet of the early sixteenth century whose size, commander, and operational purpose are recorded by a European eyewitness — [[Mendez Pinto]] — and it is thus the foundational naval organisation of the Atjehnese sultanate in Western record.
+**The Atjehsche vloot** — the Atjehnese fleet, the [[Aceh Sultanate|Atjehnese sultanate]]'s principal instrument of sea-power — was the naval force by which, in [[1539]], the [[Sultan of Acheh (16th century)|sultan of Atjeh]] projected his power across the [[Straits of Malacca|Strait of Malacca]] and brought the kingdom of [[Aroe]] to its fall. The fleet that descended on Aroe in October [[1539]] is the only Atjehnese fleet of the early sixteenth century whose size, commander, and operational purpose are recorded by a European eyewitness — [[Mendez Pinto]] — and it is thus the foundational naval organisation of the Atjehnese sultanate in Western record.
 
 ## The fleet of 1539
 
@@ -27,7 +27,7 @@ For AcehWiki, the Atjehsche vloot of [[1539]] is the foundational naval organisa
 
 - [[Atjeh-Aroe War (1539)]]
 - [[Alleredin Mahomet]]
-- [[Sultan of Atjeh (16th century)]]
+- [[Sultan of Acheh (16th century)|Sultan of Atjeh (16th century)]]
 - [[Mendez Pinto]]
 - [[Aroe]]
 - [[Aroe-baai]]
@@ -43,7 +43,7 @@ For AcehWiki, the Atjehsche vloot of [[1539]] is the foundational naval organisa
 ---
 
 
-**The Atjehsche vloot** — the Atjehnese fleet, the [[Aceh Sultanate|Atjehnese sultanate]]'s principal instrument of sea-power — was the naval force by which, in [[1539]], the [[Sultan of Atjeh (16th century)|sultan of Atjeh]] projected his power across the [[Straits of Malacca|Strait of Malacca]] and brought the kingdom of [[Aroe]] to its fall. The fleet that descended on Aroe in October [[1539]] is the only Atjehnese fleet of the early sixteenth century whose size, commander, and operational purpose are recorded by a European eyewitness — [[Mendez Pinto]] — and it is thus the foundational naval organisation of the Atjehnese sultanate in Western record.
+**The Atjehsche vloot** — the Atjehnese fleet, the [[Aceh Sultanate|Atjehnese sultanate]]'s principal instrument of sea-power — was the naval force by which, in [[1539]], the [[Sultan of Acheh (16th century)|sultan of Atjeh]] projected his power across the [[Straits of Malacca|Strait of Malacca]] and brought the kingdom of [[Aroe]] to its fall. The fleet that descended on Aroe in October [[1539]] is the only Atjehnese fleet of the early sixteenth century whose size, commander, and operational purpose are recorded by a European eyewitness — [[Mendez Pinto]] — and it is thus the foundational naval organisation of the Atjehnese sultanate in Western record.
 
 ## The fleet of 1539
 
@@ -65,7 +65,7 @@ For AcehWiki, the Atjehsche vloot of [[1539]] is the foundational naval organisa
 
 - [[Atjeh-Aroe War (1539)]]
 - [[Alleredin Mahomet]]
-- [[Sultan of Atjeh (16th century)]]
+- [[Sultan of Acheh (16th century)|Sultan of Atjeh (16th century)]]
 - [[Mendez Pinto]]
 - [[Aroe]]
 - [[Aroe-baai]]

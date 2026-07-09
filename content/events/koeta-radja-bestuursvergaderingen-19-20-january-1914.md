@@ -10,7 +10,7 @@ tags: [event, meeting, koeta-radja, atjeh, bestuursreorganisatie, 1914, januari]
 
 The meetings were attended by the following officials, representing every level of the Atjeh administrative hierarchy:
 
-- **[[H. N. N. A. Swart]]** — Luitenant-Generaal der Infanterie, Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden (presiding host)
+- **[[H. N. A. Swart|H. N. N. A. Swart]]** — Luitenant-Generaal der Infanterie, Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden (presiding host)
 - **[[S. de Graaff]]** — Regeeringscommissaris voor de reorganisatie van het Bestuurswezen (chairing the consultations)
 - **[[J. de Groot]]** — Hoofdambtenaar voor de reorganisatie van het Bestuurswezen
 - **[[C. Lulofs]]** — Waarnemend Adviseur voor de bestuurszaken der Buitenbezittingen
@@ -31,7 +31,7 @@ The presence of all four Assistent-Residenten (covering the four *afdeelingen* o
 
 ## First Meeting (19 January 1914, Evening)
 
-The first meeting opened with Regeeringscommissaris [[S. de Graaff]] explaining the principles of *decentralisatie* and *zelfbestuur* that underlay the proposed reform. The critical moment came when Gouverneur [[H. N. N. A. Swart]] declared that for the Gouvernement Atjeh en Onderhoorigheden, the usual form of local *bestuur* (autonome lichamen / autonomous bodies) could NOT apply, because only [[Groot-Atjeh]] and part of the onderafdeeling [[Singkel]] were *rechtstreeks bestuurd gebied* (directly ruled territory), while the rest consisted of Inlandsche Zelfbesturen (Native Self-Governments / *landschappen*). This declaration was the decisive intervention of the entire Koeta-Radja consultation, as it established the fundamental constraint that would shape all subsequent decisions about Atjeh's governance future. De Graaff concluded that for Atjeh, only [[Gewestelijk Zelfbestuur]] (Regional Self-Governance) was feasible—the transfer of certain branches of *algemeen burgerlijk bestuur* (general civil administration) to lower organs at the gewest level, rather than the creation of autonomous local bodies.
+The first meeting opened with Regeeringscommissaris [[S. de Graaff]] explaining the principles of *decentralisatie* and *zelfbestuur* that underlay the proposed reform. The critical moment came when Gouverneur [[H. N. A. Swart|H. N. N. A. Swart]] declared that for the Gouvernement Atjeh en Onderhoorigheden, the usual form of local *bestuur* (autonome lichamen / autonomous bodies) could NOT apply, because only [[Groot-Atjeh]] and part of the onderafdeeling [[Singkel]] were *rechtstreeks bestuurd gebied* (directly ruled territory), while the rest consisted of Inlandsche Zelfbesturen (Native Self-Governments / *landschappen*). This declaration was the decisive intervention of the entire Koeta-Radja consultation, as it established the fundamental constraint that would shape all subsequent decisions about Atjeh's governance future. De Graaff concluded that for Atjeh, only [[Gewestelijk Zelfbestuur]] (Regional Self-Governance) was feasible—the transfer of certain branches of *algemeen burgerlijk bestuur* (general civil administration) to lower organs at the gewest level, rather than the creation of autonomous local bodies.
 
 When De Graaff asked what indigenous institutions existed in Atjeh comparable to Palembang's *marga's*, Gouverneur Swart provided a detailed explanation of the [[sagi]] system in Groot-Atjeh. He described three *sagi*'s as more or less comparable to Javanese *regentschappen*, the [[peleebalangschap]]pen as somewhat comparable to *districten*, and the [[moekimschap]]pen as comparable to *onderdistricten*. This systematic analogy with the well-known Javanese hierarchy allowed the reform commission to understand Atjeh's indigenous governance structure in terms they could relate to their broader reform framework.
 
@@ -55,7 +55,7 @@ The Koeta-Radja bestuursvergaderingen are among the most important documentary s
 
 ## See Also
 
-- [[H. N. N. A. Swart]]
+- [[H. N. A. Swart|H. N. N. A. Swart]]
 - [[S. de Graaff]]
 - [[Koeta-Radja]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]

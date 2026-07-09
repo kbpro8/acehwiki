@@ -4,11 +4,11 @@ aliases: [Bahasa Jawi, Bahasa Yawi, Bahasa Djawi, Jawi language, Malay of the Ac
 tags: [concept, language, malay, literary-language, precolonial, 17th-century, aceh, gujarat]
 ---
 
-**Bahasa Djawi** ("the Jawi language") is the name given in the religious literature of [[Acheh]] and of the wider Malay-Indonesian world to the Malay language in its written, literary form — the language of the court, of religious scholarship, and of the *kitab*. It was the language in which [[Raniri|Nūruddīn ar-Rānīrī]] composed his Malay treatises, the language in which the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] and the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]] were written, and the language that Raniri knew — as [[P. Voorhoeve|Voorhoeve]] records — before he ever set foot in [[Acheh]] in [[1637]].
+**Bahasa Djawi** ("the Jawi language") is the name given in the religious literature of [[Acheh]] and of the wider Malay-Indonesian world to the Malay language in its written, literary form — the language of the court, of religious scholarship, and of the *kitab*. It was the language in which [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] composed his Malay treatises, the language in which the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] and the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]] were written, and the language that Raniri knew — as [[P. Voorhoeve|Voorhoeve]] records — before he ever set foot in [[Acheh]] in [[1637]].
 
 ## The term
 
-The term *Djawi* (modern *Jawi*) is, in its widest sense, a designation for the Malay of the Muslim Malay-Indonesian world, written in the Arabic-based *Jawi* script and used as the lingua franca of religion, commerce, and diplomacy from the harbours of [[Gudjarat|Gujarat]] to the Straits of Malacca and the Spice Islands. In the narrower sense in which [[Raniri]] uses the term — the *bahasa Djawi* of the Achehnese court — it designates the specific literary Malay that was the language of the court of [[Sultan Iskandar Muda|Iskandar Muda]] and his successors, and that served as the vehicle for the production of Malay religious prose in the golden age and the orthodox reaction of the seventeenth century.
+The term *Djawi* (modern *Jawi*) is, in its widest sense, a designation for the Malay of the Muslim Malay-Indonesian world, written in the Arabic-based *Jawi* script and used as the lingua franca of religion, commerce, and diplomacy from the harbours of [[Gudjarat|Gujarat]] to the Straits of Malacca and the Spice Islands. In the narrower sense in which [[Nur al-Din al-Raniri|Raniri]] uses the term — the *bahasa Djawi* of the Achehnese court — it designates the specific literary Malay that was the language of the court of [[Sultan Iskandar Muda|Iskandar Muda]] and his successors, and that served as the vehicle for the production of Malay religious prose in the golden age and the orthodox reaction of the seventeenth century.
 
 ## Bahasa Djawi in Gujarat
 
@@ -28,7 +28,7 @@ A remarkable trace of the *bahasa Djawi* in the religious literature of Acheh is
 
 ## Significance
 
-The *bahasa Djawi* of the Achehnese court is the language of the golden age of Achehnese letters — the language of [[Hamzah Pansuri]]'s [[Asrar al-'arifin|*Asrār al-ʿārifīn*]] and [[Kitab al-Muntahi|*Kitāb al-Muntahī*]], of [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]]'s [[Mir'at al-muhakkikin|*Mirʾāt al-muḥaqqiqīn*]] and [[Chirkah|*Chirkah*]], and of [[Raniri]]'s [[Tibjan fi ma'rifat al-adyan|*Tibjān*]], [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]], [[Sirat al-mustaqim|*Ṣirāṭ al-mustaqīm*]], and [[Bustan al-Salatin|*Bustān as-Salāṭīn*]]. It is also the language by which the scholastic apparatus of Arabic and Persian Islam was transmitted to the Malay-Indonesian world: Raniri's Malay translations from the [[Tamhid fi bayan at-tawhid|*Tamhīd*]] of [[Abu Syakur as-Salimi|as-Sālimī]], the [[al-Insan al-Kamil|*al-Insān al-kāmil*]] of [[Abd al-Karim al-Jili|al-Jīlī]], and the [[Ma'rifat al-madhahib|*Maʿrifat al-madhāhib*]] are among the principal vehicles of this transmission.
+The *bahasa Djawi* of the Achehnese court is the language of the golden age of Achehnese letters — the language of [[Hamzah Pansuri]]'s [[Asrar al-'arifin|*Asrār al-ʿārifīn*]] and [[Kitab al-Muntahi|*Kitāb al-Muntahī*]], of [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]]'s [[Mir'at al-muhakkikin|*Mirʾāt al-muḥaqqiqīn*]] and [[Chirkah|*Chirkah*]], and of [[Nur al-Din al-Raniri|Raniri]]'s [[Tibjan fi ma'rifat al-adyan|*Tibjān*]], [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]], [[Sirat al-Mustaqim|*Ṣirāṭ al-mustaqīm*]], and [[Bustan al-Salatin|*Bustān as-Salāṭīn*]]. It is also the language by which the scholastic apparatus of Arabic and Persian Islam was transmitted to the Malay-Indonesian world: Raniri's Malay translations from the [[Tamhid fi bayan at-tawhid|*Tamhīd*]] of [[Abu Syakur as-Salimi|as-Sālimī]], the [[al-Insan al-Kamil|*al-Insān al-kāmil*]] of [[Abd al-Karim al-Jili|al-Jīlī]], and the [[Ma'rifat al-madhahib|*Maʿrifat al-madhāhib*]] are among the principal vehicles of this transmission.
 
 ## See Also
 
@@ -44,9 +44,9 @@ The *bahasa Djawi* of the Achehnese court is the language of the golden age of A
 - [[Mir'at al-muhakkikin]]
 - [[P. Voorhoeve]]
 - [[Pasai]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's arrival in Acheh (1637)]]
-- [[Sirat al-mustaqim]]
+- [[Sirat al-Mustaqim|Sirat al-mustaqim]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
 ## Source

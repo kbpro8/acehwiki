@@ -5,11 +5,11 @@ aliases: [W. H. J. Keuchenius, Keuchenius of Aceh, Keuchenius (Aceh)]
 tags: [person, aceh, 1896, 1905, colonial-policy, dutch]
 ---
 
-**W. H. J. Keuchenius** was a Dutch colonial commentator who, in April [[1896]], published a series of essays — the *[[Atjeh-opstellen]]* — publicly analysing the situation in [[Aceh]] and endorsing the campaign led by [[J. B. van Heutsz]], and who, nine years later, addressed a long letter (dated [[1905]]) to Van Heutsz — by then Governor-General of [[Nederlandsch-Indië|Netherlands India]] — invoking the "brilliant outcome" of the Aceh campaign as a precedent for the "decisive actions" he believed were needed to solve the colony's broader economic crises. Keuchenius's writings are the principal source connecting the rhetoric of Aceh's military pacification to a wider programme of colonial economic reform.
+**W. H. J. Keuchenius** was a Dutch colonial commentator who, in April [[1896]], published a series of essays — the *[[Atjeh-opstellen]]* — publicly analysing the situation in [[Aceh]] and endorsing the campaign led by [[Joannes Benedictus van Heutsz|J. B. van Heutsz]], and who, nine years later, addressed a long letter (dated [[1905]]) to Van Heutsz — by then Governor-General of [[Nederlandsch-Indië|Netherlands India]] — invoking the "brilliant outcome" of the Aceh campaign as a precedent for the "decisive actions" he believed were needed to solve the colony's broader economic crises. Keuchenius's writings are the principal source connecting the rhetoric of Aceh's military pacification to a wider programme of colonial economic reform.
 
 ## The 1896 Atjeh-opstellen
 
-Keuchenius published his *[[Atjeh-opstellen]]* in April [[1896]], the same month in which Lieutenant-Colonel [[J. B. van Heutsz]] was transferred to Aceh to take command of the campaign there. In these essays Keuchenius identified a "light-point" emerging on the Aceh horizon — a "fresh awakening in a clear morning." He argued that after numerous failed experiments, the only remaining option for [[Submission of Aceh|bringing Aceh to submission]] was "*[[Kracht van wapenen|kracht van wapenen]]*" (force of arms), and that Van Heutsz was the man designated for the task, having shown through word and deed that he knew and fathomed the situation in Aceh.
+Keuchenius published his *[[Atjeh-opstellen]]* in April [[1896]], the same month in which Lieutenant-Colonel [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] was transferred to Aceh to take command of the campaign there. In these essays Keuchenius identified a "light-point" emerging on the Aceh horizon — a "fresh awakening in a clear morning." He argued that after numerous failed experiments, the only remaining option for [[Submission of Aceh|bringing Aceh to submission]] was "*[[Kracht van wapenen|kracht van wapenen]]*" (force of arms), and that Van Heutsz was the man designated for the task, having shown through word and deed that he knew and fathomed the situation in Aceh.
 
 ## The 1905 letter to Van Heutsz
 
@@ -28,8 +28,8 @@ Keuchenius's writings are a clear example of how the resolution of the Aceh War 
 - [[Atjeh-opstellen]]
 - [[Kracht van wapenen]]
 - [[Submission of Aceh]]
-- [[J. B. van Heutsz]]
-- [[Van Heutsz's governorship]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz's governorship]]
 - [[Aceh War]]
 - [[Nederlandsch-Indië]]
 - [[Aceh]]
@@ -41,11 +41,11 @@ Keuchenius's writings are a clear example of how the resolution of the Aceh War 
 ---
 
 
-**W. H. J. Keuchenius** was a Dutch colonial commentator who, in April [[1896]], published a series of essays — the *[[Atjeh-opstellen]]* — publicly analysing the situation in [[Aceh]] and endorsing the campaign led by [[J. B. van Heutsz]], and who, nine years later, addressed a long letter (dated [[1905]]) to Van Heutsz — by then Governor-General of [[Nederlandsch-Indië|Netherlands India]] — invoking the "brilliant outcome" of the Aceh campaign as a precedent for the "decisive actions" he believed were needed to solve the colony's broader economic crises. Keuchenius's writings are the principal source connecting the rhetoric of Aceh's military pacification to a wider programme of colonial economic reform.
+**W. H. J. Keuchenius** was a Dutch colonial commentator who, in April [[1896]], published a series of essays — the *[[Atjeh-opstellen]]* — publicly analysing the situation in [[Aceh]] and endorsing the campaign led by [[Joannes Benedictus van Heutsz|J. B. van Heutsz]], and who, nine years later, addressed a long letter (dated [[1905]]) to Van Heutsz — by then Governor-General of [[Nederlandsch-Indië|Netherlands India]] — invoking the "brilliant outcome" of the Aceh campaign as a precedent for the "decisive actions" he believed were needed to solve the colony's broader economic crises. Keuchenius's writings are the principal source connecting the rhetoric of Aceh's military pacification to a wider programme of colonial economic reform.
 
 ## The 1896 Atjeh-opstellen
 
-Keuchenius published his *[[Atjeh-opstellen]]* in April [[1896]], the same month in which Lieutenant-Colonel [[J. B. van Heutsz]] was transferred to Aceh to take command of the campaign there. In these essays Keuchenius identified a "light-point" emerging on the Aceh horizon — a "fresh awakening in a clear morning." He argued that after numerous failed experiments, the only remaining option for [[Submission of Aceh|bringing Aceh to submission]] was "*[[Kracht van wapenen|kracht van wapenen]]*" (force of arms), and that Van Heutsz was the man designated for the task, having shown through word and deed that he knew and fathomed the situation in Aceh.
+Keuchenius published his *[[Atjeh-opstellen]]* in April [[1896]], the same month in which Lieutenant-Colonel [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] was transferred to Aceh to take command of the campaign there. In these essays Keuchenius identified a "light-point" emerging on the Aceh horizon — a "fresh awakening in a clear morning." He argued that after numerous failed experiments, the only remaining option for [[Submission of Aceh|bringing Aceh to submission]] was "*[[Kracht van wapenen|kracht van wapenen]]*" (force of arms), and that Van Heutsz was the man designated for the task, having shown through word and deed that he knew and fathomed the situation in Aceh.
 
 ## The 1905 letter to Van Heutsz
 
@@ -64,8 +64,8 @@ Keuchenius's writings are a clear example of how the resolution of the Aceh War 
 - [[Atjeh-opstellen]]
 - [[Kracht van wapenen]]
 - [[Submission of Aceh]]
-- [[J. B. van Heutsz]]
-- [[Van Heutsz's governorship]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz's governorship]]
 - [[Aceh War]]
 - [[Nederlandsch-Indië]]
 - [[Aceh]]

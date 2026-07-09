@@ -5,7 +5,7 @@ tags: [concept, event, colonial, achehnese, war, pacification, military, politic
 description: The pacification of Atjeh refers to the eventual subjugation of the Achehnese sultanate by Dutch military and political means, a process that began with the first expedition of 1873 and was completed under Governor Van Heutsz. It was commemorated by the Atjeh Monument in Weltevreden and the Peutjot Cemetery near Kota Radja.
 ---
 
-The **pacification of Aceh** (Dutch: *De pacificatie van Atjeh*) refers to the transition from military conquest to stable colonial governance in [[Acheh|Atjèh]] (Aceh) — the eventual subjugation of the Achehnese sultanate by Dutch military and political means, beginning with the first Dutch expedition to Atjeh in [[1873]] and carried through to completion under [[J. B. van Heutsz|J. B. van Heutsz]] ([[1898]]–[[1904]]) and his subsequent tenure as Governor-General ([[1904]]–[[1909]]). The process involved a combination of military pressure, political co-optation of local chiefs, and economic development, built on the fundamental principle that the indigenous leadership — particularly the *oelèëbalangs* — should be supported and guided rather than suppressed. This principle was advised by [[Snouck Hurgronje|Snouck Hurgronje]] and subsequently broken by [[G. C. E. van Daalen|Van Daalen]], whose deviation triggered the [[Atjéh-enquête|Atjéh-enquête]] and his removal. It was commemorated in the colonial capital by the [[Atjeh Monument]] in the Wilhelminapark at [[Weltevreden]], and on the battlefield itself by the [[Peutjot Cemetery|cemetery at Peutjot]] near [[Kota Radja]].
+The **pacification of Aceh** (Dutch: *De pacificatie van Atjeh*) refers to the transition from military conquest to stable colonial governance in [[Acheh|Atjèh]] (Aceh) — the eventual subjugation of the Achehnese sultanate by Dutch military and political means, beginning with the first Dutch expedition to Atjeh in [[1873]] and carried through to completion under [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] ([[1898]]–[[1904]]) and his subsequent tenure as Governor-General ([[1904]]–[[1909]]). The process involved a combination of military pressure, political co-optation of local chiefs, and economic development, built on the fundamental principle that the indigenous leadership — particularly the *oelèëbalangs* — should be supported and guided rather than suppressed. This principle was advised by [[C. Snouck Hurgronje|C. Snouck Hurgronje]] and subsequently broken by [[Gotfried Coenraad Ernst van Daalen|Van Daalen]], whose deviation triggered the [[Atjéh-enquête|Atjéh-enquête]] and his removal. It was commemorated in the colonial capital by the [[Atjeh Monument]] in the Wilhelminapark at [[Weltevreden]], and on the battlefield itself by the [[Peutjot Cemetery|cemetery at Peutjot]] near [[Kota Radja]].
 
 ## The Van Heutsz system
 
@@ -29,7 +29,7 @@ The last major military operation of the pacification was the [[Gajoland|Gajo]]-
 
 ## The Van Daalen deviation and its correction
 
-The pacification policy was severely tested during the governorship of [[G. C. E. van Daalen|G. C. E. van Daalen]] ([[1905]]–[[1908]]), who abandoned the conciliatory approach in favour of punishment and coercion — arbitrary fines, internment of chiefs and their families at [[Sabang]], dismissal of *oelèëbalangs* without replacement, and general contempt for local institutions. His deviation produced the *vrij hevige opflikkering van het verzet* (fairly fierce flare-up of resistance) of [[1907]] and [[1908]] and triggered the [[Atjéh-enquête|Atjéh-enquête]] of 1907–1908. The return of [[H. N. A. Swart|H. N. A. Swart]] to the governorship in 1908 restored the original policy. Swart's *verzoenende en vertrouwenwekkende politiek* — conciliatory and confidence-building policy — drew the chiefs who had been held down by force "steeds meer ook uit overtuiging aan onze zijde" (ever more, from conviction, to the Dutch side) and inaugurated the *periode van rust* that allowed the economic and administrative development documented in *De Buitenbezittingen*.
+The pacification policy was severely tested during the governorship of [[Gotfried Coenraad Ernst van Daalen|Gotfried Coenraad Ernst van Daalen]] ([[1905]]–[[1908]]), who abandoned the conciliatory approach in favour of punishment and coercion — arbitrary fines, internment of chiefs and their families at [[Sabang]], dismissal of *oelèëbalangs* without replacement, and general contempt for local institutions. His deviation produced the *vrij hevige opflikkering van het verzet* (fairly fierce flare-up of resistance) of [[1907]] and [[1908]] and triggered the [[Atjéh-enquête|Atjéh-enquête]] of 1907–1908. The return of [[H. N. A. Swart|H. N. A. Swart]] to the governorship in 1908 restored the original policy. Swart's *verzoenende en vertrouwenwekkende politiek* — conciliatory and confidence-building policy — drew the chiefs who had been held down by force "steeds meer ook uit overtuiging aan onze zijde" (ever more, from conviction, to the Dutch side) and inaugurated the *periode van rust* that allowed the economic and administrative development documented in *De Buitenbezittingen*.
 
 ## Results
 
@@ -55,14 +55,14 @@ The pacification of Aceh was a turning point in Dutch colonial history. It demon
 
 ## See Also
 
-- [[J. B. van Heutsz]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[Governor Van der Heyden]]
-- [[G. C. E. van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[H. N. A. Swart]]
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [[C. Snouck Hurgronje]]
-- [[H. Colijn]]
+- [[Hendrikus Colijn|H. Colijn]]
 - [[Atjéh-enquête]]
 - [[Korte Verklaring]]
 - [[Aceh War]]

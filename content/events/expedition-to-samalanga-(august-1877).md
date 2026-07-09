@@ -4,7 +4,7 @@ aliases: [Expeditie naar Samalanga, Samalanga Campaign 1877, Van der Heyden's Ex
 tags: [event, war, military, dutch-colonial, aceh-war]
 ---
 
-**The Expedition to Samalanga** of [[10 August]] [[1877]] – [[21 August]] [[1877]] was the Dutch military expedition against the coast-state of [[Samalanga|Samalanga]] on the north coast of [[Acheh|Atjeh]], led personally by Colonel [[K. van der Heyden|K. van der Heyden]], who was at the time charged provisionally with the civil and military government of Atjeh during the illness of [[A. J. E. Diemont|General Diemont]]. The expedition — undertaken because the radja of Samalanga still refused submission and with his people fought the Dutch in Great Acheh — culminated in the storming of the fortified mosque of [[Temoelit|Temoelit]] on [[26 August]] [[1877]], during which Van der Heyden was struck in the left eye by an enemy bullet, an injury that gave him the epithet "the one-eyed general" in the [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]]. The submission of the radjas of Samalanga and Merdoe followed, and on [[13 October]] [[1877]] and [[20 October]] [[1877]] the Dutch flag was hoisted at Samalanga and Merdoe.
+**The Expedition to Samalanga** of [[10 August]] [[1877]] – [[21 August]] [[1877]] was the Dutch military expedition against the coast-state of [[Samalanga|Samalanga]] on the north coast of [[Acheh|Atjeh]], led personally by Colonel [[K. van der Heyden|K. van der Heyden]], who was at the time charged provisionally with the civil and military government of Atjeh during the illness of [[A. J. E. Diemont|General Diemont]]. The expedition — undertaken because the radja of Samalanga still refused submission and with his people fought the Dutch in Great Acheh — culminated in the storming of the fortified mosque of [[Temoelit|Temoelit]] on [[26 August]] [[1877]], during which Van der Heyden was struck in the left eye by an enemy bullet, an injury that gave him the epithet "the one-eyed general" in the [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]]. The submission of the radjas of Samalanga and Merdoe followed, and on [[13 October]] [[1877]] and [[20 October]] [[1877]] the Dutch flag was hoisted at Samalanga and Merdoe.
 
 ## Background
 
@@ -36,7 +36,7 @@ The next morning, as the troops again set out, envoys of the radja came to negot
 
 ## Significance
 
-The expedition to Samalanga made a good impression both in the [[Onderhoorigheden|Onderhoorigheden]] and in Great Acheh itself; but the resistance of the enemy was not yet broken, and the beginning of [[1878]] seemed to give the signal for a revival of hostilities, both in some of the Onderhoorigheden and in Atjeh itself. The injury to Van der Heyden's eye gave him the epithet "the one-eyed general" in the [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]], where the epos reports: "When the one-eyed king was gone, the rest ended." By Indies decree of [[15 January]] [[1878]] Van der Heyden was appointed governor of Atjeh and Onderhoorigheden.
+The expedition to Samalanga made a good impression both in the [[Onderhoorigheden|Onderhoorigheden]] and in Great Acheh itself; but the resistance of the enemy was not yet broken, and the beginning of [[1878]] seemed to give the signal for a revival of hostilities, both in some of the Onderhoorigheden and in Atjeh itself. The injury to Van der Heyden's eye gave him the epithet "the one-eyed general" in the [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]], where the epos reports: "When the one-eyed king was gone, the rest ended." By Indies decree of [[15 January]] [[1878]] Van der Heyden was appointed governor of Atjeh and Onderhoorigheden.
 
 ## See Also
 
@@ -51,7 +51,7 @@ The expedition to Samalanga made a good impression both in the [[Onderhoorighede
 - [[Tangsoer]]
 - [[Merdoe]]
 - [[Oleh-leh]]
-- [[Hikajat prang Kompeuni]]
+- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
 - [[Aceh War]]
 
 ## Source

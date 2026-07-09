@@ -18,7 +18,7 @@ The second and third paragraphs contain the political sting. Fullerton suggested
 
 ## Significance
 
-The circular is one of the foundational documents of the British [[Paper war|paper war]] against Dutch supremacy on Sumatra. By offering the East Coast chiefs free trade with Malacca and by protesting against Dutiable exactions on British traders, Fullerton was in effect inviting them to look to the British settlements rather than to [[Batavia|Batavia]] for their commercial relations, and was contesting the Dutch claim — embodied in Article 9 of the [[Anglo-Dutch Treaty of London (1824)|Treaty of 1824]] — to exclusive political relations with the chiefs of Sumatra. Van der Kemp introduces the circular as part of the "broad Siak-correspondence of the year 1828," by which, after the [[Anglo-Dutch Treaty of London (1824)|Treaty of 1824]], the British government at Penang sought to maintain a watchful supervision over the affairs of the Sumatran states and ultimately to deny the Dutch right to the whole island.
+The circular is one of the foundational documents of the British [[Paper war|paper war]] against Dutch supremacy on Sumatra. By offering the East Coast chiefs free trade with Malacca and by protesting against Dutiable exactions on British traders, Fullerton was in effect inviting them to look to the British settlements rather than to [[Batavia|Batavia]] for their commercial relations, and was contesting the Dutch claim — embodied in Article 9 of the [[Anglo-Dutch Treaty of 1824|Treaty of 1824]] — to exclusive political relations with the chiefs of Sumatra. Van der Kemp introduces the circular as part of the "broad Siak-correspondence of the year 1828," by which, after the [[Anglo-Dutch Treaty of 1824|Treaty of 1824]], the British government at Penang sought to maintain a watchful supervision over the affairs of the Sumatran states and ultimately to deny the Dutch right to the whole island.
 
 ## See Also
 
@@ -30,7 +30,7 @@ The circular is one of the foundational documents of the British [[Paper war|pap
 - [[John Prince]]
 - [[Du Bus]]
 - [[John Anderson]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Siak]]
 - [[Malacca]]
 - [[Sumatra's East Coast]]

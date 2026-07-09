@@ -29,7 +29,7 @@ The atlas places the Atjehers in the Malay racial group (*Maleische ras*) which 
 ## See Also
 
 - [[North Sumatra]]
-- [[Islam in Atjeh]]
+- [[Islam in Aceh|Islam in Atjeh]]
 - [[Acheh]]
 - [[Atjeh Dress]]
 - [[Seat of an Atjeh Noble]]

@@ -3,7 +3,7 @@ title: Sergeant Rood
 aliases: [Sergeant der mariniers Rood]
 tags: [person, military, marine, colonial, 1873, aceh]
 ---
-**Sergeant Rood** was a non‑commissioned officer of the [[Dutch Marine Corps|Korps Mariniers]] who was killed by enemy fire during the first heavy engagement at the **Mesigit** on [[10 April]] [[1873]]. His death is recorded in the marine after‑action reports of [[C. J. Visser]] and highlighted the intensity of Acehnese resistance.
+**Sergeant Rood** was a non‑commissioned officer of the [[Royal Netherlands Marine Corps|Korps Mariniers]] who was killed by enemy fire during the first heavy engagement at the **Mesigit** on [[10 April]] [[1873]]. His death is recorded in the marine after‑action reports of [[C. J. Visser]] and highlighted the intensity of Acehnese resistance.
 
 Rood’s fatal wound was described as the “first enemy shot” that caused a brief panic among the landing troops. His sacrifice was later commemorated in Dutch military memorials of the Aceh War.
 

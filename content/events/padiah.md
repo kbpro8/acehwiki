@@ -29,7 +29,7 @@ After all debts (including any padiah) had been deducted from the total sum at w
 - [[Ramadhan (fasting month)]]
 - [[Ramadhan fasts]]
 - [[Peutamat]]
-- [[Kali]]
+- [[Teuku Kali Malikon Ade|Kali]]
 
 ## Source
 

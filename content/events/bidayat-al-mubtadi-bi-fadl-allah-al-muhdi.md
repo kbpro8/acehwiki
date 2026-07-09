@@ -4,11 +4,11 @@ aliases: [Bidāyat al-mubtadi bi-faḍl Allāh al-muhdī, Bidayat al-mubtadi, Bi
 tags: [document, religious-work, malay-literature, islamic-scholarship, fiqh, shafi'i, precolonial, malay, manuscript]
 ---
 
-**The *Bidāyat al-mubtadi bi-faḍl Allāh al-muhdī*** ("The Beginning of the Beginner, by the Grace of God the Guide") is a Malay handbook of faith and the principal religious duties — the *ʿibādāt* of the Shāfiʿite *fiqh* — that occupies the first part of the Maxwell manuscript no. 93 in the library of the [[Royal Asiatic Society]] in London. The second part of the same codex (pp. 119–145) contains the only known complete manuscript of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Raniri|Nūruddīn ar-Rānīrī]], reproduced in facsimile by [[P. Voorhoeve|Voorhoeve]] in the [[1955]] edition of Raniri's two Malay treatises.
+**The *Bidāyat al-mubtadi bi-faḍl Allāh al-muhdī*** ("The Beginning of the Beginner, by the Grace of God the Guide") is a Malay handbook of faith and the principal religious duties — the *ʿibādāt* of the Shāfiʿite *fiqh* — that occupies the first part of the Maxwell manuscript no. 93 in the library of the [[Royal Asiatic Society]] in London. The second part of the same codex (pp. 119–145) contains the only known complete manuscript of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]], reproduced in facsimile by [[P. Voorhoeve|Voorhoeve]] in the [[1955]] edition of Raniri's two Malay treatises.
 
 ## Content and character
 
-The *Bidāyat al-mubtadi bi-faḍl Allāh al-muhdī* is, as [[P. Voorhoeve|Voorhoeve]] records, "the well-known Malay handbook of faith and of some of the principal religious duties." It belongs, in genre, to the same body of Malay religious prose as the [[Sirat al-mustaqim|*Ṣirāṭ al-mustaqīm*]] of Raniri — the Malay handbook of religious duties composed at the command of [[Iskandar Thani|Sultan Iskandar Thani]] in March [[1638]] — and to the wider genre of Malay *kitab* literature that transmitted the practical observances of the Shāfiʿite school to the Malay-Indonesian world. The work is "well-known" — a characterisation that indicates its wide diffusion in the Malay manuscript tradition.
+The *Bidāyat al-mubtadi bi-faḍl Allāh al-muhdī* is, as [[P. Voorhoeve|Voorhoeve]] records, "the well-known Malay handbook of faith and of some of the principal religious duties." It belongs, in genre, to the same body of Malay religious prose as the [[Sirat al-Mustaqim|*Ṣirāṭ al-mustaqīm*]] of Raniri — the Malay handbook of religious duties composed at the command of [[Iskandar Thani|Sultan Iskandar Thani]] in March [[1638]] — and to the wider genre of Malay *kitab* literature that transmitted the practical observances of the Shāfiʿite school to the Malay-Indonesian world. The work is "well-known" — a characterisation that indicates its wide diffusion in the Malay manuscript tradition.
 
 ## The Maxwell manuscript
 
@@ -24,9 +24,9 @@ The *Bidāyat al-mubtadi bi-faḍl Allāh al-muhdī* is the principal Malay hand
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[Iskandar Thani]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Royal Asiatic Society]]
-- [[Sirat al-mustaqim]]
+- [[Sirat al-Mustaqim|Sirat al-mustaqim]]
 - [[Wujudiyyah]]
 
 ## Source

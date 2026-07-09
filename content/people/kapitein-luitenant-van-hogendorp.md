@@ -12,7 +12,7 @@ Van Hogendorp led a force of 517 sailors and marines together with 305 native tr
 After the Salangore operation, Van Hogendorp continued to serve in the Dutch East Indies, though his later career is not detailed in the source.
 
 ## See Also
-- [[Van Braam (commander)]]
+- [[Jacob Pieter van Braam|Van Braam (commander)]]
 - [[Majoor Hamell]]
 - [[Salangore]]
 - [[Luitenant Wisscher]]

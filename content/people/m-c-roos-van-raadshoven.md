@@ -20,7 +20,7 @@ The exclusion of Tamiang from the new combined division was a noteworthy detail 
 
 ## See Also
 
-[[H. N. N. A. Swart]], [[H. J. Krugers]], [[Noordkust van Atjeh]], [[Oostkust van Atjeh]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Noord-Sumatra (proposed gewest)]], [[Uleëbalang]], [[Koeta-Radja]]
+[[H. N. A. Swart|H. N. N. A. Swart]], [[H. J. Krugers]], [[Noordkust van Atjeh]], [[Oostkust van Atjeh]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Noord-Sumatra (proposed gewest)]], [[Uleëbalang]], [[Koeta-Radja]]
 
 ## Source
 

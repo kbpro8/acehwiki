@@ -3,7 +3,7 @@ title: Gajoland
 aliases: [Gajo-land", Gayo country", Gayo highlands of central Atjeh", Gayoland", Het Gajoland", Tanah Gayo"]
 tags: ["achehnese", "gajo", "highland", "place"]
 ---
-**Gajoland** (the Gayo country; in [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s usage *Het Gajoland*) is the highland region of central [[Acheh|Atjeh]], inhabited by the Gayo people and lying between [[Groot-Atjeh|Greater Aceh]] on the north coast and the [[Alasland|Alas]] valley to the south-east, mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] as the inland neighbour of the Atjehnese with whom a wide range of buffalo-related vocabulary, customs and beliefs are explicitly paired. The Gayo were the subject of [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s monograph [[Snouck Hurgronje's Het Gajoland en zijne bewoners ([[1903]])|*Het Gajoland en zijne bewoners* ([[1903]])]] and of [[G. A. J. Hazeu|Hazeu]]'s *Gajosch-Nederlandsch Woordenboek*, both repeatedly cited in *De Karbouw* as the principal sources on Gayo vocabulary and custom.
+**Gajoland** (the Gayo country; in [[C. Snouck Hurgronje|Snouck Hurgronje]]'s usage *Het Gajoland*) is the highland region of central [[Acheh|Atjeh]], inhabited by the Gayo people and lying between [[Groot-Atjeh|Greater Aceh]] on the north coast and the [[Alasland|Alas]] valley to the south-east, mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] as the inland neighbour of the Atjehnese with whom a wide range of buffalo-related vocabulary, customs and beliefs are explicitly paired. The Gayo were the subject of [[C. Snouck Hurgronje|Snouck Hurgronje]]'s monograph [[Snouck Hurgronje's Het Gajoland en zijne bewoners ([[1903]])|*Het Gajoland en zijne bewoners* ([[1903]])]] and of [[G. A. J. Hazeu|Hazeu]]'s *Gajosch-Nederlandsch Woordenboek*, both repeatedly cited in *De Karbouw* as the principal sources on Gayo vocabulary and custom.
 
 ## In De Karbouw
 Gajoland is paired with Atjeh throughout *De Karbouw* — sometimes explicitly ("in Atjeh en het Gajoland *tjaram*") and sometimes by juxtaposition — in a long list of buffalo-related vocabulary and custom, including:
@@ -16,7 +16,7 @@ Gajoland is paired with Atjeh throughout *De Karbouw* — sometimes explicitly (
 - **Gajoland circumcision rite on buffalo-skull**: cited in *De Karbouw* from [[Kreemer's Atjeh ([[1922]]-23)|Kreemer, *Atjeh*]] II, p. 446, in connection with the magical-apotropaic function of the buffalo-head.
 
 ## Snouck Hurgronje's Het Gajoland ([[1903]])
-The principal Western scholarly source on Gajoland is [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's Het Gajoland en zijne bewoners ([[1903]])|*Het Gajoland en zijne bewoners* ([[1903]])]], cited repeatedly in *De Karbouw* for Gayo ethnographic detail (e.g., on the white pennants before the stall, p. 171; on the albino-buffalo prohibition, p. 217; on the question of totemism vs. fear of ancestral wrath, p. 218). [[G. A. J. Hazeu|Hazeu]]'s *Gajosch-Nederlandsch Woordenboek* is the principal Gayo-Dutch lexicographical source and is cited throughout *De Karbouw* for Gayo vocabulary.
+The principal Western scholarly source on Gajoland is [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's Het Gajoland en zijne bewoners ([[1903]])|*Het Gajoland en zijne bewoners* ([[1903]])]], cited repeatedly in *De Karbouw* for Gayo ethnographic detail (e.g., on the white pennants before the stall, p. 171; on the albino-buffalo prohibition, p. 217; on the question of totemism vs. fear of ancestral wrath, p. 218). [[G. A. J. Hazeu|Hazeu]]'s *Gajosch-Nederlandsch Woordenboek* is the principal Gayo-Dutch lexicographical source and is cited throughout *De Karbouw* for Gayo vocabulary.
 
 
 ## Significance
@@ -32,7 +32,7 @@ Gajoland is significant for the encyclopedia of [[Acheh]] history as the highlan
 
 ## See Also
 - [[Alasland]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[G. A. J. Hazeu]]
 - [[Gajo-weg]]
 - [[Kedjoeroen Boekit]]

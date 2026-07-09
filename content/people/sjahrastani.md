@@ -5,7 +5,7 @@ aliases: [al-Shahrastānī, Shahrastani, al-Shahrastani, Muḥammad b. ʿAbd al-
 tags: [person, scholar, religious-figure, islamic-scholarship, sects, kalam, 11th-century, 12th-century, persia, authority]
 ---
 
-**Al-Shahrastānī** — Muḥammad b. ʿAbd al-Karīm al-Shahrastānī (467–548 H / 1076–1153 C.E.) — was a Persian scholar of Islamic sects and religions, the author of the *al-Milal waʾl-niḥal* ("The Book of Religious and Philosophical Sects"), one of the principal scholastic authorities on the classification of Muslim heresies. He is cited by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of the two Malay treatises of [[Raniri|Nūruddīn ar-Rānīrī]] as one of the comparative authorities for the sectarian classifications of the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]].
+**Al-Shahrastānī** — Muḥammad b. ʿAbd al-Karīm al-Shahrastānī (467–548 H / 1076–1153 C.E.) — was a Persian scholar of Islamic sects and religions, the author of the *al-Milal waʾl-niḥal* ("The Book of Religious and Philosophical Sects"), one of the principal scholastic authorities on the classification of Muslim heresies. He is cited by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of the two Malay treatises of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] as one of the comparative authorities for the sectarian classifications of the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]].
 
 ## The *al-Milal waʾl-niḥal*
 
@@ -24,7 +24,7 @@ Al-Shahrastānī is one of the principal scholastic authorities cited by Voorhoe
 - [[Abd al-Karim al-Jili]]
 - [[al-Insan al-Kamil]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
 ## Source
@@ -33,7 +33,7 @@ Al-Shahrastānī is one of the principal scholastic authorities cited by Voorhoe
 ---
 
 
-**Al-Shahrastānī** — Muḥammad b. ʿAbd al-Karīm al-Shahrastānī (467–548 H / 1076–1153 C.E.) — was a Persian scholar of Islamic sects and religions, the author of the *al-Milal waʾl-niḥal* ("The Book of Religious and Philosophical Sects"), one of the principal scholastic authorities on the classification of Muslim heresies. He is cited by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of the two Malay treatises of [[Raniri|Nūruddīn ar-Rānīrī]] as one of the comparative authorities for the sectarian classifications of the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]].
+**Al-Shahrastānī** — Muḥammad b. ʿAbd al-Karīm al-Shahrastānī (467–548 H / 1076–1153 C.E.) — was a Persian scholar of Islamic sects and religions, the author of the *al-Milal waʾl-niḥal* ("The Book of Religious and Philosophical Sects"), one of the principal scholastic authorities on the classification of Muslim heresies. He is cited by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of the two Malay treatises of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] as one of the comparative authorities for the sectarian classifications of the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]].
 
 ## The *al-Milal waʾl-niḥal*
 
@@ -52,7 +52,7 @@ Al-Shahrastānī is one of the principal scholastic authorities cited by Voorhoe
 - [[Abd al-Karim al-Jili]]
 - [[al-Insan al-Kamil]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
 ## Source

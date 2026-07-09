@@ -4,7 +4,7 @@ aliases: [Mirʾāt al-muḥaqqiqīn, Mir'at al-muhakkikin, Mir-at al-muhaqqiqin,
 tags: [document, religious-work, sufi-text, malay-literature, wujudiyyah, precolonial, 17th-century, aceh, mysticism]
 ---
 
-**The *Mirʾāt al-muḥaqqiqīn*** ("The Mirror of the Verifiers") is a Malay Sufi treatise by [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]], the pantheistic mystic who dominated the religious life of the court of [[Sultan Iskandar Muda|Iskandar Muda]] of [[Acheh]] until his death in [[1630]]. The work is one of the principal sources for the [[Wujudiyyah]] mysticism against which [[Raniri|Nuruddin ar-Raniri]] directed his polemic after his arrival in Acheh in [[1637]]; it is cited and refuted in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]].
+**The *Mirʾāt al-muḥaqqiqīn*** ("The Mirror of the Verifiers") is a Malay Sufi treatise by [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]], the pantheistic mystic who dominated the religious life of the court of [[Sultan Iskandar Muda|Iskandar Muda]] of [[Acheh]] until his death in [[1630]]. The work is one of the principal sources for the [[Wujudiyyah]] mysticism against which [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]] directed his polemic after his arrival in Acheh in [[1637]]; it is cited and refuted in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]].
 
 ## Content and character
 
@@ -34,7 +34,7 @@ The *Mirʾāt al-muḥaqqiqīn* is one of the principal monuments of the Wujūdi
 - [[Kitab al-Muntahi]]
 - [[P. Voorhoeve]]
 - [[Pasai]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's public debate against the Wujudiyyah in Acheh]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Sultan Iskandar Muda]]

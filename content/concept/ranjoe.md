@@ -16,7 +16,7 @@ The ranjoe is a native Atjehese obstacle adopted and systematised by the Dutch. 
 
 ## See Also
 
-- [[Bamboe-doerie]]
+- [[Bamboe-doeri|Bamboe-doerie]]
 - [[Benting]]
 - [[Missigit Longbatta operation (31 December 1874 – 13 January 1875)]]
 - [[Benting Kota Alam operation (13 November 1874)]]

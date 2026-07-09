@@ -34,7 +34,7 @@ The instrument is also associated with **[[Meuseukat]]** (women's seated dance-s
 | **[[Acheh]]** | **Hareubab** | Coconut shell / wood, skin head | 2–3 | Spike lute; Islamic repertoire |
 | **[[Batak Lands]]** (Toba/Karo) | **Arbah** | Coconut shell, skin head | 2 | Used in *gondang* ensembles |
 | **[[Nias]]** | **Lagija** | Wood, skin head | 2 | War dance accompaniment |
-| **[[Minangkabau]]** | **Rebab** | Coconut shell, skin head | 2 | *Tari piring*, *randai* accompaniment |
+| **[[Menangkabau|Minangkabau]]** | **Rebab** | Coconut shell, skin head | 2 | *Tari piring*, *randai* accompaniment |
 | **[[Malay Peninsula]]** | **Rebab** | Coconut shell, skin head | 2–3 | *Mak yong*, *wayang kulit* accompaniment |
 | **[[Java]]** | **Rebab** | Wood, bladder skin | 2 | Central Javanese gamelan (slendro/pelog) |
 

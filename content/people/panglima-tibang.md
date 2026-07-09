@@ -9,7 +9,7 @@ A historical figure of apparent Hindu origin who appears in the Hikayat Prang Go
 
 ## See Also
 
-- [[Hikayat Prang Gompeuni]]
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 - [[Aceh War]]
 
 ## Source
@@ -22,7 +22,7 @@ A historical figure of apparent Hindu origin who appears in the Hikayat Prang Go
 
 ## See Also
 
-- [[Hikayat Prang Gompeuni]]
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 - [[Aceh War]]
 
 ## Source

@@ -4,15 +4,15 @@ aliases: [Nederlandse Oost-Indië, Dutch Indies, Netherlands East Indies, Nederl
 tags: [organization, colonial, netherlands, indonesia, dutch, southeast asia, aceh]
 ---
 
-**Dutch East Indies** was the colonial administration of the [[Netherlands]] (later the [[Kingdom of the Netherlands]]) in the archipelago that now forms the Republic of [[Indonesia]] from the [[17th century]] until Indonesian independence in [[1949]]. The territory encompassed the northernmost [[Sultanate of Aceh]], the southern Sumatran city of [[Palembang]], and the broader islands of [[Sumatra]], [[Borneo]] and the surrounding seas. Its legal limits were defined by the [[Anglo-Dutch Treaty of 1824]], which granted Dutch sovereignty over Aceh while ceding [[Benkoelen]] and [[Padang]] to the [[British Empire]]. Throughout the [[19th century]] the administration directed military campaigns such as the Expedition against the [[Padri War (Sumatra)|Padri's]] in [[1838]], the 1821 Palembang expedition, and the protracted Aceh War ([[1873]]–[[1904]]), while also policing piracy, smuggling, and Chinese [[Kongsi]] on the west coast of [[Borneo]].
+**Dutch East Indies** was the colonial administration of the [[Netherlands]] (later the [[Kingdom of the Netherlands]]) in the archipelago that now forms the Republic of [[Indonesia]] from the [[17th century]] until Indonesian independence in [[1949]]. The territory encompassed the northernmost [[Sultanate of Aceh]], the southern Sumatran city of [[Palembang]], and the broader islands of [[Sumatra]], [[Borneo]] and the surrounding seas. Its legal limits were defined by the [[Anglo-Dutch Treaty of 1824]], which granted Dutch sovereignty over Aceh while ceding [[Benkoelen]] and [[Padang]] to the [[British Empire]]. Throughout the [[19th century]] the administration directed military campaigns such as the Expedition against the [[Padri War|Padri's]] in [[1838]], the 1821 Palembang expedition, and the protracted Aceh War ([[1873]]–[[1904]]), while also policing piracy, smuggling, and Chinese [[Kongsi]] on the west coast of [[Borneo]].
 
 ## Administrative Structure
 
-The colonial government was headed by the Governor‑General in [[Batavia]] (now [[Jakarta]]). Civil affairs were managed by the Ministry of the Colonies, while military matters were coordinated through the Admiralty of the Netherlands and the [[Dutch Marine Corps|Korps Mariniers]]. The 1699 regimental regulations [[1699]] authorised the deployment of marine forces, and subsequent reforms in [[1801]] and [[1814]] expanded the corps, enabling it to support campaigns across the archipelago.
+The colonial government was headed by the Governor‑General in [[Batavia]] (now [[Jakarta]]). Civil affairs were managed by the Ministry of the Colonies, while military matters were coordinated through the Admiralty of the Netherlands and the [[Royal Netherlands Marine Corps|Korps Mariniers]]. The 1699 regimental regulations [[1699]] authorised the deployment of marine forces, and subsequent reforms in [[1801]] and [[1814]] expanded the corps, enabling it to support campaigns across the archipelago.
 
 ## Military Structure
 
-Marine units, formally the [[Dutch Marine Corps|Korps Mariniers]], operated under the authority of the colonial ministry and were employed in both coastal and inland actions. The *De Geschiedenis van het Nederlandsche Korps Mariniers* records that detachments were dispatched from the Netherlands to support operations such as the Padri expedition in [[1838]] and the Palembang expedition of [[1821]]. Participants in the latter received the [[Militaire Willemsorde|Military Order of William]] for distinguished service.
+Marine units, formally the [[Royal Netherlands Marine Corps|Korps Mariniers]], operated under the authority of the colonial ministry and were employed in both coastal and inland actions. The *De Geschiedenis van het Nederlandsche Korps Mariniers* records that detachments were dispatched from the Netherlands to support operations such as the Padri expedition in [[1838]] and the Palembang expedition of [[1821]]. Participants in the latter received the [[Militaire Willemsorde|Military Order of William]] for distinguished service.
 
 ## Territorial Extent and Treaties
 
@@ -36,12 +36,12 @@ Beyond large‑scale wars, the Dutch East Indies administration pursued anti‑p
 
 ## Significance
 
-The Dutch East Indies provided the institutional framework for the deployment of the [[Dutch Marine Corps|Korps Mariniers]] and the awarding of honours such as the [[Militaire Willemsorde]], shaping the colonial encounter with Aceh, Sumatra and the wider Indonesian archipelago. Its legal foundations, territorial adjustments, and military campaigns illustrate the mechanisms of Dutch imperial control in Southeast Asia from the seventeenth century to the mid‑twentieth century.
+The Dutch East Indies provided the institutional framework for the deployment of the [[Royal Netherlands Marine Corps|Korps Mariniers]] and the awarding of honours such as the [[Militaire Willemsorde]], shaping the colonial encounter with Aceh, Sumatra and the wider Indonesian archipelago. Its legal foundations, territorial adjustments, and military campaigns illustrate the mechanisms of Dutch imperial control in Southeast Asia from the seventeenth century to the mid‑twentieth century.
 
 ## See Also
 
-- [[Dutch Marine Corps|Korps Mariniers]]
-- [[Padri War (Sumatra)|Padri War]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
+- [[Padri War|Padri War]]
 - [[Aceh]]
 - [[Sultanate of Aceh]]
 - [[Palembang]]

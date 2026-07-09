@@ -37,7 +37,7 @@ For AcehWiki, Pinto's first Sumatran mission is the immediate prelude to the [[A
 - [[Pedir]]
 - [[Straits of Malacca]]
 - [[Atjehsche vloot]]
-- [[Sultan of Atjeh (16th century)]]
+- [[Sultan of Acheh (16th century)|Sultan of Atjeh (16th century)]]
 - [[Aceh Sultanate]]
 - [[Bedekte taal]]
 - [[Historische Curiositeiten uit Malajoe en Java]]

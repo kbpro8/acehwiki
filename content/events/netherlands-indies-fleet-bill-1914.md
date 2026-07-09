@@ -17,7 +17,7 @@ tags:
 
 ## Preparation and Non-Submission
 
-A *vlootwet* had been prepared and would have been submitted to the Staten-Generaal in August [[1914]]. The [[1913]] Throne Speech had first announced the government's intention to request funds for a battleship. However, the outbreak of the [[First World War]] prevented the bill from being introduced. Critically, the bill was not submitted in [[1915]] or [[1916]] either, a failure that became a central grievance in the [[Defense of Netherlands Indies debate (1917)]]. [[J. B. van Heutsz]] used the non-submission as evidence of government inaction, stating that "*sedert 3½ jaar verloopen zijn en Nederlandsch-Indië weerloozer is dan ooit*" (three and a half years have passed and Netherlands Indies is more defenceless than ever).
+A *vlootwet* had been prepared and would have been submitted to the Staten-Generaal in August [[1914]]. The [[1913]] Throne Speech had first announced the government's intention to request funds for a battleship. However, the outbreak of the [[First World War]] prevented the bill from being introduced. Critically, the bill was not submitted in [[1915]] or [[1916]] either, a failure that became a central grievance in the [[Defense of Netherlands Indies debate (1917)]]. [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] used the non-submission as evidence of government inaction, stating that "*sedert 3½ jaar verloopen zijn en Nederlandsch-Indië weerloozer is dan ooit*" (three and a half years have passed and Netherlands Indies is more defenceless than ever).
 
 ## The Government's Fleet Plan
 
@@ -29,11 +29,11 @@ As described in the [[Memorie van Antwoord]], the government's fleet plan called
 
 ## Relationship to the Staatscommissie
 
-The fleet bill was intended to implement the naval component of the recommendations of the [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]], which had issued its report in [[1913]]. [[J. B. van Heutsz]] had declined to sit on the Staatscommissie and had authorised [[J. Van der Weyden]] to quote his devastating private judgment on its report, declaring that the proposed fleet "*niet vechten zal*" (will not fight) and the proposed army "*niet vechten kan*" (cannot fight).
+The fleet bill was intended to implement the naval component of the recommendations of the [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]], which had issued its report in [[1913]]. [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] had declined to sit on the Staatscommissie and had authorised [[J. Van der Weyden]] to quote his devastating private judgment on its report, declaring that the proposed fleet "*niet vechten zal*" (will not fight) and the proposed army "*niet vechten kan*" (cannot fight).
 
 ## Part of the Broader Defence Debate
 
-The fleet question was inseparable from the broader defence debate that also involved the introduction of militia service (*militieplicht*), the role of the [[Buitenbezittingen]], and the question of whether [[J. B. van Heutsz]] should be appointed *buitengewoon Regeerings-Commissaris* with unlimited powers. The non-submission of the fleet bill provided Van Heutsz with his most powerful political ammunition in the [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)|speeches of early 1917]].
+The fleet question was inseparable from the broader defence debate that also involved the introduction of militia service (*militieplicht*), the role of the [[Buitenbezittingen]], and the question of whether [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] should be appointed *buitengewoon Regeerings-Commissaris* with unlimited powers. The non-submission of the fleet bill provided Van Heutsz with his most powerful political ammunition in the [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)|speeches of early 1917]].
 
 ## Significance
 
@@ -44,7 +44,7 @@ The failure to submit the fleet bill represented one of the most consequential m
 - [[Defense of Netherlands Indies debate (1917)]]
 - [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]]
 - [[Memorie van Antwoord]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Van der Maaten]]
 - [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies]]
 - [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)]]

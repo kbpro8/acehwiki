@@ -17,7 +17,7 @@ Perlak's importance lies in its position as one of the first footholds of Islam 
 ## See Also
 
 - [[Pasé]]
-- [[Islam in Atjeh]]
+- [[Islam in Aceh|Islam in Atjeh]]
 - [[North Sumatra]]
 - [[Acheh]]
 - [[Soenan Goenoeng Djati]]

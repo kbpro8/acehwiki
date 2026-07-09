@@ -29,11 +29,11 @@ The most important gampongs in the vicinity of the capital [[Banda Acheh]] inclu
 
 ## Account from *De Buitenbezittingen* (1917) — Gampong
 
-**The gampong** was the smallest territorial and administrative unit of [[Groot-Atjeh|Groot-Atjeh]] and the foundation on which the entire superstructure of Acehnese native government rested. *De Buitenbezittingen* calls it "de kleinste territoriale eenheid" and follows Prof. Dr. [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s account in *De Atjehers*, Vol. I (pp. 61 e.v.), in treating the gampong as the "hoeksteen" — cornerstone — of the *Inlandsch Bestuur* in Atjeh. Its three-headed administration — the [[Keutjhï|Keutjhï]] (with one or more *waki's*), the [[Teungkoe|Teungkoe]], and the [[Oereuëng toeha|Oereuëng toeha]] — embodied the dual principle of *adat* and *hoeköm* that ran through all Acehnese political life.
+**The gampong** was the smallest territorial and administrative unit of [[Groot-Atjeh|Groot-Atjeh]] and the foundation on which the entire superstructure of Acehnese native government rested. *De Buitenbezittingen* calls it "de kleinste territoriale eenheid" and follows Prof. Dr. [[C. Snouck Hurgronje|Snouck Hurgronje]]'s account in *De Atjehers*, Vol. I (pp. 61 e.v.), in treating the gampong as the "hoeksteen" — cornerstone — of the *Inlandsch Bestuur* in Atjeh. Its three-headed administration — the [[Keutjhï|Keutjhï]] (with one or more *waki's*), the [[Teungkoe|Teungkoe]], and the [[Oereuëng toeha|Oereuëng toeha]] — embodied the dual principle of *adat* and *hoeköm* that ran through all Acehnese political life.
 
 ## Origins
 
-Drawing on [[Christiaan Snouck Hurgronje|Snouck Hurgronje]], the handbook argues that the gampong grew out of an older genealogical settlement — the *kawöm* (clan) — so that "oudtijds eene gampong eene kawöm of een onderdeel daarvan bevatte" (originally a gampong contained a single kawöm or a portion thereof). With the rise of the [[Oelèëbalang|oelèëbalangs]] as territorial lords, the kinship-based *panglima kawöm* gave way to a village headman who "zag het meeste van de oude adat kawöm… getransformeerd tot adat gampong" — saw most of the old clan custom transformed into village adat. The transformation produced an unusually "hechte sterke gemeeneenheid" — close and strong community — whose cohesion underwrote the whole Atjehsche system.
+Drawing on [[C. Snouck Hurgronje|Snouck Hurgronje]], the handbook argues that the gampong grew out of an older genealogical settlement — the *kawöm* (clan) — so that "oudtijds eene gampong eene kawöm of een onderdeel daarvan bevatte" (originally a gampong contained a single kawöm or a portion thereof). With the rise of the [[Oelèëbalang|oelèëbalangs]] as territorial lords, the kinship-based *panglima kawöm* gave way to a village headman who "zag het meeste van de oude adat kawöm… getransformeerd tot adat gampong" — saw most of the old clan custom transformed into village adat. The transformation produced an unusually "hechte sterke gemeeneenheid" — close and strong community — whose cohesion underwrote the whole Atjehsche system.
 
 ## Three-headed administration
 
@@ -66,7 +66,7 @@ The placement is significant for the legal characterisation of the gampong: as a
 - [[Oelèëbalang]]
 - [[Moekim]]
 - [[Sagi]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Groot-Atjeh]]
 - [[Hoeköm]]
 - [[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)]]

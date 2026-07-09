@@ -22,7 +22,7 @@ Faure's testimony was "that it was clearly understood and agreed by both contrac
 
 ## Van der Kemp's Use of the Letter
 
-Van der Kemp prints the letter as Appendix 12 of his article and refers to it twice in the closing pages — once in the discussion of the [[London Convention on Transvaal|London Convention on Transvaal]], and once in the comparison of the Transvaal suzerainty question with the [[Article 6 controversy|Article 6 controversy]] of the [[Anglo-Dutch Treaty of London (1824)|Treaty of 1824]]. The parallel, in Van der Kemp's reading, is exact: in both cases a clause inserted for the satisfaction of domestic opposition, and represented at the time as of no importance, was afterwards converted into a substantive restriction — in the one case the [[Acheh War|Acheh expedition]] of [[1873]], in the other the approaches to the [[Jameson's raid comparison|Jameson raid]] and the South African War. The absence of formal minutes in both cases, Van der Kemp notes, is a further point of resemblance; in both, the historical record was left to be reconstructed from the recollections of survivors.
+Van der Kemp prints the letter as Appendix 12 of his article and refers to it twice in the closing pages — once in the discussion of the [[London Convention on Transvaal|London Convention on Transvaal]], and once in the comparison of the Transvaal suzerainty question with the [[Article 6 controversy|Article 6 controversy]] of the [[Anglo-Dutch Treaty of 1824|Treaty of 1824]]. The parallel, in Van der Kemp's reading, is exact: in both cases a clause inserted for the satisfaction of domestic opposition, and represented at the time as of no importance, was afterwards converted into a substantive restriction — in the one case the [[Acheh War|Acheh expedition]] of [[1873]], in the other the approaches to the [[Jameson's raid comparison|Jameson raid]] and the South African War. The absence of formal minutes in both cases, Van der Kemp notes, is a further point of resemblance; in both, the historical record was left to be reconstructed from the recollections of survivors.
 
 ## See Also
 
@@ -37,7 +37,7 @@ Van der Kemp prints the letter as Appendix 12 of his article and refers to it tw
 - [[Lord Shaftesbury]]
 - [[Paul Kruger]]
 - [[Article 6 controversy]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Jameson's raid comparison]]
 - [[Acheh War]]
 

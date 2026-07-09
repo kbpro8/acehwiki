@@ -4,7 +4,7 @@ aliases: [De Islaam in Indonesië, De Islam in Indonesië, Mellema 1947, Mededel
 tags: [document, source, publication, colonial, religious, ethnology, 1947, mellema, indisch-instituut, java, comparative]
 ---
 
-**De Islaam in Indonesië (in het bijzonder op Java)** — *"The Islam in Indonesia (in particular on Java)"* — is a concise ethnological survey of Muslim institutions and practice in the [[Netherlands India|Netherlands Indies]], written by **[[R. L. Mellema|R. L. Mellema]]** and published in [[Amsterdam]] in [[1947]] by the **[[Koninklijke Vereniging "Indisch Instituut"|Koninklijke Vereniging "Indisch Instituut"]]** as *Mededeling* (Communication) No. LXXVII of the Society, being No. 25 of its *Afdeling Volkenkunde* (Ethnology Section). Though the pamphlet's subtitle confines its detailed treatment to [[Java|Java]], Mellema draws comparatively on [[Acheh|Atjeh]] at several decisive points — the [[Moekim and Imeum in Atjeh (Mellema 1947)|moekim–imeum territorial system]], the [[Rangkang|meunasah/rangkang]] village chapel, the [[Oelama zakaat war-chest in the Atjehoorlog (Mellema 1947)|diversion of zakaat as an underground war-chest by the oelama's during the Atjehoorlog]], the [[Haddji title prestige in Atjeh (Mellema 1947)|social prestige of the Haddji title]], and the [[Arabic-inscribed graves in Atjeh (Mellema 1947)|oldest Arabic-inscribed graves in the archipelago]] — making it a distinctive mid-twentieth-century colonial source for the comparative study of Islamic institutions in Atjeh.
+**De Islaam in Indonesië (in het bijzonder op Java)** — *"The Islam in Indonesia (in particular on Java)"* — is a concise ethnological survey of Muslim institutions and practice in the [[Netherlands India|Netherlands Indies]], written by **[[R. L. Mellema|R. L. Mellema]]** and published in [[Amsterdam]] in [[1947]] by the **[[Koninklijke Vereeniging Koloniaal Instituut|Koninklijke Vereeniging Koloniaal Instituut]]** as *Mededeling* (Communication) No. LXXVII of the Society, being No. 25 of its *Afdeling Volkenkunde* (Ethnology Section). Though the pamphlet's subtitle confines its detailed treatment to [[Java|Java]], Mellema draws comparatively on [[Acheh|Atjeh]] at several decisive points — the [[Moekim and Imeum in Atjeh (Mellema 1947)|moekim–imeum territorial system]], the [[Rangkang|meunasah/rangkang]] village chapel, the [[Oelama zakaat war-chest in the Atjehoorlog (Mellema 1947)|diversion of zakaat as an underground war-chest by the oelama's during the Atjehoorlog]], the [[Haddji title prestige in Atjeh (Mellema 1947)|social prestige of the Haddji title]], and the [[Arabic-inscribed graves in Atjeh (Mellema 1947)|oldest Arabic-inscribed graves in the archipelago]] — making it a distinctive mid-twentieth-century colonial source for the comparative study of Islamic institutions in Atjeh.
 
 ## Publication and scope
 
@@ -41,7 +41,7 @@ The pamphlet closes with a detailed *Register* (index) in which the Atjehnese en
 ## See Also
 
 - [[R. L. Mellema]]
-- [[Koninklijke Vereniging "Indisch Instituut"]]
+- [[Koninklijke Vereeniging Koloniaal Instituut|Koninklijke Vereniging "Indisch Instituut"]]
 - [[Moekim and Imeum in Atjeh (Mellema 1947)]]
 - [[Rangkang]]
 - [[Oelama zakaat war-chest in the Atjehoorlog (Mellema 1947)]]

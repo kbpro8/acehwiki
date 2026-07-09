@@ -9,7 +9,7 @@ tags: [document, scripture, islamic]
 The Malay *Burda* integrates Qurʾānic concepts such as the *splitted moon* oath and the notion of divine miracles (*muʿjizāt*). Scholars in Aceh used the Qurʾān to interpret the poem’s allegories and to legitimize the sultan’s authority.
 
 ## See Also
-- [[Qasida al‑Burda]]
+- [[Burda (poem)|Qasida al‑Burda]]
 - [[Muhammad]]
 - [[Jinn]]
 - [[Kaffir]]

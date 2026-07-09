@@ -3,7 +3,7 @@ title: De mariniers te Atjeh van 26 December 1875 tot 7 February 1876
 aliases: [Short report of Aceh 1875‑1876, Cambier 1876 (short)]
 tags: [document, military, aceh, colonial, report]
 ---
-**De mariniers te Atjeh van 26 December 1875 tot 7 February 1876** is a concise Dutch monograph by R. J. J. P. Cambier that records the early phase of the Dutch marine expedition to [[Atjeh (Aceh)]]. The work covers the period from the landing on [[26 December 1875]] to the withdrawal on [[7 February 1876]], summarising troop movements, bivouac locations in [[Groot Atjeh]], and the challenges faced by the [[Korps Mariniers]].  
+**De mariniers te Atjeh van 26 December 1875 tot 7 February 1876** is a concise Dutch monograph by R. J. J. P. Cambier that records the early phase of the Dutch marine expedition to [[Atjeh (Aceh)]]. The work covers the period from the landing on [[26 December 1875]] to the withdrawal on [[7 February 1876]], summarising troop movements, bivouac locations in [[Groot Atjeh]], and the challenges faced by the [[Royal Netherlands Marine Corps|Korps Mariniers]].  
 
 ## Structure  
 
@@ -18,7 +18,7 @@ Although shorter than Cambier’s later 1875‑1876 volume, this document provid
 ## See Also  
 
 - [[Atjeh campaign (26 December 1875 – 7 February 1876)]]  
-- [[Korps Mariniers]]  
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]  
 - [[Bivouacs on Groot Atjeh]]  
 
 ## Source  

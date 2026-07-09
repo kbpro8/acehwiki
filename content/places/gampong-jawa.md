@@ -10,7 +10,7 @@ A village (gampong) within or near the capital of [[Acheh]]. It was inhabited ch
 
 ## Location of Teungku Anjong
 
-Gampong Jawa was especially significant as the location of the tomb of [[Teungku Anjong]] — identified as [[Sayyid Abu Bakar bin Husain Bil-Faqih]] — which Snouck Hurgronje described as the most highly honoured kramat (sacred shrine) in all of [[Great Acheh|Acheh]] at the time of his writing, having completely outshone the formerly most revered tomb of [[Abdurra'uf of Singkel]] (Teungku di Kuala).
+Gampong Jawa was especially significant as the location of the tomb of [[Teungku Anjong]] — identified as [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]] — which Snouck Hurgronje described as the most highly honoured kramat (sacred shrine) in all of [[Great Acheh|Acheh]] at the time of his writing, having completely outshone the formerly most revered tomb of [[Abdurra'uf of Singkel]] (Teungku di Kuala).
 
 ## Population Character
 
@@ -19,7 +19,7 @@ The inhabitants of Gampong Jawa and the neighbouring villages near the capital w
 ## Expanded account from *The Achehnese*, Vol. I — Gampong Java
 
 **Gampong Java** (Achehnese *gampông Java*, "the Javanese village") is a locality near the capital of [[Acheh|Acheh]] in which, according to Snouck Hurgronje, the holy saint **Sayyid Teungku Anjong** is buried. The shrine of this saint was, in the late nineteenth century, one of the great destinations of parental vows on behalf of sick children, and Gampong Java accordingly takes its place among the minor sacred geographies of [[Great Acheh|Great Acheh]].
-**Gampong Java** (Achehnese *gampông Jawà*, "the Javanese village") is a settlement in or near the capital of [[Acheh|Acheh]] celebrated as the burial-place of the great saint [[Sayyid Teungku Anjong|Teungku Anjong]], and consequently one of the most venerated places of pilgrimage in the whole country. Snouck Hurgronje describes it, in his chapter on the saints of Acheh, as the site of the tomb that has "completely outshone the more ancient tomb of [[Teungku di Kuala|Teungku di Kuala Abdora'oh]] (Abdurra'uf of [[Singkel|Singkel]]) which enjoyed the highest reputation in former times."
+**Gampong Java** (Achehnese *gampông Jawà*, "the Javanese village") is a settlement in or near the capital of [[Acheh|Acheh]] celebrated as the burial-place of the great saint [[Teungku Anjong|Teungku Anjong]], and consequently one of the most venerated places of pilgrimage in the whole country. Snouck Hurgronje describes it, in his chapter on the saints of Acheh, as the site of the tomb that has "completely outshone the more ancient tomb of [[Teungku di Kuala|Teungku di Kuala Abdora'oh]] (Abdurra'uf of [[Singkel|Singkel]]) which enjoyed the highest reputation in former times."
 
 ### The Saint of Gampong Java
 
@@ -60,13 +60,13 @@ In the political life of the late sultanate and the early Dutch period, Gampong 
 - [[Peunayong]]
 - [[Pochut Muhamat]]
 - [[Poteu Jeumaloy]]
-- [[Sayyid Abu Bakar bin Husain Bil-Faqih]]
+- [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]]
 - [[Teungku Anjong]]
 - [[The Dalam]]
 - [[Singkel]]
 - [[Sayyid]]
 - [[Teungku di Kuala Abdora'oh]]
-- [[Sayyid Teungku Anjong]]
+- [[Teungku Anjong|Sayyid Teungku Anjong]]
 - [[Teungku di Kuala]]
 - [[Ulee Lheue]]
 - [[Teungku Lam Guha]]

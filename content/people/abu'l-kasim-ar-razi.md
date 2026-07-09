@@ -5,7 +5,7 @@ aliases: [Abū'l-Qāsim ar-Rāzī, Abu'l-Kasim ar-Razi, Abulqasim ar-Razi, ar-R�
 tags: [person, scholar, religious-figure, sufi, mystic, 10th-century, persia, source-of-ma'rifat-al-madhahib]
 ---
 
-**Abū'l-Qāsim ar-Rāzī** was a Muslim mystic who died in 378 H / 988 C.E. He is named by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of the two Malay treatises of [[Raniri|Nūruddīn ar-Rānīrī]] as the authority on which the *[[Ma'rifat al-madhahib|Maʿrifat al-madhāhib*]] — one of the principal sources of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] — draws for the seven additional sects that the tract adds, in some manuscripts, to the seventy-two Islamic sects.
+**Abū'l-Qāsim ar-Rāzī** was a Muslim mystic who died in 378 H / 988 C.E. He is named by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of the two Malay treatises of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] as the authority on which the *[[Ma'rifat al-madhahib|Maʿrifat al-madhāhib*]] — one of the principal sources of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] — draws for the seven additional sects that the tract adds, in some manuscripts, to the seventy-two Islamic sects.
 
 ## The seven additional sects
 
@@ -26,7 +26,7 @@ Abū'l-Qāsim ar-Rāzī is the authority on which the *[[Ma'rifat al-madhahib|Ma
 - [[Ma'rifat al-madhahib]]
 - [[P. Voorhoeve]]
 - [[Pulo Ai]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
 ## Source
@@ -37,7 +37,7 @@ Abū'l-Qāsim ar-Rāzī is the authority on which the *[[Ma'rifat al-madhahib|Ma
 ---
 
 
-**Abū'l-Qāsim ar-Rāzī** was a Muslim mystic who died in 378 H / 988 C.E. He is named by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of the two Malay treatises of [[Raniri|Nūruddīn ar-Rānīrī]] as the authority on which the *[[Ma'rifat al-madhahib|Maʿrifat al-madhāhib*]] — one of the principal sources of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] — draws for the seven additional sects that the tract adds, in some manuscripts, to the seventy-two Islamic sects.
+**Abū'l-Qāsim ar-Rāzī** was a Muslim mystic who died in 378 H / 988 C.E. He is named by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of the two Malay treatises of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] as the authority on which the *[[Ma'rifat al-madhahib|Maʿrifat al-madhāhib*]] — one of the principal sources of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] — draws for the seven additional sects that the tract adds, in some manuscripts, to the seventy-two Islamic sects.
 
 ## The seven additional sects
 
@@ -58,7 +58,7 @@ Abū'l-Qāsim ar-Rāzī is the authority on which the *[[Ma'rifat al-madhahib|Ma
 - [[Ma'rifat al-madhahib]]
 - [[P. Voorhoeve]]
 - [[Pulo Ai]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
 ## Source

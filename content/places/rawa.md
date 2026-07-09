@@ -24,7 +24,7 @@ The mention of Rawa is one of several notices in *The Achehnese* of the way in w
 
 ## Place in Van der Kemp's article
 
-Van der Kemp's narrative of the [[Acheh treaty of 1819]] and of the diplomacy surrounding it makes only incidental reference to the peoples of the Sumatran interior; his interest lies chiefly in the political relations of [[Acheh]] with the European powers and with the coastal polities of [[Sumatra's East Coast|Sumatra's east coast]] — [[Deli]], [[Langkat]], [[Siak]], [[Kampar]], [[Jambi]] and the rest. The mention of the *aneuʾ Rawa* belongs, rather, to the broader ethnographic register in which Achehnese sources — and the Malay letters preserved in the archives of [[Penang]] and [[Calcutta]] — habitually described the human landscape of northern Sumatra. It is a reminder that the world in which [[Stamford Raffles|Raffles]] and [[John Coombs|Coombs]] negotiated in [[1819]] was peopled not only by Achehnese, Malays, Arabs, and Europeans, but also by interior Sumatran groups whose movements and alliances affected the politics of the coast.
+Van der Kemp's narrative of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] and of the diplomacy surrounding it makes only incidental reference to the peoples of the Sumatran interior; his interest lies chiefly in the political relations of [[Acheh]] with the European powers and with the coastal polities of [[Sumatra's East Coast|Sumatra's east coast]] — [[Deli]], [[Langkat]], [[Siak]], [[Kampar]], [[Jambi]] and the rest. The mention of the *aneuʾ Rawa* belongs, rather, to the broader ethnographic register in which Achehnese sources — and the Malay letters preserved in the archives of [[Penang]] and [[Calcutta]] — habitually described the human landscape of northern Sumatra. It is a reminder that the world in which [[Sir Thomas Stamford Raffles|Raffles]] and [[John Coombs|Coombs]] negotiated in [[1819]] was peopled not only by Achehnese, Malays, Arabs, and Europeans, but also by interior Sumatran groups whose movements and alliances affected the politics of the coast.
 
 ## The Rawa country
 
@@ -48,9 +48,9 @@ For Van der Kemp's purpose, the epithet *aneuʾ Rawa* is valuable chiefly as a m
 - [[Jambi]]
 - [[Siak]]
 - [[Pedir]]
-- [[Stamford Raffles]]
+- [[Sir Thomas Stamford Raffles|Stamford Raffles]]
 - [[John Coombs]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 
 ## Source
 

@@ -23,7 +23,7 @@ The Koromandel kust is, in Van der Woude's narrative, the principal source of th
 - [[Acheh]]
 - [[Capture of the Portuguese carrack off Atjeh (October 1602)]]
 - [[James Lancaster]]
-- [[Joris Spilbergh]]
+- [[Joris van Spilbergen|Joris Spilbergh]]
 - [[Sultan of Atjeh (1589-1604)]]
 - [[Malaka]]
 - [[Vereenigde Oostindische Compagnie]]

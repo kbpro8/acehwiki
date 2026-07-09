@@ -12,7 +12,7 @@ Hadji Rasul’s teaching emphasized memorisation and recitation of Arabic poet
 - [[Hamka]]
 - [[Burda (poem)]]
 - [[Kasida]]
-- [[Minangkabau]]
+- [[Menangkabau|Minangkabau]]
 
 ## Source
 *20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pp. 22‑23.

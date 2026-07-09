@@ -16,7 +16,7 @@ The years 1881 to 1884 were necessary to enable the Dutch to see that "the estab
 
 ## Place in the wider war
 
-Hurgronje is clear that neither the civil government period nor the concentration scheme that followed were serious attempts to subdue Acheh. They were rather expedients "really intended to save statesmen at home from troubling their heads about these questions", but nominally based on the theory that "Acheh would ultimately submit of its own accord." Together, the two policies consumed fifteen years — half the legendary thirty years of the Achehnese War — without producing any real resultant gain. The resumption of serious offensive operations did not begin until the close of the [[Uma period|"Uma" period]] in [[1896]], and the methodical close of the war began only with [[Van Heutsz's governorship|Governor Van Heutsz's governorship]] in [[1898]].
+Hurgronje is clear that neither the civil government period nor the concentration scheme that followed were serious attempts to subdue Acheh. They were rather expedients "really intended to save statesmen at home from troubling their heads about these questions", but nominally based on the theory that "Acheh would ultimately submit of its own accord." Together, the two policies consumed fifteen years — half the legendary thirty years of the Achehnese War — without producing any real resultant gain. The resumption of serious offensive operations did not begin until the close of the [[Uma period|"Uma" period]] in [[1896]], and the methodical close of the war began only with [[Joannes Benedictus van Heutsz|Governor Van Heutsz's governorship]] in [[1898]].
 
 The civil government period thus stands at the head of the long parenthesis of Dutch quiescence in Acheh, between the first conquest of Great Acheh and the final campaigns of subjugation.
 
@@ -26,7 +26,7 @@ The civil government period thus stands at the head of the long parenthesis of D
 - [[General van der Heijden]]
 - [[Concentration Scheme]]
 - [[Uma period]]
-- [[Van Heutsz's governorship]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz's governorship]]
 - [[Great Acheh]]
 
 ## Source

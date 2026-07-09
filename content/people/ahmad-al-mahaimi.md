@@ -5,7 +5,7 @@ aliases: [ʿAlī b. Aḥmad al-Mahāʾimī, Ali b. Ahmad al-Mahaimi, Ahmad ibn A
 tags: [person, scholar, religious-figure, sufi, author, wujudiyyah-orthodox, 14th-century, 15th-century, india, source-of-raniri]
 ---
 
-**ʿAlī b. Aḥmad al-Mahāʾimī** — in Dutch scholarship **Ahmad al-Maha'imi** — was an Indian Sufi mystic who died in 835 H / [[1432]] C.E. He is numbered among the *Wujūdiyya* — that is, the Sufis of the school of the unity of being — but, in [[Raniri|Nūruddīn ar-Rānīrī]]'s view, an *orthodox* Wujūdī, not one of the heretical Wujūdiyyah whom Raniri refutes in his Achehnese writings. He is cited as an authority in the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] and in the [[Djawahir al-'ulum|*Jawāhir al-ʿulūm*]] of Raniri, and is named among "the great mystics" in the [[Hall al-zill|*Ḥall aẓ-ẓill*]].
+**ʿAlī b. Aḥmad al-Mahāʾimī** — in Dutch scholarship **Ahmad al-Maha'imi** — was an Indian Sufi mystic who died in 835 H / [[1432]] C.E. He is numbered among the *Wujūdiyya* — that is, the Sufis of the school of the unity of being — but, in [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]]'s view, an *orthodox* Wujūdī, not one of the heretical Wujūdiyyah whom Raniri refutes in his Achehnese writings. He is cited as an authority in the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] and in the [[Djawahir al-'ulum|*Jawāhir al-ʿulūm*]] of Raniri, and is named among "the great mystics" in the [[Hall al-zill|*Ḥall aẓ-ẓill*]].
 
 ## The orthodox Wujūdī
 
@@ -33,7 +33,7 @@ Al-Mahāʾimī is the principal Indian authority cited by Raniri against the her
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[Ibn Arabi]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Wujudiyyah]]
 
@@ -45,7 +45,7 @@ C. Brockelmann, *Geschichte der arabischen Litteratur* (GAL) II, 221, where al-M
 ---
 
 
-**ʿAlī b. Aḥmad al-Mahāʾimī** — in Dutch scholarship **Ahmad al-Maha'imi** — was an Indian Sufi mystic who died in 835 H / [[1432]] C.E. He is numbered among the *Wujūdiyya* — that is, the Sufis of the school of the unity of being — but, in [[Raniri|Nūruddīn ar-Rānīrī]]'s view, an *orthodox* Wujūdī, not one of the heretical Wujūdiyyah whom Raniri refutes in his Achehnese writings. He is cited as an authority in the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] and in the [[Djawahir al-'ulum|*Jawāhir al-ʿulūm*]] of Raniri, and is named among "the great mystics" in the [[Hall al-zill|*Ḥall aẓ-ẓill*]].
+**ʿAlī b. Aḥmad al-Mahāʾimī** — in Dutch scholarship **Ahmad al-Maha'imi** — was an Indian Sufi mystic who died in 835 H / [[1432]] C.E. He is numbered among the *Wujūdiyya* — that is, the Sufis of the school of the unity of being — but, in [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]]'s view, an *orthodox* Wujūdī, not one of the heretical Wujūdiyyah whom Raniri refutes in his Achehnese writings. He is cited as an authority in the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] and in the [[Djawahir al-'ulum|*Jawāhir al-ʿulūm*]] of Raniri, and is named among "the great mystics" in the [[Hall al-zill|*Ḥall aẓ-ẓill*]].
 
 ## The orthodox Wujūdī
 
@@ -73,7 +73,7 @@ Al-Mahāʾimī is the principal Indian authority cited by Raniri against the her
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[Ibn Arabi]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Wujudiyyah]]
 

@@ -21,7 +21,7 @@ The author's purpose, stated at the close of the prologue, is that "de lezers Oo
 
 ## Sources and the *Nawoord*
 
-In the *Nawoord* Dames acknowledges the printed sources he drew on for episodes he could not have witnessed himself, especially the chapters on the older [[Atjeh-oorlog|Aceh War]] and the decorations history. He names in particular the works of [[van Kijffler]] and [[Booms]], as well as [[Hotz]] (whose account of the [[colonne Schmidt]] he used for the [[Tiriō Teungkoes|Tiriō]] campaign), [[Schmidt]] himself (whose report on [[1910]]-[[1911]] was published), [[du Croo]], [[Zentgraaf]] and [[Generaal Swart|General Swart]]. The book is therefore not pure memoir but a synthesis of personal recollection and these older printed authorities, with Dames's own commentary threaded throughout.
+In the *Nawoord* Dames acknowledges the printed sources he drew on for episodes he could not have witnessed himself, especially the chapters on the older [[Atjeh-oorlog|Aceh War]] and the decorations history. He names in particular the works of [[van Kijffler]] and [[Booms]], as well as [[Hotz]] (whose account of the [[colonne Schmidt]] he used for the [[Tiriō Teungkoes|Tiriō]] campaign), [[Schmidt]] himself (whose report on [[1910]]-[[1911]] was published), [[du Croo]], [[Zentgraaf]] and [[H. N. A. Swart|General Swart]]. The book is therefore not pure memoir but a synthesis of personal recollection and these older printed authorities, with Dames's own commentary threaded throughout.
 
 ## Significance
 
@@ -61,7 +61,7 @@ The author's purpose, stated at the close of the prologue, is that "de lezers Oo
 
 ## Sources and the *Nawoord*
 
-In the *Nawoord* Dames acknowledges the printed sources he drew on for episodes he could not have witnessed himself, especially the chapters on the older [[Atjeh-oorlog|Aceh War]] and the decorations history. He names in particular the works of [[van Kijffler]] and [[Booms]], as well as [[Hotz]] (whose account of the [[colonne Schmidt]] he used for the [[Tiriō Teungkoes|Tiriō]] campaign), [[Schmidt]] himself (whose report on [[1910]]-[[1911]] was published), [[du Croo]], [[Zentgraaf]] and [[Generaal Swart|General Swart]]. The book is therefore not pure memoir but a synthesis of personal recollection and these older printed authorities, with Dames's own commentary threaded throughout.
+In the *Nawoord* Dames acknowledges the printed sources he drew on for episodes he could not have witnessed himself, especially the chapters on the older [[Atjeh-oorlog|Aceh War]] and the decorations history. He names in particular the works of [[van Kijffler]] and [[Booms]], as well as [[Hotz]] (whose account of the [[colonne Schmidt]] he used for the [[Tiriō Teungkoes|Tiriō]] campaign), [[Schmidt]] himself (whose report on [[1910]]-[[1911]] was published), [[du Croo]], [[Zentgraaf]] and [[H. N. A. Swart|General Swart]]. The book is therefore not pure memoir but a synthesis of personal recollection and these older printed authorities, with Dames's own commentary threaded throughout.
 
 ## Significance
 

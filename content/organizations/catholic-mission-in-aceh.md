@@ -21,7 +21,7 @@ The mission also preserved the memory of earlier Catholic martyrs in Aceh, notab
 
 ## Later Development
 
-After the pacification of Aceh under **[[J. B. van Heutsz]]**, the mission continued to serve the Catholic community, and new churches were built. The mission's history is documented in the *St. Claverbond* register through numerous references to stations, chapels, and the work of individual missionaries.
+After the pacification of Aceh under **[[Joannes Benedictus van Heutsz|J. B. van Heutsz]]**, the mission continued to serve the Catholic community, and new churches were built. The mission's history is documented in the *St. Claverbond* register through numerous references to stations, chapels, and the work of individual missionaries.
 
 ## See Also
 
@@ -55,7 +55,7 @@ The mission also preserved the memory of earlier Catholic martyrs in Aceh, notab
 
 ## Later Development
 
-After the pacification of Aceh under **[[J. B. van Heutsz]]**, the mission continued to serve the Catholic community, and new churches were built. The mission's history is documented in the *St. Claverbond* register through numerous references to stations, chapels, and the work of individual missionaries.
+After the pacification of Aceh under **[[Joannes Benedictus van Heutsz|J. B. van Heutsz]]**, the mission continued to serve the Catholic community, and new churches were built. The mission's history is documented in the *St. Claverbond* register through numerous references to stations, chapels, and the work of individual missionaries.
 
 ## See Also
 

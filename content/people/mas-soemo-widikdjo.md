@@ -5,7 +5,7 @@ aliases: [Mas Soemo Widikdjo, Mas Soemo, the son of a British-Indian officer, th
 tags: [person, malay, guide, interpreter, aceh-war]
 ---
 
-**Mas Soemo Widikdjo** was a Malay guide and interpreter, the son of a British-Indian officer, who had repeatedly rendered services to the Dutch on previous occasions, and who was charged by Lieutenant-general [[J. van Swieten|Van Swieten]] in [[December 1873|December 1873]] with the delivery of two letters to the [[Sultan of Aceh|sultan]] of [[Acheh|Atjeh]] offering peace on the model of the [[Tractaat with Siak of 1858|Siak-tractaat]] and proposing to wage war "in the manner of civilised nations." He departed on [[26 December]] [[26 December]] [1873] and never returned: later it became known that, after being held prisoner a couple of days, he was murderously killed at [[Longbatta|Longbatta]].
+**Mas Soemo Widikdjo** was a Malay guide and interpreter, the son of a British-Indian officer, who had repeatedly rendered services to the Dutch on previous occasions, and who was charged by Lieutenant-general [[Jan van Swieten|Van Swieten]] in [[December 1873|December 1873]] with the delivery of two letters to the [[Sultan of Aceh|sultan]] of [[Acheh|Atjeh]] offering peace on the model of the [[Tractaat with Siak of 1858|Siak-tractaat]] and proposing to wage war "in the manner of civilised nations." He departed on [[26 December]] [[26 December]] [1873] and never returned: later it became known that, after being held prisoner a couple of days, he was murderously killed at [[Longbatta|Longbatta]].
 
 ## Background
 
@@ -21,7 +21,7 @@ He departed on [[26 December]] [[26 December]] [1873] but never returned. "Later
 
 ## See Also
 
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[Longbatta]]
 - [[Imam of Longbatta]]
 - [[Tractaat with Siak of 1858]]
@@ -36,7 +36,7 @@ He departed on [[26 December]] [[26 December]] [1873] but never returned. "Later
 ---
 
 
-**Mas Soemo Widikdjo** was a Malay guide and interpreter, the son of a British-Indian officer, who had repeatedly rendered services to the Dutch on previous occasions, and who was charged by Lieutenant-general [[J. van Swieten|Van Swieten]] in [[December 1873|December 1873]] with the delivery of two letters to the [[Sultan of Aceh|sultan]] of [[Acheh|Atjeh]] offering peace on the model of the [[Tractaat with Siak of 1858|Siak-tractaat]] and proposing to wage war "in the manner of civilised nations." He departed on [[26 December]] [[26 December]] [1873] and never returned: later it became known that, after being held prisoner a couple of days, he was murderously killed at [[Longbatta|Longbatta]].
+**Mas Soemo Widikdjo** was a Malay guide and interpreter, the son of a British-Indian officer, who had repeatedly rendered services to the Dutch on previous occasions, and who was charged by Lieutenant-general [[Jan van Swieten|Van Swieten]] in [[December 1873|December 1873]] with the delivery of two letters to the [[Sultan of Aceh|sultan]] of [[Acheh|Atjeh]] offering peace on the model of the [[Tractaat with Siak of 1858|Siak-tractaat]] and proposing to wage war "in the manner of civilised nations." He departed on [[26 December]] [[26 December]] [1873] and never returned: later it became known that, after being held prisoner a couple of days, he was murderously killed at [[Longbatta|Longbatta]].
 
 ## Background
 
@@ -52,7 +52,7 @@ He departed on [[26 December]] [[26 December]] [1873] but never returned. "Later
 
 ## See Also
 
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[Longbatta]]
 - [[Imam of Longbatta]]
 - [[Tractaat with Siak of 1858]]

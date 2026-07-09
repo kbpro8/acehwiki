@@ -40,7 +40,7 @@ Although Lho Seumawe itself is mentioned in Vol. I only in this discussion of ti
 
 ## Van Daalen's governorship and its consequences
 
-During the governorship of [[G. C. E. van Daalen|Van Daalen]] ([[1905]]–[[1907]]), the local civil administrator at Lho' Seumawé proved totally unsuited to his task. When [[J. B. van Heutsz|Van Heutsz]] visited the district in [[1907]] as part of the [[Atjéh-enquête|Atjéh-enquête]], he was shocked to find that the chiefs openly refused to cooperate, complaining of unjust treatment and loss of income; the interior above Keureu'toë had not seen a military patrol or civil administrator for months; local religious leaders (*teungkoe's*) had used the vacuum to turn the population against the Dutch; and the chiefs warned Van Heutsz that "if you go there now, you will get fire everywhere," whereas under the previous administrator ([[H. N. A. Swart|H. N. A. Swart]]), they had come without any military escort. Van Heutsz immediately replaced the incompetent official and ordered a restoration of regular patrols and dialogue. After Van Daalen's removal in [[1908]], Lho' Seumawé was gradually brought back under effective control, and the policy of supporting the chiefs was resumed. The district later became a symbol of how poor local leadership could undo the gains of pacification.
+During the governorship of [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] ([[1905]]–[[1907]]), the local civil administrator at Lho' Seumawé proved totally unsuited to his task. When [[Joannes Benedictus van Heutsz|Van Heutsz]] visited the district in [[1907]] as part of the [[Atjéh-enquête|Atjéh-enquête]], he was shocked to find that the chiefs openly refused to cooperate, complaining of unjust treatment and loss of income; the interior above Keureu'toë had not seen a military patrol or civil administrator for months; local religious leaders (*teungkoe's*) had used the vacuum to turn the population against the Dutch; and the chiefs warned Van Heutsz that "if you go there now, you will get fire everywhere," whereas under the previous administrator ([[H. N. A. Swart|H. N. A. Swart]]), they had come without any military escort. Van Heutsz immediately replaced the incompetent official and ordered a restoration of regular patrols and dialogue. After Van Daalen's removal in [[1908]], Lho' Seumawé was gradually brought back under effective control, and the policy of supporting the chiefs was resumed. The district later became a symbol of how poor local leadership could undo the gains of pacification.
 
 ## Account from *De Buitenbezittingen* (1917) — Lhôseumawè
 
@@ -84,7 +84,7 @@ Lhôseumawè was also the seat of the *Afdeelingsbank "Lhôseumawè"*, one of th
 - [[1915]]
 
 - [[Atjéh-enquête]]
-- [[G. C. E. van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[H. N. A. Swart]]
 
 ## Source

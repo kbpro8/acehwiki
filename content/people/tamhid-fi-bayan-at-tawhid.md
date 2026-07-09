@@ -5,7 +5,7 @@ aliases: [at-Tamhīd fī bayān at-tawḥīd, Tamhid, Tamhīd, The Preparation c
 tags: [document, religious-work, islamic-scholarship, kalam, shafi'i, persian, precolonial, 11th-century, source-of-tibjan]
 ---
 
-**The *at-Tamhīd fī bayān at-tawḥīd*** ("The Preparation concerning the Exposition of the Divine Unity") is a Shāfiʿite theological treatise in Persian by [[Abu Syakur as-Salimi|Abū Shakūr as-Sālimī]], who lived in Persia in the second half of the fifth century of the Hegira (eleventh century C.E.). The work is identified by [[P. Voorhoeve|Voorhoeve]] as the principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nuruddin ar-Raniri]]: more than a quarter of the text of the *Tibjān* is translated literally from the *Tamhīd*, especially from its last chapter, on orthodoxy and the rejection of innovation (*bidʿa*).
+**The *at-Tamhīd fī bayān at-tawḥīd*** ("The Preparation concerning the Exposition of the Divine Unity") is a Shāfiʿite theological treatise in Persian by [[Abu Syakur as-Salimi|Abū Shakūr as-Sālimī]], who lived in Persia in the second half of the fifth century of the Hegira (eleventh century C.E.). The work is identified by [[P. Voorhoeve|Voorhoeve]] as the principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]]: more than a quarter of the text of the *Tibjān* is translated literally from the *Tamhīd*, especially from its last chapter, on orthodoxy and the rejection of innovation (*bidʿa*).
 
 ## Content and character
 
@@ -70,7 +70,7 @@ The *Tamhīd* is, after the *Maʿrifat al-madhāhib* and the *al-Insān al-kāmi
 - [[Ma'rifat al-madhahib]]
 - [[Najm ad-Din an-Nasafi]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Stichting De Goeje]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
@@ -82,7 +82,7 @@ C. Brockelmann, *Geschichte der arabischen Litteratur* (GAL), I, 419.
 ---
 
 
-**The *at-Tamhīd fī bayān at-tawḥīd*** ("The Preparation concerning the Exposition of the Divine Unity") is a Shāfiʿite theological treatise in Persian by [[Abu Syakur as-Salimi|Abū Shakūr as-Sālimī]], who lived in Persia in the second half of the fifth century of the Hegira (eleventh century C.E.). The work is identified by [[P. Voorhoeve|Voorhoeve]] as the principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nuruddin ar-Raniri]]: more than a quarter of the text of the *Tibjān* is translated literally from the *Tamhīd*, especially from its last chapter, on orthodoxy and the rejection of innovation (*bidʿa*).
+**The *at-Tamhīd fī bayān at-tawḥīd*** ("The Preparation concerning the Exposition of the Divine Unity") is a Shāfiʿite theological treatise in Persian by [[Abu Syakur as-Salimi|Abū Shakūr as-Sālimī]], who lived in Persia in the second half of the fifth century of the Hegira (eleventh century C.E.). The work is identified by [[P. Voorhoeve|Voorhoeve]] as the principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]]: more than a quarter of the text of the *Tibjān* is translated literally from the *Tamhīd*, especially from its last chapter, on orthodoxy and the rejection of innovation (*bidʿa*).
 
 ## Content and character
 
@@ -147,7 +147,7 @@ The *Tamhīd* is, after the *Maʿrifat al-madhāhib* and the *al-Insān al-kāmi
 - [[Ma'rifat al-madhahib]]
 - [[Najm ad-Din an-Nasafi]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Stichting De Goeje]]
 - [[Tibjan fi ma'rifat al-adyan]]
 

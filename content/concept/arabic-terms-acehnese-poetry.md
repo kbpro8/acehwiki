@@ -22,7 +22,7 @@ The prevalence of Arabic terms demonstrates the depth of Islamic education among
 ## See Also
 
 - [[Kasidat al‑Burda (Malay translation)]]
-- [[Al‑Burda (Arabic poem)]]
+- [[Burda (poem)|Al‑Burda (Arabic poem)]]
 - [[Achirat]]
 - [[Rasulullah]]
 - [[Muhammad (Prophet of Islam)]]

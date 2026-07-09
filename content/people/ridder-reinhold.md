@@ -5,7 +5,7 @@ aliases: [Reinhold, ridder Reinhold]
 tags: [person, dutch-official, diplomat]
 ---
 
-**Ridder Reinhold** — a Dutch envoy who, in the early months of [[1824]], acted as the temporary head of the Dutch Foreign Office at The Hague — is a minor but consequential figure in P. H. van der Kemp's account of the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]]. His role was to receive the Dutch plenipotentiaries' dispatches from London and to communicate to them the King's further instructions, including the [[King's authorization of 13 February 1824|royal authorisation of 13 February 1824]] concerning the [[Acheh treaty of 1819|Acheh treaty of 1819]].
+**Ridder Reinhold** — a Dutch envoy who, in the early months of [[1824]], acted as the temporary head of the Dutch Foreign Office at The Hague — is a minor but consequential figure in P. H. van der Kemp's account of the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]]. His role was to receive the Dutch plenipotentiaries' dispatches from London and to communicate to them the King's further instructions, including the [[King's authorization of 13 February 1824|royal authorisation of 13 February 1824]] concerning the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]].
 
 ## A Foreign Office "Without a Head"
 
@@ -34,7 +34,7 @@ Van der Kemp's judgement of Reinhold is severe in its brevity: he was an interim
 - [[Anton Reinhard Falck]]
 - [[Hendrik Fagel]]
 - [[Cornelis Felix van Maanen]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Elout's advice of 12 February 1824]]
 - [[King's authorization of 13 February 1824]]
 - [[Raising of the Acheh treaty in London negotiations]]
@@ -48,7 +48,7 @@ Van der Kemp's judgement of Reinhold is severe in its brevity: he was an interim
 ---
 
 
-**Ridder Reinhold** — a Dutch envoy who, in the early months of [[1824]], acted as the temporary head of the Dutch Foreign Office at The Hague — is a minor but consequential figure in P. H. van der Kemp's account of the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]]. His role was to receive the Dutch plenipotentiaries' dispatches from London and to communicate to them the King's further instructions, including the [[King's authorization of 13 February 1824|royal authorisation of 13 February 1824]] concerning the [[Acheh treaty of 1819|Acheh treaty of 1819]].
+**Ridder Reinhold** — a Dutch envoy who, in the early months of [[1824]], acted as the temporary head of the Dutch Foreign Office at The Hague — is a minor but consequential figure in P. H. van der Kemp's account of the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]]. His role was to receive the Dutch plenipotentiaries' dispatches from London and to communicate to them the King's further instructions, including the [[King's authorization of 13 February 1824|royal authorisation of 13 February 1824]] concerning the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]].
 
 ## A Foreign Office "Without a Head"
 
@@ -77,7 +77,7 @@ Van der Kemp's judgement of Reinhold is severe in its brevity: he was an interim
 - [[Anton Reinhard Falck]]
 - [[Hendrik Fagel]]
 - [[Cornelis Felix van Maanen]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Elout's advice of 12 February 1824]]
 - [[King's authorization of 13 February 1824]]
 - [[Raising of the Acheh treaty in London negotiations]]

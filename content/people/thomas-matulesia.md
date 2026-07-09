@@ -3,7 +3,7 @@ title: Thomas Matulesia
 aliases: ["Thomas Matulesia"]
 tags: [person, rebel, acehnese]
 ---
-**Thomas Matulesia** was an Ambonese rebel leader who commanded local insurgents during the Dutch suppression of the Molukan uprising in the spring of [[1818]]. He was captured on [[13 November]] [[1818]] after a brief resistance against Dutch landing forces that included marines from the [[Dutch Marine Corps]] (page 93).
+**Thomas Matulesia** was an Ambonese rebel leader who commanded local insurgents during the Dutch suppression of the Molukan uprising in the spring of [[1818]]. He was captured on [[13 November]] [[1818]] after a brief resistance against Dutch landing forces that included marines from the [[Royal Netherlands Marine Corps|Dutch Marine Corps]] (page 93).
 
 ## Role in the Molukan Uprising
 
@@ -11,7 +11,7 @@ Matulesia’s forces fought fiercely against the mixed Dutch‑Indische troops, 
 
 ## See Also
 
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Molukken]]
 - [[1818 Molukan uprising]]
 - [[Aceh]]

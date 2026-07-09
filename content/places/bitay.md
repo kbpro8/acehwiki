@@ -12,7 +12,7 @@ It is said that a number of instructors who came from [[Syria]] settled in a gam
 
 ## The Tomb of Tuan di Bitay
 
-In Bitay may still be seen the grave of a saint, **[[Teungku di Bitay]]** (also called [[Tuan di Bitay]]), who according to the tradition belonged to this colony of strangers. The tomb of Tuan di Bitay, who taught the Achehnese among other things the art of casting cannon, and the mosque which stands beside the grave, are revered as sacred up to the present day. The Sultan of Turkey, the legend continues, considered it unbefitting to bind his new vassal to the regular despatch of embassies or tribute, given the great length of the journey, and instead enjoined the universal Achehnese observance of the [[Maulud (Mo'lot)|feast of Mohammad's birth]] as a token of vassalage.
+In Bitay may still be seen the grave of a saint, **[[Teungku di Bitay]]** (also called [[Teungku di Bitay|Tuan di Bitay]]), who according to the tradition belonged to this colony of strangers. The tomb of Tuan di Bitay, who taught the Achehnese among other things the art of casting cannon, and the mosque which stands beside the grave, are revered as sacred up to the present day. The Sultan of Turkey, the legend continues, considered it unbefitting to bind his new vassal to the regular despatch of embassies or tribute, given the great length of the journey, and instead enjoined the universal Achehnese observance of the [[Maulud (Mo'lot)|feast of Mohammad's birth]] as a token of vassalage.
 
 ## The Kurubeu'en of Bitay
 
@@ -27,7 +27,7 @@ Gambling, cockfighting and *sadati*-games were the chief pastimes indulged in by
 - [[VI Mukims of the XXV]]
 - [[Dalam (Sultan's Court)]]
 - [[Teungku di Bitay]]
-- [[Tuan di Bitay]]
+- [[Teungku di Bitay|Tuan di Bitay]]
 - [[Turkey (Ottoman Empire)]]
 - [[Jerusalem]]
 - [[Syria]]

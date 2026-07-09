@@ -19,7 +19,7 @@ Malik Ibrahim's mission in the early 15th century predates the establishment of 
 ## See Also
 
 - [[Soenan Goenoeng Djati]]
-- [[Islam in Atjeh]]
+- [[Islam in Aceh|Islam in Atjeh]]
 - [[Perlak]]
 - [[Pasé]]
 

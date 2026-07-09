@@ -16,18 +16,18 @@ Teungku Tiro "died in January 1891, still in the full vigour of life, after a su
 
 ## The dissolution of the party
 
-Teungku Tiro "had no true successor". His son Mat Amin, on whom the title would naturally have devolved, "was not wont to hearken to advice. In his dress he assumed the character of an uleebalang, and while his father, in receiving distinguished guests, always rose to meet them, the young man would remain sitting until they came up to him. Even the Achehnese consider Mat Amin proud, ignorant and headstrong, and when after his father's death he gave the rein more than ever to his evil passions, the great body of the adherents of Teungku Tiro at once melted away." Mat Amin himself was killed in action in [[1896]] — an event recorded under the [[Capture of Aneu' Galong fortress|capture of the Aneu' Galong fortress]] — and the mantle of Teungku Tiro then passed to his two other sons, [[Teungku Beb]] (died 1900) and [[Teungku Mahidin]], together with their kinsman [[Teungku Chot Plieng]] (died 1901). These continued to do their utmost to maintain the collections of the *sabil* contributions in the dependencies on the [[North Coast (of Acheh)|North Coast]]; but [[Great Acheh]] no longer furnished a field for their labour.
+Teungku Tiro "had no true successor". His son Mat Amin, on whom the title would naturally have devolved, "was not wont to hearken to advice. In his dress he assumed the character of an uleebalang, and while his father, in receiving distinguished guests, always rose to meet them, the young man would remain sitting until they came up to him. Even the Achehnese consider Mat Amin proud, ignorant and headstrong, and when after his father's death he gave the rein more than ever to his evil passions, the great body of the adherents of Teungku Tiro at once melted away." Mat Amin himself was killed in action in [[1896]] — an event recorded under the [[Battle of Aneu Galong (1896)|capture of the Aneu' Galong fortress]] — and the mantle of Teungku Tiro then passed to his two other sons, [[Teungku Beb]] (died 1900) and [[Teungku Mahidin]], together with their kinsman [[Teungku Chot Plieng]] (died 1901). These continued to do their utmost to maintain the collections of the *sabil* contributions in the dependencies on the [[North Coast (of Acheh)|North Coast]]; but [[Great Acheh]] no longer furnished a field for their labour.
 
 ## Significance
 
-The death of Teungku Tiro was thus, in Hurgronje's account, the moment at which the religious leadership of the Achehnese war-party was broken. The combination of functions that had made him unique — *ulama*, commander-in-chief, collector of the *haqq sabil* — could not be reproduced by any successor. The party continued, but its centre of gravity shifted to the [[North Coast (of Acheh)|North Coast]], and the war in [[Great Acheh]] itself became increasingly a matter of separate guerrilla bands under *adat*-chiefs and adventurers, until the close of the war under [[Van Heutsz's governorship|Van Heutsz's governorship]].
+The death of Teungku Tiro was thus, in Hurgronje's account, the moment at which the religious leadership of the Achehnese war-party was broken. The combination of functions that had made him unique — *ulama*, commander-in-chief, collector of the *haqq sabil* — could not be reproduced by any successor. The party continued, but its centre of gravity shifted to the [[North Coast (of Acheh)|North Coast]], and the war in [[Great Acheh]] itself became increasingly a matter of separate guerrilla bands under *adat*-chiefs and adventurers, until the close of the war under [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]].
 
 ## See Also
 
 - [[Teungku Tiro]]
 - [[Cheh Saman (Shaikh Samman)]]
 - [[Mat Amin]]
-- [[Capture of Aneu' Galong fortress]]
+- [[Battle of Aneu Galong (1896)|Capture of Aneu' Galong fortress]]
 - [[Tiro]]
 - [[Keumala]]
 - [[Achehnese War]]

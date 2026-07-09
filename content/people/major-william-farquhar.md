@@ -23,7 +23,7 @@ Raffles afterwards sought to justify his decision by Farquhar's concurrence. In 
 
 ## Later Career
 
-Farquhar became the first Resident of Singapore under Raffles, and is generally accounted the co-founder of the settlement. His wider Malaccan career belongs properly to the Singapore-Malacca record, but it is worth noting that his correspondence with Raffles during the Karimon episode was one of the immediate causes of the long quarrel between Raffles and the Penang government, a quarrel whose documentation forms the bulk of the [[Acheh treaty of 1819]] file studied by Van der Kemp.
+Farquhar became the first Resident of Singapore under Raffles, and is generally accounted the co-founder of the settlement. His wider Malaccan career belongs properly to the Singapore-Malacca record, but it is worth noting that his correspondence with Raffles during the Karimon episode was one of the immediate causes of the long quarrel between Raffles and the Penang government, a quarrel whose documentation forms the bulk of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] file studied by Van der Kemp.
 
 ## See Also
 
@@ -63,7 +63,7 @@ Raffles afterwards sought to justify his decision by Farquhar's concurrence. In 
 
 ## Later Career
 
-Farquhar became the first Resident of Singapore under Raffles, and is generally accounted the co-founder of the settlement. His wider Malaccan career belongs properly to the Singapore-Malacca record, but it is worth noting that his correspondence with Raffles during the Karimon episode was one of the immediate causes of the long quarrel between Raffles and the Penang government, a quarrel whose documentation forms the bulk of the [[Acheh treaty of 1819]] file studied by Van der Kemp.
+Farquhar became the first Resident of Singapore under Raffles, and is generally accounted the co-founder of the settlement. His wider Malaccan career belongs properly to the Singapore-Malacca record, but it is worth noting that his correspondence with Raffles during the Karimon episode was one of the immediate causes of the long quarrel between Raffles and the Penang government, a quarrel whose documentation forms the bulk of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] file studied by Van der Kemp.
 
 ## See Also
 

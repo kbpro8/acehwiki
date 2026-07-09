@@ -25,7 +25,7 @@ Musket is also the figure who, "speaking about the position and significance of 
 
 ## The list of Marechaussee commanders
 
-Musket is also the figure who lists the Marechaussee commanders of the [[Atjeh-oorlog|Aceh War]]: "[[Gilles Graafland|Graafland]], [[Van Daalen]], [[Campioni]], [[Christoffel]], [[Van der Maaten]], [[Scheepens]], [[Watrin]], [[Webb]], [[Colijn]], [[Geertsema Beckering]], [[Darlang]] and the sergeants [[Nussy]], [[Salowono]], [[Pongoh]] … a colourful row. *J'en passe et des meilleurs!*" The list is Musket's — and the book's — catalogue of the fellows of the old time, the famous cut-and-thrusters and Marechaussee commanders whose names "rang through the Indies like carillon music."
+Musket is also the figure who lists the Marechaussee commanders of the [[Atjeh-oorlog|Aceh War]]: "[[Gilles Graafland|Graafland]], [[Gotfried Coenraad Ernst van Daalen|Van Daalen]], [[Campioni]], [[Christoffel]], [[Van der Maaten]], [[Scheepens]], [[G. F. B. Watrin|Watrin]], [[Webb]], [[Hendrikus Colijn|Colijn]], [[Geertsema Beckering]], [[Darlang]] and the sergeants [[Nussy]], [[Salowono]], [[Pongoh]] … a colourful row. *J'en passe et des meilleurs!*" The list is Musket's — and the book's — catalogue of the fellows of the old time, the famous cut-and-thrusters and Marechaussee commanders whose names "rang through the Indies like carillon music."
 
 ## The Acehnese as the most effective ally against the Geumpenie
 
@@ -49,7 +49,7 @@ Musket is significant in *[[Oost-Indisch Journael]]* as the principal narrator o
 - [Prang sabil](/concept/prang-sabil)
 - [Atjeh-moord](/concept/atjeh-moord)
 - [[Gilles Graafland]]
-- [[Van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [[Nussy]]
 - [[Salowono]]
 
@@ -79,7 +79,7 @@ Musket is also the figure who, "speaking about the position and significance of 
 
 ## The list of Marechaussee commanders
 
-Musket is also the figure who lists the Marechaussee commanders of the [[Atjeh-oorlog|Aceh War]]: "[[Gilles Graafland|Graafland]], [[Van Daalen]], [[Campioni]], [[Christoffel]], [[Van der Maaten]], [[Scheepens]], [[Watrin]], [[Webb]], [[Colijn]], [[Geertsema Beckering]], [[Darlang]] and the sergeants [[Nussy]], [[Salowono]], [[Pongoh]] … a colourful row. *J'en passe et des meilleurs!*" The list is Musket's — and the book's — catalogue of the fellows of the old time, the famous cut-and-thrusters and Marechaussee commanders whose names "rang through the Indies like carillon music."
+Musket is also the figure who lists the Marechaussee commanders of the [[Atjeh-oorlog|Aceh War]]: "[[Gilles Graafland|Graafland]], [[Gotfried Coenraad Ernst van Daalen|Van Daalen]], [[Campioni]], [[Christoffel]], [[Van der Maaten]], [[Scheepens]], [[G. F. B. Watrin|Watrin]], [[Webb]], [[Hendrikus Colijn|Colijn]], [[Geertsema Beckering]], [[Darlang]] and the sergeants [[Nussy]], [[Salowono]], [[Pongoh]] … a colourful row. *J'en passe et des meilleurs!*" The list is Musket's — and the book's — catalogue of the fellows of the old time, the famous cut-and-thrusters and Marechaussee commanders whose names "rang through the Indies like carillon music."
 
 ## The Acehnese as the most effective ally against the Geumpenie
 
@@ -103,7 +103,7 @@ Musket is significant in *[[Oost-Indisch Journael]]* as the principal narrator o
 - [Prang sabil](/concept/prang-sabil)
 - [Atjeh-moord](/concept/atjeh-moord)
 - [[Gilles Graafland]]
-- [[Van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [[Nussy]]
 - [[Salowono]]
 

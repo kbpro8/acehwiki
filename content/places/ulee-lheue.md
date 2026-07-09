@@ -4,7 +4,7 @@ aliases: [Olehleh, Ulee Iheue, Uleë Iheue, Oleh Leue, Ulee Lheue, Olehheh, Ulee
 tags: [place, aceh-proper, coastal-place, kanduri-laut, sea-kanduri, monsoon, keunong, xxvi-mukims, gampong, coastal, capital, village, coast, port, achehnese, harbour, roadstead, colonial, dutch, buitenbezittingen]
 ---
 
-A port near the capital of [[Acheh]], the most important harbour. Teuku Nya' Muhamat (the loyal '[[Raja Muda]]' chief) used his efforts to advance the prosperity of the capital and of Ulee Lheue (Olehleh). The death of [[Teuku Asan]] occurred at Ulee Lheue under peculiar circumstances. The soldiers occupying the mosque of Ulee Lheue actually fired the fatal shot, though most Achehnese attributed it to Teuku Ne's followers. [[Teuku Uma]]'s dramatic submission to the Gompeuni included a journey to Ulee Lheue and [[Kutaraja]]. Near Ulee Lheue (the keude or bazaar) is the tomb of [[Tuan di Bunot]] (named because it lies beneath a huge bunot-tree). The tomb of Teungku [[Lam Guha]] ('saint of the cave'), a Javanese from [[Demak]], lies behind the mosque at Ulee Lheue and is now visited by many pilgrims. Also [[Teungku Pante Cheureumen]]'s tomb lies near Kuala Doe on the shore of Ulee Lheue.
+A port near the capital of [[Acheh]], the most important harbour. Teuku Nya' Muhamat (the loyal '[[Raja Muda]]' chief) used his efforts to advance the prosperity of the capital and of Ulee Lheue (Olehleh). The death of [[Teuku Asan]] occurred at Ulee Lheue under peculiar circumstances. The soldiers occupying the mosque of Ulee Lheue actually fired the fatal shot, though most Achehnese attributed it to Teuku Ne's followers. [[Teuku Uma]]'s dramatic submission to the Gompeuni included a journey to Ulee Lheue and [[Kutaraja]]. Near Ulee Lheue (the keude or bazaar) is the tomb of [[Tuan di Bunot]] (named because it lies beneath a huge bunot-tree). The tomb of Teungku [[Lam Gut|Lam Guha]] ('saint of the cave'), a Javanese from [[Demak]], lies behind the mosque at Ulee Lheue and is now visited by many pilgrims. Also [[Teungku Pante Cheureumen]]'s tomb lies near Kuala Doe on the shore of Ulee Lheue.
 
 ## Expanded account from *The Achehnese*, Vol. I — Ulee Iheue
 
@@ -84,7 +84,7 @@ Oeleë-Lheue was part of a network of missionary stations and military posts tha
 - [[Demak]]
 - [[Java]]
 - [[Kutaraja]]
-- [[Lam Guha]]
+- [[Lam Gut|Lam Guha]]
 - [[Raja Muda]]
 - [[Teuku Asan]]
 - [[Teuku Uma]]

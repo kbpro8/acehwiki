@@ -3,11 +3,11 @@ title: Djakarta
 aliases: [Jakarta, Batavia]
 tags: [place, city, indonesia]
 ---
-**Djakarta** (present‑day Jakarta) housed a collection of Arabic manuscripts that include commentaries on the Burda poem, indicating the poem’s circulation in the Indonesian archipelago. The source states: “commentaar van Khālid al‑Azhari 30) op de Burda onder de Arabische handschriften te Djakarta” [[Khālid al-Azhari]] [[Burda]] [[Djakarta]]. Manuscript numbers cited are Van Ronkel’s Supplement‑Catalog numbers 844, 845, 846‑851 etc. [[Van Ronkel]] [[Supplement-Catalog]].
+**Djakarta** (present‑day Jakarta) housed a collection of Arabic manuscripts that include commentaries on the Burda poem, indicating the poem’s circulation in the Indonesian archipelago. The source states: “commentaar van Khālid al‑Azhari 30) op de Burda onder de Arabische handschriften te Djakarta” [[Khālid al-Azhari]] [[Burda (poem)|Burda]] [[Djakarta]]. Manuscript numbers cited are Van Ronkel’s Supplement‑Catalog numbers 844, 845, 846‑851 etc. [[Van Ronkel]] [[Supplement-Catalog]].
 
 ## See Also
 - [[Atjeh]]
-- [[Burda]]
+- [[Burda (poem)|Burda]]
 - [[Khālid al-Azhari]]
 - [[Van Ronkel]]
 - [[Supplement-Catalog]]

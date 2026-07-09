@@ -4,7 +4,7 @@ aliases: [Abdul Hamid, Abdoel Hamid (Atjeh ambassador), Atjeh ambassador to Maur
 tags: [person, atjehnese, ambassador, 17th-century]
 ---
 
-**Abdoel Hamid** (also *Abdul Hamid*) was an [[Acheh|Atjeh]] ambassador who, in [[1602]], was sent by his Sultan — [[Sultan Aloeddin of Atjeh|Sultan Aloeddin]] — together with [[Sri Mohammed]] and [[Mir Hassan]] on the [[Atjeh embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits]] at the siege of Grave. He was already more than seventy years old when he set out, and he died at [[Middelburg]] in August [[1602]], only weeks after arriving in the Republic — the first recorded fatality of an Atjeh envoy on European soil.
+**Abdoel Hamid** (also *Abdul Hamid*) was an [[Acheh|Atjeh]] ambassador who, in [[1602]], was sent by his Sultan — [[Sultan Aloeddin of Atjeh|Sultan Aloeddin]] — together with [[Sri Mohammed]] and [[Mir Hassan]] on the [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits]] at the siege of Grave. He was already more than seventy years old when he set out, and he died at [[Middelburg]] in August [[1602]], only weeks after arriving in the Republic — the first recorded fatality of an Atjeh envoy on European soil.
 
 ## The embassy of 1602
 
@@ -20,7 +20,7 @@ After Abdoel Hamid's death, the remaining ambassadors [[Sri Mohammed]] and [[Mir
 
 ## Significance
 
-Abdoel Hamid is significant in the Dutch-Atjeh encounter as the senior figure of the [[Atjeh embassy to Prince Maurits at Grave (1602)|first Atjeh embassy to the Republic]], and as the first Atjeh ambassador known to have died on European soil. His death at Middelburg in August [[1602]] — well over seventy years old, having crossed two oceans to reach a country he would never leave — marks the human cost of the early modern diplomatic exchange between the sultanate of [[Acheh|Atjeh]] and the young Dutch Republic.
+Abdoel Hamid is significant in the Dutch-Atjeh encounter as the senior figure of the [[Aceh Embassy to Prince Maurits at Grave (1602)|first Atjeh embassy to the Republic]], and as the first Atjeh ambassador known to have died on European soil. His death at Middelburg in August [[1602]] — well over seventy years old, having crossed two oceans to reach a country he would never leave — marks the human cost of the early modern diplomatic exchange between the sultanate of [[Acheh|Atjeh]] and the young Dutch Republic.
 
 ## See Also
 
@@ -29,7 +29,7 @@ Abdoel Hamid is significant in the Dutch-Atjeh encounter as the senior figure of
 - [[Leonard Werner]]
 - [[Sultan Aloeddin of Atjeh]]
 - [[Prince Maurits]]
-- [[Atjeh embassy to Prince Maurits at Grave (1602)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits at Grave (1602)]]
 - [[Frederik de Houtman]]
 - [[Cornelis de Houtman]]
 - [[1602]]

@@ -20,7 +20,7 @@ The Dutch translation layer provides modern scholars with insight into how Acehn
 ## See Also
 
 - [[Kasidat al‑Burda (Malay translation)]]
-- [[Al‑Burda (Arabic poem)]]
+- [[Burda (poem)|Al‑Burda (Arabic poem)]]
 - [[Dutch East India Company]]
 - [[Aceh]]
 

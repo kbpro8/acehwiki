@@ -26,7 +26,7 @@ The administration of border territories like [[Tamiang]] presented unique chall
 
 ## See Also
 
-[[H. N. N. A. Swart]], [[Tamiang]], [[Civiel Gezaghebber]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[G. F. B. Watrin]], [[Th. J. Veltman]], [[Noord-Sumatra (proposed gewest)]], [[Langkat]]
+[[H. N. A. Swart|H. N. N. A. Swart]], [[Tamiang]], [[Civiel Gezaghebber]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[G. F. B. Watrin]], [[Th. J. Veltman]], [[Noord-Sumatra (proposed gewest)]], [[Langkat]]
 
 ## Source
 

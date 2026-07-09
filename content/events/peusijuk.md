@@ -88,7 +88,7 @@ In the case of human beings, the cooling with flour and water is followed by the
 - [[Musem ludih blang (Season of the freedom of the land)]]
 - [[Peusijue (Cooling ceremony)]]
 - [[Peusijue']]
-- [[Meulangga]]
+- [[Adat meulangga|Meulangga]]
 - [[Uleëbalang]]
 - [[Tabu system of sowing padi]]
 - [[Musem piche / Kot blang]]

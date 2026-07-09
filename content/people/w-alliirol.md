@@ -15,7 +15,7 @@ Allirol’s role illustrates the importance of riverine warfare in the **Aceh Wa
 
 ## See Also
 
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Flores (ship)]]
 - [[Soembawa (ship)]]
 - [[Sindoro (ship)]]

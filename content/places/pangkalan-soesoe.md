@@ -30,7 +30,7 @@ By [[1918]] the [[Bataafsche Petroleum Maatschappij|KPM]] had built loading jett
 
 ## Harbor plans and the Belawan decision
 
-In [[1905]]–[[1907]] the colonial government, urged by [[Governor-General Van Heutsz|Governor Van Heutsz]] (former [[Gouvernement Atjeh en Onderhoorigheden|Atjeh]] Governor), considered developing [[Telok Taboeban|Telok Taboean]] on the [[Aroebai|Aroebaai]] into a full *Oceanhaven* for the entire [[Gouvernement Oostkust van Sumatra|Oostkust]] cultivation zone. The Handelsvereeniging Medan opposed this, citing the bay's unfavorable position relative to the cultivation centers ([[Medan|Medan]], Tebing Tinggi, [[Pematang Siantar|Siantar]]). Engineer Kraus-de Jongh ([[1910]]) acknowledged [[Aroebai|Aroebaai]]'s technical advantages but recommended [[Belawan|Belawan]] on economic grounds. The government ultimately chose to improve [[Belawan|Belawan-Deli]] (Plan Nobel), and the [[Aroebai|Aroebaai]] ocean-harbor plan was abandoned. Pangkalan Soesoe was reduced to a steamer jetty for normal ships and tankers only — the residual fragment of the abandoned Oceaanhaven project.
+In [[1905]]–[[1907]] the colonial government, urged by [[Joannes Benedictus van Heutsz|Governor Van Heutsz]] (former [[Gouvernement Atjeh en Onderhoorigheden|Atjeh]] Governor), considered developing [[Telok Taboeban|Telok Taboean]] on the [[Aroebai|Aroebaai]] into a full *Oceanhaven* for the entire [[Gouvernement Oostkust van Sumatra|Oostkust]] cultivation zone. The Handelsvereeniging Medan opposed this, citing the bay's unfavorable position relative to the cultivation centers ([[Medan|Medan]], Tebing Tinggi, [[Pematang Siantar|Siantar]]). Engineer Kraus-de Jongh ([[1910]]) acknowledged [[Aroebai|Aroebaai]]'s technical advantages but recommended [[Belawan|Belawan]] on economic grounds. The government ultimately chose to improve [[Belawan|Belawan-Deli]] (Plan Nobel), and the [[Aroebai|Aroebaai]] ocean-harbor plan was abandoned. Pangkalan Soesoe was reduced to a steamer jetty for normal ships and tankers only — the residual fragment of the abandoned Oceaanhaven project.
 
 ## Administrative role
 
@@ -38,7 +38,7 @@ Pangkalan Soesoe lay just south of the [[Besitang|Besitang]] watershed boundary 
 
 ## Significance
 
-Pangkalan Soesoe is, in the Encyclopaedisch Bureau's [[1917]] account, the central junction of the [[1913]] extension projects of the [[Atjeh-tram|Atjeh-tramway]] — the point at which the [[Koeala Simpang|Koeala Simpang]]–[[Tamiang|Tamiang]]–[[Besitang|Besitang]] line, the [[Besitang|Besitang]]–Pangkalan Soesoe connecting line, and the [[Telok Taboeban|Telok Taboeban]]–Pangkalan Soesoe line to [[Aroebai|Arube Bay]] all converge. Its strategic position made it the principal inland node of the [[Aroe-baai-plannen|Aroe-baai-plannen]]. The [[1918]] Oostkust volume extends the picture: Pangkalan Soesoe was the surviving operational fragment of the abandoned [[Governor-General Van Heutsz|Van Heutsz]] Oceaanhaven project — the residual port that, after the [[1910]] Kraus-de Jongh report and the Plan Nobel decision, replaced [[Telok Taboeban|Telok Taboean]] as the bay's maritime outlet. Its double role as the [[Atjeh-tram|Atjeh-tram]] terminus and the [[Bataafsche Petroleum Maatschappij|Koninklijke Petroleum Maatschappij]] tanker port made it the principal hinge between the [[Gouvernement Atjeh en Onderhoorigheden|Atjeh]] and [[Gouvernement Oostkust van Sumatra|Oostkust]] petroleum and railway economies.
+Pangkalan Soesoe is, in the Encyclopaedisch Bureau's [[1917]] account, the central junction of the [[1913]] extension projects of the [[Atjeh-tram|Atjeh-tramway]] — the point at which the [[Koeala Simpang|Koeala Simpang]]–[[Tamiang|Tamiang]]–[[Besitang|Besitang]] line, the [[Besitang|Besitang]]–Pangkalan Soesoe connecting line, and the [[Telok Taboeban|Telok Taboeban]]–Pangkalan Soesoe line to [[Aroebai|Arube Bay]] all converge. Its strategic position made it the principal inland node of the [[Aroe-baai-plannen|Aroe-baai-plannen]]. The [[1918]] Oostkust volume extends the picture: Pangkalan Soesoe was the surviving operational fragment of the abandoned [[Joannes Benedictus van Heutsz|Van Heutsz]] Oceaanhaven project — the residual port that, after the [[1910]] Kraus-de Jongh report and the Plan Nobel decision, replaced [[Telok Taboeban|Telok Taboean]] as the bay's maritime outlet. Its double role as the [[Atjeh-tram|Atjeh-tram]] terminus and the [[Bataafsche Petroleum Maatschappij|Koninklijke Petroleum Maatschappij]] tanker port made it the principal hinge between the [[Gouvernement Atjeh en Onderhoorigheden|Atjeh]] and [[Gouvernement Oostkust van Sumatra|Oostkust]] petroleum and railway economies.
 
 ## See Also
 
@@ -59,7 +59,7 @@ Pangkalan Soesoe is, in the Encyclopaedisch Bureau's [[1917]] account, the centr
 - [[Belawan]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]
 - [[Gouvernement Oostkust van Sumatra]]
-- [[Governor-General Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor-General Van Heutsz]]
 - [[Kraus-de Jongh]]
 - [[Plan Nobel]]
 - [[Handelsvereeniging Medan]]

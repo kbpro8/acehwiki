@@ -9,7 +9,7 @@ The youngest of three brothers of King Poteu Ue' (Alaedin Juhan Shah) and centra
 
 ## Expanded account from *The Achehnese*, Vol. I — Pocut Muhamat
 
-**Pocut Muhamat** (Achehnese **Pochut Muhamat**) is the eponymous hero of the *Hikayat Pochut Muhamat*, one of the two ancient epic poems of [[Acheh]] — the other being the [[Hikayat Malem Dagang|Hikayat Malem Dagang]]. He is mentioned by [[C. Snouck Hurgronje|Snouck Hurgronje]] in Vol. I of *The Achehnese* as a prince who took up arms on behalf of his brother [[Alaedin Juhan Shah|Alaedin Juhan Shah]] ([[1756]]–[[1760]]) against the latter's Arab rival [[Jamalul Alam]].
+**Pocut Muhamat** (Achehnese **Pochut Muhamat**) is the eponymous hero of the *Hikayat Pochut Muhamat*, one of the two ancient epic poems of [[Acheh]] — the other being the [[Hikajat Malém Dagang|Hikajat Malém Dagang]]. He is mentioned by [[C. Snouck Hurgronje|Snouck Hurgronje]] in Vol. I of *The Achehnese* as a prince who took up arms on behalf of his brother [[Alaedin Juhan Shah|Alaedin Juhan Shah]] ([[1756]]–[[1760]]) against the latter's Arab rival [[Jamalul Alam]].
 
 The *Hikayat Pochut Muhamat* is described by Snouck Hurgronje as "a celebrated Achehnese heroic poem" which "depicts with no small skill the conflict waged by that prince in behalf of his brother Alaedin Juhan Shah ([[1756]]–[[1760]]) against the latter's Arab rival Jamalul-alam." Although the poem contains "sundry embroideries which characterize" such works, "it is to be noted that it was composed shortly after the war which it describes, and gives upon the whole an accurate description of the events and condition of things at that period." The poem is thus not only a literary monument but a historical source of considerable value, recording a critical phase in the dissolution of the [[Acheh|Achehnese]] Sultanate.
 
@@ -23,7 +23,7 @@ The poem also preserves, in frequent mentions of the *ureueng wakeueh raja* ("wa
 - [[Acheh]]
 - [[Alaedin Juhan Shah]]
 - [[Gampong Jawa]]
-- [[Hikayat Malem Dagang]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
 - [[Hikayat Pochut Muhamat]]
 - [[Jamalul Alam]]
 - [[Pangulee Beunaroe]]
@@ -41,7 +41,7 @@ The youngest of three brothers of King Poteu Ue' (Alaedin Juhan Shah) and centra
 
 ## Expanded account from *The Achehnese*, Vol. I — Pocut Muhamat
 
-**Pocut Muhamat** (Achehnese **Pochut Muhamat**) is the eponymous hero of the *Hikayat Pochut Muhamat*, one of the two ancient epic poems of [[Acheh]] — the other being the [[Hikayat Malem Dagang|Hikayat Malem Dagang]]. He is mentioned by [[C. Snouck Hurgronje|Snouck Hurgronje]] in Vol. I of *The Achehnese* as a prince who took up arms on behalf of his brother [[Alaedin Juhan Shah|Alaedin Juhan Shah]] ([[1756]]–[[1760]]) against the latter's Arab rival [[Jamalul Alam]].
+**Pocut Muhamat** (Achehnese **Pochut Muhamat**) is the eponymous hero of the *Hikayat Pochut Muhamat*, one of the two ancient epic poems of [[Acheh]] — the other being the [[Hikajat Malém Dagang|Hikajat Malém Dagang]]. He is mentioned by [[C. Snouck Hurgronje|Snouck Hurgronje]] in Vol. I of *The Achehnese* as a prince who took up arms on behalf of his brother [[Alaedin Juhan Shah|Alaedin Juhan Shah]] ([[1756]]–[[1760]]) against the latter's Arab rival [[Jamalul Alam]].
 
 The *Hikayat Pochut Muhamat* is described by Snouck Hurgronje as "a celebrated Achehnese heroic poem" which "depicts with no small skill the conflict waged by that prince in behalf of his brother Alaedin Juhan Shah ([[1756]]–[[1760]]) against the latter's Arab rival Jamalul-alam." Although the poem contains "sundry embroideries which characterize" such works, "it is to be noted that it was composed shortly after the war which it describes, and gives upon the whole an accurate description of the events and condition of things at that period." The poem is thus not only a literary monument but a historical source of considerable value, recording a critical phase in the dissolution of the [[Acheh|Achehnese]] Sultanate.
 
@@ -55,7 +55,7 @@ The poem also preserves, in frequent mentions of the *ureueng wakeueh raja* ("wa
 - [[Acheh]]
 - [[Alaedin Juhan Shah]]
 - [[Gampong Jawa]]
-- [[Hikayat Malem Dagang]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
 - [[Hikayat Pochut Muhamat]]
 - [[Jamalul Alam]]
 - [[Pangulee Beunaroe]]

@@ -12,7 +12,7 @@ His award and subsequent study illustrate the Dutch practice of promoting capabl
 ## See Also
 
 - [[Instituut der Marine|Institute of the Navy (Medemblik)]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[1824]]
 
 ## Source

@@ -4,7 +4,7 @@ aliases: [Eresabel, honorary saber, saber of honour]
 tags: [concept, decoration, dutch, military]
 ---
 
-**The Eresabel** — the honorary saber — was a Dutch colonial military decoration awarded for distinguished combat leadership, particularly to officers of the [[K.N.I.L.]] who had shown *Moed, Beleid en Trouw* in the field. In *[[Oom Ambon van het K.N.I.L.]]* the Eresabel is the companion decoration to the [[Militaire Willemsorde (M.W.O.)|M.W.O.]]: where the M.W.O. was the decoration of the rank-and-file soldaat and the onderofficier, the Eresabel was the decoration of the officer who had led them. The book's named Eresabel recipient is [[Schmidt]], who "kreeg dan ook voor [[1910]] de Eresabel en voor [[1911]] de M.W.O. 3e klas" — the Eresabel for the first year of the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]] and the M.W.O. 3e klas for the closing year.
+**The Eresabel** — the honorary saber — was a Dutch colonial military decoration awarded for distinguished combat leadership, particularly to officers of the [[K.N.I.L.]] who had shown *Moed, Beleid en Trouw* in the field. In *[[Oom Ambon van het K.N.I.L.]]* the Eresabel is the companion decoration to the [[Militaire Willemsorde|M.W.O.]]: where the M.W.O. was the decoration of the rank-and-file soldaat and the onderofficier, the Eresabel was the decoration of the officer who had led them. The book's named Eresabel recipient is [[Schmidt]], who "kreeg dan ook voor [[1910]] de Eresabel en voor [[1911]] de M.W.O. 3e klas" — the Eresabel for the first year of the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]] and the M.W.O. 3e klas for the closing year.
 
 ## The decoration and its scope
 
@@ -21,7 +21,7 @@ The Eresabel is significant in *[[Oom Ambon van het K.N.I.L.]]* as the companion
 ## See Also
 
 - [[Schmidt]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Oranje-Nassau (Orde van Oranje Nassau)]]
 - [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
 - [[Eervolle Vermelding]]

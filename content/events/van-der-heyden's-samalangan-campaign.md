@@ -8,7 +8,7 @@ tags: [event, dutch, military, colonial, atjeh, 19th-century, aceh-war, 1878, va
 
 ## The Samalangan campaign
 
-The [[De Kleine Oosterling|Wijma school reader]] records the Samalangan campaign as follows. After the death of [[Kolonel Pel|Kolonel Pel]] in [[1875]], "kreeg generaal Van der Heyden het oppergezag in Atjeh. Hij heeft den bijnaam van held van Samalangan gekregen. Dat rijk ligt naast dat van Atjeh. Nog niet lang was hij opperbevelhebber, of hij trok met een sterke krijgsmacht tegen Samalangan op."
+The [[De Kleine Oosterling|Wijma school reader]] records the Samalangan campaign as follows. After the death of [[J. L. J. H. Pel|J. L. J. H. Pel]] in [[1875]], "kreeg generaal Van der Heyden het oppergezag in Atjeh. Hij heeft den bijnaam van held van Samalangan gekregen. Dat rijk ligt naast dat van Atjeh. Nog niet lang was hij opperbevelhebber, of hij trok met een sterke krijgsmacht tegen Samalangan op."
 
 The school reader records the decisive moment of the campaign: "Terwijl een gedeelte van zijn soldaten den grootsten kampong van dat land aantastte, overviel hun eensklaps een groote vrees, en deinsden zij in verwarring terug. Dadelijk ging Van der Heyden naar hen toe. Hij plaatste zich aan hun hoofd en sprak een paar opwekkende woorden tot hen. Dat hielp, en onder een luid hoera volgden zij hun bevelhebber en veroverden de versterking. Die stoutheid kostte den dapperen aanvoerder het linkeroog. Een geweerkogel nam dit weg."
 
@@ -25,7 +25,7 @@ Van der Heyden's Samalangan campaign is, in the [[De Kleine Oosterling|school-te
 - [[Governorship of General Van der Heyden]]
 - [[Samalangan]]
 - [[Atjeh War]]
-- [[Kolonel Pel]]
+- [[J. L. J. H. Pel|Kolonel Pel]]
 - [[1878]]
 
 ## Source

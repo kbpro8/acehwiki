@@ -12,7 +12,7 @@ When the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] was being
 
 ## The Westerlinie, May-June 1874
 
-After the departure of [[J. van Swieten|Van Swieten]] on [[26 April]] [[26 April]] [[1874]] the war continued under [[J. L. J. H. Pel|General Pel]]. In [[May 1874|May-June 1874]] the enemy resumed the struggle "with the greatest possible boldness and perseverance," evidently in the hope of overwhelming the weakened garrison. To protect Toekoe Nek adequately, Pel occupied the Westerlinie — a series of posts west of Kota Radja to connect it with Marassa and [[Lampassei|Lampassei]]. The principal post on this line was [[Oleh-leh|Oleh-leh]].
+After the departure of [[Jan van Swieten|Van Swieten]] on [[26 April]] [[26 April]] [[1874]] the war continued under [[J. L. J. H. Pel|General Pel]]. In [[May 1874|May-June 1874]] the enemy resumed the struggle "with the greatest possible boldness and perseverance," evidently in the hope of overwhelming the weakened garrison. To protect Toekoe Nek adequately, Pel occupied the Westerlinie — a series of posts west of Kota Radja to connect it with Marassa and [[Lampassei|Lampassei]]. The principal post on this line was [[Oleh-leh|Oleh-leh]].
 
 ## See Also
 
@@ -22,7 +22,7 @@ After the departure of [[J. van Swieten|Van Swieten]] on [[26 April]] [[26 April
 - [[Lampassei]]
 - [[Oleh-leh]]
 - [[Kwala Loë]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[J. L. J. H. Pel]]
 - [[Second Aceh Expedition (1873-1874)]]
 - [[Capture of the Kraton (24 January 1874)]]

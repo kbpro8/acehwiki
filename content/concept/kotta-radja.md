@@ -38,7 +38,7 @@ Kotta-Radja is, in the [[De Kleine Oosterling|school-textbook]] narrative, the s
 - [[Oleh-leh]]
 - [[Penajoeng]]
 - [[Second Aceh Expedition (1873-1874)]]
-- [[Generaal Van Swieten]]
+- [[Jan van Swieten|Generaal Van Swieten]]
 - [[1874]]
 
 ## Source

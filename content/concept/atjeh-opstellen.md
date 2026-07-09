@@ -4,7 +4,7 @@ aliases: [Aceh Essays, Keuchenius's Aceh Essays]
 tags: [document, publication, colonial, politics, aceh]
 ---
 
-**Atjeh-opstellen** (Aceh Essays) is a series of writings by [[Keuchenius|W. H. J. Keuchenius]], published in April [[1896]], which analyzed the situation in [[Aceh]] and the military campaign led by [[J. B. van Heutsz]]. The work is significant as it represented a contemporary, public endorsement of Van Heutsz's policies and is cited by Keuchenius to establish his own credibility and engagement with Acehnese affairs.
+**Atjeh-opstellen** (Aceh Essays) is a series of writings by [[Keuchenius|W. H. J. Keuchenius]], published in April [[1896]], which analyzed the situation in [[Aceh]] and the military campaign led by [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]. The work is significant as it represented a contemporary, public endorsement of Van Heutsz's policies and is cited by Keuchenius to establish his own credibility and engagement with Acehnese affairs.
 
 ## Publication and content
 
@@ -17,7 +17,7 @@ The Atjeh-opstellen serve as a primary source for understanding the climate of o
 ## See Also
 
 - [[Keuchenius]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Submission of Aceh]]
 - [[Aceh]]
 - [[Kracht van wapenen]]

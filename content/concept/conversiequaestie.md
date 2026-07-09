@@ -18,7 +18,7 @@ By decision of [[1 July]] [[1 July]] [[1874]] the general secretary Levyssohn No
 
 ## The Halt and the Fall of Loudon, 4 November 1874
 
-The reports received here about those conversions gave the Minister of Colonies, [[Van Goltstein|Van Goltstein]], occasion to send a telegram on [[4 November]] [[4 November]] [[1874]] whereby the Governor-General was requested to cause the official journey of the general secretary to be stopped. "In writing the viceroy was invited to guard against all pressure for conversion on the part of European officials, and to issue no general ordonnantie, except after consultation with the Opperbestuur, in the spirit of art. 20 of the [[Regeeringsreglement|Regeeringsreglement]]. Such consultation seemed to be desired both because of the great interest involved in the matter, and because it had appeared that in Indië very divergent opinions existed about the proposed regulation." The Governor-General complied with the instruction given him, but at the same time requested honourable discharge, which was granted him by Royal Decree of [[17 December]] [[17 December]] [[1874]].
+The reports received here about those conversions gave the Minister of Colonies, [[W. van Goltstein|W. van Goltstein]], occasion to send a telegram on [[4 November]] [[4 November]] [[1874]] whereby the Governor-General was requested to cause the official journey of the general secretary to be stopped. "In writing the viceroy was invited to guard against all pressure for conversion on the part of European officials, and to issue no general ordonnantie, except after consultation with the Opperbestuur, in the spirit of art. 20 of the [[Regeeringsreglement|Regeeringsreglement]]. Such consultation seemed to be desired both because of the great interest involved in the matter, and because it had appeared that in Indië very divergent opinions existed about the proposed regulation." The Governor-General complied with the instruction given him, but at the same time requested honourable discharge, which was granted him by Royal Decree of [[17 December]] [[17 December]] [[1874]].
 
 ## The Draft Ordinance of 1 February 1875
 
@@ -38,8 +38,8 @@ The report of [[1880]] concluded: "From the answers received, it has appeared th
 
 - [[H. D. Levyssohn Norman]]
 - [[J. Loudon]]
-- [[J. W. van Lansberge]]
-- [[Van Goltstein]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
+- [[W. van Goltstein|Van Goltstein]]
 - [[T. H. der Kinderen]]
 - [[B. van Baak]]
 - [[Agrarische wet]]

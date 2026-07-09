@@ -157,7 +157,7 @@ The Gold and silver in Atjeh is significant for the encyclopedia of [[Acheh]] hi
 - [[S. Assai]]
 - [[Platinum in Atjeh]]
 - [[H. Wolvekamp]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[1941]]
 - [[Geudong Concession]]
 - [[Gold and silver in Atjeh]]
@@ -190,7 +190,7 @@ translation from the Dutch).
 [[Veltman]], "Goudontginning in Atjeh" ["Gold Exploitation in Atjeh"], in *T.K.N.A.G.* (1906), V. —
 cited in the source.
 
-C. [[Christiaan Snouck Hurgronje|Snouck Hurgronje]], *Het Gajo-land en zijne bewoners*, p. 361 —
+C. [[C. Snouck Hurgronje|Snouck Hurgronje]], *Het Gajo-land en zijne bewoners*, p. 361 —
 cited in the source.
 
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), pp. 105–122 (gold and silver in Sumatra, including the Atjeh explorations of 1922 and 1946 and the M.A.E.M. Geudong Concession production).

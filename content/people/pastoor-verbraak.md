@@ -5,7 +5,7 @@ aliases: [Verbraak, Soldaten-Pastoor, Catholic military chaplain Verbraak, Fathe
 tags: [person, clergy, dutch, knil, aceh]
 ---
 
-**Pastoor Verbraak** was the Catholic military chaplain of [[Atjeh|Aceh]] — the *Soldaten-Pastoor* — who, alongside the Ambonese *Inlands Godsdienstleraar* [[Dominee Thenu|Thenu]] (the *Soldaten-Dominee*), served as the geestelijk verzorger of the [[K.N.I.L.]] troops during the [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] era. He resided in Aceh for well over thirty years and acquired the honorary title of "first flanquer of the East Indian army." His partnership with Thenu is held up in *[[Oom Ambon van het K.N.I.L.]]* as the model of how a colonial garrison's spiritual care was actually done — not by the book, but by two men of different confessions who recognised each other's gezag and shared the work without disputing sacramenten en geloofsleer.
+**Pastoor Verbraak** was the Catholic military chaplain of [[Atjeh|Aceh]] — the *Soldaten-Pastoor* — who, alongside the Ambonese *Inlands Godsdienstleraar* [[Dominee Thenu|Thenu]] (the *Soldaten-Dominee*), served as the geestelijk verzorger of the [[K.N.I.L.]] troops during the [[Joannes Benedictus van Heutsz|Van Heutsz]] era. He resided in Aceh for well over thirty years and acquired the honorary title of "first flanquer of the East Indian army." His partnership with Thenu is held up in *[[Oom Ambon van het K.N.I.L.]]* as the model of how a colonial garrison's spiritual care was actually done — not by the book, but by two men of different confessions who recognised each other's gezag and shared the work without disputing sacramenten en geloofsleer.
 
 In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Verbraak is the figure whom [[Musket]] immediately names when speaking about the position and significance of the military chaplain in the Dutch East Indies: "Musket, of course, immediately named the great soldier-priest Father Verbraak, who resided in Aceh for well over thirty years and acquired the honorary title of 'first flanquer of the East Indian army.'"
 
@@ -50,7 +50,7 @@ Verbraak's writings are invaluable for their immediacy and detail. They were lat
 
 ## See Also
 - [[Dominee Thenu]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[Koeta-Radja]]
 - [[Oost-Indisch Journael]]
@@ -75,7 +75,7 @@ Verbraak's writings are invaluable for their immediacy and detail. They were lat
 ---
 
 
-**Pastoor Verbraak** was the Catholic military chaplain of [[Atjeh|Aceh]] — the *Soldaten-Pastoor* — who, alongside the Ambonese *Inlands Godsdienstleraar* [[Dominee Thenu|Thenu]] (the *Soldaten-Dominee*), served as the geestelijk verzorger of the [[K.N.I.L.]] troops during the [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] era. He resided in Aceh for well over thirty years and acquired the honorary title of "first flanquer of the East Indian army." His partnership with Thenu is held up in *[[Oom Ambon van het K.N.I.L.]]* as the model of how a colonial garrison's spiritual care was actually done — not by the book, but by two men of different confessions who recognised each other's gezag and shared the work without disputing sacramenten en geloofsleer.
+**Pastoor Verbraak** was the Catholic military chaplain of [[Atjeh|Aceh]] — the *Soldaten-Pastoor* — who, alongside the Ambonese *Inlands Godsdienstleraar* [[Dominee Thenu|Thenu]] (the *Soldaten-Dominee*), served as the geestelijk verzorger of the [[K.N.I.L.]] troops during the [[Joannes Benedictus van Heutsz|Van Heutsz]] era. He resided in Aceh for well over thirty years and acquired the honorary title of "first flanquer of the East Indian army." His partnership with Thenu is held up in *[[Oom Ambon van het K.N.I.L.]]* as the model of how a colonial garrison's spiritual care was actually done — not by the book, but by two men of different confessions who recognised each other's gezag and shared the work without disputing sacramenten en geloofsleer.
 
 In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Verbraak is the figure whom [[Musket]] immediately names when speaking about the position and significance of the military chaplain in the Dutch East Indies: "Musket, of course, immediately named the great soldier-priest Father Verbraak, who resided in Aceh for well over thirty years and acquired the honorary title of 'first flanquer of the East Indian army.'"
 
@@ -120,7 +120,7 @@ Verbraak's writings are invaluable for their immediacy and detail. They were lat
 
 ## See Also
 - [[Dominee Thenu]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[Koeta-Radja]]
 - [[Oost-Indisch Journael]]

@@ -3,7 +3,7 @@ title: M. van Buuren
 aliases: ["M. van Buuren", "Surgeon‑Major M. van Buuren"]
 tags: [person, military, dutch, colonial]
 ---
-**M. van Buuren** was a **[[surgeon‑major]]** of the **[[Dutch Marine Corps|Korps Mariniers]]** who received an **honourable mention** by **[[Royal Decree of 5 July 1893|Koninklijk Besluit van 5 Juli 1893]]** for his meritorious service on **[[Flores (1878)]]**.  
+**M. van Buuren** was a **[[surgeon‑major]]** of the **[[Royal Netherlands Marine Corps|Korps Mariniers]]** who received an **honourable mention** by **[[Royal Decree of 5 July 1893|Koninklijk Besluit van 5 Juli 1893]]** for his meritorious service on **[[Flores (1878)]]**.  
 
 ## Honour  
 

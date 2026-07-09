@@ -52,7 +52,7 @@ The Painans Contract is a landmark in the history of [[international law|colonia
 - [[Joan Maetsuycker]]
 - [[Jan van Groenewegen]]
 - [[Sumatra]]
-- [[Minangkabau]]
+- [[Menangkabau|Minangkabau]]
 - [[Painan]]
 - [[Indrapura]]
 - [[Perak]]

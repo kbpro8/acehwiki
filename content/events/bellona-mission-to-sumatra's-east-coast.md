@@ -14,7 +14,7 @@ Prince, who happened to be at Batavia at the end of [[1827]], learned of the Bel
 
 ## Fullerton's Response
 
-Governor [[Robert Fullerton|Fullerton]] laid Prince's despatch before his council in a minute of [[16 March 1828|16 March 1828]]. He had, he stated, already received information from other sources, and a letter had already been addressed to the chiefs of Siak expressing in general terms British anxiety to continue and promote the growing trade between that state and the British settlements on the Malay side of the Straits. Fullerton had no doubt that the Netherlands government would avail itself, to the full extent of its means, of the exclusive right which it conceived vested in it by the [[Anglo-Dutch Treaty of London (1824)|Treaty of 1824]] of forming political relations with the chiefs of Sumatra, and that the political influence so established would be rendered entirely subservient to the promotion of Dutch trade and the deterioration of British trade. He concluded by proposing to address to all the chiefs of the East Coast with whom trade was carried on, a circular similar to the one already sent to those of Siak — a proposal executed on [[21 May 1828|21 May 1828]] in [[Fullerton's circular to nine Siak chiefs|Fullerton's circular to nine Siak chiefs]].
+Governor [[Robert Fullerton|Fullerton]] laid Prince's despatch before his council in a minute of [[16 March 1828|16 March 1828]]. He had, he stated, already received information from other sources, and a letter had already been addressed to the chiefs of Siak expressing in general terms British anxiety to continue and promote the growing trade between that state and the British settlements on the Malay side of the Straits. Fullerton had no doubt that the Netherlands government would avail itself, to the full extent of its means, of the exclusive right which it conceived vested in it by the [[Anglo-Dutch Treaty of 1824|Treaty of 1824]] of forming political relations with the chiefs of Sumatra, and that the political influence so established would be rendered entirely subservient to the promotion of Dutch trade and the deterioration of British trade. He concluded by proposing to address to all the chiefs of the East Coast with whom trade was carried on, a circular similar to the one already sent to those of Siak — a proposal executed on [[21 May 1828|21 May 1828]] in [[Fullerton's circular to nine Siak chiefs|Fullerton's circular to nine Siak chiefs]].
 
 ## Significance
 
@@ -31,7 +31,7 @@ The Bellona mission is significant in Van der Kemp's narrative as one of the fir
 - [[Fullerton's letter to Sultan of Siak (7 February 1828)]]
 - [[Fullerton's minute on Acheh]]
 - [[Java War]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Singapore]]
 - [[Riouw]]
 - [[Sumatra's East Coast]]

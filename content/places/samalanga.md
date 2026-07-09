@@ -10,7 +10,7 @@ tags: ["aceh-proper", "achehnese", "coast", "colonial", "military-operations", "
 
 ### Military Operations in Samalanga
 
-The clearest direct mention of Samalanga as a place in Vol. I is in Snouck Hurgronje's portrait of the **Imeum of Lueng Bata**, the adat-chief who took a zealous part in the defence of the capital at the outbreak of the national war in [[1873]]. Of him Snouck writes: "This Imeum [he died in the year [[1901]] during the military operations in Samalanga] was a rare phenomenon among the dealing with men. Like most of his fellows he sought to be foremost at fights of animals, gambling parties and sanguinary internal forays. At the same time he possessed those qualities whereby an Achehnese may rise to be an uleebalang though not entitled to such a position by his birth." The death of the Imeum in the Samalanga operations in [[1901]] — during the renewed offensive that followed [[Governor Van Heutsz|Governor Van Heutsz's]] taking of direction in [[1898]] — indicates that Samalanga remained a major theatre of armed resistance into the very last phase of the war.
+The clearest direct mention of Samalanga as a place in Vol. I is in Snouck Hurgronje's portrait of the **Imeum of Lueng Bata**, the adat-chief who took a zealous part in the defence of the capital at the outbreak of the national war in [[1873]]. Of him Snouck writes: "This Imeum [he died in the year [[1901]] during the military operations in Samalanga] was a rare phenomenon among the dealing with men. Like most of his fellows he sought to be foremost at fights of animals, gambling parties and sanguinary internal forays. At the same time he possessed those qualities whereby an Achehnese may rise to be an uleebalang though not entitled to such a position by his birth." The death of the Imeum in the Samalanga operations in [[1901]] — during the renewed offensive that followed [[Joannes Benedictus van Heutsz|Governor Van Heutsz's]] taking of direction in [[1898]] — indicates that Samalanga remained a major theatre of armed resistance into the very last phase of the war.
 
 ### Habib Samalanga
 
@@ -29,11 +29,11 @@ Samalanga was a stronghold of Acehnese resistance, particularly under the leader
 
 ### The Battle of Batêê Iliê ([[1901]])
 
-Batêê Iliê was a fortified village in Samalanga that had successfully resisted Dutch attacks for twenty years. In [[1901]], **[[J. B. van Heutsz]]** personally led an assault on the position. After a hard fight, Batêê Iliê fell, and Samalanga was brought under Dutch control.
+Batêê Iliê was a fortified village in Samalanga that had successfully resisted Dutch attacks for twenty years. In [[1901]], **[[Joannes Benedictus van Heutsz|J. B. van Heutsz]]** personally led an assault on the position. After a hard fight, Batêê Iliê fell, and Samalanga was brought under Dutch control.
 
 ### Aftermath
 
-After the battle, Panglima Polem retreated into the interior. He was eventually surrounded and surrendered to **[[H. Colijn]]** at **[[Lhokseumawe]]** in [[1903]].
+After the battle, Panglima Polem retreated into the interior. He was eventually surrounded and surrendered to **[[Hendrikus Colijn|H. Colijn]]** at **[[Lhokseumawe]]** in [[1903]].
 
 ## Sources
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, [[1906]].
@@ -49,7 +49,7 @@ The Samalanga passage in *De Karbouw* (p. 124) runs in full:
 The passage locates Samalanga within a layered account of Atjehnese dairy practice: buffaloes are the principal milk-animal (goats additionally in Pedirse), the milk is used in *kandji* rice-porridge (a Tamil loan-word) at ceremonial occasions, the curdled *dadih* is sometimes eaten with rice or banana by Atjehnese (rarely by Gajos), and is especially favoured by the Klingalese (who call it *tairō*) and Arabs (who call it *halib*) of Atjeh — and Samalanga is the locality singled out for the abundance of its *dadih* production.
 
 ## Historical context
-Samalanga was, in the period of the [[Aceh War|Atjeh War]] of the late nineteenth and early twentieth centuries, one of the most stubbornly resistant districts of the Atjehnese interior, and its name figures prominently in the Dutch military and administrative literature on the pacification of Atjeh. [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] treats Samalanga as one of the principal seats of the Atjehnese resistance. The fact that Samalanga was, in *De Karbouw*'s ethnographic present, also a centre of *dadih* production is a small but pointed reminder that the ethnographic and the military-administrative faces of the Dutch encounter with Atjeh were inscribed on the same localities.
+Samalanga was, in the period of the [[Aceh War|Atjeh War]] of the late nineteenth and early twentieth centuries, one of the most stubbornly resistant districts of the Atjehnese interior, and its name figures prominently in the Dutch military and administrative literature on the pacification of Atjeh. [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] treats Samalanga as one of the principal seats of the Atjehnese resistance. The fact that Samalanga was, in *De Karbouw*'s ethnographic present, also a centre of *dadih* production is a small but pointed reminder that the ethnographic and the military-administrative faces of the Dutch encounter with Atjeh were inscribed on the same localities.
 
 
 ## Significance
@@ -59,18 +59,18 @@ Samalanga's significance for the encyclopedia of [[Acheh]] history is as a docum
 - [[Aceh War]]
 - [[Acheh]]
 - [[Batêê Iliê]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Gajoland]]
 - [[Habib Samalanga]]
-- [[Hikayat Prang Gompeuni]]
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 - [[Imeum of Lueng Bata]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Kreemer's De Karbouw ([[1956]])]]
 - [[Lhokseumawe]]
 - [[Panglima Polem]]
 - [[Pedirse]]
 - [[Snouck Hurgronje's De Atjehers ([[1893]]-94)]]
-- [[Teungku Kuta Karang]]
+- [[Teungku Kutakarang|Teungku Kuta Karang]]
 - [[Teungku Kutakarang]]
 - [[Teungku Tiro]]
 - [[Tiro]]

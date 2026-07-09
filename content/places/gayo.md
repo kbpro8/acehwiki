@@ -25,7 +25,7 @@ The strategic importance of the Gayo highlands imposed itself on Dutch operation
 - [[Acheh]]
 - [[Achehnese War]]
 - [[General van der Heijden's excursions (marches through the highlands)]]
-- [[Van Heutsz's governorship]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz's governorship]]
 
 ## Source
 

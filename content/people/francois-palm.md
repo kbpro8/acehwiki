@@ -4,7 +4,7 @@ aliases: ["François Palm (Marine officer)", "F. Palm", "Colonel François Palm"
 tags: [person, marine, colonel, dutch, aceh]
 ---
 
-**François Palm** was a Dutch [[person|colonel]] of the [[Dutch Marine Corps|Mariniers]] who served both in the East Indies and in European wars.  He commanded the 64‑gun ship *[[Devvenerr]]* during the 1667 Dutch expedition against the English fleet on the River Thames, later became colonel of the newly formed [[Regiment de Marine]] and fought in the defence of the [[Holland Waterline]] during the French invasion crisis of [[1672]], and distinguished himself at the [[Siege of Naarden (1674)|Siege of Naarden]] where he led the half‑marine regiment that stormed the [[Huizerpoort]] and the contre‑escarp, sustaining a wound from a grenade and witnessing the death of two of his sons.  His career illustrates the fluid movement of Dutch marine officers between colonial campaigns against the Sultanate of [[Aceh]] and major European conflicts.
+**François Palm** was a Dutch [[person|colonel]] of the [[Royal Netherlands Marine Corps|Mariniers]] who served both in the East Indies and in European wars.  He commanded the 64‑gun ship *[[Devvenerr]]* during the 1667 Dutch expedition against the English fleet on the River Thames, later became colonel of the newly formed [[Regiment de Marine]] and fought in the defence of the [[Holland Waterline]] during the French invasion crisis of [[1672]], and distinguished himself at the [[Siege of Naarden (1674)|Siege of Naarden]] where he led the half‑marine regiment that stormed the [[Huizerpoort]] and the contre‑escarp, sustaining a wound from a grenade and witnessing the death of two of his sons.  His career illustrates the fluid movement of Dutch marine officers between colonial campaigns against the Sultanate of [[Aceh]] and major European conflicts.
 
 ## Early VOC service and East Indies actions
 Palm began his naval career aboard VOC vessels in the East Indies, taking part in minor actions against the Sultanate of [[Aceh]] in the mid‑[[1660s]].  This experience in combined naval‑land operations prepared him for later amphibious assaults in Europe.
@@ -28,7 +28,7 @@ François Palm’s trajectory—from VOC actions in Southeast Asia to key roles 
 
 - [[Dutch East India Company]]
 - [[Regiment de Marine]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Siege of Naarden (1674)]]
 - [[Aceh War (1659–1663)]]
 - [[Aceh War (1873–1904)]]

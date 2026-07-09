@@ -26,7 +26,7 @@ The expedition was, by commercial measures, a failure. Its political importance 
 
 Stapel follows the Houtman story into its next phase. In [[1600]] [[Paulus van Caerden|Paulus van Caerden]], dispatched by the *Nieuwe Brabantsche Compagnie* founded by [[Isaac Le Maire|Isaac Le Maire]] and others with four ships under the supreme command of [[Pieter Both|Pieter Both]], arrived at Atjeh. "Frederik de H[outman], hoping to procure not only his own but also his fellow-prisoners' release, and to obtain cargo from Van Caerden, did indeed go aboard, but received from the prince no permission to repatriate; their imprisonment, however, was bearable" (*Frederik de H., verhoopende niet alleen syne, maar ook zijner medegevangenen verlossing te procureeren [en] van Caerden lading te besorgen, ging wel aan boord, maar kreeg met de anderen van den vorst geen vergunning om te repatriceren; hun gevangenschap echter was dragelijk*).
 
-The release of the Houtman party came the following year through the unrelated arrival of [[Gerard Leroy|Gerard Leroy]]. In August [[1601]], Leroy — dispatched by the *Middelburgsche Compagnie* founded by [[Adriaen Hendriksz ten Haeff|Adriaen Hendriksz ten Haeff]] and others in January of that year, with four ships — called at Atjeh. By then the political wind at the Acehnese court had shifted: "Meanwhile the Atjehers and Portuguese had fallen into enmity, so that when in August '01 Gerard Leroy … here put in, Frederik de H[outman] and his men were set at liberty, even before a corresponding letter from Prince [[Maurits van Oranje|Maurits]] to the prince had been presented" (*Intusschen geraakten de Atjehers en Portugeezen in vijandschap, zoodat toen in Aug. '01 Gerard Leroy … hier aanliep, Frederik de H. en de zijnen in vrijheid werden gesteld, nog vóór een desbetreffend schrijven van Prins Maurits aan den vorst was overhandigd*).
+The release of the Houtman party came the following year through the unrelated arrival of [[Gerard le Roy|Gerard le Roy]]. In August [[1601]], Leroy — dispatched by the *Middelburgsche Compagnie* founded by [[Adriaen Hendriksz ten Haeff|Adriaen Hendriksz ten Haeff]] and others in January of that year, with four ships — called at Atjeh. By then the political wind at the Acehnese court had shifted: "Meanwhile the Atjehers and Portuguese had fallen into enmity, so that when in August '01 Gerard Leroy … here put in, Frederik de H[outman] and his men were set at liberty, even before a corresponding letter from Prince [[Maurits van Oranje|Maurits]] to the prince had been presented" (*Intusschen geraakten de Atjehers en Portugeezen in vijandschap, zoodat toen in Aug. '01 Gerard Leroy … hier aanliep, Frederik de H. en de zijnen in vrijheid werden gesteld, nog vóór een desbetreffend schrijven van Prins Maurits aan den vorst was overhandigd*).
 
 ## Aftermath: factory and ambassadors
 
@@ -38,7 +38,7 @@ The Leroy visit also produced the first formal Dutch-Acehnese commercial settlem
 - [[Frederik de Houtman]]
 - [[Guyon Lefort]]
 - [[Paulus van Caerden]]
-- [[Gerard Leroy]]
+- [[Gerard le Roy|Gerard Leroy]]
 - [[Balthasar de Moucheron]]
 - [[Isaac Le Maire]]
 - [[Pieter Both]]

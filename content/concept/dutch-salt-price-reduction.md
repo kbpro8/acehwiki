@@ -4,7 +4,7 @@ aliases: [Java salt price reduction, salt price reduction of 1827, Java-zout ver
 tags: [concept, colonial-policy, economic-policy, diplomatic-concept]
 ---
 
-The **Dutch Salt Price Reduction** — the considerable lowering of the export price of government salt from [[Java|Java]], destined for the Outer Possessions — was an early [[Netherlands India|Netherlands-Indian]] commercial measure that, although wholly economic in design, came to be represented by British observers at [[Singapore|Singapore]] as a hostile act directed against the trade of the new free port. P. H. van der Kemp discussed the reduction in appendix material of his 1900 study of the [[Acheh treaty of 1819|Acheh treaty of 1819]], partly in order to expose the readiness with which ordinary commercial competition was recast, in British rhetoric, as "specific enmity" against England.
+The **Dutch Salt Price Reduction** — the considerable lowering of the export price of government salt from [[Java|Java]], destined for the Outer Possessions — was an early [[Netherlands India|Netherlands-Indian]] commercial measure that, although wholly economic in design, came to be represented by British observers at [[Singapore|Singapore]] as a hostile act directed against the trade of the new free port. P. H. van der Kemp discussed the reduction in appendix material of his 1900 study of the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]], partly in order to expose the readiness with which ordinary commercial competition was recast, in British rhetoric, as "specific enmity" against England.
 
 ## The measure and its authorship
 
@@ -16,7 +16,7 @@ The reduction was reported to Pinang in a letter of [[John Prince|John Prince]],
 
 ## Van der Kemp's analysis
 
-Van der Kemp's commentary is pointed. The significant reduction of the price of government salt on Java, intended for export, stood, he insists, in no other connection with "fierce enmity against Singapore" than this: that every interested party naturally seeks to bring his wares to market and to draw trade toward himself. When such competition happens to disadvantage English interests, however, it is at once christened "specific enmity". The argument was, in Van der Kemp's view, characteristic of the genre: ordinary commercial competition was redescribed as political hostility, and was then folded into the broader programme of British remonstrance against Dutch commercial policy in the archipelago. The salt-price episode thus takes its place alongside the protests against Dutch differential duties and against Dutch expansion on the East Coast as one of the recurrent occasions at which the restrictive reading of the [[Anglo-Dutch Treaty of London (1824)|Treaty of London of 1824]] was pressed into service.
+Van der Kemp's commentary is pointed. The significant reduction of the price of government salt on Java, intended for export, stood, he insists, in no other connection with "fierce enmity against Singapore" than this: that every interested party naturally seeks to bring his wares to market and to draw trade toward himself. When such competition happens to disadvantage English interests, however, it is at once christened "specific enmity". The argument was, in Van der Kemp's view, characteristic of the genre: ordinary commercial competition was redescribed as political hostility, and was then folded into the broader programme of British remonstrance against Dutch commercial policy in the archipelago. The salt-price episode thus takes its place alongside the protests against Dutch differential duties and against Dutch expansion on the East Coast as one of the recurrent occasions at which the restrictive reading of the [[Anglo-Dutch Treaty of 1824|Treaty of London of 1824]] was pressed into service.
 
 ## The Bellona mission and after
 
@@ -28,8 +28,8 @@ The salt price reduction thus illustrates, in Van der Kemp's analytical framewor
 
 ## See Also
 
-- [[Acheh treaty of 1819]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Bellona mission to Sumatra's East Coast (1827-1828)]]
 - [[Fullerton's circular to nine Siak chiefs]]
 - [[Fullerton's letter to Sultan of Siak (7 February 1828)]]

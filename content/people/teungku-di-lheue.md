@@ -23,7 +23,7 @@ Teungku di Lheue, then, is one of the shadowy figures whose very obscurity throw
 - [[Panglima Polem]]
 - [[XXII Mukims of Panglima Poleem]]
 - [[Teungku Lam Paya (ulama)]]
-- [[Kali]]
+- [[Teuku Kali Malikon Ade|Kali]]
 
 ## Source
 
@@ -49,7 +49,7 @@ Teungku di Lheue, then, is one of the shadowy figures whose very obscurity throw
 - [[Panglima Polem]]
 - [[XXII Mukims of Panglima Poleem]]
 - [[Teungku Lam Paya (ulama)]]
-- [[Kali]]
+- [[Teuku Kali Malikon Ade|Kali]]
 
 ## Source
 

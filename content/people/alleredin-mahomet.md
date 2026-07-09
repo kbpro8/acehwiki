@@ -13,7 +13,7 @@ Pinto's account, retold by De Roo de la Faille, places Alleredin Mahomet in comm
 
 ## The Governorship of Baarros
 
-The title *Gouverneur du Royaume de Baarros* ties Alleredin Mahomet to [[Barus|Barus]] — the great west-coast emporium of [[kapoer baroer|camphor]] and a long-standing node of Indian, Arabic and Chinese trade. His command of the Atjehsche vloot against Aroe, combined with his governorship of Barus, marks the breadth of the [[Sultan of Atjeh (16th century)|sultan of Atjeh]]'s design in [[1539]]: not merely to chastise a single neighbour but to bring the whole circuit of Sumatran coast, west and east, under Atjehnese command — and so to close the [[Straits of Malacca|Strait of Malacca]] to Portuguese shipping.
+The title *Gouverneur du Royaume de Baarros* ties Alleredin Mahomet to [[Barus|Barus]] — the great west-coast emporium of [[kapoer baroer|camphor]] and a long-standing node of Indian, Arabic and Chinese trade. His command of the Atjehsche vloot against Aroe, combined with his governorship of Barus, marks the breadth of the [[Sultan of Acheh (16th century)|sultan of Atjeh]]'s design in [[1539]]: not merely to chastise a single neighbour but to bring the whole circuit of Sumatran coast, west and east, under Atjehnese command — and so to close the [[Straits of Malacca|Strait of Malacca]] to Portuguese shipping.
 
 ## Significance
 
@@ -23,7 +23,7 @@ For AcehWiki, Alleredin Mahomet is the only Atjehnese commander of the [[Atjeh-A
 
 - [[Atjeh-Aroe War (1539)]]
 - [[Atjehsche vloot]]
-- [[Sultan of Atjeh (16th century)]]
+- [[Sultan of Acheh (16th century)|Sultan of Atjeh (16th century)]]
 - [[Mendez Pinto]]
 - [[Radja of Aroe]]
 - [[Queen of Aroe]]
@@ -46,7 +46,7 @@ Pinto's account, retold by De Roo de la Faille, places Alleredin Mahomet in comm
 
 ## The Governorship of Baarros
 
-The title *Gouverneur du Royaume de Baarros* ties Alleredin Mahomet to [[Barus|Barus]] — the great west-coast emporium of [[kapoer baroer|camphor]] and a long-standing node of Indian, Arabic and Chinese trade. His command of the Atjehsche vloot against Aroe, combined with his governorship of Barus, marks the breadth of the [[Sultan of Atjeh (16th century)|sultan of Atjeh]]'s design in [[1539]]: not merely to chastise a single neighbour but to bring the whole circuit of Sumatran coast, west and east, under Atjehnese command — and so to close the [[Straits of Malacca|Strait of Malacca]] to Portuguese shipping.
+The title *Gouverneur du Royaume de Baarros* ties Alleredin Mahomet to [[Barus|Barus]] — the great west-coast emporium of [[kapoer baroer|camphor]] and a long-standing node of Indian, Arabic and Chinese trade. His command of the Atjehsche vloot against Aroe, combined with his governorship of Barus, marks the breadth of the [[Sultan of Acheh (16th century)|sultan of Atjeh]]'s design in [[1539]]: not merely to chastise a single neighbour but to bring the whole circuit of Sumatran coast, west and east, under Atjehnese command — and so to close the [[Straits of Malacca|Strait of Malacca]] to Portuguese shipping.
 
 ## Significance
 
@@ -56,7 +56,7 @@ For AcehWiki, Alleredin Mahomet is the only Atjehnese commander of the [[Atjeh-A
 
 - [[Atjeh-Aroe War (1539)]]
 - [[Atjehsche vloot]]
-- [[Sultan of Atjeh (16th century)]]
+- [[Sultan of Acheh (16th century)|Sultan of Atjeh (16th century)]]
 - [[Mendez Pinto]]
 - [[Radja of Aroe]]
 - [[Queen of Aroe]]

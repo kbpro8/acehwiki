@@ -3,7 +3,7 @@ title: J. Boon
 aliases: [J. Boon]
 tags: [person, marine, dutch]
 ---
-**J. Boon** was a **[[marinier|marine]]** of 3rd class in the **[[Korps Mariniers]]** who was nominated for the **[[Militaire Willemsorde]]** after the **[[Expedition to Retch 1858|1858 campaign]]**. He later died of his wounds.
+**J. Boon** was a **[[marinier|marine]]** of 3rd class in the **[[Royal Netherlands Marine Corps|Korps Mariniers]]** who was nominated for the **[[Militaire Willemsorde]]** after the **[[Expedition to Retch 1858|1858 campaign]]**. He later died of his wounds.
 
 ## Aftermath
 
@@ -13,7 +13,7 @@ Boon’s nomination, together with that of **[[F. van Robenhausen]]**, was not p
 
 - [[Expedition to Retch 1858]]
 - [[Militaire Willemsorde]]
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 
 ## Source
 

@@ -28,13 +28,13 @@ Snouck adds in a footnote that "according to the Qanoon-e-islam, pp. 122, 142, H
 
 ## Account from *Raffles' Atjeh-overeenkomst van 1819* — British India
 
-**British India** (Dutch: *Britsch-Indië*) was the colonial possession of the British East India Company — and, after [[1858]], of the British Crown — on the Indian subcontinent. In the early nineteenth century its political centre was the city of [[Calcutta]], where the Governor-General of Bengal resided and from which relations with the native states of the Eastern Seas, including [[Acheh]], were conducted. Van der Kemp (1900) treats British India as one of the two metropolitan powers whose rivalry shaped the fortunes of the Atjeh agreement of [[1819]] and its successor, the [[Anglo-Dutch Treaty of London 1824]].
+**British India** (Dutch: *Britsch-Indië*) was the colonial possession of the British East India Company — and, after [[1858]], of the British Crown — on the Indian subcontinent. In the early nineteenth century its political centre was the city of [[Calcutta]], where the Governor-General of Bengal resided and from which relations with the native states of the Eastern Seas, including [[Acheh]], were conducted. Van der Kemp (1900) treats British India as one of the two metropolitan powers whose rivalry shaped the fortunes of the Atjeh agreement of [[1819]] and its successor, the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London 1824]].
 
 The Government of British India, headed in [[1819]] by Governor-General [[Lord Moira]] (later Earl of Moira and Hastings), was the authority that dispatched [[Sir Thomas Stamford Raffles]] and [[Captain Coombs]] on their [[Raffles-Coombs Acheh Commission|Acheh commission]]. Raffles had personally travelled from Bencoolen to Calcutta to persuade the Bengal administration that the Dutch threatened to monopolise the China trade, and that Acheh must therefore be drawn into the British sphere of influence to the exclusion of the Netherlands or any other foreign power. The Calcutta government, in its dispatch to [[London]] of [[14 January 1819]], expressed the hope that it might still be in time "to establish our political influence [in Acheh] to the exclusion of that of the Dutch or of any other foreign nation" (Van der Kemp, 1900, p. 163).
 
 Throughout the [[1820s]] the Supreme Government of British India continued to watch Acheh and the [[Straits of Malacca|Straits of Malacca]] as objects of strategic concern. The commission instructions, signed by Raffles himself, describe the envoys as appointed by "the Governor-General of British India, &c., &c., &c." to negotiate "all arrangements of a political and commercial nature between the countries of Acheen and Great Britain" (Van der Kemp, 1900, p. 220). Yet the same British Indian authorities soon let the [[Acheh Treaty of 1819|treaty of 1819]] lapse into a "dead letter," as Van der Kemp styles it; they neither enforced its stipulations against the Sultan nor pressed them in subsequent negotiations with the Dutch.
 
-After the [[Anglo-Dutch Treaty of London 1824|London treaty of 17 March 1824]] transferred Sumatra to the Dutch sphere, British India's direct interest in Acheh declined, and the conduct of relations with the Netherlands Indies passed more firmly to the Court of Directors in [[London]] and to the colonial establishment at [[Penang]], [[Malacca]], and [[Singapore]]. Van der Kemp notes, however, that British Indian officials in Bengal continued to intrigue against Dutch authority on Sumatra and elsewhere in the Archipelago well into the 1820s, urging that the Netherlands surrender its Indian factories in exchange for compensation elsewhere.
+After the [[Anglo-Dutch Treaty of 1824|London treaty of 17 March 1824]] transferred Sumatra to the Dutch sphere, British India's direct interest in Acheh declined, and the conduct of relations with the Netherlands Indies passed more firmly to the Court of Directors in [[London]] and to the colonial establishment at [[Penang]], [[Malacca]], and [[Singapore]]. Van der Kemp notes, however, that British Indian officials in Bengal continued to intrigue against Dutch authority on Sumatra and elsewhere in the Archipelago well into the 1820s, urging that the Netherlands surrender its Indian factories in exchange for compensation elsewhere.
 
 
 ## See Also
@@ -57,7 +57,7 @@ After the [[Anglo-Dutch Treaty of London 1824|London treaty of 17 March 1824]] t
 - [[Bengal]]
 - [[Penang]]
 - [[Singapore]]
-- [[Anglo-Dutch Treaty of London 1824]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London 1824]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Lord Moira]]
 - [[Captain Coombs]]

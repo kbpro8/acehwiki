@@ -4,7 +4,7 @@ aliases: [Lao Alas river, Woi ni Agoesein, Alas rivier, Alas river, Lao Alas (Wo
 tags: [place, atjeh, alas-vallei, river, hydrography, dutch-colonial, gajo]
 ---
 
-**The Lao Alas** — also called the *Woi ni Agoesein* in the Gajo language — is the principal river of the Alas valley of central [[Atjeh|Atjeh]], rising on the southern slopes of the [[G. Loser|G. Loser]] (3,520 m) in the [[Wilhelmina gebergte|Wilhelmina gebergte]] and flowing south-eastward through the *groote Westelijke lengtedal* to its confluence with the *Lae Renoen* and the *Simpang Kin i*, by which name it reaches the Indian Ocean at [[Singkel|Singkel]]. In the [[De Buitenbezittingen, Deel II, Aflevering 1|Encyclopaedisch Bureau's Sumatra survey]] (1917), the Lao Alas is the principal hydrographical artery of the central-Atjeh hoogvlakte, and the river whose *stroomgebied* includes the [[Laoet Tawar|Laoet Tawar]] lake and the [[Ketol|Ketol]] high plateau.
+**The Lao Alas** — also called the *Woi ni Agoesein* in the Gajo language — is the principal river of the Alas valley of central [[Atjeh|Atjeh]], rising on the southern slopes of the [[G. Loser|G. Loser]] (3,520 m) in the [[Wilhelmina gebergte|Wilhelmina gebergte]] and flowing south-eastward through the *groote Westelijke lengtedal* to its confluence with the *Lae Renoen* and the *Simpang Kin i*, by which name it reaches the Indian Ocean at [[Singkel|Singkel]]. In the [[De Buitenbezittingen, Deel II, Aflevering 1|Encyclopaedisch Bureau's Sumatra survey]] (1917), the Lao Alas is the principal hydrographical artery of the central-Atjeh hoogvlakte, and the river whose *stroomgebied* includes the [[Laut Tawar|Laut Tawar]] lake and the [[Ketol|Ketol]] high plateau.
 
 ## Course
 
@@ -30,7 +30,7 @@ The Lao Alas is, in the Bureau's Sumatra survey, the principal hydrographical ar
 - [[G. Loser]]
 - [[Wilhelmina gebergte]]
 - [[Gajoesche Centraalgebergte]]
-- [[Laoet Tawar]]
+- [[Laut Tawar|Laoet Tawar]]
 - [[Ketol]]
 - [[Takengon]]
 - [[Blangkedjeren]]

@@ -5,7 +5,7 @@ aliases: [Bannerman, Colonel Bannerman, governor Bannerman]
 tags: [person, british-official]
 ---
 
-Colonel John Alexander Bannerman (d. [[8 August 1819|8 August 1819]]) was a British East India Company official who served as Governor of [[Penang]] (Prince of Wales' Island) from [[1817]] until his death in [[1819]]. He is best known in the Achehnese context as the chief Penang antagonist of [[Sir Thomas Stamford Raffles|Raffles]] during the preliminaries to the [[Acheh treaty of 1819]].
+Colonel John Alexander Bannerman (d. [[8 August 1819|8 August 1819]]) was a British East India Company official who served as Governor of [[Penang]] (Prince of Wales' Island) from [[1817]] until his death in [[1819]]. He is best known in the Achehnese context as the chief Penang antagonist of [[Sir Thomas Stamford Raffles|Raffles]] during the preliminaries to the [[Treaty of Pedir (1819)|Acheh treaty of 1819]].
 
 ## Earlier Career
 
@@ -36,7 +36,7 @@ Van der Kemp's treatment of Bannerman is markedly more sympathetic than the conv
 - [[Lord Moira]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
 - [[Death of Bannerman]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 
 ## Source
 
@@ -44,7 +44,7 @@ Van der Kemp's treatment of Bannerman is markedly more sympathetic than the conv
 ---
 
 
-Colonel John Alexander Bannerman (d. [[8 August 1819|8 August 1819]]) was a British East India Company official who served as Governor of [[Penang]] (Prince of Wales' Island) from [[1817]] until his death in [[1819]]. He is best known in the Achehnese context as the chief Penang antagonist of [[Sir Thomas Stamford Raffles|Raffles]] during the preliminaries to the [[Acheh treaty of 1819]].
+Colonel John Alexander Bannerman (d. [[8 August 1819|8 August 1819]]) was a British East India Company official who served as Governor of [[Penang]] (Prince of Wales' Island) from [[1817]] until his death in [[1819]]. He is best known in the Achehnese context as the chief Penang antagonist of [[Sir Thomas Stamford Raffles|Raffles]] during the preliminaries to the [[Treaty of Pedir (1819)|Acheh treaty of 1819]].
 
 ## Earlier Career
 
@@ -75,7 +75,7 @@ Van der Kemp's treatment of Bannerman is markedly more sympathetic than the conv
 - [[Lord Moira]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
 - [[Death of Bannerman]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 
 ## Source
 

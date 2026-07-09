@@ -9,7 +9,7 @@ tags: [place, United Kingdom, academic, library, university, manuscript]
 ## Manuscript Details
 
 ### *Burda* Manuscript  
-The Cambridge manuscript (catalogue nos. [[3116]] (1) and [[5823]] (2)) contains the *Burda* and a fragment of *[[al‑lāmiyya fi ‘I‑lawii]]* by [[Al‑Ushi]], dated to [[569]]/[[1173]]. The codex is part of the broader Cambridge collection of Arabic‑Malay texts that illustrate the diffusion of Sufi poetry across Southeast Asia.
+The Cambridge manuscript (catalogue nos. [[3116]] (1) and [[5823]] (2)) contains the *Burda* and a fragment of *[[al‑lāmiyya fi ‘I‑lawii]]* by [[Siraj al-Din Abu Muhammad Ali ibn Uthman al-Ushi|Al‑Ushi]], dated to [[569]]/[[1173]]. The codex is part of the broader Cambridge collection of Arabic‑Malay texts that illustrate the diffusion of Sufi poetry across Southeast Asia.
 
 ### *Bad' al-Amali* Fragment  
 A separate fragment held by the University Library comprises only part of the *Bad' al-Amali* text and exhibits a slightly disordered verse sequence. Although incomplete, the Malay translation offers a valuable point of comparison for scholars reconstructing the original order of verses in related Acehnese devotional works.
@@ -22,7 +22,7 @@ The Cambridge manuscripts provide comparative sources for the Acehnese version o
 
 - [[Burda (poem)]]
 - [[Leiden Library]]
-- [[Al‑Ushi]]
+- [[Siraj al-Din Abu Muhammad Ali ibn Uthman al-Ushi|Al‑Ushi]]
 - [[Bad' al-Amali]]
 - [[Aceh]]
 

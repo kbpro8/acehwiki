@@ -26,7 +26,7 @@ A later wave of orthodoxy, proceeding especially from [[Mecca]], has "purified t
 ## See Also
 - [[Ashura]]
 - [[G. A. Herklots]]
-- [[Hasan-Husain festival]]
+- [[Hasan-Husain Festival|Hasan-Husain festival]]
 - [[Jaffur Shurreef]]
 - [[Medina]]
 - [[Mohammad]]
@@ -64,7 +64,7 @@ A later wave of orthodoxy, proceeding especially from [[Mecca]], has "purified t
 ## See Also
 - [[Ashura]]
 - [[G. A. Herklots]]
-- [[Hasan-Husain festival]]
+- [[Hasan-Husain Festival|Hasan-Husain festival]]
 - [[Jaffur Shurreef]]
 - [[Medina]]
 - [[Mohammad]]

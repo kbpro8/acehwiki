@@ -5,7 +5,7 @@ aliases: [Teukoe Oemar, Teuku Umar, T. Oemar, The Cunning Adventurer, Teukoe Joh
 tags: [person, acehnese, achehnese, resistance, aceh, turncoat, aceh-war, military-leader, colonial, 19th-century, traitor-or-patriot]
 ---
 
-**Teukoe Oemar** (also rendered **Teuku Umar**) was an Acehnese military leader and chief whose defection from the colonial army on [[29 March]] [[1896]] — the *verraad van Toekoe Oemar* — is identified by two colonial sources as one of the defining events of the [[Atjeh-oorlog|Aceh War]]. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), he is "the cunning adventurer" whose defection opened the critical days that preceded the glorious period of [[Gouverneur-Generaal Van Heutsz|Van Heutsz]]; in the Encyclopaedisch Bureau's *De Buitenbezittingen 1904 tot 1914* ([[1917]]), his betrayal is the originating event of the "new direction" in Dutch policy that would lead to the [[Pacificatie van Atjeh|complete pacification of Atjeh]] and the wider extension of Dutch "effective authority" across the outer possessions.
+**Teukoe Oemar** (also rendered **Teuku Umar**) was an Acehnese military leader and chief whose defection from the colonial army on [[29 March]] [[1896]] — the *verraad van Toekoe Oemar* — is identified by two colonial sources as one of the defining events of the [[Atjeh-oorlog|Aceh War]]. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), he is "the cunning adventurer" whose defection opened the critical days that preceded the glorious period of [[Joannes Benedictus van Heutsz|Van Heutsz]]; in the Encyclopaedisch Bureau's *De Buitenbezittingen 1904 tot 1914* ([[1917]]), his betrayal is the originating event of the "new direction" in Dutch policy that would lead to the [[Pacificatie van Atjeh|complete pacification of Atjeh]] and the wider extension of Dutch "effective authority" across the outer possessions.
 
 ## The Defection of 29 March 1896
 
@@ -31,11 +31,11 @@ The book's sequence is: the Graafland era (when the concentrated line was abando
 
 ## Significance
 
-Teukoe Oemar is significant across two distinct colonial framings of the [[Atjeh-oorlog|Aceh War]]. In *[[Oost-Indisch Journael]]*, he is the Acehnese cunning adventurer whose defection on [[29 March]] [[1896]] opened the critical days between the Graafland era and the glorious period of [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] — the book's marker of crisis and transition. In the Encyclopaedisch Bureau's *De Buitenbezittingen*, his *verraad* is the originating event of the entire post-[[1896]] Dutch strategic reorientation: the act that triggered the dismantling of the [[Postenlinie|postenlinie]], the abandonment of the [[Ceintuur-trambaan|belt-tramway]], and the inauguration of the new policy that led to the [[Pacificatie van Atjeh|complete pacification of Atjeh]] and the wider extension of Dutch authority across the Buitenbezittingen. The Bureau's choice of the word *verraad* (betrayal) places the Dutch interpretation firmly on the surface of the account; the same act, viewed from the Atjehnese side, was an act of patriotic resistance — a fact the Bureau's account does not foreground but which the very prominence of the *verraad* in the Dutch narrative indirectly confirms.
+Teukoe Oemar is significant across two distinct colonial framings of the [[Atjeh-oorlog|Aceh War]]. In *[[Oost-Indisch Journael]]*, he is the Acehnese cunning adventurer whose defection on [[29 March]] [[1896]] opened the critical days between the Graafland era and the glorious period of [[Joannes Benedictus van Heutsz|Van Heutsz]] — the book's marker of crisis and transition. In the Encyclopaedisch Bureau's *De Buitenbezittingen*, his *verraad* is the originating event of the entire post-[[1896]] Dutch strategic reorientation: the act that triggered the dismantling of the [[Postenlinie|postenlinie]], the abandonment of the [[Ceintuur-trambaan|belt-tramway]], and the inauguration of the new policy that led to the [[Pacificatie van Atjeh|complete pacification of Atjeh]] and the wider extension of Dutch authority across the Buitenbezittingen. The Bureau's choice of the word *verraad* (betrayal) places the Dutch interpretation firmly on the surface of the account; the same act, viewed from the Atjehnese side, was an act of patriotic resistance — a fact the Bureau's account does not foreground but which the very prominence of the *verraad* in the Dutch narrative indirectly confirms.
 
 ## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — the ally who defected
 
-Dr. [[Johan Wøller]], recalling the [[Aceh War]] from his posting at [[Kotta Loempoer]] around [[1905]], described Toekoe Oemar as "one of the foremost chiefs, who for years had been a 'loyal' ally, with all his troops, who had been well provided with weapons by the Dutch, went over to the enemy." Wøller places the episode "in the years between '90 and 1900," at the height of a crisis in which "it looked as if a struggle and effort of twenty years was wasted" — a low point resolved only by the appointment of [[J. B. van Heutsz]] as governor in 1898.
+Dr. [[Johan Wøller]], recalling the [[Aceh War]] from his posting at [[Kotta Loempoer]] around [[1905]], described Toekoe Oemar as "one of the foremost chiefs, who for years had been a 'loyal' ally, with all his troops, who had been well provided with weapons by the Dutch, went over to the enemy." Wøller places the episode "in the years between '90 and 1900," at the height of a crisis in which "it looked as if a struggle and effort of twenty years was wasted" — a low point resolved only by the appointment of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] as governor in 1898.
 
 ## Account from *Dispereert Niet Vol. XI* (1946) — Teukoe Oema
 
@@ -59,7 +59,7 @@ His betrayal was a severe blow to Dutch prestige. The weapons he received were u
 
 ### The Final Campaign
 
-Teukoe Oema became even more popular among his compatriots after his betrayal. He continued his guerrilla campaign, leading attacks on Dutch positions throughout Greater Aceh. However, the arrival of **[[J. B. van Heutsz]]** in [[1898]] and the adoption of mobile *marechaussee* tactics made his position increasingly precarious.
+Teukoe Oema became even more popular among his compatriots after his betrayal. He continued his guerrilla campaign, leading attacks on Dutch positions throughout Greater Aceh. However, the arrival of **[[Joannes Benedictus van Heutsz|J. B. van Heutsz]]** in [[1898]] and the adoption of mobile *marechaussee* tactics made his position increasingly precarious.
 
 ### Death
 
@@ -69,7 +69,7 @@ Teukoe Oema was killed in a *marechaussee* ambush in [[1899]]. His death was a s
 - [[Oost-Indisch Journael]]
 - [[Gilles Graafland]]
 - [Geconcentreerde linie](/concept/geconcentreerde-linie)
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Datoek]]
 - [[Pacificatie van Atjeh]]
 - [[Postenlinie]]
@@ -86,7 +86,7 @@ Teukoe Oema was killed in a *marechaussee* ambush in [[1899]]. His death was a s
 - [[1894]]
 - [[1896]]
 - [[Aceh War]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Panglima Polem]]
 - [[Geconcentreerde Linie]]
 - [[Kutaradja]]
@@ -107,7 +107,7 @@ Teukoe Oema was killed in a *marechaussee* ambush in [[1899]]. His death was a s
 ---
 
 
-**Teukoe Oemar** (also rendered **Teuku Umar**) was an Acehnese military leader and chief whose defection from the colonial army on [[29 March]] [[1896]] — the *verraad van Toekoe Oemar* — is identified by two colonial sources as one of the defining events of the [[Atjeh-oorlog|Aceh War]]. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), he is "the cunning adventurer" whose defection opened the critical days that preceded the glorious period of [[Gouverneur-Generaal Van Heutsz|Van Heutsz]]; in the Encyclopaedisch Bureau's *De Buitenbezittingen 1904 tot 1914* ([[1917]]), his betrayal is the originating event of the "new direction" in Dutch policy that would lead to the [[Pacificatie van Atjeh|complete pacification of Atjeh]] and the wider extension of Dutch "effective authority" across the outer possessions.
+**Teukoe Oemar** (also rendered **Teuku Umar**) was an Acehnese military leader and chief whose defection from the colonial army on [[29 March]] [[1896]] — the *verraad van Toekoe Oemar* — is identified by two colonial sources as one of the defining events of the [[Atjeh-oorlog|Aceh War]]. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), he is "the cunning adventurer" whose defection opened the critical days that preceded the glorious period of [[Joannes Benedictus van Heutsz|Van Heutsz]]; in the Encyclopaedisch Bureau's *De Buitenbezittingen 1904 tot 1914* ([[1917]]), his betrayal is the originating event of the "new direction" in Dutch policy that would lead to the [[Pacificatie van Atjeh|complete pacification of Atjeh]] and the wider extension of Dutch "effective authority" across the outer possessions.
 
 ## The Defection of 29 March 1896
 
@@ -133,11 +133,11 @@ The book's sequence is: the Graafland era (when the concentrated line was abando
 
 ## Significance
 
-Teukoe Oemar is significant across two distinct colonial framings of the [[Atjeh-oorlog|Aceh War]]. In *[[Oost-Indisch Journael]]*, he is the Acehnese cunning adventurer whose defection on [[29 March]] [[1896]] opened the critical days between the Graafland era and the glorious period of [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] — the book's marker of crisis and transition. In the Encyclopaedisch Bureau's *De Buitenbezittingen*, his *verraad* is the originating event of the entire post-[[1896]] Dutch strategic reorientation: the act that triggered the dismantling of the [[Postenlinie|postenlinie]], the abandonment of the [[Ceintuur-trambaan|belt-tramway]], and the inauguration of the new policy that led to the [[Pacificatie van Atjeh|complete pacification of Atjeh]] and the wider extension of Dutch authority across the Buitenbezittingen. The Bureau's choice of the word *verraad* (betrayal) places the Dutch interpretation firmly on the surface of the account; the same act, viewed from the Atjehnese side, was an act of patriotic resistance — a fact the Bureau's account does not foreground but which the very prominence of the *verraad* in the Dutch narrative indirectly confirms.
+Teukoe Oemar is significant across two distinct colonial framings of the [[Atjeh-oorlog|Aceh War]]. In *[[Oost-Indisch Journael]]*, he is the Acehnese cunning adventurer whose defection on [[29 March]] [[1896]] opened the critical days between the Graafland era and the glorious period of [[Joannes Benedictus van Heutsz|Van Heutsz]] — the book's marker of crisis and transition. In the Encyclopaedisch Bureau's *De Buitenbezittingen*, his *verraad* is the originating event of the entire post-[[1896]] Dutch strategic reorientation: the act that triggered the dismantling of the [[Postenlinie|postenlinie]], the abandonment of the [[Ceintuur-trambaan|belt-tramway]], and the inauguration of the new policy that led to the [[Pacificatie van Atjeh|complete pacification of Atjeh]] and the wider extension of Dutch authority across the Buitenbezittingen. The Bureau's choice of the word *verraad* (betrayal) places the Dutch interpretation firmly on the surface of the account; the same act, viewed from the Atjehnese side, was an act of patriotic resistance — a fact the Bureau's account does not foreground but which the very prominence of the *verraad* in the Dutch narrative indirectly confirms.
 
 ## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — the ally who defected
 
-Dr. [[Johan Wøller]], recalling the [[Aceh War]] from his posting at [[Kotta Loempoer]] around [[1905]], described Toekoe Oemar as "one of the foremost chiefs, who for years had been a 'loyal' ally, with all his troops, who had been well provided with weapons by the Dutch, went over to the enemy." Wøller places the episode "in the years between '90 and 1900," at the height of a crisis in which "it looked as if a struggle and effort of twenty years was wasted" — a low point resolved only by the appointment of [[J. B. van Heutsz]] as governor in 1898.
+Dr. [[Johan Wøller]], recalling the [[Aceh War]] from his posting at [[Kotta Loempoer]] around [[1905]], described Toekoe Oemar as "one of the foremost chiefs, who for years had been a 'loyal' ally, with all his troops, who had been well provided with weapons by the Dutch, went over to the enemy." Wøller places the episode "in the years between '90 and 1900," at the height of a crisis in which "it looked as if a struggle and effort of twenty years was wasted" — a low point resolved only by the appointment of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] as governor in 1898.
 
 ## Account from *Dispereert Niet Vol. XI* (1946) — Teukoe Oema
 
@@ -161,7 +161,7 @@ His betrayal was a severe blow to Dutch prestige. The weapons he received were u
 
 ### The Final Campaign
 
-Teukoe Oema became even more popular among his compatriots after his betrayal. He continued his guerrilla campaign, leading attacks on Dutch positions throughout Greater Aceh. However, the arrival of **[[J. B. van Heutsz]]** in [[1898]] and the adoption of mobile *marechaussee* tactics made his position increasingly precarious.
+Teukoe Oema became even more popular among his compatriots after his betrayal. He continued his guerrilla campaign, leading attacks on Dutch positions throughout Greater Aceh. However, the arrival of **[[Joannes Benedictus van Heutsz|J. B. van Heutsz]]** in [[1898]] and the adoption of mobile *marechaussee* tactics made his position increasingly precarious.
 
 ### Death
 
@@ -171,7 +171,7 @@ Teukoe Oema was killed in a *marechaussee* ambush in [[1899]]. His death was a s
 - [[Oost-Indisch Journael]]
 - [[Gilles Graafland]]
 - [Geconcentreerde linie](/concept/geconcentreerde-linie)
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Datoek]]
 - [[Pacificatie van Atjeh]]
 - [[Postenlinie]]
@@ -188,7 +188,7 @@ Teukoe Oema was killed in a *marechaussee* ambush in [[1899]]. His death was a s
 - [[1894]]
 - [[1896]]
 - [[Aceh War]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Panglima Polem]]
 - [[Geconcentreerde Linie]]
 - [[Kutaradja]]

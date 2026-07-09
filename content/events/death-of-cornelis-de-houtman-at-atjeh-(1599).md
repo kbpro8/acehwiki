@@ -4,11 +4,11 @@ aliases: [Atjeh disaster of 1599, De Houtman disaster at Atjeh, The killing of C
 tags: [event, violence, atjehnese, dutch, pre-voc, 16th-century]
 ---
 
-The **death of Cornelis de Houtman at Atjeh in 1599** was the killing of the Dutch navigator [[Cornelis de Houtman|Cornelis de Houtman]] — commander of the first Dutch expedition to the East Indies of [[1595]]–[[1597]] — at the court of the Sultan of [[Acheh|Atjeh]] during the [[Balthazar de Moucheron|De Moucheron]] expedition of [[1598]]–[[1600]]. The attack, which began with poisoned fruits and drinks and culminated in a *kris*-attack, killed many Dutchmen and made [[Frederik de Houtman|Frederik de Houtman]] a prisoner for twenty-six months — the captivity out of which the first European Malay dictionary would be composed. It is the first Dutch fatality at Atjeh and the trigger of the long diplomatic and commercial entanglement between the sultanate and the United Provinces.
+The **death of Cornelis de Houtman at Atjeh in 1599** was the killing of the Dutch navigator [[Cornelis de Houtman|Cornelis de Houtman]] — commander of the first Dutch expedition to the East Indies of [[1595]]–[[1597]] — at the court of the Sultan of [[Acheh|Atjeh]] during the [[Balthasar de Moucheron|De Moucheron]] expedition of [[1598]]–[[1600]]. The attack, which began with poisoned fruits and drinks and culminated in a *kris*-attack, killed many Dutchmen and made [[Frederik de Houtman|Frederik de Houtman]] a prisoner for twenty-six months — the captivity out of which the first European Malay dictionary would be composed. It is the first Dutch fatality at Atjeh and the trigger of the long diplomatic and commercial entanglement between the sultanate and the United Provinces.
 
 ## The De Moucheron expedition
 
-The South-Netherlander of French descent [[Balthazar de Moucheron|Balthazar de Moucheron]], trusting the experience of the [[Cornelis de Houtman|De Houtman]] brothers, took them both into his service on a fleet of two ships. The English pilot [[John Davis|John Davis]] served as pilot "om in opdracht van den Graaf van Essex spionnenwerk te verrichten" — to do spy-work on behalf of the Earl of Essex. The voyage to the Indies took fifteen months. The Madagascar population fled at the reappearance of the rough Dutchmen — this was the second Dutch landing there, the first having already left a bad reputation under [[Cornelis de Houtman|De Houtman]]'s own first expedition.
+The South-Netherlander of French descent [[Balthasar de Moucheron|Balthasar de Moucheron]], trusting the experience of the [[Cornelis de Houtman|De Houtman]] brothers, took them both into his service on a fleet of two ships. The English pilot [[John Davis|John Davis]] served as pilot "om in opdracht van den Graaf van Essex spionnenwerk te verrichten" — to do spy-work on behalf of the Earl of Essex. The voyage to the Indies took fifteen months. The Madagascar population fled at the reappearance of the rough Dutchmen — this was the second Dutch landing there, the first having already left a bad reputation under [[Cornelis de Houtman|De Houtman]]'s own first expedition.
 
 ## Arrival at Atjeh, June 1599
 
@@ -20,7 +20,7 @@ The fleet reached Atjeh in June [[1599]]. The good understanding with the Sultan
 
 ## The escape to Pedir and the homeward voyage
 
-The ships that escaped Atjeh made for [[Pedir]], where they beat off an Atjehnese naval attack; they then touched at the Nicobars and, after much misfortune, reached Middelburg in the summer of [[1600]]. [[Balthazar de Moucheron|De Moucheron]] suffered heavy losses from the expedition. [[John Davis|Davis]] turned his spy-material to English advantage.
+The ships that escaped Atjeh made for [[Pedir]], where they beat off an Atjehnese naval attack; they then touched at the Nicobars and, after much misfortune, reached Middelburg in the summer of [[1600]]. [[Balthasar de Moucheron|De Moucheron]] suffered heavy losses from the expedition. [[John Davis|Davis]] turned his spy-material to English advantage.
 
 ## The captivity of Frederik de Houtman
 
@@ -36,22 +36,22 @@ De Houtman's release finally came thanks to a show of Portuguese force and the [
 
 ## The 1602 return embassy
 
-The Sultan's three ambassadors — [[Abdoel Hamid]], [[Sri Mohammed]] and [[Mir Hassan]] — sailed for Europe on the returning Zeeland ships. They reached the Republic in [[1602]] and were received at Prince Maurits's siege camp at Grave. See [[Atjeh embassy to Prince Maurits at Grave (1602)]].
+The Sultan's three ambassadors — [[Abdoel Hamid]], [[Sri Mohammed]] and [[Mir Hassan]] — sailed for Europe on the returning Zeeland ships. They reached the Republic in [[1602]] and were received at Prince Maurits's siege camp at Grave. See [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits at Grave (1602)]].
 
 ## Significance
 
-The death of Cornelis de Houtman at Atjeh in [[1599]] is the founding disaster of the Dutch-Atjeh relationship — the event that fixed Atjeh in the Dutch colonial memory as a place of danger and of compulsory apprenticeship. The captivity of [[Frederik de Houtman|Frederik]] that followed produced the first European Malay dictionary and the first European star-catalogue of the southern sky, and the diplomatic chain that connected the [[Death of Cornelis de Houtman at Atjeh (1599)|1599 disaster]] to the [[Atjeh embassy to Prince Maurits at Grave (1602)|1602 embassy]] to Maurits at Grave defined the first phase of Dutch-Atjeh diplomacy.
+The death of Cornelis de Houtman at Atjeh in [[1599]] is the founding disaster of the Dutch-Atjeh relationship — the event that fixed Atjeh in the Dutch colonial memory as a place of danger and of compulsory apprenticeship. The captivity of [[Frederik de Houtman|Frederik]] that followed produced the first European Malay dictionary and the first European star-catalogue of the southern sky, and the diplomatic chain that connected the [[Death of Cornelis de Houtman at Atjeh (1599)|1599 disaster]] to the [[Aceh Embassy to Prince Maurits at Grave (1602)|1602 embassy]] to Maurits at Grave defined the first phase of Dutch-Atjeh diplomacy.
 
 ## See Also
 
 - [[Cornelis de Houtman]]
 - [[Frederik de Houtman]]
-- [[Balthazar de Moucheron]]
+- [[Balthasar de Moucheron|Balthazar de Moucheron]]
 - [[John Davis]]
 - [[Sultan Aloeddin of Atjeh]]
 - [[Paulus van Caerden]]
 - [[Prince Maurits]]
-- [[Atjeh embassy to Prince Maurits at Grave (1602)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits at Grave (1602)]]
 - [[Pigskin parchment letter incident at Atjeh (1600)]]
 - [[1599]]
 - [[1600]]

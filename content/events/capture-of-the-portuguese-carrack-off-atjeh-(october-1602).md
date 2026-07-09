@@ -4,7 +4,7 @@ aliases: [Capture of the São Thome carrack 1602, Joint Anglo-Dutch capture of t
 tags: [event, dutch, english, precolonial, atjeh, naval, buitvaart, 1602, lancaster, spilbergh, portuguese]
 ---
 
-**The capture of the Portuguese carrack off Atjeh of 3 October 1602** — the joint Anglo-Dutch naval operation in which Sir **[[James Lancaster|James Lancaster]]**'s four English ships and **[[Joris Spilbergh|Joris Spilbergh]]**'s two Dutch ships, having sailed from [[Acheh|Atjeh]] on [[21 September]] [[1602]] and spread themselves across the [[Strait of Malaka|Strait of Malaka]], intercepted, attacked and captured the annual Portuguese carrack from the [[Koromandel kust|Koromandel coast]] bound for [[Malaka]], taking 950 bales of calicoes and pintados plus rice and other merchandise — is the first major Anglo-Dutch joint naval prize in the East Indies and the closing episode of the early Dutch-English-Portuguese triangular contest at Atjeh. The capture is the culminating event of the early-Atjeh chapter of Johan van der Woude's [[Coen, Koopman van Heeren Zeventien (1948)|Van der Woude (1948)]].
+**The capture of the Portuguese carrack off Atjeh of 3 October 1602** — the joint Anglo-Dutch naval operation in which Sir **[[James Lancaster|James Lancaster]]**'s four English ships and **[[Joris van Spilbergen|Joris van Spilbergen]]**'s two Dutch ships, having sailed from [[Acheh|Atjeh]] on [[21 September]] [[1602]] and spread themselves across the [[Strait of Malaka|Strait of Malaka]], intercepted, attacked and captured the annual Portuguese carrack from the [[Koromandel kust|Koromandel coast]] bound for [[Malaka]], taking 950 bales of calicoes and pintados plus rice and other merchandise — is the first major Anglo-Dutch joint naval prize in the East Indies and the closing episode of the early Dutch-English-Portuguese triangular contest at Atjeh. The capture is the culminating event of the early-Atjeh chapter of Johan van der Woude's [[Coen, Koopman van Heeren Zeventien (1948)|Van der Woude (1948)]].
 
 ## Background: Lancaster's plan
 
@@ -12,7 +12,7 @@ When [[James Lancaster|James Lancaster]] arrived off Atjeh on [[5 June]] [[1602]
 
 ## The Anglo-Dutch squadron
 
-The Dutch yacht *'t Lam under [[Cornelis Spex|Cornelis Spex]] — separated from the Spilbergh fleet near the Comoros and too damaged to continue — had arrived off Atjeh in early September [[1602]] and placed itself under Lancaster's command. A few days later [[Joris Spilbergh|Joris Spilbergh]] himself arrived with the other two ships of his fleet, having called at [[Ceylon]] on the way. When Spilbergh heard of Lancaster's plan, he offered to join with one of his ships for an eighth of the prize. The offer was accepted; on [[21 September]] [[1602]] the combined squadron — four English ships and two Dutch, plus the yacht *'t Lam — sailed from Atjeh and spread themselves across the Strait of Malaka, "al spread our selues a mile and a halfe one from another".
+The Dutch yacht *'t Lam under [[Cornelis Spex|Cornelis Spex]] — separated from the Spilbergh fleet near the Comoros and too damaged to continue — had arrived off Atjeh in early September [[1602]] and placed itself under Lancaster's command. A few days later [[Joris van Spilbergen|Joris van Spilbergen]] himself arrived with the other two ships of his fleet, having called at [[Ceylon]] on the way. When Spilbergh heard of Lancaster's plan, he offered to join with one of his ships for an eighth of the prize. The offer was accepted; on [[21 September]] [[1602]] the combined squadron — four English ships and two Dutch, plus the yacht *'t Lam — sailed from Atjeh and spread themselves across the Strait of Malaka, "al spread our selues a mile and a halfe one from another".
 
 ## The capture and the division
 
@@ -25,7 +25,7 @@ The capture of the Portuguese carrack off Atjeh is, in Van der Woude's narrative
 ## See Also
 
 - [[James Lancaster]]
-- [[Joris Spilbergh]]
+- [[Joris van Spilbergen|Joris Spilbergh]]
 - [[Cornelis Spex]]
 - [[James Lancaster's Atjeh visit (1602)]]
 - [[Joris Spilbergh's Atjeh visit (1602)]]

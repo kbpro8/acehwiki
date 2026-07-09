@@ -11,7 +11,7 @@ The sole mention of Panei occurs in Appendix 6, where Van der Kemp prints the le
 
 ## Place in the wider argument
 
-Panei's appearance in the [[Sultan of Deli's letter to Penang|Sultan of Deli's letter]] is brief but characteristic. Van der Kemp prints the letter not for its information about Panei in particular, but as part of his larger documentation of the state of affairs on [[Sumatra's East Coast]] in the years immediately following the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]]. The letter shows that the East Coast states — including [[Deli]], [[Batu Bara]], [[Tanah Putih]], [[Balah]] and Panei — were already gravely disturbed by the Padri war, and that the British government at Penang was being appealed to as the natural protector of the coast. This practical dependence on Penang, even after the formal renunciation of British political establishments on Sumatra, is one of the main pieces of evidence which Van der Kemp adduces for his thesis that the British government, while disclaiming political authority, continued to treat the East Coast as a commercial preserve.
+Panei's appearance in the [[Sultan of Deli's letter to Penang|Sultan of Deli's letter]] is brief but characteristic. Van der Kemp prints the letter not for its information about Panei in particular, but as part of his larger documentation of the state of affairs on [[Sumatra's East Coast]] in the years immediately following the [[Anglo-Dutch Treaty of 1824|treaty of 1824]]. The letter shows that the East Coast states — including [[Deli]], [[Batu Bara]], [[Tanah Putih]], [[Balah]] and Panei — were already gravely disturbed by the Padri war, and that the British government at Penang was being appealed to as the natural protector of the coast. This practical dependence on Penang, even after the formal renunciation of British political establishments on Sumatra, is one of the main pieces of evidence which Van der Kemp adduces for his thesis that the British government, while disclaiming political authority, continued to treat the East Coast as a commercial preserve.
 
 ## See Also
 
@@ -23,8 +23,8 @@ Panei's appearance in the [[Sultan of Deli's letter to Penang|Sultan of Deli's l
 - [[Deli]]
 - [[Sultan of Deli's letter to Penang]]
 - [[Robert Fullerton]]
-- [[Padri War on Sumatra's East Coast]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Padri War|Padri War on Sumatra's East Coast]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Source
 

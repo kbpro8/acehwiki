@@ -9,7 +9,7 @@ tags: [person, rebel, aceh, spiritual]
 Ramzyng is portrayed as a “colony‑weakening” shepherd whose departure may have demoralised the colonial troops and emboldened the rebel forces.
 
 ## See Also
-- [[Atta (bendehoofd)]]
+- [[Atta (rebel leader)|Atta (bendehoofd)]]
 - [[Markey plantation]]
 - [[Dutch naval expedition to Acheh (December 19–25)]]
 

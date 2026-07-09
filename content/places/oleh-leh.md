@@ -18,11 +18,11 @@ By Indies decree of [[12 April]] [[12 April]] [[1875]] a commission was appointe
 
 ## Van Lansberge's Inspection, March 1877
 
-When the Governor-General [[J. W. van Lansberge|Van Lansberge]] arrived at Oleh-leh on [[14 March]] [[14 March]] [[1877]] for his [[Van Lansberge's visit to Aceh (March-April 1877)|inspection of the theatre of war]], he found: "On the roadstead of Oleh-leh there prevailed, in consequence of the number of ships lying there, great activity; on shore the high visitor was struck by the neat appearance of houses and streets, the efficient lighting of these, and the influx of Atjehers on the pasar."
+When the Governor-General [[Johan Willem van Lansberge|Van Lansberge]] arrived at Oleh-leh on [[14 March]] [[14 March]] [[1877]] for his [[Van Lansberge's visit to Aceh (March-April 1877)|inspection of the theatre of war]], he found: "On the roadstead of Oleh-leh there prevailed, in consequence of the number of ships lying there, great activity; on shore the high visitor was struck by the neat appearance of houses and streets, the efficient lighting of these, and the influx of Atjehers on the pasar."
 
 ## In the Hikajat prang Kompeuni
 
-In the [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]] Oleh-leh appears alongside [[Kota Radja|Kota Radja]] as the commercial centre of the Dutch establishment: "The Radja Moeda, [[Toekoe Nja Moekamat|Toekoe Nja Moekamat]], strained every effort to bring the chief place and Oleh-leh to prosperity, and succeeded so well, that the population fled from their villages in streams not to be stemmed to the chief place, and fraternised with the kafirs. One lived as in continual festivity, drove profitable trade, and the war-leaders could find no people to follow them."
+In the [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]] Oleh-leh appears alongside [[Kota Radja|Kota Radja]] as the commercial centre of the Dutch establishment: "The Radja Moeda, [[Toekoe Nja Moekamat|Toekoe Nja Moekamat]], strained every effort to bring the chief place and Oleh-leh to prosperity, and succeeded so well, that the population fled from their villages in streams not to be stemmed to the chief place, and fraternised with the kafirs. One lived as in continual festivity, drove profitable trade, and the war-leaders could find no people to follow them."
 
 ## Account from *De Kleine Oosterling* (1901) — the haven and the spoorweg
 
@@ -38,10 +38,10 @@ The Dutch primary-school reader *De Kleine Oosterling* records Oleh-leh as the D
 - [[Kota-Alam]]
 - [[Marassa]]
 - [[Lampassei]]
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[J. L. J. H. Pel]]
 - [[Van Lansberge's visit to Aceh (March-April 1877)]]
-- [[Hikajat prang Kompeuni]]
+- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
 - [[Aceh War]]
 - [[De Kleine Oosterling]]
 - [[Building of Oleh-leh harbor]]

@@ -5,7 +5,7 @@ aliases: [Kniphorst]
 tags: [person, scholar, dutch-historian]
 ---
 
-**J. H. P. E. Kniphorst** was a Dutch colonial historian, the author of *Historische schets van den Zeeroof in den Oost-Indischen Archipel* ("Historical Sketch of Piracy in the East Indian Archipelago"), a work of formidable bulk which is cited by [[P. H. van der Kemp|Van der Kemp]] as one of the few secondary accounts to have grasped, however partially, the truth about Article 6 of the [[Acheh treaty of 1819|Raffles–Coombs convention]] of April 1819.
+**J. H. P. E. Kniphorst** was a Dutch colonial historian, the author of *Historische schets van den Zeeroof in den Oost-Indischen Archipel* ("Historical Sketch of Piracy in the East Indian Archipelago"), a work of formidable bulk which is cited by [[P. H. van der Kemp|Van der Kemp]] as one of the few secondary accounts to have grasped, however partially, the truth about Article 6 of the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] of April 1819.
 
 ## The *Historische schets*
 
@@ -21,15 +21,15 @@ The qualification "in a certain sense," however, did not go far enough for Van d
 
 ## Kniphorst in the History of Dutch Acheh Scholarship
 
-Kniphorst's *Historische schets* occupies a curious place in Van der Kemp's account. Despite its indigestible bulk and its failure to penetrate the Acheh question fully, it stands out, alongside the works of [[Pieter Johannes Veth|Professor Veth]] and of [[Snouck Hurgronje|Dr. Snouck Hurgronje]], as one of the more reliable nineteenth-century Dutch treatments of the relations between the Netherlands and the sultanate of Acheh. Kniphorst's caution — the qualifying "in a certain sense" — is offered by Van der Kemp as a small but telling reproach to the more confident errors of [[G. Lauts|Lauts]], [[Smulders|Smulders]], and [[J. J. Meinsma|Meinsma]].
+Kniphorst's *Historische schets* occupies a curious place in Van der Kemp's account. Despite its indigestible bulk and its failure to penetrate the Acheh question fully, it stands out, alongside the works of [[Pieter Johannes Veth|Professor Veth]] and of [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]], as one of the more reliable nineteenth-century Dutch treatments of the relations between the Netherlands and the sultanate of Acheh. Kniphorst's caution — the qualifying "in a certain sense" — is offered by Van der Kemp as a small but telling reproach to the more confident errors of [[G. Lauts|Lauts]], [[Smulders|Smulders]], and [[J. J. Meinsma|Meinsma]].
 
 ## See Also
 
-- [[Acheh treaty of 1819]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Sumatra Treaty of 1871]]
 - [[Pieter Johannes Veth]]
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [[G. Lauts]]
 - [[Smulders]]
 - [[J. J. Meinsma]]
@@ -41,7 +41,7 @@ Kniphorst's *Historische schets* occupies a curious place in Van der Kemp's acco
 ---
 
 
-**J. H. P. E. Kniphorst** was a Dutch colonial historian, the author of *Historische schets van den Zeeroof in den Oost-Indischen Archipel* ("Historical Sketch of Piracy in the East Indian Archipelago"), a work of formidable bulk which is cited by [[P. H. van der Kemp|Van der Kemp]] as one of the few secondary accounts to have grasped, however partially, the truth about Article 6 of the [[Acheh treaty of 1819|Raffles–Coombs convention]] of April 1819.
+**J. H. P. E. Kniphorst** was a Dutch colonial historian, the author of *Historische schets van den Zeeroof in den Oost-Indischen Archipel* ("Historical Sketch of Piracy in the East Indian Archipelago"), a work of formidable bulk which is cited by [[P. H. van der Kemp|Van der Kemp]] as one of the few secondary accounts to have grasped, however partially, the truth about Article 6 of the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] of April 1819.
 
 ## The *Historische schets*
 
@@ -57,15 +57,15 @@ The qualification "in a certain sense," however, did not go far enough for Van d
 
 ## Kniphorst in the History of Dutch Acheh Scholarship
 
-Kniphorst's *Historische schets* occupies a curious place in Van der Kemp's account. Despite its indigestible bulk and its failure to penetrate the Acheh question fully, it stands out, alongside the works of [[Pieter Johannes Veth|Professor Veth]] and of [[Snouck Hurgronje|Dr. Snouck Hurgronje]], as one of the more reliable nineteenth-century Dutch treatments of the relations between the Netherlands and the sultanate of Acheh. Kniphorst's caution — the qualifying "in a certain sense" — is offered by Van der Kemp as a small but telling reproach to the more confident errors of [[G. Lauts|Lauts]], [[Smulders|Smulders]], and [[J. J. Meinsma|Meinsma]].
+Kniphorst's *Historische schets* occupies a curious place in Van der Kemp's account. Despite its indigestible bulk and its failure to penetrate the Acheh question fully, it stands out, alongside the works of [[Pieter Johannes Veth|Professor Veth]] and of [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]], as one of the more reliable nineteenth-century Dutch treatments of the relations between the Netherlands and the sultanate of Acheh. Kniphorst's caution — the qualifying "in a certain sense" — is offered by Van der Kemp as a small but telling reproach to the more confident errors of [[G. Lauts|Lauts]], [[Smulders|Smulders]], and [[J. J. Meinsma|Meinsma]].
 
 ## See Also
 
-- [[Acheh treaty of 1819]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Sumatra Treaty of 1871]]
 - [[Pieter Johannes Veth]]
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [[G. Lauts]]
 - [[Smulders]]
 - [[J. J. Meinsma]]

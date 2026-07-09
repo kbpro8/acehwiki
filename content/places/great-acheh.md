@@ -4,11 +4,11 @@ aliases: [Acheh, Atjeh, Acheh Proper, Great Aceh, True Acheh, the heartland of A
 tags: [place, kingdom, capital-region, region, great-acheh, highland, lowland, achehnese, colonial]
 ---
 
-**Great Acheh** (*Acheh* proper, or the "kernel of the kingdom") was the heartland of the [[Aceh Sultanate]], distinct from the wider dependencies and coast states. The [[Acehnese People|Acehnese]] themselves placed the limits of the whole kingdom at [[Teumieng]] (Tamiang) on the East Coast, and at [[Baros]] or some other southern point on the West Coast. Far more restricted is the territory they described as "Acheh" proper, or "Great Acheh."
+**Great Acheh** (*Acheh* proper, or the "kernel of the kingdom") was the heartland of the [[Aceh Sultanate]], distinct from the wider dependencies and coast states. The [[Acehnese People|Acehnese]] themselves placed the limits of the whole kingdom at [[Tamiang|Teumieng]] (Tamiang) on the East Coast, and at [[Baros]] or some other southern point on the West Coast. Far more restricted is the territory they described as "Acheh" proper, or "Great Acheh."
 
 ## Boundaries
 
-According to [[C. Snouck Hurgronje]], Great Acheh was bounded by a line extending from [[Kluang]] on the West, to [[Krueng Raya]] on the North Coast, passing through [[Reueng-reueng]], [[Pancha]], and [[Janthoe]]. These three places lay on footpaths uniting Acheh with the territory of [[Pidie]] (vulgarly Pedir). The boundaries were somewhat differently marked in ordinary maps and in [[Van Langen]]'s brochure.
+According to [[C. Snouck Hurgronje]], Great Acheh was bounded by a line extending from [[Kluang]] on the West, to [[Krueng Raya]] on the North Coast, passing through [[Reueng-reueng]], [[Pancha]], and [[Janthoe]]. These three places lay on footpaths uniting Acheh with the territory of [[Pidie]] (vulgarly Pedir). The boundaries were somewhat differently marked in ordinary maps and in [[K. F. H. van Langen|Van Langen]]'s brochure.
 
 ## Shape
 
@@ -98,7 +98,7 @@ By St. No. 1914, 87 the [[Afdeeling Groot-Atjeh|Afdeeling Groot-Atjeh]], under a
 - [[Krueng Raya]]
 - [[Kluang]]
 - [[Pidie]]
-- [[Teumieng]]
+- [[Tamiang|Teumieng]]
 - [[Baros]]
 - [[XXII Mukims]]
 - [[XXV Mukims]]

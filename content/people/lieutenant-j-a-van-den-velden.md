@@ -15,7 +15,7 @@ In [[1828]] both Van den Velden and Lieutenant F. A. J. 't Hooft r
 
 ## See Also
 
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Marapalm]]
 - [[Militaire Willemsorde]]
 - [[King Willem I]]

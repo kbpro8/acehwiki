@@ -11,7 +11,7 @@ Buyskes coordinated the deployment of naval gunfire that helped the Dutch troops
 
 ## See Also
 
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Saparoea]]
 - [[1817 Saparoea uprising]]
 - [[Aceh]]

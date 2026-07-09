@@ -5,7 +5,7 @@ aliases: [Ahmadābād, Ahmedabad, Ahmadabad, the capital of Gujarat]
 tags: [place, city, gujarat, india, arab-migration, aydarus-family, al-addars, 16th-century, 17th-century]
 ---
 
-**Ahmadābād** — in English **Ahmedabad** — is the great city of [[Gudjarat|Gujarat]] in western India, in the late sixteenth and early seventeenth centuries one of the principal centres of Indian-Arab scholarship. It is the city where [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] succeeded his famous grandfather as religious teacher, before his later move to [[Surat]]; and the city where [[Abd al-Qadir al-Aidaros|ʿAbd al-Qādir al-Aydārūs]] — a kinsman of [[Raniri|Nūruddīn ar-Rānīrī]] and a prolific author of the Indian-Arab al-Aydārūs family — died in [[1628]].
+**Ahmadābād** — in English **Ahmedabad** — is the great city of [[Gudjarat|Gujarat]] in western India, in the late sixteenth and early seventeenth centuries one of the principal centres of Indian-Arab scholarship. It is the city where [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] succeeded his famous grandfather as religious teacher, before his later move to [[Surat]]; and the city where [[Abd al-Qadir al-Aidaros|ʿAbd al-Qādir al-Aydārūs]] — a kinsman of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and a prolific author of the Indian-Arab al-Aydārūs family — died in [[1628]].
 
 ## The first residence of al-ʿAddārs
 
@@ -25,7 +25,7 @@ Ahmadabad is one of the principal centres of Indian-Arab scholarship in the late
 - [[Gudjarat]]
 - [[Muhammad al-Addars]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Rifa'iyah order]]
 - [[Sajjid Abu Hafs Umar Ba Sjaiban]]
 - [[Surat]]
@@ -37,7 +37,7 @@ Ahmadabad is one of the principal centres of Indian-Arab scholarship in the late
 ---
 
 
-**Ahmadābād** — in English **Ahmedabad** — is the great city of [[Gudjarat|Gujarat]] in western India, in the late sixteenth and early seventeenth centuries one of the principal centres of Indian-Arab scholarship. It is the city where [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] succeeded his famous grandfather as religious teacher, before his later move to [[Surat]]; and the city where [[Abd al-Qadir al-Aidaros|ʿAbd al-Qādir al-Aydārūs]] — a kinsman of [[Raniri|Nūruddīn ar-Rānīrī]] and a prolific author of the Indian-Arab al-Aydārūs family — died in [[1628]].
+**Ahmadābād** — in English **Ahmedabad** — is the great city of [[Gudjarat|Gujarat]] in western India, in the late sixteenth and early seventeenth centuries one of the principal centres of Indian-Arab scholarship. It is the city where [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] succeeded his famous grandfather as religious teacher, before his later move to [[Surat]]; and the city where [[Abd al-Qadir al-Aidaros|ʿAbd al-Qādir al-Aydārūs]] — a kinsman of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and a prolific author of the Indian-Arab al-Aydārūs family — died in [[1628]].
 
 ## The first residence of al-ʿAddārs
 
@@ -57,7 +57,7 @@ Ahmadabad is one of the principal centres of Indian-Arab scholarship in the late
 - [[Gudjarat]]
 - [[Muhammad al-Addars]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Rifa'iyah order]]
 - [[Sajjid Abu Hafs Umar Ba Sjaiban]]
 - [[Surat]]

@@ -4,7 +4,7 @@ aliases: [Irene mission, Lucas' mission, Lucas mission to Telok Semawe]
 tags: [event, mission, colonial, correspondence, anglo-dutch]
 ---
 
-The **Lucas mission to Telok Semawé of February [[1821]]** was an armed Dutch diplomatic expedition dispatched to the Achehnese coast by the Netherlands Indies government in order to demand from the pretender [[Sultan Saif ul-Alum|Saif ul-Alum (Syf)]] the surrender of the *Wilhelmina*'s mutineers and the restitution of the money plundered from the schooner in the [[Wilhelmina mutiny and murder of Bouwens|mutiny of July–August 1819]]. Commanded by Colonel [[Colonel E. Lucas|E. Lucas]] in the war-brig *Irene*, the mission ended in complete failure and produced a sharp Anglo-Dutch "paper war" that [[P. H. van der Kemp|Van der Kemp]] treats as one of the principal episodes in the diplomatic prelude to the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London (1824)]].
+The **Lucas mission to Telok Semawé of February [[1821]]** was an armed Dutch diplomatic expedition dispatched to the Achehnese coast by the Netherlands Indies government in order to demand from the pretender [[Sultan Saif ul-Alum|Saif ul-Alum (Syf)]] the surrender of the *Wilhelmina*'s mutineers and the restitution of the money plundered from the schooner in the [[Wilhelmina mutiny and murder of Bouwens|mutiny of July–August 1819]]. Commanded by Colonel [[Colonel E. Lucas|E. Lucas]] in the war-brig *Irene*, the mission ended in complete failure and produced a sharp Anglo-Dutch "paper war" that [[P. H. van der Kemp|Van der Kemp]] treats as one of the principal episodes in the diplomatic prelude to the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1824]].
 
 ## Background
 
@@ -20,7 +20,7 @@ Lucas, dissatisfied with Syf's account, requested on [[9 February 1821|9 Februar
 
 ## Significance
 
-The Lucas mission is significant chiefly as a demonstration of the impasse into which Anglo-Dutch relations on the Sumatran coast had fallen by 1821. The Dutch could not act in Achehnese waters without British permission; the British, bound by treaty to [[Sultan Jauhar Alum]] and unwilling to acknowledge Dutch rights of intervention, refused to permit action and equally refused to take effective action themselves. Syf, protected by the British at Penang, was beyond Dutch reach. Van der Kemp observes that the "Papieroorlog" between the two governments over the *Wilhelmina* affair belongs to the same series of inconclusive exchanges as the broader controversy over Sumatra supremacy — a controversy that would only be resolved, after a fashion, by the [[Anglo-Dutch Treaty of London (1824)|Treaty of London]] of [[17 March 1824|17 March 1824]], which divided the two spheres and ceded Sumatra to the Netherlands.
+The Lucas mission is significant chiefly as a demonstration of the impasse into which Anglo-Dutch relations on the Sumatran coast had fallen by 1821. The Dutch could not act in Achehnese waters without British permission; the British, bound by treaty to [[Sultan Jauhar Alum]] and unwilling to acknowledge Dutch rights of intervention, refused to permit action and equally refused to take effective action themselves. Syf, protected by the British at Penang, was beyond Dutch reach. Van der Kemp observes that the "Papieroorlog" between the two governments over the *Wilhelmina* affair belongs to the same series of inconclusive exchanges as the broader controversy over Sumatra supremacy — a controversy that would only be resolved, after a fashion, by the [[Anglo-Dutch Treaty of 1824|Treaty of London]] of [[17 March 1824|17 March 1824]], which divided the two spheres and ceded Sumatra to the Netherlands.
 
 ## See Also
 
@@ -34,7 +34,7 @@ The Lucas mission is significant chiefly as a demonstration of the impasse into 
 - [[Wilhelmina mutiny and murder of Bouwens]]
 - [[Syf's pension at Penang]]
 - [[Syf's flight to Calcutta]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Death of Bannerman]]
 - [[Telok Semawé]]
 - [[Penang]]

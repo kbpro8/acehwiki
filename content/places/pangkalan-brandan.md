@@ -7,11 +7,11 @@ tags: ["place", "town", "harbour", "colonial", "dutch", "east-coast-sumatra", "b
 ## Account from *De Buitenbezittingen* (1917) — Pangkalan Brandan
 
 
-The Encyclopaedisch Bureau's account of the [[Deli-Spoorweg-Maatschappij|Deli-Spoorweg-Maatschappij]]'s network notes that the trambaan was extended "northward to Pangkalan Brandan, the small export place south of the [[Aroebai|Aroe-baai]], with its shallow roadstead" in the [[1902]]–[[1907]] phase of expansion. The Bureau notes that the roadstead at Pangkalan Brandan was shallow — "evenmin aan de moderne scheepvaarteischen voldoende" (equally inadequate to the demands of modern shipping) — a characterisation that placed Pangkalan Brandan, like [[Belawan-Deli|Belawan-Deli]], in the same category of inadequate harbours that the [[Aroe-baai-plannen|Aroe-baai-plannen]] were designed to bypass through the development of [[Aroebai|Arube Bay]].
+The Encyclopaedisch Bureau's account of the [[Deli Spoorweg Maatschappij|Deli Spoorweg Maatschappij]]'s network notes that the trambaan was extended "northward to Pangkalan Brandan, the small export place south of the [[Aroebai|Aroe-baai]], with its shallow roadstead" in the [[1902]]–[[1907]] phase of expansion. The Bureau notes that the roadstead at Pangkalan Brandan was shallow — "evenmin aan de moderne scheepvaarteischen voldoende" (equally inadequate to the demands of modern shipping) — a characterisation that placed Pangkalan Brandan, like [[Belawan-Deli|Belawan-Deli]], in the same category of inadequate harbours that the [[Aroe-baai-plannen|Aroe-baai-plannen]] were designed to bypass through the development of [[Aroebai|Arube Bay]].
 
 The Bureau's account of the [[Aroe-baai-plannen|Aroe-baai-plannen]] then places Pangkalan Brandan at the centre of the [[1913]] commercial conflict over the Atjeh-tram's southern extension. The Bureau notes that the Aroe-baai-plannen "were maintained even when, in place of [[Belawan-Deli|Belawan-Deli]], the equally inadequate roadstead of Pangkalan Brandan was put forward as the desired terminus of the [[Atjeh-tram|Atjeh-tram]]." The substitution of Pangkalan Brandan for [[Belawan-Deli|Belawan-Deli]] as the proposed terminus — and the maintenance of the Aroe-baai-plannen despite the substitution — is presented by the Bureau as evidence that the Aroe-baai project was "of evident interest to the whole [[Atjeh en Onderhoorigheden|gouvernement Atjeh]]" and was not merely a project of the Belawan commercial interest.
 
-The Bureau's account of the [[Cultuurraad]]'s deliberations on the proposed connections between the Atjeh-tram and the [[Deli-tram|Deli-tramway]] network also identifies Pangkalan Brandan as the proposed junction for the [[Cultuurraad]]'s preferred connection: "the [[Cultuurraad|cultuurraad]] now proposes the connection of the [[Atjeh-tram|Atjeh-en Deli-tramnetten]] by a line [[Besitang]]–Pangkalan Brandan." This proposal — like the earlier proposal for a direct [[Besitang]]–[[Tandjoeng Slamat]] junction — was contested, and the Bureau reports that "there is now under consideration a direct connecting line from Pangkalan Brandan with [[Telok Taboehan]] [Telok Taboeban], there joining the [[Atjeh-tram|Atjeh-net]] (see Bijlage XI)."
+The Bureau's account of the [[Cultuurraad]]'s deliberations on the proposed connections between the Atjeh-tram and the [[Deli Spoorweg Maatschappij|Deli-tramway]] network also identifies Pangkalan Brandan as the proposed junction for the [[Cultuurraad]]'s preferred connection: "the [[Cultuurraad|cultuurraad]] now proposes the connection of the [[Atjeh-tram|Atjeh-en Deli-tramnetten]] by a line [[Besitang]]–Pangkalan Brandan." This proposal — like the earlier proposal for a direct [[Besitang]]–[[Tandjoeng Slamat]] junction — was contested, and the Bureau reports that "there is now under consideration a direct connecting line from Pangkalan Brandan with [[Telok Taboehan]] [Telok Taboeban], there joining the [[Atjeh-tram|Atjeh-net]] (see Bijlage XI)."
 
 
 ## Significance
@@ -55,8 +55,8 @@ Pangkalan Brandan is significant for the encyclopedia of [[Acheh]] history becau
 - [[Aroe-baai-plannen]]
 - [[Besitang]]
 - [[Atjeh-tram]]
-- [[Deli-tram]]
-- [[Deli-Spoorweg-Maatschappij]]
+- [[Deli Spoorweg Maatschappij|Deli-tram]]
+- [[Deli Spoorweg Maatschappij|Deli-Spoorweg-Maatschappij]]
 - [[1907]]
 - [[Tandjoeng Slamat]]
 - [[1902]]

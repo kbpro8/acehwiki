@@ -33,7 +33,7 @@ The Vde Divisie is, in the staff history's Atjeh chapter, the staff history's pr
 
 - [[Nederlands-Indië contra Japan]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
-- [[1ste Divisie Marechaussee]]
+- [[1e Divisie Marechaussee uit Blang Kedjeren|1ste Divisie Marechaussee]]
 - [[2de (IIde) Divisie Marechaussee]]
 - [[3de (IIIde) Divisie Marechaussee]]
 - [[4de (IVde) Divisie Marechaussee]]
@@ -81,7 +81,7 @@ The Vde Divisie is, in the staff history's Atjeh chapter, the staff history's pr
 
 - [[Nederlands-Indië contra Japan]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
-- [[1ste Divisie Marechaussee]]
+- [[1e Divisie Marechaussee uit Blang Kedjeren|1ste Divisie Marechaussee]]
 - [[2de (IIde) Divisie Marechaussee]]
 - [[3de (IIIde) Divisie Marechaussee]]
 - [[4de (IVde) Divisie Marechaussee]]

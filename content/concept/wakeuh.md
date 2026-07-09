@@ -9,7 +9,7 @@ description: The Acehnese term for the Islamic institution of waqf (religious en
 
 ## Antiquity in Acheh
 
-[[Van Langen]] (in his *Atjehsch Staatsbestuur*, pp. 405 seqq.) noted that the great antiquity of the *wakeuh* institution in [[Great Acheh|Acheh]] appeared from the fact that the peculiar position of the people of the [[Mukim|III Mukims Keureukon]] could be directly traced to it, though the original intention was never attained. It was impossible, [[C. Snouck Hurgronje]] noted, to fix the exact time when this institution was first established, though sundry kindred institutions were undoubtedly assigned to too late an epoch by Van Langen.
+[[K. F. H. van Langen|Van Langen]] (in his *Atjehsch Staatsbestuur*, pp. 405 seqq.) noted that the great antiquity of the *wakeuh* institution in [[Great Acheh|Acheh]] appeared from the fact that the peculiar position of the people of the [[Mukim|III Mukims Keureukon]] could be directly traced to it, though the original intention was never attained. It was impossible, [[C. Snouck Hurgronje]] noted, to fix the exact time when this institution was first established, though sundry kindred institutions were undoubtedly assigned to too late an epoch by Van Langen.
 
 ## Sultanic Use
 
@@ -21,7 +21,7 @@ The sultans of [[Great Acheh|Acheh]] used the institution of *wakeuh* lands to s
 - [[Mukim]]
 - [[Meusigit]]
 - [[Hikum]]
-- [[Van Langen]]
+- [[K. F. H. van Langen|Van Langen]]
 - [[Great Acheh]]
 
 ## Source

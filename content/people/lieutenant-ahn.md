@@ -18,11 +18,11 @@ Ahn was later transferred to a hospital in **Padang**, where he boarded the stea
 His experience reflects the hazards faced by Dutch marine officers operating in the difficult terrain and climate of Aceh, as well as the logistical challenges of medical evacuation.
 
 ## See Also
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Adjoen]]
 - [[Padang]]
 - [[Kroesen (steamship)]]
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 
 ## Source
 *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 135‑136.

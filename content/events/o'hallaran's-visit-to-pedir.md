@@ -8,7 +8,7 @@ The **visit of [[Colonel O'Hallaran|Colonel O'Hallaran]] to [[Pedir|Pedir]] in [
 
 ## Background
 
-By [[1820]] the situation in Acheh had settled into the unstable equilibrium established by the [[Raffles-Coombs Acheh commission|Raffles-Coombs commission]] of [[1819]]. [[Sultan Jauhar Alum|Sultan Jauhar Alum]], having been recognised by the British as the lawful sultan and put in possession of the arms and money stipulated by Article 8 of the [[Acheh treaty of 1819|treaty of 1819]], had failed to establish himself at the capital and continued to reside at [[Pedir|Pedir]] on the north coast. The pretender [[Sultan Saif ul-Alum|Syf ul-Alum]] had nominally submitted at [[Telok Semawé|Telok Semawé]] but had in fact continued his robber life, and the real power at Acheh itself lay with the federal authority of the [[Three Sagis|Three Sagis]]. The Penang newspapers, in the hands of the partisans of the late [[Colonel John Alexander Bannerman|Governor Bannerman]], had begun to make merry over the inflated results of Raffles's mission; and the *Asiatic Journal* complained that "the object of some partisans at that island [was] to depreciate the acquisitions in territory and influence which Sir Stamford Raffles has effected for the Company."
+By [[1820]] the situation in Acheh had settled into the unstable equilibrium established by the [[Raffles-Coombs Acheh commission|Raffles-Coombs commission]] of [[1819]]. [[Sultan Jauhar Alum|Sultan Jauhar Alum]], having been recognised by the British as the lawful sultan and put in possession of the arms and money stipulated by Article 8 of the [[Treaty of Pedir (1819)|treaty of 1819]], had failed to establish himself at the capital and continued to reside at [[Pedir|Pedir]] on the north coast. The pretender [[Sultan Saif ul-Alum|Syf ul-Alum]] had nominally submitted at [[Telok Semawé|Telok Semawé]] but had in fact continued his robber life, and the real power at Acheh itself lay with the federal authority of the [[Three Sagis|Three Sagis]]. The Penang newspapers, in the hands of the partisans of the late [[Colonel John Alexander Bannerman|Governor Bannerman]], had begun to make merry over the inflated results of Raffles's mission; and the *Asiatic Journal* complained that "the object of some partisans at that island [was] to depreciate the acquisitions in territory and influence which Sir Stamford Raffles has effected for the Company."
 
 ## The Visit
 
@@ -23,7 +23,7 @@ The correspondent predicted that the Sultan "will never be able to execute one h
 - [[Colonel O'Hallaran]]
 - [[Sultan Jauhar Alum]]
 - [[Pedir]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Raffles-Coombs Acheh commission]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Captain Coombs]]

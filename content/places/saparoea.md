@@ -12,7 +12,7 @@ The island’s position made it a focal point for Dutch attempts to control the 
 ## See Also
 
 - [[Molukken]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[1817 Saparoea uprising]]
 - [[Aceh]]
 

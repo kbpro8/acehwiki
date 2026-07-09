@@ -10,7 +10,7 @@ Douglas organized multiple detachments, including a naval element to the plantat
 
 ## See Also
 - [[Atta (rebel leader)]]
-- [[Wikkie‑kreek]]
+- [[Wikkie creek|Wikkie‑kreek]]
 - [[Canje]]
 - [[Stevensburg]]
 

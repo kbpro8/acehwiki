@@ -3,11 +3,11 @@ title: F-organisatie
 aliases: [F-organization, F-movement, Fujiwara-kikan]
 tags: [concept, japanese, intelligence, fifth-column]
 ---
-**The F-organisatie** (English "F-organization," Dutch *F-organisatie*), formally the [[Fujiwara-kikan|Fujiwara-kikan]] — literally "the Fujiwara organization" — was the Japanese fifth-column apparatus that, after the [[fall of Penang|fall of Penang]] on [[19 December]] [[1941]], recruited, organised and dispatched Atjèhnese propagandists from [[Penang|Penang]] into [[Atjèh|Atjèh]] to prepare the [[Japanese invasion of Atjèh|Japanese invasion of Atjèh]] of [[11 March|11]]–[[12 March]] [[1942]]. Piekaar's *Atjèh and the War with Japan* treats the F-organisatie as the "actual 5th column organization," the operational arm of which was the [[Fujiwara-kikan|Fujiwara-kikan]] of [[Major Fujiwara|Major Fujiwara]], while its political head in Atjèh was [[Masubuchi|Masubuchi]], in whom "this organization found for Aceh an extremely capable leader."
+**The F-organisatie** (English "F-organization," Dutch *F-organisatie*), formally the [[Fujiwara-kikan|Fujiwara-kikan]] — literally "the Fujiwara organization" — was the Japanese fifth-column apparatus that, after the [[fall of Penang|fall of Penang]] on [[19 December]] [[1941]], recruited, organised and dispatched Atjèhnese propagandists from [[Penang|Penang]] into [[Atjèh|Atjèh]] to prepare the [[Japanese invasion of Atjèh|Japanese invasion of Atjèh]] of [[11 March|11]]–[[12 March]] [[1942]]. Piekaar's *Atjèh and the War with Japan* treats the F-organisatie as the "actual 5th column organization," the operational arm of which was the [[Fujiwara-kikan|Fujiwara-kikan]] of [[Fujiwara Iwaichi|Fujiwara Iwaichi]], while its political head in Atjèh was [[Masubuchi|Masubuchi]], in whom "this organization found for Aceh an extremely capable leader."
 
 ## Foundation and the Penang network
 
-The F-organisatie was founded by Major [[Fujiwara|Fujiwara]] during the Japanese advance through Malaya. "Already after the fall of Penang on 19 December 1941, the construction of this organization could be begun. For on Penang, the lively trade relations, which had been maintained with the [[Overwal|Overwal]] since time immemorial, were concentrated." The free port of [[Penang|Penang]] hosted "besides many merchants and seamen, also numerous people who, for political or other reasons, voluntarily or not, preferred an existence abroad" — a reservoir of dissatisfied Atjèhnese from which the F-organisatie drew its propagandists. Slipping back into Atjèh as "refugees" for the Japanese oppressor, these agents "were, even though they were intercepted and arrested by the coast guard, after having obtained advice from the local Dutch and Indonesian administrative officials, all released."
+The F-organisatie was founded by Major [[Fujiwara Iwaichi|Fujiwara Iwaichi]] during the Japanese advance through Malaya. "Already after the fall of Penang on 19 December 1941, the construction of this organization could be begun. For on Penang, the lively trade relations, which had been maintained with the [[Overwal|Overwal]] since time immemorial, were concentrated." The free port of [[Penang|Penang]] hosted "besides many merchants and seamen, also numerous people who, for political or other reasons, voluntarily or not, preferred an existence abroad" — a reservoir of dissatisfied Atjèhnese from which the F-organisatie drew its propagandists. Slipping back into Atjèh as "refugees" for the Japanese oppressor, these agents "were, even though they were intercepted and arrested by the coast guard, after having obtained advice from the local Dutch and Indonesian administrative officials, all released."
 
 ## Methods and instructions
 
@@ -26,7 +26,7 @@ After the invasion the F-organisatie became the kernel of the occupation's admin
 - [[M-organisatie]]
 - [[Fujiwara-kikan]]
 - [[Masubuchi-kikan]]
-- [[Fujiwara]]
+- [[Fujiwara Iwaichi|Fujiwara]]
 - [[Masubuchi]]
 - [[Said Aboe Bakar]]
 - [[Poesa]]

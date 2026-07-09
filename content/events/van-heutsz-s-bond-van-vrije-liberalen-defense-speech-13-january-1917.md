@@ -13,7 +13,7 @@ tags:
   - aceh
 ---
 
-**Van Heutsz's speech at the Bond van Vrije Liberalen on [[13 January]] [[1917]]** was a public address by former Governor-General [[J. B. van Heutsz]] in [[Amsterdam]] in which he called for immediate action on the defence of [[Netherlands India|Netherlands Indies]] and implicitly endorsed his own appointment as *buitengewoon Regeerings-Commissaris* with unlimited powers to reform the colonial defence system, directly provoking [[Van der Maaten]] to write a critical pamphlet exposing the speech's underlying agenda.
+**Van Heutsz's speech at the Bond van Vrije Liberalen on [[13 January]] [[1917]]** was a public address by former Governor-General [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] in [[Amsterdam]] in which he called for immediate action on the defence of [[Netherlands India|Netherlands Indies]] and implicitly endorsed his own appointment as *buitengewoon Regeerings-Commissaris* with unlimited powers to reform the colonial defence system, directly provoking [[Van der Maaten]] to write a critical pamphlet exposing the speech's underlying agenda.
 
 ## The Meeting
 
@@ -51,7 +51,7 @@ The speech was a pivotal moment in the Dutch colonial defence debate during the 
 
 ## See Also
 
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[J. Van der Weyden]]
 - [[Van der Weyden's defense brochure]]
 - [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies]]

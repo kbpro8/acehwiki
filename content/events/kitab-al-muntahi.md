@@ -4,7 +4,7 @@ aliases: [Kitāb al-Muntahī, Kitab Muntahi, Kitab al-Muttahi, Kitāb al-Mutta�
 tags: [document, religious-work, sufi-text, malay-literature, wujudiyyah, precolonial, 16th-century, aceh, mysticism, javanese-translation]
 ---
 
-**The *Kitāb al-Muntahī*** ("The Book of the Ultimate") is a Malay Sufi treatise by [[Hamzah Pansuri]], the celebrated pantheistic mystic of [[Acheh]]. It is the principal work of the school of Wujūdiyyah mysticism against which [[Raniri|Nuruddin ar-Raniri]] directed his polemic in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] and the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]]. The *Kitāb al-Muntahī* is one of the few works of Hamzah Pansuri to survive in Malay manuscripts, in Malay fragments, and in a Javanese translation; its text and refutation are the subject of an extended collation in the apparatus of [[P. Voorhoeve|Voorhoeve]]'s [[1955]] edition of Raniri's two Malay treatises.
+**The *Kitāb al-Muntahī*** ("The Book of the Ultimate") is a Malay Sufi treatise by [[Hamzah Pansuri]], the celebrated pantheistic mystic of [[Acheh]]. It is the principal work of the school of Wujūdiyyah mysticism against which [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]] directed his polemic in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] and the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]]. The *Kitāb al-Muntahī* is one of the few works of Hamzah Pansuri to survive in Malay manuscripts, in Malay fragments, and in a Javanese translation; its text and refutation are the subject of an extended collation in the apparatus of [[P. Voorhoeve|Voorhoeve]]'s [[1955]] edition of Raniri's two Malay treatises.
 
 ## Content and character
 
@@ -41,7 +41,7 @@ The *Kitāb al-Muntahī* is the most considerable surviving work of [[Hamzah Pan
 - [[Mir'at al-muhakkikin]]
 - [[P. Voorhoeve]]
 - [[Pasai]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's public debate against the Wujudiyyah in Acheh]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Sultan Iskandar Muda]]

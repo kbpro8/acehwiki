@@ -23,7 +23,7 @@ Van de Graaff's advice, given at some point in the 1820s or early 1830s, must be
 
 ## Significance
 
-Van der Kemp's reference to Van de Graaff is one of his characteristic shorthand allusions to a wider literature: the reader is expected to know — or to look up — the *Zoutwerk* for the full treatment. The mention serves to underline, in 1900, that the British concern expressed by Fullerton in 1828 about Dutch commercial rivalry in Sumatra had been answered by a deliberate Dutch price-policy, and that the policy itself had originated in the advice of a named and "well-known" member of the Council of the Indies. Van de Graaff is therefore a small but concrete figure in the economic background of the post-[[Anglo-Dutch Treaty of London (1824)|1824]] Anglo-Dutch rivalry that is one of Van der Kemp's principal themes.
+Van der Kemp's reference to Van de Graaff is one of his characteristic shorthand allusions to a wider literature: the reader is expected to know — or to look up — the *Zoutwerk* for the full treatment. The mention serves to underline, in 1900, that the British concern expressed by Fullerton in 1828 about Dutch commercial rivalry in Sumatra had been answered by a deliberate Dutch price-policy, and that the policy itself had originated in the advice of a named and "well-known" member of the Council of the Indies. Van de Graaff is therefore a small but concrete figure in the economic background of the post-[[Anglo-Dutch Treaty of 1824|1824]] Anglo-Dutch rivalry that is one of Van der Kemp's principal themes.
 
 ## See Also
 
@@ -38,7 +38,7 @@ Van der Kemp's reference to Van de Graaff is one of his characteristic shorthand
 - [[Singapore]]
 - [[Siam]]
 - [[Celebes]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Source
 
@@ -64,7 +64,7 @@ Van de Graaff's advice, given at some point in the 1820s or early 1830s, must be
 
 ## Significance
 
-Van der Kemp's reference to Van de Graaff is one of his characteristic shorthand allusions to a wider literature: the reader is expected to know — or to look up — the *Zoutwerk* for the full treatment. The mention serves to underline, in 1900, that the British concern expressed by Fullerton in 1828 about Dutch commercial rivalry in Sumatra had been answered by a deliberate Dutch price-policy, and that the policy itself had originated in the advice of a named and "well-known" member of the Council of the Indies. Van de Graaff is therefore a small but concrete figure in the economic background of the post-[[Anglo-Dutch Treaty of London (1824)|1824]] Anglo-Dutch rivalry that is one of Van der Kemp's principal themes.
+Van der Kemp's reference to Van de Graaff is one of his characteristic shorthand allusions to a wider literature: the reader is expected to know — or to look up — the *Zoutwerk* for the full treatment. The mention serves to underline, in 1900, that the British concern expressed by Fullerton in 1828 about Dutch commercial rivalry in Sumatra had been answered by a deliberate Dutch price-policy, and that the policy itself had originated in the advice of a named and "well-known" member of the Council of the Indies. Van de Graaff is therefore a small but concrete figure in the economic background of the post-[[Anglo-Dutch Treaty of 1824|1824]] Anglo-Dutch rivalry that is one of Van der Kemp's principal themes.
 
 ## See Also
 
@@ -79,7 +79,7 @@ Van der Kemp's reference to Van de Graaff is one of his characteristic shorthand
 - [[Singapore]]
 - [[Siam]]
 - [[Celebes]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Source
 

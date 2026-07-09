@@ -44,7 +44,7 @@ The court’s spectacular displays featured a thousand elephants used as riding,
 
 ### Translation of the *Burda* and Arabic Loanwords
 
-Iskandar Muda sponsored the Malay translation of the celebrated Arabic poem *[[Burda]]*, known as the *Maleise tekst van de Burda*.  This project introduced a suite of Arabic loanwords—*ash‑hur al‑hurrum*, *munsif*, *tahayyur*, *takallub*, *äkhira*—into Acehnese Malay, illustrating the intertwining of religious scholarship and statecraft.
+Iskandar Muda sponsored the Malay translation of the celebrated Arabic poem *[[Burda (poem)|Burda]]*, known as the *Maleise tekst van de Burda*.  This project introduced a suite of Arabic loanwords—*ash‑hur al‑hurrum*, *munsif*, *tahayyur*, *takallub*, *äkhira*—into Acehnese Malay, illustrating the intertwining of religious scholarship and statecraft.
 
 ### Court Literature
 
@@ -52,7 +52,7 @@ The *bloeitijdperk* saw the production of major literary works:
 
 * The *[[Tādj oes‑Salatin|Tādj us‑Salāṭīn]]* was completed in [[1607]], the year of Iskandar’s accession.
 * The *[[Bustanu's‑Salatin|Bustān as‑Salāṭīn]]* of [[Nur al‑Din al‑Raniri|ar‑Rānīrī]] was composed in [[1638]] under Iskandar’s successor, Iskandar II.
-* The *[[Hikayat Malem Dagang]]* portrays Iskandar receiving defectors from Malacca and leading a great naval expedition, though it anachronistically credits him with the introduction of Islam to Aceh (Islam had arrived two centuries earlier).
+* The *[[Hikajat Malém Dagang|Hikayat Malem Dagang]]* portrays Iskandar receiving defectors from Malacca and leading a great naval expedition, though it anachronistically credits him with the introduction of Islam to Aceh (Islam had arrived two centuries earlier).
 
 ### Architectural Legacy
 
@@ -98,7 +98,7 @@ Sultan Iskandar Muda’s reign constitutes the defining moment of the Acehnese *
 - [[Court buffalo-fight at Sultan Iskandar Muda's court ([[1613]])]]
 - [[Dutch–Aceh Treaty of 1641]]
 - [[Dutch–Aceh Treaty of 1649]]
-- [[Hikayat Malem Dagang]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
 - [[Indragiri]]
 - [[Kawaj XII]]
 - [[Kawaj XVI]]
@@ -111,7 +111,7 @@ Sultan Iskandar Muda’s reign constitutes the defining moment of the Acehnese *
 - [[Oost-Indisch Journael]]
 - [[Panglima Polem]]
 - [[Portuguese]]
-- [[Sarakata with chab sikureu'eng]]
+- [[Sarakata|Sarakata with chab sikureu'eng]]
 - [[Sultan Tajul-alam]]
 - [[Sultans of Atjeh]]
 - [[Thomas Best]]
@@ -119,7 +119,7 @@ Sultan Iskandar Muda’s reign constitutes the defining moment of the Acehnese *
 - [[William Foster]]
 - [[Pasai]]
 - [[Batoe Sawar]]
-- [[Burda]]
+- [[Burda (poem)|Burda]]
 - [[Arabic loanwords in Acehnese Malay]]
 - [[Malay translation of the Burda]]
 - [[Conquest of Perak (1579)]]

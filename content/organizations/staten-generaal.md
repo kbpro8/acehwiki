@@ -5,7 +5,7 @@ aliases: [States General of the United Provinces, Staten Generaal, Dutch States 
 tags: [organization, council, dutch, colonial, voc, atjeh, netherlands, 16th-century, 17th-century, staten-generaal]
 ---
 
-**The Staten-Generaal** — the **States General** of the United Provinces, the federal parliament of the Dutch Republic from [[1588]] to [[1795]] — was the sovereign political authority that chartered the [[Vereenigde Oostindische Compagnie|VOC]] on [[Founding of the VOC (1602)|20 March 1602]], defined the Company's quasi-sovereign powers (fortification, war, treaty-making), received the [[Atjeh embassy to Prince Maurits (1601)|Atjeh embassy of 1601]] on behalf of the United Provinces, and adjudicated disputes between the [[Heeren Zeventien|Heeren Zeventien]] that the body could not resolve. The Staten-Generaal is the principal Dutch political institution of Van der Woude's [[Coen, Koopman van Heeren Zeventien (1948)|Van der Woude (1948)]].
+**The Staten-Generaal** — the **States General** of the United Provinces, the federal parliament of the Dutch Republic from [[1588]] to [[1795]] — was the sovereign political authority that chartered the [[Vereenigde Oostindische Compagnie|VOC]] on [[Founding of the VOC (1602)|20 March 1602]], defined the Company's quasi-sovereign powers (fortification, war, treaty-making), received the [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy of 1601]] on behalf of the United Provinces, and adjudicated disputes between the [[Heeren Zeventien|Heeren Zeventien]] that the body could not resolve. The Staten-Generaal is the principal Dutch political institution of Van der Woude's [[Coen, Koopman van Heeren Zeventien (1948)|Van der Woude (1948)]].
 
 ## The chartering of the VOC (1602)
 
@@ -13,7 +13,7 @@ The Staten-Generaal chartered the [[Vereenigde Oostindische Compagnie|VOC]] on [
 
 ## The Atjeh embassy (1601)
 
-The [[Atjeh embassy to Prince Maurits (1601)|Atjeh embassy of 1601]] — dispatched by the [[Sultan of Atjeh (1589-1604)|sultan of Atjeh]] in response to the [[Zeeland Company's Atjeh mission (1601)|Zeeland mission of August 1601]] — was received in the Netherlands on behalf of the United Provinces. Van der Woude, citing [[Huigh de Groot|Huigh de Groot]], notes that the Achehnese envoys "zonder twijfel den indruk gekregen [hadden] dat de vriendschap der Hollanders hun meer zekerheid bood dan de slavernij der Portugeezen". The embassy's reception — at the siege of Grave by [[Prince Maurits|Prince Maurits]] in the field, with a *spiegelgevecht* staged in its honour — was the principal Dutch instance of the early-modern practice of receiving non-European envoys in the field. The embassy produced a treaty of friendship and commerce between the sultan and the United Provinces that the VOC would inherit in [[1602]].
+The [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy of 1601]] — dispatched by the [[Sultan of Atjeh (1589-1604)|sultan of Atjeh]] in response to the [[Zeeland Company's Atjeh mission (1601)|Zeeland mission of August 1601]] — was received in the Netherlands on behalf of the United Provinces. Van der Woude, citing [[Huigh de Groot|Huigh de Groot]], notes that the Achehnese envoys "zonder twijfel den indruk gekregen [hadden] dat de vriendschap der Hollanders hun meer zekerheid bood dan de slavernij der Portugeezen". The embassy's reception — at the siege of Grave by [[Prince Maurits|Prince Maurits]] in the field, with a *spiegelgevecht* staged in its honour — was the principal Dutch instance of the early-modern practice of receiving non-European envoys in the field. The embassy produced a treaty of friendship and commerce between the sultan and the United Provinces that the VOC would inherit in [[1602]].
 
 ## The Twelve Years' Truce (1609)
 
@@ -25,14 +25,14 @@ The Staten-Generaal's supervisory role over the VOC was the principal institutio
 
 ## Significance
 
-The Staten-Generaal is, in Van der Woude's narrative, the principal Dutch political institution of the early VOC period and the sovereign political authority that chartered the Company and defined its quasi-sovereign powers. The charter of [[20 March]] [[20 March]] [[1602]] — with its grant of fortification, war, and treaty-making powers, and its reservation of a dispute-adjudication role for the Staten-Generaal — was the legal foundation of the [[Jan Pieterszoon Coen|Coen]] programme of monopoly-by-force. The reception of the [[Atjeh embassy to Prince Maurits (1601)|Atjeh embassy of 1601]] on behalf of the United Provinces established the diplomatic framework within which the Dutch-Achehnese relationship would unfold, and the [[Twelve Years' Truce (1609)|Twelve Years' Truce of 1609]] was the principal diplomatic achievement of the Staten-Generaal in the early VOC period. The Staten-Generaal's supervisory role over the VOC — and the strategic arguments of [[Cornelis Matelieff|Matelieff]] and [[Jan Pieterszoon Coen|Coen]] for greater state involvement — would frame the institutional development of the VOC for the next two centuries.
+The Staten-Generaal is, in Van der Woude's narrative, the principal Dutch political institution of the early VOC period and the sovereign political authority that chartered the Company and defined its quasi-sovereign powers. The charter of [[20 March]] [[20 March]] [[1602]] — with its grant of fortification, war, and treaty-making powers, and its reservation of a dispute-adjudication role for the Staten-Generaal — was the legal foundation of the [[Jan Pieterszoon Coen|Coen]] programme of monopoly-by-force. The reception of the [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy of 1601]] on behalf of the United Provinces established the diplomatic framework within which the Dutch-Achehnese relationship would unfold, and the [[Twelve Years' Truce (1609)|Twelve Years' Truce of 1609]] was the principal diplomatic achievement of the Staten-Generaal in the early VOC period. The Staten-Generaal's supervisory role over the VOC — and the strategic arguments of [[Cornelis Matelieff|Matelieff]] and [[Jan Pieterszoon Coen|Coen]] for greater state involvement — would frame the institutional development of the VOC for the next two centuries.
 
 ## See Also
 
 - [[Founding of the VOC (1602)]]
 - [[Vereenigde Oostindische Compagnie]]
 - [[Heeren Zeventien]]
-- [[Atjeh embassy to Prince Maurits (1601)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits (1601)]]
 - [[Twelve Years' Truce (1609)]]
 - [[Johan van Oldenbarneveldt]]
 - [[Prince Maurits]]
@@ -52,7 +52,7 @@ The Staten-Generaal is, in Van der Woude's narrative, the principal Dutch politi
 ---
 
 
-**The Staten-Generaal** — the **States General** of the United Provinces, the federal parliament of the Dutch Republic from [[1588]] to [[1795]] — was the sovereign political authority that chartered the [[Vereenigde Oostindische Compagnie|VOC]] on [[Founding of the VOC (1602)|20 March 1602]], defined the Company's quasi-sovereign powers (fortification, war, treaty-making), received the [[Atjeh embassy to Prince Maurits (1601)|Atjeh embassy of 1601]] on behalf of the United Provinces, and adjudicated disputes between the [[Heeren Zeventien|Heeren Zeventien]] that the body could not resolve. The Staten-Generaal is the principal Dutch political institution of Van der Woude's [[Coen, Koopman van Heeren Zeventien (1948)|Van der Woude (1948)]].
+**The Staten-Generaal** — the **States General** of the United Provinces, the federal parliament of the Dutch Republic from [[1588]] to [[1795]] — was the sovereign political authority that chartered the [[Vereenigde Oostindische Compagnie|VOC]] on [[Founding of the VOC (1602)|20 March 1602]], defined the Company's quasi-sovereign powers (fortification, war, treaty-making), received the [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy of 1601]] on behalf of the United Provinces, and adjudicated disputes between the [[Heeren Zeventien|Heeren Zeventien]] that the body could not resolve. The Staten-Generaal is the principal Dutch political institution of Van der Woude's [[Coen, Koopman van Heeren Zeventien (1948)|Van der Woude (1948)]].
 
 ## The chartering of the VOC (1602)
 
@@ -60,7 +60,7 @@ The Staten-Generaal chartered the [[Vereenigde Oostindische Compagnie|VOC]] on [
 
 ## The Atjeh embassy (1601)
 
-The [[Atjeh embassy to Prince Maurits (1601)|Atjeh embassy of 1601]] — dispatched by the [[Sultan of Atjeh (1589-1604)|sultan of Atjeh]] in response to the [[Zeeland Company's Atjeh mission (1601)|Zeeland mission of August 1601]] — was received in the Netherlands on behalf of the United Provinces. Van der Woude, citing [[Huigh de Groot|Huigh de Groot]], notes that the Achehnese envoys "zonder twijfel den indruk gekregen [hadden] dat de vriendschap der Hollanders hun meer zekerheid bood dan de slavernij der Portugeezen". The embassy's reception — at the siege of Grave by [[Prince Maurits|Prince Maurits]] in the field, with a *spiegelgevecht* staged in its honour — was the principal Dutch instance of the early-modern practice of receiving non-European envoys in the field. The embassy produced a treaty of friendship and commerce between the sultan and the United Provinces that the VOC would inherit in [[1602]].
+The [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy of 1601]] — dispatched by the [[Sultan of Atjeh (1589-1604)|sultan of Atjeh]] in response to the [[Zeeland Company's Atjeh mission (1601)|Zeeland mission of August 1601]] — was received in the Netherlands on behalf of the United Provinces. Van der Woude, citing [[Huigh de Groot|Huigh de Groot]], notes that the Achehnese envoys "zonder twijfel den indruk gekregen [hadden] dat de vriendschap der Hollanders hun meer zekerheid bood dan de slavernij der Portugeezen". The embassy's reception — at the siege of Grave by [[Prince Maurits|Prince Maurits]] in the field, with a *spiegelgevecht* staged in its honour — was the principal Dutch instance of the early-modern practice of receiving non-European envoys in the field. The embassy produced a treaty of friendship and commerce between the sultan and the United Provinces that the VOC would inherit in [[1602]].
 
 ## The Twelve Years' Truce (1609)
 
@@ -72,14 +72,14 @@ The Staten-Generaal's supervisory role over the VOC was the principal institutio
 
 ## Significance
 
-The Staten-Generaal is, in Van der Woude's narrative, the principal Dutch political institution of the early VOC period and the sovereign political authority that chartered the Company and defined its quasi-sovereign powers. The charter of [[20 March]] [[20 March]] [[1602]] — with its grant of fortification, war, and treaty-making powers, and its reservation of a dispute-adjudication role for the Staten-Generaal — was the legal foundation of the [[Jan Pieterszoon Coen|Coen]] programme of monopoly-by-force. The reception of the [[Atjeh embassy to Prince Maurits (1601)|Atjeh embassy of 1601]] on behalf of the United Provinces established the diplomatic framework within which the Dutch-Achehnese relationship would unfold, and the [[Twelve Years' Truce (1609)|Twelve Years' Truce of 1609]] was the principal diplomatic achievement of the Staten-Generaal in the early VOC period. The Staten-Generaal's supervisory role over the VOC — and the strategic arguments of [[Cornelis Matelieff|Matelieff]] and [[Jan Pieterszoon Coen|Coen]] for greater state involvement — would frame the institutional development of the VOC for the next two centuries.
+The Staten-Generaal is, in Van der Woude's narrative, the principal Dutch political institution of the early VOC period and the sovereign political authority that chartered the Company and defined its quasi-sovereign powers. The charter of [[20 March]] [[20 March]] [[1602]] — with its grant of fortification, war, and treaty-making powers, and its reservation of a dispute-adjudication role for the Staten-Generaal — was the legal foundation of the [[Jan Pieterszoon Coen|Coen]] programme of monopoly-by-force. The reception of the [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy of 1601]] on behalf of the United Provinces established the diplomatic framework within which the Dutch-Achehnese relationship would unfold, and the [[Twelve Years' Truce (1609)|Twelve Years' Truce of 1609]] was the principal diplomatic achievement of the Staten-Generaal in the early VOC period. The Staten-Generaal's supervisory role over the VOC — and the strategic arguments of [[Cornelis Matelieff|Matelieff]] and [[Jan Pieterszoon Coen|Coen]] for greater state involvement — would frame the institutional development of the VOC for the next two centuries.
 
 ## See Also
 
 - [[Founding of the VOC (1602)]]
 - [[Vereenigde Oostindische Compagnie]]
 - [[Heeren Zeventien]]
-- [[Atjeh embassy to Prince Maurits (1601)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits (1601)]]
 - [[Twelve Years' Truce (1609)]]
 - [[Johan van Oldenbarneveldt]]
 - [[Prince Maurits]]

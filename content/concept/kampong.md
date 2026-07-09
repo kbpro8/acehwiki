@@ -16,7 +16,7 @@ The *kampong* was contrasted with the *[[tangsi]]*. The *anak-kolong* — the ch
 
 ## The kampong and the decorations
 
-"Ridders [[Militaire Willemsorde (M.W.O.)|M.W.O.]], dragers van de [[Medaille voor Moed en Trouw]] en van het [[Kroontje (Eervolle Vermelding)|Kroontje]] (de Eervolle Vermelding), waren de trots van hun kampong of *[[negorij]]*." The M.W.O. Ridder was the pride of his *kampong* (or his *negorij*, in the Ambonese case). The *kampong* tracked the soldier's wedervaren through the gehele Archipel, and his decoration was worn at the *[[Koninginnedag]]* rondgang.
+"Ridders [[Militaire Willemsorde|M.W.O.]], dragers van de [[Medaille voor Moed en Trouw]] en van het [[Kroontje (Eervolle Vermelding)|Kroontje]] (de Eervolle Vermelding), waren de trots van hun kampong of *[[negorij]]*." The M.W.O. Ridder was the pride of his *kampong* (or his *negorij*, in the Ambonese case). The *kampong* tracked the soldier's wedervaren through the gehele Archipel, and his decoration was worn at the *[[Koninginnedag]]* rondgang.
 
 ## The patrollie datang
 
@@ -31,7 +31,7 @@ The *kampong* is significant in *[[Oom Ambon van het K.N.I.L.]]* as the village 
 - [[Negorij]]
 - [[Tangsi]]
 - [[Anak-kolong]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Medaille voor Moed en Trouw]]
 - [[Kroontje (Eervolle Vermelding)]]
 - [[Koninginnedag]]

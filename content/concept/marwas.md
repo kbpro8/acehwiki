@@ -27,7 +27,7 @@ In the broader archipelago, related small double-headed drums include:
 | Region / People | Local Name | Context |
 |-----------------|------------|---------|
 | **[[Acheh]]** | **Marwas** | *Saman*, *Meuseukat*, *Zikir*, *Hadrah* |
-| **[[Minangkabau]]** | *Marwas* / *Tambua* (small) | *Tasa* (Tabuik), *Randai* |
+| **[[Menangkabau|Minangkabau]]** | *Marwas* / *Tambua* (small) | *Tasa* (Tabuik), *Randai* |
 | **[[Malay Peninsula]]** | *Marwas* / *Marwah* | *Ghazal*, *Zapin*, *Hadrah* |
 | **[[Riau]]** / **[[Johor]]** | *Marwas* | *Zapin*, *Ghazal Melayu* |
 | **[[Hadramawt]]** (Yemen) | *Mirwas* / *Marwas* | *Hadrah*, *Mawlid*, *Zaffa* |

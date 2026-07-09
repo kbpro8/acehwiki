@@ -5,7 +5,7 @@ aliases: [al-Ḥallāj, Hallaj, al-Hallaj, Ḥusayn b. Manṣūr al-Hallāj, Man
 tags: [person, scholar, religious-figure, sufi, mystic, ecstatic, 9th-century, 10th-century, persia, baghdad, shathihiyat]
 ---
 
-**Al-Ḥallāj** — Ḥusayn b. Manṣūr al-Hallāj (244–309 H / 858–922 C.E.) — was a Persian Sufi mystic, one of the most celebrated and most controversial figures of the early Sufi tradition. He was executed in Baghdad in 309 H / 922 C.E. for his ecstatic utterance *anā al-ḥaqq* ("I am the Truth") — a declaration of the mystic's passing-away (*fanāʾ*) in the divine reality. The doctrine of the [[Shathihiyat|*shathīyāt*]] — the ecstatic utterances of the Sufis — is exemplified above all by al-Ḥallāj, and the scholastic treatment of the *shathīyāt* in the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Raniri|Nūruddīn ar-Rānīrī]] takes his case as its principal example.
+**Al-Ḥallāj** — Ḥusayn b. Manṣūr al-Hallāj (244–309 H / 858–922 C.E.) — was a Persian Sufi mystic, one of the most celebrated and most controversial figures of the early Sufi tradition. He was executed in Baghdad in 309 H / 922 C.E. for his ecstatic utterance *anā al-ḥaqq* ("I am the Truth") — a declaration of the mystic's passing-away (*fanāʾ*) in the divine reality. The doctrine of the [[Shathihiyat|*shathīyāt*]] — the ecstatic utterances of the Sufis — is exemplified above all by al-Ḥallāj, and the scholastic treatment of the *shathīyāt* in the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] takes his case as its principal example.
 
 ## *Anā al-ḥaqq*
 
@@ -26,7 +26,7 @@ Al-Ḥallāj is the classic example of the *shathīyāt* and the principal autho
 - [[Acheh]]
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[Iskandar Thani]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's public debate against the Wujudiyyah in Acheh]]
 - [[Shathihiyat]]
 - [[Wujudiyyah]]
@@ -37,7 +37,7 @@ Al-Ḥallāj is the classic example of the *shathīyāt* and the principal autho
 ---
 
 
-**Al-Ḥallāj** — Ḥusayn b. Manṣūr al-Hallāj (244–309 H / 858–922 C.E.) — was a Persian Sufi mystic, one of the most celebrated and most controversial figures of the early Sufi tradition. He was executed in Baghdad in 309 H / 922 C.E. for his ecstatic utterance *anā al-ḥaqq* ("I am the Truth") — a declaration of the mystic's passing-away (*fanāʾ*) in the divine reality. The doctrine of the [[Shathihiyat|*shathīyāt*]] — the ecstatic utterances of the Sufis — is exemplified above all by al-Ḥallāj, and the scholastic treatment of the *shathīyāt* in the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Raniri|Nūruddīn ar-Rānīrī]] takes his case as its principal example.
+**Al-Ḥallāj** — Ḥusayn b. Manṣūr al-Hallāj (244–309 H / 858–922 C.E.) — was a Persian Sufi mystic, one of the most celebrated and most controversial figures of the early Sufi tradition. He was executed in Baghdad in 309 H / 922 C.E. for his ecstatic utterance *anā al-ḥaqq* ("I am the Truth") — a declaration of the mystic's passing-away (*fanāʾ*) in the divine reality. The doctrine of the [[Shathihiyat|*shathīyāt*]] — the ecstatic utterances of the Sufis — is exemplified above all by al-Ḥallāj, and the scholastic treatment of the *shathīyāt* in the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] takes his case as its principal example.
 
 ## *Anā al-ḥaqq*
 
@@ -58,7 +58,7 @@ Al-Ḥallāj is the classic example of the *shathīyāt* and the principal autho
 - [[Acheh]]
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[Iskandar Thani]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's public debate against the Wujudiyyah in Acheh]]
 - [[Shathihiyat]]
 - [[Wujudiyyah]]

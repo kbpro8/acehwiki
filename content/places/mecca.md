@@ -48,7 +48,7 @@ The marriage-officials of Mecca are called *mumlik* (a term whose "absolute" ide
 - [[Arabia]]
 - [[Haj]]
 - [[Hajj]]
-- [[Pandit Raniri]]
+- [[Nur al-Din al-Raniri|Pandit Raniri]]
 - [[Sayyid 'Uthman]]
 - [[L. W. C. van den Berg]]
 - [[Ta'liq]]

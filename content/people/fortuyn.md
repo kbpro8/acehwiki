@@ -11,7 +11,7 @@ Fortuyn’s inclusion among the rebel chiefs underscores the fragmented nature o
 ## See Also
 - [[Quacco]]
 - [[Baubé]]
-- [[Wikkie‑kreek]]
+- [[Wikkie creek|Wikkie‑kreek]]
 
 ## Source
 *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, p. 351.

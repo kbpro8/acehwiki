@@ -4,7 +4,7 @@ aliases: [1844 British bombardment of Atjeh, British punitive action against Atj
 tags: [event, military, naval, british, aceh, piracy, colonial, pre-aceh-war]
 ---
 
-The **bombardment of the Atjehse coast by the British** of [[1844]] was a punitive naval action by the [[Britain|British government]] against the [[Achehnese|Atjehse]] coastal population, undertaken in retaliation for Atjehese piracy against British merchant shipping. The action followed the precedent of the [[American bombardment of the Atjehse coast (1831)|American bombardment of 1831]] and is recorded by [[J. Frijling|Ir. J. Frijling]] in his [[1946]] sketch *Een stukje geschiedenis der Indische Buitengewesten* as one of the two nineteenth-century precedents for the use of foreign naval force against the Atjehse coast in the absence of effective Dutch authority. Together with the American action, the British bombardment formed the international-pressure background to the [[Anglo-Dutch Treaty of 1871|Sumatra-contract]] of [[1871]] and the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1904]].
+The **bombardment of the Atjehse coast by the British** of [[1844]] was a punitive naval action by the [[Britain|British government]] against the [[Achehnese|Atjehse]] coastal population, undertaken in retaliation for Atjehese piracy against British merchant shipping. The action followed the precedent of the [[American bombardment of the Atjehse coast (1831)|American bombardment of 1831]] and is recorded by [[J. Frijling|Ir. J. Frijling]] in his [[1946]] sketch *Een stukje geschiedenis der Indische Buitengewesten* as one of the two nineteenth-century precedents for the use of foreign naval force against the Atjehse coast in the absence of effective Dutch authority. Together with the American action, the British bombardment formed the international-pressure background to the [[Anglo-Dutch Treaty of 1824|Sumatra-contract]] of [[1871]] and the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1904]].
 
 ## Context
 
@@ -22,7 +22,7 @@ The [[1844]] British bombardment, together with the [[American bombardment of th
 
 - [[American bombardment of the Atjehse coast (1831)]]
 - [[Anglo-Dutch Treaty of London]]
-- [[Anglo-Dutch Treaty of 1871]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1871]]
 - [[Acheh]]
 - [[Achehnese]]
 - [[Zeeroverij]]

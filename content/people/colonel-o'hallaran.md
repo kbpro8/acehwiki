@@ -5,7 +5,7 @@ aliases: [O'Hallaran, Colonel Ohallaran, Col. O'Hallaran]
 tags: [person, british-official, military-officer]
 ---
 
-**Colonel O'Hallaran** was a British colonel who, in mid-[[1820]], made a formal call upon [[Sultan Jauhar Alum|Sultan Djohar]] at [[Pedir]] while a troopship on its way from [[Penang]] to [[Calcutta]] put in at that port. The episode is recorded by P. H. [[P. H. van der Kemp|Van der Kemp]] (1900) from a contemporary Penang newspaper, and is interesting chiefly as an illustration of the conditions prevailing at Sultan Djohar's court in the year after the conclusion of the [[Acheh treaty of 1819]].
+**Colonel O'Hallaran** was a British colonel who, in mid-[[1820]], made a formal call upon [[Sultan Jauhar Alum|Sultan Djohar]] at [[Pedir]] while a troopship on its way from [[Penang]] to [[Calcutta]] put in at that port. The episode is recorded by P. H. [[P. H. van der Kemp|Van der Kemp]] (1900) from a contemporary Penang newspaper, and is interesting chiefly as an illustration of the conditions prevailing at Sultan Djohar's court in the year after the conclusion of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]].
 
 ## The Visit to Pedir, 1820
 
@@ -24,7 +24,7 @@ The episode also reveals the deep mismatch between British expectations of orien
 - [[Sultan Jauhar Alum]]
 - [[O'Hallaran's visit to Pedir (1820)]]
 - [[Lord Minto]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Pedir]]
 
 ## Source
@@ -33,7 +33,7 @@ The episode also reveals the deep mismatch between British expectations of orien
 ---
 
 
-**Colonel O'Hallaran** was a British colonel who, in mid-[[1820]], made a formal call upon [[Sultan Jauhar Alum|Sultan Djohar]] at [[Pedir]] while a troopship on its way from [[Penang]] to [[Calcutta]] put in at that port. The episode is recorded by P. H. [[P. H. van der Kemp|Van der Kemp]] (1900) from a contemporary Penang newspaper, and is interesting chiefly as an illustration of the conditions prevailing at Sultan Djohar's court in the year after the conclusion of the [[Acheh treaty of 1819]].
+**Colonel O'Hallaran** was a British colonel who, in mid-[[1820]], made a formal call upon [[Sultan Jauhar Alum|Sultan Djohar]] at [[Pedir]] while a troopship on its way from [[Penang]] to [[Calcutta]] put in at that port. The episode is recorded by P. H. [[P. H. van der Kemp|Van der Kemp]] (1900) from a contemporary Penang newspaper, and is interesting chiefly as an illustration of the conditions prevailing at Sultan Djohar's court in the year after the conclusion of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]].
 
 ## The Visit to Pedir, 1820
 
@@ -52,7 +52,7 @@ The episode also reveals the deep mismatch between British expectations of orien
 - [[Sultan Jauhar Alum]]
 - [[O'Hallaran's visit to Pedir (1820)]]
 - [[Lord Minto]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Pedir]]
 
 ## Source

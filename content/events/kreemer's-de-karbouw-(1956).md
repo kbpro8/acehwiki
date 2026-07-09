@@ -3,7 +3,7 @@ title: Kreemer's De Karbouw (1956)
 aliases: [De Karbouw", De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel", Kreemer 1956", Kreemer's De Karbouw"]
 tags: ["achehnese", "book", "colonial", "document", "dutch", "ethnography"]
 ---
-**Kreemer's *De Karbouw* ([[1956]])** — full title *De Karbouw: Zijn betekenis voor de volken van de Indonesische Archipel* ("The Water-Buffalo: Its significance for the peoples of the Indonesian Archipelago") — is the late synthesis of [[J. Kreemer|J. Kreemer]], published in [[1956]] by N.V. Uitgeverij W. van Hoeve in 's-Gravenhage and Bandung, in which the author, at the end of a half-century career as a Dutch colonial official and ethnographer of northern Sumatra, gathered the comparative ethnographic material on the water-buffalo across the Indonesian archipelago into a single comprehensive survey. The book is, after [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] ([[1922]]-23) and [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] ([[1893]]-94), the principal Dutch scholarly source on the Atjehnese buffalo-complex, and is the immediate source on which a large proportion of the Atjeh-specific entries in this wiki rest.
+**Kreemer's *De Karbouw* ([[1956]])** — full title *De Karbouw: Zijn betekenis voor de volken van de Indonesische Archipel* ("The Water-Buffalo: Its significance for the peoples of the Indonesian Archipelago") — is the late synthesis of [[J. Kreemer|J. Kreemer]], published in [[1956]] by N.V. Uitgeverij W. van Hoeve in 's-Gravenhage and Bandung, in which the author, at the end of a half-century career as a Dutch colonial official and ethnographer of northern Sumatra, gathered the comparative ethnographic material on the water-buffalo across the Indonesian archipelago into a single comprehensive survey. The book is, after [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] ([[1922]]-23) and [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] ([[1893]]-94), the principal Dutch scholarly source on the Atjehnese buffalo-complex, and is the immediate source on which a large proportion of the Atjeh-specific entries in this wiki rest.
 
 ## Composition and scope
 As Kreemer explains in the *Voorbericht* of *De Karbouw* (dated 's-Gravenhage, October [[1955]]), he undertook the book to fill a gap in the ethnographic literature: the buffalo, "the pre-eminently useful domestic animal for the life of the peoples of the Archipelago," had never received a monographic treatment, although [[J. A. C. Kruyt|Kruyt]], [[J. P. Kleiweg de Zwaan|Kleiweg de Zwaan]] and others had written on related animals (the dog, the cat) and [[Dr. J. Merkens|Merkens]]'s veterinary dissertation on the buffalo ([[Dr. J. Merkens|Merkens]], *Bijdrage tot de kennis van den karbouw en de karbouwenteelt in Ned. O.-Indië*, [[1927]]) had not addressed its place in popular life and belief. Kreemer accordingly returned, after half a century, to the same subject with which he had begun his scholarly career — the [[Kreemer's De Maleier en zijn karbouw ([[1907]])|*De Maleier en zijn karbouw* of 1907]] — but now on the scale of the entire Indonesian archipelago rather than of a single under-district on Sumatra's Westkust.
@@ -20,7 +20,7 @@ The Atjeh-specific material in *De Karbouw* is dispersed throughout the 35 secti
 - The [[poewôê siê|*poewôê siê*]] first-year husband meat-obligation (pp. 113-114).
 - The [[teungkoe meunasah|*teungkoe meunasah*]] ritual-slaughterer institution and adat (p. 117).
 - The [[maq meugang|*maq meugang*]] / [[Moloet|*Moloet*]] / [[hakikah|*hakikah*]] / [[Koeroebeuën|*Koeroebeuën*]] / [[kanoeri's|*kanoeri's*]] slaughter-calendar (p. 118).
-- The [[Hakikah and Koeroebeuën pre-Islamic preparation in Atjeh|pre-Islamic preparation rites]] for *hakikah* and *Koeroebeuën* sacrifices (pp. 118-119).
+- The [[Hakikah ('Aqiqah) in Aceh|pre-Islamic preparation rites]] for *hakikah* and *Koeroebeuën* sacrifices (pp. 118-119).
 - The [[dadih (Atjeh)|*dadih*]] (curdled buffalo-milk) production and consumption, especially in [[Samalanga|Samalanga]] (p. 124).
 - The [[getah dadih|*getah dadih*]] buffalo-milk-curd glue (p. 124).
 - The [[minjaq sapi|*minjaq sapi*]] buffalo-milk frying-fat (pp. 124-125).
@@ -47,7 +47,7 @@ The *Voorbericht* (pp. 5-6) is a significant self-positioning document. Kreemer 
 
 
 ## Significance
-Kreemer's *De Karbouw* ([[1956]]) is significant for the encyclopedia of [[Acheh]] history as the principal Dutch scholarly source on the Atjehnese buffalo-complex, and as the immediate source on which a large proportion of the Atjeh-specific entries in this wiki rest. The book is, after [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] and [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]], the third of the great Dutch scholarly syntheses that document the Atjehnese buffalo-complex, and is the only one of the three to treat the buffalo as its central subject. The book's *Voorbericht* is also a significant self-positioning document, in which Kreemer frames his late synthesis as both a culmination (a return, after half a century, to the subject of his first scholarly work) and a compendium (a gathering of the comparative ethnographic material on the buffalo across the archipelago).
+Kreemer's *De Karbouw* ([[1956]]) is significant for the encyclopedia of [[Acheh]] history as the principal Dutch scholarly source on the Atjehnese buffalo-complex, and as the immediate source on which a large proportion of the Atjeh-specific entries in this wiki rest. The book is, after [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] and [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]], the third of the great Dutch scholarly syntheses that document the Atjehnese buffalo-complex, and is the only one of the three to treat the buffalo as its central subject. The book's *Voorbericht* is also a significant self-positioning document, in which Kreemer frames his late synthesis as both a culmination (a return, after half a century, to the subject of his first scholarly work) and a compendium (a gathering of the comparative ethnographic material on the buffalo across the archipelago).
 
 
 ## Sources
@@ -56,7 +56,7 @@ Kreemer's *De Karbouw* ([[1956]]) is significant for the encyclopedia of [[Acheh
 
 ## See Also
 - [[Atjehs buffalo vocabulary]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Dr. J. Merkens]]
 - [[J. Kreemer]]
 - [[Kreemer's Atjeh ([[1922]]-23)]]

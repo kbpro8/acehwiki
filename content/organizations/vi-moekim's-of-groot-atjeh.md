@@ -4,7 +4,7 @@ title: VI Moekim's of Groot-Atjeh
 aliases: [6 Mukims of Atjeh", Lhee Sagoe", Six Mukims of Greater Aceh", VI Moekim", VI Moekim's", VI Mukim Groot-Atjeh"]
 tags: ["achehnese", "administrative-unit", "islamic", "organization"]
 ---
-The **VI Moekim's of Groot-Atjeh** (the Six *Mukim*s of Greater Aceh) were a federation of six *mukim* — the Islamic administrative unit (from Arabic *muqīm*, literally "settled" or "resident") used in [[Acheh|Atjeh]] to organise the territorial-administrative structure of the sultanate — that formed one of the principal territorial federations of the [[Groot-Atjeh|Groot-Atjeh]] heartland around [[Banda Acheh|Koetaradja]]. The VI Moekim's are mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 246) as the inhabitants who, in the period documented by [[Christiaan Snouck Hurgronje|Snouck Hurgronje]], held the [[Rabò annual seven-day feast|annual seven-day beach feast at Rabò]] — the seventh day of which culminated in the ritual sacrifice of a buffalo that was first stabbed and then led bleeding over all the rice-fields.
+The **VI Moekim's of Groot-Atjeh** (the Six *Mukim*s of Greater Aceh) were a federation of six *mukim* — the Islamic administrative unit (from Arabic *muqīm*, literally "settled" or "resident") used in [[Acheh|Atjeh]] to organise the territorial-administrative structure of the sultanate — that formed one of the principal territorial federations of the [[Groot-Atjeh|Groot-Atjeh]] heartland around [[Banda Acheh|Koetaradja]]. The VI Moekim's are mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 246) as the inhabitants who, in the period documented by [[C. Snouck Hurgronje|Snouck Hurgronje]], held the [[Rabò annual seven-day feast|annual seven-day beach feast at Rabò]] — the seventh day of which culminated in the ritual sacrifice of a buffalo that was first stabbed and then led bleeding over all the rice-fields.
 
 ## The *mukim* as an Atjehnese administrative unit
 The *mukim* (in Atjehnese orthography *mukìm* or *moekim*) is an Islamic administrative unit specific to the [[Acheh|Atjeh]] sultanate, denoting a territorial parish organised around a *meunasah* (the village prayer-house and religious school) and headed, in the colonial-period account of *De Karbouw*, by a *teungkoe meunasah* (the village religious official, who also served as the ritual slaughterer). The *mukim* system was the basis of the Atjehnese state's territorial organisation: a federation of *mukim*s (the VI, the [[XXII Moekim's|XXII]], the [[XXV Moekim's|XXV]], the [[XXVI Moekim's|XXVI]], etc.) constituted the larger territorial units that, taken together, formed the [[Groot-Atjeh|Groot-Atjeh]] heartland of the sultanate. The VI Moekim's — the smallest of the great *mukim*-federations — were one of these.
@@ -26,7 +26,7 @@ The VI Moekim's of Groot-Atjeh are significant for the encyclopedia of [[Acheh]]
 *De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), vol. II, p. 315.
 
 ## See Also
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Groot-Atjeh]]
 - [[Kreemer's De Karbouw ([[1956]])]]
 - [[Poelo Breuëh]]
@@ -40,7 +40,7 @@ The VI Moekim's of Groot-Atjeh are significant for the encyclopedia of [[Acheh]]
 - [[teungkoe meunasah]
 ---
 
-The **VI Moekim's of Groot-Atjeh** (the Six *Mukim*s of Greater Aceh) were a federation of six *mukim* — the Islamic administrative unit (from Arabic *muqīm*, literally "settled" or "resident") used in [[Acheh|Atjeh]] to organise the territorial-administrative structure of the sultanate — that formed one of the principal territorial federations of the [[Groot-Atjeh|Groot-Atjeh]] heartland around [[Banda Acheh|Koetaradja]]. The VI Moekim's are mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 246) as the inhabitants who, in the period documented by [[Christiaan Snouck Hurgronje|Snouck Hurgronje]], held the [[Rabò annual seven-day feast|annual seven-day beach feast at Rabò]] — the seventh day of which culminated in the ritual sacrifice of a buffalo that was first stabbed and then led bleeding over all the rice-fields.
+The **VI Moekim's of Groot-Atjeh** (the Six *Mukim*s of Greater Aceh) were a federation of six *mukim* — the Islamic administrative unit (from Arabic *muqīm*, literally "settled" or "resident") used in [[Acheh|Atjeh]] to organise the territorial-administrative structure of the sultanate — that formed one of the principal territorial federations of the [[Groot-Atjeh|Groot-Atjeh]] heartland around [[Banda Acheh|Koetaradja]]. The VI Moekim's are mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 246) as the inhabitants who, in the period documented by [[C. Snouck Hurgronje|Snouck Hurgronje]], held the [[Rabò annual seven-day feast|annual seven-day beach feast at Rabò]] — the seventh day of which culminated in the ritual sacrifice of a buffalo that was first stabbed and then led bleeding over all the rice-fields.
 
 ## The *mukim* as an Atjehnese administrative unit
 The *mukim* (in Atjehnese orthography *mukìm* or *moekim*) is an Islamic administrative unit specific to the [[Acheh|Atjeh]] sultanate, denoting a territorial parish organised around a *meunasah* (the village prayer-house and religious school) and headed, in the colonial-period account of *De Karbouw*, by a *teungkoe meunasah* (the village religious official, who also served as the ritual slaughterer). The *mukim* system was the basis of the Atjehnese state's territorial organisation: a federation of *mukim*s (the VI, the [[XXII Moekim's|XXII]], the [[XXV Moekim's|XXV]], the [[XXVI Moekim's|XXVI]], etc.) constituted the larger territorial units that, taken together, formed the [[Groot-Atjeh|Groot-Atjeh]] heartland of the sultanate. The VI Moekim's — the smallest of the great *mukim*-federations — were one of these.
@@ -62,7 +62,7 @@ The VI Moekim's of Groot-Atjeh are significant for the encyclopedia of [[Acheh]]
 *De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), vol. II, p. 315.
 
 ## See Also
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Groot-Atjeh]]
 - [[Kreemer's De Karbouw ([[1956]])]]
 - [[Poelo Breuëh]]

@@ -3,7 +3,7 @@ title: Aceh (Atjeh)
 aliases: [Atjeh, Acheh, Atjeh (historical), Atjeh (spelling variant)]
 tags: [place, sultanate, aceh, colonial]
 ---
-**Aceh (Atjeh)** was a historic sultanate occupying the northern tip of [[Sumatra]] that became part of the [[Dutch East Indies (Nederlands-Indische Archipel)|Dutch East Indies]] in the nineteenth century and remained a focal point of Dutch colonial military activity throughout the nineteenth and early twentieth centuries.  The sultanate’s strategic position at the entrance to the [[Andaman Sea]] and its control of the lucrative pepper trade made it a frequent target of Dutch expeditions, and the region later featured in the broader operations of the [[Royal Netherlands Marine Corps|Korps Mariniers]] during the World Wars.  The corps received the [[Military Order of William|Militaire Willemsorde]] in [[1946]] partly in recognition of its service “in talrijke gebieden van den Nederlandsch-Indischen Archipel,” a phrase that implicitly includes Aceh (source: p. 467).
+**Aceh (Atjeh)** was a historic sultanate occupying the northern tip of [[Sumatra]] that became part of the [[Dutch East Indies (Nederlands-Indische Archipel)|Dutch East Indies]] in the nineteenth century and remained a focal point of Dutch colonial military activity throughout the nineteenth and early twentieth centuries.  The sultanate’s strategic position at the entrance to the [[Andaman Sea]] and its control of the lucrative pepper trade made it a frequent target of Dutch expeditions, and the region later featured in the broader operations of the [[Royal Netherlands Marine Corps|Korps Mariniers]] during the World Wars.  The corps received the [[Militaire Willemsorde|Militaire Willemsorde]] in [[1946]] partly in recognition of its service “in talrijke gebieden van den Nederlandsch-Indischen Archipel,” a phrase that implicitly includes Aceh (source: p. 467).
 
 ## Early History and Sovereignty
 
@@ -25,7 +25,7 @@ After Indonesian independence in [[1949]], Aceh became a province of the Republi
 
 - [[Dutch East Indies (Nederlands-Indische Archipel)]]
 - [[Royal Netherlands Marine Corps|Korps Mariniers]]
-- [[Military Order of William|Militaire Willemsorde]]
+- [[Militaire Willemsorde|Militaire Willemsorde]]
 - [[Aceh War]]
 - [[Java Sea (Javazee)]]
 - [[East Java (Oost-Java)]]

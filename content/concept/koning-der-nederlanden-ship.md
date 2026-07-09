@@ -11,7 +11,7 @@ The ship’s crew included **20 marines** from the **Koning der Nederlanden** un
 
 ## See Also
 
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Koerier (ship)]]
 - [[C. Faassen]]
 - [[Tamiang (river)]]

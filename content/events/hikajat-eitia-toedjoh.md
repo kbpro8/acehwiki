@@ -16,7 +16,7 @@ The text was published as **Tekst A** of [[H. T. Damsté|Damsté]]'s edition. Th
 
 ## Editor and venue
 
-[[H. T. Damsté|Damsté]] — already known in the AcehWiki corpus as one of the principal authorities on Atjeh, cited by [[Dr. A. J. Piekaar|Piekaar]] in the Bibliography of *Atjèh and the War with Japan* alongside [[C. Snouck Hurgronje|Snouck Hurgronje]], [[J. Kreemer|Kreemer]], [[J. J. Jongejans|Jongejans]], and Zentgraaff — published the edition in the *B.K.I.*, the quarterly journal of the [[Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië|Koninklijk Instituut]]. The *B.K.I.* had by [[1939]] reached deel 98, and the *Hikajat Eitia Toedjoh* took its place in a long series of Atjehsch text editions published in the journal over the preceding half-century.
+[[H. T. Damsté|Damsté]] — already known in the AcehWiki corpus as one of the principal authorities on Atjeh, cited by [[Dr. A. J. Piekaar|Piekaar]] in the Bibliography of *Atjèh and the War with Japan* alongside [[C. Snouck Hurgronje|Snouck Hurgronje]], [[J. Kreemer|Kreemer]], [[J. J. Jongejans|Jongejans]], and Zentgraaff — published the edition in the *B.K.I.*, the quarterly journal of the [[Koninklijke Vereeniging Koloniaal Instituut|Koninklijk Instituut]]. The *B.K.I.* had by [[1939]] reached deel 98, and the *Hikajat Eitia Toedjoh* took its place in a long series of Atjehsch text editions published in the journal over the preceding half-century.
 
 ## Place in the 1939 Literatuur-Overzicht
 
@@ -31,10 +31,10 @@ For AcehWiki, the *Hikajat Eitia Toedjoh* is significant as a published Atjehnes
 - [[De legende van de heilige zeven slapers in het Atjehsch (Damsté, 1939)]]
 - [[Literatuur-Overzicht over het jaar 1939 (Van Meurs, 1940)]]
 - [[H. van Meurs]]
-- [[h-t-damste]]
+- [[H. T. Damsté|h-t-damste]]
 - [[h.-t.-damste]]
 - [[Bijdragen tot de Taal, Land en Volkenkunde van Nederlandsch Indie]]
-- [[Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]
+- [[Koninklijke Vereeniging Koloniaal Instituut|Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]
 - [[M. Nijhoff]]
 - [[hikajat-radja-radja-pasei]]
 - [[hikajat-prang-kompeuni-supplement]]

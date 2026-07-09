@@ -24,7 +24,7 @@ The Mohammedans of the Peninsula follow the *ruya* doctrine for fixing the begin
 
 ## Account from *Raffles' Atjeh-overeenkomst van 1819* — Malay Peninsula
 
-The **Malay Peninsula** (Dutch **Maleische schiereiland**, also **Malaksche schiereiland**) is the long tongue of land projecting from the Asian mainland between the [[Straits of Malacca|straits of Malacca]] and the South China Sea, on which stand the British settlements of [[Penang|Pulo Pinang]], [[Malacca]] and (after [[1819]]) [[Singapore]]. In P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819*, the peninsula figures as the British counterpart to the Dutch sphere on [[Sumatra]] in the [[Anglo-Dutch Treaty of London (1824)|treaty of 17 March 1824]], and as such it forms the geographical pivot of the entire Anglo-Dutch settlement of [[1824]].
+The **Malay Peninsula** (Dutch **Maleische schiereiland**, also **Malaksche schiereiland**) is the long tongue of land projecting from the Asian mainland between the [[Straits of Malacca|straits of Malacca]] and the South China Sea, on which stand the British settlements of [[Penang|Pulo Pinang]], [[Malacca]] and (after [[1819]]) [[Singapore]]. In P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819*, the peninsula figures as the British counterpart to the Dutch sphere on [[Sumatra]] in the [[Anglo-Dutch Treaty of 1824|treaty of 17 March 1824]], and as such it forms the geographical pivot of the entire Anglo-Dutch settlement of [[1824]].
 
 ## The counterpart to Sumatra
 
@@ -52,7 +52,7 @@ By the late 1820s the symmetry had been disturbed in British eyes. Governor [[Ro
 - [[Malacca]]
 - [[Penang]]
 - [[Singapore]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Anton Reinhard Falck]]
 - [[Hendrik Fagel]]
 - [[Elout]]

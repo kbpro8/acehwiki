@@ -4,7 +4,7 @@ aliases: [Majapahit, Manjapahit empire, Majapahit kingdom, Manjapahit, Madjapahi
 tags: [place, foreign, historical, java, empire, kingdom, literary]
 ---
 
-**Manjapahit** — more commonly **Majapahit** — is the name of the great Javanese Hindu-Buddhist empire which, at the height of its power in the fourteenth century, dominated much of the [[Indian Archipelago|Eastern Archipelago]]. In *The Achehnese* Vol. I, Snouck Hurgronje cites Manjapahit not as a political entity but as the locality into which, in a well-known Malay *pantun*, one of the seven Pleiades stars is said to have fallen in olden times.
+**Manjapahit** — more commonly **Majapahit** — is the name of the great Javanese Hindu-Buddhist empire which, at the height of its power in the fourteenth century, dominated much of the [[East Indian Archipelago|Eastern Archipelago]]. In *The Achehnese* Vol. I, Snouck Hurgronje cites Manjapahit not as a political entity but as the locality into which, in a well-known Malay *pantun*, one of the seven Pleiades stars is said to have fallen in olden times.
 
 ## The Malay Pantun
 
@@ -29,7 +29,7 @@ The survival of the name Manjapahit in a Malay *pantun* current in Acheh is itse
 
 ## Place in Van der Kemp's article
 
-In P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819* the name **Manjapahit** appears only as a cultural-poetic allusion — a passing Malay reference of the kind that an Achehnese court or a Malay-speaking intermediary might use to give a phrase the weight of antiquity. The empire itself is not the subject of any sustained discussion; the reference is incidental to the broader Malay cultural setting in which the [[Acheh treaty of 1819]] was negotiated. The name surfaces in the same linguistic and literary register that produced, in Van der Kemp's footnotes and appendices, the Achehnese terms of address, the Arabic titulature of the sultans, and the Malay letters reproduced from the archives of [[Penang]] and [[Calcutta]].
+In P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819* the name **Manjapahit** appears only as a cultural-poetic allusion — a passing Malay reference of the kind that an Achehnese court or a Malay-speaking intermediary might use to give a phrase the weight of antiquity. The empire itself is not the subject of any sustained discussion; the reference is incidental to the broader Malay cultural setting in which the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] was negotiated. The name surfaces in the same linguistic and literary register that produced, in Van der Kemp's footnotes and appendices, the Achehnese terms of address, the Arabic titulature of the sultans, and the Malay letters reproduced from the archives of [[Penang]] and [[Calcutta]].
 
 ## Historical and literary background
 
@@ -39,7 +39,7 @@ In the pantun tradition the name Majapahit is folded into the *_pembayang* (the 
 
 ## Significance for the Acheh narrative
 
-The fleeting presence of the name Majapahit in Van der Kemp's apparatus is a reminder that the negotiations conducted at [[Acheh]] in [[1819]] did not take place in a cultural vacuum. The sultans whose claims [[Stamford Raffles|Raffles]] and [[John Coombs|Coombs]] were called upon to adjudicate — [[Sultan Djohor|Djohor]] and [[Sultan Syf|Syf]] — inhabited a world in which Malay literary references, Islamic titulature, and memories of pre-Islamic Javanese greatness all coexisted. The Achehnese court was itself the heir to a long tradition of Malay letters, and its diplomats and letter-writers drew on the same stock of names — including Majapahit — that animated pantun and hikayat throughout the region.
+The fleeting presence of the name Majapahit in Van der Kemp's apparatus is a reminder that the negotiations conducted at [[Acheh]] in [[1819]] did not take place in a cultural vacuum. The sultans whose claims [[Sir Thomas Stamford Raffles|Raffles]] and [[John Coombs|Coombs]] were called upon to adjudicate — [[Sultan Djohor|Djohor]] and [[Sultan Syf|Syf]] — inhabited a world in which Malay literary references, Islamic titulature, and memories of pre-Islamic Javanese greatness all coexisted. The Achehnese court was itself the heir to a long tradition of Malay letters, and its diplomats and letter-writers drew on the same stock of names — including Majapahit — that animated pantun and hikayat throughout the region.
 
 
 ## See Also
@@ -47,13 +47,13 @@ The fleeting presence of the name Majapahit in Van der Kemp's apparatus is a rem
 - [[Java]]
 - [[Malay Peninsula]]
 - [[India]]
-- [[Eastern Archipelago]]
+- [[East Indian Archipelago|Eastern Archipelago]]
 - [[Acheh]]
 - [[Sultan Djohor]]
 - [[Sultan Syf]]
-- [[Stamford Raffles]]
+- [[Sir Thomas Stamford Raffles|Stamford Raffles]]
 - [[John Coombs]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 
 ## Source
 

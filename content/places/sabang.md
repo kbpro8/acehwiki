@@ -29,7 +29,7 @@ was the better site.
 In [[1887]] the [[Batavia]]-based firm [[De Lange (firm)|De Lange]] received a concession to
 establish a coal station at the Sabang bay; the head of the firm, [[Van Oosterzee]], is remembered
 in the source as the "spiritual father of Sabang." The idea of Sabang as an ocean harbour was first
-propagated vigorously by the then Major [[Van Heutsz]] in his [[1892]] brochure
+propagated vigorously by the then Major [[Joannes Benedictus van Heutsz|Van Heutsz]] in his [[1892]] brochure
 [[The Subjugation of Atjeh (1892)|"The Subjugation of Atjeh"]], which urged the colony to exploit
 the island's natural advantages by opening it as the only [[Acheh|Atjehnese]] free port, from which
 he expected formidable competition with [[Penang]].
@@ -38,7 +38,7 @@ That competition did not materialise as predicted. The long-standing trade betwe
 [[Penang]] — which had built up a standing line of credit for the traders of the coastal districts
 among their Penang correspondents — together with the limited staying power of the Dutch capital
 then interested in Acheh's commerce, kept the import and export trade in its established channels.
-The transfer of that trade from [[Penang]] to Sabang foreseen by [[Van Heutsz]] scarcely occurred;
+The transfer of that trade from [[Penang]] to Sabang foreseen by [[Joannes Benedictus van Heutsz|Van Heutsz]] scarcely occurred;
 only a portion of the trade of the cultivation district on the [[East Coast of Sumatra]] was drawn
 to the new port.
 
@@ -120,7 +120,7 @@ brought [[Acheh]] under control, sought to convert the conquest into a commercia
 
 ## Sabang as an internment site, 1905–1908
 
-Beyond its role as a commercial harbour, Sabang served during the governorship of [[G. C. E. van Daalen|Van Daalen]] ([[1905]]–[[1908]]) as a site for the arbitrary internment of local chiefs and their families. Van Daalen frequently sent *oelèëbalangs* — sometimes along with their wives and children — to Sabang without any judicial process; the internment was often indefinite, and Van Daalen claimed such measures were necessary to maintain control. [[J. B. van Heutsz|Van Heutsz]]'s investigation in [[1907]] as part of the [[Atjéh-enquête|Atjéh-enquête]] found that in many cases the individuals interned had committed no offence; the internments were arbitrary and not based on the legal provisions of Article 47 of the *Regeeringsreglement*; and families were separated and left without means of support. Van Heutsz condemned the practice and ordered it ended. After Van Daalen's removal in [[1908]], Sabang ceased to be used as an internment site for political prisoners, reverting to its original functions as a naval and coaling station. The episode exemplified the abuses of the Van Daalen era and highlighted the tension between the governor's discretionary powers and the rule of law.
+Beyond its role as a commercial harbour, Sabang served during the governorship of [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] ([[1905]]–[[1908]]) as a site for the arbitrary internment of local chiefs and their families. Van Daalen frequently sent *oelèëbalangs* — sometimes along with their wives and children — to Sabang without any judicial process; the internment was often indefinite, and Van Daalen claimed such measures were necessary to maintain control. [[Joannes Benedictus van Heutsz|Van Heutsz]]'s investigation in [[1907]] as part of the [[Atjéh-enquête|Atjéh-enquête]] found that in many cases the individuals interned had committed no offence; the internments were arbitrary and not based on the legal provisions of Article 47 of the *Regeeringsreglement*; and families were separated and left without means of support. Van Heutsz condemned the practice and ordered it ended. After Van Daalen's removal in [[1908]], Sabang ceased to be used as an internment site for political prisoners, reverting to its original functions as a naval and coaling station. The episode exemplified the abuses of the Van Daalen era and highlighted the tension between the governor's discretionary powers and the rule of law.
 
 ## Account from *De Buitenbezittingen* (1917) — Sabang
 
@@ -215,7 +215,7 @@ Dr. [[Johan Wøller]], a Danish physician bound for service in the Netherlands-I
 - [[Pulo We|Poeloe We]]
 - [[N.V. Zeehaven en Kolenstation Sabang]]
 - [[Atjeh Transport Maatschappij]]
-- [[Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz]]
 - [[The Subjugation of Atjeh (1892)]]
 - [[Oelèë Lheuë]]
 - [[Penang]]
@@ -250,7 +250,7 @@ Dr. [[Johan Wøller]], a Danish physician bound for service in the Netherlands-I
 - [[1941]]
 - [[1945]]
 - [[Aceh War]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Kutaradja]]
 - [[Johan Wøller]]
 - [[Atjeh en Onderhorigheden]]

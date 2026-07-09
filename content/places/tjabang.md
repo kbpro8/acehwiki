@@ -8,7 +8,7 @@ tags: [place, aceh, village]
 ## See Also
 - [[Daroe]]
 - [[Battle of Daroe]]
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 - [[Sawah (rice field)]]
 
 ## Source

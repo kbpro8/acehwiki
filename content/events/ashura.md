@@ -8,7 +8,7 @@ tags: [event, calendar, religious, ceremony, kanduri]
 
 The Shi'ite countries observe the day in a manner wholly different from the Sunnis. There the first ten days of Muharram are devoted to all manner of ceremonies, processions, discourses, and theatrical representations purporting to commemorate the conflict between Mohammad's grandson Husain and the Umayyads. These festivities culminate in the Ashura, on which day Husain perished on the plains of [[Kerbela]], and a number of ceremonies follow, extending over the next three days and consecrated to the memory of his burial. The dances and bonfires, the *dikrs* with their mourning for the martyrs, the wild frenzies in which the mourners gash their own bodies with knives, the theatrical representations sometimes confounded with reality by the spectators so that the actor who takes the part of the murderer of Husain becomes exposed to actual violence, and the mad processions particularly common in Hindustan — all this specially belongs to [[Persia]] and the Shi'ite portions of British India.
 
-The popular [[Hasan-Husain festival|Hasan-Husain festival]] that is celebrated on a smaller scale in different parts of Netherlands-India, especially on the West Coast of Sumatra ([[Padang]], [[Bencoolen]], and elsewhere), and even in [[Trumon]] in the manner customary in the Deccan, is a surviving trace of this Shi'ite observance. Snouck Hurgronje notes that Hasan, innocent as he was of all martyrdom, has been enrolled in the band of saints together with Husain, and that the Ashura-festival bears the names of both brothers. The popular tales current in the East Indian Archipelago of Hasan and Husain are of the same character as those current in India, and were disseminated through Indian rather than Arabian channels.
+The popular [[Hasan-Husain Festival|Hasan-Husain Festival]] that is celebrated on a smaller scale in different parts of Netherlands-India, especially on the West Coast of Sumatra ([[Padang]], [[Bencoolen]], and elsewhere), and even in [[Trumon]] in the manner customary in the Deccan, is a surviving trace of this Shi'ite observance. Snouck Hurgronje notes that Hasan, innocent as he was of all martyrdom, has been enrolled in the band of saints together with Husain, and that the Ashura-festival bears the names of both brothers. The popular tales current in the East Indian Archipelago of Hasan and Husain are of the same character as those current in India, and were disseminated through Indian rather than Arabian channels.
 
 In Acheh, beyond the cooking of **kanji Ashura**, the day passes almost unnoticed. The kanji is a pottage or porridge (the Javanese *bubur*) consisting of rice, cocoanut milk, sugar, and pieces of cocoanut, mixed with various fruits cut into small pieces — papayas, peas, pomegranates, plantains, sugarcane, and various edible roots. It is not cooked in every separate house; one or two large pots full suffice for a whole gampong. Those who undertake the cooking receive voluntary subscriptions from their fellow-villagers. The kanji Ashura is the sole Achehnese observance of a day that, in Shi'ite lands, gives rise to the most impassioned religious pageantry of the year.
 
@@ -30,7 +30,7 @@ The parallel between the kanji Ashura and the apam of Rajab throws light on the 
 
 ## See Also
 
-- [[Hasan-Husain festival]]
+- [[Hasan-Husain Festival|Hasan-Husain festival]]
 - [[Hasan and Husain]]
 - [[Kanduri]]
 - [[Kerbela]]

@@ -4,11 +4,11 @@ aliases: [C. A. O. van Nieuwenhuijze, Christiaan Adriaan Oskar van Nieuwenhuijze
 tags: [person, scholar, dutch-orientalist, malay-scholarship, sufi-studies, 20th-century, leiden, raniri, shamsuddin]
 ---
 
-**C. A. O. van Nieuwenhuijze** — cited by [[P. Voorhoeve|Voorhoeve]] in his apparatus criticus with the abbreviation **vN** — was a Dutch orientalist whose Leiden dissertation *Sjamsu'l-Dīn van Pasai: bijdrage tot de kennis van de Sumatraansche mystiek* (1945) and the subsequent study "Sjamsu'l-Dīn van Pasai" in *BKI* 104 (1948), pp. 326–370, laid the foundations for the modern study of the religious controversy of [[Acheh]] in the seventeenth century. His work is the principal channel through which the writings of [[Raniri|Nūruddīn ar-Rānīrī]] against the [[Wujudiyyah]] of [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]] were made accessible to European scholarship before the [[1955]] edition of Raniri's two Malay treatises.
+**C. A. O. van Nieuwenhuijze** — cited by [[P. Voorhoeve|Voorhoeve]] in his apparatus criticus with the abbreviation **vN** — was a Dutch orientalist whose Leiden dissertation *Sjamsu'l-Dīn van Pasai: bijdrage tot de kennis van de Sumatraansche mystiek* (1945) and the subsequent study "Sjamsu'l-Dīn van Pasai" in *BKI* 104 (1948), pp. 326–370, laid the foundations for the modern study of the religious controversy of [[Acheh]] in the seventeenth century. His work is the principal channel through which the writings of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] against the [[Wujudiyyah]] of [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]] were made accessible to European scholarship before the [[1955]] edition of Raniri's two Malay treatises.
 
 ## The dissertation *Sjamsu'l-Dīn van Pasai*
 
-Van Nieuwenhuijze's Leiden dissertation of 1945 — *Sjamsu'l-Dīn van Pasai: bijdrage tot de kennis van de Sumatraansche mystiek* ("Shamsuddin of Pasai: a contribution to the knowledge of Sumatran mysticism") — is the principal modern study of the Wujūdiyyah mystic [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]] and of the controversy between Shamsuddin and [[Raniri]]. The dissertation includes a brief translation of the section of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of Raniri in which the Wujūdiyyah are treated (pp. 206–213 of the dissertation), and a number of conjectures and notes on the text — recorded by Voorhoeve in the apparatus criticus of the [[1955]] edition with the abbreviation "vN."
+Van Nieuwenhuijze's Leiden dissertation of 1945 — *Sjamsu'l-Dīn van Pasai: bijdrage tot de kennis van de Sumatraansche mystiek* ("Shamsuddin of Pasai: a contribution to the knowledge of Sumatran mysticism") — is the principal modern study of the Wujūdiyyah mystic [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]] and of the controversy between Shamsuddin and [[Nur al-Din al-Raniri|Raniri]]. The dissertation includes a brief translation of the section of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of Raniri in which the Wujūdiyyah are treated (pp. 206–213 of the dissertation), and a number of conjectures and notes on the text — recorded by Voorhoeve in the apparatus criticus of the [[1955]] edition with the abbreviation "vN."
 
 ## The 1948 study in *BKI* 104
 
@@ -30,7 +30,7 @@ Van Nieuwenhuijze is the principal predecessor of [[P. Voorhoeve|Voorhoeve]] in 
 - [[Kitab al-Muntahi]]
 - [[Mir'at al-muhakkikin]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Tibjan fi ma'rifat al-adyan]]
 - [[Wujudiyyah]]

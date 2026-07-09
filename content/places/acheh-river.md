@@ -30,7 +30,7 @@ The Achehnese delight to compare the form of "true Acheh" — the kernel of the 
 
 ### The Panglima Meuseugit Raya
 
-The [[Panglima Meuseugit Raya]] — literally "Commander of the Great Mosque" — was the head of the twenty-four or more gampongs on either side of the Acheh river, in the neighbourhood of the court and principal mosque. Through a long process of degeneration he succeeded in gaining control over half the jurisdiction of the [[Teuku Kali]], the hereditary chief justice of the kingdom. The river thus marked not merely a topographical axis but the political spine of the port-king's domain.
+The [[Panglima Meuseugit Raya]] — literally "Commander of the Great Mosque" — was the head of the twenty-four or more gampongs on either side of the Acheh river, in the neighbourhood of the court and principal mosque. Through a long process of degeneration he succeeded in gaining control over half the jurisdiction of the [[Teuku Kali Malikon Ade|Teuku Kali]], the hereditary chief justice of the kingdom. The river thus marked not merely a topographical axis but the political spine of the port-king's domain.
 
 ### The Tanoh Raja Reserve
 
@@ -42,11 +42,11 @@ The **Acheh River** (Dutch *Atjeh-rivier*; modern *Krueng Aceh*) is the river di
 
 ## Fortification in 1819
 
-When the [[Raffles-Coombs Acheh Commission (1819)|Raffles–Coombs commission]] arrived before [[Banda Acheh]] in [[1819]] and anchored there on [[14 March]], the city was without a sultan in residence. The deposed [[Sultan Jauhar Alum]] had withdrawn to [[Pedir]] and the upstart [[Sultan Saif ul-Alum]] had fled to [[Telok Semawé]]. Effective authority lay with the [[Three Sagis]], in practice with [[Panglima Polim]] of the [[XXII Mukims]]. As the commission's stay lengthened — it would last nearly seven weeks — rumour spread that the British had come to take possession of the country. "De bevolking liep te hoop en richtte aan den mond der Atjeh-rivier eene versterking op", Van der Kemp records, "welke vijandige houding de commissie zich bij Polim beklaagde". The hostile posture of the population at the river-mouth was the subject of a formal complaint by the commissioners to Polim.
+When the [[Raffles-Coombs Acheh Commission (1819)|Raffles–Coombs commission]] arrived before [[Banda Acheh]] in [[1819]] and anchored there on [[14 March]], the city was without a sultan in residence. The deposed [[Sultan Jauhar Alum]] had withdrawn to [[Pedir]] and the upstart [[Sultan Saif ul-Alum]] had fled to [[Telok Semawé]]. Effective authority lay with the [[Three Sagis]], in practice with [[Panglima Polem|Panglima Polim]] of the [[XXII Mukims]]. As the commission's stay lengthened — it would last nearly seven weeks — rumour spread that the British had come to take possession of the country. "De bevolking liep te hoop en richtte aan den mond der Atjeh-rivier eene versterking op", Van der Kemp records, "welke vijandige houding de commissie zich bij Polim beklaagde". The hostile posture of the population at the river-mouth was the subject of a formal complaint by the commissioners to Polim.
 
 ## Jauhar Alum's stockade
 
-The river-mouth reappears in [[Robert Fullerton|Fullerton]]'s minute of [[21 March]] [[1825]] on the state of [[Acheh]] after the [[Anglo-Dutch Treaty of London (1824)|treaty of London of 1824]]. Reviewing the futility of the [[Acheh treaty of 1819]], Fullerton observed that [[Sultan Jauhar Alum]] had never recovered his authority, and that "the remaining years of his life were spent in one stockade at the mouth of the Acheen river without commanding influence or even respect". Jauhar Alum had died in December [[1823]] (the [[Death of Sultan Jauhar Alum]]), having never been able to establish himself at the capital in the manner the [[Treaty of Pedir (1819)|treaty of 22 April 1819]] presupposed. The stockade at the river-mouth was the outward symbol of his impotence.
+The river-mouth reappears in [[Robert Fullerton|Fullerton]]'s minute of [[21 March]] [[1825]] on the state of [[Acheh]] after the [[Anglo-Dutch Treaty of 1824|treaty of London of 1824]]. Reviewing the futility of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]], Fullerton observed that [[Sultan Jauhar Alum]] had never recovered his authority, and that "the remaining years of his life were spent in one stockade at the mouth of the Acheen river without commanding influence or even respect". Jauhar Alum had died in December [[1823]] (the [[Death of Sultan Jauhar Alum]]), having never been able to establish himself at the capital in the manner the [[Treaty of Pedir (1819)|treaty of 22 April 1819]] presupposed. The stockade at the river-mouth was the outward symbol of his impotence.
 
 The Acheh River also gave its name to the description of the *Wilhelmina* affair, in which [[Lieutenant Marx Bouwens|Bouwens]] was murdered "op de hoogte van Atjeh" — off Acheh — before his ship drifted on to [[Pasangan]] and [[Telok Semawé]].
 
@@ -72,7 +72,7 @@ The Acheh River also gave its name to the description of the *Wilhelmina* affair
 - [[Kuala (of the Aceh River)]]
 - [[Acheh]]
 - [[Sultan Jauhar Alum]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Three Sagis]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
 - [[Fullerton's minute on Acheh (21 March 1825)]]

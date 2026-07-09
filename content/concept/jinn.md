@@ -12,7 +12,7 @@ In verses 66–68 of the Malay text, the *jinn* are described as shouting to one
 Acehnese *ulama* incorporated belief in *jinn* into legal rulings and exorcism practices. The *Burda*’s reference reinforced the notion that even unseen beings acknowledge the Prophet’s authority.
 
 ## See Also
-- [[Qasida al‑Burda]]
+- [[Burda (poem)|Qasida al‑Burda]]
 - [[Muhammad]]
 - [[Kaffir]]
 - [[Acehnese religious poetry]]

@@ -25,7 +25,7 @@ Lucas's proposal that he himself proceed to Telok Semawé met with the gravest o
 
 ## Significance
 
-The Lucas mission marks the moment at which the Dutch attempt to assert their authority over the East Coast of Sumatra ran directly into the British claim of a special relationship with [[Sultan Jauhar Alum|the sultan of Acheh]] under the [[Treaty of Pedir (1819)|treaty of Pedir]] of 1819. It is therefore one of the practical anticipations, in the field, of the diplomatic contest that would be fought out in London between [[Anton Reinhard Falck|Falck]], [[Hendrik Fagel|Fagel]], [[Elout|Elout]] and their British counterparts in the negotiations leading to the [[Anglo-Dutch Treaty of London (1824)|treaty of March 1824]].
+The Lucas mission marks the moment at which the Dutch attempt to assert their authority over the East Coast of Sumatra ran directly into the British claim of a special relationship with [[Sultan Jauhar Alum|the sultan of Acheh]] under the [[Treaty of Pedir (1819)|treaty of Pedir]] of 1819. It is therefore one of the practical anticipations, in the field, of the diplomatic contest that would be fought out in London between [[Anton Reinhard Falck|Falck]], [[Hendrik Fagel|Fagel]], [[Elout|Elout]] and their British counterparts in the negotiations leading to the [[Anglo-Dutch Treaty of 1824|treaty of March 1824]].
 
 ## See Also
 
@@ -66,7 +66,7 @@ Lucas's proposal that he himself proceed to Telok Semawé met with the gravest o
 
 ## Significance
 
-The Lucas mission marks the moment at which the Dutch attempt to assert their authority over the East Coast of Sumatra ran directly into the British claim of a special relationship with [[Sultan Jauhar Alum|the sultan of Acheh]] under the [[Treaty of Pedir (1819)|treaty of Pedir]] of 1819. It is therefore one of the practical anticipations, in the field, of the diplomatic contest that would be fought out in London between [[Anton Reinhard Falck|Falck]], [[Hendrik Fagel|Fagel]], [[Elout|Elout]] and their British counterparts in the negotiations leading to the [[Anglo-Dutch Treaty of London (1824)|treaty of March 1824]].
+The Lucas mission marks the moment at which the Dutch attempt to assert their authority over the East Coast of Sumatra ran directly into the British claim of a special relationship with [[Sultan Jauhar Alum|the sultan of Acheh]] under the [[Treaty of Pedir (1819)|treaty of Pedir]] of 1819. It is therefore one of the practical anticipations, in the field, of the diplomatic contest that would be fought out in London between [[Anton Reinhard Falck|Falck]], [[Hendrik Fagel|Fagel]], [[Elout|Elout]] and their British counterparts in the negotiations leading to the [[Anglo-Dutch Treaty of 1824|treaty of March 1824]].
 
 ## See Also
 

@@ -4,7 +4,7 @@ aliases: [invloedssfeer, invloedssferen, sphere of influence, sphere of action, 
 tags: [concept, diplomatic-concept, colonial-policy, treaty-doctrine]
 ---
 
-The **sphere of influence** — in Dutch *invloedssfeer* — is the central organising principle by which the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]] purported to settle the long rivalry between the two powers in the East Indian archipelago. As P. H. van der Kemp presented the concept in his 1900 study of the [[Acheh treaty of 1819]], the 1824 instrument was supposed to mark off the geographical areas within which each party would henceforth enjoy "its own free sphere of activity" (*vrije sfeer van werkzaamheid*): England to the west and north, the Netherlands to the east and south, with [[Sumatra]] reserved, in the Dutch view, as exclusively Dutch and the [[Malay Peninsula]] exclusively British.
+The **sphere of influence** — in Dutch *invloedssfeer* — is the central organising principle by which the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]] purported to settle the long rivalry between the two powers in the East Indian archipelago. As P. H. van der Kemp presented the concept in his 1900 study of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]], the 1824 instrument was supposed to mark off the geographical areas within which each party would henceforth enjoy "its own free sphere of activity" (*vrije sfeer van werkzaamheid*): England to the west and north, the Netherlands to the east and south, with [[Sumatra]] reserved, in the Dutch view, as exclusively Dutch and the [[Malay Peninsula]] exclusively British.
 
 ## The principle as stated in 1824
 
@@ -12,7 +12,7 @@ The grundgedanke of the treaty, in Van der Kemp's account, was "the demarcation 
 
 ## The betrayal of the principle
 
-Van der Kemp's indictment of the Dutch plenipotentiaries — [[Hendrik Fagel|Fagel]] and [[Anton Reinhard Falck|Falck]] — turns on the contention that they failed to uphold this principle at the decisive moment. Although the convention's whole basis was the demarcation of separate spheres, the British at the eleventh hour introduced the Acheh reservation, by which the [[Acheh treaty of 1819]] was to be revised only in form, while the independence of [[Acheh]] was to be perpetually guaranteed by the Netherlands. The Dutch negotiators, who "had not even read" the 1819 instrument they were discussing, swallowed the reservation as a polite formality. As Van der Kemp observed, the "free sphere of activity" promised to the Netherlands on Sumatra thus turned out to be hedged with a British-defined reservation that materially compromised it. "Was that now a manner to fulfil the sole goal of the treaty", he asked, "the grant to each of his own well-delimited sphere of influence?"
+Van der Kemp's indictment of the Dutch plenipotentiaries — [[Hendrik Fagel|Fagel]] and [[Anton Reinhard Falck|Falck]] — turns on the contention that they failed to uphold this principle at the decisive moment. Although the convention's whole basis was the demarcation of separate spheres, the British at the eleventh hour introduced the Acheh reservation, by which the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] was to be revised only in form, while the independence of [[Acheh]] was to be perpetually guaranteed by the Netherlands. The Dutch negotiators, who "had not even read" the 1819 instrument they were discussing, swallowed the reservation as a polite formality. As Van der Kemp observed, the "free sphere of activity" promised to the Netherlands on Sumatra thus turned out to be hedged with a British-defined reservation that materially compromised it. "Was that now a manner to fulfil the sole goal of the treaty", he asked, "the grant to each of his own well-delimited sphere of influence?"
 
 ## From principle to perpetual friction
 
@@ -20,7 +20,7 @@ The dilution of the sphere-of-influence principle at Acheh had practical consequ
 
 ## A wider analytical category
 
-Beyond the specific case, Van der Kemp employed the concept of the sphere of influence as a general analytical tool. The [[Pinang Nota (1825)|Pinang Nota]] of 1825, the [[Fullerton's circular to nine Siak chiefs|circular to nine Siak chiefs]], and the [[Fullerton's letter to Sultan of Siak (7 February 1828)|letter to the Sultan of Siak of 7 February 1828]] all become, in his reading, instruments by which the British Indian government at [[Penang|Pinang]] sought to prevent the Dutch sphere on Sumatra from ever becoming effective. Only the [[Sumatra Treaty of 1871|Sumatra Treaty of 1871]] finally cleared the matter, with England abandoning "all remonstrances against the extension of Dutch authority in any part of the island of Sumatra" — though at the price, in Van der Kemp's view, of the [[Cape of Guinea cession (1871)|cession of the Cape of Guinea]] and the Dutch West African possessions.
+Beyond the specific case, Van der Kemp employed the concept of the sphere of influence as a general analytical tool. The [[Pinang Nota (1825)|Pinang Nota]] of 1825, the [[Fullerton's circular to nine Siak chiefs|circular to nine Siak chiefs]], and the [[Fullerton's letter to Sultan of Siak (7 February 1828)|letter to the Sultan of Siak of 7 February 1828]] all become, in his reading, instruments by which the British Indian government at [[Penang|Pinang]] sought to prevent the Dutch sphere on Sumatra from ever becoming effective. Only the [[Sumatra Treaty of 1871|Sumatra Treaty of 1871]] finally cleared the matter, with England abandoning "all remonstrances against the extension of Dutch authority in any part of the island of Sumatra" — though at the price, in Van der Kemp's view, of the [[Dutch Gold Coast cession|cession of the Cape of Guinea]] and the Dutch West African possessions.
 
 ## Conceptual significance
 
@@ -28,8 +28,8 @@ The sphere of influence as exemplified by the 1824 settlement is, in Van der Kem
 
 ## See Also
 
-- [[Acheh treaty of 1819]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Suzerainty question]]
 - [[Pinang Nota (1825)]]
 - [[Dead letter]]

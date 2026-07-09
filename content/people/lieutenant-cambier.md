@@ -4,11 +4,11 @@ aliases: ["Lieutenant Cambier", "J. R. J. P. Cambier", "Cambier"]
 tags: [person, military, dutch, marine, aceh, colonial]
 ---
 
-**Lieutenant Cambier** (full name J. R. J. P. Cambier) was a Dutch [[marine]] officer of the [[Korps Mariniers]] who served in the Aceh expedition of [[1875]]–[[1876]], notably leading a marine section during the assault on [[Adjoen]] on [[30 December]] [[1875]] and subsequently directing his troops across the [[sawah]] towards [[Lamhasan]]. He later compiled the detailed field report “Mariniers te Atjeh van 26 December 1875 tot 7 Februari 1876,” which records the severe rain, cholera outbreak and morale‑boosting speeches of [[General Pel]] and was published in *Verslagen der Marine‑Vereeniging III 1889‑1890*. His actions illustrate Dutch tactical adaptation in the Aceh highlands.
+**Lieutenant Cambier** (full name J. R. J. P. Cambier) was a Dutch [[marine]] officer of the [[Royal Netherlands Marine Corps|Korps Mariniers]] who served in the Aceh expedition of [[1875]]–[[1876]], notably leading a marine section during the assault on [[Adjoen]] on [[30 December]] [[1875]] and subsequently directing his troops across the [[sawah]] towards [[Lamhasan]]. He later compiled the detailed field report “Mariniers te Atjeh van 26 December 1875 tot 7 Februari 1876,” which records the severe rain, cholera outbreak and morale‑boosting speeches of [[J. L. J. H. Pel|General Pel]] and was published in *Verslagen der Marine‑Vereeniging III 1889‑1890*. His actions illustrate Dutch tactical adaptation in the Aceh highlands.
 
 ## Service in the Aceh Expedition
 
-Lieutenant Cambier entered the campaign as a junior officer of the [[Korps Mariniers]] during the Dutch push to subdue the highland strongholds of [[Acheh]]. The expedition spanned the years [[1875]] and [[1876]], a period marked by intense fighting, difficult terrain, and recurring disease outbreaks. Cambier’s official duties placed him in charge of a marine section attached to the artillery batteries that were deployed against fortified Acehnese positions.
+Lieutenant Cambier entered the campaign as a junior officer of the [[Royal Netherlands Marine Corps|Korps Mariniers]] during the Dutch push to subdue the highland strongholds of [[Acheh]]. The expedition spanned the years [[1875]] and [[1876]], a period marked by intense fighting, difficult terrain, and recurring disease outbreaks. Cambier’s official duties placed him in charge of a marine section attached to the artillery batteries that were deployed against fortified Acehnese positions.
 
 ## Tactical Actions at Adjoen and Lamhasan
 
@@ -20,7 +20,7 @@ Cambier authored a comprehensive after‑action report titled “Mariniers te At
 
 - **Severe rain** turned the already marshy terrain into a mud‑filled [[sawah]], hampering movement and supply lines.  
 - A **cholera outbreak** dramatically reduced the marine contingent to “two officers and thirty‑eight corporals,” underscoring the vulnerability of the troops to disease.  
-- **Morale‑boosting speeches** delivered by [[General Pel]] are repeatedly cited as crucial for maintaining combat effectiveness amid the adversity.
+- **Morale‑boosting speeches** delivered by [[J. L. J. H. Pel|General Pel]] are repeatedly cited as crucial for maintaining combat effectiveness amid the adversity.
 
 These observations complement the tactical narrative found in the earlier marine corps history, offering a personal perspective on the same operations described on [[page 135]]–[[page 136]].
 
@@ -34,15 +34,15 @@ Cambier’s dual role as a field commander and chronicler provides a rare combin
 
 ## See Also
 
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[Adjoen]]
 - [[Lamhasan]]
 - [[Barisans]]
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 - [[Cholera outbreak in Aceh 1875‑1876]]
 - [[Verslagen der Marine‑Vereeniging III 1889‑1890]]
 - [[Battle of Daroe]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 
 ## Source
 

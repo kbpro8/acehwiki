@@ -39,7 +39,7 @@ The coexistence of a historical chief and a prophetic namesake under the single 
 - [[Abraham|Prophet Abraham]]
 - [[Muhammad (prophet)]]
 - [[Al‑Bu‑s‑iri (author)]]
-- [[Burda]]
+- [[Burda (poem)|Burda]]
 - [[Islam in Aceh]]
 - [[Mecca]]
 

@@ -15,7 +15,7 @@ His sacrifice exemplifies the harsh environmental conditions faced by Dutch mari
 
 ## See Also
 
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Seroeway]]
 - [[Colonel Van de Pol]]
 - [[Royal Netherlands Marine Corps]]

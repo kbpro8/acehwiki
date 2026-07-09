@@ -16,7 +16,7 @@ The Korinchi country itself is a high, well-watered upland valley of central Sum
 
 ## Additional account from *The Achehnese*, Vol. I — Korinchi
 
-**Korinchi** (Achehnese *Korinchi*, also *Krinchi*; modern spelling *Kerinci*) is a mountainous region of west-central [[Sumatra|Sumatra]], lying to the south of the [[Minangkabau|Minangkabau]] country and separated from it by the Barisan range. The region is mentioned by Snouck Hurgronje in connection with the numerous **hajjis from Krinchi** who, in earlier times, wandered from place to place in [[Acheh|Acheh]] and were notable recipients of the charitable dole (*jakèuët*) distributed to poor travellers.
+**Korinchi** (Achehnese *Korinchi*, also *Krinchi*; modern spelling *Kerinci*) is a mountainous region of west-central [[Sumatra|Sumatra]], lying to the south of the [[Menangkabau|Menangkabau]] country and separated from it by the Barisan range. The region is mentioned by Snouck Hurgronje in connection with the numerous **hajjis from Krinchi** who, in earlier times, wandered from place to place in [[Acheh|Acheh]] and were notable recipients of the charitable dole (*jakèuët*) distributed to poor travellers.
 
 ### The Hajjis of Krinchi in Acheh
 
@@ -26,7 +26,7 @@ The mention is brief, but it places Korinchi in the comparative geography of Ach
 
 ### The Geography of Korinchi
 
-Korinchi (Kerinci) is a high valley lying to the south of the [[Minangkabau|Minangkabau]] country, in the angle formed by the Barisan range as it sweeps south-eastward through central [[Sumatra|Sumatra]]. The valley is one of the most isolated of the Sumatran highlands; its inhabitants speak a Malay dialect of their own, and their intercourse with the outside world was, in the nineteenth century, conducted principally by way of the rivers which flow down from the valley to the west and to the east. The isolation of the valley, and the difficulty of gaining a livelihood in it, were the principal causes of the emigration of its hajjis; the pilgrimage to [[Mecca|Mecca]] having given them a religious qualification which they could turn to account in the larger Achehnese society, they wandered from place to place in [[Acheh|Acheh]] and in other parts of the Archipelago, living on the alms of the faithful.
+Korinchi (Kerinci) is a high valley lying to the south of the [[Menangkabau|Menangkabau]] country, in the angle formed by the Barisan range as it sweeps south-eastward through central [[Sumatra|Sumatra]]. The valley is one of the most isolated of the Sumatran highlands; its inhabitants speak a Malay dialect of their own, and their intercourse with the outside world was, in the nineteenth century, conducted principally by way of the rivers which flow down from the valley to the west and to the east. The isolation of the valley, and the difficulty of gaining a livelihood in it, were the principal causes of the emigration of its hajjis; the pilgrimage to [[Mecca|Mecca]] having given them a religious qualification which they could turn to account in the larger Achehnese society, they wandered from place to place in [[Acheh|Acheh]] and in other parts of the Archipelago, living on the alms of the faithful.
 
 ### The Pilgrimage and the Wandering Hajji
 
@@ -45,7 +45,7 @@ The mention of Korinchi in *The Achehnese* is otherwise incidental to the argume
 - [[Jakeuet (zakat)]]
 - [[Hajj]]
 - [[Acheh]]
-- [[Minangkabau]]
+- [[Menangkabau|Minangkabau]]
 - [[East Indian Archipelago]]
 - [[Jakèuët]]
 

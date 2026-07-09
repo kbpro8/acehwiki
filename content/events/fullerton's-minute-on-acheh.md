@@ -4,7 +4,7 @@ aliases: [Fullerton's Nota 1825, Pinang minute of 1825, Fullerton's minute of 21
 tags: [event, correspondence, colonial, anglo-dutch, diplomacy]
 ---
 
-**Fullerton's minute on Acheh of [[21 March 1825|21 March 1825]]** is the most important single British policy document on Acheh in the years immediately following the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London (1824)]]. It was written by [[Robert Fullerton|Governor Robert Fullerton]] of [[Penang]] for the Bengal government, concurred in by his councillors [[W. A. Clubley|W. A. Clubley]] and [[R. Ibbetson|R. Ibbetson]] on [[7 April 1825|7 April 1825]], and is printed in part as Appendix 10 in [[P. H. van der Kemp|Van der Kemp]]'s study. The minute declared the [[Acheh treaty of 1819|Acheh treaty of 1819]] a "dead letter" and outlined, with remarkable prescience, the dangers that Dutch supremacy on [[Sumatra]] would pose to British commerce.
+**Fullerton's minute on Acheh of [[21 March 1825|21 March 1825]]** is the most important single British policy document on Acheh in the years immediately following the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1824]]. It was written by [[Robert Fullerton|Governor Robert Fullerton]] of [[Penang]] for the Bengal government, concurred in by his councillors [[W. A. Clubley|W. A. Clubley]] and [[R. Ibbetson|R. Ibbetson]] on [[7 April 1825|7 April 1825]], and is printed in part as Appendix 10 in [[P. H. van der Kemp|Van der Kemp]]'s study. The minute declared the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]] a "dead letter" and outlined, with remarkable prescience, the dangers that Dutch supremacy on [[Sumatra]] would pose to British commerce.
 
 The minute was prepared in response to a Bengal inquiry of [[28 January 1825|28 January 1825]], itself prompted by the London dispatch of [[4 August 1824|4 August 1824]] transmitting the ratified text of the Treaty of London. The Court of Directors had observed that "the treaty concluded by Sir Stamford Raffles and Major Coombs never were carried into effect", that [[Sultan Jauhar Alum|King Jauhar Alum]] had "never recovered his lost authority in the slightest degree", and that the treaty "may truly be said to have been a dead letter from the day it was signed". Calcutta now invited the Penang government to state what measures might be desirable for attaining the limited commercial objects contemplated by the London convention.
 
@@ -21,10 +21,10 @@ The minute concluded by outlining the only means of counteraction afforded by th
 - [[R. Ibbetson]]
 - [[Queen-Mother of Acheh]]
 - [[Sultan Jauhar Alum]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Three Sagis]]
 - [[Treaty of Pedir (1819)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Ibbetson's intervention proposal (February 1824)]]
 - [[Death of Sultan Jauhar Alum]]
 - [[Article 6 controversy]]

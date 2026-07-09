@@ -8,7 +8,7 @@ The **Bengal inquiry to Penang of [[28 January]] [[1825]]** — referred to by P
 
 ## Background
 
-The [[London dispatch of 4 August 1824|London dispatch of 4 August 1824]] had transmitted the ratified [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch treaty of 17 March 1824]] to the Governor-General of Bengal in Council at [[Calcutta|Calcutta]], with instructions that the [[Treaty of Pedir (1819)|1819 Acheh convention]] was to be regarded as a [[Dead letter|dead letter]] and authorising the Governor-General to enter into a "mere commercial arrangement" with the sultan of [[Acheh]] in its place, should he think it desirable. The dispatch had observed that the Netherlands plenipotentiaries, in their counter-nota annexed to the treaty, contemplated the existence of the king of Acheh "in a state of independence after England shall have withdrawn herself from Sumatra"; and that the Governor-General was "at liberty to enter into a mere commercial arrangement with him, if you should think it desirable."
+The [[London dispatch of 4 August 1824|London dispatch of 4 August 1824]] had transmitted the ratified [[Anglo-Dutch Treaty of 1824|Anglo-Dutch treaty of 17 March 1824]] to the Governor-General of Bengal in Council at [[Calcutta|Calcutta]], with instructions that the [[Treaty of Pedir (1819)|1819 Acheh convention]] was to be regarded as a [[Dead letter|dead letter]] and authorising the Governor-General to enter into a "mere commercial arrangement" with the sultan of [[Acheh]] in its place, should he think it desirable. The dispatch had observed that the Netherlands plenipotentiaries, in their counter-nota annexed to the treaty, contemplated the existence of the king of Acheh "in a state of independence after England shall have withdrawn herself from Sumatra"; and that the Governor-General was "at liberty to enter into a mere commercial arrangement with him, if you should think it desirable."
 
 The Governor-General in Council, before deciding what steps to take, sought the advice of the government of [[Penang]] — the British settlement that, since its cession in [[1786]] (see [[Treaty of Quedah (Penang cession, 1786)|Treaty of Quedah]]), had been charged with the supervision of British relations with the northern Sumatran states.
 
@@ -46,7 +46,7 @@ The Bengal inquiry of [[28 January]] [[1825]] is, in Van der Kemp's analysis, th
 - [[Calcutta]]
 - [[London dispatch of 4 August 1824]]
 - [[Treaty of Pedir (1819)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Fullerton's minute on Acheh (21 March 1825)]]
 - [[Pinang Nota (1825)]]
 - [[Ibbetson's intervention proposal (February 1824)]]

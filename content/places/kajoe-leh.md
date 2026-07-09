@@ -8,7 +8,7 @@ tags: [place, aceh, village]
 ## See Also
 - [[Atjeh River]]
 - [[Sawah (rice field)]]
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 - [[Major B. Mekern]]
 
 ## Source

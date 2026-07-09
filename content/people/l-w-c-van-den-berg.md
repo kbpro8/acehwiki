@@ -33,7 +33,7 @@ The criticism is illustrated at length. Van den Berg at first represented the Mo
 
 Van den Berg's treatment of the *taʿlīq* adat — by which the bridegroom at marriage pronounces a conditional divorce taking effect if he should desert or fail to maintain his wife — comes in for special reproof. In [[1888]] Snouck informed him verbally, on the basis of conversations with Javanese at [[Mecca]], that the adat was widespread in Java. Van den Berg denied it; when Snouck proved its existence at [[Batavia]] by reference to a fatwa composed by [[Sayyid 'Uthman]], he conceded only that it might "perhaps appear sporadically." The *Afwijkingen* later spoke, more cautiously, of "the use sometimes made of (the permission) to pronounce a conditional divorce." Snouck insists that the custom is in fact "the established rule throughout the whole of Java," its omission being sporadic, and that van den Berg's reading of the registers of the Mohammedan courts misled him. The *Beginselen*, Snouck complains, contains "not a single word about this most important adat," and barely alludes even to the possibility of a conditional *talaq*.
 
-Van den Berg is also taken to task for confusing the function of the agent of the *wali* with the *kuwasa kakim* (delegated judicial authority) of the *pangulu*; for his account of the consequences of impotence; for his surprise at Winter's use of the term *khulʿ*; and for his "curious deduction" that a given adat is "specially Javanese" because it also occurs in such outlying Dutch possessions as [[Southern Celebes]]. Throughout, Snouck uses van den Berg's errors as foils against which to display the results of his own field observation in [[Acheh]] and elsewhere.
+Van den Berg is also taken to task for confusing the function of the agent of the *wali* with the *kuwasa kakim* (delegated judicial authority) of the *pangulu*; for his account of the consequences of impotence; for his surprise at Winter's use of the term *khulʿ*; and for his "curious deduction" that a given adat is "specially Javanese" because it also occurs in such outlying Dutch possessions as [[Celebes|Southern Celebes]]. Throughout, Snouck uses van den Berg's errors as foils against which to display the results of his own field observation in [[Acheh]] and elsewhere.
 
 ## See Also
 - [[Acheh]]
@@ -46,7 +46,7 @@ Van den Berg is also taken to task for confusing the function of the agent of th
 - [[Sayyid 'Uthman]]
 - [[T. H. der Kinderen]]
 - [[Ta'liq]]
-- [[Van Langen]]
+- [[K. F. H. van Langen|Van Langen]]
 
 ## Source
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -83,7 +83,7 @@ The criticism is illustrated at length. Van den Berg at first represented the Mo
 
 Van den Berg's treatment of the *taʿlīq* adat — by which the bridegroom at marriage pronounces a conditional divorce taking effect if he should desert or fail to maintain his wife — comes in for special reproof. In [[1888]] Snouck informed him verbally, on the basis of conversations with Javanese at [[Mecca]], that the adat was widespread in Java. Van den Berg denied it; when Snouck proved its existence at [[Batavia]] by reference to a fatwa composed by [[Sayyid 'Uthman]], he conceded only that it might "perhaps appear sporadically." The *Afwijkingen* later spoke, more cautiously, of "the use sometimes made of (the permission) to pronounce a conditional divorce." Snouck insists that the custom is in fact "the established rule throughout the whole of Java," its omission being sporadic, and that van den Berg's reading of the registers of the Mohammedan courts misled him. The *Beginselen*, Snouck complains, contains "not a single word about this most important adat," and barely alludes even to the possibility of a conditional *talaq*.
 
-Van den Berg is also taken to task for confusing the function of the agent of the *wali* with the *kuwasa kakim* (delegated judicial authority) of the *pangulu*; for his account of the consequences of impotence; for his surprise at Winter's use of the term *khulʿ*; and for his "curious deduction" that a given adat is "specially Javanese" because it also occurs in such outlying Dutch possessions as [[Southern Celebes]]. Throughout, Snouck uses van den Berg's errors as foils against which to display the results of his own field observation in [[Acheh]] and elsewhere.
+Van den Berg is also taken to task for confusing the function of the agent of the *wali* with the *kuwasa kakim* (delegated judicial authority) of the *pangulu*; for his account of the consequences of impotence; for his surprise at Winter's use of the term *khulʿ*; and for his "curious deduction" that a given adat is "specially Javanese" because it also occurs in such outlying Dutch possessions as [[Celebes|Southern Celebes]]. Throughout, Snouck uses van den Berg's errors as foils against which to display the results of his own field observation in [[Acheh]] and elsewhere.
 
 ## See Also
 - [[Acheh]]
@@ -96,7 +96,7 @@ Van den Berg is also taken to task for confusing the function of the agent of th
 - [[Sayyid 'Uthman]]
 - [[T. H. der Kinderen]]
 - [[Ta'liq]]
-- [[Van Langen]]
+- [[K. F. H. van Langen|Van Langen]]
 
 ## Source
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

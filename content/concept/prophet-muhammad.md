@@ -11,7 +11,7 @@ tags: [person, prophet, islam, aceh, religious]
 - **Political Legitimacy**: Acehnese sultans claimed descent from the Prophet’s spiritual lineage to bolster their authority.
 
 ## See Also
-- [[Burda of al‑Busiri]]
+- [[Burda (poem)|Burda of al‑Busiri]]
 - [[Malay translation of the Burda (16th century)]]
 - [[Islam in Aceh]]
 - [[Acehnese literature]]

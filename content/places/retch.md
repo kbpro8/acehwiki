@@ -3,7 +3,7 @@ title: Retch (Sumatra)
 aliases: [Retch, Retch River]
 tags: [place, sumatra, colonial]
 ---
-**Retch** was a coastal settlement on the east coast of **[[Sumatra]]**, situated north of **[[Djambi]]**. In the autumn of [[1858]] it became the focal point of a Dutch naval **[[Expedition to Retch 1858|expedition]]**, during which the **[[Korps Mariniers]]** attacked a pirate stronghold commanded by **[[Panglima Besar Soeloong|panglima besar Soeloong]]**.
+**Retch** was a coastal settlement on the east coast of **[[Sumatra]]**, situated north of **[[Djambi]]**. In the autumn of [[1858]] it became the focal point of a Dutch naval **[[Expedition to Retch 1858|expedition]]**, during which the **[[Royal Netherlands Marine Corps|Korps Mariniers]]** attacked a pirate stronghold commanded by **[[Panglima Besar Soeloong|panglima besar Soeloong]]**.
 
 ## Strategic Importance
 
@@ -17,7 +17,7 @@ The Dutch force, under **[[A. J. Kroef]]**, landed with a small marine detachmen
 
 - [[Djambi]]
 - [[Expedition to Retch 1858]]
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[Panglima Besar Soeloong]]
 - [[Sumatra]]
 

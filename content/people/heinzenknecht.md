@@ -5,7 +5,7 @@ aliases: [Heinzenknecht, the brave Bavarian, soldier-roadbuilder Heinzenknecht]
 tags: [person, officer, dutch, knil, aceh, gajoweg]
 ---
 
-**Heinzenknecht** — the brave Bavarian — was a soldier-roadbuilder-and-bridgebuilder under [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] in [[Atjeh|Aceh]], the man who laid the Gajoweg and who "was basely murdered by a forced labourer during that work." In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Heinzenknecht is commemorated by a bronze bust on the yard of the controller at Bireuën — the bust at the head of the [[Gajoweg]].
+**Heinzenknecht** — the brave Bavarian — was a soldier-roadbuilder-and-bridgebuilder under [[Joannes Benedictus van Heutsz|Van Heutsz]] in [[Atjeh|Aceh]], the man who laid the Gajoweg and who "was basely murdered by a forced labourer during that work." In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Heinzenknecht is commemorated by a bronze bust on the yard of the controller at Bireuën — the bust at the head of the [[Gajoweg]].
 
 ## The brave Bavarian
 
@@ -28,7 +28,7 @@ Heinzenknecht is significant in *[[Oost-Indisch Journael]]* as the brave Bavaria
 - [[Oost-Indisch Journael]]
 - [[Gajoweg]]
 - [[Bireuën]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Datoek]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
 
@@ -38,7 +38,7 @@ Heinzenknecht is significant in *[[Oost-Indisch Journael]]* as the brave Bavaria
 ---
 
 
-**Heinzenknecht** — the brave Bavarian — was a soldier-roadbuilder-and-bridgebuilder under [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] in [[Atjeh|Aceh]], the man who laid the Gajoweg and who "was basely murdered by a forced labourer during that work." In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Heinzenknecht is commemorated by a bronze bust on the yard of the controller at Bireuën — the bust at the head of the [[Gajoweg]].
+**Heinzenknecht** — the brave Bavarian — was a soldier-roadbuilder-and-bridgebuilder under [[Joannes Benedictus van Heutsz|Van Heutsz]] in [[Atjeh|Aceh]], the man who laid the Gajoweg and who "was basely murdered by a forced labourer during that work." In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Heinzenknecht is commemorated by a bronze bust on the yard of the controller at Bireuën — the bust at the head of the [[Gajoweg]].
 
 ## The brave Bavarian
 
@@ -61,7 +61,7 @@ Heinzenknecht is significant in *[[Oost-Indisch Journael]]* as the brave Bavaria
 - [[Oost-Indisch Journael]]
 - [[Gajoweg]]
 - [[Bireuën]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Datoek]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
 

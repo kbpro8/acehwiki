@@ -12,7 +12,7 @@ Control of the Soensang was essential for projecting Dutch power inland and for 
 ## See Also
 
 - [[Palembang]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[1821 Palembang expedition]]
 - [[Aceh]]
 

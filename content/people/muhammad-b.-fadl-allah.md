@@ -5,7 +5,7 @@ aliases: [Muḥammad b. Faḍl Allāh, Muhammad b. Fadl Allah, Muhammad ibn Fadl
 tags: [person, scholar, religious-figure, sufi, author, ibn-arabi-school, precolonial, source-of-raniri]
 ---
 
-**Muḥammad b. Faḍl Allāh** was a Sufi author of the school of the unity of being, the author of the *Tuḥfa al-mursala ilāʾn-nabī* ("The Gift Addressed to the Prophet"). He is cited by [[Raniri|Nūruddīn ar-Rānīrī]] in the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] as one of the orthodox authorities against the heretical [[Wujudiyyah]] of [[Acheh]]. The citation is one of the principal channels by which the orthodox Wujūdī position — the position that distinguishes the orthodox Sufi from the heretical Wujūdiyyah — was transmitted to the Malay-Indonesian world.
+**Muḥammad b. Faḍl Allāh** was a Sufi author of the school of the unity of being, the author of the *Tuḥfa al-mursala ilāʾn-nabī* ("The Gift Addressed to the Prophet"). He is cited by [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] in the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] as one of the orthodox authorities against the heretical [[Wujudiyyah]] of [[Acheh]]. The citation is one of the principal channels by which the orthodox Wujūdī position — the position that distinguishes the orthodox Sufi from the heretical Wujūdiyyah — was transmitted to the Malay-Indonesian world.
 
 ## The *Tuḥfa al-mursala*
 
@@ -27,7 +27,7 @@ Muḥammad b. Faḍl Allāh is one of the Sufi authorities cited by Raniri in su
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[Ibn Arabi]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Wujudiyyah]]
 
@@ -39,7 +39,7 @@ C. Brockelmann, *Geschichte der arabischen Litteratur* (GAL) II, 418.
 ---
 
 
-**Muḥammad b. Faḍl Allāh** was a Sufi author of the school of the unity of being, the author of the *Tuḥfa al-mursala ilāʾn-nabī* ("The Gift Addressed to the Prophet"). He is cited by [[Raniri|Nūruddīn ar-Rānīrī]] in the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] as one of the orthodox authorities against the heretical [[Wujudiyyah]] of [[Acheh]]. The citation is one of the principal channels by which the orthodox Wujūdī position — the position that distinguishes the orthodox Sufi from the heretical Wujūdiyyah — was transmitted to the Malay-Indonesian world.
+**Muḥammad b. Faḍl Allāh** was a Sufi author of the school of the unity of being, the author of the *Tuḥfa al-mursala ilāʾn-nabī* ("The Gift Addressed to the Prophet"). He is cited by [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] in the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] as one of the orthodox authorities against the heretical [[Wujudiyyah]] of [[Acheh]]. The citation is one of the principal channels by which the orthodox Wujūdī position — the position that distinguishes the orthodox Sufi from the heretical Wujūdiyyah — was transmitted to the Malay-Indonesian world.
 
 ## The *Tuḥfa al-mursala*
 
@@ -61,7 +61,7 @@ Muḥammad b. Faḍl Allāh is one of the Sufi authorities cited by Raniri in su
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[Ibn Arabi]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Wujudiyyah]]
 

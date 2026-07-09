@@ -28,11 +28,11 @@ The consequences were concrete. Neutral Moors (*Mooren*) whom Van Caerden had wr
 
 ## The 1601 Zeeland ships and the resolution
 
-When the four Zeeland ships returned to Atjeh in August [[1601]] bearing [[Prince Maurits|Prince Maurits]]'s letter (this time in Spanish, and presumably not on pigskin), the Sultan was conciliatory. Van Caerden's clumsy conduct was "naar genoegen met den Sultan besproken" — satisfactorily discussed with the Sultan — and the Sultan sent three ambassadors on the returning ships: [[Abdoel Hamid]], [[Sri Mohammed]] and [[Mir Hassan]]. See [[Atjeh embassy to Prince Maurits at Grave (1602)]].
+When the four Zeeland ships returned to Atjeh in August [[1601]] bearing [[Prince Maurits|Prince Maurits]]'s letter (this time in Spanish, and presumably not on pigskin), the Sultan was conciliatory. Van Caerden's clumsy conduct was "naar genoegen met den Sultan besproken" — satisfactorily discussed with the Sultan — and the Sultan sent three ambassadors on the returning ships: [[Abdoel Hamid]], [[Sri Mohammed]] and [[Mir Hassan]]. See [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits at Grave (1602)]].
 
 ## Significance
 
-The pigskin parchment letter incident of [[1600]] is the first recorded European diplomatic fiasco at the Atjeh court — a textbook example of how a small material detail (the parchment's origin in pig-skin) could, in the hands of a hostile third party (here a Portuguese monk), defeat an entire embassy. The incident is also a measure of how thin European knowledge of Islamic sensibilities still was at the turn of the seventeenth century: the Dutch had sent a letter from their Prince to a Mohammedan Sultan on the very material most calculated to give offence. The [[Atjeh embassy to Prince Maurits at Grave (1602)|1602 embassy]] that resolved the affair would be far more carefully choreographed.
+The pigskin parchment letter incident of [[1600]] is the first recorded European diplomatic fiasco at the Atjeh court — a textbook example of how a small material detail (the parchment's origin in pig-skin) could, in the hands of a hostile third party (here a Portuguese monk), defeat an entire embassy. The incident is also a measure of how thin European knowledge of Islamic sensibilities still was at the turn of the seventeenth century: the Dutch had sent a letter from their Prince to a Mohammedan Sultan on the very material most calculated to give offence. The [[Aceh Embassy to Prince Maurits at Grave (1602)|1602 embassy]] that resolved the affair would be far more carefully choreographed.
 
 ## See Also
 
@@ -40,7 +40,7 @@ The pigskin parchment letter incident of [[1600]] is the first recorded European
 - [[Sultan Aloeddin of Atjeh]]
 - [[Prince Maurits]]
 - [[Frederik de Houtman]]
-- [[Atjeh embassy to Prince Maurits at Grave (1602)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits at Grave (1602)]]
 - [[Death of Cornelis de Houtman at Atjeh (1599)]]
 - [[Pieter Both]]
 - [[1600]]

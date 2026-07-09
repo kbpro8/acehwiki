@@ -4,11 +4,11 @@ aliases: [Sultan Alauddin Riayat Shah Sayyid al-Mukammil, Sultan Aloeddin, Sulta
 tags: [person, sultan, atjehnese, precolonial, 16th-century, 17th-century]
 ---
 
-**Sultan Aloeddin** — the Atjehnese sultan who reigned at the turn of the seventeenth century and who is the Sultan of [[Acheh|Atjeh]] named in the [[Atjeh embassy to Prince Maurits at Grave (1602)|1602 Atjeh embassy to Prince Maurits]] — was the ruler under whom the sultanate first encountered the Dutch. His reign encompasses the [[Death of Cornelis de Houtman at Atjeh (1599)|death of Cornelis de Houtman]] in [[1599]], the captivity of [[Frederik de Houtman|Frederik de Houtman]], the [[Pigskin parchment letter incident at Atjeh (1600)|pigskin parchment letter incident]] of [[1600]], the Zeeland ships' visit of [[1601]], the embassy to Prince Maurits of [[1602]]–[[1603]], and the foundation of the first Dutch office on Sumatra — named "Zeeland" — at Atjeh.
+**Sultan Aloeddin** — the Atjehnese sultan who reigned at the turn of the seventeenth century and who is the Sultan of [[Acheh|Atjeh]] named in the [[Aceh Embassy to Prince Maurits at Grave (1602)|1602 Atjeh embassy to Prince Maurits]] — was the ruler under whom the sultanate first encountered the Dutch. His reign encompasses the [[Death of Cornelis de Houtman at Atjeh (1599)|death of Cornelis de Houtman]] in [[1599]], the captivity of [[Frederik de Houtman|Frederik de Houtman]], the [[Pigskin parchment letter incident at Atjeh (1600)|pigskin parchment letter incident]] of [[1600]], the Zeeland ships' visit of [[1601]], the embassy to Prince Maurits of [[1602]]–[[1603]], and the foundation of the first Dutch office on Sumatra — named "Zeeland" — at Atjeh.
 
 ## The 1599 Houtman disaster
 
-When the [[Balthazar de Moucheron|De Moucheron]] expedition under the [[Cornelis de Houtman|De Houtman]] brothers reached Atjeh in June [[1599]], the good understanding with the Sultan lasted only briefly. With poisoned fruits and drinks, later with a *kris*-attack, the Atjehnese sought to be rid of the foreigners. There were many dead, including [[Cornelis de Houtman|Cornelis de Houtman]], and many prisoners, including [[Frederik de Houtman|Frederik de Houtman]]. See [[Death of Cornelis de Houtman at Atjeh (1599)]].
+When the [[Balthasar de Moucheron|De Moucheron]] expedition under the [[Cornelis de Houtman|De Houtman]] brothers reached Atjeh in June [[1599]], the good understanding with the Sultan lasted only briefly. With poisoned fruits and drinks, later with a *kris*-attack, the Atjehnese sought to be rid of the foreigners. There were many dead, including [[Cornelis de Houtman|Cornelis de Houtman]], and many prisoners, including [[Frederik de Houtman|Frederik de Houtman]]. See [[Death of Cornelis de Houtman at Atjeh (1599)]].
 
 ## The pigskin letter incident, 1600
 
@@ -38,7 +38,7 @@ For [[Acheh|Atjeh]]'s history, Sultan Aloeddin is the ruler under whom the sulta
 
 - [[Cornelis de Houtman]]
 - [[Frederik de Houtman]]
-- [[Balthazar de Moucheron]]
+- [[Balthasar de Moucheron|Balthazar de Moucheron]]
 - [[Paulus van Caerden]]
 - [[Prince Maurits]]
 - [[Abdoel Hamid]]
@@ -46,7 +46,7 @@ For [[Acheh|Atjeh]]'s history, Sultan Aloeddin is the ruler under whom the sulta
 - [[Mir Hassan]]
 - [[Leonard Werner]]
 - [[Pigskin parchment letter incident at Atjeh (1600)]]
-- [[Atjeh embassy to Prince Maurits at Grave (1602)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits at Grave (1602)]]
 - [[Death of Cornelis de Houtman at Atjeh (1599)]]
 - [[Fort Zeeland at Atjeh]]
 - [[Dutch lodge at Atjeh]]

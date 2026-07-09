@@ -16,7 +16,7 @@ The [[Submission of Teuku Uma|Uma episode]], however melancholy in itself, indir
 
 ## The direction of Van Heutsz
 
-Above all, since [[Governor Van Heutsz|Governor Van Heutsz]] in [[1898]] took the direction of affairs, everything was methodically done to make the necessary end, once and for all, of this insurrection. The resumption of the war was thus not a sudden burst of energy but a deliberate policy, in which the experience of the concentration-years was turned to account and the lessons of the Uma episode were applied. Van Heutsz's methodical direction contrasted sharply with the half-measures of the preceding period, and within a few years it had reduced the open resistance of the Achehnese to guerilla warfare.
+Above all, since [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] in [[1898]] took the direction of affairs, everything was methodically done to make the necessary end, once and for all, of this insurrection. The resumption of the war was thus not a sudden burst of energy but a deliberate policy, in which the experience of the concentration-years was turned to account and the lessons of the Uma episode were applied. Van Heutsz's methodical direction contrasted sharply with the half-measures of the preceding period, and within a few years it had reduced the open resistance of the Achehnese to guerilla warfare.
 
 ## The character of the renewed war
 
@@ -27,7 +27,7 @@ Whenever the Dutch troops encountered the Achehnese in the open field, the die w
 - [[Achehnese War]]
 - [[Submission of Teuku Uma]]
 - [[Concentration scheme]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[Teuku Uma]]
 - [[General Van der Heijden's excursions]]
 

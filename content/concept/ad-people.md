@@ -16,7 +16,7 @@ By invoking the *‘Ad* in the *Burda* translation, Acehnese poets draw a parall
 ## See Also
 
 - [[Hūd (prophet)]]
-- [[Al‑Burda (Arabic poem)]]
+- [[Burda (poem)|Al‑Burda (Arabic poem)]]
 - [[Muhammad]]
 - [[Arabic terms in Acehnese religious poetry]]
 

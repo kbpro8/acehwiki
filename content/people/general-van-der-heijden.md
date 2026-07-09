@@ -5,7 +5,7 @@ aliases: [van der Heijden, General van der Heyden, General van der Ileyden, J. v
 tags: [person, colonial-official, dutch, military, governor, colonial, aceh]
 ---
 
-**General van der Heijden** was a Dutch military officer who served as **Governor of Acheh** from [[1877]] to [[1881]], and whose vigorous offensive campaigns through the Achehnese highlands first broke the spell of Dutch invincibility that had settled over the country after the disasters of [[1873]]–[[1876]]. He is one of the principal colonial figures of Snouck Hurgronje's Introduction to *The Achehnese*, where his governorship is treated as the decisive turn that ended the early defensive phase of the [[Achehnese War|Achehnese War]] and prepared the way for the systematic subjugation carried through under [[Governor Van Heutsz|Governor Van Heutsz]].
+**General van der Heijden** was a Dutch military officer who served as **Governor of Acheh** from [[1877]] to [[1881]], and whose vigorous offensive campaigns through the Achehnese highlands first broke the spell of Dutch invincibility that had settled over the country after the disasters of [[1873]]–[[1876]]. He is one of the principal colonial figures of Snouck Hurgronje's Introduction to *The Achehnese*, where his governorship is treated as the decisive turn that ended the early defensive phase of the [[Achehnese War|Achehnese War]] and prepared the way for the systematic subjugation carried through under [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]].
 
 Snouck introduces van der Heijden as the man who finally taught the Dutch by experience "that while a defensive policy in no way advanced Dutch dominion, a vigorous offensive would make the enemy come to his senses. All Great-Acheh was conquered in this way". The earlier policy had been to occupy a few strong points — the former Sultan's residence and certain harbours in the dependencies — in the hope that the submission of certain principal chiefs would bring the rest of the country under Dutch authority. Van der Heijden's governorship revealed the fallacy of this reasoning: so long as the war-party could draw supplies and recruits from the un-subdued interior, the holding of fixed posts was a work of the Danaides.
 
@@ -72,7 +72,7 @@ Van der Heijden is a controversial figure in Aceh's colonial history:
 
 ## See Also
 
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[General Deykerhoff]]
 - [[General van der Heijden's excursions]]
 - [[Concentration Scheme]]
@@ -81,7 +81,7 @@ Van der Heijden is a controversial figure in Aceh's colonial history:
 - [[Great Acheh]]
 - [[Acheh]]
 - [[Aceh War]]
-- [[J.W. van Lansberge]]
+- [[Johan Willem van Lansberge|J.W. van Lansberge]]
 - [[A. Pruys van der Hoeven]]
 - [[Habib Abdul Rahman]]
 - [[Samalangan]]
@@ -104,7 +104,7 @@ Van der Heijden is a controversial figure in Aceh's colonial history:
 ---
 
 
-**General van der Heijden** was a Dutch military officer who served as **Governor of Acheh** from [[1877]] to [[1881]], and whose vigorous offensive campaigns through the Achehnese highlands first broke the spell of Dutch invincibility that had settled over the country after the disasters of [[1873]]–[[1876]]. He is one of the principal colonial figures of Snouck Hurgronje's Introduction to *The Achehnese*, where his governorship is treated as the decisive turn that ended the early defensive phase of the [[Achehnese War|Achehnese War]] and prepared the way for the systematic subjugation carried through under [[Governor Van Heutsz|Governor Van Heutsz]].
+**General van der Heijden** was a Dutch military officer who served as **Governor of Acheh** from [[1877]] to [[1881]], and whose vigorous offensive campaigns through the Achehnese highlands first broke the spell of Dutch invincibility that had settled over the country after the disasters of [[1873]]–[[1876]]. He is one of the principal colonial figures of Snouck Hurgronje's Introduction to *The Achehnese*, where his governorship is treated as the decisive turn that ended the early defensive phase of the [[Achehnese War|Achehnese War]] and prepared the way for the systematic subjugation carried through under [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]].
 
 Snouck introduces van der Heijden as the man who finally taught the Dutch by experience "that while a defensive policy in no way advanced Dutch dominion, a vigorous offensive would make the enemy come to his senses. All Great-Acheh was conquered in this way". The earlier policy had been to occupy a few strong points — the former Sultan's residence and certain harbours in the dependencies — in the hope that the submission of certain principal chiefs would bring the rest of the country under Dutch authority. Van der Heijden's governorship revealed the fallacy of this reasoning: so long as the war-party could draw supplies and recruits from the un-subdued interior, the holding of fixed posts was a work of the Danaides.
 
@@ -171,7 +171,7 @@ Van der Heijden is a controversial figure in Aceh's colonial history:
 
 ## See Also
 
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[General Deykerhoff]]
 - [[General van der Heijden's excursions]]
 - [[Concentration Scheme]]
@@ -180,7 +180,7 @@ Van der Heijden is a controversial figure in Aceh's colonial history:
 - [[Great Acheh]]
 - [[Acheh]]
 - [[Aceh War]]
-- [[J.W. van Lansberge]]
+- [[Johan Willem van Lansberge|J.W. van Lansberge]]
 - [[A. Pruys van der Hoeven]]
 - [[Habib Abdul Rahman]]
 - [[Samalangan]]

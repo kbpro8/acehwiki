@@ -5,7 +5,7 @@ aliases: [Adviseur for the Administrative Affairs of the Outer Possessions, Advi
 tags: [organization, colonial, dutch, administration, buitenbezittingen, aceh, role, colonial-office]
 ---
 
-**The Adviseur voor de Bestuurszaken der Buitenbezittingen** ("Adviseur for the Administrative Affairs of the Outer Possessions") was a Dutch colonial office established in [[1908]] within the [[Departement van Binnenlandsch Bestuur|Department of the Interior]] to oversee the post-[[Pacificatie van Atjeh|pacification]] administration of the [[Buitenbezittingen|Outer Possessions]] of the Netherlands East Indies. The inaugural holder of the office was [[H. Colijn|H. Colijn]], who would later become Dutch Minister of War and a member of the Eerste Kamer der Staten-Generaal. The Adviseur was simultaneously the Chef (head) of the [[Bureau voor de Bestuurszaken der Buitenbezittingen|Afdeeling voor de Bestuurszaken der Buitenbezittingen]] — the bureau attached to the Department of the Interior for the oversight of the outer possessions — and was gradually supplied with two Adjunct-Adviseurs.
+**The Adviseur voor de Bestuurszaken der Buitenbezittingen** ("Adviseur for the Administrative Affairs of the Outer Possessions") was a Dutch colonial office established in [[1908]] within the [[Departement van Binnenlandsch Bestuur|Department of the Interior]] to oversee the post-[[Pacificatie van Atjeh|pacification]] administration of the [[Buitenbezittingen|Outer Possessions]] of the Netherlands East Indies. The inaugural holder of the office was [[Hendrikus Colijn|Hendrikus Colijn]], who would later become Dutch Minister of War and a member of the Eerste Kamer der Staten-Generaal. The Adviseur was simultaneously the Chef (head) of the [[Bureau voor de Bestuurszaken der Buitenbezittingen|Afdeeling voor de Bestuurszaken der Buitenbezittingen]] — the bureau attached to the Department of the Interior for the oversight of the outer possessions — and was gradually supplied with two Adjunct-Adviseurs.
 
 ## Account from *De Buitenbezittingen* (1917) — Adviseur voor de Bestuurszaken der Buitenbezittingen
 
@@ -17,15 +17,15 @@ The Encyclopaedisch Bureau's volume was produced under the supervision of the [[
 
 ## Significance
 
-The [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur voor de Bestuurszaken der Buitenbezittingen]] is, in the Encyclopaedisch Bureau's account, the principal administrative innovation of the post-[[1896]] consolidation of Dutch rule in [[Acheh|Atjeh]] and the wider Buitenbezittingen. The creation of the office in [[1908]] marks the formal recognition that the [[Pacificatie van Atjeh|pacification of Atjeh]] had outgrown its original military-administrative framework and required a permanent institutional intermediary between Batavia and the field. The inaugural holder of the office, [[H. Colijn|H. Colijn]], is one of the three frontispiece figures of the volume *De Buitenbezittingen 1904 tot 1914* — together with [[A. W. F. Idenburg|Governor-General Idenburg]] and [[J. B. van Heutsz|former Governor-General Van Heutsz]] — the three men "whose names are so closely bound up with the preparation and execution of the measures that have led to the enormous progress of the Buitenbezittingen in the said period."
+The [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur voor de Bestuurszaken der Buitenbezittingen]] is, in the Encyclopaedisch Bureau's account, the principal administrative innovation of the post-[[1896]] consolidation of Dutch rule in [[Acheh|Atjeh]] and the wider Buitenbezittingen. The creation of the office in [[1908]] marks the formal recognition that the [[Pacificatie van Atjeh|pacification of Atjeh]] had outgrown its original military-administrative framework and required a permanent institutional intermediary between Batavia and the field. The inaugural holder of the office, [[Hendrikus Colijn|Hendrikus Colijn]], is one of the three frontispiece figures of the volume *De Buitenbezittingen 1904 tot 1914* — together with [[A. W. F. Idenburg|Governor-General Idenburg]] and [[Joannes Benedictus van Heutsz|former Governor-General Van Heutsz]] — the three men "whose names are so closely bound up with the preparation and execution of the measures that have led to the enormous progress of the Buitenbezittingen in the said period."
 
 ## See Also
 
 - [[Bureau voor de Bestuurszaken der Buitenbezittingen]]
 - [[Encyclopaedisch Bureau]]
-- [[H. Colijn]]
+- [[Hendrikus Colijn|H. Colijn]]
 - [[A. W. F. Idenburg]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Departement van Binnenlandsch Bestuur]]
 - [[Pacificatie van Atjeh]]
 - [[Buitenbezittingen]]
@@ -40,7 +40,7 @@ The [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur voor de Best
 ---
 
 
-**The Adviseur voor de Bestuurszaken der Buitenbezittingen** ("Adviseur for the Administrative Affairs of the Outer Possessions") was a Dutch colonial office established in [[1908]] within the [[Departement van Binnenlandsch Bestuur|Department of the Interior]] to oversee the post-[[Pacificatie van Atjeh|pacification]] administration of the [[Buitenbezittingen|Outer Possessions]] of the Netherlands East Indies. The inaugural holder of the office was [[H. Colijn|H. Colijn]], who would later become Dutch Minister of War and a member of the Eerste Kamer der Staten-Generaal. The Adviseur was simultaneously the Chef (head) of the [[Bureau voor de Bestuurszaken der Buitenbezittingen|Afdeeling voor de Bestuurszaken der Buitenbezittingen]] — the bureau attached to the Department of the Interior for the oversight of the outer possessions — and was gradually supplied with two Adjunct-Adviseurs.
+**The Adviseur voor de Bestuurszaken der Buitenbezittingen** ("Adviseur for the Administrative Affairs of the Outer Possessions") was a Dutch colonial office established in [[1908]] within the [[Departement van Binnenlandsch Bestuur|Department of the Interior]] to oversee the post-[[Pacificatie van Atjeh|pacification]] administration of the [[Buitenbezittingen|Outer Possessions]] of the Netherlands East Indies. The inaugural holder of the office was [[Hendrikus Colijn|Hendrikus Colijn]], who would later become Dutch Minister of War and a member of the Eerste Kamer der Staten-Generaal. The Adviseur was simultaneously the Chef (head) of the [[Bureau voor de Bestuurszaken der Buitenbezittingen|Afdeeling voor de Bestuurszaken der Buitenbezittingen]] — the bureau attached to the Department of the Interior for the oversight of the outer possessions — and was gradually supplied with two Adjunct-Adviseurs.
 
 ## Account from *De Buitenbezittingen* (1917) — Adviseur voor de Bestuurszaken der Buitenbezittingen
 
@@ -52,15 +52,15 @@ The Encyclopaedisch Bureau's volume was produced under the supervision of the [[
 
 ## Significance
 
-The [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur voor de Bestuurszaken der Buitenbezittingen]] is, in the Encyclopaedisch Bureau's account, the principal administrative innovation of the post-[[1896]] consolidation of Dutch rule in [[Acheh|Atjeh]] and the wider Buitenbezittingen. The creation of the office in [[1908]] marks the formal recognition that the [[Pacificatie van Atjeh|pacification of Atjeh]] had outgrown its original military-administrative framework and required a permanent institutional intermediary between Batavia and the field. The inaugural holder of the office, [[H. Colijn|H. Colijn]], is one of the three frontispiece figures of the volume *De Buitenbezittingen 1904 tot 1914* — together with [[A. W. F. Idenburg|Governor-General Idenburg]] and [[J. B. van Heutsz|former Governor-General Van Heutsz]] — the three men "whose names are so closely bound up with the preparation and execution of the measures that have led to the enormous progress of the Buitenbezittingen in the said period."
+The [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur voor de Bestuurszaken der Buitenbezittingen]] is, in the Encyclopaedisch Bureau's account, the principal administrative innovation of the post-[[1896]] consolidation of Dutch rule in [[Acheh|Atjeh]] and the wider Buitenbezittingen. The creation of the office in [[1908]] marks the formal recognition that the [[Pacificatie van Atjeh|pacification of Atjeh]] had outgrown its original military-administrative framework and required a permanent institutional intermediary between Batavia and the field. The inaugural holder of the office, [[Hendrikus Colijn|Hendrikus Colijn]], is one of the three frontispiece figures of the volume *De Buitenbezittingen 1904 tot 1914* — together with [[A. W. F. Idenburg|Governor-General Idenburg]] and [[Joannes Benedictus van Heutsz|former Governor-General Van Heutsz]] — the three men "whose names are so closely bound up with the preparation and execution of the measures that have led to the enormous progress of the Buitenbezittingen in the said period."
 
 ## See Also
 
 - [[Bureau voor de Bestuurszaken der Buitenbezittingen]]
 - [[Encyclopaedisch Bureau]]
-- [[H. Colijn]]
+- [[Hendrikus Colijn|H. Colijn]]
 - [[A. W. F. Idenburg]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Departement van Binnenlandsch Bestuur]]
 - [[Pacificatie van Atjeh]]
 - [[Buitenbezittingen]]

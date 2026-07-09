@@ -18,7 +18,7 @@ At the Koeta-Radja meetings, the proposals concerning the Oostkust underwent sig
 
 ## See Also
 
-[[H. N. N. A. Swart]], [[M. C. Roos van Raadshoven]], [[Oostkust van Atjeh]], [[Noordkust van Atjeh]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Noord-Sumatra (proposed gewest)]], [[Langkat]], [[Koeta-Radja]]
+[[H. N. A. Swart|H. N. N. A. Swart]], [[M. C. Roos van Raadshoven]], [[Oostkust van Atjeh]], [[Noordkust van Atjeh]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Noord-Sumatra (proposed gewest)]], [[Langkat]], [[Koeta-Radja]]
 
 ## Source
 

@@ -4,7 +4,7 @@ aliases: [Tarotoeng, Tarotung]
 tags: [place, colonial, achehnese]
 ---
 
-**Tarotoeng** was a point of arrival for the **[[Gajo Expedition]]** of [[1904]], the final major military campaign of the **[[Aceh War]]**. The expedition, commanded by **[[Van Daalen]]**, reached Tarotoeng on **[[18 June]] [[1904]]** after 163 days of travel through the Gajo and Alas highlands.
+**Tarotoeng** was a point of arrival for the **[[Gajo Expedition]]** of [[1904]], the final major military campaign of the **[[Aceh War]]**. The expedition, commanded by **[[Gotfried Coenraad Ernst van Daalen|Van Daalen]]**, reached Tarotoeng on **[[18 June]] [[1904]]** after 163 days of travel through the Gajo and Alas highlands.
 
 ## The Expedition
 
@@ -20,7 +20,7 @@ Tarotoeng marks the conclusion of the Aceh War's final campaign. The highland re
 
 - [[Aceh War]]
 - [[Van Daalen's Gajo Expedition]]
-- [[Van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [[Tapanoeli]]
 
 ## Source

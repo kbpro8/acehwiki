@@ -17,7 +17,7 @@ In the official roll of the "twelve uleebalangs who appoint and dethrone princes
 
 ## Treachery of Teuku Uma and the restoration of the Ne' family
 
-The fortunes of the Nanta family were transformed by the events of the war. In [[1896]], the Nanta family having taken a prominent part in the [[Treachery of Teuku Uma against the Dutch|treachery of Teuku Uma]] against the Dutch, the Ne' family was restored to power. When the Nantas were expelled, the Dutch Government appointed as Chief [[Teuku Raja Itam]], a son of the Teuku Ne' who had been uleebalang of Meura'sa at the beginning of the Dutch operations in Acheh. The defection of [[Teuku Uma]] — who had married Chut Din, the daughter of Teuku Nanta — completed the ruin of the house. Since that defection, the Nantas have been declared deposed from the government of the VI Mukims, and the native authority in that place is exercised by the young Teuku Raja Itam, son of the late Teuku Ne' of Meura'sa. Snouck also instances Teuku Nanta Seutia alongside Teuku Kali as a "title-bearer without territory" who rivalled the uleebalangs in importance.
+The fortunes of the Nanta family were transformed by the events of the war. In [[1896]], the Nanta family having taken a prominent part in the [[Defection of Teuku Uma|treachery of Teuku Uma]] against the Dutch, the Ne' family was restored to power. When the Nantas were expelled, the Dutch Government appointed as Chief [[Teuku Raja Itam]], a son of the Teuku Ne' who had been uleebalang of Meura'sa at the beginning of the Dutch operations in Acheh. The defection of [[Teuku Uma]] — who had married Chut Din, the daughter of Teuku Nanta — completed the ruin of the house. Since that defection, the Nantas have been declared deposed from the government of the VI Mukims, and the native authority in that place is exercised by the young Teuku Raja Itam, son of the late Teuku Ne' of Meura'sa. Snouck also instances Teuku Nanta Seutia alongside Teuku Kali as a "title-bearer without territory" who rivalled the uleebalangs in importance.
 
 ## See Also
 
@@ -26,7 +26,7 @@ The fortunes of the Nanta family were transformed by the events of the war. In [
 - [[Teuku Raja Itam]]
 - [[Teuku Uma]]
 - [[VI Mukims of the XXV]]
-- [[Treachery of Teuku Uma against the Dutch]]
+- [[Defection of Teuku Uma|Treachery of Teuku Uma against the Dutch]]
 - [[Panglima Polem]]
 
 ## Source
@@ -47,7 +47,7 @@ In the official roll of the "twelve uleebalangs who appoint and dethrone princes
 
 ## Treachery of Teuku Uma and the restoration of the Ne' family
 
-The fortunes of the Nanta family were transformed by the events of the war. In [[1896]], the Nanta family having taken a prominent part in the [[Treachery of Teuku Uma against the Dutch|treachery of Teuku Uma]] against the Dutch, the Ne' family was restored to power. When the Nantas were expelled, the Dutch Government appointed as Chief [[Teuku Raja Itam]], a son of the Teuku Ne' who had been uleebalang of Meura'sa at the beginning of the Dutch operations in Acheh. The defection of [[Teuku Uma]] — who had married Chut Din, the daughter of Teuku Nanta — completed the ruin of the house. Since that defection, the Nantas have been declared deposed from the government of the VI Mukims, and the native authority in that place is exercised by the young Teuku Raja Itam, son of the late Teuku Ne' of Meura'sa. Snouck also instances Teuku Nanta Seutia alongside Teuku Kali as a "title-bearer without territory" who rivalled the uleebalangs in importance.
+The fortunes of the Nanta family were transformed by the events of the war. In [[1896]], the Nanta family having taken a prominent part in the [[Defection of Teuku Uma|treachery of Teuku Uma]] against the Dutch, the Ne' family was restored to power. When the Nantas were expelled, the Dutch Government appointed as Chief [[Teuku Raja Itam]], a son of the Teuku Ne' who had been uleebalang of Meura'sa at the beginning of the Dutch operations in Acheh. The defection of [[Teuku Uma]] — who had married Chut Din, the daughter of Teuku Nanta — completed the ruin of the house. Since that defection, the Nantas have been declared deposed from the government of the VI Mukims, and the native authority in that place is exercised by the young Teuku Raja Itam, son of the late Teuku Ne' of Meura'sa. Snouck also instances Teuku Nanta Seutia alongside Teuku Kali as a "title-bearer without territory" who rivalled the uleebalangs in importance.
 
 ## See Also
 
@@ -56,7 +56,7 @@ The fortunes of the Nanta family were transformed by the events of the war. In [
 - [[Teuku Raja Itam]]
 - [[Teuku Uma]]
 - [[VI Mukims of the XXV]]
-- [[Treachery of Teuku Uma against the Dutch]]
+- [[Defection of Teuku Uma|Treachery of Teuku Uma against the Dutch]]
 - [[Panglima Polem]]
 
 ## Source

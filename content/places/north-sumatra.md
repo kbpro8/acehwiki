@@ -19,7 +19,7 @@ The atlas's frank acknowledgment that the origins of the North Sumatran populati
 ## See Also
 
 - [[Atjehers]]
-- [[Islam in Atjeh]]
+- [[Islam in Aceh|Islam in Atjeh]]
 - [[Perlak]]
 - [[Pasé]]
 - [[Kota Radja]]

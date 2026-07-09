@@ -26,7 +26,7 @@ The mention is brief, but it places the Krinchi settlers alongside the Javanese 
 
 ### The Geography of Krinchi
 
-Krinchi (Kerinci) is a high valley in the Barisan range of west-central [[Sumatra|Sumatra]], lying to the south of the [[Minangkabau|Minangkabau]] country and separated from it by the high divide of the range. The valley is one of the most isolated of the Sumatran highlands; its inhabitants speak a Malay dialect of their own, and their intercourse with the outside world was, in the nineteenth century, conducted principally by way of the rivers which flow down from the valley to the west and to the east. The isolation of the valley, and the difficulty of gaining a livelihood in it, were the principal causes of the emigration of its inhabitants; like the hajjis of the same region, who are mentioned elsewhere in *The Achehnese* as notable recipients of the Achehnese *jakèuët*, the Krinchi settlers of [[Acheh|Acheh]] were one of the channels by which the surplus population of the valley sought a livelihood abroad.
+Krinchi (Kerinci) is a high valley in the Barisan range of west-central [[Sumatra|Sumatra]], lying to the south of the [[Menangkabau|Menangkabau]] country and separated from it by the high divide of the range. The valley is one of the most isolated of the Sumatran highlands; its inhabitants speak a Malay dialect of their own, and their intercourse with the outside world was, in the nineteenth century, conducted principally by way of the rivers which flow down from the valley to the west and to the east. The isolation of the valley, and the difficulty of gaining a livelihood in it, were the principal causes of the emigration of its inhabitants; like the hajjis of the same region, who are mentioned elsewhere in *The Achehnese* as notable recipients of the Achehnese *jakèuët*, the Krinchi settlers of [[Acheh|Acheh]] were one of the channels by which the surplus population of the valley sought a livelihood abroad.
 
 ### The Place of Krinchi in the Marriage Adat
 
@@ -46,7 +46,7 @@ The connection between Krinchi and [[Acheh|Acheh]] was not only demographic but 
 - [[Jakeuet (zakat)]]
 - [[Banda Acheh]]
 - [[Korinchi]]
-- [[Minangkabau]]
+- [[Menangkabau|Minangkabau]]
 - [[Acheh]]
 - [[Kling]]
 - [[Jakèuët]]

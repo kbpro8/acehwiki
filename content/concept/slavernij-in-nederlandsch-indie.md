@@ -20,19 +20,19 @@ Throughout the nineteenth century the Dutch government followed a policy of *[[N
 
 ## The Atjeh War as the Resolution
 
-The [[Anglo-Dutch Treaty of 1871|Sumatra-contract of 1871]] gave the [[Netherlands|Netherlands]] a free hand over the whole of [[Sumatra|Sumatra]] but laid on it the obligation to suppress the Atjehese slave trade and piracy. The [[Dutch military measures against Atjehse piracy (1872)|Dutch decision of 1872]] to take military measures led directly to the [[First Aceh Expedition (1873)|first Aceh expedition]] of [[April 1873|April]] [[1873]] and to the protracted [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1904]]. The final pacification of Atjeh by [[J. B. van Heutsz|Van Heutsz]] around the turn of the century, and the subsequent reforms by which Van Heutsz preserved native self-government under a thin layer of properly prepared Dutch administrators, gave the Netherlands for the first time the effective authority over the Buitengewesten that it had lacked since [[1814]] — and with that authority, the means to suppress slavery.
+The [[Anglo-Dutch Treaty of 1824|Sumatra-contract of 1871]] gave the [[Netherlands|Netherlands]] a free hand over the whole of [[Sumatra|Sumatra]] but laid on it the obligation to suppress the Atjehese slave trade and piracy. The [[Dutch military measures against Atjehse piracy (1872)|Dutch decision of 1872]] to take military measures led directly to the [[First Aceh Expedition (1873)|first Aceh expedition]] of [[April 1873|April]] [[1873]] and to the protracted [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1904]]. The final pacification of Atjeh by [[Joannes Benedictus van Heutsz|Van Heutsz]] around the turn of the century, and the subsequent reforms by which Van Heutsz preserved native self-government under a thin layer of properly prepared Dutch administrators, gave the Netherlands for the first time the effective authority over the Buitengewesten that it had lacked since [[1814]] — and with that authority, the means to suppress slavery.
 
 ## See Also
 
 - [[Zeeroverij]]
 - [[Niet-inmengingspolitiek]]
 - [[Anglo-Dutch Treaty of London]]
-- [[Anglo-Dutch Treaty of 1871]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1871]]
 - [[American bombardment of the Atjehse coast (1831)]]
 - [[Bombardment of the Atjehse coast by the British (1844)]]
 - [[Dutch military measures against Atjehse piracy (1872)]]
 - [[Pacificatie van Atjeh]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[J. Frijling]]
 - [[Vereenigde Oost-Indische Compagnie]]
 - [[Aceh War]]

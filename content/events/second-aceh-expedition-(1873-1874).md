@@ -4,13 +4,13 @@ aliases: [Tweede Atjeh-expeditie, Second Dutch Expedition to Aceh, Second Atjeh 
 tags: [event, war, dutch-colonial, military, aceh-war]
 ---
 
-**The Second Aceh Expedition** (Dutch: *Tweede Atjeh-expeditie*) was the Dutch military expedition dispatched against [[Acheh|Atjeh]] in November [[1873]] under the retired Lieutenant-general [[J. van Swieten|J. van Swieten]], restored to active service, which captured the [[Kraton of Aceh|Kraton]] of the sultan on [[24 January]] [[1874]] and ended in the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] by right of conquest. Its military success — achieved by a force of 6354 infantry besides officers, with cavalry, artillery and engineers — failed to bring the [[Aceh War|Atjeh-oorlog]] to an end; the war continued for decades in the form of guerrilla resistance led by the [[Uleebalang|hoeloebalangs]], the [[Imam|imams]] and, after [[1876]], by [[Habib Abdoerrahman|Habib Abdurrahman Zahir]].
+**The Second Aceh Expedition** (Dutch: *Tweede Atjeh-expeditie*) was the Dutch military expedition dispatched against [[Acheh|Atjeh]] in November [[1873]] under the retired Lieutenant-general [[Jan van Swieten|Jan van Swieten]], restored to active service, which captured the [[Kraton of Aceh|Kraton]] of the sultan on [[24 January]] [[1874]] and ended in the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] by right of conquest. Its military success — achieved by a force of 6354 infantry besides officers, with cavalry, artillery and engineers — failed to bring the [[Aceh War|Atjeh-oorlog]] to an end; the war continued for decades in the form of guerrilla resistance led by the [[Uleebalang|hoeloebalangs]], the [[Imam|imams]] and, after [[1876]], by [[Habib Abdoerrahman|Habib Abdurrahman Zahir]].
 
 ## Preparations
 
 After the failure of the [[First Aceh Expedition (1873)|first Aceh expedition]] in [[April 1873]] and the death of [[J. H. R. Köhler|General Köhler]] at the [[Battle of the Missigit (10 April 1873)|missigit]], the Indies government at once put in hand all that was necessary to prepare the second expedition so that no failure need be feared. In the Netherlands troops were levied to bring the army up to strength; above all, care was taken for better armament than the previous time, all troops being equipped with breech-loading rifles, and the artillery being considerably reinforced with newer breech-loading guns from Europe; further, provision was made for the necessary food, bridging material, a headquarters at Atjeh, landing equipment, the ambulance, the postal service, and so on. The expedition in all consisted of 6354 infantry besides officers, 75 cavalry, 656 artillery with 74 guns, and 306 engineers besides 250 free natives.
 
-[[J. van Swieten|Lieutenant-general Van Swieten]], retired, was restored to active service and placed in supreme command, with [[G. M. Verspyck|Major-general Verspyck]] as second-in-command. As military supreme commander and civil government commissioner he was to unite in himself the political and military authority. After delays caused by cholera on Java and aboard the transports, the transport ships sailed successively in mid-November and arrived at the Atjeh roadstead between [[20 November|20]] and [[29 November]] [[1873]].
+[[Jan van Swieten|Lieutenant-general Van Swieten]], retired, was restored to active service and placed in supreme command, with [[G. M. Verspyck|Major-general Verspyck]] as second-in-command. As military supreme commander and civil government commissioner he was to unite in himself the political and military authority. After delays caused by cholera on Java and aboard the transports, the transport ships sailed successively in mid-November and arrived at the Atjeh roadstead between [[20 November|20]] and [[29 November]] [[1873]].
 
 ## The Landing, 9 December 1873
 
@@ -30,7 +30,7 @@ After the taking of the missigit on [[6 January]] [[1874]], letters were sent to
 
 ## The Capture of the Kraton, 24 January 1874
 
-From Kota Goenoengan, "between the brushwood, one saw a broken piece of wall with a watch-house behind it, largely stripped of its roof covering. From there Kota Goenoengan had been continually and sometimes rather heavily fired upon during the previous days. But about 9 in the morning [of 24 January 1874] this fire slackened and soon ceased entirely." This led Van Swieten to suspect that the Kraton was not or only weakly occupied, and he ordered a reconnaissance to enter the Kraton and to hoist the Dutch flag on the watch-house. When this reconnaissance had advanced for some time without seeing the enemy, the supreme commander himself came up with his staff and the other companies. "Soon the heart of the Kraton was reached, and a repeated hoerah of our men and the *Wilhelmus*, played by the band of the right half of the 14th bataljon, proclaimed that the Kraton was in our possession." Verspyck, hearing the hoerah and the Wilhelmus, turned towards the Kraton and found [[Pakan Atjeh|Pakan Atjeh]] and the entrenchment of [[Panglima Polim|Panglima Polim]] wholly abandoned by the enemy; Van der Heijden was ordered to return.
+From Kota Goenoengan, "between the brushwood, one saw a broken piece of wall with a watch-house behind it, largely stripped of its roof covering. From there Kota Goenoengan had been continually and sometimes rather heavily fired upon during the previous days. But about 9 in the morning [of 24 January 1874] this fire slackened and soon ceased entirely." This led Van Swieten to suspect that the Kraton was not or only weakly occupied, and he ordered a reconnaissance to enter the Kraton and to hoist the Dutch flag on the watch-house. When this reconnaissance had advanced for some time without seeing the enemy, the supreme commander himself came up with his staff and the other companies. "Soon the heart of the Kraton was reached, and a repeated hoerah of our men and the *Wilhelmus*, played by the band of the right half of the 14th bataljon, proclaimed that the Kraton was in our possession." Verspyck, hearing the hoerah and the Wilhelmus, turned towards the Kraton and found [[Pakan Atjeh|Pakan Atjeh]] and the entrenchment of [[Panglima Polem|Panglima Polem]] wholly abandoned by the enemy; Van der Heijden was ordered to return.
 
 ## Death of the Sultan, 26 January 1874
 
@@ -46,7 +46,7 @@ In the course of the expedition the navy also rendered great services on several
 
 ## See Also
 
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[G. M. Verspyck]]
 - [[J. L. J. H. Pel]]
 - [[K. van der Heyden]]

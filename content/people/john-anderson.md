@@ -5,7 +5,7 @@ aliases: [Anderson, translateur Anderson, Malay translator Anderson]
 tags: [person, british-official, scholar, translator, author]
 ---
 
-**John Anderson** (fl. early 19th century) was a Malay translator at [[Penang]] and the author of *Acheen* (1840), a work which became the standard printed source on the [[Acheh]] question during the early colonial period and is cited repeatedly by P. H. [[P. H. van der Kemp|Van der Kemp]] (1900) in his study of the [[Acheh treaty of 1819]]. Anderson served as official translator (translateur) to the government of Prince of Wales Island, and his published book preserves the substance of many documents which Van der Kemp otherwise draws from the Roosegaarde Bisschop collection.
+**John Anderson** (fl. early 19th century) was a Malay translator at [[Penang]] and the author of *Acheen* (1840), a work which became the standard printed source on the [[Acheh]] question during the early colonial period and is cited repeatedly by P. H. [[P. H. van der Kemp|Van der Kemp]] (1900) in his study of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]]. Anderson served as official translator (translateur) to the government of Prince of Wales Island, and his published book preserves the substance of many documents which Van der Kemp otherwise draws from the Roosegaarde Bisschop collection.
 
 ## Author of *Acheen* (1840)
 
@@ -17,7 +17,7 @@ The book is also Van der Kemp's source for the assertion that "the superintenden
 
 Beyond his published work, Anderson appears in Van der Kemp's appendices as the active translator of the Penang government. At the order of the Penang administration he drafted a letter, in Malay, to the Pangeran of [[Siak]] accompanying the letter which the Governor himself addressed to that chief. The letter spoke of the transfer of [[Malacca]] to the English Company, of the friendly relations between Siak and the three British settlements of Penang, [[Singapore]], and Malacca, and of the desire to extend commercial intercourse between Siak and the British ports in the Straits. The Sultan of Siak's reply, dated 21 Dulkaida (4 June [[1828]]), is preserved in Van der Kemp's appendix.
 
-The use of Anderson as translator for the Siak correspondence indicates that, even after the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 1824]] had nominally placed Siak within the Dutch sphere, the Penang government continued to address Siak chiefs directly through its own Malay-language chancery. Anderson's role was therefore not merely that of an author but of an instrument of Penang's continuing native-state correspondence, a function which the 1824 treaty did not at once extinguish.
+The use of Anderson as translator for the Siak correspondence indicates that, even after the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 1824]] had nominally placed Siak within the Dutch sphere, the Penang government continued to address Siak chiefs directly through its own Malay-language chancery. Anderson's role was therefore not merely that of an author but of an instrument of Penang's continuing native-state correspondence, a function which the 1824 treaty did not at once extinguish.
 
 ## Assessment
 
@@ -29,7 +29,7 @@ Van der Kemp treats Anderson as a generally reliable compiler, though he is care
 - [[Acheh]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Sartorius mission to Acheh]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
 
 ## Source
@@ -38,7 +38,7 @@ Van der Kemp treats Anderson as a generally reliable compiler, though he is care
 ---
 
 
-**John Anderson** (fl. early 19th century) was a Malay translator at [[Penang]] and the author of *Acheen* (1840), a work which became the standard printed source on the [[Acheh]] question during the early colonial period and is cited repeatedly by P. H. [[P. H. van der Kemp|Van der Kemp]] (1900) in his study of the [[Acheh treaty of 1819]]. Anderson served as official translator (translateur) to the government of Prince of Wales Island, and his published book preserves the substance of many documents which Van der Kemp otherwise draws from the Roosegaarde Bisschop collection.
+**John Anderson** (fl. early 19th century) was a Malay translator at [[Penang]] and the author of *Acheen* (1840), a work which became the standard printed source on the [[Acheh]] question during the early colonial period and is cited repeatedly by P. H. [[P. H. van der Kemp|Van der Kemp]] (1900) in his study of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]]. Anderson served as official translator (translateur) to the government of Prince of Wales Island, and his published book preserves the substance of many documents which Van der Kemp otherwise draws from the Roosegaarde Bisschop collection.
 
 ## Author of *Acheen* (1840)
 
@@ -50,7 +50,7 @@ The book is also Van der Kemp's source for the assertion that "the superintenden
 
 Beyond his published work, Anderson appears in Van der Kemp's appendices as the active translator of the Penang government. At the order of the Penang administration he drafted a letter, in Malay, to the Pangeran of [[Siak]] accompanying the letter which the Governor himself addressed to that chief. The letter spoke of the transfer of [[Malacca]] to the English Company, of the friendly relations between Siak and the three British settlements of Penang, [[Singapore]], and Malacca, and of the desire to extend commercial intercourse between Siak and the British ports in the Straits. The Sultan of Siak's reply, dated 21 Dulkaida (4 June [[1828]]), is preserved in Van der Kemp's appendix.
 
-The use of Anderson as translator for the Siak correspondence indicates that, even after the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 1824]] had nominally placed Siak within the Dutch sphere, the Penang government continued to address Siak chiefs directly through its own Malay-language chancery. Anderson's role was therefore not merely that of an author but of an instrument of Penang's continuing native-state correspondence, a function which the 1824 treaty did not at once extinguish.
+The use of Anderson as translator for the Siak correspondence indicates that, even after the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 1824]] had nominally placed Siak within the Dutch sphere, the Penang government continued to address Siak chiefs directly through its own Malay-language chancery. Anderson's role was therefore not merely that of an author but of an instrument of Penang's continuing native-state correspondence, a function which the 1824 treaty did not at once extinguish.
 
 ## Assessment
 
@@ -62,7 +62,7 @@ Van der Kemp treats Anderson as a generally reliable compiler, though he is care
 - [[Acheh]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Sartorius mission to Acheh]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
 
 ## Source

@@ -15,7 +15,7 @@ Pasai was located on the northernmost piece of Sumatra whose coast runs nearly e
 
 The key fact of Pasai's early history, for AcehWiki purposes, is its primacy as the older centre of Islamic learning on the north Sumatran coast — the primacy that Atjeh would inherit in the early seventeenth century. [[C. Hooykaas|Hooykaas]] records: "Reeds eerder had het last gehad van Siam, maar het had de glorie gehad van het eerst en best geïslamiseerde staatje te zijn in die wateren, zodat Malakka in zijn glanstijd herhaaldelijk er gezantschappen heenzendt om antwoord te krijgen in theologische vraagpunten" (It had already earlier suffered from Siam, but it had the glory of having been the first and best Islamised state in those waters, so that Malacca in its golden age repeatedly sent embassies there to get answers in theological questions).
 
-This primacy is recorded in the *[[Sadjarah Malajoe]]* itself — the Malay Annals repeatedly record Malacca's theological consultations with the ulema of Pasai — and is the inheritance that Atjeh seized in the early seventeenth century, when the ulema of Atjeh (notably [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and the [[Sjaich Noeroddin|Sjaich Noeroddin]] who brought the *[[Sirat al-mustaqim|Sirāṭ al-mustaqīm]]* to Kedah) became the new theological authorities of the Malay-Indonesian Islamic world.
+This primacy is recorded in the *[[Sadjarah Malajoe]]* itself — the Malay Annals repeatedly record Malacca's theological consultations with the ulema of Pasai — and is the inheritance that Atjeh seized in the early seventeenth century, when the ulema of Atjeh (notably [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and the [[Sjaich Noeroddin|Sjaich Noeroddin]] who brought the *[[Sirat al-Mustaqim|Sirāṭ al-mustaqīm]]* to Kedah) became the new theological authorities of the Malay-Indonesian Islamic world.
 
 
 ## The Siamese Subjection
@@ -41,7 +41,7 @@ Pasai also played a role in the [[Portuguese conquest of Malaka (1511)|Portugues
 ## Significance
 
 
-For AcehWiki, Pasai is significant as the older rival centre of Sumatran Islamic learning that Atjeh displaced in the early seventeenth century. The transfer of the centre from Pasai to Atjeh — under [[Sultan Iskandar Muda|Iskandar Muda]] — is the key event in the rise of the Atjehnese court as the principal centre of Islamic learning in the Malay-Indonesian Islamic world in the seventeenth century, and the background against which the Atjehnese compositions of [[Nur al-Din al-Raniri|ar-Rānīrī]] — the *[[Sirat al-mustaqim|Sirāṭ]]*, the *[[Bustanu's-Salatin|Bustān]]*, and the *Bad'* of [[1638]] — must be measured.
+For AcehWiki, Pasai is significant as the older rival centre of Sumatran Islamic learning that Atjeh displaced in the early seventeenth century. The transfer of the centre from Pasai to Atjeh — under [[Sultan Iskandar Muda|Iskandar Muda]] — is the key event in the rise of the Atjehnese court as the principal centre of Islamic learning in the Malay-Indonesian Islamic world in the seventeenth century, and the background against which the Atjehnese compositions of [[Nur al-Din al-Raniri|ar-Rānīrī]] — the *[[Sirat al-Mustaqim|Sirāṭ]]*, the *[[Bustan al-Salatin|Bustān]]*, and the *Bad'* of [[1638]] — must be measured.
 
 
 ## Account from *The Geology of Indonesia* ([[1949]]) — Pasé oil field

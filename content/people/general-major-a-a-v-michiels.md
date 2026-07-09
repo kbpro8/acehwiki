@@ -16,7 +16,7 @@ Michiels coordinated closely with the marine battalion under Captain ter zee Bou
 ## See Also
 - [[1849 Bali Expedition]]
 - [[C. A. de Brauw]]
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[Singa‑Radja]]
 
 ## Source

@@ -26,7 +26,7 @@ The concentration scheme was effectively abandoned in favour of active military 
 
 ## Expanded account from *The Achehnese*, Vol. I — Concentration Scheme
 
-The **Concentration Scheme** was the Dutch military-political policy adopted in [[1884]] for the conduct of the [[Achehnese War|war in Acheh]], following the failure of the first and second expeditions to subdue the country. As [[C. Snouck Hurgronje]] describes it, the scheme consisted in "the construction of a 'concentrated line' of forts stretching about the old seat of the Sultanate," behind which the Dutch troops remained, leaving the rest of the country to the Achehnese. It was inaugurated by a statesman whom Hurgronje describes as "entirely unversed in Achehnese affairs" and "cynical and sceptical," and who "only sought for some temporary way of shelving the burden of the Achehnese question." The scheme continued for some twelve years, until the gradual abandonment of "concentration" and the adoption of the more aggressive maréchaussée policy under [[Governor Van Heutsz|Governor van Heutsz]] in [[1898]].
+The **Concentration Scheme** was the Dutch military-political policy adopted in [[1884]] for the conduct of the [[Achehnese War|war in Acheh]], following the failure of the first and second expeditions to subdue the country. As [[C. Snouck Hurgronje]] describes it, the scheme consisted in "the construction of a 'concentrated line' of forts stretching about the old seat of the Sultanate," behind which the Dutch troops remained, leaving the rest of the country to the Achehnese. It was inaugurated by a statesman whom Hurgronje describes as "entirely unversed in Achehnese affairs" and "cynical and sceptical," and who "only sought for some temporary way of shelving the burden of the Achehnese question." The scheme continued for some twelve years, until the gradual abandonment of "concentration" and the adoption of the more aggressive maréchaussée policy under [[Joannes Benedictus van Heutsz|Governor van Heutsz]] in [[1898]].
 
 The scheme rested on a theory — that Acheh would ultimately submit of its own accord — which every observer with any knowledge of local conditions knew to be illusory. The Achehnese were left "free, at whatever time and in whatever way suited them best and without heavy expenditure or loss, to harass the line and the coast-stations, as often as they pleased; the troops within the line were as little able to prevent them as they were to punish them when the thing was done. In the presence of a quite harmless enemy within the country, the religious party and the energetic adventurers had a most desirable opportunity of establishing war-chests and, with them, *imperia in imperio*." Coercive measures directed against Achehnese trade and shipping failed because "it is always possible for an Achehnese to supply himself with his own limited requirements even without the aid of foreign trade, so long as he is left (as the 'concentration scheme' left him) in undisturbed possession of the whole land."
 
@@ -62,7 +62,7 @@ Snouck Hurgronje observes that certainly no one ever rendered a greater service 
 - [[Teuku Uma]]
 - [[Tuanku Muhamat Dawot]]
 - [[Proclamation of the Pretender Sultan]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[General van der Heijden's excursions (marches through the highlands)]]
 - [[Dutch policy of 'concentration']]
 - [[Concentration scheme]]

@@ -32,7 +32,7 @@ The cooking of special viands on the Ashura day is one of the observances which 
 
 ### The predeclared taʿliq
 
-The custom by which a husband, immediately after the marriage ceremony, declares his liability to divorce on specified grounds — the so‑called predeclared *taʿliq* — is treated by Snouck as one of the institutions the Archipelago shares with Hindustan. Such predeclared and morally compulsory *taʿliqs* are not rare in the [[Indian Archipelago|Indian Archipelago]], and Snouck suggests they would “in all probability be met with in those parts of Hindustan whence Islam was introduced into the E. Indian Archipelago.” The *taʿliq* is a characteristic method by which Mohammedan law has been adapted throughout the Archipelago to mitigate the miseries of a wife abandoned by her husband.
+The custom by which a husband, immediately after the marriage ceremony, declares his liability to divorce on specified grounds — the so‑called predeclared *taʿliq* — is treated by Snouck as one of the institutions the Archipelago shares with Hindustan. Such predeclared and morally compulsory *taʿliqs* are not rare in the [[East Indian Archipelago|East Indian Archipelago]], and Snouck suggests they would “in all probability be met with in those parts of Hindustan whence Islam was introduced into the E. Indian Archipelago.” The *taʿliq* is a characteristic method by which Mohammedan law has been adapted throughout the Archipelago to mitigate the miseries of a wife abandoned by her husband.
 
 ## Bombay in Snouck Hurgronje’s *The Achehnese* — India / Hindostan
 
@@ -73,7 +73,7 @@ Southern India is also the source of the Achehnese cult of **Tuan Meurasab** (kn
 - [[Deccan]]
 - [[Arabia]]
 - [[East Indian Archipelago]]
-- [[Indian Archipelago]]
+- [[East Indian Archipelago|Indian Archipelago]]
 - [[Jaffur Shurreef]]
 - [[G. A. Herklots]]
 - [[Amir Hamzah]]

@@ -8,7 +8,7 @@ tags: [place, town, military-base, dutch-colonial, aceh-war]
 
 ## Origins
 
-The name Kota Radja was given by the Dutch to their hoofdvestiging in the conquered [[Kraton of Aceh|Kraton]] after the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[24 January]] [[1874]]. The Kraton itself was made into the principal fortification, and the surrounding kampongs — [[Penajoeng|Penajoeng]], kampong Djawa, kampong Gedah — became the outworks. By [[March 1877|March 1877]] the Governor-General [[J. W. van Lansberge|Van Lansberge]] found on his [[Van Lansberge's visit to Aceh (March-April 1877)|inspection]] "On the roadstead of [[Oleh-leh|Oleh-leh]] there prevailed, in consequence of the number of ships lying there, great activity; on shore the high visitor was struck by the neat appearance of houses and streets, the efficient lighting of these, and the influx of Atjehers on the pasar. In the outworks of Kota Radja — Penajoeng, kampong Djawa and kampong Gedah — many neat houses of Chinese traders and private persons gave proof of the presence of capital and of confidence in the durability of our settlement."
+The name Kota Radja was given by the Dutch to their hoofdvestiging in the conquered [[Kraton of Aceh|Kraton]] after the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[24 January]] [[1874]]. The Kraton itself was made into the principal fortification, and the surrounding kampongs — [[Penajoeng|Penajoeng]], kampong Djawa, kampong Gedah — became the outworks. By [[March 1877|March 1877]] the Governor-General [[Johan Willem van Lansberge|Van Lansberge]] found on his [[Van Lansberge's visit to Aceh (March-April 1877)|inspection]] "On the roadstead of [[Oleh-leh|Oleh-leh]] there prevailed, in consequence of the number of ships lying there, great activity; on shore the high visitor was struck by the neat appearance of houses and streets, the efficient lighting of these, and the influx of Atjehers on the pasar. In the outworks of Kota Radja — Penajoeng, kampong Djawa and kampong Gedah — many neat houses of Chinese traders and private persons gave proof of the presence of capital and of confidence in the durability of our settlement."
 
 ## The Hoofd-stelling
 
@@ -28,7 +28,7 @@ By the administrative reorganisation of [[March 1881|March 1881]], Kota Radja be
 
 ## The Hikajat Prang Kompeuni
 
-In the [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]] Kota Radja appears as the chief place and Oleh-leh as the commercial centre: "The Radja Moeda, Toekoe Nja Moekamat, strained every effort to bring the chief place and Oleh-leh to prosperity, and succeeded so well, that the population fled from their villages in streams not to be stemmed to the chief place, and fraternised with the kafirs."
+In the [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]] Kota Radja appears as the chief place and Oleh-leh as the commercial centre: "The Radja Moeda, Toekoe Nja Moekamat, strained every effort to bring the chief place and Oleh-leh to prosperity, and succeeded so well, that the population fled from their villages in streams not to be stemmed to the chief place, and fraternised with the kafirs."
 
 ## See Also
 
@@ -43,12 +43,12 @@ In the [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]] Kota Radja appears as t
 - [[Zuidoosterlinie]]
 - [[Noordoosterlinie]]
 - [[K. van der Heyden]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[J. L. J. H. Pel]]
 - [[Capture of the Kraton (24 January 1874)]]
 - [[Van Lansberge's visit to Aceh (March-April 1877)]]
 - [[Establishment of Civil Government in Aceh (6 April 1881)]]
-- [[Hikajat prang Kompeuni]]
+- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
 - [[Aceh War]]
 
 ## Source

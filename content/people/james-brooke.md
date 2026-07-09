@@ -20,14 +20,14 @@ Brooke’s expansion threatened the [[Sultanate of Aceh]]’s claimed suzerainty
 
 ## Significance for Atjeh and Colonial Policy
 
-Brooke’s 1841 conquest is, in Frijling’s analysis, the most striking illustration of the consequences of the Dutch *niet‑inmengingspolitiek* for the international standing of the [[Netherlands]] in the archipelago. Together with the [[American bombardment of the Atjehse coast (1831)|American bombardment of 1831]] and the [[Bombardment of the Atjehse coast by the British (1844)|British bombardment of 1844]], it formed part of the diplomatic pressure that led to the [[Anglo-Dutch Treaty of 1871|Sumatra‑contract of 1871]] and the subsequent [[Dutch military measures against Atjehse piracy (1872)|Dutch military measures of 1872]]. The episode also highlights the contrast between Dutch restraint and British assertiveness: where the Dutch abstained, the British—whether officially as in [[1844]] or semi‑officially as in Brooke’s charter—acted decisively, reshaping the balance of power in the eastern Indies.
+Brooke’s 1841 conquest is, in Frijling’s analysis, the most striking illustration of the consequences of the Dutch *niet‑inmengingspolitiek* for the international standing of the [[Netherlands]] in the archipelago. Together with the [[American bombardment of the Atjehse coast (1831)|American bombardment of 1831]] and the [[Bombardment of the Atjehse coast by the British (1844)|British bombardment of 1844]], it formed part of the diplomatic pressure that led to the [[Anglo-Dutch Treaty of 1824|Sumatra‑contract of 1871]] and the subsequent [[Dutch military measures against Atjehse piracy (1872)|Dutch military measures of 1872]]. The episode also highlights the contrast between Dutch restraint and British assertiveness: where the Dutch abstained, the British—whether officially as in [[1844]] or semi‑officially as in Brooke’s charter—acted decisively, reshaping the balance of power in the eastern Indies.
 
 ## See Also
 
 - [[American bombardment of the Atjehse coast (1831)]]
 - [[Bombardment of the Atjehse coast by the British (1844)]]
 - [[Niet-inmengingspolitiek]]
-- [[Anglo-Dutch Treaty of 1871]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1871]]
 - [[Dutch military measures against Atjehse piracy (1872)]]
 - [[Sultanate of Aceh]]
 - [[British Empire]]

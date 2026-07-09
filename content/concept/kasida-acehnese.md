@@ -18,7 +18,7 @@ The kasida in Aceh is closely tied to religious gatherings, especially during th
 ## See Also
 - [[Mawlid in Aceh]]
 - [[dikië jadjandji (dhikr Barzandji)]]
-- [[Al‑Burda (poem)]]
+- [[Burda (poem)|Al‑Burda (poem)]]
 - [[Al‑Busiri]]
 - [[Nasib (poetic prelude)]]
 - [[Madih (praise)]]

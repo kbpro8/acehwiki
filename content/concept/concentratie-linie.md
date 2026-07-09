@@ -8,7 +8,7 @@ tags: [concept, fortification, dutch-colonial, aceh-war, military]
 
 ## The System
 
-After the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[24 January]] [[1874]] and the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] on [[31 January]] [[31 January]] [[1874]], the Dutch held the Kraton and a few outworks. [[J. van Swieten|Van Swieten]]'s note of [[22 April]] [[22 April]] [[1874]] laid down a defensive policy: active defence of Kota Radja itself, but elsewhere passive defence. After the departure of Van Swieten on [[26 April]] [[26 April]] [[1874]] the war continued under General Pel, who by [[June 1875]] had secured the hoofd-stelling on all sides by an unbroken chain of fortifications.
+After the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[24 January]] [[1874]] and the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] on [[31 January]] [[31 January]] [[1874]], the Dutch held the Kraton and a few outworks. [[Jan van Swieten|Van Swieten]]'s note of [[22 April]] [[22 April]] [[1874]] laid down a defensive policy: active defence of Kota Radja itself, but elsewhere passive defence. After the departure of Van Swieten on [[26 April]] [[26 April]] [[1874]] the war continued under General Pel, who by [[June 1875]] had secured the hoofd-stelling on all sides by an unbroken chain of fortifications.
 
 The system comprised four lines:
 
@@ -33,7 +33,7 @@ The engineers had to provide for the putting in order of the various posts and f
 
 ## Significance
 
-The concentratie-linie was the characteristic form of the Dutch military presence in Atjeh during the first phase of the [[Aceh War|Atjeh-oorlog]]. Its high cost in men and matériel, and the limited political results it produced, led to its eventual abandonment in favour of the more aggressive policy of General Pel in [[1875]] and General Van der Heyden in [[1878]]-[[1879]]. After the close of large-scale operations in [[August 1879]] the system was gradually reduced, but the basic pattern of a fortified hoofd-stelling at [[Kota Radja|Kota Radja]], with outlying posts at the principal strategic points, continued until the final pacification of Atjeh under [[Van Heutsz|Van Heutsz]] after [[1898]].
+The concentratie-linie was the characteristic form of the Dutch military presence in Atjeh during the first phase of the [[Aceh War|Atjeh-oorlog]]. Its high cost in men and matériel, and the limited political results it produced, led to its eventual abandonment in favour of the more aggressive policy of General Pel in [[1875]] and General Van der Heyden in [[1878]]-[[1879]]. After the close of large-scale operations in [[August 1879]] the system was gradually reduced, but the basic pattern of a fortified hoofd-stelling at [[Kota Radja|Kota Radja]], with outlying posts at the principal strategic points, continued until the final pacification of Atjeh under [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] after [[1898]].
 
 ## See Also
 
@@ -46,7 +46,7 @@ The concentratie-linie was the characteristic form of the Dutch military presenc
 - [[Marassa]]
 - [[Lampassei]]
 - [[Lamara]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[J. L. J. H. Pel]]
 - [[K. van der Heyden]]
 - [[Capture of the Kraton (24 January 1874)]]

@@ -22,7 +22,7 @@ Houtman, characteristically, then offered to return to shore to maintain the goo
 
 ## Release and aftermath
 
-Houtman remained in irons through the spring and summer of [[1601]], even as the strategic situation at Atjeh shifted. When the [[Middelburgsche Compagnie|Middelburgsche Compagnie]] fleet under **Hans Huybrecht Tonneman** arrived on [[23 August]] [[1601]] bearing a letter from [[Prince Maurits|Prince Maurits]] and gifts, the sultan — already alienated from the Portuguese by the unguarded behaviour of the [[Franciscan|Franciscan]] monk and by Portuguese seizures of Arab ships — changed his posture. He ordered Houtman's chains struck off ("die hij acht maanden lang had gedragen") and released him and his surviving companions without ransom. The Zeelanders then dispatched their own embassy to Prince Maurits — the [[Atjeh embassy to Prince Maurits (1601)|Atjeh embassy to Prince Maurits of 1601]] — and Houtman's captivity was at an end.
+Houtman remained in irons through the spring and summer of [[1601]], even as the strategic situation at Atjeh shifted. When the [[Middelburgsche Compagnie|Middelburgsche Compagnie]] fleet under **Hans Huybrecht Tonneman** arrived on [[23 August]] [[1601]] bearing a letter from [[Prince Maurits|Prince Maurits]] and gifts, the sultan — already alienated from the Portuguese by the unguarded behaviour of the [[Franciscan|Franciscan]] monk and by Portuguese seizures of Arab ships — changed his posture. He ordered Houtman's chains struck off ("die hij acht maanden lang had gedragen") and released him and his surviving companions without ransom. The Zeelanders then dispatched their own embassy to Prince Maurits — the [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits of 1601]] — and Houtman's captivity was at an end.
 
 ## Significance
 
@@ -36,7 +36,7 @@ Frederik de Houtman's Atjeh captivity is, in Van der Woude's narrative, the prin
 - [[Sultan of Atjeh (1589-1604)]]
 - [[Paulus van Caerden's Atjeh visit (1600-1601)]]
 - [[Zeeland Company's Atjeh mission (1601)]]
-- [[Atjeh embassy to Prince Maurits (1601)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits (1601)]]
 - [[Prince Maurits]]
 - [[Sabander]]
 - [[Pedir]]

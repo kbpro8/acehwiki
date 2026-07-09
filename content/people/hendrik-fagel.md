@@ -5,7 +5,7 @@ aliases: [Fagel, Hendrik Fagel, Baron Fagel, Dutch ambassador Fagel]
 tags: [person, dutch-official, diplomat, ambassador]
 ---
 
-**Hendrik Fagel** (1765–1838) — sixth Baron Fagel, long-serving Dutch envoy in London — was, with [[Anton Reinhard Falck|Falck]], one of the two Dutch plenipotentiaries who negotiated the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]]. In P. H. van der Kemp's 1900 article he is paired with Falck as one of the two objects of the historian's censure: the plenipotentiaries are charged with having "had too good an opinion of their counterparties" and with having placed excessive trust in "the honesty of our mighty neighbour and natural ally." Fagel was the senior career diplomat of the pair, having represented the Netherlands in London almost continuously since the 1790s.
+**Hendrik Fagel** (1765–1838) — sixth Baron Fagel, long-serving Dutch envoy in London — was, with [[Anton Reinhard Falck|Falck]], one of the two Dutch plenipotentiaries who negotiated the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]]. In P. H. van der Kemp's 1900 article he is paired with Falck as one of the two objects of the historian's censure: the plenipotentiaries are charged with having "had too good an opinion of their counterparties" and with having placed excessive trust in "the honesty of our mighty neighbour and natural ally." Fagel was the senior career diplomat of the pair, having represented the Netherlands in London almost continuously since the 1790s.
 
 ## Earlier Career and the 1814 Treaty
 
@@ -21,7 +21,7 @@ The [[Concept-convention of 24 July 1820|concept-convention of 24 July 1820]], o
 
 ## The 1824 Negotiations
 
-In the negotiations of February 1824 Fagel and Falck worked together under instructions from The Hague, with [[Captain Elout|Captain Elout]] as their messenger to the Dutch court. When the question of the [[Acheh treaty of 1819|Acheh treaty of 1819]] was raised at the eleventh hour by the British plenipotentiaries, neither Fagel nor Falck had read the Acheh treaty itself. They accepted the British representation that it concerned only hospitality to shipwrecked sailors, and raised no objection pending The Hague's authorisation. When the true content of the Acheh treaty was revealed on 23 February 1824, Fagel and Falck did not repudiate the concession; instead they accepted the supplementary note procedure by which the British undertaking to "modify" the Acheh treaty was set alongside a Dutch undertaking to guarantee Acheh's independence — the [[Article 6 controversy|disputed clause]] that was to bedevil Dutch policy on Sumatra for the next half-century.
+In the negotiations of February 1824 Fagel and Falck worked together under instructions from The Hague, with [[Captain Elout|Captain Elout]] as their messenger to the Dutch court. When the question of the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]] was raised at the eleventh hour by the British plenipotentiaries, neither Fagel nor Falck had read the Acheh treaty itself. They accepted the British representation that it concerned only hospitality to shipwrecked sailors, and raised no objection pending The Hague's authorisation. When the true content of the Acheh treaty was revealed on 23 February 1824, Fagel and Falck did not repudiate the concession; instead they accepted the supplementary note procedure by which the British undertaking to "modify" the Acheh treaty was set alongside a Dutch undertaking to guarantee Acheh's independence — the [[Article 6 controversy|disputed clause]] that was to bedevil Dutch policy on Sumatra for the next half-century.
 
 ## Fagel's Dismissal
 
@@ -37,7 +37,7 @@ Van der Kemp, in a passing reference, directs the reader to his article in *De T
 - [[George Canning]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Anglo-Dutch Treaty of London (1814)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Fagel-Elout negotiations (August 1820)]]
 - [[Concept-convention of 24 July 1820]]
 - [[Raising of the Acheh treaty in London negotiations]]
@@ -50,7 +50,7 @@ Van der Kemp, in a passing reference, directs the reader to his article in *De T
 ---
 
 
-**Hendrik Fagel** (1765–1838) — sixth Baron Fagel, long-serving Dutch envoy in London — was, with [[Anton Reinhard Falck|Falck]], one of the two Dutch plenipotentiaries who negotiated the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]]. In P. H. van der Kemp's 1900 article he is paired with Falck as one of the two objects of the historian's censure: the plenipotentiaries are charged with having "had too good an opinion of their counterparties" and with having placed excessive trust in "the honesty of our mighty neighbour and natural ally." Fagel was the senior career diplomat of the pair, having represented the Netherlands in London almost continuously since the 1790s.
+**Hendrik Fagel** (1765–1838) — sixth Baron Fagel, long-serving Dutch envoy in London — was, with [[Anton Reinhard Falck|Falck]], one of the two Dutch plenipotentiaries who negotiated the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]]. In P. H. van der Kemp's 1900 article he is paired with Falck as one of the two objects of the historian's censure: the plenipotentiaries are charged with having "had too good an opinion of their counterparties" and with having placed excessive trust in "the honesty of our mighty neighbour and natural ally." Fagel was the senior career diplomat of the pair, having represented the Netherlands in London almost continuously since the 1790s.
 
 ## Earlier Career and the 1814 Treaty
 
@@ -66,7 +66,7 @@ The [[Concept-convention of 24 July 1820|concept-convention of 24 July 1820]], o
 
 ## The 1824 Negotiations
 
-In the negotiations of February 1824 Fagel and Falck worked together under instructions from The Hague, with [[Captain Elout|Captain Elout]] as their messenger to the Dutch court. When the question of the [[Acheh treaty of 1819|Acheh treaty of 1819]] was raised at the eleventh hour by the British plenipotentiaries, neither Fagel nor Falck had read the Acheh treaty itself. They accepted the British representation that it concerned only hospitality to shipwrecked sailors, and raised no objection pending The Hague's authorisation. When the true content of the Acheh treaty was revealed on 23 February 1824, Fagel and Falck did not repudiate the concession; instead they accepted the supplementary note procedure by which the British undertaking to "modify" the Acheh treaty was set alongside a Dutch undertaking to guarantee Acheh's independence — the [[Article 6 controversy|disputed clause]] that was to bedevil Dutch policy on Sumatra for the next half-century.
+In the negotiations of February 1824 Fagel and Falck worked together under instructions from The Hague, with [[Captain Elout|Captain Elout]] as their messenger to the Dutch court. When the question of the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]] was raised at the eleventh hour by the British plenipotentiaries, neither Fagel nor Falck had read the Acheh treaty itself. They accepted the British representation that it concerned only hospitality to shipwrecked sailors, and raised no objection pending The Hague's authorisation. When the true content of the Acheh treaty was revealed on 23 February 1824, Fagel and Falck did not repudiate the concession; instead they accepted the supplementary note procedure by which the British undertaking to "modify" the Acheh treaty was set alongside a Dutch undertaking to guarantee Acheh's independence — the [[Article 6 controversy|disputed clause]] that was to bedevil Dutch policy on Sumatra for the next half-century.
 
 ## Fagel's Dismissal
 
@@ -82,7 +82,7 @@ Van der Kemp, in a passing reference, directs the reader to his article in *De T
 - [[George Canning]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Anglo-Dutch Treaty of London (1814)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Fagel-Elout negotiations (August 1820)]]
 - [[Concept-convention of 24 July 1820]]
 - [[Raising of the Acheh treaty in London negotiations]]

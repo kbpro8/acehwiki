@@ -10,7 +10,7 @@ The **conquest of Portuguese Malakka in 1641** was the joint [[Vereenigde Oost-I
 
 The conquest of [[1641]] closed more than a century of Atjeh-Portuguese conflict. Since the early sixteenth century, [[Acheh|Atjeh]] had been "de groote vijand der Portugeezen in die gewesten" — the great enemy of the Portuguese in those parts — and "een voortdurende bedreiging voor Malakka" — a constant threat to Malakka. The sultanate's naval power and its alliance with other Malay powers had repeatedly brought Portuguese Malakka to the edge of collapse; the [[Great cannon of Atjeh|great cannon of Atjeh]] was the most famous single artefact of that contest.
 
-The Portuguese, for their part, had repeatedly tried to contain Atjeh — by naval expeditions (such as the [[Andrea Furtado de Mendoça|Andrea Furtado de Mendoça]] armada of [[1601]]), by diplomatic interventions (such as the Portuguese monk who sabotaged the [[Pigskin parchment letter incident at Atjeh (1600)|1600 pigskin-letter embassy]]), and by alliances with Atjeh's Malay rivals (especially [[Johor|Djohor]]).
+The Portuguese, for their part, had repeatedly tried to contain Atjeh — by naval expeditions (such as the [[André Furtado de Mendonça|André Furtado de Mendonça]] armada of [[1601]]), by diplomatic interventions (such as the Portuguese monk who sabotaged the [[Pigskin parchment letter incident at Atjeh (1600)|1600 pigskin-letter embassy]]), and by alliances with Atjeh's Malay rivals (especially [[Johor|Djohor]]).
 
 ## The VOC-Atjeh-Djohor alliance of 1640
 
@@ -36,7 +36,7 @@ For [[Acheh|Atjeh]]'s history, the conquest of Portuguese Malakka in [[1641]] is
 - [[Maagden als losprijs]]
 - [[Francisco de Souza de Castro]]
 - [[Great cannon of Atjeh]]
-- [[Andrea Furtado de Mendoça]]
+- [[André Furtado de Mendonça|Andrea Furtado de Mendoça]]
 - [[Pigskin parchment letter incident at Atjeh (1600)]]
 - [[Johor]]
 - [[Malakka]]

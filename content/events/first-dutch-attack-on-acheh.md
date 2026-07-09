@@ -8,7 +8,7 @@ The **First Dutch Attack on Acheh** in [[1873]] — the first armed expedition s
 
 ## Background
 
-The [[Treaty of 1824|treaty of [[1824]]]] between Holland and Great Britain had placed the Dutch in the position of guarantors of the security of trade and shipping in Acheh, while at the same time binding them to respect the independence of the country — a stipulation which rendered the undertaking impossible to carry out. As the British had already discovered through the [[Hastings letter incident|Hastings letter incident]] of [[1786]] and the [[Fullerton memorandum|Fullerton memorandum]] of [[1825]], the security of trade in Acheh was "utterly impracticable without employing a large military force to overawe the inhabitants." Half a century of chronic complaints of robbery and murder committed by Achehnese on European and American traders culminated in the [[Treaty of 1871|new Anglo-Dutch treaty of [[1871]]]], under which Holland was left with more freedom of action in the control of Acheh.
+The [[Anglo-Dutch Treaty of 1824|treaty of [[1824]]]] between Holland and Great Britain had placed the Dutch in the position of guarantors of the security of trade and shipping in Acheh, while at the same time binding them to respect the independence of the country — a stipulation which rendered the undertaking impossible to carry out. As the British had already discovered through the [[Hastings letter incident|Hastings letter incident]] of [[1786]] and the [[Fullerton memorandum|Fullerton memorandum]] of [[1825]], the security of trade in Acheh was "utterly impracticable without employing a large military force to overawe the inhabitants." Half a century of chronic complaints of robbery and murder committed by Achehnese on European and American traders culminated in the [[Treaty of 1871|new Anglo-Dutch treaty of [[1871]]]], under which Holland was left with more freedom of action in the control of Acheh.
 
 ## The Attack
 
@@ -24,7 +24,7 @@ The repulse of the first expedition was followed in the same year by a second Du
 - [[First and Second Dutch Expeditions to Acheh]]
 - [[Governorship of General van der Heyden]]
 - [[Establishment of the Dutch 'linie' (pale)]]
-- [[Treaty of 1824]]
+- [[Anglo-Dutch Treaty of 1824|Treaty of 1824]]
 - [[Fullerton memorandum]]
 
 ## Source

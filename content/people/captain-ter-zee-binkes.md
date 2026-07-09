@@ -14,7 +14,7 @@ Binkes worked closely with the marine lieutenant [[C. J. Visser]] and was noted 
 
 ## See Also
 - [[General-Major Köhler]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Mesigit]]
 - [[Aceh War (1873–1904)]]
 

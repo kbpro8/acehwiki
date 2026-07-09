@@ -14,14 +14,14 @@ The [[Aceh War|Atjeh-oorlog]] had, by the end of [[1891]], continued "onverzwakt
 
 ## Significance
 
-For AcehWiki, W. K. Baron van Dedem is significant as the Minister of Colonies whose [[1892]] declaration of a firm policy toward the Atjehnese — "geen heil van toegeven en zachtheid" (no good from yielding and softness) — is recorded by [[Dr. W. A. Terwogt|Terwogt]] as the basis of the author's hope for the conclusion of the Atjeh-oorlog. The declaration marks a turn in the Dutch political posture toward the war — from the "wisselende houding" (wavering attitude) that [[Dr. W. A. Terwogt|Terwogt]] blames for the protraction of the war, to the firm policy that would, within a few years, be embodied in the governorship of [[J. B. van Heutsz|Van Heutsz]] and the pacification of Atjeh. Van Dedem's declaration is thus the political prelude to the final phase of the Atjeh-oorlog.
+For AcehWiki, W. K. Baron van Dedem is significant as the Minister of Colonies whose [[1892]] declaration of a firm policy toward the Atjehnese — "geen heil van toegeven en zachtheid" (no good from yielding and softness) — is recorded by [[Dr. W. A. Terwogt|Terwogt]] as the basis of the author's hope for the conclusion of the Atjeh-oorlog. The declaration marks a turn in the Dutch political posture toward the war — from the "wisselende houding" (wavering attitude) that [[Dr. W. A. Terwogt|Terwogt]] blames for the protraction of the war, to the firm policy that would, within a few years, be embodied in the governorship of [[Joannes Benedictus van Heutsz|Van Heutsz]] and the pacification of Atjeh. Van Dedem's declaration is thus the political prelude to the final phase of the Atjeh-oorlog.
 
 ## See Also
 
 - [[Het Land van Jan Pieterszoon Coen (Terwogt)]]
 - [[Dr. W. A. Terwogt]]
 - [[Aceh War]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[1891]]
 - [[1892]]
 

@@ -9,11 +9,11 @@ tags: [person, author, dutch, colonial, engineer, slavery-historian]
 
 ## The Sketch of 1946
 
-The sketch was published in [[1946]] — that is, immediately after the Second World War and the German occupation of the [[Netherlands|Netherlands]], a context that Frijling makes explicit at the outset by comparing the poverty of the [[Netherlands|Netherlands]] in [[1814]] (after the French occupation) with its poverty in [[1945]] (after the German). The comparison is the foundation of Frijling's plea of *on-macht* (powerlessness) rather than *on-wil* (ill-will) for the Dutch failure to suppress slavery in the Buitengewesten after [[1814]]. The sketch is divided into roughly three parts: the failure to suppress slavery and piracy from [[1814]] to [[1872]]; the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1904]] as the consequence of that failure; and the [[Pacificatie van Atjeh|pacification]] by [[J. B. van Heutsz|Van Heutsz]] and the subsequent administrative reforms as the resolution. The sketch is preserved in the Koninklijke Bibliotheek under shelfmark 0465 0898.
+The sketch was published in [[1946]] — that is, immediately after the Second World War and the German occupation of the [[Netherlands|Netherlands]], a context that Frijling makes explicit at the outset by comparing the poverty of the [[Netherlands|Netherlands]] in [[1814]] (after the French occupation) with its poverty in [[1945]] (after the German). The comparison is the foundation of Frijling's plea of *on-macht* (powerlessness) rather than *on-wil* (ill-will) for the Dutch failure to suppress slavery in the Buitengewesten after [[1814]]. The sketch is divided into roughly three parts: the failure to suppress slavery and piracy from [[1814]] to [[1872]]; the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1904]] as the consequence of that failure; and the [[Pacificatie van Atjeh|pacification]] by [[Joannes Benedictus van Heutsz|Van Heutsz]] and the subsequent administrative reforms as the resolution. The sketch is preserved in the Koninklijke Bibliotheek under shelfmark 0465 0898.
 
 ## Significance for Atjeh Historiography
 
-Frijling's sketch is a useful, compact, secondary source for the international and political background to the [[Aceh War|Atjeh-oorlog]]. It is particularly valuable for its record of the [[American bombardment of the Atjehse coast (1831)|1831]] and [[Bombardment of the Atjehse coast by the British (1844)|1844]] foreign bombardments of the Atjehse coast — events that are otherwise poorly documented in Dutch colonial historiography — and for its sharp formulation of the Dutch *niet-inmengingspolitiek* as the cause of the protracted "schier eindeloos gesukkel" of the Atjeh war. Frijling's admiration for [[J. B. van Heutsz|Van Heutsz]] — "de man, die in zekere kringen, waar men dikwijls slaaf is van leuzen, als geweldenaar en onderdrukker te boek staat" — and his defence of Van Heutsz's policy of preserving native self-government under a thin layer of properly prepared Dutch administrators is the polemical point of the sketch.
+Frijling's sketch is a useful, compact, secondary source for the international and political background to the [[Aceh War|Atjeh-oorlog]]. It is particularly valuable for its record of the [[American bombardment of the Atjehse coast (1831)|1831]] and [[Bombardment of the Atjehse coast by the British (1844)|1844]] foreign bombardments of the Atjehse coast — events that are otherwise poorly documented in Dutch colonial historiography — and for its sharp formulation of the Dutch *niet-inmengingspolitiek* as the cause of the protracted "schier eindeloos gesukkel" of the Atjeh war. Frijling's admiration for [[Joannes Benedictus van Heutsz|Van Heutsz]] — "de man, die in zekere kringen, waar men dikwijls slaaf is van leuzen, als geweldenaar en onderdrukker te boek staat" — and his defence of Van Heutsz's policy of preserving native self-government under a thin layer of properly prepared Dutch administrators is the polemical point of the sketch.
 
 ## See Also
 
@@ -26,9 +26,9 @@ Frijling's sketch is a useful, compact, secondary source for the international a
 - [[First Aceh Expedition (1873)]]
 - [[Capture of the Kraton (24 January 1874)]]
 - [[Pacificatie van Atjeh]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[J. H. R. Köhler]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[Aceh War]]
 - [[1814]]
 - [[1946]]
@@ -43,11 +43,11 @@ J. Frijling, *Een stukje geschiedenis der Indische Buitengewesten, voor wie dat 
 
 ## The Sketch of 1946
 
-The sketch was published in [[1946]] — that is, immediately after the Second World War and the German occupation of the [[Netherlands|Netherlands]], a context that Frijling makes explicit at the outset by comparing the poverty of the [[Netherlands|Netherlands]] in [[1814]] (after the French occupation) with its poverty in [[1945]] (after the German). The comparison is the foundation of Frijling's plea of *on-macht* (powerlessness) rather than *on-wil* (ill-will) for the Dutch failure to suppress slavery in the Buitengewesten after [[1814]]. The sketch is divided into roughly three parts: the failure to suppress slavery and piracy from [[1814]] to [[1872]]; the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1904]] as the consequence of that failure; and the [[Pacificatie van Atjeh|pacification]] by [[J. B. van Heutsz|Van Heutsz]] and the subsequent administrative reforms as the resolution. The sketch is preserved in the Koninklijke Bibliotheek under shelfmark 0465 0898.
+The sketch was published in [[1946]] — that is, immediately after the Second World War and the German occupation of the [[Netherlands|Netherlands]], a context that Frijling makes explicit at the outset by comparing the poverty of the [[Netherlands|Netherlands]] in [[1814]] (after the French occupation) with its poverty in [[1945]] (after the German). The comparison is the foundation of Frijling's plea of *on-macht* (powerlessness) rather than *on-wil* (ill-will) for the Dutch failure to suppress slavery in the Buitengewesten after [[1814]]. The sketch is divided into roughly three parts: the failure to suppress slavery and piracy from [[1814]] to [[1872]]; the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1904]] as the consequence of that failure; and the [[Pacificatie van Atjeh|pacification]] by [[Joannes Benedictus van Heutsz|Van Heutsz]] and the subsequent administrative reforms as the resolution. The sketch is preserved in the Koninklijke Bibliotheek under shelfmark 0465 0898.
 
 ## Significance for Atjeh Historiography
 
-Frijling's sketch is a useful, compact, secondary source for the international and political background to the [[Aceh War|Atjeh-oorlog]]. It is particularly valuable for its record of the [[American bombardment of the Atjehse coast (1831)|1831]] and [[Bombardment of the Atjehse coast by the British (1844)|1844]] foreign bombardments of the Atjehse coast — events that are otherwise poorly documented in Dutch colonial historiography — and for its sharp formulation of the Dutch *niet-inmengingspolitiek* as the cause of the protracted "schier eindeloos gesukkel" of the Atjeh war. Frijling's admiration for [[J. B. van Heutsz|Van Heutsz]] — "de man, die in zekere kringen, waar men dikwijls slaaf is van leuzen, als geweldenaar en onderdrukker te boek staat" — and his defence of Van Heutsz's policy of preserving native self-government under a thin layer of properly prepared Dutch administrators is the polemical point of the sketch.
+Frijling's sketch is a useful, compact, secondary source for the international and political background to the [[Aceh War|Atjeh-oorlog]]. It is particularly valuable for its record of the [[American bombardment of the Atjehse coast (1831)|1831]] and [[Bombardment of the Atjehse coast by the British (1844)|1844]] foreign bombardments of the Atjehse coast — events that are otherwise poorly documented in Dutch colonial historiography — and for its sharp formulation of the Dutch *niet-inmengingspolitiek* as the cause of the protracted "schier eindeloos gesukkel" of the Atjeh war. Frijling's admiration for [[Joannes Benedictus van Heutsz|Van Heutsz]] — "de man, die in zekere kringen, waar men dikwijls slaaf is van leuzen, als geweldenaar en onderdrukker te boek staat" — and his defence of Van Heutsz's policy of preserving native self-government under a thin layer of properly prepared Dutch administrators is the polemical point of the sketch.
 
 ## See Also
 
@@ -60,9 +60,9 @@ Frijling's sketch is a useful, compact, secondary source for the international a
 - [[First Aceh Expedition (1873)]]
 - [[Capture of the Kraton (24 January 1874)]]
 - [[Pacificatie van Atjeh]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[J. H. R. Köhler]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[Aceh War]]
 - [[1814]]
 - [[1946]]

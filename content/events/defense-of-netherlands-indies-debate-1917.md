@@ -15,7 +15,7 @@ tags:
   - ww1
 ---
 
-**The defense of Netherlands Indies debate of [[1916]]–[[1917]]** was a pressing political controversy in the [[Netherlands]] over how to secure the archipelago against foreign aggression during the [[First World War]], pitting the government's stated defence plans against alternative proposals championed by [[J. B. van Heutsz]], [[J. Van der Weyden]], and their critics, notably [[Van der Maaten]].
+**The defense of Netherlands Indies debate of [[1916]]–[[1917]]** was a pressing political controversy in the [[Netherlands]] over how to secure the archipelago against foreign aggression during the [[First World War]], pitting the government's stated defence plans against alternative proposals championed by [[Joannes Benedictus van Heutsz|J. B. van Heutsz]], [[J. Van der Weyden]], and their critics, notably [[Van der Maaten]].
 
 ## Origins and Context
 
@@ -27,7 +27,7 @@ The government's position, as stated in the [[Memorie van Antwoord]], was that a
 
 ## The Van Heutsz–Van der Weyden Campaign
 
-[[J. B. van Heutsz]], leveraging his authority as conqueror of [[Acheh|Atjeh]] and former Governor-General of [[Netherlands India|Netherlands Indies]] ([[1904]]–[[1909]]), advocated for the defence proposals of his son-in-law, Lieutenant-Colonel [[J. Van der Weyden]], as set out in [[Van der Weyden's defense brochure]]. Van Heutsz delivered major public speeches at the [[Bond van Vrije Liberalen]] on [[13 January]] [[1917]] and at the Industriebond (Industriële Club) on [[17 February]] [[1917]], calling for the appointment of a *buitengewoon Regeerings-Commissaris* with unlimited powers to reform the colonial defence system — a role unmistakably pointing to himself.
+[[Joannes Benedictus van Heutsz|J. B. van Heutsz]], leveraging his authority as conqueror of [[Acheh|Atjeh]] and former Governor-General of [[Netherlands India|Netherlands Indies]] ([[1904]]–[[1909]]), advocated for the defence proposals of his son-in-law, Lieutenant-Colonel [[J. Van der Weyden]], as set out in [[Van der Weyden's defense brochure]]. Van Heutsz delivered major public speeches at the [[Bond van Vrije Liberalen]] on [[13 January]] [[1917]] and at the Industriebond (Industriële Club) on [[17 February]] [[1917]], calling for the appointment of a *buitengewoon Regeerings-Commissaris* with unlimited powers to reform the colonial defence system — a role unmistakably pointing to himself.
 
 ## The Van der Maaten Opposition
 
@@ -39,7 +39,7 @@ The debate centred on several interconnected questions. On fleet composition, th
 
 ## The Defence Demonstrations of 1916
 
-Defence demonstrations took place across [[Netherlands India|Netherlands Indies]] on [[31 August]] [[1916]], but their significance was contested. [[J. B. van Heutsz]] represented them as involving "*duizenden en nog eens duizenden Indiërs*" (thousands upon thousands of Indians), while [[Van der Maaten]] countered that most participants were "*nontonners*" who barely understood the issue.
+Defence demonstrations took place across [[Netherlands India|Netherlands Indies]] on [[31 August]] [[1916]], but their significance was contested. [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] represented them as involving "*duizenden en nog eens duizenden Indiërs*" (thousands upon thousands of Indians), while [[Van der Maaten]] countered that most participants were "*nontonners*" who barely understood the issue.
 
 ## The "Hollandsche Koopmansgeest"
 
@@ -51,7 +51,7 @@ The debate was one of the most consequential colonial defence controversies of t
 
 ## See Also
 
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[J. Van der Weyden]]
 - [[Van der Maaten]]
 - [[Van der Weyden's defense brochure]]

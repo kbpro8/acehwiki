@@ -6,7 +6,7 @@ tags: [organization, colonial, military, dutch, army]
 
 **Royal Netherlands East Indies Army** (Dutch: *Koninklijk Nederlands Indisch Leger*, abbreviated *KNIL*) was the colonial armed force of the [[Netherlands]] that served as the ground‑force component of the Dutch colonial administration in the [[Dutch East Indies]], including the [[Aceh]] region, from its formal establishment in the early nineteenth century until its dissolution after [[World War II in the Dutch East Indies]].
 
-The KNIL comprised infantry, cavalry, artillery and specialist units such as the [[Dutch Marine Corps (Netherlands)]]. It operated alongside the [[Royal Netherlands Marine Corps]] and the [[Royal Netherlands Navy]] in joint campaigns, notably during the protracted [[Aceh War]].
+The KNIL comprised infantry, cavalry, artillery and specialist units such as the [[Dutch Marine Corps (Netherlands)]]. It operated alongside the [[Royal Netherlands Marine Corps]] and the [[Dutch Navy|Royal Netherlands Navy]] in joint campaigns, notably during the protracted [[Aceh War]].
 
 ## Formation and Structure
 
@@ -14,7 +14,7 @@ The army was created to provide a permanent, professional military presence in t
 
 ## Involvement in the Aceh War
 
-The KNIL conducted the main land campaigns against the Sultanate of [[Aceh]]. During the 1875–1876 expedition, colonel [[M. P. Meyer]] coordinated army operations with the [[Royal Netherlands Marine Corps]] and naval forces from the [[Royal Netherlands Navy]]. Meyer’s report *Atjeh van 26 Dee. [[1875]] tot 4 Sept. [[1876]]* details the army’s advance inland, the establishment of fortified positions, and the logistical challenges of operating from the staging base at [[Batavia]].
+The KNIL conducted the main land campaigns against the Sultanate of [[Aceh]]. During the 1875–1876 expedition, colonel [[M. P. Meyer]] coordinated army operations with the [[Royal Netherlands Marine Corps]] and naval forces from the [[Dutch Navy|Royal Netherlands Navy]]. Meyer’s report *Atjeh van 26 Dee. [[1875]] tot 4 Sept. [[1876]]* details the army’s advance inland, the establishment of fortified positions, and the logistical challenges of operating from the staging base at [[Batavia]].
 
 ### Campaign of 1875–1876
 
@@ -34,7 +34,7 @@ In the Japanese offensive of [[1942]], KNIL units in Sumatra and Java were overw
 - [[M. P. Meyer]]
 - [[Aceh Expedition 1875–1876]]
 - [[Royal Netherlands Marine Corps]]
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Aceh War]]
 
 ## Source

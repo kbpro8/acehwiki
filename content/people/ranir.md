@@ -5,7 +5,7 @@ aliases: [Rānīr, Rānir, Ranir near Surat, Ranir (Gujarat), the father-city of
 tags: [place, town, gujarat, india, arab-migration, raniri, rifa'i, 16th-century, 17th-century]
 ---
 
-**Ranir** — also written **Rānīr** — is a coastal town near [[Surat]] in [[Gudjarat|Gujarat]], the father-city of [[Raniri|Nūruddīn ar-Rānīrī]] and the principal node of the Gujarati-Ḥadramī Sufi network from which the orthodox reaction of [[Acheh]] drew its principal Malay-Indonesian agents. The identification of Ranir as Raniri's father-city, established by [[G. W. J. Drewes|Drewes]] in *BKI* 111 (1955) and recorded by [[P. Voorhoeve|Voorhoeve]] in the introduction to his [[1955]] edition of Raniri's two Malay treatises, was the precondition for the modern understanding of Raniri's Gujarati-Ḥadramī background.
+**Ranir** — also written **Rānīr** — is a coastal town near [[Surat]] in [[Gudjarat|Gujarat]], the father-city of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and the principal node of the Gujarati-Ḥadramī Sufi network from which the orthodox reaction of [[Acheh]] drew its principal Malay-Indonesian agents. The identification of Ranir as Raniri's father-city, established by [[G. W. J. Drewes|Drewes]] in *BKI* 111 (1955) and recorded by [[P. Voorhoeve|Voorhoeve]] in the introduction to his [[1955]] edition of Raniri's two Malay treatises, was the precondition for the modern understanding of Raniri's Gujarati-Ḥadramī background.
 
 ## Identification as the father-city of Raniri
 
@@ -17,7 +17,7 @@ The coastal towns of [[Gudjarat|Gujarat]] in this period had a very internationa
 
 ## The spiritual genealogy
 
-The spiritual genealogy of [[Raniri]] — and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] — had its centre at Ranir. It was at Ranir that [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] (d. [[1620]]) succeeded his famous grandfather as religious teacher; it was at Ranir that [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]] was received into the [[Rifa'iyah order|Rifāʿiyya]] by al-ʿAddārs; and it was from Ranir that Raniri himself set out for [[Acheh]] in [[1637]] and to Ranir that he returned in [[1644]].
+The spiritual genealogy of [[Nur al-Din al-Raniri|Raniri]] — and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] — had its centre at Ranir. It was at Ranir that [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] (d. [[1620]]) succeeded his famous grandfather as religious teacher; it was at Ranir that [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]] was received into the [[Rifa'iyah order|Rifāʿiyya]] by al-ʿAddārs; and it was from Ranir that Raniri himself set out for [[Acheh]] in [[1637]] and to Ranir that he returned in [[1644]].
 
 ## Ranir as a node of transmission
 
@@ -25,12 +25,12 @@ Ranir was, in the late sixteenth and early seventeenth centuries, one of the pri
 
 ## Significance
 
-Ranir is the father-city of [[Raniri|Nūruddīn ar-Rānīrī]] and the principal node of the Gujarati-Ḥadramī Sufi network from which the orthodox reaction of [[Acheh]] drew its principal Malay-Indonesian agents. The identification of Ranir as Raniri's father-city by Drewes in [[1955]] was the precondition for the modern understanding of Raniri's background, and is the basis of the account of his family, his spiritual genealogy, and his connection with the [[Rifa'iyah order|Rifāʿiyya]] that is given in the modern scholarship on Raniri and on the religious controversy of Acheh.
+Ranir is the father-city of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and the principal node of the Gujarati-Ḥadramī Sufi network from which the orthodox reaction of [[Acheh]] drew its principal Malay-Indonesian agents. The identification of Ranir as Raniri's father-city by Drewes in [[1955]] was the precondition for the modern understanding of Raniri's background, and is the basis of the account of his family, his spiritual genealogy, and his connection with the [[Rifa'iyah order|Rifāʿiyya]] that is given in the modern scholarship on Raniri and on the religious controversy of Acheh.
 
 ## See Also
 
 - [[Abd al-Qadir al-Aidaros]]
-- [[Ahmad Rifa'i]]
+- [[Ahmad ar-Rifāʿī|Ahmad Rifa'i]]
 - [[Ahmadabad]]
 - [[Bilgram]]
 - [[Bijapur]]
@@ -39,7 +39,7 @@ Ranir is the father-city of [[Raniri|Nūruddīn ar-Rānīrī]] and the principal
 - [[Muhammad al-Addars]]
 - [[Muhammad Djailani Hamid]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Rifa'iyah order]]
 - [[Sajjid Abu Hafs Umar Ba Sjaiban]]
 - [[Surat]]
@@ -51,7 +51,7 @@ Ranir is the father-city of [[Raniri|Nūruddīn ar-Rānīrī]] and the principal
 ---
 
 
-**Ranir** — also written **Rānīr** — is a coastal town near [[Surat]] in [[Gudjarat|Gujarat]], the father-city of [[Raniri|Nūruddīn ar-Rānīrī]] and the principal node of the Gujarati-Ḥadramī Sufi network from which the orthodox reaction of [[Acheh]] drew its principal Malay-Indonesian agents. The identification of Ranir as Raniri's father-city, established by [[G. W. J. Drewes|Drewes]] in *BKI* 111 (1955) and recorded by [[P. Voorhoeve|Voorhoeve]] in the introduction to his [[1955]] edition of Raniri's two Malay treatises, was the precondition for the modern understanding of Raniri's Gujarati-Ḥadramī background.
+**Ranir** — also written **Rānīr** — is a coastal town near [[Surat]] in [[Gudjarat|Gujarat]], the father-city of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and the principal node of the Gujarati-Ḥadramī Sufi network from which the orthodox reaction of [[Acheh]] drew its principal Malay-Indonesian agents. The identification of Ranir as Raniri's father-city, established by [[G. W. J. Drewes|Drewes]] in *BKI* 111 (1955) and recorded by [[P. Voorhoeve|Voorhoeve]] in the introduction to his [[1955]] edition of Raniri's two Malay treatises, was the precondition for the modern understanding of Raniri's Gujarati-Ḥadramī background.
 
 ## Identification as the father-city of Raniri
 
@@ -63,7 +63,7 @@ The coastal towns of [[Gudjarat|Gujarat]] in this period had a very internationa
 
 ## The spiritual genealogy
 
-The spiritual genealogy of [[Raniri]] — and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] — had its centre at Ranir. It was at Ranir that [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] (d. [[1620]]) succeeded his famous grandfather as religious teacher; it was at Ranir that [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]] was received into the [[Rifa'iyah order|Rifāʿiyya]] by al-ʿAddārs; and it was from Ranir that Raniri himself set out for [[Acheh]] in [[1637]] and to Ranir that he returned in [[1644]].
+The spiritual genealogy of [[Nur al-Din al-Raniri|Raniri]] — and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] — had its centre at Ranir. It was at Ranir that [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] (d. [[1620]]) succeeded his famous grandfather as religious teacher; it was at Ranir that [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]] was received into the [[Rifa'iyah order|Rifāʿiyya]] by al-ʿAddārs; and it was from Ranir that Raniri himself set out for [[Acheh]] in [[1637]] and to Ranir that he returned in [[1644]].
 
 ## Ranir as a node of transmission
 
@@ -71,12 +71,12 @@ Ranir was, in the late sixteenth and early seventeenth centuries, one of the pri
 
 ## Significance
 
-Ranir is the father-city of [[Raniri|Nūruddīn ar-Rānīrī]] and the principal node of the Gujarati-Ḥadramī Sufi network from which the orthodox reaction of [[Acheh]] drew its principal Malay-Indonesian agents. The identification of Ranir as Raniri's father-city by Drewes in [[1955]] was the precondition for the modern understanding of Raniri's background, and is the basis of the account of his family, his spiritual genealogy, and his connection with the [[Rifa'iyah order|Rifāʿiyya]] that is given in the modern scholarship on Raniri and on the religious controversy of Acheh.
+Ranir is the father-city of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and the principal node of the Gujarati-Ḥadramī Sufi network from which the orthodox reaction of [[Acheh]] drew its principal Malay-Indonesian agents. The identification of Ranir as Raniri's father-city by Drewes in [[1955]] was the precondition for the modern understanding of Raniri's background, and is the basis of the account of his family, his spiritual genealogy, and his connection with the [[Rifa'iyah order|Rifāʿiyya]] that is given in the modern scholarship on Raniri and on the religious controversy of Acheh.
 
 ## See Also
 
 - [[Abd al-Qadir al-Aidaros]]
-- [[Ahmad Rifa'i]]
+- [[Ahmad ar-Rifāʿī|Ahmad Rifa'i]]
 - [[Ahmadabad]]
 - [[Bilgram]]
 - [[Bijapur]]
@@ -85,7 +85,7 @@ Ranir is the father-city of [[Raniri|Nūruddīn ar-Rānīrī]] and the principal
 - [[Muhammad al-Addars]]
 - [[Muhammad Djailani Hamid]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Rifa'iyah order]]
 - [[Sajjid Abu Hafs Umar Ba Sjaiban]]
 - [[Surat]]

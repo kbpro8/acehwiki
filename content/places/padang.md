@@ -4,7 +4,7 @@ aliases: [Padang (Sumatra), Padang highlands, West-Coast Padang, Highlands of Pa
 tags: [place, foreign, region, coast, highland, sumatra, minangkabau, adat, city, colony, westkust, colonial, dutch, british]
 ---
 
-**Padang** was the chief Dutch colonial station and major port on the west coast of [[Sumatra]], serving as the administrative centre of the VOC’s Westkust government, a cultural hub of the [[Menangkabau|Minangkabau]] *adat*, and later, after the [[Anglo-Dutch Treaty of 1824|Anglo‑Dutch Treaty of 1824]] on [[2 January]] [[1665]], transferred to [[British Empire]] control under the 1824 treaty; the cession reshaped Dutch strategic focus toward the [[Sultanate of Aceh]] and intensified competition over the Strait of Malacca. In *The Achehnese* Vol. I, C. Snouck Hurgronje cites Padang for its role in the [[Hasan-Husain festival]], as a centre of Minangkabau cultural production, and as the source of settlers in [[Acheh]].
+**Padang** was the chief Dutch colonial station and major port on the west coast of [[Sumatra]], serving as the administrative centre of the VOC’s Westkust government, a cultural hub of the [[Menangkabau|Minangkabau]] *adat*, and later, after the [[Anglo-Dutch Treaty of 1824|Anglo‑Dutch Treaty of 1824]] on [[2 January]] [[1665]], transferred to [[British Empire]] control under the 1824 treaty; the cession reshaped Dutch strategic focus toward the [[Sultanate of Aceh]] and intensified competition over the Strait of Malacca. In *The Achehnese* Vol. I, C. Snouck Hurgronje cites Padang for its role in the [[Hasan-Husain Festival|Hasan-Husain festival]], as a centre of Minangkabau cultural production, and as the source of settlers in [[Acheh]].
 
 ## Dutch VOC Presence and Institutional Role
 
@@ -20,7 +20,7 @@ The [[Padang Conference (29 August 1680)|1680 conference]] produced a new genera
 
 ### Hasan‑Husain Festival
 
-Snouck Hurgronje records that the [[Hasan-Husain festival]] was celebrated on the West Coast of Sumatra—including Padang and [[Bencoolen]]—in a manner similar to the description in the *Qanoon‑e‑islam*. He notes that the festival “were for the most part got up by the Padang people who have settled there” in [[Acheh]], with occasional participation by Klings and Hindus, while the Achehnese acted mainly as spectators.
+Snouck Hurgronje records that the [[Hasan-Husain Festival|Hasan-Husain festival]] was celebrated on the West Coast of Sumatra—including Padang and [[Bencoolen]]—in a manner similar to the description in the *Qanoon‑e‑islam*. He notes that the festival “were for the most part got up by the Padang people who have settled there” in [[Acheh]], with occasional participation by Klings and Hindus, while the Achehnese acted mainly as spectators.
 
 ### Minangkabau Eloquence and Padang Publications
 
@@ -57,9 +57,9 @@ Padang’s long‑term role as the VOC’s Westkust headquarters, the seat of th
 - [[Kuta Raja]]
 - [[Trumon]]
 - [[West Coast (of Acheh)]]
-- [[Hasan-Husain festival]]
+- [[Hasan-Husain Festival|Hasan-Husain festival]]
 - [[Banten]]
-- [[Menangkabau territories]]
+- [[Menangkabau|Menangkabau territories]]
 - [[Acheh]]
 - [[Java]]
 - [[Batavia]]

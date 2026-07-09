@@ -22,7 +22,7 @@ The chronicle was made accessible to European scholarship by two nineteenth-cent
 Both editions are listed in the *Lijst van geschriften* (bibliography) of [[Kreemer's De Karbouw ([[1956]])|*De Karbouw*]] (pp. 261, 264), and remained the principal European-language access-points to the Pasai chronicle through the late nineteenth and early twentieth centuries.
 
 ## Significance
-The *Hikajat Radja-radja Pasei* is significant for the encyclopedia of [[Acheh]] history as the foundational Malay chronicle of the kings of [[Pasei|Samudra Pasai]] — the principal Muslim predecessor-state of the [[Acheh|Atjeh]] sultanate on the northern Sumatran coast, and one of the earliest Muslim kingdoms in the Indonesian archipelago. The chronicle is a document of the early Muslim history of northern Sumatra, a literary monument of the Malay chronicle tradition, and a textual witness to the Minangkabau buffalo-fight founding legend. Its European editions by [[E. Dulaurier]] ([[1849]]) and [[A. Marre]] ([[1874]]) anchored the Pasai material in European scholarship a generation before the great Dutch ethnographic syntheses of [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] ([[1893]]-94) and [[J. Kreemer|Kreemer]] ([[1922]]-23), and remain citable reference-points in modern scholarly literature on early Muslim Atjeh.
+The *Hikajat Radja-radja Pasei* is significant for the encyclopedia of [[Acheh]] history as the foundational Malay chronicle of the kings of [[Pasei|Samudra Pasai]] — the principal Muslim predecessor-state of the [[Acheh|Atjeh]] sultanate on the northern Sumatran coast, and one of the earliest Muslim kingdoms in the Indonesian archipelago. The chronicle is a document of the early Muslim history of northern Sumatra, a literary monument of the Malay chronicle tradition, and a textual witness to the Minangkabau buffalo-fight founding legend. Its European editions by [[E. Dulaurier]] ([[1849]]) and [[A. Marre]] ([[1874]]) anchored the Pasai material in European scholarship a generation before the great Dutch ethnographic syntheses of [[C. Snouck Hurgronje|Snouck Hurgronje]] ([[1893]]-94) and [[J. Kreemer|Kreemer]] ([[1922]]-23), and remain citable reference-points in modern scholarly literature on early Muslim Atjeh.
 
 
 ## Sources
@@ -34,7 +34,7 @@ The *Hikajat Radja-radja Pasei* is significant for the encyclopedia of [[Acheh]]
 ## See Also
 - [[A. Marre]]
 - [[Atjeh bloeitijdperk ([[1607]]-[[1636]])]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[E. Dulaurier]]
 - [[J. Kreemer]]
 - [[J. L. A. Brandes]]

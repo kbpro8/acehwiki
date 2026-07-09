@@ -22,11 +22,11 @@ In the provinces directly subject to the Dutch government there is, of course, i
 
 This *ta'liq*-adat, so far from being exceptional, is deeply rooted in the necessity for rendering the position of the married woman more favourable than it is under the Mohammedan law, while yet avoiding as far as possible all conflict with that law. The most unequivocal confirmation of this explanation is to be found in the fact that it supplies a satisfactory reason for the absence of the *ta'liq* from among the essential adjuncts of marriages in some countries. The two principal countries without the *ta'liq*-adat are Acheh and the [[Menangkabau|Menangkabau]] territories. In both of these the woman is, so far as lodging and maintenance are concerned, practically independent of her husband, since she continues to form an integral part of the family wherein she was born. An Achehnese woman whose husband has gone as a pepper-planter to the East or West Coast and gives no sign of his existence for years may indeed feel unhappy; but as she lives in her own house either together with or in the immediate neighbourhood of her own family, she is seldom constrained to demand a dissolution of marriage by *faskh*. In the same way there exists no necessity for facilitating by conditional divorce such dissolution of wedlock, which is most difficult to obtain by *faskh*.
 
-The absence of the *janjining ratu* in Acheh is thus a direct consequence of the [[Janji Jinamee|janji jinamee]] system and of the matrilocal character of Achehnese marriage. Where the wife continues to live under the protection of her own kin, and where the husband's obligations are limited to occasional visits and presents, the protective mechanism of the *ta'liq* is superfluous. Its absence, Hurgronje observes, is the strongest proof that the *ta'liq*-adat elsewhere arose from the social necessity of protecting women in patrilocal societies.
+The absence of the *janjining ratu* in Acheh is thus a direct consequence of the [[Jinamee|janji jinamee]] system and of the matrilocal character of Achehnese marriage. Where the wife continues to live under the protection of her own kin, and where the husband's obligations are limited to occasional visits and presents, the protective mechanism of the *ta'liq* is superfluous. Its absence, Hurgronje observes, is the strongest proof that the *ta'liq*-adat elsewhere arose from the social necessity of protecting women in patrilocal societies.
 
 ## See Also
 
-- [[Janji Jinamee]]
+- [[Jinamee|Janji Jinamee]]
 - [[Tueng Meunar]]
 - [[Bale Meudeuhab]]
 - [[Ruju']]

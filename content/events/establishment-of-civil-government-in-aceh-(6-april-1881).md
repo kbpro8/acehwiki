@@ -4,7 +4,7 @@ aliases: [Instelling van het civiel bestuur in Atjeh, Civil Governor in Atjeh, P
 tags: [event, government, dutch-colonial, aceh-war, administrative]
 ---
 
-**The Establishment of Civil Government in Aceh** on [[6 April]] [[6 April]] [[1881]] was the separation of the civil and military commands in [[Acheh|Atjeh]] by the Governor-General [[J. W. van Lansberge|Van Lansberge]] and the appointment of [[A. Pruys van der Hoeven|A. Pruys van der Hoeven]] as civil governor of the gewest Atjeh en Onderhoorigheden, with Colonel [[J. F. Haus|J. F. Haus]] taking the military command. The establishment of civil government was preceded by the administrative reorganisation drafted by the commission of [[K. van der Heyden|Van der Heyden]] and Pruys van der Hoeven in [[1880]]-[[1881]], and by the mission of [[T. H. der Kinderen|T. H. der Kinderen]] to Atjeh in [[November 1880|November 1880]]-[[February 1881|February 1881]] for the reorganisation of justice in the buitenbezittingen. It was one of the last administrative acts of Van Lansberge, who had himself requested discharge for health reasons.
+**The Establishment of Civil Government in Aceh** on [[6 April]] [[6 April]] [[1881]] was the separation of the civil and military commands in [[Acheh|Atjeh]] by the Governor-General [[Johan Willem van Lansberge|Van Lansberge]] and the appointment of [[A. Pruys van der Hoeven|A. Pruys van der Hoeven]] as civil governor of the gewest Atjeh en Onderhoorigheden, with Colonel [[J. F. Haus|J. F. Haus]] taking the military command. The establishment of civil government was preceded by the administrative reorganisation drafted by the commission of [[K. van der Heyden|Van der Heyden]] and Pruys van der Hoeven in [[1880]]-[[1881]], and by the mission of [[T. H. der Kinderen|T. H. der Kinderen]] to Atjeh in [[November 1880|November 1880]]-[[February 1881|February 1881]] for the reorganisation of justice in the buitenbezittingen. It was one of the last administrative acts of Van Lansberge, who had himself requested discharge for health reasons.
 
 ## Background
 
@@ -36,7 +36,7 @@ The discharge to Van der Heyden — "which set many pens in motion, and also gav
 - [[K. van der Heyden]]
 - [[J. F. Haus]]
 - [[T. H. der Kinderen]]
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[Kota Radja]]
 - [[Telok Semawe]]
 - [[Malaboeh]]

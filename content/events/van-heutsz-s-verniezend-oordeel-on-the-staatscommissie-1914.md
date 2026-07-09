@@ -18,11 +18,11 @@ tags:
 
 ## Background
 
-The [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]] (State Commission for the Defense of Netherlands Indies) issued its report in [[1913]]. [[J. B. van Heutsz]] had declined to serve on this Commission, dismissing its work as *monnikenwerk* (monk's work) — a characterization that was widely reported in Indian newspapers by mid-[[1912]] and that had already undermined the Commission's credibility before it concluded its deliberations.
+The [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]] (State Commission for the Defense of Netherlands Indies) issued its report in [[1913]]. [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] had declined to serve on this Commission, dismissing its work as *monnikenwerk* (monk's work) — a characterization that was widely reported in Indian newspapers by mid-[[1912]] and that had already undermined the Commission's credibility before it concluded its deliberations.
 
 ## The Judgment
 
-On [[9 January]] [[1914]], at a meeting of the [[Vereeniging ter Beoefening van de Krijgswetenschap]], [[J. B. van Heutsz]] authorized his son-in-law [[Lieutenant-Colonel J. Van der Weyden|J. Van der Weyden]] to quote his private judgment on the Commission's report. Van Heutsz's words, as relayed by Van der Weyden, were:
+On [[9 January]] [[1914]], at a meeting of the [[Vereeniging ter Beoefening van de Krijgswetenschap]], [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] authorized his son-in-law [[Lieutenant-Colonel J. Van der Weyden|J. Van der Weyden]] to quote his private judgment on the Commission's report. Van Heutsz's words, as relayed by Van der Weyden, were:
 
 > *Het is mijn vaste overtuiging, dat, bij uitvoering van de voorstellen der S. C., Nederland — hoewel echt Nederlandsch langzaam en zuinigjes — zal wegwerpen veel geld voor: Een vloot, die niet vechten zal — en Een leger, dat niet vechten kan.*
 
@@ -36,15 +36,15 @@ On [[27 February]] [[1914]], at a follow-up meeting of the [[Vereeniging ter Beo
 
 ## Van der Maaten's Criticism
 
-[[Van der Maaten]] argued that [[J. B. van Heutsz|Van Heutsz]] had no right to issue such a devastating judgment, since he himself, as [[Governor-General of Netherlands Indies|Governor-General]] ([[1904]]–[[1909]]), had been unable to accomplish anything substantive on the question of defense. Van der Maaten noted that the [[Staatscommissie voor de Verdediging van Nederlandsch-Indië|Commission]] included no *kwajongens* (troublemakers) and observed that Van Heutsz, in his capacity as Adjutant-Generaal of the Queen and Groot-Officier of the Kroon, owed a duty of loyalty. Van der Maaten characterized this episode as part of a broader pattern in which Van Heutsz misused his name and prestige to advance his post-governorship defense advocacy.
+[[Van der Maaten]] argued that [[Joannes Benedictus van Heutsz|Van Heutsz]] had no right to issue such a devastating judgment, since he himself, as [[Governor-General of Netherlands Indies|Governor-General]] ([[1904]]–[[1909]]), had been unable to accomplish anything substantive on the question of defense. Van der Maaten noted that the [[Staatscommissie voor de Verdediging van Nederlandsch-Indië|Commission]] included no *kwajongens* (troublemakers) and observed that Van Heutsz, in his capacity as Adjutant-Generaal of the Queen and Groot-Officier of the Kroon, owed a duty of loyalty. Van der Maaten characterized this episode as part of a broader pattern in which Van Heutsz misused his name and prestige to advance his post-governorship defense advocacy.
 
 ## Significance
 
-The *vernietzend oordeel* illustrated the depth of division within Dutch military and political circles over the defense of [[Netherlands India|Netherlands Indies]]. It demonstrated that [[J. B. van Heutsz|Van Heutsz]], even in retirement, retained the capacity to shape public debate and to undermine official commissions whose conclusions he disagreed with. The episode also revealed the willingness of critics such as [[Van der Maaten]] to challenge Van Heutsz's authority and to question whether his past record entitled him to such sweeping condemnations.
+The *vernietzend oordeel* illustrated the depth of division within Dutch military and political circles over the defense of [[Netherlands India|Netherlands Indies]]. It demonstrated that [[Joannes Benedictus van Heutsz|Van Heutsz]], even in retirement, retained the capacity to shape public debate and to undermine official commissions whose conclusions he disagreed with. The episode also revealed the willingness of critics such as [[Van der Maaten]] to challenge Van Heutsz's authority and to question whether his past record entitled him to such sweeping condemnations.
 
 ## See Also
 
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]]
 - [[Vereeniging ter Beoefening van de Krijgswetenschap]]
 - [[J. Van der Weyden]]

@@ -18,9 +18,9 @@ The commission was barely constituted before [[Sir Thomas Stamford Raffles|Raffl
 
 ## Seven Weeks at Banda Acheh
 
-The commission anchored off [[Banda Acheh]] on [[14 March 1819|14 March [[1819]]]]. There was no sultan at the capital: authority was, as the Bengal government reported to London, "exercised in name by the council of the Sagis, but in reality by [[Panglima Polim|Panglima Polim]] with his adherents." The [[Three Sagis|three Sagis]] — the chiefs of the [[XXII Mukims|XXII]], [[XXV Mukims|XXV]] and [[XXVI Mukims|XXVI Mukims]] — were the traditional guardians of the sultanate. The commission sent a circular summoning the chiefs to a conference; [[Panglima Polim|Polim]] replied from the [[XXII Mukims|XXII Mukims]] that the meeting would take place in eight days and that, until then, the commissioners were not to land.
+The commission anchored off [[Banda Acheh]] on [[14 March 1819|14 March [[1819]]]]. There was no sultan at the capital: authority was, as the Bengal government reported to London, "exercised in name by the council of the Sagis, but in reality by [[Panglima Polem|Panglima Polem]] with his adherents." The [[Three Sagis|three Sagis]] — the chiefs of the [[XXII Mukims|XXII]], [[XXV Mukims|XXV]] and [[XXVI Mukims|XXVI Mukims]] — were the traditional guardians of the sultanate. The commission sent a circular summoning the chiefs to a conference; [[Panglima Polem|Polim]] replied from the [[XXII Mukims|XXII Mukims]] that the meeting would take place in eight days and that, until then, the commissioners were not to land.
 
-Although the prohibition extended only to the commission as a body, the receptions the commissioners met with when they did land were, in Van der Kemp's words, "extremely uncivil" — corresponding closely to the insulting reception later reported by the crew of the *[[Wilhelmina mutiny and murder of Bouwens|Wilhelmina]]* (22–24 June 1819). The populace began to throw up fortifications at the mouth of the [[Acheh River]], of which the commission complained to [[Panglima Polim|Polim]]. When Polim at last appeared and took up residence in the palace, the Bengal government concluded that he alone was the actual ruler, that [[Sultan Jauhar Alum]] was not acknowledged at all, and that [[Sultan Saif ul-Alum|Syf]] at [[Telok Semawé]] was merely a tool in the hands of the parties.
+Although the prohibition extended only to the commission as a body, the receptions the commissioners met with when they did land were, in Van der Kemp's words, "extremely uncivil" — corresponding closely to the insulting reception later reported by the crew of the *[[Wilhelmina mutiny and murder of Bouwens|Wilhelmina]]* (22–24 June 1819). The populace began to throw up fortifications at the mouth of the [[Acheh River]], of which the commission complained to [[Panglima Polem|Polim]]. When Polim at last appeared and took up residence in the palace, the Bengal government concluded that he alone was the actual ruler, that [[Sultan Jauhar Alum]] was not acknowledged at all, and that [[Sultan Saif ul-Alum|Syf]] at [[Telok Semawé]] was merely a tool in the hands of the parties.
 
 ## The Paper War
 
@@ -28,7 +28,7 @@ By this time the divisions within the commission itself had erupted. [[Sir Thoma
 
 ## Conclusion at Pedir
 
-At Pedir the commission was received by [[Sultan Jauhar Alum]], and the [[Treaty of Pedir (1819)|treaty of 22 April 1819]] was signed. Arms and a draft for 100,000 rupees were handed to the sultan; the commission then proceeded to [[Telok Semawé]] to demand that [[Sultan Saif ul-Alum|Syf]] renounce his claims, which he did in a submission as worthless as the treaty itself. The Bengal government, in its report to London of 7 October 1820, expressed its dissatisfaction: it was well enough that Syf had been dropped, but to furnish arms and money in return for nothing but evil promises seemed indefensible. [[Sir Thomas Stamford Raffles|Raffles]]'s own self-congratulation Van der Kemp characterises as pure exaggeration: nothing had been gained, and the commission might as well have stayed at home. Yet the [[Treaty of Pedir (1819)|treaty]] it produced would, five years later in London, supply the pretext for the [[Anglo-Dutch Treaty of London (1824)|Acheh declaration annexed to the Anglo-Dutch Treaty of 17 March 1824]] — and so, in Van der Kemp's argument, condemn the Netherlands to half a century of impotence on Sumatra.
+At Pedir the commission was received by [[Sultan Jauhar Alum]], and the [[Treaty of Pedir (1819)|treaty of 22 April 1819]] was signed. Arms and a draft for 100,000 rupees were handed to the sultan; the commission then proceeded to [[Telok Semawé]] to demand that [[Sultan Saif ul-Alum|Syf]] renounce his claims, which he did in a submission as worthless as the treaty itself. The Bengal government, in its report to London of 7 October 1820, expressed its dissatisfaction: it was well enough that Syf had been dropped, but to furnish arms and money in return for nothing but evil promises seemed indefensible. [[Sir Thomas Stamford Raffles|Raffles]]'s own self-congratulation Van der Kemp characterises as pure exaggeration: nothing had been gained, and the commission might as well have stayed at home. Yet the [[Treaty of Pedir (1819)|treaty]] it produced would, five years later in London, supply the pretext for the [[Anglo-Dutch Treaty of 1824|Acheh declaration annexed to the Anglo-Dutch Treaty of 17 March 1824]] — and so, in Van der Kemp's argument, condemn the Netherlands to half a century of impotence on Sumatra.
 
 ## See Also
 
@@ -47,11 +47,11 @@ At Pedir the commission was received by [[Sultan Jauhar Alum]], and the [[Treaty
 - [[Paper war]]
 - [[Sultan Jauhar Alum]]
 - [[Sultan Saif ul-Alum]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Banda Acheh]]
 - [[Pedir]]
 - [[Telok Semawé]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Source
 

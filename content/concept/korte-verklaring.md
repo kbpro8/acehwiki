@@ -4,7 +4,7 @@ aliases: [Korte Verklaring, Korte Verklaringen, Short Declaration, korte verklar
 tags: [concept, colonial, dutch, sovereignty, document, legal, achehnese, administration, treaty, buitenbezittingen, zelfbesturen]
 ---
 
-**The Korte Verklaring** — "Short Declaration" — was the standard colonial compact by which the [[Gouvernement Atjeh en Onderhoorigheden|Nederlandsch-Indisch Gouvernement]] recognised a native chief as *zelfbestuurder* — self-ruler — of his *landschap*, replacing the [[Sarakata|sarakata]] of the [[Sultans of Atjeh|Sultans of Atjeh]] as the documentary basis of native authority in Atjeh and its Onderhoorigheden. Introduced by Governor [[J. B. van Heutsz|J. B. van Heutsz]] as part of his pacification system during his governorship of Aceh ([[1898]]–[[1904]]) and later extended to other troubled regions of the Dutch East Indies during his Governor-Generalship ([[1904]]–[[1909]]), the declaration became a central tool of colonial policy whose most controversial provision — Article 3, obliging the ruler to obey all future regulations that the Dutch government might issue — critics argued eliminated any real autonomy and reduced the ruler to a mere official.
+**The Korte Verklaring** — "Short Declaration" — was the standard colonial compact by which the [[Gouvernement Atjeh en Onderhoorigheden|Nederlandsch-Indisch Gouvernement]] recognised a native chief as *zelfbestuurder* — self-ruler — of his *landschap*, replacing the [[Sarakata|sarakata]] of the [[Sultans of Atjeh|Sultans of Atjeh]] as the documentary basis of native authority in Atjeh and its Onderhoorigheden. Introduced by Governor [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] as part of his pacification system during his governorship of Aceh ([[1898]]–[[1904]]) and later extended to other troubled regions of the Dutch East Indies during his Governor-Generalship ([[1904]]–[[1909]]), the declaration became a central tool of colonial policy whose most controversial provision — Article 3, obliging the ruler to obey all future regulations that the Dutch government might issue — critics argued eliminated any real autonomy and reduced the ruler to a mere official.
 
 ## Origin and purpose
 
@@ -40,7 +40,7 @@ Article 3 drew intense criticism from both conservative and progressive quarters
 
 > "Van het te niet doen van alle rechten der Inlandsche bestuurders, in dien zin dat na het afleggen der verklaring met die bestuurders in het geheel geen rekening meer behoeft te worden gehouden, behoort m.i. ook onder het stelsel der korte verklaring geen sprake te zijn."
 
-In Aceh specifically, its rigid application under [[G. C. E. van Daalen|Van Daalen]] in ways Van Heutsz had not intended contributed to the abuses that led to the [[Atjéh-enquête|Atjéh-enquête]] and Van Daalen's removal. The declaration had been devised to support and guide chiefs; Van Daalen used it as a framework for fines, arbitrary dismissals, and coercion.
+In Aceh specifically, its rigid application under [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] in ways Van Heutsz had not intended contributed to the abuses that led to the [[Atjéh-enquête|Atjéh-enquête]] and Van Daalen's removal. The declaration had been devised to support and guide chiefs; Van Daalen used it as a framework for fines, arbitrary dismissals, and coercion.
 
 ## Later developments
 
@@ -48,7 +48,7 @@ In [[1914]] the government issued the *Zelfbestuursordonnantie* to clarify the p
 
 ## Account from *Dispereert Niet Vol. XI* (1946) — Korte Verklaring
 
-The **Korte Verklaring** (Short Declaration) was a legal instrument used by the Dutch colonial administration to formalize relations with local rulers in **[[Aceh]]** and other parts of the Netherlands East Indies after the pacification campaigns of **[[J. B. van Heutsz]]**. It replaced earlier lengthy agreements with a simple three-point declaration of submission.
+The **Korte Verklaring** (Short Declaration) was a legal instrument used by the Dutch colonial administration to formalize relations with local rulers in **[[Aceh]]** and other parts of the Netherlands East Indies after the pacification campaigns of **[[Joannes Benedictus van Heutsz|J. B. van Heutsz]]**. It replaced earlier lengthy agreements with a simple three-point declaration of submission.
 
 ### The Three Points
 
@@ -71,8 +71,8 @@ The Korte Verklaring was designed to:
 In Aceh, the Korte Verklaring was applied after the submission of **[[Panglima Polem]]** and other leaders. It was the instrument by which nominal Dutch authority was replaced with effective control.
 
 ## See Also
-- [[J. B. van Heutsz]]
-- [[G. C. E. van Daalen]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[H. N. A. Swart]]
 - [[Atjéh-enquête]]
 - [[Pacificatie van Atjeh]]
@@ -105,7 +105,7 @@ In Aceh, the Korte Verklaring was applied after the submission of **[[Panglima P
 - [[1919]]
 - [[1927]]
 - [[1938]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Sources
 

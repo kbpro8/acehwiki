@@ -4,7 +4,7 @@ aliases: ["Lieutenant De Petit", "De Petit"]
 tags: [person, military, dutch, marine, aceh, colonial]
 ---
 
-**Lieutenant De Petit** was a Dutch marine officer who commanded a marine company serving as reserve during the **Adjoen** engagement on [[30 December]] [[1875]], and who, together with [[Captain De Gelder]], [[Lieutenant Verhey]], [[Lieutenant Mirandolle]] and [[Lieutenant Cambier]], formed part of the marine detachment operating in [[Aceh]] during the winter of [[1875]]–[[1876]]. His forces supported artillery batteries, secured the kampong after the enemy withdrew, advanced across the [[sawah]] towards [[Lamhasan]], helped construct a bridge over the [[Loëng Lemo]] river, and participated in the subsequent march toward the [[Atjeh-rivier]] and the [[Blang Kala]] pass.
+**Lieutenant De Petit** was a Dutch marine officer who commanded a marine company serving as reserve during the **Adjoen** engagement on [[30 December]] [[1875]], and who, together with [[Captain De Gelder]], [[J. B. Verhey|Lieutenant Verhey]], [[Mirandolle|Lieutenant Mirandolle]] and [[Lieutenant Cambier]], formed part of the marine detachment operating in [[Aceh]] during the winter of [[1875]]–[[1876]]. His forces supported artillery batteries, secured the kampong after the enemy withdrew, advanced across the [[sawah]] towards [[Lamhasan]], helped construct a bridge over the [[Loëng Lemo]] river, and participated in the subsequent march toward the [[Atjeh-rivier]] and the [[Blang Kala]] pass.
 
 ## Operations in the Adjoen Engagement (1875)
 
@@ -12,7 +12,7 @@ During the battle on [[30 December]] [[1875]], De Petit’s company acted as a r
 
 ## River Crossing and Marches (Winter 1875–1876)
 
-In the winter months of [[1875]]–[[1876]], De Petit’s marine detachment was tasked with engineering and logistical duties. The unit assisted in constructing a bridge over the [[Loëng Lemo]] river, enabling the Dutch column to cross the waterway safely. Following the bridge work, the company joined the broader march toward the [[Atjeh-rivier]], linking up with other marine officers such as [[Captain De Gelder]], [[Lieutenant Verhey]] and [[Lieutenant Mirandolle]] as they progressed deeper into Aceh’s interior.
+In the winter months of [[1875]]–[[1876]], De Petit’s marine detachment was tasked with engineering and logistical duties. The unit assisted in constructing a bridge over the [[Loëng Lemo]] river, enabling the Dutch column to cross the waterway safely. Following the bridge work, the company joined the broader march toward the [[Atjeh-rivier]], linking up with other marine officers such as [[Captain De Gelder]], [[J. B. Verhey|Lieutenant Verhey]] and [[Mirandolle|Lieutenant Mirandolle]] as they progressed deeper into Aceh’s interior.
 
 ## Significance
 
@@ -20,11 +20,11 @@ Lieutenant De Petit’s role illustrates the Dutch colonial military practice of
 
 ## See Also
 
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Adjoen]]
 - [[Lamhasan]]
 - [[Lieutenant Cambier]]
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 - [[Captain De Gelder]]
 - [[Loëng Lemo]]
 - [[Atjeh-rivier]]

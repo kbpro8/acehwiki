@@ -3,11 +3,11 @@ title: Bataq doeloe poeloh toedjéh
 aliases: [Batak Tua Puluh Tujuh, Immigration of the Twenty-Seven Bataks, Batak 27, Bataq doelpoeloh toedjéh]
 tags: [event, immigration, gayo, batak, legendary]
 ---
-**The Bataq doeloe poeloh toedjéh** — the "Twenty-Seven Bataks" (Malay *dua puluh tujuh*) — is the legendary immigration of a party of [[Bataks|Batak]] settlers into the [[Gajoland|Gajolanden]] that established the colony of [[Wibasan|Wibasan]] to the west of [[Laoet Tawar|Laoet Tawar]] and later swarmed out from [[Bobasan|Bobasan]] to populate a wide territory, displacing the earlier Saëda-descended [[Boekét|Boekét]] chiefs and founding the [[Redjë Tjèq|Redjë Tjèq]] polity. The Encyclopaedisch Bureau records that the immigration "nog door tal van legenden in de herinnering van het volk voortleeft" — still lives on in the memory of the people through numerous legends.
+**The Bataq doeloe poeloh toedjéh** — the "Twenty-Seven Bataks" (Malay *dua puluh tujuh*) — is the legendary immigration of a party of [[Bataks|Batak]] settlers into the [[Gajoland|Gajolanden]] that established the colony of [[Wibasan|Wibasan]] to the west of [[Laut Tawar|Laut Tawar]] and later swarmed out from [[Bobasan|Bobasan]] to populate a wide territory, displacing the earlier Saëda-descended [[Boekét|Boekét]] chiefs and founding the [[Redjë Tjèq|Redjë Tjèq]] polity. The Encyclopaedisch Bureau records that the immigration "nog door tal van legenden in de herinnering van het volk voortleeft" — still lives on in the memory of the people through numerous legends.
 
 ## The colony at Wibasan
 
-The original settlement at Wibasan was, the handbook notes, a "oorspronkelijk kleine kolonie" — originally a small colony — that has since "zich sterk uitgebreid" — strongly expanded. From Bobasan the settlers "uitgezwermd over een wijd gebied." Strikingly for a Gayo context, in which the endemic pattern was the splintering of small *snipperrepubliekjes*, the colony "niets van haren onderlingen samenhang heeft ingeboet" — lost nothing of its internal cohesion. [[Christiaan Snouck Hurgronje|Prof. Dr. Snouck Hurgronje]] is quoted in the handbook (p. 151) as observing that "in heel het Gajöland met zijne tallooze snipperrepubliekjes" there is no commonwealth of such extent "welks deelen zoo innig verbonden zijn" — whose parts are so intimately connected.
+The original settlement at Wibasan was, the handbook notes, a "oorspronkelijk kleine kolonie" — originally a small colony — that has since "zich sterk uitgebreid" — strongly expanded. From Bobasan the settlers "uitgezwermd over een wijd gebied." Strikingly for a Gayo context, in which the endemic pattern was the splintering of small *snipperrepubliekjes*, the colony "niets van haren onderlingen samenhang heeft ingeboet" — lost nothing of its internal cohesion. [[C. Snouck Hurgronje|Prof. Dr. Snouck Hurgronje]] is quoted in the handbook (p. 151) as observing that "in heel het Gajöland met zijne tallooze snipperrepubliekjes" there is no commonwealth of such extent "welks deelen zoo innig verbonden zijn" — whose parts are so intimately connected.
 
 ## The five original stammen
 
@@ -26,13 +26,13 @@ The immigration of the *Bataq doeloe poeloh toedjéh* is the foundational legend
 - [[Redjë Tjèq]]
 - [[Bobasan]]
 - [[Wibasan]]
-- [[Laoet Tawar]]
+- [[Laut Tawar|Laoet Tawar]]
 - [[Saëda]]
 - [[Boekét]]
 - [[Panglima Dagang]]
 - [[Bataks]]
 - [[Gajoland]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Prang toedjéh tahoen]]
 
 ## Source

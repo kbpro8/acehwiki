@@ -7,7 +7,7 @@ tags: [concept, achehnese, religious]
 
 ## The oelèëbalang and the sagi
 
-The political weight of *hari raja puasa* in Atjèhnese society lay in the customary obligation of the *oelèëbalang*s to offer their congratulations to the *Panglima Sagi* on the termination of the fast. In the *sagi* of the [[XXII Moekims|XXII Moekims]] of [[Seulimeum|Seulimeum]], the historical opposition between the *sagi* head [[Teukoe Panglima Pólém|Teukoe Panglima Pólém]] and the *oelèëbalang* of [[Ba'ét|Ba'ét]] found expression in the annual refusal of this courtesy: "Every year this antithesis found her demonstrative expression in the refusal of these uleëbalang to, on the occasion of the hari raja puasa, offer their congratulations to the sagi head with the termination of the fast." Only after the deaths of the old [[Teukoe Panglima Pólém|Teukoe Panglima Pólém Moehamad Daoed]] and the equally powerful *oelèëbalang* of Ba'ét "did the younger generation" ease the antagonism.
+The political weight of *hari raja puasa* in Atjèhnese society lay in the customary obligation of the *oelèëbalang*s to offer their congratulations to the *Panglima Sagi* on the termination of the fast. In the *sagi* of the [[XXII Moekims|XXII Moekims]] of [[Seulimeum|Seulimeum]], the historical opposition between the *sagi* head [[Panglima Polem|Panglima Polem]] and the *oelèëbalang* of [[Ba'ét|Ba'ét]] found expression in the annual refusal of this courtesy: "Every year this antithesis found her demonstrative expression in the refusal of these uleëbalang to, on the occasion of the hari raja puasa, offer their congratulations to the sagi head with the termination of the fast." Only after the deaths of the old [[Panglima Polem|Teukoe Panglima Pólém Moehamad Daoed]] and the equally powerful *oelèëbalang* of Ba'ét "did the younger generation" ease the antagonism.
 
 ## The Japanese and the fasting month
 
@@ -25,7 +25,7 @@ The most fateful coincidence of *hari raja puasa* with political upheaval came i
 
 - [[Maibkatra]]
 - [[Atjèh Shimbun]]
-- [[Teukoe Panglima Pólém]]
+- [[Panglima Polem|Teukoe Panglima Pólém]]
 - [[Teukoe Hadji Tjhi' Moehamad Djohan Alam Sjah]]
 - [[Japanese capitulation of 15 August 1945]]
 - [[Indonesia Merdéka]]

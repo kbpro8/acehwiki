@@ -18,7 +18,7 @@ In their dispatch to The Hague of [[21 February]] [[1824]] (a date that, as Van 
 
 > "The treaty concluded in 1819 by Sir Stamford Raffles has been read and mutually recognised as incompatible with the new state of affairs, and as not susceptible of express maintenance. But our co-plenipotentiaries then for the first time communicated to us their concern that, should the sultans of Acheh be left to themselves, the United States of America, or earlier, will seek to establish themselves with them, and get a footing for a settlement which, in case of war, would be to the great detriment of British navigation. The readiest means of averting this evil appears to be that the Netherlands undertake to stipulate with those of Acheh that they will never admit any establishment of a foreign power."
 
-The dispatch thus records two things. First, the Dutch plenipotentiaries' recognition that the [[Treaty of Pedir (1819)|1819 convention]] could not be *expressly* maintained under the new treaty. Second, the British concern about American designs on [[Acheh]] — a concern that, as Van der Kemp notes, "might indeed be called no idle talk" given the warning that [[J. C. Baud|J. C. Baud]] had addressed to [[Anton Reinhard Falck|Falck]] in his letter of 28 November 1822 about North-American designs on the Philippines. The British suggestion — that the Netherlands stipulate with the Achehnese that they would never admit any foreign establishment — would form the basis of the Dutch declaration of February–March 1824 that was annexed to the [[Anglo-Dutch Treaty of London (1824)|treaty of 17 March 1824]].
+The dispatch thus records two things. First, the Dutch plenipotentiaries' recognition that the [[Treaty of Pedir (1819)|1819 convention]] could not be *expressly* maintained under the new treaty. Second, the British concern about American designs on [[Acheh]] — a concern that, as Van der Kemp notes, "might indeed be called no idle talk" given the warning that [[J. C. Baud|J. C. Baud]] had addressed to [[Anton Reinhard Falck|Falck]] in his letter of 28 November 1822 about North-American designs on the Philippines. The British suggestion — that the Netherlands stipulate with the Achehnese that they would never admit any foreign establishment — would form the basis of the Dutch declaration of February–March 1824 that was annexed to the [[Anglo-Dutch Treaty of 1824|treaty of 17 March 1824]].
 
 ## Significance
 
@@ -38,7 +38,7 @@ The follow-up [[Dutch plenipotentiaries' dispatch of 24 February 1824|dispatch o
 - [[Dutch plenipotentiaries' dispatch of 24 February 1824]]
 - [[King's authorization of 13 February 1824]]
 - [[First draft of 1824 Anglo-Dutch treaty]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Treaty of Pedir (1819)]]
 - [[Sir Thomas Stamford Raffles]]
 - [[J. C. Baud]]

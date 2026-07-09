@@ -13,7 +13,7 @@ Brill's role in the production of *The Achehnese* is a small but characteristic 
 
 ## See Also
 
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[A. S. O'Sullivan]]
 - [[R. J. Wilkinson]]
 - [[Leyden]]
@@ -33,7 +33,7 @@ Brill's role in the production of *The Achehnese* is a small but characteristic 
 
 ## See Also
 
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[A. S. O'Sullivan]]
 - [[R. J. Wilkinson]]
 - [[Leyden]]

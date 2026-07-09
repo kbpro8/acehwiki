@@ -4,7 +4,7 @@ aliases: [Death of Tuanku Asem, Death of Hashim, Death of the guardian of Tuanku
 tags: [event, political, death, 19th-century]
 ---
 
-The **death of Tuanku Asem (Hashim)** in January [[1897]] at [[Padang Tiji]] in the [[Mukims VII]] removed from the shadow court of [[Keumala]] the ablest and most intelligent member of the Achehnese royal house, and the guardian and regent of the young [[Tuanku Muhamat Dawot|Sultan Muhamat Dawot]]. [[C. Snouck Hurgronje|Snouck Hurgronje]] records the event in a bracketed addition in the English edition: "Tuanku Asem, [died January 1897 at Padang Tiji in the Mukims VII]" — a laconic notice that nonetheless marks a decisive moment in the disintegration of the pretender sultanate.
+The **death of Tuanku Asem (Hashim)** in January [[1897]] at [[Padang Tiji]] in the [[VII Mukims|Mukims VII]] removed from the shadow court of [[Keumala]] the ablest and most intelligent member of the Achehnese royal house, and the guardian and regent of the young [[Tuanku Muhamat Dawot|Sultan Muhamat Dawot]]. [[C. Snouck Hurgronje|Snouck Hurgronje]] records the event in a bracketed addition in the English edition: "Tuanku Asem, [died January 1897 at Padang Tiji in the Mukims VII]" — a laconic notice that nonetheless marks a decisive moment in the disintegration of the pretender sultanate.
 
 ## The guardian of the child-sultan
 
@@ -20,7 +20,7 @@ Those who knew Keumala, however, were well aware that Tuanku Asem did not confin
 
 ## The mutual distrust and the death
 
-Although the ties of blood relationship within the royal family were strengthened by marriage alliances — the Sultan, for instance, having wedded a daughter of [[Tuanku Abdomajet]] — the family of [[Kuala Batee]] was on bad terms with the court. When it is perceived that Tuanku Asem (Hashim) and his former ward were on terms of mutual distrust, Hurgronje concludes, "we are forced to the conclusion that even if there were no Gompeuni in the question, unpleasant relations would still have arisen with this other branch of the reigning house." Tuanku Asem died in January [[1897]] at [[Padang Tiji]] in the Mukims VII — an event noted in brackets by Hurgronje in the English edition. The death occurred in the same year as the [[Defection of Teuku Uma|defection of Teuku Uma]] and the resumption of the Dutch offensive, and it left the shadow court of [[Keumala]] without its ablest member. The pretender Sultan was henceforth a wanderer, "obliged to lead a wandering life. He seeks safety by constantly shifting his abode and finds his asylum as a rule in the North-coast districts", until his eventual submission under [[Van Heutsz's governorship|Van Heutsz's governorship]].
+Although the ties of blood relationship within the royal family were strengthened by marriage alliances — the Sultan, for instance, having wedded a daughter of [[Tuanku Abdomajet]] — the family of [[Kuala Batee]] was on bad terms with the court. When it is perceived that Tuanku Asem (Hashim) and his former ward were on terms of mutual distrust, Hurgronje concludes, "we are forced to the conclusion that even if there were no Gompeuni in the question, unpleasant relations would still have arisen with this other branch of the reigning house." Tuanku Asem died in January [[1897]] at [[Padang Tiji]] in the Mukims VII — an event noted in brackets by Hurgronje in the English edition. The death occurred in the same year as the [[Defection of Teuku Uma|defection of Teuku Uma]] and the resumption of the Dutch offensive, and it left the shadow court of [[Keumala]] without its ablest member. The pretender Sultan was henceforth a wanderer, "obliged to lead a wandering life. He seeks safety by constantly shifting his abode and finds his asylum as a rule in the North-coast districts", until his eventual submission under [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]].
 
 ## See Also
 
@@ -29,7 +29,7 @@ Although the ties of blood relationship within the royal family were strengthene
 - [[Death of Sultan Mahmut Shah]]
 - [[Keumala]]
 - [[Padang Tiji]]
-- [[Mukims VII]]
+- [[VII Mukims|Mukims VII]]
 - [[Teungku Tiro]]
 - [[Teuku Uma]]
 - [[Achehnese War]]

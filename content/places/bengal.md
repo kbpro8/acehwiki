@@ -16,7 +16,7 @@ In the chapter on Achehnese demonology, Snouck Hurgronje notes that the *biō*, 
 
 ## Account from *Raffles' Atjeh-overeenkomst van 1819* — Bengal
 
-**Bengal** (Dutch **Bengalen**) was the British Indian presidency whose Governor-General at [[Calcutta]] was responsible, throughout the events narrated in P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819*, for Britain's political relations with [[Acheh]]. The Bengal government dispatched the [[Raffles-Coombs Acheh Commission (1819)|Acheh commission]] of [[1819]]; ratified (or, in the event, suffered) the [[Acheh treaty of 1819|treaty of Pedir]]; and, after the [[Anglo-Dutch Treaty of London (1824)|treaty of London of 1824]], pronounced that treaty a [[dead letter]].
+**Bengal** (Dutch **Bengalen**) was the British Indian presidency whose Governor-General at [[Calcutta]] was responsible, throughout the events narrated in P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819*, for Britain's political relations with [[Acheh]]. The Bengal government dispatched the [[Raffles-Coombs Acheh Commission (1819)|Acheh commission]] of [[1819]]; ratified (or, in the event, suffered) the [[Treaty of Pedir (1819)|treaty of Pedir]]; and, after the [[Anglo-Dutch Treaty of 1824|treaty of London of 1824]], pronounced that treaty a [[dead letter]].
 
 ## Hastings, Light and the eighteenth-century background
 
@@ -28,7 +28,7 @@ When [[Sir Thomas Stamford Raffles|Raffles]] arrived from [[Bencoolen|Benkoelen]
 
 ## Recognition of the treaty as a "dead letter"
 
-After the [[Anglo-Dutch Treaty of London (1824)|treaty of 17 March 1824]] the London Court of Directors wrote to Bengal (4 August [[1824]]) noting that the Acheh treaty had never been anything but a dead letter. The Bengal government, by its missive of 28 January [[1825]] (Van der Kemp's [[Bengal inquiry to Penang (28 January 1825)|Bijlage 9]], in effect), asked Penang for advice, itself recognising the treaty as such: Sultan Djohor had never been able to enforce its provisions, his death in [[1823]] had deepened the divisions in his house, and the [[Three Sagis|three Sagis]] with the [[Queen-Mother of Acheh|Queen-Mother]] were now in command. Governor [[Robert Fullerton|Fullerton]] thereupon composed his [[Fullerton's minute on Acheh (21 March 1825)|minute of 21 March 1825]] for the Bengal government. The [[Ibbetson's intervention proposal (February 1824)|Ibbetson dispatch of 25 February 1824]] was sent from Penang to the governmental secretary at Calcutta.
+After the [[Anglo-Dutch Treaty of 1824|treaty of 17 March 1824]] the London Court of Directors wrote to Bengal (4 August [[1824]]) noting that the Acheh treaty had never been anything but a dead letter. The Bengal government, by its missive of 28 January [[1825]] (Van der Kemp's [[Bengal inquiry to Penang (28 January 1825)|Bijlage 9]], in effect), asked Penang for advice, itself recognising the treaty as such: Sultan Djohor had never been able to enforce its provisions, his death in [[1823]] had deepened the divisions in his house, and the [[Three Sagis|three Sagis]] with the [[Queen-Mother of Acheh|Queen-Mother]] were now in command. Governor [[Robert Fullerton|Fullerton]] thereupon composed his [[Fullerton's minute on Acheh (21 March 1825)|minute of 21 March 1825]] for the Bengal government. The [[Ibbetson's intervention proposal (February 1824)|Ibbetson dispatch of 25 February 1824]] was sent from Penang to the governmental secretary at Calcutta.
 
 ## Bengal as a Dutch bargaining counter
 
@@ -56,7 +56,7 @@ In the diplomatic exchanges preceding the 1824 treaty, Bengal (in the broader se
 - [[Bengal inquiry to Penang (28 January 1825)]]
 - [[Fullerton's minute on Acheh (21 March 1825)]]
 - [[Dead letter]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Source
 

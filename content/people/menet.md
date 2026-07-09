@@ -8,7 +8,7 @@ tags: [person, gayo, precolonial, legendary]
 
 ## The seizure of the bawar
 
-According to the legend, [[Saëda (Gayo progenitor)|Saëda]] had married two Acehnese wives. The first bore him two sons who never rose to prominence and became lesser heads of the Boekét clan. The second wife brought him two stepsons, *Ménèt* and *Mpos Kèlaq*, and bore him two further sons, *Mérah Lama* and [[Panglima Dagang|Panglima Dagang]]. When the invasion of the [[Bataq Doeloe Poeloh Toedjéh|Bataq doeloe poeloh toedjéh]] drove the Boekét family from the *Meerstreek* (the [[Laoet Tawar|Laoet Tawar]] basin), *Mérah Lama* went with his two stepbrothers to *Kébajakan*, where — in possession of the *bawar* — he was installed as *Kédjoerön Boekét*.
+According to the legend, [[Saëda (Gayo progenitor)|Saëda]] had married two Acehnese wives. The first bore him two sons who never rose to prominence and became lesser heads of the Boekét clan. The second wife brought him two stepsons, *Ménèt* and *Mpos Kèlaq*, and bore him two further sons, *Mérah Lama* and [[Panglima Dagang|Panglima Dagang]]. When the invasion of the [[Bataq Doeloe Poeloh Toedjéh|Bataq doeloe poeloh toedjéh]] drove the Boekét family from the *Meerstreek* (the [[Laut Tawar|Laut Tawar]] basin), *Mérah Lama* went with his two stepbrothers to *Kébajakan*, where — in possession of the *bawar* — he was installed as *Kédjoerön Boekét*.
 
 The constitutional crisis came when *Ménèt* contrived, by a *list* — a stratagem — to seize the principal *bawar*, the *keris kepala soeasa*, and refused to return it to the rightful owner. By Gayo *adat*, "wie de bawar heeft, ook kédjoerön is" — whoever holds the *bawar* is the *Kédjoerön* — so Ménèt claimed the dignity. The other *bawar* remained in *Mérah Lama*'s possession, so that two *Kédjoeröns* of Boekét now existed side by side: *Mérah Lama* with an incomplete set of regalia, *Ménèt* with the principal piece.
 
@@ -29,7 +29,7 @@ The descendants of *Ménèt* became the *Boekét Ewéh* lineage, also called *Dj
 - [[Prang toedjéh tahoen]]
 - [[Bataq Doeloe Poeloh Toedjéh]]
 - [[Gajoland]]
-- [[Laoet Tawar]]
+- [[Laut Tawar|Laoet Tawar]]
 - [[Sultans of Atjeh]]
 
 ## Source
@@ -41,7 +41,7 @@ The descendants of *Ménèt* became the *Boekét Ewéh* lineage, also called *Dj
 
 ## The seizure of the bawar
 
-According to the legend, [[Saëda (Gayo progenitor)|Saëda]] had married two Acehnese wives. The first bore him two sons who never rose to prominence and became lesser heads of the Boekét clan. The second wife brought him two stepsons, *Ménèt* and *Mpos Kèlaq*, and bore him two further sons, *Mérah Lama* and [[Panglima Dagang|Panglima Dagang]]. When the invasion of the [[Bataq Doeloe Poeloh Toedjéh|Bataq doeloe poeloh toedjéh]] drove the Boekét family from the *Meerstreek* (the [[Laoet Tawar|Laoet Tawar]] basin), *Mérah Lama* went with his two stepbrothers to *Kébajakan*, where — in possession of the *bawar* — he was installed as *Kédjoerön Boekét*.
+According to the legend, [[Saëda (Gayo progenitor)|Saëda]] had married two Acehnese wives. The first bore him two sons who never rose to prominence and became lesser heads of the Boekét clan. The second wife brought him two stepsons, *Ménèt* and *Mpos Kèlaq*, and bore him two further sons, *Mérah Lama* and [[Panglima Dagang|Panglima Dagang]]. When the invasion of the [[Bataq Doeloe Poeloh Toedjéh|Bataq doeloe poeloh toedjéh]] drove the Boekét family from the *Meerstreek* (the [[Laut Tawar|Laut Tawar]] basin), *Mérah Lama* went with his two stepbrothers to *Kébajakan*, where — in possession of the *bawar* — he was installed as *Kédjoerön Boekét*.
 
 The constitutional crisis came when *Ménèt* contrived, by a *list* — a stratagem — to seize the principal *bawar*, the *keris kepala soeasa*, and refused to return it to the rightful owner. By Gayo *adat*, "wie de bawar heeft, ook kédjoerön is" — whoever holds the *bawar* is the *Kédjoerön* — so Ménèt claimed the dignity. The other *bawar* remained in *Mérah Lama*'s possession, so that two *Kédjoeröns* of Boekét now existed side by side: *Mérah Lama* with an incomplete set of regalia, *Ménèt* with the principal piece.
 
@@ -62,7 +62,7 @@ The descendants of *Ménèt* became the *Boekét Ewéh* lineage, also called *Dj
 - [[Prang toedjéh tahoen]]
 - [[Bataq Doeloe Poeloh Toedjéh]]
 - [[Gajoland]]
-- [[Laoet Tawar]]
+- [[Laut Tawar|Laoet Tawar]]
 - [[Sultans of Atjeh]]
 
 ## Source

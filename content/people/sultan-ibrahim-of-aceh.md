@@ -20,7 +20,7 @@ Ibrahim’s support for Islamic literature contributed to the lasting prestige o
 ## See Also
 - [[16th‑century Malay translation of the Burda]]
 - [[Acehnese religious poetry]]
-- [[Qasida al‑Burda]]
+- [[Burda (poem)|Qasida al‑Burda]]
 - [[Muhammad]]
 - [[Dutch East India Company]]
 

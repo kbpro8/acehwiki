@@ -4,7 +4,7 @@ aliases: [orang pendek, koekoeman, short man of the Atjehse forests, short man o
 tags: [concept, folklore, acehnese, aceh]
 ---
 
-The **orang pendek** ("short person"), known as the **koekoeman** in the region of the hunter [[Datoek]], is a legendary forest-dwelling humanoid of Acehnese folklore. In Merac's *[[Oost-Indisch Journael]]* ([[1947]]), the creature is the focus of the chapter *Jagerslatijn*, where Datoek recounts what he claims was a firsthand encounter. His story is contrasted with the scholarly account of the [[Manté's|manté's]] presented by [[Snouck Hurgronje]] in *De Atjehers*.
+The **orang pendek** ("short person"), known as the **koekoeman** in the region of the hunter [[Datoek]], is a legendary forest-dwelling humanoid of Acehnese folklore. In Merac's *[[Oost-Indisch Journael]]* ([[1947]]), the creature is the focus of the chapter *Jagerslatijn*, where Datoek recounts what he claims was a firsthand encounter. His story is contrasted with the scholarly account of the [[Manté's|manté's]] presented by [[C. Snouck Hurgronje|Snouck Hurgronje]] in *De Atjehers*.
 
 ## Datoek's account
 
@@ -24,7 +24,7 @@ The brief sighting ends there, with the koekoeman vanishing into the forest befo
 
 ## Snouck Hurgronje and the manté's
 
-Following Datoek's story, the district court chairman remarks that such an account should not be dismissed outright. He cites [[Snouck Hurgronje]]'s *De Atjehers*, where the manté's are described as mysterious inhabitants of the mountains of the [[XXII Moekims]].
+Following Datoek's story, the district court chairman remarks that such an account should not be dismissed outright. He cites [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *De Atjehers*, where the manté's are described as mysterious inhabitants of the mountains of the [[XXII Moekims]].
 
 By introducing Snouck Hurgronje's ethnographic account, the narrative places Datoek's eyewitness testimony within a broader colonial tradition of describing elusive "people of the interior." While the manté's were known only through hearsay, Datoek insists that he personally saw what he believed to be the same kind of forest being.
 
@@ -38,7 +38,7 @@ The chapter juxtaposes two different forms of knowledge. Datoek offers the persp
 
 - [[Oost-Indisch Journael]]
 - [[Datoek]]
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [[Manté's]]
 - [[XXII Moekims]]
 - [[Pawang]]

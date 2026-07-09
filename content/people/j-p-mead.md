@@ -9,12 +9,12 @@ tags: [person, editor, orientalist, british]
 According to the source, Mead’s edition of the Hikayat Raja-raja Pasai was issued in J.S.B.R.ASS volume 66 (1914) and represented the text using the spelling *kutaka* for a particular lexical item. His work contributed to the textual criticism of the chronicle and facilitated its use in linguistic research.
 
 ## Significance
-Mead’s edition is cited alongside those of [[Dulaurier]] and the [[Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië|B.K.I.]] as part of the corpus of early printed versions of the Hikayat. It reflects the colonial-era interest in preserving and studying indigenous Malay literary heritage.
+Mead’s edition is cited alongside those of [[E. Dulaurier|Dulaurier]] and the [[Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië|B.K.I.]] as part of the corpus of early printed versions of the Hikayat. It reflects the colonial-era interest in preserving and studying indigenous Malay literary heritage.
 
 ## See Also
 - [[Hikayat Raja-raja Pasai]]
 - [[Pasai]]
-- [[Dulaurier]]
+- [[E. Dulaurier|Dulaurier]]
 - [[Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]
 - [[Journal of the Straits Branch of the Royal Asiatic Society]]
 

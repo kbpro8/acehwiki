@@ -16,7 +16,7 @@ The Mawlid in Aceh illustrates the syncretic nature of Acehnese Islam, where imp
 
 ## See Also
 - [[Kasida (Acehnese poetic form)]]
-- [[Al‑Burda (poem)]]
+- [[Burda (poem)|Al‑Burda (poem)]]
 - [[Al‑Busiri]]
 - [[Ka'b ibn Zuhair]]
 - [[dikië jadjandji (dhikr Barzandji)]]

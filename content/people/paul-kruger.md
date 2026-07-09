@@ -11,7 +11,7 @@ tags: [person, statesman, transvaal, south-african-republic]
 
 Faure, who had served as interpreter to the Transvaal deputation in 1883 on the advice of [[Lord Rosmead|Sir Hercules Robinson]] (later Lord Rosmead) and at the request of [[Lord Derby]], testifies that he was present at all the conferences between the representatives of the Transvaal and those of the Imperial Government — [[Lord Derby]], [[Sir Robert Herbert]], [[Sir Hercules Robinson]] and (on one or two occasions) [[Sir Evelyn Ashley]]. Faure recalls Sir Hercules Robinson telling him in private conversation that he could not understand why President Kruger was so eager to see suzerainty abolished, since it really meant nothing; even if it did not exist, England would still not allow the Transvaal to make treaties with foreign powers detrimental to British interests. Lord Derby likewise told the deputation that, on the question of suzerainty, they were making a mountain out of a molehill.
 
-Despite these dismissive British attitudes, the suzerainty question was one of the principal grievances of the Transvaal representatives, who attached to it the greatest importance. Van der Kemp's interest in the episode is comparative: he had earlier argued that the same pattern — a clause originally inserted for domestic-opposition reasons and dismissed as insignificant, only to be elevated later into a war-cry — characterised the Dutch handling of the Acheh reservation in the [[Anglo-Dutch Treaty of London (1824)]].
+Despite these dismissive British attitudes, the suzerainty question was one of the principal grievances of the Transvaal representatives, who attached to it the greatest importance. Van der Kemp's interest in the episode is comparative: he had earlier argued that the same pattern — a clause originally inserted for domestic-opposition reasons and dismissed as insignificant, only to be elevated later into a war-cry — characterised the Dutch handling of the Acheh reservation in the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]].
 
 ## Faure's testimony and the London Convention (1884)
 
@@ -21,7 +21,7 @@ A later interviewer for the *Saturday Review*, speaking with Lord Rosmead shortl
 
 ## Comparative significance
 
-Van der Kemp draws the parallel explicitly: the wording of a treaty may, in the absence of formal minutes, be reinterpreted by one party at a later date to serve new political purposes — exactly the pattern he ascribes to the Dutch with respect to the [[Acheh treaty of 1819]] and the Sumatra-supremacy reservation in 1824. President Kruger's determination to secure the formal abolition of the suzerainty, and the British reluctance to put that abolition in writing for fear of arming the parliamentary opposition, are presented by Van der Kemp as the South-African analogue of the Acheh paper-war.
+Van der Kemp draws the parallel explicitly: the wording of a treaty may, in the absence of formal minutes, be reinterpreted by one party at a later date to serve new political purposes — exactly the pattern he ascribes to the Dutch with respect to the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] and the Sumatra-supremacy reservation in 1824. President Kruger's determination to secure the formal abolition of the suzerainty, and the British reluctance to put that abolition in writing for fear of arming the parliamentary opposition, are presented by Van der Kemp as the South-African analogue of the Acheh paper-war.
 
 ## See Also
 
@@ -35,7 +35,7 @@ Van der Kemp draws the parallel explicitly: the wording of a treaty may, in the 
 - [[Suzerainty question]]
 - [[London Convention on Transvaal (1884)]]
 - [[Faure's letter on Transvaal suzerainty]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Source
 
@@ -49,7 +49,7 @@ Van der Kemp draws the parallel explicitly: the wording of a treaty may, in the 
 
 Faure, who had served as interpreter to the Transvaal deputation in 1883 on the advice of [[Lord Rosmead|Sir Hercules Robinson]] (later Lord Rosmead) and at the request of [[Lord Derby]], testifies that he was present at all the conferences between the representatives of the Transvaal and those of the Imperial Government — [[Lord Derby]], [[Sir Robert Herbert]], [[Sir Hercules Robinson]] and (on one or two occasions) [[Sir Evelyn Ashley]]. Faure recalls Sir Hercules Robinson telling him in private conversation that he could not understand why President Kruger was so eager to see suzerainty abolished, since it really meant nothing; even if it did not exist, England would still not allow the Transvaal to make treaties with foreign powers detrimental to British interests. Lord Derby likewise told the deputation that, on the question of suzerainty, they were making a mountain out of a molehill.
 
-Despite these dismissive British attitudes, the suzerainty question was one of the principal grievances of the Transvaal representatives, who attached to it the greatest importance. Van der Kemp's interest in the episode is comparative: he had earlier argued that the same pattern — a clause originally inserted for domestic-opposition reasons and dismissed as insignificant, only to be elevated later into a war-cry — characterised the Dutch handling of the Acheh reservation in the [[Anglo-Dutch Treaty of London (1824)]].
+Despite these dismissive British attitudes, the suzerainty question was one of the principal grievances of the Transvaal representatives, who attached to it the greatest importance. Van der Kemp's interest in the episode is comparative: he had earlier argued that the same pattern — a clause originally inserted for domestic-opposition reasons and dismissed as insignificant, only to be elevated later into a war-cry — characterised the Dutch handling of the Acheh reservation in the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]].
 
 ## Faure's testimony and the London Convention (1884)
 
@@ -59,7 +59,7 @@ A later interviewer for the *Saturday Review*, speaking with Lord Rosmead shortl
 
 ## Comparative significance
 
-Van der Kemp draws the parallel explicitly: the wording of a treaty may, in the absence of formal minutes, be reinterpreted by one party at a later date to serve new political purposes — exactly the pattern he ascribes to the Dutch with respect to the [[Acheh treaty of 1819]] and the Sumatra-supremacy reservation in 1824. President Kruger's determination to secure the formal abolition of the suzerainty, and the British reluctance to put that abolition in writing for fear of arming the parliamentary opposition, are presented by Van der Kemp as the South-African analogue of the Acheh paper-war.
+Van der Kemp draws the parallel explicitly: the wording of a treaty may, in the absence of formal minutes, be reinterpreted by one party at a later date to serve new political purposes — exactly the pattern he ascribes to the Dutch with respect to the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] and the Sumatra-supremacy reservation in 1824. President Kruger's determination to secure the formal abolition of the suzerainty, and the British reluctance to put that abolition in writing for fear of arming the parliamentary opposition, are presented by Van der Kemp as the South-African analogue of the Acheh paper-war.
 
 ## See Also
 
@@ -73,7 +73,7 @@ Van der Kemp draws the parallel explicitly: the wording of a treaty may, in the 
 - [[Suzerainty question]]
 - [[London Convention on Transvaal (1884)]]
 - [[Faure's letter on Transvaal suzerainty]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Source
 

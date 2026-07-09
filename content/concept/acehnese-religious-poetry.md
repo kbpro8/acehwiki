@@ -20,7 +20,7 @@ Common themes include the glorification of the Prophet [[Muhammad]], the power o
 These verses were recited in mosques, royal courts, and battlefield encampments, reinforcing the sultanate’s claim to be the “guardian of the faith”. They also functioned as a vehicle for resistance against Dutch colonial incursions in the 19th century.
 
 ## See Also
-- [[Qasida al‑Burda]]
+- [[Burda (poem)|Qasida al‑Burda]]
 - [[Malay translation of the Burda]]
 - [[Sultan Ibrahim of Aceh]]
 - [[Muhammad]]

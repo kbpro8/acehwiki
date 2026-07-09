@@ -38,7 +38,7 @@ For the wider context of the West-Atjeh coal localities, see the entries on [[Kr
 
 - [[Acheh]]
 - [[Teungku di Weueng]]
-- [[Chief of Teunom]]
+- [[Imeum of Teunom|Chief of Teunom]]
 - [[Teuku Uma]]
 - [[Imeum of Teunom]]
 - [[Atjeh's Westkust]]

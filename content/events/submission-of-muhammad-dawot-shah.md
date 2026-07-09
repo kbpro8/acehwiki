@@ -16,15 +16,15 @@ Snouck Hurgronje's diagnosis of the situation, formed in [[1891]]–[[1892]] and
 
 ### The wandering court at Keumala
 
-The fugitive "court" found a safe place of refuge in [[Keumala|Kuta Keumala]], which became the seat of the sultanate and the chancery from which the [[Sarakata with chab sikureu'eng|sarakatas with the ninefold seal]] continued to issue to uleebalangs on both sides of the Dutch "linie". But the Sultan had no troops, only a handful of personal followers; [[Keumala]] itself, the seat of the sultanate, had to be [[Subjugation of Keumala|subdued by force]] in the first instance by the royal family. The pretender was at length compelled, owing to a quarrel with the local chiefs, to break up his "court" at Keumala and to settle first in one place and then in another. For the last three years ([[1896]]–[[1899]]), i.e. since the Dutch began to deal seriously with the government of [[Great Acheh]] and the subjugation of its dependencies, the pretender was obliged to lead a wandering life, seeking safety by constantly shifting his abode and finding his asylum as a rule in the North-coast districts.
+The fugitive "court" found a safe place of refuge in [[Keumala|Kuta Keumala]], which became the seat of the sultanate and the chancery from which the [[Sarakata|sarakatas with the ninefold seal]] continued to issue to uleebalangs on both sides of the Dutch "linie". But the Sultan had no troops, only a handful of personal followers; [[Keumala]] itself, the seat of the sultanate, had to be [[Subjugation of Keumala|subdued by force]] in the first instance by the royal family. The pretender was at length compelled, owing to a quarrel with the local chiefs, to break up his "court" at Keumala and to settle first in one place and then in another. For the last three years ([[1896]]–[[1899]]), i.e. since the Dutch began to deal seriously with the government of [[Great Acheh]] and the subjugation of its dependencies, the pretender was obliged to lead a wandering life, seeking safety by constantly shifting his abode and finding his asylum as a rule in the North-coast districts.
 
 ### The end of the old pirate-state
 
-Under [[Governor Van Heutsz|General Van Heutsz]] the Dutch abandoned the [[Dutch policy of 'concentration'|concentration scheme]] and turned to the active subjugation of the country through lightly equipped native troops under European officers, operating in small detachments against the guerrilla bands of the ulamas. In less than six years, [[General Van Heutsz|Van Heutsz]] made such progress that even the most sceptical had to admit that the beginning of the end had come. The traitor [[Teuku Uma|Uma]] and numbers of adventurers, fanatical leaders and guerilla chiefs perished; the chiefs of dependent states, the members of the Sultan's family, and finally their head himself — Tuanku Muhamat Dawot — submitted almost without exception. The continuance of the revolt was henceforth censured by all chiefs of mark except a limited number of universally respected religious leaders.
+Under [[Joannes Benedictus van Heutsz|General Van Heutsz]] the Dutch abandoned the [[Dutch policy of 'concentration'|concentration scheme]] and turned to the active subjugation of the country through lightly equipped native troops under European officers, operating in small detachments against the guerrilla bands of the ulamas. In less than six years, [[Joannes Benedictus van Heutsz|Van Heutsz]] made such progress that even the most sceptical had to admit that the beginning of the end had come. The traitor [[Teuku Uma|Uma]] and numbers of adventurers, fanatical leaders and guerilla chiefs perished; the chiefs of dependent states, the members of the Sultan's family, and finally their head himself — Tuanku Muhamat Dawot — submitted almost without exception. The continuance of the revolt was henceforth censured by all chiefs of mark except a limited number of universally respected religious leaders.
 
 ### Significance
 
-The submission was, in a sense, only a formal act, since the Pretender-Sultan had long been a nonentity politically; yet as the public extinction of the institution around which the resistance had rallied, it was an event of the first importance. The royal name survived only on the seals and the [[Sarakata with chab sikureu'eng|sarakatas]] already issued; the political future of Acheh lay no longer with the wandering descendants of its old sultans, but with the Dutch civil administration, the hereditary uleebalangs, and the still-resisting ulamas.
+The submission was, in a sense, only a formal act, since the Pretender-Sultan had long been a nonentity politically; yet as the public extinction of the institution around which the resistance had rallied, it was an event of the first importance. The royal name survived only on the seals and the [[Sarakata|sarakatas]] already issued; the political future of Acheh lay no longer with the wandering descendants of its old sultans, but with the Dutch civil administration, the hereditary uleebalangs, and the still-resisting ulamas.
 
 ## See Also
 
@@ -33,10 +33,10 @@ The submission was, in a sense, only a formal act, since the Pretender-Sultan ha
 - [[Keumala]]
 - [[Tuanku Muhamat Dawot]]
 - [[Subjugation of Keumala]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[Acheh War]]
 - [[Dutch policy of 'concentration']]
-- [[Sarakata with chab sikureu'eng]]
+- [[Sarakata|Sarakata with chab sikureu'eng]]
 - [[Snouck Hurgronje's Acheh Mission]]
 
 ## Source

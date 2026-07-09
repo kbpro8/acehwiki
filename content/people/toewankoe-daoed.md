@@ -13,7 +13,7 @@ After the [[Death of Sultan Aladin Mahmood Shah|death of the sultan on 26 Januar
 
 ## The Flight to Kemala, August 1879
 
-After the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] of [[1879]], the [[Campaign against the XXVI Moekims (July 1879)|campaign against the XXVI Moekims]] of early July, and the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August, Toewankoe Daoed, with his guardian Toewankoe Haschim and the other irreducible hostile chiefs — [[Imam of Longbatta|Imam Longbatta]], [[Panglima Polim|Panglima Polim]], his son [[Radja Koelala|Radja Koelala]] — persisted in their hostile attitude, but their means were scattered and they had placed themselves beyond the reach of the Dutch troops, "namely at Kemala, in the interior south of Pedir."
+After the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] of [[1879]], the [[Campaign against the XXVI Moekims (July 1879)|campaign against the XXVI Moekims]] of early July, and the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August, Toewankoe Daoed, with his guardian Toewankoe Haschim and the other irreducible hostile chiefs — [[Imam of Longbatta|Imam Longbatta]], [[Panglima Polem|Panglima Polem]], his son [[Radja Koelala|Radja Koelala]] — persisted in their hostile attitude, but their means were scattered and they had placed themselves beyond the reach of the Dutch troops, "namely at Kemala, in the interior south of Pedir."
 
 ## Significance
 
@@ -28,7 +28,7 @@ Toewankoe Daoed's shadow sultanate at Keumala represents the formal continuation
 - [[Keumala]]
 - [[Kemala]]
 - [[Pedir]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Radja Koelala]]
 - [[Selimoen Expedition (August 1879)]]
@@ -50,7 +50,7 @@ After the [[Death of Sultan Aladin Mahmood Shah|death of the sultan on 26 Januar
 
 ## The Flight to Kemala, August 1879
 
-After the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] of [[1879]], the [[Campaign against the XXVI Moekims (July 1879)|campaign against the XXVI Moekims]] of early July, and the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August, Toewankoe Daoed, with his guardian Toewankoe Haschim and the other irreducible hostile chiefs — [[Imam of Longbatta|Imam Longbatta]], [[Panglima Polim|Panglima Polim]], his son [[Radja Koelala|Radja Koelala]] — persisted in their hostile attitude, but their means were scattered and they had placed themselves beyond the reach of the Dutch troops, "namely at Kemala, in the interior south of Pedir."
+After the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] of [[1879]], the [[Campaign against the XXVI Moekims (July 1879)|campaign against the XXVI Moekims]] of early July, and the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August, Toewankoe Daoed, with his guardian Toewankoe Haschim and the other irreducible hostile chiefs — [[Imam of Longbatta|Imam Longbatta]], [[Panglima Polem|Panglima Polem]], his son [[Radja Koelala|Radja Koelala]] — persisted in their hostile attitude, but their means were scattered and they had placed themselves beyond the reach of the Dutch troops, "namely at Kemala, in the interior south of Pedir."
 
 ## Significance
 
@@ -65,7 +65,7 @@ Toewankoe Daoed's shadow sultanate at Keumala represents the formal continuation
 - [[Keumala]]
 - [[Kemala]]
 - [[Pedir]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Radja Koelala]]
 - [[Selimoen Expedition (August 1879)]]

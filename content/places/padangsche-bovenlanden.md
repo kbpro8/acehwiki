@@ -4,11 +4,11 @@ aliases: [Padang Bovenlanden, Padangsche Bovenland, Padang Highlands, Padangse B
 tags: [place, highlands, sumatra, minangkabau, colonial-administration, craft-center]
 ---
 
-**Padangsche Bovenlanden** — the "Padang Highlands" or "Uplands of Padang" — was, in the Dutch colonial administrative geography of [[Sumatra|Sumatra]], the highland residency immediately east of the coastal residency of [[Padang|Padang]] on the west coast of Sumatra, and the heartland of the [[Minangkabau|Minangkabau]] people. The region appears in Prof. [[T. J. Bezemer|T. J. Bezemer]]'s [[Indonesische Kunstnijverheid (Bezemer 1933)|1933 plate-atlas *Indonesische Kunstnijverheid*]] as the principal Sumatran centre of [[filigraanwerk (Padangsche Bovenlanden)|filigree work]] and of brass-casting, contrasted with [[Acheh|Atjeh]] as a regional Sumatran metalwork centre, and documented across a long run of plates in the atlas's brasswork (§ F) and gold-and-silverwork (§ H) chapters. The region is, in this sense, the principal Sumatran metalwork foil against which the [[Atjeh goldsmithing (soeasa technique)|Atjeh *soeasa* wrapping technique]] is defined in the late colonial Dutch scholarship.
+**Padangsche Bovenlanden** — the "Padang Highlands" or "Uplands of Padang" — was, in the Dutch colonial administrative geography of [[Sumatra|Sumatra]], the highland residency immediately east of the coastal residency of [[Padang|Padang]] on the west coast of Sumatra, and the heartland of the [[Menangkabau|Menangkabau]] people. The region appears in Prof. [[T. J. Bezemer|T. J. Bezemer]]'s [[Indonesische Kunstnijverheid (Bezemer 1933)|1933 plate-atlas *Indonesische Kunstnijverheid*]] as the principal Sumatran centre of [[filigraanwerk (Padangsche Bovenlanden)|filigree work]] and of brass-casting, contrasted with [[Acheh|Atjeh]] as a regional Sumatran metalwork centre, and documented across a long run of plates in the atlas's brasswork (§ F) and gold-and-silverwork (§ H) chapters. The region is, in this sense, the principal Sumatran metalwork foil against which the [[Atjeh goldsmithing (soeasa technique)|Atjeh *soeasa* wrapping technique]] is defined in the late colonial Dutch scholarship.
 
 ## Geography and people
 
-The Padangsche Bovenlanden occupy the volcanic highlands of west-central [[Sumatra|Sumatra]], east of the coastal residency of [[Padang|Padang]] and south of the [[Tapanoeli|Tapanoeli]] residency. The principal towns of the region — [[Bukittinggi|Fort de Kock]] (modern Bukittinggi), [[Padang Panjang|Padang Panjang]], [[Payakumbuh|Payakumbuh]], and [[Solok|Solok]] — lie along the line of volcanoes that forms the backbone of the Sumatran highlands. The region is the heartland of the [[Minangkabau|Minangkabau]] people, the major Sumatran ethnic group, whose matrilineal social organisation and Islamic religious practice distinguished them from both the Batak peoples to the north and the Atjehnese to the north-west. The Minangkabau were, in the late colonial period, the most commercially and intellectually active of the Sumatran peoples; the Padangsche Bovenlanden were accordingly one of the most economically developed and intellectually dynamic regions of Sumatra.
+The Padangsche Bovenlanden occupy the volcanic highlands of west-central [[Sumatra|Sumatra]], east of the coastal residency of [[Padang|Padang]] and south of the [[Tapanoeli|Tapanoeli]] residency. The principal towns of the region — [[Bukittinggi|Fort de Kock]] (modern Bukittinggi), [[Padang Panjang|Padang Panjang]], [[Payakumbuh|Payakumbuh]], and [[Solok|Solok]] — lie along the line of volcanoes that forms the backbone of the Sumatran highlands. The region is the heartland of the [[Menangkabau|Menangkabau]] people, the major Sumatran ethnic group, whose matrilineal social organisation and Islamic religious practice distinguished them from both the Batak peoples to the north and the Atjehnese to the north-west. The Minangkabau were, in the late colonial period, the most commercially and intellectually active of the Sumatran peoples; the Padangsche Bovenlanden were accordingly one of the most economically developed and intellectually dynamic regions of Sumatra.
 
 ## Padangsche Bovenlanden in the Bezemer atlas
 
@@ -47,7 +47,7 @@ For [[Acheh|Atjeh]]'s history, the Padangsche Bovenlanden are significant princi
 - [[Padang]]
 - [[Tapanoeli]]
 - [[Sumatra]]
-- [[Minangkabau]]
+- [[Menangkabau|Minangkabau]]
 - [[Acheh]]
 
 ## Source

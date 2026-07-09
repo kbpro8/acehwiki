@@ -58,7 +58,7 @@ The Batig Slot policy was eventually reformed in [[1903]], when the relevant art
 
 - [[P.P. van Bosse]]
 - [[W. van Goltstein]]
-- [[J.W. van Lansberge]]
+- [[Johan Willem van Lansberge|J.W. van Lansberge]]
 - [[Cultivation System]]
 - [[Comptability Act]]
 

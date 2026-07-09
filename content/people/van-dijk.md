@@ -12,7 +12,7 @@ His injury is recorded in the Dutch naval yearbook of **[[1893]]**, reflecting t
 ## See Also
 
 - [[Koerier (ship)]]
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Tamiang (river)]]
 - [[Colonel Van de Pol]]
 

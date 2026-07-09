@@ -121,13 +121,13 @@ Retired at 66, Snijders devoted the next two decades principally to the promotio
 
 ### First Indies Journey (1920) — Including a Visit to Atjeh
 
-In [[1920]], as chairman of the Vereeniging "Ons Leger," Snijders undertook his first post-war journey to the Indies, accompanied by Kapitein van den Generalen Staf E. H. A. van den Akker as secretary, to represent "Ons Leger" at the Algemene Vergadering of "Indië Weerbaar" at [[Bandoeng|Bandoeng]] on [[24 May]] [[24 May]] [[1920]]. A transport workers' strike forced him to give up his intended passage on the *Wilis*; with some effort he secured a berth on the English mailboat *Delta* of the P&O Line, leaving Europe on [[7 April]] [[7 April]] and arriving at [[Tandjong Priok|Tandjong Priok]] on [[16 May]] [[16 May]]. After the Bandoeng meeting he gave lectures on the defensie-vraagstuk at [[Surabaya|Surabaya]] on [[14 July]] [[14 July]], at [[Semarang|Semarang]] on [[21 July]] [[21 July]], and at [[Medan|Medan]] on [[12 August]] [[12 August]].
+In [[1920]], as chairman of the Vereeniging "Ons Leger," Snijders undertook his first post-war journey to the Indies, accompanied by Kapitein van den Generalen Staf E. H. A. van den Akker as secretary, to represent "Ons Leger" at the Algemene Vergadering of "Indië Weerbaar" at [[Bandoeng|Bandoeng]] on [[24 May]] [[24 May]] [[1920]]. A transport workers' strike forced him to give up his intended passage on the *Wilis*; with some effort he secured a berth on the English mailboat *Delta* of the P&O Line, leaving Europe on [[7 April]] [[7 April]] and arriving at [[Tanjung Priok|Tanjung Priok]] on [[16 May]] [[16 May]]. After the Bandoeng meeting he gave lectures on the defensie-vraagstuk at [[Surabaya|Surabaya]] on [[14 July]] [[14 July]], at [[Semarang|Semarang]] on [[21 July]] [[21 July]], and at [[Medan|Medan]] on [[12 August]] [[12 August]].
 
 On [[Sumatra|Sumatra]] he paid a visit to [[Acheh|Atjeh]], where — the biographer notes — he laid a wreath on the grave of [[J. L. J. H. Pel|Generaal-Majoor Pel]] in the European cemetery at [[Koeta Radja|Kota Radja]]. The wreath-laying closed a personal circle: Snijders had served under Pel in [[1874]]–[[1875]] and had been decorated for actions during Pel's command; Pel himself had died suddenly at kampong Tonga on [[24 February]] [[24 February]] [[1876]] in the middle of the campaign against the [[XXII Moekims|XXII Moekims]], and had been buried at [[Koeta Radja|Kota Radja]]. From [[Medan|Medan]] Snijders also made a tour through the interior to [[Padang|Padang]]. He left the Indies on [[2 September]] [[2 September]] on the *Insulinde*.
 
 ### Subsequent Indies Journeys (1928, 1929)
 
-In [[1928]] the Bestuur of the Indische Vereeniging Luchtvaart invited him to attend the festive opening of the [[K.N.I.L.M.|K.N.I.L.M.]] lines. He sailed on [[19 September]] [[19 September]] [[1928]] on the *Christian Huygens* and arrived at [[Tandjong Priok|Tandjong Priok]] on [[12 October]] [[12 October]]. His arrival had the character of a triumphant return — a thousand-headed crowd, a military band, and circling aircraft welcomed him at the quay. On [[1 November]] [[1 November]] the inauguration of the [[K.N.I.L.M.|K.N.I.L.M.]] lines took place at the airfield Tjikolitan near Meester Cornelis, where Snijders as adviser to the company delivered one of his characteristically forceful speeches. He made several flights Weltevreden–Bandoeng and Weltevreden–Simongan (Semarang), and on [[18 October]] [[18 October]] attended the centenary of the [[Koninklijke Militaire Academie|KMA]] at Weltevreden; on [[10 November]] [[10 November]] he attended a mobilisation commemoration at Surabaya. He then spent a week as the guest of the [[Koninklijke Paketvaart-Maatschappij|Koninklijke Paketvaart-Maatschappij]] on Bali; on Sumatra the Vereeniging van Nederlandsch-Indische Officieren on Sumatra's Oostkust gave him a splendid reception at [[Medan|Medan]], and as guest of the Delegeerd-Commissaris of the Deli-Maatschappij, Mr. Enthoven, he made an excursion to Lake Toba. He returned by the *Semboro* at the end of the year.
+In [[1928]] the Bestuur of the Indische Vereeniging Luchtvaart invited him to attend the festive opening of the [[K.N.I.L.M.|K.N.I.L.M.]] lines. He sailed on [[19 September]] [[19 September]] [[1928]] on the *Christian Huygens* and arrived at [[Tanjung Priok|Tanjung Priok]] on [[12 October]] [[12 October]]. His arrival had the character of a triumphant return — a thousand-headed crowd, a military band, and circling aircraft welcomed him at the quay. On [[1 November]] [[1 November]] the inauguration of the [[K.N.I.L.M.|K.N.I.L.M.]] lines took place at the airfield Tjikolitan near Meester Cornelis, where Snijders as adviser to the company delivered one of his characteristically forceful speeches. He made several flights Weltevreden–Bandoeng and Weltevreden–Simongan (Semarang), and on [[18 October]] [[18 October]] attended the centenary of the [[Koninklijke Militaire Academie|KMA]] at Weltevreden; on [[10 November]] [[10 November]] he attended a mobilisation commemoration at Surabaya. He then spent a week as the guest of the [[Koninklijke Paketvaart-Maatschappij|Koninklijke Paketvaart-Maatschappij]] on Bali; on Sumatra the Vereeniging van Nederlandsch-Indische Officieren on Sumatra's Oostkust gave him a splendid reception at [[Medan|Medan]], and as guest of the Delegeerd-Commissaris of the Deli-Maatschappij, Mr. Enthoven, he made an excursion to Lake Toba. He returned by the *Semboro* at the end of the year.
 
 In [[1929]] the [[K.N.I.L.M.|K.N.I.L.M.]] Raad van Bestuur (of which he had become a member in [[1928]]) asked him to return to Batavia to negotiate with the Indies government over modifications to the K.N.I.L.M. statutes and route. After initial hesitation on grounds of health, and a doctor's assurance that the journey was permissible with moderation in festivities, he sailed again on [[19 September]] [[19 September]] [[1929]], arriving [[12 October]] [[12 October]]. Discussions at [[Bandoeng|Bandoeng]] with the Director of the Department of Gouvernementsbedrijven reached their goal; on [[1 November]] [[1 November]] Snijders attended the opening of the Weltevreden–Surabaya line and the first west-to-east Java flight. At Semarang in November he again attended the *jaarfeest* of the Nationalen Bond "Het Mobilisatiekruis"; at [[Medan|Medan]] a slight attack of dysentery reminded him of his doctor's warning, and he declined a reception by the Vereeniging van Nederlandsch-Indische Officieren on Sumatra's Oostkust. He returned to the Netherlands in late December.
 
@@ -171,9 +171,9 @@ Snijders' Atjeh service, though only eight months in the field and a further six
 - [[T. J. A. van Zijll de Jong]]
 - [[J. L. J. H. Pel]]
 - [[J. H. R. Köhler]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[J. Loudon]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Imam of Longbatta]]
 - [[J. H. Kromhout]]
 - [[J. W. N. Cramer]]
@@ -190,7 +190,7 @@ Snijders' Atjeh service, though only eight months in the field and a further six
 - [[Koninklijk Besluit of 26 July 1872 No. 63]]
 - [[Franco-Prussian War]]
 - [[First World War]]
-- [[Bamboe-doerie]]
+- [[Bamboe-doeri|Bamboe-doerie]]
 - [[Ranjoe]]
 - [[Bandjir]]
 - [[Vrije koelies]]
@@ -336,13 +336,13 @@ Retired at 66, Snijders devoted the next two decades principally to the promotio
 
 ### First Indies Journey (1920) — Including a Visit to Atjeh
 
-In [[1920]], as chairman of the Vereeniging "Ons Leger," Snijders undertook his first post-war journey to the Indies, accompanied by Kapitein van den Generalen Staf E. H. A. van den Akker as secretary, to represent "Ons Leger" at the Algemene Vergadering of "Indië Weerbaar" at [[Bandoeng|Bandoeng]] on [[24 May]] [[24 May]] [[1920]]. A transport workers' strike forced him to give up his intended passage on the *Wilis*; with some effort he secured a berth on the English mailboat *Delta* of the P&O Line, leaving Europe on [[7 April]] [[7 April]] and arriving at [[Tandjong Priok|Tandjong Priok]] on [[16 May]] [[16 May]]. After the Bandoeng meeting he gave lectures on the defensie-vraagstuk at [[Surabaya|Surabaya]] on [[14 July]] [[14 July]], at [[Semarang|Semarang]] on [[21 July]] [[21 July]], and at [[Medan|Medan]] on [[12 August]] [[12 August]].
+In [[1920]], as chairman of the Vereeniging "Ons Leger," Snijders undertook his first post-war journey to the Indies, accompanied by Kapitein van den Generalen Staf E. H. A. van den Akker as secretary, to represent "Ons Leger" at the Algemene Vergadering of "Indië Weerbaar" at [[Bandoeng|Bandoeng]] on [[24 May]] [[24 May]] [[1920]]. A transport workers' strike forced him to give up his intended passage on the *Wilis*; with some effort he secured a berth on the English mailboat *Delta* of the P&O Line, leaving Europe on [[7 April]] [[7 April]] and arriving at [[Tanjung Priok|Tanjung Priok]] on [[16 May]] [[16 May]]. After the Bandoeng meeting he gave lectures on the defensie-vraagstuk at [[Surabaya|Surabaya]] on [[14 July]] [[14 July]], at [[Semarang|Semarang]] on [[21 July]] [[21 July]], and at [[Medan|Medan]] on [[12 August]] [[12 August]].
 
 On [[Sumatra|Sumatra]] he paid a visit to [[Acheh|Atjeh]], where — the biographer notes — he laid a wreath on the grave of [[J. L. J. H. Pel|Generaal-Majoor Pel]] in the European cemetery at [[Koeta Radja|Kota Radja]]. The wreath-laying closed a personal circle: Snijders had served under Pel in [[1874]]–[[1875]] and had been decorated for actions during Pel's command; Pel himself had died suddenly at kampong Tonga on [[24 February]] [[24 February]] [[1876]] in the middle of the campaign against the [[XXII Moekims|XXII Moekims]], and had been buried at [[Koeta Radja|Kota Radja]]. From [[Medan|Medan]] Snijders also made a tour through the interior to [[Padang|Padang]]. He left the Indies on [[2 September]] [[2 September]] on the *Insulinde*.
 
 ### Subsequent Indies Journeys (1928, 1929)
 
-In [[1928]] the Bestuur of the Indische Vereeniging Luchtvaart invited him to attend the festive opening of the [[K.N.I.L.M.|K.N.I.L.M.]] lines. He sailed on [[19 September]] [[19 September]] [[1928]] on the *Christian Huygens* and arrived at [[Tandjong Priok|Tandjong Priok]] on [[12 October]] [[12 October]]. His arrival had the character of a triumphant return — a thousand-headed crowd, a military band, and circling aircraft welcomed him at the quay. On [[1 November]] [[1 November]] the inauguration of the [[K.N.I.L.M.|K.N.I.L.M.]] lines took place at the airfield Tjikolitan near Meester Cornelis, where Snijders as adviser to the company delivered one of his characteristically forceful speeches. He made several flights Weltevreden–Bandoeng and Weltevreden–Simongan (Semarang), and on [[18 October]] [[18 October]] attended the centenary of the [[Koninklijke Militaire Academie|KMA]] at Weltevreden; on [[10 November]] [[10 November]] he attended a mobilisation commemoration at Surabaya. He then spent a week as the guest of the [[Koninklijke Paketvaart-Maatschappij|Koninklijke Paketvaart-Maatschappij]] on Bali; on Sumatra the Vereeniging van Nederlandsch-Indische Officieren on Sumatra's Oostkust gave him a splendid reception at [[Medan|Medan]], and as guest of the Delegeerd-Commissaris of the Deli-Maatschappij, Mr. Enthoven, he made an excursion to Lake Toba. He returned by the *Semboro* at the end of the year.
+In [[1928]] the Bestuur of the Indische Vereeniging Luchtvaart invited him to attend the festive opening of the [[K.N.I.L.M.|K.N.I.L.M.]] lines. He sailed on [[19 September]] [[19 September]] [[1928]] on the *Christian Huygens* and arrived at [[Tanjung Priok|Tanjung Priok]] on [[12 October]] [[12 October]]. His arrival had the character of a triumphant return — a thousand-headed crowd, a military band, and circling aircraft welcomed him at the quay. On [[1 November]] [[1 November]] the inauguration of the [[K.N.I.L.M.|K.N.I.L.M.]] lines took place at the airfield Tjikolitan near Meester Cornelis, where Snijders as adviser to the company delivered one of his characteristically forceful speeches. He made several flights Weltevreden–Bandoeng and Weltevreden–Simongan (Semarang), and on [[18 October]] [[18 October]] attended the centenary of the [[Koninklijke Militaire Academie|KMA]] at Weltevreden; on [[10 November]] [[10 November]] he attended a mobilisation commemoration at Surabaya. He then spent a week as the guest of the [[Koninklijke Paketvaart-Maatschappij|Koninklijke Paketvaart-Maatschappij]] on Bali; on Sumatra the Vereeniging van Nederlandsch-Indische Officieren on Sumatra's Oostkust gave him a splendid reception at [[Medan|Medan]], and as guest of the Delegeerd-Commissaris of the Deli-Maatschappij, Mr. Enthoven, he made an excursion to Lake Toba. He returned by the *Semboro* at the end of the year.
 
 In [[1929]] the [[K.N.I.L.M.|K.N.I.L.M.]] Raad van Bestuur (of which he had become a member in [[1928]]) asked him to return to Batavia to negotiate with the Indies government over modifications to the K.N.I.L.M. statutes and route. After initial hesitation on grounds of health, and a doctor's assurance that the journey was permissible with moderation in festivities, he sailed again on [[19 September]] [[19 September]] [[1929]], arriving [[12 October]] [[12 October]]. Discussions at [[Bandoeng|Bandoeng]] with the Director of the Department of Gouvernementsbedrijven reached their goal; on [[1 November]] [[1 November]] Snijders attended the opening of the Weltevreden–Surabaya line and the first west-to-east Java flight. At Semarang in November he again attended the *jaarfeest* of the Nationalen Bond "Het Mobilisatiekruis"; at [[Medan|Medan]] a slight attack of dysentery reminded him of his doctor's warning, and he declined a reception by the Vereeniging van Nederlandsch-Indische Officieren on Sumatra's Oostkust. He returned to the Netherlands in late December.
 
@@ -386,9 +386,9 @@ Snijders' Atjeh service, though only eight months in the field and a further six
 - [[T. J. A. van Zijll de Jong]]
 - [[J. L. J. H. Pel]]
 - [[J. H. R. Köhler]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[J. Loudon]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Imam of Longbatta]]
 - [[J. H. Kromhout]]
 - [[J. W. N. Cramer]]
@@ -405,7 +405,7 @@ Snijders' Atjeh service, though only eight months in the field and a further six
 - [[Koninklijk Besluit of 26 July 1872 No. 63]]
 - [[Franco-Prussian War]]
 - [[First World War]]
-- [[Bamboe-doerie]]
+- [[Bamboe-doeri|Bamboe-doerie]]
 - [[Ranjoe]]
 - [[Bandjir]]
 - [[Vrije koelies]]

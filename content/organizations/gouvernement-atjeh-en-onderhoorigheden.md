@@ -4,7 +4,7 @@ aliases: [Government of Atjeh and Dependencies, Gouvernement Atjeh, Atjeh Govern
 tags: [organization, gouvernement, atjeh, colonial-administration, military-governance, buitenbezittingen]
 ---
 
-**The Gouvernement Atjeh en Onderhoorigheden** (Government of Atjeh and Dependencies) was the colonial administrative unit governing the territory of Atjeh and its subordinate regions in the northern tip of Sumatra. Headed by a Civiel en Militair Gouverneur (Civil and Military Governor)—most recently [[H. N. N. A. Swart]] at the time of the [[Bestuursreorganisatie Sumatra (1913-1914)]]—the Gouvernement occupied a unique position in the administrative hierarchy of the Netherlands East Indies, combining civil and military authority in a single office. This arrangement reflected the protracted Atjeh War (1873-1914 and beyond) and the continued need for military governance in parts of the territory that had not yet been fully pacified or integrated into the regular colonial administrative system.
+**The Gouvernement Atjeh en Onderhoorigheden** (Government of Atjeh and Dependencies) was the colonial administrative unit governing the territory of Atjeh and its subordinate regions in the northern tip of Sumatra. Headed by a Civiel en Militair Gouverneur (Civil and Military Governor)—most recently [[H. N. A. Swart|H. N. N. A. Swart]] at the time of the [[Bestuursreorganisatie Sumatra (1913-1914)]]—the Gouvernement occupied a unique position in the administrative hierarchy of the Netherlands East Indies, combining civil and military authority in a single office. This arrangement reflected the protracted Atjeh War (1873-1914 and beyond) and the continued need for military governance in parts of the territory that had not yet been fully pacified or integrated into the regular colonial administrative system.
 
 ## Dual Administrative Structure
 
@@ -30,7 +30,7 @@ The Gouvernement Atjeh en Onderhoorigheden was one of the most distinctive admin
 
 ## See Also
 
-- [[H. N. N. A. Swart]]
+- [[H. N. A. Swart|H. N. N. A. Swart]]
 - [[Koeta-Radja]]
 - [[Groot-Atjeh]]
 - [[Rechtstreeks bestuurd gebied]]

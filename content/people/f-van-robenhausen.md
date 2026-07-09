@@ -3,13 +3,13 @@ title: F. van Robenhausen
 aliases: [F. van Robenhausen]
 tags: [person, marine, dutch]
 ---
-**F. van Robenhausen** was a **[[marinier|marine]]** of 3rd class in the **[[Korps Mariniers]]** who, together with **[[J. Boon]]**, was nominated for the **[[Militaire Willemsorde]]** after the **[[Expedition to Retch 1858|1858 assault]]**. He succumbed to his injuries before the award could be processed.
+**F. van Robenhausen** was a **[[marinier|marine]]** of 3rd class in the **[[Royal Netherlands Marine Corps|Korps Mariniers]]** who, together with **[[J. Boon]]**, was nominated for the **[[Militaire Willemsorde]]** after the **[[Expedition to Retch 1858|1858 assault]]**. He succumbed to his injuries before the award could be processed.
 
 ## See Also
 
 - [[Expedition to Retch 1858]]
 - [[Militaire Willemsorde]]
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 
 ## Source
 

@@ -9,7 +9,7 @@ tags: [concept, religious, islamic]
 Acehnese scholars employed the term to denounce rival Muslim factions and foreign powers, especially during the Aceh War (c. [[1873]]–[[1904]]). The *Burda*’s language reinforced a binary worldview of faith versus disbelief.
 
 ## See Also
-- [[Qasida al‑Burda]]
+- [[Burda (poem)|Qasida al‑Burda]]
 - [[Muhammad]]
 - [[Jinn]]
 - [[Acehnese religious poetry]]

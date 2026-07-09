@@ -5,7 +5,7 @@ aliases: [Syed Hussain, Syed Hussein, said Hussain, Said Hussain]
 tags: [person, achehnese, malay, scholar]
 ---
 
-**Said Hussein** (also written *Syed Hussein*, *Syed Hussain*, *Said Hussain*) was a wealthy Arab-descended (*said*) trader of [[Penang]] whose family became entangled in the [[Acheh succession dispute (1802-1819)|Acheh succession dispute]] of the early nineteenth century. He was the father of [[Sultan Saif ul-Alum|Sultan Saif ul-Alum (Syf)]] and of [[Said Akil]], and himself the means by which the Achehnese opposition in [[1815]] sought to displace [[Sultan Jauhar Alum]]. Although he never reigned, his role was pivotal: the Penang government's involvement in his expedition of 1815 set in motion the train of events that led, four years later, to [[Sir Thomas Stamford Raffles|Raffles]]'s [[Acheh treaty of 1819|Acheh treaty]] of [[22 April]] [[1819]].
+**Said Hussein** (also written *Syed Hussein*, *Syed Hussain*, *Said Hussain*) was a wealthy Arab-descended (*said*) trader of [[Penang]] whose family became entangled in the [[Acheh succession dispute (1802-1819)|Acheh succession dispute]] of the early nineteenth century. He was the father of [[Sultan Saif ul-Alum|Sultan Saif ul-Alum (Syf)]] and of [[Said Akil]], and himself the means by which the Achehnese opposition in [[1815]] sought to displace [[Sultan Jauhar Alum]]. Although he never reigned, his role was pivotal: the Penang government's involvement in his expedition of 1815 set in motion the train of events that led, four years later, to [[Sir Thomas Stamford Raffles|Raffles]]'s [[Treaty of Pedir (1819)|Acheh treaty]] of [[22 April]] [[1819]].
 
 ## Background and the offer of the throne
 
@@ -41,7 +41,7 @@ Hussein's family continued to play a role in the Achehnese and east-coast politi
 ---
 
 
-**Said Hussein** (also written *Syed Hussein*, *Syed Hussain*, *Said Hussain*) was a wealthy Arab-descended (*said*) trader of [[Penang]] whose family became entangled in the [[Acheh succession dispute (1802-1819)|Acheh succession dispute]] of the early nineteenth century. He was the father of [[Sultan Saif ul-Alum|Sultan Saif ul-Alum (Syf)]] and of [[Said Akil]], and himself the means by which the Achehnese opposition in [[1815]] sought to displace [[Sultan Jauhar Alum]]. Although he never reigned, his role was pivotal: the Penang government's involvement in his expedition of 1815 set in motion the train of events that led, four years later, to [[Sir Thomas Stamford Raffles|Raffles]]'s [[Acheh treaty of 1819|Acheh treaty]] of [[22 April]] [[1819]].
+**Said Hussein** (also written *Syed Hussein*, *Syed Hussain*, *Said Hussain*) was a wealthy Arab-descended (*said*) trader of [[Penang]] whose family became entangled in the [[Acheh succession dispute (1802-1819)|Acheh succession dispute]] of the early nineteenth century. He was the father of [[Sultan Saif ul-Alum|Sultan Saif ul-Alum (Syf)]] and of [[Said Akil]], and himself the means by which the Achehnese opposition in [[1815]] sought to displace [[Sultan Jauhar Alum]]. Although he never reigned, his role was pivotal: the Penang government's involvement in his expedition of 1815 set in motion the train of events that led, four years later, to [[Sir Thomas Stamford Raffles|Raffles]]'s [[Treaty of Pedir (1819)|Acheh treaty]] of [[22 April]] [[1819]].
 
 ## Background and the offer of the throne
 

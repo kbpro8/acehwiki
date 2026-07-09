@@ -13,7 +13,7 @@ Coppel’s participation contributed to the close‑quarters fighting that secur
 
 - [[Expedition to Retch 1858]]
 - [[Rotan (rattan)]]
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 
 ## Source
 

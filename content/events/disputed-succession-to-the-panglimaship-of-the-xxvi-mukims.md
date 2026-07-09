@@ -30,7 +30,7 @@ The double panglimaship thus continued to exist, but in fact Teuku Juhan was not
 - [[Teuku Chut Lamreueng]]
 - [[Teuku Juhan]]
 - [[Panglima Sagi]]
-- [[Ibrahim Manso Shah]]
+- [[Sultan Ibrahim Mansur Shah|Ibrahim Manso Shah]]
 - [[Dutch War in Acheh]]
 
 ## Source

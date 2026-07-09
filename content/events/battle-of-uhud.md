@@ -24,7 +24,7 @@ The Achehnese, in Hurgronje's account, are not ignorant of the battle of Uhud it
 - [[Kòh gigèe (tooth-filing)]]
 - [[Peusunat (circumcision)]]
 - [[Ulamas]]
-- [[Islam in Acheh]]
+- [[Islam in Aceh|Islam in Acheh]]
 
 ## Source
 

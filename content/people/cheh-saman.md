@@ -19,7 +19,7 @@ Among his rivals were [[Habib Samalanga]], the sayyid who came to [[Great Acheh]
 
 Cheh Saman died in January [[1891]], still in the full vigour of life, after a sudden illness. He is said to have expressed the conviction that poison had been administered to him by some agent of his son [[Mat Amin]] — a *teungku* by title and a guerrilla chief by trade, who had lived openly with another man's wife and had been forbidden access to his father's presence. Notwithstanding this, Cheh Saman had Mat Amin summoned to his bedside when dying, and solemnly warned him to go to the devout *ulamas* for advice and to forsake his evil ways. He seemed however to realise how little chance there was of his son's ever proving his true successor in any respect; and indeed, when after Cheh Saman's death Mat Amin gave the rein more than ever to his evil passions, the great body of the adherents of Teungku Tiro at once melted away.
 
-Cheh Saman left no true successor in the office of Teungku Tiro. His son Mat Amin was killed in action in [[1896]] when the Dutch troops captured the fortress of [[Aneu' Galong]]. Two other sons — [[Teungku Beb]] (died [[1900]]) and [[Teungku Mahidin]] — together with their kinsman [[Teungku Chot Plieng]] (died [[1901]]), much respected for his piety and learning, continued to do their utmost to maintain the collections of the *sabil* contributions in the dependencies on the [[North Coast (of Acheh)|North Coast]]; but Great Acheh no longer furnished a field for their labour.
+Cheh Saman left no true successor in the office of Teungku Tiro. His son Mat Amin was killed in action in [[1896]] when the Dutch troops captured the fortress of [[Aneu Galong|Aneu' Galong]]. Two other sons — [[Teungku Beb]] (died [[1900]]) and [[Teungku Mahidin]] — together with their kinsman [[Teungku Chot Plieng]] (died [[1901]]), much respected for his piety and learning, continued to do their utmost to maintain the collections of the *sabil* contributions in the dependencies on the [[North Coast (of Acheh)|North Coast]]; but Great Acheh no longer furnished a field for their labour.
 
 ## See Also
 - [[Aceh War]]
@@ -29,7 +29,7 @@ Cheh Saman left no true successor in the office of Teungku Tiro. His son Mat Ami
 - [[Pidie]]
 - [[Teungku Beb]]
 - [[Teungku Chot Plieng]]
-- [[Teungku Kuta Karang]]
+- [[Teungku Kutakarang|Teungku Kuta Karang]]
 - [[Teungku Kutakarang]]
 - [[Teungku Mahidin]]
 - [[Teungku Mat Amin]]
@@ -58,7 +58,7 @@ Among his rivals were [[Habib Samalanga]], the sayyid who came to [[Great Acheh]
 
 Cheh Saman died in January [[1891]], still in the full vigour of life, after a sudden illness. He is said to have expressed the conviction that poison had been administered to him by some agent of his son [[Mat Amin]] — a *teungku* by title and a guerrilla chief by trade, who had lived openly with another man's wife and had been forbidden access to his father's presence. Notwithstanding this, Cheh Saman had Mat Amin summoned to his bedside when dying, and solemnly warned him to go to the devout *ulamas* for advice and to forsake his evil ways. He seemed however to realise how little chance there was of his son's ever proving his true successor in any respect; and indeed, when after Cheh Saman's death Mat Amin gave the rein more than ever to his evil passions, the great body of the adherents of Teungku Tiro at once melted away.
 
-Cheh Saman left no true successor in the office of Teungku Tiro. His son Mat Amin was killed in action in [[1896]] when the Dutch troops captured the fortress of [[Aneu' Galong]]. Two other sons — [[Teungku Beb]] (died [[1900]]) and [[Teungku Mahidin]] — together with their kinsman [[Teungku Chot Plieng]] (died [[1901]]), much respected for his piety and learning, continued to do their utmost to maintain the collections of the *sabil* contributions in the dependencies on the [[North Coast (of Acheh)|North Coast]]; but Great Acheh no longer furnished a field for their labour.
+Cheh Saman left no true successor in the office of Teungku Tiro. His son Mat Amin was killed in action in [[1896]] when the Dutch troops captured the fortress of [[Aneu Galong|Aneu' Galong]]. Two other sons — [[Teungku Beb]] (died [[1900]]) and [[Teungku Mahidin]] — together with their kinsman [[Teungku Chot Plieng]] (died [[1901]]), much respected for his piety and learning, continued to do their utmost to maintain the collections of the *sabil* contributions in the dependencies on the [[North Coast (of Acheh)|North Coast]]; but Great Acheh no longer furnished a field for their labour.
 
 ## See Also
 - [[Aceh War]]
@@ -68,7 +68,7 @@ Cheh Saman left no true successor in the office of Teungku Tiro. His son Mat Ami
 - [[Pidie]]
 - [[Teungku Beb]]
 - [[Teungku Chot Plieng]]
-- [[Teungku Kuta Karang]]
+- [[Teungku Kutakarang|Teungku Kuta Karang]]
 - [[Teungku Kutakarang]]
 - [[Teungku Mahidin]]
 - [[Teungku Mat Amin]]

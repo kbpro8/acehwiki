@@ -24,7 +24,7 @@ The presence of *achirat* in Acehnese texts underscores the integration of Islam
 
 ## See Also
 
-- [[Al‑Burda (Arabic poem)]]
+- [[Burda (poem)|Al‑Burda (Arabic poem)]]
 - [[Muhammad]]
 - [[Arabic terms in Acehnese religious poetry]]
 - [[Qur’an]]

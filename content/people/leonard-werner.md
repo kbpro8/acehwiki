@@ -4,7 +4,7 @@ aliases: [Leonard Werner (tolk), Werner the Luxemburger, Lenard Werner]
 tags: [person, luxemburger, interpreter, voc, 17th-century]
 ---
 
-**Leonard Werner** was a Luxemburger who served as interpreter (*tolk*) for the [[Atjeh embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits]] in [[1602]]–[[1603]]. His presence in the embassy suite — a German-speaking subject of the Spanish Netherlands translating between Malay and Dutch for the three Atjeh envoys [[Abdoel Hamid]], [[Sri Mohammed]] and [[Mir Hassan]] — illustrates the cosmopolitan linguistic pool on which the early Dutch-Asian trade relied.
+**Leonard Werner** was a Luxemburger who served as interpreter (*tolk*) for the [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits]] in [[1602]]–[[1603]]. His presence in the embassy suite — a German-speaking subject of the Spanish Netherlands translating between Malay and Dutch for the three Atjeh envoys [[Abdoel Hamid]], [[Sri Mohammed]] and [[Mir Hassan]] — illustrates the cosmopolitan linguistic pool on which the early Dutch-Asian trade relied.
 
 ## Role in the Atjeh embassy of 1602
 
@@ -29,7 +29,7 @@ For [[Acheh|Atjeh]]'s history, Werner is a small but telling figure — a Luxemb
 - [[Mir Hassan]]
 - [[Sultan Aloeddin of Atjeh]]
 - [[Prince Maurits]]
-- [[Atjeh embassy to Prince Maurits at Grave (1602)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits at Grave (1602)]]
 - [[1602]]
 - [[Acheh]]
 

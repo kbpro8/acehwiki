@@ -20,7 +20,7 @@ The place of Abdul-Qadir Jilani in the Achehnese system of saint-veneration is s
 ## See Also
 - [[Abu Bakr]]
 - [[Acheh]]
-- [[Ahmad Rifa'i]]
+- [[Ahmad ar-Rifāʿī|Ahmad Rifa'i]]
 - [[Ali]]
 - [[Cheh Saman (Shaikh Samman)]]
 - [[Mohammad (the Prophet)]]
@@ -52,7 +52,7 @@ The place of Abdul-Qadir Jilani in the Achehnese system of saint-veneration is s
 ## See Also
 - [[Abu Bakr]]
 - [[Acheh]]
-- [[Ahmad Rifa'i]]
+- [[Ahmad ar-Rifāʿī|Ahmad Rifa'i]]
 - [[Ali]]
 - [[Cheh Saman (Shaikh Samman)]]
 - [[Mohammad (the Prophet)]]

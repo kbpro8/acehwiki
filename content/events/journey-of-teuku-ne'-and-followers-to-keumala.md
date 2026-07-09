@@ -8,7 +8,7 @@ The **Journey of Teuku Ne' and followers to Keumala** — described by C. Snouck
 
 ## The Court at Keumala
 
-By the time of the journey, the [[Dalam|Dalam]] of [[Banda Acheh|Banda-Acheh]] had fallen into Dutch hands, and the sultanate had been reduced to a wandering court maintained by the pretender Tuanku Muhamat Dawot at Keumala. Although the pretender was, as Snouck Hurgronje observes, "a young ne'er-do-well," he was for some time regarded by a portion of his subjects as *kramat* — that is, miraculously revealed as the chosen friend of God. The journeys to Keumala undertaken by the [[uleebalang]]s who had tendered their submission to the Dutch Government were, in form, pilgrimages to a sovereign; in practice, they were diplomatic errands by which the chiefs obtained from the pretender sealed letters-patent (*[[sarakata|sarakata]]*) confirming them in their offices.
+By the time of the journey, the [[Dalam|Dalam]] of [[Banda Acheh|Banda-Acheh]] had fallen into Dutch hands, and the sultanate had been reduced to a wandering court maintained by the pretender Tuanku Muhamat Dawot at Keumala. Although the pretender was, as Snouck Hurgronje observes, "a young ne'er-do-well," he was for some time regarded by a portion of his subjects as *kramat* — that is, miraculously revealed as the chosen friend of God. The journeys to Keumala undertaken by the [[uleebalang]]s who had tendered their submission to the Dutch Government were, in form, pilgrimages to a sovereign; in practice, they were diplomatic errands by which the chiefs obtained from the pretender sealed letters-patent (*[[Sarakata|Sarakata]]*) confirming them in their offices.
 
 ## The Journey
 
@@ -20,7 +20,7 @@ The journey is cited by Snouck Hurgronje as an illustration of the way in which 
 
 ## Limits of the Reverence
 
-Yet this feeling of awe, however remarkable, was always coupled, Snouck Hurgronje continues, with the conviction that the sole sovereign prince of the country exercised no perceptible influence on the conduct of affairs, and was in fact but an expensive luxury like the documents sealed with the [[Sarakata with chab sikureu'eng|chab sikureu'eng]] (the ninefold seal). All this reverence was, "comparatively speaking, of very slight value from a practical point of view." The pretender was compelled, some years before the publication of *The Achehnese*, to break up his court at Keumala and to lead a wandering life; he submitted to the Dutch Government in January [[1903]], and with him numbers of adventurers, fanatical leaders, and uleebalangs tendered their submission in the years that followed.
+Yet this feeling of awe, however remarkable, was always coupled, Snouck Hurgronje continues, with the conviction that the sole sovereign prince of the country exercised no perceptible influence on the conduct of affairs, and was in fact but an expensive luxury like the documents sealed with the [[Sarakata|chab sikureu'eng]] (the ninefold seal). All this reverence was, "comparatively speaking, of very slight value from a practical point of view." The pretender was compelled, some years before the publication of *The Achehnese*, to break up his court at Keumala and to lead a wandering life; he submitted to the Dutch Government in January [[1903]], and with him numbers of adventurers, fanatical leaders, and uleebalangs tendered their submission in the years that followed.
 
 ## See Also
 
@@ -28,7 +28,7 @@ Yet this feeling of awe, however remarkable, was always coupled, Snouck Hurgronj
 - [[Tuanku Muhamat Dawot]]
 - [[Keumala]]
 - [[Sarakata]]
-- [[Sarakata with chab sikureu'eng]]
+- [[Sarakata|Sarakata with chab sikureu'eng]]
 - [[Election of Sultan Muhamat Dawot Shah]]
 
 ## Source

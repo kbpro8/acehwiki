@@ -8,7 +8,7 @@ tags: [person, author, dutch, colonial, popular-history, 1891, hoorn, atjeh, ace
 
 ## The Land van Jan Pieterszoon Coen
 
-[[Dr. W. A. Terwogt|Terwogt]]'s *[[Het Land van Jan Pieterszoon Coen (Terwogt)|Land van Jan Pieterszoon Coen]]* is a popular history of the Dutch in the East Indies, written for a general Dutch readership in the patriotic idiom of the late nineteenth century. The work's title invokes [[Jan Pieterszoon Coen|Jan Pieterszoon Coen]] — the fourth Governor-General of the V.O.C. and the founder of [[Batavia|Batavia]] — as the emblematic figure of the Dutch East Indian enterprise, and the work's thirteen chapters trace the history from the first voyages of the late sixteenth century to the [[Aceh War|Atjeh-oorlog]] of the 1870s–1890s. The work's Atjeh content is extensive: the early chapters treat the voyages of [[Cornelis de Houtman|Cornelis de Houtman]] ([[1599]]), [[Paulus van Caerden|Paulus van Caerden]] ([[1600]]–[[1601]]), the Vereenigde Zeeuwsche Compagnie ([[1601]]), [[Joris Spilbergh|Joris Spilbergh]] ([[1602]]), [[Sebald de Weert|Sebald de Weert]] ([[1602]]–[[1603]]), and the Atjeh contract of [[Cornelis Matelieff|Cornelis Matelieff]] ([[1606]]); the closing pages of the thirteenth chapter treat the Atjeh-oorlog from the [[1857]] treaty of [[Van Swieten|Van Swieten]] through the two expeditions of [[1873]]–[[1874]] to the protracted guerrilla of the 1880s, ending with the hope that the new Minister of Colonies, [[W. K. Baron van Dedem|W. K. Baron van Dedem]], will bring the war to a conclusion.
+[[Dr. W. A. Terwogt|Terwogt]]'s *[[Het Land van Jan Pieterszoon Coen (Terwogt)|Land van Jan Pieterszoon Coen]]* is a popular history of the Dutch in the East Indies, written for a general Dutch readership in the patriotic idiom of the late nineteenth century. The work's title invokes [[Jan Pieterszoon Coen|Jan Pieterszoon Coen]] — the fourth Governor-General of the V.O.C. and the founder of [[Batavia|Batavia]] — as the emblematic figure of the Dutch East Indian enterprise, and the work's thirteen chapters trace the history from the first voyages of the late sixteenth century to the [[Aceh War|Atjeh-oorlog]] of the 1870s–1890s. The work's Atjeh content is extensive: the early chapters treat the voyages of [[Cornelis de Houtman|Cornelis de Houtman]] ([[1599]]), [[Paulus van Caerden|Paulus van Caerden]] ([[1600]]–[[1601]]), the Vereenigde Zeeuwsche Compagnie ([[1601]]), [[Joris van Spilbergen|Joris van Spilbergen]] ([[1602]]), [[Sebald de Weert|Sebald de Weert]] ([[1602]]–[[1603]]), and the Atjeh contract of [[Cornelis Matelieff|Cornelis Matelieff]] ([[1606]]); the closing pages of the thirteenth chapter treat the Atjeh-oorlog from the [[1857]] treaty of [[Jan van Swieten|Jan van Swieten]] through the two expeditions of [[1873]]–[[1874]] to the protracted guerrilla of the 1880s, ending with the hope that the new Minister of Colonies, [[W. K. Baron van Dedem|W. K. Baron van Dedem]], will bring the war to a conclusion.
 
 ## Method and tone
 
@@ -27,12 +27,12 @@ For AcehWiki, [[Dr. W. A. Terwogt|Terwogt]] is significant as the author of a po
 - [[Cornelis de Houtman]]
 - [[Frederik de Houtman]]
 - [[Paulus van Caerden]]
-- [[Joris Spilbergh]]
+- [[Joris van Spilbergen|Joris Spilbergh]]
 - [[Sebald de Weert]]
 - [[Cornelis Matelieff]]
 - [[J. H. R. Köhler]]
-- [[Van Swieten]]
-- [[Van Daalen]]
+- [[Jan van Swieten|Van Swieten]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [[W. K. Baron van Dedem]]
 - [[Hoorn]]
 - [[Acheh]]

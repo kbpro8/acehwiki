@@ -24,8 +24,8 @@ For AcehWiki, the Koninklijk Instituut voor de Tropen is significant as the publ
 - [[Aceh War]]
 - [[Atjèh's accession to the Negara Islam Indonesia (1953)]]
 - [[Negara Islam Indonesia]]
-- [[Koninklijke Vereniging "Indisch Instituut"]]
-- [[Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]
+- [[Koninklijke Vereeniging Koloniaal Instituut|Koninklijke Vereniging "Indisch Instituut"]]
+- [[Koninklijke Vereeniging Koloniaal Instituut|Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]
 - [[Acheh]]
 - [[Amsterdam]]
 

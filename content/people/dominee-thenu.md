@@ -5,7 +5,7 @@ aliases: [Thenu, Meneerrr Thenu, Soldaten-Dominee, Inlands Godsdienstleraar Then
 tags: [person, clergy, ambonese, knil, aceh]
 ---
 
-**Dominee Thenu** was an Ambonese *Inlands Godsdienstleraar* (indigenous religion teacher) attached to the garrison of [[Koeta-Radja]] who, from [[1894]] until his death on [[11 May]] [[1937]], served for forty full years as the *veldprediker* — and universally honoured *Soldaten-Dominee* — of the [[K.N.I.L.]] troops in [[Atjeh|Aceh]], writing and composing the first [[Marechausseelied|Marechaussee songs]] and visiting every post from the capital to the deeply inland [[Blang-Kedjeren]] and [[Lokop]] several times a year. He was made *Ridder in de Orde van Oranje Nassau* in [[1901]] and after his retirement in [[1934]] was received in audience by [[Koningin Wilhelmina]]; his funeral at [[Koeta-Radja]] was attended by four retired [[Militaire Willemsorde (M.W.O.)|M.W.O.]]-ridders as slippendragers and a Marechaussee brigade as vuurpeleton, and a standbeeld was later erected before his kerkje in the capital.
+**Dominee Thenu** was an Ambonese *Inlands Godsdienstleraar* (indigenous religion teacher) attached to the garrison of [[Koeta-Radja]] who, from [[1894]] until his death on [[11 May]] [[1937]], served for forty full years as the *veldprediker* — and universally honoured *Soldaten-Dominee* — of the [[K.N.I.L.]] troops in [[Atjeh|Aceh]], writing and composing the first [[Marechausseelied|Marechaussee songs]] and visiting every post from the capital to the deeply inland [[Blang-Kedjeren]] and [[Lokop]] several times a year. He was made *Ridder in de Orde van Oranje Nassau* in [[1901]] and after his retirement in [[1934]] was received in audience by [[Queen Wilhelmina|Koningin Wilhelmina]]; his funeral at [[Koeta-Radja]] was attended by four retired [[Militaire Willemsorde|M.W.O.]]-ridders as slippendragers and a Marechaussee brigade as vuurpeleton, and a standbeeld was later erected before his kerkje in the capital.
 
 In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Thenu is the figure whom the visiting dominee names as the one who "may and will also not be forgotten by the Dutch East Indies" — "Admittedly, Thenu was a figure of smaller proportion, but yet equally grown together with this land and its history of the last decades, grown together also with the Acehnese soldier."
 
@@ -13,7 +13,7 @@ In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Thenu is the figure whom the
 
 The post Thenu accepted in [[1894]] was technically not that of *veldprediker* at all. "Die functie was in Atjeh opgeheven, toen men toch niet buiten de linie mocht komen. Er was in Koeta Radja een dominee geplaatst en die kreeg een Inlands Godsdienstleraar toegevoegd." The young Thenu — then "net zes en twintig" — came to a garrison whose moreel uit was. He would hold the post for forty full years.
 
-[[Gouverneur-Generaal Van Heutsz|Van Heutsz]] treasured him and overruled the rule abolishing veldpredikers. When the rulebook was put to him, Van Heutsz answered: "Het kan me niet verdommen wat U bent: hier op Atjeh bent U Dominee." After Thenu's pension he finally secured the formal right to use the title. "Dat was de Soldaten-[[Pastoor Verbraak|Pastoor]] geweest, Thenu was de Soldaten-Dominee."
+[[Joannes Benedictus van Heutsz|Van Heutsz]] treasured him and overruled the rule abolishing veldpredikers. When the rulebook was put to him, Van Heutsz answered: "Het kan me niet verdommen wat U bent: hier op Atjeh bent U Dominee." After Thenu's pension he finally secured the formal right to use the title. "Dat was de Soldaten-[[Pastoor Verbraak|Pastoor]] geweest, Thenu was de Soldaten-Dominee."
 
 ## The Soldaten-Dominee's work
 
@@ -35,7 +35,7 @@ Thenu's great cultural legacy was the [[Marechausseelied]]. He "had de eerste ge
 
 ## The Oranje-Nassau and the audience with the Queen
 
-Thenu was made *Ridder in de Orde van Oranje Nassau* in [[1901]], when he was 33 years old — exceptional because the *Inlandse godsdienstleraar* ranked only for a *medaille*. The decoration was Van Heutsz's doing. When his "veertig Atjeh-jaren" were over in [[1934]], he was sent on a reis naar Nederland and was received by [[Koningin Wilhelmina]]. "Lang heeft het geduurd eer hij de hand heeft gewassen, die door de Koningin was gedrukt": for more than ten days no one else — until [[Generaal Swart]] — was permitted to shake the hand she had shaken. He became ill in [[1935]] and by [[1936]] it was clear that his ziekbed was his doodsbed.
+Thenu was made *Ridder in de Orde van Oranje Nassau* in [[1901]], when he was 33 years old — exceptional because the *Inlandse godsdienstleraar* ranked only for a *medaille*. The decoration was Van Heutsz's doing. When his "veertig Atjeh-jaren" were over in [[1934]], he was sent on a reis naar Nederland and was received by [[Queen Wilhelmina|Koningin Wilhelmina]]. "Lang heeft het geduurd eer hij de hand heeft gewassen, die door de Koningin was gedrukt": for more than ten days no one else — until [[H. N. A. Swart|Generaal Swart]] — was permitted to shake the hand she had shaken. He became ill in [[1935]] and by [[1936]] it was clear that his ziekbed was his doodsbed.
 
 ## The Bakongan meeting (1932) and the Timorees
 
@@ -54,9 +54,9 @@ Dominee Thenu is the moral centre of *[[Oom Ambon van het K.N.I.L.]]*. He is the
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[Marechausseelied]]
 - [[Pastoor Verbraak]]
-- [[Gouverneur-Generaal Van Heutsz]]
-- [[Koningin Wilhelmina]]
-- [[Generaal Swart]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
+- [[Queen Wilhelmina|Koningin Wilhelmina]]
+- [[H. N. A. Swart|Generaal Swart]]
 - [[Salawono]]
 - [[Koeta-Radja]]
 - [[Peutjoet]]
@@ -74,7 +74,7 @@ Dominee Thenu is the moral centre of *[[Oom Ambon van het K.N.I.L.]]*. He is the
 ---
 
 
-**Dominee Thenu** was an Ambonese *Inlands Godsdienstleraar* (indigenous religion teacher) attached to the garrison of [[Koeta-Radja]] who, from [[1894]] until his death on [[11 May]] [[1937]], served for forty full years as the *veldprediker* — and universally honoured *Soldaten-Dominee* — of the [[K.N.I.L.]] troops in [[Atjeh|Aceh]], writing and composing the first [[Marechausseelied|Marechaussee songs]] and visiting every post from the capital to the deeply inland [[Blang-Kedjeren]] and [[Lokop]] several times a year. He was made *Ridder in de Orde van Oranje Nassau* in [[1901]] and after his retirement in [[1934]] was received in audience by [[Koningin Wilhelmina]]; his funeral at [[Koeta-Radja]] was attended by four retired [[Militaire Willemsorde (M.W.O.)|M.W.O.]]-ridders as slippendragers and a Marechaussee brigade as vuurpeleton, and a standbeeld was later erected before his kerkje in the capital.
+**Dominee Thenu** was an Ambonese *Inlands Godsdienstleraar* (indigenous religion teacher) attached to the garrison of [[Koeta-Radja]] who, from [[1894]] until his death on [[11 May]] [[1937]], served for forty full years as the *veldprediker* — and universally honoured *Soldaten-Dominee* — of the [[K.N.I.L.]] troops in [[Atjeh|Aceh]], writing and composing the first [[Marechausseelied|Marechaussee songs]] and visiting every post from the capital to the deeply inland [[Blang-Kedjeren]] and [[Lokop]] several times a year. He was made *Ridder in de Orde van Oranje Nassau* in [[1901]] and after his retirement in [[1934]] was received in audience by [[Queen Wilhelmina|Koningin Wilhelmina]]; his funeral at [[Koeta-Radja]] was attended by four retired [[Militaire Willemsorde|M.W.O.]]-ridders as slippendragers and a Marechaussee brigade as vuurpeleton, and a standbeeld was later erected before his kerkje in the capital.
 
 In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Thenu is the figure whom the visiting dominee names as the one who "may and will also not be forgotten by the Dutch East Indies" — "Admittedly, Thenu was a figure of smaller proportion, but yet equally grown together with this land and its history of the last decades, grown together also with the Acehnese soldier."
 
@@ -82,7 +82,7 @@ In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Thenu is the figure whom the
 
 The post Thenu accepted in [[1894]] was technically not that of *veldprediker* at all. "Die functie was in Atjeh opgeheven, toen men toch niet buiten de linie mocht komen. Er was in Koeta Radja een dominee geplaatst en die kreeg een Inlands Godsdienstleraar toegevoegd." The young Thenu — then "net zes en twintig" — came to a garrison whose moreel uit was. He would hold the post for forty full years.
 
-[[Gouverneur-Generaal Van Heutsz|Van Heutsz]] treasured him and overruled the rule abolishing veldpredikers. When the rulebook was put to him, Van Heutsz answered: "Het kan me niet verdommen wat U bent: hier op Atjeh bent U Dominee." After Thenu's pension he finally secured the formal right to use the title. "Dat was de Soldaten-[[Pastoor Verbraak|Pastoor]] geweest, Thenu was de Soldaten-Dominee."
+[[Joannes Benedictus van Heutsz|Van Heutsz]] treasured him and overruled the rule abolishing veldpredikers. When the rulebook was put to him, Van Heutsz answered: "Het kan me niet verdommen wat U bent: hier op Atjeh bent U Dominee." After Thenu's pension he finally secured the formal right to use the title. "Dat was de Soldaten-[[Pastoor Verbraak|Pastoor]] geweest, Thenu was de Soldaten-Dominee."
 
 ## The Soldaten-Dominee's work
 
@@ -104,7 +104,7 @@ Thenu's great cultural legacy was the [[Marechausseelied]]. He "had de eerste ge
 
 ## The Oranje-Nassau and the audience with the Queen
 
-Thenu was made *Ridder in de Orde van Oranje Nassau* in [[1901]], when he was 33 years old — exceptional because the *Inlandse godsdienstleraar* ranked only for a *medaille*. The decoration was Van Heutsz's doing. When his "veertig Atjeh-jaren" were over in [[1934]], he was sent on a reis naar Nederland and was received by [[Koningin Wilhelmina]]. "Lang heeft het geduurd eer hij de hand heeft gewassen, die door de Koningin was gedrukt": for more than ten days no one else — until [[Generaal Swart]] — was permitted to shake the hand she had shaken. He became ill in [[1935]] and by [[1936]] it was clear that his ziekbed was his doodsbed.
+Thenu was made *Ridder in de Orde van Oranje Nassau* in [[1901]], when he was 33 years old — exceptional because the *Inlandse godsdienstleraar* ranked only for a *medaille*. The decoration was Van Heutsz's doing. When his "veertig Atjeh-jaren" were over in [[1934]], he was sent on a reis naar Nederland and was received by [[Queen Wilhelmina|Koningin Wilhelmina]]. "Lang heeft het geduurd eer hij de hand heeft gewassen, die door de Koningin was gedrukt": for more than ten days no one else — until [[H. N. A. Swart|Generaal Swart]] — was permitted to shake the hand she had shaken. He became ill in [[1935]] and by [[1936]] it was clear that his ziekbed was his doodsbed.
 
 ## The Bakongan meeting (1932) and the Timorees
 
@@ -123,9 +123,9 @@ Dominee Thenu is the moral centre of *[[Oom Ambon van het K.N.I.L.]]*. He is the
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[Marechausseelied]]
 - [[Pastoor Verbraak]]
-- [[Gouverneur-Generaal Van Heutsz]]
-- [[Koningin Wilhelmina]]
-- [[Generaal Swart]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
+- [[Queen Wilhelmina|Koningin Wilhelmina]]
+- [[H. N. A. Swart|Generaal Swart]]
 - [[Salawono]]
 - [[Koeta-Radja]]
 - [[Peutjoet]]

@@ -5,7 +5,7 @@ aliases: [Abū Shakūr as-Sālimī, Abu Syakur as-Salimi, Abu Syakur os-Salimī,
 tags: [person, scholar, religious-figure, shafi'i, kalam, persian, 11th-century, source-of-tibjan]
 ---
 
-**Abū Shakūr as-Sālimī** was a Shāfiʿite theologian of Persia who lived in the second half of the fifth century of the Hegira (eleventh century C.E.). He is the author of the [[Tamhid fi bayan at-tawhid|*at-Tamhīd fī bayān at-tawḥīd*]] ("The Preparation concerning the Exposition of the Divine Unity"), a Shāfiʿite manual of *kalām* and of the refutation of sectarian deviation. The *Tamhīd* is identified by [[P. Voorhoeve|Voorhoeve]] as the principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]]: more than a quarter of the text of the *Tibjān* is translated literally from the *Tamhīd*, especially from its last chapter, on orthodoxy and the rejection of innovation (*bidʿa*).
+**Abū Shakūr as-Sālimī** was a Shāfiʿite theologian of Persia who lived in the second half of the fifth century of the Hegira (eleventh century C.E.). He is the author of the [[Tamhid fi bayan at-tawhid|*at-Tamhīd fī bayān at-tawḥīd*]] ("The Preparation concerning the Exposition of the Divine Unity"), a Shāfiʿite manual of *kalām* and of the refutation of sectarian deviation. The *Tamhīd* is identified by [[P. Voorhoeve|Voorhoeve]] as the principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]]: more than a quarter of the text of the *Tibjān* is translated literally from the *Tamhīd*, especially from its last chapter, on orthodoxy and the rejection of innovation (*bidʿa*).
 
 ## The *Tamhīd*
 
@@ -27,7 +27,7 @@ Abū Shakūr as-Sālimī is, through his [[Tamhid fi bayan at-tawhid|*Tamhīd*]]
 - [[Ma'rifat al-madhahib]]
 - [[Najm ad-Din an-Nasafi]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
@@ -41,7 +41,7 @@ H. Kraemer, *Een Javaansche Primbon*, p. 209, where the *Tamhīd* is noted.
 ---
 
 
-**Abū Shakūr as-Sālimī** was a Shāfiʿite theologian of Persia who lived in the second half of the fifth century of the Hegira (eleventh century C.E.). He is the author of the [[Tamhid fi bayan at-tawhid|*at-Tamhīd fī bayān at-tawḥīd*]] ("The Preparation concerning the Exposition of the Divine Unity"), a Shāfiʿite manual of *kalām* and of the refutation of sectarian deviation. The *Tamhīd* is identified by [[P. Voorhoeve|Voorhoeve]] as the principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]]: more than a quarter of the text of the *Tibjān* is translated literally from the *Tamhīd*, especially from its last chapter, on orthodoxy and the rejection of innovation (*bidʿa*).
+**Abū Shakūr as-Sālimī** was a Shāfiʿite theologian of Persia who lived in the second half of the fifth century of the Hegira (eleventh century C.E.). He is the author of the [[Tamhid fi bayan at-tawhid|*at-Tamhīd fī bayān at-tawḥīd*]] ("The Preparation concerning the Exposition of the Divine Unity"), a Shāfiʿite manual of *kalām* and of the refutation of sectarian deviation. The *Tamhīd* is identified by [[P. Voorhoeve|Voorhoeve]] as the principal source of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]]: more than a quarter of the text of the *Tibjān* is translated literally from the *Tamhīd*, especially from its last chapter, on orthodoxy and the rejection of innovation (*bidʿa*).
 
 ## The *Tamhīd*
 
@@ -63,7 +63,7 @@ Abū Shakūr as-Sālimī is, through his [[Tamhid fi bayan at-tawhid|*Tamhīd*]]
 - [[Ma'rifat al-madhahib]]
 - [[Najm ad-Din an-Nasafi]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Tibjan fi ma'rifat al-adyan]]
 

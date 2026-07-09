@@ -24,15 +24,15 @@ From [[1884]], Kutaradja was the center of a defensive perimeter known as the **
 
 ## Later Development
 
-Under the administration of **[[J. B. van Heutsz]]** and his successors, Kutaradja was rebuilt and developed into a modern colonial center. The construction of the **[[Sabang]]** harbor on nearby Pulau Weh and the development of infrastructure helped integrate Aceh into the colonial economy.
+Under the administration of **[[Joannes Benedictus van Heutsz|J. B. van Heutsz]]** and his successors, Kutaradja was rebuilt and developed into a modern colonial center. The construction of the **[[Sabang]]** harbor on nearby Pulau Weh and the development of infrastructure helped integrate Aceh into the colonial economy.
 
 ## See Also
 
 - [[Aceh War]]
 - [[Geconcentreerde Linie]]
 - [[General Köhler]]
-- [[General Van Swieten]]
-- [[J. B. van Heutsz]]
+- [[Jan van Swieten|General Van Swieten]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Sabang]]
 
 ## Source

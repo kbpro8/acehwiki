@@ -18,7 +18,7 @@ The legend is structurally a compact double-taboo narrative: a single ancestor, 
 3. **First rescuer-threatener**: an eel (*paling*), which catches Gedong but brings him to land after he swears never to eat eel.
 4. **Second rescuer-threatener**: a buffalo on the beach (whether an albino is not specified), which threatens to push him back into the sea but releases him unharmed after he swears never to eat buffalo-meat.
 5. **Inherited prohibitions**: the members of the [[marga Ramin|marga Ramin]] are said to abstain, to this day, from both eel and buffalo-meat.
-The legend's significance is threefold. First, it ties the [[Boven-Singkel|Boven-Singkel]] (Singkil-area) genealogical tradition to the [[Pasei|Pasai]] cultural sphere of northern Atjeh — Gedong is explicitly an Atjeher of [[Pasei|Pasei]], not a Singkil-area figure, and his legend thus documents the cultural reach of the Pasai sphere into the southern Atjeh border zone. Second, it is one of the documented Sumatran *pantang*-origin narratives alongside the [[Pantang of the albino buffalo in Atjeh|Atjeh pantang legend]] of the white buffalo licking the corpse-fluid of a fallen child — a parallel corpus in which the buffalo (especially the albino buffalo) figures as the central animal. Third, [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] is quoted in the same chapter of *De Karbouw* (p. 218) cautioning that present-day obedience to such prohibitions rests on fear of ancestral wrath, even if the prohibition's origin may lie in pre-Islamic totemistic ideas — a judgement that applies also to the marga Ramin case.
+The legend's significance is threefold. First, it ties the [[Boven-Singkel|Boven-Singkel]] (Singkil-area) genealogical tradition to the [[Pasei|Pasai]] cultural sphere of northern Atjeh — Gedong is explicitly an Atjeher of [[Pasei|Pasei]], not a Singkil-area figure, and his legend thus documents the cultural reach of the Pasai sphere into the southern Atjeh border zone. Second, it is one of the documented Sumatran *pantang*-origin narratives alongside the [[Pantang of the albino buffalo in Atjeh|Atjeh pantang legend]] of the white buffalo licking the corpse-fluid of a fallen child — a parallel corpus in which the buffalo (especially the albino buffalo) figures as the central animal. Third, [[C. Snouck Hurgronje|Snouck Hurgronje]] is quoted in the same chapter of *De Karbouw* (p. 218) cautioning that present-day obedience to such prohibitions rests on fear of ancestral wrath, even if the prohibition's origin may lie in pre-Islamic totemistic ideas — a judgement that applies also to the marga Ramin case.
 
 ## Significance
 The marga Ramin legend is significant for the encyclopedia of [[Acheh]] history as a documented instance of the wider Atjeh-north-Sumatran pattern in which buffalo-meat avoidance is legitimated by an ancestral encounter. The legend ties the [[Boven-Singkel|Boven-Singkel]] genealogical tradition to the [[Pasei|Pasai]] cultural sphere of northern Atjeh, documents the double food-prohibition (eel and buffalo-meat) of the [[marga Ramin|marga Ramin]], and exemplifies the wider Sumatran *pantang*-origin narrative corpus in which the buffalo figures centrally.
@@ -31,7 +31,7 @@ The marga Ramin legend is significant for the encyclopedia of [[Acheh]] history 
 
 ## See Also
 - [[Boven-Singkel]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Gedong (Atjeher of Pasei)]]
 - [[Kreemer's De Karbouw ([[1956]])]]
 - [[Pantang of the albino buffalo in Atjeh]]

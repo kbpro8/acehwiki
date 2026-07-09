@@ -11,7 +11,7 @@ The sole mention of Tanah Putih occurs in Appendix 6, where Van der Kemp prints 
 
 ## Place in the wider argument
 
-The mention of Tanah Putih, though brief, serves Van der Kemp's argument in two ways. First, it shows that by [[1824]] the Padri war — which the Dutch would later use as a justification for their expansion in [[Sumatra]] — had already reduced several of the East Coast states to subjection; the petty states which Fullerton would later (in his minute of [[21 March]] [[1825]]) describe as carrying on "extensive trade" with Penang were thus in fact gravely imperilled. Second, the letter of the Sultan of Deli, addressed to a British governor and appealing for British assistance, shows that even after the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]] — by which Britain formally renounced political establishments on Sumatra — the East Coast chiefs continued to look to Penang as their natural protector. This is the practical background to Fullerton's [[Fullerton's minute on Acheh (21 March 1825)|minute of March 1825]] and to the [[Bellona mission to Sumatra's East Coast (1827-1828)|Bellona affair of 1827]]–[[1828]].
+The mention of Tanah Putih, though brief, serves Van der Kemp's argument in two ways. First, it shows that by [[1824]] the Padri war — which the Dutch would later use as a justification for their expansion in [[Sumatra]] — had already reduced several of the East Coast states to subjection; the petty states which Fullerton would later (in his minute of [[21 March]] [[1825]]) describe as carrying on "extensive trade" with Penang were thus in fact gravely imperilled. Second, the letter of the Sultan of Deli, addressed to a British governor and appealing for British assistance, shows that even after the [[Anglo-Dutch Treaty of 1824|treaty of 1824]] — by which Britain formally renounced political establishments on Sumatra — the East Coast chiefs continued to look to Penang as their natural protector. This is the practical background to Fullerton's [[Fullerton's minute on Acheh (21 March 1825)|minute of March 1825]] and to the [[Bellona mission to Sumatra's East Coast (1827-1828)|Bellona affair of 1827]]–[[1828]].
 
 ## See Also
 
@@ -23,8 +23,8 @@ The mention of Tanah Putih, though brief, serves Van der Kemp's argument in two 
 - [[Deli]]
 - [[Sultan of Deli's letter to Penang]]
 - [[Robert Fullerton]]
-- [[Padri War on Sumatra's East Coast]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Padri War|Padri War on Sumatra's East Coast]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Source
 

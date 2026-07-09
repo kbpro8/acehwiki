@@ -18,7 +18,7 @@ This depiction is one of the few visual records in the atlas of Acehnese domesti
 
 - [[Atjehers]]
 - [[Atjeh Dress]]
-- [[Islam in Atjeh]]
+- [[Islam in Aceh|Islam in Atjeh]]
 
 ## Sources
 

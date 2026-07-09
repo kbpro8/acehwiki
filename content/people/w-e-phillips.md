@@ -13,7 +13,7 @@ Soon after taking office, Phillips was confronted with the consequences of [[Syf
 
 ## Relations with Sultan Jauhar Alum and the Three Sagis
 
-Throughout [[1822]] Phillips urged [[Sultan Jauhar Alum|Jauhar Alum]] to leave [[Pedir]] and re-establish himself at [[Banda Acheh|the capital]]. The sultan's reply of [[15 April 1822]], also summarised by Van der Kemp, begged for patience: the capital was in ruins, the revenues were uncollectable, and a meeting with [[Panglima Polim]] was promised within months. In December of the same year Phillips received the [[Three Sagis' letter to Penang (4 December 1822)|celebrated letter of the three Sagis]] declaring that they had sworn on the tomb of [[Teungku Anjong|Tunhar Anjung]] at [[Kampong Java]] never to receive [[Sultan Jauhar Alum|Jauhar Alum]] again, and requesting that [[Sultan Saif ul-Alum|Syf ul-Alum]] be sent back to them as sultan. Phillips replied firmly that, the British Government being on terms of amity with Sultan Jauhar Alum, he could not «concert measures or hold correspondence with the enemies of that Prince».
+Throughout [[1822]] Phillips urged [[Sultan Jauhar Alum|Jauhar Alum]] to leave [[Pedir]] and re-establish himself at [[Banda Acheh|the capital]]. The sultan's reply of [[15 April 1822]], also summarised by Van der Kemp, begged for patience: the capital was in ruins, the revenues were uncollectable, and a meeting with [[Panglima Polem|Panglima Polim]] was promised within months. In December of the same year Phillips received the [[Three Sagis' letter to Penang (4 December 1822)|celebrated letter of the three Sagis]] declaring that they had sworn on the tomb of [[Teungku Anjong|Tunhar Anjung]] at [[Kampong Java]] never to receive [[Sultan Jauhar Alum|Jauhar Alum]] again, and requesting that [[Sultan Saif ul-Alum|Syf ul-Alum]] be sent back to them as sultan. Phillips replied firmly that, the British Government being on terms of amity with Sultan Jauhar Alum, he could not «concert measures or hold correspondence with the enemies of that Prince».
 
 ## The Pinang Nota of November 1823 and the Said Akil Affair
 
@@ -41,7 +41,7 @@ Phillips was still governor when, in [[1824]], [[Sultan of Deli|the Sultan of De
 - [[Pinang Nota (1825)]]
 - [[Said Akil's Deli adventure (1824-1828)]]
 - [[Sultan of Deli's letter to Penang]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 
 ## Source
 
@@ -57,7 +57,7 @@ Soon after taking office, Phillips was confronted with the consequences of [[Syf
 
 ## Relations with Sultan Jauhar Alum and the Three Sagis
 
-Throughout [[1822]] Phillips urged [[Sultan Jauhar Alum|Jauhar Alum]] to leave [[Pedir]] and re-establish himself at [[Banda Acheh|the capital]]. The sultan's reply of [[15 April 1822]], also summarised by Van der Kemp, begged for patience: the capital was in ruins, the revenues were uncollectable, and a meeting with [[Panglima Polim]] was promised within months. In December of the same year Phillips received the [[Three Sagis' letter to Penang (4 December 1822)|celebrated letter of the three Sagis]] declaring that they had sworn on the tomb of [[Teungku Anjong|Tunhar Anjung]] at [[Kampong Java]] never to receive [[Sultan Jauhar Alum|Jauhar Alum]] again, and requesting that [[Sultan Saif ul-Alum|Syf ul-Alum]] be sent back to them as sultan. Phillips replied firmly that, the British Government being on terms of amity with Sultan Jauhar Alum, he could not «concert measures or hold correspondence with the enemies of that Prince».
+Throughout [[1822]] Phillips urged [[Sultan Jauhar Alum|Jauhar Alum]] to leave [[Pedir]] and re-establish himself at [[Banda Acheh|the capital]]. The sultan's reply of [[15 April 1822]], also summarised by Van der Kemp, begged for patience: the capital was in ruins, the revenues were uncollectable, and a meeting with [[Panglima Polem|Panglima Polim]] was promised within months. In December of the same year Phillips received the [[Three Sagis' letter to Penang (4 December 1822)|celebrated letter of the three Sagis]] declaring that they had sworn on the tomb of [[Teungku Anjong|Tunhar Anjung]] at [[Kampong Java]] never to receive [[Sultan Jauhar Alum|Jauhar Alum]] again, and requesting that [[Sultan Saif ul-Alum|Syf ul-Alum]] be sent back to them as sultan. Phillips replied firmly that, the British Government being on terms of amity with Sultan Jauhar Alum, he could not «concert measures or hold correspondence with the enemies of that Prince».
 
 ## The Pinang Nota of November 1823 and the Said Akil Affair
 
@@ -85,7 +85,7 @@ Phillips was still governor when, in [[1824]], [[Sultan of Deli|the Sultan of De
 - [[Pinang Nota (1825)]]
 - [[Said Akil's Deli adventure (1824-1828)]]
 - [[Sultan of Deli's letter to Penang]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 
 ## Source
 

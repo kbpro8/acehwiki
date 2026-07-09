@@ -4,13 +4,13 @@ aliases: [Val van de Kraton, Fall of the Kraton, Verovering van den Kraton, Inna
 tags: [event, battle, military, dutch-colonial, aceh-war]
 ---
 
-**The Capture of the Kraton** on [[24 January]] [[1874]] was the culminating episode of the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]], in which a reconnaissance sent by Lieutenant-general [[J. van Swieten|Van Swieten]] from [[Taman (Kota Goenoengan)|Kota Goenoengan]] entered the [[Kraton of Aceh|Kraton]] of the [[Sultan of Aceh|sultan]] of [[Acheh|Atjeh]] unopposed and hoisted the Dutch flag on the watch-house, to the strains of the *Wilhelmus* played by the band of the right half of the 14th bataljon. The capture came after a month of operations and several costly failures, and was followed within two days by the death of the sultan and within a week by the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] by right of conquest.
+**The Capture of the Kraton** on [[24 January]] [[1874]] was the culminating episode of the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]], in which a reconnaissance sent by Lieutenant-general [[Jan van Swieten|Van Swieten]] from [[Taman (Kota Goenoengan)|Kota Goenoengan]] entered the [[Kraton of Aceh|Kraton]] of the [[Sultan of Aceh|sultan]] of [[Acheh|Atjeh]] unopposed and hoisted the Dutch flag on the watch-house, to the strains of the *Wilhelmus* played by the band of the right half of the 14th bataljon. The capture came after a month of operations and several costly failures, and was followed within two days by the death of the sultan and within a week by the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] by right of conquest.
 
 ## The Approach
 
 After the taking of the [[Missigit|missigit]] of the Kraton on [[6 January]] [[1874]], letters were sent to [[Toekoe Nek Radja Moeda Setia|Toekoe Nek]] of [[Marassa|Marassa]] and to four other chiefs of the [[XXV Moekims|XXV Moekims]]. On [[11 January]] [[1874]] Toekoe Nek held a secret meeting with the controller Kroesen, in which he promised to pay a visit to the supreme commander, and at the same time gave the advice that the Dutch should seize the [[Taman (Kota Goenoengan)|Taman]], the sultan's fortified pleasure-garden south-west of the Kraton, in order to close the sultan off from the west side. Van Swieten, who had already vainly attempted to surprise the Kraton, decided to follow his advice. On [[12 January]] [[1874]] the Taman or Kota Goenoengan was stormed and taken. From the west side too the Kraton could now be fired upon, and the Dutch fire "made the stay there so unsafe that, according to information received, the sultan had left it and had betaken himself to kampong Longbatta."
 
-On the advice of Toekoe Nek it was now decided to undertake a march to this kampong, where one of the Dutch army's most embittered enemies, the [[Imam of Longbatta|imam of Longbatta]], resided. At the same time the troops were to push through the kampongs Atoöh and Longbatta to the river, and to turn the enemy's fortifications — consisting of the Kraton and the strong places of [[Pakan Atjeh|Pakan Atjeh]] and [[Panglima Polim|Panglima Polim]] along the river — in the south and east.
+On the advice of Toekoe Nek it was now decided to undertake a march to this kampong, where one of the Dutch army's most embittered enemies, the [[Imam of Longbatta|imam of Longbatta]], resided. At the same time the troops were to push through the kampongs Atoöh and Longbatta to the river, and to turn the enemy's fortifications — consisting of the Kraton and the strong places of [[Pakan Atjeh|Pakan Atjeh]] and [[Panglima Polem|Panglima Polem]] along the river — in the south and east.
 
 ## The Omtrekking, 23 January 1874
 
@@ -26,7 +26,7 @@ When this reconnaissance had advanced for some time without seeing the enemy, th
 
 ## Verspyck's Junction
 
-Verspyck, hearing the hoerah and the Wilhelmus, turned towards the Kraton and found [[Pakan Atjeh|Pakan Atjeh]] and the entrenchment of [[Panglima Polim|Panglima Polim]] wholly abandoned by the enemy, whereupon Van der Heijden was also ordered to return. "Thus the whole position of the Kraton was in our hands on [[24 January]] [[1874]], and with it the initial objective of the second expedition was attained."
+Verspyck, hearing the hoerah and the Wilhelmus, turned towards the Kraton and found [[Pakan Atjeh|Pakan Atjeh]] and the entrenchment of [[Panglima Polem|Panglima Polem]] wholly abandoned by the enemy, whereupon Van der Heijden was also ordered to return. "Thus the whole position of the Kraton was in our hands on [[24 January]] [[1874]], and with it the initial objective of the second expedition was attained."
 
 ## The Death of the Sultan, 26 January 1874
 
@@ -38,11 +38,11 @@ The capture of the Kraton was, in a strict military sense, a decisive success: t
 
 ## See Also
 
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[G. M. Verspyck]]
 - [[K. van der Heyden]]
 - [[Toekoe Nek Radja Moeda Setia]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Kraton of Aceh]]
 - [[Taman (Kota Goenoengan)]]

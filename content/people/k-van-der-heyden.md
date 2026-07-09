@@ -23,9 +23,9 @@ By Indies decree of [[15 January]] [[1878]] Van der Heyden was appointed governo
 
 The increasing aggressiveness of [[Habib Abdoerrahman|Habib Abdurrahman]] in the spring of [[1878]] led the government to instruct Van der Heyden to make an end of the unfavourable situation and to drive Habib Abdurrahman and his bands out. Reinforced, he was able to act vigorously. On [[23 July]] [[1878]] the important campaign in the [[XXII Moekims|XXII Moekims]] began with three columns. On [[28 July]] the [[Capture of Montassik (28 July 1878)|missigit Montassik was taken]]. Operations continued from [[1 August]] [[1878]] to [[23 March]] [[1879]], with constant reconnaissances and punishments of hostile kampongs, especially in the sawah of Lamkrak and in the [[XXVI Moekims|XXVI Moekims]] near Lampermej. On [[13 October]] [[1878]] [[Submission of Habib Abdurrahman (13 October 1878)|Habib Abdurrahman came in submission]] at Kota Radja, where the governor received him at once and accepted his submission.
 
-In his cabinet letter of [[21 March]] [[1879]] the Governor-General [[J. W. van Lansberge|Van Lansberge]] wrote to Van der Heyden: "One thing must be held by you in the first place before your eyes. The war must now come to an end, whether the expected submission is obtained, or such punishment is inflicted on the enemy that no doubt exists as to our overlordship and his defeat, and we can withdraw our fighting force within the limits to be designated for our definitive establishment."
+In his cabinet letter of [[21 March]] [[1879]] the Governor-General [[Johan Willem van Lansberge|Van Lansberge]] wrote to Van der Heyden: "One thing must be held by you in the first place before your eyes. The war must now come to an end, whether the expected submission is obtained, or such punishment is inflicted on the enemy that no doubt exists as to our overlordship and his defeat, and we can withdraw our fighting force within the limits to be designated for our definitive establishment."
 
-The campaign against the XXII Moekims began on [[23 March]] [[1879]]; on [[24 March]] [[1879]] the [[Capture of Indrapuri (24 March 1879)|missigit of Indrapuri was taken]]; the campaign continued with heavy fighting at [[Djerreek|Djerreek]], [[Redep|Redep]], [[Panteh Karang|Panteh Karang]] in May, and the [[Capture of Gleiêng (9 July 1879)|capture of Gleiêng]] on [[9 July]] [[1879]], the fortified chief place of [[Panglima Polim|Panglima Polim]].
+The campaign against the XXII Moekims began on [[23 March]] [[1879]]; on [[24 March]] [[1879]] the [[Capture of Indrapuri (24 March 1879)|missigit of Indrapuri was taken]]; the campaign continued with heavy fighting at [[Djerreek|Djerreek]], [[Redep|Redep]], [[Panteh Karang|Panteh Karang]] in May, and the [[Capture of Gleiêng (9 July 1879)|capture of Gleiêng]] on [[9 July]] [[1879]], the fortified chief place of [[Panglima Polem|Panglima Polem]].
 
 ## The Submission of the XXVI Moekims, July 1879
 
@@ -33,7 +33,7 @@ On [[1 July]] [[1879]] the columns marched from various points into the [[XXVI M
 
 ## The Selimoen Expedition, August 1879
 
-A last expedition was deemed necessary to pursue the departed enemy in his furthest hiding-places. A column was embarked for [[Lampanas|Lampanas]] on the north coast east of [[Kroëng Raja|Kroëng Rajah]] and [[Batoe Poetih|Batoe Poetih]], and thence advanced to [[Lamtobah|Lamtobah]], where the Imam offered submission. On [[13 August]] [[1879]] the columns of [[Indrapoeri|Indrapuri]] and Lamtobah set out for [[Selimoen|Selimoen]]. [[Toekoe Moeda Daoed|Toekoe Moeda Daoed]] and other chiefs now submitted; those who, like [[Panglima Polim|Panglima Polim]] and the [[Imam of Longbatta|Imam Longbatta]], refused to give up the fight, fled to the upper lands of [[Pedir|Pedir]]. "Everywhere the population showed a peaceful disposition; in all kampongs, even on the commanding hills, white flags were planted; the troops, accompanied by the chiefs who had come in submission, were awaited in the kampongs by men, women and children, and provided with refreshments; all enemy bentings were abandoned." With the tocht naar Selimoen, large-scale operations in Great Acheh came to an end; on [[5 September]] the active columns were dissolved.
+A last expedition was deemed necessary to pursue the departed enemy in his furthest hiding-places. A column was embarked for [[Lampanas|Lampanas]] on the north coast east of [[Kroëng Raja|Kroëng Rajah]] and [[Batoe Poetih|Batoe Poetih]], and thence advanced to [[Lamtobah|Lamtobah]], where the Imam offered submission. On [[13 August]] [[1879]] the columns of [[Indrapoeri|Indrapuri]] and Lamtobah set out for [[Selimoen|Selimoen]]. [[Toekoe Moeda Daoed|Toekoe Moeda Daoed]] and other chiefs now submitted; those who, like [[Panglima Polem|Panglima Polem]] and the [[Imam of Longbatta|Imam Longbatta]], refused to give up the fight, fled to the upper lands of [[Pedir|Pedir]]. "Everywhere the population showed a peaceful disposition; in all kampongs, even on the commanding hills, white flags were planted; the troops, accompanied by the chiefs who had come in submission, were awaited in the kampongs by men, women and children, and provided with refreshments; all enemy bentings were abandoned." With the tocht naar Selimoen, large-scale operations in Great Acheh came to an end; on [[5 September]] the active columns were dissolved.
 
 ## The Batoe Iliq Expedition, July 1880
 
@@ -41,7 +41,7 @@ When on [[30 June]] [[1880]] part of the garrison of [[Samalanga|Samalanga]] was
 
 ## The Hikajat Prang Kompeuni on Van der Heyden
 
-The Acehnese themselves, in the [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]] — whose contents were communicated by [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]] — gave their judgement of Van der Heyden:
+The Acehnese themselves, in the [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]] — whose contents were communicated by [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]] — gave their judgement of Van der Heyden:
 
 > "But when the XXVI Moekims were conquered, and shortly afterwards the one-eyed general made victorious campaigns even through the XXII Moekims, to the astonishment of the hitherto boasting Highlanders, then the Imam of Longbattah sheathed his sword and withdrew from public life. Now broke a three-year period of rest, in which the one-eyed general consolidated his conquests. The Radja Moeda, Toekoe Nja Moekamat, strained every effort to bring the chief place and Oleh-leh to prosperity, and succeeded so well, that the population fled from their villages in streams not to be stemmed to the chief place, and fraternised with the kafirs. One lived as in continual festivity, drove profitable trade, and the war-leaders could find no people to follow them. All went to bring homage to the one-eyed king... When the one-eyed king was gone, the rest ended."
 
@@ -51,7 +51,7 @@ And the epos ends: "As the Kompani now (1891) goes to work, she will never get A
 
 For the definitive regulation of the administration in Atjeh, Van der Heyden was placed in commission with [[A. Pruys van der Hoeven|A. Pruys van der Hoeven]], last resident of [[Palembang]], as government commissioners. They were charged, in joint consultation, "to arrange and propose everything necessary to arrive at an adequate organisation of the gewest Atjeh en Onderhoorigheden, in connection with the political situation and the relation of the various Onderhoorigheden to our administration." [[A. Pruys van der Hoeven|Pruys van der Hoeven]] arrived in Atjeh on [[21 February]] [[1880]]. On [[10 July]] the commissioners declared their task ended.
 
-By the Governor-General's decision, the civil and military commands were separated; the Lieutenant-general Van der Heyden was honourably discharged from his functions. [[A. Pruys van der Hoeven|Pruys van der Hoeven]] was appointed civil governor and [[J. F. Haus|Colonel J. F. Haus]] took the military command. Both assumed their functions on [[6 April]] [[1881]]. The discharge to Van der Heyden — "which set many pens in motion, and also gave rise to discussions in the [[Staten-Generaal|States-General]]" — was one of the last administrative acts of [[J. W. van Lansberge|Governor-General Van Lansberge]].
+By the Governor-General's decision, the civil and military commands were separated; the Lieutenant-general Van der Heyden was honourably discharged from his functions. [[A. Pruys van der Hoeven|Pruys van der Hoeven]] was appointed civil governor and [[J. F. Haus|Colonel J. F. Haus]] took the military command. Both assumed their functions on [[6 April]] [[1881]]. The discharge to Van der Heyden — "which set many pens in motion, and also gave rise to discussions in the [[Staten-Generaal|States-General]]" — was one of the last administrative acts of [[Johan Willem van Lansberge|Governor-General Van Lansberge]].
 
 ## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — "the one-eyed general"
 
@@ -62,19 +62,19 @@ Dr. [[Johan Wøller]], recalling the course of the [[Aceh War]] from his posting
 - [[A. J. E. Diemont]]
 - [[G. B. T. Wiggers van Kerchem]]
 - [[Habib Abdoerrahman]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Toekoe Moeda Daoed]]
 - [[A. Pruys van der Hoeven]]
 - [[J. F. Haus]]
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[Aceh War]]
 - [[Expedition to Samalanga (August 1877)]]
 - [[Campaign against the XXII Moekims (1879)]]
 - [[Campaign against the XXVI Moekims (July 1879)]]
 - [[Selimoen Expedition (August 1879)]]
 - [[Batoe Iliq Expedition (July 1880)]]
-- [[Hikajat prang Kompeuni]]
+- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
 - [[Johan Wøller]]
 - [[Kotta Loempoer]]
 - [[Groot-Atjeh]]
@@ -105,9 +105,9 @@ By Indies decree of [[15 January]] [[1878]] Van der Heyden was appointed governo
 
 The increasing aggressiveness of [[Habib Abdoerrahman|Habib Abdurrahman]] in the spring of [[1878]] led the government to instruct Van der Heyden to make an end of the unfavourable situation and to drive Habib Abdurrahman and his bands out. Reinforced, he was able to act vigorously. On [[23 July]] [[1878]] the important campaign in the [[XXII Moekims|XXII Moekims]] began with three columns. On [[28 July]] the [[Capture of Montassik (28 July 1878)|missigit Montassik was taken]]. Operations continued from [[1 August]] [[1878]] to [[23 March]] [[1879]], with constant reconnaissances and punishments of hostile kampongs, especially in the sawah of Lamkrak and in the [[XXVI Moekims|XXVI Moekims]] near Lampermej. On [[13 October]] [[1878]] [[Submission of Habib Abdurrahman (13 October 1878)|Habib Abdurrahman came in submission]] at Kota Radja, where the governor received him at once and accepted his submission.
 
-In his cabinet letter of [[21 March]] [[1879]] the Governor-General [[J. W. van Lansberge|Van Lansberge]] wrote to Van der Heyden: "One thing must be held by you in the first place before your eyes. The war must now come to an end, whether the expected submission is obtained, or such punishment is inflicted on the enemy that no doubt exists as to our overlordship and his defeat, and we can withdraw our fighting force within the limits to be designated for our definitive establishment."
+In his cabinet letter of [[21 March]] [[1879]] the Governor-General [[Johan Willem van Lansberge|Van Lansberge]] wrote to Van der Heyden: "One thing must be held by you in the first place before your eyes. The war must now come to an end, whether the expected submission is obtained, or such punishment is inflicted on the enemy that no doubt exists as to our overlordship and his defeat, and we can withdraw our fighting force within the limits to be designated for our definitive establishment."
 
-The campaign against the XXII Moekims began on [[23 March]] [[1879]]; on [[24 March]] [[1879]] the [[Capture of Indrapuri (24 March 1879)|missigit of Indrapuri was taken]]; the campaign continued with heavy fighting at [[Djerreek|Djerreek]], [[Redep|Redep]], [[Panteh Karang|Panteh Karang]] in May, and the [[Capture of Gleiêng (9 July 1879)|capture of Gleiêng]] on [[9 July]] [[1879]], the fortified chief place of [[Panglima Polim|Panglima Polim]].
+The campaign against the XXII Moekims began on [[23 March]] [[1879]]; on [[24 March]] [[1879]] the [[Capture of Indrapuri (24 March 1879)|missigit of Indrapuri was taken]]; the campaign continued with heavy fighting at [[Djerreek|Djerreek]], [[Redep|Redep]], [[Panteh Karang|Panteh Karang]] in May, and the [[Capture of Gleiêng (9 July 1879)|capture of Gleiêng]] on [[9 July]] [[1879]], the fortified chief place of [[Panglima Polem|Panglima Polem]].
 
 ## The Submission of the XXVI Moekims, July 1879
 
@@ -115,7 +115,7 @@ On [[1 July]] [[1879]] the columns marched from various points into the [[XXVI M
 
 ## The Selimoen Expedition, August 1879
 
-A last expedition was deemed necessary to pursue the departed enemy in his furthest hiding-places. A column was embarked for [[Lampanas|Lampanas]] on the north coast east of [[Kroëng Raja|Kroëng Rajah]] and [[Batoe Poetih|Batoe Poetih]], and thence advanced to [[Lamtobah|Lamtobah]], where the Imam offered submission. On [[13 August]] [[1879]] the columns of [[Indrapoeri|Indrapuri]] and Lamtobah set out for [[Selimoen|Selimoen]]. [[Toekoe Moeda Daoed|Toekoe Moeda Daoed]] and other chiefs now submitted; those who, like [[Panglima Polim|Panglima Polim]] and the [[Imam of Longbatta|Imam Longbatta]], refused to give up the fight, fled to the upper lands of [[Pedir|Pedir]]. "Everywhere the population showed a peaceful disposition; in all kampongs, even on the commanding hills, white flags were planted; the troops, accompanied by the chiefs who had come in submission, were awaited in the kampongs by men, women and children, and provided with refreshments; all enemy bentings were abandoned." With the tocht naar Selimoen, large-scale operations in Great Acheh came to an end; on [[5 September]] the active columns were dissolved.
+A last expedition was deemed necessary to pursue the departed enemy in his furthest hiding-places. A column was embarked for [[Lampanas|Lampanas]] on the north coast east of [[Kroëng Raja|Kroëng Rajah]] and [[Batoe Poetih|Batoe Poetih]], and thence advanced to [[Lamtobah|Lamtobah]], where the Imam offered submission. On [[13 August]] [[1879]] the columns of [[Indrapoeri|Indrapuri]] and Lamtobah set out for [[Selimoen|Selimoen]]. [[Toekoe Moeda Daoed|Toekoe Moeda Daoed]] and other chiefs now submitted; those who, like [[Panglima Polem|Panglima Polem]] and the [[Imam of Longbatta|Imam Longbatta]], refused to give up the fight, fled to the upper lands of [[Pedir|Pedir]]. "Everywhere the population showed a peaceful disposition; in all kampongs, even on the commanding hills, white flags were planted; the troops, accompanied by the chiefs who had come in submission, were awaited in the kampongs by men, women and children, and provided with refreshments; all enemy bentings were abandoned." With the tocht naar Selimoen, large-scale operations in Great Acheh came to an end; on [[5 September]] the active columns were dissolved.
 
 ## The Batoe Iliq Expedition, July 1880
 
@@ -123,7 +123,7 @@ When on [[30 June]] [[1880]] part of the garrison of [[Samalanga|Samalanga]] was
 
 ## The Hikajat Prang Kompeuni on Van der Heyden
 
-The Acehnese themselves, in the [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]] — whose contents were communicated by [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]] — gave their judgement of Van der Heyden:
+The Acehnese themselves, in the [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]] — whose contents were communicated by [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]] — gave their judgement of Van der Heyden:
 
 > "But when the XXVI Moekims were conquered, and shortly afterwards the one-eyed general made victorious campaigns even through the XXII Moekims, to the astonishment of the hitherto boasting Highlanders, then the Imam of Longbattah sheathed his sword and withdrew from public life. Now broke a three-year period of rest, in which the one-eyed general consolidated his conquests. The Radja Moeda, Toekoe Nja Moekamat, strained every effort to bring the chief place and Oleh-leh to prosperity, and succeeded so well, that the population fled from their villages in streams not to be stemmed to the chief place, and fraternised with the kafirs. One lived as in continual festivity, drove profitable trade, and the war-leaders could find no people to follow them. All went to bring homage to the one-eyed king... When the one-eyed king was gone, the rest ended."
 
@@ -133,7 +133,7 @@ And the epos ends: "As the Kompani now (1891) goes to work, she will never get A
 
 For the definitive regulation of the administration in Atjeh, Van der Heyden was placed in commission with [[A. Pruys van der Hoeven|A. Pruys van der Hoeven]], last resident of [[Palembang]], as government commissioners. They were charged, in joint consultation, "to arrange and propose everything necessary to arrive at an adequate organisation of the gewest Atjeh en Onderhoorigheden, in connection with the political situation and the relation of the various Onderhoorigheden to our administration." [[A. Pruys van der Hoeven|Pruys van der Hoeven]] arrived in Atjeh on [[21 February]] [[1880]]. On [[10 July]] the commissioners declared their task ended.
 
-By the Governor-General's decision, the civil and military commands were separated; the Lieutenant-general Van der Heyden was honourably discharged from his functions. [[A. Pruys van der Hoeven|Pruys van der Hoeven]] was appointed civil governor and [[J. F. Haus|Colonel J. F. Haus]] took the military command. Both assumed their functions on [[6 April]] [[1881]]. The discharge to Van der Heyden — "which set many pens in motion, and also gave rise to discussions in the [[Staten-Generaal|States-General]]" — was one of the last administrative acts of [[J. W. van Lansberge|Governor-General Van Lansberge]].
+By the Governor-General's decision, the civil and military commands were separated; the Lieutenant-general Van der Heyden was honourably discharged from his functions. [[A. Pruys van der Hoeven|Pruys van der Hoeven]] was appointed civil governor and [[J. F. Haus|Colonel J. F. Haus]] took the military command. Both assumed their functions on [[6 April]] [[1881]]. The discharge to Van der Heyden — "which set many pens in motion, and also gave rise to discussions in the [[Staten-Generaal|States-General]]" — was one of the last administrative acts of [[Johan Willem van Lansberge|Governor-General Van Lansberge]].
 
 ## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — "the one-eyed general"
 
@@ -144,19 +144,19 @@ Dr. [[Johan Wøller]], recalling the course of the [[Aceh War]] from his posting
 - [[A. J. E. Diemont]]
 - [[G. B. T. Wiggers van Kerchem]]
 - [[Habib Abdoerrahman]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Toekoe Moeda Daoed]]
 - [[A. Pruys van der Hoeven]]
 - [[J. F. Haus]]
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[Aceh War]]
 - [[Expedition to Samalanga (August 1877)]]
 - [[Campaign against the XXII Moekims (1879)]]
 - [[Campaign against the XXVI Moekims (July 1879)]]
 - [[Selimoen Expedition (August 1879)]]
 - [[Batoe Iliq Expedition (July 1880)]]
-- [[Hikajat prang Kompeuni]]
+- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
 - [[Johan Wøller]]
 - [[Kotta Loempoer]]
 - [[Groot-Atjeh]]

@@ -10,7 +10,7 @@ The Dutch reported that Quacco’s outpost fell after a concerted attack, contri
 
 ## See Also
 - [[Baubé]]
-- [[Wikkie‑kreek]]
+- [[Wikkie creek|Wikkie‑kreek]]
 - [[Kolonel De Salve]]
 
 ## Source

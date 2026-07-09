@@ -9,7 +9,7 @@ tags: [place, aceh, village]
 - [[Kajoe‑leh]]
 - [[Atjeh River]]
 - [[Pajar‑Ajer]]
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 
 ## Source
 *Verslagen der Marine‑Vereeniging III 1889‑1890*, pp. 229‑233. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pages 138‑141.

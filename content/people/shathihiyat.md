@@ -5,7 +5,7 @@ aliases: [Shathīyāt, Shathiyat, Shathihiyat, Shaṭḥiyyāt, Ecstatic utteran
 tags: [concept, religious-doctrine, mysticism, islamic-scholarship, sufi-text, precolonial, 17th-century, aceh, malay]
 ---
 
-**The *shathīyāt*** (singular *shaṭḥ*; literally "ecstatic utterances") are the paradoxical or theologically scandalous declarations — such as *anā al-ḥaqq* ("I am the Truth") of [[al-Hallaj|al-Ḥallāj]] — by which the Sufi, in a state of mystical intoxication, gives voice to the experience of passing-away (*fanāʾ*) in the divine reality. The doctrine of the *shathīyāt* is treated at the close of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Raniri|Nūruddīn ar-Rānīrī]], where Raniri compares them to *latah* and pronounces upon them a notable judgment: although God will not punish them on the Day of Judgement, because the words come from Him, yet by the religious law they must be punished, even killed. Whoever, being in his senses, pronounces such *shathīyāt*, must be killed and will burn in hell eternally.
+**The *shathīyāt*** (singular *shaṭḥ*; literally "ecstatic utterances") are the paradoxical or theologically scandalous declarations — such as *anā al-ḥaqq* ("I am the Truth") of [[al-Hallaj|al-Ḥallāj]] — by which the Sufi, in a state of mystical intoxication, gives voice to the experience of passing-away (*fanāʾ*) in the divine reality. The doctrine of the *shathīyāt* is treated at the close of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]], where Raniri compares them to *latah* and pronounces upon them a notable judgment: although God will not punish them on the Day of Judgement, because the words come from Him, yet by the religious law they must be punished, even killed. Whoever, being in his senses, pronounces such *shathīyāt*, must be killed and will burn in hell eternally.
 
 ## The doctrine of the *shathīyāt*
 
@@ -27,7 +27,7 @@ Raniri's pronouncement on the *shathīyāt* is the scholastic justification of t
 - [[Hamzah Pansuri]]
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[Iskandar Thani]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's public debate against the Wujudiyyah in Acheh]]
 - [[Sultan Tajul-alam]]
 - [[Wujudiyyah]]
@@ -38,7 +38,7 @@ Raniri's pronouncement on the *shathīyāt* is the scholastic justification of t
 ---
 
 
-**The *shathīyāt*** (singular *shaṭḥ*; literally "ecstatic utterances") are the paradoxical or theologically scandalous declarations — such as *anā al-ḥaqq* ("I am the Truth") of [[al-Hallaj|al-Ḥallāj]] — by which the Sufi, in a state of mystical intoxication, gives voice to the experience of passing-away (*fanāʾ*) in the divine reality. The doctrine of the *shathīyāt* is treated at the close of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Raniri|Nūruddīn ar-Rānīrī]], where Raniri compares them to *latah* and pronounces upon them a notable judgment: although God will not punish them on the Day of Judgement, because the words come from Him, yet by the religious law they must be punished, even killed. Whoever, being in his senses, pronounces such *shathīyāt*, must be killed and will burn in hell eternally.
+**The *shathīyāt*** (singular *shaṭḥ*; literally "ecstatic utterances") are the paradoxical or theologically scandalous declarations — such as *anā al-ḥaqq* ("I am the Truth") of [[al-Hallaj|al-Ḥallāj]] — by which the Sufi, in a state of mystical intoxication, gives voice to the experience of passing-away (*fanāʾ*) in the divine reality. The doctrine of the *shathīyāt* is treated at the close of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]], where Raniri compares them to *latah* and pronounces upon them a notable judgment: although God will not punish them on the Day of Judgement, because the words come from Him, yet by the religious law they must be punished, even killed. Whoever, being in his senses, pronounces such *shathīyāt*, must be killed and will burn in hell eternally.
 
 ## The doctrine of the *shathīyāt*
 
@@ -60,7 +60,7 @@ Raniri's pronouncement on the *shathīyāt* is the scholastic justification of t
 - [[Hamzah Pansuri]]
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[Iskandar Thani]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's public debate against the Wujudiyyah in Acheh]]
 - [[Sultan Tajul-alam]]
 - [[Wujudiyyah]]

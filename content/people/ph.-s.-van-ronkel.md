@@ -5,7 +5,7 @@ aliases: [Philippus Samuel van Ronkel, Ph. S. van Ronkel, Van Ronkel, P.S. van R
 tags: [person, scholar, dutch-orientalist, malay-scholarship, manuscript-studies, 20th-century, leiden, raniri]
 ---
 
-**Philippus Samuel van Ronkel** — published as **Ph. S. van Ronkel** — was a Dutch Malay scholar whose 1944 article "Rānīrī's Maleische geschrift: Exposé der religies" in *BKI* 102, pp. 461 ff., provided the first detailed synopsis of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]] and remained, until the [[1955]] edition of [[P. Voorhoeve|Voorhoeve]], the principal European study of the work. Van Ronkel was also the cataloguer of the manuscript of the *Tibjān* designated **A** in Voorhoeve's apparatus — Koninklijk Instituut voor de Tropen, Amsterdam, Anthropol. Afd. no. 0/271 — which he described in *Meded. Afd. Volkenkunde* no. 7 (1935), p. 158.
+**Philippus Samuel van Ronkel** — published as **Ph. S. van Ronkel** — was a Dutch Malay scholar whose 1944 article "Rānīrī's Maleische geschrift: Exposé der religies" in *BKI* 102, pp. 461 ff., provided the first detailed synopsis of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and remained, until the [[1955]] edition of [[P. Voorhoeve|Voorhoeve]], the principal European study of the work. Van Ronkel was also the cataloguer of the manuscript of the *Tibjān* designated **A** in Voorhoeve's apparatus — Koninklijk Instituut voor de Tropen, Amsterdam, Anthropol. Afd. no. 0/271 — which he described in *Meded. Afd. Volkenkunde* no. 7 (1935), p. 158.
 
 ## The 1944 article on the *Tibjān*
 
@@ -20,7 +20,7 @@ Van Ronkel was also the cataloguer of the *Tibjān* manuscript designated **A** 
 - [[Abu Syakur as-Salimi]]
 - [[H. T. Damsté]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Teungku Haron]]
 - [[Tibjan fi ma'rifat al-adyan]]
@@ -37,7 +37,7 @@ Ph. S. van Ronkel, in *BKI* 103, p. 599 — notice of the Achehnese manuscript D
 ---
 
 
-**Philippus Samuel van Ronkel** — published as **Ph. S. van Ronkel** — was a Dutch Malay scholar whose 1944 article "Rānīrī's Maleische geschrift: Exposé der religies" in *BKI* 102, pp. 461 ff., provided the first detailed synopsis of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]] and remained, until the [[1955]] edition of [[P. Voorhoeve|Voorhoeve]], the principal European study of the work. Van Ronkel was also the cataloguer of the manuscript of the *Tibjān* designated **A** in Voorhoeve's apparatus — Koninklijk Instituut voor de Tropen, Amsterdam, Anthropol. Afd. no. 0/271 — which he described in *Meded. Afd. Volkenkunde* no. 7 (1935), p. 158.
+**Philippus Samuel van Ronkel** — published as **Ph. S. van Ronkel** — was a Dutch Malay scholar whose 1944 article "Rānīrī's Maleische geschrift: Exposé der religies" in *BKI* 102, pp. 461 ff., provided the first detailed synopsis of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and remained, until the [[1955]] edition of [[P. Voorhoeve|Voorhoeve]], the principal European study of the work. Van Ronkel was also the cataloguer of the manuscript of the *Tibjān* designated **A** in Voorhoeve's apparatus — Koninklijk Instituut voor de Tropen, Amsterdam, Anthropol. Afd. no. 0/271 — which he described in *Meded. Afd. Volkenkunde* no. 7 (1935), p. 158.
 
 ## The 1944 article on the *Tibjān*
 
@@ -52,7 +52,7 @@ Van Ronkel was also the cataloguer of the *Tibjān* manuscript designated **A** 
 - [[Abu Syakur as-Salimi]]
 - [[H. T. Damsté]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Teungku Haron]]
 - [[Tibjan fi ma'rifat al-adyan]]

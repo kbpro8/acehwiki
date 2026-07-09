@@ -13,11 +13,11 @@ tags:
   - criticism
 ---
 
-**Z. E. De Oud Gouverneur-Generaal J. B. van Heutsz en de Defensie van Nederlandsch-Indië** is a critical pamphlet written by **K. van der Maaten** and published in [[1917]] by [[Martinus Nijhoff]] in [['s-Gravenhage]], opposing the appointment of [[J. B. van Heutsz]] as *buitengewoon Regeerings-Commissaris* with unlimited powers to reform the defence system of [[Netherlands India|Netherlands Indies]].
+**Z. E. De Oud Gouverneur-Generaal J. B. van Heutsz en de Defensie van Nederlandsch-Indië** is a critical pamphlet written by **K. van der Maaten** and published in [[1917]] by [[Martinus Nijhoff]] in [['s-Gravenhage]], opposing the appointment of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] as *buitengewoon Regeerings-Commissaris* with unlimited powers to reform the defence system of [[Netherlands India|Netherlands Indies]].
 
 ## Author and Background
 
-The author, **K. van der Maaten**, was a former subordinate of [[J. B. van Heutsz]] who had served in various functions in [[Gouvernement Atjeh en Onderhoorigheden|Atjeh en Onderhoorigheden]] under Van Heutsz when the latter was Civil and Military Governor. Van der Maaten had originally considered writing his "Atjeh-mémoires," but the publication of the *Rapport over de Atjeh-enquête* in [[1908]] and the consequent forced departure of [[G. C. E. van Daalen]] as Civil and Military Governor of [[Acheh|Atjeh]] prevented any further special relationship with his former chief. Van der Maaten broke with Van Heutsz over these events. The pamphlet was written in [[Montreux]] and dated [[25 February]] [[1917]].
+The author, **K. van der Maaten**, was a former subordinate of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] who had served in various functions in [[Gouvernement Atjeh en Onderhoorigheden|Atjeh en Onderhoorigheden]] under Van Heutsz when the latter was Civil and Military Governor. Van der Maaten had originally considered writing his "Atjeh-mémoires," but the publication of the *Rapport over de Atjeh-enquête* in [[1908]] and the consequent forced departure of [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]] as Civil and Military Governor of [[Acheh|Atjeh]] prevented any further special relationship with his former chief. Van der Maaten broke with Van Heutsz over these events. The pamphlet was written in [[Montreux]] and dated [[25 February]] [[1917]].
 
 ## Purpose and Occasion
 
@@ -57,11 +57,11 @@ The pamphlet is a significant source for understanding the Dutch colonial defenc
 
 ## See Also
 
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[J. Van der Weyden]]
 - [[Van der Weyden's defense brochure]]
 - [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)]]
-- [[G. C. E. van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[C. Snouck Hurgronje]]
 - [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]]
 - [[Rapport over de Atjeh-enquête]]

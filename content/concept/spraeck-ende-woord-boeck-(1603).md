@@ -35,7 +35,7 @@ For [[Acheh|Atjeh]]'s history, the *Spraeck ende woord-boeck* of [[1603]] is the
 - [[Frederik de Houtman]]
 - [[Cornelis de Houtman]]
 - [[Death of Cornelis de Houtman at Atjeh (1599)]]
-- [[Balthazar de Moucheron]]
+- [[Balthasar de Moucheron|Balthazar de Moucheron]]
 - [[Sultan Aloeddin of Atjeh]]
 - [[Acheh]]
 - [[1603]]

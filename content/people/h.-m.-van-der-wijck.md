@@ -11,7 +11,7 @@ tags: [person, government, dutch, colonial]
 
 ## See Also  
 
-- [[Dutch Marine Corps]]  
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]  
 - [[Royal Decree of 5 March 1895]]  
 - [[J. C. Jansen]]  
 

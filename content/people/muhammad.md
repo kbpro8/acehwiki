@@ -4,7 +4,7 @@ aliases: [Prophet Muhammad, Muhammad ibn Abdullah, Muhammad, Rasulullah]
 tags: [person, prophet, religious, islam, islamic, acehnese]
 ---
 
-**Muhammad** was the founder of [[Islam]] and the final messenger (*rasulullah*) in Islamic belief, born in [[Mecca]] in [[570]] CE, receiving revelation beginning in [[610]] CE, and later becoming the central figure praised in the *Qasida al‑Burda* composed by [[al-Busiri]] (also known as [[Imam al‑Busiri]]). The poem’s Malay translation in the [[16th century]] spread his veneration throughout the Sultanate of [[Acheh]] and the wider Malay world, where it was incorporated into devotional practice and literary production.
+**Muhammad** was the founder of [[Islam]] and the final messenger (*rasulullah*) in Islamic belief, born in [[Mecca]] in [[570]] CE, receiving revelation beginning in [[610]] CE, and later becoming the central figure praised in the *Qasida al‑Burda* composed by [[Al-Busiri|al-Busiri]] (also known as [[Al-Busiri|Imam al‑Busiri]]). The poem’s Malay translation in the [[16th century]] spread his veneration throughout the Sultanate of [[Acheh]] and the wider Malay world, where it was incorporated into devotional practice and literary production.
 
 ## Historical Overview
 
@@ -12,7 +12,7 @@ Muhammad’s prophetic career began with the first revelation in [[610]] CE, c
 
 ## The *Burda* and Its Malay Translation
 
-The *Burda*—formally titled *Qasida al‑Burda*—was composed by [[al-Busiri]] in the 13th century and quickly entered the Sufi canon. A 16th‑century Malay manuscript (catalogued as DLP‑54) preserves a translation of the poem, identified in the digitised source pages 37‑39 and 59‑65 of the OCR file *20260707_232246_DLP-54‑Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*. The translation, further examined on pages 73‑79 of the same manuscript, retains the original’s rich imagery while rendering it in the Malay literary idiom of Aceh.
+The *Burda*—formally titled *Qasida al‑Burda*—was composed by [[Al-Busiri|al-Busiri]] in the 13th century and quickly entered the Sufi canon. A 16th‑century Malay manuscript (catalogued as DLP‑54) preserves a translation of the poem, identified in the digitised source pages 37‑39 and 59‑65 of the OCR file *20260707_232246_DLP-54‑Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*. The translation, further examined on pages 73‑79 of the same manuscript, retains the original’s rich imagery while rendering it in the Malay literary idiom of Aceh.
 
 ## Theological Significance in the *Burda*
 
@@ -32,10 +32,10 @@ While the *Burda* has been widely venerated, its praise of Muhammad was condemne
 
 ## See Also
 
-- [[Burda]]
-- [[Qasida al‑Burda]]
-- [[al-Busiri]]
-- [[Imam al‑Busiri]]
+- [[Burda (poem)|Burda]]
+- [[Burda (poem)|Qasida al‑Burda]]
+- [[Al-Busiri|al-Busiri]]
+- [[Al-Busiri|Imam al‑Busiri]]
 - [[Islam]]
 - [[Quran]]
 - [[Acheh]]
@@ -50,7 +50,7 @@ While the *Burda* has been widely venerated, its praise of Muhammad was condemne
 - [[Acehnese religious poetry]]
 - [[Sultan Ibrahim of Aceh]]
 - [[Rasulullah]]
-- [[Al‑Burda (Arabic poem)]]
+- [[Burda (poem)|Al‑Burda (Arabic poem)]]
 - [[Arabic terms in Acehnese religious poetry]]
 - [[Aceh]]
 - [[Zuhair (poet)]]

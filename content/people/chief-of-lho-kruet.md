@@ -15,11 +15,11 @@ By extending a punishment originally reserved for ill-treatment of women to a mu
 
 ## Place in Achehnese judicial custom
 
-The cow-buffalo punishment must be set beside the more lurid repertoire of the [[Chief of Teunom]], who is reported to have caused adulterous lovers to be deprived of their virility by the objects of their passion, and to have punished many transgressors of the law as to fasts by having them led about the country on all fours for some days with rings in their noses like buffaloes, and forcing them to eat grass. Together, the two West-Coast chiefs illustrate Snouck Hurgronje's general observation that the formal criminal law of the *kalis*' courts was everywhere supplemented — and indeed overshadowed — by the arbitrary and theatrical justice of the *uleebalangs*.
+The cow-buffalo punishment must be set beside the more lurid repertoire of the [[Imeum of Teunom|Chief of Teunom]], who is reported to have caused adulterous lovers to be deprived of their virility by the objects of their passion, and to have punished many transgressors of the law as to fasts by having them led about the country on all fours for some days with rings in their noses like buffaloes, and forcing them to eat grass. Together, the two West-Coast chiefs illustrate Snouck Hurgronje's general observation that the formal criminal law of the *kalis*' courts was everywhere supplemented — and indeed overshadowed — by the arbitrary and theatrical justice of the *uleebalangs*.
 
 ## See Also
 
-- [[Chief of Teunom]]
+- [[Imeum of Teunom|Chief of Teunom]]
 - [[Teunom]]
 - [[Acheh]]
 - [[Peutasa' ordeal]]
@@ -41,11 +41,11 @@ By extending a punishment originally reserved for ill-treatment of women to a mu
 
 ## Place in Achehnese judicial custom
 
-The cow-buffalo punishment must be set beside the more lurid repertoire of the [[Chief of Teunom]], who is reported to have caused adulterous lovers to be deprived of their virility by the objects of their passion, and to have punished many transgressors of the law as to fasts by having them led about the country on all fours for some days with rings in their noses like buffaloes, and forcing them to eat grass. Together, the two West-Coast chiefs illustrate Snouck Hurgronje's general observation that the formal criminal law of the *kalis*' courts was everywhere supplemented — and indeed overshadowed — by the arbitrary and theatrical justice of the *uleebalangs*.
+The cow-buffalo punishment must be set beside the more lurid repertoire of the [[Imeum of Teunom|Chief of Teunom]], who is reported to have caused adulterous lovers to be deprived of their virility by the objects of their passion, and to have punished many transgressors of the law as to fasts by having them led about the country on all fours for some days with rings in their noses like buffaloes, and forcing them to eat grass. Together, the two West-Coast chiefs illustrate Snouck Hurgronje's general observation that the formal criminal law of the *kalis*' courts was everywhere supplemented — and indeed overshadowed — by the arbitrary and theatrical justice of the *uleebalangs*.
 
 ## See Also
 
-- [[Chief of Teunom]]
+- [[Imeum of Teunom|Chief of Teunom]]
 - [[Teunom]]
 - [[Acheh]]
 - [[Peutasa' ordeal]]

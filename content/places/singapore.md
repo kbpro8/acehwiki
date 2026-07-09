@@ -8,7 +8,7 @@ tags: [place, sacred-site, foreign-land, city, foreign, british-settlement, isla
 
 ## Founding and Early Colonial Administration
 
-In late [[January]] [[1819]] Sir [[Thomas Stamford Raffles|Thomas Stamford Raffles]] planted the British flag on the island, founding the settlement that within a decade would eclipse [[Penang]] as the principal European port on the Straits. Raffles’ decision followed a recommendation from [[Major William Farquhar|William Farquhar]] of [[Malacca]] to consider the [[Karimon Islands]]; the allure of the Karimon site caused Raffles to postpone his planned mission to [[Acheh]] and to inspect the islands, only to find Singapore more suitable. He returned to [[Penang]] by [[16 February]] [[1819]], having secured the island for the British. 
+In late [[January]] [[1819]] Sir [[Sir Thomas Stamford Raffles|Sir Thomas Stamford Raffles]] planted the British flag on the island, founding the settlement that within a decade would eclipse [[Penang]] as the principal European port on the Straits. Raffles’ decision followed a recommendation from [[Major William Farquhar|William Farquhar]] of [[Malacca]] to consider the [[Karimon Islands]]; the allure of the Karimon site caused Raffles to postpone his planned mission to [[Acheh]] and to inspect the islands, only to find Singapore more suitable. He returned to [[Penang]] by [[16 February]] [[1819]], having secured the island for the British. 
 
 Raffles’ own correspondence dated [[12 June]] [[1819]] to [[Sir Robert Harry Inglis]] records the foundation as the platform from which he reported the conclusion of the [[Treaty of Pedir (1819)|treaty of 22 April 1819]] with the old king of Aceh. The Dutch Governor [[Timmerman Thyssen]] wrote on [[11 November]] [[1818]] that the British move “appeared to be a settled plan of Penang,” reflecting Dutch alarm at the unexpected British foothold.
 
@@ -34,11 +34,11 @@ British officials such as [[Robert Fullerton|Fullerton]] reinforced Singapore’
 
 ## Cession to Britain and International Recognition
 
-The [[Anglo-Dutch Treaty of London (1824)|treaty of London of 17 March 1824]] transferred Singapore, together with [[Malacca]], from Dutch to British sovereignty in exchange for [[Benkoelen]] and the Dutch factories in [[Hindostan]]. Dutch negotiators had previously, on [[24 July]] [[1820]], included a clause ordering the evacuation of “Singa‑Poura,” reflecting ongoing Dutch anxiety over the loss of the island.
+The [[Anglo-Dutch Treaty of 1824|treaty of London of 17 March 1824]] transferred Singapore, together with [[Malacca]], from Dutch to British sovereignty in exchange for [[Benkoelen]] and the Dutch factories in [[Hindostan]]. Dutch negotiators had previously, on [[24 July]] [[1820]], included a clause ordering the evacuation of “Singa‑Poura,” reflecting ongoing Dutch anxiety over the loss of the island.
 
 ## Cultural Connections and Literary Transmission
 
-Singapore’s printing activity facilitated the diffusion of South [[India]]‑originated mysticism and romance literature throughout the archipelago. Works such as the Malay version of the **Hikayat Indra Bangsawan**, the **Malim Deman** tale of the [[Menangkabau]] Malays, and the Batak story of **Malin Deman** found a receptive audience in Singapore’s presses. Indian scholars like [[Raniri]] of [[Gujerat]] contributed to the region’s religious literature, while Syrian and Egyptian pandits arriving via [[Mekka]] also left their mark on Acehnese and Malay literary traditions.
+Singapore’s printing activity facilitated the diffusion of South [[India]]‑originated mysticism and romance literature throughout the archipelago. Works such as the Malay version of the **Hikayat Indra Bangsawan**, the **Malim Deman** tale of the [[Menangkabau]] Malays, and the Batak story of **Malin Deman** found a receptive audience in Singapore’s presses. Indian scholars like [[Nur al-Din al-Raniri|Raniri]] of [[Gujerat]] contributed to the region’s religious literature, while Syrian and Egyptian pandits arriving via [[Mekka]] also left their mark on Acehnese and Malay literary traditions.
 
 ## Significance
 

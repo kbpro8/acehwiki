@@ -4,7 +4,7 @@ aliases: [Wudjūdījah, Wujūdiyya, Wudjudijah, Wujūdiyyah, Ittihadiyyah, Itti�
 tags: [concept, religious-doctrine, mysticism, islamic-scholarship, wujudiyyah, precolonial, 17th-century, aceh, malay, gujarati, polemic]
 ---
 
-**The Wujūdiyyah** — also called *Ittiḥādiyya*, *Mulhid*, or *Zindīq* — is the doctrine of the unity of being (*waḥdat al-wujūd*) in the form in which it was developed at the court of [[Acheh]] by [[Hamzah Pansuri]] and his successor [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]] in the late sixteenth and early seventeenth centuries, and against which [[Raniri|Nūruddīn ar-Rānīrī]] directed his polemic after his arrival in Acheh in [[1637]]. The doctrine is set out in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] and the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of Raniri, where it is divided into the upper-wind (*bovenwindse*) and lower-wind (*benedenwindse*) Wujūdiyyah; to the latter belong Hamzah Pansuri and his school.
+**The Wujūdiyyah** — also called *Ittiḥādiyya*, *Mulhid*, or *Zindīq* — is the doctrine of the unity of being (*waḥdat al-wujūd*) in the form in which it was developed at the court of [[Acheh]] by [[Hamzah Pansuri]] and his successor [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]] in the late sixteenth and early seventeenth centuries, and against which [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] directed his polemic after his arrival in Acheh in [[1637]]. The doctrine is set out in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] and the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of Raniri, where it is divided into the upper-wind (*bovenwindse*) and lower-wind (*benedenwindse*) Wujūdiyyah; to the latter belong Hamzah Pansuri and his school.
 
 ## The doctrine
 
@@ -20,7 +20,7 @@ The Achehnese Wujūdiyyah of the school of [[Hamzah Pansuri]] is the principal o
 
 ## The orthodox reaction
 
-The arrival of [[Raniri|Nūruddīn ar-Rānīrī]] in [[1637]], in the first year of the reign of [[Iskandar Thani]], opened the orthodox reaction against the Wujūdiyyah. Raniri [[Raniri's public debate against the Wujudiyyah in Acheh|refuted the adherents of the extreme Wujūdiyyah mysticism in a public debate]] in the presence of the sultan; the disciples of [[Hamzah Pansuri]] were put to death and his books burned. The composition of the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] and the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]] — both directed against the Wujūdiyyah — followed at the command of [[Iskandar Thani]] and his successor [[Sultan Tajul-alam|Taj al-Ālam]]. Raniri continued to enjoy royal favour under both sultans; his authority replaced that of the Wujūdiyyah mystics at the Achehnese court, and the production of Malay religious prose in the new orthodox dispensation — the [[Sirat al-mustaqim|*Ṣirāṭ al-mustaqīm*]], the [[Bustan al-Salatin|*Bustān as-Salāṭīn*]], the [[Hall al-zill|*Ḥall aẓ-ẓill*]], the [[Djawahir al-'ulum|*Jawāhir al-ʿulūm*]] — replaced the Wujūdiyyah literature of the age of Iskandar Muda.
+The arrival of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] in [[1637]], in the first year of the reign of [[Iskandar Thani]], opened the orthodox reaction against the Wujūdiyyah. Raniri [[Raniri's public debate against the Wujudiyyah in Acheh|refuted the adherents of the extreme Wujūdiyyah mysticism in a public debate]] in the presence of the sultan; the disciples of [[Hamzah Pansuri]] were put to death and his books burned. The composition of the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] and the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]] — both directed against the Wujūdiyyah — followed at the command of [[Iskandar Thani]] and his successor [[Sultan Tajul-alam|Taj al-Ālam]]. Raniri continued to enjoy royal favour under both sultans; his authority replaced that of the Wujūdiyyah mystics at the Achehnese court, and the production of Malay religious prose in the new orthodox dispensation — the [[Sirat al-Mustaqim|*Ṣirāṭ al-mustaqīm*]], the [[Bustan al-Salatin|*Bustān as-Salāṭīn*]], the [[Hall al-zill|*Ḥall aẓ-ẓill*]], the [[Djawahir al-'ulum|*Jawāhir al-ʿulūm*]] — replaced the Wujūdiyyah literature of the age of Iskandar Muda.
 
 ## Sources and authorities
 
@@ -28,7 +28,7 @@ In his refutation of the Wujūdiyyah Raniri cites a number of authorities. The p
 
 ## Significance
 
-The controversy over the Wujūdiyyah is the central event of the religious history of [[Acheh]] in the seventeenth century. It marks the transition from the golden age of Achehnese mystical poetry — the age of [[Hamzah Pansuri]] and [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]] — to the age of the orthodox reaction under [[Raniri|Nūruddīn ar-Rānīrī]], and the composition of the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] and the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]] is the principal literary deposit of the controversy. The polemic against the Wujūdiyyah also preserves, in the form of citations and refutations, the only extended fragments of the works of Hamzah Pansuri and Shamsuddin of Pasai — works whose own manuscripts have survived only in fragments and which are known to us chiefly through the writings of their opponent.
+The controversy over the Wujūdiyyah is the central event of the religious history of [[Acheh]] in the seventeenth century. It marks the transition from the golden age of Achehnese mystical poetry — the age of [[Hamzah Pansuri]] and [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]] — to the age of the orthodox reaction under [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]], and the composition of the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] and the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]] is the principal literary deposit of the controversy. The polemic against the Wujūdiyyah also preserves, in the form of citations and refutations, the only extended fragments of the works of Hamzah Pansuri and Shamsuddin of Pasai — works whose own manuscripts have survived only in fragments and which are known to us chiefly through the writings of their opponent.
 
 ## See Also
 
@@ -46,7 +46,7 @@ The controversy over the Wujūdiyyah is the central event of the religious histo
 - [[Lata'if al-i'lam]]
 - [[Mir'at al-muhakkikin]]
 - [[Muhammad b. Fadl Allah]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's public debate against the Wujudiyyah in Acheh]]
 - [[Shathihiyat]]
 - [[Shaikh Shamsuddin of Sumatra]]

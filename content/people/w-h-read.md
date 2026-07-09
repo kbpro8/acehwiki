@@ -29,7 +29,7 @@ Read's telegram was the proximate cause of the Dutch decision to send an expedit
 - [[J. Loudon]]
 - [[F. N. Nieuwenhuysen]]
 - [[Singapore]]
-- [[Anglo-Dutch Treaty of 1871]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1871]]
 - [[Aceh War]]
 
 ## Source
@@ -62,7 +62,7 @@ Read's telegram was the proximate cause of the Dutch decision to send an expedit
 - [[J. Loudon]]
 - [[F. N. Nieuwenhuysen]]
 - [[Singapore]]
-- [[Anglo-Dutch Treaty of 1871]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1871]]
 - [[Aceh War]]
 
 ## Source

@@ -5,7 +5,7 @@ aliases: [G. A. Herklots, G. A. Herklots M.D.]
 tags: [person, scholar, translator, orientalist]
 ---
 
-**G. A. Herklots** was the English translator of the *Qanoon-e-islam* of [[Jaffur Shurreef|Jaffur Shurreef]] — the most important single European-language source then available on the popular Islam of the Deccan. The second edition of his translation, published at Madras in [[1863]], is cited by [[C. Snouck Hurgronje|Snouck Hurgronje]] in *The Achehnese* (pp. 98–149 of Herklots's edition) as a "very noteworthy and full description" of the popular Mohammedan festivals, and as a principal comparative source for the Achehnese [[Hasan-Husain festival|Hasan-Husain]] and [[Ashura]] observances.
+**G. A. Herklots** was the English translator of the *Qanoon-e-islam* of [[Jaffur Shurreef|Jaffur Shurreef]] — the most important single European-language source then available on the popular Islam of the Deccan. The second edition of his translation, published at Madras in [[1863]], is cited by [[C. Snouck Hurgronje|Snouck Hurgronje]] in *The Achehnese* (pp. 98–149 of Herklots's edition) as a "very noteworthy and full description" of the popular Mohammedan festivals, and as a principal comparative source for the Achehnese [[Hasan-Husain Festival|Hasan-Husain]] and [[Ashura]] observances.
 
 ## The *Qanoon-e-islam* and its importance
 
@@ -24,7 +24,7 @@ By translating the *Qanoon-e-islam*, Herklots placed at Snouck Hurgronje's dispo
 - [[Jaffur Shurreef]]
 - [[Edward William Lane]]
 - [[E. Sell]]
-- [[Hasan-Husain festival]]
+- [[Hasan-Husain Festival|Hasan-Husain festival]]
 - [[Ashura]]
 - [[Kanji Ashura]]
 - [[C. Snouck Hurgronje]]
@@ -35,7 +35,7 @@ By translating the *Qanoon-e-islam*, Herklots placed at Snouck Hurgronje's dispo
 ---
 
 
-**G. A. Herklots** was the English translator of the *Qanoon-e-islam* of [[Jaffur Shurreef|Jaffur Shurreef]] — the most important single European-language source then available on the popular Islam of the Deccan. The second edition of his translation, published at Madras in [[1863]], is cited by [[C. Snouck Hurgronje|Snouck Hurgronje]] in *The Achehnese* (pp. 98–149 of Herklots's edition) as a "very noteworthy and full description" of the popular Mohammedan festivals, and as a principal comparative source for the Achehnese [[Hasan-Husain festival|Hasan-Husain]] and [[Ashura]] observances.
+**G. A. Herklots** was the English translator of the *Qanoon-e-islam* of [[Jaffur Shurreef|Jaffur Shurreef]] — the most important single European-language source then available on the popular Islam of the Deccan. The second edition of his translation, published at Madras in [[1863]], is cited by [[C. Snouck Hurgronje|Snouck Hurgronje]] in *The Achehnese* (pp. 98–149 of Herklots's edition) as a "very noteworthy and full description" of the popular Mohammedan festivals, and as a principal comparative source for the Achehnese [[Hasan-Husain Festival|Hasan-Husain]] and [[Ashura]] observances.
 
 ## The *Qanoon-e-islam* and its importance
 
@@ -54,7 +54,7 @@ By translating the *Qanoon-e-islam*, Herklots placed at Snouck Hurgronje's dispo
 - [[Jaffur Shurreef]]
 - [[Edward William Lane]]
 - [[E. Sell]]
-- [[Hasan-Husain festival]]
+- [[Hasan-Husain Festival|Hasan-Husain festival]]
 - [[Ashura]]
 - [[Kanji Ashura]]
 - [[C. Snouck Hurgronje]]

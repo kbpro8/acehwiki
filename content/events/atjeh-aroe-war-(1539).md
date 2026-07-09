@@ -8,7 +8,7 @@ tags: [event, war, atjehnese, portuguese, east-coast, colonial, 16th-century]
 
 ## Background
 
-The [[Sultan of Atjeh (16th century)|sultan of Atjeh]] had recently embraced Islam, and — as [[Mendez Pinto|Pinto]] reports — was using the conversion as a welcome motive for raiding his neighbours, "to bring them by fire and sword to submission and the new faith". The west-coast kingdom of [[Batu|Batu]] (the islands off [[Pasaman|Ophir]]) appealed in [[1539]] to the new Portuguese governor of [[Malacca]], [[Pero de Faria]], for help, and Faria dispatched [[Mendez Pinto]] with munitions. Pinto's first mission, to the west coast, brought him into the country of a *bandahara* near [[Pasaman]] where an abortive march against the Atjehers was organised. On his return, Pinto learned that the king of [[Aroe]] had in turn asked Faria for help against an Atjehnese fleet then bearing down upon him.
+The [[Sultan of Acheh (16th century)|sultan of Atjeh]] had recently embraced Islam, and — as [[Mendez Pinto|Pinto]] reports — was using the conversion as a welcome motive for raiding his neighbours, "to bring them by fire and sword to submission and the new faith". The west-coast kingdom of [[Batu|Batu]] (the islands off [[Pasaman|Ophir]]) appealed in [[1539]] to the new Portuguese governor of [[Malacca]], [[Pero de Faria]], for help, and Faria dispatched [[Mendez Pinto]] with munitions. Pinto's first mission, to the west coast, brought him into the country of a *bandahara* near [[Pasaman]] where an abortive march against the Atjehers was organised. On his return, Pinto learned that the king of [[Aroe]] had in turn asked Faria for help against an Atjehnese fleet then bearing down upon him.
 
 ## Pinto's embassy to Aroe (October 1539)
 
@@ -38,7 +38,7 @@ Pinto's account is studded with names that De Roo de la Faille decodes through t
 
 ## Significance
 
-For AcehWiki, the Atjeh-Aroe War is the foundational military event of the [[Aceh Sultanate|Atjehnese sultanate]]'s sixteenth-century expansion. It establishes the [[Sultan of Atjeh (16th century)|sultan]] as a sea-power capable of throwing a 130-vessel fleet across the [[Straits of Malacca|Strait of Malacca]]; it fixes [[Alleredin Mahomet]] as the named commander of that fleet and governor of [[Barus|Barus]]; it records the only named east-coast Sumatran counter-stroke of the early Atjehnese wars (the [[Queen of Aroe|queen]]'s sortie and her Johorese marriage); and it closes, in the person of the [[Radja of Aroe|dead radja]] and the [[Queen of Aroe|fleeing queen]], the independent history of [[Aroe]] — a kingdom that had once stood on a level with [[Pasej-Samodra|Pasej]] and [[Malacca]].
+For AcehWiki, the Atjeh-Aroe War is the foundational military event of the [[Aceh Sultanate|Atjehnese sultanate]]'s sixteenth-century expansion. It establishes the [[Sultan of Acheh (16th century)|sultan]] as a sea-power capable of throwing a 130-vessel fleet across the [[Straits of Malacca|Strait of Malacca]]; it fixes [[Alleredin Mahomet]] as the named commander of that fleet and governor of [[Barus|Barus]]; it records the only named east-coast Sumatran counter-stroke of the early Atjehnese wars (the [[Queen of Aroe|queen]]'s sortie and her Johorese marriage); and it closes, in the person of the [[Radja of Aroe|dead radja]] and the [[Queen of Aroe|fleeing queen]], the independent history of [[Aroe]] — a kingdom that had once stood on a level with [[Pasej-Samodra|Pasej]] and [[Malacca]].
 
 ## See Also
 
@@ -48,7 +48,7 @@ For AcehWiki, the Atjeh-Aroe War is the foundational military event of the [[Ace
 - [[Atjehsche vloot]]
 - [[Radja of Aroe]]
 - [[Queen of Aroe]]
-- [[Sultan of Atjeh (16th century)]]
+- [[Sultan of Acheh (16th century)|Sultan of Atjeh (16th century)]]
 - [[Aroe]]
 - [[Aroe-baai]]
 - [[Poelo Kampi]]

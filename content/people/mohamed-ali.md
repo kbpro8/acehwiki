@@ -12,7 +12,7 @@ After the capture of Salangore, Van Braam dispatched two frigates, two kotters, 
 Mohamed Ali’s appointment was part of a broader Dutch strategy to secure the Straits of Malacca and to counter Buginese influence in the archipelago. His rule facilitated Dutch trade and military logistics in the area.
 
 ## See Also
-- [[Van Braam (commander)]]
+- [[Jacob Pieter van Braam|Van Braam (commander)]]
 - [[Salangore]]
 - [[Siak]]
 - [[Oost-Indische Compagnie]]

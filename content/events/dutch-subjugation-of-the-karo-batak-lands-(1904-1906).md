@@ -18,7 +18,7 @@ The [[1902]] missionary concession was, however, a source of division among the 
 
 ## The 1904 submissions
 
-The Dutch advance into the [[Batak-Karo|Karo]] hoogvlakte was, the Bureau records, also stimulated by the parallel advance into the [[Gajoland|Gajo]] and [[Alasland|Alas]] highlands. The Bureau records the "tocht van den Overste [[Van Daalen|Van Daalen]] door het Westelijk deel der hoogvlakte, als voortzetting van de Gajo- en Alastocht, welke indirect de toename van onzen invloed op de Karo-landschappen zeer bespoedigde" — "the journey of Colonel Van Daalen through the western part of the hoogvlakte, as continuation of the Gajo- and Alas journey, which indirectly very much accelerated the increase of our influence on the Karo-landschappen." A detachment of troops returning from the [[Gajoland|Gajo]] and [[Alasland|Alas]] campaign crossed the hoogvlakte to [[Medan|Medan]] and, en route, became involved in a conflict between two [[Batak-Karo|Karo]] *sibajaks* — a conflict that, the Bureau records, accelerated the Dutch advance.
+The Dutch advance into the [[Batak-Karo|Karo]] hoogvlakte was, the Bureau records, also stimulated by the parallel advance into the [[Gajoland|Gajo]] and [[Alasland|Alas]] highlands. The Bureau records the "tocht van den Overste [[Gotfried Coenraad Ernst van Daalen|Gotfried Coenraad Ernst van Daalen]] door het Westelijk deel der hoogvlakte, als voortzetting van de Gajo- en Alastocht, welke indirect de toename van onzen invloed op de Karo-landschappen zeer bespoedigde" — "the journey of Colonel Van Daalen through the western part of the hoogvlakte, as continuation of the Gajo- and Alas journey, which indirectly very much accelerated the increase of our influence on the Karo-landschappen." A detachment of troops returning from the [[Gajoland|Gajo]] and [[Alasland|Alas]] campaign crossed the hoogvlakte to [[Medan|Medan]] and, en route, became involved in a conflict between two [[Batak-Karo|Karo]] *sibajaks* — a conflict that, the Bureau records, accelerated the Dutch advance.
 
 The result was a series of submissions in [[1904]]. "In [[1904]] reeds een tweetal landschapshoofden van de Karo-hoogvlakte hunne onderwerping aanboden. Ook de landschapshoofden van de rijkjes op de Timoer-hoogvlakte, Dolok en Poerba, boden hun onderwerping aan in het begin van [[1904]]" — "Already in 1904 a couple of *landschapshoofden* of the Karo-hoogvlakte offered their submission. Also the *landschapshoofden* of the *rijkjes* on the Timoer-hoogvlakte, Dolok and Poerba, offered their submission at the beginning of 1904."
 
@@ -38,7 +38,7 @@ The [[1904]]–[[1906]] subjugation of the [[Batak-Karo|Karo-Batak]] lands is, i
 
 - [[Batak-Karo]]
 - [[C. J. Westenberg]]
-- [[Van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [[Kaban Djahé]]
 - [[Lingga]]
 - [[Sarinembah]]

@@ -53,7 +53,7 @@ The Missigit Longbatta operation is one of the best-documented engineer actions 
 - [[Missigit]]
 - [[Benting]]
 - [[Ranjoe]]
-- [[Bamboe-doerie]]
+- [[Bamboe-doeri|Bamboe-doerie]]
 - [[Bataillon Mineurs en Sappeurs]]
 - [[Vrije koelies]]
 - [[Dwangarbeiders]]

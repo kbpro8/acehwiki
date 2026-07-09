@@ -4,7 +4,7 @@ aliases: [Proclamatie van 31 Januari 1874, Proclamation of 31 January 1874, Anne
 tags: [document, proclamation, dutch-colonial, aceh-war, colonial, sovereignty]
 ---
 
-**Van Swieten's Proclamation of 31 January 1874** was the official proclamation issued by Lieutenant-general [[J. van Swieten|J. van Swieten]] in his capacity as civil and military commissioner in [[Acheh|Atjeh]], by which the Dutch government annexed [[Groot-Atjeh|Groot-Atjeh]] by right of conquest following the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[1874]] and the death of the sultan on [[26 January]] [[1874]]. The proclamation — which was approved by telegram of [[1 February]] [[1874]] from the Opperbestuur — invited the chiefs of the three [[sagi|sagis]] and of the [[Onderhoorigheden|Onderhoorigheden]] to make written submission, guaranteed the free exercise of religion and the preservation of popular institutions, and prohibited the carrying of weapons.
+**Van Swieten's Proclamation of 31 January 1874** was the official proclamation issued by Lieutenant-general [[Jan van Swieten|Jan van Swieten]] in his capacity as civil and military commissioner in [[Acheh|Atjeh]], by which the Dutch government annexed [[Groot-Atjeh|Groot-Atjeh]] by right of conquest following the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[1874]] and the death of the sultan on [[26 January]] [[1874]]. The proclamation — which was approved by telegram of [[1 February]] [[1874]] from the Opperbestuur — invited the chiefs of the three [[sagi|sagis]] and of the [[Onderhoorigheden|Onderhoorigheden]] to make written submission, guaranteed the free exercise of religion and the preservation of popular institutions, and prohibited the carrying of weapons.
 
 ## Background
 
@@ -35,7 +35,7 @@ In fact the population did not submit; and the proclamation inaugurated the long
 
 ## See Also
 
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[Capture of the Kraton (24 January 1874)]]
 - [[Death of Sultan Aladin Mahmood Shah]]
 - [[Second Aceh Expedition (1873-1874)]]
@@ -47,7 +47,7 @@ In fact the population did not submit; and the proclamation inaugurated the long
 - [[Keumala]]
 - [[Aceh War]]
 - [[Korte Verklaring]]
-- [[Anglo-Dutch Treaty of 1871]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1871]]
 
 ## Source
 

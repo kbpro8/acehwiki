@@ -4,11 +4,11 @@ aliases: [Pedir, Pidié, Pidië, Mukim Tujoh, VII Mukims Pidie, Pidie territory,
 tags: [place, north-east-coast, region, coast-state, east-coast, dependency, achehnese, noordkust, onderafdeeling, pidie, noordkust-van-atjeh, atjeh, strategic, administrative-division]
 ---
 
-The major North Coast territory and kingdom. 'The Achehnese give the name of Pidie to the whole of the territory which formerly belonged to the kingdom of that name, i.e. almost the whole of the North Coast with its hinterland.' Pidie is historically known as a seat of religious learning: 'Thus most of the learned in Great [[Acheh]] have spent the greater part of their student life in Pidie, while vice versa the studiously inclined in Pidie and on the East Coast amass their capital of knowledge in Great [[Acheh]].' The centres of learning in Pidie before the Dutch included [[Langga and Langgo]], [[Langga and Langgo]], [[Sriweue]], [[Simpang]], and [[Ie Leubeue]] (= Ayer Labu). [[Tiro]] in Pidie was 'sanctified by the presence of so many living ulamas and the holy tombs of their predecessors.' Heretical mysticism (eleumee sale) also flourished in Pidie. In the [[Hikayat Malem Dagang]], 'The first place touched at is Pidie (vulg. Pedir), the panglima of which is handed down to fame as the bravest and most distinguished of generals.' The [[Hikayat Pochut Muhamat]] describes [[Pochut Muhamat]]'s tour through Pidie gathering allies: he visited [[Padang Teuji]], [[Reubee]], and eventually won over [[Pangulee Beunaroe]], the powerful uleebalang of the IX Mukims. The sadati kisah describes Pidie as forming a square with four uleebalangs holding power: 'The X Mukims are subject to Bentara Keumangan; Teungku Sama Indra rules the VIII Mukims; The La'seumana is a fatherless child; he rules the XXII Mukims; The V Mukims are under the control of Teungku Ujong
+The major North Coast territory and kingdom. 'The Achehnese give the name of Pidie to the whole of the territory which formerly belonged to the kingdom of that name, i.e. almost the whole of the North Coast with its hinterland.' Pidie is historically known as a seat of religious learning: 'Thus most of the learned in Great [[Acheh]] have spent the greater part of their student life in Pidie, while vice versa the studiously inclined in Pidie and on the East Coast amass their capital of knowledge in Great [[Acheh]].' The centres of learning in Pidie before the Dutch included [[Langga and Langgo]], [[Langga and Langgo]], [[Sriweue]], [[Simpang]], and [[Ie Leubeue]] (= Ayer Labu). [[Tiro]] in Pidie was 'sanctified by the presence of so many living ulamas and the holy tombs of their predecessors.' Heretical mysticism (eleumee sale) also flourished in Pidie. In the [[Hikajat Malém Dagang|Hikayat Malem Dagang]], 'The first place touched at is Pidie (vulg. Pedir), the panglima of which is handed down to fame as the bravest and most distinguished of generals.' The [[Hikayat Pochut Muhamat]] describes [[Pochut Muhamat]]'s tour through Pidie gathering allies: he visited [[Padang Tiji|Padang Teuji]], [[Reubee]], and eventually won over [[Pangulee Beunaroe]], the powerful uleebalang of the IX Mukims. The sadati kisah describes Pidie as forming a square with four uleebalangs holding power: 'The X Mukims are subject to Bentara Keumangan; Teungku Sama Indra rules the VIII Mukims; The La'seumana is a fatherless child; he rules the XXII Mukims; The V Mukims are under the control of Teungku Ujong
 
-**Pidie** (also *Pedir*, or *Pidié* in Acehnese orthography) was a significant coastal territory immediately to the east of [[Great Acheh]], lying beyond the boundary formed by the footpaths through [[Reueng-reueng]], [[Pancha]], and [[Janthoe]] and continuing to [[Teumieng]] on the East Coast.
+**Pidie** (also *Pedir*, or *Pidié* in Acehnese orthography) was a significant coastal territory immediately to the east of [[Great Acheh]], lying beyond the boundary formed by the footpaths through [[Reueng-reueng]], [[Pancha]], and [[Janthoe]] and continuing to [[Tamiang|Teumieng]] on the East Coast.
 
-Pidie was one of the outer dependencies of the [[Aceh Sultanate]], bound to the sultanate in a more distant relationship than the three sagis of [[Great Acheh|Great Acheh]] itself. The territory fell within the broader limits of the kingdom — the Acehnese placing those limits at [[Teumieng]] (Tamiang) on the East Coast — but was distinct from "Acheh proper."
+Pidie was one of the outer dependencies of the [[Aceh Sultanate]], bound to the sultanate in a more distant relationship than the three sagis of [[Great Acheh|Great Acheh]] itself. The territory fell within the broader limits of the kingdom — the Acehnese placing those limits at [[Tamiang|Teumieng]] (Tamiang) on the East Coast — but was distinct from "Acheh proper."
 
 [[C. Snouck Hurgronje]] notes that the Pidië dialect was employed in certain senses within the Acehnese language, for example using the word *penghulu* (Malay equivalent of *imeum*) as chief or lord — a title otherwise confined in Acheh to the prophet and his disciples.
 
@@ -27,7 +27,7 @@ In modern times Pidie acquired fresh political importance as the seat of the fug
 
 ## Under Van Daalen, 1905–1907
 
-During the governorship of [[G. C. E. van Daalen|Van Daalen]] ([[1905]]–[[1907]]), Pidië suffered particularly harsh treatment that Van Heutsz's [[Atjéh-enquête|1907 investigation]] found was "exclusively punished and treated arbitrarily, against justice and equity." Several *oelèëbalangs* had been arbitrarily dismissed and not replaced, leaving the civil administrator to take over their functions — what Van Heutsz called "an absolute impossibility"; other chiefs were subjected to heavy fines for political reasons without any legal basis, and some were threatened with career repercussions if they resisted. Following Van Daalen's removal in [[1908]], his successor [[H. N. A. Swart|Swart]] reversed these policies, restored the chiefs, and re-established a cooperative relationship that made Pidië a model of successful pacification under the more conciliatory approach.
+During the governorship of [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] ([[1905]]–[[1907]]), Pidië suffered particularly harsh treatment that Van Heutsz's [[Atjéh-enquête|1907 investigation]] found was "exclusively punished and treated arbitrarily, against justice and equity." Several *oelèëbalangs* had been arbitrarily dismissed and not replaced, leaving the civil administrator to take over their functions — what Van Heutsz called "an absolute impossibility"; other chiefs were subjected to heavy fines for political reasons without any legal basis, and some were threatened with career repercussions if they resisted. Following Van Daalen's removal in [[1908]], his successor [[H. N. A. Swart|Swart]] reversed these policies, restored the chiefs, and re-established a cooperative relationship that made Pidië a model of successful pacification under the more conciliatory approach.
 
 ## Account from *Atjèh and the War with Japan* (1949) — Pidië
 
@@ -35,7 +35,7 @@ During the governorship of [[G. C. E. van Daalen|Van Daalen]] ([[1905]]–[[1907
 
 ## The geographical region
 
-Pidië was the great alluvial plain of north-central Atjèh, enclosed by hill and mountain country on its inland side. Piekaar records that "the inhabited area remains thereby mainly limited to the area belonging to the Groot-Atjèh valley in the West and the area belonging to the Pidirese lowland in the East." The easternmost portion of the Seulimeum subdistrict, "known as the VII Moekims Pidië, comprises the 8 easternmost independent *moekims*. Together with some adjoining areas in the [[Sigli|Sigli]] sub-division, these 8 *mukims* were for some time united in the subdistrict [[Padang Tidji|Padang Tidji]], thus named after the flourishing marketplace and former garrison post [[Padang Tidji|Padang Tidji]], which forms the center of the VII Moekims Pidië." This enclosure by and immediate proximity to the hill and mountain country have "made the population here familiar with it from a young age. Possibly this is also one of the causes by which here a stronger, perhaps more primitive race has continued to exist than in the great plains along the North Coast."
+Pidië was the great alluvial plain of north-central Atjèh, enclosed by hill and mountain country on its inland side. Piekaar records that "the inhabited area remains thereby mainly limited to the area belonging to the Groot-Atjèh valley in the West and the area belonging to the Pidirese lowland in the East." The easternmost portion of the Seulimeum subdistrict, "known as the VII Moekims Pidië, comprises the 8 easternmost independent *moekims*. Together with some adjoining areas in the [[Sigli|Sigli]] sub-division, these 8 *mukims* were for some time united in the subdistrict [[Padang Tiji|Padang Tiji]], thus named after the flourishing marketplace and former garrison post [[Padang Tiji|Padang Tiji]], which forms the center of the VII Moekims Pidië." This enclosure by and immediate proximity to the hill and mountain country have "made the population here familiar with it from a young age. Possibly this is also one of the causes by which here a stronger, perhaps more primitive race has continued to exist than in the great plains along the North Coast."
 
 ## The feudal ownership system
 
@@ -70,7 +70,7 @@ In the proposed administrative reorganization of the [[Bestuursreorganisatie Sum
 - [[Aceh Sultanate]]
 - [[Acheh]]
 - [[Great Acheh]]
-- [[Hikayat Malem Dagang]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
 - [[Hikayat Pochut Muhamat]]
 - [[Idi]]
 - [[Ie Leubeue]]
@@ -78,12 +78,12 @@ In the proposed administrative reorganization of the [[Bestuursreorganisatie Sum
 - [[Langga and Langgo]]
 - [[Malem Dagang]]
 - [[Muhammad Dawot Shah]]
-- [[Padang Teuji]]
+- [[Padang Tiji|Padang Teuji]]
 - [[Pangulee Beunaroe]]
 - [[Pochut Muhamat]]
 - [[Reubee]]
 - [[Simpang]]
-- [[Teumieng]]
+- [[Tamiang|Teumieng]]
 - [[East Coast (of Acheh)]]
 - [[Bentara Keumangan]]
 - [[Lam Panaih]]
@@ -100,7 +100,7 @@ In the proposed administrative reorganization of the [[Bestuursreorganisatie Sum
 - [[Keumangan]]
 - [[Poesa]]
 - [[Teungkoe Moehamad Daoed Beureu-éh]]
-- [[Padang Tidji]]
+- [[Padang Tiji|Padang Tidji]]
 - [[1942]]
 - [[1945]]
 - [[Th. J. Veltman]]

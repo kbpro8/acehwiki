@@ -25,7 +25,7 @@ The succession war of 1756–60 thus marks, in Hurgronje's account, an important
 ## See Also
 
 - [[Hikayat Pochut Muhamat]]
-- [[Hikayat Malem Dagang]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
 - [[Alaedin Juhan Shah]]
 - [[Jamalul-alam]]
 - [[Pochut Muhamat]]

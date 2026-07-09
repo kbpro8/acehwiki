@@ -15,7 +15,7 @@ The point of the citation is comparative: Snouck Hurgronje is concerned to estab
 
 ## Place in the comparative apparatus
 
-The citation of Gerth van Wijk is one of several places in *The Achehnese* where Snouck Hurgronje invokes a comparative West-Sumatran source in order to bring out the wider distribution of an Achehnese usage. The same method governs his citation of [[I. D. E. Schmeltz|Schmeltz]]'s *Internationales Archiv für Ethnographie* for the [[Hasan-Husain festival|Hasan-Husain festival]] at Padang and Bencoolen, and of [[G. A. Wilken|G. A. Wilken]] on goitre in the Indian Archipelago. Such references, often tucked away in footnotes, constitute the comparative scaffolding by means of which the customs of Acheh are shown to be at once local in their immediate form and widely diffused in their underlying pattern.
+The citation of Gerth van Wijk is one of several places in *The Achehnese* where Snouck Hurgronje invokes a comparative West-Sumatran source in order to bring out the wider distribution of an Achehnese usage. The same method governs his citation of [[I. D. E. Schmeltz|Schmeltz]]'s *Internationales Archiv für Ethnographie* for the [[Hasan-Husain Festival|Hasan-Husain Festival]] at Padang and Bencoolen, and of [[G. A. Wilken|G. A. Wilken]] on goitre in the Indian Archipelago. Such references, often tucked away in footnotes, constitute the comparative scaffolding by means of which the customs of Acheh are shown to be at once local in their immediate form and widely diffused in their underlying pattern.
 
 ## See Also
 
@@ -42,7 +42,7 @@ The point of the citation is comparative: Snouck Hurgronje is concerned to estab
 
 ## Place in the comparative apparatus
 
-The citation of Gerth van Wijk is one of several places in *The Achehnese* where Snouck Hurgronje invokes a comparative West-Sumatran source in order to bring out the wider distribution of an Achehnese usage. The same method governs his citation of [[I. D. E. Schmeltz|Schmeltz]]'s *Internationales Archiv für Ethnographie* for the [[Hasan-Husain festival|Hasan-Husain festival]] at Padang and Bencoolen, and of [[G. A. Wilken|G. A. Wilken]] on goitre in the Indian Archipelago. Such references, often tucked away in footnotes, constitute the comparative scaffolding by means of which the customs of Acheh are shown to be at once local in their immediate form and widely diffused in their underlying pattern.
+The citation of Gerth van Wijk is one of several places in *The Achehnese* where Snouck Hurgronje invokes a comparative West-Sumatran source in order to bring out the wider distribution of an Achehnese usage. The same method governs his citation of [[I. D. E. Schmeltz|Schmeltz]]'s *Internationales Archiv für Ethnographie* for the [[Hasan-Husain Festival|Hasan-Husain Festival]] at Padang and Bencoolen, and of [[G. A. Wilken|G. A. Wilken]] on goitre in the Indian Archipelago. Such references, often tucked away in footnotes, constitute the comparative scaffolding by means of which the customs of Acheh are shown to be at once local in their immediate form and widely diffused in their underlying pattern.
 
 ## See Also
 

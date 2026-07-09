@@ -32,7 +32,7 @@ The Missigit Longbatta is one of the best-documented instances of the Dutch conv
 - [[Benting Kota Alam operation (13 November 1874)]]
 - [[Lamara Olejlo fortification (15 February 1875)]]
 - [[Ranjoe]]
-- [[Bamboe-doerie]]
+- [[Bamboe-doeri|Bamboe-doerie]]
 - [[Bataillon Mineurs en Sappeurs]]
 - [[Aceh War]]
 - [[Koeta Radja]]

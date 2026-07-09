@@ -4,7 +4,7 @@ aliases: [Acheh treaty raised in London 23 February 1824, disclosure of the 1819
 tags: [event, diplomacy, colonial, anglo-dutch, treaty, correspondence]
 ---
 
-The **raising of the Acheh treaty in the London negotiations of [[23 February]] [[1824]]** was the surprise disclosure by the British plenipotentiaries [[George Canning|Canning]] and [[Charles Watkin Williams Wynn|Wynn]] of the existence of the [[Treaty of Pedir (1819)|1819 British-Acheh convention]] concluded by [[Sir Thomas Stamford Raffles|Raffles]], at the very moment when the [[First draft of 1824 Anglo-Dutch treaty|first draft of the Anglo-Dutch treaty]] had already been agreed and was awaiting only the formality of royal authorisation. The disclosure triggered a rapid sequence of diplomatic moves — the [[Dutch plenipotentiaries' dispatch of 21 February 1824|dispatch of 21 February 1824]] (reporting the disclosure to The Hague), the [[Dutch plenipotentiaries' dispatch of 24 February 1824|dispatch of 24 February 1824]] (proposing to meet the British wishes by nota rather than by treaty articles), and the eventual annexation of a Dutch declaration guaranteeing the independence of [[Acheh]] to the [[Anglo-Dutch Treaty of London (1824)|definitive treaty of 17 March 1824]]. In Van der Kemp's analysis, the raising of the Acheh treaty is the central episode of his study, since it was here that the casual handling of an "innocent" reservation produced the clause that would paralyse Dutch policy on [[Sumatra]] for nearly half a century.
+The **raising of the Acheh treaty in the London negotiations of [[23 February]] [[1824]]** was the surprise disclosure by the British plenipotentiaries [[George Canning|Canning]] and [[Charles Watkin Williams Wynn|Wynn]] of the existence of the [[Treaty of Pedir (1819)|1819 British-Acheh convention]] concluded by [[Sir Thomas Stamford Raffles|Raffles]], at the very moment when the [[First draft of 1824 Anglo-Dutch treaty|first draft of the Anglo-Dutch treaty]] had already been agreed and was awaiting only the formality of royal authorisation. The disclosure triggered a rapid sequence of diplomatic moves — the [[Dutch plenipotentiaries' dispatch of 21 February 1824|dispatch of 21 February 1824]] (reporting the disclosure to The Hague), the [[Dutch plenipotentiaries' dispatch of 24 February 1824|dispatch of 24 February 1824]] (proposing to meet the British wishes by nota rather than by treaty articles), and the eventual annexation of a Dutch declaration guaranteeing the independence of [[Acheh]] to the [[Anglo-Dutch Treaty of 1824|definitive treaty of 17 March 1824]]. In Van der Kemp's analysis, the raising of the Acheh treaty is the central episode of his study, since it was here that the casual handling of an "innocent" reservation produced the clause that would paralyse Dutch policy on [[Sumatra]] for nearly half a century.
 
 ## The state of the negotiations
 
@@ -26,7 +26,7 @@ The disclosure thus transformed the diplomatic situation. The conditional author
 
 In their [[Dutch plenipotentiaries' dispatch of 21 February 1824|dispatch of 21 February 1824]] — a date that, Van der Kemp notes, must be a slip for a later date, since the disclosure was on 23 February — the Dutch plenipotentiaries reported that "the treaty concluded in 1819 by Sir Stamford Raffles has been read and mutually recognised as incompatible with the new state of affairs, and as not susceptible of express maintenance." They also reported the British concern that, "should the sultans of Acheh be left to themselves, the United States of America, or earlier, will seek to establish themselves with them, and get a footing for a settlement which, in case of war, would be to the great detriment of British navigation." The "readiest means of averting this evil", the Dutch plenipotentiaries declared, "appears to be that the Netherlands undertake to stipulate with those of Acheh that they will never admit any establishment of a foreign power."
 
-In their [[Dutch plenipotentiaries' dispatch of 24 February 1824|dispatch of 24 February 1824]], the Dutch plenipotentiaries proposed to meet the British wishes, not by inserting further articles in the treaty itself, but by a separate nota or declaration to be handed to the British plenipotentiaries at the time of signature. This proposal — born, in Van der Kemp's reading, of "the ruinous thought" of completing the treaty by a side-declaration — produced the Dutch declaration of February–March 1824 guaranteeing the independence of [[Acheh]] that was annexed to the [[Anglo-Dutch Treaty of London (1824)|treaty of 17 March 1824]].
+In their [[Dutch plenipotentiaries' dispatch of 24 February 1824|dispatch of 24 February 1824]], the Dutch plenipotentiaries proposed to meet the British wishes, not by inserting further articles in the treaty itself, but by a separate nota or declaration to be handed to the British plenipotentiaries at the time of signature. This proposal — born, in Van der Kemp's reading, of "the ruinous thought" of completing the treaty by a side-declaration — produced the Dutch declaration of February–March 1824 guaranteeing the independence of [[Acheh]] that was annexed to the [[Anglo-Dutch Treaty of 1824|treaty of 17 March 1824]].
 
 ## Significance
 
@@ -46,10 +46,10 @@ Van der Kemp also stresses a technical point: the British justification for rais
 - [[King's authorization of 13 February 1824]]
 - [[Dutch plenipotentiaries' dispatch of 21 February 1824]]
 - [[Dutch plenipotentiaries' dispatch of 24 February 1824]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Treaty of Pedir (1819)]]
 - [[Sir Thomas Stamford Raffles]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Fullerton's minute on Acheh (21 March 1825)]]
 - [[Pinang Nota (1825)]]
 - [[Sphere of influence]]

@@ -12,7 +12,7 @@ The line of female rulers begins, according to the list of Achehnese sultans ins
 
 ## Constitutional Significance
 
-The female rule is significant not only for its duration but also for the Achehnese precedent that it set. There was nothing in Achehnese tradition that excluded a woman from the throne, and indeed the institution of the [[Janji Jinamee|janji jinamee]] (the dowry-security on marriage) and the matrilocal residence rules meant that women of the ruling class were already, in many practical respects, the mistresses of their own houses. The four sultanas could not, however, exercise direct military command, and their authority depended on the support of the great chiefs of the sagis and the ulamas of the capital.
+The female rule is significant not only for its duration but also for the Achehnese precedent that it set. There was nothing in Achehnese tradition that excluded a woman from the throne, and indeed the institution of the [[Jinamee|janji jinamee]] (the dowry-security on marriage) and the matrilocal residence rules meant that women of the ruling class were already, in many practical respects, the mistresses of their own houses. The four sultanas could not, however, exercise direct military command, and their authority depended on the support of the great chiefs of the sagis and the ulamas of the capital.
 
 ## Influence on the Position of Women
 
@@ -23,7 +23,7 @@ Even at the time of writing, in the early twentieth century, Snouck Hurgronje co
 ## See Also
 
 - [[Sultan Tajul-alam]]
-- [[Janji Jinamee]]
+- [[Jinamee|Janji Jinamee]]
 - [[Ha' balee]]
 - [[Bugis Origin Dynasty]]
 - [[Uleebalang]]

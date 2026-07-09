@@ -24,7 +24,7 @@ The island of Pulo U — the Simalur of ordinary speech, the Simeulue of modern 
 
 The island's traditional name, *Pulo U* (literally "island U" — with the letter U being a scribal rendering of an indigenous term), survives in older Dutch and Acehnese materials alongside the form *Simalur*, which gradually became standard in nineteenth-century Dutch colonial usage. The population spoke a distinct Austronesian language closely related to, but not mutually intelligible with, the languages of the neighbouring Batak and Mentawai groups; the society was organised in small chiefdoms that acknowledged a loose Acehnese suzerainty without ever being formally incorporated into the sultanate's administrative structure.
 
-In the strategic calculus that Van der Kemp traces through the years 1817-1824, islands like Pulo U mattered principally as potential way-stations on the sea-lanes between [[Padang]] and [[Acheh]]. They were part of the broader Sumatran perimeter whose disposition [[Raffles]] hoped to influence from [[Bencoolen]], and which the Dutch were equally determined to control from Padang and [[Batavia]]. The [[Treaty of London (1824)|Anglo-Dutch treaty of 1824]], by which Britain withdrew from Sumatra in exchange for Dutch withdrawal from [[Hindostan|Nederlandsch Hindostan]] and [[Malacca]], settled the island's status by placing it firmly within the Dutch sphere, although effective Dutch administration did not reach Simalur until much later in the century.
+In the strategic calculus that Van der Kemp traces through the years 1817-1824, islands like Pulo U mattered principally as potential way-stations on the sea-lanes between [[Padang]] and [[Acheh]]. They were part of the broader Sumatran perimeter whose disposition [[Sir Thomas Stamford Raffles|Raffles]] hoped to influence from [[Bencoolen]], and which the Dutch were equally determined to control from Padang and [[Batavia]]. The [[Anglo-Dutch Treaty of 1824|Anglo-Dutch treaty of 1824]], by which Britain withdrew from Sumatra in exchange for Dutch withdrawal from [[Hindostan|Nederlandsch Hindostan]] and [[Malacca]], settled the island's status by placing it firmly within the Dutch sphere, although effective Dutch administration did not reach Simalur until much later in the century.
 
 ## Account from *De Buitenbezittingen* (1917) — Simeuloë
 
@@ -58,7 +58,7 @@ The principal exports of Simeuloë were hout, copra, hides, and horns, with a sm
 - [[Sumatra's West Coast]]
 - [[Padang]]
 - [[Bencoolen]]
-- [[Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Treaty of London (1824)]]
 - [[Raffles' Atjeh-overeenkomst van 1819]]
 - [[Meulabôh]]
 - [[Tjalang]]

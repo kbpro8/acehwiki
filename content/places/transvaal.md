@@ -3,7 +3,7 @@ title: Transvaal
 aliases: [Zuid-Afrikaansche Republiek, Z.-A. R., South African Republic, Transvaalsche Republiek]
 tags: [place, boer-republic, south-africa, suzerainty-question]
 ---
-The **Transvaal** — formally the **South African Republic** (Dutch: *Zuid-Afrikaansche Republiek*, abbreviated *Z.-A. R.*) — was the Boer republic established north of the Vaal River, which in the early [[1880s]] became the centre of a celebrated dispute over British suzerainty. Van der Kemp treats the Transvaal question as a structural parallel to the [[Acheh Treaty of 1819|Acheh reservation]] embedded in the [[Anglo-Dutch Treaty of London 1824|London treaty of 1824]], and devotes a substantial appendix (Bijlage 12, noot c) of his monograph to a letter from [[D. P. Faure]] to Colonial Secretary [[Joseph Chamberlain]] dated [[28 May 1899]].
+The **Transvaal** — formally the **South African Republic** (Dutch: *Zuid-Afrikaansche Republiek*, abbreviated *Z.-A. R.*) — was the Boer republic established north of the Vaal River, which in the early [[1880s]] became the centre of a celebrated dispute over British suzerainty. Van der Kemp treats the Transvaal question as a structural parallel to the [[Acheh Treaty of 1819|Acheh reservation]] embedded in the [[Anglo-Dutch Treaty of 1824|London treaty of 1824]], and devotes a substantial appendix (Bijlage 12, noot c) of his monograph to a letter from [[D. P. Faure]] to Colonial Secretary [[Joseph Chamberlain]] dated [[28 May 1899]].
 
 The suzerainty dispute, Van der Kemp explains, turned on the question "whether the suzerainty of Great Britain over the Z.-A. R. still exists, or whether it has been abolished by the London Convention" of [[1884]] (p. 214). The point is presented as directly analogous to the Dutch controversy over Sumatran supremacy: in both cases a clause originally inserted at the last moment — in the Acheh case to satisfy a British qualm about an existing treaty, in the Transvaal case to placate the parliamentary opposition — had subsequently been pressed into service as a substantive title of sovereignty. "The whole question about the denial of our Sumatra-supremacy, because it was not expressly stated, because the Acheh reservation, presented as innocent, was taken up, has been treated in exactly the same way in the famous question of England's suzerainty over the Transvaal" (p. 214).
 
@@ -27,7 +27,7 @@ The episode confirmed, in Van der Kemp's eyes, a recurring pattern of colonial n
 - [[Sir Evelyn Ashley]]
 - [[Lord Shaftesbury]]
 - [[Mansion House]]
-- [[Anglo-Dutch Treaty of London 1824]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London 1824]]
 
 ## Source
 

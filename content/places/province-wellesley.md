@@ -24,7 +24,7 @@ The [[Mandi Safar]] or "bathing of Safar" — the popular Malay festival of ritu
 
 Although Province Wellesley is not mentioned by name in Van der Kemp's monograph, it is the necessary geographical complement of [[Penang]] in any account of the British establishment on the [[Malay Peninsula]]. The [[Penang]] government, which figures prominently in Van der Kemp's narrative as the immediate conductor of British relations with [[Acheh]], exercised jurisdiction over both the island and the opposite mainland strip. When Van der Kemp discusses the Pinang administration's interventions in Achehnese affairs — its despatch of [[Captain Phillips|Captain Phillips]], its correspondence with the [[Sultan Jauhar Alum|Sultan of Acheh]], its reception of [[Tunku Pakih|Tunku Pakih]] — the political actor in question is the government of Prince of Wales Island together with Province Wellesley.
 
-Province Wellesley's importance in this period lay chiefly in its supplying Penang with food, fresh water, and timber, and in its commanding the mainland side of the harbour. It was also the base from which British influence could be projected into the adjacent Malay states of Kedah and Perak — a fact of which [[Sir Thomas Stamford Raffles|Raffles]] and his successors were keenly aware. In Van der Kemp's framing, Penang (with Province Wellesley) together with the other "Straits" — Malacca and Singapore — constituted the British strategic triangle whose protection justified the diplomatic effort devoted to the [[Acheh Treaty of 1819|Acheh treaty]] and the [[Anglo-Dutch Treaty of London 1824|London treaty of 1824]].
+Province Wellesley's importance in this period lay chiefly in its supplying Penang with food, fresh water, and timber, and in its commanding the mainland side of the harbour. It was also the base from which British influence could be projected into the adjacent Malay states of Kedah and Perak — a fact of which [[Sir Thomas Stamford Raffles|Raffles]] and his successors were keenly aware. In Van der Kemp's framing, Penang (with Province Wellesley) together with the other "Straits" — Malacca and Singapore — constituted the British strategic triangle whose protection justified the diplomatic effort devoted to the [[Acheh Treaty of 1819|Acheh treaty]] and the [[Anglo-Dutch Treaty of 1824|London treaty of 1824]].
 
 
 ## See Also
@@ -39,7 +39,7 @@ Province Wellesley's importance in this period lay chiefly in its supplying Pena
 - [[Mukim]]
 - [[Malacca]]
 - [[Singapore]]
-- [[Anglo-Dutch Treaty of London 1824]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London 1824]]
 - [[Sir Thomas Stamford Raffles]]
 
 ## Source

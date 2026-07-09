@@ -8,7 +8,7 @@ tags: [place, island, ambonese, recruitment]
 
 ## The recruitment island
 
-"In Ambon en de [[Minahassa]] was dit volkomen anders. Daar was het militaire beroep in hoog aanzien en het dienstnemen volkomen normaal, zelfs een eervolle daad." In Ambon and the Minahassa, the military profession was in high esteem and joining up was completely normal, even an honourable deed. Ambon was therefore one of the two principal recruitment islands of the colonial army's indigenous soldaten — the place where the *[[negorij]]* took pride in its soldiers, and where the *[[Militaire Willemsorde (M.W.O.)|M.W.O.]]* Ridder was the pride of his community.
+"In Ambon en de [[Minahassa]] was dit volkomen anders. Daar was het militaire beroep in hoog aanzien en het dienstnemen volkomen normaal, zelfs een eervolle daad." In Ambon and the Minahassa, the military profession was in high esteem and joining up was completely normal, even an honourable deed. Ambon was therefore one of the two principal recruitment islands of the colonial army's indigenous soldaten — the place where the *[[negorij]]* took pride in its soldiers, and where the *[[Militaire Willemsorde|M.W.O.]]* Ridder was the pride of his community.
 
 ## The verlof and the negorij
 

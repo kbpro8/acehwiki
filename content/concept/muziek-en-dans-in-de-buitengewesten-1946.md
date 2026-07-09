@@ -53,7 +53,7 @@ The **[[Gayo Lands]]** are explicitly mentioned as sharing the *sedati* and *ber
 The monograph also covers the musical and dance traditions of:
 - **[[Batak Lands]]** (Toba and Karo) — including *hasapi* lute, tuned drum ensembles (*tataganing*, *gondang*), *sibaso* dance, *cooden* mask dance
 - **[[Nias]]** — including *lagija* lute, *doli-doli* xylophone, *koko* bamboo zither, gongs (*gong*, *faritia*, *saraina*), war dances, *maloeaja* (rei-dansen)
-- **[[Minangkabau]]** — *pentjak* (silat dance), *tari piring* (plate dance)
+- **[[Menangkabau|Minangkabau]]** — *pentjak* (silat dance), *tari piring* (plate dance)
 - **[[South Sumatra]]** and **[[Central Sumatra]]** — *gadis* dances, *dakoet/dikoet* (pigeon whistle flute)
 - **[[Riau-Lingga Archipelago]]** — *orok-orok* (fish rattle)
 

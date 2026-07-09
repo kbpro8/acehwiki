@@ -11,7 +11,7 @@ The building’s strategic position made it a focal point for both sides; its ca
 The Mesigit episode illustrated the difficulties of sustaining an amphibious foothold in Aceh’s rugged interior and highlighted the importance of coordinated naval gunfire and infantry assaults.
 
 ## See Also
-- [[Kraton (Aceh)]]
+- [[Kraton Atjeh|Kraton (Aceh)]]
 - [[Captain-terr zee Binkes]]
 - [[Sergeant Rood]]
 - [[Aceh War (1873–1904)]]

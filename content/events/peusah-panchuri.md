@@ -14,7 +14,7 @@ The formula by which the slain thief is declared **buffalo-flesh** sets the slay
 
 ## See Also
 
-- [[Sarakata with chab sikureu'eng]]
+- [[Sarakata|Sarakata with chab sikureu'eng]]
 - [[Adat meulangga (meidangga)]]
 - [[XXVI Mukims]]
 - [[XXV Mukims]]

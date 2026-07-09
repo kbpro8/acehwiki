@@ -3,7 +3,7 @@ title: 1907–1908 Aceh resistance
 aliases: [Acehnese resistance 1907–1908, opflikkering van het verzet, Atjehsch verzet 1907 1908]
 tags: [event, resistance, colonial, achehnese]
 ---
-**The 1907–1908 Aceh resistance** was the "vrij hevige opflikkering van het verzet" — fairly fierce flare-up of resistance — that erupted in [[Gouvernement Atjeh en Onderhoorigheden|Atjeh en Onderhoorigheden]] in [[1907]] and [[1908]] under the governorship of [[G. C. E. van Daalen|G. C. E. van Daalen]], the last organised spasm of armed defiance in the [[Aceh War|Atjeh-krijg]] before the pacificatory policy of his successor [[H. N. A. Swart|H. N. A. Swart]] drew the Acehnese elites into the colonial order. The Encyclopaedisch Bureau attributes the flare-up to two specific causes: van Daalen's "al te hard doorgevoerde represaille-maatregelen" — overly harshly executed reprisal measures — and the "scherpe besnoeiing der adat-inkomsten" — sharp curtailment of the customary revenues — to which the contemporary administration subjected the native chiefs.
+**The 1907–1908 Aceh resistance** was the "vrij hevige opflikkering van het verzet" — fairly fierce flare-up of resistance — that erupted in [[Gouvernement Atjeh en Onderhoorigheden|Atjeh en Onderhoorigheden]] in [[1907]] and [[1908]] under the governorship of [[Gotfried Coenraad Ernst van Daalen|Gotfried Coenraad Ernst van Daalen]], the last organised spasm of armed defiance in the [[Aceh War|Atjeh-krijg]] before the pacificatory policy of his successor [[H. N. A. Swart|H. N. A. Swart]] drew the Acehnese elites into the colonial order. The Encyclopaedisch Bureau attributes the flare-up to two specific causes: van Daalen's "al te hard doorgevoerde represaille-maatregelen" — overly harshly executed reprisal measures — and the "scherpe besnoeiing der adat-inkomsten" — sharp curtailment of the customary revenues — to which the contemporary administration subjected the native chiefs.
 
 ## Causes
 
@@ -24,7 +24,7 @@ The 1907–1908 resistance was the last major convulsion of the Atjeh-krijg. Its
 ## See Also
 
 - [[Aceh War]]
-- [[G. C. E. van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[H. N. A. Swart]]
 - [[Joannes Benedictus van Heutsz]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]

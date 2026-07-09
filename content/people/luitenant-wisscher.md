@@ -12,7 +12,7 @@ According to the *Journaal van Van Braam*, Wisscher leapt from the launch ahead 
 Wisscher continued to serve in the Dutch East Indies until he succumbed to a severe illness that struck the fleet in [[Malakka]] in [[1784]], dying shortly before the squadron’s departure for the Netherlands.
 
 ## See Also
-- [[Van Braam (commander)]]
+- [[Jacob Pieter van Braam|Van Braam (commander)]]
 - [[Majoor Hamell]]
 - [[Salangore]]
 - [[Malakka]]

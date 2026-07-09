@@ -3,7 +3,7 @@ title: Akbar
 aliases: ["Jahangir? (no)", "Akbar the Great"]
 tags: [person, ruler, mughal, 16th‑century, indian]
 ---
-**Akbar** (1542–1605) was the third Mughal emperor of India, whose reign extended influence into [[Afghanistan]] and [[North India]]. According to the source, his policies contributed to the spread of Islamic literary works, including the *[[Kasida al-Lamiyya fil-tawwidd]]*, which by the 16th century had reached the Acehnese world.
+**Akbar** (1542–1605) was the third Mughal emperor of India, whose reign extended influence into [[Afghanistan]] and [[North India]]. According to the source, his policies contributed to the spread of Islamic literary works, including the *[[Bad' al-Amali|Kasida al-Lamiyya fil-tawwidd]]*, which by the 16th century had reached the Acehnese world.
 
 ## Cultural Impact
 
@@ -13,7 +13,7 @@ The text notes that the creed poem enjoyed popularity in the Mughal‑ruled regi
 
 - [[Afghanistan]]
 - [[North India]]
-- [[Kasida al-Lamiyya fil-tawwidd]]
+- [[Bad' al-Amali|Kasida al-Lamiyya fil-tawwidd]]
 - [[Aceh]]
 
 ## Source

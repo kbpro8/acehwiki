@@ -38,11 +38,11 @@ The war-hero General Van Swieten, in a missive of [[8 February]] [[1874]] to som
 
 ### The Snouck Hurgronje judgement
 
-[[Snouck Hurgronje|Dr Snouck Hurgronje]] called this house of God — intended as a proof of our reconciling disposition and generosity towards the Acehnese enemy — "one of the many expensive mistakes that marked the beginning of our Aceh interference," and this eminent scholar qualified the mosque as "an empty monument of our folly." The Snouck Hurgronje judgement — an empty monument of our folly — is the book's — and the colonial state's — sharpest critique of the Van Swieten rebuilding. One should, however, consider that one then lived in the raw reality of the war years.
+[[C. Snouck Hurgronje|Dr Snouck Hurgronje]] called this house of God — intended as a proof of our reconciling disposition and generosity towards the Acehnese enemy — "one of the many expensive mistakes that marked the beginning of our Aceh interference," and this eminent scholar qualified the mosque as "an empty monument of our folly." The Snouck Hurgronje judgement — an empty monument of our folly — is the book's — and the colonial state's — sharpest critique of the Van Swieten rebuilding. One should, however, consider that one then lived in the raw reality of the war years.
 
 ### The laying of the first stone and transfer
 
-The first stone of the mosque was laid on [[9 October]] [[1879]] in the presence of Governor-General [[Van Lansberge|Van Lansberge]], all the civil and military authorities, and many Acehnese chiefs and clergy. The mosque was completed in [[1881]] and on [[27 December]] [[1881]] was solemnly transferred to the Acehnese people by the governor of Aceh and Dependencies, [[Pruys van der Hoeven|Pruys van der Hoeven]], in the name of the Dutch government.
+The first stone of the mosque was laid on [[9 October]] [[1879]] in the presence of Governor-General [[Johan Willem van Lansberge|Johan Willem van Lansberge]], all the civil and military authorities, and many Acehnese chiefs and clergy. The mosque was completed in [[1881]] and on [[27 December]] [[1881]] was solemnly transferred to the Acehnese people by the governor of Aceh and Dependencies, [[A. Pruys van der Hoeven|A. Pruys van der Hoeven]], in the name of the Dutch government.
 
 ### The B.O.W. and the Acehnese indifference
 
@@ -60,7 +60,7 @@ The Meusigit Raja is significant in *[[Oost-Indisch Journael]]* as the set-piece
 
 The **Meuseugit Raya** — literally the "great mosque" — is the principal mosque of the Achehnese capital, [[Banda Acheh]]. In *The Achehnese* Vol. I it is described as the religious centre of the city, and the gampongs around it — about twenty-four in number, on either side of the [[Acheh River]] — were administered by the hereditary **[[Panglima Meuseugit Raya]]** as an appurtenance of the mosque.
 
-The office of Panglima Meuseugit Raya was hereditary, and thus soon came to be distinguished from an ordinary uleebalangship only through the name and proximity of the [[Dalam (Sultan's Court)|Dalam]]. Its holder's efforts at the acquisition of a territory which would make him an uleebalang in the full sense of the word were crowned with success at a favourable moment, and he wrested from the weak Panglima Meuseugit Raya the half of his territory, twelve gampongs on the right bank of the Acheh river. The two rival houses afterwards divided the district between them, and when a dispute arose as to the succession to the throne the Panglima Meuseugit Raya and the [[Kali Malikon Ade|Teuku Kali Malikon Ade]] usually espoused opposite sides. The continued existence of this special territory of the sultans, which quickly dwindled in the hands of the uleebalangs, is one of the institutional peculiarities of the capital district.
+The office of Panglima Meuseugit Raya was hereditary, and thus soon came to be distinguished from an ordinary uleebalangship only through the name and proximity of the [[Dalam (Sultan's Court)|Dalam]]. Its holder's efforts at the acquisition of a territory which would make him an uleebalang in the full sense of the word were crowned with success at a favourable moment, and he wrested from the weak Panglima Meuseugit Raya the half of his territory, twelve gampongs on the right bank of the Acheh river. The two rival houses afterwards divided the district between them, and when a dispute arose as to the succession to the throne the Panglima Meuseugit Raya and the [[Teuku Kali Malikon Ade|Teuku Kali Malikon Ade]] usually espoused opposite sides. The continued existence of this special territory of the sultans, which quickly dwindled in the hands of the uleebalangs, is one of the institutional peculiarities of the capital district.
 
 The Meuseugit Raya of the capital must be distinguished from the *meuseugit raya* — "great mosques" — which are also found in the sagis and dependencies of Acheh. These were mosques enjoying the reputation of having been erected by [[Sultan Meukuta Alam|Meukuta Alam]] ([[1607]]–[[1636]]). The *meuseugit raya* of the [[XXII Mukims]] is that of [[Indrapuri]]; that of [[Indrapeurua]] (in the [[VI Mukims of the XXV]]) for the [[XXV Mukims]]; and that of [[Indrapatra]], almost in the very place where Ladong now stands, for the [[XXVI Mukims]]. Of the last two scarcely any trace remains. In [[Pidie]] too there were a number of mosques which enjoyed the reputation of having been erected by Meukuta Alam and which were thus also called *meuseugit raya*. It is impossible now to trace the extent of the supervision over the various districts of Acheh that was exercised by the sultans through these great mosques, but the institution itself was clearly of centralising design, even if the supervision was of very short duration.
 
@@ -85,16 +85,16 @@ After the loss of the Dalam and the death of [[Sultan Mahmut Shah]], the politic
 - [[Sultan Iskandar Muda]]
 - [[Habib Abdurrahman]]
 - [[generaal Van Swieten]]
-- [[Van Lansberge]]
-- [[Pruys van der Hoeven]]
-- [[Snouck Hurgronje]]
+- [[Johan Willem van Lansberge|Van Lansberge]]
+- [[A. Pruys van der Hoeven|Pruys van der Hoeven]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [[VI Mukims of the XXV]]
 - [[Panglima Meuseugit Raya]]
 - [[XXII Mukims]]
 - [[XXVI Mukims]]
 - [[Pidie]]
 - [[Dalam (Sultan's Court)]]
-- [[Kali Malikon Ade]]
+- [[Teuku Kali Malikon Ade|Kali Malikon Ade]]
 - [[Tuanku Muhamat Dawot]]
 - [[Keumala]]
 - [[Indrapuri]]

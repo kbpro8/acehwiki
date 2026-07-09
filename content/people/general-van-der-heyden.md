@@ -5,7 +5,7 @@ tags: [person, colonial-official, dutch, military, general, colonial, governor, 
 description: H. K. van der Heyden (1826-1900), born in Batavia, was the Dutch Governor of Atjeh from 1878 whose successful administration established sufficient peace to allow the introduction of regular colonial government in the territory. Known as "Eenoog" (One-Eye) after losing an eye at Samalanga in 1877.
 ---
 
-**General van der Heyden** (also spelled **van der Heijden**; full name **H. K. van der Heyden**, [[1826]]–[[1900]]) — a Dutch colonial official born in [[Batavia]] — served as Governor of [[Acheh]] from [[1877]] to [[1881]], a period that proved decisive in turning the course of the [[Acheh War|Achehnese War]] in favour of the Dutch. His governorship marked the moment at which the Netherlands India Government finally abandoned its long-held illusion that a purely defensive posture — based on the holding of a few strong positions such as the former Sultan's residence at [[Kuta Raja]] and the chief harbours of the dependencies — would suffice to bring the country under control. He is also notable as the predecessor whose partial success paved the way for the more thorough subjugation of Atjeh under [[Governor Van Heutsz]] two decades later.
+**General van der Heyden** (also spelled **van der Heijden**; full name **H. K. van der Heyden**, [[1826]]–[[1900]]) — a Dutch colonial official born in [[Batavia]] — served as Governor of [[Acheh]] from [[1877]] to [[1881]], a period that proved decisive in turning the course of the [[Acheh War|Achehnese War]] in favour of the Dutch. His governorship marked the moment at which the Netherlands India Government finally abandoned its long-held illusion that a purely defensive posture — based on the holding of a few strong positions such as the former Sultan's residence at [[Kuta Raja]] and the chief harbours of the dependencies — would suffice to bring the country under control. He is also notable as the predecessor whose partial success paved the way for the more thorough subjugation of Atjeh under [[Joannes Benedictus van Heutsz|Governor Van Heutsz]] two decades later.
 
 ## Commandant of the Zuidoosterlinie, [[1876]]
 
@@ -17,7 +17,7 @@ When [[A. J. E. Diemont|General Diemont]] departed for Batavia on [[30 June]] [[
 
 Snouck Hurgronje singles out van der Heyden's administration as the period in which the Dutch learnt, by hard experience, the lesson that had long eluded them: that a defensive policy in no way advanced Dutch dominion in [[Great-Acheh]], whereas a vigorous offensive could "make the enemy come to his senses." Under his direction the Dutch forces began the systematic conquest of the interior of Great-Acheh, breaking the military stalemate that had prevailed since the disastrous [[First and Second Dutch Expeditions to Acheh|first Dutch expeditions]] of [[1873]]–[[1874]].
 
-The change of method associated with his name is treated by Snouck Hurgronje as one of the decisive breaks in the long conflict. Although later governors — above all [[Governor Van Heutsz|Van Heutsz]], in cooperation with the civil and military reforms inspired by [[C. Snouck Hurgronje|Snouck Hurgronje]] himself — would carry the offensive much further, the precedent established under van der Heyden demonstrated that the [[Achehnese War]] could only be brought to a conclusion by active operations against the countless chiefs, religious leaders, and military adventurers who disputed Dutch authority in the interior.
+The change of method associated with his name is treated by Snouck Hurgronje as one of the decisive breaks in the long conflict. Although later governors — above all [[Joannes Benedictus van Heutsz|Van Heutsz]], in cooperation with the civil and military reforms inspired by [[C. Snouck Hurgronje|Snouck Hurgronje]] himself — would carry the offensive much further, the precedent established under van der Heyden demonstrated that the [[Achehnese War]] could only be brought to a conclusion by active operations against the countless chiefs, religious leaders, and military adventurers who disputed Dutch authority in the interior.
 
 His governorship belongs to the period between the [[Establishment of the Dutch 'linie' (pale)|establishment of the Dutch 'linie' (pale)]] around the capital and the later, more systematic subjugation of the [[Three Sagis (XXVI, XXV, XXII Mukims)|Three Sagis]] under Van Heutsz. It thus occupies a transitional place in the [[Acheh War|Achehnese War]]: the moment at which the policy of "concentration" gave way to one of progressive conquest.
 
@@ -29,9 +29,9 @@ By Indies decree of [[15 January]] [[1878]] Van der Heyden was appointed governo
 
 The increasing aggressiveness of [[Habib Abdoerrahman|Habib Abdurrahman]] in the spring of [[1878]] led the government to instruct Van der Heyden to make an end of the unfavourable situation and to drive Habib Abdurrahman and his bands out. Reinforced, he was able to act vigorously. On [[23 July]] [[1878]] the important campaign in the [[XXII Moekims|XXII Moekims]] began with three columns. On [[28 July]] the [[Capture of Montassik (28 July 1878)|missigit Montassik was taken]]. Operations continued from [[1 August]] [[1878]] to [[23 March]] [[1879]], with constant reconnaissances and punishments of hostile kampongs, especially in the sawah of Lamkrak and in the [[XXVI Moekims|XXVI Moekims]] near Lampermej. On [[13 October]] [[1878]] [[Submission of Habib Abdurrahman (13 October 1878)|Habib Abdurrahman came in submission]] at Kota Radja, where the governor received him at once and accepted his submission.
 
-In his cabinet letter of [[21 March]] [[1879]] the Governor-General [[J. W. van Lansberge|Van Lansberge]] wrote to Van der Heyden: "One thing must be held by you in the first place before your eyes. The war must now come to an end, whether the expected submission is obtained, or such punishment is inflicted on the enemy that no doubt exists as to our overlordship and his defeat, and we can withdraw our fighting force within the limits to be designated for our definitive establishment."
+In his cabinet letter of [[21 March]] [[1879]] the Governor-General [[Johan Willem van Lansberge|Van Lansberge]] wrote to Van der Heyden: "One thing must be held by you in the first place before your eyes. The war must now come to an end, whether the expected submission is obtained, or such punishment is inflicted on the enemy that no doubt exists as to our overlordship and his defeat, and we can withdraw our fighting force within the limits to be designated for our definitive establishment."
 
-The campaign against the XXII Moekims began on [[23 March]] [[1879]]; on [[24 March]] [[1879]] the [[Capture of Indrapuri (24 March 1879)|missigit of Indrapuri was taken]]; the campaign continued with heavy fighting at [[Djerreek|Djerreek]], [[Redep|Redep]], [[Panteh Karang|Panteh Karang]] in May, and the [[Capture of Gleiêng (9 July 1879)|capture of Gleiêng]] on [[9 July]] [[1879]], the fortified chief place of [[Panglima Polim|Panglima Polim]].
+The campaign against the XXII Moekims began on [[23 March]] [[1879]]; on [[24 March]] [[1879]] the [[Capture of Indrapuri (24 March 1879)|missigit of Indrapuri was taken]]; the campaign continued with heavy fighting at [[Djerreek|Djerreek]], [[Redep|Redep]], [[Panteh Karang|Panteh Karang]] in May, and the [[Capture of Gleiêng (9 July 1879)|capture of Gleiêng]] on [[9 July]] [[1879]], the fortified chief place of [[Panglima Polem|Panglima Polem]].
 
 ## The Submission of the XXVI Moekims, July [[1879]]
 
@@ -39,7 +39,7 @@ On [[1 July]] [[1879]] the columns marched from various points into the [[XXVI M
 
 ## The Selimoen Expedition, August [[1879]]
 
-A last expedition was deemed necessary to pursue the departed enemy in his furthest hiding-places. A column was embarked for [[Lampanas|Lampanas]] on the north coast east of [[Kroëng Raja|Kroëng Rajah]] and [[Batoe Poetih|Batoe Poetih]], and thence advanced to [[Lamtobah|Lamtobah]], where the Imam offered submission. On [[13 August]] [[1879]] the columns of [[Indrapoeri|Indrapuri]] and Lamtobah set out for [[Selimoen|Selimoen]]. [[Toekoe Moeda Daoed|Toekoe Moeda Daoed]] and other chiefs now submitted; those who, like [[Panglima Polim|Panglima Polim]] and the [[Imam of Longbatta|Imam Longbatta]], refused to give up the fight, fled to the upper lands of [[Pedir|Pedir]]. "Everywhere the population showed a peaceful disposition; in all kampongs, even on the commanding hills, white flags were planted; the troops, accompanied by the chiefs who had come in submission, were awaited in the kampongs by men, women and children, and provided with refreshments; all enemy bentings were abandoned." With the tocht naar Selimoen, large-scale operations in Great Acheh came to an end; on [[5 September]] the active columns were dissolved.
+A last expedition was deemed necessary to pursue the departed enemy in his furthest hiding-places. A column was embarked for [[Lampanas|Lampanas]] on the north coast east of [[Kroëng Raja|Kroëng Rajah]] and [[Batoe Poetih|Batoe Poetih]], and thence advanced to [[Lamtobah|Lamtobah]], where the Imam offered submission. On [[13 August]] [[1879]] the columns of [[Indrapoeri|Indrapuri]] and Lamtobah set out for [[Selimoen|Selimoen]]. [[Toekoe Moeda Daoed|Toekoe Moeda Daoed]] and other chiefs now submitted; those who, like [[Panglima Polem|Panglima Polem]] and the [[Imam of Longbatta|Imam Longbatta]], refused to give up the fight, fled to the upper lands of [[Pedir|Pedir]]. "Everywhere the population showed a peaceful disposition; in all kampongs, even on the commanding hills, white flags were planted; the troops, accompanied by the chiefs who had come in submission, were awaited in the kampongs by men, women and children, and provided with refreshments; all enemy bentings were abandoned." With the tocht naar Selimoen, large-scale operations in Great Acheh came to an end; on [[5 September]] the active columns were dissolved.
 
 ## The Batoe Iliq Expedition, July [[1880]]
 
@@ -47,7 +47,7 @@ When on [[30 June]] [[1880]] part of the garrison of [[Samalanga|Samalanga]] was
 
 ## The Hikajat Prang Kompeuni on Van der Heyden
 
-The Acehnese themselves, in the [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]] — whose contents were communicated by [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]] — gave their judgement of Van der Heyden:
+The Acehnese themselves, in the [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]] — whose contents were communicated by [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]] — gave their judgement of Van der Heyden:
 
 > "But when the XXVI Moekims were conquered, and shortly afterwards the one-eyed general made victorious campaigns even through the XXII Moekims, to the astonishment of the hitherto boasting Highlanders, then the Imam of Longbattah sheathed his sword and withdrew from public life. Now broke a three-year period of rest, in which the one-eyed general consolidated his conquests. The Radja Moeda, Toekoe Nja Moekamat, strained every effort to bring the chief place and Oleh-leh to prosperity, and succeeded so well, that the population fled from their villages in streams not to be stemmed to the chief place, and fraternised with the kafirs. One lived as in continual festivity, drove profitable trade, and the war-leaders could find no people to follow them. All went to bring homage to the one-eyed king... When the one-eyed king was gone, the rest ended."
 
@@ -57,7 +57,7 @@ And the epos ends: "As the Kompani now (1891) goes to work, she will never get A
 
 For the definitive regulation of the administration in Atjeh, Van der Heyden was placed in commission with [[A. Pruys van der Hoeven|A. Pruys van der Hoeven]], last resident of [[Palembang]], as government commissioners. They were charged, in joint consultation, "to arrange and propose everything necessary to arrive at an adequate organisation of the gewest Atjeh en Onderhoorigheden, in connection with the political situation and the relation of the various Onderhoorigheden to our administration." [[A. Pruys van der Hoeven|Pruys van der Hoeven]] arrived in Atjeh on [[21 February]] [[1880]]. On [[10 July]] the commissioners declared their task ended.
 
-By the Governor-General's decision, the civil and military commands were separated; the Lieutenant-general Van der Heyden was honourably discharged from his functions. [[A. Pruys van der Hoeven|Pruys van der Hoeven]] was appointed civil governor and [[J. F. Haus|Colonel J. F. Haus]] took the military command. Both assumed their functions on [[6 April]] [[1881]]. The discharge to Van der Heyden — "which set many pens in motion, and also gave rise to discussions in the [[Staten-Generaal|States-General]]" — was one of the last administrative acts of [[J. W. van Lansberge|Governor-General Van Lansberge]].
+By the Governor-General's decision, the civil and military commands were separated; the Lieutenant-general Van der Heyden was honourably discharged from his functions. [[A. Pruys van der Hoeven|Pruys van der Hoeven]] was appointed civil governor and [[J. F. Haus|Colonel J. F. Haus]] took the military command. Both assumed their functions on [[6 April]] [[1881]]. The discharge to Van der Heyden — "which set many pens in motion, and also gave rise to discussions in the [[Staten-Generaal|States-General]]" — was one of the last administrative acts of [[Johan Willem van Lansberge|Governor-General Van Lansberge]].
 
 ## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — "the one-eyed general"
 
@@ -67,7 +67,7 @@ Dr. [[Johan Wøller]], recalling the course of the [[Aceh War]] from his posting
 
 **General Van der Heyden** was a Dutch military officer who played a significant role in the **[[Aceh War]]** during the [[1870s]] and [[1880s]]. Known as "Eenoog" (One-Eye) after losing an eye in battle, he was a controversial figure whose aggressive strategies were ultimately overruled by colonial authorities. He was one of the first Dutch officers to argue that the war could not be won through defensive tactics. He advocated for the pacification of the interior regions, arguing that only the complete subjugation of the highlands could bring lasting peace.
 
-His strategy was partially implemented from [[1874]] to [[1882]], during which time Dutch forces made significant gains. However, his campaigns were expensive, and colonial authorities were reluctant to fund further operations. In [[1882]], Van der Heyden was replaced by a commander who favored a more cautious approach. Van der Heyden's vision of pacification was abandoned, and the Dutch reverted to the defensive **[[Geconcentreerde Linie]]** strategy. His judgment has been vindicated by subsequent events: when **[[J. B. van Heutsz]]** adopted an offensive strategy in [[1898]], he essentially implemented Van der Heyden's earlier recommendations. The delay in adopting this approach cost many lives and prolonged the war.
+His strategy was partially implemented from [[1874]] to [[1882]], during which time Dutch forces made significant gains. However, his campaigns were expensive, and colonial authorities were reluctant to fund further operations. In [[1882]], Van der Heyden was replaced by a commander who favored a more cautious approach. Van der Heyden's vision of pacification was abandoned, and the Dutch reverted to the defensive **[[Geconcentreerde Linie]]** strategy. His judgment has been vindicated by subsequent events: when **[[Joannes Benedictus van Heutsz|J. B. van Heutsz]]** adopted an offensive strategy in [[1898]], he essentially implemented Van der Heyden's earlier recommendations. The delay in adopting this approach cost many lives and prolonged the war.
 
 ## Account from *Nederlandsch Indië Platen Atlas* ([[1926]]) — Van der Heyden
 
@@ -75,32 +75,32 @@ The *Nederlandsch Indië Platen Atlas* includes Van der Heyden in its portrait g
 
 ## Significance
 
-Van der Heyden's governorship marks an important transitional phase in the [[Aceh War]]. The conflict, which had begun with the first Dutch expedition in [[1873]], had settled into a protracted stalemate. Van der Heyden's achievement was not the complete military subjugation of Atjeh — that would fall to his successor [[Governor Van Heutsz|J. B. van Heutsz]] — but rather the establishment of sufficient stability in the controlled areas to permit the introduction of structured colonial governance. The introduction of a *geregeld bestuur* (regular administration) in [[1879]] represented the first institutionalisation of Dutch civil authority in the territory, replacing what had been primarily a military occupation.
+Van der Heyden's governorship marks an important transitional phase in the [[Aceh War]]. The conflict, which had begun with the first Dutch expedition in [[1873]], had settled into a protracted stalemate. Van der Heyden's achievement was not the complete military subjugation of Atjeh — that would fall to his successor [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] — but rather the establishment of sufficient stability in the controlled areas to permit the introduction of structured colonial governance. The introduction of a *geregeld bestuur* (regular administration) in [[1879]] represented the first institutionalisation of Dutch civil authority in the territory, replacing what had been primarily a military occupation.
 
-His portrait appears in the atlas alongside those of [[Governor Van Heutsz]] and [[C. Snouck Hurgronje]], the three figures who, between them, represent the military, administrative, and scholarly dimensions of the Dutch engagement with Atjeh.
+His portrait appears in the atlas alongside those of [[Joannes Benedictus van Heutsz|Governor Van Heutsz]] and [[C. Snouck Hurgronje]], the three figures who, between them, represent the military, administrative, and scholarly dimensions of the Dutch engagement with Atjeh.
 
 ## See Also
 
 - [[A. J. E. Diemont]]
 - [[G. B. T. Wiggers van Kerchem]]
 - [[Habib Abdoerrahman]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Toekoe Moeda Daoed]]
 - [[A. Pruys van der Hoeven]]
 - [[J. F. Haus]]
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[Aceh War]]
 - [[Expedition to Samalanga (August 1877)]]
 - [[Campaign against the XXII Moekims (1879)]]
 - [[Campaign against the XXVI Moekims (July 1879)]]
 - [[Selimoen Expedition (August 1879)]]
 - [[Batoe Iliq Expedition (July 1880)]]
-- [[Hikajat prang Kompeuni]]
+- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
 - [[Johan Wøller]]
 - [[Kotta Loemper]]
 - [[Groot-Atjeh]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[C. Snouck Hurgronje]]
 - [[Great Acheh]]
 - [[Kuta Raja]]

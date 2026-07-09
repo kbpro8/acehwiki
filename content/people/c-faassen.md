@@ -13,7 +13,7 @@ Faassenâ€™s leadership during the riverine operation earned him a formal thankâ€
 
 - [[Koning der Nederlanden (ship)]]
 - [[Koerier (ship)]]
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Tamiang (river)]]
 
 ## Source

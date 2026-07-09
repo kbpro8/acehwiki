@@ -4,7 +4,7 @@ aliases: [Veiligstellen van het vaandel van het Korps Maréchaussee, Onvlee vaan
 tags: [event, colonial, dutch, atjeh, world-war-ii, marechaussee, prisoner-of-war, regimentalia, japanese-occupation]
 ---
 
-**The safeguarding of the vaandel of the Korps Maréchaussee** — the four-year concealment of the *vaandel* of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussee van Atjeh en Onderhorigen]] (with its associated [[Militaire Willemsorde (M.W.O.)|Militaire Willemsorde]] and gold and silver *versierselen*) by Lt [[L. C. G. F. Onvlee|L. C. G. F. Onvlee]] through Japanese captivity in Atjeh, [[Birma|Birma]], [[Bangkok|Bangkok]] and onward from [[1 December]] [[1 December 1941|1 December 1941]] until the Japanese capitulation of [[15 August]] [[15 August 1945|15 August 1945]] — is the closing *Bijzondere verrichting* of the [[Nederlands-Indië contra Japan|Dutch staff history's]] Atjeh chapter (Deel VI, Hoofdstuk V), and the staff history's exemplary narrative of regimental loyalty sustained through four years of Japanese imprisonment.
+**The safeguarding of the vaandel of the Korps Maréchaussee** — the four-year concealment of the *vaandel* of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussee van Atjeh en Onderhorigen]] (with its associated [[Militaire Willemsorde|Militaire Willemsorde]] and gold and silver *versierselen*) by Lt [[L. C. G. F. Onvlee|L. C. G. F. Onvlee]] through Japanese captivity in Atjeh, [[Birma|Birma]], [[Bangkok|Bangkok]] and onward from [[1 December]] [[1 December 1941|1 December 1941]] until the Japanese capitulation of [[15 August]] [[15 August 1945|15 August 1945]] — is the closing *Bijzondere verrichting* of the [[Nederlands-Indië contra Japan|Dutch staff history's]] Atjeh chapter (Deel VI, Hoofdstuk V), and the staff history's exemplary narrative of regimental loyalty sustained through four years of Japanese imprisonment.
 
 ## The order of 1 December 1941
 
@@ -42,7 +42,7 @@ The Onvlee episode is, in the staff history's Atjeh chapter, the only sustained 
 - [[L. C. G. F. Onvlee]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[IVde Divisie Marechaussee]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Tangsé]]
 - [[Geumpang]]
 - [[Lam Meulo]]

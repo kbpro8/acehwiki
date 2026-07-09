@@ -16,7 +16,7 @@ During the height of the sultanate’s power, the town’s royal palace (the kra
 
 ## Dutch Colonial Campaigns
 
-The Dutch expeditionary force used Kota Radja as its headquarters during the later phases of the [[Aceh War]] [[1873]]–[[1904]]. After subduing the IX Moekims, Dutch marines guarded prisoners in the town and staged a formal procession on [[7 February]] [[1876]] before the residence of [[General Pel]]. The town’s strategic importance is reflected in its repeated mention in Dutch military reports and maps.
+The Dutch expeditionary force used Kota Radja as its headquarters during the later phases of the [[Aceh War]] [[1873]]–[[1904]]. After subduing the IX Moekims, Dutch marines guarded prisoners in the town and staged a formal procession on [[7 February]] [[1876]] before the residence of [[J. L. J. H. Pel|General Pel]]. The town’s strategic importance is reflected in its repeated mention in Dutch military reports and maps.
 
 ## Colonial Documentation
 
@@ -28,7 +28,7 @@ Kota Radja’s status as the sultanate’s capital makes it a focal point for st
 
 ## See Also
 
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 - [[Atjeh River]]
 - [[Aceh Sultanate]]
 - [[Sultanate of Aceh]]

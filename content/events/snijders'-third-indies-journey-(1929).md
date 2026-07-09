@@ -12,7 +12,7 @@ In the course of [[1929]] certain difficulties had arisen in the exploitation of
 
 ## Acceptance and Voyage
 
-Snijders initially hesitated on grounds of health. His doctor, however, declared that he need not object to the journey provided that some moderation was observed in the participation in festivities. Snijders accepted, and sailed on [[19 September]] [[19 September]] [[1929]] — exactly one year after his departure for the second Indies journey — arriving at [[Tandjong Priok|Tandjong Priok]] on [[12 October]] [[12 October]], as before.
+Snijders initially hesitated on grounds of health. His doctor, however, declared that he need not object to the journey provided that some moderation was observed in the participation in festivities. Snijders accepted, and sailed on [[19 September]] [[19 September]] [[1929]] — exactly one year after his departure for the second Indies journey — arriving at [[Tanjung Priok|Tanjung Priok]] on [[12 October]] [[12 October]], as before.
 
 ## The Negotiations and the West-to-East Java Flight
 
@@ -34,7 +34,7 @@ At [[Semarang|Semarang]] in November Snijders again attended the *jaarfeest* of 
 - [[Surabaya]]
 - [[Semarang]]
 - [[Medan]]
-- [[Tandjong Priok]]
+- [[Tanjung Priok|Tandjong Priok]]
 - [[1929]]
 
 ## Source

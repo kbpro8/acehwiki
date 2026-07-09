@@ -3,7 +3,7 @@ title: Radya Aly
 aliases: [Radya Aly, Radja Aly]
 tags: [person, local-leader, riau, buginese]
 ---
-**Radya Aly** was a Buginese (Boeginees) chieftain who assumed the title of “onderkoning” (under‑king) of [[Riouw]] after the death of his brother‑in‑law [[Radya Hadgè]] in [[1784]]. He opposed the Dutch [[Oost-Indische Compagnie]] and was the target of an ultimatum issued by [[Van Braam (commander)]] on [[28 October]] [[1784]].
+**Radya Aly** was a Buginese (Boeginees) chieftain who assumed the title of “onderkoning” (under‑king) of [[Riouw]] after the death of his brother‑in‑law [[Radya Hadgè]] in [[1784]]. He opposed the Dutch [[Oost-Indische Compagnie]] and was the target of an ultimatum issued by [[Jacob Pieter van Braam|Van Braam (commander)]] on [[28 October]] [[1784]].
 
 ## Rise to Power
 Following the killing of Radya Hadgè, Radya Aly seized control of the Riau throne, proclaiming himself underking. His rule was marked by hostility toward the Dutch, who considered him “Compagnie vijandig gezind” (hostile to the Company).
@@ -15,7 +15,7 @@ Van Braam sent an ultimatum demanding Radya Aly’s surrender; the deadline was 
 After Aly’s escape, a peace treaty was concluded with the young legitimate prince [[Mahmoed]] of Riouw, restoring a pro‑Company ruler.
 
 ## See Also
-- [[Van Braam (commander)]]
+- [[Jacob Pieter van Braam|Van Braam (commander)]]
 - [[Radya Hadgè]]
 - [[Riouw]]
 - [[Mahmoed]]

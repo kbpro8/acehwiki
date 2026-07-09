@@ -24,7 +24,7 @@ The invasion ended 39 years of Dutch rule in Atjèh and installed the [[Masubuch
 - [[Ujong Batëë]]
 - [[Kuala Bughah]]
 - [[Tandjong Tiram]]
-- [[Colonel Gosenson]]
+- [[G. F. V. Gosenson|Colonel Gosenson]]
 - [[Resident J. Pauw]]
 - [[Fujiwara-kikan]]
 - [[Said Aboe Bakar]]

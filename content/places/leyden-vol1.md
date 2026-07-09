@@ -12,7 +12,7 @@ The title page of Vol. I names the publisher as **E. J. Brill, Leyden, 1906** �
 
 ## The Leyden Network of Scholars
 
-Leyden's significance in Vol. I extends beyond mere printing. Many of the scholars cited or thanked by [[C. Snouck Hurgronje|Snouck Hurgronje]] were Leyden men or had Leyden connections. [[Prof. Niemann|Professor G. K. Niemann]], repeatedly invoked for his *Bloemlezing uit Maleische geschriften*, held the Leiden chair of Malay; [[Dr. Brandes]] and [[J. A. Kruyt|J. A. Kruijt]] contributed Leyden-published studies; the ethnographic journal *Internationales Archiv für Ethnographie* (edited by [[I. D. E. Schmeltz|J. D. E. Schmeltz]]) was published at Leyden in [[1888]]. The translator of Vol. I, [[A. S. O'Sullivan|A. W. S. O'Sullivan]], and its indexer, [[R. J. Wilkinson|R. J. Wilkinson]], were not Leyden men, but the work appeared under the Brill imprint which gave it currency among the international community of orientalists.
+Leyden's significance in Vol. I extends beyond mere printing. Many of the scholars cited or thanked by [[C. Snouck Hurgronje|Snouck Hurgronje]] were Leyden men or had Leyden connections. [[G. K. Niemann|Professor G. K. Niemann]], repeatedly invoked for his *Bloemlezing uit Maleische geschriften*, held the Leiden chair of Malay; [[Dr. Brandes]] and [[J. A. Kruyt|J. A. Kruijt]] contributed Leyden-published studies; the ethnographic journal *Internationales Archiv für Ethnographie* (edited by [[I. D. E. Schmeltz|J. D. E. Schmeltz]]) was published at Leyden in [[1888]]. The translator of Vol. I, [[A. S. O'Sullivan|A. W. S. O'Sullivan]], and its indexer, [[R. J. Wilkinson|R. J. Wilkinson]], were not Leyden men, but the work appeared under the Brill imprint which gave it currency among the international community of orientalists.
 
 ## See Also
 
@@ -20,7 +20,7 @@ Leyden's significance in Vol. I extends beyond mere printing. Many of the schola
 - [[C. Snouck Hurgronje]]
 - [[E. J. Brill]]
 - [[R. J. Wilkinson]]
-- [[Prof. Niemann]]
+- [[G. K. Niemann|Prof. Niemann]]
 
 ## Source
 

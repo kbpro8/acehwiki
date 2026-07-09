@@ -7,7 +7,7 @@ tags: [place, foreign, region, malay, malay-state, malay-peninsula, british-indi
 
 ## The Word Mukim in Kedah and Acheh
 
-Snouck Hurgronje, having observed that the Achehnese have distorted the original Arabic meaning of *mukim* (a person who settles or resides) into a territorial designation for a parish-like subdivision, notes that "this word has in Kedah the same modified meaning as in Acheh." The source he cites is [[Newbold|T. J. Newbold]]'s *British Settlements in the Straits of Malacca* (II: 20). The further observation, that in Kedah each mukim consisted originally of at least 44 families, is "a clear indication of the original intent of this territorial subdivision" — namely, to provide the requisite congregation of forty adult males for the Friday service, with a margin for absentees.
+Snouck Hurgronje, having observed that the Achehnese have distorted the original Arabic meaning of *mukim* (a person who settles or resides) into a territorial designation for a parish-like subdivision, notes that "this word has in Kedah the same modified meaning as in Acheh." The source he cites is [[T. J. Newbold|T. J. Newbold]]'s *British Settlements in the Straits of Malacca* (II: 20). The further observation, that in Kedah each mukim consisted originally of at least 44 families, is "a clear indication of the original intent of this territorial subdivision" — namely, to provide the requisite congregation of forty adult males for the Friday service, with a margin for absentees.
 
 ## Sawah and Ladang: The Vocabulary of Rice-Fields
 
@@ -63,7 +63,7 @@ Kedah is one of the three principal Tinkwartieren and the place where the Compag
 - [[Penang]]
 - [[Johor]]
 - [[Malacca]]
-- [[Newbold]]
+- [[T. J. Newbold|Newbold]]
 - [[Acheh]]
 - [[Siam]]
 - [[Bengal]]

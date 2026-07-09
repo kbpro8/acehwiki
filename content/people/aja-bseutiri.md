@@ -16,7 +16,7 @@ The fact that the consort of Teungku Anjong was herself the daughter of a sayyid
 ## See Also
 
 - [[Teungku Anjong]]
-- [[Sayyid Teungku Anjong]]
+- [[Teungku Anjong|Sayyid Teungku Anjong]]
 - [[Fatimah bint Abdarrhaman 'Aidid]]
 - [[Kanduri Aja Bseutiri]]
 - [[Kanduri T'eungku Anjong]]
@@ -41,7 +41,7 @@ The fact that the consort of Teungku Anjong was herself the daughter of a sayyid
 ## See Also
 
 - [[Teungku Anjong]]
-- [[Sayyid Teungku Anjong]]
+- [[Teungku Anjong|Sayyid Teungku Anjong]]
 - [[Fatimah bint Abdarrhaman 'Aidid]]
 - [[Kanduri Aja Bseutiri]]
 - [[Kanduri T'eungku Anjong]]

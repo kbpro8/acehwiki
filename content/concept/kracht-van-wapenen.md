@@ -4,7 +4,7 @@ aliases: [force of arms]
 tags: [concept, military, colonial, policy]
 ---
 
-**Kracht van wapenen** (force of arms) is a colonial policy concept explicitly invoked by [[Keuchenius|W. H. J. Keuchenius]] in his [[1905]] letter to describe the necessary and successful method for the [[Submission of Aceh|submission of Aceh]] by [[J. B. van Heutsz]] in [[1896]]. It represents the belief that decisive military force, rather than negotiation or half-measures, was the only effective strategy for establishing full colonial control in Aceh.
+**Kracht van wapenen** (force of arms) is a colonial policy concept explicitly invoked by [[Keuchenius|W. H. J. Keuchenius]] in his [[1905]] letter to describe the necessary and successful method for the [[Submission of Aceh|submission of Aceh]] by [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] in [[1896]]. It represents the belief that decisive military force, rather than negotiation or half-measures, was the only effective strategy for establishing full colonial control in Aceh.
 
 ## Keuchenius's application
 
@@ -17,7 +17,7 @@ The concept is used to valorize the Aceh campaign as a model of colonial governa
 ## See Also
 
 - [[Submission of Aceh]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Keuchenius]]
 - [[Aceh]]
 - [[Atjeh-opstellen]]

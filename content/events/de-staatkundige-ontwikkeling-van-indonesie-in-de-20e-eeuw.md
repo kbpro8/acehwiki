@@ -24,7 +24,7 @@ The work is organised into nine chapters, covering:
 
 The Atjeh-related content of the work is distributed across four of the nine chapters:
 
-1. **The Atjeh-oorlog as 19th-century resistance** (Ch. I). The work places the [[Aceh War|Atjeh-oorlog]] alongside the [[Padri War on Sumatra's East Coast|Padri-oorlog]] ([[1833]]) and the [[Java War|Java-oorlog]] ([[1825]]–[[1830]]) as one of the three great *verzetsacties van grote omvang en lange duur* (resistance actions of great scope and long duration) of the 19th century, but notes that even then there was no question of Indonesian national resistance: "Van enige saamhorigheid tussen de onderscheiden delen van Indonesië was geen sprake" — of any solidarity between the different parts of Indonesia there was no question. Those who by adat and tradition were called to lead the people had, in general, reconciled themselves with the Dutch authority and had become dependent on it for the maintenance of their position.
+1. **The Atjeh-oorlog as 19th-century resistance** (Ch. I). The work places the [[Aceh War|Atjeh-oorlog]] alongside the [[Padri War|Padri-oorlog]] ([[1833]]) and the [[Java War|Java-oorlog]] ([[1825]]–[[1830]]) as one of the three great *verzetsacties van grote omvang en lange duur* (resistance actions of great scope and long duration) of the 19th century, but notes that even then there was no question of Indonesian national resistance: "Van enige saamhorigheid tussen de onderscheiden delen van Indonesië was geen sprake" — of any solidarity between the different parts of Indonesia there was no question. Those who by adat and tradition were called to lead the people had, in general, reconciled themselves with the Dutch authority and had become dependent on it for the maintenance of their position.
 
 2. **Atjeh as a Republican stronghold** (Ch. I). After the two *politionele acties* (police actions) of [[1947]] and [[1948]], the work records, the Netherlands succeeded in pushing the factual power of the Republik Indonesia back to "de moeilijk toegankelijke gebieden van het zuidelijke gedeelte van west- en midden-Java, Atjeh en onherbergzame streken op Sumatra en in zuid-Borneo" — the difficult-to-access areas of the southern part of west- and middle-Java, Atjeh, and inhospitable regions on Sumatra and in south-Borneo. Atjeh is thus recorded as one of the three Republican holdouts that survived the Dutch police actions.
 
@@ -44,7 +44,7 @@ For AcehWiki, *De staatkundige ontwikkeling van Indonesië in de 20e eeuw* is si
 - [[Negara Islam Indonesia]]
 - [[Kartosuwirjo]]
 - [[Teungkoe Moehamad Daoed Beureu-éh]]
-- [[Padri War on Sumatra's East Coast]]
+- [[Padri War|Padri War on Sumatra's East Coast]]
 - [[Java War]]
 - [[Soekarno]]
 - [[Souvereiniteitsoverdracht (27 December 1949)]]

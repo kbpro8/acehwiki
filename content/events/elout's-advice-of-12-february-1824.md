@@ -35,7 +35,7 @@ Elout's advice of 12 February 1824 is, in Van der Kemp's view, one of the most s
 - [[Hendrik Fagel]]
 - [[First draft of 1824 Anglo-Dutch treaty]]
 - [[King's authorization of 13 February 1824]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Raising of the Acheh treaty in London negotiations]]
 - [[Treaty of Pedir (1819)]]
 - [[Fullerton's minute on Acheh (21 March 1825)]]

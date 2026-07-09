@@ -5,11 +5,11 @@ aliases: [Van den Broek]
 tags: [person, dutch-official, scholar]
 ---
 
-**J. A. van den Broek** was a Dutch colonial historian and encyclopaedist whose article on the English in the Malay Archipelago, contributed to the *Encyclopaedie van Nederlandsch-Indië*, is cited twice by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Acheh treaty of 1819|Raffles–Coombs convention]] and the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch treaty of 1824]]. Van den Broek's article is one of the few Dutch-language secondary sources that Van der Kemp credits with substantive insight into the Acheh question.
+**J. A. van den Broek** was a Dutch colonial historian and encyclopaedist whose article on the English in the Malay Archipelago, contributed to the *Encyclopaedie van Nederlandsch-Indië*, is cited twice by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] and the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch treaty of 1824]]. Van den Broek's article is one of the few Dutch-language secondary sources that Van der Kemp credits with substantive insight into the Acheh question.
 
 ## The Encyclopaedia Article
 
-Van den Broek's article — "De Engelschen in den Maleischen Archipel" — appeared in the *Encyclopaedie van Nederlandsch-Indië* and treated, among other things, the political and commercial relations between Great Britain and the Netherlands in the Malay Archipelago during the late eighteenth and early nineteenth centuries. Van der Kemp cites it twice: first for Van den Broek's observation that [[Sir Thomas Stamford Raffles|Raffles]]'s treaty of April 1819 did not in fact restore [[Sultan Jauhar Alum|Sultan Jauhar Alum]] to the throne of Acheh, and second for the proposition that the [[Acheh treaty of 1819|Acheh convention]] of 1819 contained certain provisions said to be "favourable to the general interests of Europeans settled in the Eastern seas."
+Van den Broek's article — "De Engelschen in den Maleischen Archipel" — appeared in the *Encyclopaedie van Nederlandsch-Indië* and treated, among other things, the political and commercial relations between Great Britain and the Netherlands in the Malay Archipelago during the late eighteenth and early nineteenth centuries. Van der Kemp cites it twice: first for Van den Broek's observation that [[Sir Thomas Stamford Raffles|Raffles]]'s treaty of April 1819 did not in fact restore [[Sultan Jauhar Alum|Sultan Jauhar Alum]] to the throne of Acheh, and second for the proposition that the [[Treaty of Pedir (1819)|Acheh convention]] of 1819 contained certain provisions said to be "favourable to the general interests of Europeans settled in the Eastern seas."
 
 ## On Raffles' Treaty and the Restoration of Jauhar Alum
 
@@ -25,11 +25,11 @@ Van der Kemp's two citations of Van den Broek point in opposite directions: the 
 
 ## See Also
 
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Sultan Jauhar Alum]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Captain Coombs]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[P. H. van der Kemp]]
 
 ## Source
@@ -38,11 +38,11 @@ Van der Kemp's two citations of Van den Broek point in opposite directions: the 
 ---
 
 
-**J. A. van den Broek** was a Dutch colonial historian and encyclopaedist whose article on the English in the Malay Archipelago, contributed to the *Encyclopaedie van Nederlandsch-Indië*, is cited twice by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Acheh treaty of 1819|Raffles–Coombs convention]] and the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch treaty of 1824]]. Van den Broek's article is one of the few Dutch-language secondary sources that Van der Kemp credits with substantive insight into the Acheh question.
+**J. A. van den Broek** was a Dutch colonial historian and encyclopaedist whose article on the English in the Malay Archipelago, contributed to the *Encyclopaedie van Nederlandsch-Indië*, is cited twice by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] and the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch treaty of 1824]]. Van den Broek's article is one of the few Dutch-language secondary sources that Van der Kemp credits with substantive insight into the Acheh question.
 
 ## The Encyclopaedia Article
 
-Van den Broek's article — "De Engelschen in den Maleischen Archipel" — appeared in the *Encyclopaedie van Nederlandsch-Indië* and treated, among other things, the political and commercial relations between Great Britain and the Netherlands in the Malay Archipelago during the late eighteenth and early nineteenth centuries. Van der Kemp cites it twice: first for Van den Broek's observation that [[Sir Thomas Stamford Raffles|Raffles]]'s treaty of April 1819 did not in fact restore [[Sultan Jauhar Alum|Sultan Jauhar Alum]] to the throne of Acheh, and second for the proposition that the [[Acheh treaty of 1819|Acheh convention]] of 1819 contained certain provisions said to be "favourable to the general interests of Europeans settled in the Eastern seas."
+Van den Broek's article — "De Engelschen in den Maleischen Archipel" — appeared in the *Encyclopaedie van Nederlandsch-Indië* and treated, among other things, the political and commercial relations between Great Britain and the Netherlands in the Malay Archipelago during the late eighteenth and early nineteenth centuries. Van der Kemp cites it twice: first for Van den Broek's observation that [[Sir Thomas Stamford Raffles|Raffles]]'s treaty of April 1819 did not in fact restore [[Sultan Jauhar Alum|Sultan Jauhar Alum]] to the throne of Acheh, and second for the proposition that the [[Treaty of Pedir (1819)|Acheh convention]] of 1819 contained certain provisions said to be "favourable to the general interests of Europeans settled in the Eastern seas."
 
 ## On Raffles' Treaty and the Restoration of Jauhar Alum
 
@@ -58,11 +58,11 @@ Van der Kemp's two citations of Van den Broek point in opposite directions: the 
 
 ## See Also
 
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Sultan Jauhar Alum]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Captain Coombs]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[P. H. van der Kemp]]
 
 ## Source

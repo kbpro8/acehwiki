@@ -5,7 +5,7 @@ aliases: [al-Insān al-kāmil, al-Insan al-kamil, Insan al-Kamil, The Universal 
 tags: [document, religious-work, sufi-text, arabic-literature, cosmology, wujudiyyah, source-of-tibjan, 14th-century]
 ---
 
-**The *al-Insān al-kāmil*** ("The Universal Man") is a Sufi cosmological treatise in Arabic by [[Abd al-Karim al-Jili|ʿAbd al-Karīm al-Jīlī]] (d. c. 832 H / 1428 C.E.), one of the principal expositions of the metaphysics of the unity of being (*waḥdat al-wujūd*) in the tradition of [[Ibn Arabi|Ibn ʿArabī]]. The work is identified by [[P. Voorhoeve|Voorhoeve]] as the second of the principal sources from which [[Raniri|Nuruddin ar-Raniri]] drew in composing the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]]: Raniri's notice on the Barāhima (*Tibjān* p. 31 r. 4–5) is a literal translation of *al-Insān al-kāmil*, ed. Cairo 1293, II, p. 81 r. 33–82 r. 1.
+**The *al-Insān al-kāmil*** ("The Universal Man") is a Sufi cosmological treatise in Arabic by [[Abd al-Karim al-Jili|ʿAbd al-Karīm al-Jīlī]] (d. c. 832 H / 1428 C.E.), one of the principal expositions of the metaphysics of the unity of being (*waḥdat al-wujūd*) in the tradition of [[Ibn Arabi|Ibn ʿArabī]]. The work is identified by [[P. Voorhoeve|Voorhoeve]] as the second of the principal sources from which [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]] drew in composing the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]]: Raniri's notice on the Barāhima (*Tibjān* p. 31 r. 4–5) is a literal translation of *al-Insān al-kāmil*, ed. Cairo 1293, II, p. 81 r. 33–82 r. 1.
 
 ## Content and character
 
@@ -34,7 +34,7 @@ The *al-Insān al-kāmil* is one of the foundational texts of post-Ibn ʿArabian
 - [[Ibn Arabi]]
 - [[Ma'rifat al-madhahib]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Tibjan fi ma'rifat al-adyan]]
@@ -48,7 +48,7 @@ C. Brockelmann, *Geschichte der arabischen Litteratur* (GAL), II, 418.
 ---
 
 
-**The *al-Insān al-kāmil*** ("The Universal Man") is a Sufi cosmological treatise in Arabic by [[Abd al-Karim al-Jili|ʿAbd al-Karīm al-Jīlī]] (d. c. 832 H / 1428 C.E.), one of the principal expositions of the metaphysics of the unity of being (*waḥdat al-wujūd*) in the tradition of [[Ibn Arabi|Ibn ʿArabī]]. The work is identified by [[P. Voorhoeve|Voorhoeve]] as the second of the principal sources from which [[Raniri|Nuruddin ar-Raniri]] drew in composing the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]]: Raniri's notice on the Barāhima (*Tibjān* p. 31 r. 4–5) is a literal translation of *al-Insān al-kāmil*, ed. Cairo 1293, II, p. 81 r. 33–82 r. 1.
+**The *al-Insān al-kāmil*** ("The Universal Man") is a Sufi cosmological treatise in Arabic by [[Abd al-Karim al-Jili|ʿAbd al-Karīm al-Jīlī]] (d. c. 832 H / 1428 C.E.), one of the principal expositions of the metaphysics of the unity of being (*waḥdat al-wujūd*) in the tradition of [[Ibn Arabi|Ibn ʿArabī]]. The work is identified by [[P. Voorhoeve|Voorhoeve]] as the second of the principal sources from which [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]] drew in composing the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]]: Raniri's notice on the Barāhima (*Tibjān* p. 31 r. 4–5) is a literal translation of *al-Insān al-kāmil*, ed. Cairo 1293, II, p. 81 r. 33–82 r. 1.
 
 ## Content and character
 
@@ -77,7 +77,7 @@ The *al-Insān al-kāmil* is one of the foundational texts of post-Ibn ʿArabian
 - [[Ibn Arabi]]
 - [[Ma'rifat al-madhahib]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Tibjan fi ma'rifat al-adyan]]

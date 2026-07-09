@@ -3,7 +3,7 @@ title: Corentij (region)
 aliases: [Corentij, Corentij area, Corentij district]
 tags: [place, aceh, region, 18th-century]
 ---
-**Corentij (region)** was a coastal district in the northern part of [[Acheh]] that, in the early [[1764]] colonial campaigns in the Dutch colony of Berbice, supplied a contingent of rebel fighters known as the [[Corentij overlopers]]. These rebels, described in the Dutch marine journal as “Corentij overlopers of the Surinamese border detachment,” operated from the dense jungle along the [[Wikkie-kreek]] and launched ambushes against Dutch landing forces. Their involvement links the Acehnese hinterland to the wider Atlantic‑Atlantic conflicts of the mid‑eighteenth century, illustrating how Acehnese resistance networks extended beyond the archipelago.
+**Corentij (region)** was a coastal district in the northern part of [[Acheh]] that, in the early [[1764]] colonial campaigns in the Dutch colony of Berbice, supplied a contingent of rebel fighters known as the [[Corentij overlopers]]. These rebels, described in the Dutch marine journal as “Corentij overlopers of the Surinamese border detachment,” operated from the dense jungle along the [[Wikkie creek|Wikkie-kreek]] and launched ambushes against Dutch landing forces. Their involvement links the Acehnese hinterland to the wider Atlantic‑Atlantic conflicts of the mid‑eighteenth century, illustrating how Acehnese resistance networks extended beyond the archipelago.
 
 ### Geographic context
 Corentij lay in the highlands of [[Acheh]] bordering the Corentij‑area (sometimes rendered “Corentij‑gebied”). The terrain was heavily forested, providing natural cover for guerrilla warfare. Dutch records note that the rebels “lagen langs den oever verscholen in het struikgewas” (lay concealed along the riverbank in the undergrowth).
@@ -15,10 +15,10 @@ During the expedition led by [[Colonel De Salve]] in January [[1764]], the Dutch
 The failure of the Dutch to suppress the Corentij rebels contributed to a prolonged period of instability in the Berbice colony. Dutch authorities eventually reinforced their positions with additional marines, but the Corentij fighters continued to resist, demonstrating the trans‑regional reach of Acehnese anti‑colonial sentiment.
 
 ## See Also
-- [[Atta (Acehnese leader)]]
+- [[Atta (rebel leader)|Atta (Acehnese leader)]]
 - [[Corentij overlopers]]
 - [[Colonel De Salve]]
-- [[Wikkie-kreek]]
+- [[Wikkie creek|Wikkie-kreek]]
 - [[Berbice (colony)]]
 
 ## Source

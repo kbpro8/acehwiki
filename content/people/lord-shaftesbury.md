@@ -15,7 +15,7 @@ The Mansion House demonstration was, in other words, the public face of the oppo
 
 ## Comparative significance in Van der Kemp
 
-Van der Kemp's interest in the Transvaal parallel is thematic. He had earlier argued that the [[Anglo-Dutch Treaty of London (1824)]] was concluded by Dutch plenipotentiaries under similar pressure from the British opposition: [[Lord Castlereagh|Castlereagh]] had warned the Dutch envoy [[Hendrik Fagel|Fagel]] that "we should have to make some sacrifices for the sake of the opposition in England," a phrase that gave rise to a sharp correspondence between Fagel and minister Van Nagell in January 1820. Lord Shaftesbury's Mansion House meeting in 1884 is the South-African counterpart of that earlier opposition; in both cases, Van der Kemp suggests, the negotiators used the supposed weight of domestic public opinion to extract concessions from the other side and to refuse explicit commitments on points they had conceded in private.
+Van der Kemp's interest in the Transvaal parallel is thematic. He had earlier argued that the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]] was concluded by Dutch plenipotentiaries under similar pressure from the British opposition: [[Lord Castlereagh|Castlereagh]] had warned the Dutch envoy [[Hendrik Fagel|Fagel]] that "we should have to make some sacrifices for the sake of the opposition in England," a phrase that gave rise to a sharp correspondence between Fagel and minister Van Nagell in January 1820. Lord Shaftesbury's Mansion House meeting in 1884 is the South-African counterpart of that earlier opposition; in both cases, Van der Kemp suggests, the negotiators used the supposed weight of domestic public opinion to extract concessions from the other side and to refuse explicit commitments on points they had conceded in private.
 
 The Van der Kemp article does not describe Lord Shaftesbury's well-known humanitarian career — his factory reform, lunacy reform, ragged schools, or his support for the Zionist movement — since these are not relevant to the Transvaal question. He appears solely as the chairman of an opposition meeting that influenced the outcome of the [[London Convention on Transvaal (1884)]].
 
@@ -28,7 +28,7 @@ The Van der Kemp article does not describe Lord Shaftesbury's well-known humanit
 - [[Suzerainty question]]
 - [[London Convention on Transvaal (1884)]]
 - [[Faure's letter on Transvaal suzerainty]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Source
 
@@ -46,7 +46,7 @@ The Mansion House demonstration was, in other words, the public face of the oppo
 
 ## Comparative significance in Van der Kemp
 
-Van der Kemp's interest in the Transvaal parallel is thematic. He had earlier argued that the [[Anglo-Dutch Treaty of London (1824)]] was concluded by Dutch plenipotentiaries under similar pressure from the British opposition: [[Lord Castlereagh|Castlereagh]] had warned the Dutch envoy [[Hendrik Fagel|Fagel]] that "we should have to make some sacrifices for the sake of the opposition in England," a phrase that gave rise to a sharp correspondence between Fagel and minister Van Nagell in January 1820. Lord Shaftesbury's Mansion House meeting in 1884 is the South-African counterpart of that earlier opposition; in both cases, Van der Kemp suggests, the negotiators used the supposed weight of domestic public opinion to extract concessions from the other side and to refuse explicit commitments on points they had conceded in private.
+Van der Kemp's interest in the Transvaal parallel is thematic. He had earlier argued that the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]] was concluded by Dutch plenipotentiaries under similar pressure from the British opposition: [[Lord Castlereagh|Castlereagh]] had warned the Dutch envoy [[Hendrik Fagel|Fagel]] that "we should have to make some sacrifices for the sake of the opposition in England," a phrase that gave rise to a sharp correspondence between Fagel and minister Van Nagell in January 1820. Lord Shaftesbury's Mansion House meeting in 1884 is the South-African counterpart of that earlier opposition; in both cases, Van der Kemp suggests, the negotiators used the supposed weight of domestic public opinion to extract concessions from the other side and to refuse explicit commitments on points they had conceded in private.
 
 The Van der Kemp article does not describe Lord Shaftesbury's well-known humanitarian career — his factory reform, lunacy reform, ragged schools, or his support for the Zionist movement — since these are not relevant to the Transvaal question. He appears solely as the chairman of an opposition meeting that influenced the outcome of the [[London Convention on Transvaal (1884)]].
 
@@ -59,7 +59,7 @@ The Van der Kemp article does not describe Lord Shaftesbury's well-known humanit
 - [[Suzerainty question]]
 - [[London Convention on Transvaal (1884)]]
 - [[Faure's letter on Transvaal suzerainty]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Source
 

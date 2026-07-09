@@ -14,7 +14,7 @@ Van Oordt’s brief riverine operation illustrated the logistical difficulties f
 - [[Pedir River]]
 - [[Atjeh Expedition 1873-1876]]
 - [[Groot-Atjch]]
-- [[Captain Sutherland]]
+- [[D. C. W. Sutherland|Captain Sutherland]]
 
 ## Source
 

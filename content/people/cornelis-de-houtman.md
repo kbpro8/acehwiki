@@ -12,7 +12,7 @@ Cornelis de Houtman had led the pioneering "Eerste Schipvaart" of [[1595]]–[[1
 
 ## The De Moucheron expedition of 1598
 
-The South-Netherlander of French descent [[Balthazar de Moucheron|Balthazar de Moucheron]], trusting the experience of the De Houtman brothers, took them into his service on a fleet of two ships, with the English pilot [[John Davis|John Davis]] serving as pilot — and as a spy for the Earl of Essex. Stapel records that "on [[11 March]] [[1598]] Balthasar de Moucheron sent out 2 ships under Cornelis and Frederik de Houtman and [[Guyon Lefort|Guyon Lefort]]" (*Op 11 Maart 1598 zond Balthasar de Moucheron 2 schepen uit onder Cornelis en Frederik de Houtman en Guyon Lefort*). The voyage to the Indies took fifteen months.
+The South-Netherlander of French descent [[Balthasar de Moucheron|Balthasar de Moucheron]], trusting the experience of the De Houtman brothers, took them into his service on a fleet of two ships, with the English pilot [[John Davis|John Davis]] serving as pilot — and as a spy for the Earl of Essex. Stapel records that "on [[11 March]] [[1598]] Balthasar de Moucheron sent out 2 ships under Cornelis and Frederik de Houtman and [[Guyon Lefort|Guyon Lefort]]" (*Op 11 Maart 1598 zond Balthasar de Moucheron 2 schepen uit onder Cornelis en Frederik de Houtman en Guyon Lefort*). The voyage to the Indies took fifteen months.
 
 ## Outward voyage via Madagascar
 
@@ -32,7 +32,7 @@ The ships that escaped Atjeh made for [[Pedir]], where they beat off an Atjehnes
 
 ## Aftermath
 
-The death of Cornelis de Houtman did not end Dutch interest in Atjeh; if anything, it gave the Dutch a personal stake in the sultanate. [[Balthazar de Moucheron|De Moucheron]] suffered heavy losses; [[John Davis|Davis]] turned his spy-material to English advantage. But [[Frederik de Houtman|Frederik de Houtman]]'s captivity became the foundation of European Malay studies, and the [[Maurits van Oranje|Prince Maurits]]-Sultan correspondence of [[1601]]–[[1602]] — for which see [[Atjeh embassy to Prince Maurits at Grave (1602)]] — was in part motivated by the need to obtain his release. By [[1602]] the deed was done: Frederik was free, and an Atjeh embassy had stood in Prince Maurits's military camp at the siege of Grave.
+The death of Cornelis de Houtman did not end Dutch interest in Atjeh; if anything, it gave the Dutch a personal stake in the sultanate. [[Balthasar de Moucheron|De Moucheron]] suffered heavy losses; [[John Davis|Davis]] turned his spy-material to English advantage. But [[Frederik de Houtman|Frederik de Houtman]]'s captivity became the foundation of European Malay studies, and the [[Maurits van Oranje|Prince Maurits]]-Sultan correspondence of [[1601]]–[[1602]] — for which see [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits at Grave (1602)]] — was in part motivated by the need to obtain his release. By [[1602]] the deed was done: Frederik was free, and an Atjeh embassy had stood in Prince Maurits's military camp at the siege of Grave.
 
 ## Account from *De Kleine Oosterling* (1901) — the 1599 visit in the Dutch school reader
 
@@ -46,17 +46,17 @@ Johan van der Woude's biography of Jan Pieterszoon Coen gives a fuller account o
 
 ## Significance
 
-Cornelis de Houtman is significant to [[Acheh|Atjeh]]'s history as the first Dutchman of note to die there — the eldest casualty of the Dutch-Atjeh encounter, and the human cause of the diplomatic and scholarly chain that produced his brother's Malay dictionary and the [[Atjeh embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits]]. His death fixed Atjeh in the Dutch colonial memory as a place of danger, treachery, and — paradoxically — of compulsory apprenticeship. In Stapel's structure of the Dutch-Acehnese narrative, his death is the opening Dutch casualty of a three-century relationship.
+Cornelis de Houtman is significant to [[Acheh|Atjeh]]'s history as the first Dutchman of note to die there — the eldest casualty of the Dutch-Atjeh encounter, and the human cause of the diplomatic and scholarly chain that produced his brother's Malay dictionary and the [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits]]. His death fixed Atjeh in the Dutch colonial memory as a place of danger, treachery, and — paradoxically — of compulsory apprenticeship. In Stapel's structure of the Dutch-Acehnese narrative, his death is the opening Dutch casualty of a three-century relationship.
 
 ## See Also
 
 - [[Frederik de Houtman]]
 - [[First Dutch voyage to Atjeh (1598-1599)]]
 - [[Death of Cornelis de Houtman at Atjeh (1599)]]
-- [[Balthazar de Moucheron]]
+- [[Balthasar de Moucheron|Balthazar de Moucheron]]
 - [[Guyon Lefort]]
 - [[John Davis]]
-- [[Atjeh embassy to Prince Maurits at Grave (1602)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits at Grave (1602)]]
 - [[Sultan Aloeddin of Atjeh]]
 - [[Vereenigde Oost-Indische Compagnie]]
 - [[1598]]

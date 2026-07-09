@@ -9,7 +9,7 @@ tags: [person, achehnese, malay, pirate]
 
 ## Marriage into the house of Deli (1824)
 
-About [[1824]] Akil became engaged to, or married, a daughter of the [[Sultan of Deli]] on [[Sumatra's East Coast]]. The Sultan himself, in a letter dated [[27 August]] [[1824]] to the Governor of [[Penang]] (printed by Van der Kemp as Appendix 6), begged the British for help against the in-pressing [[Padri War on Sumatra's East Coast|Padries]] and at the same time announced: "as to my friend's subject, the son of Syed Hussein, I formerly acquainted Mr. Phillips that I had adopted him as a son". The marriage thus brought Akil into the Deli royal house as the Sultan's son-in-law and adoptive son.
+About [[1824]] Akil became engaged to, or married, a daughter of the [[Sultan of Deli]] on [[Sumatra's East Coast]]. The Sultan himself, in a letter dated [[27 August]] [[1824]] to the Governor of [[Penang]] (printed by Van der Kemp as Appendix 6), begged the British for help against the in-pressing [[Padri War|Padries]] and at the same time announced: "as to my friend's subject, the son of Syed Hussein, I formerly acquainted Mr. Phillips that I had adopted him as a son". The marriage thus brought Akil into the Deli royal house as the Sultan's son-in-law and adoptive son.
 
 ## The "Raja Mooda" of Deli
 
@@ -17,7 +17,7 @@ When his father-in-law died, he was succeeded by his son, "an insignificant boy 
 
 ## Disordering of Deli and complaints (1826-1828)
 
-Once established at Deli, Akil made himself master of the government. In October [[1826]] the [[Sultan Alaeddin Muhammad Shah of Acheh|Sultan of Acheh]] complained in a brusque letter to the Governor of Penang that this was a violation of the [[Acheh treaty of 1819|treaty of 1819]] (article 1 was probably meant), since Deli was a dependency of [[Acheh]] and was now being endangered by a subject of the British government. Anderson again wrote, on [[2 November]] [[1826]], asking Akil to return to Penang "with as little delay as possible", but this was talking to deaf ears. By early [[1828]] the [[Shahbandar of Deli]] was writing to the Governor of Penang begging him to "deliver the land from the robber Said Akil", describing how all the traders' property had been plundered by Akil and how the traders of [[Batu Bara]] had been ruined by him. The Sultan (still the young boy, presumably writing under Akil's dictation) replied that it was all lies and slander; Akil himself wrote that he was doing nobody any harm and was only waiting to collect some 60,000 dollars owed to him before returning to Penang.
+Once established at Deli, Akil made himself master of the government. In October [[1826]] the [[Sultan Alaeddin Muhammad Shah of Acheh|Sultan of Acheh]] complained in a brusque letter to the Governor of Penang that this was a violation of the [[Treaty of Pedir (1819)|treaty of 1819]] (article 1 was probably meant), since Deli was a dependency of [[Acheh]] and was now being endangered by a subject of the British government. Anderson again wrote, on [[2 November]] [[1826]], asking Akil to return to Penang "with as little delay as possible", but this was talking to deaf ears. By early [[1828]] the [[Shahbandar of Deli]] was writing to the Governor of Penang begging him to "deliver the land from the robber Said Akil", describing how all the traders' property had been plundered by Akil and how the traders of [[Batu Bara]] had been ruined by him. The Sultan (still the young boy, presumably writing under Akil's dictation) replied that it was all lies and slander; Akil himself wrote that he was doing nobody any harm and was only waiting to collect some 60,000 dollars owed to him before returning to Penang.
 
 ## Removal by British pressure (1828)
 
@@ -35,7 +35,7 @@ Governor [[Robert Fullerton|Fullerton]] finally wrote on [[27 August]] [[1828]] 
 - [[W. E. Phillips]]
 - [[Said Akil's Deli adventure (1824-1828)]]
 - [[Sultan of Deli's letter to Penang]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 
 ## Source
 
@@ -47,7 +47,7 @@ Governor [[Robert Fullerton|Fullerton]] finally wrote on [[27 August]] [[1828]] 
 
 ## Marriage into the house of Deli (1824)
 
-About [[1824]] Akil became engaged to, or married, a daughter of the [[Sultan of Deli]] on [[Sumatra's East Coast]]. The Sultan himself, in a letter dated [[27 August]] [[1824]] to the Governor of [[Penang]] (printed by Van der Kemp as Appendix 6), begged the British for help against the in-pressing [[Padri War on Sumatra's East Coast|Padries]] and at the same time announced: "as to my friend's subject, the son of Syed Hussein, I formerly acquainted Mr. Phillips that I had adopted him as a son". The marriage thus brought Akil into the Deli royal house as the Sultan's son-in-law and adoptive son.
+About [[1824]] Akil became engaged to, or married, a daughter of the [[Sultan of Deli]] on [[Sumatra's East Coast]]. The Sultan himself, in a letter dated [[27 August]] [[1824]] to the Governor of [[Penang]] (printed by Van der Kemp as Appendix 6), begged the British for help against the in-pressing [[Padri War|Padries]] and at the same time announced: "as to my friend's subject, the son of Syed Hussein, I formerly acquainted Mr. Phillips that I had adopted him as a son". The marriage thus brought Akil into the Deli royal house as the Sultan's son-in-law and adoptive son.
 
 ## The "Raja Mooda" of Deli
 
@@ -55,7 +55,7 @@ When his father-in-law died, he was succeeded by his son, "an insignificant boy 
 
 ## Disordering of Deli and complaints (1826-1828)
 
-Once established at Deli, Akil made himself master of the government. In October [[1826]] the [[Sultan Alaeddin Muhammad Shah of Acheh|Sultan of Acheh]] complained in a brusque letter to the Governor of Penang that this was a violation of the [[Acheh treaty of 1819|treaty of 1819]] (article 1 was probably meant), since Deli was a dependency of [[Acheh]] and was now being endangered by a subject of the British government. Anderson again wrote, on [[2 November]] [[1826]], asking Akil to return to Penang "with as little delay as possible", but this was talking to deaf ears. By early [[1828]] the [[Shahbandar of Deli]] was writing to the Governor of Penang begging him to "deliver the land from the robber Said Akil", describing how all the traders' property had been plundered by Akil and how the traders of [[Batu Bara]] had been ruined by him. The Sultan (still the young boy, presumably writing under Akil's dictation) replied that it was all lies and slander; Akil himself wrote that he was doing nobody any harm and was only waiting to collect some 60,000 dollars owed to him before returning to Penang.
+Once established at Deli, Akil made himself master of the government. In October [[1826]] the [[Sultan Alaeddin Muhammad Shah of Acheh|Sultan of Acheh]] complained in a brusque letter to the Governor of Penang that this was a violation of the [[Treaty of Pedir (1819)|treaty of 1819]] (article 1 was probably meant), since Deli was a dependency of [[Acheh]] and was now being endangered by a subject of the British government. Anderson again wrote, on [[2 November]] [[1826]], asking Akil to return to Penang "with as little delay as possible", but this was talking to deaf ears. By early [[1828]] the [[Shahbandar of Deli]] was writing to the Governor of Penang begging him to "deliver the land from the robber Said Akil", describing how all the traders' property had been plundered by Akil and how the traders of [[Batu Bara]] had been ruined by him. The Sultan (still the young boy, presumably writing under Akil's dictation) replied that it was all lies and slander; Akil himself wrote that he was doing nobody any harm and was only waiting to collect some 60,000 dollars owed to him before returning to Penang.
 
 ## Removal by British pressure (1828)
 
@@ -73,7 +73,7 @@ Governor [[Robert Fullerton|Fullerton]] finally wrote on [[27 August]] [[1828]] 
 - [[W. E. Phillips]]
 - [[Said Akil's Deli adventure (1824-1828)]]
 - [[Sultan of Deli's letter to Penang]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 
 ## Source
 

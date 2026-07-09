@@ -13,7 +13,7 @@ The EIC was chartered by Queen Elizabeth I on [[31 December]] [[1600]] — fifte
 
 ## The first voyage and the Atjeh visit (1601-1603)
 
-The EIC's first voyage, under [[James Lancaster|Sir James Lancaster]], left [[Woolwich|Woolwich]] on [[13 February]] [[1601]] with four ships — *Hector*, *Susan*, *Ascension* and *Red Dragon*. The fleet reached the [[Cape of Good Hope|Cape]] in April [[1601]], the [[Nicobaren|Nicobaren]] later that year, and [[Acheh|Atjeh]] on [[5 June]] [[1602]]. The [[James Lancaster's Atjeh visit (1602)|Atjeh visit]] is the principal English episode of Van der Woude's Atjeh chapter: Lancaster was received with great ceremony by the [[Sultan of Atjeh (1589-1604)|sultan]], praised Queen Elizabeth, exchanged gifts transported by caparisoned elephants, and obtained leave to trade; he found the pepper prices higher than expected and his capital insufficient for a full cargo; he conceived the plan of intercepting the annual Portuguese carrack from the [[Koromandel kust|Koromandel coast]]; he was joined by [[Joris Spilbergh|Joris Spilbergh]]'s Dutch fleet; and on [[3 October]] [[1602]] the combined Anglo-Dutch squadron [[Capture of the Portuguese carrack off Atjeh (October 1602)|captured the Portuguese carrack]] in the Strait of Malaka.
+The EIC's first voyage, under [[James Lancaster|Sir James Lancaster]], left [[Woolwich|Woolwich]] on [[13 February]] [[1601]] with four ships — *Hector*, *Susan*, *Ascension* and *Red Dragon*. The fleet reached the [[Cape of Good Hope|Cape]] in April [[1601]], the [[Nicobaren|Nicobaren]] later that year, and [[Acheh|Atjeh]] on [[5 June]] [[1602]]. The [[James Lancaster's Atjeh visit (1602)|Atjeh visit]] is the principal English episode of Van der Woude's Atjeh chapter: Lancaster was received with great ceremony by the [[Sultan of Atjeh (1589-1604)|sultan]], praised Queen Elizabeth, exchanged gifts transported by caparisoned elephants, and obtained leave to trade; he found the pepper prices higher than expected and his capital insufficient for a full cargo; he conceived the plan of intercepting the annual Portuguese carrack from the [[Koromandel kust|Koromandel coast]]; he was joined by [[Joris van Spilbergen|Joris van Spilbergen]]'s Dutch fleet; and on [[3 October]] [[1602]] the combined Anglo-Dutch squadron [[Capture of the Portuguese carrack off Atjeh (October 1602)|captured the Portuguese carrack]] in the Strait of Malaka.
 
 ## The Anglo-Dutch partnership and its dissolution
 
@@ -28,7 +28,7 @@ The English East India Company is, in Van der Woude's narrative, the principal E
 - [[James Lancaster]]
 - [[James Lancaster's Atjeh visit (1602)]]
 - [[Capture of the Portuguese carrack off Atjeh (October 1602)]]
-- [[Joris Spilbergh]]
+- [[Joris van Spilbergen|Joris Spilbergh]]
 - [[Joris Spilbergh's Atjeh visit (1602)]]
 - [[John Davis]]
 - [[Sultan of Atjeh (1589-1604)]]
@@ -57,7 +57,7 @@ The EIC was chartered by Queen Elizabeth I on [[31 December]] [[1600]] — fifte
 
 ## The first voyage and the Atjeh visit (1601-1603)
 
-The EIC's first voyage, under [[James Lancaster|Sir James Lancaster]], left [[Woolwich|Woolwich]] on [[13 February]] [[1601]] with four ships — *Hector*, *Susan*, *Ascension* and *Red Dragon*. The fleet reached the [[Cape of Good Hope|Cape]] in April [[1601]], the [[Nicobaren|Nicobaren]] later that year, and [[Acheh|Atjeh]] on [[5 June]] [[1602]]. The [[James Lancaster's Atjeh visit (1602)|Atjeh visit]] is the principal English episode of Van der Woude's Atjeh chapter: Lancaster was received with great ceremony by the [[Sultan of Atjeh (1589-1604)|sultan]], praised Queen Elizabeth, exchanged gifts transported by caparisoned elephants, and obtained leave to trade; he found the pepper prices higher than expected and his capital insufficient for a full cargo; he conceived the plan of intercepting the annual Portuguese carrack from the [[Koromandel kust|Koromandel coast]]; he was joined by [[Joris Spilbergh|Joris Spilbergh]]'s Dutch fleet; and on [[3 October]] [[1602]] the combined Anglo-Dutch squadron [[Capture of the Portuguese carrack off Atjeh (October 1602)|captured the Portuguese carrack]] in the Strait of Malaka.
+The EIC's first voyage, under [[James Lancaster|Sir James Lancaster]], left [[Woolwich|Woolwich]] on [[13 February]] [[1601]] with four ships — *Hector*, *Susan*, *Ascension* and *Red Dragon*. The fleet reached the [[Cape of Good Hope|Cape]] in April [[1601]], the [[Nicobaren|Nicobaren]] later that year, and [[Acheh|Atjeh]] on [[5 June]] [[1602]]. The [[James Lancaster's Atjeh visit (1602)|Atjeh visit]] is the principal English episode of Van der Woude's Atjeh chapter: Lancaster was received with great ceremony by the [[Sultan of Atjeh (1589-1604)|sultan]], praised Queen Elizabeth, exchanged gifts transported by caparisoned elephants, and obtained leave to trade; he found the pepper prices higher than expected and his capital insufficient for a full cargo; he conceived the plan of intercepting the annual Portuguese carrack from the [[Koromandel kust|Koromandel coast]]; he was joined by [[Joris van Spilbergen|Joris van Spilbergen]]'s Dutch fleet; and on [[3 October]] [[1602]] the combined Anglo-Dutch squadron [[Capture of the Portuguese carrack off Atjeh (October 1602)|captured the Portuguese carrack]] in the Strait of Malaka.
 
 ## The Anglo-Dutch partnership and its dissolution
 
@@ -72,7 +72,7 @@ The English East India Company is, in Van der Woude's narrative, the principal E
 - [[James Lancaster]]
 - [[James Lancaster's Atjeh visit (1602)]]
 - [[Capture of the Portuguese carrack off Atjeh (October 1602)]]
-- [[Joris Spilbergh]]
+- [[Joris van Spilbergen|Joris Spilbergh]]
 - [[Joris Spilbergh's Atjeh visit (1602)]]
 - [[John Davis]]
 - [[Sultan of Atjeh (1589-1604)]]

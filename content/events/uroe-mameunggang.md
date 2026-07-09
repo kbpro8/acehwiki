@@ -8,7 +8,7 @@ The **uròe mamèunggang** is the collective Achehnese name for the three non-of
 
 ## The Sianta and the Sultan's market
 
-On the first day of the fair, just before noon, the [[Sianta|Sianta]] took place. This was a proclamation with beat of gong, in the name of the Sultan, that the annual market had begun. Five or six young men of the Sultan's suite (which, as Hurgronje elsewhere notes, "was not recruited from the best class of the people") appeared in the market, where buyers and sellers had already assembled in unusually large numbers. Business was however in full swing in the market before its official inauguration, "for every one knew that the fast was close at hand, and even the exact date of the first day of the Puasa became generally known long before its official announcement." The emissaries of the Sultan now proceeded to beat loudly and repeatedly on a great gong in the midst of the bustling crowd, and in the intervals between the strokes one of their number, who acted as herald, cried aloud: "Twenty-six, twenty-five, twenty-two! Such is the command of our lord (the Sultan): on this day (the cattle is) brought down (from the highlands); tomorrow let the beasts fight; the next day let them be slaughtered." (The people of the three sagis of [[Great Acheh]] — the XXVI, the XXV and the [[XXII Mukims]] — are here addressed, in the same traditional order of precedence observed in the [[Coronation of the Sultan|coronation of a new king]].) The adat permitted these royal messengers to take without payment on this day all that they wished of the victuals, sirih, tobacco etc. displayed on the stalls.
+On the first day of the fair, just before noon, the [[Sianta|Sianta]] took place. This was a proclamation with beat of gong, in the name of the Sultan, that the annual market had begun. Five or six young men of the Sultan's suite (which, as Hurgronje elsewhere notes, "was not recruited from the best class of the people") appeared in the market, where buyers and sellers had already assembled in unusually large numbers. Business was however in full swing in the market before its official inauguration, "for every one knew that the fast was close at hand, and even the exact date of the first day of the Puasa became generally known long before its official announcement." The emissaries of the Sultan now proceeded to beat loudly and repeatedly on a great gong in the midst of the bustling crowd, and in the intervals between the strokes one of their number, who acted as herald, cried aloud: "Twenty-six, twenty-five, twenty-two! Such is the command of our lord (the Sultan): on this day (the cattle is) brought down (from the highlands); tomorrow let the beasts fight; the next day let them be slaughtered." (The people of the three sagis of [[Great Acheh]] — the XXVI, the XXV and the [[XXII Mukims]] — are here addressed, in the same traditional order of precedence observed in the [[Installation of a New Sultan|coronation of a new king]].) The adat permitted these royal messengers to take without payment on this day all that they wished of the victuals, sirih, tobacco etc. displayed on the stalls.
 
 ## The three days
 
@@ -28,7 +28,7 @@ The "day of slaughter", alone of the three, corresponds exactly with its name. O
 - [[Kanduri Bu]]
 - [[Great Acheh]]
 - [[XXII Mukims]]
-- [[Coronation of the Sultan]]
+- [[Installation of a New Sultan|Coronation of the Sultan]]
 
 ## Source
 

@@ -3,16 +3,16 @@ title: Major Diepenheim
 aliases: [Diepenheim, Major Diepenheim]
 tags: [person, military, dutch, colonial]
 ---
-**Major Diepenheim** was a senior officer of the [[Korps Mariniers]] who led the central column of the Dutch forces during the Aceh campaign of [[1875]]–[[1876]]. His column advanced along the foot of the mountains south‑westward, incorporating the [[Ille battalion]], two infantry companies, and an ambulance detachment.
+**Major Diepenheim** was a senior officer of the [[Royal Netherlands Marine Corps|Korps Mariniers]] who led the central column of the Dutch forces during the Aceh campaign of [[1875]]–[[1876]]. His column advanced along the foot of the mountains south‑westward, incorporating the [[Ille battalion]], two infantry companies, and an ambulance detachment.
 
 ### Operations
-Diepenheim’s column moved through the [[Beradin]] pass toward [[Koth]] and then entered the [[Glitaroem]] mountain pass to penetrate the IX Moekims territory. He coordinated with artillery sections and the marine peloton under [[Lieutenant Verhey]].
+Diepenheim’s column moved through the [[Beradin]] pass toward [[Koth]] and then entered the [[Glitaroem]] mountain pass to penetrate the IX Moekims territory. He coordinated with artillery sections and the marine peloton under [[J. B. Verhey|Lieutenant Verhey]].
 
 ### Encounter at Daroe
 On [[28 January]] [[1876]], Diepenheim’s forces engaged the enemy at [[Daroe]], where the terrain was heavily marshy and the enemy retreated from the kampong.
 
 ## See Also
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[Battle of Daroe]]
 - [[Glitaroem]]
 - [[Beradin]]

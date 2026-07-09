@@ -37,7 +37,7 @@ The designation "IV Mukims of the VII of the XXVI" is characteristic of the Ache
 - [[Teungku Tanoh Mirah]]
 - [[XXVI Mukims]]
 - [[VII Mukims Ba'et]]
-- [[Mukims VII]]
+- [[VII Mukims|Mukims VII]]
 - [[Great Acheh]]
 - [[Acheh War]]
 - [[IV Mukims Ateue]]

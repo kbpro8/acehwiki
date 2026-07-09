@@ -24,7 +24,7 @@ The citation of van Muien is typical of Snouck Hurgronje's comparative method: t
 - [[C. Snouck Hurgronje]]
 - [[L. W. C. van den Berg]]
 - [[Walter William Skeat]]
-- [[Meulangga]]
+- [[Adat meulangga|Meulangga]]
 - [[Adat Meukuta Alam]]
 - [[Acheh]]
 
@@ -53,7 +53,7 @@ The citation of van Muien is typical of Snouck Hurgronje's comparative method: t
 - [[C. Snouck Hurgronje]]
 - [[L. W. C. van den Berg]]
 - [[Walter William Skeat]]
-- [[Meulangga]]
+- [[Adat meulangga|Meulangga]]
 - [[Adat Meukuta Alam]]
 - [[Acheh]]
 

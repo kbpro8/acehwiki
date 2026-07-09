@@ -10,7 +10,7 @@ Further details about his role are sparse in the cited volume; the entry therefo
 ## See Also
 - [[Atjeh]]
 - [[1896]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 
 ## Source
 *De Geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, by C. J. O. DORREN, 1948, pp. 115‑117 (page 16 of the OCR source).

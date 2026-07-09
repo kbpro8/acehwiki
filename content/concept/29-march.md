@@ -19,7 +19,7 @@ tags: [concept, date, aceh, colonial, teukoe-oemar]
 - [[Oost-Indisch Journael]]
 - [[Teukoe Oemar]]
 - [[Gilles Graafland]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[1896]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
 

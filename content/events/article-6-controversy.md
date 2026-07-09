@@ -4,15 +4,15 @@ aliases: [Article VI controversy, Article 6 of the Acheh treaty, Article 6 dispu
 tags: [event, treaty, colonial, anglo-dutch, diplomacy, correspondence]
 ---
 
-The **Article 6 controversy** is the long-running dispute, examined at length by [[P. H. van der Kemp|Van der Kemp]] in the central section of his 1900 article, over the meaning and consequences of Article 6 of the [[Acheh treaty of 1819|Acheh treaty of 1819]]. The article, in which the Sultan of [[Acheh|Acheh]] promised "to exclude the subjects of every other European power, and likewise all Americans, from a fixed habitation or residence in his dominions" and to enter into no treaty with any foreign power without British consent, was represented at the [[Anglo-Dutch Treaty of London (1824)|London negotiations of 1824]] as if it granted Britain an exclusive right of trade with Acheh. Van der Kemp argues that this representation was historically inaccurate and probably wilful, and that the misrepresentation had fateful consequences for the whole subsequent history of Dutch claims to supremacy over [[Sumatra|Sumatra]].
+The **Article 6 controversy** is the long-running dispute, examined at length by [[P. H. van der Kemp|Van der Kemp]] in the central section of his 1900 article, over the meaning and consequences of Article 6 of the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]]. The article, in which the Sultan of [[Acheh|Acheh]] promised "to exclude the subjects of every other European power, and likewise all Americans, from a fixed habitation or residence in his dominions" and to enter into no treaty with any foreign power without British consent, was represented at the [[Anglo-Dutch Treaty of 1824|London negotiations of 1824]] as if it granted Britain an exclusive right of trade with Acheh. Van der Kemp argues that this representation was historically inaccurate and probably wilful, and that the misrepresentation had fateful consequences for the whole subsequent history of Dutch claims to supremacy over [[Sumatra|Sumatra]].
 
 ## The Text of Article 6
 
-Article 6 of the [[Acheh treaty of 1819|treaty of 1819]] contained, according to the text reproduced by Van der Kemp, two distinct obligations on the Sultan: first, to exclude the subjects of every other European power, and likewise all Americans, from a fixed habitation or residence in his dominions; second, to enter into no negotiation or treaty with any foreign power, prince, or potentate whatsoever without the knowledge and consent of the British Government. Van der Kemp insists that the article contains *no* exclusive right of trade: it forbids only the *residence* of other Europeans in Acheh, and residence cannot be equated with trade. "It was after all the order of the day," he observes, "that one traded with countries in which no Europeans were established."
+Article 6 of the [[Treaty of Pedir (1819)|treaty of 1819]] contained, according to the text reproduced by Van der Kemp, two distinct obligations on the Sultan: first, to exclude the subjects of every other European power, and likewise all Americans, from a fixed habitation or residence in his dominions; second, to enter into no negotiation or treaty with any foreign power, prince, or potentate whatsoever without the knowledge and consent of the British Government. Van der Kemp insists that the article contains *no* exclusive right of trade: it forbids only the *residence* of other Europeans in Acheh, and residence cannot be equated with trade. "It was after all the order of the day," he observes, "that one traded with countries in which no Europeans were established."
 
 ## The Alleged Conflict with Article 3 of the Treaty of 1824
 
-At the London negotiations of [[1824]] the British plenipotentiaries alleged that the Acheh treaty of 1819 was in conflict with Article 3 of the projected [[Anglo-Dutch Treaty of London (1824)|Treaty of 17 March 1824]], by which the High Contracting Parties promised that no treaty henceforth made by either with any native state in the Eastern seas should contain any article tending, directly or by unequal duties, to exclude the commerce of the other party. On that ground the Acheh treaty was said to require modification. Van der Kemp argues that this contention was doubly mistaken. In the first place Article 6, properly read, contained no exclusive-trade provision at all. In the second place, if any article of the Treaty of 1824 was applicable, it was Article 9 — by which Britain renounced all political relations with the chiefs of Sumatra — rather than Article 3.
+At the London negotiations of [[1824]] the British plenipotentiaries alleged that the Acheh treaty of 1819 was in conflict with Article 3 of the projected [[Anglo-Dutch Treaty of 1824|Treaty of 17 March 1824]], by which the High Contracting Parties promised that no treaty henceforth made by either with any native state in the Eastern seas should contain any article tending, directly or by unequal duties, to exclude the commerce of the other party. On that ground the Acheh treaty was said to require modification. Van der Kemp argues that this contention was doubly mistaken. In the first place Article 6, properly read, contained no exclusive-trade provision at all. In the second place, if any article of the Treaty of 1824 was applicable, it was Article 9 — by which Britain renounced all political relations with the chiefs of Sumatra — rather than Article 3.
 
 ## The Diffusion of the Error
 
@@ -24,8 +24,8 @@ Van der Kemp concedes that the error was not wholly without foundation: Article 
 
 ## See Also
 
-- [[Acheh treaty of 1819]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Raising of the Acheh treaty in London negotiations]]
 - [[Elout's advice of 12 February 1824]]
 - [[Instructions of 31 August 1824]]

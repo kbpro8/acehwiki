@@ -4,7 +4,7 @@ aliases: [Tractaat van 30 Maart 1857, Tractaat met den Sultan van Atjeh 1857, Tr
 tags: [document, treaty, dutch-colonial, diplomacy, colonial]
 ---
 
-**The Treaty of 30 March 1857 with the Sultan of Aceh** (Dutch: *Tractaat van 30 Maart 1857*) was the treaty concluded at [[Acheh|Atjeh]] between the Netherlands-Indian government and the [[Sultan of Aceh|sultan of Atjeh]] by the major-general [[J. van Swieten|Van Swieten]], then governor of [[Sumatra's Westkust|Sumatra's Westkust]], and ratified by the [[Governor-General of the Netherlands India|Governor-General]] on [[9 May]] [[1857]], following the negotiations opened in [[1856]] by the official [[J. F. Nieuwenhuizen|J. F. Nieuwenhuizen]]. The treaty provided for "bestendige vrede, vriendschap en goede verstandhouding" between the two realms, free intercourse for the subjects of either, and the rights of the most-favoured nation. It became a dead letter almost at once, because the sultan lacked the authority to make his subordinate chiefs observe its stipulations.
+**The Treaty of 30 March 1857 with the Sultan of Aceh** (Dutch: *Tractaat van 30 Maart 1857*) was the treaty concluded at [[Acheh|Atjeh]] between the Netherlands-Indian government and the [[Sultan of Aceh|sultan of Atjeh]] by the major-general [[Jan van Swieten|Van Swieten]], then governor of [[Sumatra's Westkust|Sumatra's Westkust]], and ratified by the [[Governor-General of the Netherlands India|Governor-General]] on [[9 May]] [[1857]], following the negotiations opened in [[1856]] by the official [[J. F. Nieuwenhuizen|J. F. Nieuwenhuizen]]. The treaty provided for "bestendige vrede, vriendschap en goede verstandhouding" between the two realms, free intercourse for the subjects of either, and the rights of the most-favoured nation. It became a dead letter almost at once, because the sultan lacked the authority to make his subordinate chiefs observe its stipulations.
 
 ## Background
 
@@ -26,14 +26,14 @@ The close of [[Article 6 of the Treaty of 1857 with Aceh|art. 6]] read: "The one
 
 ## Significance
 
-The tractaat of [[1857]] did not advance matters much. The insecurity in the Acehnese waters remained as great as before, so great indeed that the Governor of the [[Straits Settlements]] in [[July 1870]] issued a proclamation, "declaring that every ship that visited Sumatra's north coast must itself bear the damage thereof, and could count on no protection from his government." Only force could bring adequate improvement, and the use of force was forbidden by the [[Anglo-Dutch Treaty of 1824|tractaat of 1824]]. When in [[1871]] the [[Anglo-Dutch Treaty of 1871|Sumatra-tractaat]] with Britain released the Dutch from the British reservation, the way was open for the [[Aceh War|Atjeh-oorlog]] of [[1873]].
+The tractaat of [[1857]] did not advance matters much. The insecurity in the Acehnese waters remained as great as before, so great indeed that the Governor of the [[Straits Settlements]] in [[July 1870]] issued a proclamation, "declaring that every ship that visited Sumatra's north coast must itself bear the damage thereof, and could count on no protection from his government." Only force could bring adequate improvement, and the use of force was forbidden by the [[Anglo-Dutch Treaty of 1824|tractaat of 1824]]. When in [[1871]] the [[Anglo-Dutch Treaty of 1824|Sumatra-tractaat]] with Britain released the Dutch from the British reservation, the way was open for the [[Aceh War|Atjeh-oorlog]] of [[1873]].
 
 ## See Also
 
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[J. F. Nieuwenhuizen]]
 - [[Anglo-Dutch Treaty of 1824]]
-- [[Anglo-Dutch Treaty of 1871]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1871]]
 - [[Tractaat with Siak of 1858]]
 - [[Article 4 of the Treaty of 1857 with Aceh]]
 - [[Article 6 of the Treaty of 1857 with Aceh]]

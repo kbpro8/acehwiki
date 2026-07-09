@@ -45,7 +45,7 @@ The Dutch intervention against [[Wilson|Wilson]] was the immediate prelude to th
 - [[Acheh]]
 - [[Tamiang]]
 - [[Singapore]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[atjeh-as-opperheer-in-langkat-deli-serdang-(1854)]]
 - [[langkat-appeal-to-siak-against-atjeh-(1862)]]
 - [[dutch-marine-expulsion-of-atjehers-from-langkat-(1866)]]

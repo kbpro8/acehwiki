@@ -34,8 +34,8 @@ The dual presence of Abu Bakr’s name in both the religious literature of the M
 - [[C. Snouck Hurgronje]]
 - [[Letters patent with the ninefold seal to Panglima Meuseugit Raya]]
 - [[Panglima Meuseugit Raya]]
-- [[Sarakata with chab sikureu'eng]]
-- [[Burda]]
+- [[Sarakata|Sarakata with chab sikureu'eng]]
+- [[Burda (poem)|Burda]]
 - [[Malay translation of the Burda]]
 - [[Early Islamic companions]]
 

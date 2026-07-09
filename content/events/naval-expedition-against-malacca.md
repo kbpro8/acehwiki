@@ -10,7 +10,7 @@ Sultan Eseukanda Muda's most celebrated military campaign, an enormous naval exp
 
 - [[Eseukanda Muda]]
 - [[Malacca]]
-- [[Hikayat Malem Dagang]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
 
 ## Source
 

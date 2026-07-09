@@ -15,7 +15,7 @@ The ship carried a **eel‑flotilla** of armed boats that engaged enemy fire whi
 
 ## See Also
 
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Soembawa (ship)]]
 - [[Sindoro (ship)]]
 - [[Tamiang (river)]]

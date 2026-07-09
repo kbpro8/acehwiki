@@ -15,7 +15,7 @@ His approach reflects a nuanced colonial policy that balanced military pressure 
 - [[Governor Van Hoogenheim]]
 - [[Accara]]
 - [[Gouffarie]]
-- [[Wikkie‑kreek]]
+- [[Wikkie creek|Wikkie‑kreek]]
 - [[Dutch East India Company]]
 
 ## Source

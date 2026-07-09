@@ -4,7 +4,7 @@ aliases: [Western Line, Westelijke Linie, Western Line at Kota Radja]
 tags: [concept, fortification, dutch-colonial, aceh-war, military]
 ---
 
-**The Westerlinie** (Dutch for "Western Line") was the western of the four lines of the [[Concentratie-linie|concentratie-linie]] around [[Kota Radja|Kota Radja]] in [[Acheh|Atjeh]], a series of posts west of Kota Radja to connect it with [[Marassa|Marassa]] and [[Lampassei|Lampassei]]. It was established by [[J. L. J. H. Pel|General Pel]] in [[May 1874|May-June 1874]] in response to the enemy's resumption of the struggle after the departure of [[J. van Swieten|Van Swieten]] on [[26 April]] [[26 April]] [[1874]], and was the most important of the four lines because it included [[Oleh-leh|Oleh-leh]], the principal landing-place and port of the Dutch garrison.
+**The Westerlinie** (Dutch for "Western Line") was the western of the four lines of the [[Concentratie-linie|concentratie-linie]] around [[Kota Radja|Kota Radja]] in [[Acheh|Atjeh]], a series of posts west of Kota Radja to connect it with [[Marassa|Marassa]] and [[Lampassei|Lampassei]]. It was established by [[J. L. J. H. Pel|General Pel]] in [[May 1874|May-June 1874]] in response to the enemy's resumption of the struggle after the departure of [[Jan van Swieten|Van Swieten]] on [[26 April]] [[26 April]] [[1874]], and was the most important of the four lines because it included [[Oleh-leh|Oleh-leh]], the principal landing-place and port of the Dutch garrison.
 
 ## Background
 
@@ -30,7 +30,7 @@ For the better preservation of the connection with the Atjeh river and to defeat
 - [[Soerian]]
 - [[Lamara]]
 - [[J. L. J. H. Pel]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[Toekoe Nek Radja Moeda Setia]]
 - [[Aceh War]]
 

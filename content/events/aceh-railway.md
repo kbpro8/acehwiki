@@ -21,7 +21,7 @@ The railways of the Buitengewesten, including that of Atjeh, were contrasted in 
 - [[Gouvernement Atjeh en Onderhoorigheden]]
 - [[Kota Radja]]
 - [[Pacification of Atjeh]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[Buitengewesten]]
 - [[Deli]]
 - [[Sumatra's East Coast]]

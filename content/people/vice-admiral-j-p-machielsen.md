@@ -16,7 +16,7 @@ The navy’s role included blockading the island’s coasts, transporting troops
 ## See Also
 - [[Nederlandsch Indië]]
 - [[1849 Bali Expedition]]
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[General‑Major A. A. V. Michiels]]
 
 ## Source

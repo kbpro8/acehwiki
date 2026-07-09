@@ -15,7 +15,7 @@ While the precise geographic location of [[Mount Idam]] is uncertain, its inclus
 
 ## See Also
 
-- [[Burda]]
+- [[Burda (poem)|Burda]]
 - [[Arabic loanwords in Acehnese Malay]]
 
 ## Source

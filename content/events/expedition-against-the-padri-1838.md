@@ -3,7 +3,7 @@ title: Expedition against the Padri's (1838)
 aliases: [Expedition tegen de Padri's (1838), 1838 Padri expedition]
 tags: [event, military, colonial, sumatra, 1838]
 ---
-**Expedition against the Padri's (1838)** was a Dutch military operation launched in [[1838]] to suppress the *Padri* insurgency on *Sumatra*. The expedition was carried out by elements of the [[Dutch Marine Corps|Korps Mariniers]] together with regular army units.
+**Expedition against the Padri's (1838)** was a Dutch military operation launched in [[1838]] to suppress the *Padri* insurgency on *Sumatra*. The expedition was carried out by elements of the [[Royal Netherlands Marine Corps|Korps Mariniers]] together with regular army units.
 
 ## Composition of the Force  
 According to the *De Geschiedenis van het Nederlandsche Korps Mariniers* (p. 104), the marine contingent was led by **Lieutenant ’s Jacob** and included officers such as **W. A. Lans** and **A. van Vloten**. Their objective was to strike Padri strongholds and restore Dutch authority in the interior.
@@ -18,9 +18,9 @@ The expedition occurred during a period when the [[Aceh]] Sultanate was closely 
 The 1838 operation contributed to the gradual weakening of the Padri resistance, which was finally quelled in the early 1840s. The experience gained by the marine units informed subsequent colonial campaigns, including operations in **Bali** and later in **Aceh**.
 
 ## See Also
-- [[Padri War (Sumatra)]]
+- [[Padri War|Padri War (Sumatra)]]
 - [[Padri movement]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Aceh]]
 - [[Sumatra]]
 

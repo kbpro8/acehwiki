@@ -17,8 +17,8 @@ The removal of the sultan temporarily weakened Aceh’s central authority, allow
 
 - [[Aceh]]
 - [[Ternate]]
-- [[Dutch Marine Corps]]
-- [[Colonel Bischoff]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
+- [[Bischoff|Colonel Bischoff]]
 - [[1824]]
 
 ## Source

@@ -15,7 +15,7 @@ Lucas, in a reply of the same day, acknowledged himself «under great obligation
 
 ## Concurrence in Fullerton's Minute of 21 March 1825
 
-When, in March [[1825]], Governor [[Robert Fullerton|Fullerton]] drafted his [[Fullerton's minute on Acheh (21 March 1825)|minute on Acheh]] in response to the [[Bengal inquiry to Penang (28 January 1825)|Bengal inquiry of 28 January 1825]], Clubley, with [[R. Ibbetson|Ibbetson]], concurred on [[7 April]] [[1825]]. The minute, which is printed as Appendix 10 of Van der Kemp's article, declared the [[Acheh treaty of 1819]] to have been in no respect observed and to have remained «a dead letter», and warned of the dangers to which the [[Anglo-Dutch Treaty of London (1824)]] had exposed British commerce on [[Sumatra's East Coast|Sumatra's East Coast]]. Clubley's name thus stands attached, with those of Fullerton and Ibbetson, to one of the most candid British expositions of the political risks created by the London treaty.
+When, in March [[1825]], Governor [[Robert Fullerton|Fullerton]] drafted his [[Fullerton's minute on Acheh (21 March 1825)|minute on Acheh]] in response to the [[Bengal inquiry to Penang (28 January 1825)|Bengal inquiry of 28 January 1825]], Clubley, with [[R. Ibbetson|Ibbetson]], concurred on [[7 April]] [[1825]]. The minute, which is printed as Appendix 10 of Van der Kemp's article, declared the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] to have been in no respect observed and to have remained «a dead letter», and warned of the dangers to which the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]] had exposed British commerce on [[Sumatra's East Coast|Sumatra's East Coast]]. Clubley's name thus stands attached, with those of Fullerton and Ibbetson, to one of the most candid British expositions of the political risks created by the London treaty.
 
 ## See Also
 
@@ -28,7 +28,7 @@ When, in March [[1825]], Governor [[Robert Fullerton|Fullerton]] drafted his [[F
 - [[Wilhelmina mutiny and murder of Bouwens]]
 - [[Lucas mission to Telok Semawé (February 1821)]]
 - [[Fullerton's minute on Acheh (21 March 1825)]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Dead letter]]
 
 ## Source
@@ -47,7 +47,7 @@ Lucas, in a reply of the same day, acknowledged himself «under great obligation
 
 ## Concurrence in Fullerton's Minute of 21 March 1825
 
-When, in March [[1825]], Governor [[Robert Fullerton|Fullerton]] drafted his [[Fullerton's minute on Acheh (21 March 1825)|minute on Acheh]] in response to the [[Bengal inquiry to Penang (28 January 1825)|Bengal inquiry of 28 January 1825]], Clubley, with [[R. Ibbetson|Ibbetson]], concurred on [[7 April]] [[1825]]. The minute, which is printed as Appendix 10 of Van der Kemp's article, declared the [[Acheh treaty of 1819]] to have been in no respect observed and to have remained «a dead letter», and warned of the dangers to which the [[Anglo-Dutch Treaty of London (1824)]] had exposed British commerce on [[Sumatra's East Coast|Sumatra's East Coast]]. Clubley's name thus stands attached, with those of Fullerton and Ibbetson, to one of the most candid British expositions of the political risks created by the London treaty.
+When, in March [[1825]], Governor [[Robert Fullerton|Fullerton]] drafted his [[Fullerton's minute on Acheh (21 March 1825)|minute on Acheh]] in response to the [[Bengal inquiry to Penang (28 January 1825)|Bengal inquiry of 28 January 1825]], Clubley, with [[R. Ibbetson|Ibbetson]], concurred on [[7 April]] [[1825]]. The minute, which is printed as Appendix 10 of Van der Kemp's article, declared the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] to have been in no respect observed and to have remained «a dead letter», and warned of the dangers to which the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]] had exposed British commerce on [[Sumatra's East Coast|Sumatra's East Coast]]. Clubley's name thus stands attached, with those of Fullerton and Ibbetson, to one of the most candid British expositions of the political risks created by the London treaty.
 
 ## See Also
 
@@ -60,7 +60,7 @@ When, in March [[1825]], Governor [[Robert Fullerton|Fullerton]] drafted his [[F
 - [[Wilhelmina mutiny and murder of Bouwens]]
 - [[Lucas mission to Telok Semawé (February 1821)]]
 - [[Fullerton's minute on Acheh (21 March 1825)]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Dead letter]]
 
 ## Source

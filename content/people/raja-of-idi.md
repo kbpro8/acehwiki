@@ -17,7 +17,7 @@ The Raja of Idi is not further discussed in *The Achehnese*. He belongs, with ma
 
 - [[Teungku di Buket]]
 - [[Idi]]
-- [[Sayyid Abu Bakar bin Husain Bil-Faqih]]
+- [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]]
 - [[Sayyid Abdurrahman Zahir]]
 - [[Acheh]]
 
@@ -39,7 +39,7 @@ The Raja of Idi is not further discussed in *The Achehnese*. He belongs, with ma
 
 - [[Teungku di Buket]]
 - [[Idi]]
-- [[Sayyid Abu Bakar bin Husain Bil-Faqih]]
+- [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]]
 - [[Sayyid Abdurrahman Zahir]]
 - [[Acheh]]
 

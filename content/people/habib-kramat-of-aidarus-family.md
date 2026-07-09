@@ -17,7 +17,7 @@ The case of the Habib kramat of the 'Aidarus family is cited by Snouck Hurgronje
 
 - [[Teungku di Buket]]
 - [[Habib Abdurrahman]]
-- [[Sayyid Abu Bakar bin Husain Bil-Faqih]]
+- [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]]
 - [[Sayyid Abdurrahman Zahir]]
 - [[Idi]]
 - [[Gampong Jawa]]
@@ -42,7 +42,7 @@ The case of the Habib kramat of the 'Aidarus family is cited by Snouck Hurgronje
 
 - [[Teungku di Buket]]
 - [[Habib Abdurrahman]]
-- [[Sayyid Abu Bakar bin Husain Bil-Faqih]]
+- [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]]
 - [[Sayyid Abdurrahman Zahir]]
 - [[Idi]]
 - [[Gampong Jawa]]

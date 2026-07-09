@@ -4,7 +4,7 @@ aliases: [Uma period, Uma-period, Last three years of the concentration time]
 tags: [event, political, war, aceh-war]
 ---
 
-The **"Uma" period** was the name given by [[C. Snouck Hurgronje|Snouck Hurgronje]] to the last three years of the Dutch "[[Concentration Scheme|concentration]]" time in [[Acheh]] — roughly [[1893]] to [[1896]] — during which the adventurer [[Teuku Uma]] was strengthened by Dutch weapons and money and used his position to enrich the Achehnese war-party under the guise of serving the Government. The period began with the [[Submission of Teuku Uma|submission of Teuku Uma]] in [[1893]] and ended with his open [[Defection of Teuku Uma|defection]] in March [[1896]]. It earned, in Hurgronje's words, "an unhappy notoriety" as the nadir of Dutch policy in the [[Achehnese War|war in Acheh]], and its termination was the immediate cause of the resumption of offensive operations and ultimately of [[Van Heutsz's governorship|Van Heutsz's governorship]].
+The **"Uma" period** was the name given by [[C. Snouck Hurgronje|Snouck Hurgronje]] to the last three years of the Dutch "[[Concentration Scheme|concentration]]" time in [[Acheh]] — roughly [[1893]] to [[1896]] — during which the adventurer [[Teuku Uma]] was strengthened by Dutch weapons and money and used his position to enrich the Achehnese war-party under the guise of serving the Government. The period began with the [[Submission of Teuku Uma|submission of Teuku Uma]] in [[1893]] and ended with his open [[Defection of Teuku Uma|defection]] in March [[1896]]. It earned, in Hurgronje's words, "an unhappy notoriety" as the nadir of Dutch policy in the [[Achehnese War|war in Acheh]], and its termination was the immediate cause of the resumption of offensive operations and ultimately of [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]].
 
 ## The adventurer at the height of his influence
 
@@ -20,7 +20,7 @@ Thus assisted, Uma overcame his own enemies in partisan struggles, so that "civi
 
 The arrangement could not last. "As soon as it ceased to be possible for Uma to continue to combine the satisfaction of the wishes of the War-party with the appearance of advancing the interests of the Government, the barrel would burst — and there was not much doubt on which side Uma would elect to be." In March [[1896]], Uma thought the time had come "to remove the scales from the eyes of the blindly-trusting General Deykerhoff." He had then sufficient money and arms to play a leading part among the insurgents, and the burden of the obligations imposed upon him began to be burdensome. His secret opposition to Dutch rule thus changed to open hostility — the event known as the [[Defection of Teuku Uma|defection of Teuku Uma]] — and the "Uma period" came to an end.
 
-Although melancholy in itself, the episode indirectly exercised a healthy influence on the management of Achehnese affairs. "Its termination opened all eyes to the need of vigorous action if one did not wish to abandon altogether the subjugation of Acheh." In [[1896]] the war against the Achehnese, suspended since [[1881]] without any real resultant gain, was resumed, and from [[Van Heutsz's governorship|1898]] onwards "everything has been methodically done to make the necessary end, once and for all, of this insurrection."
+Although melancholy in itself, the episode indirectly exercised a healthy influence on the management of Achehnese affairs. "Its termination opened all eyes to the need of vigorous action if one did not wish to abandon altogether the subjugation of Acheh." In [[1896]] the war against the Achehnese, suspended since [[1881]] without any real resultant gain, was resumed, and from [[Joannes Benedictus van Heutsz|1898]] onwards "everything has been methodically done to make the necessary end, once and for all, of this insurrection."
 
 ## See Also
 
@@ -29,7 +29,7 @@ Although melancholy in itself, the episode indirectly exercised a healthy influe
 - [[Defection of Teuku Uma]]
 - [[Teuku Uma]]
 - [[General Deykerhoff]]
-- [[Van Heutsz's governorship]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz's governorship]]
 - [[Achehnese War]]
 
 ## Source

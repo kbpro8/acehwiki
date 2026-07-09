@@ -4,7 +4,7 @@ aliases: [Ḥall aẓ-ẓill, Hall az-zill, Hall al-zill of Raniri, The Solution
 tags: [document, religious-work, islamic-scholarship, mysticism, precolonial, 17th-century, aceh, malay, rifa'i]
 ---
 
-**The *Ḥall aẓ-ẓill*** ("The Solution of the Shadow") is a Malay Sufi treatise by [[Raniri|Nuruddin ar-Raniri]], composed in [[Acheh]] during the period of Raniri's activity at the court of [[Iskandar Thani|Sultan Iskandar Thani]] and his successor [[Sultan Tajul-alam|Taj al-Ālam]] ([[1637]]–[[1644]]). The work is named in [[P. Voorhoeve|Voorhoeve]]'s introduction to the [[1955]] edition of Raniri's two Malay treatises among the writings in which Raniri's polemical and mystical teaching is set forth; the *Ḥall aẓ-ẓill* cites the [[al-Insan al-Kamil|*al-Insān al-kāmil*]] of [[Abd al-Karim al-Jili|ʿAbd al-Karīm al-Jīlī]] — as does the [[Djawahir al-'ulum|*Jawāhir al-ʿulūm*]] — and names the Indian mystic [[Ahmad al-Mahaimi|ʿAlī b. Aḥmad al-Mahāʾimī]] among "the great mystics."
+**The *Ḥall aẓ-ẓill*** ("The Solution of the Shadow") is a Malay Sufi treatise by [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]], composed in [[Acheh]] during the period of Raniri's activity at the court of [[Iskandar Thani|Sultan Iskandar Thani]] and his successor [[Sultan Tajul-alam|Taj al-Ālam]] ([[1637]]–[[1644]]). The work is named in [[P. Voorhoeve|Voorhoeve]]'s introduction to the [[1955]] edition of Raniri's two Malay treatises among the writings in which Raniri's polemical and mystical teaching is set forth; the *Ḥall aẓ-ẓill* cites the [[al-Insan al-Kamil|*al-Insān al-kāmil*]] of [[Abd al-Karim al-Jili|ʿAbd al-Karīm al-Jīlī]] — as does the [[Djawahir al-'ulum|*Jawāhir al-ʿulūm*]] — and names the Indian mystic [[Ahmad al-Mahaimi|ʿAlī b. Aḥmad al-Mahāʾimī]] among "the great mystics."
 
 ## Content and character
 
@@ -16,7 +16,7 @@ The *Ḥall aẓ-ẓill* is cited in Voorhoeve's apparatus to the [[Tibjan fi ma
 
 ## Significance
 
-The *Ḥall aẓ-ẓill* is one of several treatises in which Raniri developed the orthodox Sufi position set out programmatically in the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]]. It belongs to the same body of Achehnese Malay religious prose as the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]], the [[Sirat al-mustaqim|*Ṣirāṭ al-mustaqīm*]], the [[Djawahir al-'ulum|*Jawāhir al-ʿulūm*]], and the [[Bustan al-Salatin|*Bustān as-Salāṭīn*]] — the literary output of Raniri's Achehnese period, by which the orthodox reaction against the [[Wujudiyyah]] was carried into every department of religious writing.
+The *Ḥall aẓ-ẓill* is one of several treatises in which Raniri developed the orthodox Sufi position set out programmatically in the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]]. It belongs to the same body of Achehnese Malay religious prose as the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]], the [[Sirat al-Mustaqim|*Ṣirāṭ al-mustaqīm*]], the [[Djawahir al-'ulum|*Jawāhir al-ʿulūm*]], and the [[Bustan al-Salatin|*Bustān as-Salāṭīn*]] — the literary output of Raniri's Achehnese period, by which the orthodox reaction against the [[Wujudiyyah]] was carried into every department of religious writing.
 
 ## See Also
 
@@ -29,7 +29,7 @@ The *Ḥall aẓ-ẓill* is one of several treatises in which Raniri developed t
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[Iskandar Thani]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Rifa'iyah order]]
 - [[Sajjid Abu Hafs Umar Ba Sjaiban]]
 - [[Shaikh Shamsuddin of Sumatra]]

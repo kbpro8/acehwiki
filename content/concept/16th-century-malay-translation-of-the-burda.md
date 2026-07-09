@@ -4,7 +4,7 @@ aliases: ["Maleise vertaling van de Burda", "Malay Burda translation", "Kasidatu
 tags: [document, manuscript, religious, malay, islamic, precolonial, translation]
 ---
  
-**16th-century Malay translation of the Burda** is an interlinear Malay rendering of the celebrated Arabic panegyric *Kasidatu'l-Burda* ("Poem of the Mantle") composed by the Egyptian poet [[al-Busiri]] in the [[13th century|13th]] century, preserved in a single manuscript that formed part of the [[Thomas Erpenius|Erpenius]] collection acquired by [[Cambridge University Library]] in [[1632]] and edited with Dutch translation by [[S. G. Evenhage]] in [[1955]]. The manuscript, written in a Malay hand showing North Sumatran features, represents the oldest known Malay version of this universally popular Islamic poem and provides a critical terminus ad quem of circa [[1600]] for the penetration of Arabic literary models into written Malay.
+**16th-century Malay translation of the Burda** is an interlinear Malay rendering of the celebrated Arabic panegyric *Kasidatu'l-Burda* ("Poem of the Mantle") composed by the Egyptian poet [[Al-Busiri|al-Busiri]] in the [[13th century|13th]] century, preserved in a single manuscript that formed part of the [[Thomas Erpenius|Erpenius]] collection acquired by [[Cambridge University Library]] in [[1632]] and edited with Dutch translation by [[S. G. Evenhage]] in [[1955]]. The manuscript, written in a Malay hand showing North Sumatran features, represents the oldest known Malay version of this universally popular Islamic poem and provides a critical terminus ad quem of circa [[1600]] for the penetration of Arabic literary models into written Malay.
  
 ## Provenance and Manuscript History
  
@@ -16,15 +16,15 @@ The codex containing the translation belonged to a small group of old Malay manu
  
 ## Contents and Structure
  
-The edition presents: (I) introduction covering manuscript history, the age of the *Hikajat Muhammad Hanafiah*, the importance of the Burda translation for early Malay Islamic literature, notes on *kasida* form, the legend of Ka'b ibn Zuhayr's *Burda*, the popularity of al-Busiri's poem, and [[Wahhabi]] criticism of it; (II) synopsis of the poem's content; (III) description of the manuscript, orthography, and morphology; (IV) list of Arabic words in the Malay text; (V) the Malay text of the Burda; (VI) Dutch translation of the Malay text; (VII) glossary of important Malay words; (VIII) list of Arabic words in the translation; (IX) appendix with a fragment of a Malay translation of [[al-Ushi]]'s *Bad' al-Amali*. The Malay translation covers the full *Burda* (161 verses in the Ralfs edition) plus one additional distichon (no. 54) not found in the Uri or Von Rosenzweig editions.
+The edition presents: (I) introduction covering manuscript history, the age of the *Hikajat Muhammad Hanafiah*, the importance of the Burda translation for early Malay Islamic literature, notes on *kasida* form, the legend of Ka'b ibn Zuhayr's *Burda*, the popularity of al-Busiri's poem, and [[Wahhabi]] criticism of it; (II) synopsis of the poem's content; (III) description of the manuscript, orthography, and morphology; (IV) list of Arabic words in the Malay text; (V) the Malay text of the Burda; (VI) Dutch translation of the Malay text; (VII) glossary of important Malay words; (VIII) list of Arabic words in the translation; (IX) appendix with a fragment of a Malay translation of [[Siraj al-Din Abu Muhammad Ali ibn Uthman al-Ushi|al-Ushi]]'s *Bad' al-Amali*. The Malay translation covers the full *Burda* (161 verses in the Ralfs edition) plus one additional distichon (no. 54) not found in the Uri or Von Rosenzweig editions.
  
 ## Scholarly Context
  
-The *Burda* (full title *al-Kawākib al-durriyya fī madḥ khayr al-bariyya*, "The Shining Stars in Praise of the Best of Creation") was composed by [[Sharaf al-Dīn Abū ʿAbdallāh Muḥammad ibn Saʿīd al-Būsīrī]] (AH [[608]]–[[694]] / [[1213]]–[[1296]]), born in [[Abusir|Būsīr al-Malak]] in the Egyptian province of [[Bani Suef]], died in [[Alexandria]], buried near [[Imam al-Shafi'i]] in [[Fustat]]. It became the most widely translated and commented Arabic poem in the Islamic world. Prior Malay translations of Arabic works include the *Hikajat Muhammad Hanafiah* (from Persian) and the *Alexander Romance* (based on [[al-Ṭabarī|al-Ṯaʿlabī]]'s Arabic version), the latter possibly extant in pre-[[1511]] [[Malacca]]. The Burda translation's terminus ad quem of ca. [[1600]] makes it a cornerstone for dating the Arabization of Malay literary language.
+The *Burda* (full title *al-Kawākib al-durriyya fī madḥ khayr al-bariyya*, "The Shining Stars in Praise of the Best of Creation") was composed by [[Al-Busiri|Sharaf al-Dīn Abū ʿAbdallāh Muḥammad ibn Saʿīd al-Būsīrī]] (AH [[608]]–[[694]] / [[1213]]–[[1296]]), born in [[Abusir|Būsīr al-Malak]] in the Egyptian province of [[Bani Suef]], died in [[Alexandria]], buried near [[Imam al-Shafi'i]] in [[Fustat]]. It became the most widely translated and commented Arabic poem in the Islamic world. Prior Malay translations of Arabic works include the *Hikajat Muhammad Hanafiah* (from Persian) and the *Alexander Romance* (based on [[al-Ṭabarī|al-Ṯaʿlabī]]'s Arabic version), the latter possibly extant in pre-[[1511]] [[Malacca]]. The Burda translation's terminus ad quem of ca. [[1600]] makes it a cornerstone for dating the Arabization of Malay literary language.
  
 ## See Also
  
-- [[al-Busiri]]
+- [[Al-Busiri|al-Busiri]]
 - [[Kasidatu'l-Burda]]
 - [[Thomas Erpenius]]
 - [[Pieter Willemsz. Floris van Elbingh]]
@@ -35,7 +35,7 @@ The *Burda* (full title *al-Kawākib al-durriyya fī madḥ khayr al-bariyya*, "
 - [[Bataviaas Genootschap van Kunsten en Wetenschappen]]
 - [[Hikajat Muhammad Hanafiah]]
 - [[Alexander Romance (Malay)]]
-- [[al-Ushi]]
+- [[Siraj al-Din Abu Muhammad Ali ibn Uthman al-Ushi|al-Ushi]]
 - [[Bad' al-Amali]]
 - [[Imam al-Shafi'i]]
 - [[Wahhabi criticism of the Burda]]

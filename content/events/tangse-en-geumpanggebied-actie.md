@@ -4,7 +4,7 @@ aliases: [Tangsé and Geumpang Area Action, Tangsé-Geumpang action]
 tags: [event, war, aceh, knil, colonial]
 ---
 
-**The Tangsé and Geumpang Area Action** was one of the great successes of the glorious period of Van Heutsz in the [[Atjeh-oorlog|Aceh War]], the sixth-named of the expeditions and excursions that [[Musket]] lists in *[[Oost-Indisch Journael]]* by Merac ([[1947]]). The Tangsé and Geumpang Area Action was the military action in the Tangsé and Geumpang area of central [[Atjeh|Aceh]] — the area of the [[Tangsé]] and [[Geumpang]] valleys — conducted under [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] as part of the all-out offensive.
+**The Tangsé and Geumpang Area Action** was one of the great successes of the glorious period of Van Heutsz in the [[Atjeh-oorlog|Aceh War]], the sixth-named of the expeditions and excursions that [[Musket]] lists in *[[Oost-Indisch Journael]]* by Merac ([[1947]]). The Tangsé and Geumpang Area Action was the military action in the Tangsé and Geumpang area of central [[Atjeh|Aceh]] — the area of the [[Tangsé]] and [[Geumpang]] valleys — conducted under [[Joannes Benedictus van Heutsz|Van Heutsz]] as part of the all-out offensive.
 
 ## The great successes of the glorious period
 
@@ -22,7 +22,7 @@ The Tangsé and Geumpang Area Action is significant in *[[Oost-Indisch Journael]
 
 - [[Oost-Indisch Journael]]
 - [[Musket]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Tangsé]]
 - [[Geumpang]]
 - [[Pidië-expeditie]]

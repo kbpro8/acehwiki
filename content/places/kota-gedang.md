@@ -29,7 +29,7 @@ The juxtaposition also places the Atjeh silk ikats of plates 65 and 66 — which
 
 ## Geography and people
 
-Kota Gédang lies in the highlands of west-central [[Sumatra|Sumatra]], in the colonial *Gouvernement van Sumatra's Westkust* — the same colonial administrative region as the [[Padangsche Bovenlanden|Padangsche Bovenlanden]]. The town is in the heartland of the [[Minangkabau|Minangkabau]] people, and the pedal-loom of plate 67 is accordingly a Minangkabau craft object. The Minangkabau were, in the late colonial period, one of the most commercially and technologically dynamic of the Sumatran peoples, and the adoption of the pedal-driven loom at Kota Gédang is consistent with the broader Minangkabau pattern of technological modernisation in the late colonial period. The contrast with Atjeh — where the older hand-loom persisted — is, in this sense, a contrast between a more conservative and a more modernising Sumatran weaving tradition.
+Kota Gédang lies in the highlands of west-central [[Sumatra|Sumatra]], in the colonial *Gouvernement van Sumatra's Westkust* — the same colonial administrative region as the [[Padangsche Bovenlanden|Padangsche Bovenlanden]]. The town is in the heartland of the [[Menangkabau|Menangkabau]] people, and the pedal-loom of plate 67 is accordingly a Minangkabau craft object. The Minangkabau were, in the late colonial period, one of the most commercially and technologically dynamic of the Sumatran peoples, and the adoption of the pedal-driven loom at Kota Gédang is consistent with the broader Minangkabau pattern of technological modernisation in the late colonial period. The contrast with Atjeh — where the older hand-loom persisted — is, in this sense, a contrast between a more conservative and a more modernising Sumatran weaving tradition.
 
 ## Significance for Atjeh
 
@@ -46,7 +46,7 @@ For [[Acheh|Atjeh]]'s history, Kota Gédang is significant principally as the Su
 - [[T. J. Bezemer]]
 - [[Padangsche Bovenlanden]]
 - [[Sumatra]]
-- [[Minangkabau]]
+- [[Menangkabau|Minangkabau]]
 - [[Acheh]]
 - [[1933]]
 

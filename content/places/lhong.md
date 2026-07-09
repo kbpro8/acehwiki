@@ -29,7 +29,7 @@ The split at Lam Ara illustrates the essentially ad hoc and territorial, rather 
 - [Westkust (of Atjeh)](/places/westkust-of-atjeh)
 - [Paradijs-dood](/concept/paradijs-dood)
 - [Kapitein Haga](/people/kapitein-haga)
-- [[Hikayat Prang Gompeuni]]
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 - [[Lueng Bata]]
 - [[XXII Mukims]]
 - [[Lam Lheue]]

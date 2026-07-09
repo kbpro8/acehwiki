@@ -3,7 +3,7 @@ title: Atjeh Marineblad (1890–1891)
 aliases: [Atjeh Marineblad 1890‑1891, Dutch Aceh periodical]
 tags: [document, periodical, aceh, colonial, military]
 ---
-**Atjeh Marineblad (1890–1891)** was a two‑year series of official Dutch naval bulletins that reported on the ongoing operations of the [[Korps Mariniers]] and the Royal Netherlands East Indies Army in [[Atjeh (Aceh)]]. The issues contain dispatches, casualty lists, and illustrations of marine uniforms during the later stages of the [[Aceh War]].  
+**Atjeh Marineblad (1890–1891)** was a two‑year series of official Dutch naval bulletins that reported on the ongoing operations of the [[Royal Netherlands Marine Corps|Korps Mariniers]] and the Royal Netherlands East Indies Army in [[Atjeh (Aceh)]]. The issues contain dispatches, casualty lists, and illustrations of marine uniforms during the later stages of the [[Aceh War]].  
 
 ## Publication Details  
 
@@ -17,9 +17,9 @@ tags: [document, periodical, aceh, colonial, military]
 
 ## See Also  
 
-- [[Korps Mariniers]]  
-- [[Atjeh expedition (1873–1876)]]  
-- [[Atjeh campaign (26 December 1875 – 4 September 1876)]]  
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]  
+- [[Aceh Expedition (1873–1876)|Atjeh expedition (1873–1876)]]  
+- [[Aceh Expedition (1873–1876)|Atjeh campaign (26 December 1875 – 4 September 1876)]]  
 
 ## Source  
 

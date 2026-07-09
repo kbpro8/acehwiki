@@ -10,7 +10,7 @@ The Dutch-loyal Acehnese chief of Ulee Lheue, described in the Hikayat Prang Gom
 ## See Also
 
 - [[Ulee Lheue]]
-- [[Hikayat Prang Gompeuni]]
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 - [[Aceh War]]
 
 ## Source
@@ -24,7 +24,7 @@ The Dutch-loyal Acehnese chief of Ulee Lheue, described in the Hikayat Prang Gom
 ## See Also
 
 - [[Ulee Lheue]]
-- [[Hikayat Prang Gompeuni]]
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 - [[Aceh War]]
 
 ## Source

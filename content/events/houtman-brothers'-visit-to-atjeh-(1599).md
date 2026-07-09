@@ -38,7 +38,7 @@ The surviving Dutch ships fled to the nearby port of [[Pedir]] to attempt a resc
 
 ## The aftermath and the 1601 embassy
 
-"Ruim twee jaar later verschenen er twee andere Zeeuwsche vaartuigen op de kust. Er waren voor den sultan van Atjeh fraaie geschenken aan boord en ook een brief van prins Maurits. Nu kwamen de Nederlanders in de gunst bij dien vorst. Hij stelde de gevangenen in vrijheid en gaf verlof, een factorij of handelskantoor in zijn land te bouwen. Tevens wilde hij in beleefdheid voor prins Maurits niet onderdoen en stuurde hem enige gezanten ook met brieven en geschenken." The Houtman brothers' visit of [[1599]] thus initiated a sequence that, within two years, produced the [[Atjeh embassy to Prince Maurits (1601)|Atjeh embassy to Prince Maurits of 1601]] — the first Atjehnese diplomatic mission to the Netherlands.
+"Ruim twee jaar later verschenen er twee andere Zeeuwsche vaartuigen op de kust. Er waren voor den sultan van Atjeh fraaie geschenken aan boord en ook een brief van prins Maurits. Nu kwamen de Nederlanders in de gunst bij dien vorst. Hij stelde de gevangenen in vrijheid en gaf verlof, een factorij of handelskantoor in zijn land te bouwen. Tevens wilde hij in beleefdheid voor prins Maurits niet onderdoen en stuurde hem enige gezanten ook met brieven en geschenken." The Houtman brothers' visit of [[1599]] thus initiated a sequence that, within two years, produced the [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits of 1601]] — the first Atjehnese diplomatic mission to the Netherlands.
 
 ## Significance
 
@@ -49,7 +49,7 @@ The Houtman brothers' visit of [[1599]] is, in the [[De Kleine Oosterling|school
 - [[De Kleine Oosterling]]
 - [[Cornelis Houtman]]
 - [[Frederik Houtman]]
-- [[Atjeh embassy to Prince Maurits (1601)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits (1601)]]
 - [[Prince Maurits]]
 - [[Atjeh]]
 - [[Netherlands East Indies]]

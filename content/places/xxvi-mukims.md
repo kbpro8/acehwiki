@@ -12,11 +12,11 @@ By the late seventeenth century, as Van der Kemp notes, "stond het sultanaat ond
 
 ## Position in 1819
 
-In March [[1819]], when [[Sir Thomas Stamford Raffles]] and [[Captain Coombs]] anchored at [[Banda Acheh]], no sultan was in residence: [[Sultan Jauhar Alum]] had withdrawn to [[Pedir]], and [[Sultan Saif ul-Alum]] (Syf) had fled to [[Telok Semawé]]. The Three Sagis, in name — in practice the [[XXII Mukims]] under [[Panglima Polim]] — held the capital. The XXVI Mukims took part in this federation but is not singled out for individual action in Van der Kemp's narrative; for its internal organisation we depend on later scholarship, particularly [[Snouck Hurgronje|Dr. C. Snouck Hurgronje]]'s *De Atjehers* (1893), to which Van der Kemp refers his readers.
+In March [[1819]], when [[Sir Thomas Stamford Raffles]] and [[Captain Coombs]] anchored at [[Banda Acheh]], no sultan was in residence: [[Sultan Jauhar Alum]] had withdrawn to [[Pedir]], and [[Sultan Saif ul-Alum]] (Syf) had fled to [[Telok Semawé]]. The Three Sagis, in name — in practice the [[XXII Mukims]] under [[Panglima Polem|Panglima Polim]] — held the capital. The XXVI Mukims took part in this federation but is not singled out for individual action in Van der Kemp's narrative; for its internal organisation we depend on later scholarship, particularly [[C. Snouck Hurgronje|Dr. C. Snouck Hurgronje]]'s *De Atjehers* (1893), to which Van der Kemp refers his readers.
 
 ## After 1819
 
-After Jauhar Alum's death in December [[1823]] the Three Sagis, together with the [[Queen-Mother of Acheh|Queen-Mother]], exercised what authority remained at the capital; [[Robert Fullerton|Fullerton]]'s minute of [[21 March]] [[1825]] noted that "the whole power at Acheen was in the hands of Panglima Polim and at the subordinate ports the respective chiefs had established their independence". The [[Acheh treaty of 1819]] was by then acknowledged to have been a "dead letter", and the federation of the Three Sagis, including the XXVI Mukims, continued to be the effective authority at the capital.
+After Jauhar Alum's death in December [[1823]] the Three Sagis, together with the [[Queen-Mother of Acheh|Queen-Mother]], exercised what authority remained at the capital; [[Robert Fullerton|Fullerton]]'s minute of [[21 March]] [[1825]] noted that "the whole power at Acheen was in the hands of Panglima Polim and at the subordinate ports the respective chiefs had established their independence". The [[Treaty of Pedir (1819)|Acheh treaty of 1819]] was by then acknowledged to have been a "dead letter", and the federation of the Three Sagis, including the XXVI Mukims, continued to be the effective authority at the capital.
 
 ## Account from *Boon, Van Lansberge* (1943) — XXVI Mukims
 
@@ -25,7 +25,7 @@ The **XXVI Mukims** was a region in [[Aceh]] that was a major center of resistan
 ## Strategic Significance
 
 The XXVI Mukims region was important for several reasons:
-- It was a stronghold of resistance, particularly under the leadership of [[Panglima Polim]] and other chiefs.
+- It was a stronghold of resistance, particularly under the leadership of [[Panglima Polem|Panglima Polim]] and other chiefs.
 - It was the refuge of many Acehnese leaders who had fled from other regions.
 - It was the source of raids and attacks on Dutch-controlled territory.
 
@@ -47,7 +47,7 @@ The Dutch planned further operations in [[1880]]:
 ## Resistance
 
 The XXVI Mukims remained a center of resistance:
-- Chief [[Panglima Polim]] remained active in the region.
+- Chief [[Panglima Polem|Panglima Polim]] remained active in the region.
 - [[Teukoe Paya]] and other leaders continued to resist.
 - The region served as a source of support for other resistance movements.
 
@@ -63,9 +63,9 @@ The XXVI Mukims was the last major region of Aceh to be pacified. Its resistance
 - [[Three Sagis]]
 - [[XXII Mukims]]
 - [[XXV Mukims]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Three Sagis' letter to Penang (4 December 1822)]]
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [[Aceh War]]
 - [[K. van der Heijden]]
 - [[Kemala]]

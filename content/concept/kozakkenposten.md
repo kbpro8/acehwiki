@@ -4,7 +4,7 @@ aliases: [Kozakkenposten, Kozakken-posten, Cossack Posts]
 tags: [concept, fortification, dutch-colonial, aceh-war, military]
 ---
 
-**Kozakkenposten** (Dutch for "Cossack posts") was the term used by [[J. van Swieten|Lieutenant-general Van Swieten]] in his note of [[22 April]] [[22 April]] [[1874]] to designate the small mobile posts that he proposed to establish in the immediate neighbourhood of [[Kota Radja|Kota Radja]] as part of his active-defence policy for the Dutch hoofd-stelling. The kozakkenposten were to be sent out unceasingly, in the form of patrols, together with the offering of premiums for the laying down of armed Atjehers and the levelling of enemy fortifications near Kota Radja, in order to keep the enemy at a distance from the hoofd-stelling and to give early warning of his movements.
+**Kozakkenposten** (Dutch for "Cossack posts") was the term used by [[Jan van Swieten|Lieutenant-general Van Swieten]] in his note of [[22 April]] [[22 April]] [[1874]] to designate the small mobile posts that he proposed to establish in the immediate neighbourhood of [[Kota Radja|Kota Radja]] as part of his active-defence policy for the Dutch hoofd-stelling. The kozakkenposten were to be sent out unceasingly, in the form of patrols, together with the offering of premiums for the laying down of armed Atjehers and the levelling of enemy fortifications near Kota Radja, in order to keep the enemy at a distance from the hoofd-stelling and to give early warning of his movements.
 
 ## The Note of 22 April 1874
 
@@ -16,7 +16,7 @@ The kozakkenposten were thus one of the elements of Van Swieten's system of acti
 
 ## See Also
 
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[J. L. J. H. Pel]]
 - [[Concentratie-linie]]
 - [[Westerlinie]]

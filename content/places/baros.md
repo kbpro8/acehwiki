@@ -4,7 +4,7 @@ aliases: [Barus, Baros (west coast), Fansur]
 tags: [place, boundary, west-coast, region, coast, foreign]
 ---
 
-**Baros** (also *Barus*) was a coastal settlement on the West Coast of [[Sumatra]] that the Acehnese regarded as marking the southern boundary between the territory of the princes of [[Menangkabau]] and that of the Sultans of [[Great Acheh|Acheh]]. Together with [[Teumieng]] on the East Coast, Baros defined the outermost limits of the [[Aceh Sultanate|Acehnese kingdom]].
+**Baros** (also *Barus*) was a coastal settlement on the West Coast of [[Sumatra]] that the Acehnese regarded as marking the southern boundary between the territory of the princes of [[Menangkabau]] and that of the Sultans of [[Great Acheh|Acheh]]. Together with [[Tamiang|Teumieng]] on the East Coast, Baros defined the outermost limits of the [[Aceh Sultanate|Acehnese kingdom]].
 
 Historically, Baros was one of the most ancient port towns on the west coast of Sumatra and had a long history as a trading settlement, famous for its camphor. By the time of [[C. Snouck Hurgronje]]'s writing, it lay at the frontier zone between Acehnese and Menangkabau spheres of influence.
 
@@ -24,7 +24,7 @@ Snouck is careful, however, to distinguish this wide "kingdom of Acheh" from the
 - [[Aceh Sultanate]]
 - [[Menangkabau]]
 - [[Sumatra]]
-- [[Teumieng]]
+- [[Tamiang|Teumieng]]
 - [[Acheh]]
 - [[Tamiang]]
 - [[West Coast (of Acheh)]]

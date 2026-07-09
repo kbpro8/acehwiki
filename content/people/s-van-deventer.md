@@ -5,7 +5,7 @@ aliases: [Van Deventer, S. van Deventer Jzn.]
 tags: [person, scholar, dutch-historian]
 ---
 
-**S. van Deventer** was a Dutch colonial historian, the author of *Nederlandsch Gezag in den Oost-Indischen Archipel* ("Netherlands Authority in the East Indian Archipelago"), whose compilation of the correspondence exchanged between the Dutch minister [[Van Nagell]] and the British envoy at The Hague in 1819 is cited twice by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Acheh treaty of 1819|Raffles–Coombs convention]] and the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch treaty of 1824]].
+**S. van Deventer** was a Dutch colonial historian, the author of *Nederlandsch Gezag in den Oost-Indischen Archipel* ("Netherlands Authority in the East Indian Archipelago"), whose compilation of the correspondence exchanged between the Dutch minister [[Van Nagell]] and the British envoy at The Hague in 1819 is cited twice by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] and the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch treaty of 1824]].
 
 ## *Nederlandsch Gezag*
 
@@ -30,8 +30,8 @@ The second citation of *Nederlandsch Gezag* occurs in connection with Van der Ke
 - [[J. J. Meinsma]]
 - [[Smulders]]
 - [[Sumatra Treaty of 1871]]
-- [[Anglo-Dutch Treaty of London (1824)]]
-- [[Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[P. H. van der Kemp]]
 
 ## Source
@@ -40,7 +40,7 @@ The second citation of *Nederlandsch Gezag* occurs in connection with Van der Ke
 ---
 
 
-**S. van Deventer** was a Dutch colonial historian, the author of *Nederlandsch Gezag in den Oost-Indischen Archipel* ("Netherlands Authority in the East Indian Archipelago"), whose compilation of the correspondence exchanged between the Dutch minister [[Van Nagell]] and the British envoy at The Hague in 1819 is cited twice by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Acheh treaty of 1819|Raffles–Coombs convention]] and the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch treaty of 1824]].
+**S. van Deventer** was a Dutch colonial historian, the author of *Nederlandsch Gezag in den Oost-Indischen Archipel* ("Netherlands Authority in the East Indian Archipelago"), whose compilation of the correspondence exchanged between the Dutch minister [[Van Nagell]] and the British envoy at The Hague in 1819 is cited twice by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] and the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch treaty of 1824]].
 
 ## *Nederlandsch Gezag*
 
@@ -65,8 +65,8 @@ The second citation of *Nederlandsch Gezag* occurs in connection with Van der Ke
 - [[J. J. Meinsma]]
 - [[Smulders]]
 - [[Sumatra Treaty of 1871]]
-- [[Anglo-Dutch Treaty of London (1824)]]
-- [[Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[P. H. van der Kemp]]
 
 ## Source

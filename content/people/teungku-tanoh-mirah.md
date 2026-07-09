@@ -25,7 +25,7 @@ His example is the more noteworthy because the *kali* of the [[IV Mukims]] of th
 - [[Teungku Kutakarang]]
 - [[Teungku Lam Paya (kali)]]
 - [[Teungku Tanoh Abee]]
-- [[Teungku Tanoh Abie]]
+- [[Teungku Tanoh Abee|Teungku Tanoh Abie]]
 - [[Teungku Tiro (Muhamat Amin)]]
 - [[XXVI Mukims]]
 
@@ -56,7 +56,7 @@ His example is the more noteworthy because the *kali* of the [[IV Mukims]] of th
 - [[Teungku Kutakarang]]
 - [[Teungku Lam Paya (kali)]]
 - [[Teungku Tanoh Abee]]
-- [[Teungku Tanoh Abie]]
+- [[Teungku Tanoh Abee|Teungku Tanoh Abie]]
 - [[Teungku Tiro (Muhamat Amin)]]
 - [[XXVI Mukims]]
 

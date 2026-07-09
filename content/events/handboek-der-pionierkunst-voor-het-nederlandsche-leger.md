@@ -25,7 +25,7 @@ The Handboek is the principal published embodiment of Snijders' Atjeh experience
 - [[Bataillon Mineurs en Sappeurs]]
 - [[Korps Ingenieurs, Mineurs en Sappeurs]]
 - [[Benting]]
-- [[Bamboe-doerie]]
+- [[Bamboe-doeri|Bamboe-doerie]]
 - [[Ranjoe]]
 - [[Vrije koelies]]
 - [[Dwangarbeiders]]

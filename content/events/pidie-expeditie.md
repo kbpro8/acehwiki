@@ -4,7 +4,7 @@ aliases: [Pidië Expedition, Pidie expedition, Pidië expedition]
 tags: [event, war, aceh, knil, colonial]
 ---
 
-**The Pidië Expedition** was one of the great successes of the glorious period of Van Heutsz in the [[Atjeh-oorlog|Aceh War]], the first-named of the expeditions and excursions that [[Musket]] lists in *[[Oost-Indisch Journael]]* by Merac ([[1947]]). The Pidië Expedition was the expedition to the Pidië region of [[Atjeh|Aceh]] — the region of the Pidië mukims — conducted under [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] as part of the all-out offensive that followed the defection of Teukoe Oemar on [[29 March]] [[1896]].
+**The Pidië Expedition** was one of the great successes of the glorious period of Van Heutsz in the [[Atjeh-oorlog|Aceh War]], the first-named of the expeditions and excursions that [[Musket]] lists in *[[Oost-Indisch Journael]]* by Merac ([[1947]]). The Pidië Expedition was the expedition to the Pidië region of [[Atjeh|Aceh]] — the region of the Pidië mukims — conducted under [[Joannes Benedictus van Heutsz|Van Heutsz]] as part of the all-out offensive that followed the defection of Teukoe Oemar on [[29 March]] [[1896]].
 
 ## The great successes of the glorious period
 
@@ -19,7 +19,7 @@ The Pidië Expedition is significant in *[[Oost-Indisch Journael]]* as the first
 - [[Oost-Indisch Journael]]
 - [[Musket]]
 - [[Buyckjens]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Pasé-expeditie]]
 - [[Samalanga-expeditie]]
 - [Gajo- en Alaslanden tochten](/events/gajo-en-alaslanden-tochten)

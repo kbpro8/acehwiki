@@ -5,7 +5,7 @@ aliases: [Gujarat, Gudjarāt, Gujarāt, Gujerat, the Gujarat coast]
 tags: [place, region, india, arab-migration, raniri, rifa'i, 16th-century, 17th-century, indian-ocean-network]
 ---
 
-**Gudjarāt** — in English **Gujarat** — is the region of north-western India whose coastal towns were, in the sixteenth and seventeenth centuries, the principal nodes of the Indian Ocean network that linked the religious scholarship of India with the Malay-Indonesian world. Gujarat is the region of origin of [[Raniri|Nūruddīn ar-Rānīrī]] and of his uncle [[Muhammad Djailani Hamid]]; the region of the religious activity of [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] and [[Abd al-Qadir al-Aidaros|ʿAbd al-Qādir al-Aydārūs]]; and the immediate source of the [[Rifa'iyah order|Rifāʿiyya]] silsila that was carried to [[Acheh]] and [[Makassar]] by Raniri and [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]].
+**Gudjarāt** — in English **Gujarat** — is the region of north-western India whose coastal towns were, in the sixteenth and seventeenth centuries, the principal nodes of the Indian Ocean network that linked the religious scholarship of India with the Malay-Indonesian world. Gujarat is the region of origin of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and of his uncle [[Muhammad Djailani Hamid]]; the region of the religious activity of [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] and [[Abd al-Qadir al-Aidaros|ʿAbd al-Qādir al-Aydārūs]]; and the immediate source of the [[Rifa'iyah order|Rifāʿiyya]] silsila that was carried to [[Acheh]] and [[Makassar]] by Raniri and [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]].
 
 ## The coastal towns and the Indian Ocean network
 
@@ -21,7 +21,7 @@ The first recorded link of the family of Raniri with [[Acheh]] is the visit of h
 
 ## Significance
 
-Gujarat is the region of origin of [[Raniri|Nūruddīn ar-Rānīrī]] and the immediate source of the [[Rifa'iyah order|Rifāʿiyya]] silsila that was carried to [[Acheh]] and [[Makassar]] by Raniri and [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]]. The Gujarati-Ḥadramī Sufi network — centred in the coastal towns of Gujarat, with nodes at [[Surat]], [[Ahmadabad]], [[Bijapur|Bījāpūr]], and [[Bilgram|Bilgrām]] — was the principal channel by which the orthodox Sufi scholasticism of the Arab and Persian worlds was transmitted to the Malay-Indonesian archipelago in the sixteenth and seventeenth centuries, and the immediate background of the orthodox reaction of Acheh against the [[Wujudiyyah]] of [[Hamzah Pansuri]] and [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]].
+Gujarat is the region of origin of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and the immediate source of the [[Rifa'iyah order|Rifāʿiyya]] silsila that was carried to [[Acheh]] and [[Makassar]] by Raniri and [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]]. The Gujarati-Ḥadramī Sufi network — centred in the coastal towns of Gujarat, with nodes at [[Surat]], [[Ahmadabad]], [[Bijapur|Bījāpūr]], and [[Bilgram|Bilgrām]] — was the principal channel by which the orthodox Sufi scholasticism of the Arab and Persian worlds was transmitted to the Malay-Indonesian archipelago in the sixteenth and seventeenth centuries, and the immediate background of the orthodox reaction of Acheh against the [[Wujudiyyah]] of [[Hamzah Pansuri]] and [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]].
 
 ## See Also
 
@@ -33,7 +33,7 @@ Gujarat is the region of origin of [[Raniri|Nūruddīn ar-Rānīrī]] and the im
 - [[Muhammad Djailani Hamid]]
 - [[P. Voorhoeve]]
 - [[Ranir]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Rifa'iyah order]]
 - [[Sajjid Abu Hafs Umar Ba Sjaiban]]
 - [[Surat]]
@@ -47,7 +47,7 @@ Gujarat is the region of origin of [[Raniri|Nūruddīn ar-Rānīrī]] and the im
 ---
 
 
-**Gudjarāt** — in English **Gujarat** — is the region of north-western India whose coastal towns were, in the sixteenth and seventeenth centuries, the principal nodes of the Indian Ocean network that linked the religious scholarship of India with the Malay-Indonesian world. Gujarat is the region of origin of [[Raniri|Nūruddīn ar-Rānīrī]] and of his uncle [[Muhammad Djailani Hamid]]; the region of the religious activity of [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] and [[Abd al-Qadir al-Aidaros|ʿAbd al-Qādir al-Aydārūs]]; and the immediate source of the [[Rifa'iyah order|Rifāʿiyya]] silsila that was carried to [[Acheh]] and [[Makassar]] by Raniri and [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]].
+**Gudjarāt** — in English **Gujarat** — is the region of north-western India whose coastal towns were, in the sixteenth and seventeenth centuries, the principal nodes of the Indian Ocean network that linked the religious scholarship of India with the Malay-Indonesian world. Gujarat is the region of origin of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and of his uncle [[Muhammad Djailani Hamid]]; the region of the religious activity of [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] and [[Abd al-Qadir al-Aidaros|ʿAbd al-Qādir al-Aydārūs]]; and the immediate source of the [[Rifa'iyah order|Rifāʿiyya]] silsila that was carried to [[Acheh]] and [[Makassar]] by Raniri and [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]].
 
 ## The coastal towns and the Indian Ocean network
 
@@ -63,7 +63,7 @@ The first recorded link of the family of Raniri with [[Acheh]] is the visit of h
 
 ## Significance
 
-Gujarat is the region of origin of [[Raniri|Nūruddīn ar-Rānīrī]] and the immediate source of the [[Rifa'iyah order|Rifāʿiyya]] silsila that was carried to [[Acheh]] and [[Makassar]] by Raniri and [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]]. The Gujarati-Ḥadramī Sufi network — centred in the coastal towns of Gujarat, with nodes at [[Surat]], [[Ahmadabad]], [[Bijapur|Bījāpūr]], and [[Bilgram|Bilgrām]] — was the principal channel by which the orthodox Sufi scholasticism of the Arab and Persian worlds was transmitted to the Malay-Indonesian archipelago in the sixteenth and seventeenth centuries, and the immediate background of the orthodox reaction of Acheh against the [[Wujudiyyah]] of [[Hamzah Pansuri]] and [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]].
+Gujarat is the region of origin of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and the immediate source of the [[Rifa'iyah order|Rifāʿiyya]] silsila that was carried to [[Acheh]] and [[Makassar]] by Raniri and [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]]. The Gujarati-Ḥadramī Sufi network — centred in the coastal towns of Gujarat, with nodes at [[Surat]], [[Ahmadabad]], [[Bijapur|Bījāpūr]], and [[Bilgram|Bilgrām]] — was the principal channel by which the orthodox Sufi scholasticism of the Arab and Persian worlds was transmitted to the Malay-Indonesian archipelago in the sixteenth and seventeenth centuries, and the immediate background of the orthodox reaction of Acheh against the [[Wujudiyyah]] of [[Hamzah Pansuri]] and [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]].
 
 ## See Also
 
@@ -75,7 +75,7 @@ Gujarat is the region of origin of [[Raniri|Nūruddīn ar-Rānīrī]] and the im
 - [[Muhammad Djailani Hamid]]
 - [[P. Voorhoeve]]
 - [[Ranir]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Rifa'iyah order]]
 - [[Sajjid Abu Hafs Umar Ba Sjaiban]]
 - [[Surat]]

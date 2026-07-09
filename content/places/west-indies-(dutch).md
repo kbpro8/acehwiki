@@ -23,7 +23,7 @@ The dual use of “Indies” illustrates how Dutch imperial terminology evolved 
 - [[Dutch East Indies]]
 - [[Dutch colonial empire]]
 - [[Treaty of Nijmegen|Treaty of Nijmegen (1678)]]
-- [[Dutch Marine Corps|Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[Aceh War]]
 
 ## Source

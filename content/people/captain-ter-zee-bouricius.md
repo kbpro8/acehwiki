@@ -14,7 +14,7 @@ Bouricius’s forces secured the beachhead at [[Boeleleng]] and later participat
 He was among the officers awarded the *Militaire Willemsorde* by the royal decree of [[11 December]] [[1849]] (page 108).
 
 ## See Also
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[1849 Bali Expedition]]
 - [[Djagaraga]]
 - [[Militaire Willemsorde]]

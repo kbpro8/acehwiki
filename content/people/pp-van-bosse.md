@@ -74,7 +74,7 @@ His legacy includes:
 
 ## See Also
 
-- [[J.W. van Lansberge]]
+- [[Johan Willem van Lansberge|J.W. van Lansberge]]
 - [[Aceh War]]
 - [[K. van der Heijden]]
 - [[A. Pruys van der Hoeven]]
@@ -158,7 +158,7 @@ His legacy includes:
 
 ## See Also
 
-- [[J.W. van Lansberge]]
+- [[Johan Willem van Lansberge|J.W. van Lansberge]]
 - [[Aceh War]]
 - [[K. van der Heijden]]
 - [[A. Pruys van der Hoeven]]

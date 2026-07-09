@@ -5,7 +5,7 @@ aliases: [Najm ad-Dīn ʿUmar an-Nasafī, Najmuddin ʿUmar an-Nasafi, Najm al-Di
 tags: [person, scholar, religious-figure, sufi, author, source-of-tibjan, 12th-century, persian]
 ---
 
-**Najm ad-Dīn ʿUmar an-Nasafī** was a Sufi author of the late sixth century of the Hegira (twelfth century C.E.), named by [[P. Voorhoeve|Voorhoeve]] as the source of the section on the heretical Ṣūfī sects in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]]. His small tract *Kitāb fī bayān madhāhib al-mutaṣawwifa* ("Book on the Exposition of the Doctrines of the Sufis") supplies the first eleven of the thirteen heretical Ṣūfī sects that Raniri treats in the same order, as well as the Persian verse of the *Wākiʿiyya*.
+**Najm ad-Dīn ʿUmar an-Nasafī** was a Sufi author of the late sixth century of the Hegira (twelfth century C.E.), named by [[P. Voorhoeve|Voorhoeve]] as the source of the section on the heretical Ṣūfī sects in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]]. His small tract *Kitāb fī bayān madhāhib al-mutaṣawwifa* ("Book on the Exposition of the Doctrines of the Sufis") supplies the first eleven of the thirteen heretical Ṣūfī sects that Raniri treats in the same order, as well as the Persian verse of the *Wākiʿiyya*.
 
 ## The *Kitāb fī bayān madhāhib al-mutaṣawwifa*
 
@@ -24,7 +24,7 @@ Najm ad-Dīn an-Nasafī is, through his *Kitāb fī bayān madhāhib al-mutaṣa
 - [[Abu Syakur as-Salimi]]
 - [[Ma'rifat al-madhahib]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Tibjan fi ma'rifat al-adyan]]
 - [[Wujudiyyah]]
@@ -35,7 +35,7 @@ Najm ad-Dīn an-Nasafī is, through his *Kitāb fī bayān madhāhib al-mutaṣa
 ---
 
 
-**Najm ad-Dīn ʿUmar an-Nasafī** was a Sufi author of the late sixth century of the Hegira (twelfth century C.E.), named by [[P. Voorhoeve|Voorhoeve]] as the source of the section on the heretical Ṣūfī sects in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]]. His small tract *Kitāb fī bayān madhāhib al-mutaṣawwifa* ("Book on the Exposition of the Doctrines of the Sufis") supplies the first eleven of the thirteen heretical Ṣūfī sects that Raniri treats in the same order, as well as the Persian verse of the *Wākiʿiyya*.
+**Najm ad-Dīn ʿUmar an-Nasafī** was a Sufi author of the late sixth century of the Hegira (twelfth century C.E.), named by [[P. Voorhoeve|Voorhoeve]] as the source of the section on the heretical Ṣūfī sects in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]]. His small tract *Kitāb fī bayān madhāhib al-mutaṣawwifa* ("Book on the Exposition of the Doctrines of the Sufis") supplies the first eleven of the thirteen heretical Ṣūfī sects that Raniri treats in the same order, as well as the Persian verse of the *Wākiʿiyya*.
 
 ## The *Kitāb fī bayān madhāhib al-mutaṣawwifa*
 
@@ -54,7 +54,7 @@ Najm ad-Dīn an-Nasafī is, through his *Kitāb fī bayān madhāhib al-mutaṣa
 - [[Abu Syakur as-Salimi]]
 - [[Ma'rifat al-madhahib]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Tibjan fi ma'rifat al-adyan]]
 - [[Wujudiyyah]]

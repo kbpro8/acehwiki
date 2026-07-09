@@ -5,7 +5,7 @@ aliases: [Gerardus Willebrordus Joannes Drewes, G. W. J. Drewes, Drewes, Prof. D
 tags: [person, scholar, dutch-orientalist, malay-scholarship, indonesian-studies, 20th-century, leiden, raniri]
 ---
 
-**G. W. J. Drewes** — Professor Gerardus Willebrordus Joannes Drewes — was a Dutch orientalist and Malay scholar at Leiden, whose 1955 article in *BKI* 111 — cited by [[P. Voorhoeve|Voorhoeve]] in the introduction to his [[1955]] edition of Raniri's two Malay treatises — threw new light on the heredity and origin of [[Raniri|Nūruddīn ar-Rānīrī]]. Drewes is also acknowledged by Voorhoeve for the identification of the term *Śrāwaka* — used by Raniri in the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] for one of the pre-Muslim religions — as Sanskrit for Buddhist.
+**G. W. J. Drewes** — Professor Gerardus Willebrordus Joannes Drewes — was a Dutch orientalist and Malay scholar at Leiden, whose 1955 article in *BKI* 111 — cited by [[P. Voorhoeve|Voorhoeve]] in the introduction to his [[1955]] edition of Raniri's two Malay treatises — threw new light on the heredity and origin of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]]. Drewes is also acknowledged by Voorhoeve for the identification of the term *Śrāwaka* — used by Raniri in the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] for one of the pre-Muslim religions — as Sanskrit for Buddhist.
 
 ## The identification of Raniri's father-city
 
@@ -17,7 +17,7 @@ In the apparatus criticus to the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] (ad p
 
 ## Significance
 
-Drewes's contributions to the study of [[Raniri]] — the identification of [[Ranir]] as Raniri's father-city, and the identification of *Śrāwaka* as Sanskrit for Buddhist — are among the principal advances in the modern study of Raniri before the [[1955]] edition of Voorhoeve. The first established the Gujarati-Ḥadramī background of Raniri that is the basis of the modern understanding of his career; the second established the Indian substrate of his account of the pre-Muslim religions in the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]].
+Drewes's contributions to the study of [[Nur al-Din al-Raniri|Raniri]] — the identification of [[Ranir]] as Raniri's father-city, and the identification of *Śrāwaka* as Sanskrit for Buddhist — are among the principal advances in the modern study of Raniri before the [[1955]] edition of Voorhoeve. The first established the Gujarati-Ḥadramī background of Raniri that is the basis of the modern understanding of his career; the second established the Indian substrate of his account of the pre-Muslim religions in the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]].
 
 ## See Also
 
@@ -25,7 +25,7 @@ Drewes's contributions to the study of [[Raniri]] — the identification of [[Ra
 - [[Gudjarat]]
 - [[P. Voorhoeve]]
 - [[Ranir]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Surat]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
@@ -37,7 +37,7 @@ G. W. J. Drewes, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en
 ---
 
 
-**G. W. J. Drewes** — Professor Gerardus Willebrordus Joannes Drewes — was a Dutch orientalist and Malay scholar at Leiden, whose 1955 article in *BKI* 111 — cited by [[P. Voorhoeve|Voorhoeve]] in the introduction to his [[1955]] edition of Raniri's two Malay treatises — threw new light on the heredity and origin of [[Raniri|Nūruddīn ar-Rānīrī]]. Drewes is also acknowledged by Voorhoeve for the identification of the term *Śrāwaka* — used by Raniri in the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] for one of the pre-Muslim religions — as Sanskrit for Buddhist.
+**G. W. J. Drewes** — Professor Gerardus Willebrordus Joannes Drewes — was a Dutch orientalist and Malay scholar at Leiden, whose 1955 article in *BKI* 111 — cited by [[P. Voorhoeve|Voorhoeve]] in the introduction to his [[1955]] edition of Raniri's two Malay treatises — threw new light on the heredity and origin of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]]. Drewes is also acknowledged by Voorhoeve for the identification of the term *Śrāwaka* — used by Raniri in the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] for one of the pre-Muslim religions — as Sanskrit for Buddhist.
 
 ## The identification of Raniri's father-city
 
@@ -49,7 +49,7 @@ In the apparatus criticus to the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] (ad p
 
 ## Significance
 
-Drewes's contributions to the study of [[Raniri]] — the identification of [[Ranir]] as Raniri's father-city, and the identification of *Śrāwaka* as Sanskrit for Buddhist — are among the principal advances in the modern study of Raniri before the [[1955]] edition of Voorhoeve. The first established the Gujarati-Ḥadramī background of Raniri that is the basis of the modern understanding of his career; the second established the Indian substrate of his account of the pre-Muslim religions in the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]].
+Drewes's contributions to the study of [[Nur al-Din al-Raniri|Raniri]] — the identification of [[Ranir]] as Raniri's father-city, and the identification of *Śrāwaka* as Sanskrit for Buddhist — are among the principal advances in the modern study of Raniri before the [[1955]] edition of Voorhoeve. The first established the Gujarati-Ḥadramī background of Raniri that is the basis of the modern understanding of his career; the second established the Indian substrate of his account of the pre-Muslim religions in the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]].
 
 ## See Also
 
@@ -57,7 +57,7 @@ Drewes's contributions to the study of [[Raniri]] — the identification of [[Ra
 - [[Gudjarat]]
 - [[P. Voorhoeve]]
 - [[Ranir]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Surat]]
 - [[Tibjan fi ma'rifat al-adyan]]
 

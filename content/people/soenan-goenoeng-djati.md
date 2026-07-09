@@ -18,7 +18,7 @@ Soenan Goenoeng Djati's presumed origin in [[Pasé]], one of the earliest Muslim
 
 - [[Pasé]]
 - [[Perlak]]
-- [[Islam in Atjeh]]
+- [[Islam in Aceh|Islam in Atjeh]]
 - [[North Sumatra]]
 
 ## Sources

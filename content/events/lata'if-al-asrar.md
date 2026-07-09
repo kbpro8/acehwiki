@@ -4,7 +4,7 @@ aliases: [Laṭāʾif al-asrār, Latha'if al-asrar, Latā'if al-asrār, The Subt
 tags: [document, religious-work, islamic-scholarship, mysticism, lost-work, precolonial, 17th-century, aceh, malay]
 ---
 
-**The *Laṭāʾif al-asrār*** ("The Subtleties of the Secrets") is a lost Malay Sufi treatise by [[Raniri|Nuruddin ar-Raniri]], cited by Raniri himself in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] as the source to which the reader is referred for a fuller refutation of the heretical [[Wujudiyyah]] than the *Tibjān* itself provides. No manuscript of the *Laṭāʾif al-asrār* is known to survive; its existence is attested solely by Raniri's own references to it. [[P. Voorhoeve|Voorhoeve]] notes that the work "has been lost" (*Dit geschrift van Rānīrī is verloren gegaan*).
+**The *Laṭāʾif al-asrār*** ("The Subtleties of the Secrets") is a lost Malay Sufi treatise by [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]], cited by Raniri himself in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] as the source to which the reader is referred for a fuller refutation of the heretical [[Wujudiyyah]] than the *Tibjān* itself provides. No manuscript of the *Laṭāʾif al-asrār* is known to survive; its existence is attested solely by Raniri's own references to it. [[P. Voorhoeve|Voorhoeve]] notes that the work "has been lost" (*Dit geschrift van Rānīrī is verloren gegaan*).
 
 ## Citations by Raniri
 
@@ -31,10 +31,10 @@ The loss of the *Laṭāʾif al-asrār* is one of the major lacunae in the liter
 - [[Kitab al-Muntahi]]
 - [[Mir'at al-muhakkikin]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's public debate against the Wujudiyyah in Acheh]]
 - [[Shaikh Shamsuddin of Sumatra]]
-- [[Sirat al-mustaqim]]
+- [[Sirat al-Mustaqim|Sirat al-mustaqim]]
 - [[Tibjan fi ma'rifat al-adyan]]
 - [[Wujudiyyah]]
 

@@ -4,7 +4,7 @@ aliases: [KIA Ladong area, Ladong, Ladông]
 tags: [place, aceh-proper, present-day, xxvi-mukims, indrapatra, mosque-site]
 ---
 
-In the [[Hikayat Malem Dagang]], the great Sultan [[Sultan Iskandar Muda]] assigned Ladong and
+In the [[Hikajat Malém Dagang|Hikayat Malem Dagang]], the great Sultan [[Sultan Iskandar Muda]] assigned Ladong and
 
 ## Expanded account from *The Achehnese*, Vol. I — Ladong
 
@@ -22,7 +22,7 @@ Although Ladong itself appears in Vol. I only as a present-day landmark for the 
 
 ## See Also
 
-- [[Hikayat Malem Dagang]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
 - [[Malem Dagang]]
 - [[Sultan Iskandar Muda]]
 - [[Indrapatra]]

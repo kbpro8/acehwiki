@@ -5,7 +5,7 @@ aliases: [Wynn]
 tags: [person, british-official]
 ---
 
-Charles Watkin Williams Wynn ([[1775]]–[[1850]]) was a British statesman who, with [[George Canning|George Canning]], served as British plenipotentiary at the negotiations which produced the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]]. In the Achehnese record he is chiefly significant for his share in the eleventh-hour raising of the [[Acheh treaty of 1819]] during the London negotiations.
+Charles Watkin Williams Wynn ([[1775]]–[[1850]]) was a British statesman who, with [[George Canning|George Canning]], served as British plenipotentiary at the negotiations which produced the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]]. In the Achehnese record he is chiefly significant for his share in the eleventh-hour raising of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] during the London negotiations.
 
 ## The London Negotiations of 1824
 
@@ -15,11 +15,11 @@ Van der Kemp observes that «neither Canning nor Wynn were aware of» the Acheh 
 
 ## The Reading of 23 February 1824
 
-The truth emerged only when Captain [[Captain Elout|Elout]] returned to [[London]] and the full text of the [[Acheh treaty of 1819]] was laid before the conference on [[23 February 1824]]. The treaty, by its sixth article, established the exclusion of other European powers; in Van der Kemp's phrase, «[[Sir Thomas Stamford Raffles|Raffles]] had taken care of that». The British plenipotentiaries «were surprised, on the reading of it», and were forced to acknowledge that «English sovereignty was thereby sufficiently established». The Dutch plenipotentiaries, in their [[Dutch plenipotentiaries' dispatch of 21 February 1824|dispatch of 21 February 1824]], observed that the treaty was «read and recognised on both sides as, in the new state of things, no longer capable even of partial maintenance», but recorded the British concern that the United States of America or other foreign powers might seek to establish themselves at Acheh.
+The truth emerged only when Captain [[Captain Elout|Elout]] returned to [[London]] and the full text of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] was laid before the conference on [[23 February 1824]]. The treaty, by its sixth article, established the exclusion of other European powers; in Van der Kemp's phrase, «[[Sir Thomas Stamford Raffles|Raffles]] had taken care of that». The British plenipotentiaries «were surprised, on the reading of it», and were forced to acknowledge that «English sovereignty was thereby sufficiently established». The Dutch plenipotentiaries, in their [[Dutch plenipotentiaries' dispatch of 21 February 1824|dispatch of 21 February 1824]], observed that the treaty was «read and recognised on both sides as, in the new state of things, no longer capable even of partial maintenance», but recorded the British concern that the United States of America or other foreign powers might seek to establish themselves at Acheh.
 
 ## Significance
 
-The episode is treated by Van der Kemp as a representative case of the casual handling of Achehnese affairs by the British government — an handling made possible by the fact that neither Canning nor Wynn had read the treaty they were seeking to maintain, and that the Dutch plenipotentiaries, in their turn, had no copy at hand. The result was the [[Anglo-Dutch Treaty of London (1824)]] of [[17 March 1824]], in which the Acheh question was left to be settled by a separate exchange of notes — and ultimately by the Dutch government's unilateral assumption, after [[1871]], of the responsibilities that had been shifted onto it in [[1824]].
+The episode is treated by Van der Kemp as a representative case of the casual handling of Achehnese affairs by the British government — an handling made possible by the fact that neither Canning nor Wynn had read the treaty they were seeking to maintain, and that the Dutch plenipotentiaries, in their turn, had no copy at hand. The result was the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]] of [[17 March 1824]], in which the Acheh question was left to be settled by a separate exchange of notes — and ultimately by the Dutch government's unilateral assumption, after [[1871]], of the responsibilities that had been shifted onto it in [[1824]].
 
 ## See Also
 
@@ -29,9 +29,9 @@ The episode is treated by Van der Kemp as a representative case of the casual ha
 - [[Captain Elout]]
 - [[Ridder Reinhold]]
 - [[Sir Thomas Stamford Raffles]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Convention of 24 January 1817]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Raising of the Acheh treaty in London negotiations]]
 - [[Dutch plenipotentiaries' dispatch of 21 February 1824]]
 - [[First draft of 1824 Anglo-Dutch treaty]]
@@ -43,7 +43,7 @@ The episode is treated by Van der Kemp as a representative case of the casual ha
 ---
 
 
-Charles Watkin Williams Wynn ([[1775]]–[[1850]]) was a British statesman who, with [[George Canning|George Canning]], served as British plenipotentiary at the negotiations which produced the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]]. In the Achehnese record he is chiefly significant for his share in the eleventh-hour raising of the [[Acheh treaty of 1819]] during the London negotiations.
+Charles Watkin Williams Wynn ([[1775]]–[[1850]]) was a British statesman who, with [[George Canning|George Canning]], served as British plenipotentiary at the negotiations which produced the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]]. In the Achehnese record he is chiefly significant for his share in the eleventh-hour raising of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] during the London negotiations.
 
 ## The London Negotiations of 1824
 
@@ -53,11 +53,11 @@ Van der Kemp observes that «neither Canning nor Wynn were aware of» the Acheh 
 
 ## The Reading of 23 February 1824
 
-The truth emerged only when Captain [[Captain Elout|Elout]] returned to [[London]] and the full text of the [[Acheh treaty of 1819]] was laid before the conference on [[23 February 1824]]. The treaty, by its sixth article, established the exclusion of other European powers; in Van der Kemp's phrase, «[[Sir Thomas Stamford Raffles|Raffles]] had taken care of that». The British plenipotentiaries «were surprised, on the reading of it», and were forced to acknowledge that «English sovereignty was thereby sufficiently established». The Dutch plenipotentiaries, in their [[Dutch plenipotentiaries' dispatch of 21 February 1824|dispatch of 21 February 1824]], observed that the treaty was «read and recognised on both sides as, in the new state of things, no longer capable even of partial maintenance», but recorded the British concern that the United States of America or other foreign powers might seek to establish themselves at Acheh.
+The truth emerged only when Captain [[Captain Elout|Elout]] returned to [[London]] and the full text of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] was laid before the conference on [[23 February 1824]]. The treaty, by its sixth article, established the exclusion of other European powers; in Van der Kemp's phrase, «[[Sir Thomas Stamford Raffles|Raffles]] had taken care of that». The British plenipotentiaries «were surprised, on the reading of it», and were forced to acknowledge that «English sovereignty was thereby sufficiently established». The Dutch plenipotentiaries, in their [[Dutch plenipotentiaries' dispatch of 21 February 1824|dispatch of 21 February 1824]], observed that the treaty was «read and recognised on both sides as, in the new state of things, no longer capable even of partial maintenance», but recorded the British concern that the United States of America or other foreign powers might seek to establish themselves at Acheh.
 
 ## Significance
 
-The episode is treated by Van der Kemp as a representative case of the casual handling of Achehnese affairs by the British government — an handling made possible by the fact that neither Canning nor Wynn had read the treaty they were seeking to maintain, and that the Dutch plenipotentiaries, in their turn, had no copy at hand. The result was the [[Anglo-Dutch Treaty of London (1824)]] of [[17 March 1824]], in which the Acheh question was left to be settled by a separate exchange of notes — and ultimately by the Dutch government's unilateral assumption, after [[1871]], of the responsibilities that had been shifted onto it in [[1824]].
+The episode is treated by Van der Kemp as a representative case of the casual handling of Achehnese affairs by the British government — an handling made possible by the fact that neither Canning nor Wynn had read the treaty they were seeking to maintain, and that the Dutch plenipotentiaries, in their turn, had no copy at hand. The result was the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]] of [[17 March 1824]], in which the Acheh question was left to be settled by a separate exchange of notes — and ultimately by the Dutch government's unilateral assumption, after [[1871]], of the responsibilities that had been shifted onto it in [[1824]].
 
 ## See Also
 
@@ -67,9 +67,9 @@ The episode is treated by Van der Kemp as a representative case of the casual ha
 - [[Captain Elout]]
 - [[Ridder Reinhold]]
 - [[Sir Thomas Stamford Raffles]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Convention of 24 January 1817]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Raising of the Acheh treaty in London negotiations]]
 - [[Dutch plenipotentiaries' dispatch of 21 February 1824]]
 - [[First draft of 1824 Anglo-Dutch treaty]]

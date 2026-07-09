@@ -7,7 +7,7 @@ tags: [concept, achehnese, religious]
 
 ## The kaphé and the Atjèh War
 
-The hatred of the *kaphé* was, in Piekaar's reading, the negative pole of Atjèhnese religious consciousness throughout the colonial period. The great resistance leader [[Teukoe Panglima Pólém|Teukoe Panglima Pólém Sri Moeda Perkasa Moehamad Daoed]] "in his youth the acceptance of the authority of the infidel (Atj. *kaphé*) had been an abomination and the conduct of the holy war (Atj. *prang sabi*) a religious duty." The same mentality survived in isolated regions into the 1930s. In the *sagi* of the [[XXV Moekims|XXV Moekims]] — the country of [[Lhóng|Lhóng]] and [[Tjalang|Tjalang]] — "the distance to the time in which the [[Atjèh War|Aceh War]] called the devout Muslims to the fight against the 'kaphé' (unbeliever), seemed smaller … The standstill of time was reflected in the religious instruction." The [[Lhóng action (1933)|Lhóng action of 1933]] was the last flicker of this militant tradition.
+The hatred of the *kaphé* was, in Piekaar's reading, the negative pole of Atjèhnese religious consciousness throughout the colonial period. The great resistance leader [[Panglima Polem|Teukoe Panglima Pólém Sri Moeda Perkasa Moehamad Daoed]] "in his youth the acceptance of the authority of the infidel (Atj. *kaphé*) had been an abomination and the conduct of the holy war (Atj. *prang sabi*) a religious duty." The same mentality survived in isolated regions into the 1930s. In the *sagi* of the [[XXV Moekims|XXV Moekims]] — the country of [[Lhóng|Lhóng]] and [[Tjalang|Tjalang]] — "the distance to the time in which the [[Atjèh War|Aceh War]] called the devout Muslims to the fight against the 'kaphé' (unbeliever), seemed smaller … The standstill of time was reflected in the religious instruction." The [[Lhóng action (1933)|Lhóng action of 1933]] was the last flicker of this militant tradition.
 
 ## The F-organisatie and the second eruption
 
@@ -30,7 +30,7 @@ The Japanese occupation reversed the polarity of *kaphé*-hatred without extingu
 - [[Maibkatra]]
 - [[Poesa]]
 - [[hikajat prang sabi]]
-- [[Teukoe Panglima Pólém]]
+- [[Panglima Polem|Teukoe Panglima Pólém]]
 
 ## Source
 

@@ -38,7 +38,7 @@ The **Acheh War** was the armed conflict between the Sultanate of [[Acheh]] and 
 
 The war's origins lay in the guarantee of Achehnese independence that the Dutch Government had, with great lack of foresight, given to Great Britain in the treaty of [[1824]]. When, in the second decennial period of the nineteenth century, Holland was compelled to take measures to ensure the safety of foreign trade in Acheh, the responsibilities of that guarantee could no longer be ignored. The first Dutch attack of 1873 ended in failure and the death of General Köhler; a second expedition later in the same year took the [[Dalam|kraton]] but did not subdue the country. Thereafter the war was allowed to be suspended since [[1881]] without any real resultant gain, the Dutch holding only a fortified "concentratie-linie" around [[Kuta Raja]] while the interior remained in Achehnese hands.
 
-The war was resumed in [[1896]] after the failure of the policy of concentration had been exposed. Above all since [[Governor Van Heutsz|Governor Van Heutsz]] in [[1898]] took the direction of affairs, everything was methodically done to bring about the necessary end, once and for all, of the insurrection. In less than six years Van Heutsz made such progress that even the most sceptical had to admit that the beginning of the end had been reached. The young pretender to the sultanate, [[Tuanku Muhamat Dawot]], submitted to the Dutch Government in January [[1903]], and with him numbers of adventurers, fanatical leaders, and uleebalangs tendered their submission in the years that followed.
+The war was resumed in [[1896]] after the failure of the policy of concentration had been exposed. Above all since [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] in [[1898]] took the direction of affairs, everything was methodically done to bring about the necessary end, once and for all, of the insurrection. In less than six years Van Heutsz made such progress that even the most sceptical had to admit that the beginning of the end had been reached. The young pretender to the sultanate, [[Tuanku Muhamat Dawot]], submitted to the Dutch Government in January [[1903]], and with him numbers of adventurers, fanatical leaders, and uleebalangs tendered their submission in the years that followed.
 
 The conduct of the Achehnese side is treated by Snouck Hurgronje under two related headings. The military resistance of the early period — sultan, uleebalangs, and irregular chiefs such as the [[Imeum of Lueng Bata|imeum of Lueng Bata]] — is described under [[Achehnese War]]. The religiously organised resistance of the period of concentration — the jihad led by the ulamas and financed by the *sabil* share of the [[Jakeuet (zakat)|jakeuet]] — is described under [[Holy War (Jihad) against the Dutch]]. Together these phases form the single conflict that the Achehnese call *prang Gompeuni*, "the war with the Dutch," and that the Dutch call the *Atjeh-oorlog*. Its progress is recorded in the *Hikayat Prang Gompeuni* and produced many of Acheh's most celebrated religious-military leaders, including [[Teungku Tiro]], [[Teungku Kutakarang]], [[Habib Abdurrahman|Habib Abdurrahman Zahir]], [[Habib Samalanga]], and [[Teuku Uma]].
 
@@ -50,7 +50,7 @@ Snouck Hurgronje repeatedly notes that the commencement of the war in 1873 had b
 
 The military leadership of the Achehnese side was not supplied by the sultan's officials alone. Local chiefs and religious teachers came to the fore, among them the [[Imeum of Lueng Bata|imeum of Lueng Bata]], who played a distinguished part as a military leader, and the hereditary uleebalangs of the [[Three Sagis|three sagis]] such as [[Teuku Lamreueng]], who fled to [[Keumala]] at the commencement of the war and later tendered his submission to the Dutch. The religious impetus to resistance was supplied by the ulama party, whose [[Holy War (Jihad) against the Dutch|jihad against the infidel Dutch]] was organised after the period of concentration and financed by *sabil* contributions drawn from the [[Jakeuet (zakat)|jakeuet]] or zakat.
 
-The war was resumed in 1896 after its long suspension, and from 1898 Governor [[Governor Van Heutsz|Van Heutsz]] directed a methodical offensive that within six years brought the country to what Snouck Hurgronje called "the beginning of the end." The young pretender to the sultanate, [[Tuanku Muhamat Dawot]], submitted to the Dutch Government in January [[1903]]. The struggle produced many celebrated Achehnese leaders and is recorded in the *Hikayat Prang Gompeuni*; it is treated, in its wider chronological frame, under the separate heading [[Acheh War]].
+The war was resumed in 1896 after its long suspension, and from 1898 Governor [[Joannes Benedictus van Heutsz|Van Heutsz]] directed a methodical offensive that within six years brought the country to what Snouck Hurgronje called "the beginning of the end." The young pretender to the sultanate, [[Tuanku Muhamat Dawot]], submitted to the Dutch Government in January [[1903]]. The struggle produced many celebrated Achehnese leaders and is recorded in the *Hikayat Prang Gompeuni*; it is treated, in its wider chronological frame, under the separate heading [[Acheh War]].
 
 ## Expanded account from *The Achehnese*, Vol. I — Dutch War in Acheh
 
@@ -74,7 +74,7 @@ After the first Dutch campaigns, the government adopted the [[Dutch Policy of 'C
 
 ### Course and Outcome
 
-The war dragged on with little prospect of Dutch victory as long as the policy of concentration was maintained. Hurgronje, as adviser to the Netherlands-Indian government, advocated a different course: co-operation with the uleebalangs, the systematic undermining of the prestige of the ulamas, and the substitution of a civil for a military administration in the occupied territory. These counsels prevailed under [[Governor Van Heutsz|Governor Van Heutsz]], under whom the line was broken and the country progressively brought under Dutch control. Hurgronje's own account in *The Achehnese* (1906) marks a stage in this final phase of the conflict.
+The war dragged on with little prospect of Dutch victory as long as the policy of concentration was maintained. Hurgronje, as adviser to the Netherlands-Indian government, advocated a different course: co-operation with the uleebalangs, the systematic undermining of the prestige of the ulamas, and the substitution of a civil for a military administration in the occupied territory. These counsels prevailed under [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]], under whom the line was broken and the country progressively brought under Dutch control. Hurgronje's own account in *The Achehnese* (1906) marks a stage in this final phase of the conflict.
 
 ## Account from *De Buitenbezittingen* (1917) — Aceh War
 
@@ -86,7 +86,7 @@ The Encyclopaedisch Bureau frames the conflict as fundamentally ideological. The
 
 ## The system of the flying columns, 1896–1904
 
-The accession of [[Joannes Benedictus van Heutsz|van Heutsz]] to the governorship in [[1898]] "beteekende het begin van eene geheel nieuwe periode." The "onverzoenlijke benden" that had hitherto found safe haven beyond the Dutch *postenlinie* were "sedert [[1896]] reeds door kleine, vliegende colonnes allerwege aangetast en vervolgd" under what the handbook calls the "systeem Graafland, van Daalen en van Heutsz" — the combined doctrine of column warfare pioneered by Graafland, [[G. C. E. van Daalen|van Daalen]] and van Heutsz. The campaigns culminated in the [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)|colonne van Daalen]] of [[1904]] and its sequel in [[1905]], which brought the "bolwerken der onverzoenlijken" — the strongholds of the irreconcilables — in the interior within Dutch influence. A "vrij hevige opflikkering van het verzet" still flared in [[1907]] and [[1908]], provoked by van Daalen's "al te hard doorgevoerde represaille-maatregelen" and by the "scherpe besnoeiing der adat-inkomsten," before [[H. N. A. Swart|Swart]]'s conciliatory policy from [[1908]] drew the coerced chiefs "steeds meer ook uit overtuiging aan onze zijde."
+The accession of [[Joannes Benedictus van Heutsz|van Heutsz]] to the governorship in [[1898]] "beteekende het begin van eene geheel nieuwe periode." The "onverzoenlijke benden" that had hitherto found safe haven beyond the Dutch *postenlinie* were "sedert [[1896]] reeds door kleine, vliegende colonnes allerwege aangetast en vervolgd" under what the handbook calls the "systeem Graafland, van Daalen en van Heutsz" — the combined doctrine of column warfare pioneered by Graafland, [[Gotfried Coenraad Ernst van Daalen|van Daalen]] and van Heutsz. The campaigns culminated in the [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)|colonne van Daalen]] of [[1904]] and its sequel in [[1905]], which brought the "bolwerken der onverzoenlijken" — the strongholds of the irreconcilables — in the interior within Dutch influence. A "vrij hevige opflikkering van het verzet" still flared in [[1907]] and [[1908]], provoked by van Daalen's "al te hard doorgevoerde represaille-maatregelen" and by the "scherpe besnoeiing der adat-inkomsten," before [[H. N. A. Swart|Swart]]'s conciliatory policy from [[1908]] drew the coerced chiefs "steeds meer ook uit overtuiging aan onze zijde."
 
 ## Human cost
 
@@ -102,7 +102,7 @@ The Atjeh-krijg was the longest and costliest colonial war in Dutch East Indies 
 
 ### Background
 
-The origins of the Aceh War lie in the **[[Anglo-Dutch Treaty of London (1824)]]**, which divided the Malay world into British and Dutch spheres of influence. Under the treaty, the Netherlands was assigned a role as "police agent" over Aceh, but was constrained from exercising direct control. This ambiguous arrangement allowed Aceh to maintain de facto independence while Dutch authority remained nominal.
+The origins of the Aceh War lie in the **[[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]**, which divided the Malay world into British and Dutch spheres of influence. Under the treaty, the Netherlands was assigned a role as "police agent" over Aceh, but was constrained from exercising direct control. This ambiguous arrangement allowed Aceh to maintain de facto independence while Dutch authority remained nominal.
 
 By the mid-19th century, Aceh's strategic position astride the **[[Strait of Malacca]]**—one of the world's busiest shipping lanes—made it increasingly important to colonial powers. The opening of the **[[Suez Canal]]** in [[1869]] heightened the strategic value of the strait. Meanwhile, Acehnese piracy and the practice of *kliprecht* (shipwreck rights) continued to provoke complaints from foreign powers, including the United States, Britain, and Italy.
 
@@ -126,7 +126,7 @@ From [[1884]], the Dutch adopted a defensive strategy, withdrawing to the **"Gec
 
 ### The War of Pacification (1896–1904)
 
-The turning point came with the arrival of **[[J. B. van Heutsz]]** as Governor of Aceh in [[1898]], advised by the scholar **[[C. Snouck Hurgronje]]**. Van Heutsz abandoned defensive tactics and adopted the *"doorzetten"* (push through) strategy, using small, mobile units called *marechaussees* to pursue guerrilla bands relentlessly.
+The turning point came with the arrival of **[[Joannes Benedictus van Heutsz|J. B. van Heutsz]]** as Governor of Aceh in [[1898]], advised by the scholar **[[C. Snouck Hurgronje]]**. Van Heutsz abandoned defensive tactics and adopted the *"doorzetten"* (push through) strategy, using small, mobile units called *marechaussees* to pursue guerrilla bands relentlessly.
 
 Key campaigns included:
 - **The conquest of Pidië** ([[1898]]–[[1899]])
@@ -142,11 +142,11 @@ Wøller records that "in 1873 the first, large expeditions were sent there, whic
 
 He attributes the war's long duration less to Atjehnese arms than to "the unbelievably wavering and changing policy, that the Dutch pursued": the "capable, 'one-eyed' general [[K. van der Heyden|van der Heyden]]" had, in the late 1870s, conquered [[Groot-Atjeh]] and subjected many chiefs, only for the Dutch to withdraw into a defensive posture and a disastrous reconciliation policy — allowing "the fanatical Imams and the few irreconcilable chiefs" to regain influence, and, in the 1890s, the defection of the erstwhile ally [[Teukoe Oemar|Toekoe Oemar]] to bring the whole effort to the brink of collapse.
 
-The turn came with [[J. B. van Heutsz|General Van Heutz]], "a man, who was at the same time a military leader and a statesman," appointed civil and military governor in March 1898 on the strength of his 1892 brochure *Atjehs onderwerping*. Wøller describes his brilliantly organised mobile columns — adopting the Atjehnese's own tactics and weapons — and a war fought "without quarter: no pardon was given, prisoners were not made... an endless series of forced, nerve-wracking marches, nightly surprises and ambushes, espionage and betrayal, acts of violence of every kind from both sides." For Wøller's own generation of Dutch officers, met at the garrison of [[Kotta Loempoer]] where he served, the word "Atjeh" meant precisely this three-decade war of attrition.
+The turn came with [[Joannes Benedictus van Heutsz|General Van Heutz]], "a man, who was at the same time a military leader and a statesman," appointed civil and military governor in March 1898 on the strength of his 1892 brochure *Atjehs onderwerping*. Wøller describes his brilliantly organised mobile columns — adopting the Atjehnese's own tactics and weapons — and a war fought "without quarter: no pardon was given, prisoners were not made... an endless series of forced, nerve-wracking marches, nightly surprises and ambushes, espionage and betrayal, acts of violence of every kind from both sides." For Wøller's own generation of Dutch officers, met at the garrison of [[Kotta Loempoer]] where he served, the word "Atjeh" meant precisely this three-decade war of attrition.
 
 ## Account from the Topografische Dienst catalogue (1933) — the chronological overview map
 
-The **Aceh War**'s status as a formally periodised episode of Dutch colonial history is confirmed by the [[Topografische Dienst|Topografische Dienst]]'s issue of a "Historisch-Chronologische overzichtskaart van den Atjeh-oorlog (1873 t/m 1896)" (Historical-Chronological Overview Map of the Aceh War, 1873 to 1896). This map, at a scale of 1:1,000,000, was printed in colour and sold for f0.50. Its existence — listed in the 1933 catalogue of the Topografische Dienst as a single sheet, with no year of original issue or reprint given, but still available for purchase at that time — confirms that the Dutch colonial administration considered the war a defined period running from [[1873]] to [[1896]], and that a specialized cartographic product was created to document its events chronologically and geographically. The map's terminal date of [[1896]] corresponds to the resumption of the war under [[Governor Van Heutsz|Van Heutsz]] described above; the existence of a dedicated historical-chronological map underscores the war's importance to the colonial state as a subject of official documentation and commemoration, and its timeline of [[1873]]–[[1896]] remains a key reference point for understanding the period of Dutch intervention in northern Sumatra.
+The **Aceh War**'s status as a formally periodised episode of Dutch colonial history is confirmed by the [[Topografische Dienst|Topografische Dienst]]'s issue of a "Historisch-Chronologische overzichtskaart van den Atjeh-oorlog (1873 t/m 1896)" (Historical-Chronological Overview Map of the Aceh War, 1873 to 1896). This map, at a scale of 1:1,000,000, was printed in colour and sold for f0.50. Its existence — listed in the 1933 catalogue of the Topografische Dienst as a single sheet, with no year of original issue or reprint given, but still available for purchase at that time — confirms that the Dutch colonial administration considered the war a defined period running from [[1873]] to [[1896]], and that a specialized cartographic product was created to document its events chronologically and geographically. The map's terminal date of [[1896]] corresponds to the resumption of the war under [[Joannes Benedictus van Heutsz|Van Heutsz]] described above; the existence of a dedicated historical-chronological map underscores the war's importance to the colonial state as a subject of official documentation and commemoration, and its timeline of [[1873]]–[[1896]] remains a key reference point for understanding the period of Dutch intervention in northern Sumatra.
 
 ## Account from *In Memoriam Maurice Henri du Croo* (1951) — Aceh War (1920s patrolling)
 
@@ -154,15 +154,15 @@ The **Aceh War** (also known as the *Atjeh-oorlog*) was a prolonged armed confli
 
 ### In Colonial Memory
 
-The Dutch journalist Johan Luger, writing in the memorial for [[Maurice Henri du Croo|du Croo]], called Aceh "het lastige kindje dat Atjeh heette" — the troublesome child called Atjeh. Du Croo's book *[[Marechaussée in Atjeh (book)|Marechaussée in Atjeh]]* (co-authored with [[Schmidt (Kolonel)|Kolonel Schmidt]]) aimed to convey "het beeld van Atjeh en de Atjehoorlog, zoals dat in die officieren heeft geleefd" — the image of Aceh and the war as it lived in the officers who fought there. Together with the same authors' *[[Generaal Swart (book)|Generaal Swart]]* — a biography of the [[H. N. A. Swart|Swart]] administration under which the war was brought to its formal conclusion — *Marechaussée in Atjeh* forms part of the interwar literary commemoration of the conflict by the [[K.N.I.L.]] officer corps.
+The Dutch journalist Johan Luger, writing in the memorial for [[Maurice Henri du Croo|du Croo]], called Aceh "het lastige kindje dat Atjeh heette" — the troublesome child called Atjeh. Du Croo's book *[[Marechaussée in Atjeh (book)|Marechaussée in Atjeh]]* (co-authored with [[Schmidt|Kolonel Schmidt]]) aimed to convey "het beeld van Atjeh en de Atjehoorlog, zoals dat in die officieren heeft geleefd" — the image of Aceh and the war as it lived in the officers who fought there. Together with the same authors' *[[H. N. A. Swart|Generaal Swart]]* — a biography of the [[H. N. A. Swart|Swart]] administration under which the war was brought to its formal conclusion — *Marechaussée in Atjeh* forms part of the interwar literary commemoration of the conflict by the [[K.N.I.L.]] officer corps.
 
 *Source: In Memoriam Maurice Henri du Croo* (1951), pp. 5, 6, 10, 20 (Meyer Ranneft, Luger).
 
 ## Account from *Het Land van Jan Pieterszoon Coen* ([[1891]]) — the popular narrative
 
-[[Dr. W. A. Terwogt|Dr. W. A. Terwogt]]'s *[[Het Land van Jan Pieterszoon Coen (Terwogt)|Het Land van Jan Pieterszoon Coen]]* — a popular thirteen-chapter history of the Dutch in the East Indies, published by P. Geerts at [[Hoorn|Hoorn]] at the end of [[1891]] — treats the Atjeh-oorlog in the closing pages of its thirteenth chapter. The account is a continuous narrative from the [[1857]] treaty of [[Van Swieten|Van Swieten]] through the [[Eerste Atjeh-expeditie (1873)|first]] and [[Tweede Atjeh-expeditie (1873-1874)|second]] expeditions of [[1873]]–[[1874]] to the protracted guerrilla of the 1880s, and it is notable for its frank acknowledgment of the Dutch defeat in the first expedition and for its judgment that the war continued "onverzwakt" (unabated) at the time of writing. The full account is treated in [[Terwogt's account of the Atjeh-oorlog (1891)]].
+[[Dr. W. A. Terwogt|Dr. W. A. Terwogt]]'s *[[Het Land van Jan Pieterszoon Coen (Terwogt)|Het Land van Jan Pieterszoon Coen]]* — a popular thirteen-chapter history of the Dutch in the East Indies, published by P. Geerts at [[Hoorn|Hoorn]] at the end of [[1891]] — treats the Atjeh-oorlog in the closing pages of its thirteenth chapter. The account is a continuous narrative from the [[1857]] treaty of [[Jan van Swieten|Jan van Swieten]] through the [[Eerste Atjeh-expeditie (1873)|first]] and [[Tweede Atjeh-expeditie (1873-1874)|second]] expeditions of [[1873]]–[[1874]] to the protracted guerrilla of the 1880s, and it is notable for its frank acknowledgment of the Dutch defeat in the first expedition and for its judgment that the war continued "onverzwakt" (unabated) at the time of writing. The full account is treated in [[Terwogt's account of the Atjeh-oorlog (1891)]].
 
-[[Dr. W. A. Terwogt|Terwogt]]'s key judgments: the first expedition was begun "met te geringe macht, overmoedig, met volkomen miskenning van de dapperheid en doodsverachting der Atjehers" (with too small a force, overconfident, with complete misappreciation of the bravery and death-defiance of the Atjehnese); the death of [[J. H. R. Köhler|Generaal-Majoor Köhler]] and the failed assault on the Kraton by [[Van Daalen|Van Daalen]] led to the withdrawal of [[25 April]] [[1873]] — "Zoo eindigde deze expeditie op treurige wijze. Wij hadden de nederlaag geleden" (Thus ended this expedition in a sad manner. We had suffered the defeat). The second expedition under [[Van Swieten|Van Swieten]] — over 6,000 strong, landed under [[Verspijck|Verspijck]] on [[9 December]] [[1873]] — occupied the Kraton on [[24 January]] [[1874]] (found deserted), named it [[Kutaradja|Kota-Radja]], and entrusted the command to [[Kolonel Pel|Kolonel Pel]]. The war continued, however, "onverzwakt" (unabated) to the end of [[1891]], thanks to the "wisselende houding" (wavering attitude) of the Dutch government. The account closes with the hope placed in the new Minister of Colonies, [[W. K. Baron van Dedem|W. K. Baron van Dedem]], who declared that he expected no good from "toegeven en zachtheid" (yielding and softness) toward the "fanatieken Atjeher" (fanatical Atjehnese).
+[[Dr. W. A. Terwogt|Terwogt]]'s key judgments: the first expedition was begun "met te geringe macht, overmoedig, met volkomen miskenning van de dapperheid en doodsverachting der Atjehers" (with too small a force, overconfident, with complete misappreciation of the bravery and death-defiance of the Atjehnese); the death of [[J. H. R. Köhler|Generaal-Majoor Köhler]] and the failed assault on the Kraton by [[Gotfried Coenraad Ernst van Daalen|Gotfried Coenraad Ernst van Daalen]] led to the withdrawal of [[25 April]] [[1873]] — "Zoo eindigde deze expeditie op treurige wijze. Wij hadden de nederlaag geleden" (Thus ended this expedition in a sad manner. We had suffered the defeat). The second expedition under [[Jan van Swieten|Jan van Swieten]] — over 6,000 strong, landed under [[Verspijck|Verspijck]] on [[9 December]] [[1873]] — occupied the Kraton on [[24 January]] [[1874]] (found deserted), named it [[Kutaradja|Kota-Radja]], and entrusted the command to [[J. L. J. H. Pel|J. L. J. H. Pel]]. The war continued, however, "onverzwakt" (unabated) to the end of [[1891]], thanks to the "wisselende houding" (wavering attitude) of the Dutch government. The account closes with the hope placed in the new Minister of Colonies, [[W. K. Baron van Dedem|W. K. Baron van Dedem]], who declared that he expected no good from "toegeven en zachtheid" (yielding and softness) toward the "fanatieken Atjeher" (fanatical Atjehnese).
 
 ## See Also
 
@@ -177,7 +177,7 @@ The Dutch journalist Johan Luger, writing in the memorial for [[Maurice Henri du
 - [[Achehnese War]]
 - [[Holy War (Jihad) against the Dutch]]
 - [[Tuanku Muhamat Dawot]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[Teuku Uma]]
 - [[Teungku Tiro]]
 - [[Acheh War]]
@@ -192,9 +192,9 @@ The Dutch journalist Johan Luger, writing in the memorial for [[Maurice Henri du
 - [[Keumala]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]
 - [[Joannes Benedictus van Heutsz]]
-- [[G. C. E. van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[H. N. A. Swart]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)]]
 - [[1907–1908 Aceh resistance]]
 - [[Bijlage IV]]
@@ -208,15 +208,15 @@ The Dutch journalist Johan Luger, writing in the memorial for [[Maurice Henri du
 - [[1905]]
 - [[1907]]
 - [[1908]]
-- [[J. B. van Heutsz]]
-- [[Anglo-Dutch Treaty of London (1824)]]
-- [[Padri War on Sumatra's East Coast]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
+- [[Padri War|Padri War on Sumatra's East Coast]]
 - [[Kutaradja]]
 - [[Batêê Iliê]]
 - [[Teukoe Oema]]
 - [[Panglima Polem]]
 - [[General Köhler]]
-- [[General Van Swieten]]
+- [[Jan van Swieten|General Van Swieten]]
 - [[Van Daalen's Gajo Expedition]]
 - [[Topografische Dienst]]
 - [[Submission of Aceh]]
@@ -226,8 +226,8 @@ The Dutch journalist Johan Luger, writing in the memorial for [[Maurice Henri du
 - [[K. van der Heyden]]
 - [[Maurice Henri du Croo]]
 - [[Marechaussée in Atjeh (book)]]
-- [[Generaal Swart (book)]]
-- [[Schmidt (Kolonel)]]
+- [[H. N. A. Swart|Generaal Swart (book)]]
+- [[Schmidt|Schmidt (Kolonel)]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[Orde van Oranje-Nassau]]
 - [[Het Land van Jan Pieterszoon Coen (Terwogt)]]

@@ -15,7 +15,7 @@ Faure had acted as interpreter to the Transvaal deputation received in London in
 
 ## The comparative framework
 
-The Faure-Chamberlain correspondence is cited by Van der Kemp as a parallel to the controversies surrounding the [[Acheh treaty of 1819]] and the [[Anglo-Dutch Treaty of London (1824)]]. In both cases — the Transvaal suzerainty and the Sumatra supremacy — a clause inserted for political reasons and at first represented as of no consequence was later invested with decisive weight. In a footnote on page 58, Van der Kemp writes of "the famous question of the suzerainty of England over the Transvaal," and observes: "There, too, the negotiations over which no minutes were kept, and over a clause originally proposed only for the sake of the 'opposition' and otherwise represented as signifying nothing — for which reason the Transvaal acquiesced in it — was finally destined to serve as a war-drum." The reader is referred to Appendix 12 (the Faure letter).
+The Faure-Chamberlain correspondence is cited by Van der Kemp as a parallel to the controversies surrounding the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] and the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]. In both cases — the Transvaal suzerainty and the Sumatra supremacy — a clause inserted for political reasons and at first represented as of no consequence was later invested with decisive weight. In a footnote on page 58, Van der Kemp writes of "the famous question of the suzerainty of England over the Transvaal," and observes: "There, too, the negotiations over which no minutes were kept, and over a clause originally proposed only for the sake of the 'opposition' and otherwise represented as signifying nothing — for which reason the Transvaal acquiesced in it — was finally destined to serve as a war-drum." The reader is referred to Appendix 12 (the Faure letter).
 
 ## Van der Kemp's wider polemic
 
@@ -30,7 +30,7 @@ The point is part of Van der Kemp's broader argument that, in colonial negotiati
 - [[Suzerainty question]]
 - [[London Convention on Transvaal (1884)]]
 - [[Faure's letter on Transvaal suzerainty]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Source
 
@@ -48,7 +48,7 @@ Faure had acted as interpreter to the Transvaal deputation received in London in
 
 ## The comparative framework
 
-The Faure-Chamberlain correspondence is cited by Van der Kemp as a parallel to the controversies surrounding the [[Acheh treaty of 1819]] and the [[Anglo-Dutch Treaty of London (1824)]]. In both cases — the Transvaal suzerainty and the Sumatra supremacy — a clause inserted for political reasons and at first represented as of no consequence was later invested with decisive weight. In a footnote on page 58, Van der Kemp writes of "the famous question of the suzerainty of England over the Transvaal," and observes: "There, too, the negotiations over which no minutes were kept, and over a clause originally proposed only for the sake of the 'opposition' and otherwise represented as signifying nothing — for which reason the Transvaal acquiesced in it — was finally destined to serve as a war-drum." The reader is referred to Appendix 12 (the Faure letter).
+The Faure-Chamberlain correspondence is cited by Van der Kemp as a parallel to the controversies surrounding the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] and the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]. In both cases — the Transvaal suzerainty and the Sumatra supremacy — a clause inserted for political reasons and at first represented as of no consequence was later invested with decisive weight. In a footnote on page 58, Van der Kemp writes of "the famous question of the suzerainty of England over the Transvaal," and observes: "There, too, the negotiations over which no minutes were kept, and over a clause originally proposed only for the sake of the 'opposition' and otherwise represented as signifying nothing — for which reason the Transvaal acquiesced in it — was finally destined to serve as a war-drum." The reader is referred to Appendix 12 (the Faure letter).
 
 ## Van der Kemp's wider polemic
 
@@ -63,7 +63,7 @@ The point is part of Van der Kemp's broader argument that, in colonial negotiati
 - [[Suzerainty question]]
 - [[London Convention on Transvaal (1884)]]
 - [[Faure's letter on Transvaal suzerainty]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Source
 

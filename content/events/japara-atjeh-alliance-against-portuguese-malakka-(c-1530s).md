@@ -20,7 +20,7 @@ About twenty years after Oenoes's failed attack, the Vorstin (Queen) of Japara "
 
 The alliance is significant for several reasons:
 
-1. It shows the early reach of Atjeh's diplomatic and military engagement with the Javanese north-coast polities — an engagement that would later be supplemented by the [[Atjeh embassy to Prince Maurits at Grave (1602)|1602 embassy to Prince Maurits]] and the [[Pieter Soury's mission to Atjeh (1641)|1641 Soury embassy]].
+1. It shows the early reach of Atjeh's diplomatic and military engagement with the Javanese north-coast polities — an engagement that would later be supplemented by the [[Aceh Embassy to Prince Maurits at Grave (1602)|1602 embassy to Prince Maurits]] and the [[Pieter Soury's mission to Atjeh (1641)|1641 Soury embassy]].
 2. It places Atjeh at the centre of the cross-archipelagic anti-Portuguese coalition that would persist, in various forms, for the next century.
 3. It frames the long Atjeh-Portuguese conflict that would culminate in the [[Conquest of Portuguese Malakka (1641)|VOC–Atjeh–Djohor conquest of 1641]].
 

@@ -9,7 +9,7 @@ description: The Acehnese parish — a grouping of gampongs sharing a Friday mos
 
 ## Origin
 
-When a number of gampongs lay sufficiently close to one another to admit of their being united into a single Friday association in accordance with the behests of Islamic law, they constructed a [[Meusigit|mosque]] (*meusigit*), choosing the most central possible site. This might fall within one of the gampongs so united, or in a place lying without all the gampong enclosures. For some of these associations the term "district" would be the most applicable name; for others, whose gampongs rather resembled "wards," the term "parish" corresponded most exactly — this being the comparison drawn by [[R.J. Wilkinson]] and adopted also in [[Penang]] and Province Wellesley under British administration.
+When a number of gampongs lay sufficiently close to one another to admit of their being united into a single Friday association in accordance with the behests of Islamic law, they constructed a [[Meusigit|mosque]] (*meusigit*), choosing the most central possible site. This might fall within one of the gampongs so united, or in a place lying without all the gampong enclosures. For some of these associations the term "district" would be the most applicable name; for others, whose gampongs rather resembled "wards," the term "parish" corresponded most exactly — this being the comparison drawn by [[R. J. Wilkinson|R.J. Wilkinson]] and adopted also in [[Penang]] and Province Wellesley under British administration.
 
 ## The Imeum Mukim
 
@@ -24,13 +24,13 @@ The head of the mukim was the **[[Imeum Mukim]]** (*imeum*, from Arabic *imam*),
 
 ## Use of the Term Elsewhere
 
-[[R.J. Wilkinson]] noted that in [[Penang]] and Province Wellesley the English Government had adopted the word *mukim* to designate the minor subdivisions of a district for administrative purposes — corresponding almost exactly to "parish." In the Federated Malay States the word had the same modified meaning as in Acheh.
+[[R. J. Wilkinson|R.J. Wilkinson]] noted that in [[Penang]] and Province Wellesley the English Government had adopted the word *mukim* to designate the minor subdivisions of a district for administrative purposes — corresponding almost exactly to "parish." In the Federated Malay States the word had the same modified meaning as in Acheh.
 
 The word *mukim* in Kedah bore the same modified meaning as in Acheh. Newbold (*British Settlements in the Straits of Malacca* II:20) observed that in the former place each mukim consisted originally of at least 44 families, a clear indication of the original intent of this territorial subdivision.
 
 ## Account from *De Buitenbezittingen* (1917) — Moekim
 
-**The moekim** was the intermediate territorial and religious unit of [[Groot-Atjeh|Groot-Atjeh]] and the surrounding Atjehsche lands, defined as the *Vrijdagskring* — the Friday-service circle — formed by a group of [[Gampong|gampongs]] around a common *meuseugit* (mosque) where the obligatory Friday congregational prayer was held. *De Buitenbezittingen* follows Prof. Dr. [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s treatment in *De Atjehers* (Vol. I, p. 84 e.v.) in describing the moekim as the link between the [[Gampong|gampong]] and the *oelèëbalangschap*, a constitutionally significant unit whose head, the [[Imeum|imeum]], often rivalled the territorial chief himself.
+**The moekim** was the intermediate territorial and religious unit of [[Groot-Atjeh|Groot-Atjeh]] and the surrounding Atjehsche lands, defined as the *Vrijdagskring* — the Friday-service circle — formed by a group of [[Gampong|gampongs]] around a common *meuseugit* (mosque) where the obligatory Friday congregational prayer was held. *De Buitenbezittingen* follows Prof. Dr. [[C. Snouck Hurgronje|Snouck Hurgronje]]'s treatment in *De Atjehers* (Vol. I, p. 84 e.v.) in describing the moekim as the link between the [[Gampong|gampong]] and the *oelèëbalangschap*, a constitutionally significant unit whose head, the [[Imeum|imeum]], often rivalled the territorial chief himself.
 
 ## Religious origin
 
@@ -62,7 +62,7 @@ Under a strong oelèëbalang, the imeum was "niet veel meer dan tusschenpersoon"
 - [[Oelèëbalang]]
 - [[Sagi]]
 - [[Meuseugit]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Groot-Atjeh]]
 - [[Adat]]
 - [[Hoeköm]]

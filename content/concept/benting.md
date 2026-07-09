@@ -25,7 +25,7 @@ The benting was the basic unit of the Dutch system of perimeter consolidation in
 - [[Lamara Olejlo fortification (15 February 1875)]]
 - [[Capture of Mandarsah Poetih (28 January 1875)]]
 - [[Capture of Pungej Blang Tjoet (23 January 1875)]]
-- [[Bamboe-doerie]]
+- [[Bamboe-doeri|Bamboe-doerie]]
 - [[Ranjoe]]
 - [[Cornelis Jacobus Snijders]]
 - [[J. L. J. H. Pel]]

@@ -25,7 +25,7 @@ The Kroeëng Wojla's alternative name *Inong Wojla* — "*Inong* = moeder" — i
 - [[Kroeëng]]
 - [[Kroeëng Teunom]]
 - [[Lao Alas]]
-- [[Kroeëng Meureubo]]
+- [[Krueng Meureubo|Kroeëng Meureubo]]
 - [[Kroeëng Seunagan]]
 - [[Meulaboh]]
 - [[Tapatoean]]

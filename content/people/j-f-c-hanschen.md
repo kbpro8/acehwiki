@@ -3,7 +3,7 @@ title: J. F. C. Hanschen
 aliases: [J.F.C. Hanschen]
 tags: [person, marine, dutch]
 ---
-**J. F. C. Hanschen** was a **[[matroos|matrose]]** of 2nd class in the **[[Korps Mariniers]]** who, during the **[[Expedition to Retch 1858|1858 assault]]**, climbed the fort’s gate after the **[[rotan|rattan]]** barrier had been cut and planted the Dutch tricolour.
+**J. F. C. Hanschen** was a **[[matroos|matrose]]** of 2nd class in the **[[Royal Netherlands Marine Corps|Korps Mariniers]]** who, during the **[[Expedition to Retch 1858|1858 assault]]**, climbed the fort’s gate after the **[[rotan|rattan]]** barrier had been cut and planted the Dutch tricolour.
 
 ## Action at Retch
 
@@ -13,7 +13,7 @@ Hanschen’s act of raising the flag symbolised the Dutch capture of the fort. H
 
 - [[Expedition to Retch 1858]]
 - [[Rotan (rattan)]]
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 
 ## Source
 

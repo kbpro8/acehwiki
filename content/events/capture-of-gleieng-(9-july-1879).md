@@ -4,7 +4,7 @@ aliases: [Inname van Gleiêng, Fall of Gléiëng, Verovering van Gleiêng, Conqu
 tags: [event, battle, military, dutch-colonial, aceh-war]
 ---
 
-**The Capture of Gleiêng** (also written Gléiëng) on [[9 July]] [[1879]] was the taking of the fortified and well-armed chief place of [[Panglima Polim|Panglima Polim]] in the [[XXII Moekims|XXII Moekims]] of [[Acheh|Atjeh]] by the Dutch troops under the governor [[K. van der Heyden|Major-general K. van der Heyden]], the culminating episode of the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]]. With the fall of Gleiêng, the resistance of the XXII Moekims was broken, and those who wished to continue the war fled to the [[XXVI Moekims|XXVI Moekims]], from which they were in turn driven by the [[Campaign against the XXVI Moekims (July 1879)|campaign of early July 1879]].
+**The Capture of Gleiêng** (also written Gléiëng) on [[9 July]] [[1879]] was the taking of the fortified and well-armed chief place of [[Panglima Polem|Panglima Polem]] in the [[XXII Moekims|XXII Moekims]] of [[Acheh|Atjeh]] by the Dutch troops under the governor [[K. van der Heyden|Major-general K. van der Heyden]], the culminating episode of the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]]. With the fall of Gleiêng, the resistance of the XXII Moekims was broken, and those who wished to continue the war fled to the [[XXVI Moekims|XXVI Moekims]], from which they were in turn driven by the [[Campaign against the XXVI Moekims (July 1879)|campaign of early July 1879]].
 
 ## Background
 
@@ -12,7 +12,7 @@ After the [[Capture of Indrapuri (24 March 1879)|capture of Indrapuri on 24 Marc
 
 ## The Capture
 
-As the operations for the submission of the XXII Moekims had to be continued, the troops on [[31 May]] [1879] again advanced on Gleiêng, the fortified and well-armed chief place of [[Panglima Polim|Panglima Polim]]. "After a tiring march and repeated fights, this was at last reached and taken on [[9 July]] [1879]."
+As the operations for the submission of the XXII Moekims had to be continued, the troops on [[31 May]] [1879] again advanced on Gleiêng, the fortified and well-armed chief place of [[Panglima Polem|Panglima Polem]]. "After a tiring march and repeated fights, this was at last reached and taken on [[9 July]] [1879]."
 
 ## Significance
 
@@ -23,7 +23,7 @@ The fall of Gleiêng opened the way to the [[Campaign against the XXVI Moekims (
 ## See Also
 
 - [[K. van der Heyden]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Gleiêng]]
 - [[XXII Moekims]]
 - [[Capture of Indrapuri (24 March 1879)]]

@@ -25,7 +25,7 @@ For AcehWiki, Nieuwenhuizen is significant as the Dutch Commissaris who directed
 - [[Aceh War]]
 - [[Eerste Atjeh-expeditie (1873)]]
 - [[J. H. R. Köhler]]
-- [[Van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [[22 March]]
 - [[26 March]]
 - [[28 March]]

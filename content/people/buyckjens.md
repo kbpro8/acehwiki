@@ -21,7 +21,7 @@ Buyckjens's backward glance — the concentrated line, the Graafland era, the de
 
 ## The Governor Swart
 
-"Under the administration of Governor Swart the Aceh War came to an end," Buyckjens resumed again, "then gradually regulated conditions entered, and everywhere peace, order, and security began to prevail." Under the administration of Governor [[Generaal Swart|Swart]] the [[Atjeh-oorlog|Aceh War]] came to an end, Buyckjens resumed: then gradually regulated conditions entered and everywhere peace, order, and security began to prevail.
+"Under the administration of Governor Swart the Aceh War came to an end," Buyckjens resumed again, "then gradually regulated conditions entered, and everywhere peace, order, and security began to prevail." Under the administration of Governor [[H. N. A. Swart|Swart]] the [[Atjeh-oorlog|Aceh War]] came to an end, Buyckjens resumed: then gradually regulated conditions entered and everywhere peace, order, and security began to prevail.
 
 ## Significance
 
@@ -33,8 +33,8 @@ Buyckjens is significant in *[[Oost-Indisch Journael]]* as the study-journey com
 - [Geconcentreerde linie](/concept/geconcentreerde-linie)
 - [[Gilles Graafland]]
 - [[Teukoe Oemar]]
-- [[Gouverneur-Generaal Van Heutsz]]
-- [[Generaal Swart]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
+- [[H. N. A. Swart|Generaal Swart]]
 - [[Pidië-expeditie]]
 - [[Pasé-expeditie]]
 - [[Samalanga-expeditie]]
@@ -67,7 +67,7 @@ Buyckjens's backward glance — the concentrated line, the Graafland era, the de
 
 ## The Governor Swart
 
-"Under the administration of Governor Swart the Aceh War came to an end," Buyckjens resumed again, "then gradually regulated conditions entered, and everywhere peace, order, and security began to prevail." Under the administration of Governor [[Generaal Swart|Swart]] the [[Atjeh-oorlog|Aceh War]] came to an end, Buyckjens resumed: then gradually regulated conditions entered and everywhere peace, order, and security began to prevail.
+"Under the administration of Governor Swart the Aceh War came to an end," Buyckjens resumed again, "then gradually regulated conditions entered, and everywhere peace, order, and security began to prevail." Under the administration of Governor [[H. N. A. Swart|Swart]] the [[Atjeh-oorlog|Aceh War]] came to an end, Buyckjens resumed: then gradually regulated conditions entered and everywhere peace, order, and security began to prevail.
 
 ## Significance
 
@@ -79,8 +79,8 @@ Buyckjens is significant in *[[Oost-Indisch Journael]]* as the study-journey com
 - [Geconcentreerde linie](/concept/geconcentreerde-linie)
 - [[Gilles Graafland]]
 - [[Teukoe Oemar]]
-- [[Gouverneur-Generaal Van Heutsz]]
-- [[Generaal Swart]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
+- [[H. N. A. Swart|Generaal Swart]]
 - [[Pidië-expeditie]]
 - [[Pasé-expeditie]]
 - [[Samalanga-expeditie]]

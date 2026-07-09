@@ -9,7 +9,7 @@ tags: [place, aceh, river]
 The bridge was built under fire, demonstrating the logistical capabilities of the expeditionary force.
 
 ## See Also
-- [[Lieutenant Verhey]]
+- [[J. B. Verhey|Lieutenant Verhey]]
 - [[Major B. Mekern]]
 - [[Battle of Daroe]]
 - [[Construction of benteng at Bockit-Daroe]]

@@ -4,7 +4,7 @@ aliases: [Koninginnedag, Queen's Day, Koninginnedag rondgang]
 tags: [concept, ceremony, colonial, dutch]
 ---
 
-**Koninginnedag** — "Queen's Day" — was the annual celebration of the Queen's birthday in the [[Nederlands-Indië|Dutch East Indies]], the occasion on which every *[[negorij]]* on [[Ambon]] had its *fluitorkest* (flute orchestra) make a *rondgang* (tour) along the Resident and the Militaire Commandant. In *[[Oom Ambon van het K.N.I.L.]]* Koninginnedag is the book's set-piece of the colonial loyalty of the Ambonese *negorij*: the day on which the *negorij*'s pride in its soldiers — its *Ridders [[Militaire Willemsorde (M.W.O.)|M.W.O.]]*, its *[[Medaille voor Moed en Trouw]]* dragers, its *[[Kroontje (Eervolle Vermelding)|Kroontje]]* holders — was made visible.
+**Koninginnedag** — "Queen's Day" — was the annual celebration of the Queen's birthday in the [[Nederlands-Indië|Dutch East Indies]], the occasion on which every *[[negorij]]* on [[Ambon]] had its *fluitorkest* (flute orchestra) make a *rondgang* (tour) along the Resident and the Militaire Commandant. In *[[Oom Ambon van het K.N.I.L.]]* Koninginnedag is the book's set-piece of the colonial loyalty of the Ambonese *negorij*: the day on which the *negorij*'s pride in its soldiers — its *Ridders [[Militaire Willemsorde|M.W.O.]]*, its *[[Medaille voor Moed en Trouw]]* dragers, its *[[Kroontje (Eervolle Vermelding)|Kroontje]]* holders — was made visible.
 
 ## The rondgang on Ambon
 
@@ -24,7 +24,7 @@ Koninginnedag is significant in *[[Oom Ambon van het K.N.I.L.]]* as the annual c
 
 ## See Also
 
-- [[Koningin Wilhelmina]]
+- [[Queen Wilhelmina|Koningin Wilhelmina]]
 - [[Negorij]]
 - [[Ambon]]
 - [[Tangsi]]

@@ -6,7 +6,7 @@ tags: [organization, aceh, rebel, 18th-century]
 **Corentij overlopers** were a loosely organised group of Acehnese rebels drawn from the Corentij district of [[Acheh]] who participated in the 1764 Dutch military campaign against the colony of Berbice. Dutch sources describe them as “Corentij overlopers van het Surinaamsche grensdetachement,” indicating that they operated as frontier fighters along the border of the Surinamese colony.
 
 ### Composition and leadership
-The group was led by the Acehnese *opperhoofd* [[Atta (Acehnese leader)]]. Their ranks included “een talrijke negerbende” (a large band of African slaves) who had allied with the Acehnese fighters, as well as local indigenous guides. The rebels employed ambush tactics from the dense jungle along the [[Wikkie-kreek]] and were responsible for the death of several Dutch officers, including Captain [[Smith Luyten]].
+The group was led by the Acehnese *opperhoofd* [[Atta (rebel leader)|Atta (Acehnese leader)]]. Their ranks included “een talrijke negerbende” (a large band of African slaves) who had allied with the Acehnese fighters, as well as local indigenous guides. The rebels employed ambush tactics from the dense jungle along the [[Wikkie creek|Wikkie-kreek]] and were responsible for the death of several Dutch officers, including Captain [[Smith Luyten]].
 
 ### Operations
 Key actions recorded in the Dutch marine journal include:
@@ -18,9 +18,9 @@ Key actions recorded in the Dutch marine journal include:
 The Corentij overlopers’ resistance contributed to a prolonged period of instability in the Berbice colony, compelling the Dutch to dispatch additional marine forces and to fortify their positions. Their involvement demonstrates the reach of Acehnese anti‑colonial networks into the Caribbean theatre.
 
 ## See Also
-- [[Atta (Acehnese leader)]]
+- [[Atta (rebel leader)|Atta (Acehnese leader)]]
 - [[Corentij (region)]]
-- [[Wikkie-kreek]]
+- [[Wikkie creek|Wikkie-kreek]]
 - [[Colonel De Salve]]
 - [[Berbice (colony)]]
 

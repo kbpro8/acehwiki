@@ -3,7 +3,7 @@ title: Hindostan
 aliases: [Hindustan, Nederlandsch Hindostan, Dutch India, British India]
 tags: [place, indian-subcontinent, dutch-india, british-india, treaty-of-london-1824]
 ---
-**Hindostan** (also **Hindustan**) was the term used in nineteenth-century Dutch and English colonial writing to denote the Indian subcontinent, and in particular the network of European factories — that is, trading posts — that the Dutch East India Company and its successors had maintained along the Coromandel and Malabar coasts, in Bengal and at Surat. In P. H. van der Kemp's account of the [[Raffles' Atjeh-overeenkomst van 1819|Aceh agreement of 1819]] and the long *paper war* that followed it, **Nederlandsch Hindostan** — the Dutch possessions in India — occupies a central place, because it was the principal counter with which the Netherlands bargained away the British presence on [[Sumatra]] in the [[Treaty of London (1824)|treaty of 1824]].
+**Hindostan** (also **Hindustan**) was the term used in nineteenth-century Dutch and English colonial writing to denote the Indian subcontinent, and in particular the network of European factories — that is, trading posts — that the Dutch East India Company and its successors had maintained along the Coromandel and Malabar coasts, in Bengal and at Surat. In P. H. van der Kemp's account of the [[Raffles' Atjeh-overeenkomst van 1819|Aceh agreement of 1819]] and the long *paper war* that followed it, **Nederlandsch Hindostan** — the Dutch possessions in India — occupies a central place, because it was the principal counter with which the Netherlands bargained away the British presence on [[Sumatra]] in the [[Anglo-Dutch Treaty of 1824|treaty of 1824]].
 
 Van der Kemp introduces the Hindostan question in connection with the Anglo-Dutch disputes that arose after the Convention of London of 13 August [[1814]], by which Britain restored the Dutch colonial empire after the Napoleonic Wars. He notes that the Dutch return to Hindostan was viewed with displeasure by the British: "De Engelschen zagen ons met leede oogen terugkomen in Hindostan; terwijl van [[Bencoolen|Benkoelen]] uit, Raffles tegen ons gezag op [[Sumatra]] en verder in den Archipel intrigeerde." British Indian officials at [[Bengal|Bengal]] suggested, in Van der Kemp's words, "hoeveel verstandiger het zou zijn, dat we de factorijen prijsgaven voor eene compensatie in den Archipel" — how much wiser it would be for the Dutch to give up the factories in exchange for a compensation in the archipelago. The Dutch side was inclined to agree: "Over de waardeloosheid van de Hindostanische bezittingen waren het in [[1814]] Falck en Fagel reeds bij het sluiten van het toenmalig koloniaal tractaat eens." The Hindostan factories were already in 1814 judged worthless by Falck and Fagel.
 
@@ -19,7 +19,7 @@ The cession of Nederlandsch Hindostan in [[1824]] closed a chapter in the Europe
 - [[Sumatra]]
 - [[Malacca]]
 - [[Singapore]]
-- [[Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Treaty of London (1824)]]
 - [[Bengal]]
 - [[Raffles' Atjeh-overeenkomst van 1819]]
 

@@ -16,7 +16,7 @@ By [[February 1892]] Snouck Hurgronje had got together enough preliminary matter
 
 ## Influence on the conduct of the war
 
-When, in early [[1899]], the translator A.W.S. O'Sullivan informed Snouck Hurgronje of his project of rendering the work into English, it was precisely the moment at which the real conquest of Acheh was being commenced under [[Governor Van Heutsz|General Van Heutsz]], and Snouck Hurgronje himself — spending a great deal of his time in that country — was in an incomparably better position to investigate the old pirate-state than he had been in [[1891]] and [[1892]]. Under his advice the Dutch abandoned the [[Dutch policy of 'concentration'|concentration scheme]] and turned to the active subjugation of the country through lightly equipped native troops under European officers, operating in small detachments against the guerrilla bands of the ulamas. Within six years this new policy had brought about the submission of almost all chiefs of mark, including — in [[January 1903]] — the [[Submission of Tuanku Muhamat Dawot|Pretender-Sultan Tuanku Muhamat Dawot]] himself.
+When, in early [[1899]], the translator A.W.S. O'Sullivan informed Snouck Hurgronje of his project of rendering the work into English, it was precisely the moment at which the real conquest of Acheh was being commenced under [[Joannes Benedictus van Heutsz|General Van Heutsz]], and Snouck Hurgronje himself — spending a great deal of his time in that country — was in an incomparably better position to investigate the old pirate-state than he had been in [[1891]] and [[1892]]. Under his advice the Dutch abandoned the [[Dutch policy of 'concentration'|concentration scheme]] and turned to the active subjugation of the country through lightly equipped native troops under European officers, operating in small detachments against the guerrilla bands of the ulamas. Within six years this new policy had brought about the submission of almost all chiefs of mark, including — in [[January 1903]] — the [[Submission of Tuanku Muhamat Dawot|Pretender-Sultan Tuanku Muhamat Dawot]] himself.
 
 The mission thus proved decisive not merely as an episode of colonial scholarship but as the intellectual precondition of the Dutch victory. The period separating the Dutch edition of [[1893]]–[[1894]] from the English translation of [[1906]] placed, as Snouck Hurgronje himself observed, the seal of truth upon the diagnosis of the disease made by him in [[1892]], when many doubted him, while other doctors thought that the complaint was beyond healing.
 
@@ -25,7 +25,7 @@ The mission thus proved decisive not merely as an episode of colonial scholarshi
 - [[C. Snouck Hurgronje]]
 - [[Acheh War]]
 - [[Dutch policy of 'concentration']]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[Submission of Tuanku Muhamat Dawot]]
 - [[Holy war against the Dutch]]
 

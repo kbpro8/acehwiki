@@ -7,7 +7,7 @@ tags: [person, officer, dutch, colonial]
 
 ## Campaign against the Padri
 
-Raaff’s troops, reinforced by a detachment of the [[Dutch Marine Corps]] under Lieutenant J. A. van den Velden, fought a bloody engagement from [[13 April]] to [[17 April]] [[1824]] at Marapalm, ultimately forced to retreat after heavy casualties.
+Raaff’s troops, reinforced by a detachment of the [[Royal Netherlands Marine Corps|Dutch Marine Corps]] under Lieutenant J. A. van den Velden, fought a bloody engagement from [[13 April]] to [[17 April]] [[1824]] at Marapalm, ultimately forced to retreat after heavy casualties.
 
 ## Later Service
 
@@ -17,7 +17,7 @@ After the failure at Marapalm, Raaff withdrew his forces to [[Pagar Roejong]] an
 
 - [[Padri War]]
 - [[Marapalm]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[1821]]
 - [[1823]]
 - [[1824]]

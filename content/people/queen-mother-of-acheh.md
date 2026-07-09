@@ -9,7 +9,7 @@ The **Queen-Mother of Acheh** (Dutch: *Koningin-moeder*) was the mother of the l
 
 ## Regent after Jauhar Alum's death (1823)
 
-When [[Sultan Jauhar Alum|Jauhar Alum]] died in November [[1823]] — having spent his last years in a stockade at the mouth of the [[Acheh River]], without "commanding influence or even respect" — his death "increased the division in his family and further weakened the sultan's party". As the Bengal government's review of [[28 January]] [[1825]] recorded, "the three Sagis with the Queen-Mother now exercised authority, if authority could be spoken of". This was the situation that the Penang government under [[W. E. Phillips|Governor Phillips]] and his successor [[Robert Fullerton|Fullerton]] reported to Calcutta, and that the London authorities summarised in their dispatch of [[4 August]] [[1824]] when reviewing the implications of the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch treaty of 17 March 1824]].
+When [[Sultan Jauhar Alum|Jauhar Alum]] died in November [[1823]] — having spent his last years in a stockade at the mouth of the [[Acheh River]], without "commanding influence or even respect" — his death "increased the division in his family and further weakened the sultan's party". As the Bengal government's review of [[28 January]] [[1825]] recorded, "the three Sagis with the Queen-Mother now exercised authority, if authority could be spoken of". This was the situation that the Penang government under [[W. E. Phillips|Governor Phillips]] and his successor [[Robert Fullerton|Fullerton]] reported to Calcutta, and that the London authorities summarised in their dispatch of [[4 August]] [[1824]] when reviewing the implications of the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch treaty of 17 March 1824]].
 
 ## Custodian of the legitimate heir
 
@@ -21,19 +21,19 @@ This observation was part of Fullerton's argument that the Netherlands governmen
 
 ## Place in the wider Anglo-Dutch rivalry
 
-The Queen-Mother's position acquired international significance because the [[Acheh treaty of 1819|treaty of 1819]] had pledged the British government to support the "legitimate house of Acheh". As late as the Penang minute of [[25 February]] [[1824]] (printed as Appendix 8), the Penang government under [[R. Ibbetson|Secretary Ibbetson]] was still arguing for armed intervention in Acheh to install the legitimate heir — that is, the Queen-Mother's grandson. The Bengal government's reply of [[28 January]] [[1825]] rejected the proposal, but its reasoning was the same: the legitimate heir was too young, the Queen-Mother's party too weak, and the British government had resolved that the [[Acheh treaty of 1819|treaty of 1819]] should be treated as a [[dead letter]]. The Queen-Mother's regency thus coincided with, and helped to shape, the abandonment of the British treaty.
+The Queen-Mother's position acquired international significance because the [[Treaty of Pedir (1819)|treaty of 1819]] had pledged the British government to support the "legitimate house of Acheh". As late as the Penang minute of [[25 February]] [[1824]] (printed as Appendix 8), the Penang government under [[R. Ibbetson|Secretary Ibbetson]] was still arguing for armed intervention in Acheh to install the legitimate heir — that is, the Queen-Mother's grandson. The Bengal government's reply of [[28 January]] [[1825]] rejected the proposal, but its reasoning was the same: the legitimate heir was too young, the Queen-Mother's party too weak, and the British government had resolved that the [[Treaty of Pedir (1819)|treaty of 1819]] should be treated as a [[dead letter]]. The Queen-Mother's regency thus coincided with, and helped to shape, the abandonment of the British treaty.
 
 ## See Also
 
 - [[Sultan Jauhar Alum]]
 - [[Sultan Alaeddin Muhammad Shah of Acheh]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Three Sagis]]
 - [[Robert Fullerton]]
 - [[W. E. Phillips]]
 - [[R. Ibbetson]]
 - [[Death of Sultan Jauhar Alum]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Ibbetson's intervention proposal (February 1824)]]
 - [[Fullerton's minute on Acheh (21 March 1825)]]
 - [[Dead letter]]
@@ -48,7 +48,7 @@ The **Queen-Mother of Acheh** (Dutch: *Koningin-moeder*) was the mother of the l
 
 ## Regent after Jauhar Alum's death (1823)
 
-When [[Sultan Jauhar Alum|Jauhar Alum]] died in November [[1823]] — having spent his last years in a stockade at the mouth of the [[Acheh River]], without "commanding influence or even respect" — his death "increased the division in his family and further weakened the sultan's party". As the Bengal government's review of [[28 January]] [[1825]] recorded, "the three Sagis with the Queen-Mother now exercised authority, if authority could be spoken of". This was the situation that the Penang government under [[W. E. Phillips|Governor Phillips]] and his successor [[Robert Fullerton|Fullerton]] reported to Calcutta, and that the London authorities summarised in their dispatch of [[4 August]] [[1824]] when reviewing the implications of the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch treaty of 17 March 1824]].
+When [[Sultan Jauhar Alum|Jauhar Alum]] died in November [[1823]] — having spent his last years in a stockade at the mouth of the [[Acheh River]], without "commanding influence or even respect" — his death "increased the division in his family and further weakened the sultan's party". As the Bengal government's review of [[28 January]] [[1825]] recorded, "the three Sagis with the Queen-Mother now exercised authority, if authority could be spoken of". This was the situation that the Penang government under [[W. E. Phillips|Governor Phillips]] and his successor [[Robert Fullerton|Fullerton]] reported to Calcutta, and that the London authorities summarised in their dispatch of [[4 August]] [[1824]] when reviewing the implications of the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch treaty of 17 March 1824]].
 
 ## Custodian of the legitimate heir
 
@@ -60,19 +60,19 @@ This observation was part of Fullerton's argument that the Netherlands governmen
 
 ## Place in the wider Anglo-Dutch rivalry
 
-The Queen-Mother's position acquired international significance because the [[Acheh treaty of 1819|treaty of 1819]] had pledged the British government to support the "legitimate house of Acheh". As late as the Penang minute of [[25 February]] [[1824]] (printed as Appendix 8), the Penang government under [[R. Ibbetson|Secretary Ibbetson]] was still arguing for armed intervention in Acheh to install the legitimate heir — that is, the Queen-Mother's grandson. The Bengal government's reply of [[28 January]] [[1825]] rejected the proposal, but its reasoning was the same: the legitimate heir was too young, the Queen-Mother's party too weak, and the British government had resolved that the [[Acheh treaty of 1819|treaty of 1819]] should be treated as a [[dead letter]]. The Queen-Mother's regency thus coincided with, and helped to shape, the abandonment of the British treaty.
+The Queen-Mother's position acquired international significance because the [[Treaty of Pedir (1819)|treaty of 1819]] had pledged the British government to support the "legitimate house of Acheh". As late as the Penang minute of [[25 February]] [[1824]] (printed as Appendix 8), the Penang government under [[R. Ibbetson|Secretary Ibbetson]] was still arguing for armed intervention in Acheh to install the legitimate heir — that is, the Queen-Mother's grandson. The Bengal government's reply of [[28 January]] [[1825]] rejected the proposal, but its reasoning was the same: the legitimate heir was too young, the Queen-Mother's party too weak, and the British government had resolved that the [[Treaty of Pedir (1819)|treaty of 1819]] should be treated as a [[dead letter]]. The Queen-Mother's regency thus coincided with, and helped to shape, the abandonment of the British treaty.
 
 ## See Also
 
 - [[Sultan Jauhar Alum]]
 - [[Sultan Alaeddin Muhammad Shah of Acheh]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Three Sagis]]
 - [[Robert Fullerton]]
 - [[W. E. Phillips]]
 - [[R. Ibbetson]]
 - [[Death of Sultan Jauhar Alum]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Ibbetson's intervention proposal (February 1824)]]
 - [[Fullerton's minute on Acheh (21 March 1825)]]
 - [[Dead letter]]

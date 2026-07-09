@@ -5,7 +5,7 @@ aliases: [William Marsden, Marsden, the Marsden collection]
 tags: [person, scholar, british-orientalist, malay-scholarship, manuscript-collector, 18th-century, 19th-century, london, raniri]
 ---
 
-**William Marsden** (1754–1836) was a British orientalist and Malay scholar, the collector of the manuscript of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]] designated **C** in [[P. Voorhoeve|Voorhoeve]]'s apparatus. The Marsden collection — now in the School of Oriental and African Studies in London — supplied one of the principal witnesses to the *Tibjān*, and one of the oldest. Marsden is the author of the *History of Sumatra* (1783) and of the *Dictionary and Grammar of the Malayan Language* (1812), the foundational works of British Malay scholarship.
+**William Marsden** (1754–1836) was a British orientalist and Malay scholar, the collector of the manuscript of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] designated **C** in [[P. Voorhoeve|Voorhoeve]]'s apparatus. The Marsden collection — now in the School of Oriental and African Studies in London — supplied one of the principal witnesses to the *Tibjān*, and one of the oldest. Marsden is the author of the *History of Sumatra* (1783) and of the *Dictionary and Grammar of the Malayan Language* (1812), the foundational works of British Malay scholarship.
 
 ## The Marsden manuscript of the *Tibjān*
 
@@ -20,7 +20,7 @@ Marsden's collection of Malay manuscripts — assembled during his service with 
 - [[Acheh]]
 - [[Bahasa Djawi]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
 ## Source
@@ -31,7 +31,7 @@ William Marsden, *The History of Sumatra* (London, 1783); *A Dictionary and Gram
 ---
 
 
-**William Marsden** (1754–1836) was a British orientalist and Malay scholar, the collector of the manuscript of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]] designated **C** in [[P. Voorhoeve|Voorhoeve]]'s apparatus. The Marsden collection — now in the School of Oriental and African Studies in London — supplied one of the principal witnesses to the *Tibjān*, and one of the oldest. Marsden is the author of the *History of Sumatra* (1783) and of the *Dictionary and Grammar of the Malayan Language* (1812), the foundational works of British Malay scholarship.
+**William Marsden** (1754–1836) was a British orientalist and Malay scholar, the collector of the manuscript of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] designated **C** in [[P. Voorhoeve|Voorhoeve]]'s apparatus. The Marsden collection — now in the School of Oriental and African Studies in London — supplied one of the principal witnesses to the *Tibjān*, and one of the oldest. Marsden is the author of the *History of Sumatra* (1783) and of the *Dictionary and Grammar of the Malayan Language* (1812), the foundational works of British Malay scholarship.
 
 ## The Marsden manuscript of the *Tibjān*
 
@@ -46,7 +46,7 @@ Marsden's collection of Malay manuscripts — assembled during his service with 
 - [[Acheh]]
 - [[Bahasa Djawi]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
 ## Source

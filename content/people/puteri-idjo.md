@@ -25,7 +25,7 @@ For AcehWiki, Puteri Idjo is the most resonant single legend tying the [[Sultan 
 
 ## See Also
 
-- [[Sultan of Atjeh (16th century)]]
+- [[Sultan of Acheh (16th century)|Sultan of Atjeh (16th century)]]
 - [[Deli]]
 - [[Asahan]]
 - [[Kota Djawa]]
@@ -64,7 +64,7 @@ For AcehWiki, Puteri Idjo is the most resonant single legend tying the [[Sultan 
 
 ## See Also
 
-- [[Sultan of Atjeh (16th century)]]
+- [[Sultan of Acheh (16th century)|Sultan of Atjeh (16th century)]]
 - [[Deli]]
 - [[Asahan]]
 - [[Kota Djawa]]

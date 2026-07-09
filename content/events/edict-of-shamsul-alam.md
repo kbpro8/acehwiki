@@ -12,7 +12,7 @@ The *peulieh beusoe* ordeal is described by Snouck Hurgronje alongside several o
 
 ## Royal Sanction
 
-The fact that one of the sultans should have placed his seal of approval upon so indigenous a practice is significant. It shows that the Achehnese sovereigns did not confine their legislative activity to the enforcement of the Mohammedan law, but were prepared, at least on occasion, to recognize *adat* usages of pre-Islamic or non-Islamic origin. The edict thus takes its place beside the better-known [[Edicts of Meukuta Alam|edicts of Meukuta Alam]] as an example of royal intervention in the judicial customs of the country.
+The fact that one of the sultans should have placed his seal of approval upon so indigenous a practice is significant. It shows that the Achehnese sovereigns did not confine their legislative activity to the enforcement of the Mohammedan law, but were prepared, at least on occasion, to recognize *adat* usages of pre-Islamic or non-Islamic origin. The edict thus takes its place beside the better-known [[Adat Meukuta Alam|edicts of Meukuta Alam]] as an example of royal intervention in the judicial customs of the country.
 
 ## Practical Effect
 
@@ -22,7 +22,7 @@ In practice, the utility of ordeals lay, as Snouck Hurgronje observes, in the be
 
 - [[Peutasa' Ordeal]]
 - [[Peulieh beusoe]]
-- [[Edicts of Meukuta Alam]]
+- [[Adat Meukuta Alam|Edicts of Meukuta Alam]]
 - [[Uleebalang]]
 - [[Adat Meukuta Alam]]
 

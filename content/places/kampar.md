@@ -11,7 +11,7 @@ The sole substantive mention of Kampar in Van der Kemp's article occurs in Appen
 
 ## Place in the wider argument
 
-Although Kampar is mentioned only in this single passage, its inclusion is significant. Van der Kemp adduces Prince's letter as evidence that, after the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]], the Netherlands Indian government at Batavia was prepared to use naval pressure to draw the East Coast states into its commercial system, even at the cost of conflict with British trade at Singapore. The Dutch claim of "suprematie over Sumatra", which [[Lord Palmerston|Palmerston]] would later allow to be argued on the strict letter of the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]], thus came in practice to be exerted — at Kampar as at [[Siak]] and [[Jambi]] — through precisely the kind of "political influence and military power" against which Governor [[Robert Fullerton|Fullerton]] had protested in his minute of [[21 March]] [[1825]].
+Although Kampar is mentioned only in this single passage, its inclusion is significant. Van der Kemp adduces Prince's letter as evidence that, after the [[Anglo-Dutch Treaty of 1824|treaty of 1824]], the Netherlands Indian government at Batavia was prepared to use naval pressure to draw the East Coast states into its commercial system, even at the cost of conflict with British trade at Singapore. The Dutch claim of "suprematie over Sumatra", which [[Lord Palmerston|Palmerston]] would later allow to be argued on the strict letter of the [[Anglo-Dutch Treaty of 1824|treaty of 1824]], thus came in practice to be exerted — at Kampar as at [[Siak]] and [[Jambi]] — through precisely the kind of "political influence and military power" against which Governor [[Robert Fullerton|Fullerton]] had protested in his minute of [[21 March]] [[1825]].
 
 ## See Also
 
@@ -26,7 +26,7 @@ Although Kampar is mentioned only in this single passage, its inclusion is signi
 - [[Robert Fullerton]]
 - [[Bellona mission to Sumatra's East Coast (1827-1828)]]
 - [[Fullerton's minute on Acheh (21 March 1825)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Source
 

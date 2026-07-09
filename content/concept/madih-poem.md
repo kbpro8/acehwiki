@@ -14,7 +14,7 @@ The *madīḥ* in Acehnese performances may incorporate local linguistic flouris
 ## See Also
 - [[Kasida (Acehnese poetic form)]]
 - [[Nasib (poetic prelude)]]
-- [[Al‑Burda (poem)]]
+- [[Burda (poem)|Al‑Burda (poem)]]
 - [[Mawlid in Aceh]]
 - [[dikië jadjandji (dhikr Barzandji)]]
 

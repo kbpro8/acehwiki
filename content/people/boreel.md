@@ -20,10 +20,10 @@ Boreel is significant in *[[Oost-Indisch Journael]]* as one of Datoek's *sobat k
 - [[Oost-Indisch Journael]]
 - [[Datoek]]
 - [[Christoffel]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Overste Scheepens]]
 - [[Darlang]]
-- [[Generaal Swart]]
+- [[H. N. A. Swart|Generaal Swart]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
 
 ## Source
@@ -47,10 +47,10 @@ Boreel is significant in *[[Oost-Indisch Journael]]* as one of Datoek's *sobat k
 - [[Oost-Indisch Journael]]
 - [[Datoek]]
 - [[Christoffel]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Overste Scheepens]]
 - [[Darlang]]
-- [[Generaal Swart]]
+- [[H. N. A. Swart|Generaal Swart]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
 
 ## Source

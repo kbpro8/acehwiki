@@ -25,7 +25,7 @@ During the seven days following the kanduri la'ot, it was "high festival for the
 ## See Also
 
 - [[N.E. Monsoon]]
-- [[Musem tiniu (N.E. Monsoon)]]
+- [[N.E. Monsoon|Musem tiniu (N.E. Monsoon)]]
 - [[Kanduri la'ot]]
 - [[Ulee Lheue]]
 

@@ -4,7 +4,7 @@ aliases: [Gayo and Alas Lands Expeditions, Gayo and Alas expeditions]
 tags: [event, war, aceh, knil, colonial]
 ---
 
-**The Gayo and Alas Lands Expeditions** were among the great successes of the glorious period of Van Heutsz in the [[Atjeh-oorlog|Aceh War]], the fifth-named of the expeditions and excursions that [[Musket]] lists in *[[Oost-Indisch Journael]]* by Merac ([[1947]]). The Gayo and Alas Lands Expeditions were the expeditions to the [[Gajolanden|Gajoland]] and the Alaslands — the highlands of central [[Atjeh|Aceh]] — conducted under [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] as part of the all-out offensive.
+**The Gayo and Alas Lands Expeditions** were among the great successes of the glorious period of Van Heutsz in the [[Atjeh-oorlog|Aceh War]], the fifth-named of the expeditions and excursions that [[Musket]] lists in *[[Oost-Indisch Journael]]* by Merac ([[1947]]). The Gayo and Alas Lands Expeditions were the expeditions to the [[Gajolanden|Gajoland]] and the Alaslands — the highlands of central [[Atjeh|Aceh]] — conducted under [[Joannes Benedictus van Heutsz|Van Heutsz]] as part of the all-out offensive.
 
 ## The great successes of the glorious period
 
@@ -22,7 +22,7 @@ The Gayo and Alas Lands Expeditions are significant in *[[Oost-Indisch Journael]
 
 - [[Oost-Indisch Journael]]
 - [[Musket]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Gajolanden]]
 - [[Gajoweg]]
 - [[Bireuën]]

@@ -29,7 +29,7 @@ The [[Tweede Atjeh-expeditie (1873-1874)|Tweede Atjeh-expeditie]] is significant
 - [[Missigit (Meusigit)]]
 - [[Koeta-Radja]]
 - [[Derde Bataljon (Atjeh-Bataljon)]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[6 January]]
 - [[1873]]
 - [[1874]]

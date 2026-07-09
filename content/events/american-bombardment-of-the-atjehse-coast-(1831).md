@@ -20,13 +20,13 @@ Frijling gives no detail of the warship, the commanding officer, or the precise 
 
 ## Significance
 
-The [[1831]] American bombardment, together with the [[Bombardment of the Atjehse coast by the British (1844)|British bombardment of 1844]], is one of the two precedents for foreign naval action against the Atjehse coast in the period between the [[Anglo-Dutch Treaty of London|Verdrag van Londen]] of [[1814]] and the [[Anglo-Dutch Treaty of 1871|Sumatra-contract]] of [[1871]]. Both actions illustrate the international pressure on the Dutch to suppress Atjehese piracy and slavery — pressure that ultimately led to the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1904]]. The American framing of the action as a punishment "ontkennende der Nederlandse souvereiniteit" is particularly pointed: it asserts that, whatever the paper claims of the [[Anglo-Dutch Treaty of London|1814 treaty]], the Atjehse coast was, in the view of the American government, not effectively under Dutch sovereignty and therefore open to direct foreign retribution.
+The [[1831]] American bombardment, together with the [[Bombardment of the Atjehse coast by the British (1844)|British bombardment of 1844]], is one of the two precedents for foreign naval action against the Atjehse coast in the period between the [[Anglo-Dutch Treaty of London|Verdrag van Londen]] of [[1814]] and the [[Anglo-Dutch Treaty of 1824|Sumatra-contract]] of [[1871]]. Both actions illustrate the international pressure on the Dutch to suppress Atjehese piracy and slavery — pressure that ultimately led to the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1904]]. The American framing of the action as a punishment "ontkennende der Nederlandse souvereiniteit" is particularly pointed: it asserts that, whatever the paper claims of the [[Anglo-Dutch Treaty of London|1814 treaty]], the Atjehse coast was, in the view of the American government, not effectively under Dutch sovereignty and therefore open to direct foreign retribution.
 
 ## See Also
 
 - [[Bombardment of the Atjehse coast by the British (1844)]]
 - [[Anglo-Dutch Treaty of London]]
-- [[Anglo-Dutch Treaty of 1871]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1871]]
 - [[Acheh]]
 - [[Achehnese]]
 - [[Zeeroverij]]

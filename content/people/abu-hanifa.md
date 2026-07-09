@@ -5,7 +5,7 @@ aliases: [Abū Ḥanīfa, Imam Abu Hanifa, al-Nuʿmān b. Thābit, Imam-i Aʿzam
 tags: [person, scholar, religious-figure, islamic-scholarship, hanafi, kalam, 8th-century, kufa, source-of-tibjan]
 ---
 
-**Abū Ḥanīfa** — al-Nuʿmān b. Thābit (d. 150 H / 767 C.E.) — was the eponymous founder of the Ḥanafī school of Sunni law and one of the principal authorities of Sunni *kalām*. He is named in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]] as one of the authors to whom the schematic overview of the seventy-two Islamic sects — the *[[Ma'rifat al-madhahib|Maʿrifat al-madhāhib*]] — is sometimes attributed. The attribution is, as [[P. Voorhoeve|Voorhoeve]] records, one of the popular features of the tract, which belongs more to popular than to learned literature.
+**Abū Ḥanīfa** — al-Nuʿmān b. Thābit (d. 150 H / 767 C.E.) — was the eponymous founder of the Ḥanafī school of Sunni law and one of the principal authorities of Sunni *kalām*. He is named in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] as one of the authors to whom the schematic overview of the seventy-two Islamic sects — the *[[Ma'rifat al-madhahib|Maʿrifat al-madhāhib*]] — is sometimes attributed. The attribution is, as [[P. Voorhoeve|Voorhoeve]] records, one of the popular features of the tract, which belongs more to popular than to learned literature.
 
 ## The attribution of the *Maʿrifat al-madhāhib*
 
@@ -26,7 +26,7 @@ Abū Ḥanīfa is one of the principal authorities cited (or attributed) in the 
 - [[Ma'rifat al-madhahib]]
 - [[P. Voorhoeve]]
 - [[Pulo Ai]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
 ## Source
@@ -37,7 +37,7 @@ C. Brockelmann, *Geschichte der arabischen Litteratur* (GAL) I (2nd ed.), 177; S
 ---
 
 
-**Abū Ḥanīfa** — al-Nuʿmān b. Thābit (d. 150 H / 767 C.E.) — was the eponymous founder of the Ḥanafī school of Sunni law and one of the principal authorities of Sunni *kalām*. He is named in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]] as one of the authors to whom the schematic overview of the seventy-two Islamic sects — the *[[Ma'rifat al-madhahib|Maʿrifat al-madhāhib*]] — is sometimes attributed. The attribution is, as [[P. Voorhoeve|Voorhoeve]] records, one of the popular features of the tract, which belongs more to popular than to learned literature.
+**Abū Ḥanīfa** — al-Nuʿmān b. Thābit (d. 150 H / 767 C.E.) — was the eponymous founder of the Ḥanafī school of Sunni law and one of the principal authorities of Sunni *kalām*. He is named in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] as one of the authors to whom the schematic overview of the seventy-two Islamic sects — the *[[Ma'rifat al-madhahib|Maʿrifat al-madhāhib*]] — is sometimes attributed. The attribution is, as [[P. Voorhoeve|Voorhoeve]] records, one of the popular features of the tract, which belongs more to popular than to learned literature.
 
 ## The attribution of the *Maʿrifat al-madhāhib*
 
@@ -58,7 +58,7 @@ Abū Ḥanīfa is one of the principal authorities cited (or attributed) in the 
 - [[Ma'rifat al-madhahib]]
 - [[P. Voorhoeve]]
 - [[Pulo Ai]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
 ## Source

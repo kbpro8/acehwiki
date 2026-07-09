@@ -26,7 +26,7 @@ Although Jogjakarta is mentioned in Vol. I only in this comparative context, the
 
 ### The ruya doctrine in the Archipelago
 
-According to the Shafi'ite school of Mohammedan law — to which the Mohammedans of the [[Indian Archipelago|Archipelago]] belong — the dates of the religious festivals should not be established by calculation; the commencement of each month must be fixed by observation of the new moon. If, for example, the month preceding the fasting month should, according to the reckoning, number 29 days, still the following day must not be regarded as the beginning of the fast unless it is proved by witnesses, in the manner prescribed by the law, that the new moon has been actually seen on the evening following the 29th day. If this observation of the moon (*ruya*) is not established by proof, the month must, in spite of astronomy, be regarded as a full one of thirty days.
+According to the Shafi'ite school of Mohammedan law — to which the Mohammedans of the [[East Indian Archipelago|Archipelago]] belong — the dates of the religious festivals should not be established by calculation; the commencement of each month must be fixed by observation of the new moon. If, for example, the month preceding the fasting month should, according to the reckoning, number 29 days, still the following day must not be regarded as the beginning of the fast unless it is proved by witnesses, in the manner prescribed by the law, that the new moon has been actually seen on the evening following the 29th day. If this observation of the moon (*ruya*) is not established by proof, the month must, in spite of astronomy, be regarded as a full one of thirty days.
 
 Although all the Mohammedans of the Archipelago are Shafi'ites, the doctrine of the *ruya* was, at the date of Snouck's writing, far from being universally observed. In many districts calculation (*hisab*) was adhered to, though according to the teaching of that school it should be employed only for the indifferent affairs of daily life. It was only lately, under the influence of [[Mecca|Mecca]] and [[Hadramaut|Hadramaut]], that the *ruya* had been more universally accepted. Cohen Stuart, in his remarks in the Government Almanac for [[1868]], records that the *ruya* had "long since" been adopted in Yogyakarta and Batavia; the same doctrine was universally adopted among the Malays of the [[Straits Settlements|Straits Settlements]].
 
@@ -46,7 +46,7 @@ The practice of Yogyakarta is set by Snouck in sharp contrast with that of [[Ach
 - [[Hadramaut]]
 - [[Straits Settlements]]
 - [[Dr. A. B. Cohen Stuart]]
-- [[Indian Archipelago]]
+- [[East Indian Archipelago|Indian Archipelago]]
 
 ## Source
 

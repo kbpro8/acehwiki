@@ -67,7 +67,7 @@ The principal source for the Atjeh legal circle is identified by Ter Haar as [[C
 - [[Moekim]]
 - [[Moesapat]]
 - [[Korte Verklaring]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Tangsi]]
 - [[Anak-kolong]]
 - [[Koninginnedag]]

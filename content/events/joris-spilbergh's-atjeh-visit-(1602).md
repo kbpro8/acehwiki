@@ -4,7 +4,7 @@ aliases: [Spilbergen at Atjeh, Spilbergh Atjeh 1602, Joris van Spilbergen Atjeh,
 tags: [event, dutch, precolonial, atjeh, trade, diplomacy, 1602, spilbergh, moucheron, netherlands-east-indies]
 ---
 
-**Joris Spilbergh's Atjeh visit of September 1602** — the fourth Dutch commercial visit to the [[Acheh|kingdom of Atjeh]], conducted by **[[Joris Spilbergh|Joris Spilbergh]]** (also spelled Spilbergen) with the two surviving ships of the fleet outfitted by **[[Balthasar de Moucheron|Balthasar de Moucheron]]** that had left [[Middelburg|Middelburg]] on [[5 May]] [[1601]], arriving at Atjeh in early September [[1602]] after a visit to [[Ceylon]] — is the visit that brought Spilbergh into the Anglo-Dutch joint operation that culminated in the [[Capture of the Portuguese carrack off Atjeh (October 1602)|capture of the Portuguese carrack of 3 October 1602]] off the Strait of Malaka. The visit is treated by Johan van der Woude in his [[Coen, Koopman van Heeren Zeventien (1948)|Van der Woude (1948)]] as the closing episode of the first Dutch-Achehnese diplomatic sequence.
+**Joris Spilbergh's Atjeh visit of September 1602** — the fourth Dutch commercial visit to the [[Acheh|kingdom of Atjeh]], conducted by **[[Joris van Spilbergen|Joris van Spilbergen]]** (also spelled Spilbergen) with the two surviving ships of the fleet outfitted by **[[Balthasar de Moucheron|Balthasar de Moucheron]]** that had left [[Middelburg|Middelburg]] on [[5 May]] [[1601]], arriving at Atjeh in early September [[1602]] after a visit to [[Ceylon]] — is the visit that brought Spilbergh into the Anglo-Dutch joint operation that culminated in the [[Capture of the Portuguese carrack off Atjeh (October 1602)|capture of the Portuguese carrack of 3 October 1602]] off the Strait of Malaka. The visit is treated by Johan van der Woude in his [[Coen, Koopman van Heeren Zeventien (1948)|Van der Woude (1948)]] as the closing episode of the first Dutch-Achehnese diplomatic sequence.
 
 ## The fleet of Balthasar de Moucheron
 
@@ -20,7 +20,7 @@ Joris Spilbergh's Atjeh visit is, in Van der Woude's narrative, the principal in
 
 ## See Also
 
-- [[Joris Spilbergh]]
+- [[Joris van Spilbergen|Joris Spilbergh]]
 - [[Balthasar de Moucheron]]
 - [[Cornelis Spex]]
 - [[James Lancaster's Atjeh visit (1602)]]

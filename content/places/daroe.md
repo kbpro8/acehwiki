@@ -12,8 +12,8 @@ The terrain around Daroe was heavily marshy and covered in sawah (rice fields). 
 The Dutch bivouac was later engaged and the column withdrew after suffering one dead and ten wounded.
 
 ## See Also
-- [[General Pel]]
-- [[Lieutenant Verhey]]
+- [[J. L. J. H. Pel|General Pel]]
+- [[J. B. Verhey|Lieutenant Verhey]]
 - [[Battle of Daroe]]
 - [[Glitaroem]]
 - [[Sawah (rice field)]]

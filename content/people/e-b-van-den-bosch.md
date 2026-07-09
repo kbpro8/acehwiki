@@ -15,7 +15,7 @@ The landing at [[Boeleleng]] on [[28 June]] [[1846]] was conducted under his ove
 
 ## See Also
 - [[Nederlandsch Indië]]
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[Boeleleng]]
 - [[Karang‑Assana]]
 - [[1846 Bali Expedition]]

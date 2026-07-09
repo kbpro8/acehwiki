@@ -5,7 +5,7 @@ aliases: [kapitein Elout, Elout's son]
 tags: [person, dutch-official, naval-officer, diplomat]
 ---
 
-**Captain Elout** — the son of the Dutch minister of Finance [[Elout|Elout]] — was the young naval officer who acted as courier and messenger between the Dutch plenipotentiaries in [[London]] and the Dutch court at The Hague during the final weeks of the negotiations leading to the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]]. In P. H. van der Kemp's 1900 article he is a minor but pivotal figure: it was Captain Elout who, having assisted the negotiators in London, was entrusted with the draft treaty and with an oral message concerning the [[Acheh treaty of 1819|Acheh treaty of 1819]] — a message whose tendentious representation of that treaty at The Hague opened the way to the most consequential single error of the 1824 settlement.
+**Captain Elout** — the son of the Dutch minister of Finance [[Elout|Elout]] — was the young naval officer who acted as courier and messenger between the Dutch plenipotentiaries in [[London]] and the Dutch court at The Hague during the final weeks of the negotiations leading to the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]]. In P. H. van der Kemp's 1900 article he is a minor but pivotal figure: it was Captain Elout who, having assisted the negotiators in London, was entrusted with the draft treaty and with an oral message concerning the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]] — a message whose tendentious representation of that treaty at The Hague opened the way to the most consequential single error of the 1824 settlement.
 
 ## Assistance to the London Negotiators
 
@@ -36,8 +36,8 @@ Captain Elout's significance in Van der Kemp's narrative is that of a useful but
 - [[Hendrik Fagel]]
 - [[Ridder Reinhold]]
 - [[Sir Thomas Stamford Raffles]]
-- [[Anglo-Dutch Treaty of London (1824)]]
-- [[Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Treaty of Pedir (1819)]]
 - [[Elout's advice of 12 February 1824]]
 - [[King's authorization of 13 February 1824]]
@@ -50,7 +50,7 @@ Captain Elout's significance in Van der Kemp's narrative is that of a useful but
 ---
 
 
-**Captain Elout** — the son of the Dutch minister of Finance [[Elout|Elout]] — was the young naval officer who acted as courier and messenger between the Dutch plenipotentiaries in [[London]] and the Dutch court at The Hague during the final weeks of the negotiations leading to the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]]. In P. H. van der Kemp's 1900 article he is a minor but pivotal figure: it was Captain Elout who, having assisted the negotiators in London, was entrusted with the draft treaty and with an oral message concerning the [[Acheh treaty of 1819|Acheh treaty of 1819]] — a message whose tendentious representation of that treaty at The Hague opened the way to the most consequential single error of the 1824 settlement.
+**Captain Elout** — the son of the Dutch minister of Finance [[Elout|Elout]] — was the young naval officer who acted as courier and messenger between the Dutch plenipotentiaries in [[London]] and the Dutch court at The Hague during the final weeks of the negotiations leading to the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]]. In P. H. van der Kemp's 1900 article he is a minor but pivotal figure: it was Captain Elout who, having assisted the negotiators in London, was entrusted with the draft treaty and with an oral message concerning the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]] — a message whose tendentious representation of that treaty at The Hague opened the way to the most consequential single error of the 1824 settlement.
 
 ## Assistance to the London Negotiators
 
@@ -81,8 +81,8 @@ Captain Elout's significance in Van der Kemp's narrative is that of a useful but
 - [[Hendrik Fagel]]
 - [[Ridder Reinhold]]
 - [[Sir Thomas Stamford Raffles]]
-- [[Anglo-Dutch Treaty of London (1824)]]
-- [[Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Treaty of Pedir (1819)]]
 - [[Elout's advice of 12 February 1824]]
 - [[King's authorization of 13 February 1824]]

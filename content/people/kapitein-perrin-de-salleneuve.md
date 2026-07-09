@@ -10,7 +10,7 @@ Perrin’s encounter with Atta marked a turning point, after which the Dutch per
 
 ## See Also
 - [[Atta (rebel leader)]]
-- [[Wikkie‑kreek]]
+- [[Wikkie creek|Wikkie‑kreek]]
 - [[Dutch East India Company]]
 
 ## Source

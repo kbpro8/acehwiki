@@ -4,7 +4,7 @@ aliases: [Londensche conventie van 1884, Transvaal Convention of 1884]
 tags: [event, treaty, diplomacy, colonial]
 ---
 
-The **London Convention on Transvaal of [[1884]]** — in Dutch the *Londensche conventie van 1884* — was the agreement between Great Britain and the South African Republic (Transvaal) that succeeded the Pretoria Convention of 1881 and purported to settle the relations between the two states after the British defeat at Majuba. Van der Kemp invokes the convention — and the celebrated controversy over the British [[Suzerainty question|suzerainty]] to which it gave rise — as a striking parallel, in his view almost an exact counterpart, to the Acheh reservation in the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of 17 March 1824]].
+The **London Convention on Transvaal of [[1884]]** — in Dutch the *Londensche conventie van 1884* — was the agreement between Great Britain and the South African Republic (Transvaal) that succeeded the Pretoria Convention of 1881 and purported to settle the relations between the two states after the British defeat at Majuba. Van der Kemp invokes the convention — and the celebrated controversy over the British [[Suzerainty question|suzerainty]] to which it gave rise — as a striking parallel, in his view almost an exact counterpart, to the Acheh reservation in the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 17 March 1824]].
 
 ## The Suzerainty Question
 
@@ -24,7 +24,7 @@ Van der Kemp also points to the parallel in the absence of formal minutes: just 
 
 ## See Also
 
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Suzerainty question]]
 - [[Faure's letter on Transvaal suzerainty]]
 - [[Jameson's raid comparison]]

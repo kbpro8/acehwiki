@@ -4,7 +4,7 @@ aliases: [Lam Badá]
 tags: [place, aceh-proper, gampong, xxvi-mukims, holy-site, burong, tuan-siti]
 ---
 
-In the [[Hikayat Prang Gompeuni]], [[Teuku Asan]] fixed his head-quarters in the neighbourhood of Lam Bada, 'the place of his birth,' after gathering some panglimas and a small force.
+In the [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]], [[Teuku Asan]] fixed his head-quarters in the neighbourhood of Lam Bada, 'the place of his birth,' after gathering some panglimas and a small force.
 
 ## Expanded account from *The Achehnese*, Vol. I — Lam Bada
 
@@ -24,7 +24,7 @@ Lam Bada's appearance in Vol. I, though brief, places it among the specifically 
 
 ## See Also
 
-- [[Hikayat Prang Gompeuni]]
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 - [[Teuku Asan]]
 - [[Nyi Sri]]
 - [[Pochut Muhamat]]

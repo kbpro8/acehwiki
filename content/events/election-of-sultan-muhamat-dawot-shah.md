@@ -10,7 +10,7 @@ The **Election of Sultan Muhamat Dawot Shah** in the year [[1296]] H ([[1879]] A
 
 The ninefold seal consists of one large central circle surrounded by eight smaller ones. The central circle contains the inscription: *"May Allah give good guidance unto His Majesty Sultan 'Alau'ddīn (pronounced in Achehnese Alaedin) Muhamad Daud Shah Juhan (pronounced in Achehnese Muhamat Dawot Shah Juhan) the Blessed, the shadow of Allah in the world 1296"* — that is, [[1879]] AD, the year of his election as Sultan.
 
-The eight smaller circles surrounding this central one record the names of eight earlier sultans regarded as the predecessors and patrons of the reigning house: [[Sultan Alaedin al Qahhar|Sidi Meukamay]] ([[1530]]–[[1552]] or later), [[Sultan Meukuta Alam|Meukuta Alam]] ([[1607]]–[[1636]]), [[Sultan Tajul-alam|Tajul-alam]] (the first sultana, [[1641]]–[[1675]]), [[Sultan Ahmat Shah|Ahmat Shah]] ([[1723]] or [[1726]]–[[1735]]), [[Sultan Juhan Shah|Juhan Shah]] ([[1735]]–[[1760]]), [[Sultan Mahmut Shah|Mahmut Shah]] ([[1781]]–[[1795]]), [[Sultan Jauhar Alam Shah|Jauhar Alam Shah]] ([[1802]]–[[1824]]), and [[Sultan Mansur Shah|Mansur Shah]] ([[1838]]–[[1870]]). The first four recur on most ninefold seals of the sultans of Acheh; the rest vary according to the taste of each sultan.
+The eight smaller circles surrounding this central one record the names of eight earlier sultans regarded as the predecessors and patrons of the reigning house: [[Sultan Alaedin al Qahhar|Sidi Meukamay]] ([[1530]]–[[1552]] or later), [[Sultan Meukuta Alam|Meukuta Alam]] ([[1607]]–[[1636]]), [[Sultan Tajul-alam|Tajul-alam]] (the first sultana, [[1641]]–[[1675]]), [[Sultan Ahmat Shah|Ahmat Shah]] ([[1723]] or [[1726]]–[[1735]]), [[Sultan Juhan Shah|Juhan Shah]] ([[1735]]–[[1760]]), [[Sultan Mahmut Shah|Mahmut Shah]] ([[1781]]–[[1795]]), [[Sultan Jauhar Alam Shah|Jauhar Alam Shah]] ([[1802]]–[[1824]]), and [[Sultan Ibrahim Mansur Shah|Mansur Shah]] ([[1838]]–[[1870]]). The first four recur on most ninefold seals of the sultans of Acheh; the rest vary according to the taste of each sultan.
 
 ## The Pretender's Claim
 
@@ -22,12 +22,12 @@ The pretender was compelled, some years before Snouck Hurgronje wrote, to break 
 
 ## See Also
 
-- [[Sarakata with chab sikureu'eng]]
+- [[Sarakata|Sarakata with chab sikureu'eng]]
 - [[Letters patent with the ninefold seal to Panglima Meuseugit Raya]]
 - [[Tuanku Muhamat Dawot]]
 - [[Keumala]]
 - [[Acheh War]]
-- [[Coronation of the Sultan]]
+- [[Installation of a New Sultan|Coronation of the Sultan]]
 
 ## Source
 

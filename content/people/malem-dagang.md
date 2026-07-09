@@ -8,7 +8,7 @@ The central hero of the Hikayat Malem Dagang, the oldest and most celebrated of 
 
 ## See Also
 
-- [[Hikayat Malem Dagang]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
 - [[Sultan Iskandar Muda]]
 - [[Si Ujut]]
 - [[Ja Pakeh]]
@@ -24,7 +24,7 @@ The central hero of the Hikayat Malem Dagang, the oldest and most celebrated of 
 
 ## See Also
 
-- [[Hikayat Malem Dagang]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
 - [[Sultan Iskandar Muda]]
 - [[Si Ujut]]
 - [[Ja Pakeh]]

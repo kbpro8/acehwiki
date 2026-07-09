@@ -26,7 +26,7 @@ The *serunai* belongs to the **widespread shawm family** that spread across the 
 | Region / People | Local Name | Context |
 |-----------------|------------|---------|
 | **[[Acheh]]** | **Serunai** / *Seruné* | *Seudati*, *Saman*, *Meuseukat*, *Zikir*, *Maulid*, *Pekan*, *Kenduri* |
-| **[[Minangkabau]]** | *Serunai* / *Sarunai* | *Talempong*, *Randai*, *Tari Piring* |
+| **[[Menangkabau|Minangkabau]]** | *Serunai* / *Sarunai* | *Talempong*, *Randai*, *Tari Piring* |
 | **[[Riau]]** / **[[Johor]]** / **[[Melayu]]** | *Serunai* / *Sarunai* | *Zapin*, *Ghazal*, *Hadrah*, *Mak Yong* |
 | **[[Sunda]]** (West Java) | *Saronen* / *Tarompet* | *Kuda Lumping*, *Reog*, *Sisingaan* |
 | **[[Java]]** | *Selompret* / *Saronen* | *Gamelan* (loud style), *Reog*, *Kuda Lumping* |
@@ -66,7 +66,7 @@ The *serunai* is **indispensable** for:
 - *Serunai* plays *qasidah* melodies during *maulid* processions
 - Circular breathing allows unbroken sound for *dhikr* cycles
 
-### 6. [[Pekan]] / [[Kenduri]] / [[Maulid]] (Feasts & Celebrations)
+### 6. [[Pekan]] / [[Kanduri|Kenduri]] / [[Maulid]] (Feasts & Celebrations)
 - Processional music from *meunasah* (prayer hall) to host's house
 - *Serunai* + *rabana* + *marwas* = core processional trio
 
@@ -120,7 +120,7 @@ Illustrated in **[[Jaap Kunst]]**, *Muziek en Dans in de Buitengewesten* ([[1946
 - [[Hadrah]]
 - [[Maulid]]
 - [[Pekan]]
-- [[Kenduri]]
+- [[Kanduri|Kenduri]]
 - [[Pencak Silat]]
 - [[Gambus (Aceh)]]
 - [[Rabana (Aceh)]]
@@ -135,7 +135,7 @@ Illustrated in **[[Jaap Kunst]]**, *Muziek en Dans in de Buitengewesten* ([[1946
 - [[Gendang]]
 - [[Acheh]]
 - [[Gayo Lands]]
-- [[Minangkabau]]
+- [[Menangkabau|Minangkabau]]
 - [[Riau]]
 - [[Malay Peninsula]]
 - [[Shehnai]]

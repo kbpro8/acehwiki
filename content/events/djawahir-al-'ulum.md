@@ -4,7 +4,7 @@ aliases: [Jawāhir al-ʿulūm, Djawāhir al-ʿulūm, Jawahir al-'ulum, Jewels of
 tags: [document, religious-work, islamic-scholarship, mysticism, precolonial, 17th-century, aceh, malay]
 ---
 
-**The *Jawāhir al-ʿulūm*** ("The Jewels of the Sciences") is a Malay religious and mystical compendium by [[Raniri|Nuruddin ar-Raniri]], composed in [[Acheh]] during the period of his activity at the court of [[Iskandar Thani]] and his successor [[Sultan Tajul-alam|Taj al-Ālam]] ([[1637]]–[[1644]]). It survives in a London manuscript and is named by [[P. Voorhoeve|Voorhoeve]] in the [[1955]] edition of Raniri's two Malay treatises as one of the principal writings in which Raniri developed his argument against the [[Wujudiyyah]] and his exposition of the orthodox Sufi position.
+**The *Jawāhir al-ʿulūm*** ("The Jewels of the Sciences") is a Malay religious and mystical compendium by [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]], composed in [[Acheh]] during the period of his activity at the court of [[Iskandar Thani]] and his successor [[Sultan Tajul-alam|Taj al-Ālam]] ([[1637]]–[[1644]]). It survives in a London manuscript and is named by [[P. Voorhoeve|Voorhoeve]] in the [[1955]] edition of Raniri's two Malay treatises as one of the principal writings in which Raniri developed his argument against the [[Wujudiyyah]] and his exposition of the orthodox Sufi position.
 
 ## Content and character
 
@@ -16,7 +16,7 @@ In the course of the work Raniri cites a number of authorities whose names are o
 
 ## Significance
 
-The *Jawāhir al-ʿulūm* is one of the most extensive of Raniri's Malay religious writings and is unique among them in the explicitness with which it documents the textual controversy between Raniri and [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]] over the interpretation of the [[al-Insan al-Kamil|*al-Insān al-kāmil*]]. It belongs, with the [[Hall al-zill|*Ḥall aẓ-ẓill*]], the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]], the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]], the [[Sirat al-mustaqim|*Ṣirāṭ al-mustaqīm*]], the [[Lata'if al-asrar|*Laṭāʾif al-asrār*]] (lost), and the [[Bustan al-Salatin|*Bustān as-Salāṭīn*]], to the body of Malay religious prose composed in Acheh during the years of the orthodox reaction against the Wujūdiyyah.
+The *Jawāhir al-ʿulūm* is one of the most extensive of Raniri's Malay religious writings and is unique among them in the explicitness with which it documents the textual controversy between Raniri and [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]] over the interpretation of the [[al-Insan al-Kamil|*al-Insān al-kāmil*]]. It belongs, with the [[Hall al-zill|*Ḥall aẓ-ẓill*]], the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]], the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]], the [[Sirat al-Mustaqim|*Ṣirāṭ al-mustaqīm*]], the [[Lata'if al-asrar|*Laṭāʾif al-asrār*]] (lost), and the [[Bustan al-Salatin|*Bustān as-Salāṭīn*]], to the body of Malay religious prose composed in Acheh during the years of the orthodox reaction against the Wujūdiyyah.
 
 ## See Also
 
@@ -32,7 +32,7 @@ The *Jawāhir al-ʿulūm* is one of the most extensive of Raniri's Malay religio
 - [[Iskandar Thani]]
 - [[Lata'if al-asrar]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Shaikh Junayd]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Shaikh Shibli]]

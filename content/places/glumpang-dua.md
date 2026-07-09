@@ -4,7 +4,7 @@ aliases: [VI Mukims of the XXV, VI Mukims, 6 Mukims of the XXV, Sagi of the XXV 
 tags: [place, aceh-proper, mukim, district, xxv-mukims, sagi]
 ---
 
-The home village of [[Dokarim]] (Abdul-karim), the illiterate composer of the [[Hikayat Prang Gompeuni]]. '[[Dokarim]] of Glumpang Dua in the VI Mukims of the XXV is the composer of this hikayat. Writer we may not call him, for he can neither read nor write. He went on for five years gradually composing this poem in celebration of the heroic deeds of the Achehnese in their conflict against the Dutch.'
+The home village of [[Dokarim]] (Abdul-karim), the illiterate composer of the [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]. '[[Dokarim]] of Glumpang Dua in the VI Mukims of the XXV is the composer of this hikayat. Writer we may not call him, for he can neither read nor write. He went on for five years gradually composing this poem in celebration of the heroic deeds of the Achehnese in their conflict against the Dutch.'
 
 ## Expanded account from *The Achehnese*, Vol. I — VI Mukims of the XXV
 
@@ -22,7 +22,7 @@ At the election of a new sultan, the support of the real wielders of power in ea
 
 - [[Acheh]]
 - [[Dokarim]]
-- [[Hikayat Prang Gompeuni]]
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 - [[XXV Mukims]]
 - [[IX Mukims]]
 - [[Teuku Ne' Raja Muda Seutia]]

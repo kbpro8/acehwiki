@@ -13,7 +13,7 @@ The episode Van der Kemp singles out concerns the complaints of [[Timmerman Thys
 
 ## The Wider Context
 
-Van der Capellen's Governor-Generalship coincided with a sequence of humiliations for the Dutch colonial position: the [[Founding of Singapore|founding of Singapore]] by Raffles in January 1819, the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] between Raffles and [[Sultan Jauhar Alum|Sultan Jauhar Alum]] later the same year, the [[Wilhelmina mutiny and murder of Bouwens|Wilhelmina mutiny]] and the resulting [[Paper War|paper war]] with Penang over [[Sultan Saif ul-Alum|Syf]] at [[Telok Semawé|Telok Semawé]], and finally the [[Anglo-Dutch Treaty of London (1824)|treaty of London of 17 March 1824]], under which the Netherlands ceded its Indian factories, [[Malacca|Malacca]], and all claim to [[Singapore]] in exchange for a free hand on [[Sumatra]]. Van der Kemp's narrative of these events, while focused on the agents on the spot — Wolterbeek, Thyssen, [[Anton Reinhard Falck|Falck]], [[Hendrik Fagel|Fagel]], [[Elout|Elout]] — repeatedly returns to the question of how firm the central administration at Buitenzorg and Buitenzorg's superior at The Hague actually were.
+Van der Capellen's Governor-Generalship coincided with a sequence of humiliations for the Dutch colonial position: the [[Founding of Singapore|founding of Singapore]] by Raffles in January 1819, the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] between Raffles and [[Sultan Jauhar Alum|Sultan Jauhar Alum]] later the same year, the [[Wilhelmina mutiny and murder of Bouwens|Wilhelmina mutiny]] and the resulting [[Paper War|paper war]] with Penang over [[Sultan Saif ul-Alum|Syf]] at [[Telok Semawé|Telok Semawé]], and finally the [[Anglo-Dutch Treaty of 1824|treaty of London of 17 March 1824]], under which the Netherlands ceded its Indian factories, [[Malacca|Malacca]], and all claim to [[Singapore]] in exchange for a free hand on [[Sumatra]]. Van der Kemp's narrative of these events, while focused on the agents on the spot — Wolterbeek, Thyssen, [[Anton Reinhard Falck|Falck]], [[Hendrik Fagel|Fagel]], [[Elout|Elout]] — repeatedly returns to the question of how firm the central administration at Buitenzorg and Buitenzorg's superior at The Hague actually were.
 
 ## Historical Standing
 
@@ -27,7 +27,7 @@ Outside Van der Kemp's article, Van der Capellen is remembered as a reforming Go
 - [[Carnegy]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Anglo-Dutch Treaty of London (1814)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Founding of Singapore]]
 - [[Treaty of Pedir (1819)]]
 - [[Java War (1825-1830)]]
@@ -47,7 +47,7 @@ The episode Van der Kemp singles out concerns the complaints of [[Timmerman Thys
 
 ## The Wider Context
 
-Van der Capellen's Governor-Generalship coincided with a sequence of humiliations for the Dutch colonial position: the [[Founding of Singapore|founding of Singapore]] by Raffles in January 1819, the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] between Raffles and [[Sultan Jauhar Alum|Sultan Jauhar Alum]] later the same year, the [[Wilhelmina mutiny and murder of Bouwens|Wilhelmina mutiny]] and the resulting [[Paper War|paper war]] with Penang over [[Sultan Saif ul-Alum|Syf]] at [[Telok Semawé|Telok Semawé]], and finally the [[Anglo-Dutch Treaty of London (1824)|treaty of London of 17 March 1824]], under which the Netherlands ceded its Indian factories, [[Malacca|Malacca]], and all claim to [[Singapore]] in exchange for a free hand on [[Sumatra]]. Van der Kemp's narrative of these events, while focused on the agents on the spot — Wolterbeek, Thyssen, [[Anton Reinhard Falck|Falck]], [[Hendrik Fagel|Fagel]], [[Elout|Elout]] — repeatedly returns to the question of how firm the central administration at Buitenzorg and Buitenzorg's superior at The Hague actually were.
+Van der Capellen's Governor-Generalship coincided with a sequence of humiliations for the Dutch colonial position: the [[Founding of Singapore|founding of Singapore]] by Raffles in January 1819, the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] between Raffles and [[Sultan Jauhar Alum|Sultan Jauhar Alum]] later the same year, the [[Wilhelmina mutiny and murder of Bouwens|Wilhelmina mutiny]] and the resulting [[Paper War|paper war]] with Penang over [[Sultan Saif ul-Alum|Syf]] at [[Telok Semawé|Telok Semawé]], and finally the [[Anglo-Dutch Treaty of 1824|treaty of London of 17 March 1824]], under which the Netherlands ceded its Indian factories, [[Malacca|Malacca]], and all claim to [[Singapore]] in exchange for a free hand on [[Sumatra]]. Van der Kemp's narrative of these events, while focused on the agents on the spot — Wolterbeek, Thyssen, [[Anton Reinhard Falck|Falck]], [[Hendrik Fagel|Fagel]], [[Elout|Elout]] — repeatedly returns to the question of how firm the central administration at Buitenzorg and Buitenzorg's superior at The Hague actually were.
 
 ## Historical Standing
 
@@ -61,7 +61,7 @@ Outside Van der Kemp's article, Van der Capellen is remembered as a reforming Go
 - [[Carnegy]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Anglo-Dutch Treaty of London (1814)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Founding of Singapore]]
 - [[Treaty of Pedir (1819)]]
 - [[Java War (1825-1830)]]

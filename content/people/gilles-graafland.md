@@ -13,13 +13,13 @@ tags: [person, officer, dutch, knil, marechaussee, aceh]
 
 ## The list of Marechaussee commanders
 
-Graafland is the first-named in [[Musket]]'s list of the Marechaussee commanders of the [[Atjeh-oorlog|Aceh War]]: "the names of those 'fellows' of the old time, of the famous tough guys and Marechaussee commanders, rang through the Indies like carillon music: Gilles Graafland, Van Daalen, Campioni, Christoffel, Van der Maaten, Scheepens, Watrin, Webb, Colijn, Geertsema Beckering, Darlang and the sergeants Nussy, Salowono, Pongoh … a colourful row. *J'en passe et des meilleurs!*" The names of those fellows of the old time, of the famous tough guys and Marechaussee commanders, "rang through the Indies like carillon music": Gilles Graafland, [[Van Daalen]], [[Campioni]], [[Christoffel]], [[Van der Maaten]], [[Scheepens]], [[Watrin]], [[Webb]], [[Colijn]], [[Geertsema Beckering]], [[Darlang]] and the sergeants [[Nussy]], [[Salowono]], [[Pongoh]] … a colourful row. *J'en passe et des meilleurs!*
+Graafland is the first-named in [[Musket]]'s list of the Marechaussee commanders of the [[Atjeh-oorlog|Aceh War]]: "the names of those 'fellows' of the old time, of the famous tough guys and Marechaussee commanders, rang through the Indies like carillon music: Gilles Graafland, Van Daalen, Campioni, Christoffel, Van der Maaten, Scheepens, Watrin, Webb, Colijn, Geertsema Beckering, Darlang and the sergeants Nussy, Salowono, Pongoh … a colourful row. *J'en passe et des meilleurs!*" The names of those fellows of the old time, of the famous tough guys and Marechaussee commanders, "rang through the Indies like carillon music": Gilles Graafland, [[Gotfried Coenraad Ernst van Daalen|Van Daalen]], [[Campioni]], [[Christoffel]], [[Van der Maaten]], [[Scheepens]], [[G. F. B. Watrin|Watrin]], [[Webb]], [[Hendrikus Colijn|Colijn]], [[Geertsema Beckering]], [[Darlang]] and the sergeants [[Nussy]], [[Salowono]], [[Pongoh]] … a colourful row. *J'en passe et des meilleurs!*
 
 ## The sequence: Graafland, Teukoe Oemar, Van Heutsz
 
-The book's sequence is: the Graafland era (when the concentrated line was abandoned and the Marechaussee went over to the offensive) — "but after the defection of the cunning adventurer [[Teukoe Oemar]] on [[29 March]] [[1896]], critical days began" — "then came the glorious period of [[Gouverneur-Generaal Van Heutsz|Van Heutsz]], the time of the great expeditions and excursions."
+The book's sequence is: the Graafland era (when the concentrated line was abandoned and the Marechaussee went over to the offensive) — "but after the defection of the cunning adventurer [[Teukoe Oemar]] on [[29 March]] [[1896]], critical days began" — "then came the glorious period of [[Joannes Benedictus van Heutsz|Van Heutsz]], the time of the great expeditions and excursions."
 
-The Graafland era is therefore the book's name for the offensive phase that began when the concentrated line was abandoned and that preceded the defection of Teukoe Oemar ([[29 March]] [[1896]]) and the glorious period of Van Heutsz. Graafland is the commander of the offensive to the utmost: the Marechaussee commander whose era began the offensive that [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] would bring to its glorious period.
+The Graafland era is therefore the book's name for the offensive phase that began when the concentrated line was abandoned and that preceded the defection of Teukoe Oemar ([[29 March]] [[1896]]) and the glorious period of Van Heutsz. Graafland is the commander of the offensive to the utmost: the Marechaussee commander whose era began the offensive that [[Joannes Benedictus van Heutsz|Van Heutsz]] would bring to its glorious period.
 
 ## Significance
 
@@ -31,15 +31,15 @@ Gilles Graafland is significant in *[[Oost-Indisch Journael]]* as the Marechauss
 - [[Musket]]
 - [Geconcentreerde linie](/concept/geconcentreerde-linie)
 - [[Teukoe Oemar]]
-- [[Gouverneur-Generaal Van Heutsz]]
-- [[Van Daalen]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [[Campioni]]
 - [[Christoffel]]
 - [[Van der Maaten]]
 - [[Scheepens]]
-- [[Watrin]]
+- [[G. F. B. Watrin|Watrin]]
 - [[Webb]]
-- [[Colijn]]
+- [[Hendrikus Colijn|Colijn]]
 - [[Geertsema Beckering]]
 - [[Darlang]]
 - [[Nussy]]
@@ -63,13 +63,13 @@ Gilles Graafland is significant in *[[Oost-Indisch Journael]]* as the Marechauss
 
 ## The list of Marechaussee commanders
 
-Graafland is the first-named in [[Musket]]'s list of the Marechaussee commanders of the [[Atjeh-oorlog|Aceh War]]: "the names of those 'fellows' of the old time, of the famous tough guys and Marechaussee commanders, rang through the Indies like carillon music: Gilles Graafland, Van Daalen, Campioni, Christoffel, Van der Maaten, Scheepens, Watrin, Webb, Colijn, Geertsema Beckering, Darlang and the sergeants Nussy, Salowono, Pongoh … a colourful row. *J'en passe et des meilleurs!*" The names of those fellows of the old time, of the famous tough guys and Marechaussee commanders, "rang through the Indies like carillon music": Gilles Graafland, [[Van Daalen]], [[Campioni]], [[Christoffel]], [[Van der Maaten]], [[Scheepens]], [[Watrin]], [[Webb]], [[Colijn]], [[Geertsema Beckering]], [[Darlang]] and the sergeants [[Nussy]], [[Salowono]], [[Pongoh]] … a colourful row. *J'en passe et des meilleurs!*
+Graafland is the first-named in [[Musket]]'s list of the Marechaussee commanders of the [[Atjeh-oorlog|Aceh War]]: "the names of those 'fellows' of the old time, of the famous tough guys and Marechaussee commanders, rang through the Indies like carillon music: Gilles Graafland, Van Daalen, Campioni, Christoffel, Van der Maaten, Scheepens, Watrin, Webb, Colijn, Geertsema Beckering, Darlang and the sergeants Nussy, Salowono, Pongoh … a colourful row. *J'en passe et des meilleurs!*" The names of those fellows of the old time, of the famous tough guys and Marechaussee commanders, "rang through the Indies like carillon music": Gilles Graafland, [[Gotfried Coenraad Ernst van Daalen|Van Daalen]], [[Campioni]], [[Christoffel]], [[Van der Maaten]], [[Scheepens]], [[G. F. B. Watrin|Watrin]], [[Webb]], [[Hendrikus Colijn|Colijn]], [[Geertsema Beckering]], [[Darlang]] and the sergeants [[Nussy]], [[Salowono]], [[Pongoh]] … a colourful row. *J'en passe et des meilleurs!*
 
 ## The sequence: Graafland, Teukoe Oemar, Van Heutsz
 
-The book's sequence is: the Graafland era (when the concentrated line was abandoned and the Marechaussee went over to the offensive) — "but after the defection of the cunning adventurer [[Teukoe Oemar]] on [[29 March]] [[1896]], critical days began" — "then came the glorious period of [[Gouverneur-Generaal Van Heutsz|Van Heutsz]], the time of the great expeditions and excursions."
+The book's sequence is: the Graafland era (when the concentrated line was abandoned and the Marechaussee went over to the offensive) — "but after the defection of the cunning adventurer [[Teukoe Oemar]] on [[29 March]] [[1896]], critical days began" — "then came the glorious period of [[Joannes Benedictus van Heutsz|Van Heutsz]], the time of the great expeditions and excursions."
 
-The Graafland era is therefore the book's name for the offensive phase that began when the concentrated line was abandoned and that preceded the defection of Teukoe Oemar ([[29 March]] [[1896]]) and the glorious period of Van Heutsz. Graafland is the commander of the offensive to the utmost: the Marechaussee commander whose era began the offensive that [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] would bring to its glorious period.
+The Graafland era is therefore the book's name for the offensive phase that began when the concentrated line was abandoned and that preceded the defection of Teukoe Oemar ([[29 March]] [[1896]]) and the glorious period of Van Heutsz. Graafland is the commander of the offensive to the utmost: the Marechaussee commander whose era began the offensive that [[Joannes Benedictus van Heutsz|Van Heutsz]] would bring to its glorious period.
 
 ## Significance
 
@@ -81,15 +81,15 @@ Gilles Graafland is significant in *[[Oost-Indisch Journael]]* as the Marechauss
 - [[Musket]]
 - [Geconcentreerde linie](/concept/geconcentreerde-linie)
 - [[Teukoe Oemar]]
-- [[Gouverneur-Generaal Van Heutsz]]
-- [[Van Daalen]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [[Campioni]]
 - [[Christoffel]]
 - [[Van der Maaten]]
 - [[Scheepens]]
-- [[Watrin]]
+- [[G. F. B. Watrin|Watrin]]
 - [[Webb]]
-- [[Colijn]]
+- [[Hendrikus Colijn|Colijn]]
 - [[Geertsema Beckering]]
 - [[Darlang]]
 - [[Nussy]]

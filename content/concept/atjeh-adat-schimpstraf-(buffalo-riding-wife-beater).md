@@ -3,7 +3,7 @@ title: Atjeh adat schimpstraf (buffalo-riding wife-beater)
 aliases: [Atjeh schimpstraf", Atjeh wife-beater punishment", adat schimpstraf Atjeh", buffalo-riding punishment Atjeh", wife-beater paraded on a buffalo in Atjeh"]
 tags: ["achehnese", "adat", "concept", "law", "punishment"]
 ---
-The **Atjeh adat schimpstraf** (the Atjehnese customary punishment of public mockery) was the punishment prescribed in old [[Acheh|Atjeh]] for a man who had beaten his wife — the malefactor was paraded through the village seated on a female buffalo, dressed in a head-cloth of dried banana-leaves and hung with wooden weapons and a chain of shells, to the public mockery of the village; alternatively, the delinquent was required to crawl on all fours for several days in public, wearing a ring in his nose and eating grass, "as if he were a buffalo." The punishment is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 104) and is documented in the principal sources [[K. F. H. van Langen|Van Langen]]'s [[Van Langen's Atjeh's Westkust ([[1888]])|*Atjeh's Westkust*]] (p. 481), [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 120), and [[G. A. J. Wilken|Wilken]]'s *Verspreide Geschriften* (vol. II, p. 488).
+The **Atjeh adat schimpstraf** (the Atjehnese customary punishment of public mockery) was the punishment prescribed in old [[Acheh|Atjeh]] for a man who had beaten his wife — the malefactor was paraded through the village seated on a female buffalo, dressed in a head-cloth of dried banana-leaves and hung with wooden weapons and a chain of shells, to the public mockery of the village; alternatively, the delinquent was required to crawl on all fours for several days in public, wearing a ring in his nose and eating grass, "as if he were a buffalo." The punishment is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 104) and is documented in the principal sources [[K. F. H. van Langen|Van Langen]]'s [[Van Langen's Atjeh's Westkust ([[1888]])|*Atjeh's Westkust*]] (p. 481), [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 120), and [[G. A. J. Wilken|Wilken]]'s *Verspreide Geschriften* (vol. II, p. 488).
 
 ## The punishment
 The schimpstraf passage in *De Karbouw* (p. 104) reads:
@@ -18,7 +18,7 @@ The symbolic logic of both forms is the same: the malefactor is symbolically con
 The punishment is documented in three principal sources, all cited by [[J. Kreemer|Kreemer]] in *De Karbouw*:
 
 - [[K. F. H. van Langen|Van Langen]]'s [[Van Langen's Atjeh's Westkust ([[1888]])|*Atjeh's Westkust*]] ([[1888]]), p. 481 — the standard Dutch geographical account of the [[Atjeh's Westkust|Westkust van Atjeh]], and the earliest of the three sources.
-- [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] ([[1893]]-94), vol. I, p. 120 — the foundational ethnography of the Atjehnese.
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] ([[1893]]-94), vol. I, p. 120 — the foundational ethnography of the Atjehnese.
 - [[G. A. J. Wilken|Wilken]]'s *Verspreide Geschriften* (collected writings), vol. II, p. 488 — the comparative ethnographic source.
 The concurrence of these three authorities, across the late-nineteenth-century Dutch ethnographic literature, fixes the punishment as a documented institution of old Atjeh.
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 104.
@@ -33,7 +33,7 @@ The Atjeh adat schimpstraf is significant for the encyclopedia of [[Acheh]] hist
 ## See Also
 - [[Atjeh's Westkust]]
 - [[Atjehse Id al-Adha cow-not-buffalo choice]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[G. A. J. Wilken]]
 - [[K. F. H. van Langen]]
 - [[Kreemer's De Karbouw ([[1956]])]]

@@ -3,7 +3,7 @@ title: Europe
 aliases: [Europa, European powers]
 tags: [place, continent, metropolitan-government]
 ---
-**Europe** (Dutch: *Europa*) is the continent from which the metropolitan governments in [[London]] and [[The Hague]] directed their respective Indian and Archipelago affairs throughout the period covered by Van der Kemp's study of the [[Acheh Treaty of 1819|Atjeh agreement of 1819]]. Although the events of the treaty itself unfolded in Achehnese and British Indian waters, the political impulses behind them — and the eventual settlement embodied in the [[Anglo-Dutch Treaty of London 1824|London treaty of 17 March 1824]] — originated in European cabinets.
+**Europe** (Dutch: *Europa*) is the continent from which the metropolitan governments in [[London]] and [[The Hague]] directed their respective Indian and Archipelago affairs throughout the period covered by Van der Kemp's study of the [[Acheh Treaty of 1819|Atjeh agreement of 1819]]. Although the events of the treaty itself unfolded in Achehnese and British Indian waters, the political impulses behind them — and the eventual settlement embodied in the [[Anglo-Dutch Treaty of 1824|London treaty of 17 March 1824]] — originated in European cabinets.
 
 Van der Kemp repeatedly invokes "Europe" as the locus of strategic decision-making. The instructions under which Raffles and Coombs acted were "instructions from Europe," which Raffles himself interpreted as contemplating "the formation of a mere" commercial establishment, but which, he argued, "evidently look to the establishment of an European influence, that is to say" an active political intervention in Achehnese affairs (Van der Kemp, 1900, p. 188). The framing reveals how thin the line was, in the early nineteenth-century imagination, between commerce and sovereignty, and how strongly European rivalries could be projected onto the Eastern Seas.
 
@@ -16,7 +16,7 @@ Van der Kemp also uses "Europe" in a more cultural sense, contrasting the civili
 - [[London]]
 - [[The Hague]]
 - [[Netherlands]]
-- [[Anglo-Dutch Treaty of London 1824]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London 1824]]
 - [[Acheh Treaty of 1819]]
 
 ## Source

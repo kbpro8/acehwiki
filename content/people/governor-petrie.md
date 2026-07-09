@@ -13,7 +13,7 @@ The political superintendence of Achehnese affairs had been assigned by the Beng
 
 ## Death and Succession
 
-Petrie died in office, and on his death [[Colonel John Alexander Bannerman|Bannerman]] succeeded him as Governor of Penang. Van der Kemp notes that Bannerman, on his appointment, «fell into the middle of the Achehnese questions, which were unknown to him» — questions that Petrie had set in train by authorising the Coombs mission and that would culminate, under Bannerman's successor, in the [[Raffles-Coombs Acheh Commission (1819)|Raffles-Coombs commission of 1819]] and the [[Acheh treaty of 1819|treaty of 22 April 1819]].
+Petrie died in office, and on his death [[Colonel John Alexander Bannerman|Bannerman]] succeeded him as Governor of Penang. Van der Kemp notes that Bannerman, on his appointment, «fell into the middle of the Achehnese questions, which were unknown to him» — questions that Petrie had set in train by authorising the Coombs mission and that would culminate, under Bannerman's successor, in the [[Raffles-Coombs Acheh Commission (1819)|Raffles-Coombs commission of 1819]] and the [[Treaty of Pedir (1819)|treaty of 22 April 1819]].
 
 ## See Also
 
@@ -42,7 +42,7 @@ The political superintendence of Achehnese affairs had been assigned by the Beng
 
 ## Death and Succession
 
-Petrie died in office, and on his death [[Colonel John Alexander Bannerman|Bannerman]] succeeded him as Governor of Penang. Van der Kemp notes that Bannerman, on his appointment, «fell into the middle of the Achehnese questions, which were unknown to him» — questions that Petrie had set in train by authorising the Coombs mission and that would culminate, under Bannerman's successor, in the [[Raffles-Coombs Acheh Commission (1819)|Raffles-Coombs commission of 1819]] and the [[Acheh treaty of 1819|treaty of 22 April 1819]].
+Petrie died in office, and on his death [[Colonel John Alexander Bannerman|Bannerman]] succeeded him as Governor of Penang. Van der Kemp notes that Bannerman, on his appointment, «fell into the middle of the Achehnese questions, which were unknown to him» — questions that Petrie had set in train by authorising the Coombs mission and that would culminate, under Bannerman's successor, in the [[Raffles-Coombs Acheh Commission (1819)|Raffles-Coombs commission of 1819]] and the [[Treaty of Pedir (1819)|treaty of 22 April 1819]].
 
 ## See Also
 

@@ -4,7 +4,7 @@ aliases: [Sultan Iskandar Thani, Iskandar II, Iskandar Thani of Atjeh, Sultan Is
 tags: [person, sultan, atjeh, acehnese, 17th-century, islamic, source]
 ---
 
-**Sultan Iskandar II** — also known as **Sultan Iskandar Thani** — was the Sultan of [[Acheh|Atjeh]] from [[1636]] to [[1641]], the immediate successor of [[Sultan Iskandar Muda|Iskandar Muda]] (the "Roi soleil" of Atjeh), and the patron under whom [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] composed the principal Malay-language works of the Atjehnese orthodox reform: the *[[Sirat al-mustaqim|Sirāṭ al-mustaqīm]]* (March [[1638]]), the *[[Bustanu's-Salatin|Bustān as-Salāṭīn]]* ([[1638]]), and the *Bad' khalq as-samawat wal-arwah* ([[1638]]). His brief reign — five years between the death of Iskandar Muda in [[1636]] and his own death in [[1641]] — is the chronological frame of the orthodox reform that produced the principal Malay-language works of the Atjehnese court.
+**Sultan Iskandar II** — also known as **Sultan Iskandar Thani** — was the Sultan of [[Acheh|Atjeh]] from [[1636]] to [[1641]], the immediate successor of [[Sultan Iskandar Muda|Iskandar Muda]] (the "Roi soleil" of Atjeh), and the patron under whom [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] composed the principal Malay-language works of the Atjehnese orthodox reform: the *[[Sirat al-Mustaqim|Sirāṭ al-mustaqīm]]* (March [[1638]]), the *[[Bustan al-Salatin|Bustān as-Salāṭīn]]* ([[1638]]), and the *Bad' khalq as-samawat wal-arwah* ([[1638]]). His brief reign — five years between the death of Iskandar Muda in [[1636]] and his own death in [[1641]] — is the chronological frame of the orthodox reform that produced the principal Malay-language works of the Atjehnese court.
 
 ## Accession and Date
 
@@ -18,17 +18,17 @@ The commission of the *Bustān* — and, by implication, of the *Sirāṭ* and t
 
 ## The Orthodox Reform
 
-The composition of the *[[Sirat al-mustaqim|Sirāṭ]]*, the *[[Bustanu's-Salatin|Bustān]]*, and the *Bad'* in [[1638]] coincides with ar-Rānīrī's public disputation against the *Wujudiyyah* — the heterodox mystical school that had been patronised at the Atjehnese court under Iskandar Muda. Iskandar II's patronage of ar-Rānīrī's orthodox reform — which produced the principal Malay-language works of the Atjehnese court in [[1638]] — was thus the theological-literary expression of the disputation, and the reversal of the religious policy of Iskandar Muda's reign.
+The composition of the *[[Sirat al-Mustaqim|Sirāṭ]]*, the *[[Bustan al-Salatin|Bustān]]*, and the *Bad'* in [[1638]] coincides with ar-Rānīrī's public disputation against the *Wujudiyyah* — the heterodox mystical school that had been patronised at the Atjehnese court under Iskandar Muda. Iskandar II's patronage of ar-Rānīrī's orthodox reform — which produced the principal Malay-language works of the Atjehnese court in [[1638]] — was thus the theological-literary expression of the disputation, and the reversal of the religious policy of Iskandar Muda's reign.
 
 ## Significance
 
-For AcehWiki, Sultan Iskandar II is significant as the patron under whom the principal Malay-language works of the Atjehnese orthodox reform were composed. His brief reign ([[1636]]-[[1641]]) is the chronological frame of ar-Rānīrī's *[[Sirat al-mustaqim|Sirāṭ]]*, *[[Bustanu's-Salatin|Bustān]]*, and *Bad' khalq as-samawat wal-arwah* — the three works that together constitute the literary apparatus of ar-Rānīrī's orthodox reform of the Atjehnese court, and the principal Malay-language works of the Atjehnese seventeenth century.
+For AcehWiki, Sultan Iskandar II is significant as the patron under whom the principal Malay-language works of the Atjehnese orthodox reform were composed. His brief reign ([[1636]]-[[1641]]) is the chronological frame of ar-Rānīrī's *[[Sirat al-Mustaqim|Sirāṭ]]*, *[[Bustan al-Salatin|Bustān]]*, and *Bad' khalq as-samawat wal-arwah* — the three works that together constitute the literary apparatus of ar-Rānīrī's orthodox reform of the Atjehnese court, and the principal Malay-language works of the Atjehnese seventeenth century.
 
 ## See Also
 
 - [[Nur al-Din al-Raniri]]
-- [[Sirat al-mustaqim]]
-- [[Bustanu's-Salatin]]
+- [[Sirat al-Mustaqim|Sirat al-mustaqim]]
+- [[Bustan al-Salatin|Bustanu's-Salatin]]
 - [[Sultan Iskandar Muda]]
 - [[Over Maleise Literatuur (1947)]]
 - [[Acheh]]

@@ -18,7 +18,7 @@ On [[3 December]] [[1911]], the korporaal *[[Nussy]]* went out with his *spits* 
 
 ## The dardanel as the corps's most decorated post
 
-Because the *dardanel* took the first fire and engaged the first enemy, the post was the most dangerous in the corps and the most decorated. *[[Nussy]]* — a *dardanel* under [[Vastenou]] and [[Dersjant]] — became a Ridder 3e klas of the [[Militaire Willemsorde (M.W.O.)|M.W.O.]]. The pairing of the *dardanel* with the *spits* (the man ahead of even the *dardanel*) and the *[[bekas]]* spoorzoeker (the footprint-reader) made up the point-system of the Marechaussee patrouille.
+Because the *dardanel* took the first fire and engaged the first enemy, the post was the most dangerous in the corps and the most decorated. *[[Nussy]]* — a *dardanel* under [[Vastenou]] and [[Dersjant]] — became a Ridder 3e klas of the [[Militaire Willemsorde|M.W.O.]]. The pairing of the *dardanel* with the *spits* (the man ahead of even the *dardanel*) and the *[[bekas]]* spoorzoeker (the footprint-reader) made up the point-system of the Marechaussee patrouille.
 
 ## Significance
 

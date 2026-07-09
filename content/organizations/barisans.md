@@ -10,7 +10,7 @@ Barisan units were employed in the marshy sawahs, helping to carry artillery pie
 
 ## See Also
 - [[Madoera]]
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[Dutch colonial army]]
 - [[Construction of benteng at Bockit-Daroe]]
 

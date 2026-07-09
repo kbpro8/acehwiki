@@ -21,7 +21,7 @@ The Penang government, now under [[W. E. Phillips|Governor Phillips]], examined 
 
 A more important reference to Sartorius occurs in Van der Kemp's discussion of the Penang government's later policy towards Acheh. Phillips, in his minute of November [[1823]], wrote of "Mr Sartorius's mission to Acheen" that the Honourable Court had "kindly viewed" it and that the Penang government had since confined its representations on Achehnese affairs to the Supreme Government. The substance of Sartorius's Acheh mission, as Van der Kemp explains with reference to [[John Anderson|Anderson's]] *Acheen* (1840), was that he carried with him "the ratified treaty, with a letter directed to the king, to conciliate the chiefs of the country. He was also to receive as many of the chiefs as possible, to visit them, and to persuade them to offer their allegiance to Johor Allum." Sartorius was accordingly instructed to inform [[Sultan Jauhar Alum|Johar Allum]] that all the elders, learned men, and chiefs of Acheh had, at the festival of the last fast, come to entreat his pardon.
 
-Van der Kemp notes that he could find no further particulars of Sartorius's mission in Anderson. It nonetheless emerges from Phillips's minute that the mission took place at some point in 1822 or 1823, and that it represented the Penang government's last serious effort to make good the [[Acheh treaty of 1819]] by attaching the chiefs to Sultan Johar Allum's cause. Its failure — coinciding as it did with the death of Sultan Johar in December [[1823]] and the further weakening of the sultan's party — was one of the considerations which led Phillips to declare that Britain should henceforth "scrupulously abstain from forming any more political relations with native states and from sanction… proceedings likely to affect our political relations with the Dutch without the previous approbation of the Supreme Government".
+Van der Kemp notes that he could find no further particulars of Sartorius's mission in Anderson. It nonetheless emerges from Phillips's minute that the mission took place at some point in 1822 or 1823, and that it represented the Penang government's last serious effort to make good the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] by attaching the chiefs to Sultan Johar Allum's cause. Its failure — coinciding as it did with the death of Sultan Johar in December [[1823]] and the further weakening of the sultan's party — was one of the considerations which led Phillips to declare that Britain should henceforth "scrupulously abstain from forming any more political relations with native states and from sanction… proceedings likely to affect our political relations with the Dutch without the previous approbation of the Supreme Government".
 
 ## See Also
 
@@ -31,7 +31,7 @@ Van der Kemp notes that he could find no further particulars of Sartorius's miss
 - [[W. E. Phillips]]
 - [[Timmerman Thyssen]]
 - [[Colonel E. Lucas]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Pinang Nota (1825)]]
 - [[Sartorius mission to Acheh]]
 
@@ -57,7 +57,7 @@ The Penang government, now under [[W. E. Phillips|Governor Phillips]], examined 
 
 A more important reference to Sartorius occurs in Van der Kemp's discussion of the Penang government's later policy towards Acheh. Phillips, in his minute of November [[1823]], wrote of "Mr Sartorius's mission to Acheen" that the Honourable Court had "kindly viewed" it and that the Penang government had since confined its representations on Achehnese affairs to the Supreme Government. The substance of Sartorius's Acheh mission, as Van der Kemp explains with reference to [[John Anderson|Anderson's]] *Acheen* (1840), was that he carried with him "the ratified treaty, with a letter directed to the king, to conciliate the chiefs of the country. He was also to receive as many of the chiefs as possible, to visit them, and to persuade them to offer their allegiance to Johor Allum." Sartorius was accordingly instructed to inform [[Sultan Jauhar Alum|Johar Allum]] that all the elders, learned men, and chiefs of Acheh had, at the festival of the last fast, come to entreat his pardon.
 
-Van der Kemp notes that he could find no further particulars of Sartorius's mission in Anderson. It nonetheless emerges from Phillips's minute that the mission took place at some point in 1822 or 1823, and that it represented the Penang government's last serious effort to make good the [[Acheh treaty of 1819]] by attaching the chiefs to Sultan Johar Allum's cause. Its failure — coinciding as it did with the death of Sultan Johar in December [[1823]] and the further weakening of the sultan's party — was one of the considerations which led Phillips to declare that Britain should henceforth "scrupulously abstain from forming any more political relations with native states and from sanction… proceedings likely to affect our political relations with the Dutch without the previous approbation of the Supreme Government".
+Van der Kemp notes that he could find no further particulars of Sartorius's mission in Anderson. It nonetheless emerges from Phillips's minute that the mission took place at some point in 1822 or 1823, and that it represented the Penang government's last serious effort to make good the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] by attaching the chiefs to Sultan Johar Allum's cause. Its failure — coinciding as it did with the death of Sultan Johar in December [[1823]] and the further weakening of the sultan's party — was one of the considerations which led Phillips to declare that Britain should henceforth "scrupulously abstain from forming any more political relations with native states and from sanction… proceedings likely to affect our political relations with the Dutch without the previous approbation of the Supreme Government".
 
 ## See Also
 
@@ -67,7 +67,7 @@ Van der Kemp notes that he could find no further particulars of Sartorius's miss
 - [[W. E. Phillips]]
 - [[Timmerman Thyssen]]
 - [[Colonel E. Lucas]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Pinang Nota (1825)]]
 - [[Sartorius mission to Acheh]]
 

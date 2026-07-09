@@ -4,7 +4,7 @@ aliases: [Tibjān fī maʿrifat al-adyān, Tibjan, Tibyān al-madhāhib, Tibyān
 tags: [document, religious-work, manuscript, islamic-scholarship, sects, polemic, precolonial, 17th-century, aceh, malay, gujarati]
 ---
 
-**The *Tibjān fī maʿrifat al-adyān*** ("Elucidation concerning the knowledge of religions") is the first of the two Malay treatises of [[Raniri|Nuruddin ar-Raniri]] edited in facsimile by [[P. Voorhoeve|P. Voorhoeve]] in the [[1955]] volume of the *Uitgaven van de Stichting De Goeje*. Composed before Raniri's arrival in [[Acheh]] in [[1637]] and probably completed in [[1637]] or shortly thereafter, it enumerates the pre-Islamic religions and the sects within Islam with the avowed aim of warning the faithful against these aberrations and — above all — against the doctrine of the heretical [[Wujudiyyah]] that flourished at the Achehnese court of [[Sultan Iskandar Muda|Iskandar Muda]] under the influence of [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]] and the school of [[Hamzah Pansuri]]. The Voorhoeve edition reproduces the Leiden manuscript Cod. Or. 3291 from the legacy of [[Herman Neubronner van der Tuuk|Van der Tuuk]], a copy made about [[1855]] for Van der Tuuk from a good older exemplair of Achehnese provenance.
+**The *Tibjān fī maʿrifat al-adyān*** ("Elucidation concerning the knowledge of religions") is the first of the two Malay treatises of [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]] edited in facsimile by [[P. Voorhoeve|P. Voorhoeve]] in the [[1955]] volume of the *Uitgaven van de Stichting De Goeje*. Composed before Raniri's arrival in [[Acheh]] in [[1637]] and probably completed in [[1637]] or shortly thereafter, it enumerates the pre-Islamic religions and the sects within Islam with the avowed aim of warning the faithful against these aberrations and — above all — against the doctrine of the heretical [[Wujudiyyah]] that flourished at the Achehnese court of [[Sultan Iskandar Muda|Iskandar Muda]] under the influence of [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]] and the school of [[Hamzah Pansuri]]. The Voorhoeve edition reproduces the Leiden manuscript Cod. Or. 3291 from the legacy of [[Herman Neubronner van der Tuuk|Van der Tuuk]], a copy made about [[1855]] for Van der Tuuk from a good older exemplair of Achehnese provenance.
 
 ## Background and purpose
 
@@ -43,7 +43,7 @@ For the section in which Raniri refutes the *[[Kitab al-Muntahi|Kitāb al-Muttah
 
 ## Significance
 
-The *Tibjān* is, after the [[Sirat al-mustaqim|*Ṣirāṭ al-mustaqīm*]] and alongside the [[Bustan al-Salatin|*Bustan al-Salāṭīn*]], one of the foundational works of Malay scholastic prose. It preserves, in its polemic, the only extended quotations from the [[Kitab al-Muntahi|*Kitāb al-Muntahī*]] of [[Hamzah Pansuri]] and the [[Mir'at al-muhakkikin|*Mirʾāt al-muḥaqqiqīn*]] of [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]] — works whose own manuscripts have survived only in fragments. Its catalog of sects is the chief vehicle by which the scholastic classification of Muslim heresies was transmitted to the Malay-Indonesian world. And it is the principal witness to the religious and intellectual constellation of [[Acheh]] in the years [[1636]]–[[1641]]: a court in transition from the [[Wujudiyyah]] mysticism of the age of [[Sultan Iskandar Muda|Iskandar Muda]] to the orthodox reaction of [[Iskandar Thani]] and [[Sultan Tajul-alam|Taj al-Ālam]], a transition in which Raniri himself was the principal actor.
+The *Tibjān* is, after the [[Sirat al-Mustaqim|*Ṣirāṭ al-mustaqīm*]] and alongside the [[Bustan al-Salatin|*Bustan al-Salāṭīn*]], one of the foundational works of Malay scholastic prose. It preserves, in its polemic, the only extended quotations from the [[Kitab al-Muntahi|*Kitāb al-Muntahī*]] of [[Hamzah Pansuri]] and the [[Mir'at al-muhakkikin|*Mirʾāt al-muḥaqqiqīn*]] of [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]] — works whose own manuscripts have survived only in fragments. Its catalog of sects is the chief vehicle by which the scholastic classification of Muslim heresies was transmitted to the Malay-Indonesian world. And it is the principal witness to the religious and intellectual constellation of [[Acheh]] in the years [[1636]]–[[1641]]: a court in transition from the [[Wujudiyyah]] mysticism of the age of [[Sultan Iskandar Muda|Iskandar Muda]] to the orthodox reaction of [[Iskandar Thani]] and [[Sultan Tajul-alam|Taj al-Ālam]], a transition in which Raniri himself was the principal actor.
 
 ## See Also
 
@@ -69,12 +69,12 @@ The *Tibjān* is, after the [[Sirat al-mustaqim|*Ṣirāṭ al-mustaqīm*]] and 
 - [[P. Voorhoeve]]
 - [[Ph. S. van Ronkel]]
 - [[Pulo Ai]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's arrival in Acheh (1637)]]
 - [[Raniri's public debate against the Wujudiyyah in Acheh]]
 - [[Royal Asiatic Society]]
 - [[Shaikh Shamsuddin of Sumatra]]
-- [[Sirat al-mustaqim]]
+- [[Sirat al-Mustaqim|Sirat al-mustaqim]]
 - [[Stichting De Goeje]]
 - [[Sultan Iskandar Muda]]
 - [[Tamhid fi bayan at-tawhid]]

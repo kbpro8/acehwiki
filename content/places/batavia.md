@@ -14,7 +14,7 @@ The VOC established Batavia in [[1619]] after expelling the Portuguese from *Sun
 
 Batavia functioned as the seat of the Governor‑General and the Council of the Dutch East India Company, later the Dutch colonial government. From here the Dutch directed policy over their possessions in the Eastern Archipelago, as described in P. H. van der Kemp’s *Raffles' Atjeh‑overeenkomst van 1819*. The city’s authority extended from the restoration of Dutch rule after the [[Anglo-Dutch Treaty of London (1814)|restoration of Dutch rule]] in [[1816]] to the [[Bellona mission to Sumatra's East Coast (1827-1828)|Bellona mission]] of [[1827]]–[[1828]]. 
 
-Van der Kemp contrasts Batavia with the British‑founded [[Singapore]] in [[February]] [[1819]], calling Singapore an “**anti‑Batavia**” intended to rival the Dutch capital as an entrepôt of Eastern trade. He records that Sir Thomas Stamford [[Raffles]] defended his unauthorised actions before the Batavian government in “long writings”.
+Van der Kemp contrasts Batavia with the British‑founded [[Singapore]] in [[February]] [[1819]], calling Singapore an “**anti‑Batavia**” intended to rival the Dutch capital as an entrepôt of Eastern trade. He records that Sir Thomas Stamford [[Sir Thomas Stamford Raffles|Raffles]] defended his unauthorised actions before the Batavian government in “long writings”.
 
 ## Connection to Aceh and Military Operations
 
@@ -24,7 +24,7 @@ From Batavia the order of [[30 September]] [[1819]] was sent to [[Penang]] conce
 
 The *Wilhelmina* affair prompted further Batavian orders: on [[20 January]] [[1821]] the Batavian government, through Thyssen, demanded the surrender of the mutineers and the restitution of stolen specie; the dispatch of the *Irene* under [[Colonel E. Lucas|Colonel Lucas]] was a Batavian initiative. After eleven mutineers were handed over by [[Sartorius|Sartorius]] and sent to Batavia, the Batavian assessment of the incident was “less favourable” toward the conduct of the officers involved.
 
-In the later 1820s Batavia was portrayed by British observers as the seat of a deliberate hostility toward Singapore. [[John Prince]], former resident of Singapore, wrote from Batavia on [[29 November]] [[1827]] that Commissioner‑General [[Commissioner-General Du Bus|Du Bus]] planned to send the frigate *Bellona* to the East Coast of Sumatra to divert native trade to [[Riouw]] and to reduce the price of Java salt from 70 to 30 rupees per coyan. Van der Kemp, however, notes that the salt‑price reduction was advised by [[Van de Graaff]] to keep Dutch salt competitive, not a measure specifically directed against Singapore. After the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]], Batavia’s proximity made Sumatra’s administration more readily governed from the city than from [[Calcutta]].
+In the later 1820s Batavia was portrayed by British observers as the seat of a deliberate hostility toward Singapore. [[John Prince]], former resident of Singapore, wrote from Batavia on [[29 November]] [[1827]] that Commissioner‑General [[Commissioner-General Du Bus|Du Bus]] planned to send the frigate *Bellona* to the East Coast of Sumatra to divert native trade to [[Riouw]] and to reduce the price of Java salt from 70 to 30 rupees per coyan. Van der Kemp, however, notes that the salt‑price reduction was advised by [[Van de Graaff]] to keep Dutch salt competitive, not a measure specifically directed against Singapore. After the [[Anglo-Dutch Treaty of 1824|treaty of 1824]], Batavia’s proximity made Sumatra’s administration more readily governed from the city than from [[Calcutta]].
 
 ## Acehnese Understanding and Cultural Significance
 
@@ -36,7 +36,7 @@ Batavia was a centre of Malay scholarship. Van den Berg’s *Catalogue of Malay 
 
 ## Naval Transit Point (Late Nineteenth Century)
 
-A report by [[J.J. Korndörffer]] titled *Rapport aan Z.E. den Minister van Marine over de reis van Nederland via Batavia naer Atjeh* describes Batavia as the staging port where troops, supplies, and steam vessels were assembled before sailing north to Aceh. During the campaigns of the 1870s Batavia’s facilities were crucial for maintaining Dutch naval and army presence on the Aceh frontier.
+A report by [[J. J. Korndörffer|J.J. Korndörffer]] titled *Rapport aan Z.E. den Minister van Marine over de reis van Nederland via Batavia naer Atjeh* describes Batavia as the staging port where troops, supplies, and steam vessels were assembled before sailing north to Aceh. During the campaigns of the 1870s Batavia’s facilities were crucial for maintaining Dutch naval and army presence on the Aceh frontier.
 
 ## Urban Development, Decline and Renaming
 
@@ -71,13 +71,13 @@ Batavia epitomised the Dutch colonial project in the East Indies: a fortified po
 - [[Commissioner-General Du Bus]]
 - [[John Prince]]
 - [[Van de Graaff]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Anglo-Dutch Treaty of London (1814)]]
 - [[Bellona mission to Sumatra's East Coast (1827-1828)]]
 - [[Wilhelmina mutiny and murder of Bouwens]]
-- [[J.J. Korndörffer]]
+- [[J. J. Korndörffer|J.J. Korndörffer]]
 - [[Kweekschool voor de Zeevaart]]
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Royal Netherlands Marine Corps]]
 - [[Royal Netherlands East Indies Army]]
 
@@ -91,4 +91,4 @@ Batavia epitomised the Dutch colonial project in the East Indies: a fortified po
 
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pp. 78‑79. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
 
-*Rapport aan Z.E. den Minister van Marine over de reis van Nederland via Batavia naer Atjeh* by [[J.J. Korndörffer]], archival manuscript, Koninklijk Instituut voor Taal‑Land‑en‑Volkenkunde, NL‑ARCH‑00123.
+*Rapport aan Z.E. den Minister van Marine over de reis van Nederland via Batavia naer Atjeh* by [[J. J. Korndörffer|J.J. Korndörffer]], archival manuscript, Koninklijk Instituut voor Taal‑Land‑en‑Volkenkunde, NL‑ARCH‑00123.

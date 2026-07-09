@@ -18,7 +18,7 @@ The reorganization deliberations at Koeta-Radja proposed that [[Groot-Atjeh]] be
 
 ## See Also
 
-[[H. N. N. A. Swart]], [[I. L. O'Brien]], [[Groot-Atjeh]], [[Sagi]], [[Westkust van Atjeh]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Noord-Sumatra (proposed gewest)]], [[Inlandsch Bestuur]], [[Koeta-Radja]]
+[[H. N. A. Swart|H. N. N. A. Swart]], [[I. L. O'Brien]], [[Groot-Atjeh]], [[Sagi]], [[Westkust van Atjeh]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Noord-Sumatra (proposed gewest)]], [[Inlandsch Bestuur]], [[Koeta-Radja]]
 
 ## Source
 

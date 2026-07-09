@@ -16,7 +16,7 @@ At the commencement of the [[Achehnese War|war]] both chiefs fled to [[Keumala]]
 
 ## Historical Significance
 
-The episode is instructive as an example of the impotence of the late Sultanate in the face of local adat. The [[Edicts of Meukuta Alam|centralising legislation]] of an earlier age had presupposed a Sultan strong enough to enforce his own nominations; by the reign of Ibrahim Manso Shah, even so elementary a matter as the recognition of the adat-successor to the panglimaship of a single sagi could not be carried through without compromise. The two sons born of the dispute — Teuku Nya' Banta of Lamreueng and Teuku Juhan of Lampaseh — divided the office between them, and passed on that divided inheritance to the colonial regime that succeeded the Sultanate.
+The episode is instructive as an example of the impotence of the late Sultanate in the face of local adat. The [[Adat Meukuta Alam|centralising legislation]] of an earlier age had presupposed a Sultan strong enough to enforce his own nominations; by the reign of Ibrahim Manso Shah, even so elementary a matter as the recognition of the adat-successor to the panglimaship of a single sagi could not be carried through without compromise. The two sons born of the dispute — Teuku Nya' Banta of Lamreueng and Teuku Juhan of Lampaseh — divided the office between them, and passed on that divided inheritance to the colonial regime that succeeded the Sultanate.
 
 ## See Also
 

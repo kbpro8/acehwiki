@@ -25,7 +25,7 @@ The mutineers landed at Pasangan, secreted much of the stolen money in the groun
 
 ## Legacy
 
-Bouwens's murder illustrates two structural weaknesses of the Dutch colonial state in this period: its reliance on indigenous crews in small vessels of war, and its limited capacity to enforce its claims beyond the immediate reach of its own guns. The case is also a vivid instance of how an isolated act of violence at sea could become, in the tense diplomatic climate following the [[Anglo-Dutch Treaty of London (1824)|treaty negotiations of 1824]], the seed of an international incident.
+Bouwens's murder illustrates two structural weaknesses of the Dutch colonial state in this period: its reliance on indigenous crews in small vessels of war, and its limited capacity to enforce its claims beyond the immediate reach of its own guns. The case is also a vivid instance of how an isolated act of violence at sea could become, in the tense diplomatic climate following the [[Anglo-Dutch Treaty of 1824|treaty negotiations of 1824]], the seed of an international incident.
 
 ## See Also
 
@@ -67,7 +67,7 @@ The mutineers landed at Pasangan, secreted much of the stolen money in the groun
 
 ## Legacy
 
-Bouwens's murder illustrates two structural weaknesses of the Dutch colonial state in this period: its reliance on indigenous crews in small vessels of war, and its limited capacity to enforce its claims beyond the immediate reach of its own guns. The case is also a vivid instance of how an isolated act of violence at sea could become, in the tense diplomatic climate following the [[Anglo-Dutch Treaty of London (1824)|treaty negotiations of 1824]], the seed of an international incident.
+Bouwens's murder illustrates two structural weaknesses of the Dutch colonial state in this period: its reliance on indigenous crews in small vessels of war, and its limited capacity to enforce its claims beyond the immediate reach of its own guns. The case is also a vivid instance of how an isolated act of violence at sea could become, in the tense diplomatic climate following the [[Anglo-Dutch Treaty of 1824|treaty negotiations of 1824]], the seed of an international incident.
 
 ## See Also
 

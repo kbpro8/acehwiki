@@ -8,18 +8,18 @@ tags: [person, author, dutch, colonial, military, padri, sumatra, westkust, 1939
 
 ## The 1939 article
 
-Da Costa's article surveyed the [[Padri War on Sumatra's East Coast|Padrie-oorlog]] — the Padri War — in three aspects: its *oorsprong* (origin), *strijd* (struggle), and *verloop* (course, development) on [[Sumatra's Westkust|Sumatra's Westkust]]. The double publication — in the *Orgaan van de Nederlandsch-Indische Officiersvereeniging* (the principal professional journal of the Netherlands Indies officer corps) and in *Ons Aller Belang* (a periodical of broader colonial interest) — marks the article as one judged to be of interest to both military and civilian colonial readerships. The restriction of the survey to "Sumatra's Westkust" — the west coast — is the article's distinctive contribution, connecting the [[Padri War on Sumatra's East Coast|Padri War]] to the longer history of the [[westkust-van-sumatra|Westkust of Sumatra]] and of the Atjehnese presence on that coast.
+Da Costa's article surveyed the [[Padri War|Padrie-oorlog]] — the Padri War — in three aspects: its *oorsprong* (origin), *strijd* (struggle), and *verloop* (course, development) on [[Sumatra's Westkust|Sumatra's Westkust]]. The double publication — in the *Orgaan van de Nederlandsch-Indische Officiersvereeniging* (the principal professional journal of the Netherlands Indies officer corps) and in *Ons Aller Belang* (a periodical of broader colonial interest) — marks the article as one judged to be of interest to both military and civilian colonial readerships. The restriction of the survey to "Sumatra's Westkust" — the west coast — is the article's distinctive contribution, connecting the [[Padri War|Padri War]] to the longer history of the [[westkust-van-sumatra|Westkust of Sumatra]] and of the Atjehnese presence on that coast.
 
 ## Significance
 
-For AcehWiki, S. da Costa is significant as the author of the [[1939]] retrospective on the [[Padri War on Sumatra's East Coast|Padri War]] as fought on [[Sumatra's Westkust|Sumatra's Westkust]] — an independent source for the west-coast dimension of the Padri War, complementing the corpus's existing entry on the [[Padri War on Sumatra's East Coast|Padri War on Sumatra's East Coast]], which treats the war from the perspective of the east-coast theatre.
+For AcehWiki, S. da Costa is significant as the author of the [[1939]] retrospective on the [[Padri War|Padri War]] as fought on [[Sumatra's Westkust|Sumatra's Westkust]] — an independent source for the west-coast dimension of the Padri War, complementing the corpus's existing entry on the [[Padri War|Padri War]], which treats the war from the perspective of the east-coast theatre.
 
 ## See Also
 
 - [[De Padrie-oorlog (Costa, 1939)]]
 - [[Literatuur-Overzicht over het jaar 1939 (Van Meurs, 1940)]]
 - [[H. van Meurs]]
-- [[Padri War on Sumatra's East Coast]]
+- [[Padri War|Padri War on Sumatra's East Coast]]
 - [[westkust-van-sumatra]]
 - [[atjeh's-westkust]]
 - [[Acheh]]

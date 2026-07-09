@@ -20,7 +20,7 @@ A similar letter was written at the same time by the translator [[John Anderson|
 
 ## Significance
 
-The letter of [[7 February 1828|7 February 1828]] is the opening move in the diplomatic campaign of which the [[Fullerton's circular to nine Siak chiefs|circular of 21 May 1828]] was the second. Together they constituted, in Van der Kemp's reading, the British counter-stroke to the Dutch [[Bellona mission to Sumatra's East Coast (1827-1828)|Bellona mission]] and the first formal British intervention in the affairs of the Sumatran states since the [[Anglo-Dutch Treaty of London (1824)|Treaty of 1824]]. The "broad Siak-correspondence" of 1828 marked, in Van der Kemp's view, the moment at which the Penang government began systematically to contest the Dutch claim to exclusive political relations with the chiefs of Sumatra.
+The letter of [[7 February 1828|7 February 1828]] is the opening move in the diplomatic campaign of which the [[Fullerton's circular to nine Siak chiefs|circular of 21 May 1828]] was the second. Together they constituted, in Van der Kemp's reading, the British counter-stroke to the Dutch [[Bellona mission to Sumatra's East Coast (1827-1828)|Bellona mission]] and the first formal British intervention in the affairs of the Sumatran states since the [[Anglo-Dutch Treaty of 1824|Treaty of 1824]]. The "broad Siak-correspondence" of 1828 marked, in Van der Kemp's view, the moment at which the Penang government began systematically to contest the Dutch claim to exclusive political relations with the chiefs of Sumatra.
 
 ## See Also
 
@@ -32,7 +32,7 @@ The letter of [[7 February 1828|7 February 1828]] is the opening move in the dip
 - [[Fullerton's minute on Acheh]]
 - [[John Prince]]
 - [[Du Bus]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Siak]]
 - [[Singapore]]
 - [[Malacca]]

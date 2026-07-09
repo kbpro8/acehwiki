@@ -11,7 +11,7 @@ De Kock’s campaign faced numerous obstacles, such as obstructed waterways, f
 
 ## See Also
 
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Palembang]]
 - [[1821 Palembang expedition]]
 - [[Aceh]]

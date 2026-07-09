@@ -4,7 +4,7 @@ aliases: [Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq, Hujjat as-siddiq, Hujjat 
 tags: [document, religious-work, manuscript, islamic-scholarship, polemic, precolonial, 17th-century, aceh, malay, gujarati, wujudiyyah]
 ---
 
-**The *Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*** ("The argument of the pious one for the refutation of the heretic") is the second of the two Malay treatises of [[Raniri|Nuruddin ar-Raniri]] edited in facsimile by [[P. Voorhoeve|P. Voorhoeve]] in the [[1955]] volume of the *Uitgaven van de Stichting De Goeje*. Shorter than the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] and directed entirely against the [[Wujudiyyah]], it sets out four positions on the relation of God's being to the world — those of the theologians, the Sufis, the philosophers, and the heretical Wujūdiyyah — and refutes the last. The Voorhoeve edition reproduces the only known complete manuscript, no. 93 of the Maxwell collection in the library of the [[Royal Asiatic Society]] in London, pp. 119–145.
+**The *Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*** ("The argument of the pious one for the refutation of the heretic") is the second of the two Malay treatises of [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]] edited in facsimile by [[P. Voorhoeve|P. Voorhoeve]] in the [[1955]] volume of the *Uitgaven van de Stichting De Goeje*. Shorter than the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] and directed entirely against the [[Wujudiyyah]], it sets out four positions on the relation of God's being to the world — those of the theologians, the Sufis, the philosophers, and the heretical Wujūdiyyah — and refutes the last. The Voorhoeve edition reproduces the only known complete manuscript, no. 93 of the Maxwell collection in the library of the [[Royal Asiatic Society]] in London, pp. 119–145.
 
 ## Composition and provenance
 
@@ -55,13 +55,13 @@ The *Ḥujjat aṣ-ṣiddīq* is, with the *Tibjān*, one of the two manifestos 
 - [[Lata'if al-asrar]]
 - [[Mir'at al-muhakkikin]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's public debate against the Wujudiyyah in Acheh]]
 - [[Royal Asiatic Society]]
 - [[Shathihiyat]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Sir R. O. Winstedt]]
-- [[Sirat al-mustaqim]]
+- [[Sirat al-Mustaqim|Sirat al-mustaqim]]
 - [[Sultan Tajul-alam]]
 - [[Tibjan fi ma'rifat al-adyan]]
 - [[Wujudiyyah]]

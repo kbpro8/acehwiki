@@ -4,7 +4,7 @@ aliases: [Moord op Mas Soemo Widikdjo, Killing of Mas Soemo Widikdjo, Murder of 
 tags: [event, murder, diplomacy, aceh-war, dutch-colonial]
 ---
 
-**The Murder of Mas Soemo Widikdjo** in [[December 1873|late December 1873]] at [[Longbatta|Longbatta]] in [[Acheh|Atjeh]] was the murder of the native envoy dispatched by Lieutenant-general [[J. van Swieten|Van Swieten]] to deliver two letters to the [[Sultan of Aceh|sultan]] offering peace on the model of the [[Tractaat with Siak of 1858|Siak-tractaat]] and proposing to wage war "in the manner of civilised nations." Mas Soemo Widikdjo, the son of a British-Indian officer, had repeatedly rendered services as a guide or interpreter on previous occasions, hoping for his children to recover the place in society which he had lost for himself by the early death of his father. His murder hardened the Dutch resolution to take the Kraton by force.
+**The Murder of Mas Soemo Widikdjo** in [[December 1873|late December 1873]] at [[Longbatta|Longbatta]] in [[Acheh|Atjeh]] was the murder of the native envoy dispatched by Lieutenant-general [[Jan van Swieten|Van Swieten]] to deliver two letters to the [[Sultan of Aceh|sultan]] offering peace on the model of the [[Tractaat with Siak of 1858|Siak-tractaat]] and proposing to wage war "in the manner of civilised nations." Mas Soemo Widikdjo, the son of a British-Indian officer, had repeatedly rendered services as a guide or interpreter on previous occasions, hoping for his children to recover the place in society which he had lost for himself by the early death of his father. His murder hardened the Dutch resolution to take the Kraton by force.
 
 ## Background
 
@@ -21,7 +21,7 @@ The murder of Mas Soemo Widikdjo hardened the Dutch resolution to take the Krato
 ## See Also
 
 - [[Mas Soemo Widikdjo]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[Longbatta]]
 - [[Imam of Longbatta]]
 - [[Second Aceh Expedition (1873-1874)]]

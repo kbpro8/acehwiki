@@ -13,7 +13,7 @@ Hamka noted that during the celebration of the Prophet’s birth (*Mawlid*) and 
 - [[Burda (poem)]]
 - [[Mawlid]]
 - [[Midrādj]]
-- [[Minangkabau]]
+- [[Menangkabau|Minangkabau]]
 
 ## Source
 *20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pp. 22‑23.

@@ -18,7 +18,7 @@ In addition to the oral consultations, written submissions (*nota* and *missive*
 
 ## Key Conclusions for Atjeh
 
-For the [[Gouvernement Atjeh en Onderhoorigheden]], the reform process produced several critical conclusions that distinguished Atjeh from all other Buitenbezittingen. At the [[Koeta-Radja bestuursvergaderingen (19-20 January 1914)]], Gouverneur [[H. N. N. A. Swart]] declared that the standard form of local *zelfbestuur* (self-governance through autonomous bodies) could NOT be applied to Atjeh because only [[Groot-Atjeh]] and part of [[Singkel]] were *rechtstreeks bestuurd gebied* (directly ruled territory), while the remainder consisted of Inlandsche Zelfbesturen (Native Self-Governments). De Graaff concluded that only [[Gewestelijk Zelfbestuur]] (Regional Self-Governance) was feasible for Atjeh. The question of training Inlandsche ambtenaren (Native officials) for Atjeh was explicitly excluded from discussion due to existing *bestuursverhoudingen* (governance relationships). Atjeh was to be absorbed into the new Gouvernement [[Noord-Sumatra (proposed gewest)]] with its capital at Medan, and its territory divided into several *afdeelingen* (administrative divisions).
+For the [[Gouvernement Atjeh en Onderhoorigheden]], the reform process produced several critical conclusions that distinguished Atjeh from all other Buitenbezittingen. At the [[Koeta-Radja bestuursvergaderingen (19-20 January 1914)]], Gouverneur [[H. N. A. Swart|H. N. N. A. Swart]] declared that the standard form of local *zelfbestuur* (self-governance through autonomous bodies) could NOT be applied to Atjeh because only [[Groot-Atjeh]] and part of [[Singkel]] were *rechtstreeks bestuurd gebied* (directly ruled territory), while the remainder consisted of Inlandsche Zelfbesturen (Native Self-Governments). De Graaff concluded that only [[Gewestelijk Zelfbestuur]] (Regional Self-Governance) was feasible for Atjeh. The question of training Inlandsche ambtenaren (Native officials) for Atjeh was explicitly excluded from discussion due to existing *bestuursverhoudingen* (governance relationships). Atjeh was to be absorbed into the new Gouvernement [[Noord-Sumatra (proposed gewest)]] with its capital at Medan, and its territory divided into several *afdeelingen* (administrative divisions).
 
 ## Proposed Administrative Division
 
@@ -32,7 +32,7 @@ The Bestuursreorganisatie Sumatra represents a pivotal moment in the colonial go
 
 - [[S. de Graaff]]
 - [[J. de Groot]]
-- [[H. N. N. A. Swart]]
+- [[H. N. A. Swart|H. N. N. A. Swart]]
 - [[Koeta-Radja]]
 - [[Koeta-Radja bestuursvergaderingen (19-20 January 1914)]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]

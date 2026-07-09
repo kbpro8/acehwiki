@@ -25,7 +25,7 @@ On [[3 July]] [[1945]], with the Allies approaching, "Masubuchi, on 3 July 1945 
 ## See Also
 
 - [[Masubuchi]]
-- [[Fujiwara]]
+- [[Fujiwara Iwaichi|Fujiwara]]
 - [[Fujiwara-kikan]]
 - [[Maibkatra]]
 - [[PETA]]
@@ -63,7 +63,7 @@ On [[3 July]] [[1945]], with the Allies approaching, "Masubuchi, on 3 July 1945 
 ## See Also
 
 - [[Masubuchi]]
-- [[Fujiwara]]
+- [[Fujiwara Iwaichi|Fujiwara]]
 - [[Fujiwara-kikan]]
 - [[Maibkatra]]
 - [[PETA]]

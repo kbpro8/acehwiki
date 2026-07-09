@@ -27,7 +27,7 @@ The corpse was carried out to [[Tangsé]]. "De bevolking van Tangsé liep uit na
 
 ## Significance
 
-Tjhi Ma'at is the last of the Aceh War's martyrs. His death on [[3 December]] [[1911]] is the moment at which the [[K.N.I.L.]] could declare the [[Atjeh-oorlog|Aceh War]] militarily over — though [[Generaal Swart]] would not hand the country over to a civilian Gouverneur until [[1918]]. The boy's refusal to submit — grounded in the *[[prang sabi]]* doctrine of his grandfather and the *sjahid* inheritance of his father — is the book's clearest example of why the colonial army could not, by arms alone, end the resistance: it had to wait for the last heir of the doctrine to fall. The tearing of the relics at [[Tangsé]] is the book's quiet acknowledgement that the boy's death, far from extinguishing the doctrine, made it a permanent feature of the country's religious memory.
+Tjhi Ma'at is the last of the Aceh War's martyrs. His death on [[3 December]] [[1911]] is the moment at which the [[K.N.I.L.]] could declare the [[Atjeh-oorlog|Aceh War]] militarily over — though [[H. N. A. Swart|Generaal Swart]] would not hand the country over to a civilian Gouverneur until [[1918]]. The boy's refusal to submit — grounded in the *[[prang sabi]]* doctrine of his grandfather and the *sjahid* inheritance of his father — is the book's clearest example of why the colonial army could not, by arms alone, end the resistance: it had to wait for the last heir of the doctrine to fall. The tearing of the relics at [[Tangsé]] is the book's quiet acknowledgement that the boy's death, far from extinguishing the doctrine, made it a permanent feature of the country's religious memory.
 
 ## See Also
 
@@ -73,7 +73,7 @@ The corpse was carried out to [[Tangsé]]. "De bevolking van Tangsé liep uit na
 
 ## Significance
 
-Tjhi Ma'at is the last of the Aceh War's martyrs. His death on [[3 December]] [[1911]] is the moment at which the [[K.N.I.L.]] could declare the [[Atjeh-oorlog|Aceh War]] militarily over — though [[Generaal Swart]] would not hand the country over to a civilian Gouverneur until [[1918]]. The boy's refusal to submit — grounded in the *[[prang sabi]]* doctrine of his grandfather and the *sjahid* inheritance of his father — is the book's clearest example of why the colonial army could not, by arms alone, end the resistance: it had to wait for the last heir of the doctrine to fall. The tearing of the relics at [[Tangsé]] is the book's quiet acknowledgement that the boy's death, far from extinguishing the doctrine, made it a permanent feature of the country's religious memory.
+Tjhi Ma'at is the last of the Aceh War's martyrs. His death on [[3 December]] [[1911]] is the moment at which the [[K.N.I.L.]] could declare the [[Atjeh-oorlog|Aceh War]] militarily over — though [[H. N. A. Swart|Generaal Swart]] would not hand the country over to a civilian Gouverneur until [[1918]]. The boy's refusal to submit — grounded in the *[[prang sabi]]* doctrine of his grandfather and the *sjahid* inheritance of his father — is the book's clearest example of why the colonial army could not, by arms alone, end the resistance: it had to wait for the last heir of the doctrine to fall. The tearing of the relics at [[Tangsé]] is the book's quiet acknowledgement that the boy's death, far from extinguishing the doctrine, made it a permanent feature of the country's religious memory.
 
 ## See Also
 

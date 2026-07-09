@@ -4,7 +4,7 @@ aliases: [Batee Ilie, Batee Ileh]
 tags: [place, military, colonial, achehnese]
 ---
 
-**Batêê Iliê** was a fortified village in the **[[Samalanga]]** region of **[[Aceh]]**, the site of one of the major battles of the **[[Aceh War]]** in [[1901]]. The position had successfully resisted Dutch attacks for twenty years, including an attempt by General Van der Heyden, before being captured by the forces of **[[J. B. van Heutsz]]**.
+**Batêê Iliê** was a fortified village in the **[[Samalanga]]** region of **[[Aceh]]**, the site of one of the major battles of the **[[Aceh War]]** in [[1901]]. The position had successfully resisted Dutch attacks for twenty years, including an attempt by General Van der Heyden, before being captured by the forces of **[[Joannes Benedictus van Heutsz|J. B. van Heutsz]]**.
 
 ## Strategic Importance
 
@@ -31,7 +31,7 @@ Batêê Iliê represented the end of an era in Acehnese resistance. The fall of 
 ## See Also
 
 - [[Aceh War]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Panglima Polem]]
 - [[Samalanga]]
 - [[General Van der Heyden]]

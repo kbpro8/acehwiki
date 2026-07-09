@@ -21,7 +21,7 @@ The most curious element in Thyssen's report is the suggestion that the Tommegon
 
 ## Significance
 
-The Tommegong of Singapore is a minor figure in Van der Kemp's narrative, but his appearance in the Thyssen–Wolterbeek correspondence illustrates the dense interconnection of British, Dutch, and Malay actors in the Straits during the spring of [[1819]]. Within weeks of Raffles's landing, the Malay chief of Singapore was already being drawn into the broader Anglo-Dutch rivalry — his war-boats a small but visible piece on the chessboard that would, five years later, be settled (temporarily) by the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 1824]].
+The Tommegong of Singapore is a minor figure in Van der Kemp's narrative, but his appearance in the Thyssen–Wolterbeek correspondence illustrates the dense interconnection of British, Dutch, and Malay actors in the Straits during the spring of [[1819]]. Within weeks of Raffles's landing, the Malay chief of Singapore was already being drawn into the broader Anglo-Dutch rivalry — his war-boats a small but visible piece on the chessboard that would, five years later, be settled (temporarily) by the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 1824]].
 
 ## See Also
 
@@ -57,7 +57,7 @@ The most curious element in Thyssen's report is the suggestion that the Tommegon
 
 ## Significance
 
-The Tommegong of Singapore is a minor figure in Van der Kemp's narrative, but his appearance in the Thyssen–Wolterbeek correspondence illustrates the dense interconnection of British, Dutch, and Malay actors in the Straits during the spring of [[1819]]. Within weeks of Raffles's landing, the Malay chief of Singapore was already being drawn into the broader Anglo-Dutch rivalry — his war-boats a small but visible piece on the chessboard that would, five years later, be settled (temporarily) by the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 1824]].
+The Tommegong of Singapore is a minor figure in Van der Kemp's narrative, but his appearance in the Thyssen–Wolterbeek correspondence illustrates the dense interconnection of British, Dutch, and Malay actors in the Straits during the spring of [[1819]]. Within weeks of Raffles's landing, the Malay chief of Singapore was already being drawn into the broader Anglo-Dutch rivalry — his war-boats a small but visible piece on the chessboard that would, five years later, be settled (temporarily) by the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 1824]].
 
 ## See Also
 

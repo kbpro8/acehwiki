@@ -5,7 +5,7 @@ aliases: [Foundation De Goeje, La Fondation De Goeje, De Goeje Foundation, Stich
 tags: [organization, scholarly-foundation, leiden, publication-series, dutch-orientalism, 20th-century, arabic-studies, malay-scholarship]
 ---
 
-**The Stichting De Goeje** — in English, the **De Goeje Foundation**; in French, **La Fondation De Goeje** — is a Dutch scholarly foundation that publishes the series *Uitgaven van de Stichting De Goeje* ("Publications of the De Goeje Foundation"), of which the [[1955]] facsimile edition of the two Malay treatises of [[Raniri|Nūruddīn ar-Rānīrī]] by [[P. Voorhoeve|P. Voorhoeve]] is No. 16. The foundation is named for the Dutch Arabist [[Michael Jan de Goeje|Michael Jan de Goeje]] (1836–1909), professor of Arabic at Leiden, and is based at Leiden. The Secretary of the foundation is to be addressed, as [[P. Voorhoeve|Voorhoeve]]'s edition records, at Rijnsburgerweg 101, Leiden, the Netherlands.
+**The Stichting De Goeje** — in English, the **De Goeje Foundation**; in French, **La Fondation De Goeje** — is a Dutch scholarly foundation that publishes the series *Uitgaven van de Stichting De Goeje* ("Publications of the De Goeje Foundation"), of which the [[1955]] facsimile edition of the two Malay treatises of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] by [[P. Voorhoeve|P. Voorhoeve]] is No. 16. The foundation is named for the Dutch Arabist [[Michael Jan de Goeje|Michael Jan de Goeje]] (1836–1909), professor of Arabic at Leiden, and is based at Leiden. The Secretary of the foundation is to be addressed, as [[P. Voorhoeve|Voorhoeve]]'s edition records, at Rijnsburgerweg 101, Leiden, the Netherlands.
 
 ## The *Uitgaven van de Stichting De Goeje*
 
@@ -13,7 +13,7 @@ The series *Uitgaven van de Stichting De Goeje* — published at Leiden by E. J.
 
 ## The 1955 publication
 
-The [[1955]] publication of Voorhoeve's edition of the two Malay treatises of [[Raniri]] — No. 16 of the series — gave scholars, for the first time, a complete facsimile of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] (from Leiden Cod. Or. 3291, the legacy of [[Herman Neubronner van der Tuuk|Van der Tuuk]]) and of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] (from the Maxwell collection of the [[Royal Asiatic Society]]). Voorhoeve's introduction identifies, for the first time, the principal sources of the *Tibjān*: the [[Tamhid fi bayan at-tawhid|*Tamhīd*]] of [[Abu Syakur as-Salimi|Abū Shakūr as-Sālimī]], the [[al-Insan al-Kamil|*al-Insān al-kāmil*]] of [[Abd al-Karim al-Jili|ʿAbd al-Karīm al-Jīlī]], and the [[Ma'rifat al-madhahib|*Maʿrifat al-madhāhib*]].
+The [[1955]] publication of Voorhoeve's edition of the two Malay treatises of [[Nur al-Din al-Raniri|Raniri]] — No. 16 of the series — gave scholars, for the first time, a complete facsimile of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] (from Leiden Cod. Or. 3291, the legacy of [[Herman Neubronner van der Tuuk|Van der Tuuk]]) and of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] (from the Maxwell collection of the [[Royal Asiatic Society]]). Voorhoeve's introduction identifies, for the first time, the principal sources of the *Tibjān*: the [[Tamhid fi bayan at-tawhid|*Tamhīd*]] of [[Abu Syakur as-Salimi|Abū Shakūr as-Sālimī]], the [[al-Insan al-Kamil|*al-Insān al-kāmil*]] of [[Abd al-Karim al-Jili|ʿAbd al-Karīm al-Jīlī]], and the [[Ma'rifat al-madhahib|*Maʿrifat al-madhāhib*]].
 
 ## Distribution
 
@@ -21,7 +21,7 @@ The publications of the Foundation are sold for the benefit of the Foundation by
 
 ## Significance
 
-The Stichting De Goeje is the publisher of the standard edition of the two Malay treatises of [[Raniri]], and one of the principal scholarly foundations for the publication of Arabic and Islamic texts in European scholarship. The inclusion of Voorhoeve's edition of Raniri's Malay treatises in the series — alongside editions of Arabic texts of the classical Islamic tradition — is itself a document of the place of Malay religious literature within the wider field of Arabic and Islamic studies, and of the recognition of Malay as a language of Islamic scholastic prose alongside Arabic and Persian.
+The Stichting De Goeje is the publisher of the standard edition of the two Malay treatises of [[Nur al-Din al-Raniri|Raniri]], and one of the principal scholarly foundations for the publication of Arabic and Islamic texts in European scholarship. The inclusion of Voorhoeve's edition of Raniri's Malay treatises in the series — alongside editions of Arabic texts of the classical Islamic tradition — is itself a document of the place of Malay religious literature within the wider field of Arabic and Islamic studies, and of the recognition of Malay as a language of Islamic scholastic prose alongside Arabic and Persian.
 
 ## See Also
 
@@ -32,7 +32,7 @@ The Stichting De Goeje is the publisher of the standard edition of the two Malay
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[Ma'rifat al-madhahib]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Royal Asiatic Society]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Tibjan fi ma'rifat al-adyan]]
@@ -43,7 +43,7 @@ The Stichting De Goeje is the publisher of the standard edition of the two Malay
 ---
 
 
-**The Stichting De Goeje** — in English, the **De Goeje Foundation**; in French, **La Fondation De Goeje** — is a Dutch scholarly foundation that publishes the series *Uitgaven van de Stichting De Goeje* ("Publications of the De Goeje Foundation"), of which the [[1955]] facsimile edition of the two Malay treatises of [[Raniri|Nūruddīn ar-Rānīrī]] by [[P. Voorhoeve|P. Voorhoeve]] is No. 16. The foundation is named for the Dutch Arabist [[Michael Jan de Goeje|Michael Jan de Goeje]] (1836–1909), professor of Arabic at Leiden, and is based at Leiden. The Secretary of the foundation is to be addressed, as [[P. Voorhoeve|Voorhoeve]]'s edition records, at Rijnsburgerweg 101, Leiden, the Netherlands.
+**The Stichting De Goeje** — in English, the **De Goeje Foundation**; in French, **La Fondation De Goeje** — is a Dutch scholarly foundation that publishes the series *Uitgaven van de Stichting De Goeje* ("Publications of the De Goeje Foundation"), of which the [[1955]] facsimile edition of the two Malay treatises of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] by [[P. Voorhoeve|P. Voorhoeve]] is No. 16. The foundation is named for the Dutch Arabist [[Michael Jan de Goeje|Michael Jan de Goeje]] (1836–1909), professor of Arabic at Leiden, and is based at Leiden. The Secretary of the foundation is to be addressed, as [[P. Voorhoeve|Voorhoeve]]'s edition records, at Rijnsburgerweg 101, Leiden, the Netherlands.
 
 ## The *Uitgaven van de Stichting De Goeje*
 
@@ -51,7 +51,7 @@ The series *Uitgaven van de Stichting De Goeje* — published at Leiden by E. J.
 
 ## The 1955 publication
 
-The [[1955]] publication of Voorhoeve's edition of the two Malay treatises of [[Raniri]] — No. 16 of the series — gave scholars, for the first time, a complete facsimile of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] (from Leiden Cod. Or. 3291, the legacy of [[Herman Neubronner van der Tuuk|Van der Tuuk]]) and of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] (from the Maxwell collection of the [[Royal Asiatic Society]]). Voorhoeve's introduction identifies, for the first time, the principal sources of the *Tibjān*: the [[Tamhid fi bayan at-tawhid|*Tamhīd*]] of [[Abu Syakur as-Salimi|Abū Shakūr as-Sālimī]], the [[al-Insan al-Kamil|*al-Insān al-kāmil*]] of [[Abd al-Karim al-Jili|ʿAbd al-Karīm al-Jīlī]], and the [[Ma'rifat al-madhahib|*Maʿrifat al-madhāhib*]].
+The [[1955]] publication of Voorhoeve's edition of the two Malay treatises of [[Nur al-Din al-Raniri|Raniri]] — No. 16 of the series — gave scholars, for the first time, a complete facsimile of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] (from Leiden Cod. Or. 3291, the legacy of [[Herman Neubronner van der Tuuk|Van der Tuuk]]) and of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] (from the Maxwell collection of the [[Royal Asiatic Society]]). Voorhoeve's introduction identifies, for the first time, the principal sources of the *Tibjān*: the [[Tamhid fi bayan at-tawhid|*Tamhīd*]] of [[Abu Syakur as-Salimi|Abū Shakūr as-Sālimī]], the [[al-Insan al-Kamil|*al-Insān al-kāmil*]] of [[Abd al-Karim al-Jili|ʿAbd al-Karīm al-Jīlī]], and the [[Ma'rifat al-madhahib|*Maʿrifat al-madhāhib*]].
 
 ## Distribution
 
@@ -59,7 +59,7 @@ The publications of the Foundation are sold for the benefit of the Foundation by
 
 ## Significance
 
-The Stichting De Goeje is the publisher of the standard edition of the two Malay treatises of [[Raniri]], and one of the principal scholarly foundations for the publication of Arabic and Islamic texts in European scholarship. The inclusion of Voorhoeve's edition of Raniri's Malay treatises in the series — alongside editions of Arabic texts of the classical Islamic tradition — is itself a document of the place of Malay religious literature within the wider field of Arabic and Islamic studies, and of the recognition of Malay as a language of Islamic scholastic prose alongside Arabic and Persian.
+The Stichting De Goeje is the publisher of the standard edition of the two Malay treatises of [[Nur al-Din al-Raniri|Raniri]], and one of the principal scholarly foundations for the publication of Arabic and Islamic texts in European scholarship. The inclusion of Voorhoeve's edition of Raniri's Malay treatises in the series — alongside editions of Arabic texts of the classical Islamic tradition — is itself a document of the place of Malay religious literature within the wider field of Arabic and Islamic studies, and of the recognition of Malay as a language of Islamic scholastic prose alongside Arabic and Persian.
 
 ## See Also
 
@@ -70,7 +70,7 @@ The Stichting De Goeje is the publisher of the standard edition of the two Malay
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[Ma'rifat al-madhahib]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Royal Asiatic Society]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Tibjan fi ma'rifat al-adyan]]

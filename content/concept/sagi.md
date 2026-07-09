@@ -4,7 +4,7 @@ aliases: [Sagi, Saqi, Atjeh sagi system, Three sagi's of Groot-Atjeh]
 tags: [concept, administrative-division, sagi, groot-atjeh, indigenous-governance, atjeh]
 ---
 
-**The Sagi** (plural: sagi's) was the highest indigenous administrative unit in [[Groot-Atjeh]], described by Gouverneur [[H. N. N. A. Swart]] at the [[Koeta-Radja]] meeting ([[19 January]] [[1914]]) as more or less comparable to the regentschappen of Java. There were three sagi's in Groot-Atjeh, each encompassing a large territory with its own hierarchy of subordinate administrative units: the [[peleebalangschap]]pen (comparable to Javanese districten) and the [[moekimschap]]pen (comparable to Javanese onderdistricten). The sagi thus occupied the apex of a three-tier administrative hierarchy that structured indigenous governance in the rechtstreeks bestuurd gebied (directly ruled territory) of Atjeh, providing the colonial administration with a framework through which it could exercise oversight while maintaining the appearance of indigenous self-governance.
+**The Sagi** (plural: sagi's) was the highest indigenous administrative unit in [[Groot-Atjeh]], described by Gouverneur [[H. N. A. Swart|H. N. N. A. Swart]] at the [[Koeta-Radja]] meeting ([[19 January]] [[1914]]) as more or less comparable to the regentschappen of Java. There were three sagi's in Groot-Atjeh, each encompassing a large territory with its own hierarchy of subordinate administrative units: the [[peleebalangschap]]pen (comparable to Javanese districten) and the [[moekimschap]]pen (comparable to Javanese onderdistricten). The sagi thus occupied the apex of a three-tier administrative hierarchy that structured indigenous governance in the rechtstreeks bestuurd gebied (directly ruled territory) of Atjeh, providing the colonial administration with a framework through which it could exercise oversight while maintaining the appearance of indigenous self-governance.
 
 The three sagi's of Groot-Atjeh represented a tradition of territorial organization that predated the Dutch conquest and had its roots in the political structure of the Atjeh sultanate. Each sagi encompassed a substantial portion of Groot-Atjeh's territory and population, and the sagi heads (known as panglima sagi) exercised considerable authority over their domains. The very existence of three sagi's—rather than a single unified hierarchy—reflected the decentralized and competitive nature of Atjeh's indigenous political culture, in which power was distributed among multiple centers rather than concentrated in a single ruler. This tripartite division had profound historical significance, shaping everything from military alliances to trade networks, and it continued to influence the political dynamics of Groot-Atjeh even after the establishment of Dutch colonial rule.
 
@@ -22,7 +22,7 @@ The discussion of erfelijkheid in the context of the sagi system also connected 
 
 ## See Also
 
-[[H. N. N. A. Swart]], [[Groot-Atjeh]], [[Peleebalangschap]], [[Moekimschap]], [[Inlandsch Bestuur]], [[Erfelijkheid in Atjeh hoofd appointments]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Rechtstreeks bestuurd gebied]]
+[[H. N. A. Swart|H. N. N. A. Swart]], [[Groot-Atjeh]], [[Peleebalangschap]], [[Moekimschap]], [[Inlandsch Bestuur]], [[Erfelijkheid in Atjeh hoofd appointments]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Rechtstreeks bestuurd gebied]]
 
 ## Source
 

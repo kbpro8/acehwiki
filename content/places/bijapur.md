@@ -4,7 +4,7 @@ aliases: [Bījāpūr, Bijapur, Bījāpur, the ʿĀdilshāhī capital]
 tags: [place, city, india, deccan, adilshahi, sufi-center, ba-sjaiban, raniri, 17th-century]
 ---
 
-**Bījāpūr** — in English **Bijapur** — is the capital of the ʿĀdilshāhī sultanate of the Deccan in India, in the late sixteenth and early seventeenth centuries one of the principal centres of Arabic and Persian scholarship in India. It is the city where [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]] — the shaikh of [[Raniri|Nūruddīn ar-Rānīrī]] and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] in the [[Rifa'iyah order|Rifāʿiyya]] — lived for most of his life, under the protection of the ruler Muḥammad ʿĀdilshāh.
+**Bījāpūr** — in English **Bijapur** — is the capital of the ʿĀdilshāhī sultanate of the Deccan in India, in the late sixteenth and early seventeenth centuries one of the principal centres of Arabic and Persian scholarship in India. It is the city where [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]] — the shaikh of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] in the [[Rifa'iyah order|Rifāʿiyya]] — lived for most of his life, under the protection of the ruler Muḥammad ʿĀdilshāh.
 
 ## The ʿĀdilshāhī court
 
@@ -12,19 +12,19 @@ The ʿĀdilshāhī sultanate of Bījāpūr — ruled by the ʿĀdilshāhī dynas
 
 ## Bā Shaybān at Bījāpūr
 
-[[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]] — of Ḥadrami descent but born in India, the shaikh of [[Raniri]] and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] in the [[Rifa'iyah order|Rifāʿiyya]] — lived chiefly at Bījāpūr, where he enjoyed the protection of Muḥammad ʿĀdilshāh. The protection that Bā Shaybān enjoyed at Bījāpūr is a measure of his standing as a scholar and a Sufi, and is the immediate context of his role in the transmission of the Rifāʿiyya to the Malay-Indonesian world. He died in [[1656]] at [[Bilgram|Bilgrām]].
+[[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]] — of Ḥadrami descent but born in India, the shaikh of [[Nur al-Din al-Raniri|Raniri]] and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] in the [[Rifa'iyah order|Rifāʿiyya]] — lived chiefly at Bījāpūr, where he enjoyed the protection of Muḥammad ʿĀdilshāh. The protection that Bā Shaybān enjoyed at Bījāpūr is a measure of his standing as a scholar and a Sufi, and is the immediate context of his role in the transmission of the Rifāʿiyya to the Malay-Indonesian world. He died in [[1656]] at [[Bilgram|Bilgrām]].
 
 ## Significance
 
-Bījāpūr is the city where [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]] — the shaikh of [[Raniri]] and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] — lived for most of his life, under the protection of the ʿĀdilshāhī court. The ʿĀdilshāhī patronage of Arabic and Persian scholarship at Bījāpūr is the immediate context of the formation of the Gujarati-Ḥadramī Sufi network from which the orthodox reaction of [[Acheh]] drew its principal Malay-Indonesian agents, and Bā Shaybān's residence at Bījāpūr is the immediate link between the ʿĀdilshāhī court and the religious controversy of Acheh.
+Bījāpūr is the city where [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]] — the shaikh of [[Nur al-Din al-Raniri|Raniri]] and of [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]] — lived for most of his life, under the protection of the ʿĀdilshāhī court. The ʿĀdilshāhī patronage of Arabic and Persian scholarship at Bījāpūr is the immediate context of the formation of the Gujarati-Ḥadramī Sufi network from which the orthodox reaction of [[Acheh]] drew its principal Malay-Indonesian agents, and Bā Shaybān's residence at Bījāpūr is the immediate link between the ʿĀdilshāhī court and the religious controversy of Acheh.
 
 ## See Also
 
-- [[Ahmad Rifa'i]]
+- [[Ahmad ar-Rifāʿī|Ahmad Rifa'i]]
 - [[Bilgram]]
 - [[Gudjarat]]
 - [[Muhammad al-Addars]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Rifa'iyah order]]
 - [[Sajjid Abu Hafs Umar Ba Sjaiban]]
 - [[Yusuf Makasar]]

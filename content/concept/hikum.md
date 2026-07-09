@@ -54,7 +54,7 @@ In the colonial legal order of the Gouvernement, the *hoeköm* — like the *ada
 - [[Moekim]]
 - [[Meuseugit]]
 - [[Moesapat]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Sjafiïtische school]]
 
 ## Source

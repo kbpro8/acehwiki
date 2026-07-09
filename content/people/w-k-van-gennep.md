@@ -13,7 +13,7 @@ Van Gennep’s division executed a deceptive maneuver with warships, landing suc
 
 - [[First Boni Expedition 1859]]
 - [[Badjoa]]
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 
 ## Source
 

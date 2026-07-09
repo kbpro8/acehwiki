@@ -24,7 +24,7 @@ The news of the outrage reached the Dutch government by the report of [[Timmerma
 
 ## Significance
 
-The Wilhelmina affair belongs to the wider story of the [[Acheh treaty of 1819|Acheh treaty of 1819]] in two respects. First, it confirmed that neither the British nor the Dutch possessed effective means of policing the Sumatran coast, and that the pretender Syf, though pensioned at Penang after his [[Syf's flight to Calcutta|flight to Calcutta]] in early [[1820]], remained a powerful and lawless actor in Achehnese affairs. Second, the prolonged and inconclusive exchange between Malacca and Penang illustrated precisely the kind of collision that the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London]] of [[17 March 1824|17 March 1824]] was designed to prevent: by assigning Sumatra to the Netherlands and the Malay Peninsula to Britain, the treaty drew a line through the waters in which the *Wilhelmina* had been lost. The episode thus stands as both symptom and catalyst of the diplomatic revolution of 1824.
+The Wilhelmina affair belongs to the wider story of the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]] in two respects. First, it confirmed that neither the British nor the Dutch possessed effective means of policing the Sumatran coast, and that the pretender Syf, though pensioned at Penang after his [[Syf's flight to Calcutta|flight to Calcutta]] in early [[1820]], remained a powerful and lawless actor in Achehnese affairs. Second, the prolonged and inconclusive exchange between Malacca and Penang illustrated precisely the kind of collision that the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London]] of [[17 March 1824|17 March 1824]] was designed to prevent: by assigning Sumatra to the Netherlands and the Malay Peninsula to Britain, the treaty drew a line through the waters in which the *Wilhelmina* had been lost. The episode thus stands as both symptom and catalyst of the diplomatic revolution of 1824.
 
 ## See Also
 
@@ -41,7 +41,7 @@ The Wilhelmina affair belongs to the wider story of the [[Acheh treaty of 1819|A
 - [[Syf's flight to Calcutta]]
 - [[Syf's pension at Penang]]
 - [[Treaty of Pedir (1819)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Pasangan]]
 - [[Telok Semawé]]
 - [[Acheh]]

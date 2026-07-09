@@ -14,7 +14,7 @@ His forces captured the settlement after a coordinated amphibious assault.
 - [[First Boni Expedition 1859]]
 - [[Sepora]]
 - [[Saribanoa]]
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 
 ## Source
 

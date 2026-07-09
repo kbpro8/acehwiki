@@ -3,7 +3,7 @@ title: A. J. Kroef
 aliases: [Adriaan Jacobus Kroef, A.J. Kroef]
 tags: [person, naval, dutch]
 ---
-**A. J. Kroef** was a Dutch **[[lieutenant ter zee|lieutenant ter zee]]** of class **A** who commanded the steamship **[[Zr.Ms. Somiingg]]** during the **[[Expedition to Retch 1858|expedition to Retch]]** in the autumn of [[1858]]. He led a detachment of 24 corporals and marines from the **[[Korps Mariniers|Dutch Marine Corps]]**, of which four were killed and seven wounded, and later received a nomination for the **[[Militaire Willemsorde|Military Order of William]]**. His actions are recorded in the Dutch naval reports of 1858.
+**A. J. Kroef** was a Dutch **[[lieutenant ter zee|lieutenant ter zee]]** of class **A** who commanded the steamship **[[Zr.Ms. Somiingg]]** during the **[[Expedition to Retch 1858|expedition to Retch]]** in the autumn of [[1858]]. He led a detachment of 24 corporals and marines from the **[[Royal Netherlands Marine Corps|Dutch Marine Corps]]**, of which four were killed and seven wounded, and later received a nomination for the **[[Militaire Willemsorde|Military Order of William]]**. His actions are recorded in the Dutch naval reports of 1858.
 
 ## Military Action
 
@@ -15,7 +15,7 @@ Although four members of his detachment were nominated for the **[[Militaire Wil
 
 ## See Also
 
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[Expedition to Retch 1858]]
 - [[Zr.Ms. Somiingg]]
 - [[Militaire Willemsorde]]

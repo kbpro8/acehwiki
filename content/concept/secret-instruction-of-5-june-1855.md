@@ -57,7 +57,7 @@ Article 4 of the Secret Instruction of [[5 June]] [[1855]] established the const
 
 ## See Also
 
-- [[J.W. van Lansberge]]
+- [[Johan Willem van Lansberge|J.W. van Lansberge]]
 - [[W. van Goltstein]]
 - [[P.P. van Bosse]]
 - [[Government Regulation of the Dutch East Indies]]

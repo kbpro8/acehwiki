@@ -18,7 +18,7 @@ Veltman's attendance at the Koeta-Radja meetings reflected the inclusion of mili
 
 ## See Also
 
-[[H. N. N. A. Swart]], [[Pidië]], [[Civiel Gezaghebber]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Uleëbalang]], [[Atjeh-oorlog]], [[Inlandsch Bestuur]], [[Koeta-Radja]]
+[[H. N. A. Swart|H. N. N. A. Swart]], [[Pidië]], [[Civiel Gezaghebber]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Uleëbalang]], [[Atjeh-oorlog]], [[Inlandsch Bestuur]], [[Koeta-Radja]]
 
 ## Source
 

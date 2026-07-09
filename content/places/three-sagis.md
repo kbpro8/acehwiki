@@ -16,7 +16,7 @@ Increase of population has given rise to the formation of new districts, yet the
 
 ## Guardianship of the Sultanate
 
-The three guardians, the panglima sagi, did not succeed in retaining the supremacy over the federate dominions which they had possessed when the metaphorical marriage-contract between sultan and country was first concluded. At the election of a new sultan, which was usually decided by war between the different parties, the scale was turned not so much by the support of the panglimas as by that of the real wielders of power in their sagis. In process of time the number of guardians of the sultanate increased, and Achehnese authorities on adat speak of the "twelve uleebalangs who appoint and dethrone princes," describing them as four from each sagi. Snouck Hurgronje cautions that this list at most represents the conditions that existed during a short period, and that other chiefs — such as [[Teuku Kali]] the [[Panglima Meuseugit Raya]] and the [[Imeum of Lueng Bata]] — often carried more weight than many of the board of twelve.
+The three guardians, the panglima sagi, did not succeed in retaining the supremacy over the federate dominions which they had possessed when the metaphorical marriage-contract between sultan and country was first concluded. At the election of a new sultan, which was usually decided by war between the different parties, the scale was turned not so much by the support of the panglimas as by that of the real wielders of power in their sagis. In process of time the number of guardians of the sultanate increased, and Achehnese authorities on adat speak of the "twelve uleebalangs who appoint and dethrone princes," describing them as four from each sagi. Snouck Hurgronje cautions that this list at most represents the conditions that existed during a short period, and that other chiefs — such as [[Teuku Kali Malikon Ade|Teuku Kali]] the [[Panglima Meuseugit Raya]] and the [[Imeum of Lueng Bata]] — often carried more weight than many of the board of twelve.
 
 ## The Three Sagis in the Fairs and Feasts
 
@@ -28,11 +28,11 @@ The **Three Sagis** (Dutch *drie Sagis*; British documents "the three Sagees of 
 
 ## Constitutional position
 
-The three sagis were federations of *mukims* — territorial districts — surrounding the capital. By the late seventeenth century, as Van der Kemp records, the sultanate already lay "onder voogdij van de hoofden dier om de hoofdplaats gelegen landschappen", under the tutelage of the chiefs of the lands surrounding the capital. Their federation thus constituted a permanent council of state whose collective consent was indispensable to the recognition of any sultan. Among their chiefs, the head of the XXII Mukims, bearing the hereditary title [[Panglima Polim]] ("Heer Oudere Broeder"), was regarded as the foremost; he, "gold als de voornaamste onder de Sagishoofden".
+The three sagis were federations of *mukims* — territorial districts — surrounding the capital. By the late seventeenth century, as Van der Kemp records, the sultanate already lay "onder voogdij van de hoofden dier om de hoofdplaats gelegen landschappen", under the tutelage of the chiefs of the lands surrounding the capital. Their federation thus constituted a permanent council of state whose collective consent was indispensable to the recognition of any sultan. Among their chiefs, the head of the XXII Mukims, bearing the hereditary title [[Panglima Polem|Panglima Polim]] ("Heer Oudere Broeder"), was regarded as the foremost; he, "gold als de voornaamste onder de Sagishoofden".
 
 ## Authority in 1819
 
-When the Raffles–Coombs commission anchored before [[Banda Acheh]] on [[14 March]] [[1819]], no sultan was in residence: [[Sultan Jauhar Alum]] had been driven to [[Pedir]], and [[Sultan Saif ul-Alum]] (Syf) had fled to [[Telok Semawé]]. The Calcutta government reported that authority at the capital was exercised "in naam door den raad der Sagis, maar in werkelijkheid door [[Panglima Polim]] bijgestaan door zijne aanhangers". The commission sent a circular inviting the chiefs to an assembly; Polim, answering from "his usual place of residence in his own country" of the XXII Mukims, replied that the meeting might take place in eight days but that until then the commissioners were not to land. The reception they met on shore was, as Van der Kemp summarises, "ten hoogste onwellevend". When a warning of betrayal reached Raffles, he declined to attend the proposed meeting and the assembly never took place — a course the Calcutta government later disapproved.
+When the Raffles–Coombs commission anchored before [[Banda Acheh]] on [[14 March]] [[1819]], no sultan was in residence: [[Sultan Jauhar Alum]] had been driven to [[Pedir]], and [[Sultan Saif ul-Alum]] (Syf) had fled to [[Telok Semawé]]. The Calcutta government reported that authority at the capital was exercised "in naam door den raad der Sagis, maar in werkelijkheid door [[Panglima Polem|Panglima Polim]] bijgestaan door zijne aanhangers". The commission sent a circular inviting the chiefs to an assembly; Polim, answering from "his usual place of residence in his own country" of the XXII Mukims, replied that the meeting might take place in eight days but that until then the commissioners were not to land. The reception they met on shore was, as Van der Kemp summarises, "ten hoogste onwellevend". When a warning of betrayal reached Raffles, he declined to attend the proposed meeting and the assembly never took place — a course the Calcutta government later disapproved.
 
 ## The shahbandar's embassy to Pedir
 
@@ -42,7 +42,7 @@ The Three Sagis also played a part in the comedy at [[Pedir]]. The [[Shahbandar 
 
 After the [[Treaty of Pedir (1819)|treaty of 1819]] the Three Sagis refused to recognise Jauhar Alum. Governor [[W. E. Phillips|Phillips]] of [[Penang]] sent a circular urging the mukims to submit to him; their reply, the [[Three Sagis' letter to Penang (4 December 1822)]], is one of the principal documents of the affair. They reminded Phillips that when [[Captain Coombs]] had first come alone to Acheh, they had declared Syf their sultan; when Coombs returned with Raffles, they had given the same answer under their signatures; they could not now alter their choice. As for Jauhar Alum, "we will never have him for our Rajah more, for we have deposed him and sworn to it on the tomb of [[Teungku Anjong]] of [[Kampong Java]]". The Sagis therefore begged that Syf be sent back to them. Phillips, of course, refused.
 
-After Jauhar's death in December [[1823]] the Three Sagis, together with the [[Queen-Mother of Acheh|Queen-Mother]], "oefenden nu het gezag uit, indien er van gezag sprake kon zijn" — exercised what authority there was. By the time of [[Robert Fullerton|Fullerton]]'s minute of [[21 March]] [[1825]] their de facto independence was taken for granted, and the [[Acheh treaty of 1819]] was pronounced a "dead letter" so far as the capital was concerned.
+After Jauhar's death in December [[1823]] the Three Sagis, together with the [[Queen-Mother of Acheh|Queen-Mother]], "oefenden nu het gezag uit, indien er van gezag sprake kon zijn" — exercised what authority there was. By the time of [[Robert Fullerton|Fullerton]]'s minute of [[21 March]] [[1825]] their de facto independence was taken for granted, and the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] was pronounced a "dead letter" so far as the capital was concerned.
 
 
 ## See Also
@@ -58,7 +58,7 @@ After Jauhar's death in December [[1823]] the Three Sagis, together with the [[Q
 - [[Dalam (Sultan's Court)]]
 - [[Acheh]]
 - [[Banda Acheh]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Shahbandar of Acheh]]
 - [[Kampong Java]]
 - [[Teungku Anjong]]

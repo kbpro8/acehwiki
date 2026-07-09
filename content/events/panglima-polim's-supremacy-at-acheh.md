@@ -4,7 +4,7 @@ aliases: [Polim's rule at Acheh capital, Panglima Polim's undisputed supremacy, 
 tags: [event, colonial, diplomacy]
 ---
 
-The **supremacy of Panglima Polim at Acheh** was the political reality that confronted the [[Raffles-Coombs Acheh Commission (1819)|Raffles–Coombs Acheh Commission]] during its seven weeks at anchor off the [[Acheh|Achehnese]] capital in March and April [[1819]]. The episode demonstrated conclusively that neither [[Sultan Jauhar Alum]] nor the pretender [[Sultan Saif ul-Alum|Saif ul-Alum (Syf)]] exercised real authority at the capital, and that the actual ruler was [[Panglima Polim|Panglima Polim]], chief of the [[XXII Mukims|XXII Mukims]] and first among the [[Three Sagis|three Sagi chiefs]].
+The **supremacy of Panglima Polim at Acheh** was the political reality that confronted the [[Raffles-Coombs Acheh Commission (1819)|Raffles–Coombs Acheh Commission]] during its seven weeks at anchor off the [[Acheh|Achehnese]] capital in March and April [[1819]]. The episode demonstrated conclusively that neither [[Sultan Jauhar Alum]] nor the pretender [[Sultan Saif ul-Alum|Saif ul-Alum (Syf)]] exercised real authority at the capital, and that the actual ruler was [[Panglima Polem|Panglima Polem]], chief of the [[XXII Mukims|XXII Mukims]] and first among the [[Three Sagis|three Sagi chiefs]].
 
 The commission dropped anchor before the capital on [[14 March 1819|14 March 1819]], having sailed from [[Penang]] without the military force that [[Colonel John Alexander Bannerman|Governor Bannerman]] had insisted was necessary. The Calcutta government's report to London of [[7 October 1820|7 October 1820]] described the situation: no sultan was present at the capital, and authority was exercised "in name by the council of the Sagis, but in reality by Panglima Polim aided by his adherents". The three Sagis were the heads of the XXII, XXV, and XXVI Mukims — the territories surrounding the capital — and from the late seventeenth century the sultanate had effectively been under their tutelage.
 
@@ -16,7 +16,7 @@ The commission sailed from the Acheh roads without military force, without enter
 
 ## See Also
 
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Three Sagis]]
 - [[XXII Mukims]]
 - [[XXV Mukims]]

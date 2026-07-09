@@ -8,7 +8,7 @@ tags: [event, achehnese, political, republican]
 
 ## Context
 
-Henri J. H. Alers's *Om een rode of groene Merdeka* observes that, so long as the Republic itself was fighting for its bare survival — as it was until the end of [[1949]] — it had every reason to be satisfied with whatever resistance Daoed Beureuh, as republican military governor, could offer to any Dutch designs on that part of the Republic's territory. How weak the actual tie between Atjeh and the Republic had become, Alers notes, is shown by the fact that after the second "police action" the Republic's Emergency Government under [[Mr. Sjafrudin Prawiranegara|Sjafrudin Prawiranegara]] preferred to keep moving about the [[Minangkabau|Minangkabau]] region rather than establish its seat in the still-unoccupied territory of Atjeh itself.
+Henri J. H. Alers's *Om een rode of groene Merdeka* observes that, so long as the Republic itself was fighting for its bare survival — as it was until the end of [[1949]] — it had every reason to be satisfied with whatever resistance Daoed Beureuh, as republican military governor, could offer to any Dutch designs on that part of the Republic's territory. How weak the actual tie between Atjeh and the Republic had become, Alers notes, is shown by the fact that after the second "police action" the Republic's Emergency Government under [[Mr. Sjafrudin Prawiranegara|Sjafrudin Prawiranegara]] preferred to keep moving about the [[Menangkabau|Menangkabau]] region rather than establish its seat in the still-unoccupied territory of Atjeh itself.
 
 ## The visit and its terms
 

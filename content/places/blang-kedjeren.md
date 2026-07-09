@@ -27,7 +27,7 @@ The road connection from [[Koeta Tjané|Koeta Tjané]] in the Alas valley to Bla
 
 ## The capitulation of 28 March 1942
 
-When the Japanese broke through from the valley of the Lawé Rénoen on [[25 March]] [[1942]], "a further retreat to the last stronghold, the [[Gajó Loeós|Gajó Loeós]]" became necessary, and "the headquarters was moved to Blang Kédjèrèn." Colonel [[Gosenson|Gosenson]], after the fall of [[Takéngón|Takéngón]], "fell back on Blang Kédjèrèn with two very weary brigades, closely followed by the Japanese vanguard." When General Overakker "decided on [[27 March]] to surrender, there was no longer any enemy to be acknowledged in the Blang, so that the surrender could only be offered on [[28 March]]. On that same day the Japanese troops held their entry into Blang Kédjérèn." The few European women and children were transferred to [[Kaban Djahé|Kaban Djahé]] at the end of March.
+When the Japanese broke through from the valley of the Lawé Rénoen on [[25 March]] [[1942]], "a further retreat to the last stronghold, the [[Gajó Loeós|Gajó Loeós]]" became necessary, and "the headquarters was moved to Blang Kédjèrèn." Colonel [[G. F. V. Gosenson|G. F. V. Gosenson]], after the fall of [[Takéngón|Takéngón]], "fell back on Blang Kédjèrèn with two very weary brigades, closely followed by the Japanese vanguard." When General Overakker "decided on [[27 March]] to surrender, there was no longer any enemy to be acknowledged in the Blang, so that the surrender could only be offered on [[28 March]]. On that same day the Japanese troops held their entry into Blang Kédjérèn." The few European women and children were transferred to [[Kaban Djahé|Kaban Djahé]] at the end of March.
 
 ## Significance
 
@@ -46,7 +46,7 @@ Blang Kédjérèn stands at the intersection of two chapters in Acehnese colonia
 - [[Takéngón]]
 - [[Kaban Djahé]]
 - [[Major-General Overakker]]
-- [[Colonel Gosenson]]
+- [[G. F. V. Gosenson|Colonel Gosenson]]
 - [[Th. O. B. Gunther]]
 - [[Teukoe Radja Hoesin]]
 - [[1933]]

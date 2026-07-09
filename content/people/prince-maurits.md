@@ -3,9 +3,9 @@ title: Prince Maurits
 aliases: [Maurits van Nassau, Maurits van Oranje, Maurice of Nassau, Prince Maurice, Prins Maurits]
 tags: [person, dutch, statesman, military, colonial, voc, atjeh, netherlands, 16th-century, 17th-century, staten-generaal]
 ---
-**Prince Maurits** — *Maurits van Oranje* (Maurice of Orange, 1567–1625), stadtholder of the United Provinces of the Netherlands from [[1585]] to [[1625]] — was the addressee of the [[Atjeh embassy to Prince Maurits (1601)|first Atjehnese embassy to the Netherlands of 1601]], the recipient of the sultan of [[Atjeh|Atjeh]]'s letters and gifts in response to Maurits's own letter and gifts of the same year, and the staff history's principal Dutch royal actor of the [[De Kleine Oosterling|school-textbook]] narrative of early Dutch-Atjehnese relations.
+**Prince Maurits** — *Maurits van Oranje* (Maurice of Orange, 1567–1625), stadtholder of the United Provinces of the Netherlands from [[1585]] to [[1625]] — was the addressee of the [[Aceh Embassy to Prince Maurits at Grave (1602)|first Atjehnese embassy to the Netherlands of 1601]], the recipient of the sultan of [[Atjeh|Atjeh]]'s letters and gifts in response to Maurits's own letter and gifts of the same year, and the staff history's principal Dutch royal actor of the [[De Kleine Oosterling|school-textbook]] narrative of early Dutch-Atjehnese relations.
 aliases: [Maurits van Nassau, Maurits van Oranje, Maurice of Nassau, Prince Maurice, Prins Maurits, Maurits, Stadhouder Maurits]
-**Prince Maurits** — *Maurits van Oranje* (Maurice of Orange, 1567–1625), Stadhouder of Holland and Zeeland from [[1585]] and of all the United Provinces from [[1590]] — was the principal Dutch military commander of the Dutch Revolt against Spain, the principal political opponent of [[Johan van Oldenbarneveldt|Johan van Oldenbarneveldt]] in the conflict over the [[Twelve Years' Truce (1609)|Twelve Years' Truce]], and the principal Dutch royal correspondent of the Sultan of [[Acheh|Atjeh]]. His letters and gifts to the Sultan produced the [[Atjeh embassy to Prince Maurits at Grave (1602)|first Achehnese embassy to the Netherlands]] in [[1602]]–[[1603]] and inaugurated formal Dutch-Achehnese diplomatic relations. He is the principal Dutch royal actor of the [[De Kleine Oosterling|school-textbook]] narrative of early Dutch-Atjehnese relations.
+**Prince Maurits** — *Maurits van Oranje* (Maurice of Orange, 1567–1625), Stadhouder of Holland and Zeeland from [[1585]] and of all the United Provinces from [[1590]] — was the principal Dutch military commander of the Dutch Revolt against Spain, the principal political opponent of [[Johan van Oldenbarneveldt|Johan van Oldenbarneveldt]] in the conflict over the [[Twelve Years' Truce (1609)|Twelve Years' Truce]], and the principal Dutch royal correspondent of the Sultan of [[Acheh|Atjeh]]. His letters and gifts to the Sultan produced the [[Aceh Embassy to Prince Maurits at Grave (1602)|first Achehnese embassy to the Netherlands]] in [[1602]]–[[1603]] and inaugurated formal Dutch-Achehnese diplomatic relations. He is the principal Dutch royal actor of the [[De Kleine Oosterling|school-textbook]] narrative of early Dutch-Atjehnese relations.
 
 ## Maurits's letters and gifts to the Sultan of Atjeh
 
@@ -37,7 +37,7 @@ For fifteen months the ambassadors stayed in the Republic as guests of the East 
 
 ## Maurits's equestrian portrait at Kandi
 
-Prince Maurits's image also reached the inland courts of Asia by other routes. When [[Joris van Spilbergh|Spilbergh]] went to Kandi in [[1602]], he gave the King of Kandi an equestrian portrait of the Prince at the Battle of Nieuwpoort — a painting that was still hanging in the audience hall when [[Sebald de Weert|Sebald de Weert]] arrived later the same year. The King of Kandi was so impressed by Maurits's success against the Spaniards that he declared himself willing, "als metselaar kalk en steen te willen sjouwen" (as a mason to haul lime and stone), for a joint fortification against the arch-enemies.
+Prince Maurits's image also reached the inland courts of Asia by other routes. When [[Joris van Spilbergen|Spilbergh]] went to Kandi in [[1602]], he gave the King of Kandi an equestrian portrait of the Prince at the Battle of Nieuwpoort — a painting that was still hanging in the audience hall when [[Sebald de Weert|Sebald de Weert]] arrived later the same year. The King of Kandi was so impressed by Maurits's success against the Spaniards that he declared himself willing, "als metselaar kalk en steen te willen sjouwen" (as a mason to haul lime and stone), for a joint fortification against the arch-enemies.
 
 ## The Twelve Years' Truce and the conflict with Oldenbarneveldt
 
@@ -45,12 +45,12 @@ The [[Twelve Years' Truce (1609)|Twelve Years' Truce of 1609]] was the principal
 
 ## Significance
 
-For [[Acheh|Atjeh]]'s history, Prince Maurits is the principal royal interlocutor of the Dutch Republic in the sultanate's early-seventeenth-century diplomacy — the Prince whose letters were carried to Atjeh in [[1600]] and [[1601]], whose reception of the [[Atjeh embassy to Prince Maurits at Grave (1602)|1602 embassy]] at the siege of Grave placed Atjeh inside the Dutch war of independence from Spain, and whose alliance was sufficiently valued by Sultan [[Sultan Aloeddin of Atjeh|Aloeddin]] to be marked by a state-embassy, a *kris*, a golden dish and cup, and two pounds of Borneo camphor. The reception of the Achehnese embassy at the siege of Grave is the principal Dutch instance of the early-modern practice of receiving non-European envoys in the field — a practice that linked the Dutch Revolt's military culture to the emerging Dutch-Asian commercial diplomacy.
+For [[Acheh|Atjeh]]'s history, Prince Maurits is the principal royal interlocutor of the Dutch Republic in the sultanate's early-seventeenth-century diplomacy — the Prince whose letters were carried to Atjeh in [[1600]] and [[1601]], whose reception of the [[Aceh Embassy to Prince Maurits at Grave (1602)|1602 embassy]] at the siege of Grave placed Atjeh inside the Dutch war of independence from Spain, and whose alliance was sufficiently valued by Sultan [[Sultan Aloeddin of Atjeh|Aloeddin]] to be marked by a state-embassy, a *kris*, a golden dish and cup, and two pounds of Borneo camphor. The reception of the Achehnese embassy at the siege of Grave is the principal Dutch instance of the early-modern practice of receiving non-European envoys in the field — a practice that linked the Dutch Revolt's military culture to the emerging Dutch-Asian commercial diplomacy.
 
 ## See Also
 
 - [[Sultan Aloeddin of Atjeh]]
-- [[Atjeh embassy to Prince Maurits at Grave (1602)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits at Grave (1602)]]
 - [[Pigskin parchment letter incident at Atjeh (1600)]]
 - [[Paulus van Caerden's Atjeh visit (1600-1601)]]
 - [[Zeeland Company's Atjeh mission (1601)]]
@@ -58,7 +58,7 @@ For [[Acheh|Atjeh]]'s history, Prince Maurits is the principal royal interlocuto
 - [[Sri Mohammed]]
 - [[Mir Hassan]]
 - [[Leonard Werner]]
-- [[Joris van Spilbergh]]
+- [[Joris van Spilbergen|Joris van Spilbergh]]
 - [[Sebald de Weert]]
 - [[Paulus van Caerden]]
 - [[Johan van Oldenbarneveldt]]

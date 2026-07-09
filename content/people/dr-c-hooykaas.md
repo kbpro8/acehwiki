@@ -19,15 +19,15 @@ Hooykaas's principal contribution to the study of Atjehnese literature, in *[[Ov
 - The *[[Hikajat Sultan Atjeh Marhoem]]* — a Malay reworking of the [[Hikajat Malém Dagang|Atjehnese epic]] — which he places in the chapter on Malay historiography alongside the *Sadjarah Malajoe* and the *Hikajat Raja-Raja Pasai*.
 - The *[[Hikajat Malém Dagang]]* itself — the Atjehnese chronicle-epic — which he identifies as the original of which the Malay *Hikajat Sultan Atjeh Marhoem* is a "ietwat droge proza-omwerking" (somewhat dry prose reworking).
 - The *[[Tādj oes-Salatina|Tādj us-Salāṭīn]]* — the Atjehnese-composed "mirror for princes" of [[1607]] — which he treats as one of the two principal Atjehnese contributions to the Malay-language "mirror for princes" genre.
-- The *[[Bustanu's-Salatin|Boestan oes-Salāṭīn]]* of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] — the second of the two Atjehnese "mirrors for princes", composed in [[1638]] — which he treats in detail, singling out the historical chapter on Atjeh as occasionally more reliable than the *Sadjarah Malajoe*.
-- The *[[Sirat al-mustaqim|Sirāṭ al-mustaqīm]]* — the Malay *fiqh* handbook begun by [[Nur al-Din al-Raniri|ar-Rānīrī]] in [[1634]] — whose diffusion to Kedah Hooykaas records in his chapter on Malay historiography.
+- The *[[Bustan al-Salatin|Boestan oes-Salāṭīn]]* of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] — the second of the two Atjehnese "mirrors for princes", composed in [[1638]] — which he treats in detail, singling out the historical chapter on Atjeh as occasionally more reliable than the *Sadjarah Malajoe*.
+- The *[[Sirat al-Mustaqim|Sirāṭ al-mustaqīm]]* — the Malay *fiqh* handbook begun by [[Nur al-Din al-Raniri|ar-Rānīrī]] in [[1634]] — whose diffusion to Kedah Hooykaas records in his chapter on Malay historiography.
 - The Atjehnese *[[Hikajat Malém Diwa]]* — the Atjehnese version of the *Malim Déman* romance cycle — which Hooykaas identifies as the closest cousin to the Malay *Hikajat Malim Déman*.
-- The Atjehnese folk-tale tradition — the *Pa' Pandië* or *Si Gasiën Mēsēkin* of the Atjehnese tradition — which Hooykaas identifies, on the authority of [[Snouck Hurgronje|Snouck Hurgronje]]'s *De Atjehers*, as a participant in the pan-archipelago "Pandir" cycle of folk-tales.
+- The Atjehnese folk-tale tradition — the *Pa' Pandië* or *Si Gasiën Mēsēkin* of the Atjehnese tradition — which Hooykaas identifies, on the authority of [[C. Snouck Hurgronje|C. Snouck Hurgronje]]'s *De Atjehers*, as a participant in the pan-archipelago "Pandir" cycle of folk-tales.
 - The genealogy of the sultans of Malacca and Djohor — Hooykaas's third appendix — in which the [[1613]] and [[1615]] Atjehnese attacks on Batoe Sawar and the captivity of the *Bendahara* in Atjeh are set out in chronological order.
 
 ## Acknowledgements
 
-In his introduction, Hooykaas acknowledges the support and encouragement he received "van zo vele zijden" (from so many sides) during the three years of the book's composition. He singles out, in particular, the contents-opgave of the *[[Bustanu's-Salatin|Boestan]]* — which he credits to "Dr. P. VOORHOEVE" — and notes that "ware er al niet zo veel geschreven over allerlei werken der Maleise letteren, dan had ik, die nooit op Sumatra of Malakka kon verblijven, dit werk ook niet in deze tijd kunnen samenstellen" (had not so much been written about all kinds of works of Malay literature, I, who have never been able to stay on Sumatra or Malacca, would not have been able to compile this work in this time either).
+In his introduction, Hooykaas acknowledges the support and encouragement he received "van zo vele zijden" (from so many sides) during the three years of the book's composition. He singles out, in particular, the contents-opgave of the *[[Bustan al-Salatin|Boestan]]* — which he credits to "Dr. P. VOORHOEVE" — and notes that "ware er al niet zo veel geschreven over allerlei werken der Maleise letteren, dan had ik, die nooit op Sumatra of Malakka kon verblijven, dit werk ook niet in deze tijd kunnen samenstellen" (had not so much been written about all kinds of works of Malay literature, I, who have never been able to stay on Sumatra or Malacca, would not have been able to compile this work in this time either).
 
 ## Significance
 
@@ -40,12 +40,12 @@ For AcehWiki, Hooykaas is significant as the author of *[[Over Maleise Literatuu
 - [[Hikajat Malém Dagang]]
 - [[Hikajat Malém Diwa]]
 - [[Tādj oes-Salatina]]
-- [[Bustanu's-Salatin]]
-- [[Sirat al-mustaqim]]
+- [[Bustan al-Salatin|Bustanu's-Salatin]]
+- [[Sirat al-Mustaqim|Sirat al-mustaqim]]
 - [[Sadjarah Malajoe]]
 - [[Hikajat Raja-Raja Pasai]]
 - [[Nur al-Din al-Raniri]]
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [[P. Voorhoeve]]
 - [[1947]]
 

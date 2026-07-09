@@ -3,7 +3,7 @@ title: Rabò annual seven-day feast
 aliases: [Rabò buffalo sacrifice", Rabò kermis der losbandigheid", VI Moekim's annual feast at Rabò", annual feast at Rabò", seven-day feast on Rabò"]
 tags: ["achehnese", "agricultural", "event", "ritual", "sacrifice"]
 ---
-The **Rabò annual seven-day feast** — described in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 246) as a *"kermis der losbandigheid"* (carnival of debauchery) — was the annual seven-day beach festival held by the inhabitants of the [[VI Moekim's of Groot-Atjeh|VI Moekim's of Groot-Atjeh]] on the islet of [[Rabò|Rabò]] near [[Poelo Breuëh|Poelo Breuëh]] (Poelau Bras) off the north-western coast of [[Groot-Atjeh|Groot-Atjeh]] in [[Acheh|Atjeh]], the seventh day of which culminated in the ritual sacrifice of a buffalo that was first stabbed in some body part and then led bleeding over all the rice-fields "so that none of them should miss the disaster-averting sprinkling with its blood," before being ritually slaughtered and consumed. The feast is documented by [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] in [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. II, p. 315) and is the most fully documented Atjeh-specific instance of the [[Bebloeding (rituele bebloeding)|bebloeding]] of rice-fields by means of a stabbed and bleeding buffalo.
+The **Rabò annual seven-day feast** — described in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 246) as a *"kermis der losbandigheid"* (carnival of debauchery) — was the annual seven-day beach festival held by the inhabitants of the [[VI Moekim's of Groot-Atjeh|VI Moekim's of Groot-Atjeh]] on the islet of [[Rabò|Rabò]] near [[Poelo Breuëh|Poelo Breuëh]] (Poelau Bras) off the north-western coast of [[Groot-Atjeh|Groot-Atjeh]] in [[Acheh|Atjeh]], the seventh day of which culminated in the ritual sacrifice of a buffalo that was first stabbed in some body part and then led bleeding over all the rice-fields "so that none of them should miss the disaster-averting sprinkling with its blood," before being ritually slaughtered and consumed. The feast is documented by [[C. Snouck Hurgronje|Snouck Hurgronje]] in [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. II, p. 315) and is the most fully documented Atjeh-specific instance of the [[Bebloeding (rituele bebloeding)|bebloeding]] of rice-fields by means of a stabbed and bleeding buffalo.
 
 ## The rite
 The Rabò feast is described in *De Karbouw* (p. 246) in a passage that fixes its duration, its location, its performers, its ritual climax, and its agricultural sanction:
@@ -33,7 +33,7 @@ The Rabò annual seven-day feast is significant for the encyclopedia of [[Acheh]
 
 ## See Also
 - [[Bebloeding (rituele bebloeding)]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Groot-Atjeh]]
 - [[Kreemer's De Karbouw ([[1956]])]]
 - [[Poelo Breuëh]]

@@ -16,12 +16,12 @@ Other manipulations of the *kulat* were employed to engender passion for a lover
 
 ## Lam Teuba in Achehnese Popular Geography
 
-The reputation of Lam Teuba thus placed the village alongside *kulat Lam Teuha* as a recognised source of dangerous magical expertise. Such local specialisations were characteristic of the Achehnese countryside, in which individual gampongs were habitually identified with particular crafts, charms, or forms of knowledge — from the cloth of [[Lam Gugob]] to the epidemic-averting *lanchang* launched from the [[Kuala (of the Aceh River)|kuala]] of the Aceh river. Snouck Hurgronje's notice of Lam Teuba is brief, but it suffices to show that the village enjoyed, in the late nineteenth century, a sinister pre-eminence in the arts of sympathetic poisoning.
+The reputation of Lam Teuba thus placed the village alongside *kulat Lam Teuha* as a recognised source of dangerous magical expertise. Such local specialisations were characteristic of the Achehnese countryside, in which individual gampongs were habitually identified with particular crafts, charms, or forms of knowledge — from the cloth of [[Lam Gut|Lam Gugob]] to the epidemic-averting *lanchang* launched from the [[Kuala (of the Aceh River)|kuala]] of the Aceh river. Snouck Hurgronje's notice of Lam Teuba is brief, but it suffices to show that the village enjoyed, in the late nineteenth century, a sinister pre-eminence in the arts of sympathetic poisoning.
 
 ## See Also
 
 - [[Acheh]]
-- [[Lam Gugob]]
+- [[Lam Gut|Lam Gugob]]
 - [[Kuala (of the Aceh River)]]
 - [[Great Acheh]]
 

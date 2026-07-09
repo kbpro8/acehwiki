@@ -4,11 +4,11 @@ aliases: [Syf's submission at Telok Semawé, onderwerping van Syf te Telok Semaw
 tags: [event, diplomacy, colonial]
 ---
 
-The **submission of [[Sultan Saif ul-Alum|Saif ul-Alum]] at [[Telok Semawé|Telok Semawé]]** in [[1819]] was the formal act of submission made by the pretender [[Sultan Saif ul-Alum|Syf ul-Alum]] — known in the Dutch sources as *Syf* — to the [[Raffles-Coombs Acheh commission|Raffles-Coombs Acheh commission]] immediately after the conclusion of the [[Acheh treaty of 1819|Acheh treaty of 1819]] with [[Sultan Jauhar Alum|Sultan Jauhar Alum]]. Van der Kemp treats the submission as the third, and emptiest, of the three diplomatic acts by which the commission sought to settle the Acheh succession.
+The **submission of [[Sultan Saif ul-Alum|Saif ul-Alum]] at [[Telok Semawé|Telok Semawé]]** in [[1819]] was the formal act of submission made by the pretender [[Sultan Saif ul-Alum|Syf ul-Alum]] — known in the Dutch sources as *Syf* — to the [[Raffles-Coombs Acheh commission|Raffles-Coombs Acheh commission]] immediately after the conclusion of the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]] with [[Sultan Jauhar Alum|Sultan Jauhar Alum]]. Van der Kemp treats the submission as the third, and emptiest, of the three diplomatic acts by which the commission sought to settle the Acheh succession.
 
 ## Background
 
-By the spring of [[1819]] the [[Acheh succession dispute|Acheh succession dispute]] had produced two rival sultans: [[Sultan Jauhar Alum|Jauhar Alum]], the old legitimate sultan, established at [[Pedir|Pedir]] on the north coast, and [[Sultan Saif ul-Alum|Syf ul-Alum]], the pretender, who had been driven from Acheh itself and had taken up his residence at [[Telok Semawé|Telok Semawé]] on the East Coast. The [[Raffles-Coombs Acheh commission|commission]] sent from [[Penang|Penang]] under [[Sir Thomas Stamford Raffles|Sir Stamford Raffles]] and [[Captain Coombs|Captain Coombs]] had instructions to ascertain which of the two parties predominated in the state, and to negotiate with the ruling party. After lengthy deliberation at Penang — in the course of which [[Colonel John Alexander Bannerman|Governor Bannerman]] had wished to await the decision of the Bengal government, and Raffles had objected that the Dutch would otherwise forestall them by contracting with Jauhar — the commission chose Jauhar Alum and concluded with him, on [[22 April 1819|22 April 1819]], the [[Acheh treaty of 1819|treaty of Acheh]].
+By the spring of [[1819]] the [[Acheh succession dispute|Acheh succession dispute]] had produced two rival sultans: [[Sultan Jauhar Alum|Jauhar Alum]], the old legitimate sultan, established at [[Pedir|Pedir]] on the north coast, and [[Sultan Saif ul-Alum|Syf ul-Alum]], the pretender, who had been driven from Acheh itself and had taken up his residence at [[Telok Semawé|Telok Semawé]] on the East Coast. The [[Raffles-Coombs Acheh commission|commission]] sent from [[Penang|Penang]] under [[Sir Thomas Stamford Raffles|Sir Stamford Raffles]] and [[Captain Coombs|Captain Coombs]] had instructions to ascertain which of the two parties predominated in the state, and to negotiate with the ruling party. After lengthy deliberation at Penang — in the course of which [[Colonel John Alexander Bannerman|Governor Bannerman]] had wished to await the decision of the Bengal government, and Raffles had objected that the Dutch would otherwise forestall them by contracting with Jauhar — the commission chose Jauhar Alum and concluded with him, on [[22 April 1819|22 April 1819]], the [[Treaty of Pedir (1819)|treaty of Acheh]].
 
 ## The Submission at Telok Semawé
 
@@ -23,7 +23,7 @@ The undertaking, Van der Kemp observes, was "as worthless as Jauhar's treaty." I
 - [[Sultan Saif ul-Alum]]
 - [[Sultan Jauhar Alum]]
 - [[Telok Semawé]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Raffles-Coombs Acheh commission]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Captain Coombs]]

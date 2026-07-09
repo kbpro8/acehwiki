@@ -20,7 +20,7 @@ Van der Kemp’s narrative introduces **Major Farquhar**, Resident of [[Malacca]
 
 Farquhar’s conviction that the [[Karimon Islands]] offered an alternative British commercial base contributed directly to the founding of [[Singapore]] in [[January 1819]]. Van der Kemp later critiques Dutch policy, noting that “dat wij er niet naar gestreefd hebben” — the Dutch had not pursued Borneo with sufficient vigor while European diplomats exchanged [[Hindostan|Nederlandsch Hindostan]] for [[Malacca]] and renounced British claims on [[Sumatra]].
 
-The figure of **Raja Akil** of [[Siak]] exemplifies the porous political networks linking Sumatra and Borneo. In [[1828]] Van der Kemp records that Raja Akil “werd vorst van Soekadana op Borneo” — he became prince of [[Sukadana]] on Borneo. His career illustrates how the “indeterminate frontier” of Borneo’s western sultanates (Pontianak, Sukadana) was woven into the diplomatic fabric that the [[Treaty of London (1824)|treaty of [[1824]]]] sought to formalise.
+The figure of **Raja Akil** of [[Siak]] exemplifies the porous political networks linking Sumatra and Borneo. In [[1828]] Van der Kemp records that Raja Akil “werd vorst van Soekadana op Borneo” — he became prince of [[Sukadana]] on Borneo. His career illustrates how the “indeterminate frontier” of Borneo’s western sultanates (Pontianak, Sukadana) was woven into the diplomatic fabric that the [[Anglo-Dutch Treaty of 1824|treaty of [[1824]]]] sought to formalise.
 
 ## Mid‑Nineteenth‑Century Colonial Activities
 

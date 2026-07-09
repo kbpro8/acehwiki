@@ -16,7 +16,7 @@ In the Acehnese version of the *Burda*, Shaddad’s tale functions as a cautiona
 ## See Also
 
 - [[Iram (mythical city)]]
-- [[Al‑Burda (Arabic poem)]]
+- [[Burda (poem)|Al‑Burda (Arabic poem)]]
 - [[Muhammad]]
 - [[Arabic terms in Acehnese religious poetry]]
 

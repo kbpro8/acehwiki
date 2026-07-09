@@ -4,7 +4,7 @@ aliases: [ontwerp-conventie 1 February 1824, draft convention of 1 February 1824
 tags: [event, treaty, diplomacy, colonial, anglo-dutch]
 ---
 
-The **first draft of the 1824 Anglo-Dutch treaty** — referred to by P. H. [[P. H. van der Kemp|Van der Kemp]] as the *ontwerp-conventie* of [[1 February]] [[1824]] — was the preliminary draft of the [[Anglo-Dutch Treaty of London (1824)|treaty of 17 March 1824]], drawn up by the Dutch plenipotentiaries [[Hendrik Fagel|Fagel]] and [[Anton Reinhard Falck|Falck]] after prolonged negotiations with their British counterparts [[George Canning|Canning]] and [[Charles Watkin Williams Wynn|Wynn]] over the financial and territorial disputes inherited from the [[Anglo-Dutch Treaty of London (1814)|treaty of 13 August 1814]]. The draft was approved by both parties but, because it contained articles (notably articles 10, 11 and 12) that exceeded the Dutch plenipotentiaries' instructions, was referred to The Hague for the King's authorisation. The draft is chiefly significant in Van der Kemp's study for two things: the absence of any provision concerning [[Acheh]], and the inclusion of the reciprocal shipping articles at [[Tapanoeli]] and [[Anjer]] that provoked [[Elout|Elout]]'s critical [[Elout's advice of 12 February 1824|advice of 12 February 1824]].
+The **first draft of the 1824 Anglo-Dutch treaty** — referred to by P. H. [[P. H. van der Kemp|Van der Kemp]] as the *ontwerp-conventie* of [[1 February]] [[1824]] — was the preliminary draft of the [[Anglo-Dutch Treaty of 1824|treaty of 17 March 1824]], drawn up by the Dutch plenipotentiaries [[Hendrik Fagel|Fagel]] and [[Anton Reinhard Falck|Falck]] after prolonged negotiations with their British counterparts [[George Canning|Canning]] and [[Charles Watkin Williams Wynn|Wynn]] over the financial and territorial disputes inherited from the [[Anglo-Dutch Treaty of London (1814)|treaty of 13 August 1814]]. The draft was approved by both parties but, because it contained articles (notably articles 10, 11 and 12) that exceeded the Dutch plenipotentiaries' instructions, was referred to The Hague for the King's authorisation. The draft is chiefly significant in Van der Kemp's study for two things: the absence of any provision concerning [[Acheh]], and the inclusion of the reciprocal shipping articles at [[Tapanoeli]] and [[Anjer]] that provoked [[Elout|Elout]]'s critical [[Elout's advice of 12 February 1824|advice of 12 February 1824]].
 
 ## Background
 
@@ -24,7 +24,7 @@ The draft's silence on Acheh is thus of capital importance: it shows that, when 
 
 ## The reference to The Hague
 
-Because the first draft contained articles 10, 11 and 12, and other provisions, that exceeded the Dutch plenipotentiaries' instructions, it could not be signed without the King's authorisation. To facilitate the reference, the Dutch plenipotentiaries entrusted the draft to [[Captain Elout|Captain Elout]] (son of the minister [[Elout|Elout]] of Finance, formerly Commissioner-General), who was to carry it personally to The Hague. While the captain was on the point of departure, the British plenipotentiaries made their surprise disclosure of the [[Treaty of Pedir (1819)|1819 Acheh convention]] — a disclosure that triggered the [[King's authorization of 13 February 1824|King's authorisation of 13 February 1824]], the [[Raising of the Acheh treaty in London negotiations|renewed negotiations of late February]], and ultimately the awkward Acheh clause of the definitive [[Anglo-Dutch Treaty of London (1824)|treaty of 17 March 1824]].
+Because the first draft contained articles 10, 11 and 12, and other provisions, that exceeded the Dutch plenipotentiaries' instructions, it could not be signed without the King's authorisation. To facilitate the reference, the Dutch plenipotentiaries entrusted the draft to [[Captain Elout|Captain Elout]] (son of the minister [[Elout|Elout]] of Finance, formerly Commissioner-General), who was to carry it personally to The Hague. While the captain was on the point of departure, the British plenipotentiaries made their surprise disclosure of the [[Treaty of Pedir (1819)|1819 Acheh convention]] — a disclosure that triggered the [[King's authorization of 13 February 1824|King's authorisation of 13 February 1824]], the [[Raising of the Acheh treaty in London negotiations|renewed negotiations of late February]], and ultimately the awkward Acheh clause of the definitive [[Anglo-Dutch Treaty of 1824|treaty of 17 March 1824]].
 
 ## See Also
 
@@ -34,7 +34,7 @@ Because the first draft contained articles 10, 11 and 12, and other provisions, 
 - [[Captain Elout]]
 - [[George Canning]]
 - [[Charles Watkin Williams Wynn]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Anglo-Dutch Treaty of London (1814)]]
 - [[Fagel-Elout negotiations (August 1820)]]
 - [[Concept-convention of 24 July 1820]]

@@ -24,7 +24,7 @@ After the surrender, Panglima Polem was reinstated as head of the XXII *moekims*
 
 - [[Aceh War]]
 - [[Panglima Polem]]
-- [[H. Colijn]]
+- [[Hendrikus Colijn|H. Colijn]]
 - [[Batêê Iliê]]
 - [[Samalanga]]
 

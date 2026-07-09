@@ -13,7 +13,7 @@ Inglis was a director of the East India Company, and Raffles's letters to him du
 
 ## Raffles's Reports on the Acheh Commission
 
-Inglis also received from Raffles a letter dated 12 January [[1819]] — that is, written aboard ship at the moment when Raffles was on his way from [[Penang]] to the Karimon Islands and to the act that would found Singapore. In that letter Raffles declared that he had "never had a more disagreeable duty, and consequently was highly satisfied to bring our mission to so desirable a conclusion. It was an object of great importance to take the right side of the question and had our government been once committed on the other, and troops introduced, we should soon have been so deeply involved that a worse than Candyan war might have been apprehended. In a country like Acheen by military operations we had everything to lose and nothing to gain." Van der Kemp adds that "history can only pay tribute to the depth of such foresight", though he goes on to observe that Raffles's self-congratulation was pure exaggeration: in fact nothing had been gained by the [[Acheh treaty of 1819]] and the commission might just as well have stayed at home.
+Inglis also received from Raffles a letter dated 12 January [[1819]] — that is, written aboard ship at the moment when Raffles was on his way from [[Penang]] to the Karimon Islands and to the act that would found Singapore. In that letter Raffles declared that he had "never had a more disagreeable duty, and consequently was highly satisfied to bring our mission to so desirable a conclusion. It was an object of great importance to take the right side of the question and had our government been once committed on the other, and troops introduced, we should soon have been so deeply involved that a worse than Candyan war might have been apprehended. In a country like Acheen by military operations we had everything to lose and nothing to gain." Van der Kemp adds that "history can only pay tribute to the depth of such foresight", though he goes on to observe that Raffles's self-congratulation was pure exaggeration: in fact nothing had been gained by the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] and the commission might just as well have stayed at home.
 
 Raffles's letters to Inglis thus provide Van der Kemp with two of his most vivid personal documents for the Acheh episode. The first records the inky "paper war" between Raffles and Bannerman, and the second shows Raffles in January [[1819]] already contemplating the abandonment of a military solution in Acheh and the substitution of a diplomatic arrangement — the very arrangement embodied in the [[Treaty of Pedir (1819)|Treaty of Pedir]] of 22 April [[1819]].
 
@@ -25,7 +25,7 @@ Inglis's importance for the Acheh question lies chiefly in the fact that he pres
 
 - [[Sir Thomas Stamford Raffles]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Founding of Singapore]]
 - [[Colonel John Alexander Bannerman]]
 
@@ -43,7 +43,7 @@ Inglis was a director of the East India Company, and Raffles's letters to him du
 
 ## Raffles's Reports on the Acheh Commission
 
-Inglis also received from Raffles a letter dated 12 January [[1819]] — that is, written aboard ship at the moment when Raffles was on his way from [[Penang]] to the Karimon Islands and to the act that would found Singapore. In that letter Raffles declared that he had "never had a more disagreeable duty, and consequently was highly satisfied to bring our mission to so desirable a conclusion. It was an object of great importance to take the right side of the question and had our government been once committed on the other, and troops introduced, we should soon have been so deeply involved that a worse than Candyan war might have been apprehended. In a country like Acheen by military operations we had everything to lose and nothing to gain." Van der Kemp adds that "history can only pay tribute to the depth of such foresight", though he goes on to observe that Raffles's self-congratulation was pure exaggeration: in fact nothing had been gained by the [[Acheh treaty of 1819]] and the commission might just as well have stayed at home.
+Inglis also received from Raffles a letter dated 12 January [[1819]] — that is, written aboard ship at the moment when Raffles was on his way from [[Penang]] to the Karimon Islands and to the act that would found Singapore. In that letter Raffles declared that he had "never had a more disagreeable duty, and consequently was highly satisfied to bring our mission to so desirable a conclusion. It was an object of great importance to take the right side of the question and had our government been once committed on the other, and troops introduced, we should soon have been so deeply involved that a worse than Candyan war might have been apprehended. In a country like Acheen by military operations we had everything to lose and nothing to gain." Van der Kemp adds that "history can only pay tribute to the depth of such foresight", though he goes on to observe that Raffles's self-congratulation was pure exaggeration: in fact nothing had been gained by the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] and the commission might just as well have stayed at home.
 
 Raffles's letters to Inglis thus provide Van der Kemp with two of his most vivid personal documents for the Acheh episode. The first records the inky "paper war" between Raffles and Bannerman, and the second shows Raffles in January [[1819]] already contemplating the abandonment of a military solution in Acheh and the substitution of a diplomatic arrangement — the very arrangement embodied in the [[Treaty of Pedir (1819)|Treaty of Pedir]] of 22 April [[1819]].
 
@@ -55,7 +55,7 @@ Inglis's importance for the Acheh question lies chiefly in the fact that he pres
 
 - [[Sir Thomas Stamford Raffles]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Founding of Singapore]]
 - [[Colonel John Alexander Bannerman]]
 

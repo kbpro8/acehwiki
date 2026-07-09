@@ -33,7 +33,7 @@ Von Sperling's murder is, in the staff history's Atjeh chapter, the moment at wh
 - [[murder of Tiggelman at Seulimeum]]
 - [[F-beweging]]
 - [[F-organisatie]]
-- [[Fujiwara (Japanese intelligence officer)]]
+- [[Fujiwara Iwaichi|Fujiwara (Japanese intelligence officer)]]
 - [[Fall of Penang]]
 - [[Atjehsche Staatsspoorwegen]]
 - [[Atjeh-tram]]

@@ -4,7 +4,7 @@ aliases: [M. H. du Croo, Brammetje, Abraham Exodus, du Croo]
 tags: [person, military, knil, author, aceh, colonial, journalist]
 ---
 
-**Maurice Henri du Croo** ([[8 April]] [[1887]] – [[23 April]] [[1951]]) was a Dutch colonial army officer, civil administrator, journalist, and writer who served in the [[Aceh|Atjeh]] region of the [[Netherlands East Indies]] during the [[1920s]]. He is best known for co-authoring the military book *[[Marechaussée in Atjeh (book)|Marechaussée in Atjeh]]* with [[Schmidt (Kolonel)|Kolonel Schmidt]], and for his pseudonymous literary works as "Brammetje" and "Abraham Exodus". His career provides insight into the Dutch military and administrative presence in [[Aceh]] during the late colonial period, and his writings form part of the Dutch colonial literature on the [[Aceh War]] and its aftermath.
+**Maurice Henri du Croo** ([[8 April]] [[1887]] – [[23 April]] [[1951]]) was a Dutch colonial army officer, civil administrator, journalist, and writer who served in the [[Aceh|Atjeh]] region of the [[Netherlands East Indies]] during the [[1920s]]. He is best known for co-authoring the military book *[[Marechaussée in Atjeh (book)|Marechaussée in Atjeh]]* with [[Schmidt|Kolonel Schmidt]], and for his pseudonymous literary works as "Brammetje" and "Abraham Exodus". His career provides insight into the Dutch military and administrative presence in [[Aceh]] during the late colonial period, and his writings form part of the Dutch colonial literature on the [[Aceh War]] and its aftermath.
 
 ## Early Life and Education
 
@@ -26,17 +26,17 @@ After a leave in [[1931]], du Croo returned to the Indies in [[1932]] and was pr
 
 ## Literary and Journalistic Work
 
-Throughout his career du Croo wrote for newspapers such as *De Locomotief*, the *Soerabajaasch Handelsblad*, and the *Bataviaasch Nieuwsblad*. He published strategic articles in the *Indisch Militair Tijdschrift*. From [[1940]] to [[1942]] he was editor of the periodical *Oost en West*. Under the pseudonyms "Brammetje" and "Abraham Exodus" he produced a body of literary work drawing on his colonial experiences. His collaboration with [[Schmidt (Kolonel)|Kolonel Schmidt]] produced two military-historical volumes: *[[Marechaussée in Atjeh (book)|Marechaussée in Atjeh]]* and *[[Generaal Swart (book)|Generaal Swart]]* — the latter a biography of the [[Aceh War]] general [[H. N. A. Swart|General Swart]].
+Throughout his career du Croo wrote for newspapers such as *De Locomotief*, the *Soerabajaasch Handelsblad*, and the *Bataviaasch Nieuwsblad*. He published strategic articles in the *Indisch Militair Tijdschrift*. From [[1940]] to [[1942]] he was editor of the periodical *Oost en West*. Under the pseudonyms "Brammetje" and "Abraham Exodus" he produced a body of literary work drawing on his colonial experiences. His collaboration with [[Schmidt|Kolonel Schmidt]] produced two military-historical volumes: *[[Marechaussée in Atjeh (book)|Marechaussée in Atjeh]]* and *[[H. N. A. Swart|Generaal Swart]]* — the latter a biography of the [[Aceh War]] general [[H. N. A. Swart|General Swart]].
 
 ## Significance
 
-Maurice Henri du Croo is significant as a figure who combined active military service in [[Aceh]] during the late colonial period with a literary and journalistic output that preserved and interpreted the Dutch experience of the [[Aceh War]] for a metropolitan readership. His career spans the transition from the active pacification era into the inter-war "consolidation" period, and his writings — particularly *[[Marechaussée in Atjeh (book)|Marechaussée in Atjeh]]* — constitute a primary source for the mentality and self-image of the [[K.N.I.L.]] officer corps in the late colonial Atjeh. His co-authored biography *[[Generaal Swart (book)|Generaal Swart]]* likewise preserves the memory of the [[H. N. A. Swart|Swart]] administration under which the Aceh War was brought to its formal conclusion.
+Maurice Henri du Croo is significant as a figure who combined active military service in [[Aceh]] during the late colonial period with a literary and journalistic output that preserved and interpreted the Dutch experience of the [[Aceh War]] for a metropolitan readership. His career spans the transition from the active pacification era into the inter-war "consolidation" period, and his writings — particularly *[[Marechaussée in Atjeh (book)|Marechaussée in Atjeh]]* — constitute a primary source for the mentality and self-image of the [[K.N.I.L.]] officer corps in the late colonial Atjeh. His co-authored biography *[[H. N. A. Swart|Generaal Swart]]* likewise preserves the memory of the [[H. N. A. Swart|Swart]] administration under which the Aceh War was brought to its formal conclusion.
 
 ## See Also
 
 - [[Marechaussée in Atjeh (book)]]
-- [[Generaal Swart (book)]]
-- [[Schmidt (Kolonel)]]
+- [[H. N. A. Swart|Generaal Swart (book)]]
+- [[Schmidt|Schmidt (Kolonel)]]
 - [[H. N. A. Swart]]
 - [[Aceh War]]
 - [[K.N.I.L.]]

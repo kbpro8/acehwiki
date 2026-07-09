@@ -17,9 +17,9 @@ The author — Merac — distances himself from the tall-story tradition only pa
 The book's chapters, with their Aceh-related content, include:
 
 1. *Sloebers* — the prologue, on the Atjeh-moorden, the prang sabil, the djahat, and the [[Verzet in Lhong]].
-2. (Various chapters on administrative officials, planters, and other colonial topics — see the chapter on transfers, which cites [[Gouverneur-Generaal Van Heutsz|Van Heutsz]]'s circular against transfers and [[Snouck Hurgronje]]'s remark on experienced controllers.)
-3. (A chapter on the Soldaten-Dominee [[Dominee Thenu|Thenu]] and the Soldaten-Pastoor [[Pastoor Verbraak|Verbraak]], with the marechaussée song quoted in full and the list of the marechaussée commanders: [[Gilles Graafland|Graafland]], [[Van Daalen]], [[Campioni]], [[Christoffel]], [[Van der Maaten]], [[Scheepens]], [[Watrin]], [[Webb]], [[Colijn]], [[Geertsema Beckering]], [[Darlang]] and the sergeants [[Nussy]], [[Salowono]], [[Pongoh]].)
-4. (A chapter on the [[Meusigit Raja]] of [[Koeta-Radja]], with the [[Van Swieten|generaal Van Swieten]] letter of [[8 February]] [[1874]] and the [[Snouck Hurgronje]] judgement.)
+2. (Various chapters on administrative officials, planters, and other colonial topics — see the chapter on transfers, which cites [[Joannes Benedictus van Heutsz|Van Heutsz]]'s circular against transfers and [[C. Snouck Hurgronje|Snouck Hurgronje]]'s remark on experienced controllers.)
+3. (A chapter on the Soldaten-Dominee [[Dominee Thenu|Thenu]] and the Soldaten-Pastoor [[Pastoor Verbraak|Verbraak]], with the marechaussée song quoted in full and the list of the marechaussée commanders: [[Gilles Graafland|Graafland]], [[Gotfried Coenraad Ernst van Daalen|Van Daalen]], [[Campioni]], [[Christoffel]], [[Van der Maaten]], [[Scheepens]], [[G. F. B. Watrin|Watrin]], [[Webb]], [[Hendrikus Colijn|Colijn]], [[Geertsema Beckering]], [[Darlang]] and the sergeants [[Nussy]], [[Salowono]], [[Pongoh]].)
+4. (A chapter on the [[Meusigit Raja]] of [[Koeta-Radja]], with the [[Jan van Swieten|generaal Van Swieten]] letter of [[8 February]] [[1874]] and the [[C. Snouck Hurgronje|Snouck Hurgronje]] judgement.)
 5. *Jagerslatijn* (Hunters' Latin) — the chapter on the lieutenant's journey through Atjeh, the [[Gajoweg]], [[Bireuën]], [[Takengeun]], [[Blang Rakal]], and the old hunter [[Datoek]].
 6. *Atjeh's Transport-Olifanten* (Aceh's Transport-Elephants) — the chapter on the [[transport-olifanten]] of Aceh: [[Agam]] the male, [[Isah]], [[Sarah]] and [[Rimba]] the female elephants, and the [[Lam-toeulo]]-[[Tangsé]]-[[Geumpang]] transport.
 
@@ -36,8 +36,8 @@ The book is volume 2 of the *Toekan-Serie* (Toucan Series), edited by G. L. Tich
 - [[Musket]]
 - [[Dominee Thenu]]
 - [[Pastoor Verbraak]]
-- [[Gouverneur-Generaal Van Heutsz]]
-- [[Snouck Hurgronje]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [[Meusigit Raja]]
 - [[Gajoweg]]
 - [[Datoek]]

@@ -10,7 +10,7 @@ Koopman’s coordination with the land forces under [[General-Major Köhler]] an
 ## See Also
 - [[General-Major Köhler]]
 - [[Captain-terr zee Binkes]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Aceh War (1873–1904)]]
 
 ## Source

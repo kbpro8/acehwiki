@@ -11,7 +11,7 @@ tags: [person, dutch-official, minister, diplomat]
 
 ## The 1819 Memoranda with the British Envoy
 
-Van der Kemp's first reference to Van Nagell occurs in a footnote to his discussion of the British declaration — embodied in the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]] — that the Netherlands "distinctly and solemnly disclaim any design on their part to aim either at political supremacy or at commercial monopoly in the Eastern Archipelago." This declaration, Van der Kemp notes, was "not new," having already appeared in the notes exchanged in August 1820 between [[Lord Castlereagh|Castlereagh]]–[[George Canning|Canning]] and [[Hendrik Fagel|Fagel]]–[[Elout|Elout]]. But there had been an even earlier exchange on the same subject: "See the memoranda exchanged between Van Nagell and the British envoy in 1819, in Van Deventer's appendices LXV and LXVI, 'Nederlandsch Gezag'." These memoranda — printed by S. van Deventer in his documentary appendices — constitute the first formal Dutch protest against Raffles's conduct, and were drawn up at The Hague under Van Nagell's supervision. The case, Van der Kemp adds, was again raised during the 1824 negotiations.
+Van der Kemp's first reference to Van Nagell occurs in a footnote to his discussion of the British declaration — embodied in the [[Anglo-Dutch Treaty of 1824|treaty of 1824]] — that the Netherlands "distinctly and solemnly disclaim any design on their part to aim either at political supremacy or at commercial monopoly in the Eastern Archipelago." This declaration, Van der Kemp notes, was "not new," having already appeared in the notes exchanged in August 1820 between [[Lord Castlereagh|Castlereagh]]–[[George Canning|Canning]] and [[Hendrik Fagel|Fagel]]–[[Elout|Elout]]. But there had been an even earlier exchange on the same subject: "See the memoranda exchanged between Van Nagell and the British envoy in 1819, in Van Deventer's appendices LXV and LXVI, 'Nederlandsch Gezag'." These memoranda — printed by S. van Deventer in his documentary appendices — constitute the first formal Dutch protest against Raffles's conduct, and were drawn up at The Hague under Van Nagell's supervision. The case, Van der Kemp adds, was again raised during the 1824 negotiations.
 
 ## The Fagel–Van Nagell Correspondence of January 1820
 
@@ -19,7 +19,7 @@ Van Nagell's second appearance in the article concerns a correspondence with the
 
 ## The Foreign Office in 1824
 
-By February 1824, when the [[Anglo-Dutch Treaty of London (1824)|London treaty]] was in its final stage of negotiation, Van Nagell had either left or was about to leave the Foreign Office. Van der Kemp records that the Dutch Foreign Office "was at that time without a leading head. It was merely looked after by one of our envoys, [[Ridder Reinhold|Ridder Reinhold]], who had no understanding of the matter." The absence of Van Nagell (or of any successor of comparable standing) at this critical juncture is one of the structural causes Van der Kemp identifies for the mishandling of the [[Acheh treaty of 1819|Acheh treaty]] question. Had Van Nagell still been in office, the King's authorisation of 13 February 1824 might not have been so lightly given on the strength of an oral communication by [[Captain Elout|Captain Elout]].
+By February 1824, when the [[Anglo-Dutch Treaty of 1824|London treaty]] was in its final stage of negotiation, Van Nagell had either left or was about to leave the Foreign Office. Van der Kemp records that the Dutch Foreign Office "was at that time without a leading head. It was merely looked after by one of our envoys, [[Ridder Reinhold|Ridder Reinhold]], who had no understanding of the matter." The absence of Van Nagell (or of any successor of comparable standing) at this critical juncture is one of the structural causes Van der Kemp identifies for the mishandling of the [[Treaty of Pedir (1819)|Acheh treaty]] question. Had Van Nagell still been in office, the King's authorisation of 13 February 1824 might not have been so lightly given on the strength of an oral communication by [[Captain Elout|Captain Elout]].
 
 ## The Sumatra Question
 
@@ -35,7 +35,7 @@ Van Nagell's overall responsibility extends, in Van der Kemp's reading, to the e
 - [[George Canning]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Anglo-Dutch Treaty of London (1814)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Concept-convention of 24 July 1820]]
 - [[Fagel-Elout negotiations (August 1820)]]
 - [[Raising of the Acheh treaty in London negotiations]]
@@ -54,7 +54,7 @@ Van Nagell's overall responsibility extends, in Van der Kemp's reading, to the e
 
 ## The 1819 Memoranda with the British Envoy
 
-Van der Kemp's first reference to Van Nagell occurs in a footnote to his discussion of the British declaration — embodied in the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]] — that the Netherlands "distinctly and solemnly disclaim any design on their part to aim either at political supremacy or at commercial monopoly in the Eastern Archipelago." This declaration, Van der Kemp notes, was "not new," having already appeared in the notes exchanged in August 1820 between [[Lord Castlereagh|Castlereagh]]–[[George Canning|Canning]] and [[Hendrik Fagel|Fagel]]–[[Elout|Elout]]. But there had been an even earlier exchange on the same subject: "See the memoranda exchanged between Van Nagell and the British envoy in 1819, in Van Deventer's appendices LXV and LXVI, 'Nederlandsch Gezag'." These memoranda — printed by S. van Deventer in his documentary appendices — constitute the first formal Dutch protest against Raffles's conduct, and were drawn up at The Hague under Van Nagell's supervision. The case, Van der Kemp adds, was again raised during the 1824 negotiations.
+Van der Kemp's first reference to Van Nagell occurs in a footnote to his discussion of the British declaration — embodied in the [[Anglo-Dutch Treaty of 1824|treaty of 1824]] — that the Netherlands "distinctly and solemnly disclaim any design on their part to aim either at political supremacy or at commercial monopoly in the Eastern Archipelago." This declaration, Van der Kemp notes, was "not new," having already appeared in the notes exchanged in August 1820 between [[Lord Castlereagh|Castlereagh]]–[[George Canning|Canning]] and [[Hendrik Fagel|Fagel]]–[[Elout|Elout]]. But there had been an even earlier exchange on the same subject: "See the memoranda exchanged between Van Nagell and the British envoy in 1819, in Van Deventer's appendices LXV and LXVI, 'Nederlandsch Gezag'." These memoranda — printed by S. van Deventer in his documentary appendices — constitute the first formal Dutch protest against Raffles's conduct, and were drawn up at The Hague under Van Nagell's supervision. The case, Van der Kemp adds, was again raised during the 1824 negotiations.
 
 ## The Fagel–Van Nagell Correspondence of January 1820
 
@@ -62,7 +62,7 @@ Van Nagell's second appearance in the article concerns a correspondence with the
 
 ## The Foreign Office in 1824
 
-By February 1824, when the [[Anglo-Dutch Treaty of London (1824)|London treaty]] was in its final stage of negotiation, Van Nagell had either left or was about to leave the Foreign Office. Van der Kemp records that the Dutch Foreign Office "was at that time without a leading head. It was merely looked after by one of our envoys, [[Ridder Reinhold|Ridder Reinhold]], who had no understanding of the matter." The absence of Van Nagell (or of any successor of comparable standing) at this critical juncture is one of the structural causes Van der Kemp identifies for the mishandling of the [[Acheh treaty of 1819|Acheh treaty]] question. Had Van Nagell still been in office, the King's authorisation of 13 February 1824 might not have been so lightly given on the strength of an oral communication by [[Captain Elout|Captain Elout]].
+By February 1824, when the [[Anglo-Dutch Treaty of 1824|London treaty]] was in its final stage of negotiation, Van Nagell had either left or was about to leave the Foreign Office. Van der Kemp records that the Dutch Foreign Office "was at that time without a leading head. It was merely looked after by one of our envoys, [[Ridder Reinhold|Ridder Reinhold]], who had no understanding of the matter." The absence of Van Nagell (or of any successor of comparable standing) at this critical juncture is one of the structural causes Van der Kemp identifies for the mishandling of the [[Treaty of Pedir (1819)|Acheh treaty]] question. Had Van Nagell still been in office, the King's authorisation of 13 February 1824 might not have been so lightly given on the strength of an oral communication by [[Captain Elout|Captain Elout]].
 
 ## The Sumatra Question
 
@@ -78,7 +78,7 @@ Van Nagell's overall responsibility extends, in Van der Kemp's reading, to the e
 - [[George Canning]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Anglo-Dutch Treaty of London (1814)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Concept-convention of 24 July 1820]]
 - [[Fagel-Elout negotiations (August 1820)]]
 - [[Raising of the Acheh treaty in London negotiations]]

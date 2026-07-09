@@ -3,7 +3,7 @@ title: J. C. Jansen
 aliases: ["J. C. Jansen", "Minister of Marine J. C. Jansen"]
 tags: [person, government, dutch, colonial]
 ---
-**J. C. Jansen** was the Dutch **[[Minister of Marine|minister van marine]]** in the late 1880s who advocated for a comprehensive reorganisation of the **[[Dutch Marine Corps|Korps Mariniers]]**. He presented a reform plan to the **[[Staten‑Generaal]]**, which aimed to reduce the fragmented structure of the corps and to prevent its eventual abolition.  
+**J. C. Jansen** was the Dutch **[[Minister of Marine|minister van marine]]** in the late 1880s who advocated for a comprehensive reorganisation of the **[[Royal Netherlands Marine Corps|Korps Mariniers]]**. He presented a reform plan to the **[[Staten‑Generaal]]**, which aimed to reduce the fragmented structure of the corps and to prevent its eventual abolition.  
 
 His proposal was initially rejected by the **[[Tweede Kamer]]**, but elements of his plan were later adopted in the **[[Royal Decree of 5 March 1895|Koninklijk Besluit van 5 Maart 1895]]**, which reduced the number of captains and non‑commissioned officers.  
 
@@ -14,7 +14,7 @@ His proposal was initially rejected by the **[[Tweede Kamer]]**, but elements of
 
 ## See Also  
 
-- [[Dutch Marine Corps]]  
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]  
 - [[Royal Decree of 5 March 1895]]  
 - [[Staten‑Generaal]]  
 - [[Tweede Kamer]]  

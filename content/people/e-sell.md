@@ -21,7 +21,7 @@ Sell's *Faith of Islam* thus stands alongside [[Jaffur Shurreef|Jaffur Shurreef]
 - [[Jaffur Shurreef]]
 - [[G. A. Herklots]]
 - [[Ashura]]
-- [[Hasan-Husain festival]]
+- [[Hasan-Husain Festival|Hasan-Husain festival]]
 - [[C. Snouck Hurgronje]]
 
 ## Source
@@ -46,7 +46,7 @@ Sell's *Faith of Islam* thus stands alongside [[Jaffur Shurreef|Jaffur Shurreef]
 - [[Jaffur Shurreef]]
 - [[G. A. Herklots]]
 - [[Ashura]]
-- [[Hasan-Husain festival]]
+- [[Hasan-Husain Festival|Hasan-Husain festival]]
 - [[C. Snouck Hurgronje]]
 
 ## Source

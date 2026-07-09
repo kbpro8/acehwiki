@@ -4,7 +4,7 @@ aliases: [Asrār al-ʿārifīn, Asrar al-arifin, Asrār al-ʿārifīn of Hamzah 
 tags: [document, religious-work, sufi-text, malay-literature, wujudiyyah, precolonial, 16th-century, aceh, mysticism]
 ---
 
-**The *Asrār al-ʿārifīn*** ("The Secrets of the Gnostics") is a Malay Sufi treatise by [[Hamzah Pansuri]], the celebrated pantheistic mystic of [[Acheh]] who flourished in the late sixteenth century and whose school dominated the religious life of the Achehnese court under [[Sultan Iskandar Muda|Iskandar Muda]] ([[1607]]–[[1636]]). The work is one of the principal sources for the [[Wujudiyyah]] mysticism that [[Raniri|Nuruddin ar-Raniri]] attacked after his arrival in Acheh in [[1637]]; it is cited in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] and in the apparatus of [[P. Voorhoeve|Voorhoeve]]'s [[1955]] edition of Raniri's two Malay treatises. An edition of the *Asrār al-ʿārifīn* was published by [[J. Doorenbos|Doorenbos]].
+**The *Asrār al-ʿārifīn*** ("The Secrets of the Gnostics") is a Malay Sufi treatise by [[Hamzah Pansuri]], the celebrated pantheistic mystic of [[Acheh]] who flourished in the late sixteenth century and whose school dominated the religious life of the Achehnese court under [[Sultan Iskandar Muda|Iskandar Muda]] ([[1607]]–[[1636]]). The work is one of the principal sources for the [[Wujudiyyah]] mysticism that [[Nur al-Din al-Raniri|Nuruddin ar-Raniri]] attacked after his arrival in Acheh in [[1637]]; it is cited in the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] and in the apparatus of [[P. Voorhoeve|Voorhoeve]]'s [[1955]] edition of Raniri's two Malay treatises. An edition of the *Asrār al-ʿārifīn* was published by [[J. Doorenbos|Doorenbos]].
 
 ## Content and character
 
@@ -33,7 +33,7 @@ The *Asrār al-ʿārifīn* is one of the principal monuments of the Wujūdiyyah 
 - [[Kitab al-Muntahi]]
 - [[Mir'at al-muhakkikin]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's public debate against the Wujudiyyah in Acheh]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Sultan Iskandar Muda]]

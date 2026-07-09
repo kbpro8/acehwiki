@@ -9,7 +9,7 @@ An old Teungku named after the gampong of Lam Seunbng, son of Teungku Tanoh Abie
 
 ## See Also
 
-- [[Teungku Tanoh Abie]]
+- [[Teungku Tanoh Abee|Teungku Tanoh Abie]]
 
 ## Source
 
@@ -21,7 +21,7 @@ An old Teungku named after the gampong of Lam Seunbng, son of Teungku Tanoh Abie
 
 ## See Also
 
-- [[Teungku Tanoh Abie]]
+- [[Teungku Tanoh Abee|Teungku Tanoh Abie]]
 
 ## Source
 

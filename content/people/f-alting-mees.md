@@ -4,7 +4,7 @@ title: F. Alting Mees
 aliases: [Fokko Alting Mees, Alting Mees, Mr. F. Alting Mees]
 tags: [person, colonial, minister, dutch]
 ---
-**F. Alting Mees** was a Dutch colonial minister who served from [[September]] [[1876]] to [[October]] [[1877]], a short but significant period in the [[Aceh War]] during Governor-General [[J.W. van Lansberge]]'s administration. Born in [[1819]], he was an experienced colonial official who had previously served as President of the [[Java Bank]] and President of the [[High Court of Justice]] in [[Batavia]].
+**F. Alting Mees** was a Dutch colonial minister who served from [[September]] [[1876]] to [[October]] [[1877]], a short but significant period in the [[Aceh War]] during Governor-General [[Johan Willem van Lansberge|J.W. van Lansberge]]'s administration. Born in [[1819]], he was an experienced colonial official who had previously served as President of the [[Java Bank]] and President of the [[High Court of Justice]] in [[Batavia]].
 
 ## Early Career
 
@@ -59,7 +59,7 @@ Alting Mees' brief tenure established key directions for the [[Aceh]] policy, in
 
 ## See Also
 
-- [[J.W. van Lansberge]]
+- [[Johan Willem van Lansberge|J.W. van Lansberge]]
 - [[Aceh War]]
 - [[W. van Goltstein]]
 - [[P.P. van Bosse]]
@@ -72,7 +72,7 @@ Alting Mees' brief tenure established key directions for the [[Aceh]] policy, in
 *J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni [[1855]]*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, [[1943]], Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, pp. 179-210
 ---
 
-**F. Alting Mees** was a Dutch colonial minister who served from [[September]] [[1876]] to [[October]] [[1877]], a short but significant period in the [[Aceh War]] during Governor-General [[J.W. van Lansberge]]'s administration. Born in [[1819]], he was an experienced colonial official who had previously served as President of the [[Java Bank]] and President of the [[High Court of Justice]] in [[Batavia]].
+**F. Alting Mees** was a Dutch colonial minister who served from [[September]] [[1876]] to [[October]] [[1877]], a short but significant period in the [[Aceh War]] during Governor-General [[Johan Willem van Lansberge|J.W. van Lansberge]]'s administration. Born in [[1819]], he was an experienced colonial official who had previously served as President of the [[Java Bank]] and President of the [[High Court of Justice]] in [[Batavia]].
 
 ## Early Career
 
@@ -127,7 +127,7 @@ Alting Mees' brief tenure established key directions for the [[Aceh]] policy, in
 
 ## See Also
 
-- [[J.W. van Lansberge]]
+- [[Johan Willem van Lansberge|J.W. van Lansberge]]
 - [[Aceh War]]
 - [[W. van Goltstein]]
 - [[P.P. van Bosse]]

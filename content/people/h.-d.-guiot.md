@@ -3,7 +3,7 @@ title: H. D. Guiot
 aliases: ["H. D. Guiot", "Schout‑bij‑nacht Guiot"]
 tags: [person, military, dutch, colonial]
 ---
-**H. D. Guiot** was a retired **[[schout‑bij‑nacht]]** (rear‑admiral) who became the chief parliamentary advocate for the preservation of the **[[Dutch Marine Corps|Korps Mariniers]]** during the parliamentary debates of the early 1890s. He argued that the marine contingent stationed on the Dutch mainland was essential for overseas operations, especially in **[[Atjeh]]**.  
+**H. D. Guiot** was a retired **[[schout‑bij‑nacht]]** (rear‑admiral) who became the chief parliamentary advocate for the preservation of the **[[Royal Netherlands Marine Corps|Korps Mariniers]]** during the parliamentary debates of the early 1890s. He argued that the marine contingent stationed on the Dutch mainland was essential for overseas operations, especially in **[[Atjeh]]**.  
 
 Guiot’s lobbying helped prevent the complete dissolution of the corps, although subsequent reforms reduced its size.  
 
@@ -13,7 +13,7 @@ Guiot’s lobbying helped prevent the complete dissolution of the corps, althoug
 
 ## See Also  
 
-- [[Dutch Marine Corps]]  
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]  
 - [[Staten‑Generaal]]  
 - [[Royal Decree of 5 March 1895]]  
 

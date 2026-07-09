@@ -4,7 +4,7 @@ aliases: [Snijders' 1928 Indies journey, Second Indies journey, 1928 visit to In
 tags: [event, visit, dutch, post-war, aviation, knilm]
 ---
 
-**Snijders' second Indies journey** ([[September 1928|September]]–[[December 1928|December]] [[1928]]) was the retired [[Cornelis Jacobus Snijders|Generaal C. J. Snijders]]'s return to [[Nederlandsch-Indië|Nederlandsch-Indië]] to attend the festive opening of the [[K.N.I.L.M.|K.N.I.L.M.]] lines on [[1 November]] [[1 November]] [[1928]] at the airfield Tjikolitan near Meester Cornelis. The journey was undertaken at the invitation of the Bestuur of the Indische Vereeniging Luchtvaart, which offered to pay for the journey and the stay of about one month in the Indies. The arrival at [[Tandjong Priok|Tandjong Priok]] on [[12 October]] [[12 October]] had the character of a triumphant return — a thousand-headed crowd, a military band, and circling aircraft welcomed Snijders at the quay. The Legercommandant placed Kapitein van den Generalen Staf A. G. van Tricht at his disposal as adjudant for the duration of his stay.
+**Snijders' second Indies journey** ([[September 1928|September]]–[[December 1928|December]] [[1928]]) was the retired [[Cornelis Jacobus Snijders|Generaal C. J. Snijders]]'s return to [[Nederlandsch-Indië|Nederlandsch-Indië]] to attend the festive opening of the [[K.N.I.L.M.|K.N.I.L.M.]] lines on [[1 November]] [[1 November]] [[1928]] at the airfield Tjikolitan near Meester Cornelis. The journey was undertaken at the invitation of the Bestuur of the Indische Vereeniging Luchtvaart, which offered to pay for the journey and the stay of about one month in the Indies. The arrival at [[Tanjung Priok|Tanjung Priok]] on [[12 October]] [[12 October]] had the character of a triumphant return — a thousand-headed crowd, a military band, and circling aircraft welcomed Snijders at the quay. The Legercommandant placed Kapitein van den Generalen Staf A. G. van Tricht at his disposal as adjudant for the duration of his stay.
 
 ## The Invitation and Acceptance
 
@@ -12,7 +12,7 @@ On [[9 June]] [[9 June]] [[1928]] Snijders received a telegram from Weltevreden:
 
 > "Bestuur Indische Vereeniging Luchtvaart, waardeerend Uwe groote verdiensten luchtvaartgebied, uitnoodigt U opening Indische luchtlijnen 1 September bijwonen. Aanbieden reis Indië en terug Holland onze rekening, alsmede verblijfkosten ongeveer één maand. Verzoeke tijdig seinen uitnoodiging geaccepteerd. VAN ZALINGE voorzitter. GROENEVELD MEYER secretaris."
 
-Snijders accepted by return: "Diep getroffen schitterend blijk waardeering aanvaard uitnoodiging dankbaar. PLESMAN mededeelt opening wellicht uitgesteld. Brief volgt. SNIJDERS." He sailed on [[19 September]] [[19 September]] on the *Christian Huygens* and arrived at [[Tandjong Priok|Tandjong Priok]] on [[12 October]] [[12 October]].
+Snijders accepted by return: "Diep getroffen schitterend blijk waardeering aanvaard uitnoodiging dankbaar. PLESMAN mededeelt opening wellicht uitgesteld. Brief volgt. SNIJDERS." He sailed on [[19 September]] [[19 September]] on the *Christian Huygens* and arrived at [[Tanjung Priok|Tanjung Priok]] on [[12 October]] [[12 October]].
 
 ## The Opening of the K.N.I.L.M. Lines
 
@@ -37,7 +37,7 @@ At his departure from [[Semarang|Semarang]] Snijders was honoured by an enthusia
 - [[Surabaya]]
 - [[Semarang]]
 - [[Medan]]
-- [[Tandjong Priok]]
+- [[Tanjung Priok|Tandjong Priok]]
 - [[Bali]]
 - [[1928]]
 

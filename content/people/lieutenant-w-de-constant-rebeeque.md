@@ -17,7 +17,7 @@ His actions contributed to the issuance of a royal decree on [[21 August]] [[185
 - [[Vesuvius (steamship)]]
 - [[1847 Anti‑piracy Action]]
 - [[Eervolle Vermelding]]
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 
 ## Source
 *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, p. 108.

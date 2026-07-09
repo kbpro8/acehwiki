@@ -26,7 +26,7 @@ The society published a defence brochure authored by [[Lieutenant-Colonel J. Van
 
 ## Meeting of 9 January 1914
 
-On [[9 January]] [[1914]], the society held a meeting at which [[Lieutenant-Colonel J. Van der Weyden|Van der Weyden]] delivered a significant address. With the explicit authorisation of [[J. B. van Heutsz]], Van der Weyden quoted Van Heutsz's devastating private judgment on the report of the [[Staatscommissie]]. Van Heutsz had written:
+On [[9 January]] [[1914]], the society held a meeting at which [[Lieutenant-Colonel J. Van der Weyden|Van der Weyden]] delivered a significant address. With the explicit authorisation of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]], Van der Weyden quoted Van Heutsz's devastating private judgment on the report of the [[Staatscommissie]]. Van Heutsz had written:
 
 > "Het is mijn vaste overtuiging, dat, bij uitvoering van de voorstellen der S. C., Nederland — hoewel echt Nederlandsch langzaam en zuinigjes — zal wegwerpen veel geld voor: Een vloot, die niet vechten zal — en Een leger, dat niet vechten kan."
 
@@ -42,15 +42,15 @@ On [[27 February]] [[1914]], the society convened another meeting at which [[Lie
 
 ## Role in the Defence Debate
 
-The Vereeniging ter Beoefening van de Krijgswetenschap functioned as a critical intermediary between professional military opinion and public policy discussion. By publishing [[Lieutenant-Colonel J. Van der Weyden|Van der Weyden]]'s brochure and hosting meetings at which the views of [[J. B. van Heutsz]] were aired, the society helped to channel the authority of [[Aceh]] veterans into the broader Netherlands Indies defence debate. Its activities complemented those of other organisations such as the [[Indische Krijgsvereeniging]] and the [[Bond van Vrije Liberalen]] in shaping the terms of discussion about colonial military reform.
+The Vereeniging ter Beoefening van de Krijgswetenschap functioned as a critical intermediary between professional military opinion and public policy discussion. By publishing [[Lieutenant-Colonel J. Van der Weyden|Van der Weyden]]'s brochure and hosting meetings at which the views of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] were aired, the society helped to channel the authority of [[Aceh]] veterans into the broader Netherlands Indies defence debate. Its activities complemented those of other organisations such as the [[Indische Krijgsvereeniging]] and the [[Bond van Vrije Liberalen]] in shaping the terms of discussion about colonial military reform.
 
 ## Significance
 
-The society's meetings and publications provided a legitimising institutional framework through which the defence ideas of [[J. B. van Heutsz]] and [[Lieutenant-Colonel J. Van der Weyden|Van der Weyden]] reached a wider audience. The quoting of Van Heutsz's private condemnation of the [[Staatscommissie]] report at the [[9 January]] [[1914]] meeting was a particularly consequential moment, transforming confidential military criticism into a public political weapon in the ongoing struggle over the future of [[Netherlands India|Netherlands Indies]] defence.
+The society's meetings and publications provided a legitimising institutional framework through which the defence ideas of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] and [[Lieutenant-Colonel J. Van der Weyden|Van der Weyden]] reached a wider audience. The quoting of Van Heutsz's private condemnation of the [[Staatscommissie]] report at the [[9 January]] [[1914]] meeting was a particularly consequential moment, transforming confidential military criticism into a public political weapon in the ongoing struggle over the future of [[Netherlands India|Netherlands Indies]] defence.
 
 ## See Also
 
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Lieutenant-Colonel J. Van der Weyden]]
 - [[Staatscommissie]]
 - [[Indische Krijgsvereeniging]]
@@ -79,7 +79,7 @@ The society published a defence brochure authored by [[Lieutenant-Colonel J. Van
 
 ## Meeting of 9 January 1914
 
-On [[9 January]] [[1914]], the society held a meeting at which [[Lieutenant-Colonel J. Van der Weyden|Van der Weyden]] delivered a significant address. With the explicit authorisation of [[J. B. van Heutsz]], Van der Weyden quoted Van Heutsz's devastating private judgment on the report of the [[Staatscommissie]]. Van Heutsz had written:
+On [[9 January]] [[1914]], the society held a meeting at which [[Lieutenant-Colonel J. Van der Weyden|Van der Weyden]] delivered a significant address. With the explicit authorisation of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]], Van der Weyden quoted Van Heutsz's devastating private judgment on the report of the [[Staatscommissie]]. Van Heutsz had written:
 
 > "Het is mijn vaste overtuiging, dat, bij uitvoering van de voorstellen der S. C., Nederland — hoewel echt Nederlandsch langzaam en zuinigjes — zal wegwerpen veel geld voor: Een vloot, die niet vechten zal — en Een leger, dat niet vechten kan."
 
@@ -95,15 +95,15 @@ On [[27 February]] [[1914]], the society convened another meeting at which [[Lie
 
 ## Role in the Defence Debate
 
-The Vereeniging ter Beoefening van de Krijgswetenschap functioned as a critical intermediary between professional military opinion and public policy discussion. By publishing [[Lieutenant-Colonel J. Van der Weyden|Van der Weyden]]'s brochure and hosting meetings at which the views of [[J. B. van Heutsz]] were aired, the society helped to channel the authority of [[Aceh]] veterans into the broader Netherlands Indies defence debate. Its activities complemented those of other organisations such as the [[Indische Krijgsvereeniging]] and the [[Bond van Vrije Liberalen]] in shaping the terms of discussion about colonial military reform.
+The Vereeniging ter Beoefening van de Krijgswetenschap functioned as a critical intermediary between professional military opinion and public policy discussion. By publishing [[Lieutenant-Colonel J. Van der Weyden|Van der Weyden]]'s brochure and hosting meetings at which the views of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] were aired, the society helped to channel the authority of [[Aceh]] veterans into the broader Netherlands Indies defence debate. Its activities complemented those of other organisations such as the [[Indische Krijgsvereeniging]] and the [[Bond van Vrije Liberalen]] in shaping the terms of discussion about colonial military reform.
 
 ## Significance
 
-The society's meetings and publications provided a legitimising institutional framework through which the defence ideas of [[J. B. van Heutsz]] and [[Lieutenant-Colonel J. Van der Weyden|Van der Weyden]] reached a wider audience. The quoting of Van Heutsz's private condemnation of the [[Staatscommissie]] report at the [[9 January]] [[1914]] meeting was a particularly consequential moment, transforming confidential military criticism into a public political weapon in the ongoing struggle over the future of [[Netherlands India|Netherlands Indies]] defence.
+The society's meetings and publications provided a legitimising institutional framework through which the defence ideas of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] and [[Lieutenant-Colonel J. Van der Weyden|Van der Weyden]] reached a wider audience. The quoting of Van Heutsz's private condemnation of the [[Staatscommissie]] report at the [[9 January]] [[1914]] meeting was a particularly consequential moment, transforming confidential military criticism into a public political weapon in the ongoing struggle over the future of [[Netherlands India|Netherlands Indies]] defence.
 
 ## See Also
 
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Lieutenant-Colonel J. Van der Weyden]]
 - [[Staatscommissie]]
 - [[Indische Krijgsvereeniging]]

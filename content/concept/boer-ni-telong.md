@@ -4,7 +4,7 @@ aliases: [Bur ni Telong, Boer ni Telong (73), Burni Telong, Telong volcano]
 tags: [place, atjeh, central-atjeh, volcano, orography, dutch-colonial]
 ---
 
-**The Boer ni Telong** — modern *Bur ni Telong* — is the volcano (numbered 73 in the [[De Buitenbezittingen, Deel II, Aflevering 1|Bureau's volcano list]]) of the central-Atjeh *hoogvlakte*, standing west of the [[Laoet Tawar|Laoet Tawar]] lake in the *dwarsrij* that runs southward from the [[Geureudong|Geureudong I (71)]] through the *Boer ni Bilaans* (72) and the *Boer ni Telong* (73) to the *Geureudong II* (74). In the Bureau's Sumatra survey (1917), the Boer ni Telong is one of the dormant volcanoes of the central-Atjeh *hoogvlakte*, and the principal volcano of the *Tawar* basin.
+**The Boer ni Telong** — modern *Bur ni Telong* — is the volcano (numbered 73 in the [[De Buitenbezittingen, Deel II, Aflevering 1|Bureau's volcano list]]) of the central-Atjeh *hoogvlakte*, standing west of the [[Laut Tawar|Laut Tawar]] lake in the *dwarsrij* that runs southward from the [[Geureudong|Geureudong I (71)]] through the *Boer ni Bilaans* (72) and the *Boer ni Telong* (73) to the *Geureudong II* (74). In the Bureau's Sumatra survey (1917), the Boer ni Telong is one of the dormant volcanoes of the central-Atjeh *hoogvlakte*, and the principal volcano of the *Tawar* basin.
 
 ## Orography
 
@@ -12,14 +12,14 @@ The Bureau's Hoofdstuk I describes the Boer ni Telong as part of the *dwarsrij* 
 
 ## Significance
 
-The Boer ni Telong is, in the Bureau's Sumatra survey, one of the dormant volcanoes of the central-Atjeh *hoogvlakte*, and the principal volcano of the *Tawar* basin. The Bureau's emphasis on the *dwarsrij*'s unclimbed status — and on its presumed dormant volcanic character — frames the Boer ni Telong as the orographic anchor of the *Tawar* basin, and as the geographical feature whose slopes define the western edge of the [[Laoet Tawar|Laoet Tawar]] lake.
+The Boer ni Telong is, in the Bureau's Sumatra survey, one of the dormant volcanoes of the central-Atjeh *hoogvlakte*, and the principal volcano of the *Tawar* basin. The Bureau's emphasis on the *dwarsrij*'s unclimbed status — and on its presumed dormant volcanic character — frames the Boer ni Telong as the orographic anchor of the *Tawar* basin, and as the geographical feature whose slopes define the western edge of the [[Laut Tawar|Laut Tawar]] lake.
 
 The Boer ni Telong's name — *Boer ni* = "mountain of" in Gayo — is the Bureau's principal evidence of the Gayo onomastic tradition of the central-Atjeh *hoogvlakte*, a tradition that links the Boer ni Telong to the broader Gayo cultural landscape of the *Tawar* basin.
 
 ## See Also
 
 - [[De Buitenbezittingen, Deel II, Aflevering 1]]
-- [[Laoet Tawar]]
+- [[Laut Tawar|Laoet Tawar]]
 - [[Geureudong]]
 - [[Boer ni Bilaans]]
 - [[Gajoesche Centraalgebergte]]

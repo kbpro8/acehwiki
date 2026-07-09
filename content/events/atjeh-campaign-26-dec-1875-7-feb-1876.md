@@ -18,10 +18,10 @@ Cambier’s brief account (page 473) provides a concise chronology, while the 
 ## See Also  
 
 - [[Atjeh (Aceh)]]  
-- [[Korps Mariniers]]  
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]  
 - [[De mariniers te Atjeh van 26 December 1875 tot 7 February 1876]]  
 - [[Bivouacs on Groot Atjeh]]  
-- [[Atjeh expedition (1873–1876)]]  
+- [[Aceh Expedition (1873–1876)|Atjeh expedition (1873–1876)]]  
 
 ## Source  
 

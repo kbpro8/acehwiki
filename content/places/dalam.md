@@ -28,7 +28,7 @@ In the neighbourhood of the royal abode and of the *bale ròin*, in which the su
 
 ### The court and its weakness
 
-Even at the height of the sultanate, the Dalam was less a centre of regular administration than the seat of a court clique. The "feeble Dalam that subsisted in the capital in former days" is contrasted by [[C. Snouck Hurgronje|Snouck Hurgronje]] with the personal authority of the great hereditary chiefs; in times of comparative order, the panglima sagi was and still is a mere uleebalang like the rest, and it is only in wars and other crises that the inherited influence of the court reasserts itself. Intoxicating liquors, though forbidden by Mohammedan law, were always to be found in the Dalam; [[Ibrahim Mansur Shah|Sultan Ibrahim Mansur Shah]] ([[1858]]–[[1870]]) was reported to have murdered his own child in a fit of drunken frenzy, and the intemperate use of strong drink in the neighbourhood of the royal stronghold appears to have assumed great proportions before the commencement of the war.
+Even at the height of the sultanate, the Dalam was less a centre of regular administration than the seat of a court clique. The "feeble Dalam that subsisted in the capital in former days" is contrasted by [[C. Snouck Hurgronje|Snouck Hurgronje]] with the personal authority of the great hereditary chiefs; in times of comparative order, the panglima sagi was and still is a mere uleebalang like the rest, and it is only in wars and other crises that the inherited influence of the court reasserts itself. Intoxicating liquors, though forbidden by Mohammedan law, were always to be found in the Dalam; [[Sultan Ibrahim Mansur Shah|Sultan Ibrahim Mansur Shah]] ([[1858]]–[[1870]]) was reported to have murdered his own child in a fit of drunken frenzy, and the intemperate use of strong drink in the neighbourhood of the royal stronghold appears to have assumed great proportions before the commencement of the war.
 
 ### The Dalam and the calendar
 
@@ -73,7 +73,7 @@ After the [[Achehnese War|Dutch conquest]] of the sultanate, Kuta Raja (in Dutch
 - [[Meura'sa]]
 - [[Gampong Jawa]]
 - [[Batoh]]
-- [[Ibrahim Mansur Shah]]
+- [[Sultan Ibrahim Mansur Shah|Ibrahim Mansur Shah]]
 - [[Bitay]]
 - [[Burong Srabi]]
 - [[Achehnese War]]

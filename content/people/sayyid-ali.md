@@ -19,7 +19,7 @@ The example also illustrates the wider truth, repeatedly emphasised by Snouck Hu
 
 - [[Sayyid Abdurrahman Zahir]]
 - [[Mohammad (the Prophet)]]
-- [[Sayyid Abu Bakar bin Husain Bil-Faqih]]
+- [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]]
 - [[Acheh]]
 - [[C. Snouck Hurgronje]]
 
@@ -43,7 +43,7 @@ The example also illustrates the wider truth, repeatedly emphasised by Snouck Hu
 
 - [[Sayyid Abdurrahman Zahir]]
 - [[Mohammad (the Prophet)]]
-- [[Sayyid Abu Bakar bin Husain Bil-Faqih]]
+- [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]]
 - [[Acheh]]
 - [[C. Snouck Hurgronje]]
 

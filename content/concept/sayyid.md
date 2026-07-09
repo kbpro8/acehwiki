@@ -21,7 +21,7 @@ Some members of Sayyid families settled in [[Pidie]] and made occasional journey
 
 ## Sacred Tombs (Kramat)
 
-The most honoured tombs (*kramat*) in Acheh were those of Sayyids. The most venerated at the time of Snouck Hurgronje's writing was the tomb of [[Sayyid Abu Bakar bin Husain Bil-Faqih]] in [[Gampong Jawa]] — the [[Teungku Anjong]] kramat. Another famous Sayyid tomb was that of a member of the ʿAidarus family buried at Luar Batang in [[Batavia]], widely venerated.
+The most honoured tombs (*kramat*) in Acheh were those of Sayyids. The most venerated at the time of Snouck Hurgronje's writing was the tomb of [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]] in [[Gampong Jawa]] — the [[Teungku Anjong]] kramat. Another famous Sayyid tomb was that of a member of the ʿAidarus family buried at Luar Batang in [[Batavia]], widely venerated.
 
 ## The ʿAidarus Family
 
@@ -31,7 +31,7 @@ Among the notable sayyid families in Acheh was the *ʿAidarus* (*ʿAydarus*) fam
 
 - [[Teungku]]
 - [[Teungku Anjong]]
-- [[Sayyid Abu Bakar bin Husain Bil-Faqih]]
+- [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]]
 - [[Mecca]]
 - [[Pidie]]
 - [[Keumala]]

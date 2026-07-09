@@ -4,7 +4,7 @@ aliases: [Oranje-Nassau, Orde van Oranje Nassau, Order of Orange-Nassau]
 tags: [concept, decoration, dutch, royal]
 ---
 
-**The Oranje-Nassau** — the Orde van Oranje Nassau, the Order of Orange-Nassau — was a Dutch royal order of chivalry, awarded to both military and civilian recipients for service to the Dutch state. In *[[Oom Ambon van het K.N.I.L.]]* the Oranje-Nassau is mentioned as a decoration awarded to [[Schmidt]] (before his [[Militaire Willemsorde (M.W.O.)|M.W.O.]]) and to [[Dominee Thenu]] in [[1901]] — the latter an exceptional honour, since the *Inlandse godsdienstleraar* officially ranked only for a *medaille*.
+**The Oranje-Nassau** — the Orde van Oranje Nassau, the Order of Orange-Nassau — was a Dutch royal order of chivalry, awarded to both military and civilian recipients for service to the Dutch state. In *[[Oom Ambon van het K.N.I.L.]]* the Oranje-Nassau is mentioned as a decoration awarded to [[Schmidt]] (before his [[Militaire Willemsorde|M.W.O.]]) and to [[Dominee Thenu]] in [[1901]] — the latter an exceptional honour, since the *Inlandse godsdienstleraar* officially ranked only for a *medaille*.
 
 ## Schmidt's Oranje-Nassau
 
@@ -12,7 +12,7 @@ tags: [concept, decoration, dutch, royal]
 
 ## Thenu's Oranje-Nassau (1901)
 
-[[Dominee Thenu]] was made *Ridder in de Orde van Oranje Nassau* in [[1901]], at age 33 — "reeds in [[1901]], toen hij 33 jaar was, Ridder werd in de Orde van Oranje Nassau" — exceptional, since the *Inlandse godsdienstleraar* officially ranked only for a *medaille*. The decoration was [[Gouverneur-Generaal Van Heutsz|Van Heutsz]]'s doing, and signalled that in [[Atjeh|Aceh]] the formal hierarchy of ranks and honours would be bent to recognise genuine geestelijk gezag.
+[[Dominee Thenu]] was made *Ridder in de Orde van Oranje Nassau* in [[1901]], at age 33 — "reeds in [[1901]], toen hij 33 jaar was, Ridder werd in de Orde van Oranje Nassau" — exceptional, since the *Inlandse godsdienstleraar* officially ranked only for a *medaille*. The decoration was [[Joannes Benedictus van Heutsz|Van Heutsz]]'s doing, and signalled that in [[Atjeh|Aceh]] the formal hierarchy of ranks and honours would be bent to recognise genuine geestelijk gezag.
 
 ## Significance
 
@@ -20,13 +20,13 @@ The Oranje-Nassau is significant in *[[Oom Ambon van het K.N.I.L.]]* as a Dutch 
 
 ## See Also
 
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Eresabel]]
 - [[Eervolle Vermelding]]
 - [[Medaille voor Moed en Trouw]]
 - [[Schmidt]]
 - [[Dominee Thenu]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[1901]]
 - [[1910]]
 

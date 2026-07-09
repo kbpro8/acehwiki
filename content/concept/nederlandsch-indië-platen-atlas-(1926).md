@@ -13,7 +13,7 @@ The atlas is organised into nine chapters:
 1. **Korte Historische Beschouwing** (Short Historical Survey) — covering the period from the arrival of the Portuguese through the establishment and decline of the V.O.C. to the modern colonial state.
 2. **Land en Volk** (Land and People) — geography, climate, fauna, flora, and the peoples of the Archipelago including the [[Atjehers]].
 3. **Gezagvoering** (Governance) — the administrative structure including the [[Gouvernement Atjeh en Onderhoorigheden|Government of Atjeh and Dependencies]].
-4. **Godsdienst, Onderwijs, Opvoeding en Maatschappelijk Werk** (Religion, Education, Upbringing and Social Work) — including discussion of [[Islam in Atjeh]], [[Perlak]], and [[Pasé]].
+4. **Godsdienst, Onderwijs, Opvoeding en Maatschappelijk Werk** (Religion, Education, Upbringing and Social Work) — including discussion of [[Islam in Aceh|Islam in Atjeh]], [[Perlak]], and [[Pasé]].
 5. **Kunst en Wetenschap** (Art and Science).
 6. **Inlandsche Landbouw, Kleine Cultures, Veeteelt en Visscherij** (Native Agriculture, Small Cultures, Livestock and Fisheries).
 7. **Europeesche Cultures** (European Plantations).
@@ -24,13 +24,13 @@ The atlas is organised into nine chapters:
 
 The following plates and passages contain information directly relevant to Acheh:
 
-- **Plate 23**: Portraits of [[Governor Van Heutsz]], [[Governor Van der Heyden]], and [[C. Snouck Hurgronje]].
+- **Plate 23**: Portraits of [[Joannes Benedictus van Heutsz|Governor Van Heutsz]], [[Governor Van der Heyden]], and [[C. Snouck Hurgronje]].
 - **Plate 78**: A group of Atjehers before a mosque, with description of [[Atjehers|their origins and dress]].
 - **Plate 101**: The seat of a noble Atjeher.
 - **Plate 70**: The [[Atjeh Monument]] in the Wilhelminapark and the [[Peutjot Cemetery|cemetery at Peutjot]] near [[Kota Radja]].
 - **Chapter III**: The [[Gouvernement Atjeh en Onderhoorigheden]] as a governorship.
-- **Chapter IV**: [[Islam in Atjeh]], [[Perlak]], and [[Pasé]] as early Islamic territories.
-- **Chapter IX**: The road from [[Kota Radja]] to Padang; the [[Aceh Railway|railway in Atjeh]]; the [[Buitengewesten]] policy under [[Governor Van Heutsz]].
+- **Chapter IV**: [[Islam in Aceh|Islam in Atjeh]], [[Perlak]], and [[Pasé]] as early Islamic territories.
+- **Chapter IX**: The road from [[Kota Radja]] to Padang; the [[Aceh Railway|railway in Atjeh]]; the [[Buitengewesten]] policy under [[Joannes Benedictus van Heutsz|Governor Van Heutsz]].
 
 ## Publication Details
 
@@ -46,7 +46,7 @@ The following plates and passages contain information directly relevant to Acheh
 - [[Volkslectuur]]
 - [[G. Kolff & Co.]]
 - [[Queen Wilhelmina]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[Governor Van der Heyden]]
 - [[C. Snouck Hurgronje]]
 

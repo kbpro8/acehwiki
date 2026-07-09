@@ -15,7 +15,7 @@ Already described above. 'In the Daroy river is a terrible sane; let no man suff
 
 In the chapter on the ulamas and the political leadership of the [[Acheh War|Acheh War]], Snouck describes the rivalry between [[Teungku Tiro|Teungku Tiro]] and **Habib Samalanga** for the leadership of the jihad. The Habib, in order to appear in the eyes of his followers as at least the equal — and if possible the superior — of "the Teungku", had to distinguish himself from the latter in some particular way. "This he did; his speciality was *tapa* — or seclusion from the world. He would remain isolated (*kleunèt*) for from seven to forty successive days in a cave at the source of the **Krueng (river) Daroy**, a place which was from ancient times chosen for such devotions."
 
-The choice of the cave at the source of the Krueng Daroy is significant. *Tapa* in the sense of absolute hermitical seclusion was, in Snouck's account, admired but seldom practised by the Achehnese; the choice of a place "from ancient times chosen for such devotions" places the cave in the category of recognised hermitages, alongside the cave of [[Lam Guha|Lam Guha]] and the other Achehnese hermit-sites. The Habib's recourse to the cave was thus both a personal discipline and a public assertion of his religious standing.
+The choice of the cave at the source of the Krueng Daroy is significant. *Tapa* in the sense of absolute hermitical seclusion was, in Snouck's account, admired but seldom practised by the Achehnese; the choice of a place "from ancient times chosen for such devotions" places the cave in the category of recognised hermitages, alongside the cave of [[Lam Gut|Lam Gut]] and the other Achehnese hermit-sites. The Habib's recourse to the cave was thus both a personal discipline and a public assertion of his religious standing.
 
 ### The Teungku Lam Guha Reference
 
@@ -27,7 +27,7 @@ The Krueng Daroy is a river of [[Great Acheh|Great Acheh]], flowing from the hig
 
 ### The Function of the Cave in Achehnese Religious Life
 
-The cave at the source of the Krueng Daroy is one of a small class of Achehnese hermitages which appear in Vol. I of *The Achehnese*. The same chapter on the ulamas mentions the *tapa* of other Achehnese holy men — including the hermits of the [[Gunong Lhee|Gunong Lhee]] and the [[Krueng Blibeh|Krueng Blibeh]] — and the broader institution of *tapa* is treated at length in the chapter on the mystics and the saints. The cave of the Krueng Daroy is thus one of the recognised hermitages of [[Acheh|Acheh]]; its association with the Habib Samalanga on the one hand and with the Javanese Teungku Lam Guha on the other places it in the double tradition of the Achehnese jihad and the older Achehnese sanctity.
+The cave at the source of the Krueng Daroy is one of a small class of Achehnese hermitages which appear in Vol. I of *The Achehnese*. The same chapter on the ulamas mentions the *tapa* of other Achehnese holy men — including the hermits of the [[Eumpee Lulu|Eumpee Lulu]] and the [[Krueng Blibeh|Krueng Blibeh]] — and the broader institution of *tapa* is treated at length in the chapter on the mystics and the saints. The cave of the Krueng Daroy is thus one of the recognised hermitages of [[Acheh|Acheh]]; its association with the Habib Samalanga on the one hand and with the Javanese Teungku Lam Guha on the other places it in the double tradition of the Achehnese jihad and the older Achehnese sanctity.
 
 ### The Tapa as Punishment
 
@@ -39,14 +39,14 @@ Snouck adds that "his followers had also occasionally to submit to a similar cou
 - [[Teungku Tiro]]
 - [[Acheh War]]
 - [[Ulee Lheue]]
-- [[Lam Guha]]
-- [[Gunong Lhee]]
+- [[Lam Gut|Lam Guha]]
+- [[Eumpee Lulu|Gunong Lhee]]
 - [[Krueng Blibeh]]
 - [[Great Acheh]]
 - [[Banda Acheh]]
 - [[Teungku Lam Guha]]
 - [[Tapa (religious seclusion)]]
-- [[Sayyid Teungku Anjong]]
+- [[Teungku Anjong|Sayyid Teungku Anjong]]
 - [[Gampong Java]]
 - [[Teungku di Kuala]]
 - [[Singkel]]

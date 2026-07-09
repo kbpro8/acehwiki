@@ -14,10 +14,10 @@ His men were placed behind the **ambulance** and reserve‑munitions, forming a 
 The involvement of a non‑commissioned officer in coordinating fire support reflects the Dutch reliance on experienced NCOs to maintain cohesion among mixed marine and native forces.
 
 ## See Also
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Pasoch]]
 - [[Adjoen]]
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 
 ## Source
 *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, p. 135.

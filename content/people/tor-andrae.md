@@ -9,7 +9,7 @@ tags: [person, scholar, swedish, islamic]
 - [[Burda (poem)]]
 - [[Cheikh al‑Būsīrī]]
 - [[Sultanate of Acheh]]
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 
 ## Source
 *20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, p. 32.

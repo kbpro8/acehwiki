@@ -18,7 +18,7 @@ A timeline of key events in Acehnese history, organized by year as recorded in t
 - **[[1539]]** — [[Atjeh-Aroe War (1539)]]: Acehnese fleet descends on [[Aroe]]; first documented large-scale Acehnese naval operation
 - **[[1540]]**–**[[1567]]** — [[Alaedin Kha]] reigns as Sultan of Acheh
 - **[[1546]]** — Acehnese expansion along Sumatra's coasts
-- **[[1551]]** — The grandfather of [[Muhammad al-Addars]] — great-great-ancestor of [[Raniri]] — arrives in Gujarat from South Arabia, establishing the Indian-Arab family that would later produce Raniri
+- **[[1551]]** — The grandfather of [[Muhammad al-Addars]] — great-great-ancestor of [[Nur al-Din al-Raniri|Raniri]] — arrives in Gujarat from South Arabia, establishing the Indian-Arab family that would later produce Raniri
 - **[[1552]]** — Acehnese diplomatic and commercial activity
 - **[[1557]]** — Acehnese raids on Portuguese Malacca
 - **[[1561]]** — Birth of [[Muhammad al-Addars]] at Tarim in South Arabia
@@ -27,13 +27,13 @@ A timeline of key events in Acehnese history, organized by year as recorded in t
 
 ## The VOC Era and Iskandar Muda
 
-- **[[1580]]**–**[[1583]]** — [[Muhammad Djailani Hamid]] — uncle of [[Raniri]] — visits Acheh; finds little interest in teaching logic and scholastics, only mysticism; departs for Mecca
+- **[[1580]]**–**[[1583]]** — [[Muhammad Djailani Hamid]] — uncle of [[Nur al-Din al-Raniri|Raniri]] — visits Acheh; finds little interest in teaching logic and scholastics, only mysticism; departs for Mecca
 - **[[1583]]** — Muhammad Djailani Hamid departs Acheh for Mecca
 - **[[1587]]** — Acehnese-Portuguese hostilities
 - **[[1599]]** — [[Cornelis de Houtman]] and [[Frederik de Houtman]] make the first Dutch visit to Atjeh; Cornelis is killed in an Acehnese ambush; Frederik is taken captive — his captivity produces the first European Malay dictionary
 - **[[1600]]** — VOC preparatory period; Acehnese court under pressure from Portuguese
-- **[[1601]]** — First Atjehnese embassy to the Netherlands; [[Prince Maurits]] writes to the Sultan; [[Frederik de Houtman]] released; Portuguese armada under [[Andrea Furtado de Mendoça]] threatens Atjeh, cementing Dutch-Atjeh alliance
-- **[[1602]]** — [[Founding of the VOC (1602)|VOC founded on 20 March]]; [[James Lancaster]] makes the first English East India Company visit to Atjeh in June; [[Capture of the Portuguese carrack off Atjeh (October 1602)|Anglo-Dutch capture of the Portuguese carrack]]; [[Atjeh embassy to Prince Maurits at Grave (1602)|Atjeh embassy]] arrives at Grave; [[Fort Zeeland at Atjeh]] — first Dutch factory on Sumatra — is established
+- **[[1601]]** — First Atjehnese embassy to the Netherlands; [[Prince Maurits]] writes to the Sultan; [[Frederik de Houtman]] released; Portuguese armada under [[André Furtado de Mendonça|Andrea Furtado de Mendoça]] threatens Atjeh, cementing Dutch-Atjeh alliance
+- **[[1602]]** — [[Founding of the VOC (1602)|VOC founded on 20 March]]; [[James Lancaster]] makes the first English East India Company visit to Atjeh in June; [[Capture of the Portuguese carrack off Atjeh (October 1602)|Anglo-Dutch capture of the Portuguese carrack]]; [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy]] arrives at Grave; [[Fort Zeeland at Atjeh]] — first Dutch factory on Sumatra — is established
 - **[[1603]]** — VOC factorij established at Atjeh
 - **[[1606]]** — Acehnese-Dutch diplomatic contacts
 - **[[1607]]**–**[[1636]]** — [[Sultan Iskandar Muda]] (Eseukanda Muda) reigns — the golden age of the Acehnese Sultanate
@@ -42,24 +42,24 @@ A timeline of key events in Acehnese history, organized by year as recorded in t
 - **[[1614]]** — VOC-Atjeh relations; Acehnese expansion
 - **[[1616]]** — VOC factorij at Atjeh lifted
 - **[[1618]]** — Conquest of Pahang by [[Sultan Iskandar Muda]]
-- **[[1620]]** — VOC factorij re-established at Atjeh after four years; death of [[Muhammad al-Addars]] at Surat — the spiritual grandfather of [[Raniri]] in the Rifāʿiyya chain
+- **[[1620]]** — VOC factorij re-established at Atjeh after four years; death of [[Muhammad al-Addars]] at Surat — the spiritual grandfather of [[Nur al-Din al-Raniri|Raniri]] in the Rifāʿiyya chain
 - **[[1621]]** — VOC factorij at Atjeh; Acehnese court diplomacy
 - **[[1623]]** — VOC factorij at Atjeh lifted again; only a single assistant remains
 - **[[1628]]** — [[Naval Expedition Against Malacca]]: great Acehnese naval expedition against the Portuguese at [[Malakka]]
 - **[[1629]]** — [[Atjeh's attack on Malakka (1629)|Atjeh's great naval attack on Malakka]]: fleet sent by [[Sultan Iskandar Muda]] defeated by Portuguese admiral [[Admiral Botelho|Botelho]] — the disaster that broke the back of Acehnese naval power in the Straits
 - **[[1630]]** — Death of [[Shaikh Shamsuddin of Sumatra]], pantheistic mystic of Iskandar Muda's court
-- **[[1634]]** — [[Raniri]] begins composition of the [[Sirat al-mustaqim]] — the Malay handbook of religious duties — in Gujarat, before his arrival in Acheh
+- **[[1634]]** — [[Nur al-Din al-Raniri|Raniri]] begins composition of the [[Sirat al-Mustaqim|Sirat al-mustaqim]] — the Malay handbook of religious duties — in Gujarat, before his arrival in Acheh
 - **[[1635]]** — Pre-accession period of [[Iskandar Thani]]
 - **[[1636]]** — Death of [[Sultan Iskandar Muda]]
 
 ## Raniri Era and the Wujudiyyah Controversy
 
-- **[[1637]]** — [[Iskandar Thani]] becomes Sultan of Acheh; [[Raniri]] arrives in Acheh and defeats the [[Wujudiyyah]] in public debate; books of [[Hamzah Pansuri]]'s school burned
-- **[[1638]]** — [[Raniri]] writes under command of [[Iskandar Thani]]
+- **[[1637]]** — [[Iskandar Thani]] becomes Sultan of Acheh; [[Nur al-Din al-Raniri|Raniri]] arrives in Acheh and defeats the [[Wujudiyyah]] in public debate; books of [[Hamzah Pansuri]]'s school burned
+- **[[1638]]** — [[Nur al-Din al-Raniri|Raniri]] writes under command of [[Iskandar Thani]]
 - **[[1639]]**–**[[1675]]** — [[Sultan Tajul-alam|Sapiatodin Shah]], Acheh's first female sultana, reigns
 - **[[1640]]** — Acehnese court under [[Sultan Tajul-alam]]
 - **[[1641]]** — Death of [[Iskandar Thani]]; [[Sultan Tajul-alam]] begins reign; [[Pieter Soury's mission to Atjeh (1641)|Soury's VOC embassy]]; [[Jan van Riebeeck]] serves as Secretary; [[Dutch-Aceh Treaty of 1641]] concluded
-- **[[1644]]** — [[Raniri]] completes the [[Sirat al-mustaqim]] (begun 1634) and returns to [[Ranir]]; [[Yusuf Makasar]] leaves Celebes for Mecca
+- **[[1644]]** — [[Nur al-Din al-Raniri|Raniri]] completes the [[Sirat al-Mustaqim|Sirat al-mustaqim]] (begun 1634) and returns to [[Ranir]]; [[Yusuf Makasar]] leaves Celebes for Mecca
 - **[[1645]]** — Post-Raniri Acehnese religious climate
 - **[[1649]]** — [[Dutch–Aceh Treaty of 1649|Dutch-Aceh Treaty of 1649]] signed; envoy [[Johan Truytman]] negotiates extensive VOC trade privileges on the West Coast of Sumatra
 - **[[1650]]** — [[Treaty of 1650 on Perak Tin]]: [[Sultan Tajul-alam]] and the VOC conclude a treaty opening Perak tin trade exclusively to Acehnese and Dutch
@@ -68,7 +68,7 @@ A timeline of key events in Acehnese history, organized by year as recorded in t
 - **[[1659]]** — [[Aceh-VOC conditions (1659)|Aceh-VOC peace treaty (1659)]] closes the blockade crisis; [[Arrest of Anthony van Voorst]] resolved
 - **[[1661]]** — [[Abdurra'uf of Singkel]] returns to Acheh and begins teaching
 - **[[1663]]** — [[Painansch Contract]] sealed at Batavia (6 July): Menangkabau rulers of the West Coast place themselves under VOC protection, defying Atjeh's suzerainty — the pivot of VOC Westkust policy
-- **[[1666]]** — [[Raniri]] must have died before this year (*terminus ante quem* established by Djajadiningrat)
+- **[[1666]]** — [[Nur al-Din al-Raniri|Raniri]] must have died before this year (*terminus ante quem* established by Djajadiningrat)
 - **[[1675]]**–**[[1677]]** — [[Nur ul-Alam Nakiatodin]] reigns as sultana
 
 ## The Westkust and Later 17th Century
@@ -136,7 +136,7 @@ A timeline of key events in Acehnese history, organized by year as recorded in t
 - **[[1830]]** — Acehnese developments
 - **[[1831]]** — [[American bombardment of the Achehnese coast (1831)]]
 - **[[1836]]** — Acehnese period
-- **[[1838]]**–**[[1870]]** — [[Ibrahim Manso Shah]] reigns; [[Teungku Kuta Karang]] writes the Taj-ul-mulk
+- **[[1838]]**–**[[1870]]** — [[Sultan Ibrahim Mansur Shah|Ibrahim Manso Shah]] reigns; [[Teungku Kutakarang|Teungku Kuta Karang]] writes the Taj-ul-mulk
 - **[[1839]]** — Acehnese period
 - **[[1840]]** — Acehnese developments
 - **[[1844]]** — British bombardment of the Achehnese coast
@@ -244,7 +244,7 @@ A timeline of key events in Acehnese history, organized by year as recorded in t
 - **[[1949]]** — Dutch recognition of Indonesian independence
 - **[[1953]]** — [[Acehnese rebellion (1953)|Acehnese join Darul Islam rebellion]]
 - **[[1954]]** — Acehnese conflict with Indonesian central government
-- **[[1955]]** — [[P. Voorhoeve]] publishes facsimile edition of two Malay manuscripts of [[Raniri]] — *Twee Maleise geschriften van Nūruddīn ar-Rānīrī*
+- **[[1955]]** — [[P. Voorhoeve]] publishes facsimile edition of two Malay manuscripts of [[Nur al-Din al-Raniri|Raniri]] — *Twee Maleise geschriften van Nūruddīn ar-Rānīrī*
 - **[[1956]]** — Kreemer's [[Kreemer's De Karbouw (1956)|*De Karbouw*]] published at 's-Gravenhage/Bandung
 
 ---

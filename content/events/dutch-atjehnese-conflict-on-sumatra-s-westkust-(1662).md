@@ -20,7 +20,7 @@ The Dutch sought, therefore, to persuade the heads of various places, by the pro
 
 ## Significance
 
-For AcehWiki, the Dutch-Atjehnese conflict on Sumatra's Westkust of [[1662]] is significant as the 17th-century episode by which the V.O.C., taking the part of the Sultan of Menangkabau against the Sultan of Atjeh, conquered Indrapoera and Padang from the Atjehnese and established Padang as the centre of Dutch authority on Sumatra's Westkust. The episode is a key moment in the long Dutch-Atjehnese rivalry on Sumatra's Westkust — a rivalry that would continue, in various forms, through the 18th and 19th centuries and that would culminate, after the [[Padri War on Sumatra's East Coast|Padri-oorlog]] and the [[Michiels's campaign against the Atjehnese on Sumatra's Westkust (1839-1840)|Michiels campaign of 1839–1840]], in the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1891]]. The episode likewise illustrates the V.O.C.'s transformation from a *handelslichaam* (trading body) into a *staatsmacht* (state power) — a transformation driven, as [[Dr. W. A. Terwogt|Terwogt]] notes, by circumstances rather than by design.
+For AcehWiki, the Dutch-Atjehnese conflict on Sumatra's Westkust of [[1662]] is significant as the 17th-century episode by which the V.O.C., taking the part of the Sultan of Menangkabau against the Sultan of Atjeh, conquered Indrapoera and Padang from the Atjehnese and established Padang as the centre of Dutch authority on Sumatra's Westkust. The episode is a key moment in the long Dutch-Atjehnese rivalry on Sumatra's Westkust — a rivalry that would continue, in various forms, through the 18th and 19th centuries and that would culminate, after the [[Padri War|Padri-oorlog]] and the [[Michiels's campaign against the Atjehnese on Sumatra's Westkust (1839-1840)|Michiels campaign of 1839–1840]], in the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1891]]. The episode likewise illustrates the V.O.C.'s transformation from a *handelslichaam* (trading body) into a *staatsmacht* (state power) — a transformation driven, as [[Dr. W. A. Terwogt|Terwogt]] notes, by circumstances rather than by design.
 
 ## See Also
 
@@ -28,7 +28,7 @@ For AcehWiki, the Dutch-Atjehnese conflict on Sumatra's Westkust of [[1662]] is 
 - [[Dr. W. A. Terwogt]]
 - [[Vereenigde Oostindische Compagnie]]
 - [[Aceh War]]
-- [[Padri War on Sumatra's East Coast]]
+- [[Padri War|Padri War on Sumatra's East Coast]]
 - [[Michiels's campaign against the Atjehnese on Sumatra's Westkust (1839-1840)]]
 - [[Indrapoera]]
 - [[Padang]]

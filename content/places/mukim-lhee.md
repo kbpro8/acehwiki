@@ -20,7 +20,7 @@ The only instance of the administration of these Mukims by a single ruler within
 
 ## The Keureukons and the Modern Name
 
-The name **III Mukims Keureukon** now usually given to that district, coupled with the fact that a family resided therein one male member of which enjoyed the hereditary title of [[Teuku Keureukon]], points to the efforts made by the holders of that dignity to gain the supremacy there. Among the principal court officials in the period of prosperity of the sultanate there had been a royal secretary with the title **Keureukon Katibulmuluk** (vulgarly "Katiboy mulut"). This title could more easily pass from father to son than the art of composing and writing Malay letters; and the importance of such correspondence dwindled with the decay of the court. The Keureukons thus provide another example of the degeneration of offices in Acheh, alongside that of the [[Teuku Kali Malikon Ade]].
+The name **III Mukims Keureukon** now usually given to that district, coupled with the fact that a family resided therein one male member of which enjoyed the hereditary title of [[Keureukon Katiboy Muluk|Teuku Keureukon]], points to the efforts made by the holders of that dignity to gain the supremacy there. Among the principal court officials in the period of prosperity of the sultanate there had been a royal secretary with the title **Keureukon Katibulmuluk** (vulgarly "Katiboy mulut"). This title could more easily pass from father to son than the art of composing and writing Malay letters; and the importance of such correspondence dwindled with the decay of the court. The Keureukons thus provide another example of the degeneration of offices in Acheh, alongside that of the [[Teuku Kali Malikon Ade]].
 
 ## See Also
 
@@ -29,7 +29,7 @@ The name **III Mukims Keureukon** now usually given to that district, coupled wi
 - [[XXVI Mukims]]
 - [[Three Sagis (XXVI, XXV, XXII Mukims)]]
 - [[Teungku Chot Putu]]
-- [[Teuku Keureukon]]
+- [[Keureukon Katiboy Muluk|Teuku Keureukon]]
 - [[Teuku Kali Malikon Ade]]
 
 ## Source

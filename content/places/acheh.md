@@ -38,7 +38,7 @@ By the early [[1800s]] the sultanate was weakened by internal succession struggl
 
 ### The Raffles–Coombs commission (1819)
 
-In [[1819]] [[Sir Thomas Stamford Raffles]] and [[Captain Coombs]] were sent by Lord [[Lord Moira|Moira]]’s government in [[Calcutta]] to negotiate with the “king actually in power”. Raffles favoured Jauhar, while [[Colonel John Alexander Bannerman|Bannerman]] and Coombs backed Saif. After a fruitless seven‑week stay at the roadstead of [[Banda Acheh]]—where the local chief [[Panglima Polim]] declared that neither pretender held real sway—the commission sailed to Pedir and on [[22 April]] [[1819]] concluded the **Treaty of Pedir (1819)** with Jauhar. The treaty promised free trade, a British resident, and the exclusion of other European powers; Article 6 later served as the basis for British claims to suzerainty over the sultanate.
+In [[1819]] [[Sir Thomas Stamford Raffles]] and [[Captain Coombs]] were sent by Lord [[Lord Moira|Moira]]’s government in [[Calcutta]] to negotiate with the “king actually in power”. Raffles favoured Jauhar, while [[Colonel John Alexander Bannerman|Bannerman]] and Coombs backed Saif. After a fruitless seven‑week stay at the roadstead of [[Banda Acheh]]—where the local chief [[Panglima Polem|Panglima Polim]] declared that neither pretender held real sway—the commission sailed to Pedir and on [[22 April]] [[1819]] concluded the **Treaty of Pedir (1819)** with Jauhar. The treaty promised free trade, a British resident, and the exclusion of other European powers; Article 6 later served as the basis for British claims to suzerainty over the sultanate.
 
 ### “Dead letter” and the Anglo‑Dutch negotiations
 
@@ -90,7 +90,7 @@ The Sultanate of Acheh exemplifies the fluidity of pre‑colonial Southeast Asia
 - [[Treaty of Atjeh (1607)]]
 - [[Perak]]
 - [[Hikajat Seri Rama]]
-- [[Burda]]
+- [[Burda (poem)|Burda]]
 - [[Badʿ al‑Amali]]
 - [[C. Snouck Hurgronje]]
 - [[P. H. van der Kemp]]

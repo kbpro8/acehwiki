@@ -13,7 +13,7 @@ tags:
   - aceh
 ---
 
-**The Industriebond defense meeting of [[17 February]] [[1917]]** was a public gathering of the Industriebond (Industriële Club) at which former Governor-General [[J. B. van Heutsz]] delivered his second major address on the defence of [[Netherlands India|Netherlands Indies]], reiterating the themes of his earlier [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)|speech at the Bond van Vrije Liberalen]] and setting out what he presented as the government's accepted defence system.
+**The Industriebond defense meeting of [[17 February]] [[1917]]** was a public gathering of the Industriebond (Industriële Club) at which former Governor-General [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] delivered his second major address on the defence of [[Netherlands India|Netherlands Indies]], reiterating the themes of his earlier [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)|speech at the Bond van Vrije Liberalen]] and setting out what he presented as the government's accepted defence system.
 
 ## The Meeting
 
@@ -33,7 +33,7 @@ Van Heutsz's presentation of the government's fleet plan from the Memorie van An
 
 ## Part of the Broader Campaign
 
-The meeting was one element of the sustained post-governorship defence advocacy campaign conducted by [[J. B. van Heutsz]] and his circle, which also included the [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)|Bond van Vrije Liberalen speech]] and the promotion of [[J. Van der Weyden]]'s defence proposals. The campaign formed a central episode in the [[Defense of Netherlands Indies debate (1917)]].
+The meeting was one element of the sustained post-governorship defence advocacy campaign conducted by [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] and his circle, which also included the [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)|Bond van Vrije Liberalen speech]] and the promotion of [[J. Van der Weyden]]'s defence proposals. The campaign formed a central episode in the [[Defense of Netherlands Indies debate (1917)]].
 
 ## Significance
 
@@ -41,7 +41,7 @@ The Industriebond meeting demonstrated the breadth of Van Heutsz's public campai
 
 ## See Also
 
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[C. C. Vattier Kraane]]
 - [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)]]
 - [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies]]

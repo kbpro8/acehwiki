@@ -15,14 +15,14 @@ On [[30 July]] [[30 July]] [[1879]] two Atjehers with a white flag presented the
 
 The march to Selimoen, which had first been given up, was now, in order to hasten the somewhat protracted negotiations, undertaken after all. On [[13 August]] [[13 August]] [[1879]] the columns of Indrapuri and [[Lamtobah|Lamtobah]] set out at the same time. The latter still had to fight at [[Kepaja Doewa|Kepaja Doewa]] and [[Lam Soemboeng|Lam Soemboeng]], and reached Selimoen on [[15 August]] [[15 August]] [[1879]]. The other column had already arrived there the day before. It had met the most serious opposition at [[Lampisang|Lampisang]], where [[Toekoe di Tiroe|Toekoe di Tiroe]] with his band had awaited it.
 
-Toekoe Moeda Daoed and other chiefs now submitted; those who, like [[Panglima Polim|Panglima Polim]] and the [[Imam of Longbatta|Imam Longbatta]], refused to give up the fight, fled to the upper lands of [[Pedir|Pedir]]. "The return march to Indrapuri resembled a triumphal procession. Everywhere the population showed a peaceful disposition; in all kampongs, even on the commanding hills, white flags were planted; the troops, accompanied by the chiefs who had come in submission, were awaited in the kampongs by men, women and children, and provided with refreshments; all enemy bentings were abandoned."
+Toekoe Moeda Daoed and other chiefs now submitted; those who, like [[Panglima Polem|Panglima Polem]] and the [[Imam of Longbatta|Imam Longbatta]], refused to give up the fight, fled to the upper lands of [[Pedir|Pedir]]. "The return march to Indrapuri resembled a triumphal procession. Everywhere the population showed a peaceful disposition; in all kampongs, even on the commanding hills, white flags were planted; the troops, accompanied by the chiefs who had come in submission, were awaited in the kampongs by men, women and children, and provided with refreshments; all enemy bentings were abandoned."
 
 ## See Also
 
 - [[Selimoen]]
 - [[Habib Machmoed]]
 - [[Toekoe di Tiroe]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Lamtobah]]
 - [[Kepaja Doewa]]
@@ -48,14 +48,14 @@ On [[30 July]] [[30 July]] [[1879]] two Atjehers with a white flag presented the
 
 The march to Selimoen, which had first been given up, was now, in order to hasten the somewhat protracted negotiations, undertaken after all. On [[13 August]] [[13 August]] [[1879]] the columns of Indrapuri and [[Lamtobah|Lamtobah]] set out at the same time. The latter still had to fight at [[Kepaja Doewa|Kepaja Doewa]] and [[Lam Soemboeng|Lam Soemboeng]], and reached Selimoen on [[15 August]] [[15 August]] [[1879]]. The other column had already arrived there the day before. It had met the most serious opposition at [[Lampisang|Lampisang]], where [[Toekoe di Tiroe|Toekoe di Tiroe]] with his band had awaited it.
 
-Toekoe Moeda Daoed and other chiefs now submitted; those who, like [[Panglima Polim|Panglima Polim]] and the [[Imam of Longbatta|Imam Longbatta]], refused to give up the fight, fled to the upper lands of [[Pedir|Pedir]]. "The return march to Indrapuri resembled a triumphal procession. Everywhere the population showed a peaceful disposition; in all kampongs, even on the commanding hills, white flags were planted; the troops, accompanied by the chiefs who had come in submission, were awaited in the kampongs by men, women and children, and provided with refreshments; all enemy bentings were abandoned."
+Toekoe Moeda Daoed and other chiefs now submitted; those who, like [[Panglima Polem|Panglima Polem]] and the [[Imam of Longbatta|Imam Longbatta]], refused to give up the fight, fled to the upper lands of [[Pedir|Pedir]]. "The return march to Indrapuri resembled a triumphal procession. Everywhere the population showed a peaceful disposition; in all kampongs, even on the commanding hills, white flags were planted; the troops, accompanied by the chiefs who had come in submission, were awaited in the kampongs by men, women and children, and provided with refreshments; all enemy bentings were abandoned."
 
 ## See Also
 
 - [[Selimoen]]
 - [[Habib Machmoed]]
 - [[Toekoe di Tiroe]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Lamtobah]]
 - [[Kepaja Doewa]]

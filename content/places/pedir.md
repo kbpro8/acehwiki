@@ -58,7 +58,7 @@ In the early colonial period the *Groot‑Atjehsche* system – [[gampong|gampon
 
 Pedir was a coastal state whose radja repeatedly opposed the Dutch during the [[Aceh War|Atjeh‑oorlog]]. The town was bombarded by a Dutch squadron on [[29 December]] [[1873]]–[[31 December]] [[1873]] because its radja had marched with his men to the [[Kraton of Aceh|Kraton]] to help defend it during the [[Second Aceh Expedition (1873–1874)|second Aceh expedition]]. After the bombardment the Dutch established a fortification at Pedir in [[1876]]; the post met opposition from the self‑reliant chief [[Toekoe di Tiroe|Toekoe di Tiroe]]. In [[February]] [[1877]] the fort was moved to [[Segli|Segli]], and in [[May 1878]] Governor [[K. van der Heyden|Van der Heyden]] led an expedition to the upper lands of Pedir, where Toekoe di Tiroe remained hostile.
 
-The upper lands of Pedir became a refuge for irreducible hostile chiefs – [[Panglima Polim|Panglima Polim]], his son [[Radja Koelala|Radja Koelala]], the [[Imam of Longbatta|Imam Longbatta]] and others – who entrenched themselves at [[Kemala|Kemala]] in the interior south of Pedir during the campaigns against the XXII and XXVI Moekims in [[1879]].
+The upper lands of Pedir became a refuge for irreducible hostile chiefs – [[Panglima Polem|Panglima Polim]], his son [[Radja Koelala|Radja Koelala]], the [[Imam of Longbatta|Imam Longbatta]] and others – who entrenched themselves at [[Kemala|Kemala]] in the interior south of Pedir during the campaigns against the XXII and XXVI Moekims in [[1879]].
 
 ### The 1873 naval action (new source)
 
@@ -110,7 +110,7 @@ Overall, Pedir illustrates the intertwining of trade, diplomacy and warfare on t
 - [[Garouw]]
 - [[Telok Kadjoe]]
 - [[Kroëng Raja]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Toewankoe Haschim]]
 - [[Radja Koelala]]
@@ -121,7 +121,7 @@ Overall, Pedir illustrates the intertwining of trade, diplomacy and warfare on t
 - [[Campaign against the XXVI Moekims (July 1879)]]
 - [[Selimoen Expedition (August 1879)]]
 - [[Aceh War]]
-- [[Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz]]
 - [[Houtman brothers' visit to Atjeh (1599)]]
 - [[Diogo Lopez de Sequeira]]
 - [[Pasei]]
@@ -133,7 +133,7 @@ Overall, Pedir illustrates the intertwining of trade, diplomacy and warfare on t
 - [[Imprisonment of Frederik de Houtman in Atjeh]]
 - [[Frederik de Houtman]]
 - [[Paulus van Caerden]]
-- [[Balthazar de Moucheron]]
+- [[Balthasar de Moucheron|Balthazar de Moucheron]]
 - [[Sultana of Atjeh (1641)]]
 - [[Maagden als losprijs]]
 - [[Panglima]]

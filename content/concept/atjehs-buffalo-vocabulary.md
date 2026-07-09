@@ -74,7 +74,7 @@ The principal lexicographical sources on the Atjehs buffalo-vocabulary are:
 
 - [[Hoesein Djajadiningrat|Hoesein Djajadiningrat]]'s *Atjehsch-Nederlandsch Woordenboek* (Acehnese-Dutch dictionary), cited in *De Karbouw* for *pandaq* (p. 146) and *laqseumana* (p. 172).
 - [[G. A. J. Hazeu|G. A. J. Hazeu]]'s *Gajosch-Nederlandsch Woordenboek* (Gayo-Dutch dictionary), cited for *doeroebiö* (p. 22 nt.), *kangkoe* (p. 53), *tjaram* (p. 128), *klamboen* (p. 171), *pepandji* / *keklip* (p. 171), *tali* (p. 128), *koetö* (p. 146) and *djalang* (p. 30).
-The Atjehs language is, as *De Karbouw* notes (p. 22), a member of the Sumatran group of Austronesian languages and is "especially related to" (*vooral met het Atjehs geparenteerd*) the Cham language — a linguistic connection that points to the historical Atjeh-Cham relationship familiar from [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s work.
+The Atjehs language is, as *De Karbouw* notes (p. 22), a member of the Sumatran group of Austronesian languages and is "especially related to" (*vooral met het Atjehs geparenteerd*) the Cham language — a linguistic connection that points to the historical Atjeh-Cham relationship familiar from [[C. Snouck Hurgronje|Snouck Hurgronje]]'s work.
 
 ## Significance
 The Atjehs buffalo-vocabulary is significant for the encyclopedia of [[Acheh]] history as the linguistic documentation of the integration of the buffalo into every domain of Atjehnese village life — agricultural, economic, ritual-legal, magical, and cosmological. The vocabulary documents that the buffalo was, in Atjehnese village society, not merely an economic asset but a culturally elaborated animal whose every variety, implement, function, and ritual-legal status had its own named term. The vocabulary is the principal linguistic monument of the Atjehnese buffalo-complex as documented in [[Kreemer's De Karbouw ([[1956]])|*De Karbouw*]] and [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]], and is the basis on which many of the concept-entries in this wiki rest.
@@ -91,7 +91,7 @@ The Atjehs buffalo-vocabulary is significant for the encyclopedia of [[Acheh]] h
 ## See Also
 - [[Atjehs language]]
 - [[Cham language]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[G. A. J. Hazeu]]
 - [[Hoesein Djajadiningrat]]
 - [[J. Kreemer]]

@@ -20,7 +20,7 @@ The comparative aside is significant for the study of religious practice in the 
 
 In the course of Snouck Hurgronje's account of the Achehnese ulama [[Habib Samalanga|Habib Samalanga]] — whose speciality, in his competition with [[Teungku Tiro|Teungku Tiro]] for the leadership of the [[Acheh War|jihad]], was the practice of *tapa* — the translator inserts a footnote in which *tapa* in the sense of absolute hermitical seclusion is said to be "admired and respected, but very seldom practised by the Malays of the peninsula." The translator continues: "When ascending Gunong Jorai in Kedah I heard of a holy hermit there who had spoken to no human being for five years; but he was said to be a stranger. *Tapa* for short periods is however popular."
 
-The footnote is one of the few passages in Vol. I in which the translator steps out from behind Snouck's text to add a comparative observation from his own Malayan experience. It serves to confirm the comparative rarity of prolonged hermitical seclusion in the peninsula, while at the same time acknowledging Gunong Jorai as one of those mountains — like the [[Gunong Lhee|Gunong Lhee]] of [[Great Acheh|Great Acheh]] — to which such holiness was traditionally attached.
+The footnote is one of the few passages in Vol. I in which the translator steps out from behind Snouck's text to add a comparative observation from his own Malayan experience. It serves to confirm the comparative rarity of prolonged hermitical seclusion in the peninsula, while at the same time acknowledging Gunong Jorai as one of those mountains — like the [[Eumpee Lulu|Eumpee Lulu]] of [[Great Acheh|Great Acheh]] — to which such holiness was traditionally attached.
 
 ### Gunong Jorai in the Geography of Kedah
 
@@ -39,7 +39,7 @@ The mention of Gunong Jorai in *The Achehnese* is incidental to the comparison b
 - [[Krueng Daroy]]
 - [[Tapa (religious seclusion)]]
 - [[Teungku Tiro]]
-- [[Gunong Lhee]]
+- [[Eumpee Lulu|Gunong Lhee]]
 - [[Acheh War]]
 
 ## Source

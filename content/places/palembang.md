@@ -12,7 +12,7 @@ The area around Palembang formed the core of the [[Sultanate of Palembang]], a M
 
 ## Raffles’s Raid of [[September]] [[1819]]
 
-In the closing pages of his article on the [[Acheh treaty of 1819]], [[P. H. van der Kemp]] draws a parallel between the British‐led raid on Palembang in [[1819]] and the later [[Jameson raid]] in South Africa. Van der Kemp argues that both operations were unauthorized aggressions by British officials—[[Sir Thomas Stamford Raffles]] in the case of Palembang and [[Leander Starr Jameson]] in the Transvaal—later disavowed by the British government while the strategic gains were quietly retained. He situates the Palembang raid as a “comparandum” to illustrate a recurring pattern of British colonial statecraft, linking it to the broader discourse on the [[Acheh treaty of 1819]] and the subsequent [[Anglo‑Dutch Treaty of London (1824)]].
+In the closing pages of his article on the [[Treaty of Pedir (1819)|Acheh treaty of 1819]], [[P. H. van der Kemp]] draws a parallel between the British‐led raid on Palembang in [[1819]] and the later [[Jameson raid]] in South Africa. Van der Kemp argues that both operations were unauthorized aggressions by British officials—[[Sir Thomas Stamford Raffles]] in the case of Palembang and [[Leander Starr Jameson]] in the Transvaal—later disavowed by the British government while the strategic gains were quietly retained. He situates the Palembang raid as a “comparandum” to illustrate a recurring pattern of British colonial statecraft, linking it to the broader discourse on the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] and the subsequent [[Anglo‑Dutch Treaty of London (1824)]].
 
 ## Dutch Military Expeditions ([[1819]]–[[1821]])
 
@@ -27,7 +27,7 @@ A larger Dutch campaign was launched in [[1821]] to secure full control of Palem
 - **[[20 June]] [[1821]]** – Dutch marines landed near Palembang, engaging local forces in a brief but intense clash that opened the city’s harbour to Dutch vessels.  
 - **[[24 June]] [[1821]]** – A second action secured the harbour fully, allowing Dutch ships to anchor and supply their troops for the occupation of the city.
 
-These operations were recorded in the regimental orders of the [[Dutch Marine Corps|Korps Mariniers]] (see [[1699]] for earlier regulations). The conduct of the Dutch marines during the battles was later recognised with the awarding of the [[Militaire Willemsorde|Military Order of William]] (see [[1822]]).
+These operations were recorded in the regimental orders of the [[Royal Netherlands Marine Corps|Korps Mariniers]] (see [[1699]] for earlier regulations). The conduct of the Dutch marines during the battles was later recognised with the awarding of the [[Militaire Willemsorde|Military Order of William]] (see [[1822]]).
 
 ## Fortifications and Riverine Positions
 
@@ -35,7 +35,7 @@ The Dutch forces had to contend with a network of defensive works along the Musi
 
 ## Significance
 
-The capture of Palembang marked a turning point in the Dutch campaign to dominate the Sumatran coastline. It directly challenged the residual authority of the [[Sultanate of Aceh]] over southern Sumatra and contributed to the gradual erosion of Acehnese suzerainty in the region. The success of the 1821 operations set a precedent for subsequent Dutch expeditions, such as the [[Celebes expedition|Celebes expedition]] of the [[1820s]], and illustrated the pivotal role of the [[Dutch Marine Corps|Korps Mariniers]] in extending colonial control through combined naval and riverine warfare. Moreover, the Palembang raid of [[1819]] remains a key comparative case in the historiography of British colonial aggression, as highlighted by [[P. H. van der Kemp]]’s analysis of the parallels between British actions in Southeast Asia and Southern Africa.
+The capture of Palembang marked a turning point in the Dutch campaign to dominate the Sumatran coastline. It directly challenged the residual authority of the [[Sultanate of Aceh]] over southern Sumatra and contributed to the gradual erosion of Acehnese suzerainty in the region. The success of the 1821 operations set a precedent for subsequent Dutch expeditions, such as the [[Celebes expedition|Celebes expedition]] of the [[1820s]], and illustrated the pivotal role of the [[Royal Netherlands Marine Corps|Korps Mariniers]] in extending colonial control through combined naval and riverine warfare. Moreover, the Palembang raid of [[1819]] remains a key comparative case in the historiography of British colonial aggression, as highlighted by [[P. H. van der Kemp]]’s analysis of the parallels between British actions in Southeast Asia and Southern Africa.
 
 ## See Also
 
@@ -49,10 +49,10 @@ The capture of Palembang marked a turning point in the Dutch campaign to dominat
 - [[Jameson's raid comparison]]
 - [[Suzerainty question]]
 - [[Faure's letter on Transvaal suzerainty]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Anglo‑Dutch Treaty of London (1824)]]
 - [[P. H. van der Kemp]]
-- [[Dutch Marine Corps|Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[Dutch East Indies]]
 - [[Musi River]]
 - [[1821 Palembang expedition]]

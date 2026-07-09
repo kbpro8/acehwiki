@@ -16,7 +16,7 @@ In the Acehnese Malay version of the *Burda*, Iram serves as a rhetorical contra
 ## See Also
 
 - [[Shaddad (legendary king)]]
-- [[Al‑Burda (Arabic poem)]]
+- [[Burda (poem)|Al‑Burda (Arabic poem)]]
 - [[Muhammad]]
 - [[Arabic terms in Acehnese religious poetry]]
 

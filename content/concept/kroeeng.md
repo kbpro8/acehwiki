@@ -22,7 +22,7 @@ The *Kroeëng* toponym is, in the Bureau's Sumatra survey, the principal hydrogr
 - [[Atjehrivier]]
 - [[Kroeëng Wojla]]
 - [[Kroeëng Teunom]]
-- [[Kroeëng Meureubo]]
+- [[Krueng Meureubo|Kroeëng Meureubo]]
 - [[Kroeëng Seunagan]]
 - [[Kroeëng Keureutë]]
 - [[Lao Alas]]

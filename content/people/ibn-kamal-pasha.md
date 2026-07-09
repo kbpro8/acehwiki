@@ -21,7 +21,7 @@ Ibn Kamāl Pasha is one of the witnesses to the textual tradition of the *[[Ma'r
 - [[Abu'l-Kasim ar-Razi]]
 - [[Ma'rifat al-madhahib]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
 ## Source
@@ -48,7 +48,7 @@ Ibn Kamāl Pasha is one of the witnesses to the textual tradition of the *[[Ma'r
 - [[Abu'l-Kasim ar-Razi]]
 - [[Ma'rifat al-madhahib]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tibjan fi ma'rifat al-adyan]]
 
 ## Source

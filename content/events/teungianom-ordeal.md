@@ -25,7 +25,7 @@ The whole system of ordeals, including the teungianom, is significant as an inst
 - [[Peusah Panchuri]]
 - [[Peutasa'-ordeal]]
 - [[Stoning of a couple for illicit intercourse by Habib Abdurrahman]]
-- [[Edicts of Meukuta Alam]]
+- [[Adat Meukuta Alam|Edicts of Meukuta Alam]]
 
 ## Source
 

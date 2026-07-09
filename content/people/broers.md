@@ -12,7 +12,7 @@ Broers directed the continuation of the assault on enemy fortifications and coor
 ## See Also
 
 - [[Mennert (naval officer)]]
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Tamiang (river)]]
 - [[Colonel Van de Pol]]
 

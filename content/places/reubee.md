@@ -18,7 +18,7 @@ The list so drawn up gives, for the [[XXII Mukims]], "Teuku Ba'et, uleebalang of
 
 ### A List "Subject to Round Numbers"
 
-Snouck is careful, however, to warn his reader that this list "at most represents the conditions that existed during a short period. The whole twelve had not in the long run a voice in the affairs of the capital, while some of them had absolutely no share therein. On the other hand there were uleebalangs in the sultan's territory and the so-called wakeueh-districts (as for instance [[Teuku Kali]], the [[Panglima Meuseugit Raya]], the [[Imeum of Lueng Bata|Imeums of Lueng Bata]] and [[Chade'|Chadé]] etc.) who had much more weight in the scale than many of the members of the board of twelve."
+Snouck is careful, however, to warn his reader that this list "at most represents the conditions that existed during a short period. The whole twelve had not in the long run a voice in the affairs of the capital, while some of them had absolutely no share therein. On the other hand there were uleebalangs in the sultan's territory and the so-called wakeueh-districts (as for instance [[Teuku Kali Malikon Ade|Teuku Kali]], the [[Panglima Meuseugit Raya]], the [[Imeum of Lueng Bata|Imeums of Lueng Bata]] and [[Chade'|Chadé]] etc.) who had much more weight in the scale than many of the members of the board of twelve."
 
 The V Mukims, though named in the traditional list, must therefore be understood as one of the highland districts whose chief was, for a time, of sufficient weight to be reckoned among the king-makers of [[Acheh]].
 
@@ -45,7 +45,7 @@ The V Mukims is named in Vol. I chiefly as the territorial designation of [[Teuk
 - [[Panglima Meuseugit Raya]]
 - [[Imeum of Lueng Bata]]
 - [[Chade']]
-- [[Teuku Kali]]
+- [[Teuku Kali Malikon Ade|Teuku Kali]]
 - [[Tunong]]
 - [[Great Acheh]]
 

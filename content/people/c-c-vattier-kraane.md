@@ -13,11 +13,11 @@ tags:
   - economic-development
 ---
 
-**C. C. Vattier Kraane** (also rendered C. G. Vattier Kraane) was a Dutch colonial economic advocate who addressed public meetings on the economic development of [[Netherlands India|Netherlands Indies]] in connection with its defence, speaking alongside former Governor-General [[J. B. van Heutsz]] at the [[Bond van Vrije Liberalen]] on [[13 January]] [[1917]] and at the [[Industriebond]] (Industriële Club) on [[17 February]] [[1917]].
+**C. C. Vattier Kraane** (also rendered C. G. Vattier Kraane) was a Dutch colonial economic advocate who addressed public meetings on the economic development of [[Netherlands India|Netherlands Indies]] in connection with its defence, speaking alongside former Governor-General [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] at the [[Bond van Vrije Liberalen]] on [[13 January]] [[1917]] and at the [[Industriebond]] (Industriële Club) on [[17 February]] [[1917]].
 
 ## Public Addresses
 
-Vattier Kraane spoke at two meetings in early [[1917]] that formed part of the broader [[Defense of Netherlands Indies debate (1917)]]. At the [[Bond van Vrije Liberalen]] gathering on [[13 January]] [[1917]], he appeared alongside [[J. B. van Heutsz]]. He spoke again at the [[Industriebond]] (Industriële Club) on [[17 February]] [[1917]], a meeting reported in the *Handelsblad* of [[18 February]] [[1917]].
+Vattier Kraane spoke at two meetings in early [[1917]] that formed part of the broader [[Defense of Netherlands Indies debate (1917)]]. At the [[Bond van Vrije Liberalen]] gathering on [[13 January]] [[1917]], he appeared alongside [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]. He spoke again at the [[Industriebond]] (Industriële Club) on [[17 February]] [[1917]], a meeting reported in the *Handelsblad* of [[18 February]] [[1917]].
 
 ## Economic Development and Defence
 
@@ -37,11 +37,11 @@ Vattier Kraane concluded his address idealistically, envisioning a future in whi
 
 ## Significance
 
-Vattier Kraane's proposals represented the economic dimension of the broader Van Heutsz defence advocacy campaign. By linking increased exploitation of colonial natural resources to the financing of defence, he provided the fiscal argument complementing [[J. Van der Weyden]]'s military proposals and [[J. B. van Heutsz]]'s political campaign for appointment as *buitengewoon Regeerings-Commissaris*.
+Vattier Kraane's proposals represented the economic dimension of the broader Van Heutsz defence advocacy campaign. By linking increased exploitation of colonial natural resources to the financing of defence, he provided the fiscal argument complementing [[J. Van der Weyden]]'s military proposals and [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]'s political campaign for appointment as *buitengewoon Regeerings-Commissaris*.
 
 ## See Also
 
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[J. Van der Weyden]]
 - [[Van der Maaten]]
 - [[Bond van Vrije Liberalen]]
@@ -59,11 +59,11 @@ K. van der Maaten, *Z. E. De Oud Gouverneur-Generaal J. B. van Heutsz en de Defe
 ---
 
 
-**C. C. Vattier Kraane** (also rendered C. G. Vattier Kraane) was a Dutch colonial economic advocate who addressed public meetings on the economic development of [[Netherlands India|Netherlands Indies]] in connection with its defence, speaking alongside former Governor-General [[J. B. van Heutsz]] at the [[Bond van Vrije Liberalen]] on [[13 January]] [[1917]] and at the [[Industriebond]] (Industriële Club) on [[17 February]] [[1917]].
+**C. C. Vattier Kraane** (also rendered C. G. Vattier Kraane) was a Dutch colonial economic advocate who addressed public meetings on the economic development of [[Netherlands India|Netherlands Indies]] in connection with its defence, speaking alongside former Governor-General [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] at the [[Bond van Vrije Liberalen]] on [[13 January]] [[1917]] and at the [[Industriebond]] (Industriële Club) on [[17 February]] [[1917]].
 
 ## Public Addresses
 
-Vattier Kraane spoke at two meetings in early [[1917]] that formed part of the broader [[Defense of Netherlands Indies debate (1917)]]. At the [[Bond van Vrije Liberalen]] gathering on [[13 January]] [[1917]], he appeared alongside [[J. B. van Heutsz]]. He spoke again at the [[Industriebond]] (Industriële Club) on [[17 February]] [[1917]], a meeting reported in the *Handelsblad* of [[18 February]] [[1917]].
+Vattier Kraane spoke at two meetings in early [[1917]] that formed part of the broader [[Defense of Netherlands Indies debate (1917)]]. At the [[Bond van Vrije Liberalen]] gathering on [[13 January]] [[1917]], he appeared alongside [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]. He spoke again at the [[Industriebond]] (Industriële Club) on [[17 February]] [[1917]], a meeting reported in the *Handelsblad* of [[18 February]] [[1917]].
 
 ## Economic Development and Defence
 
@@ -83,11 +83,11 @@ Vattier Kraane concluded his address idealistically, envisioning a future in whi
 
 ## Significance
 
-Vattier Kraane's proposals represented the economic dimension of the broader Van Heutsz defence advocacy campaign. By linking increased exploitation of colonial natural resources to the financing of defence, he provided the fiscal argument complementing [[J. Van der Weyden]]'s military proposals and [[J. B. van Heutsz]]'s political campaign for appointment as *buitengewoon Regeerings-Commissaris*.
+Vattier Kraane's proposals represented the economic dimension of the broader Van Heutsz defence advocacy campaign. By linking increased exploitation of colonial natural resources to the financing of defence, he provided the fiscal argument complementing [[J. Van der Weyden]]'s military proposals and [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]'s political campaign for appointment as *buitengewoon Regeerings-Commissaris*.
 
 ## See Also
 
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[J. Van der Weyden]]
 - [[Van der Maaten]]
 - [[Bond van Vrije Liberalen]]

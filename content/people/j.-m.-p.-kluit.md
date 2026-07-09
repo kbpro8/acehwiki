@@ -14,7 +14,7 @@ He is noted for his decisive action during the June 1890 assaults on the left ba
 
 ## See Also  
 
-- [[Dutch Marine Corps]]  
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]  
 - [[Edi River expedition (1890)]]  
 - [[Klewang (weapon)]]  
 

@@ -8,7 +8,7 @@ tags: [event, document, treaty, colonial, dutch, malay, sumatra, oostkust-van-su
 
 ## Background: the Wilson adventure and the Dutch intervention
 
-The tractate of [[1858]] was the diplomatic culmination of a long crisis in the [[Siak|Siak]] sultanate. The Bureau records that [[Tongkoe Ismail|Sultan Tongkoe Ismail]] — having failed to obtain British assistance against his internal opponents from the authorities at [[Singapore|Singapore]], who refused on account of the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]] — turned, "met meer succes" — "with more success" — to the Netherlands-Indies Government. He had earlier secured the services of the British adventurer [[Wilson|Wilson]] to put down an internal revolt, but [[Wilson|Wilson]] had soon quarrelled with the Sultan and had nearly succeeded in driving the entire royal house out of [[Siak|Siak]]. The Dutch intervention against [[Wilson|Wilson]] was thus the immediate prelude to the tractate.
+The tractate of [[1858]] was the diplomatic culmination of a long crisis in the [[Siak|Siak]] sultanate. The Bureau records that [[Tongkoe Ismail|Sultan Tongkoe Ismail]] — having failed to obtain British assistance against his internal opponents from the authorities at [[Singapore|Singapore]], who refused on account of the [[Anglo-Dutch Treaty of 1824|treaty of 1824]] — turned, "met meer succes" — "with more success" — to the Netherlands-Indies Government. He had earlier secured the services of the British adventurer [[Wilson|Wilson]] to put down an internal revolt, but [[Wilson|Wilson]] had soon quarrelled with the Sultan and had nearly succeeded in driving the entire royal house out of [[Siak|Siak]]. The Dutch intervention against [[Wilson|Wilson]] was thus the immediate prelude to the tractate.
 
 ## The tractate
 
@@ -44,7 +44,7 @@ The [[1858]] tractate is, in the Encyclopaedisch Bureau's survey, the diplomatic
 - [[1878 Langkat–Tamiang transfer]]
 - [[atjeh-as-opperheer-in-langkat-deli-serdang-(1854)]]
 - [[atjehsche-overheersing-der-noordelijke-kuststaatjes]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Singapore]]
 - [[1854]]
 - [[1858]]

@@ -8,7 +8,7 @@ tags: [place, kampong, acehnese, aceh-war]
 
 ## The Murder of Mas Soemo Widikdjo
 
-After the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] had landed east of the Atjeh river on [[9 December]] [[9 December]] [[1873]] and had pushed forward to the mouth of the Atjeh river, Lieutenant-general [[J. van Swieten|Van Swieten]] attempted to negotiate with the sultan, sending two letters offering peace on the model of the [[Tractaat with Siak of 1858|Siak-tractaat]] and proposing to wage war "in the manner of civilised nations." The bearer, the native [[Mas Soemo Widikdjo|Mas Soemo Widikdjo]], departed on [[26 December]] [[26 December]] [1873] and never returned: "Later it became known that, after being held prisoner a couple of days, he was murderously killed at Longbatta."
+After the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] had landed east of the Atjeh river on [[9 December]] [[9 December]] [[1873]] and had pushed forward to the mouth of the Atjeh river, Lieutenant-general [[Jan van Swieten|Van Swieten]] attempted to negotiate with the sultan, sending two letters offering peace on the model of the [[Tractaat with Siak of 1858|Siak-tractaat]] and proposing to wage war "in the manner of civilised nations." The bearer, the native [[Mas Soemo Widikdjo|Mas Soemo Widikdjo]], departed on [[26 December]] [[26 December]] [1873] and never returned: "Later it became known that, after being held prisoner a couple of days, he was murderously killed at Longbatta."
 
 ## The Omtrekking of the Kraton, 23-24 January 1874
 
@@ -22,7 +22,7 @@ The retreat became a rout. The Atjehers, considerably reinforced by fighters who
 
 ## Significance
 
-Longbatta was one of the most bitterly contested kampongs in the immediate neighbourhood of the [[Kraton of Aceh|Kraton]]. Its imam, the [[Imam of Longbatta|Imam of Longbatta]], was named by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the principal leaders of the war-party. The [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]] records that, after the [[Campaign against the XXVI Moekims (July 1879)|conquest of the XXVI Moekims]] in [[1879]], the Imam "sheathed his sword and withdrew from public life," marking the end of the first phase of the *prang Gompeuni*.
+Longbatta was one of the most bitterly contested kampongs in the immediate neighbourhood of the [[Kraton of Aceh|Kraton]]. Its imam, the [[Imam of Longbatta|Imam of Longbatta]], was named by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the principal leaders of the war-party. The [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]] records that, after the [[Campaign against the XXVI Moekims (July 1879)|conquest of the XXVI Moekims]] in [[1879]], the Imam "sheathed his sword and withdrew from public life," marking the end of the first phase of the *prang Gompeuni*.
 
 ## Account from *Snijders* (1944) — Longbatta and the Kota Alam Covering Position
 
@@ -47,7 +47,7 @@ Longbatta also enters the Snijders biography as the principal landmark that the 
 - [[Capture of the Kraton (24 January 1874)]]
 - [[Krueng Daroy]]
 - [[Aceh War]]
-- [[Hikajat prang Kompeuni]]
+- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
 - [[Bataillon Mineurs en Sappeurs]]
 - [[1874]]
 

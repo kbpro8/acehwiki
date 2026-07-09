@@ -8,7 +8,7 @@ tags: [person, dutch, colonial, military, officer, atjeh, 1873, 1874, aceh-war, 
 
 ## The landing of 9 December 1873
 
-The [[Tweede Atjeh-expeditie (1873-1874)|second Atjeh expedition]] — over 6,000 strong — was dispatched in the second half of November [[1873]] under the supreme command of the retired former commander of the Indies army, [[Van Swieten|Van Swieten]]. The expedition began under unfavourable auspices: when Van Swieten arrived at the roadstead of Atjeh, he found that cholera had broken out on many of the transport ships, a disease that would claim numerous victims throughout the expedition.
+The [[Tweede Atjeh-expeditie (1873-1874)|second Atjeh expedition]] — over 6,000 strong — was dispatched in the second half of November [[1873]] under the supreme command of the retired former commander of the Indies army, [[Jan van Swieten|Jan van Swieten]]. The expedition began under unfavourable auspices: when Van Swieten arrived at the roadstead of Atjeh, he found that cholera had broken out on many of the transport ships, a disease that would claim numerous victims throughout the expedition.
 
 On [[9 December]] [[1873]], the landing was undertaken under the command of Verspijck. Supported by the fire of the steamships, Verspijck drove the Atjehnese from their fortifications on the right bank of the Atjeh river. After the left bank of the river-mouth had also been occupied, the expedition pushed southward on [[24 December]] and, in a reconnaissance, encountered numerous fortifications, which were taken after heavy fighting. The campaign continued through January [[1874]], culminating in the occupation of the Kraton on [[24 January]] [[1874]] — found deserted, so that this important point could be occupied without bloodshed.
 
@@ -22,7 +22,7 @@ For AcehWiki, Verspijck is significant as the commander of the landing operation
 - [[Dr. W. A. Terwogt]]
 - [[Aceh War]]
 - [[Tweede Atjeh-expeditie (1873-1874)]]
-- [[Van Swieten]]
+- [[Jan van Swieten|Van Swieten]]
 - [[Kutaradja]]
 - [[9 December]]
 - [[1873]]

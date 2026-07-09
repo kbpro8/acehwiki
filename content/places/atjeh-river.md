@@ -22,7 +22,7 @@ Control of the river was essential for supply lines and for reaching interior di
 - [[Sloepenflottielje]]
 - [[Captain-terr zee W. Sutherland]]
 - [[Aceh War (1873–1904)]]
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 - [[Kajoe‑leh]]
 - [[Lambaroe]]
 - [[Pajar‑Ajer]]

@@ -11,7 +11,7 @@ His advancement was noted in the corps’ records following the heavy fighting a
 
 ## See Also
 
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Marapalm]]
 - [[1824]]
 

@@ -20,7 +20,7 @@ What made the submission catastrophic was not its acceptance but the use to whic
 
 ## The end of the episode
 
-This could not go on for long. As soon as it ceased to be possible for Uma to continue to combine the satisfaction of the wishes of the War-party with the appearance of advancing the interests of the Government, the barrel would burst—and there was not much doubt on which side Uma would elect to be. In March [[1896]], Uma thought that the time had come to remove the scales from the eyes of the blindly-trusting General Deykerhoff. He had then sufficient money and arms to play a leading part among the insurgents, and the burden of the obligations imposed upon him began to be burdensome. His secret opposition to Dutch rule thus changed to open hostility—the event known as the [[Treachery of Teuku Uma against the Dutch|treachery of Teuku Uma against the Dutch]]—and the "Uma period" came to an end. The Uma episode, however melancholy in itself, indirectly exercised a healthy influence upon the management of Achehnese affairs: its termination opened all eyes to the need of vigorous action if one did not wish to abandon altogether the subjugation of Acheh.
+This could not go on for long. As soon as it ceased to be possible for Uma to continue to combine the satisfaction of the wishes of the War-party with the appearance of advancing the interests of the Government, the barrel would burst—and there was not much doubt on which side Uma would elect to be. In March [[1896]], Uma thought that the time had come to remove the scales from the eyes of the blindly-trusting General Deykerhoff. He had then sufficient money and arms to play a leading part among the insurgents, and the burden of the obligations imposed upon him began to be burdensome. His secret opposition to Dutch rule thus changed to open hostility—the event known as the [[Defection of Teuku Uma|treachery of Teuku Uma against the Dutch]]—and the "Uma period" came to an end. The Uma episode, however melancholy in itself, indirectly exercised a healthy influence upon the management of Achehnese affairs: its termination opened all eyes to the need of vigorous action if one did not wish to abandon altogether the subjugation of Acheh.
 
 ## Additional account from *The Achehnese*, Vol. I — Submission of Teuku Uma to the Dutch Government
 
@@ -32,7 +32,7 @@ The **submission of [[Teuku Uma]] to the Dutch Government** in [[1893]] marked t
 
 ### The "concentration" period
 
-The acceptance of the submission by the Dutch authorities belongs to the larger story of the [[Dutch policy of 'concentration'|concentration policy]], which since [[1881]] had sought to reduce the Achehnese War to a defensive containment of the insurgents within a fixed "line" around the capital. From the point of view of that policy, the acceptance of Uma's submission "could not be censured", since even if the fickle chief changed his mind, the Dutch would be no worse off than before. The last three years of this concentration time earned an unhappy notoriety under the name of the "Uma period" — a period during which, under Governor [[General Deykerhoff|Deykerhoff]], the adventurer was strengthened by generous subsidies of Dutch weapons and Dutch money, until in March [[1896]] he threw off the mask and turned his Dutch-supplied arms against his patrons in the [[Treachery of Teuku Uma against the Dutch|treachery of Teuku Uma]].
+The acceptance of the submission by the Dutch authorities belongs to the larger story of the [[Dutch policy of 'concentration'|concentration policy]], which since [[1881]] had sought to reduce the Achehnese War to a defensive containment of the insurgents within a fixed "line" around the capital. From the point of view of that policy, the acceptance of Uma's submission "could not be censured", since even if the fickle chief changed his mind, the Dutch would be no worse off than before. The last three years of this concentration time earned an unhappy notoriety under the name of the "Uma period" — a period during which, under Governor [[General Deykerhoff|Deykerhoff]], the adventurer was strengthened by generous subsidies of Dutch weapons and Dutch money, until in March [[1896]] he threw off the mask and turned his Dutch-supplied arms against his patrons in the [[Defection of Teuku Uma|treachery of Teuku Uma]].
 
 ### Outcome
 
@@ -40,10 +40,10 @@ The submission, in short, is the prelude to the betrayal; and the death of Teung
 
 ## See Also
 
-- [[Treachery of Teuku Uma against the Dutch]]
+- [[Defection of Teuku Uma|Treachery of Teuku Uma against the Dutch]]
 - [[Teuku Uma]]
 - [[General Deykerhoff]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[Prang sabi (Holy War)]]
 - [[Tadkirat-ar-rakinut]]
 - [[Teungku Kutakarang]]

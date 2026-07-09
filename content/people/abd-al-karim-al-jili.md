@@ -5,7 +5,7 @@ aliases: [ʿAbd al-Karīm al-Jīlī, Abd al-Karim al-Jili, Abdalkarim al-Djili, 
 tags: [person, scholar, religious-figure, sufi, author, ibn-arabi-school, 14th-century, 15th-century, source-of-tibjan]
 ---
 
-**ʿAbd al-Karīm al-Jīlī** — in Dutch scholarship **al-Djili** — was a Sufi author of the post-Ibn ʿArabian tradition, who died around 832 H / [[1432]] C.E. He is the author of the [[al-Insan al-Kamil|*al-Insān al-kāmil*]] ("The Universal Man"), one of the principal expositions of the metaphysics of the unity of being (*waḥdat al-wujūd*) in the tradition of [[Ibn Arabi|Ibn ʿArabī]]. The work is identified by [[P. Voorhoeve|Voorhoeve]] as one of the principal sources of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]]: Raniri's notice on the Barāhima is a literal translation of *al-Insān al-kāmil*, ed. Cairo 1293, II, p. 81 r. 33–82 r. 1.
+**ʿAbd al-Karīm al-Jīlī** — in Dutch scholarship **al-Djili** — was a Sufi author of the post-Ibn ʿArabian tradition, who died around 832 H / [[1432]] C.E. He is the author of the [[al-Insan al-Kamil|*al-Insān al-kāmil*]] ("The Universal Man"), one of the principal expositions of the metaphysics of the unity of being (*waḥdat al-wujūd*) in the tradition of [[Ibn Arabi|Ibn ʿArabī]]. The work is identified by [[P. Voorhoeve|Voorhoeve]] as one of the principal sources of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]]: Raniri's notice on the Barāhima is a literal translation of *al-Insān al-kāmil*, ed. Cairo 1293, II, p. 81 r. 33–82 r. 1.
 
 ## The *al-Insān al-kāmil*
 
@@ -35,7 +35,7 @@ The *al-Insān al-kāmil* is cited explicitly twice in the [[Hall al-zill|*Ḥal
 - [[Hall al-zill]]
 - [[Ibn Arabi]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Tibjan fi ma'rifat al-adyan]]
 - [[Wujudiyyah]]
@@ -48,7 +48,7 @@ C. Brockelmann, *Geschichte der arabischen Litteratur* (GAL) II, 418.
 ---
 
 
-**ʿAbd al-Karīm al-Jīlī** — in Dutch scholarship **al-Djili** — was a Sufi author of the post-Ibn ʿArabian tradition, who died around 832 H / [[1432]] C.E. He is the author of the [[al-Insan al-Kamil|*al-Insān al-kāmil*]] ("The Universal Man"), one of the principal expositions of the metaphysics of the unity of being (*waḥdat al-wujūd*) in the tradition of [[Ibn Arabi|Ibn ʿArabī]]. The work is identified by [[P. Voorhoeve|Voorhoeve]] as one of the principal sources of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Raniri|Nūruddīn ar-Rānīrī]]: Raniri's notice on the Barāhima is a literal translation of *al-Insān al-kāmil*, ed. Cairo 1293, II, p. 81 r. 33–82 r. 1.
+**ʿAbd al-Karīm al-Jīlī** — in Dutch scholarship **al-Djili** — was a Sufi author of the post-Ibn ʿArabian tradition, who died around 832 H / [[1432]] C.E. He is the author of the [[al-Insan al-Kamil|*al-Insān al-kāmil*]] ("The Universal Man"), one of the principal expositions of the metaphysics of the unity of being (*waḥdat al-wujūd*) in the tradition of [[Ibn Arabi|Ibn ʿArabī]]. The work is identified by [[P. Voorhoeve|Voorhoeve]] as one of the principal sources of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]]: Raniri's notice on the Barāhima is a literal translation of *al-Insān al-kāmil*, ed. Cairo 1293, II, p. 81 r. 33–82 r. 1.
 
 ## The *al-Insān al-kāmil*
 
@@ -78,7 +78,7 @@ The *al-Insān al-kāmil* is cited explicitly twice in the [[Hall al-zill|*Ḥal
 - [[Hall al-zill]]
 - [[Ibn Arabi]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Tibjan fi ma'rifat al-adyan]]
 - [[Wujudiyyah]]

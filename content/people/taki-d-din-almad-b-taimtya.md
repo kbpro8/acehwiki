@@ -3,7 +3,7 @@ title: Taki‑d‑Din Almad b. Taimtya
 aliases: [Taki‑d‑Din Almad, Almad ibn Taimtya]
 tags: [person, scholar, anti-wahhabi]
 ---
-**Taki‑d‑Din Almad b. Taimtya** was a 20th‑century scholar whose doctrines were examined by [[Henri Laoust]] in the 1939 essay *Essai sur les doctrines sociales et politiques de Taki‑d‑Din Almad b. Taimtya* (see [[PAGE 35]]). The work references the anti‑Wahhabi stance toward the [[Burda]].
+**Taki‑d‑Din Almad b. Taimtya** was a 20th‑century scholar whose doctrines were examined by [[Henri Laoust]] in the 1939 essay *Essai sur les doctrines sociales et politiques de Taki‑d‑Din Almad b. Taimtya* (see [[PAGE 35]]). The work references the anti‑Wahhabi stance toward the [[Burda (poem)|Burda]].
 
 ## Intellectual Profile
 Almad’s writings reflect a critique of Wahhabi theology, aligning with the broader anti‑Wahhabi tradition represented by scholars such as [[Dā'ūd b. Sulaimān al‑Baghdadi]].
@@ -11,7 +11,7 @@ Almad’s writings reflect a critique of Wahhabi theology, aligning with the bro
 ## See Also
 - [[Henri Laoust]]
 - [[Wahhabism]]
-- [[Burda]]
+- [[Burda (poem)|Burda]]
 - [[Malay translation of the Burda]]
 - [[Dā'ūd b. Sulaimān al‑Baghdadi]]
 

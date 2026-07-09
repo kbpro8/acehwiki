@@ -26,7 +26,7 @@ As Hurgronje notes, the kali is also resorted to on the less common occasions wh
 
 ## See Also
 
-- [[Kali]]
+- [[Teuku Kali Malikon Ade|Kali]]
 - [[Marriage in Acheh]]
 - [[Janjining Ratu]]
 - [[Tueng Meunar]]

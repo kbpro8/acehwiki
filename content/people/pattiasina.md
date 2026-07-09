@@ -5,7 +5,7 @@ aliases: [Pattiasina, Ridder M.W.O. Pattiasina]
 tags: [person, marechaussee, ambonese, knil, mwo-ridder]
 ---
 
-**Pattiasina** was a retired Ambonese Marechaussee of the [[Korps Marechaussee van Atjeh en Onderhorigen]] — a *Ridder [[Militaire Willemsorde (M.W.O.)|M.W.O.]]* living at [[Koeta-Radja]] — who was one of the four *slippendragers* (pall-bearers) at the [[Funeral of Dominee Thenu (11 May 1937)|funeral of Dominee Thenu]] on [[11 May]] [[1937]]. The four — [[Salawono]] (3e kl.), Pattiasina, [[Kazen]] and [[Pattipuluhu]] — were all old, retired Marechaussees, all *Ridders M.W.O.* The choice of four M.W.O.-ridders to carry the dominee's bier is the book's most resonant image of the moral economy of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]].
+**Pattiasina** was a retired Ambonese Marechaussee of the [[Korps Marechaussee van Atjeh en Onderhorigen]] — a *Ridder [[Militaire Willemsorde|M.W.O.]]* living at [[Koeta-Radja]] — who was one of the four *slippendragers* (pall-bearers) at the [[Funeral of Dominee Thenu (11 May 1937)|funeral of Dominee Thenu]] on [[11 May]] [[1937]]. The four — [[Salawono]] (3e kl.), Pattiasina, [[Kazen]] and [[Pattipuluhu]] — were all old, retired Marechaussees, all *Ridders M.W.O.* The choice of four M.W.O.-ridders to carry the dominee's bier is the book's most resonant image of the moral economy of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]].
 
 ## The slippendragers
 
@@ -22,7 +22,7 @@ Pattiasina is significant in *[[Oom Ambon van het K.N.I.L.]]* as one of the four
 - [[Salawono]]
 - [[Kazen]]
 - [[Pattipuluhu]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[Koeta-Radja]]
 - [[11 May]]
@@ -34,7 +34,7 @@ Pattiasina is significant in *[[Oom Ambon van het K.N.I.L.]]* as one of the four
 ---
 
 
-**Pattiasina** was a retired Ambonese Marechaussee of the [[Korps Marechaussee van Atjeh en Onderhorigen]] — a *Ridder [[Militaire Willemsorde (M.W.O.)|M.W.O.]]* living at [[Koeta-Radja]] — who was one of the four *slippendragers* (pall-bearers) at the [[Funeral of Dominee Thenu (11 May 1937)|funeral of Dominee Thenu]] on [[11 May]] [[1937]]. The four — [[Salawono]] (3e kl.), Pattiasina, [[Kazen]] and [[Pattipuluhu]] — were all old, retired Marechaussees, all *Ridders M.W.O.* The choice of four M.W.O.-ridders to carry the dominee's bier is the book's most resonant image of the moral economy of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]].
+**Pattiasina** was a retired Ambonese Marechaussee of the [[Korps Marechaussee van Atjeh en Onderhorigen]] — a *Ridder [[Militaire Willemsorde|M.W.O.]]* living at [[Koeta-Radja]] — who was one of the four *slippendragers* (pall-bearers) at the [[Funeral of Dominee Thenu (11 May 1937)|funeral of Dominee Thenu]] on [[11 May]] [[1937]]. The four — [[Salawono]] (3e kl.), Pattiasina, [[Kazen]] and [[Pattipuluhu]] — were all old, retired Marechaussees, all *Ridders M.W.O.* The choice of four M.W.O.-ridders to carry the dominee's bier is the book's most resonant image of the moral economy of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]].
 
 ## The slippendragers
 
@@ -51,7 +51,7 @@ Pattiasina is significant in *[[Oom Ambon van het K.N.I.L.]]* as one of the four
 - [[Salawono]]
 - [[Kazen]]
 - [[Pattipuluhu]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[Koeta-Radja]]
 - [[11 May]]

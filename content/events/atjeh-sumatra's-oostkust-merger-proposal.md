@@ -16,7 +16,7 @@ Hoofdambtenaar [[J. de Groot]] responded to Tideman's concerns with a revealing 
 
 ## Confirmation at Koeta-Radja
 
-At the [[Koeta-Radja bestuursvergaderingen (19-20 January 1914)]], the merger proposal was effectively confirmed through the unanimous agreement of all Atjeh officials present to the proposed administrative division that incorporated Atjeh into Noord-Sumatra. Gouverneur [[H. N. N. A. Swart]] himself closed the meetings by thanking De Graaff for the "heldere, zakelijke uiteenzetting" (clear, business-like explanation) and expressing hope that the "grootsche plan" (grand plan) would soon be realized. This endorsement from the Gouverneur of Atjeh himself was significant, as it represented the most authoritative confirmation that the merger was acceptable to the leadership of the territory that would be most affected by it.
+At the [[Koeta-Radja bestuursvergaderingen (19-20 January 1914)]], the merger proposal was effectively confirmed through the unanimous agreement of all Atjeh officials present to the proposed administrative division that incorporated Atjeh into Noord-Sumatra. Gouverneur [[H. N. A. Swart|H. N. N. A. Swart]] himself closed the meetings by thanking De Graaff for the "heldere, zakelijke uiteenzetting" (clear, business-like explanation) and expressing hope that the "grootsche plan" (grand plan) would soon be realized. This endorsement from the Gouverneur of Atjeh himself was significant, as it represented the most authoritative confirmation that the merger was acceptable to the leadership of the territory that would be most affected by it.
 
 ## Border Adjustments
 
@@ -31,7 +31,7 @@ The Atjeh-Sumatra's Oostkust merger proposal represented a fundamental reimagini
 - [[J. Tideman]]
 - [[J. de Groot]]
 - [[S. de Graaff]]
-- [[H. N. N. A. Swart]]
+- [[H. N. A. Swart|H. N. N. A. Swart]]
 - [[Van der Plas]]
 - [[Noord-Sumatra (proposed gewest)]]
 - [[Bestuursreorganisatie Sumatra (1913-1914)]]

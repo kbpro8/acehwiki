@@ -14,7 +14,7 @@ The designation **ex-pretendent Sultan van Atjeh** — ex-pretender Sultan of At
 
 ## Capture and exile
 
-The Doorman article records the **gevangeneming** — the capture — of Mohammad Dawat, and the circumstance of his subsequent exile. The duration of the exile — thirty-two years, ending with his death on [[7 February]] [[1939]] — places the beginning of the exile in [[1907]]. The year [[1907]] was a pivotal one in the late Atjeh-oorlog: it was the year of the [[Atjéh-enquête|Atjéh-enquête]] — the formal inquiry into the governorship of [[G. C. E. van Daalen|van Daalen]] — and of the [[1907-1908-aceh-resistance|1907–1908 flare-up of resistance]] that van Daalen's harsh policies had provoked. The capture and banishment of the pretender Sultan in that year suggests that the Dutch response to the late-war resistance included the removal of the royalist figurehead around whom the resistance might have coalesced, and that Mohammad Dawat's exile was part of the consolidation of Dutch authority in the closing phase of the Atjeh-oorlog.
+The Doorman article records the **gevangeneming** — the capture — of Mohammad Dawat, and the circumstance of his subsequent exile. The duration of the exile — thirty-two years, ending with his death on [[7 February]] [[1939]] — places the beginning of the exile in [[1907]]. The year [[1907]] was a pivotal one in the late Atjeh-oorlog: it was the year of the [[Atjéh-enquête|Atjéh-enquête]] — the formal inquiry into the governorship of [[Gotfried Coenraad Ernst van Daalen|van Daalen]] — and of the [[1907-1908-aceh-resistance|1907–1908 flare-up of resistance]] that van Daalen's harsh policies had provoked. The capture and banishment of the pretender Sultan in that year suggests that the Dutch response to the late-war resistance included the removal of the royalist figurehead around whom the resistance might have coalesced, and that Mohammad Dawat's exile was part of the consolidation of Dutch authority in the closing phase of the Atjeh-oorlog.
 
 The place of exile — [[Mr.-Cornelis|Meester-Cornelis]], a suburb of [[Batavia|Batavia]] — was the standard destination for political exiles from the outer possessions of the Netherlands Indies, and the choice of Meester-Cornelis rather than a remoter place of internment indicates that Mohammad Dawat was held under the relatively lenient conditions of suburban Batavian exile rather than under the harsher conditions of a prison or a remote island.
 
@@ -37,7 +37,7 @@ For AcehWiki, Toeanangkoe Mohammad Dawat is significant as the last Atjehnese pr
 - [[Aceh War]]
 - [[Atjéh-enquête]]
 - [[1907-1908-aceh-resistance]]
-- [[G. C. E. van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[Koeta Radja]]
 - [[Mr.-Cornelis]]
 - [[Jatinegara]]

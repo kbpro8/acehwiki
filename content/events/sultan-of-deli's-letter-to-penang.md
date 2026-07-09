@@ -4,11 +4,11 @@ aliases: [Deli letter 27 August 1824, Sultan of Deli to Fullerton 27 August 1824
 tags: [event, correspondence, diplomacy, malay, colonial]
 ---
 
-The **Sultan of Deli's letter to Penang of [[27 August]] [[1824]]** — printed by P. H. [[P. H. van der Kemp|Van der Kemp]] as Appendix 6 to his 1900 study — is the despatch by which the [[Sultan of Deli]] introduced himself to the newly appointed Governor of [[Penang]], [[Robert Fullerton|Robert Fullerton]], informed him of his adoption of [[Said Akil]] (son of the Penang trader [[Said Hussein]]) as a son, and begged British help against the in-pressing [[Padri War on Sumatra's East Coast|Padries (Rinchis)]]. The letter is an important document both for the early history of the [[Padri War on Sumatra's East Coast|Padri movement]] on Sumatra's East Coast and for the origin of the [[Said Akil's Deli adventure (1824-1828)|Deli affair]], and is reproduced by Van der Kemp from the Binkhorst collection of correspondence.
+The **Sultan of Deli's letter to Penang of [[27 August]] [[1824]]** — printed by P. H. [[P. H. van der Kemp|Van der Kemp]] as Appendix 6 to his 1900 study — is the despatch by which the [[Sultan of Deli]] introduced himself to the newly appointed Governor of [[Penang]], [[Robert Fullerton|Robert Fullerton]], informed him of his adoption of [[Said Akil]] (son of the Penang trader [[Said Hussein]]) as a son, and begged British help against the in-pressing [[Padri War|Padries (Rinchis)]]. The letter is an important document both for the early history of the [[Padri War|Padri movement]] on Sumatra's East Coast and for the origin of the [[Said Akil's Deli adventure (1824-1828)|Deli affair]], and is reproduced by Van der Kemp from the Binkhorst collection of correspondence.
 
 ## Context
 
-The Sultan of [[Deli]] had been on terms of friendship with the previous Governor of [[Penang]], [[W. E. Phillips|W. E. Phillips]], and was distressed to learn that Phillips was about to return to Europe. He therefore addressed himself to the new Governor, [[Robert Fullerton|Fullerton]], "in order that the friendly intercourse between Delli and Pulo Penang may not be interrupted." The letter is dated [[27 August]] [[1824]] — some five months after the signing of the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch treaty of 17 March 1824]] by which Britain had withdrawn from all political connection with [[Sumatra]] and recognised Dutch supremacy over the island.
+The Sultan of [[Deli]] had been on terms of friendship with the previous Governor of [[Penang]], [[W. E. Phillips|W. E. Phillips]], and was distressed to learn that Phillips was about to return to Europe. He therefore addressed himself to the new Governor, [[Robert Fullerton|Fullerton]], "in order that the friendly intercourse between Delli and Pulo Penang may not be interrupted." The letter is dated [[27 August]] [[1824]] — some five months after the signing of the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch treaty of 17 March 1824]] by which Britain had withdrawn from all political connection with [[Sumatra]] and recognised Dutch supremacy over the island.
 
 ## The Padri threat
 
@@ -24,7 +24,7 @@ The letter concluded with a token gift: "I have nothing to offer my friend as a 
 
 ## Significance
 
-Van der Kemp drew attention to the letter as evidence of two things. First, it shows the extent of the [[Padri War on Sumatra's East Coast|Padri]] advance by mid-[[1824]], confirming that the Rinchis had already reduced [[Tanah Putih]], [[Balah]] and [[Panei]] and were menacing [[Batu Bara]] and [[Deli]] — a situation that would within a few years draw the Dutch into the wars on Sumatra's East Coast. Second, it establishes that the adoption of [[Said Akil]] by the Sultan of [[Deli]] was already a matter of record at Penang before Fullerton's accession, and that the British government cannot subsequently have pleaded ignorance of Akil's status at Deli when its remonstrances of [[1826]] and [[1828]] were issued. The letter is also one of the earliest pieces of correspondence between the new Governor Fullerton and a Malay ruler, foreshadowing the close attention to Sumatran affairs that would mark his [[Fullerton's minute on Acheh (21 March 1825)|minute on Acheh]] of March [[1825]] and his later [[Pinang Nota (1825)|Pinang Nota]].
+Van der Kemp drew attention to the letter as evidence of two things. First, it shows the extent of the [[Padri War|Padri]] advance by mid-[[1824]], confirming that the Rinchis had already reduced [[Tanah Putih]], [[Balah]] and [[Panei]] and were menacing [[Batu Bara]] and [[Deli]] — a situation that would within a few years draw the Dutch into the wars on Sumatra's East Coast. Second, it establishes that the adoption of [[Said Akil]] by the Sultan of [[Deli]] was already a matter of record at Penang before Fullerton's accession, and that the British government cannot subsequently have pleaded ignorance of Akil's status at Deli when its remonstrances of [[1826]] and [[1828]] were issued. The letter is also one of the earliest pieces of correspondence between the new Governor Fullerton and a Malay ruler, foreshadowing the close attention to Sumatran affairs that would mark his [[Fullerton's minute on Acheh (21 March 1825)|minute on Acheh]] of March [[1825]] and his later [[Pinang Nota (1825)|Pinang Nota]].
 
 ## Note on a further reference in van der Woude's *Coen* biography
 
@@ -38,10 +38,10 @@ Johan van der Woude's 1948 biography of Jan Pieterszoon Coen, in a footnote (p. 
 - [[Said Akil]]
 - [[Said Hussein]]
 - [[Said Akil's Deli adventure (1824-1828)]]
-- [[Padri War on Sumatra's East Coast]]
+- [[Padri War|Padri War on Sumatra's East Coast]]
 - [[Fullerton's minute on Acheh (21 March 1825)]]
 - [[Pinang Nota (1825)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Deli Sultanate]]
 - [[British East India Company]]
 

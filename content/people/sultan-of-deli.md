@@ -5,11 +5,11 @@ aliases: [sultan of Delli, Deli Sultan]
 tags: [person, sultan, malay]
 ---
 
-The **Sultan of Deli** (also written *sultan of Delli*) was the ruler of the Malay state of [[Deli]] on [[Sumatra's East Coast]] in the early 1820s. He is known chiefly through two letters preserved in the Roosegaarde Bisschop collection and printed by Van der Kemp: a letter of [[27 August]] [[1824]] to the Governor of [[Penang]] (Appendix 6), in which he sought British help against the [[Padri War on Sumatra's East Coast|Padries]] and announced his adoption of [[Said Akil]] as his son; and the subsequent correspondence, in [[1826]]–[[1828]], in which his young successor was reduced to a cipher by the very man the old Sultan had adopted.
+The **Sultan of Deli** (also written *sultan of Delli*) was the ruler of the Malay state of [[Deli]] on [[Sumatra's East Coast]] in the early 1820s. He is known chiefly through two letters preserved in the Roosegaarde Bisschop collection and printed by Van der Kemp: a letter of [[27 August]] [[1824]] to the Governor of [[Penang]] (Appendix 6), in which he sought British help against the [[Padri War|Padries]] and announced his adoption of [[Said Akil]] as his son; and the subsequent correspondence, in [[1826]]–[[1828]], in which his young successor was reduced to a cipher by the very man the old Sultan had adopted.
 
 ## The 1824 letter to Governor Phillips
 
-In his letter of [[27 August]] [[1824]] to [[W. E. Phillips|Governor Phillips]] of Penang, the Sultan of Deli introduced his request for help against the [[Padri War on Sumatra's East Coast|Padries]] — the religious reformers then overrunning [[Sumatra's East Coast]] — and at the same time made known his adoption of [[Said Akil]]. The Padries, he wrote, "have determined to attack all the different states and render them tributary ... none of us Rajahs in this quarter will consent to obey them". He reported that [[Tanah Putih]], [[Balah]] and [[Panei]] had already been reduced, and that the Padries had expressed their determination to attack [[Batu Bara]] and Deli. The Sultan protested his friendship with the British and asked how he might "obtain assistance" from Penang.
+In his letter of [[27 August]] [[1824]] to [[W. E. Phillips|Governor Phillips]] of Penang, the Sultan of Deli introduced his request for help against the [[Padri War|Padries]] — the religious reformers then overrunning [[Sumatra's East Coast]] — and at the same time made known his adoption of [[Said Akil]]. The Padries, he wrote, "have determined to attack all the different states and render them tributary ... none of us Rajahs in this quarter will consent to obey them". He reported that [[Tanah Putih]], [[Balah]] and [[Panei]] had already been reduced, and that the Padries had expressed their determination to attack [[Batu Bara]] and Deli. The Sultan protested his friendship with the British and asked how he might "obtain assistance" from Penang.
 
 In the same letter, almost as an aside, he wrote:
 
@@ -23,7 +23,7 @@ When the old Sultan died, he was succeeded by his son, described by Van der Kemp
 
 ## A cipher under Akil's domination (1826-1828)
 
-Through the years [[1826]]–[[1828]] the young Sultan appears in the Penang correspondence as a mere cipher. When, in October [[1826]], the [[Sultan Alaeddin Muhammad Shah of Acheh|Sultan of Acheh]] complained to the Governor of Penang of Said Akil's activities in Deli as a violation of the [[Acheh treaty of 1819|treaty of 1819]], it was Akil — not the Sultan of Deli — who answered the British. When [[John Anderson|Anderson]] again wrote on [[2 November]] [[1826]] requiring Akil's return to Penang, the young Sultan's voice was still not heard. By early [[1828]] the [[Shahbandar of Deli]] was writing directly to Penang begging for deliverance from the "robber Said Akil". When, at last, the Sultan's letter does reappear in the correspondence, it is, "probably always on dictation of Said", to dismiss the complaints as "all lies and slander". The Sultan of Deli thus survived his adoptive brother only to be reduced by him.
+Through the years [[1826]]–[[1828]] the young Sultan appears in the Penang correspondence as a mere cipher. When, in October [[1826]], the [[Sultan Alaeddin Muhammad Shah of Acheh|Sultan of Acheh]] complained to the Governor of Penang of Said Akil's activities in Deli as a violation of the [[Treaty of Pedir (1819)|treaty of 1819]], it was Akil — not the Sultan of Deli — who answered the British. When [[John Anderson|Anderson]] again wrote on [[2 November]] [[1826]] requiring Akil's return to Penang, the young Sultan's voice was still not heard. By early [[1828]] the [[Shahbandar of Deli]] was writing directly to Penang begging for deliverance from the "robber Said Akil". When, at last, the Sultan's letter does reappear in the correspondence, it is, "probably always on dictation of Said", to dismiss the complaints as "all lies and slander". The Sultan of Deli thus survived his adoptive brother only to be reduced by him.
 
 ## See Also
 
@@ -39,10 +39,10 @@ Through the years [[1826]]–[[1828]] the young Sultan appears in the Penang cor
 - [[Panei]]
 - [[Tanah Putih]]
 - [[Balah]]
-- [[Padri War on Sumatra's East Coast]]
+- [[Padri War|Padri War on Sumatra's East Coast]]
 - [[Sultan of Deli's letter to Penang]]
 - [[Said Akil's Deli adventure (1824-1828)]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 
 ## Source
 
@@ -50,11 +50,11 @@ Through the years [[1826]]–[[1828]] the young Sultan appears in the Penang cor
 ---
 
 
-The **Sultan of Deli** (also written *sultan of Delli*) was the ruler of the Malay state of [[Deli]] on [[Sumatra's East Coast]] in the early 1820s. He is known chiefly through two letters preserved in the Roosegaarde Bisschop collection and printed by Van der Kemp: a letter of [[27 August]] [[1824]] to the Governor of [[Penang]] (Appendix 6), in which he sought British help against the [[Padri War on Sumatra's East Coast|Padries]] and announced his adoption of [[Said Akil]] as his son; and the subsequent correspondence, in [[1826]]–[[1828]], in which his young successor was reduced to a cipher by the very man the old Sultan had adopted.
+The **Sultan of Deli** (also written *sultan of Delli*) was the ruler of the Malay state of [[Deli]] on [[Sumatra's East Coast]] in the early 1820s. He is known chiefly through two letters preserved in the Roosegaarde Bisschop collection and printed by Van der Kemp: a letter of [[27 August]] [[1824]] to the Governor of [[Penang]] (Appendix 6), in which he sought British help against the [[Padri War|Padries]] and announced his adoption of [[Said Akil]] as his son; and the subsequent correspondence, in [[1826]]–[[1828]], in which his young successor was reduced to a cipher by the very man the old Sultan had adopted.
 
 ## The 1824 letter to Governor Phillips
 
-In his letter of [[27 August]] [[1824]] to [[W. E. Phillips|Governor Phillips]] of Penang, the Sultan of Deli introduced his request for help against the [[Padri War on Sumatra's East Coast|Padries]] — the religious reformers then overrunning [[Sumatra's East Coast]] — and at the same time made known his adoption of [[Said Akil]]. The Padries, he wrote, "have determined to attack all the different states and render them tributary ... none of us Rajahs in this quarter will consent to obey them". He reported that [[Tanah Putih]], [[Balah]] and [[Panei]] had already been reduced, and that the Padries had expressed their determination to attack [[Batu Bara]] and Deli. The Sultan protested his friendship with the British and asked how he might "obtain assistance" from Penang.
+In his letter of [[27 August]] [[1824]] to [[W. E. Phillips|Governor Phillips]] of Penang, the Sultan of Deli introduced his request for help against the [[Padri War|Padries]] — the religious reformers then overrunning [[Sumatra's East Coast]] — and at the same time made known his adoption of [[Said Akil]]. The Padries, he wrote, "have determined to attack all the different states and render them tributary ... none of us Rajahs in this quarter will consent to obey them". He reported that [[Tanah Putih]], [[Balah]] and [[Panei]] had already been reduced, and that the Padries had expressed their determination to attack [[Batu Bara]] and Deli. The Sultan protested his friendship with the British and asked how he might "obtain assistance" from Penang.
 
 In the same letter, almost as an aside, he wrote:
 
@@ -68,7 +68,7 @@ When the old Sultan died, he was succeeded by his son, described by Van der Kemp
 
 ## A cipher under Akil's domination (1826-1828)
 
-Through the years [[1826]]–[[1828]] the young Sultan appears in the Penang correspondence as a mere cipher. When, in October [[1826]], the [[Sultan Alaeddin Muhammad Shah of Acheh|Sultan of Acheh]] complained to the Governor of Penang of Said Akil's activities in Deli as a violation of the [[Acheh treaty of 1819|treaty of 1819]], it was Akil — not the Sultan of Deli — who answered the British. When [[John Anderson|Anderson]] again wrote on [[2 November]] [[1826]] requiring Akil's return to Penang, the young Sultan's voice was still not heard. By early [[1828]] the [[Shahbandar of Deli]] was writing directly to Penang begging for deliverance from the "robber Said Akil". When, at last, the Sultan's letter does reappear in the correspondence, it is, "probably always on dictation of Said", to dismiss the complaints as "all lies and slander". The Sultan of Deli thus survived his adoptive brother only to be reduced by him.
+Through the years [[1826]]–[[1828]] the young Sultan appears in the Penang correspondence as a mere cipher. When, in October [[1826]], the [[Sultan Alaeddin Muhammad Shah of Acheh|Sultan of Acheh]] complained to the Governor of Penang of Said Akil's activities in Deli as a violation of the [[Treaty of Pedir (1819)|treaty of 1819]], it was Akil — not the Sultan of Deli — who answered the British. When [[John Anderson|Anderson]] again wrote on [[2 November]] [[1826]] requiring Akil's return to Penang, the young Sultan's voice was still not heard. By early [[1828]] the [[Shahbandar of Deli]] was writing directly to Penang begging for deliverance from the "robber Said Akil". When, at last, the Sultan's letter does reappear in the correspondence, it is, "probably always on dictation of Said", to dismiss the complaints as "all lies and slander". The Sultan of Deli thus survived his adoptive brother only to be reduced by him.
 
 ## See Also
 
@@ -84,10 +84,10 @@ Through the years [[1826]]–[[1828]] the young Sultan appears in the Penang cor
 - [[Panei]]
 - [[Tanah Putih]]
 - [[Balah]]
-- [[Padri War on Sumatra's East Coast]]
+- [[Padri War|Padri War on Sumatra's East Coast]]
 - [[Sultan of Deli's letter to Penang]]
 - [[Said Akil's Deli adventure (1824-1828)]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 
 ## Source
 

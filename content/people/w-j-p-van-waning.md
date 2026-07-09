@@ -21,7 +21,7 @@ Van Waning’s leadership illustrates the integration of naval firepower into 
 - [[Batavia (ship)]]
 - [[Selimoen-colonne]]
 - [[Aceh War]]
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Pedir (place)]]
 
 ## Source

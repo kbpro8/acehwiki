@@ -4,7 +4,7 @@ aliases: ["Z.M. Willem III", "King William III", "Willem III", "King William III
 tags: [person, monarch, netherlands, dutch, colonial]
 ---
 
-**King William III of the Netherlands** (Z.M. Willem III) was the reigning monarch of the **[[Netherlands]]** during the late‑nineteenth‑century Aceh campaign. His reign is marked by two distinct royal interventions in the colonial military sphere: the issuance of a **loyalty certificate** to Dutch troops on [[15 January]] [[1876]] as they prepared to advance through the **Blang Kala** pass, and the unprecedented appointment of **[[F. A. van Braam Houckgeest|Colonel van Braam Houckgeest]]** as **adjutant** to the **[[Dutch Marine Corps|Korps Mariniers]]** in [[November]] [[1882]]. Both actions illustrate the direct involvement of the Dutch crown in supporting and legitimising the military effort in **[[Atjeh]]**.
+**King William III of the Netherlands** (Z.M. Willem III) was the reigning monarch of the **[[Netherlands]]** during the late‑nineteenth‑century Aceh campaign. His reign is marked by two distinct royal interventions in the colonial military sphere: the issuance of a **loyalty certificate** to Dutch troops on [[15 January]] [[1876]] as they prepared to advance through the **Blang Kala** pass, and the unprecedented appointment of **[[F. A. van Braam Houckgeest|Colonel van Braam Houckgeest]]** as **adjutant** to the **[[Royal Netherlands Marine Corps|Korps Mariniers]]** in [[November]] [[1882]]. Both actions illustrate the direct involvement of the Dutch crown in supporting and legitimising the military effort in **[[Atjeh]]**.
 
 ## Royal Intervention in the Aceh Campaign (1876)
 
@@ -12,7 +12,7 @@ On [[15 January]] [[1876]] King William III issued a **loyalty certificate** (ee
 
 ## Appointment of an Adjutant (1882)
 
-In [[November]] [[1882]] the king granted the honorary title of **adjutant** (adjudant) to **[[F. A. van Braam Houckgeest|Colonel van Braam Houckgeest]]**, a senior officer of the **[[Dutch Marine Corps|Korps Mariniers]]**. This was the first and only occasion on which such an honour was bestowed upon a marine officer, reflecting royal support for the marine corps during a period of intense colonial campaigning in Atjeh.
+In [[November]] [[1882]] the king granted the honorary title of **adjutant** (adjudant) to **[[F. A. van Braam Houckgeest|Colonel van Braam Houckgeest]]**, a senior officer of the **[[Royal Netherlands Marine Corps|Korps Mariniers]]**. This was the first and only occasion on which such an honour was bestowed upon a marine officer, reflecting royal support for the marine corps during a period of intense colonial campaigning in Atjeh.
 
 ## Significance
 
@@ -20,11 +20,11 @@ The two royal acts underscore the personal stake of the Dutch monarchy in the Ac
 
 ## See Also
 
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 - [[Blang Kala]]
 - [[Aceh War]]
 - [[Dutch Colonial Empire]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[F. A. van Braam Houckgeest]]
 
 ## Source

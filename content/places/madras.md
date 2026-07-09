@@ -20,7 +20,7 @@ The Klings of Madras and the rest of southern India are described as forming a p
 
 Van der Kemp introduces Bannerman as "no inconsiderable personality, a man whose heart was in the right place. As an officer he had behind him in Madras a meritorious military and political career, before he became a Member of Parliament and thereafter, for many years, an excellent member of the direction of the East India Company in London." On the death of [[Governor Petrie|Governor Petrie]] at Penang, Bannerman stepped in as governor and "fell, as such, in the middle of the Achehnese questions that were unfamiliar to him." The Madras background thus forms part of Van der Kemp's rehabilitation of Bannerman against the aspersions cast upon him by Raffles's partisans; the Colonel is shown to have been a man of substance and experience, not the dullard of Rafflesian polemic.
 
-Madras otherwise plays no direct part in the events of the [[Acheh treaty of 1819|Acheh treaty of 1819]], the [[Raffles-Coombs Acheh Commission (1819)|Raffles-Coombs commission]] having been dispatched from [[Calcutta]] — the capital of the [[Bengal|Bengal presidency]] — and not from Madras.
+Madras otherwise plays no direct part in the events of the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]], the [[Raffles-Coombs Acheh Commission (1819)|Raffles-Coombs commission]] having been dispatched from [[Calcutta]] — the capital of the [[Bengal|Bengal presidency]] — and not from Madras.
 
 
 ## See Also

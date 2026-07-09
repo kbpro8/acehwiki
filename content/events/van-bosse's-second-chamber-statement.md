@@ -4,7 +4,7 @@ aliases: [Van Bosse statement 17 January 1872, Second Chamber speech on Sumatra 
 tags: [event, correspondence, colonial, anglo-dutch, diplomacy]
 ---
 
-**Van Bosse's Second Chamber statement of [[17 January 1872|17 January 1872]]** is the declaration made by the Dutch minister of Colonies, Van Bosse, in the Second Chamber of the States-General during the debate on the ratification of the [[Sumatra Treaty of 1871|Sumatra Treaty of 1871]]. It is the most explicit ministerial acknowledgement, recorded in the parliamentary *Handelingen*, that the protracted Anglo-Dutch conflict over [[Sumatra|Sumatra]] had arisen out of Article 3 of the [[Anglo-Dutch Treaty of London (1824)|Treaty of 17 March 1824]], and that the conflict had been aggravated by the original Dutch mistake in accepting the Acheh reservation.
+**Van Bosse's Second Chamber statement of [[17 January 1872|17 January 1872]]** is the declaration made by the Dutch minister of Colonies, Van Bosse, in the Second Chamber of the States-General during the debate on the ratification of the [[Sumatra Treaty of 1871|Sumatra Treaty of 1871]]. It is the most explicit ministerial acknowledgement, recorded in the parliamentary *Handelingen*, that the protracted Anglo-Dutch conflict over [[Sumatra|Sumatra]] had arisen out of Article 3 of the [[Anglo-Dutch Treaty of 1824|Treaty of 17 March 1824]], and that the conflict had been aggravated by the original Dutch mistake in accepting the Acheh reservation.
 
 ## The Statement
 
@@ -12,7 +12,7 @@ Speaking on [[17 January 1872|17 January 1872]], Van Bosse declared — as Van d
 
 ## Context
 
-The statement was made in the debate on the ratification of the [[Sumatra Treaty of 1871|Sumatra Treaty of 1871]], by which Britain had at last renounced all remonstrances against the extension of Dutch authority on Sumatra and had relinquished the Acheh reservation attached to the [[Anglo-Dutch Treaty of London (1824)|Treaty of 1824]]. The Sumatra Treaty had been negotiated in London by the ministers [[Gericke|Gericke]] and Van Bosse; and a separate convention of the same year had transferred the Dutch possessions on the [[Cape of Guinea|Cape of Guinea]] to Britain (see [[Cape of Guinea cession (1871)|Cape of Guinea cession (1871)]]). The two treaties together were now presented to the States-General for ratification.
+The statement was made in the debate on the ratification of the [[Sumatra Treaty of 1871|Sumatra Treaty of 1871]], by which Britain had at last renounced all remonstrances against the extension of Dutch authority on Sumatra and had relinquished the Acheh reservation attached to the [[Anglo-Dutch Treaty of 1824|Treaty of 1824]]. The Sumatra Treaty had been negotiated in London by the ministers [[Gericke|Gericke]] and Van Bosse; and a separate convention of the same year had transferred the Dutch possessions on the [[Cape of Guinea|Cape of Guinea]] to Britain (see [[Dutch Gold Coast cession|Dutch Gold Coast cession]]). The two treaties together were now presented to the States-General for ratification.
 
 Van Bosse's statement is, in effect, the ministerial commentary on the diplomatic history that Van der Kemp reconstructs in the body of his article. The conflict over Sumatra, the minister acknowledged, had flowed from Article 3 — the article by which the High Contracting Parties promised that no treaty henceforth made by either with any native state in the Eastern seas should contain any article tending, directly or by unequal duties, to exclude the commerce of the other party. From this article Britain had derived, and could derive, "certain rights" — namely the right to remonstrate against any Dutch extension on Sumatra that might be construed as impairing British commercial freedom. The Acheh reservation, by which Britain had bound the Netherlands to respect Achehnese independence, had served as the standing proof that Dutch supremacy over the whole island had not been recognised in [[1824]].
 
@@ -23,9 +23,9 @@ Van der Kemp introduces Van Bosse's statement at the close of his discussion of 
 ## See Also
 
 - [[Sumatra Treaty of 1871]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Article 6 controversy]]
-- [[Cape of Guinea cession (1871)]]
+- [[Dutch Gold Coast cession|Cape of Guinea cession (1871)]]
 - [[E. de Waal]]
 - [[Gericke]]
 - [[Acheh]]

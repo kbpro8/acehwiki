@@ -16,7 +16,7 @@ His award of the **Militaire Willemsorde 4e klasse** reflects Dutch recognition 
 ## See Also
 
 - [[Militaire Willemsorde]]
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Redoute (fortification)]]
 - [[Colonel Van de Pol]]
 

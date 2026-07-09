@@ -5,11 +5,11 @@ aliases: [Smulders, C. L. Smulders]
 tags: [person, scholar, dutch-historian]
 ---
 
-**Smulders** was the author of a Dutch *dissertatie* (doctoral dissertation) on the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch treaty of 17 March 1824]], which is cited twice by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph. Although Van der Kemp concedes that Smulders's dissertation is "otherwise good," he takes it to task for having perpetuated the standard Dutch misreading of Article 6 of the [[Acheh treaty of 1819|Raffles–Coombs convention]] of April 1819.
+**Smulders** was the author of a Dutch *dissertatie* (doctoral dissertation) on the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch treaty of 17 March 1824]], which is cited twice by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph. Although Van der Kemp concedes that Smulders's dissertation is "otherwise good," he takes it to task for having perpetuated the standard Dutch misreading of Article 6 of the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] of April 1819.
 
 ## The Dissertation on the Treaty of 1824
 
-Smulders's dissertation, devoted to the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]], was one of the standard Dutch monographs on the subject at the end of the nineteenth century. It included the full text of the Acheh convention of April 1819 as printed by [[John Anderson|Anderson]] (p. 218) and by Smulders himself (p. 163). Van der Kemp cites this dual printing of the Acheh treaty on his sixteenth page, and uses Smulders's collation of the text as a bibliographical anchor for his own discussion of the convention's provisions. Smulders's treatise is also enumerated by Van der Kemp, alongside the *Bijdragen* of Van Hogendorp, of [[Elout|Elout]], of [[E. de Waal|E. de Waal]], of [[J. J. Meinsma|Meinsma]], and of J. E. de Sturler, as one of the principal printed collections in which the Anglo-Dutch notes exchanged at the treaty table of 1824 may be consulted.
+Smulders's dissertation, devoted to the [[Anglo-Dutch Treaty of 1824|treaty of 1824]], was one of the standard Dutch monographs on the subject at the end of the nineteenth century. It included the full text of the Acheh convention of April 1819 as printed by [[John Anderson|Anderson]] (p. 218) and by Smulders himself (p. 163). Van der Kemp cites this dual printing of the Acheh treaty on his sixteenth page, and uses Smulders's collation of the text as a bibliographical anchor for his own discussion of the convention's provisions. Smulders's treatise is also enumerated by Van der Kemp, alongside the *Bijdragen* of Van Hogendorp, of [[Elout|Elout]], of [[E. de Waal|E. de Waal]], of [[J. J. Meinsma|Meinsma]], and of J. E. de Sturler, as one of the principal printed collections in which the Anglo-Dutch notes exchanged at the treaty table of 1824 may be consulted.
 
 ## The Misreading of Article 6
 
@@ -25,8 +25,8 @@ Van der Kemp's treatment of Smulders is relatively generous. Of all the historia
 - [[J. J. Meinsma]]
 - [[J. H. P. E. Kniphorst]]
 - [[John Anderson]]
-- [[Acheh treaty of 1819]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[E. de Waal]]
 - [[P. H. van der Kemp]]
 
@@ -36,11 +36,11 @@ Van der Kemp's treatment of Smulders is relatively generous. Of all the historia
 ---
 
 
-**Smulders** was the author of a Dutch *dissertatie* (doctoral dissertation) on the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch treaty of 17 March 1824]], which is cited twice by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph. Although Van der Kemp concedes that Smulders's dissertation is "otherwise good," he takes it to task for having perpetuated the standard Dutch misreading of Article 6 of the [[Acheh treaty of 1819|Raffles–Coombs convention]] of April 1819.
+**Smulders** was the author of a Dutch *dissertatie* (doctoral dissertation) on the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch treaty of 17 March 1824]], which is cited twice by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph. Although Van der Kemp concedes that Smulders's dissertation is "otherwise good," he takes it to task for having perpetuated the standard Dutch misreading of Article 6 of the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] of April 1819.
 
 ## The Dissertation on the Treaty of 1824
 
-Smulders's dissertation, devoted to the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]], was one of the standard Dutch monographs on the subject at the end of the nineteenth century. It included the full text of the Acheh convention of April 1819 as printed by [[John Anderson|Anderson]] (p. 218) and by Smulders himself (p. 163). Van der Kemp cites this dual printing of the Acheh treaty on his sixteenth page, and uses Smulders's collation of the text as a bibliographical anchor for his own discussion of the convention's provisions. Smulders's treatise is also enumerated by Van der Kemp, alongside the *Bijdragen* of Van Hogendorp, of [[Elout|Elout]], of [[E. de Waal|E. de Waal]], of [[J. J. Meinsma|Meinsma]], and of J. E. de Sturler, as one of the principal printed collections in which the Anglo-Dutch notes exchanged at the treaty table of 1824 may be consulted.
+Smulders's dissertation, devoted to the [[Anglo-Dutch Treaty of 1824|treaty of 1824]], was one of the standard Dutch monographs on the subject at the end of the nineteenth century. It included the full text of the Acheh convention of April 1819 as printed by [[John Anderson|Anderson]] (p. 218) and by Smulders himself (p. 163). Van der Kemp cites this dual printing of the Acheh treaty on his sixteenth page, and uses Smulders's collation of the text as a bibliographical anchor for his own discussion of the convention's provisions. Smulders's treatise is also enumerated by Van der Kemp, alongside the *Bijdragen* of Van Hogendorp, of [[Elout|Elout]], of [[E. de Waal|E. de Waal]], of [[J. J. Meinsma|Meinsma]], and of J. E. de Sturler, as one of the principal printed collections in which the Anglo-Dutch notes exchanged at the treaty table of 1824 may be consulted.
 
 ## The Misreading of Article 6
 
@@ -56,8 +56,8 @@ Van der Kemp's treatment of Smulders is relatively generous. Of all the historia
 - [[J. J. Meinsma]]
 - [[J. H. P. E. Kniphorst]]
 - [[John Anderson]]
-- [[Acheh treaty of 1819]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[E. de Waal]]
 - [[P. H. van der Kemp]]
 

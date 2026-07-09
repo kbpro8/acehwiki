@@ -8,7 +8,7 @@ tags: [person, dutch, explorer, colonial, voc, scholar, 16th-century, 17th-centu
 
 ## The De Moucheron expedition of 1598
 
-The South-Netherlander of French descent [[Balthazar de Moucheron|Balthazar de Moucheron]], trusting the experience of the [[Cornelis de Houtman|De Houtman]] brothers, took them into his service on a fleet of two ships, with the English pilot [[John Davis|John Davis]] serving as pilot "om in opdracht van den Graaf van Essex spionnenwerk te verrichten" — to do spy-work on behalf of the Earl of Essex. Stapel records that the fleet was dispatched on [[11 March]] [[1598]] under Cornelis and Frederik de Houtman and [[Guyon Lefort|Guyon Lefort]], and that "the voyage went west of [[Madagascar]] via the [[Comoren|Comoros]] and [[Maladiven|Maldives]] to Atjeh, where one arrived in June '99" (*De reis ging bewesten Madagascar via de Comoren en Maladiven naar Atjeh, waar men in Juni '99 aankwam*). The voyage to the Indies took fifteen months. The Madagascar population fled at the reappearance of the rough Dutchmen. When at length the fleet reached Atjeh in June [[1599]], the good understanding with the Sultan lasted only briefly.
+The South-Netherlander of French descent [[Balthasar de Moucheron|Balthasar de Moucheron]], trusting the experience of the [[Cornelis de Houtman|De Houtman]] brothers, took them into his service on a fleet of two ships, with the English pilot [[John Davis|John Davis]] serving as pilot "om in opdracht van den Graaf van Essex spionnenwerk te verrichten" — to do spy-work on behalf of the Earl of Essex. Stapel records that the fleet was dispatched on [[11 March]] [[1598]] under Cornelis and Frederik de Houtman and [[Guyon Lefort|Guyon Lefort]], and that "the voyage went west of [[Madagascar]] via the [[Comoren|Comoros]] and [[Maladiven|Maldives]] to Atjeh, where one arrived in June '99" (*De reis ging bewesten Madagascar via de Comoren en Maladiven naar Atjeh, waar men in Juni '99 aankwam*). The voyage to the Indies took fifteen months. The Madagascar population fled at the reappearance of the rough Dutchmen. When at length the fleet reached Atjeh in June [[1599]], the good understanding with the Sultan lasted only briefly.
 
 ## The Atjeh disaster of 1599
 
@@ -38,17 +38,17 @@ In his twenty-six months in Atjeh, De Houtman also observed the southern sky and
 
 ## The Leroy release of August 1601
 
-The release of the Houtman party came in August [[1601]] through the unrelated arrival of [[Gerard Leroy|Gerard Leroy]], dispatched by the *Middelburgsche Compagnie* of [[Adriaen Hendriksz ten Haeff|Adriaen Hendriksz ten Haeff]] in January [[1601]] with four ships. By then the political wind at the Acehnese court had shifted. Stapel records that "meanwhile the Atjehers and Portuguese had fallen into enmity, so that when in August '01 Gerard Leroy … here put in, Frederik de H[outman] and his men were set at liberty, even before a corresponding letter from Prince [[Maurits van Oranje|Maurits]] to the prince had been presented" (*Intusschen geraakten de Atjehers en Portugeezen in vijandschap, zoodat toen in Aug. '01 Gerard Leroy … hier aanliep, Frederik de H. en de zijnen in vrijheid werden gesteld, nog vóór een desbetreffend schrijven van Prins Maurits aan den vorst was overhandigd*). The release preceded the formal delivery of Prince Maurits's letter — a detail that suggests the sultan was already inclined to release the Dutch before the formal diplomatic cover arrived.
+The release of the Houtman party came in August [[1601]] through the unrelated arrival of [[Gerard le Roy|Gerard le Roy]], dispatched by the *Middelburgsche Compagnie* of [[Adriaen Hendriksz ten Haeff|Adriaen Hendriksz ten Haeff]] in January [[1601]] with four ships. By then the political wind at the Acehnese court had shifted. Stapel records that "meanwhile the Atjehers and Portuguese had fallen into enmity, so that when in August '01 Gerard Leroy … here put in, Frederik de H[outman] and his men were set at liberty, even before a corresponding letter from Prince [[Maurits van Oranje|Maurits]] to the prince had been presented" (*Intusschen geraakten de Atjehers en Portugeezen in vijandschap, zoodat toen in Aug. '01 Gerard Leroy … hier aanliep, Frederik de H. en de zijnen in vrijheid werden gesteld, nog vóór een desbetreffend schrijven van Prins Maurits aan den vorst was overhandigd*). The release preceded the formal delivery of Prince Maurits's letter — a detail that suggests the sultan was already inclined to release the Dutch before the formal diplomatic cover arrived.
 
 Stapel also records that on [[28 August]] [[1601]] the Dutch were "permitted to establish a factory (*factorij*) here, and Atjehsche envoys, provided with gifts and letters to the Prince, were sent along with two of the ships, which with a full cargo of pepper departed directly from here to Holland" (*28 werd hen toegestaan hier een factorij te stichten en werden Atjehsche gezanten, voorzien van geschenken en brieven aan den Prins, met 2 der schepen, die met een volle lading peper rechtstreeks van hier naar Holland vertrokken, medegegeven*). The first cargo of Acehnese pepper in Dutch hulls was the modest commercial seed of what would, after the [[Vereenigde Oost-Indische Compagnie|Compagnie]]'s founding in [[1602]], grow into the great Dutch pepper trade of the [[Westkust van Sumatra|Westkust]].
 
-The ships that had departed Atjeh in [[1599]] made for [[Pedir]], where they beat off an Atjehnese naval attack; they then touched at the Nicobars and, after much misfortune, reached Middelburg in the summer of [[1600]]. [[Balthazar de Moucheron|De Moucheron]] suffered heavy losses from the voyage, and [[John Davis]] turned his spy-material to English advantage. As the Dutch had once wrung the secrets of the India trade from Portugal, England now sought profit from Dutch experience — including in the Malay language.
+The ships that had departed Atjeh in [[1599]] made for [[Pedir]], where they beat off an Atjehnese naval attack; they then touched at the Nicobars and, after much misfortune, reached Middelburg in the summer of [[1600]]. [[Balthasar de Moucheron|De Moucheron]] suffered heavy losses from the voyage, and [[John Davis]] turned his spy-material to English advantage. As the Dutch had once wrung the secrets of the India trade from Portugal, England now sought profit from Dutch experience — including in the Malay language.
 
 ## Account from *De Kleine Oosterling* (1901) — the 1599 capture and 1601 release
 
 The [[De Kleine Oosterling|Wijma school reader]] records Frederik Houtman's capture in the ambush at Atjeh: "Onverwachts vielen de Atjehneezen op de onzen aan. Een hevig gevecht volgde, en aan weerszijden sneuvelden er velen. Ook de schepelingen, die aan wal waren, werden gegrepen en allen, op acht na, gedood. Onder die acht was Frederik Houtman." Frederik was thus one of the eight survivors of the crew members who were on shore at the time of the ambush. His brother Cornelis "was genoodzaakt, zijn broeder en de anderen in de handen van den trouweloochen vijand achter te laten en met de beide schepen te vertrekken." Frederik's captivity at the Atjehnese court thus began with his brother's abandonment of him in [[1599]].
 
-The school reader records Frederik's release, two years later in [[1601]], as the result of the second Zeeland visit: "Ruim twee jaar later verschenen er twee andere Zeeuwsche vaartuigen op de kust. Er waren voor den sultan van Atjeh fraaie geschenken aan boord en ook een brief van prins Maurits. Nu kwamen de Nederlanders in de gunst bij dien vorst. Hij stelde de gevangenen in vrijheid en gaf verlof, een factorij of handelskantoor in zijn land te bouwen." Frederik Houtman was thus released from Atjehnese captivity as part of the broader release of the Houtman-captives, secured by Maurits's letter and gifts. In the school reader's narrative, this frames the captivity as a *beurzenruil* (exchange) of letters, gifts and prisoners between the Dutch and Atjehnese courts, and establishes the diplomatic frame that would be deployed in accounts of the [[Atjeh embassy to Prince Maurits at Grave (1602)|1602 embassy]].
+The school reader records Frederik's release, two years later in [[1601]], as the result of the second Zeeland visit: "Ruim twee jaar later verschenen er twee andere Zeeuwsche vaartuigen op de kust. Er waren voor den sultan van Atjeh fraaie geschenken aan boord en ook een brief van prins Maurits. Nu kwamen de Nederlanders in de gunst bij dien vorst. Hij stelde de gevangenen in vrijheid en gaf verlof, een factorij of handelskantoor in zijn land te bouwen." Frederik Houtman was thus released from Atjehnese captivity as part of the broader release of the Houtman-captives, secured by Maurits's letter and gifts. In the school reader's narrative, this frames the captivity as a *beurzenruil* (exchange) of letters, gifts and prisoners between the Dutch and Atjehnese courts, and establishes the diplomatic frame that would be deployed in accounts of the [[Aceh Embassy to Prince Maurits at Grave (1602)|1602 embassy]].
 
 ## Account from *Coen: Koopman van Heeren Zeventien* (1948) — the captivity in detail
 
@@ -65,17 +65,17 @@ Frederik de Houtman's Atjeh captivity is the foundational episode of European Ma
 - [[Cornelis de Houtman]]
 - [[First Dutch voyage to Atjeh (1598-1599)]]
 - [[Death of Cornelis de Houtman at Atjeh (1599)]]
-- [[Balthazar de Moucheron]]
+- [[Balthasar de Moucheron|Balthazar de Moucheron]]
 - [[Guyon Lefort]]
 - [[Paulus van Caerden]]
-- [[Gerard Leroy]]
+- [[Gerard le Roy|Gerard Leroy]]
 - [[Pieter Both]]
 - [[Isaac Le Maire]]
 - [[Adriaen Hendriksz ten Haeff]]
 - [[Maurits van Oranje]]
 - [[John Davis]]
 - [[Pigskin parchment letter incident at Atjeh (1600)]]
-- [[Atjeh embassy to Prince Maurits at Grave (1602)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits at Grave (1602)]]
 - [[Sultan Aloeddin of Atjeh]]
 - [[Spraeck ende woord-boeck (1603)]]
 - [[Vereenigde Oost-Indische Compagnie]]

@@ -22,7 +22,7 @@ The classification of the [[Atjehers]] within the Malay race, with the specific 
 
 - [[Atjehers]]
 - [[North Sumatra]]
-- [[Islam in Atjeh]]
+- [[Islam in Aceh|Islam in Atjeh]]
 
 ## Sources
 

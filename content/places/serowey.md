@@ -18,7 +18,7 @@ During the second expedition, the **landing division** returned to **Seroeway** 
 - [[Tamiang (river)]]
 - [[Koerier (ship)]]
 - [[Colonel Van de Pol]]
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Aceh War]]
 
 ## Source

@@ -4,7 +4,7 @@ aliases: [Pakan Badak, Pakan Badak Atjeh, Market of the Badak]
 tags: [place, kampong, market, acehnese, aceh-war, aceh, geography]
 ---
 
-**Pakan Badak** was a kampong and important market‑place in the interior of [[Acheh|Aceh]], situated in the [[VI Moekims|VI Moekims]] of [[Groot-Atjeh|Groot‑Atjeh]]. It functioned as a commercial hub with two large plank buildings on piles and, from [[31 December]] [[1875]] onward, as a Dutch military base for operations against the [[IV Moekims|IV Moekims]] and later the [[IX Moekims|IX Moekims]]. Its location near the mountain passes of [[Glitaroem]] and [[Beradin]] made it a strategic waypoint for Dutch forces during the 1875–1876 expedition, notably for the column under [[General Pel]] that entered the gorge on the morning of [[25 January]] [[1876]].
+**Pakan Badak** was a kampong and important market‑place in the interior of [[Acheh|Aceh]], situated in the [[VI Moekims|VI Moekims]] of [[Groot-Atjeh|Groot‑Atjeh]]. It functioned as a commercial hub with two large plank buildings on piles and, from [[31 December]] [[1875]] onward, as a Dutch military base for operations against the [[IV Moekims|IV Moekims]] and later the [[IX Moekims|IX Moekims]]. Its location near the mountain passes of [[Glitaroem]] and [[Beradin]] made it a strategic waypoint for Dutch forces during the 1875–1876 expedition, notably for the column under [[J. L. J. H. Pel|General Pel]] that entered the gorge on the morning of [[25 January]] [[1876]].
 
 ## Location and Physical Description
 
@@ -28,7 +28,7 @@ By the spring of [[1878]] the [[Habib Abdoerrahman|Habib]] resumed offensive act
 
 ## Strategic Importance in the 1875–1876 Expedition
 
-The interior position of Pakan Badak, coupled with its market facilities and proximity to mountain passes, rendered it an ideal staging ground. On the morning of [[25 January]] [[1876]] the column of marines under [[General Pel]] marched through the gorge toward Pakan Badak, forming the vanguard of the operation against the IX Moekims. Its capture not only secured a commercial centre but also provided the Dutch with a logistical hub from which to project power deeper into the Acehnese interior.
+The interior position of Pakan Badak, coupled with its market facilities and proximity to mountain passes, rendered it an ideal staging ground. On the morning of [[25 January]] [[1876]] the column of marines under [[J. L. J. H. Pel|General Pel]] marched through the gorge toward Pakan Badak, forming the vanguard of the operation against the IX Moekims. Its capture not only secured a commercial centre but also provided the Dutch with a logistical hub from which to project power deeper into the Acehnese interior.
 
 ## See Also
 
@@ -45,7 +45,7 @@ The interior position of Pakan Badak, coupled with its market facilities and pro
 - [[Toekoe Lampassej]]
 - [[Habib Abdoerrahman]]
 - [[K. van der Heyden]]
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 - [[Glitaroem]]
 - [[Beradin]]
 - [[pas van Blang Kala]]

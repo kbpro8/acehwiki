@@ -8,7 +8,7 @@ The **Java War of [[1825]]–[[1830]]** — known in Dutch as the *Java-oorlog* 
 
 ## Relevance in Van der Kemp's Narrative
 
-The Java War enters Van der Kemp's argument less as a subject in its own right than as the explanation of an observable Dutch restraint. In his minute of 16 March 1828 Fullerton had expressed "no doubt" that the Netherlands government would avail itself, to the full extent of its means, of the exclusive right which it conceived vested in it by Article 9 of the [[Anglo-Dutch Treaty of London (1824)|Treaty of 1824]] to form political relations with the chiefs of [[Sumatra|Sumatra]] — but he added, with regard to the probable proceedings of the Netherlands authorities in respect to Sumatra, the qualifying clause "whenever their affairs in Java will permit." It was to this clause that Van der Kemp's footnote is appended.
+The Java War enters Van der Kemp's argument less as a subject in its own right than as the explanation of an observable Dutch restraint. In his minute of 16 March 1828 Fullerton had expressed "no doubt" that the Netherlands government would avail itself, to the full extent of its means, of the exclusive right which it conceived vested in it by Article 9 of the [[Anglo-Dutch Treaty of 1824|Treaty of 1824]] to form political relations with the chiefs of [[Sumatra|Sumatra]] — but he added, with regard to the probable proceedings of the Netherlands authorities in respect to Sumatra, the qualifying clause "whenever their affairs in Java will permit." It was to this clause that Van der Kemp's footnote is appended.
 
 The implication is twofold. On the one hand the Java War, by absorbing the Dutch military and financial effort from [[1825]] onwards, prevented any early translation of the paper rights accorded by the Treaty of 1824 into effective control on the East Coast of Sumatra. The [[Bellona mission to Sumatra's East Coast (1827-1828)|Bellona mission]] of [[1827]]–[[1828]] was therefore a predominantly commercial, not a military, expedition; and the Dutch complaints of British intrusion into the Sumatran states during the same years must be read against the background of Dutch impotence on the spot. On the other hand the close of the Java War in [[1830]] set free the resources that, in the following decade, permitted a more forward Dutch policy on Sumatra — a policy that was to culminate, after further decades of British protest, in the [[Sumatra Treaty of 1871|Sumatra Treaty of 1871]] and the [[Acheh War|Acheh War]].
 
@@ -20,7 +20,7 @@ Van der Kemp's passing allusion to the Java War is therefore of a piece with his
 - [[Bellona mission to Sumatra's East Coast (1827-1828)]]
 - [[Fullerton's minute on Acheh]]
 - [[Robert Fullerton]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Java]]
 - [[Sumatra]]
 - [[Sumatra Treaty of 1871]]

@@ -12,7 +12,7 @@ The **3de Garnizoensbataljon** was the third Dutch colonial garrison battalion i
 As of [[1 January]] [[1940]], the 3de Garnizoensbataljon was grouped as follows:
 
 - **Staff**: [[Kotaradja|Kotaradja]]
-- [[Padang Tidji|Padang Tidji]]: 3 brigades
+- [[Padang Tiji|Padang Tiji]]: 3 brigades
 - [[Sigli|Sigli]]: 8 brigades
 - [[Meureudoe|Meureudoe]]: 3 brigades
 - [[Samalanga|Samalanga]]: 4 brigades
@@ -28,7 +28,7 @@ The battalion's principal task was the defence of the *noordkust* and *oostkust*
 
 ## Reductions of 1940–1941
 
-In [[1940]], shortly after the outbreak of war with Germany in May 1940, the outposts at [[Bireuën|Bireuën]], [[Langsa|Langsa]] and [[Kotatjane|Kotatjane]] were evacuated by the units stationed there — totalling 12 brigades — and assigned to a wartime task outside Atjeh. In [[1941]] the detachments at [[Padang Tidji|Padang Tidji]], [[Meureudoe|Meureudoe]], [[Samalanga|Samalanga]] and [[Boeloe Blang Ara|Boeloe Blang Ara]] — totalling 28 brigades — were dissolved. Of the brigades thereby released, 15 were formed into a column for use outside Atjeh, and the remainder were used to reinforce the 2de Garnizoensbataljon at Kotaradja.
+In [[1940]], shortly after the outbreak of war with Germany in May 1940, the outposts at [[Bireuën|Bireuën]], [[Langsa|Langsa]] and [[Kotatjane|Kotatjane]] were evacuated by the units stationed there — totalling 12 brigades — and assigned to a wartime task outside Atjeh. In [[1941]] the detachments at [[Padang Tiji|Padang Tiji]], [[Meureudoe|Meureudoe]], [[Samalanga|Samalanga]] and [[Boeloe Blang Ara|Boeloe Blang Ara]] — totalling 28 brigades — were dissolved. Of the brigades thereby released, 15 were formed into a column for use outside Atjeh, and the remainder were used to reinforce the 2de Garnizoensbataljon at Kotaradja.
 
 By [[1941]] the 3de Garnizoensbataljon consisted only of the detachments at [[Sigli|Sigli]] (8 brigades) and [[Lho Seumawé|Lho Seumawé]] (4 brigades), the latter assigned to a defensive task (the protection of the demolition works at the oil-drilling sites). The detachment at Tjalang (1ste Garnizoensbataljon) and that at Sigli (3de Garnizoensbataljon) were transferred to the 2de Garnizoensbataljon, so that the 3de Garnizoensbataljon no longer had any troops and was formally dissolved.
 
@@ -50,7 +50,7 @@ The 3de Garnizoensbataljon is, in the staff history's Atjeh chapter, the princip
 The [[Nederlands-Indië contra Japan|staff history]] records the 3de Garnizoensbataljon's total strength as of [[1 January 1940]] at 34 brigades, grouped as follows:
 
 - **Staf**: [[Kotaradja|Kotaradja]]
-- [[Padang Tidji|Padang Tidji]]: 3 brigades
+- [[Padang Tiji|Padang Tiji]]: 3 brigades
 - [[Sigli|Sigli]]: 8 brigades
 - [[Meureudoe|Meureudoe]]: 3 brigades
 - [[Samalanga|Samalanga]]: 4 brigades
@@ -64,7 +64,7 @@ Total: 34 brigades (each brigade of garrison infantry numbering 21 men, for a ba
 
 ## The 15 February 1941 reduction and dissolution
 
-In [[1941]] the detachments at [[Padang Tidji|Padang Tidji]], [[Meureudoe|Meureudoe]], [[Samalanga|Samalanga]] and [[Boeloe Blang Ara|Boeloe Blang Ara]] — totalling 28 brigades — were dissolved. Of the freed brigades, 15 were formed into a column for use outside Atjeh, and the remainder were used to reinforce the [[2de Garnizoensbataljon|2de Garnizoensbataljon]] at Kotaradja. On [[15 February 1941]], as part of this second and final phase of the pre-invasion drawdown, the 3de Garnizoensbataljon was reduced to its [[Sigli|Sigli]] (8 brigades) and [[Lho Seumawé|Lho Seumawé]] (4 brigades) detachments only — the latter assigned to a defence task (security of the demolition works at the oil-drilling grounds). The detachments at Tjalang (1ste Garnizoensbataljon) and at Sigli (3de Garnizoensbataljon) were handed over to the 2de Garnizoensbataljon, so that the 3de Garnizoensbataljon no longer had any troops remaining at its headquarters and was formally dissolved.
+In [[1941]] the detachments at [[Padang Tiji|Padang Tiji]], [[Meureudoe|Meureudoe]], [[Samalanga|Samalanga]] and [[Boeloe Blang Ara|Boeloe Blang Ara]] — totalling 28 brigades — were dissolved. Of the freed brigades, 15 were formed into a column for use outside Atjeh, and the remainder were used to reinforce the [[2de Garnizoensbataljon|2de Garnizoensbataljon]] at Kotaradja. On [[15 February 1941]], as part of this second and final phase of the pre-invasion drawdown, the 3de Garnizoensbataljon was reduced to its [[Sigli|Sigli]] (8 brigades) and [[Lho Seumawé|Lho Seumawé]] (4 brigades) detachments only — the latter assigned to a defence task (security of the demolition works at the oil-drilling grounds). The detachments at Tjalang (1ste Garnizoensbataljon) and at Sigli (3de Garnizoensbataljon) were handed over to the 2de Garnizoensbataljon, so that the 3de Garnizoensbataljon no longer had any troops remaining at its headquarters and was formally dissolved.
 
 The brigades released by the dissolution of the 3de Garnizoensbataljon's headquarters and war detachments were redistributed: a column of 15 brigades was formed for assignment elsewhere outside Atjeh; the remaining brigades were absorbed into the [[2de Garnizoensbataljon|2de Garnizoensbataljon]] at Kotaradja (reinforced with 8 brigades from the dissolved Sabang war detachment) and the [[1ste Garnizoensbataljon|1ste Garnizoensbataljon]] (whose staff was moved to [[Medan|Medan]]).
 

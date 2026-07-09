@@ -9,7 +9,7 @@ tags: [person, dutch-official, commissioner-general]
 
 ## The 1827 Bellona Project
 
-Van der Kemp introduces Du Bus through the report of the former resident of Singapore, John Prince, who at the end of 1827 found himself at [[Batavia]]. There he learned "that Commissioner-General Du Bus had the intention of sending the warship *Bellona* to Sumatra's East Coast, in order to encourage the chiefs there to trade with Riouw." Prince thereupon wrote to the government at [[Penang]] on 29 November 1827, in the dispatch that Van der Kemp prints as Bijlage 11. The mission, as Prince described it, was "to induce the natives to discontinue the purchase of salt from us, and to take it from Rhio where it is to be delivered at as low a rate as it can be got at the former place." The scheme was the practical Dutch reply to the [[Dutch Salt Price Reduction|salt-price competition]] that had become the chief instrument of commercial policy in the region since the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]].
+Van der Kemp introduces Du Bus through the report of the former resident of Singapore, John Prince, who at the end of 1827 found himself at [[Batavia]]. There he learned "that Commissioner-General Du Bus had the intention of sending the warship *Bellona* to Sumatra's East Coast, in order to encourage the chiefs there to trade with Riouw." Prince thereupon wrote to the government at [[Penang]] on 29 November 1827, in the dispatch that Van der Kemp prints as Bijlage 11. The mission, as Prince described it, was "to induce the natives to discontinue the purchase of salt from us, and to take it from Rhio where it is to be delivered at as low a rate as it can be got at the former place." The scheme was the practical Dutch reply to the [[Dutch Salt Price Reduction|salt-price competition]] that had become the chief instrument of commercial policy in the region since the [[Anglo-Dutch Treaty of 1824|treaty of 1824]].
 
 ## The [[Bellona mission to Sumatra's East Coast (1827-1828)|Bellona Mission]]
 
@@ -27,7 +27,7 @@ Du Bus held the office of Commissioner-General at a moment when the Dutch coloni
 - [[Singapore]]
 - [[Riouw]]
 - [[Java War (1825-1830)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Pinang Nota (1825)]]
 - [[Dutch Salt Price Reduction]]
 - [[Siak]]
@@ -44,7 +44,7 @@ Du Bus held the office of Commissioner-General at a moment when the Dutch coloni
 
 ## The 1827 Bellona Project
 
-Van der Kemp introduces Du Bus through the report of the former resident of Singapore, John Prince, who at the end of 1827 found himself at [[Batavia]]. There he learned "that Commissioner-General Du Bus had the intention of sending the warship *Bellona* to Sumatra's East Coast, in order to encourage the chiefs there to trade with Riouw." Prince thereupon wrote to the government at [[Penang]] on 29 November 1827, in the dispatch that Van der Kemp prints as Bijlage 11. The mission, as Prince described it, was "to induce the natives to discontinue the purchase of salt from us, and to take it from Rhio where it is to be delivered at as low a rate as it can be got at the former place." The scheme was the practical Dutch reply to the [[Dutch Salt Price Reduction|salt-price competition]] that had become the chief instrument of commercial policy in the region since the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]].
+Van der Kemp introduces Du Bus through the report of the former resident of Singapore, John Prince, who at the end of 1827 found himself at [[Batavia]]. There he learned "that Commissioner-General Du Bus had the intention of sending the warship *Bellona* to Sumatra's East Coast, in order to encourage the chiefs there to trade with Riouw." Prince thereupon wrote to the government at [[Penang]] on 29 November 1827, in the dispatch that Van der Kemp prints as Bijlage 11. The mission, as Prince described it, was "to induce the natives to discontinue the purchase of salt from us, and to take it from Rhio where it is to be delivered at as low a rate as it can be got at the former place." The scheme was the practical Dutch reply to the [[Dutch Salt Price Reduction|salt-price competition]] that had become the chief instrument of commercial policy in the region since the [[Anglo-Dutch Treaty of 1824|treaty of 1824]].
 
 ## The [[Bellona mission to Sumatra's East Coast (1827-1828)|Bellona Mission]]
 
@@ -62,7 +62,7 @@ Du Bus held the office of Commissioner-General at a moment when the Dutch coloni
 - [[Singapore]]
 - [[Riouw]]
 - [[Java War (1825-1830)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Pinang Nota (1825)]]
 - [[Dutch Salt Price Reduction]]
 - [[Siak]]

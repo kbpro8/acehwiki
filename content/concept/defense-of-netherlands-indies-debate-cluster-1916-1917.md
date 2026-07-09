@@ -16,7 +16,7 @@ tags:
   - ww1
 ---
 
-**The Defense of Netherlands Indies debate cluster ([[1916]]–[[1917]])** is the interconnected body of speeches, pamphlets, organisations, persons, concepts, and parliamentary interventions through which the question of how to secure the [[Netherlands India|Netherlands Indies]] against foreign aggression was fought out in Dutch public life during the [[First World War]]. The cluster revolves around the personal rivalry between former [[Governor Van Heutsz|Governor-General J. B. van Heutsz]] — championing the defence programme of his son-in-law [[J. Van der Weyden]] — and his former subordinate [[Van der Maaten]], whose pamphlet of [[25 February]] [[1917]] exposed the secret co-authorship and political manoeuvring behind the campaign. This entry is the navigational hub for the cluster's fourteen constituent articles.
+**The Defense of Netherlands Indies debate cluster ([[1916]]–[[1917]])** is the interconnected body of speeches, pamphlets, organisations, persons, concepts, and parliamentary interventions through which the question of how to secure the [[Netherlands India|Netherlands Indies]] against foreign aggression was fought out in Dutch public life during the [[First World War]]. The cluster revolves around the personal rivalry between former [[Joannes Benedictus van Heutsz|Governor-General J. B. van Heutsz]] — championing the defence programme of his son-in-law [[J. Van der Weyden]] — and his former subordinate [[Van der Maaten]], whose pamphlet of [[25 February]] [[1917]] exposed the secret co-authorship and political manoeuvring behind the campaign. This entry is the navigational hub for the cluster's fourteen constituent articles.
 
 ## The cluster at a glance
 
@@ -28,11 +28,11 @@ The cluster comprises fourteen articles distributed across the wiki:
 | **Events** | [[Defense demonstrations of 31 August 1916]], [[Van Heutsz's vernietigend oordeel on the Staatscommissie (1914)]], [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)]], [[Industriebond defense meeting (17 February 1917)]], [[Defense of Netherlands Indies debate (1917)]] |
 | **Documents** (filed under events/) | [[Netherlands Indies Fleet Bill (1914)]], [[Van der Weyden's defense brochure]], [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies]] |
 | **Organizations** | [[Bond van Vrije Liberalen]], [[Vereeniging ter Beoefening van de Krijgswetenschap]] |
-| **People** | [[Governor Van Heutsz|J. B. van Heutsz]], [[J. Van der Weyden]], [[Van der Maaten]], [[C. C. Vattier Kraane]] |
+| **People** | [[Joannes Benedictus van Heutsz|J. B. van Heutsz]], [[J. Van der Weyden]], [[Van der Maaten]], [[C. C. Vattier Kraane]] |
 
 ## Origins: the stalled defence reform of 1913-1914
 
-The cluster's prehistory begins with the [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]], which issued its report in [[1913]]. [[Governor Van Heutsz|Van Heutsz]] had declined to sit on the Commission in [[1912]], dismissing its work as "*monnikenwerk*" (monk's work). A *vlootwet* (fleet bill) had been prepared and would have been submitted to the [[Staten-Generaal]] in August [[1914]], but the outbreak of the [[First World War]] prevented its introduction; it was not submitted in [[1915]] or [[1916]] either. The [[Netherlands Indies Fleet Bill (1914)|Fleet Bill of 1914]] thus became, in its absence, one of the central grievances of the debate that followed. On [[9 January]] [[1914]], at a meeting of the [[Vereeniging ter Beoefening van de Krijgswetenschap]], [[J. Van der Weyden|Van der Weyden]] — with Van Heutsz's authorisation — quoted the devastating private judgment that the proposed fleet "*niet vechten zal*" (will not fight) and the proposed army "*niet vechten kan*" (cannot fight). The follow-up meeting of [[27 February]] [[1914]] became the occasion on which Van der Weyden first promised his defence brochure, though the brochure itself would not appear for more than two years.
+The cluster's prehistory begins with the [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]], which issued its report in [[1913]]. [[Joannes Benedictus van Heutsz|Van Heutsz]] had declined to sit on the Commission in [[1912]], dismissing its work as "*monnikenwerk*" (monk's work). A *vlootwet* (fleet bill) had been prepared and would have been submitted to the [[Staten-Generaal]] in August [[1914]], but the outbreak of the [[First World War]] prevented its introduction; it was not submitted in [[1915]] or [[1916]] either. The [[Netherlands Indies Fleet Bill (1914)|Fleet Bill of 1914]] thus became, in its absence, one of the central grievances of the debate that followed. On [[9 January]] [[1914]], at a meeting of the [[Vereeniging ter Beoefening van de Krijgswetenschap]], [[J. Van der Weyden|Van der Weyden]] — with Van Heutsz's authorisation — quoted the devastating private judgment that the proposed fleet "*niet vechten zal*" (will not fight) and the proposed army "*niet vechten kan*" (cannot fight). The follow-up meeting of [[27 February]] [[1914]] became the occasion on which Van der Weyden first promised his defence brochure, though the brochure itself would not appear for more than two years.
 
 ## The campaign of January-February 1917
 
@@ -64,11 +64,11 @@ The cluster is significant in the broader history of [[Acheh|Aceh]] and its afte
 ## See Also
 
 ### People
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[J. Van der Weyden]]
 - [[Van der Maaten]]
 - [[C. C. Vattier Kraane]]
-- [[G. C. E. van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[C. Snouck Hurgronje]]
 
 ### Organizations

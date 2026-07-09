@@ -18,7 +18,7 @@ The town to which the river gave access is described in the same Soury embassy r
 
 ## The roadstead as European meeting-point
 
-The roadstead at the mouth of the Atjeh-rivier was also the place where the European powers — Dutch, English, French, Portuguese — encountered one another in the sultanate's waters. When [[Joris van Spilbergh|Spilbergh]] reached Atjeh in [[1602]], he found the *Lam* — a ship from his own fleet that had strayed — already lying there, hired by the English Company under [[James Lancaster|James Lancaster]], with [[John Davis|John Davis]] under Lancaster's command. When [[Augustin de Beaulieu|De Beaulieu]]'s *Montmorency* lay in a bay to be cleaned of the shell-layer that was impeding her sailing in [[1621]], it was an English ship that appeared with the sick Vice-Admiral [[Robert Gravé|Robert Gravé]] aboard. The river-mouth was thus a European meeting-point as much as an Atjeh one.
+The roadstead at the mouth of the Atjeh-rivier was also the place where the European powers — Dutch, English, French, Portuguese — encountered one another in the sultanate's waters. When [[Joris van Spilbergen|Spilbergh]] reached Atjeh in [[1602]], he found the *Lam* — a ship from his own fleet that had strayed — already lying there, hired by the English Company under [[James Lancaster|James Lancaster]], with [[John Davis|John Davis]] under Lancaster's command. When [[Augustin de Beaulieu|De Beaulieu]]'s *Montmorency* lay in a bay to be cleaned of the shell-layer that was impeding her sailing in [[1621]], it was an English ship that appeared with the sick Vice-Admiral [[Robert Gravé|Robert Gravé]] aboard. The river-mouth was thus a European meeting-point as much as an Atjeh one.
 
 ## Significance
 
@@ -35,7 +35,7 @@ For [[Acheh|Atjeh]]'s history, the Atjeh-rivier is the physical threshold of the
 - [[Sabandaar]]
 - [[Eunuchs of Atjeh court]]
 - [[Sultana of Atjeh (1641)]]
-- [[Joris van Spilbergh]]
+- [[Joris van Spilbergen|Joris van Spilbergh]]
 - [[James Lancaster]]
 - [[Augustin de Beaulieu]]
 - [[Robert Gravé]]

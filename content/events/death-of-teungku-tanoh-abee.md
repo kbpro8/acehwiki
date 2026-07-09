@@ -25,7 +25,7 @@ The contrast between Teungku Tanoh Abee and the other kalis of the late sultanat
 - [[Panglima Polem]]
 - [[Tanoh Abee]]
 - [[Teungku di Lheue]]
-- [[Kali]]
+- [[Teuku Kali Malikon Ade|Kali]]
 
 ## Source
 

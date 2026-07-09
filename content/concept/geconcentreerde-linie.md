@@ -51,20 +51,20 @@ The Geconcentreerde Linie was heavily criticized even by its defenders. Its conf
 
 ### The End of the Line
 
-The concentration strategy was abandoned when **[[J. B. van Heutsz]]** became Governor of Aceh in [[1898]]. Van Heutsz adopted an aggressive offensive strategy, using mobile *marechaussees* to attack guerrilla forces rather than passively defending a fixed perimeter.
+The concentration strategy was abandoned when **[[Joannes Benedictus van Heutsz|J. B. van Heutsz]]** became Governor of Aceh in [[1898]]. Van Heutsz adopted an aggressive offensive strategy, using mobile *marechaussees* to attack guerrilla forces rather than passively defending a fixed perimeter.
 
 ## See Also
 - [[Oost-Indisch Journael]]
 - [[Gilles Graafland]]
 - [[Teukoe Oemar]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
 - [Offensief à outrance](/concept/offensief-a-outrance)
 - [[1896]]
 - [[Aceh War]]
 - [[Kutaradja]]
-- [[J. B. van Heutsz]]
-- [[General Van Swieten]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[Jan van Swieten|General Van Swieten]]
 
 ## Sources
 

@@ -4,7 +4,7 @@ aliases: [Death of Aladin Mahmood Shah, Death of the Sultan of Atjeh 1874, Sterf
 tags: [event, succession, acehnese, aceh-war]
 ---
 
-**The Death of Sultan Aladin Mahmood Shah** (also written Aladin Mahmood Shah, Alaoe'd-din Mahmoed Shah) on [[26 January]] [[1874]] at Pagger Ajer was the death of the fourteen-year-old sultan of [[Acheh|Atjeh]] from cholera, two days after the [[Capture of the Kraton (24 January 1874)|fall of his Kraton]] to the Dutch under [[J. van Swieten|Lieutenant-general Van Swieten]] in the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]]. His death, the cholera that had first raged among the Dutch troops and now made its ravages among the Atjehers, extinguished the regular line of sultans recognised by the Dutch and led directly to the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] by right of conquest.
+**The Death of Sultan Aladin Mahmood Shah** (also written Aladin Mahmood Shah, Alaoe'd-din Mahmoed Shah) on [[26 January]] [[1874]] at Pagger Ajer was the death of the fourteen-year-old sultan of [[Acheh|Atjeh]] from cholera, two days after the [[Capture of the Kraton (24 January 1874)|fall of his Kraton]] to the Dutch under [[Jan van Swieten|Lieutenant-general Van Swieten]] in the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]]. His death, the cholera that had first raged among the Dutch troops and now made its ravages among the Atjehers, extinguished the regular line of sultans recognised by the Dutch and led directly to the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] by right of conquest.
 
 ## Accession
 

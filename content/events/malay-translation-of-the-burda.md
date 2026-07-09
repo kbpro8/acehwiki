@@ -20,7 +20,7 @@ The manuscript was produced amid close relations between [[Atjēh]] and [[Perak]
 - [[Sultan Iskandar Muda]]
 - [[1579]]
 - [[Perak Malay]]
-- [[Burda]] (Arabic poem)
+- [[Burda (poem)|Burda]] (Arabic poem)
 - [[Malay language]]
 - [[Al-Busiri]]
 - [[Hamzah Fansoeri]]

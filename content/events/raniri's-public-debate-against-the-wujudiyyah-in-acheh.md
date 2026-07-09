@@ -4,7 +4,7 @@ aliases: [Raniri's disputation against the Wujudiyyah, The public debate of Rani
 tags: [event, religious-history, precolonial, 17th-century, aceh, raniri, iskandar-thani, wujudiyyah, persecution]
 ---
 
-**The public debate between [[Raniri|Nūruddīn ar-Rānīrī]] and the adherents of the [[Wujudiyyah]] at the court of [[Iskandar Thani|Sultan Iskandar Thani]] of [[Acheh]] in [[1637]]** is the dramatic hinge of Raniri's Achehnese career and the opening event of the orthodox reaction against the pantheistic mysticism of [[Hamzah Pansuri]] and [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]]. Shortly after the accession of Iskandar II, Raniri refuted the adherents of the extreme Wujūdiyyah mysticism in a public disputation in the presence of the sultan; from that time forth he enjoyed royal favour, both from Iskandar II and from his successor [[Sultan Tajul-alam|Ṣalīyatu'd-Dīn]] (Taj al-Ālam).
+**The public debate between [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and the adherents of the [[Wujudiyyah]] at the court of [[Iskandar Thani|Sultan Iskandar Thani]] of [[Acheh]] in [[1637]]** is the dramatic hinge of Raniri's Achehnese career and the opening event of the orthodox reaction against the pantheistic mysticism of [[Hamzah Pansuri]] and [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]]. Shortly after the accession of Iskandar II, Raniri refuted the adherents of the extreme Wujūdiyyah mysticism in a public disputation in the presence of the sultan; from that time forth he enjoyed royal favour, both from Iskandar II and from his successor [[Sultan Tajul-alam|Ṣalīyatu'd-Dīn]] (Taj al-Ālam).
 
 ## Background
 
@@ -12,7 +12,7 @@ The religious life of the court of [[Sultan Iskandar Muda|Iskandar Muda]] ([[160
 
 ## The accession of Iskandar Thani and the arrival of Raniri
 
-After Iskandar Muda died in [[1636]] the spiritual climate in Acheh changed. Iskandar Muda's successor [[Iskandar Thani]] — who came to the throne in [[1637]] — was disposed to receive a more orthodox religious teaching. In the same year [[Raniri|Nūruddīn ar-Rānīrī]] arrived in Acheh from [[Ranir]], a Gujarati shaikh of the [[Rifa'iyah order|Rifāʿiyya]] who had been formed in the scholastic apparatus of Gujarati Arabian Islam by his teacher [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]] and his spiritual grandfather [[Muhammad al-Addars|Muḥammad al-ʿAddārs]]. Raniri came to Acheh already armed with the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] — a Malay encyclopaedia of religions and sects in which the Wujūdiyyah were catalogued among the heresies of Islam — and prepared to defend the orthodox position in disputation.
+After Iskandar Muda died in [[1636]] the spiritual climate in Acheh changed. Iskandar Muda's successor [[Iskandar Thani]] — who came to the throne in [[1637]] — was disposed to receive a more orthodox religious teaching. In the same year [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] arrived in Acheh from [[Ranir]], a Gujarati shaikh of the [[Rifa'iyah order|Rifāʿiyya]] who had been formed in the scholastic apparatus of Gujarati Arabian Islam by his teacher [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]] and his spiritual grandfather [[Muhammad al-Addars|Muḥammad al-ʿAddārs]]. Raniri came to Acheh already armed with the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] — a Malay encyclopaedia of religions and sects in which the Wujūdiyyah were catalogued among the heresies of Islam — and prepared to defend the orthodox position in disputation.
 
 ## The disputation
 
@@ -22,7 +22,7 @@ After Iskandar Muda died in [[1636]] the spiritual climate in Acheh changed. Isk
 
 The disputation was followed by an orthodox reaction whose precise chronology is not fully recorded but whose main features are attested. [[C. Snouck Hurgronje|Snouck Hurgronje]], in *The Achehnese* Vol. I, notes that Iskandar Thani "is said to have put the disciples of the heretical mystic to death and to have ordered his books burned — an episode of religious persecution in the generation after [[Sultan Iskandar Muda|Iskandar Muda]]'s reign in which Raniri's puritanical influence is commonly reckoned to have played a decisive part." The burning of the books of [[Hamzah Pansuri]]'s school — works such as the [[Asrar al-'arifin|*Asrār al-ʿārifīn*]] and the [[Kitab al-Muntahi|*Kitāb al-Muntahī*]] — was the dramatic consequence of the disputation, although the survival of manuscripts of these works (the *Muntahī* in Cod. Or. 7291(3) and Cod. Or. 1952; the Javanese translation in Cod. Or. 5716(2) and 7736(1)) shows that the burning was not wholly effective.
 
-The literary consequence of the disputation was the rapid production, at the command of Iskandar Thani, of the [[Sirat al-mustaqim|*Ṣirāṭ al-mustaqīm*]] (March [[1638]]) and the [[Bad' khalq as-samawat wal-arwah|*Badʾ khalq as-samāwāt wal-arwāḥ*]], followed by the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]], the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]], the [[Hall al-zill|*Ḥall aẓ-ẓill*]], the [[Djawahir al-'ulum|*Jawāhir al-ʿulūm*]], and the [[Bustan al-Salatin|*Bustān as-Salāṭīn*]]. This body of Malay religious prose — composed in the joint reigns of Iskandar II and [[Sultan Tajul-alam|Taj al-Ālam]] — is the literary deposit of the orthodox reaction that the disputation opened. The [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]] in particular ends with a notable pronouncement on the *shathīyāt* — the [[Shathihiyat|ecstatic utterances]] such as *anā al-ḥaqq* of [[al-Hallaj|al-Ḥallāj]] — declaring that whoever, being in his senses, pronounces such *shathīyāt* must be killed and will burn in hell eternally: a justification, in scholastic form, of the persecution that had been undertaken.
+The literary consequence of the disputation was the rapid production, at the command of Iskandar Thani, of the [[Sirat al-Mustaqim|*Ṣirāṭ al-mustaqīm*]] (March [[1638]]) and the [[Bad' khalq as-samawat wal-arwah|*Badʾ khalq as-samāwāt wal-arwāḥ*]], followed by the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]], the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]], the [[Hall al-zill|*Ḥall aẓ-ẓill*]], the [[Djawahir al-'ulum|*Jawāhir al-ʿulūm*]], and the [[Bustan al-Salatin|*Bustān as-Salāṭīn*]]. This body of Malay religious prose — composed in the joint reigns of Iskandar II and [[Sultan Tajul-alam|Taj al-Ālam]] — is the literary deposit of the orthodox reaction that the disputation opened. The [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq*]] in particular ends with a notable pronouncement on the *shathīyāt* — the [[Shathihiyat|ecstatic utterances]] such as *anā al-ḥaqq* of [[al-Hallaj|al-Ḥallāj]] — declaring that whoever, being in his senses, pronounces such *shathīyāt* must be killed and will burn in hell eternally: a justification, in scholastic form, of the persecution that had been undertaken.
 
 ## Significance
 
@@ -41,11 +41,11 @@ The public disputation at the court of Iskandar Thani is the central event of th
 - [[Kitab al-Muntahi]]
 - [[Mir'at al-muhakkikin]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's arrival in Acheh (1637)]]
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Shathihiyat]]
-- [[Sirat al-mustaqim]]
+- [[Sirat al-Mustaqim|Sirat al-mustaqim]]
 - [[Sultan Iskandar Muda]]
 - [[Sultan Tajul-alam]]
 - [[Tibjan fi ma'rifat al-adyan]]

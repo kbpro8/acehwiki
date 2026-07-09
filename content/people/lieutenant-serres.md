@@ -3,7 +3,7 @@ title: Lieutenant Serres
 aliases: []
 tags: [person, officer, dutch, marine]
 ---
-**Lieutenant Serres** was a junior officer of the [[Dutch Marine Corps]] who fell in action during the assault on the battery of [[Gombora]] on [[27 August]] [[1824]]. His death was recorded among the thirty‑three Dutch dead and one hundred‑thirty‑three wounded suffered in the operation.
+**Lieutenant Serres** was a junior officer of the [[Royal Netherlands Marine Corps|Dutch Marine Corps]] who fell in action during the assault on the battery of [[Gombora]] on [[27 August]] [[1824]]. His death was recorded among the thirty‑three Dutch dead and one hundred‑thirty‑three wounded suffered in the operation.
 
 ## Fatal Engagement
 
@@ -11,9 +11,9 @@ Serres was part of the landing detachment that stormed the enemy position. The f
 
 ## See Also
 
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Gombora]]
-- [[Colonel Bischoff]]
+- [[Bischoff|Colonel Bischoff]]
 - [[1824]]
 
 ## Source

@@ -11,7 +11,7 @@ One of the fighting heroes of the Hikayat Prang Gompeuni, who fought with valor 
 
 - [[Imeum of Lueng Bata]]
 - [[Habib Abdurrahman Zahir]]
-- [[Hikayat Prang Gompeuni]]
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 
 ## Source
 
@@ -25,7 +25,7 @@ One of the fighting heroes of the Hikayat Prang Gompeuni, who fought with valor 
 
 - [[Imeum of Lueng Bata]]
 - [[Habib Abdurrahman Zahir]]
-- [[Hikayat Prang Gompeuni]]
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 
 ## Source
 

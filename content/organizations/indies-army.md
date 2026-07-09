@@ -13,7 +13,7 @@ In the early [[1870s]] the Indies army had no general staff — a deficiency tha
 
 ## The Cost of the Atjeh-oorlog
 
-The Atjeh-oorlog placed a severe strain on the Indies army. After the departure of [[J. van Swieten|Van Swieten]] on [[26 April]] [[26 April]] [[1874]] a force of 128 officers, 1788 Europeans, 176 Africans, 489 Ambonese and 698 natives remained under [[J. L. J. H. Pel|General Pel]]'s command. By [[December 1874]] the army strength in Atjeh had been brought by temporary reinforcements to 4000 infantry; in [[1874]] alone, after the departure of the troops on [[26 April]] [[26 April]], the number of deaths was 902 and the number of evacuated 1917. During [[1875]] 957 dead and 5151 evacuated were counted. By [[March 1877|March 1877]] the strength of the troop force was 351 officers and 9235 rank-and-file, besides the more than 3000 free workers with the engineers.
+The Atjeh-oorlog placed a severe strain on the Indies army. After the departure of [[Jan van Swieten|Van Swieten]] on [[26 April]] [[26 April]] [[1874]] a force of 128 officers, 1788 Europeans, 176 Africans, 489 Ambonese and 698 natives remained under [[J. L. J. H. Pel|General Pel]]'s command. By [[December 1874]] the army strength in Atjeh had been brought by temporary reinforcements to 4000 infantry; in [[1874]] alone, after the departure of the troops on [[26 April]] [[26 April]], the number of deaths was 902 and the number of evacuated 1917. During [[1875]] 957 dead and 5151 evacuated were counted. By [[March 1877|March 1877]] the strength of the troop force was 351 officers and 9235 rank-and-file, besides the more than 3000 free workers with the engineers.
 
 In the course of [[1878]] a reorganisation of the Dutch troop strength in Atjeh was carried out: a separation was made between garrison- and field-bataljons; by three garrison-bataljons the occupation of the posts was to be provided for; the splitting into right and left halves of bataljons would lapse. In connection with the improved situation the number of troops was also reduced from 348 officers and 9235 rank-and-file to 298 officers and 7730 rank-and-file. After the close of large-scale operations in [[1879]] the strength was further reduced by Indies decree of [[18 May]] [[18 May]] [[1880]] to 253 officers and 6372 rank-and-file, of whom 3131 Europeans.
 
@@ -33,7 +33,7 @@ The commanders of the Indies army during the period covered by the source work w
 - [[W. E. Kroesen]]
 - [[H. G. Boumeester]]
 - [[J. H. R. Köhler]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[J. L. J. H. Pel]]
 - [[G. B. T. Wiggers van Kerchem]]
 - [[A. J. E. Diemont]]
@@ -59,7 +59,7 @@ In the early [[1870s]] the Indies army had no general staff — a deficiency tha
 
 ## The Cost of the Atjeh-oorlog
 
-The Atjeh-oorlog placed a severe strain on the Indies army. After the departure of [[J. van Swieten|Van Swieten]] on [[26 April]] [[26 April]] [[1874]] a force of 128 officers, 1788 Europeans, 176 Africans, 489 Ambonese and 698 natives remained under [[J. L. J. H. Pel|General Pel]]'s command. By [[December 1874]] the army strength in Atjeh had been brought by temporary reinforcements to 4000 infantry; in [[1874]] alone, after the departure of the troops on [[26 April]] [[26 April]], the number of deaths was 902 and the number of evacuated 1917. During [[1875]] 957 dead and 5151 evacuated were counted. By [[March 1877|March 1877]] the strength of the troop force was 351 officers and 9235 rank-and-file, besides the more than 3000 free workers with the engineers.
+The Atjeh-oorlog placed a severe strain on the Indies army. After the departure of [[Jan van Swieten|Van Swieten]] on [[26 April]] [[26 April]] [[1874]] a force of 128 officers, 1788 Europeans, 176 Africans, 489 Ambonese and 698 natives remained under [[J. L. J. H. Pel|General Pel]]'s command. By [[December 1874]] the army strength in Atjeh had been brought by temporary reinforcements to 4000 infantry; in [[1874]] alone, after the departure of the troops on [[26 April]] [[26 April]], the number of deaths was 902 and the number of evacuated 1917. During [[1875]] 957 dead and 5151 evacuated were counted. By [[March 1877|March 1877]] the strength of the troop force was 351 officers and 9235 rank-and-file, besides the more than 3000 free workers with the engineers.
 
 In the course of [[1878]] a reorganisation of the Dutch troop strength in Atjeh was carried out: a separation was made between garrison- and field-bataljons; by three garrison-bataljons the occupation of the posts was to be provided for; the splitting into right and left halves of bataljons would lapse. In connection with the improved situation the number of troops was also reduced from 348 officers and 9235 rank-and-file to 298 officers and 7730 rank-and-file. After the close of large-scale operations in [[1879]] the strength was further reduced by Indies decree of [[18 May]] [[18 May]] [[1880]] to 253 officers and 6372 rank-and-file, of whom 3131 Europeans.
 
@@ -79,7 +79,7 @@ The commanders of the Indies army during the period covered by the source work w
 - [[W. E. Kroesen]]
 - [[H. G. Boumeester]]
 - [[J. H. R. Köhler]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[J. L. J. H. Pel]]
 - [[G. B. T. Wiggers van Kerchem]]
 - [[A. J. E. Diemont]]

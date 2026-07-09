@@ -4,7 +4,7 @@ aliases: [Ha' balee, Ha'balee, Right of the widow, Widower's half-dowry]
 tags: [event, family-law, marriage, divorce, widowhood, inheritance]
 ---
 
-The **ha' balee** — literally "the right of the widow or widower," from the Arabic *ḥaqq* ("right") and the Achehnese *balee* (which means both widow and widower) — is, in the marriage law of [[Acheh]], the right of a surviving spouse to recover one half of the *jinamee* (dowry) on the death of the other party during the currency of the [[Janji Jinamee|janji jinamee]] (the period of secured marriage). C. Snouck Hurgronje treats it in *The Achehnese* as one of the distinctive institutions of Achehnese family law, intimately connected with the matrilocal residence rules that give Achehnese marriage its peculiar character.
+The **ha' balee** — literally "the right of the widow or widower," from the Arabic *ḥaqq* ("right") and the Achehnese *balee* (which means both widow and widower) — is, in the marriage law of [[Acheh]], the right of a surviving spouse to recover one half of the *jinamee* (dowry) on the death of the other party during the currency of the [[Jinamee|janji jinamee]] (the period of secured marriage). C. Snouck Hurgronje treats it in *The Achehnese* as one of the distinctive institutions of Achehnese family law, intimately connected with the matrilocal residence rules that give Achehnese marriage its peculiar character.
 
 ## The Right
 
@@ -14,7 +14,7 @@ A wife who becomes a widow during the *janji jinamee* has just as little claim t
 
 ## Social Context
 
-The institution of the *ha' balee* is intelligible only in connection with the larger system of which it forms a part. The [[Janji Jinamee|janji jinamee]] is the period during which the husband resides matrilocally in the house of his wife, and during which the *jinamee* — the dowry due to the wife — remains as a charge on the husband. The *ha' balee* reflects the practical consequence of this arrangement: since the wife's family has the benefit of the husband's labour during the *jinji jinamee*, the half-dowry is returned to the widower as a recognition of the unfulfilled term. Conversely, the widow who loses her husband during this period takes not the legal portion of his estate but half her dowry, the remainder of the inheritance being distributed among his heirs.
+The institution of the *ha' balee* is intelligible only in connection with the larger system of which it forms a part. The [[Jinamee|janji jinamee]] is the period during which the husband resides matrilocally in the house of his wife, and during which the *jinamee* — the dowry due to the wife — remains as a charge on the husband. The *ha' balee* reflects the practical consequence of this arrangement: since the wife's family has the benefit of the husband's labour during the *jinji jinamee*, the half-dowry is returned to the widower as a recognition of the unfulfilled term. Conversely, the widow who loses her husband during this period takes not the legal portion of his estate but half her dowry, the remainder of the inheritance being distributed among his heirs.
 
 The father of a deceased wife sometimes privately warns his son-in-law not to expend too much money in the funeral kanduris (for instance, that held on the seventh day after the death), as any hopes he may cherish of a share in the subsequent distribution of property will be disappointed, and he will get no more than the *ha' balee*. Yet often, even in such cases, the husband gives as costly a feast as he can. The reuangkleh (the formal "putting forth" of the wife from her parents' charge) at the end of the *janji jinamee* ends this mutual dependence, and from that point the woman is committed to the sole charge of her husband.
 
@@ -24,7 +24,7 @@ The *ha' balee* is one of a complex of institutions that, in Snouck Hurgronje's 
 
 ## See Also
 
-- [[Janji Jinamee]]
+- [[Jinamee|Janji Jinamee]]
 - [[Pulang Balee]]
 - [[Peungkleh]]
 - [[Talaq in Acheh]]

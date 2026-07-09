@@ -16,7 +16,7 @@ The *musem ludih blang* is further the appointed time for several ritual and pra
 
 - [[Keunong]]
 - [[Musem piche köt blang]]
-- [[Musem tiniu]]
+- [[N.E. Monsoon|Musem tiniu]]
 - [[Pula batee]]
 - [[Pula system of planting out padi]]
 - [[Tabu system of sowing padi]]

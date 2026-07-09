@@ -17,12 +17,12 @@ By [[1914]] (St. No. 1914, 87) the gouvernement was divided into five *afdeeling
 
 ## Governors
 
-The gouverneurs listed in Bijlage I begin with the first Civil and Military Governor of [[1874]] and run through [[Joannes Benedictus van Heutsz|van Heutsz]] ([[1898]]–[[1904]]), Jhr. J. C. v. d. Wyck ([[1904]]–[[1905]]), [[G. C. E. van Daalen|van Daalen]] ([[1905]]–[[1908]]), and [[H. N. A. Swart|Swart]] ([[1908]] onward). Van Heutsz's appointment, *De Buitenbezittingen* states, "beteekende echter het begin van eene geheel nieuwe periode in ons optreden," the period of *vliegende colonnes* and consolidated rule.
+The gouverneurs listed in Bijlage I begin with the first Civil and Military Governor of [[1874]] and run through [[Joannes Benedictus van Heutsz|van Heutsz]] ([[1898]]–[[1904]]), Jhr. J. C. v. d. Wyck ([[1904]]–[[1905]]), [[Gotfried Coenraad Ernst van Daalen|van Daalen]] ([[1905]]–[[1908]]), and [[H. N. A. Swart|Swart]] ([[1908]] onward). Van Heutsz's appointment, *De Buitenbezittingen* states, "beteekende echter het begin van eene geheel nieuwe periode in ons optreden," the period of *vliegende colonnes* and consolidated rule.
 
 Two Governors of Atjeh are featured prominently in the *Nederlandsch Indië Platen Atlas* ([[1926]]) portrait gallery of "Groote Mannen uit de Nieuwste Geschiedenis van Nederl.-Oost-Indië":
 
 - [[Governor Van der Heyden|H. K. van der Heyden]] (appointed [[1878]]), who achieved sufficient success to enable the introduction of regular administration (*geregeld bestuur*) in [[1879]].
-- [[Governor Van Heutsz|J. B. van Heutsz]] (appointed [[1897]]), who accomplished the subjugation of the territory and later served as Governor-General ([[1905]]–[[1909]]), completing the pacification of the [[Buitengewesten]].
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] (appointed [[1897]]), who accomplished the subjugation of the territory and later served as Governor-General ([[1905]]–[[1909]]), completing the pacification of the [[Buitengewesten]].
 
 ## Account from *De Buitenbezittingen* ([[1917]]) — Colonial Administration
 
@@ -95,7 +95,7 @@ By [[1926]], the Gouvernement Atjeh en Onderhoorigheden possessed an important a
 
 ## Significance
 
-[[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]] is, in the Encyclopaedisch Bureau's account, the Buitenbezittingen gewest in which the post-[[1896]] Dutch project of "effective authority" was most fully and most recently realised. The combination of the rapid expansion of the [[Landschapskassen|landschapskassen]], the special 6:4 fiscal regime, the exceptional military command of the police, the unique peper- en pinanghasil revenues, and the systematic extension of the [[Atjeh-tram|Atjeh-tramway]] network all mark the gewest as the paradigmatic case of the post-pacification colonial order. The *Nederlandsch Indië Platen Atlas* ([[1926]]) cements this status by featuring two of its governors — [[Governor Van der Heyden|Van der Heyden]] and [[Governor Van Heutsz|Van Heutsz]] — among the "Groote Mannen" of the latest colonial history.
+[[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]] is, in the Encyclopaedisch Bureau's account, the Buitenbezittingen gewest in which the post-[[1896]] Dutch project of "effective authority" was most fully and most recently realised. The combination of the rapid expansion of the [[Landschapskassen|landschapskassen]], the special 6:4 fiscal regime, the exceptional military command of the police, the unique peper- en pinanghasil revenues, and the systematic extension of the [[Atjeh-tram|Atjeh-tramway]] network all mark the gewest as the paradigmatic case of the post-pacification colonial order. The *Nederlandsch Indië Platen Atlas* ([[1926]]) cements this status by featuring two of its governors — [[Governor Van der Heyden|Van der Heyden]] and [[Joannes Benedictus van Heutsz|Van Heutsz]] — among the "Groote Mannen" of the latest colonial history.
 
 ## See Also
 
@@ -104,7 +104,7 @@ By [[1926]], the Gouvernement Atjeh en Onderhoorigheden possessed an important a
 - [[Kota Radja]]
 - [[Aceh War]]
 - [[Joannes Benedictus van Heutsz]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[Governor Van der Heyden]]
 - [[H. N. A. Swart]]
 - [[Korte Verklaring]]

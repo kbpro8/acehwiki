@@ -3,7 +3,7 @@ title: Tapanoeli
 aliases: [Tapanuli, Tapanoeli, baai Tapanoeli, Bay of Tapanuli, Tappanooly]
 tags: [place, bay, coast, colony, foreign]
 ---
-**Tapanoeli** (modern **Tapanuli**) is a bay and residency on the west coast of [[Sumatra]], included by the Dutch in the cession of [[Bencoolen|Benkoelen]] under article 10 of the [[Anglo-Dutch Treaty of London (1824)|treaty of 17 March 1824]]. In P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819*, the **baai Tapanoeli** is, together with the point of [[Anjer]] on [[Java]], the second of the two places for which the Dutch plenipotentiaries of [[1824]] promised the British special rights of access — a concession that [[Elout|Minister Elout]] sharply criticised and that the King ultimately rejected.
+**Tapanoeli** (modern **Tapanuli**) is a bay and residency on the west coast of [[Sumatra]], included by the Dutch in the cession of [[Bencoolen|Benkoelen]] under article 10 of the [[Anglo-Dutch Treaty of 1824|treaty of 17 March 1824]]. In P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819*, the **baai Tapanoeli** is, together with the point of [[Anjer]] on [[Java]], the second of the two places for which the Dutch plenipotentiaries of [[1824]] promised the British special rights of access — a concession that [[Elout|Minister Elout]] sharply criticised and that the King ultimately rejected.
 
 ## Article 10 of the draft convention
 
@@ -26,7 +26,7 @@ Van der Kemp prints the article and the critique side by side as part of his ind
 - [[Elout]]
 - [[Anton Reinhard Falck]]
 - [[Hendrik Fagel]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Hindostan]]
 - [[Netherlands India]]
 

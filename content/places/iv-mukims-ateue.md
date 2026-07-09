@@ -16,7 +16,7 @@ A tradition recorded by Achehnese authorities on adat speaks of "the twelve ulee
 
 ## A List of Limited Authority
 
-Snouck Hurgronje cautions that this list, even if we disregard its subordination of facts to round numbers, "at most represents the conditions that existed during a short period." The whole twelve had not in the long run a voice in the affairs of the capital, while some of them had absolutely no share therein. On the other hand, there were uleebalangs in the sultan's territory and the so-called wakeuëh-districts — such as [[Teuku Kali]] the [[Panglima Meuseugit Raya]], the [[Imeum of Lueng Bata]] and the [[Imeum of Chade'|Imeum of Chadé]] — who had much more weight in the scale than many of the members of the board of twelve. The IV Mukims Ateue, despite its traditional place, was no longer in Snouck Hurgronje's time the power it had once been.
+Snouck Hurgronje cautions that this list, even if we disregard its subordination of facts to round numbers, "at most represents the conditions that existed during a short period." The whole twelve had not in the long run a voice in the affairs of the capital, while some of them had absolutely no share therein. On the other hand, there were uleebalangs in the sultan's territory and the so-called wakeuëh-districts — such as [[Teuku Kali Malikon Ade|Teuku Kali]] the [[Panglima Meuseugit Raya]], the [[Imeum of Lueng Bata]] and the [[Imeum of Chade'|Imeum of Chadé]] — who had much more weight in the scale than many of the members of the board of twelve. The IV Mukims Ateue, despite its traditional place, was no longer in Snouck Hurgronje's time the power it had once been.
 
 ## See Also
 

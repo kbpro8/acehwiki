@@ -32,13 +32,13 @@ When [[Lord Moira|Lord Moira]], Governor-General of [[Bengal|Bengalen]], decided
 
 ## A pawn in the Anglo-Dutch revision
 
-After the [[Anglo-Dutch Treaty of London (1814)|treaty of 1814]] restored the Dutch possessions in the East, Bencoolen's situation became untenable. British-Indian officials in [[Bengal|Bengalen]] urged the Dutch to surrender the now-worthless factories in [[Hindostan]] in exchange for Bencoolen. [[Anton Reinhard Falck|Falck]] and [[Hendrik Fagel|Fagel]] had agreed already in [[1814]] on the worthlessness of the Hindostan factories, and [[Elout|Commissioner-General Elout]] in February [[1817]] formally recommended that Bencoolen be taken over in exchange for them. This became the foundation of the revision of the treaty of 1814 culminating in the [[Anglo-Dutch Treaty of London (1824)|treaty of London of 17 March 1824]].
+After the [[Anglo-Dutch Treaty of London (1814)|treaty of 1814]] restored the Dutch possessions in the East, Bencoolen's situation became untenable. British-Indian officials in [[Bengal|Bengalen]] urged the Dutch to surrender the now-worthless factories in [[Hindostan]] in exchange for Bencoolen. [[Anton Reinhard Falck|Falck]] and [[Hendrik Fagel|Fagel]] had agreed already in [[1814]] on the worthlessness of the Hindostan factories, and [[Elout|Commissioner-General Elout]] in February [[1817]] formally recommended that Bencoolen be taken over in exchange for them. This became the foundation of the revision of the treaty of 1814 culminating in the [[Anglo-Dutch Treaty of 1824|treaty of London of 17 March 1824]].
 
 Van der Kemp characterises the surrender as a deliberate sacrifice: "we bade farewell to our possessions on the Ganges, more glorious in memory; for that we finally acquiesced in the humiliation of [[Singapore]]; for that we threw in costly [[Malacca]] to boot." Under article 10 of the 1824 treaty the transfer of Bencoolen to the Dutch took effect, and with it the abandonment of British political influence on Sumatra as a whole. The British plenipotentiaries nevertheless stipulated that "the new possessor of Fort Marlborough" should take no hostile measures against the King of [[Acheh]] — a stipulation whose very formulation Van der Kemp treats as a piece of effrontery.
 
 ## Significance
 
-Bencoolen is the long English counterweight to the Dutch Westkust system. The Compagnie's Painansch Contract system extended along the Westkust from [[Singkel]] in the north to [[Silebar|Sillebar]] in the south, and the [[1684]] treaty had just secured the Compagnie's monopoly in Bantam itself; the English relocation to Bencoolen in [[1685]] — on territory the Compagnie considered its own — opened a long English presence on the Westkust that would last until the [[Anglo-Dutch Treaty of London (1824)|1824 Anglo-Dutch Treaty of London]]. The Bencoolen period is the connecting thread between the seventeenth-century Dutch-Acehnese Westkust contest and the nineteenth-century Anglo-Dutch Sumatran contest.
+Bencoolen is the long English counterweight to the Dutch Westkust system. The Compagnie's Painansch Contract system extended along the Westkust from [[Singkel]] in the north to [[Silebar|Sillebar]] in the south, and the [[1684]] treaty had just secured the Compagnie's monopoly in Bantam itself; the English relocation to Bencoolen in [[1685]] — on territory the Compagnie considered its own — opened a long English presence on the Westkust that would last until the [[Anglo-Dutch Treaty of 1824|1824 Anglo-Dutch Treaty of London]]. The Bencoolen period is the connecting thread between the seventeenth-century Dutch-Acehnese Westkust contest and the nineteenth-century Anglo-Dutch Sumatran contest.
 
 The Bencoolen establishment is also the operational proof that the Compagnie's Westkust authority, however complete on the treaty paper, could not exclude a determined European rival. The Painansch Contract system gave the Compagnie exclusive rights against all other European and native nations — except Atjehers — but the English presence at Bencoolen from [[1685]] onward is the standing contradiction of that exclusivity.
 
@@ -67,7 +67,7 @@ The Bencoolen establishment is also the operational proof that the Compagnie's W
 - [[Malacca]]
 - [[Singapore]]
 - [[Anglo-Dutch Treaty of London (1814)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Hindostan]]
 - [[Sultan Hadji of Bantam]]
 - [[Painansch Contract]]

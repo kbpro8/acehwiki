@@ -18,7 +18,7 @@ Another preventive of epidemics, employed "so to speak officially" in Acheh in e
 
 ## Place in Achehnese Folk Religion
 
-The *both lanchang* belongs to that stratum of Achehnese folk religion in which Islamic formulae overlay an older substratum of animistic and Hindu-Javanese practice. It stands alongside other curious methods of preventing and resisting epidemics: on [[Pulo Breueh|Pulo Breueh]] (Bras) an old *karieng*-tree — the "Ja Karieng" — was believed to have the power of enchaining epidemics and letting them loose upon the people at will. Once a year the inhabitants of the island held there a great *[[kanduri]]*, offering up flowers and incense, and taking sea-baths close by; were this festival not observed, it was thought that the coming year would surely be marked by pestilence.
+The *both lanchang* belongs to that stratum of Achehnese folk religion in which Islamic formulae overlay an older substratum of animistic and Hindu-Javanese practice. It stands alongside other curious methods of preventing and resisting epidemics: on [[Pulo Breueh|Pulo Breueh]] (Bras) an old *karieng*-tree — the "Ja Karieng" — was believed to have the power of enchaining epidemics and letting them loose upon the people at will. Once a year the inhabitants of the island held there a great *[[Kanduri|kanduri]]*, offering up flowers and incense, and taking sea-baths close by; were this festival not observed, it was thought that the coming year would surely be marked by pestilence.
 
 ## See Also
 

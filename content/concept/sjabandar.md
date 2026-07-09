@@ -8,7 +8,7 @@ tags: [concept, office, acehnese, colonial-administration]
 
 ## The Office
 
-The sjabandar was the official responsible for the regulation of trade and shipping at the port of Atjeh, and for the relations between the sultan's court and the foreign merchants who traded there. The office was therefore one of the principal points of contact between the sultanate and the outside world, and the holder of the office was a figure of considerable influence. In the political constitution of the sultanate, the sjabandar stood beside the [[Panglima Polim|panglima polim]] (the head of the [[XXII Moekims|XXII Moekims]]), the [[panglima missigit raja|panglima missigit raja]] (the head of the territory of the great mosque), and the [[toekoe kali malikon ade|toekoe kali malikon ade]] (originally the chief justice) as one of the principal officials of the sultan's immediate territory, not belonging to the three [[sagi|sagis]].
+The sjabandar was the official responsible for the regulation of trade and shipping at the port of Atjeh, and for the relations between the sultan's court and the foreign merchants who traded there. The office was therefore one of the principal points of contact between the sultanate and the outside world, and the holder of the office was a figure of considerable influence. In the political constitution of the sultanate, the sjabandar stood beside the [[Panglima Polem|panglima polim]] (the head of the [[XXII Moekims|XXII Moekims]]), the [[panglima missigit raja|panglima missigit raja]] (the head of the territory of the great mosque), and the [[toekoe kali malikon ade|toekoe kali malikon ade]] (originally the chief justice) as one of the principal officials of the sultan's immediate territory, not belonging to the three [[sagi|sagis]].
 
 ## Panglima Tiban Mohammed
 
@@ -17,7 +17,7 @@ The most notable sjabandar of Atjeh in the period covered by the source work was
 ## See Also
 
 - [[Panglima Tiban Mohammed]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Habib Abdoerrahman]]
 - [[Sultan of Aceh]]
 - [[Riouw]]

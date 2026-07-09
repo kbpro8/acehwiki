@@ -17,8 +17,8 @@ The monograph is a primary source for scholars studying Dutch amphibious tactics
 
 ## See Also  
 
-- [[Atjeh campaign (26 December 1875 – 4 September 1876)]]  
-- [[Korps Mariniers]]  
+- [[Aceh Expedition (1873–1876)|Atjeh campaign (26 December 1875 – 4 September 1876)]]  
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]  
 - [[Map of Groot Atjeh]]  
 - [[Atjeh Marineblad (1890–1891)]]  
 

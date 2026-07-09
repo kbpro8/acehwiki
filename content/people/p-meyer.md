@@ -5,7 +5,7 @@ aliases: [Mr. P. Myer, Mr. P. Meyer, P. Myer]
 tags: [person, dutch-author, scholar, cited-source]
 ---
 
-**P. Meyer** (also rendered **Mr. P. Myer** in the older Dutch spelling) was a nineteenth-century Dutch author whose chief contribution to the historical literature on the Netherlands East Indies was a substantial [[biography]] of [[J. C. Baud|Jean Chrétien Baud]] published in [[1878]]. The work appeared at a time when Dutch colonial history was being written up systematically by a generation of archivally minded scholars — among them [[L. W. G. N. Netscher|Netscher]], [[Levyssohn Norman]], [[Hoek]], [[L. J. P. J. Jeekel|Jeekel]], [[J. E. de Sturler|De Sturler]] and [[Van Hogendorp]] — whose publications [[P. H. van der Kemp|Van der Kemp]] mined for the documentation underpinning his own articles.
+**P. Meyer** (also rendered **Mr. P. Myer** in the older Dutch spelling) was a nineteenth-century Dutch author whose chief contribution to the historical literature on the Netherlands East Indies was a substantial [[biography]] of [[J. C. Baud|Jean Chrétien Baud]] published in [[1878]]. The work appeared at a time when Dutch colonial history was being written up systematically by a generation of archivally minded scholars — among them [[L. W. G. N. Netscher|Netscher]], [[H. D. Levyssohn Norman|Levyssohn Norman]], [[Hoek]], [[L. J. P. J. Jeekel|Jeekel]], [[J. E. de Sturler|De Sturler]] and [[Van Hogendorp]] — whose publications [[P. H. van der Kemp|Van der Kemp]] mined for the documentation underpinning his own articles.
 
 ## The Baud biography
 
@@ -15,13 +15,13 @@ The passage in which Van der Kemp invokes Meyer comes in the chapter discussing 
 
 ## Significance
 
-Meyer's role in the present article is that of a source-citer rather than an actor. He is one of a network of late-nineteenth-century Dutch writers whose editorial labours made the archives of the early colonial state accessible to a later generation. Without his transcription and contextualisation of Baud's correspondence, Van der Kemp's reconstruction of the considerations behind the [[Anglo-Dutch Treaty of London (1824)|1824 treaty]] and the [[Acheh treaty of 1819|Treaty of Pedir]] would have been markedly poorer.
+Meyer's role in the present article is that of a source-citer rather than an actor. He is one of a network of late-nineteenth-century Dutch writers whose editorial labours made the archives of the early colonial state accessible to a later generation. Without his transcription and contextualisation of Baud's correspondence, Van der Kemp's reconstruction of the considerations behind the [[Anglo-Dutch Treaty of 1824|1824 treaty]] and the [[Treaty of Pedir (1819)|Treaty of Pedir]] would have been markedly poorer.
 
 ## See Also
 
 - [[J. C. Baud]]
 - [[Falck]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[P. H. van der Kemp]]
 
 ## Source
@@ -30,7 +30,7 @@ Meyer's role in the present article is that of a source-citer rather than an act
 ---
 
 
-**P. Meyer** (also rendered **Mr. P. Myer** in the older Dutch spelling) was a nineteenth-century Dutch author whose chief contribution to the historical literature on the Netherlands East Indies was a substantial [[biography]] of [[J. C. Baud|Jean Chrétien Baud]] published in [[1878]]. The work appeared at a time when Dutch colonial history was being written up systematically by a generation of archivally minded scholars — among them [[L. W. G. N. Netscher|Netscher]], [[Levyssohn Norman]], [[Hoek]], [[L. J. P. J. Jeekel|Jeekel]], [[J. E. de Sturler|De Sturler]] and [[Van Hogendorp]] — whose publications [[P. H. van der Kemp|Van der Kemp]] mined for the documentation underpinning his own articles.
+**P. Meyer** (also rendered **Mr. P. Myer** in the older Dutch spelling) was a nineteenth-century Dutch author whose chief contribution to the historical literature on the Netherlands East Indies was a substantial [[biography]] of [[J. C. Baud|Jean Chrétien Baud]] published in [[1878]]. The work appeared at a time when Dutch colonial history was being written up systematically by a generation of archivally minded scholars — among them [[L. W. G. N. Netscher|Netscher]], [[H. D. Levyssohn Norman|Levyssohn Norman]], [[Hoek]], [[L. J. P. J. Jeekel|Jeekel]], [[J. E. de Sturler|De Sturler]] and [[Van Hogendorp]] — whose publications [[P. H. van der Kemp|Van der Kemp]] mined for the documentation underpinning his own articles.
 
 ## The Baud biography
 
@@ -40,13 +40,13 @@ The passage in which Van der Kemp invokes Meyer comes in the chapter discussing 
 
 ## Significance
 
-Meyer's role in the present article is that of a source-citer rather than an actor. He is one of a network of late-nineteenth-century Dutch writers whose editorial labours made the archives of the early colonial state accessible to a later generation. Without his transcription and contextualisation of Baud's correspondence, Van der Kemp's reconstruction of the considerations behind the [[Anglo-Dutch Treaty of London (1824)|1824 treaty]] and the [[Acheh treaty of 1819|Treaty of Pedir]] would have been markedly poorer.
+Meyer's role in the present article is that of a source-citer rather than an actor. He is one of a network of late-nineteenth-century Dutch writers whose editorial labours made the archives of the early colonial state accessible to a later generation. Without his transcription and contextualisation of Baud's correspondence, Van der Kemp's reconstruction of the considerations behind the [[Anglo-Dutch Treaty of 1824|1824 treaty]] and the [[Treaty of Pedir (1819)|Treaty of Pedir]] would have been markedly poorer.
 
 ## See Also
 
 - [[J. C. Baud]]
 - [[Falck]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[P. H. van der Kemp]]
 
 ## Source

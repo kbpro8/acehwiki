@@ -27,7 +27,7 @@ He had been struck by a bullet — probably a sharpshooter's — while standing 
 
 ## Legacy
 
-Köhler's death and the failure of the first expedition were attributed by the author of the source work chiefly to "the unfamiliarity with the situation, the too low opinion of the enemy's strength and perseverance, and the consequent inadequate preparation of the expedition." The lesson was not lost on his successors: the [[Second Aceh Expedition (1873-1874)|second expedition]] of [[November 1873]] under [[J. van Swieten|Lieutenant-general J. van Swieten]] was strengthened to 6354 infantry, all troops were equipped with breech-loaders, and the artillery was considerably reinforced. [[G. M. Verspyck|Major-general Verspyck]], who had been designated as Köhler's successor, was available to take command immediately, but it was decided instead to wait for the better season and to send out Van Swieten.
+Köhler's death and the failure of the first expedition were attributed by the author of the source work chiefly to "the unfamiliarity with the situation, the too low opinion of the enemy's strength and perseverance, and the consequent inadequate preparation of the expedition." The lesson was not lost on his successors: the [[Second Aceh Expedition (1873-1874)|second expedition]] of [[November 1873]] under [[Jan van Swieten|Lieutenant-general J. van Swieten]] was strengthened to 6354 infantry, all troops were equipped with breech-loaders, and the artillery was considerably reinforced. [[G. M. Verspyck|Major-general Verspyck]], who had been designated as Köhler's successor, was available to take command immediately, but it was decided instead to wait for the better season and to send out Van Swieten.
 
 ## Account from *Dispereert Niet Vol. XI* (1946) — General Köhler
 
@@ -52,18 +52,18 @@ Köhler's death demoralized the Dutch forces and prevented them from consolidati
 ## See Also
 - [[First Aceh Expedition (1873)]]
 - [[Battle of the Missigit (10 April 1873)]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[G. M. Verspyck]]
 - [[F. N. Nieuwenhuysen]]
 - [[W. E. Kroesen]]
 - [[E. C. van Daalen]]
 - [[Kraton of Aceh]]
 - [[Aceh War]]
-- [[General Van Swieten]]
+- [[Jan van Swieten|General Van Swieten]]
 - [[Kutaradja]]
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Nieuwenhuizen]]
-- [[Van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [[Het Land van Jan Pieterszoon Coen (Terwogt)]]
 - [[Dr. W. A. Terwogt]]
 - [[Terwogt's account of the Atjeh-oorlog (1891)]]

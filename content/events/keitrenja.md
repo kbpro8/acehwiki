@@ -17,7 +17,7 @@ The keitrenja is brought to its formal close by a rite of "cooling." Not until a
 - [[Andam]]
 - [[Mamplenc]]
 - [[Peusunteng]]
-- [[Janji Jinamee]]
+- [[Jinamee|Janji Jinamee]]
 - [[Kanduri (general)]]
 
 ## Source

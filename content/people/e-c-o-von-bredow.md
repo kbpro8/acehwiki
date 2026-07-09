@@ -18,7 +18,7 @@ Captain [[E. C. van Daalen|Van Daalen]], who was in front of the verhakking and 
 ## See Also
 
 - [[E. C. van Daalen]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[Mas Soemo Widikdjo]]
 - [[Kraton of Aceh]]
 - [[Lemboe]]
@@ -46,7 +46,7 @@ Captain [[E. C. van Daalen|Van Daalen]], who was in front of the verhakking and 
 ## See Also
 
 - [[E. C. van Daalen]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[Mas Soemo Widikdjo]]
 - [[Kraton of Aceh]]
 - [[Lemboe]]

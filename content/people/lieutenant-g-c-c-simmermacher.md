@@ -15,7 +15,7 @@ Simmermacher’s death illustrates the high cost of mountain assaults and the vu
 
 ## See Also
 - [[Blang Kala]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Aceh War]]
 - [[Colonel Meyer Expedition]]
 

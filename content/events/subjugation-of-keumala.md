@@ -8,7 +8,7 @@ The **subjugation of Keumala** refers to the forceful reduction of the seat of t
 
 ## The flight to Keumala and the pretender's court
 
-When Sultan Mahmut Shah died shortly after the loss of the Dalam, it was not thought necessary even in so perilous a crisis to select from among the candidates for the succession a man before all things. They contented themselves with a child, [[Tuanku Muhamat Dawot]]; and though his guardian Tuanku Asem (Hashim) was a man of royal blood most bitterly hostile to the Dutch Government, even he preferred to watch the contest with interest from a distance rather than himself to take a serious share in it, much less to enter the lists as a leader. When once the fugitive "court" had found a safe place of refuge in Keumala, its establishment there gave to the place a sacral prestige which made it the goal of pilgrimages from uleebalangs on both sides of the Dutch "linie", and the chancery from which the [[Sarakata with chab sikureu'eng|sarakatas with the ninefold seal]] continued to issue.
+When Sultan Mahmut Shah died shortly after the loss of the Dalam, it was not thought necessary even in so perilous a crisis to select from among the candidates for the succession a man before all things. They contented themselves with a child, [[Tuanku Muhamat Dawot]]; and though his guardian Tuanku Asem (Hashim) was a man of royal blood most bitterly hostile to the Dutch Government, even he preferred to watch the contest with interest from a distance rather than himself to take a serious share in it, much less to enter the lists as a leader. When once the fugitive "court" had found a safe place of refuge in Keumala, its establishment there gave to the place a sacral prestige which made it the goal of pilgrimages from uleebalangs on both sides of the Dutch "linie", and the chancery from which the [[Sarakata|sarakatas with the ninefold seal]] continued to issue.
 
 ## The impotence of the Sultan
 
@@ -26,7 +26,7 @@ The pretender to the sultanate was at length compelled, some years before the cl
 - [[Tuanku Muhamat Dawot]]
 - [[Submission of Tuanku Muhamat Dawot]]
 - [[Teuku Uma]]
-- [[Sarakata with chab sikureu'eng]]
+- [[Sarakata|Sarakata with chab sikureu'eng]]
 - [[Acheh War]]
 
 ## Source

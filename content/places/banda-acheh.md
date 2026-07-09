@@ -26,7 +26,7 @@ The [[Dalam]] — the Sultan's residence — was the political and ceremonial ce
 
 Around the court and the principal mosque clustered a number of fine and prosperous gampongs which together constituted the urban settlement. The most important of these were [[Gampong Jawa]], Pande, [[Peunayong]], Lam Bhu', [[Lueng Bata]], [[Lam Seupeu'eng]], Ateung, Batoh and [[Meura'sa]]. The inhabitants of these and the neighbouring villages, with their language and customs, formed the immediate population of the capital. When Snouck Hurgronje speaks of the sultanate of Acheh as it appeared in modern times, as being the ruined relic of what it once was, he notes that this only applies to the importance of Banda Acheh as a commercial town and the external influence of the rajas; even in past centuries the influence they exercised on the affairs of the interior was always slight.
 
-The political institutions of the capital were dominated by the presence of the [[Dalam (Sultan's Court)|Dalam]] — the Sultan's stronghold — and by the hereditary [[Panglima Meuseugit Raya]] who administered, as an appurtenance of the principal mosque (*[[Meuseugit Raya]]*), about twenty-four gampongs on either side of the [[Acheh River]]. The office of Panglima Meuseugit Raya was hereditary, and thus soon came to be distinguished from an ordinary uleebalangship only through the name and proximity of the Dalam. In course of time the Panglima was deprived of half his territory by a powerful neighbour, who wrested from the weak office-holder the twelve gampongs on the right bank of the river; the two rival houses afterwards espoused opposite sides whenever a dispute arose as to the succession to the throne, the Panglima Meuseugit Raya and the [[Kali Malikon Ade|Teuku Kali Malikon Ade]] usually taking contrary parties.
+The political institutions of the capital were dominated by the presence of the [[Dalam (Sultan's Court)|Dalam]] — the Sultan's stronghold — and by the hereditary [[Panglima Meuseugit Raya]] who administered, as an appurtenance of the principal mosque (*[[Meuseugit Raya]]*), about twenty-four gampongs on either side of the [[Acheh River]]. The office of Panglima Meuseugit Raya was hereditary, and thus soon came to be distinguished from an ordinary uleebalangship only through the name and proximity of the Dalam. In course of time the Panglima was deprived of half his territory by a powerful neighbour, who wrested from the weak office-holder the twelve gampongs on the right bank of the river; the two rival houses afterwards espoused opposite sides whenever a dispute arose as to the succession to the throne, the Panglima Meuseugit Raya and the [[Teuku Kali Malikon Ade|Teuku Kali Malikon Ade]] usually taking contrary parties.
 
 After the loss of the Dalam the political nullity of Banda Acheh as a centre of authority became manifest. There was no single individual or body competent or authorised to adopt resolutions as to the fate of Acheh or even of the capital itself, since there was no guarantee that such resolutions would be binding on others. The sultanate at once exhibited itself in all its nullity. Even the principal hereditary holders of offices or titles were powerless; the most that the pretender at [[Keumala]] could do was to issue *sarakata* — sealed deeds of appointment — to such chiefs as succeeded in obtaining them by pilgrimages. In religious and ceremonial life, however, the capital continued to give the lead: a specially great *kanduri Mo'lot* is held at the tomb of [[Teungku Anjong]] in Gampong Jawa on the actual Mo'lot day, and the principal *kanduris* of the capital's calendar set the pattern for the whole country.
 **Banda Acheh** (also written **Banda-Acheh**, modern **Banda Aceh**) was, in the political system described by [[C. Snouck Hurgronje|Snouck Hurgronje]] in *The Achehnese*, the capital and principal trading-mart of [[Acheh]]. The name literally signifies "the capital or trading mart of Acheh," and its inhabitants, together with those of the neighbouring villages, were distinguished by the epithet **banda** — that is, "town-bred" or "civilized." In contrast, all those who spoke in their own local dialects and were unacquainted with the manners of the town were called **dareun** (cf. Malay *désa*), meaning "countrified" or "uncivilized."
@@ -37,7 +37,7 @@ After the loss of the Dalam the political nullity of Banda Acheh as a centre of 
 
 ## Political situation in 1819
 
-When the [[Raffles-Coombs Acheh Commission (1819)]] dropped anchor before Banda Acheh on [[14 March]] [[1819]], the city was without a sultan in residence. The deposed [[Sultan Jauhar Alum]] had withdrawn to [[Pedir]], and the upstart [[Sultan Saif ul-Alum]] (Syf) had been driven out to establish his rival court at [[Telok Semawé]]. Effective authority at the capital was exercised, as the Calcutta government reported to London, "in naam door den raad der Sagis, maar in werkelijkheid door [[Panglima Polim]] bijgestaan door zijne aanhangers" — nominally by the council of the [[Three Sagis]], but in reality by Panglima Polim and his adherents.
+When the [[Raffles-Coombs Acheh Commission (1819)]] dropped anchor before Banda Acheh on [[14 March]] [[1819]], the city was without a sultan in residence. The deposed [[Sultan Jauhar Alum]] had withdrawn to [[Pedir]], and the upstart [[Sultan Saif ul-Alum]] (Syf) had been driven out to establish his rival court at [[Telok Semawé]]. Effective authority at the capital was exercised, as the Calcutta government reported to London, "in naam door den raad der Sagis, maar in werkelijkheid door [[Panglima Polem|Panglima Polim]] bijgestaan door zijne aanhangers" — nominally by the council of the [[Three Sagis]], but in reality by Panglima Polim and his adherents.
 
 The three sagis in question — the [[XXII Mukims]], [[XXV Mukims]] and [[XXVI Mukims]] — were the highland and lowland confederacies surrounding the capital, whose chiefs had since the late seventeenth century acted as kingmakers. Panglima Polim, head of the XXII Mukims, was regarded as the foremost among them.
 
@@ -53,7 +53,7 @@ In the years following the treaty, Banda Acheh remained effectively independent 
 
 ## Account from *De Buitenbezittingen* (1917) — Koeta Radja
 
-**Koeta Radja** (Kuta Raja, "Fort of the King") was the *bestuursvestiging* and hoofdplaats of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] — the seat of the Civil and Military Governor, the focal point of the *geconcentreerde linie* that anchored Dutch power in [[Atjeh]] from [[1874]] onward, and, by [[1917]], the principal administrative, military, and commercial centre of the entire *gewest*. *De Buitenbezittingen* describes it as the place where, "in den harden strijd, door onze troepen gedurende langen tijd op Atjeh gestreden," the colonial state had its visible centre, and from which the successive governorships of [[Joannes Benedictus van Heutsz|van Heutsz]], Jhr. J. C. v. d. Wyck, [[G. C. E. van Daalen|van Daalen]] and [[H. N. A. Swart|Swart]] were exercised.
+**Koeta Radja** (Kuta Raja, "Fort of the King") was the *bestuursvestiging* and hoofdplaats of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] — the seat of the Civil and Military Governor, the focal point of the *geconcentreerde linie* that anchored Dutch power in [[Atjeh]] from [[1874]] onward, and, by [[1917]], the principal administrative, military, and commercial centre of the entire *gewest*. *De Buitenbezittingen* describes it as the place where, "in den harden strijd, door onze troepen gedurende langen tijd op Atjeh gestreden," the colonial state had its visible centre, and from which the successive governorships of [[Joannes Benedictus van Heutsz|van Heutsz]], Jhr. J. C. v. d. Wyck, [[Gotfried Coenraad Ernst van Daalen|van Daalen]] and [[H. N. A. Swart|Swart]] were exercised.
 
 ## The hoofdplaats of Groot-Atjeh
 
@@ -77,7 +77,7 @@ The residency capital, which "counted over 10,000 inhabitants at the [[1930|1930
 
 ## The crisis of 1941–1942
 
-When the Pacific War broke out on [[8 December]] [[1941]], Koetaradja was the seat of [[Resident J. Pauw|Resident Pauw]] and of Colonel [[Gosenson|Gosenson]], the territorial commander. The heavy bombing of [[Sabang|Sabang]] on [[22 January]] [[1942]] and the daily air reconnaissance flights over Atjèh "had a paralyzing effect on normal life in the various *kota's*," and "many business people leaving the *kota's*." In early February [[1942]] the administration, "in consultation with the territorial commander … designed an emergency evacuation plan for the urban population of Koetaradja and the military families eligible for it to [[Takéngón|Takéngón]], and for the isolated West Coast sub-district of Atjèh to the [[Singkel|Singkel]] sub-district." An "evacuation information committee" was established in Koetaradja under private leadership. The "curfew" established in Koetaradja and the strict control of traffic "had on several occasions given rise to difficulties."
+When the Pacific War broke out on [[8 December]] [[1941]], Koetaradja was the seat of [[Resident J. Pauw|Resident Pauw]] and of Colonel [[G. F. V. Gosenson|G. F. V. Gosenson]], the territorial commander. The heavy bombing of [[Sabang|Sabang]] on [[22 January]] [[1942]] and the daily air reconnaissance flights over Atjèh "had a paralyzing effect on normal life in the various *kota's*," and "many business people leaving the *kota's*." In early February [[1942]] the administration, "in consultation with the territorial commander … designed an emergency evacuation plan for the urban population of Koetaradja and the military families eligible for it to [[Takéngón|Takéngón]], and for the isolated West Coast sub-district of Atjèh to the [[Singkel|Singkel]] sub-district." An "evacuation information committee" was established in Koetaradja under private leadership. The "curfew" established in Koetaradja and the strict control of traffic "had on several occasions given rise to difficulties."
 
 ## The March 1942 collapse
 
@@ -108,7 +108,7 @@ During the Japanese occupation Koetaradja remained the residency capital. The Ma
 - [[The Dalam]]
 - [[The Gunongan]]
 - [[Dalam (Sultan's Court)]]
-- [[Kali Malikon Ade]]
+- [[Teuku Kali Malikon Ade|Kali Malikon Ade]]
 - [[Kuta Raja]]
 - [[Keumala]]
 - [[Peunayong]]
@@ -118,7 +118,7 @@ During the Japanese occupation Koetaradja remained the residency capital. The Ma
 - [[XXII Mukims]]
 - [[XXV Mukims]]
 - [[XXVI Mukims]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Shahbandar of Acheh]]
 - [[Kampong Java]]
 - [[Treaty of Pedir (1819)]]
@@ -136,7 +136,7 @@ During the Japanese occupation Koetaradja remained the residency capital. The Ma
 - [[1908]]
 - [[1917]]
 - [[Resident J. Pauw]]
-- [[Colonel Gosenson]]
+- [[G. F. V. Gosenson|Colonel Gosenson]]
 - [[Seulimeum]]
 - [[Bireuën]]
 - [[Takéngón]]

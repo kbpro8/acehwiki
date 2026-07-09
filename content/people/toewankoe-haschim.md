@@ -11,7 +11,7 @@ tags: [person, royal, acehnese, aceh-war]
 
 In his note of [[30 April]] [[30 April]] [[1875]] General Pel named Toewankoe Haschim among the influential chiefs of the war-party:
 
-> "That party forms, like an army, a fairly coherent whole, which is led by influential chiefs, as [[Panglima Polim|Panglima Polim]], [[Imam of Longbatta|Imam Longbatta]], [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] and others, who have the same motives for their actions as those above assigned to their subordinates, and to which, of course, the relatives of the former sultans, the Toewankoe's Haschim, Hoesin, Abdoel Madjid and others, have attached themselves, who rightly see that they have nothing more to expect from a foreign overrule."
+> "That party forms, like an army, a fairly coherent whole, which is led by influential chiefs, as [[Panglima Polem|Panglima Polem]], [[Imam of Longbatta|Imam Longbatta]], [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] and others, who have the same motives for their actions as those above assigned to their subordinates, and to which, of course, the relatives of the former sultans, the Toewankoe's Haschim, Hoesin, Abdoel Madjid and others, have attached themselves, who rightly see that they have nothing more to expect from a foreign overrule."
 
 ## The Keeper of the Pretender
 
@@ -21,14 +21,14 @@ After the [[Death of Sultan Aladin Mahmood Shah|death of the sultan on 26 Januar
 
 After the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] of [[1879]], the [[Campaign against the XXVI Moekims (July 1879)|campaign against the XXVI Moekims]] of early July, and the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August, Toewankoe Haschim was among those who persisted in their hostile attitude:
 
-> "To be sure, the principal among the hostile chiefs — Toewankoe Haschim, who still kept watch over the young pretender to the sultanship Toewankoe Daoed [destined for the sultan's rank in 1874], [[Imam of Longbatta|Imam Longbatta]], [[Panglima Polim|Panglima Polim]], his son [[Radja Koelala|Radja Koelala]] and others — persisted in their hostile attitude, but their means were scattered and they had placed themselves beyond the reach of our troops, namely at Kemala, in the interior south of Pedir."
+> "To be sure, the principal among the hostile chiefs — Toewankoe Haschim, who still kept watch over the young pretender to the sultanship Toewankoe Daoed [destined for the sultan's rank in 1874], [[Imam of Longbatta|Imam Longbatta]], [[Panglima Polem|Panglima Polem]], his son [[Radja Koelala|Radja Koelala]] and others — persisted in their hostile attitude, but their means were scattered and they had placed themselves beyond the reach of our troops, namely at Kemala, in the interior south of Pedir."
 
 ## See Also
 
 - [[Toewankoe Daoed]]
 - [[Toewankoe Hoesin]]
 - [[Toewankoe Abdoel Madjid]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Radja Koelala]]
 - [[J. L. J. H. Pel]]
@@ -51,7 +51,7 @@ After the [[Campaign against the XXII Moekims (1879)|campaign against the XXII M
 
 In his note of [[30 April]] [[30 April]] [[1875]] General Pel named Toewankoe Haschim among the influential chiefs of the war-party:
 
-> "That party forms, like an army, a fairly coherent whole, which is led by influential chiefs, as [[Panglima Polim|Panglima Polim]], [[Imam of Longbatta|Imam Longbatta]], [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] and others, who have the same motives for their actions as those above assigned to their subordinates, and to which, of course, the relatives of the former sultans, the Toewankoe's Haschim, Hoesin, Abdoel Madjid and others, have attached themselves, who rightly see that they have nothing more to expect from a foreign overrule."
+> "That party forms, like an army, a fairly coherent whole, which is led by influential chiefs, as [[Panglima Polem|Panglima Polem]], [[Imam of Longbatta|Imam Longbatta]], [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] and others, who have the same motives for their actions as those above assigned to their subordinates, and to which, of course, the relatives of the former sultans, the Toewankoe's Haschim, Hoesin, Abdoel Madjid and others, have attached themselves, who rightly see that they have nothing more to expect from a foreign overrule."
 
 ## The Keeper of the Pretender
 
@@ -61,14 +61,14 @@ After the [[Death of Sultan Aladin Mahmood Shah|death of the sultan on 26 Januar
 
 After the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] of [[1879]], the [[Campaign against the XXVI Moekims (July 1879)|campaign against the XXVI Moekims]] of early July, and the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August, Toewankoe Haschim was among those who persisted in their hostile attitude:
 
-> "To be sure, the principal among the hostile chiefs — Toewankoe Haschim, who still kept watch over the young pretender to the sultanship Toewankoe Daoed [destined for the sultan's rank in 1874], [[Imam of Longbatta|Imam Longbatta]], [[Panglima Polim|Panglima Polim]], his son [[Radja Koelala|Radja Koelala]] and others — persisted in their hostile attitude, but their means were scattered and they had placed themselves beyond the reach of our troops, namely at Kemala, in the interior south of Pedir."
+> "To be sure, the principal among the hostile chiefs — Toewankoe Haschim, who still kept watch over the young pretender to the sultanship Toewankoe Daoed [destined for the sultan's rank in 1874], [[Imam of Longbatta|Imam Longbatta]], [[Panglima Polem|Panglima Polem]], his son [[Radja Koelala|Radja Koelala]] and others — persisted in their hostile attitude, but their means were scattered and they had placed themselves beyond the reach of our troops, namely at Kemala, in the interior south of Pedir."
 
 ## See Also
 
 - [[Toewankoe Daoed]]
 - [[Toewankoe Hoesin]]
 - [[Toewankoe Abdoel Madjid]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Radja Koelala]]
 - [[J. L. J. H. Pel]]

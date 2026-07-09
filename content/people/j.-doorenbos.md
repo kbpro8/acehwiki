@@ -24,7 +24,7 @@ In a sixteenth-century Malay translation of the *Burda* of [[Al-Busiri]], Dooren
 - [[C.A.O. van Nieuwenhuijze]]
 - [[Hamzah Pansuri]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Tamhid fi bayan at-tawhid]]
 - [[Tibjan fi ma'rifat al-adyan]]
 - [[Wujudiyyah]]

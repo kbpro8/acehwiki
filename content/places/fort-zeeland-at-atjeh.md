@@ -10,11 +10,11 @@ tags: [place, fort, factory, voc, dutch, atjehnese, colonial, 17th-century]
 
 In [[1602]], after the four Zeeland ships that had come to Atjeh in August [[1601]] had obtained the release of the Dutch prisoners and the Sultan's agreement to compensate [[Frederik de Houtman|Frederik de Houtman]] "en zijn vrouw" for his material losses, the returning ships left at Atjeh the first Dutch office on Sumatra. Godee Molsbergen's text: "In Atjeh kregen de Zeeuwen het eerste Nederlandsche kantoor op Sumatra, 'Zeeland' gedoopt, waar twee kooplieden en enkele Assistenten achterbleven."
 
-The staff — two *kooplieden* (merchants) and several *Assistenten* (assistants) — was small, but the foundation was a deliberate act of Zeeland commercial colonisation: the factory bore the province's name as a mark of its origin. The factory's foundation in [[1602]] is contemporaneous with the founding of the [[Vereenigde Oost-Indische Compagnie|VOC]] itself (the charter is dated [[20 March]] [[1602]]) and slightly predates the [[Atjeh embassy to Prince Maurits at Grave (1602)|Atjeh embassy's arrival at the siege of Grave]] later that year.
+The staff — two *kooplieden* (merchants) and several *Assistenten* (assistants) — was small, but the foundation was a deliberate act of Zeeland commercial colonisation: the factory bore the province's name as a mark of its origin. The factory's foundation in [[1602]] is contemporaneous with the founding of the [[Vereenigde Oost-Indische Compagnie|VOC]] itself (the charter is dated [[20 March]] [[1602]]) and slightly predates the [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy's arrival at the siege of Grave]] later that year.
 
 ## The opening of the Gujarat trade
 
-Two of the new factory's staff sailed on Atjeh vessels to the Gulf of Cambay, on the west coast of Voor-Indië, where — thanks to the letters of the Atjeh Sultan — they were excellently received in [[Goezeratte|Goezeratte]] and could begin their trade. The Sultan's letters thus opened the Gujarat trade to Dutch merchants — a small but concrete instance of the sultanate's diplomatic reach, and of the practical value to the VOC of the Atjeh alliance that the [[Atjeh embassy to Prince Maurits at Grave (1602)|1602 embassy]] had cemented.
+Two of the new factory's staff sailed on Atjeh vessels to the Gulf of Cambay, on the west coast of Voor-Indië, where — thanks to the letters of the Atjeh Sultan — they were excellently received in [[Goezeratte|Goezeratte]] and could begin their trade. The Sultan's letters thus opened the Gujarat trade to Dutch merchants — a small but concrete instance of the sultanate's diplomatic reach, and of the practical value to the VOC of the Atjeh alliance that the [[Aceh Embassy to Prince Maurits at Grave (1602)|1602 embassy]] had cemented.
 
 ## Continuity with the later lodge
 
@@ -27,7 +27,7 @@ For [[Acheh|Atjeh]]'s history, Fort Zeeland is the foundation-point of the conti
 ## See Also
 
 - [[Sultan Aloeddin of Atjeh]]
-- [[Atjeh embassy to Prince Maurits at Grave (1602)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits at Grave (1602)]]
 - [[Frederik de Houtman]]
 - [[Cornelis de Houtman]]
 - [[Dutch lodge at Atjeh]]

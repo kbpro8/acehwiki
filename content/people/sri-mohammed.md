@@ -4,7 +4,7 @@ aliases: [Sri Mohammed (Admiraal van Atjeh), Admiral of Atjeh, Sri Mohammad]
 tags: [person, atjehnese, ambassador, admiral, 17th-century]
 ---
 
-**Sri Mohammed** — titled *Admiraal van Atjeh* (Admiral of Atjeh) by the Dutch sources — was an [[Acheh|Atjeh]] envoy who, together with the senior ambassador [[Abdoel Hamid]] and the nobleman [[Mir Hassan]], formed the [[Atjeh embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits]] in [[1602]]–[[1603]]. After the death of [[Abdoel Hamid]] at Middelburg in August [[1602]], Sri Mohammed — by virtue of his office as the sultanate's admiral — became the senior surviving envoy and delivered the Sultan's letters and gifts to Prince Maurits at the siege of Grave.
+**Sri Mohammed** — titled *Admiraal van Atjeh* (Admiral of Atjeh) by the Dutch sources — was an [[Acheh|Atjeh]] envoy who, together with the senior ambassador [[Abdoel Hamid]] and the nobleman [[Mir Hassan]], formed the [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits]] in [[1602]]–[[1603]]. After the death of [[Abdoel Hamid]] at Middelburg in August [[1602]], Sri Mohammed — by virtue of his office as the sultanate's admiral — became the senior surviving envoy and delivered the Sultan's letters and gifts to Prince Maurits at the siege of Grave.
 
 ## Office: Admiral of Atjeh
 
@@ -28,7 +28,7 @@ For fifteen months the ambassadors stayed in the Republic as guests of the East 
 
 ## Significance
 
-Sri Mohammed is, in the Dutch-Atjeh encounter, the senior surviving ambassador of the [[Atjeh embassy to Prince Maurits at Grave (1602)|1602 embassy]], and the only one whose office — Admiral of Atjeh — is recorded in the Dutch sources. His embassy produced the first Atjeh eyewitness description of the Republic, and his presence at the siege of Grave fixed Atjeh in the military-diplomatic memory of the House of Orange. The Sultan whose envoy he was, [[Sultan Aloeddin of Atjeh|Sultan Aloeddin]], was the same ruler who had presided over the [[Death of Cornelis de Houtman at Atjeh (1599)|death of Cornelis de Houtman]] and the captivity of [[Frederik de Houtman|Frederik]] — making Sri Mohammed's embassy the closing chapter of that opening Dutch-Atjeh episode.
+Sri Mohammed is, in the Dutch-Atjeh encounter, the senior surviving ambassador of the [[Aceh Embassy to Prince Maurits at Grave (1602)|1602 embassy]], and the only one whose office — Admiral of Atjeh — is recorded in the Dutch sources. His embassy produced the first Atjeh eyewitness description of the Republic, and his presence at the siege of Grave fixed Atjeh in the military-diplomatic memory of the House of Orange. The Sultan whose envoy he was, [[Sultan Aloeddin of Atjeh|Sultan Aloeddin]], was the same ruler who had presided over the [[Death of Cornelis de Houtman at Atjeh (1599)|death of Cornelis de Houtman]] and the captivity of [[Frederik de Houtman|Frederik]] — making Sri Mohammed's embassy the closing chapter of that opening Dutch-Atjeh episode.
 
 ## See Also
 
@@ -37,7 +37,7 @@ Sri Mohammed is, in the Dutch-Atjeh encounter, the senior surviving ambassador o
 - [[Leonard Werner]]
 - [[Sultan Aloeddin of Atjeh]]
 - [[Prince Maurits]]
-- [[Atjeh embassy to Prince Maurits at Grave (1602)]]
+- [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits at Grave (1602)]]
 - [[Frederik de Houtman]]
 - [[Cornelis de Houtman]]
 - [[1602]]

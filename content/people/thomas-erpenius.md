@@ -12,7 +12,7 @@ Erpenius (born Thomas van Erpe in Gorinchem) studied at Leiden under [[Joseph Ju
  
 ## The Erpenius Malay Manuscript Collection
  
-Erpenius assembled a "kleine verzameling oude Maleise manuscripten" (small collection of old Malay manuscripts) within his larger Oriental collection. These were obtained via [[Pieter Willemsz. Floris van Elbingh]], a merchant who stayed in Aceh in [[1604]] and sent manuscripts to Erpenius. The collection comprised at least four Malay codices containing: the story of Joseph (Qur'an 12), the death of Hasan and Husayn (fragment of *Hikajat Muhammad Hanafiah*), a cosmogony, commentary on Sura 18 (Seven Sleepers), a *vorstenspiegel* (mirror for princes) from Persian, two Arabic texts with interlinear Malay translation (the *Burda* of [[al-Busiri]] and a fragment of [[al-Ushi]]'s *Bad' al-Amali*), Sura 58 (al-Mujadila) with Javanese usage notes, a Dutch-Malay wordlist, and a Telugu alphabet.
+Erpenius assembled a "kleine verzameling oude Maleise manuscripten" (small collection of old Malay manuscripts) within his larger Oriental collection. These were obtained via [[Pieter Willemsz. Floris van Elbingh]], a merchant who stayed in Aceh in [[1604]] and sent manuscripts to Erpenius. The collection comprised at least four Malay codices containing: the story of Joseph (Qur'an 12), the death of Hasan and Husayn (fragment of *Hikajat Muhammad Hanafiah*), a cosmogony, commentary on Sura 18 (Seven Sleepers), a *vorstenspiegel* (mirror for princes) from Persian, two Arabic texts with interlinear Malay translation (the *Burda* of [[Al-Busiri|al-Busiri]] and a fragment of [[Siraj al-Din Abu Muhammad Ali ibn Uthman al-Ushi|al-Ushi]]'s *Bad' al-Amali*), Sura 58 (al-Mujadila) with Javanese usage notes, a Dutch-Malay wordlist, and a Telugu alphabet.
  
 ## Posthumous Fate of the Collection
  
@@ -29,7 +29,7 @@ Erpenius's acquisition of Malay manuscripts from Aceh in the first decade of the
 - [[Cambridge University Library]]
 - [[16th-century Malay translation of the Burda]]
 - [[Hikajat Muhammad Hanafiah]]
-- [[al-Ushi]]
+- [[Siraj al-Din Abu Muhammad Ali ibn Uthman al-Ushi|al-Ushi]]
 - [[Bad' al-Amali]]
 - [[Ph. S. van Ronkel]]
 - [[E. G. Browne]]

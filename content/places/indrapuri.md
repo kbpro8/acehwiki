@@ -16,7 +16,7 @@ The pre-eminence of Indrapuri among the three sagi-mosques may be connected with
 
 ## Background of the Capture
 
-After the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman on 13 October 1878]] the campaign against the [[XXII Moekims|XXII Moekims]] was decided upon. In his cabinet letter of [[21 March]] [[1879]] the Governor-General [[J. W. van Lansberge|Van Lansberge]] instructed the governor [[K. van der Heyden|Van der Heyden]] that "the war must now come to an end." On [[23 March]] [1879] the columns marched.
+After the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman on 13 October 1878]] the campaign against the [[XXII Moekims|XXII Moekims]] was decided upon. In his cabinet letter of [[21 March]] [[1879]] the Governor-General [[Johan Willem van Lansberge|Van Lansberge]] instructed the governor [[K. van der Heyden|Van der Heyden]] that "the war must now come to an end." On [[23 March]] [1879] the columns marched.
 
 ## The Capture of 24 March 1879
 
@@ -24,7 +24,7 @@ The troops, which had marched on [[23 March]] [1879], reached on [[24 March]] [1
 
 ## The Continuation of the Campaign
 
-The road from [[Anak Galoeëng|Anak Galoeëng]] to Gle Kambing had first to be put in good order and the enemy's withdrawal cleared. For the conquest of Indrapuri did not lead to the desired submission. "On the contrary, it was as if the struggle, under the leadership of our embittered enemies — [[Panglima Polim|Panglima Polim]], [[Imam of Longbatta|Imam Longbatta]] and others — flared up with new strength." Heavy fighting followed at [[Djerreek|Djerreek]], [[Redep|Redep]], [[Panteh Karang|Panteh Karang]] in May, and at [[Gleiêng|Gleiêng]] in July.
+The road from [[Anak Galoeëng|Anak Galoeëng]] to Gle Kambing had first to be put in good order and the enemy's withdrawal cleared. For the conquest of Indrapuri did not lead to the desired submission. "On the contrary, it was as if the struggle, under the leadership of our embittered enemies — [[Panglima Polem|Panglima Polem]], [[Imam of Longbatta|Imam Longbatta]] and others — flared up with new strength." Heavy fighting followed at [[Djerreek|Djerreek]], [[Redep|Redep]], [[Panteh Karang|Panteh Karang]] in May, and at [[Gleiêng|Gleiêng]] in July.
 
 ## Later Operations
 
@@ -57,11 +57,11 @@ The name **Indrapuri** is one of a small class of *Indra*- toponyms on the Acheh
 ## See Also
 
 - [[K. van der Heyden]]
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[missigit Indrapoeri]]
 - [[Gle Kambing]]
 - [[Anak Galoeëng]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Imam of Longbatta]]
 - [[Habib Machmoed]]
 - [[Djerreek]]

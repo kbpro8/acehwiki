@@ -5,7 +5,7 @@ aliases: [Lord Hastings, Earl of Moira, Governor-General Moira]
 tags: [person, british-official]
 ---
 
-Lord Moira (Francis Rawdon-Hastings, Earl of Moira and, from [[1817]], Marquess of Hastings; [[1754]]–[[1826]]) served as Governor-General of [[Bengal]] from [[1813]] to [[1823]]. In the Achehnese record he is significant as the Governor-General who, in late [[1818]] and early [[1819]], dispatched the [[Raffles-Coombs Acheh Commission (1819)|joint Raffles-Coombs commission to Acheh]] and so set in motion the train of events that produced the [[Acheh treaty of 1819|treaty of 22 April 1819]] and, indirectly, the [[Founding of Singapore|founding of Singapore]].
+Lord Moira (Francis Rawdon-Hastings, Earl of Moira and, from [[1817]], Marquess of Hastings; [[1754]]–[[1826]]) served as Governor-General of [[Bengal]] from [[1813]] to [[1823]]. In the Achehnese record he is significant as the Governor-General who, in late [[1818]] and early [[1819]], dispatched the [[Raffles-Coombs Acheh Commission (1819)|joint Raffles-Coombs commission to Acheh]] and so set in motion the train of events that produced the [[Treaty of Pedir (1819)|treaty of 22 April 1819]] and, indirectly, the [[Founding of Singapore|founding of Singapore]].
 
 ## Background to the Acheh Commission
 
@@ -35,7 +35,7 @@ A subsidiary but interesting feature of the Acheh episode is Raffles's reliance,
 - [[Van Boekholz]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
 - [[Treaty of Pedir (1819)]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Convention of 24 January 1817]]
 - [[Bengal]]
 - [[Calcutta]]
@@ -47,7 +47,7 @@ A subsidiary but interesting feature of the Acheh episode is Raffles's reliance,
 ---
 
 
-Lord Moira (Francis Rawdon-Hastings, Earl of Moira and, from [[1817]], Marquess of Hastings; [[1754]]–[[1826]]) served as Governor-General of [[Bengal]] from [[1813]] to [[1823]]. In the Achehnese record he is significant as the Governor-General who, in late [[1818]] and early [[1819]], dispatched the [[Raffles-Coombs Acheh Commission (1819)|joint Raffles-Coombs commission to Acheh]] and so set in motion the train of events that produced the [[Acheh treaty of 1819|treaty of 22 April 1819]] and, indirectly, the [[Founding of Singapore|founding of Singapore]].
+Lord Moira (Francis Rawdon-Hastings, Earl of Moira and, from [[1817]], Marquess of Hastings; [[1754]]–[[1826]]) served as Governor-General of [[Bengal]] from [[1813]] to [[1823]]. In the Achehnese record he is significant as the Governor-General who, in late [[1818]] and early [[1819]], dispatched the [[Raffles-Coombs Acheh Commission (1819)|joint Raffles-Coombs commission to Acheh]] and so set in motion the train of events that produced the [[Treaty of Pedir (1819)|treaty of 22 April 1819]] and, indirectly, the [[Founding of Singapore|founding of Singapore]].
 
 ## Background to the Acheh Commission
 
@@ -77,7 +77,7 @@ A subsidiary but interesting feature of the Acheh episode is Raffles's reliance,
 - [[Van Boekholz]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
 - [[Treaty of Pedir (1819)]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Convention of 24 January 1817]]
 - [[Bengal]]
 - [[Calcutta]]

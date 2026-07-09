@@ -30,7 +30,7 @@ The *gambus* entered **Aceh** — the "Veranda of Mecca" (*Serambi Mekkah*) — 
 | **[[Malay Peninsula]]** (Johor, Riau) | *Gambus* | 9–12 | 4–6 | Larger, longer neck; *oud*-influenced |
 | **[[Riau-Lingga]]** | *Gambus* | 11–12 | 6 | Court tradition, *Ghazal* accompaniment |
 | **[[Palembang]]** | *Gambus* | 9–11 | 5 | *Gambus Melayu* style |
-| **[[Minangkabau]]** | *Gambus* | 7–9 | 4 | *Dendang* accompaniment |
+| **[[Menangkabau|Minangkabau]]** | *Gambus* | 7–9 | 4 | *Dendang* accompaniment |
 | **[[Java]]** (coastal) | *Gambus* | 7–9 | 4 | *Gambus Kroncong*, *Gambus Hadrah* |
 | **[[Yemen]]** (origin) | *Qanbus* | 4–7 | 2–4 | Skin soundboard, no frets |
 | **[[Oman]]** / **[[Zanzibar]]** | *Qanbus* / *Gabusi* | 4–7 | 2–4 | Swahili *taarab* lute |

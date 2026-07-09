@@ -12,7 +12,7 @@ The corps was formed for the Aceh war. Its soldiers were known as *[[Manisee (Ma
 
 ## The method: small patrouilles and the dardanellen
 
-The corps's method was the small patrouille — a brigade or two, with *[[dardanellen|dardanellen]]* (point-men) at the front, *[[bekas]]* (spoorzoekers) reading the footprints, and a *[[bivak]]* (camp) built each night with *[[klewang]]* as the only tool. The *colonne* — a small force of forty-odd militairen with *dwangarbeiders* as dragers — was the operational unit; the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]] of [[1910]]-[[1911]] is the book's set-piece example. The method had been developed in the [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] era and was brought to its perfection by officers like [[Schmidt]] and patrouillecommandanten like [[Vastenou]] and [[Dersjant]].
+The corps's method was the small patrouille — a brigade or two, with *[[dardanellen|dardanellen]]* (point-men) at the front, *[[bekas]]* (spoorzoekers) reading the footprints, and a *[[bivak]]* (camp) built each night with *[[klewang]]* as the only tool. The *colonne* — a small force of forty-odd militairen with *dwangarbeiders* as dragers — was the operational unit; the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]] of [[1910]]-[[1911]] is the book's set-piece example. The method had been developed in the [[Joannes Benedictus van Heutsz|Van Heutsz]] era and was brought to its perfection by officers like [[Schmidt]] and patrouillecommandanten like [[Vastenou]] and [[Dersjant]].
 
 The *dardanellen|dardanel* — the point-man — was the key figure. *[[Nussy]]* "was dardanel geweest bij [[Vastenou]] en [[Dersjant]], vermaarde patrouillecommandanten, die schitterende resultaten hadden geboekt." The *dardanel* went ahead, alone or in pairs, and shot first; his was the most dangerous post in the corps, and the most decorated.
 
@@ -26,7 +26,7 @@ The corps's *[[Marechausseelied]]* and *[[Korpslied van de Marechaussee|korpslie
 
 ## The decorations
 
-The corps was the great nursery of [[Militaire Willemsorde (M.W.O.)|M.W.O.]] ridders in the colonial army. [[Salawono]] (Ridder 3e klas) earned his 4e klas at the [[Storming of Limboer (22 June 1903)|storming of Limboer]] and his 3e klas on [[Celebes]]. [[Nussy]] became Ridder 3e klas for the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]]. [[Schmidt]] received the *[[Eresabel]]* for [[1910]] and the M.W.O. 3e klas for [[1911]]. The four retired M.W.O.-ridders who acted as *slippendragers* at the [[Funeral of Dominee Thenu (11 May 1937)|funeral of Dominee Thenu]] — [[Salawono]] (3e kl.), [[Pattiasina]], [[Kazen]] and [[Pattipuluhu]] — were all old Marechaussees.
+The corps was the great nursery of [[Militaire Willemsorde|M.W.O.]] ridders in the colonial army. [[Salawono]] (Ridder 3e klas) earned his 4e klas at the [[Storming of Limboer (22 June 1903)|storming of Limboer]] and his 3e klas on [[Celebes]]. [[Nussy]] became Ridder 3e klas for the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]]. [[Schmidt]] received the *[[Eresabel]]* for [[1910]] and the M.W.O. 3e klas for [[1911]]. The four retired M.W.O.-ridders who acted as *slippendragers* at the [[Funeral of Dominee Thenu (11 May 1937)|funeral of Dominee Thenu]] — [[Salawono]] (3e kl.), [[Pattiasina]], [[Kazen]] and [[Pattipuluhu]] — were all old Marechaussees.
 
 ## Significance
 
@@ -36,7 +36,7 @@ The Korps Marechaussee van Atjeh en Onderhorigen is the institutional hero of *[
 
 The **Marechaussee in Aceh** was the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Marechaussee te voet]] (Foot Marechaussee Corps), an elite military police unit of the [[K.N.I.L.]] specifically deployed in the [[Aceh War]] to conduct counter-guerrilla patrols in the *rimboe* (jungle). Its members became known for their gruelling long-range patrols and intimate knowledge of the Acehnese terrain. The corps was central to the Dutch effort to pacify [[Aceh|Atjeh]] after [[1873]], and in the [[1920s]] the Marechaussee continued to mount patrols deep into the jungle.
 
-[[Maurice Henri du Croo]], who served in Atjeh from [[1925]] at his own request, encountered members of the Marechaussee and later co-authored the book *[[Marechaussée in Atjeh (book)|Marechaussée in Atjeh]]* with [[Schmidt (Kolonel)|Kolonel Schmidt]] to document their experiences. Du Croo himself knew individuals who had become "grote namen in de geschiedenis" (great names in history) through their service in the corps. The life of the Marechaussee soldier was also sketched in du Croo's *Sergeant Weers en de Zijnen*, which depicted the bivouac life, inspections, and the small field hospitals typical of the Acehnese campaigns.
+[[Maurice Henri du Croo]], who served in Atjeh from [[1925]] at his own request, encountered members of the Marechaussee and later co-authored the book *[[Marechaussée in Atjeh (book)|Marechaussée in Atjeh]]* with [[Schmidt|Kolonel Schmidt]] to document their experiences. Du Croo himself knew individuals who had become "grote namen in de geschiedenis" (great names in history) through their service in the corps. The life of the Marechaussee soldier was also sketched in du Croo's *Sergeant Weers en de Zijnen*, which depicted the bivouac life, inspections, and the small field hospitals typical of the Acehnese campaigns.
 
 *Source: In Memoriam Maurice Henri du Croo* (1951), references to "Marechaussée in Atjeh" and du Croo's service with the corps, pp. 5, 6, 10, 20.
 
@@ -63,7 +63,7 @@ The **Marechaussee in Aceh** was the [[Korps Marechaussee van Atjeh en Onderhori
 - [[Atjeh-oorlog]]
 - [[Maurice Henri du Croo]]
 - [[Marechaussée in Atjeh (book)]]
-- [[Schmidt (Kolonel)]]
+- [[Schmidt|Schmidt (Kolonel)]]
 - [[Aceh War]]
 
 ## Sources

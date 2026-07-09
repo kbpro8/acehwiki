@@ -24,7 +24,7 @@ The prang sabi was thus both a religious ideal and a fiscal mechanism. As an ide
 
 ## See Also
 
-- [[Treachery of Teuku Uma against the Dutch]]
+- [[Defection of Teuku Uma|Treachery of Teuku Uma against the Dutch]]
 - [[Submission of Teuku Uma]]
 - [[Teuku Uma]]
 - [[Teungku Tiro]]

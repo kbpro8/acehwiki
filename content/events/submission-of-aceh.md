@@ -4,7 +4,7 @@ aliases: [Onderwerping van Atjeh, Pacification of Aceh, Atjeh-onderwerping]
 tags: [event, war, military, colonial, dutch, achehnese]
 ---
 
-The **Submission of Aceh** (in Dutch: *Onderwerping van Atjeh*) refers to the military campaign and subsequent colonial victory led by [[J. B. van Heutsz]] in [[1896]] that successfully brought the [[Aceh]] region under definitive [[Dutch]] colonial control — see [[Van Heutsz's governorship]] for the fuller Snouck Hurgronje account of the campaign itself. This event was later cited by [[Keuchenius|W. H. J. Keuchenius]] as a model of effective and decisive governance.
+The **Submission of Aceh** (in Dutch: *Onderwerping van Atjeh*) refers to the military campaign and subsequent colonial victory led by [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] in [[1896]] that successfully brought the [[Aceh]] region under definitive [[Dutch]] colonial control — see [[Joannes Benedictus van Heutsz|Van Heutsz's governorship]] for the fuller Snouck Hurgronje account of the campaign itself. This event was later cited by [[Keuchenius|W. H. J. Keuchenius]] as a model of effective and decisive governance.
 
 ## Keuchenius's perspective
 
@@ -18,12 +18,12 @@ The submission of Aceh represents a pivotal moment in Dutch colonial history. It
 
 ## See Also
 
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Keuchenius]]
 - [[Atjeh-opstellen]]
 - [[Aceh]]
 - [[Kracht van wapenen]]
-- [[Van Heutsz's governorship]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz's governorship]]
 - [[Nederlandsch-Indië]]
 - [[1896]]
 - [[1905]]

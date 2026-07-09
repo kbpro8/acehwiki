@@ -5,7 +5,7 @@ aliases: [Syf, Sijf, Siyf, Saif ul Alum, Syf ul Allum, Syful Alum, Syf 00l Aulum
 tags: [person, sultan, achehnese, pirate]
 ---
 
-**Sultan Saif ul-Alum** (also rendered *Syf*, *Sijf*, *Siyf*, *Syful Alum*, *Syf ul Allum*; proclaimed at [[Acheh]] as *Sil-ul-illum Shak*) was a pretender to the Achehnese throne, the second son of the [[Penang]] trader [[Said Hussein]] of Arab descent. He ruled briefly at Acheh in [[1815]] before being driven out, and ended his life as a pensioned ex-pirate at [[Penang]]. His contested claim to the sultanate supplied the immediate occasion for [[Sir Thomas Stamford Raffles|Raffles]]'s [[Acheh treaty of 1819|Acheh commission of 1819]] and for the resulting treaty with his rival [[Sultan Jauhar Alum]].
+**Sultan Saif ul-Alum** (also rendered *Syf*, *Sijf*, *Siyf*, *Syful Alum*, *Syf ul Allum*; proclaimed at [[Acheh]] as *Sil-ul-illum Shak*) was a pretender to the Achehnese throne, the second son of the [[Penang]] trader [[Said Hussein]] of Arab descent. He ruled briefly at Acheh in [[1815]] before being driven out, and ended his life as a pensioned ex-pirate at [[Penang]]. His contested claim to the sultanate supplied the immediate occasion for [[Sir Thomas Stamford Raffles|Raffles]]'s [[Treaty of Pedir (1819)|Acheh commission of 1819]] and for the resulting treaty with his rival [[Sultan Jauhar Alum]].
 
 ## Proclamation at Acheh (1815)
 
@@ -13,7 +13,7 @@ After ten years of Jauhar Alum's troubled rule, an Achehnese opposition faction 
 
 ## Quarrel with Tunku Pakih and flight from the capital
 
-The alliance with Tunku Pakih was short-lived. The two soon quarrelled, and Tunku Pakih returned to the party of the deposed [[Sultan Jauhar Alum|Jauhar Alum]], who thereupon established his seat at Pedir. Syf, in turn, found Acheh too hot for him and followed Jauhar Alum's example by quitting the capital, choosing instead the east-coast town of [[Telok Semawé]] as his residence. From this moment Acheh had effectively two sultans in exile while, at the capital itself, the federation of the [[Three Sagis]] — and especially [[Panglima Polim]] of the [[XXII Mukims]] — exercised the real authority. The civil war continued for several years with alternating fortunes, and the Penang government was long undecided which of the two pretenders should be recognised.
+The alliance with Tunku Pakih was short-lived. The two soon quarrelled, and Tunku Pakih returned to the party of the deposed [[Sultan Jauhar Alum|Jauhar Alum]], who thereupon established his seat at Pedir. Syf, in turn, found Acheh too hot for him and followed Jauhar Alum's example by quitting the capital, choosing instead the east-coast town of [[Telok Semawé]] as his residence. From this moment Acheh had effectively two sultans in exile while, at the capital itself, the federation of the [[Three Sagis]] — and especially [[Panglima Polem|Panglima Polim]] of the [[XXII Mukims]] — exercised the real authority. The civil war continued for several years with alternating fortunes, and the Penang government was long undecided which of the two pretenders should be recognised.
 
 ## The Raffles-Coombs Commission (1819)
 
@@ -21,7 +21,7 @@ When in early [[1819]] the joint [[Raffles-Coombs Acheh Commission (1819)|commis
 
 ## Pirate, Calcutta and pension at Penang
 
-Syf soon broke his promise more dramatically. In early [[1820]] he appeared at [[Acheh]] and allied himself with [[Panglima Polim]] against Jauhar Alum; when the Penang government sent the man-of-war *Dauntless* to Acheh, Syf seized a junk, plundered a dozen prahus, and had the audacity to sail his pirate-ship into [[Calcutta]] itself. There the complaints of those he had robbed overtook him; but the judges "found no terms to convict him: Syf had acted as a sovereign!" The Government, far from punishing him, granted him a pension of 500 dollars a month — charged, ironically, to the account of his rival Jauhar Alum, though the Bengal report noted drily that "there is no prospect of its being realised from him". He returned to Penang and lived quietly on his pension until his death.
+Syf soon broke his promise more dramatically. In early [[1820]] he appeared at [[Acheh]] and allied himself with [[Panglima Polem|Panglima Polim]] against Jauhar Alum; when the Penang government sent the man-of-war *Dauntless* to Acheh, Syf seized a junk, plundered a dozen prahus, and had the audacity to sail his pirate-ship into [[Calcutta]] itself. There the complaints of those he had robbed overtook him; but the judges "found no terms to convict him: Syf had acted as a sovereign!" The Government, far from punishing him, granted him a pension of 500 dollars a month — charged, ironically, to the account of his rival Jauhar Alum, though the Bengal report noted drily that "there is no prospect of its being realised from him". He returned to Penang and lived quietly on his pension until his death.
 
 ## The Wilhelmina affair
 
@@ -32,7 +32,7 @@ His retirement was disturbed only once, when the Netherlands Government at [[Bat
 - [[Sultan Jauhar Alum]]
 - [[Said Hussein]]
 - [[Said Akil]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Tunku Pakih]]
 - [[Captain Coombs]]
 - [[Sir Thomas Stamford Raffles]]
@@ -49,7 +49,7 @@ His retirement was disturbed only once, when the Netherlands Government at [[Bat
 ---
 
 
-**Sultan Saif ul-Alum** (also rendered *Syf*, *Sijf*, *Siyf*, *Syful Alum*, *Syf ul Allum*; proclaimed at [[Acheh]] as *Sil-ul-illum Shak*) was a pretender to the Achehnese throne, the second son of the [[Penang]] trader [[Said Hussein]] of Arab descent. He ruled briefly at Acheh in [[1815]] before being driven out, and ended his life as a pensioned ex-pirate at [[Penang]]. His contested claim to the sultanate supplied the immediate occasion for [[Sir Thomas Stamford Raffles|Raffles]]'s [[Acheh treaty of 1819|Acheh commission of 1819]] and for the resulting treaty with his rival [[Sultan Jauhar Alum]].
+**Sultan Saif ul-Alum** (also rendered *Syf*, *Sijf*, *Siyf*, *Syful Alum*, *Syf ul Allum*; proclaimed at [[Acheh]] as *Sil-ul-illum Shak*) was a pretender to the Achehnese throne, the second son of the [[Penang]] trader [[Said Hussein]] of Arab descent. He ruled briefly at Acheh in [[1815]] before being driven out, and ended his life as a pensioned ex-pirate at [[Penang]]. His contested claim to the sultanate supplied the immediate occasion for [[Sir Thomas Stamford Raffles|Raffles]]'s [[Treaty of Pedir (1819)|Acheh commission of 1819]] and for the resulting treaty with his rival [[Sultan Jauhar Alum]].
 
 ## Proclamation at Acheh (1815)
 
@@ -57,7 +57,7 @@ After ten years of Jauhar Alum's troubled rule, an Achehnese opposition faction 
 
 ## Quarrel with Tunku Pakih and flight from the capital
 
-The alliance with Tunku Pakih was short-lived. The two soon quarrelled, and Tunku Pakih returned to the party of the deposed [[Sultan Jauhar Alum|Jauhar Alum]], who thereupon established his seat at Pedir. Syf, in turn, found Acheh too hot for him and followed Jauhar Alum's example by quitting the capital, choosing instead the east-coast town of [[Telok Semawé]] as his residence. From this moment Acheh had effectively two sultans in exile while, at the capital itself, the federation of the [[Three Sagis]] — and especially [[Panglima Polim]] of the [[XXII Mukims]] — exercised the real authority. The civil war continued for several years with alternating fortunes, and the Penang government was long undecided which of the two pretenders should be recognised.
+The alliance with Tunku Pakih was short-lived. The two soon quarrelled, and Tunku Pakih returned to the party of the deposed [[Sultan Jauhar Alum|Jauhar Alum]], who thereupon established his seat at Pedir. Syf, in turn, found Acheh too hot for him and followed Jauhar Alum's example by quitting the capital, choosing instead the east-coast town of [[Telok Semawé]] as his residence. From this moment Acheh had effectively two sultans in exile while, at the capital itself, the federation of the [[Three Sagis]] — and especially [[Panglima Polem|Panglima Polim]] of the [[XXII Mukims]] — exercised the real authority. The civil war continued for several years with alternating fortunes, and the Penang government was long undecided which of the two pretenders should be recognised.
 
 ## The Raffles-Coombs Commission (1819)
 
@@ -65,7 +65,7 @@ When in early [[1819]] the joint [[Raffles-Coombs Acheh Commission (1819)|commis
 
 ## Pirate, Calcutta and pension at Penang
 
-Syf soon broke his promise more dramatically. In early [[1820]] he appeared at [[Acheh]] and allied himself with [[Panglima Polim]] against Jauhar Alum; when the Penang government sent the man-of-war *Dauntless* to Acheh, Syf seized a junk, plundered a dozen prahus, and had the audacity to sail his pirate-ship into [[Calcutta]] itself. There the complaints of those he had robbed overtook him; but the judges "found no terms to convict him: Syf had acted as a sovereign!" The Government, far from punishing him, granted him a pension of 500 dollars a month — charged, ironically, to the account of his rival Jauhar Alum, though the Bengal report noted drily that "there is no prospect of its being realised from him". He returned to Penang and lived quietly on his pension until his death.
+Syf soon broke his promise more dramatically. In early [[1820]] he appeared at [[Acheh]] and allied himself with [[Panglima Polem|Panglima Polim]] against Jauhar Alum; when the Penang government sent the man-of-war *Dauntless* to Acheh, Syf seized a junk, plundered a dozen prahus, and had the audacity to sail his pirate-ship into [[Calcutta]] itself. There the complaints of those he had robbed overtook him; but the judges "found no terms to convict him: Syf had acted as a sovereign!" The Government, far from punishing him, granted him a pension of 500 dollars a month — charged, ironically, to the account of his rival Jauhar Alum, though the Bengal report noted drily that "there is no prospect of its being realised from him". He returned to Penang and lived quietly on his pension until his death.
 
 ## The Wilhelmina affair
 
@@ -76,7 +76,7 @@ His retirement was disturbed only once, when the Netherlands Government at [[Bat
 - [[Sultan Jauhar Alum]]
 - [[Said Hussein]]
 - [[Said Akil]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Tunku Pakih]]
 - [[Captain Coombs]]
 - [[Sir Thomas Stamford Raffles]]

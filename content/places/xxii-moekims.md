@@ -4,7 +4,7 @@ aliases: [XXII Mukims, 22 Mukims, XXII Moekims, mountains of the XXII Mukims]
 tags: [place, region, aceh, precolonial]
 ---
 
-**The XXII Mukims** — the 22 Mukims — is the region of [[Atjeh|Aceh]] whose mountains were, in [[Snouck Hurgronje]]'s *De Atjehers* and in the chapter *Jagerslatijn* of *[[Oost-Indisch Journael]]* by Merac ([[1947]]), the habitat of the *[[manté's]]* — the interior people who would wear no clothing and would be densely hairy over the whole body.
+**The XXII Mukims** — the 22 Mukims — is the region of [[Atjeh|Aceh]] whose mountains were, in [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *De Atjehers* and in the chapter *Jagerslatijn* of *[[Oost-Indisch Journael]]* by Merac ([[1947]]), the habitat of the *[[Manté's|manté's]]* — the interior people who would wear no clothing and would be densely hairy over the whole body.
 
 ## The mountains of the XXII Mukims
 
@@ -17,7 +17,7 @@ The XXII Mukims are significant in *[[Oost-Indisch Journael]]* as the region who
 ## See Also
 
 - [[Oost-Indisch Journael]]
-- [[Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [Manté's](/concept/mante-s)
 - [Orang pendek / koekoeman](/concept/orang-pendek)
 - [[Datoek]]

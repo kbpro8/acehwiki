@@ -32,7 +32,7 @@ For AcehWiki, the Radja of Aroe is the principal non-Atjehnese actor of the [[15
 - [[Aroe]]
 - [[Aroe-baai]]
 - [[Poelo Kampi]]
-- [[Sultan of Atjeh (16th century)]]
+- [[Sultan of Acheh (16th century)|Sultan of Atjeh (16th century)]]
 - [[Straits of Malacca]]
 - [[Historische Curiositeiten uit Malajoe en Java]]
 
@@ -69,7 +69,7 @@ For AcehWiki, the Radja of Aroe is the principal non-Atjehnese actor of the [[15
 - [[Aroe]]
 - [[Aroe-baai]]
 - [[Poelo Kampi]]
-- [[Sultan of Atjeh (16th century)]]
+- [[Sultan of Acheh (16th century)|Sultan of Atjeh (16th century)]]
 - [[Straits of Malacca]]
 - [[Historische Curiositeiten uit Malajoe en Java]]
 

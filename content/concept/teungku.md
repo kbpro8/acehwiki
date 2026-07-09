@@ -34,15 +34,15 @@ The secular noble title *teuku* (applied to uleebalangs and territorial chiefs) 
 
 ## Account from *De Buitenbezittingen* (1917) — Teungkoe
 
-**The Teungkoe** — fully *Teungkoe meunasah* — was the religious head of the [[Gampong|gampong]] in [[Groot-Atjeh|Groot-Atjeh]] and the surrounding Atjehsche lands, the female counterpart in village symbolism to the paternal [[Keutjhï|Keutjhï]]. *De Buitenbezittingen*, following Prof. Dr. [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] (*De Atjehers*, Vol. I, pp. 63 e.v., 74), describes the Teungkoe as the officer in charge of the *meunasah* — the village prayer-house — and the chief agent of *hoeköm*, the religious law of Islam, in the daily life of the community.
+**The Teungkoe** — fully *Teungkoe meunasah* — was the religious head of the [[Gampong|gampong]] in [[Groot-Atjeh|Groot-Atjeh]] and the surrounding Atjehsche lands, the female counterpart in village symbolism to the paternal [[Keutjhï|Keutjhï]]. *De Buitenbezittingen*, following Prof. Dr. [[C. Snouck Hurgronje|Snouck Hurgronje]] (*De Atjehers*, Vol. I, pp. 63 e.v., 74), describes the Teungkoe as the officer in charge of the *meunasah* — the village prayer-house — and the chief agent of *hoeköm*, the religious law of Islam, in the daily life of the community.
 
 ## The meunasah
 
-In or near every gampong of [[Groot-Atjeh|Groot-Atjeh]] stood a *meunasah* — a village prayer-house — which served both as a place of daily worship and as a men's dormitory. "De meunasah dient tot nachtverblijf voor alle volwassen jongelingen der gampong, voor alle mannen, die daar tijdelijk verblijf houden en niet in de gampong getrouwd zijn, vreemdelingen zoowel als zulke, die het oogenblik geen lust hebben hunne elders wonende vrouwen te bezoeken." The institution, [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] notes, is the same as the *langgar*, *bale*, or *tadjoeq* found in Java. From this dual — religious and communal — purpose the Teungkoe derived his title: he was, in the strict sense, the master of the *meunasah*.
+In or near every gampong of [[Groot-Atjeh|Groot-Atjeh]] stood a *meunasah* — a village prayer-house — which served both as a place of daily worship and as a men's dormitory. "De meunasah dient tot nachtverblijf voor alle volwassen jongelingen der gampong, voor alle mannen, die daar tijdelijk verblijf houden en niet in de gampong getrouwd zijn, vreemdelingen zoowel als zulke, die het oogenblik geen lust hebben hunne elders wonende vrouwen te bezoeken." The institution, [[C. Snouck Hurgronje|Snouck Hurgronje]] notes, is the same as the *langgar*, *bale*, or *tadjoeq* found in Java. From this dual — religious and communal — purpose the Teungkoe derived his title: he was, in the strict sense, the master of the *meunasah*.
 
 ## Office and counterpart
 
-"Gelijk de Keutjhï meer in het bijzonder de adat heeft te handhaven, zoo is den teungkoe het gebied van de hoeköm (godsdienstige wet) opgedragen" — as the Keutjhï is charged above all with maintaining adat, so the teungkoe is entrusted with the sphere of the hoeköm, the religious law. The two offices stood in deliberate counterpoise: "hoewel adat en hoeköm onafscheidelijk van elkaar heeten, heeft de eerste toch steeds de overhand. Zoo is het ook in de verhouding van beider vertegenwoordigers" — although adat and hoeköm are called inseparable, the former always has the upper hand, and so it is too in the relationship of their representatives. The Teungkoe was thus the gampong's "moeder" to the Keutjhï's "vader" — "*Keutjhï eumbah, teungkoe ma*" — a phrase [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] calls, in the same breath, "ijdele phrase" when invoked by Atjehers in their deliberations.
+"Gelijk de Keutjhï meer in het bijzonder de adat heeft te handhaven, zoo is den teungkoe het gebied van de hoeköm (godsdienstige wet) opgedragen" — as the Keutjhï is charged above all with maintaining adat, so the teungkoe is entrusted with the sphere of the hoeköm, the religious law. The two offices stood in deliberate counterpoise: "hoewel adat en hoeköm onafscheidelijk van elkaar heeten, heeft de eerste toch steeds de overhand. Zoo is het ook in de verhouding van beider vertegenwoordigers" — although adat and hoeköm are called inseparable, the former always has the upper hand, and so it is too in the relationship of their representatives. The Teungkoe was thus the gampong's "moeder" to the Keutjhï's "vader" — "*Keutjhï eumbah, teungkoe ma*" — a phrase [[C. Snouck Hurgronje|Snouck Hurgronje]] calls, in the same breath, "ijdele phrase" when invoked by Atjehers in their deliberations.
 
 ## Consultation and adat
 
@@ -63,7 +63,7 @@ On every matter of importance touching the gampong, the source records, "de 'oud
 - [[Oereuëng toeha]]
 - [[Imeum]]
 - [[Hoeköm]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Groot-Atjeh]]
 
 ## Source

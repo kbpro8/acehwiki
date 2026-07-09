@@ -5,7 +5,7 @@ aliases: [Imam Longbatta, Imam Longbattah, Imam of Longbattah, the Imam of Longb
 tags: [person, imam, religious-leader, acehnese, aceh-war, military-leader, uleebalang]
 ---
 
-**Imam of Longbatta** — also written Imam Longbatta, Iman Longbatta, or, after the alternate spelling of the place, Imam Longbattah — was the hereditary *imeum* (religious chief) of the *mukim* of [[Lueng Bata|Lueng Bata]] (also written Longbatta) near the [[Kraton of Aceh|Kraton]] of [[Acheh|Acheh]], and one of the principal Acehnese military and religious leaders of the first phase of the [[Aceh War|Atjeh-oorlog]]. Named together with [[Panglima Polim|Panglima Polim]] and [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the influential chiefs who led the war-party — and identified by [[J. L. J. H. Pel|Kolonel PEL]] as "een van de voornaamste verzetslieden," one of the principal resistance leaders — he is remembered in the [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]] as the leader who, after the conquest of the [[XXVI Moekims|XXVI Moekims]] in [[1879]], "sheathed his sword and withdrew from public life."
+**Imam of Longbatta** — also written Imam Longbatta, Iman Longbatta, or, after the alternate spelling of the place, Imam Longbattah — was the hereditary *imeum* (religious chief) of the *mukim* of [[Lueng Bata|Lueng Bata]] (also written Longbatta) near the [[Kraton of Aceh|Kraton]] of [[Acheh|Acheh]], and one of the principal Acehnese military and religious leaders of the first phase of the [[Aceh War|Atjeh-oorlog]]. Named together with [[Panglima Polem|Panglima Polem]] and [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the influential chiefs who led the war-party — and identified by [[J. L. J. H. Pel|Kolonel PEL]] as "een van de voornaamste verzetslieden," one of the principal resistance leaders — he is remembered in the [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]] as the leader who, after the conquest of the [[XXVI Moekims|XXVI Moekims]] in [[1879]], "sheathed his sword and withdrew from public life."
 
 ## Political Status and Character
 
@@ -15,7 +15,7 @@ According to [[C. Snouck Hurgronje|Snouck Hurgronje]], the Imeum was "a rare phe
 
 ## The War-Party
 
-In his note of [[30 April]] [[30 April]] [[1875]] General Pel named the Imam together with [[Panglima Polim|Panglima Polim]] and [[Toekoe Rajoet Lamkapang]] as among the influential chiefs of the war-party. The biographer [[D. van den Berg|Van den Berg]] records the identification in the same terms: when [[J. L. J. H. Pel|Kolonel PEL]] resolved on [[31 December]] [[31 December]] [[1874]] to drive the [[Achehnese|Atjehers]] from the immediate vicinity of the Dutch main positions and to make the [[Acheh River|Atjeh River]] the eastern defensive line, the action was directed specifically against [[Longbatta|Longbatta]], "welks hoofd, IMAN LONGBATTA, een van de voornaamste verzetslieden was." The wording echoes the contemporary identification by [[J. L. J. H. Pel|Pel]] of the imam as one of the principal leaders of the *prang* (war) party in his note of [[30 April]] [[30 April]] [[1875]].
+In his note of [[30 April]] [[30 April]] [[1875]] General Pel named the Imam together with [[Panglima Polem|Panglima Polem]] and [[Toekoe Rajoet Lamkapang]] as among the influential chiefs of the war-party. The biographer [[D. van den Berg|Van den Berg]] records the identification in the same terms: when [[J. L. J. H. Pel|Kolonel PEL]] resolved on [[31 December]] [[31 December]] [[1874]] to drive the [[Achehnese|Atjehers]] from the immediate vicinity of the Dutch main positions and to make the [[Acheh River|Atjeh River]] the eastern defensive line, the action was directed specifically against [[Longbatta|Longbatta]], "welks hoofd, IMAN LONGBATTA, een van de voornaamste verzetslieden was." The wording echoes the contemporary identification by [[J. L. J. H. Pel|Pel]] of the imam as one of the principal leaders of the *prang* (war) party in his note of [[30 April]] [[30 April]] [[1875]].
 
 He was the religious head of [[Longbatta|Longbatta]] (also written Longbattah), one of the kampongs near the [[Kraton of Aceh|Kraton]] of [[Acheh|Acheh]] that had been one of the Dutch army's bitterest enemies since the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] of [[1873]]-[[1874]]. His religious authority gave him a position distinct from the hereditary [[Uleebalang|hoeloebalangs]]; he was an *imam* — the head of the mosque and the religious community — and could therefore command the kind of loyalty that came from the religious conception of the war as a jihad against the infidel Dutch.
 
@@ -31,13 +31,13 @@ The [[31 December]] [[31 December]] [[1874]] action against [[Longbatta|Longbatt
 
 ## Resistance in 1879
 
-After the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman on 13 October 1878]] and the [[Capture of Indrapuri (24 March 1879)|capture of Indrapuri on 24 March 1879]], the Imam was among those who flared up the struggle with new strength: "On the contrary, it was as if the struggle, under the leadership of our embittered enemies — [[Panglima Polim|Panglima Polim]], Imam Longbatta and others — flared up with new strength."
+After the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman on 13 October 1878]] and the [[Capture of Indrapuri (24 March 1879)|capture of Indrapuri on 24 March 1879]], the Imam was among those who flared up the struggle with new strength: "On the contrary, it was as if the struggle, under the leadership of our embittered enemies — [[Panglima Polem|Panglima Polem]], Imam Longbatta and others — flared up with new strength."
 
-During the [[Campaign against the XXVI Moekims (July 1879)|campaign against the XXVI Moekims]] of early July [[1879]], the Imam was reported to be at [[Lamgoet|Lamgoet]], while "most of the others" were at the [[missigit Toengkoep|missigit Toengkoep]]. After the submission of the XXVI Moekims and the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August [[1879]], he was among those who, with [[Panglima Polim|Panglima Polim]] and his son [[Radja Koelala|Radja Koelala]], refused to give up the fight and fled to the upper lands of [[Pedir|Pedir]] — specifically, to [[Kemala|Kemala]], in the interior south of Pedir.
+During the [[Campaign against the XXVI Moekims (July 1879)|campaign against the XXVI Moekims]] of early July [[1879]], the Imam was reported to be at [[Lamgoet|Lamgoet]], while "most of the others" were at the [[missigit Toengkoep|missigit Toengkoep]]. After the submission of the XXVI Moekims and the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August [[1879]], he was among those who, with [[Panglima Polem|Panglima Polem]] and his son [[Radja Koelala|Radja Koelala]], refused to give up the fight and fled to the upper lands of [[Pedir|Pedir]] — specifically, to [[Kemala|Kemala]], in the interior south of Pedir.
 
 ## The Hikajat prang Kompeuni
 
-The [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]], the Acehnese epic of the war whose contents were communicated by [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]], gives the Imam a place in its account of the close of the first conquest:
+The [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]], the Acehnese epic of the war whose contents were communicated by [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]], gives the Imam a place in its account of the close of the first conquest:
 
 > "But when the [[XXVI Moekims|XXVI Moekims]] were conquered, and shortly afterwards the one-eyed general [K. van der Heyden] made victorious campaigns even through the [[XXII Moekims|XXII Moekims]], to the astonishment of the hitherto boasting Highlanders, then the Imam of Longbattah sheathed his sword and withdrew from public life. Now broke a three-year period of rest, in which the one-eyed general consolidated his conquests."
 
@@ -56,7 +56,7 @@ The Imeum of Lueng Bata also appears among those *uleebalangs* in the Sultan's t
 - [[Missigit Longbatta]]
 - [[Missigit Longbatta operation (31 December 1874 – 13 January 1875)]]
 - [[Pagaraye]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Toekoe Rajoet Lamkapang]]
 - [[Toewankoe Haschim]]
 - [[Radja Koelala]]
@@ -67,7 +67,7 @@ The Imeum of Lueng Bata also appears among those *uleebalangs* in the Sultan's t
 - [[Campaign against the XXII Moekims (1879)]]
 - [[Campaign against the XXVI Moekims (July 1879)]]
 - [[Selimoen Expedition (August 1879)]]
-- [[Hikajat prang Kompeuni]]
+- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
 - [[Kemala]]
 - [[Samalanga]]
 - [[Teuku Kali Malikon Ade]]
@@ -98,7 +98,7 @@ D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst v
 ---
 
 
-**Imam of Longbatta** — also written Imam Longbatta, Iman Longbatta, or, after the alternate spelling of the place, Imam Longbattah — was the hereditary *imeum* (religious chief) of the *mukim* of [[Lueng Bata|Lueng Bata]] (also written Longbatta) near the [[Kraton of Aceh|Kraton]] of [[Acheh|Acheh]], and one of the principal Acehnese military and religious leaders of the first phase of the [[Aceh War|Atjeh-oorlog]]. Named together with [[Panglima Polim|Panglima Polim]] and [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the influential chiefs who led the war-party — and identified by [[J. L. J. H. Pel|Kolonel PEL]] as "een van de voornaamste verzetslieden," one of the principal resistance leaders — he is remembered in the [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]] as the leader who, after the conquest of the [[XXVI Moekims|XXVI Moekims]] in [[1879]], "sheathed his sword and withdrew from public life."
+**Imam of Longbatta** — also written Imam Longbatta, Iman Longbatta, or, after the alternate spelling of the place, Imam Longbattah — was the hereditary *imeum* (religious chief) of the *mukim* of [[Lueng Bata|Lueng Bata]] (also written Longbatta) near the [[Kraton of Aceh|Kraton]] of [[Acheh|Acheh]], and one of the principal Acehnese military and religious leaders of the first phase of the [[Aceh War|Atjeh-oorlog]]. Named together with [[Panglima Polem|Panglima Polem]] and [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the influential chiefs who led the war-party — and identified by [[J. L. J. H. Pel|Kolonel PEL]] as "een van de voornaamste verzetslieden," one of the principal resistance leaders — he is remembered in the [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]] as the leader who, after the conquest of the [[XXVI Moekims|XXVI Moekims]] in [[1879]], "sheathed his sword and withdrew from public life."
 
 ## Political Status and Character
 
@@ -108,7 +108,7 @@ According to [[C. Snouck Hurgronje|Snouck Hurgronje]], the Imeum was "a rare phe
 
 ## The War-Party
 
-In his note of [[30 April]] [[30 April]] [[1875]] General Pel named the Imam together with [[Panglima Polim|Panglima Polim]] and [[Toekoe Rajoet Lamkapang]] as among the influential chiefs of the war-party. The biographer [[D. van den Berg|Van den Berg]] records the identification in the same terms: when [[J. L. J. H. Pel|Kolonel PEL]] resolved on [[31 December]] [[31 December]] [[1874]] to drive the [[Achehnese|Atjehers]] from the immediate vicinity of the Dutch main positions and to make the [[Acheh River|Atjeh River]] the eastern defensive line, the action was directed specifically against [[Longbatta|Longbatta]], "welks hoofd, IMAN LONGBATTA, een van de voornaamste verzetslieden was." The wording echoes the contemporary identification by [[J. L. J. H. Pel|Pel]] of the imam as one of the principal leaders of the *prang* (war) party in his note of [[30 April]] [[30 April]] [[1875]].
+In his note of [[30 April]] [[30 April]] [[1875]] General Pel named the Imam together with [[Panglima Polem|Panglima Polem]] and [[Toekoe Rajoet Lamkapang]] as among the influential chiefs of the war-party. The biographer [[D. van den Berg|Van den Berg]] records the identification in the same terms: when [[J. L. J. H. Pel|Kolonel PEL]] resolved on [[31 December]] [[31 December]] [[1874]] to drive the [[Achehnese|Atjehers]] from the immediate vicinity of the Dutch main positions and to make the [[Acheh River|Atjeh River]] the eastern defensive line, the action was directed specifically against [[Longbatta|Longbatta]], "welks hoofd, IMAN LONGBATTA, een van de voornaamste verzetslieden was." The wording echoes the contemporary identification by [[J. L. J. H. Pel|Pel]] of the imam as one of the principal leaders of the *prang* (war) party in his note of [[30 April]] [[30 April]] [[1875]].
 
 He was the religious head of [[Longbatta|Longbatta]] (also written Longbattah), one of the kampongs near the [[Kraton of Aceh|Kraton]] of [[Acheh|Acheh]] that had been one of the Dutch army's bitterest enemies since the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] of [[1873]]-[[1874]]. His religious authority gave him a position distinct from the hereditary [[Uleebalang|hoeloebalangs]]; he was an *imam* — the head of the mosque and the religious community — and could therefore command the kind of loyalty that came from the religious conception of the war as a jihad against the infidel Dutch.
 
@@ -124,13 +124,13 @@ The [[31 December]] [[31 December]] [[1874]] action against [[Longbatta|Longbatt
 
 ## Resistance in 1879
 
-After the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman on 13 October 1878]] and the [[Capture of Indrapuri (24 March 1879)|capture of Indrapuri on 24 March 1879]], the Imam was among those who flared up the struggle with new strength: "On the contrary, it was as if the struggle, under the leadership of our embittered enemies — [[Panglima Polim|Panglima Polim]], Imam Longbatta and others — flared up with new strength."
+After the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman on 13 October 1878]] and the [[Capture of Indrapuri (24 March 1879)|capture of Indrapuri on 24 March 1879]], the Imam was among those who flared up the struggle with new strength: "On the contrary, it was as if the struggle, under the leadership of our embittered enemies — [[Panglima Polem|Panglima Polem]], Imam Longbatta and others — flared up with new strength."
 
-During the [[Campaign against the XXVI Moekims (July 1879)|campaign against the XXVI Moekims]] of early July [[1879]], the Imam was reported to be at [[Lamgoet|Lamgoet]], while "most of the others" were at the [[missigit Toengkoep|missigit Toengkoep]]. After the submission of the XXVI Moekims and the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August [[1879]], he was among those who, with [[Panglima Polim|Panglima Polim]] and his son [[Radja Koelala|Radja Koelala]], refused to give up the fight and fled to the upper lands of [[Pedir|Pedir]] — specifically, to [[Kemala|Kemala]], in the interior south of Pedir.
+During the [[Campaign against the XXVI Moekims (July 1879)|campaign against the XXVI Moekims]] of early July [[1879]], the Imam was reported to be at [[Lamgoet|Lamgoet]], while "most of the others" were at the [[missigit Toengkoep|missigit Toengkoep]]. After the submission of the XXVI Moekims and the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August [[1879]], he was among those who, with [[Panglima Polem|Panglima Polem]] and his son [[Radja Koelala|Radja Koelala]], refused to give up the fight and fled to the upper lands of [[Pedir|Pedir]] — specifically, to [[Kemala|Kemala]], in the interior south of Pedir.
 
 ## The Hikajat prang Kompeuni
 
-The [[Hikajat prang Kompeuni|Hikajat prang Kompeuni]], the Acehnese epic of the war whose contents were communicated by [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]], gives the Imam a place in its account of the close of the first conquest:
+The [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]], the Acehnese epic of the war whose contents were communicated by [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]], gives the Imam a place in its account of the close of the first conquest:
 
 > "But when the [[XXVI Moekims|XXVI Moekims]] were conquered, and shortly afterwards the one-eyed general [K. van der Heyden] made victorious campaigns even through the [[XXII Moekims|XXII Moekims]], to the astonishment of the hitherto boasting Highlanders, then the Imam of Longbattah sheathed his sword and withdrew from public life. Now broke a three-year period of rest, in which the one-eyed general consolidated his conquests."
 
@@ -149,7 +149,7 @@ The Imeum of Lueng Bata also appears among those *uleebalangs* in the Sultan's t
 - [[Missigit Longbatta]]
 - [[Missigit Longbatta operation (31 December 1874 – 13 January 1875)]]
 - [[Pagaraye]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Toekoe Rajoet Lamkapang]]
 - [[Toewankoe Haschim]]
 - [[Radja Koelala]]
@@ -160,7 +160,7 @@ The Imeum of Lueng Bata also appears among those *uleebalangs* in the Sultan's t
 - [[Campaign against the XXII Moekims (1879)]]
 - [[Campaign against the XXVI Moekims (July 1879)]]
 - [[Selimoen Expedition (August 1879)]]
-- [[Hikajat prang Kompeuni]]
+- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
 - [[Kemala]]
 - [[Samalanga]]
 - [[Teuku Kali Malikon Ade]]

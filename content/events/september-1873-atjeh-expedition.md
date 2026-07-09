@@ -13,7 +13,7 @@ Although the September force secured a larger area than its predecessor, resista
 ## See Also
 - [[April 1873 Atjeh Expedition]]
 - [[Atjeh]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Indische legerverband]]
 
 ## Source

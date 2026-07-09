@@ -15,7 +15,7 @@ Meyer’s expedition is a key episode of the **Aceh War**, demonstrating the Dut
 
 ## See Also
 - [[Aceh War]]
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 - [[Blang Kala]]
 - [[Pakan Badak]]
 - [[Mesigit]]

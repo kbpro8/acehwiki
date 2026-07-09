@@ -13,7 +13,7 @@ Roos’s report described the landing, the deceptive tactics, and the subsequent
 
 - [[First Boni Expedition 1859]]
 - [[Report of S. A. Roos]]
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 
 ## Source
 

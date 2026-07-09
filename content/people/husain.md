@@ -5,7 +5,7 @@ aliases: [Husayn, Hussein, Husain ibn Ali]
 tags: [person, religious-figure, islamic-figure, martyr, grandson-of-prophet]
 ---
 
-**Ḥusain** (also **Husayn** or **Hussein**), the grandson of [[Prophet Mohammad|the Prophet Mohammad]] through his daughter Fāṭimah and his cousin and son-in-law [[Ali]], is in the religious calendar and folk-lore of [[Acheh]] inseparable from his elder brother [[Hasan]]. Together they give their names to the Achehnese month of [[Asan-Usen]] (the first month of the Mohammedan year, *Muharram*) and to the [[Hasan-Husain festival|Hasan-Husain festival]] commemorated in the first ten days of that month. Husain's martyrdom on the plains of [[Kerbela]] on the tenth of Muharram — the day of [[Ashura]] — is the central event of the Shiʿite calendar, and its echoes in Achehnese custom form one of the principal subjects of Chapter II of Vol. I.
+**Ḥusain** (also **Husayn** or **Hussein**), the grandson of [[Prophet Mohammad|the Prophet Mohammad]] through his daughter Fāṭimah and his cousin and son-in-law [[Ali]], is in the religious calendar and folk-lore of [[Acheh]] inseparable from his elder brother [[Hasan]]. Together they give their names to the Achehnese month of [[Asan-Usen]] (the first month of the Mohammedan year, *Muharram*) and to the [[Hasan-Husain Festival|Hasan-Husain Festival]] commemorated in the first ten days of that month. Husain's martyrdom on the plains of [[Kerbela]] on the tenth of Muharram — the day of [[Ashura]] — is the central event of the Shiʿite calendar, and its echoes in Achehnese custom form one of the principal subjects of Chapter II of Vol. I.
 
 ## The martyrdom of Kerbela
 
@@ -13,7 +13,7 @@ In the books of Mohammedan law, [[C. Snouck Hurgronje|Snouck Hurgronje]] writes,
 
 ## Husain in the Eastern Archipelago
 
-Snouck traces the Shiʿite colouring of these popular observances to the early influence of the Deccan, whose Shafiʿite Muslims — though technically of the same ritual school as the Malays — had imbibed strong Shiʿite influences from their Hindu surroundings. The popular religious literature of the [[Eastern Archipelago]] — the Titanic wars and love adventures of [[Amir Hamzah]], the romantic adventures of [[Mohammad ibnu'l Hanafiyyah]], of [[Sam'un]] and [[Raja Badar]] — is shown to be of British-Indian provenance: "it is more particularly in British India that works of this sort are to be met with, nor is it possible that they should have been disseminated to such an extent in any country closer to Arabia." The absurd tales related of Husain and his companions, the martyrs of Kerbela, are of the same character as those current in India; "and there too (and consequently in the Archipelago as well), Hasan, innocent as he was of all martyrdom, has been enrolled in this band of saints, and the Ashura-festival bears the names of both brothers."
+Snouck traces the Shiʿite colouring of these popular observances to the early influence of the Deccan, whose Shafiʿite Muslims — though technically of the same ritual school as the Malays — had imbibed strong Shiʿite influences from their Hindu surroundings. The popular religious literature of the [[East Indian Archipelago|Eastern Archipelago]] — the Titanic wars and love adventures of [[Amir Hamzah]], the romantic adventures of [[Mohammad ibnu'l Hanafiyyah]], of [[Sam'un]] and [[Raja Badar]] — is shown to be of British-Indian provenance: "it is more particularly in British India that works of this sort are to be met with, nor is it possible that they should have been disseminated to such an extent in any country closer to Arabia." The absurd tales related of Husain and his companions, the martyrs of Kerbela, are of the same character as those current in India; "and there too (and consequently in the Archipelago as well), Hasan, innocent as he was of all martyrdom, has been enrolled in this band of saints, and the Ashura-festival bears the names of both brothers."
 
 ## The Achehnese survivals
 
@@ -22,7 +22,7 @@ The Achehnese name of the first month, *Asan-Usen* ("Hasan-Husain"), and the Ach
 ## See Also
 
 - [[Hasan]]
-- [[Hasan-Husain festival]]
+- [[Hasan-Husain Festival|Hasan-Husain festival]]
 - [[Ashura]]
 - [[Asan-Usen]]
 - [[Kanji Ashura]]
@@ -35,7 +35,7 @@ The Achehnese name of the first month, *Asan-Usen* ("Hasan-Husain"), and the Ach
 ---
 
 
-**Ḥusain** (also **Husayn** or **Hussein**), the grandson of [[Prophet Mohammad|the Prophet Mohammad]] through his daughter Fāṭimah and his cousin and son-in-law [[Ali]], is in the religious calendar and folk-lore of [[Acheh]] inseparable from his elder brother [[Hasan]]. Together they give their names to the Achehnese month of [[Asan-Usen]] (the first month of the Mohammedan year, *Muharram*) and to the [[Hasan-Husain festival|Hasan-Husain festival]] commemorated in the first ten days of that month. Husain's martyrdom on the plains of [[Kerbela]] on the tenth of Muharram — the day of [[Ashura]] — is the central event of the Shiʿite calendar, and its echoes in Achehnese custom form one of the principal subjects of Chapter II of Vol. I.
+**Ḥusain** (also **Husayn** or **Hussein**), the grandson of [[Prophet Mohammad|the Prophet Mohammad]] through his daughter Fāṭimah and his cousin and son-in-law [[Ali]], is in the religious calendar and folk-lore of [[Acheh]] inseparable from his elder brother [[Hasan]]. Together they give their names to the Achehnese month of [[Asan-Usen]] (the first month of the Mohammedan year, *Muharram*) and to the [[Hasan-Husain Festival|Hasan-Husain Festival]] commemorated in the first ten days of that month. Husain's martyrdom on the plains of [[Kerbela]] on the tenth of Muharram — the day of [[Ashura]] — is the central event of the Shiʿite calendar, and its echoes in Achehnese custom form one of the principal subjects of Chapter II of Vol. I.
 
 ## The martyrdom of Kerbela
 
@@ -43,7 +43,7 @@ In the books of Mohammedan law, [[C. Snouck Hurgronje|Snouck Hurgronje]] writes,
 
 ## Husain in the Eastern Archipelago
 
-Snouck traces the Shiʿite colouring of these popular observances to the early influence of the Deccan, whose Shafiʿite Muslims — though technically of the same ritual school as the Malays — had imbibed strong Shiʿite influences from their Hindu surroundings. The popular religious literature of the [[Eastern Archipelago]] — the Titanic wars and love adventures of [[Amir Hamzah]], the romantic adventures of [[Mohammad ibnu'l Hanafiyyah]], of [[Sam'un]] and [[Raja Badar]] — is shown to be of British-Indian provenance: "it is more particularly in British India that works of this sort are to be met with, nor is it possible that they should have been disseminated to such an extent in any country closer to Arabia." The absurd tales related of Husain and his companions, the martyrs of Kerbela, are of the same character as those current in India; "and there too (and consequently in the Archipelago as well), Hasan, innocent as he was of all martyrdom, has been enrolled in this band of saints, and the Ashura-festival bears the names of both brothers."
+Snouck traces the Shiʿite colouring of these popular observances to the early influence of the Deccan, whose Shafiʿite Muslims — though technically of the same ritual school as the Malays — had imbibed strong Shiʿite influences from their Hindu surroundings. The popular religious literature of the [[East Indian Archipelago|Eastern Archipelago]] — the Titanic wars and love adventures of [[Amir Hamzah]], the romantic adventures of [[Mohammad ibnu'l Hanafiyyah]], of [[Sam'un]] and [[Raja Badar]] — is shown to be of British-Indian provenance: "it is more particularly in British India that works of this sort are to be met with, nor is it possible that they should have been disseminated to such an extent in any country closer to Arabia." The absurd tales related of Husain and his companions, the martyrs of Kerbela, are of the same character as those current in India; "and there too (and consequently in the Archipelago as well), Hasan, innocent as he was of all martyrdom, has been enrolled in this band of saints, and the Ashura-festival bears the names of both brothers."
 
 ## The Achehnese survivals
 
@@ -52,7 +52,7 @@ The Achehnese name of the first month, *Asan-Usen* ("Hasan-Husain"), and the Ach
 ## See Also
 
 - [[Hasan]]
-- [[Hasan-Husain festival]]
+- [[Hasan-Husain Festival|Hasan-Husain festival]]
 - [[Ashura]]
 - [[Asan-Usen]]
 - [[Kanji Ashura]]

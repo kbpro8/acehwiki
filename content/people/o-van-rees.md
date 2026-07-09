@@ -4,7 +4,7 @@ title: O. van Rees
 aliases: [Otto van Rees, Van Rees, Mr. O. van Rees]
 tags: [person, colonial, minister, dutch]
 ---
-**O. van Rees** was a Dutch colonial minister who served from [[March]] to [[August]] [[1879]], a brief but significant period in the [[Aceh War]] during Governor-General [[J.W. van Lansberge]]'s administration. Born in [[1823]], he was a senior colonial official with extensive experience in the [[Dutch East Indies]], having served as Vice-President of the [[Council of the Indies]] from [[1873]] to [[1878]].
+**O. van Rees** was a Dutch colonial minister who served from [[March]] to [[August]] [[1879]], a brief but significant period in the [[Aceh War]] during Governor-General [[Johan Willem van Lansberge|J.W. van Lansberge]]'s administration. Born in [[1823]], he was a senior colonial official with extensive experience in the [[Dutch East Indies]], having served as Vice-President of the [[Council of the Indies]] from [[1873]] to [[1878]].
 
 ## Early Career
 
@@ -31,7 +31,7 @@ Van Rees continued the financial reforms initiated by Van Bosse:
 
 ### The Reform of the Taxation System
 
-As Vice-President of the [[Council of Netherlands India|Raad of Nederlandsch-Indië]], van Rees was charged, together with the director of finances [[J. P. Sprenger van Eyk|Sprenger van Eyk]], with the submission of proposals for reforms in the taxation system. The charge led on [[7 June]] [[1874]] to the proposal to introduce the [[personeele belasting|personeele belasting]] and the [[patentrecht|patentrecht]] for Europeans and foreign Orientals. This proposal was brought to the knowledge of the Opperbestuur by letter of [[4 July]] [[1874]] from the Governor-General [[J. Loudon|Loudon]], who agreed with the proposal concerning the patentrecht, but not with that concerning the personeel. The Opperbestuur brought in [[March 1875|March 1875]] to the knowledge of his successor [[J. W. van Lansberge|Van Lansberge]] "that the correctness had to be acknowledged of the principal idea underlying the drafted plan, namely that there is no reason to maintain a situation in which the Europeans and foreign Orientals established in Netherlands India contribute proportionally much less to the costs of the state household than the native population," that it further had no objection to the two proposed drafts, and requested that these be elaborated in Indië as soon as possible into regular proposals. These reforms ultimately led to the introduction of the personeele belasting and patentrecht in [[1879]].
+As Vice-President of the [[Council of Netherlands India|Raad of Nederlandsch-Indië]], van Rees was charged, together with the director of finances [[J. P. Sprenger van Eyk|Sprenger van Eyk]], with the submission of proposals for reforms in the taxation system. The charge led on [[7 June]] [[1874]] to the proposal to introduce the [[personeele belasting|personeele belasting]] and the [[patentrecht|patentrecht]] for Europeans and foreign Orientals. This proposal was brought to the knowledge of the Opperbestuur by letter of [[4 July]] [[1874]] from the Governor-General [[J. Loudon|Loudon]], who agreed with the proposal concerning the patentrecht, but not with that concerning the personeel. The Opperbestuur brought in [[March 1875|March 1875]] to the knowledge of his successor [[Johan Willem van Lansberge|Van Lansberge]] "that the correctness had to be acknowledged of the principal idea underlying the drafted plan, namely that there is no reason to maintain a situation in which the Europeans and foreign Orientals established in Netherlands India contribute proportionally much less to the costs of the state household than the native population," that it further had no objection to the two proposed drafts, and requested that these be elaborated in Indië as soon as possible into regular proposals. These reforms ultimately led to the introduction of the personeele belasting and patentrecht in [[1879]].
 
 ### The Restriction on the Vice-President
 
@@ -50,7 +50,7 @@ Van Rees' role in colonial history is often overshadowed by his more prominent p
 
 ## See Also
 
-- [[J.W. van Lansberge]]
+- [[Johan Willem van Lansberge|J.W. van Lansberge]]
 - [[Aceh War]]
 - [[P.P. van Bosse]]
 - [[W. van Goltstein]]
@@ -72,7 +72,7 @@ Van Rees' role in colonial history is often overshadowed by his more prominent p
 - *J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni [[1855]]*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, [[1943]], Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, pp. 44-46, 210-214
 ---
 
-**O. van Rees** was a Dutch colonial minister who served from [[March]] to [[August]] [[1879]], a brief but significant period in the [[Aceh War]] during Governor-General [[J.W. van Lansberge]]'s administration. Born in [[1823]], he was a senior colonial official with extensive experience in the [[Dutch East Indies]], having served as Vice-President of the [[Council of the Indies]] from [[1873]] to [[1878]].
+**O. van Rees** was a Dutch colonial minister who served from [[March]] to [[August]] [[1879]], a brief but significant period in the [[Aceh War]] during Governor-General [[Johan Willem van Lansberge|J.W. van Lansberge]]'s administration. Born in [[1823]], he was a senior colonial official with extensive experience in the [[Dutch East Indies]], having served as Vice-President of the [[Council of the Indies]] from [[1873]] to [[1878]].
 
 ## Early Career
 
@@ -99,7 +99,7 @@ Van Rees continued the financial reforms initiated by Van Bosse:
 
 ### The Reform of the Taxation System
 
-As Vice-President of the [[Council of Netherlands India|Raad of Nederlandsch-Indië]], van Rees was charged, together with the director of finances [[J. P. Sprenger van Eyk|Sprenger van Eyk]], with the submission of proposals for reforms in the taxation system. The charge led on [[7 June]] [[1874]] to the proposal to introduce the [[personeele belasting|personeele belasting]] and the [[patentrecht|patentrecht]] for Europeans and foreign Orientals. This proposal was brought to the knowledge of the Opperbestuur by letter of [[4 July]] [[1874]] from the Governor-General [[J. Loudon|Loudon]], who agreed with the proposal concerning the patentrecht, but not with that concerning the personeel. The Opperbestuur brought in [[March 1875|March 1875]] to the knowledge of his successor [[J. W. van Lansberge|Van Lansberge]] "that the correctness had to be acknowledged of the principal idea underlying the drafted plan, namely that there is no reason to maintain a situation in which the Europeans and foreign Orientals established in Netherlands India contribute proportionally much less to the costs of the state household than the native population," that it further had no objection to the two proposed drafts, and requested that these be elaborated in Indië as soon as possible into regular proposals. These reforms ultimately led to the introduction of the personeele belasting and patentrecht in [[1879]].
+As Vice-President of the [[Council of Netherlands India|Raad of Nederlandsch-Indië]], van Rees was charged, together with the director of finances [[J. P. Sprenger van Eyk|Sprenger van Eyk]], with the submission of proposals for reforms in the taxation system. The charge led on [[7 June]] [[1874]] to the proposal to introduce the [[personeele belasting|personeele belasting]] and the [[patentrecht|patentrecht]] for Europeans and foreign Orientals. This proposal was brought to the knowledge of the Opperbestuur by letter of [[4 July]] [[1874]] from the Governor-General [[J. Loudon|Loudon]], who agreed with the proposal concerning the patentrecht, but not with that concerning the personeel. The Opperbestuur brought in [[March 1875|March 1875]] to the knowledge of his successor [[Johan Willem van Lansberge|Van Lansberge]] "that the correctness had to be acknowledged of the principal idea underlying the drafted plan, namely that there is no reason to maintain a situation in which the Europeans and foreign Orientals established in Netherlands India contribute proportionally much less to the costs of the state household than the native population," that it further had no objection to the two proposed drafts, and requested that these be elaborated in Indië as soon as possible into regular proposals. These reforms ultimately led to the introduction of the personeele belasting and patentrecht in [[1879]].
 
 ### The Restriction on the Vice-President
 
@@ -118,7 +118,7 @@ Van Rees' role in colonial history is often overshadowed by his more prominent p
 
 ## See Also
 
-- [[J.W. van Lansberge]]
+- [[Johan Willem van Lansberge|J.W. van Lansberge]]
 - [[Aceh War]]
 - [[P.P. van Bosse]]
 - [[W. van Goltstein]]

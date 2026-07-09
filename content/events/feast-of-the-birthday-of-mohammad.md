@@ -18,7 +18,7 @@ The feast itself is the [[Kanduri Mo'lot|kanduri Mo'lot]]. The place where it is
 
 ## The Feast-Idangs
 
-Snouck Hurgronje notes that the same fixed rules which the [[adat]] lays down for the arrangement of *idangs* at wedding-feasts hold good for the *idangs* of the Feast of the Birthday of Mohammad, and for what are called "guest-meals" — feasts offered to specially honoured guests. These, however, are not in any sense of religious character, nor are they, like [[kanduri]]s, marked by the recitation of selections from the Quran or litanies with final prayer. A feast-*idang* is formed of two *dalongs* (presentation trays), one containing rice and the other bowls of meat, fish, and side-dishes piled in as many as nine layers separated by plantain-leaves; the whole stands beneath a handsomely worked cover (*sange*) and a costly cloth (*seulunong*).
+Snouck Hurgronje notes that the same fixed rules which the [[adat]] lays down for the arrangement of *idangs* at wedding-feasts hold good for the *idangs* of the Feast of the Birthday of Mohammad, and for what are called "guest-meals" — feasts offered to specially honoured guests. These, however, are not in any sense of religious character, nor are they, like [[Kanduri|kanduri]]s, marked by the recitation of selections from the Quran or litanies with final prayer. A feast-*idang* is formed of two *dalongs* (presentation trays), one containing rice and the other bowls of meat, fish, and side-dishes piled in as many as nine layers separated by plantain-leaves; the whole stands beneath a handsomely worked cover (*sange*) and a costly cloth (*seulunong*).
 
 ## Great Mo'lot at Teungku Anjong's Tomb
 

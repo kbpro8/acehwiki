@@ -11,7 +11,7 @@ After the initial landing, Ellinghuyzen’s division secured the fort at Duurste
 
 ## See Also
 
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Maria Reygersbergen]]
 - [[Duurstede]]
 - [[Saparoea]]

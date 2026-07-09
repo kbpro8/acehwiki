@@ -12,7 +12,7 @@ tags: [concept, term, colonial, aceh]
 
 ## Geumpenie as its own worst enemy
 
-"The history of Atjeh, for example, showed repeatedly how the most effective ally of the Atjeher against the Geumpenie was the Geumpenie itself, which constantly struck a new direction, which constantly changed its systems of administration, and only during the ten-year administration of the Aceh-connoisseur, General Swart, were order and peace consolidated in that province." The history of Atjeh showed repeatedly how the most effective ally of the Atjeher against the Geumpenie was the Geumpenie itself, which constantly struck a new direction, constantly changed its systems of administration, and only during the ten-year administration of the Aceh expert, [[Generaal Swart|generaal Swart]], were order and peace consolidated in that province. Geumpenie — the colonial government — is therefore the book's — and Musket's — marker of the colonial state's failure of continuity in [[Atjeh|Aceh]]: the government was its own worst enemy, constantly shifting course.
+"The history of Atjeh, for example, showed repeatedly how the most effective ally of the Atjeher against the Geumpenie was the Geumpenie itself, which constantly struck a new direction, which constantly changed its systems of administration, and only during the ten-year administration of the Aceh-connoisseur, General Swart, were order and peace consolidated in that province." The history of Atjeh showed repeatedly how the most effective ally of the Atjeher against the Geumpenie was the Geumpenie itself, which constantly struck a new direction, constantly changed its systems of administration, and only during the ten-year administration of the Aceh expert, [[H. N. A. Swart|generaal Swart]], were order and peace consolidated in that province. Geumpenie — the colonial government — is therefore the book's — and Musket's — marker of the colonial state's failure of continuity in [[Atjeh|Aceh]]: the government was its own worst enemy, constantly shifting course.
 
 ## Significance
 
@@ -26,7 +26,7 @@ Geumpenie is significant in *[[Oost-Indisch Journael]]* as the Acehnese term for
 - [Prang sabil](/concept/prang-sabil)
 - [Atjeh-moord](/concept/atjeh-moord)
 - [Paradijs-dood](/concept/paradijs-dood)
-- [[Generaal Swart]]
+- [[H. N. A. Swart|Generaal Swart]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
 
 ## Source

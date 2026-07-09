@@ -30,7 +30,7 @@ The reverence paid to Ali in Acheh is part of the general Sunnī orthodoxy of th
 - [[Mohammad ibnu'l Hanafiyyah]]
 - [[Omar]]
 - [[Raja Bada]]
-- [[Sayyid Abu Bakar bin Husain Bil-Faqih]]
+- [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]]
 - [[Tamikha]]
 - [[Uthman]]
 
@@ -66,7 +66,7 @@ The reverence paid to Ali in Acheh is part of the general Sunnī orthodoxy of th
 - [[Mohammad ibnu'l Hanafiyyah]]
 - [[Omar]]
 - [[Raja Bada]]
-- [[Sayyid Abu Bakar bin Husain Bil-Faqih]]
+- [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]]
 - [[Tamikha]]
 - [[Uthman]]
 

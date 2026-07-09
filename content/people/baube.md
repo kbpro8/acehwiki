@@ -10,7 +10,7 @@ Baubé’s forces were part of the larger rebel coalition that resisted Dutch at
 
 ## See Also
 - [[Quacco]]
-- [[Wikkie‑kreek]]
+- [[Wikkie creek|Wikkie‑kreek]]
 - [[Luitenant‑Kolonel Douglas]]
 
 ## Source

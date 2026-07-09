@@ -11,7 +11,7 @@ His wound is recorded in the Dutch naval yearbook of **[[1893]]**, reflecting th
 
 ## See Also
 
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Tamiang (river)]]
 - [[Colonel Van de Pol]]
 - [[Royal Netherlands Marine Corps]]

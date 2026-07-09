@@ -26,7 +26,7 @@ The Mukim Tujoh belongs to the [[Pidie]] country, that rich and populous region 
 - [[Lhee Mukim Lam Rabo]]
 - [[Lhee Mukim Kayee Adang]]
 - [[XXV Mukims]]
-- [[Mukims VII]]
+- [[VII Mukims|Mukims VII]]
 
 ## Source
 

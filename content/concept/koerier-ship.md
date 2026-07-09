@@ -15,7 +15,7 @@ The ship’s heavy armament and reinforced hull exemplify Dutch adaptations to r
 
 ## See Also
 
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Tamiang (river)]]
 - [[Van Dijk (naval officer)]]
 - [[Colonel Van de Pol]]

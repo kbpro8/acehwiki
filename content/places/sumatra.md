@@ -20,7 +20,7 @@ Malay literary material also circulated widely in Achehnese markets; Malay textb
 
 ### Acehnese Kingdom and Regional Relations  
 
-The Acehnese kingdom occupied the northwestern tip of Sumatra, extending on the west coast south to [[Baros]] and on the east coast to [[Teumieng]] (also called [[Tamiang]]). [[C. Snouck Hurgronje|Snouck Hurgronje]] records that the Acehnese themselves marked the boundary with the [[Menangkabau]] at these points. The kingdom’s naval and commercial enterprises flourished in the seventeenth century, with expeditions against [[Malacca]] and [[Pahang]] (e.g., [[Sultan Iskandar Muda]]’s conquests in [[1613]] and [[1618]]). Even after the decline of this “golden age”, Acehnese seafarers and pirates continued to menace the coasts of Sumatra and the adjacent islands of [[Nias]].
+The Acehnese kingdom occupied the northwestern tip of Sumatra, extending on the west coast south to [[Baros]] and on the east coast to [[Tamiang|Teumieng]] (also called [[Tamiang]]). [[C. Snouck Hurgronje|Snouck Hurgronje]] records that the Acehnese themselves marked the boundary with the [[Menangkabau]] at these points. The kingdom’s naval and commercial enterprises flourished in the seventeenth century, with expeditions against [[Malacca]] and [[Pahang]] (e.g., [[Sultan Iskandar Muda]]’s conquests in [[1613]] and [[1618]]). Even after the decline of this “golden age”, Acehnese seafarers and pirates continued to menace the coasts of Sumatra and the adjacent islands of [[Nias]].
 
 ### Agricultural and Social Distinctions  
 
@@ -32,13 +32,13 @@ Following the dissolution of the [[Dutch East India Company|VOC]] in the late ei
 
 ## Anglo‑Dutch Rivalry and the 1824 Treaty  
 
-By Article 9 of the [[Anglo‑Dutch Treaty of London (1824)]] of [[17 March]] [[1824]], Britain renounced “op dat eiland” all political establishments and treaties with native rulers; the Netherlands pledged reciprocal abstention in the [[Malay Peninsula]]. The Dutch plenipotentiary [[Anton Reinhard Falck|Falck]] celebrated in a private letter of [[7 April]] [[1824]] to [[J. H. van der Palm]] that the entire island was now “aan den Britschen invloed onttrokken en in den werkingskreits der Nederlandsche staatkunde geplaatst”. However, the British reservation preserving the independence of the [[Acheh treaty of 1819]] created a legal hinge that would dominate Sumatra’s diplomatic history for decades. 
+By Article 9 of the [[Anglo‑Dutch Treaty of London (1824)]] of [[17 March]] [[1824]], Britain renounced “op dat eiland” all political establishments and treaties with native rulers; the Netherlands pledged reciprocal abstention in the [[Malay Peninsula]]. The Dutch plenipotentiary [[Anton Reinhard Falck|Falck]] celebrated in a private letter of [[7 April]] [[1824]] to [[J. H. van der Palm]] that the entire island was now “aan den Britschen invloed onttrokken en in den werkingskreits der Nederlandsche staatkunde geplaatst”. However, the British reservation preserving the independence of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] created a legal hinge that would dominate Sumatra’s diplomatic history for decades. 
 
 [[Robert Fullerton|Fullerton]] of [[Penang]] seized upon this reservation in his minute of [[21 March]] [[1825]], arguing that because Aceh was independent, the Dutch could not invoke Article 3 (which forbade differential duties against independent states) to apply Article 2 (which permitted them) on [[Sumatra's East Coast]]. The dispute persisted until the [[Sumatra Treaty of 1871]], which finally saw Britain “afzien van alle vertoogen tegen de uitbreiding van het Nederlandsch gezag in eenig gedeelte van het eiland Sumatra”.
 
 ## Dutch Military Operations and the Aceh War  
 
-The Dutch response to Acehnese resistance culminated in the protracted [[Aceh War (1873–1904)]]. Early Dutch expeditions, such as the [[1838 Expedition against the Padri’s]]—recorded in *De geschiedenis van het Nederlandsche Korps Mariniers*—targeted the reformist [[Padri movement]] that had sparked the [[Padri War (Sumatra)]]. Marine detachments of the [[Dutch Marine Corps|Korps Mariniers]] operated inland to support army actions (see pages 102‑104 of the marine history). 
+The Dutch response to Acehnese resistance culminated in the protracted [[Aceh War (1873–1904)]]. Early Dutch expeditions, such as the [[1838 Expedition against the Padri’s]]—recorded in *De geschiedenis van het Nederlandsche Korps Mariniers*—targeted the reformist [[Padri movement]] that had sparked the [[Padri War|Padri War (Sumatra)]]. Marine detachments of the [[Royal Netherlands Marine Corps|Korps Mariniers]] operated inland to support army actions (see pages 102‑104 of the marine history). 
 
 From [[July]] [[1874]] to [[February]] [[1876]] Dutch mariniers conducted patrols, riverine assaults and fortified coastal positions along the Aceh coast, overseen by officers such as [[J. B. Verhey]] and [[M. P. Meyer]]. These operations, part of the broader effort to suppress resistance, demonstrated the increasing reliance on naval infantry to project power in Sumatra’s difficult terrain.
 
@@ -48,7 +48,7 @@ The Dutch East Indies administered Sumatra through a hierarchy of residencies an
 
 ## Significance  
 
-Sumatra’s gradual integration into the Dutch colonial system set the stage for the prolonged [[Aceh War (1873–1904)]] and ultimately for the island’s incorporation into the modern [[Republic of Indonesia]] after [[World War II]]. The island’s history exemplifies the complex interplay between resilient local sultanates—most prominently Aceh—and European colonial powers, as well as the pivotal role of the [[Dutch Marine Corps|Korps Mariniers]] and later naval forces in projecting Dutch authority across the archipelago.
+Sumatra’s gradual integration into the Dutch colonial system set the stage for the prolonged [[Aceh War (1873–1904)]] and ultimately for the island’s incorporation into the modern [[Republic of Indonesia]] after [[World War II]]. The island’s history exemplifies the complex interplay between resilient local sultanates—most prominently Aceh—and European colonial powers, as well as the pivotal role of the [[Royal Netherlands Marine Corps|Korps Mariniers]] and later naval forces in projecting Dutch authority across the archipelago.
 
 ## See Also
 
@@ -69,7 +69,7 @@ Sumatra’s gradual integration into the Dutch colonial system set the stage for
 - [[Pahang]]
 - [[Parisi]]
 - [[Pidie]]
-- [[Teumieng]]
+- [[Tamiang|Teumieng]]
 - [[Nias]]
 - [[East Indian Archipelago]]
 - [[Mecca]]
@@ -78,19 +78,19 @@ Sumatra’s gradual integration into the Dutch colonial system set the stage for
 - [[Bencoolen]]
 - [[Trumon]]
 - [[Anglo-Dutch Treaty of 1824]]
-- [[Anglo-Dutch Treaty of 1871]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1871]]
 - [[Achehnese War]]
 - [[Sumatra's East Coast]]
 - [[Sumatra's West Coast]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Sumatra Treaty of 1871]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Robert Fullerton]]
 - [[Anton Reinhard Falck]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Tapanoeli]]
 - [[Palembang]]
-- [[Padri War (Sumatra)]]
+- [[Padri War|Padri War (Sumatra)]]
 - [[Padri movement]]
 - [[Aceh War (1873–1904)]]
 - [[Indonesia]]
@@ -98,7 +98,7 @@ Sumatra’s gradual integration into the Dutch colonial system set the stage for
 - [[South China Sea]]
 - [[Strait of Malacca]]
 - [[Royal Netherlands East Indies Army]]
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[J. B. Verhey]]
 - [[M. P. Meyer]]
 - [[World War II]]

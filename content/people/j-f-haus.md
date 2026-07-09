@@ -5,7 +5,7 @@ aliases: [Kolonel Haus, Colonel Haus, J.F. Haus]
 tags: [person, colonel, dutch, military, aceh-war]
 ---
 
-**J. F. Haus** was a colonel of the infantry who was appointed the first military commandant of [[Acheh|Atjeh]] under the civil governor [[A. Pruys van der Hoeven|A. Pruys van der Hoeven]] on [[6 April]] [[6 April]] [[1881]], following the [[Establishment of Civil Government in Aceh (6 April 1881)|separation of the civil and military commands]] by the Governor-General [[J. W. van Lansberge|Van Lansberge]]. The appointment, together with the discharge of [[K. van der Heyden|Lieutenant-general Van der Heyden]] from his functions, was one of the last administrative acts of Van Lansberge, who had himself requested discharge for health reasons.
+**J. F. Haus** was a colonel of the infantry who was appointed the first military commandant of [[Acheh|Atjeh]] under the civil governor [[A. Pruys van der Hoeven|A. Pruys van der Hoeven]] on [[6 April]] [[6 April]] [[1881]], following the [[Establishment of Civil Government in Aceh (6 April 1881)|separation of the civil and military commands]] by the Governor-General [[Johan Willem van Lansberge|Van Lansberge]]. The appointment, together with the discharge of [[K. van der Heyden|Lieutenant-general Van der Heyden]] from his functions, was one of the last administrative acts of Van Lansberge, who had himself requested discharge for health reasons.
 
 ## The Separation of Commands, 6 April 1881
 
@@ -19,7 +19,7 @@ The separation of the civil and military commands was the formal transition of A
 
 - [[A. Pruys van der Hoeven]]
 - [[K. van der Heyden]]
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[Establishment of Civil Government in Aceh (6 April 1881)]]
 - [[Indies Army]]
 - [[Aceh War]]
@@ -30,7 +30,7 @@ The separation of the civil and military commands was the formal transition of A
 ---
 
 
-**J. F. Haus** was a colonel of the infantry who was appointed the first military commandant of [[Acheh|Atjeh]] under the civil governor [[A. Pruys van der Hoeven|A. Pruys van der Hoeven]] on [[6 April]] [[6 April]] [[1881]], following the [[Establishment of Civil Government in Aceh (6 April 1881)|separation of the civil and military commands]] by the Governor-General [[J. W. van Lansberge|Van Lansberge]]. The appointment, together with the discharge of [[K. van der Heyden|Lieutenant-general Van der Heyden]] from his functions, was one of the last administrative acts of Van Lansberge, who had himself requested discharge for health reasons.
+**J. F. Haus** was a colonel of the infantry who was appointed the first military commandant of [[Acheh|Atjeh]] under the civil governor [[A. Pruys van der Hoeven|A. Pruys van der Hoeven]] on [[6 April]] [[6 April]] [[1881]], following the [[Establishment of Civil Government in Aceh (6 April 1881)|separation of the civil and military commands]] by the Governor-General [[Johan Willem van Lansberge|Van Lansberge]]. The appointment, together with the discharge of [[K. van der Heyden|Lieutenant-general Van der Heyden]] from his functions, was one of the last administrative acts of Van Lansberge, who had himself requested discharge for health reasons.
 
 ## The Separation of Commands, 6 April 1881
 
@@ -44,7 +44,7 @@ The separation of the civil and military commands was the formal transition of A
 
 - [[A. Pruys van der Hoeven]]
 - [[K. van der Heyden]]
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[Establishment of Civil Government in Aceh (6 April 1881)]]
 - [[Indies Army]]
 - [[Aceh War]]

@@ -3,7 +3,7 @@ title: Carmen Arabicum Amäli dictum
 aliases: [Latin-German translation of Kasida al-Lamiyya]
 tags: [document, translation, german, latin, 19th‑century]
 ---
-**Carmen Arabicum Amäli dictum** is the Latin‑German translation of the creed poem *[[Kasida al-Lamiyya fil-tawwidd]]* published by [[P. von Bohlen]] in [[1825]]. The work presented the Arabic text with accompanying Latin and German commentary.
+**Carmen Arabicum Amäli dictum** is the Latin‑German translation of the creed poem *[[Bad' al-Amali|Kasida al-Lamiyya fil-tawwidd]]* published by [[P. von Bohlen]] in [[1825]]. The work presented the Arabic text with accompanying Latin and German commentary.
 
 ## Importance for Acehnese Studies
 
@@ -11,7 +11,7 @@ Von Bohlen’s edition provided a scholarly reference point for later research
 
 ## See Also
 
-- [[Kasida al-Lamiyya fil-tawwidd]]
+- [[Bad' al-Amali|Kasida al-Lamiyya fil-tawwidd]]
 - [[P. von Bohlen]]
 - [[Aceh]]
 

@@ -12,7 +12,7 @@ Marre's [[1874]] *Sumatra, Histoire des rois de Pasey* was a free French renderi
 In *De Karbouw* (p. 209, footnote), [[J. Kreemer|Kreemer]] cites Marre's *Histoire des rois de Pasey* at pp. 100 vg. and 125 vg. in a list of authorities for the famous Minangkabau buffalo-fight founding legend — the story that the conflict between Java and Minangkabau was decided by a single combat between a Javanese and a Minangkabau buffalo. The list, which also includes [[E. Dulaurier]]'s [[1849]] edition of the Pasai chronicle, [[J. L. A. Brandes|Brandes]]'s *Pararaton* (2nd ed., p. 149 vg.), [[L. C. Westenenk|Westenenk]]'s Minangkabau writings, and [[J. E. Jasper|Jasper]]'s *Padangsche Bovenlanden* (p. 854), shows the textual cross-currents between the Pasai-Malay, Javanese and Minangkabau historical-literary traditions in which the buffalo-fight motif circulated.
 
 ## Significance
-Marre's significance for the encyclopedia of [[Acheh]] history is as the second of the two nineteenth-century French translators of the [[Hikajat Radja-radja Pasei|Pasai chronicle]], and as one of the authorities cited in the comparative study of the buffalo in archipelagic historical-literary tradition. His translation, alongside [[E. Dulaurier]]'s edition, anchored the Pasai material in European scholarship through the period in which the great Dutch ethnographic syntheses of [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] ([[1893]]-94) and [[J. Kreemer|Kreemer]] ([[1922]]-23) were being composed.
+Marre's significance for the encyclopedia of [[Acheh]] history is as the second of the two nineteenth-century French translators of the [[Hikajat Radja-radja Pasei|Pasai chronicle]], and as one of the authorities cited in the comparative study of the buffalo in archipelagic historical-literary tradition. His translation, alongside [[E. Dulaurier]]'s edition, anchored the Pasai material in European scholarship through the period in which the great Dutch ethnographic syntheses of [[C. Snouck Hurgronje|Snouck Hurgronje]] ([[1893]]-94) and [[J. Kreemer|Kreemer]] ([[1922]]-23) were being composed.
 
 
 ## Sources
@@ -21,7 +21,7 @@ Marre's significance for the encyclopedia of [[Acheh]] history is as the second 
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 209, 264.
 
 ## See Also
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[E. Dulaurier]]
 - [[Hikajat Radja-radja Pasei]]
 - [[J. Kreemer]]
@@ -37,7 +37,7 @@ Marre's [[1874]] *Sumatra, Histoire des rois de Pasey* was a free French renderi
 In *De Karbouw* (p. 209, footnote), [[J. Kreemer|Kreemer]] cites Marre's *Histoire des rois de Pasey* at pp. 100 vg. and 125 vg. in a list of authorities for the famous Minangkabau buffalo-fight founding legend — the story that the conflict between Java and Minangkabau was decided by a single combat between a Javanese and a Minangkabau buffalo. The list, which also includes [[E. Dulaurier]]'s [[1849]] edition of the Pasai chronicle, [[J. L. A. Brandes|Brandes]]'s *Pararaton* (2nd ed., p. 149 vg.), [[L. C. Westenenk|Westenenk]]'s Minangkabau writings, and [[J. E. Jasper|Jasper]]'s *Padangsche Bovenlanden* (p. 854), shows the textual cross-currents between the Pasai-Malay, Javanese and Minangkabau historical-literary traditions in which the buffalo-fight motif circulated.
 
 ## Significance
-Marre's significance for the encyclopedia of [[Acheh]] history is as the second of the two nineteenth-century French translators of the [[Hikajat Radja-radja Pasei|Pasai chronicle]], and as one of the authorities cited in the comparative study of the buffalo in archipelagic historical-literary tradition. His translation, alongside [[E. Dulaurier]]'s edition, anchored the Pasai material in European scholarship through the period in which the great Dutch ethnographic syntheses of [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] ([[1893]]-94) and [[J. Kreemer|Kreemer]] ([[1922]]-23) were being composed.
+Marre's significance for the encyclopedia of [[Acheh]] history is as the second of the two nineteenth-century French translators of the [[Hikajat Radja-radja Pasei|Pasai chronicle]], and as one of the authorities cited in the comparative study of the buffalo in archipelagic historical-literary tradition. His translation, alongside [[E. Dulaurier]]'s edition, anchored the Pasai material in European scholarship through the period in which the great Dutch ethnographic syntheses of [[C. Snouck Hurgronje|Snouck Hurgronje]] ([[1893]]-94) and [[J. Kreemer|Kreemer]] ([[1922]]-23) were being composed.
 
 
 ## Sources
@@ -46,7 +46,7 @@ Marre's significance for the encyclopedia of [[Acheh]] history is as the second 
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 209, 264.
 
 ## See Also
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[E. Dulaurier]]
 - [[Hikajat Radja-radja Pasei]]
 - [[J. Kreemer]]

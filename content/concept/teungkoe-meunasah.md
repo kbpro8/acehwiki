@@ -3,7 +3,7 @@ title: Teungkoe meunasah
 aliases: [teungkoe meunasah (Groot-Atjeh)", teungku meunasah", teungku meunasah (Atjeh)", village religious official of Groot-Atjeh"]
 tags: ["achehnese", "concept", "islamic", "office", "slaughter", "village"]
 ---
-The **teungkoe meunasah** (in [[J. Kreemer|Kreemer]]'s spelling; modern Atjehnese *teungku meunasah*) was the village religious official of [[Groot-Atjeh|Groot-Atjeh]] who, alongside the village head [[keutjhiq|*keutjhiq*]], represented public authority in the village and was specifically responsible for the spiritual concerns of the villagers — and who served, in particular, as the village's ritual slaughterer (*slachter*). The office is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 117) and in [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 241) as a central institution of the village religious-and-civil administration of [[Groot-Atjeh|Groot-Atjeh]].
+The **teungkoe meunasah** (in [[J. Kreemer|Kreemer]]'s spelling; modern Atjehnese *teungku meunasah*) was the village religious official of [[Groot-Atjeh|Groot-Atjeh]] who, alongside the village head [[keutjhiq|*keutjhiq*]], represented public authority in the village and was specifically responsible for the spiritual concerns of the villagers — and who served, in particular, as the village's ritual slaughterer (*slachter*). The office is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 117) and in [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 241) as a central institution of the village religious-and-civil administration of [[Groot-Atjeh|Groot-Atjeh]].
 
 ## The office
 The *teungkoe meunasah* is introduced in *De Karbouw* (p. 117) as follows:
@@ -27,7 +27,7 @@ The *teungkoe*'s slaughter-technique is described in *De Karbouw* (p. 118): the 
 
 
 ## Significance
-The *teungkoe meunasah* is significant for the encyclopedia of [[Acheh]] history as the central village religious-and-civil official of [[Groot-Atjeh|Groot-Atjeh]], and as the village's ritual slaughterer — the office through which the Islamic ritual-slaughter complex was integrated with the village social structure. The adat prescriptions on the *teungkoe*'s qualifications and acts document the sympathetic-magical conception of contact-transfer that underlay the Atjehnese ritual-slaughter system, and the fee-system (paid on *maq meugang*, unpaid on *Moloet*, *hakikah* and *kanoeri's*) documents the graded ritual-economy of the Atjehnese slaughter-calendar. The office is documented by [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] in [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] and by [[J. Kreemer|Kreemer]] in [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]] (vol. II, p. 209) and re-cited in [[Kreemer's De Karbouw ([[1956]])|*De Karbouw*]].
+The *teungkoe meunasah* is significant for the encyclopedia of [[Acheh]] history as the central village religious-and-civil official of [[Groot-Atjeh|Groot-Atjeh]], and as the village's ritual slaughterer — the office through which the Islamic ritual-slaughter complex was integrated with the village social structure. The adat prescriptions on the *teungkoe*'s qualifications and acts document the sympathetic-magical conception of contact-transfer that underlay the Atjehnese ritual-slaughter system, and the fee-system (paid on *maq meugang*, unpaid on *Moloet*, *hakikah* and *kanoeri's*) documents the graded ritual-economy of the Atjehnese slaughter-calendar. The office is documented by [[C. Snouck Hurgronje|Snouck Hurgronje]] in [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] and by [[J. Kreemer|Kreemer]] in [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]] (vol. II, p. 209) and re-cited in [[Kreemer's De Karbouw ([[1956]])|*De Karbouw*]].
 
 
 ## Sources
@@ -37,7 +37,7 @@ The *teungkoe meunasah* is significant for the encyclopedia of [[Acheh]] history
 *Atjèh*, by J. Kreemer, vol. II ([[1923]]), p. 209.
 
 ## See Also
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Groot-Atjeh]]
 - [[Kreemer's Atjeh ([[1922]]-23)]]
 - [[Kreemer's De Karbouw ([[1956]])]]

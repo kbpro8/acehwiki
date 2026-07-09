@@ -9,7 +9,7 @@ The founder of the rateb Saman, a mystical devotional school based on rhythmic r
 
 ## Expanded account from *The Achehnese*, Vol. I — Samman
 
-**Samman** — fully **Shaikh Samman** — was the founder of a Sufi *ṭarīqah* (mystic order) who, in Snouck Hurgronje's account in *The Achehnese*, "died at Medina, 1152 Hijrah" (i.e. [[1739]]–[[1740]] of the Christian era). His name is preserved in the **[[Rateb Samman|rateb Samman]]** (Achehnese *rateb sainan*, from the Arabic *ratib Samman*) — the noisy litany that is "especially popular among all native Mohammedans of the old stamp" throughout the [[East Indian Archipelago|Indian Archipelago]], and that constitutes one of the most characteristic public devotions of the Achehnese.
+**Samman** — fully **Shaikh Samman** — was the founder of a Sufi *ṭarīqah* (mystic order) who, in Snouck Hurgronje's account in *The Achehnese*, "died at Medina, 1152 Hijrah" (i.e. [[1739]]–[[1740]] of the Christian era). His name is preserved in the **[[Rateb Saman|rateb Samman]]** (Achehnese *rateb sainan*, from the Arabic *ratib Samman*) — the noisy litany that is "especially popular among all native Mohammedans of the old stamp" throughout the [[East Indian Archipelago|Indian Archipelago]], and that constitutes one of the most characteristic public devotions of the Achehnese.
 
 The order which Shaikh Samman founded spread from [[Medina|Medina]] to the further Muslim lands by the channels of pilgrimage and study, and its *ratib* — a sequence of litanies in praise of Allah — established itself in the popular devotional life of the Malays, Javanese and Achehnese alike. Snouck notes that the litany "is also popular in Java and may be heard almost every week in many Batavian kampongs". Its presence in [[Acheh|Acheh]] is part of the wider penumbra of Meccan and Medinan devotional practice that the Achehnese brought back with them from the pilgrimage, and that so largely shaped the public religious life of the country in the eighteenth and nineteenth centuries.
 
@@ -25,7 +25,7 @@ The social pressure to join in the rateb is considerable. "Any of those present 
 - [[Peutamat daroh]]
 - [[Ramadhan]]
 - [[Rateb Saman]]
-- [[Rateb Samman]]
+- [[Rateb Saman|Rateb Samman]]
 - [[Rateb Samman (Rateb meuse / Kuluhut)]]
 - [[Traweh]]
 
@@ -40,7 +40,7 @@ The founder of the rateb Saman, a mystical devotional school based on rhythmic r
 
 ## Expanded account from *The Achehnese*, Vol. I — Samman
 
-**Samman** — fully **Shaikh Samman** — was the founder of a Sufi *ṭarīqah* (mystic order) who, in Snouck Hurgronje's account in *The Achehnese*, "died at Medina, 1152 Hijrah" (i.e. [[1739]]–[[1740]] of the Christian era). His name is preserved in the **[[Rateb Samman|rateb Samman]]** (Achehnese *rateb sainan*, from the Arabic *ratib Samman*) — the noisy litany that is "especially popular among all native Mohammedans of the old stamp" throughout the [[East Indian Archipelago|Indian Archipelago]], and that constitutes one of the most characteristic public devotions of the Achehnese.
+**Samman** — fully **Shaikh Samman** — was the founder of a Sufi *ṭarīqah* (mystic order) who, in Snouck Hurgronje's account in *The Achehnese*, "died at Medina, 1152 Hijrah" (i.e. [[1739]]–[[1740]] of the Christian era). His name is preserved in the **[[Rateb Saman|rateb Samman]]** (Achehnese *rateb sainan*, from the Arabic *ratib Samman*) — the noisy litany that is "especially popular among all native Mohammedans of the old stamp" throughout the [[East Indian Archipelago|Indian Archipelago]], and that constitutes one of the most characteristic public devotions of the Achehnese.
 
 The order which Shaikh Samman founded spread from [[Medina|Medina]] to the further Muslim lands by the channels of pilgrimage and study, and its *ratib* — a sequence of litanies in praise of Allah — established itself in the popular devotional life of the Malays, Javanese and Achehnese alike. Snouck notes that the litany "is also popular in Java and may be heard almost every week in many Batavian kampongs". Its presence in [[Acheh|Acheh]] is part of the wider penumbra of Meccan and Medinan devotional practice that the Achehnese brought back with them from the pilgrimage, and that so largely shaped the public religious life of the country in the eighteenth and nineteenth centuries.
 
@@ -56,7 +56,7 @@ The social pressure to join in the rateb is considerable. "Any of those present 
 - [[Peutamat daroh]]
 - [[Ramadhan]]
 - [[Rateb Saman]]
-- [[Rateb Samman]]
+- [[Rateb Saman|Rateb Samman]]
 - [[Rateb Samman (Rateb meuse / Kuluhut)]]
 - [[Traweh]]
 

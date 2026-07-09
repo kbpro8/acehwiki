@@ -3,7 +3,7 @@ title: Philippines
 aliases: [Philippines, Filippijnen, Philippine Islands, Philippines Islands, Filipijnen, Islas Filipinas]
 tags: [place, archipelago, spanish-colony, pacific]
 ---
-The **Philippines** (Dutch **Filippijnen**; Spanish *Islas Filipinas*) is the great archipelago of some seven thousand islands lying north of the Moluccas and east of [[Borneo]] and [[Sumatra]], which from the late sixteenth century until [[1898]] formed the chief Spanish colonial possession in the Pacific. In P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819* the Philippines enter only as a single footnote, but in a passage that joins them directly to the central strategic anxieties of the [[Anglo-Dutch Treaty of London (1824)|treaty negotiations of 1824]]: the fear that, should the [[Acheh|Achehnese]] sultans be left to themselves, the [[United States of America|North Americans]] would, sooner or later, "seek to connect themselves with them and obtain a footing for an establishment" — to the great detriment of British navigation in case of war.
+The **Philippines** (Dutch **Filippijnen**; Spanish *Islas Filipinas*) is the great archipelago of some seven thousand islands lying north of the Moluccas and east of [[Borneo]] and [[Sumatra]], which from the late sixteenth century until [[1898]] formed the chief Spanish colonial possession in the Pacific. In P. H. van der Kemp's *Raffles' Atjeh-overeenkomst van 1819* the Philippines enter only as a single footnote, but in a passage that joins them directly to the central strategic anxieties of the [[Anglo-Dutch Treaty of 1824|treaty negotiations of 1824]]: the fear that, should the [[Acheh|Achehnese]] sultans be left to themselves, the [[United States of America|North Americans]] would, sooner or later, "seek to connect themselves with them and obtain a footing for an establishment" — to the great detriment of British navigation in case of war.
 
 ## Baud's warning of 1822
 
@@ -15,16 +15,16 @@ The mention of the Philippines belongs to a context in which the Eastern seas we
 
 ## Connection with the Acheh negotiations
 
-The strategic logic was the same that governed the British concern over [[Acheh]]. If the Americans might take the Philippines, they might also — unless prevented by some European pre-emption — seek a footing on the northern tip of [[Sumatra]], where the sultanate of Acheh commanded the entrance to the [[Straits of Malacca|Strait of Malacca]]. Article 6 of the [[Acheh treaty of 1819]], by excluding from "a fixed habitation or residence" in the sultan's dominions "the subjects of every other European power, and likewise all Americans", was framed precisely to foreclose that possibility. Whether the sultan of Acheh had any real capacity to enforce such an exclusion was, of course, quite another question — and one which, as Van der Kemp shows, reduced the article in practice to a **dead letter**.
+The strategic logic was the same that governed the British concern over [[Acheh]]. If the Americans might take the Philippines, they might also — unless prevented by some European pre-emption — seek a footing on the northern tip of [[Sumatra]], where the sultanate of Acheh commanded the entrance to the [[Straits of Malacca|Strait of Malacca]]. Article 6 of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]], by excluding from "a fixed habitation or residence" in the sultan's dominions "the subjects of every other European power, and likewise all Americans", was framed precisely to foreclose that possibility. Whether the sultan of Acheh had any real capacity to enforce such an exclusion was, of course, quite another question — and one which, as Van der Kemp shows, reduced the article in practice to a **dead letter**.
 
 ## See Also
 
 - [[United States of America]]
 - [[Acheh]]
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Jean Chrétien Baud]]
 - [[Anton Reinhard Falck]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Java]]
 - [[Straits of Malacca]]
 

@@ -3,7 +3,7 @@ title: J. Cohen Stuart
 aliases: ["J. Cohen Stuart", "Captain of the Sea J. Cohen Stuart"]
 tags: [person, government, dutch, colonial]
 ---
-**J. Cohen Stuart** was a **[[captain of the sea|kapitein ter zee]]** and former **[[Minister of Marine|minister van marine]]** who authored the work *De Zeemacht in Nederlandsch‑Indië 1874‑1888* (published by **[[Baee Dirks]]**). Although his treatise contains little on the **[[Dutch Marine Corps|Korps Mariniers]]** in **[[Atjeh]]**, it provides a detailed account of the **[[Indische vloot]]** (Indies fleet) and its operations in the region.  
+**J. Cohen Stuart** was a **[[captain of the sea|kapitein ter zee]]** and former **[[Minister of Marine|minister van marine]]** who authored the work *De Zeemacht in Nederlandsch‑Indië 1874‑1888* (published by **[[Baee Dirks]]**). Although his treatise contains little on the **[[Royal Netherlands Marine Corps|Korps Mariniers]]** in **[[Atjeh]]**, it provides a detailed account of the **[[Indische vloot]]** (Indies fleet) and its operations in the region.  
 
 ## Publication  
 
@@ -11,7 +11,7 @@ tags: [person, government, dutch, colonial]
 
 ## See Also  
 
-- [[Dutch Marine Corps]]  
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]  
 - [[Indische vloot]]  
 - [[Atjeh]]  
 

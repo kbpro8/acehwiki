@@ -24,7 +24,7 @@ The 1870s saw intensified Dutch operations in Aceh. A notable marine report by [
 
 ## Role in the Aceh War
 
-Aceh was the last major independent Malay polity to fall under Dutch control. The war involved protracted guerrilla resistance, extensive use of the [[Royal Netherlands Marine Corps]] and the [[Royal Netherlands Navy]], and significant amphibious landings by the [[Dutch Marine Corps]]. The conflict, characterised by fierce Acehnese resistance and harsh Dutch counter‑insurgency tactics, lasted until [[1904]], after which Aceh was formally integrated into the [[Dutch East Indies]].
+Aceh was the last major independent Malay polity to fall under Dutch control. The war involved protracted guerrilla resistance, extensive use of the [[Royal Netherlands Marine Corps]] and the [[Dutch Navy|Royal Netherlands Navy]], and significant amphibious landings by the [[Royal Netherlands Marine Corps|Dutch Marine Corps]]. The conflict, characterised by fierce Acehnese resistance and harsh Dutch counter‑insurgency tactics, lasted until [[1904]], after which Aceh was formally integrated into the [[Dutch East Indies]].
 
 ## Colonial Integration
 
@@ -37,7 +37,7 @@ Aceh’s prolonged resistance became a potent symbol of anti‑colonial struggle
 ## See Also
 
 - [[Dutch East Indies]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Royal Netherlands East Indies Army|KNIL]]
 - [[Aceh War]]
 - [[Sumatra]]
@@ -48,7 +48,7 @@ Aceh’s prolonged resistance became a potent symbol of anti‑colonial struggle
 - [[British Empire]]
 - [[Borneo]]
 - [[Royal Netherlands Marine Corps]]
-- [[Royal Netherlands Navy]]
+- [[Dutch Navy|Royal Netherlands Navy]]
 - [[Marine operations on Sumatra 1874–1876]]
 - [[Aceh Expedition 1875–1876]]
 

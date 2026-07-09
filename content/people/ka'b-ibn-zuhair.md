@@ -12,7 +12,7 @@ The *Bānat Sūcād* was incorporated into Acehnese *kasida* repertoires and o
 - **Performance tradition** – The poem’s opening verses are sometimes quoted by Acehnese *bakāsidah* as an introductory *nasīb* before proceeding to locally composed verses.
 
 ## See Also
-- [[Al‑Burda (poem)]]
+- [[Burda (poem)|Al‑Burda (poem)]]
 - [[Kasida (Acehnese poetic form)]]
 - [[Mawlid in Aceh]]
 - [[dikië jadjandji (dhikr Barzandji)]]

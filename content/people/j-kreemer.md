@@ -38,7 +38,7 @@ Kreemer’s principal scholarly monument is the two‑volume general survey *Atj
 
 ## *De Karbouw* (1956)
 
-Kreemer’s late synthesis *De Karbouw: Zijn betekenis voor de volken van de Indonesische Archipel* was published in [[1956]] by N.V. Uitgeverij W. van Hoeve in ’s‑Gravenhage and Bandung. In the *Voorbericht* (dated ’s‑Gravenhage, October [[1955]]), Kreemer explains that he undertook the book to fill a gap in the ethnographic literature: the buffalo, “the pre‑eminently useful domestic animal for the life of the peoples of the Archipelago,” had never received a monographic treatment, although scholars such as [[Christiaan Snouck Hurgronje|Snouck Hurgronje]], Kleiweg de Zwaan and others had written on related animals (the dog, the cat) and Merkens’s veterinary dissertation on the buffalo had not addressed its place in popular life and belief. Kreemer therefore returned, after half a century, to the same subject with which he had begun his scholarly career, but now on the scale of the entire Indonesian archipelago rather than a single under‑district. He notes with quiet wryness that “what is described in this book belongs to an outlived order (*een overleefd tijdsbestel*)” — much had changed since the pre‑war sources on which he largely drew, but much also remained the same.
+Kreemer’s late synthesis *De Karbouw: Zijn betekenis voor de volken van de Indonesische Archipel* was published in [[1956]] by N.V. Uitgeverij W. van Hoeve in ’s‑Gravenhage and Bandung. In the *Voorbericht* (dated ’s‑Gravenhage, October [[1955]]), Kreemer explains that he undertook the book to fill a gap in the ethnographic literature: the buffalo, “the pre‑eminently useful domestic animal for the life of the peoples of the Archipelago,” had never received a monographic treatment, although scholars such as [[C. Snouck Hurgronje|Snouck Hurgronje]], Kleiweg de Zwaan and others had written on related animals (the dog, the cat) and Merkens’s veterinary dissertation on the buffalo had not addressed its place in popular life and belief. Kreemer therefore returned, after half a century, to the same subject with which he had begun his scholarly career, but now on the scale of the entire Indonesian archipelago rather than a single under‑district. He notes with quiet wryness that “what is described in this book belongs to an outlived order (*een overleefd tijdsbestel*)” — much had changed since the pre‑war sources on which he largely drew, but much also remained the same.
 
 ## Manuscript Survey
 
@@ -46,7 +46,7 @@ Beyond his ethnographic monographs, Kreemer contributed a brief but noteworthy n
 
 ## Method and tone
 
-Kreemer writes in a measured, comparative, late‑nineteenth‑century ethnographic idiom: he ranges across the archipelago, marshals his citations (to [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]’s [[Snouck Hurgronje's De Atjehers (1893‑94)|*De Atjehers*]], to [[G. A. J. Hazeu|Hazeu]]’s Gayo dictionary, to [[Hoesein Djajadiningrat|Djajadiningrat]]’s Atjehsch dictionary, to his own earlier writings), and is generally content to let the comparative material speak for itself rather than to impose a theoretical apparatus. He is, however, attentive to the explanatory glosses offered by his sources — recording, for instance, Snouck Hurgronje’s cautionary note that the present‑day obedience to a *pantang* food‑prohibition rests not on totemistic conviction but on fear of ancestral wrath — and he occasionally allows himself a quietly critical aside, as when he rejects [[W. W. Skeat|Skeat]]’s folk‑etymology of *baris-Laksamana* as “Admiral’s Line” in favour of the [[Ramayana]] reference to Laksamana’s protective circle around Sita.
+Kreemer writes in a measured, comparative, late‑nineteenth‑century ethnographic idiom: he ranges across the archipelago, marshals his citations (to [[C. Snouck Hurgronje|Snouck Hurgronje]]’s [[Snouck Hurgronje's De Atjehers (1893‑94)|*De Atjehers*]], to [[G. A. J. Hazeu|Hazeu]]’s Gayo dictionary, to [[Hoesein Djajadiningrat|Djajadiningrat]]’s Atjehsch dictionary, to his own earlier writings), and is generally content to let the comparative material speak for itself rather than to impose a theoretical apparatus. He is, however, attentive to the explanatory glosses offered by his sources — recording, for instance, Snouck Hurgronje’s cautionary note that the present‑day obedience to a *pantang* food‑prohibition rests not on totemistic conviction but on fear of ancestral wrath — and he occasionally allows himself a quietly critical aside, as when he rejects [[W. W. Skeat|Skeat]]’s folk‑etymology of *baris-Laksamana* as “Admiral’s Line” in favour of the [[Ramayana]] reference to Laksamana’s protective circle around Sita.
 
 ## Significance
 
@@ -63,7 +63,7 @@ The judgment, however, concerns specifically the *adatrecht* content of Kreemer�
 - [[Alasland]]
 - [[Atjeh en Onderhorigheden]]
 - [[Burda (poem)]]
-- [[Christiaan Snouck Hurgronje]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[G. A. J. Hazeu]]
 - [[Gajo-weg]]
 - [[Gajoland]]

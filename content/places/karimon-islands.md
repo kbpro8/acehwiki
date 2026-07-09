@@ -15,7 +15,7 @@ Raffles found Farquhar's invitation of such importance that he at once abandoned
 
 ## In the treaty of 1824
 
-The Karimons reappear at the close of the [[Anglo-Dutch Treaty of London (1824)|treaty of London of 1824]]. Article 12 of the treaty, after providing that the Netherlands should withdraw from [[Singapore]], continues (as Van der Kemp quotes it): "Daarentegen belooft Zijne Groot-Brittannische Majesteit, dat geen Britsch kantoor zal worden opgerigt op de Carimons-eilanden, of op de eilanden Battam, Bintang, Lingen of op eenig der andere eilanden, liggende ten zuiden van Sinkapoer". That is, Britain pledged to establish no office on the Karimons or on [[Batam]], [[Bintan]], [[Lingga]] or any of the other islands south of Singapore, nor to contract treaties with their chiefs. The Karimons thus take their place, alongside [[Singapore]] itself, among the islands which the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]] divided between the two spheres — though Van der Kemp observes that the same treaty contained, in its Article 6, the provision against new offices whose later construction would be turned against the Dutch themselves on [[Sumatra]].
+The Karimons reappear at the close of the [[Anglo-Dutch Treaty of 1824|treaty of London of 1824]]. Article 12 of the treaty, after providing that the Netherlands should withdraw from [[Singapore]], continues (as Van der Kemp quotes it): "Daarentegen belooft Zijne Groot-Brittannische Majesteit, dat geen Britsch kantoor zal worden opgerigt op de Carimons-eilanden, of op de eilanden Battam, Bintang, Lingen of op eenig der andere eilanden, liggende ten zuiden van Sinkapoer". That is, Britain pledged to establish no office on the Karimons or on [[Batam]], [[Bintan]], [[Lingga]] or any of the other islands south of Singapore, nor to contract treaties with their chiefs. The Karimons thus take their place, alongside [[Singapore]] itself, among the islands which the [[Anglo-Dutch Treaty of 1824|treaty of 1824]] divided between the two spheres — though Van der Kemp observes that the same treaty contained, in its Article 6, the provision against new offices whose later construction would be turned against the Dutch themselves on [[Sumatra]].
 
 ## Place in the wider argument
 
@@ -40,7 +40,7 @@ The Karimons episode is treated by Van der Kemp as the practical proof of two pr
 - [[Riouw]]
 - [[Batam]]
 - [[Bintan]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 
 ## Source
 

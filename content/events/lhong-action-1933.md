@@ -11,7 +11,7 @@ Lhóng lies in the wild mountain country where the [[Barisan|Barisan]] range "re
 
 ## Aftermath
 
-The rising's suppression inaugurated two decades of peace in Lhóng. The new *oelèëbalang*, [[Teukoe Radja Djoema'at|Teukoe Radja Djoema'at]], was confirmed as an "energetic forty-year-old" who would later be among the eight Great-Atjèhnese chiefs arrested by [[Colonel Gosenson|Colonel Gosenson]] on [[11 March]] [[1942]] in the celebrated "coup d'état" — a measure aimed at the very leadership class which had been restored to authority by the settlement of 1933. The action's most lasting institutional legacy was the disbandment of garrisons across the West Coast during the German-war years: "Lam NO (subdistrict Tjalang), Lam Ië (subdistrict Meulabóh)" and Lam Soedjèn were all withdrawn in the accelerated reduction of the garrison network after [[1939]].
+The rising's suppression inaugurated two decades of peace in Lhóng. The new *oelèëbalang*, [[Teukoe Radja Djoema'at|Teukoe Radja Djoema'at]], was confirmed as an "energetic forty-year-old" who would later be among the eight Great-Atjèhnese chiefs arrested by [[G. F. V. Gosenson|G. F. V. Gosenson]] on [[11 March]] [[1942]] in the celebrated "coup d'état" — a measure aimed at the very leadership class which had been restored to authority by the settlement of 1933. The action's most lasting institutional legacy was the disbandment of garrisons across the West Coast during the German-war years: "Lam NO (subdistrict Tjalang), Lam Ië (subdistrict Meulabóh)" and Lam Soedjèn were all withdrawn in the accelerated reduction of the garrison network after [[1939]].
 
 ## Significance
 
@@ -26,7 +26,7 @@ The Lhóng action closed the cycle of armed resistance which had run intermitten
 - [[Lam Nó]]
 - [[Lam Soedjèn]]
 - [[Teukoe Radja Djoema'at]]
-- [[Colonel Gosenson]]
+- [[G. F. V. Gosenson|Colonel Gosenson]]
 - [[1933]]
 
 ## Source

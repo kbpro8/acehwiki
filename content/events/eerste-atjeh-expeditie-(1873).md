@@ -24,7 +24,7 @@ The [[Tweede Atjeh-expeditie (1873-1874)|Tweede Atjeh-expeditie]] — which bega
 
 ## The forty-five-year war
 
-The [[Atjeh-oorlog|Aceh War]] that opened with the Eerste Atjeh-expeditie of [[April 1873|April]] [[1873]] would last forty-five years — from [[1873]] to the [[Handover of Aceh to a civil Gouverneur (1918)|handover of 1918]] — and would be the principal theatre of the [[K.N.I.L.]] for the next half-century. The war would be pronounced over several times before it actually was; it would be the subject of political controversy in the Netherlands; it would make the reputation of [[Gouverneur-Generaal Van Heutsz|Van Heutsz]].
+The [[Atjeh-oorlog|Aceh War]] that opened with the Eerste Atjeh-expeditie of [[April 1873|April]] [[1873]] would last forty-five years — from [[1873]] to the [[Handover of Aceh to a civil Gouverneur (1918)|handover of 1918]] — and would be the principal theatre of the [[K.N.I.L.]] for the next half-century. The war would be pronounced over several times before it actually was; it would be the subject of political controversy in the Netherlands; it would make the reputation of [[Joannes Benedictus van Heutsz|Van Heutsz]].
 
 ## Account from *De Buitenbezittingen* (1917) — Logistical consequences
 
@@ -45,7 +45,7 @@ The Eerste Atjeh-expeditie is significant in both *[[Oom Ambon van het K.N.I.L.]
 - [[generaal Van Swieten]]
 - [[Koeta-Radja]]
 - [[Sultan Iskandar Muda]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Handover of Aceh to a civil Gouverneur (1918)]]
 - [[Oost-Indisch Journael]]
 - [[Atjeh-tram]]
@@ -70,7 +70,7 @@ The Eerste Atjeh-expeditie is significant in both *[[Oom Ambon van het K.N.I.L.]
 - [[Terwogt's account of the Atjeh-oorlog (1891)]]
 - [[Nieuwenhuizen]]
 - [[J. H. R. Köhler]]
-- [[Van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 
 ## Sources
 

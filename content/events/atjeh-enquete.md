@@ -3,7 +3,7 @@ title: Atjéh-enquête
 aliases: [Aceh inquiry, Atjeh enquete, 1907 Aceh investigation, Van Heutsz's Aceh investigation]
 tags: [event, colonial, investigation, achehnese]
 ---
-The **Atjéh-enquête** was the formal investigation conducted by Governor-General [[J. B. van Heutsz|J. B. van Heutsz]] in [[November]]–[[December]] [[1907]] into the civil and military administration of the governor of [[Acheh|Atjèh]], [[G. C. E. van Daalen|G. C. E. van Daalen]]. Prompted by mounting press allegations — the [[Wekker articles|"Wekker" articles]] in *[[De Avondpost]]* — parliamentary criticism, and private complaints about Van Daalen's harsh rule, the inquiry led to Van Daalen's removal and a major political crisis for Van Heutsz's governorship. Its findings confirmed what advisers including [[Snouck Hurgronje]] and [[H. Colijn]] had warned in [[1904]]: that Van Daalen had "misunderstood the fundamental principle" of pacification, and that his methods had alienated the very chiefs on whose cooperation Dutch authority depended.
+The **Atjéh-enquête** was the formal investigation conducted by Governor-General [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] in [[November]]–[[December]] [[1907]] into the civil and military administration of the governor of [[Acheh|Atjèh]], [[Gotfried Coenraad Ernst van Daalen|Gotfried Coenraad Ernst van Daalen]]. Prompted by mounting press allegations — the [[Wekker articles|"Wekker" articles]] in *[[De Avondpost]]* — parliamentary criticism, and private complaints about Van Daalen's harsh rule, the inquiry led to Van Daalen's removal and a major political crisis for Van Heutsz's governorship. Its findings confirmed what advisers including [[C. Snouck Hurgronje|Snouck Hurgronje]] and [[Hendrikus Colijn|H. Colijn]] had warned in [[1904]]: that Van Daalen had "misunderstood the fundamental principle" of pacification, and that his methods had alienated the very chiefs on whose cooperation Dutch authority depended.
 
 ## Background
 
@@ -42,11 +42,11 @@ The Atjéh-enquête was a turning point in the [[Aceh War]]'s pacification phase
 
 ## See Also
 
-- [[G. C. E. van Daalen]]
-- [[J. B. van Heutsz]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[H. N. A. Swart]]
-- [[Snouck Hurgronje]]
-- [[H. Colijn]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
+- [[Hendrikus Colijn|H. Colijn]]
 - [[Wekker articles]]
 - [[Rost van Tonningen]]
 - [[D. F. W. van Rees]]

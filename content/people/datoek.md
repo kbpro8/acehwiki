@@ -5,17 +5,17 @@ aliases: [Datoek the hunter, Datoek Radja Boejoeng, Boejoeng titled Datoek Radja
 tags: [person, hunter, acehnese, aceh, colonial]
 ---
 
-**Datoek** — Datoek the hunter, the Nimrod of Blang-Rakal — is an Acehnese hunter of [[Blang Rakal]] on the [[Gajoweg]] in [[Atjeh|Aceh]], the figure through whom the lieutenant of *[[Oost-Indisch Journael]]* ([[1947]]) tells the story of his expedition through Aceh and his interview with the old hunter. Datoek's full name is Boejoeng, titled Datoek Radja Soetan. He was a *sobat kras* (heavy friend) with the great patrol commanders of the *prang* (the [[Atjeh-oorlog|Aceh War]]) — *Toean Kristoppel* (the later [[Christoffel]]), *Toean Djenderal* [[Gouverneur-Generaal Van Heutsz|Van Heutsz]], [[Overste Scheepens|Toean Scheepens]], [[Darlang|Toean Darlang]], *Toean Boreel*, and *Toean Gouverneur* [[Generaal Swart|Swart]] — and in eighteen years he had shot 331 tigers and 18 elephants. He is the book's portrait of the Acehnese *pawang* (the magical knower of the forest and the animals) and of the Acehnese who had served the colonial army as a hunter and a guide.
+**Datoek** — Datoek the hunter, the Nimrod of Blang-Rakal — is an Acehnese hunter of [[Blang Rakal]] on the [[Gajoweg]] in [[Atjeh|Aceh]], the figure through whom the lieutenant of *[[Oost-Indisch Journael]]* ([[1947]]) tells the story of his expedition through Aceh and his interview with the old hunter. Datoek's full name is Boejoeng, titled Datoek Radja Soetan. He was a *sobat kras* (heavy friend) with the great patrol commanders of the *prang* (the [[Atjeh-oorlog|Aceh War]]) — *Toean Kristoppel* (the later [[Christoffel]]), *Toean Djenderal* [[Joannes Benedictus van Heutsz|Van Heutsz]], [[Overste Scheepens|Toean Scheepens]], [[Darlang|Toean Darlang]], *Toean Boreel*, and *Toean Gouverneur* [[H. N. A. Swart|Swart]] — and in eighteen years he had shot 331 tigers and 18 elephants. He is the book's portrait of the Acehnese *pawang* (the magical knower of the forest and the animals) and of the Acehnese who had served the colonial army as a hunter and a guide.
 
 ## The name and the sobat kras
 
 "Datoek's name is actually Boejoeng, titled Datoek Radja Soetan." His full name — Boejoeng, titled Datoek Radja Soetan — is the book's first marker that Datoek is an Acehnese of standing: the title Datoek Radja Soetan is an Acehnese noble title. He "came to Blang Rakal in 1890" — that is, he arrived at Blang Rakal in the middle of the [[Atjeh-oorlog|Aceh War]] — "and around 1917 I settled permanently." The lieutenant's informant also reports that "Teukoe Oemar fell long before, in Aceh" — placing Datoek's arrival in the generation of the great Acehnese resistance.
 
-"I was a 'heavy friend' with Toean Kristoppel, and Toean General Van Heutsz, and Toean Scheepens, and Toean Darlang, and Toean Boreel, and Toean Governor Swart." Datoek's list of his *sobat kras* — his heavy friends — among the great patrol commanders and governors of the [[Atjeh-oorlog|Aceh War]] is the book's most concentrated catalogue of the colonial army's Aceh leadership. *Toean Kristoppel* is the later [[Christoffel]] (in Datoek's time still a corporal); *Toean Djenderal Van Heutsz* is [[Gouverneur-Generaal Van Heutsz|Van Heutsz]]; *Toean Scheepens* is [[Overste Scheepens|Scheepens]]; *Toean Darlang* is [[Darlang]]; *Toean Boreel* is Boreel; *Toean Gouverneur Swart* is [[Generaal Swart|Swart]]. "Very many, and all very brave."
+"I was a 'heavy friend' with Toean Kristoppel, and Toean General Van Heutsz, and Toean Scheepens, and Toean Darlang, and Toean Boreel, and Toean Governor Swart." Datoek's list of his *sobat kras* — his heavy friends — among the great patrol commanders and governors of the [[Atjeh-oorlog|Aceh War]] is the book's most concentrated catalogue of the colonial army's Aceh leadership. *Toean Kristoppel* is the later [[Christoffel]] (in Datoek's time still a corporal); *Toean Djenderal Van Heutsz* is [[Joannes Benedictus van Heutsz|Van Heutsz]]; *Toean Scheepens* is [[Overste Scheepens|Scheepens]]; *Toean Darlang* is [[Darlang]]; *Toean Boreel* is Boreel; *Toean Gouverneur Swart* is [[H. N. A. Swart|Swart]]. "Very many, and all very brave."
 
 ## Van Daalen and the value of a human life
 
-"Toean General Van Daalen I know very well. That was a very great lord, 'a man whose human life had no value!'" Datoek knew [[Van Daalen|Toean General Van Daalen]] very well. That was a very great lord, "a man whose human life had no value." The phrase — *orang poenja djiwa tida ada harga* — is Datoek's judgement on Van Daalen: a man for whom a human life had no value. The judgement is the book's — and Datoek's — register of the [[Colonne van Daalen 1904|colonne van Daalen]] reputation: the column that had been conducted without mercy.
+"Toean General Van Daalen I know very well. That was a very great lord, 'a man whose human life had no value!'" Datoek knew [[Gotfried Coenraad Ernst van Daalen|Toean General Van Daalen]] very well. That was a very great lord, "a man whose human life had no value." The phrase — *orang poenja djiwa tida ada harga* — is Datoek's judgement on Van Daalen: a man for whom a human life had no value. The judgement is the book's — and Datoek's — register of the [[Colonne van Daalen 1904|colonne van Daalen]] reputation: the column that had been conducted without mercy.
 
 But Datoek immediately qualifies: "But, sir, that Toean Van Daalen was not without tenderness where animals were concerned." He could get angry when he saw Acehnese going to the market carrying chickens by the legs, with the head down. The detail is the book's small humanising of Van Daalen: the column commander who had no mercy for human life had mercy for chickens.
 
@@ -31,7 +31,7 @@ But Datoek immediately qualifies: "But, sir, that Toean Van Daalen was not witho
 
 Datoek's other set-piece is the *orang pendek* (short man) — the "short man" of the Acehnese forests. "Indeed, sir," Datoek answered. The *orang pendek* — called *koekoeman* in Datoek's region — "is about a metre high and has not the long arms of the ape. He is also not as heavily haired as an ape. He sometimes steals the buffalo milk and the rice that the forest-product seekers leave in their huts." Datoek claims to have seen the *koekoeman* from behind, with these eyes, at half past noon, at a distance of only twenty metres. "I cannot have mistaken it for an orangutan or a bear. This was a human being."
 
-The landraad chairman — interrupting — cites [[Snouck Hurgronje]]'s *De Atjehers* on the *manté's* — the inlanders of the mountains of the XXII Mukims who "would wear no clothing and be thickly haired over the whole body" — and Snouck Hurgronje's remark that "these beings always lived one day's journey further inland than the researcher who wished to see them."
+The landraad chairman — interrupting — cites [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *De Atjehers* on the *manté's* — the inlanders of the mountains of the XXII Mukims who "would wear no clothing and be thickly haired over the whole body" — and Snouck Hurgronje's remark that "these beings always lived one day's journey further inland than the researcher who wished to see them."
 
 ## The ilmoe of the forest
 
@@ -52,11 +52,11 @@ Datoek is significant in *[[Oost-Indisch Journael]]* as the book's portrait of t
 - [[Gajoweg]]
 - [[Takengeun]]
 - [[Christoffel]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Overste Scheepens]]
 - [[Darlang]]
-- [[Generaal Swart]]
-- [[Van Daalen]]
+- [[H. N. A. Swart|Generaal Swart]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [Heinzenknecht](/people/heinzenknecht)
 - [Orang pendek / koekoeman](/concept/orang-pendek)
 - [Manté's](/concept/mante-s)
@@ -73,17 +73,17 @@ Datoek is significant in *[[Oost-Indisch Journael]]* as the book's portrait of t
 ---
 
 
-**Datoek** — Datoek the hunter, the Nimrod of Blang-Rakal — is an Acehnese hunter of [[Blang Rakal]] on the [[Gajoweg]] in [[Atjeh|Aceh]], the figure through whom the lieutenant of *[[Oost-Indisch Journael]]* ([[1947]]) tells the story of his expedition through Aceh and his interview with the old hunter. Datoek's full name is Boejoeng, titled Datoek Radja Soetan. He was a *sobat kras* (heavy friend) with the great patrol commanders of the *prang* (the [[Atjeh-oorlog|Aceh War]]) — *Toean Kristoppel* (the later [[Christoffel]]), *Toean Djenderal* [[Gouverneur-Generaal Van Heutsz|Van Heutsz]], [[Overste Scheepens|Toean Scheepens]], [[Darlang|Toean Darlang]], *Toean Boreel*, and *Toean Gouverneur* [[Generaal Swart|Swart]] — and in eighteen years he had shot 331 tigers and 18 elephants. He is the book's portrait of the Acehnese *pawang* (the magical knower of the forest and the animals) and of the Acehnese who had served the colonial army as a hunter and a guide.
+**Datoek** — Datoek the hunter, the Nimrod of Blang-Rakal — is an Acehnese hunter of [[Blang Rakal]] on the [[Gajoweg]] in [[Atjeh|Aceh]], the figure through whom the lieutenant of *[[Oost-Indisch Journael]]* ([[1947]]) tells the story of his expedition through Aceh and his interview with the old hunter. Datoek's full name is Boejoeng, titled Datoek Radja Soetan. He was a *sobat kras* (heavy friend) with the great patrol commanders of the *prang* (the [[Atjeh-oorlog|Aceh War]]) — *Toean Kristoppel* (the later [[Christoffel]]), *Toean Djenderal* [[Joannes Benedictus van Heutsz|Van Heutsz]], [[Overste Scheepens|Toean Scheepens]], [[Darlang|Toean Darlang]], *Toean Boreel*, and *Toean Gouverneur* [[H. N. A. Swart|Swart]] — and in eighteen years he had shot 331 tigers and 18 elephants. He is the book's portrait of the Acehnese *pawang* (the magical knower of the forest and the animals) and of the Acehnese who had served the colonial army as a hunter and a guide.
 
 ## The name and the sobat kras
 
 "Datoek's name is actually Boejoeng, titled Datoek Radja Soetan." His full name — Boejoeng, titled Datoek Radja Soetan — is the book's first marker that Datoek is an Acehnese of standing: the title Datoek Radja Soetan is an Acehnese noble title. He "came to Blang Rakal in 1890" — that is, he arrived at Blang Rakal in the middle of the [[Atjeh-oorlog|Aceh War]] — "and around 1917 I settled permanently." The lieutenant's informant also reports that "Teukoe Oemar fell long before, in Aceh" — placing Datoek's arrival in the generation of the great Acehnese resistance.
 
-"I was a 'heavy friend' with Toean Kristoppel, and Toean General Van Heutsz, and Toean Scheepens, and Toean Darlang, and Toean Boreel, and Toean Governor Swart." Datoek's list of his *sobat kras* — his heavy friends — among the great patrol commanders and governors of the [[Atjeh-oorlog|Aceh War]] is the book's most concentrated catalogue of the colonial army's Aceh leadership. *Toean Kristoppel* is the later [[Christoffel]] (in Datoek's time still a corporal); *Toean Djenderal Van Heutsz* is [[Gouverneur-Generaal Van Heutsz|Van Heutsz]]; *Toean Scheepens* is [[Overste Scheepens|Scheepens]]; *Toean Darlang* is [[Darlang]]; *Toean Boreel* is Boreel; *Toean Gouverneur Swart* is [[Generaal Swart|Swart]]. "Very many, and all very brave."
+"I was a 'heavy friend' with Toean Kristoppel, and Toean General Van Heutsz, and Toean Scheepens, and Toean Darlang, and Toean Boreel, and Toean Governor Swart." Datoek's list of his *sobat kras* — his heavy friends — among the great patrol commanders and governors of the [[Atjeh-oorlog|Aceh War]] is the book's most concentrated catalogue of the colonial army's Aceh leadership. *Toean Kristoppel* is the later [[Christoffel]] (in Datoek's time still a corporal); *Toean Djenderal Van Heutsz* is [[Joannes Benedictus van Heutsz|Van Heutsz]]; *Toean Scheepens* is [[Overste Scheepens|Scheepens]]; *Toean Darlang* is [[Darlang]]; *Toean Boreel* is Boreel; *Toean Gouverneur Swart* is [[H. N. A. Swart|Swart]]. "Very many, and all very brave."
 
 ## Van Daalen and the value of a human life
 
-"Toean General Van Daalen I know very well. That was a very great lord, 'a man whose human life had no value!'" Datoek knew [[Van Daalen|Toean General Van Daalen]] very well. That was a very great lord, "a man whose human life had no value." The phrase — *orang poenja djiwa tida ada harga* — is Datoek's judgement on Van Daalen: a man for whom a human life had no value. The judgement is the book's — and Datoek's — register of the [[Colonne van Daalen 1904|colonne van Daalen]] reputation: the column that had been conducted without mercy.
+"Toean General Van Daalen I know very well. That was a very great lord, 'a man whose human life had no value!'" Datoek knew [[Gotfried Coenraad Ernst van Daalen|Toean General Van Daalen]] very well. That was a very great lord, "a man whose human life had no value." The phrase — *orang poenja djiwa tida ada harga* — is Datoek's judgement on Van Daalen: a man for whom a human life had no value. The judgement is the book's — and Datoek's — register of the [[Colonne van Daalen 1904|colonne van Daalen]] reputation: the column that had been conducted without mercy.
 
 But Datoek immediately qualifies: "But, sir, that Toean Van Daalen was not without tenderness where animals were concerned." He could get angry when he saw Acehnese going to the market carrying chickens by the legs, with the head down. The detail is the book's small humanising of Van Daalen: the column commander who had no mercy for human life had mercy for chickens.
 
@@ -99,7 +99,7 @@ But Datoek immediately qualifies: "But, sir, that Toean Van Daalen was not witho
 
 Datoek's other set-piece is the *orang pendek* (short man) — the "short man" of the Acehnese forests. "Indeed, sir," Datoek answered. The *orang pendek* — called *koekoeman* in Datoek's region — "is about a metre high and has not the long arms of the ape. He is also not as heavily haired as an ape. He sometimes steals the buffalo milk and the rice that the forest-product seekers leave in their huts." Datoek claims to have seen the *koekoeman* from behind, with these eyes, at half past noon, at a distance of only twenty metres. "I cannot have mistaken it for an orangutan or a bear. This was a human being."
 
-The landraad chairman — interrupting — cites [[Snouck Hurgronje]]'s *De Atjehers* on the *manté's* — the inlanders of the mountains of the XXII Mukims who "would wear no clothing and be thickly haired over the whole body" — and Snouck Hurgronje's remark that "these beings always lived one day's journey further inland than the researcher who wished to see them."
+The landraad chairman — interrupting — cites [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *De Atjehers* on the *manté's* — the inlanders of the mountains of the XXII Mukims who "would wear no clothing and be thickly haired over the whole body" — and Snouck Hurgronje's remark that "these beings always lived one day's journey further inland than the researcher who wished to see them."
 
 ## The ilmoe of the forest
 
@@ -120,11 +120,11 @@ Datoek is significant in *[[Oost-Indisch Journael]]* as the book's portrait of t
 - [[Gajoweg]]
 - [[Takengeun]]
 - [[Christoffel]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Overste Scheepens]]
 - [[Darlang]]
-- [[Generaal Swart]]
-- [[Van Daalen]]
+- [[H. N. A. Swart|Generaal Swart]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [Heinzenknecht](/people/heinzenknecht)
 - [Orang pendek / koekoeman](/concept/orang-pendek)
 - [Manté's](/concept/mante-s)

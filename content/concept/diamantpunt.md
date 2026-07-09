@@ -25,7 +25,7 @@ Diamantpunt is, in the Bureau's Sumatra survey, the orographic and hydrographica
 - [[Kroeëng]]
 - [[Kroeëng Keureutë]]
 - [[Peusanganrivier]]
-- [[Laoet Tawar]]
+- [[Laut Tawar|Laoet Tawar]]
 - [[Takengon]]
 - [[Ketol]]
 - [[1917]]

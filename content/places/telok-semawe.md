@@ -19,7 +19,7 @@ The Dutch government, on learning of the affair, instructed the Governor of Mala
 
 ## After Syf
 
-Telok Semawé remained a place of resort for the disaffected of Acheh. After his submission to the Raffles–Coombs commission, Syf had in fact briefly joined [[Panglima Polim]] at the capital against Jauhar, then fled in early [[1820]] to [[Calcutta]] on a captured junk, where he was eventually pensioned and returned to [[Penang]] (the [[Syf's pension at Penang]]). The place nevertheless continued to be cited in Dutch and British dispatches as a watchpoint on the East Coast, and appears in the [[Treaty of Pedir (1819)|treaty]] itself: Article 5 guaranteed to British ships "their commercial intercourse with the ports of Acheen and Teluksamoy", subject only to a temporary blockade by mutual consent.
+Telok Semawé remained a place of resort for the disaffected of Acheh. After his submission to the Raffles–Coombs commission, Syf had in fact briefly joined [[Panglima Polem|Panglima Polim]] at the capital against Jauhar, then fled in early [[1820]] to [[Calcutta]] on a captured junk, where he was eventually pensioned and returned to [[Penang]] (the [[Syf's pension at Penang]]). The place nevertheless continued to be cited in Dutch and British dispatches as a watchpoint on the East Coast, and appears in the [[Treaty of Pedir (1819)|treaty]] itself: Article 5 guaranteed to British ships "their commercial intercourse with the ports of Acheen and Teluksamoy", subject only to a temporary blockade by mutual consent.
 
 ## Telok Semawe in the Aceh War (1874-1881)
 

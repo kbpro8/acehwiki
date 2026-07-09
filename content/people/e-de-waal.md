@@ -5,11 +5,11 @@ aliases: [De Waal, Engelbert de Waal]
 tags: [person, dutch-official, colonial-administrator, scholar]
 ---
 
-**E. de Waal** was a Dutch colonial administrator and man of letters, the author of the multi-volume *Onze Indische Financiën* ("Our Indian Finances") and of *Nederlandsch-Indië in de Staten-Generaal*, who is cited repeatedly by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Acheh treaty of 1819|Raffles–Coombs convention]] and its long aftermath. De Waal's writings furnish Van der Kemp with one of his principal interpretive lenses for the Acheh question and the connected Sumatra-tractaat of [[1871]].
+**E. de Waal** was a Dutch colonial administrator and man of letters, the author of the multi-volume *Onze Indische Financiën* ("Our Indian Finances") and of *Nederlandsch-Indië in de Staten-Generaal*, who is cited repeatedly by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] and its long aftermath. De Waal's writings furnish Van der Kemp with one of his principal interpretive lenses for the Acheh question and the connected Sumatra-tractaat of [[1871]].
 
 ## Author of *Onze Indische Financiën*
 
-De Waal's *Onze Indische Financiën*, of which the sixth volume is most frequently cited by Van der Kemp, was a sustained analysis of Netherlands Indian fiscal and colonial policy in the second half of the nineteenth century. It combined statistical depth with political judgment, and Van der Kemp draws upon it for a series of judicious observations on the diplomacy of the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]], on the [[Pinang Nota (1825)|Pinang Nota]] of [[Robert Fullerton|Fullerton]], and on the [[Sumatra Treaty of 1871|Sumatra-tractaat]] of [[1871]]. He is also the author of *Nederlandsch-Indië in de Staten-Generaal*, volume I of which (p. 82) Van der Kemp cites as one of the standard printed collections of the Anglo-Dutch treaty documents of 1824.
+De Waal's *Onze Indische Financiën*, of which the sixth volume is most frequently cited by Van der Kemp, was a sustained analysis of Netherlands Indian fiscal and colonial policy in the second half of the nineteenth century. It combined statistical depth with political judgment, and Van der Kemp draws upon it for a series of judicious observations on the diplomacy of the [[Anglo-Dutch Treaty of 1824|treaty of 1824]], on the [[Pinang Nota (1825)|Pinang Nota]] of [[Robert Fullerton|Fullerton]], and on the [[Sumatra Treaty of 1871|Sumatra-tractaat]] of [[1871]]. He is also the author of *Nederlandsch-Indië in de Staten-Generaal*, volume I of which (p. 82) Van der Kemp cites as one of the standard printed collections of the Anglo-Dutch treaty documents of 1824.
 
 ## On Palmerston and the Letter of the 1824 Treaty
 
@@ -32,7 +32,7 @@ A third observation, drawn from page 57 of the same sixth volume, runs to the ma
 - [[Cape of Guinea]]
 - [[Pinang Nota (1825)]]
 - [[Robert Fullerton]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[S. van Deventer]]
 - [[P. H. van der Kemp]]
 
@@ -42,11 +42,11 @@ A third observation, drawn from page 57 of the same sixth volume, runs to the ma
 ---
 
 
-**E. de Waal** was a Dutch colonial administrator and man of letters, the author of the multi-volume *Onze Indische Financiën* ("Our Indian Finances") and of *Nederlandsch-Indië in de Staten-Generaal*, who is cited repeatedly by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Acheh treaty of 1819|Raffles–Coombs convention]] and its long aftermath. De Waal's writings furnish Van der Kemp with one of his principal interpretive lenses for the Acheh question and the connected Sumatra-tractaat of [[1871]].
+**E. de Waal** was a Dutch colonial administrator and man of letters, the author of the multi-volume *Onze Indische Financiën* ("Our Indian Finances") and of *Nederlandsch-Indië in de Staten-Generaal*, who is cited repeatedly by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] and its long aftermath. De Waal's writings furnish Van der Kemp with one of his principal interpretive lenses for the Acheh question and the connected Sumatra-tractaat of [[1871]].
 
 ## Author of *Onze Indische Financiën*
 
-De Waal's *Onze Indische Financiën*, of which the sixth volume is most frequently cited by Van der Kemp, was a sustained analysis of Netherlands Indian fiscal and colonial policy in the second half of the nineteenth century. It combined statistical depth with political judgment, and Van der Kemp draws upon it for a series of judicious observations on the diplomacy of the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]], on the [[Pinang Nota (1825)|Pinang Nota]] of [[Robert Fullerton|Fullerton]], and on the [[Sumatra Treaty of 1871|Sumatra-tractaat]] of [[1871]]. He is also the author of *Nederlandsch-Indië in de Staten-Generaal*, volume I of which (p. 82) Van der Kemp cites as one of the standard printed collections of the Anglo-Dutch treaty documents of 1824.
+De Waal's *Onze Indische Financiën*, of which the sixth volume is most frequently cited by Van der Kemp, was a sustained analysis of Netherlands Indian fiscal and colonial policy in the second half of the nineteenth century. It combined statistical depth with political judgment, and Van der Kemp draws upon it for a series of judicious observations on the diplomacy of the [[Anglo-Dutch Treaty of 1824|treaty of 1824]], on the [[Pinang Nota (1825)|Pinang Nota]] of [[Robert Fullerton|Fullerton]], and on the [[Sumatra Treaty of 1871|Sumatra-tractaat]] of [[1871]]. He is also the author of *Nederlandsch-Indië in de Staten-Generaal*, volume I of which (p. 82) Van der Kemp cites as one of the standard printed collections of the Anglo-Dutch treaty documents of 1824.
 
 ## On Palmerston and the Letter of the 1824 Treaty
 
@@ -69,7 +69,7 @@ A third observation, drawn from page 57 of the same sixth volume, runs to the ma
 - [[Cape of Guinea]]
 - [[Pinang Nota (1825)]]
 - [[Robert Fullerton]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[S. van Deventer]]
 - [[P. H. van der Kemp]]
 

@@ -4,7 +4,7 @@ aliases: [XXII Mukims, Seulimum, Seulimeum, Seulimèum, the chiefdom of Seulimeu
 tags: [place, aceh-proper, uleebalangship, mukim, xxii-mukims, highland, sagi, region, great-acheh, groot-atjeh, achehnese, colonial, dutch, buitenbezittingen, tramway, berglijntje]
 ---
 
-The main centre of the XXII Mukims district. A teacher named [[Teungku Usen]] resides there; his father [[Teungku Tanoh Abie]], celebrated for his learning and independence, held the position of kali of the XXII Mukims.
+The main centre of the XXII Mukims district. A teacher named [[Teungku Usen]] resides there; his father [[Teungku Tanoh Abee|Teungku Tanoh Abie]], celebrated for his learning and independence, held the position of kali of the XXII Mukims.
 
 ## Expanded account from *The Achehnese*, Vol. I — Seulimeum
 
@@ -69,7 +69,7 @@ The first sabotage wave "began in the night of [[19 February|19]] to [[20 Februa
 
 ## See Also
 
-- [[Teungku Tanoh Abie]]
+- [[Teungku Tanoh Abee|Teungku Tanoh Abie]]
 - [[Teungku Usen]]
 - [[XXII Mukims]]
 - [[Great Acheh]]

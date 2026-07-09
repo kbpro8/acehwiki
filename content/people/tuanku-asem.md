@@ -5,7 +5,7 @@ aliases: [Tuanku Asem (Hashim), Hashim, Tuanku Hashim]
 tags: [person, royal-family, regent, keumala, 19th-century]
 ---
 
-**Tuanku Asem** — also called **Hashim** — was a member of the royal family of [[Acheh]] and the guardian and regent of the young [[Tuanku Muhamat Dawot|Sultan Muhamat Dawot]] during the first portion of the [[Achehnese War|war with the Dutch]]. He figures in Vol. I as the ablest and most intelligent member of the [[Keumala]] court, and as the man whose influence kept alive the semblance of a royal government after the [[Loss of the Dalam|loss of the Dalam]]. He died in January [[1897]] at [[Padang Tiji]] in the [[Mukims VII]].
+**Tuanku Asem** — also called **Hashim** — was a member of the royal family of [[Acheh]] and the guardian and regent of the young [[Tuanku Muhamat Dawot|Sultan Muhamat Dawot]] during the first portion of the [[Achehnese War|war with the Dutch]]. He figures in Vol. I as the ablest and most intelligent member of the [[Keumala]] court, and as the man whose influence kept alive the semblance of a royal government after the [[Loss of the Dalam|loss of the Dalam]]. He died in January [[1897]] at [[Padang Tiji]] in the [[VII Mukims|Mukims VII]].
 
 ## Guardian of the child-sultan
 
@@ -38,7 +38,7 @@ Although the ties of blood relationship within the royal family were strengthene
 ---
 
 
-**Tuanku Asem** — also called **Hashim** — was a member of the royal family of [[Acheh]] and the guardian and regent of the young [[Tuanku Muhamat Dawot|Sultan Muhamat Dawot]] during the first portion of the [[Achehnese War|war with the Dutch]]. He figures in Vol. I as the ablest and most intelligent member of the [[Keumala]] court, and as the man whose influence kept alive the semblance of a royal government after the [[Loss of the Dalam|loss of the Dalam]]. He died in January [[1897]] at [[Padang Tiji]] in the [[Mukims VII]].
+**Tuanku Asem** — also called **Hashim** — was a member of the royal family of [[Acheh]] and the guardian and regent of the young [[Tuanku Muhamat Dawot|Sultan Muhamat Dawot]] during the first portion of the [[Achehnese War|war with the Dutch]]. He figures in Vol. I as the ablest and most intelligent member of the [[Keumala]] court, and as the man whose influence kept alive the semblance of a royal government after the [[Loss of the Dalam|loss of the Dalam]]. He died in January [[1897]] at [[Padang Tiji]] in the [[VII Mukims|Mukims VII]].
 
 ## Guardian of the child-sultan
 

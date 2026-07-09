@@ -27,7 +27,7 @@ The [[1840]] Singkel post is, in the Encyclopaedisch Bureau's survey, the first 
 - [[Acheh]]
 - [[Singkel]]
 - [[Sumatra's West Coast]]
-- [[Padri War on Sumatra's East Coast]]
+- [[Padri War|Padri War on Sumatra's East Coast]]
 - [[Johannes van den Bosch]]
 - [[J. C. Baud]]
 - [[Bonjol]]

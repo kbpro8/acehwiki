@@ -8,7 +8,7 @@ A province on the East Coast of [[Sumatra]]. In the [[Hikayat Pochut Muhamat]], 
 
 ## Account from *Raffles' Atjeh-overeenkomst van 1819* — Batu Bara
 
-**Batu Bara** (Dutch *Batoe Bara*; in one Achehnese letter rendered *Batoe Bhara*) was a Malay district on [[Sumatra's East Coast]], lying immediately to the south of [[Deli]] and forming, with the neighbouring petty states, part of the chain of ports which carried on an extensive trade with the British settlements at [[Penang]] and, after [[1819]], [[Singapore]]. Together with [[Deli]], [[Langkat]], [[Siak]], [[Kampar]], [[Jambi]], [[Tanah Putih]], [[Balah]] and [[Panei]], Batu Bara is enumerated by Van der Kemp among the East Coast states whose commerce Penang was anxious to preserve from Dutch interference after the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]].
+**Batu Bara** (Dutch *Batoe Bara*; in one Achehnese letter rendered *Batoe Bhara*) was a Malay district on [[Sumatra's East Coast]], lying immediately to the south of [[Deli]] and forming, with the neighbouring petty states, part of the chain of ports which carried on an extensive trade with the British settlements at [[Penang]] and, after [[1819]], [[Singapore]]. Together with [[Deli]], [[Langkat]], [[Siak]], [[Kampar]], [[Jambi]], [[Tanah Putih]], [[Balah]] and [[Panei]], Batu Bara is enumerated by Van der Kemp among the East Coast states whose commerce Penang was anxious to preserve from Dutch interference after the [[Anglo-Dutch Treaty of 1824|treaty of 1824]].
 
 ## The Padri threat of 1824
 
@@ -20,7 +20,7 @@ A few years later Batu Bara appears again in the [[Said Akil's Deli adventure (1
 
 ## Place in the wider argument
 
-Although Batu Bara is mentioned in Van der Kemp's article only incidentally, it figures prominently in the documentation he adduces as evidence of two related propositions. First, the East Coast states — though formally dependencies of [[Acheh]] under the [[Acheh treaty of 1819]] — were in practice independent polities, exposed both to internal religious upheaval (the Padri war) and to the depredations of freebooters such as Said Akil. Second, the British government at Penang, while disclaiming any political authority over them, exercised a kind of supervisory commercial jurisdiction which the Dutch, after [[1824]], increasingly resented. Both elements are central to Van der Kemp's analysis of the [[Suzerainty question|suzerainty question]] that emerged between the two powers over [[Sumatra]].
+Although Batu Bara is mentioned in Van der Kemp's article only incidentally, it figures prominently in the documentation he adduces as evidence of two related propositions. First, the East Coast states — though formally dependencies of [[Acheh]] under the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] — were in practice independent polities, exposed both to internal religious upheaval (the Padri war) and to the depredations of freebooters such as Said Akil. Second, the British government at Penang, while disclaiming any political authority over them, exercised a kind of supervisory commercial jurisdiction which the Dutch, after [[1824]], increasingly resented. Both elements are central to Van der Kemp's analysis of the [[Suzerainty question|suzerainty question]] that emerged between the two powers over [[Sumatra]].
 
 
 ## See Also
@@ -39,7 +39,7 @@ Although Batu Bara is mentioned in Van der Kemp's article only incidentally, it 
 - [[Said Akil's Deli adventure (1824-1828)]]
 - [[Sultan of Deli's letter to Penang]]
 - [[Robert Fullerton]]
-- [[Padri War on Sumatra's East Coast]]
+- [[Padri War|Padri War on Sumatra's East Coast]]
 
 ## Source
 

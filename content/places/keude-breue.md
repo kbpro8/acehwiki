@@ -4,11 +4,11 @@ aliases: [Keude Breueh, Keude Breue, Keude Brue, Koeala Breue, Keude Breuë, the
 tags: [place, town, colonial, dutch, aceh, buitenbezittingen, tramway, berglijntje]
 ---
 
-**Keude Breue** (also rendered **Keude Breueh**) was a town in the [[Atjeh's Onderhoorigheden|Atjeh Dependencies]] that served as the western terminus of the [[1899]] western branch of the second Atjeh tramway — the lijntje built from [[Sigli]] over [[Padang Tidji]] to Keude Breue — and as the originating point of the [[Berglijntje Keude Breue–Seulimeum|berglijntje from Keude Breue over the hills to Seulimeum]] built in the years [[1904]]–[[1908]] to connect the second tramway of the [[Atjeh's Onderhoorigheden|Dependencies]] with the old tramway of [[Groot-Atjeh|Great Atjeh]].
+**Keude Breue** (also rendered **Keude Breueh**) was a town in the [[Atjeh's Onderhoorigheden|Atjeh Dependencies]] that served as the western terminus of the [[1899]] western branch of the second Atjeh tramway — the lijntje built from [[Sigli]] over [[Padang Tiji|Padang Tidji]] to Keude Breue — and as the originating point of the [[Berglijntje Keude Breue–Seulimeum|berglijntje from Keude Breue over the hills to Seulimeum]] built in the years [[1904]]–[[1908]] to connect the second tramway of the [[Atjeh's Onderhoorigheden|Dependencies]] with the old tramway of [[Groot-Atjeh|Great Atjeh]].
 
 ## Account from *De Buitenbezittingen* (1917) — Keude Breue
 
-The Encyclopaedisch Bureau's account of the [[Atjeh-tram|Atjeh-tramway]] first mentions [[Keude Breue|Keude Breue]] as the western terminus of the [[1899]] lijntje from [[Sigli]]: "already in [[1899]] from [[Sigli]] a lijntje was built westward over [[Padang Tidji]] to Keude Breue." This lijntje, the Bureau notes, was "a piece of tramway in the [[Atjeh's Onderhoorigheden|Dependencies]], somewhat hanging in the air" (*wel wat in de lucht hangende, stuk trambaan in de Onderhoorigheden*) — that is, a line without direct connection to the [[Groot-Atjeh|Great Atjeh]] network.
+The Encyclopaedisch Bureau's account of the [[Atjeh-tram|Atjeh-tramway]] first mentions [[Keude Breue|Keude Breue]] as the western terminus of the [[1899]] lijntje from [[Sigli]]: "already in [[1899]] from [[Sigli]] a lijntje was built westward over [[Padang Tiji|Padang Tidji]] to Keude Breue." This lijntje, the Bureau notes, was "a piece of tramway in the [[Atjeh's Onderhoorigheden|Dependencies]], somewhat hanging in the air" (*wel wat in de lucht hangende, stuk trambaan in de Onderhoorigheden*) — that is, a line without direct connection to the [[Groot-Atjeh|Great Atjeh]] network.
 
 The Bureau's account of the [[Berglijntje Keude Breue–Seulimeum|berglijntje]] gives Keude Breue its strategic significance: "this, somewhat hanging-in-the-air, piece of tramway in the [[Atjeh's Onderhoorigheden|Dependencies]] was connected in the years [[1904]]–[[1908]] by a berglijntje from Keude Breue over the hills to [[Seulimeum]] with the old tramway in [[Groot-Atjeh|Groot-Atjeh]], by which the military administration had created a powerful instrument for achieving the complete [[Pacificatie van Atjeh|pacification]] of the intersected regions." The berglijntje from Keude Breue thus closed the strategic gap between the two halves of the Atjeh residency and made the entire [[Atjeh-tram|Atjeh-tramway]] network an operational whole.
 
@@ -21,7 +21,7 @@ The Bureau's account of the [[Berglijntje Keude Breue–Seulimeum|berglijntje]] 
 - [[Atjeh-tram]]
 - [[Berglijntje Keude Breue–Seulimeum]]
 - [[Seulimeum]]
-- [[Padang Tidji]]
+- [[Padang Tiji|Padang Tidji]]
 - [[Sigli]]
 - [[Atjeh's Onderhoorigheden]]
 - [[Groot-Atjeh]]

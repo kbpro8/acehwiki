@@ -22,11 +22,11 @@ The dispute unfolded against a background of intermittent British contact with A
 
 ## The British Commission
 
-It was the conflict between [[Sir Thomas Stamford Raffles|Raffles]] and [[Colonel John Alexander Bannerman|Bannerman]] over which pretender to recognise — and [[Sir Thomas Stamford Raffles|Raffles]]'s alarm at rumours of Dutch overtures to [[Sultan Jauhar Alum|Jauhar Alum]] at [[Pedir]] — that led to the dispatch of the [[Raffles-Coombs Acheh Commission (1819)|Raffles-Coombs commission]] of 1819. After seven unproductive weeks at the roadstead of [[Banda Acheh]], during which [[Panglima Polim|Panglima Polim]] of the [[XXII Mukims]] made plain his "undisguised supremacy at the capital" and treated both pretenders with contempt, the commission proceeded to [[Pedir]] and concluded the [[Treaty of Pedir (1819)|treaty of 22 April 1819]] with [[Sultan Jauhar Alum]]. [[Sultan Saif ul-Alum|Syf]] at [[Telok Semawé]] was induced to renounce his claims — a submission that proved worthless, for in July 1819 he was again writing to the governor of [[Penang]] as sultan of Acheh and continuing his "predatory life" unpunished.
+It was the conflict between [[Sir Thomas Stamford Raffles|Raffles]] and [[Colonel John Alexander Bannerman|Bannerman]] over which pretender to recognise — and [[Sir Thomas Stamford Raffles|Raffles]]'s alarm at rumours of Dutch overtures to [[Sultan Jauhar Alum|Jauhar Alum]] at [[Pedir]] — that led to the dispatch of the [[Raffles-Coombs Acheh Commission (1819)|Raffles-Coombs commission]] of 1819. After seven unproductive weeks at the roadstead of [[Banda Acheh]], during which [[Panglima Polem|Panglima Polem]] of the [[XXII Mukims]] made plain his "undisguised supremacy at the capital" and treated both pretenders with contempt, the commission proceeded to [[Pedir]] and concluded the [[Treaty of Pedir (1819)|treaty of 22 April 1819]] with [[Sultan Jauhar Alum]]. [[Sultan Saif ul-Alum|Syf]] at [[Telok Semawé]] was induced to renounce his claims — a submission that proved worthless, for in July 1819 he was again writing to the governor of [[Penang]] as sultan of Acheh and continuing his "predatory life" unpunished.
 
 ## Aftermath
 
-The 1819 treaty did not end the dispute; it merely overlaid it. In April 1822 [[Sultan Jauhar Alum|Jauhar Alum]] was still at [[Pedir]], writing to [[Penang]] that he lacked the means to move to the ruined capital. The [[Three Sagis' letter to Penang (4 December 1822)|letter of the Three Sagis to Governor Phillips of 4 December 1822]] declared that they would have no one but [[Sultan Saif ul-Alum|Syf]]. The death of [[Sultan Jauhar Alum]] in December 1823 left the matter still unsettled. [[Panglima Polim|Panglima Polim]]'s [[Panglima Polim's supremacy at Acheh|supremacy at Acheh]] continued, and the question of who was the rightful sultan was overtaken by the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London (1824)]] and the resulting paralysis of Dutch policy on Sumatra.
+The 1819 treaty did not end the dispute; it merely overlaid it. In April 1822 [[Sultan Jauhar Alum|Jauhar Alum]] was still at [[Pedir]], writing to [[Penang]] that he lacked the means to move to the ruined capital. The [[Three Sagis' letter to Penang (4 December 1822)|letter of the Three Sagis to Governor Phillips of 4 December 1822]] declared that they would have no one but [[Sultan Saif ul-Alum|Syf]]. The death of [[Sultan Jauhar Alum]] in December 1823 left the matter still unsettled. [[Panglima Polem|Panglima Polem]]'s [[Panglima Polim's supremacy at Acheh|supremacy at Acheh]] continued, and the question of who was the rightful sultan was overtaken by the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1824]] and the resulting paralysis of Dutch policy on Sumatra.
 
 ## See Also
 
@@ -39,7 +39,7 @@ The 1819 treaty did not end the dispute; it merely overlaid it. In April 1822 [[
 - [[Sultan Saif ul-Alum]]
 - [[Said Hussein]]
 - [[Tunku Pakih]]
-- [[Panglima Polim]]
+- [[Panglima Polem|Panglima Polim]]
 - [[Three Sagis]]
 - [[Three Sagis' letter to Penang (4 December 1822)]]
 - [[Panglima Polim's supremacy at Acheh]]

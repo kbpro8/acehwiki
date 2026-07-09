@@ -8,7 +8,7 @@ tags: [place, sulawesi, aceh, colonial]
 The expedition aimed to suppress local resistance and to secure Dutch trade routes in the Celebes Sea.
 
 ## See Also
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Expedition to Boni and Loewoe (1905)]]
 - [[1905]]
 - [[Celebes]]

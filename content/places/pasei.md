@@ -31,7 +31,7 @@ Pasei was one of the two pepper ports — with [[Pedir|Pedir]] — that the [[Di
 
 ## The Djohor fleet off Pasei ([[1601]])
 
-In June [[1601]], when [[André Furtado de Mendoza|Furtado de Mendoza]]'s Portuguese fleet of a galleon and a fust appeared off Atjeh, the [[Sultan of Atjeh (1589-1604)|sultan of Atjeh]] and his court suspected a connection between the Portuguese fleet's arrival and the simultaneous presence of "een vloot van een zestigtal oorlogsschepen van den sultan van Djohor voor Pasei". The Atjehers "versterkten zich, bevreesd voor een aanval van beiden". The sultan, unwilling to make the Portuguese his enemies but angered when they seized an Arab ship in defiance of his hospitality, had his shore batteries fire on the Portuguese ship; one of Furtado's ships was lost, and the crew was disarmed and imprisoned. Van der Woude notes that "de volgende Hollandsche vloot zou van deze gebeurtenissen profiteeren": the [[Zeeland Company's Atjeh mission ([[1601]])|Zeeland mission of August 1601]] found the sultan already alienated from the Portuguese, and obtained the release of [[Frederik de Houtman|Frederik de Houtman]] without ransom.
+In June [[1601]], when [[André Furtado de Mendonça|Furtado de Mendoza]]'s Portuguese fleet of a galleon and a fust appeared off Atjeh, the [[Sultan of Atjeh (1589-1604)|sultan of Atjeh]] and his court suspected a connection between the Portuguese fleet's arrival and the simultaneous presence of "een vloot van een zestigtal oorlogsschepen van den sultan van Djohor voor Pasei". The Atjehers "versterkten zich, bevreesd voor een aanval van beiden". The sultan, unwilling to make the Portuguese his enemies but angered when they seized an Arab ship in defiance of his hospitality, had his shore batteries fire on the Portuguese ship; one of Furtado's ships was lost, and the crew was disarmed and imprisoned. Van der Woude notes that "de volgende Hollandsche vloot zou van deze gebeurtenissen profiteeren": the [[Zeeland Company's Atjeh mission ([[1601]])|Zeeland mission of August 1601]] found the sultan already alienated from the Portuguese, and obtained the release of [[Frederik de Houtman|Frederik de Houtman]] without ransom.
 
 ## The historical background
 
@@ -70,7 +70,7 @@ The kingdom of Samudra-Pasai was founded, according to the [[Hikajat Radja-radja
 - [[1926]]
 - [[A. Marre]]
 - [[Acheh]]
-- [[André Furtado de Mendoza]]
+- [[André Furtado de Mendonça|André Furtado de Mendoza]]
 - [[Atjeh bloeitijdperk ([[1607]]-[[1636]])]]
 - [[Boven-Singkel]]
 - [[Diogo Lopez de Sequeira]]
@@ -78,7 +78,7 @@ The kingdom of Samudra-Pasai was founded, according to the [[Hikajat Radja-radja
 - [[E. Dulaurier]]
 - [[Gedong (Atjeher of Pasei)]]
 - [[Hikajat Radja-radja Pasei]]
-- [[Islam in Atjeh]]
+- [[Islam in Aceh|Islam in Atjeh]]
 - [[Kreemer's De Karbouw ([[1956]])]]
 - [[Pantang of the albino buffalo in Atjeh]]
 - [[Pedir]]

@@ -9,7 +9,7 @@ tags: [person, legendary, mythological-figure, java]
 
 The Achehnese legend relates that a princess suffering from a horrible skin-disease was banished to *Nï'h* (the Achehnese pronunciation of [[Nias]]), with only a dog for companion. On that island she found many *peundang* plants and gradually became acquainted with the curative properties of the *peundang* root. From her union with the dog a son was born; and when, after long wandering, the son found no woman on the island save his mother, the two wedded, and from this incestuous union "is descended the whole population of Nias." Snouck Hurgronje notes that this story is clearly akin to the Javanese myth of the Kalangs, and that the same story, in a modified form, "is popular in [[Banten]], but in the absence of Kalangs it is there applied to the Dutch."
 
-The Javanese myth, as set out by [[Prof. Veth|Veth]] in his *Java* (vol. III, p. 580 et seq.), has one feature wanting in the Achehnese version: the princess of the Kalang legend is "the offspring of a wild sow, which became her mother in a miraculous manner." It is in this connection that Snouck Hurgronje cites the Latin anecdote of Ratu Baka:
+The Javanese myth, as set out by [[Pieter Johannes Veth|Veth]] in his *Java* (vol. III, p. 580 et seq.), has one feature wanting in the Achehnese version: the princess of the Kalang legend is "the offspring of a wild sow, which became her mother in a miraculous manner." It is in this connection that Snouck Hurgronje cites the Latin anecdote of Ratu Baka:
 
 > *Ratu Baka rex, ut aiunt, quondam venando fatigatus, dum quietis causâ consistebat, in corticem nucis coconensis minxit, quo facto corticem in terram deposuit. Nec tamen urina solum, sed etiam semen virile in vasculo manebat, quod cum forte sus fera bibisset, foeta facta est et filiam peperit.*
 
@@ -20,7 +20,7 @@ The point of Snouck Hurgronje's parallel is ethnographic: the Achehnese, like th
 ## See Also
 
 - [[Nias]]
-- [[Prof. Veth]]
+- [[Pieter Johannes Veth|Prof. Veth]]
 - [[Banten]]
 - [[Java]]
 
@@ -34,7 +34,7 @@ The point of Snouck Hurgronje's parallel is ethnographic: the Achehnese, like th
 
 The Achehnese legend relates that a princess suffering from a horrible skin-disease was banished to *Nï'h* (the Achehnese pronunciation of [[Nias]]), with only a dog for companion. On that island she found many *peundang* plants and gradually became acquainted with the curative properties of the *peundang* root. From her union with the dog a son was born; and when, after long wandering, the son found no woman on the island save his mother, the two wedded, and from this incestuous union "is descended the whole population of Nias." Snouck Hurgronje notes that this story is clearly akin to the Javanese myth of the Kalangs, and that the same story, in a modified form, "is popular in [[Banten]], but in the absence of Kalangs it is there applied to the Dutch."
 
-The Javanese myth, as set out by [[Prof. Veth|Veth]] in his *Java* (vol. III, p. 580 et seq.), has one feature wanting in the Achehnese version: the princess of the Kalang legend is "the offspring of a wild sow, which became her mother in a miraculous manner." It is in this connection that Snouck Hurgronje cites the Latin anecdote of Ratu Baka:
+The Javanese myth, as set out by [[Pieter Johannes Veth|Veth]] in his *Java* (vol. III, p. 580 et seq.), has one feature wanting in the Achehnese version: the princess of the Kalang legend is "the offspring of a wild sow, which became her mother in a miraculous manner." It is in this connection that Snouck Hurgronje cites the Latin anecdote of Ratu Baka:
 
 > *Ratu Baka rex, ut aiunt, quondam venando fatigatus, dum quietis causâ consistebat, in corticem nucis coconensis minxit, quo facto corticem in terram deposuit. Nec tamen urina solum, sed etiam semen virile in vasculo manebat, quod cum forte sus fera bibisset, foeta facta est et filiam peperit.*
 
@@ -45,7 +45,7 @@ The point of Snouck Hurgronje's parallel is ethnographic: the Achehnese, like th
 ## See Also
 
 - [[Nias]]
-- [[Prof. Veth]]
+- [[Pieter Johannes Veth|Prof. Veth]]
 - [[Banten]]
 - [[Java]]
 

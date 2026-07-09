@@ -5,7 +5,7 @@ aliases: [Korporaal Nussy, Sergeant Nussy, Baas Nussy, Marechaussee Sergeant Nus
 tags: [person, marechaussee, ambonese, knil, aceh]
 ---
 
-**Nussy** was an Ambonese [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]] of the [[K.N.I.L.]] who served as a *dardanel* under the vermaarde patrouillecommandanten [[Vastenou]] and [[Dersjant]] before becoming the best-known spoorzoeker and overval specialist of the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]] in [[1910]]–[[1911]], for which he was awarded the [[Militaire Willemsorde (M.W.O.)|M.W.O.]] 3e klas. After his retirement as sergeant he was taken to the Netherlands by a *controleur* and afterwards served as *mantri-politie* on [[Ambon]] under the civil bestuur of his former commander, the Assistent-Resident [[Schmidt]].
+**Nussy** was an Ambonese [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]] of the [[K.N.I.L.]] who served as a *dardanel* under the vermaarde patrouillecommandanten [[Vastenou]] and [[Dersjant]] before becoming the best-known spoorzoeker and overval specialist of the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]] in [[1910]]–[[1911]], for which he was awarded the [[Militaire Willemsorde|M.W.O.]] 3e klas. After his retirement as sergeant he was taken to the Netherlands by a *controleur* and afterwards served as *mantri-politie* on [[Ambon]] under the civil bestuur of his former commander, the Assistent-Resident [[Schmidt]].
 
 In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Nussy is also the first-named of the sergeants in [[Musket]]'s list of the Marechaussee commanders: "Gilles Graafland, Van Daalen, Campioni, Christoffel, Van der Maaten, Scheepens, Watrin, Webb, Colijn, Geertsema Beckering, Darlang and the sergeants Nussy, Salowono, Pongoh … a colourful array."
 
@@ -47,7 +47,7 @@ Nussy is the most fully drawn of the named Ambonese soldiers in *[[Oom Ambon van
 - [[Peutoeha Gam Masén]]
 - [[Schmidt]]
 - [[Dardanellen]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[Tangsé]]
 - [[Kroeëng Seukoeleh]]
@@ -56,13 +56,13 @@ Nussy is the most fully drawn of the named Ambonese soldiers in *[[Oom Ambon van
 - [[Salawono]]
 - [[Pongoh]]
 - [[Gilles Graafland]]
-- [[Van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [[Campioni]]
 - [[Christoffel]]
 - [[Van der Maaten]]
-- [[Watrin]]
+- [[G. F. B. Watrin|Watrin]]
 - [[Webb]]
-- [[Colijn]]
+- [[Hendrikus Colijn|Colijn]]
 - [[Geertsema Beckering]]
 - [[Darlang]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
@@ -74,7 +74,7 @@ Nussy is the most fully drawn of the named Ambonese soldiers in *[[Oom Ambon van
 ---
 
 
-**Nussy** was an Ambonese [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]] of the [[K.N.I.L.]] who served as a *dardanel* under the vermaarde patrouillecommandanten [[Vastenou]] and [[Dersjant]] before becoming the best-known spoorzoeker and overval specialist of the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]] in [[1910]]–[[1911]], for which he was awarded the [[Militaire Willemsorde (M.W.O.)|M.W.O.]] 3e klas. After his retirement as sergeant he was taken to the Netherlands by a *controleur* and afterwards served as *mantri-politie* on [[Ambon]] under the civil bestuur of his former commander, the Assistent-Resident [[Schmidt]].
+**Nussy** was an Ambonese [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]] of the [[K.N.I.L.]] who served as a *dardanel* under the vermaarde patrouillecommandanten [[Vastenou]] and [[Dersjant]] before becoming the best-known spoorzoeker and overval specialist of the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]] in [[1910]]–[[1911]], for which he was awarded the [[Militaire Willemsorde|M.W.O.]] 3e klas. After his retirement as sergeant he was taken to the Netherlands by a *controleur* and afterwards served as *mantri-politie* on [[Ambon]] under the civil bestuur of his former commander, the Assistent-Resident [[Schmidt]].
 
 In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Nussy is also the first-named of the sergeants in [[Musket]]'s list of the Marechaussee commanders: "Gilles Graafland, Van Daalen, Campioni, Christoffel, Van der Maaten, Scheepens, Watrin, Webb, Colijn, Geertsema Beckering, Darlang and the sergeants Nussy, Salowono, Pongoh … a colourful array."
 
@@ -116,7 +116,7 @@ Nussy is the most fully drawn of the named Ambonese soldiers in *[[Oom Ambon van
 - [[Peutoeha Gam Masén]]
 - [[Schmidt]]
 - [[Dardanellen]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[Tangsé]]
 - [[Kroeëng Seukoeleh]]
@@ -125,13 +125,13 @@ Nussy is the most fully drawn of the named Ambonese soldiers in *[[Oom Ambon van
 - [[Salawono]]
 - [[Pongoh]]
 - [[Gilles Graafland]]
-- [[Van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [[Campioni]]
 - [[Christoffel]]
 - [[Van der Maaten]]
-- [[Watrin]]
+- [[G. F. B. Watrin|Watrin]]
 - [[Webb]]
-- [[Colijn]]
+- [[Hendrikus Colijn|Colijn]]
 - [[Geertsema Beckering]]
 - [[Darlang]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)

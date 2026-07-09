@@ -15,7 +15,7 @@ The practice incorporates the recitation of the **Al‑Burda** and other *kasida
 ## See Also
 - [[Mawlid in Aceh]]
 - [[Kasida (Acehnese poetic form)]]
-- [[Al‑Burda (poem)]]
+- [[Burda (poem)|Al‑Burda (poem)]]
 - [[Al‑Busiri]]
 - [[Nasib (poetic prelude)]]
 - [[Madih (praise)]]

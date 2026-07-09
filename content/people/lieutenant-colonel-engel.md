@@ -14,7 +14,7 @@ Engel’s party, comprising infantry and marine units, attempted to cross the **
 His cautious approach and reliance on higher‑command authorization reflect the Dutch emphasis on coordinated, hierarchical decision‑making in difficult terrain.
 
 ## See Also
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 - [[Beradin]]
 - [[IV Moekims]]
 - [[Dutch Army]]

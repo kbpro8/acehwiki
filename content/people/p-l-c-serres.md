@@ -3,7 +3,7 @@ title: Serres, P. L. C.
 aliases: ["P. L. C. Serres"]
 tags: [person, military, dutch]
 ---
-**Serres, P. L. C.** was a lieutenant of the [[Dutch Marine Corps]] serving aboard the frigate [[Van der Werff]] during the [[1821]] expedition against [[Palembang]]. He was killed in action when the ship came under enemy fire while supporting a marine assault on fortified positions (page 94).
+**Serres, P. L. C.** was a lieutenant of the [[Royal Netherlands Marine Corps|Dutch Marine Corps]] serving aboard the frigate [[Van der Werff]] during the [[1821]] expedition against [[Palembang]]. He was killed in action when the ship came under enemy fire while supporting a marine assault on fortified positions (page 94).
 
 ## Fatality
 
@@ -11,7 +11,7 @@ Serres’ death exemplifies the high cost paid by Dutch marines in the difficult
 
 ## See Also
 
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Van der Werff (frigate)]]
 - [[Palembang]]
 - [[1821 Palembang expedition]]

@@ -12,7 +12,7 @@ Within weeks Raffles had signed a preliminary arrangement with the temenggong of
 
 The founding of Singapore was, in Van der Kemp's eyes, the "anti-Batavia" — Raffles' grand counter-stroke to Dutch supremacy in the archipelago — and it was accomplished at the cost of overriding his colleague, his governor, and the Calcutta instructions. The Calcutta government later censured the irregular proceeding, observing that it was "contrary to the spirit of our instructions" and indicated "an undue bias" toward Raffles' own schemes. Bannerman and Coombs meanwhile complained to Bengal of the "eigenmachtige wegzending van de Minto" and of the arbitrary interruption of the Acheh commission.
 
-The episode had lasting consequences. Singapore rapidly eclipsed [[Malacca]] and [[Penang]] as the chief British emporium in the Straits, gave [[British India]] a decisive strategic foothold, and, after the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London (1824)]], became the cornerstone of British influence in the Malay world. The same convention that ceded Sumatra to the Netherlands secured Singapore to Britain, and the entire [[Acheh treaty of 1819|Acheh treaty of 1819]] was sacrificed, in Van der Kemp's analysis, precisely so that Singapore might be retained without continental rivals.
+The episode had lasting consequences. Singapore rapidly eclipsed [[Malacca]] and [[Penang]] as the chief British emporium in the Straits, gave [[British India]] a decisive strategic foothold, and, after the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1824]], became the cornerstone of British influence in the Malay world. The same convention that ceded Sumatra to the Netherlands secured Singapore to Britain, and the entire [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]] was sacrificed, in Van der Kemp's analysis, precisely so that Singapore might be retained without continental rivals.
 
 ## See Also
 
@@ -23,7 +23,7 @@ The episode had lasting consequences. Singapore rapidly eclipsed [[Malacca]] and
 - [[Raffles' detour to Karimon Islands]]
 - [[Dispatch of the Minto to Pedir]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Penang]]
 - [[Singapore]]
 - [[Karimon Islands]]

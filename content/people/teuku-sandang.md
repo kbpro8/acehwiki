@@ -11,7 +11,7 @@ In his account of the *pukat*-fishing season at [[Ulee Lheue]] (also called Oleh
 
 The *banta* (deputy) was the regular subordinate of an uleebalang in [[Great Acheh]], and acted in his name in the territory under his master's jurisdiction. Where the uleebalang himself was absent or otherwise engaged, the *banta* took his place in the exaction of tribute and the maintenance of order. The institution of the *banta* was one of the principal means by which an uleebalang extended his effective reach across the gampongs of his mukim; the Teuku Sandang of Meura'sa is a typical example of the species.
 
-The name **Sandang** is also of importance in the political mythology of the Achehnese people, since one of the four ancient *suke'e*s (tribes) of [[Acheh]] — the [[Ja Sandang|Suke'e Ja Sandang]] — bore this name. That tribe, however, is distinct from the present Teuku Sandang: the latter is simply a personal name given to the cousin and *banta* of the Teuku Ne' of Meura'sa, while the former is the eponymous ancestor of a suke'e from which the [[Kali Malikul-adil|Kali Malikon Ade]] drew his origin.
+The name **Sandang** is also of importance in the political mythology of the Achehnese people, since one of the four ancient *suke'e*s (tribes) of [[Acheh]] — the [[Ja Sandang|Suke'e Ja Sandang]] — bore this name. That tribe, however, is distinct from the present Teuku Sandang: the latter is simply a personal name given to the cousin and *banta* of the Teuku Ne' of Meura'sa, while the former is the eponymous ancestor of a suke'e from which the [[Teuku Kali Malikon Ade|Kali Malikon Ade]] drew his origin.
 
 ## See Also
 
@@ -34,7 +34,7 @@ In his account of the *pukat*-fishing season at [[Ulee Lheue]] (also called Oleh
 
 The *banta* (deputy) was the regular subordinate of an uleebalang in [[Great Acheh]], and acted in his name in the territory under his master's jurisdiction. Where the uleebalang himself was absent or otherwise engaged, the *banta* took his place in the exaction of tribute and the maintenance of order. The institution of the *banta* was one of the principal means by which an uleebalang extended his effective reach across the gampongs of his mukim; the Teuku Sandang of Meura'sa is a typical example of the species.
 
-The name **Sandang** is also of importance in the political mythology of the Achehnese people, since one of the four ancient *suke'e*s (tribes) of [[Acheh]] — the [[Ja Sandang|Suke'e Ja Sandang]] — bore this name. That tribe, however, is distinct from the present Teuku Sandang: the latter is simply a personal name given to the cousin and *banta* of the Teuku Ne' of Meura'sa, while the former is the eponymous ancestor of a suke'e from which the [[Kali Malikul-adil|Kali Malikon Ade]] drew his origin.
+The name **Sandang** is also of importance in the political mythology of the Achehnese people, since one of the four ancient *suke'e*s (tribes) of [[Acheh]] — the [[Ja Sandang|Suke'e Ja Sandang]] — bore this name. That tribe, however, is distinct from the present Teuku Sandang: the latter is simply a personal name given to the cousin and *banta* of the Teuku Ne' of Meura'sa, while the former is the eponymous ancestor of a suke'e from which the [[Teuku Kali Malikon Ade|Kali Malikon Ade]] drew his origin.
 
 ## See Also
 

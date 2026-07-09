@@ -17,11 +17,11 @@ tags:
   - defense
 ---
 
-**J. Van der Weyden** (also rendered Van der Weijden) was a Lieutenant-Colonel of the General Staff of the [[K.N.I.L.|Nederlandsch-Indisch Leger]] and the son-in-law of [[J. B. van Heutsz]], best known as the author of a controversial defence brochure advocating mandatory military service for the native population of [[Netherlands India|Netherlands Indies]].
+**J. Van der Weyden** (also rendered Van der Weijden) was a Lieutenant-Colonel of the General Staff of the [[K.N.I.L.|Nederlandsch-Indisch Leger]] and the son-in-law of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]], best known as the author of a controversial defence brochure advocating mandatory military service for the native population of [[Netherlands India|Netherlands Indies]].
 
 ## Military Career
 
-Van der Weyden served as a Lieutenant-Colonel on the General Staff of the [[K.N.I.L.|N. I. Leger]] (*Nederlandsch-Indisch Leger*). He was the son-in-law (*schoonzoon*) of [[J. B. van Heutsz]], the former Civil and Military Governor of [[Acheh|Atjeh]] and later Governor-General of [[Netherlands India|Netherlands Indies]] ([[1904]]–[[1909]]).
+Van der Weyden served as a Lieutenant-Colonel on the General Staff of the [[K.N.I.L.|N. I. Leger]] (*Nederlandsch-Indisch Leger*). He was the son-in-law (*schoonzoon*) of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]], the former Civil and Military Governor of [[Acheh|Atjeh]] and later Governor-General of [[Netherlands India|Netherlands Indies]] ([[1904]]–[[1909]]).
 
 ## The Defence Brochure
 
@@ -29,7 +29,7 @@ Van der Weyden was the author of [[Van der Weyden's defense brochure|the brochur
 
 ## Collaboration with Van Heutsz
 
-[[Van der Maaten]] revealed in [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies|his pamphlet of 1917]] that the brochure was actually written in collaboration with [[J. B. van Heutsz]]. Pages 389–395 of the brochure were entirely in Van Heutsz's own hand. Van der Maaten argued the work should properly be called the "brochure Van Heutsz-Van der Weijden."
+[[Van der Maaten]] revealed in [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies|his pamphlet of 1917]] that the brochure was actually written in collaboration with [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]. Pages 389–395 of the brochure were entirely in Van Heutsz's own hand. Van der Maaten argued the work should properly be called the "brochure Van Heutsz-Van der Weijden."
 
 ## Promotion of Van Heutsz
 
@@ -45,7 +45,7 @@ Van der Weyden advocated that [[India]] should bear all defence costs, proposing
 
 ## See Also
 
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Van der Weyden's defense brochure]]
 - [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies]]
 - [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)]]
@@ -62,11 +62,11 @@ K. van der Maaten, *Z. E. De Oud Gouverneur-Generaal J. B. van Heutsz en de Defe
 ---
 
 
-**J. Van der Weyden** (also rendered Van der Weijden) was a Lieutenant-Colonel of the General Staff of the [[K.N.I.L.|Nederlandsch-Indisch Leger]] and the son-in-law of [[J. B. van Heutsz]], best known as the author of a controversial defence brochure advocating mandatory military service for the native population of [[Netherlands India|Netherlands Indies]].
+**J. Van der Weyden** (also rendered Van der Weijden) was a Lieutenant-Colonel of the General Staff of the [[K.N.I.L.|Nederlandsch-Indisch Leger]] and the son-in-law of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]], best known as the author of a controversial defence brochure advocating mandatory military service for the native population of [[Netherlands India|Netherlands Indies]].
 
 ## Military Career
 
-Van der Weyden served as a Lieutenant-Colonel on the General Staff of the [[K.N.I.L.|N. I. Leger]] (*Nederlandsch-Indisch Leger*). He was the son-in-law (*schoonzoon*) of [[J. B. van Heutsz]], the former Civil and Military Governor of [[Acheh|Atjeh]] and later Governor-General of [[Netherlands India|Netherlands Indies]] ([[1904]]–[[1909]]).
+Van der Weyden served as a Lieutenant-Colonel on the General Staff of the [[K.N.I.L.|N. I. Leger]] (*Nederlandsch-Indisch Leger*). He was the son-in-law (*schoonzoon*) of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]], the former Civil and Military Governor of [[Acheh|Atjeh]] and later Governor-General of [[Netherlands India|Netherlands Indies]] ([[1904]]–[[1909]]).
 
 ## The Defence Brochure
 
@@ -74,7 +74,7 @@ Van der Weyden was the author of [[Van der Weyden's defense brochure|the brochur
 
 ## Collaboration with Van Heutsz
 
-[[Van der Maaten]] revealed in [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies|his pamphlet of 1917]] that the brochure was actually written in collaboration with [[J. B. van Heutsz]]. Pages 389–395 of the brochure were entirely in Van Heutsz's own hand. Van der Maaten argued the work should properly be called the "brochure Van Heutsz-Van der Weijden."
+[[Van der Maaten]] revealed in [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies|his pamphlet of 1917]] that the brochure was actually written in collaboration with [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]. Pages 389–395 of the brochure were entirely in Van Heutsz's own hand. Van der Maaten argued the work should properly be called the "brochure Van Heutsz-Van der Weijden."
 
 ## Promotion of Van Heutsz
 
@@ -90,7 +90,7 @@ Van der Weyden advocated that [[India]] should bear all defence costs, proposing
 
 ## See Also
 
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Van der Weyden's defense brochure]]
 - [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies]]
 - [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)]]

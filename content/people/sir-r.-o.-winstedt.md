@@ -5,7 +5,7 @@ aliases: [Sir Richard Olof Winstedt, Richard Winstedt, R. O. Winstedt, Winstedt]
 tags: [person, scholar, british-orientalist, malay-scholarship, colonial-administrator, 20th-century, london, malaya]
 ---
 
-**Sir Richard Olof Winstedt** (1878–1966) — Sir R. O. Winstedt — was a British colonial administrator and Malay scholar, the leading British Malay scholar of his generation. He is acknowledged by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of Raniri's two Malay treatises for his help in the study of the Maxwell manuscript of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Raniri|Nūruddīn ar-Rānīrī]], first in London and later in Leiden, while the [[Royal Asiatic Society]] granted permission to reproduce the text of the second part.
+**Sir Richard Olof Winstedt** (1878–1966) — Sir R. O. Winstedt — was a British colonial administrator and Malay scholar, the leading British Malay scholar of his generation. He is acknowledged by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of Raniri's two Malay treatises for his help in the study of the Maxwell manuscript of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]], first in London and later in Leiden, while the [[Royal Asiatic Society]] granted permission to reproduce the text of the second part.
 
 ## The Maxwell manuscript of the *Ḥujjat*
 
@@ -19,7 +19,7 @@ Winstedt's help in the study of the Maxwell manuscript is one of the principal c
 
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Royal Asiatic Society]]
 
 ## Source
@@ -28,7 +28,7 @@ Winstedt's help in the study of the Maxwell manuscript is one of the principal c
 ---
 
 
-**Sir Richard Olof Winstedt** (1878–1966) — Sir R. O. Winstedt — was a British colonial administrator and Malay scholar, the leading British Malay scholar of his generation. He is acknowledged by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of Raniri's two Malay treatises for his help in the study of the Maxwell manuscript of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Raniri|Nūruddīn ar-Rānīrī]], first in London and later in Leiden, while the [[Royal Asiatic Society]] granted permission to reproduce the text of the second part.
+**Sir Richard Olof Winstedt** (1878–1966) — Sir R. O. Winstedt — was a British colonial administrator and Malay scholar, the leading British Malay scholar of his generation. He is acknowledged by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of Raniri's two Malay treatises for his help in the study of the Maxwell manuscript of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]], first in London and later in Leiden, while the [[Royal Asiatic Society]] granted permission to reproduce the text of the second part.
 
 ## The Maxwell manuscript of the *Ḥujjat*
 
@@ -42,7 +42,7 @@ Winstedt's help in the study of the Maxwell manuscript is one of the principal c
 
 - [[Hudjdjat as-siddiq li-daf az-zindiq]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Royal Asiatic Society]]
 
 ## Source

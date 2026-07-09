@@ -26,7 +26,7 @@ The inclusion of Lam Paya among the four kalis whose religious authority underpi
 
 - [[Krueng Kale]]
 - [[Kali Malikul Adil]]
-- [[Teuku Kali]]
+- [[Teuku Kali Malikon Ade|Teuku Kali]]
 - [[Teungku Lam Paya]]
 - [[XXV Mukims]]
 - [[Acheh]]

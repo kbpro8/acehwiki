@@ -18,7 +18,7 @@ The work's presence in Atjeh is also noted in Hooykaas's commentary on the *Sadj
 
 I. Lof aan de Schepper (Praise to the Creator); II. Geloofsgetuigenis (Testimony of faith); III. The Crown Prince's commission to improve an existing *Hikajat Malajoe*; IV. The Crown Prince's exordium on the *Bendahara*'s duty; V. The *Bendahara*'s credentials and genealogy; VI. The commissioning of the work; VII. The author's invocation; VIII. The author's disclaimer; IX. The naming of the work; X. The warning against heresy.
 
-The body of the work consists of twenty-four chapters of moral-political counsel: on the right use of counsel, on the keeping of treaties, on the right conduct of ministers, on the right conduct of judges, on the right conduct of religious officials, on the right conduct of war, and so on. The whole is, in Hooykaas's summary, "meer eenvoudig stichtelijk gehouden" (more simply edifying) than the *[[Bustanu's-Salatin|Boestan]]* of [[Nur al-Din al-Raniri|ar-Rānīrī]] — the second of the two Atjehnese mirrors treated by Hooykaas.
+The body of the work consists of twenty-four chapters of moral-political counsel: on the right use of counsel, on the keeping of treaties, on the right conduct of ministers, on the right conduct of judges, on the right conduct of religious officials, on the right conduct of war, and so on. The whole is, in Hooykaas's summary, "meer eenvoudig stichtelijk gehouden" (more simply edifying) than the *[[Bustan al-Salatin|Boestan]]* of [[Nur al-Din al-Raniri|ar-Rānīrī]] — the second of the two Atjehnese mirrors treated by Hooykaas.
 
 ## Literary Genre
 
@@ -26,7 +26,7 @@ The *Tādj oes-Salatina* is, in Hooykaas's reading, a *vorstenspiegel* — a "mi
 
 ## Persian-Muslim Source
 
-The *Tādj oes-Salatina* is, despite its Malay language and Atjehnese place of composition, Persian-Muslim in content: "Arabisch van titel, Perzisch-Moslimsch van inhoud, Maleis van taal, met Atjeh als plaats van vervaardiging" (Arabic in title, Persian-Muslim in content, Malay in language, with Atjeh as place of manufacture). The author drew his material — "ontleent zijn stof van talrijke anecdoten aan dezelfde en soortgelijke Moslimse verzamelwerken in de Perzische taal uit Voor-Indië" (derives his material, of numerous anecdotes, from the same and similar Muslim compilations in the Persian language from India) — from the same Persian-language Muslim compilations that also supplied the *[[Bustanu's-Salatin|Boestan oes-Salāṭīn]]* of [[Nur al-Din al-Raniri|ar-Rānīrī]].
+The *Tādj oes-Salatina* is, despite its Malay language and Atjehnese place of composition, Persian-Muslim in content: "Arabisch van titel, Perzisch-Moslimsch van inhoud, Maleis van taal, met Atjeh als plaats van vervaardiging" (Arabic in title, Persian-Muslim in content, Malay in language, with Atjeh as place of manufacture). The author drew his material — "ontleent zijn stof van talrijke anecdoten aan dezelfde en soortgelijke Moslimse verzamelwerken in de Perzische taal uit Voor-Indië" (derives his material, of numerous anecdotes, from the same and similar Muslim compilations in the Persian language from India) — from the same Persian-language Muslim compilations that also supplied the *[[Bustan al-Salatin|Boestan oes-Salāṭīn]]* of [[Nur al-Din al-Raniri|ar-Rānīrī]].
 
 ## Editions and Reception
 
@@ -34,11 +34,11 @@ The *Tādj oes-Salatina* circulated widely in manuscript and was edited by *ROOR
 
 ## Significance
 
-For AcehWiki, the *Tādj oes-Salatina* is significant as the earlier of the two principal Atjehnese-composed "mirrors for princes" (the other being [[Nur al-Din al-Raniri|ar-Rānīrī]]'s *[[Bustanu's-Salatin|Boestan oes-Salāṭīn]]* of [[1638]]). Its completion in Atjeh in [[1607]] — the year of [[Sultan Iskandar Muda|Iskandar Muda]]'s accession — places it at the threshold of the great Atjehnese seventeenth century, and its Persian-Muslim content illustrates the cosmopolitan literary culture of the late-sixteenth- and early-seventeenth-century Atjehnese court, in which Persian-language Muslim compilations were translated into Malay by Atjehnese-based scholars for an Atjehnese and Malay-Indonesian readership. The work's influence on the *Sadjarah Malajoe*'s *Bendahara* — who, during his Atjehnese captivity after [[1613]], would have become acquainted with the *Tādj* — is one of the literary-historical links between the Atjehnese and the Malay chronicle traditions.
+For AcehWiki, the *Tādj oes-Salatina* is significant as the earlier of the two principal Atjehnese-composed "mirrors for princes" (the other being [[Nur al-Din al-Raniri|ar-Rānīrī]]'s *[[Bustan al-Salatin|Boestan oes-Salāṭīn]]* of [[1638]]). Its completion in Atjeh in [[1607]] — the year of [[Sultan Iskandar Muda|Iskandar Muda]]'s accession — places it at the threshold of the great Atjehnese seventeenth century, and its Persian-Muslim content illustrates the cosmopolitan literary culture of the late-sixteenth- and early-seventeenth-century Atjehnese court, in which Persian-language Muslim compilations were translated into Malay by Atjehnese-based scholars for an Atjehnese and Malay-Indonesian readership. The work's influence on the *Sadjarah Malajoe*'s *Bendahara* — who, during his Atjehnese captivity after [[1613]], would have become acquainted with the *Tādj* — is one of the literary-historical links between the Atjehnese and the Malay chronicle traditions.
 
 ## See Also
 
-- [[Bustanu's-Salatin]]
+- [[Bustan al-Salatin|Bustanu's-Salatin]]
 - [[Nur al-Din al-Raniri]]
 - [[Sultan Iskandar Muda]]
 - [[Sadjarah Malajoe]]

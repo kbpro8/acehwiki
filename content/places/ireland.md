@@ -41,7 +41,7 @@ The mention of Ireland is otherwise incidental to the argument of *The Achehnese
 - [[Kuta Raja]]
 - [[Concentration Scheme]]
 - [[Acheh War]]
-- [[Van Heutsz's governorship]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz's governorship]]
 - [[C. Snouck Hurgronje]]
 - [[A. S. O'Sullivan]]
 - [[Acheh]]

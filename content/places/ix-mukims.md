@@ -16,7 +16,7 @@ In the chapter on the kawoms, Snouck Hurgronje notes that "a number of smaller k
 
 ## The Pepper-Saints of the IX Mukims
 
-The IX Mukims contained two of the most revered tombs associated with the pepper-planting cult. The famous **[[Teungku Lam Keuneu'eun]]**, whose tomb in the gampong of the same name in the IX Mukims has always been revered as sacred, was "delighted to call himself the servant of the tomb" of [[Teungku Lam Peuneu'eun]]. The latter's tomb, in the gampong of [[Lam Peuneu'eun]] in the IX Mukims, gave rise to the *[[Kanduri bungong lada (Pepper-blossom feast)|kanduri bungong lada]]*, annually celebrated on the East and West Coasts when the pepper blossoms. Both these saints were credited with the miraculous origin of the pepper-plant in Acheh: the first pepper-plants were said to have grown from the seeds of kapok planted by an Achehnese saint, in a legend parallel to the Arab story of the first coffee-trees at [[Mokha]].
+The IX Mukims contained two of the most revered tombs associated with the pepper-planting cult. The famous **[[Teungku Lam Peuneu'eun|Teungku Lam Keuneu'eun]]**, whose tomb in the gampong of the same name in the IX Mukims has always been revered as sacred, was "delighted to call himself the servant of the tomb" of [[Teungku Lam Peuneu'eun]]. The latter's tomb, in the gampong of [[Lam Peuneu'eun]] in the IX Mukims, gave rise to the *[[Kanduri bungong lada (Pepper-blossom feast)|kanduri bungong lada]]*, annually celebrated on the East and West Coasts when the pepper blossoms. Both these saints were credited with the miraculous origin of the pepper-plant in Acheh: the first pepper-plants were said to have grown from the seeds of kapok planted by an Achehnese saint, in a legend parallel to the Arab story of the first coffee-trees at [[Mokha]].
 
 ## See Also
 
@@ -25,7 +25,7 @@ The IX Mukims contained two of the most revered tombs associated with the pepper
 - [[VI Mukims]]
 - [[Meura'sa]]
 - [[Teuku Ne' Peureuba Wangsa]]
-- [[Teungku Lam Keuneu'eun]]
+- [[Teungku Lam Peuneu'eun|Teungku Lam Keuneu'eun]]
 - [[Teungku Lam Peuneu'eun]]
 - [[Eumpèe Blieng]]
 - [[Kanduri bungong lada (Pepper-blossom feast)]]

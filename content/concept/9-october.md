@@ -4,7 +4,7 @@ aliases: [9 October, 9 October 1879]
 tags: [concept, date, aceh, colonial, meusigit-raja]
 ---
 
-**[[9 October]]** is the date of the laying of the first stone of the [[Meusigit Raja]] of [[Koeta-Radja|Koeta Radja]] on [[9 October]] [[1879]] — in the presence of Governor-General [[Van Lansberge|Van Lansberge]], all the civil and military authorities, and many Acehnese chiefs and clergy. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), [[9 October]] is the book's marker of the first stone of the Meusigit Raja.
+**[[9 October]]** is the date of the laying of the first stone of the [[Meusigit Raja]] of [[Koeta-Radja|Koeta Radja]] on [[9 October]] [[1879]] — in the presence of Governor-General [[Johan Willem van Lansberge|Johan Willem van Lansberge]], all the civil and military authorities, and many Acehnese chiefs and clergy. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), [[9 October]] is the book's marker of the first stone of the Meusigit Raja.
 
 ## The first stone
 
@@ -18,7 +18,7 @@ tags: [concept, date, aceh, colonial, meusigit-raja]
 
 - [[Oost-Indisch Journael]]
 - [[Meusigit Raja]]
-- [[Van Lansberge]]
+- [[Johan Willem van Lansberge|Van Lansberge]]
 - [[generaal Van Swieten]]
 - [[1879]]
 - [[1881]]

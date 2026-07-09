@@ -13,7 +13,7 @@ The expedition succeeded in establishing a Dutch foothold on the east coast, but
 ## See Also
 - [[Edi (Atjeh)]]
 - [[Atjeh]]
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[1890]]
 
 ## Source

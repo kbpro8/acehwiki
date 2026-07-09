@@ -4,7 +4,7 @@ aliases: [Pasé Expedition, Pasai expedition, Pase expedition]
 tags: [event, war, aceh, knil, colonial]
 ---
 
-**The Pasé Expedition** was one of the great successes of the glorious period of Van Heutsz in the [[Atjeh-oorlog|Aceh War]], the third-named of the expeditions and excursions that [[Musket]] lists in *[[Oost-Indisch Journael]]* by Merac ([[1947]]). The Pasé Expedition was the expedition to the Pasé region of [[Atjeh|Aceh]] — the region of the [[Pasé Samoedrase rijk|Samudra Pasai kingdom]] — conducted under [[Gouverneur-Generaal Van Heutsz|Van Heutsz]] as part of the all-out offensive.
+**The Pasé Expedition** was one of the great successes of the glorious period of Van Heutsz in the [[Atjeh-oorlog|Aceh War]], the third-named of the expeditions and excursions that [[Musket]] lists in *[[Oost-Indisch Journael]]* by Merac ([[1947]]). The Pasé Expedition was the expedition to the Pasé region of [[Atjeh|Aceh]] — the region of the [[Pasé Samoedrase rijk|Samudra Pasai kingdom]] — conducted under [[Joannes Benedictus van Heutsz|Van Heutsz]] as part of the all-out offensive.
 
 ## The great successes of the glorious period
 
@@ -18,7 +18,7 @@ The Pasé Expedition is significant in *[[Oost-Indisch Journael]]* as one of the
 
 - [[Oost-Indisch Journael]]
 - [[Musket]]
-- [[Gouverneur-Generaal Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Pidië-expeditie]]
 - [[Samalanga-expeditie]]
 - [[Pasé Samoedrase rijk]]

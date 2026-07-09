@@ -33,7 +33,7 @@ The head of the government of "Sumatra's Oostkust, Atjeh en Onderhoorigheden en 
 
 The atlas provides a crucial account of the transformation of policy towards the Buitengewesten: "De Buitengewesten stonden hierin bij Java ten achter. Toen echter op het einde van de vorige eeuw de politiek van onthouding ten aanzien van deze gewesten werd verlaten en onder den Gouverneur-Generaal Van Heutsz werd vervangen door een krachtige en doelbewuste politiek van het onder ons gezag brengen er van, werd ook ingezien, dat daartoe een behoorlijk wegennet een eerste voorwaarde was."
 
-(The Outer Territories lag behind Java in this regard. When, however, at the end of the previous century the [[Onthoudingspolitiek|policy of abstention]] towards these territories was abandoned and, under the Governor-General [[Governor Van Heutsz|Van Heutsz]], was replaced by an energetic and purposeful policy of bringing them under our authority, it was also recognised that a proper road network was a first prerequisite for this.)
+(The Outer Territories lag behind Java in this regard. When, however, at the end of the previous century the [[Onthoudingspolitiek|policy of abstention]] towards these territories was abandoned and, under the Governor-General [[Joannes Benedictus van Heutsz|Van Heutsz]], was replaced by an energetic and purposeful policy of bringing them under our authority, it was also recognised that a proper road network was a first prerequisite for this.)
 
 ### Transport and Waterways
 
@@ -47,7 +47,7 @@ Governor Van Heutsz's period as Governor-General ([[1905]]–[[1909]]) "kenmerkt
 
 The *buitengewesten* are significant in *[[Oom Ambon van het K.N.I.L.]]* as the K.N.I.L. territories outside Java — the place where the colonial army's counter-insurgency work was done. The book's argument is that the *buitengewesten* — geographically and organisationally distinct from Java — were where the *colonne* method was developed, where the *[[bivak]]* was built, where the *[[bekas]]* was read. The *buitengewesten* are therefore the book's marker of the colonial army's actual workplace: the outer territories where the [[Atjeh-oorlog|Aceh War]] and the other colonial pacifications were fought.
 
-The *Nederlandsch Indië Platen Atlas* ([[1926]]) further underscores the importance of the Buitengewesten in the official colonial reckoning. By that year, the transformation of the Outer Territories was sufficiently advanced that the atlas could boast of automobile travel from [[Kota Radja]] in Atjeh to [[Padang]], and the expansion of the Atjeh and Deli railway networks. The shift from the *onthoudingspolitiek* to an active policy of pacification — completed under [[Governor Van Heutsz]] — was presented as the defining achievement of the latest phase of Dutch colonial history.
+The *Nederlandsch Indië Platen Atlas* ([[1926]]) further underscores the importance of the Buitengewesten in the official colonial reckoning. By that year, the transformation of the Outer Territories was sufficiently advanced that the atlas could boast of automobile travel from [[Kota Radja]] in Atjeh to [[Padang]], and the expansion of the Atjeh and Deli railway networks. The shift from the *onthoudingspolitiek* to an active policy of pacification — completed under [[Joannes Benedictus van Heutsz|Governor Van Heutsz]] — was presented as the defining achievement of the latest phase of Dutch colonial history.
 
 ## See Also
 
@@ -62,7 +62,7 @@ The *Nederlandsch Indië Platen Atlas* ([[1926]]) further underscores the import
 - [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
 - [[Java]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[Pacification of Atjeh]]
 - [[Kota Radja]]
 - [[Aceh Railway]]

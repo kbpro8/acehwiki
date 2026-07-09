@@ -13,7 +13,7 @@ The **Panglima Meuseugit Raya** was the hereditary holder of one of the principa
 
 ## Position among the four capital chiefs
 
-The Panglima Meuseugit Raya was one of the four chiefs upon whom the sultan was traditionally obliged to consult in all matters of importance, the others being [[Teuku Kali]] (the Teuku Kali Malikon Ade), [[Teuku Ne' of Meura'sa]] and the [[Imeum of Lueng Bata]]. Snouck emphasises that this dependence was no mere formality: the sultan, he writes, "could do nothing without consulting" these four, who were in turn dependent upon the decision of the three sagis of [[Great Acheh]]. On the day of the [[Coronation of the Sultan]], the Panglima Meuseugit Raya was expected to be at his post keeping order within the Dalam, while the Teuku Kali Malikon Ade discharged his functions in the open space around the *branda seuallah* (the royal verandah).
+The Panglima Meuseugit Raya was one of the four chiefs upon whom the sultan was traditionally obliged to consult in all matters of importance, the others being [[Teuku Kali Malikon Ade|Teuku Kali]] (the Teuku Kali Malikon Ade), [[Teuku Ne' of Meura'sa]] and the [[Imeum of Lueng Bata]]. Snouck emphasises that this dependence was no mere formality: the sultan, he writes, "could do nothing without consulting" these four, who were in turn dependent upon the decision of the three sagis of [[Great Acheh]]. On the day of the [[Installation of a New Sultan|Coronation of the Sultan]], the Panglima Meuseugit Raya was expected to be at his post keeping order within the Dalam, while the Teuku Kali Malikon Ade discharged his functions in the open space around the *branda seuallah* (the royal verandah).
 
 ## Loss of territory to Teuku Kali Malikon Ade
 
@@ -49,7 +49,7 @@ The **Panglima Meuseugit Raya** was the hereditary holder of one of the principa
 
 ## Position among the four capital chiefs
 
-The Panglima Meuseugit Raya was one of the four chiefs upon whom the sultan was traditionally obliged to consult in all matters of importance, the others being [[Teuku Kali]] (the Teuku Kali Malikon Ade), [[Teuku Ne' of Meura'sa]] and the [[Imeum of Lueng Bata]]. Snouck emphasises that this dependence was no mere formality: the sultan, he writes, "could do nothing without consulting" these four, who were in turn dependent upon the decision of the three sagis of [[Great Acheh]]. On the day of the [[Coronation of the Sultan]], the Panglima Meuseugit Raya was expected to be at his post keeping order within the Dalam, while the Teuku Kali Malikon Ade discharged his functions in the open space around the *branda seuallah* (the royal verandah).
+The Panglima Meuseugit Raya was one of the four chiefs upon whom the sultan was traditionally obliged to consult in all matters of importance, the others being [[Teuku Kali Malikon Ade|Teuku Kali]] (the Teuku Kali Malikon Ade), [[Teuku Ne' of Meura'sa]] and the [[Imeum of Lueng Bata]]. Snouck emphasises that this dependence was no mere formality: the sultan, he writes, "could do nothing without consulting" these four, who were in turn dependent upon the decision of the three sagis of [[Great Acheh]]. On the day of the [[Installation of a New Sultan|Coronation of the Sultan]], the Panglima Meuseugit Raya was expected to be at his post keeping order within the Dalam, while the Teuku Kali Malikon Ade discharged his functions in the open space around the *branda seuallah* (the royal verandah).
 
 ## Loss of territory to Teuku Kali Malikon Ade
 

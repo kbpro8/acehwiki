@@ -18,7 +18,7 @@ The proposed merger of the Westkust with Groot-Atjeh carried significant implica
 
 ## See Also
 
-[[H. N. N. A. Swart]], [[W. Doornik]], [[Westkust van Atjeh]], [[Groot-Atjeh]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Noord-Sumatra (proposed gewest)]], [[Sagi]], [[Uleëbalang]]
+[[H. N. A. Swart|H. N. N. A. Swart]], [[W. Doornik]], [[Westkust van Atjeh]], [[Groot-Atjeh]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Noord-Sumatra (proposed gewest)]], [[Sagi]], [[Uleëbalang]]
 
 ## Source
 

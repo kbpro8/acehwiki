@@ -28,7 +28,7 @@ The [[Aceh War|Atjeh-oorlog]] of [[1873]]-[[1903]] placed a severe strain on Net
 
 ## Reforms
 
-The period covered by the source work saw important reforms in Netherlands India: the [[ordonnantie]] of [[6 May]] [[6 May]] [[1872]] establishing the *wetboek van strafrecht voor inlanders* (penal code for natives); the introduction of the [[personeele belasting|personeele belasting]] and [[patentrecht|patentrecht]] for Europeans and foreign Orientals in [[1879]]; the great harbour works at [[Tandjong Priok|Tandjong Priok]]; the construction of the state railways on Java; the gradual reduction of the [[cultuurdiensten|cultuurdiensten]] and [[heerendiensten|heerendiensten]]; and the [[Conversiequaestie|conversiequaestie]] over the conversion of communal into individual land ownership.
+The period covered by the source work saw important reforms in Netherlands India: the [[ordonnantie]] of [[6 May]] [[6 May]] [[1872]] establishing the *wetboek van strafrecht voor inlanders* (penal code for natives); the introduction of the [[personeele belasting|personeele belasting]] and [[patentrecht|patentrecht]] for Europeans and foreign Orientals in [[1879]]; the great harbour works at [[Tanjung Priok|Tanjung Priok]]; the construction of the state railways on Java; the gradual reduction of the [[cultuurdiensten|cultuurdiensten]] and [[heerendiensten|heerendiensten]]; and the [[Conversiequaestie|conversiequaestie]] over the conversion of communal into individual land ownership.
 
 ## See Also
 
@@ -36,9 +36,9 @@ The period covered by the source work saw important reforms in Netherlands India
 - [[Council of Netherlands India]]
 - [[Indies Army]]
 - [[J. Loudon]]
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[Aceh War]]
-- [[Tandjong Priok]]
+- [[Tanjung Priok|Tandjong Priok]]
 - [[Personeele belasting]]
 - [[Patentrecht]]
 - [[Conversiequaestie]]
@@ -75,7 +75,7 @@ The [[Aceh War|Atjeh-oorlog]] of [[1873]]-[[1903]] placed a severe strain on Net
 
 ## Reforms
 
-The period covered by the source work saw important reforms in Netherlands India: the [[ordonnantie]] of [[6 May]] [[6 May]] [[1872]] establishing the *wetboek van strafrecht voor inlanders* (penal code for natives); the introduction of the [[personeele belasting|personeele belasting]] and [[patentrecht|patentrecht]] for Europeans and foreign Orientals in [[1879]]; the great harbour works at [[Tandjong Priok|Tandjong Priok]]; the construction of the state railways on Java; the gradual reduction of the [[cultuurdiensten|cultuurdiensten]] and [[heerendiensten|heerendiensten]]; and the [[Conversiequaestie|conversiequaestie]] over the conversion of communal into individual land ownership.
+The period covered by the source work saw important reforms in Netherlands India: the [[ordonnantie]] of [[6 May]] [[6 May]] [[1872]] establishing the *wetboek van strafrecht voor inlanders* (penal code for natives); the introduction of the [[personeele belasting|personeele belasting]] and [[patentrecht|patentrecht]] for Europeans and foreign Orientals in [[1879]]; the great harbour works at [[Tanjung Priok|Tanjung Priok]]; the construction of the state railways on Java; the gradual reduction of the [[cultuurdiensten|cultuurdiensten]] and [[heerendiensten|heerendiensten]]; and the [[Conversiequaestie|conversiequaestie]] over the conversion of communal into individual land ownership.
 
 ## See Also
 
@@ -83,9 +83,9 @@ The period covered by the source work saw important reforms in Netherlands India
 - [[Council of Netherlands India]]
 - [[Indies Army]]
 - [[J. Loudon]]
-- [[J. W. van Lansberge]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[Aceh War]]
-- [[Tandjong Priok]]
+- [[Tanjung Priok|Tandjong Priok]]
 - [[Personeele belasting]]
 - [[Patentrecht]]
 - [[Conversiequaestie]]

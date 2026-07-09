@@ -5,7 +5,7 @@ aliases: [Falck, A. R. Falck, minister Falck]
 tags: [person, dutch-official, minister, diplomat]
 ---
 
-**Anton Reinhard Falck** (1777–1843) was a Dutch statesman who served successively as minister of Education, National Industry, and Colonies, and as the Netherlands' plenipotentiary at [[London]] during the negotiations that produced the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]]. In P. H. van der Kemp's 1900 article he is one of the principal objects of criticism, together with his colleague [[Hendrik Fagel|Fagel]]: Van der Kemp charges that the Dutch plenipotentiaries were "not suited to their task," that they "had too good an opinion of their counterparties," and that they "trusted too much in the honesty of our mighty neighbour and natural ally." The article's central irony is that Falck, returning from London in triumph, wrote privately to his friend [[J. H. van der Palm|J. H. van der Palm]] of having "for the first time placed all of Sumatra outside the sphere of British influence," while in fact — through the mishandling of the Acheh reservation — he had opened the door to half a century of Anglo-Dutch dispute over the island.
+**Anton Reinhard Falck** (1777–1843) was a Dutch statesman who served successively as minister of Education, National Industry, and Colonies, and as the Netherlands' plenipotentiary at [[London]] during the negotiations that produced the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]]. In P. H. van der Kemp's 1900 article he is one of the principal objects of criticism, together with his colleague [[Hendrik Fagel|Fagel]]: Van der Kemp charges that the Dutch plenipotentiaries were "not suited to their task," that they "had too good an opinion of their counterparties," and that they "trusted too much in the honesty of our mighty neighbour and natural ally." The article's central irony is that Falck, returning from London in triumph, wrote privately to his friend [[J. H. van der Palm|J. H. van der Palm]] of having "for the first time placed all of Sumatra outside the sphere of British influence," while in fact — through the mishandling of the Acheh reservation — he had opened the door to half a century of Anglo-Dutch dispute over the island.
 
 ## Background: The 1814 Treaty and Falck's Earlier Work
 
@@ -17,7 +17,7 @@ The financial disputes outstanding from the [[Convention of 24 January 1817|conv
 
 ## The Acheh Reservation
 
-The single most consequential episode in Van der Kemp's treatment of Falck concerns the raising of the [[Acheh treaty of 1819|Acheh treaty of 1819]] at the eleventh hour of the negotiations. Neither Falck nor Fagel had read the Acheh treaty when, on the eve of [[Captain Elout|Captain Elout]]'s departure for The Hague with the draft, the British plenipotentiaries mentioned its existence and described it as a mere engagement of hospitality to shipwrecked British sailors. The Dutch, on this representation, raised no objection. When the Acheh treaty was at last read out in London on 23 February 1824, it proved to be far from innocent — having been contrived by [[Sir Thomas Stamford Raffles|Raffles]] to vest British sovereignty at [[Acheh]]. Falck and Fagel, instead of repudiating the concession, accepted it; they even went beyond the King's instructions in agreeing to guarantee Acheh's independence in the supplementary notes exchanged at the signing of the treaty. This guarantee became, in Van der Kemp's analysis, the "Trojan horse" by which Britain retained a foothold of influence on Sumatra until the [[Sumatra Treaty of 1871|Sumatra Treaty of 1871]].
+The single most consequential episode in Van der Kemp's treatment of Falck concerns the raising of the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]] at the eleventh hour of the negotiations. Neither Falck nor Fagel had read the Acheh treaty when, on the eve of [[Captain Elout|Captain Elout]]'s departure for The Hague with the draft, the British plenipotentiaries mentioned its existence and described it as a mere engagement of hospitality to shipwrecked British sailors. The Dutch, on this representation, raised no objection. When the Acheh treaty was at last read out in London on 23 February 1824, it proved to be far from innocent — having been contrived by [[Sir Thomas Stamford Raffles|Raffles]] to vest British sovereignty at [[Acheh]]. Falck and Fagel, instead of repudiating the concession, accepted it; they even went beyond the King's instructions in agreeing to guarantee Acheh's independence in the supplementary notes exchanged at the signing of the treaty. This guarantee became, in Van der Kemp's analysis, the "Trojan horse" by which Britain retained a foothold of influence on Sumatra until the [[Sumatra Treaty of 1871|Sumatra Treaty of 1871]].
 
 ## Falck's Private Correspondence
 
@@ -37,8 +37,8 @@ For Van der Kemp, Falck's career on the colonial stage raises a direct question 
 - [[J. H. van der Palm]]
 - [[J. C. Baud]]
 - [[Sir Thomas Stamford Raffles]]
-- [[Anglo-Dutch Treaty of London (1824)]]
-- [[Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Treaty of Pedir (1819)]]
 - [[Elout's advice of 12 February 1824]]
 - [[Raising of the Acheh treaty in London negotiations]]
@@ -53,7 +53,7 @@ For Van der Kemp, Falck's career on the colonial stage raises a direct question 
 ---
 
 
-**Anton Reinhard Falck** (1777–1843) was a Dutch statesman who served successively as minister of Education, National Industry, and Colonies, and as the Netherlands' plenipotentiary at [[London]] during the negotiations that produced the [[Anglo-Dutch Treaty of London (1824)|Anglo-Dutch Treaty of London of 17 March 1824]]. In P. H. van der Kemp's 1900 article he is one of the principal objects of criticism, together with his colleague [[Hendrik Fagel|Fagel]]: Van der Kemp charges that the Dutch plenipotentiaries were "not suited to their task," that they "had too good an opinion of their counterparties," and that they "trusted too much in the honesty of our mighty neighbour and natural ally." The article's central irony is that Falck, returning from London in triumph, wrote privately to his friend [[J. H. van der Palm|J. H. van der Palm]] of having "for the first time placed all of Sumatra outside the sphere of British influence," while in fact — through the mishandling of the Acheh reservation — he had opened the door to half a century of Anglo-Dutch dispute over the island.
+**Anton Reinhard Falck** (1777–1843) was a Dutch statesman who served successively as minister of Education, National Industry, and Colonies, and as the Netherlands' plenipotentiary at [[London]] during the negotiations that produced the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London of 17 March 1824]]. In P. H. van der Kemp's 1900 article he is one of the principal objects of criticism, together with his colleague [[Hendrik Fagel|Fagel]]: Van der Kemp charges that the Dutch plenipotentiaries were "not suited to their task," that they "had too good an opinion of their counterparties," and that they "trusted too much in the honesty of our mighty neighbour and natural ally." The article's central irony is that Falck, returning from London in triumph, wrote privately to his friend [[J. H. van der Palm|J. H. van der Palm]] of having "for the first time placed all of Sumatra outside the sphere of British influence," while in fact — through the mishandling of the Acheh reservation — he had opened the door to half a century of Anglo-Dutch dispute over the island.
 
 ## Background: The 1814 Treaty and Falck's Earlier Work
 
@@ -65,7 +65,7 @@ The financial disputes outstanding from the [[Convention of 24 January 1817|conv
 
 ## The Acheh Reservation
 
-The single most consequential episode in Van der Kemp's treatment of Falck concerns the raising of the [[Acheh treaty of 1819|Acheh treaty of 1819]] at the eleventh hour of the negotiations. Neither Falck nor Fagel had read the Acheh treaty when, on the eve of [[Captain Elout|Captain Elout]]'s departure for The Hague with the draft, the British plenipotentiaries mentioned its existence and described it as a mere engagement of hospitality to shipwrecked British sailors. The Dutch, on this representation, raised no objection. When the Acheh treaty was at last read out in London on 23 February 1824, it proved to be far from innocent — having been contrived by [[Sir Thomas Stamford Raffles|Raffles]] to vest British sovereignty at [[Acheh]]. Falck and Fagel, instead of repudiating the concession, accepted it; they even went beyond the King's instructions in agreeing to guarantee Acheh's independence in the supplementary notes exchanged at the signing of the treaty. This guarantee became, in Van der Kemp's analysis, the "Trojan horse" by which Britain retained a foothold of influence on Sumatra until the [[Sumatra Treaty of 1871|Sumatra Treaty of 1871]].
+The single most consequential episode in Van der Kemp's treatment of Falck concerns the raising of the [[Treaty of Pedir (1819)|Treaty of Pedir (1819)]] at the eleventh hour of the negotiations. Neither Falck nor Fagel had read the Acheh treaty when, on the eve of [[Captain Elout|Captain Elout]]'s departure for The Hague with the draft, the British plenipotentiaries mentioned its existence and described it as a mere engagement of hospitality to shipwrecked British sailors. The Dutch, on this representation, raised no objection. When the Acheh treaty was at last read out in London on 23 February 1824, it proved to be far from innocent — having been contrived by [[Sir Thomas Stamford Raffles|Raffles]] to vest British sovereignty at [[Acheh]]. Falck and Fagel, instead of repudiating the concession, accepted it; they even went beyond the King's instructions in agreeing to guarantee Acheh's independence in the supplementary notes exchanged at the signing of the treaty. This guarantee became, in Van der Kemp's analysis, the "Trojan horse" by which Britain retained a foothold of influence on Sumatra until the [[Sumatra Treaty of 1871|Sumatra Treaty of 1871]].
 
 ## Falck's Private Correspondence
 
@@ -85,8 +85,8 @@ For Van der Kemp, Falck's career on the colonial stage raises a direct question 
 - [[J. H. van der Palm]]
 - [[J. C. Baud]]
 - [[Sir Thomas Stamford Raffles]]
-- [[Anglo-Dutch Treaty of London (1824)]]
-- [[Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Treaty of Pedir (1819)]]
 - [[Elout's advice of 12 February 1824]]
 - [[Raising of the Acheh treaty in London negotiations]]

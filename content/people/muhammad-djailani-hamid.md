@@ -5,7 +5,7 @@ aliases: [Muhammad Jailani Hamid, Muhammad Djailani, Muhammad Jailani, Muhammad 
 tags: [person, scholar, religious-figure, islamic-scholar, sufi, precolonial, 16th-century, 17th-century, gujarati, arab-descent, aceh, mecca]
 ---
 
-**Muhammad Djailani Hamid** — also written **Muḥammad Jaylānī Ḥamīd** — was a Gujarati scholar of Arab descent, the uncle of [[Raniri|Nūruddīn ar-Rānīrī]], who made the first recorded visit of the family to [[Acheh]] between [[1580]] and [[1583]]. He is the immediate predecessor of Raniri in the Gujarati-Ḥadramī network that linked the religious scholarship of [[Gudjarat|Gujarat]] with the Achehnese court, and his experience of Acheh — narrated by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of Raniri's two Malay treatises — is the precedent on which Raniri himself drew when he left for Acheh in [[1637]].
+**Muhammad Djailani Hamid** — also written **Muḥammad Jaylānī Ḥamīd** — was a Gujarati scholar of Arab descent, the uncle of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]], who made the first recorded visit of the family to [[Acheh]] between [[1580]] and [[1583]]. He is the immediate predecessor of Raniri in the Gujarati-Ḥadramī network that linked the religious scholarship of [[Gudjarat|Gujarat]] with the Achehnese court, and his experience of Acheh — narrated by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of Raniri's two Malay treatises — is the precedent on which Raniri himself drew when he left for Acheh in [[1637]].
 
 ## The first visit to Acheh (1580–1583)
 
@@ -17,7 +17,7 @@ Some years later — Voorhoeve does not give the date — Muhammad Djailani Hami
 
 ## Significance for Raniri
 
-Raniri, Voorhoeve records, "has learned from the experiences of his uncle": when he himself left for Acheh in [[1637]] he was thoroughly prepared. He knew the *[[Bahasa Djawi]]*, the Malay that was the language of the court in Acheh, and had already written two works in it, while a third was in progress. He had also penetrated into mysticism, having been initiated into the [[Rifa'iyah order|Rifāʿiyya]] of [[Ahmad Rifa'i]] by his shaikh [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]]. The success of Muhammad Djailani's *second* visit — the visit on which the scholar returned with the *venia docendi* in mystical theology — established the precedent that Raniri was to put into practice in [[1637]]: that an orthodox mystic of the Gujarati-Ḥadramī network could find a hearing at the Achehnese court, provided he came as a teacher of mysticism.
+Raniri, Voorhoeve records, "has learned from the experiences of his uncle": when he himself left for Acheh in [[1637]] he was thoroughly prepared. He knew the *[[Bahasa Djawi]]*, the Malay that was the language of the court in Acheh, and had already written two works in it, while a third was in progress. He had also penetrated into mysticism, having been initiated into the [[Rifa'iyah order|Rifāʿiyya]] of [[Ahmad ar-Rifāʿī|Ahmad Rifa'i]] by his shaikh [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]]. The success of Muhammad Djailani's *second* visit — the visit on which the scholar returned with the *venia docendi* in mystical theology — established the precedent that Raniri was to put into practice in [[1637]]: that an orthodox mystic of the Gujarati-Ḥadramī network could find a hearing at the Achehnese court, provided he came as a teacher of mysticism.
 
 ## Sources
 
@@ -31,7 +31,7 @@ The information on Muhammad Djailani Hamid is drawn from [[G. K. Niemann|Niemann
 - [[Mecca]]
 - [[Muhammad Djailani Hamid's first visit to Acheh]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's arrival in Acheh (1637)]]
 - [[Rifa'iyah order]]
 - [[Sajjid Abu Hafs Umar Ba Sjaiban]]
@@ -45,7 +45,7 @@ The information on Muhammad Djailani Hamid is drawn from [[G. K. Niemann|Niemann
 ---
 
 
-**Muhammad Djailani Hamid** — also written **Muḥammad Jaylānī Ḥamīd** — was a Gujarati scholar of Arab descent, the uncle of [[Raniri|Nūruddīn ar-Rānīrī]], who made the first recorded visit of the family to [[Acheh]] between [[1580]] and [[1583]]. He is the immediate predecessor of Raniri in the Gujarati-Ḥadramī network that linked the religious scholarship of [[Gudjarat|Gujarat]] with the Achehnese court, and his experience of Acheh — narrated by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of Raniri's two Malay treatises — is the precedent on which Raniri himself drew when he left for Acheh in [[1637]].
+**Muhammad Djailani Hamid** — also written **Muḥammad Jaylānī Ḥamīd** — was a Gujarati scholar of Arab descent, the uncle of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]], who made the first recorded visit of the family to [[Acheh]] between [[1580]] and [[1583]]. He is the immediate predecessor of Raniri in the Gujarati-Ḥadramī network that linked the religious scholarship of [[Gudjarat|Gujarat]] with the Achehnese court, and his experience of Acheh — narrated by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of Raniri's two Malay treatises — is the precedent on which Raniri himself drew when he left for Acheh in [[1637]].
 
 ## The first visit to Acheh (1580–1583)
 
@@ -57,7 +57,7 @@ Some years later — Voorhoeve does not give the date — Muhammad Djailani Hami
 
 ## Significance for Raniri
 
-Raniri, Voorhoeve records, "has learned from the experiences of his uncle": when he himself left for Acheh in [[1637]] he was thoroughly prepared. He knew the *[[Bahasa Djawi]]*, the Malay that was the language of the court in Acheh, and had already written two works in it, while a third was in progress. He had also penetrated into mysticism, having been initiated into the [[Rifa'iyah order|Rifāʿiyya]] of [[Ahmad Rifa'i]] by his shaikh [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]]. The success of Muhammad Djailani's *second* visit — the visit on which the scholar returned with the *venia docendi* in mystical theology — established the precedent that Raniri was to put into practice in [[1637]]: that an orthodox mystic of the Gujarati-Ḥadramī network could find a hearing at the Achehnese court, provided he came as a teacher of mysticism.
+Raniri, Voorhoeve records, "has learned from the experiences of his uncle": when he himself left for Acheh in [[1637]] he was thoroughly prepared. He knew the *[[Bahasa Djawi]]*, the Malay that was the language of the court in Acheh, and had already written two works in it, while a third was in progress. He had also penetrated into mysticism, having been initiated into the [[Rifa'iyah order|Rifāʿiyya]] of [[Ahmad ar-Rifāʿī|Ahmad Rifa'i]] by his shaikh [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]]. The success of Muhammad Djailani's *second* visit — the visit on which the scholar returned with the *venia docendi* in mystical theology — established the precedent that Raniri was to put into practice in [[1637]]: that an orthodox mystic of the Gujarati-Ḥadramī network could find a hearing at the Achehnese court, provided he came as a teacher of mysticism.
 
 ## Sources
 
@@ -71,7 +71,7 @@ The information on Muhammad Djailani Hamid is drawn from [[G. K. Niemann|Niemann
 - [[Mecca]]
 - [[Muhammad Djailani Hamid's first visit to Acheh]]
 - [[P. Voorhoeve]]
-- [[Raniri]]
+- [[Nur al-Din al-Raniri|Raniri]]
 - [[Raniri's arrival in Acheh (1637)]]
 - [[Rifa'iyah order]]
 - [[Sajjid Abu Hafs Umar Ba Sjaiban]]

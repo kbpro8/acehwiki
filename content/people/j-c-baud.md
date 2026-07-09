@@ -5,7 +5,7 @@ aliases: [Baud, Jean Chrétien Baud, Joan Cornelis Baud]
 tags: [person, dutch-official, colonial-administrator]
 ---
 
-**Jean Chrétien Baud** (1789–1859) was a Dutch colonial administrator, sometime Governor-General of the Netherlands East Indies (1833–1836), and the author of a remarkable private letter to [[Anton Reinhard Falck|Minister Falck]] of 28 November 1822 in which he advocated a vigorous Dutch colonisation of the East Indian archipelago as a counterweight to foreign — and especially North American — encroachment. The letter, preserved in P. Meyer's biography of Baud (1878), is cited by [[P. H. van der Kemp|Van der Kemp]] in his discussion of the [[Anglo-Dutch Treaty of London (1824)|treaty negotiations of 1824]] as a prescient warning of the very danger that the British plenipotentiaries would, a few months later, raise at the London conference table.
+**Jean Chrétien Baud** (1789–1859) was a Dutch colonial administrator, sometime Governor-General of the Netherlands East Indies (1833–1836), and the author of a remarkable private letter to [[Anton Reinhard Falck|Minister Falck]] of 28 November 1822 in which he advocated a vigorous Dutch colonisation of the East Indian archipelago as a counterweight to foreign — and especially North American — encroachment. The letter, preserved in P. Meyer's biography of Baud (1878), is cited by [[P. H. van der Kemp|Van der Kemp]] in his discussion of the [[Anglo-Dutch Treaty of 1824|treaty negotiations of 1824]] as a prescient warning of the very danger that the British plenipotentiaries would, a few months later, raise at the London conference table.
 
 ## The Letter to Falck of 28 November 1822
 
@@ -13,7 +13,7 @@ Writing from The Hague, Baud urged the Minister of Colonies to pursue "a vigorou
 
 ## Baud and the Acheh Negotiations of 1824
 
-The bearing of Baud's letter upon the [[Acheh treaty of 1819|Acheh question]] is indirect but, in Van der Kemp's reading, significant. When, on 23 February 1824, the British plenipotentiaries at London raised the spectre of an American establishment at Acheh, the Dutch negotiators ([[Hendrik Fagel|Fagel]], [[Anton Reinhard Falck|Falck]], and [[Captain Elout|Captain Elout]]) capitulated, offering to ensure that the sultans of Acheh would never admit a foreign establishment. Van der Kemp observes that this was no idle speculation on the British side: Baud's letter shows that the danger had, only fifteen months earlier, been the subject of serious Dutch reflection, and that American pressure upon the East Indian archipelago "could indeed not be called a trifle" (*mocht inderdaad geen praatje heeten*).
+The bearing of Baud's letter upon the [[Treaty of Pedir (1819)|Acheh question]] is indirect but, in Van der Kemp's reading, significant. When, on 23 February 1824, the British plenipotentiaries at London raised the spectre of an American establishment at Acheh, the Dutch negotiators ([[Hendrik Fagel|Fagel]], [[Anton Reinhard Falck|Falck]], and [[Captain Elout|Captain Elout]]) capitulated, offering to ensure that the sultans of Acheh would never admit a foreign establishment. Van der Kemp observes that this was no idle speculation on the British side: Baud's letter shows that the danger had, only fifteen months earlier, been the subject of serious Dutch reflection, and that American pressure upon the East Indian archipelago "could indeed not be called a trifle" (*mocht inderdaad geen praatje heeten*).
 
 ## Later Career
 
@@ -24,7 +24,7 @@ Baud's later eminence — he served as Governor-General ad interim in 1833–183
 - [[Anton Reinhard Falck]]
 - [[W. C. Nieuwenhuyzen]]
 - [[P. Meyer]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Raising of the Acheh treaty in London negotiations]]
 - [[P. H. van der Kemp]]
 
@@ -34,7 +34,7 @@ Baud's later eminence — he served as Governor-General ad interim in 1833–183
 ---
 
 
-**Jean Chrétien Baud** (1789–1859) was a Dutch colonial administrator, sometime Governor-General of the Netherlands East Indies (1833–1836), and the author of a remarkable private letter to [[Anton Reinhard Falck|Minister Falck]] of 28 November 1822 in which he advocated a vigorous Dutch colonisation of the East Indian archipelago as a counterweight to foreign — and especially North American — encroachment. The letter, preserved in P. Meyer's biography of Baud (1878), is cited by [[P. H. van der Kemp|Van der Kemp]] in his discussion of the [[Anglo-Dutch Treaty of London (1824)|treaty negotiations of 1824]] as a prescient warning of the very danger that the British plenipotentiaries would, a few months later, raise at the London conference table.
+**Jean Chrétien Baud** (1789–1859) was a Dutch colonial administrator, sometime Governor-General of the Netherlands East Indies (1833–1836), and the author of a remarkable private letter to [[Anton Reinhard Falck|Minister Falck]] of 28 November 1822 in which he advocated a vigorous Dutch colonisation of the East Indian archipelago as a counterweight to foreign — and especially North American — encroachment. The letter, preserved in P. Meyer's biography of Baud (1878), is cited by [[P. H. van der Kemp|Van der Kemp]] in his discussion of the [[Anglo-Dutch Treaty of 1824|treaty negotiations of 1824]] as a prescient warning of the very danger that the British plenipotentiaries would, a few months later, raise at the London conference table.
 
 ## The Letter to Falck of 28 November 1822
 
@@ -42,7 +42,7 @@ Writing from The Hague, Baud urged the Minister of Colonies to pursue "a vigorou
 
 ## Baud and the Acheh Negotiations of 1824
 
-The bearing of Baud's letter upon the [[Acheh treaty of 1819|Acheh question]] is indirect but, in Van der Kemp's reading, significant. When, on 23 February 1824, the British plenipotentiaries at London raised the spectre of an American establishment at Acheh, the Dutch negotiators ([[Hendrik Fagel|Fagel]], [[Anton Reinhard Falck|Falck]], and [[Captain Elout|Captain Elout]]) capitulated, offering to ensure that the sultans of Acheh would never admit a foreign establishment. Van der Kemp observes that this was no idle speculation on the British side: Baud's letter shows that the danger had, only fifteen months earlier, been the subject of serious Dutch reflection, and that American pressure upon the East Indian archipelago "could indeed not be called a trifle" (*mocht inderdaad geen praatje heeten*).
+The bearing of Baud's letter upon the [[Treaty of Pedir (1819)|Acheh question]] is indirect but, in Van der Kemp's reading, significant. When, on 23 February 1824, the British plenipotentiaries at London raised the spectre of an American establishment at Acheh, the Dutch negotiators ([[Hendrik Fagel|Fagel]], [[Anton Reinhard Falck|Falck]], and [[Captain Elout|Captain Elout]]) capitulated, offering to ensure that the sultans of Acheh would never admit a foreign establishment. Van der Kemp observes that this was no idle speculation on the British side: Baud's letter shows that the danger had, only fifteen months earlier, been the subject of serious Dutch reflection, and that American pressure upon the East Indian archipelago "could indeed not be called a trifle" (*mocht inderdaad geen praatje heeten*).
 
 ## Later Career
 
@@ -53,7 +53,7 @@ Baud's later eminence — he served as Governor-General ad interim in 1833–183
 - [[Anton Reinhard Falck]]
 - [[W. C. Nieuwenhuyzen]]
 - [[P. Meyer]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Raising of the Acheh treaty in London negotiations]]
 - [[P. H. van der Kemp]]
 

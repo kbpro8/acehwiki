@@ -4,7 +4,7 @@ aliases: [Kanduri Aja Eseutiri, Kanduri Aja Bseutiri, Feast of the consort of Te
 tags: [event, religious, festival, calendar, saint-cult, kanduri]
 ---
 
-The **Kanduri Aja Bseutiri** — also written *Kanduri Aja Eseutiri*, "the feast of my lady the consort" — is one of the three principal annual [[kanduri]]s held at the tomb of the great saint [[Teungku Anjong]] in [[Gampong Jawa]]. C. Snouck Hurgronje treats it in *The Achehnese* in his discussion of the calendar of Achehnese festivals, where it is assigned to the 18th day of [[Kanduri Apam|Rajab]] (the seventh month of the Mohammedan year), and explained as a feast in honour of the consort of the saint, whose own tomb stands close to his.
+The **Kanduri Aja Bseutiri** — also written *Kanduri Aja Eseutiri*, "the feast of my lady the consort" — is one of the three principal annual [[Kanduri|kanduri]]s held at the tomb of the great saint [[Teungku Anjong]] in [[Gampong Jawa]]. C. Snouck Hurgronje treats it in *The Achehnese* in his discussion of the calendar of Achehnese festivals, where it is assigned to the 18th day of [[Kanduri Apam|Rajab]] (the seventh month of the Mohammedan year), and explained as a feast in honour of the consort of the saint, whose own tomb stands close to his.
 
 ## The Consort of Teungku Anjong
 

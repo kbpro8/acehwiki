@@ -5,7 +5,7 @@ aliases: [Sergeant Salawono, Ridder 3e klas Salawono, Salowono]
 tags: [person, marechaussee, ambonese, knil, mwo-ridder]
 ---
 
-**Salawono** was an Ambonese sergeant of the [[Korps Marechaussee van Atjeh en Onderhorigen|Royaal Nederlandsch-Indisch Leger's Marechaussee]] — a *Ridder derde klas* of the [[Militaire Willemsorde (M.W.O.)]] — who earned the *Eervolle Vermelding* and the *[[Medaille voor Moed en Trouw]]* at the Marechaussee korps, then the M.W.O. 4e klas at the [[Storming of Limboer (22 June 1903)|storming of Limboer]] in [[Djambi]] on [[22 June]] [[1903]] (where he was the first over the wall, alone, and held it with rifle fire until the wounded luitenant [[Van Hoogenhuyzen]] could rejoin), and the M.W.O. 3e klas on [[Celebes]] for the *Verovering van de Alla-stellingen (Celebes, 1905-1908)|verovering van de berucht Alla-stellingen]] and the overval on *[[Andi Noni]]*'s band. He is one of the four retired M.W.O.-ridders who acted as *slippendragers* at the [[Funeral of Dominee Thenu (11 May 1937)|funeral of Dominee Thenu]] in [[Koeta-Radja]].
+**Salawono** was an Ambonese sergeant of the [[Korps Marechaussee van Atjeh en Onderhorigen|Royaal Nederlandsch-Indisch Leger's Marechaussee]] — a *Ridder derde klas* of the [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]] — who earned the *Eervolle Vermelding* and the *[[Medaille voor Moed en Trouw]]* at the Marechaussee korps, then the M.W.O. 4e klas at the [[Storming of Limboer (22 June 1903)|storming of Limboer]] in [[Djambi]] on [[22 June]] [[1903]] (where he was the first over the wall, alone, and held it with rifle fire until the wounded luitenant [[Van Hoogenhuyzen]] could rejoin), and the M.W.O. 3e klas on [[Celebes]] for the *Verovering van de Alla-stellingen (Celebes, 1905-1908)|verovering van de berucht Alla-stellingen]] and the overval on *[[Andi Noni]]*'s band. He is one of the four retired M.W.O.-ridders who acted as *slippendragers* at the [[Funeral of Dominee Thenu (11 May 1937)|funeral of Dominee Thenu]] in [[Koeta-Radja]].
 
 ## The Marechaussee korps and the early decorations
 
@@ -31,7 +31,7 @@ Salawono's significance in *[[Oom Ambon van het K.N.I.L.]]* is as the most fully
 
 - [[Storming of Limboer (22 June 1903)]]
 - [[Verovering van de Alla-stellingen (Celebes, 1905-1908)]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Eervolle Vermelding]]
 - [[Medaille voor Moed en Trouw]]
 - [[Korpleider Dirks]]
@@ -48,7 +48,7 @@ Salawono's significance in *[[Oom Ambon van het K.N.I.L.]]* is as the most fully
 ---
 
 
-**Salawono** was an Ambonese sergeant of the [[Korps Marechaussee van Atjeh en Onderhorigen|Royaal Nederlandsch-Indisch Leger's Marechaussee]] — a *Ridder derde klas* of the [[Militaire Willemsorde (M.W.O.)]] — who earned the *Eervolle Vermelding* and the *[[Medaille voor Moed en Trouw]]* at the Marechaussee korps, then the M.W.O. 4e klas at the [[Storming of Limboer (22 June 1903)|storming of Limboer]] in [[Djambi]] on [[22 June]] [[1903]] (where he was the first over the wall, alone, and held it with rifle fire until the wounded luitenant [[Van Hoogenhuyzen]] could rejoin), and the M.W.O. 3e klas on [[Celebes]] for the *Verovering van de Alla-stellingen (Celebes, 1905-1908)|verovering van de berucht Alla-stellingen]] and the overval on *[[Andi Noni]]*'s band. He is one of the four retired M.W.O.-ridders who acted as *slippendragers* at the [[Funeral of Dominee Thenu (11 May 1937)|funeral of Dominee Thenu]] in [[Koeta-Radja]].
+**Salawono** was an Ambonese sergeant of the [[Korps Marechaussee van Atjeh en Onderhorigen|Royaal Nederlandsch-Indisch Leger's Marechaussee]] — a *Ridder derde klas* of the [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]] — who earned the *Eervolle Vermelding* and the *[[Medaille voor Moed en Trouw]]* at the Marechaussee korps, then the M.W.O. 4e klas at the [[Storming of Limboer (22 June 1903)|storming of Limboer]] in [[Djambi]] on [[22 June]] [[1903]] (where he was the first over the wall, alone, and held it with rifle fire until the wounded luitenant [[Van Hoogenhuyzen]] could rejoin), and the M.W.O. 3e klas on [[Celebes]] for the *Verovering van de Alla-stellingen (Celebes, 1905-1908)|verovering van de berucht Alla-stellingen]] and the overval on *[[Andi Noni]]*'s band. He is one of the four retired M.W.O.-ridders who acted as *slippendragers* at the [[Funeral of Dominee Thenu (11 May 1937)|funeral of Dominee Thenu]] in [[Koeta-Radja]].
 
 ## The Marechaussee korps and the early decorations
 
@@ -74,7 +74,7 @@ Salawono's significance in *[[Oom Ambon van het K.N.I.L.]]* is as the most fully
 
 - [[Storming of Limboer (22 June 1903)]]
 - [[Verovering van de Alla-stellingen (Celebes, 1905-1908)]]
-- [[Militaire Willemsorde (M.W.O.)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
 - [[Eervolle Vermelding]]
 - [[Medaille voor Moed en Trouw]]
 - [[Korpleider Dirks]]

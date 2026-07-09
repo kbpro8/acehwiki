@@ -8,7 +8,7 @@ tags: [organization, gewestelijke-raad, noord-sumatra, advisory-council, colonia
 
 ## Proposed Composition
 
-The council was to have 19 members, composed of both *ambtelijke* (official) and *niet-ambtelijke* (non-official) *leden* (members). The official members would be drawn from the colonial administrative service, while the non-official members were intended to represent the broader interests of the population and the business community. The precise balance between these two categories was a matter of significant discussion, particularly at the [[Koeta-Radja bestuursvergaderingen (19-20 January 1914)]], where Gouverneur [[H. N. N. A. Swart]] asked whether the *ambtelijk element* (official element) in the council would be overly dominant. This concern reflected a broader anxiety in the colonial service that the proposed new governance structures, while nominally granting greater autonomy, might in practice simply concentrate more power in the hands of the official class, undermining the principles of decentralisatie and zelfbestuur that the reform was supposed to advance.
+The council was to have 19 members, composed of both *ambtelijke* (official) and *niet-ambtelijke* (non-official) *leden* (members). The official members would be drawn from the colonial administrative service, while the non-official members were intended to represent the broader interests of the population and the business community. The precise balance between these two categories was a matter of significant discussion, particularly at the [[Koeta-Radja bestuursvergaderingen (19-20 January 1914)]], where Gouverneur [[H. N. A. Swart|H. N. N. A. Swart]] asked whether the *ambtelijk element* (official element) in the council would be overly dominant. This concern reflected a broader anxiety in the colonial service that the proposed new governance structures, while nominally granting greater autonomy, might in practice simply concentrate more power in the hands of the official class, undermining the principles of decentralisatie and zelfbestuur that the reform was supposed to advance.
 
 ## The Question of Indigenous Participation
 
@@ -24,7 +24,7 @@ The proposed Gewestelijke Raad Noord-Sumatra represented an important step in th
 
 ## See Also
 
-- [[H. N. N. A. Swart]]
+- [[H. N. A. Swart|H. N. N. A. Swart]]
 - [[G. J. van Dongen]]
 - [[S. de Graaff]]
 - [[Noord-Sumatra (proposed gewest)]]

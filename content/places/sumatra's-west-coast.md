@@ -26,7 +26,7 @@ In the present study the West Coast appears as a counterpoint to [[Sumatra's Eas
 - [[Tapanoeli]]
 - [[Sir Thomas Stamford Raffles]]
 - [[Anglo-Dutch Treaty of London (1814)]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[P. H. van der Kemp]]
 
 ## Source

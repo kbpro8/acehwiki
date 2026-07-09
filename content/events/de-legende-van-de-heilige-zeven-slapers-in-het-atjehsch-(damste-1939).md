@@ -14,7 +14,7 @@ The Atjehnese form *Eitia Toedjoh* — literally "Seven" (*Eitia*, from Acehnese
 
 ## Author and venue
 
-[[H. T. Damsté|Damsté]] — already known in the AcehWiki corpus as one of the principal authorities on Atjeh, cited by [[Dr. A. J. Piekaar|Piekaar]] in the Bibliography of *Atjèh and the War with Japan* alongside [[C. Snouck Hurgronje|Snouck Hurgronje]], [[J. Kreemer|Kreemer]], [[J. J. Jongejans|Jongejans]], and Zentgraaff — published the edition in the *B.K.I.*, the quarterly journal of the [[Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië|Koninklijk Instituut]], which was the principal metropolitan venue for the philology and ethnology of the Netherlands Indies. The *B.K.I.* had by [[1939]] reached deel 98, and Damsté's edition took its place in a long series of Atjehsch text editions published in the journal over the preceding half-century. The separate offprint — both of the whole and of the Atjehsch text alone — was issued by [[M. Nijhoff|M. Nijhoff]] of [['s-Gravenhage|'s-Gravenhage]], the Institute's publisher, in [[1939]].
+[[H. T. Damsté|Damsté]] — already known in the AcehWiki corpus as one of the principal authorities on Atjeh, cited by [[Dr. A. J. Piekaar|Piekaar]] in the Bibliography of *Atjèh and the War with Japan* alongside [[C. Snouck Hurgronje|Snouck Hurgronje]], [[J. Kreemer|Kreemer]], [[J. J. Jongejans|Jongejans]], and Zentgraaff — published the edition in the *B.K.I.*, the quarterly journal of the [[Koninklijke Vereeniging Koloniaal Instituut|Koninklijk Instituut]], which was the principal metropolitan venue for the philology and ethnology of the Netherlands Indies. The *B.K.I.* had by [[1939]] reached deel 98, and Damsté's edition took its place in a long series of Atjehsch text editions published in the journal over the preceding half-century. The separate offprint — both of the whole and of the Atjehsch text alone — was issued by [[M. Nijhoff|M. Nijhoff]] of [['s-Gravenhage|'s-Gravenhage]], the Institute's publisher, in [[1939]].
 
 ## Place in the 1939 Literatuur-Overzicht
 
@@ -22,17 +22,17 @@ The article is No. 560 in the Sumatra chapter (Hoofdstuk III, Nos. 548–658) of
 
 ## Significance
 
-For AcehWiki, the edition is significant as the [[1939]] publication of an Atjehnese vernacular text — the [[Hikajat Eitia Toedjoh|Hikajat Eitia Toedjoh]] — by one of the principal Dutch authorities on Atjeh, in the principal metropolitan philological journal. The legend of the Seven Sleepers is of comparative interest as a Christian-Islamic legend naturalised in the Atjehnese vernacular, and Damsté's edition is the standard published source for the Atjehnese version. The edition furnishes an independent source for the study of Atjehnese literature and of the Islamic legend-cycle in the archipelago, and it complements the corpus's existing entries on Atjehnese vernacular texts — including the [[hikajat-radja-radja-pasei|Hikajat Radja-Radja Pasei]] and the [[hikajat-prang-kompeuni-supplement|Hikajat Prang Kompeuni]] — and on Damsté himself, both as [[h-t-damste|H. T. Damsté]] and as [[h.-t.-damste|the duplicate entry]].
+For AcehWiki, the edition is significant as the [[1939]] publication of an Atjehnese vernacular text — the [[Hikajat Eitia Toedjoh|Hikajat Eitia Toedjoh]] — by one of the principal Dutch authorities on Atjeh, in the principal metropolitan philological journal. The legend of the Seven Sleepers is of comparative interest as a Christian-Islamic legend naturalised in the Atjehnese vernacular, and Damsté's edition is the standard published source for the Atjehnese version. The edition furnishes an independent source for the study of Atjehnese literature and of the Islamic legend-cycle in the archipelago, and it complements the corpus's existing entries on Atjehnese vernacular texts — including the [[hikajat-radja-radja-pasei|Hikajat Radja-Radja Pasei]] and the [[hikajat-prang-kompeuni-supplement|Hikajat Prang Kompeuni]] — and on Damsté himself, both as [[H. T. Damsté|H. T. Damsté]] and as [[h.-t.-damste|the duplicate entry]].
 
 ## See Also
 
 - [[Literatuur-Overzicht over het jaar 1939 (Van Meurs, 1940)]]
 - [[H. van Meurs]]
 - [[Hikajat Eitia Toedjoh]]
-- [[h-t-damste]]
+- [[H. T. Damsté|h-t-damste]]
 - [[h.-t.-damste]]
 - [[Bijdragen tot de Taal, Land en Volkenkunde van Nederlandsch Indie]]
-- [[Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]
+- [[Koninklijke Vereeniging Koloniaal Instituut|Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]
 - [[M. Nijhoff]]
 - [[hikajat-radja-radja-pasei]]
 - [[hikajat-prang-kompeuni-supplement]]

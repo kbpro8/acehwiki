@@ -12,7 +12,7 @@ In verses 72–73, the text draws a parallel between the Prophet’s ability to 
 Jonah’s narrative was a popular motif in Acehnese *nasyid* and *syair* (poetic songs), reinforcing themes of repentance and divine mercy.
 
 ## See Also
-- [[Qasida al‑Burda]]
+- [[Burda (poem)|Qasida al‑Burda]]
 - [[Muhammad]]
 - [[Acehnese religious poetry]]
 - [[Jinn]]

@@ -12,7 +12,7 @@ The Encyclopaedisch Bureau's account of [[Belawan|Belawan]] appears principally 
 
 The Bureau's framing of the Belawan-Deli trade as the principal commercial opponent of the Aroe-baai-plannen places the Belawan interest at the centre of the wider conflict between the Atjeh residency and the East Coast commercial establishment. The Belawan trade feared that the development of [[Aroebai|Arube Bay]] would threaten the long-cherished project to develop Belawan itself as an oceaanhaven (ocean port) for the deepest ships — a project that the Bureau's account treats as a long-cherished but unrealised aspiration of the East Coast commercial interest.
 
-The Bureau's account of the [[Deli-Spoorweg-Maatschappij|Deli-Spoorweg-Maatschappij]]'s network also identifies Belawan-Deli as the maritime anchorage at the northern terminus of the original [[1888]] spoorweg: "the original aanleg was completed in [[1888]], and was confined to a lijntje from the ankerplaats Belawan-Deli via [[Medan|Medan]] to [[Deli-Toea|Deli-Toea]], with a zijlijntje to [[Timbang-Langkat]] ([[Bindjai|Bindjai]])."
+The Bureau's account of the [[Deli Spoorweg Maatschappij|Deli Spoorweg Maatschappij]]'s network also identifies Belawan-Deli as the maritime anchorage at the northern terminus of the original [[1888]] spoorweg: "the original aanleg was completed in [[1888]], and was confined to a lijntje from the ankerplaats Belawan-Deli via [[Medan|Medan]] to [[Deli-Toea|Deli-Toea]], with a zijlijntje to [[Timbang-Langkat]] ([[Bindjai|Bindjai]])."
 
 ## Significance
 
@@ -24,7 +24,7 @@ The Bureau's account of the [[Deli-Spoorweg-Maatschappij|Deli-Spoorweg-Maatschap
 - [[Aroebai]]
 - [[Pangkalan Brandan]]
 - [[Medan]]
-- [[Deli-Spoorweg-Maatschappij]]
+- [[Deli Spoorweg Maatschappij|Deli-Spoorweg-Maatschappij]]
 - [[Atjeh-tram]]
 - [[Atjeh en Onderhoorigheden]]
 - [[Oostkust van Sumatra]]

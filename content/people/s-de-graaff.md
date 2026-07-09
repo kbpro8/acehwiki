@@ -14,7 +14,7 @@ De Graaff was appointed as *Regeeringscommissaris* to carry out one of the most 
 
 ## The Atjeh Question
 
-The question of how to incorporate [[Atjeh]] into the broader reorganization of Sumatra's governance proved to be one of the most challenging issues that De Graaff faced during the Sumatran phase of the *bestuursreorganisatie*. At the Palembang meeting on [[12 August]] [[1913]], De Graaff responded to concerns raised by Controleur [[J. Tideman]] about the difficulty of combining Atjeh with Sumatra's Oostkust, acknowledging the legitimacy of the concern while seeking further information from his subordinate [[J. de Groot]]. De Graaff recognized that Atjeh's unique governance structure—combining *rechtstreeks bestuurd gebied* (directly ruled territory) with *Inlandsche Zelfbesturen* (Native Self-Governments)—set it apart from other territories in Sumatra and required special consideration within the reform framework. His inquiry about indigenous institutions in Atjeh comparable to Palembang's *marga*'s demonstrated his method of seeking local analogies to understand unfamiliar administrative systems, a practice that led directly to Gouverneur [[H. N. N. A. Swart]]'s detailed explanation of the *[[sagi]]* system at the Koeta-Radja meetings.
+The question of how to incorporate [[Atjeh]] into the broader reorganization of Sumatra's governance proved to be one of the most challenging issues that De Graaff faced during the Sumatran phase of the *bestuursreorganisatie*. At the Palembang meeting on [[12 August]] [[1913]], De Graaff responded to concerns raised by Controleur [[J. Tideman]] about the difficulty of combining Atjeh with Sumatra's Oostkust, acknowledging the legitimacy of the concern while seeking further information from his subordinate [[J. de Groot]]. De Graaff recognized that Atjeh's unique governance structure—combining *rechtstreeks bestuurd gebied* (directly ruled territory) with *Inlandsche Zelfbesturen* (Native Self-Governments)—set it apart from other territories in Sumatra and required special consideration within the reform framework. His inquiry about indigenous institutions in Atjeh comparable to Palembang's *marga*'s demonstrated his method of seeking local analogies to understand unfamiliar administrative systems, a practice that led directly to Gouverneur [[H. N. A. Swart|H. N. N. A. Swart]]'s detailed explanation of the *[[sagi]]* system at the Koeta-Radja meetings.
 
 ## Conclusions on Atjeh Governance
 
@@ -30,7 +30,7 @@ S. de Graaff's role as *Regeeringscommissaris* placed him at the center of one o
 
 ## See Also
 
-[[H. N. N. A. Swart]], [[J. de Groot]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Gewestelijk Zelfbestuur]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Noord-Sumatra (proposed gewest)]], [[1913]], [[1914]]
+[[H. N. A. Swart|H. N. N. A. Swart]], [[J. de Groot]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Gewestelijk Zelfbestuur]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Noord-Sumatra (proposed gewest)]], [[1913]], [[1914]]
 
 ## Source
 

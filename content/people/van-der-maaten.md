@@ -5,7 +5,7 @@ aliases: [Van der Maaten, K. van der Maaten, Marechaussee Commander Van der Maat
 tags: [person, officer, dutch, knil, marechaussee, aceh, defense, pamphleteer]
 ---
 
-**Van der Maaten** — **K. van der Maaten** — was a [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee commander]] in [[Atjeh|Aceh]] who served under [[Governor Van Heutsz|J. B. van Heutsz]] during the [[Atjeh-oorlog|Aceh War]] and, almost two decades later, became one of the most outspoken critics of his former chief's post-governorship campaign to remake the defence of [[Netherlands India|Netherlands Indies]], publishing in [[1917]] the pamphlet *Z. E. De Oud Gouverneur-Generaal J. B. van Heutsz en de Defensie van Nederlandsch-Indië*. As a young officer he was one of the famed patrol commanders whose names, in the memory of *[[Oost-Indisch Journael]]* by Merac ([[1947]]), "rang through the Indies like carillon music"; as a retired veteran he was the man who broke publicly with Van Heutsz to expose what he regarded as the political and personal manoeuvring behind the Van Heutsz–Van der Weyden defence programme.
+**Van der Maaten** — **K. van der Maaten** — was a [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee commander]] in [[Atjeh|Aceh]] who served under [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] during the [[Atjeh-oorlog|Aceh War]] and, almost two decades later, became one of the most outspoken critics of his former chief's post-governorship campaign to remake the defence of [[Netherlands India|Netherlands Indies]], publishing in [[1917]] the pamphlet *Z. E. De Oud Gouverneur-Generaal J. B. van Heutsz en de Defensie van Nederlandsch-Indië*. As a young officer he was one of the famed patrol commanders whose names, in the memory of *[[Oost-Indisch Journael]]* by Merac ([[1947]]), "rang through the Indies like carillon music"; as a retired veteran he was the man who broke publicly with Van Heutsz to expose what he regarded as the political and personal manoeuvring behind the Van Heutsz–Van der Weyden defence programme.
 
 ## Marechaussee commander in Aceh
 
@@ -17,11 +17,11 @@ The names of these famous fighters and Marechaussee commanders, the book recalls
 
 ## Subordinate of Van Heutsz in Atjeh en Onderhoorigheden
 
-Van der Maaten served in various functions in [[Gouvernement Atjeh en Onderhoorigheden|Atjeh en Onderhoorigheden]] under [[Governor Van Heutsz|Van Heutsz]] when the latter was Civil and Military Governor of the territory. The relationship between the two men during this period was that of chief and subordinate; Van der Maaten later recalled having contemplated writing his "Atjeh-mémoires" — a personal account of his service under Van Heutsz — and the very existence of that plan suggests that he regarded himself as a credible witness to the conduct of the *Atjeh-politiek* inspired by [[C. Snouck Hurgronje]], whom Van der Maaten would later call the "*geestelijken vader*" of the policy followed since [[1896]].
+Van der Maaten served in various functions in [[Gouvernement Atjeh en Onderhoorigheden|Atjeh en Onderhoorigheden]] under [[Joannes Benedictus van Heutsz|Van Heutsz]] when the latter was Civil and Military Governor of the territory. The relationship between the two men during this period was that of chief and subordinate; Van der Maaten later recalled having contemplated writing his "Atjeh-mémoires" — a personal account of his service under Van Heutsz — and the very existence of that plan suggests that he regarded himself as a credible witness to the conduct of the *Atjeh-politiek* inspired by [[C. Snouck Hurgronje]], whom Van der Maaten would later call the "*geestelijken vader*" of the policy followed since [[1896]].
 
 ## The break with Van Heutsz: the Atjeh-enquête of 1908
 
-The special relationship between Van der Maaten and his former chief did not survive the publication of the *Rapport over de Atjeh-enquête* in [[1908]]. The enquête, which followed the abusive administration of [[G. C. E. van Daalen|Van Daalen]] as Civil and Military Governor of [[Atjeh|Aceh]], exposed arbitrary punishments, dismissals of *uleebalang*, and illegal fines in [[Pidië]] and elsewhere; it forced Van Daalen's departure and discredited the rougher style of Aceh command. Van der Maaten sided with the critics of the post-Van Heutsz regime, and the consequent forced departure of Van Daalen as Civil and Military Governor of [[Atjeh|Aceh]] "prevented any further special relationship with his former chief." The break was complete; the planned *Atjeh-mémoires* were set aside, and Van der Maaten's passage into retirement became, in effect, a passage into opposition.
+The special relationship between Van der Maaten and his former chief did not survive the publication of the *Rapport over de Atjeh-enquête* in [[1908]]. The enquête, which followed the abusive administration of [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] as Civil and Military Governor of [[Atjeh|Aceh]], exposed arbitrary punishments, dismissals of *uleebalang*, and illegal fines in [[Pidië]] and elsewhere; it forced Van Daalen's departure and discredited the rougher style of Aceh command. Van der Maaten sided with the critics of the post-Van Heutsz regime, and the consequent forced departure of Van Daalen as Civil and Military Governor of [[Atjeh|Aceh]] "prevented any further special relationship with his former chief." The break was complete; the planned *Atjeh-mémoires* were set aside, and Van der Maaten's passage into retirement became, in effect, a passage into opposition.
 
 ## The 1917 pamphlet against Van Heutsz's defence campaign
 
@@ -29,13 +29,13 @@ Almost a decade after the enquête, Van der Maaten re-entered public life with a
 
 ## Argument of the pamphlet
 
-The pamphlet's central argument was that [[Governor Van Heutsz|Van Heutsz]] had done virtually nothing for the defence of [[Netherlands India|Netherlands Indies]] during his term as [[Governor-General of the Netherlands India|Governor-General]] ([[1904]]–[[1909]]). The only defence proposal Van Heutsz had made as Governor-General was the *Soemedang-stelling* in October [[1908]], which was based on Army Command proposals and actually perpetuated the discredited old defence system. Van der Maaten argued that Van Heutsz lacked defence expertise because he had devoted his career almost exclusively to the [[Atjeh question]] and shared the common view that defending [[Netherlands India|Netherlands Indies]] was an impossible task for a small country like the [[Netherlands]].
+The pamphlet's central argument was that [[Joannes Benedictus van Heutsz|Van Heutsz]] had done virtually nothing for the defence of [[Netherlands India|Netherlands Indies]] during his term as [[Governor-General of the Netherlands India|Governor-General]] ([[1904]]–[[1909]]). The only defence proposal Van Heutsz had made as Governor-General was the *Soemedang-stelling* in October [[1908]], which was based on Army Command proposals and actually perpetuated the discredited old defence system. Van der Maaten argued that Van Heutsz lacked defence expertise because he had devoted his career almost exclusively to the [[Atjeh question]] and shared the common view that defending [[Netherlands India|Netherlands Indies]] was an impossible task for a small country like the [[Netherlands]].
 
 Van der Maaten further argued that Van Heutsz had no right to issue the devastating private judgment on the [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]] report that he had authorised [[J. Van der Weyden|Van der Weyden]] to quote at the [[Vereeniging ter Beoefening van de Krijgswetenschap]] on [[9 January]] [[1914]] — that the proposed fleet "*niet vechten zal*" (will not fight) and the proposed army "*niet vechten kan*" (cannot fight). Van Heutsz had declined to sit on the [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]] in [[1912]], dismissing its work as "*monnikenwerk*"; Van der Maaten observed that the Commission included no *kwajongens* (troublemakers) and that Van Heutsz, in his capacity as Adjutant-Generaal of the Queen and Groot-Officier of the Kroon, owed a duty of loyalty.
 
 ## Revelation of the "brochure Van Heutsz-Van der Weijden"
 
-The pamphlet's most consequential revelation was that [[Van der Weyden's defense brochure|the brochure]] by [[J. Van der Weyden]], *Weerplicht voor Inlanders en samenstelling van de weermacht in Nederlandsch-Indië* — ostensibly the independent work of a General Staff officer — was in fact co-authored by [[Governor Van Heutsz|Van Heutsz]] himself. Pages 389–395 of the brochure, Van der Maaten disclosed, were entirely in Van Heutsz's own hand; the work should therefore properly be called the "brochure Van Heutsz-Van der Weijden." Van der Maaten had originally planned to write a separate brochure critiquing the actual defence proposals of the Van der Weyden brochure, but the campaign to appoint Van Heutsz as *buitengewoon Regeerings-Commissaris* compelled him to address the broader question of Van Heutsz's fitness for the role.
+The pamphlet's most consequential revelation was that [[Van der Weyden's defense brochure|the brochure]] by [[J. Van der Weyden]], *Weerplicht voor Inlanders en samenstelling van de weermacht in Nederlandsch-Indië* — ostensibly the independent work of a General Staff officer — was in fact co-authored by [[Joannes Benedictus van Heutsz|Van Heutsz]] himself. Pages 389–395 of the brochure, Van der Maaten disclosed, were entirely in Van Heutsz's own hand; the work should therefore properly be called the "brochure Van Heutsz-Van der Weijden." Van der Maaten had originally planned to write a separate brochure critiquing the actual defence proposals of the Van der Weyden brochure, but the campaign to appoint Van Heutsz as *buitengewoon Regeerings-Commissaris* compelled him to address the broader question of Van Heutsz's fitness for the role.
 
 ## Defence views: submarines over battleships, India not to pay alone
 
@@ -58,20 +58,20 @@ Van der Maaten is significant in *[[Oost-Indisch Journael]]* as one of the Marec
 - [[Oost-Indisch Journael]]
 - [[Musket]]
 - [[Gilles Graafland]]
-- [[Van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [[Campioni]]
 - [[Christoffel]]
 - [[Scheepens]]
-- [[Watrin]]
+- [[G. F. B. Watrin|Watrin]]
 - [[Webb]]
-- [[Colijn]]
+- [[Hendrikus Colijn|Colijn]]
 - [[Geertsema Beckering]]
 - [[Darlang]]
 - [[Nussy]]
 - [[Salowono]]
 - [[Pongoh]]
 - [[Atjeh-oorlog]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[J. Van der Weyden]]
 - [[Van der Weyden's defense brochure]]
 - [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies]]
@@ -80,7 +80,7 @@ Van der Maaten is significant in *[[Oost-Indisch Journael]]* as one of the Marec
 - [[Defense of Netherlands Indies debate (1917)]]
 - [[Inlandsche Militieplicht]]
 - [[Kader-quaestie]]
-- [[G. C. E. van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[C. Snouck Hurgronje]]
 - [[Rapport over de Atjeh-enquête]]
 - [[Atjeh-enquête]]
@@ -93,7 +93,7 @@ K. van der Maaten, *Z. E. De Oud Gouverneur-Generaal J. B. van Heutsz en de Defe
 ---
 
 
-**Van der Maaten** — **K. van der Maaten** — was a [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee commander]] in [[Atjeh|Aceh]] who served under [[Governor Van Heutsz|J. B. van Heutsz]] during the [[Atjeh-oorlog|Aceh War]] and, almost two decades later, became one of the most outspoken critics of his former chief's post-governorship campaign to remake the defence of [[Netherlands India|Netherlands Indies]], publishing in [[1917]] the pamphlet *Z. E. De Oud Gouverneur-Generaal J. B. van Heutsz en de Defensie van Nederlandsch-Indië*. As a young officer he was one of the famed patrol commanders whose names, in the memory of *[[Oost-Indisch Journael]]* by Merac ([[1947]]), "rang through the Indies like carillon music"; as a retired veteran he was the man who broke publicly with Van Heutsz to expose what he regarded as the political and personal manoeuvring behind the Van Heutsz–Van der Weyden defence programme.
+**Van der Maaten** — **K. van der Maaten** — was a [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee commander]] in [[Atjeh|Aceh]] who served under [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] during the [[Atjeh-oorlog|Aceh War]] and, almost two decades later, became one of the most outspoken critics of his former chief's post-governorship campaign to remake the defence of [[Netherlands India|Netherlands Indies]], publishing in [[1917]] the pamphlet *Z. E. De Oud Gouverneur-Generaal J. B. van Heutsz en de Defensie van Nederlandsch-Indië*. As a young officer he was one of the famed patrol commanders whose names, in the memory of *[[Oost-Indisch Journael]]* by Merac ([[1947]]), "rang through the Indies like carillon music"; as a retired veteran he was the man who broke publicly with Van Heutsz to expose what he regarded as the political and personal manoeuvring behind the Van Heutsz–Van der Weyden defence programme.
 
 ## Marechaussee commander in Aceh
 
@@ -105,11 +105,11 @@ The names of these famous fighters and Marechaussee commanders, the book recalls
 
 ## Subordinate of Van Heutsz in Atjeh en Onderhoorigheden
 
-Van der Maaten served in various functions in [[Gouvernement Atjeh en Onderhoorigheden|Atjeh en Onderhoorigheden]] under [[Governor Van Heutsz|Van Heutsz]] when the latter was Civil and Military Governor of the territory. The relationship between the two men during this period was that of chief and subordinate; Van der Maaten later recalled having contemplated writing his "Atjeh-mémoires" — a personal account of his service under Van Heutsz — and the very existence of that plan suggests that he regarded himself as a credible witness to the conduct of the *Atjeh-politiek* inspired by [[C. Snouck Hurgronje]], whom Van der Maaten would later call the "*geestelijken vader*" of the policy followed since [[1896]].
+Van der Maaten served in various functions in [[Gouvernement Atjeh en Onderhoorigheden|Atjeh en Onderhoorigheden]] under [[Joannes Benedictus van Heutsz|Van Heutsz]] when the latter was Civil and Military Governor of the territory. The relationship between the two men during this period was that of chief and subordinate; Van der Maaten later recalled having contemplated writing his "Atjeh-mémoires" — a personal account of his service under Van Heutsz — and the very existence of that plan suggests that he regarded himself as a credible witness to the conduct of the *Atjeh-politiek* inspired by [[C. Snouck Hurgronje]], whom Van der Maaten would later call the "*geestelijken vader*" of the policy followed since [[1896]].
 
 ## The break with Van Heutsz: the Atjeh-enquête of 1908
 
-The special relationship between Van der Maaten and his former chief did not survive the publication of the *Rapport over de Atjeh-enquête* in [[1908]]. The enquête, which followed the abusive administration of [[G. C. E. van Daalen|Van Daalen]] as Civil and Military Governor of [[Atjeh|Aceh]], exposed arbitrary punishments, dismissals of *uleebalang*, and illegal fines in [[Pidië]] and elsewhere; it forced Van Daalen's departure and discredited the rougher style of Aceh command. Van der Maaten sided with the critics of the post-Van Heutsz regime, and the consequent forced departure of Van Daalen as Civil and Military Governor of [[Atjeh|Aceh]] "prevented any further special relationship with his former chief." The break was complete; the planned *Atjeh-mémoires* were set aside, and Van der Maaten's passage into retirement became, in effect, a passage into opposition.
+The special relationship between Van der Maaten and his former chief did not survive the publication of the *Rapport over de Atjeh-enquête* in [[1908]]. The enquête, which followed the abusive administration of [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] as Civil and Military Governor of [[Atjeh|Aceh]], exposed arbitrary punishments, dismissals of *uleebalang*, and illegal fines in [[Pidië]] and elsewhere; it forced Van Daalen's departure and discredited the rougher style of Aceh command. Van der Maaten sided with the critics of the post-Van Heutsz regime, and the consequent forced departure of Van Daalen as Civil and Military Governor of [[Atjeh|Aceh]] "prevented any further special relationship with his former chief." The break was complete; the planned *Atjeh-mémoires* were set aside, and Van der Maaten's passage into retirement became, in effect, a passage into opposition.
 
 ## The 1917 pamphlet against Van Heutsz's defence campaign
 
@@ -117,13 +117,13 @@ Almost a decade after the enquête, Van der Maaten re-entered public life with a
 
 ## Argument of the pamphlet
 
-The pamphlet's central argument was that [[Governor Van Heutsz|Van Heutsz]] had done virtually nothing for the defence of [[Netherlands India|Netherlands Indies]] during his term as [[Governor-General of the Netherlands India|Governor-General]] ([[1904]]–[[1909]]). The only defence proposal Van Heutsz had made as Governor-General was the *Soemedang-stelling* in October [[1908]], which was based on Army Command proposals and actually perpetuated the discredited old defence system. Van der Maaten argued that Van Heutsz lacked defence expertise because he had devoted his career almost exclusively to the [[Atjeh question]] and shared the common view that defending [[Netherlands India|Netherlands Indies]] was an impossible task for a small country like the [[Netherlands]].
+The pamphlet's central argument was that [[Joannes Benedictus van Heutsz|Van Heutsz]] had done virtually nothing for the defence of [[Netherlands India|Netherlands Indies]] during his term as [[Governor-General of the Netherlands India|Governor-General]] ([[1904]]–[[1909]]). The only defence proposal Van Heutsz had made as Governor-General was the *Soemedang-stelling* in October [[1908]], which was based on Army Command proposals and actually perpetuated the discredited old defence system. Van der Maaten argued that Van Heutsz lacked defence expertise because he had devoted his career almost exclusively to the [[Atjeh question]] and shared the common view that defending [[Netherlands India|Netherlands Indies]] was an impossible task for a small country like the [[Netherlands]].
 
 Van der Maaten further argued that Van Heutsz had no right to issue the devastating private judgment on the [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]] report that he had authorised [[J. Van der Weyden|Van der Weyden]] to quote at the [[Vereeniging ter Beoefening van de Krijgswetenschap]] on [[9 January]] [[1914]] — that the proposed fleet "*niet vechten zal*" (will not fight) and the proposed army "*niet vechten kan*" (cannot fight). Van Heutsz had declined to sit on the [[Staatscommissie voor de Verdediging van Nederlandsch-Indië]] in [[1912]], dismissing its work as "*monnikenwerk*"; Van der Maaten observed that the Commission included no *kwajongens* (troublemakers) and that Van Heutsz, in his capacity as Adjutant-Generaal of the Queen and Groot-Officier of the Kroon, owed a duty of loyalty.
 
 ## Revelation of the "brochure Van Heutsz-Van der Weijden"
 
-The pamphlet's most consequential revelation was that [[Van der Weyden's defense brochure|the brochure]] by [[J. Van der Weyden]], *Weerplicht voor Inlanders en samenstelling van de weermacht in Nederlandsch-Indië* — ostensibly the independent work of a General Staff officer — was in fact co-authored by [[Governor Van Heutsz|Van Heutsz]] himself. Pages 389–395 of the brochure, Van der Maaten disclosed, were entirely in Van Heutsz's own hand; the work should therefore properly be called the "brochure Van Heutsz-Van der Weijden." Van der Maaten had originally planned to write a separate brochure critiquing the actual defence proposals of the Van der Weyden brochure, but the campaign to appoint Van Heutsz as *buitengewoon Regeerings-Commissaris* compelled him to address the broader question of Van Heutsz's fitness for the role.
+The pamphlet's most consequential revelation was that [[Van der Weyden's defense brochure|the brochure]] by [[J. Van der Weyden]], *Weerplicht voor Inlanders en samenstelling van de weermacht in Nederlandsch-Indië* — ostensibly the independent work of a General Staff officer — was in fact co-authored by [[Joannes Benedictus van Heutsz|Van Heutsz]] himself. Pages 389–395 of the brochure, Van der Maaten disclosed, were entirely in Van Heutsz's own hand; the work should therefore properly be called the "brochure Van Heutsz-Van der Weijden." Van der Maaten had originally planned to write a separate brochure critiquing the actual defence proposals of the Van der Weyden brochure, but the campaign to appoint Van Heutsz as *buitengewoon Regeerings-Commissaris* compelled him to address the broader question of Van Heutsz's fitness for the role.
 
 ## Defence views: submarines over battleships, India not to pay alone
 
@@ -146,20 +146,20 @@ Van der Maaten is significant in *[[Oost-Indisch Journael]]* as one of the Marec
 - [[Oost-Indisch Journael]]
 - [[Musket]]
 - [[Gilles Graafland]]
-- [[Van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
 - [[Campioni]]
 - [[Christoffel]]
 - [[Scheepens]]
-- [[Watrin]]
+- [[G. F. B. Watrin|Watrin]]
 - [[Webb]]
-- [[Colijn]]
+- [[Hendrikus Colijn|Colijn]]
 - [[Geertsema Beckering]]
 - [[Darlang]]
 - [[Nussy]]
 - [[Salowono]]
 - [[Pongoh]]
 - [[Atjeh-oorlog]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[J. Van der Weyden]]
 - [[Van der Weyden's defense brochure]]
 - [[Van der Maaten's pamphlet on Van Heutsz and the Defense of Netherlands Indies]]
@@ -168,7 +168,7 @@ Van der Maaten is significant in *[[Oost-Indisch Journael]]* as one of the Marec
 - [[Defense of Netherlands Indies debate (1917)]]
 - [[Inlandsche Militieplicht]]
 - [[Kader-quaestie]]
-- [[G. C. E. van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[C. Snouck Hurgronje]]
 - [[Rapport over de Atjeh-enquête]]
 - [[Atjeh-enquête]]

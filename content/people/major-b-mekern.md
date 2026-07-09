@@ -12,9 +12,9 @@ Mekern’s column included marine units, infantry companies, and artillery secti
 After encountering the Atjeh River on [[5 February]] [[1876]], Mekern halted further advance, ordering a retreat to the north to avoid further exposure to enemy fire.
 
 ## See Also
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[Battle of Daroe]]
-- [[General Pel]]
+- [[J. L. J. H. Pel|General Pel]]
 - [[Atjeh River]]
 - [[Kajoe‑leh]]
 

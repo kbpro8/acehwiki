@@ -3,7 +3,7 @@ title: Afghanistan
 aliases: []
 tags: [place, central‑asia, historical]
 ---
-**Afghanistan** is a landlocked country in Central Asia. In the 16th century, under the reign of [[Akbar]], it was a region where the *[[Kasida al-Lamiyya fil-tawwidd]]* enjoyed considerable circulation, as noted in the source.
+**Afghanistan** is a landlocked country in Central Asia. In the 16th century, under the reign of [[Akbar]], it was a region where the *[[Bad' al-Amali|Kasida al-Lamiyya fil-tawwidd]]* enjoyed considerable circulation, as noted in the source.
 
 ## Connection to Aceh
 
@@ -13,7 +13,7 @@ The spread of the creed poem from Afghanistan (and North India) to the Malay arc
 
 - [[Akbar]]
 - [[North India]]
-- [[Kasida al-Lamiyya fil-tawwidd]]
+- [[Bad' al-Amali|Kasida al-Lamiyya fil-tawwidd]]
 - [[Aceh]]
 
 ## Source

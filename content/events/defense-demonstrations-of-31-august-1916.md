@@ -22,7 +22,7 @@ On [[31 August]] [[1916]], defense demonstrations took place at multiple *hoofdp
 
 ## Van Heutsz's Representation
 
-In his [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)|speech of 13 January 1917]] before the [[Bond van Vrije Liberalen]], [[J. B. van Heutsz]] claimed that *duizenden en nog eens duizenden Indiërs* (thousands and again thousands of Indians) had gathered to demonstrate support for defense. This portrayal suggested a mass popular movement behind the defense cause.
+In his [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)|speech of 13 January 1917]] before the [[Bond van Vrije Liberalen]], [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] claimed that *duizenden en nog eens duizenden Indiërs* (thousands and again thousands of Indians) had gathered to demonstrate support for defense. This portrayal suggested a mass popular movement behind the defense cause.
 
 ## Van der Maaten's Exposure
 
@@ -44,11 +44,11 @@ The [[Ambonese]] were noted as an exception to the general pattern of native ind
 
 ## Significance
 
-The demonstrations of [[31 August]] [[1916]] became a point of contention in the wider debate over the defense of [[Netherlands India|Netherlands Indies]]. While they marked a genuine shift in European colonial opinion, the misrepresentation of their scale by [[J. B. van Heutsz|Van Heutsz]] and others became a target for critics such as [[Van der Maaten]], who used the episode to illustrate the tendency of defense advocates to inflate evidence of popular support.
+The demonstrations of [[31 August]] [[1916]] became a point of contention in the wider debate over the defense of [[Netherlands India|Netherlands Indies]]. While they marked a genuine shift in European colonial opinion, the misrepresentation of their scale by [[Joannes Benedictus van Heutsz|Van Heutsz]] and others became a target for critics such as [[Van der Maaten]], who used the episode to illustrate the tendency of defense advocates to inflate evidence of popular support.
 
 ## See Also
 
-- [[J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Van Heutsz's Bond van Vrije Liberalen defense speech (13 January 1917)]]
 - [[Van der Maaten]]
 - [[Indische Krijgsvereeniging]]

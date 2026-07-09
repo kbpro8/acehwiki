@@ -15,7 +15,7 @@ After the murder of [[Captain Hobbs]] at [[Tringano]], the Sultan had been unabl
 
 The three names are interesting to Van der Kemp chiefly as evidence that, before the formal British approach through [[Captain Steven]], the Achehnese court had had substantive dealings with several English traders and captains — enough for the Sultan to identify them, individually, as men who could speak to his purposes. The fragmentary reference is the only mention of Captain Thomas in the article; nothing further is recorded of his person, his ship, or the nature of his "acquaintance" with Acheh.
 
-Van der Kemp prints the 1786 letter as the first of his twelve appendices because it is the earliest documentary evidence of an Achehnese desire for "lasting friendship with the English" — a phrase that foreshadows the language of the [[Treaty of Pedir]] of [[1819]] and the broader [[Acheh treaty of 1819]].
+Van der Kemp prints the 1786 letter as the first of his twelve appendices because it is the earliest documentary evidence of an Achehnese desire for "lasting friendship with the English" — a phrase that foreshadows the language of the [[Treaty of Pedir]] of [[1819]] and the broader [[Treaty of Pedir (1819)|Acheh treaty of 1819]].
 
 ## See Also
 
@@ -45,7 +45,7 @@ After the murder of [[Captain Hobbs]] at [[Tringano]], the Sultan had been unabl
 
 The three names are interesting to Van der Kemp chiefly as evidence that, before the formal British approach through [[Captain Steven]], the Achehnese court had had substantive dealings with several English traders and captains — enough for the Sultan to identify them, individually, as men who could speak to his purposes. The fragmentary reference is the only mention of Captain Thomas in the article; nothing further is recorded of his person, his ship, or the nature of his "acquaintance" with Acheh.
 
-Van der Kemp prints the 1786 letter as the first of his twelve appendices because it is the earliest documentary evidence of an Achehnese desire for "lasting friendship with the English" — a phrase that foreshadows the language of the [[Treaty of Pedir]] of [[1819]] and the broader [[Acheh treaty of 1819]].
+Van der Kemp prints the 1786 letter as the first of his twelve appendices because it is the earliest documentary evidence of an Achehnese desire for "lasting friendship with the English" — a phrase that foreshadows the language of the [[Treaty of Pedir]] of [[1819]] and the broader [[Treaty of Pedir (1819)|Acheh treaty of 1819]].
 
 ## See Also
 

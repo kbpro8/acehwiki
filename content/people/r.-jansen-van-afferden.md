@@ -3,7 +3,7 @@ title: R. Jansen van Afferden
 aliases: ["R. Jansen van Afferden", "Captain‑Lieutenant R. Jansen van Afferden"]
 tags: [person, military, dutch, colonial]
 ---
-**R. Jansen van Afferden** was a **[[captain‑lieutenant of the sea|kapitein‑luitenant ter zee]]** who commanded a detachment of **[[Dutch Marine Corps|Korps Mariniers]]** during the **[[Aroce Islands punitive expedition (1893)]]**. His force landed at **[[Kroemoel]]** on **[[9 January]] [[1893]]**, establishing a beachhead against Acehnese resistance.  
+**R. Jansen van Afferden** was a **[[captain‑lieutenant of the sea|kapitein‑luitenant ter zee]]** who commanded a detachment of **[[Royal Netherlands Marine Corps|Korps Mariniers]]** during the **[[Aroce Islands punitive expedition (1893)]]**. His force landed at **[[Kroemoel]]** on **[[9 January]] [[1893]]**, establishing a beachhead against Acehnese resistance.  
 
 ## Operations  
 
@@ -13,7 +13,7 @@ tags: [person, military, dutch, colonial]
 
 - [[Aroce Islands punitive expedition (1893)]]  
 - [[Kroemoel]]  
-- [[Dutch Marine Corps]]  
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]  
 
 ## Source  
 

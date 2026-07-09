@@ -13,7 +13,7 @@ Thijssen’s bravery was noted in the official report of the expedition, but no 
 
 - [[Expedition to Retch 1858]]
 - [[Militaire Willemsorde]]
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 
 ## Source
 

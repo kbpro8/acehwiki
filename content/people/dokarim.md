@@ -9,7 +9,7 @@ The illiterate composer of the Hikayat Prang Gompeuni, the Acehnese heroic poem 
 
 ## See Also
 
-- [[Hikayat Prang Gompeuni]]
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 - [[Aceh War]]
 
 ## Source
@@ -22,7 +22,7 @@ The illiterate composer of the Hikayat Prang Gompeuni, the Acehnese heroic poem 
 
 ## See Also
 
-- [[Hikayat Prang Gompeuni]]
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 - [[Aceh War]]
 
 ## Source

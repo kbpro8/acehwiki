@@ -15,7 +15,7 @@ During the **Aceh War** ([[1873]]–[[1904]]), the VOC no longer existed, but it
 The VOC’s commercial and military presence laid the groundwork for Dutch naval strategies that relied on specialised marine troops, directly influencing the structure of the **Dutch Marine Corps** that would later fight in Aceh. Understanding the VOC’s use of soldiers on its ships clarifies the evolution of Dutch amphibious capability in the archipelago.
 
 ## See Also
-- [[Dutch Marine Corps]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Aceh War]]
 - [[Queen Wilhelmina of the Netherlands]]
 - [[Rotterdam]]

@@ -30,7 +30,7 @@ The instrument represents the **Acehnese manifestation of the widespread Southea
 | **[[Acheh]]** | **Tjanang Triëng** | 3 | Idiochord / Heterochord |
 | **[[Gayo Lands]]** | *Canang* / *Kecapi* | 2–3 | Heterochord |
 | **[[Batak Lands]]** (Toba) | *Hasapi* / *Kecapi* | 2 | Lute (not zither) |
-| **[[Minangkabau]]** | *Saluang* (flute) / *Talempong* (gongs) | — | — |
+| **[[Menangkabau|Minangkabau]]** | *Saluang* (flute) / *Talempong* (gongs) | — | — |
 | **[[Sundanese]]** (West Java) | *Celempung* / *Kacapi* | 18–20 | Board zither |
 | **[[Javanese]]** | *Celempung* / *Siter* | 13–14 | Board zither |
 | **[[Sasak]]** (Lombok) | *Genggong* (jaw harp) / *Kecapi* | 2–3 | Tube zither |

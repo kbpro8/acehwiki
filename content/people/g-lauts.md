@@ -5,7 +5,7 @@ aliases: [hoogleeraar Lauts, professor Lauts, Gerrit Lauts]
 tags: [person, scholar, dutch-historian, professor]
 ---
 
-**G. Lauts** — *hoogleeraar* (professor) Lauts — was a Dutch historian of the East Indian archipelago, the author of a multi-volume *Geschiedenis van Nederlandsch Indië* (History of the Netherlands Indies) whose sixth volume (1866) is cited by [[P. H. van der Kemp|Van der Kemp]] as one of the chief transmitters of a long-standing misreading of Article 6 of the [[Acheh treaty of 1819|Raffles–Coombs convention]] of April 1819.
+**G. Lauts** — *hoogleeraar* (professor) Lauts — was a Dutch historian of the East Indian archipelago, the author of a multi-volume *Geschiedenis van Nederlandsch Indië* (History of the Netherlands Indies) whose sixth volume (1866) is cited by [[P. H. van der Kemp|Van der Kemp]] as one of the chief transmitters of a long-standing misreading of Article 6 of the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] of April 1819.
 
 ## The Misreading of Article 6
 
@@ -15,7 +15,7 @@ Van der Kemp's answer to Lauts's rhetorical question is emphatic: "Absolutely no
 
 ## Lauts in the Chain of Error
 
-Van der Kemp treats Lauts's reading as the first link in a historiographical chain that ran from the official instructions of Minister [[Elout|Elout]] of 31 August 1824 — themselves derived from Falck's advice of 6 August 1824 — through the official *Nota* of 1873, and into the standard Dutch histories of the second half of the nineteenth century. The same reading was repeated by [[Smulders|Smulders]] in his dissertation on the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]] (p. 105), by [[J. J. Meinsma|Meinsma]] in his *Geschiedenis* (II, p. 180), and by the *Tijdschrift voor Ned.-Indië*. Lauts's volume of 1866 thus stands at the head of a thirty-year-long misrepresentation that Van der Kemp, writing in 1900, sets himself to correct.
+Van der Kemp treats Lauts's reading as the first link in a historiographical chain that ran from the official instructions of Minister [[Elout|Elout]] of 31 August 1824 — themselves derived from Falck's advice of 6 August 1824 — through the official *Nota* of 1873, and into the standard Dutch histories of the second half of the nineteenth century. The same reading was repeated by [[Smulders|Smulders]] in his dissertation on the [[Anglo-Dutch Treaty of 1824|treaty of 1824]] (p. 105), by [[J. J. Meinsma|Meinsma]] in his *Geschiedenis* (II, p. 180), and by the *Tijdschrift voor Ned.-Indië*. Lauts's volume of 1866 thus stands at the head of a thirty-year-long misrepresentation that Van der Kemp, writing in 1900, sets himself to correct.
 
 ## Significance
 
@@ -26,8 +26,8 @@ The importance of Lauts's error lies not merely in bibliographical pedantry. As 
 - [[Smulders]]
 - [[J. J. Meinsma]]
 - [[J. H. P. E. Kniphorst]]
-- [[Acheh treaty of 1819]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Elout]]
 - [[P. H. van der Kemp]]
 
@@ -37,7 +37,7 @@ The importance of Lauts's error lies not merely in bibliographical pedantry. As 
 ---
 
 
-**G. Lauts** — *hoogleeraar* (professor) Lauts — was a Dutch historian of the East Indian archipelago, the author of a multi-volume *Geschiedenis van Nederlandsch Indië* (History of the Netherlands Indies) whose sixth volume (1866) is cited by [[P. H. van der Kemp|Van der Kemp]] as one of the chief transmitters of a long-standing misreading of Article 6 of the [[Acheh treaty of 1819|Raffles–Coombs convention]] of April 1819.
+**G. Lauts** — *hoogleeraar* (professor) Lauts — was a Dutch historian of the East Indian archipelago, the author of a multi-volume *Geschiedenis van Nederlandsch Indië* (History of the Netherlands Indies) whose sixth volume (1866) is cited by [[P. H. van der Kemp|Van der Kemp]] as one of the chief transmitters of a long-standing misreading of Article 6 of the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] of April 1819.
 
 ## The Misreading of Article 6
 
@@ -47,7 +47,7 @@ Van der Kemp's answer to Lauts's rhetorical question is emphatic: "Absolutely no
 
 ## Lauts in the Chain of Error
 
-Van der Kemp treats Lauts's reading as the first link in a historiographical chain that ran from the official instructions of Minister [[Elout|Elout]] of 31 August 1824 — themselves derived from Falck's advice of 6 August 1824 — through the official *Nota* of 1873, and into the standard Dutch histories of the second half of the nineteenth century. The same reading was repeated by [[Smulders|Smulders]] in his dissertation on the [[Anglo-Dutch Treaty of London (1824)|treaty of 1824]] (p. 105), by [[J. J. Meinsma|Meinsma]] in his *Geschiedenis* (II, p. 180), and by the *Tijdschrift voor Ned.-Indië*. Lauts's volume of 1866 thus stands at the head of a thirty-year-long misrepresentation that Van der Kemp, writing in 1900, sets himself to correct.
+Van der Kemp treats Lauts's reading as the first link in a historiographical chain that ran from the official instructions of Minister [[Elout|Elout]] of 31 August 1824 — themselves derived from Falck's advice of 6 August 1824 — through the official *Nota* of 1873, and into the standard Dutch histories of the second half of the nineteenth century. The same reading was repeated by [[Smulders|Smulders]] in his dissertation on the [[Anglo-Dutch Treaty of 1824|treaty of 1824]] (p. 105), by [[J. J. Meinsma|Meinsma]] in his *Geschiedenis* (II, p. 180), and by the *Tijdschrift voor Ned.-Indië*. Lauts's volume of 1866 thus stands at the head of a thirty-year-long misrepresentation that Van der Kemp, writing in 1900, sets himself to correct.
 
 ## Significance
 
@@ -58,8 +58,8 @@ The importance of Lauts's error lies not merely in bibliographical pedantry. As 
 - [[Smulders]]
 - [[J. J. Meinsma]]
 - [[J. H. P. E. Kniphorst]]
-- [[Acheh treaty of 1819]]
-- [[Anglo-Dutch Treaty of London (1824)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Elout]]
 - [[P. H. van der Kemp]]
 

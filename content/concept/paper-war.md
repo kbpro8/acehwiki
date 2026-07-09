@@ -20,11 +20,11 @@ The paper war is more than a picturesque phrase. Van der Kemp treats it as a str
 
 ## A recurring pattern
 
-This pattern, in Van der Kemp's larger argument, recurs in the metropolitan negotiations as well: the [[Fagel-Elout negotiations (August 1820)|Fagel-Elout negotiations]] of August 1820, the [[Concept-convention of 24 July 1820|concept-convention of 24 July 1820]], the [[Dutch plenipotentiaries' dispatch of 21 February 1824|Dutch plenipotentiaries' dispatches of 21 and]] [[Dutch plenipotentiaries' dispatch of 24 February 1824|24 February 1824]], and the various notes exchanged at the conclusion of the [[Anglo-Dutch Treaty of London (1824)|Treaty of London of 1824]] are all, in a sense, episodes of the same paper war — vast accumulations of written matter that substituted for resolution. The [[Pinang Nota (1825)|Pinang Nota of 1825]], the [[Fullerton's circular to nine Siak chiefs|Fullerton circular]] to the Siak chiefs, and the [[Fullerton's letter to Sultan of Siak (7 February 1828)|letter to the Sultan of Siak of 1828]] extend the same genre into the next decade.
+This pattern, in Van der Kemp's larger argument, recurs in the metropolitan negotiations as well: the [[Fagel-Elout negotiations (August 1820)|Fagel-Elout negotiations]] of August 1820, the [[Concept-convention of 24 July 1820|concept-convention of 24 July 1820]], the [[Dutch plenipotentiaries' dispatch of 21 February 1824|Dutch plenipotentiaries' dispatches of 21 and]] [[Dutch plenipotentiaries' dispatch of 24 February 1824|24 February 1824]], and the various notes exchanged at the conclusion of the [[Anglo-Dutch Treaty of 1824|Treaty of London of 1824]] are all, in a sense, episodes of the same paper war — vast accumulations of written matter that substituted for resolution. The [[Pinang Nota (1825)|Pinang Nota of 1825]], the [[Fullerton's circular to nine Siak chiefs|Fullerton circular]] to the Siak chiefs, and the [[Fullerton's letter to Sultan of Siak (7 February 1828)|letter to the Sultan of Siak of 1828]] extend the same genre into the next decade.
 
 ## See Also
 
-- [[Acheh treaty of 1819]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
 - [[Wilhelmina mutiny and murder of Bouwens]]
 - [[Lucas mission to Telok Semawé (February 1821)]]

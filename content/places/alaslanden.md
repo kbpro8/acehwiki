@@ -14,7 +14,7 @@ The Alas valley forms the northern extension of the Western lengtedal of the Bar
 
 The Alaslanden and the adjacent [[Gajoland|Gayo]] highlands together formed the **Gajo- en Alaslanden**, the mountainous region in the interior of [[Acheh|Atjèh]] inhabited by the Gayo and Alas peoples, which constituted the last major centre of resistance during the [[Aceh War]]. Before the 1904 campaign, *De Buitenbezittingen* records, the Dutch "wisten goed als niets" — knew effectively nothing — of the inhabitants of the Alas valley.
 
-In early [[1904]], [[G. C. E. van Daalen|Van Daalen]] — then a lieutenant colonel — led a column of 120 *marechaussées* on a four-month expedition through both the Gayo and Alas lands. The operation was designed to break the last organised resistance and bring the interior under Dutch control; Van Daalen's tactics proved effective, and the expedition brought the country "ineens geheel onder onze macht" (at once entirely under our power). The campaign attracted criticism in the Netherlands, particularly after the "Wekker" articles of [[1907]], for the severity of its methods and casualties among the local population, but the subsequent [[Atjéh-enquête|Atjéh-enquête]] found such allegations to be largely exaggerated. Civil administrators subsequently, including [[H. Colijn]], worked on integrating the region into the broader Aceh governance structure. A permanent administrative post was established, and the [[Korte Verklaring]] system was extended to the region's chiefs.
+In early [[1904]], [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] — then a lieutenant colonel — led a column of 120 *marechaussées* on a four-month expedition through both the Gayo and Alas lands. The operation was designed to break the last organised resistance and bring the interior under Dutch control; Van Daalen's tactics proved effective, and the expedition brought the country "ineens geheel onder onze macht" (at once entirely under our power). The campaign attracted criticism in the Netherlands, particularly after the "Wekker" articles of [[1907]], for the severity of its methods and casualties among the local population, but the subsequent [[Atjéh-enquête|Atjéh-enquête]] found such allegations to be largely exaggerated. Civil administrators subsequently, including [[Hendrikus Colijn|H. Colijn]], worked on integrating the region into the broader Aceh governance structure. A permanent administrative post was established, and the [[Korte Verklaring]] system was extended to the region's chiefs.
 
 ## The Radja Tjèq and the Two Landschappen
 
@@ -76,7 +76,7 @@ The proposed combination of the Alaslanden with the Karo lands in the Deli-based
 - [[Poeloe Nas]]
 - [[Gajo Loeës]]
 - [[Alasweg]]
-- [[G. C. E. van Daalen]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)]]
 - [[Koeta Tjané]]
 - [[Blang Kédjérèn]]

@@ -14,7 +14,7 @@ Dames explicitly distances himself from the tall-story tradition of the colonial
 
 ## Sources and the Nawoord
 
-In the *Nawoord* Dames acknowledges the printed sources he drew on for episodes he could not have witnessed himself, especially the chapters on the older [[Atjeh-oorlog|Aceh War]] and the decorations history. He names in particular the works of *van Kijffler* and *Booms*, as well as *Hotz* (whose account of the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]] he used for the [[Teungkoe Sjech Saman di Tiri|Tiriō]] campaign), [[Schmidt]] himself (whose report on [[1910]]-[[1911]] was published), *du Croo*, *Zentgraaf* and [[Generaal Swart|General Swart]]. The book is therefore not pure memoir but a synthesis of personal recollection and these older printed authorities, with Dames's own commentary threaded throughout.
+In the *Nawoord* Dames acknowledges the printed sources he drew on for episodes he could not have witnessed himself, especially the chapters on the older [[Atjeh-oorlog|Aceh War]] and the decorations history. He names in particular the works of *van Kijffler* and *Booms*, as well as *Hotz* (whose account of the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]] he used for the [[Teungkoe Sjech Saman di Tiri|Tiriō]] campaign), [[Schmidt]] himself (whose report on [[1910]]-[[1911]] was published), *du Croo*, *Zentgraaf* and [[H. N. A. Swart|General Swart]]. The book is therefore not pure memoir but a synthesis of personal recollection and these older printed authorities, with Dames's own commentary threaded throughout.
 
 ## Contents
 

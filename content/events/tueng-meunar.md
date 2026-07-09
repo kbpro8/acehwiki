@@ -25,7 +25,7 @@ On her return journey — technically known as *wòë ba' meunar* = "returning f
 ## See Also
 
 - [[Janjining Ratu]]
-- [[Janji Jinamee]]
+- [[Jinamee|Janji Jinamee]]
 - [[Gampong]]
 - [[Marriage in Acheh]]
 - [[Ta'liq]]

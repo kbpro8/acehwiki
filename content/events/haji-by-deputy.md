@@ -26,7 +26,7 @@ The institution is thus one of the channels through which the wealth of the lait
 - [[Five daily prayers]]
 - [[Leube]]
 - [[Ulama]]
-- [[Janji Jinamee]]
+- [[Jinamee|Janji Jinamee]]
 
 ## Source
 

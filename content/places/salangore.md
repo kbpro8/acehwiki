@@ -15,7 +15,7 @@ Van Braam’s fleet arrived on [[20 July]] [[1784]] and, after a landing on [[18
 Following the campaign, the Dutch left a small garrison to maintain authority. The fleet later returned to [[Malakka]] where many crew members fell ill, including [[Luitenant Wisscher]].
 
 ## See Also
-- [[Van Braam (commander)]]
+- [[Jacob Pieter van Braam|Van Braam (commander)]]
 - [[Majoor Hamell]]
 - [[Radya Hadgè]]
 - [[Radya Aly]]

@@ -12,7 +12,7 @@ The VOC was founded on [[20 March]] [[1602]], in the midst of the "wilde vaart" 
 
 ## The first VOC fleet at Atjeh, 1602
 
-The first VOC fleet sent out after the Company's foundation reached [[Acheh|Atjeh]] in [[1602]], where [[Joris van Spilbergh|Spilbergh]] — still sailing as a pre-VOC admiral — was already present. Spilbergh sold one of his ships to the new Company at Atjeh, and reached the fatherland with his well-laden ship. The episode is one of the practical moments at which the pre-VOC "wilde vaart" was absorbed into the chartered Company's structure. From this point forward, Dutch-Atjeh relations would be conducted under the Company's flag.
+The first VOC fleet sent out after the Company's foundation reached [[Acheh|Atjeh]] in [[1602]], where [[Joris van Spilbergen|Spilbergh]] — still sailing as a pre-VOC admiral — was already present. Spilbergh sold one of his ships to the new Company at Atjeh, and reached the fatherland with his well-laden ship. The episode is one of the practical moments at which the pre-VOC "wilde vaart" was absorbed into the chartered Company's structure. From this point forward, Dutch-Atjeh relations would be conducted under the Company's flag.
 
 ## The Dutch lodge at Atjeh
 
@@ -48,7 +48,7 @@ For [[Acheh|Atjeh]]'s history, the VOC is the principal European institutional i
 - [[Pieter Willemz]]
 - [[Jan van Riebeeck]]
 - [[Atjehsche mode]]
-- [[Joris van Spilbergh]]
+- [[Joris van Spilbergen|Joris van Spilbergh]]
 - [[Heeren Zeventien]]
 - [[Bewindhebbers]]
 - [[1602]]

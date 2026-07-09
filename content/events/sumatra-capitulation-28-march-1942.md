@@ -7,7 +7,7 @@ tags: [event, surrender, dutch, military]
 
 ## The highland surrender at Blang Kédjérèn
 
-By [[25 March]] [[1942]] a Japanese breakthrough had taken place "from the valley of the [[Lawé Rénoen|Lawé Rénoen]], a left-side tributary of the [[Lawé Alas|Lawé Alas]], to the road [[Kaban Djahé|Kaban Djahé]]–[[Koeta Tjané|Koeta Tjané]], at a distance of 80 km. before Koeta Tjané." Some brigades, located between the blown-up bridge and the breakthrough point, were thereby cut off from the main force. With the rear cover gone, [[Colonel Gosenson|Colonel Gosenson]] fell back on Blang Kédjérèn "with two very weary brigades, closely followed by the Japanese vanguard." The highland defence now offered little prospect: a contradictory radio message arrived that an expected American transport squadron "on its way to Sumatra had returned to Australia." "Then when General Overakker decided on 27 March to surrender, there was no longer any enemy to be acknowledged in the Blang, so that the surrender could only be offered on 28 March." On that day Japanese troops made their entry into Blang Kédjérèn; "the brigades still in the area also surrendered after a short time."
+By [[25 March]] [[1942]] a Japanese breakthrough had taken place "from the valley of the [[Lawé Rénoen|Lawé Rénoen]], a left-side tributary of the [[Lawé Alas|Lawé Alas]], to the road [[Kaban Djahé|Kaban Djahé]]–[[Koeta Tjané|Koeta Tjané]], at a distance of 80 km. before Koeta Tjané." Some brigades, located between the blown-up bridge and the breakthrough point, were thereby cut off from the main force. With the rear cover gone, [[G. F. V. Gosenson|G. F. V. Gosenson]] fell back on Blang Kédjérèn "with two very weary brigades, closely followed by the Japanese vanguard." The highland defence now offered little prospect: a contradictory radio message arrived that an expected American transport squadron "on its way to Sumatra had returned to Australia." "Then when General Overakker decided on 27 March to surrender, there was no longer any enemy to be acknowledged in the Blang, so that the surrender could only be offered on 28 March." On that day Japanese troops made their entry into Blang Kédjérèn; "the brigades still in the area also surrendered after a short time."
 
 ## The West-Coast surrender at Lae Boetar
 
@@ -15,13 +15,13 @@ Simultaneously on the West Coast, the combined Lhó' Nga and West-Coast troops u
 
 ## Significance
 
-The capitulation ended the defence of the Atjèh highlands and sealed the [[Japanese invasion of Atjèh|Japanese conquest]] of northern Sumatra. It released [[Major-General Overakker|Overakker]] and [[Colonel Gosenson|Gosenson]] into Japanese captivity — both would later be tried and punished for their role in the [[Treffers organisation|Treffers organisation]] crackdown — and opened the three-and-a-half-year occupation that would last until the [[Japanese capitulation of 15 August 1945|Japanese capitulation of 15 August 1945]]. The Japanese later "celebrated festively" the 27th of March "as 'New Sumatra Day'" — though, as Piekaar drily notes, the actual capitulation took place on [[28 March]].
+The capitulation ended the defence of the Atjèh highlands and sealed the [[Japanese invasion of Atjèh|Japanese conquest]] of northern Sumatra. It released [[Major-General Overakker|Overakker]] and [[G. F. V. Gosenson|Gosenson]] into Japanese captivity — both would later be tried and punished for their role in the [[Treffers organisation|Treffers organisation]] crackdown — and opened the three-and-a-half-year occupation that would last until the [[Japanese capitulation of 15 August 1945|Japanese capitulation of 15 August 1945]]. The Japanese later "celebrated festively" the 27th of March "as 'New Sumatra Day'" — though, as Piekaar drily notes, the actual capitulation took place on [[28 March]].
 
 ## See Also
 
 - [[Japanese invasion of Atjèh]]
 - [[Major-General Overakker]]
-- [[Colonel Gosenson]]
+- [[G. F. V. Gosenson|Colonel Gosenson]]
 - [[Blang Kédjérèn]]
 - [[Koeta Tjané]]
 - [[Kaban Djahé]]

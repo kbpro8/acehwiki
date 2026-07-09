@@ -13,7 +13,7 @@ The [[Houtman brothers' visit to Atjeh (1599)|Houtman brothers' voyage]] — the
 
 ## The Spilbergh fleet of 1601-1602
 
-Moucheron's firm then outfitted the fleet of three ships and the yacht *'t Lam under [[Joris Spilbergh|Joris Spilbergh]], which left Middelburg on [[5 May]] [[1601]]. Near the [[Comoro Islands|Comoros]] the yacht became separated from the others and was so damaged that [[Cornelis Spex|Cornelis Spex]] put in at Atjeh in early September [[1602]] and placed himself under [[James Lancaster|James Lancaster]]'s command. Spilbergh himself arrived a few days later with the other two ships, having called at [[Ceylon|Ceylon]] on the way. Spilbergh joined Lancaster in the [[Capture of the Portuguese carrack off Atjeh (October 1602)|capture of the Portuguese carrack of 3 October 1602]] for an eighth of the prize.
+Moucheron's firm then outfitted the fleet of three ships and the yacht *'t Lam under [[Joris van Spilbergen|Joris van Spilbergen]], which left Middelburg on [[5 May]] [[1601]]. Near the [[Comoro Islands|Comoros]] the yacht became separated from the others and was so damaged that [[Cornelis Spex|Cornelis Spex]] put in at Atjeh in early September [[1602]] and placed himself under [[James Lancaster|James Lancaster]]'s command. Spilbergh himself arrived a few days later with the other two ships, having called at [[Ceylon|Ceylon]] on the way. Spilbergh joined Lancaster in the [[Capture of the Portuguese carrack off Atjeh (October 1602)|capture of the Portuguese carrack of 3 October 1602]] for an eighth of the prize.
 
 ## The absorption into the VOC (1602)
 
@@ -29,7 +29,7 @@ Moucheron's firm is, in Van der Woude's narrative, the principal Zeeland voorcom
 - [[Houtman brothers' visit to Atjeh (1599)]]
 - [[Cornelis de Houtman]]
 - [[Frederik de Houtman]]
-- [[Joris Spilbergh]]
+- [[Joris van Spilbergen|Joris Spilbergh]]
 - [[Joris Spilbergh's Atjeh visit (1602)]]
 - [[Cornelis Spex]]
 - [[John Davis]]
@@ -60,7 +60,7 @@ The [[Houtman brothers' visit to Atjeh (1599)|Houtman brothers' voyage]] — the
 
 ## The Spilbergh fleet of 1601-1602
 
-Moucheron's firm then outfitted the fleet of three ships and the yacht *'t Lam under [[Joris Spilbergh|Joris Spilbergh]], which left Middelburg on [[5 May]] [[1601]]. Near the [[Comoro Islands|Comoros]] the yacht became separated from the others and was so damaged that [[Cornelis Spex|Cornelis Spex]] put in at Atjeh in early September [[1602]] and placed himself under [[James Lancaster|James Lancaster]]'s command. Spilbergh himself arrived a few days later with the other two ships, having called at [[Ceylon|Ceylon]] on the way. Spilbergh joined Lancaster in the [[Capture of the Portuguese carrack off Atjeh (October 1602)|capture of the Portuguese carrack of 3 October 1602]] for an eighth of the prize.
+Moucheron's firm then outfitted the fleet of three ships and the yacht *'t Lam under [[Joris van Spilbergen|Joris van Spilbergen]], which left Middelburg on [[5 May]] [[1601]]. Near the [[Comoro Islands|Comoros]] the yacht became separated from the others and was so damaged that [[Cornelis Spex|Cornelis Spex]] put in at Atjeh in early September [[1602]] and placed himself under [[James Lancaster|James Lancaster]]'s command. Spilbergh himself arrived a few days later with the other two ships, having called at [[Ceylon|Ceylon]] on the way. Spilbergh joined Lancaster in the [[Capture of the Portuguese carrack off Atjeh (October 1602)|capture of the Portuguese carrack of 3 October 1602]] for an eighth of the prize.
 
 ## The absorption into the VOC (1602)
 
@@ -76,7 +76,7 @@ Moucheron's firm is, in Van der Woude's narrative, the principal Zeeland voorcom
 - [[Houtman brothers' visit to Atjeh (1599)]]
 - [[Cornelis de Houtman]]
 - [[Frederik de Houtman]]
-- [[Joris Spilbergh]]
+- [[Joris van Spilbergen|Joris Spilbergh]]
 - [[Joris Spilbergh's Atjeh visit (1602)]]
 - [[Cornelis Spex]]
 - [[John Davis]]

@@ -29,7 +29,7 @@ Weltevreden's significance for Achehnese history lies in its role as the imperia
 - [[Michiels Monument]]
 - [[Batavia]]
 - [[Volkslectuur]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 
 ## Sources
 

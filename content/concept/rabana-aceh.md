@@ -32,7 +32,7 @@ The instrument arrived in **Aceh** — the "Veranda of Mecca" (*Serambi Mekkah*)
 | **[[Acheh]]** | **Rabana** / **Redep** | 30–50 cm | Optional (2–4 pairs) | *Zikir*, *Hadrah*, *Saman*, *Seudati* |
 | **[[Malay Peninsula]]** | *Rebana* / *Rebana Ubi* | 40–60 cm | No | *Hadrah*, *Ghazal*, *Dikir Barat* |
 | **[[Riau-Lingga]]** | *Rebana* | 35–50 cm | Sometimes | Court *Ghazal*, *Zikir* |
-| **[[Minangkabau]]** | *Rabana* / *Rapai* | 30–45 cm | Sometimes | *Dikir*, *Randai* accompaniment |
+| **[[Menangkabau|Minangkabau]]** | *Rabana* / *Rapai* | 30–45 cm | Sometimes | *Dikir*, *Randai* accompaniment |
 | **[[Java]]** (coastal) | *Rebana* / *Rebana Biang* | 30–50 cm | Sometimes | *Hadrah*, *Kroncong*, *Gambus* ensembles |
 | **[[Sasak]]** (Lombok) | *Rebana* | 30–40 cm | No | *Gendang Beleq*, *Rebana* ensembles |
 | **[[Middle East]]** (origin) | *Daff* / *Riqa* / *Tar* / *Bendir* | 40–60 cm | *Riqa*: yes; others: no | *Sufi* rituals, folk, art music |

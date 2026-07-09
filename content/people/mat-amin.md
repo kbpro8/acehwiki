@@ -15,7 +15,7 @@ After his father's death Mat Amin gave the rein more than ever to his evil passi
 
 The case of Mat Amin is cited by Snouck Hurgronje as a typical instance of the structural fragility of charismatic authority in Acheh. The religious prestige of a great ulama could not be inherited; and the moment the personal qualities on which it rested were seen to be wanting, the movement collapsed. Teungku Tiro's other sons — [[Teungku Beb]] (died [[1900]]) and [[Teungku Mahidin]] (or Ma' Et) — together with their kinsman [[Teungku Chot Plieng]] (died [[1901]]), much respected for his piety and learning, continued after Mat Amin's death to do their utmost to maintain the collection of the [[Sabil contributions (lui sabi aqq sabil)|sabil contributions]] in the dependencies on the [[North Coast (of Acheh)|North Coast]]; but, as Snouck Hurgronje notes in a translator's bracketed addition, [[Great Acheh]] "no longer furnishes a field for the labour of these men and their fellows."
 
-Mat Amin himself was killed in action in [[1896]], when the Dutch troops captured the fortress of [[Capture of Aneu' Galong fortress|Aneu' Galong]]. His death closed the brief and inglorious chapter of the son's military career, and confirmed the lesson of his father's dying warning.
+Mat Amin himself was killed in action in [[1896]], when the Dutch troops captured the fortress of [[Battle of Aneu Galong (1896)|Aneu' Galong]]. His death closed the brief and inglorious chapter of the son's military career, and confirmed the lesson of his father's dying warning.
 
 ## See Also
 
@@ -25,7 +25,7 @@ Mat Amin himself was killed in action in [[1896]], when the Dutch troops capture
 - [[Teungku Mahidin]]
 - [[Teungku Chot Plieng]]
 - [[Tiro]]
-- [[Capture of Aneu' Galong fortress]]
+- [[Battle of Aneu Galong (1896)|Capture of Aneu' Galong fortress]]
 - [[Acheh War]]
 - [[Sabil contributions (lui sabi aqq sabil)]]
 - [[Holy War (Jihad) against the Dutch]]
@@ -47,7 +47,7 @@ After his father's death Mat Amin gave the rein more than ever to his evil passi
 
 The case of Mat Amin is cited by Snouck Hurgronje as a typical instance of the structural fragility of charismatic authority in Acheh. The religious prestige of a great ulama could not be inherited; and the moment the personal qualities on which it rested were seen to be wanting, the movement collapsed. Teungku Tiro's other sons — [[Teungku Beb]] (died [[1900]]) and [[Teungku Mahidin]] (or Ma' Et) — together with their kinsman [[Teungku Chot Plieng]] (died [[1901]]), much respected for his piety and learning, continued after Mat Amin's death to do their utmost to maintain the collection of the [[Sabil contributions (lui sabi aqq sabil)|sabil contributions]] in the dependencies on the [[North Coast (of Acheh)|North Coast]]; but, as Snouck Hurgronje notes in a translator's bracketed addition, [[Great Acheh]] "no longer furnishes a field for the labour of these men and their fellows."
 
-Mat Amin himself was killed in action in [[1896]], when the Dutch troops captured the fortress of [[Capture of Aneu' Galong fortress|Aneu' Galong]]. His death closed the brief and inglorious chapter of the son's military career, and confirmed the lesson of his father's dying warning.
+Mat Amin himself was killed in action in [[1896]], when the Dutch troops captured the fortress of [[Battle of Aneu Galong (1896)|Aneu' Galong]]. His death closed the brief and inglorious chapter of the son's military career, and confirmed the lesson of his father's dying warning.
 
 ## See Also
 
@@ -57,7 +57,7 @@ Mat Amin himself was killed in action in [[1896]], when the Dutch troops capture
 - [[Teungku Mahidin]]
 - [[Teungku Chot Plieng]]
 - [[Tiro]]
-- [[Capture of Aneu' Galong fortress]]
+- [[Battle of Aneu Galong (1896)|Capture of Aneu' Galong fortress]]
 - [[Acheh War]]
 - [[Sabil contributions (lui sabi aqq sabil)]]
 - [[Holy War (Jihad) against the Dutch]]

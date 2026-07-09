@@ -8,7 +8,7 @@ tags: [place, fortress, acehnese, aceh-war]
 
 ## The Storming, 12 January 1874
 
-After the taking of the [[Missigit|missigit]] of the Kraton on [[6 January]] [[6 January]] [[1874]], letters were sent to [[Toekoe Nek Radja Moeda Setia|Toekoe Nek]] of [[Marassa|Marassa]] and to four other chiefs of the [[XXV Moekims|XXV Moekims]]. On [[11 January]] [[11 January]] [[1874]] Toekoe Nek held a secret meeting with the controller Kroesen, in which he promised to pay a visit to the supreme commander, and at the same time gave the advice that the Dutch should seize the Taman or Kota Goenoengan, the sultan's fortified pleasure-garden south-west of the Kraton, in order to close the sultan off from the west side. Lieutenant-general [[J. van Swieten|Van Swieten]], who had already vainly attempted to surprise the Kraton, decided to follow his advice.
+After the taking of the [[Missigit|missigit]] of the Kraton on [[6 January]] [[6 January]] [[1874]], letters were sent to [[Toekoe Nek Radja Moeda Setia|Toekoe Nek]] of [[Marassa|Marassa]] and to four other chiefs of the [[XXV Moekims|XXV Moekims]]. On [[11 January]] [[11 January]] [[1874]] Toekoe Nek held a secret meeting with the controller Kroesen, in which he promised to pay a visit to the supreme commander, and at the same time gave the advice that the Dutch should seize the Taman or Kota Goenoengan, the sultan's fortified pleasure-garden south-west of the Kraton, in order to close the sultan off from the west side. Lieutenant-general [[Jan van Swieten|Van Swieten]], who had already vainly attempted to surprise the Kraton, decided to follow his advice.
 
 On [[12 January]] [[12 January]] [[1874]] the Taman or Kota Goenoengan was stormed and taken. "Probably from resentment at this, the enemy made an attack on our bivouac at [[Penajoeng|Penajoeng]] and the trench-guard. Although our guards were at first surprised, the attack was chiefly repelled by the gallant conduct of Captain [[E. C. van Daalen|Van Daalen]]."
 
@@ -19,7 +19,7 @@ From Kota Goenoengan, between the brushwood, one saw a broken piece of wall with
 ## See Also
 
 - [[Kraton of Aceh]]
-- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
 - [[Toekoe Nek Radja Moeda Setia]]
 - [[E. C. van Daalen]]
 - [[Kroesen (controller)]]

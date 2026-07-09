@@ -6,7 +6,7 @@ tags: [place, religious-site, water-feature, mukim, well, sacred-site, ix-mukims
 
 **Krueng Blibeh** (Achehnese *Kruëng Blibëh*) is a holy well in the [[IX Mukims|IX Mukims]] of [[Great Acheh|Great Acheh]], mentioned in *The Achehnese* Vol. I as one of the natural objects credited with the power of bringing rain, and resorted to accordingly in the rain-making superstitions of the country.
 
-The well is named in a footnote to Snouck Hurgronje's account of the *pantang* (taboo) rules affecting the Achehnese *sukeës* or tribal confederacies. Illustrating the kind of sacred natural objects that form the centre of local vows and observances, the footnote groups together a number of parallel examples: "[[Ja Karieng|Ja Karieng]], a dreaded tree on [[Pulo Lam Puyang|Pulo Lam Puyang]], the subject of many vows; [[Gunong Lhee|Gunong Lhee]], a mountain on the coast of the [[IV Mukims Ateue|IV Mukims]] which plays a part in the rain-making superstition; Krueng Blibeh, a holy well in the IX Mukims, which also helps to cause rain; and so forth." The list is intended to convey the kind of natural objects that attract vows and observances — trees, mountains, wells, and similar features of the landscape — without entering into the detailed ritual of each.
+The well is named in a footnote to Snouck Hurgronje's account of the *pantang* (taboo) rules affecting the Achehnese *sukeës* or tribal confederacies. Illustrating the kind of sacred natural objects that form the centre of local vows and observances, the footnote groups together a number of parallel examples: "[[Ja Karieng|Ja Karieng]], a dreaded tree on [[Pulo Lam Puyang|Pulo Lam Puyang]], the subject of many vows; [[Eumpee Lulu|Eumpee Lulu]], a mountain on the coast of the [[IV Mukims Ateue|IV Mukims]] which plays a part in the rain-making superstition; Krueng Blibeh, a holy well in the IX Mukims, which also helps to cause rain; and so forth." The list is intended to convey the kind of natural objects that attract vows and observances — trees, mountains, wells, and similar features of the landscape — without entering into the detailed ritual of each.
 
 What distinguishes Krueng Blibeh in this list is its double character. It is at once a *holy* well — that is to say, a spring or water-hole venerated for its sanctity, perhaps from association with the memory of some saint or from a tradition of miraculous origin — and an instrument of the rain-making cult. The Achehnese, like other rice-growing peoples of the archipelago, were much concerned with the regularity of the rainfall, and a number of natural objects were credited with the power to bring on or to withhold the rain. The cult of such objects is essentially pre-Mohammedan in character, but — as with the *pantang* rules of the *sukeës* — it had been quietly absorbed into the popular Islam of the country and was practised without any sense of incongruity by devout Mohammedans.
 
@@ -18,7 +18,7 @@ The Achehnese word *kruëng* — "river" or "watercourse" — is the common desi
 
 ### The Footnote on the Smaller Kawoms
 
-In the course of his discussion of the Achehnese *kawom* — the agnatic clan-grouping whose political weight had once been considerable but had by the late nineteenth century much declined — Snouck notes that the constitution or appellation of some of the smaller kawoms appears to him not improbably to have been absorbed into local superstitions. "Compare [[Ja Karieng|Ja Kariéng]], a dreaded tree on [[Pulo Lam Puyang]], the subject of many vows; [[Gunong Lhee|Eumpèe Luluh]], a mountain on the coast of the [[IV Mukims (of XXV)|IV Mukims]] which plays a part in the rain-making superstition; **Eumpèe Blieng**, a holy well in the [[IX Mukims|IX Mukims]], which also helps to cause rain, etc."
+In the course of his discussion of the Achehnese *kawom* — the agnatic clan-grouping whose political weight had once been considerable but had by the late nineteenth century much declined — Snouck notes that the constitution or appellation of some of the smaller kawoms appears to him not improbably to have been absorbed into local superstitions. "Compare [[Ja Karieng|Ja Kariéng]], a dreaded tree on [[Pulo Lam Puyang]], the subject of many vows; [[Eumpee Lulu|Eumpèe Luluh]], a mountain on the coast of the [[IV Mukims (of XXV)|IV Mukims]] which plays a part in the rain-making superstition; **Eumpèe Blieng**, a holy well in the [[IX Mukims|IX Mukims]], which also helps to cause rain, etc."
 
 The Achehnese word *eumpèe* — Snouck's *eumpèe* in the printed text is, in the original, a slightly irregular form — is here glossed in the sense of "high place" or "elevated feature," but its application to a well is unusual. The reference to a *holy well* places Krueng Blibeh in the same category of sacred water-sources as the better-known wells of the Mohammedan world: the Well of Zamzam at [[Mecca|Mecca]], the holy wells of the Hadramaut, and the numerous local springs which, in every part of the [[East Indian Archipelago|Indian Archipelago]], were credited with miraculous properties.
 
@@ -28,7 +28,7 @@ The [[IX Mukims|IX Mukims]] — the "Nine Mukims" — is a district of [[Great A
 
 ### The Rain-Making Superstition
 
-The rain-making observances attached to Krueng Blibeh are not described in detail by Snouck. The parallel with the mountain of [[Gunong Lhee|the IV Mukims]] and the dreaded tree of [[Pulo Lam Puyang|Pulo Lam Puyang]] suggests that the well was the object of vows and small offerings, and that its water — or the act of drawing it — was believed to have the power of compelling the fall of rain. Such observances were, in Snouck's time, already of the nature of survivals; their association with the half-forgotten names of small kawoms points to an age in which the *kawom* and the natural feature had been part of a single local cult, and the holy well of Krueng Blibeh is one of the small relics of that older order.
+The rain-making observances attached to Krueng Blibeh are not described in detail by Snouck. The parallel with the mountain of [[Eumpee Lulu|the IV Mukims]] and the dreaded tree of [[Pulo Lam Puyang|Pulo Lam Puyang]] suggests that the well was the object of vows and small offerings, and that its water — or the act of drawing it — was believed to have the power of compelling the fall of rain. Such observances were, in Snouck's time, already of the nature of survivals; their association with the half-forgotten names of small kawoms points to an age in which the *kawom* and the natural feature had been part of a single local cult, and the holy well of Krueng Blibeh is one of the small relics of that older order.
 
 ### The Sacred Wells of the Achehnese
 
@@ -37,7 +37,7 @@ The holy well of Krueng Blibeh is one of a class of sacred water-sources which t
 ## See Also
 
 - [[IX Mukims]]
-- [[Gunong Lhee]]
+- [[Eumpee Lulu|Gunong Lhee]]
 - [[Ja Karieng]]
 - [[Pulo Lam Puyang]]
 - [[Krueng Daroy]]

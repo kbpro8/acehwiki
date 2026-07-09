@@ -23,7 +23,7 @@ The erection of a monument specifically commemorating the pacification of Atjeh,
 - [[Peutjot Cemetery]]
 - [[Weltevreden]]
 - [[Aceh War]]
-- [[Governor Van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
 - [[Governor Van der Heyden]]
 - [[Queen Wilhelmina]]
 

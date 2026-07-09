@@ -10,7 +10,7 @@ tags: [concept, colonial, japanese, fifth-column, atjeh, world-war-ii, dutch-eas
 
 The [[Nederlands-Indië contra Japan|staff history]] records that the Dutch command at [[Kotaradja|Kotaradja]] at first did not understand the significance of the letter F. "Aanvankelijk meende men, dat de afkorting was van *Fadjar*, dat dageraad betekent." The correct identification came only after the arrest and interrogation of a Menadonese soldier at Kotaradja — a soldier who "zich meermalen op kleinerende wijze over de Nederlanders uitgelaten en zijn bewondering voor de Japanners niet onder stoelen en banken gestoken." Under sharp interrogation the soldier confessed "dat hij door een aantal Atjehers te zijn overgehaald toe te treden tot een wijdvertakte z.g. F. beweging." "Later werd bekend, dat dit een afkorting was van Fujiwara, een Japanner, die in Malakka een georganiseerde colonne had uit aldaar aanwezige Indonesiërs. Reeds na de val van Penang (19 December 1941) maakte Fujiwara met de opbouw van deze organisatie een aanvang."
 
-The entry thus identifies the Atjeh F-beweging as a branch of the wider **Fujiwara-kikan** — the Japanese intelligence network that, under [[Fujiwara (Japanese intelligence officer)|Fujiwara]] and later [[Masubuchi|Masubuchi]], would re-emerge in [[1945]] as the [[Masubuchi-kikan|Masubuchi-kikan]]. The Piekaar account (see [[F-organisatie|F-organisatie]]) treats the F-beweging as the popular Atjeh face of the same organisation.
+The entry thus identifies the Atjeh F-beweging as a branch of the wider **Fujiwara-kikan** — the Japanese intelligence network that, under [[Fujiwara Iwaichi|Fujiwara]] and later [[Masubuchi|Masubuchi]], would re-emerge in [[1945]] as the [[Masubuchi-kikan|Masubuchi-kikan]]. The Piekaar account (see [[F-organisatie|F-organisatie]]) treats the F-beweging as the popular Atjeh face of the same organisation.
 
 ## The witte band met rode letter F
 
@@ -42,7 +42,7 @@ The F-beweging is, in the staff history's Atjeh chapter, the decisive operationa
 - [[Nederlands-Indië contra Japan]]
 - [[F-organisatie]]
 - [[Masubuchi-kikan]]
-- [[Fujiwara (Japanese intelligence officer)]]
+- [[Fujiwara Iwaichi|Fujiwara (Japanese intelligence officer)]]
 - [[Fall of Penang]]
 - [[murder of Tiggelman at Seulimeum]]
 - [[murder of Von Sperling]]

@@ -4,7 +4,7 @@ aliases: [Riau, Rhio, Rio, Riau Islands, Riau-Lingga, Riouw, Riau Archipelago]
 tags: [place, sacred-site, foreign-land, island, archipelago, dutch-east-indies, malay-world, treaty-of-london-1824, sultanate, aceh, dutch, colonial, sumatra, east-indies]
 ---
 
-**Riouw** (modern **Riau**, also rendered **Rhio**, **Rio**, **Riouw** in Dutch, and **Riau‑Archipelago**) was an island archipelago and sultanate at the southern tip of the [[Malay Peninsula]], lying south of [[Singapore]] and straddling the entrance to the [[Malacca Strait]]. The principal island, **Bintan**, gave its name to the seat of the **Sultanate of Riouw‑Lingga**, whose court moved from [[Tanjung Pinang]] to Daik on [[Lingga]] in the late eighteenth and early nineteenth centuries. After the Napoleonic Wars the Dutch re‑established control, first through the **[[Dutch East India Company|Oost‑Indische Compagnie]]** and later as a Dutch colonial administrative region, while the British and the [[Aceh]] Sultanate contested its strategic maritime position. The archipelago’s islands—including [[Bintan]], [[Batam]], [[Lingga]] and smaller isles such as [[Mars (island)]]—were confirmed as Dutch possessions by the [[Treaty of London (1824)|Anglo‑Dutch treaty of [[1824]]]] and remained so until the Japanese occupation of [[1942]].
+**Riouw** (modern **Riau**, also rendered **Rhio**, **Rio**, **Riouw** in Dutch, and **Riau‑Archipelago**) was an island archipelago and sultanate at the southern tip of the [[Malay Peninsula]], lying south of [[Singapore]] and straddling the entrance to the [[Malacca Strait]]. The principal island, **Bintan**, gave its name to the seat of the **Sultanate of Riouw‑Lingga**, whose court moved from [[Tanjung Pinang]] to Daik on [[Lingga]] in the late eighteenth and early nineteenth centuries. After the Napoleonic Wars the Dutch re‑established control, first through the **[[Dutch East India Company|Oost‑Indische Compagnie]]** and later as a Dutch colonial administrative region, while the British and the [[Aceh]] Sultanate contested its strategic maritime position. The archipelago’s islands—including [[Bintan]], [[Batam]], [[Lingga]] and smaller isles such as [[Mars (island)]]—were confirmed as Dutch possessions by the [[Anglo-Dutch Treaty of 1824|Anglo‑Dutch treaty of [[1824]]]] and remained so until the Japanese occupation of [[1942]].
 
 ## Geography and Political Structure
 
@@ -22,7 +22,7 @@ When the deadline passed, Dutch forces opened fire, prompting **[[Radya Aly]]** 
 
 ## Re‑establishment of Dutch Authority (Post‑Napoleonic Era)
 
-Following the defeat of Napoleon, the Dutch re‑asserted sovereignty over **Riouw**. On **[[26 November]] [[1818]]** **Commissioner‑General A. A. Buyskes** and Rear‑Admiral **Wolterbeek** concluded the **Riouw‑tractaat**, a treaty that aimed to nail down Dutch suzerainty over the archipelago south of [[Singapore]] and to bar further British establishments. [[Governor Thyssen]] of [[Malacca]] believed the treaty guaranteed the Dutch “against all further establishments in those regions from the English side,” a confidence shattered only two months later when [[Raffles]] landed on Singapore.
+Following the defeat of Napoleon, the Dutch re‑asserted sovereignty over **Riouw**. On **[[26 November]] [[1818]]** **Commissioner‑General A. A. Buyskes** and Rear‑Admiral **Wolterbeek** concluded the **Riouw‑tractaat**, a treaty that aimed to nail down Dutch suzerainty over the archipelago south of [[Singapore]] and to bar further British establishments. [[Governor Thyssen]] of [[Malacca]] believed the treaty guaranteed the Dutch “against all further establishments in those regions from the English side,” a confidence shattered only two months later when [[Sir Thomas Stamford Raffles|Raffles]] landed on Singapore.
 
 ## Commercial Rivalry and the Salt Question
 
@@ -32,7 +32,7 @@ The archipelago also served as a refuge for displaced peoples. Van der Kemp note
 
 ## Anglo‑Dutch Settlement of [[1824]]
 
-Under the **[[Treaty of London (1824)|Anglo‑Dutch treaty of [[1824]]]]**, **Riouw** and its dependent islands—including [[Bintan]], [[Batam]] and [[Lingga]]—were confirmed as Dutch possessions. Article 12 obliged the British to establish no offices there and to make no treaties with their chiefs. This arrangement endured for more than a century, shaping the colonial map of the region until the Japanese occupation of [[1942]] ended Dutch rule.
+Under the **[[Anglo-Dutch Treaty of 1824|Anglo‑Dutch treaty of [[1824]]]]**, **Riouw** and its dependent islands—including [[Bintan]], [[Batam]] and [[Lingga]]—were confirmed as Dutch possessions. Article 12 obliged the British to establish no offices there and to make no treaties with their chiefs. This arrangement endured for more than a century, shaping the colonial map of the region until the Japanese occupation of [[1942]] ended Dutch rule.
 
 ## Significance
 
@@ -47,8 +47,8 @@ The history of **Riouw** illustrates the archipelago’s role as a geopolitical 
 - [[Bintan]]
 - [[Batam]]
 - [[Malacca]]
-- [[Treaty of London (1824)]]
-- [[Wolterbeek]]
+- [[Anglo-Dutch Treaty of 1824|Treaty of London (1824)]]
+- [[Schout-bij-nacht Wolterbeek|Wolterbeek]]
 - [[Raffles' Atjeh-overeenkomst van 1819]]
 - [[Dutch East India Company]]
 - [[Aceh]]

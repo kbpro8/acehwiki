@@ -8,7 +8,7 @@ tags: [person, scholar, philologist, malayist, dutch, colonial]
  
 ## Editorial Work on the Burda Manuscript
  
-Evenhage obtained photostats of the Burda manuscript from [[Cambridge University Library]] through the intermediation of [[A. Kessen]], director of the Leiden University Library. He recognized the text as an interlinear Malay translation of the *Kasidatu'l-Burda* by [[al-Busiri]], written beneath the Arabic original in a North Sumatran hand. Evenhage's edition provides: a detailed introduction covering manuscript history, the date of the *Hikajat Muhammad Hanafiah*, the significance of the Burda translation for early Malay Islamic literature, notes on the *kasida* form, the legend of Ka'b ibn Zuhayr's *Burda*, the popularity of al-Busiri's poem, and [[Wahhabi]] criticism; a synopsis of the poem; codicological description; orthographic and morphological analysis; lists of Arabic loanwords; the Malay text; a Dutch translation; a Malay glossary; an Arabic word index; and an appendix with a fragment of a Malay translation of [[al-Ushi]]'s *Bad' al-Amali*.
+Evenhage obtained photostats of the Burda manuscript from [[Cambridge University Library]] through the intermediation of [[A. Kessen]], director of the Leiden University Library. He recognized the text as an interlinear Malay translation of the *Kasidatu'l-Burda* by [[Al-Busiri|al-Busiri]], written beneath the Arabic original in a North Sumatran hand. Evenhage's edition provides: a detailed introduction covering manuscript history, the date of the *Hikajat Muhammad Hanafiah*, the significance of the Burda translation for early Malay Islamic literature, notes on the *kasida* form, the legend of Ka'b ibn Zuhayr's *Burda*, the popularity of al-Busiri's poem, and [[Wahhabi]] criticism; a synopsis of the poem; codicological description; orthographic and morphological analysis; lists of Arabic loanwords; the Malay text; a Dutch translation; a Malay glossary; an Arabic word index; and an appendix with a fragment of a Malay translation of [[Siraj al-Din Abu Muhammad Ali ibn Uthman al-Ushi|al-Ushi]]'s *Bad' al-Amali*.
  
 ## Scholarly Contributions
  
@@ -21,7 +21,7 @@ Evenhage published under the auspices of the [[Koninklijk Instituut voor Taal-, 
 ## See Also
  
 - [[16th-century Malay translation of the Burda]]
-- [[al-Busiri]]
+- [[Al-Busiri|al-Busiri]]
 - [[Kasidatu'l-Burda]]
 - [[Cambridge University Library]]
 - [[Koninklijk Instituut voor Taal-, Land- en Volkenkunde]]

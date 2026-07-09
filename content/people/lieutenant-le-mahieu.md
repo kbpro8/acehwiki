@@ -14,7 +14,7 @@ Le Mahieu coordinated the preparation of the landing craft and oversaw the dep
 Although a recommendation for his promotion to the *Militaire Willemsorde* was made, it was not acted upon because he had died before the royal decree of [[11 December]] [[1849]] (page 108).
 
 ## See Also
-- [[Korps Mariniers]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[1849 Bali Expedition]]
 - [[Militaire Willemsorde]]
 - [[Koninklijk Besluit (1849) No. 44]]

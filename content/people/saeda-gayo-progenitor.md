@@ -12,7 +12,7 @@ The legend of the Lah branch — which *De Buitenbezittingen* follows as "de min
 
 ## The loss and recovery of the bawar
 
-Saëda established himself in the *Meerstreek* — the [[Laoet Tawar|Laoet Tawar]] basin — where, with the title *Mérhoem Meukoeta Alam*, he became prince over all the land until the invasion of the *Bataq doeloe poeloh toedjéh* — the seventy-two Bataks. In the war that followed, the Boekét family was forced to flee; Saëda returned to Seroelë and disappears from the legend. *Mérah Lama* went with his two stepbrothers to *Kébajakan*, where, in possession of the *bawar*, he was installed as *Kédjoerön Boekét*. *Panglima Dagang* settled in [[Meureudoe|Meureudoe]].
+Saëda established himself in the *Meerstreek* — the [[Laut Tawar|Laut Tawar]] basin — where, with the title *Mérhoem Meukoeta Alam*, he became prince over all the land until the invasion of the *Bataq doeloe poeloh toedjéh* — the seventy-two Bataks. In the war that followed, the Boekét family was forced to flee; Saëda returned to Seroelë and disappears from the legend. *Mérah Lama* went with his two stepbrothers to *Kébajakan*, where, in possession of the *bawar*, he was installed as *Kédjoerön Boekét*. *Panglima Dagang* settled in [[Meureudoe|Meureudoe]].
 
 The subsequent dispute over the *bawar* — particularly the *keris kepala soeasa*, the gold-headed kris — turned on the unilateral seizure of the principal insignium by *Ménèt*, who thereupon claimed the *Kédjoerön* title, since, by Gayo adat, "wie de bawar heeft, ook kédjoerön is." The matter was eventually resolved when *Panglima Dagang*, having purchased back the kris from the Atjehsche aanvoerder to whom Ménèt had been forced to surrender it as ransom, reunited all the *bawar* in his own hand and was acknowledged as *Kédjoerön Boekét*. The descendants of *Ménèt* — the *Boekét Ewéh* — nevertheless continued to use the title and to contest the precedence of the *Boekét Lah* line down to the Dutch period.
 
@@ -30,7 +30,7 @@ The legend of Saëda encodes several features of Gayo political life that *De Bu
 - [[Bataq Doeloe Poeloh Toedjéh]]
 - [[Panglima Dagang]]
 - [[Ménèt]]
-- [[Laoet Tawar]]
+- [[Laut Tawar|Laoet Tawar]]
 - [[Meureudoe]]
 
 ## Source
@@ -46,7 +46,7 @@ The legend of the Lah branch — which *De Buitenbezittingen* follows as "de min
 
 ## The loss and recovery of the bawar
 
-Saëda established himself in the *Meerstreek* — the [[Laoet Tawar|Laoet Tawar]] basin — where, with the title *Mérhoem Meukoeta Alam*, he became prince over all the land until the invasion of the *Bataq doeloe poeloh toedjéh* — the seventy-two Bataks. In the war that followed, the Boekét family was forced to flee; Saëda returned to Seroelë and disappears from the legend. *Mérah Lama* went with his two stepbrothers to *Kébajakan*, where, in possession of the *bawar*, he was installed as *Kédjoerön Boekét*. *Panglima Dagang* settled in [[Meureudoe|Meureudoe]].
+Saëda established himself in the *Meerstreek* — the [[Laut Tawar|Laut Tawar]] basin — where, with the title *Mérhoem Meukoeta Alam*, he became prince over all the land until the invasion of the *Bataq doeloe poeloh toedjéh* — the seventy-two Bataks. In the war that followed, the Boekét family was forced to flee; Saëda returned to Seroelë and disappears from the legend. *Mérah Lama* went with his two stepbrothers to *Kébajakan*, where, in possession of the *bawar*, he was installed as *Kédjoerön Boekét*. *Panglima Dagang* settled in [[Meureudoe|Meureudoe]].
 
 The subsequent dispute over the *bawar* — particularly the *keris kepala soeasa*, the gold-headed kris — turned on the unilateral seizure of the principal insignium by *Ménèt*, who thereupon claimed the *Kédjoerön* title, since, by Gayo adat, "wie de bawar heeft, ook kédjoerön is." The matter was eventually resolved when *Panglima Dagang*, having purchased back the kris from the Atjehsche aanvoerder to whom Ménèt had been forced to surrender it as ransom, reunited all the *bawar* in his own hand and was acknowledged as *Kédjoerön Boekét*. The descendants of *Ménèt* — the *Boekét Ewéh* — nevertheless continued to use the title and to contest the precedence of the *Boekét Lah* line down to the Dutch period.
 
@@ -64,7 +64,7 @@ The legend of Saëda encodes several features of Gayo political life that *De Bu
 - [[Bataq Doeloe Poeloh Toedjéh]]
 - [[Panglima Dagang]]
 - [[Ménèt]]
-- [[Laoet Tawar]]
+- [[Laut Tawar|Laoet Tawar]]
 - [[Meureudoe]]
 
 ## Source
