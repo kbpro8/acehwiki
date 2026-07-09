@@ -53,7 +53,12 @@ jobs:
         run: npx quartz build
 
       - name: Create robots.txt
-        run: printf 'User-agent: *\nAllow: /\nSitemap: https://kbpro8.github.io/acehwiki/sitemap.xml\n' > public/robots.txt
+        run: |
+          {
+            echo "User-agent: *"
+            echo "Allow: /"
+            echo "Sitemap: https://kbpro8.github.io/acehwiki/sitemap.xml"
+          } > public/robots.txt
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
