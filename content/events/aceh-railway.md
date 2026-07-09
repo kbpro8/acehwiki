@@ -2,7 +2,7 @@
 title: Aceh Railway
 aliases: [Atjeh spoorweg, spoorweg in Atjeh, Atjeh spoorwegnet, railway in Aceh, Aceh rail network]
 tags: [event, infrastructure, transport, railway, colonial, dutch, acheh, sumatra, buitengewesten]
-description: The Atjeh railway was a significant rail network in the Gouvernement Atjeh en Onderhoorigheden, noted by the 1926 atlas as one of the important railway networks in the Outer Territories alongside that of Deli on Sumatra's East Coast.
+description: "The Atjeh railway was a significant rail network in the Gouvernement Atjeh en Onderhoorigheden, noted by the 1926 atlas as one of the important railway networks in the Outer Territories alongside that of Deli on Sumatra's East Coast."
 ---
 **The Aceh Railway** was a railway network in the [[Gouvernement Atjeh en Onderhoorigheden|Government of Atjeh and Dependencies]], forming part of the infrastructure developed after the [[Pacification of Atjeh|pacification of Atjeh]].
 

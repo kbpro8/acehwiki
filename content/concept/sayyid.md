@@ -2,7 +2,7 @@
 title: Sayyid
 aliases: [Sayéd, Sayét, Habib, Descendant of Prophet]
 tags: [concept, religion, nobility, title]
-description: A descendant of the Prophet Mohammed, accorded automatic reverence in Acehnese society, whose tombs became important kramat (sacred shrines) and whose living members wielded religious and social influence.
+description: "A descendant of the Prophet Mohammed, accorded automatic reverence in Acehnese society, whose tombs became important kramat (sacred shrines) and whose living members wielded religious and social influence."
 ---
 
 **Sayyid** (Acehnese *sayét* or *sayéd*; also *Habib* for those of the Hadrami Sayyid families) was the honorific title given in [[Great Acheh|Acheh]] — as throughout the Islamic world — to descendants of the Prophet Mohammed. Their status commanded automatic reverence based on religious feeling, even where their personal conduct was far from devotional.

@@ -1,7 +1,7 @@
 ---
 
 title: Teuku Sabi
-aliases: [Teuku Sabi']
+aliases: ["Teuku Sabi'"]
 tags: [person, achehnese, oeleebalang, republican]
 ---
 

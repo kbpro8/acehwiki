@@ -2,7 +2,7 @@
 title: Eumpee Lulu
 aliases: [Haunted Mountain, Grandmother Lulu, Eumpèe Luluh, Gunong Lhee, IV Mukims of the XXV, Peuet Mukim of the XXV, Four Mukims of the XXV, Four Mukims, Peuet Mukim]
 tags: [place, legend, mountain, aceh-proper, mukim, district, wakeueh, superstition]
-description: A mountain on the coast of the IV Mukims of the XXV in Great Aceh, personified by popular superstition as the transformed body of Grandmother Lulu, a legendary old woman of insatiable thirst whose descendants command the art of rain-making.
+description: "A mountain on the coast of the IV Mukims of the XXV in Great Aceh, personified by popular superstition as the transformed body of Grandmother Lulu, a legendary old woman of insatiable thirst whose descendants command the art of rain-making."
 ---
 
 **Eumpee Lulu** (also **Eumpèe Luluh**, **Gunong Lhee**) — the "Haunted Mountain" of [[Great Acheh|Acehnese]] popular superstition — is a mountain that rises from the sea close to the coast of [[Lam Pu'ue'|Lam Pu'ue']] in the [[Eumpee Lulu|Eumpee Lulu]] of the lowland [[XXV Mukims|XXV Mukims]]. It is personified by the legend of **Grandmother Lulu**, an old woman of insatiable thirst who prayed for rain until torrents fell, drank it all as it fell, walked into the sea, and was transformed into this mountain. A noise like growling thunder is always heard there; at times the Grandmother shakes the mountain so that it trembles. Her descendants still survive, and among them there is always a woman who commands the art of making rain: in times of drought she goes to the sea, falls into a frenzy, tries to rush into the sea, is held back by force, and gives commands that produce rain (Snouck Hurgronje, *The Achehnese* Vol. II).

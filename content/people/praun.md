@@ -1,5 +1,5 @@
 ---
-title: Pra'un
+title: "Pra'un"
 tags: [person]
 ---
 

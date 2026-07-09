@@ -1,6 +1,6 @@
 ---
 title: Andam
-aliases: [Andam ceremony, Bride's hair-shaving, Uròe meu'andam]
+aliases: [Andam ceremony, "Bride's hair-shaving, Uròe meu'andam"]
 tags: [event, life-cycle, ceremony, rite]
 ---
 

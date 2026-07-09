@@ -1,7 +1,7 @@
 ---
 
 title: Soenan Kalidjaga
-aliases: [Sunan Kalidjaga, Sunan Kalidjogo, Raden Sahid, Djaka Sahid, Raden Sa'id, Séh Malaja, Pangeran Kali Djaga]
+aliases: [Sunan Kalidjaga, Sunan Kalidjogo, Raden Sahid, Djaka Sahid, "Raden Sa'id, Séh Malaja, Pangeran Kali Djaga"]
 tags: [person, saint, wali, javanese, demak, 16th-century]
 ---
 

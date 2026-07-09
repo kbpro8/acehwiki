@@ -1,6 +1,6 @@
 ---
 title: Hudjdjat as-siddiq li-daf az-zindiq
-aliases: [Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq, Hujjat as-siddiq, Hujjat as-siddīq, Argument of the Pious for the Refutation of the Heretic, Raniri's Hujjat, Maxwell 93]
+aliases: [Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq, Hujjat as-siddiq, Hujjat as-siddīq, Argument of the Pious for the Refutation of the Heretic, "Raniri's Hujjat, Maxwell 93"]
 tags: [document, religious-work, manuscript, islamic-scholarship, polemic, precolonial, 17th-century, aceh, malay, gujarati, wujudiyyah]
 ---
 

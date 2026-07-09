@@ -1,6 +1,6 @@
 ---
 title: Reuntjong
-aliases: [reuntjong, rencong, rentjong, Acehnese kris, Acehnese dagger, Atjehsche rentjong, Atjeh dagger, Atjeh rentjong met houten schede, Wagner's rentjong]
+aliases: [reuntjong, rencong, rentjong, Acehnese kris, Acehnese dagger, Atjehsche rentjong, Atjeh dagger, Atjeh rentjong met houten schede, "Wagner's rentjong"]
 tags: [concept, weapon, acehnese, resistance, wood-carving, precolonial]
 ---
 

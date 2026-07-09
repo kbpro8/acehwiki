@@ -1,6 +1,6 @@
 ---
 title: Hari raja puasa
-aliases: [hari raya puasa, oerë raja poeasa, Idul Fitri, Idoe'lfitr, Eid al-Fitr]
+aliases: [hari raya puasa, oerë raja poeasa, Idul Fitri, "Idoe'lfitr, Eid al-Fitr"]
 tags: [concept, achehnese, religious]
 ---
 **Hari raja puasa** (Atjèhnese *oerë raja poeasa*; Malay *hari raya puasa*; Arabic *Īd al-Fiṭr*) is the great feast that marks the end of the Islamic fasting month of Ramadan in [[Atjèh|Atjèh]] — the principal religious and social festival of the Atjèhnese year, and an occasion of considerable political significance, on which *oelèëbalang*s customarily paid their respects to the *Panglima Sagi* of the *sagi* to which they belonged. Piekaar's *Atjèh and the War with Japan* treats the feast as one of the regular ceremonial hinges of Atjèhnese public life, repeatedly invoked — by both Dutch and Japanese administrators — as the moment for political gestures, religious proclamations, and the public ratification of authority.

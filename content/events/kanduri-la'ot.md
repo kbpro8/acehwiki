@@ -1,6 +1,6 @@
 ---
-title: Kanduri la'ot
-aliases: [Kanduri la'ot, Fishermen's kanduri, Sea-kanduri, Annual feast of the pukat-fishers]
+title: "Kanduri la'ot"
+aliases: ["Kanduri la'ot, Fishermen's kanduri", Sea-kanduri, Annual feast of the pukat-fishers]
 tags: [event, religious, festival, calendar, ceremony, fishery]
 ---
 

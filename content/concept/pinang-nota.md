@@ -1,6 +1,6 @@
 ---
 title: Pinang Nota (1825)
-aliases: [Pinangsche nota 1825, Fullerton's Nota, Fullerton's minute on Acheh, Pinang minute of 21 March 1825]
+aliases: [Pinangsche nota 1825, "Fullerton's Nota, Fullerton's minute on Acheh", Pinang minute of 21 March 1825]
 tags: [concept, diplomatic-concept, colonial-policy, treaty-doctrine]
 ---
 

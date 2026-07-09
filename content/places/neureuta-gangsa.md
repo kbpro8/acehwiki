@@ -1,6 +1,6 @@
 ---
 title: Neureuta Gangsa
-aliases: [in Hikayat Diwa Akaih Chahya"]
+aliases: ["in Hikayat Diwa Akaih Chahya\""]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

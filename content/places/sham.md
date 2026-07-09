@@ -1,6 +1,6 @@
 ---
 title: Sham
-aliases: [Syria / Damascus"]
+aliases: ["Syria / Damascus\""]
 tags: ["place", "sacred-site"]
 ---
 

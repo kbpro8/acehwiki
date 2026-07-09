@@ -1,6 +1,6 @@
 ---
 title: Lam Barueh
-aliases: [Lam Jamee"]
+aliases: ["Lam Jamee\""]
 tags: ["place", "aceh-proper"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Zeeland Company's Atjeh mission (1601)
-aliases: [Middelburgsche Compagnie Atjeh 1601, Zeelanders at Atjeh 1601, Tonneman's Atjeh visit, Zeeland visit to Atjeh August 1601]
+title: "Zeeland Company's Atjeh mission (1601)"
+aliases: [Middelburgsche Compagnie Atjeh 1601, Zeelanders at Atjeh 1601, "Tonneman's Atjeh visit, Zeeland visit to Atjeh August 1601"]
 tags: [event, dutch, precolonial, atjeh, trade, diplomacy, 1601, zeeland, middelburgsche-compagnie, netherlands-east-indies]
 ---
 

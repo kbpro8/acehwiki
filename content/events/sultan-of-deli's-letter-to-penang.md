@@ -1,5 +1,5 @@
 ---
-title: Sultan of Deli's letter to Penang
+title: "Sultan of Deli's letter to Penang"
 aliases: [Deli letter 27 August 1824, Sultan of Deli to Fullerton 27 August 1824, Appendix 6]
 tags: [event, correspondence, diplomacy, malay, colonial]
 ---

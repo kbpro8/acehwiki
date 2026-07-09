@@ -1,6 +1,6 @@
 ---
 title: Atjeh en Onderhorigheden
-aliases: ["Aceh and Dependencies", "Atjeh and Dependencies", "Atjèh en Onderhoorigheden", "Gouvernement Atjeh en Onderhorigheden", residency of Atjeh", "Atjeh en Onderhoorigheden", "Residency of Atjeh"]
+aliases: ["Aceh and Dependencies", "Atjeh and Dependencies", "Atjèh en Onderhoorigheden", "Gouvernement Atjeh en Onderhorigheden", "residency of Atjeh\", \"Atjeh en Onderhoorigheden\", \"Residency of Atjeh\""]
 tags: ["achehnese", "administrative-unit", "colonial", "dutch", "place", "residency", "atjeh"]
 ---
 

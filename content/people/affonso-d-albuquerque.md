@@ -1,6 +1,6 @@
 ---
-title: Affonso d'Albuquerque
-aliases: [Afonso de Albuquerque, Albuquerque (the Great), Affonso d'Albuquerque the Great, Albuquerque (Governor of India)]
+title: "Affonso d'Albuquerque"
+aliases: [Afonso de Albuquerque, Albuquerque (the Great), "Affonso d'Albuquerque the Great, Albuquerque (Governor of India)"]
 tags: [person, portuguese, navigator, military, precolonial, atjeh, djohor, malaka, 16th-century, albuquerque]
 ---
 

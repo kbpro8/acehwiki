@@ -1,6 +1,6 @@
 ---
 
-title: Plando' Kanchi
+title: "Plando' Kanchi"
 aliases: [the Crafty Mouse-deer]
 tags: [person, legend, literary-work]
 ---

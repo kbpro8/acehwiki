@@ -1,6 +1,6 @@
 ---
 title: Batoh
-aliases: [Bato'h, Batöh]
+aliases: ["Bato'h, Batöh"]
 tags: [place, aceh-proper, gampong, banda, capital, lowlands]
 ---
 

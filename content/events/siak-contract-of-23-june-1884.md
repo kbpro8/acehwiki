@@ -1,6 +1,6 @@
 ---
 title: Siak Contract of 23 June 1884 (cession of rights from Panei to Atjeh)
-aliases: [Siak Contract 23 Juni 1884, Siak contract of 1884, Cession of Siak's rights over the Northern Onderhoorigheden to the Dutch 1884, Overname van Siak's aanspraken tot Atjeh toe 1884, Siak-Contract 23-6-1884]
+aliases: [Siak Contract 23 Juni 1884, Siak contract of 1884, "Cession of Siak's rights over the Northern Onderhoorigheden to the Dutch 1884, Overname van Siak's aanspraken tot Atjeh toe 1884", Siak-Contract 23-6-1884]
 tags: [event, document, treaty, colonial, dutch, malay, sumatra, oostkust-van-sumatra, buitenbezittingen, siak, atjeh, panei]
 ---
 

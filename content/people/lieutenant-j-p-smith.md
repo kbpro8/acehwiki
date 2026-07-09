@@ -1,5 +1,5 @@
 ---
-title: Smith, J. P.
+title: "Smith, J. P."
 aliases: [J. P. Smith, Lieutenant J. P. Smith]
 tags: [person, marine, dutch, colonial]
 ---

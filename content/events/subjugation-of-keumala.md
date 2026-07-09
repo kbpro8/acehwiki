@@ -1,6 +1,6 @@
 ---
 title: Subjugation of Keumala
-aliases: [Subjugation of Keumala, Forceful subjugation of Keumala, Reduction of the pretender's court at Keumala]
+aliases: [Subjugation of Keumala, Forceful subjugation of Keumala, "Reduction of the pretender's court at Keumala"]
 tags: [event, aceh-war, dutch-intervention, political]
 ---
 

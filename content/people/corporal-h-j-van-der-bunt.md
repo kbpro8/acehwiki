@@ -1,5 +1,5 @@
 ---
-title: Van der Bunt, H. J.
+title: "Van der Bunt, H. J."
 aliases: [H. J. van der Bunt, Corporal H. J. van der Bunt]
 tags: [person, marine, dutch, colonial]
 ---

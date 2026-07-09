@@ -1,6 +1,6 @@
 ---
-title: De Padrie-oorlog (Costa, 1939)
-aliases: [Costa 1939, De Padrie-oorlog, De Padrie-oorlog haar oorsprong strijd en verloop ter Sumatra's Westkust, S. da Costa Padri War, Padri War da Costa, Padrie war Sumatra's Westkust]
+title: "De Padrie-oorlog (Costa, 1939)"
+aliases: [Costa 1939, De Padrie-oorlog, "De Padrie-oorlog haar oorsprong strijd en verloop ter Sumatra's Westkust, S. da Costa Padri War, Padri War da Costa, Padrie war Sumatra's Westkust"]
 tags: [document, article, colonial, military, religious, padri, sumatra, westkust, 1939, officersvereeniging]
 ---
 

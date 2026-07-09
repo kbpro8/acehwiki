@@ -2,7 +2,7 @@
 title: Acehnese People
 aliases: [Achehnese, Ureuëng Acheh, Atjehers, The Achehnese]
 tags: [event, people, ethnic-group, culture]
-description: The people of Acheh — composed of diverse ethnic elements with a common Acehnese identity, divided between highlanders (ureuëng tunöng) and lowlanders (ureuëng baröh), speaking the Acehnese language and professing Islam.
+description: "The people of Acheh — composed of diverse ethnic elements with a common Acehnese identity, divided between highlanders (ureuëng tunöng) and lowlanders (ureuëng baröh), speaking the Acehnese language and professing Islam."
 ---
 
 **The Acehnese People** (Acehnese: *ureuëng Acheh*; Dutch: *Atjehers*) were the inhabitants of [[Great Acheh|Acheh]] — a diverse population united by common language, customs, and Islamic faith, though divided between highlanders (*ureuëng tunöng*) and lowlanders (*ureuëng baröh*), and containing various ethnic and racial elements drawn from across the archipelago.

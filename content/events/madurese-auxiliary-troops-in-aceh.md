@@ -2,7 +2,7 @@
 title: Madurese Auxiliary Troops in Aceh
 aliases: [Madurese hulptroepen in Atjeh, Madurese auxiliaries in the Aceh War, Madoresche hulptroepen in Atjeh]
 tags: [event, military-history, colonial, dutch, aceh-war, madurese, 19th-century]
-description: Madurese auxiliary forces who served alongside Dutch colonial troops both on Java and in Aceh, led into battle by a sacred banner depicting the daemon god Tjengkara Déwa.
+description: "Madurese auxiliary forces who served alongside Dutch colonial troops both on Java and in Aceh, led into battle by a sacred banner depicting the daemon god Tjengkara Déwa."
 ---
 
 **Madurese auxiliary troops** (Dutch: *Madoresche hulptroepen*) were indigenous soldiers recruited from the island of Madura who fought alongside Dutch colonial forces in various campaigns across the Netherlands Indies, including the [[Aceh War]]. Their participation is attested by a remarkable banner (*vaandel*) in the collection of the [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian Society]], originating from the *kraton* (palace) of Pamekasan on Madura.

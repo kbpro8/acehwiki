@@ -1,7 +1,7 @@
 ---
 
 title: Teungku Teureubue
-aliases: [Muhamat Sa'it, It]
+aliases: ["Muhamat Sa'it, It"]
 tags: [person, mystic]
 ---
 

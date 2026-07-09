@@ -1,7 +1,7 @@
 ---
 
-title: Teukoe Tjhi' Moehamad Daoed Sjah
-aliases: [Teukoe Tjhi' Moehamad Daoed Sjah, Tjhi' of Idi Rajeu', Teuku Tjhi' Mohammad Daud Syah]
+title: "Teukoe Tjhi' Moehamad Daoed Sjah"
+aliases: ["Teukoe Tjhi' Moehamad Daoed Sjah, Tjhi' of Idi Rajeu', Teuku Tjhi' Mohammad Daud Syah"]
 tags: [person, achehnese, oeleebalang, oostkust]
 ---
 **Teukoe Tjhi' Moehamad Daoed Sjah** was the [[oelèëbalang|oelèëbalang]] — self-governing authority — of the *landschap* [[Idi Rajeu'|Idi Rajeu']] in the subdistrict Idi on the East Coast of Atjèh, one of the prominent Atjèhnese self-governing rulers who came to the fore in the late colonial period and a member of the widespread Tjhi' family whose branches spanned the residency. Piekaar's *Atjèh and the War with Japan* introduces him as one of "the many other *oelèëbalang*s" who, alongside the more prominent [[Teukoe Hadji Tjhi' Moehamad Djohan Alam Sjah|Teukoe Hadji Tjhi' Moehamad Djohan Alam Sjah]] of Peusangan, "came to the fore" in the late colonial administration.

@@ -2,7 +2,7 @@
 title: Jan Hendrik van Kinsbergen
 aliases: [Van Kinsbergen, Jan Hendrik van Kinsbergen (admiral), Schout-bijnaacht Van Kinsbergen, Schout-bij-nacht Van Kinsbergen]
 tags: [person, admiral, dutch, magistrate, colonial-administration, aceh, naval-officer]
-description: Dutch admiral who commanded naval forces during the Fourth Anglo-Dutch War, including the engagement at Doggersbank (1781), and who later participated in the 1788–1792 discussions on a permanent corps of ship artillerymen for the VOC.
+description: "Dutch admiral who commanded naval forces during the Fourth Anglo-Dutch War, including the engagement at Doggersbank (1781), and who later participated in the 1788–1792 discussions on a permanent corps of ship artillerymen for the VOC."
 ---
 
 **Jan Hendrik van Kinsbergen** was a Dutch admiral who commanded naval forces during the [[Fourth Anglo-Dutch War]], including the engagement at [[Doggersbank|Dogger Bank]] on [[5 August]] [[1781]]. Rising through the ranks to become *luitenant-generaal* (lieutenant-general) of the navy, he was known for his reforms of naval discipline and for advocating the integration of marine detachments into fleet actions. In the late 1780s and early 1790s he also participated, in his capacity as a senior flag officer (then holding the rank of *schout-bij-nacht* — counter-admiral / rear-admiral), in the discussions on forming a permanent corps of ship artillerymen for the [[Oost-Indische Compagnie|Oost-Indische Compagnie]] (VOC). His advocacy for a larger marine corps aligned with the [[1781]] proposal to raise 6,000 marines, and his actions contributed to the preservation of the Dutch naval strength on which the VOC's trade routes to the Sultanate of [[Aceh]] depended.

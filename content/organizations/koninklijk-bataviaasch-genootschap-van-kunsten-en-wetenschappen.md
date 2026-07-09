@@ -2,7 +2,7 @@
 title: Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen
 aliases: [Royal Batavian Society of Arts and Sciences, Batavian Society, Bataviaasch Genootschap, KBGKW, Genootschap van Kunsten en Wetenschappen, Koninklijk Bataviaasch Genootschap]
 tags: [organization, museum, colonial, dutch, scientific-society, 18th-century, 19th-century, 20th-century]
-description: The Royal Batavian Society of Arts and Sciences, founded in 1778 in Batavia, was the oldest learned society in Southeast Asia and maintained a major museum collection including a significant assemblage of Acehnese gold and silver.
+description: "The Royal Batavian Society of Arts and Sciences, founded in 1778 in Batavia, was the oldest learned society in Southeast Asia and maintained a major museum collection including a significant assemblage of Acehnese gold and silver."
 ---
 
 **The Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen** (English: "Royal Batavian Society of Arts and Sciences") was a learned society and museum founded in [[1778]] in [[Koeta Radja|Batavia]] (now Jakarta), the capital of the Netherlands Indies. It was the oldest scientific society in Southeast Asia and maintained one of the most important museum collections in the colonial archipelago, including a substantial assemblage of Acehnese gold, silver, and precious-metal objects.

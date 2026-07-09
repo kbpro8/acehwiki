@@ -1,6 +1,6 @@
 ---
 title: Janjining Ratu
-aliases: [Janjining ratu, Janji ning ratu, Ta'liq adat, Conditional divorce adat]
+aliases: [Janjining ratu, Janji ning ratu, "Ta'liq adat, Conditional divorce adat"]
 tags: [event, family-law, marriage-custom, adat, religious-practice]
 ---
 

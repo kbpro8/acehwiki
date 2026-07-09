@@ -1,6 +1,6 @@
 ---
 
-title: Teuku Ateue'
+title: "Teuku Ateue'"
 aliases: []
 tags: [person, uleebalang]
 ---

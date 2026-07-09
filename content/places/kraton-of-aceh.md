@@ -1,6 +1,6 @@
 ---
 title: Kraton of Aceh
-aliases: [Dalam, Kuta Raja Kraton, Kraton of Atjeh, Kraton of the Sultan of Aceh, Sultan's citadel of Aceh, Atjeh Kraton]
+aliases: [Dalam, Kuta Raja Kraton, Kraton of Atjeh, Kraton of the Sultan of Aceh, "Sultan's citadel of Aceh, Atjeh Kraton"]
 tags: [place, fortress, acehnese, aceh-war]
 ---
 

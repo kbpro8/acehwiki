@@ -2,7 +2,7 @@
 title: Gampong
 aliases: [Kampong, Gampöng, Acehnese Village, gampong, kampong, gampông, Atjehsche gampong]
 tags: [concept, government, social-structure, achehnese, adat, administration]
-description: The Acehnese village — the fundamental social and political unit of Acehnese society, led by a keuchi' and teungku meunasah, containing a meunasah (chapel) as its communal heart.
+description: "The Acehnese village — the fundamental social and political unit of Acehnese society, led by a keuchi' and teungku meunasah, containing a meunasah (chapel) as its communal heart."
 ---
 
 **Gampong** (from Malay *kampong*) was the fundamental social, political, and religious unit of [[Great Acheh|Acehnese]] society — the village. All Acehnese social life was organised around the gampong, which combined the functions of a residential community, a political unit with its own leadership, and a religious congregation.

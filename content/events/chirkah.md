@@ -1,6 +1,6 @@
 ---
 title: Chirkah
-aliases: [Chirkah, Ḥarakah, Harakah, Ḥaraka, Shamsuddin of Pasai's Chirkah, Chirkah of Shamsuddin, Harakah of Shamsuddin]
+aliases: [Chirkah, Ḥarakah, Harakah, Ḥaraka, "Shamsuddin of Pasai's Chirkah, Chirkah of Shamsuddin, Harakah of Shamsuddin"]
 tags: [document, religious-work, sufi-text, malay-literature, wujudiyyah, precolonial, 17th-century, aceh, mysticism]
 ---
 

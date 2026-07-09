@@ -1,6 +1,6 @@
 ---
 title: Treaty of Atjeh (1607)
-aliases: [Verbond van vriendschap met Atjeh, Dutch-Acehnese Treaty of 1607, Aceh-Dutch Friendship Treaty of 1607, Treaty of Aceh 1607, 1607 Aceh Treaty, Verhoeff's Aceh Treaty]
+aliases: [Verbond van vriendschap met Atjeh, Dutch-Acehnese Treaty of 1607, Aceh-Dutch Friendship Treaty of 1607, Treaty of Aceh 1607, 1607 Aceh Treaty, "Verhoeff's Aceh Treaty"]
 tags: [document, treaty, diplomacy, dutch, colonial, military-alliance]
 ---
 

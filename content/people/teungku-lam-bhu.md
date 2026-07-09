@@ -1,6 +1,6 @@
 ---
 
-title: Teungku Lam Bhu'
+title: "Teungku Lam Bhu'"
 tags: [person, scholar]
 ---
 

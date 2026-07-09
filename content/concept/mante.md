@@ -1,8 +1,8 @@
 ---
-title: Manté's
-aliases: [manté's, manté, mante's, Bosmensen van de XXII Moekims, forest people of the XXII Moekims]
+title: "Manté's"
+aliases: ["manté's, manté, mante's", Bosmensen van de XXII Moekims, forest people of the XXII Moekims]
 tags: [concept, folklore, acehnese, aceh]
-description: Legendary forest-dwelling people said to inhabit the mountains of the XXII Mukims in Aceh, described by Snouck Hurgronje and Merac.
+description: "Legendary forest-dwelling people said to inhabit the mountains of the XXII Mukims in Aceh, described by Snouck Hurgronje and Merac."
 ---
 
 The **Manté's** are legendary forest-dwelling people said to inhabit the mountains of the **XXII Mukims** in [[Aceh]], described in [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *De Atjehers* and later discussed in the chapter *Jagerslatijn* (Hunters' Latin) of [[Oost-Indisch Journael|*Oost-Indisch Journael*]] by Merac ([[1947]]). Said to wear no clothing and to be densely hairy over the whole body, the manté's served in colonial-era writing on [[Aceh]] as the archetypal "people of the interior" — known to all informants only by hearsay, and always located one day's journey further inland than wherever the investigator happened to be.

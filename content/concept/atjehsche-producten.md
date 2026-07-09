@@ -2,7 +2,7 @@
 title: Atjehsche producten
 aliases: [Atjehnese products, Atjeh products, the products of Atjeh, Atjehsche exportproducten, the export products of Atjeh]
 tags: [concept, colonial, dutch, agriculture, trade, buitenbezittingen, aceh, areo-baai-plannen, pepper, rubber]
-description: The export products of Atjeh — principally pepper and rubber — whose steadily increasing production, especially with the reclamation of the Tamiang swamps, was the economic rationale of the 1913 Aroe-baai-plannen to develop Arube Bay as a deep-water harbour.
+description: "The export products of Atjeh — principally pepper and rubber — whose steadily increasing production, especially with the reclamation of the Tamiang swamps, was the economic rationale of the 1913 Aroe-baai-plannen to develop Arube Bay as a deep-water harbour."
 ---
 
 **The Atjehsche producten** ("Atjehnese products") were the export products of the [[Atjeh en Onderhoorigheden|Atjeh and Dependencies]] residency — principally pepper and rubber — whose steadily increasing production, especially with the reclamation of the [[Tamiang|Tamiangsche moerassen (Tamiang swamps)]], was the economic rationale of the [[Aroe-baai-plannen|Aroe-baai-plannen of 1913]] to develop [[Aroebai|Arube Bay]] as a deep-water harbour. In the Encyclopaedisch Bureau's account, the Atjehsche producten were the trade that the Aroe-baai-plannen were designed to divert from [[Belawan]] and [[Sabang]] to [[Aroebai|Arube Bay]] — and, in the most ambitious version of the plans, to develop into a deep-water export trade that would compete with [[Singapore]].

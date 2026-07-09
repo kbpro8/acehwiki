@@ -1,5 +1,5 @@
 ---
-title: Buyskes, Schout-bij-nacht
+title: "Buyskes, Schout-bij-nacht"
 aliases: ["Schout-bij-nacht Buyskes"]
 tags: [person, military, dutch]
 ---

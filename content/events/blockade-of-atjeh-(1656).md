@@ -1,6 +1,6 @@
 ---
 title: Blockade of Atjeh (1656)
-aliases: [Blokkade van Atjeh's kusten 1656, Atjehsche kustblokkade 1656, Dutch blockade of Aceh 1656, Blokkade van Atchin]
+aliases: ["Blokkade van Atjeh's kusten 1656, Atjehsche kustblokkade 1656, Dutch blockade of Aceh 1656, Blokkade van Atchin"]
 tags: [event, war, colonial, dutch, achehnese, military]
 ---
 

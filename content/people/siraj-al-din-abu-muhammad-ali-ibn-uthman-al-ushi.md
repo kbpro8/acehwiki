@@ -2,7 +2,7 @@
 title: Siraj al-Din Abu Muhammad Ali ibn Uthman al-Ushi
 aliases: [al-Ushi, Al-Ushi, al-Ushi (poet), Siraj al-Din al-Ushi, al-Farghani al-Hafnafi]
 tags: [person, poet, theologian, medieval, islamic, arabic, 12th-century, hanafi]
-description: A 12th-century Arab poet-theologian, author of the creed poem Bad' al-Amali (al-Lamiyya fil-tawhid), whose Malay translation reached Aceh by the 16th century.
+description: "A 12th-century Arab poet-theologian, author of the creed poem Bad' al-Amali (al-Lamiyya fil-tawhid), whose Malay translation reached Aceh by the 16th century."
 ---
 
 **Siraj al-Din Abu Muhammad Ali ibn Uthman al-Ushi** (Arabic *Sirāj al-Dīn Abū Muḥammad ʿAlī ibn ʿUthmān al-Ushī*) was a 12th-century Arab poet‑theologian, author of the creed poem *[[Bad' al-Amali]]* — also known as *Kasīda al-Lāmiyya fil-tawḥīd* ("the L‑poem on [divine] unity") — composed circa [[569]] AH / [[1173]] CE. His versified creed spread throughout the Muslim world, reaching the [[Malay Archipelago]] where a 16th‑century Acehnese manuscript preserves an interlinear Malay translation of the poem alongside the contemporary Malay version of the *[[Burda (poem)|Burda]]*.

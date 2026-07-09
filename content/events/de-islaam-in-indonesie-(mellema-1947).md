@@ -1,5 +1,5 @@
 ---
-title: De Islaam in Indonesië (Mellema, 1947)
+title: "De Islaam in Indonesië (Mellema, 1947)"
 aliases: [De Islaam in Indonesië, De Islam in Indonesië, Mellema 1947, Mededeling No. LXXVII, Afd. Volkenkunde No. 25, The Islam in Indonesia (in particular on Java), Islaam in Indonesië]
 tags: [document, source, publication, colonial, religious, ethnology, 1947, mellema, indisch-instituut, java, comparative]
 ---

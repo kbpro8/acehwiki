@@ -1,5 +1,5 @@
 ---
-title: Michiels's campaign against the Atjehnese on Sumatra's Westkust (1839–1840)
+title: "Michiels's campaign against the Atjehnese on Sumatra's Westkust (1839–1840)"
 aliases: [Michiels Baroes campaign, Michiels Atjehers Westkust, Baroes-Tapoes-Singkel campaign 1839-1840, Atjehers driven from Westkust, Colonel Michiels Baroes Tapoes Singkel, Michiels 1840 Atjehers]
 tags: [event, military, colonial, atjeh, westkust, sumatra, michiels, baroes, tapoes, singkel, 1839, 1840, padri-war]
 ---

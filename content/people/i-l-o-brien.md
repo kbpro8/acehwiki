@@ -1,6 +1,6 @@
 ---
-title: I. L. O'Brien
-aliases: [I. L. O'Brien, O'Brien]
+title: "I. L. O'Brien"
+aliases: ["I. L. O'Brien, O'Brien"]
 tags: [person, dutch, colonial-administrator, assistent-resident, westkust-van-atjeh]
 ---
 

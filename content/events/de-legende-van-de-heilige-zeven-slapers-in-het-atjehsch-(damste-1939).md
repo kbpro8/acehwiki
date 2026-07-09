@@ -1,5 +1,5 @@
 ---
-title: De legende van de heilige zeven slapers in het Atjehsch (Damsté, 1939)
+title: "De legende van de heilige zeven slapers in het Atjehsch (Damsté, 1939)"
 aliases: [Damsté 1939, De legende van de heilige zeven slapers, Seven Sleepers legend Atjehsch, Damsté Seven Sleepers, Hikajat Eitia Toedjoh Damsté, Zeven slapers Atjehsch, Legend of the Seven Sleepers in Atjehnese]
 tags: [document, article, edition, religious, literature, atjeh, atjehsch, damste, 1939, bki, seven-sleepers, hikajat]
 ---

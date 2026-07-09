@@ -1,5 +1,5 @@
 ---
-title: De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden (Geusau, 1939)
+title: "De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden (Geusau, 1939)"
 aliases: [Geusau 1939, Alting van Geusau van Daalen, De tocht van Overste van Daalen door de Gajo- Alas- en Bataklanden, J. Alting van Geusau 1939, Geusau van Daalen tocht 1904, Van Daalen campaign Geusau account]
 tags: [document, article, colonial, military, atjeh, gajo, alas, batak, van-daalen, 1904, 1939, indisch-militair-tijdschrift]
 ---

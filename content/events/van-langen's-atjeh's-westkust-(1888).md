@@ -1,6 +1,6 @@
 ---
 title: "Van Langen's Atjeh's Westkust (1888)"
-aliases: [Atjeh's Westkust (Van Langen 1888)", Atjeh's Westkust article", Van Langen Atjeh's Westkust", Van Langen 1888 article"]
+aliases: ["Atjeh's Westkust (Van Langen 1888)\", Atjeh's Westkust article\", Van Langen Atjeh's Westkust\"", "Van Langen 1888 article\""]
 tags: ["achehnese", "article", "colonial", "document", "dutch", "geography"]
 ---
 **Van Langen's *Atjeh's Westkust* ([[1888]])** — full title "Atjeh's Westkust," published in volume II of the *Tijdschrift van het Koninklijk Nederlandsch Aardrijkskundig Genootschap* in [[1888]] — is the article by [[K. F. H. van Langen|K. F. H. van Langen]] that supplied one of the earliest systematic Western geographical accounts of the [[Atjeh's Westkust|Westkust van Atjeh]] (West Coast of Atjeh) and that remained a standard reference for the region through the early decades of the twentieth century. The article is cited in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 104) — alongside [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 120) and [[G. A. J. Wilken|Wilken]]'s *Verspreide Geschriften* (vol. II, p. 488) — as one of the three principal authorities for the [[Atjeh adat schimpstraf (buffalo-riding wife-beater)|Atjeh *adat* schimpstraf]] that paraded a wife-beater seated on a female buffalo.

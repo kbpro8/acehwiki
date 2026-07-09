@@ -2,7 +2,7 @@
 title: Heerendienst
 aliases: [Corvée labour, heerendiensten, herendienst, forced labour service, the heerendienst system of the Buitenbezittingen]
 tags: [concept, colonial, dutch, labour, administration, buitenbezittingen, aceh, infrastructure, roads]
-description: The "heerendienst" — the Dutch colonial corvée labour system, by which the population of the Buitenbezittingen was obliged to provide unpaid labour for public works, principally road construction, before the systematic road plan of the B.O.W. replaced it with paid labour.
+description: "The \"heerendienst\" — the Dutch colonial corvée labour system, by which the population of the Buitenbezittingen was obliged to provide unpaid labour for public works, principally road construction, before the systematic road plan of the B.O.W. replaced it with paid labour."
 ---
 
 **The Heerendienst** ("corvée labour service," plural *heerendiensten*) was the Dutch colonial system of obligatory unpaid labour by which the population of the [[Buitenbezittingen|Outer Possessions]] — including [[Acheh|Atjeh]] — was required to provide labour for public works, principally road construction. In the Encyclopaedisch Bureau's account, the heerendienst was the principal labour instrument of the older, pre-systematic phase of road construction in the Buitenbezittingen: the phase in which roads were built "on initiative of the administrative side" and "gradually in heerendienst" — that is, by forced labour under the direction of administrative officials rather than by centrally planned technical service.

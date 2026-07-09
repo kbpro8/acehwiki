@@ -1,5 +1,5 @@
 ---
-title: Atjeh as opperheer in Langkat, Deli and Serdang (1854)
+title: "Atjeh as opperheer in Langkat, Deli and Serdang (1854)"
 aliases: [Atjehsche opperheerschappij in Langkat-Deli-Serdang vanaf 1854, Atjehsche overlordship of Langkat Deli Serdang 1854, Atjeh als opperheer sedert 1854, Atjehsche heerschappij over de Oostkust 1854-1866, Atjehnese supremacy in Langkat Deli Serdang]
 tags: [event, colonial, atjeh, malay, sumatra, oostkust-van-sumatra, buitenbezittingen, langkat, deli, serdang, diplomacy]
 ---

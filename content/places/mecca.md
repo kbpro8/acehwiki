@@ -1,6 +1,6 @@
 ---
 title: Mecca
-aliases: [Abu Jahl's kingdom in the Hikayat Nubuet, Mekka, Makkah, Mekkah, Makkah al-Mukarramah, Mekka (Snouck Hurgronje spelling), Mekka folk, Mecca, Holy City of Islam, Sacred City, The Holy City]
+aliases: ["Abu Jahl's kingdom in the Hikayat Nubuet, Mekka, Makkah, Mekkah, Makkah al-Mukarramah, Mekka (Snouck Hurgronje spelling), Mekka folk, Mecca, Holy City of Islam, Sacred City, The Holy City"]
 tags: [place, legendary-land, holy-city, arabia, city, foreign, religious, sacred-site]
 ---
 

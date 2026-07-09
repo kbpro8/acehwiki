@@ -1,6 +1,6 @@
 ---
 title: Westkust van Sumatra
-aliases: [West Coast of Sumatra, Sumatra's Westkust, Westkust, Sumatra's West Coast, Sumatra's Westkust van 1650-1791]
+aliases: [West Coast of Sumatra, "Sumatra's Westkust, Westkust, Sumatra's West Coast", "Sumatra's Westkust van 1650-1791"]
 tags: [place, sumatra, colonial, dutch, achehnese, concept]
 ---
 

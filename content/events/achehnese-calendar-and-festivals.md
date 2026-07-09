@@ -2,7 +2,7 @@
 title: Achehnese Calendar and Festivals
 aliases: [Acehnese Calendar, Islamic Calendar Acheh, Meuled, Ureë Raya]
 tags: [event, culture, religion, calendar]
-description: The Acehnese system of time-reckoning combining the Islamic lunar calendar with local Acehnese seasonal observances, governing feasts, fasts, agricultural cycles, and social life.
+description: "The Acehnese system of time-reckoning combining the Islamic lunar calendar with local Acehnese seasonal observances, governing feasts, fasts, agricultural cycles, and social life."
 ---
 
 **The Achehnese Calendar and Festivals** comprised the system of time-reckoning and seasonal observances that governed social, religious, and agricultural life in [[Great Acheh|Acheh]], as described by [[C. Snouck Hurgronje]] in Chapter II of *The Achehnese* (pp. 194–294).

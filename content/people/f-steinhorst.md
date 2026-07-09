@@ -1,7 +1,7 @@
 ---
 
 title: F. Steinhorst
-aliases: [Captain F. Steinhorst, Kapitein Steinhorst, Steinhorst, commandant vliegveld Lho'Nga]
+aliases: [Captain F. Steinhorst, Kapitein Steinhorst, Steinhorst, "commandant vliegveld Lho'Nga"]
 tags: [person, dutch, military, colonial, knil, atjeh, world-war-ii, casualty]
 ---
 

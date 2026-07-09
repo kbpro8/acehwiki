@@ -1,6 +1,6 @@
 ---
 title: Capture of Gleiêng (9 July 1879)
-aliases: [Inname van Gleiêng, Fall of Gléiëng, Verovering van Gleiêng, Conquest of Panglima Polim's chief place]
+aliases: [Inname van Gleiêng, Fall of Gléiëng, Verovering van Gleiêng, "Conquest of Panglima Polim's chief place"]
 tags: [event, battle, military, dutch-colonial, aceh-war]
 ---
 

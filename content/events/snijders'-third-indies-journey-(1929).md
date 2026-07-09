@@ -1,6 +1,6 @@
 ---
-title: Snijders' third Indies journey (1929)
-aliases: [Snijders' 1929 Indies journey, Third Indies journey, 1929 visit to Indië, Snijders' KNILM-negotiation visit]
+title: "Snijders' third Indies journey (1929)"
+aliases: ["Snijders' 1929 Indies journey, Third Indies journey, 1929 visit to Indië, Snijders' KNILM-negotiation visit"]
 tags: [event, visit, dutch, post-war, aviation, knilm]
 ---
 

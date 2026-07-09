@@ -1,6 +1,6 @@
 ---
 title: Establishment of Civil Government in Aceh (6 April 1881)
-aliases: [Instelling van het civiel bestuur in Atjeh, Civil Governor in Atjeh, Pruys van der Hoeven's appointment, Separation of civil and military government in Atjeh]
+aliases: [Instelling van het civiel bestuur in Atjeh, Civil Governor in Atjeh, "Pruys van der Hoeven's appointment, Separation of civil and military government in Atjeh"]
 tags: [event, government, dutch-colonial, aceh-war, administrative]
 ---
 

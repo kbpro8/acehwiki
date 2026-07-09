@@ -1,6 +1,6 @@
 ---
 title: Sagi (Atjeh administrative division)
-aliases: [Sagi, Saqi, Atjeh sagi system, Three sagi's of Groot-Atjeh]
+aliases: [Sagi, Saqi, Atjeh sagi system, "Three sagi's of Groot-Atjeh"]
 tags: [concept, administrative-division, sagi, groot-atjeh, indigenous-governance, atjeh]
 ---
 

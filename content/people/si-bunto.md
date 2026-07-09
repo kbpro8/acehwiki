@@ -1,6 +1,6 @@
 ---
 
-title: Si Bunto'
+title: "Si Bunto'"
 tags: [person]
 ---
 

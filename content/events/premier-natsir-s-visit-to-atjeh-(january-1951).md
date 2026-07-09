@@ -1,5 +1,5 @@
 ---
-title: Premier Natsir's Visit to Atjeh (January 1951)
+title: "Premier Natsir's Visit to Atjeh (January 1951)"
 aliases: ["Natsir visit to Atjeh", "Natsir Atjeh autonomy talks"]
 tags: ["event", "political", "atjeh", "1951", "autonomy", "natsir", "central-government"]
 ---

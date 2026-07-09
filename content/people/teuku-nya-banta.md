@@ -1,6 +1,6 @@
 ---
 
-title: Teuku Nya' Banta
+title: "Teuku Nya' Banta"
 aliases: [Teuku Lamreueng]
 tags: [person, uleebalang, panglima-sagi]
 ---

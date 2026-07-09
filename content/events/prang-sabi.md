@@ -1,6 +1,6 @@
 ---
 title: Prang sabi (Holy War)
-aliases: [Prang sabi, Holy War, Sabi war, Sab'il Allah, War in the way of God]
+aliases: [Prang sabi, Holy War, Sabi war, "Sab'il Allah, War in the way of God"]
 tags: [event, holy-war, jakeuet, ulama, religion, conflict]
 ---
 

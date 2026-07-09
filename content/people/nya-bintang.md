@@ -1,6 +1,6 @@
 ---
 
-title: Nya' Bintang
+title: "Nya' Bintang"
 tags: [person, warrior]
 ---
 

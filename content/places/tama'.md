@@ -1,6 +1,6 @@
 ---
-title: Tama'
-aliases: [Tama', Field of Tama', Padang Tama']
+title: "Tama'"
+aliases: ["Tama', Field of Tama'", "Padang Tama'"]
 tags: [place, field, locality, petroleum, panton, wedding-verse]
 ---
 

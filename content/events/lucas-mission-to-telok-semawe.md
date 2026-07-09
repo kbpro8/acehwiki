@@ -1,6 +1,6 @@
 ---
 title: Lucas mission to Telok Semawé (February 1821)
-aliases: [Irene mission, Lucas' mission, Lucas mission to Telok Semawe]
+aliases: [Irene mission, "Lucas' mission, Lucas mission to Telok Semawe"]
 tags: [event, mission, colonial, correspondence, anglo-dutch]
 ---
 

@@ -2,7 +2,7 @@
 title: Hikum
 aliases: [Hukom, Hukum, Islamic Law Acheh, Sharia Acheh, Hoeköm, Hoekom, Islamic law in Atjeh]
 tags: [concept, law, religion, islam, achehnese, religious]
-description: The Acehnese term for Islamic law (from Arabic hukm), maintained by the teungku class, coexisting with the customary adat, and a source of political tension during the Aceh War.
+description: "The Acehnese term for Islamic law (from Arabic hukm), maintained by the teungku class, coexisting with the customary adat, and a source of political tension during the Aceh War."
 ---
 
 **Hikum** (also *hukom*; from Arabic *ḥukm*, "judgment" or "decree") was the Acehnese term for [[Islamic]] law — the body of rules derived from the Quran and the traditions of the Prophet Mohammed, as interpreted through the Shafi'ite school of jurisprudence dominant in [[Great Acheh|Acheh]] and throughout the Malay-Indonesian world.

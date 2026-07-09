@@ -1,8 +1,8 @@
 ---
 title: Seat of an Atjeh Noble
-aliases: [zitplaats van een vorstelijken Atjeher, Acehnese noble's seat, Atjeherse zitplaats]
+aliases: [zitplaats van een vorstelijken Atjeher, "Acehnese noble's seat, Atjeherse zitplaats"]
 tags: [event, culture, material-culture, achehnese, aristocracy, daily-life]
-description: The atlas depicts the seat (zitplaats) of a noble Atjeher, consisting of fine cloths and cushions, as an example of Acehnese material culture and aristocratic lifestyle.
+description: "The atlas depicts the seat (zitplaats) of a noble Atjeher, consisting of fine cloths and cushions, as an example of Acehnese material culture and aristocratic lifestyle."
 ---
 **The Seat of an Atjeh Noble** is depicted in the *Nederlandsch Indië Platen Atlas* as an example of Acehnese aristocratic material culture and domestic life.
 

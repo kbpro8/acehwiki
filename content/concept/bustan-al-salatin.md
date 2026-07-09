@@ -1,8 +1,8 @@
 ---
 title: Bustan al-Salatin
-aliases: [Bustanu's-Salatin, Bustān as-Salāṭīn, Bustan as-Salatin, Bustan us-Salatin, Boestan oes-Salāṭīn, Boestan oes-Salatin, Bustan al-Salatin of Raniri, Raniri's Bustan, Lusthof der Vorsten, Garden of Kings]
+aliases: ["Bustanu's-Salatin, Bustān as-Salāṭīn, Bustan as-Salatin, Bustan us-Salatin, Boestan oes-Salāṭīn, Boestan oes-Salatin, Bustan al-Salatin of Raniri, Raniri's Bustan", Lusthof der Vorsten, Garden of Kings]
 tags: [document, mirror-for-princes, malay-literature, precolonial, 17th-century, aceh, islamic, raniri, didactic, historical-work, religious-work]
-description: A Malay Islamic didactic and historical compendium composed by Nur al-Din al-Raniri at Aceh in 1638, and the second of the two principal Acehnese-composed "mirrors for princes".
+description: "A Malay Islamic didactic and historical compendium composed by Nur al-Din al-Raniri at Aceh in 1638, and the second of the two principal Acehnese-composed \"mirrors for princes\"."
 ---
 
 **The Bustan al-Salatin** — Arabic *Bustān as-Salāṭīn*, Malay *Boestan oes-Salāṭīn*, "Garden of Kings" (Dutch *Lusthof der Vorsten*) — is a Malay-language Islamic compendium composed by [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] in [[Acheh]] in [[1638]] at the command of [[Iskandar Thani|Sultan Iskandar II (Iskandar Thani)]], and one of the three principal writings by which Raniri shaped the religious and political literature of the Achehnese sultanate after the suppression of the [[Wujudiyyah]] mysticism of [[Hamzah Pansuri]] and [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]]. It is the second of the two principal Acehnese-composed "mirrors for princes" treated by [[C. Hooykaas|Hooykaas]] in [[Over Maleise Literatuur (1947)|his survey of Malay literature]] — the earlier being the *[[Tādj oes-Salatina|Tādj]]* of [[1607]] — and is, in Hooykaas's reading, "meer het werk van een geleerde" (more the work of a scholar) than the *Tādj*, a learned and prolix compilation whose historical chapter on Acheh is, however, often more reliable than the *Sadjarah Malajoe* itself.

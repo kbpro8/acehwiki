@@ -1,6 +1,6 @@
 ---
 title: Portuguese conquest of Malaka (1511)
-aliases: [Affonso d'Albuquerque's conquest of Malaka, Fall of Malaka 1511, Albuquerque takes Malaka, Portuguese capture of Malacca 1511]
+aliases: ["Affonso d'Albuquerque's conquest of Malaka", Fall of Malaka 1511, Albuquerque takes Malaka, Portuguese capture of Malacca 1511]
 tags: [event, portuguese, precolonial, atjeh, djohor, malaka, military, naval, 1511, albuquerque]
 ---
 

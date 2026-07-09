@@ -1,5 +1,5 @@
 ---
-title: De gevangeneming van den ex-pretendent Sultan van Atjeh, Toeanangkoe Mohammad Dawat (Doorman, 1939)
+title: "De gevangeneming van den ex-pretendent Sultan van Atjeh, Toeanangkoe Mohammad Dawat (Doorman, 1939)"
 aliases: [Doorman 1939, De gevangeneming van den ex-pretendent Sultan van Atjeh, Toeanangkoe Mohammad Dawat, Doorman Sultan Mohammad Dawat, Capture of the ex-pretender Sultan of Atjeh, Tocangkoe Mohammad Dawat, Tuanku Mohammad Dawat Doorman, Mohammad Dawat death 1939]
 tags: [document, article, colonial, political, atjeh, sultanate, mohammad-dawat, 1939, 1907, ex-pretendent, ballingschap, indische-gids]
 ---

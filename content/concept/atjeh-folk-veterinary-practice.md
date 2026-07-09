@@ -1,6 +1,6 @@
 ---
 title: Atjeh folk-veterinary practice
-aliases: [Atjeh buffalo remedies", Atjeh folk medicine for cattle", Atjeh folk veterinary practice", Atjehnese cattle remedies", Atjehse veterinary folk-practice"]
+aliases: ["Atjeh buffalo remedies\", Atjeh folk medicine for cattle\"", "Atjeh folk veterinary practice\", Atjehnese cattle remedies\"", "Atjehse veterinary folk-practice\""]
 tags: ["achehnese", "concept", "folk-medicine", "magic", "veterinary"]
 ---
 **Atjeh folk-veterinary practice** — the body of folk-veterinary knowledge and technique applied by the Atjehnese (Atjeher) to the medical care of buffaloes and cattle — is documented in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (pp. 165-168) as a substantial corpus of remedies, surgical techniques, and magical-therapeutic practices. The corpus is documented principally through [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. II, pp. 51, 55-56, 326) and [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. II, pp. 596, 619, 624, 645, 647, 548 vg.) — and exemplifies the wider Atjehnese pattern of integration of folk-veterinary technique with magical-therapeutic and Islamic-amulet practice.

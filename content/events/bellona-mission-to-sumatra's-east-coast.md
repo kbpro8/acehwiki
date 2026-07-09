@@ -1,5 +1,5 @@
 ---
-title: Bellona mission to Sumatra's East Coast (1827-1828)
+title: "Bellona mission to Sumatra's East Coast (1827-1828)"
 aliases: [Bellona mission, Bellona-zending, mission of the frigate Bellona]
 tags: [event, mission, colonial, anglo-dutch, diplomacy]
 ---

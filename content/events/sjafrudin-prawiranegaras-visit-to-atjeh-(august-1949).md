@@ -1,6 +1,6 @@
 ---
-title: Sjafrudin Prawiranegara's visit to Atjeh (August 1949)
-aliases: [Prawiranegara's visit to Atjeh, Atjeh de jure autonomous province 1949]
+title: "Sjafrudin Prawiranegara's visit to Atjeh (August 1949)"
+aliases: ["Prawiranegara's visit to Atjeh, Atjeh de jure autonomous province 1949"]
 tags: [event, achehnese, political, republican]
 ---
 

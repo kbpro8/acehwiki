@@ -1,6 +1,6 @@
 ---
 title: Pontianak
-aliases: [Pontianak Sultanate, Borneo's West Coast]
+aliases: [Pontianak Sultanate, "Borneo's West Coast"]
 tags: [place, sultanate, borneo, dutch-east-indies]
 ---
 **Pontianak** is a sultanate and town on the west coast of [[Borneo]], founded in 1771 by Syarif Abdurrahman Alkadrie at the mouth of the Kapuas River. By the early nineteenth century it had become the most prominent Malay-Muslim polity on Borneo's west coast and a regular port of call for regional traders. Its strategic position on the South China Sea lane made it a natural waypoint for any European power seeking to establish a foothold on Borneo — and, as Van der Kemp records, it was precisely this quality that brought the sultanate within the orbit of the Anglo-Dutch rivalry that produced the [[Raffles' Atjeh-overeenkomst van 1819|Aceh agreement of 1819]].

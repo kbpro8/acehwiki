@@ -1,6 +1,6 @@
 ---
 title: Japara-Atjeh alliance against Portuguese Malakka (c. 1530s)
-aliases: [Japara-Atjeh alliance, Atjeh-Japara alliance against Malakka, Vorstin van Japara's alliance with Atjeh, 16th-century Atjeh-Javanese alliance]
+aliases: [Japara-Atjeh alliance, Atjeh-Japara alliance against Malakka, "Vorstin van Japara's alliance with Atjeh, 16th-century Atjeh-Javanese alliance"]
 tags: [event, alliance, atjehnese, javanese, portuguese, precolonial, 16th-century]
 ---
 

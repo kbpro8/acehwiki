@@ -1,6 +1,6 @@
 ---
-title: Grepen uit den Atjeh-oorlog (Bannink, 1939)
-aliases: [Bannink 1939, Grepen uit den Atjeh-oorlog, Generaal van der Heyden's verwijdering van Atjeh, Bannink Atjeh-oorlog, Atjeh War excerpts Bannink, Van der Heyden's removal from Atjeh]
+title: "Grepen uit den Atjeh-oorlog (Bannink, 1939)"
+aliases: [Bannink 1939, Grepen uit den Atjeh-oorlog, "Generaal van der Heyden's verwijdering van Atjeh, Bannink Atjeh-oorlog, Atjeh War excerpts Bannink, Van der Heyden's removal from Atjeh"]
 tags: [document, article, colonial, military, atjeh, atjeh-oorlog, van-der-heyden, 1939, officersvereeniging]
 ---
 

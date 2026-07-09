@@ -2,7 +2,7 @@
 title: Teungku Tanoh Abee
 aliases: [Teungku Tanoh Abie]
 tags: [person, religious-figure, kali, scholar, xxii-mukims, acheh-proper]
-description: The learned hereditary kali of the XXII Mukims sagi of Great Acheh in the late nineteenth century, who died in 1893, and was the father of Teungku Tanoh Mirah.
+description: "The learned hereditary kali of the XXII Mukims sagi of Great Acheh in the late nineteenth century, who died in 1893, and was the father of Teungku Tanoh Mirah."
 ---
 
 **Teungku Tanoh Abee** (also spelled **Teungku Tanoh Abie**) was the learned hereditary *kali* (*kali rabon jale*) of the [[XXII Mukims]] sagi of [[Great Acheh]] in the late nineteenth century, and is one of the few Achehnese *kalis* of whom [[C. Snouck Hurgronje]] speaks with unqualified respect. He was a celebrated teacher known for his learning and independence, and was the father of [[Teungku Tanoh Mirah]]. He died in [[1893]].

@@ -2,7 +2,7 @@
 title: Achehnese Domestic Life
 aliases: [Acehnese Marriage, Acehnese Family, Domestic Law Acheh]
 tags: [event, culture, society, family]
-description: The domestic customs, marriage practices, family law, childhood rites, sickness and death customs of the Acehnese people, as documented by Snouck Hurgronje in Chapter III of The Achehnese (pp. 295–439).
+description: "The domestic customs, marriage practices, family law, childhood rites, sickness and death customs of the Acehnese people, as documented by Snouck Hurgronje in Chapter III of The Achehnese (pp. 295–439)."
 ---
 
 **Achehnese Domestic Life** encompassed the full range of family and personal customs of the [[Acehnese People|Acehnese]] — from proposal and marriage through childhood, sickness, death, and the distribution of effects. These were documented by [[C. Snouck Hurgronje]] in Chapter III of *The Achehnese* (pp. 295–439).

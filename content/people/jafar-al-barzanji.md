@@ -1,5 +1,5 @@
 ---
-title: Ja'far al-Barzanji
+title: "Ja'far al-Barzanji"
 tags: [person]
 ---
 

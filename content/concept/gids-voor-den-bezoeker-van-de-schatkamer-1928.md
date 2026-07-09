@@ -2,7 +2,7 @@
 title: Gids voor den bezoeker van de schatkamer (1928)
 aliases: [Guide for the visitor of the treasure room 1928, Batavian Society treasure room guide, Schatkamer gids 1928]
 tags: [concept, publication, museum, colonial, dutch, 1928, primary-source, catalogue]
-description: The 1928 illustrated guide to the treasure room of the Royal Batavian Society of Arts and Sciences in Batavia, cataloguing gold and silver objects from across the Netherlands Indies including a major Acehnese collection.
+description: "The 1928 illustrated guide to the treasure room of the Royal Batavian Society of Arts and Sciences in Batavia, cataloguing gold and silver objects from across the Netherlands Indies including a major Acehnese collection."
 ---
 
 **Gids voor den bezoeker van de schatkamer** (English: "Guide for the Visitor of the Treasure Room") is a catalogue published in [[1928]] by the [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Royal Batavian Society of Arts and Sciences]] (*Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen*) in [[Koeta Radja|Batavia]]. It provides a detailed, item-by-item inventory of the Society's treasure room (*schatkamer*), which housed its collection of gold, silver, and precious-metal objects from across the Netherlands Indies.

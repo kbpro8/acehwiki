@@ -1,6 +1,6 @@
 ---
 title: Kanduri Bu (Rice-kanduri)
-aliases: [Kanduri Bu, Rice-kanduri, Achehnese month of Sha'ban, All-souls feast of Acheh, Rice-kanduri month]
+aliases: [Kanduri Bu, Rice-kanduri, "Achehnese month of Sha'ban, All-souls feast of Acheh, Rice-kanduri month"]
 tags: [event, religious, festival, calendar, ceremony, life-cycle, marriage]
 ---
 

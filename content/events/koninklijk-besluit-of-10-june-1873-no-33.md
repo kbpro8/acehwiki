@@ -1,6 +1,6 @@
 ---
 title: Koninklijk Besluit of 10 June 1873 No. 33
-aliases: [KB 10 June 1873 No. 33, Royal Decree of 10 June 1873, Snijders' Aceh detachment decree, Koninklijk Besluit 10 Juni 1873 No. 33]
+aliases: [KB 10 June 1873 No. 33, Royal Decree of 10 June 1873, "Snijders' Aceh detachment decree, Koninklijk Besluit 10 Juni 1873 No. 33"]
 tags: [document, decree, dutch, colonial, aceh-war]
 ---
 

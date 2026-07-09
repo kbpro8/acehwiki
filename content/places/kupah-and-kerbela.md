@@ -1,6 +1,6 @@
 ---
 title: Kupah (Kufa) and Kerbela
-aliases: [in religious hikayats"]
+aliases: ["in religious hikayats\""]
 tags: ["place", "legendary-land"]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Tab' glëe nyucng (ear-piercing)
-aliases: [Tab' glëe nyucng, Tob glëe nyucng, Piercing of the ears, Ear-boring ceremony]
+title: "Tab' glëe nyucng (ear-piercing)"
+aliases: ["Tab' glëe nyucng, Tob glëe nyucng, Piercing of the ears, Ear-boring ceremony"]
 tags: [event, religious-ceremony, childhood, adat, kaoy-vow]
 ---
 

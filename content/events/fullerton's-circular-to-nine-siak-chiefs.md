@@ -1,6 +1,6 @@
 ---
-title: Fullerton's circular to nine Siak chiefs (21 May 1828)
-aliases: [Pinang circular 21 May 1828, Fullerton's circular of May 1828, circulaire dd. 21 Mei 1828]
+title: "Fullerton's circular to nine Siak chiefs (21 May 1828)"
+aliases: [Pinang circular 21 May 1828, "Fullerton's circular of May 1828, circulaire dd. 21 Mei 1828"]
 tags: [event, correspondence, colonial, anglo-dutch, diplomacy]
 ---
 

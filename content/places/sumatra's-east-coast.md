@@ -1,8 +1,8 @@
 ---
-title: Sumatra's East Coast
-aliases: [Sumatra's Oostkust, Gouvernement Sumatra's Oostkust, Sumatra Oostkust, Oostkust van Sumatra, East Coast of Sumatra, Sumatras Oostkust, Eastcoast of Sumatra, Sumatra's East Coast government]
+title: "Sumatra's East Coast"
+aliases: ["Sumatra's Oostkust, Gouvernement Sumatra's Oostkust", Sumatra Oostkust, Oostkust van Sumatra, East Coast of Sumatra, Sumatras Oostkust, Eastcoast of Sumatra, "Sumatra's East Coast government"]
 tags: [place, organization, coast, region, colonial, dutch, administrative-division, sumatra, deli, achehnese-history]
-description: Sumatra's East Coast (Gouvernement Sumatra's Oostkust) was a Dutch colonial government unit whose head bore the title of Gouverneur. Alongside Atjeh, it possessed an important railway network by 1926. The Sultan of Deli was among its self-governing territories.
+description: "Sumatra's East Coast (Gouvernement Sumatra's Oostkust) was a Dutch colonial government unit whose head bore the title of Gouverneur. Alongside Atjeh, it possessed an important railway network by 1926. The Sultan of Deli was among its self-governing territories."
 ---
 
 **Sumatra's East Coast** (Dutch: *Sumatra's Oostkust*; in the British correspondence "the East Coast of Sumatra" or simply "the Eastcoast"; fully *Gouvernement Sumatra's Oostkust*) was a Dutch colonial administrative unit on the eastern coast of [[Sumatra]]. In the early-nineteenth-century usage of P. H. van der Kemp, it was the long stretch of littoral states lying along the Strait of Malacca opposite [[Penang]] and [[Malacca]] — the chain of small Malay polities running from the Achehnese dependencies of [[Pedir]] and [[Telok Semawé]] south-eastward through [[Deli]], [[Langkat]], [[Siak]], [[Kampar]], [[Jambi]] and the adjacent districts. Although formally part of [[Sumatra]], this coast was in the early nineteenth century politically distinct from [[Acheh]] itself and constituted, in Van der Kemp's phrase, a constellation of "petty states" with which the Penang and Singapore merchants carried on a direct and growing trade.

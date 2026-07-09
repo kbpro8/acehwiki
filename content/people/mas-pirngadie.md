@@ -1,6 +1,6 @@
 ---
 title: Mas Pirngadie
-aliases: [Pirngadie, Mas Pirngadie of the Inlandsche Kunstnijverheid, Mas Pirngadi, Mas Pirngadie (Jasper's collaborator), Mas P. (indigenous craft expert), Pirngadie the silversmith]
+aliases: [Pirngadie, Mas Pirngadie of the Inlandsche Kunstnijverheid, Mas Pirngadi, "Mas Pirngadie (Jasper's collaborator), Mas P. (indigenous craft expert), Pirngadie the silversmith"]
 tags: [person, scholar, indigenous, colonial, decorative-art, indigenous-craft-expert]
 ---
 

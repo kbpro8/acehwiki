@@ -1,6 +1,6 @@
 ---
 title: Demak
-aliases: [Java"]
+aliases: ["Java\""]
 tags: ["place", "legendary-land"]
 ---
 

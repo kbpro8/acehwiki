@@ -2,7 +2,7 @@
 title: Mukim
 aliases: [Mokim, Parish, Acehnese Parish, moekim, moekims, mukim, Vrijdagskring, Friday-service circle]
 tags: [concept, government, administrative-unit, achehnese, religious, administration]
-description: The Acehnese parish — a grouping of gampongs sharing a Friday mosque (meusigit), led by an imeum mukim, forming the intermediate level between the village and the uleebalangship.
+description: "The Acehnese parish — a grouping of gampongs sharing a Friday mosque (meusigit), led by an imeum mukim, forming the intermediate level between the village and the uleebalangship."
 ---
 
 **Mukim** was the intermediate administrative and religious unit of [[Great Acheh|Acehnese]] society, sitting between the individual [[Gampong|gampong]] (village) and the [[Uleebalang|uleebalangship]] (territory). It was essentially a Friday-mosque association — a grouping of [[Gampong|gampongs]] lying sufficiently close to one another to form a single congregation for the Friday midday prayer.

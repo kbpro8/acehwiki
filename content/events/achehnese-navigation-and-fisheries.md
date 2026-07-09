@@ -2,7 +2,7 @@
 title: Achehnese Navigation and Fisheries
 aliases: [Acehnese Fishing, Pawang, Maritime Acheh]
 tags: [event, culture, economy, maritime]
-description: The maritime economy, fishing traditions, and navigation practices of the Acehnese, including the role of the pawang (fishing master), pantang (taboo) rules at sea, and the coastal fishing communities of Great Acheh.
+description: "The maritime economy, fishing traditions, and navigation practices of the Acehnese, including the role of the pawang (fishing master), pantang (taboo) rules at sea, and the coastal fishing communities of Great Acheh."
 ---
 
 **Achehnese Navigation and Fisheries** formed a major component of the Acehnese economy and culture, treated extensively by [[C. Snouck Hurgronje]] in Chapter II (§§ 5–6, pp. 275–294) of *The Achehnese*.

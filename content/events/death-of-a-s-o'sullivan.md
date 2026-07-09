@@ -1,6 +1,6 @@
 ---
-title: Death of A. S. O'Sullivan
-aliases: [Death of Mr. O'Sullivan, Death of the translator O'Sullivan, A. W. S. O'Sullivan's death]
+title: "Death of A. S. O'Sullivan"
+aliases: ["Death of Mr. O'Sullivan, Death of the translator O'Sullivan", "A. W. S. O'Sullivan's death"]
 tags: [event, bibliographic, biography]
 ---
 

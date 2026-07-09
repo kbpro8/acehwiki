@@ -2,7 +2,7 @@
 title: North Sumatra
 aliases: [Noord-Sumatra, North Sumatra, Noord Sumatra, Noordelijke helft van Sumatra]
 tags: [place, region, sumatra, acheh, geography, population, colonial]
-description: North Sumatra is the northern portion of the island of Sumatra in the Dutch East Indies, inhabited by the Atjehers and other peoples. The atlas describes the Atjehers as the inhabitants of this region, whose origins involve the absorption of foreigners from Hindustan, Arabia, Java and other lands.
+description: "North Sumatra is the northern portion of the island of Sumatra in the Dutch East Indies, inhabited by the Atjehers and other peoples. The atlas describes the Atjehers as the inhabitants of this region, whose origins involve the absorption of foreigners from Hindustan, Arabia, Java and other lands."
 ---
 **North Sumatra** (Dutch: *Noord-Sumatra*) is the northern portion of the island of [[Sumatra]], and the homeland of the [[Atjehers]] (Acehnese people). In the administrative geography of the [[Netherlands India|Dutch East Indies]], it encompassed the territories of [[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]], the Bataklands, and other regions.
 

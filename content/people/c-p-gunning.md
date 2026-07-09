@@ -2,7 +2,7 @@
 title: C. P. Gunning
 aliases: [Dr. C. P. Gunning, Dr Gunning, Gunning]
 tags: [person, colonial-official, dutch, education, publishing]
-description: Dr. C. P. Gunning was the director of Volkslectuur under whose good offices (goede zorg) the Nederlandsch Indië Platen Atlas was published in 1926 to commemorate Queen Wilhelmina's silver jubilee.
+description: "Dr. C. P. Gunning was the director of Volkslectuur under whose good offices (goede zorg) the Nederlandsch Indië Platen Atlas was published in 1926 to commemorate Queen Wilhelmina's silver jubilee."
 ---
 **Dr. C. P. Gunning** was the director of [[Volkslectuur]] (the Bureau for Popular Reading) in [[Weltevreden]], [[Java]]. Under his direction, the *[[Nederlandsch Indië Platen Atlas (1926)]]* was produced and published.
 

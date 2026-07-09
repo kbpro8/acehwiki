@@ -1,6 +1,6 @@
 ---
 title: Panjalarah
-aliases: [villain in Hikayat Meudeuhaa"]
+aliases: ["villain in Hikayat Meudeuhaa\""]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

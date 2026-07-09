@@ -2,7 +2,7 @@
 title: Meusigit
 aliases: [Mesjid, Masjid, Mosque, Meusigit, Meuseugit, Friday mosque]
 tags: [concept, religion, architecture, achehnese, religious]
-description: The Acehnese term for a proper Friday mosque, requiring a congregation of at least forty free adult male believers, the building around which a mukim was organised.
+description: "The Acehnese term for a proper Friday mosque, requiring a congregation of at least forty free adult male believers, the building around which a mukim was organised."
 ---
 
 **Meusigit** (from Arabic *masjid jāmiʿ*, via Malay *mesjid*) was the Acehnese term for a proper Friday mosque — the *jāmiʿ* or congregational mosque in Arabic terminology — which required a congregation of at least forty free adult male believers for the Friday midday service to be validly held. It was the building around which each [[Mukim|mukim]] was organised.

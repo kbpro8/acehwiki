@@ -1,6 +1,6 @@
 ---
 title: Discours of 1 January 1614
-aliases: [Coen's Discours of 1614, Coen Discours, Discours van 1 January 1614, Coen's memorandum of 1614, Coen's first Discours]
+aliases: ["Coen's Discours of 1614, Coen Discours, Discours van 1 January 1614, Coen's memorandum of 1614", "Coen's first Discours"]
 tags: [document, dutch, colonial, voc, atjeh, banda, monopoly, 17th-century, coen, heeren-zeventien]
 ---
 

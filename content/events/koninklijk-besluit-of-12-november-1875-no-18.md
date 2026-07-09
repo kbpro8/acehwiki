@@ -1,6 +1,6 @@
 ---
 title: Koninklijk Besluit of 12 November 1875 No. 18
-aliases: [KB 12 November 1875 No. 18, Royal Decree of 12 November 1875, Snijders' Willemsorde decree, Koninklijk Besluit 12 November 1875 No. 18]
+aliases: [KB 12 November 1875 No. 18, Royal Decree of 12 November 1875, "Snijders' Willemsorde decree, Koninklijk Besluit 12 November 1875 No. 18"]
 tags: [document, decree, dutch, colonial, aceh-war, decoration]
 ---
 

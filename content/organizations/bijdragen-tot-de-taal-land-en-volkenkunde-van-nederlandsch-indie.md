@@ -1,5 +1,5 @@
 ---
-title: Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië
+title: "Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië"
 aliases: [B.K.I., Bijdragen]
 tags: [organization, journal, dutch, colonial]
 ---

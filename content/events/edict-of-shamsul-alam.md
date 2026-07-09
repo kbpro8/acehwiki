@@ -1,6 +1,6 @@
 ---
 title: Edict of Shamsul-alam
-aliases: [Edict of Shamsul-alam, Edict of Shamsul-'alam, Sultan Shamsul-alam's edict on the ordeal]
+aliases: [Edict of Shamsul-alam, "Edict of Shamsul-'alam, Sultan Shamsul-alam's edict on the ordeal"]
 tags: [event, law, edict, ordeal, judicial-practice]
 ---
 

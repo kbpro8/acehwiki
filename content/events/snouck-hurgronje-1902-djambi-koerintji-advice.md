@@ -1,6 +1,6 @@
 ---
-title: Snouck Hurgronje's 1902 Djambi-Koerintji advice
-aliases: [Snouck Hurgronje's advice on Djambi and Koerintji (1902), the 1902 Djambi/Koerintji advice of Snouck Hurgronje, Snouck Hurgronje's 1902 colonial advice, Dr. Snouck Hurgronje's 1902 policy advice]
+title: "Snouck Hurgronje's 1902 Djambi-Koerintji advice"
+aliases: ["Snouck Hurgronje's advice on Djambi and Koerintji (1902), the 1902 Djambi/Koerintji advice of Snouck Hurgronje, Snouck Hurgronje's 1902 colonial advice", "Dr. Snouck Hurgronje's 1902 policy advice"]
 tags: [event, colonial, dutch, aceh, djambi, koerintji, policy, advisor, 20th-century, snouck-hurgronje]
 ---
 

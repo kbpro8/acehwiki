@@ -1,6 +1,6 @@
 ---
 title: Yogyakarta (Yogya)
-aliases: [Java"]
+aliases: ["Java\""]
 tags: ["place", "legendary-land"]
 ---
 

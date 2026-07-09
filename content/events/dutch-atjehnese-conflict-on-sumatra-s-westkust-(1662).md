@@ -1,5 +1,5 @@
 ---
-title: Dutch-Atjehnese conflict on Sumatra's Westkust (1662)
+title: "Dutch-Atjehnese conflict on Sumatra's Westkust (1662)"
 aliases: [Dutch-Atjeh conflict Westkust 1662, Pieter de Bitter Westkust, Indrapoera 1662, Atjehnese driven from Westkust 1662, Menangkabau-Atjeh-Dutch 1662, Padang under Dutch control 1662]
 tags: [event, military, colonial, atjeh, westkust, sumatra, 1662, indrapoera, padang, menangkabau, voc, 17th-century]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sartorius mission to Acheh
-aliases: [Sartorius' mission, Mr. Sartorius's Acheh mission, zending van Sartorius naar Atjeh]
+aliases: ["Sartorius' mission, Mr. Sartorius's Acheh mission", zending van Sartorius naar Atjeh]
 tags: [event, mission, colonial, diplomacy]
 ---
 

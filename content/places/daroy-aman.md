@@ -1,6 +1,6 @@
 ---
 title: Daroy Aman
-aliases: [in Hikayat Banta Ali"]
+aliases: ["in Hikayat Banta Ali\""]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

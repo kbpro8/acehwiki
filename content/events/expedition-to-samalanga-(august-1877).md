@@ -1,6 +1,6 @@
 ---
 title: Expedition to Samalanga (August 1877)
-aliases: [Expeditie naar Samalanga, Samalanga Campaign 1877, Van der Heyden's Expedition to Samalanga]
+aliases: [Expeditie naar Samalanga, Samalanga Campaign 1877, "Van der Heyden's Expedition to Samalanga"]
 tags: [event, war, military, dutch-colonial, aceh-war]
 ---
 

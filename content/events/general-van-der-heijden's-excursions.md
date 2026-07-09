@@ -1,6 +1,6 @@
 ---
-title: General van der Heijden's excursions (marches through the highlands)
-aliases: [Van der Heijden's excursions, Marches through the highlands, Van der Heyden's expeditions]
+title: "General van der Heijden's excursions (marches through the highlands)"
+aliases: ["Van der Heijden's excursions, Marches through the highlands, Van der Heyden's expeditions"]
 tags: [event, war, political]
 ---
 

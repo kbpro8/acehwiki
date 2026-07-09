@@ -2,7 +2,7 @@
 title: Atjehers
 aliases: [Acehnese people, Achehnese, Atjehers, Atjehersche bevolking, Acehnese, people of Atjeh, Atjehsche bevolking, inhabitants of North Sumatra]
 tags: [concept, people, ethnic-group, acheh, sumatra, population, culture, dress]
-description: The Atjehers are the inhabitants of North Sumatra, classified by the 1926 atlas within the Malay racial group of the western Indonesian Archipelago. Their origins involve the absorption of peoples from Hindustan, Arabia, Java, and elsewhere. Their distinctive dress features wide trousers for both men and women.
+description: "The Atjehers are the inhabitants of North Sumatra, classified by the 1926 atlas within the Malay racial group of the western Indonesian Archipelago. Their origins involve the absorption of peoples from Hindustan, Arabia, Java, and elsewhere. Their distinctive dress features wide trousers for both men and women."
 ---
 **The Atjehers** (Dutch: *Atjehers*; English: Acehnese people) are the inhabitants of [[North Sumatra]], specifically of the territory of [[Acheh]]. The *Nederlandsch Indië Platen Atlas* ([[1926]]) classifies them within the Malay racial group (*Maleische ras*) of the western half of the Indonesian Archipelago, alongside the Javanese, Sundanese, Madurese, Balinese, Makassarese, and Buginese.
 

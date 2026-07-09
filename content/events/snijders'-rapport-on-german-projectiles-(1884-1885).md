@@ -1,6 +1,6 @@
 ---
-title: Snijders' rapport on German projectiles (1884-1885)
-aliases: [Snijders' 1884 rapport, Snijders' German projectiles report, 22 July 1884 rapport, 13 June 1885 rapport]
+title: "Snijders' rapport on German projectiles (1884-1885)"
+aliases: ["Snijders' 1884 rapport, Snijders' German projectiles report", 22 July 1884 rapport, 13 June 1885 rapport]
 tags: [document, report, dutch, military, fortification, german, snijders]
 ---
 

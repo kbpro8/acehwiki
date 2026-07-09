@@ -2,7 +2,7 @@
 title: Nederlandsch Indië Platen Atlas (1926)
 aliases: [Nederlandsch Indië Platen Atlas, Platen Atlas 1926, Netherlands Indies Picture Atlas 1926, Nederlandsch-Indië Platen Atlas, DLP-51]
 tags: [document, atlas, book, colonial, dutch, 1926, visual-source, published-source]
-description: The Nederlandsch Indië Platen Atlas (1926) is a picture atlas of the Dutch East Indies with short descriptions, published by Volkslectuur in Weltevreden, Java, printed by G. Kolff & Co., to commemorate the silver jubilee of Queen Wilhelmina. It contains plates and descriptions relevant to Atjeh including portraits of Van Heutsz, Van der Heyden, and Snouck Hurgronje.
+description: "The Nederlandsch Indië Platen Atlas (1926) is a picture atlas of the Dutch East Indies with short descriptions, published by Volkslectuur in Weltevreden, Java, printed by G. Kolff & Co., to commemorate the silver jubilee of Queen Wilhelmina. It contains plates and descriptions relevant to Atjeh including portraits of Van Heutsz, Van der Heyden, and Snouck Hurgronje."
 ---
 **The Nederlandsch Indië Platen Atlas** (full title: *Nederlandsch Indië Platen Atlas met korte beschrijvingen*) is a picture atlas of the [[Netherlands India|Dutch East Indies]] published in [[1926]] by [[Volkslectuur]] in [[Weltevreden]], [[Java]], printed by [[G. Kolff & Co.]] It was produced "ter gelegenheid van het vijf-en-twintigjarig regeringsjubileum van Hare Majesteit de Koningin" (on the occasion of the silver jubilee of Her Majesty [[Queen Wilhelmina|the Queen]]'s reign).
 

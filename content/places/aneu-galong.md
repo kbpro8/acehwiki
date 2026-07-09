@@ -1,8 +1,8 @@
 ---
 title: Aneu Galong
-aliases: [Aneu' Galong, Aneu Galong, Aneu'Galong, Aneu-Galong, Aneu' Galoom, Galong]
+aliases: ["Aneu' Galong, Aneu Galong, Aneu'Galong", Aneu-Galong, "Aneu' Galoom, Galong"]
 tags: [place, fortress, battle-site, aceh, resistance, highland]
-description: A fortress in the interior of Great Acheh, captured by Netherlands troops in 1896, marking a turning point in the Tiro family's resistance.
+description: "A fortress in the interior of Great Acheh, captured by Netherlands troops in 1896, marking a turning point in the Tiro family's resistance."
 ---
 
 **Aneu Galong** — also written *Aneu' Galong*, *Aneu'Galong*, *Aneu-Galong*, or *Aneu' Galoom* — was a fortress in the interior of [[Great Acheh|Great-Acheh]] which figured in the closing phase of the [[Acheh War]] as one of the strongholds held by the family and following of the celebrated [[Teungku Tiro|Teungkoe Sjech Saman di Tiri]]. It was carried by Netherlands troops in [[1896]], an episode memorable in the chronicle of the *sabil* (holy-war) warriors both for the death in action of members of the patriarchal generation of the Tiro family and for the inheritance it transferred to the infant grandson who would lead the last phase of the resistance.

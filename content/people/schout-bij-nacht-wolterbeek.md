@@ -2,7 +2,7 @@
 title: Schout-bij-nacht Wolterbeek
 aliases: [Wolterbeek, rear-admiral Wolterbeek, counter-admiral Wolterbeek]
 tags: [person, dutch-official, naval-officer, commissioner, military]
-description: Dutch naval officer holding the rank of schout-bij-nacht (rear-admiral / counter-admiral) who served as one of the Netherlands Indies' principal commissioners in the Malay Archipelago in 1818–1819.
+description: "Dutch naval officer holding the rank of schout-bij-nacht (rear-admiral / counter-admiral) who served as one of the Netherlands Indies' principal commissioners in the Malay Archipelago in 1818–1819."
 ---
 
 **Schout-bij-nacht Wolterbeek** was a Dutch naval officer holding the rank of *schout-bij-nacht* (counter-admiral / rear-admiral) who served as one of the Netherlands Indies' principal commissioners in the Malay Archipelago in the years immediately following the restoration of Dutch rule after the [[Anglo-Dutch Treaty of London (1814)|Anglo-Dutch Treaty of London (1814)]]. He is best known for having negotiated the Dutch treaty with the sultan of [[Riouw]] in [[1818]] — a diplomatic stroke that the British at [[Penang]] and in [[Bengal]] believed had closed off further English expansion in the archipelago, only for [[Sir Thomas Stamford Raffles]] to demonstrate the contrary by founding [[Singapore]] a few months later — and for having commanded the expeditionary squadron sent in [[September]] [[1819]] to suppress the rebellion of [[Mahmoed Badar Oedien]] in the [[Palembang]] region.

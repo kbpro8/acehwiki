@@ -1,6 +1,6 @@
 ---
 title: Poephon blang
-aliases: [Atjeh field-consecration rite", Atjeh first-furrow rite", peuoe blang", peuseumbong blang", peuë blang", poephon blang", poephon blang in Atjeh"]
+aliases: ["Atjeh field-consecration rite\", Atjeh first-furrow rite\"", "peuoe blang\", peuseumbong blang\"", "peuë blang\", poephon blang\"", "poephon blang in Atjeh\""]
 tags: ["achehnese", "agricultural", "concept", "islamic", "magic", "ritual"]
 ---
 **Poephon blang** (in [[J. Kreemer|Kreemer]]'s spelling; modern Atjehnese *peuoe blang* or *peuseumbong blang*) is the Atjehnese rite of the first inauguration of field-work — the consecration of the rice-fields and the plough-cattle at the start of the agricultural year, performed by a *malim* (a scriptural scholar skilled in calculating auspicious moments and versed in the secret lore of rice-cultivation) who, with completely shaved head, goes to the field at midnight, draws the first furrow-lines with his *parang* (machete) while muttering an incantation, and returns home. The rite is the Atjehnese analogue of the cognate field-consecration ceremonies of the wider archipelago — the *herdersfeest* of Java, the *mandjangog kandang* of the Minangkabauers, the *palili-feest* of South Celebes, the *masarampoe* of the To Rongkong, and the *motinoe-woei baoela* of the To Bada — and is the only Atjeh-specific topic given its own indexed slot in the table of contents of [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 178).

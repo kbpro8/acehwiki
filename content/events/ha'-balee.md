@@ -1,6 +1,6 @@
 ---
-title: Ha' Balee
-aliases: [Ha' balee, Ha'balee, Right of the widow, Widower's half-dowry]
+title: "Ha' Balee"
+aliases: ["Ha' balee, Ha'balee", Right of the widow, "Widower's half-dowry"]
 tags: [event, family-law, marriage, divorce, widowhood, inheritance]
 ---
 

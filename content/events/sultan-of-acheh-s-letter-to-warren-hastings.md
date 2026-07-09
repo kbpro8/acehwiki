@@ -1,5 +1,5 @@
 ---
-title: Sultan of Acheh's letter to Warren Hastings
+title: "Sultan of Acheh's letter to Warren Hastings"
 aliases: [sultansbrief 7 November 1786]
 tags: [event, correspondence, diplomacy, colonial, acheh]
 ---

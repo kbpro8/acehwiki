@@ -1,6 +1,6 @@
 ---
-title: Aneu' Gle
-aliases: [Aneu Gle, Aneu' Glé, Aneu' Glee]
+title: "Aneu' Gle"
+aliases: [Aneu Gle, "Aneu' Glé, Aneu' Glee"]
 tags: [place, mukim, xxii-mukims]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Safinat al-nadja'
+title: "Safinat al-nadja'"
 aliases: [The Ship of Salvation]
 tags: [document, devotional, literary, acehnese]
 ---

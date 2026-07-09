@@ -1,6 +1,6 @@
 ---
-title: Dutch Policy of 'Concentration'
-aliases: [Dutch policy of 'concentration', Concentration policy, Linie policy, Concentratiepolitiek]
+title: "Dutch Policy of 'Concentration'"
+aliases: ["Dutch policy of 'concentration'", Concentration policy, Linie policy, Concentratiepolitiek]
 tags: [event, political-history, war, dutch-colonial, military-policy]
 ---
 

@@ -2,7 +2,7 @@
 title: Imeum Mukim
 aliases: [Imam Mukim, Imeum, Acehnese Parish Head, imuem, imam, head of the moekim, oelèëbalang tjoet]
 tags: [concept, government, mukim-leader, achehnese, religious, office]
-description: The head of the mukim (Acehnese parish) — combining secular and religious administrative functions, linking the keuchi' of individual gampongs below to the uleebalang above.
+description: "The head of the mukim (Acehnese parish) — combining secular and religious administrative functions, linking the keuchi' of individual gampongs below to the uleebalang above."
 ---
 
 **Imeum Mukim** (from Arabic *imām*, leader of prayer; also the leader of a community) was the head of the [[Mukim|mukim]] (Acehnese parish) — the official who combined the secular and religious administrative functions of the parish. The imeum mukim occupied the middle tier of the Acehnese administrative hierarchy, between the [[Keuchi'|keuchi']] (village headman) below and the [[Uleebalang|uleebalang]] (territorial chief) above.

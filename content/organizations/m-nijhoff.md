@@ -1,6 +1,6 @@
 ---
 title: M. Nijhoff
-aliases: [Martinus Nijhoff, Nijhoff, M. Nijhoff 's-Gravenhage, Martinus Nijhoff The Hague, Nijhoff publisher]
+aliases: [Martinus Nijhoff, Nijhoff, "M. Nijhoff 's-Gravenhage, Martinus Nijhoff The Hague, Nijhoff publisher"]
 tags: [organization, publisher, dutch, colonial, hague, publishing, 1940, koninklijk-instituut]
 ---
 

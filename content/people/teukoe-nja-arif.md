@@ -1,6 +1,6 @@
 ---
 
-title: Teukoe Nja' Arif
+title: "Teukoe Nja' Arif"
 aliases: [Teuku Nja Arif, Teuku Njak Arif, Teukoe Nja Arif]
 tags: [person, achehnese, oeleebalang, republican, political]
 ---

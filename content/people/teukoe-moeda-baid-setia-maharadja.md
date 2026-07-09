@@ -2,7 +2,7 @@
 title: Teukoe Moeda Baid Setia Maharadja
 aliases: [Teuku Muda Baid Setia Maharadja, Teukoe Moeda Baid, Baid Setia Maharadja, Teuku Muda Baid Setia Maharadja, Oeloebalang van de VII moekims, Uleebalang of the VII Mukims]
 tags: [person, uleebalang, colonial, 19th-century, dutch, achehnese, military]
-description: An Acehnese uleebalang of the VII Mukims who received a gold chain bearing the Dutch coat of arms from the colonial government in 1888, only to have it revoked in 1896 for disloyalty during the Aceh War.
+description: "An Acehnese uleebalang of the VII Mukims who received a gold chain bearing the Dutch coat of arms from the colonial government in 1888, only to have it revoked in 1896 for disloyalty during the Aceh War."
 ---
 
 **Teukoe Moeda Baid Setia Maharadja** was an [[Uleebalang|uleebalang]] (territorial lord) of the [[VII Mukims|VII Mukims]] in [[Acheh|Atjeh]] during the late nineteenth century. His career illustrates the volatile and often short-lived alliances between the Dutch colonial administration and Acehnese local rulers during the [[Aceh War]].

@@ -2,7 +2,7 @@
 title: Sultan Ibrahim Mansur Shah
 aliases: [Ibrahim Manso Shah, Ibrahim Mansur Shah, Sultan Ibrahim Mansur Shah, Sultan Mansur Shah, Manso Shah, Alaedin Manso Shah, Alaedin Mansur Shah, Sultan Manso]
 tags: [person, ruler, sultan, sultanate, acheh, nineteenth-century]
-description: Sultan of Acheh c. 1838/1858–1870, father of the last Achehnese sultan Tuanku Muhamat Dawot; patron of the Taj-ul-mulk; name recurs on the chab sikureu'eng of his son's sarakata.
+description: "Sultan of Acheh c. 1838/1858–1870, father of the last Achehnese sultan Tuanku Muhamat Dawot; patron of the Taj-ul-mulk; name recurs on the chab sikureu'eng of his son's sarakata."
 ---
 
 **Sultan Ibrahim Mansur Shah** — known in Achehnese pronunciation as **Manso Shah**, and in the formal genealogical style of his house as **Alaedin Mansur Shah** — was an [[Sultan|Achehnese sultan]] of the decadent period of the [[Sultanate of Acheh|sultanate]], who reigned in the middle decades of the nineteenth century (the sources differ as to the exact dates: one passage of *The Achehnese* gives [[1838]]–[[1870]], another [[1858]]–[[1870]]). He was the father of [[Tuanku Muhamat Dawot|Sultan Alaedin Muhamad Daud Shah Juhan]], the last sultan recognised by the Achehnese before the final establishment of Dutch rule over the kingdom. His name appears in the centre of the [[Sarakata|ninefold seal]] of the sultanate and his mediation (*afwah*) is invoked in the preamble of sultans' letters patent (*sarakata*); at his instance, the religious-political leader [[Teungku Kutakarang|Teungku Kuta Karang]] (Shaikh Abbas) wrote the *Taj-ul-mulk*, an important compendium of Islamic mystic arts, prognostications, and native medicine.

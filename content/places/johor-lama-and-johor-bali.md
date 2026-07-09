@@ -1,6 +1,6 @@
 ---
 title: Johor Lama and Johor Bali
-aliases: [Malem Dagang"]
+aliases: ["Malem Dagang\""]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place"]
 ---
 

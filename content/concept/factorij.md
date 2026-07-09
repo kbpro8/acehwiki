@@ -1,6 +1,6 @@
 ---
 title: Factorij
-aliases: [Factory (trading post), Factorij (Dutch), Loge (Dutch factory), Handelskantoor, Lodge, Factorij at Atjeh, logie, loge, lodge, factory, factorij, factorijen, Compagnie's lodge, Nederlandsche loge, handelsloge]
+aliases: [Factory (trading post), Factorij (Dutch), Loge (Dutch factory), Handelskantoor, Lodge, Factorij at Atjeh, logie, loge, lodge, factory, factorij, factorijen, "Compagnie's lodge, Nederlandsche loge, handelsloge"]
 tags: [concept, dutch, colonial, voc, atjeh, banda, trade, precolonial, 17th-century, institution]
 ---
 **Factorij** — the Dutch **factory** or trading post, the principal commercial institution of the early Dutch East India trade — was the physical establishment (a lodge, house, or fortified compound) where the Dutch factors (*factoren*) lived, stored their merchandise, and conducted their trade with the local population, under the protection of the local ruler or — increasingly after [[1609]] — of a Dutch fort. The factorij was the principal Dutch commercial institution at [[Acheh|Atjeh]] (the lodge "Zeelant" of [[1601]]-[[1602]]) and at [[Banda-eilanden|Banda]] (the factories at Lontor and Neira from [[1599]] onward), and the institutional foundation of the [[Vereenigde Oostindische Compagnie|VOC]]'s commercial network in the East Indies. The factorij is the principal named Dutch commercial institution of Van der Woude's [[Coen, Koopman van Heeren Zeventien (1948)|Van der Woude (1948)]].

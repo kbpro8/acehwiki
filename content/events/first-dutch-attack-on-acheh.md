@@ -1,6 +1,6 @@
 ---
 title: First Dutch Attack on Acheh
-aliases: [First Dutch expedition of 1873, Köhler's expedition, March 1873 attack on Acheh]
+aliases: [First Dutch expedition of 1873, "Köhler's expedition, March 1873 attack on Acheh"]
 tags: [event, war, military-expedition, dutch, colonial, 1873]
 ---
 

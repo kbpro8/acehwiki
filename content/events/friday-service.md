@@ -1,6 +1,6 @@
 ---
-title: Friday service (Jum'at)
-aliases: [Jum'at, Jumu'ah, Friday service, Friday prayer, Salat al-Jumu'ah, Jumu'ah prayer, Friday congregational prayer, Achehnese Jeumeunat]
+title: "Friday service (Jum'at)"
+aliases: ["Jum'at, Jumu'ah", Friday service, Friday prayer, "Salat al-Jumu'ah, Jumu'ah prayer", Friday congregational prayer, Achehnese Jeumeunat]
 tags: [event, religious, ceremony, festival]
 ---
 

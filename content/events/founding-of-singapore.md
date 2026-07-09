@@ -1,6 +1,6 @@
 ---
 title: Founding of Singapore
-aliases: [stichting van Singapore, Singapore established, Raffles' founding of Singapore, Singapore 1819]
+aliases: [stichting van Singapore, Singapore established, "Raffles' founding of Singapore, Singapore 1819"]
 tags: [event, colonial, anglo-dutch, diplomacy]
 ---
 

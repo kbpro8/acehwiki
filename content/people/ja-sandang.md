@@ -1,7 +1,7 @@
 ---
 
 title: Ja Sandang
-aliases: [To' Sandang, Chut Ja Sandang, the Sandang tribe]
+aliases: ["To' Sandang, Chut Ja Sandang, the Sandang tribe"]
 tags: [person, legendary, ancestor, kawom, tribal-ancestor]
 ---
 

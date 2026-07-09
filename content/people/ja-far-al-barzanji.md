@@ -1,7 +1,7 @@
 ---
 
-title: Ja'far al-Barzanji
-aliases: [Ja'far-al-Barzanji, Ja'far ibn Hasan al-Barzanji]
+title: "Ja'far al-Barzanji"
+aliases: ["Ja'far-al-Barzanji, Ja'far ibn Hasan al-Barzanji"]
 tags: [person, author, religious-figure, scholar, poet, islamic]
 ---
 

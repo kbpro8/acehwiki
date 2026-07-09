@@ -1,5 +1,5 @@
 ---
-title: Van Kol's Aceh War Motion (1897)
+title: "Van Kol's Aceh War Motion (1897)"
 aliases: [Aceh War motion 1897, Van Kol motion, Atjeh motion, Socialist anti-war motion]
 tags: [document, motion, parliament, colonial, anti-war, socialist]
 ---

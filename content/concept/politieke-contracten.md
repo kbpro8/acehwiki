@@ -2,7 +2,7 @@
 title: Politieke Contracten
 aliases: [Political Contracts, omstandige politieke contracten, Lange Contracten, the long political contracts, detailed political contracts]
 tags: [concept, colonial, dutch, administration, treaty, sovereignty, buitenbezittingen, aceh, zelfbesturen]
-description: The "detailed political contracts" — the older, elaborate written agreements between the Dutch Gouvernement and the self-governing territories of the Outer Possessions, replaced by the Korte Verklaring from 1899 onward.
+description: "The \"detailed political contracts\" — the older, elaborate written agreements between the Dutch Gouvernement and the self-governing territories of the Outer Possessions, replaced by the Korte Verklaring from 1899 onward."
 ---
 
 **The Politieke Contracten** ("political contracts"), also called the *omstandige politieke contracten* ("detailed political contracts"), were the elaborate written agreements that, until [[1899]], regulated the relationship between the Dutch Gouvernement and the [[Zelfbesturen|zelfbesturen (self-governing territories)]] of the [[Buitenbezittingen|Outer Possessions]], including the [[Atjeh en Onderhoorigheden|Atjeh and Dependencies]] residency. The politieke contracten set out "the principles to be observed in the governance of the landschappen, as well as the mutual rights, obligations, and competences" of the Gouvernement and the native rulers. From [[1899]] onward, the politieke contracten were progressively replaced by the simpler [[Korte Verklaring|Korte Verklaring]] — though a small minority of larger sultanates retained the older form.

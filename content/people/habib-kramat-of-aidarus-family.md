@@ -1,7 +1,7 @@
 ---
 
-title: Habib kramat of 'Aidarus family
-aliases: [Habib Kramat, Habib of the 'Aidarus family, Sanctified madman of the 'Aidarus]
+title: "Habib kramat of 'Aidarus family"
+aliases: [Habib Kramat, "Habib of the 'Aidarus family, Sanctified madman of the 'Aidarus"]
 tags: [person, religious-figure, sayyid, kramat]
 ---
 

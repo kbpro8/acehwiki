@@ -2,7 +2,7 @@
 title: Batavian Society Treasure Room Aceh Collection
 aliases: [Batavian Society Atjeh cabinets, Schatkamer Atjeh collectie, Treasure room Aceh assemblage, Acehnese gold and silver in the Batavian Society]
 tags: [event, museum, collection, colonial, dutch, 20th-century, achehnese, material-culture]
-description: The assemblage of Acehnese gold, silver, and precious-metal objects displayed in Cabinets 3, 4, and 5 of the Batavian Society's treasure room in Batavia, catalogued in the 1928 guide.
+description: "The assemblage of Acehnese gold, silver, and precious-metal objects displayed in Cabinets 3, 4, and 5 of the Batavian Society's treasure room in Batavia, catalogued in the 1928 guide."
 ---
 
 **The Batavian Society treasure room Aceh collection** was a major assemblage of Acehnese gold, silver, and precious-metal objects housed in the [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian Society's]] treasure room (*schatkamer*) in [[Koeta Radja|Batavia]]. The collection was displayed in three dedicated cabinets (Kast 3, 4, and 5), all labelled "Atjeh," and was comprehensively catalogued in the Society's 1928 visitor's guide, *Gids voor den bezoeker van de schatkamer*.

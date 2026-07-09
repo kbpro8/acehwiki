@@ -1,7 +1,7 @@
 ---
 
-title: Sane'
-aliases: [sane Che'bre']
+title: "Sane'"
+aliases: ["sane Che'bre'"]
 tags: [person, legend]
 ---
 

@@ -2,7 +2,7 @@
 title: Mirandolle
 aliases: [Lieutenant Mirandolle, Lt. Mirandolle]
 tags: [person, military, dutch, marine, aceh, colonial]
-description: Dutch marine lieutenant in the Korps Mariniers who served in the Aceh expedition of 1875-1876, wounded at Daroe on 30 January 1876.
+description: "Dutch marine lieutenant in the Korps Mariniers who served in the Aceh expedition of 1875-1876, wounded at Daroe on 30 January 1876."
 ---
 
 **Mirandolle** — a **Lieutenant** in the [[Royal Netherlands Marine Corps|Korps Mariniers]] — was a Dutch marine officer who served in the [[Aceh War|Aceh expedition]] of [[1875]]–[[1876]]. He commanded a marine *peloton* (platoon) that provided covering fire for artillery units, took over command of [[Lieutenant Ahn]]'s artillery-covering section after Ahn was wounded at [[Adjoen]] on [[30 December]] [[1875]], and was himself wounded on [[30 January]] [[1876]] while leading about twenty marines against the enemy camp of [[Daroe]].

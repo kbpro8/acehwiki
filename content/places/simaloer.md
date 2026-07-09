@@ -1,6 +1,6 @@
 ---
 title: Simaloer
-aliases: [Pulau Simeulue", Simaloer island", Simalur", Simeulue", Simeulue island"]
+aliases: ["Pulau Simeulue\", Simaloer island\"", "Simalur\", Simeulue\"", "Simeulue island\""]
 tags: ["achehnese", "coast", "island", "place"]
 ---
 **Simaloer** (modern *Simeulue*; also *Simalur*) is the island off the western coast of [[Acheh|Atjeh]] in the Indian Ocean, mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] as one of the North-Sumatran population-groups among whom the prohibition on slaughtering the albino buffalo (*Pantang of the albino buffalo in Atjeh|pantang*) is attested — specifically, for the *landschap* (district) of [[Tapah|Tapah]] — and as one of the regions whose buffalo-horn-stand nomenclature Kreemer documented in vol. I of his [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]] monograph (p. 501) alongside [[Acheh|Atjeh]] proper, the [[Gajoland|Gayo]] country, [[Alasland|Alas]] and [[Tapaq-Toean|Tapaq-Toean]]. The island is paired with the adjacent Atjeh mainland in both connections, which is consistent with the long-standing pattern of close cultural contact between Simaloer and the western coast of Atjeh.

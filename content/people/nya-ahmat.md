@@ -1,6 +1,6 @@
 ---
 
-title: Nya' Ahmat
+title: "Nya' Ahmat"
 aliases: [Uri bin Mahmut bin Jalaludin bin Abdosalam]
 tags: [person, author]
 ---

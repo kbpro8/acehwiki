@@ -1,6 +1,6 @@
 ---
 title: Dutch–Aceh Treaty of 1649
-aliases: [Treaty of 1649, Truytman treaty, Aceh-VOC agreement 1649, Truytman's treaties with the sultane, Atjeh-VOC verdrag van november 1649, Truytman treaties, Verdragen van november 1649]
+aliases: [Treaty of 1649, Truytman treaty, Aceh-VOC agreement 1649, "Truytman's treaties with the sultane, Atjeh-VOC verdrag van november 1649, Truytman treaties, Verdragen van november 1649"]
 tags: [document, treaty, diplomacy, colonial, aceh, dutch, achehnese]
 ---
 The **Dutch–Aceh Treaty of [[1649]]** was an agreement concluded in November of that year between [[Sultan Tajul-alam|Tajul-alam]], the "Sultane of Aceh," and the [[Dutch East India Company]] (VOC) envoy [[Johan Truytman]]. It secured the Company important trade advantages across the entire West Coast of Sumatra, including the exclusion of all other European and indigenous nations (except Acehnese) and the regulation of pepper prices.

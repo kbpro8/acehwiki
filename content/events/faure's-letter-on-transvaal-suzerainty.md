@@ -1,6 +1,6 @@
 ---
-title: Faure's letter on Transvaal suzerainty
-aliases: [Faure's letter to Chamberlain, Faure-Chamberlain letter, brief van D. P. Faure aan Chamberlain]
+title: "Faure's letter on Transvaal suzerainty"
+aliases: ["Faure's letter to Chamberlain, Faure-Chamberlain letter, brief van D. P. Faure aan Chamberlain"]
 tags: [event, correspondence, colonial, diplomacy]
 ---
 

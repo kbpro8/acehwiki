@@ -1,6 +1,6 @@
 ---
 title: Atjeh goldsmithing (soeasa technique)
-aliases: [Atjehsche goudsmidkunst, Atjeh gold work, Soeasa wrapping technique, Atjehers' gold-copper wrapping, Atjeh soeasa work, Spinsbek, Soeasa, Suasa, Spinsbeek, the gold-copper alloy, Indonesian red gold, Atjeh gold-copper alloy, the Atjehers' soeasa, the gold-copper alloy of the Atjehers]
+aliases: [Atjehsche goudsmidkunst, Atjeh gold work, Soeasa wrapping technique, "Atjehers' gold-copper wrapping, Atjeh soeasa work, Spinsbek, Soeasa, Suasa, Spinsbeek, the gold-copper alloy, Indonesian red gold, Atjeh gold-copper alloy, the Atjehers' soeasa", the gold-copper alloy of the Atjehers]
 tags: [concept, craft, atjehnese, goldsmithing, metalwork, precolonial, sumatra, technical-vocabulary]
 ---
 

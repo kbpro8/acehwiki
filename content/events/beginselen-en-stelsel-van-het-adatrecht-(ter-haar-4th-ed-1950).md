@@ -1,5 +1,5 @@
 ---
-title: Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)
+title: "Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)"
 aliases: [Beginselen en Stelsel van het Adatrecht, Ter Haar Adatrecht, Beginselen Adatrecht, Ter Haar 1939, Ter Haar 1950, Principles and System of Adat Law, Adatrecht Ter Haar, 4e druk]
 tags: [document, book, source, colonial, adatrecht, legal, 1939, 1950, ter-haar, wolters, groningen, djakarta, atjeh, rechtskring]
 ---

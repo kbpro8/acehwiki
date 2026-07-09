@@ -1,5 +1,5 @@
 ---
-title: Jebra'i
+title: "Jebra'i"
 tags: [person]
 ---
 

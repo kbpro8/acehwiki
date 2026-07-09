@@ -1,5 +1,5 @@
 ---
-title: Teungku Lam Keuneu'eun
+title: "Teungku Lam Keuneu'eun"
 tags: [person]
 ---
 

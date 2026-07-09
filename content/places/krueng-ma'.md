@@ -1,6 +1,6 @@
 ---
-title: Krueng Ma'
-aliases: [Krueng Ma, Kruëng Ma, Krueng Ma' Mukim, Mukim Krueng Ma]
+title: "Krueng Ma'"
+aliases: [Krueng Ma, Kruëng Ma, "Krueng Ma' Mukim, Mukim Krueng Ma"]
 tags: [place, mukim, region, great-acheh, xxii-mukims, imeum-union]
 ---
 

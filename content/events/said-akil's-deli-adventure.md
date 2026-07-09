@@ -1,5 +1,5 @@
 ---
-title: Said Akil's Deli adventure (1824-1828)
+title: "Said Akil's Deli adventure (1824-1828)"
 aliases: [Said Akil affair in Deli, Deli affair, Syed Akil in Deli, Raja Mooda of Deli affair]
 tags: [event, colonial, malay, piracy, correspondence, diplomacy]
 ---

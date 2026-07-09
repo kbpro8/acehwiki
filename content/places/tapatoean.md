@@ -1,6 +1,6 @@
 ---
-title: Tapa'toean
-aliases: [Tapa'toean, Tapatoean, Tapatuan]
+title: "Tapa'toean"
+aliases: ["Tapa'toean, Tapatoean, Tapatuan"]
 tags: [place, westkust, menangkabau]
 ---
 **Tapa'toean** is the subdistrict headquarters-town and subdistrict at the southern end of the West Coast of [[Atjèh|Atjèh]], the subdistrict with the strongly Menangkabau-Malay population character "which, with their strong Menangkabau-Tapanuli orientation, were also religiously more oriented toward the west coast of Sumatra," and the third West Coast scene — alongside [[Tjalang|Tjalang]] and [[Meulabóh|Meulabóh]] — of the insurgent movement that broke out on [[15 March]] [[1942]] with an armed attack on the camp at Tapa'toean by a gang of some two hundred men. Piekaar's *Atjèh and the War with Japan* treats Tapa'toean as the West Coast subdistrict whose "evolutionary" administrative transition from a captain-*controleur* to a civil administrator was only completed in [[1938]], and whose "still somewhat unstable political situation" left it the most vulnerable of all the West Coast subdistricts to the F-organisation's propaganda.

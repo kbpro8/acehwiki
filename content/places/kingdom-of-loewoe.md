@@ -2,7 +2,7 @@
 title: Kingdom of Loewoe
 aliases: [Loewoe, Luwu, Loewe, Loewoe (kingdom), Loewoe (Sulawesi)]
 tags: [place, kingdom, sulawesi, celebes, colonial, dutch-east-indies, 1905, marine-expedition, luwu]
-description: The Sulawesi polity on the southeastern coast of Celebes (modern Luwu) that, together with Boni, was the target of the Dutch marine expedition of 1905.
+description: "The Sulawesi polity on the southeastern coast of Celebes (modern Luwu) that, together with Boni, was the target of the Dutch marine expedition of 1905."
 ---
 
 **The Kingdom of Loewoe** (modern **Luwu**) was a polity on the southeastern coast of [[Celebes]] (today [[Sulawesi]]) that, together with [[Boni (Sulawesi)|Boni]], was the focus of the [[Expedition to Boni and Loewoe (1905)|Dutch marine expedition of 1905]]. The kingdom — described in contemporary Dutch reports as a "*rijk*" (realm) with its own fortified settlements — came into direct conflict with the [[Dutch Navy|Royal Netherlands Navy]] during the early twentieth-century Dutch colonial campaigns to extend control over the eastern Indonesian archipelago. The Dutch records note an "*actie tegen het rijk van Loewoe*" (action against the kingdom of Loewoe) carried out in early [[September]] [[1905]], when naval landing forces from the steamships [[Hertog Hendrik|Hertog Hendrik]] and [[De Ruyter|De Ruyter]] engaged the kingdom's defences and stormed the *kraton* (royal palace) of **Opoe Patoenraë**.

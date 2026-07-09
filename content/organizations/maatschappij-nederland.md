@@ -1,6 +1,6 @@
 ---
 
-title: Maatschappij "Nederland"
+title: "Maatschappij \"Nederland\""
 aliases: [Nederland Line, Koninklijke Hollandsche Lloyd, Maatschappij Nederland, Stoomschip Conrad]
 tags: [organization, shipping, dutch, colonial]
 ---

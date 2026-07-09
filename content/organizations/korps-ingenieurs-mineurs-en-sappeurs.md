@@ -1,6 +1,6 @@
 ---
 
-title: Korps Ingenieurs, Mineurs en Sappeurs
+title: "Korps Ingenieurs, Mineurs en Sappeurs"
 aliases: [Korps Ingenieurs Mineurs en Sappeurs, Korps I.M. en S., Genie, Wapen der Genie, Engineer Corps]
 tags: [organization, military, dutch, engineers, colonial]
 ---

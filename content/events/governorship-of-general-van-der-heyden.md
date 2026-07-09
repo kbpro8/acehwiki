@@ -1,6 +1,6 @@
 ---
 title: Governorship of General van der Heyden
-aliases: [Governorship of General van der Heijden, Van der Heyden's governorship, 1877–1881 governorship]
+aliases: [Governorship of General van der Heijden, "Van der Heyden's governorship, 1877–1881 governorship"]
 tags: [event, war, political, colonial, dutch-policy, military]
 ---
 

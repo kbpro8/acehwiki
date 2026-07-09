@@ -1,6 +1,6 @@
 ---
 title: Batu
-aliases: [Kuala Batu"]
+aliases: ["Kuala Batu\""]
 tags: ["place", "north-east-coast", "west-coast"]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Willem Joseph, baron van Ghent
+title: "Willem Joseph, baron van Ghent"
 aliases: [Willem Joseph baron van Ghent, Admiral van Ghent]
 tags: [person, military, dutch, navy]
 ---

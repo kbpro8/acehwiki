@@ -1,6 +1,6 @@
 ---
 title: Kalang
-aliases: [Kalang's, Kalangs of Java, Orang Kalang, Kalang people]
+aliases: ["Kalang's, Kalangs of Java, Orang Kalang, Kalang people"]
 tags: [concept, ethnonym, javanese, sumatra, east-coast, djawaka]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Jebel Nur
-aliases: [near Mecca"]
+aliases: ["near Mecca\""]
 tags: ["place", "sacred-site"]
 ---
 

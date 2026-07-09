@@ -1,7 +1,7 @@
 ---
 
 title: Teungku Hamba Alah
-aliases: [Teungku Hambarah, Teungku Hamba'alah]
+aliases: [Teungku Hambarah, "Teungku Hamba'alah"]
 tags: [person, religious-figure, ulama, scholar]
 ---
 

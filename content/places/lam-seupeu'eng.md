@@ -1,5 +1,5 @@
 ---
-title: Lam Seupeu'eng
+title: "Lam Seupeu'eng"
 aliases: [Lam Seupeuëng, Lam Seupeueng, Lam Seupeung, Lam Seupeng]
 tags: [place, gampong, banda-acheh]
 ---

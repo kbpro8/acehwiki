@@ -2,7 +2,7 @@
 title: Meunasah
 aliases: [Meunasah, Village Chapel, Surau]
 tags: [concept, religion, architecture, social-institution]
-description: The Acehnese village chapel — the communal heart of every gampong, serving simultaneously as a men's sleeping hall, rest-house for strangers, mosque for daily prayers, and venue for village assemblies and social events.
+description: "The Acehnese village chapel — the communal heart of every gampong, serving simultaneously as a men's sleeping hall, rest-house for strangers, mosque for daily prayers, and venue for village assemblies and social events."
 ---
 
 **Meunasah** (from Arabic *madrasah*, via Malay *surau*) was the village chapel of [[Great Acheh|Acheh]], the communal building at the heart of every [[Gampong|gampong]]. It served multiple functions simultaneously — a sleeping-place for men, a rest-house for strangers, a house of prayer, and a place of assembly for village affairs.

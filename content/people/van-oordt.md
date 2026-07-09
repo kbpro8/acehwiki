@@ -1,5 +1,5 @@
 ---
-title: Van Oordt, Captain-hutenant ter zee
+title: "Van Oordt, Captain-hutenant ter zee"
 aliases: [Van Oordt, Captain-hutenant Van Oordt]
 tags: [person, naval, dutch, colonial]
 ---

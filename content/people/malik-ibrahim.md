@@ -2,7 +2,7 @@
 title: Malik Ibrahim
 aliases: [Maulana Malik Ibrahim, Melik Ibrahim]
 tags: [person, islamic-scholar, saint, wali-songo, java, islamisation, merchant]
-description: Malik Ibrahim was a merchant, presumably a Persian from Kashan, who devoted his life to the Islamisation of the Javanese. He died in 1419 at Gresik, where his tomb is preserved. He was one of the earliest Islamic missionaries in the Archipelago.
+description: "Malik Ibrahim was a merchant, presumably a Persian from Kashan, who devoted his life to the Islamisation of the Javanese. He died in 1419 at Gresik, where his tomb is preserved. He was one of the earliest Islamic missionaries in the Archipelago."
 ---
 **Malik Ibrahim** was a merchant and Islamic missionary who was among the earliest propagators of Islam in the Indonesian Archipelago. He died in [[1419]] at [[Gresik]], [[Java]], where his tomb is preserved.
 

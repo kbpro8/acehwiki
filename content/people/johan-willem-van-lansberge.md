@@ -2,7 +2,7 @@
 title: Johan Willem van Lansberge
 aliases: [J. W. van Lansberge, J.W. van Lansberge, Mr. J. W. van Lansberge, Mr. J.W. van Lansberge, Van Lansberge, Governor-General Van Lansberge]
 tags: [person, governor-general, dutch, colonial, administrator, aceh]
-description: Dutch diplomat and colonial administrator who served as Governor-General of the Netherlands Indies from 1875 to 1881, presiding over the middle phase of the Aceh War.
+description: "Dutch diplomat and colonial administrator who served as Governor-General of the Netherlands Indies from 1875 to 1881, presiding over the middle phase of the Aceh War."
 ---
 
 **Johan Willem van Lansberge** (born [[16 November]] [[1830]]) was a Dutch diplomat and colonial administrator who served as [[Governor-General of the Netherlands Indies|Governor-General of Netherlands India]] from [[26 March]] [[1875]] until [[12 April]] [[1881]], succeeding [[J. Loudon|Mr. J. Loudon]] and presiding over the middle phase of the [[Aceh War|Atjeh-oorlog]]. His governorship saw the rise of [[Habib Abdurrahman Zahir|Habib Abdurrahman Zahir]] as the principal Acehnese leader, the campaigns of generals [[J. L. J. H. Pel|Pel]], [[G. B. T. Wiggers van Kerchem|Wiggers van Kerchem]], [[A. J. E. Diemont|Diemont]] and [[K. van der Heyden|Van der Heyden]], the submission of the [[XXII Mukims|XXII Moekims]] and [[XXVI Mukims|XXVI Moekims]] in [[1879]], the laying of the first stone of the [[Meusigit Raja]] of [[Kuta Raja|Koeta Radja]] on [[9 October]] [[1879]], and the establishment of civil government in [[Aceh|Atjeh]] in [[1881]].

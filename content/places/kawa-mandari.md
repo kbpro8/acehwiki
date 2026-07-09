@@ -1,6 +1,6 @@
 ---
 title: Kawa Mandari
-aliases: [in Hikayat Chut Gambang China"]
+aliases: ["in Hikayat Chut Gambang China\""]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

@@ -2,7 +2,7 @@
 title: Michiels Monument
 aliases: [Michielsmonument, Michiels-monument, monument aan het Waterlooplein]
 tags: [event, monument, memorial, colonial, dutch, batavia, weltevreden, military]
-description: The Michiels Monument at the Waterlooplein in Weltevreden, Batavia, commemorated General Andreas Victor Michiels (1797-1849), who was killed in action on Bali in 1849. It was depicted alongside the Atjeh Monument in the 1926 Platen Atlas.
+description: "The Michiels Monument at the Waterlooplein in Weltevreden, Batavia, commemorated General Andreas Victor Michiels (1797-1849), who was killed in action on Bali in 1849. It was depicted alongside the Atjeh Monument in the 1926 Platen Atlas."
 ---
 **The Michiels Monument** (Dutch: *Het Michielsmonument*) stood at the Waterlooplein in [[Weltevreden]], [[Batavia]], commemorating [[Andreas Victor Michiels|General Andreas Victor Michiels]] ([[1797]]–[[1849]]), who was killed in action on [[Bali]] in [[1849]].
 

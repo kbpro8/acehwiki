@@ -1,6 +1,6 @@
 ---
-title: Three Sagis' letter to Penang (4 December 1822)
-aliases: [4 December 1822 letter, Letter of the three Sagis to Phillips, Achehnese chiefs' letter to Governor Phillips]
+title: "Three Sagis' letter to Penang (4 December 1822)"
+aliases: [4 December 1822 letter, Letter of the three Sagis to Phillips, "Achehnese chiefs' letter to Governor Phillips"]
 tags: [event, correspondence, diplomacy]
 ---
 

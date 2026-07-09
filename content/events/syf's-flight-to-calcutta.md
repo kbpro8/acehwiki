@@ -1,6 +1,6 @@
 ---
-title: Syf's flight to Calcutta
-aliases: [Syf's flight from Acheh 1820, Flight of Saif ul-Alum, Syf's voyage to Bengal]
+title: "Syf's flight to Calcutta"
+aliases: ["Syf's flight from Acheh 1820, Flight of Saif ul-Alum, Syf's voyage to Bengal"]
 tags: [event, colonial, diplomacy]
 ---
 

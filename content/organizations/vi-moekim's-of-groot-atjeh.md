@@ -1,7 +1,7 @@
 ---
 
-title: VI Moekim's of Groot-Atjeh
-aliases: [6 Mukims of Atjeh", Lhee Sagoe", Six Mukims of Greater Aceh", VI Moekim", VI Moekim's", VI Mukim Groot-Atjeh"]
+title: "VI Moekim's of Groot-Atjeh"
+aliases: ["6 Mukims of Atjeh\", Lhee Sagoe\"", "Six Mukims of Greater Aceh\", VI Moekim\"", "VI Moekim's\", VI Mukim Groot-Atjeh\""]
 tags: ["achehnese", "administrative-unit", "islamic", "organization"]
 ---
 The **VI Moekim's of Groot-Atjeh** (the Six *Mukim*s of Greater Aceh) were a federation of six *mukim* — the Islamic administrative unit (from Arabic *muqīm*, literally "settled" or "resident") used in [[Acheh|Atjeh]] to organise the territorial-administrative structure of the sultanate — that formed one of the principal territorial federations of the [[Groot-Atjeh|Groot-Atjeh]] heartland around [[Banda Acheh|Koetaradja]]. The VI Moekim's are mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 246) as the inhabitants who, in the period documented by [[C. Snouck Hurgronje|Snouck Hurgronje]], held the [[Rabò annual seven-day feast|annual seven-day beach feast at Rabò]] — the seventh day of which culminated in the ritual sacrifice of a buffalo that was first stabbed and then led bleeding over all the rice-fields.

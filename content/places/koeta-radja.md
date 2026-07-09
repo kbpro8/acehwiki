@@ -2,7 +2,7 @@
 title: Koeta-Radja
 aliases: ["Kuta Raja", "Koeta Radja", "Kutaraja", "Kutaraja (Banda Aceh)", "Banda Aceh", "Kota Radja", "Kotaradja", "Kota Raja", "capital of Atjeh", "Koetaradja", "Kutaradja", "Kota Radja (Atjeh)"]
 tags: ["place", "city", "capital", "aceh", "sumatra", "colonial", "colonial-capital", "government-seat", "achehnese-history", "hoofdplaats", "atjeh", "administrative-center", "town"]
-description: Kota Radja (also Kotaradja, Koeta-Radja; modern Banda Aceh) was the capital of the Dutch Gouvernement Atjeh en Onderhoorigheden and the principal city of Atjeh. By 1926 it served as the starting point for automobile travel across Sumatra to Padang, symbolising the transformation of transport infrastructure following the pacification.
+description: "Kota Radja (also Kotaradja, Koeta-Radja; modern Banda Aceh) was the capital of the Dutch Gouvernement Atjeh en Onderhoorigheden and the principal city of Atjeh. By 1926 it served as the starting point for automobile travel across Sumatra to Padang, symbolising the transformation of transport infrastructure following the pacification."
 ---
 
 ## The colonial capital

@@ -1,6 +1,6 @@
 ---
 title: First Dutch voyage to Atjeh (1598-1599)
-aliases: [Eerste reis naar Atjeh, Houtman brothers' voyage to Atjeh, De Moucheron's Atjeh expedition, Eerste Nederlandsche reis naar Atjeh]
+aliases: [Eerste reis naar Atjeh, "Houtman brothers' voyage to Atjeh, De Moucheron's Atjeh expedition", Eerste Nederlandsche reis naar Atjeh]
 tags: [event, voyage, dutch, colonial, pre-VOC]
 ---
 

@@ -2,7 +2,7 @@
 title: Royal Netherlands Marine Corps
 aliases: [Royal Netherlands Marine Corps, Korps Mariniers, Koninklijk Korps Mariniers, Dutch Marine Corps, Netherlands Marine Corps, Marine Corps (Netherlands), Marine Corps of the Netherlands, Nederlandsche Mariniers, Dutch Marines, Corps Mariniers (Netherlands), Korps Mariniers (Dutch Marine Corps), Marine Corps]
 tags: [organization, military, colonial, dutch, marine, amphibious, aceh, netherlands]
-description: The elite amphibious infantry branch of the Royal Netherlands Navy, founded on 10 December 1665 and active in the Dutch East Indies — including the prolonged Aceh campaigns of 1873–1908 — and in World War II.
+description: "The elite amphibious infantry branch of the Royal Netherlands Navy, founded on 10 December 1665 and active in the Dutch East Indies — including the prolonged Aceh campaigns of 1873–1908 — and in World War II."
 ---
 
 > **Note on nomenclature.** The corps is known by several names: the original Dutch designation is ***Korps Mariniers*** (founded [[10 December]] [[1665]]); it was redesignated ***Koninklijk Korps Mariniers*** (Royal Netherlands Marine Corps) in [[1943]], while in exile in England during World War II. In older Dutch sources it is also called *Nederlandsche Mariniers*. The English name "Dutch Marine Corps" is the standard pre-1943 designation; "Royal Netherlands Marine Corps" is the modern official name. The corps is **still active** today as part of the [[Dutch Navy|Royal Netherlands Navy]]; claims in some sources that it was "disbanded in [[1945]]" appear to refer specifically to the end of its colonial-era service in the [[Dutch East Indies]] following the Japanese occupation of [[1942]]–[[1945]] and Indonesian independence, not to the corps itself.

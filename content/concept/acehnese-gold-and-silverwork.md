@@ -2,7 +2,7 @@
 title: Acehnese Gold and Silverwork
 aliases: [Acehnese metalwork, Atjehsche goud- en zilverwerk, Acehnese jewellery, gold and silver of Atjeh, Acehnese filigree, Acehnese chasing]
 tags: [concept, material-culture, craft, achehnese, gold, silver, decorative-arts]
-description: The traditions of gold and silver working in Aceh, as represented by the extensive assemblage of personal ornaments, weapons, and ceremonial objects in the Batavian Society's 1928 treasure-room catalogue.
+description: "The traditions of gold and silver working in Aceh, as represented by the extensive assemblage of personal ornaments, weapons, and ceremonial objects in the Batavian Society's 1928 treasure-room catalogue."
 ---
 
 **Acehnese gold and silverwork** encompasses the rich tradition of precious-metal craftsmanship in [[Acheh|Atjeh]], spanning personal adornment, weaponry, ceremonial objects, amulets, and domestic equipment. The 1928 treasure-room guide of the [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian Society]] provides one of the most detailed catalogues of this tradition, with over one hundred individually numbered objects displayed in three cabinets (Kast 3, 4, and 5) all labelled "Atjeh."

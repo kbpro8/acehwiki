@@ -2,7 +2,7 @@
 title: Wonderkogel
 aliases: [Wonderkogel, wonder bullet, magic bullet, kogel-amulet, bullet amulet, peluru sakti]
 tags: [concept, amulet, weapon, achehnese, material-culture, religious, magical-practice]
-description: Gold amulets in the form of bullets, with human faces and diamond eyes, preserved in the Batavian Society's collection as examples of Acehnese magical-military objects.
+description: "Gold amulets in the form of bullets, with human faces and diamond eyes, preserved in the Batavian Society's collection as examples of Acehnese magical-military objects."
 ---
 
 **Wonderkogel** (Dutch for "wonder bullet" or "magic bullet") is the term used in the 1928 treasure-room guide of the [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian Society]] for a pair of remarkable gold amulets in the shape of bullets, catalogued in Cabinet 4 (Atjeh), item 23–24. Each is described as *"goud, met menschelijk gelaat en diamanten oogen"* — "gold, with a human face and diamond eyes."

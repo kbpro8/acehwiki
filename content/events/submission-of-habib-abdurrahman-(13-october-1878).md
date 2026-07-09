@@ -1,6 +1,6 @@
 ---
 title: Submission of Habib Abdurrahman (13 October 1878)
-aliases: [Onderwerping van Habib Abdoor Rahman, Submission of Habib Abdoor Rahman, Habib's Submission]
+aliases: [Onderwerping van Habib Abdoor Rahman, Submission of Habib Abdoor Rahman, "Habib's Submission"]
 tags: [event, diplomacy, aceh-war, dutch-colonial]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Lam Ba'et
-aliases: [in the VI Mukims"]
+title: "Lam Ba'et"
+aliases: ["in the VI Mukims\""]
 tags: ["place", "aceh-proper"]
 ---
 

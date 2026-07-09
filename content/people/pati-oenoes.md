@@ -1,7 +1,7 @@
 ---
 
 title: Pati Oenoes
-aliases: [Pate Unus, Pati Unus, Pati Unoes, Pate Unus, Pangeran Sabrang Lor, Raden Sahid, Soenan Kalidjaga, Sunan Kalidjaga, Djaka Sahid, Raden Sa'id]
+aliases: [Pate Unus, Pati Unus, Pati Unoes, Pate Unus, Pangeran Sabrang Lor, Raden Sahid, Soenan Kalidjaga, Sunan Kalidjaga, Djaka Sahid, "Raden Sa'id"]
 tags: [person, ruler, commander, javanese, japara, demak, 16th-century]
 ---
 

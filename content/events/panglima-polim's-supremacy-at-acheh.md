@@ -1,6 +1,6 @@
 ---
-title: Panglima Polim's supremacy at Acheh
-aliases: [Polim's rule at Acheh capital, Panglima Polim's undisputed supremacy, Supremacy of Panglima Polim]
+title: "Panglima Polim's supremacy at Acheh"
+aliases: ["Polim's rule at Acheh capital, Panglima Polim's undisputed supremacy", Supremacy of Panglima Polim]
 tags: [event, colonial, diplomacy]
 ---
 

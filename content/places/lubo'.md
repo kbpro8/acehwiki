@@ -1,6 +1,6 @@
 ---
-title: Lubo'
-aliases: [Lubo, Lubo' (garden), Luboh]
+title: "Lubo'"
+aliases: [Lubo, "Lubo' (garden), Luboh"]
 tags: [place, locality, pantun]
 ---
 

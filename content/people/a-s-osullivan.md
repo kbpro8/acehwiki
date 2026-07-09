@@ -1,5 +1,5 @@
 ---
-title: A. S. O'Sullivan
+title: "A. S. O'Sullivan"
 tags: [person]
 ---
 

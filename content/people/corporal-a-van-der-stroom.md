@@ -1,5 +1,5 @@
 ---
-title: Van der Stroom, A.
+title: "Van der Stroom, A."
 aliases: [A. van der Stroom, Corporal A. van der Stroom]
 tags: [person, marine, dutch, colonial]
 ---

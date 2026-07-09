@@ -1,8 +1,8 @@
 ---
 title: VII Mukims Bueng
-aliases: [VII Mukims Bu'ëng, Mukims Bueng, Mukims Bu'ëng, Mukim Tujoh Bueng, Mukim Tujoh Bu'ëng, Seven Mukims Bueng, Seven Mukims of the Swamp, Ureung Bu'ëng, the people of the swamp]
+aliases: ["VII Mukims Bu'ëng, Mukims Bueng, Mukims Bu'ëng", Mukim Tujoh Bueng, "Mukim Tujoh Bu'ëng, Seven Mukims Bueng, Seven Mukims of the Swamp, Ureung Bu'ëng", the people of the swamp]
 tags: [place, mukim, sagi, lowland, swamp, xxvi-mukims]
-description: A subdivision of the Sagi of the XXVI Mukims of Great Acheh, distinguished by a peculiar dialect and by customs that have far more in common with those of the highlanders than with the rest of the XXVI Mukims.
+description: "A subdivision of the Sagi of the XXVI Mukims of Great Acheh, distinguished by a peculiar dialect and by customs that have far more in common with those of the highlanders than with the rest of the XXVI Mukims."
 ---
 
 The **VII Mukims Bueng** (Achehnese *Mukim Tujoh Bu'ëng*, "Seven Mukims of the Swamp") is a subdivision of the [[XXVI Mukims|Sagi of the XXVI Mukims]] of [[Great Acheh|Great Acheh]]. Its inhabitants are called the *ureuëng Bu'ëng* ("people of the swamp"), and the district is distinguished by a peculiar dialect and by customs which, although belonging politically to a lowland sagi, have far more in common with those of the [[Tunong|highlanders]] than with the rest of the [[XXVI Mukims]].

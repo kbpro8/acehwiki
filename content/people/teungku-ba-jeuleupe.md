@@ -1,6 +1,6 @@
 ---
 
-title: Teungku Ba' Jeuleupe
+title: "Teungku Ba' Jeuleupe"
 tags: [person, author]
 ---
 

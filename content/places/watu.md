@@ -1,6 +1,6 @@
 ---
 title: Watu
-aliases: [in Hikayat Meudeuhaa"]
+aliases: ["in Hikayat Meudeuhaa\""]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

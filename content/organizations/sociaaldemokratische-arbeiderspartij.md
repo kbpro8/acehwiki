@@ -1,7 +1,7 @@
 ---
 
 title: Sociaaldemokratische Arbeiderspartij
-aliases: [SDAP, Social Democratic Workers' Party, socialist party]
+aliases: [SDAP, "Social Democratic Workers' Party, socialist party"]
 tags: [organization, political, socialist, dutch, anti-war]
 ---
 

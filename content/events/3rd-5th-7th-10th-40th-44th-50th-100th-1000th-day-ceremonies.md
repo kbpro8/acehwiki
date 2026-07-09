@@ -1,5 +1,5 @@
 ---
-title: 3rd, 5th, 7th, 10th, 40th, 44th, 50th, 100th, 1000th day ceremonies
+title: "3rd, 5th, 7th, 10th, 40th, 44th, 50th, 100th, 1000th day ceremonies"
 aliases: [Day ceremonies, Day-epochs of birth, marriage and death, Ceremonial epochs of the Eastern Archipelago, 3rd 5th 7th day ceremonies]
 tags: [event, adat, ceremony, life-cycle]
 ---

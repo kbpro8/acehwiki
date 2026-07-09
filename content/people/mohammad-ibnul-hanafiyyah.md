@@ -1,5 +1,5 @@
 ---
-title: Mohammad ibnu'l Hanafiyyah
+title: "Mohammad ibnu'l Hanafiyyah"
 tags: [person]
 ---
 

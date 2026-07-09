@@ -1,5 +1,5 @@
 ---
-title: Sloof, G.
+title: "Sloof, G."
 aliases: [G. Sloof, Sergeant G. Sloof]
 tags: [person, marine, dutch, colonial]
 ---

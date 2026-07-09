@@ -1,5 +1,5 @@
 ---
-title: Notenbos, Sergeant
+title: "Notenbos, Sergeant"
 aliases: [Sergeant Notenbos]
 tags: [person, marine, dutch, colonial]
 ---

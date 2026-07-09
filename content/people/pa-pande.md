@@ -1,6 +1,6 @@
 ---
 
-title: Pa' Pande
+title: "Pa' Pande"
 aliases: [the Blacksmith]
 tags: [person, literary-work, folklore]
 ---

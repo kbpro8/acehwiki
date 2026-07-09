@@ -1,7 +1,7 @@
 ---
 
 title: Si Meuseukin
-aliases: [Si Gasin Meuseukin, Pa' Pande]
+aliases: [Si Gasin Meuseukin, "Pa' Pande"]
 tags: [person, literary-work, folklore]
 ---
 

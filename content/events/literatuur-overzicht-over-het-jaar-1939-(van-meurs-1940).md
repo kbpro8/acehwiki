@@ -1,5 +1,5 @@
 ---
-title: Literatuur-Overzicht over het jaar 1939 (Van Meurs, 1940)
+title: "Literatuur-Overzicht over het jaar 1939 (Van Meurs, 1940)"
 aliases: [Literatuur-Overzicht 1939, Literatuur-Overzicht over het jaar 1939 van de Taal-, Land- en Volkenkunde en Geschiedenis van Nederlandsch-Indië, Van Meurs 1940, Het 4e jaarlijksche Literatuur-Overzicht, D 2406 D 2706 1939]
 tags: [document, bibliography, source, publication, colonial, ethnology, 1940, van-meurs, koninklijk-instituut, sumatra, atjeh]
 ---

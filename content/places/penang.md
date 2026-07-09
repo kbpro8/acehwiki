@@ -1,6 +1,6 @@
 ---
 title: Penang
-aliases: [Pinang, Prince of Wales Island, Penang, Pulau Pinang, Pulau Penang, Pulo Pinang, Penang Island, Poeloe Pinang, Pulo Penang, Prince of Wales' Island]
+aliases: [Pinang, Prince of Wales Island, Penang, Pulau Pinang, Pulau Penang, Pulo Pinang, Penang Island, Poeloe Pinang, Pulo Penang, "Prince of Wales' Island"]
 tags: [place, straits-settlements, british, islands, island, foreign, british-settlement, colonial, coast, settlement, colony, capital]
 ---
 

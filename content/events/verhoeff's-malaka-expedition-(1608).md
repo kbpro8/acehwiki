@@ -1,5 +1,5 @@
 ---
-title: Verhoeff's Malaka expedition (1608)
+title: "Verhoeff's Malaka expedition (1608)"
 aliases: [Verhoeff at Malaka 1608, Pieter Willemsz Verhoeff Malaka expedition, Second Dutch attempt on Malaka 1608]
 tags: [event, dutch, portuguese, precolonial, atjeh, djohor, malaka, military, naval, 1608, verhoeff, voc]
 ---

@@ -2,7 +2,7 @@
 title: Sultan of Acheh (16th century)
 aliases: [Sultan of Atjeh (16th century), Sultan of Atjeh 1539, Sixteenth-century Sultan of Atjeh, Atjehnese sultan c. 1539, The Achehnese Sultan who sent embassy to Turkey, Raja of Acheh in the Lada Sichupa legend]
 tags: [person, sultan, achehnese, 16th-century, military, religious, sultanate, legendary]
-description: The unnamed 16th-century Achehnese sultan to whom early-modern sources attribute the 1539 Atjeh-Aru war, the Puteri Idjo suit, and the legendary embassy to the Sultan of Turkey that gave rise to the cannon Lada Sichupa' and the artisan colony at Bitay.
+description: "The unnamed 16th-century Achehnese sultan to whom early-modern sources attribute the 1539 Atjeh-Aru war, the Puteri Idjo suit, and the legendary embassy to the Sultan of Turkey that gave rise to the cannon Lada Sichupa' and the artisan colony at Bitay."
 ---
 
 **The Sultan of Acheh (16th century)** is the unnamed [[Aceh Sultanate|Achehnese sultan]] to whom the early-modern sources attribute both the expansionist campaign against the Sumatran east-coast polities — recorded by [[Mendez Pinto|Pinto]] as the [[Atjeh-Aroe War (1539)|Atjeh-Aru war of 1539]] — and the legendary opening of relations with the [[Sultan of Turkey (16th century)|Sultan of Turkey]] at [[Stambul]] that gave rise to the great cannon **[[Lada Sichupa']|Lada Sichupa']] and the colony of skilled artisans at [[Bitay]]. He is the principal Achehnese actor of the [[Atjeh-Aroe War (1539)]] and the figure whose conversion to Islam and whose maritime design mark the formal opening of the Achehnese maritime age.

@@ -1,6 +1,6 @@
 ---
-title: Expedition against the Padri's (1838)
-aliases: [Expedition tegen de Padri's (1838), 1838 Padri expedition]
+title: "Expedition against the Padri's (1838)"
+aliases: ["Expedition tegen de Padri's (1838), 1838 Padri expedition"]
 tags: [event, military, colonial, sumatra, 1838]
 ---
 **Expedition against the Padri's (1838)** was a Dutch military operation launched in [[1838]] to suppress the *Padri* insurgency on *Sumatra*. The expedition was carried out by elements of the [[Royal Netherlands Marine Corps|Korps Mariniers]] together with regular army units.

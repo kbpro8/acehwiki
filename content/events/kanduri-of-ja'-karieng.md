@@ -1,6 +1,6 @@
 ---
-title: Kanduri of Ja' Karieng (Pulo Breueh)
-aliases: [Kanduri of Ja' Karieng, Kanduri of the karieng-tree, Pulo Breueh annual feast]
+title: "Kanduri of Ja' Karieng (Pulo Breueh)"
+aliases: ["Kanduri of Ja' Karieng, Kanduri of the karieng-tree, Pulo Breueh annual feast"]
 tags: [event, religious, festival, epidemic, ceremony, superstition]
 ---
 

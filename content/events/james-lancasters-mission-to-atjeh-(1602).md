@@ -1,6 +1,6 @@
 ---
-title: James Lancaster's mission to Atjeh (1602)
-aliases: [First English voyage to Aceh, Lancaster's Aceh expedition]
+title: "James Lancaster's mission to Atjeh (1602)"
+aliases: [First English voyage to Aceh, "Lancaster's Aceh expedition"]
 tags: [event, diplomacy, english, trade, precolonial]
 ---
 

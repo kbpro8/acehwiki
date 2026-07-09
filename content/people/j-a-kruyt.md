@@ -2,7 +2,7 @@
 title: J. A. Kruyt
 aliases: [J.A. Kruyt, J. A. Kruyt, J.A. Kruijt, J. A. Kruijt, J. A. Kniijt]
 tags: [person, scholar, colonial-official, dutch]
-description: Dutch author of *Atjeh en de Atjehers*, cited as a standard source by Snouck Hurgronje in Vol. I of *The Achehnese*.
+description: "Dutch author of *Atjeh en de Atjehers*, cited as a standard source by Snouck Hurgronje in Vol. I of *The Achehnese*."
 ---
 
 **J. A. Kruyt** — also rendered **J. A. Kruijt**, with the OCR-garbled form **J. A. Kniijt** also occurring in the text — was a Dutch author whose work *Atjeh en de Atjehers* ("Aceh and the Acehnese") is cited repeatedly by [[C. Snouck Hurgronje|Snouck Hurgronje]] in Vol. I of *The Achehnese* as one of the standard sources on the country and people of [[Aceh]]. His name appears in the footnotes of the Introduction as one of the small body of Dutch writers whose observations on Acehnese life and history had been published before Snouck Hurgronje's own investigations.

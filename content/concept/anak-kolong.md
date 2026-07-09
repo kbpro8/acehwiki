@@ -1,6 +1,6 @@
 ---
 title: Anak-kolong
-aliases: [anak-kolong, child of the kolong, soldiers' child]
+aliases: [anak-kolong, child of the kolong, "soldiers' child"]
 tags: [concept, term, ambonese, knil, identity]
 ---
 

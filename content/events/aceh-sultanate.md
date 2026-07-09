@@ -2,7 +2,7 @@
 title: Aceh Sultanate
 aliases: [Sultanate of Acheh, Kesultanan Aceh, Acehnese Sultanate, Kingdom of Acheh, Sultanate of Aceh]
 tags: [event, sultanate, government, history]
-description: The Islamic sultanate that ruled Acheh from approximately the early 16th century, reaching its greatest power under Sultan Iskandar Muda (1607–1636) and declining through internal weakness and Dutch colonial pressure, finally yielding to the Dutch in the Aceh War.
+description: "The Islamic sultanate that ruled Acheh from approximately the early 16th century, reaching its greatest power under Sultan Iskandar Muda (1607–1636) and declining through internal weakness and Dutch colonial pressure, finally yielding to the Dutch in the Aceh War."
 ---
 
 **The Aceh Sultanate** (also *Sultanate of Acheh*, *Kesultanan Aceh*) was the Islamic kingdom that governed [[Great Acheh|Acheh]] and its dependencies from approximately the early sixteenth century until its final subjugation during the [[Aceh War]]. At its height — especially under [[Sultan Iskandar Muda]] ([[years/1607|1607]]–[[years/1636|1636]]) — it was one of the most powerful states in Southeast Asia, controlling both coasts of [[Sumatra]] and projecting power into the [[Malay Peninsula]].

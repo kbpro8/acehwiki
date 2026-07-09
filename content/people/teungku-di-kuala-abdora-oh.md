@@ -1,7 +1,7 @@
 ---
 
-title: Teungku di Kuala Abdora'oh
-aliases: [the saint of Singkel, Abdora'oh]
+title: "Teungku di Kuala Abdora'oh"
+aliases: [the saint of Singkel, "Abdora'oh"]
 tags: [person, religious-figure, saint]
 ---
 

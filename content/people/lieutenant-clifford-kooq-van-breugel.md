@@ -1,5 +1,5 @@
 ---
-title: Van Breugel, Clifford Kooq
+title: "Van Breugel, Clifford Kooq"
 aliases: [Clifford Kooq van Breugel, Lieutenant Clifford Kooq van Breugel]
 tags: [person, marine, dutch, colonial]
 ---

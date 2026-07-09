@@ -1,5 +1,5 @@
 ---
-title: Frederik de Houtman's Atjeh captivity (1599-1601)
+title: "Frederik de Houtman's Atjeh captivity (1599-1601)"
 aliases: [Frederik Houtman gevangenschap Atjeh, Frederik de Houtman gevangene van den sultan van Atjeh, Atjeh captivity of Frederik de Houtman]
 tags: [event, dutch, precolonial, atjeh, trade, captivity, 1599, 1600, 1601, houtman, netherlands-east-indies]
 ---

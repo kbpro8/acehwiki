@@ -1,6 +1,6 @@
 ---
 title: Submission of Saif ul-Alum at Telok Semawé
-aliases: [Syf's submission at Telok Semawé, onderwerping van Syf te Telok Semawé, Saif ul-Alum's submission]
+aliases: ["Syf's submission at Telok Semawé, onderwerping van Syf te Telok Semawé, Saif ul-Alum's submission"]
 tags: [event, diplomacy, colonial]
 ---
 

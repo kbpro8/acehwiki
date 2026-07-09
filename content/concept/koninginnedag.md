@@ -1,6 +1,6 @@
 ---
 title: Koninginnedag
-aliases: [Koninginnedag, Queen's Day, Koninginnedag rondgang]
+aliases: [Koninginnedag, "Queen's Day, Koninginnedag rondgang"]
 tags: [concept, ceremony, colonial, dutch]
 ---
 

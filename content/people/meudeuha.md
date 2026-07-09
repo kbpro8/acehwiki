@@ -1,7 +1,7 @@
 ---
 
-title: Meudeuha'
-aliases: [Maudeuha']
+title: "Meudeuha'"
+aliases: ["Maudeuha'"]
 tags: [person, literary-work]
 ---
 

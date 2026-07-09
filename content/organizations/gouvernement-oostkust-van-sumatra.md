@@ -1,7 +1,7 @@
 ---
 
 title: Gouvernement Oostkust van Sumatra
-aliases: [Government East Coast of Sumatra, Oostkust gewest, Residentie Oostkust, Sumatra's East Coast Government, Oostkust van Sumatra, Gouvernement Oostkust]
+aliases: [Government East Coast of Sumatra, Oostkust gewest, Residentie Oostkust, "Sumatra's East Coast Government, Oostkust van Sumatra, Gouvernement Oostkust"]
 tags: [organization, administrative, colonial, dutch, government, buitenbezittingen, oostkust-van-sumatra, sumatra]
 ---
 

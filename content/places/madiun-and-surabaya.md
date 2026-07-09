@@ -1,6 +1,6 @@
 ---
 title: Madiun and Surabaya
-aliases: [Java"]
+aliases: ["Java\""]
 tags: ["place", "legendary-land"]
 ---
 

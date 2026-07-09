@@ -2,7 +2,7 @@
 title: Queen Wilhelmina
 aliases: [Wilhelmina, Koningin Wilhelmina, Wilhelmina of the Netherlands, Wilhelmina der Nederlanden, Koningin der Nederlanden, H.M. de Koningin Wilhelmina, Hare Majesteit de Koningin, Queen of the Netherlands]
 tags: [person, queen, dutch, royal, monarchy, colonial, head-of-state, achehnese-history]
-description: Wilhelmina (1880-1962), Queen of the Netherlands from 1890 to 1948, whose reign spanned the final phases of Dutch colonial rule in Aceh, the Japanese occupation, and the opening of the Indonesian revolution.
+description: "Wilhelmina (1880-1962), Queen of the Netherlands from 1890 to 1948, whose reign spanned the final phases of Dutch colonial rule in Aceh, the Japanese occupation, and the opening of the Indonesian revolution."
 ---
 
 **Queen Wilhelmina** — Wilhelmina ([[1880]]–[[1962]]), Queen of the Netherlands from [[1890]] to [[1948]] — was the sovereign whose reign spanned the final phases of Dutch colonial rule in [[Aceh]] and the [[Dutch East Indies]], the Japanese occupation of [[1942]]–[[1945]], and the opening of the Indonesian revolution. Her reign is significant for Acehnese history through her [[7 December]] [[1942]] speech in exile in London, the deployment of the [[Royal Netherlands Marine Corps]] to restore Dutch authority in Aceh after the liberation, and the commemoration of her silver jubilee in [[1926]] by the *Nederlandsch Indië Platen Atlas* and the [[Wilhelminapark]] at [[Weltevreden]] — site of the [[Atjeh Monument]].

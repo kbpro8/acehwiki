@@ -2,7 +2,7 @@
 title: Lam Gut
 aliases: [Lam Guha, Lam Gutë, Lam Gugob]
 tags: [place, gampong, aceh-proper, xxvi-mukims, kali, religious-office]
-description: A gampong in the XXVI Mukims sagi of Great Acheh, the hereditary seat of the chief kali Teungku Lam Gut and associated with the Javanese cave-dwelling teacher Teungku di Lam Guha.
+description: "A gampong in the XXVI Mukims sagi of Great Acheh, the hereditary seat of the chief kali Teungku Lam Gut and associated with the Javanese cave-dwelling teacher Teungku di Lam Guha."
 ---
 
 **Lam Gut** (also spelled **Lam Guha**, **Lam Gutë**) was a *gampong* (village) in the [[XXVI Mukims]] sagi of [[Great Acheh]] in [[Acheh]] Proper, renowned as the hereditary seat of the chief *kali* (religious judge) of the sagi and as the place whose name was borne by the learned teacher [[Teungku di Lam Gut]] (proper name Jalaluddin). The variant spelling **Lam Guha** — possibly reflecting the Sanskrit-derived *guha* (cave) — also attaches to a tradition concerning a Javanese religious teacher from [[Demak]] who secluded himself in a cave for many years and whose tomb behind the [[Ulee Lheue]] mosque became a place of pilgrimage.

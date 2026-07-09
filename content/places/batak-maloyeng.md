@@ -1,6 +1,6 @@
 ---
 title: Batak Maloyeng
-aliases: [Bata' Maloyeng, Mandailing, Batak Mandailing]
+aliases: ["Bata' Maloyeng, Mandailing, Batak Mandailing"]
 tags: [place, people, region, batak, highland, foreign]
 ---
 

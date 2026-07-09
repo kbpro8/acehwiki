@@ -1,5 +1,5 @@
 ---
-title: Terwogt's account of the Atjeh-oorlog (1891)
+title: "Terwogt's account of the Atjeh-oorlog (1891)"
 aliases: [Terwogt Atjeh-oorlog, Terwogt account of the Aceh War, Het Land van Jan Pieterszoon Coen Atjeh-oorlog, Terwogt 1891 Atjeh, Atjeh-oorlog Terwogt]
 tags: [concept, account, colonial, military, atjeh, aceh-war, 1857, 1871, 1873, 1874, 1891, terwogt, popular-history]
 ---

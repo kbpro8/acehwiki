@@ -1,6 +1,6 @@
 ---
 title: De Kleine Oosterling
-aliases: [De Kleine Oosterling 1901, Wijma's leesboekje, Little Easterner, school history of Netherlands India]
+aliases: [De Kleine Oosterling 1901, "Wijma's leesboekje, Little Easterner, school history of Netherlands India"]
 tags: [document, colonial, dutch, school-textbook, primary-education, 1901, colonial-consciousness]
 ---
 

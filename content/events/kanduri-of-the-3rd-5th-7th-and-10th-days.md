@@ -1,5 +1,5 @@
 ---
-title: Kanduri of the 3rd, 5th, 7th and 10th Days
+title: "Kanduri of the 3rd, 5th, 7th and 10th Days"
 aliases: [kanduri ureueng lhée, kanduri ureueng limong, kanduri ureueng tujoh, kanduri ureueng siploh, four early funeral kanduris]
 tags: [event, ceremony, funeral, kanduri, mourning]
 ---

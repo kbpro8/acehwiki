@@ -1,5 +1,5 @@
 ---
-title: De Buitenbezittingen, Deel II, Aflevering 1
+title: "De Buitenbezittingen, Deel II, Aflevering 1"
 aliases: [De Buitenbezittingen Vol II Part 1, Sumatra Algemeene Hoofdstukken, Buitenbezittingen II-1, Encyclopaedisch Bureau Sumatra volume]
 tags: [document, colonial, dutch, administrative, encyclopaedisch-bureau, sumatra, buitenbezittingen, geography, climate, 1917]
 ---

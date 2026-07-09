@@ -1,5 +1,5 @@
 ---
-title: Van Taalman Kip, Minister of Marine
+title: "Van Taalman Kip, Minister of Marine"
 aliases: [Minister Van Taalman Kip, Van Exp Taalman Kip]
 tags: [person, government, dutch, colonial]
 ---

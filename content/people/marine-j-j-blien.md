@@ -1,5 +1,5 @@
 ---
-title: Blien, J. J.
+title: "Blien, J. J."
 aliases: [J. J. Blien, Marine J. J. Blien]
 tags: [person, marine, dutch, colonial]
 ---

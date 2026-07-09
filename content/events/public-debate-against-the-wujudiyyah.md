@@ -1,6 +1,6 @@
 ---
 title: Public debate against the Wujudiyyah
-aliases: [Raniri's disputation, Acheh theological debate 1637]
+aliases: ["Raniri's disputation, Acheh theological debate 1637"]
 tags: [event, religious, acehnese, seventeenth-century]
 ---
 

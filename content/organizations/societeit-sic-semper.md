@@ -1,7 +1,7 @@
 ---
 
 title: Sociëteit Sic Semper
-aliases: [Sic Semper, Societeit Sic Semper, Utrecht officers' society Sic Semper]
+aliases: [Sic Semper, Societeit Sic Semper, "Utrecht officers' society Sic Semper"]
 tags: [organization, military, social, dutch, officers'-society]
 ---
 

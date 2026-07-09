@@ -2,7 +2,7 @@
 title: T. J. Newbold
 aliases: [T. J. Newbold, Newbold]
 tags: [person, scholar, colonial-official, british, malay-studies, straits-settlements]
-description: British colonial officer and author of Political and Statistical Account of the British Settlements in the Straits of Malacca (1839), a standard reference cited repeatedly by Snouck Hurgronje in The Achehnese for Achehnese parallels among the Malays of the Straits.
+description: "British colonial officer and author of Political and Statistical Account of the British Settlements in the Straits of Malacca (1839), a standard reference cited repeatedly by Snouck Hurgronje in The Achehnese for Achehnese parallels among the Malays of the Straits."
 ---
 
 **T. J. Newbold** — also cited simply as **Newbold** — was a [[United Kingdom|British]] colonial officer and the author of *Political and Statistical Account of the British Settlements in the Straits of Malacca*, a two-volume work first published in [[London|London]] in [[1839]] and a standard reference for the early colonial administration of [[Penang|Penang]], [[Malacca|Malacca]], [[Singapore|Singapore]] and the other [[Straits Settlements|Straits Settlements]]. He is one of the comparative sources cited repeatedly by [[C. Snouck Hurgronje|Snouck Hurgronje]] in *[[The Achehnese|The Achehnese]]* whenever Achehnese institutions, vocabulary, calendar, or material culture have close parallels among the Malays of the Straits. He is one of a number of European writers on the Malay world whose works Snouck Hurgronje draws upon, qualifies, or corrects in the course of the work.

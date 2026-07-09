@@ -1,6 +1,6 @@
 ---
 
-title: Pra'un
+title: "Pra'un"
 aliases: [Pharaoh]
 tags: [person, religious-figure]
 ---

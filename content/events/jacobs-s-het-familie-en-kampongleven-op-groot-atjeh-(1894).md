@@ -1,5 +1,5 @@
 ---
-title: Jacobs's Het familie- en kampongleven op Groot-Atjeh (1894)
+title: "Jacobs's Het familie- en kampongleven op Groot-Atjeh (1894)"
 aliases: ["Family and Kampong Life in Greater Atjeh", "Jacobs Groot-Atjeh study"]
 tags: ["event", "publication", "atjeh", "groot-atjeh", "ethnography", "1894", "source-document"]
 ---

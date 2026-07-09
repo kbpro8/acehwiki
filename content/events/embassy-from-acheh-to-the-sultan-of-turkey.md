@@ -1,6 +1,6 @@
 ---
 title: Embassy from Acheh to the Sultan of Turkey
-aliases: [Embassy from Acheh to the Sultan of Turkey, Achehnese embassy to Constantinople, Lada Sichupa' embassy]
+aliases: [Embassy from Acheh to the Sultan of Turkey, Achehnese embassy to Constantinople, "Lada Sichupa' embassy"]
 tags: [event, political-history, diplomacy, legend, turkey-relations]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Verspijk, General major
+title: "Verspijk, General major"
 aliases: [Verspijk, General Verspijk]
 tags: [person, army, dutch, colonial]
 ---

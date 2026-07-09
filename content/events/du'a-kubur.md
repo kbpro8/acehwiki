@@ -1,6 +1,6 @@
 ---
-title: Du'a Kubur
-aliases: [Du'a kubur, Funeral prayer, Graveside prayer, Du'a qubūr]
+title: "Du'a Kubur"
+aliases: ["Du'a kubur, Funeral prayer, Graveside prayer, Du'a qubūr"]
 tags: [event, funeral-rite, religious-practice, prayer]
 ---
 

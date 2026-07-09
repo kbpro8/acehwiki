@@ -1,6 +1,6 @@
 ---
-title: Raffles' raid on Palembang (1819)
-aliases: [Raffles' Palembang raid, tocht naar Palembang 1819, Engelschen raid op Hollandsch grondgebied, Raffles' expedition to Palembang]
+title: "Raffles' raid on Palembang (1819)"
+aliases: ["Raffles' Palembang raid, tocht naar Palembang 1819, Engelschen raid op Hollandsch grondgebied, Raffles' expedition to Palembang"]
 tags: [event, colonial, war, anglo-dutch, mission]
 ---
 

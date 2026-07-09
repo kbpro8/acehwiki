@@ -1,6 +1,6 @@
 ---
 title: Pigskin parchment letter incident at Atjeh (1600)
-aliases: [The pigskin letter at Atjeh, De brief op varkensvel in Atjeh (1600), Maurits's letter at Atjeh, The parchment letter of Prince Maurits, The brief op varkensvel incident]
+aliases: [The pigskin letter at Atjeh, De brief op varkensvel in Atjeh (1600), "Maurits's letter at Atjeh, The parchment letter of Prince Maurits, The brief op varkensvel incident"]
 tags: [event, diplomacy, atjehnese, dutch, pre-voc, 17th-century]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Sam'un
+title: "Sam'un"
 tags: [person]
 ---
 

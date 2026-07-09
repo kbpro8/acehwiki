@@ -1,5 +1,5 @@
 ---
-title: Red or Green Merdeka (Alers's comparative framework)
+title: "Red or Green Merdeka (Alers's comparative framework)"
 aliases: [Rode of Groene Merdeka, Rood-Groen, Red-Green thesis, Om een rode of groene Merdeka]
 tags: [concept, historiography, comparative, political, achehnese]
 ---

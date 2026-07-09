@@ -1,6 +1,6 @@
 ---
-title: Ba'et
-aliases: [Ba-et, Baët, Ba'ët, Bateu]
+title: "Ba'et"
+aliases: [Ba-et, Baët, "Ba'ët, Bateu"]
 tags: [place, mukim, district]
 ---
 

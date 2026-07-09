@@ -1,5 +1,5 @@
 ---
-title: Joris Spilbergh's Atjeh visit (1602)
+title: "Joris Spilbergh's Atjeh visit (1602)"
 aliases: [Spilbergen at Atjeh, Spilbergh Atjeh 1602, Joris van Spilbergen Atjeh, Atjeh visit of Joris Spilbergh]
 tags: [event, dutch, precolonial, atjeh, trade, diplomacy, 1602, spilbergh, moucheron, netherlands-east-indies]
 ---

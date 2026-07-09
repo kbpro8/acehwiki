@@ -2,7 +2,7 @@
 title: Wegenplan Sumatra
 aliases: [Sumatra road plan, the Sumatra road plan, wegenplan voor Sumatra, systematische wegaanleg op Sumatra, Inspectie voor de Verkeerswegen — Sumatra]
 tags: [concept, colonial, dutch, infrastructure, roads, buitenbezittingen, aceh, sumatra, b.o.w.]
-description: The Sumatra road plan — the systematic plan for a Sumatra-wide network of main roads, also drivable with automobiles, connecting to the railways and tramways and to the always-navigable rivers, instituted by the Inspectie voor de Verkeerswegen of the B.O.W.
+description: "The Sumatra road plan — the systematic plan for a Sumatra-wide network of main roads, also drivable with automobiles, connecting to the railways and tramways and to the always-navigable rivers, instituted by the Inspectie voor de Verkeerswegen of the B.O.W."
 ---
 
 **The Wegenplan Sumatra** ("Sumatra road plan") was the systematic plan for a Sumatra-wide network of main roads — "a provisional wide-meshed, but island-wide network of main roads, also drivable with automobiles, connecting to the railways and tramways and to the always-navigable rivers" — instituted by the Inspectie voor de Verkeerswegen (Inspectorate for Traffic Routes) attached to the [[Departement der Burgerlijke Openbare Werken|B.O.W.]] in the [[1904]]–[[1914]] decade. In the Encyclopaedisch Bureau's account, the Wegenplan Sumatra included fifteen principal road projects, of which two were in the [[Atjeh en Onderhoorigheden|Atjeh and Dependencies]] residency: the Alasweg from [[Kaban Djahe]] to [[Kota Tjane]] (project no. 13) and the Gajo-weg from [[Bireuen]] to [[Takengon]] (project no. 14).

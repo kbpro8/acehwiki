@@ -1,5 +1,5 @@
 ---
-title: Dutch plenipotentiaries' dispatch of 21 February 1824
+title: "Dutch plenipotentiaries' dispatch of 21 February 1824"
 aliases: [21 February 1824 dispatch, Dutch plenipotentiaries dispatch 21 February 1824, Londensche depêche 21 February 1824]
 tags: [event, correspondence, diplomacy, colonial, anglo-dutch]
 ---

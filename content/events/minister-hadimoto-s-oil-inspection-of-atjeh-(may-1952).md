@@ -1,5 +1,5 @@
 ---
-title: Minister Hadimoto's Oil Inspection of Atjeh (May 1952)
+title: "Minister Hadimoto's Oil Inspection of Atjeh (May 1952)"
 aliases: ["Hadimoto visit to Atjeh", "Oil inspection Atjeh 1952"]
 tags: ["event", "economic", "atjeh", "oil", "1952", "ministerial-visit", "langsa"]
 ---

@@ -1,5 +1,5 @@
 ---
-title: Aceh Envoys' Visit to Singapore (January 1873)
+title: "Aceh Envoys' Visit to Singapore (January 1873)"
 aliases: [Atjehsche gezantschap naar Singapore, Gezantschap van Atjeh naar Singapore, Aceh Embassy to Singapore 1873]
 tags: [event, diplomacy, acehnese, aceh-war]
 ---

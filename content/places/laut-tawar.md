@@ -2,7 +2,7 @@
 title: Laut Tawar
 aliases: [Laut Tawar, Laoet Tawar, Lake Tawar, Gayo lake, the lake of Takengeun, lake of Takengeun]
 tags: [place, lake, gayo, highland, aceh, gajolanden]
-description: Laut Tawar — Dutch Laoet Tawar — is the great natural lake of the Gayo highlands of Aceh, lying at about 1,200 metres above sea level, on which Takengeun stands at the southern terminus of the Gajoweg.
+description: "Laut Tawar — Dutch Laoet Tawar — is the great natural lake of the Gayo highlands of Aceh, lying at about 1,200 metres above sea level, on which Takengeun stands at the southern terminus of the Gajoweg."
 ---
 
 **Laut Tawar** — Dutch ***Laoet Tawar***, also called the **lake of Takengeun** and the **Gayo lake** — is the great natural lake of the [[Gajoland|Gayo]] highlands of [[Atjeh|Aceh]], approximately 16 kilometres long and 4 kilometres wide, lying at about 1,200 metres above sea level in a basin enclosed by the high, pine-forested walls of the [[Klietel-massif|*Klietel*-massif]] to the south and the *B. ni Segi*–*B. ni Beboeli* chain to the north. It is the geographical and demographic heart of the [[Gajo Loeës|Gajo Loeës]] high plateau and the headwater of the [[Kr. Peusangan|Kr. Peusangan]], which descends from it to the North Coast; the village of [[Takengeun]] stands on its shore at the southern terminus of the [[Gajoweg|*Gajo-weg*]]. *De Buitenbezittingen* treats the *Laoet Tawar* as the principal physical feature of the Gayo lands: the body of water around which the great rice plains of *Bintang* and *Takengën* formed, and the barrier whose only access of *hoogen weg* from the north — the *Klietel*-saddle — was the route of the *Gajo-weg*, "met ontzaglijke moeite en kosten geslagen" (opened with immense effort and cost).

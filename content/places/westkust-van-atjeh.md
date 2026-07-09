@@ -1,6 +1,6 @@
 ---
 title: Westkust van Atjeh
-aliases: [West Coast of Atjeh, Atjeh's Westkust, Aceh Barat, Westkust Atjeh]
+aliases: [West Coast of Atjeh, "Atjeh's Westkust, Aceh Barat, Westkust Atjeh"]
 tags: [place, afdeeling, westkust, atjeh, coastal, administrative-division]
 ---
 

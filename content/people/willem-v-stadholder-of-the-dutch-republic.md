@@ -1,8 +1,8 @@
 ---
-title: Willem V, Stadholder of the Dutch Republic
+title: "Willem V, Stadholder of the Dutch Republic"
 aliases: [Willem V, William V, Willem V of Orange, Stadthouder Willem V, Stadholder Willem V]
 tags: [person, stadholder, dutch, colonial, monarch]
-description: Last hereditary stadholder of the Dutch Republic (1751–1795), patron of the navy and the marine corps in the era of the Fourth Anglo-Dutch War.
+description: "Last hereditary stadholder of the Dutch Republic (1751–1795), patron of the navy and the marine corps in the era of the Fourth Anglo-Dutch War."
 ---
 
 **Willem V, Stadholder of the Dutch Republic** (Willem Batavus; [[8 March]] [[1748]] — [[9 April]] [[1806]]) was the last hereditary *stadholder* of the [[Dutch Republic]], reigning from [[1751]] until his deposition in [[1795]], under whose patronage Dutch naval and colonial policy — including the proposed expansion of the [[Royal Netherlands Marine Corps|Korps Mariniers]] and the defence of Dutch interests in the [[Netherlands Indies|Netherlands-Indies]] theatre — was carried on the eve of the colonial nineteenth century. He is named in the *Geschiedenis van het Nederlandsche Korps Mariniers* (pp. [[76]]–[[78]] and pp. [[489]]–[[490]]) as the sovereign authority behind both the [[April 1781]] marine-corps proposal and a series of late-eighteenth-century orders touching Dutch trade and naval deployments toward [[Aceh|Atjeh]].

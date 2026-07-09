@@ -1,5 +1,5 @@
 ---
-title: George de Hertoge, Heer van Valkenburgh
+title: "George de Hertoge, Heer van Valkenburgh"
 aliases: [George de Hertoge, Heer van Valkenburgh, Colonel George de Hertoge]
 tags: [person, colonel, dutch, marines]
 ---

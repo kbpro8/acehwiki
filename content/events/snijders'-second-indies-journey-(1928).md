@@ -1,6 +1,6 @@
 ---
-title: Snijders' second Indies journey (1928)
-aliases: [Snijders' 1928 Indies journey, Second Indies journey, 1928 visit to Indië, Snijders' KNILM-opening visit]
+title: "Snijders' second Indies journey (1928)"
+aliases: ["Snijders' 1928 Indies journey, Second Indies journey, 1928 visit to Indië, Snijders' KNILM-opening visit"]
 tags: [event, visit, dutch, post-war, aviation, knilm]
 ---
 

@@ -2,7 +2,7 @@
 title: East Indian Archipelago
 aliases: [Indian Archipelago, Eastern Archipelago, Eastern Indian Archipelago, E. Indian Archipelago, Malayan Archipelago, the Archipelago]
 tags: [place, foreign, region, archipelago, comparative]
-description: The great island world of South-East Asia as treated in Snouck Hurgronje's comparative account of Achehnese institutions.
+description: "The great island world of South-East Asia as treated in Snouck Hurgronje's comparative account of Achehnese institutions."
 ---
 
 The **East Indian Archipelago** — also called the **Indian Archipelago**, the **Eastern Archipelago**, or the **Malayan Archipelago** (and sometimes simply **the Archipelago**) — is the great island world of South-East Asia, of which [[Acheh|Acheh]] forms the westernmost part. [[C. Snouck Hurgronje|Snouck Hurgronje]] uses the term throughout *The Achehnese* as the geographical frame within which the institutions of Acheh are to be understood: Acheh is "a part of the East Indian Archipelago," and its customs are continually set beside those of the other Mohammedan peoples of the Archipelago — those of [[Java|Java]], [[Madura|Madura]], the [[Malay Peninsula|Malay Peninsula]], the [[Straits Settlements|Straits Settlements]], [[Celebes|Celebes]], and so on. The four designations (Indian, East Indian, Eastern, Malayan Archipelago) are essentially interchangeable in Snouck's usage, all denoting the same common Mohammedan civilisation from which, in his account, the institutions of Acheh are ultimately derived.

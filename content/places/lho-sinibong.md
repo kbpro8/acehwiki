@@ -1,6 +1,6 @@
 ---
-title: Lho' Sinibong
-aliases: [on the river of Jambo Aye"]
+title: "Lho' Sinibong"
+aliases: ["on the river of Jambo Aye\""]
 tags: ["place", "aceh-proper"]
 ---
 

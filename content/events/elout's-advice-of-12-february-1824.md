@@ -1,6 +1,6 @@
 ---
-title: Elout's advice of 12 February 1824
-aliases: [Elout nota 12 February 1824, Minister Elout's advice of 12 February 1824, Elout's nota of 12 February 1824]
+title: "Elout's advice of 12 February 1824"
+aliases: [Elout nota 12 February 1824, "Minister Elout's advice of 12 February 1824, Elout's nota of 12 February 1824"]
 tags: [event, correspondence, diplomacy, colonial, anglo-dutch]
 ---
 

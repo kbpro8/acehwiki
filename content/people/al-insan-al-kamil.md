@@ -1,7 +1,7 @@
 ---
 
 title: al-Insan al-Kamil
-aliases: [al-Insān al-kāmil, al-Insan al-kamil, Insan al-Kamil, The Universal Man, al-Insān al-kāmil of ʿAbd al-Karīm al-Jīlī, al-Jili's Insan al-Kamil]
+aliases: [al-Insān al-kāmil, al-Insan al-kamil, Insan al-Kamil, The Universal Man, al-Insān al-kāmil of ʿAbd al-Karīm al-Jīlī, "al-Jili's Insan al-Kamil"]
 tags: [document, religious-work, sufi-text, arabic-literature, cosmology, wujudiyyah, source-of-tibjan, 14th-century]
 ---
 

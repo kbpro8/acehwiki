@@ -1,6 +1,6 @@
 ---
 title: Berlin
-aliases: [Germany"]
+aliases: ["Germany\""]
 tags: ["place", "legendary-land"]
 ---
 

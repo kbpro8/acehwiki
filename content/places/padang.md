@@ -1,6 +1,6 @@
 ---
 title: Padang
-aliases: [Padang (Sumatra), Padang highlands, West-Coast Padang, Highlands of Padang, Padang uplands, Minangkabau highlands, Padang, Padang on Sumatra, Padang op Sumatra's Westkust, City of Padang, Hoofdkantoor Padang, Padang]
+aliases: [Padang (Sumatra), Padang highlands, West-Coast Padang, Highlands of Padang, Padang uplands, Minangkabau highlands, Padang, Padang on Sumatra, "Padang op Sumatra's Westkust, City of Padang, Hoofdkantoor Padang, Padang"]
 tags: [place, foreign, region, coast, highland, sumatra, minangkabau, adat, city, colony, westkust, colonial, dutch, british]
 ---
 

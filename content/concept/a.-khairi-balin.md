@@ -1,5 +1,5 @@
 ---
-title: A. khairi ba'lin
+title: "A. khairi ba'lin"
 aliases: ["khairi ba'lin", "A. khairi ba'lin"]
 tags: [concept, acehnese, lexical, marital]
 ---

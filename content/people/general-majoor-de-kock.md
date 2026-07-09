@@ -1,5 +1,5 @@
 ---
-title: De Kock, General‑majoor
+title: "De Kock, General‑majoor"
 aliases: ["General‑majoor De Kock"]
 tags: [person, military, dutch]
 ---

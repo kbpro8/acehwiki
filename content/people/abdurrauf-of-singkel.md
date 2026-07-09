@@ -1,5 +1,5 @@
 ---
-title: Abdurra'uf of Singkel
+title: "Abdurra'uf of Singkel"
 tags: [person]
 ---
 

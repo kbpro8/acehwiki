@@ -1,6 +1,6 @@
 ---
 title: Shahkubat / Atrah
-aliases: [in Malem Diwanda' and Chah Kubat"]
+aliases: ["in Malem Diwanda' and Chah Kubat\""]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

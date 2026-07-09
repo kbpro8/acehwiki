@@ -2,7 +2,7 @@
 title: Adat Meukuta Alam
 aliases: [Adat Meukuta Alam, Makota Alam, Adat Kanun, Edicts of Meukuta Alam, Edicts of Iskandar Muda, Laws of Meukuta Alam, Code of Sultan Iskandar Muda]
 tags: [document, law, adat, royal-decree, political, governance, historical, sultanate, achehnese]
-description: The body of written ordinances ascribed to Sultan Meukuta Alam (Iskandar Muda, reigned 1607–1636), regarded by the Achehnese as the chief monument of royal legislation in their history.
+description: "The body of written ordinances ascribed to Sultan Meukuta Alam (Iskandar Muda, reigned 1607–1636), regarded by the Achehnese as the chief monument of royal legislation in their history."
 ---
 
 The **Adat Meukuta Alam** — also known as the ***Makota Alam***, the ***Adat Kanun***, or the **edicts of Meukuta Alam** — is the body of written ordinances ascribed to Sultan [[Sultan Meukuta Alam|Meukuta Alam]] (Iskandar Muda, reigned [[1607]]–[[1636]]) and regarded by the Achehnese as the chief monument of royal legislation in their history. The sultan, as [[C. Snouck Hurgronje|C. Snouck Hurgronje]] explains, "was himself called Meukuta Alam after his death, and his ordinances are thus known as Adat Meukuta Alam." The ordinances themselves, however, are more commonly referred to by the alternative names *Makota Alam* and *Adat Kanun* — the latter a compound of the Arabic *ʽādah* (custom) and *qānūn* (law), which denotes a body of written regulations of royal or governmental origin. Together with the [[Sarakata|sarakatas]] (letters patent) of later sultans, these edicts constitute the only attempts at centralisation of authority or reform — social, political, or religious — that can be discerned in the whole course of Achehnese history.

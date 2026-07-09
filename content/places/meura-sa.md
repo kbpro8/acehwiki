@@ -1,8 +1,8 @@
 ---
-title: Meura'sa
+title: "Meura'sa"
 aliases: [Meurasa]
 tags: [place, gampong, mukim]
-description: An important gampong and mukim near Banda Acheh, home of the uleebalangship of Teuku Ne' of Meura'sa, whose six mukims were seized by Teuku Nanta Seutia.
+description: "An important gampong and mukim near Banda Acheh, home of the uleebalangship of Teuku Ne' of Meura'sa, whose six mukims were seized by Teuku Nanta Seutia."
 ---
 
 **Meura'sa** was an important [[Gampong|gampong]] and [[Mukim|mukim]] in the vicinity of [[Banda Acheh]], listed among the most prosperous *banda* (capital-area) settlements. It was the seat of the [[Uleebalang|uleebalangship]] of [[Teuku Ne' of Meura'sa]] — the great mukim of Meura'sa comprising six mukims — which was the subject of a protracted territorial dispute.

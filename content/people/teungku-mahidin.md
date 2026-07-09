@@ -1,7 +1,7 @@
 ---
 
 title: Teungku Mahidin
-aliases: [Ma' Et]
+aliases: ["Ma' Et"]
 tags: [person, religious-figure, ulama, war-leader]
 ---
 

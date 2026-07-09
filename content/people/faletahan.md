@@ -1,7 +1,7 @@
 ---
 
 title: Faletahan
-aliases: [Falatehan, Faletehan, Sunan Gunung Jati, Sunan Goenoeng Djati, Sjech Noeroe'd din Ibrahim ibn Maulana Israil, Noeroe'ddin, Paseier, Light of the Religion]
+aliases: [Falatehan, Faletehan, Sunan Gunung Jati, Sunan Goenoeng Djati, "Sjech Noeroe'd din Ibrahim ibn Maulana Israil, Noeroe'ddin", Paseier, Light of the Religion]
 tags: [person, scholar, saint, founder, paseier, javanese, 16th-century]
 ---
 

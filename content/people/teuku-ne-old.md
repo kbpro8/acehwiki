@@ -1,7 +1,7 @@
 ---
 
-title: Teuku Ne' (old)
-aliases: [The Old Teuku Ne', Old Teuku Ne' of Meura'sa, Second Predecessor of the Present Chief]
+title: "Teuku Ne' (old)"
+aliases: ["The Old Teuku Ne', Old Teuku Ne' of Meura'sa, Second Predecessor of the Present Chief"]
 tags: [person, uleebalang, sultanate]
 ---
 

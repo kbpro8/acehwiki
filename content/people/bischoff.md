@@ -2,7 +2,7 @@
 title: Bischoff
 aliases: [Colonel Bischoff, Lieutenant-colonel Bischoff]
 tags: [person, officer, dutch, colonial, military]
-description: Dutch colonial army officer who commanded columns in the 1821 Palembang and 1824 Aceh expeditions, recorded in the Korps Mariniers history.
+description: "Dutch colonial army officer who commanded columns in the 1821 Palembang and 1824 Aceh expeditions, recorded in the Korps Mariniers history."
 ---
 
 **Bischoff** was a Dutch colonial army officer who is recorded in the *De geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945* as commanding Dutch forces in two early-nineteenth-century Sumatran expeditions: as **Lieutenant-colonel Bischoff** in the [[17 June]] [[1821]] phase of the second Dutch expedition against [[Palembang]], and as **Colonel Bischoff** in the [[27 August]] [[1824]] expedition against the [[Sultan of Aceh]]. His [[1824]] operation at the island of [[Gombora]] cleared the way for further Dutch advances up the river to the Aceh capital.

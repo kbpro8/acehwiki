@@ -1,6 +1,6 @@
 ---
 title: Bale Meudeuhab
-aliases: [Bale meudeuhab, Bale' meudeuhab, Changing the madhab, Taqlid marriage ceremony]
+aliases: [Bale meudeuhab, "Bale' meudeuhab, Changing the madhab, Taqlid marriage ceremony"]
 tags: [event, marriage-custom, religious-practice, family-law, adat]
 ---
 

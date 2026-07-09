@@ -1,5 +1,5 @@
 ---
-title: Serres, P. L. C.
+title: "Serres, P. L. C."
 aliases: ["P. L. C. Serres"]
 tags: [person, military, dutch]
 ---

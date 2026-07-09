@@ -2,7 +2,7 @@
 title: Weltevreden
 aliases: [Weltevreden Batavia, bovenstad van Batavia, Weltevreden Java]
 tags: [place, city, capital, colonial, dutch, batavia, java, government-seat]
-description: Weltevreden was the upper city (bovenstad) and administrative capital of the Dutch East Indies, located south of the old city of Batavia. It housed the Government, the Raad van Nederlandsch-Indië, the Volksraad, the Atjeh Monument, the Michiels Monument, and numerous other colonial institutions.
+description: "Weltevreden was the upper city (bovenstad) and administrative capital of the Dutch East Indies, located south of the old city of Batavia. It housed the Government, the Raad van Nederlandsch-Indië, the Volksraad, the Atjeh Monument, the Michiels Monument, and numerous other colonial institutions."
 ---
 **Weltevreden** was the upper city (*bovenstad*) and administrative capital of the [[Netherlands India|Dutch East Indies]], located to the south of the old city of [[Batavia]]. By [[1926]], it was the seat of the Governor-General, the Council of the Dutch East Indies, the People's Council (*Volksraad*), and numerous government departments and cultural institutions. The [[Atjeh Monument]] stood in the Wilhelminapark at Weltevreden.
 

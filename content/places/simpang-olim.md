@@ -2,7 +2,7 @@
 title: Simpang Olim
 aliases: [Simpang Oleim, Simpang-Olim, Simpang Oelim, Landschap Simpang Olim]
 tags: [place, coast-state, acehnese, aceh-war, event, material-culture]
-description: An Acehnese coast-state on the northern coast of Atjeh whose radja's refusal to submit led to a Dutch military expedition in 1876 and whose abandoned residence yielded a remarkable assemblage of personal ornaments in 1877.
+description: "An Acehnese coast-state on the northern coast of Atjeh whose radja's refusal to submit led to a Dutch military expedition in 1876 and whose abandoned residence yielded a remarkable assemblage of personal ornaments in 1877."
 ---
 
 **Simpang Olim** (also rendered *Simpang Oleim*, *Simpang-Olim*, or *Simpang Oelim*) was an Acehnese coast-state (*landschap*) situated on the northern coast of [[Great Acheh|Atjeh]]. It is recorded in the historical literature for two closely connected reasons: first, as the site of a Dutch military expedition in late 1876 under [[A.J.E. Diemont|General Diemont]] during the opening years of the [[Aceh War]], when the radja's refusal to submit ended in his flight and the burning of his settlement; and second, for the remarkable assemblage of gold and silver personal ornaments — including a pair of gold spectacles with extendable parts — found in the radja's abandoned residence in 1877 and subsequently acquired by the [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian Society]] in [[Koeta Radja|Batavia]].

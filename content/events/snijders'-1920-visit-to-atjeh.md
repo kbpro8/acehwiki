@@ -1,6 +1,6 @@
 ---
-title: Snijders' 1920 visit to Atjeh
-aliases: [Snijders' first Indies journey (1920), Snijders' visit to Aceh 1920, Wreath-laying on Pel's grave, 1920 Atjeh visit]
+title: "Snijders' 1920 visit to Atjeh"
+aliases: ["Snijders' first Indies journey (1920), Snijders' visit to Aceh 1920", "Wreath-laying on Pel's grave, 1920 Atjeh visit"]
 tags: [event, visit, dutch, post-war, aceh-war-commemoration, luchtvaart]
 ---
 

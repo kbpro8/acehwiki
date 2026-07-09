@@ -1,6 +1,6 @@
 ---
 title: Atjehsche ambassade ceremony (1 July 1641)
-aliases: [Atjeh embassy ceremony, The 1 July 1641 audience, Soury's audience at Atjeh, The hand-over of the Gouverneur-Generaal's letter at Atjeh]
+aliases: [Atjeh embassy ceremony, The 1 July 1641 audience, "Soury's audience at Atjeh, The hand-over of the Gouverneur-Generaal's letter at Atjeh"]
 tags: [event, diplomacy, ceremony, atjehnese, dutch, 17th-century]
 ---
 

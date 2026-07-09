@@ -1,7 +1,7 @@
 ---
 
 title: Awi Ditjoe
-aliases: [Awi Titjoe, Awi Ditjo, Awy Ditjoe, Hulubalang of Sjahroe'n Noewi]
+aliases: [Awi Titjoe, Awi Ditjo, Awy Ditjoe, "Hulubalang of Sjahroe'n Noewi"]
 tags: [person, commander, hulubalang, sjahroennoewi, sadjarah-malajoe]
 ---
 

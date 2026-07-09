@@ -1,6 +1,6 @@
 ---
-title: Sa'ri
-aliases: [in Hikayat Seuma'un"]
+title: "Sa'ri"
+aliases: ["in Hikayat Seuma'un\""]
 tags: ["place", "legendary-land"]
 ---
 

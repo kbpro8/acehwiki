@@ -1,6 +1,6 @@
 ---
 
-title: Teungku di Keureuse'
+title: "Teungku di Keureuse'"
 tags: [person, saint]
 ---
 

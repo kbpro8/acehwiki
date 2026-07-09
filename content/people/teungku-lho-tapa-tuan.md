@@ -1,6 +1,6 @@
 ---
 
-title: Teungku Lho' Tapa' Tuan
+title: "Teungku Lho' Tapa' Tuan"
 tags: [person, saint]
 ---
 

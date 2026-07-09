@@ -1,5 +1,5 @@
 ---
-title: Ellinghuyzen, Lieutenant ter zee
+title: "Ellinghuyzen, Lieutenant ter zee"
 aliases: ["Lieutenant ter zee Ellinghuyzen"]
 tags: [person, military, dutch]
 ---

@@ -2,7 +2,7 @@
 title: Imeum of Teunom
 aliases: [Imeum of Teunom, Imeum Teunom, Chief of Teunom, Present chief of Teunom]
 tags: [person, imeum, uleebalang, adat-chief, west-coast, aceh, military]
-description: The Imeum of Teunom — the "present chief of Teunom" at the time of Snouck Hurgronje's writing — was the energetic hereditary chief of Teunom on the West Coast of Aceh, an adat-chief whose entrenched local authority even Teuku Uma could not overcome.
+description: "The Imeum of Teunom — the \"present chief of Teunom\" at the time of Snouck Hurgronje's writing — was the energetic hereditary chief of Teunom on the West Coast of Aceh, an adat-chief whose entrenched local authority even Teuku Uma could not overcome."
 ---
 
 **The Imeum of Teunom** — the "present chief of Teunom" at the time of [[C. Snouck Hurgronje|Snouck Hurgronje]]'s writing, and elsewhere in *The Achehnese* also called simply the **Chief of Teunom** — was the energetic hereditary chief — *imeum* — of the district of [[Teunom]] on the [[West Coast (of Acheh)|West Coast of Acheh]]. He is mentioned by Snouck Hurgronje in Vol. I of *The Achehnese* both as the type of the powerful and capable adat-chief against whose entrenched local authority even the most enterprising of the Achehnese guerilla leaders could make little headway, and as a striking example of the way in which Achehnese chiefs devised and inflicted arbitrary punishments outside the formal framework of either the *hukom* (religious law) or the *adat* (customary law).

@@ -2,7 +2,7 @@
 title: Peutjoet
 aliases: [Peutjoet, Peutjot, Peucut, Peutjot cemetery, the Eik en Duinen of Aceh, Aceh cemetery, Kuta Alam cemetery, heroes cemetery, kerkhof te Peutjot, Kerkhof te Peutjot, kerkhof bij Kotaradja]
 tags: [place, cemetery, memorial, military, colonial, aceh, koeta-radja, knil, dutch, war-graves, achehnese-history]
-description: Peutjoet (also Peutjot) was the military cemetery near Kota Radja in Atjeh, primarily intended for Dutch soldiers killed during the various military expeditions in Atjeh. The names of the fallen are carved into the stone walls of the entrance.
+description: "Peutjoet (also Peutjot) was the military cemetery near Kota Radja in Atjeh, primarily intended for Dutch soldiers killed during the various military expeditions in Atjeh. The names of the fallen are carved into the stone walls of the entrance."
 ---
 
 **Peutjoet** — also *Peutjot*, *Peucut* — is the military cemetery of [[Koeta-Radja]] in [[Atjeh|Aceh]], at which [[Dominee Thenu]] is buried "temidden van zovelen, die hij voorbereid had op die laatste gang daarheen" — among the many whom he had prepared for that last journey there. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Peutjoet is called the "Eik en Duinen" of Aceh — *Eik en Duinen* being the famous cemetery in The Hague — the place where a brave man was carried to his last resting-place, and where [[Dominee Thenu|Dominee Thenu]] was regularly present. The cemetery was primarily intended for Dutch soldiers and officers who fell during the various expeditions in Atjeh; the names of the dead are recorded in the stone walls at the entrance to the cemetery.

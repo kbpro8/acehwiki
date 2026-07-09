@@ -2,7 +2,7 @@
 title: R. J. Wilkinson
 aliases: [Richard James Wilkinson, Wilkinson, R.J. Wilkinson, R. J. Wilkinson]
 tags: [person, scholar, colonial, malay, colonial-official, british, indexer, malay-scholar]
-description: British colonial administrator, Malay scholar, and Orientalist; Inspector of Schools in the Federated Malay States and compiler of the Index to The Achehnese (1906).
+description: "British colonial administrator, Malay scholar, and Orientalist; Inspector of Schools in the Federated Malay States and compiler of the Index to The Achehnese (1906)."
 ---
 
 **Richard James Wilkinson** ([[1867]]–[[1941]]) was a British colonial administrator, Malay scholar, and Orientalist who served as **Inspector of Schools in the [[Federated Malay States|Federated Malay States]]** at the time when the English translation of *The Achehnese* was prepared for the press. His name appears on the title-page of that work as the compiler of the **Index** that closes the second volume of the [[1906]] edition, and to whose patient labour of identification every user of the book is heavily indebted. Wilkinson was also the leading British Malayologist of his generation, whose *Malay-English Dictionary* became the standard reference work for the British administration of the [[Straits Settlements|Straits Settlements]] and the Federated Malay States, and whose lexical observations on classical Malay are still cited in studies of Acehnese Malay and the literary traditions of Sumatra.

@@ -1,6 +1,6 @@
 ---
 
-title: Jebra'i
+title: "Jebra'i"
 aliases: [Gabriel, Jibril]
 tags: [person, religious-figure]
 ---

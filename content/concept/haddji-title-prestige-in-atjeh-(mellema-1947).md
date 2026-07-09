@@ -1,6 +1,6 @@
 ---
 title: Haddji title prestige in Atjeh (Mellema 1947)
-aliases: [Haddji title in Atjeh, Prestige of the Haddji in Atjeh, Haddji among the Atjeh oelama's, Haji title Atjeh, The returned pilgrim in Atjeh, Haddji as social capital in Atjeh, Mellema on the Haddji title]
+aliases: [Haddji title in Atjeh, Prestige of the Haddji in Atjeh, "Haddji among the Atjeh oelama's, Haji title Atjeh, The returned pilgrim in Atjeh, Haddji as social capital in Atjeh, Mellema on the Haddji title"]
 tags: [concept, religious, social, achehnese, haddji, pilgrimage, oelama, prestige, comparative, mellema-1947]
 ---
 

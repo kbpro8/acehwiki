@@ -1,6 +1,6 @@
 ---
-title: Mo'lot
-aliases: [Mo'lot, Maulud, Rabi' al-awwal, Rabioy Awal, feast of the birth of Mohammad, Prophet's birthday month, Molot, Mo'lot month]
+title: "Mo'lot"
+aliases: ["Mo'lot, Maulud, Rabi' al-awwal", Rabioy Awal, feast of the birth of Mohammad, "Prophet's birthday month, Molot, Mo'lot month"]
 tags: [event, ceremony, feast, calendar, islamic, mawlid, month]
 ---
 

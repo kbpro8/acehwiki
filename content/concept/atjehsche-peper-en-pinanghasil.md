@@ -2,7 +2,7 @@
 title: Atjehsche peper- en pinanghasil
 aliases: [Atjeh pepper and betel-nut yield, Atjehsche peper- en pinanghasil, Atjeh peper- en pinang-yield, the Atjeh pepper and pinang revenue, Atjehsche peper- en pinang-yield]
 tags: [concept, colonial, dutch, finance, agriculture, trade, buitenbezittingen, aceh, landschapskassen]
-description: The pepper and betel-nut revenues of the Atjeh and Dependencies residency — the most important such revenue of any Buitenbezittingen gewest, yielding f 125,000 (pepper) and f 55,000 (pinang) to the landschapskas in 1913.
+description: "The pepper and betel-nut revenues of the Atjeh and Dependencies residency — the most important such revenue of any Buitenbezittingen gewest, yielding f 125,000 (pepper) and f 55,000 (pinang) to the landschapskas in 1913."
 ---
 
 **The Atjehsche peper- en pinanghasil** ("Atjeh pepper and betel-nut yield") was the principal miscellaneous revenue of the [[Landschapskassen|landschapskassen (territorial treasuries)]] of the [[Atjeh en Onderhoorigheden|Atjeh and Dependencies]] residency — the most important such revenue of any Buitenbezittingen gewest. In the Encyclopaedisch Bureau's account, the Atjehsche peper- en pinanghasil yielded f 125,000 (pepper) and f 55,000 (pinang) to the landschapskas in [[1913]] — figures that the Bureau singles out as "very important" among the miscellaneous revenues of the Buitenbezittingen landschapskassen.

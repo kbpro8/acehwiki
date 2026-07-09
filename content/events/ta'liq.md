@@ -1,6 +1,6 @@
 ---
-title: Ta'liq
-aliases: [Ta'lik, Taliq, Conditional talaq, Suspended divorce]
+title: "Ta'liq"
+aliases: ["Ta'lik, Taliq, Conditional talaq, Suspended divorce"]
 tags: [event, life-cycle, rite, religious]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Houtman brothers' visit to Atjeh (1599)
-aliases: [Houtman's first visit to Atjeh, Atjeh ambush 1599, Houtman brothers Atjeh 1599, Eerste Nederlandsche bezoeken aan Atjeh, Murder of Cornelis de Houtman in Atjeh (1599), De Houtman's death in Aceh, Atjeh massacre of 1599, First Dutch Voyage to Aceh (Cornelis de Houtman), Cornelis de Houtman's voyage to Aceh, De Houtman's Atjeh Expedition, 1599 Aceh Expedition]
+title: "Houtman brothers' visit to Atjeh (1599)"
+aliases: ["Houtman's first visit to Atjeh, Atjeh ambush 1599, Houtman brothers Atjeh 1599, Eerste Nederlandsche bezoeken aan Atjeh, Murder of Cornelis de Houtman in Atjeh (1599), De Houtman's death in Aceh", Atjeh massacre of 1599, First Dutch Voyage to Aceh (Cornelis de Houtman), "Cornelis de Houtman's voyage to Aceh, De Houtman's Atjeh Expedition", 1599 Aceh Expedition]
 tags: [event, dutch, colonial, precolonial, atjeh, trade, diplomacy, 1599, houtman, netherlands-east-indies, conflict, exploration]
 ---
 

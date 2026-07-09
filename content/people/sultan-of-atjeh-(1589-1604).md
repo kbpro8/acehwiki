@@ -1,7 +1,7 @@
 ---
 
 title: Sultan of Atjeh (1589-1604)
-aliases: [Ala'uddin Ri'ayat Shah Sayyid al-Mukammil, Sultan Ala'uddin of Atjeh, Sultan of Achin 1599, Sultan of Atjeh (Houtman era), Sultan Mukammil, Alauddin Riayat Shah ibn Firman Shah]
+aliases: ["Ala'uddin Ri'ayat Shah Sayyid al-Mukammil", "Sultan Ala'uddin of Atjeh, Sultan of Achin 1599, Sultan of Atjeh (Houtman era), Sultan Mukammil, Alauddin Riayat Shah ibn Firman Shah"]
 tags: [person, sultan, achehnese, precolonial, 16th-century, 17th-century, atjeh, trade, diplomacy]
 ---
 

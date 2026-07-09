@@ -2,7 +2,7 @@
 title: Granting of Dutch Coat of Arms Chain to Baid Setia Maharadja (1888)
 aliases: [Award of gold chain to Baid Setia Maharadja, 1888 chain of honour, Verlening Nederlandsch wapen aan Baid Setia Maharadja]
 tags: [event, political-history, colonial, dutch, achehnese, 1888, aceh-war, diplomacy]
-description: The colonial government's award of a gold chain bearing the Dutch coat of arms to the uleebalang of the VII Mukims in 1888, as part of its strategy of co-opting Acehnese elites.
+description: "The colonial government's award of a gold chain bearing the Dutch coat of arms to the uleebalang of the VII Mukims in 1888, as part of its strategy of co-opting Acehnese elites."
 ---
 
 **The granting of the Dutch coat of arms chain to Baid Setia Maharadja** took place in [[1888]], when the Netherlands Indies government presented a ceremonial gold chain bearing the Dutch royal arms to [[Teukoe Moeda Baid Setia Maharadja]], the [[Uleebalang|uleebalang]] of the [[VII Mukims|VII Moekims]]. The original Dutch description records: *"in 1888 door het Gouvernement verleend"* — "granted in 1888 by the Government."

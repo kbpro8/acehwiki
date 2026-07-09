@@ -2,7 +2,7 @@
 title: Toekoe Moeda Ia Malim
 aliases: [Teuku Muda Ia Malim, Teukoe Moeda Ia Malim, Tukoe Moeda Ia Malim]
 tags: [person, uleebalang, colonial, 19th-century, achehnese]
-description: An Acehnese local notable whose personal seal was held in the collection of the Batavian Society's treasure room, indicating his status within the traditional Acehnese governance hierarchy.
+description: "An Acehnese local notable whose personal seal was held in the collection of the Batavian Society's treasure room, indicating his status within the traditional Acehnese governance hierarchy."
 ---
 
 **Toekoe Moeda Ia Malim** was an Acehnese notable — the title *Toekoe Moeda* (Teuku Muda) indicating a position of some authority, possibly an [[Uleebalang|uleebalang]] or subordinate territorial lord — whose personal seal was preserved among the gold and silver objects in Cabinet 3 (Atjeh) of the [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian Society's]] treasure room in [[Koeta Radja|Batavia]].

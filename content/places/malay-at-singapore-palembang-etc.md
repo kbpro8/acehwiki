@@ -1,5 +1,5 @@
 ---
-title: Malay at Singapore, Palembang etc.'
+title: "Malay at Singapore, Palembang etc.'"
 tags: ["place", "legendary-land"]
 ---
 

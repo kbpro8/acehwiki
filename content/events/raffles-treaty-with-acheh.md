@@ -1,6 +1,6 @@
 ---
 title: Raffles Treaty with Acheh
-aliases: [Raffles Treaty with Acheh, Treaty of 1819 with Acheh, Treaty with Johor Allum as King of Acheen, Raffles's 1819 Acheh treaty]
+aliases: [Raffles Treaty with Acheh, Treaty of 1819 with Acheh, Treaty with Johor Allum as King of Acheen, "Raffles's 1819 Acheh treaty"]
 tags: [event, diplomatic, treaty, british, colonial, 1819]
 ---
 

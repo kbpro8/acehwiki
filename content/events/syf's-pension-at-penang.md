@@ -1,6 +1,6 @@
 ---
-title: Syf's pension at Penang
-aliases: [Syf's 500 dollar pension, Pension of Saif ul-Alum, Bengal pension for Syf]
+title: "Syf's pension at Penang"
+aliases: ["Syf's 500 dollar pension, Pension of Saif ul-Alum, Bengal pension for Syf"]
 tags: [event, colonial, diplomacy]
 ---
 

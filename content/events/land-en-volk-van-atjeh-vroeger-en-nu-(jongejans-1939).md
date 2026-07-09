@@ -1,5 +1,5 @@
 ---
-title: Land en volk van Atjeh vroeger en nu (Jongejans, 1939)
+title: "Land en volk van Atjeh vroeger en nu (Jongejans, 1939)"
 aliases: [Jongejans 1939, Land en volk van Atjeh vroeger en nu, Land and people of Atjeh past and present, Jongejans Land en volk Atjeh, Atjeh vroeger en nu]
 tags: [document, book, colonial, ethnography, atjeh, jongejans, 1939, baarn, survey]
 ---

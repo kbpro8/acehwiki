@@ -1,8 +1,8 @@
 ---
-title: Keuchi'
+title: "Keuchi'"
 aliases: [Keuchik, Keutjhi, Village Headman, Geuchik, Keutjhï, Keutjhiʼ, keutjhi, keucik, vader der gampong]
 tags: [concept, government, village-leader, achehnese, adat, office]
-description: The Acehnese village headman — the elected or hereditary head of the gampong, responsible for maintaining customary law (adat), resolving disputes, and representing the village to the uleebalang above.
+description: "The Acehnese village headman — the elected or hereditary head of the gampong, responsible for maintaining customary law (adat), resolving disputes, and representing the village to the uleebalang above."
 ---
 
 **Keuchi'** (also *keuchik*, *keutjhi*; modern spelling *geuchik*) was the headman or chief of the [[Gampong|gampong]] (Acehnese village) — the primary administrator at the village level. The keuchi' was responsible primarily for maintaining the [[Adat|customary law]] (*adat*) and the worldly affairs of the gampong, though promotion of godly living among his people was also regarded as part of his duty.

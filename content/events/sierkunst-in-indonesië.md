@@ -1,6 +1,6 @@
 ---
 title: Sierkunst in Indonesië
-aliases: [Wagner's Sierkunst in Indonesië, Wagner 1949, Insulinde Vol. VI, Sierkunst in Indonesië (Wagner), F. A. Wagner Sierkunst, Decorative Art in Indonesia (Wagner), Wagner's Indonesian Decorative Art]
+aliases: ["Wagner's Sierkunst in Indonesië, Wagner 1949, Insulinde Vol. VI, Sierkunst in Indonesië (Wagner), F. A. Wagner Sierkunst, Decorative Art in Indonesia (Wagner), Wagner's Indonesian Decorative Art"]
 tags: [document, source-book, dutch, colonial, decorative-art, indonesia, insulinde-series]
 ---
 

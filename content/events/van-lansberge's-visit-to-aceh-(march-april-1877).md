@@ -1,6 +1,6 @@
 ---
-title: Van Lansberge's visit to Aceh (March-April 1877)
-aliases: [Bezoek van Van Lansberge aan Atjeh, Van Lansberge's inspection of Atjeh, Van Lansberge at Oleh-leh]
+title: "Van Lansberge's visit to Aceh (March-April 1877)"
+aliases: [Bezoek van Van Lansberge aan Atjeh, "Van Lansberge's inspection of Atjeh, Van Lansberge at Oleh-leh"]
 tags: [event, diplomacy, inspection, dutch-colonial, aceh-war]
 ---
 

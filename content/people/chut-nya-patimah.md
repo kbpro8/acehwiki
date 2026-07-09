@@ -1,6 +1,6 @@
 ---
 
-title: Chut Nya' Patimah
+title: "Chut Nya' Patimah"
 tags: [person, ruler]
 ---
 

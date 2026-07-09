@@ -1,6 +1,6 @@
 ---
 title: Atjeh-kanker
-aliases: [Aceh cancer, Aceh cancer concept, Van Kol's metaphor]
+aliases: [Aceh cancer, Aceh cancer concept, "Van Kol's metaphor"]
 tags: [concept, metaphor, anti-war, colonial, socialist]
 ---
 

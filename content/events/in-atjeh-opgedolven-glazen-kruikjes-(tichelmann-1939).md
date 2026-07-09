@@ -1,5 +1,5 @@
 ---
-title: In Atjeh opgedolven glazen kruikjes (Tichelmann, 1939)
+title: "In Atjeh opgedolven glazen kruikjes (Tichelmann, 1939)"
 aliases: [Tichelmann 1939, In Atjeh opgedolven glazen kruikjes, Glass jugs excavated in Atjeh, Tichelmann glass Atjeh, Atjeh glass kruikjes, Glazen kruikjes Atjeh, Excavated glass vessels Atjeh]
 tags: [document, article, colonial, archaeological, atjeh, tichelmann, 1939, de-natuur, glass, excavation]
 ---

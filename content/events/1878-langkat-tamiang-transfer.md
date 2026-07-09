@@ -1,6 +1,6 @@
 ---
 title: 1878 Langkat–Tamiang transfer
-aliases: [Transfer of Langkat's rights over Tamiang, Tamiang overdracht 1878, Langkat-Tamiang overdracht, Tamiang Transfer to Atjeh (1908), Tamiang aan Atjeh, Tamiang separation, Staatsblad 1908 No. 112, Tamiang onderafdeeling]
+aliases: ["Transfer of Langkat's rights over Tamiang, Tamiang overdracht 1878, Langkat-Tamiang overdracht, Tamiang Transfer to Atjeh (1908), Tamiang aan Atjeh, Tamiang separation, Staatsblad 1908 No. 112, Tamiang onderafdeeling"]
 tags: [event, treaty, colonial, dutch, tamiang, langkat, atjeh, staatsblad-1908, buitenbezittingen, oostkust-van-sumatra]
 ---
 

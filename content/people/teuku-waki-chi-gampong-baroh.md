@@ -1,7 +1,7 @@
 ---
 
-title: Teuku Waki Chi' Gampong Baroh
-aliases: [Teuku Waki Chi Gampong Baroh, Waki Chi' of the V Mukims]
+title: "Teuku Waki Chi' Gampong Baroh"
+aliases: [Teuku Waki Chi Gampong Baroh, "Waki Chi' of the V Mukims"]
 tags: [person, uleebalang]
 ---
 

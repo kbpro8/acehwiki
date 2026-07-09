@@ -1,7 +1,7 @@
 ---
 
-title: Teukoe Tjhï' Meulabôh
-aliases: [Teungku Tjhi Meulaboh, T. Tjhï' Meulabôh, T. Tjhict Meulabsh, Teukoe Tjhi]
+title: "Teukoe Tjhï' Meulabôh"
+aliases: [Teungku Tjhi Meulaboh, "T. Tjhï' Meulabôh, T. Tjhict Meulabsh, Teukoe Tjhi"]
 tags: [person, achehnese, chief, westkust]
 ---
 **Teukoe Tjhï' Meulabôh** was the [[Keudjeuroeën|keudjeuroeën]] — originally the Sultan's customs-collector — of [[Meulabôh|Meulabôh]] on the West Coast of Atjeh, whose historical position as *belastinggaarder des Sultans* over the sixteen chieftains of the [[Kawaj XVI|Kawaj XVI]] was transformed by Dutch intervention into a territorial chieftaincy over a substantial portion of the lower [[Kr. Meureubôh|Kr. Meureubôh]] basin. *De Buitenbezittingen* describes him as one of the most consequential native rulers of the West Coast: a figure whose authority derived originally from a Sultan's appointment of [[1185]] Moh. (≈ [[1760]] AD) but whose effective power was the creation of Dutch recognition, which "begiftigden Teukoe Tjhï' van Meulabôh als loon voor zijne diensten met territoriaal gezag."

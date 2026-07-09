@@ -1,5 +1,5 @@
 ---
-title: Governor Sarimin's Visit to Atjeh (February 1950)
+title: "Governor Sarimin's Visit to Atjeh (February 1950)"
 aliases: ["Sarimin Atjeh visit", "North Sumatra governor visit to Atjeh"]
 tags: ["event", "political", "atjeh", "1950", "inspection", "north-sumatra", "governor"]
 ---

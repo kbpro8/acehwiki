@@ -1,5 +1,5 @@
 ---
-title: Lewe van Aduard, Captain ter zee
+title: "Lewe van Aduard, Captain ter zee"
 aliases: ["Captain Lewe van Aduard"]
 tags: [person, military, dutch]
 ---

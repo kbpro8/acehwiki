@@ -1,5 +1,5 @@
 ---
-title: Van Langen's Woordenboek der Atjehsche taal (1889)
+title: "Van Langen's Woordenboek der Atjehsche taal (1889)"
 aliases: ["Atjeh Dictionary", "Acehnese Dictionary 1889", "Van Langen dictionary"]
 tags: ["event", "publication", "atjeh", "language", "linguistics", "1889", "dictionary", "source-document"]
 ---

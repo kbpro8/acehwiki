@@ -1,6 +1,6 @@
 ---
-title: Rapa'i
-aliases: [Rapai, Rapai'i, Achehnese frame-drum performance, Religious play]
+title: "Rapa'i"
+aliases: [Rapai, "Rapai'i, Achehnese frame-drum performance, Religious play"]
 tags: [event, religious, rite, ceremony]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Toekoe Oemar's verraad (1896)
-aliases: [The betrayal of Toekoe Oemar (1896), Verraad van Toekoe Oemar, Toekoe Oemar's betrayal, Teuku Umar's betrayal, The 1896 betrayal of Toekoe Oemar, Toekoe Oemar's defection of 1896]
+title: "Toekoe Oemar's verraad (1896)"
+aliases: [The betrayal of Toekoe Oemar (1896), Verraad van Toekoe Oemar, "Toekoe Oemar's betrayal, Teuku Umar's betrayal", The 1896 betrayal of Toekoe Oemar, "Toekoe Oemar's defection of 1896"]
 tags: [event, aceh-war, dutch, achehnese, military, betrayal, 19th-century, pacification]
 ---
 

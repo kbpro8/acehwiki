@@ -1,5 +1,5 @@
 ---
-title: Banekert, Lieutenant‑Admiral
+title: "Banekert, Lieutenant‑Admiral"
 aliases: ["Banekert (Dutch admiral)"]
 tags: [person, admiral, dutch, aceh]
 ---

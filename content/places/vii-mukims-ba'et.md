@@ -1,6 +1,6 @@
 ---
-title: VII Mukims Ba'et
-aliases: [VII Mukims Ba-et, Seven Mukims Ba'et, Sapie Mukim Ba'et, 7 Mukims Ba'et]
+title: "VII Mukims Ba'et"
+aliases: [VII Mukims Ba-et, "Seven Mukims Ba'et, Sapie Mukim Ba'et", "7 Mukims Ba'et"]
 tags: [place, mukim, uleebalangship, sagi]
 ---
 

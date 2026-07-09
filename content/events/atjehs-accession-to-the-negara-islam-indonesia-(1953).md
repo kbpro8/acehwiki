@@ -1,5 +1,5 @@
 ---
-title: Atjèh's accession to the Negara Islam Indonesia (1953)
+title: "Atjèh's accession to the Negara Islam Indonesia (1953)"
 aliases: [Aceh DI/TII rebellion, Atjeh rebellion of 1953, Daud Beureuh rebellion, Negara Islam Indonesia in Atjeh]
 tags: [event, achehnese, religious, rebellion, military, post-colonial]
 ---

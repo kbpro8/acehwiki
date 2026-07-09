@@ -1,7 +1,7 @@
 ---
 
 title: Raja Muda
-aliases: [the one-eyed King, Teuku Nya' Muhamat]
+aliases: [the one-eyed King, "Teuku Nya' Muhamat"]
 tags: [person, warrior]
 ---
 

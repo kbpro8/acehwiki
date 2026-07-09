@@ -1,6 +1,6 @@
 ---
-title: Sultan Iskander Moeda's Oostkust-veldtocht
-aliases: [Iskandar Muda's East Coast campaign, Atjehsche verovering der Oostkust door Sultan Iskander Moeda, Atjehsche zegetocht langs de Oostkust, Definitieve onderwerping der kuststaatjes aan Atjeh door Sultan Iskander Moeda, Acehnese conquest of the East Coast statelets by Sultan Iskandar Muda]
+title: "Sultan Iskander Moeda's Oostkust-veldtocht"
+aliases: ["Iskandar Muda's East Coast campaign, Atjehsche verovering der Oostkust door Sultan Iskander Moeda, Atjehsche zegetocht langs de Oostkust, Definitieve onderwerping der kuststaatjes aan Atjeh door Sultan Iskander Moeda, Acehnese conquest of the East Coast statelets by Sultan Iskandar Muda"]
 tags: [event, war, atjeh, malay, precolonial, sumatra, oostkust-van-sumatra, buitenbezittingen, iskandar-muda]
 ---
 

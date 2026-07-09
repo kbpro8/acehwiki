@@ -2,7 +2,7 @@
 title: Majoor Hamell
 aliases: [Majoor Hamell, Kapitein Hamell, Captain Hamell, Major Hamell, Hamell]
 tags: [person, military, marine, dutch, east-indies, caribbean, aceh]
-description: Majoor Hamell was a Dutch Marine Corps officer who served as a Captain in the suppression of the 1760s rebellion in the Wikkie-gebied (Berbice), and by 1784 had risen to the rank of Major commanding the landing forces under Jacob Pieter van Braam in the operations against Salangore and Riouw.
+description: "Majoor Hamell was a Dutch Marine Corps officer who served as a Captain in the suppression of the 1760s rebellion in the Wikkie-gebied (Berbice), and by 1784 had risen to the rank of Major commanding the landing forces under Jacob Pieter van Braam in the operations against Salangore and Riouw."
 ---
 
 **Majoor Hamell** — earlier in his career **Kapitein Hamell** — was an officer of the Dutch Marine Corps whose career spanned two of the principal amphibious operations of the late-eighteenth-century Netherlands Indies and Caribbean theatres. As a Captain he assumed command of the **Wikkie-gebied** after the death of [[Maajoor Pusch|Major Pusch]] during the Dutch suppression of the rebel uprising of the [[1760s]] in the Wikkie-kreek region; as a Major he commanded the landing forces under [[Jacob Pieter van Braam|Van Braam]] during the [[1784]] operations against [[Salangore]] and [[Riouw]]. His career exemplifies the trans-Atlantic and trans-Indian-Ocean reach of the Dutch Marine Corps in the late eighteenth century, linking Caribbean operations in the [[Berbice]] and [[Suriname]] region with later actions in the East Indies that bore on the Acehnese sphere of influence.

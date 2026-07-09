@@ -1,5 +1,5 @@
 ---
-title: Van Zanten's resistance (March 1942 – March 1943)
+title: "Van Zanten's resistance (March 1942 – March 1943)"
 aliases: [Verzet van luitenant Van Zanten, Van Zanten guerrilla Atjeh 1942-1943, Redelong resistance]
 tags: [event, colonial, dutch, atjeh, world-war-ii, military, marechaussee, resistance, prisoner-of-war, japanese-occupation]
 ---

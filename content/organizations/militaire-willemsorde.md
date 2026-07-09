@@ -2,7 +2,7 @@
 title: Militaire Willemsorde
 aliases: [Militaire Willems-Orde, M.W.O., Military Order of William, Military William Order, Order of William, Ridder M.W.O., Ridder derde klas, Ridder vierde klas]
 tags: [organization, award, military, dutch, colonial, aceh]
-description: The highest Dutch military decoration for bravery, leadership, and loyalty in the field, instituted in 1815.
+description: "The highest Dutch military decoration for bravery, leadership, and loyalty in the field, instituted in 1815."
 ---
 
 The **Militaire Willemsorde** (English: *Military Order of William*) — abbreviated **M.W.O.** — was the highest Dutch chivalric order for military merit, instituted by King [[William I of the Netherlands]] in [[1815]] for "*Moed, Beleid en Trouw*" (Courage, Judgment and Loyalty) in the field. The order was awarded to members of the [[Royal Netherlands Marine Corps|Korps Mariniers]] and the [[Royal Netherlands East Indies Army|K.N.I.L.]] for distinguished conduct in campaigns across the [[Netherlands Indies|Dutch East Indies]], including the battles for [[Palembang]] on [[20 June]] [[1821]] and [[24 June]] [[1821]], the [[Padri War]], the [[Aceh War]], and the related colonial pacifications of the early 20th century. It was the decoration most prized by the soldiers of the K.N.I.L. and most proudly worn in the *negorij* (village) or *kampong* (hamlet) of the [[Ambon|Ambonese]] and [[Minahasa|Menadonese]] soldiers.

@@ -1,7 +1,7 @@
 ---
 
-title: Muhamat Amin of Lam Bhu'
-aliases: [Teungku Lam Bhu' (husband)]
+title: "Muhamat Amin of Lam Bhu'"
+aliases: ["Teungku Lam Bhu' (husband)"]
 tags: [person, scholar]
 ---
 

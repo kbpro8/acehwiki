@@ -2,7 +2,7 @@
 title: Rateb Saman
 aliases: [Rateb Saman, Ratib Samman, Ratteb Saman, Saman Dance, Ratoh Saman, Rateb Samman, Ratéb Saman, Samman litany, Sammaniyya dikr, Rateb meuse, Kuluhut, Ratéb meuse]
 tags: [concept, tradition, religion, religious, mystical, tariqah, recitation, litany, ceremony, festival]
-description: A popular Acehnese religious litany (ratéb) derived from the saint Muhammad Samman of Medina, performed with simultaneous intoning and rhythmic body movements culminating in trance.
+description: "A popular Acehnese religious litany (ratéb) derived from the saint Muhammad Samman of Medina, performed with simultaneous intoning and rhythmic body movements culminating in trance."
 ---
 
 **Rateb Saman** (also *ratib Sammān*, *rattéb saman*; from Arabic *rātib*, a fixed liturgy) was among the most popular religious litanies (*ratébs*) performed in [[Great Acheh|Acheh]] and throughout the [[East Indian Archipelago|Malay-Indonesian world]]. It was derived from — and named after — the saint **Muhammad Samman** (also called [[Shaikh Samman|Shaikh Samman]] or [[Cheh Saman|Cheh Saman]]), the sainted founder of a *tariqah* or mystic order who lived at [[Medina]] a couple of centuries before [[C. Snouck Hurgronje|Snouck Hurgronje]]'s writing and whose Sammaniyyah order gave the rite its place in the devotional life of the archipelago. The litany was one of the religious exercises of the Sammaniyyah order, and was popular among the Mohammedans of the old stamp throughout the East Indian Archipelago.

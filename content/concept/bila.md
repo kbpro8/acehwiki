@@ -2,7 +2,7 @@
 title: Bila
 aliases: [Diët, Blood Money, Blood Price, Diyat]
 tags: [concept, law, adat]
-description: The Acehnese blood money (from Arabic diya) — the payment exacted for killing or wounding, set at 500 Spanish dollars for death, governed by the kawom system and managed by the panglima kawom.
+description: "The Acehnese blood money (from Arabic diya) — the payment exacted for killing or wounding, set at 500 Spanish dollars for death, governed by the kawom system and managed by the panglima kawom."
 ---
 
 **Bila** (from Arabic *diya*, blood money) was the Acehnese customary payment exacted for killing or wounding — a central institution of [[Adat|Acehnese customary law]]. The concept of blood money was not foreign to native customary law in other parts of the Eastern Archipelago; in [[Great Acheh|Acheh]] it appears to have been introduced through the medium of Islam, though not without modifications.

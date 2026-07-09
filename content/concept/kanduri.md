@@ -2,7 +2,7 @@
 title: Kanduri
 aliases: [Kenduri, Kanduri feast, Religious Feast, Kauduris, Achehnese kanduri]
 tags: [concept, event, culture, religion, food, ceremony, festival, acehnese]
-description: The Acehnese religious feast — a communal meal held on the occasion of religious holidays, life-cycle events, vows, and seasonal transitions, marked by Quran recitation and constituting the most characteristic social institution of Acehnese Islam.
+description: "The Acehnese religious feast — a communal meal held on the occasion of religious holidays, life-cycle events, vows, and seasonal transitions, marked by Quran recitation and constituting the most characteristic social institution of Acehnese Islam."
 ---
 
 **Kanduri** (also *kenduri*, *kauduris*; from Persian *qandūrī*, cognate with the Malay *kenduri* and the Arabic *qandūriyya*) is the general [[Achehnese|Acehnese]] term for a religious feast — the communal meal held on the occasion of religious holidays, life-cycle events (birth, [[peutron|first contact with the earth]], [[peusunat|circumcision]], marriage, death), the completion of a house, the safe return from a journey, seasonal feasts, and in fulfilment of vows (*nazar*). It was the most characteristic social institution of Acehnese Islam and the form in which the great majority of collective religious observances found their expression. Small *kanduris* are of very common occurrence in every [[gampong|gampong]], and some require the presence of the [[teungku|teungku]]; the word covers both the periodic feasts of the ecclesiastical year and occasional feasts given at the transitions of life.

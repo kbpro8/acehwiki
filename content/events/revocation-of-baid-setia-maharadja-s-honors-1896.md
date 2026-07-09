@@ -1,8 +1,8 @@
 ---
-title: Revocation of Baid Setia Maharadja's Honours (1896)
-aliases: [Revocation of Baid Setia Maharadja's chain, Confiscation of Dutch arms chain 1896, Ontneming eereteeken Baid Setia Maharadja]
+title: "Revocation of Baid Setia Maharadja's Honours (1896)"
+aliases: ["Revocation of Baid Setia Maharadja's chain, Confiscation of Dutch arms chain 1896, Ontneming eereteeken Baid Setia Maharadja"]
 tags: [event, political-history, colonial, dutch, achehnese, 1896, aceh-war, diplomacy]
-description: The Dutch colonial government's 1896 revocation and confiscation of the gold chain of arms previously awarded to the uleebalang of the VII Mukims, on grounds of disloyalty.
+description: "The Dutch colonial government's 1896 revocation and confiscation of the gold chain of arms previously awarded to the uleebalang of the VII Mukims, on grounds of disloyalty."
 ---
 
 **The revocation of Baid Setia Maharadja's honours** occurred in [[1896]], when the Netherlands Indies government confiscated the gold chain bearing the Dutch coat of arms that had been granted to [[Teukoe Moeda Baid Setia Maharadja]], [[Uleebalang|uleebalang]] of the [[VII Mukims|VII Moekims]], just eight years earlier in [[1888]]. The original Dutch text states that the chain was *"hem in 1896 wegens ontrouw ontnomen"* — "taken from him in 1896 on account of disloyalty."

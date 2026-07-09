@@ -1,6 +1,6 @@
 ---
 title: Mountain of Rahmat
-aliases: [near Mecca"]
+aliases: ["near Mecca\""]
 tags: ["place", "legendary-land"]
 ---
 

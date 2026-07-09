@@ -1,6 +1,6 @@
 ---
 
-title: Keuchi' Muda Sa'ti
+title: "Keuchi' Muda Sa'ti"
 aliases: [Panglima of the XXII Mukims]
 tags: [person, literary-work]
 ---

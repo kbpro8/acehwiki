@@ -2,7 +2,7 @@
 title: J. B. Verhey
 aliases: [J. B. Verhey, J.B. Verhey, J B Verhey, Johannes Bernardus Verhey, Lieutenant Verhey, Colonel J. B. Verhey, Colonel-Commandant Verhey, Verhey]
 tags: [person, military, marine, dutch, colonial, aceh, politician]
-description: Dutch marine officer who rose from lieutenant in the Aceh campaigns of 1875–1876 to colonel-commandant of the Korps Mariniers, later a member of the Tweede Kamer.
+description: "Dutch marine officer who rose from lieutenant in the Aceh campaigns of 1875–1876 to colonel-commandant of the Korps Mariniers, later a member of the Tweede Kamer."
 ---
 
 **J. B. Verhey** — born **Johannes Bernardus Verhey** — was a Dutch marine officer who rose from lieutenant in the mid-1870s to [[Colonel|colonel]]-commandant of the [[Royal Netherlands Marine Corps|Korps Mariniers]] in the early [[1890s]], and later served as a member of the [[Tweede Kamer der Staten-Generaal|2nd Chamber of the States-General]] for the [[Rotterdam III]] district. As a junior officer he served under [[J. L. J. H. Pel|General Pel]] during the [[Aceh Expedition (1873–1876)|Aceh campaign of 1875–1876]] and authored a detailed memorandum on marine operations on [[Sumatra]] (including the northern province of [[Aceh]]) between [[July]] [[1874]] and [[February]] [[1876]]. He later received the [[Militaire Willemsorde|Militaire Willems Orde]] (4th class) for his role in the [[Edi River expedition (1890)|Edi River expedition of 1890]].

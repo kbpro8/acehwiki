@@ -2,7 +2,7 @@
 title: Padang Tiji
 aliases: [Padangtiji, Padang Tijie, Padang Tjie, Tiji, Padang Teuji, Padang Tidji, Padang Tidjie, Padang Tidji (Atjeh), the intermediate station at Padang Tidji]
 tags: [place, gampong, mukim, xxii-mukims, royal-residence, north-east-coast, colonial, dutch, buitenbezittingen, tramway, village, aceh]
-description: A locality in the VII Mukims of the Sagi of the XXII Mukims of Great Acheh, associated with the Achehnese royal house and with the Burda-translator Teungku Tjēh Kob of Panté Tjeureumèn.
+description: "A locality in the VII Mukims of the Sagi of the XXII Mukims of Great Acheh, associated with the Achehnese royal house and with the Burda-translator Teungku Tjēh Kob of Panté Tjeureumèn."
 ---
 
 **Padang Tiji** (also written **Padang Teuji**, **Padang Tidji**, or simply **Tiji**) is a locality in the [[VII Mukims|VII Mukims]] of the [[XXII Mukims|Sagi of the XXII Mukims]] of [[Great Acheh]], in the [[Aceh|Acheh]] region. The place is associated in [[Snouck Hurgronje's The Achehnese|*The Achehnese*]] Vol. I with the Achehnese royal house — cited as the place of death of the prince [[Tuanku Asem]] — and in the [[Hikayat Pochut Muhamat]] as a station of [[Pochut Muhamat]] in his regulation of the affairs of the VII Mukims. It is also recorded in the sixteenth-century Malay Burda manuscript (DLP-54) as the hometown of the Achehnese scholar-translator [[Teungkn Tjēh Kob al. T. Panté Tjeureumèn|Teungku Tjēh Kob of Panté Tjeureumèn]], who produced an Achehnese version of the [[Burda (poem)|Burda poem]] and a *mawlid*-bewerking (mawlid adaptation). Under the spelling **Padang Tidji**, the place also served as an intermediate station on the [[1899]] western branch of the second Atjeh tramway.

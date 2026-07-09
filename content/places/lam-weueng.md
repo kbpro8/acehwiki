@@ -1,6 +1,6 @@
 ---
 title: Lam Weueng
-aliases: [XII Mukims"]
+aliases: ["XII Mukims\""]
 tags: ["place", "aceh-proper"]
 ---
 

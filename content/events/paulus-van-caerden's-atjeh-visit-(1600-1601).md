@@ -1,5 +1,5 @@
 ---
-title: Paulus van Caerden's Atjeh visit (1600-1601)
+title: "Paulus van Caerden's Atjeh visit (1600-1601)"
 aliases: [Van Caerden at Atjeh, Paulus van Caerden Atjeh 1600, Paulus van Caerden Atjeh 1601, Atjeh visit of Paulus van Caerden]
 tags: [event, dutch, precolonial, atjeh, trade, diplomacy, 1600, 1601, van-caerden, netherlands-east-indies]
 ---

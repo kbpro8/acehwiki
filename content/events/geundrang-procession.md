@@ -1,6 +1,6 @@
 ---
 title: Geundrang Procession
-aliases: [Geundrang procession, Procession with geundrang, Drum procession to saint's tomb, Peutron with geundrang]
+aliases: [Geundrang procession, Procession with geundrang, "Drum procession to saint's tomb, Peutron with geundrang"]
 tags: [event, religious-practice, vow, childhood-rite, music, procession]
 ---
 

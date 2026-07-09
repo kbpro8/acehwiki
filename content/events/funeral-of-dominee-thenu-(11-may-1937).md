@@ -1,6 +1,6 @@
 ---
 title: Funeral of Dominee Thenu (11 May 1937)
-aliases: [Thenu's funeral, Begrafenis van Dominee Thenu, 11 Mei 1937]
+aliases: ["Thenu's funeral, Begrafenis van Dominee Thenu, 11 Mei 1937"]
 tags: [event, ceremony, knil, aceh, ambonese]
 ---
 

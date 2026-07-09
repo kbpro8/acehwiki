@@ -1,5 +1,5 @@
 ---
-title: Van Ghent, Lieutenant‑Colonel
+title: "Van Ghent, Lieutenant‑Colonel"
 aliases: ["Van Ghent (Dutch lieutenant‑colonel)"]
 tags: [person, lieutenant-colonel, dutch, aceh]
 ---

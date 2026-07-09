@@ -1,6 +1,6 @@
 ---
 title: Batak Karo
-aliases: [Bata' Kar'ee, Batak K'arau, Karo Batak, Karo]
+aliases: ["Bata' Kar'ee", "Batak K'arau, Karo Batak, Karo"]
 tags: [place, people, region, batak, highland, foreign]
 ---
 

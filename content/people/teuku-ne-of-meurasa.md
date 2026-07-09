@@ -1,5 +1,5 @@
 ---
-title: Teuku Ne' of Meura'sa
+title: "Teuku Ne' of Meura'sa"
 tags: [person]
 ---
 

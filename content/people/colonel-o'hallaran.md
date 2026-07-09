@@ -1,7 +1,7 @@
 ---
 
-title: Colonel O'Hallaran
-aliases: [O'Hallaran, Colonel Ohallaran, Col. O'Hallaran]
+title: "Colonel O'Hallaran"
+aliases: ["O'Hallaran, Colonel Ohallaran, Col. O'Hallaran"]
 tags: [person, british-official, military-officer]
 ---
 

@@ -2,7 +2,7 @@
 title: Soenan Goenoeng Djati
 aliases: [Sunan Giri, Sunan Gunung Jati, Soenan Goenoeng Djati, Sunan Gunungjati, Fatahillah]
 tags: [person, islamic-scholar, saint, wali-songo, java, sumatra, pase-origin]
-description: Soenan Goenoeng Djati was a Mohammedan, presumably from Pasé (North Sumatra) by origin, who achieved great success with his religious teaching on Java and died in 1570 at Cheribon. His tomb near Cheribon is a major pilgrimage site.
+description: "Soenan Goenoeng Djati was a Mohammedan, presumably from Pasé (North Sumatra) by origin, who achieved great success with his religious teaching on Java and died in 1570 at Cheribon. His tomb near Cheribon is a major pilgrimage site."
 ---
 **Soenan Goenoeng Djati** was a Muslim missionary and one of the nine saints (*Wali Songo*) credited with the spread of Islam on [[Java]]. The *Nederlandsch Indië Platen Atlas* ([[1926]]) describes him as a Mohammedan, presumably from [[Pasé]] ([[North Sumatra]]) by origin, who achieved much success with his religious teaching on Java.
 

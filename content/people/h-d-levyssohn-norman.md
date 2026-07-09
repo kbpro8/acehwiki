@@ -2,7 +2,7 @@
 title: H. D. Levyssohn Norman
 aliases: [Mr. H. D. Levyssohn Norman, Levyssohn Norman, Algemeen Secretaris Levyssohn Norman, Levyssohn]
 tags: [person, administrator, dutch, colonial, dutch-author, scholar, cited-source]
-description: Dutch colonial administrator (Algemeen Secretaris of the Netherlands Indies, 1874) and historian of the British interregnum in Java, author of De Britsche Heerschappij.
+description: "Dutch colonial administrator (Algemeen Secretaris of the Netherlands Indies, 1874) and historian of the British interregnum in Java, author of De Britsche Heerschappij."
 ---
 
 **H. D. Levyssohn Norman** was a nineteenth-century Dutch colonial administrator and historian of the [[Netherlands Indies]]. As [[Algemeen Secretaris|general secretary]] of the Indies Government — appointed by decision of [[1 July]] [[1874]] — he was, together with [[T. H. der Kinderen|Der Kinderen]] as director of justice, charged with the drafting of the *ordonnanties* (ordinances) for the execution of the [[Agrarische wet|agrarian wet]] (Agrarian Law) of [[9 April]] [[1870]], and his journey through Java and Madura in [[July 1874|July 1874]] to encourage the conversion of communal into individual land ownership led to the [[Conversiequaestie|conversiequaestie]] (conversion question) and the fall of [[J. Loudon|Governor-General Loudon]]. As an author he is remembered for *De Britsche Heerschappij over Java en Onderhoorigheden in de Jaren 1811-1816* ("British Rule over Java and its Dependencies in the Years 1811-1816"), one of the standard reference works on the period of British interim administration in the archipelago and a documentary source much cited by later Dutch colonial historians such as [[P. H. van der Kemp|Van der Kemp]].

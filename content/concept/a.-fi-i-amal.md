@@ -1,5 +1,5 @@
 ---
-title: A. fi 'I-a'mãl
+title: "A. fi 'I-a'mãl"
 aliases: ["fi ‘I‑aʿmal", "A. fi 'I‑a'mãl"]
 tags: [concept, acehnese, lexical, charity]
 ---

@@ -2,7 +2,7 @@
 title: Wakeuh
 aliases: [Wakaf, Waqf, Wakeuëh, Religious Endowment]
 tags: [concept, religion, law, property]
-description: The Acehnese term for the Islamic institution of waqf (religious endowment) — property withdrawn in perpetuity from alienation and devoted to some permitted religious object, especially mosque support.
+description: "The Acehnese term for the Islamic institution of waqf (religious endowment) — property withdrawn in perpetuity from alienation and devoted to some permitted religious object, especially mosque support."
 ---
 
 **Wakeuh** (also *wakeuëh*; from Malay *wakap*, from Arabic *waqf*) was the Acehnese form of the Islamic institution of *waqf* — property withdrawn in perpetuity by its owner from all alienation and devoted to some object permitted by the Moslem law. The institution was known to the Acehnese in this sense; they used it especially to denote things the use or proceeds of which were devoted by the original owners to the purposes of a [[Meusigit|mosque]], or left for the benefit of the poor (*kumu*, the *kaum* or servants of the mosque).

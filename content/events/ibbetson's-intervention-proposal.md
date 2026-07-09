@@ -1,6 +1,6 @@
 ---
-title: Ibbetson's intervention proposal (February 1824)
-aliases: [Ibbetson's 25 February 1824 dispatch, Penang proposal for Acheh intervention, Ibbetson's dispatch of 25 February 1824]
+title: "Ibbetson's intervention proposal (February 1824)"
+aliases: ["Ibbetson's 25 February 1824 dispatch, Penang proposal for Acheh intervention, Ibbetson's dispatch of 25 February 1824"]
 tags: [event, correspondence, colonial, diplomacy]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Teungkoe meunasah
-aliases: [teungkoe meunasah (Groot-Atjeh)", teungku meunasah", teungku meunasah (Atjeh)", village religious official of Groot-Atjeh"]
+aliases: ["teungkoe meunasah (Groot-Atjeh)\", teungku meunasah\"", "teungku meunasah (Atjeh)\", village religious official of Groot-Atjeh\""]
 tags: ["achehnese", "concept", "islamic", "office", "slaughter", "village"]
 ---
 The **teungkoe meunasah** (in [[J. Kreemer|Kreemer]]'s spelling; modern Atjehnese *teungku meunasah*) was the village religious official of [[Groot-Atjeh|Groot-Atjeh]] who, alongside the village head [[keutjhiq|*keutjhiq*]], represented public authority in the village and was specifically responsible for the spiritual concerns of the villagers — and who served, in particular, as the village's ritual slaughterer (*slachter*). The office is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 117) and in [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 241) as a central institution of the village religious-and-civil administration of [[Groot-Atjeh|Groot-Atjeh]].

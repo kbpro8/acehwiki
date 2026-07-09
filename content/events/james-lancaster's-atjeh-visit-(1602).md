@@ -1,5 +1,5 @@
 ---
-title: James Lancaster's Atjeh visit (1602)
+title: "James Lancaster's Atjeh visit (1602)"
 aliases: [Lancaster at Atjeh, James Lancaster Atjeh 1602, First English visit to Atjeh, English East India Company at Atjeh 1602]
 tags: [event, english, precolonial, atjeh, trade, diplomacy, 1602, lancaster, east-india-company]
 ---

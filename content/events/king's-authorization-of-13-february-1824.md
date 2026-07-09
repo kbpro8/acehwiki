@@ -1,5 +1,5 @@
 ---
-title: King's authorization of 13 February 1824
+title: "King's authorization of 13 February 1824"
 aliases: [royal authorization 13 February 1824, royal authorisation 13 February 1824, Koninklijke machtiging 13 February 1824]
 tags: [event, correspondence, diplomacy, colonial, anglo-dutch, treaty]
 ---

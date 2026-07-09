@@ -1,6 +1,6 @@
 ---
 
-title: Teuku Uma's Stepfather
+title: "Teuku Uma's Stepfather"
 aliases: [Panglima Meuseugit Raya, Panglima Meusigit Raya, Panglima of the Meuseugit Raya of Banda Acheh]
 tags: [person, warrior, uleebalang, official, banda-acheh]
 ---

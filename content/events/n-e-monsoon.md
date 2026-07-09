@@ -2,7 +2,7 @@
 title: N.E. Monsoon
 aliases: [N.E. Monsoon, North-East Monsoon, North-East Monsoon season, Musem tiniu, Musem timu, Musim timu]
 tags: [event, monsoon, navigation, fishery, calendar, acehnese, season]
-description: The North-East Monsoon (Achehnese musem tiniu) — the northerly monsoon season setting in around September, which marked the close of the favourable period for voyages from the capital of Aceh to the West Coast and the opening of the dangerous season for shipping to the North and East Coasts.
+description: "The North-East Monsoon (Achehnese musem tiniu) — the northerly monsoon season setting in around September, which marked the close of the favourable period for voyages from the capital of Aceh to the West Coast and the opening of the dangerous season for shipping to the North and East Coasts."
 ---
 
 > **Note on nomenclature.** The North-East Monsoon is known in Achehnese as ***musem tiniu*** (also spelt ***musem timu*** or ***musim timu***, "east-season"). The Dutch and older English sources use the abbreviation "N.E. Monsoon"; modern scholarly usage prefers "North-East Monsoon." All forms denote the same monsoon season in the [[Aceh|Acehnese]] calendar.

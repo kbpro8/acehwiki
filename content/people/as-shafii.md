@@ -1,5 +1,5 @@
 ---
-title: as-Shafi'i
+title: "as-Shafi'i"
 tags: [person]
 ---
 

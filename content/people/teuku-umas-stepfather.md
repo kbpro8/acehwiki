@@ -1,5 +1,5 @@
 ---
-title: Teuku Uma's Stepfather
+title: "Teuku Uma's Stepfather"
 tags: [person]
 ---
 

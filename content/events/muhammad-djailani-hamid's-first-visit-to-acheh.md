@@ -1,6 +1,6 @@
 ---
-title: Muhammad Djailani Hamid's first visit to Acheh
-aliases: [Muhammad Jailani's first visit to Acheh, Muhammad Djailani's visit to Acheh 1580-1583, The first Gujarati scholar in Acheh, Muhammad Djailani Hamid at the Achehnese court]
+title: "Muhammad Djailani Hamid's first visit to Acheh"
+aliases: ["Muhammad Jailani's first visit to Acheh, Muhammad Djailani's visit to Acheh 1580-1583", The first Gujarati scholar in Acheh, Muhammad Djailani Hamid at the Achehnese court]
 tags: [event, religious-history, precolonial, 16th-century, 17th-century, aceh, gujarati, mysticism]
 ---
 

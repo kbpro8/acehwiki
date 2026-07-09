@@ -1,7 +1,7 @@
 ---
 
 title: Omar
-aliases: [Oemar, Umar ibn al-Khattab, the second Caliph, Amir al-Mu'minin]
+aliases: [Oemar, Umar ibn al-Khattab, the second Caliph, "Amir al-Mu'minin"]
 tags: [person, religious-figure, islam, caliph, companion-of-the-prophet]
 ---
 

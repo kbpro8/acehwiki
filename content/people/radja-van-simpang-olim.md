@@ -2,7 +2,7 @@
 title: Radja of Simpang Olim
 aliases: [Raja of Simpang Olim, Radja Simpang Olim, Raja Simpang Olim, the former radja of Simpang Olim]
 tags: [person, radja, colonial, 19th-century, achehnese, precolonial]
-description: An Acehnese local ruler whose personal ornaments were found abandoned in his vacated residence in 1877 and subsequently entered the Batavian Society's museum collection.
+description: "An Acehnese local ruler whose personal ornaments were found abandoned in his vacated residence in 1877 and subsequently entered the Batavian Society's museum collection."
 ---
 
 **The Radja of Simpang Olim** was an Acehnese local ruler whose personal jewellery and regalia were discovered in his abandoned house in [[1877]] and acquired for the collection of the [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian Society's]] treasure room in [[Koeta Radja|Batavia]].

@@ -1,8 +1,8 @@
 ---
 title: Abandonment of Simpang Olim Residence (1877)
-aliases: [Abandonment of the radja of Simpang Olim's house, Simpang Olim 1877, Verlaten woning Simpang Olim]
+aliases: ["Abandonment of the radja of Simpang Olim's house, Simpang Olim 1877, Verlaten woning Simpang Olim"]
 tags: [event, military-history, colonial, dutch, achehnese, 1877, aceh-war]
-description: The flight or forced departure of the radja of Simpang Olim in 1877 during the Aceh War, resulting in the recovery of his personal ornaments by Dutch forces.
+description: "The flight or forced departure of the radja of Simpang Olim in 1877 during the Aceh War, resulting in the recovery of his personal ornaments by Dutch forces."
 ---
 
 **The abandonment of the Simpang Olim residence** occurred in [[1877]], when the [[Radja of Simpang Olim|local radja]] of [[Simpang Olim]] fled or was driven from his dwelling, leaving behind a substantial assemblage of personal ornaments that subsequently entered the collection of the [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian Society]].

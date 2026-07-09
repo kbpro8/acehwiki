@@ -1,5 +1,5 @@
 ---
-title: Batteké, Lieutenant
+title: "Batteké, Lieutenant"
 aliases: [Lieutenant Batteké]
 tags: [person, marine, dutch, colonial]
 ---

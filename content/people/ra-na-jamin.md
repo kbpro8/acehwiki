@@ -1,6 +1,6 @@
 ---
 
-title: Ra'na Jamin
+title: "Ra'na Jamin"
 tags: [person, literary-work]
 ---
 

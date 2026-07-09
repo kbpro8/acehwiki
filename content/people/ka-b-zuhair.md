@@ -1,6 +1,6 @@
 ---
 title: Ka b. Zuhair
-aliases: [Ka'b al‑Zuhair, Ka b. Zuhair]
+aliases: ["Ka'b al‑Zuhair, Ka b. Zuhair"]
 tags: [person, poet, Arabic, 9th‑century]
 ---
 **Ka b. Zuhair** was an early Arabic poet whose kasida *Bānat Sudād* (also referred to as *al‑burda*) is listed among the Arabic manuscripts held in [[Jakarta]] (formerly [[Batavia]]). The poem appears in Van Ronkel’s supplementary catalogue (no 851).

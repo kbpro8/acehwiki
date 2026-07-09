@@ -2,7 +2,7 @@
 title: Maleische Ras
 aliases: [Malay race, Maleisch ras, Malay peoples, Maleische volken]
 tags: [concept, ethnography, population, colonial, race-classification]
-description: The Maleische ras (Malay race) is the classification used in the 1926 atlas for the predominant population group of the western half of the Indonesian Archipelago, including the Atjehers, Javanese, Sundanese, Madurese, Balinese, Makassarese, Buginese, and the Malays of the Moluccas.
+description: "The Maleische ras (Malay race) is the classification used in the 1926 atlas for the predominant population group of the western half of the Indonesian Archipelago, including the Atjehers, Javanese, Sundanese, Madurese, Balinese, Makassarese, Buginese, and the Malays of the Moluccas."
 ---
 **The Maleische Ras** (English: Malay race) is the ethnographic classification used in the *Nederlandsch Indië Platen Atlas* ([[1926]]) for the predominant population group of the western half of the Indonesian Archipelago.
 

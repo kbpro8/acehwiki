@@ -1,5 +1,5 @@
 ---
-title: Jappentijd (Japanese occupation, 1942-1945)
+title: "Jappentijd (Japanese occupation, 1942-1945)"
 aliases: [Jappentijd, Japanese occupation, Japanese occupation of the Dutch East Indies, 1942-1945]
 tags: [event, war, occupation, dutch-east-indies, japanese]
 ---

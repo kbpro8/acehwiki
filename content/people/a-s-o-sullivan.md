@@ -1,7 +1,7 @@
 ---
 
-title: A. S. O'Sullivan
-aliases: [A. W. S. O'Sullivan, the late A. S. O'Sullivan, Mr. O'Sullivan]
+title: "A. S. O'Sullivan"
+aliases: ["A. W. S. O'Sullivan, the late A. S. O'Sullivan", "Mr. O'Sullivan"]
 tags: [person, translator, british, colonial-official, straits-settlements]
 ---
 

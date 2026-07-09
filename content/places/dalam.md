@@ -1,6 +1,6 @@
 ---
 title: Dalam
-aliases: [Kraton Acheh, Kuta Raja, Royal Palace of Acheh, The Dalam, Sultan's residence, Kraton, Kraton of Acheh, Kutaraja, Koetaradja, Kuta Radja, the King's Fort, the capital of Acheh]
+aliases: [Kraton Acheh, Kuta Raja, Royal Palace of Acheh, The Dalam, "Sultan's residence, Kraton, Kraton of Acheh, Kutaraja, Koetaradja, Kuta Radja, the King's Fort", the capital of Acheh]
 tags: [place, palace, sultanate, dalam, capital, kraton, city, colonial]
 ---
 

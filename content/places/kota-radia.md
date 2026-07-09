@@ -1,6 +1,6 @@
 ---
 title: Kota Radja
-aliases: [Kuta Raja, Koeta Radja, Kota Radja, Kutaraja, Atjeh's chief place]
+aliases: [Kuta Raja, Koeta Radja, Kota Radja, Kutaraja, "Atjeh's chief place"]
 tags: [place, town, military-base, dutch-colonial, aceh-war]
 ---
 

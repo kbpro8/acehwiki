@@ -2,7 +2,7 @@
 title: Buitengewesten
 aliases: [buitengewesten, outer territories, buitengebieden, Buitenbezittingen, Outer Possessions, de Buitengewesten]
 tags: [concept, term, colonial, knil, administrative-division, dutch, geography, policy, achehnese-history]
-description: The Buitengewesten (Outer Territories) were all parts of the Dutch East Indies outside Java and Madura. The pacification of these territories, including Atjeh, was completed under Governor-General Van Heutsz, and their infrastructure development was a major colonial priority by 1926.
+description: "The Buitengewesten (Outer Territories) were all parts of the Dutch East Indies outside Java and Madura. The pacification of these territories, including Atjeh, was completed under Governor-General Van Heutsz, and their infrastructure development was a major colonial priority by 1926."
 ---
 
 **Buitengewesten** — literally "outer territories" — was the term used in *[[Oom Ambon van het K.N.I.L.]]* for the K.N.I.L. territories outside [[Java]] — [[Atjeh|Aceh]], [[Celebes]], [[Borneo]], [[Ceram]], [[Soembawa]], [[Flores]], and the rest of the archipelago. The *buitengewesten* were where the *[[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]]* patrouille operated, where the *[[bivak]]* was built, where the *[[bekas]]* was read. The *buitengewesten* were contrasted with [[Java]] — the densely populated, "practically safe" island where the bulk of training occurred.

@@ -1,5 +1,5 @@
 ---
-title: Van der Heyden's Samalangan campaign
+title: "Van der Heyden's Samalangan campaign"
 aliases: [Samalangan campaign, Held van Samalangan, Van der Heyden at Samalangan, G. J. van der Heyden Samalangan]
 tags: [event, dutch, military, colonial, atjeh, 19th-century, aceh-war, 1878, van-der-heyden]
 ---

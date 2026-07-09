@@ -2,7 +2,7 @@
 title: Panglima Polem
 aliases: [Panglima Polem, Panglima Polim, Panglima Prang Polim, Panglima Polem of the XXII Mukims, Lord Elder Brother, Polem, Polim, Teukoe Panglima Pólém, Panglima Polém, Polém, Po-lem, Panglima Polam, Panglima Pólem, Panglima Polim (Acehnese leader), Panglima Polem XXII, Panglima Polem the elder, sagihoofd XXII moekims, last Panglima Polem, Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed, Teukoe Panglima Polém Moehamad Ali]
 tags: [person, uleebalang, panglima-sagi, xxii-mukims, hereditary, acehnese, sagi, achehnese-war, title, lineage]
-description: Hereditary title of the chief (panglima sagi) of the XXII Mukims of Great Aceh, borne by a succession of warrior-statesmen from the seventeenth century to 1941.
+description: "Hereditary title of the chief (panglima sagi) of the XXII Mukims of Great Aceh, borne by a succession of warrior-statesmen from the seventeenth century to 1941."
 ---
 
 > **Note on nomenclature.** The hereditary office discussed here is variously spelt in the sources as *Panglima Polem*, *Panglima Polim*, and (when referring to the Sultan's wartime commander) *Panglima Prang Polim*. The Dutch colonial records transliterate it as *Panglima Pólém* or *Panglima Polém*. All forms denote the same title and the same lineage of bearers. Several distinct historical persons held the office; the article treats the title and lineage as a single entity, with separate sections for each prominent bearer whose career is documented in the sources.

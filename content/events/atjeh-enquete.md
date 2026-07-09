@@ -1,6 +1,6 @@
 ---
 title: Atjéh-enquête
-aliases: [Aceh inquiry, Atjeh enquete, 1907 Aceh investigation, Van Heutsz's Aceh investigation]
+aliases: [Aceh inquiry, Atjeh enquete, 1907 Aceh investigation, "Van Heutsz's Aceh investigation"]
 tags: [event, colonial, investigation, achehnese]
 ---
 The **Atjéh-enquête** was the formal investigation conducted by Governor-General [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] in [[November]]–[[December]] [[1907]] into the civil and military administration of the governor of [[Acheh|Atjèh]], [[Gotfried Coenraad Ernst van Daalen|Gotfried Coenraad Ernst van Daalen]]. Prompted by mounting press allegations — the [[Wekker articles|"Wekker" articles]] in *[[De Avondpost]]* — parliamentary criticism, and private complaints about Van Daalen's harsh rule, the inquiry led to Van Daalen's removal and a major political crisis for Van Heutsz's governorship. Its findings confirmed what advisers including [[C. Snouck Hurgronje|Snouck Hurgronje]] and [[Hendrikus Colijn|H. Colijn]] had warned in [[1904]]: that Van Daalen had "misunderstood the fundamental principle" of pacification, and that his methods had alienated the very chiefs on whose cooperation Dutch authority depended.

@@ -1,6 +1,6 @@
 ---
-title: Djawahir al-'ulum
-aliases: [Jawāhir al-ʿulūm, Djawāhir al-ʿulūm, Jawahir al-'ulum, Jewels of the Sciences, Raniri's Jawahir al-'ulum]
+title: "Djawahir al-'ulum"
+aliases: [Jawāhir al-ʿulūm, Djawāhir al-ʿulūm, "Jawahir al-'ulum, Jewels of the Sciences, Raniri's Jawahir al-'ulum"]
 tags: [document, religious-work, islamic-scholarship, mysticism, precolonial, 17th-century, aceh, malay]
 ---
 

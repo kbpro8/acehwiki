@@ -2,7 +2,7 @@
 title: Tanjung Priok
 aliases: [Tandjong Priok, Tandjong-Priok, Haven te Tandjong Priok, Port of Tandjong Priok, Priok]
 tags: [place, port, harbor, dutch-colonial, java, infrastructure, colonial, batavia]
-description: The great Dutch colonial harbour works constructed on the bay of Batavia between 1876 and 1883, modern Jakarta's principal port.
+description: "The great Dutch colonial harbour works constructed on the bay of Batavia between 1876 and 1883, modern Jakarta's principal port."
 ---
 
 **Tanjung Priok** (Dutch ***Tandjong Priok***) was the great harbour works constructed by the Dutch state on the eastern side of the bay of [[Batavia|Batavia]], on [[Java]], at about eight kilometres' distance from the chief place, between [[1876]] and [[1883]] — the principal public-works undertaking of the Netherlands-Indian government of the [[1870s]] and a defining achievement of the administration of Governor-General [[Johan Willem van Lansberge|J. W. van Lansberge]]. Planned in response to the dramatic expansion of steamship traffic that followed the opening of the [[Suez Canal]] in [[1869]], the project replaced the inadequate older port facilities of Batavia with an enclosed basin harbour, a railway to the capital, and a shipping canal, carried out entirely in state management under the working-plan of chief engineer [[Waldorp|J. A. A. Waldorp]] and the direction of engineer first class [[J. A. de Gelder|J. A. de Gelder]] of the Indies *waterstaats-corps* (hydraulic-engineering corps). Its construction set the precedent for the state railways and other large colonial public works, and the harbour remains the main port of [[Jakarta]] to this day.

@@ -1,6 +1,6 @@
 ---
 title: Taman (Kota Goenoengan)
-aliases: [Taman, Kota Goenoengan, Taman of the Sultan, Sultan's Pleasure-Garden]
+aliases: [Taman, Kota Goenoengan, Taman of the Sultan, "Sultan's Pleasure-Garden"]
 tags: [place, fortress, acehnese, aceh-war]
 ---
 

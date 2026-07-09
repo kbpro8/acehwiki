@@ -1,6 +1,6 @@
 ---
 title: Loss of the Dalam
-aliases: [Loss of the Dalam, Capture of the Dalam, Fall of the Sultan's palace, 1873 fall of Banda Acheh]
+aliases: [Loss of the Dalam, Capture of the Dalam, "Fall of the Sultan's palace, 1873 fall of Banda Acheh"]
 tags: [event, political, military, war, dutch-war, historical]
 ---
 

@@ -1,7 +1,7 @@
 ---
 
 title: Teukoe Itam
-aliases: [Teukoe Itam, Teuku Itam, Itam of Tapa'toean]
+aliases: [Teukoe Itam, Teuku Itam, "Itam of Tapa'toean"]
 tags: [person, achehnese, administrator, japanese]
 ---
 **Teukoe Itam** was an Atjèhnese clerk at the central office of the landscape treasuries in [[Koetaradja|Koetaradja]] — the "rightful heir" of the loyal Datoek Roehoem of Tapa'toean — whom the F-propagandist [[Said Aboe Bakar|Said Aboe Bakar]] installed as *son-chó* of the Tapa'toean subdistrict after the displacement of the loyal Datoek Roehoem in March [[1942]]. Piekaar's *Atjèh and the War with Japan* treats the installation of Teukoe Itam as a representative episode of the F-organisatie's political reorganisation — the displacement of the loyal Dutch *oelèëbalang*'s by the F-organisatie's network of collaborators, and the installation of the new administrative hierarchy under Japanese sponsorship.

@@ -1,5 +1,5 @@
 ---
-title: Kielstra's Beschrijving van den Atjeh-oorlog (1883-1885)
+title: "Kielstra's Beschrijving van den Atjeh-oorlog (1883-1885)"
 aliases: ["Description of the Atjeh War", "Kielstra Atjeh War"]
 tags: ["event", "publication", "atjeh-war", "1883", "1885", "military-history", "source-document"]
 ---

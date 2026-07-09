@@ -1,8 +1,8 @@
 ---
 title: Battle of Aneu Galong (1896)
-aliases: [Capture of Aneu' Galong fortress, Fall of Aneu' Galong, Defence of Aneu Galong, Aneu Galong 1896, Aneu' Galong 1896, Aneu'Galong 1896]
+aliases: ["Capture of Aneu' Galong fortress, Fall of Aneu' Galong", Defence of Aneu Galong, Aneu Galong 1896, "Aneu' Galong 1896, Aneu'Galong 1896"]
 tags: [event, war, colonial, aceh-war, 19th-century, knil, aceh, resistance, tirio]
-description: The Dutch capture of the Aneu' Galong fortress in 1896 — the engagement in which the patriarchal generation of the Tiro family was killed and the inheritance of the Acehnese holy war was transferred to the surviving sons and the infant grandson.
+description: "The Dutch capture of the Aneu' Galong fortress in 1896 — the engagement in which the patriarchal generation of the Tiro family was killed and the inheritance of the Acehnese holy war was transferred to the surviving sons and the infant grandson."
 ---
 
 **The Battle of Aneu Galong ([[1896]])** — also called the **capture of the Aneu' Galong fortress** or the **defence of Aneu Galong** — was the engagement of the [[Acheh War|Acehnese War]] in which Netherlands troops carried the fortress of [[Aneu Galong|Aneu' Galong]] in the interior of [[Great Acheh]], killing the patriarchal generation of the family and following of [[Teungku Tiro|Teungkoe Sjech Saman di Tiri]]. The battle is recorded by [[C. Snouck Hurgronje|Snouck Hurgronje]] in a bracketed footnote to his account of [[Teungku Tiro]] in *The Achehnese* Vol. I, and is the chronological anchor of the [[colonne Schmidt campaign against the Tiriō Teungkues (1910-1911)|colonne Schmidt]] narrative in G. W. T. Dames's *[[Oom Ambon van het K.N.I.L.]]* (1954). The two source accounts differ on a point of identification that the chroniclers do not themselves resolve: in Snouck's account the fallen man is **Mat Amin**, "the son of Teungku Tiro"; in Dames's account the eldest son and successor of Teungkoe Sjech Saman di Tiri falls as commandant, and Tgk. Mat Amin is a separate *geloofsgetuige* (faith-witness, martyr) killed in the same engagement.

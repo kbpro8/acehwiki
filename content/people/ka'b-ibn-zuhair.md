@@ -1,5 +1,5 @@
 ---
-title: Ka'b ibn Zuhair
+title: "Ka'b ibn Zuhair"
 aliases: ["Ka'b ibn Zuhair", "Ka'b ibn Zuhair (poet)"]
 tags: [person, poet, arabic, religious, acehnese]
 ---

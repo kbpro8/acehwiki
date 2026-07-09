@@ -1,5 +1,5 @@
 ---
-title: Keuchi' Muda Sa'ti
+title: "Keuchi' Muda Sa'ti"
 tags: [person]
 ---
 

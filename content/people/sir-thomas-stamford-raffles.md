@@ -1,8 +1,8 @@
 ---
 title: Sir Thomas Stamford Raffles
-aliases: [Stamford Raffles, Sir S. Raffles, T. S. Raffles, Raffles, Benkoelen's governor, lieutenant-governor of Bencoolen, Sir Stamford Raffles, Thomas Stamford Raffles, Thomas Stamford Bingley Raffles]
+aliases: [Stamford Raffles, Sir S. Raffles, T. S. Raffles, Raffles, "Benkoelen's governor, lieutenant-governor of Bencoolen, Sir Stamford Raffles, Thomas Stamford Raffles, Thomas Stamford Bingley Raffles"]
 tags: [person, british-official, scholar, colonial-official, east-india-company, founder-of-singapore]
-description: British East India Company official, founder of Singapore, and Lieutenant-Governor of Bencoolen whose 1819 Acheh commission produced the Acheh treaty of 1819.
+description: "British East India Company official, founder of Singapore, and Lieutenant-Governor of Bencoolen whose 1819 Acheh commission produced the Acheh treaty of 1819."
 ---
 
 **Sir Thomas Stamford Raffles** ([[1781]]–[[1826]]) — Sir **Thomas Stamford Bingley Raffles** — was a British [[East India Company]] official, founder of [[Singapore]], and Lieutenant-Governor of the Dutch East Indies during the British interregnum ([[1811]]–[[1816]]), whose diplomatic intervention in the affairs of [[Acheh]] forms one of the principal strands in the pre-history of the [[Achehnese War|Achehnese War]]. As Lieutenant-Governor of [[Bencoolen]] (Dutch: [[Benkoelen]]) in [[1819]], he negotiated the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] with [[Sultan Jauhar Alum]] (rendered [[Johar Allum]] in [[C. Snouck Hurgronje|Snouck Hurgronje]]'s account) at [[Pedir]] and, in the same expedition, co-founded the settlement of [[Singapore]] with [[Major William Farquhar]]. In the Dutch scholarly literature his Acheh mission is treated as a representative case of British intrigue against Netherlands India in the years surrounding the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]].

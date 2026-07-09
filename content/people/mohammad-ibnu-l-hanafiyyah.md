@@ -1,6 +1,6 @@
 ---
 
-title: Mohammad ibnu'l Hanafiyyah
+title: "Mohammad ibnu'l Hanafiyyah"
 aliases: [Muhammad ibn al-Hanafiyya, Mohammad ibn al-Hanafiyyah, Muhammad ibn al-Hanafiyyah, son of Ali]
 tags: [person, religious-figure, historical, islamic, legendary]
 ---

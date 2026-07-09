@@ -1,7 +1,7 @@
 ---
 
-title: Cheh Abdora'oh
-aliases: [Abdulra'uf, Abdura'uf, Abdurra'uf, Teungku di Kuala, Teungku di Kuala of Singkel]
+title: "Cheh Abdora'oh"
+aliases: ["Abdulra'uf, Abdura'uf", "Abdurra'uf, Teungku di Kuala, Teungku di Kuala of Singkel"]
 tags: [person, religious-figure, saint, ulama, scholar]
 ---
 

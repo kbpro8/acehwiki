@@ -1,5 +1,5 @@
 ---
-title: A. 'ahd
+title: "A. 'ahd"
 aliases: ["ahd", "A. ‘ahd"]
 tags: [concept, acehnese, lexical, religious]
 ---

@@ -1,6 +1,6 @@
 ---
-title: Langkat's appeal to Siak against Atjeh (1862)
-aliases: [Langkat's 1862 appeal to Siak, Radja of Langkat's appeal to Siak against Atjeh, Langkat appeal to Siak 1862, Atjeh-Langkat conflict 1862, Langkat request for Dutch protection against Atjeh 1862]
+title: "Langkat's appeal to Siak against Atjeh (1862)"
+aliases: ["Langkat's 1862 appeal to Siak, Radja of Langkat's appeal to Siak against Atjeh", Langkat appeal to Siak 1862, Atjeh-Langkat conflict 1862, Langkat request for Dutch protection against Atjeh 1862]
 tags: [event, colonial, atjeh, malay, sumatra, oostkust-van-sumatra, buitenbezittingen, langkat, siak, diplomacy]
 ---
 

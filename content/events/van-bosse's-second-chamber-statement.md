@@ -1,5 +1,5 @@
 ---
-title: Van Bosse's Second Chamber statement (17 January 1872)
+title: "Van Bosse's Second Chamber statement (17 January 1872)"
 aliases: [Van Bosse statement 17 January 1872, Second Chamber speech on Sumatra Treaty, verklaring van Van Bosse ter 2e Kamer]
 tags: [event, correspondence, colonial, anglo-dutch, diplomacy]
 ---

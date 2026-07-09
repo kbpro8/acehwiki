@@ -1,7 +1,7 @@
 ---
 
-title: Teuku Ne' Peureuba Wangsa
-aliases: [Teuku Ne Peureuba Wangsa, Ne' Peureuba Wangsa]
+title: "Teuku Ne' Peureuba Wangsa"
+aliases: [Teuku Ne Peureuba Wangsa, "Ne' Peureuba Wangsa"]
 tags: [person, uleebalang, adat-chief, xxv-mukims]
 ---
 

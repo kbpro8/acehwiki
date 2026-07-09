@@ -1,6 +1,6 @@
 ---
 title: Bandjir at Penajoeng (4 December 1874)
-aliases: [Penajoeng bandjir, Bandjir of 4 December 1874, Snijders' bandjir rescue, Near-drowning of Snijders at Penajoeng]
+aliases: [Penajoeng bandjir, Bandjir of 4 December 1874, "Snijders' bandjir rescue, Near-drowning of Snijders at Penajoeng"]
 tags: [event, accident, aceh-war, dutch, colonial, engineers, infrastructure, bandjir]
 ---
 

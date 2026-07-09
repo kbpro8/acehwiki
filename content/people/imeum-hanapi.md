@@ -1,7 +1,7 @@
 ---
 
 title: Imeum Hanapi
-aliases: [Abu Hanifah, Imam Abu Hanifah, al-Nu'man ibn Thabit, the Hanafite Imam]
+aliases: [Abu Hanifah, Imam Abu Hanifah, "al-Nu'man ibn Thabit, the Hanafite Imam"]
 tags: [person, scholar, literary-work, religious-figure, islamic-figure, jurist, imam]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Proclamation of the Pretender Sultan
-aliases: [Proclamation of the Pretender Sultan, Proclamation of 1878, Tuanku Muhamat Dawot's proclamation, Election of 1879]
+aliases: [Proclamation of the Pretender Sultan, Proclamation of 1878, "Tuanku Muhamat Dawot's proclamation, Election of 1879"]
 tags: [event, political, war, treaty, ceremony]
 ---
 

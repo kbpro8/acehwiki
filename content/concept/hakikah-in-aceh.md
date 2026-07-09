@@ -1,8 +1,8 @@
 ---
-title: Hakikah ('Aqiqah) in Aceh
-aliases: [Hakikah, Aqiqah, 'Aqiqah, Achehnese birth sacrifice, Sacrifice for a newborn child, Atjeh hakikah, hakikah, aqiqah in Atjeh, Atjeh Koeroebeuën, Koeroebeuën, Atjeh pre-Islamic sacrifice preparation, qurban preparation rites Atjeh]
+title: "Hakikah ('Aqiqah) in Aceh"
+aliases: [Hakikah, Aqiqah, "'Aqiqah, Achehnese birth sacrifice, Sacrifice for a newborn child, Atjeh hakikah, hakikah, aqiqah in Atjeh, Atjeh Koeroebeuën, Koeroebeuën, Atjeh pre-Islamic sacrifice preparation, qurban preparation rites Atjeh"]
 tags: [concept, religious-practice, sacrifice, childhood-rite, family-law, syncretism, pre-islamic, achehnese]
-description: The hakikah ('aqiqah) sacrifice for a newborn in Achehnese practice, together with the pre-Islamic preparatory ceremonies attached to it and to the Koeroebeuën (Qurbān) sacrifice at Id al-Adha.
+description: "The hakikah ('aqiqah) sacrifice for a newborn in Achehnese practice, together with the pre-Islamic preparatory ceremonies attached to it and to the Koeroebeuën (Qurbān) sacrifice at Id al-Adha."
 ---
 
 The **Hakikah ('Aqiqah) in Aceh** is the Achehnese observance of the Islamic sacrifice for a newborn child — two sheep or goats for a male and one for a female, prescribed by preference on the seventh day after birth — together with a body of pre-Islamic preparatory ceremonies attached in Achehnese practice both to this *hakikah* (Arabic *'aqīqah*) sacrifice and to the *Koeroebeuën* (Arabic *Qurbān*) sacrifice at *Id al-Adha* (the "great feast" that concludes the pilgrimage to [[Mecca]]). The canonical rite is treated by [[C. Snouck Hurgronje|Snouck Hurgronje]] in [[Snouck Hurgronje's The Achehnese|*The Achehnese*]] (Vol. I, [[1906]]) as one of the rites of early childhood; the pre-Islamic accretions are documented by [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] in [[Snouck Hurgronje's De Atjehers|*De Atjehers*]] (Vol. I, [[1893]]-94, pp. 263 vg.) and re-cited in [[Kreemer's De Karbouw (1956)|Kreemer's *De Karbouw*]] ([[1956]], pp. 118-119).

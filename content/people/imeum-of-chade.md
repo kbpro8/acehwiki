@@ -1,7 +1,7 @@
 ---
 
-title: Imeum of Chade'
-aliases: [Imeum of Chadé', Imeum Chade', Imeum of Chade]
+title: "Imeum of Chade'"
+aliases: ["Imeum of Chadé', Imeum Chade'", Imeum of Chade]
 tags: [person, imeum, adat-chief]
 ---
 

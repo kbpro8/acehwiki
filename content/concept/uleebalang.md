@@ -2,7 +2,7 @@
 title: Uleebalang
 aliases: [Uleëbalang, Uleebalang, Territorial Chief, Acehnese Chief, oelèëbalang, ulèëbalang, ulëëbalang, oelebalang, heeren des lands, radja van zijn gebied]
 tags: [concept, government, nobility, military, achehnese, adat, sovereignty]
-description: The hereditary territorial chieftains of Acheh — warrior-nobles who served as military leaders, administrators, and judges within their domains, forming the backbone of Acehnese political structure.
+description: "The hereditary territorial chieftains of Acheh — warrior-nobles who served as military leaders, administrators, and judges within their domains, forming the backbone of Acehnese political structure."
 ---
 
 **Uleebalang** (also *uleëbalang*, lit. from Malay *orang balang* — "warrior") were the hereditary territorial chieftains who formed the backbone of [[Great Acheh|Acehnese]] political and military structure. They were simultaneously military leaders, administrators, collectors of revenue, and judges within their territories, which consisted of one or more [[Mukim|mukims]] and their constituent [[Gampong|gampongs]].

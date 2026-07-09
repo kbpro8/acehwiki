@@ -1,7 +1,7 @@
 ---
 
-title: Sam'un
-aliases: [Sam'un (Samson), Samson, the hero Sam'un]
+title: "Sam'un"
+aliases: ["Sam'un (Samson), Samson, the hero Sam'un"]
 tags: [person, legendary, heroic-figure, romance]
 ---
 

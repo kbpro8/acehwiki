@@ -2,7 +2,7 @@
 title: Adat
 aliases: [Adat Acheh, Customary Law, Acehnese Custom, Adat, Adat-law, Customary law, Adats, adat, custom, traditional law]
 tags: [concept, law, culture, achehnese, colonial]
-description: The customary law (adat) of the Acehnese — the unwritten, indigenous legal tradition governing social life, distinct from but coexisting with Islamic law (hikum/hukom), and maintained primarily by the keuchi' and uleebalang; also the customary atmosphere of the colonial tangsi.
+description: "The customary law (adat) of the Acehnese — the unwritten, indigenous legal tradition governing social life, distinct from but coexisting with Islamic law (hikum/hukom), and maintained primarily by the keuchi' and uleebalang; also the customary atmosphere of the colonial tangsi."
 ---
 **Adat** (from Arabic *ʿādah*, "custom") is the unwritten customary law of the Acehnese — the body of indigenous legal tradition governing social, family, and community life. It coexisted with [[Hikum|Islamic law]] (*hukom*, from Arabic *ḥukm*), with each domain having its own guardians: the [[Keuchi'|keuchi']] and [[Uleebalang|uleebalang]] for adat, and the [[Teungku|teungku]] for hukom. Beyond the village and territory, the term was also used by G. W. T. Dames to describe the distinctive customary atmosphere of the colonial *[[tangsi]]* — the barracks culture of the K.N.I.L. — which formed its own *adat* distinct from that of the *kampong*.
 

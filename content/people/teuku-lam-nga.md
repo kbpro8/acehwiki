@@ -1,7 +1,7 @@
 ---
 
 title: Teuku Lam Nga
-aliases: [Teuku Che']
+aliases: ["Teuku Che'"]
 tags: [person, warrior]
 ---
 

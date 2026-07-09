@@ -1,6 +1,6 @@
 ---
 
-title: Seuma'un
+title: "Seuma'un"
 aliases: [the Acehnese Simeon]
 tags: [person, literary-work]
 ---

@@ -2,7 +2,7 @@
 title: Kawom
 aliases: [Kaum, Kawn, Clan, Tribe, Acehnese Clan]
 tags: [concept, social-structure, tribe]
-description: The Acehnese clan or tribal grouping, whose members bore collective responsibility for blood feuds (bila), and whose panglima kawom served as a tribal rather than territorial chief.
+description: "The Acehnese clan or tribal grouping, whose members bore collective responsibility for blood feuds (bila), and whose panglima kawom served as a tribal rather than territorial chief."
 ---
 
 **Kawom** (also *kaum*; from Arabic *qawm*, "people" or "tribe") was the Acehnese clan or tribal grouping — a kinship-based social unit whose members bore collective and several liability for *[[Bila|bila]]* (blood money) in cases of killing or wounding. The kawom was a tribal, not a territorial, institution, standing apart from the [[Gampong|gampong]]-[[Mukim|mukim]]-[[Uleebalang|uleebalang]] hierarchy of territorial administration.

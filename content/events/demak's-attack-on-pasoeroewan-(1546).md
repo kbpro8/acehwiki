@@ -1,6 +1,6 @@
 ---
-title: Demak's attack on Pasoeroewan (1546)
-aliases: [Demak's attack on Pasuruan, 1546 attack on Pasoeroewan, Demak's expedition against Pasoeroewan]
+title: "Demak's attack on Pasoeroewan (1546)"
+aliases: ["Demak's attack on Pasuruan, 1546 attack on Pasoeroewan, Demak's expedition against Pasoeroewan"]
 tags: [event, war, javanese, demak, pasoeroewan, 16th-century]
 ---
 

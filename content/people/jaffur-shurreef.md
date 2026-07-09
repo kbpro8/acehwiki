@@ -1,7 +1,7 @@
 ---
 
 title: Jaffur Shurreef
-aliases: [Jafur Shurreef, Jaffur Shurreef, Ja'far Shurreef]
+aliases: [Jafur Shurreef, Jaffur Shurreef, "Ja'far Shurreef"]
 tags: [person, scholar, indian, muslim]
 ---
 

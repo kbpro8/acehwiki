@@ -2,7 +2,7 @@
 title: Atjeh Monument
 aliases: [Atjeh-monument, Atjeh monument, Aceh Monument, Aceh-monument, Atjehmonument, monument in Wilhelminapark]
 tags: [event, monument, memorial, colonial, dutch, achehnese-history, batavia, weltevreden]
-description: The Atjeh Monument in the Wilhelminapark at Weltevreden, Batavia, was erected in memory of the pacification of Atjeh. It stood alongside the Michiels Monument as a commemoration of Dutch military achievement in the archipelago.
+description: "The Atjeh Monument in the Wilhelminapark at Weltevreden, Batavia, was erected in memory of the pacification of Atjeh. It stood alongside the Michiels Monument as a commemoration of Dutch military achievement in the archipelago."
 ---
 **The Atjeh Monument** (Dutch: *Het Atjeh-monument*) was a memorial erected in the Wilhelminapark at [[Weltevreden]], [[Batavia]], in memory of the [[Pacification of Atjeh|pacification of Atjeh]]. It stood as one of the principal colonial monuments in the capital of the [[Netherlands India|Dutch East Indies]].
 

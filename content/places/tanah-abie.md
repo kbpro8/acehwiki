@@ -1,6 +1,6 @@
 ---
 title: Tanah Abie
-aliases: [Tanoh Abie"]
+aliases: ["Tanoh Abie\""]
 tags: ["place", "aceh-proper"]
 ---
 

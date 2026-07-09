@@ -1,7 +1,7 @@
 ---
 
 title: Teuku Chut Oh
-aliases: [Teuku Chut Oh, Abdora'oh, Abdurra'uf]
+aliases: [Teuku Chut Oh, "Abdora'oh, Abdurra'uf"]
 tags: [person, uleebalang, panglima-sagi]
 ---
 

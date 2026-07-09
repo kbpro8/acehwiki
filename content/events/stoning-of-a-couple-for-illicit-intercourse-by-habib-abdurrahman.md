@@ -1,6 +1,6 @@
 ---
 title: Stoning of a Couple for Illicit Intercourse by Habib Abdurrahman
-aliases: [Habib Abdurrahman's stoning, Rajm in Acheh, Stoning for zina in Acheh]
+aliases: ["Habib Abdurrahman's stoning, Rajm in Acheh, Stoning for zina in Acheh"]
 tags: [event, religious, criminal-justice, islamic-law]
 ---
 

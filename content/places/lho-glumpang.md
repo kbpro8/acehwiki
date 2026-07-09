@@ -1,5 +1,5 @@
 ---
-title: Lho' Glumpang
+title: "Lho' Glumpang"
 tags: ["place", "north-east-coast"]
 ---
 

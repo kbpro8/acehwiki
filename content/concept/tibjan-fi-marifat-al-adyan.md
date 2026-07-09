@@ -1,6 +1,6 @@
 ---
-title: Tibjan fi ma'rifat al-adyan
-aliases: [Tibyan fi Ma'rifat al-Adyan, Kitab Tibyan, Tibjān]
+title: "Tibjan fi ma'rifat al-adyan"
+aliases: ["Tibyan fi Ma'rifat al-Adyan, Kitab Tibyan, Tibjān"]
 tags: [document, religious, acehnese, seventeenth-century]
 ---
 

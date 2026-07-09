@@ -1,8 +1,8 @@
 ---
 title: Kraton Atjeh
-aliases: [Kraton (Aceh), Kraton Aceh, Kraton Atjèh, Atjehse kraton, Atjehnese kraton, Aceh kraton, Sultan's kraton Atjeh, Royal Palace of Aceh]
+aliases: [Kraton (Aceh), Kraton Aceh, Kraton Atjèh, Atjehse kraton, Atjehnese kraton, Aceh kraton, "Sultan's kraton Atjeh, Royal Palace of Aceh"]
 tags: [place, atjeh, groot-atjeh, palace, fortification, dutch-colonial, 19th-century, military, aceh, 1873]
-description: The palace-fortress of the sultan of Acheh at Kotta-Radja — principal fortification of the Achehnese sultanate, captured by Dutch forces on 24 January 1874 and transformed into the colonial capital.
+description: "The palace-fortress of the sultan of Acheh at Kotta-Radja — principal fortification of the Achehnese sultanate, captured by Dutch forces on 24 January 1874 and transformed into the colonial capital."
 ---
 
 **The Kraton Atjeh** — the *kraton* (palace-fortress) of the sultan of [[Acheh|Atjeh]] at [[Kotta-Radja|Kotta-Radja]] — was the principal fortification and residence of the [[Aceh Sultanate|Achehnese sultanate]], situated in the interior of northern [[Sumatra]]. The kraton area served as the objective of the first marine landing of the [[Aceh Expedition (1873-1876)|1873 Dutch expedition]] on [[5 April]] [[1873]] and was the target of the [[Second Aceh Expedition (1873-1874)|tweede Atjeh-tocht]] (second Aceh expedition) of November [[1873]]–January [[1874]]. In the [[De Kleine Oosterling|school-textbook]] narrative, the kraton is the staff history's principal instance of the Achehnese sultanate's pre-colonial power, and the *hoofdsterkte* (principal fortress) whose capture on [[24 January]] [[24 January 1874|24 January 1874]] closed the *zege* (victory) phase of the [[Atjeh War|Atjeh-oorlog]].

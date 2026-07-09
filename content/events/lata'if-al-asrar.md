@@ -1,6 +1,6 @@
 ---
-title: Lata'if al-asrar
-aliases: [Laṭāʾif al-asrār, Latha'if al-asrar, Latā'if al-asrār, The Subtleties of the Secrets, Raniri's Lata'if al-asrar]
+title: "Lata'if al-asrar"
+aliases: [Laṭāʾif al-asrār, "Latha'if al-asrar, Latā'if al-asrār", The Subtleties of the Secrets, "Raniri's Lata'if al-asrar"]
 tags: [document, religious-work, islamic-scholarship, mysticism, lost-work, precolonial, 17th-century, aceh, malay]
 ---
 

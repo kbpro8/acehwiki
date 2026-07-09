@@ -2,7 +2,7 @@
 title: Keubeuë peunoelang
 aliases: [Atjehse bride buffalo, Atjehse bride buffalo (keubeuë peunoelang), Atjeh bride buffalo custom, bride buffalo of Atjeh, keubeue peunoelang, keubeuë peunoelang custom, keubeuë peunulang]
 tags: [achehnese, adat, concept, marriage]
-description: The buffalo that the Acehnese bride received from her mother-in-law as a marriage-gift, an animal held in high esteem comparable to the old Dutch bruidskoe (bride cow); documented by Snouck Hurgronje in De Atjehers and re-cited in Kreemer's De Karbouw.
+description: "The buffalo that the Acehnese bride received from her mother-in-law as a marriage-gift, an animal held in high esteem comparable to the old Dutch bruidskoe (bride cow); documented by Snouck Hurgronje in De Atjehers and re-cited in Kreemer's De Karbouw."
 ---
 
 The **keubeuë peunoelang** (in [[J. Kreemer|Kreemer]]'s spelling; modern Acehnese *keubeuë peunulang*) — also referred to in Dutch sources as the "Atjehse bride buffalo" or "bride buffalo of Atjeh" — was the buffalo that the Acehnese bride received from her mother-in-law (*schoonmoeder*) as a marriage-gift, an animal held in high esteem comparable to the old Dutch *bruidskoe* ("bride cow"). The custom is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw*]] (p. 215) and is documented in [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers (1893-94)|*De Atjehers*]] (vol. I, p. 392).

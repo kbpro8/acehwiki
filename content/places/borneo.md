@@ -1,6 +1,6 @@
 ---
 title: Borneo
-aliases: [Kalimantan, Borneo island, West-Borneo, Borneo's West Coast, Borneo (island)]
+aliases: [Kalimantan, Borneo island, West-Borneo, "Borneo's West Coast, Borneo (island)"]
 tags: [place, island, foreign, east-indian-archipelago, borneo, dutch-east-indies, malay-archipelago, southeast asia, colonial]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Boers, A.
+title: "Boers, A."
 aliases: [A. Boers, Marine A. Boers]
 tags: [person, marine, dutch, colonial]
 ---

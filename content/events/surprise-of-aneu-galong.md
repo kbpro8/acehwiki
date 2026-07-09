@@ -1,5 +1,5 @@
 ---
-title: Surprise of Aneu' Galong
+title: "Surprise of Aneu' Galong"
 aliases: [Battle of Aneuk Galong]
 tags: [event]
 ---

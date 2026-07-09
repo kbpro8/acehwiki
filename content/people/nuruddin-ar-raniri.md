@@ -1,6 +1,6 @@
 ---
 title: Nuruddin ar-Raniri
-aliases: [Nuruddin Muhammad ibn Ali al-Raniri, Nūr al-Dīn al-Rānīrī, Nur al-Din al-Raniri, Raniri, Nuruddin Muhammad b. 'Ali b. Hasandji b. Muhammad Hamid ar-Raniri al-Kurasji asj-Sjafi'i]
+aliases: [Nuruddin Muhammad ibn Ali al-Raniri, Nūr al-Dīn al-Rānīrī, Nur al-Din al-Raniri, Raniri, "Nuruddin Muhammad b. 'Ali b. Hasandji b. Muhammad Hamid ar-Raniri al-Kurasji asj-Sjafi'i"]
 tags: [person, scholar, acehnese, religious, seventeenth-century]
 ---
 

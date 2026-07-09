@@ -1,6 +1,6 @@
 ---
-title: Captain Canning's mission to Acheh (1814)
-aliases: [Canning's 1814 visit"]
+title: "Captain Canning's mission to Acheh (1814)"
+aliases: ["Canning's 1814 visit\""]
 tags: [event, mission, diplomacy, colonial, acheh]
 ---
 

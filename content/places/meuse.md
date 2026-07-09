@@ -1,6 +1,6 @@
 ---
 title: Meuse
-aliases: [Egypt", in Hikayat Diwa Sangsareh"]
+aliases: ["Egypt\", in Hikayat Diwa Sangsareh\""]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

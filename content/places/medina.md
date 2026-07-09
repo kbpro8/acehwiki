@@ -1,6 +1,6 @@
 ---
 title: Medina
-aliases: [as Asan's kingdom in Hikayat Soydina Usen, Medina, Al-Madinah, Madinah, City of the Prophet, Madinah]
+aliases: ["as Asan's kingdom in Hikayat Soydina Usen, Medina, Al-Madinah, Madinah, City of the Prophet, Madinah"]
 tags: [place, sacred-site, city, foreign, religious, holy-city, islam, islamic]
 ---
 

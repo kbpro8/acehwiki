@@ -1,8 +1,8 @@
 ---
-title: Teungku Lam Peuneu'eun
-aliases: [Teungku Lam Peuneu'eun, Teungku Lam Peuneuenn, Teungku Lam Keuneu'eun, the pepper saint, patron saint of pepper, pepper saint of the IX Mukims]
+title: "Teungku Lam Peuneu'eun"
+aliases: ["Teungku Lam Peuneu'eun, Teungku Lam Peuneuenn, Teungku Lam Keuneu'eun", the pepper saint, patron saint of pepper, pepper saint of the IX Mukims]
 tags: [person, religious-figure, saint, legendary, aceh, folk-saint, agriculture]
-description: Achehnese folk saint of the IX Mukims to whom popular tradition attributes the miraculous origin of pepper; possibly identical with Teungku Lam Keuneu'eun.
+description: "Achehnese folk saint of the IX Mukims to whom popular tradition attributes the miraculous origin of pepper; possibly identical with Teungku Lam Keuneu'eun."
 ---
 
 **Teungku Lam Peuneu'eun** is the Achehnese saint to whom popular tradition attributes the miraculous origin of the pepper-plant in [[Aceh|Acheh]]. His tomb lies in the *gampong* (village) of the same name in the [[XXII Mukims of Panglima Poleem|IX Mukims]], and his cult is closely connected with the annual *kanduri bungong lada* (pepper-blossom feast) observed on the East and West Coasts whenever the pepper comes into flower. A closely related, and possibly identical, figure appears in the sources under the name [[Teungku Lam Peuneu'eun|Teungku Lam Peuneu'eun]] — popularly called "the pepper saint" — whose tomb likewise stands in a *gampong* of the same name in the IX Mukims and whose cult was actively promoted by the *ulama* [[Teungku Kutakarang|Teungku Kutakarang]] during the [[Aceh War|Acheh War]]. Whether the two names conceal a single figure or represent parallel hagiologies clustering around the same district, they testify to the importance of the IX Mukims as a centre of pepper-cult legend and to the deep roots of the crop in the religious imagination of the Achehnese.

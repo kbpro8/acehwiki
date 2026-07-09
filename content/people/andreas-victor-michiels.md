@@ -2,7 +2,7 @@
 title: Andreas Victor Michiels
 aliases: [Michiels, A. V. Michiels, Andreas Michiels, General Michiels]
 tags: [person, colonial-official, dutch, military, general, colonial, monument]
-description: Andreas Victor Michiels (1797-1849) was a Dutch military officer who rose through all ranks to become a General. He was killed in action on Bali in 1849 and is commemorated by the Michiels Monument at Waterloo Square, Weltevreden, Batavia. The Atjeh Monument in the Wilhelminapark was also erected in connection with his legacy of military campaigns.
+description: "Andreas Victor Michiels (1797-1849) was a Dutch military officer who rose through all ranks to become a General. He was killed in action on Bali in 1849 and is commemorated by the Michiels Monument at Waterloo Square, Weltevreden, Batavia. The Atjeh Monument in the Wilhelminapark was also erected in connection with his legacy of military campaigns."
 ---
 **Andreas Victor Michiels** ([[1797]]–[[1849]]) was a Dutch general who distinguished himself throughout a long military career in the [[Netherlands India|Dutch East Indies]] and was killed in action on [[Bali]] in [[1849]]. He entered military service at the age of seventeen and eventually attained the rank of General, having passed through all intermediate ranks.
 

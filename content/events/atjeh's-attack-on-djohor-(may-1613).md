@@ -1,6 +1,6 @@
 ---
-title: Atjeh's attack on Djohor (May 1613)
-aliases: [Atjeh attack on Johor 1613, Achehnese sack of Djohor 1613, Fall of Batoesawer 1613, Sultan of Atjeh's 1613 campaign against Djohor]
+title: "Atjeh's attack on Djohor (May 1613)"
+aliases: [Atjeh attack on Johor 1613, Achehnese sack of Djohor 1613, Fall of Batoesawer 1613, "Sultan of Atjeh's 1613 campaign against Djohor"]
 tags: [event, achehnese, precolonial, atjeh, djohor, military, 1613, sultan-of-atjeh]
 ---
 

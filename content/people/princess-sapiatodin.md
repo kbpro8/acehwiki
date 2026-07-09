@@ -1,7 +1,7 @@
 ---
 
 title: Princess Sapiatodin
-aliases: [Sapiatodin, Sapi'atuddin, Tajul-alain, Sultan Tajul-alain, the first sultana]
+aliases: [Sapiatodin, "Sapi'atuddin, Tajul-alain, Sultan Tajul-alain, the first sultana"]
 tags: [person, sultan, sultanate, royalty]
 ---
 

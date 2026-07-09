@@ -2,7 +2,7 @@
 title: Spinsbek
 aliases: [Spinsbek werk, spinsbek-work, spun-bead work, granulated metalwork]
 tags: [concept, craft, material-culture, achehnese, metalwork, technique, decorative-arts]
-description: A distinctive Acehnese metalworking technique, possibly a form of granulation, extensively used on gold, silver, and copper objects and prominently represented in the Batavian Society's 1928 treasure-room catalogue.
+description: "A distinctive Acehnese metalworking technique, possibly a form of granulation, extensively used on gold, silver, and copper objects and prominently represented in the Batavian Society's 1928 treasure-room catalogue."
 ---
 
 **Spinsbek** is a distinctive metalworking technique prominently featured in the gold and silver objects of [[Acheh|Atjeh]] catalogued in the [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian Society's]] 1928 treasure-room guide. The term appears dozens of times across the three Atjeh cabinets (Kast 3, 4, and 5), applied to an extraordinary range of object types including rings, chains, clasps, boxes, lime containers, belt buckles, revolvers, and ornamental plaques.

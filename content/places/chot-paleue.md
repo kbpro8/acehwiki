@@ -1,6 +1,6 @@
 ---
 title: Chot Paleue
-aliases: [gampong"]
+aliases: ["gampong\""]
 tags: ["place", "north-east-coast"]
 ---
 

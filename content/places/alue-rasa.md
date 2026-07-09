@@ -1,6 +1,6 @@
 ---
 title: Alue Rasa
-aliases: [Alura'sa, Alue Rasa, Aluerasa]
+aliases: ["Alura'sa, Alue Rasa, Aluerasa"]
 tags: [place, gampong, banda-aceh, capital]
 ---
 

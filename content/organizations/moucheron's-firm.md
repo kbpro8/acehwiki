@@ -1,7 +1,7 @@
 ---
 
-title: Moucheron's firm
-aliases: [Balthasar de Moucheron's firm, Moucheron (firm), Maison Moucheron, De Moucheron firm of Middelburg]
+title: "Moucheron's firm"
+aliases: ["Balthasar de Moucheron's firm, Moucheron (firm), Maison Moucheron, De Moucheron firm of Middelburg"]
 tags: [organization, firm, dutch, precolonial, atjeh, zeeland, netherlands-east-indies, trade, 16th-century, 17th-century]
 ---
 

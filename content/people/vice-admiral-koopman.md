@@ -1,5 +1,5 @@
 ---
-title: Koopman, Vice‑Admiraal
+title: "Koopman, Vice‑Admiraal"
 aliases: [Vice‑Admiraal Koopman, Koopman]
 tags: [person, navy, dutch, colonial]
 ---

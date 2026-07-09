@@ -1,5 +1,5 @@
 ---
-title: Seuma'un
+title: "Seuma'un"
 tags: [person]
 ---
 

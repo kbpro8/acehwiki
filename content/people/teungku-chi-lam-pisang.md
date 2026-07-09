@@ -1,6 +1,6 @@
 ---
 
-title: Teungku Chi' Lam Pisang
+title: "Teungku Chi' Lam Pisang"
 tags: [person, saint]
 ---
 

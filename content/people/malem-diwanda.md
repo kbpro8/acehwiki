@@ -1,6 +1,6 @@
 ---
 
-title: Malem Diwanda'
+title: "Malem Diwanda'"
 tags: [person, literary-work]
 ---
 

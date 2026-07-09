@@ -1,7 +1,7 @@
 ---
 
-title: Groot-Atjeh'sche Afdeelingsbank
-aliases: [Groot-Atjehsche Afdeelingsbank, Groot-Atjeh'sche Afdeelingsbank, Groot-Atjehsche Credietbank, Afdeelingsbank te Koeta Radja]
+title: "Groot-Atjeh'sche Afdeelingsbank"
+aliases: [Groot-Atjehsche Afdeelingsbank, "Groot-Atjeh'sche Afdeelingsbank, Groot-Atjehsche Credietbank, Afdeelingsbank te Koeta Radja"]
 tags: [organization, bank, colonial, credit]
 ---
 **The Groot-Atjeh'sche Afdeelingsbank** was the principal institution of the *Volkscredietwezen* — the People's Credit System — of the [[Afdeeling Groot-Atjeh|Afdeeling Groot-Atjeh]], established at [[Koeta Radja|Koeta Radja]] in mid-[[1908]] as the first of three *afdeelingsbanken* in the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] and the model against which the younger banks of Lhoʼ Seumawè ([[1913]]) and [[Langsa|Langsa]] ([[1915]]) were measured. *De Buitenbezittingen* devotes its longest single treatment of the Volkscredietwezen to this institution: "Van de drie afdeelingsbanken bestaat die van Groot-Atjeh het langst; ze heeft, door haar uitgebreiden werkkring en de teleurstellende ondervindingen, welke daarbij in ruime mate haar deel zijn geworden, in vele opzichten het spits afgebeten voor hare jongere zusters."

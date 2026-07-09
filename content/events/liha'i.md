@@ -1,6 +1,6 @@
 ---
-title: Liha'i (chorus Quran recitation)
-aliases: [Liha'i, Lihat, Chorus Quran recitation, Recitation of the Quran in chorus]
+title: "Liha'i (chorus Quran recitation)"
+aliases: ["Liha'i, Lihat, Chorus Quran recitation, Recitation of the Quran in chorus"]
 tags: [event, religious, ceremony, quran, festival]
 ---
 

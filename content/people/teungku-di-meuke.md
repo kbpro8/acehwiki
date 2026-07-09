@@ -1,6 +1,6 @@
 ---
 
-title: Teungku di Meuke'
+title: "Teungku di Meuke'"
 tags: [person, warrior]
 ---
 

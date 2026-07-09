@@ -1,6 +1,6 @@
 ---
 title: Malem Jawa
-aliases: [near Piadah"]
+aliases: ["near Piadah\""]
 tags: ["place", "aceh-proper"]
 ---
 

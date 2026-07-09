@@ -1,5 +1,5 @@
 ---
-title: Tapa' Tuan
+title: "Tapa' Tuan"
 aliases: ["vulg. Tempat Tuan", "Tapa Tuan (West Atjeh)", "Tapa Tuan (town)", "Tapa-Tuan"]
 tags: ["place", "north-east-coast", "west-coast", "town", "atjeh", "westkust", "colonial"]
 ---

@@ -2,7 +2,7 @@
 title: Teungku
 aliases: [Tengku, Tuan, Religious Leader, Ulama Acheh, Teungkoe, Teungku, Teungkoe meunasah, teungku, gampong religious head]
 tags: [concept, religion, title, leadership, achehnese, religious, office]
-description: The Acehnese title for a religious leader or scholar, applied to a range of figures from ordinary village prayer-leaders to the most learned Islamic scholars and saints, forming the principal rival power to the uleebalang class.
+description: "The Acehnese title for a religious leader or scholar, applied to a range of figures from ordinary village prayer-leaders to the most learned Islamic scholars and saints, forming the principal rival power to the uleebalang class."
 ---
 
 **Teungku** (also *tengku*; both words appear to be contractions of *tuanku* — "my lord") was the most important religious title in [[Great Acheh|Acehnese]] society, applied to a wide range of persons with religious functions and scholarly attainments. Both *teungku* and *teuku* (the secular noble title) appear to be contractions of *tuanku*, though in practice they had sharply different social meanings.

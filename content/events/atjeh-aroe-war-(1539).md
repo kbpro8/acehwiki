@@ -1,6 +1,6 @@
 ---
 title: Atjeh-Aroe War (1539)
-aliases: [Atjeh-Aru War, Aceh-Aru War 1539, Acehnese war on Aroe, Fall of Aroe, Conquest of Aroe by Atjeh, Atjehsche vloot's descent on Aroe]
+aliases: [Atjeh-Aru War, Aceh-Aru War 1539, Acehnese war on Aroe, Fall of Aroe, Conquest of Aroe by Atjeh, "Atjehsche vloot's descent on Aroe"]
 tags: [event, war, atjehnese, portuguese, east-coast, colonial, 16th-century]
 ---
 

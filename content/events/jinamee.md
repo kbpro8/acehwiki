@@ -2,7 +2,7 @@
 title: Jinamee
 aliases: [Jinamee, jinamec, jinanam, jina mae, jinamë, wedding gift, janji-jinamee, Janji jinamee, Jinamee period, Dowry period, Peungkleh ceremony]
 tags: [event, ceremony, sultanate, accession, adat, family-law, marriage-custom, inheritance]
-description: The Achehnese wedding gift or dowry — central to Achehnese family law in the form of the janji jinamee (dowry period) and to the sultanate-accession ceremony in the form of the Sultan's jinamee to the three panglima sagi.
+description: "The Achehnese wedding gift or dowry — central to Achehnese family law in the form of the janji jinamee (dowry period) and to the sultanate-accession ceremony in the form of the Sultan's jinamee to the three panglima sagi."
 ---
 
 The **Jinamee** (also spelled *jinamec* or *jinamë*) is the Achehnese term for the wedding gift or dowry given at marriage, an institution of central importance in Achehnese family law and adat. The term has two principal applications: (1) the *janji jinamee* — literally "the dowry period agreed on" — designating the period after marriage during which a wife remains a charge upon her parents rather than upon her husband; and (2) the ceremonial *jinamee* presented by a newly installed [[Sultan of Acheh]] to each of the three [[panglima sagi]] on the occasion of his accession, symbolising the metaphorical marriage-contract by which the sultan was joined to the federated dominions of [[Acheh]] proper. Both applications are described by [[C. Snouck Hurgronje|C. Snouck Hurgronje]] in *[[The Achehnese]]* Vol. I.

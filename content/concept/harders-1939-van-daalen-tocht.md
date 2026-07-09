@@ -1,5 +1,5 @@
 ---
-title: De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden 1904 (Harders, 1939)
+title: "De tocht van Overste van Daalen door de Gajo-, Alas- en Bataklanden 1904 (Harders, 1939)"
 aliases: [J. E. Harders, Harders, Harders van Daalen, J. E. Harders 1939, Harders 1939, De tocht van Overste van Daalen door de Gajo- Alas- en Bataklanden 1904, Harders van Daalen tocht 1904, Van Daalen campaign Harders account]
 tags: [document, article, person, author, dutch, colonial, military, atjeh, gajo, alas, batak, van-daalen, 1904, 1939, officersvereeniging, tichelmann]
 ---

@@ -1,5 +1,5 @@
 ---
-title: Frederick II, Holy Roman Emperor
+title: "Frederick II, Holy Roman Emperor"
 aliases: [Frederick II, Holy Roman Emperor, Emperor Frederick II]
 tags: [person, emperor, european, diplomatic]
 ---

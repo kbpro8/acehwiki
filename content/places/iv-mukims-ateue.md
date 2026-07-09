@@ -1,6 +1,6 @@
 ---
 title: IV Mukims Ateue
-aliases: [IV Mukims Ateue', Four Mukims Ateue, IV Mukims of the XXVI, Peuet Mukim Ateue]
+aliases: ["IV Mukims Ateue', Four Mukims Ateue, IV Mukims of the XXVI, Peuet Mukim Ateue"]
 tags: [place, mukim, uleebalangship, sagi]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Ibn Sabʿīn
-aliases: [Ibn Sab'in, Ibn Sabʿīn, Sābʿīn]
+aliases: ["Ibn Sab'in, Ibn Sabʿīn, Sābʿīn"]
 tags: [person, philosopher, mystic, islamic]
 ---
 **Ibn Sabʿīn** was a 13th‑century Andalusian philosopher‑mystic, a student of [[Ibn Arabi]], whose method of composing “takhmis” (expansions) of existing poems is cited in the source as an inspiration for later writers who admired [[Cheikh al‑Būsīrī]]’s *Burda*. While not directly an Acehnese figure, his literary technique influenced Acehnese scholars who produced Malay commentaries on the *Burda* during the 16th century.

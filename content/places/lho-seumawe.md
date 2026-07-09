@@ -1,6 +1,6 @@
 ---
-title: Lho' Seumawe
-aliases: [Lhokseumawe, Lho Seumawe, Lho' Seumawé, Lho Seumawe (north coast), Lho' Seumawe, Lhô Seumawe, Lho Seumawan, Lhô Seumawè, Lhò' Seumawè, Lhoseumawe, Lhöi Seumawè]
+title: "Lho' Seumawe"
+aliases: [Lhokseumawe, Lho Seumawe, "Lho' Seumawé, Lho Seumawe (north coast), Lho' Seumawe", Lhô Seumawe, Lho Seumawan, Lhô Seumawè, "Lhò' Seumawè, Lhoseumawe, Lhöi Seumawè"]
 tags: [place, north-east-coast, coast, uleebalangship, north-coast, north-east, mahraja, port, noordkust, oostkust, colonial, harbour]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Panglima
-aliases: [Panglima's, Panglima of Pedir, Panglima of Deli, Panglima (Atjeh regional commander), Atjeh Panglima, Panglima Raja, Panglima Radja, Panglima-raja, Panglimah Radja, Panglima-Radja of Padang]
+aliases: ["Panglima's, Panglima of Pedir, Panglima of Deli, Panglima (Atjeh regional commander), Atjeh Panglima, Panglima Raja, Panglima Radja, Panglima-raja, Panglimah Radja, Panglima-Radja of Padang"]
 tags: [concept, office, atjehnese, military, regional-administration, title, malay, achehnese, sumatra, colonial]
 ---
 **Panglima** was the title of the regional military commanders of the [[Acheh|Atjeh]] sultanate in the seventeenth century — the Sultan's appointed governors or war-chiefs of the subordinate territories of the sultanate. In [[E. C. Godee Molsbergen|Godee Molsbergen]]'s account of [[Pieter Soury's mission to Atjeh (1641)|Soury's embassy of 1641]] the *Panglima's* of [[Pedir]] and [[Deli]] appear together with "nog vele anderen" (many others) at an audience before the [[Sultana of Atjeh (1641)|Sultana]] at which the request for "Portugeesche jonge dochterkens" — Portuguese maidens as *losprijs* (ransom) — was put to the Dutch.

@@ -1,6 +1,6 @@
 ---
 title: Establishment of the bale menhakamah (religious court)
-aliases: [Bale menhakamah, Bale iuhakimah, Achehnese religious court, Habib Abdurrahman's court]
+aliases: [Bale menhakamah, Bale iuhakimah, Achehnese religious court, "Habib Abdurrahman's court"]
 tags: [event, political, religious, treaty, law, adat]
 ---
 

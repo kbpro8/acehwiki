@@ -1,6 +1,6 @@
 ---
-title: Van Bemmelen's The Geology of Indonesia (1949)
-aliases: [The Geology of Indonesia (1949), Van Bemmelen 1949, Geology of Indonesia Vol. II, Van Bemmelen's Economic Geology]
+title: "Van Bemmelen's The Geology of Indonesia (1949)"
+aliases: [The Geology of Indonesia (1949), Van Bemmelen 1949, Geology of Indonesia Vol. II, "Van Bemmelen's Economic Geology"]
 tags: [event, source-document, dutch, colonial, geological-survey]
 ---
 

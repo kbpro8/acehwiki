@@ -2,7 +2,7 @@
 title: Atjeh Dress
 aliases: [Acehnese dress, Atjehsche kleederdracht, Acehnese clothing, traditional Acehnese costume, kostuum der Atjehers]
 tags: [concept, culture, dress, clothing, material-culture, achehnese, sumatra]
-description: The traditional dress of the Atjehers (Acehnese) is distinguished by wide trousers worn by both men and women, an upper jacket (baadje), and for women an additional cloth draped over the shoulders.
+description: "The traditional dress of the Atjehers (Acehnese) is distinguished by wide trousers worn by both men and women, an upper jacket (baadje), and for women an additional cloth draped over the shoulders."
 ---
 **Atjeh Dress** (Dutch: *Atjehsche kleederdracht*) is the traditional clothing of the [[Atjehers]], distinguished by the wide trousers (*wijde broek*) worn by both men and women.
 

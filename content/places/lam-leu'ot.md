@@ -1,6 +1,6 @@
 ---
-title: Lam Leu'ot
-aliases: [Lam-Leu'ot, Lamleu'ot, Lam Leuot, Lam Leu'ot (XXII Mukims)]
+title: "Lam Leu'ot"
+aliases: ["Lam-Leu'ot, Lamleu'ot", Lam Leuot, "Lam Leu'ot (XXII Mukims)"]
 tags: [place, gampong, xxii-mukims]
 ---
 

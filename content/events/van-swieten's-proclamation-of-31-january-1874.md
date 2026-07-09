@@ -1,6 +1,6 @@
 ---
-title: Van Swieten's Proclamation of 31 January 1874
-aliases: [Proclamatie van 31 Januari 1874, Proclamation of 31 January 1874, Annexation of Groot-Atjeh, Van Swieten's Annexation Proclamation]
+title: "Van Swieten's Proclamation of 31 January 1874"
+aliases: [Proclamatie van 31 Januari 1874, Proclamation of 31 January 1874, Annexation of Groot-Atjeh, "Van Swieten's Annexation Proclamation"]
 tags: [document, proclamation, dutch-colonial, aceh-war, colonial, sovereignty]
 ---
 

@@ -2,7 +2,7 @@
 title: Perlak
 aliases: [Perlak, Perlac, Muslim principality of Perlak, Moslimsch rijkje Perlak]
 tags: [concept, sultanate, early-islam, sumatra, north-sumatra, history, medieval]
-description: Perlak was one of the earliest Muslim principalities (Moslimsch rijkje) on the north-east coast of Sumatra, established by around 1500. It is cited in the 1926 atlas as evidence for the early penetration of Islam into the Indonesian Archipelago.
+description: "Perlak was one of the earliest Muslim principalities (Moslimsch rijkje) on the north-east coast of Sumatra, established by around 1500. It is cited in the 1926 atlas as evidence for the early penetration of Islam into the Indonesian Archipelago."
 ---
 **Perlak** was one of the earliest Muslim principalities (Dutch: *Moslimsch rijkje*) on the north-east coast of [[Sumatra]], established by approximately [[1500]]. It is cited in the *Nederlandsch Indië Platen Atlas* ([[1926]]) as part of the evidence for the early penetration of Islam into the Indonesian Archipelago.
 

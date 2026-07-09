@@ -1,5 +1,5 @@
 ---
-title: Jansma, Marine
+title: "Jansma, Marine"
 aliases: [Marine Jansma]
 tags: [person, marine, dutch, colonial]
 ---

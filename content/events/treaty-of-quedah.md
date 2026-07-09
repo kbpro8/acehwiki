@@ -1,5 +1,5 @@
 ---
-title: Treaty of Quedah (Penang cession, 1786)
+title: "Treaty of Quedah (Penang cession, 1786)"
 aliases: [Penang treaty 1786, afstand van Pinang 1786, Quedah-Penang treaty]
 tags: [event, treaty, diplomacy, colonial]
 ---

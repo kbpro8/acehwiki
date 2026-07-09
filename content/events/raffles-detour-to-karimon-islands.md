@@ -1,5 +1,5 @@
 ---
-title: Raffles' detour to Karimon Islands
+title: "Raffles' detour to Karimon Islands"
 aliases: [Karimons diversion, Singapore detour]
 tags: [event, mission, colonial, anglo-dutch]
 ---

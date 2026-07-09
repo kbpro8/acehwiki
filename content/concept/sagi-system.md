@@ -2,7 +2,7 @@
 title: Sagi System
 aliases: [Sagi, Three Sagis, XXV Mukims, XXVI Mukims, XXII Mukims, sagi, sagiʼ, thagïʼ, Atjehsche federatie, side]
 tags: [concept, government, territory, achehnese, federation, administration]
-description: The three-sagi territorial division of Great Acheh — the XXII Mukims (highland), the XXV Mukims, and the XXVI Mukims — each led by a panglima sagi, forming the highest tier of Acehnese territorial administration.
+description: "The three-sagi territorial division of Great Acheh — the XXII Mukims (highland), the XXV Mukims, and the XXVI Mukims — each led by a panglima sagi, forming the highest tier of Acehnese territorial administration."
 ---
 
 **The Sagi System** was the highest tier of territorial administration in [[Great Acheh]], dividing the heartland into three great districts (*sagi*, from Malay *segi*, "side" or "angle"), each comprising a fixed number of [[Mukim|mukims]] and each led by a *panglima sagi* (sagi chief).

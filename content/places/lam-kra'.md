@@ -1,6 +1,6 @@
 ---
-title: Lam Kra'
-aliases: [Lam-Kra', Lamkra', Lam Kra (XXII Mukims)]
+title: "Lam Kra'"
+aliases: ["Lam-Kra', Lamkra'", Lam Kra (XXII Mukims)]
 tags: [place, mukim, xxii-mukims]
 ---
 

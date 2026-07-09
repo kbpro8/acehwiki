@@ -1,6 +1,6 @@
 ---
-title: Jameson's raid comparison
-aliases: [Jameson raid parallel, Jameson-Raffles comparison, parallel between Jameson's raid and Raffles' Palembang raid]
+title: "Jameson's raid comparison"
+aliases: [Jameson raid parallel, Jameson-Raffles comparison, "parallel between Jameson's raid and Raffles' Palembang raid"]
 tags: [event, colonial, correspondence, anglo-dutch]
 ---
 

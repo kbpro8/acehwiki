@@ -1,5 +1,5 @@
 ---
-title: Anderson's Mission to the East Coast of Sumatra (1825)
+title: "Anderson's Mission to the East Coast of Sumatra (1825)"
 aliases: [Anderson Mission 1825, Mission to the East Coast of Sumatra, Anderson 1825]
 tags: [document, report, colonial, british, east-coast, 19th-century]
 ---

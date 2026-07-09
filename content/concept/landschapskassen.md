@@ -2,7 +2,7 @@
 title: Landschapskassen
 aliases: [Territorial treasuries, landschapskas, onderafdeelingskas, afdeelingskas, landschap kas, the territorial treasury system of the zelfbesturen]
 tags: [concept, colonial, dutch, finance, administration, buitenbezittingen, aceh, zelfbesturen]
-description: The "territorial treasuries" of the self-governing territories (zelfbesturen) of the Outer Possessions — the institutional treasuries into which all revenues of a landschap were paid and from which all expenditures for the benefit of the landschap were funded, under Gouvernement oversight.
+description: "The \"territorial treasuries\" of the self-governing territories (zelfbesturen) of the Outer Possessions — the institutional treasuries into which all revenues of a landschap were paid and from which all expenditures for the benefit of the landschap were funded, under Gouvernement oversight."
 ---
 
 **The Landschapskassen** ("territorial treasuries," singular *landschapskas*) were the institutional treasuries of the [[Zelfbesturen|zelfbesturen (self-governing territories)]] of the [[Buitenbezittingen|Outer Possessions]], into which all revenues of a landschap were paid and from which all expenditures for the benefit of the landschap were funded, under the oversight of the Dutch Gouvernement. In the Encyclopaedisch Bureau's account, the landschapskassen were the principal financial instrument of the post-[[Pacificatie van Atjeh|pacification]] consolidation of Dutch rule in [[Acheh|Atjeh]] and the wider Buitenbezittingen — the institutional embodiment of the principle that the revenues of a landschap belonged to the landschap (rather than to its ruler) and were to be spent, under Gouvernement oversight, for the benefit of land and people.

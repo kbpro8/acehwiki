@@ -1,5 +1,5 @@
 ---
-title: Taboet- of Hasji-Hosseinfeest (Jongejans, 1939)
+title: "Taboet- of Hasji-Hosseinfeest (Jongejans, 1939)"
 aliases: [Jongejans Taboet 1939, Taboet- of Hasji-Hosseinfeest, Taboet festival Jongejans, Hasji Hossein festival Atjeh, Taboet Onze Aarde 1939, Tabut festival Atjeh, Hossein festival Sumatra]
 tags: [document, article, colonial, religious, atjeh, taboet, hossein, shia, jongejans, 1939, onze-aarde, festival]
 ---

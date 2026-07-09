@@ -1,6 +1,6 @@
 ---
-title: Kleiland-aanwinning op Atjeh's Westkust in 1902 (Brandhof, 1939)
-aliases: [Brandhof 1939, Kleiland-aanwinning op Atjeh's Westkust, Land reclamation on Atjeh's West Coast 1902, Brandhof Atjeh Westkust, Brandhof 1902 kleiland]
+title: "Kleiland-aanwinning op Atjeh's Westkust in 1902 (Brandhof, 1939)"
+aliases: [Brandhof 1939, "Kleiland-aanwinning op Atjeh's Westkust, Land reclamation on Atjeh's West Coast 1902", Brandhof Atjeh Westkust, Brandhof 1902 kleiland]
 tags: [document, article, colonial, geographical, atjeh, westkust, 1902, 1939, land-reclamation]
 ---
 

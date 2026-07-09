@@ -1,5 +1,5 @@
 ---
-title: Teuku Ba'et
+title: "Teuku Ba'et"
 tags: [person]
 ---
 

@@ -2,7 +2,7 @@
 title: Marine Landings Division
 aliases: [Marine Landings Division, Marine Landing Division, Marine Landing Division (Aceh 1873), Marine-landingsdivisie, Landingsdivisie der marine]
 tags: [organization, military, colonial, dutch, marine, amphibious, aceh, 1873, netherlands]
-description: The amphibious infantry landing formation of the Royal Netherlands Marine Corps, deployed in the Dutch colonial campaigns against Acehnese fortified settlements in 1868–1870 and assembled as a combined amphibious force for the 1873 Aceh expedition under Captain-ter-zee Binkes.
+description: "The amphibious infantry landing formation of the Royal Netherlands Marine Corps, deployed in the Dutch colonial campaigns against Acehnese fortified settlements in 1868–1870 and assembled as a combined amphibious force for the 1873 Aceh expedition under Captain-ter-zee Binkes."
 ---
 
 > **Note on nomenclature.** The formation is variously called the *Marine Landing Division* (singular, used specifically for the [[1873]] Aceh expedition force), the *Marine Landings Division* (plural, the standard modern form used for the broader standing formation of the [[Royal Netherlands Marine Corps]]), and in the original Dutch both *Marine-landingsdivisie* and *Landingsdivisie der marine*. The article treats these as a single organisational entity — the amphibious landing formation of the [[Royal Netherlands Marine Corps|Dutch Marine Corps]] — whose deployments span the [[1868]]–[[1870]] expeditions against the fortified Acehnese settlements of [[Bandjar|Bandjar]], [[Kali-Anget|Kali-Anget]] and [[Kampong Djentarek|Kampong Djentarek]], and the [[1873]] Aceh expedition under [[Captain-terr zee Binkes|Captain-ter-zee Binkes]].

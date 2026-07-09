@@ -2,7 +2,7 @@
 title: Volkslectuur
 aliases: [Bureau voor de Volkslectuur, Bureau voor Volkslectuur, Volkslectuur Weltevreden]
 tags: [organization, government-institution, colonial, dutch, education, publishing, weltevreden]
-description: Volkslectuur (Bureau for Popular Reading) was a Dutch colonial government institution based in Weltevreden, Java, that published useful literature in the principal indigenous languages of the Dutch East Indies. It published the Nederlandsch Indië Platen Atlas in 1926.
+description: "Volkslectuur (Bureau for Popular Reading) was a Dutch colonial government institution based in Weltevreden, Java, that published useful literature in the principal indigenous languages of the Dutch East Indies. It published the Nederlandsch Indië Platen Atlas in 1926."
 ---
 **Volkslectuur** (English: Popular Reading; officially *Bureau voor de Volkslectuur en aanverwante aangelegenheden*) was a Dutch colonial government institution based in [[Weltevreden]], [[Java]], responsible for publishing and distributing useful literature in the principal indigenous languages of the [[Netherlands India|Dutch East Indies]]. Under the direction of Dr. C. P. Gunning, it published the *[[Nederlandsch Indië Platen Atlas (1926)]]* in January [[1926]].
 

@@ -1,5 +1,5 @@
 ---
-title: Teungku di Kuala Abdora'oh
+title: "Teungku di Kuala Abdora'oh"
 tags: [person]
 ---
 

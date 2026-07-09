@@ -1,6 +1,6 @@
 ---
 title: Death of Sultan Jauhar Alum
-aliases: [Jauhar Alum's death 1823, Death of Jauhar Alum, Sultan Djohor's death]
+aliases: ["Jauhar Alum's death 1823, Death of Jauhar Alum, Sultan Djohor's death"]
 tags: [event, death, succession]
 ---
 
