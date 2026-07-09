@@ -6,6 +6,13 @@
       "runtimeExecutable": "npx",
       "runtimeArgs": ["quartz", "build", "--serve"],
       "port": 8080
+    },
+    {
+      "name": "wiki-pipeline",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["start", "--prefix", "wiki-pipeline"],
+      "port": 5177,
+      "autoPort": true
     }
   ]
 }

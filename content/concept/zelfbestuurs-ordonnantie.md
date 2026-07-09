@@ -5,7 +5,7 @@ tags: [concept, colonial, dutch, ordinance, administration, sovereignty, buitenb
 description: The 1914 Self-Government Ordinance (Stbl. 1914 No. 24) — the Dutch colonial ordinance that codified the rights, competences, and obligations of the Gouvernement and the zelfbesturen (self-governing territories) under the Korte Verklaring regime.
 ---
 
-**The Zelfbestuurs-ordonnantie** ("Self-Government Ordinance," **Stbl. 1914 No. 24**) was the Dutch colonial ordinance promulgated in [[1914]] that codified the rights, competences, and obligations of the Gouvernement on one hand and of the [[Zelfbesturen|zelfbesturen (self-governing territories)]] on the other under the regime of the [[Korte Verklaring|Korte Verklaring]] that had been in force since [[1899]]. In the Encyclopaedisch Bureau's account, the ordinance was the legal capstone of the post-[[Pacificatie van Atjeh|pacification]] order in [[Acheh|Atjeh]] and the wider Buitenbezittingen: the ordinance that translated the *de facto* extension of Dutch authority since the [[Toekoe Oemar's verraad (1896)|betrayal of Toekoe Oemar in 1896]] into a *de jure* framework of colonial governance.
+**The Zelfbestuurs-ordonnantie** ("Self-Government Ordinance," **Stbl. 1914 No. 24**) was the Dutch colonial ordinance promulgated in [[1914]] that codified the rights, competences, and obligations of the Gouvernement on one hand and of the [[Zelfbesturen|zelfbesturen (self-governing territories)]] on the other under the regime of the [[Korte Verklaring|Korte Verklaring]] that had been in force since [[1899]]. In the Encyclopaedisch Bureau's account, the ordinance was the legal capstone of the post-[[Pacificatie van Atjeh|pacification]] order in [[Acheh|Atjeh]] and the wider Buitenbezittingen: the ordinance that translated the *de facto* extension of Dutch authority since the [[Toekoe Oemar's verraad (1896)|betrayal of Toekoe Oemar in 1896]] into a *de jure* framework of colonial governance. The ordinance was the formal legal outcome of the theoretical and practical discussions conducted during the [[1913]]–[[1914]] [[1913–1914 Administrative Reform Meetings (Sumatra)|administrative reform consultations]] held across Sumatra.
 
 ## Account from *De Buitenbezittingen* (1917) — Zelfbestuurs-ordonnantie
 
@@ -30,7 +30,12 @@ The [[Zelfbestuurs-ordonnantie|Zelfbestuurs-ordonnantie]] of [[1914]] is, in the
 - [[Atjeh en Onderhoorigheden]]
 - [[Pacificatie van Atjeh]]
 - [[Departement van Binnenlandsch Bestuur]]
+- [[1913–1914 Administrative Reform Meetings (Sumatra)]]
+- [[Bestuurswezen reorganisatie]]
+- [[Gewestielle Raad]]
+- [[Administrative Decentralization (Dutch East Indies)]]
 - [[1899]]
+- [[1913]]
 - [[1914]]
 
 ## Sources

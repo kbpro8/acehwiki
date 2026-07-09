@@ -13,7 +13,7 @@ The Encyclopaedisch Bureau's volume is, in its own framing, a "sketch of the dev
 
 The Bureau's statistical tables of the Buitenbezittingen as a whole enumerate the following gewesten (regions) in [[1912]]: [[Sumatra's Westkust|Sumatra's West Coast]], [[Tapanoeli|Tapanuli]], [[Benkoelen|Bencoolen]], [[Lampongsche Districten|Lampong Districts]], [[Palembang|Palembang]], [[Djambi|Djambi]], [[Oostkust van Sumatra|East Coast of Sumatra]], [[Atjeh en Onderhoorigheden|Atjeh and Dependencies]], [[Riouw en Onderhoorigheden|Riouw and Dependencies]], [[Banka en Onderhoorigheden|Banka and Dependencies]], [[Billiton|Billiton]], [[Westerafdeeling van Borneo|Western Division of Borneo]], [[Zuider- en Oosterafdeeling van Borneo|Southern and Eastern Division of Borneo]], [[Celebes en Onderhoorigheden|Celebes and Dependencies]], [[Menado|Menado]], [[Amboina en Onderhoorigheden|Amboina and Dependencies]], [[Ternate en Onderhoorigheden|Ternate and Dependencies]], [[Timor en Onderhoorigheden|Timor and Dependencies]], and [[Bali en Lombok|Bali and Lombok]]. The Bureau's population table records a total Buitenbezittingen population of approximately 11.4 million inlanders (natives), 81,000 Europeans, 611,000 Chinese, and 9,000 Arabs in [[1912]].
 
-The Bureau's narrative of the [[1904]]–[[1914]] decade presents the Buitenbezittingen as the principal theatre of the Dutch colonial project in the early twentieth century — the theatre in which the [[Pacificatie van Atjeh|pacification of Atjeh]], the [[1910]] centralisation of the [[Landschapskassen|landschapskassen]], the [[1913]] [[Aroe-baai-plannen|Aroe-baai-plannen]], and the [[1914]] [[Zelfbestuurs-ordonnantie|Zelfbestuurs-ordonnantie]] all took place. The Bureau's framing makes the Buitenbezittingen — and especially Atjeh — the principal locus of the Dutch colonial "modernisation" project of the early twentieth century.
+The Bureau's narrative of the [[1904]]–[[1914]] decade presents the Buitenbezittingen as the principal theatre of the Dutch colonial project in the early twentieth century — the theatre in which the [[Pacificatie van Atjeh|pacification of Atjeh]], the [[1910]] centralisation of the [[Landschapskassen|landschapskassen]], the [[1913]] [[Aroe-baai-plannen|Aroe-baai-plannen]], the [[1913]]–[[1914]] [[1913–1914 Administrative Reform Meetings (Sumatra)|administrative reorganization consultations]], and the [[1914]] [[Zelfbestuurs-ordonnantie|Zelfbestuurs-ordonnantie]] all took place. The Bureau's framing makes the Buitenbezittingen — and especially Atjeh — the principal locus of the Dutch colonial "modernisation" project of the early twentieth century.
 
 ## Significance
 
@@ -28,6 +28,10 @@ The Buitenbezittingen are, in the Encyclopaedisch Bureau's account, the principa
 - [[Korte Verklaring]]
 - [[Zelfbestuurs-ordonnantie]]
 - [[Aroe-baai-plannen]]
+- [[1913–1914 Administrative Reform Meetings (Sumatra)]]
+- [[Bestuurswezen reorganisatie]]
+- [[Administrative Decentralization (Dutch East Indies)]]
+- [[Gewestielle Raad]]
 - [[Bureau voor de Bestuurszaken der Buitenbezittingen]]
 - [[Adviseur voor de Bestuurszaken der Buitenbezittingen]]
 - [[Encyclopaedisch Bureau]]

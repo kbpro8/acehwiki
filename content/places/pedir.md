@@ -64,6 +64,10 @@ The upper lands of Pedir became a refuge for irreducible hostile chiefs – [[Pa
 
 The Dutch marine corps history (*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*) records that on [[29 December]] [[1873]] a squadron commanded by [[Captain-terr zee Van Gogh]] attacked Pedir, seized the town briefly and then withdrew to a beach bivouac. The operation was part of a broader strategy to control the mouth of the [[Atjeh River]] and to curtail the flow of supplies to Acehnese resistance. The action underscores Pedir’s continued strategic relevance into the late nineteenth century.
 
+### Significance
+
+Pedir's persistent hostility throughout the first phase of the [[Aceh War|Atjeh-oorlog]] illustrates the limits of Dutch authority outside the immediate neighbourhood of [[Kota Radja|Kota Radja]]. The landscape's notables — especially the self-reliant chief Toekoe di Tiroe — kept up resistance long after the formal conquest of Great Acheh in [[1879]], and the upper lands of Pedir served as the refuge of the irreducible hostile chiefs until the next phase of the war under Governor [[Van Heutsz|Van Heutsz]] after [[1898]].
+
 ## Economy
 
 The Pedir plain’s rice surplus was, until the European war, mostly hoarded rather than exported – “de Pedirees, liever dan zijn productie‑overschot te verkoopen, dit gedurende jaren opschuurt”. The war‑time pressure exerted by the Dutch administration to release these hoards made Pedir rice available for export to the [[Oostkust van Sumatra|Oostkust van Sumatra]] in [[1914]] and [[1915]], substantially reducing the territory’s dependence on imported rice.
@@ -119,7 +123,6 @@ Overall, Pedir illustrates the intertwining of trade, diplomacy and warfare on t
 - [[Aceh War]]
 - [[Van Heutsz]]
 - [[Houtman brothers' visit to Atjeh (1599)]]
-- [[Death of Cornelis de Houtman at Atjeh (1599)]]
 - [[Diogo Lopez de Sequeira]]
 - [[Pasei]]
 - [[Bantam]]
