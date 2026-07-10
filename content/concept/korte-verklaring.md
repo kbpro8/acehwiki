@@ -70,6 +70,20 @@ The Korte Verklaring was designed to:
 
 In Aceh, the Korte Verklaring was applied after the submission of **[[Panglima Polem]]** and other leaders. It was the instrument by which nominal Dutch authority was replaced with effective control.
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] provides the following account of the *Korte Verklaring* specifically for Atjèh.
+
+The *Korte Verklaring* (the "short declaration," specifically the *korte Atjèhverklaring* for Atjèh) was a three-article declaration drafted by [[J. B. van Heutsz|Van Heutsz]] and [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]] after [[1898]], replacing the earlier 6- and 18-article declarations. The three articles were: (1) the self-bestuurder recognised Dutch sovereignty; (2) the self-bestuurder agreed not to engage foreign powers; (3) the self-bestuurder promised to follow all regulations and orders from the governor.
+
+**Earlier declarations replaced**: The *Korte Verklaring* replaced the **6-article declaration** issued by luitenant-generaal [[J. van Swieten|Van Swieten]] on [[31 January]] [[1874]] after the kraton conquest, and the **18-article declarations** (verklaringen in achttien artikelen) made by landschapshoofden after [[1877]], ceding opium, gambling, and import/export rights to the Government with *schadeloosstelling* (compensation).
+
+**Uniform model and Zelfbestuursregelen**: The *Korte Verklaring* was later replaced by the "uniform model Korte Verklaring," standardising the declaration across the buitengewesen. The [[Zelfbestuursregelen 1919|Zelfbestuursregelen 1919]] (Stbl. [[1919]] N°. 822) further redefined the relationship between the Land (State) and the Zelfbesturen; after this, all concession rights (mining, agriculture, forestry) were removed from short-declaration zelfbesturen.
+
+Notable signatories included **Këdjoeroen Bidin** of [[Gajö Loeüs|Gajö Loeüs]], who signed on [[9 November]] [[1903]] in Koeta Radja, and the Zelfbestuurder of [[Troemon|Troemon]], who signed in [[1911]].
+
+**Mr. H. J. Spit's critique**: Mr. H. J. Spit, in his proefschrift "De Indische zelfbesturende landschappen" (p. 10), discussed the third article of the Korte Verklaring, which required the zelfbestuurder to follow all regulations and orders from the governor — a potentially far-reaching obligation that was in practice limited by the principle of self-rule.
+
 ## See Also
 - [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]

@@ -33,6 +33,18 @@ A key feature of the *Hikajat Malém Dagang* that distinguishes it from its Mala
 
 The *Hikajat Malém Dagang* is significant as the principal surviving example of the Atjehnese-language chronicle-epic tradition, and as the source on which the Malay *[[Hikajat Sultan Atjeh Marhoem]]* is a (somewhat diminished) reworking. Its preservation of the [[Pakeh Madina]]/*[[Fakih Madinah]]* episode is the principal textual evidence for the survival of pre-Islamic *pawang* practice in the Islamicised Atjehnese court, and its *Atjehse humor* is the principal literary evidence for the Atjehnese self-image of the sultanate's wars against [[Djohor]] and [[Malacca]] in the early seventeenth century. Its plot — the naval expedition of [[Sultan Iskandar Muda|Eseukanda Muda]] against [[Si Ujut]], with [[Malem Dagang]] as the chief *panglima* of the fleet appointed through the mediation of [[Ja Pakeh]] — is the oldest and most celebrated of the Acehnese epic *hikayats*.
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] provides the following account of the *Hikajat Malém Dagang*.
+
+The *Hikajat Malém Dagang* was one of the two oldest Atjèhnese *hikajat*'s — narrative poems in *sandja*-meter — singing of an episode from Sultan [[Sultan Iskandar Moeda|Iskandar Moeda]]'s ([[1607]]–[[1636]]) struggle against [[Malaka|Malaka]]. Though without historical value as strict history, its style is thoroughly Atjèhnese.
+
+The *hikajat* describes Sultan Iskandar Moeda's famous attack on Malaka in [[1629]], in which his *La seumana* (admiral) was captured. The grave of this La seumana is pointed out in the kampoeng [[Pandé|Pandé]] near [[Koeta Radja|Koeta Radja]].
+
+Each *hikajat* verse has 4 parts: the 2 middle parts rhyme with each other, and the end-word rhymes with the end-word of other verses. The *hikajat*'s are sung (*beuét*) on specific melodies. A *hikajat* may be humoresque (*hikajat roehé*), history, romance, fable, religious legend, or moral lesson.
+
+The *Hikajat Malém Dagang* is one of the two oldest Atjèhnese *hikajat*'s, alongside the *[[Potjoet Moehamat|Hikajat Pötjoet Moehamat]]*. While the *Hikajat Malém Dagang* "has no historical value but the style is thoroughly Atjèhnese," the *Potjoet Moehamat* is "on firmer historical ground" and was called "a jewel of Atjèhnese, indeed Inlandsche, literature" by [[C. Snouck Hurgronje|Snouck Hurgronje]].
+
 ## See Also
 
 - [[Hikajat Sultan Atjeh Marhoem]]
@@ -53,8 +65,10 @@ The *Hikajat Malém Dagang* is significant as the principal surviving example of
 - [[1613]]
 - [[1615]]
 
-## Source
+## Sources
 
 *Over Maleise Literatuur*, by Dr. C. Hooykaas, Hoogleraarte Batavia; Tweede Druk (Leiden: E. J. Brill, 1947), chapter 11 ("Geschiedschrijving in het Maleis"), pp. 95-96; chapter 3 ("Enige notities over volksgeloof"), pp. 21-22; Toelichting tot de Sadjarah Malajoe, aantekening bij 24/2, p. 237.
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.

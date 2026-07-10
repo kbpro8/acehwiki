@@ -28,6 +28,20 @@ Upon the dissolution of the marriage, [[B. ter Haar BzN|Ter Haar]] notes, a port
 
 For AcehWiki, the *djinamée* is significant as the Atjehnese marriage gift — the payment that validates the Atjehnese marriage and that has coalesced with the Muslim *mas kawin* — and as a key example in [[B. ter Haar BzN|Ter Haar]]'s systematic account of Indonesian marriage payments. The institution illustrates the interplay of adat and Islam in the Atjehnese marriage: the *djinamée* is an indigenous marriage gift that has absorbed the Muslim *mas kawin*, and it remains the wife's personal property, distinct from the marital community of goods. The institution complements the corpus's existing entries on the Atjehnese marriage — drawn from [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *[[Snouck Hurgronje's De Atjehers (1893-94)|De Atjehers]]* and from *[[De Buitenbezittingen|De Buitenbezittingen]]* — and it furnishes the doctrinal-legal characterisation of the Atjehnese marriage gift within the colonial legal science of the late Netherlands Indies.
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] provides the following account of the *djinamèë* (also *djeunamèë*) in Atjèh.
+
+The *djinamèë* was the Atjèhnese bridewealth / bride-price, paid by the groom to the bride's father immediately after the marriage contract. It was a fusion of the Indonesian bridewealth (purchase price paid to the father-owner) with the Mohammedan *mahr* (gift to the bride herself).
+
+**Tariffs**: The *djinamèë* was tariffed in *boengkaj*'s (units of value, each = 25 guilders): 1 boengkaj (ƒ25) for the poor; 2 boengkaj's (ƒ50) for the middle class; 4 boengkaj's (ƒ100) for notables; and "1 kati gold" (20 boengkaj's = ƒ500) for princesses. The phrase "ihèë tahé sipeuha" ("three tail and one peuha") is purely traditional/theoretical.
+
+**Djinamèë toeëng vs. djinamèë köh**: Two types of bridewealth stipulation existed — *djinamèë toeëng* (no restitution, per *hoeköm* / Islamic law) and *djinamèë köh* (half to be repaid, per *adat* / customary law). This distinction affected the *ha balèë* (widow/widower's right) and *peunoelang* (return gifts) calculations.
+
+**The seulangké**: The *seulangké* was the Atjèhnese marriage broker/intermediary who formally conducted the marriage proposal. He received the "ha seulangké" of ƒ2 for each boengkaj of the bridewealth. The formal marriage proposal visit was called *meuseuleungeuj* (or *peuköng narit*).
+
+**Peungklèh and peutimang**: The *djinamèë* was related to the *peungklèh* ceremony — the formal "setting up" (*uitzetten*) of the daughter independently. The *peutimang* was the period before *peungklèh* when the wife was still maintained by her parents and the husband only brought *biaja boeleuën* (monthly cost money). The duration of *peutimang* depended on the bridewealth: one boengkaj per child born.
+
 ## See Also
 
 - [[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)]]
@@ -44,6 +58,8 @@ For AcehWiki, the *djinamée* is significant as the Atjehnese marriage gift — 
 - [[1939]]
 - [[1950]]
 
-## Source
+## Sources
 
 *Beginselen en Stelsel van het Adatrecht*, door Mr. B. ter Haar Bzn. Vierde ongewijzigde druk. Groningen, Djakarta: J. B. Wolters, 1950. Pp. 168, 169, 171, 178, 192.
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.

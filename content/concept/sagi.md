@@ -20,10 +20,27 @@ The sagi system also had implications for the question of erfelijkheid (heredity
 
 The discussion of erfelijkheid in the context of the sagi system also connected to broader questions about the relationship between the [[Inlandsch Bestuur]] and the colonial administration. Waarnemend Adviseur [[C. Lulofs]] specifically asked whether the Atjeh population proposed candidates for Inlandsche hoofd appointments or whether they were nominated by the European Bestuur, revealing the tension between indigenous participatory traditions and colonial prerogatives. Swart's response—that the population was heard but could be overruled—encapsulated the essential dynamic of the sagi system under colonial rule: indigenous structures were preserved and even cultivated, but ultimate authority rested with the colonial government, which could override traditional practices when they conflicted with administrative efficiency or colonial interests.
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] provides the following detailed account of the three sagi's of [[Groot Atjèh|Groot Atjèh]].
+
+**Sagi** (Atjèhnese for "corner" or "side," cf. *soeröé*) was the term for the three federations or provinces of Groot Atjèh: the [[XXII Moekim's|XXII Moekim's]] (*doea plöh doea*), the [[XXVI Moekim's|XXVI Moekim's]] (*doea plöh nam*), and the [[XXV Moekim's|XXV Moekim's]] (*teungöh Iheë plöh*). Each sagi was headed by a **Panglima Sagi** (locally called "Teukoe Oelèëbalang Ihèë sagöë").
+
+The three sagi-heads were:
+1. **[[XXII Moekim's|XXII Moekim's]]** — sagi-head: [[Panglima Pölém|Panglima Pölém]] (personal name Teukoe Moehamat Dawöt), belonging to the *kawöm* Dja Sandang
+2. **[[XXV Moekim's|XXV Moekim's]]** — sagi-head: **Teukoe Siah Oelatna** (hereditary ambtsnaam)
+3. **[[XXVI Moekim's|XXVI Moekim's]]** — sagi-head: **Imam Moeda** / **Sri Imeum Moeda** (hereditary ambtsnaam)
+
+**The sagi-bank experiments**: In [[1910]]–[[1912]], the [[Groot-Atjèhsche Afdeelingsbank|Groot-Atjèhsche Afdeelingsbank]] funded experimental *sagi-banken* (sagi-level banks) at **Lam Ateuë** (for the XXVI Moekim's, [[1910]], abolished the same year) and **Lam Njöng** ([[1912]], funded by the Afdeelingsbank). Both experiments failed.
+
+**Wakeuëh-districts**: Within the sagi's, some moekim's were *[[wakeuëh|wakeuëh]]*-districts (free-lordly domains) whose chiefs were withdrawn from the authority of the sagi-heads. Examples: in the XXV Moekim's — Loeëng Bata, Pagar Ajé, and Lam Sajoen; in the XXII Moekim's — the III Moekim's Keureukön; in the XXVI Moekim's — Lho' Goelöng, Tjadé' Mön Batèë, and Koeala Gigiëng (the latter now no longer existing).
+
 ## See Also
 
 [[H. N. A. Swart|H. N. N. A. Swart]], [[Groot-Atjeh]], [[Peleebalangschap]], [[Moekimschap]], [[Inlandsch Bestuur]], [[Erfelijkheid in Atjeh hoofd appointments]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Rechtstreeks bestuurd gebied]]
 
-## Source
+## Sources
 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 128-129.
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.

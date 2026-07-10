@@ -21,6 +21,24 @@ The Bureau's account of the funding of smaller works in the rechtstreeks bestuur
 
 [[Heerendienst|The heerendienst]] is, in the Encyclopaedisch Bureau's account, the principal labour instrument of the older, pre-systematic phase of road construction in the Buitenbezittingen — the system by which the population of the outer possessions, including [[Acheh|Atjeh]], was obliged to provide unpaid labour for public works. The gradual replacement of the heerendienst by free labour in the [[1904]]–[[1914]] decade — through the [[Wegenplan Sumatra|Sumatra road plan]] of the [[Departement der Burgerlijke Openbare Werken|B.O.W.]] and through the institution of the afkoop (buy-out) fund — marks one of the principal social reforms of the post-[[Pacificatie van Atjeh|pacification]] consolidation.
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] provides the following detailed account of *heerendiensten* in [[Aceh|Atjèh]] specifically.
+
+*Heerendiensten* was the Dutch colonial system of forced labour services for public works (road, bridge, dam construction) in Atjèh. Not native to Atjèhnese adat, it was introduced in [[1898]] for road construction under military supervision, without formal regulation. Often excessive demands caused population flight.
+
+[[J. B. van Heutsz|Van Heutsz]]'s **Instructie voor de onderafdeelingschefs in de Onderhoorigheden** of [[7 May]] [[1902]] limited *heerendiensten* to **52 days per year per man** and required weighing benefit to local population.
+
+The first formal *heerendiensten* regulation for the afdeeling [[Groot Atjèh|Groot-Atjèh]] was issued as Stbl. [[1908]] N°. 509, effective [[1 October]] [[1908]]. The maximum was **24 days per year per man**. Modified by Stbl. [[1910]] N°. 471, [[1913]] N°. 37, [[1918]] N°. 710.
+
+*Heerendiensten* in the directly-governed territory of onderafdeeling [[Singkel|Singkel]] was regulated by Stbl. [[1909]] N°. 525 j°. [[1910]] N°. 471, 637; [[1913]] N°. 37; [[1918]] N°. 710, effective [[1 January]] [[1910]]. The maximum was 36 days per year per man.
+
+From [[1 January]] [[1919]], *heerendiensten* were abolished for the first construction and major realignments/improvements of the large paved through-roads in the gewest (both Gouvernements- and zelfbestuursgebied), by Stbl. [[1918]] N°. 710.
+
+Trial of complete *afkoop* (commutation) began in [[1919]] in landschap [[Peureula'|Peureula']] and onderafdeeling Lhö' Nga. Extended [[1920]]–[[1921]] to: entire afdeeling Groot Atjèh, onderafdeelingen Sigli, Meureudoe, large parts of Lhö' Soekön, Idi, Langsa, Tëmiang. The *afkoop* price was ƒ3 per person per year. The complementary **Hoofdgeldordonnantie voor de Buitengewesen** (Stbl. [[1921]] N°. 225) replaced heerendienst obligation with a money payment according to ability.
+
+*Heerendiensten* was distinguished from *meuseuraja* — the Atjèhnese practice of mutual aid among neighbours (e.g., for agricultural work), either reciprocally or for a small food gift. *Meuseuraja* was a voluntary, reciprocal practice rooted in adat, while *heerendiensten* was a colonial imposition.
+
 ## See Also
 
 - [[Wegenplan Sumatra]]
@@ -34,3 +52,5 @@ The Bureau's account of the funding of smaller works in the rechtstreeks bestuur
 ## Sources
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 52–56 (section "De aanleg van wegen op de Buitenbezittingen"), p. 48 (section "Het Departement der B. O. W.").
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.

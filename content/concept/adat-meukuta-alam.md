@@ -45,6 +45,14 @@ The same process may be observed in other Malayan countries, where the *Hukum Ka
 
 The Adat Meukuta Alam — whatever its practical ineffectiveness — remains the chief documentary source, alongside oral tradition, for the political institutions of the [[Aceh Sultanate|Sultanate of Acheh]] at its apogee. It records, however imperfectly, the aspirations of the most powerful of the Achehnese sultans to impose order on a fragmented polity; and its persistence in the Achehnese political imagination as the emblem of a lost greatness testifies to the depth of that aspiration's failure. In Hurgronje's reading, the Adat Meukuta Alam is at once the principal monument of Achehnese royal legislation and the principal witness to the impossibility of centralised authority in a country whose political constitution guaranteed the perpetual independence of its chiefs.
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] provides the following account of the *Adat Meukoeta Alam*.
+
+The *Adat Meukoeta Alam* was a *[[Sarakata|sarakata]]* (royal edict) attributed to Sultan [[Sultan Iskandar Moeda|Iskandar Moeda]] (reigned [[1607]]–[[1636]]), containing regulations on court ceremonial, harbour trade, religion, and justice. Its originals were captured at the mosque of [[Indrapoeri|Indrapoeri]] in [[1879]] during the Atjèh-oorlog. The edict of Sultan Djamaloe 'l-alam (reigned [[1703]]–[[1726]]) was also captured there. However, both originals were lost in the [[1886]] flood that devastated the Koeta Radja area. Only copies survive, published by [[K. F. H. van Langen|Van Langen]] in his works on the Atjèhsche staatsbestuur.
+
+The *Adat Meukoeta Alam* mentions several officials who were under direct Sultan authority and resided in **Koeta Dar al-Doenja** (the Sultan's capital), including **Teukoe Nanta Seutia** — the hereditary ambtsnaam of the Oelèëbalang's of the VI Moekim's (sagi XXV). The edict thus provides evidence of the administrative structure under Iskandar Moeda.
+
 ## See Also
 
 - [[Sultan Meukuta Alam]]
@@ -74,6 +82,8 @@ The Adat Meukuta Alam — whatever its practical ineffectiveness — remains the
 - [[1782]]
 - [[1888]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.

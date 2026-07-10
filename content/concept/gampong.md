@@ -44,6 +44,24 @@ The gampong was governed by three elements: the [[Keutjhï|Keutjhï]] with one o
 Although the Keutjhï lacked any formal judicial authority — "geenerlei rechtsmacht," notes the source, for all serious cases had to be sent up to the [[Oelèëbalang|oelèëbalang]] — his role as intermediary, mediator, and representative of his community's interests was indispensable. The handbook concludes that the gampong and its administration "den hoeksteen vormen van het Inlandsch Bestuur in Atjeh" and "moet blijven vormen" — must continue to form — the cornerstone of native government in Atjeh.
 
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] provides the following account of the *gampöng* as the smallest political unit in [[Groot Atjèh|Groot Atjèh]].
+
+The **gampöng** (also called *saböh meunasah*, "a mosque-ground") was composed of four "corners" (*peuët sagöë gampöng*):
+1. **Keutjhi** — the village head ("father" / *koe* / *eumbah*), hereditary (*toeroen-moeroen*), the "old one"
+2. **Teungkoe meunasah** — the village religious ("mother" of the village), hereditary office, cares for the *meunasah*
+3. **Oereuëng toeha** — the elders, men of experience, wisdom, good manners, and adat-knowledge
+4. **Oereuëng leu** — the multitude, the "children"
+
+The **keutjhi** was the village head — the "father" or "old one" of the gampöng. The office was hereditary (*toeroen-moeroen*), with the oldest son preferred. He must be *keutjhi asaj* (from an old keutjhi family), otherwise scorned as *keutjhi barö* (new keutjhi). Generally unsalaried.
+
+The **teungkoe meunasah** was the village religious — the "mother" of the village. The office was hereditary. The teungkoe meunasah cared for the *meunasah*, collected *djakeuët* and *pitrah*, conducted marriages, performed *meuhatam*, *lijkbezorging*, ritual slaughter, *adhan* at births. Often unlettered ("*leubè pateuën*"). Income: shares of *djakeuët*/*pitrah*, *ha gatib*, *idja peukréng*, *ha teuleukin*, etc.
+
+The **oereuëng toeha** ("old ones") were the village elders — men of experience, wisdom, good manners, and adat-knowledge. Their number was indeterminate (ideally four, *toeha peuët*). One was the **waki** — the keutjhi's right-hand. Together with the keutjhi and teungkoe, they attempted amicable settlement (*peugèt* / *poebla*) of disputes.
+
+Within the gampöng, members of one *[[kawöm|kawöm]]* (clan) living together chose a **panglima kawöm** to manage their common interests, especially *bila* (blood revenge) affairs. The panglima kawöm was confirmed by the [[Oelèëbalang|Oelèëbalang]], who gave him a set of clothes and weapons (*seunalén*).
+
 ## Additional account from *Beginselen en Stelsel* ([[1950]]) — the gampong as territorial community
 
 [[B. ter Haar BzN|B. ter Haar BzN]], in his *[[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)|Beginselen en Stelsel van het Adatrecht]]* (first ed. [[1939]]; 4th ed. [[1950]]), cites the *atjehse gampong (meunasah)* as a typical example of a territorial community — a community in which the genealogical factor, "de genealogische faktor, de verbondenheid der personen krachtens gemeenschappelijke afstamming" (the genealogical factor, the connectedness of persons by virtue of common descent), has no significance. Such communities are, Ter Haar writes, "talrijk" (numerous) in the archipelago: "de javaanse, soendase, madoerese en balise désa, de atjehse gampong (meunasah), de dorpen in het maleise gebied en op Bangka en Belitoeng, een deel der streekgemeenschappen van Zuid-Sumatra, de dorps- en steekgemenschappen van Zuid-Celebes, de negorijen van de Minahasa en die van Ambon." The gampong is thus placed by Ter Haar within the typology of Indonesian village communities as a territorial — not a genealogical — community, on a par with the *désa* of Java and the *negorij* of Ambon.
@@ -75,10 +93,12 @@ The placement is significant for the legal characterisation of the gampong: as a
 - [[1939]]
 - [[1950]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 2, 5, pp. 23–80.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 39–42. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, pp. 61 e.v., 79.
 
 *Beginselen en Stelsel van het Adatrecht*, door Mr. B. ter Haar Bzn. Vierde ongewijzigde druk. Groningen, Djakarta: J. B. Wolters, 1950. Pp. 17 (gampong as territorial community), 32 (accession of newcomers).
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.

@@ -70,6 +70,22 @@ In [[Tamiang|Tamiang]] the sarakata played a foundational role. According to the
 
 In the [[Gajoland|Gayo lands]], by contrast, the Achehnese sarakata was unknown: the source records that "*in plaats van de voor de hoofden der Atjehsche Onderhoorigheden gebruikelijke sarakata's of acten van bevestiging, gaf men den Gayösche kédjoeröns, die vermoedelijk destijds al even zelden als thans de schrijfkunst beoefenden, ieder een blank wapen, een soort van dolkmes, als teeken hunner waardigheid*" (instead of the sarakata's or acts of confirmation customary for the chiefs of the Achehnese Dependencies, each of the Gayo kédjoeröns — who presumably then as now seldom practised the art of writing — was given a blank weapon, a kind of dagger-knife, as a token of their dignity). The substitution marks the cultural frontier between the Atjehsche polity and the highland Gayo sphere.
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] provides the following supplementary account of sarakata's, adding details about specific specimens not in Snouck Hurgronje's account.
+
+**Sarakata** (Gayo: *sarahkata*, cf. Javanese *piagem*) was the Atjèhnese term for recognition charters or "gift letters" issued by Sultans to *Oelèëbalang*'s and *Keudjroeën*'s as installation certificates, sealed with the *[[tjab sikoereuëng|tjab sikoereuëng]]* (ninefold seal). The *sarakata* was sometimes accompanied by a *löh pira'* (silver plate engraved with the "tjap sambilan").
+
+Several specific sarakata's are recorded by Kreemer:
+1. **Adat Meukoeta Alam** — attributed to Sultan Iskandar Moeda; originals captured at Indrapoeri in [[1879]], lost in the [[1886]] flood
+2. **Edict of Sultan Djamaloe 'l-alam** (reigned [[1703]]–[[1726]]) — also captured at Indrapoeri in [[1879]] and lost in [[1886]]
+3. **Sarakata of Pö Rachman** ([[1771]]) — issued by Sultan [[Sultan Mahmoed Sjah (Meulaböh)|Mahmoed Sjah]] to establish the [[Kawaj XVI|Kawaj XVI]] federation
+4. **Sarakata of Beutöng** — dated 1163 A.H. / [[1749]] A.D., the oldest in the Meulaböh region
+5. **Sarakata's of Moehamat Dawöt** ([[1887]]–[[1888]]) — issued by the pretender Sultan to Gajö *moefi*'s who paid him homage
+6. **Sarakata's of Sultan Mantsoer Sjah** — issued to the heads of Paté and Lhö Gloempang and to the bestuurder of Lhö Kroeët; also granted the [[Tadj-oel-moelk|Tadj-oel-moelk]] request
+
+One old *sarakata* cited by Kreemer defined the extent of a chief's territory "as far as one can fish with seine nets" — indicating the Sultan's historic sovereignty over the sea-strip adjacent to coastal lands.
+
 ## Aftermath
 
 Even after the effective disappearance of Sultanate authority — and especially after the Dutch abolition of the Sultanate in the late nineteenth century — the sarakata retained its talismanic value. Chiefs continued to prize and display the documents inherited from their ancestors, while Dutch recognition was conveyed through the parallel instrument of the [[Korte Verklaring|Korte Verklaring]].
@@ -101,8 +117,10 @@ Even after the effective disappearance of Sultanate authority — and especially
 - [[C. Snouck Hurgronje]]
 - [[K. F. H. Van Langen]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 47–48, 53–55, 78. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, p. 136.
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.

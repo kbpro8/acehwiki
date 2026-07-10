@@ -50,6 +50,20 @@ Ter Haar's systematic account cites several Atjehnese adat-law institutions as i
 
 The principal source for the Atjeh legal circle is identified by Ter Haar as [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *[[Snouck Hurgronje's De Atjehers (1893-94)|De Atjehers]]* ([[1893]]–[[1894]]) — "dus van vóór den legger" (thus from before the [adatrecht] foundation) — which, "desalniettemin in dit verband niet mag ontbreken" (nevertheless, must not be absent in this connection). The work of [[J. Kreemer|J. J. Kreemer]], *Atjeh* ([[1922]]–[[1923]]), is noted as bringing, "na Snouck Hurgronje en Van Vollenhoven geen nieuws" (after Snouck Hurgronje and Van Vollenhoven, no news). The full account is treated in [[Atjeh adatrecht (Ter Haar account)]].
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] provides the following account of *adat* and *hoekom* (Islamic law) in Atjèh.
+
+**Adat** (Gayo: *ödöt*; Alas: *adat*; Arabic *cadah*) and **Hoekom** (Gayo and Alas: *id.*; Arabic *hoekoem*) were the two pillars of Atjèhnese law: *adat* was the local, unwritten customary law that developed in connection with the whole of folk life, while *hoekom* was the "holy law" (Islamic law). In practice, *adat* takes priority over *hoekom*, except in religious life in the narrower sense.
+
+The relationship between the two was expressed in folk sayings: "hoekom ngöti adat hati djeuët tjré" — expressing their interdependence. Another saying holds: "adat is the older brother, hoekom the younger."
+
+*Adat* had many synonyms in Atjèhnese, including: *biasa*, *oeto'*, *qaïm*, *deureuhém*, *reusam*, *atoeran*, *kanoen*, *kaidah*. Combined forms included "adat kanoen" (inherited customs) and "adat deureuhém nanggröë" (land customs).
+
+In folk tradition, the sources of *adat* and *hoekom* are attributed to different figures: **Adat** is attributed to Pöteu Meureuhöm / [[Sultan Iskandar Moeda|Sultan Iskandar Moeda]] (reigned [[1607]]–[[1636]]); **Hoekom** is attributed to Teungkoe Siah di Koeala, i.e. [[Abdoerraoef van Singkel|Abdoerraoef van Singkel]], the 17th-century Malay scholar who introduced the [[Sjattarijjah|Sjattarijjah]] *tarikat* to the Archipelago.
+
+**Adatrecht** was the Dutch colonial legal term referring to indigenous customary law, comprising *adat* (customs) plus the decisions of the *hoekom* (holy law) — the subject of [[C. van Vollenhoven|Van Vollenhoven]]'s classic work *Het adatrecht van Nederlandsch Indië*. In Atjèh, *adatrecht* applied to material private law; criminal and procedural *adat* had been displaced by Dutch law. Kreemer's *Atjèh* ([[1922]]–[[1923]]) is noted by [[B. ter Haar BzN|Ter Haar]] as bringing, "na Snouck Hurgronje en Van Vollenhoven geen nieuws" (after Snouck Hurgronje and Van Vollenhoven, no news).
+
 ## See Also
 
 - [[Hikum]]
@@ -93,3 +107,5 @@ The principal source for the Atjeh legal circle is identified by Ter Haar as [[C
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Tangsi en Tante" and chapter "De buitenpost."
 
 *Beginselen en Stelsel van het Adatrecht*, door Mr. B. ter Haar Bzn. Vierde ongewijzigde druk. Groningen, Djakarta: J. B. Wolters, 1950. Pp. 17 (gampong), 29 (minangkabause koloniën), 51 (vorsten), 52 (sultanaat), 63 (wang pemasoeqan), 98, 100 (sanbod-aanname), 124 (buffalo-slaughtering partnerships), 148 (dubbelunilaterale trek), 168, 169, 178, 192 (djinamée), 171 (teruggeven van huwelijksgift), 192 (inkomsten van den man), 205 (peungklēh), 213 (voorkeur aan de dochter), 245–246 (sources), 256–257 (overzicht van de rechtskringen).
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
