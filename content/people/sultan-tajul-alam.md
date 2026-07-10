@@ -1,14 +1,14 @@
 ---
 title: Sultan Tajul-alam
-aliases: [Sapiatodin, the first sultana, Sultane of Aceh, Queen of Aceh, Sultana of Aceh, daughter of Iskander Moeda, Sultana of Atjeh, Taj ul-Alam, Safiatuddin Syah, Taj ul-Alam Safiatuddin Syah, Vorstin van Atjeh, Atjehsche sultane]
+aliases: [Sapiatodin, the first sultana, Sultane of Aceh, Queen of Aceh, Sultana of Aceh, daughter of Iskander Moeda, Sultana of Atjeh, Taj ul-Alam, Safiatuddin Syah, Taj ul-Alam Safiatuddin Syah, Vorstin van Atjeh, Atjehsche sultane, Tadj al-alam Safïat ad-dïn Sjah, Taj al-Alam, first queen of Aceh, Tadjoel-Alam, Tadjoel-Alam Safijatoeddin]
 tags: [person, sultana, sultan, 17th-century, voc, treaty, achehnese, precolonial, diplomacy, colonial, dutch]
 ---
 
-**Sultan Tajul-alam** — also known as **Sapiatodin** (Safiatuddin Syah), and remembered in Achehnese tradition as the **first sultana** — ruled [[Acheh|Atjeh]] from [[1641]] until [[1675]]. She is one of the four monarchs whose names recur on virtually every *chab sikureu'eng* — the [[Sarakata|ninefold seal]] of the sultans of Acheh — and her mediation (*afwah*) is invoked in the preamble of sultans' letters patent (*sarakata*). In Dr. F. W. Stapel's *Geschiedkundige Atlas van Nederland* she is unnamed but constantly referred to as the *sultane van Atjeh*, the *vorstin van Atjeh*, or simply *de Atjehsche sultane*: the woman with whom the [[Vereenigde Oost-Indische Compagnie|Compagnie]] negotiated every major settlement between [[1641]] and her death in [[1675]].
+**Sultan Tajul-alam** — also known as **Sapiatodin** (Safiatuddin Syah), in [[J. Kreemer|J. Kreemer]]'s spelling **Tadjoel-Alam Safijatoeddin** (*Tadj al-alam Safïat ad-dïn Sjah*), and remembered in Achehnese tradition as the **first sultana** — ruled [[Acheh|Atjeh]] from [[1641]] until [[1675]]. She is one of the four monarchs whose names recur on virtually every *chab sikureu'eng* — the [[Sarakata|ninefold seal]] of the sultans of Acheh — and her mediation (*afwah*) is invoked in the preamble of sultans' letters patent (*sarakata*). In Dr. F. W. Stapel's *Geschiedkundige Atlas van Nederland* she is unnamed but constantly referred to as the *sultane van Atjeh*, the *vorstin van Atjeh*, or simply *de Atjehsche sultane*: the woman with whom the [[Vereenigde Oost-Indische Compagnie|Compagnie]] negotiated every major settlement between [[1641]] and her death in [[1675]]. Kreemer, in his *Atjèh* ([[1923]]), goes further and identifies her accession in [[1641]] as "the first step of Atjèh's decline" from its zenith under [[Sultan Iskandar Muda|Iskandar Moeda]].
 
 ## Accession and the female rule of Acheh
 
-Tajul-alam's reign inaugurated the celebrated [[Female rule of Acheh (1641–1699)|female rule of Acheh]] (1641–1699), the period during which the sultanate was successively held by four queens. Her accession followed the death of her husband [[Iskandar Thani|Iskandar Thani]] (also [[Iskander Tsani|Iskander Tsani]]), himself the successor of [[Sultan Meukuta Alam|Iskandar Muda]] (the great monarch who had raised Acheh to its zenith). The succession of a woman to the throne is one of the most distinctive features of Achehnese political history, and reflects both the matrilineal survivals in Achehnese society and the practical balance of power among the territorial chiefs who actually controlled the choice of sultan.
+Tajul-alam's reign inaugurated the celebrated [[Female Rule of Acheh (1641–1699)|female rule of Acheh]] (1641–1699), the period during which the sultanate was successively held by four queens. Her accession followed the death of her husband [[Iskandar Thani|Iskandar Thani]] (also [[Iskander Tsani|Iskander Tsani]]), himself the successor of [[Sultan Meukuta Alam|Iskandar Muda]] (the great monarch who had raised Acheh to its zenith). The succession of a woman to the throne is one of the most distinctive features of Achehnese political history, and reflects both the matrilineal survivals in Achehnese society and the practical balance of power among the territorial chiefs who actually controlled the choice of sultan.
 
 Stapel records her accession in the context of the [[14 January|14 January]] [[1641]] fall of [[Malakka]]: "In 1641 a sultane came to power in Atjeh, daughter of [[Iskandar Muda of Atjeh|Iskander Moeda]]" (*In 1641 kwam in Atjeh een sultane aan het bewind, dochter van Iskander Moeda*). The same widow, at about forty years of age, "wilde … een Nederlander tot Prinsgemaal verheffen" — wished to elevate a Dutchman to the rank of prince-consort — a proposal over which both the *Rijksgrooten* and the *Hooge Regeering* at [[Batavia|Batavia]] placed their veto.
 
@@ -17,6 +17,8 @@ Stapel records her accession in the context of the [[14 January|14 January]] [[1
 The ninefold seal, as [[C. Snouck Hurgronje]] explains, consists of a large central circle bearing the name of the reigning sultan, surrounded by eight smaller circles each containing the name of a celebrated predecessor. The four names that recur on almost every seal are those of the rulers to whom the former prosperity of Acheh and her adat-institutions were generally ascribed: [[Sultan Sayyidi al-Mukamnal|Sidi Meukamay]] (Alaedin al-Qahhar), [[Sultan Meukuta Alam]] (Iskandar Muda), Tajul-alam Sapiatodin, and [[Sultan Ahmat Shah]]. The presence of a woman among these four canonical names is striking, and testifies to the enduring respect in which the first sultana was held.
 
 The preamble of the letters patent granted by [[Tuanku Muhamat Dawot|Sultan Alaedin Muhamad Daud Shah Juhan]] to [[Panglima Meuseugit Raya]] on 4 Rabi' al-Awwal 1307 H ([[1889]]) explicitly invokes the mediation of "Her late Majesty Tajul-alam Sapiatodin", alongside [[Sultan Meukuta Alam|Meukuta Alam Iskandar Muda]], [[Sultan Ahmat Shah|Alaedin Ahmat Shah]], [[Sultan Mahmut Shah|Alaedin Mahmut Shah]], [[Sultan Alaedin Muhamat Shah|Alaedin Muhamat Shah]], [[Sultan Jauhar Alain Shah|Alaedin Jauhar al-Alam Shah]], and [[Sultan Ibrahim Mansur Shah|Alaedin Manso Shah]]. The continuing invocation of her name more than two centuries after her death is a measure of the place she holds in the Achehnese royal imagination.
+
+The *tjab sikoereuëng* — Kreemer's spelling of the *chab sikureu'eng* — is reproduced on the cover of Kreemer's *Atjèh* ([[1923]]), an emblem whose choice testifies to the central place of the first sultana in the iconographic inheritance of the sultanate.
 
 ## The 1641 treaty with Joost Schouten
 
@@ -52,6 +54,14 @@ The sultane's authority waned visibly in her last decade. The secret negotiation
 
 The sultane died in [[1675]], by which point Atjeh's hold on the Westkust had been broken at [[Paoeh]], [[Indrapoera]], [[Padang]] and [[Priaman]] by the combined work of [[Jacob Cau|Jacob Cau]], [[Abraham Versprect|Abraham Versprect]] and [[Jacob Jorisse Pits|Jacob Jorisse Pits]]. Her successors inherited a kingdom stripped of its Sumatran provinces and a Dutch frontier that now reached almost to the borders of Atjeh proper.
 
+## Kreemer's account: the *vrouwenregeering* and the loss of the *alleenhandel*
+
+In J. Kreemer's *Atjèh* ([[1923]]), the accession of Tadjoel-Alam Safijatoeddin is the watershed at which the long zenith of the sultanate under [[Sultan Iskandar Muda|Iskandar Moeda]] begins to give way. Kreemer frames the [[Female Rule of Acheh (1641–1699)|vrouwenregeering]] in structural-economic terms: the beginning of female rule in [[1641]] marked, for him, the end of the *havenkoningen* ("harbour-kings") regime and the loss of the Sultan's trade monopoly (*alleenhandel*). Under the female rulers the Sultan no longer possessed the *alleenhandel* but "moest zich tevreden stellen met de opbrengst van bij in- en uitvoer geheven rechten" — "had to be content with the proceeds of import/export duties." Since wealth determined the Sultan's internal influence as well, the position of the female rulers could no longer equal that of their glorious predecessors.
+
+The relations between the [[Vereenigde Oost-Indische Compagnie|VOC]] and Atjèh during this period were marked, in Kreemer's account, by Dutch commercial advantage. The VOC obtained so many privileges on the Malay peninsula and on Sumatra's West Coast that Tadjoel-Alam Safijatoeddin once complained to a Dutch envoy: "ick en weet niet, wat ik nu de Hollanders voortaen al meer zal geven" — "I do not know what more I can give the Dutch hereafter." The Dutch believed they had Atjèh "genoeghsaem t' onser devotie" — "virtually at our devotion" — but in reality received "in plaetse van thin en peper slechts schone woorden en een vriendelijck gelaet" — "in place of tin and pepper only fair words and a friendly face."
+
+The structural consequence of this growing imbalance was the winding down of the VOC's permanent presence in Atjèh. In [[1648]] the Governor-General and Raden decided to close the VOC offices in Atjèh and Pera, and around [[1660]], when the Dutch settled on Sumatra's Westkust, the post in Atjèh was permanently closed.
+
 ## Significance
 
 In the wider frame of Acehnese history the sultane's reign is the hinge. It opens with Atjeh still commanding the West Coast and the Compagnie a single assistant resident at the Acehnese court; it closes with the [[Painansch Contract]] (6 July 1663) signed, the [[Battle of Paoeh (12 March 1666)|Paoeh expedition]] imminent, and the Westkust a Dutch sphere of influence in everything but name. The sultane was no passive victim — her arrest of [[Anthony van Voorst]] in [[1656]] was a sovereign act of reprisal — but the structural forces of Dutch commercial pressure and Menangkabau restiveness were beyond any single ruler's capacity to resist. Her reign is also the last period in which Atjeh was treated by Batavia as a co-equal power: under her successors, Acehnese envoys became supplicants, and by the 1680s the Atjehsch-gezinde partij on the Westkust had been reduced to a faction the Compagnie could simply expel.
@@ -64,8 +74,9 @@ Tajul-alam's reign, on the VOC-treaty account, represents a period of pragmatic 
 - [[Sultan Meukuta Alam]]
 - [[Iskandar Thani]]
 - [[Iskander Tsani]]
-- [[Female rule of Acheh (1641–1699)]]
+- [[Female Rule of Acheh (1641–1699)]]
 - [[Sarakata|Sarakata with chab sikureu'eng]]
+- [[Tjab Sikoereuëng (ninefold seal of Atjèh)]]
 - [[Sultan Sayyidi al-Mukamnal]]
 - [[Sultan Ahmat Shah]]
 - [[Treaty of Atjeh-VOC (15 February 1641)]]
@@ -97,11 +108,17 @@ Tajul-alam's reign, on the VOC-treaty account, represents a period of pragmatic 
 - [[Indrapoera]]
 - [[Menangkabau]]
 - [[Paoeh]]
+- [[Tuanku Muhamat Dawot]]
+- [[Panglima Meuseugit Raya]]
+- [[C. Snouck Hurgronje]]
+- [[J. Kreemer]]
 - [[1641]]
+- [[1648]]
 - [[1649]]
 - [[1650]]
 - [[1656]]
 - [[1659]]
+- [[1660]]
 - [[1663]]
 - [[1675]]
 
@@ -114,3 +131,5 @@ Tajul-alam's reign, on the VOC-treaty account, represents a period of pragmatic 
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 27, 30–31, 64–65 (tekst bij de bladen 2 en 3: *De Archipel en het Maleische Schiereiland in 1650*, *De Archipel in 1684*, *Malakka en het Maleische Schiereiland*) en blz. 14–23 (tekst bij blad 4: *Atjeh en de Westkust van Sumatra in 1684*).
 
 *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen (Amsterdam: N.V. Swets & Zeitlinger, 1932), on the Soury embassy of 1641 and the proposal to elevate a Dutchman to prince-consort.
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.

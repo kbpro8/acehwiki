@@ -1,14 +1,20 @@
 ---
 title: Sultan Iskandar Muda
-aliases: [Acehnese Sun-King, Eseukanda Muda, Iskandar Muda, Iskandar Muda of Aceh, Meukuta Alam, Perkasa Alam, Roi soleil of Atjeh, Soeltan Iskandar Moeda, Sultan Iskandar Moeda, Sultan Iskandar Muda of Atjeh, Sultan Meukuta Alam, Sultan of Atjeh in the 17th century, the great Meukuta Alam, Iskandar Moeda Hooykaas account, Mahkota Alam Hooykaas, Iskandar Muda, Sultan Iskandar Muda of Aceh]
-tags: [person, sultan, acehnese, 17th-century, aceh, golden-era, historical-figure, legendary, precolonial, sultanate, hooykaas, batoe-sawar, 1613-attack, 1615-attack, pasai-conquest]
+aliases: [Acehnese Sun-King, Eseukanda Muda, Iskandar Muda, Iskandar Muda of Aceh, Meukuta Alam, Perkasa Alam, Roi soleil of Atjeh, Soeltan Iskandar Moeda, Sultan Iskandar Moeda, Sultan Iskandar Muda of Atjeh, Sultan Meukuta Alam, Sultan of Atjeh in the 17th century, the great Meukuta Alam, Iskandar Moeda Hooykaas account, Mahkota Alam Hooykaas, Iskandar Muda, Sultan Iskandar Muda of Aceh, Le roi soleil of Aceh]
+tags: [person, sultan, acehnese, 17th-century, aceh, golden-era, historical-figure, legendary, precolonial, sultanate, hooykaas, batoe-sawar, 1613-attack, 1615-attack, pasai-conquest, kreemer]
 ---
 
-**Sultan Iskandar Muda** was the *“Roi soleil”* of the [[Aceh]] Sultanate, whose reign from [[1607]] to [[1636]] marked the *bloeitijdperk* (golden age) of [[Acheh|Atjeh]] and represented the zenith of pre‑colonial Acehnese military, commercial, and cultural power.  He extended Acehnese hegemony over the Malay Peninsula, reclaimed the strategic port of [[Perak]] (first taken in [[1579]]), and fostered a vibrant court culture that combined spectacular elephant‑and‑buffalo displays, an extensive system of provincial appointments, and the patronage of Islamic literature and Malay translations of Arabic texts such as the *Burda* poem.  His reign therefore serves as the chronological anchor for the study of early‑modern Acehnese statehood, diplomacy with the [[Dutch East India Company|VOC]], and the diffusion of Arabic‑derived terminology into Acehnese Malay.
+**Sultan Iskandar Muda** (reigned [[1607]]–[[1636]]) — Kreemer's *Iskandar Moeda*, whom [[J. Kreemer|Kreemer]] calls "the *roi soleil* of the Atjèhers" — was the *"Roi soleil"* of the [[Aceh]] Sultanate, whose reign marked the *bloeitijdperk* (golden age) of [[Acheh|Atjeh]] and represented the zenith of pre‑colonial Acehnese military, commercial, and cultural power.  He extended Acehnese hegemony over the Malay Peninsula, reclaimed the strategic port of [[Perak]] (first taken in [[1579]]), and fostered a vibrant court culture that combined spectacular elephant‑and‑buffalo displays, an extensive system of provincial appointments, and the patronage of Islamic literature and Malay translations of Arabic texts such as the *Burda* poem.  His reign therefore serves as the chronological anchor for the study of early‑modern Acehnese statehood, diplomacy with the [[Dutch East India Company|VOC]], and the diffusion of Arabic‑derived terminology into Acehnese Malay.
 
 ## Accession and the Golden Age
 
-Iskandar Muda succeeded the throne in [[1607]] after the death of his predecessor, [[Sultan Alauddin Ri'ayat Syah]] (not named here but implied by the succession narrative).  Contemporary Dutch observers such as [[C. Snouck Hurgronje|Snouck Hurgronje]] described his court at [[Banda Acheh|Koetaradja]] as a place where “the pomp would have bordered on the marvellous,” a sentiment echoed by later scholars like [[J. Kreemer|Kreemer]].  The sultan’s rule is traditionally bounded by the *bloeitijdperk* of [[1607]]–[[1636]], a period during which the sultanate dominated the [[Straits of Malacca|Strait of Malacca]] and projected power across northern Sumatra and the Malay Peninsula.
+Iskandar Muda succeeded the throne in [[1607]] after the death of his predecessor, [[Sultan Alauddin Ri'ayat Syah]] (not named here but implied by the succession narrative).  Contemporary Dutch observers such as [[C. Snouck Hurgronje|Snouck Hurgronje]] described his court at [[Banda Acheh|Koetaradja]] as a place where "the pomp would have bordered on the marvellous," a sentiment echoed by later scholars like [[J. Kreemer|Kreemer]].  The sultan’s rule is traditionally bounded by the *bloeitijdperk* of [[1607]]–[[1636]], a period during which the sultanate dominated the [[Straits of Malacca|Strait of Malacca]] and projected power across northern Sumatra and the Malay Peninsula.
+
+## Kreemer's account: the *roi soleil* and the great seal
+
+In his *Atjèh* ([[1923]]), [[J. Kreemer|Kreemer]] consolidates the *roi soleil* characterisation and associates Iskandar Moeda above all with three institutions: the *tjab sikoereuëng* (ninefold seal), the *Adat Meukoeta Alam* edict, and the great flourishing of Atjèhnese trade and Islamic scholarship. Kreemer's *tjab sikoereuëng* — the Sultan's state seal — may, he reports, have been adopted under the example of the Great Mughol Djahangir ([[1605]]–[[1627]]), according to Dr. [[G. P. Rouffaer|Rouffaer]]'s research. Each new Sultan engraved a new seal with his own name in the central circle, surrounded by eight smaller circles bearing the names of famous predecessors. The seal is reproduced on the cover of Kreemer's work as the visible emblem of the sultanate's golden age.
+
+The *[[Adat Meukuta Alam|Adat Meukoeta Alam]]* — a *sarakata* (royal edict) attributed to Iskandar Moeda — contains regulations on court ceremonial, harbour trade, religion, and justice. Kreemer records that its originals were captured at the mosque of [[Indrapuri|Indrapoeri]] in [[1879]] but lost in the [[1886]] flood; only copies survive, published by [[K. F. H. van Langen|Van Langen]].
 
 ## Military Expansion
 
@@ -26,13 +32,15 @@ The sultan launched two major naval expeditions against the Johor‑controlled f
 
 * **[[1613]] attack** – An Atjehnese fleet seized the Johor ruler Alā’uddīn Ri’āyat Shāh III, his brother Radja ‘Abdoellah, and the high officials including the *Bendahara*.  The captives were taken to Aceh; Radja ‘Abdoellah later married Iskandar Muda’s sister and was reinstated as a vassal sultan of Johor.
 
-* **[[1615]] attack** – A second fleet forced the Johor court into a prolonged exile (“Tweede Exodus”) to Bintan, cementing Acehnese overlordship until the accession of Sultan Tajul‑Alam in [[1641]].
+* **[[1615]] attack** – A second fleet forced the Johor court into a prolonged exile ("Tweede Exodus") to Bintan, cementing Acehnese overlordship until the accession of Sultan Tajul‑Alam in [[1641]].
 
 These campaigns were part of a broader strategy to dominate the Malay Peninsula and to control the pepper‑producing hinterland.
 
 ### Conflict with the Portuguese and the VOC
 
-Iskandar Muda’s anti‑Portuguese stance made him a potential ally of the [[Dutch East India Company|VOC]].  In [[1629]] he launched a large naval expedition against Portuguese‑held [[Malakka]], which ended in defeat at the hands of Admiral Botelho.  The VOC, while wary of Iskandar’s “very militant tendencies,” nonetheless saw him as a counter‑weight to Portuguese power.  His daughter, [[Sultan Tajul-alam|Tajul‑Alam]], succeeded him (via her husband [[Iskandar Thani]]) and later signed the [[Dutch–Aceh Treaty of 1641]], [[Dutch–Aceh Treaty of 1649]] and the [[Treaty of 1650 on Perak Tin]], granting the Company trading concessions on Sumatra’s west coast.
+Iskandar Muda’s anti‑Portuguese stance made him a potential ally of the [[Dutch East India Company|VOC]].  In [[1629]] he launched a large naval expedition against Portuguese‑held [[Malakka]], which ended in defeat at the hands of Admiral Botelho.  The VOC, while wary of Iskandar’s "very militant tendencies," nonetheless saw him as a counter‑weight to Portuguese power.  His daughter, [[Sultan Tajul-alam|Tajul‑Alam]], succeeded him (via her husband [[Iskandar Thani]]) and later signed the [[Dutch–Aceh Treaty of 1641]], [[Dutch–Aceh Treaty of 1649]] and the [[Treaty of 1650 on Perak Tin]], granting the Company trading concessions on Sumatra’s west coast.
+
+Kreemer records further that the first ships of the general chartered [[Vereenigde Oost-Indische Compagnie|VOC]] under **Olivier de Vivere** concluded a contract with the Sultan, whose first article granted the Dutch a place in his realm for a general *rendez-vous* and even a colony.  As [[J. K. J. de Jonge|Mr. de Jonge]] observed: "Indien dit verdrag tot uitvoering ware gekomen … dan zou de hoofdzetel van Neêrlands gezag in Oost-Indië wellicht nimmer te Batavia zijn gevestigd."  The Sultan later stubbornly denied the agreement.  Kreemer also records that in the [[1629]] attack on [[Malakka|Malaka]] the Sultan's *La seumana* (admiral) was captured; the grave of this *La seumana* is pointed out in the kampoeng [[Pandé|Pandé]] near [[Koeta-Radja|Koeta Radja]].
 
 ## Court Institutions and Spectacle
 
@@ -54,9 +62,15 @@ The *bloeitijdperk* saw the production of major literary works:
 * The *[[Bustanu's‑Salatin|Bustān as‑Salāṭīn]]* of [[Nur al‑Din al‑Raniri|ar‑Rānīrī]] was composed in [[1638]] under Iskandar’s successor, Iskandar II.
 * The *[[Hikajat Malém Dagang|Hikayat Malem Dagang]]* portrays Iskandar receiving defectors from Malacca and leading a great naval expedition, though it anachronistically credits him with the introduction of Islam to Aceh (Islam had arrived two centuries earlier).
 
+Kreemer describes the *[[Hikajat Malém Dagang|Hikajat Malém Dagang]]* as one of the two oldest Atjèhnese *hikajat*'s, singing of an episode from Iskandar Moeda's struggle against Malaka; though without historical value, its style is thoroughly Atjèhnese.
+
 ### Architectural Legacy
 
 The first mosque of Koetaradja, commemorated by the later [[Meusigit Raja]], is traditionally attributed to Iskandar’s reign.  The structure was destroyed by fire about fifty years later, along with the palace’s treasures.
+
+## Religious policy: Sjamsoeddin van Pasè and the adat/hoekom tradition
+
+Kreemer's account places Iskandar Moeda's religious policy at the centre of his reign's later reputation. The Sultan favoured the heterodox mystic **[[Shaikh Shamsuddin of Sumatra|Sjamsoeddin van Pasè]]** (*Sjamsoeddïn as-Samatranï*), whose conflict with the orthodox scholar **[[Nur al-Din al-Raniri|Noer-ad-dïn ar-Ranïrï]]** would later lead to the orthodox victory under Iskandar Moeda's successor [[Iskandar Thani|Sultan Iskandar Thanï]]. The Sultan is also associated in folk tradition as the source of the *adat* (customary law), as opposed to the *hoekom* (Islamic law) which is attributed to Teungkoe Siah di Koeala ([[Abdurra'uf of Singkel|Abdoerraoef van Singkel]]).
 
 ## Legends, Edicts, and Symbolic Authority
 
@@ -89,9 +103,12 @@ Sultan Iskandar Muda’s reign constitutes the defining moment of the Acehnese *
 - [[1649]]
 - [[1650]]
 - [[1760]]
+- [[1879]]
+- [[1886]]
 - [[Aceh War]]
 - [[Acheh]]
 - [[Adat Meukuta Alam]]
+- [[Tjab Sikoereuëng (ninefold seal of Atjèh)]]
 - [[Alaslanden]]
 - [[Atjeh bloeitijdperk ([[1607]]-[[1636]])]]
 - [[Banda Acheh]]
@@ -127,6 +144,15 @@ Sultan Iskandar Muda’s reign constitutes the defining moment of the Acehnese *
 - [[Dr. C. Hooykaas]]
 - [[C. Snouck Hurgronje]]
 - [[J. Kreemer]]
+- [[G. P. Rouffaer]]
+- [[J. K. J. de Jonge]]
+- [[K. F. H. van Langen]]
+- [[Iskandar Thani]]
+- [[Shaikh Shamsuddin of Sumatra]]
+- [[Nur al-Din al-Raniri]]
+- [[Abdurra'uf of Singkel]]
+- [[Indrapuri]]
+- [[Pandé]]
 - [[Dutch East India Company]]
 - [[Portuguese Empire]]
 - [[Perak]]
@@ -150,3 +176,5 @@ Sultan Iskandar Muda’s reign constitutes the defining moment of the Acehnese *
 *Over Maleise Literatuur*, by Dr. C. Hooykaas, Hoogleraarte Batavia; Tweede Druk (Leiden: E. J. Brill, [[1947]]), chapter 11, pp. 94‑98; appendix III, pp. 275‑276; chapter 19, p. 173.
 
 *20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt* (digital transcription of the 16th‑century Malay translation of the *Burda*).
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.

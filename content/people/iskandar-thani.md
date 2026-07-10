@@ -1,60 +1,59 @@
 ---
-
 title: Iskandar Thani
-aliases: [Sultan Iskandar Thani, Iskandar Thani of Acheh]
-tags: [person, ruler, sultan, sultanate]
+aliases: [Sultan Iskandar Thani, Iskandar Thani of Acheh, Sultan Iskandar Thanï, Sultan of Aceh c. 1636-1641]
+tags: [person, ruler, sultan, sultanate, achehnese, religious, 17th-century]
 ---
 
-Sultan of Acheh, reigned from [[1637]], who in March [[1638]] gave the pandit Raniri the royal command to write a book, the Sirat al-mustaqim. His reign represented the continuation of the great period of Acehnese port-kings established under his predecessor Iskandar Muda.
+**Iskandar Thani** — in Kreemer's spelling **Sultan Iskandar Thanï** — was King of [[Acheh|Atjèh]] from [[1636]]/[[1637]], succeeding [[Sultan Iskandar Muda|Meukuta Alam]] (Iskandar Muda) on the latter's death in [[1636]]. With his widow and successor [[Sultan Tajul-alam|Tadj al-alam Safijatoeddin]], he favoured the orthodox scholar [[Nur al-Din al-Raniri|Noer-ad-dïn ar-Ranïrï]]; he condemned the heterodox mystics to death and had their works burned before the great mosque **Beit ar-rahman**. His reign represented both the end of the political greatness of the Sultanate — which had reached its zenith under Iskandar Muda — and the beginning of a religious reformation which sought to bring the practice of Acheh into conformity with the strict letter of the Shafi'ite law. The same reign that saw the death of Meukuta Alam's political inheritance saw also the burning of the books of the Pansouri school.
 
-## Expanded account from *The Achehnese*, Vol. I — Iskandar Thani
+## Chronology
 
-**Iskandar Thani** was King of [[Acheh]] from [[1637]], succeeding [[Sultan Meukuta Alam|Meukuta Alam]] (Iskandar Muda) on the latter's death in [[1636]]. His accession is fixed in the chronology of Achehnese letters by the testimony of the [[Nur al-Din al-Raniri|Pandit Raniri]], the well-known Achehnese *ulama* and author, who relates in his treatise *Ṣirāṭ al-mustaqīm* (printed at [[Mecca]] in 1316 Heg., on the margin of the edition of Fath al-muʿīn) that he came to Acheh in [[1637]] while Iskandar Thani was king.
+Iskandar Thani's accession is fixed in the chronology of Achehnese letters by the testimony of the [[Nur al-Din al-Raniri|Pandit Raniri]], the well-known Achehnese *ulama* and author, who relates in his treatise *[[Sirat al-mustaqim|Ṣirāṭ al-mustaqīm]]* (printed at [[Mecca]] in 1316 Heg., on the margin of the edition of Fath al-muʿīn) that he came to Acheh in [[1637]] while Iskandar Thani was king. This date is of cardinal importance for the chronology of Achehnese history, since it confirms [[1636]] as the correct date of the death of [[Sultan Iskandar Muda|Meukuta Alam]] (Iskandar Muda), the greatest of the sultans of Aceh. The transmitted Achehnese chronicles had left the date of Meukuta Alam's death in some uncertainty; Raniri's statement, preserved in a work printed at Mecca and therefore free from the local Achehnese tendency to idealise or rearrange the past, settles the question. Iskandar Thani's accession thus marks the beginning of the period of decline that followed the golden age of Meukuta Alam.
 
-This date is of cardinal importance for the chronology of Achehnese history, since it confirms [[1636]] as the correct date of the death of [[Sultan Meukuta Alam|Meukuta Alam]] (Iskandar Muda), the greatest of the sultans of Acheh. The transmitted Achehnese chronicles had left the date of Meukuta Alam's death in some uncertainty; Raniri's statement, preserved in a work printed at Mecca and therefore free from the local Achehnese tendency to idealise or rearrange the past, settles the question. Iskandar Thani's accession thus marks the beginning of the period of decline that followed the golden age of Meukuta Alam.
+## The orthodox victory
 
-Iskandar Thani is chiefly remembered, in the literary and religious history of Acheh, as the patron under whom Raniri carried out his work of religious reform. The period of his reign saw the suppression of the heterodox mysticism of [[Hamzah Pansuri]] and his school: the disciples of Hamzah Pansuri were put to death and his books burned, an episode of religious persecution which occurred in the generation after [[Sultan Meukuta Alam|Iskandar Muda]]'s reign. Raniri, himself a learned scholar of South Indian origin, was the instrument of this orthodox reaction, and his arrival in Acheh in the first year of Iskandar Thani's reign fixed the beginning of the new religious dispensation.
+Sultan Iskandar Thanï reversed the religious policy of his predecessor [[Sultan Iskandar Muda|Iskandar Moeda]], who had favoured the heterodox mystic [[Shaikh Shamsuddin of Sumatra|Sjamsoeddin van Pasè]]. At the instigation of [[Nur al-Din al-Raniri|Noer-ad-dïn ar-Ranïrï]], who returned to Atjèh in [[1637]], Iskandar Thanï condemned the heterodox mystics to death:
 
-The reign of Iskandar Thani thus stands at a double turning-point in Achehnese history: at once the end of the political greatness of the Sultanate, which had reached its zenith under Iskandar Muda, and the beginning of a religious reformation which sought to bring the practice of Acheh into conformity with the strict letter of the Shafi'ite law. The same reign that saw the death of Meukuta Alam's political inheritance saw also the burning of the books of the Pansouri school; and the name of Iskandar Thani is preserved in Achehnese memory chiefly as that of the prince under whom the new learning of Raniri replaced the old mysticism of the Malay poets.
+- [[Shaikh Shamsuddin of Sumatra|Sjamsoeddin van Pasè]] was executed
+- [[Hamzah Pansuri|Hamzah Pansoeri]] was executed
+- Their works were burned before the great mosque **Beit ar-rahman**
 
-## See Also
-- [[Acheh]]
-- [[Alauddin al-Qahar]]
-- [[Mecca]]
-- [[Nur al-Din al-Raniri|Pandit Raniri]]
-- [[Nur al-Din al-Raniri|Raniri]]
-- [[Sultan Iskandar Muda]]
-- [[Sultan Meukuta Alam]]
+The period of his reign thus saw the suppression of the heterodox mysticism of [[Hamzah Pansuri|Hamzah Pansuri]] and his school: the disciples of Hamzah Pansuri were put to death and his books burned, an episode of religious persecution which occurred in the generation after [[Sultan Iskandar Muda|Iskandar Muda]]'s reign. Raniri, himself a learned scholar of South Indian origin, was the instrument of this orthodox reaction, and his arrival in Acheh in the first year of Iskandar Thani's reign fixed the beginning of the new religious dispensation.
 
-## Source
-*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+## Patronage of ar-Ranïrï
 
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
----
+Iskandar Thanï commissioned [[Nur al-Din al-Raniri|Noer-ad-dïn ar-Ranïrï]]'s principal works. In March [[1638]] he gave the pandit Raniri the royal command to write a book, the *[[Sirat al-mustaqim|Sirat al-mustaqim]]*. He also commissioned the *[[Bustan al-salatin|Boestan as-salatïn]]* ("Garden of Kings"), begun in [[1638]]. This patronage ensured the triumph of orthodox Islam over the heterodox mysticism that had flourished under Iskandar Moeda.
 
+## Succession
 
-Sultan of Acheh, reigned from [[1637]], who in March [[1638]] gave the pandit Raniri the royal command to write a book, the Sirat al-mustaqim. His reign represented the continuation of the great period of Acehnese port-kings established under his predecessor Iskandar Muda.
+Iskandar Thanï was succeeded by his widow and successor [[Sultan Tajul-alam|Tadj al-alam Safijatoeddin]], who continued the orthodox patronage. Her accession in [[1641]] marked the beginning of the *vrouwenregeering* (female rule) in Atjèh — the celebrated [[Female rule of Acheh (1641–1699)|female rule of Acheh]] (1641–1699), the period during which the sultanate was successively held by four queens.
 
-## Expanded account from *The Achehnese*, Vol. I — Iskandar Thani
+## Significance
 
-**Iskandar Thani** was King of [[Acheh]] from [[1637]], succeeding [[Sultan Meukuta Alam|Meukuta Alam]] (Iskandar Muda) on the latter's death in [[1636]]. His accession is fixed in the chronology of Achehnese letters by the testimony of the [[Nur al-Din al-Raniri|Pandit Raniri]], the well-known Achehnese *ulama* and author, who relates in his treatise *Ṣirāṭ al-mustaqīm* (printed at [[Mecca]] in 1316 Heg., on the margin of the edition of Fath al-muʿīn) that he came to Acheh in [[1637]] while Iskandar Thani was king.
-
-This date is of cardinal importance for the chronology of Achehnese history, since it confirms [[1636]] as the correct date of the death of [[Sultan Meukuta Alam|Meukuta Alam]] (Iskandar Muda), the greatest of the sultans of Acheh. The transmitted Achehnese chronicles had left the date of Meukuta Alam's death in some uncertainty; Raniri's statement, preserved in a work printed at Mecca and therefore free from the local Achehnese tendency to idealise or rearrange the past, settles the question. Iskandar Thani's accession thus marks the beginning of the period of decline that followed the golden age of Meukuta Alam.
-
-Iskandar Thani is chiefly remembered, in the literary and religious history of Acheh, as the patron under whom Raniri carried out his work of religious reform. The period of his reign saw the suppression of the heterodox mysticism of [[Hamzah Pansuri]] and his school: the disciples of Hamzah Pansuri were put to death and his books burned, an episode of religious persecution which occurred in the generation after [[Sultan Meukuta Alam|Iskandar Muda]]'s reign. Raniri, himself a learned scholar of South Indian origin, was the instrument of this orthodox reaction, and his arrival in Acheh in the first year of Iskandar Thani's reign fixed the beginning of the new religious dispensation.
-
-The reign of Iskandar Thani thus stands at a double turning-point in Achehnese history: at once the end of the political greatness of the Sultanate, which had reached its zenith under Iskandar Muda, and the beginning of a religious reformation which sought to bring the practice of Acheh into conformity with the strict letter of the Shafi'ite law. The same reign that saw the death of Meukuta Alam's political inheritance saw also the burning of the books of the Pansouri school; and the name of Iskandar Thani is preserved in Achehnese memory chiefly as that of the prince under whom the new learning of Raniri replaced the old mysticism of the Malay poets.
+The reign of Iskandar Thani thus stands at a double turning-point in Achehnese history: at once the end of the political greatness of the Sultanate, which had reached its zenith under Iskandar Muda, and the beginning of a religious reformation which sought to bring the practice of Acheh into conformity with the strict letter of the Shafi'ite law. The same reign that saw the death of Meukuta Alam's political inheritance saw also the burning of the books of the Pansouri school; and the name of Iskandar Thani is preserved in Achehnese memory chiefly as that of the prince under whom the new learning of Raniri replaced the old mysticism of the Malay poets. Kreemer's account, in turn, stresses the institutional consequence: the orthodox victory shaped the subsequent development of Atjèhnese Islam and its institutions, and the female succession that followed Iskandar Thanï inaugurated the half-century of *vrouwenregeering* that would define the next phase of the sultanate's history.
 
 ## See Also
+
 - [[Acheh]]
+- [[Sultan Iskandar Muda|Sultan Iskandar Moeda]]
+- [[Sultan Meukuta Alam]]
+- [[Sultan Tajul-alam|Tadj al-alam Safijatoeddin]]
+- [[Nur al-Din al-Raniri|Noer-ad-dïn ar-Ranïrï]]
+- [[Shaikh Shamsuddin of Sumatra|Sjamsoeddin van Pasè]]
+- [[Hamzah Pansuri|Hamzah Pansoeri]]
+- [[Beit ar-rahman]]
+- [[Sirat al-mustaqim]]
+- [[Bustan al-salatin|Boestan as-salatïn]]
+- [[Female rule of Acheh (1641–1699)]]
 - [[Alauddin al-Qahar]]
 - [[Mecca]]
-- [[Nur al-Din al-Raniri|Pandit Raniri]]
-- [[Nur al-Din al-Raniri|Raniri]]
-- [[Sultan Iskandar Muda]]
-- [[Sultan Meukuta Alam]]
+- [[1636]]
+- [[1637]]
+- [[1638]]
+- [[1641]]
 
-## Source
-*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+## Sources
 
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+*The Achehnese*, Vol. I and Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.

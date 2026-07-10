@@ -1,11 +1,11 @@
 ---
 title: C. Snouck Hurgronje
-aliases: [Christiaan Snouck Hurgronje, Dr. C. Snouck Hurgronje, Dr. Snouck Hurgronje, Snouck Hurgronje, Snouch Hurgronje, Snouck, Dr. Snouck, Prof. Dr. C. Snouck Hurgronje, the advisor on Atjeh affairs, de rijksadviseur, Sn. H.]
-tags: [person, scholar, dutch, orientalist, author, colonial-official, advisor, islamologist, colonial, aceh, buitenbezittingen, achehnese-history]
+aliases: [Christiaan Snouck Hurgronje, Dr. C. Snouck Hurgronje, Dr. Snouck Hurgronje, Snouck Hurgronje, Snouch Hurgronje, Snouck, Dr. Snouck, Prof. Dr. C. Snouck Hurgronje, the advisor on Atjeh affairs, de rijksadviseur, Sn. H., Prof. Snouck Hurgronje, C. Snouck Hurgronje (Kreemer's account, Deel II)]
+tags: [person, scholar, dutch, orientalist, author, colonial-official, advisor, islamologist, colonial, aceh, buitenbezittingen, achehnese-history, 19th-century, 20th-century]
 description: "Prof. Dr. C. Snouck Hurgronje (1857-1936), the world-renowned Dutch scholar of Islam and Muslim law, was sent to the Dutch East Indies in 1889 as Government Advisor and provided services of inestimable value to the colonial government, particularly regarding Atjeh. His works include 'Mekka' and 'De Atjehers'."
 ---
 
-**Christiaan Snouck Hurgronje** ([[8 February]] [[1857]]–[[1936]]), cited on the title-page of Vol. I of *The Achehnese* as **Dr. C. Snouck Hurgronje, Adviser for Native Affairs, Netherlands India**, was a Dutch orientalist, Islamic scholar, and colonial adviser who played a formative role in the pacification of [[Acheh|Atjèh]] (Aceh), both through his intellectual framework for [[Joannes Benedictus van Heutsz|Van Heutsz]]'s policy and as a vocal critic of the appointments and methods that violated it. His two-volume ethnographic and historical study *De Atjehers* (Leiden, [[1893]]–[[1894]]; English translation as *The Achehnese*, [[1906]]) remains even now the standard work on the country and people with which it deals — and the principal source of which the present Wiki is, in effect, an index.
+**Christiaan Snouck Hurgronje** ([[8 February]] [[1857]]–[[1936]]), cited on the title-page of Vol. I of *The Achehnese* as **Dr. C. Snouck Hurgronje, Adviser for Native Affairs, Netherlands India**, was a Dutch orientalist, Islamic scholar, and colonial adviser who played a formative role in the pacification of [[Acheh|Atjèh]] (Aceh), both through his intellectual framework for [[Joannes Benedictus van Heutsz|Van Heutsz]]'s policy and as a vocal critic of the appointments and methods that violated it. His two-volume ethnographic and historical study *De Atjehers* (Leiden, [[1893]]–[[1894]]; English translation as *The Achehnese*, [[1906]]) remains even now the standard work on the country and people with which it deals — and the principal source of which the present Wiki is, in effect, an index. [[J. Kreemer|Kreemer]]'s *Atjèh* (Tweede Deel, [[1923]]) acknowledges its own debt in so many words: Kreemer, as archivist of the Atjèh Instituut, made "vooral een druk en dankbaar gebruik gemaakt van 'De Atjèhers' en van 'Het Gajöland en zijne bewoners'" — "especially a heavy and grateful use of 'De Atjèhers' and of 'Het Gajöland en zijne bewoners'" — and his account of Snouck's preparation, method, and informants is the colonial-period reception of the Snouck Hurgronje corpus from the perspective of the Atjèh-Instituut itself.
 
 ## Preparation: Arabia and Mecca
 
@@ -83,7 +83,35 @@ Snouck Hurgronje's work established a new approach to colonial governance, combi
 
 [[B. ter Haar BzN|B. ter Haar BzN]], in his *[[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)|Beginselen en Stelsel van het Adatrecht]]* (first ed. [[1939]]; 4th ed. [[1950]]), identifies [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *[[Snouck Hurgronje's De Atjehers (1893-94)|De Atjehers]]* ([[1893]]–[[1894]]) as the principal source for the *rechtskring Atjeh* — the first of the nineteen legal circles into which Ter Haar divides the archipelago. The work is, Ter Haar writes, "dus van vóór den legger" — thus from before the [adatrecht] foundation — yet "desalniettemin in dit verband niet mag ontbreken" — nevertheless, must not be absent in this connection. The work of [[J. Kreemer|J. J. Kreemer]], *Atjeh* ([[1922]]–[[1923]]), is noted as bringing, "na Snouck Hurgronje en Van Vollenhoven geen nieuws" — after Snouck Hurgronje and Van Vollenhoven, no news. The Atjeh legal circle is thus one of the *streken* (regions) for which a full, whole-*stof*-covering treatment of the *adatrecht* is available as part of a land-and-people description — the category to which the Gayo legal circle (Snouck Hurgronje's *Het Gajoland*, [[1903]]), the Toba and Dairi Batak legal circle (Ypes, [[1932]]), the Nias legal circle (Schröder, [[1917]]), and the Toradja legal circle (Adriani and Kruyt, [[1912]], [[1938]]) also belong.
 
-[[B. ter Haar BzN|Ter Haar]]'s account draws on *De Atjehers* for the concrete Atjehnese adat-law institutions cited throughout the *Beginselen en Stelsel* as illustrations of general Indonesian legal types — the *[[Djinamée (Atjehnese marriage gift)|djinamée]]* (the Atjehnese marriage gift), the *[[Wang pemasoeqan (Atjeh)|wang pemasoeqan]]* (the Atjehnese *entree*), the *[[Sanbod-aanname (idjaab kaboel) in Atjeh|sanbod-aanname (idjaab kaboel)]]* (the Muslim-derived offer-and-acceptance formula in Atjehnese land-transactions), the *[[Peungklēh (Atjehnese trousseau)|peungklēh]]* (the Atjehnese trousseau), and the *maatschapjes tot het slachten van buffels in Atjeh* (the Atjehnese buffalo-slaughtering partnerships) — and the account places the *rechtskring Atjeh* first in the overview of the nineteen legal circles of the archipelago. The full treatment of the Atjeh *adatrecht*, as drawn from Snouck Hurgronje and as systematised by Ter Haar, is in [[Atjeh adatrecht (Ter Haar account)]].
+[[B. ter Haar BzN|Ter Haar]]'s account draws on *De Atjehers* for the concrete Atjehnese adat-law institutions cited throughout the *Beginselen en Stelsel* as illustrations of general Indonesian legal types — the *[[Djinamée (Atjehnese marriage gift)|djinamée]]* (the Atjehnese marriage gift), the *[[Wang pemasoeqan (Atjeh)|wang pemasoeqan]]* (the Atjehnese *entree*), the *[[Sanbod-aanname (idjaab kaboel) in Atjeh|sanbod-aanname (idjaab kaboel)]]* (the Muslim-derived offer-and-acceptance formula in Atjehnese land-transactions), the *[[Peungklēh (Atjehnese trousseau)|peungklēh]]* (the Atjehnese trousseau), and the *maatschapjes tot het slachten van buffels in Atjeh* (the Atjehnese buffalo-slaughtering partnerships) — and the account places the *rechtskreis Atjeh* first in the overview of the nineteen legal circles of the archipelago. The full treatment of the Atjeh *adatrecht*, as drawn from Snouck Hurgronje and as systematised by Ter Haar, is in [[Atjeh adatrecht (Ter Haar account)]].
+
+## Kreemer's account (Deel II, 1923)
+
+[[J. Kreemer|Kreemer]]'s *Atjèh* (Tweede Deel, [[1923]]) — written from the position of Archivaris van het Atjèh Instituut, and acknowledging its own "heavy and grateful use" of *De Atjèhers* and *Het Gajöland en zijne bewoners* — preserves a compact, archivist's view of Snouck's preparation, method, and informants that complements the longer colonial reception given in the *Buitenbezittingen*, the *Platen Atlas*, and the later *Beginselen en Stelsel*.
+
+### Kreemer's acknowledgement of debt
+
+Kreemer records his own dependence on Snouck in the preface to *Atjèh*. Of the works on which he drew, he writes that he made "vooral een druk en dankbaar gebruik gemaakt van 'De Atjèhers' en van 'Het Gajöland en zijne bewoners'" — "especially a heavy and grateful use of 'De Atjèhers' and of 'Het Gajöland en zijne bewoners.'" The two Snouck monographs are thus, in Kreemer's own declaration, the principal sources of the *Atjèh* (Tweede Deel) — a fact which makes the Kreemer article, in part, a colonial-period reception of Snouck's ethnography rather than an independent parallel account.
+
+### The *korte Atjèhverklaring*
+
+After [[1898]], Kreemer records, Snouck Hurgronje — together with [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] (Van Heutsz) — drafted the three-article *[[Korte Verklaring|korte Atjèhverklaring]]* (short declaration), replacing the earlier six- and eighteen-article declarations. This became the basis of indirect rule in the Onderhoorigheden. Kreemer's testimony confirms, from the Atjèh-Instituut perspective, the Snouck–Van Heutsz authorship of the *korte Atjèhverklaring* that the existing Snouck and Van Heutsz articles of this Wiki already record from the *Buitenbezittingen* account.
+
+### The Gajöland monograph
+
+Kreemer singles out for note the circumstance that Snouck Hurgronje's *Het Gajöland en zijne bewoners* ([[1903]]) — the principal source on the Gayo — was written without the author ever having visited the area, yet was still considered accurate by users in the land itself. The work documented Gayo tribal organisation, kinship (*saudörö*'s), marriage forms (*angkaphuwelijk*, *mënjahan*), and customary law. The accuracy-without-visit is, in Kreemer's reading, a measure of Snouck's ethnographic method: the same combination of informant testimony, linguistic analysis, and comparative reading that had served for *De Atjèhers* served, by extension, for the Gayo country — even though the author had not personally set foot there. The full Snouck Hurgronje monograph on the Gayo country is recorded on this Wiki under [[Snouck Hurgronje's Het Gajoland en zijne bewoners (1903)]].
+
+### Principal informant: Teungkoe Tjhèh Ibrahim
+
+Kreemer records that Snouck Hurgronje's principal Atjèhnese informant was **Teungkoe Tjhèh Ibrahim** — the son of the Pidiësche oelama [[Teungkoe Tjhèh Marahaban|Tjhèh Marahaban]] and, later, hatib of the great mosque at Koeta Radja and a member of the Raad agama. The same Tjhèh Ibrahim "had been one of Snouck Hurgronje's most valued informants" — and subsequently also became Kreemer's principal informant. The continuity of informant from Snouck Hurgronje to Kreemer ensured, Kreemer notes, a consistency between the two major scholarly works on Atjèh: the same hand that supplied *De Atjèhers* in the 1890s supplied *Atjèh* in the 1910s and 1920s. The line of transmission from Snouck to Kreemer thus runs not only through the printed sources but through a single named Atjèhnese *oelama*.
+
+### "De blauwe Prinses in het Gajömeer"
+
+Kreemer also credits Snouck Hurgronje with the separate study "De blauwe Prinses in het Gajömeer" — a study of the legend of the **Pëtëri Idjö** (Blue Princess), the Gayo apparition that rises from the middle of [[Laut Tawar]] in the form of a human bride when the rainbow spans the lake. The study is one of Snouck's minor pieces, but Kreemer's recording of it places it within the corpus on which the *Atjèh* (Tweede Deel) draws for the highland-ethnographic sections.
+
+### Fieldwork in Atjèh, 1891–1892
+
+Kreemer's account underlines that Snouck Hurgronje visited Atjèh in [[1891]]–[[1892]], conducting the fieldwork that would produce his linguistic studies: the *Atjèhsche taalstudiën*, published in *Tijdschrift Bataviaasch Genootschap* dl. 42 ([[1900]]); and the *Studiën over Atjèhsche klank- en schriftleer*, dl. 35 ([[1893]]). These studies "opened a new era for Atjèhnese language knowledge" — a phrase Kreemer uses to mark the break between the pre-Snouck and post-Snouck philological traditions. The same fieldwork also produced the material that became *De Atjèhers*; and the linguistic monographs thus remain, in Kreemer's reading, the indispensable philological companion to the ethnographic and political work for which Snouck is more generally cited in the colonial record.
 
 ## See Also
 
@@ -147,6 +175,12 @@ Snouck Hurgronje's work established a new approach to colonial governance, combi
 - [[Sanbod-aanname (idjaab kaboel) in Atjeh]]
 - [[Peungklēh (Atjehnese trousseau)]]
 - [[J. Kreemer]]
+- [[Snouck Hurgronje's De Atjehers (1893-94)]]
+- [[Snouck Hurgronje's Het Gajoland en zijne bewoners (1903)]]
+- [[Teungkoe Tjhèh Ibrahim]]
+- [[Teungkoe Tjhèh Marahaban]]
+- [[Gajoland]]
+- [[Laut Tawar]]
 - [[1884]]
 - [[1885]]
 - [[1889]]
@@ -155,6 +189,7 @@ Snouck Hurgronje's work established a new approach to colonial governance, combi
 - [[1894]]
 - [[1896]]
 - [[1899]]
+- [[1900]]
 - [[1902]]
 - [[1903]]
 - [[1904]]
@@ -183,3 +218,5 @@ Snouck Hurgronje's work established a new approach to colonial governance, combi
 *Beginselen en Stelsel van het Adatrecht*, door Mr. B. ter Haar Bzn. Vierde ongewijzigde druk. Groningen, Djakarta: J. B. Wolters, 1950. Pp. 245–246 (sources for the *rechtskring Atjeh*).
 
 *DLP-54: Een 16de eeuwse Maleise vertaling van de Burda van al-Būṣīrī* (OCR text 20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt), pp. 31–32.
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.

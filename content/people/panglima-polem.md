@@ -1,13 +1,13 @@
 ---
 title: Panglima Polem
-aliases: [Panglima Polem, Panglima Polim, Panglima Prang Polim, Panglima Polem of the XXII Mukims, Lord Elder Brother, Polem, Polim, Teukoe Panglima Pólém, Panglima Polém, Polém, Po-lem, Panglima Polam, Panglima Pólem, Panglima Polim (Acehnese leader), Panglima Polem XXII, Panglima Polem the elder, sagihoofd XXII moekims, last Panglima Polem, Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed, Teukoe Panglima Polém Moehamad Ali]
-tags: [person, uleebalang, panglima-sagi, xxii-mukims, hereditary, acehnese, sagi, achehnese-war, title, lineage]
+aliases: [Panglima Polem, Panglima Polim, Panglima Prang Polim, Panglima Polem of the XXII Mukims, Lord Elder Brother, Polem, Polim, Teukoe Panglima Pólém, Panglima Polém, Polém, Po-lem, Panglima Polam, Panglima Pólem, Panglima Polim (Acehnese leader), Panglima Polem XXII, Panglima Polem the elder, sagihoofd XXII moekims, last Panglima Polem, Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed, Teukoe Panglima Polém Moehamad Ali, Teukoe Moehamat Dawöt, sagi-head of XXII Moekim's]
+tags: [person, uleebalang, panglima-sagi, xxii-mukims, hereditary, acehnese, sagi, achehnese-war, title, lineage, oelèëbalang, colonial, 19th-century, 20th-century]
 description: "Hereditary title of the chief (panglima sagi) of the XXII Mukims of Great Aceh, borne by a succession of warrior-statesmen from the seventeenth century to 1941."
 ---
 
 > **Note on nomenclature.** The hereditary office discussed here is variously spelt in the sources as *Panglima Polem*, *Panglima Polim*, and (when referring to the Sultan's wartime commander) *Panglima Prang Polim*. The Dutch colonial records transliterate it as *Panglima Pólém* or *Panglima Polém*. All forms denote the same title and the same lineage of bearers. Several distinct historical persons held the office; the article treats the title and lineage as a single entity, with separate sections for each prominent bearer whose career is documented in the sources.
 
-**Panglima Polem** ("Lord Elder Brother") is the hereditary title of the chief (*[[panglima sagi]]*) of the [[XXII Mukims]] of [[Great Acheh|Great Aceh]], and the doyen of the three *sagis* surrounding the Achehnese capital on account of the antiquity of his lineage, the bravery of the men of his *sagi*, and its wealth. The bearer is the senior of the three *panglima sagi* — the guardians of [[Acheh]] — and from at least the early nineteenth century to [[1941]] the title was held by a succession of warrior-statesmen whose careers span the [[Acheh War|Aceh War]] and the colonial period. The best-known bearers are the Panglima Polim who held the balance of power during the [[Acheh succession dispute (1802-1819)|Acheh succession dispute of 1802–1819]] and resisted the [[Raffles-Coombs Acheh Commission (1819)|Raffles–Coombs Commission]] of [[1819]]; the Panglima Polim who led the war-party of [[1875]] and was driven from his fortress of [[Gleiêng|Gléiëng]] in [[1879]]; **Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed**, who came into conflict with the encroaching Dutch troops in [[1896]]; **Teukoe Panglima Polém Moehamad Ali**, who surrendered to [[Hendrikus Colijn|Captain H. Colijn]] on [[15 May]] [[1903]] and was later one of the three principal Achehnese chiefs who wrote the letter of [[1910]]–[[1911]] urging the [[Teungkoe Sjech Saman di Tiri|Tiriō Teungkoes]] to submit; and the last Panglima Polem, who died in [[1941]] decorated with the Knight's Cross of the [[Order of Oranje Nassau]].
+**Panglima Polem** ("Lord Elder Brother") is the hereditary title of the chief (*[[panglima sagi]]*) of the [[XXII Mukims]] of [[Great Acheh|Great Aceh]], and the doyen of the three *sagis* surrounding the Achehnese capital on account of the antiquity of his lineage, the bravery of the men of his *sagi*, and its wealth. The bearer is the senior of the three *panglima sagi* — the guardians of [[Acheh]] — and from at least the early nineteenth century to [[1941]] the title was held by a succession of warrior-statesmen whose careers span the [[Acheh War|Aceh War]] and the colonial period. The best-known bearers are the Panglima Polim who held the balance of power during the [[Acheh succession dispute (1802-1819)|Acheh succession dispute of 1802–1819]] and resisted the [[Raffles-Coombs Acheh Commission (1819)|Raffles–Coombs Commission]] of [[1819]]; the Panglima Polim who led the war-party of [[1875]] and was driven from his fortress of [[Gleiêng|Gléiëng]] in [[1879]]; **Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed**, who came into conflict with the encroaching Dutch troops in [[1896]]; **Teukoe Panglima Polém Moehamad Ali**, who surrendered to [[Hendrikus Colijn|Captain H. Colijn]] on [[15 May]] [[1903]] and was later one of the three principal Achehnese chiefs who wrote the letter of [[1910]]–[[1911]] urging the [[Teungkoe Sjech Saman di Tiri|Tiriō Teungkoes]] to submit; and the last Panglima Polem, who died in [[1941]] decorated with the Knight's Cross of the [[Order of Oranje Nassau]]. [[J. Kreemer|Kreemer]]'s *Atjèh* (Tweede Deel, [[1923]]) records the seventh bearer — Teukoe Moehamat Dawöt — under the heading *Panglima Pölém*, with the full genealogy of the seven holders of the title from the mid-seventeenth-century **Teukoe Moeda Sa'ti** (Lam Tjot) onwards, and adds the *kawöm* affiliation, the kinship with the Keumala pretender-sultanate line through Teungkoe Ratna and Pö Tjoet Meurah, and the patronage of the **Lam Sië school** in the XXII Moekim's.
 
 ## The title and its legend of origin
 
@@ -64,6 +64,8 @@ Following the [[Campaign against the XXVI Moekims (July 1879)|campaign against t
 In the account given by [[A. J. Piekaar|Dr. A. J. Piekaar]] in *Atjèh and the War with Japan*, **Teukoe Panglima Polém** — in full **Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed** — was the [[Panglima Sagi|Panglima Sagi]] of the [[XXII Mukims|XXII Mukims]] of [[Groot-Atjèh|Great Atjèh]], "one of the great figures of the [[Atjèh War|Aceh War]]," whose conflict with the encroaching Dutch troops in [[1896]] made him a central figure of the late Atjèhnese resistance. Piekaar introduces the old Polém as a representative of the traditional Atjèhnese resistance: "Being a good Mohammedan, for the old Pedém in his youth the acceptance of the authority of the infidel (Atj. *kaphé*) had been an abomination and the conduct of the holy war (Atj. *prang sabi*) a religious duty."
 
 In [[1896]], the old Teukoe Panglima Polém "came into conflict with the encroaching Dutch troops" and soon, "through his descent and position, belonged to the foremost figures in the struggle against the Dutch." The conflict placed him at the head of the Atjèhnese resistance in Great Atjèh at the moment when the Dutch — under the system of [[van Heutsz|van Heutsz]] and his flying columns — were beginning the final subjugation of the residency. His decision to take up arms in [[1896]] marked the entry of the Polém house into the front line of the anti-Dutch struggle.
+
+Kreemer's genealogy of the Pölém-geslacht (see below) records this same bearer — the seventh in Kreemer's list — under the personal name **Teukoe Moehamat Dawöt**, with the regnal dates [[1891]] onwards. The identification of Piekaar's "Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed" with Kreemer's "Teukoe Moehamat Dawöt" is supported by the coincidence of the personal name (Moehamad Daoed / Moehamat Dawöt), the office, and the late-nineteenth-century date — Kreemer's "Teukoe Moehamat Dawöt" is thus almost certainly the same bearer as Piekaar's Moehamad Daoed and as the [[Tuanku Muhamat Dawot|Moehamat Dawöt]] who is, on this Wiki, treated under the pretender-sultan article as the last holder of the Pölém title before the colonial reorganisation.
 
 ## The Panglima Polém of the next generation
 
@@ -123,13 +125,45 @@ When, on [[23 February 1942]], [[Major W. F. Palmer van den Broek|Palmer van den
 
 The Panglima Polem who died in [[1941]] was the last of the line who had actively supported the Dutch colonial administration. His grandfather or great-grandfather — depending on the genealogical account — was the Panglima Polem who had submitted to the Dutch in the early consolidation phase and been rewarded with the continuation of the *sagihoofd* position. The exact generation count is not given in the [[Nederlands-Indië contra Japan|staff history's]] account.
 
+## Kreemer's account (Deel II, 1923) — the Pölém-geslacht
+
+[[J. Kreemer|Kreemer]]'s *Atjèh* (Tweede Deel, [[1923]]) records the seventh holder of the Pölém title — **Teukoe Moehamat Dawöt** — and supplies a full genealogy of the seven successive *Panglima Pölém*s of the XXII Moekim's of [[Groot-Atjeh|Groot Atjèh]]. Kreemer's record is the only colonial-period source that gives a continuous genealogy of the lineage from the mid-seventeenth century to the late nineteenth, and it preserves two further details that the Snouck Hurgronje and Piekaar accounts do not record in the same form: the *kawöm* affiliation of the lineage to [[kawom-dja-sandang|Dja Sandang]], and the kinship of the seventh bearer's wife to the Keumala pretender-sultanate line through **Pö Tjoet Meurah**.
+
+### The seven Pöléms of Kreemer's record
+
+The line of successive Panglima Pöléms, as recorded by Kreemer, runs:
+
+1. **Teukoe Moeda Sa'ti** (Lam Tjot) — the first head, mid-seventeenth century.
+2. **Teukoe Panglima Pölém** — the eponymous second bearer.
+3. **Tjoet Kléng**.
+4. **Tjoet Amat** (d. [[1845]]).
+5. **Tjout Banta** ([[1845]]–[[1879]]).
+6. **Radja Koeala** ([[1879]]–[[1891]]).
+7. **Teukoe Moehamat Dawöt** ([[1891]]–).
+
+The genealogy is the principal Atjèhnese-informant record of the Pölém line: it gives the personal names of seven bearers across some two-and-a-half centuries, with the regnal dates of the last four. The sixth bearer — **Radja Koeala** ([[1879]]–[[1891]]) — is almost certainly the same person as the *Radja Koelala* whom the Snouck Hurgronje account names as the son of the Panglima Polim driven from [[Gleiêng|Gléiëng]] in [[1879]] and as the companion of his father in the retreat to "Kemala" south of Pedir. The seventh bearer — **Teukoe Moehamat Dawöt** (regnal dates [[1891]] onwards) — is the bearer whose conflict with the encroaching Dutch troops in [[1896]] is recorded by Piekaar under the name Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed (see above, "## Teukoe Panglima Polém Moehamad Daoed: the 1896 conflict"). Kreemer's "Teukoe Moehamat Dawöt" is thus the same person as Piekaar's "Moehamad Daoed" and as the [[Tuanku Muhamat Dawot|Moehamat Dawöt]] of the pretender-sultan article.
+
+### Role and connections: Teungkoe Ratna and the Keumala line
+
+Kreemer records that, as *sagi-head* of the XXII Moekim's, Panglima Pölém was one of the three most powerful territorial chiefs in [[Groot-Atjeh|Groot Atjèh]]. His wife was **Teungkoe Ratna**, sister of **[[Toeankoe Radja Keumala (Moesa)|Toeankoe Radja Keumala (Moesa)]]** — the *geestelijk adviseur* to the governor and son of Toeankoe Asém (Pangéran Asem), the fiercest opponent in the [[Aceh War|Atjèh-oorlog]]. This marriage connected the Pölém line to the [[Keumala|Keumala]] pretender-sultanate line through **Pö Tjoet Meurah**, who was aunt to Toeankoe Radja Keumala.
+
+The kinship network is, in Kreemer's account, the political anatomy of the late nineteenth-century Atjèhnese resistance: the *sagi-head* of the XXII Moekim's is brother-in-law to the *geestelijk adviseur* to the colonial governor, who is himself the son of the fiercest native opponent of the Dutch — and the connection runs, through Pö Tjoet Meurah, to the Keumala line that sustained the pretender-sultanate after the fall of the *Dalam* in [[1874]]. The Pölém-Keumala alliance is thus both an inter-sagi and an inter-dynastic fact, and is one of the principal pieces of evidence for the integration of the territorial and the religious-political wings of the Atjèhnese resistance under the Polém house.
+
+### The *kawöm* Dja Sandang
+
+Kreemer records that the seventh bearer — Teukoe Moehamat Dawöt — belonged to the *kawöm* (clan) **Dja Sandang**. The [[kawom-dja-sandang|Dja Sandang]] lineage is recorded elsewhere in Kreemer's corpus as the "old-fashioned" lineage (*ouderwetse geslacht*) of [[Groot-Atjeh|Groot-Atjeh]] among whom the [[Pantang of the albino buffalo in Atjeh|prohibition on slaughtering the albino buffalo]] applied. The Pölém line's affiliation to the Dja Sandang *kawöm* is, in Kreemer's reading, a marker of its antiquity within the kinship structure of Great Atjèh — a marker consistent with the *sagihead*'s claim to be the "elder brother" of the sultan.
+
+### Patronage of the Lam Sië school
+
+Kreemer records that Panglima Pölém was the patron of the **Lam Sië school** in the XXII Moekim's — the only religious school (*balè*) in [[Groot-Atjeh|Groot Atjèh]] where the *teungkoe*'s received salaries: the main *teungkoe* ƒ40/month and the *teungkoe-rangkang* ƒ25/month. The patronage of the Lam Sië school made the Pölém line, in Kreemer's reading, a significant patron of Islamic higher education in the region — and the only *sagi-head* whose patronage of a *balè* took the institutional form of a salaried teaching staff. The detail is the principal Atjèhnese-informant evidence for the integration of the Pölém house into the religious-educational infrastructure of Great Atjèh: the same *sagihead* who held the kinship alliance with the Keumala pretender-sultanate also sustained, at his own expense, the principal salaried religious school of the *sagi*.
+
 ## Historical note in Dutch marine corps historiography
 
 An entry for "Panglima Polim" appears on page [[116]] of *De geschiedenis van het Nederlandsche Korps Mariniers van 1665–1945* (pages [[485]]–[[488]]). Its inclusion among Dutch marine corps entries underscores his prominence in the resistance against Dutch incursions into [[Aceh]] and reflects the impact of Acehnese leaders on Dutch military planning.
 
 ## Legacy
 
-The Panglima Polem title and lineage epitomise the hereditary military aristocracy of Acheh — the *panglima sagi* institution that mediated between sultan and *uleebalangs* and that produced, across three centuries, statesmen, war-commanders, and finally the principal Dutch political anchor of the late colonial period. The Panglima Polim of 1819, who held the balance of power in the succession dispute and treated the [[Raffles-Coombs Acheh Commission (1819)|Raffles–Coombs Commission]] with undisguised contempt, set the type; the Panglima Polim of 1875–1879, driven from [[Gleiêng|Gléiëng]] and into the Pedir upper lands, embodies the first phase of the *prang Gompeuni* — the war of the sultan, the *uleebalangs*, and the irregular chiefs. The Moehamad Daoed–Moehamad Ali succession carries the lineage through the high Aceh War and the surrender of [[1903]] to the political-religious agitation of the colonial period; the last Panglima Polem's death in [[1941]] closes the line. The career of the lineage illustrates the complexity of Acehnese resistance, navigating between open opposition and strategic accommodation to colonial powers, and contrasts with the later religious leaders (*teungkus* and *ulamas*) who, after the [[Dutch Concentration Scheme|concentration scheme]], became the principal organisers of resistance.
+The Panglima Polem title and lineage epitomise the hereditary military aristocracy of Acheh — the *panglima sagi* institution that mediated between sultan and *uleebalangs* and that produced, across three centuries, statesmen, war-commanders, and finally the principal Dutch political anchor of the late colonial period. The Panglima Polim of 1819, who held the balance of power in the succession dispute and treated the [[Raffles-Coombs Acheh Commission (1819)|Raffles–Coombs Commission]] with undisguised contempt, set the type; the Panglima Polim of 1875–1879, driven from [[Gleiêng|Gléiëng]] and into the Pedir upper lands, embodies the first phase of the *prang Gompeuni* — the war of the sultan, the *uleebalangs*, and the irregular chiefs. The Moehamad Daoed–Moehamad Ali succession carries the lineage through the high Aceh War and the surrender of [[1903]] to the political-religious agitation of the colonial period; the last Panglima Polem's death in [[1941]] closes the line. The career of the lineage illustrates the complexity of Acehnese resistance, navigating between open opposition and strategic accommodation to colonial powers, and contrasts with the later religious leaders (*teungkus* and *ulamas*) who, after the [[Dutch Concentration Scheme|concentration scheme]], became the principal organisers of resistance. Kreemer's record of the seven Pöléms from Teukoe Moeda Sa'ti onwards adds, to this picture, the genealogical and kinship depth that the Snouck-Piekaar-Dames tradition does not preserve in the same continuous form.
 
 ## See Also
 
@@ -140,7 +174,7 @@ The Panglima Polem title and lineage epitomise the hereditary military aristocra
 - [[XXVI Mukims]]
 - [[Panglima Sagi]]
 - [[Great Acheh]]
-- [[Groot-Atjèh]]
+- [[Groot-Atjeh]]
 - [[Sultan Meukuta Alam]]
 - [[Meura'sa]]
 - [[Dalam]]
@@ -173,6 +207,7 @@ The Panglima Polem title and lineage epitomise the hereditary military aristocra
 - [[Redep]]
 - [[Indrapoeri]]
 - [[Kemala]]
+- [[Keumala]]
 - [[Campaign against the XXII Moekims (1879)]]
 - [[Campaign against the XXVI Moekims (July 1879)]]
 - [[Selimoen Expedition (August 1879)]]
@@ -188,6 +223,9 @@ The Panglima Polem title and lineage epitomise the hereditary military aristocra
 - [[General van der Heijden]]
 - [[H. N. A. Swart]]
 - [[Toeankoe Machmoed Radja Keumala]]
+- [[Toeankoe Radja Keumala (Moesa)]]
+- [[Tuanku Muhamat Dawot]]
+- [[Pö Tjoet Meurah]]
 - [[Teungkoe Sjech Saman di Tiri]]
 - [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
 - [[Prang sabi]]
@@ -209,11 +247,16 @@ The Panglima Polem title and lineage epitomise the hereditary military aristocra
 - [[A. J. Piekaar]]
 - [[G. W. T. Dames]]
 - [[Van Daalen's Gajo Expedition]]
+- [[Kawom]]
+- [[kawom-dja-sandang]]
+- [[J. Kreemer]]
 - [[1855]]
 - [[1875]]
 - [[1879]]
+- [[1891]]
 - [[1896]]
 - [[1903]]
+- [[1910]]
 - [[1913]]
 - [[1941]]
 - [[1942]]
@@ -237,3 +280,5 @@ The Panglima Polem title and lineage epitomise the hereditary military aristocra
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
 
 *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 113, 119–120, 127.
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
