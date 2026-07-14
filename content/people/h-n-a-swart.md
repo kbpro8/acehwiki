@@ -1,7 +1,7 @@
 ---
 title: H. N. A. Swart
-aliases: ["H. N. A. Swart", "H. N. N. A. Swart", "Hendrik Nikolaas Albert Swart", "Swart", "Mr. Swart", "Major Swart", "Kolonel Swart", "Generaal Swart", "General Swart", "Governor Swart", "Gouverneur Swart", "Lieutenant-General Swart", "Toean Gouverneur Swart", "Aceh-connoisseur Swart", "successor of Van Daalen"]
-tags: [person, general, dutch, colonial, military, governor, aceh, aceh-war, knil, bestuursreorganisatie, 20th-century]
+aliases: ["H. N. A. Swart", "H. N. N. A. Swart", "Hendrik Nikolaas Albert Swart", "Swart", "Mr. Swart", "Major Swart", "Kolonel Swart", "Generaal Swart", "General Swart", "Governor Swart", "Gouverneur Swart", "Lieutenant-General Swart", "Toean Gouverneur Swart", "Aceh-connoisseur Swart", "successor of Van Daalen", "Colonel Swart", "overste Swart", "Swart (Raad van Indië nominee for Atjeh)"]
+tags: [person, general, dutch, colonial, military, governor, aceh, aceh-war, knil, bestuursreorganisatie, 20th-century, acheh]
 description: "Dutch lieutenant-general of infantry (active 1890s–1918) who, as Civil and Military Governor of Atjeh en Onderhoorigheden from 1908 to 1918, restored conciliatory governance after the Van Daalen years, presided over the 1913–1914 Sumatra administrative reform, and finally handed a peaceful Aceh over to a civilian governor in 1918 — closing the forty-five-year Aceh War."
 ---
 
@@ -113,66 +113,93 @@ The *wegenfonds* (road-maintenance fund) maintained by the *oelèëbalang*'s cea
 
 The *boetenfonds* (fines fund), maintained separately, was absorbed into the *landschapskassen* (territorial treasury funds) on **1 January [[1912]]**.
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**Swart** — a Dutch colonel (*overste*) — is the officer whom the [[Raad van Indië]] recommended in [[1905]] for the post of military commander and governor of Atjeh, and whom governor-general [[J. B. van Heutsz|Van Heutsz]] passed over in favour of [[G. C. E. van Daalen|Van Daalen]]. The episode is one of the most consequential personnel decisions of the [[Pacificatie van Atjeh|pacificatie]] period: had the [[Raad van Indië]]'s recommendation prevailed, the [[Avondpost "Wekeer" articles (October 1907)|"Wekeer" affair]] of October [[1907]] might never have occurred.
+
+### The 1905 nomination
+
+When, in [[1905]], the post of *militair commandant en gouverneur van Atjeh* fell vacant — [[J. B. van Heutsz|Van Heutsz]] having been elevated to the governor-generalship — the [[Raad van Indië]] considered the candidates and recommended Colonel Swart. Governor-general [[J. B. van Heutsz|Van Heutsz]] overrode the recommendation: he persuaded the minister to appoint [[G. C. E. van Daalen|Van Daalen]] instead. The inspection tour [[J. B. van Heutsz|Van Heutsz]] undertook in December [[1907]] — after the [[Avondpost "Wekeer" articles (October 1907)|"Wekeer" articles]] — was to prove the [[Raad van Indië]]'s instinct sound: [[G. C. E. van Daalen|Van Daalen]]'s "verkeerde politiek gevoerd tegenover de hoofden" was the explicit finding of the [[Van Heutsz's report on Atjeh (June 1908)|June 1908 report]].
+
+### The 1908 aftermath
+
+The removal of [[G. C. E. van Daalen|Van Daalen]] in [[December 1907]] and the [[Van Heutsz's report on Atjeh (June 1908)|June 1908 report]] installed in Atjeh the "vanouds beproefd gebleken stelsel van bestuur door middel van de hoofden, die men door tactvolle omgang aan het Nederlandse gezag moest binden" — the long-tried system of administration through the chiefs, who were to be bound to Dutch authority by tactful intercourse. [[G. C. E. van Daalen|Van Daalen]]'s maxim had been: "gij kunt die kerels niet vertrouwen, gij moet ze ook niet vertrouwen, gij moet ze slaan en drukken en dan zullen ze u gehoorzamen" — you cannot trust those fellows, you must not trust them, you must beat them and press them and then they will obey you. The [[Raad van Indië]]'s recommendation of [[Swart (colonel, Atjeh)|Swart]] is the institutional record of an alternative policy — one that, in the event, was tried too late.
+
+### Significance
+
+The [[Raad van Indië]]'s recommendation of [[Swart (colonel, Atjeh)|Swart]] in [[1905]] is, in retrospect, the lost alternative of the Atjehnese post-conquest period. The decision of [[J. B. van Heutsz|Van Heutsz]] to override that recommendation is the proximate cause of the [[Van Daalen's Gajo-Alas-Batak expedition (1904)|Gajoe-Alas-Batak atrocities]] of [[1904]]-[[1905]] and of the [[Avondpost "Wekeer" articles (October 1907)|"Wekeer" affair]] of October [[1907]].
+
 ## See Also
 
-- [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[Aceh War]]
-- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
-- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
-- [[Hendrikus Colijn|H. Colijn]]
-- [[C. Snouck Hurgronje|Snouck Hurgronje]]
-- [[J. Kreemer]]
-- [[Atjéh-enquête]]
-- [[Pacification of Aceh]]
-- [[Korte Verklaring]]
-- [[Hasil-reglement]]
-- [[Wasé oelèëbalang]]
-- [[Volksonderwijs]]
-- [[Moekimschool]]
 - [[Landschapskassen]]
-- [[Groot-Atjeh]]
-- [[Pedir]]
-- [[Singkel]]
-- [[Zuider- en Oosterafdeeling van Borneo]]
-- [[Celebes]]
-- [[Boni]]
-- [[Kingdom of Loewoe|Loewoe]]
-- [[Panglima Polem|Panglima Prang Polim]]
-- [[Toeankoe Machmoed Radja Keumala]]
-- [[Teungkoe Sjech Saman di Tiri]]
-- [[Colonne Schmidt campaign against the Tiriō Teungkues (1910-1911)]]
-- [[S. de Graaff]]
-- [[Bestuursreorganisatie Sumatra (1913-1914)]]
-- [[Gewestelijke Raad Noord-Sumatra]]
-- [[Civiel Gezaghebber]]
-- [[Sagi]]
-- [[Peleebalangschap]]
-- [[Moekimschap]]
-- [[Koeta-Radja]]
-- [[Dominee Thenu]]
-- [[Queen Wilhelmina|Koningin Wilhelmina]]
-- [[Datoek]]
-- [[Blang Rakal]]
-- [[Council of the Indies]]
-- [[H. N. A. Swart|Generaal Swart (book)]]
-- [[Oom Ambon van het K.N.I.L.]]
-- [[Oost-Indisch Journael]]
-- [[Buyckjens]]
-- [[Geumpenie]]
-- [[Handover of Aceh to a civil Gouverneur (1918)]]
 - [[1905]]
-- [[1906]]
-- [[1907]]
-- [[1908]]
-- [[1909]]
-- [[1910]]
-- [[1911]]
-- [[1912]]
-- [[1914]]
-- [[1915]]
-- [[1918]]
+- [[Aceh War]]
+- [[Pedir]]
 - [[1919]]
+- [[1915]]
+- [[1906]]
+- [[Celebes]]
+- [[Moekimschap]]
+- [[Atjéh-enquête]]
+- [[S. de Graaff]]
+- [[Council of the Indies]]
+- [[1910]]
+- [[Korte Verklaring]]
+- [[Peleebalangschap]]
+- [[Kingdom of Loewoe|Loewoe]]
+- [[Teungkoe Sjech Saman di Tiri]]
+- [[Blang Rakal]]
+- [[Handover of Aceh to a civil Gouverneur (1918)]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[Zuider- en Oosterafdeeling van Borneo]]
+- [[1912]]
+- [[1908]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
+- [[Panglima Polem|Panglima Prang Polim]]
+- [[1911]]
+- [[Geumpenie]]
+- [[Datoek]]
+- [[Wasé oelèëbalang]]
+- [[Oost-Indisch Journael]]
+- [[Koeta-Radja]]
+- [[Moekimschool]]
+- [[Oom Ambon van het K.N.I.L.]]
+- [[1914]]
+- [[Dominee Thenu]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[1909]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[1918]]
+- [[Gewestelijke Raad Noord-Sumatra]]
+- [[J. Kreemer]]
+- [[Queen Wilhelmina|Koningin Wilhelmina]]
+- [[Civiel Gezaghebber]]
+- [[Pacification of Aceh]]
+- [[Volksonderwijs]]
+- [[Sagi]]
 - [[1934]]
+- [[1907]]
+- [[Hasil-reglement]]
+- [[Boni]]
+- [[Groot-Atjeh]]
+- [[Colonne Schmidt campaign against the Tiriō Teungkues (1910-1911)]]
+- [[Hendrikus Colijn|H. Colijn]]
+- [[Buyckjens]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
+- [[Toeankoe Machmoed Radja Keumala]]
+- [[H. N. A. Swart|Generaal Swart (book)]]
+- [[Singkel]]
+- [[Van Daalen's resignation (December 1907)]]
+- [[Avondpost "Wekeer" articles (October 1907)]]
+- [[Raad van Indië]]
+- [[J. B. van Heutsz]]
+- [[Pacificatie van Atjeh]]
+- [[G. C. E. van Daalen]]
+- [[Van Heutsz's report on Atjeh (June 1908)]]
 
 ## Sources
 
@@ -187,3 +214,5 @@ The *boetenfonds* (fines fund), maintained separately, was absorbed into the *la
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), p. 273.
