@@ -1,8 +1,8 @@
 ---
 title: Atjeh en Onderhorigheden
-aliases: ["Aceh and Dependencies", "Atjeh and Dependencies", "Atjèh en Onderhoorigheden", "Gouvernement Atjeh en Onderhorigheden", "residency of Atjeh\"", "\"Atjeh en Onderhoorigheden\"", "\"Residency of Atjeh\""]
+aliases: ["Aceh and Dependencies", "Atjeh and Dependencies", "Atjèh en Onderhoorigheden", "Gouvernement Atjeh en Onderhorigheden", "residency of Atjeh\", ", ", "Atjeh en Onderhoorigheden\", ", ", "Residency of Atjeh\", "Atjeh en Onderhorigheden", "Atjeh en Onderhoorigheden"]
 
-tags: ["achehnese", "administrative-unit", "colonial", "dutch", "place", "residency", "atjeh"]
+tags: [achehnese, administrative-unit, colonial, dutch, place, residency, atjeh, concept, acheh, administrative]
 ---
 
 ## In De Karbouw
@@ -26,7 +26,80 @@ Atjeh en Onderhorigheden is significant for the encyclopedia of [[Acheh]] histor
 
 
 
-## Source
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**Atjeh en Onderhorigheden** — "Atjeh and its Dependencies" — was the formal Dutch colonial administrative designation for the territory of the former [[Acheh|Atjeh]] sultanate after its conquest in the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]] of [[1873]]-[[1904]]. The designation is the colonial-administrative successor to the independent [[Sultan of Acheh|Sultanate of Atjeh]] and the predecessor of the modern Indonesian province of [[Aceh (modern Indonesian province)|Aceh]].
+
+### The post-conquest administration
+
+After the [[Van Daalen's Gajo-Alas-Batak expedition (1904)|1904 expedition of Van Daalen]] and the subsequent [[Pacificatie van Atjeh|pacificatie]], the territory of the former [[Acheh|Atjeh]] sultanate was administered as a single colonial unit under a governor and military commander — the post held successively by [[J. B. van Heutsz|Van Heutsz]] ([[1898]]-[[1904]]), [[G. C. E. van Daalen|Van Daalen]] ([[1905]]-[[1907]]) and others — with seat at [[Koeta Radja|Koeta Radja]]. The administration was, after the [[Van Heutsz's report on Atjeh (June 1908)|June 1908 report]] of [[J. B. van Heutsz|Van Heutsz]], organised on the "vanouds beproefd gebleken stelsel van bestuur door middel van de hoofden" — the long-tried system of administration through the chiefs.
+
+### The economic frame
+
+The [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] was the colonial-administrative frame within which the Atjeh oilfields — at [[Pedirse]], [[Peureula]], [[Pasé oil field|Pasé]] and elsewhere — were exploited under the [[Mijnwet|Mijnwet]] of [[1899]] and its [[Mijnwet art. 5a (1910)|Article 5a amendment]] of [[1910]]. The [[Koninklijke Petroleum Maatschappij|Koninklijke]]/[[Perlak Petroleum Maatschappij|Perlak]] disclosure of [[1905]]-[[1910]] was, in this administrative frame, the proximate episode that triggered the legislative intervention.
+
+### The administrative headcount
+
+The [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] was, in the [[W. H. Vermeulen|Vermeulen]]-period colonial record, the type-specimen of the under-manned colonial territory. [[H. C. Thomson|Thomson]]'s warning in the [[1904]] [[Tweede Kamer]] debate — that "seventy men to patrol the whole of [[Gajoland]]" was "verregaand onvoldoende" — grossly insufficient — is the canonical statement of the garrisoning problem of the *pacificatie*.
+
+### Significance
+
+[[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] is the formal Dutch colonial-administrative frame within which the post-conquest administration of Atjeh was conducted. The designation is, in the [[W. H. Vermeulen|Vermeulen]] retrospective, the political-administrative successor to the [[Sultan of Acheh|Sultanate of Atjeh]] and the predecessor of the modern Indonesian province of [[Aceh (modern Indonesian province)|Aceh]].
+
+## See Also
+
+- [[Rinaud]]
+- [[Aceh War]]
+- [[Kreemer's De Karbouw ([[1956]]
+- [[Kota Radja]]
+- [[Alasland]]
+- [[Pedirse]]
+- [[Pasei]]
+- [[Van Bemmelen's The Geology of Indonesia (1949)]]
+- [[Netherlands Indies Mining Law of 1899]]
+- [[1873]]
+- [[Acheh]]
+- [[Indisch Verslag 1939]]
+- [[Kinandam-Sumatra Mijnbouw Mij.]]
+- [[N.O.-kust van Atjeh]]
+- [[Atjeh's Westkust]]
+- [[Coal in Atjeh]]
+- [[1874]]
+- [[1885]]
+- [[Gajoland]]
+- [[Oil exploration in North Sumatra]]
+- [[1949]]
+- [[J. Kreemer]]
+- [[Kreemer's Atjeh ([[1922]]
+- [[Simaloer]]
+- [[East Atjeh oil block]]
+- [[Bureau of Mines in Indonesia]]
+- [[Groot-Atjeh]]
+- [[Tamiang oil block]]
+- [[M.A.E.M.]]
+- [[Banda Acheh]]
+- [[Kleine-Atjeh]]
+- [[J. Zulkler]]
+- [[1910]]
+- [[Mijnwet]]
+- [[Sultan of Acheh]]
+- [[G. C. E. van Daalen]]
+- [[1904]]
+- [[1908]]
+- [[Koeta Radja]]
+- [[Koninklijke Petroleum Maatschappij]]
+- [[J. B. van Heutsz]]
+- [[Perlak Petroleum Maatschappij]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[Mijnwet art. 5a (1910)]]
+- [[Van Heutsz's report on Atjeh (June 1908)]]
+
+## Sources
 
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 50-51.
 
@@ -35,68 +108,4 @@ Atjeh en Onderhorigheden is significant for the encyclopedia of [[Acheh]] histor
 
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 56 (Atjeh and Dependencies coal exploration summary), pp. 9–10 (North Sumatra oil production, including the Atjeh fields).
 
-
-## Account from *The Geology of Indonesia* ([[1949]]) — Atjeh en Onderhorigheden
-
-### The 1873-1904 Atjeh War and the founding of the Residency
-
-The Residency of Atjeh en Onderhorigheden was founded in the immediate aftermath of the [[1873]] Dutch expedition against the Atjeh sultanate. After the capture of the Atjehnese capital (the *Dalam*, the sultan's palace) in [[1874]], the Dutch colonial administration established [[Kota Radja]] as the seat of the *Gouverneur van Atjeh en Onderhorigheden* and as the garrison town of the colonial army in the residency. The Atjeh War continued, in the form of guerrilla resistance, until approximately [[1904]], and the Residency accordingly spent its first three decades under effective military rule. The colonial geological surveys of Atjeh — beginning with Rinaud's [[1885]] coal survey — were accordingly conducted in a military-frontier context, and the printed mineralogical record of the Residency reflects the gradual opening-up of the Atjeh interior to colonial scientific field-work over the decades between [[1873]] and [[1904]].
-
-### Territorial extent and subdivision
-
-The Residency of Atjeh en Onderhorigheden covered the entire northern tip of Sumatra, and was subdivided (in the late colonial period) into several *afdeelingen* (districts) including:
-
-- **Groot-Atjeh** (Greater Atjeh) — the heartland of the former sultanate, around [[Kota Radja]].
-- **Pedirse** (Pidie) — the north-coast region, including the historical Muslim kingdom of [[Pasei|Samudra Pasai]] and the [[Pasé oil field|Pasé]] and [[Peureula]] oil fields of the [[Atjeh oil complex]].
-- **Atjeh's Westkust** — the western coastal region, including [[Meulaboh]] and the [[Basin of Meulaboh|Meulaboh coastal basin]] with its gold-and-platinum placers.
-- **Oostkust van Atjeh** (East Coast of Atjeh) — the eastern coastal region, including the [[East Atjeh oil block|East Atjeh oil block]] and the East-Atjeh coal localities.
-- **Gajoland** (the Gayo highlands) — the interior highlands of central Atjeh.
-- **Alasland** — the Alas valley in south-eastern Atjeh.
-
-The Residency was bounded to the south by the Residency of Tapanuli (with the border running through the Muara Sipongi area, immediately south of the Atjeh border, where [[A. Tobler|Tobler]] and [[P. Hövig|Hövig]] worked on the contact-metamorphic iron-ore deposits that supplied the geological model for the Atjeh iron-ore localities).
-
-### The Residency as a mineral-geographical unit
-
-The Residency of Atjeh en Onderhorigheden is the standard territorial unit of the colonial mineralogical literature on Atjeh. Van Bemmelen's summary judgment on the Atjeh coal exploration — "Several explorations for coal have been made in the northern part of Sumatra (Atjeh and Dependencies) but the results were disappointing, as large quantities of coal have not been discovered" — is expressed in terms of the Residency as a whole, and the [[1940]]–[[1941]] production tables for the North Sumatra oil province distinguish the [[East Atjeh oil block|East Atjeh block]], the [[Tamiang oil block|Tamiang block]] and the [[Atjeh oil complex]] fields as the Atjeh-territorial component of the wider North-Sumatran petroleum economy. The Residency is also the territorial unit within which the [[Netherlands Indies Mining Law of 1899]] was applied, and the colonial mining concessions in Atjeh — the [[1883]] [[J. Zulkler|Zulkler]] oil concession, the [[1909]] [[Kinandam-Sumatra Mijnbouw Mij.]] coal leases, and the [[1940]] [[M.A.E.M.]] Geudong Concession — were all granted under the Law's state-mineral-rights principle as it applied within the Residency.
-
-### Significance
-
-Atjeh en Onderhorigheden is significant for the encyclopedia of [[Acheh]] history because it is the colonial administrative unit — the Residency — within which the entire colonial mineralogical record of Atjeh was compiled. The Residency's territorial extent defines the scope of the colonial geological literature on Atjeh, and the Residency's subdivision into Groot-Atjeh, Pedirse, Atjeh's Westkust, Oostkust van Atjeh, Gajoland and Alasland provides the geographical framework within which the Atjeh mineral occurrences are recorded. The Residency is also the territorial unit within which the [[Netherlands Indies Mining Law of 1899]] was applied, and the colonial mining concessions in Atjeh were all granted under the Law's provisions as they applied within the Residency. The Residency's founding in the aftermath of the [[1873]]–[[1904]] Atjeh War also marks the beginning of the colonial mineralogical record of Atjeh, and the Residency's dissolution in the post-[[1949]] Indonesian Republic accordingly marks the end of the colonial documentary sequence.
-
-
-
-## See Also
-
-- [[Kleine-Atjeh]]
-- [[Groot-Atjeh]]
-- [[Alasland]]
-- [[Aceh War]]
-- [[Gajoland]]
-- [[Indisch Verslag 1939]]
-- [[Atjeh's Westkust]]
-- [[Kreemer's Atjeh ([[1922]]
-- [[Kreemer's De Karbouw ([[1956]]
-- [[Simaloer]]
-- [[N.O.-kust van Atjeh]]
-- [[Banda Acheh]]
-- [[J. Kreemer]]
-- [[Acheh]]
-- [[Bureau of Mines in Indonesia]]
-- [[Coal in Atjeh]]
-- [[East Atjeh oil block]]
-- [[J. Zulkler]]
-- [[Kinandam-Sumatra Mijnbouw Mij.]]
-- [[Kota Radja]]
-- [[M.A.E.M.]]
-- [[Netherlands Indies Mining Law of 1899]]
-- [[Oil exploration in North Sumatra]]
-- [[Pasei]]
-- [[Pedirse]]
-- [[Rinaud]]
-- [[Tamiang oil block]]
-- [[Van Bemmelen's The Geology of Indonesia (1949)]]
-- [[1873]]
-- [[1874]]
-- [[1885]]
-- [[1949]]
-
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-275, 305-306.
