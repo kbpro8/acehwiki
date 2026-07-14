@@ -1,7 +1,7 @@
 ---
 title: Aceh War
-aliases: [Dutch-Aceh War, Atjeh War, Atjeh-oorlog, atjeh oorlog, events/atjeh-oorlog, Perang Aceh, Acehnese War, Aceh War, Achehnese-Dutch War, Prang Acèh, Aceh-Dutch War, Acheh-Dutch War, Prang Gompeuni, Dutch War in Acheh, Achehnese War, Beginning of the Dutch war in Acheh, Atjeh-krijg, Achinese War, Aceh War 1873, Atjehoorlog, Atjeh Oorlog, Aceh Expedition, Acheh War]
-tags: [event, war, dutch-colonial, military, political, political-history, military-history, colonial, dutch, religious]
+aliases: ["Atjeh-oorlog (1873-1904)", "Atjeh-oorlog", "Aceh War", "Acheh War", "Atjehoorlog", "Atjeh oorlog", "the Atjeh war", "Atjeh War"]
+tags: [event, war, dutch-colonial, military, political, political-history, military-history, colonial, dutch, religious, acheh]
 ---
 
 **The Aceh War** (Dutch: *Atjeh-oorlog*) was the military conflict between the [[Netherlands India|Dutch colonial government]] and the [[Acehnese People|Acehnese people]] that began in [[years/1873|1873]] and continued with varying intensity for decades. It was one of the longest and most costly colonial wars in Dutch history, and the defining catastrophe of the nineteenth century for [[Great Acheh|Acheh]].
@@ -164,80 +164,147 @@ The Dutch journalist Johan Luger, writing in the memorial for [[Maurice Henri du
 
 [[Dr. W. A. Terwogt|Terwogt]]'s key judgments: the first expedition was begun "met te geringe macht, overmoedig, met volkomen miskenning van de dapperheid en doodsverachting der Atjehers" (with too small a force, overconfident, with complete misappreciation of the bravery and death-defiance of the Atjehnese); the death of [[J. H. R. Köhler|Generaal-Majoor Köhler]] and the failed assault on the Kraton by [[Gotfried Coenraad Ernst van Daalen|Gotfried Coenraad Ernst van Daalen]] led to the withdrawal of [[25 April]] [[1873]] — "Zoo eindigde deze expeditie op treurige wijze. Wij hadden de nederlaag geleden" (Thus ended this expedition in a sad manner. We had suffered the defeat). The second expedition under [[Jan van Swieten|Jan van Swieten]] — over 6,000 strong, landed under [[Verspijck|Verspijck]] on [[9 December]] [[1873]] — occupied the Kraton on [[24 January]] [[1874]] (found deserted), named it [[Kutaradja|Kota-Radja]], and entrusted the command to [[J. L. J. H. Pel|J. L. J. H. Pel]]. The war continued, however, "onverzwakt" (unabated) to the end of [[1891]], thanks to the "wisselende houding" (wavering attitude) of the Dutch government. The account closes with the hope placed in the new Minister of Colonies, [[W. K. Baron van Dedem|W. K. Baron van Dedem]], who declared that he expected no good from "toegeven en zachtheid" (yielding and softness) toward the "fanatieken Atjeher" (fanatical Atjehnese).
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**The Atjeh-oorlog (1873-1904)** — the Atjeh War — was the thirty-one-year military conflict between the [[Netherlands]] and the [[Acheh|Atjeh]] sultanate, opened by the [[Declaration of war against the Sultan of Atjeh (1873)|Dutch declaration of war of 1873]] on the [[Sultan of Acheh|sultan of Atjeh]] and concluded, in its principal military phase, by the [[Van Daalen's Gajo-Alas-Batak expedition (1904)|Gajo-Alas-Batak expedition of Van Daalen]] of [[1904]] and the subsequent [[Pacificatie van Atjeh|pacificatie]]. The war is the central colonial episode of the [[W. H. Vermeulen|Vermeulen]]-period *Oost-Indië in het Nederlandse Parlement 1891-1918*; every major colonial debate of the period — the [[Ethische Politiek|ethical-policy]] proclamation of [[Troonrede of 1901|1901]], the *adat*-law revision, the *Mijnwet* and the Atjeh oil contracts, the *Volksraad* instalment — refers back to it.
+
+### Origins
+
+The diplomatic prelude to the [[Atjeh-oorlog (1873-1904)|Atjeh-oorlog]] was the [[Sumatra-tractaat ([[1871]])|Sumatra-tractaat]] of [[1871]] between the [[Netherlands]] and [[Great Britain|England]], which placed the whole of [[Sumatra]] — including the independent [[Acheh|Atjeh]] sultanate — within the Dutch sphere of influence. The [[Soezkanaal|opening of the Suez Canal]] in [[1869]] had increased the strategic and economic value of [[Straat Malakka]] as the shipping lane between the Indian Ocean and the South China Sea; the [[Sumatra-tractaat ([[1871]])|Sumatra-tractaat]] was, the [[Netherlands|Dutch]] government later said, "welbewust om deze reden" — for this very reason — concluded. Minister [[P. P. van Bosse|Van Bosse]] delivered to the [[Tweede Kamer]] "zeer geruststellende verklaringen" — very reassuring statements — on the consequences of the treaty.
+
+The [[Declaration of war against the Sultan of Atjeh (1873)|declaration of war of 1873]] was justified to the [[Tweede Kamer]] on three grounds: alleged piracy emanating from Atjehese waters; the alleged prevalence of internal warfare within the sultanate; and — pre-eminent in the government's view — fear of foreign interference, especially after it became known that the [[Sultan of Acheh|sultan]] had been in contact with the Italian and American consuls in [[Singapore]] during the abortive Dutch-Atjehnese negotiations. [[Abraham Kuyper|Kuyper]] (a.r.) was so little convinced by the official *motivering* that, when cholera broke out among the Dutch troops the following year, he called it a "straf des hemels" — a punishment from heaven.
+
+### The concentratie period (1884-1896)
+
+After more than a decade of inconclusive fighting, the Dutch expeditionary force in [[1884]] withdrew into a *concentratie-stelling* — concentrated position — centred on [[Koeta Radja|Koeta Radja]] and limited its activity to holding this reconcentrated line. The [[Concentratie-stelsel ([[1884]]-[[1896]])|concentratie-stelsel]] thus begun would last, with growing parliamentary criticism, until [[1896]]. [[A. W. F. Idenburg|Idenburg]] later defended the measure retrospectively: "In Atjeh is geduld geoefend in de tijd van de concentratie" — patience was exercised in Atjeh in the time of the concentration — but the result, he conceded, was that "het verzet zich des te sterker heeft kunnen organiseren".
+
+### The Oemar crisis and the post-1896 recovery
+
+In [[1896]] [[Toekoe Oemar's defection ([[1896]])|Toekoe Oemar turned against the Dutch]]. The *concentratie-stelling* around [[Koeta Radja|Koeta Radja]] was "niet meer geheel zeker" — no longer wholly secure. The parliamentary debate that followed produced the canonical liberal and anti-revolutionary speeches of [[I. D. Fransen van de Putte|Fransen van de Putte]], [[H. B. van Kol|Van Kol]] and [[Abraham Kuyper|Kuyper]]. [[Abraham Kuyper|Kuyper]]'s verdict was that the government had laid out "een volledige staalkaart van alle denkbare methoden om Atjeh te bestrijden" — a complete sample-card of every conceivable method of combating Atjeh.
+
+The post-[[1896]] recovery under [[J. B. van Heutsz|Van Heutsz]] — the [[Van der Heyden]]-[[J. B. van Heutsz|Van Heutsz]] system of pursuit into the remotest hiding-places — restored [[Groot-Atjeh]] outside the perimeter. The resistance chiefs withdrew, first to [[Pedirse|Pedir]], and were pursued: first to [[Pedirse|Pedir]], then to the coasts, and finally — in [[1904]] — to the [[Gajoland|Gajoe-]] and [[Alasland|Alaslanden]].
+
+### The 1904 expedition and its parliamentary aftermath
+
+The [[Van Daalen's Gajo-Alas-Batak expedition (1904)|expedition of Van Daalen]] of [[1904]] was, formally, intended to begin "bespreking van wederzijdse belangen" — discussion of mutual interests. In practice it became a campaign of annihilation: according to the official figures, 2,922 inlanders — among them 1,149 women and children — were killed "in weinige dagen". [[H. B. van Kol|Van Kol]] declared it "erger dan de dagen van Alva's schrikbewind"; the Catholic [[J. K. J. de Stuers|De Stuers]] compared it to the campaigns of [[Timoer Lenk]] and [[Djengis Khan]]: "Het is of men op de inlanders een bende bloedhonden heeft losgelaten, het is beulenwerk". [[Lohman (De Savornin Lohman)|Lohman]] (c.h.) replied with the "doel heiligt de middelen" — the end sanctifies the means — defence; [[Rutgers van Rozenburg|Rutgers van Rozenburg]] (lib.) went further and justified even the cutting-in-two of slain Atjehnese as a means to disarm the *prang sabil* preaching of the Atjehnese priests.
+
+### The Van Daalen governorship and the Wekeer affair
+
+In [[1905]] [[G. C. E. van Daalen|Van Daalen]] was appointed *militair commandant en gouverneur van Atjeh*. His tenure was brought to an end by the [[Avondpost "Wekeer" articles (October 1907)|"Wekeer" articles]] in *[[De Avondpost]]* in October [[1907]], which exposed needless cruelties committed against the Atjehnese population under his command. The [[Van Heutsz's inspection tour of Atjeh (December 1907)|inspection tour]] of December [[1907]] and the [[Van Heutsz's report on Atjeh (June 1908)|June 1908 report]] of governor-general [[J. B. van Heutsz|Van Heutsz]] confirmed the fall of [[G. C. E. van Daalen|Van Daalen]] and installed the new course of the [[Pacificatie van Atjeh|pacificatie]].
+
+### The human cost
+
+The last nine years of the war — by the official figures cited by [[J. K. J. de Stuers|De Stuers]] — had killed 20,000 of an Atjehnese population of about half a million. The post-[[1904]] pacification continued to take a smaller annual toll: in [[1910]] the number of dead was 678. [[J. K. J. de Stuers|De Stuers]]' comment — "De voorraad wild begint te dunnen" — the stock of game is beginning to thin — is the bitterest single line in the parliamentary record of the war.
+
+### Significance
+
+The [[Atjeh-oorlog (1873-1904)|Atjeh-oorlog]] is, in the [[W. H. Vermeulen|Vermeulen]] retrospective, the central colonial episode of the [[1891]]-[[1918]] period. Its conduct and conclusion defined the political-military frame within which the [[Ethische Politiek|ethical-policy]] state was constructed; its parliamentary record is the spine of the [[W. H. Vermeulen|Vermeulen]] section of the [[1955]] *Schets*.
+
 ## See Also
 
-- [[C. Snouck Hurgronje]]
-- [[Great Acheh]]
-- [[Dutch Concentration Scheme]]
-- [[Muhammad Dawot Shah]]
-- [[Uleebalang]]
-- [[Teungku]]
-- [[Aceh Sultanate]]
-- [[Netherlands India]]
-- [[Achehnese War]]
-- [[Holy War (Jihad) against the Dutch]]
-- [[Tuanku Muhamat Dawot]]
-- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
-- [[Teuku Uma]]
-- [[Teungku Tiro]]
-- [[Acheh War]]
-- [[Imeum of Lueng Bata]]
-- [[Jakeuet (zakat)]]
-- [[Dutch Policy of 'Concentration']]
-- [[Habib Samalanga]]
-- [[Teuku Nya' Banta]]
 - [[Disputed Succession to the Panglimaship of the XXVI Mukims]]
-- [[Sabil Contributions]]
-- [[Kuta Raja]]
-- [[Keumala]]
-- [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[Joannes Benedictus van Heutsz]]
-- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
-- [[H. N. A. Swart]]
-- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
-- [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)]]
-- [[1907–1908 Aceh resistance]]
-- [[Bijlage IV]]
-- [[Bijlage V]]
-- [[Teukoe Oemar]]
-- [[Teukoe Tjhï' Meulabôh]]
-- [[1873]]
-- [[1896]]
-- [[1898]]
-- [[1904]]
 - [[1905]]
-- [[1907]]
-- [[1908]]
-- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
-- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
-- [[Padri War|Padri War on Sumatra's East Coast]]
-- [[Kutaradja]]
-- [[Batêê Iliê]]
-- [[Teukoe Oema]]
-- [[Panglima Polem]]
-- [[General Köhler]]
-- [[Jan van Swieten|General Van Swieten]]
-- [[Van Daalen's Gajo Expedition]]
+- [[Aceh Sultanate]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
+- [[Nieuwenhuizen]]
+- [[1904]]
+- [[1898]]
+- [[Dutch Policy of 'Concentration']]
+- [[Terwogt's account of the Atjeh-oorlog (1891)]]
+- [[1896]]
+- [[Teungku]]
+- [[Bijlage IV]]
+- [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)]]
 - [[Topografische Dienst]]
+- [[1873]]
+- [[Orde van Oranje-Nassau]]
+- [[Kutaradja]]
+- [[Dr. W. A. Terwogt]]
+- [[Tuanku Muhamat Dawot]]
+- [[Holy War (Jihad) against the Dutch]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Submission of Aceh]]
-- [[Keuchenius]]
-- [[Johan Wøller]]
-- [[Kotta Loempoer]]
+- [[1907–1908 Aceh resistance]]
+- [[1908]]
+- [[1925]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
+- [[Dutch Concentration Scheme]]
+- [[Korps Marechaussee van Atjeh en Onderhorigen]]
+- [[Uleebalang]]
+- [[Verspijck]]
+- [[Panglima Polem]]
+- [[H. N. A. Swart]]
+- [[Het Land van Jan Pieterszoon Coen (Terwogt)]]
+- [[Bijlage V]]
+- [[Padri War|Padri War on Sumatra's East Coast]]
+- [[Teukoe Tjhï' Meulabôh]]
+- [[Van Daalen's Gajo Expedition]]
+- [[C. Snouck Hurgronje]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
 - [[K. van der Heyden]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
+- [[Imeum of Lueng Bata]]
+- [[Keumala]]
+- [[Teuku Uma]]
+- [[1927]]
+- [[Habib Samalanga]]
+- [[Kuta Raja]]
+- [[Sabil Contributions]]
+- [[Jan van Swieten|General Van Swieten]]
+- [[Teungku Tiro]]
+- [[General Köhler]]
+- [[Achehnese War]]
+- [[Muhammad Dawot Shah]]
 - [[Maurice Henri du Croo]]
 - [[Marechaussée in Atjeh (book)]]
-- [[H. N. A. Swart|Generaal Swart (book)]]
-- [[Schmidt|Schmidt (Kolonel)]]
-- [[Korps Marechaussee van Atjeh en Onderhorigen]]
-- [[Orde van Oranje-Nassau]]
-- [[Het Land van Jan Pieterszoon Coen (Terwogt)]]
-- [[Dr. W. A. Terwogt]]
-- [[Terwogt's account of the Atjeh-oorlog (1891)]]
-- [[Nieuwenhuizen]]
-- [[Verspijck]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
+- [[1907]]
+- [[Acheh War]]
+- [[Batêê Iliê]]
+- [[Kotta Loempoer]]
 - [[W. K. Baron van Dedem]]
-- [[1925]]
-- [[1927]]
+- [[Netherlands India]]
+- [[Schmidt|Schmidt (Kolonel)]]
+- [[Teukoe Oemar]]
+- [[Jakeuet (zakat)]]
+- [[Keuchenius]]
+- [[H. N. A. Swart|Generaal Swart (book)]]
+- [[Great Acheh]]
+- [[Johan Wøller]]
+- [[Teuku Nya' Banta]]
+- [[Teukoe Oema]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Sumatra-tractaat (1871)]]
+- [[Van Daalen's Gajo-Alas-Batak expedition (1904)]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Toekoe Oemar's defection (1896)]]
+- [[Bataklanden]]
+- [[J. K. J. de Stuers]]
+- [[Avondpost "Wekeer" articles (October 1907)]]
+- [[Alasland]]
+- [[Pedirse]]
+- [[Pacificatie van Atjeh]]
+- [[P. P. van Bosse]]
+- [[I. D. Fransen van de Putte]]
+- [[1871]]
+- [[Koeta Radja]]
+- [[Van Kol's 1902 traverse of Atjeh]]
+- [[G. C. E. van Daalen]]
+- [[1884]]
+- [[H. B. van Kol]]
+- [[Gajoland]]
+- [[A. W. F. Idenburg]]
+- [[Van Heutsz's inspection tour of Atjeh (December 1907)]]
+- [[Toekoe Oemar]]
+- [[Groot-Atjeh]]
+- [[Declaration of war against the Sultan of Atjeh (1873)]]
+- [[J. B. van Heutsz]]
+- [[Abraham Kuyper]]
+- [[Van Heutsz's report on Atjeh (June 1908)]]
 
 ## Sources
 
@@ -248,3 +315,5 @@ The Dutch journalist Johan Luger, writing in the memorial for [[Maurice Henri du
 *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 143-146, 167.
 *In Memoriam Maurice Henri du Croo* (1951), pp. 5, 6, 10, 20 (Meyer Ranneft, Luger).
 *Het Land van Jan Pieterszoon Coen*, door Dr. W. A. Terwogt (Hoorn: P. Geerts, [1891]). Hoofdstuk XIII: the Atjeh-oorlog 1857–1891, including the [[Eerste Atjeh-expeditie (1873)|first expedition]] (March–April 1873), the [[Tweede Atjeh-expeditie (1873-1874)|second expedition]] (December 1873–January 1874), and the protracted guerrilla to the end of 1891.
+
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 267-275.
