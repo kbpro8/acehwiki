@@ -1,7 +1,7 @@
 ---
 title: Koninklijke Petroleum Maatschappij
-aliases: [Koninklijke Petroleum Maatschappij, Koninklijke, Royal Dutch Petroleum Company, KPM-petroleum]
-tags: [organization, company, petroleum, dutch, colonial]
+aliases: ["Koninklijke Petroleum Maatschappij", "Koninklijke", "Royal Dutch Petroleum Company", "Royal Dutch Shell (precursor)", "KPM (oil)"]
+tags: [organization, company, petroleum, dutch, colonial, acheh, oil]
 ---
 
 **Koninklijke Petroleum Maatschappij** — the "Royal Petroleum Company", known in English as the Royal Dutch Petroleum Company — was the petroleum company founded in [[1890]] on the basis of the [[1884]] concession secured by *Zijlker* in the *Landschap* (self-governing territory) of [[Langkat]] on the Sumatra East Coast, immediately adjacent to [[Acheh|Atjeh]]. The company's history is recorded in Ir. [[F. P. C. S. van der Ploeg|Van der Ploeg]]'s chapter *Mijnbouw* in *[[Wat Indië Ontving en Schonk]]* ([[1946]]) as the foundation of the modern Indonesian petroleum industry.
@@ -41,27 +41,62 @@ For the [[Acheh|Atjeh]]-focused reader, the Koninklijke's significance is the pl
 - *merica* — pepper (Malay)
 - *Dr.* — Doctor
 - *Ir.* — Engineer (Dutch Ingenieur)
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**The Koninklijke Petroleum Maatschappij** — the Royal Dutch Petroleum Company — is the oil company whose [[1905]]-[[1910]] contract with the [[Perlak Petroleum Maatschappij]] to work the latter's Atjeh fields for ƒ 2.50 per ton of petroleum extracted was the proximate cause of the [[Mijnwet art. 5a (1910)|Article 5a amendment]] of the [[Mijnwet|Mijnwet]] in [[1910]]. The episode is the first Atjeh-oil episode in the [[W. H. Vermeulen|Vermeulen]] colonial parliamentary record.
+
+### The Perlak-Koninklijke contract
+
+When, soon after the [[Mijnwet|Rengers-era Mijnwet]] of [[J. T. Cremer|Cremer]] had been enacted, [[J. B. van Heutsz|Van Heutsz]] — then governor of Atjeh — reported that the [[Perlak Petroleum Maatschappij]] had ceded its Atjeh fields to the [[Koninklijke Petroleum Maatschappij|Koninklijke]] for exploitation against a payment of ƒ 2.50 per ton of petroleum extracted, he expressed the opinion that contracts such as the [[Perlak Petroleum Maatschappij|Perlak]]-[[Koninklijke Petroleum Maatschappij|Koninklijke]] contract could equally well be concluded by the Indies government itself, with greater benefit to the treasury. The disclosure was the proximate cause of the [[Mijnwet art. 5a (1910)|Article 5a amendment]] of [[1910]].
+
+### The Article 5a amendment
+
+To remove doubts about the legal validity of such government-exploitation contracts, the [[Mijnwet|Mijnwet]] was amended in [[1910]] by the insertion of a new Article 5a. Henceforth the contracts the government concluded for mineral exploitation would require the approval of the *wetgever* — legislature — just as ordinary concession contracts already required the approval of the [[Staten-Generaal]].
+
+### The Atjeh oil complex
+
+The Atjeh north-coast oilfields — at [[Pedirse]], [[Peureula]], [[Pasé oil field|Pasé]] and elsewhere — would subsequently be developed by the [[N.L.A.M.]], the [[N.K.P.M.]] and the [[N.P.P.M.]]; the [[Koninklijke Petroleum Maatschappij|Koninklijke]] was, through its [[Perlak Petroleum Maatschappij|Perlak]] contract, the first of the major oil companies to operate in Atjeh proper.
+
+### Significance
+
+The [[Koninklijke Petroleum Maatschappij|Koninklijke]] is, in the [[W. H. Vermeulen|Vermeulen]] colonial parliamentary record, the type-specimen of the private oil company whose operations in Atjeh triggered legislative intervention. The [[Mijnwet art. 5a (1910)|Article 5a amendment]] of [[1910]] is the direct parliamentary response to the [[Perlak Petroleum Maatschappij|Perlak]]-[[Koninklijke Petroleum Maatschappij|Koninklijke]] contract.
+
 ## See Also
 
-- [[Wat Indië Ontving en Schonk]]
+- [[1903]]
+- [[Langkat]]
+- [[1895]]
 - [[F. P. C. S. van der Ploeg]]
+- [[1906]]
+- [[Acheh]]
+- [[Royal Dutch Shell]]
+- [[Wat Indië Ontving en Schonk]]
+- [[1890]]
+- [[1901]]
+- [[Dordtsche Petroleum Maatschappij]]
+- [[1911]]
 - [[A. J. B. Kessler]]
 - [[H. W. A. Deterding]]
-- [[Royal Dutch Shell]]
-- [[Bataafsche Petroleum Maatschappij]]
-- [[Dordtsche Petroleum Maatschappij]]
-- [[J. H. Menten]]
-- [[Langkat]]
 - [[Deli]]
-- [[Acheh]]
 - [[1884]]
-- [[1890]]
-- [[1895]]
-- [[1901]]
-- [[1903]]
-- [[1906]]
-- [[1911]]
+- [[J. H. Menten]]
+- [[Bataafsche Petroleum Maatschappij]]
+- [[1905]]
+- [[Mijnwet]]
+- [[J. T. Cremer]]
+- [[J. B. van Heutsz]]
+- [[Perlak Petroleum Maatschappij]]
+- [[Pedirse]]
+- [[1910]]
+- [[Mijnwet art. 5a (1910)]]
+- [[Atjeh oil complex]]
 
-## Source
+## Sources
 
 *Wat Indië Ontving en Schonk*, onder leiding van Dr. C. W. Wormser (Amsterdam: Wereldbibliotheek N.V., 1946), pp. 252–253 (chapter *Mijnbouw* door Ir. F. P. C. S. van der Ploeg).
+
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), p. 306.
