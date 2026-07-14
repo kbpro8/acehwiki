@@ -6,9 +6,15 @@ tags: [organization, company, petroleum, dutch, colonial, acheh, oil]
 
 **Koninklijke Petroleum Maatschappij** — the "Royal Petroleum Company", known in English as the Royal Dutch Petroleum Company — was the petroleum company founded in [[1890]] on the basis of the [[1884]] concession secured by *Zijlker* in the *Landschap* (self-governing territory) of [[Langkat]] on the Sumatra East Coast, immediately adjacent to [[Acheh|Atjeh]]. The company's history is recorded in Ir. [[F. P. C. S. van der Ploeg|Van der Ploeg]]'s chapter *Mijnbouw* in *[[Wat Indië Ontving en Schonk]]* ([[1946]]) as the foundation of the modern Indonesian petroleum industry.
 
+## Origins: Zijlker's borings and the 1884 concession
+
+Dr. T. Volker's *Van Oerbosch tot Cultuurgebied* ([[1928]]) records that [[Aeilco Zijlker|Zijlker]] began test-borings for petroleum near [[Pangkalan Brandan]] in [[1883]], in the *Landschap* (self-governing territory) of [[Langkat]], directly adjacent to [[Gouvernement Atjeh en Onderhoorigheden|Atjeh]]. The borings revealed exploitable petroleum, and in [[1884]] Zijlker secured a concession from the Sultan of [[Langkat]]. By [[June 1892]], two years after the Koninklijke was founded, the company was producing 18,000 cases of petroleum per month. Further concessions were opened in [[1894]] at Telaga Said, [[Besitang]], and Aroebaai. Production grew rapidly: in [[1896]], 1,851,512 cases were exported; in [[1897]], 4,564,987 cases. That same year [[Pangkalan Soesoe]] was established as a dedicated harbour for the petroleum trade. By [[1914]], the total export value of petroleum from the East Coast reached ƒ31,000,000.
+
+Volker also identified the [[Acehnese raids on East Sumatra|Acehnese raids]] as "one of the serious dangers to which [the petroleum industry] was exposed" (*"een van de ernstige bedreigingen, waaraan zij heeft blootgestaan"*) — the proximity of the Langkat oilfield to the contested Acehnese frontier made it vulnerable throughout the [[1880s]] and [[1890s]], until the pacification of [[1899]].
+
 ## Foundation
 
-According to Van der Ploeg's account, "the first to drill oil in exploitable quantity was Zijlker, and indeed in a concession in the Landschap Langkat in the year 1884. But it was not until 1890 that the Koninklijke Petroleum Maatschappij founded on this came into being." The Koninklijke built its first refinery at [[Pangkalan Brandan]] in Langkat. The first years were difficult: "the Koninklijke had built a refinery at Pangkalan Brandan, but had to enter at once into competition with American oil on the world market, even if in the beginning [it remained active] on the nearby markets of Singapore and Penang." The Koninklijke's first Director, [[A. J. B. Kessler|A. J. B. Kessler]], succeeded "through almost superhuman effort" in raising production at the Pangkalan Brandan refinery to a level that allowed a modest dividend to be paid in [[1895]].
+According to Van der Ploeg's account in *Wat Indië Ontving en Schonk*, "the first to drill oil in exploitable quantity was Zijlker, and indeed in a concession in the Landschap Langkat in the year 1884. But it was not until 1890 that the Koninklijke Petroleum Maatschappij founded on this came into being." Zijlker sold his petroleum business to the newly formed Koninklijke for ƒ371,000. The Koninklijke built its first refinery at [[Pangkalan Brandan]] in Langkat. The first years were difficult: "the Koninklijke had built a refinery at Pangkalan Brandan, but had to enter at once into competition with American oil on the world market, even if in the beginning [it remained active] on the nearby markets of Singapore and Penang." The Koninklijke's first Director, [[A. J. B. Kessler|A. J. B. Kessler]], succeeded "through almost superhuman effort" in raising production at the Pangkalan Brandan refinery to a level that allowed a modest dividend to be paid in [[1895]].
 
 ## Sales organisation and merger with Shell
 
@@ -82,21 +88,39 @@ The [[Koninklijke Petroleum Maatschappij|Koninklijke]] is, in the [[W. H. Vermeu
 - [[A. J. B. Kessler]]
 - [[H. W. A. Deterding]]
 - [[Deli]]
-- [[1884]]
+- [[Acheh]]
+- [[Aeilco Zijlker]]
+- [[Pangkalan Soesoe]]
+- [[Acehnese raids on East Sumatra]]
 - [[J. H. Menten]]
 - [[Bataafsche Petroleum Maatschappij]]
-- [[1905]]
+- [[Perlak Petroleum Maatschappij]]
+- [[Atjeh oil complex]]
 - [[Mijnwet]]
+- [[Mijnwet art. 5a (1910)]]
 - [[J. T. Cremer]]
 - [[J. B. van Heutsz]]
-- [[Perlak Petroleum Maatschappij]]
 - [[Pedirse]]
+- [[1883]]
+- [[1884]]
+- [[1890]]
+- [[1892]]
+- [[1894]]
+- [[1895]]
+- [[1896]]
+- [[1897]]
+- [[1901]]
+- [[1903]]
+- [[1905]]
+- [[1906]]
 - [[1910]]
-- [[Mijnwet art. 5a (1910)]]
-- [[Atjeh oil complex]]
+- [[1911]]
+- [[1914]]
 
 ## Sources
 
-*Wat Indië Ontving en Schonk*, onder leiding van Dr. C. W. Wormser (Amsterdam: Wereldbibliotheek N.V., 1946), pp. 252–253 (chapter *Mijnbouw* door Ir. F. P. C. S. van der Ploeg).
+*Wat Indië Ontving en Schonk*, onder leiding van Dr. C. W. Wormser (Amsterdam: Wereldbibliotheek N.V., [[1946]]), pp. 252–253 (chapter *Mijnbouw* door Ir. F. P. C. S. van der Ploeg).
 
-*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), p. 306.
+*Van Oerbosch tot Cultuurgebied: Een Schets van de Beteekenis van de Tabak, de Andere Cultures en de Industrie ter Oostkust van Sumatra*, by Dr. T. Volker (Medan: Deli Planters Vereeniging, [[1928]]), pp. 47–56. Delpher Digital Library, reference DLP-76. Universiteitsbibliotheek Vrije Universiteit Amsterdam, shelfmark 09383.
+
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië [[1891]]–[[1918]]* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, [[1955]]), p. 306.

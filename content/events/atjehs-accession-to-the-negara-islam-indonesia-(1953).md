@@ -30,6 +30,12 @@ Alers stresses that Atjeh's rebellion, unlike the parallel risings of [[Kahar Mu
 
 The task of reconquest fell to Colonel [[Simbolon|Simbolon]] of Territorium I, Bukit Barisan. His counter-offensive, launched in early October 1953, retook [[Seulimeum|Seulimeum]] and [[Bajeunen|Bajeunen]] on [[3 October]], [[Meureudu|Meureudu]] after heavy fighting on [[10 October]], [[Blangkedjeren|Blangkedjeren]] and [[Bireuën|Biruën]] on [[20 October]], and finally [[Takengon|Takengon]] on [[24 November]] [[1953]] in a pincer movement from Blangkedjeren and Bireuën. By the end of November 1953, all major towns and connecting roads were back in government hands, sharply curtailing arms smuggling from [[Singapore|Singapore]], although sporadic fierce attacks continued and, as in West Java and South Celebes, the underlying insurgency became a protracted, unresolved affair. On [[20 October]] [[1953]] [[Mr. S. M. Amin|Mr. S. M. Amin]] took office as the new Governor of [[North Sumatra]], an appointment Alers judges was received with considerable local scepticism.
 
+## Contemporary reporting and statistics (1953–1957)
+
+H. C. Beynon's [[Nederland staat terecht in Indonesië]] ([[1957]]) provides a detailed chronological appendix that adds a Dutch observer's perspective to the Alers account. Beynon confirms that the rebellion broke out on [[20 September]] [[1953]] under "Daud Beureuh, bestuursambtenaar en parlementslid van de Masjumi-fractie" ("a civil servant and member of parliament from the Masjumi faction") — a characterization that underscores the rebellion's roots in the organized Islamic political movement rather than in purely regional grievance. On [[21 September]] [[1953]], Garuda Indonesian Airways suspended all flights to [[Kutaradja]], a concrete operational measure reflecting the collapse of normal government communications with the province. On [[24 September]] [[1953]], Minister Tobing issued the formal government position: *"De regering zal met kracht optreden tegen de ordeverstoorders, ook in Atjeh"* ("The government will act forcefully against the disturbers of order, also in Atjeh"). On [[25 September]] [[1953]], Daud Beureuh was officially designated rebel leader — public acknowledgement that the rebellion had coalesced around a single figure. And on [[3 October]] [[1953]], Colonel [[Kolonel Simbolon|Simbolon]] made his remarkable statement that the Atjeh crisis was "very serious" and that "it is not possible to resolve this question with weapons alone."
+
+Beynon also provides statistical information on the costs of the rebellion, presumably drawn from Indonesian government or press sources of the mid-[[1950s]]: approximately 10,000 dead, 27,000 persons in need, 100 million rupiah in material damage, 80 million rupiah in railway losses, and 70 percent of Atjeh's railway stations destroyed. These figures, if accurate, place the Atjeh rebellion among the most destructive of the several insurgencies that beset the Indonesian republic in its first decade.
+
 ## Account from *De staatkundige ontwikkeling van Indonesië* ([[1955]]) — the chronological survey
 
 The *[[De staatkundige ontwikkeling van Indonesië in de 20e eeuw|staatkundige ontwikkeling]]* survey, published by the [[Koninklijk Instituut voor de Tropen|Koninklijk Instituut voor de Tropen]] in a revised and updated edition closed in May [[1955]], records the Atjeh revolt in its chronological survey under the year [[1953]]: "Augustus 1953 — Onder leiding van Daoed Beurouch breekt een opstand uit in Atjeh" — In August 1953, under the leadership of Daud Beureu'eh, a revolt breaks out in Atjeh. The survey likewise records, in its chapter on the Darul Islam, that the [[Negara Islam Indonesia|Darul Islam]] operated in "West-Java, Atjeh en Zuid-Celebes" — West Java, Atjeh, and South Celebes — alongside the areas of West Java and South Celebes where the Darul Islam's bands were more generally active.
@@ -53,9 +59,13 @@ The August 1953 date given by the survey for the outbreak of the revolt under Da
 - [[De staatkundige ontwikkeling van Indonesië in de 20e eeuw]]
 - [[Koninklijk Instituut voor de Tropen]]
 - [[Kartosuwirjo]]
+- [[Darul Islam]]
+- [[Nederland staat terecht in Indonesië]]
 
 ## Source
 
 *Om een rode of groene Merdeka: Tien jaren binnenlandse politiek Indonesië, 1943–1953*, by Henri J. H. Alers (Eindhoven: Uitgeverij Vulkaan, 1956), Chapter VII §35 "De Negara Islam Indonesia in Atjeh," pp. 265–274.
 
-*De staatkundige ontwikkeling van Indonesië in de 20e eeuw*, uitgave van het Bureau Cursussen en Vertalingen van het Koninklijk Instituut voor de Tropen (Amsterdam: Koninklijk Instituut voor de Tropen, revised ed. 1955). Chronologisch overzicht: "Augustus 1953 — Onder leiding van Daoed Beurouch breekt een opstand uit in Atjeh"; and Hoofdstuk VII: "het optreden van de Darul Islam in West-Java, Atjeh en Zuid-Celebes."
+*De staatkundige ontwikkeling van Indonesië in de 20e eeuw*, uitgave van het Bureau Cursussen en Vertalingen van het Koninklijk Instituut voor de Tropen (Amsterdam: Koninklijk Instituut voor de Tropen, revised ed. [[1955]]). Chronologisch overzicht: "Augustus 1953 — Onder leiding van Daoed Beurouch breekt een opstand uit in Atjeh"; and Hoofdstuk VII: "het optreden van de Darul Islam in West-Java, Atjeh en Zuid-Celebes."
+
+*Nederland staat terecht in Indonesië: Achtergronden van de processen tegen Nederlanders in Djakarta*, by H. C. Beynon (Utrecht: A.W. Bruna & Zoon, [[1957]]), chronological appendix pp. 218–225. Koninklijke Bibliotheek, shelfmark 26526217. Delpher Digital Library, reference DLP-79.

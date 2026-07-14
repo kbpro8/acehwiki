@@ -45,6 +45,10 @@ By early September 1953 the Atjèh police coordinator, [[Njakumar|Njakumar]], ha
 
 The reconquest, entrusted to Colonel [[Simbolon|Simbolon]] of the Bukit Barisan territorial command, proceeded through October and November 1953 — [[Seulimeum|Seulimeum]] and [[Bajeunen|Bajeunen]] on [[3 October]], [[Meureudu|Meureudu]] on [[10 October]], [[Blangkedjeren|Blangkedjeren]] and [[Bireuën|Biruën]] on [[20 October]], and finally [[Takengon|Takengon]] on [[24 November]] [[1953]] — until, by the end of November, the rebellion had been reduced to the scale of "roving bands in the interior," although the underlying insurgency, like its counterparts in West Java and South Celebes, would drag on unresolved. Alers notes the irony that the officer chosen to crush the rebellion, Simbolon, had himself declared for "green" — the Islamic side — in the 17 October 1952 controversy. He also observes that Sukarno himself, on [[14 October]] [[1953]] at [[Bone|Bone]] in South Celebes, alleged that Kartosuwirjo had appealed to the United States for aid — an appeal Alers judges could only sensibly have been made on behalf of the strategically significant Atjeh, not the militarily marginal South Celebes.
 
+## Dutch observer characterization (1957)
+
+H. C. Beynon's [[Nederland staat terecht in Indonesië]] ([[1957]]) — written from a perspective outside the Indonesian political debates that shaped Alers's account — describes Daud Beureueh with a formulation that emphasizes his dual status within the Republic's own institutional structure: *"bestuursambtenaar en parlementslid van de Masjumi-fractie"* ("civil servant and member of parliament from the Masjumi faction"). This characterization grounds the rebellion not only in religious authority but in the collapse of Beureueh's position within the formal constitutional order of the Republic. As a member of parliament from the [[Masjumi]] faction and a serving *bestuursambtenaar*, his proclamation of rebellion in September 1953 was simultaneously a withdrawal from the Republic's political institutions — institutions in which, until the exclusion of Masjumi from the Ali Sastroamidjojo cabinet in August 1953, he retained a formal stake.
+
 ## Alers's "Red or Green Merdeka" comparison
 
 Alers's *Om een rode of groene Merdeka* treats Teungkoe Moehamad Daoed Beureuh as the structural counterpart, within Atjeh, of [[Soekarno|Sukarno]] on Java: both men, he argues, "called forth — over the heads of the Japanese authorities — a fanatical psychosis directed against the established feudal state structure," Sukarno's on the scale of the whole of Java and inevitably "red," Daoed Beureuh's confined to Atjeh and, because the Japanese openly courted Islam, comparatively unimpeded and inevitably "green." Alers sets the chronologies of Java and Atjeh side by side as mirrored sequences — the end of the [[Java War|Java War]] (1830) against the end of the [[Aceh War|Atjèh War]] (1903); the founding of [[Moehammadijah|Muhammadiyah]] (1908) against early moderate political awakening (1925); the schism that produced the P.K.I. and S.I. (1921) against the founding of the [[Poesa|Poesa]] (1939); and the social revolution under "red directives" from [[17 August]] [[1945]] against the "green" social revolution beginning [[December]] [[1945]] — concluding that, phase for phase, "the Atjèhnese development was, chronologically speaking, faster."
@@ -71,6 +75,9 @@ Alers's *Om een rode of groene Merdeka* treats Teungkoe Moehamad Daoed Beureuh a
 - [[De staatkundige ontwikkeling van Indonesië in de 20e eeuw]]
 - [[Koninklijk Instituut voor de Tropen]]
 - [[Atjèh's accession to the Negara Islam Indonesia (1953)]]
+- [[Darul Islam]]
+- [[Nederland staat terecht in Indonesië]]
+- [[Masjumi]]
 - [[1939]]
 - [[1942]]
 - [[1945]]
@@ -82,4 +89,6 @@ Alers's *Om een rode of groene Merdeka* treats Teungkoe Moehamad Daoed Beureuh a
 
 *Om een rode of groene Merdeka: Tien jaren binnenlandse politiek Indonesië, 1943–1953*, by Henri J. H. Alers (Eindhoven: Uitgeverij Vulkaan, 1956), Chapter II §9 "Atjeh," pp. 84–92, and Chapter VII §35 "De Negara Islam Indonesia in Atjeh," pp. 265–274.
 
-*De staatkundige ontwikkeling van Indonesië in de 20e eeuw*, uitgave van het Bureau Cursussen en Vertalingen van het Koninklijk Instituut voor de Tropen (Amsterdam: Koninklijk Instituut voor de Tropen, revised ed. 1955). Chronologisch overzicht: "Augustus 1953 — Onder leiding van Daoed Beurouch breekt een opstand uit in Atjeh."
+*De staatkundige ontwikkeling van Indonesië in de 20e eeuw*, uitgave van het Bureau Cursussen en Vertalingen van het Koninklijk Instituut voor de Tropen (Amsterdam: Koninklijk Instituut voor de Tropen, revised ed. [[1955]]). Chronologisch overzicht: "Augustus 1953 — Onder leiding van Daoed Beurouch breekt een opstand uit in Atjeh."
+
+*Nederland staat terecht in Indonesië: Achtergronden van de processen tegen Nederlanders in Djakarta*, by H. C. Beynon (Utrecht: A.W. Bruna & Zoon, [[1957]]), chronological appendix pp. 218–225. Koninklijke Bibliotheek, shelfmark 26526217. Delpher Digital Library, reference DLP-79.

@@ -4,6 +4,10 @@ aliases: ["Pangkalanbrandan", "Pangkalan Brandan", "Pengkalan Brandan", "P. Bran
 tags: ["place", "town", "harbour", "colonial", "dutch", "east-coast-sumatra", "buitenbezittingen", "tramway", "areo-baai-plannen", "refinery", "sumatra", "oil"]
 ---
 
+## Origin: Zijlker's borings and the petroleum industry
+
+Pangkalan Brandan's place in history rests above all on its role as the cradle of the Dutch colonial petroleum industry. Dr. T. Volker's *Van Oerbosch tot Cultuurgebied* ([[1928]]) records that [[Aeilco Zijlker|Zijlker]] began test-borings for petroleum near Pangkalan Brandan in [[1883]], in the *Landschap* of [[Langkat]], immediately adjacent to [[Gouvernement Atjeh en Onderhoorigheden|Atjeh]]. Volker identifies the [[Acehnese raids on East Sumatra|Acehnese raids]] as "one of the serious dangers to which [the petroleum industry] was exposed" throughout the [[1880s]] and [[1890s]]. In [[1884]], Zijlker secured a concession from the [[Sultan of Langkat]], and when the [[Koninklijke Petroleum Maatschappij]] was formed in [[1890]] — purchasing Zijlker's business for ƒ371,000 — the company built its first refinery at Pangkalan Brandan. By [[June 1892]] the refinery was producing 18,000 cases of petroleum per month. Exports were shipped from [[Pangkalan Soesoe]], established in [[1897]] as the dedicated harbour for the petroleum trade, since Pangkalan Brandan's own roadstead was too shallow for modern shipping. In [[1896]], 1,851,512 cases were exported; in [[1897]], 4,564,987 cases. New concessions at Telaga Said, [[Besitang]], and Aroebaai were opened in [[1894]]. By [[1914]], petroleum exports from the region reached a total value of ƒ31,000,000.
+
 ## Account from *De Buitenbezittingen* (1917) — Pangkalan Brandan
 
 
@@ -72,8 +76,22 @@ Pangkalan Brandan is significant for the encyclopedia of [[Acheh]] history becau
 - [[1949]]
 
 
+- [[Aeilco Zijlker]]
+- [[Koninklijke Petroleum Maatschappij]]
+- [[Pangkalan Soesoe]]
+- [[Acehnese raids on East Sumatra]]
+- [[Sultan of Langkat]]
+- [[1883]]
+- [[1884]]
+- [[1890]]
+- [[1892]]
+- [[1897]]
+- [[1914]]
+
 ## Source
 
+
+*Van Oerbosch tot Cultuurgebied: Een Schets van de Beteekenis van de Tabak, de Andere Cultures en de Industrie ter Oostkust van Sumatra*, by Dr. T. Volker (Medan: Deli Planters Vereeniging, [[1928]]), pp. 47–56. Delpher Digital Library, reference DLP-76. Universiteitsbibliotheek Vrije Universiteit Amsterdam, shelfmark 09383.
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 71–72 (sections "De Atjeh-tram" and "De Spoor- en Tramwegen ter Oostkust van Sumatra").
 
