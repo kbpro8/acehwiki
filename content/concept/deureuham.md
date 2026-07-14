@@ -32,6 +32,9 @@ In the Gayo lands, the *deureuham* was called *deram*, and was used alongside th
 - [[Goepang]]
 - [[Boesö]]
 - [[Vrouwenregeering]]
+- [[Sultan Ala ad-dïn Riajat Sjah]]
+- [[Sultan Ala ad-dïn Djohan Sjah]]
+- [[John Davis]]
 - [[1599]]
 
 ## Source

@@ -1,11 +1,11 @@
 ---
 title: Landschapskassen
-aliases: [Territorial treasuries, landschapskas, onderafdeelingskas, afdeelingskas, landschap kas, the territorial treasury system of the zelfbesturen]
-tags: [concept, colonial, dutch, finance, administration, buitenbezittingen, aceh, zelfbesturen]
+aliases: [Territorial treasuries, landschapskas, onderafdeelingskas, afdeelingskas, landschap kas, the territorial treasury system of the zelfbesturen, regional treasuries, self-governing treasury]
+tags: [concept, colonial, dutch, finance, administration, buitenbezittingen, aceh, zelfbesturen, administrative, economic]
 description: "The \"territorial treasuries\" of the self-governing territories (zelfbesturen) of the Outer Possessions — the institutional treasuries into which all revenues of a landschap were paid and from which all expenditures for the benefit of the landschap were funded, under Gouvernement oversight."
 ---
 
-**The Landschapskassen** ("territorial treasuries," singular *landschapskas*) were the institutional treasuries of the [[Zelfbesturen|zelfbesturen (self-governing territories)]] of the [[Buitenbezittingen|Outer Possessions]], into which all revenues of a landschap were paid and from which all expenditures for the benefit of the landschap were funded, under the oversight of the Dutch Gouvernement. In the Encyclopaedisch Bureau's account, the landschapskassen were the principal financial instrument of the post-[[Pacificatie van Atjeh|pacification]] consolidation of Dutch rule in [[Acheh|Atjeh]] and the wider Buitenbezittingen — the institutional embodiment of the principle that the revenues of a landschap belonged to the landschap (rather than to its ruler) and were to be spent, under Gouvernement oversight, for the benefit of land and people.
+**The Landschapskassen** ("territorial treasuries," singular *landschapskas*) were the institutional treasuries of the [[Zelfbesturen|zelfbesturen (self-governing territories)]] of the [[Buitenbezittingen|Outer Possessions]], into which all revenues of a landschap were paid and from which all expenditures for the benefit of the landschap were funded, under the oversight of the Dutch Gouvernement. In the Encyclopaedisch Bureau's account, the landschapskassen were the principal financial instrument of the post-[[Pacificatie van Atjeh|pacification]] consolidation of Dutch rule in [[Acheh|Atjeh]] and the wider Buitenbezittingen — the institutional embodiment of the principle that the revenues of a landschap belonged to the landschap (rather than to its ruler) and were to be spent, under Gouvernement oversight, for the benefit of land and people. Kreemer's [[1923]] account of the Atjèh *landschapskassen* supplies the detailed anatomy of the system as applied to the eighteen *kassen* of Atjèh en Onderhoorigheden.
 
 ## Account from *De Buitenbezittingen* (1917) — Landschapskassen
 
@@ -19,13 +19,49 @@ For [[Atjeh en Onderhoorigheden|Atjeh and Dependencies]] specifically, the lands
 
 The gewest was also the only Buitenbezittingen gewest in which the split of concession revenues between the Gouvernement and the Zelfbesturen was not 1:1 but 6:4 — a special fiscal regime that the Bureau notes in a footnote. The gewest was likewise one of the three principal sources of concession revenues in the entire Buitenbezittingen: in [[1913]] the Atjeh concession revenues yielded f 1,344,000 to the landschapskas — the second-largest such yield after [[Oostkust van Sumatra|Sumatra's East Coast]].
 
-### Types of kassen
+## Kreemer's account (1923) — the 18 kassen of Atjèh
+
+Kreemer records that all 18 *landschapskassen* of Atjèh en Onderhoorigheden were created on [[1 January]] [[1912]] by Gouverneurs Bt. [[14 October]] [[1911]] N°. 257/P.Z., except [[Peureula'|Peureula']] ([[1908]]), [[Idi|Idi]] ([[1909]]), and [[Tëmiang|Tëmiang]] ([[1907]]). The total of 18 *kassen* comprised:
+
+- 3 *landschapskassen* (proper)
+- 3 *onderafdeelingskassen-landschappen*
+- 11 *onderafdeelingskassen*
+- 1 *afdeelingskas* (the Alaslanden's *afdeelingskas*, not a landschapskas)
+
+### Principle
+
+The principle of the *landschapskas* was that the **Zelfbestuurder** (self-governing ruler) is the first servant of his *landschap*, paid a fixed monthly salary, with up to 3/10 share from enterprises allowed. The *landschapskas* was administered by an "administrateur" placed in [[Koeta Radja|Koeta Radja]], assisted by a *boekhouder* and *schrijverspersoneel*.
+
+### The Beheersreglement
+
+The *Beheersreglement* of [[5 October]] [[1911]] (Bt. N°. 229/P.Z.) governed the administration of *landschapskassen*, based on the "Leidraad" in Bb. 6672. Modified and supplemented by Gouverneurs-circ. of [[28 February]] [[1912]] N°. 96/P.Z.
+
+### The Zelfbestuursregelen 1919
+
+The [[Zelfbestuursregelen 1919|Zelfbestuursregelen 1919]] (Stbl. [[1919]] N°. 822) further regulated the *landschapskassen*. Article 1: landschap territory excludes sea area. Articles 21–22: *landschapskas* budgets must be set annually. Article 30: mining *cijns*/*vast recht* allocation.
+
+### The restitutie-post
+
+The Government charged a *restitutie-post* to the *landschapskassen* for expenses made on their behalf. Total ƒ566,864 was due; reduced to ƒ135,000/year (24%) for [[1919]], [[1920]], [[1921]] (Gouvernements Bt. [[28 February]] [[1920]] N°. 51) given the gewest's special condition. Now set triennially instead of annually.
+
+### Sources of income
+
+The *landschapskassen* drew income from:
+
+- *Wasé oelèëbalang* (mostly absorbed into kas salaries)
+- *Pantjang alas* (10% tax on forest products)
+- *Hasil pantjang* (fishery tax in Tëmiang)
+- Mining concession *cijnsen* (especially Peureula' petroleum)
+- *Ha balè* (court fees) and *ha praé* (estate-fees)
+- Bird-nest cave leases (e.g., Lam Peu' Oeë' at ƒ900/year)
+
+## Types of kassen
 
 The Encyclopaedisch Bureau's account distinguishes three principal types of territorial treasuries: the *landschapskas* proper (the treasury of a single landschap under a zelfbestuur), the *onderafdeelingskas* (the treasury of a sub-division under direct administration), and the *afdeelingskas* (the treasury of a whole division under direct administration). The post-[[1910]] centralisation saw the progressive consolidation of smaller landschapskassen into larger onderafdeelingskassen and afdeelingskassen — a process that the Bureau's tables document in detail for each gewest.
 
 ## Significance
 
-The [[Landschapskassen|landschapskassen]] are, in the Encyclopaedisch Bureau's account, the principal financial instrument of the post-[[Pacificatie van Atjeh|pacification]] consolidation of Dutch rule in [[Acheh|Atjeh]] and the wider Buitenbezittingen. The [[1910]] mijlpaal of centralised oversight, the [[1911]] establishment of the [[Bureau van Financieele aangelegenheden|Bureau van Financieele aangelegenheden]], the [[1912]] creation of fifteen new onderafdeelingskassen in Atjeh, and the [[1914]] codification of the landschapskassen principle by the [[Zelfbestuurs-ordonnantie|Zelfbestuurs-ordonnantie]] together mark the financial consolidation of the new colonial order.
+The [[Landschapskassen|landschapskassen]] are, in the Encyclopaedisch Bureau's account, the principal financial instrument of the post-[[Pacificatie van Atjeh|pacification]] consolidation of Dutch rule in [[Acheh|Atjeh]] and the wider Buitenbezittingen. The [[1910]] mijlpaal of centralised oversight, the [[1911]] establishment of the [[Bureau van Financieele aangelegenheden|Bureau van Financieele aangelegenheden]], the [[1912]] creation of fifteen new onderafdeelingskassen in Atjeh, and the [[1914]] codification of the landschapskassen principle by the [[Zelfbestuurs-ordonnantie|Zelfbestuurs-ordonnantie]] together mark the financial consolidation of the new colonial order. Kreemer's account, in turn, supplies the technical anatomy of the eighteen Atjèh *kassen* — the Beheersreglement, the sources of income (*wasé*, *pantjang alas*, *ha balè*), the restitutie-post arrangement, and the Zelfbestuursregelen 1919 — that allows the financial machinery of the Atjèhsche consolidation to be studied in detail.
 
 ## Account from *Atjèh* by J. Kreemer (Deel II)
 
@@ -49,6 +85,7 @@ All 18 *landschapskassen* in Atjèh were created on [[1 January]] [[1912]] by Go
 
 - [[Zelfbesturen]]
 - [[Zelfbestuurs-ordonnantie]]
+- [[Zelfbestuursregelen 1919]]
 - [[Korte Verklaring]]
 - [[Bureau van Financieele aangelegenheden]]
 - [[Civiele lijst]]
@@ -56,15 +93,28 @@ All 18 *landschapskassen* in Atjèh were created on [[1 January]] [[1912]] by Go
 - [[Pacificatie van Atjeh]]
 - [[Buitenbezittingen]]
 - [[Departement van Binnenlandsch Bestuur]]
+- [[H. N. A. Swart|Gouverneur Swart]]
+- [[Wasé oelèëbalang]]
+- [[Pantjang alas]]
+- [[Ha balè]]
+- [[Peureula']]
+- [[Idi]]
+- [[Tëmiang]]
 - [[1904]]
+- [[1907]]
+- [[1908]]
+- [[1909]]
 - [[1910]]
 - [[1911]]
 - [[1912]]
 - [[1913]]
 - [[1914]]
+- [[1919]]
+- [[1920]]
+- [[1921]]
 
 ## Sources
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 7–17 (sections "Bestuurs-organisatie" and "De Landschapskassen").
 
-*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.

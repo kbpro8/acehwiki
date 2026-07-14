@@ -12,20 +12,22 @@ The *Hasil-reglement* of [[1902]] established the system under which the Onderho
 
 ## Van Daalen's reform (1905)
 
-The *Hasil-reglement* was modified by Bt. [[23 October]] [[1905]] N°. 86, issued by governor [[G. C. E. van Daalen|Van Daalen]], which treated Gouvernementsbestuursvestigingen as Gouvernementsgrondgebied and thereby deprived landschapshoofden of rights-shares on goods consumed there. This reform disadvantaged the hoofden of harbour-landschappen.
+The *Hasil-reglement* was modified by Bt. [[23 October]] [[1905]] N°. 86, issued by governor [[Gotfried Coenraad Ernst van Daalen|Van Daalen]], which treated Gouvernementsbestuursvestigingen as Gouvernementsgrondgebied and thereby deprived landschapshoofden of rights-shares on goods consumed there. This reform disadvantaged the hoofden of harbour-landschappen.
 
 ## Swart's restoration (1908)
 
-The *Hasil-reglement* was restored by governor [[Governor Swart|Swart]]'s Bt. [[30 June]] [[1908]] N°. 55, effective [[1 July]] [[1908]], with ƒ345,288 total restitution — ƒ163,450 in direct damages and ƒ181,838 in withheld income and warranty — to the landschapshoofden who had been disadvantaged by Van Daalen's reform.
+The *Hasil-reglement* was restored by governor [[H. N. A. Swart|Swart]]'s Bt. [[30 June]] [[1908]] N°. 55, effective [[1 July]] [[1908]], with ƒ345,288 total restitution — ƒ163,450 in direct damages and ƒ181,838 in withheld income and warranty — to the landschapshoofden who had been disadvantaged by Van Daalen's reform.
 
 ## The tolgebied (1910)
 
-The Onderhoorigheden were incorporated into the Gouvernements *tolgebied* (customs territory) on [[1 May]] [[1910]] (Stbl. N°. 248), with *schadeloosstelling* (compensation) of ƒ10,990 to Inlandsche Zelfbestuurders and hoofden (Bt. [[14 April]] [[1910]] N°. 5). Exception: the *vrijgebied* [[Sabang|Poelö Wè]].
+The Onderhoorigheden were incorporated into the Gouvernements *tolgebied* (customs territory) on [[1 May]] [[1910]] (Stbl. N°. 248), with *schadeloosstelling* (compensation) of ƒ10,990 to Inlandsche Zelfbestuurders and hoofden (Bt. [[14 April]] [[1910]] N°. 5). Exception: the *vrijgebied* [[Poelö-Wè|Poelö Wè]].
 
 ## See Also
 
-- [[G. C. E. van Daalen]]
-- [[Governor Swart]]
+- [[Gotfried Coenraad Ernst van Daalen]]
+- [[H. N. A. Swart]]
+- [[Onderhoorigheden]]
+- [[Tolgebied]]
 - [[Wasé oelèëbalang]]
 - [[Landschapskassen]]
 - [[Sabang]]

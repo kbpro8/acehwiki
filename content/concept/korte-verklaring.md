@@ -1,10 +1,10 @@
 ---
 title: Korte Verklaring
-aliases: [Korte Verklaring, Korte Verklaringen, Short Declaration, korte verklaring, Declaration of Submission, Korte Verklaring (colonial), the Short Declaration, Korte Verklaring regime, de Korte Verklaring]
-tags: [concept, colonial, dutch, sovereignty, document, legal, achehnese, administration, treaty, buitenbezittingen, zelfbesturen]
+aliases: [Korte Verklaring, Korte Verklaringen, Short Declaration, korte verklaring, Declaration of Submission, Korte Verklaring (colonial), the Short Declaration, Korte Verklaring regime, de Korte Verklaring, korte Atjèhverklaring, political declaration]
+tags: [concept, colonial, dutch, sovereignty, document, legal, achehnese, administration, treaty, buitenbezittingen, zelfbesturen, administrative, diplomacy]
 ---
 
-**The Korte Verklaring** — "Short Declaration" — was the standard colonial compact by which the [[Gouvernement Atjeh en Onderhoorigheden|Nederlandsch-Indisch Gouvernement]] recognised a native chief as *zelfbestuurder* — self-ruler — of his *landschap*, replacing the [[Sarakata|sarakata]] of the [[Sultans of Atjeh|Sultans of Atjeh]] as the documentary basis of native authority in Atjeh and its Onderhoorigheden. Introduced by Governor [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] as part of his pacification system during his governorship of Aceh ([[1898]]–[[1904]]) and later extended to other troubled regions of the Dutch East Indies during his Governor-Generalship ([[1904]]–[[1909]]), the declaration became a central tool of colonial policy whose most controversial provision — Article 3, obliging the ruler to obey all future regulations that the Dutch government might issue — critics argued eliminated any real autonomy and reduced the ruler to a mere official.
+**The Korte Verklaring** — "Short Declaration" — was the standard colonial compact by which the [[Gouvernement Atjeh en Onderhoorigheden|Nederlandsch-Indisch Gouvernement]] recognised a native chief as *zelfbestuurder* — self-ruler — of his *landschap*, replacing the [[Sarakata|sarakata]] of the [[Sultans of Atjeh|Sultans of Atjeh]] as the documentary basis of native authority in Atjeh and its Onderhoorigheden. Introduced by Governor [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] as part of his pacification system during his governorship of Aceh ([[1898]]–[[1904]]) and later extended to other troubled regions of the Dutch East Indies during his Governor-Generalship ([[1904]]–[[1909]]), the declaration became a central tool of colonial policy whose most controversial provision — Article 3, obliging the ruler to obey all future regulations that the Dutch government might issue — critics argued eliminated any real autonomy and reduced the ruler to a mere official. In [[J. Kreemer|J. Kreemer]]'s *Atjèh* ([[1923]]) the Atjèh-specific form is given the name ***korte Atjèhverklaring*** to distinguish it from the later "uniform model" applied across the buitengewesen.
 
 ## Origin and purpose
 
@@ -70,21 +70,42 @@ The Korte Verklaring was designed to:
 
 In Aceh, the Korte Verklaring was applied after the submission of **[[Panglima Polem]]** and other leaders. It was the instrument by which nominal Dutch authority was replaced with effective control.
 
-## Account from *Atjèh* by J. Kreemer (Deel II)
+## Account from Kreemer's *Atjèh* (1923) — The *korte Atjèhverklaring*
 
-[[J. Kreemer|Kreemer]] provides the following account of the *Korte Verklaring* specifically for Atjèh.
+In his *Atjèh* ([[1923]]), [[J. Kreemer|J. Kreemer]] gives the Atjèh-specific form of the declaration its own name — the ***korte Atjèhverklaring*** — to distinguish it from the later "uniform model" extended to the buitengewesen. Kreemer attributes the drafting jointly to [[Joannes Benedictus van Heutsz|Van Heutsz]] and [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]] after [[1898]], in succession to two earlier, longer declarations that the new short form displaced.
 
-The *Korte Verklaring* (the "short declaration," specifically the *korte Atjèhverklaring* for Atjèh) was a three-article declaration drafted by [[J. B. van Heutsz|Van Heutsz]] and [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]] after [[1898]], replacing the earlier 6- and 18-article declarations. The three articles were: (1) the self-bestuurder recognised Dutch sovereignty; (2) the self-bestuurder agreed not to engage foreign powers; (3) the self-bestuurder promised to follow all regulations and orders from the governor.
+### The three articles
 
-**Earlier declarations replaced**: The *Korte Verklaring* replaced the **6-article declaration** issued by luitenant-generaal [[J. van Swieten|Van Swieten]] on [[31 January]] [[1874]] after the kraton conquest, and the **18-article declarations** (verklaringen in achttien artikelen) made by landschapshoofden after [[1877]], ceding opium, gambling, and import/export rights to the Government with *schadeloosstelling* (compensation).
+The three articles of the *korte Atjèhverklaring*, as Kreemer records them, were:
 
-**Uniform model and Zelfbestuursregelen**: The *Korte Verklaring* was later replaced by the "uniform model Korte Verklaring," standardising the declaration across the buitengewesen. The [[Zelfbestuursregelen 1919|Zelfbestuursregelen 1919]] (Stbl. [[1919]] N°. 822) further redefined the relationship between the Land (State) and the Zelfbesturen; after this, all concession rights (mining, agriculture, forestry) were removed from short-declaration zelfbesturen.
+1. The *zelfbestuurder* recognised Dutch sovereignty.
+2. The *zelfbestuurder* agreed not to engage foreign powers.
+3. The *zelfbestuurder* promised to follow all regulations and orders from the governor.
 
-Notable signatories included **Këdjoeroen Bidin** of [[Gajö Loeüs|Gajö Loeüs]], who signed on [[9 November]] [[1903]] in Koeta Radja, and the Zelfbestuurder of [[Troemon|Troemon]], who signed in [[1911]].
+### Replacement of earlier declarations
 
-**Mr. H. J. Spit's critique**: Mr. H. J. Spit, in his proefschrift "De Indische zelfbesturende landschappen" (p. 10), discussed the third article of the Korte Verklaring, which required the zelfbestuurder to follow all regulations and orders from the governor — a potentially far-reaching obligation that was in practice limited by the principle of self-rule.
+The *Korte Verklaring* replaced, in Kreemer's account, two earlier instruments:
+
+- **The 6-article declaration** — issued by luitenant-generaal [[J. van Swieten|Van Swieten]] on [[31 January]] [[1874]] after the kraton conquest, declaring the Sultan dead and inviting submission.
+- **The 18-article declarations** (*verklaringen in achttien artikelen*) — made by *landschapshoofden* after [[1877]], ceding opium, gambling, and import/export rights to the Government with *schadeloosstelling* (compensation). Article 5 (no new taxes without consultation), Article 6 (import/export rights), Article 7 (opium), Article 8 (former sultan's tax share), and Article 15 (no land grants without consultation) are singled out by Kreemer as the principal cessions of this longer form.
+
+### The uniform model and the *Zelfbestuursregelen* 1919
+
+The *Korte Verklaring* of Atjèh was later replaced by the "uniform model Korte Verklaring," standardising the declaration across the *buitengewesen* (outer territories). The [[Zelfbestuursregelen 1919|Zelfbestuursregelen 1919]] (Stbl. [[1919]] N°. 822) further redefined the relationship between the Land (State) and the *Zelfbesturen* (self-governing territories); after its promulgation, all concession rights — mining, agricultural, and forestry — were removed from short-declaration *zelfbesturen*.
+
+### Notable signatories in Atjèh
+
+In Atjèh, the *Korte Verklaring* was signed by many *landschapshoofden*. Kreemer records two notable signatories:
+
+- **Këdjoeroen Bidin** of [[Gajo Loeës|Gajö Loeüs]], who signed on [[9 November]] [[1903]] in [[Koeta-Radja|Koeta Radja]].
+- The **Zelfbestuurder of [[Troemon|Troemon]]**, who signed in [[1911]].
+
+### Mr. H. J. Spit's critique
+
+Mr. **H. J. Spit**, in his proefschrift *De Indische zelfbesturende landschappen* (p. 10), discussed the third article of the Korte Verklaring, which required the *zelfbestuurder* to follow all regulations and orders from the governor — a potentially far-reaching obligation that was in practice limited by the principle of self-rule.
 
 ## See Also
+
 - [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[H. N. A. Swart]]
@@ -92,6 +113,7 @@ Notable signatories included **Këdjoeroen Bidin** of [[Gajö Loeüs|Gajö Loeü
 - [[Pacificatie van Atjeh]]
 - [[Aceh War]]
 - [[C. Snouck Hurgronje]]
+- [[J. Kreemer]]
 - [[Oelèëbalang]]
 - [[Keudjeuroeën]]
 - [[Sarakata]]
@@ -104,17 +126,31 @@ Notable signatories included **Këdjoeroen Bidin** of [[Gajö Loeüs|Gajö Loeü
 - [[Politieke Contracten]]
 - [[Zelfbesturen]]
 - [[Zelfbestuurs-ordonnantie]]
+- [[Zelfbestuursregelen 1919]]
 - [[Buitenbezittingen]]
+- [[J. van Swieten]]
+- [[Verklaringen in achttien artikelen]]
+- [[Këdjoeroen Bidin]]
+- [[Gajo Loeës]]
+- [[Troemon]]
+- [[Koeta-Radja]]
 - [[1878 Langkat–Tamiang Transfer]]
 - [[Poeloe Nas]]
 - [[Boni]]
 - [[Bali]]
 - [[Fock]]
 - [[Idenburg]]
+- [[H. J. Spit]]
+- [[Panglima Polem]]
+- [[1874]]
+- [[1877]]
 - [[1878]]
+- [[1898]]
 - [[1899]]
+- [[1903]]
 - [[1904]]
 - [[1907]]
+- [[1911]]
 - [[1914]]
 - [[1919]]
 - [[1927]]
@@ -130,3 +166,5 @@ Notable signatories included **Këdjoeroen Bidin** of [[Gajö Loeüs|Gajö Loeü
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 5–7 (section "Bestuurs-organisatie").
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.

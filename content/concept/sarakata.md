@@ -1,24 +1,24 @@
 ---
 title: Sarakata
-aliases: ["Sarakata", "sarakata", "sarakata'", "sarakataʼ", "sarakat", "brief van aanstelling", "acte van bevestiging", "letter of appointment", "Royal edicts of Acheh", "Achehnese edicts", "Cap sikureung", "Ninefold seal", "Letters-patent of recognition", "sarakata with chab sikureu'eng", "chab sikureu'eng"]
+aliases: ["Sarakata", "sarakata", "sarakata'", "sarakataʼ", "sarakat", "brief van aanstelling", "acte van bevestiging", "letter of appointment", "Royal edicts of Acheh", "Achehnese edicts", "Cap sikureung", "Ninefold seal", "Letters-patent of recognition", "sarakata with chab sikureu'eng", "chab sikureu'eng", "sarahkata", "royal charter", "gift letter", "vorstenedict", "vorstenedicten"]
 
-tags: [concept, document, achehnese, sultanate, diplomacy, law, adat, chancery]
+tags: [concept, document, achehnese, sultanate, diplomacy, law, adat, chancery, sovereignty, precolonial]
 description: "The sarakata — the manuscript letters-patent and royal edicts of the Sultanate of Acheh — comprising both the central royal edicts of the 17th–18th-century Sultans (regulating court ceremonial, trade, and religious observance) and the letters of appointment issued to regional chiefs as tokens of the Sultan's suzerainty over the Atjehsche Onderhoorigheden."
 ---
 
-**The sarakata** (also written *sarakataʼ*; plural *sarakata's*) was the generic Achehnese term for the manuscript royal edicts and letters-patent of the [[Sultans of Atjeh|Sultanate of Acheh]] — decrees having the force of law ascribed to certain Sultans of the seventeenth and eighteenth centuries, and letters of appointment (*brief van aanstelling*) issued by the Sultan's chancery to chiefs (*landschapshoofden* and *uleebalangs*) who came to pay him homage or to promise tribute. The sarakatas constitute the chief documentary source — alongside oral tradition — for the political institutions of [[Acheh|Acheh]] under the Sultanate, and are treated at length by [[C. Snouck Hurgronje|C. Snouck Hurgronje]] in the opening chapter of *The Achehnese*. They form the only attempts at centralisation of authority or reformation, whether social, political, or religious, that can be discerned in the whole course of Achehnese history.
+**The sarakata** (also written *sarakataʼ*; plural *sarakata's*; Gayo *sarahkata*, cf. Javanese *piagem*) was the generic Achehnese term for the manuscript royal edicts and letters-patent of the [[Sultans of Atjeh|Sultanate of Acheh]] — decrees having the force of law ascribed to certain Sultans of the seventeenth and eighteenth centuries, and letters of appointment (*brief van aanstelling*) issued by the Sultan's chancery to chiefs (*landschapshoofden* and *uleebalangs*) who came to pay him homage or to promise tribute. The sarakatas constitute the chief documentary source — alongside oral tradition — for the political institutions of [[Acheh|Acheh]] under the Sultanate, and are treated at length by [[C. Snouck Hurgronje|C. Snouck Hurgronje]] in the opening chapter of *The Achehnese* and by [[J. Kreemer|J. Kreemer]] in his *Atjèh* ([[1923]]), where they are alternatively characterised as *vorstenedicten* — "princely edicts" — and as recognition charters or "gift letters" (*schenkingsbrieven*) sealed with the [[Tjab Sikoereuëng (ninefold seal of Atjèh)|ninefold seal]]. They form the only attempts at centralisation of authority or reformation, whether social, political, or religious, that can be discerned in the whole course of Achehnese history.
 
 ## Two Faces of the Sarakata
 
 The term covers two closely related documentary traditions, distinguished chiefly by their political setting:
 
-1. **The central royal edicts of Acheh proper.** These are the manuscript edicts of the great Sultans of the seventeenth and eighteenth centuries — above all [[Sultan Meukuta Alam|Sultan Meukuta Alam]] ([[Iskandar Muda|Iskandar Muda]], reigned [[1607]]–[[1636]]) — regulating court ceremonial, the trade of the port, the collection and distribution of taxes, and the stricter observance of Mohammedan law. They constitute the only surviving programme of centralised royal authority in Achehnese history.
+1. **The central royal edicts of Acheh proper.** These are the manuscript edicts of the great Sultans of the seventeenth and eighteenth centuries — above all [[Sultan Meukuta Alam|Sultan Meukuta Alam]] ([[Sultan Iskandar Muda|Iskandar Muda]], reigned [[1607]]–[[1636]]) — regulating court ceremonial, the trade of the port, the collection and distribution of taxes, and the stricter observance of Mohammedan law. They constitute the only surviving programme of centralised royal authority in Achehnese history.
 
-2. **The letters of appointment issued to the chiefs of the Onderhoorigheden.** In the outlying polities — the *Atjehsche Onderhoorigheden* (Achehnese Dependencies) on the north, east, and west coasts — the sarakata took the form of a *brief van aanstelling* (letter of appointment) by which the Sultan's court recognised a *landschapshoofd* (regional chief) who had come to pay homage or to promise tribute. By Snouck Hurgronje's time these were likewise stamped with the *chab sikureu'eng* or ninefold seal.
+2. **The letters of appointment issued to the chiefs of the Onderhoorigheden.** In the outlying polities — the *Atjehsche Onderhoorigheden* (Achehnese Dependencies) on the north, east, and west coasts — the sarakata took the form of a *brief van aanstelling* (letter of appointment) by which the Sultan's court recognised a *landschapshoofd* (regional chief) who had come to pay homage or to promise tribute. By Snouck Hurgronje's time these were likewise stamped with the *chab sikureu'eng* — Kreemer's *tjab sikoereuëng* — or ninefold seal.
 
 ## Authors and Dates of the Central Edicts
 
-The central sarakatas most commonly cited are ascribed to [[Sultan Meukuta Alam|Sultan Meukuta Alam]] (also called [[Iskandar Muda|Iskandar Muda]], reigned [[1607]]–[[1636]]) and to Shamsul-alam, who reigned for a period of one month only ([[1726]]–[[1727]]) according to the Achehnese chronicles. During his residence in Acheh, Snouck Hurgronje obtained copies of a number of other sarakatas not included among those published by [[K. F. H. Van Langen|Van Langen]] in his *Atjehsch Staatsbestuur* ([[1888]]). These were as a rule lengthy documents and most of them bore dates. Examples include:
+The central sarakatas most commonly cited are ascribed to [[Sultan Meukuta Alam|Sultan Meukuta Alam]] (also called [[Sultan Iskandar Muda|Iskandar Muda]], reigned [[1607]]–[[1636]]) and to Shamsul-alam, who reigned for a period of one month only ([[1726]]–[[1727]]) according to the Achehnese chronicles. During his residence in Acheh, Snouck Hurgronje obtained copies of a number of other sarakatas not included among those published by [[K. F. H. Van Langen|Van Langen]] in his *Atjehsch Staatsbestuur* ([[1888]]). These were as a rule lengthy documents and most of them bore dates. Examples include:
 
 - one of Meukuta Alam or Iskandar Muda, dated [[1607]], revived by the princess [[Princess Sapiatodin|Sapiatodin]] in [[1645]], intended to regulate the court ceremonial and solemnities at festivals (very rich in details);
 - two of Meukuta Alam Iskandar Muda, dated respectively [[1635]] and [[1640]];
@@ -28,6 +28,23 @@ The central sarakatas most commonly cited are ascribed to [[Sultan Meukuta Alam|
 
 In these documents are even found detailed customs-tariffs.
 
+## Notable sarakatas in Kreemer's account
+
+In his *Atjèh* ([[1923]]) Kreemer catalogues a parallel series of named sarakatas, several of them surviving only in copies recovered after the loss of the originals. The most famous of the *vorstenedicten* is the [[Adat Meukuta Alam|Adat Meukoeta Alam]] attributed to Sultan [[Sultan Iskandar Muda|Iskandar Moeda]] ([[1607]]–[[1636]]); its originals were captured at the mosque of [[Indrapuri|Indrapoeri]] in [[1879]] but lost in the [[1886]] flood, so that only the copies published by [[K. F. H. Van Langen|Van Langen]] now remain. The same fate overtook the edict of Sultan Djamaloe 'l-alam (reigned [[1703]]–[[1726]]), which was likewise captured at Indrapoeri in [[1879]] and lost in [[1886]].
+
+Kreemer records the following specific sarakatas as particularly noteworthy:
+
+1. **[[Adat Meukuta Alam|Adat Meukoeta Alam]]** — attributed to Sultan Iskandar Moeda; originals captured at the mosque of [[Indrapuri|Indrapoeri]] in [[1879]] but lost in the [[1886]] flood.
+2. **Edict of Sultan Djamaloe 'l-alam** (reigned [[1703]]–[[1726]]) — also captured at Indrapoeri in [[1879]] and lost in [[1886]].
+3. **Sarakata of Pö Rachman** ([[1771]]) — issued by Sultan [[Sultan Ibrahim Mansur Shah|Sultan Mahmoed Sjah (Meulaböh)]] to establish the [[Kawaj XVI|Kawaj XVI]] federation.
+4. **Sarakata of Beutöng** — dated 1163 A.H. / [[1749]] A.D., the oldest in the Meulaböh region.
+5. **Sarakata's of [[Tuanku Muhamat Dawot|Moehamat Dawöt]]** ([[1887]]–[[1888]]) — issued by the pretender Sultan to Gajö *moefi*'s who paid him homage.
+6. **Sarakata's of [[Sultan Ibrahim Mansur Shah|Sultan Mantsoer Sjah]]** — issued to the heads of Paté and Lhö Gloempang and to the *bestuurder* of Lhö Kroeët; granted the Tadj-oel-moelk request.
+
+## The sea-strip definition
+
+One old *sarakata* cited by Kreemer defined the extent of a chief's territory "as far as one can fish with seine nets" — that is, extending into the sea itself, so as to include the sea-strip adjacent to the coastal lands. This formula testifies to the Sultan's historic claim of sovereignty not only over the land but over the inshore waters on which the trade of the chief's *landschap* depended.
+
 ## Contents: Old and New
 
 It is not difficult, Snouck Hurgronje observes, to distinguish in these edicts the old and already established conditions from the new ones which they purport to introduce. The principal features of the old status were the great independence of the numerous chiefs and the all-prevailing influence of traditional custom. The new elements may be classified as follows:
@@ -35,6 +52,8 @@ It is not difficult, Snouck Hurgronje observes, to distinguish in these edicts t
 1. **Attempts at extension of the Sultan's authority** by allotting to him — the "king of the port" — a certain control over the succession of the other chieftains of the land, over the disputes of these chiefs with one another or those between the subjects of different chiefs, and over the interests of strangers; in a word, some very moderate efforts at centralisation of authority, having it for their object to make the Sultan *primus inter pares*, and the establishment of a kind of indication of fealty.
 2. **Stricter observance of Mohammedan law** — certain rules intended to bring about a more rigorous compliance with the religious law.
 3. **Regulations dealing with trade** (then confined to the capital), the shares of certain officials established in the capital in the profits drawn from this trade by the king of the port, the court ceremonial, and the celebration of great religious festivals.
+
+Kreemer's enumeration of the contents of the *vorstenedicten* runs in parallel: regulations on court ceremonial, on harbour trade (including the office of the *sjahbandar*), on religion and Islamic practice, and on legal procedure and justice.
 
 ## Practical Development
 
@@ -46,11 +65,15 @@ The ordinary Achehnese holds the sarakatas in great reverence, because all that 
 
 ## The *Chab Sikureu'eng*: The Ninefold Seal
 
-A distinctive sub-category of the sarakata is the **sarakata with *chab sikureu'eng*** — the Sultan of Acheh's letters-patent of recognition, bearing the *chab sikureu'eng* or "ninefold seal" from which the documents derive their common name. By these letters-patent newly appointed [[Oelèëbalang|uleebalangs]] and the principal hereditary holders of offices or titles were formally confirmed in their dignities by the Sultan. Some show of supremacy was maintained by the sarakatas even at the late period of which Snouck Hurgronje writes: they were among the few surviving instruments by which the Sultan's government attempted to keep up the appearance of authority over the uleebalangs of the [[Three Sagis|three sagis]] of Acheh proper.
+A distinctive sub-category of the sarakata is the **sarakata with *chab sikureu'eng*** (Kreemer's spelling *tjab sikoereuëng*) — the Sultan of Acheh's letters-patent of recognition, bearing the *chab sikureu'eng* or "ninefold seal" from which the documents derive their common name. By these letters-patent newly appointed [[Oelèëbalang|uleebalangs]] and the principal hereditary holders of offices or titles were formally confirmed in their dignities by the Sultan. Some show of supremacy was maintained by the sarakatas even at the late period of which Snouck Hurgronje writes: they were among the few surviving instruments by which the Sultan's government attempted to keep up the appearance of authority over the uleebalangs of the [[Three Sagis|three sagis]] of Acheh proper.
 
 At the top of such a sarakata, in the middle of the sheet, is the *chab sikureu'eng* — the ninefold seal — which contains the name of the reigning Sultan in the central space, and in eight circular spaces surrounding it the names of eight of his predecessors. The choice of nine names is in keeping with the Achehnese preference for odd numbers, which Allah is regarded as specially favouring; the blessing of the identical sultans whose names appear in the seal is invoked in the document. It is noticeable that the only additional name in some later sarakatas is that of [[Tuanku Muhamat|Muhamat]] ([[1824]]–[[1838]]). As a rule, only three or four of the names contained in the seals are repeated in the body of such documents.
 
 The sarakata sets out, in the high style of Achehnese chancery prose, the duties of the office confirmed. Among the chief duties of an uleebalang according to the sarakatas with the *chab sikureu'eng* are: to maintain the public prayers and especially the Friday service, to compel his subjects to observe the fasts in the month appointed, to build *meunasahs* and *deahs*, to contribute the [[Jakeuet (zakat)|zakat]] and [[Pitrah (zakat fitrah)|pitrah]] on all things that be subject thereto, and where any is able, to accomplish the journey to [[Mecca|Mekka]] to undertake the *haj*. The sarakata thus articulates the religious obligations of the uleebalang's office and presents him not merely as a territorial chief but as the local guarantor of Islam.
+
+### The *löh pira'* silver plate
+
+Kreemer records that the sarakata of installation was sometimes accompanied by a *löh pira'* — a silver plate engraved with the "tjap sambilan" (the "ninefold stamp") — presented to the newly confirmed chief alongside the patent itself. The plate, like the sarakata it accompanied, was a tangible emblem of the Sultan's investiture; without a sarakata, a chief's authority was not considered fully legitimate.
 
 By Snouck Hurgronje's time, however, the sarakata had become a form rather than a power. The uleebalangs of the three sagis regarded their rights as by no means dependent on such letters-patent, though both the old and the new holders of titles set some value on them as an embellishment of their rank. Those who lived outside the reach of the Sultan's government — on the far side of the Dutch *linie* or pale — continued to seek the sarakata by pilgrimages to [[Keumala|Keumala]], where the shadow sultanate still resided, and the document remained a treasured symbol of legitimacy long after the authority it represented had ceased to be effective. Snouck Hurgronje appends to his chapter a translation of one of the latest products of the chancery — the sarakata issued to the under-pretender Sultan [[Tuanku Muhamat Dawot|Tuanku Muhamat Dawot]] — as a specimen of the form.
 
@@ -94,13 +117,16 @@ Even after the effective disappearance of Sultanate authority — and especially
 
 - [[Sultans of Atjeh]]
 - [[Sultan Meukuta Alam]]
-- [[Iskandar Muda]]
+- [[Sultan Iskandar Muda]]
+- [[Adat Meukuta Alam]]
+- [[Tjab Sikoereuëng (ninefold seal of Atjèh)]]
 - [[Princess Sapiatodin]]
 - [[Alaedin Juhan]]
 - [[Alaedin Mahmut Shah]]
 - [[Amat Shah Juhan]]
 - [[Badrudin Asem]]
 - [[Tuanku Muhamat Dawot]]
+- [[Sultan Ibrahim Mansur Shah]]
 - [[Three Sagis]]
 - [[Oelèëbalang]]
 - [[Keudjeuroeën]]
@@ -111,10 +137,12 @@ Even after the effective disappearance of Sultanate authority — and especially
 - [[Tamiang]]
 - [[Gajoland]]
 - [[Westkust van Atjeh]]
+- [[Indrapuri]]
 - [[Keumala]]
 - [[Jakeuet (zakat)]]
 - [[Pitrah (zakat fitrah)]]
 - [[C. Snouck Hurgronje]]
+- [[J. Kreemer]]
 - [[K. F. H. Van Langen]]
 
 ## Sources
@@ -123,4 +151,4 @@ Even after the effective disappearance of Sultanate authority — and especially
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 47–48, 53–55, 78. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, p. 136.
 
-*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.

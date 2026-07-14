@@ -22,6 +22,12 @@ In hunting, the *pawang* (leader of the hunt, expert in forest sciences) used *�
 
 The *èleumèë* was also used in *peukeunong* — magic charms (e.g., a "bespoken" lemon) placed in someone's net or fuik to disrupt it. Fear of *peukeunong* maintained the "mild adat" of sharing catch with bystanders (*oereuëng meudarat*).
 
+
+## The boeröng-bezwering
+
+*Èleumèë* was also used in *boeröng*-bezwering (exorcism of the childbirth ghost). The *peutrön boeröng* ("bringing the boeröng downstairs") ritual was performed by an expert who used *èleumèë* to drive the *boeröng* from a possessed *kraamvrouw*.
+
+
 ## Related forms
 
 Specialised forms of *èleumèë* included:
@@ -40,6 +46,9 @@ Specialised forms of *èleumèë* included:
 - [[Peukeunong]]
 - [[Boeröng]]
 - [[Seumangat]]
+- [[Èleumèë sihé]]
+- [[Èleumèë koelat]]
+- [[Èleumèë salé']]
 
 ## Source
 

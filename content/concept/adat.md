@@ -1,10 +1,17 @@
 ---
 title: Adat
-aliases: [Adat Acheh, Customary Law, Acehnese Custom, Adat, Adat-law, Customary law, Adats, adat, custom, traditional law]
-tags: [concept, law, culture, achehnese, colonial]
-description: "The customary law (adat) of the Acehnese — the unwritten, indigenous legal tradition governing social life, distinct from but coexisting with Islamic law (hikum/hukom), and maintained primarily by the keuchi' and uleebalang; also the customary atmosphere of the colonial tangsi."
+aliases: [Adat Acheh, Customary Law, Acehnese Custom, Adat, Adat-law, Customary law, Adats, adat, custom, traditional law, Adat and Hoekom, hoekom, ödöt, customary law and Islamic law in Aceh]
+tags: [concept, law, culture, achehnese, colonial, legal, religious, precolonial]
+description: "The customary law (adat) of the Acehnese — the unwritten, indigenous legal tradition governing social life, distinct from but coexisting with Islamic law (hikum/hukom/hoekom), and maintained primarily by the keuchi' and uleebalang; also the customary atmosphere of the colonial tangsi."
 ---
-**Adat** (from Arabic *ʿādah*, "custom") is the unwritten customary law of the Acehnese — the body of indigenous legal tradition governing social, family, and community life. It coexisted with [[Hikum|Islamic law]] (*hukom*, from Arabic *ḥukm*), with each domain having its own guardians: the [[Keuchi'|keuchi']] and [[Uleebalang|uleebalang]] for adat, and the [[Teungku|teungku]] for hukom. Beyond the village and territory, the term was also used by G. W. T. Dames to describe the distinctive customary atmosphere of the colonial *[[tangsi]]* — the barracks culture of the K.N.I.L. — which formed its own *adat* distinct from that of the *kampong*.
+
+**Adat** (from Arabic *ʿādah* / *cadah*; Gayo: *ödöt*; Alas: *adat*) is the unwritten customary law of the Acehnese — the body of indigenous legal tradition governing social, family, and community life, distinct from but coexisting with [[Hikum|Islamic law]] (*hukom* / *hoekom*, from Arabic *ḥukm*). It coexisted with *hoekom*, with each domain having its own guardians: the [[Keuchi'|keuchi']] and [[Uleebalang|uleebalang]] for adat, and the [[Teungku|teungku]] for hukom. Beyond the village and territory, the term was also used by G. W. T. Dames to describe the distinctive customary atmosphere of the colonial *[[tangsi]]* — the barracks culture of the K.N.I.L. — which formed its own *adat* distinct from that of the *kampong*.
+
+In Kreemer's framing, *adat* and *hoekom* were the two pillars of Atjèhnese law: *adat* was the local, unwritten customary law that developed in connection with the whole of folk life, while *hoekom* was the "holy law" (Islamic law).
+
+## The folk sayings
+
+According to a folk saying, *adat* and *hoekom* are inseparable: "hoekom ngöti adat hati djeuët tjré" — a saying expressing their interdependence. Another saying holds: "adat is the older brother, hoekom the younger." In practice, *adat* takes priority over *hoekom*, except in religious life in the narrower sense.
 
 ## Nature of Acehnese Adat
 
@@ -12,9 +19,21 @@ description: "The customary law (adat) of the Acehnese — the unwritten, indige
 
 The wholly unlettered [[Teuku Kali Malikon Ade|Teuku Malikön Adé]] as supreme judge of the kingdom was cited as an example of the ignorance of the chiefs in regard to Mohammedan law — an ignorance shared with the rulers of most Mohammedan countries.
 
+## Synonyms of adat
+
+*Adat* had many synonyms in Atjèhnese, including: *biasa*, *oeto'*, *qaïm*, *deureuhém*, *reusam*, *atoeran*, *kanoen*, *kaidah*. Combined forms included "adat kanoen" (inherited customs) and "adat deureuhém nanggröë" (land customs).
+
+## The sources
+
+In folk tradition, the sources of *adat* and *hoekom* are attributed to different figures:
+
+- **Adat** is attributed to Pöteu Meureuhöm / [[Sultan Iskandar Muda|Sultan Iskandar Moeda]] (reigned [[1607]]–[[1636]])
+- **Hoekom** is attributed to Teungkoe Siah di Koeala, i.e. [[Abdurra'uf of Singkel|Abdoerraoef van Singkel]], the 17th-century Malay scholar who introduced the [[Sjattarijjah|Sjattarijjah]] *tarikat* to the Archipelago
+
 ## Scope
 
 Adat governed:
+
 - **Blood feuds and vengeance** (*[[Bila|bila]]* — blood money)
 - **Land rights and transactions** (sale of rice fields, sugarcane gardens, court yards)
 - **Village governance** (the powers and duties of the [[Keuchi']])
@@ -32,6 +51,14 @@ The relationship of *adat* and *hoeköm* — customary law and Islamic law — i
 
 The colonial legal system of the Gouvernement preserved the *voorrecht der eigen rechtspleging* — the privilege of native jurisdiction — for "verreweg het grootste deel der inlandsche bevolking" (by far the greater part of the native population). The native courts — the *moesapat* (in the Onderhoorigheden, the *rapat* in Singkel) — followed, "zooveel mogelijk de adat," modified where Dutch concepts of justice required it. *Godsoordeelen* (ordeal) and *mutileerende straffen* (mutilating punishments) were wholly forbidden. In civil cases — inheritances, estates, land disputes, sawahs, plantations — the *adat* was followed "zuiver" (purely).
 
+## Adatrecht
+
+**Adatrecht** was the Dutch colonial legal term referring to indigenous customary law, comprising *adat* (customs) plus the decisions of the *hoekom* (holy law). Subject of [[C. van Vollenhoven|Van Vollenhoven]]'s classic work *Het adatrecht van Nederlandsch Indië*. In Atjèh, *adatrecht* applied to material private law; criminal and procedural *adat* had been displaced by Dutch law.
+
+## Van Vollenhoven's analysis
+
+[[C. van Vollenhoven|Mr. C. van Vollenhoven]] analyzed Atjèhsche kinship as a *parenteel* (cognatic) system with matrilineal and patrilineal remnants. He provided the theoretical framework for *adatrecht*, distinguishing *grondenrecht* (land law), *schuldenrecht* (debt law), and *delictenrecht* (criminal law).
+
 ## Regional variations
 
 The *adat* varied considerably across the regions of the Gouvernement. The Groot-Atjehsche *adat*, described in detail by Snouck Hurgronje, was the most fully developed; it was found "vrijwel ongeschonden" (virtually intact) in [[Pedir|Pedir]] and, in modified form, in the Atjehsche parts of the Westkust. The Menangkabau *adat* — strongly modified but still recognisable — prevailed in the Malay colonies of the Westkust south of [[Meulabôh|Meulabôh]]. The Gayo and Alas *adats* — based on genealogical *kawöm* and *méréga* (clan) organisation — were again distinct, as were the *adats* of Tamiang.
@@ -40,15 +67,9 @@ The *adat* varied considerably across the regions of the Gouvernement. The Groot
 
 In the colonial army, *adat* took on a different meaning. G. W. T. Dames, in *[[Oom Ambon van het K.N.I.L.]]*, uses the word to describe the customary law and customary atmosphere of the *[[tangsi]]* — the barracks — as distinct from the *adat* of the *[[kampong]]*. "De anak-kolong konden de oude adatsfeer van de kampong missen, de tangsi gaf hen een eigen sfeer, een eigen adat, een eigen *stijl*…" The *[[anak-kolong]]* — the children of the barracks — could miss the old *adat* atmosphere of the kampong; the *tangsi* gave them their own *sfeer*, their own *adat*, their own *stijl*.
 
-The *adat* of the *tangsi* was also the *adat* of the feesten — the *Nieuwjaar* (the *grootste, vrolijkste feest*), the *Poeusa* (the end of the fasting month), the *[[Koninginnedag]]* (the Queen's birthday) — the mechanism by which the customary atmosphere was transmitted across generations of *anak-kolong*. The *damai* — reconciliation through a shared meal, "een aloude inheemse gewoonte" — was likewise an *adat* of the *tangsi*, the customary way of resolving emerging quarrels in the campement.
-
 ## Additional account from *Beginselen en Stelsel* ([[1950]]) — the Atjeh rechtskring
 
-[[B. ter Haar BzN|B. ter Haar BzN]], in his *[[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)|Beginselen en Stelsel van het Adatrecht]]* (first ed. [[1939]]; 4th ed. [[1950]]), places the *rechtskring Atjeh* — the legal circle of Atjeh — first among the nineteen legal circles (*rechtskringen*) into which he divides the archipelago, comprising [[Groot-Atjeh|Groot-Atjeh]], the [[Westkust van Atjeh|Westkust of Atjeh]], [[Singkel|Singkel]], and [[Simeuloeë|Simeuloet]]. The *atjehse gampong (meunasah)* — the Atjehnese village, with its *meunasah* — is cited by Ter Haar as a typical example of a territorial community in which the genealogical factor has no significance, alongside the Javanese, Sundanese, Madurese, and Balinese *désa*, the villages of the Malay region, and the *negorijen* of the Minahasa and Ambon. The *sultanaat van Atjeh* is cited as one of the central indigenous sultanates in which the "vernielend invloed" (destructive influence) of the central royal power worked on the communities around the royal residence, alongside Palembang, Djambi, the Oostkust-sultanaten, the kingdoms of South Celebes, Ternate and Tidore, Bali and Lombok, and the *nagaragoeng* of Java. The *vorsten en vorstentelgen in Atjeh* — the princes and princely lineages of Atjeh — are likewise cited as forming the first group of persons living outside the village communities, within the *vorstensfeer* (princely sphere), and the *atjehse groten in Padang* — the Atjehnese grandees in Padang — are noted as a marker of the reach of the Atjehnese princely sphere beyond the borders of the sultanate.
-
-Ter Haar's systematic account cites several Atjehnese adat-law institutions as illustrations of general Indonesian legal types. The *[[Djinamée (Atjehnese marriage gift)|djinamée]]* — the Atjehnese marriage gift — is cited as a typical example of a marriage payment that has become a validity requirement of the marriage, alongside the *soenrang* of South Celebes and the Muslim *mas kawin*, and is noted as having "samengesmolten" (coalesced) with the Muslim *mas kawin* in Atjeh. The *[[Wang pemasoeqan (Atjeh)|wang pemasoeqan]]* — the Atjehnese *entree* — is cited as a typical example of the formal recognition-payment required of community-foreigners who would profit from the community's *beschikkingskreis* (sphere of disposal over land), alongside the *mesi* of Java. The *[[Sanbod-aanname (idjaab kaboel) in Atjeh|sanbod-aanname (idjaab kaboel)]]* — the Muslim-derived offer-and-acceptance formula incorporated into Atjehnese land-pledging and land-sale transactions — is cited as a typical example of the local coloring that adat-law transactions receive, "zonder dat daardoor aan het indonesisch karakter van den grondverkoop wordt getornd" (without thereby the Indonesian character of the land-sale being infringed). The *[[Peungklēh (Atjehnese trousseau)|peungklēh]]* — the Atjehnese trousseau — is cited as a species of *toescheiding* (allocation), given to marrying daughters "soms met grote plechtigheid" (sometimes with great ceremony). The *maatschapjes tot het slachten van buffels in Atjeh* — the Atjehnese partnerships for the slaughtering of buffaloes — are cited as a typical example of the voluntary associations formed for reciprocal services-and-goods exchange.
-
-The principal source for the Atjeh legal circle is identified by Ter Haar as [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *[[Snouck Hurgronje's De Atjehers (1893-94)|De Atjehers]]* ([[1893]]–[[1894]]) — "dus van vóór den legger" (thus from before the [adatrecht] foundation) — which, "desalniettemin in dit verband niet mag ontbreken" (nevertheless, must not be absent in this connection). The work of [[J. Kreemer|J. J. Kreemer]], *Atjeh* ([[1922]]–[[1923]]), is noted as bringing, "na Snouck Hurgronje en Van Vollenhoven geen nieuws" (after Snouck Hurgronje and Van Vollenhoven, no news). The full account is treated in [[Atjeh adatrecht (Ter Haar account)]].
+[[B. ter Haar BzN|B. ter Haar BzN]], in his *[[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)|Beginselen en Stelsel van het Adatrecht]]* (first ed. [[1939]]; 4th ed. [[1950]]), places the *rechtskring Atjeh* — the legal circle of Atjeh — first among the nineteen legal circles (*rechtskringen*) into which he divides the archipelago, comprising [[Groot-Atjeh|Groot-Atjeh]], the [[Westkust van Atjeh|Westkust of Atjeh]], [[Singkel|Singkel]], and [[Simeuloeë|Simeuloet]]. The *atjehse gampong (meunasah)* — the Atjehnese village, with its *meunasah* — is cited by Ter Haar as a typical example of a territorial community in which the genealogical factor has no significance, alongside the Javanese, Sundanese, Madurese, and Balinese *désa*, the villages of the Malay region, and the *negorijen* of the Minahasa and Ambon. The principal source for the Atjeh legal circle is identified as [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *[[Snouck Hurgronje's De Atjehers (1893-94)|De Atjehers]]* ([[1893]]–[[1894]]); the work of [[J. Kreemer|J. Kreemer]], *Atjeh* ([[1922]]–[[1923]]), is noted as bringing, "na Snouck Hurgronje en Van Vollenhoven geen nieuws." The full account is treated in [[Atjeh adatrecht (Ter Haar account)]].
 
 ## Account from *Atjèh* by J. Kreemer (Deel II)
 
@@ -66,15 +87,15 @@ In folk tradition, the sources of *adat* and *hoekom* are attributed to differen
 
 ## See Also
 
-- [[Hikum]]
-- [[Kawom]]
+- [[Hikum|Hikum]]
+- [[Hoeköm]]
+- [[Kawom|Kawöm]]
 - [[Bila]]
 - [[Keuchi']]
-- [[Uleebalang]]
+- [[Uleebalang|Oelèëbalang]]
 - [[Teungku]]
-- [[Great Acheh]]
-- [[Hoeköm]]
-- [[Gampong]]
+- [[Great Acheh|Groot Atjèh]]
+- [[Gampong|Gampöng]]
 - [[Keutjhï]]
 - [[Teungkoe]]
 - [[Imeum]]
@@ -95,6 +116,12 @@ In folk tradition, the sources of *adat* and *hoekom* are attributed to differen
 - [[Sanbod-aanname (idjaab kaboel) in Atjeh]]
 - [[Peungklēh (Atjehnese trousseau)]]
 - [[J. Kreemer]]
+- [[Sultan Iskandar Muda|Sultan Iskandar Moeda]]
+- [[Abdurra'uf of Singkel|Abdoerraoef van Singkel]]
+- [[C. van Vollenhoven]]
+- [[Adatrecht]]
+- [[Adat Meukoeta Alam]]
+- [[Wakeuëh]]
 - [[1939]]
 - [[1950]]
 
@@ -108,4 +135,4 @@ In folk tradition, the sources of *adat* and *hoekom* are attributed to differen
 
 *Beginselen en Stelsel van het Adatrecht*, door Mr. B. ter Haar Bzn. Vierde ongewijzigde druk. Groningen, Djakarta: J. B. Wolters, 1950. Pp. 17 (gampong), 29 (minangkabause koloniën), 51 (vorsten), 52 (sultanaat), 63 (wang pemasoeqan), 98, 100 (sanbod-aanname), 124 (buffalo-slaughtering partnerships), 148 (dubbelunilaterale trek), 168, 169, 178, 192 (djinamée), 171 (teruggeven van huwelijksgift), 192 (inkomsten van den man), 205 (peungklēh), 213 (voorkeur aan de dochter), 245–246 (sources), 256–257 (overzicht van de rechtskringen).
 
-*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.

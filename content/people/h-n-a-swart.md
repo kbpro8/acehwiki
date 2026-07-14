@@ -1,11 +1,11 @@
 ---
 title: H. N. A. Swart
-aliases: ["H. N. A. Swart", "H. N. N. A. Swart", "Hendrik Nikolaas Albert Swart", "Swart", "Mr. Swart", "Major Swart", "Kolonel Swart", "Generaal Swart", "General Swart", "Governor Swart", "Lieutenant-General Swart", "Toean Gouverneur Swart", "Aceh-connoisseur Swart"]
-tags: [person, general, dutch, colonial, military, governor, aceh, aceh-war, knil, bestuursreorganisatie]
+aliases: ["H. N. A. Swart", "H. N. N. A. Swart", "Hendrik Nikolaas Albert Swart", "Swart", "Mr. Swart", "Major Swart", "Kolonel Swart", "Generaal Swart", "General Swart", "Governor Swart", "Gouverneur Swart", "Lieutenant-General Swart", "Toean Gouverneur Swart", "Aceh-connoisseur Swart", "successor of Van Daalen"]
+tags: [person, general, dutch, colonial, military, governor, aceh, aceh-war, knil, bestuursreorganisatie, 20th-century]
 description: "Dutch lieutenant-general of infantry (active 1890s–1918) who, as Civil and Military Governor of Atjeh en Onderhoorigheden from 1908 to 1918, restored conciliatory governance after the Van Daalen years, presided over the 1913–1914 Sumatra administrative reform, and finally handed a peaceful Aceh over to a civilian governor in 1918 — closing the forty-five-year Aceh War."
 ---
 
-**H. N. A. Swart** — *Hendrik Nikolaas Albert Swart* — known in the Acehnese idiom of the old hunter [[Datoek]] as *Toean Gouverneur Swart* — was a Dutch **lieutenant-general of the infantry** (*Luitenant-Generaal der Infanterie*) of the [[Royal Netherlands East Indies Army|K.N.I.L.]] and colonial administrator who, as **Civil and Military Governor of [[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]]** from [[1908]] to [[1918]], restored conciliatory governance after the harsh policies of his predecessor [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] had provoked the [[Atjéh-enquête|1907–1908 inquiry]] and a fierce flare-up of armed resistance, and who finally handed a peaceful Aceh over to a civilian Governor in [[1918]] — thereby ending what G. W. T. Dames calls "de slepende ziekte: de [[Atjeh-oorlog|Atjeh-oorlog]]" ("the lingering disease: the Aceh War"). He was the final military governor of [[Atjeh|Aceh]], the *Aceh-connoisseur* whose ten-year administration — "order and peace were consolidated in that province" — was the phase that "brought the [[Aceh War]] to an end," and who throughout his career "altijd en overal het meest voelde voor breken van het verzet zonder bloedvergieten" — "always and everywhere most preferred to break resistance without bloodshed".
+**H. N. A. Swart** — *Hendrik Nikolaas Albert Swart* — known in the Acehnese idiom of the old hunter [[Datoek]] as *Toean Gouverneur Swart* — was a Dutch **lieutenant-general of the infantry** (*Luitenant-Generaal der Infanterie*) of the [[Royal Netherlands East Indies Army|K.N.I.L.]] and colonial administrator who, as **Civil and Military Governor of [[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]]** from [[1908]] to [[1918]], restored conciliatory governance after the harsh policies of his predecessor [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] had provoked the [[Atjéh-enquête|1907–1908 inquiry]] and a fierce flare-up of armed resistance, and who finally handed a peaceful Aceh over to a civilian Governor in [[1918]] — thereby ending what G. W. T. Dames calls "de slepende ziekte: de [[Atjeh-oorlog|Atjeh-oorlog]]" ("the lingering disease: the Aceh War"). He was the final military governor of [[Atjeh|Aceh]], the *Aceh-connoisseur* whose ten-year administration — "order and peace were consolidated in that province" — was the phase that "brought the [[Aceh War]] to an end," and who throughout his career "altijd en overal het meest voelde voor breken van het verzet zonder bloedvergieten" — "always and everywhere most preferred to break resistance without bloodshed". [[J. Kreemer|J. Kreemer]]'s *Atjèh* ([[1923]]) catalogues the administrative reforms of his governorship — the restoration of the *Hasil-reglement*, the reform of *wasé oelèëbalang*, the removal of *bestuursbemoeienis* from private-law pepper contracts, and the rapid expansion of *volksonderwijs* — in detail.
 
 > **Note on nomenclature**: One source — the *Notulen der bestuursvergaderingen* of [[1914]] — gives the initials as "H. N. N. A. Swart" (with two N's); all other sources, including Dames, Lamster, and the Encyclopaedisch Bureau, give "H. N. A. Swart". The biography *Generaal Swart* by [[Maurice Henri du Croo|du Croo]] and [[Schmidt|Kolonel Schmidt]] identifies him as **Hendrik Nikolaas Albert Swart**. The double-N form is almost certainly a transcription or OCR variant of the same name.
 
@@ -48,6 +48,30 @@ Swart closed the [[Koeta-Radja|Koeta-Radja]] meetings by thanking Regeeringscomm
 ## Cultural Initiatives
 
 Swart's governorship is also associated with the promotion of native craft industries. *De Buitenbezittingen* records that "op initiatief van Gouverneur Swart" ("on the initiative of Governor Swart") a half-dozen *handwerkscholen* — handicraft schools — were founded in [[Groot-Atjeh|Groot-Atjeh]] and [[Pedir|Pedir]], where pupils received regular instruction in useful and decorative handicrafts, lace-making, weaving, and similar skills, typically taught by Menangkabau girls trained as assistant teachers on [[Sumatra's Westkust|Sumatra's West Coast]]. The aim was to influence "de ontwikkeling der Atjehsche vrouw" — "the development of the Acehnese woman" — and through her the condition of the entire people.
+
+## Kreemer's account: the administrative reforms
+
+Kreemer's *Atjèh* ([[1923]]) catalogues, with dates and *besluit* numbers, the specific administrative reforms by which Swart reversed Van Daalen's exactions and re-founded the governance of the Onderhoorigheden on the principle of *zelfbestuur*. They group themselves under five heads.
+
+### Restoration of the *Hasil-reglement* (1908)
+
+Swart restored the *[[Hasil-reglement|Hasil-reglement]]* on [[30 June]] [[1908]] (Bt. N°. 55), reversing [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]'s unfavourable reform of [[23 October]] [[1905]]. The restoration included ƒ345,288 total restitution — ƒ163,450 in direct damages and ƒ181,838 in withheld income and warranty — to the *landschapshoofden* who had been disadvantaged by Van Daalen's treatment of *Gouvernementsbestuursvestigingen* as *Gouvernementsgrondgebied*.
+
+### Reform of *wasé oelèëbalang* (1910, 1915)
+
+Swart's *besluit* of [[13 January]] [[1910]] N°. 1 reformed the *[[wasé oelèëbalang|wasé oelèëbalang]]* back from Van Daalen's 10%-of-value system to fixed amounts, halting the pepper decline that Van Daalen's [[1906]] reform had caused. A further reform in [[1915]] (Bt. [[13 September]] N°. 435) removed *bestuursbemoeienis* (administrative interference) from private-law pepper contracts entirely, leaving the relationships between *pangkaj* (financiers), *peutoeha* (garden-heads), and *aneu' seuneubö'* (planters) to the parties themselves.
+
+### Opposition to *voorschotten* (1908)
+
+In his *nota* of [[10 August]] [[1908]] (N°. 2704/22), Swart opposed Van Daalen's interest-free advances scheme and direct credit by the administration, defending the principle of self-rule (*zelfbestuur*) in the Onderhoorigheden. His position prevailed, and the *voorschotten* scheme was discontinued.
+
+### *Wegenfonds* and *boetenfonds*
+
+Swart ordered the *wegenfonds* (road fund) to cease on [[1 September]] [[1908]]. The *boetenfonds* (fines fund) that replaced it was then absorbed by the *landschapskassen* on [[1 January]] [[1912]].
+
+### Expansion of *volksonderwijs*
+
+Under Swart's governorship, the *volksonderwijs* (native education) system expanded from the single *moekimschool* with 38 pupils established by Van Daalen in [[1907]] to 51 schools with 2,009 pupils by [[1909]], and ultimately to 258 schools with 15,476 pupils by [[1919]]. However, the [[1919]] *Schoolrapport* by inspector **A. Vogel** concluded that this growth had been achieved through coercion, not natural demand, and that *volksonderwijs* was unpopular in true Atjèhsche areas.
 
 ## The Ten-Year Administration and the Handover of 1918
 
@@ -97,9 +121,15 @@ The *boetenfonds* (fines fund), maintained separately, was absorbed into the *la
 - [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Hendrikus Colijn|H. Colijn]]
 - [[C. Snouck Hurgronje|Snouck Hurgronje]]
+- [[J. Kreemer]]
 - [[Atjéh-enquête]]
 - [[Pacification of Aceh]]
 - [[Korte Verklaring]]
+- [[Hasil-reglement]]
+- [[Wasé oelèëbalang]]
+- [[Volksonderwijs]]
+- [[Moekimschool]]
+- [[Landschapskassen]]
 - [[Groot-Atjeh]]
 - [[Pedir]]
 - [[Singkel]]
@@ -110,7 +140,7 @@ The *boetenfonds* (fines fund), maintained separately, was absorbed into the *la
 - [[Panglima Polem|Panglima Prang Polim]]
 - [[Toeankoe Machmoed Radja Keumala]]
 - [[Teungkoe Sjech Saman di Tiri]]
-- [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
+- [[Colonne Schmidt campaign against the Tiriō Teungkues (1910-1911)]]
 - [[S. de Graaff]]
 - [[Bestuursreorganisatie Sumatra (1913-1914)]]
 - [[Gewestelijke Raad Noord-Sumatra]]
@@ -132,12 +162,16 @@ The *boetenfonds* (fines fund), maintained separately, was absorbed into the *la
 - [[Handover of Aceh to a civil Gouverneur (1918)]]
 - [[1905]]
 - [[1906]]
+- [[1907]]
 - [[1908]]
 - [[1909]]
 - [[1910]]
 - [[1911]]
+- [[1912]]
 - [[1914]]
+- [[1915]]
 - [[1918]]
+- [[1919]]
 - [[1934]]
 
 ## Sources
@@ -152,4 +186,4 @@ The *boetenfonds* (fines fund), maintained separately, was absorbed into the *la
 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130.
 
-*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.

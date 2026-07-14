@@ -1,10 +1,20 @@
 ---
 title: Sagi (Atjeh administrative division)
-aliases: [Sagi, Saqi, Atjeh sagi system, "Three sagi's of Groot-Atjeh"]
-tags: [concept, administrative-division, sagi, groot-atjeh, indigenous-governance, atjeh]
+aliases: [Sagi, Saqi, Atjeh sagi system, "Three sagi's of Groot-Atjeh", sagï, sagi federation, territorial division of Groot Atjèh]
+tags: [concept, administrative-division, sagi, groot-atjeh, indigenous-governance, atjeh, sultanate, achehnese]
 ---
 
-**The Sagi** (plural: sagi's) was the highest indigenous administrative unit in [[Groot-Atjeh]], described by Gouverneur [[H. N. A. Swart|H. N. N. A. Swart]] at the [[Koeta-Radja]] meeting ([[19 January]] [[1914]]) as more or less comparable to the regentschappen of Java. There were three sagi's in Groot-Atjeh, each encompassing a large territory with its own hierarchy of subordinate administrative units: the [[peleebalangschap]]pen (comparable to Javanese districten) and the [[moekimschap]]pen (comparable to Javanese onderdistricten). The sagi thus occupied the apex of a three-tier administrative hierarchy that structured indigenous governance in the rechtstreeks bestuurd gebied (directly ruled territory) of Atjeh, providing the colonial administration with a framework through which it could exercise oversight while maintaining the appearance of indigenous self-governance.
+**The Sagi** (Atjèhnese for "corner" or "side," cf. *soeröé*; plural: sagi's) was the highest indigenous administrative unit in [[Groot-Atjeh|Groot Atjèh]], described by Gouverneur [[H. N. A. Swart|H. N. N. A. Swart]] at the [[Koeta-Radja]] meeting ([[19 January]] [[1914]]) as more or less comparable to the regentschappen of Java. There were three sagi's in Groot-Atjeh, each encompassing a large territory with its own hierarchy of subordinate administrative units: the [[peleebalangschap]]pen (comparable to Javanese districten) and the [[moekimschap]]pen (comparable to Javanese onderdistricten). The sagi thus occupied the apex of a three-tier administrative hierarchy that structured indigenous governance in the rechtstreeks bestuurd gebied (directly ruled territory) of Atjeh, providing the colonial administration with a framework through which it could exercise oversight while maintaining the appearance of indigenous self-governance.
+
+## The three sagi's of Groot Atjèh
+
+The three sagi's of Groot-Atjèh were federations or provinces whose names derived from the number of [[moekim|mukims]] they contained. Kreemer lists them as the [[XXII Moekim's|XXII Moekim's]] (*doea plöh doea*), the [[XXVI Moekim's|XXVI Moekim's]] (*doea plöh nam*), and the [[XXV Moekim's|XXV Moekim's]] (*teungöh Iheë plöh*). Each sagi was headed by a **Panglima Sagi** (locally called "Teukoe Oelèëbalang Ihèë sagöë"), whose title "Panglima" (commander) reflects the military origin of the federation.
+
+1. **[[XXII Moekim's|XXII Moekim's]]** ("Twenty-two Moekim's") — sagi-head: [[Panglima Polem|Panglima Pölém]] (personal name Teukoe Moehamat Dawöt), belonging to the *[[Kawom|kawöm]]* Dja Sandang
+2. **[[XXV Moekim's|XXV Moekim's]]** ("Twenty-five Moekim's") — sagi-head: **Teukoe Siah Oelatna** (hereditary ambtsnaam)
+3. **[[XXVI Moekim's|XXVI Moekim's]]** ("Twenty-six Moekim's") — sagi-head: **Imam Moeda** / **Sri Imeum Moeda** (hereditary ambtsnaam)
+
+Each sagi was composed of [[moekim|mukims]] — ecclesiastical-administrative units (from Arabic *moeqim* "inhabitant"), originally Friday-prayer circles of typically four villages with a mosque. The number of mukims in each sagi gave it its name. The sagi's together formed the historic core of the Atjèhnese sultanate around [[Koeta Radja|Koeta Radja]].
 
 The three sagi's of Groot-Atjeh represented a tradition of territorial organization that predated the Dutch conquest and had its roots in the political structure of the Atjeh sultanate. Each sagi encompassed a substantial portion of Groot-Atjeh's territory and population, and the sagi heads (known as panglima sagi) exercised considerable authority over their domains. The very existence of three sagi's—rather than a single unified hierarchy—reflected the decentralized and competitive nature of Atjeh's indigenous political culture, in which power was distributed among multiple centers rather than concentrated in a single ruler. This tripartite division had profound historical significance, shaping everything from military alliances to trade networks, and it continued to influence the political dynamics of Groot-Atjeh even after the establishment of Dutch colonial rule.
 
@@ -20,27 +30,36 @@ The sagi system also had implications for the question of erfelijkheid (heredity
 
 The discussion of erfelijkheid in the context of the sagi system also connected to broader questions about the relationship between the [[Inlandsch Bestuur]] and the colonial administration. Waarnemend Adviseur [[C. Lulofs]] specifically asked whether the Atjeh population proposed candidates for Inlandsche hoofd appointments or whether they were nominated by the European Bestuur, revealing the tension between indigenous participatory traditions and colonial prerogatives. Swart's response—that the population was heard but could be overruled—encapsulated the essential dynamic of the sagi system under colonial rule: indigenous structures were preserved and even cultivated, but ultimate authority rested with the colonial government, which could override traditional practices when they conflicted with administrative efficiency or colonial interests.
 
-## Account from *Atjèh* by J. Kreemer (Deel II)
+## The sagi-bank experiments
 
-[[J. Kreemer|Kreemer]] provides the following detailed account of the three sagi's of [[Groot Atjèh|Groot Atjèh]].
+In [[1910]]–[[1912]], the [[Groot-Atjèhsche Afdeelingsbank|Groot-Atjèhsche Afdeelingsbank]] funded experimental *sagi-banken* (sagi-level banks) at **Lam Ateuë** (for the XXVI Moekim's, [[1910]], abolished the same year) and **Lam Njöng** ([[1912]], funded by the Afdeelingsbank). Both experiments failed.
 
-**Sagi** (Atjèhnese for "corner" or "side," cf. *soeröé*) was the term for the three federations or provinces of Groot Atjèh: the [[XXII Moekim's|XXII Moekim's]] (*doea plöh doea*), the [[XXVI Moekim's|XXVI Moekim's]] (*doea plöh nam*), and the [[XXV Moekim's|XXV Moekim's]] (*teungöh Iheë plöh*). Each sagi was headed by a **Panglima Sagi** (locally called "Teukoe Oelèëbalang Ihèë sagöë").
+## Wakeuëh-districts
 
-The three sagi-heads were:
-1. **[[XXII Moekim's|XXII Moekim's]]** — sagi-head: [[Panglima Pölém|Panglima Pölém]] (personal name Teukoe Moehamat Dawöt), belonging to the *kawöm* Dja Sandang
-2. **[[XXV Moekim's|XXV Moekim's]]** — sagi-head: **Teukoe Siah Oelatna** (hereditary ambtsnaam)
-3. **[[XXVI Moekim's|XXVI Moekim's]]** — sagi-head: **Imam Moeda** / **Sri Imeum Moeda** (hereditary ambtsnaam)
-
-**The sagi-bank experiments**: In [[1910]]–[[1912]], the [[Groot-Atjèhsche Afdeelingsbank|Groot-Atjèhsche Afdeelingsbank]] funded experimental *sagi-banken* (sagi-level banks) at **Lam Ateuë** (for the XXVI Moekim's, [[1910]], abolished the same year) and **Lam Njöng** ([[1912]], funded by the Afdeelingsbank). Both experiments failed.
-
-**Wakeuëh-districts**: Within the sagi's, some moekim's were *[[wakeuëh|wakeuëh]]*-districts (free-lordly domains) whose chiefs were withdrawn from the authority of the sagi-heads. Examples: in the XXV Moekim's — Loeëng Bata, Pagar Ajé, and Lam Sajoen; in the XXII Moekim's — the III Moekim's Keureukön; in the XXVI Moekim's — Lho' Goelöng, Tjadé' Mön Batèë, and Koeala Gigiëng (the latter now no longer existing).
+Within the sagi's, some mukims were *wakeuëh*-districts (free-lordly domains) whose chiefs were withdrawn from the authority of the sagi-heads. Examples: in the XXV Moekim's — Loeëng Bata, Pagar Ajé, and Lam Sajoen; in the XXII Moekim's — the III Moekim's Keureukön; in the XXVI Moekim's — Lho' Goelöng, Tjadé' Mön Batèë, and Koeala Gigiëng (the latter now no longer existing).
 
 ## See Also
 
-[[H. N. A. Swart|H. N. N. A. Swart]], [[Groot-Atjeh]], [[Peleebalangschap]], [[Moekimschap]], [[Inlandsch Bestuur]], [[Erfelijkheid in Atjeh hoofd appointments]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Rechtstreeks bestuurd gebied]]
+- [[H. N. A. Swart|H. N. N. A. Swart]]
+- [[Groot-Atjeh|Groot Atjèh]]
+- [[XXII Moekim's]]
+- [[XXV Moekim's]]
+- [[XXVI Moekim's]]
+- [[Panglima Polem|Panglima Pölém]]
+- [[Peleebalangschap]]
+- [[Moekimschap]]
+- [[Moekim]]
+- [[Inlandsch Bestuur]]
+- [[Erfelijkheid in Atjeh hoofd appointments]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Rechtstreeks bestuurd gebied]]
+- [[Wakeuëh]]
+- [[Uleebalang|Oelèëbalang]]
+- [[19 January]]
+- [[1914]]
 
 ## Sources
 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 128-129.
 
-*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
