@@ -57,6 +57,18 @@ Van Daalen's governorship remains a classic case of the tension between military
 
 Van Daalen is significant in the AcehWiki corpus in two registers. As the historical actor Gotfried Coenraad Ernst van Daalen, he is the brilliant column commander whose [[1904]] Gayo-Alas campaign completed the military pacification of the interior and whose subsequent harsh governorship provoked the [[Atjéh-enquête]] and the public rift with Van Heutsz — a classic case study of the failure of coercive pacification when transferred from the military to the civil sphere. As the legendary *Toean Obers Van Daalen* of Merac's *Oost-Indisch Journael*, he is the second-named of Musket's Marechaussee commanders — the very great lord for whom a human life had no value, but who had mercy for chickens — and so the book's marker of the Van Daalen Column's reputation in colonial memory. The two registers coincide in a single historical person whose career joined the operational and the civil-pacification phases of the Aceh War, and whose fall marked the close of the one and the opening of the other.
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] records a number of specific administrative details of Van Daalen's governorship ([[1905]]–[[1908]]) that are not in the earlier British and Dutch sources:
+
+The **1904 expedition** was the Gajö-Alas campaign: Van Daalen entered the Gajö Loeüs on **2 June [[1904]]** and the Alasland on **29 June [[1904]]**, completing the subjugation of both highland areas in a single combined operation.
+
+Under Van Daalen, the *wasé oelèëbalang* (the tribute paid to *oelèëbalang*'s as a percentage of trade-good values) was reformed by Gouvernementsbesluit (*Bt.*) 12 December **N°. 112** ([[1906]]), which fixed it at **10% of the value** of traded goods. Kreemer notes that this high rate caused a severe decline in the pepper trade of the Westkust, as cultivators and traders avoided regions where the *wasé* applied at this rate.
+
+In October [[1905]], Van Daalen reformed the *Hasil-reglement* by Bt. 23 October **N°. 86** — tightening revenue extraction in ways that Kreemer judged to have damaged the Acehnese economy.
+
+Van Daalen established the first **moekimschool** (village school) in [[1907]], with an initial enrolment of 38 pupils. He also introduced the *voorschotten* (advances) scheme in [[1908]], providing ƒ60,000 to Acehnese *oelèëbalang*'s and landschapskassen as advances on future revenue — a scheme his successor [[H. N. A. Swart|Swart]] would oppose and eventually discontinue.
+
 ## See Also
 
 - [[Gouvernement Atjeh en Onderhoorigheden]]
@@ -100,3 +112,5 @@ Van Daalen is significant in the AcehWiki corpus in two registers. As the histor
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on *den zieleherder* and the chapter *Jagerslatijn*.
 
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.

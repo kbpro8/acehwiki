@@ -149,6 +149,13 @@ plugins:
       priority: 50
   - source: github:quartz-community/graph
     enabled: true
+    options:
+      globalGraph:
+        depth: 2
+        repelForce: 0.3
+        centerForce: 0.2
+        linkDistance: 40
+        enableRadial: false
     layout:
       position: right
       priority: 10

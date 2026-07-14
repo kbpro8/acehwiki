@@ -34,6 +34,14 @@ Van Langen's *Achehnese Dictionary* — alongside the later work of [[Dr. H. N. 
 
 Van Langen's chief significance for the encyclopedia of [[Acheh|Aceh]] history is twofold. As the author of *Atjehsch Staatsbestuur*, he is the earliest named Western scholar of the political institutions of the Acehnese sultanate, and the principal printed source on which Snouck Hurgronje's own ethnography builds. As the author of *Atjeh's Westkust* (1888), he is the earliest named Western source for the [[Acheh's Westkust|Westkust van Atjeh]] as a describable territorial unit, and one of the three authorities on which the standard account of the [[Atjeh adat schimpstraf (buffalo-riding wife-beater)|Aceh buffalo-riding *schimpstraf*]] rests. His [[1888|1888]] article is also significant as a document of the early Dutch-colonial geographical literature on Aceh, predating the great ethnographic syntheses of [[C. Snouck Hurgronje|Snouck Hurgronje]] ([[1893|1893]]-94) and [[J. Kreemer|Kreemer]] ([[1922|1922]]-23) by a generation.
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] credits Van Langen with several foundational contributions to the study of Atjèh:
+
+Van Langen authored the following works: *De inrichting van het Atjèhsche staatsbestuur* ([[1888]]), *Atjèh's Westkust* ([[1888]]), the *Handleiding voor de beoefening der Atjèhsche taal* ([[1889]]), and the *Atjèhsch-Nederlandsch Woordenboek* ([[1889]]). The *Handleiding* and *Woordenboek* together made Van Langen "de eerste ernstige student van de Atjèhsche taal" (the first serious student of the Atjèhnese language).
+
+Van Langen published the *Adat Meukoeta Alam* (the adat-law edict attributed to [[Sultan Iskandar Moeda|Sultan Iskandar Moeda]]) from copies, providing the first printed version of this foundational Atjèhnese legal text. He also documented the *tjab sikoereuëng* (the ninefold seal of the Sultan of Atjèh) and provided important data on Atjèhnese coinage and metrology — data that Kreemer draws on for his own treatment of these subjects.
+
 ## See Also
 
 - [[Acheh]]
@@ -62,7 +70,7 @@ Van Langen's chief significance for the encyclopedia of [[Acheh|Aceh]] history i
 - [[XXV Mukims]]
 - [[1888]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 

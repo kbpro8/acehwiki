@@ -86,6 +86,22 @@ Van Heutsz died on [[11 July]] [[1924]] in [[Montreux]], [[Switzerland]]. A stat
 
 Van Heutsz's legacy is double. As the conqueror of Aceh, he is the figure who, after twenty-five years of Dutch vacillation, finally brought the war to its military conclusion. As Governor-General, he oversaw the transition from military occupation to civil administration in Aceh, and the expansion of the *ethische politiek* (Ethical Policy) across the outer islands. In the broader colonial narrative, *De Buitenbezittingen* treats his governorship as the foundational moment of modern Atjeh administration; Dames's *Oom Ambon* treats his *systeem* as the tactical paradigm that shaped the colonial army's last generation of fighting men. The atlas's posthumous portrait in [[1926]] cemented his place in the official colonial pantheon. He remains a controversial figure: celebrated in Dutch historiography for his military skill, yet criticised in Indonesian narratives for the harsh methods employed during the pacification of Aceh, and his methods have been the subject of extensive debate for their civilian toll.
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] provides administrative details that document Van Heutsz's transformation of Atjèh from a military to a civilian administration:
+
+In [[1892]] Van Heutsz wrote a pamphlet on the strategic importance of [[Sabang|Sabang]] (Weh Island) as a coaling station and naval base — one of his earliest known political writings on Atjèh.
+
+In [[1897]]–[[1898]] Van Heutsz led the **Pidië-expeditie**, which broke two existing Pidiësche *federatiën* (protective alliances among *oelèëbalang*'s). After this expedition, in [[1898]], he declared all roads *neutraal* (neutral), free from the exaction of tolls or tribute by *oelèëbalang*'s, and introduced the ***hasil-djalan*** (road toll) at a standard rate of ƒ0.21 per *pikul* (approximately 61.5 kg) of pepper — a single unified levy replacing the arbitrary exactions of individual chiefs.
+
+After [[1898]], Van Heutsz and [[C. Snouck Hurgronje|Snouck Hurgronje]] together drafted the ***korte Atjèhverklaring*** (short Aceh declaration) — the brief loyalty oath (*verklaring*) that each territorial chief was required to sign, promising submission to Dutch authority. This oath became the legal cornerstone of the entire pacification policy.
+
+The ***Instructie van 7 Mei [[1902]]*** prescribed that each expedition (colonne) would operate for no more than **52 days** in any one area before returning to base — a constraint designed to prevent the column commanders from becoming too deeply embedded in a single region and to maintain the mobility of the marechaussee.
+
+In [[1903]] Van Heutsz introduced the ***muntverandering*** (currency change), replacing the existing mixed coinage with a uniform Dutch currency. A second *muntzuivering* (currency purification) followed in [[1908]] — already under [[H. N. A. Swart|Swart]]'s governorship.
+
+The [[Atjèh-tram|Atjèh-tram]] — the narrow-gauge railway connecting Bësitang (on the East Coast of Sumatra) with Pangkalan Brandan — was completed on **29 December [[1919]]**, long after Van Heutsz's departure from Atjèh.
+
 ## See Also
 
 - [[Aceh War]]
@@ -137,7 +153,7 @@ Van Heutsz's legacy is double. As the conqueror of Aceh, he is the figure who, a
 - [[1909]]
 - [[1924]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
@@ -158,3 +174,5 @@ Van Heutsz's legacy is double. As the conqueror of Aceh, he is the figure who, a
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Plate 23 (Great Men from the Latest History of the Dutch East Indies) and Chapter IX (Verkeer / Transport), p. 160.
 
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, OCR edition (DLP-55), pp. 127–128, 149–151, 156–161, 403.
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.

@@ -73,6 +73,22 @@ By the time *De Buitenbezittingen* was compiled, Swart could point to a territor
 
 Swart's success in Aceh demonstrated that military capability alone was insufficient — a governor needed tact, patience, and a genuine respect for local institutions. His appointment marked the definitive shift from the coercive approach of Van Daalen to the collaborative model pioneered by Van Heutsz, and his governorship is often seen as the final consolidation of Dutch rule in Aceh after decades of conflict. In the narrative of *Oom Ambon van het K.N.I.L.*, Swart stands as the quiet counter-weight to Van Heutsz: where Van Heutsz is the conqueror whose *systeem* finished the war at the tactical level, Swart is the general who closed it at the political level.
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] provides administrative details of Swart's governorship ([[1908]]–[[1918]]) that complement the earlier sources:
+
+Upon succeeding Van Daalen in [[1908]], Swart immediately restored the *Hasil-reglement* (the regulation governing import/export revenue) that Van Daalen had altered, issuing Gt. 30 June [[1908]] N°. 55, which required the restitution of ƒ345,288 to those who had overpaid under Van Daalen's revised rates.
+
+Swart reformed the *wasé oelèëbalang* from a percentage rate to fixed amounts by Bt. 13 January [[1910]] N°. 1, removing the incentive for *oelèëbalang*'s to restrict trade by substituting a flat sum for the ad valorem percentage.
+
+By [[1909]], Swart had expanded volksonderwijs (public education) to **51 schools** serving **2,009 pupils** — up from 38 pupils in a single moekimschool under Van Daalen in [[1907]].
+
+Swart formally opposed the *voorschotten* (advance-payment) scheme introduced by Van Daalen, registering his objection in nota 10 August [[1908]] N°. 2704/22.
+
+The *wegenfonds* (road-maintenance fund) maintained by the *oelèëbalang*'s ceased on **1 September [[1908]]**, when its revenue function was transferred to the governmentfunds.
+
+The *boetenfonds* (fines fund), maintained separately, was absorbed into the *landschapskassen* (territorial treasury funds) on **1 January [[1912]]**.
+
 ## See Also
 
 - [[Gouvernement Atjeh en Onderhoorigheden]]
@@ -124,7 +140,7 @@ Swart's success in Aceh demonstrated that military capability alone was insuffic
 - [[1918]]
 - [[1934]]
 
-## Source
+## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), Bijlage I and pp. 33–36, 205.
 
@@ -135,3 +151,5 @@ Swart's success in Aceh demonstrated that military capability alone was insuffic
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on *overplaatsingswee*, the chapter on den zieleherder, and the chapter *Jagerslatijn*.
 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130.
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.

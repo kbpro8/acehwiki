@@ -58,6 +58,19 @@ Kreemer is significant for the encyclopedia of [[Acheh]] history on two grounds.
 
 The judgment, however, concerns specifically the *adatrecht* content of Kreemer’s *Atjeh* and does not diminish the work’s significance as a land‑and‑people description, which Ter Haar classifies, alongside Snouck Hurgronje’s *De Atjehers*, in the category of *streken* (regions) for which a full, whole‑stoff‑covering treatment of the adatrecht is available as part of a land‑and‑people description by a scholar not specifically trained in adatrecht. The full account of the Atjeh adatrecht, as drawn from Snouck Hurgronje and systematised by Ter Haar, is in [[Atjeh adatrecht (Ter Haar account)]].
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+Kreemer opens his *Atjèh* monograph (Deel II) with a preface (*Voorbericht*) in which he explains the genesis and method of his work. He identifies himself as **Archivaris van het Atjèh Instituut** (archivist of the Aceh Institute) and records that his fieldwork in Atjèh lasted from **18 February [[1916]]** to **23 October [[1917]]** — a period of twenty months.
+
+He describes his work as resting on three *bouwstoffen* (building-blocks):
+1. The existing literature — above all [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *De Atjehers* and the subsequent *Het Gajöland en zijne bewoners* — which he uses as a foundation
+2. Direct *inlandse inlichtingen* (indigenous information) gathered in conversation with Atjèhnese informants, above all his principal informant **[[Teungkoe Tjheh Ibrahim|Teungkoe Tjhèh Ibrahim]]**
+3. The *gewestelijk archief* (provincial archive) of the Gouvernement Atjèh en Onderhoorigheden
+
+Kreemer also acknowledges the "onschatbare" (invaluable) Gayo-Dutch dictionary of **[[G. A. J. Hazeu|G. A. J. Hazeu]]** as an essential resource for the sections on the Gayo highlands.
+
+His comparative method extends across three languages and peoples: **Atjèhnese**, **Gayo**, and **Alas** — treating the highlands and the coastal lowlands as a unified study-area. His spelling system follows Snouck Hurgronje's conventions with one simplification: the digraph *th* (used in Snouck for the Atjèhnese emphatic *t*) is simplified to *s* throughout Kreemer's work.
+
 ## See Also
 
 - [[Alasland]]
@@ -80,7 +93,7 @@ The judgment, however, concerns specifically the *adatrecht* content of Kreemer�
 - [[Nalam Mo’lôt]]
 - [[Aceh]]
 
-## Source
+## Sources
 
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer (’s‑Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), *Voorbericht* (pp. 5‑6) and passim.
 

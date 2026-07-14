@@ -92,9 +92,14 @@ Explore history by:
     }).join('');
   }
 
-  // Fetch contentIndex.json + sitemap.xml in parallel
+  // Reuse the global fetchData promise (already fetching contentIndex.json via <head> script)
+  // to avoid downloading the ~10 MB file twice on the homepage.
+  var indexPromise = (typeof fetchData !== 'undefined')
+    ? fetchData
+    : fetch(base + 'static/contentIndex.json').then(function (r) { return r.json(); });
+
   Promise.all([
-    fetch(base + 'static/contentIndex.json').then(function (r) { return r.json(); }),
+    indexPromise,
     fetch(base + 'sitemap.xml').then(function (r) { return r.text(); })
   ]).then(function (results) {
     var idx = results[0];

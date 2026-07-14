@@ -33,19 +33,37 @@ In a sixteenth-century Malay translation of the *Burda* of [[Al-Busiri]], Hamzah
 
 Hamzah Pansuri is the principal pantheistic mystic of [[Acheh]] and the founder of the school of [[Wujudiyyah]] mysticism against which Raniri directed his polemic. The Voorhoeve account of [[1955]] adds substantially to the picture drawn by Snouck Hurgronje in *The Achehnese* by documenting the textual basis of Hamzah's school: the *[[Asrar al-'arifin|Asrār al-ʿārifīn*]] and the *[[Kitab al-Muntahi|Kitāb al-Muntahī*]] are the principal surviving works of Hamzah, and the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] of Raniri preserves, in its polemical citations, the only extended fragments of these works. The play on *kuphō* and *kuphu* in the *Kitāb al-Muntahī* is a remarkable trace of the linguistic specificity of the *[[Bahasa Djawi]]* of the Achehnese court.
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] refers to Hamzah consistently as **Hamzah Fansoerï** (or Fanqoerï) "van Baros" ("of Baros"), identifying him as from Baros on the Westkust of Sumatra. He describes him as the "most famous heterodox mystic" (*meest bekende heterodoxe mysticus*) in Atjèh and calls his works among the "oldest Malay mystical literature" (*oudste Maleische mystische litteratuur*).
+
+Kreemer records that Hamzah was executed (*terechtgesteld*) by Sultan [[Iskandar Thani|Iskandar Thanï]] at the instigation of [[Nur al-Din al-Raniri|Noer-ad-dïn ar-Ranïrï]], and that his works were burned before the great mosque **Beit ar-rahman** — the later [[Meusigit Raja|Meusigit Raja]]. Kreemer groups Hamzah with [[Sjamsoeddin van Pasè|Sjamsoeddin van Pasè]] as the two principal heterodox teachers condemned by the orthodox reaction.
+
+Kreemer also records the tradition of ***èleumèë salé'*** ("the science of the wanderer" — the science of the wandering mystic) that descended from Hamzah's school, noting that as late as approximately [[1860]] a controversial *teungkoe* called **Teungkoe Teureuboeë** ("Teungkoe the Sinner") practised this doctrine in the area of Kota Radja, causing considerable consternation.
+
 ## See Also
-
-
 
 - [[Malay translation of the Burda]]
 - [[Burda (poem)]]
+- [[Sjamsoeddin van Pasè]]
+- [[Iskandar Thani]]
+- [[Nur al-Din al-Raniri]]
+- [[Sultan Iskandar Muda]]
+- [[Meusigit Raja]]
+- [[Wujudiyyah]]
+- [[1637]]
+- [[1860]]
+
 ## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
----
-The forerunner and spiritual predecessor of Shamsuddin of Sumatra, a highly celebrated heretical mystic who flourished before the early 17th century and championed a pantheistic mysticism later continued by Shamsuddin. Sultan Meukuta Alam's successor had his disciples put to death and his books burned, yet many manuscripts survived and his works are still read and admired. Abdurra'uf of Singkel is described in spiritual genealogies as being "of the tribe of Hamzah Pansuri," despite Abdurra'uf's own opposition to Hamzah's pantheism.
+
 *Twee Maleise geschriften van Nūruddīn ar-Rānīrī: in facsimile uitgegeven met aantekeningen door P. Voorhoeve*. Uitgaven van de Stichting De Goeje, No. 16. Leiden: E. J. Brill, 1955. Inleiding §2a ("Inhoudsoverzicht"), pp. 9–10; §2c ("De secten"), p. 16; apparatus criticus ad pp. 18, 71, 97–105 of the *Tibjān* facsimile.
+
 J. Doorenbos, edition of the *Asrār al-ʿārifīn* of Hamzah Pansuri.
+
 *The Achehnese*, Vol. I and Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pages 52–58 (footnotes crediting Hamzah Fansoeri with textual emendations).
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.

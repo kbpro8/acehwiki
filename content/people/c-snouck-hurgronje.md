@@ -85,6 +85,14 @@ Snouck Hurgronje's work established a new approach to colonial governance, combi
 
 [[B. ter Haar BzN|Ter Haar]]'s account draws on *De Atjehers* for the concrete Atjehnese adat-law institutions cited throughout the *Beginselen en Stelsel* as illustrations of general Indonesian legal types — the *[[Djinamée (Atjehnese marriage gift)|djinamée]]* (the Atjehnese marriage gift), the *[[Wang pemasoeqan (Atjeh)|wang pemasoeqan]]* (the Atjehnese *entree*), the *[[Sanbod-aanname (idjaab kaboel) in Atjeh|sanbod-aanname (idjaab kaboel)]]* (the Muslim-derived offer-and-acceptance formula in Atjehnese land-transactions), the *[[Peungklēh (Atjehnese trousseau)|peungklēh]]* (the Atjehnese trousseau), and the *maatschapjes tot het slachten van buffels in Atjeh* (the Atjehnese buffalo-slaughtering partnerships) — and the account places the *rechtskring Atjeh* first in the overview of the nineteen legal circles of the archipelago. The full treatment of the Atjeh *adatrecht*, as drawn from Snouck Hurgronje and as systematised by Ter Haar, is in [[Atjeh adatrecht (Ter Haar account)]].
 
+## Account from *Atjèh* by J. Kreemer (Deel II)
+
+[[J. Kreemer|Kreemer]] opens his *Atjèh* monograph (Deel II) with a detailed tribute to Snouck Hurgronje's foundational contribution. According to Kreemer, it was Snouck Hurgronje who — after his Atjèh fieldwork of [[1891]]–[[1892]] — first proposed the *korte Atjèhverklaring* (short Aceh declaration, the loyalty oath) to [[Joannes Benedictus van Heutsz|Van Heutsz]], who then implemented it as the cornerstone of his pacification policy after [[1898]].
+
+Kreemer notes that *Het Gajöland en zijne bewoners* — Snouck Hurgronje's 1903 monograph on the Gayo highlands — was written without Snouck ever having visited the Gayo region himself. His principal informant for this work was **[[Teungkoe Tjheh Ibrahim|Teungkoe Tjhèh Ibrahim]]**, the hatib of the Koeta Radja mosque who was also Kreemer's own principal informant when writing *Atjèh* some twenty years later.
+
+Kreemer also records the legend **"De blauwe Prinses in het Gajömeer"** (*Pëtëri Idjö* — "the Green/Blue Princess"), preserved in Het Gajöland, which he regards as one of the most charming products of Snouck Hurgronje's fieldwork with Atjèhnese informants.
+
 ## See Also
 
 - [[A. S. O'Sullivan]]
@@ -181,5 +189,7 @@ Snouck Hurgronje's work established a new approach to colonial governance, combi
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja, the chapter on bestuursambtenaren, and the chapter *Jagerslatijn*.
 
 *Beginselen en Stelsel van het Adatrecht*, door Mr. B. ter Haar Bzn. Vierde ongewijzigde druk. Groningen, Djakarta: J. B. Wolters, 1950. Pp. 245–246 (sources for the *rechtskring Atjeh*).
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
 
 *DLP-54: Een 16de eeuwse Maleise vertaling van de Burda van al-Būṣīrī* (OCR text 20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt), pp. 31–32.
