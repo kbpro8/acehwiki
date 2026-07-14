@@ -1,7 +1,7 @@
 ---
 title: General van der Heyden (K. van der Heijden)
-aliases: [K. van der Heijden, Van der Heyden, Van der Heijden, generaal Van der Heyden, kolonel Van der Heijden, the conqueror of Groot-Atjèh]
-tags: [person, dutch, military, colonial, 19th-century, atjeh-oorlog, general, governor, 1878, 1879]
+aliases: ["Van der Heyden", "Van der Heyden (Atjeh commander)"]
+tags: [person, dutch, military, colonial, 19th-century, atjeh-oorlog, general, governor, 1878, 1879, acheh]
 ---
 
 **General K. van der Heyden** (also written *Van der Heijden*) — in [[J. Kreemer|Kreemer]]'s history, the Dutch officer who, as *kolonel* (later *generaal-majoor* and *luitenant-generaal*), commanded the *Vierde tijdvak* (fourth period) of the [[Aceh War|Atjèh-oorlog]] ([[June 1878]]–[[September 1879]]), in which the whole of [[Great Acheh|Groot-Atjèh]] was subdued. He had been appointed *civiel en militair gouverneur van Atjèh en Onderhoorigheden* in January [[1878]], and his "krachtig doortasten" — forceful decisiveness — drove the enemy from his strong positions and broke all resistance in the [[XXII Mukims|XXII]] and [[XXVI Mukims|XXVI Moekim's]].
@@ -28,23 +28,56 @@ Kreemer records Van der Heyden's warning at his handover of power: he called the
 
 Van der Heyden's command is, in Kreemer's narrative, the high point of Dutch military success in the Atjèh war before the final [[Governor Van Heutsz|Van Heutsz]] offensive. His conquest of Groot-Atjèh, his replacement of Pel's post-line with his own strategic-point system, and his laying of the first stone of the new Koeta Radja mosque — all mark the moment at which the Dutch transitioned from conquest to administration. Kreemer's judgement, however, is that Van der Heyden's warning went unheeded by the civil government that succeeded him, and that the premature introduction of civil administration in [[6 April|6 April]] [[1881]] undid much of what his military conquests had achieved.
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**Van der Heyden** — a Dutch military commander in [[Acheh|Atjeh]] in the early 1890s — is the eponym of one of the successive "stelsels" — systems — of Atjehnese warfare tried by the [[Netherlands]] between [[1873]] and [[1904]]. His name is preserved in the parliamentary record principally through [[Abraham Kuyper|Kuyper]]'s sarcastic observation of [[1896]] that, by that year, the government had returned to "het reeds eenmaal beproefde stelsel van Van der Heyden" — the already-once-tried system of Van der Heyden — and that "een negende nieuw stelsel heeft men blijkbaar niet kunnen vinden" — a ninth new system apparently could not be found.
+
+### The Van der Heyden-Van Heutsz system
+
+The "stelsel" associated with the names of [[Van der Heyden|Van der Heyden]] and [[J. B. van Heutsz|Van Heutsz]] is described by [[W. H. Vermeulen|Vermeulen]] as follows: "het opjagen en achtervolgen van hen die zich niet bij onze heerschappij wilden neerleggen tot in de verst verwijderde schuilhoeken, waarbij het aantal versterkte posten gaandeweg over een groter gebied uitgebreid kon worden" — the rousing and pursuit of those who would not submit to our rule into the remotest hiding-places, with the number of fortified posts being gradually extended over a wider area.
+
+### The 1896 verdict of Kuyper
+
+In [[1896]] — the year of [[Toekoe Oemar's defection ([[1896]])|the defection of Toekoe Oemar]] — [[Abraham Kuyper|Kuyper]] (a.r.) surveyed the succession of systems that the Atjeh command had tried since [[1873]] and concluded that the government had, in effect, laid out a "volledige staalkaart van alle denkbare methoden om Atjeh te bestrijden" — a complete sample-card of every conceivable method of combating Atjeh — and that, "onbekwaam een keuze te doen, men zich had voorgenomen achtereenvolgens alle deze verschillende stelsels eens te beproeven" — incapable of making a choice, had resolved to try each of these different systems in turn. By [[1896]], in Kuyper's reading, the government had returned to the [[Van der Heyden|Van der Heyden]] system; an explicit naming of the *pacificatie* system as "Van der Heyden-Van Heutsz" is found in the *Schets*'s chapter I.
+
+### Significance
+
+[[Van der Heyden|Van der Heyden]]'s name survives in the Atjehnese-war record as the marker of the system that [[J. B. van Heutsz|Van Heutsz]] would later revive and perfect. The repetition of the system — its failure in the [[1884]]-[[1896]] period and its success after [[1896]] — is itself a commentary on the political and military preconditions of the [[Pacificatie van Atjeh|pacificatie]] that the [[Van der Heyden|Van der Heyden]]-[[J. B. van Heutsz|Van Heutsz]] formula could not, by itself, supply.
+
 ## See Also
 
-- [[Acheh]]
-- [[Great Acheh]]
-- [[XXII Mukims]]
-- [[XXVI Mukims]]
 - [[Kolonel Pel]]
-- [[Koeta Radja]]
-- [[Ulee Lheue]]
-- [[Aneu Galong]]
-- [[Indrapuri]]
-- [[J. W. van Lansberge]]
-- [[postenlinie]]
 - [[Aceh War]]
+- [[J. W. van Lansberge]]
+- [[Acheh]]
 - [[1878]]
+- [[Indrapuri]]
+- [[Aneu Galong]]
+- [[postenlinie]]
+- [[XXVI Mukims]]
+- [[Great Acheh]]
 - [[1879]]
+- [[Koeta Radja]]
+- [[XXII Mukims]]
+- [[Ulee Lheue]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Toekoe Oemar's defection (1896)]]
+- [[1904]]
+- [[J. B. van Heutsz]]
+- [[1896]]
+- [[Abraham Kuyper]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[1873]]
 
-## Source
+## Sources
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Vierde tijdvak, blz. 19–21.
+
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-270.
+
+F. W. Stapel, *Geschiedenis van Nederlandsch-Indië*, p. 309 (cited in the same source for a short survey of the *stelsels*).
