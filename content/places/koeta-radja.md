@@ -1,7 +1,7 @@
 ---
 title: Koeta-Radja
-aliases: ["Kuta Raja", "Koeta Radja", "Kutaraja", "Kutaraja (Banda Aceh)", "Banda Aceh", "Kota Radja", "Kotaradja", "Kota Raja", "capital of Atjeh", "Koetaradja", "Kutaradja", "Kota Radja (Atjeh)"]
-tags: ["place", "city", "capital", "aceh", "sumatra", "colonial", "colonial-capital", "government-seat", "achehnese-history", "hoofdplaats", "atjeh", "administrative-center", "town"]
+aliases: ["Kuta Raja", "Koeta Radja", "Kutaraja", "Kutaraja (Banda Aceh)", "Banda Aceh", "Kota Radja", "Kotaradja", "Kota Raja", "capital of Atjeh", "Koetaradja", "Kutaradja", "Kota Radja (Atjeh)", "Banda Acheh", "Bandah Acheh", "Bandar Aceh", "the Kutaradja of the Dutch concentration"]
+tags: [place, city, capital, aceh, sumatra, colonial, colonial-capital, government-seat, achehnese-history, hoofdplaats, atjeh, administrative-center, town, acheh, fortified, headquarters]
 description: "Kota Radja (also Kotaradja, Koeta-Radja; modern Banda Aceh) was the capital of the Dutch Gouvernement Atjeh en Onderhoorigheden and the principal city of Atjeh. By 1926 it served as the starting point for automobile travel across Sumatra to Padang, symbolising the transformation of transport infrastructure following the pacification."
 ---
 
@@ -108,65 +108,104 @@ Kota Radja is significant for the encyclopedia of [[Acheh]] history because it w
 
 
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**Koeta Radja** — also *Kutaradja*, *Kuta Raja*, modern [[Banda Aceh]] — was the principal Dutch military and administrative headquarters in [[Acheh|Atjeh]] throughout the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]] of [[1873]]-[[1904]] and the centre of the [[Concentratie-stelsel ([[1884]]-[[1896]])|concentratie-stelsel]] of [[1884]]-[[1896]]. The town, on the northern coast of [[Groot-Atjeh]], was the seat of the sultanate of [[Acheh]] and, after the Dutch conquest, the seat of the governor and military commander of [[Atjeh en Onderhorigheden]].
+
+### The concentratie-stelling
+
+From [[1884]] to [[1896]] the Dutch forces in Atjeh fell back upon a *concentratie-stelling* — concentrated position — centred on [[Koeta Radja|Koeta Radja]]. The position was, in the contemporary Dutch comparison, a "Noordoostpolder"-sized area: a small reclaimed-polder perimeter around the town, surrounded by the unconquered interior of [[Groot-Atjeh]]. [[A. W. F. Idenburg|Idenburg]] later defended the measure retrospectively: "In Atjeh is geduld geoefend in de tijd van de concentratie" — patience was exercised in Atjeh in the time of the concentration — but the result, he conceded, was that "het verzet zich des te sterker heeft kunnen organiseren" — the resistance had been able to organise itself all the stronger.
+
+### The post-1896 recovery
+
+After [[Toekoe Oemar's defection ([[1896]])|the defection of Toekoe Oemar]] in [[1896]] the *concentratie-stelling* was "niet meer geheel zeker" — no longer wholly secure. The post-[[1896]] campaigns of [[J. B. van Heutsz|Van Heutsz]] — the [[Van der Heyden]]-[[J. B. van Heutsz|Van Heutsz]] system of pursuit into the remotest hiding-places — recovered [[Groot-Atjeh]] outside the perimeter, but the resistance chiefs withdrew to [[Pedirse|Pedir]], and thence, in [[1904]], to the [[Gajoland|Gajoe-]] and [[Alasland|Alaslanden]]. [[Koeta Radja|Koeta Radja]] remained, throughout, the headquarters from which these subsequent campaigns were directed.
+
+### The Van Heutsz inspection tour
+
+The [[Van Heutsz's inspection tour of Atjeh (December 1907)|inspection tour]] that governor-general [[J. B. van Heutsz|Van Heutsz]] undertook in December [[1907]] — at the request of minister [[D. Fock|Fock]] — was a tour of the *pacificatie* administration centred on [[Koeta Radja|Koeta Radja]]. The [[Van Heutsz's report on Atjeh (June 1908)|June 1908 report]] that resulted installed the new course of the [[Pacificatie van Atjeh|pacificatie]]: administration through the *hoofden* (chiefs), bound to Dutch authority by "tactvolle omgang" — tactful intercourse.
+
+### Significance
+
+[[Koeta Radja|Koeta Radja]] is the geographical pivot of the Atjehnese war. The *concentratie-stelling* of [[1884]]-[[1896]] is the strategic fact that defines the middle period of the war; the post-[[1896]] recovery is the strategic fact that defines its conclusion. Both are anchored on [[Koeta Radja|Koeta Radja]].
+
 ## See Also
 
-- [[generaal Van Swieten]]
-- [[Padang]]
-- [[1933]]
-- [[Pacification of Atjeh]]
-- [[1873]]
-- [[1894]]
-- [[Peutjoet]]
-- [[Funeral of Dominee Thenu (11 May 1937)]]
-- [[Atjeh]]
-- [[Meusigit Raja]]
-- [[Noord-Sumatra (proposed gewest)]]
-- [[1904]]
 - [[A. Pruys van der Hoeven|Pruys van der Hoeven]]
-- [[Groot-Atjeh]]
-- [[Dominee Thenu]]
-- [[1937]]
-- [[S. de Graaff]]
-- [[1879]]
-- [[Aceh Railway]]
-- [[Atjeh-oorlog]]
-- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
-- [[1881]]
-- [[1874]]
-- [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[Buitengewesten]]
-- [[Pante Perak]]
-- [[1e Divisie Marechaussee uit Blang Kedjeren]]
-- [[Volkslectuur]]
+- [[Funeral of Dominee Thenu (11 May 1937)]]
 - [[Aceh War]]
-- [[C. Snouck Hurgronje|Snouck Hurgronje]]
-- [[Governor Van der Heyden]]
-- [[Hotel de Boer]]
-- [[Eerste Atjeh-expeditie (1873)]]
-- [[Johan Wøller]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
+- [[Peutjoet]]
+- [[1937]]
+- [[Volkslectuur]]
+- [[Meusigit Raja]]
+- [[1904]]
 - [[Onthoudingspolitiek]]
-- [[Sultan Iskandar Muda]]
-- [[Salawono]]
-- [[1926]]
-- [[Johan Willem van Lansberge|Van Lansberge]]
-- [[H. N. A. Swart|H. N. N. A. Swart]]
-- [[Nederlandsch Indië Platen Atlas (1926)]]
-- [[1914]]
-- [[Peutjot Cemetery]]
-- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Noord-Sumatra (proposed gewest)]]
 - [[Oeléë-Lhenë]]
-- [[Acheh]]
+- [[S. de Graaff]]
+- [[1e Divisie Marechaussee uit Blang Kedjeren]]
 - [[Atjeh en Onderhorigheden]]
-- [[Gle Mon Ampeuet]]
-- [[Kr. Geuenteuet]]
-- [[Iron ores in Atjeh]]
-- [[P. J. J. Jansen]]
+- [[Hotel de Boer]]
+- [[Pacification of Atjeh]]
 - [[Van Bemmelen's The Geology of Indonesia (1949)]]
+- [[1873]]
+- [[Johan Willem van Lansberge|Van Lansberge]]
+- [[Acheh]]
+- [[Atjeh]]
+- [[1926]]
+- [[Pante Perak]]
+- [[generaal Van Swieten]]
+- [[Aceh Railway]]
+- [[1933]]
+- [[Sultan Iskandar Muda]]
+- [[Governor Van der Heyden]]
+- [[1881]]
+- [[Padang]]
+- [[Gle Mon Ampeuet]]
+- [[P. J. J. Jansen]]
+- [[Nederlandsch Indië Platen Atlas (1926)]]
+- [[1874]]
+- [[1914]]
+- [[Dominee Thenu]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Iron ores in Atjeh]]
+- [[Salawono]]
 - [[1922]]
+- [[Kr. Geuenteuet]]
+- [[H. N. A. Swart|H. N. N. A. Swart]]
+- [[Peutjot Cemetery]]
+- [[Groot-Atjeh]]
+- [[Atjeh-oorlog]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
+- [[Eerste Atjeh-expeditie (1873)]]
+- [[1879]]
+- [[1894]]
+- [[Johan Wøller]]
+- [[Buitengewesten]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Toekoe Oemar's defection (1896)]]
+- [[Alasland]]
+- [[1896]]
+- [[Pedirse]]
+- [[Pacificatie van Atjeh]]
+- [[1908]]
+- [[1884]]
+- [[Gajoland]]
+- [[A. W. F. Idenburg]]
+- [[D. Fock]]
+- [[Van Heutsz's inspection tour of Atjeh (December 1907)]]
+- [[Toekoe Oemar]]
+- [[1907]]
+- [[J. B. van Heutsz]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[Van Heutsz's report on Atjeh (June 1908)]]
 
-
-## Source
-
+## Sources
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapter "Dominee Thenu."
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja and the chapter on den zieleherder.
@@ -177,3 +216,4 @@ Kota Radja is significant for the encyclopedia of [[Acheh]] history because it w
 
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), pp. 207–208 (Kr. Geuenteuet and Gle Mon Ampeuet localities, with distance-and-bearing references to Kota Radja).
 
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-274.
