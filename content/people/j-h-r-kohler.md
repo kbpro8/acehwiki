@@ -1,8 +1,8 @@
 ---
 
 title: J. H. R. Köhler
-aliases: [Generaal Köhler, Major-general Köhler, J.H.R. Köhler, Köhler, General Koehler]
-tags: [person, general, dutch, military, aceh-war]
+aliases: [Generaal Köhler, Major-general Köhler, J.H.R. Köhler, Köhler, General Koehler, General Köhler, Köhler (Atjeh 1873), Majoor Köhler, Kohler]
+tags: [person, general, dutch, military, aceh-war, colonial, infantry, achehnese, 19th-century, killed-in-action]
 ---
 
 **J. H. R. Köhler** was a Dutch major-general of the Indies army, commanding the [[First Aceh Expedition (1873)|first Aceh expedition]] of [[April 1873]] who was mortally wounded on [[14 April]] [[1873]] while inspecting the captured [[Missigit|missigit]] outside the [[Kraton of Aceh|kraton]] of [[Acheh|Atjeh]]. A self-made man who had risen from the lowest rank in the army, Köhler was entrusted with the supreme command of the expedition against [[Acheh]] after having served as military commandant of Sumatra's Westkust, and his death in the hour of apparent success precipitated the failure of the entire first campaign.
@@ -49,7 +49,20 @@ After the capture of the mosque, Köhler paused to rest under a *waringin* (bany
 
 Köhler's death demoralized the Dutch forces and prevented them from consolidating their gains. The expedition was forced to retreat, making the first campaign a humiliating failure. The victory boosted Acehnese morale and turned the conflict into a religious war.
 
+## Account from *Na 1795* (1924) — the schoolroom memory of Köhler's fall
+
+The [[Na 1795 (1924)|*Na 1795*]] school-history textbook of F. Roorda condenses the episode of the first expedition and Köhler's death in a single sentence of the canonical form that would shape Dutch schoolroom memory of the Atjeh war:
+
+> *"1873. Oorlogsverklaring aan Atjeh (wegens hun zéerooverijen en omdat de sultan vreemde hulp tegen de Hollanders wilde inroepen). De 1e expeditie mislukte, Köhler sneuvelde, maar de 2e expeditie onder Van Swieten bracht succes."*
+
+The causes adduced by the textbook — Atjehnese piracy (*zéerooverijen*) and the [[Sultan of Acheh|sultan]]'s negotiations to invoke foreign (i.e., Italian, Turkish, or American) assistance against the Dutch — are the standard Dutch framing of the *casus belli*. Köhler's death ("*Köhler sneuvelde*" — "Köhler fell") is the rhetorical hinge of the sentence: the failure of the first expedition is fixed in his fall, and the success of the second is implicitly the response to it. The schoolroom textbook does not specify the date of the engagement; the date of [[14 April]] [[1873]] is fixed in the staff-history account of [[J. A. de Bruyne|de Bruyne]] (1912) and the [[Dr. W. A. Terwogt|Terwogt]] account of [[1891]].
+
+## Significance
+
+Köhler's significance for the encyclopedia of [[Acheh|Achehnese]] history lies in the fact that his death is the founding event of the [[Aceh War|Atjeh-oorlog]] as a Dutch national and military memory. The failure of the [[First Aceh Expedition (1873)|first expedition]] — fixed in the death of its commander — set the political and military conditions for the [[Second Aceh Expedition (1873-1874)|second expedition]] of November [[1873]], the [[Capture of the Kraton (24 January 1874)|capture of the Kraton]] of [[24 January]] [[1874]], and the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[31 January|31 January]] [[1874]]. His name, in the canonical form "*Köhler sneuvelde*," became — together with the [[Kraton of Aceh|Kraton]] and [[Van Heutsz|Van Heutsz]] — one of the three mnemonic pegs of the Dutch schoolroom memory of the Atjeh war.
+
 ## See Also
+
 - [[First Aceh Expedition (1873)]]
 - [[Battle of the Missigit (10 April 1873)]]
 - [[Jan van Swieten|J. van Swieten]]
@@ -67,6 +80,19 @@ Köhler's death demoralized the Dutch forces and prevented them from consolidati
 - [[Het Land van Jan Pieterszoon Coen (Terwogt)]]
 - [[Dr. W. A. Terwogt]]
 - [[Terwogt's account of the Atjeh-oorlog (1891)]]
+- [[Capture of the Kraton (24 January 1874)]]
+- [[Na 1795 (1924)]]
+- [[Second Aceh Expedition (1873-1874)]]
+- [[Sultan of Acheh]]
+- [[Sultanate of Acheh]]
+- [[Van Swieten's Proclamation of 31 January 1874]]
+- [[Koninklijk Nederlandsch-Indisch Leger]]
+- [[1873]]
+- [[1874]]
+- [[10 April]]
+- [[14 April]]
+- [[24 January]]
+- [[31 January]]
 
 ## Sources
 
@@ -75,4 +101,5 @@ Köhler's death demoralized the Dutch forces and prevented them from consolidati
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
 
 *Het Land van Jan Pieterszoon Coen*, door Dr. W. A. Terwogt (Hoorn: P. Geerts, [1891]). Hoofdstuk XIII: "Denzelfden dag nog sneuvelde helaas bij eene voortgezette verkenning, de Generaal-Majoor Köhler. Kolonel van Daalen verving hem" — the death of Generaal-Majoor Köhler on 14 April 1873 during a continued reconnaissance, and his replacement by Kolonel Van Daalen.
----
+
+*Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.

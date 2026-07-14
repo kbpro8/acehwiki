@@ -1,12 +1,13 @@
 ---
 title: Jan van Swieten
-aliases: ["Van Swieten", "J. van Swieten", "Jan van Swieten", "General Van Swieten", "Generaal Van Swieten", "Lieutenant-general Van Swieten", "Lieutenant-colonel Van Swieten", "Van Swieten", "General", "Conqueror of the Acehnese Van Swieten", "war-hero Van Swieten"]
-
-tags: [person, general, dutch, military, colonial, knil, aceh-war, bali-expedition, 19th-century]
+aliases: ["Van Swieten", "J. van Swieten", "Jan van Swieten", "General Van Swieten", "Generaal Van Swieten", "Lieutenant-general Van Swieten", "Lieutenant-colonel Van Swieten", "General", "Conqueror of the Acehnese Van Swieten", "war-hero Van Swieten", "Van Swieten (Atjeh)", "Jan van Swieten commander Second Aceh Expedition"]
+tags: [person, general, dutch, military, colonial, knil, aceh-war, bali-expedition, 19th-century, infantry, achehnese]
 description: "Dutch lieutenant-general (1807–1888) who commanded the Second Aceh Expedition of 1873–1874, presided over the capture of the Kraton and the proclamation of annexation of Groot-Atjeh, and earlier in his career negotiated the Treaty of 30 March 1857 with the Sultan of Aceh and took command of the third Bali expedition of 1849."
 ---
 
 **Jan van Swieten** ([[1807]]–[[1888]]) — known in Dutch as *Generaal Van Swieten* and styled by his contemporaries the "conqueror of the Acehnese" and the "grey war-hero" — was a Dutch lieutenant-general of the [[Royal Netherlands East Indies Army|Indies army]] who, after a long career that took him from the [[1849]] [[Bali Expedition|third Bali expedition]] through the governorship of [[Sumatra's Westkust|Sumatra's Westkust]] and the negotiation of the [[Treaty of 30 March 1857 with the Sultan of Aceh|Treaty of 30 March 1857 with the Sultan of Atjeh]], was restored to active service in [[1873]] to command the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] of November [[1873]]–January [[1874]]. He presided over the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[1874]] and issued the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] on [[31 January]] [[1874]], before returning to the Netherlands in April of that year. He is the principal Dutch commander of the triumph phase of the [[Aceh War|Atjeh-oorlog]] in the colonial school readers and the staff histories, and the figure through whom Merac's *[[Oost-Indisch Journael]]* ([[1947]]) narrates the colonial state's religious politics in [[Atjeh|Aceh]].
+
+The [[Na 1795 (1924)|*Na 1795*]] school-history textbook of F. Roorda records Van Swieten's role in the campaign in its canonical compressed form: "*De 1e expeditie mislukte, Köhler sneuvelde, maar de 2e expeditie onder Van Swieten bracht succes. De Kraton (paleis) van den sultan werd ingenomen, Kota Radja werd de zetel van ons gezag.*" ("The 1st expedition failed, Köhler fell, but the 2nd expedition under Van Swieten brought success. The Kraton (palace) of the sultan was taken, Kota Radja became the seat of our authority.") The second expedition's success, in the schoolroom memory, is wholly identified with Van Swieten's name. His departure from Atjeh in [[April]] [[1874]] left the war to a succession of commanding generals — [[J. L. J. H. Pel|Pel]], [[G. B. T. Wiggers van Kerchem|Wiggers van Kerchem]], [[A. J. E. Diemont|Diemont]], and [[K. van der Heyden|Van der Heyden]] — under whose commands the war of conquest became the war of occupation.
 
 ## Early Career and the Third Bali Expedition (1849)
 
@@ -32,11 +33,13 @@ Van Swieten first attempted negotiation, sending two letters to the sultan offer
 
 The operational sequence then proceeded rapidly. On [[6 January]] [[1874]] the [[Missigit|missigit]] of the Kraton — the great mosque — was taken. On [[12 January]] [[12 January|12 January]] the [[Taman|Taman]] or [[Kota Goenoengan|Kota Goenoengan]], the sultan's fortified pleasure-garden south-west of the Kraton, was stormed and carried on the advice of [[Toekoe Nek Radja Moeda Setia|Toekoe Nek]]. On [[24 January]] [[24 January|24 January]] a reconnaissance discovered that the Kraton had been evacuated; the Dutch flag was hoisted to the strains of the *Wilhelmus*. The school reader records the moment: "on 24 January our soldiers advanced, in order to enclose the kraton completely. It surprised us greatly that the enemy, who had still been firing heavily the previous day, now let nothing be heard of itself. A detachment of our troops was sent to reconnoitre the kraton more closely. It pushed through the brushwood, climbed a high earthen wall, and entered the kraton. Soon Van Swieten himself followed with more troops. A loud hurrah and the striking up of *Wien Neerlandsch bloed* by the band made known that the kraton was in our possession." Van Swieten's *Wien Neerlandsch bloed* — the playing of the Dutch national anthem by the military band on the capture of the kraton — became the school reader's principal instance of the ceremonial triumph of the second Aceh expedition.
 
+The Kraton — the palace-fortress of the [[Sultan of Acheh|sultan]] — had been the strategic objective of the first expedition; its capture in the second was the proximate Dutch victory of the war. The sultan, however, had fled before the assault, and the capture of the palace did not entail the surrender of the country.
+
 Two days later, on [[26 January]] [[26 January|26 January]] [[1874]], the sultan died of cholera at Pagger Ajer.
 
 ## The Proclamation of 31 January 1874
 
-On [[31 January]] [[31 January|31 January]] Van Swieten issued his [[Van Swieten's Proclamation of 31 January 1874|proclamation]]: "the people of Great Atjeh, after a brave defence and a stubborn struggle, has had to yield to the Dutch arms; the people conquered, the Kraton taken, the sultan dead, many chiefs fallen in the struggle; the land therefore, by right of conquest, belongs to the Netherlands-Indian government." The chiefs of the three [[Sagi|sagis]] and of the [[Onderhoorigheden|Onderhoorigheden]] were invited to make written submission; those who did so would have the [[Blockade of Atjeh coast|blockade]] raised and trade, except in weapons of war, restored, on condition of flying the Dutch flag and providing their ships with proper passes. Van Swieten declared [[Aceh|Aceh]] directly governed territory and established [[Kutaradja|Kutaradja]] (also written [[Kota Radja|Kota Radja]]) as the administrative capital.
+On [[31 January]] [[31 January|31 January]] Van Swieten issued his [[Van Swieten's Proclamation of 31 January 1874|proclamation]]: "the people of Great Atjeh, after a brave defence and a stubborn struggle, has had to yield to the Dutch arms; the people conquered, the Kraton taken, the sultan dead, many chiefs fallen in the struggle; the land therefore, by right of conquest, belongs to the Netherlands-Indian government." The chiefs of the three [[Sagi|sagis]] and of the [[Onderhoorigheden|Onderhoorigheden]] were invited to make written submission; those who did so would have the [[Blockade of Atjeh coast|blockade]] raised and trade, except in weapons of war, restored, on condition of flying the Dutch flag and providing their ships with proper passes. Van Swieten declared [[Aceh|Aceh]] directly governed territory and established [[Kutaradja|Kutaradja]] (also written [[Kota Radja|Kota Radja]]) as the administrative capital. The proclamation is the formal founding document of the colonial administration of Atjeh — the legal basis on which all subsequent Dutch governance of the territory rested.
 
 ## The Rebuilding of the Meusigit Raja
 
@@ -52,9 +55,21 @@ On [[25 April|25]] and [[26 April]] [[26 April|26 April]] [[1874]] the troops wh
 
 Van Swieten also admitted — both in his note and in his official correspondence — his limited knowledge of the internal political situation of [[Aceh|Aceh]], noting that there was no central authority and that the sultan was merely a "figurehead". His seizure of the kraton was one of several simultaneous operations in the [[1874]] campaign, but it did not lead to lasting control because the Acehnese continued guerrilla resistance.
 
+## Departure (April 1874) and the succession
+
+Van Swieten departed Atjeh in [[April]] [[1874]]. His departure left the command to General [[J. L. J. H. Pel|Pel]], who served until his death on [[24 February]] [[1876]], and thereafter to the succession of commanding generals — [[G. B. T. Wiggers van Kerchem|Wiggers van Kerchem]], [[A. J. E. Diemont|Diemont]], and [[K. van der Heyden|Van der Heyden]] — under whom the conquest of [[Groot-Atjeh|Groot-Atjeh]] was prosecuted through the late [[1870s]].
+
+## Account from *Na 1795* (1924) — the schoolroom memory
+
+The [[Na 1795 (1924)|*Na 1795*]] school-history textbook of F. Roorda fixes Van Swieten's name in the canonical Dutch schoolroom memory of the Atjeh-oorlog. The two clauses on the expeditions' outcome — "*De Kraton (paleis) van den sultan werd ingenomen*" ("The Kraton (palace) of the sultan was taken") and "*Kota Radja werd de zetel van ons gezag*" ("Kota Radja became the seat of our authority") — fix the two consequences of the [[Capture of the Kraton (24 January 1874)|capture of the Kraton]] of [[24 January]] [[1874]]: the strategic objective achieved, and the colonial capital founded. Van Swieten's name, together with [[J. H. R. Köhler|Köhler]] and [[Joannes Benedictus van Heutsz|Van Heutsz]], is one of the three mnemonic pegs of the Dutch schoolroom memory of the Atjeh war.
+
 ## Legacy
 
 Van Swieten's expedition marked the first successful Dutch occupation of Aceh's capital, but it failed to end the war. His decision to leave a garrison without adequate pacification measures laid the groundwork for the prolonged guerrilla warfare that followed — the [[Aceh War|Atjeh-oorlog]] would drag on for another three decades, finally ending only under [[Joannes Benedictus van Heutsz|Van Heutsz]]'s governorship in [[1903]]–[[1904]]. In the colonial school readers — above all the [[De Kleine Oosterling|*De Kleine Oosterling* school reader]] of [[1901]] — Van Swieten is the moral counterpart to [[General Kaler|Kaler]]: the capable commander whose success closes the adversity–triumph arc of the school reader's Aceh War. In Merac's *[[Oost-Indisch Journael]]* he is the figure through whom the colonial state's failure to understand Acehnese religious politics is narrated: the conqueror who tried, and failed, to make the Acehnese population forget the suffering of the war.
+
+## Significance
+
+Van Swieten's significance for the encyclopedia of [[Acheh|Achehnese]] history lies principally in two acts. First, his capture of the [[Kraton of Aceh|Kraton]] on [[24 January]] [[24 January]] [[1874]] is the principal Dutch military success of the [[Aceh War|Atjeh-oorlog]]'s opening phase — the act that transformed the war from a punitive expedition into a conquest. Second, his [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[31 January]] [[31 January]] [[1874]] is the formal founding document of the colonial administration of Atjeh, the legal basis on which all subsequent Dutch governance of the territory rested. His name, together with [[Köhler|Köhler]] and [[Van Heutsz|Van Heutsz]], is one of the three mnemonic pegs of the Dutch schoolroom memory of the Atjeh war.
 
 ## See Also
 
@@ -76,11 +91,16 @@ Van Swieten's expedition marked the first successful Dutch occupation of Aceh's 
 - [[Mas Soemo Widikdjo]]
 - [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[A. J. E. Diemont]]
+- [[G. B. T. Wiggers van Kerchem]]
+- [[K. van der Heyden]]
 - [[Aceh War]]
 - [[Groot-Atjeh]]
 - [[Geconcentreerde Linie]]
 - [[Kutaradja]]
 - [[Kota Radja]]
+- [[Koeta Radja]]
+- [[Kraton of Aceh]]
 - [[Kloenkoeng]]
 - [[Kasoemba]]
 - [[Padang Cove]]
@@ -89,14 +109,20 @@ Van Swieten's expedition marked the first successful Dutch occupation of Aceh's 
 - [[Blockade of Atjeh coast]]
 - [[De Kleine Oosterling]]
 - [[Oost-Indisch Journael]]
+- [[Na 1795 (1924)]]
+- [[Royal Netherlands East Indies Army]]
+- [[Koninklijk Nederlandsch-Indisch Leger]]
 - [[1807]]
 - [[1849]]
 - [[1857]]
 - [[1873]]
 - [[1874]]
+- [[1876]]
 - [[1888]]
+- [[24 January]]
+- [[31 January]]
 
-## Source
+## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 19–37.
 
@@ -107,3 +133,5 @@ Van Swieten's expedition marked the first successful Dutch occupation of Aceh's 
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
 
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, OCR transcription (DLP-55), pp. 108, 128–129, 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
+
+*Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.

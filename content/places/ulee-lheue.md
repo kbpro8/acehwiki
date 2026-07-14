@@ -1,7 +1,7 @@
 ---
 title: Ulee Lheue
-aliases: [Olehleh, Ulee Iheue, Uleë Iheue, Oleh Leue, Ulee Lheue, Olehheh, Uleelheue, Uleë Lheuë, Oelèë Lheuë, Ule Lheue, Oleelheue, Oeleë Lheue, Oelee-Lheuë, Oelee Lheue, Oelèe Lheue, Oelèe Lheuë, reede van Oelèe Lheuë, the roadstead of Oelèe Lheuë, Oelé Lheué, Oleh lehe, Ole Lheu]
-tags: [place, aceh-proper, coastal-place, kanduri-laut, sea-kanduri, monsoon, keunong, xxvi-mukims, gampong, coastal, capital, village, coast, port, achehnese, harbour, roadstead, colonial, dutch, buitenbezittingen]
+aliases: [Olehleh, Ulee Iheue, Uleë Iheue, Oleh Leue, Ulee Lheue, Olehheh, Uleelheue, Uleë Lheuë, Oelèë Lheuë, Ule Lheue, Oleelheue, Oeleë Lheue, Oelee-Lheuë, Oelee Lheue, Oelèe Lheue, Oelèe Lheuë, reede van Oelèe Lheuë, the roadstead of Oelèe Lheuë, Oelé Lheué, Oleh lehe, Ole Lheu, Oelele, Olehleh haven, havenplaats Olehleh, Olehleh chapel, Oelèe Lheuë haven, Atjeh havenplaats]
+tags: [place, aceh-proper, coastal-place, kanduri-laut, sea-kanduri, monsoon, keunong, xxvi-mukims, gampong, coastal, capital, village, coast, port, achehnese, harbour, roadstead, colonial, dutch, buitenbezittingen, haven, atjeh, groot-atjeh, catholic, chapel, 19th-century, afdeeling]
 ---
 
 A port near the capital of [[Acheh]], the most important harbour. Teuku Nya' Muhamat (the loyal '[[Raja Muda]]' chief) used his efforts to advance the prosperity of the capital and of Ulee Lheue (Olehleh). The death of [[Teuku Asan]] occurred at Ulee Lheue under peculiar circumstances. The soldiers occupying the mosque of Ulee Lheue actually fired the fatal shot, though most Achehnese attributed it to Teuku Ne's followers. [[Teuku Uma]]'s dramatic submission to the Gompeuni included a journey to Ulee Lheue and [[Kutaraja]]. Near Ulee Lheue (the keude or bazaar) is the tomb of [[Tuan di Bunot]] (named because it lies beneath a huge bunot-tree). The tomb of Teungku [[Lam Gut|Lam Guha]] ('saint of the cave'), a Javanese from [[Demak]], lies behind the mosque at Ulee Lheue and is now visited by many pilgrims. Also [[Teungku Pante Cheureumen]]'s tomb lies near Kuala Doe on the shore of Ulee Lheue.
@@ -79,6 +79,27 @@ Verbraak's article described the construction and dedication of the chapel, like
 
 Oeleë-Lheue was part of a network of missionary stations and military posts that dotted the Acehnese coastline. The chapel's existence illustrates the close relationship between the Dutch military and the Catholic Church during the colonial period.
 
+
+## Account from *Vierhonderd jaren missie* (1934) — the Olehleh chapel of 1896
+
+**Olehleh** (Atjehnese *Oelèe Lheuë*) — the same havenplaats documented above under the spelling *Oelèë Lheuë* — was the colonial havenplaats (harbour-place) of [[Koeta Radja|Koeta Radja]], the port settlement at the mouth of the [[Aceh River|Aceh River]] that served as the maritime gateway of the [[Groot-Atjeh|Groot-Atjeh]] capital, and the site of the *hulpkapel* (chapel-of-ease) built in [[1896]] by [[Pastoor H. C. Verbraak|Pastoor H. C. Verbraak]] for the Catholic soldiers and harbour personnel of the port. The chapel extended the ministry of the [[Koeta Radja|Koeta Radja]] station to the haven, and was served by Verbraak himself, who — after first performing his religious duties at [[Koeta Radja|Koeta Radja]] — celebrated Mass and preached at [[Olehleh|Olehleh]] every Sunday.
+
+### The haven of Koeta Radja
+
+Olehleh was the harbour-settlement of [[Koeta Radja|Koeta Radja]], the colonial capital of [[Acheh|Atjeh]]. The haven was the operational terminus of the [[Atjeh-tram|Atjeh-tramway]] — the original line of [[1875]] ran from [[Oelèe Lheuë]] to [[Koeta Radja]] — and the disembarkation-point of the troops and supplies of the [[Aceh War|Atjeh-oorlog]]. Its identification in the [[Vierhonderd jaren missie in Nederlandsch Indië (1934)|mission jubilee volume]] as the "*havenplaats Olehleh*" fixes it, in the Catholic documentary record, as a settlement distinct from Koeta Radja proper, with its own military and harbour population.
+
+### The chapel of 1896
+
+The [[Vierhonderd jaren missie in Nederlandsch Indië (1934)|mission jubilee volume]] records the building of the chapel-of-ease at [[Olehleh|Olehleh]] in [[1896]], in the chapter on the Jesuit period of the mission:
+
+> *"In 1896 werd te Olehleh een hulpkapel gebouwd, waar Pastoor Verbraak, na eerst z'n heilig dienstwerk te Kota-Radja te hebben verricht, elken Zondag de H. Mis opdroeg en preekte."*
+
+The chapel was thus built in the same year as the [[Van Heutsz|Van Heutsz]] command's preparations for the renewed offensive against the interior — a coincidence that suggests the chapel was a response to the growing Catholic military and harbour population at the port. The chapel was a *hulpkapel* — a chapel-of-ease dependent on the mother-church of [[Koeta Radja|Koeta Radja]] — and was therefore not a separate parish but an extension of the Koeta Radja ministry to the haven. The chapel complemented the earlier St. Aloysius chapel at Oeleë-Lheue described by [[H. C. Verbraak S.J.|H. C. Verbraak S.J.]] in his *St. Claverbond* article of [[1907]].
+
+### Significance of the Olehleh account
+
+Olehleh's significance for the encyclopedia of [[Acheh|Achehnese]] history, in the Catholic mission record, lies principally in two particulars. First, as the haven of [[Koeta Radja|Koeta Radja]], it was the maritime terminus of the colonial administration of [[Groot-Atjeh|Groot-Atjeh]] — the port of disembarkation of the troops of the [[Aceh War|Atjeh-oorlog]], the western terminus of the [[Atjeh-tram|Atjeh-tramway]] network, and the operational base of the colonial shipping that linked Atjeh to [[Penang|Penang]], [[Sabang|Sabang]], and the wider archipelago. Second, as the site of the [[1896|1896]] chapel-of-ease, it was the second documented site of the Catholic institutional presence in Atjeh — the extension of the [[Koeta Radja|Koeta Radja]] mission to the haven population.
+
 ## See Also
 - [[Acheh]]
 - [[Demak]]
@@ -137,6 +158,11 @@ Oeleë-Lheue was part of a network of missionary stations and military posts tha
 - [[Kutaradja]]
 - [[St. Claverbond]]
 
+- [[Aceh River]]
+- [[Catholic Mission of Koeta Radja-Atjeh]]
+- [[Pastoor H. C. Verbraak]]
+- [[Vierhonderd jaren missie in Nederlandsch Indië (1934)]]
+- [[1896]]
 ## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -146,3 +172,5 @@ Oeleë-Lheue was part of a network of missionary stations and military posts tha
 *Register op de eerste 50 jaargangen van het missietijdschrift der P.P. Jezuieten "St. Claverbond", 1889 tot en met 1938*, samengesteld door Herman Hagdorn S.J. en Jacques Dinjens (Nijmegen: Stichting St. Claverbond, 1939).
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 68 (section "De Atjeh-tram"), p. 83 (section "Midden-Sumatra-spoorweg").
+
+*Vierhonderd jaren missie in Nederlandsch-Indië, 1593–1934* (Batavia: Algemeen Comité van Voorbereiding tot de Feestelijke Herdenking van 400 jaar Missie in Ned.-Indië, [1934]), p. 52 (chapter VI, on the Jesuit period).

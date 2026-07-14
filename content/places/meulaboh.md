@@ -1,7 +1,7 @@
 ---
 title: Meulaboh
-aliases: ["Meulaböh", "Meulabo'h", "Meulabôh", "Malabo", "Meulaboh", "Meulaba", "Malaboh", "Meulabuh", "Meulaboh (West coast of Atjeh)", "Maulaboh"]
-tags: ["place", "north-east-coast", "west-coast", "region", "pepper", "uleebalangship", "hoofdplaats", "westkust", "achehnese", "japanese", "town", "atjeh", "sumatra"]
+aliases: ["Meulaböh", "Meulabo'h", "Meulabôh", "Malabo", "Meulaboh", "Meulaba", "Malaboh", "Meulabuh", "Meulaboh (West coast of Atjeh)", "Maulaboh", "Melaboeh", "Melaboeh (Atjeh Westkust)", "Melaboeng", "Melaboh", "place of death of Toekoe Oemar"]
+tags: ["place", "north-east-coast", "west-coast", "region", "pepper", "uleebalangship", "hoofdplaats", "westkust", "achehnese", "japanese", "town", "atjeh", "sumatra", "colonial", "dutch", "westkust-van-atjeh", "19th-century", "aceh-war", "battlefield"]
 ---
 
 ## Expanded account from *The Achehnese*, Vol. I — Meulaboh
@@ -98,6 +98,19 @@ Meulaboh is significant for the encyclopedia of [[Acheh]] history because it is 
 
 
 
+
+## Account from *Na 1795* (1924) — the fall of Toekoe Oemar at Melaboeh
+
+**Melaboeh** (modern Atjehnese *Meulaboh*) was a place on the [[Westkust van Atjeh|Westkust of Atjeh]] — the western coast of the [[Atjeh en Onderhoorigheden|Atjehnese territory]] — that is documented in the [[Na 1795 (1924)|*Na 1795*]] school-history textbook as the place where [[Toekoe Oemar|Toekoe Oemar]] "*sneuvelde*" (fell in action) in the closing phase of his career as the principal Atjehnese resistance leader of the late [[Aceh War|Atjeh-oorlog]]. The single documentary fact of Toekoe Oemar's death at Melaboeh fixes the place in the Dutch schoolroom memory of the war as the field of the most consequential single engagement of the late resistance.
+
+### The fall of Toekoe Oemar at Melaboeh
+
+The [[Na 1795 (1924)|*Na 1795*]] school-history textbook of F. Roorda records the death of [[Toekoe Oemar|Toekoe Oemar]] at Melaboeh in a single clause, in the paragraph that fixes the late phase of the [[Aceh War|Atjeh-oorlog]]:
+
+> *"1893-'96. Toekoe-Oemar werd onze bondgenoot. Hij bleek echter onbetrouwbaar, want in 1896 sloot hij zich weer bij zijn landgenooten aan. Generaal Vetter werd daarna met onbeperkte volmacht naar Atjeh gezonden. Hij behaalde groote voordeelen; doch pas aan van Heutz gelukte het, Groot Atjeh te onderwerpen. Toekoe Oemar sneuvelde bij Melaboeh."*
+
+The textbook does not specify the date of the engagement, the immediate tactical circumstances of Toekoe Oemar's death, or the Dutch force involved. The phrase "*sneuvelde bij Melaboeh*" ("fell at Melaboeh") is the only documentary detail preserved in the schoolroom memory: the place-name Melaboeh, paired with the verb *sneuvelen* (to fall in battle), is the rhetorical fix of the event. The fall of Toekoe Oemar at Melaboeh is, in the Dutch schoolroom memory, the symbolic close of the late Atjehnese resistance and the immediate prelude to the definitive subjugation of [[Groot-Atjeh|Groot-Atjeh]] by [[J. B. van Heutsz|Van Heutsz]]. The place-name Melaboeh — paired in the schoolroom memory with the verb *sneuvelen* — is thus the rhetorical fix of the death of the principal Atjehnese leader of the late war.
+
 ## See Also
 
 - [[1760]]
@@ -143,6 +156,15 @@ Meulaboh is significant for the encyclopedia of [[Acheh]] history because it is 
 - [[1941]]
 
 
+- [[Aceh War]]
+- [[Atjeh en Onderhoorigheden]]
+- [[General Vetter]]
+- [[Groot-Atjeh]]
+- [[J. B. van Heutsz]]
+- [[Na 1795 (1924)]]
+- [[Toekoe Oemar]]
+- [[Westkust van Atjeh]]
+- [[1896]]
 ## Source
 
 
@@ -154,3 +176,4 @@ Meulaboh is significant for the encyclopedia of [[Acheh]] history because it is 
 
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), pp. 121–122 (Basin of Meulaboh), pp. 207–209 (iron-ore localities NW and SE of Meulaboh), p. 223 (West coast of Atjeh mercury).
 
+*Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.

@@ -1,11 +1,11 @@
 ---
 title: H. N. A. Swart
-aliases: ["H. N. A. Swart", "H. N. N. A. Swart", "Hendrik Nikolaas Albert Swart", "Swart", "Mr. Swart", "Major Swart", "Kolonel Swart", "Generaal Swart", "General Swart", "Governor Swart", "Gouverneur Swart", "Lieutenant-General Swart", "Toean Gouverneur Swart", "Aceh-connoisseur Swart", "successor of Van Daalen", "Colonel Swart", "overste Swart", "Swart (Raad van Indië nominee for Atjeh)"]
-tags: [person, general, dutch, colonial, military, governor, aceh, aceh-war, knil, bestuursreorganisatie, 20th-century, acheh]
+aliases: ["H. N. A. Swart", "H. N. N. A. Swart", "Hendrik Nikolaas Albert Swart", "Swart", "Mr. Swart", "Major Swart", "Kolonel Swart", "Generaal Swart", "General Swart", "Governor Swart", "Gouverneur Swart", "Lieutenant-General Swart", "Toean Gouverneur Swart", "Aceh-connoisseur Swart", "successor of Van Daalen", "H.N.A. Swart", "Swart the Pacificator", "Pacificator of Atjeh", "Pacificator van Atjeh"]
+tags: [person, general, dutch, colonial, military, governor, aceh, aceh-war, knil, bestuursreorganisatie, 20th-century, achehnese, 19th-century]
 description: "Dutch lieutenant-general of infantry (active 1890s–1918) who, as Civil and Military Governor of Atjeh en Onderhoorigheden from 1908 to 1918, restored conciliatory governance after the Van Daalen years, presided over the 1913–1914 Sumatra administrative reform, and finally handed a peaceful Aceh over to a civilian governor in 1918 — closing the forty-five-year Aceh War."
 ---
 
-**H. N. A. Swart** — *Hendrik Nikolaas Albert Swart* — known in the Acehnese idiom of the old hunter [[Datoek]] as *Toean Gouverneur Swart* — was a Dutch **lieutenant-general of the infantry** (*Luitenant-Generaal der Infanterie*) of the [[Royal Netherlands East Indies Army|K.N.I.L.]] and colonial administrator who, as **Civil and Military Governor of [[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]]** from [[1908]] to [[1918]], restored conciliatory governance after the harsh policies of his predecessor [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] had provoked the [[Atjéh-enquête|1907–1908 inquiry]] and a fierce flare-up of armed resistance, and who finally handed a peaceful Aceh over to a civilian Governor in [[1918]] — thereby ending what G. W. T. Dames calls "de slepende ziekte: de [[Atjeh-oorlog|Atjeh-oorlog]]" ("the lingering disease: the Aceh War"). He was the final military governor of [[Atjeh|Aceh]], the *Aceh-connoisseur* whose ten-year administration — "order and peace were consolidated in that province" — was the phase that "brought the [[Aceh War]] to an end," and who throughout his career "altijd en overal het meest voelde voor breken van het verzet zonder bloedvergieten" — "always and everywhere most preferred to break resistance without bloodshed". [[J. Kreemer|J. Kreemer]]'s *Atjèh* ([[1923]]) catalogues the administrative reforms of his governorship — the restoration of the *Hasil-reglement*, the reform of *wasé oelèëbalang*, the removal of *bestuursbemoeienis* from private-law pepper contracts, and the rapid expansion of *volksonderwijs* — in detail.
+**H. N. A. Swart** — *Hendrik Nikolaas Albert Swart* — known in the Acehnese idiom of the old hunter [[Datoek]] as *Toean Gouverneur Swart* — was a Dutch **lieutenant-general of the infantry** (*Luitenant-Generaal der Infanterie*) of the [[Royal Netherlands East Indies Army|K.N.I.L.]] and colonial administrator who, as **Civil and Military Governor of [[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]]** from [[1908]] to [[1918]], restored conciliatory governance after the harsh policies of his predecessor [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] had provoked the [[Atjéh-enquête|1907–1908 inquiry]] and a fierce flare-up of armed resistance, and who finally handed a peaceful Aceh over to a civilian Governor in [[1918]] — thereby ending what G. W. T. Dames calls "de slepende ziekte: de [[Atjeh-oorlog|Atjeh-oorlog]]" ("the lingering disease: the Aceh War"). He was the final military governor of [[Atjeh|Aceh]], the *Aceh-connoisseur* whose ten-year administration — "order and peace were consolidated in that province" — was the phase that "brought the [[Aceh War]] to an end," and who throughout his career "altijd en overal het meest voelde voor breken van het verzet zonder bloedvergieten" — "always and everywhere most preferred to break resistance without bloodshed". [[J. Kreemer|J. Kreemer]]'s *Atjèh* ([[1923]]) catalogues the administrative reforms of his governorship — the restoration of the *Hasil-reglement*, the reform of *wasé oelèëbalang*, the removal of *bestuursbemoeienis* from private-law pepper contracts, and the rapid expansion of *volksonderwijs* — in detail. In the received memory of the late-colonial Dutch community of the Indies, Swart came to be known as the *Pacificator van Atjeh* ("Pacifier of Atjeh") — a title fixed by the elegy of F. Kunst that laments the post-war destruction of his life's work.
 
 > **Note on nomenclature**: One source — the *Notulen der bestuursvergaderingen* of [[1914]] — gives the initials as "H. N. N. A. Swart" (with two N's); all other sources, including Dames, Lamster, and the Encyclopaedisch Bureau, give "H. N. A. Swart". The biography *Generaal Swart* by [[Maurice Henri du Croo|du Croo]] and [[Schmidt|Kolonel Schmidt]] identifies him as **Hendrik Nikolaas Albert Swart**. The double-N form is almost certainly a transcription or OCR variant of the same name.
 
@@ -41,7 +41,7 @@ Regarding the appointment of indigenous officials, Swart stated that *erfelijkhe
 
 ### The Sagi System Explanation
 
-One of Swart's most significant contributions to the *bestuursvergaderingen* was his detailed explanation of the indigenous administrative hierarchy of [[Groot-Atjeh|Groot-Atjeh]], prompted by De Graaff's inquiry about institutions comparable to Palembang's *marga*'s. Swart described a three-tiered system comprising three *[[sagi|sagi]]*'s, which he compared to Javanese *regentschappen* (regencies); *[[peleebalangschap|peleebalangschap]]pen*, which he compared to *districten* (districts); and *[[moekimschap|moekimschap]]pen*, which he compared to *onderdistricten* (sub-districts). The comparison to Javanese administrative units was deliberate, as it allowed officials whose experience was primarily in Java to grasp the scale and function of Atjehnese institutions through analogy with the more widely understood *desa* and *regentschap* system of Java.
+One of Swart's most significant contributions to the *bestuursvergaderingen* was his detailed explanation of the indigenous administrative hierarchy of [[Groot-Atjeh|Groot-Atjeh]], prompted by De Graaff's inquiry about institutions comparable to Palembang's *marga*'s. Swart described a three-tiered system comprising three *[[sagi|sagi]]*'s, which he compared to Javanese *regentschappen* (regencies); *[[peleebalangschap|peleebalangschap]]pen*, which he compared to *districten* (districts); and *[[moekimschap|moekimschap]]pen*, which he compared to *onderdistricten* (sub-districts). The comparison to Javanese administrative units was deliberate, as it allowed officials whose experience was primarily in Java to grasp the scale and function of Atjehnese institutions through analogy with the more widely understood *desa* and *regentschap* system of Java. The three-*sagi* federation — of the [[XXV Moekims|XXV]], [[XXVI Moekims|XXVI]], and [[XXII Moekims|XXII]] *moekim*s — was the principal indigenous-administrative description on the basis of which [[S. de Graaff|S. de Graaff]] concluded that only [[Gewestelijk Zelfbestuur|Gewestelijk Zelfbestuur]] was feasible for Atjeh, rather than the local *zelfbestuur* proposed for other territories.
 
 Swart closed the [[Koeta-Radja|Koeta-Radja]] meetings by thanking Regeeringscommissaris [[S. de Graaff|S. de Graaff]] for the "*heldere, zakelijke uiteenzetting*" ("clear, business-like explanation") of the reform plan. He expressed hope that this "*grootsche plan*" ("grand plan") would soon be realised, signalling his general support for the reorganisation effort despite the reservations he had articulated about its application to Atjeh's unique circumstances.
 
@@ -97,6 +97,8 @@ By the time *De Buitenbezittingen* was compiled, Swart could point to a territor
 
 Swart's success in Aceh demonstrated that military capability alone was insufficient — a governor needed tact, patience, and a genuine respect for local institutions. His appointment marked the definitive shift from the coercive approach of Van Daalen to the collaborative model pioneered by Van Heutsz, and his governorship is often seen as the final consolidation of Dutch rule in Aceh after decades of conflict. In the narrative of *Oom Ambon van het K.N.I.L.*, Swart stands as the quiet counter-weight to Van Heutsz: where Van Heutsz is the conqueror whose *systeem* finished the war at the tactical level, Swart is the general who closed it at the political level.
 
+Swart's significance for the encyclopedia of [[Acheh|Achehnese]] history is also twofold in the colonial memorial register. First, his role as *Pacificator van Atjeh* — fixed in the colonial memory by the title of the [[Melati en rotan|Kunst]] elegy — makes him the principal Dutch agent of the final pacification of Atjeh, the successor in that role to [[J. B. van Heutsz|Van Heutsz]] (whose campaigns brought the war to its military conclusion) and to [[J. L. J. H. Pel|Pel]], [[K. van der Heyden|Van der Heyden]], and [[General Vetter|Vetter]] in the central phase. Second, his [[1914|1914]] testimony on the [[sagi|*sagi*]] system is the principal documented indigenous-administrative description of the [[Groot-Atjeh|Groot-Atjeh]] territorial-political structure on which the post-conquest colonial administrative debate rested. His career thus spans the military, the administrative, and the memorial phases of the Dutch engagement with Atjeh.
+
 ## Account from *Atjèh* by J. Kreemer (Deel II)
 
 [[J. Kreemer|Kreemer]] provides administrative details of Swart's governorship ([[1908]]–[[1918]]) that complement the earlier sources:
@@ -113,6 +115,26 @@ The *wegenfonds* (road-maintenance fund) maintained by the *oelèëbalang*'s cea
 
 The *boetenfonds* (fines fund), maintained separately, was absorbed into the *landschapskassen* (territorial treasury funds) on **1 January [[1912]]**.
 
+## Account from *Melati en rotan* (1947) — the *Pacificator van Atjeh* elegy
+
+The [[Melati en rotan|*Melati en rotan*]] collection of F. Kunst, published [[1947]] at [[Bandoeng|Bandoeng]], contains the elegy "*[[Bij den dood van Generaal Swart, den pacificator van Atjeh|Bij den dood van Generaal Swart, den pacificator van Atjeh]]*" — "On the death of General Swart, the pacifier of Atjeh." The title fixes Swart, in the colonial memory of the mid-twentieth-century Dutch community of the Indies, as the *Pacificator van Atjeh* — the officer under whose command the [[Aceh War|Atjeh-oorlog]] was brought to its definitive close. The poem, however, immediately complicates the title by lamenting not the death of the general but the destruction of his work:
+
+> *"Wanneer wij treuren aan het graf van Swart,*
+> *Die nu geland is aan Doods veil'ge kust*
+> *En van een daadzwaar, roemrijk leven rust,*
+> *Is 't niet om hem, die dwars door vreugde en smart*
+> *Atjēh gedragen heeft in zijn groot hart*
+> *En van volbrachten plicht zich was bewust,*
+> *Toen 's Levens laatst bivakvuur werd gebluscht.*
+> *Ons voegt geen rouw om hem, maar het is hard,*
+> *Zijn levenswerk roek'loos te zien vernield:*
+> *Het heil van 't land, waar hij zoovéél van hield,*
+> *Chaos, waar hij eens orde en welvaart bracht,*
+> *Het razen van den fanatieken haat,*
+> *Waar vredestichten was zijn grootsche daad,*
+> *En ergst van al Holland in blindheids nacht."*
+
+The elegy's three complaints — that the country's well-being has been reduced to chaos, that fanatic hatred rages where Swart had brought peace, and that "Holland in night of blindness" has permitted the destruction — fix the poem's occasion as the Japanese occupation and the Indonesian National Revolution, in which the colonial order established by Swart in Atjeh was visibly destroyed. The general's death, in this frame, is the occasion for a lament on the destruction of the colonial achievement itself — a lament that turns the title of *Pacificator van Atjeh* from a celebration into an elegy.
 
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
 
@@ -135,71 +157,83 @@ The [[Raad van Indië]]'s recommendation of [[Swart (colonel, Atjeh)|Swart]] in 
 
 ## See Also
 
-- [[Landschapskassen]]
-- [[1905]]
-- [[Aceh War]]
-- [[Pedir]]
-- [[1919]]
-- [[1915]]
-- [[1906]]
-- [[Celebes]]
-- [[Moekimschap]]
-- [[Atjéh-enquête]]
-- [[S. de Graaff]]
-- [[Council of the Indies]]
-- [[1910]]
-- [[Korte Verklaring]]
-- [[Peleebalangschap]]
-- [[Kingdom of Loewoe|Loewoe]]
-- [[Teungkoe Sjech Saman di Tiri]]
-- [[Blang Rakal]]
-- [[Handover of Aceh to a civil Gouverneur (1918)]]
-- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
-- [[Zuider- en Oosterafdeeling van Borneo]]
-- [[1912]]
-- [[1908]]
-- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
-- [[Panglima Polem|Panglima Prang Polim]]
-- [[1911]]
-- [[Geumpenie]]
-- [[Datoek]]
-- [[Wasé oelèëbalang]]
-- [[Oost-Indisch Journael]]
-- [[Koeta-Radja]]
-- [[Moekimschool]]
-- [[Oom Ambon van het K.N.I.L.]]
-- [[1914]]
-- [[Dominee Thenu]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[1909]]
-- [[Bestuursreorganisatie Sumatra (1913-1914)]]
-- [[1918]]
-- [[Gewestelijke Raad Noord-Sumatra]]
-- [[J. Kreemer]]
-- [[Queen Wilhelmina|Koningin Wilhelmina]]
-- [[Civiel Gezaghebber]]
-- [[Pacification of Aceh]]
-- [[Volksonderwijs]]
-- [[Sagi]]
-- [[1934]]
-- [[1907]]
-- [[Hasil-reglement]]
-- [[Boni]]
-- [[Groot-Atjeh]]
-- [[Colonne Schmidt campaign against the Tiriō Teungkues (1910-1911)]]
+- [[Aceh War]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[Hendrikus Colijn|H. Colijn]]
-- [[Buyckjens]]
 - [[C. Snouck Hurgronje|Snouck Hurgronje]]
-- [[Toeankoe Machmoed Radja Keumala]]
-- [[H. N. A. Swart|Generaal Swart (book)]]
+- [[J. Kreemer]]
+- [[Atjéh-enquête]]
+- [[Pacification of Aceh]]
+- [[Pacificatie van Atjeh]]
+- [[Korte Verklaring]]
+- [[Hasil-reglement]]
+- [[Wasé oelèëbalang]]
+- [[Volksonderwijs]]
+- [[Moekimschool]]
+- [[Landschapskassen]]
+- [[Groot-Atjeh]]
+- [[Pedir]]
 - [[Singkel]]
+- [[Zuider- en Oosterafdeeling van Borneo]]
+- [[Celebes]]
+- [[Boni]]
+- [[Kingdom of Loewoe|Loewoe]]
+- [[Panglima Polem|Panglima Prang Polim]]
+- [[Toeankoe Machmoed Radja Keumala]]
+- [[Teungkoe Sjech Saman di Tiri]]
+- [[Colonne Schmidt campaign against the Tiriō Teungkues (1910-1911)]]
+- [[S. de Graaff]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Gewestelijke Raad Noord-Sumatra]]
+- [[Gewestelijk Zelfbestuur]]
+- [[Civiel Gezaghebber]]
+- [[Sagi]]
+- [[Peleebalangschap]]
+- [[Moekimschap]]
+- [[XXII Moekims]]
+- [[XXV Moekims]]
+- [[XXVI Moekims]]
+- [[Koeta-Radja]]
+- [[Koeta Radja]]
+- [[Dominee Thenu]]
+- [[Queen Wilhelmina|Koningin Wilhelmina]]
+- [[Datoek]]
+- [[Blang Rakal]]
+- [[Council of the Indies]]
+- [[H. N. A. Swart|Generaal Swart (book)]]
+- [[Oom Ambon van het K.N.I.L.]]
+- [[Oost-Indisch Journael]]
+- [[Buyckjens]]
+- [[Geumpenie]]
+- [[Handover of Aceh to a civil Gouverneur (1918)]]
+- [[Bij den dood van Generaal Swart, den pacificator van Atjeh]]
+- [[Melati en rotan]]
+- [[Concentration system in Atjeh]]
+- [[J. L. J. H. Pel]]
+- [[K. van der Heyden]]
+- [[General Vetter]]
+- [[Bandoeng]]
+- [[1905]]
+- [[1906]]
+- [[1907]]
+- [[1908]]
+- [[1909]]
+- [[1910]]
+- [[1911]]
+- [[1912]]
+- [[1914]]
+- [[1915]]
+- [[1918]]
+- [[1919]]
+- [[1934]]
+- [[Raad van Indië]]
 - [[Van Daalen's resignation (December 1907)]]
 - [[Avondpost "Wekeer" articles (October 1907)]]
-- [[Raad van Indië]]
-- [[J. B. van Heutsz]]
-- [[Pacificatie van Atjeh]]
-- [[G. C. E. van Daalen]]
 - [[Van Heutsz's report on Atjeh (June 1908)]]
+- [[Van Heutsz's inspection tour of Atjeh (December 1907)]]
+- [[Van Daalen's Gajo-Alas-Batak expedition (1904)]]
 
 ## Sources
 
@@ -214,5 +248,7 @@ The [[Raad van Indië]]'s recommendation of [[Swart (colonel, Atjeh)|Swart]] in 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*Melati en rotan: Gedichten van F. Kunst, pentekeningen van Johanna Roberti* (Bandoeng: Vacuüm-Handel Maatschappij Vortex en Uitgeverij en Boekhandel W. Mellink, [[1947]]), p. 41 ("*Bij den dood van Generaal Swart, den pacificator van Atjeh*").
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), p. 273.

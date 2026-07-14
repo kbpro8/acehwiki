@@ -1,7 +1,7 @@
 ---
 title: Concentration system (1884–1896) — Kreemer's account
-aliases: [Concentratiestelsel, Atjèh concentration system, the concentration policy, Kreemer's account of the concentration, geconcentreerde linie]
-tags: [concept, military, political, colonial, atjeh-oorlog, 19th-century, dutch, atjehnese, 1884, 1896]
+aliases: [Concentratiestelsel, Atjèh concentration system, the concentration policy, Kreemer's account of the concentration, geconcentreerde linie, Concentration system in Atjeh, Atjeh concentration system, stelsel van concentratie, Atjeh concentration strategy, Dutch concentration system Atjeh, Atjeh-oorlog concentration system]
+tags: [concept, military, political, colonial, atjeh-oorlog, 19th-century, dutch, atjehnese, 1884, 1896, military-strategy, achehnese, aceh-war, defensive-strategy]
 ---
 
 **The Concentration system** (*concentratiestelsel*) of [[1884]]–[[1896]] — in [[J. Kreemer|Kreemer]]'s history, the Dutch policy of "inkrimping van het rechtstreeks onder ons bestuur gebracht gebied, gepaard met een strenge 'blokkade' van de kust" — "contraction of the area brought under our direct administration, accompanied by a strict 'blockade' of the coast" — was, in Kreemer's judgement, the greatest service anyone ever did the Atjèhnese war-party: "zeker niemand de oorlogspartij ooit een grooter dienst bewees, dan de uitvinder van deze concentratie" — "certainly no one ever did the war-party a greater service than the inventor of this concentration."
@@ -38,6 +38,31 @@ The concentration did not even fulfil the expectation of saving the treasury. Th
 
 The concentration system is, in Kreemer's narrative, the low point of Dutch fortunes in the Atjèh war — the moment at which the Dutch abandoned the conquests of [[1878]]–[[1879]], shut themselves into a besieged perimeter, and handed the initiative to the *ulama*-led resistance. The concentration produced, as its direct political consequence, the [[Oema-periode (1893-1896)|Oema-period]] of [[Teungku Tiro|Teungkoe Tirö]] and [[Teukoe Oema|Teukoe Oema]], and it was only the abandonment of the concentration under [[Governor Van Heutsz|Van Heutsz]] and the adoption of [[C. Snouck Hurgronje|Snouck Hurgronje]]'s advice — "dat de onderwerping niet uitsluitend afgewacht, nog minder afgebedeld, maar dat zij afgedwongen moest worden" — "that submission could not merely be awaited, still less begged for, but must be forced" — that would reverse the decline.
 
+
+## Account from *Na 1795* (1924) — the schoolroom memory
+
+**The concentration system in Atjeh** (*stelsel van concentratie*) was the Dutch colonial military strategy adopted in the aftermath of the [[1879]] conquest of [[Groot-Atjeh|Groot-Atjeh]] by General [[K. van der Heyden|Van der Heyden]] and the subsequent failure of the civil administration that replaced the military government — a defensive strategy by which, in the canonical formulation of the [[Na 1795 (1924)|*Na 1795*]] school-history textbook of F. Roorda, "*de veroverde streken werden prijsgegeven en men beperkte zich tot de verdediging van een versterkte stelling om Kota-Radja*" ("the conquered regions were given up, and one restricted oneself to the defence of a fortified position around Kota-Radja"). The system defined the Dutch war effort in Atjeh from the early [[1880s]] to the late [[1890s]] — a period in which, in the schoolroom memory, "*Langen tijd scheen het, dat de Atjehneezen zouden winnen*" ("for a long time it seemed that the Atjehnese would win").
+
+### Adoption in the schoolroom narrative
+
+The [[Na 1795 (1924)|*Na 1795*]] school-history textbook records the adoption of the concentration system in the paragraph that follows the [[1879]] conquest:
+
+> *"1879. Generaal Van der Heyden bracht Groot Atjeh onder ons gezag: de opstand scheen bedwongen. Evenwel beging de regeering nu de fout het militaire door een burgerlijk bestuur te vervangen. Het verzet begon opnieuw, met het gevolg, dat de Indische regeering overging tot het stelsel van concentratie, d. w. z. de veroverde streken werden prijsgegeven en men beperkte zich tot de verdediging van een versterkte stelling om Kota-Radja. Langen tijd scheen het, dat de Atjehneezen zouden winnen."*
+
+The textbook's narrative fixes the concentration system as the consequence of two prior events: the [[1879]] conquest of [[Groot-Atjeh|Groot-Atjeh]] by [[K. van der Heyden|Van der Heyden]], and the subsequent Dutch error of replacing the military administration by a civil one before the country had been genuinely subdued. The civil administration triggered the resumption of Atjehnese resistance, and the Indische regeering — unable to maintain the conquered territory — reverted to the concentration system: the abandonment of the interior, the retreat to a fortified perimeter around [[Koeta Radja|Kota-Radja]], and the defensive posture that defined the Dutch war effort for the next two decades.
+
+### The fortified perimeter
+
+The fortified perimeter around [[Koeta Radja|Kota-Radja]] — the *versterkte stelling* of the textbook's formulation — was the physical form of the concentration system. The perimeter was defined by the [[Postenlinie|postenlinie]] — the chain of military posts that ringed the colonial capital — and it was served by the [[Atjeh-tram|Atjeh-tramway]] network, whose original line of [[1875]] from [[Oelèe Lheuë|Oelèe Lheuë]] to [[Koeta Radja|Koeta Radja]] and whose [[1885|1885]] [[Ceintuur-trambaan|belt-tramway]] along the postenlinie were the logistical infrastructure of the defensive system. The [[Pastoor H. C. Verbraak|Verbraak]] chaplaincy — with its routine of *ommegang langs den postenketen* ("circuit along the post-chain") — was the religious ministration of the perimeter.
+
+### The long defensive phase
+
+The concentration system defined the Dutch war effort in Atjeh from the early [[1880s]] to the late [[1890s]] — a period of nearly two decades in which, in the schoolroom memory, the Atjehnese seemed poised to win. The defensive posture of the concentration system was finally broken by the appointment of [[General Vetter|General Vetter]] with *onbeperkte volmacht* (unlimited authority) after the [[1896]] defection of [[Toekoe Oemar|Toekoe Oemar]], and by the subsequent renewed offensive of [[J. B. van Heutsz|Van Heutsz]] that brought the war to its military conclusion in [[1903]].
+
+### Significance in the schoolroom narrative
+
+The concentration system is significant for the encyclopedia of [[Acheh|Achehnese]] history, in the schoolroom memory, on three counts. First, it is the principal Dutch military strategy of the central phase of the [[Aceh War|Atjeh-oorlog]] — the defensive posture that defined the Dutch war effort for nearly two decades, from the early [[1880s]] to the late [[1890s]]. Second, it is the document, in the schoolroom memory, of the limits of the Dutch military capacity in Atjeh: the conquered territory could not be held, and the colonial government was forced to retreat to a fortified perimeter around [[Koeta Radja|Kota-Radja]]. Third, it is the proximate cause of the late-phase Dutch operational recovery — the appointment of [[General Vetter|Vetter]] with unlimited authority and the renewed offensive of [[J. B. van Heutsz|Van Heutsz]] — that brought the war to its military conclusion. The schoolroom judgement — "*Langen tijd scheen het, dat de Atjehneezen zouden winnen*" — is the documentary measure of the depth of the Dutch predicament under the concentration system.
+
 ## See Also
 
 - [[Acheh]]
@@ -60,6 +85,22 @@ The concentration system is, in Kreemer's narrative, the low point of Dutch fort
 - [[1884]]
 - [[1896]]
 
+- [[Aceh War (Na 1795 textbook account)]]
+- [[Atjeh-tram]]
+- [[Ceintuur-trambaan]]
+- [[General Vetter]]
+- [[J. B. van Heutsz]]
+- [[Na 1795 (1924)]]
+- [[Oelèe Lheuë]]
+- [[Pastoor H. C. Verbraak]]
+- [[Postenlinie]]
+- [[1875]]
+- [[1879]]
+- [[1880s]]
+- [[1890s]]
+- [[1903]]
 ## Source
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Zesde tijdvak, blz. 26–28. Citing [[E. B. Kielstra|E. B. Kielstra]], *Atjèh onder het bestuur van den gouverneur Demmeni*, p. 499–525 en 613–635, and [[C. Snouck Hurgronje|C. Snouck Hurgronje]], *De Atjèhers* dl. I p. 184 vg.
+
+*Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.

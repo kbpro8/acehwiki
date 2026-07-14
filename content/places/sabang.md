@@ -1,7 +1,7 @@
 ---
 title: Sabang
-aliases: [Sabang free port, Sabang harbour, Sabang coaling station, Zeehaven Sabang, Sabang, Sabanghaven, Sabangbaai, Free Port of Sabang, Sabang Island, Poelau Wè, Pulau We, Sabang Harbor, Sabang-haven, Sabang Maatschappij, the free port of Sabang, Sabang (Atjeh), haven van Sabang, Weh Island]
-tags: [place, harbour, free-port, trade, colonial, port, dutch, island, aceh, buitenbezittingen, ocean-port, sabang-maatschappij]
+aliases: [Sabang free port, Sabang harbour, Sabang coaling station, Zeehaven Sabang, Sabang, Sabanghaven, Sabangbaai, Free Port of Sabang, Sabang Island, Poelau Wè, Pulau We, Sabang Harbor, Sabang-haven, Sabang Maatschappij, the free port of Sabang, Sabang (Atjeh), haven van Sabang, Weh Island, Sabang haven, Port of Sabang, Sabang (Poelau Weh), Sabang Bay]
+tags: [place, harbour, free-port, trade, colonial, port, dutch, island, aceh, buitenbezittingen, ocean-port, sabang-maatschappij, haven, achehnese, sumatra, 19th-century, 20th-century, atjeh, afdeeling]
 ---
 
 **Sabang** was the free port and coaling station developed on the northern bay of
@@ -211,6 +211,26 @@ Sabang remains an important port and naval station to the present day. Its strat
 
 Dr. [[Johan Wøller]], a Danish physician bound for service in the Netherlands-Indies army, entered the East Indies through Sabang's harbour in early [[1904]]. Having heard, at a stop in [[Colombo]], the news of the outbreak of the [[Russo-Japanese War]] in [[February]] [[1904]], "some days later they entered the new harbor of Sabang. Netherlands-Indies, the tropics, the land where the adventure awaited him and his young wife, was reached." From Sabang, Wøller continued by sea to [[Atjeh en Onderhorigheden]], which he reached in [[April]] [[1904]].
 
+
+## Account from *Atlas van Nederland en de Indiën* (1930) — the schoolroom haven
+
+The [[Atlas van Nederland en de Indiën (1930)|*Atlas van Nederland en de Indiën*]] of G. Prop — a schoolroom geography of the Indies — names Sabang as "*voor de kust de belangrijke haven Sabang*" in the chapter on [[Sumatra|Sumatra]], in the context of the description of [[Acheh|Atjeh]]. The entry records that "*In Atjeh voerden de Nederlanders sedert 1873 oorlog: nu is er vrede en komt weer welvaart. Atjeh levert peper*" ("In Atjeh the Dutch waged war since 1873: now there is peace and prosperity returns. Atjeh produces pepper"), and adds that the chief town of Atjeh is [[Koeta Radja|Kota-Radja]], "*voor de kust de belangrijke haven Sabang*" ("before the coast, the important harbour Sabang"). Sabang is thus fixed, in the schoolroom memory of [[1930]], as the principal commercial haven of the Atjeh residency.
+
+## Account from *Vierhonderd jaren missie* (1934) — the Catholic mission station
+
+The [[Vierhonderd jaren missie in Nederlandsch Indië (1934)|mission jubilee volume of 1934]] records, in the chapter on the [[Catholic Mission of Koeta Radja-Atjeh|Catholic mission of Koeta Radja-Atjeh]], that "*Sabang wordt ook geregeld van deze statie uit bediend*" ("Sabang is also regularly served from this station"). The phrase fixes Sabang as a station of the [[Koeta Radja|Koeta Radja]] mission — a port-of-call visited at regular intervals by the priest of Koeta Radja for the ministration of the Catholic personnel of the harbour and the shipping.
+
+## Account from *Melati en rotan* (1947) — the poem "Anak Laoet"
+
+The [[Melati en rotan|*Melati en rotan*]] collection of F. Kunst contains the poem "*Anak Laoet*" ("Child of the Sea"), whose second stanza fixes Sabang as a place of resort for ships' passengers on the Europe–East-Asia route:
+
+> *"Niet ver van Sabangs schoon belijnde bocht*
+> *Droomt er een meertje, 'Kin der Zee' geheeten,*
+> *Dat 'k tweemaal zag en nimmer zal vergeten,*
+> *Door bosch bezoomd en zelden maar bezocht."*
+
+The poem's setting — the lake *Kin der Zee* "near Sabang's beautifully contoured bay" — fixes Sabang as a place known to the colonial reader of [[1947]] by the scenic quality of its bay. The poem's reference to the steamers that call at Sabang for bunkering ("*wanneer bij Indië's toegangspoort / Een schip op uit- of thuisreis ligt te bunk'ren*") is the documentary evidence of the haven's function as a coaling-station on the sea-route. The scenic *bocht* (bay) of Sabang is, in the colonial literary memory fixed by Kunst's poem, the most visible scenic landmark of the Atjeh coast in the Dutch-colonial imagination.
+
 ## See Also
 - [[Pulo We|Poeloe We]]
 - [[N.V. Zeehaven en Kolenstation Sabang]]
@@ -255,6 +275,21 @@ Dr. [[Johan Wøller]], a Danish physician bound for service in the Netherlands-I
 - [[Johan Wøller]]
 - [[Atjeh en Onderhorigheden]]
 
+- [[Acheh]]
+- [[Anak Laoet (poem)]]
+- [[Atlas van Nederland en de Indiën (1930)]]
+- [[Atjeh en Onderhoorigheden]]
+- [[Catholic Mission of Koeta Radja-Atjeh]]
+- [[Groot-Atjeh]]
+- [[Koeta Radja]]
+- [[Melati en rotan]]
+- [[Poelau Weh]]
+- [[Sumatra]]
+- [[Vierhonderd jaren missie in Nederlandsch Indië (1934)]]
+- [[1873]]
+- [[1930]]
+- [[1934]]
+- [[1947]]
 ## Sources
 
 *De Europeesche Industrie* ["The European Industry"], section *De Buitenbezittingen* ("The Outer Possessions"), in *Grooten van Zee en Land in Nederlandsch-Indië*, Vol. 6, pp. 243–251 (English translation from the Dutch). B. A. van Sandick, *Sabang en Belawan als oceaanhavens* ["Sabang and Belawan as Ocean Harbours"], in *Indische Mercuur* (1913), No. 49 — cited in the source.
@@ -272,3 +307,9 @@ Dr. [[Johan Wøller]], a Danish physician bound for service in the Netherlands-I
 *De Buitenbezittingen 1904*, in: *Mededeelingen van het Encyclopaedisch Bureau*. Batavia: G.C.T. van Dorp & Co., [ca. 1915], p. 308.
 
 *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), p. 11.
+
+*Atlas van Nederland en de Indiën voor de Lagere School*, by G. Prop, 12th ed. (Zutphen: W. J. Thieme & Cie, MCMXXX [[1930]]), p. 58 (chapter XIV, "Oost-Indië," section C, "Sumatra").
+
+*Vierhonderd jaren missie in Nederlandsch-Indië, 1593–1934* (Batavia: Algemeen Comité van Voorbereiding tot de Feestelijke Herdenking van 400 jaar Missie in Ned.-Indië, [1934]), p. 96 (chapter on the Koeta Radja-Atjeh station).
+
+*Melati en rotan: Gedichten van F. Kunst, pentekeningen van Johanna Roberti* (Bandoeng: Vacuüm-Handel Maatschappij Vortex en Uitgeverij en Boekhandel W. Mellink, [[1947]]), p. 16 ("*Anak Laoet*").

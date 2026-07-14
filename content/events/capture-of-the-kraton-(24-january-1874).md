@@ -1,7 +1,7 @@
 ---
 title: Capture of the Kraton (24 January 1874)
-aliases: [Val van de Kraton, Fall of the Kraton, Verovering van den Kraton, Inname van de Kraton 1874, Fall of the Dalam]
-tags: [event, battle, military, dutch-colonial, aceh-war]
+aliases: [Val van de Kraton, Fall of the Kraton, Verovering van den Kraton, Inname van de Kraton 1874, Fall of the Dalam, Capture of the Kraton of Atjeh (24 January 1874), Innemen van de Kraton (24 januari 1874), Kraton of Atjeh captured, 24 January 1874 Kraton, Fall of the Kraton of Atjeh, Capture of the sultan's palace]
+tags: [event, battle, military, dutch-colonial, aceh-war, military-campaign, dutch, colonial, achehnese, infantry, 19th-century, kraton, koeta-radja, capture]
 ---
 
 **The Capture of the Kraton** on [[24 January]] [[1874]] was the culminating episode of the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]], in which a reconnaissance sent by Lieutenant-general [[Jan van Swieten|Van Swieten]] from [[Taman (Kota Goenoengan)|Kota Goenoengan]] entered the [[Kraton of Aceh|Kraton]] of the [[Sultan of Aceh|sultan]] of [[Acheh|Atjeh]] unopposed and hoisted the Dutch flag on the watch-house, to the strains of the *Wilhelmus* played by the band of the right half of the 14th bataljon. The capture came after a month of operations and several costly failures, and was followed within two days by the death of the sultan and within a week by the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] by right of conquest.
@@ -36,6 +36,29 @@ Two days after the taking of the Kraton, on [[26 January]] [[1874]], the sultan 
 
 The capture of the Kraton was, in a strict military sense, a decisive success: the seat of the sultanate was in Dutch hands. Yet, as [[J. L. J. H. Pel|General Pel]] observed in his note of [[30 April]] [[1875]], the political effect was slight: "All those victories have as yet given few political results, even the taking of Longbatta, however much impression it made among the Atjehers. The population is here and there inclined to peace, but the war-party has still too much influence for one to dare to declare oneself openly." The sultan's death did not end the sultanate; the [[Toewankoe Haschim|Toewankoe Haschim]] and the war-party maintained the institution in shadowy form at [[Keumala|Keumala]] (Kemala), and the struggle was to continue for more than three decades.
 
+
+## Account from *Na 1795* (1924) — the schoolroom memory
+
+The [[Na 1795 (1924)|*Na 1795*]] school-history textbook of F. Roorda records the capture of the Kraton in its canonical compressed form:
+
+> *"De 1e expeditie mislukte, Köhler sneuvelde, maar de 2e expeditie onder Van Swieten bracht succes. De Kraton (paleis) van den sultan werd ingenomen, Kota Radja werd de zetel van ons gezag."*
+
+The textbook's two clauses — "*De Kraton (paleis) van den sultan werd ingenomen*" ("The Kraton (palace) of the sultan was taken") and "*Kota Radja werd de zetel van ons gezag*" ("Kota Radja became the seat of our authority") — fix the two consequences of the capture: the strategic objective achieved, and the colonial capital founded. The capture of the [[Kraton of Aceh|Kraton]] on [[24 January]] [[1874]] is the documentary hinge between the two: the act by which the palace of the [[Sultan of Acheh|sultan]] became the seat of the Dutch colonial administration.
+
+The [[Na 1795 (1924)|*Na 1795*]] textbook does not record the sultan's flight explicitly, but the subsequent narrative — the continuation of the war for thirty years under a succession of Dutch commanders and the eventual [[Surrender of the Atjeh pretender-sultan (1903)|surrender of the pretender-sultan]] in [[1903]] — is the implicit document of the sultan's evasion of capture. The [[Kraton of Aceh|Kraton]] was thus, in the documentary record, an empty prize: the palace taken, the sultan escaped, the war continued.
+
+### The second expedition in the schoolroom frame
+
+The [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] of [[November]] [[1873]] – [[January]] [[1874]] was the Dutch military response to the failure of the [[First Aceh Expedition (1873)|first expedition]] of [[March]]–[[April]] [[1873]] — the expedition that had ended with the death of Major-General [[J. H. R. Köhler|Köhler]] at the [[Battle of the Missigit (10 April 1873)|Battle of the Missigit]] on [[10 April]] [[1873]]. The second expedition, under the command of General [[Jan van Swieten|Van Swieten]], returned to the assault on the [[Kraton of Aceh|Kraton]] with a larger force and a more methodical plan. The [[Kraton of Aceh|Kraton]] — the palace-fortress of the [[Sultan of Acheh|sultan]] — was the strategic objective of both expeditions; its capture in the second was the proximate Dutch victory of the war.
+
+### The Proclamation of 31 January 1874 in the schoolroom frame
+
+A week after the capture of the Kraton, on [[31 January]] [[1874]], General [[Jan van Swieten|Van Swieten]] issued the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] by which [[Acheh|Atjeh]] — or, in the colonial formulation, [[Groot-Atjeh|Groot-Atjeh]] — was declared to belong to the Government of the [[Netherlands East Indies|Netherlands East Indies]] by right of conquest. The proclamation is the formal founding document of the colonial administration of Atjeh, the legal basis on which all subsequent Dutch governance of the territory rested.
+
+### The wider significance in the schoolroom frame
+
+The capture of the [[Kraton of Aceh|Kraton]] on [[24 January]] [[1874]] is significant for the encyclopedia of [[Acheh|Achehnese]] history, in the schoolroom memory, on three counts. First, it is the principal Dutch military success of the opening phase of the [[Aceh War|Atjeh-oorlog]] — the act by which the war was transformed from a punitive expedition into a conquest, and by which the strategic objective of both expeditions was finally achieved. Second, it is the proximate cause of the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[31 January]] [[1874]] — the formal founding document of the colonial administration of Atjeh. Third, it is the founding event of the colonial capital of [[Koeta Radja|Kota Radja]] — the seat of Dutch authority in Atjeh for the next forty-four years, and the documentary fix, in the schoolroom memory, of the transformation of the sultan's palace into the colonial seat of government.
+
 ## See Also
 
 - [[Jan van Swieten|J. van Swieten]]
@@ -53,6 +76,21 @@ The capture of the Kraton was, in a strict military sense, a decisive success: t
 - [[Krueng Daroy]]
 - [[Aceh War]]
 
+- [[Aceh War]]
+- [[Battle of the Missigit (10 April 1873)]]
+- [[First Aceh Expedition (1873)]]
+- [[Groot-Atjeh]]
+- [[J. H. R. Köhler]]
+- [[Jan van Swieten]]
+- [[Koeta Radja]]
+- [[Na 1795 (1924)]]
+- [[Surrender of the Atjeh pretender-sultan (1903)]]
+- [[Sultan of Acheh]]
+- [[1873]]
+- [[1903]]
+- [[31 January]]
 ## Source
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 23-26.
+
+*Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.

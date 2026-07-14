@@ -1,8 +1,8 @@
 ---
 title: Joannes Benedictus van Heutsz
-aliases: ["Van Heutsz", "J. B. van Heutsz", "J.B. van Heutsz", "Jan van Heutsz", "Johan van Heutsz", "Johan Hendrik van Heutsz", "J. B. V. Heutsz", "v. Heutsz", "Heutsz", "Joannes Benedictus van Heutsz", "Johannes Benedictus van Heutsz", "Governor Van Heutsz", "Governor-General Van Heutsz", "General Van Heutsz", "Colonel Van Heutsz", "Lieutenant Van Heutsz", "Gouverneur-Generaal Van Heutsz", "Oud-Gouverneur-Generaal Van Heutsz", "Adjudant-Generaal Van Heutsz", "Zijne Excellentie J. B. van Heutsz", "Toean Djenderal Van Heutsz", "Van Heutsz", "J. B.", "Van Heutsz", "General", "generaal Van Heutsz", "governor Van Heutsz", "J. B. van Heutsz as governor of Atjeh", "J. B. van Heutsz as governor-general", "the Pacificator of Atjeh"]
+aliases: ["Van Heutsz", "J. B. van Heutsz", "J.B. van Heutsz", "Jan van Heutsz", "Johan van Heutsz", "Johan Hendrik van Heutsz", "J. B. V. Heutsz", "v. Heutsz", "Heutsz", "Joannes Benedictus van Heutsz", "Johannes Benedictus van Heutsz", "Governor Van Heutsz", "Governor-General Van Heutsz", "General Van Heutsz", "Colonel Van Heutsz", "Lieutenant Van Heutsz", "Gouverneur-Generaal Van Heutsz", "Oud-Gouverneur-Generaal Van Heutsz", "Adjudant-Generaal Van Heutsz", "Zijne Excellentie J. B. van Heutsz", "Toean Djenderal Van Heutsz", "J. B.", "General", "generaal Van Heutsz", "governor Van Heutsz", "Pacificator of Atjeh"]
 
-tags: [person, military, colonial, dutch, governor-general, aceh, pacification, buitenbezittingen, knil, 19th-century, 20th-century, acheh, governor]
+tags: [person, military, colonial, dutch, governor-general, aceh, pacification, buitenbezittingen, knil, 19th-century, 20th-century, general, governor, infantry, achehnese, aceh-war, knight]
 description: "Dutch military officer and colonial administrator (1851–1924) who, as Civil and Military Governor of Aceh from 1898 and Governor-General of the Dutch East Indies from 1904 to 1909, carried through the subjugation of the Acehnese sultanate and completed the pacification of the Buitengewesten."
 ---
 
@@ -127,16 +127,40 @@ In [[1903]] Van Heutsz introduced the ***muntverandering*** (currency change), r
 The [[Atjèh-tram|Atjèh-tram]] — the narrow-gauge railway connecting Bësitang (on the East Coast of Sumatra) with Pangkalan Brandan — was completed on **29 December [[1919]]**, long after Van Heutsz's departure from Atjèh.
 
 
+## Account from *Na 1795* (1924) — the schoolroom memory
+
+The [[Na 1795 (1924)|*Na 1795*]] school-history textbook of F. Roorda records Van Heutsz's [[1898]] appointment as Governor of Atjeh in the context of the [[Pedir Expedition (1898)|Pedir-expeditie]] of the same year, and compresses the closing phase of the [[Aceh War|Atjeh-oorlog]] into a single paragraph:
+
+> *"1893-'96. Toekoe-Oemar werd onze bondgenoot. Hij bleek echter onbetrouwbaar, want in 1896 sloot hij zich weer bij zijn landgenooten aan. Generaal Vetter werd daarna met onbeperkte volmacht naar Atjeh gezonden. Hij behaalde groote voordeelen; doch pas aan van Heutz gelukte het, Groot Atjeh te onderwerpen. Toekoe Oemar sneuvelde bij Melaboeh."*
+
+> *"1903. De pretendent-sultan en de andere Atjehsche aanvoerders bieden hun onderwerping aan. De oorlog kan hiermee als geëindigd worden beschouwd."*
+
+Van Heutsz's command — coming after the defection and death of [[Toekoe Oemar|Toekoe Oemar]] and after the partial successes of [[General Vetter|General Vetter]] — was thus, in the schoolroom memory, the command that finally subdued [[Groot-Atjeh|Groot-Atjeh]]. The [[1903|1903]] surrender of the pretender-sultan and the other Atjehnese commanders is the formal close of the war.
+
+The [[Na 1795 (1924)|*Na 1795*]] textbook then records Van Heutsz's subsequent career as Governor-General in a single line of the chronological table:
+
+> *"1904-'09. Van Heutz gouverneur-general. ... De Bataklanden onderworpen."*
+
+As Governor-General, Van Heutsz extended the programme of military conquest that he had begun in Atjeh to the neighbouring [[Bataklanden|Bataklanden]], bringing the highlands south of Atjeh under Dutch authority. The pairing of his name with the subjugation of the Bataklanden, in the schoolroom memory, fixes him as the principal agent of the late-Dutch colonial expansion in northern Sumatra. His name, together with [[J. H. R. Köhler|Köhler]] (who fell in [[1873]]) and [[Jan van Swieten|Van Swieten]] (who took the [[Kraton of Aceh|Kraton]] in [[1874]]), is one of the three canonical commanders of the Atjeh war — and the only one of the three whose conquest proved durable.
+
+## Account from *Vierhonderd jaren missie* (1934) — the 1898 Pedir-expedition and Verbraak's chaplaincy
+
+The [[Vierhonderd jaren missie in Nederlandsch Indië (1934)|mission jubilee volume of 1934]] records the [[1898]] appointment of Van Heutsz as Governor of Atjeh from the perspective of [[Pastoor H. C. Verbraak|Pastoor Verbraak]]'s chaplaincy:
+
+> *"Toen in 1898 de toenmalige kolonel van Heutsz als gouverneur van Atjeh optrad, deelde deze mede dat er bij de regeering te Batavia het plan had bestaan om aan de ophanden zijnde Pedir-expeditie afzonderlijke geestelijken toe te voegen. En verder dat van dien maatregel was afgezien omdat hij, door jarenlange ondervinding, overtuigd was dat de predikant, en vooral de algemeen beminde pastoor Verbraak hun geestelijke werkzaamheden wel zouden willen verdeelen tusschen Groot-Atjeh en Pedir."*
+
+The episode documents both Van Heutsz's practical command style — the decision to set aside the original plan of attaching separate chaplains to the Pedir-expedition — and the structural dependence of the colonial chaplaincy on a small trusted circle of clerics (the predikant and the universally beloved pastoor Verbraak). The decision is itself a document of how Van Heutsz, as Governor, understood the moral economy of the colonial army: that the trusted clerics already in the field were a more reliable instrument than newly-attached chaplains unfamiliar with the war-footing.
+
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
 
 The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
 
 
-**J. B. van Heutsz** — Joannes Benedictus van Heutsz ([[1851]]-[[1924]]) — was the Dutch military officer and colonial administrator who, as governor of [[Acheh|Atjeh]] ([[1898]]-[[1904]]) and governor-general of the [[Nederlandsch-Indië|Nederlandsch-Indische]] archipelago ([[1904]]-[[1909]]), brought the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]] to its military conclusion and set the [[Pacificatie van Atjeh|pacificatie]] on its post-[[1908]] course. The parliamentary debates that accompanied and followed his Atjehnese administration are the central thread of Chapter I of [[W. H. Vermeulen|Vermeulen]]'s *Oost-Indië in het Nederlandse Parlement 1891-1918*.
+**J. B. van Heutsz** — Joannes Benedictus van Heutsz ([[1851]]-[[1924]]) — was the Dutch military officer and colonial administrator who, as governor of [[Acheh|Atjeh]] ([[1898]]-[[1904]]) and governor-general of the [[Nederlandsch-Indië|Nederlandsch-Indische]] archipelago ([[1904]]-[[1909]]), brought the [[Atjeh-oorlog (1873-1904)|Atjeh-oorlog]] to its military conclusion and set the [[Pacificatie van Atjeh|pacificatie]] on its post-[[1908]] course. The parliamentary debates that accompanied and followed his Atjehnese administration are the central thread of Chapter I of [[W. H. Vermeulen|Vermeulen]]'s *Oost-Indië in het Nederlandse Parlement 1891-1918*.
 
 ### Atjeh before Van Heutsz
 
-When [[J. B. van Heutsz|Van Heutsz]] took over the Atjeh command, the [[Netherlands|Dutch]] position in the sultanate was defined by the [[Concentratie-stelsel ([[1884]]-[[1896]])|concentratie-stelsel]] of [[1884]]-[[1896]] — the *reconcentrated* perimeter around [[Koeta Radja|Koeta Radja]] — and by the disarray following [[Toekoe Oemar's defection ([[1896]])|the defection of Toekoe Oemar]] in [[1896]]. [[Abraham Kuyper|Kuyper]] (a.r.) later mocked the succession of systems tried before [[J. B. van Heutsz|Van Heutsz]] as "een volledige staalkaart van alle denkbare methoden om Atjeh te bestrijden" — a complete sample-card of every conceivable method of combating Atjeh. The recovery of [[Groot-Atjeh]] after the Oemar crisis was [[J. B. van Heutsz|Van Heutsz]]'s first achievement; the pursuit of the resistance chiefs to [[Pedirse|Pedir]] and thence, in [[1904]], to the [[Gajoland|Gajoe-]] and [[Alasland|Alaslanden]] completed the conquest.
+When [[J. B. van Heutsz|Van Heutsz]] took over the Atjeh command, the [[Netherlands|Dutch]] position in the sultanate was defined by the [[Concentratie-stelsel (1884-1896)|concentratie-stelsel]] of [[1884]]-[[1896]] — the *reconcentrated* perimeter around [[Koeta Radja|Koeta Radja]] — and by the disarray following [[Toekoe Oemar's defection (1896)|the defection of Toekoe Oemar]] in [[1896]]. [[Abraham Kuyper|Kuyper]] (a.r.) later mocked the succession of systems tried before [[J. B. van Heutsz|Van Heutsz]] as "een volledige staalkaart van alle denkbare methoden om Atjeh te bestrijden" — a complete sample-card of every conceivable method of combating Atjeh. The recovery of [[Groot-Atjeh]] after the Oemar crisis was [[J. B. van Heutsz|Van Heutsz]]'s first achievement; the pursuit of the resistance chiefs to [[Pedirse|Pedir]] and thence, in [[1904]], to the [[Gajoland|Gajoe-]] and [[Alasland|Alaslanden]] completed the conquest.
 
 ### The "stelsel" of Van der Heyden-Van Heutsz
 
@@ -164,81 +188,102 @@ In January [[1917]] — by then a former governor-general — [[J. B. van Heutsz
 
 ## See Also
 
-- [[1919]]
-- [[Marechaussee]]
 - [[Aceh War]]
-- [[1902]]
-- [[Pasé-expeditie]]
-- [[Kota Radja]]
-- [[Volkslectuur]]
-- [[1904]]
-- [[1898]]
-- [[Atjéh-enquête]]
-- [[1896]]
-- [[Korte Verklaring]]
+- [[Atjeh Expedition 1873-1876]]
 - [[Pedir expedition (1900)]]
 - [[Pidië Expedition|Pidië-expeditie]]
-- [[General major Verspijk]]
-- [[1873]]
-- [[3 February]]
-- [[Tuanku Muhamat Dawot]]
-- [[1897]]
-- [[Gajoweg]]
-- [[Atjeh Expedition 1873-1876]]
-- [[J. van Swieten]]
-- [[1908]]
-- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
-- [[Aceh Railway]]
-- [[Royal Netherlands East Indies Army]]
+- [[Pasé-expeditie]]
 - [[Samalanga-expeditie]]
-- [[Governor Van der Heyden]]
-- [[Datoek]]
-- [[Oost-Indisch Journael]]
-- [[1900]]
-- [[Panglima Polem]]
-- [[1903]]
-- [[H. N. A. Swart]]
 - [[Slag bij Batèë-Ilië]]
-- [[Oom Ambon van het K.N.I.L.]]
-- [[Nederlandsch Indië Platen Atlas (1926)]]
-- [[Straits Settlements]]
 - [[Van Daalen's Gajo Expedition]]
-- [[C. Snouck Hurgronje]]
-- [[Dominee Thenu]]
-- [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[1909]]
-- [[A. W. F. Idenburg]]
-- [[J. Kreemer]]
-- [[1924]]
-- [[11 July]]
-- [[Sabang]]
 - [[Pacification of Aceh]]
-- [[Heinzenknecht]]
-- [[1907]]
-- [[Groot-Atjeh]]
-- [[Hendrikus Colijn|H. Colijn]]
-- [[Teukoe Oemar]]
+- [[Korte Verklaring]]
 - [[Heerendienst]]
+- [[Aceh Railway]]
+- [[C. Snouck Hurgronje]]
+- [[Teukoe Oemar]]
+- [[Tuanku Muhamat Dawot]]
+- [[Panglima Polem]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
+- [[H. N. A. Swart]]
+- [[A. W. F. Idenburg]]
+- [[Hendrikus Colijn|H. Colijn]]
+- [[Governor Van der Heyden]]
+- [[General major Verspijk]]
+- [[Dominee Thenu]]
 - [[Johan Wøller]]
-- [[1892]]
+- [[Heinzenknecht]]
+- [[Datoek]]
+- [[Gajoweg]]
+- [[Sabang]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Atjéh-enquête]]
+- [[Kota Radja]]
 - [[Buitengewesten]]
-- [[Van Daalen's Gajo-Alas-Batak expedition (1904)]]
-- [[Avondpost "Wekeer" articles (October 1907)]]
-- [[Alasland]]
-- [[Pedirse]]
-- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[Royal Netherlands East Indies Army]]
+- [[Marechaussee]]
+- [[Oom Ambon van het K.N.I.L.]]
+- [[Oost-Indisch Journael]]
+- [[Nederlandsch Indië Platen Atlas (1926)]]
+- [[Volkslectuur]]
+- [[J. Kreemer]]
+- [[J. van Swieten]]
+- [[Straits Settlements]]
+- [[Groot-Atjeh]]
+- [[3 February]]
+- [[11 July]]
+- [[1873]]
+- [[1892]]
+- [[1896]]
+- [[1897]]
+- [[1898]]
+- [[1900]]
+- [[1902]]
+- [[1903]]
+- [[1904]]
+- [[1907]]
+- [[1908]]
+- [[1909]]
+- [[1919]]
+- [[1924]]
+
+- [[J. H. R. Köhler]]
+- [[Jan van Swieten]]
+- [[General Vetter]]
+- [[Pacificator of Atjeh]]
+- [[Governor of Atjeh]]
+- [[Bataklanden]]
+- [[Koninklijk Nederlandsch-Indisch Leger]]
+- [[Na 1795 (1924)]]
 - [[Pacificatie van Atjeh]]
-- [[Van der Heyden]]
-- [[Koeta Radja]]
+- [[Pastoor H. C. Verbraak]]
+- [[Pedir Expedition (1898)]]
+- [[Surrender of the Atjeh pretender-sultan (1903)]]
+- [[Vierhonderd jaren missie in Nederlandsch Indië (1934)]]
+- [[Concentration system in Atjeh]]
+- [[1874]]
+- [[1903]]
+- [[Abraham Kuyper]]
+- [[Alasland]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[Avondpost "Wekeer" articles (October 1907)]]
+- [[Buitenbezittingen]]
 - [[C. Th. van Deventer]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[D. Fock]]
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
 - [[G. C. E. van Daalen]]
 - [[Gajoland]]
-- [[D. Fock]]
+- [[Koeta Radja]]
+- [[Pedirse]]
+- [[Raad van Indië]]
+- [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)]]
+- [[Toekoe Oemar's defection (1896)]]
+- [[Van Daalen's Gajo-Alas-Batak expedition (1904)]]
 - [[Van Heutsz's inspection tour of Atjeh (December 1907)]]
-- [[Toekoe Oemar]]
-- [[1917]]
-- [[Atjeh-oorlog (1873-1904)]]
 - [[Van Heutsz's report on Atjeh (June 1908)]]
+- [[Van der Heyden]]
+- [[1917]]
 
 ## Sources
 
@@ -263,6 +308,10 @@ In January [[1917]] — by then a former governor-general — [[J. B. van Heutsz
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, OCR edition (DLP-55), pp. 127–128, 149–151, 156–161, 403.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), pp. 47–48.
+
+*Vierhonderd jaren missie in Nederlandsch-Indië, 1593–1934* (Batavia: Algemeen Comité van Voorbereiding tot de Feestelijke Herdenking van 400 jaar Missie in Ned.-Indië, [1934]), p. 129 (the 1898 Pedir-expedition passage in the Verbraak sketch).
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-275, 344.
 

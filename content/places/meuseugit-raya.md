@@ -1,7 +1,7 @@
 ---
 title: Meuseugit Raya
-aliases: [The Great Mosque, Meuseugit Raya, Baiturrahman, Baitur Raheuman, Mensetigit Raya, Great Mosque of the capital, Principal Mosque of Acheh, Meuseugit Raya of Banda Acheh, Meusigit Raja, Misigit Raja, Missigit Raja, Baiturrahman Mosque, Koeta Radja mosque, Aceh capital mosque]
-tags: [place, aceh-proper, mosque, capital, banda-aceh, religious, colonial, koeta-radja]
+aliases: [The Great Mosque, Meuseugit Raya, Baiturrahman, Baitur Raheuman, Mensetigit Raya, Great Mosque of the capital, Principal Mosque of Acheh, Meuseugit Raya of Banda Acheh, Meusigit Raja, Misigit Raja, Missigit Raja, Baiturrahman Mosque, Koeta Radja mosque, Aceh capital mosque, Mesjid Raya, Great Mosque of Koeta Radja, Great Mosque of Atjeh, Missigit Raja of Koeta Radja, Atjeh great mosque, Banda Acheh great mosque]
+tags: [place, aceh-proper, mosque, capital, banda-aceh, religious, colonial, koeta-radja, religious-site, achehnese, islamic, dutch, atjeh, 19th-century, groot-atjeh]
 ---
 
 The principal mosque of [[Acheh]] at [[Kutaraja]]. The panglima of the Meuseugit Raya administered the surrounding mukims and had important political functions. During the war against the Dutch, the [[Imeum of Lueng Bata]] was said to have been fatally wounded by soldiers occupying the mosque of [[Ulee Lheue]], but the real cause of [[Teuku Asan]]'s death was traced to soldiers near this mosque. Habib Abdurrahman, upon returning from his journey to the West, worked on restoring the Meuseugit Raya. The sadati kisah mentions: 'Near the Meuseugit Raya there is a mounted warrior of great bravery who there performed tapa (penance with seclusion). He did tapa there in the olden days when our country ([[Acheh]]) began its existence...' The Panglima Meuseugit Raya appears as a relative of [[Teuku Uma]] who undertook a mission to negotiate with him regarding the release of a European captive ([[Mrs. Hansen]] / the 'nyonya') for a ransom.
@@ -66,6 +66,23 @@ The Meuseugit Raya of the capital must be distinguished from the *meuseugit raya
 
 After the loss of the Dalam and the death of [[Sultan Mahmut Shah]], the political nullity of the sultanate revealed itself in the person of the pretender [[Tuanku Muhamat Dawot]], who established himself at [[Keumala]] in [[Pidie]]. The latest product of the royal chancery translated in the book — a *sarakata* or sealed deed of appointment — is the deed of recognition of the present Panglima Meuseugit Raya by the pretender to the sultanate at Keumala. The document, like all the sultans' edicts of appointment, is composed according to established models with slight occasional modifications, and is one of the last surviving evidences of the bond that once linked the great mosque of the capital to the person of the sultan.
 
+
+## Account from *Vierhouverd jaren missie* (1934) — the colonial-built mosque and the small Catholic church
+
+The [[Vierhonderd jaren missie in Nederlandsch Indië (1934)|mission jubilee volume of 1934]] records the contrast between the small wooden Catholic church of [[Pastoor H. C. Verbraak|Verbraak]] — built from his own savings and the gifts of a few believers — and the great mosque, on which the colonial Government "*tonnen gouds*" ("tons of gold") had been spent:
+
+> *"Gezien de geringe middelen, waarmee het werk volbracht was, mocht de uitkomst alleszins bevredigend heeten, maar welk een poovere vertooning maakte dit houten hulpkerkje niettemin tegenover den weidschen Mohannedaanschen tempel, de Missigit Raja, waaraan door de regeering tonnen gouds waren besteed. Men wilde daarmee den fanatieken Atjeher beduiden, dat de Kompanie niet gekomen was om zijn geloof aan te randen en daarvoor het geld met volle handen uitgeven."*
+
+The mosque is thus explicitly identified as a colonial-built structure — built by the Government, at great expense, with the political-theological purpose of signalling to the "*fanatieken Atjeher*" ("fanatical Atjehner") that the *Kompanie* (the colonial state) had not come to assail his faith. The phrase "tons of gold" is the rhetorical measure of the asymmetry: the great mosque was a state investment, the Catholic church a private charity.
+
+### The Atjehnese priests' verdict
+
+The mission jubilee volume records the Atjehnese religious response to the colonial-built mosque — a response that subverted the colonial purpose:
+
+> *"Het resultaat was twijfelachtig, want de Atjehsche priesters kwamen tot de uitspraak dat op een moskee, door ongeloovigen gebouwd, de zegen van Allah niet kon rusten."*
+
+The Atjehnese priests' verdict — that a mosque built by unbelievers could not bear the blessing of Allah — is the documentary witness of the religious-political limits of the colonial project. The Government's investment, intended to demonstrate colonial respect for Islam, was thus nullified in the Atjehnese religious imagination by the very identity of the builder. The contrast between the great state-built mosque and the small privately-built Catholic church — fixed in the mission jubilee volume by [[S. Kalff|Kalff]]'s sketch of [[Pastoor H. C. Verbraak|Verbraak]] — is the most vivid single document of the asymmetry of the colonial religious investment in Atjeh, and a parallel to the Snouck Hurgronje judgement of the mosque as "an empty monument of our folly" recorded above.
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -102,6 +119,15 @@ After the loss of the Dalam and the death of [[Sultan Mahmut Shah]], the politic
 - [[Indrapatra]]
 - [[Eerste Atjeh-expeditie (1873)]]
 
+- [[Aceh War]]
+- [[Catholic Mission of Koeta Radja-Atjeh]]
+- [[Groot-Atjeh]]
+- [[Pastoor H. C. Verbraak]]
+- [[S. Kalff]]
+- [[Sultanate of Acheh]]
+- [[Vierhonderd jaren missie in Nederlandsch Indië (1934)]]
+- [[1885]]
+- [[1896]]
 ## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -109,3 +135,5 @@ After the loss of the Dalam and the death of [[Sultan Mahmut Shah]], the politic
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja.
+
+*Vierhonderd jaren missie in Nederlandsch-Indië, 1593–1934* (Batavia: Algemeen Comité van Voorbereiding tot de Feestelijke Herdenking van 400 jaar Missie in Ned.-Indië, [1934]), p. 128, after S. Kalff, "Een trits Indische Pastoors," in *Koloniaal Missie Tijdschrift*, Jaargang XII.
