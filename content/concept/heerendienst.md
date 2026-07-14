@@ -1,7 +1,7 @@
 ---
 title: Heerendienst
-aliases: [Corvée labour, heerendiensten, herendienst, forced labour service, the heerendienst system of the Buitenbezittingen]
-tags: [concept, colonial, dutch, labour, administration, buitenbezittingen, aceh, infrastructure, roads]
+aliases: ["Herendienst (in Atjeh)", "herendienst", "corvée (in Atjeh)", "the Atjeh corvée labour"]
+tags: [concept, colonial, dutch, labour, administration, buitenbezittingen, aceh, infrastructure, roads, acheh, ethical-politiek]
 description: "The \"heerendienst\" — the Dutch colonial corvée labour system, by which the population of the Buitenbezittingen was obliged to provide unpaid labour for public works, principally road construction, before the systematic road plan of the B.O.W. replaced it with paid labour."
 ---
 
@@ -39,18 +39,59 @@ Trial of complete *afkoop* (commutation) began in [[1919]] in landschap [[Peureu
 
 *Heerendiensten* was distinguished from *meuseuraja* — the Atjèhnese practice of mutual aid among neighbours (e.g., for agricultural work), either reciprocally or for a small food gift. *Meuseuraja* was a voluntary, reciprocal practice rooted in adat, while *heerendiensten* was a colonial imposition.
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**The Herendienst (in Atjeh)** — the corvée labour system imposed on the Atjehnese population in the post-[[Pacificatie van Atjeh|pacificatie]] period — comprised the obligation to provide *spionnen-* and *gidsendiensten* (spy- and guide-services) and other unpaid labour for the Dutch colonial administration. The system is the principal object of [[C. Th. van Deventer|Van Deventer]]'s [[1908]] parliamentary critique of the [[J. B. van Heutsz|Van Heutsz]]-[[G. C. E. van Daalen|Van Daalen]] administration of Atjeh.
+
+### The Van Deventer critique
+
+In the [[1908]] [[Tweede Kamer]] debate on the [[Van Heutsz's report on Atjeh (June 1908)|June 1908 report]] of governor-general [[J. B. van Heutsz|Van Heutsz]], [[C. Th. van Deventer|Van Deventer]] (v.d.) declared that the mishandling of the *hoofden* (chiefs) was not the principal cause of the continuing unrest in Atjeh. The cause was, rather, that "de onderwerping voor rekening van de Atjehers zelf" — the subjugation was being charged to the Atjehnese themselves:
+
+> "Men legde de bevolking zware lasten en boeten op en vorderde zelfs spionnen- en gidsendiensten als herendienst. Had [[J. B. van Heutsz|Van Heutsz]] in [[1893]] niet zelf geschreven: 'wij zitten niet in Atjeh om vliegen te vangen en maar steeds onze millioenen weg te werpen; Atjeh moet onderworpen worden, dat is de zaak, en om dit resultaat na al ons morsen en knoeien nog te erlangen moet Atjeh zelf betalen wat daarvoor voortaan nog aan dit land wordt ten koste gelegd'?"
+
+— Heavy burdens and fines were imposed on the population, and even spy- and guide-services were demanded as *herendiensten* (corvée). Had [[J. B. van Heutsz|Van Heutsz]] not written in [[1893]]: "we are not in Atjeh to catch flies and to keep throwing away our millions; Atjeh must be subjugated, that is the point, and to obtain this result after all our messing and botching Atjeh itself must pay what is henceforth to be spent on this land"?
+
+### The 1893 source
+
+The cited passage is from [[J. B. van Heutsz|Van Heutsz]]'s [[De onderwerping van Atjeh (Van Heutsz, 1893)|brochure of 1893]] — *De onderwerping van Atjeh* — and is preserved by [[W. H. Vermeulen|Vermeulen]] with the citation: "J. B. van Heutsz, De onderwerping van Atjeh, blz. 79". [[C. Th. van Deventer|Van Deventer]] suspected that governor-general [[J. B. van Heutsz|Van Heutsz]] had permitted [[G. C. E. van Daalen|Van Daalen]] to act in accordance with this [[1893]] view, and had only abandoned him when the [[Van Heutsz's inspection tour of Atjeh (December 1907)|December 1907 inspection tour]] had made the unworkability of "this harsh and grasping policy" plain.
+
+### The IJzerman defence
+
+IJzerman (u.l.) thought it unfair to pursue [[J. B. van Heutsz|Van Heutsz]] with a brochure fifteen years old. "Hebben dan alleen de grote mannen in Nederland het recht om er oude plunje op na te houden?" — Have then only the great men in the Netherlands the right to keep old clothes in the closet? Why not rejoice that [[J. B. van Heutsz|Van Heutsz]] had outgrown [[G. C. E. van Daalen|Van Daalen]]?
+
+### Significance
+
+The [[Herendienst (in Atjeh)|herendienst]] system is, in the [[W. H. Vermeulen|Vermeulen]] retrospective, the principal material burden imposed on the Atjehnese population by the post-conquest administration. The [[C. Th. van Deventer|Van Deventer]] critique of [[1908]] is the canonical liberal exposure of the contradiction between the [[Pacificatie van Atjeh|pacificatie]] rhetoric of the [[Ethische Politiek|ethical-policy]] state and the *herendienst* reality of the Atjehnese administration.
+
 ## See Also
 
-- [[Wegenplan Sumatra]]
-- [[Departement der Burgerlijke Openbare Werken]]
-- [[Buitenbezittingen]]
-- [[Atjeh en Onderhoorigheden]]
 - [[Pacificatie van Atjeh]]
-- [[1904]]
 - [[1914]]
+- [[Atjeh en Onderhoorigheden]]
+- [[Departement der Burgerlijke Openbare Werken]]
+- [[1904]]
+- [[Buitenbezittingen]]
+- [[Wegenplan Sumatra]]
+- [[1893]]
+- [[IJzerman (vrij-liberaal MP)]]
+- [[Ethische Politiek]]
+- [[1908]]
+- [[J. B. van Heutsz]]
+- [[C. Th. van Deventer]]
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[G. C. E. van Daalen]]
+- [[Van Heutsz's report on Atjeh (June 1908)]]
 
 ## Sources
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 52–56 (section "De aanleg van wegen op de Buitenbezittingen"), p. 48 (section "Het Departement der B. O. W.").
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
+
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 273-275.
+
+J. B. van Heutsz, *De onderwerping van Atjeh* (1893), p. 79.
