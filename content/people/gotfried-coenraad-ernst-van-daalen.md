@@ -1,7 +1,7 @@
 ---
 title: Gotfried Coenraad Ernst van Daalen
-aliases: [G. C. E. van Daalen, G.C.E. van Daalen, Gotfried Coenraad Ernst van Daalen, General Van Daalen, Luitenant Kolonel Van Daalen, Overste Van Daalen, Toean Obers Van Daalen, Van Daalen, Van Daalen Column, Generaal Van Daalen, Gouverneur Van Daalen, overste Van Daalen]
-tags: [person, officer, dutch, knil, marechaussee, aceh, governor, colonial, military, 19th-century, 20th-century]
+aliases: ["G. C. E. van Daalen", "Gotfried Coenraad Ernst van Daalen", "Van Daalen", "lieutenant-colonel Van Daalen", "the Van Daalen of the Gajo-Alas expedition"]
+tags: [person, officer, dutch, knil, marechaussee, aceh, governor, colonial, military, 19th-century, 20th-century, acheh]
 description: "Dutch colonial officer, Marechaussee commander, and Governor of Aceh (1905–1908) whose Gayo-Alas campaign of 1904 completed the military pacification of Aceh but whose harsh civil governorship provoked the Atjéh-enquête."
 ---
 
@@ -75,45 +75,96 @@ In October [[1905]], Van Daalen reformed the *Hasil-reglement* by Bt. 23 October
 
 Van Daalen established the first **moekimschool** (village school) in [[1907]], with an initial enrolment of 38 pupils. He also introduced the *voorschotten* (advances) scheme in [[1908]], providing ƒ60,000 to Acehnese *oelèëbalang*'s and landschapskassen as advances on future revenue — a scheme his successor [[H. N. A. Swart|Swart]] would oppose and eventually discontinue.
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**G. C. E. van Daalen** — Gotfried Coenraad Ernst van Daalen — was the Dutch lieutenant-colonel (later general) whose [[Van Daalen's Gajo-Alas-Batak expedition (1904)|expedition to the Gajoe-, Alas- and Bataklanden]] in [[1904]] was the bloodiest single episode of the post-[[Toekoe Oemar's defection ([[1896]])|Oemar]] phase of the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]], and whose subsequent tenure as governor and military commander of Atjeh ([[1905]]-[[1907]]) was brought to an end by the [[Avondpost "Wekeer" articles (October 1907)|"Wekeer" affair]] of October [[1907]] and the [[Van Heutsz's report on Atjeh (June 1908)|harsh report]] of governor-general [[J. B. van Heutsz|Van Heutsz]] in June [[1908]].
+
+### The 1904 expedition
+
+In [[1904]] [[G. C. E. van Daalen|Van Daalen]] led the expedition to the [[Gajoland|Gajoe-]], [[Alasland|Alas-]] and [[Bataklanden|Bataklanden]] that, in the official framing, was to have begun "bespreking van wederzijdse belangen" — discussion of mutual interests — with the inland chiefs. In practice it became a campaign of annihilation. According to the official figures cited by [[W. H. Vermeulen|Vermeulen]], 2,922 inlanders — among them 1,149 women and children — were killed "in weinige dagen" — in a few days. The expedition "verstoorde echter reeds zeer spoedig de illusie van de naderende vrede" — shattered very soon the illusion of approaching peace — that [[H. B. van Kol|Van Kol]]'s [[Van Kol's 1902 traverse of Atjeh|1902 traverse]] of Atjeh had encouraged.
+
+### Parliamentary reactions
+
+[[H. B. van Kol|Van Kol]] (s.d.) declared the expedition "erger dan de dagen van Alva's schrikbewind" — worse than the days of Alva's reign of terror. The Catholic [[J. K. J. de Stuers|De Stuers]] went further back into history and compared it to the campaigns of [[Timoer Lenk]] and [[Djengis Khan]]: "Het is of men op de inlanders een bende bloedhonden heeft losgelaten, het is beulenwerk". [[J. K. J. de Stuers|De Stuers]]' conclusion echoed that of [[I. D. Fransen van de Putte|Fransen van de Putte]]: "Laten wij beschaving brengen, maar niet door middel van bloedbaden! Wat is daarvoor dan nodig? Eén ding. Geduld. Dat nu ontbreekt".
+
+The comparison went, in [[W. H. Vermeulen|Vermeulen]]'s verdict, "zo ver buiten de voor een afgevaardigde van één der regeringspartijen gebruikelijke vormen van kritiek" — so far beyond the forms of criticism customary for a representative of one of the governing parties — that [[J. K. J. de Stuers|De Stuers]] was openly and solemnly *gedesavoueerd* — disavowed — by his fractieleider Kolkman. The members of the [[Van Daalen's Gajo-Alas-Batak expedition (1904)|expedition]], meanwhile, had received 148 decorations — including 44 military Willemsorden — for "180 bajonetten" (it was actually about 230); a generosity that [[J. K. J. de Stuers|De Stuers]] found "wat overdadig".
+
+### Appointment as governor of Atjeh
+
+In [[1905]] [[G. C. E. van Daalen|Van Daalen]] was appointed *militair commandant en gouverneur van Atjeh*. The [[Raad van Indië]] had recommended Colonel Swart, but governor-general [[J. B. van Heutsz|Van Heutsz]] persuaded the minister to appoint [[G. C. E. van Daalen|Van Daalen]] instead. According to testimony preserved in *Schets eener parlementaire geschiedenis*, [[J. B. van Heutsz|Van Heutsz]] said to him: "Ga je gang, ik vertrouw je. Ge hebt goede en kwade eigenschappen; ik geef u die post en als gij nu maar zorgt, dat er geen gedonder komt dan kunt gij zolang uw gang gaan, maar als het aan de grote klok komt dan voor jou een ander".
+
+### The "Wekeer" affair
+
+Under the pseudonym "Wekeer" — a *maréchaussée*-officer from Atjeh — a series of articles appeared in *[[De Avondpost]]* in October [[1907]] detailing needless cruelties allegedly committed against the Atjehnese population, "toegelaten zo niet aangemoedigd door Van Daalen". Minister [[D. Fock|Fock]] advised the chambermembers not to waste their time on these articles; the governor-general, he said, had full confidence in [[G. C. E. van Daalen|Van Daalen]]. The inspection tour [[Van Heutsz's inspection tour of Atjeh (December 1907)|Van Heutsz undertook]] the same month proved otherwise: in December [[1907]] [[G. C. E. van Daalen|Van Daalen]] submitted his resignation.
+
+### The Van Heutsz report
+
+The report of [[Van Heutsz's report on Atjeh (June 1908)|June 1908]] was harsh. "Hij heeft het beginsel van de pacificatie miskend. Hij heeft een verkeerde politiek gevoerd tegenover de hoofden, aan wie een onheuse bejegening ten deel viel. Hij heeft het goedgezinde deel der bevolking tussen twee vuren geplaatst". The principle that [[G. C. E. van Daalen|Van Daalen]] had applied to the chiefs was, in the report's paraphrase: "Gij kunt die kerels niet vertrouwen, gij moet ze ook niet vertrouwen, gij moet ze slaan en drukken en dan zullen ze u gehoorzamen" — you cannot trust those fellows, you must not trust them, you must beat them and press them and then they will obey you. [[A. W. F. Idenburg|Idenburg]] — minister of Colonies — conceded that the view "nog zo gek niet was" — was not so foolish — but held that it belonged to the time of conquest rather than to the period of *pacificatie*. The report did, however, acknowledge that [[G. C. E. van Daalen|Van Daalen]] had acted vigorously against the specific atrocities for which he had been arraigned in *[[De Avondpost]]*.
+
+### Significance
+
+The fall of [[G. C. E. van Daalen|Van Daalen]] in [[1907]]-[[1908]] is the political climax of the post-conquest period of Atjehnese history. His tenure as governor exposed the contradiction between the [[Pacificatie van Atjeh|pacificatie]] rhetoric of [[J. B. van Heutsz|Van Heutsz]] and the practices that conquest had institutionalised; his removal cleared the way for the more conciliatory administration that [[J. B. van Heutsz|Van Heutsz]]'s [[Van Heutsz's report on Atjeh (June 1908)|June 1908 report]] installed.
+
 ## See Also
 
-- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[1905]]
 - [[Aceh War]]
-- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
-- [[H. N. A. Swart|Governor Swart]]
+- [[1906]]
+- [[1904]]
+- [[Gajoland|Gajöland]]
 - [[Atjéh-enquête]]
-- [[C. Snouck Hurgronje|Snouck Hurgronje]]
-- [[Hendrikus Colijn|H. Colijn]]
-- [[Wekker articles]]
+- [[1910]]
 - [[Korte Verklaring]]
 - [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[1908]]
 - [[Slavernij abolition in Gajö- and Alaslanden (1904)]]
-- [[Gajoland|Gajöland]]
-- [[Alaslanden|Alasland]]
+- [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[Kédjoerön Bédén]]
-- [[van Daalengebergte]]
-- [[Pidie]]
-- [[Lho' Seumawe]]
-- [[Sabang]]
 - [[Tarotoung]]
-- [[Tapanoeli]]
+- [[Royal Netherlands East Indies Army]]
 - [[Oost-Indisch Journael]]
 - [[Datoek]]
-- [[Musket]]
-- [[Gilles Graafland]]
-- [[Royal Netherlands East Indies Army]]
-- [[Korps Marechaussee van Atjeh en Onderhorigen]]
 - [[Wasé oelèëbalang]]
-- [[Hasil-reglement]]
+- [[Alaslanden|Alasland]]
+- [[Lho' Seumawe]]
 - [[Moekimschool]]
 - [[Groot-Atjèhsche Afdeelingsbank]]
-- [[1904]]
-- [[1905]]
-- [[1906]]
-- [[1907]]
-- [[1908]]
-- [[1910]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
 - [[1930]]
+- [[H. N. A. Swart|Governor Swart]]
+- [[Pidie]]
+- [[Sabang]]
+- [[van Daalengebergte]]
+- [[Tapanoeli]]
+- [[1907]]
+- [[Wekker articles]]
+- [[Musket]]
+- [[Hasil-reglement]]
+- [[Hendrikus Colijn|H. Colijn]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
+- [[Gilles Graafland]]
+- [[Van Daalen's resignation (December 1907)]]
+- [[Van Daalen's Gajo-Alas-Batak expedition (1904)]]
+- [[Bataklanden]]
+- [[J. K. J. de Stuers]]
+- [[Avondpost "Wekeer" articles (October 1907)]]
+- [[Alasland]]
+- [[Pacificatie van Atjeh]]
+- [[Swart (colonel, Atjeh)]]
+- [[Raad van Indië]]
+- [[H. B. van Kol]]
+- [[Gajoland]]
+- [[A. W. F. Idenburg]]
+- [[D. Fock]]
+- [[Van Heutsz's inspection tour of Atjeh (December 1907)]]
+- [[De Avondpost]]
+- [[J. B. van Heutsz]]
+- [[Van Heutsz's report on Atjeh (June 1908)]]
 
 ## Sources
 
@@ -126,3 +177,5 @@ Van Daalen established the first **moekimschool** (village school) in [[1907]], 
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 271-274.
