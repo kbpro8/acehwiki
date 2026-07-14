@@ -1,7 +1,7 @@
 ---
 title: Hendrikus Colijn
-aliases: [Colijn, Hendrikus Colijn, Hendrik Colijn, Captain Colijn, H. Colijn, kapitein Colijn, Kapitein Colijn, Minister Colijn, Marechaussee commander Colijn, Toean Colijn, De eerste Adviseur voor de Bestuurszaken der Buitenbezittingen, eerste Adviseur voor de Bestuurszaken]
-tags: [person, officer, dutch, knil, marechaussee, aceh, colonial, military, administrator, politician, minister, buitenbezittingen]
+aliases: ["Hendrikus Colijn", "Colijn", "Hendrikus Colijn as minister of Oorlog", "Colijn (Atjeh veteran)"]
+tags: [person, officer, dutch, knil, marechaussee, aceh, colonial, military, administrator, politician, minister, buitenbezittingen, acheh]
 description: "Dutch military officer, colonial administrator, and Prime Minister of the Netherlands (1925–1926, 1933–1939), who served as a young officer in Aceh, accepted the surrender of the Sultan's commander-in-chief Panglima Prang Polim, and became the first Adviseur voor de Bestuurszaken der Buitenbezittingen in 1908."
 ---
 
@@ -51,59 +51,88 @@ Colijn left the colonial service in [[1909]] to enter Dutch politics. He became 
 
 Colijn's combination of military experience, administrative skill, and political acumen made him one of the most influential figures in the transition from the Aceh War to the era of consolidation and ethical governance. His early warnings about Van Daalen were vindicated by the Atjéh-enquête, and his subsequent political career ensured that the principles of the "ethical policy" were carried forward into the twentieth century. In the narrative of *Oom Ambon van het K.N.I.L.*, his reception of the Sultan's own army commander is the moment at which the formal Acehnese political establishment passed under Dutch authority — the commander of the Sultan's own army came in to a young Dutch *kapitein* who would, decades later, become the Prime Minister of the colonial power. In the wider frame of Merac's *Oost-Indisch Journael*, the same man is one of the Marechaussee commanders whose name "rang through the Indies like carillon music" — the only one of Musket's roll-call whose colonial career carried him all the way to the Prime Ministership of the Netherlands.
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**Hendrikus Colijn** ([[1869]]-[[1944]]) — a Dutch Anti-Revolutionary politician and a former Atjeh veteran — served as minister of War (*minister van Oorlog*) in the [[W. H. Vermeulen|Vermeulen]]-period [[Tweede Kamer]] and is cited in *Schets eener parlementaire geschiedenis* as one of the right-wing figures whom the anti-revolutionary [[Abraham Kuyper|Kuyper]]-[[Heemskerk]] ministries of the post-[[1909]] period "moesten afstaan" — had to surrender — to the cabinet. His presence in the cabinet links the [[Pacificatie van Atjeh|pacificatie]] era to the post-[[1918]] colonial-policy debates.
+
+### Atjeh veteran
+
+Before entering politics [[Hendrikus Colijn|Colijn]] had served as a young military officer in the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]], where he acquired the field experience that would later inform his conduct as minister of War. The Atjehnese war was the formative military experience of his generation of Dutch colonial officers; in the [[W. H. Vermeulen|Vermeulen]] narrative the same experience shaped [[J. B. van Heutsz|Van Heutsz]] and [[G. C. E. van Daalen|Van Daalen]] on the one hand, and the liberal parliamentary critic [[H. C. Thomson|Thomson]] on the other.
+
+### Minister of War
+
+In the cabinet of the [[W. H. Vermeulen|Vermeulen]] period [[Hendrikus Colijn|Colijn]] served as minister of War. The post involved him directly in the defence-of-the-Indies debates that, in the wake of the [[Pacificatie van Atjeh|pacificatie]] and during the First World War, preoccupied the [[Tweede Kamer]]. [[W. H. Vermeulen|Vermeulen]]'s parenthetical note that the right-wing parties "hun mannen moesten afstaan" — had to surrender their men — to the wartime cabinets refers, in part, to the assignment of [[Hendrikus Colijn|Colijn]] to the War portfolio.
+
+### Significance
+
+[[Hendrikus Colijn|Colijn]]'s career connects the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]] generation of Dutch military officers to the post-war colonial-policy debates of the [[Ethische Politiek|ethical-policy]] state. His presence in the [[Heemskerk]] and subsequent cabinets is one of the conduits by which the lessons of the Atjehnese pacification were carried forward into the Indies-defence debates of [[1913]]-[[1918]].
+
 ## See Also
 
-- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
-- [[A. W. F. Idenburg]]
-- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
-- [[H. N. A. Swart]]
-- [[C. Snouck Hurgronje|Snouck Hurgronje]]
+- [[G. F. B. Watrin|Watrin]]
+- [[Aceh War]]
+- [[Salowono]]
+- [[Alaslanden]]
+- [[Djambi]]
+- [[1904]]
+- [[Geertsema Beckering]]
+- [[Scheepens]]
 - [[Atjéh-enquête]]
 - [[Pacificatie van Atjeh]]
-- [[Aceh War]]
-- [[Korte Verklaring]]
-- [[Adviseur voor de Bestuurszaken der Buitenbezittingen]]
-- [[Bureau voor de Bestuurszaken der Buitenbezittingen]]
-- [[Encyclopaedisch Bureau]]
-- [[Departement van Binnenlandsch Bestuur]]
-- [[Buitenbezittingen]]
-- [[Lho' Seumawe]]
-- [[Lhokseumawe]]
-- [[Alaslanden]]
-- [[Tapanoeli]]
-- [[Djambi]]
-- [[Batêê Iliê]]
-- [[Panglima Polem|Panglima Prang Polim]]
-- [[Panglima Polem]]
-- [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
-- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
-- [[Oost-Indisch Journael]]
-- [[Musket]]
-- [[Gilles Graafland]]
-- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
-- [[Campioni]]
-- [[Christoffel]]
-- [[Van der Maaten]]
-- [[Scheepens]]
-- [[G. F. B. Watrin|Watrin]]
-- [[Webb]]
-- [[Geertsema Beckering]]
-- [[Darlang]]
-- [[Nussy]]
-- [[Salowono]]
 - [[Pongoh]]
-- [[1890s]]
-- [[1894]]
-- [[1901]]
-- [[1903]]
-- [[1904]]
-- [[1907]]
+- [[Korte Verklaring]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
+- [[Bureau voor de Bestuurszaken der Buitenbezittingen]]
+- [[Van der Maaten]]
+- [[Campioni]]
+- [[Webb]]
+- [[Nussy]]
+- [[Adviseur voor de Bestuurszaken der Buitenbezittingen]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 - [[1908]]
-- [[1909]]
-- [[1911]]
 - [[1925]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
+- [[Panglima Polem|Panglima Prang Polim]]
+- [[Buitenbezittingen]]
+- [[1911]]
 - [[1933]]
+- [[Lhokseumawe]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
+- [[Oost-Indisch Journael]]
 - [[1944]]
+- [[Encyclopaedisch Bureau]]
+- [[Panglima Polem]]
+- [[Lho' Seumawe]]
+- [[H. N. A. Swart]]
+- [[1903]]
+- [[Departement van Binnenlandsch Bestuur]]
+- [[1909]]
+- [[A. W. F. Idenburg]]
+- [[1901]]
+- [[Darlang]]
+- [[1890s]]
+- [[Tapanoeli]]
+- [[Batêê Iliê]]
+- [[Christoffel]]
+- [[Musket]]
+- [[1907]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
+- [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
+- [[1894]]
+- [[Gilles Graafland]]
+- [[J. H. de Waal Malefijt]]
+- [[Ethische Politiek]]
+- [[Heemskerk (first minister)]]
+- [[H. C. Thomson]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[J. B. van Heutsz]]
+- [[G. C. E. van Daalen]]
+- [[1899]]
+- [[1913]]
 
 ## Sources
 
@@ -116,3 +145,5 @@ Colijn's combination of military experience, administrative skill, and political
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Voorwoord, frontispiece portraits, and p. 3 (Bestuurs-organisatie).
+
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), p. 266.
