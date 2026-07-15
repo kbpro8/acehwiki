@@ -1,7 +1,7 @@
 ---
 title: Sumatra-tractaat (1871)
-aliases: ["Sumatra-tractaat (1871)", "Sumatra-tractaat", "Sumatra Treaty of 1871", "Anglo-Dutch Treaty of 1871 (Sumatra)", "Anglo-Dutch Sumatra Treaty"]
-tags: ["document", "treaty", "diplomacy", "colonial", "dutch", "british", "acheh"]
+aliases: ["Sumatra-tractaat (1871)", "Sumatra-tractaat", "Sumatra Treaty of 1871", "Anglo-Dutch Treaty of 1871 (Sumatra)", "Anglo-Dutch Sumatra Treaty", "the 1871 Sumatra-tractaat"]
+tags: [document, treaty, diplomacy, colonial, dutch, british, acheh]
 ---
 
 **The Sumatra-tractaat (1871)** — the Sumatra Treaty of [[1871]] — was the Anglo-Dutch treaty by which [[Great Britain|England]] agreed that the whole of [[Sumatra]] — including the independent [[Acheh|Atjeh]] sultanate — would fall within the [[Netherlands|Dutch]] sphere of influence, in exchange for the concession to British subjects of the same commercial rights throughout [[Sumatra]] as those enjoyed by Dutch subjects. The treaty is the diplomatic hinge on which the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]] turns; its conclusion is the proximate cause of the [[Declaration of war against the Sultan of Atjeh (1873)|declaration of war on Atjeh]] of [[1873]].
@@ -30,23 +30,56 @@ When the [[Declaration of war against the Sultan of Atjeh (1873)|vijandelijkhede
 
 The [[Sumatra-tractaat ([[1871]])|Sumatra-tractaat]] of [[1871]] is the diplomatic instrument by which the [[Netherlands]] secured international recognition of its claim to Atjeh. Without the treaty, the [[Declaration of war against the Sultan of Atjeh (1873)|declaration of war of 1873]] would have risked British intervention; with the treaty, the war became a purely Dutch affair. The treaty is, accordingly, the indispensable diplomatic precondition of the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]].
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**The Sumatra-tractaat (1871)** was the Anglo-Dutch treaty by which the [[Netherlands]] ceded its possessions on the coast of [[Nieuw Guinea|Guinea]] to [[Great Britain|Britain]] in exchange for a free Dutch hand on [[Sumatra]]. The treaty superseded the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1824]]'s impossible double commitment to respect Atjehnese independence while suppressing Atjehnese piracy. Conquest of [[Acheh|Atjeh]] was, the source insists, "nog niet gedacht" (not yet contemplated) in [[1871]]; only the suppression of piracy was intended.
+
+### The treaty
+
+The source records: "In 1871 werd door de Nederlandse Regering met Groot-Brittannië een tractaat gesloten, waarbij onze bezittingen aan de kust van Guinea aan Engeland werden afgestaan en dit land ons de vrije hand liet op Sumatra" (In 1871 a treaty was concluded between the Dutch government and Great Britain, by which our possessions on the coast of Guinea were ceded to England, and that country gave us a free hand on Sumatra). The [[Sumatra-tractaat (1871)|Sumatra-tractaat of 1871]] is the diplomatic instrument by which the [[Netherlands]] freed itself from the [[Anglo-Dutch Treaty of 1824|1824 undertaking]] to respect Atjehnese independence.
+
+### The narrow framing
+
+The source is explicit that, in [[1871]], conquest of Atjeh was not yet contemplated: "Aan verovering van Atjeh werd nog niet gedacht, alleen aan onderdrukking van zeeroof" (Conquest of Atjeh was not yet contemplated, only the suppression of piracy). The [[1871]] treaty was, on the Dutch reading, a narrowly anti-piracy instrument. The [[1872]] announcement of a Dutch envoy's visit to the [[Sultan of Acheh|Sultan of Atjeh]] — to negotiate a new treaty — was consistent with this reading.
+
+### The slide to conquest
+
+The slide from suppression to conquest was, however, already implicit in the [[1871]] treaty. The [[1872]] Atjehnese request for postponement, the Atjehnese chiefs' visits to the Italian and American consuls in [[Singapore]], and the unsatisfactory response of the [[Sultan of Acheh|Sultan of Atjeh]] to the Dutch demand for clarification together produced the [[Declaration of war against the Sultan of Atjeh (1873)|declaration of war of 26 March 1873]].
+
+### Significance
+
+The [[Sumatra-tractaat (1871)|Sumatra-tractaat of 1871]] is the diplomatic instrument by which the [[Netherlands]] freed its hand on [[Sumatra]] and superseded the impossible double commitment of the [[Anglo-Dutch Treaty of 1824|1824 undertaking]]. Without the [[1871]] treaty, the [[Declaration of war against the Sultan of Atjeh (1873)|1873 declaration of war]] would have risked British intervention; with the [[1871]] treaty, the war became a purely Dutch affair.
+
 ## See Also
 
-- [[Atjeh-oorlog (1873-1904)]]
-- [[Declaration of war against the Sultan of Atjeh (1873)]]
 - [[P. P. van Bosse]]
-- [[W. J. van Welderen Rengers]]
-- [[Troelstra]]
-- [[H. B. van Kol]]
-- [[Acheh]]
-- [[Sumatra]]
+- [[Declaration of war against the Sultan of Atjeh (1873)]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[Great Britain]]
 - [[Soezkanaal]]
 - [[Straat Malakka]]
-- [[Great Britain]]
+- [[Troelstra]]
 - [[1871]]
+- [[H. B. van Kol]]
+- [[Sumatra]]
 - [[1873]]
+- [[Acheh]]
 - [[1897]]
+- [[W. J. van Welderen Rengers]]
+- [[1872]]
+- [[Sultan of Acheh]]
+- [[Singapore]]
+- [[Atjehoorlog]]
+- [[Anglo-Dutch Treaty of 1824]]
+- [[Nieuw Guinea]]
+- [[1824]]
 
-## Source
+## Sources
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 267-269, 276.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 209, 216.
