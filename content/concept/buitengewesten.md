@@ -1,7 +1,7 @@
 ---
 title: Buitengewesten
-aliases: [buitengewesten, outer territories, buitengebieden, Buitenbezittingen, Outer Possessions, de Buitengewesten]
-tags: [concept, term, colonial, knil, administrative-division, dutch, geography, policy, achehnese-history]
+aliases: ["Buitengewesen", "Buitengewesten", "the Outer Territories", "Buitenbezittingen"]
+tags: [concept, term, colonial, knil, administrative-division, dutch, geography, policy, achehnese-history, place, acheh, administrative]
 description: "The Buitengewesten (Outer Territories) were all parts of the Dutch East Indies outside Java and Madura. The pacification of these territories, including Atjeh, was completed under Governor-General Van Heutsz, and their infrastructure development was a major colonial priority by 1926."
 ---
 
@@ -49,36 +49,72 @@ The *buitengewesten* are significant in *[[Oom Ambon van het K.N.I.L.]]* as the 
 
 The *Nederlandsch Indië Platen Atlas* ([[1926]]) further underscores the importance of the Buitengewesten in the official colonial reckoning. By that year, the transformation of the Outer Territories was sufficiently advanced that the atlas could boast of automobile travel from [[Kota Radja]] in Atjeh to [[Padang]], and the expansion of the Atjeh and Deli railway networks. The shift from the *onthoudingspolitiek* to an active policy of pacification — completed under [[Joannes Benedictus van Heutsz|Governor Van Heutsz]] — was presented as the defining achievement of the latest phase of Dutch colonial history.
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**Buitengewesten** — the Outer Territories — was the [[Netherlands|Dutch]] colonial-administrative term for the islands and regions of the [[Nederlandsch-Indië|Nederlandsch-Indië]] outside [[Java]] and [[Madoera|Madoera]]. In the source's narrative, the *buitengewesten* are the principal theatre of the post-[[1890s]] extension of Dutch effective authority — the [[Atjehoorlog|Atjehoorlog]] of [[1873]]-[[1904]] on [[Sumatra|Sumatra]], the [[1894]] Lombok expedition, and the subsequent consolidation under [[J. B. van Heutsz|Van Heutsz]] and his successors.
+
+### The post-Atjeh consolidation
+
+The source's verdict on the post-[[1904]] period is direct: "Na beëindiging van de Atjeh-oorlog werd het daadwerkelijk gezag in de gehele archipel zonder veel moeite gevestigd en gehandhaafd" (After the end of the Atjeh war, effective authority in the entire archipelago was established and maintained without much difficulty). The archipelago — with the exception of "de nog ondoorzochte wildernissen van Nieuw Guinea" (the still-unsurveyed wildernesses of New Guinea) — could now be traversed safely without special protection. The post-[[1904]] period thus opened with a security situation fundamentally different from that of the preceding half-century.
+
+### The korte verklaring
+
+[[J. B. van Heutsz|Van Heutsz]] had, "in samenwerking met Snouck Hurgronje" (in cooperation with Snouck Hurgronje), drawn up the so-called [[Korte verklaring|korte verklaring]] — the short declaration required of submitted chiefs in the *buitengewesten*. The declaration, whose three points bound the signatory to recognise his territory as part of [[Nederlandsch-Indië|Nederlandsch-Indië]], to be loyal to the Queen and the governor-general, and to comply with all regulations and orders, was eventually signed by 261 chiefs of self-governing territories in the *buitengewesten*.
+
+### The 1822 Bali and Lombok residency
+
+The source records that "In 1822 was een residentie Bali en Lombok ingesteld" (In 1822 a residency Bali and Lombok was established). The [[1822]] establishment of the Bali-Lombok residency is, in the source's narrative, the institutional precursor of the post-[[1904]] consolidation: a *buitengewesten* residency established half a century before the Atjeh war began, but not converted into effective authority until the post-[[1894]] Lombok expedition.
+
+### Significance
+
+[[Buitengewesten|Buitengewesten]] is, in the source's narrative, the principal theatre of the post-[[1890s]] extension of Dutch effective authority. The [[Atjehoorlog|Atjehoorlog]] of [[1873]]-[[1904]] is the central episode of this extension; the [[Korte verklaring|korte verklaring]] is its principal administrative instrument.
+
 ## See Also
 
-- [[K.N.I.L.]]
-- [[Korps Marechaussee van Atjeh en Onderhorigen]]
-- [[Bivak]]
-- [[Bekas]]
-- [[Dardanellen]]
-- [[Atjeh-oorlog]]
-- [[Buitenbeurt]]
-- [[Bangsa]]
-- [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
+- [[1926]]
+- [[Nederlandsch Indië Platen Atlas (1926)]]
 - [[Java]]
-- [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
-- [[Pacification of Atjeh]]
+- [[1896]]
+- [[Bangsa]]
 - [[Kota Radja]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Atjeh-oorlog]]
+- [[K.N.I.L.]]
+- [[Pacification of Atjeh]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
+- [[Korps Marechaussee van Atjeh en Onderhorigen]]
+- [[1904]]
+- [[1909]]
+- [[Dardanellen]]
 - [[Aceh Railway]]
 - [[Onthoudingspolitiek]]
-- [[Volkslectuur]]
-- [[Nederlandsch Indië Platen Atlas (1926)]]
-- [[1873]]
-- [[1896]]
-- [[1898]]
-- [[1904]]
 - [[1905]]
-- [[1909]]
-- [[1926]]
+- [[Volkslectuur]]
+- [[1898]]
+- [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
+- [[Bivak]]
+- [[1873]]
+- [[Bekas]]
+- [[Buitenbeurt]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh en Onderhorigheden]]
+- [[1822]]
+- [[Atjehoorlog]]
+- [[Nederlandsch-Indië]]
+- [[1894]]
+- [[Korte verklaring]]
+- [[J. B. van Heutsz]]
+- [[Nieuw Guinea]]
+- [[Dr. C. Snouck Hurgronje]]
 
 ## Sources
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Van recruut tot pensioen" and chapter "De buitenpost."
 
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter III (Gezagvoering), pp. 54, 56; Chapter IX (Verkeer), pp. 160, 165, 168.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 217-219, 238.
