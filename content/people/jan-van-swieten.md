@@ -1,7 +1,7 @@
 ---
 title: Jan van Swieten
-aliases: ["Van Swieten", "J. van Swieten", "Jan van Swieten", "General Van Swieten", "Generaal Van Swieten", "Lieutenant-general Van Swieten", "Lieutenant-colonel Van Swieten", "General", "Conqueror of the Acehnese Van Swieten", "war-hero Van Swieten", "Van Swieten (Atjeh)", "Jan van Swieten commander Second Aceh Expedition"]
-tags: [person, general, dutch, military, colonial, knil, aceh-war, bali-expedition, 19th-century, infantry, achehnese]
+aliases: ["Van Swieten", "J. van Swieten", "Jan van Swieten", "General Van Swieten", "Generaal Van Swieten", "Lieutenant-general Van Swieten", "Lieutenant-colonel Van Swieten", "General", "Conqueror of the Acehnese Van Swieten", "war-hero Van Swieten", "Van Swieten (Atjeh)", "Jan van Swieten commander Second Aceh Expedition", "generaal Van Swieten", "Van Swieten (Atjeh commander)"]
+tags: [person, general, dutch, military, colonial, knil, aceh-war, bali-expedition, 19th-century, infantry, achehnese, acheh]
 description: "Dutch lieutenant-general (1807–1888) who commanded the Second Aceh Expedition of 1873–1874, presided over the capture of the Kraton and the proclamation of annexation of Groot-Atjeh, and earlier in his career negotiated the Treaty of 30 March 1857 with the Sultan of Aceh and took command of the third Bali expedition of 1849."
 ---
 
@@ -71,56 +71,85 @@ Van Swieten's expedition marked the first successful Dutch occupation of Aceh's 
 
 Van Swieten's significance for the encyclopedia of [[Acheh|Achehnese]] history lies principally in two acts. First, his capture of the [[Kraton of Aceh|Kraton]] on [[24 January]] [[24 January]] [[1874]] is the principal Dutch military success of the [[Aceh War|Atjeh-oorlog]]'s opening phase — the act that transformed the war from a punitive expedition into a conquest. Second, his [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[31 January]] [[31 January]] [[1874]] is the formal founding document of the colonial administration of Atjeh, the legal basis on which all subsequent Dutch governance of the territory rested. His name, together with [[Köhler|Köhler]] and [[Van Heutsz|Van Heutsz]], is one of the three mnemonic pegs of the Dutch schoolroom memory of the Atjeh war.
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**General Van Swieten** — generaal Van Swieten — was the [[Netherlands|Dutch]] commander of the second military expedition against [[Acheh|Atjeh]], which landed in December [[1873]] with 8,000 men. After a bombardment of the "versterkte vorstenverblijf" (fortified royal residence), the residence was surrounded; it proved to have been abandoned. By Van Swieten's proclamation, [[Groot-Atjeh|Groot-Atjeh]] was declared government territory; the fortified kraton was renamed "[[Koeta Radja|Kota-Radja]]".
+
+### The second Atjeh expedition
+
+The source records: "In December van hetzelfde jaar landde een tweede legermacht, 8000 man sterk, onder generaal Van Swieten. Na een bombardement van het vorstenverblijf werd dit omsingeld; het bleek verlaten" (In December of the same year a second army, 8,000 strong, under general Van Swieten, landed. After a bombardment of the royal residence it was surrounded; it proved to have been abandoned). The [[General Van Swieten|Van Swieten]] expedition was thus, in form, the reversal of the [[General Köhler|Köhler]] defeat of April [[1873]].
+
+### The Groot-Atjeh proclamation
+
+[[General Van Swieten|Van Swieten]]'s proclamation of [[Groot-Atjeh|Groot-Atjeh]] as government territory is the first formal Dutch annexation of Atjehnese land. The fortified kraton of the [[Sultan of Acheh|Sultan of Atjeh]] was renamed "[[Koeta Radja|Kota-Radja]]" — "Fort City" or "Royal Fort" — a name that would, in the Dutch period, become the principal seat of the colonial administration of [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]]. The renaming is the symbolic act by which the sultanate was, in Dutch eyes, superseded.
+
+### The overestimated result
+
+The source's verdict on [[General Van Swieten|Van Swieten]]'s achievement is direct: "Het bereikte resultaat werd ver overschat" (The achieved result was greatly overestimated). [[General Van Swieten|Van Swieten]] returned with the main force to [[Batavia]], leaving 3,000 men under [[Pel|Pel]] to bring the chiefs to submission by amicable arrangement. The Atjehnese, "die zich volstrekt niet verslagen gevoelden" (who did not feel themselves at all defeated), soon resumed their attacks. The pattern — formal annexation, declaration of victory, withdrawal of the main force, resumption of Atjehnese resistance — would prove characteristic of the entire war.
+
+### Significance
+
+[[General Van Swieten|Van Swieten]]'s [[1873]] expedition is the formal beginning of Dutch territorial administration in Atjeh. The [[Koeta Radja|Kota-Radja]] renaming, the [[Groot-Atjeh|Groot-Atjeh]] annexation, and the [[Pel|Pel]] interlude together set the pattern for the next thirty-one years: formal Dutch declarations of sovereignty alternating with persistent Atjehnese resistance.
+
 ## See Also
 
-- [[Second Aceh Expedition (1873-1874)]]
-- [[First Aceh Expedition (1873)]]
+- [[Kloenkoeng]]
 - [[Capture of the Kraton (24 January 1874)]]
-- [[Van Swieten's Proclamation of 31 January 1874]]
-- [[Treaty of 30 March 1857 with the Sultan of Aceh]]
-- [[Meusigit Raja]]
+- [[K. van der Heyden]]
+- [[Sagi]]
+- [[G. M. Verspyck]]
+- [[Kutaradja]]
+- [[G. B. T. Wiggers van Kerchem]]
+- [[24 January]]
 - [[Bali Expedition]]
+- [[Toekoe Nek Radja Moeda Setia]]
+- [[Geconcentreerde Linie]]
+- [[1807]]
+- [[Na 1795 (1924)]]
+- [[General Kaler]]
+- [[Aceh War]]
+- [[1888]]
+- [[1857]]
+- [[Kota Radja]]
+- [[31 January]]
+- [[First Aceh Expedition (1873)]]
+- [[Meusigit Raja]]
+- [[1849]]
+- [[A. J. E. Diemont]]
+- [[1876]]
+- [[Van Swieten's Proclamation of 31 January 1874]]
+- [[Padang Cove]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
+- [[Kasoemba]]
+- [[J. F. Nieuwenhuizen]]
 - [[Sumatra's Westkust]]
 - [[J. L. J. H. Pel]]
-- [[G. M. Verspyck]]
-- [[J. H. R. Köhler]]
-- [[General Kaler]]
-- [[General-Major Michiels]]
-- [[J. F. Nieuwenhuizen]]
-- [[Toekoe Nek Radja Moeda Setia]]
-- [[Mas Soemo Widikdjo]]
-- [[C. Snouck Hurgronje|Snouck Hurgronje]]
-- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
-- [[A. J. E. Diemont]]
-- [[G. B. T. Wiggers van Kerchem]]
-- [[K. van der Heyden]]
-- [[Aceh War]]
-- [[Groot-Atjeh]]
-- [[Geconcentreerde Linie]]
-- [[Kutaradja]]
-- [[Kota Radja]]
-- [[Koeta Radja]]
-- [[Kraton of Aceh]]
-- [[Kloenkoeng]]
-- [[Kasoemba]]
-- [[Padang Cove]]
-- [[Sagi]]
-- [[Onderhoorigheden]]
-- [[Blockade of Atjeh coast]]
-- [[De Kleine Oosterling]]
-- [[Oost-Indisch Journael]]
-- [[Na 1795 (1924)]]
 - [[Royal Netherlands East Indies Army]]
-- [[Koninklijk Nederlandsch-Indisch Leger]]
-- [[1807]]
-- [[1849]]
-- [[1857]]
-- [[1873]]
+- [[Koeta Radja]]
+- [[Treaty of 30 March 1857 with the Sultan of Aceh]]
+- [[J. H. R. Köhler]]
+- [[Second Aceh Expedition (1873-1874)]]
+- [[Oost-Indisch Journael]]
 - [[1874]]
-- [[1876]]
-- [[1888]]
-- [[24 January]]
-- [[31 January]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[Blockade of Atjeh coast]]
+- [[General-Major Michiels]]
+- [[Groot-Atjeh]]
+- [[Onderhoorigheden]]
+- [[1873]]
+- [[De Kleine Oosterling]]
+- [[Mas Soemo Widikdjo]]
+- [[Kraton of Aceh]]
+- [[Koninklijk Nederlandsch-Indisch Leger]]
+- [[Declaration of war against the Sultan of Atjeh (1873)]]
+- [[Batavia]]
+- [[General Köhler]]
+- [[Atjehoorlog]]
+- [[Pel (Atjeh commander)]]
 
 ## Sources
 
@@ -135,3 +164,5 @@ Van Swieten's significance for the encyclopedia of [[Acheh|Achehnese]] history l
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, OCR transcription (DLP-55), pp. 108, 128–129, 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
 
 *Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 216-217.
