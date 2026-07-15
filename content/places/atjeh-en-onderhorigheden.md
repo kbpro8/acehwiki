@@ -1,8 +1,8 @@
 ---
 title: Atjeh en Onderhorigheden
-aliases: ["Aceh and Dependencies", "Atjeh and Dependencies", "Atjèh en Onderhoorigheden", "Gouvernement Atjeh en Onderhorigheden", "residency of Atjeh\", ", ", "Atjeh en Onderhoorigheden\", ", ", "Residency of Atjeh\", "Atjeh en Onderhorigheden", "Atjeh en Onderhoorigheden"]
+aliases: ["Aceh and Dependencies", "Atjeh and Dependencies", "Atjèh en Onderhoorigheden", "Gouvernement Atjeh en Onderhorigheden", "residency of Atjeh\", ", ", "Atjeh en Onderhoorigheden\", ", ", "Residency of Atjeh\", "Atjeh en Onderhorigheden", "Atjeh en Onderhoorigheden", "Gouvernement Atjeh en Onderhoorigheden"]
 
-tags: [achehnese, administrative-unit, colonial, dutch, place, residency, atjeh, concept, acheh, administrative]
+tags: [achehnese, administrative-unit, colonial, dutch, place, residency, atjeh, concept, acheh, administrative, organization]
 ---
 
 ## In De Karbouw
@@ -50,54 +50,84 @@ The [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] was, in the [[W. H. Ve
 
 [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] is the formal Dutch colonial-administrative frame within which the post-conquest administration of Atjeh was conducted. The designation is, in the [[W. H. Vermeulen|Vermeulen]] retrospective, the political-administrative successor to the [[Sultan of Acheh|Sultanate of Atjeh]] and the predecessor of the modern Indonesian province of [[Aceh (modern Indonesian province)|Aceh]].
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**Atjeh en Onderhorigheden** — Atjeh and its Dependencies — was the [[Netherlands|Dutch]] colonial-administrative unit comprising the territory of the former [[Acheh|Atjeh]] sultanate after its conquest in the [[Atjehoorlog|Atjehoorlog]] of [[1873]]-[[1904]]. The administrative unit was governed by a civil and military governor — first held by [[J. B. van Heutsz|Van Heutsz]] — with seat at [[Koeta Radja|Kota-Radja]].
+
+### The post-1873 establishment
+
+The [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] was established by the [[General Van Swieten|Van Swieten]] proclamation of December [[1873]] by which [[Groot-Atjeh|Groot-Atjeh]] was declared government territory and the fortified kraton of the [[Sultan of Acheh|Sultan of Atjeh]] was renamed "[[Koeta Radja|Kota-Radja]]". The administrative unit was subsequently extended, in the course of the [[Atjehoorlog|Atjehoorlog]] and the post-[[1904]] [[Pacificatie van Atjeh|pacificatie]], to cover the full territory of the former sultanate, including the *onderhorigheden* of [[Pidië|Pidië]], [[Gajoland|the Gaju-]] and [[Alasland|Alaslanden]].
+
+### The three sagi's
+
+The source's distinction between [[Groot-Atjeh|Groot-Atjeh]] proper (containing the three *sagi*'s) and the *onderhorigheden* (such as [[Pidië|Pidië]], [[Gajoland|the Gaju-]] and [[Alasland|Alaslanden]]) is the principal characterisation of [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] territorial structure. The *sagi*'s — federations of *uléebalang* territories — were the core of the sultanate; the *onderhorigheden* were the peripheral dependencies.
+
+### The korte verklaring
+
+The [[Korte verklaring|korte verklaring]] — by which the submitted chiefs of the *buitengewesten* recognised [[Nederlandsch-Indië|Nederlandsch-Indië]] sovereignty — was signed by the *uléebalang*s of [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] in the course of the post-[[1904]] consolidation. The declaration, drawn up by [[J. B. van Heutsz|Van Heutsz]] "in samenwerking met Snouck Hurgronje" (in cooperation with Snouck Hurgronje), was eventually signed by 261 chiefs of self-governing territories in the *buitengewesten*.
+
+### Significance
+
+[[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] is the formal [[Netherlands|Dutch]] colonial-administrative unit comprising the territory of the former [[Acheh|Atjeh]] sultanate after its conquest. The unit was governed by a civil and military governor from [[Koeta Radja|Kota-Radja]] from [[1873]] to [[1949]].
+
 ## See Also
 
-- [[Rinaud]]
-- [[Aceh War]]
-- [[Kreemer's De Karbouw ([[1956]]
-- [[Kota Radja]]
+- [[Gajoland]]
+- [[Pacificatie van Atjeh]]
+- [[N.O.-kust van Atjeh]]
+- [[M.A.E.M.]]
 - [[Alasland]]
-- [[Pedirse]]
-- [[Pasei]]
-- [[Van Bemmelen's The Geology of Indonesia (1949)]]
+- [[J. Zulkler]]
 - [[Netherlands Indies Mining Law of 1899]]
-- [[1873]]
-- [[Acheh]]
+- [[Kleine-Atjeh]]
+- [[1885]]
+- [[Tamiang oil block]]
+- [[Aceh War]]
+- [[Van Heutsz's report on Atjeh (June 1908)]]
+- [[Kreemer's Atjeh ([[1922]]
+- [[Kota Radja]]
+- [[Banda Acheh]]
+- [[Koninklijke Petroleum Maatschappij]]
+- [[1908]]
+- [[Coal in Atjeh]]
+- [[Mijnwet]]
+- [[Bureau of Mines in Indonesia]]
+- [[Atjeh's Westkust]]
+- [[1904]]
+- [[Simaloer]]
+- [[Perlak Petroleum Maatschappij]]
+- [[Van Bemmelen's The Geology of Indonesia (1949)]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[Pedirse]]
 - [[Indisch Verslag 1939]]
 - [[Kinandam-Sumatra Mijnbouw Mij.]]
-- [[N.O.-kust van Atjeh]]
-- [[Atjeh's Westkust]]
-- [[Coal in Atjeh]]
-- [[1874]]
-- [[1885]]
-- [[Gajoland]]
-- [[Oil exploration in North Sumatra]]
-- [[1949]]
-- [[J. Kreemer]]
-- [[Kreemer's Atjeh ([[1922]]
-- [[Simaloer]]
-- [[East Atjeh oil block]]
-- [[Bureau of Mines in Indonesia]]
-- [[Groot-Atjeh]]
-- [[Tamiang oil block]]
-- [[M.A.E.M.]]
-- [[Banda Acheh]]
-- [[Kleine-Atjeh]]
-- [[J. Zulkler]]
-- [[1910]]
-- [[Mijnwet]]
 - [[Sultan of Acheh]]
-- [[G. C. E. van Daalen]]
-- [[1904]]
-- [[1908]]
-- [[Koeta Radja]]
-- [[Koninklijke Petroleum Maatschappij]]
-- [[J. B. van Heutsz]]
-- [[Perlak Petroleum Maatschappij]]
-- [[Pacificatie van Atjeh]]
-- [[Atjeh-oorlog (1873-1904)]]
 - [[Mijnwet art. 5a (1910)]]
-- [[Van Heutsz's report on Atjeh (June 1908)]]
+- [[East Atjeh oil block]]
+- [[Koeta Radja]]
+- [[Pasei]]
+- [[Oil exploration in North Sumatra]]
+- [[1874]]
+- [[Kreemer's De Karbouw ([[1956]]
+- [[Rinaud]]
+- [[1949]]
+- [[Groot-Atjeh]]
+- [[1910]]
+- [[J. B. van Heutsz]]
+- [[1873]]
+- [[Acheh]]
+- [[J. Kreemer]]
+- [[G. C. E. van Daalen]]
+- [[Sagi (Atjehnese federation)]]
+- [[Uleebalang]]
+- [[Atjehoorlog]]
+- [[Pidië]]
+- [[Korte verklaring]]
+- [[Dr. C. Snouck Hurgronje]]
 
 ## Sources
 
@@ -109,3 +139,5 @@ The [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] was, in the [[W. H. Ve
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 56 (Atjeh and Dependencies coal exploration summary), pp. 9–10 (North Sumatra oil production, including the Atjeh fields).
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-275, 305-306.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 217-219.
