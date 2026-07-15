@@ -1,7 +1,7 @@
 ---
 title: Sagi (Atjeh administrative division)
-aliases: [Sagi, Saqi, Atjeh sagi system, "Three sagi's of Groot-Atjeh", sagï, sagi federation, territorial division of Groot Atjèh]
-tags: [concept, administrative-division, sagi, groot-atjeh, indigenous-governance, atjeh, sultanate, achehnese]
+aliases: ["Three sagi's of Groot-Atjeh", "Sagi (Atjehnese federation)", "sagi", "the Atjehnese sagi", "the three sagi's of Groot-Atjeh"]
+tags: [concept, administrative-division, sagi, groot-atjeh, indigenous-governance, atjeh, sultanate, achehnese, acheh, administrative, territorial, federation]
 ---
 
 **The Sagi** (Atjèhnese for "corner" or "side," cf. *soeröé*; plural: sagi's) was the highest indigenous administrative unit in [[Groot-Atjeh|Groot Atjèh]], described by Gouverneur [[H. N. A. Swart|H. N. N. A. Swart]] at the [[Koeta-Radja]] meeting ([[19 January]] [[1914]]) as more or less comparable to the regentschappen of Java. There were three sagi's in Groot-Atjeh, each encompassing a large territory with its own hierarchy of subordinate administrative units: the [[peleebalangschap]]pen (comparable to Javanese districten) and the [[moekimschap]]pen (comparable to Javanese onderdistricten). The sagi thus occupied the apex of a three-tier administrative hierarchy that structured indigenous governance in the rechtstreeks bestuurd gebied (directly ruled territory) of Atjeh, providing the colonial administration with a framework through which it could exercise oversight while maintaining the appearance of indigenous self-governance.
@@ -38,28 +38,64 @@ In [[1910]]–[[1912]], the [[Groot-Atjèhsche Afdeelingsbank|Groot-Atjèhsche A
 
 Within the sagi's, some mukims were *wakeuëh*-districts (free-lordly domains) whose chiefs were withdrawn from the authority of the sagi-heads. Examples: in the XXV Moekim's — Loeëng Bata, Pagar Ajé, and Lam Sajoen; in the XXII Moekim's — the III Moekim's Keureukön; in the XXVI Moekim's — Lho' Goelöng, Tjadé' Mön Batèë, and Koeala Gigiëng (the latter now no longer existing).
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**The Sagi** — Acehnese *sagi* — was, in the source's narrative, the Atjehnese federation of *uléebalang* territories, under the leadership of the most prominent, influential or energetic *uléebalang*, called the *panglima sagi*. In [[Groot-Atjeh|Groot-Atjeh]] there were three *sagi*'s.
+
+### The Snouck Hurgronje analysis
+
+The source preserves the [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] analysis of Atjehnese social structure: "Enige uleebalangschappen vormden een federatie, de zgn. sagi, waarin de voornaamste, invloedrijkste, of energiekste uléébalang, panglima sagi geheten, de leiding had. Er waren in Groot Atjeh (aldus genoemd in onderscheid tot de onderhorigheden, zoals Pidië, de Gaju- en Alaslanden) drie sagi's" (Several uléebalang territories formed a federation, the so-called sagi, in which the most prominent, influential, or energetic uléebalang, called the panglima sagi, had the leadership. In Groot Atjeh — so named in distinction to the dependencies, such as Pidië, the Gaju- and Alaslands — there were three sagi's).
+
+### The three sagi's
+
+The source records that there were three *sagi*'s in [[Groot-Atjeh|Groot-Atjeh]]. The number three is, in the [[Dr. C. Snouck Hurgronje|Snouck]] analysis, the structural fact of Atjehnese territorial organisation: the core of the sultanate was divided into three federations of *uléebalang* territories, each under a *panglima sagi*.
+
+### The panglima sagi
+
+The leader of the *sagi* — the *panglima sagi* — was "de voornaamste, invloedrijkste, of energiekste uléébalang" (the most prominent, influential, or energetic *uléebalang*). The *panglima sagi* was, in the [[Dr. C. Snouck Hurgronje|Snouck]] analysis, the effective leader of the *sagi* federation — in contrast to the sultan, whose authority over the *panglima sagi*'s existed "alleen in naam" (in name only).
+
+### Significance
+
+The [[Sagi (Atjehnese federation)|sagi]] is, in the [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] analysis preserved by the source, the federation of *uléebalang* territories that constituted the core of [[Groot-Atjeh|Groot-Atjeh]]. The three *sagi*'s — under their respective *panglima sagi*'s — were the effective power-structures of the sultanate, in contrast to the sultan whose authority was nominal.
+
 ## See Also
 
-- [[H. N. A. Swart|H. N. N. A. Swart]]
 - [[Groot-Atjeh|Groot Atjèh]]
-- [[XXII Moekim's]]
 - [[XXV Moekim's]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[19 January]]
+- [[Erfelijkheid in Atjeh hoofd appointments]]
+- [[H. N. A. Swart|H. N. N. A. Swart]]
+- [[Rechtstreeks bestuurd gebied]]
+- [[Moekim]]
+- [[Uleebalang|Oelèëbalang]]
 - [[XXVI Moekim's]]
+- [[Inlandsch Bestuur]]
 - [[Panglima Polem|Panglima Pölém]]
+- [[1914]]
 - [[Peleebalangschap]]
 - [[Moekimschap]]
-- [[Moekim]]
-- [[Inlandsch Bestuur]]
-- [[Erfelijkheid in Atjeh hoofd appointments]]
-- [[Bestuursreorganisatie Sumatra (1913-1914)]]
-- [[Rechtstreeks bestuurd gebied]]
+- [[XXII Moekim's]]
 - [[Wakeuëh]]
-- [[Uleebalang|Oelèëbalang]]
-- [[19 January]]
-- [[1914]]
+- [[Gajoland]]
+- [[Alasland]]
+- [[1892 Snouck Hurgronje advice on Atjeh]]
+- [[Groot-Atjeh]]
+- [[Uleebalang]]
+- [[Acheh]]
+- [[Panglima sagi]]
+- [[Mukim]]
+- [[Pidië]]
+- [[Dr. C. Snouck Hurgronje]]
 
 ## Sources
 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 128-129.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
