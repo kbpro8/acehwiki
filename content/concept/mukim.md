@@ -1,7 +1,7 @@
 ---
 title: Mukim
-aliases: [Mokim, Parish, Acehnese Parish, moekim, moekims, mukim, Vrijdagskring, Friday-service circle, moeqim, ecclesiastical-administrative unit of Aceh]
-tags: [concept, government, administrative-unit, achehnese, religious, administration, sultanate, administrative]
+aliases: ["Mukim", "mukim", "the Atjehnese mukim"]
+tags: [concept, government, administrative-unit, achehnese, religious, administration, sultanate, administrative, acheh, territorial]
 description: "The Acehnese parish — a grouping of gampongs sharing a Friday mosque (meusigit), led by an imeum mukim, forming the intermediate level between the village and the uleebalangship."
 ---
 
@@ -53,32 +53,62 @@ Some moekim's were *wakeuëh*-districts (free-lordly domains) whose chiefs were 
 
 [[R. L. Mellema|Mellema]], in his comparative ethnological survey *[[De Islaam in Indonesië (Mellema, 1947)|De Islaam in Indonesië (in het bijzonder op Java)]]* (Amsterdam, [[1947]]), gives an etiology of the moekim as a territorial parish that complements the Snouckian and *De Buitenbezittingen* accounts treated above. In his discussion of the distinction between the *moskee* (the Friday mosque) and the *langgar* (the prayer-house without Friday service), Mellema observes that the Muslim law requires the Friday service to be held only where at least forty adult male Muslims are settled as permanent residents (*moekim* in the canonical sense). In [[Acheh|Atjeh]], he records, it could happen that several *desa*'s joined together — "dat verschillende desa's zich aaneensloten om gezamenlijk een moskee met Vrijdagsdienst te kunnen houden" — to maintain, jointly, a mosque with a Friday service. From this cooperation "zijn nieuwe territoriale gemeenten ontstaan, eveneens met de naam moekim aangeduid" — new territorial communes arose, likewise designated by the name *moekim* — at the head of which stood an *imeum*, "Atjeh's voor imaam." The distinctive contribution of Mellema's account is the canonical-genetic framing: the territorial moekim arises, in his presentation, as an institutional solution to the canonical requirement of the Friday-service quorum of forty resident men. The term *moekim* thus undergoes a semantic extension — from its canonical sense of "permanent resident" to its Atjehnese sense of "territorial congregation."
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**The Mukim** — Acehnese *mukim* — is, in the source's narrative, the Atjehnese territorial unit consisting of a group of *kampongs* (villages) sharing a single mosque. The *mukim* is the intermediate unit of the Atjehnese territorial hierarchy: above the *kampong*, below the *uléebalang* territory. Three or more *mukim*'s form a *landschap* (territory) under an *uléebalang*.
+
+### The Snouck Hurgronje analysis
+
+The source preserves the [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] analysis of Atjehnese social structure: "De Atjehers leven, evenals de meeste Indonesische volken, in dorpen, kampongs. Een groep kampongs die één moskee tot haar beschikking heeft, is een mukim. Drie of meer van deze mukim's vormen een landschap onder een uléebalang" (The Atjehnese live, like most Indonesian peoples, in villages, kampongs. A group of kampongs that has one mosque at its disposal is a mukim. Three or more of these mukim's form a territory under an uléebalang). The [[Mukim|mukim]] is, in the [[Dr. C. Snouck Hurgronje|Snouck]] analysis, the religiously-defined unit of Atjehnese territorial structure.
+
+### The religious definition
+
+The [[Mukim|mukim]]'s defining feature — the shared mosque — gives the unit its religious character. The [[Dr. C. Snouck Hurgronje|Snouck]] analysis places the [[Mukim|mukim]] at the intersection of territorial and religious organisation: the unit is both a group of villages and the congregation of a single mosque.
+
+### The territorial hierarchy
+
+The [[Dr. C. Snouck Hurgronje|Snouck]] analysis records the Atjehnese territorial hierarchy as: *kampong* (village) → *mukim* (mosque-group) → *landschap* (uléebalang territory) → *sagi* (federation of *uléebalang* territories). The [[Mukim|mukim]] is the second level of this four-level hierarchy.
+
+### Significance
+
+The [[Mukim|mukim]] is, in the [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] analysis preserved by the source, the religiously-defined intermediate unit of Atjehnese territorial structure. The [[1892]] [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] advice — that the sultan's party was to be ignored and the *uléebalang*s struck into submission — was based on this analysis.
+
 ## See Also
 
+- [[XXII Mukims|XXII Moekim's]]
 - [[Gampong|Gampöng]]
-- [[Imeum Mukim]]
-- [[Imeum]]
+- [[De Islaam in Indonesië (Mellema, 1947)]]
+- [[XXVI Mukims|XXVI Moekim's]]
 - [[Sagi (Atjeh administrative division)|Sagi]]
+- [[1947]]
+- [[Hoeköm]]
+- [[XXV Mukims|XXV Moekim's]]
+- [[R. L. Mellema]]
+- [[Wakeuëh]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
+- [[Bestuursindeeling van 1922]]
+- [[Imeum]]
 - [[Sagi System]]
 - [[Uleebalang|Oelèëbalang]]
-- [[Meusigit|Meuseugit]]
-- [[Meunasah]]
-- [[Great Acheh|Groot Atjèh]]
-- [[Penang]]
-- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
-- [[Groot-Atjeh]]
 - [[Adat]]
-- [[Hoeköm]]
-- [[Wakeuëh]]
-- [[De Islaam in Indonesië (Mellema, 1947)]]
-- [[R. L. Mellema]]
-- [[Moekim and Imeum in Atjeh (Mellema 1947)]]
-- [[XXII Mukims|XXII Moekim's]]
-- [[XXV Mukims|XXV Moekim's]]
-- [[XXVI Mukims|XXVI Moekim's]]
+- [[Meunasah]]
 - [[VII Moekim's Pidië]]
-- [[Bestuursindeeling van 1922]]
-- [[1947]]
+- [[Meusigit|Meuseugit]]
+- [[Imeum Mukim]]
+- [[Great Acheh|Groot Atjèh]]
+- [[Groot-Atjeh]]
+- [[Moekim and Imeum in Atjeh (Mellema 1947)]]
+- [[Penang]]
+- [[1892 Snouck Hurgronje advice on Atjeh]]
+- [[Uleebalang]]
+- [[Acheh]]
+- [[Panglima sagi]]
+- [[Sagi (Atjehnese federation)]]
+- [[Dr. C. Snouck Hurgronje]]
 
 ## Sources
 
@@ -89,3 +119,5 @@ Some moekim's were *wakeuëh*-districts (free-lordly domains) whose chiefs were 
 *De Islaam in Indonesië (in het bijzonder op Java)*, by Drs. R. L. Mellema. Mededeling No. LXXVII, Afd. Volkenkunde No. 25. Amsterdam: Koninklijke Vereniging "Indisch Instituut," 1947. "Verschil tussen moskee en langgar," p. 16; and *Register*, s.v. *Moekim* "(gebiedsdeel in Atjeh)."
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
