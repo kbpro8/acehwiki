@@ -1,7 +1,7 @@
 ---
 title: Pidie
-aliases: [Pedir, Pidié, Pidië, Mukim Tujoh, VII Mukims Pidie, Pidie territory, Pidie Region, Pidie, Pedir Sultanate region]
-tags: [place, north-east-coast, region, coast-state, east-coast, dependency, achehnese, noordkust, onderafdeeling, pidie, noordkust-van-atjeh, atjeh, strategic, administrative-division]
+aliases: ["Pidië", "Pidié", "Pidie", "Pedir (region of Atjeh)", "the Pidië landschap"]
+tags: [place, north-east-coast, region, coast-state, east-coast, dependency, achehnese, noordkust, onderafdeeling, pidie, noordkust-van-atjeh, atjeh, strategic, administrative-division, acheh, colonial]
 ---
 
 The major North Coast territory and kingdom. 'The Achehnese give the name of Pidie to the whole of the territory which formerly belonged to the kingdom of that name, i.e. almost the whole of the North Coast with its hinterland.' Pidie is historically known as a seat of religious learning: 'Thus most of the learned in Great [[Acheh]] have spent the greater part of their student life in Pidie, while vice versa the studiously inclined in Pidie and on the East Coast amass their capital of knowledge in Great [[Acheh]].' The centres of learning in Pidie before the Dutch included [[Langga and Langgo]], [[Langga and Langgo]], [[Sriweue]], [[Simpang]], and [[Ie Leubeue]] (= Ayer Labu). [[Tiro]] in Pidie was 'sanctified by the presence of so many living ulamas and the holy tombs of their predecessors.' Heretical mysticism (eleumee sale) also flourished in Pidie. In the [[Hikajat Malém Dagang|Hikayat Malem Dagang]], 'The first place touched at is Pidie (vulg. Pedir), the panglima of which is handed down to fame as the bravest and most distinguished of generals.' The [[Hikayat Pochut Muhamat]] describes [[Pochut Muhamat]]'s tour through Pidie gathering allies: he visited [[Padang Tiji|Padang Teuji]], [[Reubee]], and eventually won over [[Pangulee Beunaroe]], the powerful uleebalang of the IX Mukims. The sadati kisah describes Pidie as forming a square with four uleebalangs holding power: 'The X Mukims are subject to Bentara Keumangan; Teungku Sama Indra rules the VIII Mukims; The La'seumana is a fatherless child; he rules the XXII Mukims; The V Mukims are under the control of Teungku Ujong
@@ -65,52 +65,79 @@ The continued presence of a Majoor as *Civiel Gezaghebber* in Pidië as late as 
 
 In the proposed administrative reorganization of the [[Bestuursreorganisatie Sumatra (1913-1914)]], the *onderafdeeling* Pidië continued as a subdivision within the merged "Noord- en Oostkust van Atjeh behalve Tamiang" *afdeeling*, which combined the former [[Noordkust van Atjeh]] and [[Oostkust van Atjeh]] into a single administrative unit with a population of approximately 480,000. The preservation of Pidië as a distinct *onderafdeeling* within this larger entity recognized the region's unique historical identity and its continuing administrative and strategic importance. The reorganization did not propose to alter the fundamental internal structure of Pidië's governance, suggesting that the colonial authorities regarded the existing arrangement—including the appointment of military officers as *Civiel Gezaghebbers*—as appropriate to local conditions and likely to persist under the new administrative framework.
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**Pidië** — also *Pidié*, *Pidie* — is, in the source's narrative, the [[Acheh|Atjehnese]] *landschap* (territory) named alongside the [[Gajoland|Gaju-]] and [[Alasland|Alaslanden]] as one of the *onderhorigheden* (dependencies) of [[Groot-Atjeh|Groot-Atjeh]]. The *onderhorigheden* are distinguished in the source from [[Groot-Atjeh|Groot-Atjeh]] proper, which contained the three *sagi*'s of the sultanate's core.
+
+### The onderhorigheden
+
+The source records: "Er waren in Groot Atjeh (aldus genoemd in onderscheid tot de onderhorigheden, zoals Pidië, de Gaju- en Alaslanden) drie sagi's" (In Groot Atjeh — so named in distinction to the dependencies, such as Pidië, the Gaju- and Alaslands — there were three *sagi*'s). [[Pidië|Pidië]] is the first-named of the *onderhorigheden*, followed by [[Gajoland|the Gaju-]] and [[Alasland|Alaslanden]].
+
+### The Pedir connexion
+
+The name [[Pidië|Pidië]] is cognate with [[Pedir|Pedir]] — the haven on the east coast of [[Acheh|Atjeh]] that gave its name to the [[Pedir|Pedir]] region and, in the source's earlier narrative, to the [[Padri|Padri]] reformers of the early nineteenth century. The [[Padri|Padri]]'s "werden genoemd, naar de haven Pedir aan de Oostkust, waarover de weg der Padangse bedevaartgangers gewoonlijk ging" (were named after the harbour Pedir on the East Coast, through which the way of the Padang pilgrims usually went).
+
+### Significance
+
+[[Pidië|Pidië]] is, in the source's narrative, one of the three named *onderhorigheden* of [[Groot-Atjeh|Groot-Atjeh]] — alongside the [[Gajoland|Gaju-]] and [[Alasland|Alaslanden]]. The distinction between the core *sagi*'s of [[Groot-Atjeh|Groot-Atjeh]] and the *onderhorigheden* is the source's principal characterisation of Atjehnese territorial structure.
+
 ## See Also
 
-- [[Aceh Sultanate]]
-- [[Acheh]]
-- [[Great Acheh]]
-- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
-- [[Hikayat Pochut Muhamat]]
-- [[Idi]]
-- [[Ie Leubeue]]
-- [[Keumala]]
-- [[Langga and Langgo]]
-- [[Malem Dagang]]
-- [[Muhammad Dawot Shah]]
-- [[Padang Tiji|Padang Teuji]]
-- [[Pangulee Beunaroe]]
-- [[Pochut Muhamat]]
-- [[Reubee]]
-- [[Simpang]]
-- [[Tamiang|Teumieng]]
-- [[East Coast (of Acheh)]]
-- [[Bentara Keumangan]]
-- [[Lam Panaih]]
 - [[Sultan Meukuta Alam]]
-- [[Tuanku Muhamat Dawot]]
-- [[Sultan Mahmut Shah]]
-- [[Imeum of Chadé]]
-- [[Tiro]]
 - [[Teungku Tiro (Muhamat Amin)]]
 - [[Kuala Batee]]
-- [[Daya]]
-- [[Sigli]]
-- [[Lam Meuló]]
-- [[Keumangan]]
-- [[Poesa]]
-- [[Teungkoe Moehamad Daoed Beureu-éh]]
-- [[Padang Tiji|Padang Tidji]]
-- [[1942]]
-- [[1945]]
-- [[Th. J. Veltman]]
-- [[Noordkust van Atjeh]]
-- [[Civiel Gezaghebber]]
-- [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[Bestuursreorganisatie Sumatra (1913-1914)]]
-- [[M. C. Roos van Raadshoven]]
+- [[Padang Tiji|Padang Teuji]]
 - [[Oostkust van Atjeh]]
+- [[Imeum of Chadé]]
+- [[Th. J. Veltman]]
+- [[Aceh Sultanate]]
+- [[East Coast (of Acheh)]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
+- [[Idi]]
+- [[Reubee]]
+- [[Daya]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Muhammad Dawot Shah]]
+- [[Lam Meuló]]
+- [[Sultan Mahmut Shah]]
+- [[Langga and Langgo]]
+- [[Keumangan]]
+- [[Great Acheh]]
+- [[Sigli]]
+- [[1942]]
+- [[Hikayat Pochut Muhamat]]
 - [[Koeta-Radja]]
+- [[Keumala]]
+- [[Pangulee Beunaroe]]
+- [[Malem Dagang]]
+- [[M. C. Roos van Raadshoven]]
+- [[Ie Leubeue]]
+- [[Simpang]]
+- [[Padang Tiji|Padang Tidji]]
+- [[Teungkoe Moehamad Daoed Beureu-éh]]
+- [[Tiro]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Pochut Muhamat]]
+- [[Noordkust van Atjeh]]
+- [[Tuanku Muhamat Dawot]]
+- [[Civiel Gezaghebber]]
+- [[Bentara Keumangan]]
+- [[Lam Panaih]]
+- [[Poesa]]
+- [[Acheh]]
+- [[1945]]
+- [[Tamiang|Teumieng]]
+- [[Gajoland]]
+- [[Atjeh en Onderhorigheden]]
+- [[Alasland]]
+- [[Groot-Atjeh]]
+- [[Pedir]]
+- [[Padri]]
+- [[Sagi (Atjehnese federation)]]
 
 ## Sources
 
@@ -119,3 +146,5 @@ In the proposed administrative reorganization of the [[Bestuursreorganisatie Sum
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 198–199, 252. Rijksarchief, Den Haag.
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 2, Chapter III § 2, Chapter V §§ 1–2, Chapter VII § 4.
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), p. 118.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
