@@ -1,7 +1,7 @@
 ---
 title: General van der Heyden
-aliases: [General van der Heijden, General van der Ileyden, Van der Heyden, General Eenogig, Eenoog, Governor Van der Heyden, H. K. van der Heyden, H.K. van der Heyden, Gouverneur Van der Heyden, Gouverneur-Generaal Van der Heyden, K. van der Heyden, K. van der Heijden, the one-eyed general, Kolonel Van der Heyden]
-tags: [person, colonial-official, dutch, military, general, colonial, governor, aceh-war, monument, achehnese-history]
+aliases: ["General Van der Heyden", "generaal Van der Heyden", "Van der Heyden", "Van der Heyden (Atjeh commander)"]
+tags: [person, colonial-official, dutch, military, general, colonial, governor, aceh-war, monument, achehnese-history, acheh]
 description: "H. K. van der Heyden (1826-1900), born in Batavia, was the Dutch Governor of Atjeh from 1878 whose successful administration established sufficient peace to allow the introduction of regular colonial government in the territory. Known as \"Eenoog\" (One-Eye) after losing an eye at Samalanga in 1877."
 ---
 
@@ -79,62 +79,91 @@ Van der Heyden's governorship marks an important transitional phase in the [[Ace
 
 His portrait appears in the atlas alongside those of [[Joannes Benedictus van Heutsz|Governor Van Heutsz]] and [[C. Snouck Hurgronje]], the three figures who, between them, represent the military, administrative, and scholarly dimensions of the Dutch engagement with Atjeh.
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**General Van der Heyden** — generaal Van der Heyden — was the [[Netherlands|Dutch]] military governor of [[Acheh|Atjeh]] in the period preceding the [[1880]] false dawn. His replacement by a civil governor in [[1880]] — the year in which "het gehele jaar 1880 werd de rust geen enkele maal verstoord" (the entire year 1880 tranquillity was not disturbed a single time) — is the institutional hinge of the source's narrative of the false dawn and the [[Concentratie-stelsel (1884-1896)|concentratie]] period that followed.
+
+### The 1880 replacement
+
+The source records: "Van der Heyden werd vervangen door een civiel gouverneur; men nam weer de afwachtende houding aan" (Van der Heyden was replaced by a civil governor; the waiting posture was resumed). The [[1880]] replacement is the institutional act by which the Dutch transitioned from the military-offensive posture of the [[1873]]-[[1879]] period to the waiting posture of the [[Concentratie-stelsel (1884-1896)|concentratie]] period.
+
+### The waiting posture
+
+The [[General Van der Heyden|Van der Heyden]] replacement by a civil governor and the resumption of the waiting posture were, in the source's narrative, the type-specimen of the Dutch misreading of Atjehnese resistance. The [[1880]] calm — a full year without disturbance — was read as victory; the waiting posture was the policy consequence. The attacks of "bendehoofden, o.a. van de later bekend geworden Teungku Um" (bandit-chiefs, among others the later-famous Teungku Um) soon resumed.
+
+### The Van der Heyden-Van Heutsz system
+
+The name [[General Van der Heyden|Van der Heyden]] is, in the broader historiography of the [[Atjehoorlog|Atjehoorlog]], associated with the *Van der Heyden-Van Heutsz system* of mobile-column pursuit into the remotest hiding-places — the system that [[J. B. van Heutsz|Van Heutsz]] would revive after [[1896]] and that would, by [[1904]], bring the sultanate under Dutch control. The [[1880]] replacement of [[General Van der Heyden|Van der Heyden]] by a civil governor is, on this reading, the temporary suppression of the offensive system that [[J. B. van Heutsz|Van Heutsz]] would later restore.
+
+### Significance
+
+[[General Van der Heyden|Van der Heyden]]'s [[1880]] replacement by a civil governor is the institutional act by which the Dutch transitioned from the military-offensive posture of the [[1873]]-[[1879]] period to the waiting posture of the [[Concentratie-stelsel (1884-1896)|concentratie]] period. The name Van der Heyden is, in the broader historiography, associated with the offensive system that [[J. B. van Heutsz|Van Heutsz]] would revive after [[1896]].
+
 ## See Also
 
-- [[A. J. E. Diemont]]
-- [[G. B. T. Wiggers van Kerchem]]
-- [[Habib Abdoerrahman]]
-- [[Panglima Polem|Panglima Polim]]
-- [[Imam of Longbatta]]
-- [[Toekoe Moeda Daoed]]
-- [[A. Pruys van der Hoeven]]
-- [[J. F. Haus]]
-- [[Johan Willem van Lansberge|J. W. van Lansberge]]
-- [[Aceh War]]
-- [[Expedition to Samalanga (August 1877)]]
-- [[Campaign against the XXII Moekims (1879)]]
-- [[Campaign against the XXVI Moekims (July 1879)]]
 - [[Selimoen Expedition (August 1879)]]
-- [[Batoe Iliq Expedition (July 1880)]]
-- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
-- [[Johan Wøller]]
-- [[Kotta Loemper]]
-- [[Groot-Atjeh]]
-- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
-- [[C. Snouck Hurgronje]]
-- [[Great Acheh]]
-- [[Kuta Raja]]
-- [[Koeta-Radja]]
-- [[Establishment of the Dutch 'linie' (pale)]]
-- [[Governorship of General van der Heyden]]
-- [[Geconcenteerde Linie]]
-- [[Three Sagis (XXVI, XXV, XXII Mukims)]]
-- [[Volkslectuur]]
-- [[Nederlandsch Indië Platen Atlas (1926)]]
-- [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[1 April]]
-- [[30 June]]
-- [[15 January]]
+- [[Panglima Polem|Panglima Polim]]
 - [[23 July]]
-- [[13 October]]
-- [[23 March]]
-- [[1 July]]
-- [[13 August]]
-- [[21 February]]
-- [[10 July]]
-- [[6 April]]
-- [[1873]]
-- [[1874]]
-- [[1876]]
-- [[1877]]
-- [[1878]]
-- [[1879]]
-- [[1880]]
-- [[1881]]
-- [[1882]]
-- [[1898]]
+- [[15 January]]
+- [[Geconcenteerde Linie]]
+- [[G. B. T. Wiggers van Kerchem]]
+- [[Kotta Loemper]]
+- [[Nederlandsch Indië Platen Atlas (1926)]]
+- [[Campaign against the XXVI Moekims (July 1879)]]
+- [[Aceh War]]
 - [[1826]]
+- [[Johan Wøller]]
+- [[1 July]]
+- [[10 July]]
+- [[J. F. Haus]]
+- [[13 October]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[1881]]
+- [[21 February]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
+- [[Imam of Longbatta]]
+- [[Governorship of General van der Heyden]]
+- [[A. J. E. Diemont]]
+- [[1882]]
+- [[Great Acheh]]
+- [[1876]]
+- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
+- [[Expedition to Samalanga (August 1877)]]
+- [[1880]]
+- [[1 April]]
+- [[A. Pruys van der Hoeven]]
+- [[C. Snouck Hurgronje]]
+- [[1878]]
+- [[Koeta-Radja]]
+- [[1879]]
+- [[Kuta Raja]]
+- [[Toekoe Moeda Daoed]]
+- [[Batoe Iliq Expedition (July 1880)]]
+- [[1874]]
+- [[Volkslectuur]]
+- [[1877]]
+- [[1898]]
+- [[23 March]]
+- [[1873]]
+- [[Three Sagis (XXVI, XXV, XXII Mukims)]]
+- [[Groot-Atjeh]]
+- [[Campaign against the XXII Moekims (1879)]]
+- [[Establishment of the Dutch 'linie' (pale)]]
 - [[1900]]
+- [[13 August]]
+- [[6 April]]
+- [[Habib Abdoerrahman]]
+- [[30 June]]
+- [[Atjehoorlog]]
+- [[1896]]
+- [[Teungku Um]]
+- [[J. B. van Heutsz]]
+- [[Concentratie-stelsel (1884-1896)]]
 
 ## Sources
 
@@ -147,3 +176,5 @@ His portrait appears in the atlas alongside those of [[Joannes Benedictus van He
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
 
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Plate 23 (Great Men from the Latest History of the Dutch East Indies).
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
