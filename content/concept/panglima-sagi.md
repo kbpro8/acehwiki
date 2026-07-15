@@ -1,7 +1,7 @@
 ---
 title: Panglima Sagi
-aliases: [Panglima Sagi, Panglima sagi, Federatiehoofd van de Sagi]
-tags: [concept, achehnese, adat, office]
+aliases: ["Panglima sagi", "panglima sagi", "the Atjehnese panglima sagi"]
+tags: [concept, achehnese, adat, office, acheh, administrative, territorial, chief]
 ---
 **Panglima Sagi** was the title borne by the head of each of the three [[Sagi|Sagi]]'s — the XXII, XXVI, and XXV Moekims — into which [[Groot-Atjeh|Groot-Atjeh]] (Atjeh-proper) was politically divided, whose authority, exercised only in matters of common concern, gave the Atjehsche federation of [[Oelèëbalang|oelèëbalangs]] its loose overarching structure and whose collective action, in concert with the other high dignitaries, regulated the succession to the [[Sultans of Atjeh|Sultanate]]. *De Buitenbezittingen* treats the *Panglima Sagi* as the apex of the Groot-Atjehsche chieftaincy: the federation-head whose personality, like that of the Keutjhï, the Imeum, and the Oelèëbalang, determined the actual weight of the office.
 
@@ -21,18 +21,47 @@ The three *Panglima Sagi*'s, *De Buitenbezittingen* records, "hebben gezamenlijk
 
 The Dutch administration, which "zooveel mogelijk intact liet" (left as intact as possible) the native administrative institutions of the Gouvernement, preserved the office of *Panglima Sagi* as part of the Groot-Atjehsche structure that served as the basis for the colonial reorganisation of Groot-Atjeh. The three *Sagi*'s — XXII, XXVI, and XXV Moekims — were retained as the principal territorial divisions of the *afdeeling Groot-Atjeh*, and the *Panglima Sagi*'s continued to exercise their traditional authority, under Dutch supervision, in matters of common concern.
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**The Panglima sagi** — Acehnese *panglima sagi* — was, in the source's narrative, the leader of an Atjehnese *sagi* federation. The *panglima sagi* was "de voornaamste, invloedrijkste, of energiekste uléébalang" (the most prominent, influential, or energetic *uléebalang*) of the federation. The sultan's authority over the *panglima sagi*'s existed "alleen in naam" (in name only).
+
+### The Snouck Hurgronje analysis
+
+The source preserves the [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] analysis: "Enige uleebalangschappen vormden een federatie, de zgn. sagi, waarin de voornaamste, invloedrijkste, of energiekste uléébalang, panglima sagi geheten, de leiding had" (Several uléebalang territories formed a federation, the so-called sagi, in which the most prominent, influential, or energetic ulébalang, called the panglima sagi, had the leadership). The [[Panglima sagi|panglima sagi]] is, in the [[Dr. C. Snouck Hurgronje|Snouck]] analysis, the effective leader of the *sagi* federation.
+
+### The sultan's nominal authority
+
+The source records: "Het gezag van de Sultan over de panglima's sagi en de uléebalangs bestond alleen in naam" (The sultan's authority over the panglima's sagi and the uléebalangs existed only in name). The *panglima sagi*'s were thus, in the [[Dr. C. Snouck Hurgronje|Snouck]] analysis, the effective power-holders of [[Groot-Atjeh|Groot-Atjeh]] — in contrast to the sultan whose authority was nominal.
+
+### Significance
+
+The [[Panglima sagi|panglima sagi]] is, in the [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] analysis preserved by the source, the effective leader of an Atjehnese *sagi* federation. The [[1892]] advice to ignore the sultan and strike the *uléebalang*s — including the *panglima sagi*'s — was based on this analysis.
+
 ## See Also
 
 - [[Sagi]]
-- [[Groot-Atjeh]]
-- [[Oelèëbalang]]
-- [[Sultans of Atjeh]]
-- [[Polim-familie]]
 - [[XXII Moekims]]
-- [[XXVI Moekims]]
+- [[Groot-Atjeh]]
 - [[XXV Moekims]]
+- [[Polim-familie]]
 - [[Wadjo]]
+- [[Oelèëbalang]]
+- [[XXVI Moekims]]
+- [[Sultans of Atjeh]]
+- [[Sultan of Acheh]]
+- [[1892 Snouck Hurgronje advice on Atjeh]]
+- [[Uleebalang]]
+- [[Acheh]]
+- [[Mukim]]
+- [[Sagi (Atjehnese federation)]]
+- [[Dr. C. Snouck Hurgronje]]
 
-## Source
+## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 45–46.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
