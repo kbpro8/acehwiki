@@ -1,7 +1,7 @@
 ---
 title: Korte Verklaring
-aliases: [Korte Verklaring, Korte Verklaringen, Short Declaration, korte verklaring, Declaration of Submission, Korte Verklaring (colonial), the Short Declaration, Korte Verklaring regime, de Korte Verklaring, korte Atjèhverklaring, political declaration]
-tags: [concept, colonial, dutch, sovereignty, document, legal, achehnese, administration, treaty, buitenbezittingen, zelfbesturen, administrative, diplomacy]
+aliases: ["Korte verklaring", "korte verklaring", "short declaration", "the Van Heutsz-Snouck korte verklaring"]
+tags: [concept, colonial, dutch, sovereignty, document, legal, achehnese, administration, treaty, buitenbezittingen, zelfbesturen, administrative, diplomacy, acheh, instrument]
 ---
 
 **The Korte Verklaring** — "Short Declaration" — was the standard colonial compact by which the [[Gouvernement Atjeh en Onderhoorigheden|Nederlandsch-Indisch Gouvernement]] recognised a native chief as *zelfbestuurder* — self-ruler — of his *landschap*, replacing the [[Sarakata|sarakata]] of the [[Sultans of Atjeh|Sultans of Atjeh]] as the documentary basis of native authority in Atjeh and its Onderhoorigheden. Introduced by Governor [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] as part of his pacification system during his governorship of Aceh ([[1898]]–[[1904]]) and later extended to other troubled regions of the Dutch East Indies during his Governor-Generalship ([[1904]]–[[1909]]), the declaration became a central tool of colonial policy whose most controversial provision — Article 3, obliging the ruler to obey all future regulations that the Dutch government might issue — critics argued eliminated any real autonomy and reduced the ruler to a mere official. In [[J. Kreemer|J. Kreemer]]'s *Atjèh* ([[1923]]) the Atjèh-specific form is given the name ***korte Atjèhverklaring*** to distinguish it from the later "uniform model" applied across the buitengewesen.
@@ -104,58 +104,96 @@ In Atjèh, the *Korte Verklaring* was signed by many *landschapshoofden*. Kreeme
 
 Mr. **H. J. Spit**, in his proefschrift *De Indische zelfbesturende landschappen* (p. 10), discussed the third article of the Korte Verklaring, which required the *zelfbestuurder* to follow all regulations and orders from the governor — a potentially far-reaching obligation that was in practice limited by the principle of self-rule.
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**The Korte verklaring** — the "short declaration" — was the administrative instrument drawn up by [[J. B. van Heutsz|Van Heutsz]] "in samenwerking met Snouck Hurgronje" (in cooperation with Snouck Hurgronje) and required of submitted chiefs in the [[Buitengewesten|buitengewesten]] (outer territories). The declaration, whose three points bound the signatory to recognise his territory as part of [[Nederlandsch-Indië|Nederlandsch-Indië]], to be loyal to the Queen and the governor-general, and to comply with all regulations and orders, was eventually signed by 261 chiefs of self-governing territories.
+
+### The three points
+
+The source records that the [[Korte verklaring|korte verklaring]] contained three points:
+
+1. **Recognition of sovereignty**: the chief declared "dat zijn landschap een gedeelte uitmaakt van Nederlands Indië" (that his territory forms a part of the Netherlands Indies).
+2. **Loyalty**: the chief declared "dat hij trouw zou zijn aan H. M. de Koningin der Nederlanden en aan de Gouverneur-Generaal als Hoogstderzelver vertegenwoordiger" (that he would be loyal to H. M. the Queen of the Netherlands and to the Governor-General as their highest representative).
+3. **Compliance**: the chief declared "dat hij zou nakomen en handhaven alle regelingen, die met betrekking tot zijn landschap toepasselijk zouden worden verklaard en in het algemeen alle bevelen van de Gouverneur-Generaal of diens vertegenwoordiger zou opvolgen" (that he would comply with and maintain all regulations that should be declared applicable to his territory, and in general would follow all orders of the Governor-General or his representative).
+
+### The 261 signatories
+
+The source records that "Deze korte verklaring is door 261 hoofden van zelfbesturende landschappen in de buitengewesten getekend" (This short declaration has been signed by 261 chiefs of self-governing territories in the outer territories). The source adds a parenthetical: "(Enige van deze landschappen, in 't bizonder op Timor en omliggende eilanden, zijn niet groter dan een dorp.)" (Some of these territories, particularly on Timor and surrounding islands, are no larger than a village.)
+
+### The longer contracts
+
+The source records that "Zogenaamde lange contracten zijn gesloten met de Susuhunan van Surakarta en de Sultan van Jogjakarta, met de sultans en vorsten ter Oostkust van Sumatra, en met enkele sultans en vorsten op Borneo en in de residentie Timor" (So-called long contracts have been concluded with the Susuhunan of Surakarta and the Sultan of Jogjakarta, with the sultans and princes on the East Coast of Sumatra, and with some sultans and princes on Borneo and in the residency of Timor). The long contracts are the more elaborate instruments required of the principal surviving princes of the archipelago.
+
+### The Mankunegara and Paku Alam contracts
+
+The source records that "Met de hoofden van het Mankunegarose en Paku Alamse huis op Java zijn contracten gesloten, die staatsrechtelijk als korte verklaringen kunnen worden beschouwd" (With the chiefs of the Mankunegara and Paku Alam houses on Java contracts have been concluded that, in constitutional law, can be considered as short declarations).
+
+### Significance
+
+The [[Korte verklaring|korte verklaring]] is, in the source's narrative, the principal administrative instrument of the post-[[1904]] consolidation of Dutch authority in the *buitengewesten*. The 261 signatories include the submitted chiefs of the [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] and of the other post-[[1890s]] consolidated territories of the archipelago.
+
 ## See Also
 
-- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[1938]]
 - [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
-- [[H. N. A. Swart]]
-- [[Atjéh-enquête]]
+- [[Troemon]]
 - [[Pacificatie van Atjeh]]
-- [[Aceh War]]
-- [[C. Snouck Hurgronje]]
-- [[J. Kreemer]]
-- [[Oelèëbalang]]
-- [[Keudjeuroeën]]
-- [[Sarakata]]
-- [[Sultans of Atjeh]]
-- [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[Groot-Atjeh]]
-- [[Alaslanden]]
-- [[Tamiang]]
-- [[Moesapat]]
-- [[Politieke Contracten]]
 - [[Zelfbesturen]]
-- [[Zelfbestuurs-ordonnantie]]
-- [[Zelfbestuursregelen 1919]]
+- [[Atjéh-enquête]]
+- [[1919]]
+- [[Gajo Loeës]]
+- [[Verklaringen in achttien artikelen]]
+- [[Boni]]
+- [[Aceh War]]
+- [[Tamiang]]
+- [[1878 Langkat–Tamiang Transfer]]
+- [[1899]]
+- [[Panglima Polem]]
+- [[1911]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Sarakata]]
+- [[Alaslanden]]
 - [[Buitenbezittingen]]
 - [[J. van Swieten]]
-- [[Verklaringen in achttien artikelen]]
-- [[Këdjoeroen Bidin]]
-- [[Gajo Loeës]]
-- [[Troemon]]
-- [[Koeta-Radja]]
-- [[1878 Langkat–Tamiang Transfer]]
-- [[Poeloe Nas]]
-- [[Boni]]
-- [[Bali]]
-- [[Fock]]
-- [[Idenburg]]
-- [[H. J. Spit]]
-- [[Panglima Polem]]
-- [[1874]]
-- [[1877]]
-- [[1878]]
-- [[1898]]
-- [[1899]]
-- [[1903]]
-- [[1904]]
-- [[1907]]
-- [[1911]]
-- [[1914]]
-- [[1919]]
-- [[1927]]
-- [[1938]]
+- [[Politieke Contracten]]
 - [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
+- [[Këdjoeroen Bidin]]
+- [[1914]]
+- [[Oelèëbalang]]
+- [[Idenburg]]
+- [[1904]]
+- [[1927]]
+- [[C. Snouck Hurgronje]]
+- [[1878]]
+- [[Koeta-Radja]]
+- [[Fock]]
+- [[1907]]
+- [[1874]]
+- [[Keudjeuroeën]]
+- [[Sultans of Atjeh]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[Poeloe Nas]]
+- [[1877]]
+- [[1898]]
+- [[H. N. A. Swart]]
+- [[Zelfbestuurs-ordonnantie]]
+- [[1903]]
+- [[Groot-Atjeh]]
+- [[Bali]]
+- [[Moesapat]]
+- [[Zelfbestuursregelen 1919]]
+- [[H. J. Spit]]
+- [[J. Kreemer]]
+- [[Atjeh en Onderhorigheden]]
+- [[Buitengewesten]]
+- [[Atjehoorlog]]
+- [[Nederlandsch-Indië]]
+- [[J. B. van Heutsz]]
+- [[Dr. C. Snouck Hurgronje]]
 
 ## Sources
 
@@ -168,3 +206,5 @@ Mr. **H. J. Spit**, in his proefschrift *De Indische zelfbesturende landschappen
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 5–7 (section "Bestuurs-organisatie").
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 218-219.
