@@ -1,7 +1,7 @@
 ---
 title: Anglo-Dutch Treaty of 1824
-aliases: [Anglo-Dutch Treaty of 1824, Treaty of 1824, Treaty of London 1824, Dutch-British Treaty of 1824, Tractaat van 17 Maart 1824, London treaty of 17 March 1824, Londensch tractaat van 1824, Tractaat van Londen, London Treaty, Treaty of London, Anglo-Dutch Treaty of London (1824), Anglo-Dutch Treaty of London 1824, Treaty of London (1824), Londensche traktaat 1824, 1824 Treaty]
-tags: [event, document, political, treaty, international, colonial, anglo-dutch, diplomacy]
+aliases: ["Anglo-Dutch Treaty of 1824", "the London Treaty of 1824", "Tractaat van Londen (1824)", "Londense tractaat van 1824"]
+tags: [event, document, political, treaty, international, colonial, anglo-dutch, diplomacy, dutch, british, acheh]
 description: Bilateral agreement of 17 March 1824 between Great Britain and the Netherlands that divided the East Indian archipelago into respective spheres of influence and inserted a fateful Acheh reservation that paralysed Dutch policy on Sumatra for nearly half a century.
 ---
 
@@ -65,78 +65,111 @@ Dr. [[Johan Wøller|Johan Wøller]], recalling the background to the [[Aceh War|
 
 The Treaty of London ([[1824]]) established the colonial framework for the Malay archipelago and shaped relations between [[British Malaya|British Malaya]] and the [[Dutch East Indies]] for the remainder of the nineteenth century. Its provisions on Acheh, however, created a fifty-year period of instability that ultimately led to the [[Aceh War]] of [[1873]]–[[1904]]. The treaty's provisions on Aceh were amended in [[Anglo-Dutch Treaty of 1824|1871]] to allow the Netherlands a free hand in Aceh — clearing the way for the war that would last, with interruptions, until [[1903]]. Van der Kemp notes that the very fact that a separate treaty was required in [[1871]] to undo what had been done in [[1824]] is itself testimony to the magnitude of the original mistake: a treaty intended to define the spheres of the two powers had, by the casual insertion of an Acheh reservation, created an ambiguity that could only be resolved by another treaty half a century later.
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**The Anglo-Dutch Treaty of 1824** — the London Treaty of [[1824]] — was the treaty between the [[Netherlands]] and [[Great Britain|England]] that, after the Napoleonic interlude, settled the colonial spheres of the two maritime powers. With respect to [[Acheh|Atjeh]] it was agreed that the [[Netherlands]] would respect Atjehnese independence while simultaneously suppressing piracy and ensuring the safety of commerce and shipping in the surrounding waters. The two commitments — independence and suppression — proved, in the retrospective of *Nederlanders over de Zeeën*, "twee eisen, die moeilijk met elkaar in overeenstemming te brengen waren" (two demands difficult to reconcile with each other).
+
+### The Atjeh clause
+
+The source records: "Ten aanzien van Atjeh werd overeengekomen, dat wij zijn onafhankelijkheid moesten erbiedigen, doch tegelijkertijd de zeeroof zouden beteugelen en zorgen voor de veiligheid van de handel; twee eisen, die moeilijk met elkaar in overeenstemming te brengen waren" (With respect to Atjeh it was agreed that we must respect its independence, but at the same time suppress piracy and ensure the safety of commerce; two demands difficult to reconcile with each other). The impossible double commitment is, in the source's narrative, the diplomatic seed of the [[Atjehoorlog|Atjehoorlog]] of [[1873]]-[[1904]].
+
+### The colonial-historical lesson
+
+The source draws from the [[Anglo-Dutch Treaty of 1824|1824 undertaking]] a general colonial-historical lesson: "Hier bleek namelijk voor de zoveelste maal in de koloniale geschiedenis, dat twee rijken niet onafhankelijk naast elkaar kunnen blijven bestaan, tenzij in beide een ongeveer gelijke standaard van beschaving en rechtzekerheid wordt gehandhaafd" (Here it became clear, for the umpteenth time in colonial history, that two realms cannot continue to exist independently side by side, unless in both an approximately equal standard of civilisation and legal certainty is maintained). The lesson is the source's principal generalisation from the Atjeh case.
+
+### The 1857 contract
+
+The [[Anglo-Dutch Treaty of 1824|1824 undertaking]] was given operational form in [[1857]] when, after the dispatch of a warship, a contract was concluded with the [[Sultan of Acheh|Sultan of Atjeh]] stipulating mutual admission of trade and the suppression of sea-, strand- and people-robbing. The contract was "niet nageleefd" (not honoured).
+
+### The 1871 supersession
+
+The [[Anglo-Dutch Treaty of 1824|1824 undertaking]] was finally superseded in [[1871]] by the [[Sumatra-tractaat (1871)|Sumatra-tractaat]] — the Anglo-Dutch treaty by which the [[Netherlands]] ceded its possessions on the coast of [[Nieuw Guinea|Guinea]] to Britain in exchange for a free Dutch hand on [[Sumatra]].
+
+### Significance
+
+The [[Anglo-Dutch Treaty of 1824|1824 London Treaty]] is the diplomatic instrument by which the [[Netherlands]] simultaneously guaranteed Atjehnese independence and undertook to suppress Atjehnese piracy. The impossible double commitment is, in the source's narrative, the diplomatic seed of the [[Atjehoorlog|Atjehoorlog]] that began forty-nine years later.
+
 ## See Also
 
-- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1871]]
-- [[Treaty of Pedir (1819)]]
-- [[Anglo-Dutch Treaty of London (1814)]]
-- [[Convention of 24 January 1817]]
-- [[Raising of the Acheh treaty in London negotiations]]
-- [[Dutch plenipotentiaries' dispatch of 21 February 1824]]
-- [[Dutch plenipotentiaries' dispatch of 24 February 1824]]
-- [[London dispatch of 4 August 1824]]
-- [[Instructions of 31 August 1824]]
-- [[Article 6 controversy]]
-- [[Pinang Nota (1825)]]
-- [[Anton Reinhard Falck]]
-- [[Hendrik Fagel]]
-- [[Elout]]
-- [[George Canning]]
+- [[General van der Heijden]]
 - [[Charles Watkin Williams Wynn]]
-- [[Sir Thomas Stamford Raffles]]
-- [[Captain Francis Light]]
-- [[James Price]]
-- [[Robert Fullerton]]
-- [[Lord Palmerston]]
-- [[J. H. van der Palm]]
-- [[W. E. Phillips]]
-- [[P. H. van der Kemp]]
-- [[C. Snouck Hurgronje]]
-- [[Johan Wøller]]
 - [[Atjeh en Onderhorigheden]]
-- [[Achehnese War]]
+- [[Bintan]]
+- [[Dutch plenipotentiaries' dispatch of 24 February 1824]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of 1871]]
+- [[Tapanoeli]]
+- [[London dispatch of 4 August 1824]]
+- [[Straits of Malacca]]
 - [[Aceh War]]
-- [[Acheh]]
-- [[Sumatra]]
-- [[Malay Peninsula]]
-- [[Singapore]]
+- [[Johan Wøller]]
+- [[Elout]]
+- [[Instructions of 31 August 1824]]
+- [[Hindostan]]
+- [[1824]]
+- [[P. H. van der Kemp]]
+- [[1817]]
+- [[Article 6 controversy]]
+- [[Robert Fullerton]]
+- [[1786]]
+- [[Sir Thomas Stamford Raffles]]
 - [[Malacca]]
+- [[Dutch Gold Coast cession|Cape of Guinea cession (1871)]]
+- [[Civil government period]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz's governorship]]
+- [[Achehnese War]]
+- [[Sultanate of Aceh]]
+- [[Lord Palmerston]]
+- [[Padri War|Padri War on Sumatra's East Coast]]
+- [[Anjer]]
+- [[Sumatra]]
 - [[Benkoelen]]
 - [[Padang]]
-- [[Riouw]]
-- [[Lingga]]
-- [[Karimon Islands]]
+- [[Borneo]]
+- [[Hendrik Fagel]]
+- [[British Empire]]
+- [[1904]]
+- [[Declaration of War on Aceh (1873)]]
+- [[Pinang Nota (1825)]]
+- [[C. Snouck Hurgronje]]
 - [[Batam]]
-- [[Bintan]]
-- [[Anjer]]
-- [[Tapanoeli]]
-- [[Hindostan]]
+- [[Dutch plenipotentiaries' dispatch of 21 February 1824]]
+- [[Malay Peninsula]]
+- [[Singapore]]
+- [[Treaty of Pedir (1819)]]
+- [[James Price]]
+- [[Anglo-Dutch Treaty of London (1814)]]
+- [[Labuan]]
+- [[Anton Reinhard Falck]]
+- [[Karimon Islands]]
+- [[W. E. Phillips]]
+- [[Paper war]]
+- [[1825]]
+- [[1814]]
+- [[Convention of 24 January 1817]]
+- [[London Convention on Transvaal (1884)]]
+- [[George Canning]]
+- [[Raising of the Acheh treaty in London negotiations]]
+- [[J. H. van der Palm]]
+- [[Dutch East Indies]]
+- [[1871]]
 - [[Suzerainty question]]
 - [[Sphere of influence]]
-- [[Paper war]]
-- [[Dutch Gold Coast cession|Cape of Guinea cession (1871)]]
-- [[London Convention on Transvaal (1884)]]
-- [[Padri War|Padri War on Sumatra's East Coast]]
-- [[General van der Heijden]]
-- [[Civil government period]]
 - [[Concentration Scheme]]
-- [[Joannes Benedictus van Heutsz|Van Heutsz's governorship]]
-- [[Declaration of War on Aceh (1873)]]
-- [[British Empire]]
-- [[Dutch East Indies]]
-- [[Sultanate of Aceh]]
-- [[Labuan]]
-- [[Borneo]]
-- [[Straits of Malacca]]
-- [[1786]]
-- [[1814]]
-- [[1817]]
-- [[1819]]
-- [[1824]]
-- [[1825]]
-- [[1871]]
 - [[1873]]
-- [[1904]]
+- [[Acheh]]
+- [[Lingga]]
+- [[Captain Francis Light]]
+- [[Riouw]]
+- [[1819]]
+- [[Sultan of Acheh]]
+- [[Sumatra-tractaat (1871)]]
+- [[Atjehoorlog]]
+- [[1857]]
+- [[Nieuw Guinea]]
 
 ## Sources
 
@@ -149,3 +182,5 @@ The Treaty of London ([[1824]]) established the colonial framework for the Malay
 *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), p. 144.
 
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665–1945*, OCR text, pp. 109–110, 121.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 197, 216.
