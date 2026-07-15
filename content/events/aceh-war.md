@@ -204,6 +204,16 @@ The last nine years of the war — by the official figures cited by [[J. K. J. d
 
 The [[Atjeh-oorlog (1873-1904)|Atjeh-oorlog]] is, in the [[W. H. Vermeulen|Vermeulen]] retrospective, the central colonial episode of the [[1891]]-[[1918]] period. Its conduct and conclusion defined the political-military frame within which the [[Ethische Politiek|ethical-policy]] state was constructed; its parliamentary record is the spine of the [[W. H. Vermeulen|Vermeulen]] section of the [[1955]] *Schets*.
 
+## Account from *DLP-84-Atjeh*
+
+The summary entry in *DLP-84-Atjeh* frames the **Aceh War** (Indonesian: *Perang Aceh*; Dutch: *Atjeh-oorlog*) as a protracted conflict between the [[Sultanate of Aceh|Sultanate of Atjeh]] and the Dutch colonial forces of the [[Dutch East Indies Government|Dutch East Indies Government]], lasting from [[1873]] until the formal cessation of hostilities in [[1903]]. The DLP-84 sketch records that the war devastated the region's economy, agriculture, and demography, leaving the Acehnese population "terribly impoverished" (Dutch: *schrikbaar verarmd*). Although the actual war (Dutch: *feitelijke oorlog*) was declared over in [[1903]], sporadic resistance (Dutch: *sporadisch verzet*) continued thereafter, and the conflict is often extended in historiography to [[1904]].
+
+The DLP-84 entry documents the course of the war as a combination of sustained military campaigns, the construction of forts (Dutch: *forten*), and the building of infrastructure such as the [[Atjehspoorweg|Atjehspoorweg]] and the [[Gajoweg (Gayo Road)|Gajoweg]] to secure Dutch control over the region. Under [[Joannes Benedictus van Heutsz|General Van Heutsz]], Dutch troops of the [[Indische Leger|Indische Leger]] conducted continuous expeditions, establishing forts like [[Peunajong]] and engaging in daily combat. The intensified military actions under Van Heutsz resulted in heavy casualties, which in turn required extensive pastoral care for the troops.
+
+The DLP-84 sketch also records the religious dimension of the war: Christian soldiers, many of them [[Ambonese soldiers|Ambonese]], were ministered to by chaplains described as *soldier-pastors* (Dutch: *soldaten-pastoors*), including [[Dominee Thenu|Ds. Thenu]] and [[Pastoor Verbraak|Pastoor Verbraak]]. This practice illustrates the intertwining of military and missionary activities during the campaigns — a complement to the *Marechaussée* system and the *vliegende colonnes* that has left its traces in the colonial-era chaplaincy literature preserved in the wiki.
+
+The war's conclusion in [[1903]] enabled the Dutch to implement the [[Agrarische Wet 1870|Agrarische Wet 1870]] and to open Aceh to plantation agriculture (Dutch: *ondernemingen*), altering the social and economic fabric of the region. The conflict thus stands as a turning-point between the era of Acehnese sovereignty and the full integration of the region into the Dutch colonial economic system.
+
 ## See Also
 
 - [[Disputed Succession to the Panglimaship of the XXVI Mukims]]
@@ -305,6 +315,15 @@ The [[Atjeh-oorlog (1873-1904)|Atjeh-oorlog]] is, in the [[W. H. Vermeulen|Verme
 - [[J. B. van Heutsz]]
 - [[Abraham Kuyper]]
 - [[Van Heutsz's report on Atjeh (June 1908)]]
+- [[Atjehspoorweg]]
+- [[Gajoweg (Gayo Road)|Gajoweg]]
+- [[Peunajong]]
+- [[Indische Leger]]
+- [[Ambonese soldiers]]
+- [[Dominee Thenu]]
+- [[Pastoor Verbraak]]
+- [[Agrarische Wet 1870]]
+- [[Dutch East Indies Government]]
 
 ## Sources
 
@@ -317,3 +336,5 @@ The [[Atjeh-oorlog (1873-1904)|Atjeh-oorlog]] is, in the [[W. H. Vermeulen|Verme
 *Het Land van Jan Pieterszoon Coen*, door Dr. W. A. Terwogt (Hoorn: P. Geerts, [1891]). Hoofdstuk XIII: the Atjeh-oorlog 1857–1891, including the [[Eerste Atjeh-expeditie (1873)|first expedition]] (March–April 1873), the [[Tweede Atjeh-expeditie (1873-1874)|second expedition]] (December 1873–January 1874), and the protracted guerrilla to the end of 1891.
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 267-275.
+
+*DLP-84-Atjeh.pdf*, pp. 6, 10.

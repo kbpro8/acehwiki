@@ -40,8 +40,15 @@ The Encyclopaedisch Bureau's Mededeelingen publication frames the Atjeh Tram as 
 
 The Bureau's publication references a "Kaartje der verbinding tusschen Atjeh-tram en Deli-net" — a map of the connection between the Atjeh Tram and the [[Deli Spoorweg Maatschappij|Deli network]] — indicating that the Atjeh Tram was conceived as part of a larger plan to create a transportation corridor linking the northern coast with the plantation economy of the [[Oostkust van Sumatra]] (Deli area). The "Grafiek betreffende de Atjeh-tram" (financial graph) likewise tracked the line's economic performance as the colonial state assessed the viability of its investment.
 
+## Account from *DLP-84-Atjeh* — the lowland tram alongside the Great Atjeh Road
+
+The *DLP-84-Atjeh* pamphlet records that the [[Atjeh-tram|Atjehtram]] was a tram line that ran alongside the [[Atjehweg|Great Atjeh Road (*Atjehweg*)]] in the lowland areas of [[Atjeh|Atjeh]]. The tram facilitated the movement of goods and people, contributing to the region's economic opening. The tram's presence encouraged intensified traffic, trade and a shift toward a more peaceful and prosperous society — the colonial pamphlet's framing of the tram as the infrastructural vehicle of the *pacificatie* (pacification) of Acheh.
+
 ## See Also
 
+- [[Atjehweg]]
+- [[Great Atjeh Road]]
+- [[Economic development in Aceh]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]
 - [[H. N. A. Swart]]
 - [[Joannes Benedictus van Heutsz]]
@@ -85,6 +92,8 @@ The Bureau's publication references a "Kaartje der verbinding tusschen Atjeh-tra
 *De Buitenbezittingen 1904*. In: *Mededeelingen van het Encyclopaedisch Bureau*. Batavia: G.C.T. van Dorp & Co., [ca. 1915].
 
 D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), p. 33. Koninklijke Bibliotheek shelfmark 0301 4872. The biography records the construction of the Kota Radja–Olehleh smalspoorbaan and the vakwerk-aanleggtiier at [[Oleh-leh|Olehleh]] as one of the peacetime engineer works of [[Cornelis Jacobus Snijders|Snijders]] at [[Koeta Radja|Kota Radja]] in [[1874]]–[[1875]].
+
+*DLP-84-Atjeh.pdf*, p. 8.
 ---
 
 **The Atjeh-tram** was the military-origin tramway of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] that, by [[1917]], had become the principal transport artery of the *gewest* — connecting [[Koeta Radja|Koeta Radja]] and [[Oelèë Lheuë|Oelèë Lheuë]] with Indragiri and Seulimeum and, beyond the Goudberg-hoogvlakte, with the principal bevolkings-centra of the Noord- and Oostkust as far as [[Koeala Simpang|Koeala Simpang]] and [[Besitang|Besitang]]. Operated as the *Dienst der S.S.* (Staatsspoorwegen) under the Department van Gouvernements-Bedrijven, the Atjeh-tram had, *De Buitenbezittingen* records, "haar militaire rol reeds geheel losgelaten" — already entirely shed its military role — and now possessed "in de voornaamste plaats economische beteekenis."
@@ -123,8 +132,15 @@ The Encyclopaedisch Bureau's Mededeelingen publication frames the Atjeh Tram as 
 
 The Bureau's publication references a "Kaartje der verbinding tusschen Atjeh-tram en Deli-net" — a map of the connection between the Atjeh Tram and the [[Deli Spoorweg Maatschappij|Deli network]] — indicating that the Atjeh Tram was conceived as part of a larger plan to create a transportation corridor linking the northern coast with the plantation economy of the [[Oostkust van Sumatra]] (Deli area). The "Grafiek betreffende de Atjeh-tram" (financial graph) likewise tracked the line's economic performance as the colonial state assessed the viability of its investment.
 
+## Account from *DLP-84-Atjeh* — the lowland tram alongside the Great Atjeh Road
+
+The *DLP-84-Atjeh* pamphlet records that the [[Atjeh-tram|Atjehtram]] was a tram line that ran alongside the [[Atjehweg|Great Atjeh Road (*Atjehweg*)]] in the lowland areas of [[Atjeh|Atjeh]]. The tram facilitated the movement of goods and people, contributing to the region's economic opening. The tram's presence encouraged intensified traffic, trade and a shift toward a more peaceful and prosperous society — the colonial pamphlet's framing of the tram as the infrastructural vehicle of the *pacificatie* (pacification) of Acheh.
+
 ## See Also
 
+- [[Atjehweg]]
+- [[Great Atjeh Road]]
+- [[Economic development in Aceh]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]
 - [[H. N. A. Swart]]
 - [[Joannes Benedictus van Heutsz]]
@@ -168,3 +184,5 @@ The Bureau's publication references a "Kaartje der verbinding tusschen Atjeh-tra
 *De Buitenbezittingen 1904*. In: *Mededeelingen van het Encyclopaedisch Bureau*. Batavia: G.C.T. van Dorp & Co., [ca. 1915].
 
 D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), p. 33. Koninklijke Bibliotheek shelfmark 0301 4872. The biography records the construction of the Kota Radja–Olehleh smalspoorbaan and the vakwerk-aanleggtiier at [[Oleh-leh|Olehleh]] as one of the peacetime engineer works of [[Cornelis Jacobus Snijders|Snijders]] at [[Koeta Radja|Kota Radja]] in [[1874]]–[[1875]].
+
+*DLP-84-Atjeh.pdf*, p. 8.

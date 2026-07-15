@@ -51,29 +51,48 @@ Atjeh was renowned for its strict adherence to Sunni Islam, which shaped both it
 
 The prolonged resistance of Atjeh became the longest‑running colonial conflict in the Indonesian archipelago, influencing Dutch military doctrine, colonial administration, and the eventual integration of Aceh into the modern Indonesian state. The extensive list of honours awarded to members of the [[Korps Mariniers (Netherlands)]]—including the prestigious [[Ridder Militaire Willemsorde]]—testifies to the intensity of the fighting and the central place of the Aceh War in Dutch military history. Moreover, Atjeh’s role as a hub of Islamic learning and pepper trade left a lasting cultural imprint on the region.
 
+## Account from *DLP-84-Atjeh* — chaplaincy, soldiery and religious landscape
+
+In the late nineteenth century, the colonial capital [[Koeta-Radja]] was surrounded by a ring of forts (*forten* (forts)), many of them garrisoned by Christian soldiers — the [[Ambonese soldiers|Ambonese]] contingents of the [[Indische Leger|Indische Leger]] — and the broader soldiery of the [[Dutch East Indies]] colonial army. A period of relative peace was punctuated by renewed *military action* under [[Joannes Benedictus van Heutsz|General Van Heutsz]], producing continuous troop movements and combat through the final phase of the [[Aceh War|Atjeh-oorlog]].
+
+The chaplaincy to these Christian soldiers was exercised by the *soldier-dominee* [[Dominee Thenu|Ds. Thenu]] and the *soldier-pastor* [[Pastoor Verbraak]] — the one Protestant, the other Catholic — who served the dual religious and moral needs of the Christian Ambonese and European soldiery.
+
+The source describes the broader social and cultural life of Aceh: agricultural practices such as sugar-cane pressing and rice cultivation; household objects, toys and weapons — reflecting a society in which indigenous traditions coexisted with European influences. The religious landscape is described as one in which [[Catholicism]] and [[Protestantism]] were present among the Christian soldiers, while the majority of the native population adhered to [[Islam]] — referred to in the source as *Mohammedaan* (Mohammedan) — and retained elements of [[Animism]].
+
 ## See Also
 
 - [[Bandjar]]
 - [[Aroe Islands]]
-- [[Aceh War (1873–1904)]]
+- [[Aceh War (1873-1904)]]
 - [[Dutch East India Company]]
 - [[Netherlands in the East Indies]]
 - [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
 - [[Indische legerverband]]
 - [[Pacification of the Dutch East Indies]]
-- [[War against the Aceh Sultanate (1873–1874)]]
-- [[Krijgverrichtingen in Atjeh (1874–1875)]]
+- [[War against the Aceh Sultanate (1873-1874)]]
+- [[Krijgverrichtingen in Atjeh (1874-1875)]]
 - [[Operation Simpang Olim (1878)]]
 - [[Samalanga Expedition|Expedition Samalanga and Peusangan (1901)]]
 - [[Edi (Atjeh)]]
 - [[Tamiang|Tamiang (Sumatra)]]
 - [[Ridder Militaire Willemsorde]]
-- [[Ridder in Orde van Oranje‑Nassau]]
+- [[Ridder in Orde van Oranje-Nassau]]
+- [[Koeta-Radja]]
+- [[Indische Leger]]
+- [[Ambonese soldiers]]
+- [[Dominee Thenu]]
+- [[Pastoor Verbraak]]
+- [[Catholicism]]
+- [[Protestantism]]
+- [[Animism]]
+- [[Islam]]
 
 ## Source
 
-*De Geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, by C. J. O. DORREN, 1948, pp. 91‑99 (see page 16 of the OCR source).  
+*De Geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, by C. J. O. DORREN, 1948, pp. 91-99 (see page 16 of the OCR source).  
 
-*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pp. 185‑186.  
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pp. 185-186.  
 
-*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR transcription, page 477.
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, OCR transcription, page 477.
+
+*DLP-84-Atjeh.pdf*, pp. 5-7.

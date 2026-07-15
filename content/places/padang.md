@@ -51,6 +51,10 @@ In a report dated [[29 November]] [[1827]], the former Singapore resident [[John
 
 Padang’s long‑term role as the VOC’s Westkust headquarters, the seat of the panglima‑radja, and the venue of the 1680 Padang Conference made it the administrative and cultural heart of Dutch western Sumatra. Its transfer to British control in 1824 marked a pivotal shift in colonial geopolitics, influencing Dutch focus on Aceh and the broader competition over the Strait of Malacca. The town’s cultural legacy—visible in the Hasan‑Husain festival, Minangkabau *adat* publications, and comparative material‑culture studies—continues to inform the historiography of both Acehnese and Minangkabau societies.
 
+## Account from *DLP-84-Atjeh* — the post-Atjeh posting of Pastoor Verbraak
+
+The *DLP-84-Atjeh* pamphlet records that [[Padang]] was a later posting for [[Pastoor Verbraak|Pastoor Verbraak]] after his service in [[Atjeh|Atjeh]]. Following his tenure in the forts of Atjeh, Verbraak continued his apostolate (*apostolaat* (apostolate)) in the Dutch colonial barracks of Padang before moving on to [[Malang|Malang]]. Padang thus served as a west-coast station in the broader chaplaincy network of the *soldier-pastor*, between the Atjeh forts of his principal service and his subsequent posting in east Java.
+
 ## See Also
 
 - [[Benkoelen]]
@@ -102,6 +106,8 @@ Padang’s long‑term role as the VOC’s Westkust headquarters, the seat of th
 - [[British Empire]]
 - [[Dutch East Indies]]
 - [[Aceh]]
+- [[Pastoor Verbraak]]
+- [[Malang]]
 
 ## Source
 
@@ -112,3 +118,5 @@ Padang’s long‑term role as the VOC’s Westkust headquarters, the seat of th
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* (’s‑Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 15–16, 18, 20–21, 3 (tekst bij blad 4 en 5).
 
 *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 109‑110.
+
+*DLP-84-Atjeh.pdf*, pp. 6-7.

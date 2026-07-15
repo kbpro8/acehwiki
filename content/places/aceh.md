@@ -34,6 +34,14 @@ Dutch administration gradually extended from the west coast of Sumatra into the 
 
 Aceh’s prolonged resistance became a potent symbol of anti‑colonial struggle in Indonesia. The region’s strong Islamic character and memory of the Aceh War informed later movements, most notably the [[Aceh insurgency]] (1976–[[2005]]). Contemporary Acehnese identity continues to draw on the sultanate’s historical legacy of independence and maritime trade.
 
+## Account from *DLP-84-Atjeh* — landscape, demography, and economy (c. [[1920]]–[[1930]])
+
+In the early twentieth-century description preserved in the *DLP-84-Atjeh* pamphlet, [[Aceh]] is characterised as a region of sharply contrasting landscapes: the [[East Coast of Aceh|Oostkust (East Coast)]] dominated by mangrove swamps whose aerial roots are visible in the coastal marshes; the steep and rugged [[West Coast of Aceh|Westkust (West Coast)]]; and an interior largely covered by primeval forest (*oerbos* (primeval forest)) with a complex network of trees, lianas and epiphytes such as orchids. Areas cleared by the local population through a practice the source renders as *roof-building* (forest clearance) had become covered with hard grass (*alang-alang* (cogon grass)) savanna.
+
+The demography of the residency in the [[1920]]–[[1930]] period is given as approximately one million inhabitants, of whom the [[Acehnese|Acehnese (*Atjehers*)]] constituted the majority at 84 %, with minorities of [[Gajo|Gajos]], [[Alaslanders|Alassers]], [[Javanese]], [[Chinese]] and Europeans. Between [[1920]] and [[1930]] the population grew by 36 %, with notable increases among the Chinese and Javanese migrant communities — a demographic shift that reflects the integration of [[Aceh]] into the colonial labour market of the [[Dutch East Indies]].
+
+Traditional agriculture — rice, pinang (betel nut), rubber, copra, pepper, coffee, kapok, cloves, nutmeg and *bakau* (rhizophore bast) — co-existed with plantation agriculture introduced after the construction of the [[Atjehsche Staatsspoorwegen|Atjeh railway (*Atjehspoorweg*)]] and the [[Gajoweg (Gayo Road)|Gajoweg (Gajo Road)]]. The [[Agrarische Wet 1870]] (*Agrarische Wet* (Agrarian Law)) limited land ownership to Europeans, relegating indigenous lands to leasehold (*erfpacht* (long-lease)) — the legal mechanism by which the colonial state opened Aceh to plantation capital after the [[Aceh War|Aceh-oorlog]].
+
 ## See Also
 
 - [[Dutch East Indies]]
@@ -51,9 +59,20 @@ Aceh’s prolonged resistance became a potent symbol of anti‑colonial struggle
 - [[Dutch Navy|Royal Netherlands Navy]]
 - [[Marine operations on Sumatra 1874–1876]]
 - [[Aceh Expedition 1875–1876]]
+- [[East Coast of Aceh]]
+- [[West Coast of Aceh]]
+- [[Gajoweg (Gayo Road)|Gajoweg]]
+- [[Atjehsche Staatsspoorwegen|Atjehspoorweg]]
+- [[Agrarische Wet 1870]]
+- [[Groot-Atjeh]]
+- [[Alas-alang]]
+- [[Indonesia]]
 
 ## Source
 
 *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, p. 91.  
 
 *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 109‑111.
+
+
+*DLP-84-Atjeh.pdf*, pp. 8-10.

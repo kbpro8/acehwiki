@@ -50,6 +50,10 @@ The Dutch East Indies administered Sumatra through a hierarchy of residencies an
 
 Sumatra’s gradual integration into the Dutch colonial system set the stage for the prolonged [[Aceh War (1873–1904)]] and ultimately for the island’s incorporation into the modern [[Republic of Indonesia]] after [[World War II]]. The island’s history exemplifies the complex interplay between resilient local sultanates—most prominently Aceh—and European colonial powers, as well as the pivotal role of the [[Royal Netherlands Marine Corps|Korps Mariniers]] and later naval forces in projecting Dutch authority across the archipelago.
 
+## Account from *DLP-84-Atjeh* — The Koetaradja Sultanate and the Old Malay / Young Malay Demographic Mosaic
+
+The *DLP-84-Atjeh* source frames [[Sumatra]] as the large western island of the Indonesian archipelago, of which the northern tip hosts the sultanate of [[Acheh (Atjeh)|Acheh (Atjeh)]]. Throughout history, the source records, the island has been a crossroads for Malay migrations, Islamic conversion, and European trade. By circa [[1500]], the sultans of the [[Koetaradja Sultanate|Koetaradja Sultanate]] had extended their suzerainty over large adjacent territories of Sumatra, including the coastal region of [[Benkoelen|Benkoelen]]. The island's interior was originally inhabited by various indigenous groups, later joined by Old Malay peoples (Dutch: *Oud-Maleiers*) — including the [[Batak|Bataks]], [[Dajaks]], and [[Toradja|Toradja]] — and by Young Malay migrants (Dutch: *Jong-Maleiers*), including the [[Atjehers|Atjehers]], [[Menangkabau|Minangkabauers]], and [[Javanese]]. The resulting cultural mosaic facilitated the spread of [[Islam]] and the development of a vibrant pepper trade. European powers — first the [[Portuguese traders|Portuguese]], then the [[Dutch East India Company|Dutch]] — sought control of Sumatra's spice-producing regions. The [[Dutch East Indies Government|Dutch East Indies Government]] used the strategic importance of the [[Strait of Malacca|Strait of Malacca]] and the need to suppress piracy as the formal justification for the military campaigns that culminated in the [[Aceh War|Aceh War]].
+
 ## See Also
 
 - [[Aceh Sultanate]]
@@ -112,6 +116,14 @@ Sumatra’s gradual integration into the Dutch colonial system set the stage for
 - [[1871]]
 - [[1874]]–[[1876]]
 - [[1884]]
+- [[1500]]
+- [[Koetaradja Sultanate]]
+- [[Dajaks]]
+- [[Toradja]]
+- [[Atjehers]]
+- [[Javanese]]
+- [[Islam]]
+- [[Portuguese traders]]
 
 ## Source
 
@@ -124,3 +136,5 @@ Sumatra’s gradual integration into the Dutch colonial system set the stage for
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pp. 102‑104, 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
 
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, pages 174‑182.
+
+*DLP-84-Atjeh.pdf*, pp. 2-4.

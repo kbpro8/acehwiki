@@ -66,6 +66,10 @@ The Dutch naval archive preserves a detailed map titled *[[Kaart van Groot Atjeh
 
 Groot-Atjeh’s dense jungle and mountainous terrain presented logistical challenges that forced the Dutch to adapt both amphibious and infantry tactics. The region was repeatedly traversed during the [[Aceh Expedition (1873–1876)|Aceh Expedition (1873–1876)]] and the specific 1875‑1876 operations (see [[Aceh Expedition (1873–1876)|Atjeh campaign (26 December 1875 – 4 September 1876)]]). The difficult topography required the construction of supply lines, the establishment of the [[Atjeh-tram|Atjeh‑tramway]] network, and the deployment of specialized engineering units. The military experience in Groot-Atjeh informed later Dutch colonial doctrine on jungle warfare and contributed to the eventual [[Pacificatie van Atjeh|pacification]] of the region.
 
+## Account from *DLP-84-Atjeh* — *alang-alang* savanna and environmental transformation
+
+The *DLP-84-Atjeh* pamphlet records that the interior highland region of [[Groot-Atjeh]] — after extensive deforestation (*roof-building*, the local term for forest clearance) by the local population — became largely covered with hard grass (*alang-alang* (cogon grass)) savanna. Intensive clearance transformed large tracts of primeval forest (*oerbos* (primeval forest)) into savanna, altering the ecological balance and reducing biodiversity. The conversion to grassland affected traditional agriculture and facilitated the later introduction of plantation crops — rubber, oil-palm and sisal — on cleared land.
+
 ## See Also
 
 - [[1873]]
@@ -127,3 +131,5 @@ Groot-Atjeh’s dense jungle and mountainous terrain presented logistical challe
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch‑Indië* (Batavia: Landsdrukkerij, [[1914]]), pp. 118‑130, 358.
 
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pp. 471‑472.
+
+*DLP-84-Atjeh.pdf*, p. 8.

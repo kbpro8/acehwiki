@@ -32,6 +32,10 @@ The Indische Leger’s effectiveness relied on close cooperation with the [[Roya
 
 The Indische Leger embodied the Dutch colonial state’s capacity to mobilize a standing army for both early‑nineteenth‑century punitive expeditions and a protracted war of conquest during the Aceh conflict. Its organizational flexibility—evident in the rapid reinforcement of marine units, the coordination of artillery, logistics, and policing, and the adaptation to joint operations with the [[Royal Netherlands Marine Corps|Korps Mariniers]]—set a precedent for later colonial military structures in Southeast Asia.
 
+## Account from *DLP-84-Atjeh* — Ambonese *fusiliers* and the chaplaincy of the Atjeh forts
+
+The *DLP-84-Atjeh* pamphlet records that the [[Indische Leger|Indische Leger]] — the colonial army of the [[Dutch East Indies|Dutch East Indies]] — comprised European officers, Ambonese *fusiliers* (infantrymen) and other native troops. It operated in [[Atjeh|Atjeh]] during the [[Aceh War|Aceh War]], employing the chaplains [[Dominee Thenu|Ds. Thenu]] and [[Pastoor Verbraak]] — the one a *soldier-dominee*, the other a *soldier-pastor* — to tend to soldiers' spiritual needs. The Ambonese *fusiliers* and European soldiers, many of them Christian, served under the guidance of these *soldier-pastors* (*soldaten-pastoors*), the chaplaincy arrangement that supplied the moral and religious framework for the Christian soldiery of the Atjeh garrisons.
+
 ## See Also
 
 - [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
@@ -59,3 +63,5 @@ The Indische Leger embodied the Dutch colonial state’s capacity to mobilize a 
 *Verslagen der Marine‑Vereeniging III 1889‑1890*, J. R. J. P. Cambier, pp. 229‑233.  
 
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, DLP‑55, pp. 138‑141.
+
+*DLP-84-Atjeh.pdf*, pp. 4-5.

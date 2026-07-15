@@ -132,6 +132,18 @@ The [[Van Heutsz's inspection tour of Atjeh (December 1907)|inspection tour]] th
 
 [[Koeta Radja|Koeta Radja]] is the geographical pivot of the Atjehnese war. The *concentratie-stelling* of [[1884]]-[[1896]] is the strategic fact that defines the middle period of the war; the post-[[1896]] recovery is the strategic fact that defines its conclusion. Both are anchored on [[Koeta Radja|Koeta Radja]].
 
+## Account from *DLP-84-Atjeh* — distances, demography and the colonial garrison
+
+The *DLP-84-Atjeh* pamphlet records the colonial-educational fact that the distance from [[Koeta-Radja|Koeta Radja]] to [[Medan]] — the capital of [[Sumatra's East Coast]] (Dutch: *Sumatra's Oostkust*, abbreviated *S.O.K.*) — was 608 kilometres, a distance the pamphlet illustrates by comparison with the distance from [[Amsterdam]] to [[Berlin]]. The figure underscores the vast geographic spread of the residency of [[Acheh]] relative to the neighbouring economic hub of the S.O.K.
+
+The population statistics of [[Acheh]] were calculated in part using the geographic footprint of [[Koeta-Radja|Koeta Radja]] and the wider residency. While the gross population density of Acheh was artificially low — owing to the inclusion of uninhabited primeval forest (*oerwoud* (primeval forest)) in land-area calculations — the actual density per cultivated square kilometre was 88 inhabitants, a figure the pamphlet compares to the average population density of the Dutch province of [[Drente]]. Within this demographic landscape, approximately 3,200 Europeans resided in Acheh, meaning there was only one European for every 17 square kilometres — a measure of the limited colonial settlement footprint outside the major administrative centres like [[Koeta-Radja|Koeta Radja]].
+
+A defensive perimeter of *forten* (forts) was constructed around [[Koeta-Radja|Koeta Radja]], manned largely by Christian soldiers. The fort of [[Peunajong]] served as a base for the pastoral work of [[Dominee Thenu|Ds. Thenu]]. The [[Peutjoet|Kerkhof Peutjoet]] near [[Koeta-Radja|Koeta Radja]] contains the graves of Dutch and indigenous soldiers who fell during the [[Aceh War]].
+
+As the administrative capital, [[Koeta-Radja|Koeta Radja]] anchored the colonial infrastructure of the residency. Despite Acheh possessing only 1/65th of the total population of the [[Dutch East Indies]], the colonial state maintained a disproportionate military presence: 1/9th of the entire [[Indische Leger|Royal Dutch East Indies Army]] (*Koninklijk Nederlands Indisch Leger*) was garrisoned in Acheh even during the peacetime consolidation period of the [[1930s]].
+
+The Dutch East Indies Government also constructed a substantial mosque at [[Koeta-Radja|Koetaradja]] — larger than the modest village *missigit* (mosque) structures found elsewhere in Acheh — built in a more robust colonial architectural style than the simple, roof-less village mosques.
+
 ## See Also
 
 - [[A. Pruys van der Hoeven|Pruys van der Hoeven]]
@@ -217,3 +229,7 @@ The [[Van Heutsz's inspection tour of Atjeh (December 1907)|inspection tour]] th
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), pp. 207–208 (Kr. Geuenteuet and Gle Mon Ampeuet localities, with distance-and-bearing references to Kota Radja).
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-274.
+
+*DLP-84-Atjeh.pdf* (Part 5 of 5), p. 16. Centrale Boekerij Kon. Inst. v.d. Tropen, Amsterdam.
+
+*DLP-84-Atjeh.pdf*, p. 9.

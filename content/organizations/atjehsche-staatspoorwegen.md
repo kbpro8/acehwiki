@@ -27,6 +27,10 @@ The Atjehsche Staatsspoorwegen's tracks, points and workshop were the principal 
 
 The Atjehsche Staatsspoorwegen is, in the staff history's Atjeh chapter, the principal logistical infrastructure of the pre-invasion Atjeh campaign — and the principal strategic target of the F-beweging. The staff history's emphasis on the systematic disabling of the track, points and workshop in February–March [[1942]] frames the F-beweging's sabotage as a strategically informed attack on the Dutch colonial state's logistical capacity, rather than as random vandalism. The tramway's last operational use — the 06.30 evacuation train of [[12 March]] [[12 March 1942|12 March]] — is the staff history's principal instance of the colonial infrastructure's final service to the Dutch evacuation, immediately before the Japanese capture of Kotaradja.
 
+## Account from *DLP-84-Atjeh* — the military-economic railway and the broader transport network
+
+The *DLP-84-Atjeh* pamphlet describes the [[Atjehsche Staatsspoorwegen|Atjehspoorweg (Atjeh railway)]] as the colonial railway built in [[Atjeh|Atjeh]] for military and economic purposes. Together with the [[Grote Atjehweg|Great Atjeh Road (*Grote Atjehweg*)]] and the [[Gajoweg (Gayo Road)|Gajo Road (*Gajoweg*)]], the railway formed a transport network that opened the interior to trade and settlement. The railway facilitated rapid troop movement during the lingering security concerns after the [[Aceh War|Aceh War]], and enabled the export of plantation products — rubber, palm oil and sisal — via the port of [[Belawan|Belawan]].
+
 ## See Also
 
 - [[Nederlands-Indië contra Japan]]
@@ -41,10 +45,19 @@ The Atjehsche Staatsspoorwegen is, in the staff history's Atjeh chapter, the pri
 - [[Seulimeum]]
 - [[Oleh-leh]]
 - [[1942]]
+- [[Grote Atjehweg]]
+- [[Gajoweg (Gayo Road)|Gajoweg]]
+- [[Belawan]]
+- [[Rubber cultivation]]
+- [[Palm oil cultivation]]
+- [[Sisal cultivation]]
+- [[Atjehspoorweg]]
 
 ## Source
 
 *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 124, 141.
+
+*DLP-84-Atjeh.pdf*, p. 10.
 ---
 
 
@@ -70,6 +83,10 @@ The Atjehsche Staatsspoorwegen's tracks, points and workshop were the principal 
 
 The Atjehsche Staatsspoorwegen is, in the staff history's Atjeh chapter, the principal logistical infrastructure of the pre-invasion Atjeh campaign — and the principal strategic target of the F-beweging. The staff history's emphasis on the systematic disabling of the track, points and workshop in February–March [[1942]] frames the F-beweging's sabotage as a strategically informed attack on the Dutch colonial state's logistical capacity, rather than as random vandalism. The tramway's last operational use — the 06.30 evacuation train of [[12 March]] [[12 March 1942|12 March]] — is the staff history's principal instance of the colonial infrastructure's final service to the Dutch evacuation, immediately before the Japanese capture of Kotaradja.
 
+## Account from *DLP-84-Atjeh* — the military-economic railway and the broader transport network
+
+The *DLP-84-Atjeh* pamphlet describes the [[Atjehsche Staatsspoorwegen|Atjehspoorweg (Atjeh railway)]] as the colonial railway built in [[Atjeh|Atjeh]] for military and economic purposes. Together with the [[Grote Atjehweg|Great Atjeh Road (*Grote Atjehweg*)]] and the [[Gajoweg (Gayo Road)|Gajo Road (*Gajoweg*)]], the railway formed a transport network that opened the interior to trade and settlement. The railway facilitated rapid troop movement during the lingering security concerns after the [[Aceh War|Aceh War]], and enabled the export of plantation products — rubber, palm oil and sisal — via the port of [[Belawan|Belawan]].
+
 ## See Also
 
 - [[Nederlands-Indië contra Japan]]
@@ -84,7 +101,16 @@ The Atjehsche Staatsspoorwegen is, in the staff history's Atjeh chapter, the pri
 - [[Seulimeum]]
 - [[Oleh-leh]]
 - [[1942]]
+- [[Grote Atjehweg]]
+- [[Gajoweg (Gayo Road)|Gajoweg]]
+- [[Belawan]]
+- [[Rubber cultivation]]
+- [[Palm oil cultivation]]
+- [[Sisal cultivation]]
+- [[Atjehspoorweg]]
 
 ## Source
 
 *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 124, 141.
+
+*DLP-84-Atjeh.pdf*, p. 10.

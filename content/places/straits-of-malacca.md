@@ -68,6 +68,10 @@ Many chambermembers, [[W. H. Vermeulen|Vermeulen]] records, "vermochten niet de 
 
 [[Straat Malakka|Straat Malakka]] is the strategic-geographical reason for the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]]. The [[Netherlands|Dutch]] government's argument — that the opening of the [[Soezkanaal|Suez Canal]] had increased the value of the strait and that the [[Sultan of Acheh|sultan]]'s foreign contacts therefore threatened Dutch interests — is the official justification on which the war was launched.
 
+## Account from *DLP-84-Atjeh* — Anti-Piracy Operations and the Road to the Aceh War
+
+The *DLP-84-Atjeh* source frames the Strait of Malacca as the narrow sea passage between the [[Malay Peninsula|Malay Peninsula]] and [[Sumatra]] whose control was a central concern for the [[Dutch East Indies Government|Dutch colonial authorities]]. Under the obligations of the [[Anglo-Dutch Treaty of 1824|Treaty of 1824]], the Netherlands pledged to protect navigation in the waters off [[Acheh (Atjeh)|Acheh (Atjeh)]]. The strait's significance grew in the [[19th century|nineteenth century]] as traffic to [[China]] and [[Japan]] increased, prompting the Dutch to intensify anti-piracy operations (Dutch: *antipiraterij-operaties*) against Acehnese vessels. The need to secure the passage contributed directly to the outbreak of the [[Aceh War|Aceh War]] in [[1873]], as both Dutch and [[British Empire|British]] — and occasionally [[United States of America|American]] — shipping fell victim to Acehnese piracy and the colonial state in [[Batavia]] invoked the security of the sea lane as a *casus belli*.
+
 ## See Also
 
 - [[Kedah]]
@@ -94,6 +98,11 @@ Many chambermembers, [[W. H. Vermeulen|Vermeulen]] records, "vermochten niet de 
 - [[1869]]
 - [[Atjeh-oorlog (1873-1904)]]
 - [[1873]]
+- [[Japan]]
+- [[United States of America]]
+- [[British Empire]]
+- [[Dutch East Indies Government]]
+- [[Batavia]]
 
 ## Sources
 
@@ -104,3 +113,5 @@ Many chambermembers, [[W. H. Vermeulen|Vermeulen]] records, "vermochten niet de 
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 267-269.
+
+*DLP-84-Atjeh.pdf*, pp. 2-3.

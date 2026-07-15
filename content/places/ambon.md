@@ -30,6 +30,12 @@ The [[Souvereiniteitsoverdracht (27 December 1949)|transfer of sovereignty]] of 
 
 Ambon is significant in *[[Oom Ambon van het K.N.I.L.]]* as the homeland of *[[Oom Ambon]]*, the Ambonese professional soldier of the [[K.N.I.L.]]. The book's argument is that Ambon — the recruitment island, the *verlof* destination, the *negorij* of the decorated soldiers, the post-retirement return, the site of the Japanese mass arrest, and the place of the Republik Maluku Selatan — was the island that gave the colonial army its Ambonese soldaten, and the island to which the abandoned soldiers of [[1949]] looked for a political future the Dutch had not provided.
 
+## Account from *DLP-84-Atjeh* — Ambonese *fusiliers* and the Christian soldiery
+
+The *DLP-84-Atjeh* pamphlet records that the inhabitants of [[Ambon]] — the *Ambonese* (*Ambonezen*) — were recruited as Christian soldiers (*Ambonese soldiers*) by the [[Dutch East India Company|Dutch East India Company (VOC)]] and later served in the colonial forces in [[Atjeh|Atjeh]]. Ambonese troops formed a significant component of the Dutch colonial army, often serving as *fusiliers* (infantrymen) and participating in campaigns such as the one led by [[Joannes Benedictus van Heutsz|General Van Heutsz]].
+
+The source notes that the Ambonese soldiers were *gehecht aan hun godsdienst* (attached to their religion), and that their Christian identity brought them closer to the Dutch — the cultural-religious affinity that underlay the role of the *soldier-pastors* [[Dominee Thenu|Ds. Thenu]] and [[Pastoor Verbraak]] in tending to their spiritual needs.
+
 ## See Also
 
 - [[Oom Ambon]]
@@ -45,7 +51,17 @@ Ambon is significant in *[[Oom Ambon van het K.N.I.L.]]* as the homeland of *[[O
 - [[Souvereiniteitsoverdracht (27 December 1949)]]
 - [[K.N.I.L.]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
+- [[Dutch East India Company]]
+- [[Ambonese soldiers]]
+- [[Ambonese fusiliers]]
+- [[Atjeh]]
+- [[Dominee Thenu]]
+- [[Pastoor Verbraak]]
+- [[Joannes Benedictus van Heutsz|General Van Heutsz]]
+- [[Aceh War]]
 
 ## Source
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapters "Van recruut tot pensioen," "Dominee Thenu," "Thijs," "De colonne Schmidt," and the closing chapters on the Indonesian revolution.
+
+*DLP-84-Atjeh.pdf*, pp. 4-5.

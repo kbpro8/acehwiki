@@ -46,6 +46,10 @@ By the late eighteenth century the VOC’s financial position deteriorated due t
 
 The Dutch East India Company was the first multinational corporation with sovereign powers, shaping the economic and political landscape of Southeast Asia for two centuries.  Its monopoly over the pepper trade anchored Dutch presence in the [[Strait of Malacca]] and the [[Sultanate of Aceh]], while its military arm set precedents for state‑backed private warfare.  The institutional legacy of the VOC informed later Dutch colonial structures, including the [[Dutch Navy]] and the [[Admiralty colleges]], and its commercial networks underlay the later [[Aceh War (1873–1904)]].
 
+## Account from *DLP-84-Atjeh* — Christian soldiers, the *Bestuur*, and the Van Heutsz succession
+
+The *DLP-84-Atjeh* pamphlet records that the [[Dutch East India Company|Dutch East India Company (VOC)]] recruited Christian soldiers — including the [[Ambonese soldiers|Ambonese]] — for service in the archipelago, and that the company's successor government, the colonial *Bestuur* (colonial administration), continued to rely on these troops during the *military action* (*militaire actie*) under [[Joannes Benedictus van Heutsz|General Van Heutsz]] in [[Atjeh|Atjeh]]. The chaplaincy to these Christian soldiers — exercised by the *soldier-dominee* [[Dominee Thenu|Ds. Thenu]] and the *soldier-pastor* [[Pastoor Verbraak]] — was the institutional successor of the VOC's earlier reliance on Christian Ambonese soldiery for the policing and military governance of the East Indies.
+
 ## See Also
 
 - [[Batavia]]
@@ -85,3 +89,5 @@ The Dutch East India Company was the first multinational corporation with sovere
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, p. 275.  
 
 *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 287‑290.
+
+*DLP-84-Atjeh.pdf*, pp. 4-5.

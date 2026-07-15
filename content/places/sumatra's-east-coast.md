@@ -46,6 +46,12 @@ The atlas depicts "Het paleis van den Sultan van Deli te Medan-Deli, Sumatra's O
 
 The parallel development of Atjeh and Sumatra's East Coast — both as governorships, both with expanding railway networks — reflects the broader colonial strategy of developing infrastructure in the Buitengewesten following the abandonment of the [[Onthoudingspolitiek]]. The Deli railway served the plantation economy, while the Atjeh railway served both military-security and economic purposes, but both represented the integration of formerly independent or semi-independent territories into the colonial transport network. The atlas's pairing of the two governments in [[1926]] is a symbolic recognition of the success of the post-pacification colonial order across the whole of northern Sumatra.
 
+## Account from *DLP-84-Atjeh* — S.O.K. as Acheh's Economic Gravitational Centre in the 1930s
+
+The *DLP-84-Atjeh* source (Part 5 of 5, drawn from the Centrale Boekerij Kon. Inst. v.d. Tropen, Amsterdam) frames [[Sumatra's East Coast]] as the dominant plantation and commercial economy on the island of [[Sumatra]] in the early twentieth century, serving as the primary economic partner and gravitational centre for [[Acheh|Acheh]]. By the [[1930s]], Acheh was increasingly orienting its trade and economy toward S.O.K. The port of [[Belawan]] functioned as the largest "Acheh harbour" (Dutch: *Atjehhaven*), handling over one-third of Acheh's imports and one-quarter of its exports.
+
+The economic disparity between the two regions was stark. European commercial enterprises (Dutch: *ondernemingen*) meant far less for Acheh than they did for S.O.K.: only 8.1% of employed persons in Acheh worked in corporate-enterprise service (Dutch: *ondernemingsdienst*), compared to 45% in S.O.K. This highlighted the heavy concentration of plantation and industrial capital in Sumatra's East Coast relative to the more subsistence-oriented economy of Acheh. The figures, drawn from the colonial statistics of [[1935]], registered the asymmetry that had become structural to the northern Sumatran economy by the late-colonial period.
+
 ## See Also
 
 - [[Sumatra]]
@@ -78,9 +84,16 @@ The parallel development of Atjeh and Sumatra's East Coast — both as governors
 - [[1827]]
 - [[1828]]
 - [[1926]]
+- [[1930s]]
+- [[1935]]
+- [[Belawan]]
+- [[Medan]]
+- [[Acheh]]
 
 ## Sources
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter III (Gezagvoering), p. 54; Chapter IX (Verkeer), p. 168.
+
+*DLP-84-Atjeh.pdf* (Part 5 of 5), p. 16. Centrale Boekerij Kon. Inst. v.d. Tropen, Amsterdam.

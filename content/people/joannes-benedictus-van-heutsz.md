@@ -186,6 +186,12 @@ In January [[1917]] — by then a former governor-general — [[J. B. van Heutsz
 
 [[A. W. F. Idenburg|Idenburg]] (a.r.), minister of Colonies, pronounced it [[J. B. van Heutsz|Van Heutsz]]'s greatest merit that he had put an end to the Dutch feeling of impotence with respect to the [[Buitenbezittingen|Buitenbezettingen]]: "Hij heeft ons doen zien, dat wij, wanneer wij maar willen en onze middelen systematisch gebruiken, inderdaad ook kunnen bereiken wat wij ons tot taak hadden gesteld. Dat herwonnen zelfvertrouwen leidde er ons vanzelf toe om het ernstig te nemen met de plicht, welke ons als westerse mogendheid tegenover de Buitenbezittingen is opgelegd, het brengen van recht en orde".
 
+## Account from *DLP-84-Atjeh*
+
+The summary entry in *DLP-84-Atjeh* characterises **J. B. van Heutsz** (Jan van Heutsz) as a "decisive, great, forward-looking personality" (Dutch: *doortastende, grote, vooruitziende persoonlijkheid*) — a Dutch military commander who, from the late [[19th century|nineteenth century]], led the decisive campaigns that pacified the [[Aceh War|Aceh War]] and brought the region under firm Dutch control. The entry credits Van Heutsz's combination of "hard" military pressure (Dutch: *krachtige militaire druk*) and "soft" administrative reforms (Dutch: *bestuurlijke hervormingen*) with reducing casualties relative to the earlier failed Dutch attempts of the [[1873]]–[[1896]] period, and identifies his Atjeh command as the start of the so-called *Periode van Heutsz* ("Period of Heutsz"), a turning-point in the colonial history of the archipelago.
+
+The DLP-84 entry also notes that, as Governor-General of the [[Dutch East Indies|Dutch East Indies]], Van Heutsz's tenure was associated with the implementation of the [[Agrarische Wet 1870|Agricultural Law of 1870]] (Dutch: *Agrarische Wet*), which restricted land ownership to non-indigenous Europeans and placed indigenous lands under leasehold (Dutch: *erfpacht*). The law was framed as a measure to protect the "economically weak" (Dutch: *economisch zwakke*) indigenous population from dispossession — a doctrine that, in the colonial reading, justified the leasehold regime that subsequently opened up [[Atjeh|Atjeh]] and the rest of the [[Buitengewesten|Buitengewesten]] to plantation agriculture (Dutch: *ondernemingen*) in rubber, palm-oil, sisal, tobacco and coffee after the [[Pacification of Aceh|pacification]].
+
 ## See Also
 
 - [[Aceh War]]
@@ -197,6 +203,7 @@ In January [[1917]] — by then a former governor-general — [[J. B. van Heutsz
 - [[Slag bij Batèë-Ilië]]
 - [[Van Daalen's Gajo Expedition]]
 - [[Pacification of Aceh]]
+- [[Agrarische Wet 1870]]
 - [[Korte Verklaring]]
 - [[Heerendienst]]
 - [[Aceh Railway]]
@@ -318,3 +325,7 @@ In January [[1917]] — by then a former governor-general — [[J. B. van Heutsz
 *J. B. van Heutsz, De onderwerping van Atjeh* (1893), p. 79.
 
 *J. C. Lamster, J. B. van Heutsz als gouverneur-generaal*, p. 120 v.
+
+*DLP-84-Atjeh.pdf*, pp. 4-5.
+
+*DLP-84-Atjeh.pdf*, pp. 5-6.

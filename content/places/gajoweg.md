@@ -32,6 +32,12 @@ At km 46 was the halting-place [[Blang Rakal]], 500-600 metres above sea level.
 
 The Gajoweg is significant in *[[Oost-Indisch Journael]]* as the set-piece of the colonial army's road-construction in [[Atjeh|Aceh]]. The book's argument — that the construction of the Gajoweg was a costly affair, cut through the jungle on military command with the klewang, and that the soldier who laid it was murdered by one of the forced labourers who built it — is the book's marker of the cost of the colonial army's infrastructure in Aceh. The Gajoweg is also the book's frame for the chapter *Jagerslatijn*: the lieutenant's journey through Aceh follows the Gajoweg from Bireuën to Takengeun, and at [[Blang Rakal]] on the Gajoweg the lieutenant meets the old hunter [[Datoek]]. The Gajoweg is therefore both the colonial army's infrastructure and the book's frame for the inter-war memory of the Aceh war.
 
+## Account from *DLP-84-Atjeh* — engineering, *roverbenden* and the plantation frontier
+
+The *DLP-84-Atjeh* pamphlet describes the [[Gajoweg (Gayo Road)|Gajoweg]] as a mountain road constructed by the Dutch colonial administration to connect the interior [[Gajo|Gajo]] highlands with the coastal regions of [[Atjeh|Atjeh]]. The construction required extensive blasting of rock — described as "a fine piece of Dutch engineering" — the building of large bridges over ravines, and the protection of workers from attacks by *roverbenden* (bandit groups) by soldiers. The road traversed steep terrain, necessitating the use of dynamite to create a serpentine path.
+
+The opening of the Gajoweg facilitated trade, transport and the spread of plantation agriculture — rubber, oil-palm and sisal — from the interior to the coast, markedly changing the demographic composition of the east-coast districts.
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -50,3 +56,5 @@ The Gajoweg is significant in *[[Oost-Indisch Journael]]* as the set-piece of th
 ## Source
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn*.
+
+*DLP-84-Atjeh.pdf*, pp. 8-9.

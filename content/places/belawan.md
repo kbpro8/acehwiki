@@ -18,6 +18,14 @@ The Bureau's account of the [[Deli Spoorweg Maatschappij|Deli Spoorweg Maatschap
 
 [[Belawan|Belawan]] is, in the Encyclopaedisch Bureau's account, the principal harbour of the [[Oostkust van Sumatra|East Coast of Sumatra]] and one of the two principal commercial opponents of the [[Aroe-baai-plannen|Aroe-baai-plannen of 1913]] — together with [[Pangkalan Brandan]]. The Belawan interest's fear that the development of [[Aroebai|Arube Bay]] would threaten the long-cherished project to develop Belawan itself as an oceaanhaven places the Aroe-baai-plannen in the context of the wider commercial rivalry between the Atjeh and East Coast residencies for control of the northern Sumatran export trade.
 
+## Account from *DLP-84-Atjeh* — *Atjehhaven* and the 1935 trade statistics
+
+The *DLP-84-Atjeh* pamphlet frames [[Belawan]] as the principal seaport of [[Sumatra's East Coast]] (Dutch: *Sumatra's Oostkust*, abbreviated *S.O.K.*), situated near the city of [[Medan|Medan]] and functioning de facto as the largest *Atjehhaven* (Aceh harbour) for the neighbouring residency of [[Acheh|Atjeh]]. In the early twentieth century, Belawan served as the main outlet for the export of plantation products — [[Rubber cultivation|rubber]], [[palm oil|palm oil]] and [[sisal|sisal]] — handling the majority of the maritime commercial traffic for Acheh due to its superior port facilities and integration into the plantation economy.
+
+Belawan's harbour facilitated the movement of commodities to *Buiten Indië* (outside the Indies) and linked Aceh's economy to global markets. The value of exports from the interior regions of the S.O.K. was often overstated, because a large share of the products originating from or destined for Acheh passed through Belawan rather than local Acehnese ports.
+
+Despite Acheh possessing its own coastline, the region increasingly oriented its import and export economy through the S.O.K. and Belawan. By [[1935]], colonial statistics indicated that more than one-third (1/3) of Acheh's total imports and one-quarter (1/4) of its total exports passed through Belawan. In [[1935]], the total import value for Acheh was ƒ 2,280,000, and the total export value was ƒ 4,198,000 — a significant portion of which transited through Belawan rather than local Acehnese ports, cementing the harbour's role as the economic gateway for the region.
+
 ## See Also
 
 - [[Aroe-baai-plannen]]
@@ -30,9 +38,21 @@ The Bureau's account of the [[Deli Spoorweg Maatschappij|Deli Spoorweg Maatschap
 - [[Oostkust van Sumatra]]
 - [[Sabang]]
 - [[Singapore]]
+- [[Aceh]]
+- [[Sumatra's East Coast]]
+- [[Koeta Radja]]
+- [[Dutch East Indies]]
+- [[Rubber cultivation]]
+- [[Palm oil cultivation]]
+- [[Sisal cultivation]]
 - [[1888]]
 - [[1913]]
+- [[1935]]
 
 ## Sources
 
-*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 69–72 (section "De Atjeh-tram"), p. 71 (section "De Spoor- en Tramwegen ter Oostkust van Sumatra").
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 69-72 (section "De Atjeh-tram"), p. 71 (section "De Spoor- en Tramwegen ter Oostkust van Sumatra").
+
+*DLP-84-Atjeh.pdf*, p. 10.
+
+*DLP-84-Atjeh.pdf* (Part 5 of 5), p. 16. Centrale Boekerij Kon. Inst. v.d. Tropen, Amsterdam.

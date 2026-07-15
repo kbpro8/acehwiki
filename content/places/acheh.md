@@ -56,54 +56,49 @@ Throughout its history the Sultanate of Acheh was a centre of Islamic learning, 
 
 The Sultanate of Acheh exemplifies the fluidity of pre‑colonial Southeast Asian polities: a maritime kingdom that combined centralized royal authority with powerful regional chieftains, leveraged strategic geography to dominate the pepper trade, and maintained vibrant cultural exchanges with the Indian subcontinent, the Arab world, and European powers. Its eventual subjugation by the Dutch illustrates the transformative impact of colonial expansion on indigenous political structures, while its enduring legacy lives on in Acehnese identity, Islamic scholarship, and the historiography of the region.
 
+## Account from *DLP-84-Atjeh* — migration, Islamisation, and the European trade
+
+The *DLP-84-Atjeh* pamphlet frames the demographic and religious history of the [[Sultanate of Acheh|sultanate of Acheh]] in terms of successive waves of Malay migration. The first wave — the so-called **Old Malays** (*Oud-Maleiers*) — arrived via [[Malacca]] and settled inland, where remnants such as the [[Koeboes]] (*Koeboes*) persisted. Subsequent **Young Malay** (*Jong-Maleiers*) migrations introduced groups that mixed with the older population, producing hybrid communities such as the [[Gajo|Gajo-Alassers]], a blend of [[Acehnese|Atjehers]] and [[Bataks]]. Hindu traders, Arab merchants and enslaved [[Niassers]] also entered the demographic mosaic, especially in the pepper plantations (*pepertuinen* (pepper gardens)).
+
+Around [[1300]], Muslim merchants from the **Goodjarat** (Gujarat) coast — the source naming *Koetaradja* (Koetaradja) as the entry-point — embraced Islam and introduced it to [[Acheh]], establishing the region as a stronghold of *Mohammedanisme* (Islam) in the archipelago. The sultanate's conversion accelerated trade with the Islamic world and set the stage for later conflicts with European powers.
+
+From the [[16th century]] onward, Portuguese, Dutch, English and American vessels frequented Aceh's waters. The sultans of [[Koetaradja]] had extended their influence over neighbouring Sumatra territories by circa [[1500]], including the coastal region of [[Benkoelen]] (Bengkulu). Trade commodities included pepper, gold, gunpowder, weapons and opium, while piracy and the capture of foreign crews provided a source of slaves — notably the [[Niassers]].
+
+The Dutch, invoking obligations from the [[Anglo-Dutch Treaty of 1824|Treaty of 1824]] to safeguard the [[Strait of Malacca]], sought to curtail Acehnese piracy. Repeated clashes led to the declaration of the [[Aceh War]] in [[1873]], which lasted until the early twentieth century. The war's *pacification* (pacification) was eventually achieved under [[Joannes Benedictus van Heutsz|General J. B. van Heutsz]] in the *Periode van Heutsz* (Period of Heutsz), bringing relative stability and opening the way for modernisation policies.
+
 ## See Also
 
-- [[Great Acheh]]
-- [[Acheh proper]]
-- [[Three Sagis]]
-- [[XXII Mukims]]
-- [[XXV Mukims]]
-- [[XXVI Mukims]]
-- [[Banda Acheh]]
-- [[Pedir]]
-- [[Telok Semawé]]
-- [[Keumala]]
-- [[Pidie]]
-- [[Sultan Jauhar Alum]]
-- [[Sultan Saif ul‑Alum]]
-- [[Sultan Mahmut Shah]]
-- [[Tuanku Muhamat Dawot]]
-- [[Alauddin al‑Qahar]]
-- [[Meukuta Alam]]
-- [[Iskandar Thani]]
-- [[Acehnese conquest of Djohor (1613)]]
-- [[Treaty of Pedir (1819)]]
-- [[Anglo‑Dutch Treaty of London (1824)]]
-- [[Sumatra Treaty of 1871]]
-- [[Raffles' Atjeh‑overeenkomst van 1819]]
-- [[British East India Company]]
-- [[Vereenigde Oost-Indische Compagnie]]
-- [[Portuguese Malacca]]
-- [[Cornelis de Houtman]]
-- [[Frederik Houtman]]
-- [[James Lancaster's mission to Atjeh (1602)]]
-- [[Treaty of Atjeh (1607)]]
-- [[Perak]]
-- [[Hikajat Seri Rama]]
-- [[Burda (poem)|Burda]]
-- [[Badʿ al‑Amali]]
-- [[C. Snouck Hurgronje]]
-- [[P. H. van der Kemp]]
-- [[Johan van der Woude]]
+- [[Sumatra]]
+- [[Strait of Malacca]]
+- [[Koetaradja Sultanate]]
+- [[Aceh War]]
+- [[Anglo-Dutch Treaty of 1824|Treaty of 1824]]
+- [[Islam in Aceh]]
+- [[Benkoelen]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[Old Malays]]
+- [[Young Malays]]
+- [[Koeboes]]
+- [[Gajo]]
+- [[Bataks]]
+- [[Niassers]]
+- [[Malacca]]
+- [[Gujarat]]
+- [[1300]]
+- [[1500]]
+- [[1873]]
+- [[Periode van Heutsz]]
 
 ## Source
 
-*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A. W. S. O’Sullivan, Leyden: E. J. Brill, 1906.
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A. W. S. O'Sullivan, Leyden: E. J. Brill, 1906.
 
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, Batavia: 1893–1894; English translation 1906.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, Batavia: 1893-1894; English translation 1906.
 
-*Raffles' Atjeh‑overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal‑, Land‑ en Volkenkunde van Nederlandsch‑Indië*, 6e Vol., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Vol., Deel VII (1900), pp. 159-239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
-*Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598—1614)*, by Johan van der Woude (Amsterdam: C. V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 108‑125.
+*Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598-1614)*, by Johan van der Woude (Amsterdam: C. V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 108-125.
 
-*20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pp. 18–21, 44–45, 62, 98.
+*20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pp. 18-21, 44-45, 62, 98.
+
+*DLP-84-Atjeh.pdf*, pp. 2-4.

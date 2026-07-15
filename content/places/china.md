@@ -19,6 +19,10 @@ The third, more colourful reference to China comes in one of Van der Kemp's foot
 The China trade was thus the silent protagonist of much of the diplomatic correspondence Van der Kemp preserves. The [[Raffles' Atjeh-overeenkomst van 1819|Aceh agreement of 1819]] was concluded, in significant part, to keep the China route open; the [[Anglo-Dutch Treaty of 1824|Anglo-Dutch treaty of 1824]] divided the archipelago in such a way that the British retained command of the northern approach to the Strait; and the long *paper war* of the late 1820s over the [[Sumatra's East Coast|Sumatran east coast]] was fought, in part, because that coast's produce fed the China market through Singapore.
 
 
+## Account from *DLP-84-Atjeh* — Chinese junks and the early trade in pepper and gold
+
+The *DLP-84-Atjeh* pamphlet records that [[China]] was a major East Asian empire whose maritime trade routes passed through the [[Strait of Malacca]] and the waters of [[Acheh (Atjeh)|Acheh]]. From the early Common Era, Chinese junks sailed to the Acehnese coast, exchanging silk, porcelain and other luxury goods for pepper and gold. The strategic position of [[Acheh]] on the route to China made it a frequent stop for vessels seeking to resupply before the long voyage across the Indian Ocean. This interaction contributed to the economic prosperity of the sultanate and heightened European interest in controlling the trade corridor.
+
 ## See Also
 
 - [[Acheh]]
@@ -31,9 +35,16 @@ The China trade was thus the silent protagonist of much of the diplomatic corres
 - [[Sumatra's East Coast]]
 - [[Riouw]]
 - [[Raffles' Atjeh-overeenkomst van 1819]]
+- [[Strait of Malacca]]
+- [[Aceh War]]
+- [[Malacca (Malakka)]]
+- [[Pepper trade]]
+- [[Chinese junks]]
 
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
-*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159-239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*DLP-84-Atjeh.pdf*, pp. 2-3.

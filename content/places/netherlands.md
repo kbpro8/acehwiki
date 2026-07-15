@@ -13,6 +13,10 @@ Van der Kemp also discusses the institutional framework within which the Netherl
 
 The Netherlands of Van der Kemp's own day — the kingdom of Queen Wilhelmina, governing the East Indies through Governors-General like [[Joannes Benedictus van Heutsz|Van Heutsz]] and advised by scholars such as [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]] and [[Pieter Johannes Veth|P. J. Veth]] — is the silent backdrop against which the entire monograph is written. Van der Kemp, himself a Dutch colonial historian, writes with an evident sense that the missteps of [[1819]] and [[1824]] were bearing their fruit in the Acheh War of his own time.
 
+## Account from *DLP-84-Atjeh* — The Netherlands as Metropole of the Colonial Mission
+
+The *DLP-84-Atjeh* source frames the Netherlands as the European metropole (Dutch: *moederland*) of the Dutch colonial empire, the home country of the [[Dutch East India Company|Dutch East India Company]] and the [[Dutch royal house|Dutch royal house]], and the destination of the [[1934]] visit by [[Dominee Thenu|Ds. Thenu]] — the soldier-pastor (Dutch: *soldaten-pastoor*) of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]] of Atjeh — where he was received by the [[Queen Wilhelmina|Queen (Dutch: *Koningin*)]]. From the Netherlands the colonial administration directed military and missionary activities in [[Atjeh|Atjeh]] and throughout the [[Dutch East Indies|Dutch East Indies]]. The 1934 reception of Thenu at the Dutch court is the symbolic closure of a half-century of colonial chaplaincy in Atjeh: the soldier-pastor of the Atjeh Marechaussee, having served the colonial army for forty years, was received in the metropole by the sovereign in whose name the [[Aceh War|Aceh War]] had been waged and the pacification of the residency completed.
+
 ## See Also
 
 - [[The Hague]]

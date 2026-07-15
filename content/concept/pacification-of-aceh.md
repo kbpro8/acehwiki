@@ -54,6 +54,12 @@ The atlas also provides crucial context for understanding how the pacification w
 
 The pacification of Aceh was a turning point in Dutch colonial history. It demonstrated that a combination of military force, political acumen, and economic development could succeed where pure coercion had failed for decades. It also set the stage for the "ethical policy" of the twentieth century, which sought to balance imperial control with the welfare of the colonised population. In the broader history of the Aceh War, the pacification is often cited as demonstrating that the critical variable in colonial governance is the relationship between the administration and indigenous institutions — a lesson the Van Daalen episode taught at great cost. The atlas's commemoration of the pacification in [[1926]] — through the [[Atjeh Monument]], the [[Peutjot Cemetery|cemetery at Peutjot]], and the portrait gallery of "Groote Mannen" — fixed the pacification as the centrepiece of the official colonial reckoning of the late Dutch East Indies.
 
+## Account from *DLP-84-Atjeh*
+
+The summary entry in *DLP-84-Atjeh* characterises the **Pacification of Aceh** (Dutch: *Pacificatie*) as the final phase of the [[Aceh War|Aceh War]] during which the Dutch colonial administration achieved effective control over the [[Sultanate of Aceh|Sultanate of Aceh]] through sustained military pressure (Dutch: *aanhoudende militaire druk*), the construction of forts (Dutch: *forten*), and the integration of Christian soldiers (Dutch: *christelijke soldaten*) and chaplains (Dutch: *aalmoezeniers*) into the colonial war effort. The DLP-84 sketch evokes the contrast between the *Pacificatie* and the preceding era of armed Acehnese resistance by reference to "the time before the *Pacificatie*" (Dutch: *de tijd vóór de Pacificatie*), when weapons such as the *donderbus* (blunderbuss) and the *zwaard* (sword) were still common in the Atjehnese hinterland — a transition from the older, more disorderly armed resistance to the subdued colonial order (Dutch: *koloniale orde*) that the *Pacificatie* imposed.
+
+The DLP-84 entry also records the religious-missionary dimension of the *Pacificatie*: Christian soldiers, especially the [[Ambonese soldiers|Ambonese]] contingents of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussée]], were supported by *soldier-pastors* (Dutch: *soldaten-pastoors*) such as [[Dominee Thenu|Ds. Thenu]] and [[Pastoor Verbraak|Pastoor Verbraak]], whose field-chaplaincy reinforced the Dutch "civilizing mission" narrative (Dutch: *beschavingsmissie*) that accompanied the military pacification. The chaplaincy was thus an integral component of the *Pacificatie* — supplying both the moral economy of the colonial troops and the ideological framework within which the subjugation of the [[Sultanate of Aceh|Sultanate of Aceh]] was presented to the metropole as a Christian duty of order and uplift.
+
 ## See Also
 
 - [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
@@ -89,6 +95,10 @@ The pacification of Aceh was a turning point in Dutch colonial history. It demon
 - [[1873]]
 - [[1786]]
 - [[1926]]
+- [[Ambonese soldiers]]
+- [[Dominee Thenu]]
+- [[Pastoor Verbraak]]
+- [[Korps Marechaussee van Atjeh en Onderhorigen]]
 
 ## Sources
 
@@ -97,3 +107,5 @@ The pacification of Aceh was a turning point in Dutch colonial history. It demon
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 33–36.
 
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Plates 23, 70; Chapter III (Gezagvoering), p. 54; Chapter IX (Verkeer), p. 160.
+
+*DLP-84-Atjeh.pdf*, pp. 5-6.

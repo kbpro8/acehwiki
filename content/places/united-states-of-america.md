@@ -25,6 +25,10 @@ The third reference (Van der Kemp p. 207, PDF p. 51) is of a different character
 
 Taken together, these references place the United States at the heart of the Acheh question. It was the spectre of American enterprise — not the actual presence of American settlers, who were nowhere in Acheh — that gave the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] its principal political charge; that justified, in British eyes, the unprecedented exclusion of non-European outsiders; and that, five years later, supplied the British negotiators in London with their chief argument for persuading the Dutch to take upon themselves the thankless task of policing the Achehnese coast. The Americans themselves, throughout, remained a power invoked rather than seen — but it was precisely their absence that gave the invocation its force.
 
+## Account from *DLP-84-Atjeh* — American anti-piracy cooperation of 1831 and 1844
+
+The *DLP-84-Atjeh* pamphlet records that American maritime interests in the mid-nineteenth century overlapped with those of the [[British Empire|British]] and [[Netherlands|Dutch]] in the waters off [[Acheh (Atjeh)|Acheh]]. American vessels, like their British counterparts, sometimes faced attacks by Acehnese pirates and were compelled to cooperate with Dutch forces in punitive actions — notably in [[1831]] and [[1844]]. The source notes that "*the English and the Americans themselves had to discipline the Acehnese*" during those years, indicating a direct, though limited, military engagement to protect trade routes — a cooperation that predated by half a century the larger Dutch campaign of [[1873]].
+
 ## See Also
 
 - [[Acheh]]
@@ -40,7 +44,15 @@ Taken together, these references place the United States at the heart of the Ach
 - [[Penang]]
 - [[Smulders]]
 - [[Elout]]
+- [[British Empire|British]]
+- [[Aceh War]]
+- [[Anglo-Dutch Treaty of 1824|Treaty of 1824]]
+- [[Acheh (Atjeh)]]
+- [[1831]]
+- [[1844]]
 
 ## Source
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*DLP-84-Atjeh.pdf*, pp. 2-3.

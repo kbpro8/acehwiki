@@ -48,6 +48,10 @@ Iskandar Muda institutionalised a hierarchy of provincial officials: *stedehoude
 
 The court’s spectacular displays featured a thousand elephants used as riding, pack, and fighting animals, as noted in contemporary accounts.  Elephant and buffalo fights were staged for foreign envoys, underscoring the sultan’s wealth and martial prestige.
 
+## Account from *DLP-84-Atjeh*
+
+The Encyclopaedisch Bureau's summary entry in *DLP-84-Atjeh* identifies **Iskandar Moeda** as the "most famous" ruler (*beroemdste vorst*) of the [[Koetaradja Sultanate|Koetaradja Sultanate]], under whose rule the sultanate maintained control over the pepper trade (Dutch: *pepperhandel*) and the coastal territories (Dutch: *kustgebieden*), projecting Acehnese power as far as [[Benkoelen]] on the west coast of [[Sumatra]]. The entry frames Iskandar Moeda's reign as the apex of Acehnese central authority before the later succession of weaker sultans (Dutch: *zwakkere sultans*), whose rivalry and misrule eventually opened the way to the Dutch-Acehnese confrontations of the [[19th century|nineteenth century]]. His death or deposition (Dutch: *overlijden of afzetting*) is thus identified as the inflection point that turned the sultanate from expansion into the long decline culminating in the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1904]].
+
 ## Cultural and Literary Patronage
 
 ### Translation of the *Burda* and Arabic Loanwords
@@ -156,6 +160,7 @@ Sultan Iskandar Muda’s reign constitutes the defining moment of the Acehnese *
 - [[Dutch East India Company]]
 - [[Portuguese Empire]]
 - [[Perak]]
+- [[Benkoelen]]
 
 ## Source
 
@@ -178,3 +183,5 @@ Sultan Iskandar Muda’s reign constitutes the defining moment of the Acehnese *
 *20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt* (digital transcription of the 16th‑century Malay translation of the *Burda*).
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*DLP-84-Atjeh.pdf*, pp. 3-4.

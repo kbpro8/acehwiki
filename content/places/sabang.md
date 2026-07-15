@@ -231,6 +231,10 @@ The [[Melati en rotan|*Melati en rotan*]] collection of F. Kunst contains the po
 
 The poem's setting — the lake *Kin der Zee* "near Sabang's beautifully contoured bay" — fixes Sabang as a place known to the colonial reader of [[1947]] by the scenic quality of its bay. The poem's reference to the steamers that call at Sabang for bunkering ("*wanneer bij Indië's toegangspoort / Een schip op uit- of thuisreis ligt te bunk'ren*") is the documentary evidence of the haven's function as a coaling-station on the sea-route. The scenic *bocht* (bay) of Sabang is, in the colonial literary memory fixed by Kunst's poem, the most visible scenic landmark of the Atjeh coast in the Dutch-colonial imagination.
 
+## Account from *DLP-84-Atjeh* — the only natural harbour and the mail-ship station
+
+The *DLP-84-Atjeh* pamphlet describes [[Sabang]] as the *only natural harbour* of [[Acheh]], located on the island of [[Poeloe Weh|Poeloe Weh]] (*Poelau Weh*). In the early twentieth century a *coal station* (*kolenstation* (coaling station)) was established there, intended to serve *mail ships* (mail steamers) travelling to the East — destinations explicitly named as [[Singapore]], [[China]] and the broader [[Dutch East Indies|Indies]]. Although the harbour attracted some traffic, its full potential was only partially realised. The harbour also featured a *dock* and *repair facilities* for ships — the pamphlet recording that the vessel **J. P. Coen** of the *Stoomvaart Maatschappij "Nederland"* (the *Mij. "Nederland"*) was among the ships docked there. Sabang's sheltered bay made it a logical point for refuelling and repairs, but the lack of a fully developed port limited its growth.
+
 ## See Also
 - [[Pulo We|Poeloe We]]
 - [[N.V. Zeehaven en Kolenstation Sabang]]
@@ -313,3 +317,5 @@ The poem's setting — the lake *Kin der Zee* "near Sabang's beautifully contour
 *Vierhonderd jaren missie in Nederlandsch-Indië, 1593–1934* (Batavia: Algemeen Comité van Voorbereiding tot de Feestelijke Herdenking van 400 jaar Missie in Ned.-Indië, [1934]), p. 96 (chapter on the Koeta Radja-Atjeh station).
 
 *Melati en rotan: Gedichten van F. Kunst, pentekeningen van Johanna Roberti* (Bandoeng: Vacuüm-Handel Maatschappij Vortex en Uitgeverij en Boekhandel W. Mellink, [[1947]]), p. 16 ("*Anak Laoet*").
+
+*DLP-84-Atjeh.pdf*, pp. 15-16.

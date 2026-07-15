@@ -49,6 +49,12 @@ The author first met Thenu on the beach of [[Bakongan]] at the end of [[1932]], 
 
 Dominee Thenu is the moral centre of *[[Oom Ambon van het K.N.I.L.]]*. He is the figure through whom Dames makes his case that the [[K.N.I.L.]] in Aceh was held together less by regulation than by the patient daily work of men like this Ambonese godsdienstleraar, whose authority ran ahead of and outside the rulebook, and whose songs gave the Manisee the idiom in which he understood himself. In *[[Oost-Indisch Journael]]*, he is equally the soldier-dominee who was grown together with this land and the Acehnese soldier, and whom the Acehnese population spontaneously called "a tremendous fellow." The funeral with four M.W.O.-ridders as slippendragers is the moment at which the decorations of the old Aceh generation are laid at the feet of the man who had blessed them.
 
+## Account from *DLP-84-Atjeh* — the *soldier-dominee* office and the Peunajong school
+
+The DLP-84 summary entry characterises Thenu as a "soldier-dominee" (Dutch: *soldaten-dominee*) — a role created by a specific article of the [[Regeringsreglement van Nederlands-Indië|Regeringsreglement van Nederlands-Indië]] (Government Regulation for the Netherlands Indies) that granted special permission to missionaries (Dutch: *zendelingen*) targeting non-Christian peoples (Dutch: *niet-christelijke volken*). In [[Atjeh|Atjeh]] this article was applied *only* to the *soldier-dominee*, because the colonial government wished to await the effect of its administrative measures (Dutch: *bestuursmaatregelen*) before allowing any wider evangelisation (Dutch: *evangelisatie*). Thenu's position was thus intended to oversee the moral and disciplinary aspects (Dutch: *zedelijk en tuchtelijk aspect*) of the colonial troops, acting as liaison between the military and the colonial administration — a framing that complements the *veldprediker*-abolition episode recorded in *[[Oom Ambon van het K.N.I.L.]]* and shows the dual foundation (legal and personal) on which his forty-year chaplaincy rested.
+
+The DLP-84 entry also records the educational dimension of Thenu's work: at the fort of [[Peunajong]] (Dutch: *benteng Peunajong*) he organised regular schooling (Dutch: *schoolonderwijs*) for the children of soldiers (Dutch: *kinderen der militairen*), preventing them from being deprived of education in the war-zone. This work at Peunajong — alongside his visiting of the sick, his preaching, his correspondence and burials, and his assistance with civil matters — was held up in the DLP-84 sketch as a key element of Dutch military morale in the prolonged [[Aceh War|Atjeh-oorlog]]. The entry further frames Thenu's [[1934]] journey to the [[Netherlands]] as the fulfilment of a long-held wish (Dutch: *lang gekoesterde wens*): during the visit he reflected on his forty-year service in Atjeh, formally submitting his resignation (Dutch: *ontslag*) while emphasising the blessings he had been able to bestow upon countless soldiers — a detail that complements the *Oom Ambon van het K.N.I.L.* account of the audience with [[Queen Wilhelmina|Koningin Wilhelmina]] and of the unwashed hand.
+
 ## See Also
 
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
@@ -64,6 +70,8 @@ Dominee Thenu is the moral centre of *[[Oom Ambon van het K.N.I.L.]]*. He is the
 - [[Blang-Kedjeren]]
 - [[Lokop]]
 - [[Oost-Indisch Journael]]
+- [[Peunajong]]
+- [[Regeringsreglement van Nederlands-Indië]]
 - [Pante Perak](/places/pante-perak)
 - [Atjeh-oorlog](/events/atjeh-oorlog)
 
@@ -71,6 +79,9 @@ Dominee Thenu is the moral centre of *[[Oom Ambon van het K.N.I.L.]]*. He is the
 
 - *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Dominee Thenu" and chapter "Soldatenlied."
 - *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder.
+- *DLP-84-Atjeh.pdf*, pp. 4-5.
+- *DLP-84-Atjeh.pdf*, pp. 5-6.
+- *DLP-84-Atjeh.pdf*, p. 8.
 ---
 
 
@@ -118,6 +129,12 @@ The author first met Thenu on the beach of [[Bakongan]] at the end of [[1932]], 
 
 Dominee Thenu is the moral centre of *[[Oom Ambon van het K.N.I.L.]]*. He is the figure through whom Dames makes his case that the [[K.N.I.L.]] in Aceh was held together less by regulation than by the patient daily work of men like this Ambonese godsdienstleraar, whose authority ran ahead of and outside the rulebook, and whose songs gave the Manisee the idiom in which he understood himself. In *[[Oost-Indisch Journael]]*, he is equally the soldier-dominee who was grown together with this land and the Acehnese soldier, and whom the Acehnese population spontaneously called "a tremendous fellow." The funeral with four M.W.O.-ridders as slippendragers is the moment at which the decorations of the old Aceh generation are laid at the feet of the man who had blessed them.
 
+## Account from *DLP-84-Atjeh* — the *soldier-dominee* office and the Peunajong school
+
+The DLP-84 summary entry characterises Thenu as a "soldier-dominee" (Dutch: *soldaten-dominee*) — a role created by a specific article of the [[Regeringsreglement van Nederlands-Indië|Regeringsreglement van Nederlands-Indië]] (Government Regulation for the Netherlands Indies) that granted special permission to missionaries (Dutch: *zendelingen*) targeting non-Christian peoples (Dutch: *niet-christelijke volken*). In [[Atjeh|Atjeh]] this article was applied *only* to the *soldier-dominee*, because the colonial government wished to await the effect of its administrative measures (Dutch: *bestuursmaatregelen*) before allowing any wider evangelisation (Dutch: *evangelisatie*). Thenu's position was thus intended to oversee the moral and disciplinary aspects (Dutch: *zedelijk en tuchtelijk aspect*) of the colonial troops, acting as liaison between the military and the colonial administration — a framing that complements the *veldprediker*-abolition episode recorded in *[[Oom Ambon van het K.N.I.L.]]* and shows the dual foundation (legal and personal) on which his forty-year chaplaincy rested.
+
+The DLP-84 entry also records the educational dimension of Thenu's work: at the fort of [[Peunajong]] (Dutch: *benteng Peunajong*) he organised regular schooling (Dutch: *schoolonderwijs*) for the children of soldiers (Dutch: *kinderen der militairen*), preventing them from being deprived of education in the war-zone. This work at Peunajong — alongside his visiting of the sick, his preaching, his correspondence and burials, and his assistance with civil matters — was held up in the DLP-84 sketch as a key element of Dutch military morale in the prolonged [[Aceh War|Atjeh-oorlog]]. The entry further frames Thenu's [[1934]] journey to the [[Netherlands]] as the fulfilment of a long-held wish (Dutch: *lang gekoesterde wens*): during the visit he reflected on his forty-year service in Atjeh, formally submitting his resignation (Dutch: *ontslag*) while emphasising the blessings he had been able to bestow upon countless soldiers — a detail that complements the *Oom Ambon van het K.N.I.L.* account of the audience with [[Queen Wilhelmina|Koningin Wilhelmina]] and of the unwashed hand.
+
 ## See Also
 
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
@@ -133,6 +150,8 @@ Dominee Thenu is the moral centre of *[[Oom Ambon van het K.N.I.L.]]*. He is the
 - [[Blang-Kedjeren]]
 - [[Lokop]]
 - [[Oost-Indisch Journael]]
+- [[Peunajong]]
+- [[Regeringsreglement van Nederlands-Indië]]
 - [Pante Perak](/places/pante-perak)
 - [Atjeh-oorlog](/events/atjeh-oorlog)
 
@@ -140,3 +159,6 @@ Dominee Thenu is the moral centre of *[[Oom Ambon van het K.N.I.L.]]*. He is the
 
 - *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Dominee Thenu" and chapter "Soldatenlied."
 - *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder.
+- *DLP-84-Atjeh.pdf*, pp. 4-5.
+- *DLP-84-Atjeh.pdf*, pp. 5-6.
+- *DLP-84-Atjeh.pdf*, p. 8.

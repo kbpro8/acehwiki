@@ -20,24 +20,29 @@ Among the examples Snouck Hurgronje gives for the [[XXII Mukims]] are: the union
 
 The split at Lam Ara illustrates the essentially ad hoc and territorial, rather than doctrinal, character of adat in the highlands. The imeum (*imam*) had originally been a religious officer attached to the *meuseugit* (mosque) of his mukim, but by Snouck Hurgronje's time his office had degenerated into one of "purely worldly authority." The joint judicial unions — and the fragmented status of Lam Ara within them — were the institutional relic of that long process of accretion.
 
+## The *marsbivak* on the West Coast
+
+In the early twentieth century the colonial army maintained a temporary *marsbivak* (marching bivouac) at Lhong during periods of local unrest on the [[Westkust (of Atjeh)|West Coast of Aceh]]. The bivouac was enclosed with barbed-wire fencing, with a guard post at the entrance and a canteen for the troops; soldiers were required to keep their *klewang* (the traditional Dutch colonial cutlass) on them even when off-duty. The post illustrates the continued need for military vigilance on the West Coast even after the formal end of the [[Aceh War]] in [[1904]].
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
 - [[Verzet in Lhong]]
 - [[Musket]]
 - [[Glé Groetèë]]
-- [Westkust (of Atjeh)](/places/westkust-of-atjeh)
-- [Paradijs-dood](/concept/paradijs-dood)
-- [Kapitein Haga](/people/kapitein-haga)
+- [[Westkust (of Atjeh)|West Coast of Aceh]]
+- [[Kapitein Haga]]
 - [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 - [[Lueng Bata]]
 - [[XXII Mukims]]
 - [[Lam Lheue]]
 - [[Lam Kra']]
 - [[Great Acheh]]
-- [Atjeh-oorlog](/events/atjeh-oorlog)
+- [[Aceh War]]
+- [[Klewang]]
 
 ## Sources
 
 - *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Sloebers*.
 - *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+- *DLP-84-Atjeh.pdf*, p. 8.

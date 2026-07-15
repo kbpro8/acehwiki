@@ -111,6 +111,12 @@ In [[1908]] he left Atjeh, and the garrison raised a *borstbeeld* (bust) to him 
 
 Verbraak's significance for the encyclopedia of [[Acheh|Achehnese]] history, in the Kalff account preserved by the mission jubilee volume, is twofold. First, he is the principal documented Catholic figure of the [[Aceh War|Atjeh-oorlog]]: a chaplain whose thirty-year presence on the war-footing of [[Groot-Atjeh|Groot-Atjeh]] and [[Pedir|Pedir]] spans the whole central phase of the conflict, from the consolidation of the Dutch bridgehead at [[Koeta Radja|Kotta-Radja]] in [[1874]] to the surrender of the pretender-sultan in [[1903]] and the subsequent civil-government transition. Second, he is the agent of the first sustained Catholic institutional presence in Atjeh — the [[Catholic Mission of Koeta Radja-Atjeh|Catholic Mission of Koeta Radja-Atjeh]] — through the [[1885|1885]] consecration of the Kotta-Radja church, the [[1896|1896]] Olehleh chapel, and the later development of the mission under the [[Zusters van Schijndel|Zusters van Schijndel]]. His career thus straddles the military, religious, and institutional histories of late-colonial Atjeh, and his bronze statue at Bandoeng remains the most visible monument to that intersection.
 
+## Account from *DLP-84-Atjeh*
+
+The summary entry in *DLP-84-Atjeh* frames **Pastoor Verbraak** as a Dutch missionary-priest of the [[Societeit van Jezus|Sociëteit van Jezus]] (Society of Jesus) who served as the *soldier-pastor* — *aalmoezenier* (almoner-chaplain) — of the Dutch colonial forces in [[Atjeh|Atjeh]] from [[1874]] until his death. The DLP-84 sketch specifies the institutional reach of his chaplaincy: his parish (Dutch: *parochie*) extended over **forty forts and ten sea-posts** (Dutch: *veertig forten en tien zeeposten*), and his duties spanned the battlefield, hospitals, and the homes of soldiers, providing comfort to the wounded, administering last rites (Dutch: *laatste olsel*), and writing letters for families back in Europe. He served for **thirty-three years under tropical conditions** (Dutch: *drieëndertig jaar onder tropische omstandigheden*), which eventually exhausted his health.
+
+The DLP-84 entry also documents the social composition of the chaplaincy's audience and the resistance Verbraak encountered. The European minority within the colonial army consisted largely of *shipwrecked* individuals (Dutch: *schipbreukelingen* — here in the figurative sense of the morally stranded or the socially displaced) who gave little value to spiritual assistance, and Verbraak often faced resistance from the colonial authorities themselves. Nevertheless, his self-sacrificial love (Dutch: *zelfopofferende liefde*) won him the gratitude of countless soldiers, who regarded him as the "good spirit" (Dutch: *goede geest*) of the entire [[Indische Leger|Indische Leger]]. He was honoured with a bronze and stone monument during his lifetime, and after his death a more costly monument was erected by the grateful soldiers. His statue in [[Bandung|Bandoeng]] further underscores the importance the colonial authorities placed on his service.
+
 ## See Also
 - [[Dominee Thenu]]
 - [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
@@ -180,3 +186,9 @@ Verbraak's significance for the encyclopedia of [[Acheh|Achehnese]] history, in 
 - *Register op de eerste 50 jaargangen van het missietijdschrift der P.P. Jezuieten "St. Claverbond", 1889 tot en met 1938*, samengesteld door Herman Hagdorn S.J. en Jacques Dinjens (Nijmegen: Stichting St. Claverbond, 1939).
 
 *Vierhonderd jaren missie in Nederlandsch-Indië, 1593–1934* (Batavia: Algemeen Comité van Voorbereiding tot de Feestelijke Herdenking van 400 jaar Missie in Ned.-Indië, [1934]), "Pastoor H. C. Verbraak," pp. 127–133, after S. Kalff, "Een trits Indische Pastoors," in *Koloniaal Missie Tijdschrift*, Jaargang XII.
+
+*DLP-84-Atjeh.pdf*, pp. 4-5.
+
+*DLP-84-Atjeh.pdf*, pp. 6-7.
+
+*DLP-84-Atjeh.pdf*, p. 8.

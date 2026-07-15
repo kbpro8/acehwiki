@@ -34,6 +34,10 @@ In the late [[1820s]] the Dutch reduced the export price of **Java salt** from 7
 
 The [[Java War (1825-1830)|Java War]] (1825–1830), led by [[Dipo Negoro]], formed the strategic background to Dutch‑British rivalry over Sumatra. Governor [[Robert Fullerton|Fullerton]] noted in his minute of [[16 March]] [[1828]] on the contemplated [[Bellona mission to Sumatra's East Coast (1827-1828)|Bellona mission]] to [[Siak]] that Dutch actions in Sumatra would depend on the situation in Java. Van der Kemp’s footnote clarified that the “probable proceedings … whenever their affairs in Java will permit” referred to the Dipo Negoro revolt. As long as the Dutch were preoccupied in Java, British agents in Penang and Singapore could press their claims on Sumatra’s east coast.
 
+## Account from *DLP-84-Atjeh* — Java as a Staging Point for the Aceh Pepper Trade
+
+Beyond its colonial-administrative and comparative-legal roles, Java functioned from the early Common Era as a major destination and staging point for maritime traffic traversing the [[Straits of Malacca|Strait of Malacca]] en route to [[China]] and the western archipelago. The island’s position as a commercial hub linked it indirectly to the political and economic dynamics of [[Aceh (Atjeh)|Acheh (Atjeh)]], especially during the period of Portuguese and later Dutch expansion. [[Portuguese traders|Portuguese]] and [[Dutch East India Company|Dutch]] vessels used Java as a staging point for voyages to the pepper-rich coasts of Aceh, and the flow of goods — spices, gold, and European manufactured items — between Java and Aceh intensified after the spread of [[Islam]] in the archipelago around [[1300]]. Java’s commercial function as a trans-shipment point thus predated the VOC and continued, in modified form, throughout the colonial era.
+
 ## Significance
 
 Java’s dual role—as a cultural benchmark for Achehnese customs and as the administrative and logistical heart of Dutch colonial power—made it a focal point for comparative legal studies, imperial strategy, and economic competition in the early nineteenth‑century Indian Ocean world. The island’s institutions, vocabulary, and legal practices were repeatedly invoked to legitimize Dutch authority over Sumatra, while the “second Java” ambition and the “Java minor” designation reveal how colonial planners projected Javanese models onto other parts of the archipelago.
@@ -73,6 +77,10 @@ Java’s dual role—as a cultural benchmark for Achehnese customs and as the ad
 - [[Jacob Pieter van Braam]]
 - [[Kweekschool voor de Zeevaart]]
 - [[Dutch East India Company]]
+- [[Portuguese traders]]
+- [[Islam]]
+- [[Straits of Malacca]]
+- [[1300]]
 
 ## Source
 
@@ -81,3 +89,5 @@ Java’s dual role—as a cultural benchmark for Achehnese customs and as the ad
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pp. 78‑79. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
+
+*DLP-84-Atjeh.pdf*, pp. 2-3.

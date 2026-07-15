@@ -54,6 +54,10 @@ The *Sadjarah Malajoe* — the principal Malay chronicle of the Malacca-Johor su
 
 *Source: Over Maleise Literatuur*, by Dr. C. Hooykaas, Hoogleraarte Batavia; Tweede Druk (Leiden: E. J. Brill, 1947), chapter 11 ("Geschiedschrijving in het Maleis"), pp. 94-96; Toelichting tot de Sadjarah Malajoe, aantekening bij 11/11 and 24/1, pp. 219, 237.
 
+## Account from *DLP-84-Atjeh* — Malacca as Overwal and the Pepper-for-European-Goods Exchange
+
+In the framing of *DLP-84-Atjeh*, Malacca — historic trading port on the western coast of the [[Malay Peninsula|Malay Peninsula]] — is treated as the principal *Overwal* (Dutch: *overwal*, "overseas" or "across-the-water" trade hub) linking the [[Indian Ocean]] to the [[Straits of Malacca|Strait of Malacca]] and, consequently, to [[Aceh (Atjeh)|Acheh (Atjeh)]]. From the early centuries of the Common Era, ships from [[India]], [[China]], and later Europe passed through Malacca en route to the archipelago, making it a conduit for goods such as pepper, gold, gunpowder, weapons, and opium. The Acehnese sultans exchanged pepper and gold for the coveted European commodities at Malacca, and the port also functioned as a point of contact for [[Portuguese traders|Portuguese]], [[Dutch East India Company|Dutch]], [[British Empire|English]], and [[United States of America|American]] traders who sought to tap the lucrative spice market of the northern [[Sumatra|Sumatran]] coast. Control of the sea lanes through the Strait of Malacca was, in this account, a central justification for the Dutch colonial government's obligation — under the [[Anglo-Dutch Treaty of 1824|Treaty of 1824]] — to protect the safety of navigation in Acehnese waters. The strategic significance of Malacca persisted into the [[19th century|nineteenth century]], influencing diplomatic and military actions in the region and contributing to the eventual outbreak of the [[Aceh War|Aceh War]] in [[1873]].
+
 ## See Also
 
 - [[Acheh]]
@@ -87,9 +91,16 @@ The *Sadjarah Malajoe* — the principal Malay chronicle of the Malacca-Johor su
 - [[Dr. C. Hooykaas]]
 - [[1511]]
 - [[1612]]
+- [[1873]]
+- [[India]]
+- [[China]]
+- [[United States of America]]
+- [[British Empire]]
+- [[Portuguese traders]]
 
 ## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 *Over Maleise Literatuur*, by Dr. C. Hooykaas, Hoogleraarte Batavia; Tweede Druk (Leiden: E. J. Brill, 1947).
+*DLP-84-Atjeh.pdf*, pp. 2-3.
