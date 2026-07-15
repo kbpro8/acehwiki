@@ -1,7 +1,7 @@
 ---
 title: J. L. J. H. Pel
-aliases: [J. L. J. H. Pel, Pel, Major Pel, General Pel, Kolonel Pel, Kolonel Pell, Colonel Pel, Pell, F. V. A. de Pélacotte]
-tags: [person, military, dutch, colonial, knil, governor, aceh-war, 19th-century]
+aliases: ["Pel (Atjeh commander)", "Pel", "generaal Pel", "general Pel"]
+tags: [person, military, dutch, colonial, knil, governor, aceh-war, 19th-century, acheh]
 description: "Dutch colonel of the infantry, promoted major-general by Royal Decree of 18 February 1875, who served as the first Military and Civil Commander (Mil. en Civ. bevelhebber) of the Gouvernement Atjeh en Onderhoorigheden from April 1874 until his sudden death at kampong Tonga on 24 February 1876."
 ---
 
@@ -86,55 +86,82 @@ Pel's appointment formalised the transition from ad hoc military occupation to t
 
 Pel's leadership of the marine-ground operations during the [[1875]]–[[1876]] campaign — the burning of villages such as Pakan Badak, the construction of fortified *bentengs* (forts) at Bockit Daroe and other positions, the coordinated use of the [[Nederlandsche Korps Mariniers|Korps Mariniers]] alongside infantry and artillery — also exemplifies the Dutch high-command's reliance on decisive, often harsh measures to subdue Achehnese resistance.
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**Pel** — general Pel — was the [[Netherlands|Dutch]] commander left in [[Acheh|Atjeh]] with 3,000 men when [[General Van Swieten|generaal Van Swieten]] returned to [[Batavia]] with the main force after the December [[1873]] expedition. Pel's instructions were to bring the chiefs to submission by amicable arrangement, to exercise patience, and to maintain a waiting posture. The Atjehnese, "die zich volstrekt niet verslagen gevoelden" (who did not feel themselves at all defeated), soon resumed their attacks.
+
+### The Pel interlude
+
+The source records: "Van Swieten keerde met de hoofdmacht naar Batavia terug, 3000 man achterlatende onder Pel. Deze had tot taak de hoofden bij minnelijke schikking tot onderwerping te brengen, geduld te oefenen en een afwachtende houding te bewaren" (Van Swieten returned with the main force to Batavia, leaving 3,000 men under Pel. Pel's task was to bring the chiefs to submission by amicable arrangement, to exercise patience, and to maintain a waiting posture).
+
+### The Atjehnese response
+
+The Atjehnese response to the [[Pel|Pel]] interlude was, the source records, the resumption of attacks: "De Atjehers, die zich volstrekt niet verslagen gevoelden, vielen telkens onze troepen aan" (The Atjehnese, who did not feel themselves at all defeated, repeatedly attacked our troops). The [[Pel|Pel]] interlude is thus the type-specimen of the Dutch misreading of Atjehnese resistance — the assumption that the formal annexation of [[Groot-Atjeh|Groot-Atjeh]] and the proclamation of [[Koeta Radja|Kota-Radja]] as government territory had ended the war.
+
+### Significance
+
+The [[Pel|Pel]] interlude is the immediate post-[[1873]] Dutch administration of Atjeh. The instructions — amicable arrangement, patience, waiting posture — and the Atjehnese response — repeated attacks — together set the pattern for the [[Concentratie-stelsel (1884-1896)|concentratie]] period that would formally begin in the early [[1880s]].
+
 ## See Also
 
-- [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[Aceh War]]
-- [[Capture of the Kraton (24 January 1874)]]
-- [[Jan van Swieten]]
-- [[K. van der Heyden]]
-- [[G. B. T. Wiggers van Kerchem]]
-- [[A. J. E. Diemont]]
-- [[F. T. Engel]]
-- [[J. B. Verhey]]
-- [[J. R. J. P. Cambier]]
-- [[Cramer von Baumgarten]]
-- [[Mirandolle]]
-- [[Diepenheim]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
+- [[Bockit Daroe]]
 - [[Panglima Polem|Panglima Polim]]
+- [[Capture of the Kraton (24 January 1874)]]
+- [[K. van der Heyden]]
+- [[Kroëng Raba]]
+- [[XXII Moekims]]
+- [[J. R. J. P. Cambier]]
+- [[Lampassei]]
+- [[J. B. Verhey]]
+- [[G. B. T. Wiggers van Kerchem]]
+- [[Oleh-leh]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Jan van Swieten]]
+- [[Toewankoe Abdoel Madjid]]
+- [[IV Moekims]]
+- [[Westerlinie]]
+- [[Aceh War]]
+- [[Governorship of General Van der Heyden]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Toewankoe Haschim]]
+- [[Nederlandsche Korps Mariniers]]
 - [[Imam of Longbatta]]
 - [[Toekoe Rajoet Lamkapang]]
-- [[Toewankoe Haschim]]
-- [[Toewankoe Hoesin]]
-- [[Toewankoe Abdoel Madjid]]
-- [[Nederlandsche Korps Mariniers]]
-- [[XXII Moekims]]
-- [[XXVI Moekims]]
-- [[IV Moekims]]
-- [[VI Moekims]]
-- [[IX Moekims]]
-- [[Westerlinie]]
-- [[Noorderlinie]]
-- [[Oleh-leh]]
-- [[Pakan Badak]]
-- [[Bockit Daroe]]
-- [[Kroëng Raba]]
-- [[Kroëng Raja]]
-- [[Koeta Radja]]
-- [[Marassa]]
-- [[Lampassei]]
+- [[A. J. E. Diemont]]
 - [[Kwala Gighen]]
-- [[Governorship of General Van der Heyden]]
-- [[Joannes Benedictus van Heutsz]]
-- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
-- [[H. N. A. Swart]]
-- [[A. Pruys van der Hoeven]]
-- [[De Kleine Oosterling]]
-- [[1874]]
-- [[1875]]
 - [[1876]]
+- [[A. Pruys van der Hoeven]]
+- [[Noorderlinie]]
+- [[Marassa]]
+- [[Koeta Radja]]
+- [[Diepenheim]]
+- [[F. T. Engel]]
+- [[Kroëng Raja]]
+- [[1874]]
+- [[Toewankoe Hoesin]]
+- [[VI Moekims]]
+- [[H. N. A. Swart]]
+- [[1875]]
+- [[IX Moekims]]
+- [[Mirandolle]]
+- [[Pakan Badak]]
+- [[XXVI Moekims]]
+- [[De Kleine Oosterling]]
+- [[Cramer von Baumgarten]]
+- [[Batavia]]
+- [[Groot-Atjeh]]
+- [[Atjehoorlog]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[1873]]
+- [[General Van Swieten]]
+- [[1880]]
 
-## Source
+## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872–1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 30–37, 68–75.
 
@@ -147,3 +174,5 @@ Pel's leadership of the marine-ground operations during the [[1875]]–[[1876]] 
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665–1945*, by C. J. O. Dorren, 1948, pp. 135–141 (OCR transcription, DLP-55).
 
 *Verslagen der Marine-Vereeniging III 1889–1890*, J. R. J. P. Cambier, pp. 229–233.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
