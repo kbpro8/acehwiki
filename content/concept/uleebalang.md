@@ -1,7 +1,7 @@
 ---
 title: Uleebalang
-aliases: [Uleëbalang, Uleebalang, Territorial Chief, Acehnese Chief, oelèëbalang, ulèëbalang, ulëëbalang, oelebalang, heeren des lands, radja van zijn gebied, territorial chief of Aceh]
-tags: [concept, government, nobility, military, achehnese, adat, sovereignty, administrative, sultanate, colonial]
+aliases: ["Uleebalang", "uléebalang", "uleebalang", "the Atjehnese uléebalang"]
+tags: [concept, government, nobility, military, achehnese, adat, sovereignty, administrative, sultanate, colonial, acheh, territorial, chief]
 description: "The hereditary territorial chieftains of Acheh — warrior-nobles who served as military leaders, administrators, and judges within their domains, forming the backbone of Acehnese political structure."
 ---
 
@@ -57,37 +57,75 @@ A special rank was **Oelèëbalang Pöteu** — "Oelèëbalang of our Lord (the 
 
 The uleebalangs were theoretically subordinate to the [[Aceh Sultanate|Sultan]] but in practice were largely autonomous, especially as the sultanate weakened. During the [[Aceh War]], the uleebalangs of the coastal districts were generally more inclined toward accommodation with the Dutch than the highland uleebalangs, who were more easily influenced by the [[Teungku|teungkus]] (religious leaders).
 
+
+## Account from *Schets eener parlementaire geschiedenis* (1955)
+
+The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
+
+
+**The Uleebalang** — Acehnese *uléebalang* — was, in the source's narrative, the hereditary chief of an Atjehnese *landschap* (territory) comprising three or more *mukim*'s. The *uléebalang*s were "de eigenlijke heren des lands" (the actual lords of the land); the sultan's authority over them existed "alleen in naam" (in name only). The [[1892]] [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] advice — that the sultan's party was to be ignored and the *uléebalang*s struck into submission — was based on this analysis.
+
+### The Snouck Hurgronje analysis
+
+The source preserves the [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] analysis of Atjehnese social structure: "Drie of meer van deze mukim's vormen een landschap onder een uléebalang. De erfelijke uléebalangs waren de eigenlijke heren des lands" (Three or more of these mukim's form a territory under an uléebalang. The hereditary uléebalangs were the actual lords of the land). The [[Uleebalang|uléebalang]] is, in the [[Dr. C. Snouck Hurgronje|Snouck]] analysis, the effective sovereign of the Atjehnese *landschap* — the level at which political authority actually resided.
+
+### The hereditary character
+
+The source records that the *uléebalang*s were "erfelijke" (hereditary). The hereditary character of the *uléebalang* office is, in the [[Dr. C. Snouck Hurgronje|Snouck]] analysis, the institutional anchor of Atjehnese territorial structure: the *uléebalang*s were the hereditary lords of the land, in contrast to the sultan whose authority existed only in name.
+
+### The sultan's nominal authority
+
+The source records: "Het gezag van de Sultan over de panglima's sagi en de uléebalangs bestond alleen in naam" (The sultan's authority over the panglima's sagi and the uléebalangs existed only in name). The [[Dr. C. Snouck Hurgronje|Snouck]] analysis thus inverts the Dutch pre-[[1892]] misreading: the sultan was not the effective sovereign of Atjeh, but only its nominal head; the *uléebalang*s were the effective sovereigns of their respective *landschap*'s.
+
+### The 1892 advice
+
+The [[1892]] [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] advice — that the sultan's party was to be ignored, that the enemy was to be struck sensibly rather than negotiated with, and that the population's confidence was thereafter to be won by welfare policy — was based on the analysis of Atjehnese social structure in which the [[Uleebalang|uléebalang]] was the effective sovereign. The advice was rejected by the governor of Atjeh [[Deykerhoff|Deykerhoff]] and the governor-general [[Pijnacker Hordijk|Pijnacker Hordijk]], who instead armed and subsidised [[Teungku Um|Teungku Um]] — with the [[1896]] defection of [[Teungku Um|Teungku Um]] as the consequence.
+
+### Significance
+
+The [[Uleebalang|uléebalang]] is, in the [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] analysis preserved by the source, the effective sovereign of the Atjehnese *landschap*. The [[1892]] advice to ignore the sultan and strike the *uléebalang*s was based on this analysis; the post-[[1896]] implementation of the advice by [[J. B. van Heutsz|Van Heutsz]] brought the sultanate under Dutch control by [[1904]].
+
 ## See Also
 
-- [[Sagi (Atjeh administrative division)|Sagi]]
-- [[Sagi System]]
-- [[Mukim|Moekim]]
 - [[Gampong|Gampöng]]
-- [[Aceh Sultanate]]
-- [[Adat]]
-- [[Kawom]]
-- [[Bila]]
+- [[Panglima Polem|Panglima Pölém]]
 - [[Aceh War]]
-- [[Teungku]]
-- [[Imeum]]
 - [[Keuchi']]
-- [[Korte Verklaring]]
+- [[1881]]
+- [[Aceh Sultanate]]
+- [[Rakan]]
 - [[Sarakata]]
-- [[Sultans of Atjeh]]
+- [[1906]]
+- [[Sagi (Atjeh administrative division)|Sagi]]
+- [[Korte Verklaring]]
 - [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
-- [[Groot-Atjeh]]
+- [[Imeum]]
+- [[Stbl. 1881 N°. 79]]
+- [[1879]]
+- [[Sagi System]]
+- [[1915]]
+- [[Adat]]
 - [[Oelèëbalang tjoet]]
 - [[Banta]]
-- [[Rakan]]
-- [[Moesapat]]
+- [[Sultans of Atjeh]]
+- [[Mukim|Moekim]]
+- [[Bila]]
+- [[Teungku]]
+- [[Groot-Atjeh]]
 - [[Wasé oelèëbalang]]
-- [[Panglima Polem|Panglima Pölém]]
-- [[Stbl. 1881 N°. 79]]
-- [[1881]]
-- [[1879]]
-- [[1906]]
+- [[Moesapat]]
 - [[1910]]
-- [[1915]]
+- [[Kawom]]
+- [[Pijnacker Hordijk]]
+- [[Sultan of Acheh]]
+- [[1892 Snouck Hurgronje advice on Atjeh]]
+- [[Deykerhoff]]
+- [[Acheh]]
+- [[Panglima sagi]]
+- [[Mukim]]
+- [[J. B. van Heutsz]]
+- [[Sagi (Atjehnese federation)]]
+- [[Dr. C. Snouck Hurgronje]]
 
 ## Sources
 
@@ -96,3 +134,5 @@ The uleebalangs were theoretically subordinate to the [[Aceh Sultanate|Sultan]] 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 44–46. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, pp. 91 e.v., 94.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
