@@ -94,6 +94,12 @@ Köhler's significance for the encyclopedia of [[Acheh|Achehnese]] history lies 
 - [[24 January]]
 - [[31 January]]
 
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] records that Köhler was killed on [[8 April]] [[1873]] standing beside a tree at the edge of the mesdjid at [[Koetaradja]]. The tree — the ***Köhler-boom*** — stood for more than sixty years beside the mosque (*op 's Lands kosten gebouwd*, built at the cost of the State). Zentgraff published photographs showing it: *"De mesdjid te Koetaradja, op 's Lands kosten gebouwd. Geheel links: de Köhler-boom"*, and its felling in [[1936]]: *"De in 1936 gevelden Kohler-boom. Bi dezen boom stond tijdens de eerste Atjeh-expeditie gen. majoor Köhler, toen hij sneuvelde."*
+
+When the tree was felled in [[1936]], *van het onderste deel van den stam van Köhler boom is eene tafel gemaakt welke in het Atjeh-museum staat* — from the lowest part of its trunk a table was made which stands in the [[Atjeh-museum]]. *Elk der divisies geeft bij beurte eene flesch wijn, voor bezoekers* — each of the divisions of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussée]] in turn provides a bottle of wine for visitors. *Op het papier: twee kogels, ongeveer ter manshoogte in de schors van den boom gevonden* — two bullets were found at about man's height in the bark of the tree. The First Expedition — a *bad starters*' affair in Zentgraff's phrase — was a failure, and Köhler's death ended it; the [[Second Aceh Expedition (1873-1874)|Second Expedition]] of [[1873]]–[[1874]] under [[Jan van Swieten]] would take the *kraton* in the following January.
+
 ## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 12-19.
@@ -103,3 +109,5 @@ Köhler's significance for the encyclopedia of [[Acheh|Achehnese]] history lies 
 *Het Land van Jan Pieterszoon Coen*, door Dr. W. A. Terwogt (Hoorn: P. Geerts, [1891]). Hoofdstuk XIII: "Denzelfden dag nog sneuvelde helaas bij eene voortgezette verkenning, de Generaal-Majoor Köhler. Kolonel van Daalen verving hem" — the death of Generaal-Majoor Köhler on 14 April 1873 during a continued reconnaissance, and his replacement by Kolonel Van Daalen.
 
 *Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
