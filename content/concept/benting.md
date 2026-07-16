@@ -1,6 +1,6 @@
 ---
 title: Benting
-aliases: [Benteng, Benting system, Sandbag benting, Atjehese benting]
+aliases: ["Benteng", "Benting", "system", "Sandbag", "benting", "Atjehese", "benting", "benteng", "Atjehnese fortification", "Atjehnese benting", "Atjehsche benting"]
 tags: [concept, fortification, acehnese, dutch, aceh-war]
 ---
 
@@ -36,6 +36,38 @@ The benting was the basic unit of the Dutch system of perimeter consolidation in
 - [[1874]]
 - [[1875]]
 
+
+## The Atjehnese Benting of the Late Concentratie Period
+
+The [[Atjeh-Album (Eigen Haard, 1896)|Atjeh-Album of 1896]] — in its detailed description of the [[Kaloet|benting of Kaloet]] — records that the late-nineteenth-century Atjehnese *benting* had evolved into a far more substantial and ingeniously engineered fortification than the sandbag breastwork of the early war. The Kaloet *benting* — built in the *wildernis* (wilderness) of the [[XXV Moekims|XXV Moekims]] of [[Groot-Atjeh|Groot-Atjeh]] at approximately 800 metres from the Dutch *spoorbaan* (railway line) — consisted of four heavy earthen walls, 3 to 4 metres high, forming a rectangle of approximately 20 by 15 metres. The left front corner was occupied by a *massief hoog bastion* (massive high bastion), itself up to 6 metres high and equipped with a heavy *[[lila|lila]]* (swivel-gun) on a *spilaffuit* (pivot carriage). The rear wall was provided with a bastion armed with two pieces on roller carriages.
+
+The entrance — *buitengewoon sterk* (extraordinarily strong) — was so narrow that only one man could pass through at a time. The access was *uiterst moeilijk, en zeer vernuftig bedacht* (extremely difficult and very ingeniously devised): a *kuil met water* (water-filled pit) some ten metres behind and to the side of the entrance; a narrow *gang van zware palissaden* (lane of heavy palisades) leading to the pit, equipped with three strong gates; a *klapperstam, als vonder zonder leuningen* (coconut-trunk footbridge without railings) over the pit; and a second narrow *gang van palissaden* — twice making a corner, again with three doors — from the footbridge to the gate in the rear wall. Around the entire fortification lay a 1½-metre-deep and 2-metre-broad *gracht* (moat).
+
+The defensive works in front of the moat included *comboeri-aanplantingen* (comboeri plantings) of approximately 5 metres' breadth — a *weerbarstige sterke plant, met doorns* (stubborn strong plant, with thorns); *wolfskuilen* (wolf-pits) with *randjoes* (sharpened bamboo stakes) — *scherp aangepunte stokjes, die vooral voor de ongehoede inlanders hoogst gevaarlijk zijn* (sharply pointed stakes, especially dangerous for the incautious natives); and *mandjoe-aanplantingen* (mandjoe plantings). The left flank rested against wholly impassable terrain — *oerwoud, massieve wildernis* (primeval forest, massive wilderness).
+
+The Kaloet *benting* successfully resisted the [[Battle of Kaloet (1 October 1892)|Dutch assault of 1 October 1892]] — repulsing a strong column of a captain and three lieutenants, supported by 75 men from [[Lampermej|Lampermej]] and 50 men of the 14th Battalion, with 7 killed and more than 30 wounded, including Lieutenant [[Hoolboom|Hoolboom]] (mortally wounded) and Lieutenant [[Drijber|Drijber]]. The *benting* was eventually taken not by assault but by the auxiliary-system [[Capture of Kaloet by Toekoe Oemar (August 1893)|capture by Toekoe Oemar in August 1893]] — a bloodless operation in which the Atjehnese garrison withdrew before sunrise after a *briefje* (note) from Toekoe Oemar threatening a *hongerkuur* (hunger-cure).
+
+Other *bentings* of the late *concentratie* period include the *benting* of [[Bak Tjerlak|Bak Tjerlak]] — visible from the post at [[Anagaloeng|Anagaloeng]] at some two hundred metres to the south-west; the *bentings* conquered by [[Toekoe Oemar|Toekoe Oemar]] in his August [[1893]] purification of the [[XXV Moekims|XXV Moekims]] — [[Boekit Trieng|Boekit Trieng]], [[Boekit Daroe|Boekit Daroe]], [[Kasoemba|Kasoemba]] and [[Tjot-Goe|Tjot-Goe]]; and the *benting* of [[Lam Pisang|Lampisang]] — the [[Toekoe Oemar|Toekoe Oemar]] fortification stormed by the Dutch on [[23 May]] [[1896]] in the closing engagement of the spring [[1896]] crisis.
+
+## See Also (additional)
+
+- [[Kaloet]]
+- [[Bak Tjerlak]]
+- [[Boekit Trieng]]
+- [[Boekit Daroe]]
+- [[Kasoemba]]
+- [[Tjot-Goe]]
+- [[Lam Pisang]]
+- [[Lila]]
+- [[Battle of Kaloet (1 October 1892)]]
+- [[Capture of Kaloet by Toekoe Oemar (August 1893)]]
+- [[Storming of Lampisang (May 1896)]]
+- [[Geconcentreerde linie]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Atjeh-Album (Eigen Haard, 1896)]]
+
 ## Source
+
+*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 31–34 (De Strijd om Kaloet — Eene herinnering uit den Atjeh-oorlog).
 
 D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), pp. 25–27 (Benting Kota Alam), pp. 28–32 (Missigit Longbatta, with footnote on ranjoes), pp. 32–33 (Pungej Blang Tjoet, Mandarsah Poetih, Lamara Olejlo). Koninklijke Bibliotheek shelfmark 0301 4872.

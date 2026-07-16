@@ -1,7 +1,7 @@
 ---
 
 title: Imam of Longbatta
-aliases: [Imam Longbatta, Imam Longbattah, Imam of Longbattah, the Imam of Longbatta, Imeum of Lueng Bata, Imeum Lueng Bata, Imeum Longbatta, Iman Longbatta, Iman of Longbatta]
+aliases: ["Imam", "Longbatta", "Imam", "Longbattah", "Imam", "of", "Longbattah", "the", "Imam", "of", "Longbatta", "Imeum", "of", "Lueng", "Bata", "Imeum", "Lueng", "Bata", "Imeum", "Longbatta", "Iman", "Longbatta", "Iman", "of", "Longbatta", "Toekoe Imam Longbattah", "Toekoe Imam Longbatta", "Teungku Imam Longbattah", "the Imam of Longbatta"]
 tags: [person, imam, religious-leader, acehnese, aceh-war, military-leader, uleebalang]
 ---
 
@@ -85,6 +85,23 @@ The Imeum of Lueng Bata also appears among those *uleebalangs* in the Sultan's t
 - [[1875]]
 - [[1879]]
 - [[1901]]
+
+
+## Pre-war role: adviser to Sultan Machmoed
+
+The [[Atjeh-Album (Eigen Haard, 1896)|Atjeh-Album of 1896]] records that, before the Dutch attack of [[1873]], the Imam of Longbatta — named in the album as *Toekoe Imam Longbattah* — served as one of the three principal advisers consulted by Sultan [[Toeankoe Machmoed|Toeankoe Machmoed]] on the question of whether to open negotiations with the Dutch. When the Sultan, without the Habib's knowledge, commissioned [[Panglima Tibang|Panglima Tibang]] to open negotiations with the Dutch steamship *Maar en Waul* then lying at the roadstead of [[Groot-Atjeh|Groot-Atjeh]], the Habib insisted that *zulke gewichtige saangelegenheid* (such a weighty matter) could not be decided by the Sultan alone. The matter was referred to a council of three chiefs — *Toekoe Imam Longbattah, Toekoe Kadli en Toekoe Noq van Marassa* — who declared themselves in agreement with the Habib and accompanied him to [[Batavia|Batavia]] on the steamship *Patti* (Captain *Roura*) to treat with the Governor-General.
+
+This pre-war advisory role places the Imam of Longbatta — together with [[Toekoe Kadli|Toekoe Kadli]] and [[Toekoe Noq van Marassa|Toekoe Noq van Marassa]] — among the three senior chiefs whose consent was required for the Sultan's diplomatic initiatives. The council of three is, in the album's reading, the principal advisory body of the late sultanate, and the Imam's place on it reflects the seniority of his religious office.
+
+## See Also (additional)
+
+- [[Toeankoe Machmoed]]
+- [[Panglima Tibang]]
+- [[Toekoe Kadli]]
+- [[Toekoe Noq van Marassa]]
+- [[Batavia]]
+- [[Groot-Atjeh]]
+- [[Atjeh-Album (Eigen Haard, 1896)]]
 
 ## Sources
 
