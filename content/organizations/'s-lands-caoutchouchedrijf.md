@@ -1,5 +1,5 @@
 ---
-title: 's Lands Caoutchouchedrijf
+title: "'s Lands Caoutchouchedrijf"
 aliases: ["'s Lands Caoutchouchedrijf", "Lands Caoutchouchedrijf", "the Government Rubber Enterprise", "the State Rubber Factory of the Netherlands Indies", "s Lands Caoutchouchedrijf"]
 tags: [organization, state-enterprise, colonial, caoutchouc, rubber, terpentijn, aceh, baleq, 20th-century, dutch, gajo-landen]
 ---
