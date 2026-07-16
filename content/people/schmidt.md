@@ -56,8 +56,20 @@ Schmidt is significant in the AcehWiki corpus in two complementary registers. As
 - [[Aceh War]]
 - [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
 
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+Zentgraff gives Schmidt the title *primus inter pares* among the Dutch *aanvoerders* in Atjeh: he knew the *Atjehsche taal en adat als niemand anders* (Acehnese language and adat like nobody else), so that *de legende van mysterieuze gaven en ilmoe's om hem hing* (the legend of mysterious gifts and ilmoe's hung about him), and this gave him greater influence over the population than most commanders had.
+
+In [[1908]] [[H.N.A. Swart|Swart]] gave Schmidt the *vernietigingsapparaat* against the [[Tiro-oelama|Tiro-oelama's]]. Schmidt built his intelligence-work on the *fourageurs* (foraging parties) of the bende — they must come out to eat. On [[2 May]] [[1910]] his brigade overvalled the ladang of [[Peutoea Gam Masèn]], the *heerscher over de tijgers* (ruler of the tigers), at the Kroeëng Seukoeleh; the *Peutoea* charged with his *rentjong* and was killed by the klewang of a maréchaussée. On [[5 September]] [[1910]] the *bende-Heynen*, working on Schmidt's information, overvalled the schuilplaats of [[Tengkoe Majet di Tiro|Tgk. Majet]]; the Tengkoe escaped, but his wife [[Tjoet Gambang]] fell *zwaar gewond* into Dutch hands, and refused treatment: *"Bêta mat keë, kaphé boedo"* — "Do not touch me, leper kafir."
+
+On [[29 September]] [[1911]] Schmidt overvalled the schuilplaats of the *grijze oelama* [[Habib Teupin Wan]] — *een gevecht in prachtigen stijl* (a fight in beautiful style). When Schmidt returned to [[Tangsé]] the *oeléëbalang*'s wife asked him how many dead and wounded the Kompeuni had suffered: *"Zelfs geen enkele gewonde"* — not even one wounded — whereat the astonished woman: *"Dan moet uw eleumeë wel heel sterk zijn, want de Habib was zoo machtig dat, als iemand maar met den vinger naar hem wees, diens hand verstijfde."*
+
+Zentgraff records Schmidt's mystical reputation in detail. At the Tado bivak Schmidt, walking the *pagger* at dusk, found *versche sporen van een grooten tijger* (fresh spoor of a large tiger); the *keutjhi* called the *pawang rimoeëng* (tiger-charmer) who had all the tigers of the country *onder appèl*. At the Boven-Wojla Schmidt had the keutjhi build a tiger-val with a back-door, using the old *bezweringformule*: *"Kala keu dikah kala laka laka."* The Acehnese came to believe the tiger was *in dienst van Schmidt*. Once Schmidt witnessed an Atjehsche *wapensmid*, after praying to *Sjech Abdul Kadeuë* (the *Heer van het IJzer*), take a rentjong and *krulde het puntige einde geheel op, zonder dat een menschenhand het had aangeraakt* — curled the pointed end up without a human hand touching it. Schmidt tried with his own rentjong; the same thing happened. *Schmidt zegt: ik heb het met deze, mijn eigen oogen, gezien.*
+
 ## Sources
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), the chapter "De colonne Schmidt," the chapter on *De patrouille*, and the *Nawoord*.
 
 *In Memoriam Maurice Henri du Croo* (1951), p. 6 (biographical list of du Croo's works).
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
