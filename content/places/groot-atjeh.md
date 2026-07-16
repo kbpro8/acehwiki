@@ -1,7 +1,7 @@
 ---
 title: Groot-Atjeh
-aliases: [Atjeh proper, Banda Aceh region, Eigenlijk Atjeh, Great Aceh, Great Acheh, Greater Aceh, Groot-Atchéh, Groot-Atje, Groote Atjeh, Proper Acheh, Greater Atjeh, Aceh Besar, Groot Atjeh, Atjeh Besar]
-tags: [place, region, aceh-proper, aceh-war, acehnese, achehnese, colonial, afdeeling, rechtstreeks-bestuurd-gebied, atjeh, sagi, administrative-division]
+aliases: [Atjeh proper, Banda Aceh region, Eigenlijk Atjeh, Great Aceh, Great Acheh, Greater Aceh, Groot-Atchéh, Groot-Atje, Groote Atjeh, Proper Acheh, Greater Atjeh, Aceh Besar, Groot Atjeh, Atjeh Besar, "Groot Atjeh"]
+tags: [place, region, aceh-proper, aceh-war, acehnese, achehnese, colonial, afdeeling, rechtstreeks-bestuurd-gebied, atjeh, sagi, administrative-division, sultanate, sumatra, military]
 ---
 
 **Groot-Atjeh** ("Greater Aceh") was the Dutch colonial designation for the heartland of the [[Acheh|Atjeh]] sultanate — the densely settled coastal and hinterland district around the capital [[Banda Acheh|Koetaradja]] and its immediate interior — and later came to denote the interior highland region that was the focus of Dutch military mapping and operations in the 1870s. As an *afdeeling* and a *rechtstreeks bestuurd gebied* within the [[Gouvernement Atjeh en Onderhoorigheden]], Groot-Atjeh figured prominently in the [[Aceh War]], in colonial railway construction, and in the administrative reforms that shaped the later governance of Aceh.
@@ -70,6 +70,26 @@ Groot-Atjeh’s dense jungle and mountainous terrain presented logistical challe
 
 The *DLP-84-Atjeh* pamphlet records that the interior highland region of [[Groot-Atjeh]] — after extensive deforestation (*roof-building*, the local term for forest clearance) by the local population — became largely covered with hard grass (*alang-alang* (cogon grass)) savanna. Intensive clearance transformed large tracts of primeval forest (*oerbos* (primeval forest)) into savanna, altering the ecological balance and reducing biodiversity. The conversion to grassland affected traditional agriculture and facilitated the later introduction of plantation crops — rubber, oil-palm and sisal — on cleared land.
 
+## Account from *ATJEH '96* (Kruisheer, 1913) — the 1896 counter-offensive
+
+As described in [[A. Kruisheer|Kruisheer]]'s *ATJEH '96*, Groot-Atjeh was the overall inland region of the [[Aceh War|Atjeh-oorlog]] theatre of operations, comprising the three [[sagi]] (federations of [[moekim|mukims]]) known as the [[Sagi der XXV Moekims]], the [[Sagi der XXII Moekims]], and the [[Sagi der XXVI Moekims]], together with the adjacent mukim clusters of the [[IX Moekims]], [[IV en VI Moekims|IV and VI Moekims]], [[V Moekims Montassik]], [[III Moekims Kerkoen]] and [[III Moekims Daroe]], the [[VII Moekims Baid]], and the [[XIII Moekims Toengkoeb]]. Groot-Atjeh was the explicit object of the proclamation of [[26 April]] [[1896]] issued by [[Luitenant-Generaal Vetter|Lt.-Gen. Vetter]] as [[Regeeringscommissaris]], by which the [[Dutch]] colonial government declared [[Teuku Umar]] dismissed from his rank of [[Panglima Prang Besar]] and the entire region opened to renewed military action. Throughout the first semester of [[1896]] Groot-Atjeh remained the principal geographic and political theatre of the war.
+
+### Description and Location (ATJEH '96 account)
+
+Groot-Atjeh was the inland heartland of the [[sultanate of Atjeh]], lying immediately behind the [[Dutch]] bridgehead at [[Koeta Radja]] and the coastal port of [[Oleh-leh]]. Its territory extended from the [[Atjehrivier]] basin westward to the [[Westkust]] (West Coast) and eastward to the [[XXVI Moekims]] on the east coast, and was bounded on the south by the mountain wall of the *gebergte* (mountain range), including the passes of [[Glé Broeë]], Glé Taroempas, and the [[Belang Kala-pas]]. The region was politically subdivided into the three great [[sagi]] — the [[Sagi der XXV Moekims]], [[Sagi der XXII Moekims]], and [[Sagi der XXVI Moekims]] — each nominally under a [[Panglima Sagi]], and into the smaller mukim clusters of [[IV en VI Moekims|IV and VI Moekims]] (under [[Teuku Umar]]), the [[V Moekims Montassik]] (under [[Toeankoe Brahim|T. Brahim Montassik]]), the [[IX Moekims]], [[III Moekims Daroe]], [[III Moekims Kerkoen]], [[VII Moekims Baid]], and [[XIII Moekims Toengkoeb]]. The [[Lamkrak Moekims]] occupied the strategic country between [[Biloel]] and [[Ana' Galong]] north of the *gebergte*.
+
+### Historical Background (ATJEH '96 account)
+
+Groot-Atjeh had been the principal theatre of the [[Aceh War|Atjeh-oorlog]] since the first Dutch expedition of [[1873]], when the [[Kraton]] of the [[Sultan of Atjeh]] at [[Koeta Radja]] was stormed and destroyed. From [[1873]] onward, Dutch authority had been confined to a small perimeter around Koeta Radja and Oleh-leh, while the three sagi retained their traditional Achehnese political organisation under hereditary [[hoeloebalang|ulèëbalang]] and the spiritual authority of [[Teungkoe di Tiro|Teungkoe di Tiroe]]. The policy of the [[Geconcentreerde Linie|Geconcentreerde Linie (Concentrated Line)]] from [[1884]] onward, and the subsequent construction of the [[buitenlinie]] (outer line) of [[buitenpost|buitenposten]] from [[1890]], sought to extend this perimeter into the sagi by a chain of small forts — including [[Biloel]], [[Lamkoenjit]], [[Tjot Goeë]], [[Lamsoet]], [[Senelop]], [[Tjot Rang]], [[Kroeng Gloempang]], [[Toengkoeb]] and [[Ana' Galong]] — without bringing the region under effective control. By [[1893]] the appointment of [[Teuku Umar]] as [[Panglima Prang Besar]] of the Government on [[5 September]] [[1893]] was intended to use a native auxiliary *legioen* (legion) to clear the Lamkrak mukims, but the policy collapsed with his [[Defection of Teuku Umar (29 March 1896)|defection of 29 March 1896]].
+
+### Role in the 1896 Operations (ATJEH '96 account)
+
+Groot-Atjeh was the theatre of the entire Dutch counter-offensive of the first semester of [[1896]]. The crisis opened with Umar's defection on [[29 March]] [[1896]], which triggered the sieges of [[Biloel]] and [[Lamkoenjit]] and the relief operation of [[8 April]] [[1896]] under [[Kolonel der Infanterie|Kolonel]] [[J. W. Stemfoort|Stemfoort]]. The [[Regeeringscommissaris]] [[Luitenant-Generaal Vetter|Vetter]] arrived on [[7 April]] [[1896]] and on [[26 April]] [[1896]] issued the Government Resolution dismissing Umar; on [[12 April]] [[1896]] the [[buitenlinie]] was evacuated and burned. The Dutch then shifted to the offensive: the [[Bombardment of Lampisang]] ([[27 April]]–[[23 May]] [[1896]]) from [[Lam-Djamoe]] softened Umar's *stellingen* at [[Lam-Pisang]], [[Lam-Asan]], and the heights of [[Tjot Tjako]] and [[Boekit Seboen]], culminating in the [[Three-day Dutch offensive of 23–25 May 1896|three-day offensive of 23–25 May 1896]]. Subsequent operations targeted the [[Lamkrak Moekims]] ([[9 June]]–[[10 June]] [[1896]]), the [[V Moekims Montassik]] ([[16 June]]–[[17 June]] [[1896]]), and the [[Glé Broeë]] stelling via the [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)|Ladoeng landing of 22–23 June 1896]]. On [[28 June]] [[1896]] [[Luitenant-Generaal Vetter|Vetter]] departed for [[Batavia]], having nominally restored the Government's position.
+
+### Significance (ATJEH '96 account)
+
+Groot-Atjeh was, throughout the period covered by *ATJEH '96*, both the physical theatre of the war and the political object for which the war was fought. The decision of [[26 April]] [[1896]] to dissolve the [[buitenlinie]] and place the entire region under direct military government marked the end of the [[Deykerhoff]]–[[Teuku Umar|Umar]] policy of native auxiliaries and the beginning of the systematic conquest that would be carried forward by [[Joannes Benedictus van Heutsz|Van Heutsz]] and [[G. C. E. van Daalen|Van Daalen]] in the following years. The campaigns of [[1896]] in Groot-Atjeh thus prefigured the final Dutch subjugation of the Acehnese heartland in the first decade of the twentieth century.
+
 ## See Also
 
 - [[1873]]
@@ -115,6 +135,43 @@ The *DLP-84-Atjeh* pamphlet records that the interior highland region of [[Groot
 - [[Royal Netherlands Marine Corps|Korps Mariniers]]
 - [[Aceh Expedition (1873–1876)|Atjeh expedition (1873–1876)]]
 - [[Aceh Expedition (1873–1876)|Atjeh campaign (26 December 1875 – 4 September 1876)]]
+- [[Sagi der XXV Moekims]]
+- [[Sagi der XXII Moekims]]
+- [[Sagi der XXVI Moekims]]
+- [[IV en VI Moekims]]
+- [[V Moekims Montassik]]
+- [[III Moekims Daroe]]
+- [[III Moekims Kerkoen]]
+- [[VII Moekims Baid]]
+- [[XIII Moekims Toengkoeb]]
+- [[Lamkrak Moekims]]
+- [[buitenlinie]]
+- [[Geconcenteerde Linie]]
+- [[Biloel]]
+- [[Lamkoenjit]]
+- [[Lamsoet]]
+- [[Senelop]]
+- [[Tjot Rang]]
+- [[Kroeng Gloempang]]
+- [[Toengkoeb]]
+- [[Ana' Galong]]
+- [[Lam-Pisang]]
+- [[Lam-Asan]]
+- [[Tjot Tjako]]
+- [[Boekit Seboen]]
+- [[Glé Broeë]]
+- [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)]]
+- [[Three-day Dutch offensive of 23–25 May 1896]]
+- [[Tuchtiging of Lam-Krak Moekims (9–10 June 1896)]]
+- [[Tuchtiging der V Moekims Montassik (16–17 June 1896)]]
+- [[Bombardment of Lampisang]]
+- [[Teuku Umar]]
+- [[Luitenant-Generaal Vetter]]
+- [[J. W. Stemfoort]]
+- [[Joannes Benedictus van Heutsz]]
+- [[G. C. E. van Daalen]]
+- [[Regeeringscommissaris]]
+- [[Panglima Prang Besar]]
 
 ## Source
 
@@ -133,6 +190,8 @@ The *DLP-84-Atjeh* pamphlet records that the interior highland region of [[Groot
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pp. 471‑472.
 
 *DLP-84-Atjeh.pdf*, p. 8.
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 142, 219, 231, 267, 339, 344, 348.
 
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
 

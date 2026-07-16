@@ -1,7 +1,7 @@
 ---
 title: K. F. H. van Langen
-aliases: [Van Langen, K.F.H. van Langen, K. F. H. van Langen, Karel Ferdinand Hubert van Langen, C. F. H. van Langen, Van L.angen, student of Atjèhsche staatsbestuur]
-tags: [person, dutch, colonial-official, scholar, geographer, western-scholar, colonial, 19th-century]
+aliases: [Van Langen, K.F.H. van Langen, K. F. H. van Langen, Karel Ferdinand Hubert van Langen, C. F. H. van Langen, Van L.angen, student of Atjèhsche staatsbestuur, Resident van Langen]
+tags: [person, dutch, colonial-official, scholar, geographer, western-scholar, colonial, 19th-century, diplomacy]
 ---
 
 **K. F. H. van Langen** (full name **Karel Ferdinand Hubert van Langen**) was a Dutch colonial official, geographer, and scholar of Acehnese government whose principal work — *De inrichting van het Atjehsche Staatsbestuur onder het Sultanaat* ("The Organisation of the Acehnese Government under the Sultanate") — published in the *Bijdragen van het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië* for [[1888|1888]], and cited throughout [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *The Achehnese* simply as *Atjehsch Staatsbestuur* — was the standard printed authority on the political institutions of the sultanate of [[Acheh|Aceh]]. He was also the author of an Acehnese dictionary (*Woordenboek der Atjèhsche taal*, [[1889|1889]]), of a *Handleiding voor de beoefening der Atjèhsche taal* ([[1889|1889]]), of an article on [[Acheh's Westkust|Aceh's West Coast]] in the *Tijdschrift van het Koninklijk Nederlandsch Aardrijkskundig Genootschap* for [[1888|1888]], and of remarks on Acehnese music that Snouck Hurgronje held to "require correction and expansion". Kreemer, in turn, cites Van Langen frequently for information on coinage, weights, measures, and political institutions.
@@ -46,6 +46,22 @@ Van Langen authored the following works: *De inrichting van het Atjèhsche staat
 
 Van Langen published the *Adat Meukoeta Alam* (the adat-law edict attributed to [[Sultan Iskandar Moeda|Sultan Iskandar Moeda]]) from copies, providing the first printed version of this foundational Atjèhnese legal text. He also documented the *tjab sikoereuëng* (the ninefold seal of the Sultan of Atjèh) and provided important data on Atjèhnese coinage and metrology — data that Kreemer draws on for his own treatment of these subjects.
 
+## Account from Kruisheer's *ATJEH '96* (1913) — Resident voor Atjehsche zaken in the 1896 Crisis
+
+In Kruisheer's *ATJEH '96*, **K. F. H. van Langen** — Resident for Achehnese affairs and shipping regulations (*Resident voor Atjehsche zaken en de scheepvaartregeling*) — appears as the senior Dutch civil administrator who was "temporarily charged with civil affairs" after the dismissal of [[C. Deykerhoff|Gen.-Maj. Deykerhoff]] as *Civiel en Militair Gouverneur* on [[7 April]] [[1896]], and who was relieved of his temporary functions as *Civiel Bestuurder van het gewest* (Civil Administrator of the territory) on [[28 June]] [[1896]] when the office of *Civiel en Militair Gouvernur* was restored under (provisionally) [[J. W. Stemfoort|Kolonel Stemfoort]]. Van Langen's role in the spring of [[1896]] combined civil-administrative continuity — he held the first conference on the [[30 March 1896 Lamkrak operation|Lamkrak operation on 15 March 1896]], before the defection — with the diplomatic and inter-administrative responsibilities of a *Resident voor Atjehsche zaken* whose portfolio spanned both the Groot-Atjeh theatre and the broader Achehnese affairs of the colonial government.
+
+### Pre-Defecture: The 15 March 1896 Lamkrak Conference
+
+Van Langen's first appearance in *ATJEH '96* is as the convenor of the "first conference on the [[30 March 1896 Lamkrak operation|Lamkrak operation]]" on [[15 March]] [[1896]] — two weeks before [[Teuku Umar]]'s [[Defection of Teuku Umar (29 March 1896)|defection of 29 March]] [[1896]] and two weeks before the planned operation of [[30 March]] [[1896]] (which the defection would abort). The conference placed van Langen at the centre of the pre-defection operational planning, and his role as *Resident voor Atjehsche zaken* would have given him the diplomatic and administrative authority to coordinate the civil and military dimensions of the planned Lamkrak operation. The Lamkrak operation — planned by [[C. P. J. van Vliet|Lt.-Col. Van Vliet]] with 3 companies of the [[3e Bataljon]], the [[6e Bataljon]], [[12e Bataljon]] and [[14e Bataljon]], two sections of *bergartillerie* (mountain artillery), the *genietroepen* (engineers) and 4 brigades *maréchaussée* — was the most ambitious Dutch operation of the pre-defection period, and van Langen's conference of [[15 March]] [[1896]] was the civil-administrative preparation for it. The cancellation of the operation, on the eve of its execution, was the first Dutch operational consequence of Umar's defection, and van Langen's role as the conference convenor placed him at the centre of the institutional shock which the defection represented.
+
+### Temporary Civiel Bestuurder and the Vetter Mission
+
+Van Langen's "temporary charge of civil affairs" after the dismissal of Deykerhoff on [[7 April]] [[1896]] reflected the institutional arrangement under which the *Regeeringscommissaris* [[J. A. Vetter|Vetter]] held supreme authority (both civil and military) while the regular *Civiel en Militair Gouverneur* office was suspended. Van Langen, as *Resident voor Atjehsche zaken*, was the senior civil administrator available to take on the *Civiel Bestuurder van het gewest* responsibilities, and his temporary tenure spanned the period from [[7 April]] [[1896]] to [[28 June]] [[1896]] — that is, the entire duration of the Vetter mission. His responsibilities during this period would have included the coordination of the civil administration with the military operations, the management of the *controleurs* in the field (including [[Controleur Gisolf|Gisolf]], [[M. Neelmeijer|Neelmeijer]] and [[K. A. Vosmaer|Vosmaer]]), and the diplomatic relations with the cooperative Achehnese chiefs (including [[Toekoe Nja Banta]] of the [[XXVI Moekims]] and [[Panglima Bintang]] of the [[III Moekims Daroe]]). The relief of van Langen from his temporary functions on [[28 June]] [[1896]] — together with the abolition of the Regeeringscommissaris office and the restoration of the *Civiel en Militair Gouvernur* under Stemfoort — marked the institutional closure of the Vetter mission and the return to the regular colonial administrative structure.
+
+### Significance (per *ATJEH '96*)
+
+Van Langen's significance in *ATJEH '96* lies in his embodiment of the senior civil administrator whose responsibilities spanned the pre-defection operational planning (the [[15 March]] [[1896]] Lamkrak conference), the temporary *Civiel Bestuurder* role during the Vetter mission ([[7 April]]–[[28 June]] [[1896]]), and the institutional transition back to the regular *Civiel en Militair Gouvernur* structure on [[28 June]] [[1896]]. His role as *Resident voor Atjehsche zaken en de scheepvaartregeling* — a portfolio which combined Achehnese affairs with shipping regulations — placed him at the intersection of the civil, military, and maritime dimensions of the Dutch war effort, and his temporary *Civiel Bestuurder* tenure ensured the administrative continuity of the Groot-Atjeh civil administration through the crisis months of the spring and early summer of [[1896]].
+
 ## See Also
 
 - [[Acheh]]
@@ -88,6 +104,27 @@ Van Langen published the *Adat Meukoeta Alam* (the adat-law edict attributed to 
 - [[1889]]
 - [[1879]]
 - [[1900]]
+- [[Resident voor Atjehsche zaken]]
+- [[J. A. Vetter]]
+- [[J. W. Stemfoort]]
+- [[C. Deykerhoff]]
+- [[30 March 1896 Lamkrak operation]]
+- [[Departure of Vetter and Restoration of Civil and Military Governor (28 June 1896)]]
+- [[Civiel en Militair Gouverneur]]
+- [[C. P. J. van Vliet]]
+- [[3e Bataljon]]
+- [[6e Bataljon]]
+- [[12e Bataljon]]
+- [[14e Bataljon]]
+- [[Controleur Gisolf]]
+- [[M. Neelmeijer]]
+- [[K. A. Vosmaer]]
+- [[Toekoe Nja Banta]]
+- [[Panglima Bintang]]
+- [[III Moekims Daroe]]
+- [[Teuku Umar]]
+- [[Defection of Teuku Umar (29 March 1896)]]
+- [[1896]]
 
 ## Sources
 
@@ -98,3 +135,5 @@ Van Langen published the *Adat Meukoeta Alam* (the adat-law edict attributed to 
 "Atjeh's Westkust," by K. F. H. van Langen, in *Tijdschrift van het Koninklijk Nederlandsch Aardrijkskundig Genootschap*, [[1888|1888]], vol. II (2nd series, Vols. V–VI).
 
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956|1956]]), p. 104.
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 14, 20, 38, 48, 58, 333.

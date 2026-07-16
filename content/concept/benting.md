@@ -1,7 +1,7 @@
 ---
 title: Benting
-aliases: ["Benteng", "Benting", "system", "Sandbag", "benting", "Atjehese", "benting", "benteng", "Atjehnese fortification", "Atjehnese benting", "Atjehsche benting"]
-tags: [concept, fortification, acehnese, dutch, aceh-war]
+aliases: ["Benteng", "Benting", "system", "Sandbag", "benting", "Atjehese", "benting", "benteng", "Atjehnese fortification", "Atjehnese benting", "Atjehsche benting", "Koeta", "Kota", "Pagar", "Versterking"]
+tags: [concept, fortification, acehnese, dutch, aceh-war, military, achehnese]
 ---
 
 A **benting** (modern spelling *benteng*) is a field fortification of the type used throughout the [[Aceh War|Atjeh-oorlog]] by both the [[Achehnese|Atjehers]] and the Dutch, consisting typically of a sandbag breastwork thrown up around a captured strongpoint — a kampong, a mosque, a bend in a river — and fitted with a garrison, logies (quarters), and the auxiliary obstacles of [[bamboe-doerie|bamboe-doerie]] hedge and [[ranjoe|ranjoe]] planting. The benting was the basic unit of Dutch engineer practice in the Atjeh war, and the construction of bentings under fire is the principal subject of [[Cornelis Jacobus Snijders|Tweede-Luitenant C. J. Snijders]]'s Atjeh service of [[1874]]–[[1875]].
@@ -65,9 +65,44 @@ Other *bentings* of the late *concentratie* period include the *benting* of [[Ba
 - [[Geconcentreerde linie]]
 - [[Concentratie-stelsel (1884-1896)]]
 - [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[Blokhuis]]
+- [[Buitenlinie / Buitellinie]]
+- [[Mitrailleur]]
+- [[Dutch artillery pieces]]
+- [[Masdjid]]
+- [[Lam-Goet]]
+- [[Kroeng-Kali]]
+- [[Benting Batoe]]
+- [[Tuchtiging van Lam Goet (14 April 1896)]]
+- [[Tuchtiging of Lam-Krak Moekims (9–10 June 1896)]]
+- [[Ladoeng landing (22–23 June 1896)]]
+- [[Three-day Dutch offensive of 23–25 May 1896]]
+- [[1896]]
+
+## Account from Kruisheer's *ATJEH '96* — Bentengs of 1896
+
+*Benteng* (also the Dutch-Indies spelling *benting*) was the [[Achehnese]] term for a fortification, typically an earthen-walled square enclosure with bamboo-thorn fence and frequently a small swivel gun. The closely related *koeta* (also *kota*) denoted a fortified enclosure or fortified village, often the residence of an [[hoeloebalang]]. Kruisheer's *ATJEH '96* describes numerous bentengs and koetas: *Perampoean*, the fortification at [[Lam-Goet|Lam Goet]] (stormed on [[14 April]] [[1896]]), the fortification at [[Kroeng-Kali]] (stormed on [[17 June]] and again on [[23 June]] [[1896]] by *compagnie Linck*), the fortification at [[Ateuh Raja]], and the stockade (*pagar*) of various heads. The benteng was the basic unit of Achehnese defensive architecture and the principal obstacle to Dutch infantry assaults in the [[Aceh War|Atjeh-oorlog]].
+
+### Etymology and Meaning
+
+The word *benteng* is a Malay-Indonesian loanword (itself probably from Portuguese *bentinho* (fortification) or Hindi *benti*), denoting a fortification. The Dutch-Indies spelling *benting* reflects the typical colonial phonological reduction of the final velar nasal. *Kota* / *koeta* is Acehnese for "fortified enclosure" or "walled settlement" — a sense preserved in place-names like "Kota Radja" (Royal Fort), the colonial capital and the stockade of various *hoofden* (chiefs). Dutch *versterking* (fortification) is the generic Dutch term covering both. The *pagar* (fence) — often bamboo-thorn hedge or aloe hedge — was the outer obstacle, followed by earthen walls (*wallen*) and frequently a trench (*gracht*) and a sentry-box.
+
+### Historical Context of 1896
+
+In the first semester of [[1896]] the benteng was the principal Achehnese defensive work encountered by the Dutch. [[Teuku Umar]]'s defensive position at [[Lam-Pisang]] was a complex of bentengs and *loopgraven* (trenches) that absorbed the Dutch [[Three-day Dutch offensive of 23–25 May 1896|three-day offensive of 23–25 May 1896]] and a preceding 7996-projectile bombardment. The fortification at [[Lam-Goet]] was the target of the [[Tuchtiging van Lam Goet (14 April 1896)|tuchtiging of 14 April 1896]] under [[Joannes Benedictus van Heutsz|Van Heutsz]]. The fortification at [[Kroeng-Kali]] was stormed by *compagnie Linck* on [[17 June]] [[1896]] during the [[Tuchtiging of Lam-Krak Moekims (9–10 June 1896)|tuchtiging of the Lam-Krak Moekims]] and again on [[23 June]] [[1896]] during the [[Ladoeng landing (22–23 June 1896)|Ladoeng landing]]. The fortification at [[Ateuh Raja]] and the stockade of various *hoofden* were characteristic Achehnese defensive positions, with walls up to 3 m thick and 1.5 m high, demolished by Dutch explosives. *Perampoean* was the target of the [[28 April]]–[[29 April]] [[1896]] night surprise by Lt. Neelmeijer's *marechaussée*.
+
+### Examples in the Source
+
+Kruisheer describes the benteng in technical detail. The fortification at *Belang* is described as 18 × 18 m, with *wallen* 2 m × 1.5 m and two *bamboe-doeri paggers*. The fortification at [[Lam-Goet]] was stormed and razed on [[14 April]] [[1896]]. The fortification at [[Kroeng-Kali]] was stormed twice — on [[17 June]] by the 9th Battalion (*9e Bataljon*) and on [[23 June]] [[1896]] by *compagnie Linck* during the [[Ladoeng landing (22–23 June 1896)|Ladoeng landing]]. The stockade with walls 3 m thick and 1.5 m high was breached by *springmiddelen* (explosives) on p. 241 — "the Noorder and Oosterface over a length of 12 to 15 m open". The fortification at [[Ateuh Raja]] and the stockade of the *moekimhoofd* are referenced as fortified Achehnese positions. *Perampoean* is the target of the [[28 April]]–[[29 April]] [[1896]] night attack. The stockade at *Lam-Poe-Poe* and *Koeta Binasa Baroe* are named. The fortified mosque was a further specialised form. A small swivel gun (*lila*) appears at [[Lam Tengah]] fortification and at [[Kroeng-Kali]] fortification.
+
+### Significance of the Benteng in 1896
+
+The benteng and the koeta are the material expression of Achehnese defensive architecture and the principal tactical obstacle to Dutch operations in [[Aceh]]. Their earthen walls and *bamboe-doeri paggers* could absorb artillery fire (the 7996-projectile bombardment of [[Lampisang]] produced "zeer gering" (very slight) results), and their siting in rice paddy and *nipah-bosch* (nipah palm grove) terrain made Dutch infantry assaults costly. The Dutch response — storm assault by infantry and explosives for demolition — was developed specifically to overcome the benteng. The systematic catalogue of bentengs, koetas and versterkingen in Kruisheer's text reflects the central tactical problem of the war: how to take a fortified Achehnese position at acceptable cost.
 
 ## Source
 
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 31–34 (De Strijd om Kaloet — Eene herinnering uit den Atjeh-oorlog).
 
 D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), pp. 25–27 (Benting Kota Alam), pp. 28–32 (Missigit Longbatta, with footnote on ranjoes), pp. 32–33 (Pungej Blang Tjoet, Mandarsah Poetih, Lamara Olejlo). Koninklijke Bibliotheek shelfmark 0301 4872.
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 71, 87, 102, 104–105, 111, 144, 220, 241, 244, 316, 322.

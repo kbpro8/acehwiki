@@ -1,7 +1,7 @@
 ---
 title: C. Snouck Hurgronje
 aliases: [Christiaan Snouck Hurgronje, Dr. C. Snouck Hurgronje, Dr. Snouck Hurgronje, Snouck Hurgronje, Snouch Hurgronje, Snouck, Dr. Snouck, Prof. Dr. C. Snouck Hurgronje, the advisor on Atjeh affairs, de rijksadviseur, Sn. H., Prof. Snouck Hurgronje, C. Snouck Hurgronje (Kreemer's account, Deel II)]
-tags: [person, scholar, dutch, orientalist, author, colonial-official, advisor, islamologist, colonial, aceh, buitenbezittingen, achehnese-history, 19th-century, 20th-century]
+tags: [person, scholar, dutch, orientalist, author, colonial-official, advisor, islamologist, colonial, aceh, buitenbezittingen, achehnese-history, 19th-century, 20th-century, religious, diplomacy]
 description: "Prof. Dr. C. Snouck Hurgronje (1857-1936), the world-renowned Dutch scholar of Islam and Muslim law, was sent to the Dutch East Indies in 1889 as Government Advisor and provided services of inestimable value to the colonial government, particularly regarding Atjeh. His works include 'Mekka' and 'De Atjehers'."
 ---
 
@@ -121,9 +121,35 @@ Kreemer notes that *Het Gajöland en zijne bewoners* — Snouck Hurgronje's 1903
 
 Kreemer also records the legend **"De blauwe Prinses in het Gajömeer"** (*Pëtëri Idjö* — "the Green/Blue Princess"), preserved in Het Gajöland, which he regards as one of the most charming products of Snouck Hurgronje's fieldwork with Atjèhnese informants.
 
+## Account from Kruisheer's *ATJEH '96* (1913) — Snouck as the Architect of the Bindingspolitiek
+
+In Kruisheer's *ATJEH '96* (1913), Snouck Hurgronje is identified as the famous Dutch scholar of Islam whose advice shaped Dutch colonial policy toward [[Aceh]] throughout the [[Aceh War|Atjeh-oorlog]] — "*a key influence on Dutch colonial policy toward Aceh*". Kruisheer's explicit references to Snouck Hurgronje are brief but pointed: he is mentioned as "*the famous Dutch scholar of Islam/Aceh*" who "*wrote an important preface in A. W. S. O'Sullivan's translation of* De Atjehers*" (the Achehnese), and he is identified as a Dutch scholar of Islam/Aceh whose advice shaped the colonial conduct of the war. His intellectual authority over the colonial administration's understanding of Achehnese society — and particularly of its religious institutions, the *oelama* (religious scholars), the *Habib* network (descendants of the Prophet), and the *sabil Allah* (path of God / holy war) ideology — provided the framework within which the Dutch *bindingspolitiek* (policy of binding chiefs) with [[Teuku Umar]] had been conducted and within which the post-defection counter-offensive of [[1896]] would be interpreted.
+
+### The *De Atjehers* Preface and the O'Sullivan Translation
+
+Snouck Hurgronje's scholarly authority over Dutch colonial Islam policy was built on a substantial body of ethnographic and philological work on the Achehnese and on the broader Muslim societies of the Dutch East Indies. His preface to A. W. S. O'Sullivan's translation of *De Atjehers* — the Dutch-language ethnographic study of the Achehnese — placed his institutional authority behind the work and confirmed its status as the standard scholarly reference for the colonial administration. Kruisheer's reference to "A. W. S. O'Sullivan's translation of *De Atjehers*" — with the errata noted that the OCR has "O'Sullwan's" for "O'Sullivan's" — confirms that the translation was in circulation by [[1913]] and that Snouck Hurgronje's preface was an important scholarly intervention. The *De Atjehers* translation would have provided the institutional context within which colonial officers operating in Aceh — including the *controleurs* [[Controleur Gisolf|Gisolf]], [[M. Neelmeijer|Neelmeijer]] and [[K. A. Vosmaer|Vosmaer]] — understood the religious and political institutions which they encountered in the field. The preface would have addressed, among other things, the *oelama* network (which produced [[Teungkoe Koeta Karang]] and [[Teungkoe Tanah Abée]]), the *Habib* network (which produced [[Habib Lhong]], [[Habib Samalanga]], [[Habib Koeala van Pedir]] and [[Habib Lengkong]]), and the *sabil Allah* ideology which underwrote the resistance.
+
+### Snouckian Framework and the Failed Umar Experiment
+
+Kruisheer's identification of Snouck Hurgronje as a "*key influence on Dutch colonial policy toward Aceh*" is, despite its brevity, one of the most consequential characterisations in *ATJEH '96*. Snouck Hurgronje's policy advice — which emphasised the distinction between the *oelama*-led religious resistance and the *hoeloebalang*-led political-territorial resistance, and which advocated the systematic cooptation of the latter and the suppression of the former — provided the intellectual framework within which the Dutch *bindingspolitiek* with [[Teuku Umar]] had been conducted. The Umar experiment — which had appointed a *hoeloebalang* (territorial chief) as *Panglima Prang Besar* (war commander-in-chief) and armed his legion against the *oelama*-backed Lamkrak mukims — was, in this sense, a Snouckian policy: it sought to use the *hoeloebalang* class to suppress the *oelama*-led resistance, and it relied on the assumption that the *hoeloebalang*'s territorial-political interests could be aligned with the Dutch colonial interest. The catastrophic failure of this policy with Umar's [[Defection of Teuku Umar (29 March 1896)|defection of 29 March]] [[1896]] — a failure which Kruisheer attributes in part to [[C. Deykerhoff|Deykerhoff]]'s "*optimistic views about T. Djohan*" — was therefore also a failure of the Snouckian framework, and the post-defection counter-offensive of spring and summer [[1896]] represented a partial adjustment of that framework. The continued reliance on *maréchaussée*-led operations, the systematic *tuchtigingen* (punitive expeditions) against *oelama*-backed regions, and the disarmament of *buitenlinie* (outer-line) chiefs in mid-June [[1896]] all reflected the continuing influence of Snouck Hurgronje's analysis, even as the specific Umar experiment was abandoned.
+
 ## See Also
 
+- [[A. W. S. O'Sullivan translation of De Atjehers]]
 - [[A. S. O'Sullivan]]
+- [[Teungkoe Koeta Karang]]
+- [[Teungkoe Tanah Abée]]
+- [[Habib Lhong]]
+- [[Habib Samalanga]]
+- [[Habib Koeala van Pedir]]
+- [[Habib Lengkong]]
+- [[Teuku Umar]]
+- [[C. Deykerhoff]]
+- [[Panglima Prang Besar]]
+- [[Defection of Teuku Umar (29 March 1896)]]
+- [[Controleur Gisolf]]
+- [[M. Neelmeijer]]
+- [[K. A. Vosmaer]]
 - [[R. J. Wilkinson]]
 - [[K. F. H. Van Langen]]
 - [[T. H. der Kinderen]]
@@ -244,3 +270,7 @@ In the same *Verslag* Snouck had argued that Atjeh could only be subdued *door e
 Snouck also edited, in his *rapport van 1892*, the *vlugschriften* (pamphlets) of the Acehnese *oelama* [[Tengkoe Koetakarang]] under the title *[[Tadkirat arrakidin]]* — *Vermaning der stilzittenden* (Exhortation of the sit-stillers) — bringing Koetakarang's harsh verdict on Dutch bad faith (the banishment of *generaal éénoog* [[Van der Heyden]]) before the Dutch reading public.
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+## Source (Kruisheer's *ATJEH '96*)
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 19, 24, 439.

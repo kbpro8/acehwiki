@@ -161,6 +161,14 @@ Kreemer records that Panglima Pölém was the patron of the **Lam Sië school** 
 
 An entry for "Panglima Polim" appears on page [[116]] of *De geschiedenis van het Nederlandsche Korps Mariniers van 1665–1945* (pages [[485]]–[[488]]). Its inclusion among Dutch marine corps entries underscores his prominence in the resistance against Dutch incursions into [[Aceh]] and reflects the impact of Acehnese leaders on Dutch military planning.
 
+## The *landschap* Polém — the pretender sultan's destination of late May 1896
+
+As described in [[A. Kruisheer|Kruisheer]]'s *ATJEH '96*, the name *Polém* — beyond its use as the personal title of the *sagihoofd* of the [[XXII Moekims|XXII Moekims]] — also designated an inland *landschap* (district) of [[Groot-Atjeh]] to which the [[Pretender Sultan|pretender sultan]] was said to have arrived and gone in late [[May]] [[1896]], following the move of [[Toeankoe Machmoed]] and [[Toeankoe Brahim]] to [[Ana' Galong|Anao-Galong]]. The *landschap* of Polém was one of the inland districts of the [[sultanate of Atjeh]] that lay outside the immediate zone of Dutch operations, presumably under the authority of an Achehnese [[hoeloebalang|ulèëbalang]] prepared to receive the pretender sultan.
+
+The exact boundaries of Polém are not detailed in *ATJEH '96*, but its mention as the destination of the [[Pretender Sultan|pretender sultan]]'s journey in late [[May]] [[1896]] — following the move of [[Toeankoe Machmoed]] and [[Toeankoe Brahim]] to [[Ana' Galong|Anao-Galong]] — suggests that it lay in the direction of the inland mukims of the [[Sagi der XXII Moekims|XXII Moekims]] or the [[Sagi der XXVI Moekims|XXVI Moekims]]. After the [[Defection of Teuku Umar (29 March 1896)|defection of 29 March 1896]] and the [[Three-day Dutch offensive of 23–25 May 1896|three-day Dutch offensive of 23–25 May 1896]], the [[Pretender Sultan|pretender sultan]] moved through the inland mukims of [[Groot-Atjeh]] in an attempt to reconstitute Achehnese political authority. [[Toeankoe Machmoed]] and [[Toeankoe Brahim]] settled at [[Ana' Galong|Anao-Galong]] in late [[May]] [[1896]] after crossing the [[VII Moekims Baid]], and the [[Pretender Sultan|pretender sultan]] was said to have arrived at and gone to Polém following their move. The pretender sultan had been resident at [[Pedir]] on the [[Westkust|west coast]] before his re-emergence in [[Groot-Atjeh]] in [[1896]], and [[Habib Lhong]] had restored the [[Pretender Sultan|pretender sultan]] to his old residence at [[Keumala]] before [[Habib Lhong]]'s death at [[Senelop]] on [[19 April]] [[1896]].
+
+The mention of the *landschap* Polém as a destination of the pretender sultan is brief in *ATJEH '96*, but it indicates the continued vitality of the Achehnese political imagination in the inland districts associated with the Polém house, despite the Dutch military successes of the first semester of [[1896]]. The *landschap* was presumably part of the broader Achehnese inland that remained outside effective Dutch control.
+
 ## Legacy
 
 The Panglima Polem title and lineage epitomise the hereditary military aristocracy of Acheh — the *panglima sagi* institution that mediated between sultan and *uleebalangs* and that produced, across three centuries, statesmen, war-commanders, and finally the principal Dutch political anchor of the late colonial period. The Panglima Polim of 1819, who held the balance of power in the succession dispute and treated the [[Raffles-Coombs Acheh Commission (1819)|Raffles–Coombs Commission]] with undisguised contempt, set the type; the Panglima Polim of 1875–1879, driven from [[Gleiêng|Gléiëng]] and into the Pedir upper lands, embodies the first phase of the *prang Gompeuni* — the war of the sultan, the *uleebalangs*, and the irregular chiefs. The Moehamad Daoed–Moehamad Ali succession carries the lineage through the high Aceh War and the surrender of [[1903]] to the political-religious agitation of the colonial period; the last Panglima Polem's death in [[1941]] closes the line. The career of the lineage illustrates the complexity of Acehnese resistance, navigating between open opposition and strategic accommodation to colonial powers, and contrasts with the later religious leaders (*teungkus* and *ulamas*) who, after the [[Dutch Concentration Scheme|concentration scheme]], became the principal organisers of resistance. Kreemer's record of the seven Pöléms from Teukoe Moeda Sa'ti onwards adds, to this picture, the genealogical and kinship depth that the Snouck-Piekaar-Dames tradition does not preserve in the same continuous form.
@@ -250,6 +258,16 @@ The Panglima Polem title and lineage epitomise the hereditary military aristocra
 - [[Kawom]]
 - [[kawom-dja-sandang]]
 - [[J. Kreemer]]
+- [[Pretender Sultan]]
+- [[Toeankoe Machmoed]]
+- [[Toeankoe Brahim]]
+- [[Habib Lhong]]
+- [[Keumala]]
+- [[Pedir]]
+- [[Ana' Galong]]
+- [[VII Moekims Baid]]
+- [[Defection of Teuku Umar (29 March 1896)]]
+- [[Three-day Dutch offensive of 23–25 May 1896]]
 - [[1855]]
 - [[1875]]
 - [[1879]]
@@ -282,3 +300,5 @@ The Panglima Polem title and lineage epitomise the hereditary military aristocra
 *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 113, 119–120, 127.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 219, 624.

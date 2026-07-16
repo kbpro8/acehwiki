@@ -1,10 +1,12 @@
 ---
 title: Toeankoe Machmoed
 aliases: ["Tuanku Mahmud", "Toean Koemachmoed", "Sultan Machmoed", "the young Sultan under Habib's regency", "Tuanku Mahmud of Atjeh"]
-tags: [person, sultan, achehnese, kraton, pre-1873, aceh, 19th-century, regency]
+tags: [person, sultan, achehnese, kraton, pre-1873, aceh, 19th-century, regency, sultanate, succession]
 ---
 
 **Toeankoe Machmoed** — *Tuanku Mahmud* — was the young Sultan of [[Atjeh]] in the years immediately preceding the Dutch attack of [[1873]], installed on the throne under the regency of [[Habib Abdurrahman Zahir|Habib Abdoe'r Rachman]] after the death of Sultan [[Sultan Saleiman Iskander|Saleiman Iskander]] in [[1837]]. He is named in the [[Atjeh-Album (Eigen Haard, 1896)|Atjeh-Album of 1896]] as the prince whom the Habib rescued from the custody of [[Toekoe Moeda Baid]] — *oeloebalang* of the [[VII Moekims]] — and for whom the Habib acted as *regent* during his minority.
+
+In Kruisheer's *ATJEH '96*, the dynastic name *Toeankoe Machmoed* is borne by a later figure (likely a successor in the same kinship line) who, together with his guardian [[Toeankoe Brahim]], "went with many followers over the [[VII Moekims Baid]] to [[Groot-Atjeh]], settling at [[Anao-Galong]]" in late May [[1896]], in a movement which brought the [[Pretender Sultan|pretender Sultan's]] entourage into the principal theatre of operations of the [[Aceh War|Atjeh-oorlog]]. The chronological range — from the [[1837]] succession crisis to the [[1896]] Groot-Atjeh movement — spans nearly sixty years, which is impossible for a single career; the most economical hypothesis is that the title was held successively by members of the same kinship line, with the [[1896]] bearer inheriting both the dynastic name and the political-symbolic capital of the line.
 
 ## Background and installation
 
@@ -24,9 +26,25 @@ The album records that [[C. Snouck Hurgronje|Snouck Hurgronje]] — the album's 
 
 The [[Atjeh-Album (Eigen Haard, 1896)|Atjeh-Album]] records that the later Atjehnese resistance leaders — including [[Teungku di Tiro]] — recognised a successor Sultan at [[Kemala]], and that the *last brief* of this Sultan was the document by which Teungku di Tiro claimed authority to regulate the affairs of religion in [[Groot-Atjeh]]. The album does not name this Sultan, but the reference places the Kemala sultanate as the political successor to the line of [[Toeankoe Machmoed]] in the resistance period.
 
+## Account from Kruisheer's *ATJEH '96* (1913) — Toeankoe Machmoed in the Spring of 1896
+
+In Kruisheer's *ATJEH '96*, the name *Toeankoe Machmoed* is borne by a dynastic figure who appears as part of the pretender Sultan's circle in late May [[1896]]. Kruisheer records — via the written intelligence report of the *hoeloebalang* of the VII Moekims Baid, [[Toekoe Moeda Baid]] — that Toeankoe Machmoed and his guardian [[Toeankoe Brahim]] "went with many followers over the [[VII Moekims Baid]] to Groot-Atjeh, settling at [[Anao-Galong]]" in late May [[1896]], in a movement which brought the [[Pretender Sultan|pretender Sultan's]] entourage into the principal theatre of operations of the [[Aceh War|Atjeh-oorlog]]. His movement is the more concrete of the two — Kruisheer records the route (over the VII Moekims Baid), the destination (Anao-Galong) and the scale (many followers) — and it represents the actual physical transfer of the dynastic party from [[Pedir]] to [[Groot-Atjeh]]. The choice of [[Anao-Galong]] as the settlement location is symbolically and strategically significant: it was the former Dutch *benteng* (fort) and former religious seat of [[Teungkoe di Tiro]], and its occupation by the pretender Sultan's entourage represented the symbolic reclamation of the religious-political centre of the [[XXII Moekims]].
+
+### The Movement over the VII Moekims Baid
+
+The [[VII Moekims Baid]] formed the western *landschap* of Groot-Atjeh and contained the [[Lamkrak]], [[Kroeng Mak]], [[Loetoe]] and [[Lam-Lheue|Lam Lheue]] mukims. The overland route from [[Pedir]] to Groot-Atjeh via the VII Moekims Baid was the standard corridor for movements between the north coast and the Groot-Atjeh theatre, and the *hoeloebalang* of the VII Moekims Baid, [[Toekoe Moeda Baid]], was himself a figure of ambiguous loyalty who was "initially neutral... later conferred with Oemar". The movement of Machmoed and Brahim through the VII Moekims Baid with "many followers" — Kruisheer does not specify the number, but the phrase implies a significant party — would have required the cooperation or at least the acquiescence of Toekoe Moeda Baid, and Toekoe Moeda Baid's subsequent written report to the colonial government of the movement indicates that he chose to inform the Dutch rather than to obstruct it. The choice of route also reflects the broader pattern of Achehnese military movements in the spring of [[1896]], in which the VII Moekims Baid served as a corridor for forces moving between the Pedir network and the Groot-Atjeh theatre.
+
+### Settlement at Anao-Galong
+
+[[Anao-Galong]] — also written [[Anao-Galong|Anak Galoeng, Anas Galoeng, Ana Galong, Ana' Galong]] — was, in Kruisheer's account, the post which the Achehnese "considered as the heart of Great Aceh". It had been the former main residence of [[Teungkoe di Tiro]] (who "also died there"), it had been conquered by [[Teuku Umar]]'s legion on [[30 November]] [[1893]], and it had been a Dutch *buitenpost* (outer post) garrisoned by a captain, three lieutenants and 120 bayonets of the [[15e Bataljon]] through the first semester of [[1896]]. The settlement of the pretender Sultan's entourage at Anao-Galong — which the text describes as occurring "in late May 1896" — therefore represented the reclamation of the religious-political centre of the XXII Moekims by the dynastic party. The choice of Anao-Galong also suggests a coordinated strategy between the pretender Sultan's circle and the broader Achehnese coalition: [[Teuku Umar]] had himself operated in the western IV/VI Moekims through the spring of [[1896]], and the arrival of the dynastic party at Anao-Galong (in the XXII Moekims) created a two-theatre Achehnese presence which the Dutch were forced to address simultaneously. The Dutch response — the [[Tuchtiging der V Moekims Montassik (16–17 June 1896)|tuchtiging of V Moekims Montassik on 16–17 June 1896]] and the [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)|Ladoeng landing of 22–23 June 1896]] — was directed at the southern and eastern sectors respectively, and the pretender Sultan himself fled from [[Panteh-Karang]] on [[16 June]] [[1896]], but the Anao-Galong settlement nonetheless represented the high-water mark of the dynastic party's presence in the Groot-Atjeh theatre.
+
+### Significance (per *ATJEH '96*)
+
+Toeankoe Machmoed's significance in *ATJEH '96* lies in his embodiment of the actual physical transfer of the dynastic party from Pedir to Groot-Atjeh — a transfer which brought the [[Pretender Sultan|pretender Sultan's]] circle into the principal theatre of operations of the spring [[1896]] campaign. The choice of Anao-Galong as the settlement location is the most symbolically charged detail in this movement, because it represented the reclamation of the religious-political centre of the XXII Moekims by the dynastic party and the temporary restoration of the religious-dynastic authority which the Dutch conquest of [[30 November]] [[1893]] had displaced.
+
 ## Significance
 
-Toeankoe Machmoed's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]] is as the last Sultan of [[Atjeh]] recognised by the Dutch before the [[1873]] expedition, and as the prince whose regency by [[Habib Abdurrahman Zahir|Habib Abdoe'r Rachman]] marked the high-water mark of centralised authority in the late sultanate. His death in [[1873]] — coincident with the Dutch attack — closed the regency and opened the period of Dutch-*oeloebalang* and Dutch-*ulama* conflict that would continue until the final conquest of [[Groot-Atjeh]] in [[1904]].
+Toeankoe Machmoed's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]] is as the last Sultan of [[Atjeh]] recognised by the Dutch before the [[1873]] expedition, and as the prince whose regency by [[Habib Abdurrahman Zahir|Habib Abdoe'r Rachman]] marked the high-water mark of centralised authority in the late sultanate. His death in [[1873]] — coincident with the Dutch attack — closed the regency and opened the period of Dutch-*oeloebalang* and Dutch-*ulama* conflict that would continue until the final conquest of [[Groot-Atjeh]] in [[1904]]. The later bearer of the dynastic name in [[1896]] — recorded by Kruisheer as one of the pretender Sultan's circle at Anao-Galong — illustrates the persistence of the dynastic principle in the Achehnese resistance, even after the formal abolition of the sultanate.
 
 ## See Also
 
@@ -46,7 +64,28 @@ Toeankoe Machmoed's significance in the documentary record of the [[Aceh War|Atj
 - [[1837]]
 - [[1873]]
 - [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[Pretender Sultan]]
+- [[Toeankoe Brahim]]
+- [[Anao-Galong]]
+- [[VII Moekims Baid]]
+- [[Pedir]]
+- [[Lamkrak]]
+- [[Kroeng Mak]]
+- [[Loetoe]]
+- [[Lam-Lheue]]
+- [[Teuku Umar]]
+- [[Defection of Teuku Umar (29 March 1896)]]
+- [[15e Bataljon]]
+- [[Panteh-Karang]]
+- [[Tuchtiging der V Moekims Montassik (16–17 June 1896)]]
+- [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)]]
+- [[Aceh Sultanate]]
+- [[1893]]
+- [[1896]]
+- [[1904]]
 
 ## Source
 
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 14–15 (De Geestelijkheid in Atjeh — Habib Abdoe'r Rachman).
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, p. 297.

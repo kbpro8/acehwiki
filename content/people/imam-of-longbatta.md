@@ -1,8 +1,8 @@
 ---
 
 title: Imam of Longbatta
-aliases: ["Imam", "Longbatta", "Imam", "Longbattah", "Imam", "of", "Longbattah", "the", "Imam", "of", "Longbatta", "Imeum", "of", "Lueng", "Bata", "Imeum", "Lueng", "Bata", "Imeum", "Longbatta", "Iman", "Longbatta", "Iman", "of", "Longbatta", "Toekoe Imam Longbattah", "Toekoe Imam Longbatta", "Teungku Imam Longbattah", "the Imam of Longbatta"]
-tags: [person, imam, religious-leader, acehnese, aceh-war, military-leader, uleebalang]
+aliases: ["Imam", "Longbatta", "Imam", "Longbattah", "Imam", "of", "Longbattah", "the", "Imam", "of", "Longbatta", "Imeum", "of", "Lueng", "Bata", "Imeum", "Lueng", "Bata", "Imeum", "Longbatta", "Iman", "Longbatta", "Iman", "of", "Longbatta", "Toekoe Imam Longbattah", "Toekoe Imam Longbatta", "Teungku Imam Longbattah", "the Imam of Longbatta", "Iman", "Imam van Daroe", "Imam van Lam-Koenjit", "Imam Lam-Rebo", "Imam of Siem", "Imam of Lamara"]
+tags: [person, imam, religious-leader, acehnese, aceh-war, military-leader, uleebalang, concept, religious, sultanate]
 ---
 
 **Imam of Longbatta** — also written Imam Longbatta, Iman Longbatta, or, after the alternate spelling of the place, Imam Longbattah — was the hereditary *imeum* (religious chief) of the *mukim* of [[Lueng Bata|Lueng Bata]] (also written Longbatta) near the [[Kraton of Aceh|Kraton]] of [[Acheh|Acheh]], and one of the principal Acehnese military and religious leaders of the first phase of the [[Aceh War|Atjeh-oorlog]]. Named together with [[Panglima Polem|Panglima Polem]] and [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the influential chiefs who led the war-party — and identified by [[J. L. J. H. Pel|Kolonel PEL]] as "een van de voornaamste verzetslieden," one of the principal resistance leaders — he is remembered in the [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]] as the leader who, after the conquest of the [[XXVI Moekims|XXVI Moekims]] in [[1879]], "sheathed his sword and withdrew from public life."
@@ -93,6 +93,26 @@ The [[Atjeh-Album (Eigen Haard, 1896)|Atjeh-Album of 1896]] records that, before
 
 This pre-war advisory role places the Imam of Longbatta — together with [[Toekoe Kadli|Toekoe Kadli]] and [[Toekoe Noq van Marassa|Toekoe Noq van Marassa]] — among the three senior chiefs whose consent was required for the Sultan's diplomatic initiatives. The council of three is, in the album's reading, the principal advisory body of the late sultanate, and the Imam's place on it reflects the seniority of his religious office.
 
+## Account from Kruisheer's *ATJEH '96* — the *Imam* as an office in 1896
+
+**Imam** — also spelled *iman* in Kruisheer's *ATJEH '96* — was the [[Achehnese]] office of Islamic prayer leader and community religious head of a single [[moekim]] or [[kampong]]. The imam stood at the base of the religious hierarchy, below the [[oelama]] and the [[teungkoe]]: he was the parish priest of the mosque community, leading the daily prayers, teaching the Quran to children, and acting as the religious notary of births, marriages and deaths. In the conditions of the [[Aceh War|Atjeh-oorlog]] the imam also functioned as a local mediator between his community and the [[Dutch]] colonial government. Kruisheer names several imams in addition to the [[Imam of Longbatta]]: the *Imam van Daroe* (friendly to the Dutch); the *Imam van Lam-Koenjit* who had the fort *Paja Krah*; *Imam Lam-Rebo*; the *Tockoe Imam Siem*; and the *Imam of Lamara* (father-in-law of [[Panglima Bintang]]).
+
+### Etymology and Meaning of the Imam office
+
+The word إمام is Arabic for "leader", "model", or "prayer leader". In Sunni usage — and in the [[Aceh Sultanate|Acehnese]] context — the imam is the man who leads the congregational prayer and acts as the religious head of his community. The office is not hereditary; an imam is chosen by the community for his learning, piety and respect. In Acehnese institutional geography each *moekim* had its imam, attached to the [[masdjid]] (mosque) that gave the moekim its name. The imam is distinguished from the *oelama* by the local, parish-level scope of his authority and from the *teungkoe* by the absence of a learned-honorific dimension. Many imams combined religious office with secular authority: the *Imam of Lamara* was father-in-law of the powerful [[Panglima Bintang]] of the [[III Moekims Daroe]].
+
+### Historical Context of Imams in 1896
+
+In the first semester of [[1896]] imams were the local level at which the [[Dutch]] attempted to broker pacification. Kruisheer records an imam of [[Djempit]] who, before [[18 May]] [[1896]], sent a request to the Dutch to cease firing on his moekim. The *Toekoe Neg. Imam of IX Moekims* wrote to the *bestuur* (administration) on [[6 May]] [[1896]] with professions of goodwill — professions the Dutch answered by demanding the *inlevering* (return) of *geweren* (rifles) and *ammunitie* (ammunition) and the cessation of hostile fire. The Imam of [[Daroe]] was friendly to the Dutch; the Imam of Lam-Koenjit maintained a fort (*Paja Krah*) in his moekim. The imam of the [[IX Moekims]] was a recognised interlocutor of the Government, capable of corresponding on behalf of his moekim. The office was thus a double one: religious head of the community and secular negotiator with the colonial power.
+
+### Examples in the Source
+
+Kruisheer's named imams include: the *Imam van Daroe* — friendly to the Dutch, mentioned in connection with the [[III Moekims Daroe]]. The *Imam van Lam-Koenjit* — who had a fort *Paja Krah*, mentioned in the context of the [[Siege of Lamkoenjit (29 March–8 April 1896)|siege of Lamkoenjit]] and the [[4 April]] [[1896]] night attack. *Imam Lam-Rebo* — named among the religious heads of the [[XXVI Moekims|sagi XXVI]]. The *Tockoe Imam Siem* — named for [[Siem]]. The *Imam of Lamara* — father-in-law of [[Panglima Bintang]]. The *Toekoe Neg. Imam of IX Moekims* — author of the letter of [[6 May]] [[1896]] to the *bestuur*. The *Imam van Djempit* — author of the *versoek* (request) before [[18 May]] [[1896]] to cease firing.
+
+### Significance of the Imam as an institution
+
+The imam was the indispensable lowest level of religious-administrative mediation in the [[Aceh War]]. Because each moekim had its imam, and because each imam could speak (or refuse to speak) for his moekim, the war could be bargained at a much finer grain than the level of the [[hoeloebalang]] or [[sagi]]. The Dutch strategy of corresponding with individual imams — accepting their professions of goodwill, demanding *inlevering* of weapons — was an attempt to chip away at the resistance moekim by moekim. The unreliability of the resulting agreements (T. Tjoet Lamtengah's *betuiging* (declaration) of goodwill proved *onwaar* (false) on [[21 May]] [[1896]]) reflects the limits of the strategy: an imam's profession did not bind his hoeloebalang, his panglima or his teungkoe.
+
 ## See Also (additional)
 
 - [[Toeankoe Machmoed]]
@@ -102,6 +122,21 @@ This pre-war advisory role places the Imam of Longbatta — together with [[Toek
 - [[Batavia]]
 - [[Groot-Atjeh]]
 - [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[Oelama]]
+- [[Teungkoe / Toekoe / Tengkoe (honorific)]]
+- [[Ketjihik]]
+- [[Hoeloebalang]]
+- [[Moekim / Mukim]]
+- [[Masdjid]]
+- [[Panglima Bintang]]
+- [[Imam van Daroe]]
+- [[Imam van Lam-Koenjit]]
+- [[Siege of Lamkoenjit (29 March–8 April 1896)]]
+- [[III Moekims Daroe]]
+- [[IX Moekims]]
+- [[XXVI Moekims]]
+- [[Djempit]]
+- [[1896]]
 
 ## Sources
 
@@ -112,6 +147,8 @@ This pre-war advisory role places the Imam of Longbatta — together with [[Toek
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, [[1906]].
 
 D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), p. 28. Koninklijke Bibliotheek shelfmark 0301 4872. The biography identifies the imam as "een van de voornaamste verzetslieden" on the authority of [[J. L. J. H. Pel|Kolonel Pel]]'s note of [[30 April]] [[30 April]] [[1875]], and records the [[Missigit Longbatta operation (31 December 1874 – 13 January 1875)|Missigit Longbatta operations]] of [[31 December]] [[31 December]] [[1874]]–[[January 1875|January]] [[1875]] against his kampong.
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 72, 104, 149, 166, 171, 220, 231, 267, 319, 330, 337.
 ---
 
 

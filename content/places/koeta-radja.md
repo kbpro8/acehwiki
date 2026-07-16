@@ -144,6 +144,26 @@ As the administrative capital, [[Koeta-Radja|Koeta Radja]] anchored the colonial
 
 The Dutch East Indies Government also constructed a substantial mosque at [[Koeta-Radja|Koetaradja]] — larger than the modest village *missigit* (mosque) structures found elsewhere in Acheh — built in a more robust colonial architectural style than the simple, roof-less village mosques.
 
+## Account from *ATJEH '96* (Kruisheer, 1913) — the 1896 Dutch capital and military base
+
+As described in [[A. Kruisheer|Kruisheer]]'s *ATJEH '96*, **Koeta Radja** — written in Dutch as also *Kota Radja*, *Kuta Raja*, *Koeta-Radja*, *Kutaraja* and meaning "Fortress of the King" — was the [[Dutch]] capital and principal military base in [[Atjeh|Atjeh]] throughout the [[Aceh War|Atjeh-oorlog]], the seat of the [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden|Civiel en Militair Gouverneur]] and after [[April]] [[1896]] of the [[Regeeringscommissaris]]. Koeta Radja contained the [[Kraton]] (the inner fortress stormed in [[1873]]), the kampongs of Nesoch, Kampong Baroe, Kampong Gedah, Pendetie, Koeta Alam, and the Soerabaijawijk, and the headquarters of the [[Geconcentreerde Linie|Geconcenteerde Linie (Concentrated Line)]] and the [[buitenlinie|buitenlinie (outer line)]]. Koeta Radja was the destination of troops arriving by special trains on the [[Spoorbaan|military railway]], the site of the [[Vetter's Farewell Parade (27 June 1896)|farewell parade of Lt.-Gen. Vetter on 27 June 1896]], and the point of departure for [[Luitenant-Generaal Vetter|Vetter]]'s return to [[Batavia]] on [[28 June]] [[1896]].
+
+### Description and Location (ATJEH '96 account)
+
+Koeta Radja lay at the head of the [[Kroeng Raba|Kroeng-Raba bay]] on the northern coast of [[Atjeh]], with the port of [[Oleh-leh]] on its seaward side. The town contained the [[Kraton]] (the great Achehnese royal fortress stormed by the Dutch in [[1873]]), within which a substantial garrison was maintained — three complete *veldbataljons* (field battalions), a *bergartillerie* (mountain artillery) battery, and three cavalry pelotons ready to march out. Around the Kraton lay the kampong-quarters of Nesoch, Kampong Baroe (also Baroc), Kampong Gedah, Pendetie (Pendeti, where 600 men were quartered under the *kazerne* (barracks)), Koeta Alam (the Dutch campement near Berawai), and the Soerabaijawijk. The exercise terrain of [[Petjoet|Petjoen]] lay nearby, and it was there that the [[Vetter's Farewell Parade (27 June 1896)|farewell parade of 27 June 1896]] was held. The military railway [[Spoorbaan|Spoorbaan]] ran from Koeta Radja through [[Lampeneroet]] to the front, and the administration was centred in the town.
+
+### Historical Background (ATJEH '96 account)
+
+Koeta Radja had been the capital of the [[sultanate of Atjeh]] and the seat of the [[Sultan of Atjeh]] until the [[1873]] Dutch expedition stormed and destroyed the [[Kraton]]. From [[1873]] onward Koeta Radja became the principal Dutch garrison town in [[Atjeh]], and the [[Geconcenteerde Linie|Geconcenteerde Linie (Concentrated Line)]] of posts was built outward from it. After [[1890]] the [[buitenlinie]] of [[buitenpost|buitenposten]] extended the perimeter deeper into the [[sagi|three sagi]] of [[Groot-Atjeh]]. Koeta Radja was the seat of the [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden|Civiel en Militair Gouverneur]] — at the opening of [[1896]], [[Generaal-Majoor C. Deykerhoff|Gen.-Maj. Deykerhoff]] — and after his dismissal on [[7 April]] [[1896]] of the [[Regeeringscommissaris]] [[Luitenant-Generaal Vetter|Lt.-Gen. Vetter]] and the acting military commander [[Kolonel der Infanterie|Kolonel]] [[J. W. Stemfoort|Stemfoort]].
+
+### Role in the 1896 Operations (ATJEH '96 account)
+
+Koeta Radja was the administrative and logistical centre of the entire [[1896]] Dutch counter-offensive. After the [[Defection of Teuku Umar (29 March 1896)|defection of 29 March 1896]] extensive defensive measures were taken at Koeta Radja: barbed wire was placed around Nesoch, gun stands and covered infantry positions were established, and palissadeering was erected. The *marineschepen* (marine ships) *Sumbawa* and *Tromp* on the west side and *Flores* on the east side defended [[Oleh-leh]] and the seaward approaches. The 3.7 cm *snelvuurkanon* (quick-firing gun) was placed on the *landtong* (spit) in the south-west bastion, and 2 officers and 52 men of the *landingsdivisie* (landing division) reinforced the garrison. On [[30 March]] [[1896]] a column under [[Majoor G. P. M. van der Noordaa|Van der Noordaa]] marched from Koeta Radja to relieve the [[blokhuis|blokhuizen]] (blockhouses) of [[Aloer Oe]] and [[Toei Selimbing]] at Senelop. On [[7 April]] [[1896]] [[Luitenant-Generaal Vetter|Vetter]] arrived at Koeta Radja aboard the steamer or *Bantam* with the 9th Battalion Infantry, [[Kolonel der Infanterie|Kolonel]] [[J. W. Stemfoort|Stemfoort]], and [[Majoor J. F. Breijer|Majoor Breijer]]. On [[27 June]] [[1896]] the [[Vetter's Farewell Parade (27 June 1896)|farewell parade]] was held on the *exercitieterrein* (exercise terrain) near [[Petjoet|Petjoen]], with brigades maréchaussée and other units drawn up; on [[28 June]] [[1896]] [[Luitenant-Generaal Vetter|Vetter]] departed Koeta Radja for [[Batavia]] and the [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden|civil and military government]] was restored. Troops returning from the front were brought by train from [[Lam-Djamoe]] to the Kraton.
+
+### Significance (ATJEH '96 account)
+
+Koeta Radja was the political, military, and logistical centre of the Dutch enterprise in [[Atjeh]] throughout the [[Aceh War|Atjeh-oorlog]]. Its loss would have undone the entire Dutch position, and the defensive measures taken after the [[Defection of Teuku Umar (29 March 1896)|defection of 29 March 1896]] reflect the gravity with which the Dutch viewed Umar's possible attack on the capital. The restoration of the [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden|civil and military government]] on [[28 June]] [[1896]] marked the formal end of the Vetter *Regeeringscommissaris* regime and the symbolic stabilisation of the Dutch position after the crisis of the first semester of [[1896]].
+
 ## See Also
 
 - [[A. Pruys van der Hoeven|Pruys van der Hoeven]]
@@ -216,6 +236,33 @@ The Dutch East Indies Government also constructed a substantial mosque at [[Koet
 - [[J. B. van Heutsz]]
 - [[Atjeh-oorlog (1873-1904)]]
 - [[Van Heutsz's report on Atjeh (June 1908)]]
+- [[Kraton]]
+- [[Oleh-leh]]
+- [[Geconcenteerde Linie]]
+- [[buitenlinie]]
+- [[Spoorbaan]]
+- [[Vetter's Farewell Parade (27 June 1896)]]
+- [[Departure of Vetter (28 June 1896)]]
+- [[Luitenant-Generaal Vetter]]
+- [[Generaal-Majoor C. Deykerhoff]]
+- [[J. W. Stemfoort]]
+- [[Majoor G. P. M. van der Noordaa]]
+- [[Majoor J. F. Breijer]]
+- [[Defection of Teuku Umar (29 March 1896)]]
+- [[Regeeringscommissaris]]
+- [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden]]
+- [[Aloer Oe]]
+- [[Toei Selimbing]]
+- [[Lampeneroet]]
+- [[Lam-Djamoe]]
+- [[Petjoet]]
+- [[Kroeng Raba]]
+- [[Marine]]
+- [[blokhuis]]
+- [[7 April]]
+- [[27 June]]
+- [[28 June]]
+- [[30 March]]
 
 ## Sources
 
@@ -233,3 +280,5 @@ The Dutch East Indies Government also constructed a substantial mosque at [[Koet
 *DLP-84-Atjeh.pdf* (Part 5 of 5), p. 16. Centrale Boekerij Kon. Inst. v.d. Tropen, Amsterdam.
 
 *DLP-84-Atjeh.pdf*, p. 9.
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 14, 27, 28, 47, 48, 56, 67, 68, 71, 72, 73, 74, 82, 83, 92, 99, 116, 122, 132, 134–135, 143, 149, 162, 171, 176, 185, 194, 203, 209, 213, 224, 234, 266, 296, 318, 321, 325, 332, 333.

@@ -1,8 +1,8 @@
 ---
 title: Habib Abdurrahman Zahir
-aliases: ["the Habib", "Sayyid Abdurrahman Zahir", "Habib Abdurrahman", "Sayyid Abdurrahman", "Habib Abdoerrahman", "Abdul Rachman", "Habib", "Sayyid Abdurrahman Zair", "Habib Abdoe'r Rachman", "Habib Abdoor Rahman", "Habib Abdoerrahman Zahir", "Habib Abdul Rahman", "Sajjid Abdoerrahman Zahir", "Habib of Aceh", "sajet of Aidaroes family"]
+aliases: ["the Habib", "Sayyid Abdurrahman Zahir", "Habib Abdurrahman", "Sayyid Abdurrahman", "Habib Abdoerrahman", "Abdul Rachman", "Habib", "Sayyid Abdurrahman Zair", "Habib Abdoe'r Rachman", "Habib Abdoor Rahman", "Habib Abdoerrahman Zahir", "Habib Abdul Rahman", "Sajjid Abdoerrahman Zahir", "Habib of Aceh", "sajet of Aidaroes family", "Habib's", "Habeeb", "Sayyid"]
 
-tags: [person, warrior, religious-figure, sayyid, reformer, arab, jihad-leader, religious, aceh, resistance, aceh-war, arab-scholar, rijksbestuurder, military-leader, sajet, political, achehnese, 19th-century]
+tags: [person, warrior, religious-figure, sayyid, reformer, arab, jihad-leader, religious, aceh, resistance, aceh-war, arab-scholar, rijksbestuurder, military-leader, sajet, political, achehnese, 19th-century, concept, sultanate]
 description: "Arab scholar and sayyid who served as the first rijksbestuurder (chief minister) of Acheh under the sultanate, and the most energetic political-religious figure of the early Dutch war period. Submitted to the Dutch on 13 October 1878 and was exiled to Jeddah on a personal annual pension of 12,000 dollars."
 ---
 
@@ -90,6 +90,26 @@ Kreemer's account of the Habib's stoning of a couple for *dina* (adultery, Arabi
 
 Kreemer's final distinctive detail is the record that Habib Abdoerrahman is said to have departed for Mecca carrying a great value in *ha gantjéng* — judicial pledge monies that had accumulated in his hands. The *ha gantjéng* was a form of *gedingpand* (judicial pledge) used in litigation as material guarantee for compliance with a verdict, returned for a redemption price after satisfaction. The practice was discontinued in *eigenlijk Atjèh* from [[1910]]. The detail is the principal Atjèhnese-institutional evidence that the Habib's religious-court jurisdiction had accumulated, in his hands, the pledges of his litigants — and that his withdrawal to Arabia carried those pledges with him.
 
+## Account from Kruisheer's *ATJEH '96* — the *Habib* as a title in 1896
+
+The *Habib* — from Arabic حبيب, "beloved", an honorific borne by a descendant of the [[Prophet Muhammad]] through his daughter Fatimah and her husband Ali — was the [[Achehnese]] title applied to Islamic religious notables of Hadhrami Arab, Afghan or other foreign Muslim origin resident in Aceh. While [[Habib Abdurrahman Zahir]] is the most famous *Habib* of the early war period, Kruisheer's *ATJEH '96* names several other Habibs who played prominent roles in the Achehnese resistance of [[1896]]: [[Habib Lhong]] (called "den kling Habib Lhong", identifying him as a foreign — *kling* — Muslim); [[Habib Lengkong]]; [[Habib Samalanga]]; and [[Habib Koeala van Pedir]] (also known as *Said Anajatoellah*). The Habibs brought to the [[Aceh War|Atjeh-oorlog]] a transnational Islamic legitimacy that local [[teungku|teungkoe]]s and [[oelama]]s could not always supply, and their presence reinforced the framing of the war as jihad against the unbeliever Dutch.
+
+### Etymology and Meaning of the *Habib* title
+
+The word *habib* is Arabic for "beloved" and is used as an honorific for any descendant of the Prophet — most commonly those of Hadhrami (southern Arabian) origin, who had been settling in the [[Netherlands Indies|Nederlandsch-Indië]] archipelago for centuries. In Acehnese usage *habib* is essentially synonymous with *sayyid*: it denotes a hereditary religious nobility of Prophetic descent. The Hadhrami Hadhramaut was the principal origin; Afghanistan is also cited in Kruisheer's notes. The Habib's prestige derived from his genealogy, not from local office; he could therefore move through Acehnese society as a freelance holy man, often more mobile and more feared than the locally-rooted *teungkoe*.
+
+### Historical Context of 1896
+
+In the first semester of [[1896]] the Habibs functioned as trans-regional organisers of resistance. Kruisheer records the presence of [[Habib Lhong]] in the [[XXVI Moekims]] as part of the constellation of foreign Muslim leaders around [[Teuku Umar]] after his defection; [[Habib Samalanga]] of the Samalanga coast; [[Habib Lengkong]]; and [[Habib Koeala van Pedir]] (Said Anajatoellah) of the [[Pedir]] region, an important node of Achehnese resistance. The intelligence reports of [[controleur Neelmeijer|controleur Neelmeijer]] of May–June [[1896]] detail the locations of various Teungkoes and Habibs in the XXVI Moekims, reflecting their importance to the resistance. The arrival of [[Habib Abdoellah Paroembé]] of the Westkust in Umar's coalition is also noted.
+
+### Examples in the Source
+
+Kruisheer explicitly identifies [[Habib Lhong]] as "den kling Habib Lhong" — using the [[kling|Kling]] label to mark his foreign origin. [[Habib Lengkong]] is named alongside Habib Lhong as part of the foreign Muslim resistance leadership. [[Habib Samalanga]] is named for the Samalanga region. [[Habib Koeala van Pedir]] (Said Anajatoellah) is identified with the Pedir coast. The reports of [[controleur Neelmeijer]] — described by Kruisheer as a series of "important services" — contain detailed intelligence on the positions of various Teungkoes and Habibs in the XXVI Moekims in the period leading up to the [[Three-day Dutch offensive of 23–25 May 1896|Dutch offensive of 23–25 May 1896]]. The Habib Abdoellah Paroembé is named as part of the Westkust bands that joined Umar's coalition.
+
+### Significance of the *Habib* as an institution
+
+The Habibs represent the transnational Islamic dimension of the [[Aceh War]]. Their presence in Acehnese resistance — bringing Prophetic genealogy, Hadhrami networks, and Afghan military-ideological influence — bound the local Acehnese struggle to the wider Muslim world and reinforced the framing of the conflict as *sabil Allah*. The Dutch pursuit of Habibs after Umar's defection reflects their recognition that eliminating the religious-ideological leadership of the resistance was as important as defeating its military panglimas. The institution of the Habib survived the war and continued to play a role in Acehnese religious life into the twentieth century.
+
 ## See Also
 
 - [[Aceh War]]
@@ -130,6 +150,19 @@ Kreemer's final distinctive detail is the record that Habib Abdoerrahman is said
 - [[1879]]
 - [[1896]]
 - [[1910]]
+- [[Habib Lhong]]
+- [[Habib Lengkong]]
+- [[Habib Koeala van Pedir]]
+- [[Habib Abdoellah Paroembé]]
+- [[Teungkoe / Toekoe / Tengkoe (honorific)]]
+- [[Oelama]]
+- [[Imam]]
+- [[Kling / Pedireezen / Toenongers]]
+- [[Sabil Allah]]
+- [[Kafi / Kafir]]
+- [[Controleur Neelmeijer]]
+- [[Three-day Dutch offensive of 23–25 May 1896]]
+- [[Pedir]]
 
 ## Sources
 
@@ -140,3 +173,5 @@ Kreemer's final distinctive detail is the record that Habib Abdoerrahman is said
 *J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni [[1855]]*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, [[1943]], Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, pp. 40-41, 153-156, 164-169.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 117, 231, 244, 266.

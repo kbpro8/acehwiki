@@ -1,8 +1,8 @@
 ---
 title: Panglima
-aliases: ["Panglima's", "Panglima of Pedir", "Panglima of Deli", "Panglima (Atjeh regional commander)", "Atjeh Panglima", "Panglima Raja", "Panglima Radja", "Panglima-raja", "Panglimah Radja", "Panglima-Radja of Padang"]
+aliases: ["Panglima's", "Panglima of Pedir", "Panglima of Deli", "Panglima (Atjeh regional commander)", "Atjeh Panglima", "Panglima Raja", "Panglima Radja", "Panglima-raja", "Panglimah Radja", "Panglima-Radja of Padang", "Panglima", "Pangliman", "War commander"]
 
-tags: [concept, office, atjehnese, military, regional-administration, title, malay, achehnese, sumatra, colonial]
+tags: [concept, office, atjehnese, military, regional-administration, title, malay, achehnese, sumatra, colonial, sultanate]
 ---
 **Panglima** was the title of the regional military commanders of the [[Acheh|Atjeh]] sultanate in the seventeenth century — the Sultan's appointed governors or war-chiefs of the subordinate territories of the sultanate. In [[E. C. Godee Molsbergen|Godee Molsbergen]]'s account of [[Pieter Soury's mission to Atjeh (1641)|Soury's embassy of 1641]] the *Panglima's* of [[Pedir]] and [[Deli]] appear together with "nog vele anderen" (many others) at an audience before the [[Sultana of Atjeh (1641)|Sultana]] at which the request for "Portugeesche jonge dochterkens" — Portuguese maidens as *losprijs* (ransom) — was put to the Dutch.
 
@@ -45,15 +45,35 @@ The phrase "pseudo panglima-radja" implies that the title had become sufficientl
 
 ## The panglimaschap of the commandeur of Padang
 
-The constitutional assimilation of the panglima-radja title to the Compagnie's own commandeur is the closing move of the Westkust system. After the [[Tikoe submission (20-21 June 1684)|Tikoe submission of 20–21 June 1684]], the chiefs of Tikoe "promised 'to acknowledge and obey the commandeur at Padang as their panglima.' They granted the monopoly to the Compagnie and declared that their regents were to be appointed by the commandeur, 'by force of the panglimaschap'" (*belovende de commandeur op Padang voor haer panglima te erkennen en gehoorsamen. Zij verleenden het monopolie aan de Compagnie en verklaarden, dat hun regenten door den commandeur moesten worden aangesteld, 'kraghte van het panglimaschap'*).
+The constitutional assimilation of the panglima-radja title to the Compagnie's own commandeur is the closing move of the Westkust system. After the [[Tikoe submission (20-21 June 1684)|Tikoe submission of 20–21 June 1684]], the chiefs of Tikoe "promised 'to acknowledge and obey the commandeur at Padang as their panglima.' They granted the monopoly to the Compagnie and declared that their regents were to be appointed by the commandeur, 'by force of the panglimaschap'" (*belovende de commandeur op Padang voor haer panglima te erkennen en gehoorsamen. Zij verleenden het monopolie aan de Compagnie en verklaarden, dat hun regenten door den commandeur moesten worden aangesteld, 'kragte van het panglimaschap'*).
 
-The phrase *kraghte van het panglimaschap* — "by force of the panglima-office" — is the critical constitutional claim. The Compagnie is not merely exercising a commercial monopoly; it is asserting the right to appoint the regents of Tikoe, in the name of the panglima-office that the commandeur of Padang now holds. This is sovereign authority, exercised in the form of an Acehnese-Malay political institution.
+The phrase *kragte van het panglimaschap* — "by force of the panglima-office" — is the critical constitutional claim. The Compagnie is not merely exercising a commercial monopoly; it is asserting the right to appoint the regents of Tikoe, in the name of the panglima-office that the commandeur of Padang now holds. This is sovereign authority, exercised in the form of an Acehnese-Malay political institution.
 
 ## Significance
 
 The panglima-radja title is the constitutional hinge by which the Compagnie's commercial-chief at Padang became a native military-chief with the right to appoint regents. The progressive assimilation of the panglima-radja title to the Compagnie's commandeur is the institutional expression of the larger transfer of Westkust sovereignty from Atjeh to the Compagnie: where the [[Painansch Contract]] of [[1663]] transferred commercial privilege, the panglimaschap of [[1684]] transferred political authority.
 
 The panglima-radja is also one of the few native Westkust institutions named individually in Stapel's text. The title survives the [[Sultana of Atjeh (Taj ul-Alam)|sultane]]'s authority, the [[Painansch Contract]]'s monopoly and the [[Padang Conference (29 August 1680)|Padang Conference]]'s general bond, and it is the institutional vehicle by which the Compagnie's commandeur exercises the authority that those instruments created.
+
+## Account from Kruisheer's *ATJEH '96* — the Panglimas of 1896
+
+**Panglima** — from Malay/Acehnese *panglima* (commander), itself derived from Sanskrit *paranīpati* — was the generic [[Achehnese]] military title borne by a war leader or commander of an armed band. The panglima ranked below a [[hoeloebalang]] in the formal territorial hierarchy but, in the conditions of the [[Aceh War|Atjeh-oorlog]], often held effective military command of his own following. Kruisheer names dozens of panglima in the course of *ATJEH '96*: [[Panglima Polim]] and [[Panglima Bintang]] (the most prominent), [[Panglima Gimba]], [[Panglima Ali]], [[Panglima Poelau]], [[Panglima Hassan]], [[Panglima Nja Bintang]], and the at least forty panglimas who served under [[Teuku Umar]] in his *legioen* as [[Panglima Prang Besar]]. The compound forms *hoofdpanglima* (chief panglima) and [[Panglima Sagi]] (sagi commander) denoted higher grades of the same title.
+
+### Etymology and Meaning
+
+The word *panglima* is borrowed into Acehnese from Malay, where it designated a commander of troops or ships; the ultimate origin is Sanskrit *paranīpati* (lord, protector). In Acehnese usage a panglima was a man who had gathered a personal following of armed dependants (*rakan* or *rakaan*) and could lead them in battle. Unlike the [[hoeloebalang]] (whose authority was territorial and hereditary) or the [[panglima sagi]] (whose authority ran over a whole [[sagi]]), a panglima's authority was personal and charismatic: it depended on his ability to attract and retain fighters. The Dutch text uses the spelling *panglima* consistently; the plural is *panglima's* in Dutch orthography.
+
+### Historical Context of 1896
+
+In the first semester of [[1896]] panglimas were the operative tactical commanders on the Achehnese side. Umar's *legioen* as [[Panglima Prang Besar]] was a federation of some forty panglimas, each with his own *bende* (band). After Umar's [[Defection of Teuku Umar (29 March 1896)|defection of 29 March 1896]], these panglimas turned their Dutch-supplied [[Beaumontgeweer|Beaumont]] and *achterlaadgeweer* (breech-loading rifle) weapons against the [[Dutch]]. [[Panglima Polim]] of the [[XXII Moekims]] emerges as one of the most dangerous Achehnese field commanders, responsible for bringing the [[Dutch]]-captured 7 cm L.A. *kanon* (gun) and *mitrailleur* to [[Senelop]] after the [[Battle of Senelop (17 April 1896)|battle of 17 April 1896]]. [[Panglima Bintang]] of the [[III Moekims Daroe]] oscillated between Dutch and Achehnese allegiance, eventually returning 12 of 16 *trompladers* (muzzle-loaders) to the Government in mid-June [[1896]]. [[Panglima Hassan]] served as *hoofdpanglima* (chief panglima) for [[T. Moeda Baid]] of the [[VII Moekims Baid]].
+
+### Examples in the Source
+
+Kruisheer's catalogue of panglimas spans the entire text. [[Panglima Polim]] appears as the dominant Achehnese commander, occupying [[Senelop]] (per spy reports of mid-April [[1896]]), bringing captured Dutch artillery to bear, and imposing the condition that Umar must first "fight the [[kafi]]" before any cooperation with him. [[Panglima Bintang]] is the wavering hoeloebalang-panglima of the III Moekims Daroe, who made his first appearance before the Dutch on [[20 June]] [[1896]] and was received as an ally. [[Panglima Poelau]] of [[Poelau Weh]] is mentioned alongside [[Panglima Gimba]] and [[Panglima Ali]]. [[Panglima Nja Bintang]] reported to [[Koeta Radja]] on [[23 June]] [[1896]]. The Panglima of Lam Bada, armed with a Peabody-geweer, attacked the Dutch on [[17 April]] [[1896]]. [[Panglima Hassan]] appears as *hoofdpanglima* of T. Moeda Baid.
+
+### Significance of the Panglimas in 1896
+
+The panglima is the central institution of Achehnese military resistance in [[1896]]: a personal war-leadership that could be raised anywhere a charismatic commander could attract followers, and that proved remarkably resilient to Dutch pressure. The proliferation of panglimas — both pro-Dutch and anti-Dutch — explains why the war could not be ended by any single battle or treaty: every panglima negotiated his own peace, and the defection of one panglima did not bind another. The Dutch decision in [[1893]] to appoint Umar [[Panglima Prang Besar]] over the other panglimas was an attempt to centralise this institution under colonial patronage; its catastrophic failure in [[1896]] is the central event of Kruisheer's narrative.
 
 ## See Also
 
@@ -80,9 +100,23 @@ The panglima-radja is also one of the few native Westkust institutions named ind
 - [[Vereenigde Oost-Indische Compagnie]]
 - [[1680]]
 - [[1684]]
+- [[Panglima Prang Besar]]
+- [[Panglima Sagi]]
+- [[Hoeloebalang]]
+- [[Panglima Polim]]
+- [[Panglima Bintang]]
+- [[Panglima Poelau]]
+- [[Panglima Hassan]]
+- [[Teuku Umar]]
+- [[Defection of Teuku Umar (29 March 1896)]]
+- [[Battle of Senelop (17 April 1896)]]
+- [[1896]]
+- [[1893]]
 
 ## Sources
 
 *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter XI ("Atjehsche ambassade. Inlandsche feesten. Maagden als losprijs"), pp. 39–43 of the numbered-letter sequence.
 
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 18, 20, 22–23 (tekst bij blad 4: *Atjeh en de Westkust van Sumatra in 1684*).
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 20, 82, 105, 117, 138, 143, 148, 158, 165, 186, 319, 343.

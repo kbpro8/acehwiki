@@ -1,7 +1,7 @@
 ---
 title: Oelama
-aliases: ["Oelama", "oelama", "ulama", "ulama's", "oelama's", "religious scholars", "geestelijke hoofden", "heilige mannen", "tengkoe meunasa"]
-tags: [concept, religious, islamic, aceh, oelama, religious-leader, resistance]
+aliases: ["Oelama", "oelama", "ulama", "ulama's", "oelama's", "religious scholars", "geestelijke hoofden", "heilige mannen", "tengkoe meunasa", "Ulema"]
+tags: [concept, religious, islamic, aceh, oelama, religious-leader, resistance, achehnese, sultanate]
 description: "The class of Islamic religious scholars and leaders in Aceh — from Arabic ulama — who led the resistance through the prang sabil; the Tiro-oelama's, the Paja Bakong Tengkoes, Habib Teupin Wan, Tgk. Tjot Plieëng; lived kramat lives, wrote letters with Arabic formulas, were the spiritual leaders the oeléëbalangs could not rival."
 ---
 
@@ -26,6 +26,26 @@ The *oelama* wrote and signed his letters in Arabic, with the formulae of the fa
 ## The kramat oelama
 
 The great *oelama* was *kramat* — blessed, untouchable. [[Tengkoe Tjot Plieëng|Tgk. Tjot Plieëng]] *zelf niet aan den strijd deelnam en in afzondering leefde, kwamen alle draden van het verzet bij hem samen, en als hij daaraan trok dan had men in heel Pidië de poppen aan het dansen. Jaren hebben onze patrouilles zijn spoor gezocht; in Juni 1904 ontdekte kapitein Stoop zijn schuilplaats tusschen twee uitloopers van de Glé Keulabéë Asap, doch de Tengkoe ontkwam, zij het met achterlating van zijn Koran en zegelamulet*. His body, after his death by the patrol of luitenant Terwogt, *vertoonde na een paar dagen geen spoor van ontbinding. Zelfs Panglima Polim was voor die identificatie opgeroepen, en hij heeft zich gebogen over het lijk dat niet stonk, te midden eener groep Atjehers die stom waren van eerbied. "Dit was Gods geheim"*. *Hij bezat een rantej boei*; the body of the holy man, even with the amulet, could not escape *di taqdir* — what is written.
+
+## Account from Kruisheer's *ATJEH '96* — the Oelamas of 1896
+
+Kruisheer's *ATJEH '96* identifies [[Teungkoe Koeta Karang]] as "een voorname oelama in de XXII Mockims" — a prominent oelama of the [[XXII Moekims]] — and [[Teungkoe Tanah Abée]] as his successor in the office of "the greatest oelama"; [[T. Mad Amin]] (also spelled Mat Amin) is described as oelama. The oelamas were the doctrinal authors of the [[Aceh War|Atjeh-oorlog]] as a jihad, the labellers of the [[Dutch]] as unbelievers, and the orchestrators of the "sham battle" doctrine that allowed [[Teuku Umar]]'s *legioen* to appear to fight the [[moslemin]] without serious casualties while Umar was still nominally in Dutch service.
+
+### Etymology and Meaning
+
+The word *oelama* is the plural of Arabic عالم, "one who knows", itself from the root *ʿalima* (to know). In Acehnese usage, however, *oelama* functions as a singular collective noun for the class of learned Islamic scholars — those who have mastered Quran, Hadith, jurisprudence and related sciences. The oelama is distinguished from the prayer leader of a single [[moekim]] by the breadth of his learning and the scope of his following: an oelama's authority could span several moekims or a whole [[sagi]], whereas an imam's was parish-local. The oelama is also distinguished from the *habib* — a hereditary descendant of the Prophet — by his acquisition of authority through learning rather than through blood.
+
+### Historical Context of 1896
+
+In the first semester of [[1896]] the oelamas were the principal authors of Achehnese resistance ideology. [[Teungkoe Koeta Karang]] is identified by Kruisheer as the architect of the *main prang* (sham battle) doctrine: Umar's *legioen* and the moslemin engaged in sham battles in which "al vielen er also een enkele maal gewonden" (although occasionally someone was wounded), the engagements were essentially theatrical, allowing Umar to draw Dutch pay and weapons while not seriously fighting his fellow Achehnese. Koeta Karang acquired his influence through *kaloet* — ascetic meditation in a cave. After [[Teungkoe Tanah Abée]] succeeded Koeta Karang as the "greatest oelama", he was responsible for labelling Umar's bands *kafir* — an extraordinary reversal in which the religious hierarchy declared the defector to have become an unbeliever himself. [[T. Mad Amin]] is described as oelama. The *Ketjihik Oemar* reported to the Dutch that Umar and his wife [[Tjoet Nja Din]] "were holding busy meetings with the heads of the clergy" — i.e., with the oelamas — in the period before the defection.
+
+### Examples in the Source
+
+Kruisheer's most explicit oelama references are: [[Teungkoe Koeta Karang]] — "een voorname oelama in de XXII Mockims"; [[Teungkoe Tanah Abée]] — "de grootste oelama" (the greatest oelama); [[T. Mad Amin]] — described as oelama. The intelligence reports of [[controleur Neelmeijer]] detail the locations and movements of various oelamas in the [[XXVI Moekims]]. The *Ketjihik Oemar*'s reports on Umar's "busy meetings with the heads of the clergy" reveal the oelamas as a corporate body that the defector Umar had to win over. *Teungkoe Panté Gelimah*'s practice of *kaloet* in the grot of [[Daroe]] "in imitation of T. Koeta Karang" shows the oelama's ascetic example propagating through his successors.
+
+### Significance of the Oelamas in 1896
+
+The oelama is the institutional carrier of religious authority in the [[Aceh War]] and the indispensable ideological opponent of the Dutch colonial project. Without the oelamas' doctrinal authorisation, the war could not have been framed as *sabil Allah*; without their labelling of the Dutch as *kafir*, the religious solidarity of the resistance could not have been sustained. The Dutch decision to spare or eliminate particular oelamas — Koeta Karang, Tanah Abée — was therefore a strategic choice, not merely a tactical one. Kruisheer's careful enumeration of oelama names, locations and doctrines reflects the Dutch awareness that the religious-intellectual leadership of the resistance had to be defeated or co-opted before the secular [[hoeloebalang]] structure could be brought under control.
 
 ## Significance
 
@@ -60,7 +80,23 @@ The *oelama* — and not the *oeléëbalang* — was the soul of the [[Aceh War|
 - [[1910]]
 - [[1911]]
 - [[1917]]
+- [[Teungkoe / Toekoe / Tengkoe (honorific)]]
+- [[Habib]]
+- [[Imam]]
+- [[Ketjihik]]
+- [[Sabil Allah]]
+- [[Kafi / Kafir]]
+- [[Moslemin]]
+- [[Teungkoe Koeta Karang]]
+- [[Teungkoe Tanah Abée]]
+- [[Teungkoe Panté Gelimah]]
+- [[Hoeloebalang]]
+- [[Sagi]]
+- [[1896]]
+- [[Controleur Neelmeijer]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 45, 183, 244.

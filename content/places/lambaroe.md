@@ -1,15 +1,60 @@
 ---
 title: Lambaroe
-aliases: [Lambaroe]
-tags: [place, aceh, village]
+aliases: [Lambaroe, Lambarih, "V Moekims Montassik post"]
+tags: [place, aceh, village, achehnese, dutch, colonial, military, aceh-war, xxii-moekims, buitenlinie, 1896, 19th-century]
 ---
+
 **Lambaroe** was a settlement north of [[Kajoe‑leh]] that Dutch troops reached after occupying Kajoe‑leh on [[5 February]] [[1876]]. From Lambaroe the column proceeded to the [[Atjeh River]] and later to [[Pajar‑Ajer]].
 
+As described in [[A. Kruisheer|Kruisheer]]'s *ATJEH '96*, a Dutch post called **Lambarih** — written in Dutch with the variant *Lambaroe*, though the OCR text sometimes confuses the post of Lambarih with the kampong of Lambaroe — was a [[Dutch]] post and communication point in the [[Sagi der XXII Moekims|sagi of the XXII Moekims]], established to safeguard the Lambaroe–[[Ana' Galong]] road. Lambarih was garrisoned in [[1895]] by 2 officers, 50 infantry, 1 artilleryman, and 1 European hospital attendant, and was linked to the forward area by telephone. The post was a patrol destination on [[10 May]] [[1896]] and served as the base of operations for [[Joannes Benedictus van Heutsz|Van Heutsz]]'s column on [[17 April]] [[1896]]. After the evacuation of the [[buitenlinie]] Lambarih remained part of the [[Geconcenteerde Linie|Geconcenteerde Linie (Concentrated Line)]].
+
+> **Note on the shared place-name.** The name *Lambaroe* is used in two related but distinct senses in the sources: (i) a settlement north of [[Kajoe‑leh]] reached by Dutch troops on [[5 February]] [[1876]] in the course of the 1875–1876 campaign (from the *Verslagen der Marine‑Vereeniging*); and (ii) a Dutch post and communication point — also called *Lambarih* — in the [[Sagi der XXII Moekims|XXII Moekims]], garrisoned in [[1895]] and active throughout the spring [[1896]] crisis (from [[A. Kruisheer|Kruisheer]]'s *ATJEH '96*). Kruisheer notes that the OCR text sometimes confuses the post of Lambarih with the kampong of Lambaroe.
+
+## The 1876 settlement
+
+The *Verslagen der Marine‑Vereeniging* records that Lambaroe was reached by Dutch troops on [[5 February]] [[1876]] after the occupation of [[Kajoe‑leh]], and that from Lambaroe the column proceeded to the [[Atjeh River]] and later to [[Pajar‑Ajer]] in the course of the 1875–1876 campaign.
+
+## The Lambarih post in 1895–1896 (ATJEH '96 account)
+
+### Description and Location (ATJEH '96 account)
+
+Lambarih lay in the [[Sagi der XXII Moekims|sagi of the XXII Moekims]] on the road between [[Lambaroe]] (the kampong) and [[Ana' Galong]], and served as the communication post between the two. The post safeguarded the Lambaroe–Ana' Galong road, which was the principal route by which the [[Ana' Galong]] garrison was supplied and reinforced. The garrison in [[1895]] consisted of 2 officers, 50 infantry, 1 artilleryman, and 1 European hospital attendant. A telephone connection linked Lambarih to the front, making it a communication node in the Dutch command network. The post was close enough to [[Ana' Galong]] to provide rapid reinforcement in the event of an attack — the relief detachment of 40 bayonets under [[Kapitein van den generalen staf Kronouer|Kapitein Kronouer]] that relieved [[H. F. T. van Blokland|Van Blokland]]'s patrol on [[7 March]] [[1896]] was drawn from [[Lamsoet]]/[[Lambarih|Lambaroe]].
+
+### Historical Background (ATJEH '96 account)
+
+Lambarih had been constructed as part of the [[buitenlinie]] to support the [[Ana' Galong]] garrison and to safeguard the Lambaroe–Ana' Galong road. The post was a communication point with a telephone connection to the front, making it an important node in the Dutch command network. The proximity of Lambarih to [[Ana' Galong]] made it the natural base for relief forces: the relief detachment under [[Kapitein van den generalen staf Kronouer|Kapitein Kronouer]] on [[7 March]] [[1896]] was drawn from Lambarih and [[Lamsoet]]. The [[Blokhuis Blang Tjoet]] between Ana' Galong and Lambarih (garrisoned by 20 men, exchanged daily by Ana' Galong) was a forward extension of the Lambarih post.
+
+### Role in the 1896 Operations (ATJEH '96 account)
+
+Lambarih was a key communication and reinforcement post throughout the first semester of [[1896]]. On [[7 March]] [[1896]] the relief detachment of 40 bayonets under [[Kapitein van den generalen staf Kronouer|Kapitein Kronouer]] — drawn from [[Lamsoet]]/Lambarih under luit. [[K. H. Westendorp|Westendorp]] and luit. [[F. Ketjen|Ketjen]] — marched out to relieve the beleaguered patrol of [[H. F. T. van Blokland|Kapitein Van Blokland]] at [[Ana' Galong]]. On [[17 April]] [[1896]] Lambarih served as the base of operations for [[Joannes Benedictus van Heutsz|Van Heutsz]]'s column in the [[Battle of Senelop (17 April 1896)|lifting of Senelop]] and [[Lamsoet]]. On [[10 May]] [[1896]] Lambarih was a patrol destination. After the evacuation of the [[buitenlinie]] in [[April]] [[1896]] Lambarih remained part of the [[Geconcenteerde Linie|Geconcenteerde Linie (Concentrated Line)]], and appears in the Dutch forces tables of [[June]] [[1896]] as a post in the line. The gin bottles with messages that [[Kapitein P. H. Bodemeijer|Kapitein Bodemeijer]] floated down the [[Atjehrivier]] from [[Ana' Galong]] were intended to reach Lambarih.
+
+### Significance (ATJEH '96 account)
+
+Lambarih was the indispensable support post for the [[Ana' Galong]] garrison and a key communication node in the [[buitenlinie]] of the [[Sagi der XXII Moekims|XXII Moekims]]. Its retention after the evacuation of the outer *buitenposten* in [[April]] [[1896]] reflected its importance to the inner [[Geconcenteerde Linie|Geconcenteerde Linie (Concentrated Line)]], and its telephone connection made it a critical link in the Dutch command network. The post's role in the [[7 March]] [[1896]] relief of [[H. F. T. van Blokland|Van Blokland]]'s patrol was one of the most consequential actions of the pre-defection period.
+
 ## See Also
+
 - [[Kajoe‑leh]]
 - [[Atjeh River]]
 - [[Pajar‑Ajer]]
 - [[J. L. J. H. Pel|General Pel]]
+- [[Geconcenteerde Linie]]
+- [[buitenlinie]]
+- [[K. H. Westendorp]]
+- [[F. Ketjen]]
+- [[Kapitein van den generalen staf Kronouer]]
+- [[Ana' Galong]]
+- [[Lamsoet]]
+- [[Blang Tjoet]]
+- [[Battle of Senelop (17 April 1896)]]
+- [[Kapitein P. H. Bodemeijer]]
+- [[H. F. T. van Blokland]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Sagi der XXII Moekims]]
+- [[1896]]
 
 ## Source
+
 *Verslagen der Marine‑Vereeniging III 1889‑1890*, pp. 229‑233. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pages 138‑141.
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 22, 27, 28, 30, 35, 38–40, 42, 51, 55, 62, 63, 66, 75–76, 92, 100, 144, 335.
