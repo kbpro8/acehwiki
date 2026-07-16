@@ -207,3 +207,15 @@ Teukoe Oema was killed in a *marechaussee* ambush in [[1899]]. His death was a s
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 2 (Bestuurs-organisatie), p. 68 (section "De Atjeh-tram").
 
 *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), p. 144.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] calls Teukoe Oemar the *"Heer der westelijke zee"* (Lord of the Western Sea) and the third husband of [[Tjoet Nja Din]]. He stands at the centre of the great confusion of [[1896]]–[[1897]].
+
+In the time of the *geconcentreerde linie*, the governor supplied "befriended" Atjehers with money, weapons, and ammunition. This dumb policy — sharply condemned by [[C. Snouck Hurgronje|Snouck Hurgronje]] as well — rested on the wishful thought that an Atjeher who hated and above all despised the Dutch would, merely from gratitude, forever forego the good chances the Dutch themselves offered him. In the last days of [[February]] [[1896]] T. Oemar, having been armed and paid by the Dutch government, broke with them and rejoined the resistance. The Dutch spoke of the most faithless treachery, though Zentgraff observes that only the qualification *"overloopen"* (defection) was warranted.
+
+After his defection Teukoe Oemar led attacks on Lamkrak and Anak Paja. From a [[G.C.E. van Daalen|Van Daalen]] letter of [[27 May]] [[1896]]: *"Op den 25en werd Boekit Seboen genomen en een gedeelte der IV moekims verbrand, o.a. het huis van Oemar's vrouw te Anak Paja."* The *oeléëbalang* of [[Lhong]] was assessed a fine of f 30.000 because he had consorted with the enemy — a fine the impoverished land could not pay, leading in [[April]] [[1897]] to the [[Lhong punitive expedition (1897)|Lhong punitive expedition]] and the seizure of cattle and gold ornaments of the women, an episode Van Daalen privately called *"beschamend"* (shameful).
+
+In [[February]] [[1899]] T. Oemar was killed near [[Meulaboh]]. Zentgraff credits his *overloopen* with having administered so severe a moral blow (*den moreelen kaakslag*) to pacifist colonial policy that it ended the *geconcentreerde linie* period and ushered in the offensive spirit of [[Joannes Benedictus van Heutsz|Van Heutsz]].
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

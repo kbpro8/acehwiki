@@ -58,3 +58,11 @@ Blang Kédjérèn stands at the intersection of two chapters in Acehnese colonia
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 1, Chapter II, Chapter IV, Chapter V § 3.
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapter "Dominee Thenu."
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] visited the Blang personally and gives the fullest evocative description. Three march-days from Lawé Aoenan (Goenoeng Setan) at the end of the motor-road, through marschbivaks Meloewak and Koenké, across the watershed at the *Pintoe Rimba* — the Gate of the Wilderness — and then: *als een Juweel, gevat in eene zetting van forsche allure* — a jewel set in a frame of mountains.
+
+[[G.C.E. van Daalen|Van Daalen]]'s [[Gajoetocht (1904)|Gajoetocht]] of [[18 March]]–[[3 June]] [[1904]] took the benteng Koeto Reh, where 561 Gajoes lay dead, and is commemorated by a stone at Blang Kedjeren: *Ter herinnering aan onze gevallen helden tijdens den tocht van overste Van Daalen in de Gajoe-Loeës, van 18 Maart 1904 tot 3 Juni 1904.* The Gajoes date their modern era from this event. The *Duivel op de Blang* crisis of [[1909]]–[[1910]] arose from the replacement of the infantry garrison by a full maréchaussée division: the women were left at Seulimeum while about 300 men and 400 *beren* marched to the Blang, producing *bloody misdrijven van militairen tegen militairen*: *Amb. maréchaussée N. doodde met den klewang de vrouw van een ander en schoot daarop door het bivak, waardoor de Eur. sergt. Selbach sneuvelde, en pleegde hierna zelfmoord.* Eventually the women were brought from [[Koeala Simpang]] by *prauw* to Kaloeë and on foot over the *Boer ni Gadjah* (Elephant Mountain). On [[7 December]] [[1926]] a Gajoe murdered the sergeants Van Gent and De Gruiter before the tangsi; the sergeant Van den Broek struck off the murderer's head with one blow.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

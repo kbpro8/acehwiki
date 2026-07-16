@@ -51,3 +51,13 @@ The *tangsi* is significant in *[[Oom Ambon van het K.N.I.L.]]* as the instituti
 ## Source
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapters "Tangsi en Tante," "De buitenpost," and the closing chapters on the Indonesian revolution.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] gives the richest description of the *tangsi* in the Atjeh War corpus. The *wacht* doubled its posts automatically in five minutes when the bel rang; the *klok* of the bivak sounded five strokes when a patrol returned, so every wife knew *dat haar man op komst is — dan gaat ze bakken en braden*. The *lontjeng maréchaussée* — the cicade that chirped ten minutes before six — was the *schildwacht*'s post signal.
+
+The *tangsi* of [[Blang Kedjeren]] — the most isolated post in Atjeh — had its own history of darkness. The *Duivel op de Blang* crisis of [[1909]]–[[1910]] — *bloody misdrijven van militairen tegen militairen* — arose *om de vrouw* after the infantry garrison was replaced by a full maréchaussée division. On [[7 December]] [[1926]], a Gajoe murdered the sergeants Van Gent and De Gruiter *vóór de tangsi*; *de toegeschoten sergeant van den Broek sloeg den moordenaar met één houw het hoofd af, waarna de romp, waaruit het bloed spoot, nog enkele passen voortstrompelde om toen ineen te zakken* — *als een product der fantasie van Poe*.
+
+The traditions of the tangsi — the *tamoe-fonds*, the *gast der officieren* for every stranger, the *dardanellen* who kept order, the *fuiven* and *dansi-dansi* — were the *adat of the tangsi*. [[Matatoela]], the leading figure at Blang Kedjeren, *vöòrzingt, vöòrdanst en....vöòrdrinkt*. The *alarmoefening* with the *ting ting* of the bell was the tangsi's test; *het is voor een ieder duidelijk dat vooral bij een corps als dat der Maréchaussée respecteering van traditie noodig is.*
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

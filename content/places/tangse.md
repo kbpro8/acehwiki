@@ -63,3 +63,15 @@ Tangsé is significant in *[[Oom Ambon van het K.N.I.L.]]* as the geographical c
 
 - *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
 - *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Atjeh's Transport-Olifanten* and the chapter on den zieleherder.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] gives Tangsé its most detailed treatment: the valley that was the *heiligdom* of the Tiro-oelama's, *hoewel ieder man in Tangsé en omgeving de schuilplaats kende, zweeg men als het graf.*
+
+The *bivak Tangsé* was [[Schmidt]]'s base. On [[23 April]] [[1910]] Schmidt *rukte uit van Tangsé* with two brigades and eight days' *vivres*; on [[16 May]] [[1910]] he set out on the great encircling march over the Goenoeng Meureuseuë and Goenoeng Alimon that brought him to [[Tengkoe di Boekit|Tgk. di Boekit]]'s schuilplaats on [[21 May]] [[1910]]. The *keutjhi* of Tangsé, Bèn, was bound by custom to deliver an ox to [[Tengkoe Majet di Tiro|Tgk. Majet]] before the *slametan*; Schmidt gave Bèn the money to buy the ox, marched out [[31 August]] [[1910]] exactly two days after the ox-bearers entered the forest, and on [[5 September]] [[1910]] the last Tiro-oelama fell.
+
+When Tgk. Majet's body, its wounds bound, was brought to Tangsé, the people tore the bandages to pieces — *de zeer bevoorrechten die een stukje van het met bloed gedrenkte verband machtig werden* kept them as *reliquieën*, still in Tangsé, kept very secretly. Zentgraff repeatedly tried to photograph the grave beside the *mesdjid* but the bevolking refused: *want dit zijn dingen die vreemden niet aangaan*.
+
+In [[September]] [[1911]] the Hari Raja fell on the 25th, and some of [[Habib Teupin Wan]]'s men went into a Tangsé kampong for the celebration. This leaked out; on [[27 September]] Schmidt marched out with thirty maréchaussée's; on [[29 September]] the colonne, marching along the Aloeë Blang Djeuraloh, came upon the Habib's schuilplaats. The aged Habib fell with eight men, *zijn grijzen kop ongedekt voor de karabijnen*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

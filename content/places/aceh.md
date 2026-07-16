@@ -76,3 +76,9 @@ Traditional agriculture — rice, pinang (betel nut), rubber, copra, pepper, cof
 
 
 *DLP-84-Atjeh.pdf*, pp. 8-10.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] writes of Atjeh not as a colony but as a country — *le papier jaunissant, où l'on peut voir encor des larmes et du sang*. The land falls into three great zones: the North coast, with [[Koetaradja]] at its western end and [[Lho Seumawé|Lho Seumawe]], [[Pidie|Pidië]], and [[Sigli]] eastward along the *Atjehtram*; the Westkust, a wild forest-and-mountain country of *klewangaanvallen* with posts at [[Seunagan]], [[Djeuram]], [[Bakongan]], [[Kandang]], [[Lhong]], and [[Leupoeëng]]; and the central highland with the [[Gajoeland]] and its post at [[Blang Kedjeren]] and the [[Alaslanden]] along the Alas river. The *prang sabil* (holy war) was preached by [[Tengkoe Sjech Saman di Tiro]] and his sons; *hikajat prang* booklets passed from hand to hand; the *[[sjahid]]* was honoured and his grave kept secret; and the dead of the *Kompeuni* lay at [[Peutjoet]] and [[Indrapoeri]]. Zentgraff closes the book on the eve of the [[1940s]], knowing — though not stating — that the Japanese would arrive in [[1942]] and the maréchaussée divisions on the [[Blang Kedjeren|Blang]] and at Koeala Bee would face a new world.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

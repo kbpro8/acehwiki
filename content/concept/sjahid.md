@@ -40,3 +40,25 @@ The *sjahid* is significant in *[[Oom Ambon van het K.N.I.L.]]* as the religious
 ## Source
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]]'s account is the fullest treatment of the *sjahid* in the Atjeh-oorlog corpus. *In die harde dagen voor den Atjeher maar twee mogelijkheden: mèl of sjahid. Deze twee woorden hebben het lot van tienduizenden Atjehers bepaald.* One says: Pang Agam *mèl* in [[Lho Soekon]], and Teukoe X was *sjahid* at the Wojla — *mèl of sjahid, entweder oder*.
+
+### The burial rite
+
+*Is iemand als sjahid gevallen, dan heeft zijn lijk het gewone ceremonieel der dooden niet noodig omdat hij een der uitverkorenen van Allah is. Dus wordt het lijk van den sjahid niet gewasschen, noch gebaad, en er wordt aan geen ander voorschrift van den godsdienst de hand gehouden dan dat van de kiblat, de richting naar welke de Mohammedaan zich keert voor het gebed, dus naar Mekka.* The body of [[Tjoet Ali]] — *sjahid geworden op [[25 May]] [[1927]]* — was buried *vlak vóór het marschbivak [[Kandang]], met zijn gelaat naar Mekka. Want [[Gosenson]] wist, wat een eerlijk en dapper tegenstander toekomt.*
+
+### The Tiro-oelama's as sjahid
+
+The Tiro-oelama's *vrijwel allen kozen den dood boven de onderwerping, en zij vielen allen als sjahid*: [[Tengkoe Mat Amin di Tiro|Tgk. Mat Amin]] at [[Aneukgalong]] on [[28 March]] [[1896]]; [[Tengkoe Majet di Tiro|Tgk. Majet]] at [[Tangsé]] on [[5 September]] [[1910]]; [[Tengkoe di Boekit]] and *Habib Tjoet* on [[21 May]] [[1910]]; [[Habib Teupin Wan]] in [[September]] [[1911]]; [[Tengkoe di Barat]] in October [[1910]], *sjahid [...] en het was [[Mosselman]] die hem tot geloofsheld maakte*; [[Tjoet Meuthia]] at the Kroeëng Peutoeë overval on [[25 October]] [[1910]] — *de blanke vrouw met losgeraakte haren die tot elken prijs sjahid wilde worden*; [[Tjoet Ali]] on [[25 May]] [[1927]].
+
+### "Dit was Gods geheim"
+
+The body of the holy [[Tengkoe Tjot Plieëng]] — killed by the patrol of luitenant Terwogt — showed no sign of decomposition after several days. Even [[Panglima Polim]] was summoned for identification and *boog over het lijk dat niet stonk, te midden eener groep Atjehers die stom waren van eerbied*. *"Dit was Gods geheim"*, said the old Polim to Zentgraff at their last meeting.
+
+### The oelama of Peureula
+
+*Er is geen oorlog, dus men kan geen sjahid (martelaar voor het geloof) worden*, said the Oelama's of [[Peureula]] in [[1917]]; *dacht het volk er anders over, deze oorlog zou in de latere jaren een geheel ander karakter hebben gehad*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

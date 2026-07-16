@@ -45,3 +45,13 @@ The *klewang* is significant in *[[Oom Ambon van het K.N.I.L.]]* as the symbolic
 ## Source
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapters "De colonne Schmidt" and "De patrouille."
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* gives the fullest technical account of the klewang in the war. The young [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussée]] carried *een mixtum van Westersche en Oostersche dingen*: the *karabijn*, a klewang, and an Atjehsche *rentjong*. Their battle-cry was *Potong kepala!* — *en het gebruik van het vuurwapen zoodanig miskend dat dit dikwijls de situatie voor een vechtende brigade verslechterde*.
+
+The Acehnese master-stroke was the *houw bovenop*: *de traditioneele kap in den hals bij den linkerschouder, de coup de maître van den Atjeher als hij ongehinderd de klewang kan zwaaien — hij brengt hem toe met zóóveel élan dat het wapen langs de linkerzijde van den hals tot diep in de borstholte doordringt en de getroffene meestal in een minuut of tien doodbloedt.* The sixteen dead of the [[Meurandeh Paja massacre (1905)|Meurandeh Paja overval]] all bore this wound. The maréchaussée, trained in *schermoefeningen*, could do much more than the single *houw bovenop* and was thus *den Atjeher de baas* on the klewang.
+
+The most famous single klewang-blow in the Zentgraff corpus: when a Gajoe murdered the sergeants Van Gent and De Gruiter before the [[Blang Kedjeren]] tangsi on [[7 December]] [[1926]], *sloeg den toegeschoten sergeant van den Broek den moordenaar met één houw het hoofd af, waarna de romp, waaruit het bloed spoot, nog enkele passen voortstrompelde.* Atjehsche women carried the klewang too: [[Potjoet Barin]] went always with the *scherpe peudeueng* in hand; the wife of a *djahat*, seeing her husband dying, *nam zijn klewang en vloog op de brigade af — met één houw sloeg een maréchaussée haar den pols af, waarop zij met de andere hand het gevest, dat rood was van haar bloed, opraapte en opnieuw aanviel en vocht tot zij stierf*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

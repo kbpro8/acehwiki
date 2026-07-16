@@ -45,3 +45,13 @@ Bakongan is significant in *[[Oom Ambon van het K.N.I.L.]]* as one of the princi
 ## Source
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapters "Dominee Thenu" and "Thijs."
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* gives the fullest war-era account of Bakongan. The *kerkhof* holds a *dubbele grafzerk, van onder tot boven, en in twee rijen, bedekt met de namen der dooden van de patrouille van luit. Donner in 1905* — the mass grave of two Dutch patrols surprised on the same night in [[August]] [[1905]], one at kampong Rambong and one by Sibade, losing a total of twenty-three men: *EUR. FUS. LENKMAN No 52420, EUR. SERGT. W. SOEST No 47563, EUR. FUS. ADETJER No 54284, INL. KORP. KASMOREDJO No 40090*, and many others, *overvallen en gesneuveld op 12 Augustus 1905 en hier begraven*.
+
+Bakongan belongs to the country of *klewangaanvallen* and the *Paja Tjitcem* moeras — the *Vogelmoor* — through which [[Pang Nanggroë]]'s bende was pursued. In [[July]] [[1926]] kapitein [[Gosenson]] was based at Bakongan, also functioning as *controleur der Zuid-Atjehsche landschappen Kloeët en Troemon*.
+
+In [[May]] [[1927]] [[Tjoet Ali]] attacked the *marschbivak* [[Mengamat attack (1927)|Mengamat]] at half past three in the morning — new moon, pitch dark, soft rain — breaking through the *pagger* with six or seven men; all were killed, leaving eight Dutch wounded. Tjoet Ali himself was killed on [[25 May]] [[1927]] by Gosenson's brigade near Aloeë, and buried at the *marschbivak* [[Kandang]] opposite, with his face toward Mekka, *want [[Gosenson]] wist, wat een eerlijk en dapper tegenstander toekomt*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

@@ -47,3 +47,15 @@ The Gouvernement Atjeh en Onderhoorigheden was one of the most distinctive admin
 ## Source
 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118-130.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] gives a vivid account of the Gouvernement's governors and its civil-military tensions.
+
+The governor **Van der Heyden** — *die onder gunstiger omstandigheden de Van Heutsz had kunnen zijn eener vroegere periode* — was *afgedankt en weggezonden*, his *afzetting* one of the *beschaamder* episodes in the Atjeh-historie. **[[Joannes Benedictus van Heutsz|Van Heutsz]]** — who with [[C. Snouck Hurgronje|Snouck Hurgronje]] as advisor broke the *geconcentreerde linie* policy — rose from the Atjeh governorship to the landvoogdij; at the *overgave* in the [[Paleis op Rijswijk]] [[Heynen]] had the wacht. **[[G.C.E. van Daalen|Van Daalen]]** succeeded him as governor; it was he who changed the [[T. Tjhi Toenong]] death-sentence from the rope to the bullet. **[[H.N.A. Swart|Swart]]** succeeded Van Daalen in [[1909]] and *onmiddellijk* unleashed the *vernietigingsapparaat* under luitenant [[Schmidt]] against the Tiro-oelama's; it was Swart who confirmed the [[False T. Radja Sabi (1913)|false T. Radja Sabi]] mystification of [[1913]].
+
+On the civil-military tension: *Dit drijven: terugdringing van militair gezag en vervanging door civiel, ligt als een vloek op ons Atjehbeleid. Er staat in het boek der Atjehhistorie niet veel genoteerd dat beschamender voor ons is, en van grooter domheid getuigt*, than the *afzetting* of Van der Heyden. *Het burgerlijk bestuur [...] had dikwijls niet de grootheld van geest om te kunnen begrijpen, dat het op den achtergrond moet staan zoolang het Leger niet de volstrekt onmisbare voorwaarden heeft geschapen welke voor de volle functionneering van een civiel bestuur noodig zijn.*
+
+The *Inlandsch Bestuur* worked through *oeléëbalangs* appointed or confirmed by the Gouvernement. The *oeléëbalang baroh* of [[Keureutoe|Keureutoë]] — the Dutch-appointed one — held the *landschap* against the *oeléëbalang Toenong* (the traditional one in the mountains); the Gouvernement tried to keep both on the payroll. *Er ging of gaat vrijwel geen civiel gouverneur of resident van Atjeh met pensioen of hij heeft althans één maatregel getroffen, welke hij ziet als eene schrede verder op den weg der pacificatie van dit volk.*
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

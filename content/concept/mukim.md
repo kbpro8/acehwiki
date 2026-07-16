@@ -121,3 +121,11 @@ The [[Mukim|mukim]] is, in the [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] anal
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] uses *mukim* numbers as standard place-identifiers throughout *Atjeh*. The *VII Moekims Ateuë* in [[Groot-Atjeh]] was [[Habib Teupin Wan]]'s home territory: *hij hoorde eigenlijk thuis in de VII Moekims Ateuë, Groot-Atjeh, doch toen de Kompeuni daar het groote werk volbracht trok hij zich terug*. The governor's secret brief of [[17 July]] [[1893]], no. 559/K — cited in the chapter on Snouck Hurgronje's *Verslag* — listed salaries paid to *oeléëbalangs* of *IX Moekims* outside the occupied territory. The *XXVI Moekims* appear in the Tiro-oelama's ultimatum letter. The *IV Moekims* of the [[Lhong]] area were burned during the [[Lhong punitive expedition (1897)|Lhong punitive expedition]] in [[April]] [[1897]]: *den 25en werd Boekit Seboen genomen en een gedeelte van de IV Moekims verbrand, o.a. het huis van Oemar's vrouw te Anak Paja.*
+
+In the Boven-Wojla, the *Kawaj XII* federation — *Pameuë, [[Geumpang]], [[Tangsé]], Anoë en Ara* — was the country of [[Potjoet Barin]] and the [[2e Divisie Marechaussee|2e Divisie]]; *aan de namen merkt ge dat het hier gaat om het hart van het centrale bergland*. The *VII Moekims Baët* appear in the *djahat* list: *de djahat uit kampong L. Ara Toenoeng (VII Moekims Baët)*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

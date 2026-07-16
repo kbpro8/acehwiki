@@ -72,3 +72,13 @@ In the *Nederlandsch Indië Platen Atlas* ([[1926]]), Peutjoet stands alongside 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder.
 
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Plate 70.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] gives Peutjoet its most evocative description in the Atjeh-oorlog corpus. *Waar witte grafsteenen blikkeren in de schaduw der boomen* — where white grave-stones gleam in the shade of the trees — the dead of the war lie: [[Scheepens]], Webb, [[Campioni]], [[Darlang]] and many others whose *zuilen* (columns) bear names and portraits. *Na de soos-fuiven* of Saturday nights, the officers and their wives would walk among the rows on Sunday mornings.
+
+[[Scheepens]], Zentgraff records, used to say to his wife as their carriage rolled past Peutjoet: *"Wat een geluk, later hier te liggen tusschen de ouwe krijgsmakkers."* The wish was granted: he was stabbed at Sigli on [[10 October]] [[1913]] and buried at Peutjoet three days later. *Heel Atjeh was er bij toen Scheepens zijn laatsten rit maakte naar Peutjoet.* His wife bent over the dead and said: *"Je was nooit bang geweest voor den dood; je noemde hem: de groote rust. Het was altijd je verlangen op Peutjoet te liggen bij je oude kameraden, Webb, Campioni."*
+
+[[Joannes Benedictus van Heutsz|Van Heutsz]] once said, looking at the white stones: *that he had an idea he would lie here someday*. The body of luitenant De Bruijn — *gedood in den overval bij den loeëng bij Meulaboh op den dag dat hij had moeten trouwen* — was brought by the *kapal poetih* to Oeleë Lheuë and so to Peutjoet; *zijne bruidsjapon was al in Java besteld*. Bodies of common soldiers were buried at [[Indrapoeri]]; the bodies of officers came to Peutjoet. The *sul* (grave) of [[Darlang]] on Peutjoet is, Zentgraff notes, *een der meest treffende*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

@@ -338,3 +338,33 @@ The war's conclusion in [[1903]] enabled the Dutch to implement the [[Agrarische
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 267-275.
 
 *DLP-84-Atjeh.pdf*, pp. 6, 10.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* (1938) provides the most vivid eyewitness synthesis of the war as a whole. Several details from his account are not found in earlier sources.
+
+### The Köhler-boom
+
+[[J.H.R. Köhler|Köhler]] was killed on [[8 April]] [[1873]] beside a tree at the edge of the *mesdjid* at [[Koetaradja]]. The *Köhler-boom* stood for more than sixty years as a landmark; it was felled only in [[1936]]. A table was made from its lower trunk for the *Atjeh-museum*; two bullets were found in the bark at a man's height. Each *divisie* that passed through Koetaradja provided wine for visitors to drink at the spot: *een glaasje wijn gedronken op den man, die op dezen plek is gevallen*.
+
+### The geconcentreerde-linie period
+
+The *geconcentreerde linie* period was bounded by the *bentengs* of Tjot Mantiang, Biloel, and Bivak Glé Nanggroë. [[Tengkoe Koetakarang]]'s *[[Tadkirat arrakidin]]* — the *Vermaning der stilzittenden* — sneered at the Dutch for sending *vergiftigde geschenken* and *geneesheeren die als spionnen dienstdoen*. [[C. Snouck Hurgronje|Snouck Hurgronje]] had warned against the *domme politiek* of giving [[Teukoe Oemar]] Dutch pay and Dutch weapons; the [[Defection of Teukoe Oemar (1896)|overloopen of 1896]] proved him right.
+
+### The Gajoetocht: specific numbers
+
+The [[Gajoetocht (1904)|Gajoetocht]] ran from [[18 March]] to [[3 June]] [[1904]]. [[G.C.E. van Daalen|Van Daalen]]'s colonne took the bentengs of Klah, Pepareq (**308 dead**), Penampakan, Koeto Lintang (**561 dead**), Koeto Reh, Reket-Goip, Bambel, killing *meer dan vier duizend Gajoes* in total. *De Gajoes laten hunne tijdrekening beginnen met de komst van Van Daalen's colonne* — the Gajoes date their modern era from Van Daalen's coming.
+
+### The Tiro-oelama deaths
+
+The deaths of the Tiro-oelama's fell on specific dates: [[Tengkoe di Boekit]] and *Habib Tjoet* on [[21 May]] [[1910]]; [[Tengkoe Majet di Tiro|Tgk. Majet]] on [[5 September]] [[1910]], the *last Tiro-oelama*; [[Tengkoe Tjhi Maät di Tiro|Tgk. Tjhi Maät]] on [[9 December]] [[1910]], closing *het epos der Tiro-oelama's*.
+
+### The Westkust
+
+The Westkust continued to resist long after the highland campaign was over. [[Tjoet Ali]] was killed on [[25 May]] [[1927]] near the marschbivak [[Kandang]], buried as a *[[sjahid]]* with his face toward Mekka by *[[Gosenson]]*, who knew *wat een eerlijk en dapper tegenstander toekomt*.
+
+### The toll
+
+*Naar eene uiteraard zeer globale schatting zijn, nà Van der Heyden's aftreden, noor ruim 30.000 Atjehers gesneuveld.* On the Dutch side: *alleen in de periode van 1890 tot en met 1914 de verliezen van ons Leger, aan dooden en gewonden, 7707 officieren en minderen hebben bedragen.* Responsibility, Zentgraff writes, *wanneer zij in menschenlevens en in bloed kan worden afgewogen, is zeer zwaar*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

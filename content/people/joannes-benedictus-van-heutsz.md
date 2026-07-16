@@ -329,3 +329,29 @@ The DLP-84 entry also notes that, as Governor-General of the [[Dutch East Indies
 *DLP-84-Atjeh.pdf*, pp. 4-5.
 
 *DLP-84-Atjeh.pdf*, pp. 5-6.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] credits Van Heutsz — with [[G.C.E. van Daalen|Van Daalen]] — as the man *die den heerlijken offensieven geest er is ingebracht* (who brought in the glorious offensive spirit) that turned the [[Aceh War|Atjeh-oorlog]] after the humiliating years of the *geconcentreerde linie*. To the Atjehmannen he remained always *"de generaal"*, in their eyes *nog wat meer dan Gouverneur-Generaal*.
+
+### The 1896 Aneukgalong overval
+
+At half past midnight on [[28 March]] [[1896]] — the day after the [[Defection of Teukoe Oemar (1896)|overloopen]] of [[Teukoe Oemar]] — *overste* Van Heutsz marched from [[Lambaroe]] on the [[Aneukgalong]] benteng with two battalions and the maréchaussée, his chef-staf *kapitein* [[G.C.E. van Daalen|Van Daalen]] at his side. By 5 a.m. the hand-to-hand fighting inside the benteng was over; the Atjehers left 110 dead, including [[Tengkoe Mat Amin di Tiro|Tgk. Mat Amin]]. With Van Daalen as *chef van den staf*, Van Heutsz began the *schoonmaak in Groot-Atjeh*.
+
+### The great raids, 1898–1901
+
+He *werkte het programma systematisch af*: in [[1898]] the tocht to [[Pidië]] and then to [[Tangsé]]; in [[1898]]–[[1899]] to Peusangan and Pasé; then through the coastal country from [[Simpang Olim]] to Idi; on [[25 June]] [[1901]] — his *verjaardag* (birthday) — the famous [[Bateë Iliq (1901)|Bateë Iliq]] in Meureudoe and Samalanga. Under his *groote capitaines*, the troops were *vroolijk kinderen van den roem* (merry children of fame).
+
+### The human side
+
+Van Heutsz *was in den regel erg gemoedelijk* (was generally very genial), but could be *heftig en scherp persoonlijk* — once, before all the officers of his returning colonne, he bellowed at a captain who had reported himself sick before *uitrukken*: *"Wie is die man? Ik wil het gezicht van dien vent niet meer zien!"* He took the orphaned daughter of a friend into his home and paid all the costs of her wedding, the *bruidsjapon* ordered from [[Java]]. When the *kapal poetih* arrived at [[Oeleë Lheuë]] with the body of luitenant De Bruijn — who should have been married that Sunday — Van Heutsz had to tell the bride. He later said it was the *beroerdste boodschap* (worst message) he ever had to deliver, *"als of iemand hem een mes in de handen had gestopt met de uitnoodiging: steek haar dat in de borst."* He also tolerated, with amusement, the lady who tore open his *eigenhandig geheim* despatch on the [[Oeleë Lheuë]] wharf: *"Beste meid, maak je maar niet bezorgd; 't is in orde."* For the men he bought his *zeildoeksche schoenen* for f 1.25 *bij den Chinees op Peunajong*.
+
+### The Tangsé march and the Benit kloof
+
+On the march over the watershed into the Tangsé valley — *die nog een en al geheim voor ons was* — Van Heutsz lost a shoe in the kloof of Benit. Brigadecommandant [[Heynen]] was at his brigade nearby. He paid for his shoes at the same Chinese shop as the underofficers.
+
+### The Rijswijk overgave
+
+At the *overgave der Landvoogdij* in the [[Paleis op Rijswijk]] when he laid down the Governor-Generalship, [[Heynen]] — by then *politieopziener* at Batavia — held the wacht on the courtyard. Van Heutsz, half-undressed in a room opening onto the erf, saw him, threw open the window, and cried: *"Present, generaal?"* Heynen stood *stram in de houding*. Van Heutsz waved his gold-embroidered coat: *"Het zit er goddank op, Heynen!"* — *"Wel gefeliciteerd, generaal."* After one more *groot-saluut* with the coat, he nodded cheerfully and threw off the last *kleedingkluisters*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

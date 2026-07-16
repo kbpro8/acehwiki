@@ -46,3 +46,13 @@ In the early twentieth century the colonial army maintained a temporary *marsbiv
 - *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Sloebers*.
 - *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 - *DLP-84-Atjeh.pdf*, p. 8.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* contains the fullest account of the [[Lhong punitive expedition (1897)|Lhong punitive expedition]]. After [[Teukoe Oemar]] was driven from Leupoeëng, he *nestelde hij zich daar weer na het vertrek onzer troepen*. The *landschap* Lhong was fined *f 30.000* for its *oeléëbalang*'s *heulling* with the enemy. *Lhong betaalde niet, kon niet betalen; in dat weinig bevolkte en arme gebied waren onmogelijk 30.000 bij elkaar te krijgen.* The high command at Koetaradja, instead of correcting the error, ordered the cattle seized and shipped in *prauwen* to Koetaradja.
+
+[[G.C.E. van Daalen|Kapitein Van Daalen]]'s pencil-notes from Bivak Tamoen, [[22]]–[[27 April]] [[1897]], record his disgust: *"Teukoe Lehong heeft nog geen cent betaald. 't Is bepaald komisch zooals die heele geschiedenis hier loopt door het slechte beleid van de hooge lui te Koetaradja."* On [[25 April]]: *"'t Is beschamend en ik verlang daarom ook om hiervandaan te komen."* On [[27 April]]: *"Arme drommels!"* Part of the assembled animals died before embarkation from lack of food. When the cattle still did not cover the fine, a house-to-house search was made and the women's gold and silver ornaments — ankle-rings, bracelets — were seized. The women stood *trotsch en vol felle haat [...] tusschen de geladen geweren der soldaten, en zij spuwden hen hare woede en minachting voor de voeten*. *Het was geen oorlog meer doch eene wraakoefening, deels op onschuldigen, welke tevens eene beleediging van ons leger werd.*
+
+In [[1933]] a new rising — eleven widows and twenty orphans — broke out at Lhong; *Tgk. Doellah*, killed there in [[1933]], was found with *hikajat prang* booklets on his body. In [[1935]] the resistance flared again. Zentgraff quotes his own article in *Sumatraantjes*: *"Zóó spuwden de vrouwen van Lhong in 1897, en zóó spuwden zij in 1933 voor de voeten van den gouverneur en den militairen commandant."*
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

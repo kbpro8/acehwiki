@@ -70,3 +70,27 @@ The **Marechaussee in Aceh** was the [[Korps Marechaussee van Atjeh en Onderhori
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapters "Van recruut tot pensioen," "De buitenpost," "Ooms leger," "De colonne Schmidt," "Dominee Thenu," "Thijs," and "De patrouille."
 *In Memoriam Maurice Henri du Croo* (1951), pp. 5, 6, 10, 20 (references to Marechaussée in Atjeh and du Croo's service with the corps).
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+### Formation: the djaksa's advice
+
+[[H.C. Zentgraff|Zentgraff]] records the founding of the Korps Maréchaussée as beginning with the advice of *hoofddjaksa* [[Mohamad Arif]] of [[Koetaradja]], whose *overzicht* for the [[2 April]] [[1930]] jubilee was prepared by [[Struijvenberg|Kapitein Struijvenberg]]: that the colonial troops were on the wrong road, that the Atjeher would never be won by a defensive *geconcentreerde linie*, and that the only remedy was a number of soldiers chosen for personal courage and self-trust, armed like the resistance with the blanke wapen, organised in mobile detachments that would *go and seek the Atjeher instead of waiting for him*. The advice met with the *onverdeelde afkeuring* of [[C. Snouck Hurgronje|professor Snouck Hurgronje]], who in his *Verslag over de politiek-religieuze toestanden in Atjeh* tore both the *hoofdpenghoeloe* Hadji Abdoelah and the *hoofddjaksa* to pieces. Despite Snouck's *felle critiek*, Mohamad Arif's advice prevailed; the korps was formed in [[1890]] and [[Notten|kapitein Notten]] became its first commander.
+
+### The mixtum weapon
+
+The young korps carried *een mixtum van Westersche en Oostersche dingen* — *underofficers* and men the *karabijn*, but also a [[Klewang|klewang]] and an Atjehsche [[Rentjong|rentjong]]. *Een opmerkelijk verschijnsel*: even the Javanese maréchaussée's *droegen schoenen*, in days when the Inlandsche infantry went barefoot. A brigade was small: *hoogstens één baas met achttien karabijnen en klewangs* — one European sergeant (*baas*) with eighteen Ambonese, Menadonese or Javanese maréchaussée's. Their war-cry was *Potong kepala!* — *cut the head!*
+
+### The geconcentreerde-linie period
+
+In the *slappe periode der geconcentreerde linie* the korps was held back; three letters of the governor of [[10 September]], [[26 October]], and [[21 December]] [[1892]] forbade *offensief optreden in het voorterrein door hinderlagen of patrouilles van Uw korps*. After the [[Defection of Teukoe Oemar (1896)|overloopen van Teukoe Oemar]] in March [[1896]] — *den moreelen kaakslag* that broke the pacifist policy — the korps came into its own under [[Joannes Benedictus van Heutsz|Van Heutsz]] and [[G.C.E. van Daalen|Van Daalen]]. The [[Fall of Aneukgalong (1896)|overval of Aneukgalong]] of [[28 March]] [[1896]] showed what the brigades could do; the [[Gajoetocht (1904)|Gajoetocht]] of [[1904]] made them famous.
+
+### The two divisions
+
+By the late [[1920s]] the korps was organised in divisions. The [[1e Divisie Marechaussee|1e Divisie]] lay at [[Blang Kedjeren]] in the Gajoe-Loeës, the most isolated post in Atjeh; the [[2e Divisie Marechaussee|2e Divisie]] at Koeala Beh near the mouth of the Tripa in the Meulabosche. The *maréchaussée-lied* runs: *Divisie satoe djaga poetjoet Tripa, Divisie Doewa djaga koeala* — the first watches at the source of the Tripa, the second at its mouth.
+
+### Traditions of the korps
+
+The korps kept its traditions tight. A *tamoe-fonds* — every *ventje* contributed his share — feasted any patrol that came in from elsewhere; for the officers every stranger in the *ressort* was *gast der officieren*. The five strokes on the klok of the bivak announced the returning patrol. The *dardanellen* — figures of importance like Renjaan, *dardanellen van kapitein Gortmans* — kept order in the bivaks; the *lontjeng maréchaussée*, the cicade that chirped at ten minutes before six, marked the post of the schildwacht. The 40-year jubilee of [[2 April]] [[1930]] was celebrated as a *Kandoeri Rajeu* — a great slametan — both in Indië, where luit.-gen. H. A. Cramer went himself to Atjeh, and in Den Haag, where the *Witte* dinner gathered [[Hendrikus Colijn|minister Colijn]], [[H.N.A. Swart|luit.-gen. Swart]], [[Veltman|gen. maj. tit. Veltman]], [[Kempees|luit.-kol. Kempees]], [[Van Gheel Gildemeester|kol. van Gheel Gildemeester]] and the rest of the photograph. Zentgraff closes: *Er was bij geen enkel korps zoo mooie kameradschap als bij dit, zooveel onderling vertrouwen en zelfbewustheid, zooveel gezonde eerzucht.*
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

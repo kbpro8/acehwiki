@@ -133,3 +133,9 @@ The *DLP-84-Atjeh* pamphlet records that the interior highland region of [[Groot
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pp. 471‑472.
 
 *DLP-84-Atjeh.pdf*, p. 8.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] identifies Groot-Atjeh with the *geconcentreerde linie* period that preceded Van Heutsz's offensive. The *geconcentreerde linie* was bounded by the *bentengs* of Tjot Mantiang, Biloel, and Bivak Glé Nanggroë. In this period [[Teukoe Oemar]] drew Dutch pay and Dutch weapons as a *bondgenoot*, and the [[Tengkoe Sjech Saman di Tiro|Tiro-oelama's]] wrote their letters summoning the governor to embrace Islam; [[Tengkoe Koetakarang]]'s *Tadkirat arrakidin* — the *Vermaning der stilzittenden* — sneered at the *éénoogige generaal* [[Van der Heyden]]. The [[Fall of Aneukgalong (1896)|overval of Aneukgalong]] on [[28 March]] [[1896]] — at half past midnight from Lambaroe with 110 dead including *Tgk. Mat Amin* — was the break from the *geconcentreerde linie*. [[Habib Teupin Wan]] *hoorde eigenlijk thuis in de VII Moekims Ateuë, Groot-Atjeh, doch toen de Kompeuni daar het groote werk volbracht trok hij zich terug* into the mountains of Tangsé. Groot-Atjeh, the core of the old Sultanate, was the first major zone of effective Dutch pacification.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

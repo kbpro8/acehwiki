@@ -98,3 +98,8 @@ The gold spectacles with extendable parts are a particularly unusual and intrigu
 *De geschiedenis van Nederland in onzen tijd*, door J.A. de Bruyne. Amsterdam: Uitgeverij "De Bussy," 1912.
 
 *Gids voor den bezoeker van de schatkamer*, Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen, Batavia, 1928. Druk: Ruygrok & Co., Batavia. Cabinet 3 (Atjeh), items 2–42.
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* gives the fullest account of the [[Simpang Olim klewangaanval (1902)|klewangaanval of 22 August 1902]]. [[T. Tjhi Toenong]], having received intelligence from spies about the route of a Dutch transport under escort of 20 bayonets from Simpang Olim, laid a *hinderlaag* in the tall *alang-alang* next to the path near Meunasah Djeuro. His men fell on the troep with the klewang and *sloegen hem volkomen uit elkaar*. In the first rush 7 soldiers were killed and the commandant was wounded with 2 men. Three Inlandsche militairen fled, but the European soldier Fortier held the remnant together until luitenant [[Van Gheel Gildemeester]] arrived with 40 men. The attackers disappeared with 5 Dutch rifles. Memorial stones at Simpang Olim commemorate the fallen.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

@@ -475,3 +475,55 @@ Every year referenced anywhere in the wiki, linking to a page listing all the pe
 - [[1954]]
 - [[1955]]
 - [[1956]]
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+The following events are drawn from [[H.C. Zentgraff|H.C. Zentgraff's]] *Atjeh* (Batavia: Drukkerij "De Unie", [[1938]]), an episodic journalistic history of the [[Aceh War|Atjeh-oorlog]] organized around the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussée]]. Zentgraff's account supplements the general timeline with precise dates and intimate detail not found in official colonial sources.
+
+- **[[8 April]] [[1873]]** — Gen.-maj. [[J.H.R. Köhler]] is killed under the *Köhler-boom* at [[Koetaradja]]; the First Expedition ends in *schande en vernedering*
+- **[[1874]]** — Second Expedition; *geforceerd optimisme* in official reports; Dutch claim control they do not have
+- **[[1878]]** — [[Habib Abdoerrachman el Zahir]] submits; afkoop (*Falderaldera-lied* sung by soldiers); departs for Mekka; [[Rudolf Macleod]] brings [[Mata Hari|his future wife]] to Atjeh
+- **[[1884]]** — Habib issues his memorandum from Mekka as Regent-designate; warns the Dutch of what the *prang sabil* will become
+- **[[1885]]** — [[Tiro-oelama's ultimatum letter (1885)|Ultimatum letter]] from the Tiro-oelamas to Resident [[van Langen]]: *of tot den Islam overgaan of met geweld te worden verjaagd*
+- **[[1888]]** — Minister [[Keuchenius]] replies to the *prang sabil* with Sura 2 verse 257 (*la ikraha fi 'd-din*)
+- **[[2 April]] [[1890]]** — [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussée]] founded; first commander [[Notten]]; *jakhals-raad* of djaksa [[Mohamad Arif]] and colonial expert
+- **[[10 September]] [[1892]]** — First of three governor's letters forbidding offensive operations; marks the *geconcentreerde-linie* period
+- **[[1892]]** — [[C. Snouck Hurgronje|Snouck Hurgronje's]] *Verslag*; [[Tadkirat arrakidin]] edited by Tengkoe Koetakarang as *prang sabil* tract
+- **[[28 March]] [[1896]]** — [[Fall of Aneukgalong (1896)|Aneukgalong overval]] — *half past midnight from Lambaroe*, 110 dead including [[Tengkoe Mat Amin di Tiro|Tgk. Mat Amin]]
+- **[[February]] [[1896]]** — [[Teukoe Oemar]] defects; Dutch *bestuur* stripped of five thousand troops by 8 May
+- **[[1897]]** — [[Lhong punitive expedition (1897)|Lhong punitive expedition]]: f 30,000 fine, cattle seizure, women's jewellery stripped; Van Daalen writes *"geen oorlog meer doch eene wraakoefening"*
+- **[[1898]]** — [[Joannes Benedictus van Heutsz|Van Heutsz]]'s raids through [[Pidië]] and [[Tangsé]]; beginning of the offensive system
+- **[[February]] [[1899]]** — [[Teukoe Oemar]] killed near [[Meulaboh]]; his messengers covered eighty kilometres a day *als hazen*
+- **[[25 June]] [[1901]]** — [[Bateë Iliq (1901)|Bateë Iliq]] taken on Van Heutsz's *verjaardag*; [[Koeta Blang Djeurat]] stormed on [[31 December]] [[1901]]
+- **[[22 August]] [[1902]]** — [[Simpang Olim klewangaanval (1902)|Simpang Olim klewangaanval]]: seven soldiers killed in the first rush; five Dutch rifles captured
+- **[[5 October]] [[1903]]** — [[T. Tjhi Toenong]] submits at [[Lho Seumawé]]; *een wanhopige poging* of the old order
+- **[[18 March]]–[[3 June]] [[1904]]** — [[Gajoetocht (1904)|Gajoetocht]] under [[G.C.E. van Daalen|Van Daalen]]: Pepareq 308 dead, [[Koeto Reh]] 561 dead, four thousand Gajoes in total; *Gajoes laten hunne tijdrekening beginnen met de komst van Van Daalen's colonne*
+- **[[26 January]] [[1905]]** — [[Meurandeh Paja massacre (1905)|Meurandeh Paja massacre]]: sergeant Vollaers patrol, sixteen killed; [[H.N.A. Swart|Swart's]] forced march eighty kilometres a day in response
+- **[[5 March]] [[1905]]** — [[T. Tjhi Toenong]] executed on the beach at [[Lho Seumawé]]
+- **[[1906]]** — [[Schmidt]] at [[Djeuram]]; fighting [[Tengkoe Poetih]] in [[Seunagan]]
+- **[[November]] [[1907]]** — [[T. Tjhi Bentara]] restored as *oeléëbalang* of [[Keureutoe]]; [[Pang Nanggroë]] elevates [[T. Radja Sabi]] as forest *oeléëbalang*
+- **[[1908]]** — [[Schmidt]] assigned to destroy the [[Tiro-oelama]] benden by Governor [[H.N.A. Swart|Swart]]
+- **[[1909]]** — *Duivel op de Blang* crisis at [[Blang Kedjeren]]: four *ernstige gevallen* of murder and suicide
+- **[[2 May]] [[1910]]** — [[Peutoea Gam Masèn]] killed by Van Dongelen's *hinderlaag*
+- **[[21 May]] [[1910]]** — Schmidt's *overval* of Tiro schuilplaats: twelve dead including [[Tengkoe di Boekit|Tgk. di Boekit]] and Habib Tjoet
+- **[[5 September]] [[1910]]** — [[Tengkoe Majet di Tiro|Tgk. Majet]] killed on a *rotshelling* in [[Tangsé]]
+- **[[25 October]] [[1910]]** — [[Tjoet Meuthia]] and [[Tengkoe Sjech di Paja Bakong (Seupot Mata)|Tgk. Seupot Mata]] killed by [[Mosselman]] at the Kroeëng Peutoeë
+- **[[25 September]]–[[26 September]] [[1910]]** — [[Pang Nanggroë]] killed by Van Slooten
+- **[[9 December]] [[1910]]** — [[Tengkoe Tjhi Maät di Tiro|Tgk. Tjhi Maät]] — last of the Tiro family — killed by Nussy
+- **[[27 May]] [[1911]]** — Tgk. Oeléë Toetoë killed by Schmidt's brigades
+- **[[29 September]] [[1911]]** — [[Habib Teupin Wan]] killed by Schmidt's brigade at the Aloeë Blang Djeuraloh; *Zijn dood sloot het epos der Tiro-oelama's af*
+- **[[1912]]** — [[Tengkoe di Barat|Death of Tengkoe di Barat]]: wife placed herself before him, one bullet killed both; hunt for [[T. Radja Sabi]] continues
+- **[[10 October]] [[1913]]** — [[Scheepens murder (1913)|Scheepens murder]] at [[Sigli]] *moesapat*; died at 5:15 AM; buried at [[Peutjoet]]
+- **[[6 December]] [[1913]]** — [[False T. Radja Sabi (1913)|False T. Radja Sabi]] affair at [[Lho Soekon]]
+- **[[16 July]] [[1917]]** — [[Tengkoe di Paja Bakong (Mata Ië)|Tengkoe di Mata Ië]] killed near [[Samarkilang]]
+- **[[13 March]] [[1919]]** — [[T. Radja Sabi]] submits at [[Lho Seumawé]]: *Nuu is het uit met dat zwerven; nu moet je mèl!*
+- **[[October]] [[1925]]** — [[Westkust resistance (1925-1927)|Westkust resistance]] breaks out in the southern settlements
+- **[[7 December]] [[1926]]** — Sergeants Van Gent and De Gruiter murdered at [[Blang Kedjeren]] *tangsi*
+- **[[25 May]] [[1927]]** — [[Tjoet Ali]] killed at [[Kandang]] by [[Gosenson]]'s brigade; buried face toward Mekka; *[[sjahid]]*
+- **[[2 April]] [[1930]]** — 40-year jubilee *Kandoeri Masoesé* of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussée]]
+- **[[1933]]** — Lhong *verzet* (dertien mannen); death of [[Potjoet Barin]]
+- **[[1936]]** — *Köhler-boom* at [[Koetaradja]] felled; table made for the Atjeh-museum; two *kogels* found in the *schors*
+- **[[1937]]** — [[T. Radja Sabi]] appointed *waarnemend oeléëbalang* of [[Keureutoe]]
+- **[[8 April]] [[1938]]** — Publication of [[H.C. Zentgraff's Atjeh (1938)|H.C. Zentgraff's *Atjeh*]] at Batavia; dated to the 65th anniversary of Köhler's death
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

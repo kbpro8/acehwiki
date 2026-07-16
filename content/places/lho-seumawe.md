@@ -95,3 +95,11 @@ Lhôseumawè was also the seat of the *Afdeelingsbank "Lhôseumawè"*, one of th
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 28–30, 70–72, 126, 213–217, 227–229.
 
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 198–199. Rijksarchief, Den Haag.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* records three decisive scenes at Lho Seumawé. On [[5 October]] [[1903]] [[T. Tjhi Toenong]] and his followers came in to Lho Seumawé; he was *genadig behandeld* and permitted to live in [[Keureutoe]]. In the days before [[5 March]] [[1905]] he was permitted to receive his wife [[Tjoet Meuthia]] and made her swear to bring up their son in hatred of the *kaphé* and marry [[Pang Nanggroë]]; then *s morgens vroeg* he walked to the sea-strand where a *sectie militairen* was drawn up and was executed. His grave, with that of T. di Boeah, lies on the strand; both are photographed in Zentgraff's book.
+
+In [[December]] [[1913]], the false [[T. Radja Sabi]] was brought down from the mountains; the *bedoegs* were beaten, hundreds gathered in a procession, and governor [[H.N.A. Swart|Swart]] convened an assembly at Lho Seumawé at which he said: *"De jongen is Teukoe Radja Sabi"* — and not one of the assembled chiefs protested. On [[13 March]] [[1919]] the real [[T. Radja Sabi]] — after fourteen years in the forests — walked into Lho Seumawé; a former *kawan* seized his arm: *"Nuu is het uit met dat zwerven; nu moet je mèl!"* From Lho Seumawé, [[H.N.A. Swart|Swart]] *joog met eene patrouille in den gemeensten marsch naar Meurandeh Paja* after news of the [[Meurandeh Paja massacre (1905)|massacre of 26 January 1905]] arrived: *achtti uur achter elkander marcheerend, bijna 80 km per dag*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

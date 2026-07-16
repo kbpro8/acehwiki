@@ -115,3 +115,13 @@ The proposed combination of the Alaslanden with the Karo lands in the Deli-based
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 32, 50, 253. Rijksarchief, Den Haag.
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter IV, Chapter V § 3.
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 114, 358.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] describes the Alaslanden from personal travel along the road from Lawé Aoenan (also known as Goenoeng Setan) to [[Blang Kedjeren]]. The road runs along the left bank of the Alas river: *rechts loopt de lange keten van het Wilhelminagebergte; links jaagt de Alas haar water met donderende stem over de ontelbare rotsblokken in de breede, ondiepe bedding.* At Liang — a hamlet with a *keudétje* — lies the border between the Alaslanden and the Gajoe Loeös; *op de keudé waar men nasi goreng kan eten is op een plank geschilderd: Grenssteen. Douane.*
+
+From Koenké, about a thousand metres above sea level, the great *wildreservaat vanaf den rechteroever der Alas tot den Goenoeng Loser* stretches out, *waarin olifant en rhinoceros veilig zijn voor den pawang badak*. It was here that Zentgraff heard the *lontjeng maréchaussée* — the cycade that chirped at ten minutes before six: *op het geluid dezer cycade gaat de schildwacht op post.*
+
+The Alaslanden were also accessible from [[Koeala Simpang]] on the east coast. The *vrouwentransport* for the [[Blang Kedjeren]] division went by *prauw* from Koeala Simpang to Kaloeë, then on foot to Pendeng, then over the Boer ni Gadjah (Elephant Mountain): *op het hoogste punt van het pad gekomen, zag je Blang Kedjeren en omgeving liggen*. Of the brigades that marched through the valley Zentgraff writes: *Het was een genot, een goede maréchaussée-patrouille onder zulke leiding in het bosch te zien: a thin line of heroes.*
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

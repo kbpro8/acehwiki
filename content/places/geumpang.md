@@ -46,3 +46,13 @@ Geumpang is significant in two distinct phases of the Aceh War and its aftermath
 
 - *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
 - *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Atjeh's Transport-Olifanten* and the chapter on den zieleherder.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]]'s account adds details of [[Schmidt]]'s tactics from the Geumpang bivak and the death of a Menadoneesche sergeant there. In [[1908]] governor [[H.N.A. Swart|Swart]] gave Schmidt — *die juist mooi werk had gedaan in Geumpang en Teunom* — the order to devote himself wholly to the *opsporing, eventueel vernietiging* of the Tiro-oelamas. Schmidt's reasoning at Geumpang: *als ik een eind in het binnenland, langs den zuidrand van den Goenoeng Meureuseuë en den Goenoeng Alimon, door het bosch een pad kap, dan moet dit ergens het pad snijden dat de fourageurs nemen* — the paths from Pidië, Tangsé, and Geumpang must converge near the *schuilplaats*.
+
+The captured young son of [[Tengkoe Majet di Tiro|Tgk. Majet]] told Schmidt that a *djagoeng* ladang lay at the upper stream of the Aloeë Simi: *das vader droeg schoenen, zijn ladang lag dáár* — the father was found and killed not far from the ladang.
+
+When Schmidt's brigades at Geumpang climbed a slope so steep that they crawled on hands and knees, a Menadoneesche sergeant *aarzelde geen moment* and placed himself before Schmidt as a shield. A moment later he fell, shot through the heart. Schmidt buried him in the bush; the Menadoneesche maréchaussée's sang *'t Hijgend hert der jacht ontkomen* over the grave. Zentgraff photographs the *olifantentransport tusschen Lam Meulo Tangsé en Geumpang* — the only practical way to move heavy goods and wounded across the great forest.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

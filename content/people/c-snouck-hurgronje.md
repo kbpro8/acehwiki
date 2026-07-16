@@ -230,3 +230,17 @@ Kreemer also records the legend **"De blauwe Prinses in het Gajömeer"** (*Pët�
 *DLP-54: Een 16de eeuwse Maleise vertaling van de Burda van al-Būṣīrī* (OCR text 20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt), pp. 31–32.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] records Snouck Hurgronje's *Verslag over de politiek-religieuze toestanden in Atjeh* ([[1892]]) as the source of *zeer onaangename dingen* (very unpleasant things) about the Acehnese establishment and colonial administration alike.
+
+Of the *hoofdpenghoeloe* of [[Koetaradja]], [[Hadji Abdoelah]], Snouck wrote that he was *"een schaamteloozen, onzedelijken, even brutalen als onkundigen schelm, in Atjeh geboren zoon van een Indisch bedelaar en eene slavin…"* — a shameless, immoral, as brazen as ignorant rogue. Of the *hoofddjaksa* [[Mohamad Arif]] he wrote that he was *"de toean besar sastrar van Atjèh"* but *"in hooge mate omkoopbaar, willekeurig en tyranniek"* (highly corruptible, arbitrary, and tyrannical), a man who lived beyond his salary and lent money at *grobe rente* (gross interest) to Atjeh chiefs.
+
+The governor of Atjeh answered Snouck in a despatch that defended Mohamad Arif: *"Gelijk alle eenzijdig ingelichten, ulterate vlug in het oordeelen, vergat Dr. SNOUCK HURGRONJE het, 'hoor en wederhoor' ook tegenover dezen ambtenaar in acht te nemen… Ware de Heer SNOUCK eenigszins bekend met het terrein… dan zou hij zich een begrip hebben kunnen vormen van den laster, waaraan een djaksa blootstaat die, als MOHAMAD ARIF, honderden heeft moeten vervolgen gedurende zoovele jaren alhier."*
+
+In the same *Verslag* Snouck had argued that Atjeh could only be subdued *door een energieken krijg* (by an energetic war), and that the instelling der *geconcentreerde linie* *het juiste begrip van onze macht bij den Atjeher zou hebben geschokt*. The governor answered in a *zeer geheimen* brief of [[17 July]] [[1893]] no. 559/K to the Governor-General that he could not concede this — it was, Zentgraff comments, *de trouvaille op het gebied eener prettige en onbloedige strategie* (the discovery in the field of a pleasant and bloodless strategy): the way to make the enemy harmless was to stay out of contact with him.
+
+Snouck also edited, in his *rapport van 1892*, the *vlugschriften* (pamphlets) of the Acehnese *oelama* [[Tengkoe Koetakarang]] under the title *[[Tadkirat arrakidin]]* — *Vermaning der stilzittenden* (Exhortation of the sit-stillers) — bringing Koetakarang's harsh verdict on Dutch bad faith (the banishment of *generaal éénoog* [[Van der Heyden]]) before the Dutch reading public.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

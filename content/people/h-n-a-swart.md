@@ -252,3 +252,21 @@ The [[Raad van Indië]]'s recommendation of [[Swart (colonel, Atjeh)|Swart]] in 
 *Melati en rotan: Gedichten van F. Kunst, pentekeningen van Johanna Roberti* (Bandoeng: Vacuüm-Handel Maatschappij Vortex en Uitgeverij en Boekhandel W. Mellink, [[1947]]), p. 41 ("*Bij den dood van Generaal Swart, den pacificator van Atjeh*").
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), p. 273.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] portrays Swart as the governor who completed Van Daalen's work by different means. He appears at no. 6 in the front rank of the 40-year jubilee photograph of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussée]] of [[2 April]] [[1930]]: *"Luit. Gen. H. N. A. Swart"*.
+
+### The Meurandeh Paja massacre, 26 January 1905
+
+At the time of the [[Meurandeh Paja massacre (1905)|Meurandeh Paja massacre]] of [[26 January]] [[1905]], Swart was *commandant te Lho Seumawé*. He received news of the massacre *lang vóór deze een der garnizoenen kon bereiken* — long before the single fusilier who escaped could reach a garrison — because such messages ran through Atjeh *als hazen* (like hares), each *keudé* passing the message to a fresh runner so that as much as 80 km per day could be covered. Swart *joeg met eene patrouille in den gemeensten marsch naar Meurandeh Paja*, found the sixteen *afschuwelijk toegetakelde* (hideously mangled) bodies — most bearing the traditional *kap in den hals bij den linkerschouder*, the *coup de maître* of the Atjeher with the klewang — and had them buried in a *massagraf*. The investigation pointed to [[T. Tjhi Toenong]] as one of the authors; Swart *liet dit op voorzichtige wijze doen* by luit. Van Vuuren when T. Tjhi Toenong came to [[Lho Seumawé]] on [[5 March]] [[1905]].
+
+### Authorisation of Schmidt's Tiro pursuit, 1908
+
+In [[1908]] Swart gave *luitenant [[Schmidt]], die juist mooi werk had gedaan in Geumpang en Teunom*, the order *zich geheel te wijden aan de opsporing, eventueel vernietiging, van de Tiro-oelama's en hun benden*. Before unleashing the *vernietigingsapparaat*, Swart made one last attempt to bring the Tiro-Tengkoes to submission: he had the three principal chiefs of Atjeh — Toeangkoe Machmoed, [[Panglima Polim]], and Toeankoe Radja Keumala — write the letter of [[18 Radjab 1325]] (the *[[Brief van 18 Radjab 1325]]*) urging the Tiro-oelama's to submit. The brief reached [[Tengkoe Majet di Tiro|Tgk. Tjhi Majet]]; nobody was willing to give up the fight.
+
+### The false T. Radja Sabi, December 1913
+
+In [[December]] [[1913]] the false T. Radja Sabi appeared at [[Lho Soekon]]. Kapitein [[Behrens]] of the 5e divisie at Leuhong examined him at length; the knaap *viel door de mand; hij bekende een onderschoven object te zijn* (fell through; he confessed to being a put-up job). Swart answered Behrens's report: *"nog niet de overtuiging te hebben dat de jongen niet T. Radja Sabi was"* — still not convinced that the boy was not T. Radja Sabi. He ordered one-by-one confrontations with relatives and acquaintances; even after the boy's confession. A few days later Swart *belegde te Lho Seumawé eene vergadering* of all the chiefs and pronounced: *"De jongen is Teukoe Radja Sabi"* — against which nobody protested. Zentgraff calls this *één der grootste, en interessantste, mystificaties welke de Atjeh-historie kent*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

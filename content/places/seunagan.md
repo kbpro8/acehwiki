@@ -59,3 +59,13 @@ The [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian S
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Gids voor den bezoeker van de schatkamer*, Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen, Batavia, 1928. Druk: Ruygrok & Co., Batavia. Cabinet 3 (Atjeh), item 2.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* gives the fullest account of Seunagan as *het traditioneele land van de klewangaanvallen*. *Vooral die van Seunagan waren voor onze soldaten gevaarlijke tegenstanders. De Atjeher hier viel altijd aan met vollen inzet van zijn persoon, en vocht voor alles wat hij waard was.* The *heilige Habib Seunagan*, whose grave is still in high honour on the Westkust, gave the country its spiritual prestige.
+
+Above all stands the [[Simpang Olim klewangaanval (1902)|attaque op de colonne-Campioni]] in [[April]] [[1904]] in the neighbourhood of [[Djeuram]] — *de grootste klewangaanval uit de historie van Atjeh*: hundreds of enemies *stortten zich als de hel over de colonne*. Luitenant Van der Vlerk survived only because at that moment he had stepped aside to have his *puttee* fastened. The body of luitenant Van der Zee was brought to [[Meulaboh]].
+
+In [[1906]] [[Schmidt]] served as luitenant at Djeuram in *het toen uiterst roerige Seunagan*. The great antagonist was [[Tengkoe Poetih]], grandson of the holy Habib Seunagan, who *had vele en fanatieke aanhangers, en zeker evenveel spionnen in de omgeving van Schmidt als deze in het gebied van den Tengkoe had*. Around the bivak Poeloe Ië the *beruchte Tengkoe Moeda Mat Said* roamed; one night a tiger carried off one of his *djahat* followers — *men zeide dat het dier in dienst van Schmidt was, zoodat de bende snel naar veiliger gebied verhuisde*. The widow [[Tjoet Patimah]] of [[Teukoe Keumangan]], telling Zentgraff about the [[1906]]–[[1907]] period, said Schmidt was one of those rare men who carried a *rantej boei* (the magic bead of invulnerability), *waardoor hij niet alleen onkwetsbaar was doch ook een helder oog had in het donkerste geheim*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

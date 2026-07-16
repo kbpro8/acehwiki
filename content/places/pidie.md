@@ -148,3 +148,13 @@ The name [[Pidië|Pidië]] is cognate with [[Pedir|Pedir]] — the haven on the 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), p. 118.
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] treats Pidië as the *heartland* of the Tiro-oelama's and of the most stubborn resistance. *Op de Westkust kon je weleens gevangenen maken, maar dit kwam in Pidië practisch niet voor; ieder ervaren soldaat wist dat de menschen in Pidië zich liever doodvochten dan gevangen te geven.*
+
+In [[1898]] [[Joannes Benedictus van Heutsz|Van Heutsz]] made the *tocht naar Pidië en daarna naar Tangsé*, and in [[1901]] on his verjaardag ([[25 October]]) took the famous [[Bateë Iliq (1901)|Bateë Iliq]] at Meureudoe and Samalanga — *een 25 October zooals Van Heutsz die nooit zal vergeten*. In June [[1904]] kapitein Stoop discovered the *schuilplaats* of [[Tengkoe Tjot Plieëng]] — *de heiligste en hoogste onder de strijdbare geestelijke hoofden* — *tusschen twee uitloopers van de Gle Keulabéë Asap*; the Tengkoe escaped but left his Koran and his *zegelamulet* (an heirloom of [[Tengkoe Sjech Saman di Tiro]]). *Dat Tengkoe Tjot Plieëng die amulet verloor was, ondanks zijn rantej boei, als het schrift aan den wand.*
+
+During a patrol in Pidië, [[Potjoet Meurah]] was arrested on suspicion of hiding a klewang; she drew her *rentjong* and *stormde op de brigade in* with *"Dan ben ik liever dood."* Days later [[Veltman]] found her at the *keudé Biheuë* hidden behind cloths with *papje van koelendrek* on her wounds; he washed the *maden* from the wounds and she recovered, though lame for life. Kolonel Scheurer *nam de houding aan* and saluted her.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

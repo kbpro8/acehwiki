@@ -136,3 +136,13 @@ The [[Uleebalang|uléebalang]] is, in the [[Dr. C. Snouck Hurgronje|Snouck Hurgr
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] gives particular attention to the *baroh/toenong* division and to women as *oeléëbalang*. The type-case is [[Keureutoe]]: *zoo waren er twee oeléëbalangs van Keureutoë: de door ons bestuur aangestelde die oeléëbalang baroh (de nieuwe) werd genoemd, en T. Tjhi Moehamat die oeléëbalang Toenong werd genoemd, omdat hij zich in de bovenstreken ophield.* The *baroh* [[T. Tjhi Bentara]] *regelde de registratie der onderworpen bevolking* and was hated for it; the *toenong* held his line with the *oelama* and the resistance. When T. Tjhi Toenong was executed on [[5 March]] [[1905]] by order of [[H.N.A. Swart|Swart]], his *adelaarsjong* [[T. Radja Sabi]] remained the rightful heir.
+
+Women of the *oeléëbalang* class played active roles: *Zij was niet de eerste vrouw die in Atjeh gezag uitoefende; er waren, eeuwen geleden, Sultanes die het regeeren even goed verstonden als de mannen.* [[Potjoet Barin]] of [[Toengkob]] held her *landschap* with *de scherpe peudeueng in de hand* and a bodyguard of thirty; [[Veltman]] worked to have her *benoemd tot oeléëbalang* after her wooden-leg period. [[Potjoet Meurah]] of [[Pidie|Pidië]] charged a maréchaussée-brigade with a *rentjong*; [[Potjoet Asia di Keureutoe]] was *een der eersten die zich aan het Nederlandsch gezag hebben te onderwerpen*. *De Atjehsche vrouw strijdt veelal met haar man, soms naast hem of zelfs vóór hem, en in haar kleine hand kunnen klewang en rentjong gevaarlijke wapens zijn.*
+
+The Gouvernement could also *schorsen* or replace an *oeléëbalang*: the governor's brief of [[17 July]] [[1893]], no. 559/K, listed salaries paid to *oeléëbalangs* outside the occupied territory. After the *mèl* of an *oeléëbalang*, the Gouvernement appointed his successor from the *baroh* line; the *toenong* line continued in the resistance until it was destroyed.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

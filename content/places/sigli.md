@@ -68,3 +68,9 @@ Despite the strength of the religious movement, the subdistrict remained quiet u
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 13, 25–30, 38, 63–64, 126, 213–217.
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 3, Chapter III § 2, Chapter V § 2.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* places the [[Scheepens murder (1913)|murder of Colonel Scheepens]] squarely at Sigli. Scheepens held both the division command and the civiel gezag at Sigli; he presided over a *moesapat* in which a *kampongman* had struck the son of the *oeléëbalang* of [[Titeuë]], and sentenced the man to three months *krakal*. The *oeléëbalang* cried *"Itoe saja tida tarima"* — I do not accept this — and stabbed Scheepens with a *rentjong* in the *zijde* on [[10 October]] [[1913]]. The Atjehsche *oppassers* immediately killed the *oeléëbalang* with their klewangs. The famous *hondenhondje* — the Atjehtram — made its record ride from [[Koetaradja]] to Sigli with dokter Dubinsky, the machinist tied to his machine with a rope. Scheepens died at 5:15 AM and was buried at [[Peutjoet]]. His wife — *pas moeder te worden* — was the subject of Queen Wilhelmina's *"stamhouder"* wish at a dinner at Court. An American tourist, *Mary Ware*, was at Sigli at the time and ran to the hospital bareheaded.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.

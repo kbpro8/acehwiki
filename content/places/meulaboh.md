@@ -177,3 +177,17 @@ The textbook does not specify the date of the engagement, the immediate tactical
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), pp. 121–122 (Basin of Meulaboh), pp. 207–209 (iron-ore localities NW and SE of Meulaboh), p. 223 (West coast of Atjeh mercury).
 
 *Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* connects Meulaboh with four key episodes.
+
+In [[February]] [[1899]] [[Teukoe Oemar]] was killed near Meulaboh. News of his death reached far-off Sigli via Atjehsche *boodschappers* who *loopen als hazen en geven bij elke keudé het bericht aan een ander over* — so that eighty kilometres a day could be covered.
+
+The *pasanggrahan* of Meulaboh was the home of mevrouw Van der Zee while her husband was on patrol. When luitenant Van der Zee was killed, his body was brought to Meulaboh; at night a group crept to the pasanggrahan to break the news, but *mevrouw Van der Zee wierp het raam open en gilde het uit: Ik begrijp het — mijn man is dood!*
+
+In the Meulaboh country [[Veltman]] dealt with [[Potjoet Barin]] of Toengkob, who submitted only when her foot *rotte af* for want of treatment after a bullet wound in the lower leg. Veltman had a wooden leg sent from Holland covered with leather *tegen den paalworm*. She said: *"Had ik u maar eerder gekend, dan had ik mijn been niet verloren."*
+
+[[Pang Sihim]] — whose cruelties in [[Seunagan]] were legendary — was captured and imprisoned at Meulaboh. When his opium was cut off *hij ging in zijn cel als een razende tekeer, smeekend om een beetje opium... sedikit sadja!* He died in *helsche pijnen en visioenen*, a death Zentgraff notes *in de verte niet vergeleken kon worden met het leed dat hij tientallen anderen had aangedaan*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
