@@ -1,7 +1,7 @@
 ---
 
 title: James Price
-aliases: ['JAMES PRICE', 'J. Price', 'Price']
+aliases: ["JAMES PRICE", "J. Price", "Price"]
 tags: ['correspondent', 'british', 'person', 'east-india-company', 'british-official', 'colonial-official']
 ---
 

@@ -1,7 +1,7 @@
 ---
 
 title: P. H. van der Kemp
-aliases: ['P. H. van der Kemp', 'Van der Kemp', 'Pieter Hendrik van der Kemp', 'P. II. van der Kemp (OCR)']
+aliases: ["P. H. van der Kemp", "Van der Kemp", "Pieter Hendrik van der Kemp", "P. II. van der Kemp (OCR)"]
 tags: ['scholar', 'person', 'colonial-official', 'dutch', 'dutch-official']
 ---
 

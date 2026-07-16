@@ -1,7 +1,7 @@
 ---
 
 title: Captain Francis Light
-aliases: ['captain Light Deva Rajah', 'Captain Light', 'Francis Light', 'Captain Deva Rajah']
+aliases: ["captain Light Deva Rajah", "Captain Light", "Francis Light", "Captain Deva Rajah"]
 tags: ['person', 'founder', 'british', 'founder-of-penang', 'british-official', 'colonial-official', 'explorer']
 ---
 

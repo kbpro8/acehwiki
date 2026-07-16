@@ -1,7 +1,7 @@
 ---
 
 title: Warren Hastings
-aliases: ['Hastings', 'Warren Hastings', 'governor-generaal van Bengalen', 'Governor-General of Bengal']
+aliases: ["Hastings", "Warren Hastings", "governor-generaal van Bengalen", "Governor-General of Bengal"]
 tags: ['british', 'person', 'british-official', 'colonial-official']
 ---
 

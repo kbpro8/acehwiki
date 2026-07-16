@@ -1,6 +1,6 @@
 ---
 title: Batavia Opium Company
-aliases: ['s Lands-opiumbedrijf te Batavia, Batavia opium monopoly, Opiumbedrijf Batavia, Lands-opiumbedrijf]
+aliases: ["'s Lands-opiumbedrijf te Batavia", "Batavia opium monopoly", "Opiumbedrijf Batavia", "Lands-opiumbedrijf"]
 tags: [concept, colonial, dutch, opium, organization, monopoly]
 ---
 
