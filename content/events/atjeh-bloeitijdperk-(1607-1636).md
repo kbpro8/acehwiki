@@ -1,6 +1,6 @@
 ---
 title: Atjeh bloeitijdperk (1607-1636)
-aliases: ["Atjeh golden age\"", "Atjeh's golden age 1607-1636\"", "bloeitijdperk van Atjeh\"", "golden age of Atjeh's past\"", "golden age of the Atjeh sultanate\""]
+aliases: ["Atjeh golden age", "Atjeh's golden age 1607-1636", "bloeitijdperk van Atjeh", "golden age of Atjeh's past", "golden age of the Atjeh sultanate"]
 
 tags: ["achehnese", "courtly", "event", "political", "precolonial"]
 ---

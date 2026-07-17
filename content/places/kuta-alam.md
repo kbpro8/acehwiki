@@ -1,6 +1,6 @@
 ---
 title: Kuta Alam
-aliases: ["old gampong\"", "Kota-Alam\"", "Kota Alam\"", "Benting Kota Alam\"", "Benteng Kota Alam\""]
+aliases: ["old gampong", "Kota-Alam", "Kota Alam", "Benting Kota Alam", "Benteng Kota Alam"]
 
 tags: ["place", "aceh-proper", "aceh-war", "fortification", "dutch-colonial"]
 ---

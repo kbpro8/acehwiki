@@ -1,6 +1,6 @@
 ---
 title: Goa / Guha
-aliases: ["Portuguese India\""]
+aliases: ["Portuguese India"]
 tags: ["place", "sacred-site", "foreign-land"]
 ---
 

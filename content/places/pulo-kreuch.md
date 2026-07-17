@@ -1,6 +1,6 @@
 ---
 title: Pulo Kreuch
-aliases: ["Pulo Bras\""]
+aliases: ["Pulo Bras"]
 tags: ["place", "island"]
 ---
 

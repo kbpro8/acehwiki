@@ -1,6 +1,6 @@
 ---
 title: Koeta djaq
-aliases: ["Atjeh mobile siege-shelter\"", "Atjehse walking fort\"", "buffalo-hide siege engine\"", "koeta djaq\"", "kuta jak\"", "wandelende fort\""]
+aliases: ["Atjeh mobile siege-shelter", "Atjehse walking fort", "buffalo-hide siege engine", "koeta djaq", "kuta jak", "wandelende fort"]
 
 tags: ["achehnese", "concept", "military", "precolonial", "siege"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rabò annual seven-day feast
-aliases: ["Rabò buffalo sacrifice\"", "Rabò kermis der losbandigheid\"", "VI Moekim's annual feast at Rabò\"", "annual feast at Rabò\"", "seven-day feast on Rabò\""]
+aliases: ["Rabò buffalo sacrifice", "Rabò kermis der losbandigheid", "VI Moekim's annual feast at Rabò", "annual feast at Rabò", "seven-day feast on Rabò"]
 
 tags: ["achehnese", "agricultural", "event", "ritual", "sacrifice"]
 ---

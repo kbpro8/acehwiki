@@ -1,7 +1,7 @@
 ---
 
-title: "Vereeniging \"Ons Leger\""
-aliases: [Ons Leger, Vereeniging Ons Leger, "Society Our Army\""]
+title: "Vereeniging Ons Leger"
+aliases: [Ons Leger, Vereeniging Ons Leger, "Society Our Army"]
 tags: [organization, military, social, dutch, propaganda, defence-advocacy]
 ---
 

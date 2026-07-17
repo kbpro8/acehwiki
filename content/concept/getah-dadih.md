@@ -1,6 +1,6 @@
 ---
 title: Getah dadih
-aliases: ["Atjeh-Gajo weapon-scabbard glue\"", "buffalo-milk curd glue\"", "dadih glue\"", "getah dadih\""]
+aliases: ["Atjeh-Gajo weapon-scabbard glue", "buffalo-milk curd glue", "dadih glue", "getah dadih"]
 
 tags: ["achehnese", "concept", "craft", "gajo", "technology"]
 ---

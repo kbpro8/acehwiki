@@ -1,6 +1,6 @@
 ---
 title: Potjoet Moehammat
-aliases: ["Atjehnese epic Potjoet Moehammat\"", "Atjehse epos Potjoet Moehammat\"", "Hikajat Potjoet Moehammat\"", "Poetry Moehammat\"", "Putjut Meukat\"", "Putjut Muhammad\""]
+aliases: ["Atjehnese epic Potjoet Moehammat", "Atjehse epos Potjoet Moehammat", "Hikajat Potjoet Moehammat", "Poetry Moehammat", "Putjut Meukat", "Putjut Muhammad"]
 
 tags: ["achehnese", "document", "epic", "literature", "precolonial"]
 ---

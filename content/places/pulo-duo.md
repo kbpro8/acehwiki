@@ -1,6 +1,6 @@
 ---
 title: Pulo Duo
-aliases: ["two small islands in the bay of Tapa' Tuan\""]
+aliases: ["two small islands in the bay of Tapa' Tuan"]
 tags: ["place", "island"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Chahrilah
-aliases: ["in Hikayat Indra Bangsawan\""]
+aliases: ["in Hikayat Indra Bangsawan"]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

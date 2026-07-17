@@ -1,6 +1,6 @@
 ---
 title: Simaloer
-aliases: ["Pulau Simeulue\"", "Simaloer island\"", "Simalur\"", "Simeulue\"", "Simeulue island\""]
+aliases: ["Pulau Simeulue", "Simaloer island", "Simalur", "Simeulue", "Simeulue island"]
 
 tags: ["achehnese", "coast", "island", "place"]
 ---

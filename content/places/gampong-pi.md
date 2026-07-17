@@ -1,6 +1,6 @@
 ---
 title: Gampong Pi
-aliases: ["Meura'sa\""]
+aliases: ["Meura'sa"]
 tags: ["place", "aceh-proper"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 
 title: Gedong (Atjeher of Pasei)
-aliases: ["Atjeher Gedong\"", "Gedong\"", "Gedong (eponymous ancestor of marga Ramin)\"", "Gedong of Pasei\""]
+aliases: ["Atjeher Gedong", "Gedong", "Gedong (eponymous ancestor of marga Ramin)", "Gedong of Pasei"]
 
 tags: ["achehnese", "ancestor", "legendary", "pasai", "person"]
 ---

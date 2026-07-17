@@ -1,6 +1,6 @@
 ---
 title: Lam Peuneueun
-aliases: ["Teungku Lam Peuneueen\""]
+aliases: ["Teungku Lam Peuneueen"]
 tags: ["place", "aceh-proper"]
 ---
 

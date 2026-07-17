@@ -1,6 +1,6 @@
 ---
 title: Hikajat Radja-radja Pasei
-aliases: ["Hikajat Radja-radja Pasei\"", "Hikayat Pasai\"", "Hikayat Raja-Raja Pasai\"", "Malay chronicle of Pasai\"", "Pasai chronicle\"", "chronicle of the kings of Pasai\""]
+aliases: ["Hikajat Radja-radja Pasei", "Hikayat Pasai", "Hikayat Raja-Raja Pasai", "Malay chronicle of Pasai", "Pasai chronicle", "chronicle of the kings of Pasai"]
 
 tags: ["achehnese", "chronicle", "document", "malay", "muslim", "precolonial"]
 ---

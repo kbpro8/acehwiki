@@ -1,6 +1,6 @@
 ---
 title: Sakét oelèe neuraja
-aliases: ["Atjeh buffalo crisis of nest-hairs\"", "Atjeh buffalo maturation crisis\"", "illness at onset of maturity\"", "s.o. neurajeuq\"", "sakét oelèe neuraja\""]
+aliases: ["Atjeh buffalo crisis of nest-hairs", "Atjeh buffalo maturation crisis", "illness at onset of maturity", "s.o. neurajeuq", "sakét oelèe neuraja"]
 
 tags: ["achehnese", "concept", "folk-belief", "magic", "veterinary"]
 ---

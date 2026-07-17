@@ -1,7 +1,7 @@
 ---
 
 title: A. Marre
-aliases: ["Aristide Marre\"", "Aristide Marre (translator of Hikayat Raja-Raja Pasai)\"", "Marre\""]
+aliases: ["Aristide Marre", "Aristide Marre (translator of Hikayat Raja-Raja Pasai)", "Marre"]
 
 tags: ["french", "orientalist", "person", "scholar"]
 ---

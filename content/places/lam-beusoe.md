@@ -1,6 +1,6 @@
 ---
 title: Lam Beusoe
-aliases: ["Lambesi\""]
+aliases: ["Lambesi"]
 tags: ["place", "north-east-coast", "west-coast"]
 ---
 

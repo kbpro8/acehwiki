@@ -1,6 +1,6 @@
 ---
 title: Laboh Haji
-aliases: ["vulg. Labuan Haji\""]
+aliases: ["vulg. Labuan Haji"]
 tags: ["place", "north-east-coast", "west-coast"]
 ---
 

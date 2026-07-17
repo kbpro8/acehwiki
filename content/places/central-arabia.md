@@ -1,6 +1,6 @@
 ---
 title: Central Arabia
-aliases: ["Wahhabite territory\""]
+aliases: ["Wahhabite territory"]
 tags: ["place", "sacred-site", "foreign-land"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Avondpost "Wekeer" articles (October 1907)
-aliases: ["Avondpost \"Wekeer\" articles (October 1907)", "the Wekeer articles", "De Avondpost Wekeer articles", "Wekeer (pseudonym)", "Wekeer affair (October 1907)"]
+aliases: ["Avondpost Wekeer articles (October 1907)", "the Wekeer articles", "De Avondpost Wekeer articles", "Wekeer (pseudonym)", "Wekeer affair (October 1907)"]
 tags: ["event", "press", "colonial", "dutch", "acheh", "exposé"]
 ---
 

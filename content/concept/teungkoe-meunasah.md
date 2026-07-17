@@ -1,6 +1,6 @@
 ---
 title: Teungkoe meunasah
-aliases: ["teungkoe meunasah (Groot-Atjeh)\"", "teungku meunasah\"", "teungku meunasah (Atjeh)\"", "village religious official of Groot-Atjeh\""]
+aliases: ["teungkoe meunasah (Groot-Atjeh)", "teungku meunasah", "teungku meunasah (Atjeh)", "village religious official of Groot-Atjeh"]
 
 tags: ["achehnese", "concept", "islamic", "office", "slaughter", "village"]
 ---

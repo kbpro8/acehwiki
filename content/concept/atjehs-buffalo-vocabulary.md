@@ -1,6 +1,6 @@
 ---
 title: Atjehs buffalo vocabulary
-aliases: ["Achehnese words for buffalo\"", "Atjehnese buffalo vocabulary\"", "Atjehs buffalo-lexicon\"", "Atjehs terms for the buffalo\"", "keubeuë and related terms\""]
+aliases: ["Achehnese words for buffalo", "Atjehnese buffalo vocabulary", "Atjehs buffalo-lexicon", "Atjehs terms for the buffalo", "keubeuë and related terms"]
 
 tags: ["achehnese", "agriculture", "concept", "language", "lexicography"]
 ---

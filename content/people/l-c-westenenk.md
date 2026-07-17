@@ -1,7 +1,7 @@
 ---
 
 title: L. C. Westenenk
-aliases: ["L.C. Westenenk\"", "Louis Constant Westenenk\"", "Westenenk\""]
+aliases: ["L.C. Westenenk", "Louis Constant Westenenk", "Westenenk"]
 
 tags: ["colonial", "dutch", "ethnographer", "person", "scholar"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tanjong Puri
-aliases: ["in Hikayat Chintabuhan\""]
+aliases: ["in Hikayat Chintabuhan"]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

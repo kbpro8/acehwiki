@@ -1,6 +1,6 @@
 ---
 title: "Thomas Best's visit to Atjeh (1613)"
-aliases: ["Best's 1613 Atjeh embassy\"", "English embassy to Sultan Iskandar Muda 1613\"", "Thomas Best at the court of Atjeh 1613\"", "Thomas Best's visit to Atjeh\""]
+aliases: ["Best's 1613 Atjeh embassy", "English embassy to Sultan Iskandar Muda 1613", "Thomas Best at the court of Atjeh 1613", "Thomas Best's visit to Atjeh"]
 
 tags: ["achehnese", "colonial", "diplomatic", "english", "event", "maritime", "precolonial"]
 ---

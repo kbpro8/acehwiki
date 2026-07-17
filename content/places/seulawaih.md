@@ -1,6 +1,6 @@
 ---
 title: Seulawaih
-aliases: ["the Gold Mountain\""]
+aliases: ["the Gold Mountain"]
 tags: ["place", "aceh-proper"]
 ---
 

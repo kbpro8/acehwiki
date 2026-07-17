@@ -1,6 +1,6 @@
 ---
 title: Pulo Rabu
-aliases: ["close to Pulo Breueh\""]
+aliases: ["close to Pulo Breueh"]
 tags: ["place", "island"]
 ---
 

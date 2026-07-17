@@ -1,6 +1,6 @@
 ---
 title: Nata
-aliases: ["= Natal — in Hikayat Malem Diwa\""]
+aliases: ["= Natal — in Hikayat Malem Diwa"]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Court buffalo-fight at Sultan Iskandar Muda's court (1613)"
-aliases: ["Best's buffalo-fight 1613\"", "1613 Atjeh court buffalo-fight\"", "buffalo-fight at the court of Sultan Iskandar Muda\"", "court buffalo-fight at Koetaradja 1613\""]
+aliases: ["Best's buffalo-fight 1613", "1613 Atjeh court buffalo-fight", "buffalo-fight at the court of Sultan Iskandar Muda", "court buffalo-fight at Koetaradja 1613"]
 
 tags: ["achehnese", "animal-fight", "courtly", "event", "precolonial", "spectacle"]
 ---

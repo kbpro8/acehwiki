@@ -1,6 +1,6 @@
 ---
 title: Najran (Neujeuran)
-aliases: ["Southern Arabia\""]
+aliases: ["Southern Arabia"]
 tags: ["place", "sacred-site"]
 ---
 

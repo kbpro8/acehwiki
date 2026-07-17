@@ -1,6 +1,6 @@
 ---
 title: Poewôê siê
-aliases: ["Atjehnese first-year husband meat obligation\"", "peugöt sië\"", "poewoe siê\"", "the poewôê siê custom of Atjeh\""]
+aliases: ["Atjehnese first-year husband meat obligation", "peugöt sië", "poewoe siê", "the poewôê siê custom of Atjeh"]
 
 tags: ["achehnese", "adat", "concept", "marriage", "ramadan"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Boven-Singkel
-aliases: ["Boven-Singkel (Atjeh)\"", "Boven-Singkel marga country\"", "Singkel upstream\"", "Singkil upstream\"", "Upper Singkel\""]
+aliases: ["Boven-Singkel (Atjeh)", "Boven-Singkel marga country", "Singkel upstream", "Singkil upstream", "Upper Singkel"]
 
 tags: ["achehnese", "colonial", "place", "region", "singkil"]
 ---

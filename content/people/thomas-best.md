@@ -1,7 +1,7 @@
 ---
 
 title: Thomas Best
-aliases: ["Best\"", "Thomas Best (English envoy)\"", "Thomas Best's voyage to Atjeh\""]
+aliases: ["Best", "Thomas Best (English envoy)", "Thomas Best's voyage to Atjeh"]
 
 tags: ["colonial", "english", "envoy", "maritime", "person"]
 ---

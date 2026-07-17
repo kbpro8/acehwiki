@@ -1,6 +1,6 @@
 ---
 title: Maq meugang
-aliases: ["Atjeh slaughter-days before and after Ramadan\"", "maq meugang\"", "meugang\"", "the two Ramadan slaughter-days of Atjeh\""]
+aliases: ["Atjeh slaughter-days before and after Ramadan", "maq meugang", "meugang", "the two Ramadan slaughter-days of Atjeh"]
 
 tags: ["achehnese", "adat", "concept", "ramadan", "slaughter"]
 ---

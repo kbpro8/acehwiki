@@ -1,6 +1,6 @@
 ---
 title: "Kreemer's Atjeh (1922-23)"
-aliases: ["Atjèh (Kreemer 1922-23)\"", "Atjèh: algemeen samenvattend overzicht van land en volk van Atjèh en Onderhoorigheden\"", "Kreemer Atjeh\"", "Kreemer's Atjeh monograph\"", "Kreemer's Atjèh\""]
+aliases: ["Atjèh (Kreemer 1922-23)", "Atjèh: algemeen samenvattend overzicht van land en volk van Atjèh en Onderhoorigheden", "Kreemer Atjeh", "Kreemer's Atjeh monograph", "Kreemer's Atjèh"]
 
 tags: ["achehnese", "book", "colonial", "document", "dutch", "ethnography"]
 ---

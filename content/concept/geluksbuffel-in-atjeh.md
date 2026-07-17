@@ -1,6 +1,6 @@
 ---
 title: Geluksbuffel in Atjeh
-aliases: ["Atjeh fortune-bringing buffalo\"", "Atjeh luck-buffalo\"", "betoeah in Atjeh\"", "geluksbuffel Atjeh\"", "luck-bringing buffalo Atjeh\""]
+aliases: ["Atjeh fortune-bringing buffalo", "Atjeh luck-buffalo", "betoeah in Atjeh", "geluksbuffel Atjeh", "luck-bringing buffalo Atjeh"]
 
 tags: ["achehnese", "agricultural", "concept", "folk-belief", "magic"]
 ---

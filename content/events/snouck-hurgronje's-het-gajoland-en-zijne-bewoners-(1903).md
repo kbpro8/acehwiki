@@ -1,6 +1,6 @@
 ---
 title: "Snouck Hurgronje's Het Gajoland en zijne bewoners (1903)"
-aliases: ["Het Gajoland en zijne bewoners\"", "Snouck Het Gajoland\"", "Snouck Hurgronje Gajoland\"", "Snouck 1903 Gayo\"", "Snouck's Gayo monograph\""]
+aliases: ["Het Gajoland en zijne bewoners", "Snouck Het Gajoland", "Snouck Hurgronje Gajoland", "Snouck 1903 Gayo", "Snouck's Gayo monograph"]
 
 tags: ["book", "colonial", "document", "dutch", "ethnography", "gajo"]
 ---

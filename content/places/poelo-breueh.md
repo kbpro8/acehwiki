@@ -1,6 +1,6 @@
 ---
 title: Poelo Breuëh
-aliases: ["Bras island\"", "Breueh island\"", "Bunta island of Atjeh\"", "Bureukuh\"", "Poelau Bras\"", "Pulau Bras\"", "Pulau Breueh\""]
+aliases: ["Bras island", "Breueh island", "Bunta island of Atjeh", "Bureukuh", "Poelau Bras", "Pulau Bras", "Pulau Breueh"]
 
 tags: ["achehnese", "coast", "island", "place"]
 ---

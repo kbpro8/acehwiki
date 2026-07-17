@@ -1,6 +1,6 @@
 ---
 title: Gajo-weg
-aliases: ["Aceh-Gayo road\"", "Gajo weg\"", "Gajoweg\"", "Gayo road\"", "road connecting NE coast of Atjeh with the interior\"", "verband N.O.-kust Atjeh met binnenland\""]
+aliases: ["Aceh-Gayo road", "Gajo weg", "Gajoweg", "Gayo road", "road connecting NE coast of Atjeh with the interior", "verband N.O.-kust Atjeh met binnenland"]
 
 tags: ["achehnese", "colonial", "gajo", "infrastructure", "place", "road"]
 ---

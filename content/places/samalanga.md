@@ -1,6 +1,6 @@
 ---
 title: Samalanga
-aliases: ["Samalanga\"", "Samalanga (Atjeh)\"", "Samalanga region\"", "Samalangga\"", "Samalangá\""]
+aliases: ["Samalanga", "Samalanga (Atjeh)", "Samalanga region", "Samalangga", "Samalangá"]
 
 tags: ["aceh-proper", "achehnese", "coast", "colonial", "military-operations", "north-coast", "north-east-coast", "place", "region", "ulama"]
 ---

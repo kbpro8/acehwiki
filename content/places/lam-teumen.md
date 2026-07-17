@@ -1,6 +1,6 @@
 ---
 title: Lam Teumen
-aliases: ["gampong\""]
+aliases: ["gampong"]
 tags: ["place", "aceh-proper"]
 ---
 

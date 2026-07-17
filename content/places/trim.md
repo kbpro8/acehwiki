@@ -1,6 +1,6 @@
 ---
 title: Trim
-aliases: ["Hadramaut\""]
+aliases: ["Hadramaut"]
 tags: ["place", "sacred-site"]
 ---
 

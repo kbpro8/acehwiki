@@ -1,6 +1,6 @@
 ---
 title: Gulitan Sagob
-aliases: ["in Sumatra\"", "in Hikayat Gumba Meuih\""]
+aliases: ["in Sumatra", "in Hikayat Gumba Meuih"]
 
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---

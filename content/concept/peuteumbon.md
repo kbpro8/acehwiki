@@ -1,6 +1,6 @@
 ---
 title: Peuteumbôn
-aliases: ["Atjehnese buffalo-fattening custom\"", "fattening of buffaloes for Ramadan feasts in Atjeh\"", "peuteumbeun\"", "peuteumbon\""]
+aliases: ["Atjehnese buffalo-fattening custom", "fattening of buffaloes for Ramadan feasts in Atjeh", "peuteumbeun", "peuteumbon"]
 
 tags: ["achehnese", "adat", "agricultural", "concept", "ramadan"]
 ---

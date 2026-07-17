@@ -1,6 +1,6 @@
 ---
 title: "Kreemer's De Karbouw (1956)"
-aliases: ["De Karbouw\"", "De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel\"", "Kreemer 1956\"", "Kreemer's De Karbouw\""]
+aliases: ["De Karbouw", "De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel", "Kreemer 1956", "Kreemer's De Karbouw"]
 
 tags: ["achehnese", "book", "colonial", "document", "dutch", "ethnography"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Atjeh sale rite of grasping the nose-rope
-aliases: ["Atjeh buffalo transaction ceremony\"", "Atjeh buffalo-sale rite\"", "nose-rope rite Atjeh\"", "tjaram sale ritual Atjeh\""]
+aliases: ["Atjeh buffalo transaction ceremony", "Atjeh buffalo-sale rite", "nose-rope rite Atjeh", "tjaram sale ritual Atjeh"]
 
 tags: ["achehnese", "adat", "commerce", "concept", "magic"]
 ---

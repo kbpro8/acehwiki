@@ -2,7 +2,7 @@
 title: Zelfbesturen
 aliases: [Self-governing territories, zelfbesturende landschappen, zelfbestuur, inlandsche zelfbesturen, the self-governing lands of the Buitenbezittingen]
 tags: [concept, colonial, dutch, administration, sovereignty, buitenbezittingen, aceh, zelfbesturen]
-description: "The \"zelfbesturen\" — the self-governing native territories of the Outer Possessions, governed by their own rulers under Dutch suzerainty and supervised by the Gouvernement through political contracts (before 1899) or the Korte Verklaring (after 1899)."
+description: "The zelfbesturen — the self-governing native territories of the Outer Possessions, governed by their own rulers under Dutch suzerainty and supervised by the Gouvernement through political contracts (before 1899) or the Korte Verklaring (after 1899)."
 ---
 
 **The Zelfbesturen** ("self-governing territories," singular *zelfbestuur*) were the native-ruled territories of the [[Buitenbezittingen|Outer Possessions]] of the Netherlands East Indies, governed by their own rulers under Dutch suzerainty and supervised by the Gouvernement through [[Politieke Contracten|politieke contracten]] (before [[1899]]) or the [[Korte Verklaring|Korte Verklaring]] (after [[1899]]). In the Encyclopaedisch Bureau's account, the zelfbesturen are the principal object of the post-[[Pacificatie van Atjeh|pacification]] administrative order in [[Acheh|Atjeh]] and the wider Buitenbezittingen: the territories whose rulers were transformed, through the [[Civiele lijst|civiele lijst]] and the [[Landschapskassen|landschapskassen]], from autonomous sovereigns into paid functionaries of the Dutch colonial order.

@@ -1,7 +1,7 @@
 ---
 
 title: "as-Shafi'i"
-aliases: ["Imam as-Shafi'i\"", "our imam (as-Shafi'i)\""]
+aliases: ["Imam as-Shafi'i", "our imam (as-Shafi'i)"]
 
 tags: [person, religious-figure, scholar]
 ---

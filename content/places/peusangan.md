@@ -1,6 +1,6 @@
 ---
 title: Peusangan
-aliases: ["Glumpang Dua\""]
+aliases: ["Glumpang Dua"]
 tags: ["place", "north-east-coast"]
 ---
 

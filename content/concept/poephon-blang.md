@@ -1,6 +1,6 @@
 ---
 title: Poephon blang
-aliases: ["Atjeh field-consecration rite\"", "Atjeh first-furrow rite\"", "peuoe blang\"", "peuseumbong blang\"", "peuë blang\"", "poephon blang\"", "poephon blang in Atjeh\""]
+aliases: ["Atjeh field-consecration rite", "Atjeh first-furrow rite", "peuoe blang", "peuseumbong blang", "peuë blang", "poephon blang", "poephon blang in Atjeh"]
 
 tags: ["achehnese", "agricultural", "concept", "islamic", "magic", "ritual"]
 ---

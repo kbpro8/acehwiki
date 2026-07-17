@@ -1,6 +1,6 @@
 ---
 title: Eunjong
-aliases: ["the La'seumana's gampong\""]
+aliases: ["the La'seumana's gampong"]
 tags: ["place", "aceh-proper"]
 ---
 

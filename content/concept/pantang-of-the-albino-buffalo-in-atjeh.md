@@ -1,6 +1,6 @@
 ---
 title: Pantang of the albino buffalo in Atjeh
-aliases: ["Atjeh albino-buffalo legend\"", "albino-buffalo prohibition in Atjeh\"", "keubeuë djagat pantang\"", "pantang of the white buffalo\"", "prohibition of albino-buffalo slaughter in Atjeh\""]
+aliases: ["Atjeh albino-buffalo legend", "albino-buffalo prohibition in Atjeh", "keubeuë djagat pantang", "pantang of the white buffalo", "prohibition of albino-buffalo slaughter in Atjeh"]
 
 tags: ["achehnese", "adat", "concept", "food-prohibition", "legend", "pantang"]
 ---

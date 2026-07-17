@@ -1,7 +1,7 @@
 ---
 
 title: W. K. H. Ypes
-aliases: ["W.K.H. Ypes\"", "Wouter Ypes\"", "Ypes\""]
+aliases: ["W.K.H. Ypes", "Wouter Ypes", "Ypes"]
 
 tags: ["dutch", "ethnographer", "person", "scholar"]
 ---

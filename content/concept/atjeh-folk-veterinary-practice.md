@@ -1,6 +1,6 @@
 ---
 title: Atjeh folk-veterinary practice
-aliases: ["Atjeh buffalo remedies\"", "Atjeh folk medicine for cattle\"", "Atjeh folk veterinary practice\"", "Atjehnese cattle remedies\"", "Atjehse veterinary folk-practice\""]
+aliases: ["Atjeh buffalo remedies", "Atjeh folk medicine for cattle", "Atjeh folk veterinary practice", "Atjehnese cattle remedies", "Atjehse veterinary folk-practice"]
 
 tags: ["achehnese", "concept", "folk-medicine", "magic", "veterinary"]
 ---

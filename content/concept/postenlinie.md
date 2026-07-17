@@ -2,7 +2,7 @@
 title: Postenlinie
 aliases: [Postenlijn, Posten line, the line of forts, postenlinie of 1885, de postenlinie, de beroemde postenlinie, the Atjeh postenlinie]
 tags: [concept, colonial, dutch, military, defence, buitenbezittingen, aceh, strategy, 19th-century]
-description: "The \"postenlinie\" — the celebrated line of fortified posts surrounding Kota Radja in Great Atjeh, built in the 1870s and 1880s as the defensive perimeter of the Dutch military position in Atjeh, and dismantled after the 1896 betrayal of Toekoe Oemar."
+description: "The postenlinie — the celebrated line of fortified posts surrounding Kota Radja in Great Atjeh, built in the 1870s and 1880s as the defensive perimeter of the Dutch military position in Atjeh, and dismantled after the 1896 betrayal of Toekoe Oemar."
 ---
 
 **The Postenlinie** ("line of forts") was the celebrated defensive perimeter of fortified posts surrounding [[Kota Radja]] in [[Groot-Atjeh|Great Atjeh]], built in the [[1870s]] and [[1880s]] as the defensive ring of the Dutch military position in [[Acheh|Atjeh]]. In the Encyclopaedisch Bureau's account, the postenlinie defined the geography of the Dutch presence in Atjeh from the [[1873]] outbreak of the [[Aceh War|Atjeh-war]] until the [[Toekoe Oemar's verraad (1896)|betrayal of Toekoe Oemar in 1896]] rendered the defensive strategy obsolete. The [[1885]] [[Ceintuur-trambaan|ceintuur-trambaan (belt-tramway)]] was built along the postenlinie to allow rapid movement of troops between the forts; after the [[1896]] abandonment of the postenlinie, the belt-tramway was "gradually cleared" and the long-line strategy of [[1897]] onward replaced it.

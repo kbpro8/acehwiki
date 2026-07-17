@@ -1,6 +1,6 @@
 ---
 title: Pedirse
-aliases: ["Pedir", "Pedirse", "Pidie", "Pidie region", "Pidir", "the Pedir region\"", "\"Pidië\"", "\"Pedirse (region)\""]
+aliases: ["Pedir", "Pedirse", "Pidie", "Pidie region", "Pidir", "the Pedir region", "Pidië", "Pedirse (region)"]
 
 tags: ["aceh-proper", "achehnese", "coast", "colonial", "place", "region", "atjeh", "oil"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Kreemer's De Maleier en zijn karbouw (1907)"
-aliases: ["De Maleier en zijn karbouw\"", "De Maleier en zijn karbouw in De Indische Gids\"", "Kreemer 1907\"", "Kreemer's first scholarly article\""]
+aliases: ["De Maleier en zijn karbouw", "De Maleier en zijn karbouw in De Indische Gids", "Kreemer 1907", "Kreemer's first scholarly article"]
 
 tags: ["achehnese", "article", "colonial", "document", "dutch", "ethnography"]
 ---

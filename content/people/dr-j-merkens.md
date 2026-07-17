@@ -1,7 +1,7 @@
 ---
 
 title: Dr. J. Merkens
-aliases: ["Dr. Merkens\"", "J. Merkens\"", "J. Merkens (veterinary scientist)\""]
+aliases: ["Dr. Merkens", "J. Merkens", "J. Merkens (veterinary scientist)"]
 
 tags: ["colonial", "dutch", "person", "scholar", "veterinary"]
 ---

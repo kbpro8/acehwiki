@@ -1,6 +1,6 @@
 ---
 title: Gajoland
-aliases: ["Gajo-land\"", "Gayo country\"", "Gayo highlands of central Atjeh\"", "Gayoland\"", "Het Gajoland\"", "Tanah Gayo\""]
+aliases: ["Gajo-land", "Gayo country", "Gayo highlands of central Atjeh", "Gayoland", "Het Gajoland", "Tanah Gayo"]
 
 tags: ["achehnese", "gajo", "highland", "place"]
 ---

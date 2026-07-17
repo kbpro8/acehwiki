@@ -1,7 +1,7 @@
 ---
 
 title: "VI Moekim's of Groot-Atjeh"
-aliases: ["6 Mukims of Atjeh\"", "Lhee Sagoe\"", "Six Mukims of Greater Aceh\"", "VI Moekim\"", "VI Moekim's\"", "VI Mukim Groot-Atjeh\""]
+aliases: ["6 Mukims of Atjeh", "Lhee Sagoe", "Six Mukims of Greater Aceh", "VI Moekim", "VI Moekim's", "VI Mukim Groot-Atjeh"]
 
 tags: ["achehnese", "administrative-unit", "islamic", "organization"]
 ---

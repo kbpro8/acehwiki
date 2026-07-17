@@ -1,6 +1,6 @@
 ---
 title: "Van Langen's Atjeh's Westkust (1888)"
-aliases: ["Atjeh's Westkust (Van Langen 1888)\"", "Atjeh's Westkust article\"", "Van Langen Atjeh's Westkust\"", "Van Langen 1888 article\""]
+aliases: ["Atjeh's Westkust (Van Langen 1888)", "Atjeh's Westkust article", "Van Langen Atjeh's Westkust", "Van Langen 1888 article"]
 
 tags: ["achehnese", "article", "colonial", "document", "dutch", "geography"]
 ---

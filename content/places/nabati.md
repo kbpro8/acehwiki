@@ -1,6 +1,6 @@
 ---
 title: Nabati
-aliases: ["in Hikayat Banta Amat\""]
+aliases: ["in Hikayat Banta Amat"]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

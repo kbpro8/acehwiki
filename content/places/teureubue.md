@@ -1,6 +1,6 @@
 ---
 title: Teureubue
-aliases: ["gampong in Pidie\""]
+aliases: ["gampong in Pidie"]
 tags: ["place", "north-east-coast"]
 ---
 

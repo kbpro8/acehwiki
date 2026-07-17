@@ -1,6 +1,6 @@
 ---
 title: Atjehse Id al-Adha cow-not-buffalo choice
-aliases: ["Atjeh Id al-Adha choice\"", "Atjehse choice of cow over buffalo for the great feast\"", "cow not buffalo at Id al-Adha in Atjeh\""]
+aliases: ["Atjeh Id al-Adha choice", "Atjehse choice of cow over buffalo for the great feast", "cow not buffalo at Id al-Adha in Atjeh"]
 
 tags: ["achehnese", "concept", "islamic", "religious", "sacrifice"]
 ---

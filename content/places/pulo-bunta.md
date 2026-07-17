@@ -1,6 +1,6 @@
 ---
 title: Pulo Bunta
-aliases: ["Babah Aroh\""]
+aliases: ["Babah Aroh"]
 tags: ["place", "island"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Habeusah (Abyssinia)
-aliases: ["in Hikayat Pha Suasa\""]
+aliases: ["in Hikayat Pha Suasa"]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

@@ -2,7 +2,7 @@
 title: Civiele lijst
 aliases: [Civil list (zelfbesturen), civiele lijst of zelfbestuurders, the civil list of native rulers, "the landschap ruler's stipend"]
 tags: [concept, colonial, dutch, finance, administration, buitenbezittingen, aceh, zelfbesturen]
-description: "The \"civiele lijst\" — the civil list (fixed stipend) paid to the native rulers of the zelfbesturen (self-governing territories) from the landschapskas (territorial treasury), in place of the older practice in which all revenues of a landschap were considered the private income of the ruler."
+description: "The civiele lijst — the civil list (fixed stipend) paid to the native rulers of the zelfbesturen (self-governing territories) from the landschapskas (territorial treasury), in place of the older practice in which all revenues of a landschap were considered the private income of the ruler."
 ---
 
 **The Civiele lijst** ("civil list") was the fixed stipend paid to the native rulers of the [[Zelfbesturen|zelfbesturen (self-governing territories)]] of the [[Buitenbezittingen|Outer Possessions]] from the [[Landschapskassen|landschapskas (territorial treasury)]] of their landschap, in place of the older practice in which all revenues of a landschap were considered the private income of the ruler. In the Encyclopaedisch Bureau's account, the introduction of the civiele lijst was the principal financial innovation of the newer regulation of the political relationship between the Gouvernement and the zelfbesturen — a regulation codified by the [[Zelfbestuurs-ordonnantie|Zelfbestuurs-ordonnantie]] of [[1914]] and applying to all zelfbesturen, including those of the [[Atjeh en Onderhoorigheden|Atjeh and Dependencies]] residency.

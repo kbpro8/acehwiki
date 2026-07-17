@@ -1,6 +1,6 @@
 ---
 title: "Captain Coombs' first Acheh mission (1817-1818)"
-aliases: ["Coombs' first mission\""]
+aliases: ["Coombs' first mission"]
 tags: [event, mission, diplomacy, colonial, acheh]
 ---
 

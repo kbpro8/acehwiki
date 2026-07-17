@@ -1,6 +1,6 @@
 ---
 title: Marga Ramin legend (Boven-Singkel)
-aliases: ["Boven-Singkel origin legend\"", "Gedong legend\"", "legend of the Atjeher of Pasei and the buffalo and the eel\"", "marga Ramin legend\"", "marga Ramin origin legend\""]
+aliases: ["Boven-Singkel origin legend", "Gedong legend", "legend of the Atjeher of Pasei and the buffalo and the eel", "marga Ramin legend", "marga Ramin origin legend"]
 
 tags: ["achehnese", "concept", "genealogy", "legend", "pantang", "singkil"]
 ---

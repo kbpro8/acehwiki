@@ -1,6 +1,6 @@
 ---
 title: Train (land) and Silan (Ceylon)
-aliases: ["in Diwa Sangsareh\""]
+aliases: ["in Diwa Sangsareh"]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Rabò
-aliases: ["Rabo\"", "Rabò (near Poelo Breuëh)\"", "Rabò islet\"", "islet of Rabò\""]
+aliases: ["Rabo", "Rabò (near Poelo Breuëh)", "Rabò islet", "islet of Rabò"]
 
 tags: ["achehnese", "island", "place", "ritual"]
 ---

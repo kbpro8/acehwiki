@@ -1,6 +1,6 @@
 ---
 title: Baris-Laksamana
-aliases: ["Atjeh magic circle for stall\"", "Ramayana magic circle\"", "baris-Laksamana\"", "laqseumana\"", "magic circle of Laksamana\"", "oeris-Laksamana\"", "uris Laksamana\""]
+aliases: ["Atjeh magic circle for stall", "Ramayana magic circle", "baris-Laksamana", "laqseumana", "magic circle of Laksamana", "oeris-Laksamana", "uris Laksamana"]
 
 tags: ["achehnese", "concept", "folk-belief", "magic", "ramayana", "sumatra"]
 ---

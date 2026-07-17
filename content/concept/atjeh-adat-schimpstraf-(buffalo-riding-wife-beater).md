@@ -1,6 +1,6 @@
 ---
 title: Atjeh adat schimpstraf (buffalo-riding wife-beater)
-aliases: ["Atjeh schimpstraf\"", "Atjeh wife-beater punishment\"", "adat schimpstraf Atjeh\"", "buffalo-riding punishment Atjeh\"", "wife-beater paraded on a buffalo in Atjeh\""]
+aliases: ["Atjeh schimpstraf", "Atjeh wife-beater punishment", "adat schimpstraf Atjeh", "buffalo-riding punishment Atjeh", "wife-beater paraded on a buffalo in Atjeh"]
 
 tags: ["achehnese", "adat", "concept", "law", "punishment"]
 ---

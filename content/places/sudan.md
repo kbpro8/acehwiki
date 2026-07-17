@@ -1,6 +1,6 @@
 ---
 title: Sudan
-aliases: ["Mahdists\""]
+aliases: ["Mahdists"]
 tags: ["place", "sacred-site", "foreign-land"]
 ---
 

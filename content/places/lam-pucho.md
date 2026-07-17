@@ -1,6 +1,6 @@
 ---
 title: "Lam Pucho'"
-aliases: ["in sadati kisah\""]
+aliases: ["in sadati kisah"]
 tags: ["place", "legendary-land"]
 ---
 

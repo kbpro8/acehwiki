@@ -1,6 +1,6 @@
 ---
 title: Alasland
-aliases: ["Alas (landschap)\"", "Alas country\"", "Alas land\"", "Alas valley\"", "Alas-land\"", "Tanah Alas\""]
+aliases: ["Alas (landschap)", "Alas country", "Alas land", "Alas valley", "Alas-land", "Tanah Alas"]
 
 tags: ["achehnese", "alas", "highland", "place"]
 ---

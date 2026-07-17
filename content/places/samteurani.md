@@ -1,6 +1,6 @@
 ---
 title: Samteurani
-aliases: ["in Hikayat Sulutan Boseutaman\""]
+aliases: ["in Hikayat Sulutan Boseutaman"]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

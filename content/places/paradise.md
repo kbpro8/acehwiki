@@ -1,6 +1,6 @@
 ---
 title: Paradise
-aliases: ["Jannah / Garden of Eden\""]
+aliases: ["Jannah / Garden of Eden"]
 tags: ["place", "legendary-land"]
 ---
 

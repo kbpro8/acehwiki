@@ -1,6 +1,6 @@
 ---
 title: "Snouck Hurgronje's De Atjehers (1893-94)"
-aliases: ["De Atjehers\"", "De Atjèhers\"", "Snouck Atjehers\"", "Snouck Hurgronje De Atjehers\"", "Snouck's Atjehers\"", "The Achehnese (Snouck Hurgronje)\""]
+aliases: ["De Atjehers", "De Atjèhers", "Snouck Atjehers", "Snouck Hurgronje De Atjehers", "Snouck's Atjehers", "The Achehnese (Snouck Hurgronje)"]
 
 tags: ["achehnese", "book", "colonial", "document", "dutch", "ethnography"]
 ---

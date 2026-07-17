@@ -3,7 +3,7 @@ title: Teuku Kali Malikon Ade
 aliases: ["Teuku Kali Malikon Ade", "Teuku Malikon Ade", "Teuku Kali", "the Teuku Kali", "Kali", "Kali Malikon Ade", "the Kali Malikon Ade", "Malikon Ade", "Kali Malikul-adil", "Malikul Adil", "Qadlu Malikul Adil", "Qadi Maliku'l-Adil", "Qāḍlu Malikul ʿĀdil", "Judge of the Righteous King"]
 
 tags: [title, office, judge, kali, adat-official, sultanate, court-official, uleebalang, hereditary, acehnese]
-description: "The hereditary title of the chief judicial officer of the Acehnese Sultanate — \"Judge of the Righteous King\" — which by the late 19th century had degenerated from a learned presidency of the royal court of justice into a secular uleebalangship of twelve gampongs near the Dalam."
+description: "The hereditary title of the chief judicial officer of the Acehnese Sultanate — Judge of the Righteous King — which by the late 19th century had degenerated from a learned presidency of the royal court of justice into a secular uleebalangship of twelve gampongs near the Dalam."
 ---
 
 > **Note on nomenclature.** The title is variously spelt in the sources as *Teuku Kali Malikon Ade*, *Teuku Malikon Ade*, *Kali Malikon Ade*, and *Kali Malikul-adil*. The Achehnese forms *Malikon Ade* / *Kali Malikul-adil* render the Arabic *Qāḍlu Malikul ʿĀdil* ("Judge of the Righteous King"). The prefix *Teuku* borne by the title-holder points unequivocally to the complete secularisation of the office by the late nineteenth century. All forms denote the same hereditary dignity — the chief judicial office of the Sultanate of [[Aceh]] — and the same lineage of bearers descended from the [[Ja Sandang|Ja Sandang]] tribe. The article treats the title and lineage as a single entity.

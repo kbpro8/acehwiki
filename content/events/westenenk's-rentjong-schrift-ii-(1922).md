@@ -1,6 +1,6 @@
 ---
 title: "Westenenk's Rëntjong-schrift, II (1922)"
-aliases: ["Beschreven hoorns in het landschap Krintji\"", "Rëntjong-schrift II\"", "Westenenk Rëntjong-schrift\"", "Westenenk 1922 rencong-schrift article\""]
+aliases: ["Beschreven hoorns in het landschap Krintji", "Rëntjong-schrift II", "Westenenk Rëntjong-schrift", "Westenenk 1922 rencong-schrift article"]
 
 tags: ["achehnese", "article", "colonial", "document", "dutch", "ethnography"]
 ---

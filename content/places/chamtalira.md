@@ -1,6 +1,6 @@
 ---
 title: Chamtalira
-aliases: ["= Sumatra / Pase in Achehnese romances\""]
+aliases: ["= Sumatra / Pase in Achehnese romances"]
 tags: ["place", "sacred-site", "foreign-land", "hikayat-place", "fictional-kingdom"]
 ---
 

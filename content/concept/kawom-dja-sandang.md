@@ -1,6 +1,6 @@
 ---
 title: kawōm Dja Sandang
-aliases: ["Dja Sandang lineage\"", "kawom Dja Sandang\"", "kawōm Dja Sandang of Groot-Atjeh\"", "old-fashioned lineage of Groot-Atjeh\""]
+aliases: ["Dja Sandang lineage", "kawom Dja Sandang", "kawōm Dja Sandang of Groot-Atjeh", "old-fashioned lineage of Groot-Atjeh"]
 
 tags: ["achehnese", "adat", "concept", "lineage", "pantang"]
 ---
