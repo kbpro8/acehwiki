@@ -1,6 +1,6 @@
 ---
 title: Pen (Atjeh)
-aliases: [Pen, Atjeh pen, Pen concept, "field must be pen", Atjehnese open-wide concept]
+aliases: ["Pen", "Atjeh pen", "Pen concept", "field must be pen", "Atjehnese open-wide concept"]
 tags: [concept, religious, folkbelief, achehnese]
 ---
 

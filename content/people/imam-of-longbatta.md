@@ -1,7 +1,7 @@
 ---
 
 title: Imam of Longbatta
-aliases: ["Imam", "Longbatta", "Imam", "Longbattah", "Imam", "of", "Longbattah", "the", "Imam", "of", "Longbatta", "Imeum", "of", "Lueng", "Bata", "Imeum", "Lueng", "Bata", "Imeum", "Longbatta", "Iman", "Longbatta", "Iman", "of", "Longbatta", "Toekoe Imam Longbattah", "Toekoe Imam Longbatta", "Teungku Imam Longbattah", "the Imam of Longbatta", "Iman", "Imam van Daroe", "Imam van Lam-Koenjit", "Imam Lam-Rebo", "Imam of Siem", "Imam of Lamara"]
+aliases: ["Imam", "Longbatta", "Longbattah", "of", "the", "Imeum", "Lueng", "Bata", "Iman", "Toekoe Imam Longbattah", "Toekoe Imam Longbatta", "Teungku Imam Longbattah", "the Imam of Longbatta", "Imam van Daroe", "Imam van Lam-Koenjit", "Imam Lam-Rebo", "Imam of Siem", "Imam of Lamara"]
 tags: [person, imam, religious-leader, acehnese, aceh-war, military-leader, uleebalang, concept, religious, sultanate]
 ---
 

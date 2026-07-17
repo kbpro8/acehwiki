@@ -1,6 +1,6 @@
 ---
 title: Takengon
-aliases: [Takengon, Takenggan, "Takengon on the Laoet Tawar"]
+aliases: ["Takengon", "Takenggan", "Takengon on the Laoet Tawar"]
 tags: [place, city, gayoland, aceh, aceh-war, 20th-century]
 description: "Place in Gayoland on the plain between the lake (Laoet Tawar) and the mountains, which 'could be a city'; reachable by auto; known for its quarrelsomeness; six march days from Blang Kedjeren via Isaq; on the Reket-Goip, Simpang tiga road; the Lökop road."
 ---

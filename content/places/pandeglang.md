@@ -1,6 +1,6 @@
 ---
 title: Pandeglang
-aliases: [Banten, "Java"]
+aliases: ["Banten", "Java"]
 tags: ["place", "legendary-land"]
 ---
 

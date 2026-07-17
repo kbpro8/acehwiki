@@ -1,6 +1,6 @@
 ---
 title: "Kanduri Mo'lot"
-aliases: [Kanduri Maulid, Kanduri Mulud, Maulid feast, "Mo'lot feast"]
+aliases: ["Kanduri Maulid", "Kanduri Mulud", "Maulid feast", "Mo'lot feast"]
 tags: [event, religious, festival, ceremony]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Lambaroe
-aliases: [Lambaroe, Lambarih, "V Moekims Montassik post"]
+aliases: ["Lambaroe", "Lambarih", "V Moekims Montassik post"]
 tags: [place, aceh, village, achehnese, dutch, colonial, military, aceh-war, xxii-moekims, buitenlinie, 1896, 19th-century]
 ---
 

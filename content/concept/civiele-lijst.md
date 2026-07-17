@@ -1,6 +1,6 @@
 ---
 title: Civiele lijst
-aliases: [Civil list (zelfbesturen), civiele lijst of zelfbestuurders, the civil list of native rulers, "the landschap ruler's stipend"]
+aliases: ["Civil list (zelfbesturen)", "civiele lijst of zelfbestuurders", "the civil list of native rulers", "the landschap ruler's stipend"]
 tags: [concept, colonial, dutch, finance, administration, buitenbezittingen, aceh, zelfbesturen]
 description: "The civiele lijst — the civil list (fixed stipend) paid to the native rulers of the zelfbesturen (self-governing territories) from the landschapskas (territorial treasury), in place of the older practice in which all revenues of a landschap were considered the private income of the ruler."
 ---

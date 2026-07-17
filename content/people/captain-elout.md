@@ -1,7 +1,7 @@
 ---
 
 title: Captain Elout
-aliases: [kapitein Elout, "Elout's son"]
+aliases: ["kapitein Elout", "Elout's son"]
 tags: [person, dutch-official, naval-officer, diplomat]
 ---
 

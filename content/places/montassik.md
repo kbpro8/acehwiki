@@ -1,6 +1,6 @@
 ---
 title: Montassik
-aliases: [Montasik, Montassiek, Missigit Montassik, "V Moekims Montassik", "V Moekims Mont Tassik", "5 Mukims Montassik"]
+aliases: ["Montasik", "Montassiek", "Missigit Montassik", "V Moekims Montassik", "V Moekims Mont Tassik", "5 Mukims Montassik"]
 tags: [place, kampong, acehnese, aceh-war, xxii-moekims, v-moekims-montassik, dutch, colonial, military, lamkrak]
 ---
 

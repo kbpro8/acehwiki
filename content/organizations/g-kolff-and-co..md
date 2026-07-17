@@ -1,6 +1,6 @@
 ---
 title: "G. Kolff & Co."
-aliases: [G. Kolff and Co., Kolff, Firma G. Kolff, "Kolff & Co. Batavia"]
+aliases: ["G. Kolff and Co.", "Kolff", "Firma G. Kolff", "Kolff & Co. Batavia"]
 tags: [organization, printing, publishing, colonial, dutch, batavia]
 description: "G. Kolff & Co. was a printing and publishing firm based in Batavia, the largest such enterprise in the Dutch East Indies. It printed the Nederlandsch Indië Platen Atlas in 1926 and also produced the Neresco sigars."
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tueng Meunar
-aliases: [Tueng meunar, Tueng meunaro, Fetching the bride, "Bride's first visit"]
+aliases: ["Tueng meunar", "Tueng meunaro", "Fetching the bride", "Bride's first visit"]
 tags: [event, marriage-custom, adat, family-law]
 ---
 

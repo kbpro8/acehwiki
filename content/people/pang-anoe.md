@@ -1,6 +1,6 @@
 ---
 title: Pang Anoe
-aliases: [Pang Anoe, "the notorious Pang Anoe"]
+aliases: ["Pang Anoe", "the notorious Pang Anoe"]
 tags: [person, panglima, djahat, aceh, aceh-war, 20th-century]
 description: "Notorious Acehnese bandit long uncatchable; his wife of famous beauty approached Van Heutsz at Indrapoeri (Otken: 'What an extraordinarily beautiful woman'; Sachse: 'à hauteur d'une reine'); he visited a captain's concubine at bivak; later killed by Boreel's brigade led by his wife's betrayal near Lam Meulo."
 ---

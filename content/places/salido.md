@@ -1,6 +1,6 @@
 ---
 title: Salido
-aliases: ["Sillida", "Sillida", "Salido", "Salida", "Salida gold mine", "Salida (gold mine)", "Salida mine"]
+aliases: ["Sillida", "Salido", "Salida", "Salida gold mine", "Salida (gold mine)", "Salida mine"]
 tags: ["place", "sumatra", "westkust", "colonial", "gold", "mine"]
 ---
 

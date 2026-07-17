@@ -1,6 +1,6 @@
 ---
 title: Sirat al-Mustaqim
-aliases: [Sirāṭ al-mustaqīm, Ṣirāṭ al-mustaqīm, Siraat al-Mustaqim, Sirat al-moestakim, Sjirat al-moestakim, The Straight Path, Sirat al-mustaqim of Raniri, "Raniri's Sirat"]
+aliases: ["Sirāṭ al-mustaqīm", "Ṣirāṭ al-mustaqīm", "Siraat al-Mustaqim", "Sirat al-moestakim", "Sjirat al-moestakim", "The Straight Path", "Sirat al-mustaqim of Raniri", "Raniri's Sirat"]
 tags: [document, religious-work, islamic-scholarship, fiqh, shafi'i, malay, precolonial, 17th-century, aceh, raniri, source]
 description: "A Malay handbook of Shafi'i fiqh begun by Nuruddin ar-Raniri in 1634 and completed in 1644 at the command of Sultan Iskandar Thani of Aceh; the first systematic Malay handbook of religious duties and a foundational text of Malay religious prose."
 ---

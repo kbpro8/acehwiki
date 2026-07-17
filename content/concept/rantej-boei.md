@@ -1,6 +1,6 @@
 ---
 title: Rantej boei
-aliases: ["Rantej boei", "rantej boei", "rantej-boei", "rante boel", "rantej boel", "rantej boei", "rantej-boei amulet", "pig-mouth amulet", "Atjehsche amulet"]
+aliases: ["Rantej boei", "rantej boei", "rantej-boei", "rante boel", "rantej boel", "rantej-boei amulet", "pig-mouth amulet", "Atjehsche amulet"]
 tags: [concept, amulet, mystic, aceh, rantej-boei, rante-boel, kramat, koloniaal-museum]
 description: "The Atjehsche pig-mouth amulet — a stone believed to form by calcareous deposit in the jaw of a wild boar, protecting the wearer from lance and bullet; the boar drops it only when eating, when the pawang in a tree must take it; possessed by Tgk. Tjot Plieëng, Teukoe Brahim van Ndjong and old Tgk. Tjhi Samalanga; found on the body of Tgk. Tjot Plieëng; now in the Koloniaal Museum Amsterdam."
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lampoedaja
-aliases: ["Lampoedaja", "Lampoedaja"]
+aliases: ["Lampoedaja"]
 tags: [place, achehnese, sultanate]
 ---
 

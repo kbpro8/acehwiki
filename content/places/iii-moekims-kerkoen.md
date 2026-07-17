@@ -1,6 +1,6 @@
 ---
 title: III Moekims Kerkoen
-aliases: ["III Moekims Kerkoen", "3 Moekims Kerkoen", "III Moekims Kerkoen"]
+aliases: ["III Moekims Kerkoen", "3 Moekims Kerkoen"]
 tags: [place, achehnese, aceh-war, military]
 ---
 

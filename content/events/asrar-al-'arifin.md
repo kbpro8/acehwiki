@@ -1,6 +1,6 @@
 ---
 title: "Asrar al-'arifin"
-aliases: [Asrār al-ʿārifīn, Asrar al-arifin, Asrār al-ʿārifīn of Hamzah Pansuri, The Secrets of the Gnostics, "Hamzah Pansuri's Asrar al-'arifin"]
+aliases: ["Asrār al-ʿārifīn", "Asrar al-arifin", "Asrār al-ʿārifīn of Hamzah Pansuri", "The Secrets of the Gnostics", "Hamzah Pansuri's Asrar al-'arifin"]
 tags: [document, religious-work, sufi-text, malay-literature, wujudiyyah, precolonial, 16th-century, aceh, mysticism]
 ---
 

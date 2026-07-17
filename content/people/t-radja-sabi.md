@@ -1,6 +1,6 @@
 ---
 title: T. Radja Sabi
-aliases: [Teukoe Radja Sabi, T. Radja Sabi of Keureutoe, "the Eagle's Child", "l'Aiglon", adelaarsjong]
+aliases: ["Teukoe Radja Sabi", "T. Radja Sabi of Keureutoe", "the Eagle's Child", "l'Aiglon", "adelaarsjong"]
 tags: [person, aceh, aceh-war, keureutoe, 20th-century, resistance, oeleebalang, adelaarsjong]
 description: "Son of T. Tjhi Toenong and Tjoet Meuthia, born c. 1899, heir to the oeléëbalangschap of Keureutoe; carried by kawans through the forests 1905-1919, a tiger befriended him in Goenoeng Pandjang, submitted 13 March 1919; became waarnemend oeléëbalang of Keureutoe in 1937."
 ---

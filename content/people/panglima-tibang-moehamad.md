@@ -1,6 +1,6 @@
 ---
 title: Panglima Tibang Moehamad
-aliases: ["Panglima", "Tibang", "Moehamad", "Panglima", "Tibang", "Tibang", "Moehamad", "the", "sjahbandar", "of", "Atjèh", "the", "Atjèhnese", "envoy", "to", "Riouw", "Panglima Tibang", "the raadsman of the previous Sultan", "the Panglima who tried to poison Habib Abdurrahman"]
+aliases: ["Panglima", "Tibang", "Moehamad", "the", "sjahbandar", "of", "Atjèh", "Atjèhnese", "envoy", "to", "Riouw", "Panglima Tibang", "the raadsman of the previous Sultan", "the Panglima who tried to poison Habib Abdurrahman"]
 tags: [person, atjehnese, diplomat, envoy, sjahbandar, 1872, 1873, atjeh-oorlog]
 ---
 

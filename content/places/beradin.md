@@ -1,6 +1,6 @@
 ---
 title: Beradin
-aliases: [Beradin Pass, Beradin, "Vallei van Beradin", "Kloof van Beradin"]
+aliases: ["Beradin Pass", "Beradin", "Vallei van Beradin", "Kloof van Beradin"]
 tags: [place, aceh, mountain-pass, iv-vi-moekims, achehnese, aceh-war, military]
 ---
 

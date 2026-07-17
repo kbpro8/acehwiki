@@ -1,6 +1,6 @@
 ---
 title: Geconcentreerde linie
-aliases: [geconcentreerde linie, concentrated line, the unsound system of the concentrated line, Concentrated Line, Geconcentreerde Linie, Linie, "Gec. Linie"]
+aliases: ["geconcentreerde linie", "concentrated line", "the unsound system of the concentrated line", "Concentrated Line", "Geconcentreerde Linie", "Linie", "Gec. Linie"]
 tags: [concept, military-strategy, aceh, colonial, dutch, military, aceh-war, 19th-century]
 ---
 

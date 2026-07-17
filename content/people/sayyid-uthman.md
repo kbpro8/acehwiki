@@ -1,7 +1,7 @@
 ---
 
 title: "Sayyid 'Uthman"
-aliases: [Sayyid Uthman, Sayyid Oethman, "the Sayyid 'Uthman of Batavia"]
+aliases: ["Sayyid Uthman", "Sayyid Oethman", "the Sayyid 'Uthman of Batavia"]
 tags: [person, religious-figure, scholar, sayyid, arab, java]
 ---
 

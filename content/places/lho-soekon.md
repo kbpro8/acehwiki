@@ -1,6 +1,6 @@
 ---
 title: Lho Soekon
-aliases: [Lho Soekon, Lho Sukon, Lhok Sukon, Lho' Soekon, "bivak Lho Soekon"]
+aliases: ["Lho Soekon", "Lho Sukon", "Lhok Sukon", "Lho' Soekon", "bivak Lho Soekon"]
 tags: [place, bivak, aceh, aceh-war, north-coast, colonial, dutch, 20th-century, pang-nanggroe]
 description: "Bivak and post in the Lho Seumawé area, seat of the civiel-gezaghebber Schouten, the division command, and the centre of resistance of Pang Nanggroë; the graves of Pang Nanggroë and Pang Lateh lie behind the keudé in kandangs."
 ---

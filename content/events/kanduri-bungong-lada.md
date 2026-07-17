@@ -1,6 +1,6 @@
 ---
 title: Kanduri bungong lada (Pepper-blossom feast)
-aliases: [Kanduri bungong lada, Pepper-blossom feast, "Pepper-planters' kanduri"]
+aliases: ["Kanduri bungong lada", "Pepper-blossom feast", "Pepper-planters' kanduri"]
 tags: [event, religious, festival, agricultural, calendar, ceremony]
 ---
 

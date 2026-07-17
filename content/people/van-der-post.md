@@ -1,6 +1,6 @@
 ---
 title: Van der Post
-aliases: ["Van der Post", Brigadecommandant Van der Post, "de kleine bleeke Van der Post"]
+aliases: ["Van der Post", "Brigadecommandant Van der Post", "de kleine bleeke Van der Post"]
 tags: [person, brigadecommandant, dutch, aceh, aceh-war, 20th-century, blang-kedjeren]
 description: "Small, pale brigadecommandant of the Korps Maréchaussée at Blang Kedjeren who restored discipline to a mutinous brigade in 1909-1910 with sharp commands 'Aantreden!'; later stabbed to death by his Acehnese housekeeper."
 ---

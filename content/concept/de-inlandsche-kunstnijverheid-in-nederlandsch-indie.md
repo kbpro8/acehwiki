@@ -1,6 +1,6 @@
 ---
 title: De Inlandsche Kunstnijverheid in Nederlandsch-Indië
-aliases: [Inlandsche Kunstnijverheid in Nederlandsch-Indië, Jasper en Pirngadie, "Jasper & Pirngadie", Jasper-Pirngadie, De Inlandsche Kunstnijverheid, Indigenous Arts and Crafts in the Netherlands Indies, J. E. Jasper en Mas Pirngadie, Vol. IV of the Inlandsche Kunstnijverheid]
+aliases: ["Inlandsche Kunstnijverheid in Nederlandsch-Indië", "Jasper en Pirngadie", "Jasper & Pirngadie", "Jasper-Pirngadie", "De Inlandsche Kunstnijverheid", "Indigenous Arts and Crafts in the Netherlands Indies", "J. E. Jasper en Mas Pirngadie", "Vol. IV of the Inlandsche Kunstnijverheid"]
 tags: [document, source-book, dutch, colonial, decorative-art, indonesia, multi-volume]
 ---
 

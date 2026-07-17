@@ -1,6 +1,6 @@
 ---
 title: Toeankoe Machmoed Radja Keumala
-aliases: [Toeankoe Machmoed Radja Keumala, T. Machmoed Radja Keumala, "Sultan's-family member"]
+aliases: ["Toeankoe Machmoed Radja Keumala", "T. Machmoed Radja Keumala", "Sultan's-family member"]
 tags: [person, acehnese, sultanate, diplomat]
 ---
 

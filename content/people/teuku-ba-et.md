@@ -1,7 +1,7 @@
 ---
 
 title: "Teuku Ba'et"
-aliases: [uleebalang of the VII Mukims of the XXII, Teuku Muda Ba-et, "Uleebalang of the Seven Mukims Ba'et"]
+aliases: ["uleebalang of the VII Mukims of the XXII", "Teuku Muda Ba-et", "Uleebalang of the Seven Mukims Ba'et"]
 tags: [person, warrior, uleebalang, sultanate]
 ---
 

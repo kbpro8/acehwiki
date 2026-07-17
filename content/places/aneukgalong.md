@@ -1,6 +1,6 @@
 ---
 title: Aneukgalong
-aliases: [Aneukgalong, Anakgaloeng, Aneuëgalong, Anakgalong, "benteng Aneukgalong", "benteng Anakgalong"]
+aliases: ["Aneukgalong", "Anakgaloeng", "Aneuëgalong", "Anakgalong", "benteng Aneukgalong", "benteng Anakgalong"]
 tags: [place, benteng, aceh, aceh-war, groot-atjeh, 19th-century, aneukgalong]
 description: "Benteng in Groot-Atjeh, abandoned after Teukoe Oemar's defection in 1896, seized and fortified by Tgk. Mat Amin di Tiro; stormed at dawn 28-29 March 1896 by a column under Van Heutsz with Van Daalen as chef-staf; Tgk. Mat Amin killed; 110 Acehnese dead, two living wounded boys 5-6 years old; 'hand-to-hand fighting, no quarter'."
 ---

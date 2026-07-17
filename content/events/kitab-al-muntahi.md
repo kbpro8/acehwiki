@@ -1,6 +1,6 @@
 ---
 title: Kitab al-Muntahi
-aliases: [Kitāb al-Muntahī, Kitab Muntahi, Kitab al-Muttahi, Kitāb al-Muttaḥī, The Book of the Ultimate, Muntahi, "Hamzah Pansuri's Muntahi"]
+aliases: ["Kitāb al-Muntahī", "Kitab Muntahi", "Kitab al-Muttahi", "Kitāb al-Muttaḥī", "The Book of the Ultimate", "Muntahi", "Hamzah Pansuri's Muntahi"]
 tags: [document, religious-work, sufi-text, malay-literature, wujudiyyah, precolonial, 16th-century, aceh, mysticism, javanese-translation]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Atjeh-Sumatra's Oostkust merger proposal"
-aliases: [Samenvoeging Atjeh en Oostkust, Combination of Atjeh and East Coast, Atjeh-Oostkust merger, Noord-Sumatra proposal, "Merger of Atjeh with Sumatra's East Coast"]
+aliases: ["Samenvoeging Atjeh en Oostkust", "Combination of Atjeh and East Coast", "Atjeh-Oostkust merger", "Noord-Sumatra proposal", "Merger of Atjeh with Sumatra's East Coast"]
 tags: [event, administrative-reform, merger, atjeh, oostkust, noord-sumatra, 1913, 1914]
 ---
 

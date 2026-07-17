@@ -1,6 +1,6 @@
 ---
 title: Potjoet Barin
-aliases: [Cut Barin, Potjoet Barin of Toengkob, "the mannetjesputter of Toengkob"]
+aliases: ["Cut Barin", "Potjoet Barin of Toengkob", "the mannetjesputter of Toengkob"]
 tags: [person, woman, oeleebalang, aceh, aceh-war, westkust, toengkob, boven-wojla, 20th-century]
 description: "Oeléëbalang of Toengkob (Westkust, Boven-Wojla, Kawaj XII), daughter of Teukoe Tjoet Amat; followed her husband in war; kept many lovers as bodyguard; shot in the lower leg by Lt. Hoogers's patrol from Koeala Beh; leg amputated; given a wooden leg from Holland by Veltman; appointed oeléëbalang by Veltman; improvised pantouns; died 1933; second husband nicknamed 'prins gemaal'."
 ---

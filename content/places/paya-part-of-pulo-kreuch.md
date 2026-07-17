@@ -1,6 +1,6 @@
 ---
 title: Paya (part of Pulo Kreuch
-aliases: [Bras), Tuan di Kala on the same island, "Teungku di Keureuse'"]
+aliases: ["Bras)", "Tuan di Kala on the same island", "Teungku di Keureuse'"]
 tags: ["place", "island"]
 ---
 

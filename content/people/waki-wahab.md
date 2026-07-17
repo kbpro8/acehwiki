@@ -1,6 +1,6 @@
 ---
 title: Waki Wahab
-aliases: ["Waki Wahab", "De Kwab", "De Kwab" Waki Wahab, Waki Wahab the spy]
+aliases: ["Waki Wahab", "De Kwab", "De Kwab Waki Wahab", "Waki Wahab the spy"]
 tags: [person, spy, aceh, aceh-war, 20th-century, pidie]
 description: "Acehnese spy for the Dutch, called De Kwab because of a gezwel at the neck; received the rantej boei amulet from Van Daalen, gave it to Veltman; described by Zentgraff as 'eigenlijk een groot zondaar' — in truth a great sinner."
 ---

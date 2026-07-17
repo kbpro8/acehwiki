@@ -1,6 +1,6 @@
 ---
 title: Atjeh-opstellen
-aliases: [Aceh Essays, "Keuchenius's Aceh Essays"]
+aliases: ["Aceh Essays", "Keuchenius's Aceh Essays"]
 tags: [document, publication, colonial, politics, aceh]
 ---
 

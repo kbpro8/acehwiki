@@ -1,7 +1,7 @@
 ---
 
 title: Teungku Muhamat Amin
-aliases: [Teungku di Tiro, "Teungku Chi' di Tiro"]
+aliases: ["Teungku di Tiro", "Teungku Chi' di Tiro"]
 tags: [person, scholar]
 ---
 

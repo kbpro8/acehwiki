@@ -1,6 +1,6 @@
 ---
 title: Atjeh rotan shields
-aliases: [Atjehsche rotan schilden, Atjeh rotan schild, Atjehse rieten schilden, Atjeh rattan shields, Acehnese rotan shields, "Atjehers' rotan shields"]
+aliases: ["Atjehsche rotan schilden", "Atjeh rotan schild", "Atjehse rieten schilden", "Atjeh rattan shields", "Acehnese rotan shields", "Atjehers' rotan shields"]
 tags: [concept, object, achehnese, weapon, rotan, plaiting, shield, precolonial]
 ---
 

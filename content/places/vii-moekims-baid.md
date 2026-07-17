@@ -1,6 +1,6 @@
 ---
 title: VII Moekims Baid
-aliases: ["VII Moekims Baid", "7 Mukims Baid", "VII Moekims Baid"]
+aliases: ["VII Moekims Baid", "7 Mukims Baid"]
 tags: [place, achehnese, succession, sultanate]
 ---
 

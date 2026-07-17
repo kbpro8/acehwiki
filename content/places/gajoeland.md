@@ -1,6 +1,6 @@
 ---
 title: Gajoeland
-aliases: [Gajoeland, Gajoe-Loeös, Gayoland, Gayo Loeös, Gayo Lues, "the Gajo-Loeös", "Gajoland"]
+aliases: ["Gajoeland", "Gajoe-Loeös", "Gayoland", "Gayo Loeös", "Gayo Lues", "the Gajo-Loeös", "Gajoland"]
 tags: [place, region, highland, gayoland, aceh, aceh-war, 20th-century, interior]
 description: "The central highland plain of the Gayo people, its 'blangs' grass plains with pine trees like a jewel set in a frame of mountains; three march days of forest to reach it; Zentgraff's 'C'est chose bien commune... Moi, j'aime la lointaine Princesse!'; Wilhelminagebergte, Goenoeng Loser, Takengon, Laoet Tiga Sagi lake."
 ---

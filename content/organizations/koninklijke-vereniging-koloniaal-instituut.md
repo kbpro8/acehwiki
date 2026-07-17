@@ -1,6 +1,6 @@
 ---
 title: Koninklijke Vereeniging Koloniaal Instituut
-aliases: [Koninklijke Vereeniging Koloniaal Instituut, "Koninklijke Vereniging Indisch Instituut", Koninklijk Koloniaal Instituut, Koninklijk Indisch Instituut, Koloniaal Instituut Amsterdam, K.I., Kon. Vereeniging Koloniaal Instituut, the Amsterdam Colonial Institute, Royal Colonial Institute Amsterdam, Royal Association Colonial Institute, Koloniaal Instituut Afd. Volkenkunde, Afdeeling Volkenkunde van het Indisch Instituut, "Koninklijke Vereeniging Indisch Instituut", Royal Tropical Institute predecessor]
+aliases: ["Koninklijke Vereeniging Koloniaal Instituut", "Koninklijke Vereniging Indisch Instituut", "Koninklijk Koloniaal Instituut", "Koninklijk Indisch Instituut", "Koloniaal Instituut Amsterdam", "K.I.", "Kon. Vereeniging Koloniaal Instituut", "the Amsterdam Colonial Institute", "Royal Colonial Institute Amsterdam", "Royal Association Colonial Institute", "Koloniaal Instituut Afd. Volkenkunde", "Afdeeling Volkenkunde van het Indisch Instituut", "Koninklijke Vereeniging Indisch Instituut", "Royal Tropical Institute predecessor"]
 tags: [organization, institution, dutch, colonial, ethnography, ethnology, amsterdam, publishing]
 description: "Amsterdam-based Dutch colonial-ethnographic institute; founded as the Koloniaal Instituut, reorganised after Indonesian independence as the Indisch Instituut, and the predecessor of the Royal Tropical Institute."
 ---

@@ -1,6 +1,6 @@
 ---
 title: XIII Moekims Toengkoeb
-aliases: ["XIII Moekims Toengkoeb", "13 Mukims Toengkoeb", "XIII Moekims Toengkoeb"]
+aliases: ["XIII Moekims Toengkoeb", "13 Mukims Toengkoeb"]
 tags: [place, achehnese, aceh-war, military]
 ---
 

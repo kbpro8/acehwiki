@@ -1,6 +1,6 @@
 ---
 title: Peutoea Gam Masèn
-aliases: [Peutoea Gam Masen, Peutö Gam Masén, "heerscher over de tijgers", "Lord of the Tigers"]
+aliases: ["Peutoea Gam Masen", "Peutö Gam Masén", "heerscher over de tijgers", "Lord of the Tigers"]
 tags: [person, oelama, mystic, aceh, aceh-war, westkust, 20th-century, resistance, sjahid, tiger-lord]
 description: "Peutoea of Masén (Westkust), teacher of onkwetsbaarheid and known as 'heerscher over de tijgers'; killed 2 May 1910 by Schmidt's brigade at a ladang near Aloeë Simi, charging the maréchaussée's with his rentjong; his wife and daughter were present."
 ---

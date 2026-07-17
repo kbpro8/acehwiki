@@ -1,6 +1,6 @@
 ---
 title: Kota Radja
-aliases: [Kota Radja, Kraton, Kuta Raja, Kota Raja, Kota-Radja, "Kraton (Koeta Radja)", Keraton, "Sultan's palace"]
+aliases: ["Kota Radja", "Kraton", "Kuta Raja", "Kota Raja", "Kota-Radja", "Kraton (Koeta Radja)", "Keraton", "Sultan's palace"]
 tags: [place, aceh, city, capital, colonial, concept, achehnese, dutch, sultanate, military]
 ---
 

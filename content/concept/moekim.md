@@ -1,6 +1,6 @@
 ---
 title: Moekim
-aliases: [mukim, moeqim, ecclesiastical-administrative unit of Aceh, Moekim, Mockim, Mockims, Mukims, Moekims, "M."]
+aliases: ["mukim", "moeqim", "ecclesiastical-administrative unit of Aceh", "Moekim", "Mockim", "Mockims", "Mukims", "Moekims", "M."]
 tags: [concept, administrative, religious, achehnese, sultanate, sumatra]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Pang Nanggroë
-aliases: [Pang Nanggroë, Pang Nanggroe, "the Watergeus", de Watergeus]
+aliases: ["Pang Nanggroë", "Pang Nanggroe", "the Watergeus", "de Watergeus"]
 tags: [person, panglima, aceh, aceh-war, keureutoe, 20th-century, resistance, sjahid, watergeus]
 description: "Panglima of the Keureutoe resistance 1905-1910; from Matang Teungoh, a 'toeha peuë' (member of the kampong bestuur); third husband of Tjoet Meuthia, led attacks on Simpang Olim 22 August 1902 (earlier under T. Tjhi Toenong), Meunasah Djeuro 1902, Keudé Bawang and Idi; killed 26 September 1910 by Van Slooten's brigade in the Paja Tjitcem moeras."
 ---

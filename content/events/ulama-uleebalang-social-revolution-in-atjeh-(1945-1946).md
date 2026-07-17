@@ -1,6 +1,6 @@
 ---
 title: Ulama–Uleëbalang social revolution in Atjeh (1945–1946)
-aliases: [Atjeh social revolution, Ulama-Uleebalang war, "Atjeh's green social revolution"]
+aliases: ["Atjeh social revolution", "Ulama-Uleebalang war", "Atjeh's green social revolution"]
 tags: [event, achehnese, religious, political, rebellion, post-colonial]
 ---
 

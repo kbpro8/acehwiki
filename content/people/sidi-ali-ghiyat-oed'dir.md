@@ -1,7 +1,7 @@
 ---
 
 title: "Sidi Ali Ghiyat oed'dir"
-aliases: [Sidi Ali Ghiyatuddin, Sidi Ali, Sidi Ali Ghiyat, "Sidi Ali Ghiyat oed'dir"]
+aliases: ["Sidi Ali Ghiyatuddin", "Sidi Ali", "Sidi Ali Ghiyat", "Sidi Ali Ghiyat oed'dir"]
 tags: [person, envoy, pasej, sadjarah-malajoe, religious]
 ---
 

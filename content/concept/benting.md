@@ -1,6 +1,6 @@
 ---
 title: Benting
-aliases: ["Benteng", "Benting", "system", "Sandbag", "benting", "Atjehese", "benting", "benteng", "Atjehnese fortification", "Atjehnese benting", "Atjehsche benting", "Koeta", "Kota", "Pagar", "Versterking"]
+aliases: ["Benteng", "Benting", "system", "Sandbag", "benting", "Atjehese", "benteng", "Atjehnese fortification", "Atjehnese benting", "Atjehsche benting", "Koeta", "Kota", "Pagar", "Versterking"]
 tags: [concept, fortification, acehnese, dutch, aceh-war, military, achehnese]
 ---
 

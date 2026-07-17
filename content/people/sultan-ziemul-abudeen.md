@@ -1,7 +1,7 @@
 ---
 
 title: Sultan Ziemul Abudeen
-aliases: [Ziemul Abudeen, Alauddin Mahmud Shah Djohan, "Alaoe'd-din Mahmoed Shah Djohan"]
+aliases: ["Ziemul Abudeen", "Alauddin Mahmud Shah Djohan", "Alaoe'd-din Mahmoed Shah Djohan"]
 tags: [person, sultan, achehnese]
 ---
 

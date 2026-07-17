@@ -1,6 +1,6 @@
 ---
 title: "Matelieff's Malaka campaign (1606)"
-aliases: [Matelieff siege of Malaka 1606, Matelieff at Malaka, First Dutch siege of Malaka 1606, "Cornelis Matelieff's Malaka campaign"]
+aliases: ["Matelieff siege of Malaka 1606", "Matelieff at Malaka", "First Dutch siege of Malaka 1606", "Cornelis Matelieff's Malaka campaign"]
 tags: [event, dutch, portuguese, precolonial, atjeh, djohor, malaka, military, naval, 1606, matelieff, voc]
 ---
 

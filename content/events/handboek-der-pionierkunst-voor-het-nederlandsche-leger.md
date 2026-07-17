@@ -1,6 +1,6 @@
 ---
 title: Handboek der Pionierkunst voor het Nederlandsche Leger
-aliases: [Handboek der Pionierkunst, Handbook of Sapping for the Dutch Army, "Snijders' Pionierkunst handbook"]
+aliases: ["Handboek der Pionierkunst", "Handbook of Sapping for the Dutch Army", "Snijders' Pionierkunst handbook"]
 tags: [document, textbook, dutch, military, engineers, kma]
 ---
 

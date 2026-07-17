@@ -1,6 +1,6 @@
 ---
 title: Groot-Atjeh
-aliases: [Atjeh proper, Banda Aceh region, Eigenlijk Atjeh, Great Aceh, Great Acheh, Greater Aceh, Groot-Atchéh, Groot-Atje, Groote Atjeh, Proper Acheh, Greater Atjeh, Aceh Besar, Groot Atjeh, Atjeh Besar, "Groot Atjeh"]
+aliases: ["Atjeh proper", "Banda Aceh region", "Eigenlijk Atjeh", "Great Aceh", "Great Acheh", "Greater Aceh", "Groot-Atchéh", "Groot-Atje", "Groote Atjeh", "Proper Acheh", "Greater Atjeh", "Aceh Besar", "Groot Atjeh", "Atjeh Besar"]
 tags: [place, region, aceh-proper, aceh-war, acehnese, achehnese, colonial, afdeeling, rechtstreeks-bestuurd-gebied, atjeh, sagi, administrative-division, sultanate, sumatra, military]
 ---
 

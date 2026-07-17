@@ -1,6 +1,6 @@
 ---
 title: Oleh-leh
-aliases: [Olehleh, Oleh Leh, Uleelheue, Oleh-leh Atjeh, "Oleh-leh Oost"]
+aliases: ["Olehleh", "Oleh Leh", "Uleelheue", "Oleh-leh Atjeh", "Oleh-leh Oost"]
 tags: [place, port, dutch-colonial, aceh-war, 19th-century, dutch, colonial, military]
 ---
 

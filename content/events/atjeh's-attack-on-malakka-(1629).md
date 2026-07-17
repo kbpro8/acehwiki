@@ -1,6 +1,6 @@
 ---
 title: "Atjeh's attack on Malakka (1629)"
-aliases: [Atjehsche vloot op Malakka, Acehnese attack on Malacca 1629, Battle of Malacca 1629, "Iskandar Muda's Malacca expedition"]
+aliases: ["Atjehsche vloot op Malakka", "Acehnese attack on Malacca 1629", "Battle of Malacca 1629", "Iskandar Muda's Malacca expedition"]
 tags: [event, war, malay, colonial, military, achehnese]
 ---
 

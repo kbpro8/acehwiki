@@ -1,6 +1,6 @@
 ---
 title: Five daily prayers (seumayangs)
-aliases: [Five daily prayers, Seumayang, Ṣalāt, Achehnese daily prayers, "Wate'e"]
+aliases: ["Five daily prayers", "Seumayang", "Ṣalāt", "Achehnese daily prayers", "Wate'e"]
 tags: [event, religious, ceremony, festival]
 ---
 

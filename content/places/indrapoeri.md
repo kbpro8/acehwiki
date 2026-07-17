@@ -1,6 +1,6 @@
 ---
 title: Indrapoeri
-aliases: [Indrapoeri, Indrapuri, Indra Poeri, "bivak Indrapoeri"]
+aliases: ["Indrapoeri", "Indrapuri", "Indra Poeri", "bivak Indrapoeri"]
 tags: [place, aceh, aceh-war, koetaradja, 19th-century, cemetery, indrapoeri]
 description: "Place near Koetaradja, the residence of colonel Van Heutsz; the site of a mass grave of 28 soldiers killed in the Glé Jeung ambush, in a small neglected cemetery; Van Heutsz's 'Dit graf zal vereeuwigd worden' — but the grave is forgotten; the Genie worked all night on the coffins."
 ---

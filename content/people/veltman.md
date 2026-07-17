@@ -1,6 +1,6 @@
 ---
 title: Veltman
-aliases: [Veltman, Gen. Maj. tit. Veltman, "Toean Padoman", "Ton Padoman", "Toean Padoman" Veltman]
+aliases: ["Veltman", "Gen. Maj. tit. Veltman", "Toean Padoman", "Ton Padoman", "Toean Padoman Veltman"]
 tags: [person, officer, dutch, aceh, aceh-war, 20th-century, westkust, pidie]
 description: "The Dutch maréchaussée-officer known to the Atjehers as Toean Padoman, the Guide; treated the wounded Potjoet Meurah, appointed Potjoet Barin as oeléëbalang and arranged her wooden leg, accepted the surrender of Tjoet Nja Din, and survived a pawang rimoeëng course."
 ---

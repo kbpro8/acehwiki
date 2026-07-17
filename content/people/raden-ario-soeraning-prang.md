@@ -1,6 +1,6 @@
 ---
 title: Raden Ario Soeraning Prang
-aliases: ["Raden Ario Soeraning Prang", "Raden Ario Soeraning Prang"]
+aliases: ["Raden Ario Soeraning Prang"]
 tags: [person, military, acehnese, dutch-colonial]
 ---
 **Raden Ario Soeraning Prang** was a **majoor** (major) of the **harisans** (native auxiliary troops) from **Soemenap**, who served in the Dutch colonial forces during the **Aceh War** in the mid‑1870s. He is recorded as wielding a hereditary poisoned lance while leading his men during the assault on **Adjoen** on [[30 December]] [[1875]] (see [[page 135]]). His role was pivotal in breaking the resistance of the **Atjehers** at the kampong edge, after which the Dutch column entered the settlement.

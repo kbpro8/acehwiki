@@ -1,6 +1,6 @@
 ---
 title: Kroëng Raba
-aliases: [Krueng Raba, Kroeng Raba, Kroëng Raba Atjeh, Krueng-Raba, Krueng Raba fort, "Kroeng-Raba", "Kroeng-Ralb", "Kroeng-Rababaai", "Kroeng-Raba-baai"]
+aliases: ["Krueng Raba", "Kroeng Raba", "Kroëng Raba Atjeh", "Krueng-Raba", "Krueng Raba fort", "Kroeng-Raba", "Kroeng-Ralb", "Kroeng-Rababaai", "Kroeng-Raba-baai"]
 tags: [place, kampong, acehnese, aceh-war, fort, west-coast, dutch, colonial, military, iv-moekims, east-coast, 19th-century]
 ---
 

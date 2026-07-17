@@ -1,7 +1,7 @@
 ---
 
 title: Aja Bseutiri
-aliases: ["Aja Eseutiri", "Fatimah bint Abdarrhaman 'Aidid", "Aja Eseutiri", "Aja Bseutiri"]
+aliases: ["Aja Eseutiri", "Fatimah bint Abdarrhaman 'Aidid", "Aja Bseutiri"]
 
 tags: [person, religious-figure, sayyid, female, saint]
 ---

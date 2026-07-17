@@ -1,6 +1,6 @@
 ---
 title: Toekoe Moeda Baid
-aliases: ["Toekoe", "Moeda", "Baid", "Tunku", "Muda", "Baid", "the", "head", "of", "the", "VII", "Moekims", "in", "the", "Sagi", "XXII", "Toekoe Baid", "Teukoe Moeda Baid", "Tjut Meutia's brother", "Toekoe Baid of the VII Moekims", "Oeloebalang of the VII Moekims", "half-brother of Toekoe Tjoet Machmoed", "T. Moeda Baid", "T. Baid"]
+aliases: ["Toekoe", "Moeda", "Baid", "Tunku", "Muda", "the", "head", "of", "VII", "Moekims", "in", "Sagi", "XXII", "Toekoe Baid", "Teukoe Moeda Baid", "Tjut Meutia's brother", "Toekoe Baid of the VII Moekims", "Oeloebalang of the VII Moekims", "half-brother of Toekoe Tjoet Machmoed", "T. Moeda Baid", "T. Baid"]
 tags: [person, uleebalang, acehnese, aceh-war, diplomacy, military]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: G.C.E. van Daalen
-aliases: [Van Daalen, G.C.E. van Daalen, G. C. E. van Daalen, Gotfried Coenraad Ernst van Daalen, Godfried Coenraad Ernst van Daalen, overste Van Daalen, kapitein Van Daalen, generaal Van Daalen, Obos Panalan, "Panalan", G. C. H. v. Daalen]
+aliases: ["Van Daalen", "G.C.E. van Daalen", "G. C. E. van Daalen", "Gotfried Coenraad Ernst van Daalen", "Godfried Coenraad Ernst van Daalen", "overste Van Daalen", "kapitein Van Daalen", "generaal Van Daalen", "Obos Panalan", "Panalan", "G. C. H. v. Daalen"]
 tags: [person, general, dutch, aceh, aceh-war, 19th-century, 20th-century, gajoetocht, gayoland, colonial, military]
 description: "The 'stalen figuur' of the Atjeh-oorlog: as kapitein chef-staf to Van Heutsz at Aneukgalong 1896, as overste commander of the Gajoetocht 1904 — called Obos Panalan by the Gajoes — and as governor who changed T. Tjhi Toenong's sentence from the rope to the bullet. In Kruisheer's ATJEH '96 he is identified as the Chef van den Staf of Lt.-Col. Van Heutsz's colonnes throughout the principal engagements of the spring and early summer of 1896 — the partnership which would dominate the next phase of the war."
 ---

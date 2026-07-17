@@ -1,6 +1,6 @@
 ---
 title: Expedition to Deli (1872)
-aliases: [Expeditie naar Deli 1872, Deli Expedition, "Sumatra's Oostkust Expedition 1872"]
+aliases: ["Expeditie naar Deli 1872", "Deli Expedition", "Sumatra's Oostkust Expedition 1872"]
 tags: [event, war, military, dutch-colonial, sumatra]
 ---
 

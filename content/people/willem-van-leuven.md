@@ -1,6 +1,6 @@
 ---
 title: Willem van Leuven
-aliases: [Sergeant Willem van Leuven, Willem, Willem de slager, "den vroolijken Willem van Leuven"]
+aliases: ["Sergeant Willem van Leuven", "Willem", "Willem de slager", "den vroolijken Willem van Leuven"]
 tags: [person, sergeant, beer, dutch, aceh, aceh-war, 20th-century, gayoland, slager]
 description: "Sergeant bij 1e Divisie, ex-Holland slagersjongen, famous for poetic tree-bark inscriptions ('Verboden grint te scheppen', 'De Veluwe', 'Naar het strand', 'Grens Haarlemmerhout'); slager for the brigades; made balkenbrij in Gajoeland; took voorschot before fatal patrol to Beneden-Tripa; killed by a shot to the head in a klewangaanval; body reburied due to stank."
 ---

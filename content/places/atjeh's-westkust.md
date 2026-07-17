@@ -1,6 +1,6 @@
 ---
 title: "Atjeh's Westkust"
-aliases: ["Aceh's West Coast", "West Aceh", "West Coast of Atjeh", "Westkust Atjeh", "Westkust van Atjeh", "Westkust van Atjeh", "Atjeh Westkust", "West-Atjeh"]
+aliases: ["Aceh's West Coast", "West Aceh", "West Coast of Atjeh", "Westkust Atjeh", "Westkust van Atjeh", "Atjeh Westkust", "West-Atjeh"]
 
 tags: ["aceh-proper", "achehnese", "coast", "colonial", "place", "region", "atjeh", "westkust"]
 ---

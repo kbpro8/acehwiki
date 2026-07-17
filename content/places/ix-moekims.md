@@ -1,6 +1,6 @@
 ---
 title: IX Moekims
-aliases: ["IX", "Moekims", "IX", "Moekim", "region", "IX Moekims", "IX Mukims", "9 Mukims", "the Nine Moekims", "IX Moekims of Groot-Atjeh", "IX Moekims Oleh Soesoe"]
+aliases: ["IX", "Moekims", "Moekim", "region", "IX Moekims", "IX Mukims", "9 Mukims", "the Nine Moekims", "IX Moekims of Groot-Atjeh", "IX Moekims Oleh Soesoe"]
 tags: [place, aceh, region, ix-moekims, achehnese, aceh-war, diplomacy, military]
 ---
 

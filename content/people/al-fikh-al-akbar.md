@@ -1,7 +1,7 @@
 ---
 
 title: al-Fikh al-akbar
-aliases: [al-Fiqh al-akbar, al-Fiqh al-Akbar, Fiqh al-akbar, the Great Fiqh, "Abu Hanifa's al-Fiqh al-akbar"]
+aliases: ["al-Fiqh al-akbar", "al-Fiqh al-Akbar", "Fiqh al-akbar", "the Great Fiqh", "Abu Hanifa's al-Fiqh al-akbar"]
 tags: [document, religious-work, islamic-scholarship, kalam, hanafi, 8th-century, source-of-ma'rifat-al-madhahib]
 ---
 

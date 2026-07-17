@@ -1,6 +1,6 @@
 ---
 title: Meuapet
-aliases: [Meuapet, "Achehnese month of Du'l-qa'dah", Pinched month, "Doy Ka'idah"]
+aliases: ["Meuapet", "Achehnese month of Du'l-qa'dah", "Pinched month", "Doy Ka'idah"]
 tags: [event, religious, calendar, festival]
 ---
 

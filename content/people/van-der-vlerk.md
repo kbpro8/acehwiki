@@ -1,6 +1,6 @@
 ---
 title: Van der Vlerk
-aliases: [Luitenant Van der Vlerk, Kapitein Van der Vlerk, Van der Vlerk te Rotterdam, "majjans" brigade Van der Vlerk]
+aliases: ["Luitenant Van der Vlerk", "Kapitein Van der Vlerk", "Van der Vlerk te Rotterdam", "majjans brigade Van der Vlerk"]
 tags: [person, lieutenant, kolonel, dutch, aceh, aceh-war, 20th-century, seunagan, rotterdam]
 description: "Dutch lieutenant (later gepensionneerd kolonel in Rotterdam, commandant of the Burgerwacht) who survived the great Djeuram klewangaanval in Seunagan of April 1904 because a loose puttee took him out of the spits; misled by guides for 14 days in pursuit of Tgk. di Mata Ië; his 'majjans' brigade."
 ---

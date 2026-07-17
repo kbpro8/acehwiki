@@ -1,6 +1,6 @@
 ---
 title: Cheukie
-aliases: [Cheukie, Cheukië, Achehnese adat punishment, "Uleebalang's punishment"]
+aliases: ["Cheukie", "Cheukië", "Achehnese adat punishment", "Uleebalang's punishment"]
 tags: [event, political, adat, law, punishment]
 ---
 

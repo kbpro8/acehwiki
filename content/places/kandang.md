@@ -1,6 +1,6 @@
 ---
 title: Kandang
-aliases: [Kandang, "the Kandang marschbivak", "marschbivak Kandang"]
+aliases: ["Kandang", "the Kandang marschbivak", "marschbivak Kandang"]
 tags: [place, bivak, cemetery, aceh, aceh-war, westkust, 20th-century, tjoet-ali]
 description: "The marschbivak on the Westkust opposite which Tjoet Ali is buried; the grave built by the maréchaussée's themselves with masonry and a plaque; the answer 'Hò ka Kompeuni' to his query; the chicken and ape mascottes of Tjoet Ali taken by the brigade."
 ---

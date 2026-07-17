@@ -1,6 +1,6 @@
 ---
 title: Teungku Tiro
-aliases: ["the major war leader", "Teungku di Tiro", "Teungku Chi' di Tiro", "Teungku Tiro Muhamat Amin", "Teungku Saman", "Leube Saman", "Teungku Tiro (Muhamat Amin)", "Tengkoe di Tiroe", "Teungkoe di Tiro", "Teungku di Tiro"]
+aliases: ["the major war leader", "Teungku di Tiro", "Teungku Chi' di Tiro", "Teungku Tiro Muhamat Amin", "Teungku Saman", "Leube Saman", "Teungku Tiro (Muhamat Amin)", "Tengkoe di Tiroe", "Teungkoe di Tiro"]
 tags: [person, warrior, ulama, religious-figure, jihad, commander, achehnese, religious, sultanate, diplomacy]
 ---
 

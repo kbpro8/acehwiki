@@ -1,6 +1,6 @@
 ---
 title: Mohamad Arif
-aliases: [Hoofddjaksa Mohamad Arif, Mohammad Arif, Mohamad Arif of Koetaradja, "toean besar sastrar van Atjèh"]
+aliases: ["Hoofddjaksa Mohamad Arif", "Mohammad Arif", "Mohamad Arif of Koetaradja", "toean besar sastrar van Atjèh"]
 tags: [person, djaksa, inlandsch-ambtenaar, aceh, aceh-war, 19th-century, 20th-century, koetaradja, marechaussee]
 description: "Hoofddjaksa of Koetaradja; ~15 years in Atjeh; 'toean besar sastrar van Atjèh' — the great man of letters of Atjeh. He advised the formation of the Korps Maréchaussée; was the object of sharp critique by Snouck Hurgronje; defended by the governor; the actual conception of the marechaussee idea was his."
 ---

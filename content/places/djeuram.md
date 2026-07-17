@@ -1,6 +1,6 @@
 ---
 title: Djeuram
-aliases: [Djeuram, Djeuram in Seunagan, "bivak Djeuram", "the Djeuram in Seunagan"]
+aliases: ["Djeuram", "Djeuram in Seunagan", "bivak Djeuram", "the Djeuram in Seunagan"]
 tags: [place, aceh, aceh-war, westkust, seunagan, 20th-century, klewangaanval]
 description: "Place in Seunagan on the Westkust, site of the largest klewangaanval in Atjeh history in April 1904 against the colonne-Campioni; Schmidt as lieutenant here in 1906; Tjoet Patimah the widow of Teukoe Keumangan; the bivak with its famous chicken and ape mascottes."
 ---

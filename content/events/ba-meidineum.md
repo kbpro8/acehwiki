@@ -1,6 +1,6 @@
 ---
 title: Ba meidineum
-aliases: [Ba meidineum, Second mother-in-law visit, "Mother-in-law's second visit during pregnancy"]
+aliases: ["Ba meidineum", "Second mother-in-law visit", "Mother-in-law's second visit during pregnancy"]
 tags: [event, adat, ceremony, life-cycle, pregnancy]
 ---
 

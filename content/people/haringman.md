@@ -1,6 +1,6 @@
 ---
 title: Haringman (journal)
-aliases: [Journaal van Haringman, "Haringman's journal"]
+aliases: ["Journaal van Haringman", "Haringman's journal"]
 tags: [document, journal, dutch, aceh, military]
 ---
 **Haringman (journal)** is the contemporaneous diary kept by the Dutch naval officer [[Haringman]] during the December 19–25 expedition against rebel forces in the interior of [[Acheh]]. The journal provides a day‑by‑day account of naval movements, encounters with “negro” rebels, the burning of sugar plantations such as [[Prosperiteit]] and [[Peereboom]], and the fatal mis‑communication at the landing on [[Wikkie creek]] on [[25 December]].

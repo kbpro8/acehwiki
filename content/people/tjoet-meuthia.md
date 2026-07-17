@@ -1,6 +1,6 @@
 ---
 title: Tjoet Meuthia
-aliases: [Cut Meutia, Tjoet Meutia, "the Pearl", de Parel, Tjoet Meuthia of Keureutoe]
+aliases: ["Cut Meutia", "Tjoet Meutia", "the Pearl", "de Parel", "Tjoet Meuthia of Keureutoe"]
 tags: [person, woman, aceh, aceh-war, keureutoe, 20th-century, resistance, sjahid, pira]
 description: "Daughter of T. Ben Dawot of Pira, wife of T. Tjhi Bentara, then of T. Tjhi Toenong (executed March 1905), then of Pang Nanggroë; mother of T. Radja Sabi; killed on 25 October 1910 in Mosselman's overval at Kroeëng Peutoeë, identified by Mosselman as the woman with loosened hair who charged with the klewang."
 ---

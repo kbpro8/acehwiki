@@ -1,6 +1,6 @@
 ---
 title: Tengkoe Sjech di Paja Bakong
-aliases: [Tgk. Sjech di Paja Bakong, Tgk. Seupot Mata, Seupot Mata, "the darkened eye", "Jean Marteau"]
+aliases: ["Tgk. Sjech di Paja Bakong", "Tgk. Seupot Mata", "Seupot Mata", "the darkened eye", "Jean Marteau"]
 tags: [person, oelama, mystic, aceh, aceh-war, paja-bakong, 20th-century, resistance, sjahid, kramat]
 description: "Blind oelama of Paja Bakong, ascetic and 'kramat', brother of Tgk. di Mata Ië; possessed the golden-handled abawar consecrated by Sjech Abdoel Kadeuë and was nicknamed 'Jean Marteau' by Dutch commanders for his uncanny escapes; killed in October 1910 by Mosselman's brigade."
 ---

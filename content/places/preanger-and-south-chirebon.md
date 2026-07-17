@@ -1,6 +1,6 @@
 ---
 title: Preanger and South Chirebon
-aliases: [Sunda, "Java"]
+aliases: ["Sunda", "Java"]
 tags: ["place", "legendary-land"]
 ---
 
