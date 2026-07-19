@@ -166,3 +166,13 @@ In the Encyclopaedisch Bureau's account, Tamiang is the principal agricultural f
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, 1949), p. 9 (Table 4: Oil production in the East Indies in 1940 and 1941).
 
 *De Geschiedenis van het Nederlandsche Korps Mariniers van 1665–1945*, by C. J. O. Dorren, 1948, pp. 114–116 (page 16 of the OCR source).
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter I (geography), Chapter IX (the 1886 raid), Chapter XII (the 1892–1893 expedition). pp. 14, 50, 64.
+
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+
+Kruijt establishes the [[Tamiang-rivier|Tamiang river]] as the eastern boundary of Atjeh at the time of the Dutch declaration of war in [[March 1873|March]] [[1873]]: Atjeh consisted of the coastal strip on the northern point of [[Sumatra|Sumatra]], running on the East Coast from the Tamiang river to the West Coast as far as the region of [[Troemon|Troemon]].
+
+In [[January 1886|January]] [[1886]] [[Nja Makam|Nja Makam]] raided Tamiang and plundered in [[Langkat|Langkat]]; many statelets on the East Coast helped him. The raid was one of the principal acts of Atjehese aggression against the Dutch sphere of influence in the period of the [[Concentratie-stelsel (1884-1896)|concentration system]].
+
+In [[1892]]–[[1893]], under [[Deijkerhoff|Deijkerhoff]]'s governorship, Nja Makam — as the Sultan's authorised agent, provided with the Sultan's *tjap* (seal), with much following, and helped and housed by Dutch "friends" — travelled the coastal statelets raising money and people to the East Coast as far as Tamiang to cause unrest. He brought the Dutch tobacco and petroleum districts into violent turmoil, and the Dutch had the greatest difficulty in [[1892]] and [[1893]] to drive him from his positions on the Tamiang-rivier. The contrast between the well-administered East Coast, with its centre at [[Edi|Edi]], and the unrest caused by Nja Makam in the Tamiang region is one of the principal illustrations in Kruijt's brochure of the failure of the Dutch policy of using Atjehese auxiliaries against Atjehese enemies.

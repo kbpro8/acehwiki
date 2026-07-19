@@ -1,6 +1,6 @@
 ---
 title: Panglima Polim
-aliases: [Seri Madoe Perkasa Teukoe Panglima Polem, Panglima Polem, Panglima Polim, Sri Muda Perkasa Teuku Panglima Polim, Panglima Palim]
+aliases: ["Seri Madoe Perkasa Teukoe Panglima Polem", "Panglima Polem", "Panglima Polim", "Sri Muda Perkasa Teuku Panglima Polim", "Panglima Palim", "Panglima Polem IX", "Polim", "P. Polim"]
 tags: [person, panglima, oeleebalang, aceh, aceh-war, 20th-century, xxii-moekims, achehnese, military, sultanate, colonial]
 description: "Seri Madoo Perkasa Teukoe Panglima Polem, head of the XXII Moekims, very influential; submitted at Lho Seumawé; brother-in-law of Toeankoe Radja Keumala; signed the 1907 letter to the Tiro-oelamas; identified the body of Tgk. Tjot Plieëng. In Kruisheer's ATJEH '96 he is the dominant independent military chief of the XXII Moekims whose alliance with Umar after the defection of 29 March 1896 was conditional on compensation for the devastations Umar had inflicted in Dutch service, and who recaptured the Dutch field gun lost at Senelop on 17 April 1896 to set up his own fortified post."
 ---
@@ -70,8 +70,22 @@ Panglima Polim's significance in *ATJEH '96* lies in his embodiment of the auton
 - [[1910]]
 - [[Aceh War]]
 
-## Source
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+
+Kruijt's *De Atjeh-Oorlog* presents Panglima Polim as one of the two principal leaders of the Atjehese resistance in the middle phase of the [[Aceh War|Atjeh-oorlog]] — the principal military *panglima*, as opposed to the religious leader [[Tengkoe di Tirou|Tengkoe di Tirou]].
+
+In [[April 1878|April]] [[1878]], when the Dutch posts in [[Simpang Olim|Simpang Olim]] were withdrawn, the garrison at [[Edi|Edi]] reduced, and the *benting* of the beach moved further inland, a period of unrest broke out on the [[Oostkust|East Coast]] after years of calm. Kruijt identifies Panglima Polim as the instigator: enemies from the [[Noordkust|North Coast]] attacked Edi. They were driven off in [[May 1878|May]] [[1878]], and as most of them came from [[Gedong|Gedong]], a statelet in [[Pasei|Pasei]], an expedition thither took place in [[June 1878|June]] [[1878]].
+
+Under the governorship of [[General van Teijn|Van Teijn]] ([[1886]]–[[1891]]), Panglima Polim — together with [[Toeankoe Hasschim|Toeankoe Hasschim]] — who were little pleased with the ever-increasing influence of [[Tengkoe di Tirou|Tengkoe di Tirou]] and therewith of the religious party, made himself heard from the side of the Kemala-party. Given the existing tension, Tengkoe di Tirou — fearful of eventually being caught behind the net — in [[1889]] offered to bring the Sultan to the Dutch. The Dutch did not accept the offer.
+
+When in [[August 1888|August]] [[1888]] the Sultan suddenly appeared in [[Groot-Atjeh|Groot-Atjeh]] and met with Panglima Polim, [[Imam Longbattah|Imam Longbattah]], and Tengkoe di Tirou, Van Teijn cherished a justified hope that it would now come to a conclusion; but after three weeks the Sultan departed again for [[Kemala|Kemala]], the chiefs brought him gifts, but the Dutch heard nothing from him.
+
+In [[January 1891|January]] [[1891]] Tengkoe di Tirou and Panglima Polim died suddenly. This too was an occasion for the Kemala-party to await the consequences of the impending change of administration. In [[April 1891|April]] [[1891]] Van Teijn, disappointed in his expectations, departed owing to increasing indisposition. Their simultaneous deaths removed the two principal addressees of the Dutch conciliation policy and marked the transition to the more fragmented resistance of the [[1890]]s.
+
+## Sources
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 59, 82, 138, 143.
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI, Chapter X, Chapter XI. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 28, 56, 58.

@@ -41,6 +41,16 @@ Indrapoeri is the place of [[Joannes Benedictus van Heutsz|Van Heutsz]]'s reside
 - [[Aceh War]]
 - [[1896]]
 
-## Source
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+
+Kruijt's *De Atjeh-Oorlog* presents Indrapoeri as the site of the principal political act of the restoration of the Sultanate and the formal beginning of organised resistance.
+
+In the period of the [[Concentratie-stelsel (1884-1896)|concentration system]] under [[Demmeni|Demmeni]] ([[1884]]–[[1886]]), the Dutch retired into the concentrated *stelling* around [[Kota Radja|Kota Radja]] to await patiently the enemy's submission. The enemy, abundantly supplied from the coasts, prosecuted the war in his own way. [[Toeankoe Hasschim|Toeankoe Hasschim]], guardian and father-in-law of the youthful pretender [[Toeankoe Mohamed Daoed|Toeankoe Mohamed Daoed]], had the pretender declared of age and proclaimed and hailed as Sultan in the mosque at Indrapoeri. The court was arranged according to ancient usage, and notification of the accession was given to various courts.
+
+The Sultan's influence greatly increased. In all Atjeh and for all Atjehers he was — and remained, at the time of Kruijt's writing in [[1896]] — the lawful head of the country. His decision was invoked in many disputes. From his name the orders for the war were everywhere given. The principal leaders bound themselves afresh under oath against the Dutch, among them the later Dutch "friends" [[Toekoe Oemar|Toekoe Oemar]] and [[Nja Makam|Nja Makam]]. Those who openly took part in the struggle were henceforth called *[[Muslemin|Muslemin]]*.
+
+## Sources
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX. pp. 49–50.

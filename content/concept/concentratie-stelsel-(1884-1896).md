@@ -86,8 +86,20 @@ The [[Concentratie-stelsel (1884-1896)|concentratie-stelsel]] is, in the source'
 - [[Staten-Generaal]]
 - [[Dr. C. Snouck Hurgronje]]
 
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+
+In [[J. A. Kruijt|Kruijt]]'s *De Atjeh-Oorlog* ([[1896]]), the *Concentratie-stelsel* was "een wijzen maatregel, waartoe meer moed en vaderlandsliefde behoorde, dan tot het hardnekkig voortgaan op eenen kostbaren, gevaarlijken en onzekeren weg" (a wise measure, requiring more courage and love of fatherland than the stubborn prosecution of a costly, dangerous, and uncertain path) — but it was fatally compromised by its failure to be accompanied by a vigorous *[[Scheepvaartregeling|scheepvaartregeling]]* on the coasts.
+
+By [[1884]], after three years of civil government, the Dutch position in [[Groot-Atjeh|Groot-Atjeh]] had collapsed. The *Gouverneur-Generaal* [[s Jacob|'s Jacob]] visited Atjeh in [[August 1883|August]] [[1883]] and found the situation highly unfavourable; [[Van Rees|Van Rees]] came in [[March 1884|March]] [[1884]] to see and discuss affairs. In two secret sessions of the united Chambers of the [[Staten-Generaal|Staten-Generaal]] on [[16 June]] and [[17 June]] [[1884]], it was decided to adopt the concentration system. [[Laging Tobias|Laging Tobias]], strongly opposed, who according to him it "*de kroon zette op de Nederlandsche fouten in Atjeh*" (set the crown on the Dutch mistakes in Atjeh), retired in [[September 1884|September]] [[1884]]. Colonel [[Demmeni|Demmeni]] became *Civiel en Militair Gouvernur*.
+
+The concentration itself was carried out by Demmeni "met veel beleid en groote energie" (with much discretion and great energy), and by [[July 1886|July]] [[1886]] everything was ready. The new *stelling* was a continuous line of fortifications around [[Kota Radja|Kota Radja]], forming a kind of isosceles triangle with the post [[Lambaroe|Lambaroe]] as apex and the sea coast from [[Oleh-leh|Oleh-leh]] to [[Kota Pohama|Kota Pohama]] as base. A 1,000-metre open strip surrounded it; a *[[Ceintuur-trambaan|ceintuursporbaan]]* (belt railway) and telephone connected the posts. The *blokkade* was to be strict and cover the whole coast, but before [[C. H. Bogaert|Bogaert]] even took command, he heard at [[Batavia|Batavia]] that its early abolition had been decided. The blockade was wholly withdrawn in [[March 1885|March]] [[1885]]; trade was almost wholly free; and by [[December 1885|December]] [[1885]] even the least restriction on the trade of the coastal statelets with [[Penang|Penang]] was forbidden. "*Dat was nu de rigoureuse blokkade der geheele kust geweest*" (That was the rigorous blockade of the whole coast that had been).
+
+The consequences were progressive deterioration. The enemy, abundantly supplied from the unblockaded coasts, prosecuted the war in his own way. [[Toeankoe Hasschim|Toeankoe Hasschim]] proclaimed the youthful pretender as Sultan at [[Indrapoeri|Indrapoeri]]; [[Tengkoe di Tirou|Tengkoe di Tirou]] became the soul of the resistance; [[Toekoe Oemar|Toekoe Oemar]] became master of the [[Westkust|West Coast]]. The open strip was largely overgrown again; the [[Muslemin|Muslemin]] made the line unsafe; the railway and bridges were damaged; the telephone line was destroyed. "*Dat was en bleef de fout*" (That was and remained the mistake).
+
 ## Sources
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 270-272.
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapters VIII–IX, XIII, pp. 44–52, 79.

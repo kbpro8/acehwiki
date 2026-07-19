@@ -1,6 +1,6 @@
 ---
 title: Johan Willem van Lansberge
-aliases: [J. W. van Lansberge, J.W. van Lansberge, Mr. J. W. van Lansberge, Mr. J.W. van Lansberge, Van Lansberge, Governor-General Van Lansberge]
+aliases: ["J. W. van Lansberge", "J.W. van Lansberge", "Mr. J. W. van Lansberge", "Mr. J.W. van Lansberge", "Van Lansberge", "Governor-General Van Lansberge", "Johan Willem van Lansberge", "Gouverneur-Generaal van Lansberge"]
 tags: [person, governor-general, dutch, colonial, administrator, aceh]
 description: "Dutch diplomat and colonial administrator who served as Governor-General of the Netherlands Indies from 1875 to 1881, presiding over the middle phase of the Aceh War."
 ---
@@ -113,10 +113,20 @@ Van Lansberge demonstrated how a Governor-General could maintain policy continui
 - [[Patentrecht]]
 - [[Governor-General of the Netherlands Indies]]
 
-## Source
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+
+Kruijt's account of Van Lansberge is characterised by ambivalence — admiring his energy, criticising his misjudgement.
+
+Van Lansberge arrived in Atjeh for an inspection visit on [[14 March]] [[1877]], staying some days in [[Groot-Atjeh|Groot-Atjeh]]. To the picture of a Governor-General convinced of the need for aggressive operations, Kruijt adds the "other side of the picture": Van Lansberge was struck by the courage and devotion of the Atjehese resistance. The detail of [[Pangeran Hoessin|Pangeran Hoessin]] — a high-born Atjehese nobleman whom Van Lansberge met and who impressed him as an embodiment of the Atjehese will to resist — illustrates this. Van Lansberge's inspection led directly to his authorising the conciliation policy: the conviction that the Atjehese had, in the first years of the war, been so severely treated that they could not trust Dutch promises.
+
+Kruijt reserves his sharpest criticism for Van Lansberge's role in the displacement of [[K. van der Heyden|Van der Heyden]]. The decision to replace military with civil governance in [[April 1881|April]] [[1881]] — a decision Kruijt traces directly to Van Lansberge — was, in Kruijt's view, the principal cause of the catastrophic collapse of the Dutch position in Groot-Atjeh in [[1881]]–[[1884]]. "*Men wendde het roer om*" (The helm was put about), Kruijt writes — the entire military achievement of Van der Heyden's governorship was surrendered for the sake of a civil administration that had no power and no respect.
+
+## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872–1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 52–115.
 
 *J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni 1855*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, 1943. Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij.
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman. Haarlem: De Gulden Pers, 1947, the chapter on the Meusigit Raja.
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapters IV, VII, VIII. pp. 19–20, 36–38.

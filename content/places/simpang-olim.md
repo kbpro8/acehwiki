@@ -1,6 +1,6 @@
 ---
 title: Simpang Olim
-aliases: [Simpang Oleim, Simpang-Olim, Simpang Oelim, Landschap Simpang Olim]
+aliases: ["Simpang Oleim", "Simpang-Olim", "Simpang Oelim", "Landschap Simpang Olim", "Simpang Olim", "Simpangulim", "Simpang Olim (Atjeh East Coast state)"]
 tags: [place, coast-state, acehnese, aceh-war, event, material-culture]
 description: "An Acehnese coast-state on the northern coast of Atjeh whose radja's refusal to submit led to a Dutch military expedition in 1876 and whose abandoned residence yielded a remarkable assemblage of personal ornaments in 1877."
 ---
@@ -93,11 +93,26 @@ The gold spectacles with extendable parts are a particularly unusual and intrigu
 - [[Batavian Society Treasure Room Aceh Collection]]
 - [[1877]]
 
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+
+Kruijt describes Simpang Olim as "*den machtigsten staat der Oostkust en van zuiveren Groot-Atjehschen oorsprong*" (the most powerful state of the East Coast and of pure Groot-Atjehse origin). Its sustained hostility to the Dutch throughout the early phase of the [[Aceh War|Atjeh-oorlog]] and its repeated chastisement by Dutch expeditions in [[1876]] and [[1877]] made it one of the principal foci of the Dutch coastal operations.
+
+Simpang Olim was the only East Coast state that remained hostile and blockaded after the submission of [[Edi|Edi]] on [[7 May]] [[1873]] and the extension of Dutch influence over the whole East Coast under [[C. H. Bogaert|Bogaert]] ([[1873]]–[[1875]]). When, towards [[November 1873|November]] [[1873]], almost all the warships departed for [[Groot-Atjeh|Groot-Atjeh]] to await the [[Second Aceh Expedition (1873-1874)|second expedition]], Bogaert alone remained with his squadron on the East Coast, and Simpang Olim remained blockaded.
+
+In [[1875]] Simpang Olim was, by the [[Koninklijke Marine|Marine]] — with Atjehese auxiliaries voluntarily helping — so enclosed on all sides and so much booty was made that the population felt the punishment severely.
+
+In [[November 1876|November]] [[1876]] Simpang Olim was chastised and taken with little loss, the *radja* deposed, another appointed in his place, and three posts established. New articles in the *onderwerpingsacte* stipulated that the Sultan's share of the revenues would henceforth belong to the Dutch — a precedent later applied to other statelets. With the submission of Simpang Olim, the East Coast was wholly under Dutch administration, except for [[Langsar|Langsar]]. Yet later the posts in Simpang Olim were again withdrawn, and an unsound situation arose. In [[1877]] there was still an expedition to this statelet, which was crowned with complete success; afterwards the Dutch troops marched undisturbed overland back to [[Edi|Edi]].
+
+When in [[April 1878|April]] [[1878]] the posts in Simpang Olim were withdrawn, the garrison at [[Edi|Edi]] reduced, and the *benting* of the beach moved further inland, a period of unrest broke out on the [[Oostkust|East Coast]] after years of calm. Instigated by [[Panglima Polim|Panglima Polim]] — one of the principal chiefs, who was said to have sought contact with the Dutch — enemies from the [[Noordkust|North Coast]] attacked Edi.
+
 ## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, door J.A. de Bruyne. Amsterdam: Uitgeverij "De Bussy," 1912.
 
 *Gids voor den bezoeker van de schatkamer*, Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen, Batavia, 1928. Druk: Ruygrok & Co., Batavia. Cabinet 3 (Atjeh), items 2–42.
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter II, Chapter V, Chapter VI. pp. 12, 23–24, 28.
+
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
 
 [[H.C. Zentgraff|Zentgraff]]'s *Atjeh* gives the fullest account of the [[Simpang Olim klewangaanval (1902)|klewangaanval of 22 August 1902]]. [[T. Tjhi Toenong]], having received intelligence from spies about the route of a Dutch transport under escort of 20 bayonets from Simpang Olim, laid a *hinderlaag* in the tall *alang-alang* next to the path near Meunasah Djeuro. His men fell on the troep with the klewang and *sloegen hem volkomen uit elkaar*. In the first rush 7 soldiers were killed and the commandant was wounded with 2 men. Three Inlandsche militairen fled, but the European soldier Fortier held the remnant together until luitenant [[Van Gheel Gildemeester]] arrived with 40 men. The attackers disappeared with 5 Dutch rifles. Memorial stones at Simpang Olim commemorate the fallen.

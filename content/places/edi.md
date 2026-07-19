@@ -1,6 +1,6 @@
 ---
 title: Edi
-aliases: [Edi, Idi, Edi on the Oostkust]
+aliases: ["Edi", "Edé", "Edie", "Idi", "Idi Rayeuk", "Edi on the Oostkust", "Edi (Atjeh East Coast state)", "Staatje Edi"]
 tags: [place, coast-state, acehnese, aceh-war]
 ---
 
@@ -29,6 +29,20 @@ As this outcome made the danger for Edi still greater, and several chiefs now op
 - [[K. van der Heyden]]
 - [[Aceh War]]
 
-## Source
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+
+Kruijt presents Edi as the principal Dutch success story on the East Coast — a success that, he argues, was never adequately replicated on the North and West Coasts.
+
+On [[7 May]] [[1873]] — only days after the Dutch flag had disappeared from the coast of [[Groot-Atjeh|Groot-Atjeh]] following the failure of the [[Eerste Atjeh-expeditie (1873)|first expedition]] — the *radja* of Edi, who had before the war requested Dutch sovereignty, was now permitted to hoist the Dutch flag. This was the beginning of the Dutch establishment on the East Coast.
+
+Under [[C. H. Bogaert|C. H. Bogaert]], who appeared in [[June 1873|June]] [[1873]] as *stationscommandant* for the East Coast, Dutch influence rapidly extended over the whole East Coast and part of the [[Noordkust|North Coast]], from [[Tamiang|Tamiang]] to [[Telok Semawé|Telok Semawé]]. Edi alone was permitted to import and export under Dutch supervision, and thereby greatly increased in prosperity and wealth. To statelets that had given proofs of good disposition, permits were issued for restricted import and export from and to Edi; all others had their ports or rivers effectively closed. Many vessels with rich cargoes were taken at the coast or in the rivers and declared prize. When, towards [[November 1873|November]] [[1873]], almost all the warships departed for [[Groot-Atjeh|Groot-Atjeh]], Bogaert alone remained with his squadron — and the blockade was raised for the whole East Coast as far as Telok Semawé, except for the hostile [[Simpang Olim|Simpang Olim]].
+
+In [[June 1875|June]] [[1875]] a civil official took over from Bogaert. Before the transfer, all the statelets — sometimes far in the interior, including the petroleum springs in [[Perlak|Perlak]] — were visited undisturbed and unarmed.
+
+Under the [[Scheepvaartregeling|scheepvaartregeling]] of [[October 1893|October]] [[1893]], Edi was opened as one of the harbours for general trade on the East Coast (the other being Telok Semawé). After the defection of [[Toekoe Oemar|Toekoe Oemar]] in [[March 1896|March]] [[1896]], Edi remained a Dutch post, reinforced against the bands of *[[Muslemin|Muslemin]]* that continued to operate on the East Coast. The contrast between the well-administered East Coast, with its centre at Edi, and the neglected North and West Coasts is one of the recurrent themes of Kruijt's brochure.
+
+## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 29, 96-97.
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapters II, IX, XII. pp. 11–12, 47, 66.

@@ -151,6 +151,16 @@ The source's verdict on [[General Van Swieten|Van Swieten]]'s achievement is dir
 - [[Atjehoorlog]]
 - [[Pel (Atjeh commander)]]
 
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+
+Kruijt's account of Van Swieten is sharply critical: admiring the military achievement, condemning the political decisions and their consequences.
+
+Van Swieten's second expedition of approximately 9,000 combatants was divided into three brigades, one of which remained in reserve at [[Padang|Padang]]. A strong squadron of the [[Koninklijke Marine|Marine]] supported the operations. On [[7 January]] [[1874]] the groote Missigit was taken; on [[24 January]] [[1874]] the kraton fell. "*Dit feit maakte overal diepen indruk*" (This fact made a deep impression everywhere), and several chiefs came forward to submit. Two days later the Sultan died of cholera.
+
+Kruijt identifies Van Swieten's *proclamatietocht* (proclamation tour) as the origin of the *[[Vlaghijscherij|vlaghijscherij]]* (flag-raising) — the practice of circulating the flag and the *onderwerpingsacte* (act of submission) along the coasts by Marine vessels, with submission often little more than a flag sent ashore by a messenger. On the North and West Coasts, Kruijt writes, the flag and the act of recognition were "*veelal eenvoudig door een boodschapper aan land gezonden, zonder meer*" (usually simply sent ashore by a messenger, and nothing more), and trade was opened without supervision, "*zoodat de deuren er wijd werden opengezet om den vijand van alles te voorzien en het verzet te stijven*" (so that the doors were thrown wide open to supply the enemy with everything and to stiffen the resistance).
+
+On [[16 April]] [[1874]] a Dutch column was repulsed before an enemy fortification just south of the kraton — an *échec* that went unavenged. Van Swieten judged his task accomplished and on [[26 April]] [[1874]] returned to Java, leaving Colonel [[J. L. J. H. Pel|Pel]] with 3,000 men. His *Nota* to Pel, Kruijt judges, was written "*in bewoordingen, die voor verschillende uitleggingen vatbaar waren*" (in terms susceptible to various interpretations) and set the pattern for the Dutch reports from Atjeh: "*dat ophemelen van kleine of onbeteekenende gebeurtenissen in ons voordeel, dat blindblijven voor verschijnselen in ons nadeel*" (that extolling of small or insignificant events in our favour, that blindness to phenomena to our disadvantage).
+
 ## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 19–37.

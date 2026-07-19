@@ -173,7 +173,19 @@ Groot-Atjeh was, throughout the period covered by *ATJEH '96*, both the physical
 - [[Regeeringscommissaris]]
 - [[Panglima Prang Besar]]
 
-## Source
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+
+Kruijt's *De Atjeh-Oorlog* treats Groot-Atjeh as both the necessary theatre and the strategic mistake of the [[Aceh War|Atjeh-oorlog]].
+
+Groot-Atjeh, Kruijt writes, was approximately half the size of the province of [[Utrecht|Utrecht]]. It had for centuries been the political centre, the most populous and richest part of the country. There sat the Sultan in his historic [[Kraton of Aceh|kraton]], surrounded by the principal chiefs and dignitaries. Groot-Atjeh consisted of the Sultan's own territory and the three *Sagi's* of the [[22 Moekims|22]], [[25 Moekims|25]], and [[26 Moekims|26 Moekims]]. The first two sagi's lay on the sea; the last inland. The Dutch had mainly occupied the 25 Moekims and the Sultan's territory.
+
+Kruijt's strategic judgement is severe: "dat zich steeds uitbreiden onzer stelling na Van Swieten, door Pel en Van der Heijden, dat verbrokkelen onzer macht in Atjeh, dat verslinden van alle middelen op dat ééne punt" (that continuous expansion of our *stelling* after Van Swieten, by Pel and Van der Heijden, that fragmentation of our power in Atjeh, that devouring of all means on that one point) — he had always condemned. He judged the contraction of the *stelling* in Groot-Atjeh under the [[Concentratie-stelsel (1884-1896)|concentration system]] of [[1884]] — however hard on Dutch national feeling — a wise measure. But, Kruijt insisted, the contraction should have been accompanied by a vigorous *[[Scheepvaartregeling|scheepvaartregeling]]* on the coasts. "Dat was en bleef de fout" (That was and remained the mistake).
+
+Under [[General van der Heijden|Van der Heijden]]'s governorship, the conquest of the [[22 Moekims|22 Moekims]] began in [[March 1879|March]] [[1879]] and was completed by half [[June 1879|June]] [[1879]]. The conquest of the [[26 Moekims|26 Moekims]] began on [[1 July]] [[1879]] and was completed in four days. Then there was still an expedition to [[Selimoen|Selimoen]] far in the interior. All of Groot-Atjeh was Dutch. "*De schrik was er in*" (the terror was in them). The irreconcilable principal chiefs withdrew to [[Kemala|Kemala]], the hinterland of [[Pedir|Pedir]].
+
+Under [[Pruijs van der Hoeven|Pruijs van der Hoeven]] ([[1881]]–[[1882]]) and [[Laging Tobias|Laging Tobias]] ([[1883]]–[[1884]]), the conquests of Van der Heijden were progressively lost. The endless patrols that Van der Heijden had deemed necessary were virtually abolished; the small band of malefactors that had occurred even under Van der Heijden soon began to form themselves into enemy bands; the war party reorganised itself; fanaticism was fanned by the religious leaders; the population lost confidence in the Dutch. The concentration system of [[1884]] was the necessary consequence.
+
+## Sources
 
 *De Buitenbezittingen [[1904]] tot [[1914]], Deel I*, bewerkt door het Encyclopaedisch Bureau, *Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen*, Aflevering X (Weltevreden: Landsdrukkerij, [[1917]]), pp. 68–69 (section “De Atjeh‑tram”).
 

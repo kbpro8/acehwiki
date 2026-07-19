@@ -1,6 +1,6 @@
 ---
 title: Pedir
-aliases: [Pidie, Pidië, Pedier, Pidir, Pedir, Pedir-vlakte, Pidi, Pedir (Aceh), Pedir (Atjeh), Kota van Pedir]
+aliases: ["Pidie", "Pidië", "Pedier", "Pidir", "Pedir", "Pedir-vlakte", "Pidi", "Pedir (Aceh)", "Pedir (Atjeh)", "Kota van Pedir", "Pedir (Atjeh North Coast state)", "Staatje Pedir", "Federation of Pedir"]
 tags: [place, town, coast, region, noordkust, achehnese, colonial, aceh, 1873, military]
 ---
 
@@ -162,7 +162,17 @@ Overall, Pedir illustrates the intertwining of trade, diplomacy and warfare on t
 - [[1860]]
 - [[1900]]
 
-## Source
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+
+Kruijt treats Pedir as the principal case study of the failure of the Dutch coastal policy — a statelet that was nominally Dutch-aligned yet consistently supplied the resistance in [[Groot-Atjeh|Groot-Atjeh]] and openly defied Dutch conditions for trade.
+
+At the end of [[1873]] Pedir was *tuchtiged* (chastised) by the [[Koninklijke Marine|Marine]] for its hostility. In [[February 1876|February]] [[1876]] the Dutch flag was raised at Pedir, and in [[June 1876|June]] [[1876]] a post was established there and the *radja* received ƒ50,000 as damages for the [[1873]] chastisement. The raising of the Dutch flag at Pedir immediately turned the *radja* of [[Giegieng|Giegieng]] against the Dutch — the revenues of the Dutch flag largely passed from Giegieng to Pedir, and between the two federations there had been enmity for years. The Dutch in [[August 1876|August]] [[1876]] renounced Giegieng's friendship and closed his harbour. The establishment at Pedir was gradually moved to [[Segli|Segli]] and completed in [[March 1877|March]] [[1877]]. In [[April 1878|April]] and [[May 1878|May]] [[1878]] the Dutch post at Segli was besieged and attacked by thousands of enemies; an expedition achieved little success.
+
+In the 1890s under [[General van Teijn|Van Teijn]], Pedir opposed the pending submission of the [[Kemala-party|Kemala-party]] with all its might. At the end of [[1888]] part of the North Coast around Pedir was closed to all import and export; this was in [[September 1889|September]] [[1889]] and [[August 1890|August]] [[1890]] extended over the whole North Coast and the [[Westkust|West Coast]] as far as [[Tenom|Tenom]], and maintained until the end of [[1892]]. Kruijt notes: "*Dit stelsel had een geduchte uitwerking en bleek een geweldig dwangmiddel*" (This system had a formidable effect and proved a powerful instrument of compulsion).
+
+When the [[Scheepvaartregeling|scheepvaartregeling]] of [[1893]]–[[1894]] was being prepared, Pedir was the only statelet that refused to accept [[Scherer|Scherer]]'s conditions. The opening of Segli was made dependent on cessation of the bombardment of that post by the [[Muslemin|Muslemin]]. After long deliberation, the *radja* of Pedir declared himself ready to put an end to this, but said he needed money. He got it from the Dutch. It went partly to the Sultan, partly to the Muslemin themselves; the driving out of the latter never came. Import and export on licences was allowed — Segli was thus officially closed, but in practice everything went in and out. Kruijt presents this as the emblematic failure of the Dutch policy of buying compliance from the very enemies it sought to suppress.
+
+## Sources
 
 - *Raffles' Atjeh‑overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal‑, Land‑ en Volkenkunde van Nederlandsch‑Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 - *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, *Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen* (Weltevreden: Landsdrukkerij, 1917), pp. 12–14, 30–31, 47–49, 55–57, 137–138.

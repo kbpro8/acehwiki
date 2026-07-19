@@ -46,6 +46,18 @@ After the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] the Opp
 - [[Battle of the Missigit (10 April 1873)]]
 - [[Aceh War]]
 
-## Source
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+
+Kruijt's *De Atjeh-Oorlog* places the conquest of the kraton at the centre of the entire war narrative.
+
+The [[Eerste Atjeh-expeditie (1873)|first Dutch expedition]] of [[April 1873|April]] [[1873]] sought the kraton in vain. The troops found only heavily overgrown terrain; the kraton could not be located. They reached the [[Meusigit Raja|groote missigit]] (great mosque) and took it after bloody fighting — only to abandon it repeatedly. On [[14 April]] [[1873]] General [[J. H. R. Köhler|Köhler]] was killed; on [[17 April]] the column retired to the beach. "*De kraton was niet gezien, veel minder genomen*" (the kraton had not been seen, much less taken), Kruijt writes.
+
+The [[Tweede Atjeh-expeditie (1873-1874)|second expedition]] under [[Jan van Swieten|General van Swieten]] landed on [[9 December]] [[1873]] and advanced under heavy fighting. On [[7 January]] [[1874]] the groote Missigit was taken. On [[24 January]] [[1874]] the kraton itself fell. "*Dit feit maakte overal diepen indruk*" (This fact made a deep impression everywhere). Two days later, on [[26 January]] [[1874]], the Sultan died of cholera. The question of what to do next, Kruijt observes, "*heeft den toestand in Atjeh tot op den huidigen dag beheerscht*" (has governed the situation in Atjeh down to the present day). Van Swieten proposed that the Dutch should step into the Sultan's place; to show the Atjehers that the Dutch would remain, a strong defensive position would be taken up in [[Groot-Atjeh|Groot-Atjeh]] — the position chosen was the kraton itself.
+
+Under [[Demmeni|Demmeni]] ([[1884]]–[[1886]]) the [[Concentratie-stelsel (1884-1896)|concentration system]] contracted the *stelling*, but the kraton remained the inner fortress throughout the war. [[Lt.-Gen. Vetter|Vetter]]'s [[Proclamation of the Regeeringscommissaris (12 April 1896)|Proclamation of April 1896]] to the heads and population of Atjeh was issued from the kraton, reminding the Atjehers of the prosperity enjoyed under Dutch protection and of the fate of the Sultan who had fled and died in flight.
+
+## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 13-26.
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapters II, III, IV, IX. pp. 9–10, 14, 18, 49.

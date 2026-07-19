@@ -58,6 +58,16 @@ Kaloet's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]]
 - [[1893]]
 - [[Atjeh-Album (Eigen Haard, 1896)]]
 
-## Source
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+
+Kruijt's *De Atjeh-Oorlog* treats Kaloet as the symbol of the paralysis and self-deception of the [[Pahlawan-klucht|Pahlawan-klucht]] period under [[Deijkerhoff|Deijkerhoff]].
+
+Kaloet was the principal enemy fortification within the 1,000-metre open strip surrounding the Dutch concentrated *stelling* in [[Groot-Atjeh|Groot-Atjeh]]. The enemy had entrenched himself to within 150 metres of the Dutch belt railway. From Kaloet the enemy continually bombarded Dutch trains, posts, patrols, and transports; even breaking the railway in [[September 1892|September]] [[1892]] and constructing breastworks and trenches, so that the train could not run for some time. Before Kaloet the Dutch troops repeatedly bloodied their heads; they could not take it. The reports then said that the Dutch were clearing, that they had achieved their object, that the taking of Kaloet was unnecessary.
+
+On [[10 August]] [[1893]] [[Teuku Umar|Toekoe Oemar]] — operating with Dutch troops, Dutch artillery, and Dutch rijksdaalders — took Kaloet "*bijna zonder slag of stoot*" (almost without blow or push). He blew them away or walked in. On the proposal of Deijkerhoff, Toekoe Oemar was officially pardoned on [[30 September]] [[1893]] — seven weeks after the taking of Kaloet — under the name of *[[T. Djohan Pahlawan|T. Djohan Pahlawan]]* and with the rank of *[[Panglima Prang Besar|Panglima prang besar]]*. The ease with which Toekoe Oemar took Kaloet — when Dutch troops had repeatedly failed — was, in Kruijt's analysis, evidence of the secret arrangement between Toekoe Oemar and the enemy that the Dutch refused to recognise.
+
+## Sources
 
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 25–27, 30–33 (De Strijd om Kaloet — Eene herinnering uit den Atjeh-oorlog).
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter XII. pp. 64, 68–69.

@@ -1,7 +1,6 @@
 ---
-
 title: K.N.I.L.
-aliases: [Koninklijk Nederlandsch-Indisch Leger, KNIL, Royal Netherlands East Indies Army]
+aliases: ["K.N.I.L.", "KNIL", "Koninklijk Nederlandsch-Indisch Leger", "Koninklijk Nederlands-Indisch Leger", "Royal Netherlands East Indies Army", "Royal Dutch Indies Army", "Nederlands-Indisch Leger"]
 tags: [organization, army, colonial, dutch]
 ---
 
@@ -35,60 +34,17 @@ The closing arc of *[[Oom Ambon van het K.N.I.L.]]* is the steady disbandment of
 
 The [[K.N.I.L.]] is the institutional subject of *[[Oom Ambon van het K.N.I.L.]]*. The book's argument is that the army — for all the cutbacks, the poor treatment, and the eventual abandonment — was held together less by regulation than by the patient daily work of men like [[Dominee Thenu]], [[Nussy]], [[Thijs de Fretes]] and [[Tamaela]], and by the *[[tangsi]]* culture that had made them. The dissolution of [[1949]] is therefore not just the end of an institution but the end of a moral economy: the *tangsi* culture that had made *[[Oom Ambon]]* was dissolved in the new federal formations, and the Ambonese soldiers who had served the Dutch were left without the institution that had made them.
 
-## See Also
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
 
-- [[Korps Marechaussee van Atjeh en Onderhorigen]]
-- [[1e Divisie Marechaussee uit Blang Kedjeren]]
-- [[6e Divisie Marechaussee]]
-- [[Zesde Bataljon]]
-- [[Derde Bataljon (Atjeh-Bataljon)]]
-- [[Depotbataljons]]
-- [[Andjing Nica (5e Bataljon)]]
-- [[Zeven December Divisie]]
-- [[Oom Ambon]]
-- [[Tangsi]]
-- [[Bangsa]]
-- [Atjeh-oorlog](/events/atjeh-oorlog)
-- [[Souvereiniteitsoverdracht (27 December 1949)]]
-- [Jappentijd (Japanese occupation, 1942-1945)](/events/jappentijd)
-- [Tegen de rood-witten (1946-1949)](/events/tegen-de-rood-witten)
-- [[Communist uprisings of 1926]]
+Kruijt's *De Atjeh-Oorlog* treats the K.N.I.L. as the principal Dutch military instrument of the [[Aceh War|Atjeh-oorlog]] — its officers the successive governors and commanders, its conduct throughout "*boven allen lof verheven*" (above all praise).
 
-## Source
+The [[Eerste Atjeh-expeditie (1873)|first expedition]] of [[April 1873|April]] [[1873]] under [[J. H. R. Köhler|General Köhler]] comprised "buiten de Marine, ruim 3000 man" (more than 3,000 men besides the Marine). The expedition's failure and the death of Köhler on [[14 April]] [[1873]] demonstrated that the K.N.I.L. had underestimated the fighting power of the Atjehers. The [[Tweede Atjeh-expeditie (1873-1874)|second expedition]] of [[December 1873|December]] [[1873]]–[[April 1874|April]] [[1874]] under [[Jan van Swieten|General van Swieten]] comprised approximately 9,000 combatants divided into three brigades. Its success — the [[Conquest of the Kraton (24 January 1874)|fall of the kraton]] on [[24 January]] [[1874]] — established the K.N.I.L. as the principal Dutch instrument in Atjeh.
 
-*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapters "Van recruut tot pensioen," "Moeilijkheden op den weg," "Tangsi en Tante," "De buitenpost," "Ooms leger," and the closing chapters on the Indonesian revolution.
----
+The K.N.I.L.'s troop strength in Atjeh rose progressively: from 3,000 under Pel in [[April 1874|April]] [[1874]] to double that by [[December 1874|December]] [[1874]]; to over 8,000 by the end of [[1876]]; to over 10,000 by mid-[[August 1878|August]] [[1878]]; reduced to an average of 6,000 in [[1882]]–[[1883]]; reduced to about 5,000 under the [[Concentratie-stelsel (1884-1896)|concentration system]]; and reinforced again after the [[Defection of Teuku Umar (March 1896)|defection of Teuku Umar]] of [[March 1896|March]] [[1896]].
 
+The *[[Corps Maréchaussée (Atjeh)|corps maréchaussée]]*, established in [[1890]], was a K.N.I.L. unit chosen from the most suitable volunteers, charged exclusively with the security service within the line in [[Groot-Atjeh|Groot-Atjeh]]. The corps was the principal Dutch instrument for the suppression of the Muslemin within the Dutch *stelling*, and its establishment marked the beginning of the more systematic Dutch counter-insurgency that would be brought to its conclusion under [[Joannes Benedictus van Heutsz|Van Heutsz]] after [[1898]].
 
-**The K.N.I.L.** — *Koninklijk Nederlandsch-Indisch Leger*, the Royal Netherlands East Indies Army — was the professional colonial army of the [[Nederlands-Indië|Dutch East Indies]] from [[1830]] (its formal separation from the Dutch metropolitan army) until its dissolution after the [[Souvereiniteitsoverdracht (27 December 1949)|transfer of sovereignty]] of [[27 December]] [[1949]]. A *beroepsleger* (professional army) needing *geregelde aanvulling* (regular replenishment), it drew its non-European soldaten overwhelmingly from [[Ambon]] and the [[Minahassa]] — where military service was an *eervolle daad* (an honourable deed) — and its European soldaten from the Netherlands via the [[Harderwijk]] depot. The army is the institutional subject of *[[Oom Ambon van het K.N.I.L.]]*, and its [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee corps in Aceh]] is the principal theatre of the book.
-
-## Composition and recruitment
-
-"De bevolking vreemd staat tegenover de militairen, de noodzaak van hun vak niet begrijpt en zijn beschermers slechts beschouwt als geuniformeerde gewapenden, is het niet eenvoudig om voor beroepsdienst mensen van een behoorlijk gehalte te krijgen." For most of the Indies, joining the army was a *noodsprong* (a last resort) because it meant letting go of the *hechte kamponggemeenschap*. "In [[Ambon]] en de [[Minahassa]] was dit volkomen anders. Daar was het militaire beroep in hoog aanzien en het dienstnemen volkomen normaal, zelfs een eervolle daad." Recruits from Ambon and Minahassa arrived with a strong military sense; their families had served for generations, and each *[[negorij]]* had its retired soldaten, its *Ridders [[Militaire Willemsorde|M.W.O.]]*, its *[[Medaille voor Moed en Trouw]]* dragers and its *[[Kroontje (Eervolle Vermelding)|Kroontje]]* holders.
-
-The army's strength was eventually set at 36,000 for an archipelago of 70 million — "een beroepsleger, zoals het K.N.I.L. was, heeft een geregelde aanvulling nodig" — and was cut by 6,000 during the economic crisis of the 1930s, before being expanded again after [[1936]].
-
-## The hierarchy of units
-
-The unit hierarchy of the [[K.N.I.L.]] infantry was: *sectie* (section, of three *brigades*, ~51 men, commanded by a luitenant or higher onderofficier); *compagnie* (company, of three secties); *bataljon* (battalion, of three or more compagnieën); *regiment* (of multiple bataljons, with its own *muziekkorps*); *divisie* (of multiple regimenten, holding *divisieoefeningen* in Aug-Oct). On Java each *compagnie* consisted of one *[[bangsa]]* (except the European officers); in the *[[buitengewesten]]* all *[[landaard|landaarden]]* were mixed in one brigade.
-
-The [[Korps Marechaussee van Atjeh en Onderhorigen]] was the elite corps under the Infantry arm. Other named units in the book include the [[1e Divisie Marechaussee uit Blang Kedjeren]], the [[6e Divisie Marechaussee]], the [[Zesde Bataljon|6e Bataljon]], the [[15e Bataljon|15e Bataljon]], the [[Derde Bataljon (Atjeh-Bataljon)|Derde Bataljon]] (the "Atjeh-Bataljon"), the [[depotbataljons]] on Java, and the various *veldbataljons*.
-
-## Housing and the tangsi
-
-The [[K.N.I.L.]] "zorgde voor de huisvesting van allen die tot het leger behoorden" — housed all its members. Housing was classified in eight *woning klassen 1e-8e klas* by rank: 1e klas for a Generaal-Majoor, 2e for a Kolonel, 3e for Overstes and Majoors, 4e for kapiteins, 5e for luitenants and onderluitenants, 6e for adjudanten and sergeanten-majoor, 7e for sergeanten and sergeanten 1e klas, 8e for sergeanten 2e klas and European minderen. Only *gehuwden* below officiersrang received a woning. The *[[tangsi]]* — barracks — was both the garrison on Java and the *bivak* in the *buitengewesten*.
-
-## The cutbacks and the geest
-
-After the [[Communist uprisings of 1926|communist uprisings of 1926]] the army's strength was partly restored; then the economic crisis hit, communism was conveniently declared "done with," and the *legermacht* was reduced by 6,000. "Geen man en geen cent" was the slogan of the post-war cutback policy. Yet through all of this, the book's refrain is "*De geest is goed*" — the spirit is good: the army was always ready and willing to do its duty. The phrase is the book's quiet judgement on the colonial army's moral economy: regardless of the cutbacks, the soldaten — and above all the Ambonese soldaten — did their duty.
-
-## The dissolution (1949)
-
-The closing arc of *[[Oom Ambon van het K.N.I.L.]]* is the steady disbandment of the [[K.N.I.L.]] and the transfer of its Ambonese soldiers into the *Federale Legers* and *Negaratroepen* of the federal Indonesia the Dutch were constructing. With the [[Souvereiniteitsoverdracht (27 December 1949)|transfer of sovereignty]] of [[27 December]] [[1949]], the federal Indonesia was handed over to the unitary Republic, and the Ambonese soldiers who had served the Dutch were abandoned.
-
-## Significance
-
-The [[K.N.I.L.]] is the institutional subject of *[[Oom Ambon van het K.N.I.L.]]*. The book's argument is that the army — for all the cutbacks, the poor treatment, and the eventual abandonment — was held together less by regulation than by the patient daily work of men like [[Dominee Thenu]], [[Nussy]], [[Thijs de Fretes]] and [[Tamaela]], and by the *[[tangsi]]* culture that had made them. The dissolution of [[1949]] is therefore not just the end of an institution but the end of a moral economy: the *tangsi* culture that had made *[[Oom Ambon]]* was dissolved in the new federal formations, and the Ambonese soldiers who had served the Dutch were left without the institution that had made them.
+Kruijt's judgement: "*De moed, volharding en toewijding van leger en vloot [is] boven allen lof verheven*" (The courage, perseverance and devotion of army and fleet are above all praise). The K.N.I.L.'s setbacks were the consequences not of any failure of the army but of the failure of the political direction.
 
 ## See Also
 
@@ -108,7 +64,15 @@ The [[K.N.I.L.]] is the institutional subject of *[[Oom Ambon van het K.N.I.L.]]
 - [Jappentijd (Japanese occupation, 1942-1945)](/events/jappentijd)
 - [Tegen de rood-witten (1946-1949)](/events/tegen-de-rood-witten)
 - [[Communist uprisings of 1926]]
+- [[J. H. R. Köhler]]
+- [[Jan van Swieten]]
+- [[J. L. J. H. Pel]]
+- [[General van der Heijden]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Aceh War]]
 
-## Source
+## Sources
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapters "Van recruut tot pensioen," "Moeilijkheden op den weg," "Tangsi en Tante," "De buitenpost," "Ooms leger," and the closing chapters on the Indonesian revolution.
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Throughout — the K.N.I.L. is the principal Dutch military instrument throughout the brochure.
