@@ -27,9 +27,18 @@ The sixteenth-century Malay translation of the [[Burda (poem)|Burda of al-Busiri
 
 **Padang Tidji** also served as an intermediate station on the [[1899]] western branch of the second Atjeh tramway — the *lijntje* (little line) built from [[Sigli]] westward over Padang Tidji to [[Keude Breue]]. The Encyclopaedisch Bureau's account mentions the place in passing: "already in [[1899]] from [[Sigli]] a *lijntje* was built westward over Padang Tidji to [[Keude Breue]]." The *lijntje* through Padang Tidji was, the Bureau notes, "a piece of tramway in the [[Gouvernement Atjeh en Onderhoorigheden|Government of Acheh and Dependencies]], somewhat hanging in the air" (*wel wat in de lucht hangende, stuk trambaan in de Onderhoorigheden*) until the [[1904]]–[[1908]] completion of the [[Berglijntje Keude Breue–Seulimeum|berglijntje (mountain-line) from Keude Breue over the hills to Seulimeum]] connected it to the [[Groot-Atjeh|Great Atjeh]] network.
 
+## Padang Tidji as Panglima Polém's refuge (1897–1898)
+
+H. T. Damsté's *Drie Atjeh-Mannen* records that [[Panglima Polém|Panglima Polém]], the sagihoofd of the [[XXII Mukims|XXII Moekims]], withdrew to Padang Tidji — described there as lying in the rich Moekim VII of [[Pidië|Pidie]] — after being driven across the watershed from [[Groot-Atjeh|Greater Atjeh]] following the loss of his *stelling* at [[Glé Jeuëng]] in May [[1897]]. At Padang Tidji, Polém maintained easy contact with the [[Toekoe Moehamat Dawot|sultan at Keumala]] and other enemies of Dutch rule, both from Pidie and from Atjeh. The moekim was accordingly the planned target of the [[Pidië-expedition (1898)|Pidië expedition]] of [[1898]], which aimed to converge on Polém's position from two directions — [[Sigli]] and [[Seulimeum]].
+
 ## See Also
 
 - [[VII Mukims|Mukims VII]]
+- [[Panglima Polém]]
+- [[Keumala]]
+- [[Toekoe Moehamat Dawot]]
+- [[Pidië-expedition (1898)]]
+- [[Glé Jeuëng]]
 - [[XXII Mukims]]
 - [[Tuanku Asem]]
 - [[Pochut Muhamat]]
@@ -54,6 +63,8 @@ The sixteenth-century Malay translation of the [[Burda (poem)|Burda of al-Busiri
 - [[1908]]
 
 ## Sources
+
+H. T. Damsté, "Drie Atjeh-Mannen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), p. 364.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 

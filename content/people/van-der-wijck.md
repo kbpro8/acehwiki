@@ -1,6 +1,6 @@
 ---
 title: "Van der Wijck"
-aliases: ["Van der Wijck", "Jhr. Van der Wijck", "Jhr. C. H. van der Wijck", "Gouverneur-Generaal Van der Wijck", "Vice-President Raad van Indië Van der Wijck"]
+aliases: ["Van der Wijck", "Jhr. Van der Wijck", "Jhr. C. H. van der Wijck", "Gouverneur-Generaal Van der Wijck", "Vice-President Raad van Indië Van der Wijck", "C. A. van der Wijck", "Governor-General van der Wijck", "Landvoogd van der Wijck"]
 tags: [person, dutch, colonial, governor-general, 19th-century, snouck-hurgronje, deijkerhoff, atjeh, van-der-wijck]
 ---
 
@@ -25,6 +25,14 @@ The protection of the Deijkerhoff-Oema policy from change at the metropolitan ce
 ## The 1894 Bekendmaking Interview
 
 Van der Wijck, as Gouverneur-Generaal, also conducted the interview with Snouck Hurgronje over the *[[Bekendmaking Nederburgh|Bekendmaking Nederburgh]]] in [[1894]] — the formal government declaration that was prefixed to the second volume of *[[De Atjehers (Snouck Hurgronje)|De Atjèhers]]* as satisfaction for the criticised gentlemen [[L. W. C. van den Berg|Van den Berg]] and [[Der Kinderen|Der Kinderen]]. The landvoogd Van der Wijck summoned the guilty or accused — Snouck Hurgronje — and showed him the minister's letter; but the delinquent was not penitent: "*Ik heb enkel mijn opdracht vervuld*" (I have only fulfilled my commission). The governor-general, recognising the substance of Snouck Hurgronje's position, agreed: "*met dit onderhoud is voldaan aan den wensch van den minister; en de regeeringsverklaring, die aan uw boek wordt toegevoegd, die zult gij zelf mogen keuren!*" (With this interview the wish of the minister has been satisfied; and the government declaration that will be added to your book, you yourself may approve it!).
+
+## Governor-General during the 1896–1898 Atjeh campaigns
+
+Van der Wijck's correspondence with [[C. Snouck Hurgronje|Snouck Hurgronje]] during the Atjeh campaigns of [[1896]]–[[1898]] reveals the decisive shift in Dutch confidence from [[J. J. van Vliet|Van Vliet]] to [[Joannes Benedictus van Heutsz|Van Heutsz]] as the future governor of [[Gouvernement Atjeh|Atjeh]]. After the [[Lhong expedition (January 1897)|Lhong expedition]]'s costly failure, Van der Wijck defended Van Vliet in his letter to Snouck of [[17 February]] [[1897]], writing that Van Vliet "has, in my opinion, shown to conduct a wise policy; the troops had to be spared for health reasons." Van der Wijck dismissed the criticism of [[K. F. H. van Langen|Van Langen]] and expressed concern about the annual supplement of 2,000 men from Holland, calling it "our weak point — but of course no publicity may be given to it." He also doubted whether any commander could have driven [[Toekoe Oemar|Oema]] back toward [[Leupoeëng|Leupoeëng]] while simultaneously attacking through the [[Glé Moelam-pas|Glé Moelam-pas]], calling such a manoeuvre "an irresponsible gamble."
+
+Van der Wijck's letters of [[17 May]] [[1897]] and [[25 September]] [[1897]] record the steady growth of his confidence in Van Heutsz. The May letter noted Van Heutsz's growing credit at [[Buitenzorg|Buitenzorg]] after receiving the Military Willemsorde on [[24 May]]. In September, Van der Wijck still defended Van Vliet's recognition of Van Heutsz "in his full value," but acknowledged that Van Heutsz's personality presented an obstacle to confidential relations, noting that both Van Vliet and [[Generaal Vetter|general Vetter]] had refrained from reporting Van Heutsz's "great character defects," and hoped that [[H.N.A. Swart|general Swart]] would judge Van Heutsz favourably.
+
+When asked from the Netherlands how long the Atjeh war would last, Van der Wijck consulted Snouck and Van Heutsz, who gave estimates of twenty-five and one years respectively; Van der Wijck averaged them — (25+1)/2 = 13, polished to 12 — and informed The Hague that Atjeh would require twelve more years. When Van Heutsz came to Batavia as chief of staff, Snouck advised him before his meeting with Van der Wijck at the palace: "Nu niet loven en niet laken! Plaats een wachter voor de lippen!" ("Now neither praise nor blame! Place a guard before your lips!"). Van Heutsz reported that he behaved impeccably, though Van der Wijck accused him of being a *preuse* optimist, to which Van Heutsz replied: "Ja Excellentie, als U pessimisten wenscht, moet U mij niet hebben; maar die zijn er genoeg te vinden!" ("Yes, Excellency, if you want pessimists, you must not have me; but there are enough of those to be found!").
 
 ## Significance
 
@@ -51,9 +59,17 @@ Van der Wijck is the Dutch colonial official who, successively as Vice-President
 - [[Atjeh-oorlog]]
 - [[1894]]
 - [[1896]]
+- [[1897]]
 - [[29 March]]
 - [[March 1896]]
+- [[J. J. van Vliet]]
+- [[Generaal Vetter]]
+- [[H.N.A. Swart]]
+- [[Lhong expedition (January 1897)]]
+- [[Sigli expedition (August 1897)]]
 
 ## Source
 
 *Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, pp. 18–19, 27.
+
+H. T. Damsté, "Drie Atjeh-Mannen: Snouck Hurgronje — Van Heutsz — Van Daalen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), overdruck, pp. 356–375.

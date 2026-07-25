@@ -1,6 +1,6 @@
 ---
 title: C. P. J. van Vliet
-aliases: ["C. P. J. van Vliet", "overste van Vliet", "Kolonel van Vliet", "C. P. J. van Vliet (Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden)"]
+aliases: ["C. P. J. van Vliet", "overste van Vliet", "Kolonel van Vliet", "C. P. J. van Vliet (Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden)", "J. J. van Vliet", "Gouverneur van Vliet", "Van Vliet"]
 tags: [person, dutch, colonial, military, officer, aceh-war, 1896, aceh, governor, civiel-en-militair-gouverneur, colonial, kruisheer-vol1, kruisheer-vol3]
 description: "C. P. J. van Vliet — Luitenant-Kolonel van den Generalen Staf (Chief of Staff of the Dutch military command in Aceh in the first semester of 1896), later promoted to Kolonel and appointed Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden on 8 November 1896 — combined operational planning with personal reconnaissance under fire throughout 1896. His tenure as governor, which lasted from 17 November 1896 until 1898, was the bridge between the pacificatie of the second semester of 1896 and the decisive korte oorlog phase which would be launched by Joannes Benedictus van Heutsz."
 ---
@@ -39,6 +39,16 @@ Under Van Vliet's new governorship, the Dutch undertook the following operations
 
 The Van Vliet governorship — which would last until [[1898]], when Van Vliet would be succeeded by [[Joannes Benedictus van Heutsz|Van Heutsz]] — was thus a transitional period, between the *pacificatie* (pacification) of the second semester of [[1896]] and the decisive *korte oorlog* phase which would be launched by Van Heutsz. The cholera epidemic of December [[1896]] prevented the *colonne tegen Oemar* (column against Umar) from taking the field, and the strategic opportunity which the August intelligence on [[Teuku Umar|Oemar]]'s vulnerable position in [[Lohong]] had presented was lost.
 
+## The 1897 governorship: Lhong, the Sigli expedition, and Van Heutsz
+
+H. T. Damsté's *Drie Atjeh-Mannen* supplies a second-source account of Van Vliet's governorship (there rendered "J. J. van Vliet") through [[1897]], marked by strained relations with [[Joannes Benedictus van Heutsz|Van Heutsz]] and his gradual displacement as [[C. A. van der Wijck|Van der Wijck]]'s confidence shifted toward Van Heutsz as the future governor of Atjeh. On [[22 September]] [[1896]], Van der Wijck wrote to [[C. Snouck Hurgronje|Snouck Hurgronje]] that Van Vliet would have to declare, before his appointment, "that he with full conviction accepts the present situation with all its consequences." Van Vliet arrived at [[Oeléëlheu|Oeléëlheu]] on [[8 November]] [[1896]] and took over command and administration on [[17 November]], declaring that he would "relentlessly pursue the hostile bands... and gradually put an end to the resistance against our authority."
+
+Van Vliet's first political report was not cheerful: the weather was poor, the terrain muddy, cholera cases appeared, and Van Heutsz had already predicted on [[12 September]] that the operation lacked offensive character. On [[1 January]] [[1897]] an expedition was sent to [[Lhong]] to capture [[Toekoe Oemar|Teukoe Oema]], but an Atjehsche guide misled the column and the capture failed; *De Locomotief* of [[16 January]] placed the blame squarely on the guide. Van der Wijck nonetheless defended Van Vliet in his letter to Snouck of [[17 February]] [[1897]], writing that Van Vliet "has, in my opinion, shown to conduct a wise policy."
+
+The [[Sigli expedition (August 1897)|Sigli expedition]] of August [[1897]] was the defining operation of Van Vliet's later governorship: Van Heutsz led the operation while Van Vliet observed from a watchtower at [[Sigli]]. When cholera broke out among the troops and Van Vliet considered postponing, Van Heutsz's insistence ("Waarom zouden wij hier blijven afwachten...") prevailed, and on [[6 August]] the bentengs at [[Peukan Baroe|Peukan Baroe]]–[[Peukan Sòt|Peukan Sòt]] were stormed and taken.
+
+Van Vliet appreciated Van Heutsz's military judgement — consulting him on all matters concerning the [[XXII Moekims]] — but found Van Heutsz's personality a barrier to confidential relations. Van der Wijck wrote to Snouck on [[25 September]] [[1897]] that Van Vliet recognised Van Heutsz "in his full value," but that "the personality of the latter presents an obstacle to standing on a confidential footing with him," and that Van Vliet and [[Generaal Vetter|general Vetter]] had both refrained from reporting Van Heutsz's "great character defects." Van Vliet's position weakened further after Vetter's departure and the arrival of [[H.N.A. Swart|general Swart]] as army commander. On [[30 September]] [[1897]] Van Heutsz received extraordinary promotion to colonel and appointment as chief of staff, and Van Vliet reportedly told confidants that Van Heutsz would probably succeed him as governor within four months — a prediction confirmed by Van Heutsz's eventual succession in 1898.
+
 ## Significance
 
 Van Vliet's significance in *ATJEH '96* lies in his embodiment of the *Chef van den Staf* (Chief of Staff) who combined operational planning with personal field reconnaissance — a combination which gave him an unusually comprehensive view of the Dutch war effort in the first semester of [[1896]]. His planning of the cancelled [[30 March 1896 Lamkrak operation|Lamkrak operation of 30 March 1896]] placed him at the centre of the institutional shock of Umar's defection, and his subsequent reconnaissances under fire on [[21 April]], [[30 April]] and [[4 May]] [[1896]] demonstrated a personal courage and operational engagement which the balso explicitly documents. His role as *Chef van den Staf* (Chief of Staff) of the major June operations, and his reconnaissance to the Westkust on [[12 June]] [[1896]], confirm that his responsibilities extended across the full breadth of the Dutch theatre of operations.
@@ -72,11 +82,20 @@ His significance in *ATJEH '96 — Tweede Deel* is that of the *Civiel en Milita
 - [[Civiel en Militair Gouverneur]]
 - [[Pasenstelsel (September–October 1896)]]
 - [[1896]]
+- [[1897]]
 - [[1898]]
 - [[Aceh War]]
+- [[C. A. van der Wijck]]
+- [[Generaal Vetter]]
+- [[H.N.A. Swart]]
+- [[Sigli expedition (August 1897)]]
+- [[Lhong expedition (January 1897)]]
+- [[Conquest of Peukan Baroe-Peukan Sòt (August 1897)]]
 
 ## Source
 
 *ATJEH '96. 1e Deel*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, [[1913]]). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 20, 38, 60, 67, 77, 83, 94, 119, 125, 136, 149, 154, 176, 177, 183, 203, 245, 267, 292, 323.
 
 *ATJEH '96. Tweede Deel* (2c Deel), door A. Kruisheer, Kapitein der Infanterie O.I.L., *met 3 kaarten en 6 portretten* (Weltevreden: N.V. Boekhandel Visser & Co, [[1913]]). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-90-Atjeh_96_DLP-89-Atjeh_96_Met_3_kaarten_en_6_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 9, 145–160 (Hoofdstuk IV), 168–172 (Bijlage III — Instruction for Civiel en Militair Gouverneur Van Vliet).
+
+H. T. Damsté, "Drie Atjeh-Mannen: Snouck Hurgronje — Van Heutsz — Van Daalen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), overdruck, pp. 356–375.

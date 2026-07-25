@@ -1,6 +1,6 @@
 ---
 title: General Vetter
-aliases: [Generaal Vetter, Vetter, General Vetter at Atjeh, Vetter (KNIL Atjeh commander), J. A. Vetter, Luitenant-Generaal J. A. Vetter, Luit.-Gen. Vetter]
+aliases: [Generaal Vetter, Vetter, General Vetter at Atjeh, Vetter (KNIL Atjeh commander), J. A. Vetter, Luitenant-Generaal J. A. Vetter, Luit.-Gen. Vetter, Legercommandant Vetter]
 tags: [person, general, dutch, colonial, military, infantry, achehnese, 19th-century, aceh-war, diplomacy]
 description: "Dutch colonial general of the Netherlands-Indian Army sent to Aceh as Regeeringscommissaris in the immediate aftermath of Teuku Umar's defection of 29 March 1896, with onbeperkte volmacht (unlimited authority); arrived 7 April 1896, relieved Gen.-Maj. Deykerhoff, presided over the spring counter-offensive and the three-day Dutch offensive of 23–25 May 1896, departed for Batavia 28 June 1896 with the office of Regeeringscommissaris abolished. The school-history textbook of F. Roorda credits him with 'groote voordeelen' (great advantages), though the final subjugation of Groot-Atjeh was reserved for his successor Van Heutsz."
 ---
@@ -26,6 +26,12 @@ Vetter's two proclamations defined the public face of the Dutch response. The [[
 ## Farewell, Departure and Restoration of the Civil and Military Governor (per *ATJEH '96*)
 
 The end of Vetter's tenure was marked by the [[Vetter's farewell parade (27 June 1896)|farewell parade of 27 June 1896]] on the *exercitieterrein* (drill ground) near [[Petjoct]] — a large parade of 8 *bataljons* infantry, the *korps maréchaussée*, 1 *escadron cavalerie*, 2 *bergbatterijen*, 1 *compagnie genietroepen* and 1 *compagnie vestingartillerie*. Vetter inspected the troops and addressed each commander with words of farewell and thanks for the difficult period. The same day, by *commandementsorder* from the Legercommandant, commanders were ordered to remind their subordinates of Title VII of the *Crimineel Wetboek voor het krijgsvolk te lande* (Criminal Code for the military land forces) regarding "*geweldenarijen en strooperijen*" (violence and poaching) — Articles 174, 176, 177, 181, 184 — with strict prohibition on *roven en plunderen* (robbing and plundering) and on taking poultry, goats, sheep or rams, and with burning allowed only on the orders of the Chefs. Vetter and his adjudant [[J. F. Breijer|Lt.-Col. Breijer]] departed for [[Batavia]] on [[28 June]] [[1896]] per stoomschip *Coen*; with the laying-down of the Regeeringscommissaris functions, the office of Civiel en Militair Gouvernur was restored under (provisionally) [[J. W. Stemfoort|Kolonel Stemfoort]], and [[K. F. H. van Langen|Resident van Langen]] was relieved of his temporary functions as *Civiel Bestuurder van het gewest*.
+
+## The premature declaration of victory and the 1897 aftermath
+
+H. T. Damsté's *Drie Atjeh-Mannen* records that Vetter, before his departure, had declared [[Toekoe Oemar|Teukoe Oemar]]'s resistance "geheel en al gebroken" (entirely broken) and considered his task fulfilled — a judgment that subsequent events repeatedly disproved. *De Locomotief* of [[16 January]] [[1897]] observed pointedly of this assessment: "Toekoe Oemar wiens tegenstand geheel en al gebroken was, waarmede generaal Vetter zijn taak vervuld achtte, geeft ons te Lhong de handen vol werk, kost ons weder heel wat menschenlevens en schatten aan geld" — noting that the renewed [[Lhong expedition (January 1897)|Lhong expedition]] of January 1897 cost still more lives and money. The editorial added that Dutch success in Atjeh, achieved after Vetter had gone about matters "in his own way" and had "fortunately for the good name of our strategic competence" already disappeared from the scene, was beginning to resemble "a candle of which the best part has burned away."
+
+[[C. A. van der Wijck|Van der Wijck]] wrote to [[C. Snouck Hurgronje|Snouck]] on [[25 September]] [[1897]] that [[Joannes Benedictus van Heutsz|Van Heutsz]] owed it to [[J. J. van Vliet|Van Vliet]] and to Vetter that his "groote karaktergebreken" (great character defects) did not count against his good qualities as troop commander, since both men had refrained from reporting those defects — Vetter, like Van Vliet, had shielded Van Heutsz's career from the consequences of his personality. Vetter's own departure as army commander, and the arrival of [[H.N.A. Swart|general Swart]] in his place, marked a turning point for Van Vliet's position: Van Vliet reportedly felt less secure once Vetter had gone, because the new commander's eyes "anders bleken te zien en te waardeeren" (proved to see and evaluate differently). For Van Heutsz, the change of army commander was a *koers-avans* (forward step) of importance.
 
 ## Significance
 
@@ -67,7 +73,12 @@ Kruisheer's *ATJEH '96* adds a further dimension: Vetter is the *deus ex machina
 - [[Batavia]]
 - [[Koeta Radja]]
 - [[Petjoct]]
+- [[J. J. van Vliet]]
+- [[H.N.A. Swart]]
+- [[C. A. van der Wijck]]
+- [[Lhong expedition (January 1897)]]
 - [[1896]]
+- [[1897]]
 - [[1898]]
 
 ## Source
@@ -75,3 +86,5 @@ Kruisheer's *ATJEH '96* adds a further dimension: Vetter is the *deus ex machina
 *Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 14, 37, 48, 57–60, 76, 217, 218, 319, 322, 331–333, 339–340, 348.
+
+H. T. Damsté, "Drie Atjeh-Mannen: Snouck Hurgronje — Van Heutsz — Van Daalen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), overdruck, pp. 356–358; *De Locomotief*, 16 January 1897.

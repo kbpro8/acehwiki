@@ -1,6 +1,6 @@
 ---
 title: Kolonel Stemfoort
-aliases: ["Colonel Stemfoort", "Stemfoort", "Kolonel Stemfoort of the Atjeh expedition", "J. W. Stemfoort", "J. W. Stemfoort (Kolonel der Infanterie)"]
+aliases: ["Colonel Stemfoort", "Stemfoort", "Kolonel Stemfoort of the Atjeh expedition", "J. W. Stemfoort", "J. W. Stemfoort (Kolonel der Infanterie)", "Generaal Stemfoort", "General Stemfoort"]
 tags: [person, dutch, military, officer, aceh-war, 1896, aceh, commander, expedition-commander, colonial, diplomacy, civiel-en-militair-gouverneur, kruisheer-vol1, kruisheer-vol3]
 description: "J. W. Stemfoort — Kolonel der Infanterie of the Nederlandsch-Indisch Leger — commanded the Dutch expeditionary reinforcements sent to Atjeh in April 1896 in response to Toekoe Oemar's defection; principal Dutch field commander of the first semester of 1896 under Vetter's Regeeringscommissaris, with the most extensive command record of any Dutch officer in the balso; served twice as wd. Civiel en Militair Gouverneur (28 June – 5 July 1896 and 11 July – 17 November 1896), the second tenure being the principal subject of ATJEH '96 — Tweede Deel."
 ---
@@ -162,6 +162,13 @@ His significance in *ATJEH '96 — Tweede Deel* (2c Deel) is that of the *wd. Ci
 - [[Lohong]]
 - [[Selimoen]]
 - [[Java]]
+- [[C. A. van der Wijck]]
+- [[Lhong expedition (January 1897)]]
+- [[Tramweg aanleg in Atjeh (1897)]]
+
+## Advisory role on garrison reorganisation (1897)
+
+H. T. Damsté's *Drie Atjeh-Mannen* records that Stemfoort, together with [[J. J. van Vliet|Van Vliet]], advised on the disposition of Dutch forces in Atjeh during [[1897]]. Stemfoort's proposed reorganisation of the Atjeh garrison — submitted to [[C. A. van der Wijck|Van der Wijck]] for consideration alongside Van Vliet's counter-proposal — came down to four points: abolishing the posts at [[Pakan Kroeng Tjoet|Pakan Kroeng Tjoet]], [[Boekit Karang|Boekit Karang]], [[Roempit|Roempit]], [[Sirón|Sirón]], Lamreng, [[Blang|Blang]], [[Lamsih|Lamsih]], and [[Olehleh-Oost|Olehleh-Oost]] and moving [[Kota Pohama|Kota Pohama]] to [[Kroeëng Raja|Kroeëng Raja]]; keeping a half battalion at Loknga and a battalion at Tjot Mantjang; stationing two battalions at [[Indrapoeri|Indrapoeri]] to secure order there and in the 7 Moekims Baid, plus a battalion at [[Selimoen|Selimoen]] to destroy the war party in the upper [[XXII Moekims]]; and conducting an expedition to the 7 Moekims Pedir and [[Peukan Baroe|Peukan Baroe]]–[[Peukan Sot|Peukan Sot]]. Van Vliet preferred instead to keep a half battalion at [[Samagani|Samahani]] and one and a half battalions at Indrapoeri until the [[Tramweg aanleg in Atjeh (1897)|tramway]] to Indrapoeri was constructed. Both Van Vliet and Stemfoort agreed that the [[Lhong expedition (January 1897)|Lhong expedition]] was unavoidable to check the growing influence of [[Toekoe Oemar|Teukoe Oemar]], though Van der Wijck would have preferred to postpone it.
 
 ## Source
 
@@ -170,3 +177,5 @@ His significance in *ATJEH '96 — Tweede Deel* (2c Deel) is that of the *wd. Ci
 *ATJEH '96. 1e Deel*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, [[1913]]). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 14, 37–38, 57–60, 73, 77, 83, 93, 99, 119, 136–137, 178, 203, 222, 232, 234, 241, 245, 258, 266, 292, 295, 299, 301–302, 307, 308, 318, 322–323, 327, 333.
 
 *ATJEH '96. Tweede Deel* (2c Deel), door A. Kruisheer, Kapitein der Infanterie O.I.L., *met 3 kaarten en 6 portretten* (Weltevreden: N.V. Boekhandel Visser & Co, [[1913]]). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-90-Atjeh_96_DLP-89-Atjeh_96_Met_3_kaarten_en_6_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 1–145 (Hoofdstuk III + opening of Hoofdstuk IV), 162–172 (Bijlagen I–III), 222 (Dagorders).
+
+H. T. Damsté, "Drie Atjeh-Mannen: Snouck Hurgronje — Van Heutsz — Van Daalen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), overdruck, pp. 358–359.
