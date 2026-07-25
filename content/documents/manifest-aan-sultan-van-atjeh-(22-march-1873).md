@@ -4,7 +4,7 @@ aliases: ["Manifest aan Sultan van Atjeh", "Manifest to Sultan of Atjeh", "Nieuw
 tags: [document, military, colonial, diplomatic, dutch, acheh]
 ---
 
-**The Manifest aan Sultan van Atjeh** of [[22 March]] [[1873]] was the written demand delivered by *gouvernements-commissaris* [[T.N. Nieuwenhuyzen|Nieuwenhuyzen]] to the Sultan of [[Acheh|Atjeh]], simultaneously announcing that the demands would be confirmed by bombardment of the Sultan's residence from 3,600 metres offshore. The Manifest — which accompanied the ultimatum that inaugurated the [[Atjeh-oorlog (1873-1904)|Atjeh War]] — was cited extensively during the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate]] as evidence that the *gouvernements-commissaris* had come equipped for war rather than for negotiation.
+**The Manifest aan Sultan van Atjeh** of [[22 March]] [[1873]] was the written demand delivered by *gouvernements-commissaris* [[T.N. Nieuwenhuyzen|Nieuwenhuyzen]] to the Sultan of [[Acheh|Atjeh]], simultaneously announcing that the demands would be confirmed by bombardment of the Sultan's residence from 3,600 metres offshore. The Manifest — which accompanied the ultimatum that inaugurated the [[Atjeh-oorlog (1873-1904)|Atjeh War]] — was cited extensively during the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate]] as evidence that the *gouvernements-commissaris* had come equipped for war rather than for negotiation.
 
 ## Content
 
@@ -18,7 +18,7 @@ The language simultaneously delivered demands and threatened bombardment — a f
 
 ## The Tweede Kamer debate
 
-During the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate]], [[Haffmans|Haffmans]] characterised the *gouvernements-commissaris*'s entire approach as one in which "he fell, as they say, with the door in the house; he came equipped for war and brought the war. The asking of clarification and accountability that preceded was merely for form, an idle display." [[Nierstrasz|Nierstrasz]] noted that the Minister had originally said one should not place the sovereignty demand too roughly at the forefront, yet the manifest did exactly that — and the Minister had not prevented it.
+During the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate]], [[Haffmans|Haffmans]] characterised the *gouvernements-commissaris*'s entire approach as one in which "he fell, as they say, with the door in the house; he came equipped for war and brought the war. The asking of clarification and accountability that preceded was merely for form, an idle display." [[Nierstrasz|Nierstrasz]] noted that the Minister had originally said one should not place the sovereignty demand too roughly at the forefront, yet the manifest did exactly that — and the Minister had not prevented it.
 
 [[I.D. Fransen van de Putte|Fransen van de Putte]] defended the form by arguing that one should look at how such matters were handled in the Javanese War, in Bali, and in Boni: "if one does not treat those friends in that way, one never comes to an end."
 
@@ -29,7 +29,7 @@ During the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer 
 - [[Loudon]]
 - [[Declaration of war on Atjeh (1873)]]
 - [[First Atjeh expedition (March-April 1873)]]
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Gouvernements-commissaris]]
 - [[Instructie gouvernements-commissaris (1873)]]
 - [[Atjeh-oorlog (1873-1904)]]

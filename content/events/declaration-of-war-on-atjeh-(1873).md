@@ -12,13 +12,13 @@ The decision to declare war emerged from a rapid exchange of telegrams between [
 
 ## The manifest and the ultimatum
 
-The manifest sent ashore to the Sultan stated: "This manifest will be delivered to the Sultan today, and as soon as its receipt is confirmed, it will be further confirmed by the firing of some projectiles into or near the Sultan's residence, from which we are only 3,600 metres distant." This language — simultaneously delivering demands and threatening bombardment — was characterised in the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate]] as neither a negotiation nor an ultimatum in the accepted sense, but as an act of war wrapped in the form of a diplomatic communication.
+The manifest sent ashore to the Sultan stated: "This manifest will be delivered to the Sultan today, and as soon as its receipt is confirmed, it will be further confirmed by the firing of some projectiles into or near the Sultan's residence, from which we are only 3,600 metres distant." This language — simultaneously delivering demands and threatening bombardment — was characterised in the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate]] as neither a negotiation nor an ultimatum in the accepted sense, but as an act of war wrapped in the form of a diplomatic communication.
 
 The ultimatum changed the originally stipulated 14-day period for compliance to 24 hours. [[I.D. Fransen van de Putte|Fransen van de Putte]] later took this modification "entirely upon myself," arguing that once blood had been shed, the original instruction (which envisaged only sovereignty on paper) was no longer applicable and the right of establishment must be reserved.
 
 ## The debate on legitimacy
 
-The legitimacy of the war declaration was the central question of the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate of April 1874]]. [[Van Zuylen van Nyevelt|Van Zuylen van Nyevelt]] argued that no *justa causa* existed; [[Godefroi|Godefroi]] argued that colonial-political necessity supplied the justification; [[Haffmans|Haffmans]] argued that the war had been pre-arranged between the Minister and the Governor-General and that the ultimatum was merely "an idle display" preceding war. [[Van Lynden van Sandenburg|Van Lynden]] demonstrated that the Government's claim of ignorance during the February interpellations was contradicted by the submitted documents, which proved that the Government had both known and willed the war.
+The legitimacy of the war declaration was the central question of the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate of April 1874]]. [[Van Zuylen van Nyevelt|Van Zuylen van Nyevelt]] argued that no *justa causa* existed; [[Godefroi|Godefroi]] argued that colonial-political necessity supplied the justification; [[Haffmans|Haffmans]] argued that the war had been pre-arranged between the Minister and the Governor-General and that the ultimatum was merely "an idle display" preceding war. [[Van Lynden van Sandenburg|Van Lynden]] demonstrated that the Government's claim of ignorance during the February interpellations was contradicted by the submitted documents, which proved that the Government had both known and willed the war.
 
 ## The alternative proposed
 
@@ -30,7 +30,7 @@ Several speakers argued that a naval demonstration — taking position by the sh
 - [[I.D. Fransen van de Putte]]
 - [[Loudon]]
 - [[First Atjeh expedition (March-April 1873)]]
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Atjeh-oorlog (1873-1904)]]
 - [[Sumatra-tractaat (1871)]]
 - [[Gouvernements-commissaris]]

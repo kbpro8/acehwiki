@@ -4,7 +4,7 @@ aliases: ["Comité-général", "Comité-général", "Comité generaal", "Secret 
 tags: [concept, parliamentary, dutch, political]
 ---
 
-**The comité-général** — secret session — was the parliamentary procedure under article 104 of the *Reglement van Orde* (Rules of Order) of the [[Tweede Kamer|Tweede Kamer]] by which the Chamber could deliberate on sensitive matters behind closed doors, with an oath of secrecy imposed on all present under article 105. The [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins]] of April [[1874]] was conducted in four *comité-général* sessions on [[16]], [[17]], [[18]], and [[20 April]], and the decision to publish the proceedings was only taken on [[19 October]] [[1881]].
+**The comité-général** — secret session — was the parliamentary procedure under article 104 of the *Reglement van Orde* (Rules of Order) of the [[Tweede Kamer|Tweede Kamer]] by which the Chamber could deliberate on sensitive matters behind closed doors, with an oath of secrecy imposed on all present under article 105. The [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins]] of April [[1874]] was conducted in four *comité-général* sessions on [[16]], [[17]], [[18]], and [[20 April]], and the decision to publish the proceedings was only taken on [[19 October]] [[1881]].
 
 ## The procedural debates
 
@@ -18,7 +18,7 @@ On [[20 April]], after [[I.D. Fransen van de Putte|Fransen van de Putte]]'s fina
 
 ## See Also
 
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Tweede Kamer]]
 - [[I.D. Fransen van de Putte]]
 - [[Bredius]]

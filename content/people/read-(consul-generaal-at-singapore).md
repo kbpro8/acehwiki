@@ -4,7 +4,7 @@ aliases: ["Read", "Consul Read", "Consul-generaal Read", "Dutch consul Singapore
 tags: [person, diplomatic, colonial, dutch, acheh]
 ---
 
-**Read** was the Dutch consul-general at Singapore whose reports on the activities of Atjehsche envoys seeking foreign protectorate against the Netherlands — particularly the contacts with the American consul at Singapore — formed one of the principal pretexts for the [[Declaration of war on Atjeh (1873)|declaration of war on Atjeh]] in March [[1873]]. His intelligence was contested during the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate]] as unreliable and alarmist, and his role in inflating the threat of American intervention became a central argument for those who considered the war unjustified.
+**Read** was the Dutch consul-general at Singapore whose reports on the activities of Atjehsche envoys seeking foreign protectorate against the Netherlands — particularly the contacts with the American consul at Singapore — formed one of the principal pretexts for the [[Declaration of war on Atjeh (1873)|declaration of war on Atjeh]] in March [[1873]]. His intelligence was contested during the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate]] as unreliable and alarmist, and his role in inflating the threat of American intervention became a central argument for those who considered the war unjustified.
 
 ## The Singapore incident
 
@@ -22,7 +22,7 @@ Atjehsche envoys, while enjoying Dutch hospitality on Dutch warships en route to
 
 ## See Also
 
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Declaration of war on Atjeh (1873)]]
 - [[Loudon]]
 - [[I.D. Fransen van de Putte]]

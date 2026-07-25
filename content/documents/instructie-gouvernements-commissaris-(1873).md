@@ -4,7 +4,7 @@ aliases: ["Instructie gouvernements-commissaris", "Instruction for government co
 tags: [document, colonial, diplomatic, dutch, acheh]
 ---
 
-**The Instructie gouvernements-commissaris** of [[1873]] was the official instruction given to the *gouvernements-commissaris* — first [[Schiff|Schiff]] and [[Van de Wall|Van de Wall]], then [[T.N. Nieuwenhuyzen|Nieuwenhuyzen]] — dispatched to [[Acheh|Atjeh]] to negotiate with the Sultan. The instruction, particularly its article 6, became a central point of contention in the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate]], because the Minister's modification of article 6 after blood had been shed transformed the mission from one seeking sovereignty on paper to one demanding the right of Dutch establishment — a fundamental change that, according to critics, proved the Government's true intention had always been war.
+**The Instructie gouvernements-commissaris** of [[1873]] was the official instruction given to the *gouvernements-commissaris* — first [[Schiff|Schiff]] and [[Van de Wall|Van de Wall]], then [[T.N. Nieuwenhuyzen|Nieuwenhuyzen]] — dispatched to [[Acheh|Atjeh]] to negotiate with the Sultan. The instruction, particularly its article 6, became a central point of contention in the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate]], because the Minister's modification of article 6 after blood had been shed transformed the mission from one seeking sovereignty on paper to one demanding the right of Dutch establishment — a fundamental change that, according to critics, proved the Government's true intention had always been war.
 
 ## The original instruction
 
@@ -34,7 +34,7 @@ The Minister's telegrams revealed his ambivalence about the sovereignty demand. 
 - [[Loudon]]
 - [[Declaration of war on Atjeh (1873)]]
 - [[Manifest aan Sultan van Atjeh (22 March 1873)]]
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Gouvernements-commissaris]]
 - [[Raad van Nederlandsch Indie]]
 - [[Atjeh-oorlog (1873-1904)]]

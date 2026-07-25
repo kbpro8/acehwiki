@@ -20,7 +20,7 @@ While the Atjèhnese envoys were still at Riouw, the Indische Regeering learned 
 
 Before his mission to Atjèh, Nieuwenhuyzen had served as *commissaris* at [[Banjermasin|Banjermasin]] and as resident of [[Riouw|Riouw]], where he had concluded the [[Siak-tractaat (1858)|Siak treaty]] that extended Dutch sovereignty over the entire east coast of Sumatra without a single soldier being involved. He was known as a follower of [[I.D. Fransen van de Putte|Van de Putte]] and his opinions; the [[Raad van Indie|Raad van Indie]]'s unanimous advice of the end of [[1870]] — warning against all the consequences of a war with Atjeh — had been signed by Nieuwenhuyzen himself. [[I.D. Fransen van de Putte|Minister Fransen van de Putte]] pointed to Nieuwenhuyzen when the Governor-General telegraphed that the original commissioners [[Schiff|Schiff]] and [[Van de Wall|Van de Wall]] were unavailable (one sick, the other unable to leave his post); the Minister's telegram of [[18 February]] [[1873]] stated: "Misschien is vice-president Raad van Indie in de tegenwoordige omstandigheden meest geschikt, daar welligt gouverneur Sumatra's Westkust ook niet weg kan." [[Loudon|Loudon]], however, had already asked Nieuwenhuyzen before receiving this telegram.
 
-The Sultan of Atjeh had declared that he did not wish to have dealings with Nieuwenhuyzen, precisely because Nieuwenhuyzen had concluded the Siak treaty that altered Atjeh's borders in ways the Sultan had never recognised. [[Insinger|Insinger]] in the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate]] called Nieuwenhuyzen "the most unwelcome person to come into contact with the Sultan of Atjeh," and argued that selecting this man was what one would do if one wished war, whereas the governor of Sumatra's Westkust was the man designated by the treaty of 1858 for all relations with Atjeh.
+The Sultan of Atjeh had declared that he did not wish to have dealings with Nieuwenhuyzen, precisely because Nieuwenhuyzen had concluded the Siak treaty that altered Atjeh's borders in ways the Sultan had never recognised. [[Insinger|Insinger]] in the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate]] called Nieuwenhuyzen "the most unwelcome person to come into contact with the Sultan of Atjeh," and argued that selecting this man was what one would do if one wished war, whereas the governor of Sumatra's Westkust was the man designated by the treaty of 1858 for all relations with Atjeh.
 
 ## The ultimatum of 22 March 1873
 
@@ -46,7 +46,7 @@ Nieuwenhuyzen's mission ended in the disastrous [[First Atjeh expedition (March-
 - [[Loudon]]
 - [[I.D. Fransen van de Putte]]
 - [[Siak-tractaat (1858)]]
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Gouvernements-commissaris]]
 - [[Schiff]]
 - [[1873]]

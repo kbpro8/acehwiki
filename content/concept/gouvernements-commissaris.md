@@ -4,7 +4,7 @@ aliases: ["Gouvernements-commissaris", "Government commissioner", "Commissaris n
 tags: [concept, colonial, dutch, official, political, acheh]
 ---
 
-**The gouvernements-commissaris** (government commissioner) was the Dutch colonial official dispatched with military forces to [[Acheh|Atjeh]] in [[1873]] to demand the Sultan's recognition of Dutch sovereignty. The institution of the *gouvernements-commissaris* — first exercised by [[Schiff|Schiff]] and [[Van de Wall|Van de Wall]], then by [[T.N. Nieuwenhuyzen|Nieuwenhuyzen]] — became the mechanism through which the [[Declaration of war on Atjeh (1873)|declaration of war on Atjeh]] was effected, and the commissioner's instruction and conduct became the central subject of the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate of April 1874]].
+**The gouvernements-commissaris** (government commissioner) was the Dutch colonial official dispatched with military forces to [[Acheh|Atjeh]] in [[1873]] to demand the Sultan's recognition of Dutch sovereignty. The institution of the *gouvernements-commissaris* — first exercised by [[Schiff|Schiff]] and [[Van de Wall|Van de Wall]], then by [[T.N. Nieuwenhuyzen|Nieuwenhuyzen]] — became the mechanism through which the [[Declaration of war on Atjeh (1873)|declaration of war on Atjeh]] was effected, and the commissioner's instruction and conduct became the central subject of the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate of April 1874]].
 
 ## The first mission: Schiff and Van de Wall
 
@@ -31,7 +31,7 @@ Before this mission could depart, [[Van de Wall|Van de Wall]] fell mortally ill,
 - [[Manifest aan Sultan van Atjeh (22 March 1873)]]
 - [[Declaration of war on Atjeh (1873)]]
 - [[First Atjeh expedition (March-April 1873)]]
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Atjeh-oorlog (1873-1904)]]
 
 ## Source

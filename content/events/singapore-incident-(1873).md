@@ -4,7 +4,7 @@ aliases: ["Singapore incident", "Singapore consul incident 1873", "Atjeh envoys 
 tags: [event, diplomatic, colonial, dutch, american, acheh]
 ---
 
-**The Singapore incident** of early [[1873]] was the series of contacts between Atjehsche envoys and the consuls of America and Italy at Singapore, in which the envoys — while travelling on Dutch warships en route to Atjeh — simultaneously sought foreign support against the Netherlands. The incident, reported by [[Read (consul-generaal at Singapore)|Dutch consul-general Read]], became the principal pretext for the [[Declaration of war on Atjeh (1873)|declaration of war on Atjeh]], though its seriousness was contested during the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate of April 1874]].
+**The Singapore incident** of early [[1873]] was the series of contacts between Atjehsche envoys and the consuls of America and Italy at Singapore, in which the envoys — while travelling on Dutch warships en route to Atjeh — simultaneously sought foreign support against the Netherlands. The incident, reported by [[Read (consul-generaal at Singapore)|Dutch consul-general Read]], became the principal pretext for the [[Declaration of war on Atjeh (1873)|declaration of war on Atjeh]], though its seriousness was contested during the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate of April 1874]].
 
 ## The contacts
 
@@ -42,7 +42,7 @@ An American treaty with Brunei already existed. [[Kuyper|Kuyper]] suggested that
 - [[Godefroi]]
 - [[Van Zuylen van Nyevelt]]
 - [[Declaration of war on Atjeh (1873)]]
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Loudon]]
 - [[I.D. Fransen van de Putte]]
 - [[Sumatra-tractaat (1871)]]

@@ -4,7 +4,7 @@ aliases: ["Haffmans", "J. R. Haffmans", "Member Haffmans"]
 tags: [person, political, parliamentary, dutch, colonial, acheh]
 ---
 
-**Haffmans** was a member of the [[Tweede Kamer|Tweede Kamer]] who spoke during the [[Tweede Kamer debate on Atjeh war origins (April 1874)|debate on Atjeh war origins]] in April [[1874]], arguing that the war was pre-arranged between the Government and the Indian administration and that the question was merely to find an occasion. Haffmans also opened the procedural debate on [[16 April]] by arguing against secret sessions, insisting that the *comité-général* procedure made open debate impossible given the manner in which the Government had submitted the documents.
+**Haffmans** was a member of the [[Tweede Kamer|Tweede Kamer]] who spoke during the [[Parliamentary debate on Atjeh war origins (April 1874)|debate on Atjeh war origins]] in April [[1874]], arguing that the war was pre-arranged between the Government and the Indian administration and that the question was merely to find an occasion. Haffmans also opened the procedural debate on [[16 April]] by arguing against secret sessions, insisting that the *comité-général* procedure made open debate impossible given the manner in which the Government had submitted the documents.
 
 ## The procedural objection
 
@@ -35,7 +35,7 @@ A modified motion by Haffmans to close the secret session and continue in open s
 - [[I.D. Fransen van de Putte]]
 - [[Loudon]]
 - [[T.N. Nieuwenhuyzen]]
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Comité-général]]
 - [[Declaration of war on Atjeh (1873)]]
 - [[Atjeh-oorlog (1873-1904)]]

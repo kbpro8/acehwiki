@@ -4,7 +4,7 @@ aliases: ["Cremers", "J. C. Cremers", "Member Cremers"]
 tags: [person, political, parliamentary, dutch, colonial, acheh]
 ---
 
-**Cremers** was a member of the [[Tweede Kamer|Tweede Kamer]] who spoke during the [[Tweede Kamer debate on Atjeh war origins (April 1874)|debate on Atjeh war origins]] in April [[1874]], defending the war by characterising [[Acheh|Atjeh]] as a "barbarian robber-state" and arguing that alongside the international-law perspective there was a colonial-political interest that justified the extension of Dutch authority. Cremers later served on the [[Comité-général|Commission]] that decided to publish the secret proceedings without modification in [[1881]], alongside [[Van Kerkwijk|Van Kerkwijk]], [[Insinger|Insinger]], [[Schimmelpenninck van der Oije|Schimmelpenninck van der Oije]], and [[Des Amorie van der Hoeven|Des Amorie van der Hoeven]].
+**Cremers** was a member of the [[Tweede Kamer|Tweede Kamer]] who spoke during the [[Parliamentary debate on Atjeh war origins (April 1874)|debate on Atjeh war origins]] in April [[1874]], defending the war by characterising [[Acheh|Atjeh]] as a "barbarian robber-state" and arguing that alongside the international-law perspective there was a colonial-political interest that justified the extension of Dutch authority. Cremers later served on the [[Comité-général|Commission]] that decided to publish the secret proceedings without modification in [[1881]], alongside [[Van Kerkwijk|Van Kerkwijk]], [[Insinger|Insinger]], [[Schimmelpenninck van der Oije|Schimmelpenninck van der Oije]], and [[Des Amorie van der Hoeven|Des Amorie van der Hoeven]].
 
 ## The defence of the war
 
@@ -23,7 +23,7 @@ The Commission, consisting of Cremers, [[Van Kerkwijk|Van Kerkwijk]], [[Insinger
 - [[Nierstrasz]]
 - [[Van Lynden van Sandenburg]]
 - [[Insinger]]
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Comité-général]]
 - [[Declaration of war on Atjeh (1873)]]
 - [[Atjeh-oorlog (1873-1904)]]

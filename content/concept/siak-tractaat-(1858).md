@@ -4,7 +4,7 @@ aliases: ["Siak-tractaat", "Siak treaty", "Treaty of Siak", "Siak-tractaat van 1
 tags: [concept, diplomatic, colonial, dutch, acheh]
 ---
 
-**The Siak-tractaat** — the treaty with Siak of [[1858]] (sometimes dated [[1857]]) — was the Dutch colonial treaty that extended Dutch sovereignty over the entire east coast of Sumatra, bringing territories that [[Acheh|Atjeh]] claimed as its dependencies under Dutch control. The treaty was cited during the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate of April 1874]] as the first breach of the [[Tractaat van 1857|treaty of 1857]] with Atjeh and the [[Tractaat van 1824 (Anglo-Dutch)|tractaat of 1824]] with England.
+**The Siak-tractaat** — the treaty with Siak of [[1858]] (sometimes dated [[1857]]) — was the Dutch colonial treaty that extended Dutch sovereignty over the entire east coast of Sumatra, bringing territories that [[Acheh|Atjeh]] claimed as its dependencies under Dutch control. The treaty was cited during the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate of April 1874]] as the first breach of the [[Tractaat van 1857|treaty of 1857]] with Atjeh and the [[Tractaat van 1824 (Anglo-Dutch)|tractaat of 1824]] with England.
 
 ## The breach of Atjeh's territory
 
@@ -28,7 +28,7 @@ tags: [concept, diplomatic, colonial, dutch, acheh]
 - [[Tractaat van 1857]]
 - [[Sumatra-tractaat (1871)]]
 - [[Declaration of war on Atjeh (1873)]]
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Van Zuylen van Nyevelt]]
 - [[Insinger]]
 - [[Atjeh-oorlog (1873-1904)]]

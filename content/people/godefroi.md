@@ -4,7 +4,7 @@ aliases: ["Godefroi", "A. Godefroi", "Member Godefroi"]
 tags: [person, political, parliamentary, dutch, colonial, acheh]
 ---
 
-**Godefroi** was a member of the [[Tweede Kamer|Tweede Kamer]] from Gouda who spoke during the [[Tweede Kamer debate on Atjeh war origins (April 1874)|debate on Atjeh war origins]] in April [[1874]], defending the war's legitimacy on grounds of colonial-political necessity. Godefroi argued that the relationship with [[Acheh|Atjeh]] could not be judged by European standards of international law, that the [[Sumatra-tractaat (1871)|Sumatra-tractaat of 1871]] contained the germ of a possible war, and that Atjeh's attempts to secure foreign protectorate constituted a *casus belli*.
+**Godefroi** was a member of the [[Tweede Kamer|Tweede Kamer]] from Gouda who spoke during the [[Parliamentary debate on Atjeh war origins (April 1874)|debate on Atjeh war origins]] in April [[1874]], defending the war's legitimacy on grounds of colonial-political necessity. Godefroi argued that the relationship with [[Acheh|Atjeh]] could not be judged by European standards of international law, that the [[Sumatra-tractaat (1871)|Sumatra-tractaat of 1871]] contained the germ of a possible war, and that Atjeh's attempts to secure foreign protectorate constituted a *casus belli*.
 
 ## The colonial-political defence
 
@@ -27,7 +27,7 @@ During [[Gericke van Herwijnen|Minister Gericke van Herwijnen]]'s response, the 
 - [[Nierstrasz]]
 - [[Van Lynden van Sandenburg]]
 - [[Gericke van Herwijnen]]
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Sumatra-tractaat (1871)]]
 - [[Tractaat van 1824 (Anglo-Dutch)]]
 - [[Singapore incident (1873)]]

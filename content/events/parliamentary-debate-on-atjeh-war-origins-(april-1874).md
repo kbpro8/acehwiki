@@ -1,10 +1,10 @@
 ---
-title: "Tweede Kamer debate on Atjeh war origins (April 1874)"
-aliases: ["Tweede Kamer debate on Atjeh war origins", "Interpellatie Messchert van Vollenhoven", "Oorlog met Atjeh debat", "Comité-général Atjeh 1874", "Parliamentary debate on Atjeh war 1874"]
+title: "Parliamentary debate on Atjeh war origins (April 1874)"
+aliases: ["Parliamentary debate on Atjeh war origins", "Parliamentary debate on Atjeh war 1874", "Tweede Kamer debate on Atjeh war origins (April 1874)", "Tweede Kamer debate on Atjeh war origins", "Interpellatie Messchert van Vollenhoven", "Oorlog met Atjeh debat", "Comité-général Atjeh 1874"]
 tags: [event, political, parliamentary, dutch, colonial, acheh]
 ---
 
-**The Tweede Kamer debate on Atjeh war origins** of April [[1874]] — conducted in *comité-général* (secret session) on [[16]], [[17]], [[18]], and [[20 April]] — was the parliamentary investigation into the origins of the [[Declaration of war on Atjeh (1873)|war with Atjeh]], precipitated by the interpellation of [[Messchert van Vollenhoven|Messchert van Vollenhoven]] and the submission of secret documents by the Government. The debate, whose publication was authorised only in [[1881]], revealed the extent to which the Government had known and intended the war while publicly claiming ignorance, and established the principal arguments over the war's legitimacy that would reverberate through Dutch colonial politics for decades.
+**The Parliamentary debate on Atjeh war origins** — held in the *Tweede Kamer* (the Dutch lower house of parliament) — of April [[1874]] — conducted in *comité-général* (secret session) on [[16]], [[17]], [[18]], and [[20 April]] — was the parliamentary investigation into the origins of the [[Declaration of war on Atjeh (1873)|war with Atjeh]], precipitated by the interpellation of [[Messchert van Vollenhoven|Messchert van Vollenhoven]] and the submission of secret documents by the Government. The debate, whose publication was authorised only in [[1881]], revealed the extent to which the Government had known and intended the war while publicly claiming ignorance, and established the principal arguments over the war's legitimacy that would reverberate through Dutch colonial politics for decades.
 
 ## The Commission and the decision to publish
 

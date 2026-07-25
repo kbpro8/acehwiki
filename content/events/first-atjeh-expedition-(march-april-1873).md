@@ -4,7 +4,7 @@ aliases: ["First Atjeh expedition", "Eerste Atjeh-expeditie", "First Aceh expedi
 tags: [event, military, colonial, dutch, acheh, failed]
 ---
 
-**The first Atjeh expedition** of March–April [[1873]] was the initial Dutch military campaign against [[Acheh|Atjeh]], launched after [[T.N. Nieuwenhuyzen|gouvernements-commissaris Nieuwenhuyzen]]'s ultimatum of [[22 March]] [[1873]] and the subsequent bombardment of the Sultan's residence. The expedition — conducted with inadequate preparation, insufficient intelligence about Atjeh's terrain and defences, and a navy in poor condition — ended in failure and retreat, necessitating a second expedition under [[Van Swieten|general Van Swieten]] later that year. Its failure became the central indictment of the Government's conduct in the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate of April 1874]].
+**The first Atjeh expedition** of March–April [[1873]] was the initial Dutch military campaign against [[Acheh|Atjeh]], launched after [[T.N. Nieuwenhuyzen|gouvernements-commissaris Nieuwenhuyzen]]'s ultimatum of [[22 March]] [[1873]] and the subsequent bombardment of the Sultan's residence. The expedition — conducted with inadequate preparation, insufficient intelligence about Atjeh's terrain and defences, and a navy in poor condition — ended in failure and retreat, necessitating a second expedition under [[Van Swieten|general Van Swieten]] later that year. Its failure became the central indictment of the Government's conduct in the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate of April 1874]].
 
 ## The failure and its causes
 
@@ -28,7 +28,7 @@ The first expedition's failure was attributed by parliamentary critics to multip
 - [[Loudon]]
 - [[Van Swieten]]
 - [[Kroesen]]
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Second Atjeh expedition (1873)]]
 - [[Atjeh-oorlog (1873-1904)]]
 

@@ -4,7 +4,7 @@ aliases: ["Mailrapport", "Mail report", "Mailrapport 9 Januari 1873"]
 tags: [concept, colonial, administrative, dutch, acheh]
 ---
 
-**The mailrapport** — mail report — was the periodic summary of principal events in the Netherlands Indies, instituted by Minister De Waal, transmitted by the Governor-General with every mail steamer. The mailrapport of [[9 January]] [[1873]] — which contained the letter of [[4 January]] from the General Secretariat to the resident of [[Riouw|Riouw]] regarding the mission to [[Acheh|Atjeh]] — became a contested document during the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate]], because [[I.D. Fransen van de Putte|the Minister]] claimed it contained nothing beyond the instruction to [[Schiff|Schiff]] and [[Van de Wall|Van de Wall]], while [[Insinger|Insinger]] demonstrated that it contained the passage instructing the resident to demand recognition of Dutch supreme lordship over Atjeh.
+**The mailrapport** — mail report — was the periodic summary of principal events in the Netherlands Indies, instituted by Minister De Waal, transmitted by the Governor-General with every mail steamer. The mailrapport of [[9 January]] [[1873]] — which contained the letter of [[4 January]] from the General Secretariat to the resident of [[Riouw|Riouw]] regarding the mission to [[Acheh|Atjeh]] — became a contested document during the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate]], because [[I.D. Fransen van de Putte|the Minister]] claimed it contained nothing beyond the instruction to [[Schiff|Schiff]] and [[Van de Wall|Van de Wall]], while [[Insinger|Insinger]] demonstrated that it contained the passage instructing the resident to demand recognition of Dutch supreme lordship over Atjeh.
 
 ## The Insinger reading
 
@@ -18,7 +18,7 @@ tags: [concept, colonial, administrative, dutch, acheh]
 - [[Schiff]]
 - [[Van de Wall]]
 - [[T.N. Nieuwenhuyzen]]
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Riouw]]
 - [[Declaration of war on Atjeh (1873)]]
 

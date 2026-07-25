@@ -4,7 +4,7 @@ aliases: ["Tractaat van 1857", "Treaty of 1857", "Atjeh Treaty 1857", "1857 trea
 tags: [concept, diplomatic, colonial, dutch, acheh]
 ---
 
-**The Tractaat van 1857** — the treaty of [[1857]] between the Netherlands Indies government and the Sultan of [[Acheh|Atjeh]] — established "permanent peace and friendship and good understanding" between the two governments (article 1), and provided for mutual waiver of all pre-existing claims and disputes (article 4). The treaty became a central subject of the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate of April 1874]], where speakers argued over whether it guaranteed Atjeh's full independence or implied Dutch suzerainty.
+**The Tractaat van 1857** — the treaty of [[1857]] between the Netherlands Indies government and the Sultan of [[Acheh|Atjeh]] — established "permanent peace and friendship and good understanding" between the two governments (article 1), and provided for mutual waiver of all pre-existing claims and disputes (article 4). The treaty became a central subject of the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate of April 1874]], where speakers argued over whether it guaranteed Atjeh's full independence or implied Dutch suzerainty.
 
 ## Article 1 and the Dutch breach
 
@@ -24,7 +24,7 @@ Article 4 stipulated: "The Netherlands Indies Government and His Highness the Su
 - [[Sumatra-tractaat (1871)]]
 - [[Siak-tractaat (1858)]]
 - [[Declaration of war on Atjeh (1873)]]
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Van Zuylen van Nyevelt]]
 - [[Godefroi]]
 - [[Atjeh-oorlog (1873-1904)]]

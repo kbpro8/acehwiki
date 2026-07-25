@@ -4,11 +4,11 @@ aliases: ["Sumatra-tractaat", "Sumatra Treaty 1871", "Treaty of Sumatra 1871", "
 tags: [concept, diplomatic, colonial, dutch, british, political, acheh]
 ---
 
-**The Sumatra-tractaat** of [[1871]] was the Anglo-Dutch treaty that gave the Netherlands complete freedom of action regarding [[Acheh|Atjeh]] by removing the British protectorate obligation that had been in place since the [[Tractaat van 1824 (Anglo-Dutch)|tractaat of 1824]]. The treaty — cited during the [[Tweede Kamer debate on Atjeh war origins (April 1874)|Tweede Kamer debate of April 1874]] as containing the "germ of the war" — transferred Britain's interest in northern Sumatra to the Netherlands and effectively placed Atjeh's fate in Dutch hands.
+**The Sumatra-tractaat** of [[1871]] was the Anglo-Dutch treaty that gave the Netherlands complete freedom of action regarding [[Acheh|Atjeh]] by removing the British protectorate obligation that had been in place since the [[Tractaat van 1824 (Anglo-Dutch)|tractaat of 1824]]. The treaty — cited during the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate of April 1874]] as containing the "germ of the war" — transferred Britain's interest in northern Sumatra to the Netherlands and effectively placed Atjeh's fate in Dutch hands.
 
 ## The treaty and the germ of war
 
-[[Godefroi|Godefroi]] argued during the [[Tweede Kamer debate on Atjeh war origins (April 1874)|1874 debate]] that the Sumatra-tractaat contained the germ of a possible war: by giving the Netherlands freedom to act in Atjeh, the treaty simultaneously created the obligation to prevent any foreign power from establishing itself there. Atjeh's attempts to secure foreign protectorate — from America and Italy — were therefore in direct conflict with the purpose of the treaty, and constituted a *casus belli*.
+[[Godefroi|Godefroi]] argued during the [[Parliamentary debate on Atjeh war origins (April 1874)|1874 debate]] that the Sumatra-tractaat contained the germ of a possible war: by giving the Netherlands freedom to act in Atjeh, the treaty simultaneously created the obligation to prevent any foreign power from establishing itself there. Atjeh's attempts to secure foreign protectorate — from America and Italy — were therefore in direct conflict with the purpose of the treaty, and constituted a *casus belli*.
 
 [[Van Zuylen van Nyevelt|Van Zuylen]] acknowledged that the germ lay in the treaty but argued that a prudent and wise statesmanship would have ensured that the germ remained a germ and did not develop into war. He asked what proof existed that the Government had ever offered Atjeh any reasonable conditions before resorting to war.
 
@@ -27,7 +27,7 @@ tags: [concept, diplomatic, colonial, dutch, british, political, acheh]
 - [[Tractaat van 1824 (Anglo-Dutch)]]
 - [[Tractaat van 1857]]
 - [[Siak-tractaat (1858)]]
-- [[Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
 - [[Declaration of war on Atjeh (1873)]]
 - [[Godefroi]]
 - [[Van Zuylen van Nyevelt]]
