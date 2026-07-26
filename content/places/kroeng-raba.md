@@ -98,3 +98,32 @@ Kroeng Raba was the principal Dutch naval and amphibious base for the operations
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 30, 138, 142, 145, 148, 167, 213, 235, 267, 319, 321, 601.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+The **Kroeng Raba** (Krueng Raba) is the river on the west coast of [[Groot-Atjeh]], whose mouth at the [[Kroeng Raba-baai|Baai van Kroeng Raba]] formed the western end of the great afsluitingslinie that [[Generaal Pel|generaal Pel]] planned between the mouth of the Kroeng Raba on the west coast and the mouth of the [[Kroeng Raya]] on the north coast, with the aim of isolating Atjeh from the sea. The river and its mouth were conquered by Pel's colonne in January [[1876]] in the opening phase of the [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|great winter offensive]].
+
+## The western end of the afsluitingslinie
+
+Pel's plan, as he explained it at his [[Pel's Buitenzorg planning session (1875)|Buitenzorg planning session]] in July [[1875]] to [[Gouverneur-Generaal van Lansberge|gouverneur-generaal van Lansberge]] and the commandant van het leger, called for the eventual extension of the Dutch linie from the mouth of the Kroeng Raba on the west coast to the mouth of the Kroeng Raya on the north coast, isolating Atjeh from the sea and reducing it to a *binnenstaat* (inland state). The Kroeng Raba was therefore not merely a tactical objective but the western anchor of a strategic conception. The post at the river's mouth would, with the post at the [[Kroeng Raya]] mouth on the north coast, complete the isolation of Groot-Atjeh from foreign supply and seal the fate of the resistance. Borel stresses that Pel's plan was never communicated officially, not even to his *chef van den staf* — nothing about it was found in his archive after his death.
+
+## The conquest of January 1876
+
+The Kroeng Raba was reached on [[15 January]] [[1876]] by a colonne marching from [[Lampagger]] through the [[Blang Kalla]] kloof southward over *bergachtig terrein* (mountainous terrain) into the [[IV Moekims]], reaching Loenga on the right bank of the Kroeng Raba mouth, which would become the *westelijke grens* (western limit) of the new afsluitingslinie. The hoofden there submitted. The colonne returned via the *noordoostelijke weg*, left a post at Boekit Seboen on [[24 January]] [[1876]], and reached Pakan Badak; it then made a *tocht* through the eastern part of the IV Moekims. With the Kroeng Raba mouth in Dutch hands, the IV Moekims were opened to Dutch operations, and the way was prepared for the [[IX Moekims|IX Moekims invasion]] of [[28 January]] [[1876]] through the [[Glitaroem]] pass. The death of Pel at [[Lamjoeng]] on [[24 February]] [[1876]] interrupted the completion of the afsluitingslinie, but the Kroeng Raba anchor held.
+
+## See Also
+
+- [[Kroeng Raba-baai]]
+- [[Kroeng Raya]]
+- [[IV Moekims]]
+- [[Blang Kalla]]
+- [[Lampagger]]
+- [[Glitaroem]]
+- [[Generaal Pel]]
+- [[Pel's Buitenzorg planning session (1875)]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Kroeng]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 323–325, 336–342.

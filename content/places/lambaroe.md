@@ -58,3 +58,32 @@ Lambarih was the indispensable support post for the [[Ana' Galong]] garrison and
 *Verslagen der Marine‑Vereeniging III 1889‑1890*, pp. 229‑233. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pages 138‑141.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 22, 27, 28, 30, 35, 38–40, 42, 51, 55, 62, 63, 66, 75–76, 92, 100, 144, 335.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+**Lambaroe** was an Atjehnees kampong in the [[III Moekims]] sector, conquered on [[4 February]] [[1876]] in [[Generaal Pel|Pel]]'s great [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|winter offensive]] and the site of a strong enemy *benteng* (fortification) stormed in early March [[1876]] by [[Kolonel Meijer|overste Meijer]]'s colonne, in which the Atjehneezen lost more than 70 dead and the Dutch five dead and 41 wounded including five officers. A Dutch post was then erected at Lambaroe.
+
+## The conquest of 4 February 1876
+
+Lambaroe was conquered on [[4 February]] [[1876]] in the closing sweep of the [[XXV Moekims|XXV Moekims]]. From Toeram the Dutch had made an *inval* (inroad) into the [[III Moekims|III Moekims]] on [[3 February]] [[1876]], driving the enemy out of [[Atoeh]] after a *heeten strijd*. The next day the colonne continued *noordoostelijk*: Lamrong and [[Lamsajoen]] were conquered, along with Kajoe Leh, Lambaroe and [[Pager Ajer|Pager Ajer Mesigit]], and via Tandjoeng and Bayoer communication was established with the [[Longbatta-Mesigit]]. On [[7 February]] [[1876]] the troepen returned to [[Kota Radja|K. Radja]] after a 10-day *tocht* — total losses five dead and 59 wounded, "betrekkelijk gering." The entire *Sagie* of the XXV Moekims was now in Dutch hands. After the [[Atoeh catastrophe (13 February 1876)|Atoeh catastrophe]] of [[13 February]] [[1876]] and the conquest of [[Pango]] the same day, Pel pressed on through [[Tjap Octoe]] on [[14 February|14]]–[[15 February]] [[1876]], but the losses at Tjap Octoe made him decide not to push further eastward.
+
+## The storming of the benteng in early March 1876
+
+In early March [[1876]] the communication between [[Pager Ajer]] and the [[Longbatta-Mesigit]] was broken and Kajoe Leh was *ingesloten* (besieged) by the enemy. [[Kolonel Meijer|Overste Meijer]] marched with a colonne from K. Radja to *ontzet* (relieve) the bedreigde posten. After the enemy was verdreven on the Pager Ajer side, the colonne stuitten at Lambaroe on a *sterke benteng*, which was *stormenderhand* (by storm) taken. The Atjehneezen left more than 70 *lijken* (corpses); Dutch losses were five *gesneuvelden* and 41 *gekwetsten* including five officers. Kajoe Leh was *ontzet* and a post was opgericht at Lambaroe. The storming was the last major offensive operation of Pel's plan: on [[10 March]] [[1876]] [[Generaal Wiggers van Kerchem|generaal Wiggers van Kerchem]] assumed militaire and civiele bestuur, and from then on the war entered another phase. The *stelling* [[Kroeng Raba|K. Raba]]–[[Kwala Gigieng]] has remained "nagenoeg onveranderd" ever since, Borel writes in [[1878]].
+
+## See Also
+
+- [[III Moekims]]
+- [[XXV Moekims]]
+- [[Pager Ajer]]
+- [[Kolonel Meijer]]
+- [[Generaal Pel]]
+- [[Generaal Wiggers van Kerchem]]
+- [[Atoeh catastrophe (13 February 1876)]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Benteng]]
+- [[Klewang]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 327–329, 336–337.

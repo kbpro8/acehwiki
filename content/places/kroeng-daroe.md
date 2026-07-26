@@ -29,3 +29,31 @@ The Kroeng Daroe is the principal watercourse of the [[Koeta Radja|Kota Radja]] 
 ## Source
 
 D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), p. 33. Koninklijke Bibliotheek shelfmark 0301 4872.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+The **Kroeng Daroe** (Krueng Daroe) is the small river that splits the [[Kraton of Atjeh|Kraton]] enclosure into two halves and the principal cause of the [[Bandjir flood of Kota Radja (December 1874)|December 1874 bandjir]] that inundated [[Kota Radja|K. Radja]] for eight days. Its crossing by [[Generaal Verspijck|Verspijck]]'s *omtrekkende beweging* on [[23 January]] [[1874]] caused "groot oponthoud" — great delay — in the operation that produced the [[Fall of the Kraton (24 January 1874)|fall of the Kraton]]. The [[Pakan Atjeh|Pakan Atjeh]] post on its right bank was the principal Dutch battery against the enemy's eastern line at [[Pendetti]] and [[Lampoe Idjoe]].
+
+## The river in the Kraton
+
+The Kroeng Daroe ran through the Kraton enclosure from north to south, splitting the captured palace-fortress into two halves and discharging into the [[Atjeh-rivier]] at the southern face. Its presence inside the Kraton made the enclosure naturally defensible against assault from either half, but it also made the enclosure vulnerable to flooding: when the Atjeh-rivier rose, the Kroeng Daroe backed up and overflowed its banks inside the Kraton. Borel notes that the Kroeng Daroe was "the principal cause" of the [[Bandjir flood of Kota Radja (December 1874)|December 1874 bandjir]], in which more than 500 sick had to be rushed the first day to higher ground in the middle of the Kraton and water rose to the roofs of the hospital barracks. The Dutch post at [[Pakan Atjeh]] on the right bank of the Kroeng Daroe was therefore positioned to command both the river's crossing and the eastern approaches to the Kraton.
+
+## The crossing of 23 January 1874
+
+On [[23 January]] [[1874]], after *hevig vuur*, [[Generaal Verspijck|generaal Verspijck]] began the *omtrekkende beweging* from [[Kota Goenoengan]] around the *zuider-* and *ooster-facen* to reach the Atjeh-rivier. The crossing of the Kroeng Daroe caused "groot oponthoud" — great delay. Verspijck encountered "geen noemenswaardigen tegenstand." On the morning of [[24 January]] [[1874]] the *omtrekkende beweging* continued; at 11 a.m. the last mortier granaat was fired. Verspijck reached the Atjeh-rivier; all works fell "zonder slag of stoot." An afdeeling climbed the low borstwering and discovered, "tot niet geringe verbazing," that they were inside the Kraton — which was "op een grijsaard en een zieken Atjehnees na, geheel verlaten." The Kroeng Daroe crossing had been the only operational difficulty of the day; its successful passage made the fall of the Kraton a matter of hours.
+
+## See Also
+
+- [[Kraton of Atjeh]]
+- [[Kota Radja]]
+- [[Atjeh-rivier]]
+- [[Pakan Atjeh]]
+- [[Kota Goenoengan]]
+- [[Generaal Verspijck]]
+- [[Fall of the Kraton (24 January 1874)]]
+- [[Bandjir flood of Kota Radja (December 1874)]]
+- [[Kroeng]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 23–24, 27, 32–34, 39, 41, 46, 59, 65, 89, 95, 102, 108, 111, 113, 116–119, 124, 131, 154, 179, 184–186, 219–223, 323–329.

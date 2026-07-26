@@ -65,3 +65,38 @@ The *DLP-84-Atjeh* pamphlet records that the [[Indische Leger|Indische Leger]] �
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, DLP‑55, pp. 138‑141.
 
 *DLP-84-Atjeh.pdf*, pp. 4-5.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+The **[[Indische Leger|Indische leger]]** (Netherlands Indies Army) was the colonial military force of the [[Atjeh (Borel account)|Netherlands Indies]] that bore the brunt of the [[Aceh War|Atjeh-oorlog]] from [[1873]] onwards. In Borel's account it is both the instrument with which the [[Second Aceh Expedition (1873–1874)|second expedition]] against Atjeh was undertaken and a deeply troubled institution: underfunded, undermanned, equipped in part with obsolete materieel, and led at the top by a commander — [[Jan van Swieten|generaal van Swieten]] — whom the army "geenszyns populair" found. Borel's diagnosis of its poor condition in [[1875]] is one of the central indictments of the book and provides the foundation for his [[Indische Brigade (proposed)|Indische Brigade]] proposal.
+
+## Condition and Composition
+
+The Indische leger that fought the Atjeh War was recruited partly in the Netherlands and partly in the Indies, with European and inlandsche (indigenous) troops serving side by side. Its principal combat arms — infanterie, artillerie, cavallerie, genie, mariniers — were organised in bataljons, batterijen and compagnieën, supported by hulptroepen from the principalities of Java ([[Mangkoe Negoro]], [[Pakoe Alam]]) and from [[Madura]] (the [[Bataljon Barissans van Madura|Barissans]]). The expeditionary force sent against Atjeh in [[1873]] was divided into three brigades — the [[Padangsche brigade|1ste, 2de and Padangsche]] — of which the third was left behind at [[Padang]] on van Swieten's orders. After the [[Departure of Jan van Swieten from Atjeh (April 1874)|departure of the hoofdmacht]] in April [[1874]], the occupation was sustained by a much-reduced [[Bezettingskorps in Atjeh|bezettingskorps]] under [[Generaal Pel|generaal Pel]], which was repeatedly reinforced by individual bataljons shipped from Java as casualties and disease took their toll. Among the units named in Borel's account are the 5de, 6de, 9de, 10de, 12de, 13de and 18de bataljons infanterie, the 22ste and Tweede compagnieën of [[Vesting-artillerie in Atjeh|vesting-artillerie]], and the [[Compagnie mariniers in Atjeh|compagnie mariniers]].
+
+## Borel's Diagnosis of 1875
+
+By [[1875]], Borel reports, the Indische leger was "in geen gunstigen toestand." The manschappen were onvoldoende geoefend; the kaders were in treurige staat; many soldiers were sick or unfit; there was a groot gebrek aan officieren, especially in the artillerie. The war had cost the army dearly — the [[Cholera catastrophe at Kota Radja (February 1875)|cholera catastrophe of February 1875]] alone killed almost 500 people in the [[Kota Radja|K. Radja]] ambulances, of whom 270 were military, and the [[Battle of Longbatta (31 December 1874)|Longbatta disaster]] of [[31 December]] [[1874]] had destroyed much of the 10de bataljon. The companies could field fewer than half their men; the 5de bataljon, ~500 strong when it arrived in December 1874, could field barely 100 usable soldiers by [[15 February]] [[1875]]. The medical service — the officieren van gezondheid — each doctor treating more than 100 patients at K. Radja — was warm praised for its skill, zeal and self-sacrifice, but could not stem the mortality. Officers who had been gedetacheerd in Indië before [[1877]] had suffered a pensioenstoelage onrecht — a grievance that further harmed recruitment. The obsolete [[Voorlaadkanonnen in Atjeh|getrokken voorlaadkanonnen]] with tijdbuizen that failed on Atjeh's wet, bedekte terrain — in contrast to the [[Achterlaadkanonnen van 12 c.M.|achterlaadkanonnen]] with schokbuis that Borel demanded — were a further symptom of the army's materieel backwardness.
+
+## The Brigade Proposal
+
+The condition of the Indische leger is the direct justification for Borel's [[Indische Brigade (proposed)|Indische Brigade]] proposal of [[1 March|1]]–[[3 March]] [[1878]]. A force of 3 000–4 000 men raised in the Netherlands from Dutch vrijwilligers, armed with steel achterlaadkanonnen and sent directly to Atjeh — not via Java's "ongezonde garnizoenen" — would, Borel argued, supply at one stroke the geoefende manschappen, the kaders and the modern materieel that the Indische leger itself could no longer provide. He estimated the cost at ƒ 6 000 000 for the first year and ƒ 10–15 million for the whole two years, to be raised as an *oorlogsleening* and repaid, he suggested, in Acehnese pepper. The proposal was amplified in *De Militaire Spectator*, No. 7, jaargang [[1878]]. Borel's argument is that the Atjeh-oorlog — already in its sixth year by [[1878]] — could not be ended by the Indische leger alone; only a metropolitan reinforcement on the scale of the [[1830]] French expedition against Algiers (quoted from Camille Rousset's *L'Histoire de la guerre de Crimée*) would suffice.
+
+## See Also
+
+- [[Bezettingskorps in Atjeh]]
+- [[Padangsche brigade]]
+- [[Vesting-artillerie in Atjeh]]
+- [[Bataljon Barissans van Madura]]
+- [[Compagnie mariniers in Atjeh]]
+- [[Indische Brigade (proposed)]]
+- [[Generaal Pel]]
+- [[Jan van Swieten]]
+- [[Generaal Wiggers van Kerchem]]
+- [[Achterlaadkanonnen van 12 c.M.]]
+- [[Voorlaadkanonnen in Atjeh]]
+- [[Een vaderlandsch belang (Borel, 1878)]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 9–14, 144, 167, 175, 195, 213, 224, 252, 257–258, 322, 336–337, 354.

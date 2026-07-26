@@ -91,3 +91,37 @@ The ammunition and edged weapons of the [[Aceh War]] reflect the dual character 
 ## Source (additional)
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 33, 68, 70, 71, 75, 88, 92, 104, 110, 112, 142–144, 212, 222.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+The **[[Klewang|klewang]]** was the Atjehnese cutting sword — the principal melee weapon of the Atjehneezen in the [[Aceh War|Atjeh-oorlog]], "meesterlijk, bliksemsnel en krachtig gehanteerd" (masterfully, lightning-fast and powerfully wielded), in Borel's judgement superior in hand-to-hand combat to the European bajonet or sabel. The klewang was the weapon of the Atjehnese *charge* — the "blanke klewang in de vuist" (naked klewang in the fist) with which the Atjehneezen sprang from the boschrand in the [[Acehnese attack on Penajoeng bivouak (13 January 1874)|attack on Penajoeng bivouak]] of [[13 January]] [[1874]], the [[Acehnese attack on Penajoeng (11 April 1874)|massed attack on Penajoeng]] of [[11 April]] [[1874]] and the [[Night attack on Longbatta-Mesigit (22 November 1875)|night attack on Longbatta-Mesigit]] of [[22 November]] [[1875]]. Borel calls the klewang "een vreeslijk wapen" (a fearsome weapon) in man-to-man night combat.
+
+## Description and Use
+
+The klewang was a single-edged cutting sword, typically of locally forged or imported steel, with a slightly curved blade and a hilt designed for one-handed use. It was the traditional weapon of the Atjehnese — carried by every adult male, used both as a tool and as a weapon — and its handling was, in Borel's account, the principal martial skill of the Atjehnese warrior. The klewang was "meesterlijk, bliksemsnel en krachtig gehanteerd" — masterfully, lightning-fast and powerfully wielded — and in hand-to-hand combat it was superior to the European bajonet or sabel. The Atjehnese charge with the klewang — the "blanke klewang in de vuist" with which warriors sprang from the boschrand — was the characteristic Atjehnese tactical formation. Borel compares the Atjehnese charge to "eene woeste onverwachte charge van cavallerie" — a wild, unexpected cavalry charge — in his account of the [[Atoeh catastrophe (13 February 1876)|Atoeh catastrophe]] of [[13 February]] [[1876]]. The klewang's effect on the wounded was characteristic: many of [[Majoor van der Meer|van der Meer]]'s wounded at the [[Battle of Longbatta (31 December 1874)|Longbatta disaster]] of [[31 December]] [[1874]] had dreadful klewang cuts.
+
+## The Atjehnese Charge
+
+The klewang was the weapon of the Atjehnese charge — the tactical formation by which the Atjehneezen sought to convert the advantage of surprise and the cover of the boschrand into a melee in which the klewang's superiority could be exploited. The charge was typically delivered at dawn or at night, from a concealed position within a few hundred paces of the Dutch post or column. The warriors sprang from the boschrand with the "blanke klewang in de vuist," threw the nearest veldwacht overhoop, and pressed on into the Dutch position. The [[Acehnese attack on Penajoeng bivouak (13 January 1874)|attack on Penajoeng bivouak]] of [[13 January]] [[1874]] — when a "bende woestelingen" penetrated the legerplaats from the north side near the veekraal, threw the nearest veldwacht overhoop, and pushed through to the ambulances and "zelfs tot dicht bij de tent van den opperbevelhebber" — was a typical example. The [[Night attack on Longbatta-Mesigit (22 November 1875)|night attack on Longbatta-Mesigit]] of [[22 November]] [[1875]] — when a band of ~50 Atjehneezen climbed the low borstwering and "met de blanke klewang" hacked among sleeping manschappen — was another. The [[Atoeh catastrophe (13 February 1876)|Atoeh catastrophe]] of [[13 February]] [[1876]] — when [[Jan van Swieten (Kapitein)|kapitein van Swieten]]'s detachment of 2 officers and 57 men was massacred on the drassige sawah near [[Lamsajoen]] — was the most damaging single example.
+
+## The Lesson for the Dutch
+
+The klewang dictated, in Borel's account, a set of tactical lessons for the Dutch. First, the Dutch bivouak or post must never be placed against the boschrand without proper clearing — the error of the [[Acehnese attack on Penajoeng bivouak (13 January 1874)|Penajoeng bivouak]] of [[13 January]] [[1874]], when the bivouak had been placed against the boschrand and a "bende woestelingen" had penetrated the legerplaats from the north side. Second, the field of fire must be cleared — the *stormvrijheid* that Borel advocates throughout the book — so that the Atjehnese charge could be broken by *salvoes* of Beaumont-geweer fire before the warriors could close. Third, the Dutch must never march in dispersed order over soaked sawah along wooded edges — the lesson of the [[Atoeh catastrophe (13 February 1876)|Atoeh catastrophe]] — because the Atjehnese charge from the boschrand could massacre a dispersed column before it could *verzamelen* (assemble). Fourth, the Dutch schildwachten must never sleep on post — the lesson of the [[Night attack on Longbatta-Mesigit (22 November 1875)|night attack on Longbatta-Mesigit]] — because the klewang was "een vreeslijk wapen" in man-to-man night combat, and a small but determined Atjehnese force, exploiting darkness and the cover of the boschrand, could *overvallen* a Dutch post with devastating effect. The klewang was thus, in Borel's account, both a weapon and a tactical teacher: the instrument by which the Atjehneezen converted the conditions of their terrain into a series of tactical advantages that the Dutch could only counter by discipline, by *stormvrijheid*, and by the *mobiele colonnes* that Borel advocated.
+
+## See Also
+
+- [[Atjehnees volkskarakter (Borel)]]
+- [[Beaumont-geweer]]
+- [[Bamboe-doeri versperringen]]
+- [[Stormvrijheid]]
+- [[Acehnese attack on Penajoeng bivouak (13 January 1874)]]
+- [[Night attack on Longbatta-Mesigit (22 November 1875)]]
+- [[Atoeh catastrophe (13 February 1876)]]
+- [[Battle of Longbatta (31 December 1874)]]
+- [[Jan van Swieten (Kapitein)]]
+- [[1874]]
+- [[1876]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 31, 37, 54–56, 117, 162, 168–169, 231, 237, 317–318.

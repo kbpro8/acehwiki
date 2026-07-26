@@ -26,3 +26,31 @@ Penajoeng is, in the [[De Kleine Oosterling|school-textbook]] narrative, the sta
 ## Source
 
 *De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 38 ("Een nieuwe stad").
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+**Penajoeng** (also Pantan Raja) was the principal Dutch *bivouak* (field camp) on the right bank of the [[Atjeh-rivier]], occupied immediately after the [[Landing at Pedro-punt (6 December 1873)|landing at Pedro-punt]] in December 1873 and used as the base for the [[Storming of the Mesigit (6 January 1874)|storming of the Mesigit]] and the [[Bombardment of the Kraton (January 1874)|bombardment of the Kraton]] in January [[1874]]. Borel calls it a *pesthol* (plague-hole) for the cholera that ravaged its overcrowded lines, and notes that it was the site of an embarrassing Acehnese penetration on [[13 January]] [[1874]] in the [[Acehnese attack on Penajoeng bivouak (13 January 1874)|attack on the bivouak]]. It was finally abandoned for the captured Kraton on [[26 April]] [[1874]] when the hoofdmacht sailed for Java.
+
+## The Dutch base
+
+After the victorious march along the strand from [[Pedro-punt]] in December [[1873]], Penajoeng was selected because its right-bank position covered the approaches to the Mesigit and Kraton from the north-west. The bivouak was placed against the boschrand without proper clearing, an error that allowed the Atjehneezen to infiltrate on [[13 January]] [[1874]] in *klaarlichten dag* — in broad daylight — and push through to the ambulances and "zelfs tot dicht bij de tent van den opperbevelhebber." After the [[Fall of the Kraton (24 January 1874)|fall of the Kraton]] [[Jan van Swieten|van Swieten]] began a *vierkante gehastionneerde redoute* (square bastioned redoubt) at Penajoeng and ordered improvements to the [[Marine-benteng|marine-benteng]] downstream, committing the Dutch to a permanent presence on the right bank.
+
+## Pesthol and aftermath
+
+Penajoeng was ravaged by cholera from the moment of landing. The disease, brought from Batavia in the overcrowded transports, found ideal conditions in the overcrowded bivouak and cost "vele menschenlevens" through the first months of [[1874]]. It was from Penajoeng that the daily patrols of the [[Padi-snijden on the Langkroek sawah (1874)|padi-snijden]] concession to [[Langkroek]] were watched, and from Penajoeng that the [[Acehnese attack on Penajoeng (11 April 1874)|massed Acehnese attack of 11 April 1874]] was repulsed with artillery. On [[26 April]] [[1874]] the garrison withdrew to the Kraton; the [[Desecration of Dutch graves at Lampoeloe (1874)|desecration of the Dutch cemetery]] at nearby [[Lampoeloe]] followed within hours. In [[1875]] the grassy plain of [[Pantej Perak]] just south of Penajoeng was selected for the new ambulances, and the post itself was reoccupied as a forward strongpoint in the [[Stelling-Pel|stelling-Pel]].
+
+## See Also
+
+- [[Atjeh-rivier]]
+- [[Marine-benteng]]
+- [[Kampong Djawa]]
+- [[Lampoeloe]]
+- [[Pantej Perak]]
+- [[Acehnese attack on Penajoeng bivouak (13 January 1874)]]
+- [[Acehnese attack on Penajoeng (11 April 1874)]]
+- [[Desecration of Dutch graves at Lampoeloe (1874)]]
+- [[Jan van Swieten]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 24, 30, 34, 38–47, 49–50, 54, 58–59, 62–66, 73–74, 82–86, 92, 96, 100, 103, 109, 121, 125, 128, 130–132, 138, 142, 152–156.

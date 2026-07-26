@@ -1,33 +1,53 @@
 ---
-title: Verspijck
-aliases: [Verspijck, Verspyck, Verspeck, Verspijck Atjeh 1873, Verspijck landing Atjeh, Verspijck tweede expeditie]
-tags: [person, dutch, colonial, military, officer, atjeh, 1873, 1874, aceh-war, tweede-expeditie]
+title: General Verspijck
+aliases: [Verspijck, Verspyck, Verspeck, General Verspijck, generaal Verspijck, luitenant-generaal Verspijck, tweede bevelhebber Verspijck, Verspijck Atjeh 1873, Verspijck tweede expeditie]
+tags: [person, dutch, colonial, military, general, tweede-bevelhebber, aceh-war, 1873, 1874]
 ---
 
-**Verspijck** was the Dutch colonial officer who commanded the landing of the [[Tweede Atjeh-expeditie (1873-1874)|second Atjeh expedition]] on [[9 December]] [[1873]] and who, supported by the fire of the steamships, drove the [[Acheh|Atjehnese]] from their fortifications on the right bank of the Atjeh river. He is recorded in [[Dr. W. A. Terwogt|Terwogt]]'s *[[Het Land van Jan Pieterszoon Coen (Terwogt)|Het Land van Jan Pieterszoon Coen]]* as the commander of the landing operation that opened the second expedition's military campaign.
+**General Verspijck** was *luitenant-generaal* and *tweede bevelhebber* (second-in-command) of the [[Second Aceh Expedition (1873–1874)|second Dutch expedition against Atjeh]] under [[Jan van Swieten|generaal van Swieten]]; he commanded the landing on [[9 December]] [[1873]] at the roadstead of Atjeh and drove the Atjehneezen from their fortifications on the right bank of the Atjeh river; and he executed the [[Fall of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[1874]] through an *omtrekkende beweging* (flanking movement) that delivered the deserted palace-fortress to the Dutch without a shot. In [[G. F. W. Borel|Borel]]'s narrative he is the steady professional soldier whose sound tactical judgement was systematically overborne by his commander's caution.
 
-## The landing of 9 December 1873
+## Appointment as Second-in-Command
 
-The [[Tweede Atjeh-expeditie (1873-1874)|second Atjeh expedition]] — over 6,000 strong — was dispatched in the second half of November [[1873]] under the supreme command of the retired former commander of the Indies army, [[Jan van Swieten|Jan van Swieten]]. The expedition began under unfavourable auspices: when Van Swieten arrived at the roadstead of Atjeh, he found that cholera had broken out on many of the transport ships, a disease that would claim numerous victims throughout the expedition.
+The government's appointment of Verspijck as second-in-command to the retired *luitenant-generaal* van Swieten was meant to pair the former *opperbevelhebber* with an active-duty tactician of complementary views. Van Swieten's appointment in November [[1873]] surprised the Indische leger, which no longer knew him personally and found him "geenszins populair." The government simultaneously named Verspijck as *tweede bevelhebber*, though Borel records that Verspijck's *inzichten* "verschilden aanmerkelijk" with van Swieten's, especially on *krijgskundig gebied*, and that he was "te goed soldaat" to voice his disagreements publicly.
 
-On [[9 December]] [[1873]], the landing was undertaken under the command of Verspijck. Supported by the fire of the steamships, Verspijck drove the Atjehnese from their fortifications on the right bank of the Atjeh river. After the left bank of the river-mouth had also been occupied, the expedition pushed southward on [[24 December]] and, in a reconnaissance, encountered numerous fortifications, which were taken after heavy fighting. The campaign continued through January [[1874]], culminating in the occupation of the Kraton on [[24 January]] [[1874]] — found deserted, so that this important point could be occupied without bloodshed.
+## The Landing of 9 December 1873
+
+On [[9 December]] [[1873]] the landing was undertaken under Verspijck's command. The [[Second Aceh Expedition (1873–1874)|second expedition]] — over 6,000 strong, dispatched in the second half of November [[1873]] — arrived at the roadstead of Atjeh under unfavourable auspices: cholera had broken out on many transport ships. Supported by the fire of the steamships, Verspijck drove the Atjehneezen from their fortifications on the right bank of the Atjeh river. After the left bank of the river-mouth had also been occupied, the expedition pushed southward on [[24 December]] [[1873]] and encountered numerous fortifications, which were taken after heavy fighting.
+
+## The Divergence over the Padangsche Brigade
+
+The principal recorded disagreement between Verspijck and van Swieten concerned the [[Padangsche brigade|third brigade]] left behind at Padang. Verspijck proposed landing it at the [[Kroeng Raba-baai]] for a pincer movement against the Kraton from two sides — a plan that, Borel notes, "drie jaren later" was vindicated when [[Generaal Pel|generaal Pel]] proved the march feasible along a route less than three *uren* long in a straight line. Van Swieten rejected the proposal out of "vrees," and the enemy's line of retreat from the Kraton remained open. The three-brigade deployment, properly executed, might have ended the war at a fraction of the cost.
+
+## The Omtrekkende Beweging and the Fall of the Kraton
+
+Verspijck's most consequential initiative came after the [[Storming of the Mesigit (6 January 1874)|storming of the Mesigit]] on [[6 January]] [[1874]] — which cost 220 dead and wounded in a frontal assault ordered by van Swieten without reconnaissance — and the [[Bombardment of the Kraton (January 1874)|nineteen-day bombardment]] of the Kraton. On [[23 January]] [[1874]], after "hevig vuur," he began the *omtrekkende beweging* from [[Kota Goenoengan]] around the *zuider-* and *ooster-facen* of the Kraton to reach the [[Atjeh-rivier|Atjeh-rivier]]. The crossing of the [[Kroeng Daroe]] caused "groot oponthoud," but Verspijck encountered "geen noemenswaardigen tegenstand." On the morning of [[24 January]] [[1874]] the movement continued; at eleven o'clock the last mortier-granaat was fired, and a Dutch *afdeeling* climbed the low *borstwering* and discovered — "tot niet geringe verbazing" — that the Kraton was "op een grijsaard en een zieken Atjehnees na, geheel verlaten." The Kraton was occupied without bloodshed. Borel judges that the whole operation could have been done "na weinige dagen" if properly conducted; instead it took a month.
+
+## The Reconnaissance of 29 January 1874
+
+Verspijck accompanied van Swieten on the [[Reconnaissance of the Atjeh-rivier (29 January 1874)|misfired reconnaissance of 29 January 1874]] up the Atjeh-rivier, where the Dutch column met unexpectedly strong resistance near [[Lampoe Idjoe]] and was forced to retire "onverrichter zake."
 
 ## Significance
 
-For AcehWiki, Verspijck is significant as the commander of the landing operation of [[9 December]] [[1873]] that opened the military campaign of the [[Tweede Atjeh-expeditie (1873-1874)|second Atjeh expedition]]. The landing, supported by the fire of the steamships, drove the Atjehnese from their river-bank fortifications and established the Dutch beachhead for the advance on the Kraton.
+Verspijck embodies in Borel's narrative the professional soldier whose sound tactical judgement was systematically overborne by his commander's caution. His *omtrekkende beweging* saved the second expedition from the fate of the [[First Aceh Expedition (April 1873)|first]] under [[Generaal Köhler]], and his frustrated proposal for the Kroeng Raba-baai landing anticipated by three years the very strategy Pel would use to break the Atjehnese resistance.
 
 ## See Also
 
-- [[Het Land van Jan Pieterszoon Coen (Terwogt)]]
-- [[Dr. W. A. Terwogt]]
-- [[Aceh War]]
-- [[Tweede Atjeh-expeditie (1873-1874)]]
-- [[Jan van Swieten|Van Swieten]]
-- [[Kutaradja]]
-- [[9 December]]
+- [[Second Aceh Expedition (1873–1874)]]
+- [[Fall of the Kraton (24 January 1874)]]
+- [[Storming of the Mesigit (6 January 1874)]]
+- [[Bombardment of the Kraton (January 1874)]]
+- [[Reconnaissance of the Atjeh-rivier (29 January 1874)]]
+- [[Jan van Swieten]]
+- [[Generaal Köhler]]
+- [[Generaal Pel]]
+- [[Kroeng Raba-baai]]
+- [[Padangsche brigade]]
+- [[Kraton of Atjeh]]
 - [[1873]]
 - [[1874]]
 
 ## Source
 
 *Het Land van Jan Pieterszoon Coen*, door Dr. W. A. Terwogt (Hoorn: P. Geerts, [1891]). Hoofdstuk XIII: "Den 9den December werd onder aanvoering van Verspijck geland. Ondersteund door het vuur der stoomschepen verdreef deze de Atjehers uit hunne versterkingen aan den rechteroever der Atjeh-rivier."
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. pp. 10–11, 13, 21, 32–33, 42–44, 56.

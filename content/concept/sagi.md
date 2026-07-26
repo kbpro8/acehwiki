@@ -99,3 +99,42 @@ The [[Sagi (Atjehnese federation)|sagi]] is, in the [[Dr. C. Snouck Hurgronje|Sn
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+The **[[Sagi|sagi]]** (Acehnese *sagie*) was the Atjehnese territorial division immediately above the [[Mukim|mukim]] — a federation of mukims, named by the number of mukims it contained, with its own collective political and military capability. The sagi's of [[Groot-Atjeh]] — the [[VI Moekims|VI Moekims]], [[IV Moekims|IV Moekims]], [[IX Moekims|IX Moekims]], [[XXII Moekims|XXII Moekims]], [[XXV Moekims|XXV Moekims]], [[XXVI Moekims|XXVI Moekims]] and [[III Moekims|III Moekims]] — are the principal geographic units of Borel's narrative of the Atjeh-oorlog. Each sagi was a political federation of mukims, with its own heads (*toekoe* or *opperhoofd*) and its own line of fortified stellingen, and the conquest or submission of each sagi was, in Borel's account, a strategic objective of the campaign.
+
+## Composition and Political Structure
+
+The sagi was, in Borel's account, a federation of mukims — the basic Atjehnese territorial subdivisions, each centred on a *mesigit* (mosque). Each sagi was named by the number of mukims it contained: the VI Moekims (six mukims), the IV Moekims (four mukims), the IX Moekims (nine mukims), the XXII Moekims (twenty-two mukims), the XXV Moekims (twenty-five mukims), the XXVI Moekims (twenty-six mukims), the III Moekims (three mukims). Each sagi had its own heads — the *toekoe* or *opperhoofd* who exercised political and military authority over the federation. The sagi was, in effect, the Atjehnese equivalent of the European county or canton — a political federation of smaller territorial units, capable of collective military action. The sagi's of Groot-Atjeh were not subject to any central Atjehnese authority after the death of the [[Sultan of Atjeh (d. 1874)|Sultan]] in early February [[1874]] and the [[Annexation proclamation of Atjeh (1874)|annexation proclamation]]; each sagi conducted its own war against the Dutch, in concert or in parallel with its neighbours, and each had to be conquered or submitted separately.
+
+## The Sagi's of Groot-Atjeh
+
+The sagi's of Groot-Atjeh are the principal geographic units of Borel's narrative. The [[XXII Moekims]] — the densest-populated Sagi, containing the Sultan's voorraadschuren and the most hostile chiefs — was "de kern van Atjeh's weerstandsvermogen," the heart of Atjeh's capacity for resistance, and was never permanently occupied by the Dutch. The [[VI Moekims]] — led by [[Toekoe Nanta]], the "onzen ijverigen tegenstander" — was the single weak point of the [[Stelling-Pel|stelling-Pel]] between [[Oeleh Leh]] and [[Soerian]]; Toekoe Nanta had built versterkingen at [[Lampanti]], [[Lamti]] and [[Sabang]] along the lagune, dominating the [[Kwala Tjangkoel]] so that no vessel could pass without being under artillery fire. The [[IV Moekims]] lay between the [[Kroeng Raba]] and the VI Moekims; the [[IX Moekims]] lay to the east of the IV Moekims; the [[XXV Moekims]] was conquered by Pel's offensive of December 1875 – February 1876; the [[XXVI Moekims]] was the other main Sagi of Groot-Atjeh, predicted by Borel to submit once the XXII Moekims had been tamed; the [[III Moekims]] lay on the right bank of the [[Atjeh-rivier]], and was the target of Pel's last offensive of [[13 February]] [[1876]], interrupted by his death.
+
+## The Conquest of the Sagi's
+
+The conquest of the sagi's of Groot-Atjeh was, in Borel's account, the principal strategic objective of the Atjeh-oorlog. The [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|great offensive of December 1875 – February 1876]] under [[Generaal Pel|generaal Pel]] conquered the VI, IV and IX Moekims — the sagi's that flanked the stelling-Pel and that had to be reduced before the projected afsluitingslinie from the [[Kroeng Raba]] to the [[Kroeng Raya]] could be completed. The XXV Moekims was placed "in our power" by the same offensive. The III Moekims was the target of Pel's last offensive of [[13 February]] [[1876]], interrupted by his [[Death of Generaal Pel (24 February 1876)|sudden death]] on [[24 February]] [[1876]]. The XXII Moekims — never permanently occupied — was the target of Borel's recommended repeated *tuchtigingen* by the proposed [[Indische Brigade (proposed)|Indische Brigade]]. The [[Enemy breakthrough in the IV, VI and IX Moekims (June 1878)|enemy breakthrough of June 1878]] took place in the IV, VI and IX Moekims — the sagi's that had been conquered by Pel and that the enemy re-entered during [[Karel van der Heijden|van der Heijden]]'s absence at [[Gedoeng]]. The conquest or submission of each sagi was, in Borel's account, a strategic objective that could only be achieved by the *aanvallende tactiek* — the mobile colonnes and the steel achterlaadkanonnen that the proposed Indische Brigade would supply.
+
+## See Also
+
+- [[Mukim]]
+- [[VI Moekims]]
+- [[IV Moekims]]
+- [[IX Moekims]]
+- [[XXII Moekims]]
+- [[XXV Moekims]]
+- [[XXVI Moekims]]
+- [[III Moekims]]
+- [[Generaal Pel]]
+- [[Toekoe Nanta]]
+- [[Toekoe Bait]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Enemy breakthrough in the IV, VI and IX Moekims (June 1878)]]
+- [[Indische Brigade (proposed)]]
+- [[1875]]
+- [[1876]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 57, 62, 65, 93, 103, 131, 176, 200, 228, 246, 263, 287–289, 298, 314, 316, 323–325, 354.

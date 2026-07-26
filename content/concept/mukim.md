@@ -129,3 +129,38 @@ The [[Mukim|mukim]] is, in the [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] anal
 In the Boven-Wojla, the *Kawaj XII* federation — *Pameuë, [[Geumpang]], [[Tangsé]], Anoë en Ara* — was the country of [[Potjoet Barin]] and the [[2e Divisie Marechaussee|2e Divisie]]; *aan de namen merkt ge dat het hier gaat om het hart van het centrale bergland*. The *VII Moekims Baët* appear in the *djahat* list: *de djahat uit kampong L. Ara Toenoeng (VII Moekims Baët)*.
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+The **[[Mukim|mukim]]** (Acehnese *moekim*) was the basic Atjehnese territorial subdivision — a mosque-centred parish, comprising a number of kampongs around a central *mesigit* (mosque), and forming the building-block of the larger [[Sagi|sagi]] (federation of mukims). The mukims of [[Groot-Atjeh]] are the geographic units of Borel's narrative: the [[VI Moekims|VI Moekims]], [[IV Moekims|IV Moekims]], [[IX Moekims|IX Moekims]], [[XXII Moekims|XXII Moekims]], [[XXV Moekims|XXV Moekims]], [[XXVI Moekims|XXVI Moekims]] and [[III Moekims|III Moekims]] are all federations of mukims, named by the number of mukims they contained.
+
+## The Mosque-Centred Parish
+
+The mukim was, in Borel's account, the basic Atjehnese territorial subdivision. Each mukim was centred on a *mesigit* (mosque) — the place of worship, the seat of the local religious authority, and the focal point of the community's social and political life. The mukim comprised a number of kampongs — typically a few to a dozen — whose inhabitants worshipped at the central mesigit and whose affairs were regulated by the local religious and secular heads. The mukim was, in effect, the Atjehnese equivalent of the European parish — a territorial unit defined by religious affiliation rather than by secular jurisdiction. The mesigit was often a stone building — like the [[Mesigit of Atjeh|Mesigit]] of the Kraton, the [[Longbatta-Mesigit|Longbatta-Mesigit]] or the [[Mandarsa Poeti|gebedenhuis at Mandarsa Poeti]] — and could serve, in time of war, as a strongpoint around which a benteng was constructed. The mukim's religious character — its association with the mosque and with the local religious authority — gave the Atjehnese resistance a religious dimension that the Dutch consistently underestimated.
+
+## The Sagi: Federation of Mukims
+
+The mukims of [[Groot-Atjeh]] were grouped into larger federations called [[Sagi|sagi's]] — each sagi comprising a number of mukims, named by the number: the [[VI Moekims|VI Moekims]] (six mukims), the [[IV Moekims|IV Moekims]] (four mukims), the [[IX Moekims|IX Moekims]] (nine mukims), the [[XXII Moekims|XXII Moekims]] (twenty-two mukims), the [[XXV Moekims|XXV Moekims]] (twenty-five mukims), the [[XXVI Moekims|XXVI Moekims]] (twenty-six mukims), the [[III Moekims|III Moekims]] (three mukims). Each sagi was a political federation of mukims, with its own heads (the *toekoe* or *opperhoofd*) and its own collective military capability. The sagi was, in effect, the Atjehnese equivalent of the European county or canton — a political federation of smaller territorial units. The sagi's of Groot-Atjeh were the principal opponents of the Dutch in the Atjeh-oorlog: the XXII Moekims was "de kern van Atjeh's weerstandsvermogen" — the densest-populated Sagi, containing the Sultan's voorraadschuren and the most hostile chiefs; the VI Moekims was led by [[Toekoe Nanta]], the "onzen ijverigen tegenstander," whose gebied was the single weak point of the [[Stelling-Pel|stelling-Pel]] between [[Oeleh Leh]] and [[Soerian]].
+
+## The Mukims in the War
+
+The mukims and sagi's of Groot-Atjeh are the geographic units of Borel's narrative. The [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|great offensive of December 1875 – February 1876]] under [[Generaal Pel|generaal Pel]] was directed against the VI, IV and IX Moekims — the sagi's that flanked the stelling-Pel and that had to be conquered before the projected afsluitingslinie from the [[Kroeng Raba]] to the [[Kroeng Raya]] could be completed. The [[Enemy breakthrough in the IV, VI and IX Moekims (June 1878)|enemy breakthrough of June 1878]] took place in the IV, VI and IX Moekims — the sagi's that had been conquered by Pel and that the enemy re-entered during [[Karel van der Heijden|van der Heijden]]'s absence at [[Gedoeng]]. The XXII Moekims — never permanently occupied — was the target of Borel's recommended repeated *tuchtigingen* by the proposed [[Indische Brigade (proposed)|Indische Brigade]]. The XXVI Moekims — the other main Sagi of Groot-Atjeh — Borel predicted would submit without needing force, once the XXII Moekims had been tamed. The mukim and the sagi were thus the territorial units through which the Atjeh-oorlog was fought, and the conquest or submission of each sagi was, in Borel's account, a strategic objective of the campaign.
+
+## See Also
+
+- [[Sagi]]
+- [[Mesigit of Atjeh]]
+- [[Longbatta-Mesigit]]
+- [[Mandarsa Poeti]]
+- [[VI Moekims]]
+- [[IV Moekims]]
+- [[IX Moekims]]
+- [[XXII Moekims]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Toekoe Nanta]]
+- [[1875]]
+- [[1876]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 24, 57, 62, 65, 93, 103, 131, 176, 200, 228, 246, 263, 287–289, 323–325, 354.

@@ -79,3 +79,35 @@ The VI Moekims' significance in the documentary record of the [[Aceh War|Atjeh-o
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 4, 7 (Toekoe Oemar — Zijn Verraad; De Poeassa — Atjehers en Kafirs).
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 138, 141, 142, 145, 148, 165, 175, 176, 179, 181, 213, 232–242, 344, 348.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+The **VI Moekims** (Zes Moekims, "Six Mukims") was the *sagi* (confederation) of six *mukim* (parish) units adjacent to [[Marassa]] on the west coast of [[Groot-Atjeh]], led by the hostile chief [[Toekoe Nanta]]. The VI Moekims was the weak point of the [[Stelling-Pel|stelling-Pel]] between [[Oeleh Leh]] and [[Soerian]], and the principal target of [[Generaal Pel|Pel]]'s great [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|winter offensive of 1875–1876]], which conquered the sagi in January [[1876]]. Some re-population had occurred by [[1878]].
+
+## Toekoe Nanta and the war
+
+The VI Moekims under [[Toekoe Nanta]] was from the outset of the war hostile both to the Dutch and to [[Toekoe Nek]] of [[Marassa]], the only early pro-Dutch chief. Its geographical position — between the seaward corner at [[Oeleh Leh]] and the western arc of the Dutch perimeter at [[Soerian]] — made it the natural line of advance for any Atjehnees attack on the K. Radja–Oeleh Leh communication, and the natural weak point of any Dutch defensive line. Toekoe Nanta had built fortified places along the lagune of Gigieng — Lampanti, Lamti, Sabang — whose artillery commanded the [[Kwala Tjangkoel]] waterway into the lagune. The reduction of these fortified places was a precondition of any closure of the Gigieng lagune supply channel. Pel's [[Pel's Buitenzorg planning session (1875)|Buitenzorg plan]] of July [[1875]] therefore included the invasion of the VI Moekims and the sweeping of the western bank of the [[Kwala Tjangkoel]] as the first operation of the resumed offensive.
+
+## The January 1876 conquest
+
+The conquest of the VI Moekims began on [[26 December]] [[1875]] with the launch of [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|Pel's three-colonne offensive]] under his personal leiding. [[Majoor Vetter|majoor Vetter]] bezette Mibouw ten zuiden van [[Kota Radja|K. Radja]]; [[Majoor F. J. E. Mekern|majoor F. J. E. Mekern]] took stelling between Mibouw and the [[Kroeng Daroe]] but was *doodelijk gewond*; [[Luitenant-kolonel Engel|lt.-kol. Engel]] advanced along the right bank of the Kroeng Daroe. [[Ketapang Doewa]] fell on [[27 December]] [[1875]], [[Djempit]] and Pakan Badak on [[28 December]] [[1875]], [[Lamtengah]] on [[8 January]] [[1876]]. The VI Moekims kern was attacked. On [[10 January]] [[1876]] the *opperhoofd* of [[Lampagger]] submitted and a post was opgericht. The march through the [[Blang Kalla]] kloof on [[15 January]] [[1876]] reached Loenga on the right bank of the [[Kroeng Raba]] mouth, opening the [[IV Moekims]] for invasion. The VI Moekims was conquered, and the way was prepared for the [[IX Moekims|IX Moekims invasion]] of [[28 January]] [[1876]] through the [[Glitaroem]] pass.
+
+## See Also
+
+- [[Toekoe Nanta]]
+- [[Marassa]]
+- [[IV Moekims]]
+- [[IX Moekims]]
+- [[Soerian]]
+- [[Sinangri]]
+- [[Kwala Tjangkoel]]
+- [[Sagi]]
+- [[Mukim]]
+- [[Generaal Pel]]
+- [[Pel's Buitenzorg planning session (1875)]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Stelling-Pel]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 57, 65, 93, 103, 176, 200, 228, 245–246, 263, 323–329, 336–337, 350.

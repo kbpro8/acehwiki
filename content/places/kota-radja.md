@@ -74,3 +74,32 @@ Kota Radja’s status as the sultanate’s capital makes it a focal point for st
 *De geschiedenis van het Nederlandsche Korps Mariniers van [[1665]]–[[1945]]*, OCR transcription, page 484. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 26, 224, 318, 321, 325, 332, 339.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+**Kota Radja** ("King's Fort") was the Dutch name given to the captured [[Kraton of Atjeh|Kraton]] after the [[Fall of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[1874]], and remained the principal Dutch *hoofdplaats* (headquarters) and *centraal reduit* of the [[Stelling-Pel|stelling-Pel]] throughout Borel's account. After [[Death of the Sultan of Atjeh and annexation proclamation (1874)|the sultan's death and the annexation proclamation]] in early [[1874]], it became the seat of the Dutch military and civil government of Atjeh. Modern Banda Aceh occupies the site.
+
+## The Dutch headquarters
+
+Borel describes Kota Radja as a triangle whose base was the sea-strand between [[Oeleh Leh]] and [[Moesapi]] and whose apex pointed inland toward [[Longbatta-Mesigit]]. The old Kraton enclosure held the barracks, hospitals, magazines and officiers-woningen of the garrison; the [[Kroeng Daroe]] ran through its interior, splitting it into two halves. After [[Jan van Swieten|van Swieten]]'s [[Departure of Jan van Swieten from Atjeh (April 1874)|departure in April 1874]] the place was entrusted to [[Generaal Pel|kolonel Pel]] and the [[Bezettingskorps in Atjeh|bezettingskorps]] at the head of what Borel calls "eene zeer gebrekkige stelling." Van Swieten had publicly predicted in his [[Van Swieten's afscheidsrede (1874)|afscheidsrede]] that Kota Radja would become "eene aangename gezellige garnizoensplaats"; within days it was under nightly alarm.
+
+## The unhealthiest spot in Atjeh
+
+Borel repeatedly calls Kota Radja the unhealthiest spot on the Atjeh coast — a *groot zickeninrichting* — where malaria, cholera, and the [[Bandjir flood of Kota Radja (December 1874)|December 1874 bandjir]] produced "ontzettend" mortality. The [[Crisis at Kota Radja (May–June 1874)|May–June 1874 crisis]] brought the garrison so low that Borel believes 500 resolute Atjehneezen could have taken the place; in the [[Cholera catastrophe at Kota Radja (February 1875)|February 1875 cholera catastrophe]] nearly 500 died in the ambulances alone, averaging 15–18 per day. The constant passage through the interior of "ominous little wagons" carrying the dead to the [[Kota Podjoet|military cemetery]] was, Borel insists, injurious beyond measure to the morale of the living. The decision to move the ambulances to [[Pantej Perak]] on the right bank in early [[1875]] was forced by the death-rate.
+
+## See Also
+
+- [[Kraton of Atjeh]]
+- [[Kroeng Daroe]]
+- [[Atjeh-rivier]]
+- [[Bezettingskorps in Atjeh]]
+- [[Crisis at Kota Radja (May–June 1874)]]
+- [[Bandjir flood of Kota Radja (December 1874)]]
+- [[Cholera catastrophe at Kota Radja (February 1875)]]
+- [[Stelling-Pel]]
+- [[Generaal Pel]]
+- [[Jan van Swieten]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 89–95, 116–128, 144–148, 166, 179, 203, 219–223, 225, 254–256, 264–273.

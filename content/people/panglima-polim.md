@@ -89,3 +89,38 @@ In [[January 1891|January]] [[1891]] Tengkoe di Tirou and Panglima Polim died su
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 59, 82, 138, 143.
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI, Chapter X, Chapter XI. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 28, 56, 58.
+
+## Account from *Onze vestiging in Atjeh* (Borel, 1878)
+
+**Panglima Polim** was one of the principal hostile Atjehneesche leaders of the [[Atjeh (Borel account)|Atjeh-oorlog]], residing at [[Longbatta]] — the kampong that was the meeting point of the [[XXII Moekims]] and [[XXVI Moekims]] and the key to the enemy's line of investment around [[Kota Radja]]. He shared the residence with the [[Imam of Longbatta]] and other hostile chiefs, and his name is, in [[G. F. W. Borel|Borel]]'s narrative, attached to the most stubborn centre of Atjehneesche resistance in the *stelling-Pel* period.
+
+## Longbatta as a Centre of Resistance
+
+Longbatta was a *zeer belangrijke kampong*, long the residence of Panglima Polim, the Imam of Longbatta, and other hostile chiefs. It had been briefly in Dutch hands on [[24 January]] [[1874]] — when [[Generaal Verspijck|Verspijck]]'s *omtrekkende beweging* had taken the Kraton — and was then immediately abandoned. By December [[1874]] it had become the key to the enemy's line of investment around Kota Radja. Pel's plan for [[31 December]] [[1874]] was a converging movement against Longbatta: the left column under [[Majoor van der Meer|van der Meer]] (10th battalion) to march from [[Pakan Atjeh]] along the left bank directly on Longbatta; the right column under [[Majoor Romswinckel|Romswinckel]]'s 5th battalion (under [[Kolonel Wiegand|overste Wiegand]]'s overall command) to make a feint attack east of Kota Radja. The fortified [[Longbatta-Mesigit|Mesigit]] (stone mosque) was taken without a shot on the morning of [[31 December]] [[1874]], and Longbatta was entered.
+
+## The Longbatta Disaster and Its Aftermath
+
+The same afternoon, however, the [[Battle of Longbatta (31 December 1874)|disastrous retreat of the colonne-van der Meer]] turned the victory into a reverse. Van der Meer misinterpreted Pel's orders, abandoned the captured Mesigit *benteng* without leaving a garrison, and marched his whole force over the open, marshy *sawah*. The Atjehneezen, who had streamed back in, occupied the abandoned *benteng* and cut off the column's retreat. Only [[Majoor van Zijll de Jong|van Zijll de Jong]]'s heroic counter-attack with some sixty infantry and a four-gun battery saved the *colonne-van der Meer* from annihilation. The Longbatta-Mesigit remained in Dutch hands, and a post was *opgericht*. From the Mesigit, Pel's *linie* was gradually extended: [[Blang Tjoet]] was conquered on [[18 January]] [[1875]], the *surprise of Lamara Olejlo* ([[14 February|14]]–[[15 February]] [[1875]]) was carried out by [[Kapitein von Ende|kapitein von Ende]] from nearby [[Mandarsa Poeti]], and the [[Night attack on Longbatta-Mesigit (22 November 1875)|night attack on the Mesigit]] of [[22 November]] [[1875]] was repulsed. The post became the *tophoek* (apex) of the *stelling-Pel*, six thousand metres into enemy territory.
+
+## Significance
+
+Panglima Polim's residence at Longbatta fixed it as the apex of the *stelling-Pel* and the eastern pivot of the Dutch line. The repeated Dutch efforts to take and hold Longbatta — the [[Battle of Longbatta (31 December 1874)|disaster of 31 December 1874]], the [[Night attack on Longbatta-Mesigit (22 November 1875)|night attack of 22 November 1875]], the [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|great offensive of December 1875 – February 1876]] — were, in Borel's reading, the consequence of van Swieten's original abandonment of the kampong in January [[1874]]. Polim and the Imam of Longbatta are, in Borel's narrative, the symbols of the resistance that the *afwachtende houding* had allowed to harden.
+
+## See Also
+
+- [[Longbatta]]
+- [[Longbatta-Mesigit]]
+- [[Battle of Longbatta (31 December 1874)]]
+- [[Night attack on Longbatta-Mesigit (22 November 1875)]]
+- [[Imam of Longbatta]]
+- [[XXII Moekims]]
+- [[XXVI Moekims]]
+- [[Generaal Pel]]
+- [[Jan van Swieten]]
+- [[Majoor van der Meer]]
+- [[Majoor van Zijll de Jong]]
+- [[1874]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. p. 228.

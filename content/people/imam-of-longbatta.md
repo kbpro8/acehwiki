@@ -242,3 +242,37 @@ The Imeum of Lueng Bata also appears among those *uleebalangs* in the Sultan's t
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, [[1906]].
 
 D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), p. 28. Koninklijke Bibliotheek shelfmark 0301 4872. The biography identifies the imam as "een van de voornaamste verzetslieden" on the authority of [[J. L. J. H. Pel|Kolonel Pel]]'s note of [[30 April]] [[30 April]] [[1875]], and records the [[Missigit Longbatta operation (31 December 1874 – 13 January 1875)|Missigit Longbatta operations]] of [[31 December]] [[31 December]] [[1874]]–[[January 1875|January]] [[1875]] against his kampong.
+
+## Account from *Onze vestiging in Atjeh* (Borel, 1878)
+
+The **Imam of Longbatta** was the religious leader (*imam*) of [[Longbatta]] and, alongside [[Panglima Polim]], one of the principal hostile Atjehneesche chiefs of the [[Atjeh (Borel account)|Atjeh-oorlog]]. His residence at Longbatta made the kampong the religious as well as the military centre of the resistance around [[Kota Radja]], and his name is, in [[G. F. W. Borel|Borel]]'s narrative, paired with Polim's as the symbol of the most stubborn centre of Atjehneesche defiance.
+
+## Longbatta as Religious and Military Centre
+
+Longbatta was a *zeer belangrijke kampong*, long the residence of Panglima Polim, the Imam of Longbatta, and other hostile chiefs. The presence of the *imam* gave the resistance at Longbatta a religious as well as a military character: the [[Longbatta-Mesigit|Mesigit]] (stone mosque) of Longbatta was both a fortification and a place of worship, and the *imam*'s authority reinforced the *hoofd*'s. The combination of military and religious leadership at Longbatta helps explain the tenacity of the resistance there: the kampong was the meeting point of the [[XXII Moekims]] and [[XXVI Moekims]] — the two most hostile *sagi* of [[Groot-Atjeh]] — and its Mesigit became, after its capture on the morning of [[31 December]] [[1874]], the *tophoek* (apex) of the *stelling-Pel*, six thousand metres into enemy territory.
+
+## The Longbatta Operations and the Imam's Resistance
+
+The [[Battle of Longbatta (31 December 1874)|battle of Longbatta]] of [[31 December]] [[1874]] — Pel's converging movement against the kampong — was undertaken precisely because Longbatta had become, under Polim and the Imam, "the key to the enemy's line of investment around K. Radja." The fortified Mesigit was taken without a shot on the morning of the 31st, when the enemy streamed east to face Romswinckel's feint; but the same afternoon [[Majoor van der Meer|van der Meer]]'s disaster on the *sawah* turned the victory into a reverse. The Mesigit remained in Dutch hands, and a post was *opgericht*. The [[Night attack on Longbatta-Mesigit (22 November 1875)|night attack on the Mesigit]] of [[22 November]] [[1875]] — when a band of some fifty Atjehneezen climbed over the low *borstwering* and "met de blanke klewang" hacked among the sleeping *manschappen* — was, in Borel's reading, the measure of the religious-military resistance the Imam embodied. The Dutch losses were thirteen *zwaar gewonden* including two *officieren*; Borel stresses that the attack could have been disastrous if done with more force and from multiple sides — at night, in man-to-man struggle, the Atjehneesche *klewang* is "een vreeslijk wapen."
+
+## Significance
+
+The Imam of Longbatta is, in Borel's narrative, the embodiment of the religious *fanatisme* that the Dutch had underestimated in [[1873]]–[[1874]]. The combination of *imam* and *hoofd* at Longbatta gave the resistance a cohesion that no purely military chief could have supplied, and the capture of the Mesigit on [[31 December]] [[1874]] was, in Borel's reading, the precondition of every subsequent Dutch advance to the south and east. The Imam's name is paired with Polim's as the symbol of the resistance that the *afwachtende houding* of [[Jan van Swieten|van Swieten]] had allowed to harden.
+
+## See Also
+
+- [[Longbatta]]
+- [[Longbatta-Mesigit]]
+- [[Panglima Polim]]
+- [[Battle of Longbatta (31 December 1874)]]
+- [[Night attack on Longbatta-Mesigit (22 November 1875)]]
+- [[XXII Moekims]]
+- [[XXVI Moekims]]
+- [[Mesigit of Atjeh]]
+- [[Klewang]]
+- [[Generaal Pel]]
+- [[1874]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. p. 228.

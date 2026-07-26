@@ -65,3 +65,36 @@ The IV Moekims' significance in the documentary record of the [[Aceh War|Atjeh-o
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], p. 13 (De Inwendige Toestand — Kolonisten — Banda Atjeh — De Sultan — Imams en Oeloebalangs).
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 30, 59, 145, 148, 165, 179, 181, 213, 232–242, 348.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+The **IV Moekims** (Vier Moekims, "Four Mukims") was the *sagi* (confederation) of four *mukim* (parish) units between the [[Kroeng Raba]] and the [[VI Moekims]] on the west coast of [[Groot-Atjeh]]. It was conquered by [[Generaal Pel|Pel]]'s colonne in January [[1876]] in the second phase of the [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|great winter offensive]], the colonne marching from [[Lampagger]] through the [[Blang Kalla]] kloof to Loenga on the right bank of the Kroeng Raba mouth. In June [[1878]] the IV Moekims was invaded by the enemy during the [[Enemy breakthrough in the IV, VI and IX Moekims (June 1878)|enemy breakthrough of June 1878]].
+
+## The January 1876 conquest
+
+The conquest of the IV Moekims was the second phase of Pel's offensive, after the [[VI Moekims|VI Moekims]] invasion that had begun on [[26 December]] [[1875]] and had carried the Dutch through [[Ketapang Doewa]] ([[27 December]] [[1875]]), [[Djempit]] and Pakan Badak ([[28 December]] [[1875]]), and [[Lamtengah]] ([[8 January]] [[1876]]). On [[10 January]] [[1876]] the *opperhoofd* of [[Lampagger]] submitted and a Dutch post was opgericht. From Lampagger a colonne marched on [[15 January]] [[1876]] through the [[Blang Kalla|kloof of Blang Kalla]] southward over *bergachtig terrein* (mountainous terrain) into the IV Moekims, reaching Loenga on the right bank of the [[Kroeng Raba]] mouth, which would become the *westelijke grens* (western limit) of the new afsluitingslinie. The hoofden there submitted. The colonne returned via the *noordoostelijke weg*, left a post at Boekit Seboen on [[24 January]] [[1876]], and reached Pakan Badak; it then made a *tocht* through the eastern part of the IV Moekims. With the IV Moekims conquered, the way was opened for the [[IX Moekims|IX Moekims invasion]] of [[28 January]] [[1876]] through the [[Glitaroem]] pass.
+
+## The June 1878 invasion
+
+Barely had [[Karel van der Heijden|kolonel van der Heijden]], by then *gouverneur van Atjeh*, left with most of his mobile strijdmacht to *tuchtigen* [[Gedoeng]] in June [[1878]], when the enemy attacked the Dutch linie, broke through at several places, fell into the IV, [[VI Moekims|VI]] and [[IX Moekims|IX Moekims]], verjoeg the pro-Dutch *bevolking*, plundered and burned, sneed the *gemeenschap* between [[Kota Radja|K. Radja]] and several posts, and caused schrik and verwarring — the [[Enemy breakthrough in the IV, VI and IX Moekims (June 1878)|enemy breakthrough of June 1878]]. Van der Heijden had to rush back in *aller ijl* and with geweld restore communication with the posts in the IV Moekims. New battalions were sent from Java. The Dutch eventually drove the enemy out everywhere and even made a successful *inval* (inroad) into the [[XXII Moekims]] to punish them — but the *verloopen* (flight) of the friendly *bevolking* could not be undone: they had lost vertrouwen in Dutch protection. Borel's lesson is that posts alone cannot prevent a linie-doorbraak; mobile forces must never be reduced.
+
+## See Also
+
+- [[VI Moekims]]
+- [[IX Moekims]]
+- [[Kroeng Raba]]
+- [[Blang Kalla]]
+- [[Lampagger]]
+- [[Glitaroem]]
+- [[Gedoeng]]
+- [[Karel van der Heijden]]
+- [[Sagi]]
+- [[Mukim]]
+- [[Generaal Pel]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Enemy breakthrough in the IV, VI and IX Moekims (June 1878)]]
+- [[Stelling-Pel]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 323–329, 336–337, 350–355.

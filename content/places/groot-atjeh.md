@@ -210,3 +210,30 @@ Under [[Pruijs van der Hoeven|Pruijs van der Hoeven]] ([[1881]]–[[1882]]) and 
 [[H.C. Zentgraff|Zentgraff]] identifies Groot-Atjeh with the *geconcentreerde linie* period that preceded Van Heutsz's offensive. The *geconcentreerde linie* was bounded by the *bentengs* of Tjot Mantiang, Biloel, and Bivak Glé Nanggroë. In this period [[Teukoe Oemar]] drew Dutch pay and Dutch weapons as a *bondgenoot*, and the [[Tengkoe Sjech Saman di Tiro|Tiro-oelama's]] wrote their letters summoning the governor to embrace Islam; [[Tengkoe Koetakarang]]'s *Tadkirat arrakidin* — the *Vermaning der stilzittenden* — sneered at the *éénoogige generaal* [[Van der Heyden]]. The [[Fall of Aneukgalong (1896)|overval of Aneukgalong]] on [[28 March]] [[1896]] — at half past midnight from Lambaroe with 110 dead including *Tgk. Mat Amin* — was the break from the *geconcentreerde linie*. [[Habib Teupin Wan]] *hoorde eigenlijk thuis in de VII Moekims Ateuë, Groot-Atjeh, doch toen de Kompeuni daar het groote werk volbracht trok hij zich terug* into the mountains of Tangsé. Groot-Atjeh, the core of the old Sultanate, was the first major zone of effective Dutch pacification.
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+**Groot-Atjeh** (Greater Aceh) is Borel's term for the densely populated heartland of the sultanate around the [[Kraton of Atjeh|Kraton]], as distinct from the vassal coastal states — Pedir, Samalangan, [[Pasangan]], [[Gedoeng]], Analaboe, Simpang Olim, Edi — that lined the Atjeh coast but lay outside the immediate theatre of operations. The *Beknopte beschrijving van den Kraton van Groot Atjeh* published by the Departement van Koloniën before the [[Second Aceh Expedition (1873–1874)|second expedition]] gave the Dutch their official map of the region, though Borel finds its descriptions of the Kraton and its defences seriously inaccurate. The [[Kaart van Groot-Atjeh (Borel)|Kaart van Groot-Atjeh]] folded into Borel's own book is offered as a corrective.
+
+## Composition
+
+Groot-Atjeh in Borel's usage comprises the lower basin of the [[Atjeh-rivier]], from the sea at [[Kwala Atjeh]] and [[Oeleh Leh]] inland to the [[Kraton of Atjeh|Kraton]] and beyond, embracing the *sagi* confederations of the [[XXII Moekims]] and [[XXVI Moekims]] immediately behind the Kraton, the [[VI Moekims]], [[IV Moekims]], [[IX Moekims]], [[III Moekims]] and [[XXV Moekims]] around the perimeter, and the kampong belt of [[Lemboe]], [[Lampoe Oek]], [[Longbatta]], [[Pendetti]], [[Bital]] and [[Ketapang Doewa]]. The [[Pedir-dijk]] along the right bank of the Atjeh-rivier formed its natural defensive line on the west, while the marshes and sawahs of the III Moekims marked its eastern marches. [[Marassa]] on the coast south-east of the Kraton, under [[Toekoe Nek]], was the only part of Groot-Atjeh to declare early for the Dutch.
+
+## The theatre of war
+
+The whole of Borel's narrative unfolds within Groot-Atjeh: the [[Landing at Pedro-punt (6 December 1873)|landing at Pedro-punt]] on its north coast, the [[Storming of the Mesigit (6 January 1874)|storming of the Mesigit]] and the fall of the Kraton, [[Karel van der Heijden|van der Heijden]]'s [[Enemy breakthrough in the IV, VI and IX Moekims (June 1878)|June 1878 breakthrough crisis]] in the IV, VI and IX Moekims, and [[Generaal Pel|Pel]]'s great [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|December 1875 – February 1876 offensive]] that briefly conquered the XXV Moekims and reached the Kroeng Tjoet. Borel insists that the war could not be ended without carrying operations into the [[XXII Moekims]] — "de kern van Atjeh's weerstandsvermogen" — which was never permanently occupied during his account.
+
+## See Also
+
+- [[Atjeh (Borel account)]]
+- [[Kraton of Atjeh]]
+- [[Kota Radja]]
+- [[Pedir-dijk]]
+- [[Stelling-Pel]]
+- [[Kaart van Groot-Atjeh (Borel)]]
+- [[Beknopte beschrijving van den Kraton van Groot Atjeh]]
+- [[XXII Moekims]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 12, 65, 95, 179, 264–273, 336–350.

@@ -64,3 +64,40 @@ After the conquest of the [[VI Moekims|VI Moekims]] by General [[J. L. J. H. Pel
 ## Source
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 27, 73.
+
+## Account from *Onze vestiging in Atjeh* (Borel, 1878)
+
+**Toekoe Nanta** was the *hoofd* (chief) of the [[VI Moekims]] — the confederation of six *mukims* adjacent to [[Marassa]] — and, in [[G. F. W. Borel|Borel]]'s phrase, "onzen ijverigen tegenstander" (our zealous opponent), the most determined and resourceful of the hostile Atjehneesche chiefs of the *stelling-Pel* period. He built the fortified places at [[Lampanti]], [[Lamti]] and Sabang along the lagune of the [[Kwala Tjangkoel]], dominated the waterway so that no vessel could pass without being under his artillery fire, and held out against the Dutch until Pel's [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|great offensive of December 1875 – January 1876]] finally drove him from his forts.
+
+## The Forts at Lampanti, Lamti and Sabang
+
+The *gebied* of the VI Moekims lay between [[Oeleh Leh]] and [[Soerian]] — the single weak point of the *stelling-Pel*, where the line of Dutch posts came closest to the sea but could not close it. Toekoe Nanta exploited the *lagune* of the Kwala Tjangkoel, which gave access from the sea to the interior, by building *versterkingen* at Lampanti, Lamti and Sabang along its banks. These works, armed with artillery, dominated the waterway so that no Dutch vessel could pass without coming under fire. The Dutch forward line at [[Soerian]] — established by the [[Battle of Soerian (26 July 1874)|battle of Soerian]] of [[26 July]] [[1874]] — was intended, in Borel's account, to threaten his *gebied* and bring his forts under observation. The [[Battle of Soerian (26 July 1874)|battle of Soerian]] itself had as one of its stated aims "to threaten flank and rear of Toekoe Nanta of VI Moekims."
+
+## Reduction and Expulsion
+
+The Dutch could not close the Kwala Tjangkoel as long as Toekoe Nanta held his forts. The conquest of his *gebied* was therefore one of the principal objects of Pel's [[Pel's Buitenzorg planning session (1875)|Buitenzorg plan]] of July [[1875]]: to invade the VI Moekims, occupy [[Sinangri]] (which was done without opposition in July [[1875]]), and sweep the western bank of the Kwala Tjangkoel. The plan was executed in the great offensive of December [[1875]] – January [[1876]]. On [[26 December]] [[1875]] the *drie-colonne* movement was launched; by [[28 December]] [[1875]] Toekoe Nanta's *geduchte versterkingen* west of Sinangri had been *ontruimd*. The conquest of [[Lamtengah]] on [[8 January]] [[1876]] carried the VI Moekims themselves. By mid-January [[1876]] the entire [[XXV Moekims]] was in Dutch hands, and the *demarcatie-linie* ran from the mouth of the [[Kroeng Raba]] on the west coast to Atoch, then northward to [[Pager Ajer]] on the left bank of the [[Atjeh-rivier|Atjeh-rivier]].
+
+## Significance
+
+Toekoe Nanta is, in Borel's narrative, the prototype of the resolute Atjehneesche *hoofd* — a chief who combined personal authority with engineering skill and a clear strategic sense of the *stelling*'s weak point. His forts at Lampanti, Lamti and Sabang had made the *stelling-Pel* incomplete and had allowed the contraband trade through the Kwala Tjangkoel to continue for almost two years. Their reduction was, in Borel's reading, the precondition of the *afsluitingslinie* Kroeng Raba–Kroeng Raya that Pel had projected.
+
+## See Also
+
+- [[VI Moekims]]
+- [[Marassa]]
+- [[Kwala Tjangkoel]]
+- [[Lampanti]]
+- [[Lamti]]
+- [[Sabang]]
+- [[Soerian]]
+- [[Sinangri]]
+- [[Generaal Pel]]
+- [[Toekoe Nek]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[1874]]
+- [[1875]]
+- [[1876]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. pp. 125, 176, 288, 298, 304, 314, 323.

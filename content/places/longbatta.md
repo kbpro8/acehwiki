@@ -56,3 +56,33 @@ Longbatta also enters the Snijders biography as the principal landmark that the 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 21, 24, 30-37.
 
 Cornelis Jacobus Snijders ([[1852]]–[[1939]]): *Een leven in dienst van zijn Land en zijn Volk*, by D. van den Berg (Voorburg: September [[1944]]), pp. 10–35. Koninklijke Bibliotheek shelfmark 0301 4872.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+**Longbatta** was a very important Atjehnees kampong east of the [[Kraton of Atjeh|Kraton]] and upstream on the [[Atjeh-rivier]], long the residence of the hostile chiefs [[Panglima Polim]] and the [[Imam of Longbatta]], and the meeting point of the [[XXII Moekims]] and [[XXVI Moekims]]. It was briefly in Dutch hands on [[24 January]] [[1874]] and immediately abandoned, briefly held again on [[31 December]] [[1874]] in the [[Battle of Longbatta (31 December 1874)|disastrous operation of 31 December 1874]], and finally incorporated into the [[Stelling-Pel|stelling-Pel]] as the eastern anchor of the southern arc.
+
+## The residence of the hostile chiefs
+
+Longbatta's importance in Borel's account flows from its residential and strategic position. As the long-time residence of [[Panglima Polim]] and the [[Imam of Longbatta]] — two of the principal hostile chiefs of the war — it functioned as a political and religious centre of the resistance east of the Kraton. As the meeting point of the [[XXII Moekims]] and [[XXVI Moekims]] it commanded the lines of communication between the two main *sagi* of inner [[Groot-Atjeh]]. Its fortified stone mosque, the [[Longbatta-Mesigit]], could be held against any assault and formed the apex of any defensive line the Atjehneezen chose to draw east of the Kraton. [[Jan van Swieten|Van Swieten]]'s abandonment of Longbatta after the [[Fall of the Kraton (24 January 1874)|fall of the Kraton]] is one of Borel's recurring indictments.
+
+## The 31 December 1874 operation
+
+[[Generaal Pel|Pel]]'s plan for [[31 December]] [[1874]] called for two converging columns: a left column (the 10de bataljon under [[Majoor van der Meer|majoor van der Meer]], with a four-gun battery and mineur detachment) to march from [[Pakan Atjeh]] along the left bank directly on Longbatta; a right column (the 5de bataljon under [[Majoor Romswinckel|majoor Romswinckel]], under overall command of [[Kolonel Wiegand|overste Wiegand]]) to make a feint attack east of K. Radja. The 5de bataljon attacked the bosch-rand east of K. Radja first; the 10de bataljon on the left bank met almost no resistance, because the enemy had streamed east to face Romswinckel. The strong stelling at [[Pendetti]] opposite [[Lemboe]] was abandoned; the left column reached [[Blang Tjoet]] and the [[Longbatta-Mesigit]], which was taken without a shot. But [[Majoor van der Meer|van der Meer]] misinterpreted an order from Pel, abandoned the captured Mesigit *benteng* without leaving a garrison, and marched his whole force over open, marshy *sawah* — where he was cut to pieces by the Atjehneezen. [[Majoor van Zijll de Jong|majoor van Zijll de Jong]]'s heroic recapture of the lost benteng saved the column from certain destruction; Borel calls him "the hero of the day."
+
+## See Also
+
+- [[Longbatta-Mesigit]]
+- [[Panglima Polim]]
+- [[Imam of Longbatta]]
+- [[XXII Moekims]]
+- [[XXVI Moekims]]
+- [[Blang Tjoet]]
+- [[Pendetti]]
+- [[Majoor van der Meer]]
+- [[Majoor van Zijll de Jong]]
+- [[Battle of Longbatta (31 December 1874)]]
+- [[Stelling-Pel]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 67, 95, 131, 137, 144, 200, 226–238, 248.

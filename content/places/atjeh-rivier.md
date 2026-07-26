@@ -46,3 +46,31 @@ For [[Acheh|Atjeh]]'s history, the Atjeh-rivier is the physical threshold of the
 ## Source
 
 *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter XI ("Atjehsche ambassade. Inlandsche feesten. Maagden als losprijs"), pp. 39–43 of the numbered-letter sequence.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+The **Atjeh-rivier** (Krueng Aceh, the Aceh River) is the river linking the sea at [[Kwala Atjeh]] and [[Oeleh Leh]] to the [[Kraton of Atjeh|Kraton]] upstream, and the principal Dutch communication line throughout the Atjeh-oorlog of [[1873]]–[[1878]]. Its mouth at Kwala Atjeh was *onbevaarbaar* (unnavigable) during the *kwaden moesson* (bad monsoon), forcing the Dutch to develop Oeleh Leh as an alternative landing, and the river itself became unsafe during the spring of [[1874]] as the Atjehneezen learned to fire on its traffic from the brush of the right bank.
+
+## The communication line
+
+From the moment of the [[Landing at Pedro-punt (6 December 1873)|landing at Pedro-punt]] in December [[1873]] the Atjeh-rivier was the lifeline of the Dutch expedition. Men, guns, vivres, munitie, and bouwmaterialen all moved up the river from the roadstead at Kwala Atjeh to the bivouak at [[Penajoeng]] and, after the [[Fall of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[1874]], to the Dutch headquarters at [[Kota Radja|K. Radja]]. The waterweg via the Soengei Aroesan was, in Borel's phrase, "geruimen tijd voor ons van onschatbare waarde." The river also defined the geography of the entire Dutch stelling: the right bank, with its [[Pedir-dijk]] from [[Lemboe]] to [[Kota Radja Bedil|K. R. Bedil]], was the natural defensive line of the Dutch perimeter; the left bank, with its kampong belt of [[Kampong Djawa]], [[Lampoeloe]], [[Lampoe Oek]], and [[Longbatta]], was the principal seat of the enemy's eastern line. The [[Kroeng Daroe]], a small river splitting the Kraton into two halves, joined the Atjeh-rivier at the Kraton's southern face.
+
+## The unsafe river
+
+The Atjeh-rivier became unsafe during the spring of [[1874]]. On [[15 June]] [[1874]] the Dutch *waterprauw* was fired on between the [[Marine-benteng|marine-benteng]] and Penajoeng by Atjehneezen concealed in the brush of the right bank; the sailors saved themselves only by rowing with all their might, and many bullets pierced the prauw. On [[21 May]] [[1874]] the Dutch learned that the enemy was working between Penajoeng and the Marine-benteng with the goal of "zich daar te verschansen en de vaart op de rivier onveilig te maken." The [[Battle of Garouw (28 June 1874)|battle of Garouw]] of [[28 June]] [[1874]] finally cleared the right bank below Penajoeng. With the [[Conquest of Langkroek (28 September 1874)|conquest of Langkroek]] of [[28 September]] [[1874]], the [[Conquest of Lemboe (7 November 1874)|conquest of Lemboe]] of [[7 November]] [[1874]], and the [[Conquest of Kota Alam (13 November 1874)|conquest of Kota Alam]] of [[13 November]] [[1874]], the entire right bank from the river-mouth up to the bend was secured, and the Atjeh-rivier became, in fair weather, a safe line of communication.
+
+## See Also
+
+- [[Kwala Atjeh]]
+- [[Oeleh Leh]]
+- [[Kroeng Daroe]]
+- [[Pedir-dijk]]
+- [[Marine-benteng]]
+- [[Penajoeng]]
+- [[Kampong Djawa]]
+- [[Strategische driehoek (Atjeh)]]
+- [[Kroeng]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 24, 30, 33, 42–44, 46, 49, 51, 56, 65, 86, 88, 91–95, 103, 112, 117, 119–122, 124–125, 131, 137, 141–142, 152, 162, 165, 200, 209–214, 262.

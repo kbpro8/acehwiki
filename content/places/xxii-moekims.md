@@ -60,3 +60,37 @@ The Sagi der XXII Moekims remained the principal centre of Achehnese resistance 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn*.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21–22, 72, 82, 122, 143, 148, 165, 185, 214, 292, 338.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+The **XXII Moekims** (Tweeëntwintig Moekims, "Twenty-Two Mukims") was the *sagi* (confederation) of twenty-two *mukim* (parish) units immediately behind the [[Kraton of Atjeh|Kraton]] and the principal seat of the Atjehnees resistance in [[Groot-Atjeh]]. Borel calls it the seat of "de kern van Atjeh's weerstandsvermogen" — the core of Atjeh's power of resistance — with the densest population, the sultan's *voorraadschuren* (storehouses), and the most hostile chiefs. It was never permanently occupied during Borel's account and was the principal target of his recommended *tuchtigingen* (chastisements) in [[1878]].
+
+## The core of the resistance
+
+The XXII Moekims lay immediately behind the Kraton, around the kampong belt of [[Longbatta]], [[Lampoe Oek]], [[Pendetti]] and [[Lampoe Idjoe]]. Its dense population, fortified kampongs and marshy *sawah* (irrigated rice fields) made it the natural centre of the Atjehnees war effort. The sultan's *voorraadschuren* — the storehouses of the resistance — were located within its territory; its chiefs, including [[Panglima Polim]] and [[Toekoe Bait]] of the neighbouring [[XXII Moekims|XXII Moekims]] chiefs, were among the most hostile of the war. The XXII Moekims was the meeting point, with the [[XXVI Moekims]], at [[Longbatta]] — the long-time residence of [[Panglima Polim]] and the [[Imam of Longbatta]]. As long as the XXII Moekims remained untamed, Borel insists, no Dutch *stelling* could be considered secure.
+
+## Operations against the XXII Moekims
+
+The XXII Moekims was the target of repeated Dutch incursions but was never permanently occupied. On [[3 February]] [[1876]] the Dutch made an *inval* (inroad) from Toeram — which bordered the gebied of [[Toekoe Bait]] — driving the enemy out of [[Atoeh]] after a *heeten strijd*. In mid-[[1878]] [[Karel van der Heijden|kolonel van der Heijden]], with a *sterke macht* (strong force), made an *inval* into the part of the XXII Moekims immediately adjacent to the Dutch vestiging — the first actual beginning of the offensive operations needed to end the war. The enemy suffered a *gevoelige nederlaag* (sensitive defeat) and was driven out of all his *versterkte stellingen*, but the Dutch losses within a few days were "zeer aanzienlijk" — very considerable — so the *tocht* had to be gestaakt and versterking from Java aangevraagd. Borel's argument in the closing chapters of the book is that the XXII Moekims must be the principal target of his proposed [[Indische Brigade (proposed)|Indische Brigade]]: only repeated *tuchtigingen* of the XXII Moekims, he insists, will finally end the war. He predicts that once the XXII Moekims is tamed, the [[XXVI Moekims]] will submit without needing force.
+
+## See Also
+
+- [[XXVI Moekims]]
+- [[Longbatta]]
+- [[Panglima Polim]]
+- [[Imam of Longbatta]]
+- [[Toekoe Bait]]
+- [[Atoeh]]
+- [[Lampoe Oek]]
+- [[Pendetti]]
+- [[Karel van der Heijden]]
+- [[Sagi]]
+- [[Mukim]]
+- [[Indische Brigade (proposed)]]
+- [[Een vaderlandsch belang (Borel, 1878)]]
+- [[Enemy breakthrough in the IV, VI and IX Moekims (June 1878)]]
+- [[Aanvallende tactiek in Atjeh]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 131, 228, 327–329, 336–337, 350–355.

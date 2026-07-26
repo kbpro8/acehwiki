@@ -84,3 +84,37 @@ The IX Moekims represented the borderline case of an Achehnese mukim whose *oele
 *Verslagen der Marine‑Vereeniging III 1889‑1890*, pp. 229‑233. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pages 138‑141.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21, 28, 72, 166, 183, 214, 219, 320, 337, 344.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+The **IX Moekims** (Negen Moekims, "Nine Mukims") was the *sagi* (confederation) of nine *mukim* (parish) units south of the [[IV Moekims]] in [[Groot-Atjeh]], invaded by [[Generaal Pel|Pel]]'s colonne on [[28 January]] [[1876]] through the [[Boekit Daroe]] and the [[Glitaroem]] pass, and fully conquered between [[31 January]] and [[7 February]] [[1876]] in the third phase of the [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|great winter offensive]]. Like the IV Moekims, the IX Moekims was invaded by the enemy in June [[1878]] during the [[Enemy breakthrough in the IV, VI and IX Moekims (June 1878)|enemy breakthrough of June 1878]].
+
+## The invasion of 28 January 1876
+
+The invasion of the IX Moekims began on [[28 January]] [[1876]], as the third phase of Pel's offensive after the [[VI Moekims|VI]] and [[IV Moekims|IV Moekims]] invasions. At [[Boekit Daroe]], about an hour south of [[Ketapang Doewa]], *vinnig gestreden* — sharp fighting — and the enemy suffered *gevoelig verlies* (sensitive loss). The [[Glitaroem|bergpas Glitaroem]], which gave access between the IV and IX Moekims, fell into Dutch hands. With the pass open, the troepen moved eastward, taking Lampermej and Oeleh Soesoe on [[31 January]] [[1876]]. At Oeleh Soesoe the enemy offered *hevigen tegenstand* but had to *zwichten*; several kampongs were burned. In the first days of February Lamkoenjit, Toeram and Beloel were also conquered. The IX Moekims was fully in Dutch hands. From Toeram, which bordered the gebied of [[Toekoe Bait]] of the [[XXII Moekims|XXII Moekims]], the Dutch made an *inval* (inroad) into that *sagi* on [[3 February]] [[1876]], driving the enemy out of [[Atoeh]] after a *heeten strijd*.
+
+## The June 1878 invasion
+
+Barely had [[Karel van der Heijden|kolonel van der Heijden]] left with most of his mobile strijdmacht to *tuchtigen* [[Gedoeng]] in June [[1878]], when the enemy attacked the Dutch linie, broke through at several places, fell into the [[IV Moekims|IV]], [[VI Moekims|VI]] and IX Moekims, verjoeg the pro-Dutch *bevolking*, plundered and burned, sneed the *gemeenschap* between [[Kota Radja|K. Radja]] and several posts, and caused schrik and verwarring. Van der Heijden had to rush back in *aller ijl* and with geweld restore communication with the posts in the IV Moekims; new battalions were sent from Java. The Dutch eventually drove the enemy out everywhere and even made a successful *inval* into the [[XXII Moekims]] to punish them — but the *verloopen* (flight) of the friendly *bevolking* could not be undone: they had lost vertrouwen in Dutch protection. Borel's lesson is that the posten-systeem alone cannot prevent a linie-doorbraak; mobile forces must never be reduced.
+
+## See Also
+
+- [[IV Moekims]]
+- [[VI Moekims]]
+- [[XXII Moekims]]
+- [[Boekit Daroe]]
+- [[Glitaroem]]
+- [[Ketapang Doewa]]
+- [[Atoeh]]
+- [[Toekoe Bait]]
+- [[Gedoeng]]
+- [[Karel van der Heijden]]
+- [[Sagi]]
+- [[Mukim]]
+- [[Generaal Pel]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Enemy breakthrough in the IV, VI and IX Moekims (June 1878)]]
+
+## Source
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 323–329, 336–337, 350–355.
