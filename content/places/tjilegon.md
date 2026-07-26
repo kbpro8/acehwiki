@@ -2,7 +2,6 @@
 title: "Tjilegon"
 aliases: ["Tjilegon", "Cilegon", "Tjilegon (Bantam)", "Cilegon Bantam murders", "Tjilegon murders 1889"]
 tags: [place, javanese, colonial, religious, 19th-century, 1889, snouck-hurgronje, islam, bantam, hadji, max-havelaar, tjilegon-murders]
-tags: [place, javanese, colonial, religious, 19th-century, 1889, snouck-hurgronje, islam, bantam, hadji, max-havelaar, tjilegon-murders]
 ---
 
 **Tjilegon** — modern *Cilegon* — is a town in the Bantam region of west Java, in the same Bantam where also lay Lebak — the Lebak of [[Multatuli|Multatuli]]'s *Max Havelaar* — and the site of the [[1889|1889]] murder of a number of Europeans, in which hadji's were involved, that was the immediate occasion of the Netherlands Indies government's despatch of [[C. Snouck Hurgronje|Dr. C. Snouck Hurgronje]] to Indië with a special commission to study the institutions of Islam on Java. The Tjilegon murders — and the government's attribution of them to the Islam — were the immediate reason for the government's wish to have the Islam on Java studied, and so for the despatch that would eventually, by a roundabout route, lead to Snouck Hurgronje's [[Snouck Hurgronje's Atjeh mission (July 1891 – February 1892)|Atjèh residence of 1891–1892]] and the *[[Verslag omtrent de religieus-politieke toestanden in Atjeh|Verslag]]* of [[23 May]] [[23 May]] [[1892]].
