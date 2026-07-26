@@ -1,6 +1,6 @@
 ---
 title: Joannes Benedictus van Heutsz
-aliases: ["Van Heutsz", "J. B. van Heutsz", "J.B. van Heutsz", "Jan van Heutsz", "Johan van Heutsz", "Johan Hendrik van Heutsz", "J. B. V. Heutsz", "v. Heutsz", "Heutsz", "Joannes Benedictus van Heutsz", "Johannes Benedictus van Heutsz", "Governor Van Heutsz", "Governor-General Van Heutsz", "General Van Heutsz", "Colonel Van Heutsz", "Lieutenant Van Heutsz", "Gouverneur-Generaal Van Heutsz", "Oud-Gouverneur-Generaal Van Heutsz", "Adjudant-Generaal Van Heutsz", "Zijne Excellentie J. B. van Heutsz", "Toean Djenderal Van Heutsz", "J. B.", "General", "generaal Van Heutsz", "governor Van Heutsz", "Pacificator of Atjeh"]
+aliases: ["Van Heutsz", "J. B. van Heutsz", "J.B. van Heutsz", "Jan van Heutsz", "Johan van Heutsz", "Johan Hendrik van Heutsz", "J. B. V. Heutsz", "v. Heutsz", "Heutsz", "Joannes Benedictus van Heutsz", "Johannes Benedictus van Heutsz", "Governor Van Heutsz", "Governor-General Van Heutsz", "General Van Heutsz", "Colonel Van Heutsz", "Major Van Heutsz", "Lieutenant Van Heutsz", "Gouverneur-Generaal Van Heutsz", "Oud-Gouverneur-Generaal Van Heutsz", "Adjudant-Generaal Van Heutsz", "Zijne Excellentie J. B. van Heutsz", "Toean Djenderal Van Heutsz", "J. B.", "General", "generaal Van Heutsz", "governor Van Heutsz", "Pacificator of Atjeh", "Chef van den Staf in Atjeh en Onderhoorigheden"]
 
 tags: [person, military, colonial, dutch, governor-general, aceh, pacification, buitenbezittingen, knil, 19th-century, 20th-century, general, governor, infantry, achehnese, aceh-war, knight]
 description: "Dutch military officer and colonial administrator (1851–1924) who, as Civil and Military Governor of Aceh from 1898 and Governor-General of the Dutch East Indies from 1904 to 1909, carried through the subjugation of the Acehnese sultanate and completed the pacification of the Buitengewesten."
@@ -19,6 +19,38 @@ During the [[Atjeh Expedition 1873-1876|Atjeh Expedition of 1873–1876]] he ser
 ## The 1892 Brochure and the Strategic Argument
 
 While still a major, Van Heutsz formulated the strategic argument that would shape the rest of the war. In [[1892]] he published the brochure *De Onderwerping van Atjeh* ("The Subjugation of Atjeh"), in which he argued that the Dutch defensive strategy — the holding of a "concentrated line" of forts around the old seat of the sultanate — was failing, and that only an aggressive, persistent offensive could bring the war to an end. The brochure set out the tactics and politics that had to be followed to reach this goal. His ideas were strongly influenced by the scholar [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]], who provided detailed knowledge of Acehnese society and whose analysis of the religious factor in the war — first offered in [[1892]] — would eventually be vindicated by Van Heutsz's campaigns. He also championed, in this period, the development of [[Sabang]] as an ocean harbour and free port — a point Kreemer expressly underlines, recording that "als majoor wees Van Heutsz reeds in zijn brochure van 1892 op de toekomstige beteekenis van Sabang" ("as a major Van Heutsz already pointed, in his brochure of 1892, to the future importance of Sabang").
+
+## The 1893 Tract: *De onderwerping van Atjeh*
+
+The book Van Heutsz published in [[1893]] — *De onderwerping van Atjeh*, printed by De Gebroeders Van Cleef at 's-Gravenhage and [[G. Kolff en Co.|G. Kolff en Co.]] at [[Batavia]], with the Typ. Zuidholl. Boek- en Handelsdrukkerij as the printer — is a policy tract organised in three movements: a diagnosis of why the war had become chronic, a sustained refutation of the *herstel van het sultanaat* (restoration of the sultanate) policy that Minister Sprenger van Eijk had revived in [[1886]], and a positive prescription built on three pillars: a marine-enforced closure of the entire coast from [[Tamiang]] to [[Troemon]]; a *scheepvaartregeling* (shipping regulation) on the ports retained under Dutch control; and the assumption by the colonial state of the *hatsil* — the customary revenue share formerly paid to the sultan — together with the opium-pacht and the abandonment of the *cajoleering*-policy of paying chiefs *traktement* (stipend). On its title page Van Heutsz signed himself *Majoor der Infanterie, gewesen Chef van den Staf in Atjeh en Onderhoorigheden* — Major of Infantry, former Chief of Staff in Atjeh and Dependencies — and his authority in the book rests on that signature: neither a serving officer nor a private civilian, but the man who had been the Indies' principal Atjeh staff officer and could speak with the war's institutional memory.
+
+### The opening sentence and polemical purpose
+
+The opening sentence of the tract is the book's rhetorical lodestar: "De Atjeh-oorlog knaagt aan ons Koloniaal bezit, hij moet eindigen" — the Atjeh-war gnaws at our Colonial possession, it must end. Van Heutsz writes in the first person throughout, framing his argument as the testimony of an eyewitness: "Ik heb oprechte hoogachting voor dezen energieken ambtenaar" (I have sincere respect for this energetic official); "Ik zeg, en ik weet het bij ondervinding" (I say, and I know it from experience); "veel heeft de Generaal daarover met mij gesproken" (the General has spoken much with me about this). The tract's polemical purpose is fixed by its closing pages, where Van Heutsz warns that the path the *Regeering* (Government) was then on would "waar maken wat Multatuli voorspelde: 'Voorwaar, voorwaar en ik zeg u: Atjeh is het begin van het einde'" — that is, the policy drift was poised to vindicate [[Multatuli]]'s grim prophecy that Atjeh would be the beginning of the end of the colonial empire itself.
+
+### Role in Atjeh and the catalogue of eleven Governors
+
+Van Heutsz had served as *Chef van den Staf* in Atjeh en Onderhoorigheden — the chief-of-staff to the military Governor of Atjeh — across the years in which the war's strategic centre of gravity shifted from the coastal statelets to the [[Groot-Atjeh|vallei van Groot-Atjeh]] and back again. His tour brought him into the closest working proximity to the Governors whose policies he would later dissect in the book: [[Van der Heijden|Generaal van der Heijden]], whose conquests of the [[XXII Moekims]] and [[XXVI Moekims]] in [[1878]]–[[1879]] he describes from the inside, and whose dismissal "op onverantwoordelijke wijze" (in an irresponsible manner) in early [[1881]] he treats as the original sin of the war; [[Demmeni|Generaal Demmeni]], whose half-*blokkade* / half-*scheepvaartregeling* of [[1884]] he treats as the worst of both worlds; [[Laging Tobias|Laging Tobias]], whose May [[1883]] *scheepvaartregeling* he singles out as the one policy that "alles wat men kon verlangen" had given — everything one could wish for; and [[Van Teijn|Generaal van Teijn]], whose progressive closure of the [[Noordkust]] and [[Westkust]] from January [[1888]] to early [[1890]] he treats as the operational model his own prescription will generalise.
+
+By the time he wrote, Van Heutsz had also corresponded with the retired Van Teijn — Van Teijn "naar hij mij het vorige jaar uit Holland schreef" (as he wrote to me the previous year from Holland) is his source for the older general's parting warning-letter to the *Regeering* — and had served under the Civil Governor of [[1881]]–[[1883]] whose "ellendige zwakke stelsel" (miserable weak system) he makes the rhetorical pivot of his tract.
+
+The diagnostic movement of the book rests on a catalogue of the eleven Governors of Atjeh who had held office between [[1873]] and [[1892]] — [[Van Swieten]], [[Pel (governor)|Pel]], [[Wiggers van Kerchem|Wiggers van Kerchem]], [[Diemont|Diemont]], [[Van der Heijden]], [[Pruijs van der Hoeven|Pruijs van der Hoeven]], [[Laging Tobias]], [[Demmeni]], [[Pompe van Meerdervoort|Pompe van Meerdervoort]], [[Deijkerhof|Deijkerhof]], and [[Van Teijn]] — together with the five Governors-General under whom they served (Loudon, van Lansberge, 's Jacob, van Rees, Pijnacker Hordijk), the thirteen Ministers of Koloniën, the turnover in the [[Raad van Indië]], and "een zevental algemeene secretarissen" (some seven general secretaries). Van Heutsz uses the catalogue to make a single argument: that "de Regeering den juisten weg nog niet weet aan te geven" (the Government does not yet know how to indicate the right path), because every *landvoogd* (viceroy) and every minister undoes the policy of his predecessor.
+
+The catalogue's anchor is the warning letter of [[23 November]] [[1891]] from Van Teijn — "dat telkens veranderen van politiek; dat gebrek aan eene vaste consequent doorgezette richting" (that constant changing of policy; that lack of a firm, consistently pursued direction) — which Van Heutsz takes as the rhetorical starting point of his tract and as the diagnosis no serving officer could then make. The eleven Governors are not catalogued equally. Van Heutsz's heroes are Van der Heijden — "ware hij niet in het begin van 1881 op onverantwoordelijke wijze ontslagen, dan behoorde de Atjeh-krijg thans reeds lang tot het verledene" (had he not been dismissed in early 1881 in an irresponsible manner, then the Atjeh-war would long since belong to the past) — and Van Teijn, whose *sluiting*-stelsel (closure-system) he treats as the operational model the *Regeering* should have continued. His villains are the *Civiel Gouverneur* (Civil Governor) of [[1881]]–[[1883]] (whose *cajoleering* (conciliating) Van Heutsz blames for the loss of prestige after Van der Heijden's dismissal), and Demmeni, whose hybrid *besluit* (decree) of [[13 October]] [[1884]] he reads as the worst of both worlds — "naast die verkeerde scheepvaartregeling eene partieele blokkade" (next to that wrong shipping-regulation a partial blockade).
+
+### The prescription: closure, *scheepvaartregeling*, and the *hatsil*
+
+The prescriptive movement of the book is the heart of Van Heutsz's argument. He accepts [[Scherer|Scherer]]'s *scheepvaartregeling* as the underlying instrument but insists, against Scherer, that it requires a marine force adequate to make the closure real: "Eene scheepvaartregeling zonder of met eene onvoldoende marine is als een leger zonder of met gebrekkige wapenen" — a shipping-regulation without, or with an insufficient, navy is like an army without, or with defective, weapons. The closure must extend across the entire coast, "van Tamiang op de Oostkust tot Troemon op de Westkust" (from Tamiang on the East Coast to Troemon on the West Coast), and the *scheepvaartregeling* must operate through the retained Dutch-held ports — [[Edi]], [[Segli]] and [[Olehleh|Olehleh]] for the Noord- en Oostkust; [[Telok Kroet|Telok-Kroet]], [[Melaboeh]] and Tampat Toean for the Westkust — there to levy duties and inspect cargoes.
+
+The revenue was to come from three sources: the opium-pacht (a European firm had offered in [[1890]] to farm the opium-pacht at ƒ 250,000 per month for the first year, rising to ƒ 400,000), the assumption by the Dutch of the *hatsil* — the customary revenue share formerly paid to the sultan and now claimable under the *18 artikelen* (eighteen articles) sworn by each submitting statelet — and the *scheepvaartregeling*-duties themselves. The result, Van Heutsz writes, would be to "plaatse ons in den volsten zin des woords op de geldkist van Atjeh" — to place the Dutch literally on the money-chest of Atjeh, financing the war's continuation from its own proceeds. The *cajoleering* policy of paying hostile chiefs *traktement* — about ƒ 8000 a month, of which part flowed onward to Kemala and to the priest [[Tengkoe di Tirou]] — was to be abandoned.
+
+### Refutation of the sultanaat-restoration policy
+
+The sultanaat-restoration policy Van Heutsz rejects outright. He devotes the genealogical-constitutional movement of the book to refuting the case for restoring the sultanate under [[Toeankoe Mohamad Daoed|Toeankoe Mohamad Daoed]], tracing the Polim-line and the Iskander Moeda tradition to demonstrate that the sultanate had never commanded effective allegiance over the coast, and that restoring Mohamad Daoed would merely prolong the *cajoleering*. The Dutch should themselves exercise the fiscal rights formerly reserved to the sultan, and the Atjehsche hoofden (Acehnese chiefs) should be coerced not by conciliation but by the systematic pressure of the closed coast and the levied duty.
+
+### From tract to Governorship
+
+The book is the blueprint for the policies Van Heutsz himself would implement as Governor of Atjeh from [[1898]] to [[1904]] and as Governor-General of the Dutch East Indies from [[1904]] to [[1908]]. The [[Concentratiestelsel]] — the defensive perimeter around [[Kota Radja]] from which the [[1893]] tract had recoiled — was, in his Governorship, transformed into a forward base; the *scheepvaartregeling* he prescribed in [[1893]] became the fiscal instrument of his pacification; and the marine-enforced closure he demanded in [[1893]] became the [[Blokkade|blokkade]] of the [[1898]]–[[1903]] campaigns. The book is also the principal source on the policy debates of [[1873]]–[[1892]]: Van Heutsz quotes at length from [[B. C. P. Kielstra|Kielstra]]'s *Beschrijving van den Atjeh-oorlog*, from the *dagorder* (order of the day) of [[5 September]] [[1879]], from Scherer's lecture of [[20 January]] [[1891]], from the *Indisch Militair Tijdschrift* and the *Indische Gids*, and from Van Teijn's warning letter of [[23 November]] [[1891]]. It is the only place where the policy oscillations of eleven Governors are narrated in a single sustained argument by an author who had himself been a witness.
 
 ## Colonel Van Heutsz and the Pedir Expedition (1900)
 
@@ -292,6 +324,42 @@ The DLP-84 entry also notes that, as Governor-General of the [[Dutch East Indies
 - [[Van der Heyden]]
 - [[1917]]
 
+- [[Pel (governor)]]
+- [[Wiggers van Kerchem]]
+- [[Diemont]]
+- [[Laging Tobias]]
+- [[Demmeni]]
+- [[Pompe van Meerdervoort]]
+- [[Deijkerhof]]
+- [[Pruijs van der Hoeven]]
+- [[Scherer]]
+- [[Tengkoe di Tirou]]
+- [[Toeankoe Mohamad Daoed]]
+- [[B. C. P. Kielstra]]
+- [[Multatuli]]
+- [[Scheepvaartregeling]]
+- [[Blokkade]]
+- [[Concentratiestelsel]]
+- [[Edi]]
+- [[Segli]]
+- [[Olehleh]]
+- [[Telok Kroet]]
+- [[Melaboeh]]
+- [[Troemon]]
+- [[Tamiang]]
+- [[G. Kolff en Co.]]
+- [[Noordkust]]
+- [[Westkust]]
+- [[1878]]
+- [[1879]]
+- [[1881]]
+- [[1883]]
+- [[1884]]
+- [[1886]]
+- [[1888]]
+- [[1890]]
+- [[1891]]
+
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -323,6 +391,8 @@ The DLP-84 entry also notes that, as Governor-General of the [[Dutch East Indies
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-275, 344.
 
 *J. B. van Heutsz, De onderwerping van Atjeh* (1893), p. 79.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
 *J. C. Lamster, J. B. van Heutsz als gouverneur-generaal*, p. 120 v.
 

@@ -1,6 +1,6 @@
 ---
 title: Concentration system (1884–1896) — Kreemer's account
-aliases: [Concentratiestelsel, Atjèh concentration system, the concentration policy, Kreemer's account of the concentration, geconcentreerde linie, Concentration system in Atjeh, Atjeh concentration system, stelsel van concentratie, Atjeh concentration strategy, Dutch concentration system Atjeh, Atjeh-oorlog concentration system]
+aliases: [Concentratiestelsel, Atjèh concentration system, the concentration policy, Kreemer's account of the concentration, geconcentreerde linie, Concentration system in Atjeh, Atjeh concentration system, stelsel van concentratie, Atjeh concentration strategy, Dutch concentration system Atjeh, Atjeh-oorlog concentration system, Concentratie, het stelsel van concentratie, geconcentreerde stelling van Groot-Atjeh, geconcentreerde stelling, Concentratiebesluit]
 tags: [concept, military, political, colonial, atjeh-oorlog, 19th-century, dutch, atjehnese, 1884, 1896, military-strategy, achehnese, aceh-war, defensive-strategy]
 ---
 
@@ -63,6 +63,38 @@ The concentration system defined the Dutch war effort in Atjeh from the early [[
 
 The concentration system is significant for the encyclopedia of [[Acheh|Achehnese]] history, in the schoolroom memory, on three counts. First, it is the principal Dutch military strategy of the central phase of the [[Aceh War|Atjeh-oorlog]] — the defensive posture that defined the Dutch war effort for nearly two decades, from the early [[1880s]] to the late [[1890s]]. Second, it is the document, in the schoolroom memory, of the limits of the Dutch military capacity in Atjeh: the conquered territory could not be held, and the colonial government was forced to retreat to a fortified perimeter around [[Koeta Radja|Kota-Radja]]. Third, it is the proximate cause of the late-phase Dutch operational recovery — the appointment of [[General Vetter|Vetter]] with unlimited authority and the renewed offensive of [[J. B. van Heutsz|Van Heutsz]] — that brought the war to its military conclusion. The schoolroom judgement — "*Langen tijd scheen het, dat de Atjehneezen zouden winnen*" — is the documentary measure of the depth of the Dutch predicament under the concentration system.
 
+## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893) — the *fout* of the post-Van-der-Heijden decade
+
+[[J. B. van Heutsz|Van Heutsz]]'s [[De onderwerping van Atjeh (Van Heutsz, 1893)|1893 tract]] treats the *Concentratie* — also *Concentratiestelsel*, *het stelsel van concentratie*, or the *geconcentreerde stelling van Groot-Atjeh* — as his principal *bête noire*: the *fout* from which the policy oscillations of [[1884]]–[[1892]] followed. The Concentratie was decided by the secret sessions of the [[Staten-Generaal]] of [[16 June|16]]–[[17 June]] [[1884]] and ordered by *besluit* of Gouverneur-Generaal [[Van Rees|van Rees]] of [[19 August]] [[1884]]. The decision came at the end of a political sequence Van Heutsz treats as the closing chapter of the [[Laging Tobias]] governorship. Laging Tobias — who had introduced the [[Scheepvaartregeling|scheepvaartregeling]] in May [[1883]] and had sought, in the failed overtures of June and October [[1883]], to draw the pretender-sultan [[Toeankoe Mohamad Daoed]] into a Dutch-managed settlement — had asked to resign when the Regeering rejected the one remedy from which, in the existing circumstances, he had expected a good outcome:
+
+> "Meende de Gouverneur Laging Tobias zijn ontslag te moeten vragen, toen de Regeering het eenige middel verwierp waarvan hij in de bestaande omstandigheden een goede uitkomst verwachtte. Dit was in Februari 1884."
+
+The resignation was at first declined by the outgoing G.-G. 's Jacob, but accepted after 's Jacob's own departure. The new G.-G. Van Rees, who visited Atjeh in March [[1884]], "*betuigde, dat hij de inzichten van den Gouverneur Laging Tobias omtrent den met Atjeh te volgen weg vrij juist vond*" — declared that he found Governor Laging Tobias's views on the path to be followed with Atjeh quite correct — but the declaration was overridden by the *Concentratiebesluit* of [[19 August]] [[1884]]. "*Met dit advies was het natuurlijk onmogelijk den Heer Laging Tobias met de uitvoering te belasten van de concentratie, die bij besluit van 19 Augustus 1884 bevolen werd*" — with this advice, it was of course impossible to charge Mr Laging Tobias with the execution of the Concentratie ordered by *besluit* of 19 August 1884. He had resigned rather than carry out a policy he believed wrong; and the Concentratie was entrusted instead to the *krijgsmacht* under [[Demmeni|Generaal Demmeni]]: "*Het bestuur weder in handen gegeven aan een militair, den kolonel Demmeni*".
+
+### The two components: withdrawal and *rigoureuse blokkade*
+
+The *Concentratiebesluit* of [[19 August]] [[1884]] is the founding instrument of the Concentratie. The *besluit* ordered two things in combination. The first was the withdrawal of all outlying Dutch posts to the *geconcentreerde stelling van Groot-Atjeh* — the defensive perimeter around [[Kota Radja]] that [[Van Swieten]] had established in [[1874]] with 2500 men. The withdrawal meant the abandonment of the coastal occupation [[Pel (governor)|Generaal Pel]] had completed in February [[1877]] and of the [[Groot-Atjeh|Groot-Atjehsche]] conquests [[Van der Heijden]] had made in [[1878]]–[[1879]]. The second was the *rigoureuse blokkade* of the entire coast from [[Tamiang]] to [[Troemon]] — the closure authorised by [[Staatsblad No. 105 van 1884]] and entrusted for execution to the marine. The political accompaniment was "*de politiek van non-interventie gepaard met eene rigoureuse blokkade*" — the policy of non-intervention combined with a rigorous blockade — under which the Dutch would abstain from the internal affairs of the [[Onderhoorigheden|coastal statelets]] and confine themselves to the defensive perimeter and the naval closure.
+
+### The abolition of posts at Telok Semawé and Samalanga
+
+The most striking operational feature of the Concentratie was the abolition of the outlying posts — the very posts whose occupation Pel had prescribed in [[1875]] and whose completion [[Diemont]] had marked in February [[1877]]. The most important of these were the posts at [[Telok Semawé]] on the Noordkust and at [[Samalanga]] on the Oostkust — the posts from which the Dutch had exercised direct supervision over the trade of the coastal statelets and through which the *scheepvaartregeling* of May [[1883]] had been administered. The withdrawal of these posts — together with the abolition of the *controleurs* in the *onderafdeelingen* of Groot-Atjeh — reduced the Dutch presence to the concentrated stelling of Kota-Radja and the few residual ports through which Demmeni's *partieele blokkade* was applied. Van Heutsz treats the abolition as the "*ons prijsgeven van de veroverde positie in de vallei van Groot-Atjeh en ons verhuizen op groote schaal*" — the giving up of the conquered position in the valley of Groot-Atjeh and our large-scale moving — into the *geconcentreerde linie*. After [[1884]], Van Heutsz writes, the Dutch were reduced to waiting: "*In de geconcentreerde stelling van Groot-Atjeh — zonder eenigen dwang — geduldig afwachten*" — in the concentrated stelling of Groot-Atjeh — without any pressure — patiently waiting. The valley of [[Groot-Atjeh]], conquered in [[1878]]–[[1879]] by Van der Heijden's campaigns against the [[XXII Moekims|XXII]] and [[XXVI Moekims|XXVI]] Moekims, was thus abandoned for the next decade; it would not be re-conquered until the [[Van Teijn]]-era re-imposition of the closure ([[1888]]–[[1890]]) and the Van Heutsz campaigns after [[1898]].
+
+### Demmeni's hybrid execution: the *tweeslachtig ding*
+
+Demmeni, who had been appointed on the explicit understanding that he would "*eenvoudig het hem voorgeschreven stelsel in practijk zou brengen*" — simply put into practice the system prescribed to him — declined to apply the full Concentratie as prescribed. Wavering under the *betoogingen* and *nota's* of [[Scherer|Resident Scherer]], co-signed by the *assistent-resident van Groot-Atjeh* [[Van Langen|van Langen]], Demmeni neither applied the rigorous blokkade nor sustained the *scheepvaartregeling* Laging Tobias had introduced in May [[1883]]:
+
+> "De Generaal Demmeni werd door Scherer's betoogingen en zijne nota's, waarmede de assistent-resident van Groot-Atjeh van Langen instemde, aan het wankelen gebracht in zijn plan om eenvoudig uit te voeren, wat hem door de Regeering opgedragen was en voerde niet de algemeene rigoureuse blokkade in, maar liet slechts sommige gedeelten van de kust sluiten en blokkeeren en dit niet eens consequent, terwijl hij voor andere gedeelten, reeds bij besluit van 13 October 1884 eene soort scheepvaartregeling invoerde".
+
+The compromise produced what Van Heutsz calls the *tweeslachtig ding* — the two-headed thing: "*eene soort van scheepvaartregeling, die niet deugde … en naast die verkeerde scheepvaartregeling eene partieele blokkade, die natuurlijk, in verband met de eerste, evenmin nut kon stichten*". The *scheepvaartregeling* Demmeni had introduced for some of the coastal states remained in force until approximately the end of [[1885]] — and was finally abolished by the Regeering in December [[1885]], when "*voor het vervolg zelfs de geringste beperking van den handel der kuststaten met het buitenland, onder welken vorm ook, verboden*" was made.
+
+### Van Heutsz's critique
+
+Van Heutsz's critique of the Concentratie is sustained across the diagnostic and prescriptive halves of the 1893 tract. The first charge is that the Concentratie was a *fout* — a mistake — because it surrendered the conquered position in the valley of Groot-Atjeh that Van der Heijden had won in [[1878]]–[[1879]] and replaced the active-defensive posture with a passive one. The second charge is that the Concentratie was *incoherent* — its two components, the defensive withdrawal and the rigorous blokkade, were mutually incompatible, because the withdrawal of the outlying posts eliminated the very ports through which the *scheepvaartregeling* could have been administered and the blokkade could have been enforced. The third charge is that the Concentratie was *executed half-way*: Demmeni neither applied the rigorous blokkade the Regeering had prescribed nor sustained the *scheepvaartregeling* Laging Tobias had introduced, but produced instead the hybrid *tweeslachtig ding* that combined the worst of both worlds. The fourth charge is that the Concentratie was *politically unaccompanied*: the *politiek van non-interventie* that accompanied it left the coastal statelets free to feed the interior's resistance, so that the *cajoleering*-decade of [[1884]]–[[1892]] became, in Van Heutsz's diagnosis, the period in which the Regeering prescribed a Concentratie, the Governor declined to apply it, the colony's best expert resigned rather than watch his system be diluted, and the *scheepvaartregeling* of May [[1883]] was finally abolished in December [[1885]].
+
+### Significance of the Van Heutsz account
+
+The Concentratie's significance in the [[Aceh Wiki History]] record, in Van Heutsz's diagnosis, rests on three things: it was the policy the Regeering prescribed in [[1884]] as the operational counterpart to the [[Blokkade|blokkade]] — the withdrawal of all outlying Dutch posts to the *geconcentreerde stelling van Groot-Atjeh* combined with the *politiek van non-interventie* in the internal affairs of the coastal statelets; it was the policy whose hybrid execution by Demmeni produced, in Van Heutsz's diagnosis, the *tweeslachtig ding* of the *partieele blokkade* and the *soort scheepvaartregeling* that defined the *cajoleering*-decade of [[1884]]–[[1892]]; and it was the polemical target against which Van Heutsz defined, in the 1893 tract, his own prescription — the substitution of the active-defensive posture for the passive one, the substitution of the *scheepvaartregeling*-cum-closure for the *partieele blokkade*-cum-*non-interventie*, and the substitution of the assumption of the [[Hatsil|hatsil]] and the [[Opium pacht|opium-pacht]] for the *cajoleering*-policy of paying hostile chiefs *traktement*. The Concentratie is, in Van Heutsz's narrative, the original *fout* of the post-Van-der-Heijden decade — the measure whose imposition by Van Rees's *besluit* of [[19 August]] [[1884]] opened the *cajoleering*-era and whose reversal by the Van Teijn closure of [[1888]]–[[1890]] began, in Van Heutsz's diagnosis, the recovery the 1893 tract would generalise into a prescription.
+
 ## See Also
 
 - [[Acheh]]
@@ -99,8 +131,43 @@ The concentration system is significant for the encyclopedia of [[Acheh|Achehnes
 - [[1880s]]
 - [[1890s]]
 - [[1903]]
-## Source
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[Van Rees]]
+- [[Laging Tobias]]
+- [[Scherer]]
+- [[Van Langen]]
+- [[Van Swieten]]
+- [[Van der Heijden]]
+- [[Pel (governor)]]
+- [[Diemont]]
+- [[Toeankoe Mohamad Daoed]]
+- [[Scheepvaartregeling]]
+- [[Blokkade]]
+- [[Concentratiebesluit (19 Augustus 1884)]]
+- [[Staatsblad No. 105 van 1884]]
+- [[Staatsblad No. 85 van 1885]]
+- [[Telok Semawé]]
+- [[Tamiang]]
+- [[Troemon]]
+- [[Groot-Atjeh]]
+- [[Onderhoorigheden]]
+- [[Hatsil]]
+- [[Opium pacht]]
+- [[1873]]
+- [[1874]]
+- [[1877]]
+- [[1878]]
+- [[1883]]
+- [[1885]]
+- [[1888]]
+- [[1890]]
+- [[1892]]
+- [[1893]]
+- [[1898]]
+## Sources
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Zesde tijdvak, blz. 26–28. Citing [[E. B. Kielstra|E. B. Kielstra]], *Atjèh onder het bestuur van den gouverneur Demmeni*, p. 499–525 en 613–635, and [[C. Snouck Hurgronje|C. Snouck Hurgronje]], *De Atjèhers* dl. I p. 184 vg.
 
 *Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 24, 28–35. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.

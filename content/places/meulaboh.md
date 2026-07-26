@@ -111,6 +111,22 @@ The [[Na 1795 (1924)|*Na 1795*]] school-history textbook of F. Roorda records th
 
 The textbook does not specify the date of the engagement, the immediate tactical circumstances of Toekoe Oemar's death, or the Dutch force involved. The phrase "*sneuvelde bij Melaboeh*" ("fell at Melaboeh") is the only documentary detail preserved in the schoolroom memory: the place-name Melaboeh, paired with the verb *sneuvelen* (to fall in battle), is the rhetorical fix of the event. The fall of Toekoe Oemar at Melaboeh is, in the Dutch schoolroom memory, the symbolic close of the late Atjehnese resistance and the immediate prelude to the definitive subjugation of [[Groot-Atjeh|Groot-Atjeh]] by [[J. B. van Heutsz|Van Heutsz]]. The place-name Melaboeh — paired in the schoolroom memory with the verb *sneuvelen* — is thus the rhetorical fix of the death of the principal Atjehnese leader of the late war.
 
+## Account from *Zelfbestuursverordeningen Atjeh en Onderhoorigheden* (1930) — the regulatory record
+
+In the [[1930]] compilation of *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Meulaboh — also spelled *Moulaboh*, *Menlaboh*, *Monlaboh* in OCR variants — appears as a *zelfbesturend landschap* and the seat of an *onderafdeeling* of the same name on the west coast of [[Atjeh|Atjeh en Onderhoorigheden]], ruled by the *Kepala negeri Meulaboh* as *Zelfbestuurder*. Meulaboh is the originating seat of two of the earliest regulations in the compilation: the *boschproducten-belasting* (*Pantjang Alas*) regulation of [[5 April]] [[1912]] (Reg. No. 2), the earliest documented *Pantjang Alas* regulation in the book and the model on which all subsequent *landschap*-level *Pantjang Alas* regulations were patterned, and the *tjemaraboomen-verordening* of [[2 July]] [[1917]] (Reg. No. 19), the casuarina-tree shore-protection regulation whose ten individually-named *oeleebalang* signatories constitute the largest named signatory-collective in the entire compilation.
+
+### The boschproducten-belasting of 5 April 1912 (Reg. No. 2)
+
+The *Pantjang Alas* regulation of [[5 April]] [[1912]] is the earliest-dated regulation printed in the 1930 compilation. Its full Dutch title is *Zelfbestuursverordening van 5 April 1912 houdende vaststelling van regelen betreffende de heffing van eene belasting van de uit het landschap Meulaboh afkomstige boschproducten (goedgekeurd door den Gouverneur van Atjeh en Onderhoorigheden)* (Self-government regulation of 5 April 1912 establishing rules concerning the levying of a tax on the forest products originating in the *landschap* Meulaboh, approved by the Governor of Atjeh en Onderhoorigheden). The authorisation was conveyed by the Civiel en Militair Gouverneur's *besluit* of [[12 April]] [[1912]] No. 247/18 transmitting the Gouverneur-Generaal's authorisation. The operational core of the regulation is *Fatsal 1*: *Er wordt, onder den naam Pantjang Alas, eene belasting geheven van de navolgende, in het landschap Meulaboh gewonnen boschproducten* (Under the name Pantjang Alas, a tax is levied on the following forest products harvested in the *landschap* Meulaboh). The comparative table records parallel *Pantjang Alas* *regelingen* for the other west- and south-coast *landschappen* (Idi, Langan, Tamiang, Tjulung, Tapaktoean, Zuidelijke Atjehsche landschappen), with dagteekeningen of 15, 25, 26, 28, and 30 April 1912. The choice of Meulaboh as the originating *landschap* — rather than, say, the more commercially prominent Tapaktoean — reflects the leading role of the *Kepala negeri Meulaboh* in the early colonial west-coast administration.
+
+### The tjemaraboomen-verordening of 2 July 1917 (Reg. No. 19)
+
+The *tjemaraboomen-verordening* of [[2 July]] [[1917]] — *Zelfbestuursverordening van 2 Juli 1917 op het kappen van tjemaraboomen de strandwegen in de onderafdeeling Meulaboh* (Self-government regulation of 2 July 1917 on the felling of casuarina trees along the beach-roads in the *onderafdeeling* Meulaboh) — is the only regulation in the 1930 compilation dealing with casuarina-tree protection, and the only regulation cited with *natuurschoon* (natural beauty / landscape aesthetics) as an explicit motive. It protects the *tjemaraboomen* (casuarina trees, *Casuarina equisetifolia*, the ironwood-pine-like shore tree) for two purposes: *natuurschoon* and *beschaduwing der strandwegen* (shade for the coastal roads). The regulation's distinctive feature is its signatory clause: instead of the corporate-collective *Kami Oeleebalang Negeri* form used elsewhere, the ten *oeleebalang* of the *onderafdeeling* Meulaboh are named individually — T. Mohamad Oesensjah of Wojla, Nja' Radja of Boebon, T. Mahmoed of Lho' Boebon, T. Tjhi' Mohamad Ali Aknhar of Kaway XVI, Keumangan of Seunagan, Potjoet Baren of Toengkoh, Mohamad Ali of Tripa, Peutoea Beungga of Seuneu'am, Radja Ila of Pamen, and T. Tjoet Achmad of Beutong — together comprising the most *landschap*-fragmented *onderafdeeling* on the west coast. Several of these ten *landschappen* — Seunagan, the Kawaj XVI, Boebon, Wojla — are described in the *De Buitenbezittingen* and *Atjèh and the War with Japan* accounts above.
+
+### Meulaboh as both originating seat and recipient of parallel regelingen
+
+By the time the 1930 compilation went to press, Meulaboh was thus both an originating seat (Regs. 2 and 19) and a recipient (Regs. 5, 13, 14, 16, 18a, 18b) of the Gouvernement-wide regulatory mesh — receiving parallel *regelingen* of the Alaslanden cattle-slaughter tax (Reg. No. 5, 30 March 1914), the Alaslanden cattle-transport regulation (Reg. No. 16, 12 October 1914), the Lhoksoekon klappercultuur-*verordening* (Reg. No. 18a, 25 August 1916), the Lhoksoekon *mantri*-instructie (Reg. No. 18b, 18 March 1916), the Bireuën heerendienst-regeling (Reg. No. 14, with the synchronised *inwerkingtreding* of [[1 January]] [[1929]]), and the Tjalang wapensmeden-regeling (Reg. No. 13, 18 December 1926 / 18 March 1927). The variable constitutional form of the *Zelfbestuur* on the west coast — under a single *Kepala negeri* in the 1912 regulation and under ten *oeleebalang* in the 1917 regulation — is the empirical demonstration of the same political fragmentation Snouck Hurgronje and *De Buitenbezittingen* describe above.
+
 ## See Also
 
 - [[1760]]
@@ -165,6 +181,13 @@ The textbook does not specify the date of the engagement, the immediate tactical
 - [[Toekoe Oemar]]
 - [[Westkust van Atjeh]]
 - [[1896]]
+- [[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]
+- [[Zelfbestuur]]
+- [[Pantjang Alas]]
+- [[1912]]
+- [[1917]]
+- [[1930]]
+
 ## Source
 
 
@@ -177,6 +200,8 @@ The textbook does not specify the date of the engagement, the immediate tactical
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), pp. 121–122 (Basin of Meulaboh), pp. 207–209 (iron-ore localities NW and SE of Meulaboh), p. 223 (West coast of Atjeh mercury).
 
 *Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.
+
+*Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesten van het Departement van Binnenlandsch Bestuur*, Weltevreden: Landsdrukkerij, 1930, esp. Regs. 2 and 19 (pp. 3 and 110). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
 
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
 

@@ -1,7 +1,7 @@
 ---
 title: Adat
-aliases: [Adat Acheh, Customary Law, Acehnese Custom, Adat, Adat-law, Customary law, Adats, adat, custom, traditional law, Adat and Hoekom, hoekom, ödöt, customary law and Islamic law in Aceh]
-tags: [concept, law, culture, achehnese, colonial, legal, religious, precolonial]
+aliases: [Adat Acheh, Customary Law, Acehnese Custom, Adat, Adat-law, Customary law, Adats, adat, custom, traditional law, Adat and Hoekom, hoekom, ödöt, customary law and Islamic law in Aceh, adat-law, Adat Acheh, Acehnese adat, adat-hukom dualism]
+tags: [concept, law, culture, achehnese, colonial, legal, religious, precolonial, customary-law, atjeh, zelfbestuur, 20th-century]
 description: "The customary law (adat) of the Acehnese — the unwritten, indigenous legal tradition governing social life, distinct from but coexisting with Islamic law (hikum/hukom/hoekom), and maintained primarily by the keuchi' and uleebalang; also the customary atmosphere of the colonial tangsi."
 ---
 
@@ -85,12 +85,45 @@ In folk tradition, the sources of *adat* and *hoekom* are attributed to differen
 
 **Adatrecht** was the Dutch colonial legal term referring to indigenous customary law, comprising *adat* (customs) plus the decisions of the *hoekom* (holy law) — the subject of [[C. van Vollenhoven|Van Vollenhoven]]'s classic work *Het adatrecht van Nederlandsch Indië*. In Atjèh, *adatrecht* applied to material private law; criminal and procedural *adat* had been displaced by Dutch law. Kreemer's *Atjèh* ([[1922]]–[[1923]]) is noted by [[B. ter Haar BzN|Ter Haar]] as bringing, "na Snouck Hurgronje en Van Vollenhoven geen nieuws" (after Snouck Hurgronje and Van Vollenhoven, no news).
 
+## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893) — the *bangoen* as adat institution
+
+[[J. B. van Heutsz|Van Heutsz]]'s [[De onderwerping van Atjeh (Van Heutsz, 1893)|1893 tract]] draws on the *[[Bila|bangoen]]* — the customary blood-price payable under *adat* by the killer's community to the victim's — as the most prominent example of an *adat* institution the colonial state operationalised for its own purposes. The disputes at [[Gighen]] and [[Samalanga]] in [[1880]] — the killings of the Dutch emissaries Said Abdellah and Soetan Maharadja, for which the *bangoen* was owed but repeatedly delayed — were the test-case for [[Scherer]]'s *kruisboot-bangoen* method: anchoring a cruiser before the harbour of a recalcitrant *negeri* to enforce, by the levy of import and export duties, the payment of the *bangoen* owed for the killing.
+
+The *bangoen* is, in Van Heutsz's diagnosis, the standard *adat*-law form of regulating homicide: the compensation payment substitutes for the vendetta that would otherwise follow the killing, and the obligation falls not on the individual killer alone but on his community — the *negeri* or *mukim* of which he is a member — that is collectively responsible under *adat* for the acts of its members. The Dutch colonial state's exploitation of the *bangoen* — by Scherer's *kruisboot* method — was the operational prototype of the [[Scheepvaartregeling|scheepvaartregeling]]: the systematic *contrôle* of in- and out-flow through Dutch-occupied harbours that [[Laging Tobias]] formalised in May [[1883]]. The *bangoen* thus illustrates the typical pattern by which the colonial state exploited *adat* institutions: the *adat* supplied the obligation (the *bangoen* payment owed for the killing), and the colonial state supplied the enforcement mechanism (the *kruisboot*'s economic coercion) that brought the *adat* obligation into operational practice.
+
+## Account from *Zelfbestuursverordeningen Atjeh en Onderhoorigheden* (1930) — the regulation record
+
+The *[[Zelfbestuursverordeningen Atjeh en Onderhoorigheden|Zelfbestuursverordeningen]]* compilation of [[1930]] records numerous operational encounters with *adat* in the regulatory framework of the [[Zelfbestuur|Zelfbestuur]]-period *oeleebalang* government. The *adat* was, in this framework, the operative legal tradition within which the *oeleebalang* — as *Zelfbestuurder* — exercised his authority under the [[Korte Verklaring]]: the colonial state recognised the *oeleebalang*'s authority and bound him to the colonial state, but the *oeleebalang* exercised his authority through *adat*, the indigenous legal tradition that the *anak negeri* (the indigenous subjects of the *landschap*) recognised as binding.
+
+The *Voorwoord* of the compilation records that "*de vaststelling van ver-ordeningen in het gewest Atjeh en Onderhoorigheden steeds collectief geschiedt*" — the establishment of ordinances in the *gewest* Atjeh en Onderhoorigheden always takes place collectively — meaning that all *oeleebalang* of an *onderafdeeling* issued their regulations jointly, in their own Malay, and on the basis of their own *adat*. The collective *vaststelling* practice was, in this sense, the operational expression of the *adat*'s authority under the *Zelfbestuur* system: the *oeleebalang* legislated *adat*-based regulations, in their own name and in their own Malay, and the *Civiel en Militair Gouverneur* supplied the *goedkeuring*.
+
+### The *woeker* (usury) regulation of 9 December 1926
+
+The *woeker* (usury) regulation of [[9 December]] [[1926]] — Reg. No. 1 of the compilation — opens with a recital that grounds the regulation explicitly in both colonial statute and Islamic legal tradition:
+
+> "*Menimbang bahasa perloe oentoek sekalian pendoedoek negeri akan menetapkan satoe peratoeran oen- toek pentjegah riba seperti ditetap- kan dalam Stantshlad 1916 No. 643*"
+
+— "Whereas it is necessary for all the inhabitants of the *negeri* to establish a regulation for the *pentjegah riba* (prevention of usury) as established in *Staatsblad 1916 No. 643*." The Malay *riba* — the Quranic prohibition on interest, drawn from the same Arabic root (*ribā*) that underlies the metropolitan *anti-woeker* statute — is here invoked as the substantive object of the regulation, alongside the colonial *Staatsblad 1916 No. 643* that supplies the legal framework.
+
+### The Meureudoe marriage regulation
+
+The marriage regulation of the *onderafdeeling* Meureudoe — Reg. No. 10 — likewise preserves the *adat isti'adat tiap-tiap tempat* (the local customs of each place) in the appointment of marriage-officiants, while grounding the substantive marriage law in "*hoekoem agama Islam*" (the law of the Islamic religion). The *adat-hukom* dualism is, in this regulation, the legal framework within which the *Zelfbestuur*'s *verordeningen* of Atjeh operated throughout the [[1910s]] and [[1920s]].
+
+### The Bireuën heerendienst regulation
+
+The *[[Heerendienst|heerendienst]]* regulation of [[Bireuën]] — Reg. No. 14 — preserves the *adat* exemptions for the families of *oelebalang*, *keuchi'*, and *ulama*: "*Familie dari kepala-kepala jang terseboet jang menoe-roet adat tiada dikenakan rodi (hal ini dipotoeskan semoepakat met Ambtenaar Europa)*" — "Families of the chiefs mentioned who according to *adat* are not subject to *rodi* (corvée) (this is decided in agreement with the European official)." The *adat* exemption from *heerendienst* for the chiefly families was, in this regulation, the institutional form by which the *Zelfbestuur* system preserved the *adat* hierarchy of the *landschap* within the colonial framework of public-works obligation.
+
+### Significance of the regulation record
+
+The 1930 compilation's significance for the *adat* record is that it documents the operational framework within which *adat* was the legal tradition the *oeleebalang* applied, that the *verordeningen* codified, and that the *Civiel en Militair Gouverneur*'s *goedkeuring* brought into operational force. The *adat-hukom* dualism — the basic legal structure of the Acehnese order — was, in this framework, the legal framework within which the *Zelfbestuur*'s *verordeningen* of Atjeh operated throughout the [[1910s]] and [[1920s]].
+
 ## See Also
 
 - [[Hikum|Hikum]]
 - [[Hoeköm]]
 - [[Kawom|Kawöm]]
 - [[Bila]]
+- [[Bangoen]]
 - [[Keuchi']]
 - [[Uleebalang|Oelèëbalang]]
 - [[Teungku]]
@@ -102,7 +135,13 @@ In folk tradition, the sources of *adat* and *hoekom* are attributed to differen
 - [[Moekim]]
 - [[Moesapat]]
 - [[Korte Verklaring]]
+- [[Zelfbestuur]]
+- [[Zelfbestuursverordening]]
+- [[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]
+- [[Heerendienst]]
 - [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
+- [[J. B. van Heutsz]]
+- [[Scherer]]
 - [[Tangsi]]
 - [[Anak-kolong]]
 - [[Koninginnedag]]
@@ -121,7 +160,16 @@ In folk tradition, the sources of *adat* and *hoekom* are attributed to differen
 - [[C. van Vollenhoven]]
 - [[Adatrecht]]
 - [[Adat Meukoeta Alam]]
+- [[Scheepvaartregeling]]
 - [[Wakeuëh]]
+- [[Gighen]]
+- [[Samalanga]]
+- [[Bireuën]]
+- [[Meureudoe]]
+- [[Lhoksoekon]]
+- [[1910s]]
+- [[1920s]]
+- [[1930]]
 - [[1939]]
 - [[1950]]
 
@@ -136,6 +184,10 @@ In folk tradition, the sources of *adat* and *hoekom* are attributed to differen
 *Beginselen en Stelsel van het Adatrecht*, door Mr. B. ter Haar Bzn. Vierde ongewijzigde druk. Groningen, Djakarta: J. B. Wolters, 1950. Pp. 17 (gampong), 29 (minangkabause koloniën), 51 (vorsten), 52 (sultanaat), 63 (wang pemasoeqan), 98, 100 (sanbod-aanname), 124 (buffalo-slaughtering partnerships), 148 (dubbelunilaterale trek), 168, 169, 178, 192 (djinamée), 171 (teruggeven van huwelijksgift), 192 (inkomsten van den man), 205 (peungklēh), 213 (voorkeur aan de dochter), 245–246 (sources), 256–257 (overzicht van de rechtskringen).
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 22, 25–27 (the *bangoen* episode at Gighen and Samalanga). OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*Zelfbestuursverordeningen Atjeh en Onderhoorigheden*. Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesen van het Departement van Binnenlandsch Bestuur*. Weltevreden: Landsdrukkerij, [[1930]], regulations passim, esp. Reg. No. 1 (the *woeker* verordening of 9 December 1926 for Lhoksoekon, recital and *Eenig artikel*), Reg. No. 10 (the marriage regulation for Meureudoe, Artikel 1(2) on *adat isti'adat tiap-tiap tempat*), and Reg. No. 14 (the *heerendienst* regulation for Bireuën, § 2 on the *adat* exemptions from corvée). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
 
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
 

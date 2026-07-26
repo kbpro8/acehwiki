@@ -1,10 +1,10 @@
 ---
 title: Pulo U
-aliases: [Pulau U, Simalur, Simalu, Simeulue, Pulo U (Simalur), Pulo U Simalur, Simeuloë, Simaloer, Simeuloe, Sinabang]
-tags: [place, island, headmanship, west-coast, meulaboh, sumatra, dutch-east-indies, aceh-region, westkust]
+aliases: [Pulau U, Simalur, Simalu, Simeulue, Pulo U (Simalur), Pulo U Simalur, Simeuloë, Simaloer, Simeuloe, Sinabang, Simeuloed, Simeuloet, Simeuloes, Simeulool]
+tags: [place, island, headmanship, west-coast, meulaboh, sumatra, dutch-east-indies, aceh-region, westkust, onderafdeeling, atjeh, colonial, 20th-century, zelfbestuur]
 ---
 
-**Pulo U** — vulgo **Simalur** (the modern **Simeulue**) — is an island lying off the west coast of [[Acheh|Achehnese] territory, whose headman figures in *The Achehnese* Vol. I as a survival of the older port-king's supremacy, reduced in modern times to a merely local dignity.
+**Pulo U** — vulgo **Simalur** (the modern **Simeulue**) — is an island lying off the west coast of [[Acheh|Achehnese]] territory, whose headman figures in *The Achehnese* Vol. I as a survival of the older port-king's supremacy, reduced in modern times to a merely local dignity. In the [[1930]] compilation of *[[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]*, the island — under the spelling Simeuloe (also *Simeulue*, *Simeuloed*, *Simeuloet*, *Simeuloë*, *Simeuloes*, and *Simeulool* in OCR variants) — was an island *onderafdeeling* off the west coast of [[Atjeh|Atjeh en Onderhoorigheden]], seated alongside the *onderafdeeling Tapaktoean* and the *onderafdeeling Zuidelijke Atjehsche landschappen* as the three south-coast *onderafdeelingen* to which the *vrouwelijk-vee verordening* of [[1 August]] [[1927]] (Reg. No. 17) was extended by parallel *regelingen*, and the most-isolated *onderafdeeling* of the Gouvernement — an island whose principal regulatory appearance in the 1930 compilation is as a recipient of parallel *regelingen* extended from the originating south-coast and west-coast *onderafdeelingen*.
 
 ## The Panguléë Side of Meulaboh
 
@@ -47,6 +47,28 @@ The island's "rijkdom aan bosschen" had led, by [[1917]], to its entire exploita
 The principal exports of Simeuloë were hout, copra, hides, and horns, with a small quantity of vogelnestjes. The island served as a major supplier of slachtvee to the Westkust and [[Groot-Atjeh|Groot-Atjeh]], its large karbouwenstapel — *niet voor den landbouw gebezigd* — yielding "groote hoeveelheden slachtvee." The haven of Sinabang received 67 steamers (242,000 M³) in [[1913]], 58 (250,000) in [[1914]], and 61 (240,000) in [[1915]]. The *in-* and *uitvoerrechten* rose from ƒ14,000/ƒ2,000 in [[1910]] to ƒ15,000/ƒ1,000 in [[1914]]. *De Buitenbezittingen* records that the island stood in tribute-relation to the [[Teukoe Tjhï' Meulabôh|Keudjeuroeën Tjhï' of Meulabôh]], whose *Panghoeloe-Sidik* had once collected the Sultan's dues on the island; "het heffen der Sultansrechten op het eiland Simeuloë" was thus included among the privileges of the Tjhï' office.
 
 
+## Account from *Zelfbestuursverordeningen Atjeh en Onderhoorigheden* (1930) — the regulatory record
+
+In the [[1930]] compilation of *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Simeuloe was the most-isolated *onderafdeeling* of the Gouvernement — an island whose principal regulatory appearance in the compilation is as a recipient of parallel *regelingen* extended from the originating south-coast and west-coast *onderafdeelingen*. The Inhoud (table of contents) of the compilation pairs Simeuloe with Tapaktoean in the comparative-table footnotes of Regs. 13 and 17: *(Onderafdeelingen Meulaboh, Tapatoean, Zuidelijke Atjeheche landsch.. Simeuloel)* and *(Onderafdeelingen Tapatoean, Simeuloed)*.
+
+### The vrouwelijk-vee verordening of 1 August 1927 (Reg. No. 17)
+
+The *vrouwelijk-vee verordening* of [[1 August]] [[1927]] — *Zelfbestuursverordening van 1 Augustus 1927 op het slachten van vrouwelijke buffels en runderen in de landschappen der onderafdeeling Zuidelijke Atjehsche landschappen* (Self-government regulation of 1 August 1927 on the slaughter of female buffaloes and cattle in the *landschappen* of the *onderafdeeling* Zuidelijke Atjehsche landschappen) — is the only regulation in the 1930 compilation prohibiting the slaughter of female cattle and buffaloes. The originating signatories are the *oeleebalang* of the *landschappen* Kloeet and Troemon — the two south-coast *landschappen* of the *onderafdeeling Zuidelijke Atjehsche landschappen*. The comparative table on Page 125 extends parallel *regelingen* to Tapaktoean and Simeuloe — the two south-coast *onderafdeelingen* alongside the *Zuidelijke Atjehsche landschappen* proper:
+
+> *GELIJKE VERORDENINGEN zijn vastgesteld voor de landschappen in de onderafdeelingen: Tapaktoean, op 25 Juli 1927, Simeuloet, op 20 Juli 1927. Deze verordeningen zijn goedgekeurd door den Gouverneur van Atjeh en Onderhoorigheden op 20 Augustus 1927* (Equal regulations have been established for the *landschappen* in the *onderafdeelingen*: Tapaktoean, on 25 July 1927, Simeuloet [Simeuloe], on 20 July 1927. These regulations were approved by the Gouverneur van Atjeh en Onderhoorigheden on 20 August 1927).
+
+Simeuloe's parallel regeling is thus dated [[20 July]] [[1927]] — five days before Tapaktoean's parallel regeling of [[25 July]] [[1927]] and twelve days before the originating Reg. No. 17 of [[1 August]] [[1927]] — and approved by the Gouverneur on [[20 August]] [[1927]], some twelve days before the originating regulation's *goedkeuring* of [[1 September]] [[1927]]. The relative priority of Simeuloe's parallel regeling over the originating Reg. No. 17 itself reflects the operational practice by which an originating regulation was often *goedgekeurd* after the parallel *regelingen* it spawned — a quirk of the *goedkeuring*-practice visible only in the comparative tables. The *vrouwelijk-vee verordening* is the supplement to the Alaslanden cattle-transport regulation (Reg. No. 16) — the comparative table of Reg. No. 16 carries the cross-reference *Zie ook de verordening opgenomen onder nummer 17* (see also the regulation included under number 17).
+
+### Simeuloe in the Pantjang Alas and parallel-regelingen tables
+
+Beyond its receipt of the *vrouwelijk-vee verordening*, the island *onderafdeeling* Simeuloe appears in the comparative tables of nearly every other regulation in the compilation. The Page 54 comparative table extends the Alaslanden cattle-slaughter tax (Reg. No. 5) to *Simeuloes* (1914). The Page 72 comparative table extends the Peureula' inkomstenbelasting (Reg. No. 9a) to *Simeuloeë* — *Simeuloeë Onbekend* (dagteekening onbekend / unknown), *inwerking* 1-1-1921. The Page 94 comparative table extends the Lhoksoekon *Mohammedaansch godsdienstonderwijs* regeling (Reg. No. 12) to *Simeuloes* — *Simeuloes 17-1-1927, 18-3-1927* (i.e. dagteekening 17 January 1927, goedkeuring 18 March 1927). The Page 97 comparative table extends the Tjalang *wapensmeden-verordening* (Reg. No. 13) to *Simeulool* — *Simeulool 18-3-1927* (i.e. goedkeuring 18 March 1927, with *inwerking* one month after goedkeuring). The Page 14 comparative table extends the Lhoksoekon *woeker-verordening* (Reg. No. 1) to *Simeuloed*. The Page 18 comparative table extends the 1912 *Pantjang Alas* regime to the *Zuidelijke Atjehsche landschappen* with the cross-reference *Simeuloel* — i.e. Simeuloe is implied as a recipient of the original 1912 *Pantjang Alas* regime via the south-coast extension.
+
+The recurrent appearance of Simeuloe in these comparative tables — across regulations as varied as the *inkomstenbelasting* (Reg. 9a), the *Mohammedaansch godsdienstonderwijs* regeling (Reg. 12), the *wapensmeden-verordening* (Reg. 13), the *vrouwelijk-vee verordening* (Reg. 17), and the *woeker-verordening* (Reg. 1) — demonstrates the systematic inclusion of the island in every Gouvernement-wide regulatory rollout of the 1912–1928 period, despite its geographical isolation. The dagteekening *onbekend* recorded for the *inkomstenbelasting* parallel regeling on Page 72 — *Simeuloeë Onbekend* — is the only such *onbekend* annotation for Simeuloe in the compilation, and reflects the practical difficulty of recording precise *vaststelling* dates for an island *onderafdeeling* whose *Zelfbestuur* had a more episodic documentary presence.
+
+### Significance (Zelfbestuursverordeningen account)
+
+Simeuloe's significance in the 1930 compilation rests on its being one of the three south-coast *onderafdeelingen* — alongside the *onderafdeeling Tapaktoean* and the *onderafdeeling Zuidelijke Atjehsche landschappen* — to which the *vrouwelijk-vee verordening* of [[1 August]] [[1927]] (Reg. No. 17) was extended by parallel *regelingen*; the most-isolated *onderafdeeling* of the Gouvernement — the only island *onderafdeeling* — and the demonstration, through its persistent inclusion in every Gouvernement-wide regulatory rollout of the 1912–1928 period (Regs. 1, 5, 9a, 12, 13, 17, and the 1912 *Pantjang Alas* regime), that the colonial-zelfbestuur regulatory mesh extended even to the off-coast island *landschappen*; and the demonstration — through the *dagteekening onbekend* annotation for the *inkomstenbelasting* parallel regeling on Page 72 — of the practical difficulty of recording precise *vaststelling* dates for an island *onderafdeeling* whose *Zelfbestuur* had a more episodic documentary presence than the mainland *onderafdeelingen*.
+
 ## See Also
 
 - [[Meulaboh]]
@@ -70,11 +92,20 @@ The principal exports of Simeuloë were hout, copra, hides, and horns, with a sm
 - [[1914]]
 - [[1915]]
 - [[1917]]
+- [[Tapaktoean]]
+- [[Zuidelijke Atjehsche landschappen]]
+- [[Zelfbestuur]]
+- [[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]
+- [[Pantjang Alas]]
+- [[1927]]
+- [[1930]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 16–18, 25, 29–30, 38, 53–60, 176–181, 217.
+
+*Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesten van het Departement van Binnenlandsch Bestuur*, Weltevreden: Landsdrukkerij, 1930, esp. Reg. 17 (p. 100) and comparative tables passim. OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.

@@ -1,7 +1,8 @@
 ---
 title: Aceh War
-aliases: ["Atjeh-oorlog (1873-1904)", "Atjeh-oorlog", "Aceh War", "Acheh War", "Atjehoorlog", "Atjeh oorlog", "the Atjeh war", "Atjeh War"]
-tags: [event, war, dutch-colonial, military, political, political-history, military-history, colonial, dutch, religious, acheh]
+aliases: ["Atjeh-oorlog (1873-1904)", "Atjeh-oorlog", "Aceh War", "Acheh War", "Atjehoorlog", "Atjeh oorlog", "the Atjeh war", "Atjeh War", "Atjeh-krijg", "Atjeh-krieg", "den oorlog met Atjeh", "Atjeh-oorlog (Van Heutsz 1893)"]
+tags: [event, war, dutch-colonial, military, political, political-history, military-history, colonial, dutch, religious, acheh, atjeh, aceh-war, 19th-century, 20th-century]
+description: "The protracted Dutch colonial war against the Sultanate of Atjeh, begun in 1873 with the First Atjeh Expedition and concluded in the early 20th century by the pacification policies of Van Heutsz as Governor (1898-1904) and Governor-General (1904-1908)."
 ---
 
 **The Aceh War** (Dutch: *Atjeh-oorlog*) was the military conflict between the [[Netherlands India|Dutch colonial government]] and the [[Acehnese People|Acehnese people]] that began in [[years/1873|1873]] and continued with varying intensity for decades. It was one of the longest and most costly colonial wars in Dutch history, and the defining catastrophe of the nineteenth century for [[Great Acheh|Acheh]].
@@ -214,8 +215,101 @@ The DLP-84 sketch also records the religious dimension of the war: Christian sol
 
 The war's conclusion in [[1903]] enabled the Dutch to implement the [[Agrarische Wet 1870|Agrarische Wet 1870]] and to open Aceh to plantation agriculture (Dutch: *ondernemingen*), altering the social and economic fabric of the region. The conflict thus stands as a turning-point between the era of Acehnese sovereignty and the full integration of the region into the Dutch colonial economic system.
 
+## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893)
+
+[[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]* — written from the perspective of a former *Chef van den Staf in Atjeh en Onderhoorigheden* who had served under successive Governors and had personally witnessed every policy reversal since [[1874]] — provides the single most sustained retrospective on the war from the side of its future executor. The tract opens with the warning that "*De Atjeh-oorlog knaagt aan ons Koloniaal bezit, hij moet eindigen*" — the Atjeh-war gnaws at our Colonial possession, it must end — and frames the war, twenty years in, as the chronic ulcer of Dutch colonial policy.
+
+### The 1873 opening
+
+The war opened in [[1873]] with the Dutch expedition against the [[Sultanate of Acheh|Sultanate of Atjeh]]. The immediate occasion was the [[Sumatra-tractaat (1871)|Sumatra-tractaat of 1871]] — the Anglo-Dutch treaty by which Britain recognised Dutch supremacy over Sumatra — and the subsequent Dutch ultimatum to the Sultan of Atjeh; the first military operation, the [[First Atjeh Expedition (April-May 1873)|First Atjeh Expedition]] of April–May [[1873]], ended in the death of *generaal-majoor* [[J.H.R. Köhler|Köhler]] beneath the *mesdjid* at [[Kota Radja|Kota-Radja]] and the withdrawal of the expedition. The second expedition of late [[1873]]–early [[1874]] succeeded in taking the *kraton* and in driving the Sultan from his capital; by [[1874]] the Dutch were in military occupation of the *geconcentreerde stelling* of [[Groot-Atjeh]], and the war had entered its protracted phase. Van Heutsz's [[1893]] retrospective on the opening fixes the war's date and the policy-frame within which the original decision was taken: "*Het zal nu weldra 20 jaren zijn, dat Nederland den oorlog met Atjeh begon*" — it will now soon be twenty years since the Netherlands began the war with Atjeh. The retrospective is the rhetorical opening of the entire tract. The original instrument of the war had been the *rigoureuse blokkade* — the rigorous blockade of the entire Atjehnese coast — that Van Heutsz would, in [[1893]], argue had been appropriate in [[1873]] but obsolete by [[1884]]: "*Toen wij in 1873 met Atjeh in oorlog geraakten, lag eene rigoureuse blokkade over het geheele kustgebied van het rijk … voor de hand*" — when in 1873 we came into war with Atjeh, a rigorous blockade over the entire coastal region of the kingdom lay close at hand.
+
+### The 1874 establishment: Van Swieten's Instructie
+
+The Dutch rule established in [[1874]] over the *geconcentreerde stelling* of Groot-Atjeh was given its constitutional form by [[Van Swieten|Generaal van Swieten]]'s [[Van Swieten's Instructie (22 April 1874)|Instructie voor den militairen, tevens civielen bevelhebber te Atjeh]] — the Instructie that was approved by the [[Governor-General of the Dutch East Indies|Gouverneur-Generaal van Nederlandsch-Indië]] by *Besluit* of [[26 May]] [[1874]] No. 1. The Instructie prescribed the *geconcentreerde stelling* — the concentrated defensive perimeter around [[Kota Radja|Kota-Radja]] — to be held by a garrison of 2,500 men, and the policy of *overreding of blokkade* — persuasion or blockade — that was, in art. 5, to bring the [[Onderhoorigheden]] to submission. Van Heutsz treats Van Swieten as the lost "*stadhouder*"-figure of the Atjeh record — the architect of the moderate plan that was prematurely abandoned in [[1875]] by [[Pel (governor)|Generaal Pel]] and [[Van Lansberge|G.-G. van Lansberge]] in favour of the *op grootere schaal aanvallend optreden* — the larger-scale offensive — of the [[Pel's plan (30 April 1875)|Pel Plan]] of [[30 April]] [[1875]].
+
+### The protracted 1874–1893 phase
+
+The period from [[1874]] to [[1893]] — the period Van Heutsz surveys in the first movement of his tract — is the period of the *Atjeh-krijg*'s transformation from a colonial war on the verge of conclusion to the chronic ulcer of the [[1893]] diagnosis. Van Heutsz surveys it governor-by-governor: the eleven Governors of Atjeh — [[Van Swieten]], [[Pel (governor)|Pel]], [[Wiggers van Kerchem]], [[Diemont]], [[Van der Heijden]], Pruijs van der Hoeven, [[Laging Tobias]], [[Demmeni]], [[Van Teijn]], Pompe van Meerdervoort, Deijkerhof — and the five Governors-General — Loudon, [[Van Lansberge|van Lansberge]], [[Pijnacker Hordijk|'s Jacob]], [[Van Rees|van Rees]], [[Pijnacker Hordijk]] — together with thirteen Ministers of Koloniën. The point of the catalogue is the diagnosis: that "*de Regeering den juisten weg nog niet weet aan te geven*" — the Regeering does not yet know how to indicate the right path — because every landvoogd and every minister undoes the policy of his predecessor.
+
+The catalogue turns on three principal reversals. The first was the abandonment, in [[1875]], of Van Swieten's *geconcentreerde stelling* in favour of [[Pel (governor)|Pel]]'s coastal-occupation plan of [[30 April]] [[1875]] — the plan that completed the occupation of the coastal strip of [[Groot-Atjeh]] under [[Diemont|Generaal Diemont]] in February [[1877]]. The second was the *verzoeningspolitiek* of G.-G. van Lansberge of March [[1877]] — conciliation in Groot-Atjeh combined with armed coercion in the *Onderhoorigheden* — that gave the Acehnese the year they needed to re-arm, and that was, in June [[1878]], reversed by the [[XXII Moekims campaign (1878)|XXII Moekims campaign]] opened by Van der Heijden on the advice of [[Geij van Pittius|majoor A. R. W. Geij van Pittius]]. The campaign produced, by September [[1879]], the [[Day-order of 5 September 1879|day-order]] declaring "*geheel Groot-Atjeh ten onder gebragt*" — and Van der Heijden's *onverantwoordelijke* dismissal in early [[1881]] was, in Van Heutsz's diagnosis, the original sin of the chronic ulcer: "*ware hij niet in het begin van 1881 op onverantwoordelijke wijze ontslagen, dan behoorde de Atjeh-krijg thans reeds lang tot het verledene*" — had he not been dismissed in the beginning of 1881 in an irresponsible manner, then the Atjeh-war would by now long belong to the past.
+
+The third reversal was the [[Concentratiebesluit (19 Augustus 1884)|Concentratiebesluit of 19 August 1884]] — the *groote politieke fout* that reversed the Van der Heijden conquest of Groot-Atjeh, withdrew the outlying Dutch posts to the *geconcentreerde stelling* of Groot-Atjeh, and prescribed the *rigoureuse blokkade* of the entire coast from [[Tamiang]] to [[Troemon]] by [[Staatsblad No. 105 van 1884|Staatsblad No. 105 of 1884]]. The Concentratie was authorised by the secret sessions of the [[Staten-Generaal]] of [[16 June|16]]–[[17 June]] [[1884]] over the head of the colonial Atjeh authorities — "*zonder dat aan de autoriteiten te Atjeh om eenig nader advies was gevraagd*" — and was reluctantly executed by [[Demmeni|Generaal Demmeni]], whose *besluit* of [[13 October]] [[1884]] introduced the hybrid *half sluiting / half scheepvaartregeling* that Van Heutsz would denounce as the worst of both worlds. The *rigoureuse blokkade* was, within a year, repealed by [[Staatsblad No. 85 van 1885|Staatsblad No. 85 of 1885]], and the *scheepvaartregeling* Scherer had introduced under [[Laging Tobias]] in May [[1883]] was finally abolished in December [[1885]].
+
+The [[1884]]–[[1891]] period that followed — the *cajoleering*-decade of [[Demmeni]], the *politiek van cajoleeren* of [[1886]]–[[1891]], and the *herstel van het sultanaat* revived at ministerial level by Minister [[Sprenger van Eijk]] in [[1886]] — was, in Van Heutsz's diagnosis, the political expression of the [[1884]] *fout* and *ramp*. The war had, by [[1891]], produced the *cajoleering*-policy of paying the chiefs "*traktement*" — about f 8000 a month, much of which flowed onward to [[Kemala]] and to the priest — and the [[Toeankoe Haschim|war party at Kemala]] under [[Toeankoe Mohamad Daoed]] and [[Toeankoe Haschim]] still issued orders as if from a sovereign court. The religious leader [[Tengkoe di Tirou]] still rallied the faithful "*met den koran in de hand*" to continue the struggle against the "*ongeloovige indringer*".
+
+### The 1893 diagnosis and prescription
+
+The diagnosis was that the war had become chronic because "*telkens veranderen van politiek; dat gebrek aan eene vaste consequent doorgezette richting*" — the constant changing of policy, the lack of a fixed consistently pursued direction — had prevented any of the eleven Governors from consolidating the gains of his predecessor. The warning was the retired [[Van Teijn|Generaal van Teijn]]'s, in his letter of [[23 November]] [[1891]] from Utrecht to the Minister of Koloniën, that Van Heutsz makes the rhetorical starting point of the entire tract. The prescription has three pillars: the **marine-enforced closure of the entire coast**, extended across the entire perimeter from [[Tamiang]] on the [[Oostkust]] to [[Troemon]] on the [[Westkust]]; the **rigorous [[Scheepvaartregeling|scheepvaartregeling]] on the ports retained under Dutch control** — the scheme [[Scherer]] had first conceived in [[1879]]–[[1880]] and that [[Laging Tobias]] had actually introduced in May [[1883]]; and the **assumption of the [[Hatsil|hatsil]] and the abrogation of the sultanaat-idea**. The closing condition of the prescription was, Van Heutsz records, the submission of the [[Kemala]] war-party itself: "*Ook, dat het stelsel van sluiting van den Generaal van Teijn, die vóór herstel van het sultanaat was, hiermede verband hield en hij het tijdstip voor de invoering van de scheepvaartregeling eerst gekomen achtte, nadat Toeankoe Mohamad Daoed met de hoofden van verzet te Kemala, zich zouden onderworpen hebben*" — also, that the system of closure of General van Teijn, which preceded the restoration of the sultanate, was connected with this and he considered the moment for the introduction of the scheepvaartregeling to have come only after Toeankoe Mohamad Daoed with the resistance chiefs at Kemala would have submitted.
+
+### The post-1893 implementation: Van Heutsz's pacification (1898-1904)
+
+The prescription Van Heutsz set out in [[1893]] was, after a five-year interval, implemented by Van Heutsz himself as [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden|Governor of Atjeh]] from [[1898]] onward. The [[Concentratiestelsel|concentratiestelsel]] — the defensive perimeter around [[Kota Radja|Kota-Radja]] from which Van Heutsz in the 1890s had still been recoiling — was, in his Governorship, transformed into a forward base; the [[Scheepvaartregeling|scheepvaartregeling]] he had prescribed in [[1893]] became the fiscal instrument of his pacification; and the marine-enforced closure he had demanded in [[1893]] became the [[Blokkade|blokkade]] of the [[1898]]–[[1903]] campaigns. The *hatsil* was assumed, the sultanaat-idea was abandoned, and the [[Toeankoe Mohamad Daoed|Mohamad Daoed]] candidacy was, in practice, set aside as the chiefs of the *Onderhoorigheden* were brought, one by one, under Dutch administration. The religious leader [[Tengkoe di Tirou]] — the [[Tengkoe di Tirou|Sjech Saman]] who had, under Van Teijn, twice been driven from the linie with bloody heads — was killed in action on [[25 February]] [[1899]] in the battle of [[Aneuk Glé|Aneuk Galong n. Glé]], and the religious backbone of the resistance was broken. The [[Kemala]] war-party under [[Toeankoe Haschim]] and [[Toeankoe Mohamad Daoed]] was progressively isolated by the closure of the coast; the [[Panglima Polim|Polim-line]] of the [[XXII Moekims|Sagi XXII]] was progressively co-opted; and by [[1904]] the [[Pacificatie|pacification]] was sufficiently advanced for Van Heutsz to be promoted to [[Governor-General of the Dutch East Indies]] ([[1904]]–[[1908]]) and for the [[Atjeh-oorlog (1873-1904)|Atjeh-oorlog]] to be, in the official reckoning, declared closed.
+
+The declaration of closure was, however, a political formality: irregular resistance continued in parts of the highlands for years afterward, and the figure Van Heutsz himself, in the [[1893]] tract, had singled out as the *onverzoenlijke tegenstander* — [[Toeankoe Haschim]] — was, at the time of the official closure, still at [[Kemala]]. The Atjeh-oorlog was, in this sense, both concluded by the [[1904]] declaration and continued, in irregular form, into the early twentieth century.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders Van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 1, 5, 9, 11, 13, 15, 16, 18, 22, 28, 29, 36, 40, 50, 95. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
 ## See Also
 
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden]]
+- [[Van Swieten's Instructie (22 April 1874)]]
+- [[Day-order of 5 September 1879]]
+- [[Pel's plan (30 April 1875)]]
+- [[Concentratiebesluit (19 Augustus 1884)]]
+- [[Staatsblad No. 105 van 1884]]
+- [[Staatsblad No. 85 van 1885]]
+- [[Closing of the Noord- en Westkust (1889-1890)]]
+- [[XXII Moekims campaign (1878)]]
+- [[XXVI Moekims campaign (1879)]]
+- [[Selimoen expedition (August 1879)]]
+- [[First harbor closure (1878)]]
+- [[Second harbor closure (5 Juli 1879)]]
+- [[Nisero affair (1883-1885)]]
+- [[Hok Canton incident (1886)]]
+- [[Pacificatie]]
+- [[Sultanate of Acheh]]
+- [[Groot-Atjeh]]
+- [[Kemala]]
+- [[Onderhoorigheden]]
+- [[XXII Moekims]]
+- [[XXVI Moekims]]
+- [[XXV Moekims]]
+- [[Blokkade]]
+- [[Scheepvaartregeling]]
+- [[Concentratiestelsel]]
+- [[Hatsil]]
+- [[Van Swieten]]
+- [[Pel (governor)]]
+- [[Wiggers van Kerchem]]
+- [[Diemont]]
+- [[Van der Heijden]]
+- [[Laging Tobias]]
+- [[Demmeni]]
+- [[Van Teijn]]
+- [[Van Rees]]
+- [[Pijnacker Hordijk]]
+- [[Van Lansberge]]
+- [[Sprenger van Eijk]]
+- [[Fransen van de Putte]]
+- [[Geij van Pittius]]
+- [[Scherer]]
+- [[Van Langen]]
+- [[Ruijssenaers]]
+- [[Said Abdellah]]
+- [[Soetan Maharadja]]
+- [[Toeankoe Haschim]]
+- [[Toeankoe Mohamad Daoed]]
+- [[Tengkoe di Tirou]]
+- [[Panglima Polim]]
+- [[Habib Abdoel Rachman]]
+- [[Joannes Benedictus van Heutsz]]
+- [[1874]]
+- [[1877]]
+- [[1878]]
+- [[1880]]
+- [[1884]]
+- [[1893]]
 - [[Disputed Succession to the Panglimaship of the XXVI Mukims]]
 - [[1905]]
 - [[Aceh Sultanate]]
@@ -338,6 +432,8 @@ The war's conclusion in [[1903]] enabled the Dutch to implement the [[Agrarische
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 267-275.
 
 *DLP-84-Atjeh.pdf*, pp. 6, 10.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders Van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 1, 5, 9, 11, 13, 15, 16, 18, 22, 28, 29, 36, 40, 50, 95. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
 

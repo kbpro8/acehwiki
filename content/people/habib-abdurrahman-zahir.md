@@ -1,12 +1,12 @@
 ---
 title: Habib Abdurrahman Zahir
-aliases: ["the Habib", "Sayyid Abdurrahman Zahir", "Habib Abdurrahman", "Sayyid Abdurrahman", "Habib Abdoerrahman", "Abdul Rachman", "Habib", "Sayyid Abdurrahman Zair", "Habib Abdoe'r Rachman", "Habib Abdoor Rahman", "Habib Abdoerrahman Zahir", "Habib Abdul Rahman", "Sajjid Abdoerrahman Zahir", "Habib of Aceh", "sajet of Aidaroes family", "Habib's", "Habeeb", "Sayyid"]
+aliases: ["the Habib", "Sayyid Abdurrahman Zahir", "Habib Abdurrahman", "Sayyid Abdurrahman", "Habib Abdoerrahman", "Abdul Rachman", "Habib", "Sayyid Abdurrahman Zair", "Habib Abdoe'r Rachman", "Habib Abdoor Rahman", "Habib Abdoerrahman Zahir", "Habib Abdul Rahman", "Sajjid Abdoerrahman Zahir", "Habib of Aceh", "sajet of Aidaroes family", "Habib's", "Habeeb", "Sayyid", "Habib Abdoel Rachman", "Hadji Abdoel Rachman", "Habib Abdoer Rachman"]
 
-tags: [person, warrior, religious-figure, sayyid, reformer, arab, jihad-leader, religious, aceh, resistance, aceh-war, arab-scholar, rijksbestuurder, military-leader, sajet, political, achehnese, 19th-century, concept, sultanate]
+tags: [person, warrior, religious-figure, sayyid, reformer, arab, jihad-leader, religious, aceh, resistance, aceh-war, arab-scholar, rijksbestuurder, military-leader, sajet, political, achehnese, 19th-century, concept, sultanate, iv-moekims, groot-atjeh, resistance-leader, zwager]
 description: "Arab scholar and sayyid who served as the first rijksbestuurder (chief minister) of Acheh under the sultanate, and the most energetic political-religious figure of the early Dutch war period. Submitted to the Dutch on 13 October 1878 and was exiled to Jeddah on a personal annual pension of 12,000 dollars."
 ---
 
-**Habib Abdurrahman Zahir** — properly Sayyid Abdurrahman Zair, also **Sajjid Abdoerrahman Zahir** — was an Arab scholar and *sayyid* of the [[Aidaroes family|Aidaroes family]] who served as the first *rijksbestuurder* (chief minister) of [[Acheh|Atjeh]] under the sultanate, and the most famous *Habib* in Acehnese history and the most energetic political-religious figure of the Dutch war period. He was abroad seeking help at [[Constantinople]] when the Dutch first attacked in [[1873]], and his return marked a turning point in the war. He established himself at [[Mon Tasie'|Mon Tasie']] and led several expeditions before [[Submission of Habib Abdurrahman (13 October 1878)|submitting to the Dutch on 13 October 1878]] — an act his enemies attributed to treachery. He rebuilt the great mosque [[Meuseugit Raya]] at [[Kutaraja]] and was exiled to [[Jeddah|Jeddah]] in [[November 1878]] with a personal annual pension of 12,000 dollars. [[J. Kreemer|Kreemer]]'s *Atjèh* (Tweede Deel, [[1923]]) records the same figure under the alternative name **Habib Abdoerrahman** as a *sajet* (sayyid) of the Aidaroes family who used his great religious prestige for political purposes, and adds three distinctively Kreemer details: the *balè meuhakamah* at [[Bloee|Bloee]] (ca. [[1860]]–[[1870]]), the exceptional stoning for *dina*, and the departure for Mecca carrying a great value in *ha gantjéng* — judicial pledge monies that had accumulated in his hands.
+**Habib Abdurrahman Zahir** — properly Sayyid Abdurrahman Zair, also **Sajjid Abdoerrahman Zahir** — was an Arab scholar and *sayyid* of the [[Aidaroes family|Aidaroes family]] who served as the first *rijksbestuurder* (chief minister) of [[Acheh|Atjeh]] under the sultanate, and the most famous *Habib* in Acehnese history and the most energetic political-religious figure of the Dutch war period. He was abroad seeking help at [[Constantinople]] when the Dutch first attacked in [[1873]], and his return marked a turning point in the war. He established himself at [[Mon Tasie'|Mon Tasie']] and led several expeditions before [[Submission of Habib Abdurrahman (13 October 1878)|submitting to the Dutch on 13 October 1878]] — an act his enemies attributed to treachery. He rebuilt the great mosque [[Meuseugit Raya]] at [[Kutaraja]] and was exiled to [[Jeddah|Jeddah]] in [[November 1878]] with a personal annual pension of 12,000 dollars. [[J. Kreemer|Kreemer]]'s *Atjèh* (Tweede Deel, [[1923]]) records the same figure under the alternative name **Habib Abdoerrahman** as a *sajet* (sayyid) of the Aidaroes family who used his great religious prestige for political purposes, and adds three distinctively Kreemer details: the *balè meuhakamah* at [[Bloee|Bloee]] (ca. [[1860]]–[[1870]]), the exceptional stoning for *dina*, and the departure for Mecca carrying a great value in *ha gantjéng* — judicial pledge monies that had accumulated in his hands. In [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]*, the Habib — a *sayyid* of the [[IV Moekims|IV Moekims of Groot-Atjeh]] and *zwager* (brother-in-law) of the [[XXII Moekims|Sagi XXII]] under-chief [[Toekoe Moeda Baid|Tekoe Moeda Baid]] — is identified as *de ziel van den tegenstand* (the soul of the resistance) in [[1877]]–[[1878]], whose June [[1878]] *inval* (incursion) into the Dutch-occupied territory triggered [[General van der Heijden|Van der Heijden]]'s strategic reversal against the [[Groot-Atjeh]] interior.
 
 ## Expanded account from *The Achehnese*, Vol. I — Habib Abdurrahman
 
@@ -90,6 +90,46 @@ Kreemer's account of the Habib's stoning of a couple for *dina* (adultery, Arabi
 
 Kreemer's final distinctive detail is the record that Habib Abdoerrahman is said to have departed for Mecca carrying a great value in *ha gantjéng* — judicial pledge monies that had accumulated in his hands. The *ha gantjéng* was a form of *gedingpand* (judicial pledge) used in litigation as material guarantee for compliance with a verdict, returned for a redemption price after satisfaction. The practice was discontinued in *eigenlijk Atjèh* from [[1910]]. The detail is the principal Atjèhnese-institutional evidence that the Habib's religious-court jurisdiction had accumulated, in his hands, the pledges of his litigants — and that his withdrawal to Arabia carried those pledges with him.
 
+## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893) — the soul of the resistance
+
+[[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]* adds a fourth perspective on the Habib — that of the Dutch Chief of Staff who had served under [[General van der Heijden|Van der Heijden]] during the very operations that produced the Habib's submission, and who would himself, as Governor of Atjeh after [[1898]], complete the subjugation the Habib had resisted. Van Heutsz identifies the Habib — a *sayyid* of the [[IV Moekims|IV Moekims of Groot-Atjeh]] and *zwager* (brother-in-law) of the [[XXII Moekims|Sagi XXII]] under-chief [[Toekoe Moeda Baid|Tekoe Moeda Baid]] — as *de ziel van den tegenstand* (the soul of the resistance) in the years [[1877]]–[[1878]], and treats the June [[1878]] *inval* (incursion) that bears his name as the *aanleiding* (occasion) for the strategic reversal by which [[Groot-Atjeh]] was finally brought under Dutch rule.
+
+### The pre-March 1877 report to Van Lansberge
+
+The Habib enters Van Heutsz's narrative before his identification as the *ziel van den tegenstand* — as the *Hadji* who, in the weeks before [[Johan Willem van Lansberge|Gouverneur-Generaal van Lansberge]]'s March [[1877]] visit to Atjeh, had reported to the Gouverneur-Generaal in Batavia that [[Panglima Polim]] (the Sagi-head of the [[XXII Moekims]]) and [[Toekoe Moeda Baid|Tekoe Moeda Baid]] (the under-chief of the [[XXII Moekims|Sagi XXII]]'s [[VII Moekims Baid|VII Moekims]]) were willing to submit. Van Heutsz records the report and its political consequence:
+
+> "Vóór zijn vertrek van Java, had Z. E. te Batavia nog van een zekere Hadji Abdoel Rachman uit de IV Moekims vernomen, dat zoo- wel het Sagi hoofd der XXII Moekims Panglima Polim- als het Tekoe Moeda Baid zich wilden onder- hoofd der VII Moekims, werpen, doch dat de aanraking van die hoofden met ons bestuur werd tegengewerkt door de hoofden uit Marassa, die belang hadden bij be- stendiging van den tegenwoordigen toestand".
+
+The Habib's report was one of three converging signals — the others coming from Singapore and Johore, and from [[Toewankoe Hoesin|Toeankoe Pangeran Hoesin]]'s presentation at [[Pedir]] — that confirmed Van Lansberge, after his March [[1877]] arrival in Atjeh, in the *verzoeningspolitiek*: the policy of conciliating the Groot-Atjeh chiefs by abandoning armed operations in the interior. The policy, Van Heutsz would later argue, was based on insincere submissions: "de door de Atjehsche hoofden aangeknoopte onderhandelingen moesten slechts dienen om tijd te winnen" — the negotiations opened by the Atjehnese chiefs were intended merely to gain time.
+
+### Identification as the soul of the resistance (1877–1878)
+
+The Gouverneur-Generaal's *verzoeningspolitiek* did not produce the submissions of either Panglima Polim or Tekoe Moeda Baid, and the resistance in the Groot-Atjeh interior gradually reorganised itself under the leadership of the Habib. Van Heutsz's identification is precise:
+
+> "In de eerste helft van 1878 kreeg het bestuur te Atjeh gelukkig de overtuiging, dat het met de onderhandelingen van de voornaamste hoofden te Groot-Atjeh geen ernst was geweest; geleidelijk toch nam het verzet weder toe en juist het ergste tegenover Lambaroe in het gebied van Tekoe Moeda Baid, terwijl spoedig algemeen Habib Abdoer Rach- man, zwager van Tekoe Moeda Baid, als de ziel van den tegenstand aangemerkt kon worden".
+
+The kinship tie is significant: as *zwager* (brother-in-law) of Tekoe Moeda Baid, the Habib was attached by marriage to the under-chief of the [[XXII Moekims|Sagi XXII]]'s [[VII Moekims Baid|VII Moekims]], and his authority in the resistance derived both from his descent as a *sayyid* and from his marital connection to the territorial chief whose submission Van Lansberge had sought. The identification as *de ziel van den tegenstand* — the soul of the resistance — is Van Heutsz's own; the Habib had become, by mid-[[1878]], the recognised leader of the active resistance in the Groot-Atjeh interior.
+
+### The June 1878 inval and Van der Heijden's strategic reversal
+
+The decisive moment of the [[General van der Heijden|Van der Heijden]] governorship came in June [[1878]], when the Habib's *inval* (incursion) into the Dutch-occupied territory exposed the failure of the *verzoeningspolitiek* and triggered a complete change of system in [[Groot-Atjeh]]. Van Heutsz dates the reversal precisely:
+
+> "de bekende inval in het door ons bezette gebied van Habib Abdoer Rachman voorviel, welke inval de aanleiding was tot het op Groot- Atjeh geheel veranderen van stelsel".
+
+Van Lansberge, who had himself been moving toward the same conclusion, had telegraphed the Governor on [[13 June]] [[1878]] ordering him — *na regeling van de zaken in Gedong en Pasangan* (after the settlement of affairs in [[Gedong]] and [[Pasangan]]) — *aan het verzet in Groot-Atjeh een einde te maken, door, zonder het maken van nieuwe veroveringen of breken van onderhandelingen met de wettige hoofden, de benden van Habib te verdrijven en dien aanvoerder onschadelijk te maken* (to make an end of the resistance in Groot-Atjeh, by, without making new conquests or breaking off negotiations with the lawful chiefs, driving out the Habib's bands and rendering that leader harmless). The *inval*, almost coincident with these orders, "gaf eene geheele wending aan de zaak" (gave a complete turn to the affair): Van der Heijden abandoned the planned [[Pasangan]] expedition and "besloot … met geheel zijne beschikbare macht voor goed te Groot-Atjeh aan het verzet een einde te maken" — decided, with his entire available force, to make a permanent end to the resistance in Groot-Atjeh. The intellectual author of the reversal was the Chief of Staff, [[Geij van Pittius|majoor A. R. W. Geij van Pittius]], who had argued since [[1877]] for the *Zuidoosterlinie* along the Atjeh river to be shifted into the [[XXII Moekims]].
+
+### Submission on 13 October 1878
+
+The campaign against the [[XXII Moekims]] opened in July [[1878]] and produced, within three months, the [[Submission of Habib Abdurrahman (13 October 1878)|submissions]] of the Habib and of his brother-in-law Tekoe Moeda Baid. Van Heutsz records the timing:
+
+> "Hoe reeds binnen drie maanden na den aanvang van den eersten veldtocht in de XXII Moekims, de onderwerping van Habib Abdoer Rachman en van Tekoe Moeda Baid op den 13em October 1878 volgde".
+
+The submission of [[13 October]] [[1878]] closed the first phase of the Van der Heijden campaigns. The [[XXVI Moekims]] campaign followed in [[1879]], culminating in the [[Selimoen Expedition (August 1879)|tocht naar Selimoen]] of August [[1879]] and the [[Day-order of 5 September 1879|dagorder]] of [[5 September]] [[1879]] declaring *geheel Groot-Atjeh ten onder gebragt* (the whole of Groot-Atjeh brought under). The Habib who had been *de ziel van den tegenstand* of [[1877]]–[[1878]] was, by the end of [[1878]], a Dutch subject; the *inval* that had triggered Van der Heijden's reversal had been, in Van Heutsz's retrospective, the *aanleiding* — the occasion — for the strategic decision that brought Groot-Atjeh under Dutch rule.
+
+### Van Heutsz's overall judgment
+
+The Habib's role in the resistance is, in Van Heutsz's narrative, the religious-authority counterpart to the territorial-authority role of [[Toeankoe Hasjim|Toeankoe Haschim]] and [[Tuanku Muhamat Dawot|Toeankoe Mohamad Daoed]] at [[Keumala]]: where they supplied the political and dynastic form of the resistance, the Habib supplied its active military leadership in the Groot-Atjeh interior. His pre-March [[1877]] report to Van Lansberge — the report that Panglima Polim and Tekoe Moeda Baid were willing to submit — was, in Van Heutsz's diagnosis, one of the three converging misreadings that confirmed the Gouverneur-Generaal in the *verzoeningspolitiek*; his June [[1878]] *inval* was the *aanleiding* for the reversal that ended the policy; and his [[13 October]] [[1878]] submission was the operational proof that the *verzoeningspolitiek* had been the wrong reading of the Groot-Atjeh situation.
+
 ## Account from Kruisheer's *ATJEH '96* — the *Habib* as a title in 1896
 
 The *Habib* — from Arabic حبيب, "beloved", an honorific borne by a descendant of the [[Prophet Muhammad]] through his daughter Fatimah and her husband Ali — was the [[Achehnese]] title applied to Islamic religious notables of Hadhrami Arab, Afghan or other foreign Muslim origin resident in Aceh. While [[Habib Abdurrahman Zahir]] is the most famous *Habib* of the early war period, Kruisheer's *ATJEH '96* names several other Habibs who played prominent roles in the Achehnese resistance of [[1896]]: [[Habib Lhong]] (called "den kling Habib Lhong", identifying him as a foreign — *kling* — Muslim); [[Habib Lengkong]]; [[Habib Samalanga]]; and [[Habib Koeala van Pedir]] (also known as *Said Anajatoellah*). The Habibs brought to the [[Aceh War|Atjeh-oorlog]] a transnational Islamic legitimacy that local [[teungku|teungkoe]]s and [[oelama]]s could not always supply, and their presence reinforced the framing of the war as jihad against the unbeliever Dutch.
@@ -114,6 +154,7 @@ The Habibs represent the transnational Islamic dimension of the [[Aceh War]]. Th
 
 - [[Aceh War]]
 - [[Battle at Krueng Raba]]
+- [[Submission of Habib Abdurrahman (13 October 1878)]]
 - [[Establishment of the bale menhakamah (religious court)]]
 - [[Habib Abdurrahman]]
 - [[Habib Samalanga]]
@@ -129,10 +170,22 @@ The Habibs represent the transnational Islamic dimension of the [[Aceh War]]. Th
 - [[Stoning of a couple for illicit intercourse by Habib Abdurrahman]]
 - [[Teuku Uma]]
 - [[Teungku Tiro (Muhamat Amin)]]
+- [[Toekoe Moeda Baid|Tekoe Moeda Baid]]
+- [[Panglima Polim]]
+- [[Geij van Pittius]]
 - [[Johan Willem van Lansberge|J.W. van Lansberge]]
 - [[K. van der Heijden]]
 - [[P.P. van Bosse]]
 - [[Dipo Negoro]]
+- [[Toeankoe Hasjim|Toeankoe Haschim]]
+- [[Tuanku Muhamat Dawot]]
+- [[IV Moekims]]
+- [[VII Moekims Baid]]
+- [[XXII Moekims]]
+- [[XXVI Moekims]]
+- [[Groot-Atjeh]]
+- [[Pasangan]]
+- [[Gedong]]
 - [[Bloee]]
 - [[Lho' Seumawe]]
 - [[Banda Acheh]]
@@ -143,11 +196,17 @@ The Habibs represent the transnational Islamic dimension of the [[Aceh War]]. Th
 - [[Oelèëbalang]]
 - [[J. Kreemer]]
 - [[C. Snouck Hurgronje]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz]]
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[Day-order of 5 September 1879]]
+- [[Selimoen Expedition (August 1879)]]
 - [[1860]]
 - [[1870]]
 - [[1873]]
+- [[1877]]
 - [[1878]]
 - [[1879]]
+- [[1881]]
 - [[1896]]
 - [[1910]]
 - [[Habib Lhong]]
@@ -175,3 +234,5 @@ The Habibs represent the transnational Islamic dimension of the [[Aceh War]]. Th
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 117, 231, 244, 266.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 13, 17, 20–22. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.

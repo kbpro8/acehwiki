@@ -1,7 +1,7 @@
 ---
 title: Kroëng Raba
-aliases: ["Krueng Raba", "Kroeng Raba", "Kroëng Raba Atjeh", "Krueng-Raba", "Krueng Raba fort", "Kroeng-Raba", "Kroeng-Ralb", "Kroeng-Rababaai", "Kroeng-Raba-baai"]
-tags: [place, kampong, acehnese, aceh-war, fort, west-coast, dutch, colonial, military, iv-moekims, east-coast, 19th-century]
+aliases: ["Krueng Raba", "Kroeng Raba", "Kroëng Raba Atjeh", "Krueng-Raba", "Krueng Raba fort", "Kroeng-Raba", "Kroeng-Ralb", "Kroeng-Rababaai", "Kroeng-Raba-baai", "Krung Raba", "IV Moekims Kroeng Raba"]
+tags: [place, kampong, acehnese, aceh-war, fort, west-coast, dutch, colonial, military, iv-moekims, east-coast, 19th-century, south-coast-of-groot-atjeh, scheepvaartregeling]
 ---
 
 > **Note on the shared place-name.** Two distinct Achehnese localities are referred to as *Kroeng Raba* (or *Kroëng Raba*) in the sources: (i) a kampong in the [[IV Moekims|IV Moekims]] of [[Groot-Atjeh|Groot-Atjeh]] on the west coast — designated by [[J. L. J. H. Pel|General Pel]] in [[1875]] as the western terminus of the coast-stretch to be occupied, fortified in [[July 1876]], and attacked by [[Habib Abdoerrahman|Habib Abdurrahman]] in [[June 1878]] (treated in the upper sections); and (ii) a river and bay on the east coast of [[Groot-Atjeh]] immediately south of [[Koeta Radja]] — the principal east-coast anchorage of the [[Dutch]] naval squadron, and the scene of the [[1896]] naval and amphibious operations against [[Teuku Umar]] and the *landschap* of [[Lepong]] (treated in the lower sections). The two places share a name but lie on opposite coasts of the Achehnese heartland.
@@ -111,6 +111,40 @@ Pel's plan, as he explained it at his [[Pel's Buitenzorg planning session (1875)
 
 The Kroeng Raba was reached on [[15 January]] [[1876]] by a colonne marching from [[Lampagger]] through the [[Blang Kalla]] kloof southward over *bergachtig terrein* (mountainous terrain) into the [[IV Moekims]], reaching Loenga on the right bank of the Kroeng Raba mouth, which would become the *westelijke grens* (western limit) of the new afsluitingslinie. The hoofden there submitted. The colonne returned via the *noordoostelijke weg*, left a post at Boekit Seboen on [[24 January]] [[1876]], and reached Pakan Badak; it then made a *tocht* through the eastern part of the IV Moekims. With the Kroeng Raba mouth in Dutch hands, the IV Moekims were opened to Dutch operations, and the way was prepared for the [[IX Moekims|IX Moekims invasion]] of [[28 January]] [[1876]] through the [[Glitaroem]] pass. The death of Pel at [[Lamjoeng]] on [[24 February]] [[1876]] interrupted the completion of the afsluitingslinie, but the Kroeng Raba anchor held.
 
+## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893)
+
+In [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *De onderwerping van Atjeh*, Kroeng Raba — the coastal village at the south-west of [[Groot-Atjeh]] — is the southern anchor of [[J. L. J. H. Pel|Generaal Pel]]'s [[1875]] coastal-line plan, the western anchor of the Gleh Loedah pass route from the Westkust, and the territorial limit of the Van der Heijden conquest's confirmation.
+
+### Kroeng Raba as the southern anchor of Pel's 1875 coastal line
+
+The first Dutch policy that named Kroeng Raba as an operational anchor was [[J. L. J. H. Pel|Generaal Pel]]'s plan of [[30 April]] [[1875]], submitted by letter to the Gouverneur-Generaal [[Van Lansberge]] and reproduced by Van Heutsz in the [[1893]] tract. The plan prescribed the occupation of *de kuststrook van de vallei van Groot-Atjeh begrepen tusschen Kroeng Raja en Kroeng Raba en van de VI Moekims* — the coastal strip of the valley of Groot-Atjeh bounded between [[Kroeng Raja]] and Kroeng Raba, together with the VI Moekims. Van Heutsz quotes the plan on page 9 of the [[1893]] tract:
+
+> "Het plan toch dat ook, wat Groot-Atjeh betreft, uitgevoerd is, kwam neer op het bezetten van de kuststrook van de vallei van Groot-Atjeh begrepen tusschen Kroeng Raja en Kroeng Raba en van de VI Moekims. 'Door het bezetten van die kuststreek' zeide de Generaal o. a. 'inzonderheid van de vijf toegangen naar zee de kwala's Loé, Gighen, Atjeh, Tjangkoel en Pantjoer wordt Atjeh proper geheel van zee afgescheiden en dus uit een handelsoogpunt handelslijk van ons'" (The plan, which was also carried out as far as Groot-Atjeh was concerned, came down to occupying the coastal strip of the valley of Groot-Atjeh bounded between Kroeng Raja and Kroeng Raba, and the VI Moekims. "By occupying that coastal region," said the Generaal among other things, "in particular the five sea-approaches, the kwala's Loé, Gighen, Atjeh, Tjangkoel and Pantjoer, Atjeh proper is wholly cut off from the sea and thus commercially placed in our hands.").
+
+The Kroeng Raba anchor was, in Pel's plan, the southern limit of the coastal occupation that was to seal Groot-Atjeh from the sea — the same anchor that Borel describes (above) as the western end of the afsluitingslinie. The Kroeng Raja–Kroeng Raba line was, in this prescription, the operational form of Pel's strategic argument: that the seal of Groot-Atjeh from the sea would reduce the interior to *eene verzameling van binnenlandsche negorijen* (a collection of inland villages) and so produce the *onderwerping* (submission) the war was fought to obtain.
+
+### The September 1879 reconnaissance
+
+The September [[1879]] reconnaissance of the conquered Kroeng Raba was the operational complement to the [[XXVI Moekims]] campaign that had culminated in the [[Selimoen Expedition (August 1879)|tocht naar Selimoen]]. The Commandant van het Indische leger visited Atjeh in the same month of September [[1879]] — the month that produced the [[Day-order of 5 September 1879|dagorder]] of [[5 September]] [[1879]] — and confirmed, in his report to the Regeering, that the entire Groot-Atjeh had been brought under Dutch authority. Van Heutsz quotes the Commandant's report on pages 19–20 of the [[1893]] tract:
+
+> "Een feit toch is het, dat ik geheel Groot-Atjeh, voor zoover het door ons bezet is, heb doorkruist; in de XXII Moekims tot onzen uitersten wachtpost Djerir, in de XXVI Moekims tot Kroeng Kali in het Noorden, tot Tjot Lepong in het Oosten, en in de XXV Moekims tot Kroeng Raba" (It is indeed a fact that I have traversed all of Groot-Atjeh, as far as it is occupied by us; in the XXII Moekims as far as our outermost sentry-post Djerir, in the XXVI Moekims as far as Kroeng Kali in the north, as far as Tjot Lepong in the east, and in the XXV Moekims as far as Kroeng Raba).
+
+The reconnaissance into the [[XXV Moekims]] *tot Kroeng Raba* was thus the southern limit of the Commandant's inspection of the conquered Groot-Atjeh — the operational completion of the Van der Heijden conquest's territorial reach, and the empirical proof that the south-western anchor of the Pel line had been substantively incorporated into the conquered territory.
+
+### Kroeng Raba as the western anchor of the Gleh Loedah pass
+
+Kroeng Raba was, in Van Heutsz's later diagnosis of the routes from the [[Westkust]] into Groot-Atjeh, the western anchor of the Gleh Loedah pass — the pass through which the Westkust route from [[Kemala]] entered the IV Moekims Kroeng Raba of Groot-Atjeh. Van Heutsz records the route on page 84 of the [[1893]] tract, in his critique of [[Scherer|Resident Scherer]]'s claim that Groot-Atjeh could be sealed from the Westkust by closing the Gleh Loedah pass: Scherer argued that *men nog over den Barisan naar de Westkust kunnen trekken en dan zoo door den Gleh Loedah pas de IV Moekims Kroeng Raba in Groot-Atjeh kunnen bereiken* (one could still cross the Barisan to the Westkust and then so through the Gleh Loedah pass reach the IV Moekims Kroeng Raba in Groot-Atjeh), but that *die weg is lang en nagenoeg onbegaanbaar* (that road is long and practically impassable), and that by following the same policy on the Westkust as on the Noordkust, one would also be able to find someone willing and able to close the Gleh Loedah pass to all access. Van Heutsz's response — *Ook deze weg naar Groot-Atjeh is te volgen en ook niet zoo bijzonder moeilijk, want men kan hem b. v. geheel te paard afleggen* (This road too to Groot-Atjeh is practicable and also not particularly difficult, for one can traverse it entirely on horseback) — fixed Kroeng Raba as the western anchor of a route whose closure was, in Scherer's diagnosis, the operational prerequisite of the seal of Groot-Atjeh from the Westkust, and whose *begaanbaarheid* (passability) Van Heutsz's diagnosis exposes.
+
+The IV Moekims Kroeng Raba — the sub-federation named for the village — was thus, in Van Heutsz's diagnosis, the south-western territorial form whose closure was the operational complement of the [[Kroeng Raja]] seal on the north-east. The IV Moekims Kroeng Raba was the territory the [[1884]] [[Concentratiebesluit (19 Augustus 1884)|Concentratie]] would abandon to the *geconcentreerde stelling* of [[Kota Radja|Kota-Radja]] — the territory whose abandonment exposed the policy oscillation the [[1893]] tract diagnoses.
+
+### Kroeng Raba and the peper of Loong and the Zuidelijke nederzettingen
+
+Kroeng Raba was, in Van Heutsz's diagnosis of the peper-export of Groot-Atjeh, the export-harbour of the peper the IV Moekims Loong and the Zuidelijke nederzettingen produced. Van Heutsz records the export on page 94 of the [[1893]] tract, in the prescription for the *scheepvaartregeling* on the Groot-Atjeh coast: *Oleh-leh wordt voorts de uitvoerhaven van de peper, die Groot-Atjeh oplevert, ook van die van Loong en een deel der Zuidelijke nederzettingen* (Oleh-leh further becomes the export-harbour of the pepper that Groot-Atjeh produces, also of that of Loong and a part of the Southern settlements). The Kroeng Raba–Loong–Zuidelijke nederzettingen continuum was thus, in Van Heutsz's diagnosis, the south-western peper-export continuum whose closure at [[Olehleh|Oleh-leh]] (after the [[1888]]–[[1890]] closure) gave the *scheepvaartregeling* system its fiscal leverage over the *hoofden* (chiefs) of the IV Moekims Kroeng Raba.
+
+### Significance (Van Heutsz account)
+
+Kroeng Raba's significance in Van Heutsz's [[1893]] tract rests on its being the southern hinge of the Pel plan and the territorial limit of the Van der Heijden conquest's confirmation — the southern anchor of Pel's [[1875]] coastal-line plan; the furthest extent of the September [[1879]] reconnaissance through the [[XXV Moekims]]; the western anchor of the Gleh Loedah pass route from the Westkust; and the export-harbour of the peper the IV Moekims Loong and the Zuidelijke nederzettingen produced.
+
 ## See Also
 
 - [[Kroeng Raba-baai]]
@@ -123,7 +157,28 @@ The Kroeng Raba was reached on [[15 January]] [[1876]] by a colonne marching fro
 - [[Pel's Buitenzorg planning session (1875)]]
 - [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
 - [[Kroeng]]
+- [[Joannes Benedictus van Heutsz]]
+- [[XXV Moekims]]
+- [[Van der Heijden]]
+- [[Day-order of 5 September 1879]]
+- [[Selimoen Expedition (August 1879)]]
+- [[Scheepvaartregeling]]
+- [[Concentratiebesluit (19 Augustus 1884)]]
+- [[Van Teijn]]
+- [[Westkust]]
+- [[Kemala]]
+- [[Olehleh]]
+- [[Scherer]]
+- [[Loong]]
+- [[1875]]
+- [[1879]]
+- [[1884]]
+- [[1888]]
+- [[1890]]
+- [[1893]]
 
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 323–325, 336–342.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 9, 18, 19, 20, 84, 94. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.

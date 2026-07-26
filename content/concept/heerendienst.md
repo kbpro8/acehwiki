@@ -1,7 +1,7 @@
 ---
 title: Heerendienst
-aliases: ["Herendienst (in Atjeh)", "herendienst", "corvée (in Atjeh)", "the Atjeh corvée labour"]
-tags: [concept, colonial, dutch, labour, administration, buitenbezittingen, aceh, infrastructure, roads, acheh, ethical-politiek]
+aliases: ["Herendienst (in Atjeh)", "herendienst", "corvée (in Atjeh)", "the Atjeh corvée labour", "rodi", "heerendienstplicht", "Atjeh heerendienst", "forced labour service", "corvée labour"]
+tags: [concept, colonial, dutch, labour, administration, buitenbezittingen, aceh, infrastructure, roads, acheh, ethical-politiek, atjeh, zelfbestuur, 20th-century]
 description: "The heerendienst — the Dutch colonial corvée labour system, by which the population of the Buitenbezittingen was obliged to provide unpaid labour for public works, principally road construction, before the systematic road plan of the B.O.W. replaced it with paid labour."
 ---
 
@@ -67,6 +67,71 @@ IJzerman (u.l.) thought it unfair to pursue [[J. B. van Heutsz|Van Heutsz]] with
 
 The [[Herendienst (in Atjeh)|herendienst]] system is, in the [[W. H. Vermeulen|Vermeulen]] retrospective, the principal material burden imposed on the Atjehnese population by the post-conquest administration. The [[C. Th. van Deventer|Van Deventer]] critique of [[1908]] is the canonical liberal exposure of the contradiction between the [[Pacificatie van Atjeh|pacificatie]] rhetoric of the [[Ethische Politiek|ethical-policy]] state and the *herendienst* reality of the Atjehnese administration.
 
+## Account from *Zelfbestuursverordeningen Atjeh en Onderhoorigheden* (1930) — the Bireuën regulation (No. 14)
+
+The *[[Zelfbestuursverordeningen Atjeh en Onderhoorigheden|Zelfbestuursverordeningen]]* compilation of [[1930]] records the principal *heerendienst* regulation of the *Zelfbestuur*-period — Reg. No. 14, the *Zelfbestuursverordening* of [[18 August]] [[1928]] for the *onderafdeeling* [[Bireuën]]. The regulation was issued jointly by the three *oeleebalang* of [[Samalanga]], [[Peusangan]], and [[Gloempang-doea]] — the three *Zelfbestuurders* of the Bireuën *landschappen* — under the bilingual signatory formula:
+
+> "Kami Oeleebalang dari Landschap: Samalanga, Peusangan, Gloempan-doea. De Inlandsche Zelfbestuurders van de landschappen: Samalanga, Peusangan en Gloempang-doen hebben na goedkeuring door den Gouverneur van Atjeh en Onderhoorigheden, besloten: Vast te stellen de navolgende regelen betreffende den aard en den duur der persoonlijke diensten, waartoe derzelver onderhoorigen verplicht zijn en de gevallen waarin, benevens de wijze waarop zij kunnen worden gevorderd dan wel afgekocht".
+
+The regulation was approved by the *Gouverneur van Atjeh en Onderhoorigheden* on [[12 September]] [[1928]] and entered into force on [[1 January]] [[1929]]. The comparative table on Page 109 of the compilation extends parallel *regelingen* to all eighteen other *onderafdeelingen* of the Gouvernement — Meureudoe, Sigli, Lammeulo, Padangtidji, Bireuën, Lhokseumawe, Idi, Lhoksoekon, Langsa, Tamiang, Takingeun, Serbeudjadi, Gajo LoeBus, Alaslanden, Tjalang, Tapaktoean, Meulaboh, the Zuidelijke Atjehsche landschappen — all with the same *inwerkingtreding* of [[1 January]] [[1929]]. The synchronised Gouvernement-wide rollout of the heerendienst-*regeling* was, in this sense, the most extensive comparative-table extension in the entire 1930 compilation.
+
+### The liability and the age-limit
+
+The heerendienst was, in the constitutional order of the *[[Zelfbestuur|zelfbestuur]]*, the principal personal-service obligation of the *anak negeri* — the native subjects of a *Zelfbestuur*, as distinct from the *ra'jat Gouvernement sedjati* (direct Gouvernement-subjects) — to the colonial state. Reg. No. 14 §1 fixed the liability in its defining form:
+
+> "(1) Behoudens de in de volgende paragraaf te vermelden uitzonderingen zijn heerendienst-plichtig alle tot de onderhoorigen van het Landschap behoorende werkzame mannelijke ingezetenen".
+
+The liability thus extended to all workbare male inhabitants of the *landschap* who were *onderhoorigen* of the *Zelfbestuur*. The age-limit was set at fifty: "(2) Als werkzaam worden aangemerkt zij, die lichamelijk in staat zijn om zonder gevaar voor hunne gezondheid in eigen levensonderhoud te voorzien en den leeftijd van 50 jaren nog niet hebben bereikt" — those who are physically capable of providing for their own livelihood without danger to their health and who have not yet reached the age of fifty years.
+
+### The exemption categories
+
+Reg. No. 14 §2 established an extensive list of exemption categories, drawn from the constitutional structure of the *zelfbestuur* and the colonial order of precedence:
+
+- **(a)** *ambtenaren en beambten in dienst van het landschap*, hereditary heads in the *landschap*, the heads of the population appointed or recognised by the *Zelfbestuur*, their family members (so far as existing custom and the European *Bestuursambtenaar* agreed), and the members and advisers of the native courts;
+- **(b)** retired Gouvernements officials who had served twenty years or more, with a discretionary exemption for those with shorter service;
+- **(c)** holders of Dutch colonial decorations — persons entitled to wear a Dutch *ridderorde* (knighthood), or decorated with the *medaille* for 12 or 24 years' loyal military service, the *medaille* for *moed en trouw* (courage and loyalty), the *tanda* for *eervol vermelden* (honourable mention), or the *bintang* (star) for *trouw en verdiensten* (loyalty and merit), together with pensioned military personnel;
+- **(d)** the Islamic religious personnel — the *geestelijken* (clergy), the *voorgangers in den godsdienst* (religious leaders), the *moskee personeel* (mosque staff), and the persons charged with the care of *heilige graven* (holy graves) — "allen voor zoover erkend door het Inlandsch Zelfbestuur in overeenstemming met den betrokken Europeeschen Bestuursambtenaar";
+- **(e)** members of the colonial [[Volksraad]] — the People's Council established in [[1918]]; and
+- **(f)** the residual discretionary exemption — persons who, by the nature of their office or their descent, were granted exemption by the *Inlandsch Zelfbestuur* in agreement with the European *Bestuursambtenaar*, with the proviso that existing rights (*reeds verkregen rechten*) would be respected.
+
+Disputes on exemptions were decided by the *Gouverneur van Atjeh en Onderhoorigheden* in highest instance (§3). The first category's family-exemption — "*Familie dari kepala-kepala jang terseboet jang menoe-roet adat tiada dikenakan rodi (hal ini dipotoeskan semoepakat met Ambtenaar Europa)*" — "Families of the chiefs mentioned who according to *[[Adat|adat]]* are not subject to *rodi* (this is decided in agreement with the European official)" — preserved, in the regulation, the *adat* exemptions for the families of *oeleebalang*, *keuchi'*, and *ulama*.
+
+### The maxima and the *koeliearbeid* restriction
+
+Reg. No. 14 §4 established the permissible categories of *heerendiensten*: roads not part of the *groote verharde verkeerswegen* (major paved through-roads); bridges and *dammers*; irrigation works; and the transport of Gouvernements goods and monies and of travelling *landsdienaren* and their goods. The *heerendiensten* were expressly distinguished from the *gampong-meunasah* / *seuneubo'* services — the village-level services the *anak negeri* owed to the *kampong* — which remained outside the scope of the regulation. Reg. No. 14 §5 fixed the maxima:
+
+> "Orang boleh disoeroeh bekerdja rodi sebanjak-banjaknja 22 hari dalam setahoen" / "bedraagt het maximum der in één jaar te verrichten heerendiensten twee en twintig dagen arbeid per heerendienstplichtige".
+
+> "Orang rodi boleh disoeroeh bekerdja selama-lamanja 12 djam sehari" / "De duur van een dag arbeid … bedraagt ten hoogste 12 uren".
+
+The annual maximum was thus 22 days per *heerendienstplichtige*; the daily maximum was 12 hours; and new works (*nieuwe werken*) were limited to 12 days per year. Reg. No. 14 §10 restricted the *heerendienst* to *koeliearbeid* — unskilled labour — and absolutely excluded skilled labour: "De arbeid der heerendienst-plichtigen bepaalt zich uitsluitend tot koeliearbeid." The *anak negeri* were not required to deliver materials or tools (paid or unpaid) for the *heerendienst*, except where analogous Gouvernements-granted exemptions existed elsewhere (§11). The *heerendienst* was further restricted in time: it was to be performed at fixed periods that did not conflict with the *sawah*-cultivation season or the *poeasa*-month (the Ramadan fast):
+
+> "Pekerdjaan memboeat djalan, djembatan, pipa, senneulob dan bandar-bandar seboleh-bolehnja dikerdjakan op waktoe jang tetap jang tiada bersamaan met waktoe orang bekerdja sawah atau pekerdjaan lain boeat penghidoepannja en djangan poela dalam boelan poeasa".
+
+### Substitution, commutation (*afkoop*), and the 8% *collecteloon*
+
+Reg. No. 14 §7 established the substitution and commutation rules. Substitution (§7(2)) was permitted: every *heerendienstplichtige* who was unable to perform his share personally could substitute another work-capable person, accepted by the *kepala* (chief). Commutation (*afkoop*) was regulated in §7(3):
+
+> "(3) Heerendienstplichtigen kunnen desgewenscht door vooruitbetaling van een door het Zelfbestuur in overeenstemming met het Hoofd van Gewestelijk Bestuur vast te stellen bedrag vermeerderd met 8% collecteloon daar, waar die vermeerdering gebruikelijk is, halfjaarlijks hun heerendienst afkoopen".
+
+The *afkoopbedrag* was thus fixed by the *Zelfbestuur* in consultation with the *Hoofd van Gewestelijk Bestuur* — not by a uniform metropolitan tariff — and was payable half-yearly in advance. Where *collecteloon* (collection fee) was customary, the *afkoopbedrag* was increased by 8%. Disputes between the *oeleebalang* and the European *Bestuursambtenaar* on whether a given service fell under the *rodi* or the *gampong-dienst* category were decided by the *Gouverneur van Atjeh en Onderhoorigheden* (§4 lid 2). The *oeleebalang*'s authority to exact paid *rodi-diensten* for *landschapswerken*, B.O.W.-werken, and military landswerken outside the normal *heerendienst* categories required the prior *vergunning* of the *Gouverneur-Generaal van Nederlandsch-Indië* (§4 lid 3).
+
+### The penalty and the cross-references
+
+Reg. No. 14 *Fatsal 2* fixed the penalty for non-performance of the *heerendienst*:
+
+> "(1) Hij, die het verrichten van op grond van deze regeling geëischt heerendiensten zonder geldige redenen nalaat, wordt gestraft met hechtenis van ten hoogste drie dagen of geldboete van tien gulden".
+
+The penalty was thus three days' *hechtenis* (detention) or a *geldboete* of ƒ 10 — a notably lower maximum than the standard ƒ 100 / three months' *hechtenis* that characterised the other regulations in the compilation, reflecting the preventive rather than punitive character of the *heerendienst*-regulation. A repeat offence within six months could be punished with three months' *hechtenis* (Fatsal 2(2)). Reg. No. 14 §13 cross-referenced the Gouvernement-wide *heerendienst*-ordonnantie ([[Staatsblad 1927 No. 206]]) and the *afkoopregeling* ([[Staatsblad 1918 No. 772]]):
+
+> "Bij de uitvoering dezer regeling zullen zooveel mogelijk toegepast worden de door het Nederlandsch-Indisch Gouvernement vastgestelde voorschriften ter uitvoering van de ordonnantie tot regelung der heerendiensten in het rechtstreeks bestuurd gebied van het Gouvernement Atjeh en Onderhoorigheden (Staatsblad 1927 No. 206) en de afkoopregeling bedoeld bij Staatsblad 1918 No. 772".
+
+The Bireuën *zelfbestuursverordening* thus incorporated, by cross-reference, the operational framework of the Gouvernement-wide *ordonnantie* — the constitutional instrument by which the *Zelfbestuur*'s own *heerendienst*-regulation was aligned with the colonial state's *heerendienst*-policy in the directly-administered territory. This is the *zelfbestuur*-period codification of the institution Kreemer records for [[1898]] and the [[1902]] *Instructie* of [[J. B. van Heutsz|Van Heutsz]] — the institutional form the *heerendienst* took in the 1920s after the [[1908]]–[[1918]] regulation-and-commutation reforms Kreemer describes.
+
+### Significance of the 1930 account
+
+The 1930 *heerendienst*-regulation's significance in the [[Aceh Wiki History]] record rests on three things: it codified, in the *Zelfbestuur*-period form, the labour-service obligation Kreemer records for [[1898]] and the [[1902]] *Instructie* — extending it to all *zelfbesturende landschappen* of the Gouvernement by the comparative table on Page 109; it most clearly revealed the constitutional structure of the *zelfbestuur* and the colonial order of precedence the [[Korte Verklaring]] had bound to the colonial state, through its extensive exemption categories (landschap officials, hereditary heads, retired Gouvernements officials, holders of Dutch decorations, *geestelijken*, *Volksraad*-leden) and the *adat* exemptions for the families of *oeleebalang*, *keuchi'*, and *ulama*; and its operational architecture — the 22-day annual maximum, the 12-hour daily maximum, the *koeliearbeid* restriction, the *poeasa*-season avoidance, the locally-negotiated *afkoop* with the 8% *collecteloon* supplement, the cross-references to [[Staatsblad 1927 No. 206]] and [[Staatsblad 1918 No. 772]] — most clearly reveals the combination of labour-extraction and customary accommodation that characterised Dutch indirect rule in Atjeh after the pacification.
+
 ## See Also
 
 - [[Pacificatie van Atjeh]]
@@ -85,6 +150,25 @@ The [[Herendienst (in Atjeh)|herendienst]] system is, in the [[W. H. Vermeulen|V
 - [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
 - [[G. C. E. van Daalen]]
 - [[Van Heutsz's report on Atjeh (June 1908)]]
+- [[Zelfbestuur]]
+- [[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]
+- [[Zelfbestuursverordening]]
+- [[Anak negeri]]
+- [[Oeleebalang]]
+- [[Pantjang Alas]]
+- [[Adat]]
+- [[Bireuën]]
+- [[Samalanga]]
+- [[Peusangan]]
+- [[Gloempang-doea]]
+- [[Volksraad]]
+- [[Korte Verklaring]]
+- [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden]]
+- [[1918]]
+- [[1927]]
+- [[1928]]
+- [[1929]]
+- [[1930]]
 
 ## Sources
 
@@ -95,3 +179,5 @@ The [[Herendienst (in Atjeh)|herendienst]] system is, in the [[W. H. Vermeulen|V
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 273-275.
 
 J. B. van Heutsz, *De onderwerping van Atjeh* (1893), p. 79.
+
+*Zelfbestuursverordeningen Atjeh en Onderhoorigheden*. Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesen van het Departement van Binnenlandsch Bestuur*. Weltevreden: Landsdrukkerij, [[1930]], esp. pp. 80–95 (Reg. No. 14, the *Zelfbestuursverordening* of 18 August 1928 for the *onderafdeeling* Bireuën), and p. 109 (the comparative table extending parallel *regelingen* to all eighteen other *onderafdeelingen*). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.

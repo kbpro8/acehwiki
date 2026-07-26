@@ -59,6 +59,42 @@ After the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habi
 
 Following the [[Campaign against the XXVI Moekims (July 1879)|campaign against the XXVI Moekims]] of early July [[1879]] and the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August [[1879]], Polim, his son [[Radja Koelala|Radja Koelala]], Imam Longbatta, Toewankoe Haschim and others retreated to the interior south of Pedir, "namely at Kemala", beyond Dutch reach.
 
+## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893) — the March 1877 submission feelers
+
+In the [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]*, [[Joannes Benedictus van Heutsz|Van Heutsz]] gives a sustained account of the March [[1877]] submission feelers of Panglima Polim and [[Tekoe Moeda Baid]] — the feelers that confirmed [[Van Lansberge|Gouverneur-Generaal van Lansberge]] in the *verzoeningspolitiek* (policy of conciliation) of March [[1877]] — and of their failure. The Panglima Polim of Van Heutsz's narrative is the Sagi-head *het Sagi hoofd der XXII Moekims* — whose March [[1877]] feelers of submission, reported to the Gouverneur-Generaal in Batavia by the *sayyid* [[Habib Abdoel Rachman]], were one of the three converging signals that confirmed Van Lansberge in the *verzoeningspolitiek*, and whose territory was finally subdued in the [[XXII Moekims campaign (1878)|July–October 1878 XXII Moekims campaign]] of [[Van der Heijden|Generaal van der Heijden]].
+
+### The March 1877 submission feelers
+
+Panglima Polim enters Van Heutsz's narrative in the context of [[Van Lansberge|Gouverneur-Generaal van Lansberge]]'s March [[1877]] visit to Atjeh — the visit undertaken, "ten einde na persoonlijke aanschouwing van den toestand en plaatselijke overtuiging van den stand van zaken, de verdere gedragslijn te kunnen vaststellen in rechtstreeksch overleg met de autoriteiten te Atjeh" (in order, after personal observation of the situation and local conviction of the state of affairs, to be able to establish the further course of action in direct consultation with the authorities at Atjeh). Before his departure from Java, the Gouverneur-Generaal had been told by [[Habib Abdoel Rachman|Hadji Abdoel Rachman]] — the *sayyid* from the [[IV Moekims|IV Moekims of Groot-Atjeh]] — that the two great Sagi chiefs were willing to submit. Van Heutsz records the report and its political consequence:
+
+> "Vóór zijn vertrek van Java, had Z. E. te Batavia nog van een zekere Hadji Abdoel Rachman uit de IV Moekims vernomen, dat zoo- wel het Sagi hoofd der XXII Moekims Panglima Polim- als het Tekoe Moeda Baid zich wilden onder- hoofd der VII Moekims, werpen, doch dat de aanraking van die hoofden met ons bestuur werd tegengewerkt door de hoofden uit Marassa, die belang hadden bij be- stendiging van den tegenwoordigen toestand". — Before his departure from Java, His Excellency had learned at Batavia from a certain Hadji Abdoel Rachman from the IV Moekims, that as well the Sagi-head of the XXII Moekims, Panglima Polim, as the Tekoe Moeda Baid, under-head of the VII Moekims, wished to submit, but that the contact of those heads with our administration was being counteracted by the heads from Marassa, who had an interest in the maintenance of the present state of affairs.
+
+The Habib's report was one of three converging signals — the others coming from Singapore and Johore, and from [[Toeankoe Pangeran Hoesin]]'s presentation at [[Pedir]] — that confirmed Van Lansberge, after his mid-March [[1877]] arrival in Atjeh, in the *verzoeningspolitiek*. And, Van Heutsz notes, the report seemed at first to be confirmed by the conduct of the two Sagi chiefs themselves: "werkelijk openden toen Panglima Polim en Tekoe Moeda Baid onderhandelingen tot onderwerping" — Panglima Polim and Tekoe Moeda Baid did in fact then open negotiations for submission.
+
+### The opening of negotiations with Tekoe Moeda Baid
+
+The negotiations themselves were conducted chiefly through [[Tekoe Moeda Baid]], the under-chief of the [[VII Moekims|VII Moekims of the Sagi XXII]], who met twice with the Dutch *bestuursambtenaren* at [[Telok Kroet|Telok-Kroet]] on the Westkust. Panglima Polim's role, in Van Heutsz's account, is that of the senior Sagi-head whose name is invoked as the political authority behind the negotiations — the *Sagi hoofd der XXII Moekims* — even as the operational conduct of the talks is carried by his under-chief. The arrangement was, on the Atjehnese side, the conventional one: the Sagi-head speaks through his territorial under-chiefs, and the negotiation is conducted at the under-chief level even as the Sagi-head's name is invoked. On the Dutch side, however, the arrangement was read as direct evidence of Panglima Polim's willingness to submit — a reading Van Heutsz would later dismiss as naive: "de door de Atjehsche hoofden aangeknoopte onderhandelingen moesten slechts dienen om tijd te winnen" — the negotiations opened by the Atjehnese chiefs served only to gain time.
+
+### The failure of the submissions
+
+The submissions of both Panglima Polim and Tekoe Moeda Baid did not, in fact, materialise. Van Heutsz records the failure with characteristic economy:
+
+> "Nu dit echter niet geschiedde, was het natuurlijk gevolg dat van onderwerping niets kwam, want bij den vijand ontstond geen gebrek, noch aan geld, noch aan krijgsbehoefte, noch aan levensmiddelen en van den oorlog hadden vele rijke, zoo niet de rijkste streken, nog niets geleden. Een vrijheidlievend en krijgshaftig volk onderwerpt zich niet anders dan gedwongen. De onderwerping van Tekoe Moeda Baid kwam niet tot stand, evenmin die van Panglima Polim". — Now, however, since this did not happen, the natural consequence was that nothing came of submission, for on the enemy's side there arose no want, neither of money, nor of war matériel, nor of food, and many rich, or rather the richest, regions had as yet suffered nothing from the war. A freedom-loving and war-like people does not submit other than by force. The submission of Tekoe Moeda Baid did not come about, no more than that of Panglima Polim.
+
+The diagnosis is double. The first failure is the operational one — the closure of Groot-Atjeh from the sea had not produced, by [[1877]]–[[1878]], the deprivation that would have forced the Sagi-heads to submit; the Atjehners still had "geen gebrek, noch aan geld, noch aan krijgsbehoefte, noch aan levensmiddelen" — no want of money, of war matériel, or of food. The second failure is the anthropological one — "een vrijheidlievend en krijgshaftig volk onderwerpt zich niet anders dan gedwongen" — a freedom-loving and war-like people does not submit other than by force. The *verzoeningspolitiek* had been premised on the assumption that the Atjehners could be conciliated by negotiation; the failure of the Panglima Polim and Tekoe Moeda Baid submissions demonstrated, in Van Heutsz's reading, that no such conciliation was possible without the prior application of force.
+
+### The October 1878 subdual in the XXII Moekims campaign
+
+The reversal of policy came in June [[1878]], when [[Habib Abdoel Rachman]]'s *inval* (incursion) into the Dutch-occupied territory triggered [[Van der Heijden|Generaal van der Heijden]]'s decision to abandon the coastal expeditions and attack the Sagi federations directly. The [[XXII Moekims campaign (1878)|XXII Moekims campaign]] opened in July [[1878]], and within three months produced the submissions of the two figures whose March [[1877]] feelers had inaugurated the *verzoeningspolitiek*. Van Heutsz records the timing:
+
+> "Hoe reeds binnen drie maanden na den aanvang van den eersten veldtocht in de XXII Moekims, de onderwerping van Habib Abdoer Rachman en van Tekoe Moeda Baid op den 13em October 1878 volgde". — How already within three months of the beginning of the first campaign in the XXII Moekims, the submission of Habib Abdoer Rachman and of Tekoe Moeda Baid followed on the 13th of October 1878.
+
+The submission of [[13 October]] [[1878]] — of the Habib and of Tekoe Moeda Baid — closed the operational core of the XXII Moekims campaign. The Sagi of the XXII Moekims itself, whose Sagi-head was Panglima Polim, was thereby subdued: the territorial federation whose chief had feigned submission in March [[1877]] had been, by October [[1878]], conquered by the Van der Heijden campaigns. The campaign would be followed, in [[1879]], by the [[XXVI Moekims campaign (1879)|XXVI Moekims campaign]] and the [[Selimoen tocht (1879)|tocht naar Selimoen]] of September [[1879]], culminating in the [[Day-order of 5 September 1879|dagorder]] of [[5 September]] [[1879]] declaring *geheel Groot-Atjeh ten onder gebragt* (all of Groot-Atjeh subdued).
+
+### Significance (per Van Heutsz)
+
+Panglima Polim's significance in Van Heutsz's narrative is that of the *Sagi hoofd der XXII Moekims* — the senior Sagi-head whose March [[1877]] submission feelers, reported by the *sayyid* [[Habib Abdoel Rachman]], were one of the three converging signals that confirmed Van Lansberge in the *verzoeningspolitiek*; whose negotiations for submission were conducted through his under-chief [[Tekoe Moeda Baid]] of the [[VII Moekims]], and whose submission — like that of Tekoe Moeda Baid — "niet tot stand" came, providing Van Heutsz with the documentary proof that the *verzoeningspolitiek* had been premised on a misreading of Atjehnese political convention; and whose territory was finally subdued in the [[XXII Moekims campaign (1878)|July–October 1878 XXII Moekims campaign]] of [[Van der Heijden|Generaal van der Heijden]], the campaign that produced the [[13 October]] [[1878]] submission of the Habib and of Tekoe Moeda Baid and that closed the first phase of the Atjeh-oorlog. His role in the resistance is, in Van Heutsz's narrative, the territorial-authority counterpart to the active military leadership of the Habib: where the Habib supplied the operational command of the resistance in the Groot-Atjeh interior, Panglima Polim supplied its constitutional Sagi-form — the form of the Sagi-head of the XXII Moekims, the largest and most politically significant of the three Sagi federations of Groot-Atjeh.
+
 ## Teukoe Panglima Polém Moehamad Daoed: the 1896 conflict
 
 In the account given by [[A. J. Piekaar|Dr. A. J. Piekaar]] in *Atjèh and the War with Japan*, **Teukoe Panglima Polém** — in full **Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed** — was the [[Panglima Sagi|Panglima Sagi]] of the [[XXII Mukims|XXII Mukims]] of [[Groot-Atjèh|Great Atjèh]], "one of the great figures of the [[Atjèh War|Aceh War]]," whose conflict with the encroaching Dutch troops in [[1896]] made him a central figure of the late Atjèhnese resistance. Piekaar introduces the old Polém as a representative of the traditional Atjèhnese resistance: "Being a good Mohammedan, for the old Pedém in his youth the acceptance of the authority of the infidel (Atj. *kaphé*) had been an abomination and the conduct of the holy war (Atj. *prang sabi*) a religious duty."
@@ -206,6 +242,17 @@ The Panglima Polem title and lineage epitomise the hereditary military aristocra
 - [[J. L. J. H. Pel]]
 - [[Imam of Longbatta]]
 - [[Habib Abdul Rahman]]
+- [[Habib Abdoel Rachman]]
+- [[Tekoe Moeda Baid]]
+- [[Toeankoe Pangeran Hoesin]]
+- [[Telok Kroet]]
+- [[XXII Moekims campaign (1878)]]
+- [[XXVI Moekims campaign (1879)]]
+- [[Selimoen tocht (1879)]]
+- [[Day-order of 5 September 1879]]
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[IV Moekims]]
+- [[VII Moekims]]
 - [[Toekoe Rajoet Lamkapang]]
 - [[Toewankoe Haschim]]
 - [[Radja Koelala]]
@@ -302,3 +349,5 @@ The Panglima Polem title and lineage epitomise the hereditary military aristocra
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 219, 624.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 13, 16, 18. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.

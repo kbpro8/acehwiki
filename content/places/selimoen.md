@@ -1,10 +1,10 @@
 ---
 title: Selimoen
 aliases: [Selimoen, Selinoen, Atjeh-rivier Selimoen, Last Refuge of the Insurgents]
-tags: [place, kampong, acehnese, aceh-war]
+tags: [place, kampong, acehnese, aceh-war, atjeh, 19th-century, sagi-xxvi, village, groot-atjeh]
 ---
 
-**Selimoen** (also written Selimoen, Selinoen) was a kampong on the [[Aceh River|Atjeh-rivier]] in the interior of [[Acheh|Atjeh]], described as "the last refuge of the insurgents" in the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of [[13 August]] [[13 August]] – [[15 August]] [[15 August]] [[1879]], the final Dutch military operation of the first phase of the [[Aceh War|Atjeh-oorlog]]. The submission of [[Toekoe Moeda Daoed|Toekoe Moeda Daoed]] at Selimoen, and the flight of [[Panglima Polem|Panglima Polem]] and the [[Imam of Longbatta|Imam Longbatta]] to the upper lands of [[Pedir|Pedir]], closed the large-scale operations in Great Acheh; on [[5 September]] [[5 September]] [[1879]] the active columns were dissolved.
+**Selimoen** (also written Selimoen, Selinoen) was a kampong on the [[Aceh River|Atjeh-rivier]] in the interior of [[Acheh|Atjeh]], described as "the last refuge of the insurgents" in the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of [[13 August]] [[13 August]] – [[15 August]] [[15 August]] [[1879]], the final Dutch military operation of the first phase of the [[Aceh War|Atjeh-oorlog]]. The submission of [[Toekoe Moeda Daoed|Toekoe Moeda Daoed]] at Selimoen, and the flight of [[Panglima Polem|Panglima Polem]] and the [[Imam of Longbatta|Imam Longbatta]] to the upper lands of [[Pedir|Pedir]], closed the large-scale operations in Great Acheh; on [[5 September]] [[5 September]] [[1879]] the active columns were dissolved. In [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *De onderwerping van Atjeh*, Selimoen is the operational culmination of the [[K. van der Heijden|Van der Heijden]] conquest — the village whose occupation closed the campaign that had opened in July [[1878]] with the [[XXII Moekims]] operation and that had continued in [[1879]] with the [[XXVI Moekims]] operation, and whose reduction produced the [[Day-order of 5 September 1879|dagorder]] of [[5 September]] [[1879]] declaring *geheel Groot-Atjeh ten onder gebragt* (the whole of Greater Atjeh subdued).
 
 ## Background
 
@@ -26,6 +26,26 @@ The march to Selimoen, which had first been given up, was now, in order to haste
 
 With the march to Selimoen, the operations in Great Acheh came to an end. On [[5 September]] [[5 September]] [1879] the active columns were dissolved. "To be sure, the principal among the hostile chiefs — [[Toewankoe Haschim|Toewankoe Haschim]], who still kept watch over the young pretender to the sultanship [[Toewankoe Daoed|Toewankoe Daoed]] [destined for the sultan's rank in 1874], [[Imam of Longbatta|Imam Longbatta]], [[Panglima Polem|Panglima Polem]], his son [[Radja Koelala|Radja Koelala]] and others — persisted in their hostile attitude, but their means were scattered and they had placed themselves beyond the reach of our troops, namely at [[Kemala|Kemala]], in the interior south of Pedir."
 
+## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893)
+
+In Van Heutsz's [[1893]] tract *De onderwerping van Atjeh*, Selimoen — the village in the [[XXVI Moekims|Sagi of the XXVI Moekims]] of [[Groot-Atjeh]] — is the operational culmination of the Van der Heijden conquest of Groot-Atjeh, the destination of the multi-column Selimoen tocht of September [[1879]] whose completion produced the [[Day-order of 5 September 1879|dagorder]] of [[5 September]] [[1879]] declaring *geheel Groot-Atjeh ten onder gebragt* (the whole of Greater Atjeh subdued). The tocht was a multi-column operation — columns from [[Lamtoba]] and [[Indrapoeri]] visited Selimoen in September [[1879]] — recorded by the Commandant van het Indische leger in the same September [[1879]] report that confirmed the *geheel Groot-Atjeh ten onder gebragt* declaration. Van Heutsz quotes the Commandant's report on page 20 of the [[1893]] tract:
+
+> "Aan het stoute, met beleid ontworpen operatieplan volgens hetwelk Indrapoeri werd overmeesterd, de rechter rivieroever gezuiverd, Gleinn aangetast, de XXVI Moekims van verschillende zijden binnengedrongen en Selimoen door colonnes uit Lamtoba en Indrapoeri bezocht werd, hebben wij het groote succes te danken" (To the bold, well-designed operational plan by which Indrapoeri was overpowered, the right river-bank cleared, Gleinn attacked, the XXVI Moekims penetrated from various sides, and Selimoen visited by columns from Lamtoba and Indrapoeri, we owe the great success).
+
+The dagorder opens: *Dagorder. Officieren, Ambtenaren, Onderofficieren en Soldaten! Met den veldtocht tegen de XXVI Moekims, schitterend besloten door den tocht naar Selimoen; is geheel Groot-Atjeh ten onder gebragt* (Day-order. Officers, Officials, Non-commissioned officers and Soldiers! With the campaign against the XXVI Moekims, brilliantly concluded by the expedition to Selimoen, all of Groot-Atjeh has been subdued). Selimoen is thus named in the very opening sentence of the dagorder — the village whose occupation was the immediate occasion of the *geheel Groot-Atjeh ten onder gebragt* declaration. Van Heutsz's verdict on the chronology is sweeping: *In September 1879, nog geen 14 maanden na het begin van zijne zegerijke veldtochten, had Generaal v. d. Heijden aan alle verzet een einde gemaakt, was hij de door den vijand gevreesde overwinnaar van het aloude manfeliklijke Atjehsche rijk, zetelde het Ned. bestuur volgens de Atjehsche begrippen, door het recht van verovering, op den troon van den Sultan* (In September 1879, barely 14 months after the beginning of his victorious campaigns, Generaal v. d. Heijden had made an end to all resistance, was he the victor — feared by the enemy — of the ancient manly Atjehsche empire, the Dutch administration sat — by Atjehsche conceptions, by the right of conquest — on the throne of the Sultan).
+
+### Selimoen as a route-node
+
+Selimoen was, in Van Heutsz's later diagnosis of the routes from the [[Noordkust]] into Groot-Atjeh, a route-node on the landward path from [[Pedir]] through [[Lampanas]] or [[Kroeng Raja]] and [[Lambada]] southward into the [[XXII Moekims|XXII]] and [[XXVI Moekims|XXVI]]. Van Heutsz records the route on page 84 of the [[1893]] tract: *De beste en meest gebruikte weg van Pedir naar Groot-Atjeh loopt echter langs de Noordkust en kan men deze naar verkiezing volgen tot in Groot-Atjeh, dan wel tot Lampanas of Kroeng Raja en van een dezer plaatsen Zuidwaarts via Lambada naar Selimoen enz* (The best and most-used road from Pedir to Groot-Atjeh, however, runs along the Noordkust, and one can follow this at choice into Groot-Atjeh, or else to Lampanas or Kroeng Raja, and from one of these places southward via Lambada to Selimoen etc.). The Selimoen node was thus the southern terminus of the principal landward route from Pedir through the Noordkust — the route whose closure, in Van Heutsz's diagnosis, was the operational prerequisite of the seal of Groot-Atjeh from the Noordkust.
+
+### Selimoen and the post-1884 resistance
+
+The Van der Heijden conquest of Selimoen did not, however, extinguish the Atjehnese resistance in the XXVI Moekims. Van der Heijden was dismissed *onverantwoordelijk* (irresponsibly) in early [[1881]], and the [[1884]] [[Concentratiebesluit (19 Augustus 1884)|Concentratie]] undid the operational prestige the Van der Heijden conquest had established — *ons prijsgeven van de veroverde positie in de vallei van Groot-Atjeh en ons verhuizen op groote schaal* (our surrender of the conquered position in the valley of Groot-Atjeh and our moving-house on a large scale) into the *geconcentreerde stelling*. The post-[[1884]] resistance in the XXVI Moekims was, in Van Heutsz's narrative, the territory in which [[Tengkoe di Tirou]] — the unifier of the Groot-Atjeh resistance after the Concentratie — would establish his *wereldlijke vlag* (worldly flag) by the over-reach into the worldly authority of the *panglima sagi XXVI*.
+
+### Selimoen and the T. Moeda Rajoet peper of 1890
+
+Selimoen was, in Van Heutsz's later diagnosis of the post-[[1884]] hoeloebalang-politics of the XXVI Moekims, the *opgeschuurde peper* (hoarded pepper) of *T. Moeda Rajoet* — the *hoeloebalang* whose [[1890]] request to export peper via [[Olehleh|Oleh-leh]] under the condition of a *contanten* payment and free Dutch military movement through the XXVI Moekims was, in Van Heutsz's diagnosis, the *voorwaarden* (conditions) the Dutch should never accept. Van Heutsz records the request on page 106 of the [[1893]] tract: *bezit T. Moeda Rajoet bovendien nog al veel in de XXVI Moekims opgeschuurde peper, die hij in 1890 verzocht te mogen uitvoeren via Oleh-leh, onder voorwaarde dat hij f 10000 contanten zou krijgen en wij dan vrij en ongehinderd met onze troepen door de XXVI Moekims zouden kunnen marcheeren. Voorwaarden mogen ons niet gesteld worden, maar met handigen dwang bereikt men ook zijn doel* (T. Moeda Rajoet possesses besides still quite a lot of hoarded pepper in the XXVI Moekims, which in 1890 he requested permission to export via Oleh-leh, on condition that he would receive f 10000 cash and we would then be free and unhindered to march with our troops through the XXVI Moekims. Conditions may not be imposed on us, but with adroit compulsion one also achieves one's goal). The Selimoen-peper of T. Moeda Rajoet was, in Van Heutsz's diagnosis, the fiscal stake whose *handige dwang* — adroit compulsion — would convert the *hoeloebalang* from the post-[[1884]] resistance's passive supporter into the colonial state's active co-operator.
+
 ## See Also
 
 - [[K. van der Heyden]]
@@ -45,7 +65,29 @@ With the march to Selimoen, the operations in Great Acheh came to an end. On [[5
 - [[Kemala]]
 - [[Selimoen Expedition (August 1879)]]
 - [[Aceh War]]
+- [[Joannes Benedictus van Heutsz]]
+- [[XXVI Moekims]]
+- [[XXII Moekims]]
+- [[Day-order of 5 September 1879]]
+- [[Lamtoba]]
+- [[Indrapoeri]]
+- [[Gleinn]]
+- [[Lambada]]
+- [[Kroeng Raja]]
+- [[Pedir]]
+- [[Kota Radja]]
+- [[Tengkoe di Tirou]]
+- [[Concentratiebesluit (19 Augustus 1884)]]
+- [[Olehleh]]
+- [[1878]]
+- [[1879]]
+- [[1881]]
+- [[1884]]
+- [[1890]]
+- [[1893]]
 
-## Source
+## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 107-108.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 18, 19, 20, 22, 84, 106. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.

@@ -1,7 +1,7 @@
 ---
 title: Indrapoeri
-aliases: ["Indrapoeri", "Indrapuri", "Indra Poeri", "bivak Indrapoeri"]
-tags: [place, aceh, aceh-war, koetaradja, 19th-century, cemetery, indrapoeri]
+aliases: ["Indrapoeri", "Indrapuri", "Indra Poeri", "bivak Indrapoeri", "Mesdjid Indrapuri", "the Indrapuri mosque", "emmedji Indrapoeri"]
+tags: [place, aceh, aceh-war, koetaradja, 19th-century, cemetery, indrapoeri, mosque, religious-site, groot-atjeh, village]
 description: "Place near Koetaradja, the residence of colonel Van Heutsz; the site of a mass grave of 28 soldiers killed in the Glé Jeung ambush, in a small neglected cemetery; Van Heutsz's 'Dit graf zal vereeuwigd worden' — but the grave is forgotten; the Genie worked all night on the coffins."
 ---
 
@@ -27,6 +27,38 @@ Reckoning on the success of the surprise, *men had niet aan veel dooden en gewon
 
 Indrapoeri is the place of [[Joannes Benedictus van Heutsz|Van Heutsz]]'s residence, of the *Genie* working all night on the coffins of the 28 Glé Jeung dead, of the unkept mass grave under the tree, and of the *Knddagg: gebouwtje met de graven van den vermaarden Tengkoe Sech Saman di Tiro en zijn bij Anakgaloeng gesneuvelden zoon Tgk. Mat Amin, nabij kampong Moereuë*. *Vereeuwigd* — to be made eternal — was Van Heutsz's word; the forgotten grave under the tree is Zentgraff's rebuke.
 
+## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893)
+
+In [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *De onderwerping van Atjeh*, Indrapoeri — the [[Groot-Atjeh]] village in the vallei of the Atjeh River and the site of the great *Mesdjid Indrapuri* (Indrapuri mosque) — is the seat of two contrasting episodes in the [[K. van der Heijden|Van der Heijden]] campaigns and their aftermath: the September [[1879]] *overmeestering* (overpowering) of Indrapoeri by the Van der Heijden column, and the [[1883]]–[[1884]] *emmedji* (royal installation) of [[Toeankoe Mohamad Daoed]] as sultan by the war party in the Mesdjid Indrapuri itself.
+
+### The Mesdjid Indrapuri: the great interior mosque
+
+The *Mesdjid Indrapuri* — the great mosque of Indrapoeri — was, in Van Heutsz's catalogue of Atjehnese religious-constitutional sites, the *emmedji* (royal installation) mosque of the interior, the place at which the traditional royal installation of the Atjehnese sultan was performed. The *emmedji* ceremony — the royal installation at the Indrapuri mosque — was the constitutional form by which an Atjehnese sultan was legitimised, distinct from both the Dutch-administered *beëediging* (swearing-in) of [[Toeankoe Pangeran Hoesin]] at [[Kota Radja]] in December [[1877]] and the Dutch-sponsored *wederopbouw van de groote Mesdjid Raja bij Kota-Radja* (rebuilding of the great Royal Mosque near Kota-Radja) promised by [[Van Lansberge|Gouverneur-Generaal van Lansberge]] in the *verzoeningspolitiek* (conciliation-politics) of March [[1877]]. The Mesdjid Raja at Kota-Radja — the Dutch-sponsored mosque of the colonial seat — stood in deliberate contrast to the Mesdjid Indrapuri, the interior *emmedji* mosque at which the war-party would install its rival sultan.
+
+### The September 1879 column visit: Indrapoeri overmeesterd
+
+The first Indrapoeri episode was the September [[1879]] *overmeestering* by the Van der Heijden column — the operational climax of the [[XXVI Moekims]] campaign that had begun in July [[1878]] and that was, in Van Heutsz's diagnosis, the *schitterend besloten* (brilliantly concluded) campaign of the Van der Heijden governorship. The campaign is recorded in Van Heutsz's reproduction of the *dagorder* (day-order) of [[5 September]] [[1879]] and its surrounding correspondence:
+
+> "Aan het stoute, met beleid ontworpen operatieplan volgens hetwelk Indrapoeri werd overmeesterd, de rechter rivieroever gezuiverd, Gleinn aangetast, de XXVI Moekims van verschillende zijden binnengedrongen en Selimoen door colonnes uit Lamtoba en Indrapoeri bezocht werd, hebben wij het groote succes te danken" (To the bold, well-designed operational plan by which Indrapoeri was overpowered, the right river-bank cleared, Gleinn attacked, the XXVI Moekims penetrated from various sides, and Selimoen visited by columns from Lamtoba and Indrapoeri, we owe the great success).
+
+The *stoute, met beleid ontworpen operatieplan* — the bold, well-designed operational plan — by which Indrapoeri was *overmeesterd* (overpowered), the right river-bank *gezuiverd* (cleared), [[Gleinn]] *aangetast* (attacked), the XXVI Moekims *binnengedrongen* (penetrated) from various sides, and [[Selimoen]] visited by columns from [[Lamtoba]] and Indrapoeri — was, in Van Heutsz's diagnosis, the *groote succes* of the Van der Heijden governorship. The September [[1879]] *overmeestering* of Indrapoeri was the operational prelude to the [[Day-order of 5 September 1879|dagorder of 5 September 1879]] by which Van der Heijden declared *geheel Groot-Atjeh ten onder gebragt* — all of Groot-Atjeh reduced.
+
+### The 1883–1884 emmedji of Toeankoe Mohamad Daoed
+
+The second Indrapoeri episode was the *emmedji* (royal installation) of [[Toeankoe Mohamad Daoed]] as sultan by the war party, performed in the Mesdjid Indrapuri in [[1883]]–[[1884]] in deliberate counter-point to the Dutch *Concentratie* of [[19 August]] [[1884]]. Van Heutsz records the installation in his catalogue of [[Toeankoe Haschim]]'s manipulation of the rival sultanate: the declaration of majority (*meerderjarigheidverklaring*) and proclamation and homage (*uitroeping en huldiging*) of Mohamad Daoed *in den emmedji Indrapoeri* — in the *emmedji* of Indrapuri — was the constitutional form by which [[Toeankoe Haschim]] legitimised the rival sultanate at [[Kemala]]. The installation was timed to match the Dutch *Concentratie*: *onze concentratie van Haschim's zijde op den voet gevolgd werd door de meerderjarigheidsverklaring en huldiging tot sultan van Toeankoe Mohamad Daoed in de mesdjid Indrapoeri* (our concentration [the Dutch Concentratie] was followed, on Haschim's side, by the declaration of majority and homage of Mohamad Daoed as sultan in the Mesdjid Indrapuri). The timing was the constitutional counter-stroke: as the Dutch withdrew into the *geconcentreerde stelling* of Groot-Atjeh, the war-party installed its sultan in the interior's *emmedji* mosque and constituted the rival central government at Kemala.
+
+### Haschim's manipulation and the rival central government
+
+The *emmedji* installation was the constitutional instrument by which Haschim converted the war-party's candidate into the *eenig wettige gezag* (sole lawful authority) of the rijk. Van Heutsz records the manipulation in his catalogue of Haschim's *meesterlijk* (masterly) exploitation of the Dutch *lijdelijkheid* (passivity): Haschim placed his pupil Mohamad Daoed *op den voorgrond* (in the foreground), having earlier secured the boy's recognition as the lawful successor of the deceased [[Sultan Machmoed Sjah]] (d. [[1874]]), and *zelf van Kemala uit overal bevelen zond, als komende van het eenig wettige gezag, van den sultan* — himself sent orders from Kemala everywhere, as coming from the sole lawful authority, from the sultan. The *emmedji* installation was the constitutional ratification of this manipulation: by installing Mohamad Daoed in the Mesdjid Indrapuri, Haschim gave the rival sultanate the *wettige* (lawful) form the Dutch had refused to give it, and converted the war-party's candidate into the *eenig wettige gezag* whose authority radiated from Kemala across the rijk.
+
+### The Dutch *Civiel Gouverneur* régime and the constitutional impasse
+
+The *emmedji* installation of [[1883]]–[[1884]] was the constitutional counter-stroke to the Dutch *Civiel Gouverneur* régime of [[1881]]–[[1883]] under [[Laging Tobias]]. The substitution of a *Civiel gouverneur* for the military governor Van der Heijden, in early [[1881]], was the political form by which the Regeering abandoned the Van der Heijden *sluiting*-stelsel (closure-system) and replaced it with the *verzoeningspolitiek* of Laging Tobias. Haschim's counter-stroke — the *emmedji* installation of Mohamad Daoed at the Mesdjid Indrapuri — was the constitutional form by which the war-party refused the Dutch substitution and constituted its own *centraal gezag* (central authority) at Kemala. The result was the constitutional impasse Van Heutsz made emblematic of the 1881–1886 *cajoleering*-decade: two rival central governments — the Dutch *Civiel Gouverneur* at Kota-Radja and the Atjehnese sultan at Kemala — each claiming *wettige* authority over the rijk, and the Mesdjid Indrapuri as the constitutional seat of the rival the Dutch could neither suppress nor recognise.
+
+### Significance (Van Heutsz account)
+
+Indrapoeri's significance in Van Heutsz's [[1893]] tract rests on the contrast between the two episodes: in September [[1879]] it was the operational prize of the Van der Heijden campaign — the *stoute, met beleid ontworpen operatieplan* by which *Indrapoeri werd overmeesterd, de rechter rivieroever gezuiverd*; in [[1883]]–[[1884]] it became the constitutional seat of the rival sultanate — the *emmedji* mosque at which the war-party installed Mohamad Daoed as the *eenig wettige gezag* in counter-point to the Dutch *Concentratie*. The Mesdjid Indrapuri thus stands, in Van Heutsz's diagnosis, as the constitutional counter-seat to the Dutch colonial seat at [[Kota Radja]] — the place whose *emmedji* installation gave the war-party's candidate the *wettige* form the Dutch had refused, and converted the Indrapuri mosque into the constitutional seat of the rival central government the Dutch could neither suppress nor recognise.
+
 ## See Also
 
 - [[Koetaradja]]
@@ -40,6 +72,24 @@ Indrapoeri is the place of [[Joannes Benedictus van Heutsz|Van Heutsz]]'s reside
 - [[Beren (dwangarbeiders)]]
 - [[Aceh War]]
 - [[1896]]
+- [[Toeankoe Mohamad Daoed]]
+- [[Toeankoe Haschim]]
+- [[K. van der Heijden]]
+- [[Day-order of 5 September 1879]]
+- [[Kemala]]
+- [[Kota Radja]]
+- [[Groot-Atjeh]]
+- [[Laging Tobias]]
+- [[Van Lansberge]]
+- [[Sultan Machmoed Sjah]]
+- [[XXVI Moekims]]
+- [[Selimoen]]
+- [[Lamtoba]]
+- [[Gleinn]]
+- [[Concentratiebesluit (19 Augustus 1884)]]
+- [[1879]]
+- [[1883]]
+- [[1884]]
 
 ## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
 
@@ -52,5 +102,7 @@ The Sultan's influence greatly increased. In all Atjeh and for all Atjehers he w
 ## Sources
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 18, 20, 30, 40, 44, 53. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX. pp. 49–50.

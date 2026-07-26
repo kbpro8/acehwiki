@@ -1,7 +1,7 @@
 ---
 title: Tuanku Muhamat Dawot
-aliases: [Tuanku Muhamat Dawot, Sultan Muhamat Dawot Shah, Sultan Alaedin Muhamad Daud Shah Juhan, Tuanku Dawot, the Pretender Sultan, Moehamat Dawöt, Mohammad Daud, Muhammad Dawud, Pretendent Sultan, last pretender Sultan of Aceh, T. Radja Pakèh Moehamat Dawöt]
-tags: [person, sultan, pretender, 19th-century, 20th-century, achehnese, colonial]
+aliases: [Tuanku Muhamat Dawot, Sultan Muhamat Dawot Shah, Sultan Alaedin Muhamad Daud Shah Juhan, Tuanku Dawot, the Pretender Sultan, Moehamat Dawöt, Mohammad Daud, Muhammad Dawud, Tëngku Muhammad Dawod, Toeankoe Mohamad Daoed, Mohamad Daoed, Pretendent Sultan, last pretender Sultan of Aceh, T. Radja Pakèh Moehamat Dawöt]
+tags: [person, sultan, pretender, 19th-century, 20th-century, achehnese, colonial, atjeh, aceh-war, succession]
 ---
 
 **Tuanku Muhamat Dawot** — in Kreemer's spelling **Moehamat Dawöt** (also **Mohammad Daud** / **Muhammad Dawud**), in full **Sultan Alaedin Muhamad Daud Shah Juhan**, also written **Sultan Muhamat Dawot Shah** — was the last pretender to the sultanate of [[Acheh|Atjèh]]. Proclaimed sultan as a child in [[1878]] (1296 H, as inscribed on his [[Sarakata|ninefold seal]]) on the death of [[Sultan Mahmut Shah|Sultan Mahmut Shah]] shortly after the [[Loss of the Dalam|loss of the Dalam]] / [[Capture of the Kraton (24 January 1874)|fall of the kraton]] on [[24 January]] [[1874]], he was raised under the guardianship of [[Tuanku Asem|Tuanku Asem]] (Hashim) and maintained for more than two decades a wandering "court" at [[Keumala|Keumala]] and elsewhere in Pidië territory. He finally submitted to the Dutch Government in [[1903]] — effectively ending the Atjèh sultanate — and was banished in [[1907]]. For his formal style and letters patent, see [[Sultan Alaedin Muhamad Daud Shah Juhan]].
@@ -38,6 +38,46 @@ Moehamat Dawöt submitted unconditionally to Dutch authority in January [[1903]]
 
 Tuanku Muhamat Dawot is significant in the encyclopedia of [[Acheh|Atjèh]] history as the last pretender to the sultanate — the figure under whom the shadow court of Keumala finally submitted to the Dutch in [[1903]] and was banished in [[1907]]. Snouck Hurgronje's portrait of the man — "a nonentity in a political sense … in a position neither to do the Dutch much harm nor to help his adherents" — and of his court — which "as soon as it had found a safe place of refuge in Pidie territory, far removed from the theatre of the conflict, resumed the condition it had been in before the war, the scene alone being changed" — together give the measure of the late sultanate's abdication of responsibility. Kreemer's account, in turn, supplies the institutional detail of Moehamat Dawöt's earlier career as Pakèh of Pidië ([[1895]]–[[1896]]), the *sarakata*'s he issued to Gajö *moefi*'s in [[1887]]–[[1888]], and the family network — through his daughter Teungkoe Djam, Pö Tjoet Meurah, and the lines of Sultan Mantsoer Sjah and Sultan Mahmoed Sjah — that bound the Keumala court to the last ruling Sultan and the older royal house.
 
+## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893)
+
+In the [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]*, [[Joannes Benedictus van Heutsz|Van Heutsz]] gives a sustained account of Toeankoe Mohamad Daoed — *Tëngku Muhammad Dawod*, in older spelling *Toeankoe Mohamad Daoed* — as the dynastic instrument of the Atjehnese resistance. The war party at [[Kemala]], under the regency of his *pupilmeester* [[Toeankoe Haschim]], recognised him from [[1883]] as the lawful successor to the late [[Sultan Machmoed Sjah]] (d. [[1874]]) and installed him as sultan of the rijk at the [[Indrapoeri]] mosque — the *emmedji Indrapoeri* — in defiance of the Dutch *Civiel Gouverneur* regime of [[1881]]–[[1883]]. He is, in Van Heutsz's narrative, the figure in whose name [[Toeankoe Haschim]] dispatched orders from Kemala "als komende van het eenig wettige gezag, van den sultan" (as coming from the only lawful authority, from the sultan) — and the candidate whose possible restoration [[Laging Tobias|Gouverneur Laging Tobias]] sought, in the failed overtures of June and October [[1883]], to convert into a Dutch-managed settlement.
+
+### Recognition as lawful successor to Sultan Machmoed Sjah
+
+[[Sultan Machmoed Sjah|Sultan Machmoed Sjah]] had died in [[1874]] — the year after the Dutch conquest of the *kraton* — leaving the sultanate without an installed successor. The Dutch, in the years [[1874]]–[[1881]] under [[Van der Heijden|Generaal van der Heijden]]'s governorship, had treated the Atjehnese sultanate as effectively defunct; the [[Van der Heijden]] [[Day-order of 5 September 1879|dagorder]] of [[5 September]] [[1879]] declaring *geheel Groot-Atjeh ten onder gebragt* had seated the Dutch administration, *volgens de Atjehsche begrippen, door het recht van verovering, op den troon van den Sultan* (according to Atjehnese notions, by the right of conquest, on the throne of the Sultan). The dismissal of Van der Heijden in early [[1881]] and the *Civiel Gouverneur* regime of [[1881]]–[[1883]] that followed opened, for the war party at [[Kemala]], the political space within which an Atjehnese succession could be reconstituted. Van Heutsz records the recognition:
+
+> "in schijn zijn pupil, den jeugdigen Toeankoe Mohamad Daoed, op den voorgrond plaatsende, dien hij met behulp van andere voorname hoofden al vroeger als de wettige opvolger van den in 1874 overleden sultan Machmoed Sjah had weten te doen erkennen". — in appearance placing his pupil, the youthful Toeankoe Mohamad Daoed, in the foreground, whom, with the help of other prominent chiefs, he had already early managed to have recognised as the lawful successor of the sultan Machmoed Sjah, who died in 1874.
+
+The recognition was the work of [[Toeankoe Haschim]] — the *zeer krachtige persoonlijkheid* (very forceful personality) at the head of the *tegenpartij* (opposing party) at Kemala — who, *met behulp van andere voorname hoofden* (with the help of other prominent chiefs), had secured his pupil's recognition as the lawful successor *al vroeger* (already early), i.e., during the years of Dutch *lijdelijkheid* (passivity). Mohamad Daoed was *jeugdig* (youthful) — a minor whose authority was, in substance, his regent's; the recognition was a dynastic act performed by the war party in the name of the pupil, with the substance of authority reserved to the regent.
+
+### Laging Tobias's June 1883 letter urging submission
+
+The first Dutch attempt to engage the sultan-candidate was [[Laging Tobias|Gouverneur Laging Tobias]]'s letter of the beginning of June [[1883]], addressed to Mohamad Daoed and urging him to abandon the war and submit. Van Heutsz records the letter and its diplomatic reticence — Laging Tobias, though his purpose was the *herstel van het sultanaat* (restoration of the sultanate), did not breathe a word of that purpose in the letter itself:
+
+> "hoewel aan Toeankoe Mohamad Daoed, tot wien reeds in 't begin van Juni door den Gouverneur, op een tijdstip, dat daartoe bijzonder geschikt scheen, per brief de aanmaning gericht werd om van verdere strijd aftezien en zich te onderwerpen, sprak ZHEdG. daarin met geen enkel woord over mogelijk herstel van sultanaat hoewel dit zijne bedoeling was en in dezen geest ook aan de Regeering geschreven werd". — although to Toeankoe Mohamad Daoed, to whom already at the beginning of June the Governor, by letter, addressed the admonition — at a moment that seemed particularly suitable for it — to refrain from further strife and to submit, His Excellency said not a single word in it about possible restoration of the sultanate, although that was his intention, and in this sense he also wrote to the Government.
+
+The letter was Laging Tobias's first move in the *derden weg* (third way) he had chosen: not concentration, not renewed aggression, but the attempt to draw the sultan to the Dutch side and so deny the *onverzoenlijke hoofden* (irreconcilable chiefs) their *vereënigingspunt* (rallying point). The reticence on the *herstel van het sultanaat* was a diplomatic precaution; the *bedoeling* (intention) was restoration, and was communicated as such to the *Regeering*.
+
+### Laging Tobias's October 1883 letter to Tekoe Nanta of the VI Moekims
+
+The second Dutch move was the letter Laging Tobias addressed, in the first half of October [[1883]], to the old [[Tekoe Nanta|Tekoe Nanta of the VI Moekims]] (also called [[Tekoe Nanta|Tekoe Lampadang]]) — the letter in which the Governor *doorschemerde* (let it be hinted) that, in case of submission by the chiefs of the war party, *een herstel van het sultanaat met Toeankoe Mohamad Daoed als sultan wel mogelijk was* — a restoration of the sultanate with Toeankoe Mohamad Daoed as sultan would be quite possible. Van Heutsz records the letter and its political effect:
+
+> "liet de Gouverneur van Atjeh daarop in een in de eerste helft van October 1883 aan den ouden Tekoe Nanta der VI Moekims (ook Tekoe Lampadang genoemd) geschreven brief doorschemeren, dat, ingeval van onderwerping van de hoofden der oorlogspartij, een herstel van het sultanaat met Toeankoe Mohamad Daoed als sultan wel mogelijk was, en dit was het eerste blijk, dat de Atjehers van onze zijde kregen omtrent de mogelijkheid van herstel van hun ouden regeeringsvorm, zij het dan ook onder Ned. souvereiniteit". — the Governor of Atjeh then let it be hinted, in a letter written in the first half of October 1883 to the old Tekoe Nanta of the VI Moekims (also called Tekoe Lampadang), that, in case of submission of the chiefs of the war-party, a restoration of the sultanate with Toeankoe Mohamad Daoed as sultan would be quite possible; and this was the first indication that the Atjehnese received from our side concerning the possibility of restoration of their ancient form of government, albeit under Dutch sovereignty.
+
+The October [[1883]] letter was, in Van Heutsz's reading, the *eerste blijk* — the first indication — the Atjehnese had received from the Dutch side that a restoration of their ancient form of government was conceivable, albeit under Dutch sovereignty. The hint came to nothing: the Indische *Regeering*, after the December [[1883]] resignation of [[van Bloemen Waanders|Minister van Koloniën van Bloemen Waanders]] — who had himself raised the *herstel* idea in his August [[1883]] letter to G.-G. [['s Jacob|'s Jacob]] — gave the Governor of Atjeh to understand that *van een herstel van het sultanaat niets weten wilde* (wished to know nothing of a restoration of the sultanate).
+
+### Majority declaration and installation at the Indrapoeri mosque
+
+The Dutch withdrawal from the *herstel* policy opened the way for the war party's own installation. Van Heutsz records the *meerderjarigheidverklaring* (declaration of majority), the *uitroeping en huldiging* (proclamation and homage), and the establishment of the sultan's household at [[Kemala]]:
+
+> "in weerwil, dat het voornaamste hoofd van de tegenpartij Toeankoe Haschim door de [meerderjarigheidverklaring] van Toeankoe Mohamad Daoed en diens uitroeping en huldiging in den [emmedji] Indrapoeri tot sultan van het rijk, gevolgd door de inrichting van des sultans huis te Kemala … voortdurend meer eenheid en samenhang in het Inlandsche bestuur des lands zocht te brengen". — in spite of the fact that the principal head of the opposing party, Toeankoe Haschim, by the [declaration of majority] of Toeankoe Mohamad Daoed and his proclamation and homage in the [great mosque] Indrapoeri as sultan of the realm, followed by the establishment of the sultan's household at Kemala … sought continually to bring more unity and coherence into the native administration of the land.
+
+The installation had three components. The first was the *meerderjarigheidverklaring* — the declaration that the youthful pupil had attained his majority and could exercise sultanate authority in his own name. The second was the *uitroeping en huldiging in den emmedji Indrapoeri* — the proclamation and homage in the great mosque of [[Indrapoeri|Indrapuri]], the centuries-old installation site of the sultans of Atjeh. The third was the *inrichting van des sultans huis te Kemala* — the establishment of the sultan's household at Kemala, the inland seat of the resistance, *voor zoover dat mogelijk was naar de aloude gebruiken* (as far as that was possible according to the ancient customs). The combined effect was the constitutional settlement the Dutch *Civiel Gouverneur* regime of [[1881]]–[[1883]] had been unable to prevent: a sultan recognised by the war party, installed in the ancient mosque, and seated at Kemala — the political and dynastic form of the Atjehnese resistance that would persist, in Van Heutsz's narrative, until the campaigns he himself would lead against Kemala after [[1898]].
+
+### Significance (per Van Heutsz)
+
+Toeankoe Mohamad Daoed's significance in Van Heutsz's narrative is that of the sultan-candidate whom the war party at [[Kemala]] recognised, from [[1883]], as the lawful successor to [[Sultan Machmoed Sjah]] (d. [[1874]]) — the dynastic instrument by which [[Toeankoe Haschim]] reconstituted the Atjehnese sultanate the Dutch conquest of [[1873]]–[[1874]] had been thought to have extinguished; the addressee of [[Laging Tobias|Gouverneur Laging Tobias]]'s June [[1883]] letter urging submission — the first Dutch overture to the sultan-candidate — and the indirect subject of Laging Tobias's October [[1883]] letter to [[Tekoe Nanta|Tekoe Nanta of the VI Moekims]] *doorschemerende* that, in case of submission, *een herstel van het sultanaat met Toeankoe Mohamad Daoed als sultan wel mogelijk was*; and the figure installed as sultan of the rijk at the [[Indrapoeri]] mosque — the *emmedji Indrapoeri* — by the *meerderjarigheidverklaring*, *uitroeping en huldiging* engineered by his regent Toeankoe Haschim, with the sultan's household established at Kemala *voor zoover dat mogelijk was naar de aloude gebruiken*. The installation was the constitutional settlement that closed the *Civiel Gouverneur* regime of [[1881]]–[[1883]] and gave the Atjehnese resistance, in Van Heutsz's reading, "voortdurend meer eenheid en samenhang in het Inlandsche bestuur des lands" (continually more unity and coherence in the native administration of the land). The sultan-candidate would survive the [[Van Teijn]] governorship of [[1886]]–[[1891]] — Van Teijn's *Algemeen voorstel* held that the *sluiting* must be sustained "totdat de partij van verzet te Kemala met Toeankoe Mohamad Daoed het hoofd in den schoot zouden hebben gelegd" (until the party of resistance at Kemala, with Toeankoe Mohamad Daoed, should have laid their heads in their laps, i.e., submitted) — and would be finally dislodged only by the campaigns Van Heutsz himself would lead after [[1898]].
+
 ## See Also
 
 - [[Sultan Alaedin Muhamad Daud Shah Juhan]]
@@ -60,6 +100,25 @@ Tuanku Muhamat Dawot is significant in the encyclopedia of [[Acheh|Atjèh]] hist
 - [[Jan van Swieten|Generaal van Swieten]]
 - [[Sarakata]]
 - [[Gajöland]]
+- [[Joannes Benedictus van Heutsz]]
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[Toeankoe Haschim]]
+- [[Tekoe Nanta]]
+- [[Laging Tobias]]
+- [[Van Teijn]]
+- [[Van der Heijden]]
+- [[Day-order of 5 September 1879]]
+- [[van Bloemen Waanders]]
+- [['s Jacob]]
+- [[Sprenger van Eijk]]
+- [[Kemala]]
+- [[Indrapoeri]]
+- [[VI Moekims]]
+- [[1881]]
+- [[1883]]
+- [[1886]]
+- [[1891]]
+- [[1898]]
 - [[Acheh|Aceh]]
 - [[1874]]
 - [[1878]]
@@ -78,3 +137,5 @@ Tuanku Muhamat Dawot is significant in the encyclopedia of [[Acheh|Atjèh]] hist
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 26, 31, 40. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.

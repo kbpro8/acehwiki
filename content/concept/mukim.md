@@ -1,7 +1,7 @@
 ---
 title: Mukim
-aliases: ["Mukim", "mukim", "the Atjehnese mukim"]
-tags: [concept, government, administrative-unit, achehnese, religious, administration, sultanate, administrative, acheh, territorial]
+aliases: ["Mukim", "mukim", "the Atjehnese mukim", "moekim", "Moekims", "mukims", "Moekim"]
+tags: [concept, government, administrative-unit, achehnese, religious, administration, sultanate, administrative, acheh, territorial, atjeh, aceh-war, 19th-century, zelfbestuur]
 description: "The Acehnese parish — a grouping of gampongs sharing a Friday mosque (meusigit), led by an imeum mukim, forming the intermediate level between the village and the uleebalangship."
 ---
 
@@ -77,16 +77,36 @@ The [[Dr. C. Snouck Hurgronje|Snouck]] analysis records the Atjehnese territoria
 
 The [[Mukim|mukim]] is, in the [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] analysis preserved by the source, the religiously-defined intermediate unit of Atjehnese territorial structure. The [[1892]] [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] advice — that the sultan's party was to be ignored and the *uléebalang*s struck into submission — was based on this analysis.
 
+## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893) — the Sagi federations and the campaigns of 1878–1879
+
+[[J. B. van Heutsz|Van Heutsz]]'s [[De onderwerping van Atjeh (Van Heutsz, 1893)|1893 tract]] treats the *mukim* — in Van Heutsz's spelling *Moekim*, plural *Moekims* — as the building-block of the [[Sagi|Sagi federations]] of [[Groot-Atjeh]]: the [[XXII Moekims|XXII Moekims]] (twenty-two mukims), the [[XXV Moekims|XXV Moekims]] (twenty-five mukims), and the [[XXVI Moekims|XXVI Moekims]] (twenty-six mukims), the three territorial leagues that constituted the ancient core of the [[Aceh Sultanate|Acehnese sultanate]] and that became, in Van Heutsz's narrative, the operational targets of the [[K. van der Heyden|Van der Heijden]] campaigns of [[1878]]–[[1879]]. The use of "*Moekims*" in the names of administrative districts persisted under Dutch colonial rule: the IV Moekims, the VI Moekims, the VII Moekims, the IX Moekims, the XIII Moekim Toengkoep, the III Moekims Lam Bensoë — the named sub-federations of *mukims* within the broader Sagi structure — survived as the recognized subdivisions of Groot-Atjeh into the *Zelfbestuur* period and into the [[1930]] compilation's *landschap* nomenclature.
+
+### The Sagi federations and the campaigns of 1878–1879
+
+In Groot-Atjeh the *mukims* were aggregated into three Sagi federations — the XXII Moekims, the XXV Moekims, and the XXVI Moekims — each headed by a *panglima sagi* and collectively constituting the ancient core of the Acehnese sultanate. The three Sagi's were the constitutional units through which the sultan's authority had historically been mediated, and they became, in Van Heutsz's 1893 narrative, the operational targets of the Van der Heijden campaigns of [[1878]]–[[1879]]. The campaign against the XXII Moekims opened in July [[1878]]; "*binnen drie maanden na den aanvang van den eersten veldtocht in de XXII Moekims, de onderwerping van [[Habib Abdoel Rachman]] en van [[Tekoe Moeda Baid]] op den 13em October 1878 volgde*" — within three months of the opening of the first campaign in the XXII Moekims, the submission of Habib Abdoel Rachman and of Tekoe Moeda Baid on the 13th October 1878 followed. The campaign against the XXVI Moekims followed in [[1879]], culminating in the [[Selimoen tocht (1879)|tocht naar Selimoen]] of September [[1879]]. Van Heutsz's verdict on the chronology is sweeping:
+
+> "Met welken schitterenden uitslag onze veldtochten in de Sagi's XXII en XXVI bekroond werden, wij weten het allen".
+
+— "With what brilliant success our campaigns in the Sagi's XXII and XXVI were crowned, we all know it." The *mukim*-based Sagi federation was thus the operational unit of the Van der Heijden conquest: the named aggregates of *mukims* — XXII, XXV, XXVI — that the Dutch army reduced, one Sagi at a time, in the campaigns of 1878–1879.
+
+### Sub-federations of mukims within the Sagi's
+
+Within the Sagi's, smaller sub-federations of *mukims* — the IV Moekims, the VI Moekims, the VII Moekims, the IX Moekims, the XIII Moekim Toengkoep, the III Moekims Lam Bensoë, the III Moekims Kerkoen, the III Moekims Lamgoegoeb — were the operational units of *oeleebalang* authority. Van Heutsz records the principal sub-federations and their *hoeloebalang*: the *machtige hoofd* [[Tekoe Moeda Baid]] of the [[VII Moekims|VII Moekims van de Sagi XXII Moekims]] — the most powerful chief of the XXII Moekims, whose March [[1877]] negotiations with the Dutch were the immediate occasion of G.-G. [[Van Lansberge|van Lansberge]]'s *verzoeningspolitiek*; the *hoeloebalang* of the [[IX Moekims|IX Moekims der XXV]] (Tekoe Nek Poerba Wangsa, later [[Tengkoe Kota Karang]]); the *hoeloebalang* of the [[VI Moekims|VI Moekims der Sagi XXV]] (T. Nanta Setia Radja of [[Lampisang]]); the *hoeloebalang* of the XIII Moekim Toengkoep (T. Lamgoegoeb Njaq Abas); the *hoeloebalang* of the III Moekims Lamgoegoeb (also T. Lamgoegoeb); the *hoeloebalang* of the IV Moekims (the source of the Hadji Abdoel Rachman report of March 1877). The sub-federation of *mukims* was thus the operational unit of *oeleebalang* authority within the Sagi — the named aggregate of *mukims* held by a single *hoeloebalang* and recognised as his *landschap*.
+
+### The persistence of "Moekims" in the Zelfbestuur-period nomenclature
+
+The use of "*Moekims*" in the names of administrative districts persisted under Dutch colonial rule into the *Zelfbestuur* period. The *Inhoud* (table of contents) of the [[1930]] [[Zelfbestuursverordeningen Atjeh en Onderhoorigheden|compilation]] records the sub-federation nomenclature in the signatory clauses: Reg. No. 13 (the [[Tjalang]] *blanke wapenen* regulation of [[8 January]] [[1927]]) is issued by ten *oeleebalang* of the *onderafdeeling* Tjalang, including the *oeleebalang* of "III Mockins Lam Bensoë" (III Moekims Lam Beusoë). The 1930 compilation's *Inhoud* likewise names "IV Moekims" in the Reg. No. 9a signatory list. The persistence of the *mukim*-based nomenclature in the *Zelfbestuur*-period regulations reflects the survival of the *mukim* as the operational unit of *oeleebalang* authority — the named aggregate of *mukims* held by a single *oeleebalang* and recognised as his *landschap* under the [[Korte Verklaring]]. The *mukim*, in this sense, survived the [[1873]]–[[1904]] war and the [[1898]]-onward *Zelfbestuur* imposition as the basic territorial-religious unit of Acehnese society — the building-block of the Sagi federations of Groot-Atjeh and the named sub-federation of the *Zelfbestuur*-period *landschap*.
+
 ## See Also
 
 - [[XXII Mukims|XXII Moekim's]]
+- [[XXV Moekims|XXV Moekim's]]
+- [[XXVI Mukims|XXVI Moekim's]]
 - [[Gampong|Gampöng]]
 - [[De Islaam in Indonesië (Mellema, 1947)]]
-- [[XXVI Mukims|XXVI Moekim's]]
 - [[Sagi (Atjeh administrative division)|Sagi]]
 - [[1947]]
 - [[Hoeköm]]
-- [[XXV Mukims|XXV Moekim's]]
 - [[R. L. Mellema]]
 - [[Wakeuëh]]
 - [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
@@ -109,6 +129,23 @@ The [[Mukim|mukim]] is, in the [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] anal
 - [[Panglima sagi]]
 - [[Sagi (Atjehnese federation)]]
 - [[Dr. C. Snouck Hurgronje]]
+- [[J. B. van Heutsz]]
+- [[K. van der Heyden|Van der Heijden]]
+- [[Van Lansberge]]
+- [[Habib Abdoel Rachman]]
+- [[Tekoe Moeda Baid]]
+- [[Tengkoe Kota Karang]]
+- [[Lampisang]]
+- [[Selimoen tocht (1879)]]
+- [[Day-order of 5 September 1879]]
+- [[Tjalang]]
+- [[Korte Verklaring]]
+- [[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]
+- [[1878]]
+- [[1879]]
+- [[1893]]
+- [[1927]]
+- [[1930]]
 
 ## Sources
 
@@ -121,6 +158,10 @@ The [[Mukim|mukim]] is, in the [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] anal
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 13, 17, 21–23, 25, 37 (and pp. 47–49, 86–88, 97–100, on the Sagi federations and the Van der Heijden campaigns of 1878–1879). OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*Zelfbestuursverordeningen Atjeh en Onderhoorigheden*. Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesen van het Departement van Binnenlandsch Bestuur*. Weltevreden: Landsdrukkerij, [[1930]], passim (esp. Reg. No. 13 signatory clause, "III Mockins Lam Bensoë", and Reg. No. 9a signatory clause, "IV Moekims"). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
 
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
 

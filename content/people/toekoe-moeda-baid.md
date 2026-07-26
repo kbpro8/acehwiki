@@ -1,7 +1,7 @@
 ---
 title: Toekoe Moeda Baid
-aliases: ["Toekoe", "Moeda", "Baid", "Tunku", "Muda", "the", "head", "of", "VII", "Moekims", "in", "Sagi", "XXII", "Toekoe Baid", "Teukoe Moeda Baid", "Tjut Meutia's brother", "Toekoe Baid of the VII Moekims", "Oeloebalang of the VII Moekims", "half-brother of Toekoe Tjoet Machmoed", "T. Moeda Baid", "T. Baid"]
-tags: [person, uleebalang, acehnese, aceh-war, diplomacy, military]
+aliases: ["Toekoe", "Moeda", "Baid", "Tunku", "Muda", "the", "head", "of", "VII", "Moekims", "in", "Sagi", "XXII", "Toekoe Baid", "Teukoe Moeda Baid", "Tekoe Moeda Baid", "Tëngku Meudé Baid", "the powerful chief of the VII Moekims", "Tjut Meutia's brother", "Toekoe Baid of the VII Moekims", "Oeloebalang of the VII Moekims", "half-brother of Toekoe Tjoet Machmoed", "T. Moeda Baid", "T. Baid"]
+tags: [person, uleebalang, acehnese, achehnese, atjeh, aceh-war, diplomacy, military, resistance-leader, sagi-under-head, 19th-century]
 ---
 
 **Toekoe Moeda Baid** — also written *T. Moeda Baid*, *T. Baid* — was the [[Uleebalang|hoeloebalang]] (hereditary territorial chief) of the [[VII Mukims|VII Mukims]] in the [[XXII Moekims|Sagi der XXII Moekims]] of [[Acheh|Atjeh]], who [[Submission of Toekoe Moeda Baid (14 October 1878)|submitted to the Dutch on 14 October 1878]] — the day after the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman]] — but whose subsequent conduct appeared more and more treacherous, leading to his arrest on [[9 May]] [[9 May]] [[1879]], his transportation to Batavia in July [[1879]], and his banishment by the Governor-General to [[Banda|Banda]].
@@ -40,9 +40,71 @@ Baid's most consequential action in *ATJEH '96* is his written report to the col
 
 Toekoe Moeda Baid's significance in *ATJEH '96* lies in his role as the *hoeloebalang* whose territory connected the western *Lamkrak* mukims with the religious centre of [[Ana' Galong]] and whose intelligence reports on the pretender Sultan's circle helped the Dutch calibrate their response to the political-military crisis of late May [[1896]]. His combination of formal loyalty, tactical conferment with Umar, and written intelligence to the Dutch is representative of the *hoeloebalang* class's impossible position in the spring of [[1896]], and his half-brotherhood with [[Toekoe Tjoet Lamtengah]] illustrates the dense kinship networks which structured the political life of the VII Moekims Baid.
 
+## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893)
+
+In the [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]*, [[Joannes Benedictus van Heutsz|Van Heutsz]] gives a sustained account of Tekoe Moeda Baid — *Toekoe Baid*, in older spelling *Tëngku Meudé Baid* — the under-chief (*onder-hoofd*) of the [[VII Moekims|VII Moekims of the Sagi XXII Moekims of Groot-Atjeh]], brother-in-law (*zwager*) of the *sayyid* [[Habib Abdoel Rachman]] whom Van Heutsz identifies as *de ziel van den tegenstand* — the soul of the resistance — in the years [[1877]]–[[1878]]. Tekoe Moeda Baid is one of the two great Sagi chiefs — the other being [[Panglima Polim|Panglima Polim]], Sagi-head of the [[XXII Moekims]] — whose March [[1877]] submission feelers, reported to [[Van Lansberge|Gouverneur-Generaal van Lansberge]] by the Habib, confirmed the Gouverneur-Generaal in the *verzoeningspolitiek* (policy of conciliation). Van Heutsz records that the actual submission of Tekoe Moeda Baid (together with his brother-in-law the Habib) came on [[13 October]] [[1878]] — the same date as the Habib's submission, per Van Heutsz's account — after the [[XXII Moekims campaign (1878)|July–October 1878 campaign]] of [[Van der Heijden|Generaal van der Heijden]].
+
+### The "machtige hoofd der VII Moekims van de Sagi XXII Moekims"
+
+Tekoe Moeda Baid's territorial authority is defined by Van Heutsz through the formula the Gouverneur-Generaal himself used in the [[Van Lansberge's keerpunt letter (12 October 1877)|12 October 1877 keerpunt letter]]: *het machtige hoofd der VII Moekims van de Sagi XXII Moekims* — the powerful chief of the VII Moekims of the Sagi XXII Moekims. The formula fixes Tekoe Moeda Baid's position in the Atjehnese political order with precision. He was the *onder-hoofd* — the under-chief — of the [[VII Moekims]], one of the territorial sub-federations (*moekims*) that made up the larger [[XXII Moekims|Sagi XXII Moekims]] of Groot-Atjeh, whose Sagi-head was [[Panglima Polim|Panglima Polim]]. He was thus not the Sagi-head himself, but the under-chief whose territory — the VII Moekims, in the Lambaroe sector — was the operational base of the resistance in the Sagi XXII. His authority was, in Van Heutsz's reading, the territorial authority through which the *sayyid* [[Habib Abdoel Rachman]] — the religious and noble figure identified as *de ziel van den tegenstand* — exercised operational command of the resistance; and the kinship tie between them, *zwager* (brother-in-law), bound the religious authority of the Habib to the territorial authority of Tekoe Moeda Baid by marriage.
+
+### The March 1877 submission feelers
+
+Tekoe Moeda Baid enters Van Heutsz's narrative in the same context as [[Panglima Polim|Panglima Polim]]: the [[Van Lansberge|Gouverneur-Generaal van Lansberge]] visit to Atjeh of March [[1877]], and the prior report the Gouverneur-Generaal had received in Batavia from [[Habib Abdoel Rachman|Hadji Abdoel Rachman]] of the [[IV Moekims|IV Moekims of Groot-Atjeh]]. Van Heutsz records the report:
+
+> "Vóór zijn vertrek van Java, had Z. E. te Batavia nog van een zekere Hadji Abdoel Rachman uit de IV Moekims vernomen, dat zoo- wel het Sagi hoofd der XXII Moekims Panglima Polim- als het Tekoe Moeda Baid zich wilden onder- hoofd der VII Moekims, werpen, doch dat de aanraking van die hoofden met ons bestuur werd tegengewerkt door de hoofden uit Marassa, die belang hadden bij be- stendiging van den tegenwoordigen toestand". — Before his departure from Java, His Excellency had learned at Batavia from a certain Hadji Abdoel Rachman from the IV Moekims, that as well the Sagi-head of the XXII Moekims, Panglima Polim, as the Tekoe Moeda Baid, under-head of the VII Moekims, wished to submit, but that the contact of those heads with our administration was being counteracted by the heads from Marassa, who had an interest in the maintenance of the present state of affairs.
+
+The Habib — Tekoe Moeda Baid's own *zwager* — was the source of the report that the under-chief of the VII Moekims, together with his own Sagi-head Panglima Polim, was willing to submit. The kinship tie is significant: the Habib's report to Batavia was not a piece of external intelligence but a communication from within the kinship network of the Sagi XXII resistance, and the Gouverneur-Generaal's receipt of it confirmed, in his own mind, the credibility of the *verzoeningspolitiek* he was about to apply. After the Gouverneur-Generaal's mid-March [[1877]] arrival in Atjeh, the report seemed to be confirmed: "werkelijk openden toen Panglima Polim en Tekoe Moeda Baid onderhandelingen tot onderwerping" — Panglima Polim and Tekoe Moeda Baid did in fact then open negotiations for submission.
+
+### The two Telok-Kroet meetings
+
+The negotiations were conducted chiefly through Tekoe Moeda Baid himself. Van Heutsz records the venue and the form:
+
+> "de aanvankelijk gedane stappen tot onderwerping van Panglima Polim en Tekoe Moeda Baid gevolgd werden door twee besprekingen van laatstgenoemde met de ambtenaren van het bestuur te Telok-Kroet op de Westkust, waarbij hij de laatste maal verklaarde zich aan ons te onderwerpen". — the initially taken steps for the submission of Panglima Polim and Tekoe Moeda Baid were followed by two discussions of the latter with the officials of the administration at Telok-Kroet on the West Coast, in which he the last time declared himself to submit to us.
+
+The two meetings — *twee besprekingen* — were held at [[Telok Kroet|Telok-Kroet]] on the Westkust of Groot-Atjeh, between Tekoe Moeda Baid and the *ambtenaren van het bestuur* — the officials of the administration. At the second meeting, Tekoe Moeda Baid "verklaarde zich aan ons te onderwerpen" — declared himself to submit. The report of the declaration was telegraphed to Batavia, and on [[12 October]] [[1877]] the Gouverneur-Generaal wrote to the Governor of Atjeh the [[Van Lansberge's keerpunt letter (12 October 1877)|keerpunt letter]] — the letter announcing that, after the telegram of [[11 October]] [[1877]] reporting Tekoe Moeda Baid's submission, "Naar alle kenteekenen te oordeelen, is in de Atjehsche zaak thans een belangrijk keerpunt bereikt":
+
+> "Naar alle kenteekenen te oordeelen, is in de Atjehsche zaak thans een belangrijk keerpunt bereikt … en de gewichtige tijding, die mij gisteren per telegram van U gewerd omtrent de onderwerping van Toekoe Baid, het machtige hoofd der VII Moekims van de Sagi XXII Moekims, maakt een einde aan alle twijfelingen nopens den gunstigen keer van zaken". — Judging by all signs, an important turning-point has now been reached in the Atjeh affair … and the weighty tidings, which reached me yesterday by telegram from you concerning the submission of Toekoe Baid, the powerful chief of the VII Moekims of the Sagi XXII Moekims, puts an end to all doubts concerning the favourable turn of affairs.
+
+The Gouverneur-Generaal's letter hailed the submission of "Toekoe Baid, het machtige hoofd der VII Moekims van de Sagi XXII Moekims" as a definitive turn in the Atjeh affair — the end of all doubts about the favourable turn of events. The submission was, however, insincere. Van Heutsz's retrospective verdict is direct: the *verzoeningspolitiek* had been premised on the assumption that the Atjehnese submissions were genuine; the Atjehnese side had used the negotiations to gain time.
+
+### The failure of the submission and the identification of the Habib
+
+The submission of Tekoe Moeda Baid did not, in fact, materialise. Van Heutsz records the failure:
+
+> "De onderwerping van Tekoe Moeda Baid kwam niet tot stand, evenmin die van Panglima Polim … In de eerste helft van 1878 kreeg het bestuur te Atjeh gelukkig de overtuiging, dat het met de onderhandelingen van de voornaamste hoofden te Groot-Atjeh geen ernst was geweest; geleidelijk toch nam het verzet weder toe en juist het ergste tegenover Lambaroe in het gebied van Tekoe Moeda Baid, terwijl spoedig algemeen Habib Abdoer Rachman, zwager van Tekoe Moeda Baid, als de ziel van den tegenstand aangemerkt kon worden". — The submission of Tekoe Moeda Baid did not come about, no more than that of Panglima Polim … In the first half of 1878 the administration at Atjeh fortunately gained the conviction that there had been no seriousness in the negotiations of the principal chiefs of Groot-Atjeh; gradually, indeed, the resistance increased again, and worst of all opposite Lambaroe in the territory of Tekoe Moeda Baid, while soon generally Habib Abdoer Rachman, brother-in-law of Tekoe Moeda Baid, could be regarded as the soul of the resistance.
+
+The double diagnosis is precise. The operational centre of the resistance in the first half of [[1878]] was "het ergste tegenover Lambaroe in het gebied van Tekoe Moeda Baid" — the worst, facing Lambaroe, in the territory of Tekoe Moeda Baid. The VII Moekims, of which Tekoe Moeda Baid was the *machtige hoofd*, was the operational base of the active resistance, and the resistance in that sector was led by the Habib — Tekoe Moeda Baid's *zwager* — whom Van Heutsz identifies as *de ziel van den tegenstand*. The kinship tie between the under-chief and the *sayyid* was, in Van Heutsz's reading, the institutional mechanism by which the religious authority of the Habib was attached to the territorial authority of the VII Moekims: the *zwager* relation bound the two figures in a single resistance network, of which Tekoe Moeda Baid supplied the territorial base and the Habib the operational command.
+
+### The 13 October 1878 submission (per Van Heutsz)
+
+The reversal of policy came in June [[1878]], when the Habib's *inval* (incursion) into the Dutch-occupied territory triggered [[Van der Heijden|Generaal van der Heijden]]'s decision to abandon the coastal expeditions and attack the Sagi federations directly. The [[XXII Moekims campaign (1878)|XXII Moekims campaign]] opened in July [[1878]], and within three months produced the actual submission of the two figures whose March [[1877]] feelers had inaugurated the *verzoeningspolitiek*. Van Heutsz records the timing:
+
+> "Hoe reeds binnen drie maanden na den aanvang van den eersten veldtocht in de XXII Moekims, de onderwerping van Habib Abdoer Rachman en van Tekoe Moeda Baid op den 13em October 1878 volgde". — How already within three months of the beginning of the first campaign in the XXII Moekims, the submission of Habib Abdoer Rachman and of Tekoe Moeda Baid followed on the 13th of October 1878.
+
+The submission of [[13 October]] [[1878]] — of the Habib and of Tekoe Moeda Baid, the *zwagers* — closed the operational core of the XXII Moekims campaign (Van Heutsz's date of [[13 October]] [[1878]] for both submissions is one day earlier than the [[14 October]] [[1878]] date given in the *Atjeh-Album* tradition for Tekoe Moeda Baid's swearing-in; the discrepancy reflects either a difference in the event being dated — the act of submission versus the formal swearing-in — or a difference of source). The under-chief of the VII Moekims whose March [[1877]] *Telok-Kroet* declaration had been hailed by the Gouverneur-Generaal as the *keerpunt* of the Atjeh affair had, eighteen months later, been compelled to submit by the campaign his insincerity had provoked.
+
+### Significance (per Van Heutsz)
+
+Tekoe Moeda Baid's significance in Van Heutsz's narrative is that of the *machtige hoofd der VII Moekims van de Sagi XXII Moekims* — the powerful under-chief of the VII Moekims of the Sagi XXII Moekims of Groot-Atjeh — whose March [[1877]] submission feelers, reported to [[Van Lansberge|Gouverneur-Generaal van Lansberge]] by his *zwager* [[Habib Abdoel Rachman]], were one of the three converging signals that confirmed the Gouverneur-Generaal in the *verzoeningspolitiek* of March [[1877]]; who was the under-chief whose two *Telok-Kroet* meetings with the Dutch *bestuursambtenaren* produced the telegram of [[11 October]] [[1877]] from the Governor of Atjeh and the [[Van Lansberge's keerpunt letter (12 October 1877)|12 October 1877 keerpunt letter]] of [[Van Lansberge|Gouverneur-Generaal van Lansberge]] — a letter that would later be revealed, by the failure of the submission, to have been premised on insincere negotiations; who was the *zwager* of the Habib, the kinship-tie by which the religious authority of the *sayyid* was attached to the territorial authority of the VII Moekims, and the operational base of the resistance in the Lambaroe sector in the first half of [[1878]]; and who was the under-chief whose actual submission, together with that of his *zwager* the Habib, came on [[13 October]] [[1878]] after the [[XXII Moekims campaign (1878)|XXII Moekims campaign]] of [[Van der Heijden|Generaal van der Heijden]]. His role in the resistance is, in Van Heutsz's narrative, the territorial counterpart to the religious authority of the Habib: where the Habib supplied the religious sanction and the operational command, Tekoe Moeda Baid supplied the territorial base — the VII Moekims of the Sagi XXII — from which the resistance was conducted.
+
 ## See Also
 
 - [[Habib Abdoerrahman]]
+- [[Habib Abdoel Rachman]]
+- [[Panglima Polim]]
+- [[Joannes Benedictus van Heutsz]]
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[Van Lansberge's keerpunt letter (12 October 1877)]]
+- [[Van Lansberge's visit to Atjeh (mid-March 1877)]]
+- [[IV Moekims]]
+- [[Groot-Atjeh]]
+- [[Telok Kroet]]
+- [[XXII Moekims campaign (1878)]]
+- [[Lambaroe]]
+- [[11 October]]
+- [[12 October]]
+- [[13 October]]
 - [[K. van der Heyden]]
 - [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[XXII Moekims]]
@@ -111,3 +173,5 @@ Toekoe Moeda Baid's significance in *ATJEH '96* lies in his role as the *hoeloeb
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 14–15 (De Geestelijkheid in Atjeh — Habib Abdoe'r Rachman).
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 143, 167, 219, 308.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 13–15, 16, 18. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.

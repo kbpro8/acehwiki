@@ -1,10 +1,10 @@
 ---
 title: Tjalang
-aliases: [Tjalang, Tjalang, Tjalang onderafdeeling, Tjalang subdivision]
-tags: [place, hoofdplaats, westkust, achehnese]
+aliases: [Tjalang, Tjalang onderafdeeling, Tjalang subdivision, Tialang]
+tags: [place, hoofdplaats, westkust, achehnese, onderafdeeling, atjeh, colonial, 20th-century, zelfbestuur]
 ---
 
-**Tjalang** was the hoofdplaats of the onderafdeeling Tjalang of the [[Afdeeling Westkust van Atjeh|Afdeeling Westkust van Atjeh]] — a *bestuursstandplaats* on the northern Westkust selected, in [[1908]], in preference to the more naturally favoured Poeloe Radja, and the seat of the *keudjeuroeënschap* of Kroeëng Sabé, one of the two great *keudjeuroeënschappen* that had arisen from the disintegration of the old sultanaat of Daja. *De Buitenbezittingen* records the choice as a political rather than a geographical one, and notes the establishment, in recent years, of new wegennet that has begun to concentrate in Tjalang.
+**Tjalang** was the hoofdplaats of the onderafdeeling Tjalang of the [[Afdeeling Westkust van Atjeh|Afdeeling Westkust van Atjeh]] — a *bestuursstandplaats* on the northern Westkust selected, in [[1908]], in preference to the more naturally favoured Poeloe Radja, and the seat of the *keudjeuroeënschap* of Kroeëng Sabé, one of the two great *keudjeuroeënschappen* that had arisen from the disintegration of the old sultanaat of Daja. *De Buitenbezittingen* records the choice as a political rather than a geographical one, and notes the establishment, in recent years, of new wegennet that has begun to concentrate in Tjalang. In the [[1930]] compilation of *[[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]*, Tjalang appears as an *onderafdeeling* of the afdeeling Westkust van Atjeh in the [[Gouvernement Atjeh en Onderhoorigheden]], comprising ten *zelfbesturende landschappen* whose *oeleebalang* collectively issued the *wapensmeden-verordening* of [[8 January]] [[1927]] (Reg. No. 13) — the only regulation in the 1930 compilation dealing with the supervision of blacksmithing and the manufacture of *blanke wapenen* (klewangs, sikins, rentjongs).
 
 ## The Kroeëng Sabé keudjeuroeënschap
 
@@ -39,6 +39,22 @@ The subdistrict "offers little space for human settlements. The wild mountain la
 "The last military action of significance mentioned in the 'Introduction' took place in [[1933]] in the neighboring Lheng," so that "continuous vigilance and military preparedness remained required in this region. Garrisons at Tjalang and Lam Nó and a detachment at Lam Soedjèn in Lhóng … made intensive patrolling possible." After the outbreak of the war with Germany, the garrisons at Lam Nó and Lam Soedjèn were abolished, while that at Tjalang was reduced to "1 brigade of 19 men." When the uprising broke out, "the entire military force consisted of two brigades, one in Tjalang and one in Lam Né, both under the command of a sergeant." The revolt was "carried out in consultation with the Lageuën resistance center" under Teukoe Sabi, whose younger brother Teukoe Poelèh acted as "*kepala berontak*" (head of the uprising). At the [[8 December|8 December]] [[1943]] ceremony of the *soerat poedjian* (certificates), "Teukoe Sabi, as representative of the 155 fallen and wounded in Tjalang" appeared as one of three representatives of the "martyrs of the resistance movement." After the revolt, Tjalang was evacuated on the morning of [[14 March]] [[1942]] by the acting troops commander of [[Meulabóh|Meulabóh]], captain L. H. J. Kloprogge; "the keudè Lageuën, which had been spared by captain Kloprogge, had been razed to the ground." As first *gun-chó* to act under the Japanese, Teukoe Ali, *oelèëbalang* of Keureukón, a brother-in-law of the sagi head Teukoe Nja' Arif, was installed.
 
 
+## Account from *Zelfbestuursverordeningen Atjeh en Onderhoorigheden* (1930) — the regulatory record
+
+In the [[1930]] compilation of *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Tjalang was an *onderafdeeling* of the afdeeling Westkust van Atjeh in the [[Gouvernement Atjeh en Onderhoorigheden]] on the west coast of [[Atjeh|Aceh]], comprising ten *zelfbesturende landschappen* whose *oeleebalang* collectively issued the *wapensmeden-verordening* of [[8 January]] [[1927]] (Reg. No. 13) — the only regulation in the 1930 compilation dealing with the supervision of blacksmithing and the manufacture of *blanke wapenen* (klewangs, sikins, rentjongs). The signatory clause of Reg. No. 13 names all ten *oeleebalang* individually: *Kami Oeleebalang dari Landschap: Teunom, Kroeeng Sabe, Rigaih, Lageuen, Pate', Lho Kroeët, Koenla Oenga, III Moekims Lam Beusoë, Koeala Dajaa dan Kloeang* (We, the Oeleebalang of the *Landschap*: Teunom, Kroeeng Sabe, Rigaih, Lageuen, Pate', Lho Kroeët, Koenla Oenga, the III Moekims Lam Beusoë, Koeala Dajaa, and Kloeang).
+
+### The wapensmeden-verordening of 8 January 1927 (Reg. No. 13)
+
+The *wapensmeden-verordening* of [[8 January]] [[1927]] is the only regulation in the 1930 compilation dealing with the supervision of blacksmithing and the manufacture of *blanke wapenen* (white weapons — i.e. edged weapons). Its full Dutch title is *Zelfbestuursverordening van 8 Januari 1927 houdende regeling van het toezicht op het smeden en den aanmaak van blanke wapenen in de landschappen der onderafdeeling Tjalang (goedgekeurd door den Gouverneur van Atjeh en Onderhoorigheden op 18 Maart 1927)* (Self-government regulation of 8 January 1927 establishing a regulation on the supervision of blacksmithing and the manufacture of edged weapons in the *landschappen* of the *onderafdeeling* Tjalang, approved by the Gouverneur van Atjeh en Onderhoorigheden on 18 March 1927). The legal bases invoked are the [[Zelfbestuursregelen 1919|Staatsblad 1919 No. 822 en 823]]. The regulation's preamble characterises its scope as the supervision of blacksmithing in the various *landschappen* and the prohibition of the manufacture of *blanke wapenen* (klewangs, sikins, rentjongs, etc.). The regulation imposes a register-and-permit system on blacksmiths (*smidsambacht* / *pertockangan besi*): the *oeleebalang* keeps a *register model A* of all licensed smiths; each smith carries a personal *verklaring volgens model B* which must be shown to *overheidspersonen* or *politiebeambten* on demand; manufacture or repair of *klewangs/sikins/rentjongs* without *oeleebalang* permission is prohibited, with *klewang of sikin* defined as having a *snijkant* (cutting edge) longer than 50 cm. The penalty is *boete tot f 100* or *3 months' gevangenisstraf*. The comparative table on Page 97 extends parallel *regelingen* to Meulaboh (18-12-1926, 18-3-1927), Tapaktoean (24-6-1927), the Zuidelijke Atjehsche landschappen (20-2-1927, 18-3-1927), and Simeulool (18-3-1927) — all *één maand na goedkeuring door den Gouverneur* (one month after approval by the Gouverneur). The choice of the *onderafdeeling* Tjalang as the originating seat of the *wapensmeden*-regeling reflects the *onderafdeeling*'s historical role as a centre of indigenous iron-working and weapon-manufacture on the west coast.
+
+### Tjalang in the Pantjang Alas and parallel-regelingen tables
+
+The *onderafdeeling* Tjalang is one of the original *onderafdeelingen* of the 1912 *Pantjang Alas* regime, with a *Pantjang Alas* regeling dated [[15 April]] [[1912]] recorded in the comparative table of Reg. No. 2: *Tjalang 15-4-1912* — i.e. Tjalang's *Pantjang Alas* regeling is one of the seven earliest *landschap*-level *Pantjang Alas* regelingen of April 1912. The Page 18 comparative table records Tjalang's *Pantjang Alas* rates: *Tjalang …… 15-4-1912 caoutchoue, getah pertjah, damar, rotan, vogelnostjes, was, benzoë en hout*. The Page 54 comparative table extends the Alaslanden cattle-slaughter tax (Reg. No. 5) to Tjalang (1914). The Page 109 comparative table extends the Bireuën heerendienst-regeling (Reg. No. 14) to Tjalang — *Tjalang 11 Febr.* — with the synchronised *inwerkingtreding* of [[1 January]] [[1929]]. The Page 123 comparative table extends the Alaslanden cattle-transport regulation (Reg. No. 16) to Tjalang — *Tjalang 15 10 1914* (15 October 1914). The Page 129 comparative table extends the Lhoksoekon klappercultuur-*verordening* (Reg. No. 18a) to Tjalang. The Page 97 comparative table extends the wapensmeden-verordening (Reg. No. 13) to Meulaboh, Tapaktoean, Zuidelijke Atjehsche landschappen, and Simeuloe. The Page 72 comparative table extends the Peureula' inkomstenbelasting (Reg. No. 9a) to Tjalang with dagteekening 20 Dec 1920, *inwerking* 1-1-1921.
+
+### Significance (Zelfbestuursverordeningen account)
+
+Tjalang's significance in the 1930 compilation rests on its being the originating seat of the only *wapensmeden-verordening* in the compilation — Reg. No. 13 of [[8 January]] [[1927]], the only regulation in the book dealing with the supervision of blacksmithing and the manufacture of *blanke wapenen* (klewangs, sikins, rentjongs), with its register-and-permit system on blacksmiths and its 50-cm *snijkant* definition of the *klewang of sikin*; one of the original *onderafdeelingen* of the 1912 *Pantjang Alas* regime — its *Pantjang Alas* regeling of [[15 April]] [[1912]] is one of the seven earliest *landschap*-level *Pantjang Alas* regelingen in the entire compilation; and the demonstration — through its ten-*oeleebalang* signatory clause (the largest individually-named signatory-collective in the compilation after Meulaboh's ten in Reg. No. 19) and through its recurrent role as a recipient of parallel *regelingen* across nearly every regulation in the book — of the west-coast regulatory pattern: a fragmented *onderafdeeling* of many small *landschappen*, each with its own *oeleebalang*, collectively issuing regulations that the Gouvernement then extends by parallel *regelingen* to the other west-coast and south-coast *onderafdeelingen*.
+
 ## See Also
 
 - [[Meulabôh]]
@@ -61,9 +77,18 @@ The subdistrict "offers little space for human settlements. The wild mountain la
 - [[1933]]
 - [[1941]]
 - [[1943]]
+- [[Westkust]]
+- [[Zelfbestuur]]
+- [[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]
+- [[Pantjang Alas]]
+- [[1912]]
+- [[1917]]
+- [[1930]]
 
-## Source
+## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 11, 15–16, 25, 29–30, 38, 56–59, 126, 216–217.
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter III § 3, Chapter V § 4.
+
+*Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesten van het Departement van Binnenlandsch Bestuur*, Weltevreden: Landsdrukkerij, 1930, esp. Reg. 13 (p. 83) and comparative tables passim. OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.

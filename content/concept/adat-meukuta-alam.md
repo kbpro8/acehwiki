@@ -1,7 +1,7 @@
 ---
 title: Adat Meukuta Alam
-aliases: [Adat Meukuta Alam, Makota Alam, Adat Kanun, Edicts of Meukuta Alam, Edicts of Iskandar Muda, Laws of Meukuta Alam, Code of Sultan Iskandar Muda]
-tags: [document, law, adat, royal-decree, political, governance, historical, sultanate, achehnese]
+aliases: [Adat Meukuta Alam, Makota Alam, Adat Kanun, Edicts of Meukuta Alam, Edicts of Iskandar Muda, Laws of Meukuta Alam, Code of Sultan Iskandar Muda, Peratoeran Makota Alam, Peraturan Mahkota Alam, de Makota alam, het wetboek van Iskandar Muda, Laws of the Crown of the World]
+tags: [document, law, adat, royal-decree, political, governance, historical, sultanate, achehnese, atjeh, aceh-war, 19th-century, colonial]
 description: "The body of written ordinances ascribed to Sultan Meukuta Alam (Iskandar Muda, reigned 1607–1636), regarded by the Achehnese as the chief monument of royal legislation in their history."
 ---
 
@@ -53,6 +53,50 @@ The *Adat Meukoeta Alam* was a *[[Sarakata|sarakata]]* (royal edict) attributed 
 
 The *Adat Meukoeta Alam* mentions several officials who were under direct Sultan authority and resided in **Koeta Dar al-Doenja** (the Sultan's capital), including **Teukoe Nanta Seutia** — the hereditary ambtsnaam of the Oelèëbalang's of the VI Moekim's (sagi XXV). The edict thus provides evidence of the administrative structure under Iskandar Moeda.
 
+## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893) — the constitutional framework
+
+[[J. B. van Heutsz|Van Heutsz]]'s [[De onderwerping van Atjeh (Van Heutsz, 1893)|1893 tract]] invokes the *Peratoeran Makota Alam* — in Van Heutsz's spelling also *de Makota alam*, the *Adat Makota Alam*, or the *Laws of the Crown of the World* — as the constitutional framework within which the sultan's authority had historically been exercised. The code fixed the succession of the *panglima sagi*, the installation of the *oeleebalang*s, and the customary *huldiging* by which the sultan's recognition was constituted. Van Heutsz invokes the code as part of the constitutional order to argue that the [[K. van der Heyden|Van der Heijden]] conquest of [[1878]]–[[1879]] had, *volgens de Atjehsche begrippen, door het recht van verovering*, seated the Dutch administration *op den troon van den Sultan*.
+
+### Attribution to Sultan Iskandar Muda and the unified sultanate
+
+The *Peratoeran Makota Alam* is, in Van Heutsz's argument, the constitutional legacy of [[Sultan Iskandar Muda|Sultan Iskandar Muda]] — the early-17th-century sultan whose reign is, in Van Heutsz's diagnosis, the unique historical instance of unified Atjehnese authority. Van Heutsz invokes the Sultan on page 23 of the 1893 tract, in the counterfactual of what the Van der Heijden governorship would have completed had it not been dismissed in early [[1881]]:
+
+> "In het sedert 11/2 eeuw door anarchie zoo verdeelde en verbrokkelde rijk zou dan weldra éénheid zijn en de Atjehers zouden allerwegen gezien en gevoeld hebben, dat de te Kota-Radja gevestigde Ned. autoriteit de eenig machthebbende was in het geheele rijk, wiens bevelen evenzeer moesten worden gehoorzaamd als die van den in 't begin der 17e eeuw over Atjeh regeerenden alom bekenden sultan Iskander Moeda, den eenigen, wiens naam nog met een aureool omgeven is en die in de herinnering van alle Atjehers voortleeft als de stichter van Atjeh's grootheid".
+
+The invocation is, in Van Heutsz's argument, doubly significant. First, it identifies Iskandar Muda as the unique figure of unified Atjehnese greatness — the only sultan whose name retained the *aureool* in Atjehnese memory, and so the only sultan whose authority had been recognised throughout the *geheele rijk*. Second, it identifies Iskandar Muda as the constitutional legislator — the sultan whose *Peratoeran Makota Alam* had been the framework within which the unified authority had been exercised, and so the framework whose memory the Dutch authority at [[Kota Radja|Kota-Radja]] would have had to assume to be received as legitimate.
+
+### Provisions on *panglima sagi* succession
+
+The most extensive provisions of the *Peratoeran Makota Alam* Van Heutsz cites are those governing the succession of the *panglima sagi* — the Sagi-head whose installation, in the code's framework, was the constitutional act by which the Sagi-federation's recognition was constituted. Van Heutsz cites the provisions on page 104 of the 1893 tract, in the prescription half of the tract, with reference to the translation by [[K. F. H. van Langen|Van Langen]]:
+
+> "In de Makota alam b. v. staat daaromtrent: (zie vertaling van Langen) 'I geval een panglima sagi sterft, is het plichtmatig voor de oelebalangs in die sagi, er den vorst eerbiedig kennis van te geven' en verder: 'Indien de oelebalangs in de sagi den vorst geen kennis doen dragen van het overlijden van hun panglima sagi, dan zijn die oelebalangs schuldig. Zij moesten dan hiervoor vergiffenis vragen onder voldoening van eene opgelegde boete'".
+
+The provision is, in Van Heutsz's diagnosis, the constitutional form by which the sultan's authority over the Sagi-succession was exercised: the *oelebalangs* were obliged, on the death of their *panglima sagi*, to give the sultan *eerbiedig kennis* — respectful notice — and were *schuldig* — guilty — if they failed to do so, liable to a *boete* — fine — and a demand for *vergiffenis*. The provision is, in this sense, the constitutional form of the sultan's supremacy over the Sagi-federations: not the power to appoint the *panglima sagi*, but the power to be informed of his death and to receive the *oelebalangs*'s petition for *vergiffenis* when they had failed in their duty.
+
+Van Heutsz's prescription, in the 1893 tract, was that the Dutch should require the same *huldiging* from the newly-chosen *panglima sagi*: "*Thans moet men eischen, dat ook de nieuw gekozene hulde brengt aan ons als souverein; tegenover een krachtig bestuur mag dat niet nagelaten worden, al bestaat ook het feit, dat de hoofden zich tegenover de sultans van deze en de vorige eeuw weinig stoorden aan de gebruiken*". The *Peratoeran Makota Alam*'s provision was, in this prescription, the constitutional form the Dutch should appropriate: the requirement that the *nieuw gekozene* — the newly chosen Sagi-head — pay *huldiging* to the Dutch as *souverein*, on the model of the *gebruiken* the *Peratoeran Makota Alam* prescribed for the sultan's recognition.
+
+### Provisions on *oelebalang* installation
+
+The *Peratoeran Makota Alam* also contained, in Van Heutsz's citation, provisions governing the installation of the *oelebalang* — the territorial chief whose installation was, in the code's framework, the constitutional act by which the Sagi-federation's recognition of a subordinate chief was constituted. Van Heutsz cites the provisions on page 104:
+
+> "In de Makota alam b. v. staat daaromtrent: 'In geval een panglima sagi of oelebalang behoort te worden aangesteld in een der drie sagi's van Groot-Atjeh of zijne onderhoorigheden, behooren zijne erfgenamen te overleggen met de oudsten in het bewuste gebied, die in het bezit zijn hunner verstandelijke vermogens, te weten de ketjiks, wakils en imams benevens de oelama's omtrent zijn opvolger. Indien men zijn opvolger heeft gevonden onder zijne erfgenamen richtte men een feest aan, en vergaderen alle naburige oelebalangs om hem tot de waardigheid te verheffen en hem den titel te geven, die hem toekomt. Daarna moet hij (de opvolger) zijne opwachting maken bij den vorst en een presenteerblad medebrengen, waarop zich zijn huldebewijs bevindt, verschillend al naar gelang zijn rang is. Hij ontvangt bij die gelegenheid 21 saluutschoten'".
+
+The provision is, in Van Heutsz's diagnosis, the constitutional form of the *oelebalang*'s installation: the *erfgenamen* (heirs) consult the *ketjiks, wakils, imams* and *oelama's* on the succession; a *feest* is arranged; the *naburige oelebalangs* convene to *verheffen* the successor to the *waardigheid*; the successor pays *opwachting* to the *vorst* (sultan), bringing a *presenteerblad* on which his *huldebewijs* (homage) is set out; and the *vorst* acknowledges the homage with twenty-one *saluutschoten* (salute-shots). The provision is, in this sense, the constitutional form of the sultan's supremacy over the *oelebalang*'s installation: not the power to choose the successor, but the power to receive his *huldebewijs* and to acknowledge it with the *saluutschoten* that constituted his recognition.
+
+### The war-party's invocation in 1884
+
+The *Peratoeran Makota Alam* is, in Van Heutsz's diagnosis, the constitutional framework the war-party invoked to constitute the recognition of the pretender-sultan [[Toeankoe Mohamad Daoed]] in [[1884]]. Van Heutsz records the invocation on page 58 of the 1893 tract: "*onze pogingen om hem op vredelievende wijze, langs een politieken, z. g. diplomatischen weg tot onderwerping te brengen, had de hoofden, die wij daartoe bezigden, er toe gebracht dien sultan hulde te gaan brengen overeenkomstig de gebruiken van de Peratoeran Makota Alam*". The *gebruiken van de Peratoeran Makota Alam* — the customs of the Peratoeran Makota Alam — were, in this invocation, the framework within which the sultan's recognition by the Sagi-heads was constituted, and the *huldiging* the chiefs paid to the pretender-sultan was, in Van Heutsz's diagnosis, the *huldiging* the *Peratoeran Makota Alam* prescribed.
+
+The constitutional consequence Van Heutsz draws is that the *Peratoeran Makota Alam*'s framework was, after the [[1874]] death of [[Sultan Machmoed Sjah]], the framework within which the war-party's religious-political apparatus was sustained: the *huldiging* the chiefs paid to the pretender-sultan constituted his recognition, and the *gebruiken* the war-party invoked were, in Van Heutsz's diagnosis, the *gebruiken* the *Peratoeran Makota Alam* had prescribed for the sultan's installation. The Dutch response, in Van Heutsz's prescription, was to appropriate the same framework — to require the *huldiging* of the *nieuw gekozene* *panglima sagi* on the model of the *Peratoeran Makota Alam* — by which the war-party's religious-political apparatus would be transferred from the resistance to the colonial state.
+
+### The Poeloe Waij revenue-rights
+
+The *Peratoeran Makota Alam* is, in Van Heutsz's diagnosis, the constitutional framework within which the sultan's revenue-rights were also fixed. Van Heutsz records the framework's application to the revenues of [[Poeloe Waij]] — the island off the [[XXVI Moekims]] coast whose *tanah waqf* (endowment) the Dutch had declared under direct rule — on page 106 of the 1893 tract: "*De inkomsten van het eiland werden echter volgens de Makota alam voor een gedeelte getrokken door enkele hoofden van moekims in het Noorden der XXVI Moekims, aan zee gelegen*". The *Makota alam*'s provision was, in this application, the constitutional form by which the sultan's revenue-rights were shared with the *hoofden van moekims* of the XXVI Moekims — the form the Dutch had overridden by declaring Poeloe Waij *tanah waqf* under direct Dutch rule.
+
+### Significance of the Van Heutsz account
+
+The *Peratoeran Makota Alam*'s significance in the [[Aceh Wiki History]] record, in Van Heutsz's 1893 diagnosis, rests on four things: it was the traditional Acehnese state-law code attributed to Sultan Iskandar Muda — the early-17th-century sultan whose reign is, in Van Heutsz's diagnosis, the unique historical instance of unified Atjehnese authority — and so the constitutional legacy of the unified sultanate Iskandar Muda had founded; it was the constitutional framework within which the sultan's authority over the Sagi-succession was exercised — the provisions on the *panglima sagi*'s death and the *oelebalang*'s installation that fixed the sultan's supremacy over the Sagi-federations' recognition — and so the framework the Dutch, in Van Heutsz's prescription, should appropriate by requiring the *huldiging* of the *nieuw gekozene* on the model of the *Peratoeran Makota Alam*; it was the constitutional framework the war-party invoked in [[1884]] to constitute the recognition of the pretender-sultan Toeankoe Mohamad Daoed — the *gebruiken van de Peratoeran Makota Alam* under which the chiefs paid *huldiging* to the pretender — and so part of the religious-political apparatus the war-party sustained; and it was the constitutional framework within which the sultan's revenue-rights were fixed — the provisions on Poeloe Waij's *inkomsten* shared with the *hoofden van moekims* of the XXVI Moekims — and so the framework the Dutch had overridden by declaring the island *tanah waqf* under direct rule. The *Peratoeran Makota Alam* is, in Van Heutsz's narrative, the constitutional form of the unified sultanate whose memory the Dutch authority at Kota-Radja could aspire to recreate — and the constitutional form the war-party's religious-political apparatus had appropriated to sustain the resistance.
+
 ## See Also
 
 - [[Sultan Meukuta Alam]]
@@ -74,6 +118,32 @@ The *Adat Meukoeta Alam* mentions several officials who were under direct Sultan
 - [[Adat]]
 - [[Letters patent with the ninefold seal to Panglima Meuseugit Raya]]
 - [[Atjehsch Staatsbestuur]]
+- [[J. B. van Heutsz]]
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[Onderwerping]]
+- [[Mèl]]
+- [[Djenamoe Atjeh]]
+- [[Panglima Polim]]
+- [[K. van der Heyden|Van der Heijden]]
+- [[Sultan Machmoed Sjah]]
+- [[Toeankoe Mohamad Daoed]]
+- [[Toeankoe Haschim]]
+- [[Laging Tobias]]
+- [[Groot-Atjeh]]
+- [[XXII Moekims]]
+- [[XXV Moekims]]
+- [[XXVI Moekims]]
+- [[Poeloe Waij]]
+- [[Kemala]]
+- [[Kota Radja]]
+- [[Indrapoeri]]
+- [[1874]]
+- [[1878]]
+- [[1879]]
+- [[1881]]
+- [[1884]]
+- [[1886]]
+- [[1893]]
 - [[1607]]
 - [[1635]]
 - [[1636]]
@@ -87,3 +157,5 @@ The *Adat Meukoeta Alam* mentions several officials who were under direct Sultan
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 23, 40, 58, 104, 106. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.

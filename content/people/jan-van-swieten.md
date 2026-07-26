@@ -1,7 +1,7 @@
 ---
 title: Jan van Swieten
-aliases: ["Van Swieten", "J. van Swieten", "Jan van Swieten", "General Van Swieten", "Generaal Van Swieten", "Lieutenant-general Van Swieten", "Lieutenant-colonel Van Swieten", "General", "Conqueror of the Acehnese Van Swieten", "war-hero Van Swieten", "Van Swieten (Atjeh)", "Jan van Swieten commander Second Aceh Expedition", "generaal Van Swieten", "Van Swieten (Atjeh commander)"]
-tags: [person, general, dutch, military, colonial, knil, aceh-war, bali-expedition, 19th-century, infantry, achehnese, acheh]
+aliases: ["Van Swieten", "J. van Swieten", "Jan van Swieten", "General Van Swieten", "Generaal Van Swieten", "Generaal van Swieten", "de Generaal van Swieten", "Lieutenant-general Van Swieten", "Lieutenant-colonel Van Swieten", "General", "Conqueror of the Acehnese Van Swieten", "war-hero Van Swieten", "grijzen veldheer en staatsman", "Van Swieten (Atjeh)", "Jan van Swieten commander Second Aceh Expedition", "generaal Van Swieten", "Van Swieten (Atjeh commander)"]
+tags: [person, general, dutch, military, colonial, knil, aceh-war, bali-expedition, 19th-century, infantry, achehnese, acheh, atjeh, governor]
 description: "Dutch lieutenant-general (1807–1888) who commanded the Second Aceh Expedition of 1873–1874, presided over the capture of the Kraton and the proclamation of annexation of Groot-Atjeh, and earlier in his career negotiated the Treaty of 30 March 1857 with the Sultan of Aceh and took command of the third Bali expedition of 1849."
 ---
 
@@ -54,6 +54,28 @@ Before his departure Van Swieten laid down his policy in a note of [[22 April]] 
 On [[25 April|25]] and [[26 April]] [[26 April|26 April]] [[1874]] the troops whose continued presence was no longer needed embarked, and on [[26 April]] the supreme commander, the second-in-command, the general and general staff, with the troops no longer required, left the theatre of war. General Van Swieten considered his task accomplished and departed once more for the mother country; his departure left supreme command in the hands of [[J. L. J. H. Pel|Kolonel Pel]], later appointed general. A force of 128 officers, 1,788 Europeans, 176 Africans, 489 Ambonese and 698 natives remained under Pel's command. Van Swieten's later letter of [[19 July]] [[19 July|19 July]] [[1874]] approved Pel's conduct and recommended the subjection of the IV Moekims, an eastward expansion from Kota Radja, and an attempt to bring the southern parts to submission.
 
 Van Swieten also admitted — both in his note and in his official correspondence — his limited knowledge of the internal political situation of [[Aceh|Aceh]], noting that there was no central authority and that the sultan was merely a "figurehead". His seizure of the kraton was one of several simultaneous operations in the [[1874]] campaign, but it did not lead to lasting control because the Acehnese continued guerrilla resistance.
+
+## The 1874 *Instructie* and the concentrated-defensive plan
+
+Before and after his departure Van Swieten — together with his *Nota voor den Kolonel Pel* of [[22 April]] [[1874]] — drew up the founding policy document of the Atjeh government: the *Instructie voor den militairen, tevens civielen bevelhebber te Atjeh* (Instruction for the military, at the same time civil, commander in Atjeh), approved by *Besluit* (decree) of the Gouverneur-Generaal of Nederlandsch-Indië of [[26 May]] [[1874]] No. 1. The *Instructie* had been drawn up in consultation with the outgoing Gouverneur-Generaal Loudon and the Minister van Koloniën Fransen van de Putte — "de door van Swieten in overeenstemming met den Gouv. Gen. Loudon en den Minister van Koloniën Fransen van de Putte aangewezen weg" (the path indicated by Van Swieten in agreement with Governor-General Loudon and the Minister of Colonies Fransen van de Putte) — and was meant to govern both the prosecution of the war in the interior of [[Groot-Atjeh]] and the handling of the still-hostile coastal statelets of the [[Onderhoorigheden|Onderhoorigheden]].
+
+The article of the *Instructie* dealing with the Onderhoorigheden — *art. 5* — became, in the later critique of [[Joannes Benedictus van Heutsz|Van Heutsz]], the doctrinal weak point of Van Swieten's system. The text of art. 5 read: "In aanzien van de Onderhoorigheden van Atjeh onderhoudt de militaire en civiele bevelhebber met hen, die onze souvereiniteit hebben erkend, zooveel mogelijk de betrekkingen en tracht hen, die nog niet tot ons zijn toegetreden, door overreding of door blokkade te brengen tot het afleggen der verklaring" — Regarding the Onderhoorigheden of Atjeh, the military and civil commander maintains, as much as possible, relations with those who have recognised our sovereignty, and tries to bring those who have not yet joined us, by persuasion or by blockade, to make the declaration. The article thus contemplated conciliation of the coastal chiefs who had recognised Dutch sovereignty and a blockade — *blokkade* — of those who had not, but did not commit the colonial state to the systematic closure of the whole coast. Van Heutsz would later argue that art. 5 was insufficient — "dat in verband hiermede ten opzichte van de Onderhoorigheden niet volstaan kon worden met hetgeen art. 5 zijner instructie aangaf" (that, in connection with this, what art. 5 of his instruction indicated could not suffice regarding the Onderhoorigheden) — and that the modification of art. 5 became the central question of the next twenty years.
+
+### The 2500-man concentrated defence of Kotja-Radja
+
+The military heart of Van Swieten's plan was a concentrated defensive line at [[Kota Radja|Kotja-Radja]], garrisoned by a small but adequate force. Van Heutsz records that "Deze liet 2500 man achter, om daarmede te bezetten en actief te verdedigen de geconcentreerde stelling Kotja-Radja" — Van Swieten left behind 2500 men to occupy and actively defend the concentrated position at Kotja-Radja. The figure is repeated by Van Heutsz twice in close succession: "Van Swieten toch liet zooals wij zagen 2500 man als bezetting voor Atjeh achter". The plan rested on the calculation that 2500 men, deployed in a fortified perimeter at Kota-Radja, would suffice to hold the Dutch seat while the coastal statelets were gradually conciliated under art. 5 — a moderate plan, premised on a defensive posture, that avoided the over-extension Van Heutsz would later warn against as the violation of "onze financieele en personeele krachten" (our financial and personnel strength). The troop strength of the entire Atjeh force at this stage, per [[B. C. P. Kielstra|Kielstra]], was "4000 man" — meaning the Van Swieten plan reserved roughly five-eighths of available strength for the Kotja-Radja perimeter and the remainder for the recognised-posts in the Onderhoorigheden.
+
+### The premature abandonment of 1875
+
+The Van Swieten plan was abandoned within a year of its adoption. Van Heutsz dates the reversal precisely: "in [[1875]], op voorstel van Generaal [[Pel (governor)|Pel]], door den nieuw opgetreden landvoogd, Gouv. Gen. [[van Lansberge]], de door van Swieten in overeenstemming met den Gouv. Gen. Loudon en den Minister van Koloniën Fransen van de Putte aangewezen weg geheel verlaten" — in 1875, on the proposal of Generaal Pel, the newly installed Gouverneur-Generaal van Lansberge wholly abandoned the path Van Swieten had marked out in agreement with Loudon and Fransen van de Putte. The decision was taken in favour of "het op grootere schaal aanvallend optreden" — a large-scale offensive — and the Pel plan of [[30 April]] [[1875]] substituted the occupation of the entire coastal strip of Groot-Atjeh from [[Kroeng Raja]] to [[Kroeng Raba]] for the concentrated Kotja-Radja defence.
+
+By [[1876]] the post-station count had reached forty-seven — "in 't einde van 1876 … was het aantal bezette punten in Atjeh en Onderhoorigheden geklommen tot 47" (at the end of 1876 … the number of occupied points in Atjeh and Dependencies had climbed to 47) — and the troop strength, per Kielstra, had risen to "3000 Europeanen, 180 Afrikanen en 5000 Inlanders" with a marine complement of "13 oorlogsbodems, 2 gouvernementstoomers en 4 gewapende kruisbooten" (13 warships, 2 government steamers and 4 armed cruising boats). The Van Swieten plan's 2500-man concentrated defence had become, by 1876, a 47-post, ~8000-man dispersed occupation. Van Heutsz treats this as the original strategic error of the war — "Feitelijk reeds geheel was afgeweken van het programma van Swieten" (In fact already entirely departed from the programme of Swieten) by May 1875 — and the Van Swieten *Instructie* as the moderate programme the *Regeering* had been wrong to abandon.
+
+### Van Heutsz's reassessment in the 1893 tract
+
+[[Joannes Benedictus van Heutsz|Van Heutsz]]'s handling of Van Swieten in the [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]* is the most sustained act of historical rehabilitation in the book. Van Swieten — styled by Van Heutsz the *grijzen veldheer en staatsman* (grey general and statesman) — is named as the first of the eleven Governors in the catalogue that opens the diagnostic chapter: "Aanvangende met den Generaal van Swieten hebben wij nu den elf Gouverneur van Atjeh" (Beginning with General van Swieten we now have the eleventh Governor of Atjeh). His *Instructie* and *Nota* are the first documents Van Heutsz cites in detail; and his 2500-man Kotja-Radja plan is the benchmark against which the post-1875 dispersed occupation is measured. Van Heutsz's verdict is succinct: "ware den Generaal van Swieten aangewezen weg gevolgd geworden" — had the path Van Swieten marked out been followed — the war would not have become the chronic colonial ulcer it became. The "pennestrijd, aanvankelijk in Nederland gestreden over het militair en politiek beleid van den grijzen veldheer en staatsman, den Generaal van Swieten" — the pamphlet war fought in the Netherlands over the military and political conduct of the grey general and statesman — is invoked as the backdrop against which the post-1875 plans of Pel, Van Lansberge, Van der Heijden, and the *Civiel Gouverneur* of 1881 must be judged.
+
+Van Heutsz's Van Swieten is not a hero of the same stamp as [[Van der Heijden]] or [[Van Teijn]] — the two Governors whose active operations Van Heutsz celebrates — but rather the founding legislator, the General whose *Instructie* established the constitutional framework within which the later Governors operated, and whose moderate concentration-plan, had it been adhered to, would have spared the colony the policy oscillations Van Heutsz catalogues across the next twenty years.
 
 ## Departure (April 1874) and the succession
 
@@ -150,6 +172,23 @@ The source's verdict on [[General Van Swieten|Van Swieten]]'s achievement is dir
 - [[General Köhler]]
 - [[Atjehoorlog]]
 - [[Pel (Atjeh commander)]]
+- [[Pel (governor)]]
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[Van der Heijden]]
+- [[Van Teijn]]
+- [[B. C. P. Kielstra]]
+- [[Kroeng Raja]]
+- [[Kroeng Raba]]
+- [[Loudon]]
+- [[van Lansberge]]
+- [[Fransen van de Putte]]
+- [[Scheepvaartregeling]]
+- [[Blokkade]]
+- [[Concentratiestelsel]]
+- [[22 April]]
+- [[26 May]]
+- [[30 April]]
+- [[1875]]
 
 ## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
 
@@ -176,6 +215,8 @@ On [[16 April]] [[1874]] a Dutch column was repulsed before an enemy fortificati
 *Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 216-217.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 6–8, 10–14, 16, 22–26. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
 ## Account from *Onze vestiging in Atjeh* (Borel, 1878)
 

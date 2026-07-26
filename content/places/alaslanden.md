@@ -1,7 +1,7 @@
 ---
 title: De Alaslanden
-aliases: [Alaslanden, Alas-vallei, Alas Valley, Alas lands, Alas valley, Alaslanden valley, Alas-landen, Alas (Atjeh), Tanah Alas, the Alas lands, Alasvalley, Alas Lands, Land der Alas]
-tags: [place, alas, highland, military, region, valley, colonial, dutch, aceh, buitenbezittingen, wegennet, alaslanden, interior, atjeh, deli, administrative-division]
+aliases: [Alaslanden, Alas-vallei, Alas Valley, Alas lands, Alas valley, Alaslanden valley, Alas-landen, Alas (Atjeh), Tanah Alas, the Alas lands, Alasvalley, Alas Lands, Land der Alas, de Alaslanden, afdeeling Alaslanden, onderafdeeling Alaslanden, Afdeeling tanah Alaslanden]
+tags: [place, alas, highland, military, region, valley, colonial, dutch, aceh, buitenbezittingen, wegennet, alaslanden, interior, atjeh, deli, administrative-division, onderafdeeling, 20th-century, zelfbestuur, slachtbelasting, cattle-regulation]
 ---
 
 **The Alaslanden** ("Alas lands," modern **Tanah Alas**) was the colonial designation for the interior Alas valley region of [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]], inhabited by the Alas people, south of the [[Gajo-landen|Gajo lands]] and east of the [[Groot-Atjeh|Great Atjeh]] coastal plain. It is the long, fertile valley of the *Lao Alas* — the great river that, rising on the slopes of the G. Losèr as the W. ni Agoesen, runs south-eastward through the heart of the gouvernement to its confluence with the Lao Renéën — and one of the five *afdeelingen* of the gouvernement, established after the *colonne van Daalen* of [[1904]] brought the Alas valley under Dutch authority. In the Encyclopaedisch Bureau's account of the [[Wegenplan Sumatra|Sumatra road plan]], the Alaslanden appear as the inland terminus of the Alasweg — the 137 K.M. road built from [[Kaban Djahe]] on the Karo-hoogvlakte (Karo highlands) to [[Kota Tjane]] in the Alaslanden at a cost of f 1,173,000, and reported by the Bureau as "in the main completed" by the end of the [[1904]]–[[1914]] decade. *De Buitenbezittingen* describes the Alaslanden as one of the four *cultuur-centra* of the interior, an "oase te midden van het ongastvrije, woeste landschap" — an oasis amid an inhospitable, savage landscape.
@@ -125,3 +125,47 @@ From Koenké, about a thousand metres above sea level, the great *wildreservaat 
 The Alaslanden were also accessible from [[Koeala Simpang]] on the east coast. The *vrouwentransport* for the [[Blang Kedjeren]] division went by *prauw* from Koeala Simpang to Kaloeë, then on foot to Pendeng, then over the Boer ni Gadjah (Elephant Mountain): *op het hoogste punt van het pad gekomen, zag je Blang Kedjeren en omgeving liggen*. Of the brigades that marched through the valley Zentgraff writes: *Het was een genot, een goede maréchaussée-patrouille onder zulke leiding in het bosch te zien: a thin line of heroes.*
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+## Account from *Zelfbestuursverordeningen Atjeh en Onderhoorigheden* (1930) — the 1914 cattle regulations of the Alaslanden
+
+In the 1930 compilation of *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, the Alaslanden appear as the originating seat of two of the earliest-dated regulations in the entire collection: the *slachtbelasting* (cattle-slaughter tax) of [[1 March]] [[1914]] (Reg. No. 5), and the *vervoer-en-slachtverordening* (cattle-transport and slaughter regulation) of [[16 September]] [[1914]] (Reg. No. 16) — the earliest-dated regulation in the compilation and the only regulation seated directly in the Alas highlands. The signatory clause of Reg. No. 16 locates the Alaslanden explicitly: *"Kami pemerentah sendiri dari tanah-tanah jang satoe-satoenja: Bambel dan Poeloe Nas dari Afdeeling tanah Alaslanden. Bambel en Poeloe Nas der Afdeeling Alaslanden."* — *we, the self-governing [chiefs] of the territories of: Bambel and Poeloe Nas of the Afdeeling tanah Alaslanden [Bambel and Poeloe Nas of the Afdeeling Alaslanden]*.
+
+### Administrative reorganisation, 1914 to 1930
+
+The administrative geography of the Alaslanden was reorganised between the originating [[1914]] regulations and the [[1930]] compilation. A footnote on Page 119 of the compilation — the clearest single statement of administrative-territorial reorganisation — clarifies the change: *"(2) De atdeeling Alaslanden bestond in 1914 uit de tegenwoordige onderafdeeling van dien naam."* — *in 1914 the afdeeling Alaslanden consisted of the present-day onderafdeeling of that name*. That is: the [[1914]] *afdeeling Alaslanden* was coterminous with what by [[1930]] had become the *onderafdeeling Alaslanden* within the broader *afdeeling Gajo- en Alaslanden* — the administrative reorganisation that subordinated the formerly free-standing Alaslanden afdeeling to the broader highland afdeeling. The [[1914]] signatory clauses call the territory *Afdeeling Alaslanden*; the [[1930]] Inhoud (table of contents) calls it *onderafdeeling Alaslanden*.
+
+### The slachtbelasting of 1 March 1914 (Reg. No. 5)
+
+The *slachtbelasting* of [[1 March]] [[1914]] is the older of the two Alaslanden-seated regulations, and the only one in the compilation dealing with a slaughter-tax on cattle, buffels, and tame pigs. Its full Dutch title — reconstructed from the OCR-mangled heading — is *Zelfbestuursverordening van 1 Maart 1914 houdende regeling der belasting op het slachten van runderen, buffels en tamme varkens in de landschappen der onderafdeeling Alaslanden, zooals gewijzigd bij de zelfbestuursverordening van 28 April 1924* (Self-government regulation of 1 March 1914 regulating the tax on the slaughter of cattle, buffaloes and tame pigs in the *landschappen* of the *onderafdeeling* Alaslanden, as modified by the self-government regulation of 28 April 1924). The regulation was authorised by the Gouverneur-Generaal per *Gouv.-Secr. telegram 13 April 1912 No. 454* and *missive 15 July 1913 No. 1726* — i.e. the G.-G.'s authorisation preceded the regulation by nearly two years, a longer lead-time than for any other regulation in the compilation.
+
+The signatory clause names the *oeleebalang* of the two Alaslanden *gebieden*: the *landschap* Kedjoerön Batoe Mboelan and the *landschap* Kedjoerön Bambel — the same two *Kédjoeröns* whose integration into the Dutch colonial administration through the [[Korte Verklaring]] system is described in the *De Buitenbezittingen* account above. The Malay signatory clause names the slaughter-tax exemption for animals subject to a death-sentence by the native village tribunal: *"binatang jang dipotong menurut poetoesan vonnis jang ditetapkan oleh moesapat negeri"* — *animals slaughtered pursuant to a verdict pronounced by the moesapat negeri (village tribunal)*. The regulation sets a rate of *6 gulden per rund/buffel* and *3 gulden per varken*, with reduced rates (*2/1 gulden*) for wounded animals. The regulation was modified by the *zelfbestuursverordening van 28 April 1924* (approved [[30 May]] [[1924]]).
+
+### The vervoer-en-slachtverordening of 16 September 1914 (Reg. No. 16)
+
+The *vervoer-en-slachtverordening* of [[16 September]] [[1914]] is the earliest-dated regulation in the entire [[1930]] compilation. Its full Dutch title — *Zelfbestuursverordening van 16 September 1914 op het vervoer en op het slachten van runderen en buffels in de zelfbesturende landschappen der onderafdeeling Alaslanden (goedgekeurd door den Gouverneur van Atjeh en Onderhoorigheden)* (Self-government regulation of 16 September 1914 on the transport and slaughter of cattle and buffaloes in the self-governing *landschappen* of the *onderafdeeling* Alaslanden, approved by the Governor of Atjeh en Onderhoorigheden). The signatory clause names two Alaslanden *landschappen* — Bambel and Poeloe Nas — the very two territories whose creation under the [[1914]] reorganisation is described above.
+
+The regulation protects the Alaslanden cattle/buffel breeding stock by three prohibitions in *Fatsal 1*: (a) to slaughter cattle or buffels judged by the Zelfbestuur or its appointed official to be fit for breeding; (b) to bring outside the afdeeling cattle or buffels of the breeding kind; (c) to sell to persons other than those belonging to the indigenous population. The regulation establishes a model *transport-bewijs* (transport-permit) system, issued cost-free by the kampong-head (within a *landschap*), the *zelfbestuurder* (within the *onderafdeeling*), or the European *bestuursambtenaar* (outside the *onderafdeeling*). The penalty is *f 1–f 100* or three months' *arbeidstelling* (forced labour on landschapswerken), with half the boete to the *aanbrenger* (informer) — a Dutch-colonial enforcement-incentive. The comparative table on Page 123 of the compilation extends parallel *regelingen* to Meureudoe, Lammeulo, Padangtidji, Idi, Langsa, Tamiang/Temleng, Takingeun, Serbeudjadi, Gajo LoeBus, Tjalang, Meulaboh, Tapaktoean, and the Zuidelijke Atjehsche landschappen — all dated [[1914]].
+
+### Significance of the 1914 regulations
+
+The Alaslanden's significance in the regulatory record rests on the empirical demonstration — through the dual prohibition on export outside the afdeeling and on sale to non-*Inheemsche* persons, and through the *transport-bewijs* system administered by the kampong-head / *zelfbestuurder* / European *bestuursambtenaar* hierarchy — of the colonial-zelfbestuur joint protection of the Alaslanden cattle-breeding stock, the economic foundation of the Alas valley. The *slachtbelasting* and *vervoer-en-slachtverordening* of [[1914]] thus complement the *De Buitenbezittingen* account of the same reorganisation, providing the regulatory text through which the colonial state gave legal form to the new administrative geography of the Alaslanden.
+
+## See Also
+
+- [[Slachtbelasting]]
+- [[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]
+- [[Zelfbestuur]]
+- [[1 March]]
+- [[16 September]]
+- [[1914]]
+- [[1924]]
+- [[1930]]
+- [[Moesapat]]
+- [[Bambél]]
+- [[Poeloe Nas]]
+- [[Kédjoerön Batoe Mboelan]]
+- [[Kédjoerön Bambél]]
+
+## Source
+
+*Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesten van het Departement van Binnenlandsch Bestuur*, Weltevreden: Landsdrukkerij, 1930, esp. Regs. 5 and 16 (pp. 25 and 95). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
