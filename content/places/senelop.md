@@ -1,10 +1,12 @@
 ---
-title: Senelop
-aliases: ["Senelop", "Sénélöp", "Senalop", "the post at Senelop", "Lam Soet", "Lam-Soet", "Senclop"]
+title: "Senelop"
+aliases: ["Senelop", "Sénélöp", "Senalop", "the post at Senelop", "Lam Soet", "Lam-Soet", "Senclop", "Sennelop"]
 tags: [place, military-post, aceh-war, 1896, aceh, xxii-moekims, groot-atjeh, besieged-post, buitenlinie, evacuated-post, dutch, achehnese, colonial]
 ---
 
 **Senelop** was a Dutch temporary military post established in the [[XXII Moekims]] of [[Groot-Atjeh]] during the [[1890s]] — a post that, together with [[Anagaloeng]] on its northern flank, formed the eastern anchor of the Dutch outer perimeter in the late *concentratie* period. The post was besieged by the forces of [[Toekoe Oemar]] after his [[Toekoe Oemar's defection (1896)|defection]] in [[March]] [[1896]] and was the site of two of the seven officer fatalities of the spring [[1896]] crisis — those of Lieutenant [[J. W. Vuijk|Vuijk]] on [[30 March]] [[1896]] and Lieutenant [[J. B. Zon|Zon]] on [[19 April]] [[1896]]. The post was finally evacuated on [[17 April]] [[1896]], when the 1e Colonne of [[Joannes Benedictus van Heutsz|Lt.-Col. Van Heutsz]] lifted it in the heaviest fighting of the campaign — the [[Battle of Senelop (17 April 1896)|Battle of Senelop]] — and the engineers of [[1e Luit. N. Plantenga|1e Luit. Plantenga]] blew the bridge at [[Ana' Galong]] to seal the western *buitenlinie* behind the retreating column.
+
+**Sennelop** was one of the Dutch forward posts of [[Groot-Atjeh]] which, [[P. H. R. Beuming]] records, were razed in the spring of [[1896]] after their garrisons had been relieved, before the [[Three-day battle in the Beradin pass (23-25 May 1896)|Beradin operation]]. Beuming names it with [[Lamsoet]], [[Anak Galoeng]], [[Lambarih]], [[Biloel]], [[Lamkoenjit]], [[Kroeng Gloempang]], [[Tjot Rang]] and [[Toengkoeb|Toengkoep]] and the blockhouses lying between them, adding that in the razing *ook weer tal van verliezen aan onze zijde waren te betreuren* — many losses on the Dutch side were again to be lamented.
 
 ## The strategic position
 
@@ -113,11 +115,17 @@ Senelop's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]
 - [[mitrailleur]]
 - [[17 April]]
 - [[2 May]]
+- [[Three-day battle in the Beradin pass (23-25 May 1896)]]
+- [[Schetsen uit den strijd op Groot-Atjeh (1911)]]
 
-## Source
+## Sources
 
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 5, 8, 10, 25 (Toekoe Oemar — Zijn Verraad; De Poeassa — Eindelijk Ontzet; Een Terugblik — Wat Reeds Verkregen Werd; De Strijd om Kaloet).
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, p. 1275.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 13–14, 22, 23–24, 26, 30–32, 35, 39–41, 43, 48, 50–57, 76, 82, 92–94, 100–106, 110–111, 113, 117, 119, 138, 144, 148–156, 244, 331.
+
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
+
+*Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.

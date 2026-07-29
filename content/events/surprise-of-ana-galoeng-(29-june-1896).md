@@ -1,8 +1,7 @@
 ---
-title: Surprise of Ana' Galoeng (29 June 1896)
-aliases: ["Verrassing van Ana' Galoeng", "Verrassing van Ana Galoeng op 29 Juni", "the night attack on Ana' Galoeng", "the surprise of Ana' Galoeng of 29 June 1896", "Ana' Galoeng 29 June 1896", "Bestorming van Ana' Galoeng"]
-tags: [event, aceh-war, 1896, surprise-attack, ana-galong, groot-atjeh, kruisheer-vol3, hoofdstuk-iii, military-operation, night-attack, maréchaussée, snelladers]
-description: "The Surprise of Ana' Galoeng on the night of 28-29 June 1896 — the Verrassing van Ana' Galoeng — was the three-colonne night attack by Dutch forces under J. B. van Heutsz, G. F. Soeters and C. J. Laceulle on the benteng of Ana' Galoeng, the former Dutch post which the Acehnese considered as the heart of Great Aceh, which had been conquered by Teuku Umar's legion on 30 November 1893 and which was the burial place of Teungkoe di Tiro. The maréchaussée and the snelladers compagnie of the 3e Bataljon entered the benteng with the klewang alone, and the operation culminated in the tuchtiging (punitive burning) of the kampongs of Sibreh and Rahat of the III Moekims Lamkrak."
+title: "Surprise of Ana' Galoeng (29 June 1896)"
+aliases: ["Surprise of Ana' Galoeng (29 June 1896)", "Verrassing van Ana' Galoeng", "Verrassing van Ana Galoeng op 29 Juni", "the night attack on Ana' Galoeng", "the surprise of Ana' Galoeng of 29 June 1896", "Ana' Galoeng 29 June 1896", "Bestorming van Ana' Galoeng", "overrompeling van Anak Galoeng", "the surprise of Anak Galoeng"]
+tags: [event, aceh-war, 1896, surprise-attack, ana-galong, groot-atjeh, kruisheer-vol3, hoofdstuk-iii, military-operation, night-attack, maréchaussée, snelladers, marechaussee]
 ---
 
 **The Surprise of Ana' Galoeng** — *Verrassing van Ana' Galoeng op 29 Juni* [[1896]] — was the three-colonne night attack by Dutch forces under [[J. B. van Heutsz|Luitenant-Kolonel Van Heutsz]] (1e colonne), [[G. F. Soeters|Luitenant-Kolonel G. F. Soeters]] (2e colonne) and [[C. J. Laceulle|Luitenant-Kolonel C. J. Laceulle]] (3e colonne) on the *benteng* (fort) of [[Ana' Galong]] in the early hours of [[29 June]] [[1896]], which opened the second semester of [[1896]] in [[A. Kruisheer|Kruisheer]]'s *[[ATJEH '96 — Tweede Deel (book by A. Kruisheer)|ATJEH '96 — Tweede Deel]]*. The post — *het hart van Groot-Atjeh* (the heart of Great Aceh) — had been the former main residence of [[Teungkoe di Tiro|Teungkoe di Tiro]], who *also died there*, and had been conquered by [[Teuku Umar|Teuku Umar]]'s legion on [[30 November]] [[1893]] during the [[Subjection of Teuku Umar 1893|subjection of Teuku Umar]]. The Dutch had retaken the post briefly but abandoned it again, and by mid-[[1896]] it had been reoccupied and refortified by the Acehnese with *de stevige verticale ijzerdraadversperring van onzen ouden post* (the sturdy vertical barbed-wire entanglement of our old post) still in good order. The operation — the most ambitious Dutch *verrassing* (surprise) of the second semester — was launched on the night of [[28 June|28]]–[[29 June]] [[1896]], the very night after the [[Departure of Vetter (28 June 1896)|departure of Lt.-Gen. Vetter as Regeeringscommissaris]].
@@ -59,6 +58,74 @@ After the storming of the *benteng* — which had cost the Dutch one dead (Serge
 
 The significance of the Surprise of Ana' Galoeng in the documentary record of *ATJEH '96 — Tweede Deel* is that of the opening operation of the second semester of [[1896]] — the operation which established the operational tempo for the post-Vetter, post-De Moulin period, and which demonstrated that the Dutch retained the capacity for ambitious multi-colonne night attacks even after the institutional upheaval of the [[Departure of Vetter (28 June 1896)|Vetter departure]] and the [[Death of Generaal-Majoor De Moulin (7 July 1896)|De Moulin death]]. The operation's success — achieved with the *klewang* (cutlass (klewang)) alone, in the face of a 200-man garrison and a sturdy barbed-wire entanglement — was a testament to the discipline and élan of the maréchaussée and the snelladers compagnie of the [[3e Bataljon|3e Bataljon]], and the personal courage of the officers [[W. Stoop|Stoop]], [[C. Wagener|Wagener]], [[G. K. Dijkstra|Dijkstra]], [[K. J. C. Rijnen|Rijnen]], and [[J. H. P. van Aken|Van Aken]] was recognised in the *Dagorders* granting military decorations for Atjeh '96. The tuchtiging of Sibreh and Rahat which followed the storming — the burning of the kampongs of the III Moekims Lamkrak — was the visible face of the Dutch *pacificatie* (pacification) policy, and the operation as a whole established the framework within which the second semester of [[1896]] would unfold: the slow, methodical extension of effective Dutch control beyond the *geconcentreerde linie*, by means of repeated *verrassingen* and *tuchtigingen*, in preference to the permanent occupation of points beyond the line.
 
+## Account from *Schetsen uit den strijd op Groot-Atjeh* ([[1911]])
+
+[[P. H. R. Beuming]] devotes the fifth sketch of *[[Schetsen uit den strijd op Groot-Atjeh (1911)|Schetsen uit den strijd op Groot-Atjeh]]* to the operation under the title *De overrompeling van Anak Galoeng*, remarking that *de détails van deze excursie zijn slechts aan weinigen bekend* and that he would therefore try to give a businesslike description of them.
+
+### Occasion
+
+After [[Teuku Umar|Toekoe Oemar]] had suffered a crushing defeat in the [[Three-day battle in the Beradin pass (23-25 May 1896)|three-day battle in the Beradin pass]], the turn came to the *kampongs* [[Sibreh]] and [[Rahat]], which had still to be punished for the hostilities committed against the [[Patrol of Captain Van Blokland (7 March 1896)|Van Blokland patrol]] and during the relief of the forward posts. When in the first days of June [[1896]] [[Lamkrak]], *het beruchte oord*, was dealt with, many muttered that only half the work had been done, since Sibreh and Rahat did not share in the punishment and the *benting* [[Anak Galoeng]], abandoned by the Dutch troops, was still in enemy hands. According to intelligence the *Iman* of Sibreh was lodged in it with 200 well-armed followers.
+
+The Acehnese apparently believed that the *Blanda's* would leave them undisturbed in possession of the former Dutch stronghold and could not in the least suspect that for them too the day of retribution was so near.
+
+### The order and the three columns
+
+Scarcely had General [[J. A. Vetter|Vetter]] left Atjeh on [[28 June]] when Colonel [[J. W. Stemfoort|Stemfoort]] summoned all corps commanders to the Government building in the afternoon. Such a summons, Beuming explains, meant: *er wordt morgen op groote schaal uitgerukt*.
+
+Three columns were designated for the punishment of Sibreh and Rahat. The first, which had to perform the giant's work, under the command of *den beleidvollen Overste* [[J. B. van Heutsz|Van Heutsz]], consisted of the *[[Korps Marechaussee|Marechaussée]]*, the [[3e Bataljon Infanterie|3e]] and the [[6e Bataljon Infanterie|6e Bataljon]], led respectively by Captain Jhr. [[Graafland]], Overste [[Hansen]] and Majoor [[Okhuizen]]. The second, under Overste [[G. F. Soeters|Soeters]], consisted of the half [[7e Bataljon Infanterie|7e]], the [[12e Bataljon Infanterie|12e]] and [[14e Bataljon Infanterie|14e Bataljon]], led respectively by Majoor [[Jacobs]], Overste Soeters and Majoor [[Thomson]]. The third was under Overste [[C. J. Laceulle|Laceulle]].
+
+The first column was instructed to take Anak Galoeng by surprise and then to punish Sibreh and Rahat; the second to occupy the southern district towards [[Glieng]] and [[Indrapoeri]] and cover the retreat of the first column on the left bank of the [[Acheh River|Atjeh river]]; the third to do the same on the right bank.
+
+### The night approach
+
+The Van Heutsz column marched out of the *[[Kraton of Aceh|Kraton]]* at twelve at night for [[Lambaroe]], whence it began its nocturnal enterprise southward. Arrived at [[Lambarih]], a *benting* the Dutch had earlier razed, they crept with great circumspection towards Anak Galoeng — *want marcheeren kon het niet worden genoemd*, for it could not be called marching. The *marechaussée*, strengthened by a platoon of fusiliers armed with repeating rifles, had to carry out the important enterprise.
+
+All the corps officers took part: Captain Jhr. Graafland *met zijn stoicijnsche kalmte, die door zijn soldaten op de handen gedragen werd*; the gallant Lieutenant [[Dijkstra]], *die immer weinig sprak, maar veel uitvoerde*; Lieutenant [[C. F. A. Wagener|Wagener]], who never failed to answer the roll when anything special was afoot; and Lieutenant [[Stoop]]. The corps had lost Lieutenant [[Vis]] on his appointment as *controleur* charged with the civil administration; but that this honourable post should keep him from the punishment of Sibreh and Rahat and the surprise of Anak Galoeng was too much for him, and he asked and obtained permission to take part. Beuming adds that little could that officer then suspect that three years later, in [[1899]], he would lose his life at the punishment of [[Toekoe Lhon]]. The platoon of fusiliers stood under the command of *den dapperen luitenant* [[Rijnen]].
+
+Slowly they went forward, creeping through the *[[Alang-alang|alang-alang]]*. In the deepest silence Anak Galoeng was reached without the enemy noticing anything. Within the *benting* the enemy could be heard clearly praying from the [[Qur'an|Koran]], *een eentonig gezang, nu en dan onderbroken door het gillen van "Alah-lah ilah-lah."*
+
+### The forcing of the gate
+
+The question was how to get in: the barbed wire, the *[[Bamboe-doeri versperringen|bamboedoeri]]*, the gate that could not be forced were insuperable obstructions. It was almost a quarter to five. Lieutenant Dijkstra had come with a handful of his brave men before the gate, where the Acehnese sentry stood asleep in a raised sentry-box, head bowed and both arms leaning on the muzzle of his rifle.
+
+After vain attempts at various places to get inside, Dijkstra hit on *een lumineus idee*. With signs he made two [[Ambonese soldiers|Ambonese]] *marechaussées* standing beside him understand that he was strong enough to lift them over the gate. *Zij hadden moeite hun hoera te weerhouden.* With giant strength he lifted them over one after the other and placed them *in de leeuwenkooi*. Quickly the pin was removed from the beam closing the gate, the beam drawn off, the gate opened, and *het angstaanjagend krijgsgeschreeuw der Amboineezen verkondigde wijd en zijd, dat een handvol dapperen van 't Indische leger den strijd op leven en dood waren begonnen.*
+
+### The fight inside
+
+It was then about five o'clock; the moon lit the surroundings only weakly and it was hard to distinguish friend from foe. To give an accurate description of that struggle, Beuming writes, is impossible: *ieder die daar optrad doorleefde er een heldenleven*. It was impossible for the Acehnese to leave his fortification, and he therefore fought there the fight for life and death.
+
+Lieutenant Wagener received a gunshot wound through his left hand and was at the same moment set upon with the *[[Klewang|klewang]]*, but Lieutenant Rijnen struck the assailant down. At the same moment Rijnen too was wounded by a shot in the hip and a *klewang* blow across the back; Wagener shot the enemy down with two well-aimed revolver shots and in his turn saved his colleague from certain death. Lieutenant Dijkstra received a *klewang* blow across the chest, but it went ill with the attacker, whom a formidable blow from an Ambonese rendered harmless.
+
+Captain Graafland, surrounded by a few faithful men, moved among his gallant corps giving orders here and there, concealing that a gunshot wound had pierced his leg so as not to discourage the troop. The Acehnese fought like madmen and abused the Ambonese as *moeka-Matjan* — tiger-faces. *De tijgergezichten bleven niet lijdelijk, maar sloegen er geducht op los.*
+
+Lieutenant Vis stood with his little troop outside at the only possible way out, to settle with the enemies who might try to save themselves by flight. But they did not yet come; he heard the deafening war-cry within, *'t was om dol te worden*, and with difficulty could he restrain his forty *marechaussées*.
+
+Lieutenant Stoop was the only officer inside still unwounded, but his strength threatened to fail him. Several of the Dutch already lay powerless, the blood streaming from many wounds. Above the tumult sounded the characteristic voice of Captain Graafland, whose customary *Anak-ke* — my children — with which he often addressed his Ambonese made them well-nigh invincible. *Maar 't was niet noodig, allen streden als helden.* The wounded lieutenants thought no more of pain and loss of blood. The number of fighting Acehnese diminished by the second; men stumbled over the corpses.
+
+### Sergeant Vogel and the boy
+
+Beuming preserves the episode of sergeant [[Vogel]], whom the Ambonese called *Oom-Pandjang*, long uncle. Vogel became aware of half a dozen Acehnese and a small boy in an open hut; the *benting* was filled with such huts, which made the fighting more difficult. He summoned them to come out and surrender; they refused. Good counsel was dear: as little firing as possible was allowed, so as not to hit the comrades outside, and moreover Vogel wished at any price to save the child.
+
+He had the hut set on fire and went inside. Under a rain of *klewang* blows, which he parried masterfully while dealing killing blows right and left, he seized the boy and dragged him, under a thundering cheer from his men, out of the hut. *De jongen was gered, doch slechts voor een oogenblik. Toen men hem los liet, sprong hij de hut weer binnen en kwam met de anderen om in de vlammen.* It grieved the good non-commissioned officer greatly that he had not been able to prevent this sad end.
+
+### The end of the action
+
+It was about a quarter past five; no Acehnese showed himself any more. Lieutenant Vis was already in action with some sixteen enemies who wished to escape by the rear; he summoned them to surrender and, when they did not comply, they were cut down after a short hand-to-hand fight. So the fate of the enemies who had thought themselves safe in the former Dutch stronghold was decided within half an hour.
+
+When the column commander had *ophouden met vuren* blown, the result could be surveyed. On the Dutch side five dead had fallen and four officers and twenty-nine other ranks were wounded; the enemy left 120 dead in Dutch hands. Of the officers only Lieutenant Rijnen was severely wounded, while the wounds of the twenty-nine *marechaussées* all proved not life-threatening. The officer of health had his hands full and all who were not wounded helped to bandage.
+
+### The march on Sibreh and Rahat
+
+The first part of the instruction having been completely successful, the column set out to deal with Sibreh and Rahat; but the *marechaussées* could no longer be counted on and were sent back with the dead and wounded. When this band of heroes set itself in motion to march back to [[Lambaroe]], *barstte langs de geheele linie een donderend hoera los, als blijk van sympathie voor de kranige marechaussée's — met recht het keurkorps van het Indische leger genoemd.*
+
+Encouraged by the brilliant success won in the early morning, the 3e and 6e Bataljon advanced victoriously, and by six o'clock a great part of the instruction had been fulfilled. *De schrik zat er bij den vijand blijkbaar in, want nergens hield hij stand en vele Atjehers gaven zich met de wapens in de hand over.*
+
+### Aftermath
+
+That same day the fallen Acehnese were buried near Anak Galoeng. For a long time afterwards the Acehnese did not venture into the neighbourhood, and if they had unavoidably to pass it they kept as far off as possible, *gedreven door een bijgeloovige vrees*, because according to them *een booze geest* dwelt in the former Dutch stronghold — see [[Orang Setan]]. Beuming concludes that the Acehnese of Anak Galoeng, Sibreh and Rahat were thus punished for their treachery, and that the surprise of Anak Galoeng had become for them *een spookbeeld*, a spectre.
+
+He adds that the events of [[29 June]] [[1896]] gave the resistance a sensitive blow and had as their consequence *dat zich onverwijld een aantal hoofden met hunne volgelingen ter onderwerping aan ons gezag aanmeldden* — that a number of chiefs with their followers immediately presented themselves in submission to Dutch authority.
+
 ## See Also
 
 - [[ATJEH '96 — Tweede Deel (book by A. Kruisheer)]]
@@ -107,6 +174,10 @@ The significance of the Surprise of Ana' Galoeng in the documentary record of *A
 - [[29 June]]
 - [[1913]]
 
-## Source
+## Sources
 
 *ATJEH '96. Tweede Deel* (2c Deel), door A. Kruisheer, Kapitein der Infanterie O.I.L., *met 3 kaarten en 6 portretten* (Weltevreden: N.V. Boekhandel Visser & Co, [[1913]]). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-90-Atjeh_96_DLP-89-Atjeh_96_Met_3_kaarten_en_6_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`., pp. 1–14, 19–25, 222 (Dagorders).
+
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Schetsen uit den strijd op Groot-Atjeh* by P. H. R. Beuming (Amsterdam, [[1911]]). Dutch passages are quoted in the original with an English rendering.

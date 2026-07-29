@@ -1,10 +1,16 @@
 ---
 title: "Bamboe-doeri versperringen"
-aliases: ["bamboo-thorn barricades", "bamboe-doeri", "bamboo thorn barriers", "Acehnese bamboo barricades", "bamboo-doeri"]
-tags: [concept, acehnese, military, fortification, defense, bamboo, aceh-war]
+aliases: ["Bamboe-doeri versperringen", "bamboo-thorn barricades", "bamboe-doeri", "bamboo thorn barriers", "Acehnese bamboo barricades", "bamboo-doeri", "Bamboedoeri", "bamboe doeri", "thorny bamboo barrier"]
+tags: [concept, acehnese, military, fortification, defense, bamboo, aceh-war, botany, malay, terminology]
 ---
 
 The **[[Bamboe-doeri versperringen|bamboe-doeri versperringen]]** (bamboo-thorn barricades) were the chief Atjehnese defensive works — thickets of thorny bamboo planted and woven to form impenetrable barriers around kampongs, bentengs, borstweringen and grachten. Borel mentions bamboo-doeri throughout *Onze vestiging in Atjeh* as the characteristic Atjehnese fortification, concealing the enemy's stellingen "als een tijger die op zijn prooi loert" (like a tiger lurking for its prey) and obstructing every Dutch advance. The bamboo-doeri was, in effect, the Atjehnese equivalent of the European *abatis* or wire entanglement — a cheap, effective and locally abundant obstacle that the Dutch could only overcome by *kappen en branden* (cutting and burning) or by artillery fire.
+
+***Bamboedoeri*** — glossed by [[P. H. R. Beuming]] as *doornachtige bamboestruiken*, thorny bamboo bushes — was the living thorn barrier planted before the palisades of the Dutch forward posts in [[Groot-Atjeh]] as the outermost obstacle of the defences.
+
+In Beuming's description of the *[[Voorpostenbenting|voorpostenbenting]]* the order of obstacles ran: a square earthen wall about a metre high; above it a palisade of vertically driven coconut-palm trunks about a metre high; before that a four-metre-wide entanglement of barbed wire; *en daarvoor nog een versperring van bamboedoeri* — and before that again a barrier of thorny bamboo.
+
+The barrier's effectiveness is attested from the attacker's side. In the [[Surprise of Ana' Galoeng (29 June 1896)|surprise of Anak Galoeng]] the Dutch, approaching their own former post now held by the Acehnese, found the obstacles insuperable: *Het gewapend ijzerdraad, de bamboedoeri, de niet te forceeren poort waren onoverkomelijke versperringen* — the barbed wire, the *bamboedoeri* and the gate that could not be forced were insuperable obstructions. It was this that obliged Lieutenant [[Dijkstra]] to lift two [[Ambonese soldiers|Ambonese]] *marechaussées* bodily over the gate to open it from within.
 
 ## Description and Construction
 
@@ -29,7 +35,16 @@ The Dutch counter-measures against the bamboo-doeri were of two kinds: *kappen* 
 - [[Generaal Pel]]
 - [[Jan van Swieten]]
 - [[1874]]
+- [[Voorpostenbenting]]
+- [[Benting]]
+- [[Surprise of Ana' Galoeng (29 June 1896)]]
+- [[IJzerdraadversperring]]
+- [[Dijkstra]]
 
-## Source
+## Sources
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 14–17, 24–29, 58, 99–107, 117, 121–122, 168–169, 183–186, 196–206.
+
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
+
+*Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.

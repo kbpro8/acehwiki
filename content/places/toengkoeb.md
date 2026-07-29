@@ -1,10 +1,12 @@
 ---
-title: Toengkoeb
-aliases: ["Toengkoeb"]
-tags: [place, dutch, achehnese, colonial, military, aceh-war]
+title: "Toengkoeb"
+aliases: ["Toengkoeb", "Toengkoep"]
+tags: [place, dutch, achehnese, colonial, military, aceh-war, aceh, groot-atjeh, 1896]
 ---
 
 **Toengkoeb** — written in Dutch as *Toengkoeb* — was a [[Dutch]] temporary post and kampong in the [[Sagi der XXVI Moekims|sagi of the XXVI Moekims]], the residence of the head of the [[XIII Moekims Toengkoeb]] and one of the principal former residences of [[Teungkoe di Tiro|Teungkoe di Tiroe]]. As described in Kruisheer's *ATJEH '96*, Toengkoeb was garrisoned in [[1895]] by 2 officers, 52 infantry, and 1 hospital attendant (with no artillery), and was occupied by the Dutch to prevent the religious-warriors from re-settling and to control the [[hoeloebalang]] [[T. Tjoet Toengkoeb]]. The post was successfully re-supplied on [[16 April]] [[1896]], was evacuated on [[21 April]] [[1896]] and handed over to [[Toekoe Nja Banta]], was the site of the [[Night Surprise of Benting Batoe (28–29 April 1896)|night surprise of Benting Batoe of 28–29 April 1896]], and was the location of the [[benteng|bentengs]] Perampoean and Batoe demolished by the [[Genie]] under Captain Zelle on [[20 June]] [[1896]].
+
+**Toengkoep** was one of the Dutch forward posts of [[Groot-Atjeh]] razed in the spring of [[1896]] after the relief of its garrison, before the [[Three-day battle in the Beradin pass (23-25 May 1896)|Beradin operation]]. [[P. H. R. Beuming]] names it in the list of former outposts — [[Senelop|Sennelop]], [[Lamsoet]], [[Anak Galoeng]], [[Lambarih]], [[Biloel]], [[Lamkoenjit]], [[Kroeng Gloempang]], [[Tjot Rang]] and Toengkoep — together with the intervening blockhouses.
 
 ## Description and Location
 
@@ -36,7 +38,14 @@ Toengkoeb was the strategic crossroads of the eastern [[Sagi der XXVI Moekims|XX
 - [[Kroeng-Kali]]
 - [[benteng]]
 - [[1896]]
+- [[Three-day battle in the Beradin pass (23-25 May 1896)]]
+- [[Groot-Atjeh]]
+- [[Schetsen uit den strijd op Groot-Atjeh (1911)]]
 
-## Source
+## Sources
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21–22, 26, 39, 57, 60, 92–93, 119, 121–123, 144, 146, 158, 165, 292, 313–314, 317–318, 326–327, 330.
+
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
+
+*Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.

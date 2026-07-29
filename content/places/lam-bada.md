@@ -1,12 +1,18 @@
 ---
-title: Lam Bada
-aliases: [Lam Badá, Lam-Bada, Anak Baté, Anak Bate, Tjot Bate]
-tags: [place, aceh-proper, gampong, xxvi-mukims, holy-site, burong, tuan-siti, achehnese, dutch, aceh-war, military, lamkrak, v-moekims-montassik]
+title: "Lam Bada"
+aliases: ["Lam Bada", "Lam Badá", "Lam-Bada", "Anak Baté", "Anak Bate", "Tjot Bate", "kampong Anak Baté", "Ana' Batée"]
+tags: [place, aceh-proper, gampong, xxvi-mukims, holy-site, burong, tuan-siti, achehnese, dutch, aceh-war, military, lamkrak, v-moekims-montassik, kampong, aceh, groot-atjeh, 1896]
 ---
 
 In the [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]], [[Teuku Asan]] fixed his head-quarters in the neighbourhood of Lam Bada, 'the place of his birth,' after gathering some panglimas and a small force.
 
 > **Note on the shared place-name.** Two distinct Achehnese localities are known as *Lam Bada* in the sources: (i) a gampong of the [[XXVI Mukims]] — the burial-place of the celebrated *burong* woman [[Tuan Siti]] (treated below); and (ii) a kampong of the [[V Moekims Montassik]] / [[Lamkrak Moekims|Lamkrak complex]] that was the scene of very heavy combat on [[17 April]] [[1896]] (treated in the lower sections). The two places share the same name but lie in different *sagi* of [[Groot-Atjeh]].
+
+**Anak Baté** was a *[[Kampong|kampong]]* of [[Groot-Atjeh]] lying near the *[[Benting|benting]]* of [[Anak Galoeng]], west of the [[Acheh River|Atjeh river]], and the scene of the [[Patrol of Captain Van Blokland (7 March 1896)|patrol engagement of 7 March 1896]].
+
+[[P. H. R. Beuming]] places the *benting* Anak Galoeng *in de nabijheid van de kampongs Anak Baté en [[Glieng]]*, and records that the patrol of [[7 March]] [[1896]] moved along the dyke towards [[Lambarih]], turned left at the blockhouse [[Blang Tjoet]] in the direction of *kampong* Anak Baté, and just before reaching it divided into three detachments. Scarcely had the enemy discovered the column in the open *[[Sawah|sawah]]* when shots fell from the densely overgrown *kampong* and the Acehnese came up from all sides.
+
+Beuming also records that fire came from the so-called friendly *kampong* [[Sibreh]] during the same engagement, and that the serious fight at Anak Baté was one of the marks of the deteriorating political situation on Groot-Atjeh in early [[1896]]: *De politieke toestand op Atjeh, na het ernstige gevecht bij Anak Baté, de onveilige terreinstrook tusschen de bentings [[Lambaroe]] en [[Anak Galoeng]], was treuriger dan ooit te voren.*
 
 ## Expanded account from *The Achehnese*, Vol. I — Lam Bada
 
@@ -64,9 +70,18 @@ Lam-Bada and Anak Baté were the principal Achehnese strongpoints within shellin
 - [[V Moekims Montassik]]
 - [[Lam-Djamé|Lam-Krak / Lam-Djamé]]
 - [[1896]]
+- [[Patrol of Captain Van Blokland (7 March 1896)]]
+- [[Anak Galoeng]]
+- [[Blang Tjoet]]
+- [[Sibreh]]
+- [[Groot-Atjeh]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 76, 82, 86–87, 96–99, 102, 104–111, 117–119, 154, 305, 307, 385, 387, 401, 403.
+
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
+
+*Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.

@@ -1,8 +1,7 @@
 ---
-
-title: Pastoor Verbraak
-aliases: [Verbraak, Soldaten-Pastoor, Catholic military chaplain Verbraak, Father Verbraak, Soldier-Priest Verbraak, First Flanquer of the East Indian Army, Pastoor Verbraak, Henri Verbraak, H. C. Verbraak, Pastoor H. C. Verbraak, Hendrik Cornelis Verbraak, old-mission-pastoor, ollatenn-pastoor, soldiers' pastor of Atjeh, soldatenpastoor of Atjeh, Priesterheld of Atjeh]
-tags: [person, clergy, dutch, knil, aceh, priest, catholic, colonial, achehnese, military-chaplain, 19th-century, 20th-century, aceh-war]
+title: "Pastoor Verbraak"
+aliases: ["Pastoor Verbraak", "Verbraak", "Soldaten-Pastoor", "Catholic military chaplain Verbraak", "Father Verbraak", "Soldier-Priest Verbraak", "First Flanquer of the East Indian Army", "Henri Verbraak", "H. C. Verbraak", "Pastoor H. C. Verbraak", "Hendrik Cornelis Verbraak", "old-mission-pastoor", "ollatenn-pastoor", "soldiers' pastor of Atjeh", "soldatenpastoor of Atjeh", "Priesterheld of Atjeh", "de Vader van Atjeh", "the Father of Atjeh"]
+tags: [person, clergy, dutch, knil, aceh, priest, catholic, colonial, achehnese, military-chaplain, 19th-century, 20th-century, aceh-war, chaplain, 1896, edi]
 ---
 
 **Pastoor Verbraak** was the Catholic military chaplain of [[Atjeh|Aceh]] — the *Soldaten-Pastoor* — who, alongside the Ambonese *Inlands Godsdienstleraar* [[Dominee Thenu|Thenu]] (the *Soldaten-Dominee*), served as the geestelijk verzorger of the [[K.N.I.L.]] troops during the [[Joannes Benedictus van Heutsz|Van Heutsz]] era. He resided in Aceh for well over thirty years and acquired the honorary title of "first flanquer of the East Indian army." His partnership with Thenu is held up in *[[Oom Ambon van het K.N.I.L.]]* as the model of how a colonial garrison's spiritual care was actually done — not by the book, but by two men of different confessions who recognised each other's gezag and shared the work without disputing sacramenten en geloofsleer.
@@ -47,7 +46,6 @@ Between [[1890]] and [[1907]], Verbraak published dozens of articles in *St. Cla
 ### Legacy
 
 Verbraak's writings are invaluable for their immediacy and detail. They were later compiled and referenced by historians of the Aceh War. He was widely respected among soldiers and missionaries; a monument was erected in his honour at **[[Kutaradja]]** after his death, and his 80th birthday was celebrated in [[1915]]. He died in [[1918]], and his passing was mourned in multiple articles in the Dutch Catholic press.
-
 
 ## Account from *Vierhonderd jaren missie* (1934) — the *Priesterheld* of Atjeh
 
@@ -117,7 +115,68 @@ The summary entry in *DLP-84-Atjeh* frames **Pastoor Verbraak** as a Dutch missi
 
 The DLP-84 entry also documents the social composition of the chaplaincy's audience and the resistance Verbraak encountered. The European minority within the colonial army consisted largely of *shipwrecked* individuals (Dutch: *schipbreukelingen* — here in the figurative sense of the morally stranded or the socially displaced) who gave little value to spiritual assistance, and Verbraak often faced resistance from the colonial authorities themselves. Nevertheless, his self-sacrificial love (Dutch: *zelfopofferende liefde*) won him the gratitude of countless soldiers, who regarded him as the "good spirit" (Dutch: *goede geest*) of the entire [[Indische Leger|Indische Leger]]. He was honoured with a bronze and stone monument during his lifetime, and after his death a more costly monument was erected by the grateful soldiers. His statue in [[Bandung|Bandoeng]] further underscores the importance the colonial authorities placed on his service.
 
+## Account from *Schetsen uit den strijd op Groot-Atjeh* ([[1911]])
+
+[[P. H. R. Beuming]] devoted the closing sketch of *[[Schetsen uit den strijd op Groot-Atjeh (1911)|Schetsen uit den strijd op Groot-Atjeh]]* to Verbraak under the title *Pastoor Verbraak op Atjeh — Een aangename herinnering*, describing a visit the chaplain paid in [[1896]] to the *[[Benting|benting]]* of [[Edi]], an overseas post on the east coast of [[Acheh|Atjeh]].
+
+### The circuit of the posts
+
+Beuming explains the system: Verbraak visited all the fixed garrisons in Atjeh by turns, so as to give the Roman Catholic soldiers the opportunity of observing their religious duties. Because of the great distances of the overseas garrisons and the many *bentings* of the *[[Geconcentreerde linie|geconcentreerde linie]]*, *had de volijverige pastoor een zeer uitgebreid gebied te doorreizen en verliep er een geruime tijd tusschen elk bezoek* — the zealous priest had a very extensive district to travel and a considerable time passed between each visit.
+
+It was no wonder, therefore, that men were glad to see him again. Life in the *benting* was so extraordinarily monotonous that *men achter die ijzerhouten blindeeringen kinderlijk blij kon zijn, als men weer eens iets van de buitenwereld vernam* — behind those ironwood blindages one could be childishly glad to hear something of the outside world.
+
+### The arrival at Edi
+
+Scarcely had the arrival of the government steamer on which the priest had left [[Oleh-leh]] been signalled on the roadstead when a patrol of thirty bayonets under a European sergeant marched out of the *benting* to fetch Pastoor Verbraak from the landing place and bring him safely inside.
+
+About one o'clock in the afternoon the sentry on the northern bastion gave on the *[[Tong-tong|tong-tong]]* the signal *Patrouille in 't gezicht*. From the *[[Banket|banquette]]* the little band could be seen approaching in the distance, the Europeans distinguishable from the natives by their white gaiters standing out sharply against the dark uniforms; and in the middle of the patrol the practised eye soon recognised *den edelen soldatenvriend in zijn priesterkleeding* — the noble soldiers' friend in his priest's dress.
+
+He was greeted most heartily by the post commander and the other officers, while as he went to the officers' quarters the rest of the garrison brought him respectfully the military salute, which he answered with a *Goeden dag jongens. Alles wel?*
+
+### Beuming's portrait
+
+Beuming's first impression was unforgettable. Though slight of build, Verbraak disposed of a tremendous *Ausdauer*; his already fairly advanced age did not in the least prevent him making a stiff march in the burning midday sun. In all his movements lay a springiness that compelled admiration, and in the calm glance of his eyes *een onbeschrijfelijk zachten gloed, die vertrouwen wekte* — an indescribably gentle glow that awakened confidence. *Wie pastoor Verbraak eenmaal ontmoette, hield van hem* — whoever once met Pastoor Verbraak loved him.
+
+On his left breast, Beuming records, shone the Knight's Cross of the [[Order of the Netherlands Lion|Nederlandschen Leeuw]], the Officer's Cross in the [[Order of Orange-Nassau|Orde van Oranje-Nassau]], the [[Kraton-medaille|Kratonmedaille]] and the *[[Eereteeken voor Belangrijke Krijgsverrichtingen|Eereteeken voor belangrijke krijgsverrichtingen]]* — the decorations also listed under his portrait in the book, which describes him as *de algemeen beminde oud-aalmoezenier van Atjeh en Onderhoorigheden, thans rustend pastoor te Padang*.
+
+### The visit
+
+After refreshing himself in the commander's dwelling he went first to the sick-room — most overseas posts and main *bentings* then had sick-rooms and an *[[Officier van Gezondheid|officier van Gezondheid]]*. For every sick man he had a consoling or cheering word; to one he gave some cigars, to another delicacies. The sick native soldiers were not forgotten either: to them he gave tobacco and *strootjes* to make *seroetoes*, Javanese cigarettes, and it was plain how grateful they were for those small gifts.
+
+After the midday meal, about five o'clock, he walked with the commander along the soldiers' quarters and visited the canteen. Here he was among his boys, many of them old acquaintances. *Wat deed het dien oogenschijnlijk ruwen soldaten goed, dat zij weer eens hartelijk werden toegesproken* — how it did those outwardly rough soldiers good to be heartily spoken to again. Beuming records the name the army gave him: *Men heeft hem "den Vader van Atjeh" genoemd, en werkelijk dien naam verdiende hij ten volle, want hij droeg zijn jongens een echt vaderlijke genegenheid toe.*
+
+### The mass in the canteen
+
+The following morning a temporary altar was erected in the soldiers' canteen at the priest's direction. As a mark of respect for the soldiers' friend, nearly all the European soldiers attended the service, whatever their confession. *Zelden zag ik een indrukwekkender plechtigheid* — seldom did I see a more impressive ceremony — Beuming wrote: far from the inhabited world, between four plank *benting* walls, in a military canteen, the Holy Sacrifice of the Mass was offered and God's word proclaimed.
+
+In his sermon Verbraak carried his hearers back to the fatherland and in thought to the relations they had left behind. In glowing words he sketched the life of the Indies soldier who sacrificed youth and life for the flag of the Netherlands, and urged them to stand firm amid the countless temptations to which the Indies soldier was exposed, among them *het verfoeilijke concubinaat*. Beuming preserves his closing words:
+
+*Mannen, bedenkt, dat gij Europeanen zijt en dat gij hier in Indië een naam te verliezen hebt; zorgt er voor, dat Nederland trotsch kan zijn op zijn zonen in 't verre Oosten. Ik weet het, gij moet hier een harde school doormaken, maar blijft vooral Christen, dan vormt zij u tot zelfbewuste leden der maatschappij. Blijft mensch, zoowel in 't dagelijksche leven, als in den krijg.*
+
+— Men, remember that you are Europeans and that here in the Indies you have a name to lose; see to it that the Netherlands can be proud of her sons in the far East. I know it, you must go through a hard school here, but above all remain Christians, and then it will form you into self-conscious members of society. Remain human, in daily life as in war.
+
+These moving words, Beuming records, visibly gripped all present. Knowing so well the countless dangers threatening the moral life of the Indies soldier, Verbraak knew how to strike the right chord, and many a man already on the slippery slope he thereby saved.
+
+### Departure and later meetings
+
+About nine the next morning the priest left for the overseas post [[Segli]], some twelve hours from Edi. The farewell was hearty and the garrison saw him go with regret. When Beuming later returned to [[Groot-Atjeh]] he had the pleasure of meeting him repeatedly.
+
+### The letters and the hospital
+
+Beuming records two further practices. It was known among the soldiers at [[Koeta Radja]] that they could give their letters for their relations in the Netherlands to Pastoor Verbraak, who then saw to the postage: he knew his men, and knew that writing home was often neglected on account of the postage. *Het behoeft zeker niet vermeld, hoezeer hij daardoor aller harten won.*
+
+In the great military hospital at [[Panteh-Perak]] he was a daily guest, visiting above all the ward where the wounded lay. Scarcely had a transport of wounded arrived when he hastened there. Many sons of the Netherlands who then rested on the [[Peutjoet|Petjoet cemetery]] under the shade of the coconut palms he had attended in their death struggle; sitting by the deathbed of a mortally wounded man he could be heard to say, with a voice trembling with emotion, *Mijn zoon, kan ik wellicht nog iets voor U doen?* It had become a real need to him to carry out the last wish of his beloved boys.
+
+When the arrival of one of the boats of the [[Koninklijke Paketvaart-Maatschappij|Indische Paketvaart]] was signalled at Oleh-leh he was immediately in the hospital to bring the joyful tidings to those to be evacuated with speed: *Weest verblijd, mannen, de boot is aan.*
+
+At every burial at Petjoet, *onverschillig tot welk geloof de overledene ook behoorde* — irrespective of the faith to which the deceased belonged — Verbraak was present; Beuming notes his presence at the funeral of Lieutenant [[K. H. Westendorp]] on [[11 March]] [[1896]].
+
+### Beuming's closing tribute
+
+Writing in [[1911]], Beuming records that after a stay of more than thirty years in Atjeh the beloved former chaplain was then enjoying his well-earned rest at [[Padang]], having carried away the esteem and respect of all who in those thirty years had formed the garrison of Atjeh. *Het Indische leger is trotsch op zijn beminden oud-aalmoezenier. Onze pastoor is voor ons een baken geweest ginds in 't verre Oosten* — our pastor has been a beacon for us there in the far East.
+
 ## See Also
+
 - [[Dominee Thenu]]
 - [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
@@ -135,7 +194,6 @@ The DLP-84 entry also documents the social composition of the chaplaincy's audie
 - [[Redemptus a Cruce]]
 - [[Oeleë-Lheue]]
 - [[Kutaradja]]
-
 - [[S. Kalff]]
 - [[Father Damien]]
 - [[Generaal Dijkstra]]
@@ -179,10 +237,13 @@ The DLP-84 entry also documents the social composition of the chaplaincy's audie
 - [[1912]]
 - [[1918]]
 - [[1922]]
+
 ## Sources
 
 - *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Dominee Thenu."
+
 - *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder.
+
 - *Register op de eerste 50 jaargangen van het missietijdschrift der P.P. Jezuieten "St. Claverbond", 1889 tot en met 1938*, samengesteld door Herman Hagdorn S.J. en Jacques Dinjens (Nijmegen: Stichting St. Claverbond, 1939).
 
 *Vierhonderd jaren missie in Nederlandsch-Indië, 1593–1934* (Batavia: Algemeen Comité van Voorbereiding tot de Feestelijke Herdenking van 400 jaar Missie in Ned.-Indië, [1934]), "Pastoor H. C. Verbraak," pp. 127–133, after S. Kalff, "Een trits Indische Pastoors," in *Koloniaal Missie Tijdschrift*, Jaargang XII.
@@ -192,3 +253,7 @@ The DLP-84 entry also documents the social composition of the chaplaincy's audie
 *DLP-84-Atjeh.pdf*, pp. 6-7.
 
 *DLP-84-Atjeh.pdf*, p. 8.
+
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Schetsen uit den strijd op Groot-Atjeh* by P. H. R. Beuming (Amsterdam, [[1911]]). Dutch passages are quoted in the original with an English rendering.

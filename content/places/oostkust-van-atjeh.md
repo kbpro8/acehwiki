@@ -1,11 +1,12 @@
 ---
-title: Oostkust van Atjeh
-aliases: ["East Coast of Atjeh", "Atjeh's Oostkust", "Aceh Timur", "Oostkust Atjeh"]
-
-tags: [place, afdeeling, oostkust, atjeh, coastal, border-region, administrative-division]
+title: "Oostkust van Atjeh"
+aliases: ["Oostkust van Atjeh", "East Coast of Atjeh", "Atjeh's Oostkust", "Aceh Timur", "Oostkust Atjeh", "Oost-Atjeh", "East Atjeh", "eastern Atjeh"]
+tags: [place, afdeeling, oostkust, atjeh, coastal, border-region, administrative-division, region, aceh, tamiang, geography, plantation]
 ---
 
 **Oostkust van Atjeh** (East Coast of Atjeh) was an *afdeeling* (division) of the [[Gouvernement Atjeh en Onderhoorigheden]], administered by Assistent-Resident [[H. J. Krugers]]. The Oostkust covered the eastern coastline of Atjeh, bordering the territory of Sumatra's Oostkust (East Coast of Sumatra) and the Deli and Langkat sultanates. This border region was of particular significance in the [[Atjeh-Sumatra's Oostkust merger proposal]], as the Oostkust van Atjeh was discussed as a candidate for administrative merger with the Langkat region. The eastern coast of Atjeh occupied a liminal position—not fully integrated into the Atjeh highland world, yet not naturally part of the east coast plantation belt of Sumatra either—and its administrative fate was a matter of considerable debate during the [[Bestuursreorganisatie Sumatra (1913-1914)]].
+
+**Oost-Atjeh** — East Atjeh — was the eastern seaboard region of [[Acheh|Atjeh]], described at length in *[[Over eene collectie vogelhuiden van Oost-Atjeh]]* by [[F. C. van Heurn]] and [[R. C. E. G. J. Snouckaert van Schauburg]], on whose estates [[Aloer Djamboe]] in [[Tamiang]] and [[Alas Peurba]] south of [[Lho Seumawe]] their collection of bird skins was gathered.
 
 ## Geographic and Strategic Position
 
@@ -23,10 +24,45 @@ However, at the Koeta-Radja meeting ([[19 January]]–[[20 January]] [[1914]]), 
 
 The decision to exclude [[Tamiang]] from the combined "Noord- en Oostkust van Atjeh" *afdeeling* was one of the most consequential boundary adjustments proposed during the reorganization. Tamiang, administered by Civiel Gezaghebber [[W. Wessel]], had deep connections with the Langkat and Deli regions, and its transfer to the Langkat *afdeeling* was consistent with the economic and social geography of the border region. The town of [[Langsa]], another important eastern Atjeh settlement, was also identified as a candidate for transfer to the Langkat or Deli *afdeelingen*, though the final determination was left to the judgment of the Gouverneur van Atjeh. [[Van der Plas]] explicitly stated that the addition of Atjeh areas including [[Tamiang]] and [[Langsa]] to the *afdeelingen* Deli and Langkat should be left to the Gouverneur's discretion, recognizing that local knowledge was essential for final border determinations and that the Gouverneur's familiarity with conditions on the ground should inform these decisions.
 
+## Landscape
+
+The authors' account gives an unusually full picture of the region's physical character. The densely overgrown hill country fringing the mountains reached the coast in Oost-Atjeh at only a few places; one of these was in [[Tamiang]], the frontier province with the well-forested *afdeeling* [[Langkat]] of the [[Gouvernement Oostkust van Sumatra]]. In that landscape especially the coastal strip was as picturesque and the scenery as overwhelming *als men het langs de geheele Oostkust van Sumatra niet meer aantreft* — as is nowhere else met with along the whole east coast of [[Sumatra]].
+
+Numbers of smaller and larger rivers debouched into the [[Aroe Bay|Aroe-baai]] with many ramifications, through which sea water could penetrate far inland at flood; this produced, for Sumatra's flat strands, the remarkable aspect of steep high hills overgrown with primeval forest, surrounded at the foot by a girdle of mangrove.
+
+Beyond the hill country the region belonged to the general Atjeh type the authors describe: boundless swamps overgrown with dense, immensely high reed — such as the [[Paja Tjitjem]] or bird-swamp of the north-east — alternating with heavy primeval forests, while deeper in the mountains pine woods and grass plains brought variety into the otherwise monotonous forest landscape.
+
+## Settlement and cultivation
+
+Almost the whole plain along the coast of Oost-Atjeh had been brought into cultivation by a fairly dense population. Further inland the population had not penetrated, or only sporadically; but from the coastal districts *hebben de zoogenaamde Europeesche culturen eenige diepe bressen in het oerbosch geslagen* — the so-called European cultures had struck some deep breaches into the primeval forest. The estates of the [[Handelsvereeniging Amsterdam]] at which the collectors worked lay on heavy hill country at the boundary of plantation and original forest.
+
+## In the Aceh War
+
+The eastern seaboard is also the setting of episodes of the [[Aceh War|Atjeh-oorlog]] recorded by [[P. H. R. Beuming]]: the *[[Benting|benting]]* of [[Edi]], an overseas post on the east coast where he met [[Pastoor Verbraak]] in [[1896]]; and the [[Raijah piracy (20 July 1893)|Raijah piracy]] of [[20 July]] [[1893]], in which the steamer was seized off [[Keureutoe|Kerti]] on the north coast east of [[Telok Semawé]] while on passage from [[Oleh-leh]] to [[Penang]] by way of [[Segli]], Telok Semawé and Edi.
+
 ## See Also
 
-[[H. J. Krugers]], [[Noordkust van Atjeh]], [[Tamiang]], [[Langsa]], [[Atjeh-Sumatra's Oostkust merger proposal]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Van der Plas]], [[H. N. A. Swart|H. N. N. A. Swart]]
+- [[H. J. Krugers]]
+- [[Noordkust van Atjeh]]
+- [[Tamiang]]
+- [[Langsa]]
+- [[Atjeh-Sumatra's Oostkust merger proposal]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Van der Plas]]
+- [[H. N. A. Swart|H. N. N. A. Swart]]
+- [[Over eene collectie vogelhuiden van Oost-Atjeh]]
+- [[Aloer Djamboe]]
+- [[Alas Peurba]]
+- [[Paja Tjitjem]]
+- [[Handelsvereeniging Amsterdam]]
+- [[Raijah piracy (20 July 1893)]]
+- [[Edi]]
 
-## Source
+## Sources
 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118, 358.
+
+*Over eene collectie vogelhuiden van Oost-Atjeh*, door Ir. Jhr. F. C. van Heurn en Mr. Dr. Baron R. C. E. G. J. Snouckaert van Schauburg, in *Jaarberichten* (Koloniaal Instituut). Koninklijk Instituut voor de Tropen, Br N 95-1210
+
+*Acknowledgement of sources.* The material in this article derives from *Over eene collectie vogelhuiden van Oost-Atjeh* by Ir. Jhr. F. C. van Heurn and Mr. Dr. Baron R. C. E. G. J. Snouckaert van Schauburg (Koloniaal Instituut, *Jaarberichten*). Dutch passages are quoted in the original with an English rendering.

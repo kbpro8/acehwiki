@@ -1,10 +1,12 @@
 ---
-title: Lam-Goet
-aliases: ["Lam-Goet", "Lam Goet"]
-tags: [place, achehnese, aceh-war, military]
+title: "Lam-Goet"
+aliases: ["Lam-Goet", "Lam Goet", "Lamgoe", "Lam Goe"]
+tags: [place, achehnese, aceh-war, military, aceh, groot-atjeh, 1896]
 ---
 
 **Lam-Goet** — written in Dutch as also *Lam Goet* — was a kampong in the [[V Moekims Montassik]] of [[T. Rajoet]] and the residence of the district head [[T. Hoesin Lhongbatta|Toekoe Hoesin Lehong Bata]]. As described in Kruisheer's *ATJEH '96*, Lam-Goet was the object of a chastisement on [[14 April]] [[1896]] in which the fortification was stormed and an iron 9 c.M. cannon was destroyed with *dynamite*. The *versterkingen* of Lam-Goet were subsequently brought back into a state of defence. Lam-Goet was attacked again on [[17 June]] [[1896]] by the compagnie of [[P. Linck|Kapitein Linck]] of the 12e Bataljon, in the course of the [[Tuchtiging der V Moekims Montassik (16–17 June 1896)|tuchtiging of the V Moekims Montassik of 16–17 June 1896]], and was occupied without resistance and burned. The kampong is situated on the road from Lam-Goet to [[Tjot Rang]].
+
+**Lamgoe** was a place in [[Groot-Atjeh]] occupied by the [[12e Bataljon Infanterie|12e Bataljon]] on [[24 May]] [[1896]], the second day of the [[Three-day battle in the Beradin pass (23-25 May 1896)|three-day battle in the Beradin pass]], together with [[Lamoedjong]] after the advance from [[Lamtengah]] on [[Lamroekan]].
 
 ## Description and Location
 
@@ -34,7 +36,14 @@ Lam-Goet was the power-base of [[T. Hoesin Lhongbatta|Toekoe Hoesin Lehong Bata]
 - [[bendehoofd]]
 - [[benteng]]
 - [[1896]]
+- [[Three-day battle in the Beradin pass (23-25 May 1896)]]
+- [[Groot-Atjeh]]
+- [[Schetsen uit den strijd op Groot-Atjeh (1911)]]
 
-## Source
+## Sources
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 83, 86–87, 129, 313–314, 316, 532.
+
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
+
+*Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.

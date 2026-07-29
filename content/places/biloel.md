@@ -1,7 +1,7 @@
 ---
-title: Biloel
-aliases: ["Biloel", "Biloel (XXV Moekims)", "Bilul", "the post at Biloel"]
-tags: [place, military-post, aceh-war, 1896, aceh, xxv-moekims, groot-atjeh, besieged-post, dutch, colonial]
+title: "Biloel"
+aliases: ["Biloel", "Biloel (XXV Moekims)", "Bilul", "the post at Biloel", "benting Biloel", "the forward post Biloel"]
+tags: [place, military-post, aceh-war, 1896, aceh, xxv-moekims, groot-atjeh, besieged-post, dutch, colonial, 1894, 1895, voorpost]
 ---
 
 **Biloel** was a Dutch temporary military post established in the [[XXV Moekims]] of [[Groot-Atjeh]] during the [[1890s]], in succession to the abandoned post of [[Boekit Daroe]] — a site that had been *aanhoudend beschoten* (continuously bombarded) and that had accordingly been abandoned for the more defensible site of Biloel. The post at Biloel was one of the four Dutch temporary posts — together with [[Anagaloeng]], [[Senelop]] and [[Lamkoenjit]] — that were besieged by the forces of [[Toekoe Oemar]] after his [[Toekoe Oemar's defection (1896)|defection]] from the Dutch alliance in [[March]] [[1896]], and its relief on [[9 April]] [[9 April]] [[1896]] was one of the principal engagements of the spring [[1896]] crisis. As described in [[A. Kruisheer|Kruisheer]]'s *ATJEH '96*, Biloel was a [[Dutch]] outpost in the [[Sagi der XXV Moekims|sagi of the XXV Moekims]], near the mountains on the border of the [[Sagi der XXII Moekims|XXII Moekims]], constructed to protect the [[IX Moekims]] against incursions from the [[Lamkrak Moekims|Lamkrak]], Kroeng Mak, Loetoe, and Lam Lheue of the [[VII Moekims Baid]]. Biloel was besieged and isolated from [[29 March]] to [[8 April]] [[1896]] in the immediate aftermath of the [[Defection of Teuku Umar (29 March 1896)|defection of Teuku Umar]], was reinforced on [[8 April]] with 5 officers and 136 men of the 3e Bataljon, was evacuated and burned on [[12 April]] [[1896]], and thereafter served as the gathering point for the 1e colonne of the [[Tuchtiging of Lam-Krak Moekims (9–10 June 1896)|tuchtiging of the Lamkrak Moekims of 9–10 June 1896]].
@@ -39,6 +39,36 @@ Biloel was one of the two principal Dutch posts besieged in the immediate afterm
 ## Significance
 
 Biloel's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]] is as one of the four Dutch temporary posts besieged in the spring [[1896]] crisis, and as the post whose relief on [[9 April]] [[1896]] cost the life of Captain [[E. P. A. Geluk|Geluk]]. The post's establishment as the replacement for the continuously-bombarded [[Boekit Daroe]] illustrates the way in which the Dutch defensive perimeter was incrementally adjusted in response to Atjehnese pressure, and its dismantling after the relief illustrates the way in which the temporary posts were *geslecht* once their relief had been accomplished. Kruisheer's *ATJEH '96* adds that Biloel was the south-western anchor of the [[buitenlinie]] and the principal Dutch outpost against the [[Lamkrak Moekims|Lamkrak]] country. Its siege and evacuation in [[April]] [[1896]] marked the effective end of the outer-line policy, and its reoccupation as the base of the [[Tuchtiging of Lam-Krak Moekims (9–10 June 1896)|tuchtiging of 9–10 June 1896]] symbolised the Dutch shift from passive defence to active chastisement of the hostile mukims.
+
+## Account from *Schetsen uit den strijd op Groot-Atjeh* ([[1911]])
+
+[[P. H. R. Beuming]] devotes the second sketch of *[[Schetsen uit den strijd op Groot-Atjeh (1911)|Schetsen uit den strijd op Groot-Atjeh]]* to Biloel, which he describes as *een der meest beschoten voorposten* — one of the most heavily shot-at forward posts — and reproduces a photograph of it in which a cross marks the sentry-box that was the particular target of the enemy marksmen.
+
+### Situation and construction
+
+Beuming places the post in the neighbourhood of [[Lamkoenjit]] and [[Tjot Goé]], east of the hill called the [[Boekit Terin]]; to the west it bordered the extensive territory of [[Lamkrak]], and its front looked out on the mountain chain [[Batoe Mengoera]]. The garrison consisted of about 150 bayonets under the command of a captain. Like the other forward posts, Biloel was built wholly of bamboo and roofed with *[[Atap|atap]]*, on the pattern described at [[Voorpostenbenting]].
+
+### Foundation and the quiet period
+
+Beuming records that the outer posts Biloel and [[Lamkoenjit]] were established in [[May]] and [[July]] [[1894]] respectively, to hold in check, together with the already existing post [[Tjot Goé]], the hostile [[VI Moekims]] and [[IV Moekims]] in the [[Lamkrak|Lamkraksche]]. There followed a period of quiet: *Het scheen wel, of de Atjeher den onzaligen krijg moede was* — it seemed as if the Acehnese were weary of the ill-starred war. The *[[Sawah|sawah's]]* were cultivated again and gradually the men returned to the *kampongs* to devote themselves to domestic occupations. That period of rest, under the alliance with [[Teuku Umar|Toekoe Oemar]], was however of short duration.
+
+### The bombardment of [[1895]]–[[1896]]
+
+At the end of [[1895]] the bands of [[Panglima Polim]] and of the [[Sultanspartij|Sultan's party]] were acting everywhere with boldness and had marked out the forward posts in particular; since orders had been given from above to operate as little as possible outside the *[[Benting|bentings]]*, the Acehnese marksmen had free play, and Biloel above all had to suffer.
+
+Notwithstanding the privations, the spirit among the men was excellent: they troubled themselves very little about the continual firing and no longer even noticed the bullets whistling through the reed roofing. Yet victims fell often, by day or at night as the men lay on the *[[Baleh-baleh|baleh-baleh]]*. When the firing became too severe a grenade was sent over, after which it was quiet for a time before the marksmen returned.
+
+Beuming preserves the incident of the post's cook, whose great cooking-kettle was holed by an enemy bullet while he was preparing pea soup with salt pork — *snert van de bovenste plank* — and who, after shaking his ladle in impotent rage at the distant marksman, drove a wooden plug into the hole so that the men had their soup at midday after all.
+
+### The sharpshooter
+
+The post gave its name to the episode of [[The sharpshooter of Biloel|the sharpshooter of Biloel]], the unnamed Acehnese marksman who from a concealed trench in the burnt-off *[[Alang-alang|alang-alang]]* behind a bamboo thicket picked off the sentries at daybreak, whom the Europeans supposed to be a deserted European fusilier and the native fusiliers took for an *[[Orang Setan|Orang-Setan]]*, and who was killed at dawn by an ambush of a European sergeant and five fusiliers. After his death the *benting* continued to be shot at, but the Acehnese no longer ventured so near the post.
+
+### The relief and the razing of [[1896]]
+
+In the crisis of [[1896]] Biloel was one of the enclosed forward posts for whose fate anxiety prevailed, there being no troops available to relieve them. On [[8 April]] [[1896]], the day after the arrival of the Java troops with General [[J. A. Vetter|Vetter]], an excursion of the [[3e Bataljon Infanterie|3e]], [[14e Bataljon Infanterie|14e]] and two companies of the [[9e Bataljon Infanterie|9e Bataljon]] with mountain artillery, engineers and two platoons of cavalry succeeded under heavy fire in reaching Biloel and Lamkoenjit. The garrison of Lamkoenjit was reinforced; but on news that Toekoe Oemar was advancing with 4,000 men the commanding officer took up the retreat, *Biloel kon dus niet meer worden versterkt*. The march cost the life of Captain [[F. P. A. Geluk]] and three European and four native fusiliers, with the 1st lieutenants [[J. H. Hoeksteijn]] and [[R. ten Seldam]] and twenty-three fusiliers wounded.
+
+Before the [[Three-day battle in the Beradin pass (23-25 May 1896)|Beradin operation]] of [[23 May|23]]–[[25 May]] [[1896]], Biloel was among the former forward posts — with [[Senelop|Sennelop]], [[Lamsoet]], [[Anak Galoeng]], [[Lambarih]], [[Lamkoenjit]], [[Kroeng Gloempang]], [[Tjot Rang]] and [[Toengkoeb|Toengkoep]] — that were razed after their garrisons had been relieved, an operation in which further losses were sustained.
 
 ## See Also
 
@@ -82,8 +112,12 @@ Biloel's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]]
 - [[1896]]
 - [[Atjeh-Album (Eigen Haard, 1896)]]
 
-## Source
+## Sources
 
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 9, 10–11, 22 (De Poeassa — Eindelijk Ontzet; Een Terugblik — Wat Reeds Verkregen Werd; De Inwendige Toestand — Wat Nu?).
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21, 28–29, 32, 39–40, 42, 48–51, 57, 60, 62–64, 66–68, 71–72, 76–78, 81–82, 270, 320, 331, 491.
+
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Schetsen uit den strijd op Groot-Atjeh* by P. H. R. Beuming (Amsterdam, [[1911]]). Dutch passages are quoted in the original with an English rendering.

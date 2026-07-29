@@ -1,6 +1,6 @@
 ---
-title: K. H. Westendorp
-aliases: ["Lieutenant Westendorp", "K. H. Westendorp", "Westendorp (Atjeh-officer)", "K. H. Westendorp, Lieutenant"]
+title: "K. H. Westendorp"
+aliases: ["K. H. Westendorp", "Lieutenant Westendorp", "Westendorp (Atjeh-officer)", "K. H. Westendorp, Lieutenant", "Luitenant Westendorp"]
 tags: [person, dutch, military, officer, aceh-war, 1896, killed-in-action, aceh, royal-netherlands-army]
 ---
 
@@ -23,6 +23,16 @@ The album records that the fallen officers of the spring [[1896]] operations —
 ## Significance
 
 Westendorp's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]] is as the first-named fatality of the spring [[1896]] crisis — the moment at which the *concentratie-stelsel* collapsed under the weight of [[Toekoe Oemar's defection (1896)|Toekoe Oemar's defection]]. His appearance in the [[Atjeh-Album (Eigen Haard, 1896)|Atjeh-Album of 1896]] — both in the narrative of the patrol and in the roll of the fallen — establishes the chronology of the crisis: the patrol of [[7 March]] was the first major engagement after the defection, and Westendorp's death four days later was the first Dutch officer fatality.
+
+## Account from *Schetsen uit den strijd op Groot-Atjeh* ([[1911]])
+
+[[P. H. R. Beuming]] records Westendorp's death and funeral in the third sketch of *[[Schetsen uit den strijd op Groot-Atjeh (1911)|Schetsen uit den strijd op Groot-Atjeh]]*.
+
+In Beuming's account of the [[Patrol of Captain Van Blokland (7 March 1896)|patrol of 7 March 1896]], the relief column under the captain of the general staff [[Kronouer]] came up from the neighbouring [[Lambarih]] and [[Lamsoet]] under the joint leadership of the lieutenants Westendorp and [[F. Ketjen|Ketjen]] and at once attacked the enemy in the flank, forcing him to change his front and to use the greater part of his force to cover it. The Van Blokland column was thereby left in peace, the wounded were quickly brought to [[Anak Galoeng]], and the men still able to fight took the enemy in the rear. The Kronouer column inflicted tremendous losses on the enemy, *maar helaas ook daar vielen aan onze zijde weer offers* — but alas there too victims fell on the Dutch side: *Luitenant K. H. Westendorp, een veelbelovend jong officier, werd door een buikschot doodelijk getroffen* — Lieutenant K. H. Westendorp, a promising young officer, was mortally struck by a shot in the belly.
+
+Beuming records that Westendorp died on [[10 March]] of the consequences of his wound and was buried on [[11 March]] [[1896]] *met de meeste plechtigheid en onder groote belangstelling* on the [[Peutjoet|Petjoet cemetery]]. Many flowers and wreaths covered the coffin as a last tribute to the promising officer *die helaas zoo vroeg op het veld van eer z'n leven liet voor Koningin en Vaderland*.
+
+The funeral prompts Beuming's description of the cemetery itself and of the scene at the graveside, when at the presenting of arms tears glistened in many a soldier's eye and those who had faced death beside the fallen man stood weeping like children. He notes that at every burial, whatever the faith of the deceased, [[Pastoor Verbraak]] was present.
 
 ## See Also
 
@@ -51,6 +61,10 @@ Westendorp's significance in the documentary record of the [[Aceh War|Atjeh-oorl
 - [[1896]]
 - [[Atjeh-Album (Eigen Haard, 1896)]]
 
-## Source
+## Sources
 
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 7, 28, 30 (De Poeassa — Atjehers en Kafirs — Anagaloeng; Gevallenen, hun Roeping Vervuld!).
+
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Schetsen uit den strijd op Groot-Atjeh* by P. H. R. Beuming (Amsterdam, [[1911]]). Dutch passages are quoted in the original with an English rendering.

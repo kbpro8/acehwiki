@@ -1,11 +1,12 @@
 ---
-title: Peutjoet
-aliases: [Peutjoet, Peutjot, Peucut, Peutjot cemetery, the Eik en Duinen of Aceh, Aceh cemetery, Kuta Alam cemetery, heroes cemetery, kerkhof te Peutjot, Kerkhof te Peutjot, kerkhof bij Kotaradja]
-tags: [place, cemetery, memorial, military, colonial, aceh, koeta-radja, knil, dutch, war-graves, achehnese-history]
-description: "Peutjoet (also Peutjot) was the military cemetery near Kota Radja in Atjeh, primarily intended for Dutch soldiers killed during the various military expeditions in Atjeh. The names of the fallen are carved into the stone walls of the entrance."
+title: "Peutjoet"
+aliases: ["Peutjoet", "Peutjot", "Peucut", "Peutjot cemetery", "the Eik en Duinen of Aceh", "Aceh cemetery", "Kuta Alam cemetery", "heroes cemetery", "kerkhof te Peutjot", "kerkhof bij Kotaradja", "Kerkhof Petjoet", "Petjoet cemetery", "the cemetery of Petjoet at Koeta Radja", "Petjoet"]
+tags: [place, cemetery, memorial, military, colonial, aceh, koeta-radja, knil, dutch, war-graves, achehnese-history, aceh-war]
 ---
 
 **Peutjoet** — also *Peutjot*, *Peucut* — is the military cemetery of [[Koeta-Radja]] in [[Atjeh|Aceh]], at which [[Dominee Thenu]] is buried "temidden van zovelen, die hij voorbereid had op die laatste gang daarheen" — among the many whom he had prepared for that last journey there. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Peutjoet is called the "Eik en Duinen" of Aceh — *Eik en Duinen* being the famous cemetery in The Hague — the place where a brave man was carried to his last resting-place, and where [[Dominee Thenu|Dominee Thenu]] was regularly present. The cemetery was primarily intended for Dutch soldiers and officers who fell during the various expeditions in Atjeh; the names of the dead are recorded in the stone walls at the entrance to the cemetery.
+
+**The Kerkhof Petjoet** was the military cemetery at [[Koeta Radja]] in [[Groot-Atjeh]], the burial place of the Dutch and native soldiers who fell in the [[Aceh War|Atjeh-oorlog]], and a recurring presence in [[P. H. R. Beuming]]'s *[[Schetsen uit den strijd op Groot-Atjeh (1911)|Schetsen uit den strijd op Groot-Atjeh]]*, which reproduces a photograph of its main gate.
 
 ## The "Eik en Duinen" of Aceh
 
@@ -37,6 +38,32 @@ Peutjoet is significant in *[[Oom Ambon van het K.N.I.L.]]* as the military ceme
 
 In the *Nederlandsch Indië Platen Atlas* ([[1926]]), Peutjoet stands alongside the [[Atjeh Monument]] in [[Weltevreden]] as the two principal physical memorials to the [[Aceh War]]: one on the battlefield itself, the other in the imperial capital. Together they enshrine the Atjeh conflict in the official colonial memory of the late Dutch East Indies.
 
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] gives Peutjoet its most evocative description in the Atjeh-oorlog corpus. *Waar witte grafsteenen blikkeren in de schaduw der boomen* — where white grave-stones gleam in the shade of the trees — the dead of the war lie: [[Scheepens]], Webb, [[Campioni]], [[Darlang]] and many others whose *zuilen* (columns) bear names and portraits. *Na de soos-fuiven* of Saturday nights, the officers and their wives would walk among the rows on Sunday mornings.
+
+[[Scheepens]], Zentgraff records, used to say to his wife as their carriage rolled past Peutjoet: *"Wat een geluk, later hier te liggen tusschen de ouwe krijgsmakkers."* The wish was granted: he was stabbed at Sigli on [[10 October]] [[1913]] and buried at Peutjoet three days later. *Heel Atjeh was er bij toen Scheepens zijn laatsten rit maakte naar Peutjoet.* His wife bent over the dead and said: *"Je was nooit bang geweest voor den dood; je noemde hem: de groote rust. Het was altijd je verlangen op Peutjoet te liggen bij je oude kameraden, Webb, Campioni."*
+
+[[Joannes Benedictus van Heutsz|Van Heutsz]] once said, looking at the white stones: *that he had an idea he would lie here someday*. The body of luitenant De Bruijn — *gedood in den overval bij den loeëng bij Meulaboh op den dag dat hij had moeten trouwen* — was brought by the *kapal poetih* to Oeleë Lheuë and so to Peutjoet; *zijne bruidsjapon was al in Java besteld*. Bodies of common soldiers were buried at [[Indrapoeri]]; the bodies of officers came to Peutjoet. The *sul* (grave) of [[Darlang]] on Peutjoet is, Zentgraff notes, *een der meest treffende*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+## The burial of Lieutenant Westendorp
+
+Beuming's fullest description arises from the funeral of Lieutenant [[K. H. Westendorp]], who died on [[10 March]] [[1896]] of the wound received in the [[Patrol of Captain Van Blokland (7 March 1896)|patrol of 7 March 1896]] and was buried on [[11 March]] *met de meeste plechtigheid en onder groote belangstelling* — with the greatest solemnity and before a large attendance. Many flowers and wreaths covered the coffin as a last tribute to the promising officer who *zoo vroeg op het veld van eer z'n leven liet voor Koningin en Vaderland*.
+
+Of the cemetery itself Beuming wrote: *Hoe menigmaal is het rustige Petjoet al niet getuige geweest van zulk een aangrijpende gebeurtenis. De ontelbare grafzerken zeggen het U; overal leest Ge: "Aan onze dierbare kameraden; aan onzen vriend en krijgsmakker, gevallen op het veld van eer te Lambaroe, Kroeng Raba, Kajoe Leh, Aroen" enz. enz.* — how many times has quiet Petjoet not been witness of such a moving event; the countless gravestones tell you so, and everywhere you read "to our dear comrades; to our friend and comrade in arms, fallen on the field of honour at [[Lambaroe]], [[Kroeng Raba]], [[Kajoe Leh]], [[Aroen]]," and so forth.
+
+He records that at the moment when the rifles were presented about the open grave as a last honour, *heb ik in menig krijgsmansoog tranen zien blinken* — he had seen tears glisten in many a soldier's eye, and that those who had faced death beside the fallen man could mostly not master their feelings and stood weeping like children. *O Moederland! Waart Ge daar eens getuige van, wat zoudt Ge meer sympathie gevoelen voor den koloniaal* — O mother country, were you once witness of that, how much more sympathy would you feel for the colonial soldier.
+
+At every burial, he adds — *onverschillig tot welk geloof de overledene ook behoorde* — irrespective of the faith to which the deceased belonged — [[Pastoor Verbraak]] was present.
+
+## Other burials recorded
+
+The dead of the [[Patrol to the Goeah Teroes on the Glé Betoes (25 September 1897)|patrol to the Goeah Teroes]] of [[25 September]] [[1897]] — Lieutenant [[J. van Greuningen]] and the fusiliers [[Winkelman]], [[Tuk]], [[Dissel]] and [[Siman]] — were carried the same day from [[Lok-Nga|Lho-Nga]] to Koeta Radja to be buried at Petjoet, *de rustplaats van zoovele dappere wapenbroeders*.
+
+Beuming writes of Pastoor Verbraak that many sons of the Netherlands who then rested at Petjoet *onder de schaduw der kokospalmen* — under the shade of the coconut palms — had been attended by him in their death struggle.
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -64,6 +91,12 @@ In the *Nederlandsch Indië Platen Atlas* ([[1926]]), Peutjoet stands alongside 
 - [[1937]]
 - [[1926]]
 - [[11 May]]
+- [[Koeta Radja]]
+- [[Pastoor Verbraak]]
+- [[K. H. Westendorp]]
+- [[Patrol of Captain Van Blokland (7 March 1896)]]
+- [[Patrol to the Goeah Teroes on the Glé Betoes (25 September 1897)]]
+- [[Schetsen uit den strijd op Groot-Atjeh (1911)]]
 
 ## Sources
 
@@ -73,12 +106,6 @@ In the *Nederlandsch Indië Platen Atlas* ([[1926]]), Peutjoet stands alongside 
 
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Plate 70.
 
-## Account from *Atjeh* by H.C. Zentgraff (1938)
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
 
-[[H.C. Zentgraff|Zentgraff]] gives Peutjoet its most evocative description in the Atjeh-oorlog corpus. *Waar witte grafsteenen blikkeren in de schaduw der boomen* — where white grave-stones gleam in the shade of the trees — the dead of the war lie: [[Scheepens]], Webb, [[Campioni]], [[Darlang]] and many others whose *zuilen* (columns) bear names and portraits. *Na de soos-fuiven* of Saturday nights, the officers and their wives would walk among the rows on Sunday mornings.
-
-[[Scheepens]], Zentgraff records, used to say to his wife as their carriage rolled past Peutjoet: *"Wat een geluk, later hier te liggen tusschen de ouwe krijgsmakkers."* The wish was granted: he was stabbed at Sigli on [[10 October]] [[1913]] and buried at Peutjoet three days later. *Heel Atjeh was er bij toen Scheepens zijn laatsten rit maakte naar Peutjoet.* His wife bent over the dead and said: *"Je was nooit bang geweest voor den dood; je noemde hem: de groote rust. Het was altijd je verlangen op Peutjoet te liggen bij je oude kameraden, Webb, Campioni."*
-
-[[Joannes Benedictus van Heutsz|Van Heutsz]] once said, looking at the white stones: *that he had an idea he would lie here someday*. The body of luitenant De Bruijn — *gedood in den overval bij den loeëng bij Meulaboh op den dag dat hij had moeten trouwen* — was brought by the *kapal poetih* to Oeleë Lheuë and so to Peutjoet; *zijne bruidsjapon was al in Java besteld*. Bodies of common soldiers were buried at [[Indrapoeri]]; the bodies of officers came to Peutjoet. The *sul* (grave) of [[Darlang]] on Peutjoet is, Zentgraff notes, *een der meest treffende*.
-
-*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+*Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.
