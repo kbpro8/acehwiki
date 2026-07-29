@@ -1,10 +1,16 @@
 ---
-title: Baleh-baleh
-aliases: [Baleh-baleh (day-bed), Bale-bale, Balai-balai, Atjeh day-bed, Atjehsche baleh-baleh]
-tags: [concept, furniture, atjehnese, ceremony, etiquette]
+title: "Baleh-baleh"
+aliases: ["Baleh-baleh", "Baleh-baleh (day-bed)", "Bale-bale", "Balai-balai", "Atjeh day-bed", "Atjehsche baleh-baleh", "Bali-bali", "balé-balé", "bamboo platform bed"]
+tags: [concept, furniture, atjehnese, ceremony, etiquette, material-culture, achehnese, malay, terminology]
 ---
 
 **Baleh-baleh** (also *bale-bale*, *balai-balai*) was the Atjeh and Malay-Indonesian day-bed or low couch on which the Dutch legation was seated during the formal audience with the [[Sultana of Atjeh (1641)|Sultana of Atjeh]] on [[1 July]] [[1641]]. The *baleh-baleh* is a piece of portable furniture — a wooden frame with woven rattan or palm-leaf surface, light enough to be moved and set up for an honoured guest — and its placement in the audience hall was itself a ceremonial act, marking the place the Sultana had assigned to her Dutch visitors.
+
+***Bali-bali*** — also written *balé-balé* — was the low platform-bed of split bamboo or wood used throughout the Malay world and in [[Acheh|Atjeh]] for sitting, sleeping and the carrying of the sick.
+
+The term appears in the record of the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[17 November]] [[1897]] in a single sentence of [[H. van Kol]]'s catalogue of atrocities: "Nog kort geleden werd een oude man [[Joed Mohmed Lamtengah]] op een bali-bali naar buiten gedragen en toen doodgeschoten" — recently an old man was carried outside on a *bali-bali* and then shot dead.
+
+The detail is significant in the passage because it establishes the condition of the victim: a man too infirm to walk, carried out on the platform on which he lay, and therefore *hors de combat* in the sense of the [[Brussels Conference of 1874|Brussels articles]] which Van Kol had quoted a few lines earlier — "tuer un ennemi qui se rend, ou qui est impuissant à se défendre est un crime déshonorant."
 
 ## Description
 
@@ -31,7 +37,17 @@ For [[Acheh|Atjeh]]'s history, the *baleh-baleh* is the piece of furniture by wh
 - [[1 July]]
 - [[1641]]
 - [[Acheh]]
+- [[Joed Mohmed Lamtengah]]
+- [[Atrocities in the Aceh War as alleged in the Tweede Kamer (1897)]]
+- [[H. van Kol]]
+- [[Lois et coutumes de la guerre]]
+- [[Brussels Conference of 1874]]
+- [[1897]]
 
-## Source
+## Sources
 
 *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter XI ("Atjehsche ambassade. Inlandsche feesten. Maagden als losprijs"), pp. 39–43 of the numbered-letter sequence.
+
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, p. 64.
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.

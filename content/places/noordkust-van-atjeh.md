@@ -1,10 +1,12 @@
 ---
-title: Noordkust van Atjeh
-aliases: [North Coast of Atjeh, Aceh Utara, Noordkust Atjeh]
-tags: [place, afdeeling, noordkust, atjeh, coastal, pidie, administrative-division]
+title: "Noordkust van Atjeh"
+aliases: ["Noordkust van Atjeh", "North Coast of Atjeh", "Aceh Utara", "Noordkust Atjeh", "Noordkust", "the East or so-called North Coast of Atjeh"]
+tags: [place, afdeeling, noordkust, atjeh, coastal, pidie, administrative-division, aceh, coast, region, medicine, geography]
 ---
 
 **Noordkust van Atjeh** (North Coast of Atjeh) was an *afdeeling* (division) of the [[Gouvernement Atjeh en Onderhoorigheden]], administered by Assistent-Resident [[M. C. Roos van Raadshoven]]. The Noordkust covered the northern coastline of Atjeh, including the important region of [[Pidië]] (administered as a separate *onderafdeeling* under Civiel Gezaghebber [[Th. J. Veltman]]). The northern coast had been one of the first areas of Atjeh to come under Dutch control and contained some of the most densely populated districts in the entire *Gouvernement*. The designation "Noordkust" reflected the colonial administrative practice of organizing Atjeh's territories along coastal axes, a pattern that mirrored the initial points of Dutch military penetration and the subsequent establishment of administrative control from coastal enclaves inland.
+
+**The Noordkust van Atjeh** — the North Coast of [[Acheh|Atjeh]], called by [[J. Tijssen|Dr. J. Tijssen]] "het Oosten, de zoogenaamde Noordkust" — was the coastal belt of northern Atjeh in which Tijssen conducted his earliest and largest village eye-surgery campaigns, and which the pamphlet *[[Een strijd in Atjeh (1934)]]* contrasts throughout with the [[Atjeh's Westkust|West Coast]].
 
 ## Historical Background and Administrative Significance
 
@@ -22,10 +24,44 @@ The merger of the Noordkust and Oostkust into a single *afdeeling* represented a
 
 With a combined population of approximately 480,000, the proposed "Noord- en Oostkust van Atjeh" was by far the most populous of the Atjeh-based *afdeelingen* in the new [[Noord-Sumatra (proposed gewest)]]. The next most populous was the combined "Groot-Atjeh benevens de Westkust van Atjeh" with approximately 210,000 inhabitants. This disparity in population between the coastal *afdeeling* and the interior/coastal combination reflected the demographic concentration along the northern and eastern littorals of Atjeh, where the most fertile agricultural land and the longest-established settlements were located. The large population of the combined Noord- en Oostkust *afdeeling* also meant that it would require a correspondingly robust administrative apparatus, including a Resident and the full complement of subordinate officials necessary to govern nearly half a million people spread across a substantial coastal territory.
 
+## The medical work
+
+The pamphlet records four stages of Tijssen's work on this coast. In [[1923]] he caused the blind of four small villages there to be brought together and found two hundred and twenty-six of them — a figure he used to argue that the number of blind in the *[[Kampong|kampongs]]* must be far greater than the portion that let itself be roused from "de doffe gelatenheid waarmee de Inlander het leed dat hem wordt opgelegd, draagt." — the dull resignation with which the native bears the suffering laid upon him.
+
+In November [[1931]] he was at [[Idi]] on the same seaboard, where among twenty-five blind persons forty-five cataractous eyes were operated on and twenty-three people left with sight sufficient for their needs; the treatment was carried out in a small sick-room and the patients came in on the rumour of it.
+
+In the [[Cataract campaign on the North Coast of Atjeh (1932)|campaign of 1932]] he went into the *kampongs* of the North Coast and operated on eighty-three persons in twenty-six days, working in a small polyclinic building, in an administrative office and in a buffalo stable. It was on this coast that he dealt with the chief [[Teukoe Oemar van Bernoen]] at [[Bernoen]], and here that the cover photograph of the treated cataract sufferers of [[Long Poetoe]] was taken.
+
+## Comparison with the West Coast
+
+When in [[1933]] the governor [[A. Ph. van Aken|Van Aken]] directed him to the [[Atjeh's Westkust|West Coast]] instead, Tijssen recorded that what interested him were "vooral de eventueele verschillen tusschen de oogziekten van de Westkust en die van het Oosten, (de zoogenaamde Noordkust) waar ik al vroeger had gewerkt." — above all the possible differences between the eye diseases of the West Coast and those of the East (the so-called North Coast), where I had already worked earlier. In this respect, he found, little or no difference appeared to exist, though the number of treatments on the West Coast was smaller, for other reasons — chiefly the thinness of the population along that narrow strip.
+
 ## See Also
 
-[[M. C. Roos van Raadshoven]], [[Pidië]], [[Th. J. Veltman]], [[Oostkust van Atjeh]], [[Tamiang]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Groot-Atjeh]], [[Noord-Sumatra (proposed gewest)]]
+- [[M. C. Roos van Raadshoven]]
+- [[Pidië]]
+- [[Th. J. Veltman]]
+- [[Oostkust van Atjeh]]
+- [[Tamiang]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Groot-Atjeh]]
+- [[Noord-Sumatra (proposed gewest)]]
+- [[J. Tijssen]]
+- [[Cataract campaign on the North Coast of Atjeh (1932)]]
+- [[Bernoen]]
+- [[Long Poetoe]]
+- [[Idi]]
+- [[Atjeh's Westkust]]
+- [[Een strijd in Atjeh (1934)]]
+- [[1923]]
+- [[1931]]
+- [[1932]]
 
-## Source
+## Sources
 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130.
+
+*Een strijd in Atjeh (Een oogarts op het oorlogspad)*, door Mr. C. Graadt van Roggen, met een voorrede van den heer H. Wanting, redacteur *Nieuwe Rotterdamsche Courant* (Rotterdam: N.V. Drukkerij Korteweg, uitgave van de Vereeniging „SIMAVI”, [[1934]]), pp. 3–4, 6–7, 10.
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.

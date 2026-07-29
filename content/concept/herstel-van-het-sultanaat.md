@@ -1,10 +1,12 @@
 ---
 title: "Herstel van het sultanaat"
-aliases: ["Herstel van het sultanaat", "restoration of the sultanate", "herstel van het sultanaat in Atjeh", "restoration of the Achehnese sultanate", "sultanate restoration debate", "sultanaat herstel"]
-tags: [concept, colonial, dutch, achehnese, sultanate, political, aceh-war, 19th-century]
+aliases: ["Herstel van het sultanaat", "restoration of the sultanate", "herstel van het sultanaat in Atjeh", "restoration of the Achehnese sultanate", "sultanate restoration debate", "sultanaat herstel", "Restoration of the sultanate of Atjeh (proposal)", "herstel van het sultanaat op Atjeh", "restoration of the Acehnese sultanate"]
+tags: [concept, colonial, dutch, achehnese, sultanate, political, aceh-war, 19th-century, aceh, 1897]
 ---
 
 **Herstel van het sultanaat** ("restoration of the sultanate") was the Dutch colonial policy proposal — debated from [[1879]] to [[1892]] and intermittently pursued as official strategy — to restore the indigenous sultanate in [[Groot-Atjeh|Groot-Atjeh]] under [[Toeankoe Mohamad Daoed|Toeankoe Mohamad Daoed]] as sultan, within the framework of Dutch sovereignty, as the means of obtaining the submission of the [[Atjehers|Atjehers]] and ending the [[Aceh War|Atjeh-oorlog]]. The proposal was the subject of a celebrated article by [[Laging Tobias|Laging Tobias]], "Het herstel van het sultanaat in Atjeh," published in the *Indische Gids* of [[December]] [[1886]]; was supported by successive ministers of colonies including [[I. D. Fransen van de Putte|Fransen van de Putte]], [[Minister van Bloemen Waanders|Minister van Bloemen Waanders]], and [[Minister Sprenger van Eijk|Minister Sprenger van Eijk]]; and was adopted as official policy during the governorship of [[General van Teijn|Generaal van Teijn]] ([[1886]]–[[1891]]). It was rejected by [[J. B. van Heutsz|Van Heutsz]] in his [[De onderwerping van Atjeh (Van Heutsz, 1893)|1893 brochure]] on grounds that the present sultan's lineage had never possessed real authority, had been placed on the throne by bribery, and was opposed by the chiefs who would be compelled to support it against their own interests.
+
+**The restoration of the sultanate of Atjeh** was the policy option — the reinstatement of an Acehnese sultan under Dutch suzerainty on the model of the princely houses of Central Java — which was raised and set aside in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November]] [[1897]].
 
 ## The Proposal
 
@@ -33,6 +35,22 @@ The idea was subsequently rejected by the Indian government after the departure 
 
 6. **The restoration would merely play into [[Toeankoe Haschim|Haschim]]'s hand.** By seeking the sultan's submission, the Dutch had already confirmed what Haschim wished to prove: that the sultan was the centre around which everything turned. Restoring him would strengthen the Kemala party and give the resistance a legitimate rallying point.
 
+## Bahlmann's account of why it was foreclosed
+
+[[Bahlmann]] argued that the possibility had been destroyed at the outset by two acts. The first was the dispatch of the Minister [[Isaac Dignus Fransen van de Putte|Fransen van de Putte]] — "souvereiniteitserkenning of oorlog" — by which "konden destijds de staats- en krijgslieden tot geen andere overtuiging komen, dan dat wij Nederlanders in Atjeh, niet een staat van zaken zouden vestigen als op Midden Java maar dat Atjeh onder ons direct bestuur zou komen." — the statesmen and soldiers of the day could come to no other conviction than that we Netherlanders in Atjeh would establish, not a state of affairs such as in Central Java, but that Atjeh would come under our direct administration. The second was [[Van Swieten's proclamation on the sovereignty of Atjeh|Van Swieten's proclamation]]: "Wij Nederlanders zijn gekomen in plaats van den Sultan. Wij hebben de Souvereiniteit over het geheele land aanvaard." — We Netherlanders have come in the place of the Sultan. We have accepted the Sovereignty over the whole country.
+
+Bahlmann concluded: "Vergis ik mij niet, dan is van de Regeering niet te wachten: herstel van het sultanaat op Atjeh. Het schijnt dat niet alleen de Indische Regeering, maar ook deze Minister van dergelijken eisch tot pacificatie niets wil weten. Ik zal daarop dan ook niet verder aandringen. Men wil nu eenmaal de souvereiniteit over [[Groot-Atjeh]]. Laat men dan geen halve maatregelen nemen, maar in de ingeslagen richting consequent doorgaan."
+
+## Cremer's position
+
+The Minister of Colonies [[J. T. Cremer|Cremer]] confirmed the reading. He stated that the requirements laid down by Bahlmann concerning the capture of [[Teuku Umar|Toekoe Oemar]] and the conclusion of an agreement with the sultan formed no necessary parts of the government's programme; that no approach had so far come from the sultan's side; and that "herhaling van de onderhandelingen met den sultan onzerzijds ligt niet in de bedoeling." — a repetition of the negotiations with the sultan on our side does not lie in our intention.
+
+He gave a further ground, drawn from his view of the Acehnese polity: "Er wordt geen vrede gesloten met een volk, dat geen hoofd heeft of ooit gehad heeft, met zooveel invloed, dat het voor het geheele volk kan spreken, en dat voor een zeer groot deel onze souvereiniteit erkent. Dus zal de oorlog ook nooit op een gegeven oogenblik uit zijn; men zal nooit een bulletin kunnen uitgeven: de Atjeh-oorlog is uit." — No peace is concluded with a people that has no head, and never has had one, of such influence that he can speak for the whole people, and that recognises our sovereignty for a very great part. Thus the war will also never at a given moment be over.
+
+## The alternative pursued
+
+In place of a treaty with a restored sultanate, Dutch authority on the coast rested on the [[Verklaringen van de kustvorsten van Atjeh|declarations of the sixty-two coastal princes]], the earliest of [[1885]], by which each ruler individually acknowledged that his *landschap* belonged to [[Nederlandsch-Indië|Netherlands India]] and recognised the Queen as lawful sovereign. In [[Groot-Atjeh]] it rested on the [[Post-1896 system in Atjeh|system of mobile columns]] and on government "in vereeniging met de hoofden" — with the acknowledged difficulty that those chiefs could not exercise sufficient authority over their subjects.
+
 ## See Also
 
 - [[Toeankoe Mohamad Daoed]]
@@ -50,7 +68,20 @@ The idea was subsequently rejected by the Indian government after the departure 
 - [[Kemala]]
 - [[Pedir]]
 - [[Sultanate of Aceh]]
+- [[Bahlmann]]
+- [[J. T. Cremer]]
+- [[Van Swieten's proclamation on the sovereignty of Atjeh]]
+- [[Isaac Dignus Fransen van de Putte]]
+- [[Pretendent-sultan van Atjeh]]
+- [[Verklaringen van de kustvorsten van Atjeh]]
+- [[Post-1896 system in Atjeh]]
+- [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
+- [[1897]]
 
-## Source
+## Sources
 
 *De onderwerping van Atjeh*, by J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, pp. 26–28, 42–57, 90–94.
+
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 29–30, 54, 58.
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.

@@ -1,10 +1,12 @@
 ---
-title: Sjahid
-aliases: [sjahid, shahid, geloofsmartelaar, martyr of the faith]
-tags: [concept, religious, acehnese, resistance]
+title: "Sjahid"
+aliases: ["Sjahid", "shahid", "geloofsmartelaar", "martyr of the faith", "Jahid", "jahid's", "martyr of the prang sabil"]
+tags: [concept, religious, acehnese, resistance, islam, religion, achehnese, aceh-war, martyrdom, terminology]
 ---
 
 **Sjahid** — also *shahid*, the Arabic term for a martyr of the faith — was the status accorded by the Acehnese religious resistance to those who fell in the *[[prang sabi]]* (the holy war) against the [[K.N.I.L.]]. In *[[Oom Ambon van het K.N.I.L.]]* the *sjahid* is the religious framing of the death of the [[Teungkoe Sjech Saman di Tiri|Tiriō]] resistance leaders: *[[Tgk. Mat Amin]]* fell as a *geloofsgetuige* (a witness of the faith) at the [[Battle of Aneu Galong (1896)|Battle of Aneu Galong]] in [[1896]]; *[[Tgk. Tjhi Ma'at]]* became *sjahid, geloofsmartelaar in de heilige oorlog* when he was killed by the korporaal [[Nussy]] on [[3 December]] [[1911]].
+
+***Jahid*** was the term — a Dutch rendering of the Arabic *shahīd*, witness or martyr — applied by [[H. van Kol]] in the [[Tweede Kamer]] on [[16 November]] [[1897]] to the Acehnese fighters who allowed themselves to be shot down in the [[Prang Sabil|prang sabil]].
 
 ## The doctrine
 
@@ -21,25 +23,6 @@ When the corpse of *[[Tgk. Tjhi Ma'at]]* was carried out to [[Tangsé]], "de bev
 ## Significance
 
 The *sjahid* is significant in *[[Oom Ambon van het K.N.I.L.]]* as the religious framing of the death of the [[Teungkoe Sjech Saman di Tiri|Tiriō]] resistance leaders. The book's argument is that the *sjahid* status of the fallen was the doctrinal inheritance of the next generation, and that the *sjahid*'s relics made the doctrine a permanent feature of the country's religious memory. The *sjahid* is therefore the book's marker of the religious dimension of the [[Atjeh-oorlog|Aceh War]] — the dimension the [[K.N.I.L.]] could not, in the end, defeat by arms alone.
-
-## See Also
-
-- [[Prang sabi]]
-- [[Tgk. Tjhi Ma'at]]
-- [[Tgk. Mat Amin]]
-- [[Teungkoe Sjech Saman di Tiri]]
-- [[Battle of Aneu Galong (1896)]]
-- [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
-- [[Nussy]]
-- [[Tangsé]]
-- [Allah](/concept/allah)
-- [Paradijs](/concept/paradijs)
-- [[3 December]]
-- [[1911]]
-
-## Source
-
-*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
 
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
 
@@ -62,3 +45,39 @@ The body of the holy [[Tengkoe Tjot Plieëng]] — killed by the patrol of luite
 *Er is geen oorlog, dus men kan geen sjahid (martelaar voor het geloof) worden*, said the Oelama's of [[Peureula]] in [[1917]]; *dacht het volk er anders over, deze oorlog zou in de latere jaren een geheel ander karakter hebben gehad*.
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+## The passage
+
+Van Kol's words were: "Wanneer die Atjehsche voorvechters in 't witte doodskleed gehuld met de armen over de borst gekruist zich kalm laten neerschieten, dan moeten wij eerbied hebben voor zulke mannen, die door andere drijfveeren dan kwaadwilligheid worden gedreven, en erkennen, dat zij die zóó weten te sterven voor hunne overtuiging — al mocht die niet de onze zijn — werkelijke *jahid's* zijn, getuigen en martelaren van hunne liefde voor godsdienst en vaderland."
+
+The gloss he supplied — "getuigen en martelaren," witnesses and martyrs — is the correct sense of the Arabic root, *shahīd* signifying both the witness and the one who dies in the path of God. The white shroud (*wit doodskleed*) and the crossed arms describe the ritual preparation of the Acehnese fighter who had vowed himself to death in the holy war.
+
+## See Also
+
+- [[Prang sabi]]
+- [[Tgk. Tjhi Ma'at]]
+- [[Tgk. Mat Amin]]
+- [[Teungkoe Sjech Saman di Tiri]]
+- [[Battle of Aneu Galong (1896)]]
+- [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
+- [[Nussy]]
+- [[Tangsé]]
+- [Allah](/concept/allah)
+- [Paradijs](/concept/paradijs)
+- [[3 December]]
+- [[1911]]
+- [[Prang Sabil]]
+- [[Prang sabil as understood in the Tweede Kamer (1897)]]
+- [[H. van Kol]]
+- [[Kafir]]
+- [[J. T. Cremer]]
+- [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
+- [[1897]]
+
+## Sources
+
+*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
+
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 11–12.
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.

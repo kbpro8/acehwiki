@@ -1,6 +1,6 @@
 ---
-title: Segli
-aliases: [Segli, Seulimeum, Segli on the Noordkust, Sigli]
+title: "Segli"
+aliases: ["Segli", "Seulimeum", "Segli on the Noordkust", "Sigli"]
 tags: [place, coast-state, dutch-colonial, aceh-war, port, atjeh, 19th-century, north-coast, dutch-post, onderhoorigheden, scheepvaartregeling]
 ---
 
@@ -48,6 +48,42 @@ The *Gouverneur Pompe* autorisatie — the authorisation of the eleventh Governo
 
 In Van Heutsz's own [[1893]] prescription, Segli was retained as one of the open ports of the *scheepvaartregeling*. Scherer's [[20 January]] [[1891]] *lezing* (lecture) before the *Indisch Genootschap* had named Segli as one of four Noordkust ports — *Op de Noordkust: 1 Edi. 2 Telok Semawé 3 Samalanga 4 Segli* (On the Noordkust: 1. Edi, 2. Telok Semawé, 3. Samalanga, 4. Segli) — and Van Teijn had endorsed the reduced list of three: *De Generaal van Teijn achtte op de Oost- en Noordkust: Edi, Telok Semawé en Segli, althans vooreerst, voldoende* (General van Teijn considered Edi, Telok Semawé and Segli sufficient, at least for the present, on the East- and North Coast). Van Heutsz concurred, and the prescription that closed the [[1893]] tract retained Segli as one of the open call-ports of the *scheepvaartregeling* Van Heutsz would himself implement as Governor of Atjeh from [[1898]] onward.
 
+## The Move from Pedir, February [[1877]]
+
+## The Attack of May [[1878]]
+
+## The Administrative Reorganisation, March [[1881]]
+
+## Account from *De onderwerping van Atjeh* (Van Heutsz, [[1893]])
+
+### The [[1884]] partial closure: one of three open call-ports
+
+### The [[1890]]–[[1891]] enforcement: Pedir-Gighen under the postcommandant
+
+The high-water mark of Dutch closure-policy on the Pedir-Gighen stretch was reached in the beginning of [[1890]], when Van Teijn's progressive closure of the *Noord- en Westkust* — begun in January [[1888]] and extended in stages — was *in 't begin van [[1890]] eindelijk was uitgestrekt over de geheele Noord- en Westkust* (in the beginning of [[1890]] finally extended over the entire Noord- en Westkust). The closure was enforced, on the Pedir-Gighen stretch of the coast, by the *postcommandant te Segli*. Van Heutsz records the institutional arrangement as the empirical proof of the closure's coercive capacity: by the beginning of [[1891]] *die zoo krachtig en stelselmatig toegepaste sluiting reeds in ruim één jaar tijd begin [[1891]] een effect had teweeggebracht, dat zelfs de verwachting van Generaal van Teijn overtrof* (that closure, so forcefully and systematically applied, had within little more than a year by the beginning of [[1891]] produced an effect that exceeded even General van Teijn's own expectations). The closure reduced Pedir to starvation: by [[1891]] *de rijke passar te Pedir door de sluiting geheel verarmd en zoo goed als verloopen was* — the rich market of Pedir had been impoverished by the closure and was as good as ruined — and the crushed *Tengkoe Pakeh Pedir* submitted verbally: *Mijnheer, repliceerde Tengkoe Pakeh, Uwe hand drukt zwaar, maar ik onderwerp mij aan Uwen wil* (Sir, replied Tengkoe Pakeh, your hand presses heavily, but I submit to your will).
+
+### The [[1893]] prescription: Segli as one of four Noordkust ports
+
+## Account from *Atjeh in de Tweede Kamer* ([[1897]])
+
+Segli was repeatedly invoked in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]\u2013[[17 November]] [[1897]] as the test case of the [[Post-1896 system in Atjeh|new Dutch system]] in [[Acheh|Atjeh]].
+
+### Van Vlijmen's approval
+
+[[Van Vlijmen]] told the chamber that the princes on the coast would now begin to understand that the Dutch were in earnest with the maintenance of their authority. In the previous year he had suggested that it would be useful to set some of the so-called friends to rights: "Inderdaad heeft Segli nu eens een lesje gehad, en ik hoop dat nog andere vrienden spoedig eene vermaning mogen ontvangen, opdat de vriendschap bevestigd worde." — Segli has indeed now had a lesson, and I hope that other friends too may soon receive an admonition, so that the friendship may be confirmed.
+
+### Cremer's explanation of the expedition
+
+The Minister of Colonies [[J. T. Cremer|Cremer]] used Segli to answer [[Pijnacker Hordijk]]'s question whether the Dutch would not be compelled to go further, into [[Pedir]] and [[Gighen]], and whether they had men not only to make war on those districts but to occupy and hold them.
+
+He referred to what had happened at Segli. There, he said, roughly the same condition prevailed as in the Pedir country: "de vorsten aan de kust zijn ons niet vijandig gezind, maar zij zijn niet krachtig genoeg om de in de [[Tanawaqt]] of in de [[VII Moekims]] samengestroomde [[Delama-benden|Delama-benden]] te verjagen." — the princes on the coast are not hostile to us, but they are not strong enough to drive out the Delama bands that have streamed together in the Tanawaqt or in the VII Moekims, and for that reason the expedition to Segli took place. For that reason the [[Sigli expedition (August 1897)|expedition to Segli]] had taken place — "niet om Segli zelf te nemen, maar wel om de vijandelijke benden uit de moekims [[Pakan Baroe]] en [[Pokan Soth]] te verjagen." — not to take Segli itself, but to drive the hostile bands out of the moekims Pakan Baroe and Pokan Soth.
+
+That, he said, had been done. After the expulsion the chief of that district had taken the land under his management, and it was not at all necessary to keep the place occupied. Only from the fixed post of Segli was daily supervision kept over the swept district, to which the population was gradually returning. "Zoo is het ook met [[Pedir]]." — So it is also with Pedir. Should similar clearances become necessary in the interior or elsewhere, that would be done, and then the completion of the steam tram to [[Selimoen]] would be of great advantage and use to the troops and would facilitate eventual action in those interior districts.
+
+### The departure of the expedition
+
+Answering the charge of cruelty, Cremer described the departure of the expedition to Segli as reported to him by an eyewitness: a general excitement prevailed among the soldiers as they marched out; short addresses were delivered by the battalion commanders reminding them of their duty towards Queen, fatherland and colours; the Christian natives were addressed in simple words by their own *voorgangers*, and these words were greeted with great cheering — "geen gejuich van bloeddorstige dieren," he insisted, but testimony to a cheerful and glad acceptance of a heavy task.
+
 ## See Also
 
 - [[Pedir]]
@@ -86,3 +122,7 @@ In Van Heutsz's own [[1893]] prescription, Segli was retained as one of the open
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 80, 84, 96, 114.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 29, 31, 35, 50, 56, 60, 67, 68, 77, 91, 92. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 33, 55, 59.
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.

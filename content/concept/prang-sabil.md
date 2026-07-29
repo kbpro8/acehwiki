@@ -1,11 +1,12 @@
 ---
-title: Prang sabil
-aliases: ["Prang sabil", "prang sabil", "Heilige Oorlog", "Holy War", "Heiligen Krijg", "Heiligen Oorlog", "geloofsoorlog", "djihad", "jihad", "fi sabil Allah", "Sabil Allah", "Sabilillah"]
-tags: [concept, religious, islamic, aceh, aceh-war, resistance, prang-sabil, jihad, achehnese, military]
-description: "The Acehnese holy war against the unbelievers — from Arabic fi sabil Allah, 'on the path of God' — organised by Tengkoe Sjech Saman di Tiro after the removal of Habib Abdoerrachman el Zahir; financed by oewang sabil contributions; offering the Acehnese the choice between mèl (submission) and sjahid (martyrdom)."
+title: "Prang sabil"
+aliases: ["Prang sabil", "Heilige Oorlog", "Holy War", "Heiligen Krijg", "Heiligen Oorlog", "geloofsoorlog", "djihad", "jihad", "fi sabil Allah", "Sabil Allah", "Sabilillah", "Prang sabil as understood in the Tweede Kamer (1897)", "prang sabil in the 1897 debate", "heilige oorlog Atjeh 1897", "the holy war of Atjeh in Dutch parliamentary debate"]
+tags: [concept, religious, islamic, aceh, aceh-war, resistance, prang-sabil, jihad, achehnese, military, religion, islam, parliament, 1897]
 ---
 
 **Prang sabil** — Acehnese: *holy war*; from the Arabic *fi sabil Allah*, *on the path of God* — was the Islamic war against the unbelievers that organised and animated the [[Aceh War|Atjeh resistance]] from the [[1870s]] onward. *De Kompeuni was de kaphé, de ongeloovige; de oorlog die hij voerde was geen politieke maar een godsdienstige zaak*. The Koran prescribes the war against the unbelievers; *de Mohammedaan moet den djihad voeren fi sabil Allah; op den weg van God*. After the removal of [[Habib Abdoerrachman el Zahir]] to [[Mekka]] in [[1878]], the leadership of the *prang sabil* fell to [[Tengkoe Sjech Saman di Tiro]]: *De prang sabil was zijn werk, en zijn sterke religieuze overtuiging begeesterde duizenden. Het krijgsvolk stroomde naar hem toe, en het ging blijmoedig den dood van den sjahid tegemoet*.
+
+**Prang sabil as understood in the Tweede Kamer** describes the way in which the Acehnese holy war — *[[Prang Sabil|prang sabil]]*, the war in the path of God — was interpreted and disputed by Dutch parliamentarians in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]\u2013[[17 November]] [[1897]]. The debate contains three distinct readings: that of [[H. van Kol]], that of the Minister [[J. T. Cremer|J. T. Cremer]], and that of [[Abraham Kuyper|Kuyper]].
 
 ## The Tiro-oelama's as organisers
 
@@ -46,6 +47,26 @@ The *sabil Allah* doctrine is the indispensable ideological context of the [[Ace
 ## Significance
 
 The *prang sabil* made the [[Aceh War|Atjeh-oorlog]] a war that no political negotiation could end. The choice between *mèl* and *sjahid* — between submission and martyrdom — was a religious one, and the Tiro-oelama's kept it alive for forty years. Even after the war was over, the booklets and the formulae circulated; the risings on the Westkust in [[1925]]–[[1927]], the *Lhong* affair of [[1933]], and the small echo of [[1935]] were all, in their way, late rumblings of the *prang sabil*.
+
+## Van Kol: a fanaticism the Dutch themselves awakened
+
+[[H. van Kol|Van Kol]] paid tribute to the Acehnese fighters in terms unusual in the Dutch chamber: "Wanneer die Atjehsche voorvechters in 't witte doodskleed gehuld met de armen over de borst gekruist zich kalm laten neerschieten, dan moeten wij eerbied hebben voor zulke mannen, die door andere drijfveeren dan kwaadwilligheid worden gedreven, en erkennen, dat zij die zóó weten te sterven voor hunne overtuiging — al mocht die niet de onze zijn — werkelijke *[[Jahid|jahid's]]* zijn, getuigen en martelaren van hunne liefde voor godsdienst en vaderland."
+
+He held that the fanaticism driving them was of Dutch making: "Het is fanatisme dat hen drijft: maar wij hebben dat fanatisme opgewekt; in den langen strijd tegen de meest gehate van alle *[[Kafir|Kafirs]]* (en dat zijn wij door ons verleden en ons heden), hebben wij van een manmoedig verzet tegen vreemde indringers een heiligen strijd gemaakt, een volks-oorlog, waarvoor zij verwachten dat [[Allah]] hen in den Hemel beloonen zal." — It is fanaticism that drives them: but we have awakened that fanaticism; in the long struggle against the most hated of all Kafirs (and that we are, by our past and our present), we have made of a manly resistance against foreign intruders a holy struggle.
+
+On [[17 November]] he turned the argument against [[Abraham Kuyper|Kuyper]]: would Kuyper dare to preach "gij zult niet doodslaan" over there, where here he had fired men to a *heiligen krijg* against the Acehnese that could only end with the destruction of Atjeh? And would he dare to speak scornfully of the *[[Ulama|oelama's]]* over there, who also urged to the holy war "maar in dien *djihad* wagen eigen leven en offeren eigen geld, terwijl men dezerzijds het bloed laat vloeien van huurlingen en betaalt met het geld van den Javaan?" — but in that djihad they risk their own lives and sacrifice their own money, while on our side one lets the blood of hirelings flow and pays with the money of the Javanese?
+
+## Cremer: the zealots as enemies of the population
+
+[[J. T. Cremer|Cremer]] presented the contrary reading, and denied that a people's war was being waged at all: "Men moet niet gelooven dat men in die streken en op de kust een volksoorlog voert; neen, de bevolking sluit zich, evenals elders in den Archipel, aan bij den sterkste en bij hem die haar beschermt en daardoor in de gelegenheid stelt om te werken en te leven." — One must not believe that in those districts and on the coast a people's war is being waged; no, the population attaches itself, as elsewhere in the Archipelago, to the strongest and to him who protects it and thereby puts it in a position to work and to live.
+
+On that basis he characterised the promoters of the holy war as themselves oppressors: "De geestdrijvers op Atjeh die de bevolking medeslepen tot den heiligen oorlog en haar den *prang sabil* afpersen, zijn minstens evengoed hare vijanden als wij." — The zealots in Atjeh who drag the population into the holy war and extort the prang sabil from it are at least as much its enemies as we are. The verb *afpersen* — to extort — indicates the reading of the *[[Sabil contributions|sabil]]* levy as a forced exaction upon an unwilling population.
+
+He supported the reading with the doctrine of the [[Post-1896 system in Atjeh|new system]], resting on the distinction between the husbandman who, "die volgens [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]] ook naar Atjehsche begrippen de kracht der natie uitmaakt," — who according to Dr. Snouck Hurgronje constitutes, also on Acehnese conceptions, the strength of the nation, was now protected and needed carry no arms, and those who wished to fight and must join the bands. He adduced as evidence that at the last incursions of small bands of [[Teuku Umar|Toekoe Oemar]] into the [[XXV Moekims]] the population itself had driven off those bands before Dutch patrols could arrive, and had killed the leader of the last.
+
+## Kuyper: the war as a Christian calling
+
+[[Abraham Kuyper|Kuyper]] supplied the third reading, which [[Pieter Jelles Troelstra|Troelstra]] denounced as an attempt to give the war "althans een glimp van heiligheid." Kuyper looked forward to bringing Atjeh, once resistance was broken, "de zegeningen van een vast en ordelijk bestuur, de zegeningen van onze hoogere beschaving en ontwikkeling, en ik voeg er bij, bovenal de zegeningen van het Evangelie, dat alleen waarlijk vrij maakt en verlost." — the blessings of a firm and orderly administration, the blessings of our higher civilisation and development, and I add, above all the blessings of the Gospel, which alone truly makes free and redeems. Troelstra quoted against him his words of the previous year about a "heilig besef" awakening in the Dutch of the calling to bring Atjeh the blessings of safety and order received by the Netherlands since the light of the Gospels penetrated there.
 
 ## See Also
 
@@ -94,9 +115,21 @@ The *prang sabil* made the [[Aceh War|Atjeh-oorlog]] a war that no political neg
 - [[Habib]]
 - [[XXII Moekims]]
 - [[XXVI Moekims]]
+- [[H. van Kol]]
+- [[J. T. Cremer]]
+- [[Abraham Kuyper]]
+- [[Pieter Jelles Troelstra]]
+- [[C. Snouck Hurgronje]]
+- [[Sabil contributions]]
+- [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
+- [[1897]]
 
-## Source
+## Sources
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 45, 231.
+
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 11–12, 23, 42, 57.
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.

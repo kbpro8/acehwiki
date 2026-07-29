@@ -1,6 +1,6 @@
 ---
-title: Atjeh-kanker
-aliases: ["Aceh cancer", "Aceh cancer concept", "Van Kol's metaphor"]
+title: "Atjeh-kanker"
+aliases: ["Atjeh-kanker", "Aceh cancer", "Aceh cancer concept", "Van Kol's metaphor"]
 tags: [concept, metaphor, anti-war, colonial, socialist]
 ---
 
@@ -20,6 +20,18 @@ Van Kol continued to use the concept in subsequent years. In the [[1901]] debate
 
 The Atjeh-kanker metaphor is significant for several reasons. First, it represents a deliberate inversion of the official colonial narrative, which often framed the war as a necessary sanitary measure or a civilizing mission. By calling the war itself a cancer, Van Kol challenged the legitimacy of the entire colonial project. Second, the metaphor was later used by other anti-colonial critics and historians to describe the destructive and self-perpetuating nature of colonial warfare. Third, the concept of "cutting out" the cancer implied a radical solution: immediate withdrawal, not reform. This distinguished Van Kol's analysis from liberal critics who advocated for more humane methods of warfare. The term remains a powerful rhetorical artifact of the anti-war movement.
 
+## Account from *Atjeh in de Tweede Kamer* ([[1897]])
+
+The metaphor was used in its fullest parliamentary form in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November]] [[1897]], where it frames the whole of [[H. van Kol]]'s opening speech and is taken up by [[Abraham Kuyper|Kuyper]] in his reply.
+
+Van Kol opened by declaring that of all the weighty and urgently necessary reforms in the Indies nothing could in the end come, "indien die kanker aan de welvaart van Indië niet met vaste hand wordt uitgesneden" — if that cancer on the welfare of the Indies is not cut out with a firm hand. He returned to the image at the close of his argument: "De Atjeh-oorlog is een onrechtvaardige oorlog, hij is een kanker geworden, waaraan gansch Nederland aan ziel en lichaam lijden; die kanker moet worden uitgesneden, er moet een einde aan dien oorlog worden gemaakt." — The Atjeh war is an unjust war; it has become a cancer from which the whole of the Netherlands suffers in soul and body; that cancer must be cut out, an end must be made of that war.
+
+[[Abraham Kuyper|Kuyper]], though opposing [[Van Kol's motion of 16 November 1897|the motion]], adopted the same figure to the contrary end. He closed his speech by declaring that he would congratulate the fatherland on the new ministry, "mits deze Minister aan het einde van zijne vierjarige bewindsperiode zich zal mogen tooien met den lauwer, dat het hem te beurt viel dezen kanker uit ons koloniaal beheer uit te snijden en aan de lijdensgeschiedenis voor goed en altoos een einde te hebben gemaakt." — provided this Minister may, at the end of his four-year term of office, adorn himself with the laurel that it fell to him to cut this cancer out of our colonial administration and to have made an end, for good and always, of the history of suffering. For Kuyper the cancer to be excised was thus not the war but its indecisive prosecution — the *stelselloosheid* that had kept the affair dragging and had thereby squandered new millions and sacrificed new lives.
+
+The Minister of Colonies [[J. T. Cremer|Cremer]] preferred a different medical figure, comparing the Acehnese question to a chronic invalid who had passed through a violent crisis the previous year and at whose bedside the doctors now saw a beginning of improvement — asking whether it would promote his cure if the chamber said in his hearing that he would not get better and might be left to his fate.
+
+[[J. B. Verhey|Verhey]] used the same image in a third sense: were there reasons to doubt the good faith of the leaders in Atjeh, "dan zou ik zeggen: door Nederland hoe eer hoe beter, zou dat ontzettende kwaad moeten worden uitgesneden." — then I should say: the sooner the Netherlands cut out that appalling evil the better.
+
 ## See Also
 
 - [[Aceh War]]
@@ -30,6 +42,10 @@ The Atjeh-kanker metaphor is significant for several reasons. First, it represen
 - [[1897]]
 - [[1901]]
 
-## Source
+## Sources
 
 *De Sociaaldemokraten in de Tweede Kamer* (Amsterdam, c. 1901). Vrije Universiteit Bibliotheek, pp. 2-3.
+
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 3, 12, 19, 24, 58.
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.

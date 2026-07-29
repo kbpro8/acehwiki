@@ -1,6 +1,6 @@
 ---
-title: Gighen
-aliases: [Gighen, Gigien, Gighën, the state of Gighen on the Noordkust, Gig-chen, Gigeng]
+title: "Gighen"
+aliases: ["Gighen", "Gigien", "Gighën", "the state of Gighen on the Noordkust", "Gig-chen", "Gigeng"]
 tags: [place, coast-state, acehnese, aceh-war, kwala, atjeh, 19th-century, north-coast, noordkust, onderhoorigheden, scheepvaartregeling]
 ---
 
@@ -66,6 +66,32 @@ The influence of the *Radja's* of Pedir and Gighen on the *federatie XII* depend
 
 Gighen's significance in Van Heutsz's [[1893]] tract rests on four things: it was one of the five *kwala's* named in [[J. L. J. H. Pel|Pel]]'s [[30 April]] [[1875]] plan as the sea-approaches whose occupation would seal [[Groot-Atjeh]] from the sea — the second of the five *kwala's* (Loé, Gighen, Atjeh, Tjangkoel and Pantjoer) whose control Pel prescribed; it was the statelet where the Dutch failure to establish the prescribed posts in [[1875]]–[[1877]] was empirically exposed — *geen posten werden opgericht te Gighen en te Melaboeh, zooals in het plan lag* — the original operational default of the Pel-plan execution; it was the place whose *bangoen*-default and the murder of [[Said Abdellah]] provoked [[Scherer]]'s [[1880]] *kruisboot*-deployment — the first proof-of-concept of the *kruisboot-bangoen* method that grew into the *[[Scheepvaartregeling|scheepvaartregeling]]* of May [[1883]]; and it was, with [[Pedir]], the co-head of the *federatie XII* — the *gewichtigste* stretch of the Noordkust, jointly policed from [[Segli]] under the [[General van Teijn|Van Teijn]] closure of [[1890]], and the constitutional linchpin of the entire ring of Noordkust statelets on which the war's outcome turned.
 
+## The Submission and its Failure, [[1876]]
+
+## The Expedition of May [[1878]]
+
+## Account from *De onderwerping van Atjeh* (Van Heutsz, [[1893]])
+
+### One of Pel's five kwala's ([[1875]])
+
+### The [[1875]]–[[1877]] failure to establish posts
+
+The failure to erect posts at Gighen and [[Melaboeh]] *zooals in het plan lag* — as the plan had prescribed — was, in Van Heutsz's diagnosis, the original operational default of the Pel-plan execution. The coastal line of Groot-Atjeh was nominally sealed in February [[1877]], but the Onderhoorigheden-side of the seal — the posts at the five *kwala's* and at Melaboeh — was never established. The result was the [[1876]]–[[1877]] irony of the *civiel bestuur van Oleh-leh* rice-trade through which *de vijand zijne rijstschuren bij ons te Oleh-leh had* — the enemy had his rice-bins at our [[Olehleh]] — even as the surrounding coast was nominally closed.
+
+### Scherer's kruisboot-bangoen method ([[1880]])
+
+### The [[1884]] partial closure and the [[1890]] enforcement
+
+## Account from *Atjeh in de Tweede Kamer* ([[1897]])
+
+Gighen was named twice in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November]] [[1897]] as one of the coastal federations lying beyond the limit of effective Dutch control.
+
+[[Pijnacker Hordijk]] asked the Minister of Colonies [[J. T. Cremer|Cremer]] what conception he formed of the ending of the state of war in [[Groot-Atjeh]], and whether he considered "de pacificatie van geheel Atjeh mogelijk, ook zonder dat wij een zelfde positie, als in Groot-Atjeh, in de federaties van Gighen en [[Pedir]] en in de zuidelijke nederzettingen hebben veroverd en kunnen behouden." — the pacification of the whole of Atjeh possible, even without our having conquered and being able to hold a like position, as in Groot-Atjeh, in the federations of Gighen and Pedir and in the southern settlements.
+
+Cremer answered by pointing to what had happened at [[Segli]]. There, he said, roughly the same condition prevailed as in the Pedir country: the princes on the coast were not hostile to the Dutch but were not strong enough to drive out the [[Delama-benden|Delama-bands]] gathered in the [[Tanawaqt]] or in the [[VII Moekims]]. The [[Sigli expedition (August 1897)|Segli expedition]] had therefore been undertaken not to take the place itself but to expel those bands from the *moekims* [[Pakan Baroe]] and [[Pokan Soth]]; after the expulsion the local chief had taken the district under his own management. Should similar clearances become necessary elsewhere, they would be carried out, and the completion of the steam tram to [[Selimoen]] would facilitate such action.
+
+Cremer also answered the wider question in the negative: asked whether he wished to conquer the whole of Atjeh, he said no. The interior of Atjeh was unknown; there were no proofs that fighters from there joined the Acehnese bands; it would therefore be perfectly unnecessary to march thither. "Wanneer wij de kust beheerschen zal van zelf het achterland onder onzen invloed komen." — When we command the coast the hinterland will come under our influence of itself.
+
 ## See Also
 
 - [[Toekoe di Tiroe]]
@@ -110,3 +136,6 @@ Gighen's significance in Van Heutsz's [[1893]] tract rests on four things: it wa
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 9, 10, 17, 22, 26, 50, 56, 92, 93. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 14, 55, 57.
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.

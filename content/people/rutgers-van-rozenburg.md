@@ -1,7 +1,7 @@
 ---
-title: Rutgers van Rozenburg
+title: "Rutgers van Rozenburg"
 aliases: ["Rutgers van Rozenburg", "Rutgers van Rozenburg (liberal MP)"]
-tags: ["person", "politician", "colonial", "dutch", "acheh", "liberal"]
+tags: [person, politician, colonial, dutch, acheh, liberal]
 ---
 
 **Rutgers van Rozenburg** — a Dutch liberal member of the [[Tweede Kamer]] in the [[W. H. Vermeulen|Vermeulen]] period — is the parliamentary voice who, in the [[1896]] Atjeh debate, joined [[J. T. Cremer|Cremer]] in calling for "een drastisch optreden in Atjeh om, 'deze kanker' te verwijderen" — drastic action in Atjeh to remove "this cancer" — and who, in the [[1904]] debate on the [[Van Daalen's Gajo-Alas-Batak expedition (1904)|expedition of Van Daalen]], formulated the most extreme defence of the conduct of the war.
@@ -28,6 +28,20 @@ There were, [[W. H. Vermeulen|Vermeulen]] drily notes, "weinig kamerleden die [[
 
 In the [[1905]]-period debate on whether extraordinary expenditure — railways, irrigation works, school-building, the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]] — should be financed by borrowing, [[Rutgers van Rozenburg|Rutgers van Rozenburg]] (lib.) held the inverse of his party-colleague Bool: if the Indies were to finance public works and wars with borrowed money, future generations might end up paying too dearly for the works made for them. He was thinking, in particular, of irrigation works that had turned out badly.
 
+## The [[1896]] call for drastic action
+
+## The [[1904]] defence of Van Daalen
+
+## Account from *Atjeh in de Tweede Kamer* ([[1897]])
+
+Rutgers van Rozenburg is quoted by [[H. van Kol]] in his speech of [[16 November]] [[1897]] in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] for a phrase about the treatment of Acehnese dead.
+
+In the passage catalogued at [[Atrocities in the Aceh War as alleged in the Tweede Kamer (1897)]], Van Kol asked rhetorically what it mattered "of men geneuvelde Atjehers in tweeën deelt om hun entrée in den Turkschen Hemel te bemoeielijken" — whether fallen Acehnese were divided in two in order to make difficult their entry into the Turkish heaven — attributing the words in parenthesis to Rutgers van Rozenburg.
+
+The remark is placed immediately after Van Kol's quotation of the Dutch boast about the effect of the repeating rifles and the *snaphan setan*, and immediately before his account of the [[Killing of Toekoe Tjoet Machmoed Lam Tenzah (16 May 1897)|killing of Toekoe Tjoet Machmoed Lam Tenzah]]. Van Kol adduced the three together as evidence of "de vreeselijke demoralisatie als gevolg der bloedstorting."
+
+The practice alluded to — the mutilation of the bodies of *[[Prang Sabil|prang sabil]]* fighters in the belief that a body divided would be denied paradise — was the subject of the exchange between [[Goeman Borgesius]] and the Minister [[Mr. J. H. Bergsma|Bergsma]] on [[22 September]] [[1896]], quoted by [[J. T. Cremer|Cremer]] on [[17 November]] [[1897]], in which both the Netherlands and the Indies governments were said to be most strongly opposed to *mutileeren* and the [[Governor-General of Netherlands India|Governor-General]] to have forbidden it in the strictest terms.
+
 ## See Also
 
 - [[Atjeh-oorlog (1873-1904)]]
@@ -41,6 +55,10 @@ In the [[1905]]-period debate on whether extraordinary expenditure — railways,
 - [[1896]]
 - [[1904]]
 
-## Source
+## Sources
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 270, 262, 277, 291.
+
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 10–11, 79–80.
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
