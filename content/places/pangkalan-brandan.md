@@ -1,10 +1,10 @@
 ---
 title: Pangkalan Brandan
-aliases: ["Pangkalanbrandan", "Pangkalan Brandan", "Pengkalan Brandan", "P. Brandan", "the East-Coast terminus of the Deli-tram", "Pangkalan-Brandan", "Pangkalan Brandan refinery"]
-tags: ["place", "town", "harbour", "colonial", "dutch", "east-coast-sumatra", "buitenbezittingen", "tramway", "areo-baai-plannen", "refinery", "sumatra", "oil"]
+aliases: [Pangkalanbrandan, Pangkalan Brandan, Pengkalan Brandan, P. Brandan, the East-Coast terminus of the Deli-tram, Pangkalan-Brandan, Pangkalan Brandan refinery]
+tags: [place, town, harbour, colonial, dutch, east-coast-sumatra, buitenbezittingen, tramway, areo-baai-plannen, refinery, sumatra, oil, oostkust-van-sumatra, achehnese, Bataafsche-Petroleum-Mij, Perlak-Petroleum-Mij, pipe-line]
 ---
-
 ## Origin: Zijlker's borings and the petroleum industry
+
 
 Pangkalan Brandan's place in history rests above all on its role as the cradle of the Dutch colonial petroleum industry. Dr. T. Volker's *Van Oerbosch tot Cultuurgebied* ([[1928]]) records that [[Aeilco Zijlker|Zijlker]] began test-borings for petroleum near Pangkalan Brandan in [[1883]], in the *Landschap* of [[Langkat]], immediately adjacent to [[Gouvernement Atjeh en Onderhoorigheden|Atjeh]]. Volker identifies the [[Acehnese raids on East Sumatra|Acehnese raids]] as "one of the serious dangers to which [the petroleum industry] was exposed" throughout the [[1880s]] and [[1890s]]. In [[1884]], Zijlker secured a concession from the [[Sultan of Langkat]], and when the [[Koninklijke Petroleum Maatschappij]] was formed in [[1890]] — purchasing Zijlker's business for ƒ371,000 — the company built its first refinery at Pangkalan Brandan. By [[June 1892]] the refinery was producing 18,000 cases of petroleum per month. Exports were shipped from [[Pangkalan Soesoe]], established in [[1897]] as the dedicated harbour for the petroleum trade, since Pangkalan Brandan's own roadstead was too shallow for modern shipping. In [[1896]], 1,851,512 cases were exported; in [[1897]], 4,564,987 cases. New concessions at Telaga Said, [[Besitang]], and Aroebaai were opened in [[1894]]. By [[1914]], petroleum exports from the region reached a total value of ƒ31,000,000.
 
@@ -17,16 +17,17 @@ The Bureau's account of the [[Aroe-baai-plannen|Aroe-baai-plannen]] then places 
 
 The Bureau's account of the [[Cultuurraad]]'s deliberations on the proposed connections between the Atjeh-tram and the [[Deli Spoorweg Maatschappij|Deli-tramway]] network also identifies Pangkalan Brandan as the proposed junction for the [[Cultuurraad]]'s preferred connection: "the [[Cultuurraad|cultuurraad]] now proposes the connection of the [[Atjeh-tram|Atjeh-en Deli-tramnetten]] by a line [[Besitang]]–Pangkalan Brandan." This proposal — like the earlier proposal for a direct [[Besitang]]–[[Tandjoeng Slamat]] junction — was contested, and the Bureau reports that "there is now under consideration a direct connecting line from Pangkalan Brandan with [[Telok Taboehan]] [Telok Taboeban], there joining the [[Atjeh-tram|Atjeh-net]] (see Bijlage XI)."
 
-
 ## Significance
 
 
 [[Pangkalan Brandan|Pangkalan Brandan]] is, in the Encyclopaedisch Bureau's account, one of the principal commercial opponents of the [[Aroe-baai-plannen|Aroe-baai-plannen of 1913]] — the place whose trade, together with that of [[Belawan-Deli|Belawan-Deli]], vigorously resisted the project to develop [[Aroebai|Arube Bay]] as a deep-water harbour. The substitution of Pangkalan Brandan for [[Belawan-Deli|Belawan-Deli]] as the proposed terminus of the Atjeh-tram — and the eventual proposal for a direct connection from Pangkalan Brandan to [[Telok Taboeban]] — mark the progressive narrowing of the Atjeh-tram extension project in the face of East Coast commercial opposition.
 
-
 ## Account from *The Geology of Indonesia* ([[1949]]) — Pangkalan Brandan
 
+
+
 ### The B.P.M. refinery
+
 
 Van Bemmelen's account of the Pangkalan Brandan refinery, in the refining section of the petroleum chapter of [[Van Bemmelen's The Geology of Indonesia (1949)|*The Geology of Indonesia*]], reads:
 
@@ -36,6 +37,7 @@ The Pangkalan Brandan refinery is accordingly one of the five large refineries o
 
 ### The destruction and post-war reconstitution
 
+
 Van Bemmelen's account of the refinery's wartime fate reads:
 
 > "After the war, during the political troubles in the East Indies, Pangkalan Brandan and Tjepu were destroyed. At the beginning of [[1949]] the refineries of Palembang (Pladju and Sungei Gerong), Balikpapan (East Borneo), and Wonokromo (East Java) have been put into operation again."
@@ -44,52 +46,53 @@ The Pangkalan Brandan refinery was accordingly destroyed during the political tr
 
 ### Significance
 
+
 Pangkalan Brandan is significant for the encyclopedia of [[Acheh]] history because it was the site of the only large refinery in North Sumatra — the principal industrial installation of the northern-Sumatran oil industry, and the southern anchor of the same petroleum-economic system that included the [[East Atjeh oil block|East Atjeh]], [[Tamiang oil block|Tamiang]] and [[Atjeh oil complex]] oil fields on Atjeh territory. The refinery's operation by the [[B.P.M.]] (Royal Dutch) links it directly to the B.P.M.-operated Atjeh fields, and its destruction during the Indonesian National Revolution marks the effective end of the colonial-era northern-Sumatran oil-refining industry. The absence of Pangkalan Brandan from the list of refineries put back into operation in [[1949]] accordingly marks a break in the institutional continuity of the northern-Sumatran oil economy between the colonial and the post-colonial periods.
 
+## Account from *Verkenningen in Atjeh* (1923)
 
+**Pangkalan Brandan** — modern *Pangkalan Brandan* — is a harbour-place on the [[Oostkust van Sumatra|Oostkust van Sumatra]], the destination of the 120 km pipe-line by which the [[Bataafsche Petroleum-Mij|Bataafsche Petroleum-Mij]] pumps the crude oil of the [[Perlak Petroleum-Mij|Perlak Petroleum-Mij]] from [[Rantau Pandjang|Rantau Pandjang]] in the *landschap* of [[Peureula (Perlak)|Peureula (Perlak)]]. The Bataafsche does not process the oil at Rantau Pandjang but pumps it through the pipe-line to Pangkalan Brandan, where it is shipped. Only the gases are compressed at Rantau Pandjang into oil, which is likewise pumped away. Pangkalan Brandan was, with [[Pangkalan Soesoe|Pangkalan Soesoe]], one of the two great oil-ports of the northern Sumatran coast in the early civilian period.
 
 ## See Also
 
-- [[Aroebai]]
-- [[Telok Taboeban]]
-- [[Oostkust van Sumatra]]
-- [[1913]]
-- [[Belawan]]
-- [[Atjeh en Onderhoorigheden]]
-- [[Aroe-baai-plannen]]
-- [[Besitang]]
-- [[Atjeh-tram]]
-- [[Deli Spoorweg Maatschappij|Deli-tram]]
-- [[Deli Spoorweg Maatschappij|Deli-Spoorweg-Maatschappij]]
-- [[1907]]
-- [[Tandjoeng Slamat]]
-- [[1902]]
-- [[Acheh]]
-- [[B.P.M.]]
-- [[Bulu Telang]]
-- [[East Atjeh oil block]]
-- [[Oil exploration in North Sumatra]]
-- [[Royal Dutch Shell]]
-- [[Tamiang oil block]]
-- [[Telaga Said]]
-- [[Van Bemmelen's The Geology of Indonesia (1949)]]
-- [[1949]]
-
-
-- [[Aeilco Zijlker]]
-- [[Koninklijke Petroleum Maatschappij]]
-- [[Pangkalan Soesoe]]
-- [[Acehnese raids on East Sumatra]]
-- [[Sultan of Langkat]]
 - [[1883]]
 - [[1884]]
 - [[1890]]
 - [[1892]]
 - [[1897]]
+- [[1902]]
+- [[1907]]
+- [[1913]]
 - [[1914]]
+- [[1949]]
+- [[Acehnese raids on East Sumatra]]
+- [[Acheh]]
+- [[Aeilco Zijlker]]
+- [[Aroe-baai-plannen]]
+- [[Aroebai]]
+- [[Atjeh en Onderhoorigheden]]
+- [[Atjeh-tram]]
+- [[B.P.M.]]
+- [[Belawan]]
+- [[Besitang]]
+- [[Bulu Telang]]
+- [[Deli Spoorweg Maatschappij|Deli-Spoorweg-Maatschappij]]
+- [[Deli Spoorweg Maatschappij|Deli-tram]]
+- [[East Atjeh oil block]]
+- [[Koninklijke Petroleum Maatschappij]]
+- [[Oil exploration in North Sumatra]]
+- [[Oostkust van Sumatra]]
+- [[Pangkalan Soesoe]]
+- [[Royal Dutch Shell]]
+- [[Sultan of Langkat]]
+- [[Tamiang oil block]]
+- [[Tandjoeng Slamat]]
+- [[Telaga Said]]
+- [[Telok Taboeban]]
+- [[Van Bemmelen's The Geology of Indonesia (1949)]]
+- [[Verkenningen in Atjeh (1923)]]
 
-## Source
-
+## Sources
 
 *Van Oerbosch tot Cultuurgebied: Een Schets van de Beteekenis van de Tabak, de Andere Cultures en de Industrie ter Oostkust van Sumatra*, by Dr. T. Volker (Medan: Deli Planters Vereeniging, [[1928]]), pp. 47–56. Delpher Digital Library, reference DLP-76. Universiteitsbibliotheek Vrije Universiteit Amsterdam, shelfmark 09383.
 
@@ -97,3 +100,4 @@ Pangkalan Brandan is significant for the encyclopedia of [[Acheh]] history becau
 
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 10 (refining section, list of large refineries, and post-war destruction/reconstitution).
 
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.

@@ -1,9 +1,8 @@
 ---
 title: Sabang
-aliases: [Sabang free port, Sabang harbour, Sabang coaling station, Zeehaven Sabang, Sabang, Sabanghaven, Sabangbaai, Free Port of Sabang, Sabang Island, Poelau Wè, Pulau We, Sabang Harbor, Sabang-haven, Sabang Maatschappij, the free port of Sabang, Sabang (Atjeh), haven van Sabang, Weh Island, Sabang haven, Port of Sabang, Sabang (Poelau Weh), Sabang Bay]
-tags: [place, harbour, free-port, trade, colonial, port, dutch, island, aceh, buitenbezittingen, ocean-port, sabang-maatschappij, haven, achehnese, sumatra, 19th-century, 20th-century, atjeh, afdeeling]
+aliases: [Sabang free port, Sabang harbour, Sabang coaling station, Zeehaven Sabang, Sabang, Sabanghaven, Sabangbaai, Free Port of Sabang, Sabang Island, Poelau Wè, Pulau We, Sabang Harbor, Sabang-haven, Sabang Maatschappij, the free port of Sabang, Sabang (Atjeh), haven van Sabang, Weh Island, Sabang haven, Port of Sabang, Sabang (Poelau Weh), Sabang Bay, Sabang-Mij, Pulau Weh, Sabang station, Sabang leprosarium, Sabang krankzinnigen]
+tags: [place, harbour, free-port, trade, colonial, port, dutch, island, aceh, buitenbezittingen, ocean-port, sabang-maatschappij, haven, achehnese, sumatra, "19th-century", "20th-century", atjeh, afdeeling, organization, company, sabang, shipping, sabang-mij, atjeh-transport-mij, town, station, leprosarium, krankzinnigen, militarisch-hospitaal]
 ---
-
 **Sabang** was the free port and coaling station developed on the northern bay of
 [[Pulo We|Poeloe We]], the island off the northern tip of [[Acheh]], by the
 [[Netherlands Indies]] Government and the [[N.V. Zeehaven en Kolenstation Sabang|Sabang Company]]
@@ -13,6 +12,7 @@ predicted, but established itself instead as one of the most important bunkering
 [[East Indies]], commanding the shipping lanes between [[Europe]] and the trading ports of the East.
 
 ## The island and its occupation (1884–1887)
+
 
 The harbour was laid out in the northern bay of [[Pulo We|Poeloe We]], an island that in the seventeenth
 and eighteenth centuries had served the [[Sultanate of Acheh]] as a penal colony and that in the
@@ -25,6 +25,7 @@ unsatisfactory for shipping, and a commission sent out in [[1887]] concluded tha
 was the better site.
 
 ## Conception as an ocean harbour
+
 
 In [[1887]] the [[Batavia]]-based firm [[De Lange (firm)|De Lange]] received a concession to
 establish a coal station at the Sabang bay; the head of the firm, [[Van Oosterzee]], is remembered
@@ -44,6 +45,7 @@ to the new port.
 
 ## Opening and early growth (1897–1903)
 
+
 Sabang was opened as a free port for general trade in [[1897]]. A year later, in [[1898]], the
 [[N.V. Zeehaven en Kolenstation Sabang]] was incorporated and took over the business of the firm
 [[De Lange (firm)|De Lange]]. The beginnings were modest: in [[1895]] the place still meant little
@@ -60,6 +62,7 @@ Indian trading ports. The port had been linked by telegraph cable to [[Oelèë L
 station — described as among the most powerful in all of East Asia — was established there.
 
 ## Harbour works and installations
+
 
 Growing traffic forced continual investment in the harbour and its equipment: a hotel for the
 passenger service from [[Acheh]] and the [[East Coast of Sumatra]], houses and coolie quarters for
@@ -81,6 +84,7 @@ contract system for the latter having been abandoned.
 
 ## The coal and transit trade
 
+
 The delivery of steam coal to ships remained the most important part of the company's business. Coal
 deliveries grew from 19,000 tons in [[1900]] to about 130,000 tons in [[1906]] and a plateau of
 210,000 tons in [[1912]] and [[1913]], before the war reduced them to 176,000 tons in [[1914]] and
@@ -99,6 +103,7 @@ f 9,013,000 in [[1911]] to f 23,669,000 in [[1914]].
 
 ## A transit harbour without a hinterland
 
+
 By nature Sabang was a transit harbour, lying on a small island with no real hinterland. Its
 founders hoped that the flourishing of the [[East Coast of Sumatra]] and the expected development of
 [[Acheh]] as a cultivation and mining area might in time supply one. The planned ocean harbour at
@@ -110,6 +115,7 @@ strengthen Sabang's position against competing foreign ports.
 
 ## Significance
 
+
 Sabang stands as a case of a colonial port that failed in its declared purpose yet succeeded in
 another. The "illusion" of supplanting [[Penang]] and [[Singapore]] as the entrepôt of the region
 was never realised, and the old credit-bound trade with [[Penang]] held firm; but by exploiting
@@ -120,25 +126,31 @@ brought [[Acheh]] under control, sought to convert the conquest into a commercia
 
 ## Sabang as an internment site, 1905–1908
 
+
 Beyond its role as a commercial harbour, Sabang served during the governorship of [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] ([[1905]]–[[1908]]) as a site for the arbitrary internment of local chiefs and their families. Van Daalen frequently sent *oelèëbalangs* — sometimes along with their wives and children — to Sabang without any judicial process; the internment was often indefinite, and Van Daalen claimed such measures were necessary to maintain control. [[Joannes Benedictus van Heutsz|Van Heutsz]]'s investigation in [[1907]] as part of the [[Atjéh-enquête|Atjéh-enquête]] found that in many cases the individuals interned had committed no offence; the internments were arbitrary and not based on the legal provisions of Article 47 of the *Regeeringsreglement*; and families were separated and left without means of support. Van Heutsz condemned the practice and ordered it ended. After Van Daalen's removal in [[1908]], Sabang ceased to be used as an internment site for political prisoners, reverting to its original functions as a naval and coaling station. The episode exemplified the abuses of the Van Daalen era and highlighted the tension between the governor's discretionary powers and the rule of law.
 
 ## Account from *De Buitenbezittingen* (1917) — Sabang
+
 
 **Sabang** was the great ocean harbour and free port established in [[1897]] on the Sabangbaai of the island of [[Pulo We|Poeloe We]], at the northern tip of Sumatra — the colonial venture that [[Joannes Benedictus van Heutsz|van Heutsz]] had, in his [[1892]] brochure *De Onderwerping van Atjeh*, pressed upon the Government as a competitor to [[Penang]] for the trade of northern Sumatra, and which the *N.V. Zeehaven en Kolenstation Sabang* (the Sabang Maatschappij) operated, after [[1898]], as the only *vrijhaven* of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* devotes an extended chapter to its installations and finances, while conceding that "de grootsche toekomstdroomen van Sabang als handels-emporium voor geheel Noord-Sumatra niet verwezenlijkt hebben" — the grand dream of Sabang as the trade-emporium of all Northern Sumatra was never realised.
 
 ## Origins, 1884–1898
 
+
 The Dutch flag was first hoisted over [[Poeloe Wé|Pulo We]] in [[1884]], when a small *kolenloods* (coal-shed) was built on the Zuidbaai (Lhoʼ Balohan) and a *hoofd* appointed; an [[1887]] commission under De Lange concluded that the Noordbaai — the Sabangbaai — was the more serviceable anchorage. The Bataviaasche firma De Lange & Co. received that year the concession for a *kolenstation*, and De Lange's *Chef* van Oosterzee is named by *De Buitenbezittingen* as "de geestelijken vader van Sabang" — the spiritual father of Sabang. Van Heutsz, then a major, propagated the project in [[1892]]. In [[1897]] the haven was opened as a *vrijhaven* for general trade, and in [[1898]] the *N.V. Zeehaven en Kolenstation Sabang* was founded, taking over De Lange's business. A Gouvernements-*dok* of 3,000-ton capacity, stationed from [[1898]], later passed into the Maatschappij's ownership under servitude of free docking for Government vessels.
 
 ## The Sabang Maatschappij
+
 
 The Maatschappij held, by [[1917]], extensive mechanical installations for the bunkering of steamers — self-trimming *bunker-lichters* with band-transporteurs capable of handling 150 tons per hour, lighter cranes of 2,000–3,000 kg, four transbordcranes, and a 3,000-ton *droogdok* ceded in ownership by the Gouvernement. In [[1903]] the *Stoomv. Mij. Nederland* committed to routing via Sabang rather than Padang; the *Koninklijke Paketvaart Maatschappij|K.P.M.* followed; and by [[1911]] the island possessed a radio-telegrafisch station described as the most powerful in East Asia. A telegraphkabel had already, in [[1897]], connected Sabang with [[Oelèë Lheuë|Oelèë Lheuë]], and in [[1912]] a direct cable to Medan was added.
 
 ## Coal and dividends
 
+
 The kolenbedrijf grew from 19,000 tons delivered in [[1900]] to a peak of 210,000 tons in [[1912]]–[[1913]], before the war brought a drop to 135,000 tons in [[1915]]. The customary mixture was the so-called *Sabang-mixture* of two parts Bengaalsche to one part Ombilin-kolen. Dividends on shares of ƒ1,000 rose from ƒ82.50 in [[1910]] to ƒ125 in [[1913]], with additional *winstaandeel* to the Gouvernement under St. 1910 No. 56. The Gouvernement acquired the kaaimuren, steigers, and *corps-morts* of the haven in [[1909]] for roughly ƒ1,200,000 and now maintains them itself; the Maatschappij pays a yearly *pacht* of 3¼ % on the original purchase plus extension costs.
 
 ## Harbour Traffic Statistics (1904–1913)
+
 
 The growth of Sabang's port is strikingly illustrated by the shipping statistics from the period:
 
@@ -156,13 +168,16 @@ Between [[1904]] and [[1913]], the number of ships nearly doubled while gross to
 
 ## Sabang and the Aroe-baai-plannen
 
+
 The Bureau's account of the [[Aroe-baai-plannen|Aroe-baai-plannen]] of [[1913]] identifies Sabang as one of the three principal competitors that the projected [[Aroebai|Arube Bay]] harbour was designed to rival: "the defenders of the [[Aroe-baai-plannen|Aroe-baai-plannen]], who see in this natural harbour [of [[Aroebai|Arube Bay]]] a competitor of [[Belawan]] and even of [[Singapore]] and Sabang." This places the Aroe-baai project in the context of the wider ambition to develop the Atjehnese coast as a deep-water harbour region — of which Sabang itself was the principal existing realisation.
 
 ## The Radio-kuststation at Sabang
 
+
 The Bureau's account of the *radio-kuststation* (radio coastal station) at Sabang notes that the station "has little significance for trade, but so much the more for shipping. In [[1913]] it obtained 3,809 connections with ship stations, while telegrams were exchanged with 737 of these." The radio-kuststation at Sabang is one of the principal radio stations of the Buitenbezittingen — alongside those at [[Koepang]] and [[Amboina]] — and was the principal radio station serving the Atjehnese coast.
 
 ## Economic and Strategic Role
+
 
 The development of Sabang served multiple colonial purposes simultaneously:
 
@@ -173,54 +188,66 @@ The development of Sabang served multiple colonial purposes simultaneously:
 
 ## Account from *Atjèh and the War with Japan* (1949) — Sabang
 
+
 **Sabang** is the strategic island harbour off the northern tip of [[Atjèh|Atjèh]], the free-port town on the bay of [[Poeloe Wè|Poeloe Wè]] whose airfield, harbour works and oil and gasoline supplies made it — together with [[Koetaradja|Koetaradja]] — one of the two great strategic objectives of the [[1942|1942]] Japanese invasion of Atjèh, and where, after three and a half years of Japanese naval occupation, the English fleet reappeared in [[August]] [[1945]] and the [[Amacab|Amacab]] (Allied Military Administration Civil Affairs Branch) landed to restore Dutch authority in northern Sumatra. Piekaar's *Atjèh and the War with Japan* treats Sabang as the focal point of the aerial war against Atjèh, the one subdistrict of Atjèh where the Japanese occupation "would proceed peacefully," and the eventual Allied bridgehead at the capitulation.
 
 ## The pre-war island
+
 
 Of the 8,700 inhabitants who constituted the entire population of the island, "almost 7000 lived in the sub-department headquarters," and "the Acehnese the rural population was thus far in the minority compared to the population of the subdistrict headquarters, in which the non-Acehnese element held a predominant position." Of the four independent *moekims* (Sabang, Balóhan, Ibóih and Paja) from which the directly governed island consisted, "the moekim Sabang or Ië Meulè, in which the subdistrict headquarters was located, was by far the most important." The sub-district of Sabang "as the only sub-district in Aceh had a flourishing *Parindra* branch, in which however again mainly the non-Acehnese personnel of the mental hospital, Sabang society and other intellectuals had united." The Taman-Siswa school association had schools in Atjèh "only in a few places, e.g. in [[Koetaradja|Koetaradja]] and Sabang." The mental hospital counted more than 1,400 patients.
 
 ## The bombing of January 1942
 
+
 After the declaration of war on [[8 December]] [[1941]], "the unexpectedly rapid course of the battle immediately placed Sabang in an advanced strategic position." An English torpedo boat destroyer and auxiliary cruisers took charge of maritime defence; in the coconut plantations a barrack camp was prepared for the Royal Air Force. "On [[18 January]] the first air attack took place, after which the bombings repeated themselves with a frequency of four to five attack days per week until the arrival of the enemy." Piekaar records that the "strategically important Sabang was repeatedly bombed, most heavily on [[22 January]] [[1942]]." The workers on the quay and in the workshops of the N.V. Zeehaven and Sabang coal station "felt like trapped rats"; the hills obstructed the view, so an observation post was established on one of the highest peaks of the island. The state mobilisation council "initially considered an evacuation guided by the government unnecessary. A so-called 'dispersal plan' would suffice."
 
 ## The Japanese landing
+
 
 When the Japanese attack was launched in the night of [[11 March|11]] to [[12 March]] [[1942]], "the English naval units and the personnel of the R.A.F. had left the island" and Dutch troop strength had been reduced to two brigades under 1st lieutenant A. C. Verhoeff. The Aceh aircraft watch, appointed by the independent *moekim* head of Balóhan, reported by telephone "the appearance of the Japanese fleet in the Balóhanbaai on the southern side of the island Wè." Lieutenant Verhoeff left the island by motorboat; the remaining troops were "considered attached to the administration, charged with field police services." "No resistance was therefore offered. The airfield, harbor, oil and gasoline supplies fell undamaged into the hands of the enemy. No trace of an F-movement was detected, and no disturbances occurred. Sabang became a Japanese naval base and remained so until [[31 August]] [[1945]]."
 
 ## The capitulation of August 1945
 
+
 When the Japanese capitulation came on [[14 August]] [[1945]], the preparations for the Allied invasion were in full swing; a "party" of the "1.3.6. force" under B. W. Lefrandt was already located in the mountainous region of [[Seulimeum|Seulimeum]]. "Still in [[August 1945|August]] the English fleet appeared before Sabang and a temporary naval base was established on Sabang. Also the Dutch navy and the Dutch administration, the latter as part of the [[Amacab|Amacab]], made their entry." The thousands of enterprise workers from Atjèh, East Sumatra and Tapanoeli who on the island had performed slave labour for the Japanese army were transferred to the mainland. The Allies' hesitation to push the occupation inland meant that, throughout the early republican period, Sabang — together with [[Medan|Medan]], [[Padang|Padang]] and [[Palembang|Palembang]] — remained one of the few footholds of direct Allied authority in Sumatra.
 
 ## Account from *Dispereert Niet Vol. XI* (1946) — Sabang
+
 
 **Sabang** is a city on **[[Pulau Weh]]**, a small island off the north coast of **[[Aceh]]** in **[[Sumatra]]**. Its deep-water harbor, one of the best in the region, was developed by the Dutch after the pacification of Aceh and became a major refueling station for international shipping.
 
 ### Strategic Importance
 
+
 Sabang's location at the entrance to the **[[Strait of Malacca]]** made it strategically important for controlling maritime trade routes. The harbor could accommodate large ships and had the potential to serve as a naval base.
 
 ### Development
+
 
 After the **[[Aceh War]]** ended, the Dutch constructed modern harbor facilities at Sabang. The port became a stopping point for ships traveling between Europe and East Asia.
 
 ### Later History
 
+
 Sabang remains an important port and naval station to the present day. Its strategic location has kept it relevant in both colonial and independent Indonesia.
 
 ## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — a physician's arrival
 
+
 Dr. [[Johan Wøller]], a Danish physician bound for service in the Netherlands-Indies army, entered the East Indies through Sabang's harbour in early [[1904]]. Having heard, at a stop in [[Colombo]], the news of the outbreak of the [[Russo-Japanese War]] in [[February]] [[1904]], "some days later they entered the new harbor of Sabang. Netherlands-Indies, the tropics, the land where the adventure awaited him and his young wife, was reached." From Sabang, Wøller continued by sea to [[Atjeh en Onderhorigheden]], which he reached in [[April]] [[1904]].
 
-
 ## Account from *Atlas van Nederland en de Indiën* (1930) — the schoolroom haven
+
 
 The [[Atlas van Nederland en de Indiën (1930)|*Atlas van Nederland en de Indiën*]] of G. Prop — a schoolroom geography of the Indies — names Sabang as "*voor de kust de belangrijke haven Sabang*" in the chapter on [[Sumatra|Sumatra]], in the context of the description of [[Acheh|Atjeh]]. The entry records that "*In Atjeh voerden de Nederlanders sedert 1873 oorlog: nu is er vrede en komt weer welvaart. Atjeh levert peper*" ("In Atjeh the Dutch waged war since 1873: now there is peace and prosperity returns. Atjeh produces pepper"), and adds that the chief town of Atjeh is [[Koeta Radja|Kota-Radja]], "*voor de kust de belangrijke haven Sabang*" ("before the coast, the important harbour Sabang"). Sabang is thus fixed, in the schoolroom memory of [[1930]], as the principal commercial haven of the Atjeh residency.
 
 ## Account from *Vierhonderd jaren missie* (1934) — the Catholic mission station
 
+
 The [[Vierhonderd jaren missie in Nederlandsch Indië (1934)|mission jubilee volume of 1934]] records, in the chapter on the [[Catholic Mission of Koeta Radja-Atjeh|Catholic mission of Koeta Radja-Atjeh]], that "*Sabang wordt ook geregeld van deze statie uit bediend*" ("Sabang is also regularly served from this station"). The phrase fixes Sabang as a station of the [[Koeta Radja|Koeta Radja]] mission — a port-of-call visited at regular intervals by the priest of Koeta Radja for the ministration of the Catholic personnel of the harbour and the shipping.
 
 ## Account from *Melati en rotan* (1947) — the poem "Anak Laoet"
+
 
 The [[Melati en rotan|*Melati en rotan*]] collection of F. Kunst contains the poem "*Anak Laoet*" ("Child of the Sea"), whose second stanza fixes Sabang as a place of resort for ships' passengers on the Europe–East-Asia route:
 
@@ -233,13 +260,16 @@ The poem's setting — the lake *Kin der Zee* "near Sabang's beautifully contour
 
 ## Account from *DLP-84-Atjeh* — the only natural harbour and the mail-ship station
 
+
 The *DLP-84-Atjeh* pamphlet describes [[Sabang]] as the *only natural harbour* of [[Acheh]], located on the island of [[Poeloe Weh|Poeloe Weh]] (*Poelau Weh*). In the early twentieth century a *coal station* (*kolenstation* (coaling station)) was established there, intended to serve *mail ships* (mail steamers) travelling to the East — destinations explicitly named as [[Singapore]], [[China]] and the broader [[Dutch East Indies|Indies]]. Although the harbour attracted some traffic, its full potential was only partially realised. The harbour also featured a *dock* and *repair facilities* for ships — the pamphlet recording that the vessel **J. P. Coen** of the *Stoomvaart Maatschappij "Nederland"* (the *Mij. "Nederland"*) was among the ships docked there. Sabang's sheltered bay made it a logical point for refuelling and repairs, but the lack of a fully developed port limited its growth.
 
 ## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893)
 
+
 In [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *De onderwerping van Atjeh*, Sabang — *Poeloe Waij* in Van Heutsz's spelling, in modern Indonesian *Pulau Weh* — is the island off the north coast of [[Atjeh]] whose deep-water northern bay Van Heutsz proposed, in the closing prescription of the tract, as the site of a Dutch marine station and free port — *een groot maritiem station op dien internationalen waterweg* (a great maritime station on that international waterway) — that would sideline the British free ports of [[Penang]] and [[Singapore]] as the commercial entrepôt of the entire Atjehnese rijk. (Van Heutsz had first propagated the Sabang idea vigorously in his [[1892]] brochure — see the section above on conception as an ocean harbour.)
 
 ### The island: tanah waqf under direct Dutch rule
+
 
 The constitutional status of Sabang (Poeloe Waij) was, in Van Heutsz's diagnosis, that of *tanah waqf* — a religious endowment-land the Regeering had long declared to be under direct Dutch rule. Van Heutsz records the status in his catalogue of the *hoeloebalang* federation of the island:
 
@@ -249,9 +279,11 @@ The *tanah waqf* status — the island as a religious endowment of the sultan �
 
 ### The pepper-gardens and the hoeloebalang federation
 
+
 The island's economic life was, in Van Heutsz's diagnosis, its pepper-gardens — *de pepertuinen op P. Waij* — whose produce was of better quality than the pepper of the [[Westkust]]. Van Heutsz records the pepper-quality: *de uitvoer van peper van Poeloe Waij, welke van nog betere qualiteit is dan de peper van de Westkust* (the export of pepper from Poeloe Waij, which is of even better quality than the pepper of the Westkust). The *pepertuinen* were the constitutional theatre of the [[T. Nja Makam]] sub-plot: the *bendehoofd* Nja Makam, *op de Oostkust van Sumatra wel bekend* (well-known on the East Coast of Sumatra), was a half-brother of the lawful *hoeloebalang* of Lamnga and *T. Nja Daoed panglima Moeda Setia*, and his claim on the Paja/Waiy inheritance was the family-tie Van Heutsz proposed to exploit as the lever to coerce him. The *hoeloebalang* federation of the island — Lamnga, Oedjoeng Sekeh, Ajer Melih, Anak Item, Paja, Balohan — was the constitutional sub-structure whose rivalries the Dutch were to manipulate.
 
 ### The 1893 prescription: a Dutch marine station and free port
+
 
 The closing prescription of Van Heutsz's [[1893]] tract proposed Sabang (Poeloe Waij) as the site of a Dutch marine station and free port on the great trade-route from Europe to China, Japan, and Australia:
 
@@ -261,6 +293,7 @@ The *grootsche plan* (great plan) was, in Van Heutsz's diagnosis, the commercial
 
 ### The northern bay and the expert examination
 
+
 The specific site Van Heutsz proposed was the *Noordelijke baai* (northern bay) of Sabang — what is, in modern geography, Sabang Bay. The prescription calls for a *deskundig onderzoek* (expert examination) to verify the bay's commercial-geographic advantages:
 
 > "Blijkt bij nader van Regeeringswege te houden deskundig onderzoek, kort en zakelijk te verrichten om geen tijd te verliezen, P. Waij's Noordelijke baai werkelijk alle voordeelen en gemakken aan te bieden, die de concessionarissen opgeven en die noodzakelijk zijn voor eene dergelijke inrichting op groote schaal, dan is het voor Nederland van het uiterste belang dat schoone plan zoo krachtig mogelijk te steunen" (If, on a closer expert examination to be held by the Regeering — to be carried out briefly and concisely so as not to lose time — P. Waij's Northern Bay actually offers all the advantages and facilities that the concessionaries state and that are necessary for such an establishment on a great scale, then it is of the utmost importance for the Netherlands to support that fine plan as powerfully as possible).
@@ -269,75 +302,124 @@ The *Noordelijke baai* was, in the prescription, to be the site of *eene dergeli
 
 ### One of only two vrijhavens of the rijk
 
+
 The marine-station on Sabang was, in Van Heutsz's prescription, to be — together with [[Olehleh]] — one of only two *vrijhavens* (free ports) of the entire Atjehnese rijk: *moet dan niet alleen die vestiging op Waij eene vrijhaven zijn, maar met Oleh-leh de eenige vrijhaven van het geheele gebied* (not only must that establishment on Waij be a free port, but with Oleh-leh the only free port of the entire territory). The two-*vrijhaven* arrangement — Sabang on the north coast, Oleh-leh on the Groot-Atjeh river-mouth — was, in Van Heutsz's diagnosis, the commercial counterpart of the *scheepvaartregeling*: while the *scheepvaartregeling* levied duties at all the open ports of the *Onderhoorigheden*, the two *vrijhavens* were to be duty-free, the commercial poles around which the Atjehnese trade would concentrate. The *Nederlandsche vestiging op Waij* would, Van Heutsz argued, *de bron worden, waaruit geheel Groot-Atjeh voor den invoerhandel putten zal* (become the source from which all of Groot-Atjeh would draw for its import-trade), and a *vlugge stoomdienst* (fast steam-service) between Sabang and Oleh-leh would link the two *vrijhavens* into a single commercial system.
 
 ### The garrison: 100 onderofficieren en minderen
+
 
 The Sabang post was, in Van Heutsz's prescription, to be garrisoned with 100 *onderofficieren en minderen* (non-commissioned officers and men) — the same garrison-allotment as [[Telok Semawe]] and [[Samalanga]], and heavier than the 75-man allotment of [[Telok Kroet]] (Poeloe Raja) and [[Tampat Toean]]. Van Heutsz records the garrison-prescription: *Deze besparing reeds voldoende om te voorzien in de opterichten posten Telok Semawé, Samalanga, Poeloe Waij ieder 100, Telok Kroet (Poeloe Raija) en Tampat Toean ieder 75 onderofficieren en minderen* (This saving already sufficient to provide for the posts to be erected Telok Semawé, Samalanga, Poeloe Waij each 100, Telok Kroet (Poeloe Raja) and Tampat Toean each 75 non-commissioned officers and men). The 100-man garrison was, in Van Heutsz's argument, insufficient: *Om voor de bezetting van Poeloe Waij slechts 2 luitenants en 75 man te bestemmen, zooals ik vermeen dat in beginsel is aangenomen, acht ik niet goed, daar Poeloe Waij een van de gewichtigste posten wordt* (To allot for the garrison of Poeloe Waij only 2 lieutenants and 75 men, as I understand has been adopted in principle, I consider not good, because Poeloe Waij becomes one of the most important posts).
 
 ### The blokhuis Sabang: a separate reference
 
+
 The name *Sabang* also appears in Van Heutsz's text as the name of a *blokhuis* (blockhouse) on the *bestaande linie* of Groot-Atjeh — a separate place-name from the island of Poeloe Waij. The *blokhuizen Sabang en Pagani* are recorded in the garrison-prescription as blockhouses to be lifted later: *Later kunnen ook de blokhuizen Sabang en Pagani gemist worden, het laatste al vrij spoedig* (Later the blockhouses Sabang and Pagani can also be dispensed with, the latter fairly soon). The *blokhuis Sabang* on the Groot-Atjeh linie is to be distinguished from the island of Sabang (Poeloe Waij): the blokhuis is on the Groot-Atjeh defensive linie, while the island is the site of the proposed marine-station and free port. The two share only the name.
 
+## Account from *Verkenningen in Atjeh* (1923)
+
+
+**The Sabang-Mij** — the *Sabang Maatschappij* — was the company that operated the harbour of [[Sabang|Sabang]] on the island of Pulau Weh, and the parent of the [[Atjeh Transport-Mij|Atjeh Transport-Mij]]. The Atjeh Transport-Mij, a subsidiary of the Sabang-Mij, operates the praow-service at [[Oelèë Lheue|Oelèë Lheuë]], and has besides a small steamer which calls at the trading-pier at Oeleleh to bring or fetch goods and passengers.
+
+### Source
+
+
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter XV, *'Groot-Atjeh'*, p. 108.
+
+## Account from *Verkenningen in Atjeh* (1923)
+
+**Sabang** — the chief place of the island of Pulau Weh off the north-western tip of Sumatra — was established in the early civilian period as *'een station in zee met een toekomst'* — *a station at sea with a future* — and was the principal port of call of the [[Kon. Paketvaart|Kon. Paketvaart]] at the northern entrance to the Straits of Malacca. The first ship of the Kon. Paketvaart-Mij., the *Nederland*, was greeted there by the governor in September [[1903]] — the *Willem III*. Sabang was outside the toll-area: *'Sabang is buiten het tolgebied, evenzoo Riouw en Bengkalis.'*
+
+### The Leprosarium
+
+
+Lepers from the *Gouvernement Atjeh en Onderhoorigheden* are housed in the former military hospital at Sabang, where they are cared for under the supervision of a government doctor by Ambonese nurses. There are about fifty patients admitted. Consideration has been given to transferring the care of that institution to the [[Leger des Heils|Leger des Heils]] (Salvation Army). The frequent insanity in Atjeh led to an investigation in [[1920]], by an expert in mental diseases, into the necessity of a lunatic asylum in Atjeh. Although the governor of Atjeh proposed to build a central institution for the treatment of lunatics at [[Lam Teumet|Lam Teumet]] in [[Seulimeum|Seulimeum]], the government, for the sake of economy, did not consent; but recently it has approved that the former military hospital at Sabang be fitted up for the admission of lunatics who require institutional care.
+
+### The Atjeh-Tram and the Harbour
+
+
+The [[Atjeh-tram|Atjeh-tram]] line runs from [[Oelèë Lheue|Oelèë Lheuë]] in the south to [[Pangkalan Soesoe|Pangkalan Soesoe]] in the south-east. Cattle from [[Groot-Atjeh|Groot-Atjeh]], the centre of which is [[Seulimeum|Seulimeum]], goes by tram to Sabang and to [[Medan|Medan]]. For Medan the cattle are usually loaded at [[Lam Baró|Lam Baró]], a halt further on, and the tram then brings them to [[Besitang|Besitang]]. From there the cattle are led by road to Medan, because a longer train-journey would be harmful to the animals.
+
+### Significance
+
+
+Sabang is the principal harbour of call at the northern entrance to the Straits of Malacca, and the principal institution of the colonial government in Atjeh for the care of lepers and lunatics. Its free-port status made it an exception to the toll-regime of the rest of the gewest.
+
 ## See Also
-- [[Pulo We|Poeloe We]]
-- [[N.V. Zeehaven en Kolenstation Sabang]]
-- [[Atjeh Transport Maatschappij]]
-- [[Joannes Benedictus van Heutsz|Van Heutsz]]
-- [[The Subjugation of Atjeh (1892)]]
-- [[Oelèë Lheuë]]
-- [[Penang]]
-- [[Belawan]]
-- [[Petroleum industry in Atjeh]]
-- [[Poeloe Wé]]
-- [[Joannes Benedictus van Heutsz]]
-- [[Sabang Maatschappij]]
-- [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[Koetaradja]]
-- [[Seulimeum]]
-- [[Amacab]]
+
 - [[1.3.6. force]]
-- [[B. W. Lefrandt]]
-- [[A. C. Verhoeff]]
-- [[W. F. Palmer van den Broek]]
-- [[Aroe-baai-plannen]]
-- [[Aroebai]]
-- [[Koninklijke Paketvaart Maatschappij (KPM)]]
-- [[Rubber Industry in Atjeh]]
-- [[Opiumregie in Atjeh]]
-- [[Buitenbezittingen]]
-- [[Strait of Malacca]]
+- [[11 March]]
+- [[1873]]
 - [[1898]]
+- [[1903]]
 - [[1904]]
 - [[1909]]
 - [[1913]]
-- [[1942]]
-- [[22 January]] [[1942]]
-- [[11 March]] [[1942]]
-- [[31 August]] [[1945]]
-- [[1941]]
-- [[1945]]
-- [[Aceh War]]
-- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
-- [[Kutaradja]]
-- [[Johan Wøller]]
-- [[Atjeh en Onderhorigheden]]
-
-- [[Acheh]]
-- [[Anak Laoet (poem)]]
-- [[Atlas van Nederland en de Indiën (1930)]]
-- [[Atjeh en Onderhoorigheden]]
-- [[Catholic Mission of Koeta Radja-Atjeh]]
-- [[Groot-Atjeh]]
-- [[Koeta Radja]]
-- [[Melati en rotan]]
-- [[Poelau Weh]]
-- [[Sumatra]]
-- [[Vierhonderd jaren missie in Nederlandsch Indië (1934)]]
-- [[1873]]
+- [[1919]]
+- [[1920]]
 - [[1930]]
 - [[1934]]
+- [[1941]]
+- [[1942]]
+- [[1945]]
 - [[1947]]
+- [[22 January]]
+- [[31 August]]
+- [[A. C. Verhoeff]]
+- [[Aceh War]]
+- [[Acheh]]
+- [[Amacab]]
+- [[Anak Laoet (poem)]]
+- [[Aroe-baai-plannen]]
+- [[Aroebai]]
+- [[Atjeh Transport Maatschappij]]
+- [[Atjeh Transport-Mij]]
+- [[Atjeh en Onderhoorigheden]]
+- [[Atjeh en Onderhorigheden]]
+- [[Atjeh-tram]]
+- [[Atjehsche moorden]]
+- [[Atlas van Nederland en de Indiën (1930)]]
+- [[B. W. Lefrandt]]
+- [[Belawan]]
+- [[Buitenbezittingen]]
+- [[Catholic Mission of Koeta Radja-Atjeh]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Groot-Atjeh]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz]]
+- [[Johan Wøller]]
+- [[Koeta Radja]]
+- [[Koetaradja]]
+- [[Kon. Paketvaart]]
+- [[Koninklijke Paketvaart Maatschappij (KPM)]]
+- [[Kota Radja]]
+- [[Kutaradja]]
+- [[Lam Baró]]
+- [[Lam Teumet]]
+- [[Leger des Heils]]
+- [[Leproserie in Atjeh]]
+- [[Melati en rotan]]
+- [[N.V. Zeehaven en Kolenstation Sabang]]
+- [[Oelèë Lheue]]
+- [[Oelèë Lheuë]]
+- [[Opiumregie in Atjeh]]
+- [[Penang]]
+- [[Petroleum industry in Atjeh]]
+- [[Poelau Weh]]
+- [[Poeloe Wé]]
+- [[Pulo We|Poeloe We]]
+- [[Rubber Industry in Atjeh]]
+- [[Sabang]]
+- [[Sabang Maatschappij]]
+- [[Sabang-Mij]]
+- [[Seulimeum]]
+- [[Strait of Malacca]]
+- [[Sumatra]]
+- [[The Subjugation of Atjeh (1892)]]
+- [[Verkenningen in Atjeh (1923)]]
+- [[Vierhonderd jaren missie in Nederlandsch Indië (1934)]]
+- [[W. F. Palmer van den Broek]]
+
 ## Sources
 
 *De Europeesche Industrie* ["The European Industry"], section *De Buitenbezittingen* ("The Outer Possessions"), in *Grooten van Zee en Land in Nederlandsch-Indië*, Vol. 6, pp. 243–251 (English translation from the Dutch). B. A. van Sandick, *Sabang en Belawan als oceaanhavens* ["Sabang and Belawan as Ocean Harbours"], in *Indische Mercuur* (1913), No. 49 — cited in the source.
@@ -365,3 +447,7 @@ The name *Sabang* also appears in Van Heutsz's text as the name of a *blokhuis* 
 *DLP-84-Atjeh.pdf*, pp. 15-16.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 74, 94, 106, 107, 113–116. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim; *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), for the Koloniaal Instituut and Handelsmuseum.
+
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters XV and XX, *'Groot-Atjeh'* and *'Ten slotte over staatkunde'*, pp. 104, 107, 136–137.

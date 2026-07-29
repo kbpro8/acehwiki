@@ -1,12 +1,12 @@
 ---
 title: Besitang
 aliases: [Besitang, Besitang (Atjeh), Besitan, Besitang — Atjeh-tram terminus]
-tags: [place, town, colonial, dutch, aceh, buitenbezittingen, tramway]
+tags: [place, town, colonial, dutch, aceh, buitenbezittingen, tramway, junction, oostkust-van-atjeh, achehnese, Atjeh-tram, Deli-spoor]
 ---
-
 **Besitang** (also rendered **Besitan**) was a town in the [[Atjeh's Onderhoorigheden|Atjeh Dependencies]] that served as the projected terminus of the [[1913]]-approved extension of the [[Atjeh-tram|Atjeh-tramway]] from [[Koeala Simpang]] through [[Tamiang]] to Besitang. In the Encyclopaedisch Bureau's account, Besitang was also the proposed junction with the connecting line to [[Pangkalan Soesoe]] and the [[Deli Spoorweg Maatschappij|Deli railway]] network — the line of [[Oostkust van Sumatra|Sumatra's East Coast]] — that would, if built, link the Atjeh-tram to the [[Deli Spoorweg Maatschappij|Deli-tramway]] at [[Tandjoeng Slamat]].
 
 ## Account from *De Buitenbezittingen* (1917) — Besitang
+
 
 The Encyclopaedisch Bureau's account of the [[1913]] extension approvals places [[Besitang|Besitang]] at the southern end of the projected [[Koeala Simpang]]–[[Tamiang]]–Besitang line: "the doortrekking was approved of the [[Atjeh-tram|Atjeh-tram]] network from [[Koeala Simpang]] through [[Tamiang]] to Besitang, and from [[Pangkalan Soesoe]] to [[Telok Taboeban]] (on [[Aroebai|Arube Bay]], with a good roadstead), while the connecting line between Besitang and [[Pangkalan Soesoe]] is also already in preparation. With the completion of this last line-section, the [[Atjeh-tram|Atjeh-tram]] network will finally reach its natural terminus: the fine and accessible [[Aroebai|Arube Bay]]."
 
@@ -14,24 +14,34 @@ The Bureau's account of the projected — but ultimately deferred — direct lin
 
 ## Significance
 
+
 [[Besitang|Besitang]] is, in the Encyclopaedisch Bureau's account, the southern terminus of the [[Atjeh-tram|Atjeh-tramway]]'s [[1913]] extension and the proposed junction with the [[Deli Spoorweg Maatschappij|Deli railway]] network at [[Tandjoeng Slamat]]. Its role in the [[Aroe-baai-plannen|Aroe-baai-plannen]] is that of the inland node from which the line to [[Aroebai|Arube Bay]] via [[Pangkalan Soesoe]]–[[Telok Taboeban]] would depart.
+
+## Account from *Verkenningen in Atjeh* (1923)
+
+**Besitang** — modern *Besitang* — is the junction where the [[Atjeh-tram|Atjeh-tram]] and the [[Deli-spoor|Deli-spoor]] meet, and over a common track both run to [[Pangkalan Soesoe|Pangkalan Soesoe]] — a track with three rails, because the Atjeh-tram has narrow gauge (0.75 m) and the Deli-spoor has a line-width of 1.067 m. At Besitang the traveller from Kota Radja passes to the fast train of the Deli-spoor to reach [[Medan|Medan]]. The junction was effected in [[1908]], and after [[1910]] work began on the Langsa-Koeala Simpang section and the through-extension to Besitang and Pangkalan Soesoe was decided in [[1913]]. Besitang is in the border-region of the *Gouvernement Atjeh en Onderhoorigheden*; at [[Koeala Simpang|Koeala Simpang]] one is already in [[Tamiang|Tamiang]].
 
 ## See Also
 
-- [[Atjeh-tram]]
+- [[1908]]
+- [[1910]]
+- [[1913]]
 - [[Aroe-baai-plannen]]
 - [[Aroebai]]
-- [[Koeala Simpang]]
-- [[Tamiang]]
-- [[Pangkalan Soesoe]]
-- [[Telok Taboeban]]
-- [[Tandjoeng Slamat]]
+- [[Atjeh's Onderhoorigheden]]
+- [[Atjeh-tram]]
 - [[Deli Spoorweg Maatschappij|Deli-Spoorweg-Maatschappij]]
 - [[Deli Spoorweg Maatschappij|Deli-tram]]
+- [[Koeala Simpang]]
 - [[Pangkalan Brandan]]
-- [[Atjeh's Onderhoorigheden]]
-- [[1913]]
+- [[Pangkalan Soesoe]]
+- [[Tamiang]]
+- [[Tandjoeng Slamat]]
+- [[Telok Taboeban]]
+- [[Verkenningen in Atjeh (1923)]]
 
 ## Sources
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 69–72 (section "De Atjeh-tram").
+
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.

@@ -1,13 +1,12 @@
 ---
-
 title: Departement der Burgerlijke Openbare Werken
-aliases: [Department of Civil Public Works, B.O.W., Departement van B.O.W., Burgerlijke Openbare Werken, Departement der B.O.W.]
-tags: [organization, colonial, dutch, infrastructure, public-works, buitenbezittingen, aceh, colonial-department]
+aliases: [Department of Civil Public Works, B.O.W., Departement van B.O.W., Burgerlijke Openbare Werken, Departement der B.O.W., B.O.W. (Burgerlijke Openbare Werken), BOW]
+tags: [organization, colonial, dutch, infrastructure, public-works, buitenbezittingen, aceh, colonial-department, concept, B.O.W., BOW, burgerlijke-openbare-werken, irrigation, wadoek, panté-lhong]
 ---
-
 **The Departement der Burgerlijke Openbare Werken** ("Department of Civil Public Works," abbreviated **B.O.W.**) was the Dutch colonial department responsible for the construction and maintenance of public works in the Netherlands East Indies, including the [[Buitenbezittingen|Outer Possessions]] and [[Acheh|Atjeh]]. In the Encyclopaedisch Bureau's volume *De Buitenbezittingen 1904 tot 1914*, the B.O.W. is the colonial department under whose authority the havenwezen (harbour works), the wegaanleg (road construction), and the irrigatie (irrigation) of the Buitenbezittingen were carried out — including the [[Wegenplan Sumatra|Sumatra road plan]], of which the Gajo-weg from [[Bireuen]] to [[Takengon]] in the [[Atjeh en Onderhoorigheden|Atjeh and Dependencies]] residency was project no. 14.
 
 ## Account from *De Buitenbezittingen* (1917) — Departement der Burgerlijke Openbare Werken
+
 
 The Encyclopaedisch Bureau's account of the [[Departement der Burgerlijke Openbare Werken|Departement der Burgerlijke Openbare Werken]] surveys the Department's werkkring in the Buitenbezittingen under three principal heads: havenwezen (harbour works), wegaanleg (road construction), and irrigatie (irrigation). For the streken which were under direct administration (rechtstreeksch bestuur), the works were executed under the central technical leadership of the B.O.W. through ingenieurs placed in the various gewesten. For the zelfbesturende landschappen (self-governing territories), the B.O.W. acted only as advisor — the costs of works in the zelfbesturen were not borne on the algemeene begrooting (general budget).
 
@@ -17,9 +16,11 @@ The B.O.W.'s role in the [[Atjeh-tram|Atjeh-tramway]] was more limited — the A
 
 ## Significance
 
+
 The [[Departement der Burgerlijke Openbare Werken|Departement der Burgerlijke Openbare Werken]] is, in the Encyclopaedisch Bureau's account, the principal colonial department of infrastructure in the Buitenbezittingen — the department under whose authority the [[Wegenplan Sumatra|Sumatra road plan]] (including the Gajo-weg from [[Bireuen]] to [[Takengon]] and the Alasweg from [[Kaban Djahe]] to [[Kota Tjane]] in the [[Atjeh en Onderhoorigheden|Atjeh and Dependencies]] residency) was carried out. The B.O.W.'s brief administration of the [[Atjeh-tram|Atjeh-tramway]] in [[1882]]–[[1891]] likewise marks the only period of civil — as opposed to military — administration of the line before the post-[[1908]] reorientation.
 
 ## See Also
+
 
 - [[Wegenplan Sumatra]]
 - [[Bireuen]]
@@ -43,6 +44,7 @@ The [[Departement der Burgerlijke Openbare Werken|Departement der Burgerlijke Op
 
 ## Sources
 
+
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 47–59 (Het Departement der B. O. W.), pp. 53–56 (Wegenplan Sumatra), p. 68 (section "De Atjeh-tram").
 ---
 
@@ -50,6 +52,7 @@ The [[Departement der Burgerlijke Openbare Werken|Departement der Burgerlijke Op
 **The Departement der Burgerlijke Openbare Werken** ("Department of Civil Public Works," abbreviated **B.O.W.**) was the Dutch colonial department responsible for the construction and maintenance of public works in the Netherlands East Indies, including the [[Buitenbezittingen|Outer Possessions]] and [[Acheh|Atjeh]]. In the Encyclopaedisch Bureau's volume *De Buitenbezittingen 1904 tot 1914*, the B.O.W. is the colonial department under whose authority the havenwezen (harbour works), the wegaanleg (road construction), and the irrigatie (irrigation) of the Buitenbezittingen were carried out — including the [[Wegenplan Sumatra|Sumatra road plan]], of which the Gajo-weg from [[Bireuen]] to [[Takengon]] in the [[Atjeh en Onderhoorigheden|Atjeh and Dependencies]] residency was project no. 14.
 
 ## Account from *De Buitenbezittingen* (1917) — Departement der Burgerlijke Openbare Werken
+
 
 The Encyclopaedisch Bureau's account of the [[Departement der Burgerlijke Openbare Werken|Departement der Burgerlijke Openbare Werken]] surveys the Department's werkkring in the Buitenbezittingen under three principal heads: havenwezen (harbour works), wegaanleg (road construction), and irrigatie (irrigation). For the streken which were under direct administration (rechtstreeksch bestuur), the works were executed under the central technical leadership of the B.O.W. through ingenieurs placed in the various gewesten. For the zelfbesturende landschappen (self-governing territories), the B.O.W. acted only as advisor — the costs of works in the zelfbesturen were not borne on the algemeene begrooting (general budget).
 
@@ -59,30 +62,48 @@ The B.O.W.'s role in the [[Atjeh-tram|Atjeh-tramway]] was more limited — the A
 
 ## Significance
 
+
 The [[Departement der Burgerlijke Openbare Werken|Departement der Burgerlijke Openbare Werken]] is, in the Encyclopaedisch Bureau's account, the principal colonial department of infrastructure in the Buitenbezittingen — the department under whose authority the [[Wegenplan Sumatra|Sumatra road plan]] (including the Gajo-weg from [[Bireuen]] to [[Takengon]] and the Alasweg from [[Kaban Djahe]] to [[Kota Tjane]] in the [[Atjeh en Onderhoorigheden|Atjeh and Dependencies]] residency) was carried out. The B.O.W.'s brief administration of the [[Atjeh-tram|Atjeh-tramway]] in [[1882]]–[[1891]] likewise marks the only period of civil — as opposed to military — administration of the line before the post-[[1908]] reorientation.
+
+## Account from *Verkenningen in Atjeh* (1923)
+
+**The B.O.W.** — *Burgerlijke Openbare Werken*, the Civil Public Works department — was the colonial government's public-works department, responsible for the great irrigation-works and other public-infrastructure projects of the *Gouvernement Atjeh en Onderhoorigheden*. The B.O.W. is the principal builder of the *wadoeks* (dams) of the Atjehnese rice-cultivation, and the principal author of the costly and often useless public-works of the early civilian period — of which the failed dam at [[Panté Lhong|Panté Lhong]] in [[Peusangan|Peusangan]] (cost: three tons) is Broersma's type-case.
+
+### Source
+
+
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters X, XIII, *'In het land van Peusangan'* and *'Het groote rijstland Pidië'*, pp. 67, 91.
 
 ## See Also
 
-- [[Wegenplan Sumatra]]
-- [[Bireuen]]
-- [[Takengon]]
-- [[Gajo-landen]]
-- [[Alaslanden]]
-- [[Kaban Djahe]]
-- [[Kota Tjane]]
-- [[Atjeh-tram]]
-- [[Postenlinie]]
-- [[Ceintuur-trambaan]]
-- [[Departement van Oorlog]]
-- [[Departement van Binnenlandsch Bestuur]]
-- [[Atjeh en Onderhoorigheden]]
-- [[Pacificatie van Atjeh]]
 - [[1882]]
 - [[1885]]
 - [[1891]]
 - [[1904]]
 - [[1914]]
+- [[Alaslanden]]
+- [[Atjeh en Onderhoorigheden]]
+- [[Atjeh-tram]]
+- [[Bireuen]]
+- [[Ceintuur-trambaan]]
+- [[Departement van Binnenlandsch Bestuur]]
+- [[Departement van Oorlog]]
+- [[Gajo-landen]]
+- [[Kaban Djahe]]
+- [[Kota Tjane]]
+- [[Locèng]]
+- [[Pacificatie van Atjeh]]
+- [[Panté Lhong]]
+- [[Peusangan]]
+- [[Postenlinie]]
+- [[Sawah]]
+- [[Takengon]]
+- [[Verkenningen in Atjeh (1923)]]
+- [[Wadoek]]
+- [[Wegenplan Sumatra]]
 
 ## Sources
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 47–59 (Het Departement der B. O. W.), pp. 53–56 (Wegenplan Sumatra), p. 68 (section "De Atjeh-tram").
+
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923); *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), where applicable.

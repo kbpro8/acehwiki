@@ -1,12 +1,12 @@
 ---
 title: Koeala Simpang
-aliases: [Kuala Simpang, Koela Simpang, Koeala-Simpang, Kuala Simpang (Atjeh), the tramway terminus at Koeala Simpang]
-tags: [place, town, colonial, dutch, aceh, buitenbezittingen, tramway, tamiang]
+aliases: [Kuala Simpang, Koela Simpang, Koeala-Simpang, Kuala Simpang (Atjeh), the tramway terminus at Koeala Simpang, Koeala Simpang, Kwala Simpang, Tamiang hoofdplaats, head-place of Tamiang]
+tags: [place, town, colonial, dutch, aceh, buitenbezittingen, tramway, tamiang, achehnese, oostkust-van-atjeh, hoofdplaats]
 ---
-
 **Koeala Simpang** (modern **Kuala Simpang**) was a town in the [[Atjeh's Onderhoorigheden|Atjeh Dependencies]] that served as the eastern terminus of the [[Atjeh-tram|Atjeh-tramway]]'s second line from its [[1910]]–[[1912]] extension onward, and as the originating point of the [[1913]]-approved extension through [[Tamiang]] to [[Besitang]]. In the Encyclopaedisch Bureau's account, Koeala Simpang also marks the geographic transition from the second tramway's original [[Sigli]]–[[Langsa]] axis to the projected southern extension toward [[Aroebai|Arube Bay]] and the [[Deli Spoorweg Maatschappij|Deli railway]] network of [[Oostkust van Sumatra|Sumatra's East Coast]].
 
 ## Account from *De Buitenbezittingen* (1917) — Koeala Simpang
+
 
 The Encyclopaedisch Bureau's account of the [[Atjeh-tram|Atjeh-tramway]] first mentions [[Koeala Simpang|Koeala Simpang]] as the eastern terminus of the [[1910]]–[[1912]] extension of the second tramway from [[Langsa]]: "between [[1910]]–[[1912]] the [[Langsa]]–Koeala Simpang section was added" to the original [[1899]]–[[1906]] [[Sigli]]–[[Langsa]] line. The Bureau's account of the [[1913]] extension approvals — G. Bn. of [[17 June]] [[1913]] No. 59, [[16 October]] [[1913]] No. 25, [[8 November]] [[1913]] No. 40 — places Koeala Simpang at the centre of the projected further extension: "the doortrekking was approved of the [[Atjeh-tram|Atjeh-tram]] network from Koeala Simpang through [[Tamiang]] to [[Besitang]], and from [[Pangkalan Soesoe]] to [[Telok Taboeban]] (on [[Aroebai|Arube Bay]], with a good roadstead), while the connecting line between [[Besitang]] and [[Pangkalan Soesoe]] is also already in preparation."
 
@@ -14,29 +14,52 @@ The Bureau's framing makes Koeala Simpang the geographic pivot of the [[Aroe-baa
 
 ## Significance
 
+
 [[Koeala Simpang|Koeala Simpang]] is, in the Encyclopaedisch Bureau's account, the geographic pivot of the [[Atjeh-tram|Atjeh-tramway]]'s transition from a military to an economic instrument. The [[1912]] completion of the [[Langsa]]–Koeala Simpang extension closed the military phase of the line's construction; the [[1913]] extension approvals from Koeala Simpang onward toward [[Tamiang]], [[Besitang]], and [[Aroebai|Arube Bay]] opened the economic phase.
+
+## Account from *Verkenningen in Atjeh* (1923)
+
+**Koeala Simpang** — modern *Kuala Simpang* — is the chief place (*hoofdplaatsje*) of the *onderafdeeling* [[Tamiang|Tamiang]] in the *afdeeling* [[Oostkust van Atjeh|Oostkust van Atjeh]], situated at the confluence of the [[Simpang Kiri|Simpang-kiri]] and the [[Simpang Kanan|Simpang-kanan]] rivers which form the [[Tamiang-rivier|Tamiang river]]. It lies on the [[Atjeh-tram|Atjeh-tram]] line and on the great road that runs along the eastern coast, and is the natural emporium of the Tamiang estates.
+
+### Foundation and Growth
+
+
+The *hoofdplaatsje* received an extension in the good years before Broersma's visit, thanks to the presence of about twenty estates in the neighbourhood — the rubber and oil-palm plantations of [[Soengei Lipoet Cultuur-Mij|Soengei Lipoet]], [[Simpang-kiri (estate)|Simpang-kiri]], [[Tandjong Semantoh|Tandjong Semantoh]], [[Aloer Djamboe|Aloer Djamboe]] and the others. With the depression of the early 1920s the activity of the place diminished; the silence that was imposed on the cultures was shared by Koeala Simpang.
+
+### Administrative Position
+
+
+The place is the seat of the *onderafdeeling* Tamiang. The *onderafdeeling* was formed in [[1908]], when Tamiang was detached from the *gewest* [[Oostkust van Sumatra|Oostkust van Sumatra]] and added to the *afdeeling* Oostkust van Atjeh. The opening of Tamiang to private enterprise in [[1898]] was the first token of confidence in the security of oil-winning and tobacco-cultivation, and Koeala Simpang grew as the natural centre of the new planting activity.
 
 ## See Also
 
-- [[Atjeh-tram]]
-- [[Atjeh's Onderhoorigheden]]
-- [[Langsa]]
-- [[Sigli]]
-- [[Tamiang]]
-- [[Besitang]]
-- [[Pangkalan Soesoe]]
-- [[Telok Taboeban]]
-- [[Aroebai]]
-- [[Aroe-baai-plannen]]
-- [[Belawan]]
-- [[Sabang]]
-- [[Singapore]]
-- [[Pacificatie van Atjeh]]
-- [[Aceh War]]
+- [[1898]]
+- [[1908]]
 - [[1910]]
 - [[1912]]
 - [[1913]]
+- [[Aceh War]]
+- [[Aroe-baai-plannen]]
+- [[Aroebai]]
+- [[Atjeh's Onderhoorigheden]]
+- [[Atjeh-tram]]
+- [[Belawan]]
+- [[Besitang]]
+- [[Langsa]]
+- [[Oostkust van Atjeh]]
+- [[Pacificatie van Atjeh]]
+- [[Pangkalan Soesoe]]
+- [[Sabang]]
+- [[Sigli]]
+- [[Simpang Kanan]]
+- [[Simpang Kiri]]
+- [[Singapore]]
+- [[Tamiang]]
+- [[Telok Taboeban]]
+- [[Verkenningen in Atjeh (1923)]]
 
 ## Sources
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 69–70 (section "De Atjeh-tram").
+
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter II, *'Tamiang'*, pp. 6, 11.

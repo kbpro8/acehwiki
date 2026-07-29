@@ -1,0 +1,30 @@
+---
+title: "Blang Sekotji"
+aliases: ["Blang Sekotji", "Sekotji", "Sekoetji", "Blang Sekotjie", "Sekotji Idi"]
+tags: [place, village, landschap, achehnese, idi, oostkust-van-atjeh, colonial, 1873, 1923, padiveld, onderneming-theresia]
+---
+
+**Blang Sekotji** — also written *Sekoetji* by [[J. A. Kruyt|J. A. Kruyt]] — is a place in the *landschap* [[Idi rajeu|Idi rajeu]] in the *onderafdeeling* [[Idi|Idi]], described by Broersma as *'een liefelijk oord'* — *a lovely spot* — of cheerful garden-land round a great rice-field.
+
+## The Place and Its Name
+Broersma reports that the name is said to have arisen from *'schuitje'* — *little boat* — and that the small vessels formerly went up the [[Kroeeng Idi|Kroeeng Idi]] from the sea to that point. *'Misschien is de afleiding juist, maar ik betwijfel het'* — *Perhaps the derivation is correct, but I doubt it.* [[J. A. Kruyt|J. A. Kruyt]] repeatedly speaks of *Sekoetji* in *[[Atjeh en de Atjehers (Kruyt)|Atjeh en de Atjehers]]* ([[1877]]).
+
+## The Theresia Tobacco Enterprise
+Remarkable is that in this region half a century before Broersma's visit the *Ned. Handel-Mij.* had opened a tobacco-estate — *'die echter niet is geslaagd'* — *which however did not succeed.* A drawback would have been the *bandjirs* (floods) in this region. Fourteen years before Broersma's visit there still stood a fine building, which was held to be the *sociëteit* — the club — of the former enterprise *Theresia*, and which was then turned into an Inlandse school. Broersma sought diligently for that club-school, but learned that the school had been moved from right to left of the road, and presumably the remarkable building had then disappeared.
+
+## The School
+The little school at nearby [[Keude Geuroba|Keude Geuroba]] — pronounced *kedé Groba* — has two classes with forty children together, boys of six to nine years. They sat copying the examples on the board, and it struck Broersma how neatly they did it. On several school-tours in Atjeh he had seen the same, and in no land of Netherlands-India has the simple people's education such a task as in Atjeh, where the young generation sorely needs a little exercise of thinking against the foolish teaching of useless hatred.
+
+## See Also
+- [[Idi]]
+- [[Idi rajeu]]
+- [[Keude Geuroba]]
+- [[J. A. Kruyt]]
+- [[Atjeh en de Atjehers (Kruyt)]]
+- [[Ned. Handel-Mij]]
+- [[Verkenningen in Atjeh (1923)]]
+- [[1873]]
+- [[1877]]
+
+## Source
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter VII, *'Vriendelijk Idi'*, pp. 47–48.
