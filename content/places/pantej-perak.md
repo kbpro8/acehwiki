@@ -14,8 +14,12 @@ The February [[1875]] cholera catastrophe forced the issue. In the K. Radja ambu
 
 The decision to move the ambulances to Pantej Perak was a tacit admission that [[Jan van Swieten|van Swieten]]'s prediction — that K. Radja would become "eene aangename gezellige garnizoensplaats" — had been exactly wrong. The Kraton was the unhealthiest spot on the Atjeh coast, a *groot zickeninrichting* (great sick-house) where malaria, cholera and the [[Bandjir flood of Kota Radja (December 1874)|December 1874 bandjir]] had produced "ontzettend" mortality. Pantej Perak, by contrast, lay on the higher right bank, exposed to the sea-breeze and out of the marshy ground around the Kraton. With the move of the ambulances, the Dutch *stelling* on the right bank — Penajoeng, the [[Marine-benteng|marine-benteng]], [[Kwala Atjeh]] and the [[Pedir-dijk]] posts — became more than a military perimeter; it became the medical and logistical base of the entire occupation. The right-bank posts of the [[Stelling-Pel|stelling-Pel]] were thus anchored on Pantej Perak as their logistical centre.
 
-## See Also
+**Pantej Perak** was a grassy plain situated opposite the [[Kraton of Atjeh]] and [[Atjeh's Groote Missigit]].
 
+## Historical Significance
+Following severe combat in late December [[1873]], Dutch forces secured this plain. It offered a clear line of sight to the Missigit, revealing the newly constructed Acehnese earthworks, and served as a staging ground for the [[Third Conquest of the Great Missigit]] on [[6 January]] [[1874]].
+
+## See Also
 - [[Kota Radja]]
 - [[Penajoeng]]
 - [[Atjeh-rivier]]
@@ -24,6 +28,8 @@ The decision to move the ambulances to Pantej Perak was a tacit admission that [
 - [[Stelling-Pel]]
 - [[Kettinggangers in Atjeh]]
 
-## Source
+## Sources
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 254–256, 263.
+
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889.

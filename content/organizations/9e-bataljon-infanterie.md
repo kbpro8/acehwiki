@@ -22,8 +22,12 @@ The 9e Bataljon's strength on [[23 May]] [[1896]] was 14 officieren and 500 mind
 
 The 9e Bataljon Infanterie was one of the two or three most heavily engaged Dutch battalions of the spring [[1896]] campaign, present at every major Dutch action from the [[Three-day Dutch offensive of 23–25 May 1896|23 May offensive]] through the [[Tuchtiging der V Moekims Montassik (16–17 June 1896)|16–17 June tuchtiging]]. Its succession of commanders from Bendien to Veeren mirrors the Dutch reshuffle that followed [[J. A. Vetter (Luitenant-Generaal)|Lt.-Gen. Vetter]]'s arrival as [[Regeeringscommissaris (Government Commissioner)|Regeeringscommissaris]], and its 1e compagnie's storm of the [[Ateuh Raja]] *borstwering* on [[9 June]] [[1896]] — with fusilier v. Dongen killed at the moment of breakthrough — exemplifies the cost of Dutch frontal assaults against prepared Acehnese fortifications. The battalion's role in covering the [[Beradin (Vallei van Beradin / Kloof van Beradin)|Kloof van Beradin]] retreat on [[25 May]] [[1896]] was critical to the safe extraction of the Bergcolonne after the [[Slag bij Tjot Tjako (23 May 1896)|Battle of Tjot Tjako]].
 
-## See Also
+**9e Bataljon Infanterie** was a highly active Dutch infantry battalion during the [[First Aceh Expedition]].
 
+## Engagements
+During the [[First Conquest of the Great Missigit]] on [[10 April]] [[1873]], units of the 9th Battalion secured the flanks, utilizing terrain like [[Kandang Poth Djemaloon]] and [[Village Merdoehati]] for cover. Captain [[J.H. Huijer]] from the 9th Battalion led a heroic assault during the [[Second Conquest of the Great Missigit]] on [[14 April]] [[1873]], armed with modern breech-loading rifles (breech-loading rifles) that proved devastating to the defenders.
+
+## See Also
 - [[H. Bendien (Luitenant-Kolonel)]]
 - [[J. B. van Heutsz (Luitenant-Kolonel)]]
 - [[Three-day Dutch offensive of 23–25 May 1896]]
@@ -36,6 +40,8 @@ The 9e Bataljon Infanterie was one of the two or three most heavily engaged Dutc
 - [[Beradin (Vallei van Beradin / Kloof van Beradin)]]
 - [[1896]]
 
-## Source
+## Sources
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 67, 73, 77, 83, 84, 89, 93, 120, 146, 158, 184, 212, 229, 246, 293, 310, 318.
+
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889.

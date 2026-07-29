@@ -14,8 +14,12 @@ The Kraton's defences, as Borel describes them after personally walking the bors
 
 After [[24 January]] [[1874]] the Kraton became [[Kota Radja]], the Dutch *hoofdplaats* (headquarters). The [[Kroeng Daroe]], a small river splitting the enclosure into two halves, became the principal cause of the [[Bandjir flood of Kota Radja (December 1874)|December 1874 bandjir]] that inundated the headquarters for eight days. By [[1875]] the Kraton was already "vervallen" (dilapidated); Borel records that kazerneloodsen had no zijwanden, rain poured through, and "nimmer klonk een blij gezang binnen de wallen." It remained the *centraal reduit* of the [[Stelling-Pel|stelling-Pel]] and the unhealthiest spot in Atjeh — a *groot zickeninrichting* (great sick-house) wracked by malaria, cholera and flood.
 
-## See Also
+**Kraton of Atjeh** was the fortified royal palace and administrative heart of the Acehnese Sultanate, located near the [[Atjeh-rivier]] and protected by its outer bastion, [[Atjeh's Groote Missigit]].
 
+## Historical Significance
+As the ultimate objective of the Dutch military expeditions in [[1873]] and [[1874]], the Kraton symbolized Acehnese sovereignty and resistance. The Dutch strategy was built entirely around advancing upon and capturing this complex. The bitter fighting at the Missigit was a direct consequence of the Acehnese determination to prevent the Dutch from reaching the Kraton. Once the Missigit fell decisively during the [[Third Conquest of the Great Missigit]], the path to the Kraton was laid bare.
+
+## See Also
 - [[Kota Radja]]
 - [[Mesigit of Atjeh]]
 - [[Kroeng Daroe]]
@@ -27,6 +31,8 @@ After [[24 January]] [[1874]] the Kraton became [[Kota Radja]], the Dutch *hoofd
 - [[Bamboe-doeri versperringen]]
 - [[Beknopte beschrijving van den Kraton van Groot Atjeh]]
 
-## Source
+## Sources
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 24, 27, 32–50, 58–60, 89, 96, 99–107, 111, 116–118, 121–128, 131–135, 219–223, 266–273.
+
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889.

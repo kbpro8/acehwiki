@@ -31,7 +31,7 @@ Köhler's death and the failure of the first expedition were attributed by the a
 
 ## Account from *Dispereert Niet Vol. XI* (1946) — General Köhler
 
-**General Köhler** was the commander of the first Dutch expedition to **[[Aceh]]** in [[1873]], during the early phase of the **[[Aceh War]]**. He was killed in action when he paused to rest under a *waringin* (banyan) tree, a death that became a symbol of Dutch overconfidence and contributed to the immediate failure of the first expedition.
+**General Köhler** was the commander of the first Dutch expedition to **[[Aceh]]** in [[1873]], during the early phase of the **[[Aceh War]]**. He was killed in action when he paused to rest under a *banyan* (banyan) tree, a death that became a symbol of Dutch overconfidence and contributed to the immediate failure of the first expedition.
 
 ### Background
 
@@ -43,7 +43,7 @@ Köhler's force landed on Aceh's north coast on **[[26 March]] [[1873]]**. The i
 
 ### Death
 
-After the capture of the mosque, Köhler paused to rest under a *waringin* (banyan) tree. It was a moment of apparent triumph—but it was also a moment of vulnerability. Acehnese forces counterattacked, and Köhler was killed.
+After the capture of the mosque, Köhler paused to rest under a *banyan* (banyan) tree. It was a moment of apparent triumph—but it was also a moment of vulnerability. Acehnese forces counterattacked, and Köhler was killed.
 
 ### Aftermath
 
@@ -61,8 +61,15 @@ The causes adduced by the textbook — Atjehnese piracy (*zéerooverijen*) and t
 
 Köhler's significance for the encyclopedia of [[Acheh|Achehnese]] history lies in the fact that his death is the founding event of the [[Aceh War|Atjeh-oorlog]] as a Dutch national and military memory. The failure of the [[First Aceh Expedition (1873)|first expedition]] — fixed in the death of its commander — set the political and military conditions for the [[Second Aceh Expedition (1873-1874)|second expedition]] of November [[1873]], the [[Capture of the Kraton (24 January 1874)|capture of the Kraton]] of [[24 January]] [[1874]], and the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[31 January|31 January]] [[1874]]. His name, in the canonical form "*Köhler sneuvelde*," became — together with the [[Kraton of Aceh|Kraton]] and [[Van Heutsz|Van Heutsz]] — one of the three mnemonic pegs of the Dutch schoolroom memory of the Atjeh war.
 
-## See Also
+**J.H.R. Köhler** was a Major General and the Commander-in-Chief of the [[First Aceh Expedition]] in [[1873]].
 
+## Leadership in Atjeh
+Köhler led the initial Dutch invasion, commanding the [[Landing on Atjeh's Coasts]] on [[8 April]] [[1873]]. Following the [[Reconnaissance of the Kraton]] on [[9 April]] [[1873]], he ordered the [[First Conquest of the Great Missigit]] on [[10 April]] [[1873]]. When the position proved impossible to hold, he pragmatically ordered the [[Retreat from the Missigit]].
+
+## Death
+During the [[Second Conquest of the Great Missigit]] on [[14 April]] [[1873]], Köhler was directly overseeing the battle. While standing near a large banyan tree, which was later named the [[Generaal-Köhler-boom]], he was struck and killed by enemy fire. His death was a massive psychological blow to the expedition.
+
+## See Also
 - [[First Aceh Expedition (1873)]]
 - [[Battle of the Missigit (10 April 1873)]]
 - [[Jan van Swieten|J. van Swieten]]
@@ -111,3 +118,5 @@ When the tree was felled in [[1936]], *van het onderste deel van den stam van K�
 *Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889.
