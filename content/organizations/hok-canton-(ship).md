@@ -1,7 +1,7 @@
 ---
 title: "Hok Canton (ship)"
 aliases: ["Hok Canton (ship)", "Hok Canton", "SS Hok Canton", "Steamship Hok Canton", "Hok Canton incident (1886)", "Hok Canton geschiedenis 1886", "the 1886 Hok Canton affair", "de in Juni 1886 voorgevallene treurige Hok Canton geschiedenis", "de Hok Canton geschiedenis"]
-tags: [organization, ship, dutch, colonial, aceh-war, 19th-century, 1886, toekoe-oemar, hok-canton, piracy, rigaih, scheepvaartregeling]
+tags: [organization, ship, dutch, colonial, aceh-war, 19th-century, 1886, 1893, toekoe-oemar, hok-canton, piracy, rigaih, scheepvaartregeling]
 ---
 
 **The Hok Canton** — the steamship *Hok Canton* — was the merchant vessel captured by the Atjèhse chieftain [[Teuku Umar|Teukoe Oema]] at the roadstead of [[Rigaih|Rigaih]] on the [[Westkust|Westkust]] of [[Atjeh|Atjèh]] in [[June 1886|June]] [[1886]], in the period of Toekoe Oema's mastery of the Westkust under the [[Concentratie-stelsel (1884-1896)|concentration system]]. The capture, the subsequent ransom of the prisoners for 25,000 dollars, and the division of the ransom between Toekoe Oema and [[Kemala|Kemala]] together constitute one of the principal Atjèhse acts of piracy against foreign shipping of the middle phase of the [[Aceh War|Atjèh-oorlog]] — and the empirical event that, in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]*, turned both the colony's former Civil Governor ([[1881]]–[[1883]]) and the sitting Governor of Atjeh ([[Demmeni|Generaal Demmeni]]) into advocates of a return to the [[Scheepvaartregeling|scheepvaartregeling]] that the [[Concentratiebesluit (19 Augustus 1884)|Concentratie]] had abolished.
@@ -36,6 +36,12 @@ The *Hok Canton geschiedenis* of June [[1886]] was the most conspicuous of a ser
 
 The June [[1886]] incident was also contemporaneous with two other events of the same year that Van Heutsz catalogues in the historical movement of the [[1893]] tract: the death of [[Demmeni|Generaal Demmeni]] at the end of [[1886]], which opened the governorship to [[Van Teijn|Kolonel van Teijn]]; and the revival, at ministerial level, of the *herstel van het sultanaat* under [[Toeankoe Mohamad Daoed]] by Minister [[Sprenger van Eijk]] in [[1886]], on the prompting of [[Laging Tobias]]'s December [[1886]] article and of [[Fransen van de Putte]]'s *Parlementaire Redevoeringen*. The *Hok Canton geschiedenis* was, in Van Heutsz's chronology, the empirical event that, in June [[1886]], produced the demands for a return to the *scheepvaartregeling*; the ministerial revival of the sultanaat-idea was, in the same chronology, the political event that, in the same year, produced the contrary demand for a restoration of the sultanate under Mohamad Daoed. The two events together defined the policy-options of the post-Demmeni governorship that [[Van Teijn|Kolonel van Teijn]] would, from the end of [[1886]], inherit.
 
+## The Hok Canton and the Raijah piracy of 1893
+
+The *Hok Canton* appears a second time in the literature of Acehnese piracy, seven years after her own capture, in a role exactly opposite to that of [[1886]]: not as the vessel taken, but as the vessel that escaped notice. In the account given by [[P. H. R. Beuming]] of the [[Raijah piracy (20 July 1893)|seizure of the steamer *Raijah*]] on the night of [[20 July]] [[1893]], seven men of [[Pedir]] boarded the *[[Raijah (steamer)|Raijah]]* at [[Telok Semawé]] because of a rumour that she carried a large sum of money for the *[[Controleur Binnenlandsch Bestuur|controleur]]* at [[Edi (Atjeh)|Edi]]. They killed the helmsman, the second mate and the captain, and left twenty-four dead; but the plunder, Beuming noted, *zal wel erg tegengevallen zijn* — must have been a severe disappointment — because the money-consignment *had niet met de Raijah, maar met de Hok Canton plaats gehad*: it had gone not with the *Raijah* but with the *Hok Canton*.
+
+The coincidence is not remarked upon by Beuming, who does not connect the vessel to the [[1886]] affair, and the two episodes belong to different phases and different coasts of the war — the [[1886]] capture to the Westkust under the [[Concentratie-stelsel (1884-1896)|concentration system]], the [[1893]] massacre to the [[Noordkust van Atjeh|Noordkust]] in the last years before the [[Post-1896 system in Atjeh|new policy]]. They are recorded here together only because the same ship's name stands in both.
+
 ## Significance
 
 The *Hok Canton* is the merchant vessel whose capture by Toekoe Oema at the roadstead of Rigaih in [[June 1886|June]] [[1886]] — and the subsequent ransom of the prisoners for 25,000 dollars, divided between Toekoe Oema and Kemala — constitutes one of the principal Atjèhse acts of piracy against foreign shipping of the middle phase of the [[Aceh War|Atjèh-oorlog]]. The capture, with the earlier [[1884]] massacre of the sloop of the *Benkoelen* at Lambeusong, was one of the two principal acts of Toekoe Oema's pre-submission career that the Dutch would later disregard when they armed him as their principal Atjèhse auxiliary — and that the [[Defection of Teuku Umar (March 1896)|defection of 29 March 1896]] would expose as the warning signs that the Dutch had refused to recognise.
@@ -44,6 +50,9 @@ In Van Heutsz's [[1893]] narrative, the Hok Canton incident of June [[1886]] is 
 
 ## See Also
 
+- [[Raijah piracy (20 July 1893)]]
+- [[Raijah (steamer)]]
+- [[P. H. R. Beuming]]
 - [[Hok Canton affair (June 1886)]]
 - [[Hok Canton incident]]
 - [[Teuku Umar]]
@@ -87,3 +96,7 @@ In Van Heutsz's [[1893]] narrative, the Hok Canton incident of June [[1886]] is 
 *Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, p. 25.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders Van Cleef; Batavia: G. Kolff en Co., 1893, esp. p. 44 (and the [[1886]] polemical context referenced on pp. 28, 33). OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Koninklijk Instituut voor de Tropen, Br N 82-144, pp. 9–11.
+
+*Acknowledgement of sources.* This article combines material from the publications cited above. Dutch passages are quoted in the original with an English rendering.

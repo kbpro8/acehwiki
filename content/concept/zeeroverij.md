@@ -1,5 +1,5 @@
 ---
-title: Zeeroverij
+title: "Zeeroverij"
 aliases: ["Zeeroof (Atjeh)", "Atjehnese piracy", "Atjeh piracy", "zeeroof"]
 tags: [concept, institution, colonial, acehnese, piracy, maritime, dutch, acheh, achehnese]
 ---
@@ -20,7 +20,14 @@ The [[Anglo-Dutch Treaty of 1824|Sumatra-contract of 1871]] gave the [[Netherlan
 
 ## The Failure of "Limited" Measures and the Continuation of Piracy
 
-The Dutch assumption that "limited" military measures would bring the Atjehers to reason was rapidly falsified. After the [[Capture of the Kraton (24 January 1874)|capture of the Kraton]] on [[24 January]] [[24 January]] [[1874]] the Dutch government, believing the Atjehers sufficiently impressed, recalled the troops to [[Batavia|Batavia]]; the result was that a year later troops had to be sent again. "Slavenhandel en zeeroverij werden op de oude voet voortgezet," Frijling records; "De offers aan mensenlevens waren vergeefs gebracht." The protracted "schier eindeloos gesukkel" of the [[Aceh War|Atjeh-oorlog]] followed, and was only brought to an end by the [[Pacificatie van Atjeh|pacification]] of [[Joannes Benedictus van Heutsz|Van Heutsz]] around the turn of the century.
+The Dutch assumption that "limited" military measures would bring the Atjehers to reason was rapidly falsified. After the [[Capture of the Kraton (24 January 1874)|capture of the Kraton]] on [[24 January]] [[1874]] the Dutch government, believing the Atjehers sufficiently impressed, recalled the troops to [[Batavia|Batavia]]; the result was that a year later troops had to be sent again. "Slavenhandel en zeeroverij werden op de oude voet voortgezet," Frijling records; "De offers aan mensenlevens waren vergeefs gebracht." The protracted "schier eindeloos gesukkel" of the [[Aceh War|Atjeh-oorlog]] followed, and was only brought to an end by the [[Pacificatie van Atjeh|pacification]] of [[Joannes Benedictus van Heutsz|Van Heutsz]] around the turn of the century.
+
+
+## A late instance: the Raijah of 1893
+
+That piracy on the Acehnese coast did not end with the declaration of war is shown by the seizure of the steamer *[[Raijah (steamer)|Raijah]]* of the [[Koninklijke Paketvaart Maatschappij|Indische Paketvaart]] on the night of [[20 July]] [[1893]], twenty years after the opening of hostilities. Seven men of [[Pedir]], smuggled aboard in the hold at [[Telok Semawé]] by an Acehnese member of the crew, killed the helmsman, the second mate and the captain, ran the vessel ashore near [[Keureutoe|Kerti]] on the [[Noordkust van Atjeh|north coast]], and went ashore with their plunder and five women, having first stove in the ship's remaining boats. Twenty-four of those aboard were killed, twelve wounded and eighteen drowned. The episode is narrated in full at [[Raijah piracy (20 July 1893)]].
+
+The affair is significant for the history of *zeeroverij* in two respects. It demonstrates that a scheduled mail-and-passenger steamer running between recognised open ports under the *[[Scheepvaartregeling|scheepvaartregeling]]* could still be taken at sea in [[1893]]; and it shows the mechanism by which such seizures were organised from within the shipping system itself, through the complicity of a crew member, rather than by attack from without in the manner of the raiding-prauws of earlier centuries. [[P. H. R. Beuming]], who recorded it, used the episode as the closing exhibit in his argument that piracy had been the true cause of the [[Aceh War|Atjeh-oorlog]]; see [[Beuming's account of the origin of the Atjeh-oorlog]].
 
 
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
@@ -52,6 +59,8 @@ The [[Zeeroof (Atjeh)|zeeroof]] is, in the source's narrative, the principal Dut
 
 ## See Also
 
+- [[Raijah piracy (20 July 1893)]]
+- [[Raijah (steamer)]]
 - [[Pacificatie van Atjeh]]
 - [[Capture of the Kraton (24 January 1874)]]
 - [[Anglo-Dutch Treaty of London]]
@@ -85,3 +94,7 @@ The [[Zeeroof (Atjeh)|zeeroof]] is, in the source's narrative, the principal Dut
 J. Frijling, *Een stukje geschiedenis der Indische Buitengewesten, voor wie dat niet overbodig mocht zijn* (1946), pp. 1, 7–8. Koninklijke Bibliotheek shelfmark 0465 0898.
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 197, 216.
+
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Koninklijk Instituut voor de Tropen, Br N 82-144, pp. 6–11.
+
+*Acknowledgement of sources.* This article combines material from the publications cited above. Dutch passages are quoted in the original with an English rendering.
