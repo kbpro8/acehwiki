@@ -22,7 +22,7 @@ tags: [person, politician, colonial, dutch, acheh, liberal, minister, aceh-war, 
 
 ## On Atjeh
 
-[[Mr J. H. Bergsma|Bergsma]]'s ministry covered the [[1897]]-[[1901]] period — the immediate pre-[[Toekoe Oemar's defection ([[1896]])|Oemar-defection]] years and the [[Concentratie-stelsel ([[1884]]-[[1896]])|post-concentratie]] recovery. The [[Troonrede of 1901|troonrede]] of [[1901]] that officially proclaimed the [[Ethische Politiek|ethical policy]] was, in part, a judgement on the comparative restraint of the [[Mr J. H. Bergsma|Bergsma]] years.
+[[Mr J. H. Bergsma|Bergsma]]'s ministry covered the [[1897]]-[[1901]] period — the immediate pre-[[Toekoe Oemar's defection (1896)|Oemar-defection]] years and the [[Concentratie-stelsel (1884-1896)|post-concentratie]] recovery. The [[Troonrede of 1901|troonrede]] of [[1901]] that officially proclaimed the [[Ethische Politiek|ethical policy]] was, in part, a judgement on the comparative restraint of the [[Mr J. H. Bergsma|Bergsma]] years.
 
 ## The admission on the cost of the war
 

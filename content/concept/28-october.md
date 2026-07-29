@@ -4,7 +4,7 @@ aliases: ["28 October", "28 October 1926", "twenty-eighth of October"]
 tags: [concept, date, aceh, colonial, timeline]
 ---
 
-**[[28 October]]** is the date on which, in [[1926]], the [[Vereeniging SIMAVI|Vereeniging \u201eSIMAVI\u201d]] — *Steun In Medische Aangelegenheden Voor Inheemschen* — received royal approval as an association under Netherlands law.
+**[[28 October]]** is the date on which, in [[1926]], the [[Vereeniging SIMAVI|Vereeniging „SIMAVI”]] — *Steun In Medische Aangelegenheden Voor Inheemschen* — received royal approval as an association under Netherlands law.
 
 The statement printed on the second page of *[[Een strijd in Atjeh (1934)]]* reads: "VEREENIGING S.I.M.A.V.I (Steun In medische Aangelegenheden Voor Inheemschen). Koninklijk goedgekeurd [[28 October]] [[1926]]."
 

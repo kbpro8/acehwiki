@@ -9,7 +9,7 @@ tags: [concept, aceh, governance, sovereignty, nobility, colonial, 1885]
 
 The Minister of Colonies [[J. T. Cremer|J. T. Cremer]] told the [[Tweede Kamer]] on [[17 November]] [[1897]] that there were "niet minder dan 62 vorsten op die kust," — no fewer than 62 princes on that coast, and that with them treaties had been concluded, or rather that these princes had made declarations concerning their subordination to Dutch authority. The declarations had come not by a general measure but gradually, "naarmate onze invloed op de kust zich uitbreidde," — as our influence on the coast extended, from [[1885]] into the most recent years. He had not been able to ascertain whether any remained who did not recognise Dutch sovereignty, but held that if any existed they were exceptions.
 
-Among them was the ruler of [[Perlak]], who had recognised Dutch sovereignty since [[1885]]\u2013[[1886]].
+Among them was the ruler of [[Perlak]], who had recognised Dutch sovereignty since [[1885]]–[[1886]].
 
 ## The limits of their authority
 

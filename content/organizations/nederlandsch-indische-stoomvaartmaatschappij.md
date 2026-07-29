@@ -14,21 +14,10 @@ On [[20 September]] [[20 September]] [[1873]], having received his posting to th
 
 On [[4 August]] [[4 August]] [[1875]] [[Cornelis Jacobus Snijders|Snijders]] left [[Oleh-leh|Olehleh]] on the steamship *Atjeh* of the Nederlandsch-Indische Stoomvaartmaatschappij. After a few days at [[Penang|Penang]] and [[Singapore|Singapore]] he reached [[Batavia|Batavia]] on [[14 August]] [[14 August]]. The choice of an NISM steamer for the departure from Atjeh — and the name of the steamer — is a small reminder of the place of Atjeh in the Dutch colonial imagination.
 
-## The Voyage of September 1873
-
-## The Voyage of August 1875
-
-## The Voyage of September [[1873]]
-
-## The Voyage of August [[1875]]
-
-## The Voyage of September [[1873]]
-
-## The Voyage of August [[1875]]
 
 ## Account from *Atjeh in de Tweede Kamer* ([[1897]])
 
-The Nederlandsch-Indische Stoomvaart-Maatschappij was named twice in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]\u2013[[17 November]] [[1897]] as the shipping company whose fortunes had been most closely bound to the [[Aceh War|Atjeh-oorlog]] before the founding of the [[Koninklijke Paketvaart-Maatschappij|Koninklijke Paketvaart-Maatschappij]].
+The Nederlandsch-Indische Stoomvaart-Maatschappij was named twice in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]–[[17 November]] [[1897]] as the shipping company whose fortunes had been most closely bound to the [[Aceh War|Atjeh-oorlog]] before the founding of the [[Koninklijke Paketvaart-Maatschappij|Koninklijke Paketvaart-Maatschappij]].
 
 [[H. van Kol]] quoted [[W. C. Nieuwenhuizen]] in the *[[Indische Gids]]*: "De geschiedenis van den Atjeh-oorlog is in zekeren zin de geschiedenis van de Nederlandsch-Indische Stoomvaartmaatschappij." — The history of the Atjeh war is in a certain sense the history of the Netherlands-Indies Steamship Company.
 

@@ -32,7 +32,7 @@ The Pel plan was never executed as designed. [[J. L. J. H. Pel|Pel]] died during
 
 > "terwijl op de kusten geen posten werden opgericht te Gighen en te Melaboeh, zooals in het plan lag, maar alleen in [other statelets]" (while on the coasts no posts were erected at Gighen and at Melaboeh, as the plan had prescribed, but only at [other statelets]).
 
-The failure to erect posts at Gighen and [[Melaboeh]] *zooals in het plan lag* — as the plan had prescribed — was, in Van Heutsz's diagnosis, the original operational default of the Pel-plan execution. The coastal line of Groot-Atjeh was nominally sealed in February [[1877]], but the Onderhoorigheden-side of the seal — the posts at the five *kwala's* and at Melaboeh — was never established. The result was the 1876–1877 irony of the *civiel bestuur van Oleh-leh* rice-trade through which *de vijand zijne rijstschuren bij ons te Oleh-leh had* — the enemy had his rice-bins at our [[Olehleh]] — even as the surrounding coast was nominally closed.
+The failure to erect posts at Gighen and [[Melaboeh]] *zooals in het plan lag* — as the plan had prescribed — was, in Van Heutsz's diagnosis, the original operational default of the Pel-plan execution. The coastal line of Groot-Atjeh was nominally sealed in February [[1877]], but the Onderhoorigheden-side of the seal — the posts at the five *kwala's* and at Melaboeh — was never established. The result was the [[1876]]–[[1877]] irony of the *civiel bestuur van Oleh-leh* rice-trade through which *de vijand zijne rijstschuren bij ons te Oleh-leh had* — the enemy had his rice-bins at our [[Olehleh]] — even as the surrounding coast was nominally closed.
 
 ### The murder of Said Abdellah and the bangoen-default
 
@@ -66,21 +66,6 @@ The influence of the *Radja's* of Pedir and Gighen on the *federatie XII* depend
 
 Gighen's significance in Van Heutsz's [[1893]] tract rests on four things: it was one of the five *kwala's* named in [[J. L. J. H. Pel|Pel]]'s [[30 April]] [[1875]] plan as the sea-approaches whose occupation would seal [[Groot-Atjeh]] from the sea — the second of the five *kwala's* (Loé, Gighen, Atjeh, Tjangkoel and Pantjoer) whose control Pel prescribed; it was the statelet where the Dutch failure to establish the prescribed posts in [[1875]]–[[1877]] was empirically exposed — *geen posten werden opgericht te Gighen en te Melaboeh, zooals in het plan lag* — the original operational default of the Pel-plan execution; it was the place whose *bangoen*-default and the murder of [[Said Abdellah]] provoked [[Scherer]]'s [[1880]] *kruisboot*-deployment — the first proof-of-concept of the *kruisboot-bangoen* method that grew into the *[[Scheepvaartregeling|scheepvaartregeling]]* of May [[1883]]; and it was, with [[Pedir]], the co-head of the *federatie XII* — the *gewichtigste* stretch of the Noordkust, jointly policed from [[Segli]] under the [[General van Teijn|Van Teijn]] closure of [[1890]], and the constitutional linchpin of the entire ring of Noordkust statelets on which the war's outcome turned.
 
-## The Submission and its Failure, [[1876]]
-
-## The Expedition of May [[1878]]
-
-## Account from *De onderwerping van Atjeh* (Van Heutsz, [[1893]])
-
-### One of Pel's five kwala's ([[1875]])
-
-### The [[1875]]–[[1877]] failure to establish posts
-
-The failure to erect posts at Gighen and [[Melaboeh]] *zooals in het plan lag* — as the plan had prescribed — was, in Van Heutsz's diagnosis, the original operational default of the Pel-plan execution. The coastal line of Groot-Atjeh was nominally sealed in February [[1877]], but the Onderhoorigheden-side of the seal — the posts at the five *kwala's* and at Melaboeh — was never established. The result was the [[1876]]–[[1877]] irony of the *civiel bestuur van Oleh-leh* rice-trade through which *de vijand zijne rijstschuren bij ons te Oleh-leh had* — the enemy had his rice-bins at our [[Olehleh]] — even as the surrounding coast was nominally closed.
-
-### Scherer's kruisboot-bangoen method ([[1880]])
-
-### The [[1884]] partial closure and the [[1890]] enforcement
 
 ## Account from *Atjeh in de Tweede Kamer* ([[1897]])
 

@@ -4,7 +4,7 @@ aliases: ["Memorie van Antwoord on the Indies budget for 1898", "Memorie van Ant
 tags: [document, dutch, colonial, parliament, budget, aceh-war, 1897, 1898]
 ---
 
-**The Memorie van Antwoord on the Indies budget for [[1898]]** (*Memorandum of Reply*) was the written answer of the Minister of Colonies [[J. T. Cremer|J. T. Cremer]] to the [[Voorloopig Verslag on the Indies budget for 1898|Voorloopig Verslag]] (Provisional Report) of the [[Tweede Kamer]] on the [[Indische begrooting voor 1898|estimates of Nederlandsch-Indië for 1898]]. Presented in the autumn of [[1897]], it was the government's authoritative statement of policy on the [[Aceh War|Atjeh-oorlog]], and was quoted repeatedly by every speaker in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]\u2013[[17 November]] [[1897]].
+**The Memorie van Antwoord on the Indies budget for [[1898]]** (*Memorandum of Reply*) was the written answer of the Minister of Colonies [[J. T. Cremer|J. T. Cremer]] to the [[Voorloopig Verslag on the Indies budget for 1898|Voorloopig Verslag]] (Provisional Report) of the [[Tweede Kamer]] on the [[Indische begrooting voor 1898|estimates of Nederlandsch-Indië for 1898]]. Presented in the autumn of [[1897]], it was the government's authoritative statement of policy on the [[Aceh War|Atjeh-oorlog]], and was quoted repeatedly by every speaker in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]–[[17 November]] [[1897]].
 
 ## The financial passage
 

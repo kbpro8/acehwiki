@@ -4,7 +4,7 @@ aliases: ["Voorloopig Verslag on the Indies budget for 1898", "Voorloopig Versla
 tags: [document, dutch, colonial, parliament, budget, aceh-war, 1897, 1898]
 ---
 
-**The Voorloopig Verslag on the Indies budget for [[1898]]** (*Provisional Report*) was the committee report of the [[Tweede Kamer]] on the [[Indische begrooting voor 1898|estimates of Nederlandsch-Indië for 1898]], drawn up in the autumn of [[1897]] and answered by the [[Memorie van Antwoord on the Indies budget for 1898|Memorie van Antwoord]] of the Minister of Colonies [[J. T. Cremer|J. T. Cremer]]. It contained the parliamentary question on the [[Aceh War|Atjeh-oorlog]] that framed the whole of the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]\u2013[[17 November]] [[1897]].
+**The Voorloopig Verslag on the Indies budget for [[1898]]** (*Provisional Report*) was the committee report of the [[Tweede Kamer]] on the [[Indische begrooting voor 1898|estimates of Nederlandsch-Indië for 1898]], drawn up in the autumn of [[1897]] and answered by the [[Memorie van Antwoord on the Indies budget for 1898|Memorie van Antwoord]] of the Minister of Colonies [[J. T. Cremer|J. T. Cremer]]. It contained the parliamentary question on the [[Aceh War|Atjeh-oorlog]] that framed the whole of the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]–[[17 November]] [[1897]].
 
 ## The question on Atjeh
 

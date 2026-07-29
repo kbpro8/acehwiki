@@ -17,7 +17,6 @@ Van Aken participated in the [[1913–1914 Administrative Reform Meetings]] at [
 ## Contributions to the Discussions
 
 
-
 ### The Structure of Korintji Administration
 
 Van Aken provided detailed information about the complex administrative organization of [[Korintji]], correcting misunderstandings held by Government Commissioner **S. de Graaf** and others about the region's structure. He explained that:

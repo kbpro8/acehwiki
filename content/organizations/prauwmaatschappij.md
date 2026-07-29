@@ -10,7 +10,7 @@ tags: [organization, shipping, aceh, aceh-war, economics, 1897]
 
 In the passage printed under the heading *De belanghebbenden*, Van Kol listed among those for whom the war "geene windeieren legt" the contractors and *tokohouders* who did good business in Atjeh by the victualling of troops and officials, and "de Prauwmaatschappij en stoomvaartondernemingen door den invoer van weerbare mannen en den uitvoer van zieken, gewonden en geëvacueerden" — the prauw company and the steam-shipping undertakings, through the import of able-bodied men and the export of the sick, the wounded and the evacuated.
 
-He returned to the *prauwenveren* in the same speech with figures: they, together with the [[Koninklijke Paketvaart-Maatschappij|paketvaartmaatschappij]], took a considerable share of the profits; "deze laatsten maakten kolossale winsten door hunne dure vrachten (het vervoer van één soldaat kostte van boord naar den wal f 1.18), en konden jaarlijks 20\u201325 pct. dividend uitkeeren." — these last made colossal profits by their expensive freights (the conveyance of a single soldier from ship to shore cost f 1.18), and could pay out yearly 20 to 25 per cent dividend.
+He returned to the *prauwenveren* in the same speech with figures: they, together with the [[Koninklijke Paketvaart-Maatschappij|paketvaartmaatschappij]], took a considerable share of the profits; "deze laatsten maakten kolossale winsten door hunne dure vrachten (het vervoer van één soldaat kostte van boord naar den wal f 1.18), en konden jaarlijks 20–25 pct. dividend uitkeeren." — these last made colossal profits by their expensive freights (the conveyance of a single soldier from ship to shore cost f 1.18), and could pay out yearly 20 to 25 per cent dividend.
 
 ## Context
 

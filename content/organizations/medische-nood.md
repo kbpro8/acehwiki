@@ -10,7 +10,7 @@ tags: [organization, periodical, dutch, medicine, simavi, 1934]
 
 The passage, attributed to "Dr. J. Tijssen in *Medische Nood* [[1934]] Nr. 1," reads:
 
-"Ik ken de zendingsziekenhuizen. Ik wenschte, dat er in Ned. Indië in plaats van 33 zendingsartsen 330 waren! Zijn er 20 zendingshospitalen, ik wenschte, dat \u201eSimavi\u201d het geld bij elkaar kreeg om het tot 200 te brengen! Maar ook dan zouden er menschen noodig zijn, die naast het mooie werk in de hospitalen het vuile werk in de kampong willen doen."
+"Ik ken de zendingsziekenhuizen. Ik wenschte, dat er in Ned. Indië in plaats van 33 zendingsartsen 330 waren! Zijn er 20 zendingshospitalen, ik wenschte, dat „Simavi” het geld bij elkaar kreeg om het tot 200 te brengen! Maar ook dan zouden er menschen noodig zijn, die naast het mooie werk in de hospitalen het vuile werk in de kampong willen doen."
 
 Rendered: I know the mission hospitals. I could wish that in the Netherlands Indies there were, instead of thirty-three mission physicians, three hundred and thirty! Are there twenty mission hospitals — I could wish that Simavi got the money together to bring it to two hundred! But even then people would be needed who, alongside the fine work in the hospitals, are willing to do the dirty work in the *kampong*.
 

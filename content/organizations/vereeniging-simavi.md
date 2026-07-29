@@ -4,11 +4,11 @@ aliases: ["Vereeniging SIMAVI", "SIMAVI", "Steun In Medische Aangelegenheden Voo
 tags: [organization, dutch, medicine, charity, colonial, 1926, 1934, public-health]
 ---
 
-**The Vereeniging \u201eSIMAVI\u201d** — *Steun In Medische Aangelegenheden Voor Inheemschen* (Support in Medical Matters for Natives) — was a Netherlands charitable association, royally approved on [[28 October]] [[1926]], which published in [[1934]] the pamphlet *[[Een strijd in Atjeh (1934)]]* recording the eye-surgery campaigns of [[J. Tijssen|Dr. J. Tijssen]] in the *[[Kampong|kampongs]]* of [[Acheh|Atjeh]].
+**The Vereeniging „SIMAVI”** — *Steun In Medische Aangelegenheden Voor Inheemschen* (Support in Medical Matters for Natives) — was a Netherlands charitable association, royally approved on [[28 October]] [[1926]], which published in [[1934]] the pamphlet *[[Een strijd in Atjeh (1934)]]* recording the eye-surgery campaigns of [[J. Tijssen|Dr. J. Tijssen]] in the *[[Kampong|kampongs]]* of [[Acheh|Atjeh]].
 
 ## Object
 
-The statement of purpose printed on the second page of the pamphlet reads: "HET DOEL VAN \u201eSIMAVI\u201d is geneeskundige hulpverschaffing aan en geestelijke opheffing van de Inheemsche bevolking in Nederlandsch Oost- en West-Indië, in den zin, waarin deze tot nu toe door de Prot. Medische Zending in practijk zijn gebracht" — the provision of medical help to, and the spiritual elevation of, the indigenous population in the Netherlands East and West Indies, in the sense in which these have hitherto been put into practice by the Protestant Medical Mission.
+The statement of purpose printed on the second page of the pamphlet reads: "HET DOEL VAN „SIMAVI” is geneeskundige hulpverschaffing aan en geestelijke opheffing van de Inheemsche bevolking in Nederlandsch Oost- en West-Indië, in den zin, waarin deze tot nu toe door de Prot. Medische Zending in practijk zijn gebracht" — the provision of medical help to, and the spiritual elevation of, the indigenous population in the Netherlands East and West Indies, in the sense in which these have hitherto been put into practice by the Protestant Medical Mission.
 
 The association proposed to reach this object, among other means, by awakening interest in the care of the sick among students and nurses at the Dutch universities and great hospitals; by mediating in the search for and sending out of physicians and nurses for such work; by giving them help and guidance in their special tropical preparation; and by giving financial help in the running of existing hospitals for the indigenous population and in the founding of new ones.
 
@@ -26,7 +26,7 @@ The pamphlet records that in that year SIMAVI expended f 26,500 on medical assis
 
 [[H. Wanting|Wanting]]'s foreword states expressly that the object of publishing the letters of [[C. Graadt van Roggen]] was not to collect money for Tijssen's work but "door deze mededeelingen van dr. Tijssen de plicht onzer Menschelijkheid naar voren te brengen, tot welks betrachting Simavi roept," — to bring forward, through these communications of Dr. Tijssen, the duty of our Humanity, to the observance of which Simavi calls, and at the same time to fulfil an act of piety towards the young writer who had died.
 
-Tijssen himself was quoted in *[[Medische Nood]]*, [[1934]], no. 1: "Ik ken de zendingsziekenhuizen. Ik wenschte, dat er in Ned. Indië in plaats van 33 zendingsartsen 330 waren! Zijn er 20 zendingshospitalen, ik wenschte, dat \u201eSimavi\u201d het geld bij elkaar kreeg om het tot 200 te brengen! Maar ook dan zouden er menschen noodig zijn, die naast het mooie werk in de hospitalen het vuile werk in de kampong willen doen." — I know the mission hospitals. I could wish that in the Netherlands Indies, instead of 33 mission physicians, there were 330! Are there 20 mission hospitals — I could wish that „Simavi” got the money together to bring it to 200!
+Tijssen himself was quoted in *[[Medische Nood]]*, [[1934]], no. 1: "Ik ken de zendingsziekenhuizen. Ik wenschte, dat er in Ned. Indië in plaats van 33 zendingsartsen 330 waren! Zijn er 20 zendingshospitalen, ik wenschte, dat „Simavi” het geld bij elkaar kreeg om het tot 200 te brengen! Maar ook dan zouden er menschen noodig zijn, die naast het mooie werk in de hospitalen het vuile werk in de kampong willen doen." — I know the mission hospitals. I could wish that in the Netherlands Indies, instead of 33 mission physicians, there were 330! Are there 20 mission hospitals — I could wish that „Simavi” got the money together to bring it to 200!
 
 ## See Also
 

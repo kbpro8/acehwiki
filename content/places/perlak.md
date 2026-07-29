@@ -34,7 +34,7 @@ For the [[Acheh|Atjeh]]-focused reader, Perlak's significance is foundational: t
 
 ## Account from *Atjeh in de Tweede Kamer* ([[1897]])
 
-Perlak occupies a prominent place in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]\u2013[[17 November]] [[1897]] as the district on which Dutch capital had fixed its eye before Dutch authority had been established there.
+Perlak occupies a prominent place in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]–[[17 November]] [[1897]] as the district on which Dutch capital had fixed its eye before Dutch authority had been established there.
 
 ### Troelstra's charge
 
@@ -48,7 +48,7 @@ The Minister of Colonies [[J. T. Cremer|Cremer]] answered directly: asked whethe
 
 ### The prince of Perlak's declaration
 
-On [[17 November]] [[1897]] Cremer returned to the chamber expressly to place on record the [[Verklaringen van de kustvorsten van Atjeh|declarations of the coastal princes]], and named Perlak first among them. Of the sixty-two princes on that coast who had made declarations of subordination to Dutch authority, "Onder hen is ook de vorst van Perlak, wiens Rijk gisteren met name is genoemd. Sinds [[1885]]\u20131886 heeft hij onze souvereiniteit erkend." — Among them is also the prince of Perlak, whose realm was named yesterday. Since 1885-1886 he has recognised our sovereignty.
+On [[17 November]] [[1897]] Cremer returned to the chamber expressly to place on record the [[Verklaringen van de kustvorsten van Atjeh|declarations of the coastal princes]], and named Perlak first among them. Of the sixty-two princes on that coast who had made declarations of subordination to Dutch authority, "Onder hen is ook de vorst van Perlak, wiens Rijk gisteren met name is genoemd. Sinds [[1885]]–1886 heeft hij onze souvereiniteit erkend." — Among them is also the prince of Perlak, whose realm was named yesterday. Since 1885-1886 he has recognised our sovereignty.
 
 The declaration bound the ruler to acknowledge that his *landschap* belonged to the territory of [[Nederlandsch-Indië|Netherlands India]], to recognise the Queen represented by the [[Governor-General of Netherlands India|Governor-General]] as lawful sovereign, and to fly no flag but the Dutch, together with seventeen further articles reserving to the Dutch the decision in almost every branch of administration, including the raising and lowering of taxes, the taking over of import and export duties and of tax farms, and the payment to the government of the share of revenue that by ancient usage had accrued to the former Acehnese sovereigns.
 

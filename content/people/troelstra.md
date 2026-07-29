@@ -32,21 +32,20 @@ Troelstra was a pioneering figure in Dutch socialist politics and one of the few
 
 The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
 
-**Troelstra** — Pieter Jelles Troelstra ([[1860]]-[[1930]]) — was the founder and leader of the Sociaal-Democratische (s.d.) Arbeiderspartij in the [[Netherlands]] and, in the [[W. H. Vermeulen|Vermeulen]]-period colonial debates, the principal socialist voice. His contribution to the Atjeh-era colonial record is the formulation "een stel inbrekers, elkaar niet te hinderen bij hun bezigheden" — a set of burglars, not hindering one another in their pursuits — by which he characterised the Anglo-Dutch arrangement of [[Sumatra-tractaat ([[1871]])|spheres of influence]] of [[1871]].
+**Troelstra** — Pieter Jelles Troelstra ([[1860]]-[[1930]]) — was the founder and leader of the Sociaal-Democratische (s.d.) Arbeiderspartij in the [[Netherlands]] and, in the [[W. H. Vermeulen|Vermeulen]]-period colonial debates, the principal socialist voice. His contribution to the Atjeh-era colonial record is the formulation "een stel inbrekers, elkaar niet te hinderen bij hun bezigheden" — a set of burglars, not hindering one another in their pursuits — by which he characterised the Anglo-Dutch arrangement of [[Sumatra-tractaat (1871)|spheres of influence]] of [[1871]].
 
 ### The "stel inbrekers" judgement
 
-In the [[W. H. Vermeulen|Vermeulen]] retrospective on the official justifications of Dutch authority in the Indies, [[Troelstra|Troelstra]] (s.d.) is cited for the judgement that the expression "afbakening van invloedssferen" — delimitation of spheres of influence — was "veel te opgepoetst voor een afspraak tussen een stel inbrekers, elkaar niet te hinderen bij hun bezigheden" — much too polished for an arrangement between a set of burglars, not hindering one another in their pursuits. The remark is the canonical socialist comment on the [[Sumatra-tractaat ([[1871]])|Sumatra-tractaat]] of [[1871]] that had placed [[Acheh|Atjeh]] in the Dutch sphere.
+In the [[W. H. Vermeulen|Vermeulen]] retrospective on the official justifications of Dutch authority in the Indies, [[Troelstra|Troelstra]] (s.d.) is cited for the judgement that the expression "afbakening van invloedssferen" — delimitation of spheres of influence — was "veel te opgepoetst voor een afspraak tussen een stel inbrekers, elkaar niet te hinderen bij hun bezigheden" — much too polished for an arrangement between a set of burglars, not hindering one another in their pursuits. The remark is the canonical socialist comment on the [[Sumatra-tractaat (1871)|Sumatra-tractaat]] of [[1871]] that had placed [[Acheh|Atjeh]] in the Dutch sphere.
 
 ### The socialist position on Atjeh
 
-The socialist party in the [[Tweede Kamer]] was, in the [[W. H. Vermeulen|Vermeulen]] narrative, the parliamentary formation most consistently opposed to the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]] on anti-imperialist grounds. The [[Troelstra|Troelstra]] judgement on the [[Sumatra-tractaat ([[1871]])|Sumatra-tractaat]] is the type-specimen of the socialist critique of the diplomatic frame within which the Atjehnese war was launched.
+The socialist party in the [[Tweede Kamer]] was, in the [[W. H. Vermeulen|Vermeulen]] narrative, the parliamentary formation most consistently opposed to the [[Atjeh-oorlog (1873-1904)|Atjeh-oorlog]] on anti-imperialist grounds. The [[Troelstra|Troelstra]] judgement on the [[Sumatra-tractaat (1871)|Sumatra-tractaat]] is the type-specimen of the socialist critique of the diplomatic frame within which the Atjehnese war was launched.
 
 ### Significance
 
 [[Troelstra|Troelstra]]'s "stel inbrekers" formulation is the most-quoted socialist comment on the colonial parliamentary record of the [[W. H. Vermeulen|Vermeulen]] period. It supplies the anti-imperialist frame within which the socialist party's subsequent opposition to the [[Pacificatie van Atjeh|pacificatie]] and the [[Ethische Politiek|ethical-policy]] budget was organised.
 
-## Account from *Schets eener parlementaire geschiedenis* ([[1955]])
 
 ## Account from *Atjeh in de Tweede Kamer* ([[1897]])
 

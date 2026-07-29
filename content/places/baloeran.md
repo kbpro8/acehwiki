@@ -4,7 +4,7 @@ aliases: ["Baloeran", "s.s. Baloeran", "the Baloeran"]
 tags: [place, ship, shipping, dutch, indies, 1933]
 ---
 
-**The Baloeran** was the steamer of the [[Rotterdamsche Lloyd]] aboard which, in February [[1933]], on her homeward voyage from the Indies to the Netherlands, the ophthalmologist [[J. Tijssen|Dr. J. Tijssen]] and the journalist [[C. Graadt van Roggen]] met and held the conversations printed as *[[Een strijd in Atjeh (1934)]]*. The three letters are datelined *a/b. \u201eBaloeran\u201d, Februari [[1933]]*.
+**The Baloeran** was the steamer of the [[Rotterdamsche Lloyd]] aboard which, in February [[1933]], on her homeward voyage from the Indies to the Netherlands, the ophthalmologist [[J. Tijssen|Dr. J. Tijssen]] and the journalist [[C. Graadt van Roggen]] met and held the conversations printed as *[[Een strijd in Atjeh (1934)]]*. The three letters are datelined *a/b. „Baloeran”, Februari [[1933]]*.
 
 ## The voyage
 

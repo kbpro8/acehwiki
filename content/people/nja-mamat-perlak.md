@@ -12,7 +12,7 @@ Cremer used the case to show the impossibility of the commission proposed by [[V
 
 ## Name and territory
 
-The name as printed associates him with [[Perlak]], the district on the eastern seaboard of [[Acheh|Atjeh]] whose ruler had recognised Dutch sovereignty since [[1885]]\u2013[[1886]], and which was named in the same debate by [[Pieter Jelles Troelstra|Troelstra]] as the object of Dutch petroleum and tobacco concession applications. The attack he led was at [[Edi]], on the same coast.
+The name as printed associates him with [[Perlak]], the district on the eastern seaboard of [[Acheh|Atjeh]] whose ruler had recognised Dutch sovereignty since [[1885]]–[[1886]], and which was named in the same debate by [[Pieter Jelles Troelstra|Troelstra]] as the object of Dutch petroleum and tobacco concession applications. The attack he led was at [[Edi]], on the same coast.
 
 The source records nothing further of his career, title or fate.
 

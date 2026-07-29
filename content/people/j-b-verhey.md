@@ -18,7 +18,7 @@ Verhey succeeded [[Captain Cramer von Baumgarten]] as commander of the marine co
 
 ## The Sumatra memorandum (1874–1876)
 
-Verhey compiled the memorandum *Rapport van den luitenant der mariniers J. B. Verhey betreffende de verrichtingen der mariniers op Sumatra van Juli 1874 tot Febr. 1876* (Report by the Marine Lieutenant J. B. Verhey concerning the operations of the marines on Sumatra from July 1874 to Feb. 1876). The report enumerates patrols, riverine assaults, and the establishment of coastal outposts, noting that "the mariniers were frequently engaged in skirmishes on the coast of Aceh and were tasked with protecting Dutch trade routes against local resistance." The document, dated [[1874]], is a primary source for scholars studying Dutch marine operations during the later phase of the [[Aceh War]] and the broader strategy of integrating marine forces with the [[Royal Netherlands East Indies Army]].
+Verhey compiled the memorandum *Rapport van den luitenant der mariniers J. B. Verhey betreffende de verrichtingen der mariniers op Sumatra van Juli [[1874]] tot Febr. [[1876]]* (Report by the Marine Lieutenant J. B. Verhey concerning the operations of the marines on Sumatra from July [[1874]] to Feb. [[1876]]). The report enumerates patrols, riverine assaults, and the establishment of coastal outposts, noting that "the mariniers were frequently engaged in skirmishes on the coast of Aceh and were tasked with protecting Dutch trade routes against local resistance." The document, dated [[1874]], is a primary source for scholars studying Dutch marine operations during the later phase of the [[Aceh War]] and the broader strategy of integrating marine forces with the [[Royal Netherlands East Indies Army]].
 
 ## Military advancement and honours
 
@@ -32,11 +32,6 @@ After his military service, Verhey entered politics, securing a seat in the [[Tw
 
 Verhey's career bridges two pivotal aspects of Dutch colonial history: the operational evolution of the marine forces in Sumatra during the 1870s and the high-level command and diplomatic roles of senior officers in the 1890s. His memorandum provides granular insight into on-the-ground tactics, while his later honours and parliamentary service illustrate the pathways through which colonial military expertise influenced Dutch policy in the East Indies. His transition from colonial officer to national politician also illustrates the close ties between the Dutch colonial military elite and metropolitan political institutions.
 
-## Early marine service and the [[1875]]–[[1876]] Aceh campaign
-
-## The Sumatra memorandum ([[1874]]–[[1876]])
-
-Verhey compiled the memorandum *Rapport van den luitenant der mariniers J. B. Verhey betreffende de verrichtingen der mariniers op Sumatra van Juli [[1874]] tot Febr. [[1876]]* (Report by the Marine Lieutenant J. B. Verhey concerning the operations of the marines on Sumatra from July [[1874]] to Feb. [[1876]]). The report enumerates patrols, riverine assaults, and the establishment of coastal outposts, noting that "the mariniers were frequently engaged in skirmishes on the coast of Aceh and were tasked with protecting Dutch trade routes against local resistance." The document, dated [[1874]], is a primary source for scholars studying Dutch marine operations during the later phase of the [[Aceh War]] and the broader strategy of integrating marine forces with the [[Royal Netherlands East Indies Army]].
 
 ## Account from *Atjeh in de Tweede Kamer* ([[1897]])
 

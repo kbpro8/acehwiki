@@ -24,13 +24,6 @@ Nieuwenhuyzen's third appearance is more oblique. In the course of Van der Kemp'
 
 Taken together, the three citations present Nieuwenhuyzen as a distinctive voice in the Dutch colonial literature of the 1890s — a former colonial officer who combined technical familiarity with the geography of the East Indian archipelago (Poeloe Weh, Penang, the [[Philippines|Philippines]]) with a sharp, ironical judgment of the Dutch diplomatic record. His standing as *gep. kolonel* — a retired colonel — lends his writings the additional authority of long colonial service, and Van der Kemp's repeated recourse to them suggests that he regarded Nieuwenhuyzen as an ally in the project of revising the complacent Dutch historiography of the Acheh question.
 
-## *Poeloe Weh* (1898)
-
-## The Warning of American Designs on the Philippines
-
-## The Ironical Citation on "Our Mighty Neighbour"
-
-## Nieuwenhuyzen as Colonial Commentator
 
 ## The dictum
 

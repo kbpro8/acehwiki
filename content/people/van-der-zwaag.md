@@ -22,13 +22,6 @@ Although less prominent than Troelstra or Van Kol in the Aceh War debates, Van d
 
 Van der Zwaag was a dedicated member of the first socialist parliamentary group in the Netherlands. His consistent anti-war and anti-militarist votes helped establish the socialist position on the Aceh War as principled opposition to all military expenditures. His work on the penal system complemented the party's critique of the violence and injustice of the colonial state.
 
-## Anti-war advocacy
-
-## Criticism of the penal system
-
-## Socialist solidarity
-
-## Significance
 
 ## Account from *Atjeh in de Tweede Kamer* ([[1897]])
 

@@ -3,9 +3,6 @@ title: "Bakongan"
 aliases: ["Bakongan", "Bakongan post", "Bakongan (Aceh Westkust)"]
 tags: [place, military-post, aceh, westkust]
 ---
-
-**Bakongan** was a military post of the [[Korps Marechaussee van Atjeh en Onderhorigen]] on the [[Westkust (of Atjeh)|Westkust]] of [[Atjeh|Aceh]] at which the author served in the dertiger jaren alongside the sergeant [[Thijs de Fretes]] and the *Marechaussee 1e klas* [[Tanamal]] of the [[6e Divisie Marechaussee]], and at which he first met [[Dominee Thenu]] on the beach at the end of [[1932]]. It is one of the principal settings of the chapters "Thijs" and "Dominee Thenu" in *[[Oom Ambon van het K.N.I.L.]]*, and the post from which the *colonne* of [[Schmidt]] operated against the *[[Teungkoe Sjech Saman di Tiri|Tiriō Teungkoes]]* in the early 1910s.
-
 **Bakongan** was a military post of the [[Korps Marechaussee van Atjeh en Onderhorigen]] on the [[Westkust (of Atjeh)|Westkust]] of [[Atjeh|Aceh]] at which the author served in the dertiger jaren alongside the sergeant [[Thijs de Fretes]] and the *Marechaussee 1e klas* [[Tanamal]] of the [[6e Divisie Marechaussee]], and at which he first met [[Dominee Thenu]] on the beach at the end of [[1932]]. It is one of the principal settings of the chapters "Thijs" and "Dominee Thenu" in *[[Oom Ambon van het K.N.I.L.]]*, and the post from which the *colonne* of [[Schmidt]] operated against the *[[Teungkoe Sjech Saman di Tiri|Tiriō Teungkoes]]* in the early [[1910s]].
 
 ## The 1932 meeting with Thenu
@@ -32,7 +29,7 @@ Bakongan is significant in *[[Oom Ambon van het K.N.I.L.]]* as one of the princi
 
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
 
-[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* gives the fullest war-era account of Bakongan. The *kerkhof* holds a *dubbele grafzerk, van onder tot boven, en in twee rijen, bedekt met de namen der dooden van de patrouille van luit. Donner in 1905* — the mass grave of two Dutch patrols surprised on the same night in [[August]] [[1905]], one at kampong Rambong and one by Sibade, losing a total of twenty-three men: *EUR. FUS. LENKMAN No 52420, EUR. SERGT. W. SOEST No 47563, EUR. FUS. ADETJER No 54284, INL. KORP. KASMOREDJO No 40090*, and many others, *overvallen en gesneuveld op 12 Augustus 1905 en hier begraven*.
+[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* gives the fullest war-era account of Bakongan. The *kerkhof* holds a *dubbele grafzerk, van onder tot boven, en in twee rijen, bedekt met de namen der dooden van de patrouille van luit. Donner in [[1905]]* — the mass grave of two Dutch patrols surprised on the same night in [[August]] [[1905]], one at kampong Rambong and one by Sibade, losing a total of twenty-three men: *EUR. FUS. LENKMAN No 52420, EUR. SERGT. W. SOEST No 47563, EUR. FUS. ADETJER No 54284, INL. KORP. KASMOREDJO No 40090*, and many others, *overvallen en gesneuveld op 12 Augustus [[1905]] en hier begraven*.
 
 Bakongan belongs to the country of *klewangaanvallen* and the *Paja Tjitcem* moeras — the *Vogelmoor* — through which [[Pang Nanggroë]]'s bende was pursued. In [[July]] [[1926]] kapitein [[Gosenson]] was based at Bakongan, also functioning as *controleur der Zuid-Atjehsche landschappen Kloeët en Troemon*.
 
@@ -49,8 +46,6 @@ In [[May]] [[1927]] [[Tjoet Ali]] attacked the *marschbivak* [[Mengamat attack (
 "Toen in [[1933]] de kolonel op Bakongan was, had de *[[zelfbestuurder van Troemon]]* het over een *solitair*, die gevaarlijk was voor de bevolking en schade aanrichtte." — When in 1933 the colonel was at Bakongan, the self-governing ruler of Troemon spoke of a solitary elephant that was dangerous to the population and did damage. Thijs promised the kolonel the rogue elephant's *tanden* before the beast was shot — and shot it at five metres' distance.
 
 ## Account from *Atjeh* by H.C. Zentgraff ([[1938]])
-
-[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* gives the fullest war-era account of Bakongan. The *kerkhof* holds a *dubbele grafzerk, van onder tot boven, en in twee rijen, bedekt met de namen der dooden van de patrouille van luit. Donner in [[1905]]* — the mass grave of two Dutch patrols surprised on the same night in [[August]] [[1905]], one at kampong Rambong and one by Sibade, losing a total of twenty-three men: *EUR. FUS. LENKMAN No 52420, EUR. SERGT. W. SOEST No 47563, EUR. FUS. ADETJER No 54284, INL. KORP. KASMOREDJO No 40090*, and many others, *overvallen en gesneuveld op 12 Augustus [[1905]] en hier begraven*.
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
 

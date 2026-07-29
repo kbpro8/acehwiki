@@ -4,7 +4,7 @@ aliases: ["Voorzitter der Tweede Kamer", "President of the Tweede Kamer", "de Vo
 tags: [concept, parliament, dutch, institution, 1897]
 ---
 
-**The Voorzitter der Tweede Kamer** — the President of the Second Chamber of the [[Staten-Generaal]] — presided over the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]\u2013[[17 November]] [[1897]] and intervened three times in its course.
+**The Voorzitter der Tweede Kamer** — the President of the Second Chamber of the [[Staten-Generaal]] — presided over the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]–[[17 November]] [[1897]] and intervened three times in its course.
 
 ## Interventions in the debate
 

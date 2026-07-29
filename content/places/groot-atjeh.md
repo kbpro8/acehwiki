@@ -190,7 +190,7 @@ The Minister of Colonies [[J. T. Cremer|Cremer]] reported that the population wa
 
 ## The contrary evidence
 
-[[Pijnacker Hordijk]] read from the report on the principal events in Groot-Atjeh of 11\u201324 September several incidents "die nu juist niet van rust getuigen" — which do not exactly testify to quiet: the incursion of [[Teuku Umar|Toekoe Oemar]] into [[Lamtih]] had at first caused a flight of people from [[Lepong]], partly to the mountains and partly to the [[IV Moekims]]; only after the troops there were reinforced and had occupied points commanding Oemar's position was he obliged to withdraw deeper into the valley and the people returned; and although the firing on the bivouac was ended by those measures and by the setting of ambushes, it could not be prevented that some small bands continued to move about.
+[[Pijnacker Hordijk]] read from the report on the principal events in Groot-Atjeh of 11–24 September several incidents "die nu juist niet van rust getuigen" — which do not exactly testify to quiet: the incursion of [[Teuku Umar|Toekoe Oemar]] into [[Lamtih]] had at first caused a flight of people from [[Lepong]], partly to the mountains and partly to the [[IV Moekims]]; only after the troops there were reinforced and had occupied points commanding Oemar's position was he obliged to withdraw deeper into the valley and the people returned; and although the firing on the bivouac was ended by those measures and by the setting of ambushes, it could not be prevented that some small bands continued to move about.
 
 ## See Also
 

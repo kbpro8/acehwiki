@@ -77,27 +77,9 @@ The Kon. Paketvaart maintained the service between [[Penang|Penang]] and North-S
 
 The Kon. Paketvaart is the principal coastal shipping-line of the Netherlands-Indies and the principal means of transport between the *Gouvernement Atjeh en Onderhoorigheden* and the rest of the archipelago. Its calls at the principal harbours of the gewest are the index of the trade of those harbours, and its relative frequency (eight ships monthly at Sigli, fifteen at Oelèë Lheue, thirty-six at Langsa) is a measure of the relative importance of the harbours of the gewest.
 
-## Account from *De Buitenbezittingen* ([[1904]]) — KPM Growth and Pioneer Services
-
-### Fleet Growth ([[1891]]–[[1913]])
-
-The KPM started operations in [[1891]] with 26 ships and grew to 84 ships by [[1913]], with combined gross tonnage of over 137,000 tonnes:
-
-*(Source: Mededeelingen Encyclopaedisch Bureau, p. 311)*
-
-By [[1913]], cargo capacity had more than quintupled and passenger numbers more than tripled since [[1891]].
-
-## Wartime transport role in the spring of [[1896]] (ATJEH '96 account)
-
-The KPM steamers and parallel gouvernementstoomers carried, in the spring of [[1896]]:
-
-## Composition and strength in the [[1896]] Atjeh transport role
-
-## Significance in the spring [[1896]] campaign
-
 ## Account from *Atjeh in de Tweede Kamer* ([[1897]])
 
-The Koninklijke Paketvaart-Maatschappij — "de Koninklijke" — was the principal object of the socialist charge in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]\u2013[[17 November]] [[1897]] that private shipping interests profited by the prolongation of the [[Aceh War|Atjeh-oorlog]].
+The Koninklijke Paketvaart-Maatschappij — "de Koninklijke" — was the principal object of the socialist charge in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]–[[17 November]] [[1897]] that private shipping interests profited by the prolongation of the [[Aceh War|Atjeh-oorlog]].
 
 ### The charge
 

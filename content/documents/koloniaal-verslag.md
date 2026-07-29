@@ -4,7 +4,7 @@ aliases: ["Koloniaal Verslag", "Koloniale Verslagen", "Colonial Report", "Koloni
 tags: [document, dutch, colonial, report, parliament, statistics, aceh-war]
 ---
 
-**The Koloniaal Verslag** (*Colonial Report*) was the annual report on the state of the Netherlands colonies laid before the [[Staten-Generaal]], and the principal statistical and narrative source used by all sides in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]\u2013[[17 November]] [[1897]].
+**The Koloniaal Verslag** (*Colonial Report*) was the annual report on the state of the Netherlands colonies laid before the [[Staten-Generaal]], and the principal statistical and narrative source used by all sides in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]–[[17 November]] [[1897]].
 
 ## Use in the debate of [[1897]]
 

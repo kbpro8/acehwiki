@@ -8,7 +8,7 @@ tags: [person, politician, colonial, dutch, acheh, liberal]
 
 ## The 1896 call for drastic action
 
-In the [[1896]] [[Tweede Kamer]] debate following [[Toekoe Oemar's defection ([[1896]])|the defection of Toekoe Oemar]], [[Rutgers van Rozenburg|Rutgers van Rozenburg]] (lib.) joined [[J. T. Cremer|Cremer]] (lib.) in calling for drastic action in Atjeh, "ook in het belang van onze financiën" — also in the interest of our finances. They asked the minister of Colonies not to "corresponderen over 'het bestendigen der bestendiging'" — to correspond about "the perpetuation of the perpetuation" — and not to come with a request of ƒ 300,000 when perhaps ƒ 3,000,000 was needed. They would rather see the construction of railways and irrigation works on Java interrupted for a time than the colonial existence in Atjeh — and subsequently in the whole archipelago — put at risk.
+In the [[1896]] [[Tweede Kamer]] debate following [[Toekoe Oemar's defection (1896)|the defection of Toekoe Oemar]], [[Rutgers van Rozenburg|Rutgers van Rozenburg]] (lib.) joined [[J. T. Cremer|Cremer]] (lib.) in calling for drastic action in Atjeh, "ook in het belang van onze financiën" — also in the interest of our finances. They asked the minister of Colonies not to "corresponderen over 'het bestendigen der bestendiging'" — to correspond about "the perpetuation of the perpetuation" — and not to come with a request of ƒ 300,000 when perhaps ƒ 3,000,000 was needed. They would rather see the construction of railways and irrigation works on Java interrupted for a time than the colonial existence in Atjeh — and subsequently in the whole archipelago — put at risk.
 
 ## The 1904 defence of Van Daalen
 
@@ -26,11 +26,8 @@ There were, [[W. H. Vermeulen|Vermeulen]] drily notes, "weinig kamerleden die [[
 
 ## On the borrowing question
 
-In the [[1905]]-period debate on whether extraordinary expenditure — railways, irrigation works, school-building, the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]] — should be financed by borrowing, [[Rutgers van Rozenburg|Rutgers van Rozenburg]] (lib.) held the inverse of his party-colleague Bool: if the Indies were to finance public works and wars with borrowed money, future generations might end up paying too dearly for the works made for them. He was thinking, in particular, of irrigation works that had turned out badly.
+In the [[1905]]-period debate on whether extraordinary expenditure — railways, irrigation works, school-building, the [[Atjeh-oorlog (1873-1904)|Atjeh-oorlog]] — should be financed by borrowing, [[Rutgers van Rozenburg|Rutgers van Rozenburg]] (lib.) held the inverse of his party-colleague Bool: if the Indies were to finance public works and wars with borrowed money, future generations might end up paying too dearly for the works made for them. He was thinking, in particular, of irrigation works that had turned out badly.
 
-## The [[1896]] call for drastic action
-
-## The [[1904]] defence of Van Daalen
 
 ## Account from *Atjeh in de Tweede Kamer* ([[1897]])
 

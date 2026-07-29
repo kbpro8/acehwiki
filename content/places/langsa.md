@@ -55,7 +55,7 @@ The decision to leave Langsa's fate to the Gouverneur's judgment reflected a pra
 
 Langsa's proposed transfer was closely linked to the parallel proposal regarding [[Tamiang]], as both were communities in the eastern Atjeh border region whose economic connections pointed toward the east coast. The two areas were often discussed together—as in Van der Plas's reference to "Atjeh areas including Langsa and Tamiang"—reflecting their shared position as border territories whose administrative reassignment was under consideration. However, the explicit exclusion of Tamiang from the combined "Noord- en Oostkust van Atjeh" *afdeeling*—memorialized in the very name of the new administrative unit—suggested that Tamiang's transfer had been more firmly decided than Langsa's, which remained subject to the Gouverneur's determination. The different treatment of the two areas may have reflected differences in their degree of economic integration with the east coast, the strength of their connections to the Acehnese highlands, or simply the practical considerations of administrative geography that made Tamiang's transfer more straightforward than Langsa's.
 
-## Account from *Verkenningen in Atjeh* (1923)
+## Account from *Verkenningen in Atjeh* (1923) — Koeala Langsa
 
 **Koeala Langsa** — modern *Kuala Langsa* — is the harbour-place (*havenplaatsje*) of [[Langsa|Langsa]], situated at the *zeegat* (sea-mouth) into which the Langsa river flows, nine kilometres from the chief place by a side-line of the [[Atjeh-tram|Atjeh-tram]]. The side-line runs through the *bahoe-bahoe* — a whole region of rank vegetation in swamp, which the seawater maintains.
 
@@ -67,7 +67,7 @@ At Koeala Langsa a long, roomy pier has been built, to be extended at pleasure i
 
 Koeala Langsa is the natural outlet of the Langsa *onderafdeeling*, and its depth of water is such that Langsa-baai was once thought likely to rival the [[Aroe-baai|Aroe-baai]] in importance. The realisation of that hope was prevented by the depression of the early 1920s and by the closing of the Factorij, the Deli-Atjeh-Mij. and the firm Kehding in Langsa itself.
 
-## Account from *Verkenningen in Atjeh* (1923)
+## Account from *Verkenningen in Atjeh* (1923) — Langsa town
 
 **Langsa** is the chief place (*hoofdplaats*) of the *onderafdeeling* Langsa in the *afdeeling* [[Oostkust van Atjeh|Oostkust van Atjeh]], situated on the great road and on the [[Atjeh-tram|Atjeh-tram]] line that runs along the eastern coast. From [[Koeala Simpang|Koeala Simpang]] to Langsa by tram takes about an hour and a half; by fast train, five quarters of an hour. The place is built on a block-system, like [[Kota Radja|Kota Radja]], with the future growth kept in view by the original planners.
 
@@ -99,9 +99,6 @@ The oldest estate in Langsa is the *gouvernements rubberonderneming* — the gov
 
 Langsa is the type-figure of the planned colonial *hoofdplaats* of the eastern coast — roomy, regular, and quiet, with a deep harbour, an artesian-water problem, a government rubber-estate on peat, and a trade that has been diminished by the depression of the early 1920s. It is also the centre of the patchouli-oil industry of the eastern coast: one of the four patchouli-distilleries of Atjeh in [[1931]] stood near Langsa.
 
-## Account from *De Buitenbezittingen* ([[1917]]) — Langsa and the Tramway
-
-## Account from the *Notulen der bestuursvergaderingen* ([[1914]]) — Langsa
 
 ## Account from *Een strijd in Atjeh* ([[1934]])
 

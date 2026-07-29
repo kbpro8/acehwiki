@@ -35,19 +35,10 @@ Beyond its opposition to the Aceh War, the SDAP advocated for:
 
 The SDAP was the first political party in the Netherlands to systematically challenge colonial warfare and expose its economic underpinnings. Its parliamentary group, though small, served as a persistent voice for anti-militarism and anti-colonialism in a parliament dominated by conservative and liberal parties. Its analysis of the Aceh War as a product of capitalist greed and colonial exploitation prefigured later critiques of imperialism and provided the basis for anti-colonial sentiment in the Dutch labour movement. The party's failure to halt the war, despite its advocacy, underscored the strength of colonial interests in Dutch politics.
 
-## Parliamentary representation
-
-## Anti-war position
-
-## The class struggle principle
-
-## Policy positions
-
-## Significance
 
 ## Account from *Atjeh in de Tweede Kamer* ([[1897]])
 
-The pamphlet *[[Atjeh in de Tweede Kamer (1897)]]*, published at [[Amsterdam]] by [[J. A. Fortuijn]] in [[1897]] under the party's imprint — *Sociaaldemokr. Arbeiderspartij in Nederland* — is the party's principal document on the [[Aceh War|Atjeh-oorlog]]. It reprints the verbatim record of the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]\u2013[[17 November]] [[1897]] and was sold at ten cents.
+The pamphlet *[[Atjeh in de Tweede Kamer (1897)]]*, published at [[Amsterdam]] by [[J. A. Fortuijn]] in [[1897]] under the party's imprint — *Sociaaldemokr. Arbeiderspartij in Nederland* — is the party's principal document on the [[Aceh War|Atjeh-oorlog]]. It reprints the verbatim record of the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]–[[17 November]] [[1897]] and was sold at ten cents.
 
 ### The three deputies
 

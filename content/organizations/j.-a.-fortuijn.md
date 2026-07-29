@@ -8,7 +8,7 @@ tags: [organization, publisher, dutch, socialist, amsterdam, 1897]
 
 ## The Atjeh pamphlet
 
-The title-page of the pamphlet bears the imprint "J. A. Fortuijn, Amsterdam. [[1897]]," with the printing attributed to Masereeuw of [[Rotterdam]] and the price fixed at ten cents. The work reprints the verbatim record of the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]\u2013[[17 November]] [[1897]], including the full text of [[Van Kol's motion of 16 November 1897|Van Kol's motion]] and the division list of seventy-two against three.
+The title-page of the pamphlet bears the imprint "J. A. Fortuijn, Amsterdam. [[1897]]," with the printing attributed to Masereeuw of [[Rotterdam]] and the price fixed at ten cents. The work reprints the verbatim record of the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]–[[17 November]] [[1897]], including the full text of [[Van Kol's motion of 16 November 1897|Van Kol's motion]] and the division list of seventy-two against three.
 
 ## Other publications
 

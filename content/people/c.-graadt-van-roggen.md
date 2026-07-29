@@ -14,7 +14,7 @@ Half a year after the shipboard meeting the mourners stood at Westerveld about h
 
 ## The letters
 
-The three letters were datelined *a/b. \u201eBaloeran\u201d, Februari [[1933]]*. The doctor had come aboard at [[Belawan]], had played bridge with the English planter's wife from [[Malacca|Malakka]], and had spent his mornings in the writing saloon filling great sheets. One afternoon his glass stood beside the journalist's, and the conversation began.
+The three letters were datelined *a/b. „Baloeran”, Februari [[1933]]*. The doctor had come aboard at [[Belawan]], had played bridge with the English planter's wife from [[Malacca|Malakka]], and had spent his mornings in the writing saloon filling great sheets. One afternoon his glass stood beside the journalist's, and the conversation began.
 
 Wanting characterised the resulting text as showing first the journalist and second the man: the conscientious journalist never for a moment forgets that it is not he who is speaking, and renders what is told as objectively as possible, yet the artistic writer cannot so far deny himself but that he gives the story relief and life by small telling particulars that lend it "een ongewone frissche charme."
 

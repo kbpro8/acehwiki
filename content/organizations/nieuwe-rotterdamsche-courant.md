@@ -14,7 +14,7 @@ On [[17 November]] Troelstra returned to the paper in another connection, observ
 
 ## The Graadt van Roggen letters of [[1933]]
 
-The pamphlet *[[Een strijd in Atjeh (1934)]]* reprints three letters written for the *Nieuwe Rotterdamsche Courant* by [[C. Graadt van Roggen]], who after a short period of journalism in the Indies was returning to his former function, "een redacteurschap bij de Nieuwe Rotterdamsche Courant." The foreword to the pamphlet was written by [[H. Wanting]], described on the title-page as "Redacteur \u201eNieuwe Rotterdamsche Courant\u201d." The letters record the conversations aboard the *[[Baloeran]]* with [[J. Tijssen|Dr. J. Tijssen]] on his eye-surgery campaigns in the *[[Kampong|kampongs]]* of Atjeh.
+The pamphlet *[[Een strijd in Atjeh (1934)]]* reprints three letters written for the *Nieuwe Rotterdamsche Courant* by [[C. Graadt van Roggen]], who after a short period of journalism in the Indies was returning to his former function, "een redacteurschap bij de Nieuwe Rotterdamsche Courant." The foreword to the pamphlet was written by [[H. Wanting]], described on the title-page as "Redacteur „Nieuwe Rotterdamsche Courant”." The letters record the conversations aboard the *[[Baloeran]]* with [[J. Tijssen|Dr. J. Tijssen]] on his eye-surgery campaigns in the *[[Kampong|kampongs]]* of Atjeh.
 
 ## See Also
 

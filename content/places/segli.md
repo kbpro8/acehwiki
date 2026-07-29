@@ -34,7 +34,7 @@ The institutional form by which Segli was administered was the *postcommandant t
 
 ### The 1890–1891 enforcement: Pedir-Gighen under the postcommandant
 
-The high-water mark of Dutch closure-policy on the Pedir-Gighen stretch was reached in the beginning of [[1890]], when Van Teijn's progressive closure of the *Noord- en Westkust* — begun in January [[1888]] and extended in stages — was *in 't begin van 1890 eindelijk was uitgestrekt over de geheele Noord- en Westkust* (in the beginning of 1890 finally extended over the entire Noord- en Westkust). The closure was enforced, on the Pedir-Gighen stretch of the coast, by the *postcommandant te Segli*. Van Heutsz records the institutional arrangement as the empirical proof of the closure's coercive capacity: by the beginning of [[1891]] *die zoo krachtig en stelselmatig toegepaste sluiting reeds in ruim één jaar tijd begin 1891 een effect had teweeggebracht, dat zelfs de verwachting van Generaal van Teijn overtrof* (that closure, so forcefully and systematically applied, had within little more than a year by the beginning of 1891 produced an effect that exceeded even General van Teijn's own expectations). The closure reduced Pedir to starvation: by [[1891]] *de rijke passar te Pedir door de sluiting geheel verarmd en zoo goed als verloopen was* — the rich market of Pedir had been impoverished by the closure and was as good as ruined — and the crushed *Tengkoe Pakeh Pedir* submitted verbally: *Mijnheer, repliceerde Tengkoe Pakeh, Uwe hand drukt zwaar, maar ik onderwerp mij aan Uwen wil* (Sir, replied Tengkoe Pakeh, your hand presses heavily, but I submit to your will).
+The high-water mark of Dutch closure-policy on the Pedir-Gighen stretch was reached in the beginning of [[1890]], when Van Teijn's progressive closure of the *Noord- en Westkust* — begun in January [[1888]] and extended in stages — was *in 't begin van [[1890]] eindelijk was uitgestrekt over de geheele Noord- en Westkust* (in the beginning of [[1890]] finally extended over the entire Noord- en Westkust). The closure was enforced, on the Pedir-Gighen stretch of the coast, by the *postcommandant te Segli*. Van Heutsz records the institutional arrangement as the empirical proof of the closure's coercive capacity: by the beginning of [[1891]] *die zoo krachtig en stelselmatig toegepaste sluiting reeds in ruim één jaar tijd begin [[1891]] een effect had teweeggebracht, dat zelfs de verwachting van Generaal van Teijn overtrof* (that closure, so forcefully and systematically applied, had within little more than a year by the beginning of [[1891]] produced an effect that exceeded even General van Teijn's own expectations). The closure reduced Pedir to starvation: by [[1891]] *de rijke passar te Pedir door de sluiting geheel verarmd en zoo goed als verloopen was* — the rich market of Pedir had been impoverished by the closure and was as good as ruined — and the crushed *Tengkoe Pakeh Pedir* submitted verbally: *Mijnheer, repliceerde Tengkoe Pakeh, Uwe hand drukt zwaar, maar ik onderwerp mij aan Uwen wil* (Sir, replied Tengkoe Pakeh, your hand presses heavily, but I submit to your will).
 
 ### The Chineesche toko at Segli: a fiscal proof-of-concept
 
@@ -48,25 +48,10 @@ The *Gouverneur Pompe* autorisatie — the authorisation of the eleventh Governo
 
 In Van Heutsz's own [[1893]] prescription, Segli was retained as one of the open ports of the *scheepvaartregeling*. Scherer's [[20 January]] [[1891]] *lezing* (lecture) before the *Indisch Genootschap* had named Segli as one of four Noordkust ports — *Op de Noordkust: 1 Edi. 2 Telok Semawé 3 Samalanga 4 Segli* (On the Noordkust: 1. Edi, 2. Telok Semawé, 3. Samalanga, 4. Segli) — and Van Teijn had endorsed the reduced list of three: *De Generaal van Teijn achtte op de Oost- en Noordkust: Edi, Telok Semawé en Segli, althans vooreerst, voldoende* (General van Teijn considered Edi, Telok Semawé and Segli sufficient, at least for the present, on the East- and North Coast). Van Heutsz concurred, and the prescription that closed the [[1893]] tract retained Segli as one of the open call-ports of the *scheepvaartregeling* Van Heutsz would himself implement as Governor of Atjeh from [[1898]] onward.
 
-## The Move from Pedir, February [[1877]]
-
-## The Attack of May [[1878]]
-
-## The Administrative Reorganisation, March [[1881]]
-
-## Account from *De onderwerping van Atjeh* (Van Heutsz, [[1893]])
-
-### The [[1884]] partial closure: one of three open call-ports
-
-### The [[1890]]–[[1891]] enforcement: Pedir-Gighen under the postcommandant
-
-The high-water mark of Dutch closure-policy on the Pedir-Gighen stretch was reached in the beginning of [[1890]], when Van Teijn's progressive closure of the *Noord- en Westkust* — begun in January [[1888]] and extended in stages — was *in 't begin van [[1890]] eindelijk was uitgestrekt over de geheele Noord- en Westkust* (in the beginning of [[1890]] finally extended over the entire Noord- en Westkust). The closure was enforced, on the Pedir-Gighen stretch of the coast, by the *postcommandant te Segli*. Van Heutsz records the institutional arrangement as the empirical proof of the closure's coercive capacity: by the beginning of [[1891]] *die zoo krachtig en stelselmatig toegepaste sluiting reeds in ruim één jaar tijd begin [[1891]] een effect had teweeggebracht, dat zelfs de verwachting van Generaal van Teijn overtrof* (that closure, so forcefully and systematically applied, had within little more than a year by the beginning of [[1891]] produced an effect that exceeded even General van Teijn's own expectations). The closure reduced Pedir to starvation: by [[1891]] *de rijke passar te Pedir door de sluiting geheel verarmd en zoo goed als verloopen was* — the rich market of Pedir had been impoverished by the closure and was as good as ruined — and the crushed *Tengkoe Pakeh Pedir* submitted verbally: *Mijnheer, repliceerde Tengkoe Pakeh, Uwe hand drukt zwaar, maar ik onderwerp mij aan Uwen wil* (Sir, replied Tengkoe Pakeh, your hand presses heavily, but I submit to your will).
-
-### The [[1893]] prescription: Segli as one of four Noordkust ports
 
 ## Account from *Atjeh in de Tweede Kamer* ([[1897]])
 
-Segli was repeatedly invoked in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]\u2013[[17 November]] [[1897]] as the test case of the [[Post-1896 system in Atjeh|new Dutch system]] in [[Acheh|Atjeh]].
+Segli was repeatedly invoked in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]–[[17 November]] [[1897]] as the test case of the [[Post-1896 system in Atjeh|new Dutch system]] in [[Acheh|Atjeh]].
 
 ### Van Vlijmen's approval
 

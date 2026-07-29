@@ -14,7 +14,7 @@ But to an appeal to right and equity, Van Kol said, the Dutch government remaine
 
 ## Aftermath
 
-In [[1848]] the Acehnese attempted to retake Singkel from the Dutch but were not strong enough for it. Fighting occurred in [[1848]]\u2013[[1849]] and again in [[1851]], and a treaty was concluded with [[Troemon]] in order to make it independent of Atjeh — that is, in Van Kol's characterisation, to raise it in revolt against its liege lord. A further expedition was sent to Singkel in [[1865]].
+In [[1848]] the Acehnese attempted to retake Singkel from the Dutch but were not strong enough for it. Fighting occurred in [[1848]]–[[1849]] and again in [[1851]], and a treaty was concluded with [[Troemon]] in order to make it independent of Atjeh — that is, in Van Kol's characterisation, to raise it in revolt against its liege lord. A further expedition was sent to Singkel in [[1865]].
 
 ## Significance
 
