@@ -1,7 +1,22 @@
 ---
 title: Missigit Longbatta
-aliases: [Longbatta-Missigit, Missigit Longbattah, Longbatta Mesigit, Mesigit Longbatta]
-tags: [place, mosque, fortification, acehnese, aceh-war, dutch]
+aliases:
+- Longbatta-Missigit
+- Missigit Longbattah
+- Longbatta Mesigit
+- Mesigit Longbatta
+- Longbatta-Mesigit
+- Long Batta Mesigit
+- Mesigit of Longbatta
+tags:
+- place
+- mosque
+- fortification
+- acehnese
+- aceh-war
+- dutch
+- fortified
+- stelling
 ---
 
 **The Missigit Longbatta** (also written Longbatta-Missigit, Longbatta-Mesigit) was the mosque (*missigit*, from Arabic *masjid*) of the kampong [[Longbatta|Longbatta]] to the south-east of [[Koeta Radja|Kota Radja]], which was captured by Dutch troops on [[31 December]] [[31 December]] [[1874]] and was thereafter fortified and held by the Dutch as a redoubt enclosing the mosque. The conversion of the Missigit into a fortified [[benting|benting]] — see [[Missigit Longbatta operation (31 December 1874 – 13 January 1875)|Missigit Longbatta operation]] — was the work of [[Cornelis Jacobus Snijders|Tweede-Luitenant C. J. Snijders]] of the [[Bataillon Mineurs en Sappeurs|Compagnie Mineurs en Sappeurs]] in the first two weeks of [[January 1875|January]] [[1875]]. The continued resistance of the [[Achehnese|Atjehers]] to its loss — "wilden niet lijdelijk in het verlies van hun heiligdom berusten" — gave the work its peculiar character: a fortified sanctuary in daily combat with its former proprietors.
@@ -17,6 +32,10 @@ The fortified redoubt constructed by [[Cornelis Jacobus Snijders|Snijders]] betw
 ## Significance
 
 The Missigit Longbatta is one of the best-documented instances of the Dutch conversion of an Atjehese mosque into a fortified post during the [[Aceh War|Atjeh-oorlog]]. The conversion of a *missigit* into a redoubt enclosing it — preserving the building as officers' quarters while throwing up breastworks around it — illustrates the practical accommodation of Dutch engineer practice to the religious-cum-military character of Atjehese resistance. The continued Atjehese counter-attacks on the work, including the night assault of [[10 January|10]]/[[11 January]] [[11 January]] [[1875]] that pressed to within 50 metres of the parapet, illustrate the symbolic as well as strategic importance of the site.
+
+
+## Sources
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 95, 131, 137, 144, 200, 226–238, 248, 263, 269, 322–323.
 
 ## See Also
 
@@ -38,6 +57,15 @@ The Missigit Longbatta is one of the best-documented instances of the Dutch conv
 - [[Koeta Radja]]
 - [[1874]]
 - [[1875]]
+- [[Stelling-Pel]]
+- [[Lamara Olejlo]]
+- [[Setee]]
+- [[Lemboe]]
+- [[Klewang]]
+- [[Night attack on Longbatta-Mesigit (22 November 1875)]]
+- [[Battle of Longbatta (31 December 1874)]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Generaal Pel]]
 
 ## Source
 

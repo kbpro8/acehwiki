@@ -1,7 +1,51 @@
 ---
 title: Takengeun
-aliases: [Takengeun, Takengon, Takeungan, Takingeun, Takingeum, Takingoun, Takingeuu]
-tags: [place, town, aceh, gajolanden, onderafdeeling, gayo, colonial, 20th-century, zelfbestuur]
+aliases:
+- Takengon
+- Takeungan
+- Takingeun
+- Takingeum
+- Takingoun
+- Takingeuu
+- Takengën
+- Takengipn
+- Takéngón
+- Takéngen
+- Takëngon
+- the Gajo-landen terminus at Takengon
+- Takenggan
+- Takengon on the Laoet Tawar
+- Tankengon
+- Takengon hoofdplaats
+- Gajo-land capital
+tags:
+- place
+- town
+- aceh
+- gajolanden
+- onderafdeeling
+- gayo
+- colonial
+- 20th-century
+- zelfbestuur
+- highland
+- military
+- dutch
+- buitenbezittingen
+- wegennet
+- city
+- gayoland
+- aceh-war
+- capital
+- achehnese
+- gajo-land
+- binnenbezittingen
+- laot-tawar
+- lokop
+- bivouak
+- herstellingsoord
+- sub-division
+- meergebied
 ---
 
 **Takengeun** — also Takengon (modern Indonesian), Takingeun in the spelling of the *[[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]* — is a town in the [[Gajolanden|Gayo Lands]] of [[Atjeh|Aceh]], on Laut Tawar (the lake of Takengeun), at the southern terminus of the [[Gajoweg]] — 103 km south of [[Bireuën]]. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Takengeun is the destination of the lieutenant's journey through Aceh: the beautiful lake in the Gajolanden at the end of the Gajoweg. The town is also the place where the old hunter [[Datoek]] settled permanently in [[1917]] — "Previously I had often made journeys to Takengeun." In the [[1930]] compilation of *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Takingeun appears as an *onderafdeeling* of the afdeeling [[Gayo- en Alaslanden|Gajo- en Alaslanden]] in the interior highlands of [[Atjeh|Atjeh en Onderhoorigheden]], seat of the *zelfbesturende landschappen* whose *oeleebalang* collectively issued the *alang-alang en dennenbosschen-verordening* of [[20 May]] [[1924]] (Reg. No. 22) — the only regulation in the 1930 compilation dealing with pine-forest (*dennenbosschen*) protection — and the *uitvoeringszelfbestuursbesluit* of [[1 October]] [[1926]] for the *Pantjang Alas* in Takingeun (Reg. No. 4c), the most-detailed operational supplement in the *Pantjang Alas* regime.
@@ -64,9 +108,63 @@ Takingeun's significance in the 1930 compilation rests on its being the originat
 - [[1925]]
 - [[1926]]
 - [[1930]]
+- [[Gajoland]]
+- [[Gajo Loeës]]
+- [[Laut Tawar|Laoet Tawar]]
+- [[Gajo-weg]]
+- [[Kr. Peusangan]]
+- [[Redjë Tjèq]]
+- [[Redjë Boekét]]
+- [[Sjah Oetama]]
+- [[Redjë Linggo]]
+- [[Kédjoerön Bédén]]
+- [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)]]
+- [[1904]]
+- [[Gajó Loeós]]
+- [[Blang Kédjérèn]]
+- [[Alasvalley]]
+- [[G. F. V. Gosenson|Colonel Gosenson]]
+- [[Major-General Overakker]]
+- [[1942]]
+- [[27 March]] [[1942]]
+- [[1931]]
+- [[1936]]
+- [[1941]]
+- [[1943]]
+- [[1905]]
+- [[1908]]
+- [[1922]]
+- [[1e Divisie Marechaussee uit Blang Kedjeren]]
+- [[Blang Kedjeren]]
+- [[Blang Kolaq]]
+- [[Böbasan]]
+- [[Gajo- en Alaslanden]]
+- [[Gajo-land]]
+- [[Gajoeland]]
+- [[Kebajakan]]
+- [[Klewang]]
+- [[Korps Marechaussee van Atjeh en Onderhorigen]]
+- [[Kota Tjane]]
+- [[Laoet Tawar]]
+- [[Lökop]]
+- [[Pegaseén-vallei]]
+- [[Sarel]]
+- [[Schmidt]]
+- [[Tangsi]]
+- [[Verkenningen in Atjeh (1923)]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Sources
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn*.
 
 *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesten van het Departement van Binnenlandsch Bestuur*, Weltevreden: Landsdrukkerij, 1930, esp. Regs. 4c, 6, and 22 (pp. 27, 33, and 118). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 4–6, 9, 93–94, 129.
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 4, Chapter II, Chapter IV, Chapter V § 3.
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 53–56 (section "De aanleg van wegen op de Buitenbezittingen").
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters XI–XII, *'De Gajo-weg en zijn landschap'* and *'In het hart van Gajo-land'*, pp. 77–87.
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XII, XV.

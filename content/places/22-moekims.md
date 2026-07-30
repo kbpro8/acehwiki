@@ -1,7 +1,41 @@
 ---
-title: "22 Moekims"
-aliases: ["22 Moekim", "Twenty-two Moekims", "XXII Moekims", "22 Mukim", "Sagi of the 22 Moekims", "XXII Mukims", "Sagi XXII", "de Sagi's XXII"]
-tags: [place, aceh, administrative-division, inland-sagi, aceh-war, 19th-century, groot-atjeh, van-der-heijden, sagi, mukim, moekim, administration]
+title: 22 Moekims
+aliases:
+- 22 Moekim
+- Twenty-two Moekims
+- XXII Moekims
+- 22 Mukim
+- Sagi of the 22 Moekims
+- XXII Mukims
+- Sagi XXII
+- de Sagi's XXII
+- XXII Mukims (22 Mukims)
+- 22 Mukims
+- 22 Sagi
+- Dua Puluh Dua Mukim
+- Sagi der XXII Moekims
+- mountains of the XXII Mukims
+- Twenty-two Mukims
+- Sagi of XXII Mukims
+tags:
+- place
+- aceh
+- administrative-division
+- inland-sagi
+- aceh-war
+- 19th-century
+- groot-atjeh
+- van-der-heijden
+- sagi
+- mukim
+- moekim
+- administration
+- achehnese
+- district
+- military
+- precolonial
+- region
+- sultanate
 ---
 
 **The 22 Moekims** — *Twenty-two Moekims*, written in Dutch *22 Moekims*, in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s spelling also *XXII Moekims* or *Sagi XXII* — was the inland *Sagi* (third administrative division) of [[Groot-Atjeh|Groot-Atjeh]], one of the three *Sagi's* of the sultanate together with the [[25 Moekims|25]] and [[26 Moekims|26 Moekims]] and the [[Sultan's gebied|Sultan's own territory]]. The [[Conquest of the 22 Moekims (March-June 1879)|Dutch conquest of the 22 Moekims]] under [[General van der Heijden|Van der Heijden]] from [[March 1879|March]] to half [[June 1879|June]] [[1879]] was the principal military success of Van der Heijden's governorship and brought the entire valley of Groot-Atjeh under Dutch control for the first and only time before the final pacification under [[Joannes Benedictus van Heutsz|Van Heutsz]] after [[1898]]. In Van Heutsz's [[1893]] tract *De onderwerping van Atjeh*, the XXII Moekims is the opening chapter of the Van der Heijden conquest — the Sagi of twenty-two mukims whose *panglima sagi* was [[Panglima Polim]] and within which the *machtige hoofd* [[Tekoe Moeda Baid]] held the [[VII Moekims]] sub-federation.
@@ -52,6 +86,12 @@ The XXII Moekims's significance in Van Heutsz's [[1893]] tract rests on its bein
 
 It was in this *sagi* that van Heutsz attacked the positions of [[Panglima Pòlém]] and drove him to [[Pidië]]. In July [[1913]] [[Pang Bintang]] was killed there by chance, when [[Van Andel]] of [[Lam Meulò]] got the first patrol into the [[V Moekims Mon Tasië']] after the transfer of *controleur* [[Roos van Raadshoven]] and ran into the band's hiding-place near the former [[Koeta Ba' Teuë]] on the second day.
 
+
+## Sources
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 131, 228, 327–329, 336–337, 350–355.
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+*J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni [[1855]]*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, [[1943]], Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, pp. 39-48.
+
 ## See Also
 
 - [[Sagi (Atjeh)]]
@@ -93,6 +133,30 @@ It was in this *sagi* that van Heutsz attacked the positions of [[Panglima Pòl�
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Longbatta]]
+- [[Imam of Longbatta]]
+- [[Toekoe Bait]]
+- [[Atoeh]]
+- [[Lampoe Oek]]
+- [[Pendetti]]
+- [[Karel van der Heijden]]
+- [[Indische Brigade (proposed)]]
+- [[Een vaderlandsch belang (Borel, 1878)]]
+- [[Enemy breakthrough in the IV, VI and IX Moekims (June 1878)]]
+- [[Aanvallende tactiek in Atjeh]]
+- [[Acheh]]
+- [[Banda Acheh]]
+- [[Three Sagis]]
+- [[XXV Mukims]]
+- [[XXVI Mukims]]
+- [[Panglima Polem|Panglima Polim]]
+- [[Panglima Polim's supremacy at Acheh]]
+- [[Three Sagis' letter to Penang (4 December 1822)]]
+- [[Raffles-Coombs Acheh Commission (1819)]]
+- [[K. van der Heijden]]
+- [[Habib Abdul Rahman]]
+- [[Indrapoeri]]
+- [[1880]]
 
 ## Source
 

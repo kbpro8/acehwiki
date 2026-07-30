@@ -1,7 +1,20 @@
 ---
 title: Mocha
-aliases: [Mokha, Mocha, al-Mukhā, Mokha, the coffee port of Yemen]
-tags: [place, port, yemen, red-sea, ahmad-rifa'i, raniri, aydarus-family, coffee-trade]
+aliases:
+- Mokha
+- al-Mukhā
+- the coffee port of Yemen
+- Yemen
+tags:
+- place
+- port
+- yemen
+- red-sea
+- ahmad-rifa'i
+- raniri
+- aydarus-family
+- coffee-trade
+- sacred-site
 ---
 
 **Mocha** — also written **Mokha**, Arabic **al-Mukhā** — is the coffee port of Yemen on the Red Sea, in the sixteenth and seventeenth centuries one of the principal ports of the Indian Ocean trade. Mocha is the place of the reverenced tomb of [[Ahmad ar-Rifāʿī|Ahmad Rifa'i]] — the founder of the [[Rifa'iyah order|Rifāʿiyya]] — and the city with which [[Abd al-Qadir al-Aidaros|ʿAbd al-Qādir al-Aydārūs]] of [[Ahmadabad]] exchanged correspondence with a scholar. The port is one of the nodes of the Indian Ocean network that linked the religious scholarship of Yemen and Gujarat with the Malay-Indonesian world.
@@ -18,6 +31,10 @@ The tomb of [[Ahmad ar-Rifāʿī|Aḥmad ar-Rifāʿī]] — the founder of the [
 
 Mocha is one of the nodes of the Indian Ocean network that linked the religious scholarship of Yemen and Gujarat with the Malay-Indonesian world. The tomb of [[Ahmad ar-Rifāʿī|Aḥmad ar-Rifāʿī]] at Mocha is the devotional centre of the [[Rifa'iyah order|Rifāʿiyya]] as it was transmitted to the Malay-Indonesian world; the correspondence of [[Abd al-Qadir al-Aidaros|al-Aydārūs]] with a scholar at Mocha is one of the principal witnesses to the Indian-Arab religious network in operation. The port of Mocha is, with [[Surat]], [[Tarim]], and [[Acheh]], one of the principal places of the Gujarati-Ḥadramī Sufi network from which the orthodox reaction of Acheh drew its principal Malay-Indonesian agents.
 
+
+## Sources
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Abd al-Qadir al-Aidaros]]
@@ -29,6 +46,8 @@ Mocha is one of the nodes of the Indian Ocean network that linked the religious 
 - [[Rifa'iyah order]]
 - [[Surat]]
 - [[Tarim]]
+- [[Abdurra'uf of Singkel]]
+- [[Singkel]]
 
 ## Source
 

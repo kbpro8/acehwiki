@@ -1,7 +1,43 @@
 ---
-title: "Peusangan"
-aliases: ["Glumpang Dua", "Pesangan", "Peusangan landschap", "Peusangan river", "Kroeeng Peusangan", "Pasangan"]
-tags: [place, north-east-coast, landschap, river, achehnese, bireuen, noordkust-van-atjeh, colonial, oeléebalang, padiveld, irrigation, salt-making, aceh, noordkust, zelfbestuur]
+title: Peusangan
+aliases:
+- Glumpang Dua
+- Pesangan
+- Peusangan landschap
+- Peusangan river
+- Kroeeng Peusangan
+- Pasangan
+- Peusangan-rivier
+- Peusangan rivier
+- Kroeëng Peusangan
+- Sungai Peusangan
+- Peusanganrivier (Peusangan River)
+- Peusanganrivier
+- Krueng Peusangan
+tags:
+- place
+- north-east-coast
+- landschap
+- river
+- achehnese
+- bireuen
+- noordkust-van-atjeh
+- colonial
+- oeléebalang
+- padiveld
+- irrigation
+- salt-making
+- aceh
+- noordkust
+- zelfbestuur
+- north-coast
+- aceh-war
+- 19th-century
+- 20th-century
+- bandjir
+- irrigatie
+- peusangan
+- gajoweg
 ---
 
 An area on the North Coast. The sadati dialogue: 'If that please thee not, little brother, let us go to the country of Peusangan in [[Glumpang Dua]]. In the country of Peusangan there are also strange doings; Teuku Ben (= Bentara) is dead, and no successor has yet been appointed.'
@@ -38,6 +74,11 @@ Peusangan is the type-*landschap* of the well-governed eastern coast: a Dutch-sp
 
 In [[1909]] [[H. N. A. Swart]] was authorised to pay 10,000 guilders in compensation to [[T. Maharadja Djeumpa]], acting *[[oelèëbalang]]* of Peusangan, for the loss of his possessions through the doings of ill-disposed persons. [[Maurice Henri du Croo|Du Croo]] cited "T. Tjhi' Peusangan" as the example of the chiefs with whom "was het uiteindelijk mogelijk een begin-vorm van *[[zelfbestuur]]* te bereiken". A photograph shows Swart and his wife visiting the *landschapshoofd* of Peusangan during their journey through the Indies in [[1928]].
 
+
+## Sources
+*De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 22.
+*Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn*.
+
 ## See Also
 
 - [[1873]]
@@ -59,6 +100,23 @@ In [[1909]] [[H. N. A. Swart]] was authorised to pay 10,000 guilders in compensa
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Peusangan]]
+- [[Arakoendo-rivier]]
+- [[Arakoendo]]
+- [[Noordkust]]
+- [[Bandjir]]
+- [[Sawah]]
+- [[Atjehsche Irrigatiedienst]]
+- [[Rijstbouw]]
+- [[De Rijkdom van Atjeh (1923)]]
+- [[1923]]
+- [[Oost-Indisch Journael]]
+- [[Gajoweg]]
+- [[Laut Tawar]]
+- [[Takengeun]]
+- [[Bireuën]]
+- [Heinzenknecht](/people/heinzenknecht)
+- [Atjeh-oorlog](/events/atjeh-oorlog)
 
 ## Source
 

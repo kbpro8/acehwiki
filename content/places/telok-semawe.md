@@ -1,7 +1,30 @@
 ---
 title: Telok Semawé
-aliases: [Telok Semawe, Teluk Semawe, Teloksamoy, Tullosumoy, Telok Samoy, Tellok Semawé, Telok Semawó]
-tags: [place, town, coast, atjeh, aceh-war, 19th-century, north-coast, dutch-post, onderhoorigheden, scheepvaartregeling]
+aliases:
+- Telok Semawe
+- Teluk Semawe
+- Teloksamoy
+- Tullosumoy
+- Telok Samoy
+- Tellok Semawé
+- Telok Semawó
+- Telok Semawee
+- Teloek Semawe
+- Telok Semawe (Atjeh North Coast state)
+tags:
+- place
+- town
+- coast
+- atjeh
+- aceh-war
+- 19th-century
+- north-coast
+- dutch-post
+- onderhoorigheden
+- scheepvaartregeling
+- aceh
+- coastal-state
+- scheepvaartregeling-haven
 ---
 
 **Telok Semawé** (Van der Kemp's spelling; rendered in British documents as *Teloksamoy* or *Tullosumoy*; also *Telok Semawó* in OCR variants) was a town on the East Coast of [[Acheh]], situated between [[Pedir]] and [[Penang]] and described by Van der Kemp as lying to the west of Pedir. In the second decade of the nineteenth century it became the seat of the rival court of [[Sultan Saif ul-Alum]] (Syf) after he was driven from [[Banda Acheh]], and thereafter the scene of the [[Wilhelmina mutiny and murder of Bouwens|Wilhelmina affair]] and of recurring Anglo-Dutch friction. In [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *De onderwerping van Atjeh*, Telok Semawé is also the seat of the *assistent-resident ter Noord- en Oostkust* under [[Scherer]]'s administration of [[1877]]–[[1884]], one of the open call-ports abolished under the [[Concentratiebesluit (19 Augustus 1884)|Concentratie]] of [[19 August]] [[1884]], and the post re-established under the [[Van Teijn]] *scheepvaartregeling* of [[1887]]–[[1891]].
@@ -93,9 +116,24 @@ In Van Heutsz's own [[1893]] prescription, Telok Semawé was retained as one of 
 - [[1891]]
 - [[1893]]
 - [[1898]]
+- [[Pruijs van der Hoeven]]
+- [[General van Teijn]]
+- [[Deijkerhoff]]
+- [[Toekoe Oemar]]
+- [[Westkust]]
+- [[Poelole Rajja]]
+- [[Muslemin]]
+- [[Sultan of Aceh]]
+- [[Atjeh-oorlog]]
+- [[July 1874]]
+- [[May 1881]]
+- [[1881]]
+- [[April 1894]]
+- [[1894]]
 
 ## Sources
 
 - *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 - *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 64, 114.
 - *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 29, 30, 31, 32, 35, 36, 41, 42, 46, 50, 55, 56, 60, 62, 66, 67. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IV (the submission of July 1874), Chapter VII (Scherer's station), Chapter X (the Van Teijn reopening), Chapter XII (the 1894 scheepvaartregeling and the 1890s unrest). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 20, 35, 54, 66, 75.

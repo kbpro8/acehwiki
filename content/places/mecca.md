@@ -1,8 +1,27 @@
 ---
 title: Mecca
-aliases: ["Abu Jahl's kingdom in the Hikayat Nubuet", "Mekka", "Makkah", "Mekkah", "Makkah al-Mukarramah", "Mekka (Snouck Hurgronje spelling)", "Mekka folk", "Mecca", "Holy City of Islam", "Sacred City", "The Holy City"]
-
-tags: [place, legendary-land, holy-city, arabia, city, foreign, religious, sacred-site]
+aliases:
+- Abu Jahl's kingdom in the Hikayat Nubuet
+- Mekka
+- Makkah
+- Mekkah
+- Makkah al-Mukarramah
+- Mekka (Snouck Hurgronje spelling)
+- Mekka folk
+- Holy City of Islam
+- Sacred City
+- The Holy City
+tags:
+- place
+- legendary-land
+- holy-city
+- arabia
+- city
+- foreign
+- religious
+- sacred-site
+- islam
+- islamic
 ---
 
 In the [[Hikayat Nubuet]]: 'Abu Jhay (Abu Jahl) is represented as king of Mecca' and Muhammad 'in his tender youth... with the help of forty companions, waged a long war against Abu Jhay who is represented as king of Mecca and who deemed himself slighted by the young lad.'
@@ -54,9 +73,15 @@ The marriage-officials of Mecca are called *mumlik* (a term whose "absolute" ide
 - [[L. W. C. van den Berg]]
 - [[Ta'liq]]
 - [[Ruya (moon-sighting)]]
+- [[Abraha|Abraha (Abessynian ruler)]]
+- [[Sūra al‑Fīl (Qur’anic chapter)]]
+- [[Haji (Acehnese practice)]]
+- [[Hajj from Aceh]]
+- [[Islamic pilgrimage in Southeast Asia]]
 
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Introduction, p. v; Chapter I, §§ 4, 9, pp. 44–58, 151–160.
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+*20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pp. [[83]], [[91]].

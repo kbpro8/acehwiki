@@ -1,7 +1,22 @@
 ---
 title: Troemon
-aliases: [Troemon, Trumon, Troemonse]
-tags: [place, region, aceh, westkust, statelet, atjeh, aceh-war, 19th-century, west-coast, onderhoorigheden, scheepvaartregeling]
+aliases:
+- Trumon
+- Troemonse
+- Trumon on the West Coast
+tags:
+- place
+- region
+- aceh
+- westkust
+- statelet
+- atjeh
+- aceh-war
+- 19th-century
+- west-coast
+- onderhoorigheden
+- scheepvaartregeling
+- north-east-coast
 ---
 
 **Troemon** — also *Trumon* — is a region on the [[Westkust (of Atjeh)|Westkust of Atjeh]], the region whose *zelfbestuurder* (native self-administrator) reported the rogue elephant to the visiting kolonel at [[Bakongan]] in [[1933]], and the region whose *Troemonse moerassen* — with [[Ië Itam]] (Zwart Water, Black Water) and [[Ië Merah]] (Rood Water, Red Water) — were notorious for their *gemeen stinkende, troebele inktwater*. In *[[Oom Ambon van het K.N.I.L.]]* Troemon is the setting of the [[Troemon tragedy 1926|Troemon tragedy of 1926]] and of the *woudloper* anecdotes of [[Thijs de Fretes]]. In [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *De onderwerping van Atjeh*, Troemon was also the west-coast statelet at the western extremity of the [[Atjeh|Atjehnese]] [[Onderhoorigheden]] that served as the western limit of the *rigoureuse blokkade* the Regeering had prescribed in [[1884]] and that was to extend *van Tamiang op de Oostkust tot Troemon op de Westkust* — from [[Tamiang]] on the East Coast to Troemon on the West Coast.
@@ -82,9 +97,20 @@ Troemon's position at the southern and western end of the Atjehnese coast placed
 - [[1893]]
 - [[1898]]
 - [[1927]]
+- [[Peunaga]]
+- [[Raja Muda]]
+- [[Teungku di Meuke']]
+- [[West Coast (of Acheh)]]
+- [[Acheh]]
+- [[Tuan Meurasab]]
+- [[Nagore]]
+- [[Coromandel Coast]]
+- [[Kuta Raja]]
+- [[British India]]
 
 ## Sources
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Thijs" and chapter "Ooms leger."
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 30, 32, 36, 50, 72, 77, 86. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

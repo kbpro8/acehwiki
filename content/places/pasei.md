@@ -1,8 +1,98 @@
 ---
 title: Pasei
-aliases: ["Kingdom of Pasai", "Pasai", "Pasai kingdom", "Pasay", "Pase", "Pasei (Atjeh port)", "Pasé", "Peusangan", "Samudra Pasai", "Samudra-Pasai", "old Muslim kingdom of north Atjeh", "Moslimsch rijkje Pasé", "Muslim principality of Pasé"]
-tags: ["16th-century", "17th-century", "achehnese", "atjeh", "coast", "kingdom", "muslim", "pepper", "place", "port", "precolonial", "sumatra", "concept", "sultanate", "early-islam", "history", "medieval"]
-description: "Pasei (modern Pasai; also Pasé, Samudra Pasai) was the historical Muslim kingdom on the north coast of Atjeh, founded in the late thirteenth century and absorbed by the Atjeh sultanate under Sultan Iskandar Muda. One of the earliest Muslim principalities (Moslimsch rijkje) on the north-east coast of Sumatra, cited by the 1926 atlas alongside Perlak as evidence for the early arrival of Islam."
+aliases:
+- Kingdom of Pasai
+- Pasai
+- Pasai kingdom
+- Pasay
+- Pase
+- Pasei (Atjeh port)
+- Pasé
+- Peusangan
+- Samudra Pasai
+- Samudra-Pasai
+- old Muslim kingdom of north Atjeh
+- Moslimsch rijkje Pasé
+- Muslim principality of Pasé
+- Pasej
+- Samudera-Pasai
+- Samoedera-Pasai
+- Pasai sultanate
+- Pasé (Atjeh complex)
+- Pasé (oil field)
+- Pasai oil field
+- Pase oil field
+- Pasé (region)
+- Paseh
+- Pasé river
+- Pasé kingdom
+- Kroeëng Pasé
+- Pasé-rivier
+- Pasé Samoedrase Rijk (Samudra Pasai Kingdom)
+- Pasé Samoedrase Rijk
+- Samudra Pasai Kingdom
+- Samoedrase Rijk
+- Samoedra
+- Samudra
+- Samudera
+- Pasé-Samoedra
+- Samoedra-Pasé
+- Samoedra kingdom
+- kingdom of Samoedra
+- old kampong Samoedra
+tags:
+- 16th-century
+- 17th-century
+- achehnese
+- atjeh
+- coast
+- kingdom
+- muslim
+- pepper
+- place
+- port
+- precolonial
+- sumatra
+- concept
+- sultanate
+- early-islam
+- history
+- medieval
+- north-sumatra
+- pepper-port
+- malay
+- islamic
+- source
+- oil-field
+- colonial
+- region
+- aceh
+- aceh-war
+- north-coast
+- 20th-century
+- resistance
+- river
+- historical
+- lho-seumawe
+- noordkust-van-atjeh
+- 13th-century
+- 15th-century
+- marco-polo
+- samudra-pasai
+- pasè
+- noordkust
+- battle
+- polity
+- pepercultuur
+- 14th-century
+- samoedra
+- pasé
+- fei-hsin
+description: Pasei (modern Pasai; also Pasé, Samudra Pasai) was the historical Muslim
+  kingdom on the north coast of Atjeh, founded in the late thirteenth century and
+  absorbed by the Atjeh sultanate under Sultan Iskandar Muda. One of the earliest
+  Muslim principalities (Moslimsch rijkje) on the north-east coast of Sumatra, cited
+  by the 1926 atlas alongside Perlak as evidence for the early arrival of Islam.
 ---
 
 **Pasei** (modern *Pasai*; also *Pasé*; also *Samudra Pasai*) was the historical Muslim kingdom on the north coast of [[Acheh|Atjeh]], founded (on the chronology of the [[Hikajat Radja-radja Pasei|Pasai chronicle]]) in the late thirteenth century and absorbed by the [[Atjeh|Atjeh sultanate]] under [[Sultan Iskandar Muda|Iskandar Muda]] in the early seventeenth century. Pasei was, before the rise of [[Banda Acheh|Koetaradja]], the principal Muslim polity of northern Sumatra and one of the earliest Muslim kingdoms in the Indonesian archipelago; its chronicle, the [[Hikajat Radja-radja Pasei|*Hikajat Radja-radja Pasei*]], is one of the foundational Malay historical texts and was made accessible to European scholarship by [[E. Dulaurier]] in [[1849]] and by [[A. Marre]] in [[1874]]. In [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 220) Pasei appears as the place of origin of [[Gedong (Atjeher of Pasei)|Gedong]], the eponymous ancestor of the [[marga Ramin]] of [[Boven-Singkel]], whose encounter with an eel and a buffalo during a shipwreck on the way to [[Belawan]] gave rise to the lineage's double food-prohibition.
@@ -96,6 +186,72 @@ The kingdom of Samudra-Pasai was founded, according to the [[Hikajat Radja-radja
 
 - [[Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]
 - [[Journal of the Straits Branch of the Royal Asiatic Society]]
+- [[15th-century]]
+- [[Over Maleise Literatuur (1947)]]
+- [[Pidie]]
+- [[Malacca]]
+- [[17th-century]]
+- [[16th-century]]
+- [[Sadjarah Malajoe]]
+- [[Hikajat Raja-Raja Pasai]]
+- [[Atjeh oil complex]]
+- [[East Atjeh oil block]]
+- [[N.P.P.M.]]
+- [[Oil exploration in North Sumatra]]
+- [[Pasei]]
+- [[Pedirse]]
+- [[Peureula]]
+- [[Pulu Pandjang]]
+- [[Tamiang oil block]]
+- [[Van Bemmelen's The Geology of Indonesia (1949)]]
+- [[1940]]
+- [[1941]]
+- [[13th-century]]
+- [[1907]]
+- [[Aceh]]
+- [[Blang Me]]
+- [[Colonne Matjan]]
+- [[Keureutoe]]
+- [[Kroeëng Pasè]]
+- [[Lho Seumawe]]
+- [[Lho Soekon]]
+- [[Pang Nanggroë]]
+- [[Samalanga]]
+- [[Samoedra]]
+- [[Tengkoe Sjech di Paja Bakong]]
+- [[Tengkoe di Paja Bakong (Mata Ië)]]
+- [[Verkenningen in Atjeh (1923)]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
+- [[Oost-Indisch Journael]]
+- [Transport-olifanten (Aceh)](/concept/transport-olifanten-aceh)
+- [Atjeh-oorlog](/events/atjeh-oorlog)
+- [Aceh Sultanate](/events/aceh-sultanate)
+- [[1350]]
+- [[1400]]
+- [[1412]]
+- [[1416]]
+- [[1436]]
+- [[1521]]
+- [[1524]]
+- [[Chêng-Ho]]
+- [[Coe]]
+- [[De Rijkdom van Atjeh (1923)]]
+- [[Fei Hsin]]
+- [[Ibn Batoetah]]
+- [[Ma Hoean]]
+- [[Marco Polo]]
+- [[Nilgirl]]
+- [[Pasé]]
+- [[Pasé-Samoedra]]
+- [[Pepercultuur]]
+- [[Pidië]]
+- [[Sultan Ali Moeghajat Sjah]]
+- [[Sultanate of Aceh]]
+- [[Yorge de Brito]]
+
 ## Sources
 
 *Coen, Koopman van Heeren Zeventien. Geschiedenis van den Hollandshen Handel in Indië (1598-1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. De Boer Jr., 1948), Hoofdstuk V "Voorgangers, Hollanders en mededingers tot 1614. Atjeh. Djohor. Malaka." (pp. 114-115, 134-135).
@@ -109,3 +265,12 @@ The kingdom of Samudra-Pasai was founded, according to the [[Hikajat Radja-radja
 *Bijdrage tot de kennis van stamverwantschap op Sumatra*, by W. K. H. Ypes, p. 57 nt. 1.
 
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter IV (Godsdienst), pp. 75, 86.
+*Over Maleise Literatuur*, by Dr. C. Hooykaas, Hoogleraarte Batavia; Tweede Druk (Leiden: E. J. Brill, 1947), chapter 11 ("Geschiedschrijving in het Maleis"), p. 94; chapter 10 ("Hang Toeah, de typisch-Maleise held"), pp. 87-88.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+*The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 9 (Table 4: Oil production in the East Indies in 1940 and 1941).
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters VIII–IX, *'Lho Soekon, licht en donker'* and *'In het oude rijk Samoedra'*, pp. 53, 57, 58.
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV; Extract from the service record.
+*Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Atjeh's Transport-Olifanten*.
+*De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 6–7.
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter IX, *'In het oude rijk Samoedra'*, pp. 58–59.

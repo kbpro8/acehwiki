@@ -1,7 +1,89 @@
 ---
-title: "Oleh-leh"
-aliases: ["Oleh Leh", "Oleh-Leh", "Oleh-leh Atjeh", "Oleh-leh Oost", "Olehleh", "Port of Oleh-leh", "Ulee Lheu", "Ulee Lheue", "Uleelheue"]
-tags: [place, 19th-century, aceh-war, achehnese, atjeh, coastal, colonial, dutch, dutch-colonial, fortification, military, port, scheepvaartregeling, vrijhaven]
+title: Oleh-leh
+aliases:
+- Oleh Leh
+- Oleh-leh Atjeh
+- Oleh-leh Oost
+- Olehleh
+- Port of Oleh-leh
+- Ulee Lheu
+- Ulee Lheue
+- Uleelheue
+- Ulee Iheue
+- Uleë Iheue
+- Oleh Leue
+- Olehheh
+- Uleë Lheuë
+- Oelèë Lheuë
+- Ule Lheue
+- Oleelheue
+- Oeleë Lheue
+- Oelee-Lheuë
+- Oelee Lheue
+- Oelèe Lheue
+- Oelèe Lheuë
+- reede van Oelèe Lheuë
+- the roadstead of Oelèe Lheuë
+- Oelé Lheué
+- Oleh lehe
+- Ole Lheu
+- Oelele
+- Olehleh haven
+- havenplaats Olehleh
+- Olehleh chapel
+- Oelèe Lheuë haven
+- Atjeh havenplaats
+- Oele Lheoe
+- Oelèë Lheuë haven
+- Oelèë Lheue
+- Koeta Radja haven
+- Oeleleh
+- havenplaats of Kota Radja
+- harbour of Kota Radja
+- Oeleh Leh
+- Uleelheu
+- Ule Lheu
+tags:
+- place
+- 19th-century
+- aceh-war
+- achehnese
+- atjeh
+- coastal
+- colonial
+- dutch
+- dutch-colonial
+- fortification
+- military
+- port
+- scheepvaartregeling
+- vrijhaven
+- aceh-proper
+- coastal-place
+- kanduri-laut
+- sea-kanduri
+- monsoon
+- keunong
+- xxvi-mukims
+- gampong
+- capital
+- village
+- coast
+- harbour
+- roadstead
+- buitenbezittingen
+- haven
+- groot-atjeh
+- catholic
+- chapel
+- afdeeling
+- hydrography
+- town
+- paketvaart
+- atjeh-transport-mij
+- sabang-mij
+- landing-place
+- zeehoofd
 ---
 
 **Oleh-leh** (also written Olehleh, modern Uleelheue) was the principal landing-place and port of the Dutch in [[Acheh|Atjeh]] during the [[Aceh War|Atjeh-oorlog]], situated on the coast west of the mouth of the [[Aceh River|Atjeh river]]. It became the principal post on the [[Westerlinie|Westerlinie]] after its occupation in [[May 1874|May-June 1874]], and the western terminus of the railway to [[Kota Radja|Kota Radja]] completed in [[November 1876|November 1876]]. The reede of Oleh-leh, especially during the west monsoon, offered many advantages over that of the mouth of the Atjeh river, and the Dutch accordingly made it the principal landing and loading place for the garrison of Kota Radja.
@@ -98,6 +180,21 @@ Prior to [[1873]], the port was defended by coastal bentengs ([[Coastal Fortific
 
 Under General [[J. L. J. H. Pel]] in [[1874]] and [[1875]], Oleh-leh was linked via supply road to [[Sinangri]] and [[Pekan Badak]]. The [[Medical Service in Aceh]] constructed major sanitary hospital sheds at Oleh-leh to evacuate cholera patients away from the overcrowded [[Kraton of Aceh]] ([[Field Hospital and Cholera Epidemics in Aceh]]).
 
+
+## Sources
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 15, 25–30, 38, 46–47, 214–217, 245.
+
+*Register op de eerste 50 jaargangen van het missietijdschrift der P.P. Jezuieten "St. Claverbond", 1889 tot en met 1938*, samengesteld door Herman Hagdorn S.J. en Jacques Dinjens (Nijmegen: Stichting St. Claverbond, 1939).
+
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 68 (section "De Atjeh-tram"), p. 83 (section "Midden-Sumatra-spoorweg").
+
+*Vierhonderd jaren missie in Nederlandsch-Indië, 1593–1934* (Batavia: Algemeen Comité van Voorbereiding tot de Feestelijke Herdenking van 400 jaar Missie in Ned.-Indië, [1934]), p. 52 (chapter VI, on the Jesuit period).
+*De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), p. 29.
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters XIV and XV, *'De Atjeh-tram'* and *'Groot-Atjeh'*, pp. 96, 107–108.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 30, 65, 85, 93–95, 103–104, 112–113, 115, 119–125, 132, 135, 141, 143–144, 156–162, 181, 195, 224.
+
 ## See Also
 
 - [[1874]]
@@ -154,6 +251,75 @@ Under General [[J. L. J. H. Pel]] in [[1874]] and [[1875]], Oleh-leh was linked 
 - [[Westerlinie]]
 - [[XXII Moekims]]
 - [[XXVI Moekims]]
+- [[Acheh]]
+- [[Demak]]
+- [[Java]]
+- [[Kutaraja]]
+- [[Lam Gut|Lam Guha]]
+- [[Raja Muda]]
+- [[Teuku Asan]]
+- [[Teuku Uma]]
+- [[Teungku Pante Cheureumen]]
+- [[Tuan di Bunot]]
+- [[XXVI Mukims]]
+- [[Great Acheh]]
+- [[West Coast]]
+- [[East Coast]]
+- [[Banda Acheh]]
+- [[Meura'sa]]
+- [[Penang]]
+- [[Teuku Ne']]
+- [[Teuku Sandang]]
+- [[Raja Itam]]
+- [[Teungku Lam Guha]]
+- [[Pulo Batee]]
+- [[Teuku Ne' of Meura'sa]]
+- [[Habib Abdurrahman]]
+- [[Kanduri la'ot (Sea-kanduri)]]
+- [[Pukat-fishing season (upayang)]]
+- [[S.W. Monsoon]]
+- [[N.E. Monsoon]]
+- [[Groot-Atjeh]]
+- [[Sabang Maatschappij]]
+- [[Breuë-groep]]
+- [[Aroe-baai-plannen]]
+- [[Aroebai]]
+- [[Postenlinie]]
+- [[Ceintuur-trambaan]]
+- [[Departement van Oorlog]]
+- [[Telok Betong]]
+- [[1873]]
+- [[1875]]
+- [[1882]]
+- [[1885]]
+- [[1910]]
+- [[1913]]
+- [[1914]]
+- [[1915]]
+- [[Catholic Mission in Aceh]]
+- [[H. C. Verbraak S.J.]]
+- [[Kutaradja]]
+- [[St. Claverbond]]
+- [[Aceh River]]
+- [[Catholic Mission of Koeta Radja-Atjeh]]
+- [[Pastoor H. C. Verbraak]]
+- [[Vierhonderd jaren missie in Nederlandsch Indië (1934)]]
+- [[1917]]
+- [[Atjeh Transport-Mij]]
+- [[Atjehrivier]]
+- [[Concentratie (1884)]]
+- [[De Buitenbezittingen, Deel II, Aflevering 1]]
+- [[Kon. Paketvaart]]
+- [[Sabang-Mij]]
+- [[Verkenningen in Atjeh (1923)]]
+- [[Kwala Atjeh]]
+- [[Atjeh-rivier]]
+- [[Poelolo Bras]]
+- [[Strategische driehoek (Atjeh)]]
+- [[Zeehoofd]]
+- [[Crisis at Kota Radja (May–June 1874)]]
+- [[Jan van Swieten]]
+- [[Generaal Pel]]
 
 ## Source
 

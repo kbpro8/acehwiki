@@ -1,7 +1,43 @@
 ---
-title: "Westkust van Atjeh"
-aliases: ["West Coast of Atjeh", "Atjeh's Westkust", "Aceh Barat", "Westkust Atjeh", "the west coast of Atjeh", "Westkust"]
-tags: [place, afdeeling, westkust, atjeh, coastal, administrative-division, region, aceh, resistance, aceh-war, 20th-century]
+title: Westkust van Atjeh
+aliases:
+- West Coast of Atjeh
+- Atjeh's Westkust
+- Aceh Barat
+- Westkust Atjeh
+- the west coast of Atjeh
+- Westkust
+- West Coast of Aceh
+- West Aceh Coast
+- Aceh's West Coast
+- West Coast
+- the always restless West Coast
+- Westkust (of Atjeh)
+- Westkust van Atjeh (1950s context)
+- Atjeh's West Coast
+- Atjeh Westkust
+- West Aceh
+- West-Atjeh
+tags:
+- place
+- afdeeling
+- westkust
+- atjeh
+- coastal
+- administrative-division
+- region
+- aceh
+- resistance
+- aceh-war
+- 20th-century
+- coast
+- environment
+- highland
+- colonial
+- plantation
+- 1950s
+- aceh-proper
+- achehnese
 ---
 
 **Westkust van Atjeh** (West Coast of Atjeh) was an *afdeeling* (division) of the [[Gouvernement Atjeh en Onderhoorigheden]], administered by Assistent-Resident [[I. L. O'Brien]]. The Westkust covered the western coastline of the Atjeh territory, an area that had been one of the last regions to come under Dutch control during the Atjeh War and that continued to present significant administrative challenges due to its rugged terrain and dispersed population. The designation "Westkust" reflected the colonial practice of defining administrative units along coastal lines, a pattern characteristic of the *Buitenbezittingen* where Dutch authority had historically been established from the sea inward.
@@ -50,6 +86,17 @@ Roads along the west coast were long unsuitable for through traffic, because the
 
 In the [[Administrative Division of Atjeh (1908)|administrative division of 1908]] the Westkust was one of the five *afdeelingen*, each under an Assistant Resident; in [[1910]] [[Singkel]] was added to it from the abolished *afdeeling* [[Bambél]]. [[J. J. Boreel]] was later appointed Assistant Resident of the Westkust.
 
+
+## Sources
+*DLP-84-Atjeh.pdf*, p. 9.
+*Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Sloebers* and the chapter on den zieleherder.
+*Oostkust van Sumatra-Instituut Mededeling No. 37: Deli-Figuren uit de jaren 1950 t/m 1952*, compiled by Ir. F. J. J. Dootjes (Amsterdam, [[1953]]).
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 104, 131, 217.
+"Atjeh's Westkust," by K. F. H. van Langen, in *Tijdschrift van het Koninklijk Nederlandsch Aardrijkskundig Genootschap*, [[1888]], vol. II, p. 481.
+*De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), vol. I, p. 120.
+*Verspreide Geschriften*, by G. A. J. Wilken, vol. II, p. 488.
+*The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), pp. 49–56 (coal in Sumatra, West-Atjeh localities), pp. 121–122 (Basin of Meulaboh, M.A.E.M. operation), pp. 205–211 (iron-ore localities of the Westkust), p. 223 (Westkust mercury).
+
 ## See Also
 
 - [[Meulaboh]]
@@ -63,6 +110,68 @@ In the [[Administrative Division of Atjeh (1908)|administrative division of 1908
 - [[Th. J. Veltman]]
 - [[The resistance in Atjeh 1908–1912]]
 - [[Resistance in Daja and Lhong (1914)]]
+- [[East Coast of Aceh]]
+- [[Westkust van Atjeh]]
+- [[Gajoweg (Gayo Road)|Gajoweg]]
+- [[Groot-Atjeh]]
+- [[Koeta-Radja]]
+- [[Aceh War]]
+- [[Pacification of Atjeh]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Gajo]]
+- [[Alas]]
+- [[Oerbos]]
+- [[Atjehweg]]
+- [[Atjehspoorweg]]
+- [[Strait of Malacca]]
+- [[Oost-Indisch Journael]]
+- [[Verzet in Lhong]]
+- [[Lhong]]
+- [[Glé Groetèë]]
+- [Djahat](/concept/djahat)
+- [Belabberen](/concept/belabberen)
+- [Atjeh-oorlog](/events/atjeh-oorlog)
+- [[Kleine-Atjeh]]
+- [[K. F. H. van Langen]]
+- [[Pantang of the albino buffalo in Atjeh]]
+- [[Atjeh adat schimpstraf (buffalo-riding wife-beater)]]
+- [[Koninklijk Nederlandsch Aardrijkskundig Genootschap]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
+- [[Van Langen's Atjeh's Westkust ([[1888]]
+- [[J. Kreemer]]
+- [[Acheh]]
+- [[A. Pentuwa Gade]]
+- [[Alu Talu]]
+- [[Atjeh en Onderhorigheden]]
+- [[Basin of Meulaboh]]
+- [[C. de Groot]]
+- [[Coal in Atjeh]]
+- [[Copper in Atjeh]]
+- [[Geudong Concession]]
+- [[Gold and silver in Atjeh]]
+- [[Iron ores in Atjeh]]
+- [[J. Zwierzycki]]
+- [[Kr. Ligan (Babah Loh)]]
+- [[Kr. Rigaih]]
+- [[Krueng Antjong]]
+- [[Krueng Heureueng]]
+- [[Krueng Isep]]
+- [[Krueng Kluet]]
+- [[Krueng Meureubo]]
+- [[Krueng Raja]]
+- [[Krueng Teunom]]
+- [[Krueng Woyla]]
+- [[Kuto Buloh]]
+- [[Kwala Boe Tjot Plaj]]
+- [[M.A.E.M.]]
+- [[Mercury in Atjeh]]
+- [[Platinum in Atjeh]]
+- [[Rinaud]]
+- [[Van Bemmelen's The Geology of Indonesia (1949)]]
+- [[1885]]
+- [[1922]]
+- [[1946]]
 
 ## Source
 

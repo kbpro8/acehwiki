@@ -1,7 +1,22 @@
 ---
 title: Palembang
-aliases: [Sumatra, Palimbang, Palembang sultanate, Palembang, Palembang City]
-tags: [place, legendary-land, sultanate, region, city, sumatra, aceh]
+aliases:
+- Sumatra
+- Palimbang
+- Palembang sultanate
+- Palembang City
+- Palembang (city)
+- Palembang (South Sumatra)
+- Palembang (Sumatra)
+tags:
+- place
+- legendary-land
+- sultanate
+- region
+- city
+- sumatra
+- aceh
+- colonial
 ---
 
 **Palembang** was the principal Malay [[sultanate]] of south‑eastern [[Sumatra]] and, from the early [[19th century|1800s]] onward, a major port city on the [[Musi River]] that became the focus of several Dutch military expeditions. Located roughly fifty miles inland from the coast, the settlement lay at the crossroads of Acehnese influence, Dutch colonial ambition, and British commercial interest. Copies of the *wasiat nabi* (the Prophet’s last admonition) were printed and reprinted there, attesting to its religious and cultural significance. In the historiography of the Dutch East Indies, Palembang appears both as a comparative example in [[P. H. van der Kemp]]’s analysis of British aggression (the [[Sir Thomas Stamford Raffles|Raffles]] raid of [[September]] [[1819]]) and as the objective of Dutch naval and marine operations in [[1819]] and [[1821]].
@@ -37,6 +52,10 @@ The Dutch forces had to contend with a network of defensive works along the Musi
 
 The capture of Palembang marked a turning point in the Dutch campaign to dominate the Sumatran coastline. It directly challenged the residual authority of the [[Sultanate of Aceh]] over southern Sumatra and contributed to the gradual erosion of Acehnese suzerainty in the region. The success of the 1821 operations set a precedent for subsequent Dutch expeditions, such as the [[Celebes expedition|Celebes expedition]] of the [[1820s]], and illustrated the pivotal role of the [[Royal Netherlands Marine Corps|Korps Mariniers]] in extending colonial control through combined naval and riverine warfare. Moreover, the Palembang raid of [[1819]] remains a key comparative case in the historiography of British colonial aggression, as highlighted by [[P. H. van der Kemp]]’s analysis of the parallels between British actions in Southeast Asia and Southern Africa.
 
+
+## Sources
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, pp. 86‑86.
+
 ## See Also
 
 - [[Sumatra]]
@@ -59,6 +78,11 @@ The capture of Palembang marked a turning point in the Dutch campaign to dominat
 - [[1819 Palembang expedition]]
 - [[Militaire Willemsorde|Military Order of William]]
 - [[Celebes expedition|Celebes expedition]]
+- [[Aceh]]
+- [[Aceh War]]
+- [[Militaire Willemsorde]]
+- [[P. Colombon]]
+- [[Dutch East India Company]]
 
 ## Source
 

@@ -1,7 +1,31 @@
 ---
-title: "Djidda"
-aliases: ["Djidda", "Jeddah", "Jidda", "Djedda", "Djeddah", "Port of Djidda"]
-tags: [place, city, port, arabia, 19th-century, snouck-hurgronje, djidda, mekka, hejaz, dutch-consulate]
+title: Djidda
+aliases:
+- Jeddah
+- Jidda
+- Djedda
+- Djeddah
+- Port of Djidda
+- Jiddah
+- Jedda
+- Port of Jeddah
+- Port of Mecca
+tags:
+- place
+- city
+- port
+- arabia
+- 19th-century
+- snouck-hurgronje
+- djidda
+- mekka
+- hejaz
+- dutch-consulate
+- sacred-site
+- red-sea
+- exile
+- foreign
+- coast
 ---
 
 **Djidda** (modern *Jeddah*) is the port city of the Hejaz region of western Arabië, the principal port of entry for pilgrims to [[Mekka|Mekka], and the seat of the European consulates — including the Dutch consulate — that attended to the interests of the pilgrims from their respective countries. For Atjèhse history, Djidda is significant as the place where [[C. Snouck Hurgronje|Dr. C. Snouck Hurgronje]] arrived on [[28 August]] [[28 August]] [[1884]] in the company of the Dutch consul [[J. A. Kruijt (consul)|Kruijt]], where he resided for half a year before his journey to Mekka, where he met the exiled [[Habib Abdul Rachman El-Zahir|Habib Abdoerrachman ez-Zahir]] and received the *recept* for the pacification of Atjèh, and where he returned after his expulsion from Mekka on [[5 August]] [[5 August]] [[1885]] before his return to Europe on [[19 September]] [[19 September]] [[1885]].
@@ -34,6 +58,10 @@ On [[5 August]] [[5 August]] [[1885]] Snouck Hurgronje was given notice that he 
 
 Djidda, for Atjèhse history, is significant as the place where Snouck Hurgronje's Atjèh interest was first awakened — through his meeting with the exiled Habib Abdoerrachman ez-Zahir, who gave him the *recept* for the pacification of Atjèh in [[October 1884|October]] [[1884]], and through his study of the Djawa pilgrims whom he would later (at Mekka) come to know more closely. The half-year at Djidda from [[28 August]] [[28 August]] [[1884]] to [[21 February]] [[21 February]] [[1885]] was the formative prelude to the six-month residence at Mekka that would be the formative scholarly experience of Snouck Hurgronje's career.
 
+
+## Sources
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Snouck Hurgronje's Mekka journey (1884-1885)]]
@@ -58,6 +86,20 @@ Djidda, for Atjèhse history, is significant as the place where Snouck Hurgronje
 - [[October 1884]]
 - [[1884]]
 - [[1885]]
+- [[Abdurra'uf of Singkel]]
+- [[Java]]
+- [[Singkel]]
+- [[Mecca]]
+- [[Arabia]]
+- [[Hadramaut]]
+- [[Habib Abdurrahman Zahir]]
+- [[Acheh War]]
+- [[East Indian Archipelago]]
+- [[Sayyid]]
+- [[Sayyid Abdurrahman Zahir]]
+- [[Medina]]
+- [[Habib Abdurrahman]]
+- [[Hajj]]
 
 ## Source
 

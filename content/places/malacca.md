@@ -1,7 +1,45 @@
 ---
 title: Malacca
-aliases: [Malacca, Melaka, Malay Malacca, Malakka, Malacka, Mallaca, Malacca Hooykaas account]
-tags: [place, sacred-site, foreign-land, region, foreign, malay-state, city, colony, british-india, coast, hooykaas, pasai, salam-sembah, 1511-conquest]
+aliases:
+- Melaka
+- Malay Malacca
+- Malakka
+- Malacka
+- Mallaca
+- Malacca Hooykaas account
+- Malaka
+- Malaka (Portuguese fortress)
+- Portuguese Malaka
+- Fortress of Malaka
+- Stad van Malacca
+tags:
+- place
+- sacred-site
+- foreign-land
+- region
+- foreign
+- malay-state
+- city
+- colony
+- british-india
+- coast
+- hooykaas
+- pasai
+- salam-sembah
+- 1511-conquest
+- port
+- fortress
+- malay-peninsula
+- portuguese
+- dutch
+- atjeh
+- djohor
+- precolonial
+- colonial
+- 16th-century
+- 17th-century
+- strait
+- east-indies
 ---
 
 The great Portuguese stronghold and Malay capital on the Malay Peninsula. '[[Sultan Iskandar Muda]]... made several attempts to drive out these rivals of his power from Malacca. For instance, he attacked that port in [[1628]] with a fleet of gigantic proportions.' In the [[Hikajat Malém Dagang|Hikayat Malem Dagang]], [[Si Ujut]] is described as a son of the raja of Malacca; the fleet sails to Malacca, 'the king of which place (the father of [[Si Ujut]] and [[Raja Raden]]) has fled with all the inhabitants of the coast to the hills in the interior.' The Portuguese disappearing from the field of vision of the Achehnese while the Dutch came to represent European danger.
@@ -97,6 +135,26 @@ In the framing of *DLP-84-Atjeh*, Malacca — historic trading port on the weste
 - [[United States of America]]
 - [[British Empire]]
 - [[Portuguese traders]]
+- [[Portuguese conquest of Malaka (1511)]]
+- [[Affonso d'Albuquerque]]
+- [[Djohor]]
+- [[Strait of Malaka]]
+- [[Sultan of Atjeh (1589-1604)]]
+- [[Matelieff's Malaka campaign (1606)]]
+- [[Verhoeff's Malaka expedition (1608)]]
+- [[Cornelis Matelieff]]
+- [[Pieter Willemsz. Verhoeff]]
+- [[Aru]]
+- [[1575]]
+- [[1587]]
+- [[1606]]
+- [[1608]]
+- [[1641]]
+- [[Jacob Pieter van Braam|Van Braam (commander)]]
+- [[Salangore]]
+- [[Riouw]]
+- [[Oost-Indische Compagnie]]
+- [[Luitenant Wisscher]]
 
 ## Sources
 
@@ -104,3 +162,5 @@ In the framing of *DLP-84-Atjeh*, Malacca — historic trading port on the weste
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 *Over Maleise Literatuur*, by Dr. C. Hooykaas, Hoogleraarte Batavia; Tweede Druk (Leiden: E. J. Brill, 1947).
 *DLP-84-Atjeh.pdf*, pp. 2-3.
+*Coen, Koopman van Heeren Zeventien. Geschiedenis van den Hollandshen Handel in Indië (1598-1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. De Boer Jr., 1948), Hoofdstuk V "Voorgangers, Hollanders en mededingers tot 1614. Atjeh. Djohor. Malaka." (pp. 134-140).
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, OCR text, pp. 80‑82.

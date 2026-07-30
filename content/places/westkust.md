@@ -1,8 +1,36 @@
 ---
 title: Westkust
-aliases: [Westkust van Atjeh, West Coast of Aceh, Westkust van Sumatra, "the West Coast of Atjeh", "de Westkust"]
-tags: [place, region, coast, aceh, aceh-war, westkust, 19th-century, 20th-century, colonial, dutch, onderhoorigheden, scheepvaartregeling]
-description: "The western coast of Aceh, the heartland of the most protracted guerrilla resistance in the Aceh War, including the landschappen of Lhong, Leupoeëng, Meulaboh, Seunagan, Djeuram, Bakongan, Troemon, Kloeët, and the Boven-Wojla; renowned among Dutch troops for the fanatieke klewangaanvallen of its inhabitants."
+aliases:
+- Westkust van Atjeh
+- West Coast of Aceh
+- Westkust van Sumatra
+- the West Coast of Atjeh
+- de Westkust
+- West Coast of Sumatra
+- Sumatra's Westkust
+- Sumatra's West Coast
+- Sumatra's Westkust van 1650-1791
+- Sumatras Westkust
+tags:
+- place
+- region
+- coast
+- aceh
+- aceh-war
+- westkust
+- 19th-century
+- 20th-century
+- colonial
+- dutch
+- onderhoorigheden
+- scheepvaartregeling
+- sumatra
+- achehnese
+- concept
+description: The western coast of Aceh, the heartland of the most protracted guerrilla
+  resistance in the Aceh War, including the landschappen of Lhong, Leupoeëng, Meulaboh,
+  Seunagan, Djeuram, Bakongan, Troemon, Kloeët, and the Boven-Wojla; renowned among
+  Dutch troops for the fanatieke klewangaanvallen of its inhabitants.
 ---
 
 **Westkust** — the West Coast of [[Atjeh|Aceh]], in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s spelling also *de Westkust* — was the heartland of the most protracted and fanatieke guerrilla resistance in the [[Aceh War|Atjeh-oorlog]]. Comprising the landschappen of [[Lhong]], [[Leupoeëng|Leupoeëng]], [[Meulaboh]], [[Seunagan]], [[Djeuram]], [[Bakongan]], [[Troemon]], [[Kloeët]], and the Boven-Wojla federation of the Kawaj XII, the Westkust was *bosch en bergen* — *ruig land* eigende zich het meest for the *plotselinge aanvallen uit hinderlagen*. In Van Heutsz's [[1893]] tract *De onderwerping van Atjeh*, the Westkust is also the coastal region of the [[Atjeh|Atjehnese]] [[Onderhoorigheden]] comprising the statelets of [[Loong]], [[Melaboeh]], [[Telok-Kroet]], [[Troemon]] and the smaller statelets of the *Zuidelijke nederzettingen* (Kloewang, Tampat Toean, Rigas, Tenom, Senagan, Tamsih, Gempang). The Westkust served — with the [[Noordkust]] and the [[Oostkust]] — as one of the three coastal divisions on which the war's outcome turned.
@@ -95,9 +123,47 @@ The Westkust was, in Van Heutsz's diagnosis, the southern approach to the Gleh L
 - [[1891]]
 - [[1893]]
 - [[1898]]
+- [[Atjeh]]
+- [[Painansch Contract]]
+- [[Sultana of Atjeh (Taj ul-Alam)]]
+- [[Iskandar Muda of Atjeh]]
+- [[Tikoe]]
+- [[Priaman]]
+- [[Padang]]
+- [[Indrapoera]]
+- [[Salido]]
+- [[Poeloe Tjingkoek]]
+- [[Painan]]
+- [[Taroesan]]
+- [[Bajang]]
+- [[Paoeh]]
+- [[Kotta Tengah]]
+- [[Baros]]
+- [[Singkel]]
+- [[Agam]]
+- [[Ajerbangis]]
+- [[Ajerhadji]]
+- [[Benkoelen]]
+- [[Batang Kapas]]
+- [[Silebar]]
+- [[Menangkabau]]
+- [[Tinkwartieren]]
+- [[panglima-radja]]
+- [[Atjehsche Jorrendayyers]]
+- [[Vereenigde Oost-Indische Compagnie]]
+- [[Sumatra]]
+- [[Sumatra's East Coast]]
+- [[Bencoolen]]
+- [[Tapanoeli]]
+- [[Sir Thomas Stamford Raffles]]
+- [[Anglo-Dutch Treaty of London (1814)]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
+- [[P. H. van der Kemp]]
 
 ## Sources
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 10, 14, 17, 22, 28, 30, 32, 34, 36, 40, 56, 62, 84, 94. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 14–23 (tekst bij blad 4: *Atjeh en de Westkust van Sumatra in 1684*) en blz. 1–7 (tekst bij blad 5: *De Compagnie in den Archipel na 1684 tot 1791 — Sumatra: Atjeh en de Westkust*).
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.

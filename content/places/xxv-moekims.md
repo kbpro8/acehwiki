@@ -1,7 +1,43 @@
 ---
-title: "XXV Moekims"
-aliases: ["25 Moekims", "25 Sagi", "Dua Puluh Lima Mukim", "Sagi XXV", "Vijfentwintig Moekims", "XXV Mukims", "de Sagi's XXV", "de XXV Moekims"]
-tags: [place, 19th-century, aceh, aceh-war, acehnese, achehnese, administration, administrative-division, atjeh, district, groot-atjeh, moekim, mukim, region, sagi, xxv-moekims]
+title: XXV Moekims
+aliases:
+- 25 Moekims
+- 25 Sagi
+- Dua Puluh Lima Mukim
+- Sagi XXV
+- Vijfentwintig Moekims
+- XXV Mukims
+- de Sagi's XXV
+- de XXV Moekims
+- Sagi der XXV Moekims
+- 25 Mukims
+- 25 Moekim
+- Twenty-five Moekims
+- 25 Mukim
+- Sagi of the 25 Moekims
+- Twenty-five Mukims
+- Sagi of XXV Mukims
+tags:
+- place
+- 19th-century
+- aceh
+- aceh-war
+- acehnese
+- achehnese
+- administration
+- administrative-division
+- atjeh
+- district
+- groot-atjeh
+- moekim
+- mukim
+- region
+- sagi
+- xxv-moekims
+- sultanate
+- sumatra
+- seaward-sagi
+- dutch-occupation
 ---
 
 The **XXV Moekims** (Vijfentwintig Moekims, "Twenty-Five Mukims") — in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s spelling also *Sagi XXV* or *de Sagi's XXV* — was the *sagi* (confederation) of twenty-five *mukim* (parish) units lying south of the [[Atjeh-rivier]] between the [[III Moekims|III Moekims]] and the [[XXII Moekims|XXII Moekims]], entirely conquered by [[Generaal Pel|Pel]]'s first offensive sweep of early February [[1876]]. Borel notes that "de geheele Sagie der XXV Moekims bevond zich in onze macht" — the entire Sagie of the XXV Moekims was in our power — after the operation. In Van Heutsz's [[1893]] tract *De onderwerping van Atjeh*, the XXV Moekims is also the third chapter of the Van der Heijden conquest — the Sagi whose September [[1879]] reconnaissance fixed the *geheel Groot-Atjeh* of the dagorder's declaration, and the territory of the post-[[1884]] resistance's fragmentation under the *panglima sagi XXV* Tjoet Abas.
@@ -54,6 +90,12 @@ The XXV Moekims was led by prominent war commanders including [[Teuku Imam Lueng
 
 However, resistance led by [[Teuku Imam Lueng Batoh]] and his lieutenant [[Panglima Mah Saleh]] soon resumed. Throughout [[1874]] and [[1875]], warriors from the XXV Moekims defended bentengs at [[Lemboe]] and Longbattah, engaging in continuous guerrilla warfare against Dutch occupation garrisons.
 
+
+## Sources
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21, 339.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI (the geography of Groot-Atjeh). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 30.
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
 ## See Also
 
 - [[1875]]
@@ -102,6 +144,40 @@ However, resistance led by [[Teuku Imam Lueng Batoh]] and his lieutenant [[Pangl
 - [[VI Moekims]]
 - [[XXII Moekims]]
 - [[XXVI Moekims]]
+- [[Sagi der XXII Moekims]]
+- [[Sagi der XXVI Moekims]]
+- [[sagi]]
+- [[moekim]]
+- [[Biloel]]
+- [[Lamkoenjit]]
+- [[Tjot Goeë]]
+- [[buitenlinie]]
+- [[Defection of Teuku Umar (29 March 1896)]]
+- [[1896]]
+- [[Sagi (Atjeh)]]
+- [[22 Moekims]]
+- [[26 Moekims]]
+- [[Sultan's gebied]]
+- [[Moekim (Atjehese unit)]]
+- [[Tweede Atjeh-expeditie (1873-1874)]]
+- [[Conquest of the Kraton (24 January 1874)]]
+- [[Kraton of Aceh]]
+- [[Kota Radja]]
+- [[Oleh-leh]]
+- [[Atjeh River]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Aceh War]]
+- [[Atjeh-oorlog]]
+- [[January 1874]]
+- [[1874]]
+- [[Acheh]]
+- [[Banda Acheh]]
+- [[Three Sagis]]
+- [[XXII Mukims]]
+- [[XXVI Mukims]]
+- [[Panglima Polem|Panglima Polim]]
+- [[Three Sagis' letter to Penang (4 December 1822)]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
 
 ## Source
 

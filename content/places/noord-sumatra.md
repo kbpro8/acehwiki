@@ -1,7 +1,20 @@
 ---
 title: Noord-Sumatra
-aliases: ["Noord-Sumatra", "North Sumatra", "Nord-Sumatra", "Northern Sumatra"]
-tags: ["place", "region", "acheh", "sumatra", "precolonial"]
+aliases:
+- North Sumatra
+- Nord-Sumatra
+- Northern Sumatra
+- Noord Sumatra
+- Noordelijke helft van Sumatra
+tags:
+- place
+- region
+- acheh
+- sumatra
+- precolonial
+- geography
+- population
+- colonial
 ---
 
 **Noord-Sumatra** — North Sumatra — is the region of [[Sumatra]] in which, according to *Nederlanders over de Zeeën*, the great Venetian traveller [[Marco Polo|Marco Polo]] had already observed Muslim state-formation by the late thirteenth century, and in which, in the sixteenth century, "begint [...] het grote rijk van Atjeh zijn vleugels uit te slaan" (the great kingdom of Atjeh begins to spread its wings). The region is the geographical cradle of the [[Acheh|Atjeh]] sultanate.
@@ -18,6 +31,10 @@ The source records that, in the sixteenth century, "begint [...] het grote rijk 
 
 [[Noord-Sumatra|North Sumatra]] is the geographical cradle of the [[Acheh|Atjeh]] sultanate. The [[Marco Polo|Marco Polo]] observation of thirteenth-century Muslim state-formation and the sixteenth-century rise of [[Acheh|Atjeh]] are, in the source's narrative, the two foundational acts of Atjehnese history.
 
+
+## Sources
+*Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter II (Land en Volk), p. 24.
+
 ## See Also
 
 - [[Acheh]]
@@ -27,6 +44,11 @@ The source records that, in the sixteenth century, "begint [...] het grote rijk 
 - [[Straat Malakka]]
 - [[13th century]]
 - [[16th century]]
+- [[Atjehers]]
+- [[Islam in Aceh|Islam in Atjeh]]
+- [[Perlak]]
+- [[Pasé]]
+- [[Kota Radja]]
 
 ## Source
 

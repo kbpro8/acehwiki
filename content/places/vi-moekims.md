@@ -1,7 +1,38 @@
 ---
-title: "VI Moekims"
-aliases: ["6 Moekims", "6 Mukims", "Enam Mukim", "Sagi der VI Moekims", "VI Moekim", "VI Moekims", "VI Moekims Lam-Pisang", "VI Moekims of Groot-Atjeh", "VI Mukims", "the Six Moekims"]
-tags: [place, 19th-century, aceh, aceh-war, achehnese, administrative-division, district, groot-atjeh, military, mukim, region, sagi, sultanate]
+title: VI Moekims
+aliases:
+- 6 Moekims
+- 6 Mukims
+- Enam Mukim
+- Sagi der VI Moekims
+- VI Moekim
+- VI Moekims Lam-Pisang
+- VI Moekims of Groot-Atjeh
+- VI Mukims
+- the Six Moekims
+- VI Moekim's of Groot-Atjeh
+- 6 Mukims of Atjeh
+- Lhee Sagoe
+- Six Mukims of Greater Aceh
+- VI Moekim's
+- VI Mukim Groot-Atjeh
+tags:
+- place
+- 19th-century
+- aceh
+- aceh-war
+- achehnese
+- administrative-division
+- district
+- groot-atjeh
+- military
+- mukim
+- region
+- sagi
+- sultanate
+- administrative-unit
+- islamic
+- organization
 ---
 
 **The VI Moekims** — the "Six Mukims" — were one of the smaller mukim-clusters of [[Groot-Atjeh]] — the northernmost triangle of [[Sumatra]] that formed the heartland of the [[Sultanate of Atjeh|Atjehnese sultanate]]. The VI Moekims formed the western segment of the territory enclosed by the Dutch *geconcentreerde linie* after the Dutch retreat from the interior of [[Groot-Atjeh]] in [[1884]], and they were — together with the [[XXII Moekims|XXII]], [[XXV Moekims|XXV]] and [[XXVI Moekims]] — one of the principal administrative subdivisions of the late sultanate and of the Dutch colonial order that succeeded it. As described in [[A. Kruisheer|Kruisheer]]'s *ATJEH '96*, the VI Moekims were also the western power-base of [[Teuku Umar]] (*Toekoe Oemar*) in the [[Aceh War|Atjeh-oorlog]], including the kampongs of [[Lam-Pagar]], Lam-Badak, [[Lam-Baroe]], [[Lam-Tengah]], and [[Lam-Isi]], and together with the neighbouring [[IV en VI Moekims|IV Moekims]] formed the principal theatre of Umar's defensive *stellingen* against the Dutch counter-offensive of May [[1896]].
@@ -48,6 +79,12 @@ The VI Moekims under [[Toekoe Nanta]] was from the outset of the war hostile bot
 
 The conquest of the VI Moekims began on [[26 December]] [[1875]] with the launch of [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|Pel's three-colonne offensive]] under his personal leiding. [[Majoor Vetter|majoor Vetter]] bezette Mibouw ten zuiden van [[Kota Radja|K. Radja]]; [[Majoor F. J. E. Mekern|majoor F. J. E. Mekern]] took stelling between Mibouw and the [[Kroeng Daroe]] but was *doodelijk gewond*; [[Luitenant-kolonel Engel|lt.-kol. Engel]] advanced along the right bank of the Kroeng Daroe. [[Ketapang Doewa]] fell on [[27 December]] [[1875]], [[Djempit]] and Pakan Badak on [[28 December]] [[1875]], [[Lamtengah]] on [[8 January]] [[1876]]. The VI Moekims kern was attacked. On [[10 January]] [[1876]] the *opperhoofd* of [[Lampagger]] submitted and a post was opgericht. The march through the [[Blang Kalla]] kloof on [[15 January]] [[1876]] reached Loenga on the right bank of the [[Kroeng Raba]] mouth, opening the [[IV Moekims]] for invasion. The VI Moekims was conquered, and the way was prepared for the [[IX Moekims|IX Moekims invasion]] of [[28 January]] [[1876]] through the [[Glitaroem]] pass.
 
+
+## Sources
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 246.
+
+*De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), vol. II, p. 315.
+
 ## See Also
 
 - [[Toekoe Nanta]]
@@ -63,6 +100,20 @@ The conquest of the VI Moekims began on [[26 December]] [[1875]] with the launch
 - [[Pel's Buitenzorg planning session (1875)]]
 - [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
 - [[Stelling-Pel]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
+- [[Groot-Atjeh]]
+- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Poelo Breuëh]]
+- [[Rabò annual seven-day feast]]
+- [[Rabò]]
+- [[Snouck Hurgronje's De Atjehers ([[1893]]-94)]]
+- [[XXII Moekim's]]
+- [[XXV Moekim's]]
+- [[meunasah]]
+- [[mukim]]
+- [[teungkoe meunasah]
+---
+The **VI Moekim's of Groot-Atjeh** (the Six *Mukim*s of Greater Aceh) were a federation of six *mukim* — the Islamic administrative unit (from Arabic *muqīm*, literally "settled" or "resident") used in [[Acheh|Atjeh]] to organise the territorial-administrative structure of the sultanate — that formed one of the principal territorial federations of the [[Groot-Atjeh|Groot-Atjeh]] heartland around [[Banda Acheh|Koetaradja]]. The VI Moekim's are mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 246) as the inhabitants who, in the period documented by [[C. Snouck Hurgronje|Snouck Hurgronje]], held the [[Rabò annual seven-day feast|annual seven-day beach feast at Rabò]] — the seventh day of which culminated in the ritual sacrifice of a buffalo that was first stabbed and then led bleeding over all the rice-fields.
 
 ## Source
 

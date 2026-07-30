@@ -1,7 +1,40 @@
 ---
 title: Pante Perak
-aliases: [Pantej Perak, Pantai Perak, Pante Perak camp, Pante Perak hospital, Grasvlakte van Pantej Perak, Plain of Pante Perak, Panteh Perak, Pante Peusangan, Panté Pirak, Panteh Perak military hospital, Atjeh military hospital, Kotta-Radja hospital]
-tags: [place, camp, hospital, aceh, koeta-radja, infrastructure, military-hospital, achehnese, colonial, dutch, atjeh, groot-atjeh, 19th-century, aceh-war, medical-site]
+aliases:
+- Pantej Perak
+- Pantai Perak
+- Pante Perak camp
+- Pante Perak hospital
+- Grasvlakte van Pantej Perak
+- Plain of Pante Perak
+- Panteh Perak
+- Pante Peusangan
+- Panté Pirak
+- Panteh Perak military hospital
+- Atjeh military hospital
+- Kotta-Radja hospital
+- Pantei Perak
+- Silver Beach Aceh
+- Pantei-Perak Hospital
+tags:
+- place
+- camp
+- hospital
+- aceh
+- koeta-radja
+- infrastructure
+- military-hospital
+- achehnese
+- colonial
+- dutch
+- atjeh
+- groot-atjeh
+- 19th-century
+- aceh-war
+- medical-site
+- hospital-site
+- hospital-station
+- encampment
 ---
 
 **Pante Perak** (also written Pantej Perak; modern Pantai Perak, "silver beach") is the grass plain to the north of [[Koeta Radja|Koeta Radja]] on which both the principal hospital of the Dutch garrison and a temporary troop camp were established in the early years of the [[Aceh War|Atjeh-oorlog]]. The hospital at Pante Perak was the place of work of [[Dominee Thenu|Dominee Thenu]], the soldiers' minister who comforted and lifted up the wounded, the sick, and the sorrowful. The troop camp, built in [[1875]] by the Staf der Genie at [[Koeta Radja|Kota Radja]] under the direction of [[Cornelis Jacobus Snijders|Tweede-Luitenant C. J. Snijders]], relieved the pressure of quarters in the [[Kraton of Aceh|Kraton]] itself and in [[May 1875|May]] [[1875]] received the [[Bataillon Mineurs en Sappeurs|Compagnie Mineurs en Sappeurs]], "hetgeen in vergelijking met het tot dusver in gebruik zijnde logies in den Kraton een grooten vooruitgang beteekende."
@@ -76,6 +109,18 @@ Panteh Perak's significance for the encyclopedia of [[Acheh|Achehnese]] history,
 - [[S. Kalff]]
 - [[Molokaï]]
 - [[Vierhonderd jaren missie in Nederlandsch Indië (1934)]]
+- [[Kota Radja]]
+- [[Penajoeng]]
+- [[Atjeh-rivier]]
+- [[Bandjir flood of Kota Radja (December 1874)]]
+- [[Cholera catastrophe at Kota Radja (February 1875)]]
+- [[Stelling-Pel]]
+- [[Kettinggangers in Atjeh]]
+- [[Field Hospital and Cholera Epidemics in Aceh]]
+- [[Medical Service in Aceh]]
+- [[J. L. J. H. Pel]]
+- [[Second Aceh Expedition]]
+
 ## Sources
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, [[1947]]), the chapter on den zieleherder.
@@ -83,3 +128,6 @@ Panteh Perak's significance for the encyclopedia of [[Acheh|Achehnese]] history,
 D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), p. 33. Koninklijke Bibliotheek shelfmark 0301 4872.
 
 *Vierhonderd jaren missie in Nederlandsch-Indië, 1593–1934* (Batavia: Algemeen Comité van Voorbereiding tot de Feestelijke Herdenking van 400 jaar Missie in Ned.-Indië, [1934]), pp. 130–132, after S. Kalff, "Een trits Indische Pastoors," in *Koloniaal Missie Tijdschrift*, Jaargang XII.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 254–256, 263.
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889.
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 68-72.

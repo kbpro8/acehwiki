@@ -1,7 +1,26 @@
 ---
-title: "Pedro-punt"
-aliases: ["Cape Pedro", "Pedro Point", "Pedropunt", "Petro-punt"]
-tags: [place, aceh-war, cape, coastal, colonial, dutch, geography, landing-place, landing-site]
+title: Pedro-punt
+aliases:
+- Cape Pedro
+- Pedro Point
+- Pedropunt
+- Petro-punt
+- Tanjong Pedro
+- Tanjung Pedro
+- Cape Pedropunt
+- Ujong Pedro
+tags:
+- place
+- aceh-war
+- cape
+- coastal
+- colonial
+- dutch
+- geography
+- landing-place
+- landing-site
+- coast
+- north-coast
 ---
 
 **Pedro-punt** (Pedropunt, also Petro-punt) was the headland east of the kampong Gigieng on the north coast of Atjeh at which the [[Second Aceh Expedition (1873–1874)|second Aceh expedition]] under [[Jan van Swieten|generaal van Swieten]] made its [[Landing at Pedro-punt (6 December 1873)|landing on 6 December 1873]]. Borel calls the choice "uitstekend bedacht en zeer goed uitgevoerd," since the Atjehneezen had not expected a descent on that point and were found unprepared. From Pedro-punt the Dutch column marched victoriously along the strand until it reached the [[Atjeh-rivier]] and occupied [[Penajoeng]] as its base.
@@ -22,6 +41,10 @@ During the [[Second Aceh Expedition]] in December [[1873]] and January [[1874]],
 
 In *Atjeh gedurende de tweede expeditie en later* ([[1876]]), the author compared the March of General [[J. van Swieten]] from Pedro Punt to [[Penajoeng]] with the later offensive movements of General [[J. L. J. H. Pel]], noting that the marshy, intersected terrain behind Cape Pedro presented severe logistical obstacles for the [[Transport and Coolie System in Aceh]].
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Generaal Verspijck]]
@@ -36,6 +59,12 @@ In *Atjeh gedurende de tweede expeditie en later* ([[1876]]), the author compare
 - [[Radja van Gigieng]]
 - [[Second Aceh Expedition (1873–1874)]]
 - [[Transport and Coolie System in Aceh]]
+- [[North Coast (of Acheh)]]
+- [[Krueng Raya]]
+- [[Lho Seumawe]]
+- [[Great Acheh]]
+- [[Pidie]]
+- [[Pulo Breueh]]
 
 ## Source
 

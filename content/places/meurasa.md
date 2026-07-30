@@ -1,8 +1,20 @@
 ---
-title: "Meura'sa"
-aliases: ["cutters of repute whose chief work was the", "Mukim Meura'sa", "Mu'ëra Sa", "Meurasa", "Alura'sa", "the great mukim of Meura'sa"]
-
-tags: [place, aceh-proper, mukim, uleebalangship, lowland, xxv-mukims]
+title: Meura'sa
+aliases:
+- cutters of repute whose chief work was the
+- Mukim Meura'sa
+- Mu'ëra Sa
+- Meurasa
+- Alura'sa
+- the great mukim of Meura'sa
+tags:
+- place
+- aceh-proper
+- mukim
+- uleebalangship
+- lowland
+- xxv-mukims
+- gampong
 ---
 
 A district and gampong near the capital of [[Acheh]]. In the lowland districts, especially in
@@ -35,6 +47,10 @@ The intimate connexion of the Meura'sa house with the royal family was exhibited
 
 The people of Meura'sa were generally regarded as having taken the foremost place among those disposed to submission to the Dutch from the very first. They were said to be of the opinion that the wisest course would be to submit to the first *kafir* power that came by; they had, however, maintained *en fond* their old doctrine in regard to infidels, owing to the ephemeral nature of the impression they had received during the last twenty years of the power of the Gompeuni. They added that they found it too troublesome to put this doctrine in practice owing to the exposed position of their territory. Even the people of Meura'sa and [[Gampong Jawa|Gampong Jawa]], who had wholly compromised themselves by complete submission, called all Dutch authorities *jihi* and spoke without the slightest intention to give offence of the regulations of the *kaphè*.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 2, 7, pp. 24, 126.
+
 ## See Also
 
 - [[Acheh]]
@@ -55,6 +71,10 @@ The people of Meura'sa were generally regarded as having taken the foremost plac
 - [[Pulo Batee]]
 - [[Gampong Jawa]]
 - [[Keumala]]
+- [[Banda Acheh]]
+- [[Gampong]]
+- [[Mukim]]
+- [[Uleebalang]]
 
 ## Source
 

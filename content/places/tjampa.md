@@ -1,7 +1,22 @@
 ---
 title: Tjampa
-aliases: [Tjampa, Champa, Campa, Cham polity, Kingdom of Champa]
-tags: [place, mainland-southeast-asia, precolonial, austronesian]
+aliases:
+- Champa
+- Campa
+- Cham polity
+- Kingdom of Champa
+- Cham
+- Tsiampa
+- Chams
+- Cham language
+tags:
+- place
+- mainland-southeast-asia
+- precolonial
+- austronesian
+- people
+- language
+- foreign
 ---
 
 **Tjampa** — Dutch spelling of *Champa*, the Indianised polity of the Cham people that flourished along the central and southern coast of modern Vietnam from approximately the second to the nineteenth century CE — is named in Dr. [[F. H. van Naerssen|Van Naerssen]]'s chapter *De oudste cultuurstreamen* in *[[Wat Indië Ontving en Schonk]]* ([[1946]]) as the probable *stamland* (homeland) of the Austronesian (Malay-Polynesian) language family. Van Naerssen's wording, summarising the conclusion of the Dutch linguist Kern: "On the basis of these and other considerations, which we will not name here, Kern comes to the conclusion that the *stamland* probably lay in Tjampa, Cochin-China, Cambodja and the adjacent regions along the sea."
@@ -37,6 +52,10 @@ For the [[Acheh|Atjeh]]-focused reader, Tjampa's significance is foundational: i
 - *langgala* — plough (Sanskrit)
 - *langa* — plough (Atjeh form)
 - *Dr.* — Doctor
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Atjehnese langa (plough)]]
@@ -47,6 +66,8 @@ For the [[Acheh|Atjeh]]-focused reader, Tjampa's significance is foundational: i
 - [[Acheh]]
 - [[F. H. van Naerssen]]
 - [[Wat Indië Ontving en Schonk]]
+- [[Bahnar]]
+- [[Gayo]]
 
 ## Source
 

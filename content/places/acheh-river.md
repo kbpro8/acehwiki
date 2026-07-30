@@ -1,7 +1,39 @@
 ---
 title: Acheh River
-aliases: [Krueng Acheh, Kuala Acheh, Aceh River, Acheh River, Krueng Aceh, Sungai Aceh, Atjeh-rivier, Acheen River]
-tags: [place, river, waterway, capital, banda-aceh, coast]
+aliases:
+- Krueng Acheh
+- Kuala Acheh
+- Aceh River
+- Krueng Aceh
+- Sungai Aceh
+- Atjeh-rivier
+- Acheen River
+- Atjeh river
+- rivier van Atjeh
+- de Atjeh-rivier
+- Atjehrivier
+- Kroeëng Atjeh
+- Mouth of the Acheh River
+- Kuala Achèh
+- River-mouth of the Aceh
+tags:
+- place
+- river
+- waterway
+- capital
+- banda-aceh
+- coast
+- atjehnese
+- geography
+- atjeh
+- hydrography
+- dutch-colonial
+- groot-atjeh
+- aceh
+- 1873
+- military
+- aceh-proper
+- river-mouth
 ---
 
 **The Acheh River** (*Krueng Acheh*, debouchement *Kuala Acheh*) was the principal river of [[Great Acheh]] and an important geographic and administrative landmark. The mouth of the Acheh River — the *kuala Acheh* — suggested to the Acehnese fancy the somewhat sharply pointed mouth of a *jeuëë* (winnowing-basket), which they used as a metaphor for the shape of their homeland.
@@ -51,6 +83,13 @@ The river-mouth reappears in [[Robert Fullerton|Fullerton]]'s minute of [[21 Mar
 The Acheh River also gave its name to the description of the *Wilhelmina* affair, in which [[Lieutenant Marx Bouwens|Bouwens]] was murdered "op de hoogte van Atjeh" — off Acheh — before his ship drifted on to [[Pasangan]] and [[Telok Semawé]].
 
 
+
+## Sources
+*Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter XI ("Atjehsche ambassade. Inlandsche feesten. Maagden als losprijs"), pp. 39–43 of the numbered-letter sequence.
+*De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), pp. 11–12, 28–29.
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, p. 125.
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Great Acheh]]
@@ -78,6 +117,53 @@ The Acheh River also gave its name to the description of the *Wilhelmina* affair
 - [[Fullerton's minute on Acheh (21 March 1825)]]
 - [[Death of Sultan Jauhar Alum]]
 - [[Wilhelmina mutiny and murder of Bouwens]]
+- [[Dutch lodge at Atjeh]]
+- [[Pieter Soury's mission to Atjeh (1641)]]
+- [[Pieter Soury]]
+- [[Jan van Riebeeck]]
+- [[Jacob Compostel]]
+- [[Sabandaar]]
+- [[Eunuchs of Atjeh court]]
+- [[Sultana of Atjeh (1641)]]
+- [[Joris van Spilbergen|Joris van Spilbergh]]
+- [[James Lancaster]]
+- [[Augustin de Beaulieu]]
+- [[Robert Gravé]]
+- [[1641]]
+- [[1602]]
+- [[1621]]
+- [[De Buitenbezittingen, Deel II, Aflevering 1]]
+- [[Buitenbezittingen]]
+- [[Groot-Atjeh]]
+- [[Koeta Radja]]
+- [[Oelèë Lheuë]]
+- [[Kroeëng]]
+- [[Kroeëng Wojla]]
+- [[Kroeëng Teunom]]
+- [[Lao Alas]]
+- [[Barisan]]
+- [[Atjehsche Staatsspoorwegen]]
+- [[Atjeh-tram]]
+- [[Kraton Atjeh]]
+- [[1917]]
+- [[Pedir]]
+- [[Sloepenflottielje]]
+- [[Captain-terr zee W. Sutherland]]
+- [[Aceh War (1873–1904)]]
+- [[J. L. J. H. Pel|General Pel]]
+- [[Kajoe‑leh]]
+- [[Lambaroe]]
+- [[Pajar‑Ajer]]
+- [[Kota Radja]]
+- [[Abdurra'uf of Singkel]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
+- [[Malem Dagang]]
+- [[Si Ujut]]
+- [[Singkel]]
+- [[Teungku Anjong]]
+- [[Dalam]]
+- [[Both lanchang (setting afloat of a lanchang)]]
+- [[Kanduri la'ot (Sea-kanduri)]]
 
 ## Source
 

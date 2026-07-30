@@ -1,7 +1,27 @@
 ---
 title: Rijk Gasip
-aliases: [Gasip, Gasip rijk, Kingdom of Gasip, Soengei Gasip, Realm of Gasip, Gasip kingdom]
-tags: [place, malay, precolonial, sumatra, oostkust-van-sumatra, buitenbezittingen, siak, kingdom]
+aliases:
+- Gasip
+- Gasip rijk
+- Kingdom of Gasip
+- Soengei Gasip
+- Realm of Gasip
+- Gasip kingdom
+- Sungai Gasip
+- Gasip River
+- Gasip rivier
+- Rivier Gasip
+- Soengei Gasip (Gasip River)
+tags:
+- place
+- malay
+- precolonial
+- sumatra
+- oostkust-van-sumatra
+- buitenbezittingen
+- siak
+- kingdom
+- river
 ---
 
 **The Rijk Gasip** — the kingdom of Gasip — was, in the Encyclopaedisch Bureau's survey of the [[Buitenbezittingen|Outer Possessions]], the powerful pre-colonial Sumatran realm that, before the rise of the [[Siak|Sultanate of Siak]], had stretched from the lower [[Siak|Siak River]] deep into the southern interior of [[Sumatra]] as far as the legendary Minangkabau kingdom of [[Pagarroejoeng]]. Destroyed in the early sixteenth century by the [[Acheh|Atjehsche rijk]] in alliance with the [[orang-Pandan|orang-Pandan]] of the [[Petalangan]] country, Gasip left its name to the [[Soengei Gasip|Soengei Gasip]] (the Gasip River), along whose banks — the Bureau records — "remnants of the kraton must still be found in the primeval forest"; and it left its political memory to the [[Siak|Siaksche hoofden]] who, even in the colonial period, traced the origin of their *kabesaran* (regal ornaments) back to the destroyed realm.
@@ -28,6 +48,12 @@ The destruction of Gasip opened the lower [[Siak|Siak River]] to a new contender
 
 The Rijk Gasip is, in the Encyclopaedisch Bureau's survey, the southern counterpart of the [[rijk Aroe|Batakrijk Aroe]] — the great pre-colonial realm of the southern East Coast, as Aroe was of the northern. Its destruction by [[Acheh|Atjeh]] is the earliest of the [[atjehsche-overheersing-der-noordelijke-kuststaatjes|Atjehnese interventions on the East Coast]] recorded in the Bureau's survey, and the deportation of its princes is the precedent for the later, more systematic Atjehnese deportations under [[Sultan Iskander Muda|Iskander Moeda]]. The survival of Gasip's memory in the *kabesaran* of the [[Siak|Siak]] chiefs is the institutional hinge by which the [[Siak|Siak sultanate]] presented itself as the heir of the destroyed realm — a claim that would, in the nineteenth century, underwrite [[Siak|Siak]]'s assertions of overlordship over the East Coast statelets.
 
+
+## Sources
+*De Buitenbezittingen, Deel II, Afl. 3: Oostkust van Sumatra. Eerste Stuk*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, [[1918]]), p. 102. Universiteitsbibliotheek Vrije Universiteit Amsterdam, shelfmark LS.08781.
+
+*Nota omtrent het Rijk van Siak*, by [[H. A. Hijmans van Anrooy|H. A. Hijmans van Anrooy]], in *Tijdschrift van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, dl. XXX ([[1885]]).
+
 ## See Also
 
 - [[Siak]]
@@ -47,6 +73,8 @@ The Rijk Gasip is, in the Encyclopaedisch Bureau's survey, the southern counterp
 - [[sultan-iskander-moeda's-oostkust-veldtocht]]
 - [[1509]]
 - [[1511]]
+- [[rijk Gasip]]
+- [[Sumatra's East Coast]]
 
 ## Source
 

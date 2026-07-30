@@ -1,7 +1,89 @@
 ---
-title: "Sabang"
-aliases: ["Sabang free port", "Sabang harbour", "Sabang coaling station", "Zeehaven Sabang", "Sabanghaven", "Sabangbaai", "Free Port of Sabang", "Sabang Island", "Poelau Wè", "Pulau We", "Sabang Harbor", "Sabang-haven", "Sabang Maatschappij", "the free port of Sabang", "Sabang (Atjeh)", "haven van Sabang", "Weh Island", "Port of Sabang", "Sabang (Poelau Weh)", "Sabang Bay", "Sabang-Mij", "Pulau Weh", "Sabang station", "Sabang leprosarium", "Sabang krankzinnigen"]
-tags: [place, harbour, free-port, trade, colonial, port, dutch, island, aceh, buitenbezittingen, ocean-port, sabang-maatschappij, haven, achehnese, sumatra, 19th-century, 20th-century, atjeh, afdeeling, organization, company, sabang, shipping, sabang-mij, atjeh-transport-mij, town, station, leprosarium, krankzinnigen, militarisch-hospitaal, administration]
+title: Sabang
+aliases:
+- Sabang free port
+- Sabang harbour
+- Sabang coaling station
+- Zeehaven Sabang
+- Sabanghaven
+- Sabangbaai
+- Free Port of Sabang
+- Sabang Island
+- Poelau Wè
+- Pulau We
+- Sabang Harbor
+- Sabang-haven
+- Sabang Maatschappij
+- the free port of Sabang
+- Sabang (Atjeh)
+- haven van Sabang
+- Weh Island
+- Port of Sabang
+- Sabang (Poelau Weh)
+- Sabang Bay
+- Sabang-Mij
+- Pulau Weh
+- Sabang station
+- Sabang leprosarium
+- Sabang krankzinnigen
+- Pulo We
+- Pulo Weh
+- We Island
+- Poeloe Wé
+- P. Wé
+- Eiland Wé
+- Sabang-baai / Poeloe Weh
+- Sabang-baai
+- Poelou Weh
+- kampong Sabang
+- Poelau Way
+- Pulau Way
+- Poelau Way (Atjeh)
+- Pulo Wei
+- Pulo Way
+- Poeloe Wè
+- P. We
+- Poelau We
+tags:
+- place
+- harbour
+- free-port
+- trade
+- colonial
+- port
+- dutch
+- island
+- aceh
+- buitenbezittingen
+- ocean-port
+- sabang-maatschappij
+- haven
+- achehnese
+- sumatra
+- 19th-century
+- 20th-century
+- atjeh
+- afdeeling
+- organization
+- company
+- sabang
+- shipping
+- sabang-mij
+- atjeh-transport-mij
+- town
+- station
+- leprosarium
+- krankzinnigen
+- militarisch-hospitaal
+- administration
+- coast
+- tombstone
+- acheh
+- military
+- precolonial
+- 17th-century
+- hydrography
+- dutch-colonial
 ---
 
 **Sabang** was the free port and coaling station developed on the northern bay of
@@ -302,6 +384,21 @@ Sabang is the principal harbour of call at the northern entrance to the Straits 
 
 On [[14 December]] [[1909]] Swart went to Sabang to pay his respects to the new Governor-General [[Alexander Willem Frederik Idenburg|Idenburg]], who approved his political conduct entirely and promised all possible support, asking him expressly to take no notice of the press campaign against him. On [[22 December]] he was at Sabang again "to say goodbye to the retiring Governor-General, my unforgettable teacher ([[Joannes Benedictus van Heutsz|Van Heutsz]]). His Excellency was in high spirits and left the Indies with a contented mind."
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*De Europeesche Industrie* ["The European Industry"], section *De Buitenbezittingen* ("The Outer
+
+Possessions"), in *Grooten van Zee en Land in Nederlandsch-Indië*, Vol. 6, pp. 243–244 (English
+
+translation from the Dutch).
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 15–16, 25, 46–47, 243–244.
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 144, 514, 781.
+*Coen, Koopman van Heeren Zeventien. Geschiedenis van den Hollandshen Handel in Indië (1598-1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. De Boer Jr., 1948), Hoofdstuk V "Voorgangers, Hollanders en mededingers tot 1614. Atjeh. Djohor. Malaka." (p. 113).
+*De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), pp. 12, 26.
+
 ## See Also
 
 - [[1.3.6. force]]
@@ -380,6 +477,40 @@ On [[14 December]] [[1909]] Swart went to Sabang to pay his respects to the new 
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Pulo Batee]]
+- [[Pulo Breueh]]
+- [[Ulee Lheue]]
+- [[Meura'sa]]
+- [[Banda Acheh]]
+- [[Balohan]]
+- [[Oelèë Lheuë]]
+- [[Sultans of Atjeh]]
+- [[1884]]
+- [[1887]]
+- [[1911]]
+- [[1914]]
+- [[Marine]]
+- [[Oleh-leh]]
+- [[H. M. Merapi]]
+- [[Naval Demonstration in Kroeng-Rababaai (1–4 May 1896)]]
+- [[Marine Bombardment of Lepong (25 May, 4–5, 8–9 June 1896)]]
+- [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)]]
+- [[kampong Sabang]]
+- [[1896]]
+- [[Paulus van Caerden]]
+- [[Paulus van Caerden's Atjeh visit (1600-1601)]]
+- [[Sultan of Atjeh (1589-1604)]]
+- [[Bantam]]
+- [[1601]]
+- [[De Buitenbezittingen, Deel II, Aflevering 1]]
+- [[Goudberg]]
+- [[Weesberg]]
+- [[Poeloe Breuë]]
+- [[Barisan]]
+- [[Oorlogsdetachement Sabang]]
+- [[Sabang bombing (22 January 1942)]]
+- [[Japanese invasion of Atjèh]]
+- [[1917]]
 
 ## Source
 

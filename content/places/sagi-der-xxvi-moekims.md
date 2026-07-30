@@ -1,7 +1,41 @@
 ---
 title: Sagi der XXVI Moekims
-aliases: ["Sagi der XXVI Moekims", "26 Mukims", "XXVI Moekims", "Sagi XXVI", "XXVI Mukims", "de Sagi's XXVI", "Sagi of 26 Mukims"]
-tags: [place, achehnese, sultanate, military, aceh-war, sagi, mukim, atjeh, 19th-century, administrative-division]
+aliases:
+- 26 Mukims
+- XXVI Moekims
+- Sagi XXVI
+- XXVI Mukims
+- de Sagi's XXVI
+- Sagi of 26 Mukims
+- Twenty-six Mukims
+- Sagi of XXVI Mukims
+- 26 Mukim
+- 26 Moekims
+- 26 Moekim
+- Twenty-six Moekims
+- Sagi of the 26 Moekims
+- 26 Sagi
+- Dua Puluh Enam Mukim
+- Zesentwintig Moekims
+tags:
+- place
+- achehnese
+- sultanate
+- military
+- aceh-war
+- sagi
+- mukim
+- atjeh
+- 19th-century
+- administrative-division
+- aceh
+- seaward-sagi
+- groot-atjeh
+- van-der-heijden
+- acehnese
+- district
+- region
+- xxvi-moekims
 ---
 
 **Sagi der XXVI Moekims** — written in Dutch as *Sagi der XXVI Moekims* and meaning "Federation of the Twenty-Six Mukims"; in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s spelling also *Sagi XXVI* or *de Sagi's XXVI* — was one of the three traditional [[sagi]] (federations of [[moekim|mukims]]) into which [[Groot-Atjeh]] was divided, comprising twenty-six mukims situated on the east coast of the [[Aceh War|Atjeh-oorlog]] theatre around the [[Toengkoeb]] post. As described in Kruisheer's *ATJEH '96*, the Sagi der XXVI Moekims was the region of the [[hoeloebalang|ulèëbalang]] [[Toekoe Nja Banta]] and of [[Toekoe Djohan Lampasei]], and contained the mukim of [[Toengkoeb]] within its territory. Together with the [[Sagi der XXV Moekims|XXV Moekims]] it is mentioned in the final Dutch assessments of [[1896]] as one of the prosperous regions under Dutch protection, in implicit contrast to the permanently hostile [[Sagi der XXII Moekims]]. In Van Heutsz's [[1893]] tract *De onderwerping van Atjeh*, the XXVI Moekims is also the closing chapter of the Van der Heijden conquest — the Sagi whose July–September [[1879]] campaign culminated in the [[Selimoen tocht (1879)|tocht naar Selimoen]] and produced the [[Day-order of 5 September 1879|dagorder]] of [[5 September]] [[1879]] declaring *geheel Groot-Atjeh ten onder gebragt* (the whole of Greater Atjeh subdued).
@@ -85,9 +119,54 @@ The XXVI Moekims's significance in Van Heutsz's [[1893]] tract rests on its bein
 - [[1881]]
 - [[1884]]
 - [[1893]]
+- [[Acheh]]
+- [[Banda Acheh]]
+- [[Three Sagis]]
+- [[XXII Mukims]]
+- [[XXV Mukims]]
+- [[Panglima Polem|Panglima Polim]]
+- [[Three Sagis' letter to Penang (4 December 1822)]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
+- [[Aceh War]]
+- [[Kemala]]
+- [[1880]]
+- [[Sagi (Atjeh)]]
+- [[22 Moekims]]
+- [[25 Moekims]]
+- [[Sultan's gebied]]
+- [[Moekim (Atjehese unit)]]
+- [[Conquest of the 26 Moekims (1-4 July 1879)]]
+- [[General van der Heijden]]
+- [[Habib Abdul Rachman El-Zahir]]
+- [[Pedir]]
+- [[Pruijs van der Hoeven]]
+- [[Laging Tobias]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Civil Government Period (1881-1884)]]
+- [[Atjeh-oorlog]]
+- [[June 1878]]
+- [[1 July]]
+- [[1898]]
+- [[Een vaderlandsch belang (Borel, 1878)]]
+- [[General van Swieten War Telegrams]]
+- [[III Moekims]]
+- [[Indische Brigade (proposed)]]
+- [[J. van Swieten]]
+- [[Kota Pohama]]
+- [[Kroeng Tjoet]]
+- [[Kwala Gigieng]]
+- [[Longbatta]]
+- [[Luitenant-kolonel Engel]]
+- [[Pinang]]
+- [[Sagi]]
 
 ## Sources
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 22–23, 122, 123, 143, 144, 146, 158, 164, 217, 325, 339, 344.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 18, 22–24, 25, 37. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+*J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni [[1855]]*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, [[1943]], Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, pp. 39-48.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI (the conquest), Chapter VIII (the loss under civil government). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 30–31, 41.
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 8-10.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 131, 200, 228, 248, 322–329, 336–337, 350–355.

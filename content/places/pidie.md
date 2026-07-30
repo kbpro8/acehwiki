@@ -1,7 +1,89 @@
 ---
-title: "Pidie"
-aliases: ["Pedir (region of Atjeh)", "the Pidië landschap", "Pedir", "Pedië", "het Pedirsche", "Pedireezen"]
-tags: [place, north-east-coast, region, coast-state, east-coast, dependency, achehnese, noordkust, onderafdeeling, pidie, noordkust-van-atjeh, atjeh, strategic, administrative-division, acheh, colonial, landschap, afdeeling, aceh, resistance, aceh-war, 19th-century, 20th-century]
+title: Pidie
+aliases:
+- Pedir (region of Atjeh)
+- the Pidië landschap
+- Pedir
+- Pedië
+- het Pedirsche
+- Pedireezen
+- Federation of Pedir
+- Kota van Pedir
+- Pedier
+- Pedir (Aceh)
+- Pedir (Atjeh North Coast state)
+- Pedir (Atjeh)
+- Pedir-vlakte
+- Pedirsche
+- Pidi
+- Pidir
+- Pidië
+- Staatje Pedir
+- State of Pedir
+- Sultanate of Pedir
+- de kust van Pedir
+- Pidié
+- Pedir region
+- Pidië (Atjehse afdeeling)
+- Pidië (landschap)
+- Pidië afdeeling
+- Afdeeling Pidië
+- Pidie valley
+- Pedirse
+- Pidie region
+- the Pedir region
+- Pedirse (region)
+tags:
+- place
+- north-east-coast
+- region
+- coast-state
+- east-coast
+- dependency
+- achehnese
+- noordkust
+- onderafdeeling
+- pidie
+- noordkust-van-atjeh
+- atjeh
+- strategic
+- administrative-division
+- acheh
+- colonial
+- landschap
+- afdeeling
+- aceh
+- resistance
+- aceh-war
+- 19th-century
+- 20th-century
+- coast
+- coastal
+- kingdom
+- military
+- north-coast
+- onderhoorigheden
+- scheepvaartregeling
+- statelet
+- town
+- coastal-state
+- pepercultuur
+- pidië
+- kawaj-xii
+- sawah
+- irrigatie
+- oeléebalang
+- historical
+- koning-van-Pidië
+- pepper
+- padiveld
+- sigli
+- irrigation
+- padang-tidji
+- lam-meulo
+- meureudoe
+- aceh-proper
+- oil
 ---
 
 The major North Coast territory and kingdom. 'The Achehnese give the name of Pidie to the whole of the territory which formerly belonged to the kingdom of that name, i.e. almost the whole of the North Coast with its hinterland.' Pidie is historically known as a seat of religious learning: 'Thus most of the learned in Great [[Acheh]] have spent the greater part of their student life in Pidie, while vice versa the studiously inclined in Pidie and on the East Coast amass their capital of knowledge in Great [[Acheh]].' The centres of learning in Pidie before the Dutch included [[Langga and Langgo]], [[Langga and Langgo]], [[Sriweue]], [[Simpang]], and [[Ie Leubeue]] (= Ayer Labu). [[Tiro]] in Pidie was 'sanctified by the presence of so many living ulamas and the holy tombs of their predecessors.' Heretical mysticism (eleumee sale) also flourished in Pidie. In the [[Hikajat Malém Dagang|Hikayat Malem Dagang]], 'The first place touched at is Pidie (vulg. Pedir), the panglima of which is handed down to fame as the bravest and most distinguished of generals.' The [[Hikayat Pochut Muhamat]] describes [[Pochut Muhamat]]'s tour through Pidie gathering allies: he visited [[Padang Tiji|Padang Teuji]], [[Reubee]], and eventually won over [[Pangulee Beunaroe]], the powerful uleebalang of the IX Mukims. The sadati kisah describes Pidie as forming a square with four uleebalangs holding power: 'The X Mukims are subject to Bentara Keumangan; Teungku Sama Indra rules the VIII Mukims; The La'seumana is a fatherless child; he rules the XXII Mukims; The V Mukims are under the control of Teungku Ujong
@@ -161,6 +243,30 @@ In the interview Swart gave to the *[[Sumatra Post]]* on [[6 March|6]] and [[7 M
 
 Pidië was, after [[Groot Atjeh]], the most important theatre of the Atjeh war: the seat of the pretender-sultan and of the Tirò *oelama* line, the district in which van Heutsz's new method was first proved, and the district in which the last great religious resistance of the province was finally extinguished.
 
+
+## Sources
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 8-10.
+
+- *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, p. 125.
+
+- *Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598—1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 110‑113.
+
+- *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, *Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen* (Weltevreden: Landsdrukkerij, 1917), pp. 12–14, 30–31, 47–49, 55–57, 137–138.
+
+- *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgersschool te Zierikzee. Deel IV. 1872‑1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 29, 80, 94, 96, 108.
+
+- *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, pages [[485]]‑[[488]] (entries for Pedir on [[97]], [[110]], [[115]]).- *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 9, 11, 15, 16, 19, 27, 37, 49–51, 60, 67–68. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+- *Raffles' Atjeh‑overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal‑, Land‑ en Volkenkunde van Nederlandsch‑Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+- *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud‑Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapters XXIII and XI, pp. 81, 39‑43.
+*De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 7–10, 14, 19, 23.
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter XIII, *'Het groote rijstland Pidië'*, pp. 88–95.
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 124, 178.
+*Atjèh*, by J. Kreemer, vol. II ([[1923]]), pp. 578 vg.
+*The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 9 (Table 4: Oil production in 1940 and 1941, North Sumatra fields), p. 9 (Lho Sukon deepest exploratory drilling).
+
 ## See Also
 
 - [[Sultan Meukuta Alam]]
@@ -222,6 +328,156 @@ Pidië was, after [[Groot Atjeh]], the most important theatre of the Atjeh war: 
 - [[G. K. Dijkstra]]
 - [[Van Heutsz's Pidië campaign (1898)]]
 - [[The resistance in Atjeh 1908–1912]]
+- [[1509]]
+- [[1599]]
+- [[1600]]
+- [[1601]]
+- [[1815]]
+- [[1818]]
+- [[1819]]
+- [[1820]]
+- [[1822]]
+- [[1823]]
+- [[1850]]
+- [[1860]]
+- [[1876]]
+- [[1877]]
+- [[1878]]
+- [[1879]]
+- [[1900]]
+- [[1914]]
+- [[1915]]
+- [[Aceh War (1873–1904)]]
+- [[Aceh War]]
+- [[Aroe]]
+- [[Atjeh River]]
+- [[Balthasar de Moucheron|Balthazar de Moucheron]]
+- [[Banda Acheh]]
+- [[Bantam]]
+- [[Bombardment of Pedir (29‑31 December 1873)]]
+- [[Campaign against the XXII Moekims (1879)]]
+- [[Campaign against the XXVI Moekims (July 1879)]]
+- [[Captain Coombs' first Acheh mission (1817‑1818)]]
+- [[Captain-terr zee Van Gogh]]
+- [[Daja]]
+- [[Diogo Lopez de Sequeira]]
+- [[Dispatch of the Minto to Pedir]]
+- [[Dutch Navy]]
+- [[Francisco de Souza de Castro]]
+- [[Frederik de Houtman]]
+- [[Garouw]]
+- [[General van Swieten War Telegrams]]
+- [[Gighen]]
+- [[Goudberg]]
+- [[Groot‑Atjeh]]
+- [[Houtman brothers' visit to Atjeh (1599)]]
+- [[Imam of Longbatta]]
+- [[Imprisonment of Frederik de Houtman in Atjeh]]
+- [[J. van Swieten]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz]]
+- [[Kawaj XII]]
+- [[Kemala]]
+- [[Kr. Peusangan]]
+- [[Kroëng Raja]]
+- [[Maagden als losprijs]]
+- [[O'Hallaran's visit to Pedir (1820)]]
+- [[Panglima Polem|Panglima Polim]]
+- [[Panglima]]
+- [[Pasaman]]
+- [[Pasei]]
+- [[Paulus van Caerden]]
+- [[Perlak]]
+- [[Priaman]]
+- [[Radja Koelala]]
+- [[Raffles‑Coombs Acheh Commission (1819)]]
+- [[Raja of Pedir]]
+- [[Samoedra‑Pasé]]
+- [[Second Aceh Expedition (1873‑1874)]]
+- [[Second Aceh Expedition]]
+- [[Segli]]
+- [[Selimoen Expedition (August 1879)]]
+- [[Sir Thomas Stamford Raffles]]
+- [[Sultan Jauhar Alum]]
+- [[Sultana of Atjeh (1641)]]
+- [[Telok Kadjoe]]
+- [[Telok Semawé]]
+- [[Tikoe]]
+- [[Toekoe di Tiroe]]
+- [[Toewankoe Haschim]]
+- [[Treaty of Pedir (1819)]]
+- [[Tunku Pakih]]
+- [[Weesberg]]
+- [[Zeeland Company's Atjeh mission (1601)]]
+- [[1435]]
+- [[1500]]
+- [[1521]]
+- [[1873]]
+- [[1916]]
+- [[1918]]
+- [[1919]]
+- [[1920]]
+- [[1922]]
+- [[1923]]
+- [[6 January]]
+- [[Atjeh als rijstland]]
+- [[Atjeh-oorlog]]
+- [[Atjehsche Irrigatiedienst]]
+- [[De Rijkdom van Atjeh (1923)]]
+- [[Fei Hsin]]
+- [[Keudjroen-loeeng]]
+- [[Klappa Satoe]]
+- [[Koeta Radja]]
+- [[Kroeëng Beuratjan]]
+- [[Kroeëng Meureudoe]]
+- [[Kroeëng Teupin-Raja]]
+- [[Kroeëng Tiro]]
+- [[Lam Meulo]]
+- [[Meulaboh]]
+- [[Meureudoe]]
+- [[Ndjong]]
+- [[Noordkust]]
+- [[Padang Tidji]]
+- [[Pante Radja]]
+- [[Pasé]]
+- [[Pellerijen]]
+- [[Pepercultuur]]
+- [[Pepper cultivation in Atjeh]]
+- [[Pidië (landschap)]]
+- [[Pidië-rivier]]
+- [[Prang Rawa]]
+- [[Rijstbouw]]
+- [[Ruy de Brito]]
+- [[Samalanga]]
+- [[Samoedra]]
+- [[September 1509]]
+- [[Sequeira]]
+- [[Sultan Ali Moeghajat Sjah]]
+- [[Tapa Toean]]
+- [[Trieng Gadeng]]
+- [[Verkenningen in Atjeh (1923)]]
+- [[Sultan Iskandar Muda]]
+- [[Poephon blang]]
+- [[dadih (Atjeh)]]
+- [[Kreemer's Atjeh ([[1922]]
+- [[Kreemer's De Karbouw ([[1956]]
+- [[Treaty of Pedir ([[1819]]
+- [[Pederse]]
+- [[malim]]
+- [[Atjeh oil complex]]
+- [[B.P.M.]]
+- [[East Atjeh oil block]]
+- [[Lho Sukon]]
+- [[N.K.P.M.]]
+- [[N.L.A.M.]]
+- [[N.P.P.M.]]
+- [[Oil exploration in North Sumatra]]
+- [[Pasé oil field]]
+- [[Peureula]]
+- [[Pulu Pandjang]]
+- [[Tamiang oil block]]
+- [[Van Bemmelen's The Geology of Indonesia (1949)]]
+- [[1940]]
+- [[1941]]
 
 ## Source
 

@@ -1,8 +1,34 @@
 ---
 title: Noordkust
-aliases: ["Noordkust", "Noord- en Oostkust", "the North Coast of Atjeh"]
-tags: [place, region, atjeh, aceh-war, 19th-century, north-coast]
-description: "The North Coast region of the Atjeh Onderhoorigheden, comprising the statelets of Pedir, Gighen, Samalanga, Telok Semawé, Segli and others; one of the three coastal divisions (with Oostkust and Westkust)."
+aliases:
+- Noord- en Oostkust
+- the North Coast of Atjeh
+- Noordkust van Atjeh
+- North Coast of Atjeh
+- Aceh Utara
+- Noordkust Atjeh
+- the East or so-called North Coast of Atjeh
+tags:
+- place
+- region
+- atjeh
+- aceh-war
+- 19th-century
+- north-coast
+- afdeeling
+- noordkust
+- coastal
+- pidie
+- administrative-division
+- aceh
+- coast
+- medicine
+- geography
+- colonial
+- resistance
+description: The North Coast region of the Atjeh Onderhoorigheden, comprising the
+  statelets of Pedir, Gighen, Samalanga, Telok Semawé, Segli and others; one of the
+  three coastal divisions (with Oostkust and Westkust).
 ---
 
 **Noordkust** — the North Coast of [[Atjeh]], in Van Heutsz's text also *Noord- en Oostkust* when combined with the [[Oostkust van Atjeh|Oostkust]] for administrative purposes — was the coastal region of the Atjehnese *[[Onderhoorigheden]]* (Dependencies) that comprised, in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s 1893 tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]*, the statelets of [[Pedir]] and [[Gighen]] (the *gewichtigste* / weightiest stretch), [[Samalanga]], [[Telok Semawe]] and [[Segli]], and that served — with the [[Oostkust van Atjeh|Oostkust]] and the [[Westkust van Atjeh|Westkust]] — as one of the three coastal divisions on which the war's outcome turned. The Noordkust was, in Van Heutsz's diagnosis, the *sleutel van dit systeem* — the linchpin of the entire ring of coastal statelets — by virtue of its being the rice-lifeline of the [[Groot-Atjeh|interior]] and the home of the *federatie XII* (federation of twelve) and *federatie VI* (federation of six); the seat of the *assistent-resident ter Noord- en Oostkust (standplaats Telok Semawé)* (assistant resident for the North- and East Coast, with seat at Telok Semawé) under [[Scherer]]'s administration; and the operational field of the *postcommandant te Segli* (post-commander at Segli) under [[General van Teijn|Van Teijn]]'s [[1890]] rigorous closure.
@@ -51,6 +77,16 @@ In Van Heutsz's own [[1893]] prescription, the Noordkust retained its position a
 
 The Noordkust's significance in the Aceh Wiki History record rests on four things: it was one of the three coastal divisions of the *Onderhoorigheden* — with the [[Oostkust van Atjeh|Oostkust]] and the [[Westkust van Atjeh|Westkust]] — and the home of the *federatie XII* and *federatie VI* whose *hoeloebalangs* and *Radja's* gave the region its constitutional shape; it was the rice-lifeline of the [[Groot-Atjeh|interior]] — the *sleutel van dit systeem* Scherer identified and Van Heutsz endorsed — whose *medewerking* kept the inland resistance supplied, and whose coercion by closure was the operational prerequisite of the war's end; it was the seat of the *assistent-resident ter Noord- en Oostkust (standplaats Telok Semawé)* under Scherer — the institutional seat from which Scherer conceived the *scheepvaartregeling* and from which the [[1884]] *Concentratiebesluit* abolished the post and the [[1887]] Van Teijn governorship re-established it; and it was the operational field of the [[1890]] closure under [[General van Teijn|Van Teijn]] — the *postcommandant te Segli*'s rigorous *sluiting* (closure) of the Pedir-Gighen stretch that reduced the *rijke passar te Pedir* (rich market of Pedir) to ruin, produced the Noordkust chiefs' supplications to deliver their produce at [[Olehleh]], and became the empirical proof of the closure's coercive capacity that Van Heutsz made emblematic of the [[1893]] prescription.
 
+
+## Sources
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130.
+
+*Een strijd in Atjeh (Een oogarts op het oorlogspad)*, door Mr. C. Graadt van Roggen, met een voorrede van den heer H. Wanting, redacteur *Nieuwe Rotterdamsche Courant* (Rotterdam: N.V. Drukkerij Korteweg, uitgave van de Vereeniging „SIMAVI”, [[1934]]), pp. 3–4, 6–7, 10.
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XIII, XVII.
+
 ## See Also
 
 - [[Oostkust van Atjeh|Oostkust]]
@@ -73,6 +109,29 @@ The Noordkust's significance in the Aceh Wiki History record rests on four thing
 - [[1884]]
 - [[1890]]
 - [[1893]]
+- [[M. C. Roos van Raadshoven]]
+- [[Pidië]]
+- [[Th. J. Veltman]]
+- [[Oostkust van Atjeh]]
+- [[Tamiang]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Groot-Atjeh]]
+- [[Noord-Sumatra (proposed gewest)]]
+- [[J. Tijssen]]
+- [[Cataract campaign on the North Coast of Atjeh (1932)]]
+- [[Bernoen]]
+- [[Long Poetoe]]
+- [[Idi]]
+- [[Atjeh's Westkust]]
+- [[Een strijd in Atjeh (1934)]]
+- [[1923]]
+- [[1931]]
+- [[1932]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 

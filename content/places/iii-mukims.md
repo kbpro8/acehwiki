@@ -1,7 +1,43 @@
 ---
 title: III Mukims
-aliases: [Three Mukims, Mukim Lhee, III Mukims Keureukon, Mukim Lhé, Lhee Mukim, III Mukims of Great Acheh]
-tags: [place, mukim, region, wakeueh, territorial-division, great-acheh]
+aliases:
+- Three Mukims
+- Mukim Lhee
+- III Mukims Keureukon
+- Mukim Lhé
+- Lhee Mukim
+- III Mukims of Great Acheh
+- III Moekims
+- 3 Mukims
+- the Three Moekims
+- III Moekims of Groot-Atjeh
+- Tjot Poetoe III Moekims
+- Mukim Lhèe
+- Mukim Lhee Keureukon
+- Reubee
+- V Mukims
+- Five Mukims
+- V Mukims of the XXII
+tags:
+- place
+- mukim
+- region
+- wakeueh
+- territorial-division
+- great-acheh
+- aceh
+- groot-atjeh
+- 19th-century
+- administrative-division
+- sultan-territory
+- tjot-putee
+- sagi
+- north-east-coast
+- district
+- xxii-mukims
+- tunong
+- uleebalang
+- twelve-uleebalangs
 ---
 
 The **III Mukims** — known in Achehnese as the *Mukim Lhèë* ("the mukims three") and now officially styled the III Mukims Keureukon — is a small territorial division of [[Great Acheh|Great Acheh]] that has the peculiar distinction of having belonged to none of the three sagis of the kingdom. Both the sagi of the [[XXVI Mukims|XXVI Mukims]] and that of the [[XXII Mukims|XXII Mukims]] claimed that this district originally belonged to them, but both allowed that it had for a long time past been withdrawn from all connection with their Panglimas. The people of the "Mukims Three" were also well aware of this, though they acknowledged that they were *ureuëng Tunong*, thus admitting the correctness of the assertion of the sagi of the XXII Mukims. The III Mukims thus constituted a *wakeueh* district — that is to say, a territory severed from the control of the uleebalangs and placed directly under the sultan's rule, in accordance with a political device of the early sultans intended to create, within the sphere of each powerful chief, a territory of their own on which they could rely to support their efforts at centralisation.
@@ -30,6 +66,12 @@ In Achehnese political geography the numerical designation of a mukim-cluster �
 
 The III Mukims here named is, on the whole, a minor territorial division of [[Great Acheh|Great Acheh]], distinct from the [[Lhee Mukim Kayee Adang|Lhee Mukim Kayee Adang]] and [[Lhee Mukim Lam Rabo|Lhee Mukim Lam Rabo]] — the three-mukim groupings of the dependencies — and from the [[III Mukims Keureukon|III Mukims Keureukon]], the wakeueh-district whose peculiar institutions Snouck describes elsewhere. Its identification with one or other of these is not made explicit in the wedding pantuns; its function in the poetry is that of a familiar place-name, like [[Lam Baro|Lam Baro]], invoked for the metrical and symbolic convenience of the chanters rather than for any specific topographical reference.
 
+
+## Sources
+*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 13, 15 (De Inwendige Toestand; De Geestelijkheid in Atjeh — Habib Abdoe'r Rachman).
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Mukim Lhee]]
@@ -45,6 +87,43 @@ The III Mukims here named is, on the whole, a minor territorial division of [[Gr
 - [[Great Acheh]]
 - [[III Mukims Keureukon]]
 - [[IV Mukims (of XXV)]]
+- [[Groot-Atjeh]]
+- [[IV Moekims]]
+- [[VI Moekims]]
+- [[IX Moekims]]
+- [[XXII Moekims]]
+- [[XXV Moekims]]
+- [[XXVI Moekims]]
+- [[Mukim]]
+- [[Sagi]]
+- [[Tjot Poetee]]
+- [[Habib Abdurrahman Zahir]]
+- [[Toekoe Moeda Baid]]
+- [[Tjot Bada]]
+- [[Toeankoe Machmoed]]
+- [[Kraton of Aceh]]
+- [[Aceh War]]
+- [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[III Mukims]]
+- [[Keureukon Katiboy Muluk|Teuku Keureukon]]
+- [[Teuku Kali Malikon Ade]]
+- [[Hikayat Pochut Muhamat]]
+- [[Idi]]
+- [[Pangulee Beunaroe]]
+- [[Pidie]]
+- [[Pochut Muhamat]]
+- [[Tuan Sri Reubee]]
+- [[Teuku Waki Chi' Gampong Baroh]]
+- [[VII Mukims Ba'et]]
+- [[Teuku Ba'et]]
+- [[XXV Mukims]]
+- [[Teuku Ateue']]
+- [[Teuku Tungkob]]
+- [[Panglima Meuseugit Raya]]
+- [[Imeum of Lueng Bata]]
+- [[Chade']]
+- [[Teuku Kali Malikon Ade|Teuku Kali]]
+- [[Tunong]]
 
 ## Source
 

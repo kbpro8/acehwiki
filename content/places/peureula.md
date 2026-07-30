@@ -1,7 +1,50 @@
 ---
 title: Peureula
-aliases: [Peureulah, Peureula (oil field), Peureula (Atjeh complex), Peureula oil field, Peureula, Perlak, Peureula (Perlak), Perlak landschap, Pasai Perlak, Perlak Peureula, Koeala Perlak, Perlak sultanate, old kingdom of Perlak]
-tags: [place, oil-field, atjeh, sumatra, colonial, landschap, historical, achehnese, perlak, oostkust-van-atjeh, "13th-century", "16th-century", marco-polo, pepper, petroleum, peperplanter, oeléebalang]
+aliases:
+- Peureulah
+- Peureula (oil field)
+- Peureula (Atjeh complex)
+- Peureula oil field
+- Perlak
+- Peureula (Perlak)
+- Perlak landschap
+- Pasai Perlak
+- Perlak Peureula
+- Koeala Perlak
+- Perlak sultanate
+- old kingdom of Perlak
+- Peureulak
+- Perlak-Pasai kingdom
+- Peureulak kingdom
+- Perlac
+- Muslim principality of Perlak
+- Moslimsch rijkje Perlak
+tags:
+- place
+- oil-field
+- atjeh
+- sumatra
+- colonial
+- landschap
+- historical
+- achehnese
+- perlak
+- oostkust-van-atjeh
+- 13th-century
+- 16th-century
+- marco-polo
+- pepper
+- petroleum
+- peperplanter
+- oeléebalang
+- sultanate
+- islamic
+- precolonial
+- concept
+- early-islam
+- north-sumatra
+- history
+- medieval
 ---
 **Peureula** (also Peureulah) is an oil-field locality on the north coast of [[Acheh|Atjeh]] — in the [[Pedirse|Pidie]] region — recorded in [[Van Bemmelen's The Geology of Indonesia (1949)|Van Bemmelen's *Geology of Indonesia*]] ([[1949]]) as the largest producing field of the [[Atjeh oil complex|Atjeh oil complex]] in the [[1940]]–[[1941]] period. The Peureula field was operated by the [[N.L.A.M.]] (Nederlandsche Lloyd Aardolie Maatschappij, the Netherlands Lloyd Petroleum Company), and its production of 48,219 tons of 1000 kg in [[1940]] and 36,640 tons in [[1941]] accounted for the great majority of the Atjeh-complex output in both years.
 
@@ -107,9 +150,25 @@ The *oeléebalang* of Peureula (Perlak) at the time of Broersma's visit was [[Te
 - [[Van Bemmelen's The Geology of Indonesia (1949)]]
 - [[Verkenningen in Atjeh (1923)]]
 - [[Zuid-Perlak Petroleum-Mij]]
+- [[Wat Indië Ontving en Schonk]]
+- [[F. H. van Naerssen]]
+- [[Samudra]]
+- [[Aru]]
+- [[Cambay]]
+- [[Goedjarat]]
+- [[1292]]
+- [[1297]]
+- [[1415]]
+- [[Islam in Aceh|Islam in Atjeh]]
+- [[North Sumatra]]
+- [[Soenan Goenoeng Djati]]
 
 ## Sources
 
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 9 (Table 4: Oil production in the East Indies in 1940 and 1941).
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter V, *'Perlak, land van peper en olie'*, pp. 27–37. Also *Atjeh en de Atjehers*, by J. A. Kruyt (Leiden 1877), for the [[1875]] discovery of the petroleum-spring.
+*Wat Indië Ontving en Schonk*, onder leiding van Dr. C. W. Wormser (Amsterdam: Wereldbibliotheek N.V., 1946), pp. 80–81 (chapter *De oudste cultuurstroomen* door Dr. F. H. van Naerssen).
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 38–40, 49, 59–60, 77–78.
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+*Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter IV (Godsdienst), p. 75.

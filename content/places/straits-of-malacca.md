@@ -1,7 +1,34 @@
 ---
 title: Straits of Malacca
-aliases: ["Straat Malakka", "Strait of Malacca", "Malacca Strait", "Strait of Malakka"]
-tags: [place, foreign, strait, sea, malay, maritime-route, malay-world, colonial, acheh, trade, strategic]
+aliases:
+- Straat Malakka
+- Strait of Malacca
+- Malacca Strait
+- Strait of Malakka
+- Strait of Malaka
+- Straat Malaka
+- Selat Melaka
+tags:
+- place
+- foreign
+- strait
+- sea
+- malay
+- maritime-route
+- malay-world
+- colonial
+- acheh
+- trade
+- strategic
+- malay-peninsula
+- sumatra
+- atjeh
+- malaka
+- djohor
+- precolonial
+- 16th-century
+- 17th-century
+- naval
 ---
 
 The **Straits of Malacca** (Malay *Selat Melaka*) is the long, narrow stretch of water between the [[Malay Peninsula]] and the island of [[Sumatra]], connecting the Andaman Sea with the South China Sea. In *The Achehnese* Vol. I, the Straits are invoked chiefly through [[T. J. Newbold|T. J. Newbold]]'s *British Settlements in the Straits of Malacca*, which serves Snouck Hurgronje as a standard comparative source for Malay institutions, and as a term in the geographical and political vocabulary of the region.
@@ -103,6 +130,20 @@ The *DLP-84-Atjeh* source frames the Strait of Malacca as the narrow sea passage
 - [[British Empire]]
 - [[Dutch East Indies Government]]
 - [[Batavia]]
+- [[Malaka]]
+- [[Djohor]]
+- [[Portuguese conquest of Malaka (1511)]]
+- [[Capture of the Portuguese carrack off Atjeh (October 1602)]]
+- [[Cornelis Pietersz.]]
+- [[Matelieff's Malaka campaign (1606)]]
+- [[Verhoeff's Malaka expedition (1608)]]
+- [[Atjeh's attack on Djohor (May 1613)]]
+- [[1575]]
+- [[1587]]
+- [[1602]]
+- [[1606]]
+- [[1608]]
+- [[1641]]
 
 ## Sources
 
@@ -115,3 +156,4 @@ The *DLP-84-Atjeh* source frames the Strait of Malacca as the narrow sea passage
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 267-269.
 
 *DLP-84-Atjeh.pdf*, pp. 2-3.
+*Coen, Koopman van Heeren Zeventien. Geschiedenis van den Hollandshen Handel in Indië (1598-1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. De Boer Jr., 1948), Hoofdstuk V "Voorgangers, Hollanders en mededingers tot 1614. Atjeh. Djohor. Malaka." (pp. 108-140).

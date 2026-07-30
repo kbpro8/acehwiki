@@ -1,8 +1,45 @@
 ---
 title: Poelo Breuëh
-aliases: ["Bras island", "Breueh island", "Bunta island of Atjeh", "Bureukuh", "Poelau Bras", "Pulau Bras", "Pulau Breueh"]
-
-tags: ["achehnese", "coast", "island", "place"]
+aliases:
+- Bras island
+- Breueh island
+- Bunta island of Atjeh
+- Bureukuh
+- Poelau Bras
+- Pulau Bras
+- Pulau Breueh
+- Pulo Breueh
+- Bras / Pulau Bras
+- Pulo Bras
+- Bras
+- Pulau Beras
+- Beras Island
+- Poeloe Bras
+- Poeloe Breuë
+- Banyak islands
+- Bras lighthouse
+- Poelolo Bras
+- Pulu Bras
+- Pulu Bras (copper)
+- Pulu Bras (Atjeh copper locality)
+- Pulo Kreuch
+tags:
+- achehnese
+- coast
+- island
+- place
+- superstition
+- north-coast
+- atjeh
+- westkust
+- dutch-colonial
+- lighthouse
+- 19th-century
+- dutch
+- colonial
+- aceh-war
+- copper
+- mineral-locality
 ---
 **Poelo Breuëh** (also *Poelau Bras*; modern *Pulau Breueh* or *Pulau Bras*) is the island off the north-western coast of [[Groot-Atjeh|Groot-Atjeh]] in [[Acheh|Atjeh]] on which — or, more precisely, on the nearby islet of [[Rabò|Rabò]] — the inhabitants of the [[VI Moekim's of Groot-Atjeh|VI Moekim's of Groot-Atjeh]] held, in the period documented by [[C. Snouck Hurgronje|Snouck Hurgronje]], an annual seven-day feast on the beach, the seventh day of which culminated in the [[Rabò annual seven-day feast|ritual sacrifice of a buffalo]] that was first stabbed and then led bleeding over all the rice-fields so that none should miss the disaster-averting sprinkling of its blood. The island is named in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 246) in connection with this [[Rabò annual seven-day feast|Rabò sacrifice]], cited from [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. II, p. 315).
 
@@ -24,6 +61,10 @@ Poelo Breuëh's significance for the encyclopedia of [[Acheh]] history is as the
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 246.
 
 *De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), vol. II, p. 315.
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+*De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 38 ("Een nieuwe stad").
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 263–264, 273.
+*The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), pp. 147–149 (copper in Sumatra, Fig. 33 key, with the Atjeh localities).
 
 ## See Also
 - [[Bebloeding (rituele bebloeding)]]
@@ -34,3 +75,32 @@ Poelo Breuëh's significance for the encyclopedia of [[Acheh]] history is as the
 - [[Rabò]]
 - [[Snouck Hurgronje's De Atjehers ([[1893]]-94)]]
 - [[VI Moekim's of Groot-Atjeh]]
+- [[Acheh]]
+- [[Acheh proper]]
+- [[Pulo Batee]]
+- [[Pulo We]]
+- [[Burong Srabi]]
+- [[De Kleine Oosterling]]
+- [[Westkust van Atjeh]]
+- [[Singkel]]
+- [[Atjeh War]]
+- [[Capture of the Kraton (24 January 1874)]]
+- [[1874]]
+- [[Oeleh Leh]]
+- [[Generaal Wiggers van Kerchem]]
+- [[Generaal Pel]]
+- [[Atjeh-rivier]]
+- [[Kwala Atjeh]]
+- [[Zeehoofd]]
+- [[Aer Si Hajo]]
+- [[Aer Talu]]
+- [[Aloe Baru]]
+- [[B. B. Lindberg]]
+- [[Beutong]]
+- [[Copper in Atjeh]]
+- [[Gle Broë]]
+- [[H. Wolvekamp]]
+- [[P. J. J. Jansen]]
+- [[Van Bemmelen's The Geology of Indonesia (1949)]]
+- [[1922]]
+- [[Pulo Breueh]]
