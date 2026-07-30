@@ -1,7 +1,32 @@
 ---
 title: Atjeh-terpentijn (Spoor, 1930)
-aliases: ["Atjeh-Terpentijn", "Atjeh turpentine", "Sumatra-terpentijn", "the 1930 Spoor pamphlet on Atjeh turpentine", "Bericht no. 57 van de Afdeeling Handelsmuseum", "De Atjeh-terpentijn"]
-tags: [document, technical-report, colonial, dutch, chemistry, industry, forestry, aceh, baleq]
+aliases:
+- Atjeh-Terpentijn
+- Atjeh turpentine
+- Sumatra-terpentijn
+- the 1930 Spoor pamphlet on Atjeh turpentine
+- Bericht no. 57 van de Afdeeling Handelsmuseum
+- De Atjeh-terpentijn
+- Sumatran turpentine
+- Baleq turpentine
+- the turpentine of Pinus Merkusii
+tags:
+- document
+- technical-report
+- colonial
+- dutch
+- chemistry
+- industry
+- forestry
+- aceh
+- baleq
+- concept
+- commodity
+- terpentijn
+- turpentine
+- pinus-merkusii
+- 20th-century
+- chemical-product
 ---
 
 **Atjeh-terpentijn** — formally *Berichten van de Afdeeling Handelsmuseum van de Kon. Vereeniging Koloniaal Instituut* No. 57 — is a 30-page pamphlet by Ir. [[W. Spoon]] extracted from *De Indische Mercuur* of [[19 November]] [[1930]] and published by J. H. de Bussy of [[Amsterdam]] in the same year. It is the principal contemporary monograph on the factory-scale production of turpentine from the [[Pinus Merkusii|Sumatra-den]] (*Pinus Merkusii*) at the [[Baleq]] enterprise in the [[Gajo-landen|Gajo-Landen]]-[[Atjeh]] border region, and it surveys the chemical composition, pharmacopoeial suitability, and European market reception of the factory product as compared with the trial samples of [[1924]]. As the only detailed published account of the [[Baleq]] enterprise's first four years of factory operation (October [[1928]] – [[1930]]), it is the principal source for the colonial-era history of Indonesian turpentine.
@@ -54,6 +79,10 @@ The pamphlet contains two appendices:
 
 The pamphlet is the principal source for the early factory-scale production of Indonesian turpentine and the only detailed published account of the [[Baleq]] enterprise. Its detailed production figures, chemical data, and survey responses together document the attempt — ultimately only partly successful — to develop a colonial turpentine industry capable of competing in the metropolitan market. As a *Bericht* of the Afdeeling Handelsmuseum it also illustrates the broader role of the Koloniaal Instituut in evaluating and promoting colonial commodities: the pamphlet is at once a piece of scientific reporting and an instrument of commercial policy. For the history of forestry in the [[Gajo-landen|Gajo-Landen]]-Atjeh border region, the Pamphlet preserves details of the [[Paja Djorok]] and [[Blangtekoer]] forest complexes, the [[Baleq]] river, and the operations of the *Dienst van het Boschwezen* and *'s Lands Caoutchouchedrijf* that are otherwise difficult to recover.
 
+
+## Sources
+*Atjeh-terpentijn: tegenwoordige kwaliteit en nieuwe beoordeelingen*, by Ir. W. Spoon, *Berichten van de Afdeeling Handelsmuseum van de Koninklijke Vereeniging Koloniaal Instituut* No. 57, Amsterdam: J. H. de Bussy, [[1930]].
+
 ## See Also
 
 - [[W. Spoon]]
@@ -89,6 +118,7 @@ The pamphlet is the principal source for the early factory-scale production of I
 - [[1927]]
 - [[1928]]
 - [[1930]]
+- [[Atjeh-terpentijn (Spoor, 1930)]]
 
 ## Source
 

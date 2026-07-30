@@ -1,7 +1,36 @@
 ---
-title: "De onderwerping van Atjeh (Van Heutsz, 1893)"
-aliases: ["De onderwerping van Atjeh", "The Subjugation of Atjeh", "Van Heutsz's 1893 brochure", "Van Heutsz brochure (1893)", "Van Heutsz 1892 brochure", "Van Heutsz 1893", "Van Heutsz's De onderwerping van Atjeh", "De onderwerping van Atjeh (1893)", "The Subjection of Atjeh (1892)"]
-tags: [document, brochure, book, colonial, dutch, acheh, atjeh, military, strategy, aceh-war, 19th-century, van-heutsz, scheepvaartregeling, policy-tract, aceh, policy]
+title: De onderwerping van Atjeh (Van Heutsz, 1893)
+aliases:
+- De onderwerping van Atjeh
+- The Subjugation of Atjeh
+- Van Heutsz's 1893 brochure
+- Van Heutsz brochure (1893)
+- Van Heutsz 1892 brochure
+- Van Heutsz 1893
+- Van Heutsz's De onderwerping van Atjeh
+- De onderwerping van Atjeh (1893)
+- The Subjection of Atjeh (1892)
+- De onderwerping van Atjeh (Van Heutsz)
+- Van Heutsz brochure
+- Van Heutsz 1898 brochure
+tags:
+- document
+- brochure
+- book
+- colonial
+- dutch
+- acheh
+- atjeh
+- military
+- strategy
+- aceh-war
+- 19th-century
+- van-heutsz
+- scheepvaartregeling
+- policy-tract
+- aceh
+- policy
+- strategic-analysis
 ---
 
 **De onderwerping van Atjeh** ("The Subjugation of Atjeh") is a strategic and political treatise published in [[1893]] by [[J. B. van Heutsz|Van Heutsz]] — then a major of infantry and former Chief of Staff in [[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]] — in which he argued that the Dutch defensive strategy in [[Atjeh]] had failed and that only a rigorous, systematic application of coercive measures, above all the [[Scheepvaartregeling|scheepvaartregeling]] backed by naval power, could bring about the complete subjugation of the [[Sultanate of Aceh|Achehnese sultanate]]. The brochure, published at 's-Gravenhage by [[De Gebroeders van Cleef]] and at Batavia by [[G. Kolff & Co.|G. Kolff and Co.]] — the title-page bears both houses in parallel — and printed by the Typ. Zuidholl. Boek- en Handelsdrukkerij, was written in October [[1892]] and issued in [[1893]]; it constitutes Van Heutsz's first published strategic argument and the intellectual foundation for the aggressive policy he would implement as Governor from [[1898]] onward. It is also the principal *ex ante* text of the [[Pacificatie van Atjeh|pacificatie]] doctrine and the document against which [[C. Th. van Deventer|Van Deventer]]'s [[1908]] parliamentary critique of the post-conquest administration is measured. The book opens with the warning that "De Atjeh-oorlog knaagt aan ons Koloniaal bezit, hij moet eindigen" (the Atjeh-war gnaws at our Colonial possession; it must end).
@@ -114,6 +143,10 @@ The brochure *De onderwerping van Atjeh* is the first published statement of the
 
 Its motto ran: "The Atjeh war gnaws at our colonial possession. It must end; let us at last show the civilised world that we are capable of ending it!" Its two principal conclusions ran wholly parallel to Snouck Hurgronje's argument: "a freedom-loving, warlike people submits only under compulsion," and "only he who shows that he possesses the power to make his will respected will bring Atjeh to submission." Van Heutsz still held in it to a *[[scheepvaartregeling]]*, and his aim was not so absolute as the scholar's, "but in spite of that, this brochure at last brought the new, strong and correct note. It was accordingly regarded by many either with disapproval or as not serious — only many younger men understood and endorsed it."
 
+
+## Sources
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VII, "Scheepvaartregeling." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 37.
+
 ## See Also
 
 - [[J. B. van Heutsz]]
@@ -153,6 +186,17 @@ Its motto ran: "The Atjeh war gnaws at our colonial possession. It must end; let
 - [[H. N. A. Swart]]
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Atjeh]]
+- [[Onderhoorigheden]]
+- [[Defection of Teuku Umar (March 1896)]]
+- [[Vetter]]
+- [[De Atjeh-Oorlog (Kruijt, 1896)]]
+- [[Civiel en Militair Gouvernur]]
+- [[Atjeh en Onderhoorigheden]]
+- [[Atjeh-oorlog]]
+- [[1896]]
+- [[1898]]
+- [[1899]]
+- [[1904]]
 
 ## Source
 

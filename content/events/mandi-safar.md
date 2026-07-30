@@ -1,7 +1,22 @@
 ---
 title: Mandi Safar
-aliases: [Mandi Safar, Rabu Abeh, Rabu Akhir, Final Wednesday, bathing of Safar, last Wednesday of Safar]
-tags: [event, ceremony, feast, calendar, islamic, purification]
+aliases:
+- Rabu Abeh
+- Rabu Akhir
+- Final Wednesday
+- bathing of Safar
+- last Wednesday of Safar
+- Rabu Abéh
+tags:
+- event
+- ceremony
+- feast
+- calendar
+- islamic
+- purification
+- religious-practice
+- islamic-calendar
+- superstition
 ---
 
 **Mandi Safar** ("bathing of Safar"), known in Acheh as **Rabu Abeh** ("the final Wednesday"), was the ceremonial bathing observed on the last Wednesday of the month of [[Safar]] (the second month of the Mohammedan year). The belief was universal in the Mohammedan world that Safar was pregnant with evil, and that one might feel very thankful when he reached the last Wednesday of this month without mishap. The reason for this was said to be that in this month the fatal sickness of Mohammad, to which he succumbed in the third month of the year, first began to show itself. However that might be, the day nowhere passed wholly without notice. In Acheh, many took a bath on this day—the dwellers on the coast in the sea, others in the river or at the well.
@@ -14,6 +29,10 @@ Some pious persons performed on the afternoon of the Rabu Abeh a special volunta
 
 The Mandi Safar thus stands at the head of that sequence of "bathing" and "cooling" ceremonies by which the Achehnese marked the transitions of the religious year, from the [[peusijuek]] of domestic life through the *peujraʿ* of the convalescent to the great communal bath of the Rabu Abeh. Its proximity to the [[Malam beureu'at]] of Shaʿban and the fasting month gave it a particular poignancy: it was the last great secular festival before the solemnities of Ramadhan began.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Rabu Abeh]]
@@ -21,6 +40,11 @@ The Mandi Safar thus stands at the head of that sequence of "bathing" and "cooli
 - [[Malam beureu'at]]
 - [[Puasa]]
 - [[Kanji Ashura]]
+- [[Hasan and Husain]]
+- [[Teungku]]
+- [[Gampong]]
+- [[Kanduri]]
+- [[Bukah]]
 
 ## Source
 

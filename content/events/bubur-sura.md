@@ -1,7 +1,22 @@
 ---
 title: Bubur Sura
-aliases: [Bubur Sura, Bubur Suro, Javanese Sura porridge, Ashura porridge in Java]
-tags: [event, calendar, religious, ceremony, food, javanese]
+aliases:
+- Bubur Suro
+- Javanese Sura porridge
+- Ashura porridge in Java
+- Kanji Ashura
+- kanji Achura
+- kanji Asyura
+- Ashura porridge
+tags:
+- event
+- calendar
+- religious
+- ceremony
+- food
+- javanese
+- feast
+- moharram
 ---
 
 The **bubur sura** is the Javanese porridge cooked on the 10th of [[Muharram]] (the day called in Java **Sura**, in Acheh *Achura*, in Arabic *Ashura*) — the dish that constitutes, in Java, the chief popular observance of the day. As [[C. Snouck Hurgronje|Snouck Hurgronje]] describes it, "the *bubur sura* as it is called, also consists of various grains or seeds such as *jagong* or maize, peas etc., mixed with pieces of cocoanut and placed on top of the rice". The *bubur sura* is thus the Javanese counterpart of the *kanji Ashura* of Acheh, and the two together form part of a wider complex of Ashura dishes — including the *khichri* of Hindustan and the *lujub* ("seeds" or "grains") of Cairo — that extends across the Mohammedan world.
@@ -18,6 +33,10 @@ A small but significant difference between the Achehnese and the Javanese custom
 
 The *bubur sura*, like the *kanji Ashura* of Acheh, is a survival of the old commemoration of [[Hasan and Husain|Hasan and Husain]] — the grandsons of the Prophet, of whom Husain perished on the plains of [[Kerbela]] on the 10th of Muharram. "A further survival of the old commemoration of Hasan and Husain is to be found in the fact that the first ten days of the month which bears their name are regarded as unlucky. On them no work of importance is begun, no marriage with a virgin consummated (for that would mean speedy separation or the death of one of the pair), no child circumcised, no rice sown or planted out." The porridge of the *bubur sura* is therefore, in Java as in Acheh, the popular observance of a day whose more impassioned commemoration — the *tahut* processions of the Shi'ite countries — has been purged away by "a later wave of orthodoxy, proceeding especially from Mecca". What remains, in both countries, is the dish itself, the communal eating, and the lingering aura of an unlucky season.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Ashura]]
@@ -26,6 +45,10 @@ The *bubur sura*, like the *kanji Ashura* of Acheh, is a survival of the old com
 - [[Hasan and Husain]]
 - [[Kerbela]]
 - [[Asan-Usen]]
+- [[Hasan-Husain Festival]]
+- [[Mandi Safar]]
+- [[Maulid sharaful 'anam]]
+- [[Kanduri]]
 
 ## Source
 

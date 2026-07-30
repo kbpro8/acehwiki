@@ -1,8 +1,26 @@
 ---
-title: "Van der Heijden's day-order of 5 September 1879"
-aliases: ["Dagorder 5 September 1879", "the 5 September 1879 day-order", "Van der Heijden's Dagorder", "Dagorder (Kota-Radja, 5 September 1879)"]
-tags: [document, day-order, colonial, dutch, atjeh, aceh-war, 19th-century, 1879]
-description: "The day-order issued by Generaal van der Heijden at Kota-Radja on 5 September 1879, declaring that 'geheel Groot-Atjeh ten onder gebragt' was — the high-water mark of the Dutch conquest of the interior."
+title: Van der Heijden's day-order of 5 September 1879
+aliases:
+- Dagorder 5 September 1879
+- the 5 September 1879 day-order
+- Van der Heijden's Dagorder
+- Dagorder (Kota-Radja, 5 September 1879)
+- Day-order of 5 September 1879
+- 5 September 1879 day-order
+tags:
+- document
+- day-order
+- colonial
+- dutch
+- atjeh
+- aceh-war
+- 19th-century
+- 1879
+- event
+- military
+description: The day-order issued by Generaal van der Heijden at Kota-Radja on 5 September
+  1879, declaring that 'geheel Groot-Atjeh ten onder gebragt' was — the high-water
+  mark of the Dutch conquest of the interior.
 ---
 
 **Van der Heijden's day-order of [[5 September]] [[1879]]** — the *Dagorder* (day-order) issued by [[General van der Heijden|Generaal van der Heijden]] at [[Kota Radja|Kota-Radja]] on [[5 September]] [[1879]] and reproduced in full by [[Joannes Benedictus van Heutsz|Van Heutsz]] in his [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]* — is the formal declaration that "*geheel Groot-Atjeh ten onder gebragt*" was (all Groot-Atjeh had been brought under): that the entire valley of [[Groot-Atjeh]] had been brought under. The day-order — addressed *Aan de Officieren, Ambtenaren, Onderofficieren en Soldaten* (To the Officers, Officials, Non-commissioned Officers and Soldiers) of the Atjeh garrison, signed by the *generaal-majoor, adjudant des Konings in buitengewonen dienst, Gouverneur tevens militair bevelhebber van Atjeh en Onderhoorigheden* (Major-General, extraordinary aide-de-camp to the King, Governor and at the same time military commander of Atjeh and Dependencies) — was the closing act of the [[XXVI Moekims campaign (1879)|XXVI Moekims campaign]] and, in Van Heutsz's reading, the high-water mark of the Dutch conquest of the interior: the moment at which, "*nog geen 14 maanden na het begin van zijne zegerijke veldtochten*" (not yet 14 months after the beginning of his victorious campaigns), the General "*aan alle verzet een einde gemaakt*" had (had made an end to all resistance) and "*het Ned. bestuur volgens de Atjehsche begrippen, door het recht van verovering, op den troon van den Sultan*" sat (the Netherlands administration, according to Atjehnese conceptions, by the right of conquest, sat on the throne of the Sultan). The day-order was independently confirmed by the Commandant van het Indische leger (Commandant of the Indian army)'s inspection report of the same month, which Van Heutsz quotes at length to verify the General's right to make the declaration.
@@ -47,6 +65,10 @@ The complement was not to be granted. Van der Heijden was dismissed "*in het beg
 
 Van der Heijden's day-order of [[5 September]] [[1879]] is, in Van Heutsz's narrative, the formal declaration that "*geheel Groot-Atjeh ten onder gebragt*" was — the high-water mark of the Dutch conquest of the interior and the document against which every subsequent governor's accomplishment would be measured and found wanting. Its significance in the Aceh Wiki History record lies in four things. First, it was the closing act of the [[XXVI Moekims campaign (1879)|XXVI Moekims campaign]] — itself closed by the [[Selimoen Expedition (August 1879)|Selimoen tocht]] of [[September]] [[1879]] — and the formal close of the operational sequence that had begun with the [[XXII Moekims campaign (1878)|XXII Moekims campaign]] of [[July]] [[1878]]: the moment at which, in Van Heutsz's reading, "*nog geen 14 maanden na het begin van zijne zegerijke veldtochten*", the General "*aan alle verzet een einde gemaakt*" had. Second, it was confirmed by the independent inspection of the Commandant van het Indische leger in the same month — the authority Van Heutsz invokes to verify the General's right to make the declaration. Third, it was, in Van Heutsz's editorial emphasis, the document in which the General "*met wijs beleid en kloek verstand in die korte woorden te kennen gaf, wat nog te doen overbleef*" — the measured warning that the military conquest would not, by itself, produce the political order, and that "*nog geruimen tijd wordt de krachtige steun der troepenmacht vereischt om een goed bestuur in te voeren en eene geregelde orde van zaken te scheppen*". Fourth, it was the formal close of the only period in which the Atjeh campaign had been brought to a *rechtmatige voldoening* — and the document against which [[General van der Heijden|Generaal van der Heijden's]] subsequent dismissal "*in het begin van 1881 op onverantwoordelijke wijze*" and the [[Concentratiebesluit (19 Augustus 1884)|1884 Concentratie]] withdrawal to the *geconcentreerde stelling* (concentrated defensive line) of [[Groot-Atjeh]] would, in Van Heutsz's narrative, be judged as the colony's two great acts of self-betrayal.
 
+
+## Sources
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 18–19. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
 ## See Also
 
 - [[General van der Heijden|Van der Heijden]]
@@ -62,6 +84,8 @@ Van der Heijden's day-order of [[5 September]] [[1879]] is, in Van Heutsz's narr
 - [[Concentratiebesluit (19 Augustus 1884)]]
 - [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
 - [[1879]]
+- [[Van der Heijden]]
+- [[Selimoen tocht (1879)]]
 
 ## Source
 

@@ -1,7 +1,28 @@
 ---
 title: Kreemer's Atjèh (1922–1923)
-aliases: [Atjèh (Kreemer 1922-1923), Kreemer's Atjèh, Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden, Kreemer Deel I, Kreemer Deel II]
-tags: [document, book, scholarly, dutch, colonial, 20th-century, encyclopedia, atjeh, primary-source]
+aliases:
+- Atjèh (Kreemer 1922-1923)
+- Kreemer's Atjèh
+- Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden
+- Kreemer Deel I
+- Kreemer Deel II
+- Kreemer's Atjeh (1922-23)
+- Atjèh (Kreemer 1922-23)
+- 'Atjèh: algemeen samenvattend overzicht van land en volk van Atjèh en Onderhoorigheden'
+- Kreemer Atjeh
+- Kreemer's Atjeh monograph
+tags:
+- document
+- book
+- scholarly
+- dutch
+- colonial
+- 20th-century
+- encyclopedia
+- atjeh
+- primary-source
+- achehnese
+- ethnography
 ---
 
 **Kreemer's *Atjèh*** — full title *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden* — by **J. Kreemer**, Archivaris van het [[Atjèh Instituut|Atjèh Instituut]], published in two volumes by N.V. Boekhandel en Drukkerij voorheen [[E. J. Brill|E.J. Brill]] in Leiden, [[1922]]–[[1923]], is the principal twentieth-century encyclopaedic survey of the [[Sultanate of Acheh|Atjèh sultanate]] and its dependencies. Commissioned by the [[Atjèh Instituut|Atjèh Instituut]] founded in [[1914]], the work is the fruit of Kreemer's field-research in Atjèh from [[18 February]] [[1916]] to [[23 October]] [[1917]], and of his work in the governor's archive at [[Koeta Radja|Koeta Radja]].
@@ -35,6 +56,12 @@ Kreemer states that, by the comparative method underlying his arrangement, "in h
 
 Kreemer's *Atjèh* is, in the historiography of the Atjèh sultanate, the principal encyclopaedic survey of the early civil-government period — the work that synthesised the military-administrative scholarship of the [[Aceh War|war period]] with the ethnographic and geographical data Kreemer collected in the field in [[1916]]–[[1917]]. Its two volumes are the source of a substantial number of entries in this wiki that document the Atjèh sultanate's history, antiquities, geography, and ethnography from Kreemer's distinctive perspective.
 
+
+## Sources
+*Atjèh: algemeen samenvattend overzicht van land en volk van Atjèh en Onderhoorigheden*, by J. Kreemer, 2 vols. (1922-23).
+
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, 1956), *Lijst van geschriften* and passim.
+
 ## See Also
 
 - [[Acheh]]
@@ -48,6 +75,17 @@ Kreemer's *Atjèh* is, in the historiography of the Atjèh sultanate, the princi
 - [[De Buitenbezittingen (Deel II, Aflevering 2)]]
 - [[1922]]
 - [[1923]]
+- Alasland
+- Atjeh en Onderhorigheden
+- Christiaan Snouck Hurgronje
+- G. A. J. Hazeu
+- Gajoland
+- Hoesein Djajadiningrat
+- J. Kreemer
+- Kreemer's De Karbouw ([[1956)]]
+- Kreemer's De Maleier en zijn karbouw ([[1907)]]
+- Snouck Hurgronje's De Atjehers ([[1893-94)]]
+- Snouck Hurgronje's Het Gajoland en zijne bewoners ([[1903)]]
 
 ## Source
 

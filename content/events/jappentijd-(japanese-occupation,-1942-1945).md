@@ -1,7 +1,25 @@
 ---
-title: "Jappentijd (Japanese occupation, 1942-1945)"
-aliases: [Jappentijd, Japanese occupation, Japanese occupation of the Dutch East Indies, 1942-1945]
-tags: [event, war, occupation, dutch-east-indies, japanese]
+title: Jappentijd (Japanese occupation, 1942-1945)
+aliases:
+- Jappentijd
+- Japanese occupation
+- Japanese occupation of the Dutch East Indies
+- 1942-1945
+- Japanese invasion of the Dutch East Indies
+- Japanse inval in Nederlands-Indië
+- Japanese occupation of Indonesia
+- Japanese rule in the Dutch East Indies
+tags:
+- event
+- war
+- occupation
+- dutch-east-indies
+- japanese
+- colonial
+- southeast-asia
+- aceh
+- dutch
+- world-war-ii
 ---
 
 **The Jappentijd** — the Japanese occupation of the Dutch East Indies from [[1942]] to [[1945]] — was the period of Japanese military rule that began with the Japanese invasion of [[January]]-[[March 1942]] and ended with the Japanese surrender of [[August 1945]], during which the [[K.N.I.L.]] was dissolved, its European soldaten interned in prisoner-of-war camps, and its indigenous soldaten — including the Ambonese of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]] — demobilised, pressed into Japanese auxiliary formations like the *[[Heiho]]*, or killed. In *[[Oom Ambon van het K.N.I.L.]]* the *Jappentijd* is the great rupture of the colonial army's history: the moment at which the *[[tangsi]]* culture that had made *[[Oom Ambon]]* was broken, and the moment that conditioned the [[1945]]-[[1949]] Indonesian revolution that followed.
@@ -26,6 +44,12 @@ The Japanese occupation ended with the Japanese surrender of [[August 1945]]. Th
 
 The *Jappentijd* is significant in *[[Oom Ambon van het K.N.I.L.]]* as the great rupture of the colonial army's history. The book's argument is that the *[[tangsi]]* culture that had made *[[Oom Ambon]]* was broken by the Japanese occupation, and that the [[1945]]-[[1949]] Indonesian revolution that followed was therefore a war fought by a reconstituted colonial army, not by the old [[K.N.I.L.]]. The beheading of [[Pietje de Fretes]] is the book's small personal register of the occupation's cost: the Ambonese soldiers who had served the Dutch were killed by the Japanese, and the survivors were then used in the Dutch war against the Republic.
 
+
+## Sources
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR transcription, pages 429‑434, 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pages 410‑415 (mentions of the war years 1940‑1945 and the Dutch East Indies’ involvement in the conflict with Japan).
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*.
+
 ## See Also
 
 - [[K.N.I.L.]]
@@ -41,6 +65,16 @@ The *Jappentijd* is significant in *[[Oom Ambon van het K.N.I.L.]]* as the great
 - [[1942]]
 - [[1943]]
 - [[1945]]
+- [[Royal Netherlands Marine Corps]]
+- [[Dutch East Indies]]
+- [[Aceh]]
+- [[Java Sea Campaign]]
+- [[27 February]]
+- [[Colonel Von Frijtag Drabbe]]
+- [[Captain G. Wilhelmy Damsté]]
+- [[World War II in the Dutch East Indies]]
+- [[Netherlands East Indies]]
+- [[World War II]]
 
 ## Source
 

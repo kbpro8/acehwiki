@@ -1,7 +1,49 @@
 ---
-title: "De Atjehers (Snouck Hurgronje)"
-aliases: ["De Atjèhers", "The Atcheneese", "Snouck Hurgronje De Atjehers", "De Atjèhers (1893-1894)", "The Achehnese"]
-tags: [document, book, dutch, colonial, scholarly, aceh, 19th-century, snouck-hurgronje, ethnography, islamology, 1893, 1894, islam]
+title: De Atjehers (Snouck Hurgronje)
+aliases:
+- De Atjèhers
+- The Atcheneese
+- Snouck Hurgronje De Atjehers
+- De Atjèhers (1893-1894)
+- The Achehnese
+- Snouck Hurgronje's De Atjehers (1893-94)
+- De Atjehers
+- Snouck Atjehers
+- Snouck's Atjehers
+- The Achehnese (Snouck Hurgronje)
+- Acehnese People
+- Achehnese
+- Ureuëng Acheh
+- Atjehers
+- Atjehersche bevolking
+- Acehnese
+- people of Atjeh
+- Atjehsche bevolking
+- inhabitants of North Sumatra
+tags:
+- document
+- book
+- dutch
+- colonial
+- scholarly
+- aceh
+- 19th-century
+- snouck-hurgronje
+- ethnography
+- islamology
+- 1893
+- 1894
+- islam
+- achehnese
+- event
+- people
+- ethnic-group
+- culture
+- concept
+- acheh
+- sumatra
+- population
+- dress
 ---
 
 **De Atjèhers** ("The Atjehers") is the standard scholarly work of [[C. Snouck Hurgronje|Dr. C. Snouck Hurgronje]] on the Atjèhese people, published in two volumes by the *Landsdrukkerij* (Government Printing Office) at [[Batavia|Batavia] in [[1893]] (Vol. I) and [[1894]] (Vol. II), and translated into English by A. W. S. O'Sullivan as *The Achehnese* (Leiden, 1906). The work is the published residue, in modified form, of Snouck Hurgronje's secret *[[Verslag omtrent de religieus-politieke toestanden in Atjeh|Verslag omtrent de religieus-politieke toestanden in Atjeh]]* of [[23 May]] [[23 May]] [[1892]], and is the foundational scholarly work on the Atjèhese people, their religion, and their customs.
@@ -57,6 +99,15 @@ It was especially the first two chapters of the *Verslag* that were worked up in
 
 The Government had at first shelved the report — "which the government at first shelved" — but it became the core of the standard work. "Clearly and unreservedly the real internal condition and the mutual relations and connections are here laid bare, with the plainly unvarnished conclusion: only general and vigorous action can put an end to the resistance." Its analysis of the three causes of the persistence of resistance — that Atjeh was no single-headed state, that Acehnese nationality was a religious nationality, and that the *bendewezen* had become a profitable national side-industry — governed all subsequent Dutch policy.
 
+
+## Sources
+*De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94).
+
+*The Achehnese*, by C. Snouck Hurgronje, trans. A. W. S. O'Sullivan, indexed by R. J. Wilkinson, 2 vols. (Leiden: E. J. Brill; London: Luzac & Co., [[1906]]).
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), *Lijst van geschriften* and passim.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 1–4, pp. 1–58.
+*Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter II (Land en Volk), pp. 24, 30; Plates 78, 101.
+
 ## See Also
 
 - [[C. Snouck Hurgronje]]
@@ -83,6 +134,29 @@ The Government had at first shelved the report — "which the government at firs
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
+- [[J. Kreemer]]
+- [[Kreemer's Atjeh ([[1922]]-23)]]
+- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Pantang of the albino buffalo in Atjeh]]
+- [[Poephon blang]]
+- [[Rabò annual seven-day feast]]
+- [[Snouck Hurgronje's Het Gajoland en zijne bewoners ([[1903]])]]
+- [[teungkoe meunasah]]
+- [[Great Acheh]]
+- [[Gampong]]
+- [[Sagi System]]
+- [[Adat]]
+- [[Hikum]]
+- [[Teungku]]
+- [[Uleebalang]]
+- [[North Sumatra]]
+- [[Islam in Aceh|Islam in Atjeh]]
+- [[Acheh]]
+- [[Atjeh Dress]]
+- [[Seat of an Atjeh Noble]]
+- [[Perlak]]
+- [[Pasé]]
 
 ## Source
 

@@ -1,7 +1,63 @@
 ---
 title: First Aceh Expedition (1873)
-aliases: [Eerste Atjeh-expeditie, First Atjeh Expedition, First Dutch Expedition to Aceh, Atjeh Expeditie 1873]
-tags: [event, war, dutch-colonial, military, aceh-war]
+aliases:
+- Eerste Atjeh-expeditie
+- First Atjeh Expedition
+- First Dutch Expedition to Aceh
+- Atjeh Expeditie 1873
+- Eerste Atjeh-expeditie (1873)
+- First Aceh Expedition
+- 1873 expedition
+- storming of the mosque April 1873
+- Atjeh-expedition of 1873
+- the 1873 Atjeh expedition
+- the Atjeh-expeditie
+- Atjeh-expeditie (1873)
+- Eerste Atjeh-expeditie (April 1873)
+- April 1873 expedition
+- 1873 Aceh Expedition
+- 1ste Atjehsche Expeditie
+- Eerste Atjeh Expeditie
+- Eerste Atjehse Expeditie
+- First Aceh War Campaign
+- Atjeh-expeditie 1873
+- the Köhler expedition
+- expeditie van 1873
+- First Aceh Expedition (April 1873)
+- 1ste expeditie tegen Atjeh
+- Köhler expedition
+- First Atjeh expedition (March-April 1873)
+- First expedition to Atjeh 1873
+- Mislukte expeditie Atjeh
+- April 1873
+- April 1873 storming
+tags:
+- event
+- war
+- dutch-colonial
+- military
+- aceh-war
+- colonial
+- aceh
+- knil
+- dutch
+- achehnese
+- 19th-century
+- expedition
+- buitenbezittingen
+- k.o.h.l.e.r
+- kruijt-1896-account
+- acehnese
+- battle
+- 1873
+- koetaradja
+- kohler
+- failure
+- acheh
+- failed
+- concept
+- date
+- meusigit-raja
 ---
 
 **The First Aceh Expedition** (Dutch: *Eerste Atjeh-expeditie*) was the Dutch military expedition dispatched against [[Acheh|Atjeh]] in [[March 1873|March-April 1873]], under the command of Major-general [[J. H. R. Köhler|J. H. R. Köhler]] with [[F. N. Nieuwenhuysen|F. N. Nieuwenhuysen]] as government commissioner, which ended in failure with the death of Köhler at the [[Battle of the Missigit (10 April 1873)|missigit]] on [[14 April]] [[1873]] and the withdrawal of the expeditionary force from the roadstead of Atjeh on [[29 April]] [[1873]]. The failure was attributed by the source work to "the unfamiliarity with the situation, the too low opinion of the enemy's strength and perseverance, and the consequent inadequate preparation of the expedition," and led directly to the dispatch of the [[Second Aceh Expedition (1873-1874)|second expedition]] of [[November 1873]].
@@ -52,6 +108,19 @@ On [[20 April]] [1873] the Governor-General convened an extraordinary meeting of
 
 "The first campaign to Atjeh had thus failed, principally — although mistakes may also have been made on the campaign — through the unfamiliarity with the situation, the too low opinion of the enemy's strength and perseverance, and the consequent inadequate preparation of the expedition." The lesson was not lost on the Indies government. Preparations for the [[Second Aceh Expedition (1873-1874)|second expedition]] were put in hand immediately: troops were levied in the Netherlands, all were equipped with breech-loaders, the artillery was reinforced, and the expeditionary force was increased to 6354 infantry besides officers, with cavalry, artillery and engineers. The retired Lieutenant-general [[Jan van Swieten|Jan van Swieten]] was restored to active service and placed in supreme command.
 
+
+## Sources
+- *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Oom en de Bintang."
+- *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja.
+- *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 68 (section "De Atjeh-tram").
+- *Het Land van Jan Pieterszoon Coen*, door Dr. W. A. Terwogt (Hoorn: P. Geerts, [1891]). Hoofdstuk XIII: the first expedition 22 March–25 April 1873 — "Opnieuw, gelijk reeds zoo menigmaal te voren, begon men dezen oorlog met te geringe macht, overmoedig, met volkomen miskenning van de dapperheid en doodsverachting der Atjehers" (Once again, as so many times before, one began this war with too small a force, overconfident, with complete misappreciation of the bravery and death-defiance of the Atjehnese); the death of Köhler on 14 April; the failed assault on the Kraton by Van Daalen on 16 April; the withdrawal of 25 April — "Zoo eindigde deze expeditie op treurige wijze. Wij hadden de nederlaag geleden" (Thus ended this expedition in a sad manner. We had suffered the defeat).
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter I (the outbreak of the war), Chapter II, "De eerste expeditie en blokkade, van April tot December 1873." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 9–12.
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889, pp. 18-93.
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 5-22; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 5-15.
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 9, 34, 70, 84.
+Verslag van het verhandelde in de vergaderingen der Tweede Kamer in comité-général van 16, 17, 18 en 20 April 1874: Oorlog met Atjeh, gedrukt ter Algemene Landsdrukkerij van het Koloniaal Instituut (1881), pp. 9–14, 65–72.
+
 ## See Also
 
 - [[J. H. R. Köhler]]
@@ -70,6 +139,94 @@ On [[20 April]] [1873] the Governor-General convened an extraordinary meeting of
 - [[Aladin Mahmood Shah]]
 - [[Second Aceh Expedition (1873-1874)]]
 - [[Aceh War]]
+- [Atjeh-oorlog](/events/atjeh-oorlog)
+- [[Tweede Atjeh-expeditie (1873-1874)]]
+- [[Missigit (Meusigit)]]
+- [[Meusigit Raja]]
+- [[generaal Van Swieten]]
+- [[Koeta-Radja]]
+- [[Sultan Iskandar Muda]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
+- [[Handover of Aceh to a civil Gouverneur (1918)]]
+- [[Oost-Indisch Journael]]
+- [[Atjeh-tram]]
+- [[Postenlinie]]
+- [[Ceintuur-trambaan]]
+- [[Oelèë Lheuë]]
+- [[Departement van Oorlog]]
+- [[Pacificatie van Atjeh]]
+- [[Toekoe Oemar's verraad-(1896)]]
+- [[Groot-Atjeh]]
+- [[April 1873]]
+- [[6 January]]
+- [[1873]]
+- [[1874]]
+- [[1875]]
+- [[1876]]
+- [[1885]]
+- [[1896]]
+- [[1918]]
+- [[Het Land van Jan Pieterszoon Coen (Terwogt)]]
+- [[Dr. W. A. Terwogt]]
+- [[Terwogt's account of the Atjeh-oorlog (1891)]]
+- [[Nieuwenhuizen]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
+- [[Jan van Swieten]]
+- [[Kraton of Aceh]]
+- [[Kota Radja]]
+- [[Koninklijke Marine]]
+- [[C. H. Bogaert]]
+- [[Edi]]
+- [[Oostkust]]
+- [[Noordkust]]
+- [[Declaration of War on Aceh (1873)]]
+- [[Atjeh-oorlog]]
+- [[Atjehers]]
+- [[K.N.I.L.]]
+- [[Joannes Benedictus van Heutsz]]
+- [[8 April]]
+- [[10 April]]
+- [[14 April]]
+- [[17 April]]
+- [[26 April]]
+- [[7 May]]
+- [[June 1873]]
+- [[March 1873]]
+- [[December 1873]]
+- [[1898]]
+- [[Battle of Baiturrahman Mosque]]
+- [[Commission of Inquiry into the First Aceh Expedition]]
+- [[G. G. Booms]]
+- [[J.H.R. Köhler]]
+- [[Second Aceh Expedition]]
+- [[Koetaradja]]
+- [[Panglima Polim]]
+- [[Tengkoe Sjech Saman di Tiro]]
+- [[Tengkoe Koetakarang]]
+- [[Van der Heyden]]
+- [[G.C.E. van Daalen]]
+- [[Prang sabil]]
+- [[Tadkirat arrakidin]]
+- [[1888]]
+- [[1936]]
+- [[Storm on the Kraton (1 April 1873)]]
+- [[Generaal Köhler]]
+- [[Majoor Cavaljé]]
+- [[Kraton of Atjeh]]
+- [[Atjeh-enquête]]
+- [[Second Aceh Expedition (1873–1874)]]
+- [[Beaumont-geweer]]
+- [[Bamboe-doeri versperringen]]
+- [[Declaration of war on Atjeh (1873)]]
+- [[T.N. Nieuwenhuyzen]]
+- [[I.D. Fransen van de Putte]]
+- [[Loudon]]
+- [[Van Swieten]]
+- [[Kroesen]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Second Atjeh expedition (1873)]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[Eerste Atjeh-expeditie (1873)]]
 
 ## Source
 

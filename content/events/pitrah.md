@@ -1,8 +1,30 @@
 ---
 title: Pitrah
-aliases: ["Zakat fitrah", "Zakat al-fitr", "Fitrah", "Fitr tax", "Pitrah", "Zakat al-fitr in Acheh", "Padiah for neglected prayers", "Pitrah and padiah", "Pitrah as uleebalang's due", "Uleebalang's share of pitrah", "Pitrah and jakeuet"]
-
-tags: [event, religious, ceremony, festival, legal, padiah, uleebalang, revenue]
+aliases:
+- Zakat fitrah
+- Zakat al-fitr
+- Fitrah
+- Fitr tax
+- Zakat al-fitr in Acheh
+- Padiah for neglected prayers
+- Pitrah and padiah
+- Pitrah as uleebalang's due
+- Uleebalang's share of pitrah
+- Pitrah and jakeuet
+- Atjeh pitrah
+- Atjehnese pitrah collection
+tags:
+- event
+- religious
+- ceremony
+- festival
+- legal
+- padiah
+- uleebalang
+- revenue
+- concept
+- islamic
+- achehnese
 ---
 
 The **pitrah** (Achehnese, from the Arabic *zakāt al-fiṭr*) is the tax payable at the end of the [[Puasa (Ramadhan fasting month)|fasting month]] by all whose means allow of it, on behalf of themselves and all who are dependent on them for support. The payment is made in kind — that is to say, in grain of the sort which forms the staple foodstuff of the country — and its special object is to make it easier for the indigent to participate in the feast which succeeds the fast. The Arabic legal measure has been fixed in Achehnese dry measure at **two ares** of rice per head, heaped up so as to rise in a cone at the top.
@@ -45,6 +67,10 @@ The claim of the uleebalang to a portion of the pitrah must be read in connexion
 
 The coupling of the pitrah with the [[Jakeuet (zakat)|jakeuet]] in the uleebalang's revenue is significant. Both were zakāt payments of canonical prescription, the pitrah being the alms of the end of the fast and the jakeuet the alms of property. Both, in strict law, were to be distributed to the eight classes of recipients named in the Quran; both, in Achehnese practice, had come to be reckoned among the sources of profit of the territorial chief. The mention of the two together by [[C. Snouck Hurgronje|Snouck Hurgronje]] indicates the extent to which the canonical law of zakāt had been modified, in actual Achehnese usage, by the customary claims of the uleebalang and the teungku.
 
+
+## Sources
+*Wat Indië Ontving en Schonk*, onder leiding van Dr. C. W. Wormser (Amsterdam: Wereldbibliotheek N.V., 1946), pp. 86 and 91 (chapter *De invloed van den Islam* door Prof. Dr. W. J. A. Kernkamp).
+
 ## See Also
 
 - [[Puasa (Ramadhan fasting month)]]
@@ -59,6 +85,16 @@ The coupling of the pitrah with the [[Jakeuet (zakat)|jakeuet]] in the uleebalan
 - [[Five daily prayers]]
 - [[Pitrah (Vol. I)]]
 - [[Uleebalang]]
+- [[Djakat]]
+- [[Meunasah]]
+- [[Ratib in Atjeh]]
+- [[Kadar night]]
+- [[Teungku]]
+- [[Acheh]]
+- [[C. Snouck Hurgronje]]
+- [[J. Kreemer]]
+- [[Wat Indië Ontving en Schonk]]
+- [[W. J. A. Kernkamp]]
 
 ## Source
 

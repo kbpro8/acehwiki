@@ -1,7 +1,48 @@
 ---
 title: Capture of the Kraton (24 January 1874)
-aliases: [Val van de Kraton, Fall of the Kraton, Verovering van den Kraton, Inname van de Kraton 1874, Fall of the Dalam, Capture of the Kraton of Atjeh (24 January 1874), Innemen van de Kraton (24 januari 1874), Kraton of Atjeh captured, 24 January 1874 Kraton, Fall of the Kraton of Atjeh, Capture of the sultan's palace]
-tags: [event, battle, military, dutch-colonial, aceh-war, military-campaign, dutch, colonial, achehnese, infantry, 19th-century, kraton, koeta-radja, capture]
+aliases:
+- Val van de Kraton
+- Fall of the Kraton
+- Verovering van den Kraton
+- Inname van de Kraton 1874
+- Fall of the Dalam
+- Capture of the Kraton of Atjeh (24 January 1874)
+- Innemen van de Kraton (24 januari 1874)
+- Kraton of Atjeh captured
+- 24 January 1874 Kraton
+- Fall of the Kraton of Atjeh
+- Capture of the sultan's palace
+- Conquest of the Kraton (24 January 1874)
+- Fall of the Atjeh Kraton
+- Verovering van de kraton
+- Taking of the kraton of Atjeh
+- Fall of the Kraton (24 January 1874)
+- Val van den Kraton
+- Inname van den Kraton
+- Verspijck's omtrekkende beweging
+- Capture of the Kraton
+- Capture of the Aceh Kraton
+- Invasion of the Kraton 1874
+- Capture of Kotta Radja
+tags:
+- event
+- battle
+- military
+- dutch-colonial
+- aceh-war
+- military-campaign
+- dutch
+- colonial
+- achehnese
+- infantry
+- 19th-century
+- kraton
+- koeta-radja
+- capture
+- kota-radja
+- van-swieten
+- 1874
+- turning-point
 ---
 
 **The Capture of the Kraton** on [[24 January]] [[1874]] was the culminating episode of the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]], in which a reconnaissance sent by Lieutenant-general [[Jan van Swieten|Van Swieten]] from [[Taman (Kota Goenoengan)|Kota Goenoengan]] entered the [[Kraton of Aceh|Kraton]] of the [[Sultan of Aceh|sultan]] of [[Acheh|Atjeh]] unopposed and hoisted the Dutch flag on the watch-house, to the strains of the *Wilhelmus* played by the band of the right half of the 14th bataljon. The capture came after a month of operations and several costly failures, and was followed within two days by the death of the sultan and within a week by the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] by right of conquest.
@@ -59,6 +100,12 @@ A week after the capture of the Kraton, on [[31 January]] [[1874]], General [[Ja
 
 The capture of the [[Kraton of Aceh|Kraton]] on [[24 January]] [[1874]] is significant for the encyclopedia of [[Acheh|Achehnese]] history, in the schoolroom memory, on three counts. First, it is the principal Dutch military success of the opening phase of the [[Aceh War|Atjeh-oorlog]] — the act by which the war was transformed from a punitive expedition into a conquest, and by which the strategic objective of both expeditions was finally achieved. Second, it is the proximate cause of the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[31 January]] [[1874]] — the formal founding document of the colonial administration of Atjeh. Third, it is the founding event of the colonial capital of [[Koeta Radja|Kota Radja]] — the seat of Dutch authority in Atjeh for the next forty-four years, and the documentary fix, in the schoolroom memory, of the transformation of the sultan's palace into the colonial seat of government.
 
+
+## Sources
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter III, "Tweede expeditie, van December 1873 tot April 1874." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 13–14.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 23–34.
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 7-12, 20-35, 68-72.
+
 ## See Also
 
 - [[Jan van Swieten|J. van Swieten]]
@@ -89,6 +136,43 @@ The capture of the [[Kraton of Aceh|Kraton]] on [[24 January]] [[1874]] is signi
 - [[1873]]
 - [[1903]]
 - [[31 January]]
+- [[Kota Radja]]
+- [[Sultan of Aceh]]
+- [[Sultanate of Aceh]]
+- [[Tweede Atjeh-expeditie (1873-1874)]]
+- [[Meusigit Raja]]
+- [[Atjeh River]]
+- [[Geconcentreerde Linie]]
+- [[Onderwerpingsacte]]
+- [[Civiel en Militair Gouvernur]]
+- [[Koninklijke Marine]]
+- [[Vetter]]
+- [[Proclamation of the Regeeringscommissaris (12 April 1896)]]
+- [[Atjeh-oorlog]]
+- [[Padang]]
+- [[Batavia]]
+- [[7 January]]
+- [[24 January]]
+- [[26 January]]
+- [[9 December]]
+- [[January 1874]]
+- [[1874]]
+- [[1896]]
+- [[Second Aceh Expedition (1873–1874)]]
+- [[Kraton of Atjeh]]
+- [[Generaal Verspijck]]
+- [[Capture of Kota Goenoengan (12 January 1874)]]
+- [[Bombardment of the Kraton (January 1874)]]
+- [[Omtrekking]]
+- [[Atjeh-rivier]]
+- [[Kroeng Daroe]]
+- [[Van Swieten declares the Aceh War ended (1874)]]
+- [[J. van Swieten]]
+- [[J. L. J. H. Pel]]
+- [[Sultan Mahmud Syah of Aceh]]
+- [[Second Aceh Expedition]]
+- [[General van Swieten War Telegrams]]
+
 ## Source
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 23-26.

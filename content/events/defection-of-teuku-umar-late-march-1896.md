@@ -1,7 +1,38 @@
 ---
 title: Defection of Teuku Umar (late March 1896)
-aliases: ["Defection of Teuku Umar", "Defection of T. Oemar", "Afval van Toekoe Oemar", "Teuku Umar's defection", "T. Oemar's defection"]
-tags: [event, achehnese, dutch, colonial, military, diplomacy, aceh-war, defection]
+aliases:
+- Defection of Teuku Umar
+- Defection of T. Oemar
+- Afval van Toekoe Oemar
+- Teuku Umar's defection
+- T. Oemar's defection
+- Defection of Teuku Umar (March 1896)
+- Toekoe Oemar's verraad (1896)
+- Verraad van Toekoe Oemar
+- March 1896 defection
+- 29 March 1896 defection
+- The betrayal of Toekoe Oemar (1896)
+- Toekoe Oemar's betrayal
+- Teuku Umar's betrayal
+- The 1896 betrayal of Toekoe Oemar
+- Toekoe Oemar's defection of 1896
+tags:
+- event
+- achehnese
+- dutch
+- colonial
+- military
+- diplomacy
+- aceh-war
+- defection
+- acehnese
+- defector
+- military-crisis
+- 19th-century
+- pahlawan-klucht
+- teuku-umar
+- betrayal
+- pacification
 ---
 
 **The Defection of Teuku Umar (late March 1896)** — known in the source as the *afval van Toekoe Oemar* — was the abandonment of the [[Dutch]] colonial cause by [[Teuku Umar]] — *Toekoe Djohan Pahalawan*, [[Panglima Prang Besar]] of the Government, territorial chief of [[Lepong]] — on approximately [[26 March]]–[[29 March]] [[1896]], the central event of the first semester of the [[Aceh War|Atjeh-oorlog]] and the immediate trigger of the [[Dutch]] military collapse that culminated in the wholesale evacuation of the [[buitenlinie]] and the dispatch of [[Luitenant-Generaal J. A. Vetter|Lt.-Gen. Vetter]] as [[Regeeringscommissaris]]. Umar turned his Dutch-supplied arms against his patrons, wrote [[First Letter of Teuku Umar|three]] [[Second Letter of Teuku Umar|letters]] [[Third Letter of Teuku Umar|(of 30 March, 12 April, and 23 April 1896)]] to the [[Governor of Atjeh]] explaining his defection and demanding ƒ150,000 per month and a Royal decoration ("kruis"), and was formally dismissed from his two posts by the [[Government Resolution of 26 April 1896 No. 159/11]] (No. 159). As described in [[A. Kruisheer|Kruisheer]]'s *ATJEH '96*, the defection "was, as it were, set on loose screws" — set, as it were, on loose screws — everything that had been gained since [[1893]].
@@ -30,6 +61,11 @@ The immediate military consequences of the defection were the [[Siege of blokhui
 
 The defection of Teuku Umar was the pivotal event of the first semester of [[1896]] and one of the great crises of the [[Aceh War|Atjeh-oorlog]]. It transformed what had been a counter-insurgency campaign fought largely with native auxiliaries into a conventional war against a unified Achehnese enemy armed with Dutch weapons and trained in Dutch methods. The strategic edifice constructed by [[Generaal-Majoor C. Deykerhoff|Gen.-Maj. Deykerhoff]] between [[1893]] and [[1896]] — the [[Legioen van T. Djohan]], the *buitenlinie*, the network of allied *hoeloebalang* — collapsed in less than a month. The political consequences reached [[Batavia]] and [[The Hague]]: Deykerhoff was dismissed; Vetter, the [[Luitenant-Generaal|Lieutenant-General]] and [[Commandant van het Leger|Army Commander]], was dispatched with full powers as [[Regeeringscommissaris]]; and the entire Dutch strategy in Atjeh was overhauled. The defection also marked the emergence of [[Tjoet Nja Din]] — Umar's wife, who would herself become a legendary resistance leader — as a figure of central importance in the war.
 
+
+## Sources
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter XII (the plan and the defection), Chapter XIII (the counter-offensive and Kruijt's judgement). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 72–74.
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 2 (Bestuurs-organisatie), p. 68 (section "De Atjeh-tram").
+
 ## See Also
 
 - [[Teuku Umar]]
@@ -51,6 +87,41 @@ The defection of Teuku Umar was the pivotal event of the first semester of [[189
 - [[Buitenlinie]]
 - [[1896]]
 - [[Aceh War]]
+- [[T. Djohan Pahlawan]]
+- [[Panglima Prang Besar]]
+- [[Deijkerhoff]]
+- [[Vetter]]
+- [[Pahlawan-klucht]]
+- [[Kroesen]]
+- [[Lamkrah]]
+- [[Kota Radja]]
+- [[Oleh-leh]]
+- [[Groot-Atjeh]]
+- [[Lombok]]
+- [[Van Rees]]
+- [[Van Heutsz]]
+- [[De onderwerping van Atjeh (Van Heutsz)]]
+- [[Sultan of Aceh]]
+- [[Atjeh-oorlog]]
+- [[Regeeringscommissaris]]
+- [[29 March]]
+- [[March 1896]]
+- [[30 September]]
+- [[August 1894]]
+- [[1893]]
+- [[1894]]
+- [[1895]]
+- [[1898]]
+- [[Toekoe Oemar]]
+- [[Pacificatie van Atjeh]]
+- [[Postenlinie]]
+- [[Ceintuur-trambaan]]
+- [[Atjeh-tram]]
+- [[Atjeh's Onderhoorigheden]]
+- [[Acheh]]
+- [[Buitenbezittingen]]
+- [[1897]]
+- [[1902]]
 
 ## Source
 

@@ -1,7 +1,18 @@
 ---
 title: S.W. Monsoon
-aliases: [S.W. Monsoon, South-West Monsoon, Musem barat]
-tags: [event, monsoon, navigation, fishery, calendar]
+aliases:
+- South-West Monsoon
+- Musem barat
+- musim barat
+- west monsoon
+tags:
+- event
+- monsoon
+- navigation
+- fishery
+- calendar
+- season
+- agriculture
 ---
 
 The **S.W. Monsoon** (the *musem barat* of the Achehnese) was the southerly monsoon season, commencing around April, during which the voyage from the [[Banda Acheh|capital]] of [[Acheh]] to the [[West Coast|West Coast]] became dangerous in Achehnese vessels (prahos and sampans). Like its counterpart the [[N.E. Monsoon]], it was interrupted by a brief interval of calmer weather—usually falling in keunong 11 (about November)—the prediction of which was a prized and somewhat secret science among Achehnese sailors and traders.
@@ -22,12 +33,20 @@ The S.W. Monsoon also had its ceremonial significance at the kanduri la'ot, the 
 
 During the seven days following the kanduri la'ot, it was "high festival for the fish" in that *lho'*: for in this week neither the pawangs belonging to that "bay" nor their colleagues from neighbouring parts might fish in the waters fronting that division. This *pantang*-prohibition gave the fish a respite at the very moment when their numbers would otherwise have been most severely thinned by the resumed fishing.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[N.E. Monsoon]]
 - [[N.E. Monsoon|Musem tiniu (N.E. Monsoon)]]
 - [[Kanduri la'ot]]
 - [[Ulee Lheue]]
+- [[Musem Tiniu]]
+- [[Keunong]]
+- [[Kanduri Blang]]
+- [[S-W Monsoon]]
 
 ## Source
 

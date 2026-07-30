@@ -1,7 +1,51 @@
 ---
 title: Second Aceh Expedition (1873-1874)
-aliases: [Tweede Atjeh-expeditie, Second Dutch Expedition to Aceh, Second Atjeh Expedition, Capture of the Kraton 1874]
-tags: [event, war, dutch-colonial, military, aceh-war]
+aliases:
+- Tweede Atjeh-expeditie
+- Second Dutch Expedition to Aceh
+- Second Atjeh Expedition
+- Capture of the Kraton 1874
+- Tweede Atjeh-expeditie (December 1873 – April 1874)
+- Second Aceh Expedition
+- 1873-1874 expedition
+- Van Swieten's expedition
+- Kruijt-1896 account of the Tweede Atjeh-expeditie
+- Second Aceh Expedition (9 December 1873 – 24 January 1874) — Kreemer's account
+- Tweede Atjèh-expeditie
+- second Atjèh expedition
+- the fall of the Kraton
+- Kreemer's account of the second Atjèh expedition
+- Second Aceh Expedition (1873–1874)
+- 2de expeditie tegen Atjeh
+- van Swieten expedition
+- November 1873–April 1874 expedition
+- 1873-1874 Aceh Expedition
+- 2de Atjehsche Expeditie
+- Second Aceh War Campaign
+- Tweede Atjeh Expeditie
+- Tweede Atjehse Expeditie
+- Tweede Atjeh-expeditie (1873-1874)
+tags:
+- event
+- war
+- dutch-colonial
+- military
+- aceh-war
+- colonial
+- aceh
+- knil
+- dutch
+- achehnese
+- 19th-century
+- expedition
+- van-swieten
+- buitenbezittingen
+- kruijt-1896-account
+- atjeh-oorlog
+- atjehnese
+- 1873
+- 1874
+- acehnese
 ---
 
 **The Second Aceh Expedition** (Dutch: *Tweede Atjeh-expeditie*) was the Dutch military expedition dispatched against [[Acheh|Atjeh]] in November [[1873]] under the retired Lieutenant-general [[Jan van Swieten|Jan van Swieten]], restored to active service, which captured the [[Kraton of Aceh|Kraton]] of the sultan on [[24 January]] [[1874]] and ended in the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] by right of conquest. Its military success — achieved by a force of 6354 infantry besides officers, with cavalry, artillery and engineers — failed to bring the [[Aceh War|Atjeh-oorlog]] to an end; the war continued for decades in the form of guerrilla resistance led by the [[Uleebalang|hoeloebalangs]], the [[Imam|imams]] and, after [[1876]], by [[Habib Abdoerrahman|Habib Abdurrahman Zahir]].
@@ -44,6 +88,15 @@ On [[31 January]] [1874] Van Swieten issued his [[Van Swieten's Proclamation of 
 
 In the course of the expedition the navy also rendered great services on several occasions. When it appeared that the radja of [[Pedir|Pedir]] on the north coast had marched with his men to the Kraton to help defend it, a squadron — consisting of the *Zeeland*, *Metalen Kruis*, *Citadel van Antwerpen*, *Borneo* and *Banda* — was ordered to punish Pedir, to bombard the chief kampong and, if possible, to destroy it by a landing. The order was fulfilled on [[29 December|29]]-[[31 December]] [[1873]].
 
+
+## Sources
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter III, "Tweede expeditie, van December 1873 tot April 1874"; Chapter IV opening. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 13–18.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Tweede tijdvak, blz. 15–17.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 9–49, 70, 84, 118, 120.
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 5-75.
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889, pp. 93-130.
+*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Oom en de Bintang."
+
 ## See Also
 
 - [[Jan van Swieten|J. van Swieten]]
@@ -60,6 +113,88 @@ In the course of the expedition the navy also rendered great services on several
 - [[Aceh War]]
 - [[Kraton of Aceh]]
 - [[Kota Radja]]
+- [[Jan van Swieten]]
+- [[Eerste Atjeh-expeditie (1873)]]
+- [[Conquest of the Kraton (24 January 1874)]]
+- [[Meusigit Raja]]
+- [[Groot-Atjeh]]
+- [[Atjeh River]]
+- [[Sultan of Aceh]]
+- [[Sultanate of Aceh]]
+- [[Koninklijke Marine]]
+- [[Onderwerpingsacte]]
+- [[Vlaghijscherij]]
+- [[Habib Abdul Rachman El-Zahir]]
+- [[Atjehsche Raad van Achten]]
+- [[Constantinople]]
+- [[Penang]]
+- [[Padang]]
+- [[Batavia]]
+- [[Edi]]
+- [[Oostkust]]
+- [[Noordkust]]
+- [[Westkust]]
+- [[Pel's Plan]]
+- [[Postenlinie]]
+- [[Atjeh-oorlog]]
+- [[Handover of Aceh to a civil Gouverneur (1918)]]
+- [[9 December]]
+- [[7 January]]
+- [[24 January]]
+- [[26 January]]
+- [[16 April]]
+- [[26 April]]
+- [[November 1873]]
+- [[December 1873]]
+- [[January 1874]]
+- [[April 1874]]
+- [[1873]]
+- [[1874]]
+- [[1918]]
+- [[Acheh]]
+- [[Generaal van Swieten]]
+- [[Verspijck]]
+- [[General J. H. R. Kohler]]
+- [[First Aceh Expedition (5-29 April 1873) — Kreemer's account]]
+- [[Kraton Atjeh]]
+- [[Tuanku Muhamat Dawot]]
+- [[Toeankoe Hasjim]]
+- [[Keumala]]
+- [[Pidië]]
+- [[Great Acheh]]
+- [[Submission of Habib Abdurrahman (13 October 1878)]]
+- [[Appointment of Jan van Swieten as opperbevelhebber (1873)]]
+- [[Landing at Pedro-punt (6 December 1873)]]
+- [[Battle of Lemboe (25–26 December 1873)]]
+- [[Storming of the Mesigit (6 January 1874)]]
+- [[Capture of Kota Goenoengan (12 January 1874)]]
+- [[Bombardment of the Kraton (January 1874)]]
+- [[Fall of the Kraton (24 January 1874)]]
+- [[Reconnaissance of the Atjeh-rivier (29 January 1874)]]
+- [[Death of the Sultan of Atjeh and annexation proclamation (1874)]]
+- [[Expedition to Bital (12 February 1874)]]
+- [[Expedition to Ketapang Doewa (15 February 1874)]]
+- [[Battle of Lampoe Oek (16 April 1874)]]
+- [[Van Swieten declares the Aceh War ended (1874)]]
+- [[Departure of Jan van Swieten from Atjeh (April 1874)]]
+- [[Generaal Verspijck]]
+- [[Generaal Pel]]
+- [[Padangsche brigade]]
+- [[Tactische aanbevelingen en wenken (1873)]]
+- [[Capture of the Aceh Kraton]]
+- [[First Aceh Expedition]]
+- [[General Pel's Campaign in Aceh]]
+- [[J. van Swieten]]
+- [[Third Conquest of the Great Missigit]]
+- [Atjeh-oorlog](/events/atjeh-oorlog)
+- [[Missigit (Meusigit)]]
+- [[Koeta-Radja]]
+- [[Derde Bataljon (Atjeh-Bataljon)]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
+- [[6 January]]
+- [[1876]]
+- [[1877]]
+- [[1911]]
 
 ## Source
 

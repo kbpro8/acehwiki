@@ -1,7 +1,41 @@
 ---
 title: Nisero affair (1883–1885)
-aliases: [Nisero-quaestie, the Nisero question, the wreck of the Nisero, the Teunöm hostage crisis, the Panga affair, Nisero question, Nisero incident, the Nisero affair, "de treurige Nisero-quaestie", Nisero-quaesties]
-tags: [event, maritime, political, colonial, atjeh-oorlog, 19th-century, british, dutch, atjehnese, westkust, diplomatic, aceh-war, 1884, 1885]
+aliases:
+- Nisero-quaestie
+- the Nisero question
+- the wreck of the Nisero
+- the Teunöm hostage crisis
+- the Panga affair
+- Nisero question
+- Nisero incident
+- the Nisero affair
+- de treurige Nisero-quaestie
+- Nisero-quaesties
+- Nisero affair (November 1883 – September 1884)
+- Nisero affair
+- Nisero-kwestie
+- Wreck of the Nisero
+- Nisero captivity
+- Tenom Nisero affair
+tags:
+- event
+- maritime
+- political
+- colonial
+- atjeh-oorlog
+- 19th-century
+- british
+- dutch
+- atjehnese
+- westkust
+- diplomatic
+- aceh-war
+- 1884
+- 1885
+- diplomatic-incident
+- tenom
+- nisero
+- laging-tobias
 ---
 
 **The Nisero affair** of [[1883]]–[[1885]] — in [[J. Kreemer|Kreemer]]'s history, the *Nisero-quaestie* — was the international incident provoked by the wreck of the English ship *Nisero* in November [[1883]] off [[Panga|Panga]], in the territory of [[Teunom|Teunöm]] on [[Atjeh's Westkust|Atjèh's Westkust]], the seizure and plunder of the ship and the imprisonment of its crew by the Radja of Teunöm, and the protracted Dutch–British–Atjèhnese negotiations for the crew's release. The affair, in Kreemer's account, brought the Netherlands to the brink of international complications with Britain, exposed the limits of Dutch authority on the Westkust, and produced — through the disastrous employment of [[Teukoe Oema|Teukoe Oema]] as a Dutch agent — the conversion of Oema from uncertain ally to irreconcilable enemy. In [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]*, the *Nisero-quaestie* — *de treurige Nisero-quaestie* — is cited as one of the events of the [[1884]]–[[1885]] policy context that exposed Dutch weakness on the Atjehnese coast and that the Atjehnese drew on when they concluded that the Dutch would prove "*weder spoedig te zwak*" — too weak again — to carry the [[Concentratiebesluit (19 Augustus 1884)|Concentratie]] and the [[Staatsblad No. 105 van 1884|rigorous blokkade]] through.
@@ -84,9 +118,33 @@ In Van Heutsz's [[1893]] diagnosis, the *Nisero-quaestie* was, additionally, one
 - [[1883]]
 - [[1884]]
 - [[1885]]
+- [[Nisero (ship)]]
+- [[Tenom]]
+- [[Pruijs van der Hoeven]]
+- [[Civil Government Period (1881-1884)]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[s Jacob]]
+- [[Staten-Generaal]]
+- [[Straits Settlements]]
+- [[British Empire]]
+- [[Hok Canton affair]]
+- [[Habib Abdul Rachman El-Zahir]]
+- [[Toeankoe Abdul Medjid]]
+- [[Atjeh-oorlog]]
+- [[August 1883]]
+- [[November 1883]]
+- [[June 1884]]
+- [[16 June]]
+- [[17 June]]
+- [[September 1884]]
+- [[June 1886]]
+- [[June 1887]]
+- [[1886]]
+- [[1887]]
 
 ## Sources
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Vijfde tijdvak, blz. 24–25. Citing [[E. B. Kielstra|E. B. Kielstra]], *Atjèh onder het bestuur van den Gouverneur Laging Tobias*, p. 520 vg. en 541 vg., and [[K. F. H. van Langen|K. F. H. van Langen]] in *De Ind. Gids* 1884 dl. II p. 239 vg.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders Van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 38, 77. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VIII, "Achteruitgang onder de Civiele Gouverneurs Pruijs van der Hoeven en Laging Tobias, van April 1881 tot September 1884." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 44.

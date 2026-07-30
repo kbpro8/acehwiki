@@ -1,7 +1,28 @@
 ---
 title: Sumatra-tractaat (1871)
-aliases: ["Sumatra-tractaat (1871)", "Sumatra-tractaat", "Sumatra Treaty of 1871", "Anglo-Dutch Treaty of 1871 (Sumatra)", "Anglo-Dutch Sumatra Treaty", "the 1871 Sumatra-tractaat"]
-tags: [document, treaty, diplomacy, colonial, dutch, british, acheh]
+aliases:
+- Sumatra-tractaat
+- Sumatra Treaty of 1871
+- Anglo-Dutch Treaty of 1871 (Sumatra)
+- Anglo-Dutch Sumatra Treaty
+- the 1871 Sumatra-tractaat
+- Sumatra Treaty 1871
+- Treaty of Sumatra 1871
+- Sumatra-tractaat van 1871
+- Sumatra Treaty (2 November 1871)
+- Sumatra-tractaat 2 November 1871
+tags:
+- document
+- treaty
+- diplomacy
+- colonial
+- dutch
+- british
+- acheh
+- concept
+- diplomatic
+- political
+- 1871
 ---
 
 **The Sumatra-tractaat (1871)** — the Sumatra Treaty of [[1871]] — was the Anglo-Dutch treaty by which [[Great Britain|England]] agreed that the whole of [[Sumatra]] — including the independent [[Acheh|Atjeh]] sultanate — would fall within the [[Netherlands|Dutch]] sphere of influence, in exchange for the concession to British subjects of the same commercial rights throughout [[Sumatra]] as those enjoyed by Dutch subjects. The treaty is the diplomatic hinge on which the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]] turns; its conclusion is the proximate cause of the [[Declaration of war against the Sultan of Atjeh (1873)|declaration of war on Atjeh]] of [[1873]].
@@ -77,9 +98,24 @@ The [[Sumatra-tractaat (1871)|Sumatra-tractaat of 1871]] is the diplomatic instr
 - [[Anglo-Dutch Treaty of 1824]]
 - [[Nieuw Guinea]]
 - [[1824]]
+- [[Tractaat van 1824 (Anglo-Dutch)]]
+- [[Tractaat van 1857]]
+- [[Siak-tractaat (1858)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Declaration of war on Atjeh (1873)]]
+- [[Godefroi]]
+- [[Van Zuylen van Nyevelt]]
+- [[Cremers]]
+- [[Anglo-Dutch Treaty of 1824|London Treaty (1824)]]
+- [[Declaration of War on Aceh (1873)]]
+- [[Aceh War (1873–1904)]]
+- [[Dutch East Indies Government]]
+- [[Gold Coast of Africa]]
 
 ## Sources
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 267-269, 276.
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 209, 216.
+Verslag van het verhandelde in de vergaderingen der Tweede Kamer in comité-général van 16, 17, 18 en 20 April 1874: Oorlog met Atjeh, gedrukt ter Algemene Landsdrukkerij van het Koloniaal Instituut (1881), pp. 16–23, 28–30.
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, p. 121.

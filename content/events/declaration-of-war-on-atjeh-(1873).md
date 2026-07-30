@@ -1,7 +1,24 @@
 ---
-title: "Declaration of war on Atjeh (1873)"
-aliases: ["Declaration of war on Atjeh", "War declaration on Atjeh", "Oorlogsverklaring aan Atjeh", "Atjeh war declaration 1873", "Ultimatum to Sultan of Atjeh 1873"]
-tags: [event, political, military, colonial, dutch, acheh]
+title: Declaration of war on Atjeh (1873)
+aliases:
+- Declaration of war on Atjeh
+- War declaration on Atjeh
+- Oorlogsverklaring aan Atjeh
+- Atjeh war declaration 1873
+- Ultimatum to Sultan of Atjeh 1873
+- Declaration of war against the Sultan of Atjeh (1873)
+- Atjeh-oorlog verklaard 1873
+- Dutch declaration of war on Atjeh (1873)
+- oorlogsverklaring aan de sultan van Atjeh (1873)
+tags:
+- event
+- political
+- military
+- colonial
+- dutch
+- acheh
+- war
+- diplomacy
 ---
 
 **The declaration of war on Atjeh** in March [[1873]] was the Dutch act of war against the Sultanate of [[Acheh|Atjeh]], precipitated by the ultimatum delivered by *gouvernements-commissaris* [[T.N. Nieuwenhuyzen|Nieuwenhuyzen]] to the Sultan on [[22 March]] [[1873]] and confirmed by the bombardment of the Sultan's residence from the warships anchored 3,600 metres offshore. The declaration triggered the [[First Atjeh expedition (March-April 1873)|first Atjeh expedition]] and inaugurated the [[Atjeh-oorlog (1873-1904)|Atjeh War]], the longest and most costly colonial conflict in Dutch history.
@@ -24,6 +41,10 @@ The legitimacy of the war declaration was the central question of the [[Parliame
 
 Several speakers argued that a naval demonstration — taking position by the ships, declaring war without a large landing, and blockading the coast — would have been sufficient to present America with a *fait accompli* while avoiding the disastrous land expedition. [[Stieltjes|Stieltjes]] noted that Prussia and France had been at war without Germany blockading any French port, and that the Netherlands had been at war with Belgium in [[1830]] without blockading Ostend. [[C. van Nispen van Sevenaer|Van Nispen]] argued that one could have blockaded without landing troops, and that the great landing before the kraton was the fundamental error that gave the Atjehers the opportunity to construct formidable fortifications.
 
+
+## Sources
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 267-269.
+
 ## See Also
 
 - [[T.N. Nieuwenhuyzen]]
@@ -36,6 +57,17 @@ Several speakers argued that a naval demonstration — taking position by the sh
 - [[Gouvernements-commissaris]]
 - [[Manifest aan Sultan van Atjeh (22 March 1873)]]
 - [[Tractaat van 1824 (Anglo-Dutch)]]
+- [[Sultan of Acheh]]
+- [[P. P. van Bosse]]
+- [[H. B. van Kol]]
+- [[Abraham Kuyper]]
+- [[Singapore]]
+- [[Soezkanaal]]
+- [[Straat Malakka]]
+- [[Mentawai-eilanden]]
+- [[1871]]
+- [[1873]]
+- [[1897]]
 
 ## Source
 

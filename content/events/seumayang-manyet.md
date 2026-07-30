@@ -1,7 +1,21 @@
 ---
 title: Seumayang manyet (funeral prayer)
-aliases: [Seumayang manyet, Salat al-janazah, Funeral prayer, Prayer over the dead]
-tags: [event, religious, funeral, prayer, ceremony]
+aliases:
+- Seumayang manyet
+- Salat al-janazah
+- Funeral prayer
+- Prayer over the dead
+- Du'a Kubur
+- Graveside prayer
+- Du'a qubūr
+tags:
+- event
+- religious
+- funeral
+- prayer
+- ceremony
+- funeral-rite
+- religious-practice
 ---
 
 The **seumayang manyet** (Achehnese, from the Arabic *ṣalāt al-janāzah*, the funeral prayer) was the prayer offered over the dead in [[Acheh|Acheh]] before the conveyance of the bier to the tomb. In Acheh, as in [[Java|Java]], this service presented, in the view of [[C. Snouck Hurgronje|Snouck Hurgronje]], a sad contrast to the intention of the Mohammedan law. According to the latter, it was almost the same as an ordinary *ṣalat* such as every Mohammedan was supposed to perform five times a day; it differed in a number of special details from this daily service, but as the law urged all to take part in these services for the benefit of their fellow-believers, it assumed that such differences in details were generally known.
@@ -18,6 +32,10 @@ The bier was solemnly borne down the steps of the house by a crowd of the fellow
 
 The seumayang manyet was the central religious observance of the Achehnese funeral, but it was surrounded by a complex of popular customs that gave the funeral much of its distinctive character. The *kunyong* or condolence visits lasted up to seven days; the *pitinoe* or artificial wail accompanied the arrival of each female guest; and on the [[West Coast|West Coast]] the disreputable [[Mupho|mupho]] dance was performed by men, women, and girls in the partly-demolished house of the deceased. Against this background of popular ceremony, the seumayang manyet stood as the canonical core of the funeral, performed by the teungku and a few hired leubes on behalf of an assembly most of whom were strangers to the prescribed forms. It was, in [[C. Snouck Hurgronje|Snouck Hurgronje]]'s judgement, one of the clearest examples of the gulf that separated the book of the law from the living practice of the Achehnese gampong.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Mupho]]
@@ -25,6 +43,9 @@ The seumayang manyet was the central religious observance of the Achehnese funer
 - [[Meunasah]]
 - [[Five daily prayers]]
 - [[Teungku]]
+- [[Tahlil]]
+- [[Funeral Rites in Acheh]]
+- [[Pula batee]]
 
 ## Source
 

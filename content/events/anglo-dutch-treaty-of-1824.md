@@ -1,8 +1,40 @@
 ---
 title: Anglo-Dutch Treaty of 1824
-aliases: ["Anglo-Dutch Treaty of 1824", "the London Treaty of 1824", "Tractaat van Londen (1824)", "Londense tractaat van 1824"]
-tags: [event, document, political, treaty, international, colonial, anglo-dutch, diplomacy, dutch, british, acheh]
-description: Bilateral agreement of 17 March 1824 between Great Britain and the Netherlands that divided the East Indian archipelago into respective spheres of influence and inserted a fateful Acheh reservation that paralysed Dutch policy on Sumatra for nearly half a century.
+aliases:
+- the London Treaty of 1824
+- Tractaat van Londen (1824)
+- Londense tractaat van 1824
+- Treaty of 1824
+- Treaty of London 1824
+- Dutch-British Treaty of 1824
+- Tractaat van 17 Maart 1824
+- London treaty of 17 March 1824
+- Londensch tractaat van 1824
+- Tractaat van Londen
+- London Treaty
+- Treaty of London
+- Anglo-Dutch Treaty of London (1824)
+- Anglo-Dutch Treaty of London 1824
+- Treaty of London (1824)
+- Londensche traktaat 1824
+- 1824 Treaty
+- London Convention 1824
+tags:
+- event
+- document
+- political
+- treaty
+- international
+- colonial
+- anglo-dutch
+- diplomacy
+- dutch
+- british
+- acheh
+description: Bilateral agreement of 17 March 1824 between Great Britain and the Netherlands
+  that divided the East Indian archipelago into respective spheres of influence and
+  inserted a fateful Acheh reservation that paralysed Dutch policy on Sumatra for
+  nearly half a century.
 ---
 
 > **Note on nomenclature.** The Anglo-Dutch Treaty of 1824 is known in Dutch as the *Tractaat van 17 Maart 1824* or *Londensch tractaat van 1824* (and also simply as *Tractaat van Londen*). One of the source documents (*De geschiedenis van het Nederlandsche Korps Mariniers van 1665–1945*) gives the date as **7 March 1824** — almost certainly a typographical error for 17 March; another (*DLP-55*) gives **27 August 1824**, possibly a confusion with the ratification-instructions of 31 August 1824. The historical Treaty of London was signed on [[17 March]] [[1824]] in London.
@@ -170,6 +202,14 @@ The [[Anglo-Dutch Treaty of 1824|1824 London Treaty]] is the diplomatic instrume
 - [[Atjehoorlog]]
 - [[1857]]
 - [[Nieuw Guinea]]
+- [[Anglo-Dutch Treaty of 1871]]
+- [[Cape of Guinea cession (1871)]]
+- [[Padri War on Sumatra's East Coast]]
+- [[Van Heutsz's governorship]]
+- [[Parliamentary Note on Relations with Aceh 1872-1873]]
+- [[I. D. Fransen van de Putte]]
+- [[G. G. Booms]]
+- [[Aceh Sultanate]]
 
 ## Sources
 
@@ -184,3 +224,4 @@ The [[Anglo-Dutch Treaty of 1824|1824 London Treaty]] is the diplomatic instrume
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665–1945*, OCR text, pp. 109–110, 121.
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 197, 216.
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 6-7; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 5-11.

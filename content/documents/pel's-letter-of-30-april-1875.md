@@ -1,8 +1,29 @@
 ---
-title: "Pel's letter of 30 April 1875"
-aliases: ["the 30 April 1875 letter", "Pel's brief van 30 April 1875", "Pel Plan letter", "Brief van Generaal Pel aan den Gouverneur-Generaal (Atjeh, 30 April 1875)"]
-tags: [document, letter, colonial, dutch, atjeh, aceh-war, 19th-century, 1875, policy-plan]
-description: "The letter from Generaal Pel to Governor-General van Lansberge, dated Atjeh, 30 April 1875, enclosing the Pel Plan for the occupation of the entire coastal strip of Groot-Atjeh from Kroeng Raja to Kroeng Raba."
+title: Pel's letter of 30 April 1875
+aliases:
+- the 30 April 1875 letter
+- Pel's brief van 30 April 1875
+- Pel Plan letter
+- Brief van Generaal Pel aan den Gouverneur-Generaal (Atjeh, 30 April 1875)
+- Pel's Plan (30 April 1875)
+- Pel's coastal line program
+- the Pel Plan
+tags:
+- document
+- letter
+- colonial
+- dutch
+- atjeh
+- aceh-war
+- 19th-century
+- 1875
+- policy-plan
+- event
+- military
+- plan
+description: The letter from Generaal Pel to Governor-General van Lansberge, dated
+  Atjeh, 30 April 1875, enclosing the Pel Plan for the occupation of the entire coastal
+  strip of Groot-Atjeh from Kroeng Raja to Kroeng Raba.
 ---
 
 **Pel's letter of [[30 April]] [[1875]]** — the *brief van Generaal Pel aan Z. E. den Gouverneur-Generaal van Nederlandsch-Indië, gedagteekend Atjeh, 30 April 1875* (letter from General Pel to His Excellency the Governor-General of the Netherlands-Indies, dated Atjeh, 30 April 1875) by which [[Pel (governor)|Generaal Pel]], the second Governor of [[Atjeh]] and Onderhoorigheden, submitted to [[Van Lansberge|G.-G. van Lansberge]] the *Pel Plan* for the occupation of the entire coastal strip of the valley of [[Groot-Atjeh]] from [[Kroeng Raja]] in the north to [[Kroeng Raba]] in the south, plus the [[VI Moekims]] — is, in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]*, the document that marks the formal abandonment of [[Van Swieten's Instructie (22 April 1874)|Van Swieten's Instructie]] and the opening of the colony's second strategic programme. Van Heutsz praises the letter as "*een uitmuntend gesteld stuk*" — an excellently composed piece — and recommends its reading to his own readers: "*Wij kunnen de lezing van dien brief aanbevelen*" (We can recommend the reading of that letter). The letter was reproduced as *Bijlage IV* (Appendix IV) in the second volume of [[Kielstra|Kielstra's]] *[[Beschrijving van den Atjeh-oorlog]]* and is the only document in the 1893 tract to which Van Heutsz extends a direct reader-direction. The letter's central question — what was to be done *after* the plan was completed — went unanswered, and Pel's early death "*in 't begin van 1876*" (in the beginning of 1876) deprived the colony of the one man who might have answered it.
@@ -53,6 +74,10 @@ Pel's death "*kwam er groote vertraging in de uitvoering van zijn plan*" — bro
 
 Pel's letter of [[30 April]] [[1875]] is, in Van Heutsz's narrative, the document that marks the formal abandonment of [[Van Swieten's Instructie (22 April 1874)|Van Swieten's Instructie]] and the opening of the colony's second strategic programme — the occupation of the entire coastal strip of [[Groot-Atjeh]] from [[Kroeng Raja]] to [[Kroeng Raba]] plus the [[VI Moekims]]. Its significance in the Aceh Wiki History record lies in four things. First, it is the document Van Heutsz singles out for the highest praise of any Governor's programme except [[General van der Heijden|Van der Heijden]]'s — "*een uitmuntend gesteld stuk*" — and the only document in the [[1893]] tract for which he extends a direct reader-direction: "*Wij kunnen de lezing van dien brief aanbevelen*". Second, it is the document that names the five *kwala's* — [[Kwala Loë|Loé]], [[Gighen]], [[Kwala Atjeh|Atjeh]], [[Kwala Tjangkoel|Tjangkoel]] and [[Pantjoer]] — that became the standard catalogue of the seaward gates of the Atjeh valley and the operational frame for every subsequent Atjeh governor until the [[Concentratiebesluit (19 Augustus 1884)|1884 Concentratie]]. Third, it is the document that poses, in its own concluding paragraph, the question that became the central riddle of the next decade — "*hoe moet men nu verder tot de volkomen onderwerping geraken?*" — the question [[Scherer]]'s [[Scheepvaartregeling|scheepvaartregeling]] of [[1880]] would, in Van Heutsz's reading, finally answer. Fourth, it is the document whose author was removed — Pel's death "*in 't begin van 1876*" during his *roemrijke veldtocht* — before its political conclusion could be drawn: the second great *what if* of Van Heutsz's narrative, the *stelsel* whose author was interrupted before he could carry it through to its *politiek* (political) conclusion.
 
+
+## Sources
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 8–15, 17–19. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
 ## See Also
 
 - [[Pel (governor)|Generaal Pel]]
@@ -74,6 +99,11 @@ Pel's letter of [[30 April]] [[1875]] is, in Van Heutsz's narrative, the documen
 - [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
 - [[1875]]
 - [[1876]]
+- [[Pel (governor)]]
+- [[Van Swieten]]
+- [[Koeala Loé]]
+- [[Kwala Tjangkoel]]
+- [[Diemont]]
 
 ## Source
 

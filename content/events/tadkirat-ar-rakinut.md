@@ -1,7 +1,37 @@
 ---
 title: Tadkirat-ar-rakinut
-aliases: [Tadkirat-ar-rakinut, Tadkirat-ar-Rakinut, Exhortation to the Inactive, Tadkirat-ar-rākinūt, Tadkirat ar-rakidïn, Tadhkirat al-rakidin, Admonition to the Sitter-Still, political pamphlets]
-tags: [event, religious, literature, propaganda, holy-war, document, political, achehnese, 19th-century]
+aliases:
+- Exhortation to the Inactive
+- Tadkirat-ar-rākinūt
+- Tadkirat ar-rakidïn
+- Tadhkirat al-rakidin
+- Admonition to the Sitter-Still
+- political pamphlets
+- Vermaning der stilzittenden
+- political pamphlets Koetakarang
+- Tadkirat arrakidin
+- Tadkirat al-rakidin
+- Admonition to the inactive
+- Tengkoe Koetakarang's pamphlet
+- Acehnese political pamphlet of 1892
+tags:
+- event
+- religious
+- literature
+- propaganda
+- holy-war
+- document
+- political
+- achehnese
+- 19th-century
+- concept
+- pamphlet
+- aceh
+- aceh-war
+- koetakarang
+- snouck-hurgronje
+- 1892
+- resistance
 ---
 
 The **Tadkirat-ar-rakinut** (Arabic *Tadhkirat ar-rākinūt*, "exhortation to the inactive"; also rendered *Tadkirat ar-rakidïn*, "Vermaning der stilzittenden" — "Admonition to the Sitter-Still," i.e. those who sit by passively) is a politico-religious pamphlet circulated in [[Acheh]] by the ulama [[Teungku Kutakarang|Teungku Kutakarang]] as an enlarged and amended edition of a number of politico-religious pamphlets which were already known within a narrower circle. Composed in the common Achehnese metre, it proclaims the principles of the holy war against the Dutch, seeks to rouse the people to better organization and increased energy, and exposes the internal dissensions of the Achehnese camp. [[C. Snouck Hurgronje|Snouck Hurgronje]], who succeeded in obtaining three copies, classes it with the politico-religious literature of the [[Acheh War]].
@@ -45,9 +75,22 @@ The pamphlet thus reveals the dissensions which prevailed even among the ulamas,
 - [[1893]]
 - [[1895]]
 - [[1896]]
+- [[Teungkoe Koetakarang]]
+- [[Aceh War]]
+- [[C. Snouck Hurgronje]]
+- [[Tengkoe Koetakarang]]
+- [[Van der Heyden]]
+- [[Prang sabil]]
+- [[Hikajat prang]]
+- [[Tiro-oelama's ultimatum letter (1885)]]
+- [[Brief van 18 Radjab 1325]]
+- [[1892]]
+- [[1938]]
 
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.

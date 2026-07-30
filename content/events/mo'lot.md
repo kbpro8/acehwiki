@@ -1,8 +1,29 @@
 ---
-title: "Mo'lot"
-aliases: ["Mo'lot", "Maulud", "Rabi' al-awwal", "Rabioy Awal", "feast of the birth of Mohammad", "Prophet's birthday month", "Molot", "Mo'lot month"]
-
-tags: [event, ceremony, feast, calendar, islamic, mawlid, month]
+title: Mo'lot
+aliases:
+- Maulud
+- Rabi' al-awwal
+- Rabioy Awal
+- feast of the birth of Mohammad
+- Prophet's birthday month
+- Molot
+- Mo'lot month
+- Feast of the Birthday of Mohammad
+- Mulud
+- Mawlid
+- Feast of the birth of the Prophet
+- Maulid
+tags:
+- event
+- ceremony
+- feast
+- calendar
+- islamic
+- mawlid
+- month
+- religious
+- festival
+- maulud
 ---
 
 **Mo'lot** (from *Maulud*, the feast of the birth of Mohammad) was the Achehnese name both for the month of [[Rabi' al-awwal]]—the third month of the Mohammedan year—and for the great annual feast of the Prophet's birthday which fell within it. The 12th of this month was, according to the now generally accepted tradition, the date both of the birth and of the death of the Prophet, and on this day many other important occurrences were believed to have taken place during the 63 years which separated these two events. Although the festival was not one of the two officially ordained by the law—since, as may be supposed, it did not begin to be observed until long after Mohammad's death—it was in fact accepted as obligatory, especially in the Indian Archipelago, and entirely overshadowed the so-called "great feast" of the 10th of the 12th month.
@@ -25,6 +46,10 @@ As a month, Molot was one of three consecutive lucky months in the Achehnese cal
 
 Beyond the great feast of the Prophet's birthday, the month was marked by the third of the three annual kanduris held in the *dè'ah* (prayer-house) at the tomb of the great saint [[Teungku Anjong]] in [[Gampong Jawa]], which took place on the night before the 14th of Ramadhan but was anticipated by some of the devotional associations attached to the Molot season. Through these several observances the month of Molot wove together the universal Mohammedan calendar of devotion with the particular cycles of Achehnese agriculture, fishing and saint-worship—a pattern characteristic of the way in which Islam had been naturalised in Achehnese soil.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Maulid sharaful 'anam]]
@@ -35,6 +60,11 @@ Beyond the great feast of the Prophet's birthday, the month was marked by the th
 - [[Kanduri la'ot]]
 - [[Musem Tiniu]]
 - [[Keunong]]
+- [[Maulud]]
+- [[Kanduri]]
+- [[Gampong Jawa]]
+- [[Sultan of Turkey]]
+- [[Prophet Mohammad]]
 
 ## Source
 

@@ -1,7 +1,21 @@
 ---
 title: Peutamat daroh
-aliases: [Peutamat daroih, Peutamat daroh, Conclusion feast of the meudaroih]
-tags: [event, religious-ceremony, ramadhan, feast, meunasah]
+aliases:
+- Peutamat daroih
+- Conclusion feast of the meudaroih
+- Meudaroh
+- Quran recitation gathering
+- beuet di meunasah
+tags:
+- event
+- religious-ceremony
+- ramadhan
+- feast
+- meunasah
+- ceremony
+- religious-practice
+- quran
+- kanduri
 ---
 
 The **peutamat daroh** (also written *peutamat daroih*) was a festive Achehnese celebration marking the conclusion of a session of meudaroih—the chanted recitation of the Qur'an in the [[meunasah]] during the nights of [[Ramadhan|the fasting month]]. Held in every meunasah on one of the nights of the fasting month subsequent to the fifteenth, the feast took its name from *tamat* (conclusion) and *daroh* (from the meudaroih recitation itself), and combined special prayers, dikrs, ratibs, and a communal meal shared by the gampong's inhabitants.
@@ -22,6 +36,10 @@ On this occasion the traweh was succeeded not by the usual meudaroih but by an e
 
 Any of those present who betrayed a manifest reluctance to share in the general excitement was sure to be forced to join the crowd in a manner not too pleasant for himself, and serious disturbances sometimes arose from the annoyance felt at such indifference. For this reason, the authorities both of the gampong which was performing the peutamat daroh and of the others whose inhabitants had come as guests made a point of attending on such occasions.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Ramadhan fasts]]
@@ -29,6 +47,12 @@ Any of those present who betrayed a manifest reluctance to share in the general 
 - [[Peutamat]]
 - [[Meunasah]]
 - [[Samman]]
+- [[Peutamat Daroh]]
+- [[Kanduri Mo'lot]]
+- [[Maulid sharaful 'anam]]
+- [[Kanduri]]
+- [[Tahlil]]
+- [[Ramadhan]]
 
 ## Source
 

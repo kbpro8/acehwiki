@@ -1,7 +1,40 @@
 ---
 title: Ramadhan
-aliases: [Ramadhan, Ramadan, Puasa, The fasting month, Kanduri Bu, Ramalân, The fast, Puasa (Ramadhan)]
-tags: [event, religious-observance, ramadhan, calendar, month-name, ceremony]
+aliases:
+- Ramadan
+- Puasa
+- The fasting month
+- Kanduri Bu
+- Ramalân
+- The fast
+- Puasa (Ramadhan)
+- Fasting Month
+- Puasa month
+- Ramazan
+- Poeasa
+- Ramadan in Atjeh
+- Ramadhan in Achehnese social life
+- Meugang
+- Bulan Posa
+tags:
+- event
+- religious-observance
+- ramadhan
+- calendar
+- month-name
+- ceremony
+- religious
+- festival
+- concept
+- islam
+- religion
+- achehnese
+- terminology
+- religious-practice
+- islamic-calendar
+- social-custom
+- marriage
+- islamic
 ---
 
 **Ramadhan** (Achehnese **Puasa**, also **Ramalân** or **Kamalang**) was the ninth month of the Mohammedan year, observed throughout [[Acheh|Acheh]] as the great month of fasting and nightly devotion. As the month of the most universal of all religious obligations, Ramadhan formed one of the great landmarks of the Achehnese year, preceded by the feast of *kanduri bu* in the preceding month of Sha'ban and followed by the [[Two great Mohammedan feasts|'Id al-Fitr]] at its close.
@@ -66,6 +99,15 @@ The nights of the Puasa in an Achehnese gampong were full of noisy merriment, es
 
 In the Achehnese calendar the commencement of the fasting month was not fixed, as the strict Shafi'ite rule required, by observation of the new moon ([[Ruya (moon-sighting)|ruya]]), but by calculation. The sultans had issued regulations directing that the commencement of the fasting month in each year should be fixed by a council of the learned held on the last Friday of the preceding month, the date being then made known to the people by the firing of guns on the previous day. This was quite inadmissible according to the ruya doctrine, but the Achehnese sultans had long preferred the predictability of calculation to the meteorological uncertainty of observation.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Een strijd in Atjeh (Een oogarts op het oorlogspad)*, door Mr. C. Graadt van Roggen, met een voorrede van den heer H. Wanting, redacteur *Nieuwe Rotterdamsche Courant* (Rotterdam: N.V. Drukkerij Korteweg, uitgave van de Vereeniging „SIMAVI”, [[1934]]), p. 14.
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+*20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pp. 29‑30.
+
 ## See Also
 
 - [[Ramadhan (fasting month)]]
@@ -78,6 +120,29 @@ In the Achehnese calendar the commencement of the fasting month was not fixed, a
 - [[Ramadhan (Vol. I)]]
 - [[Pitrah]]
 - [[Sawo (Sahur)]]
+- [[Traweh (Tarawih)]]
+- [[Pitrah (zakat fitrah)]]
+- [[Leubè raya (Hari Raya Puasa / Eid al-Fitr)]]
+- [[Rateb Saman]]
+- [[Kanduri]]
+- [[Habib Abdurrahman]]
+- [[J. Tijssen]]
+- [[Atjeh's Westkust]]
+- [[Samosir]]
+- [[Trachoma campaign on Samosir (1933)]]
+- [[Tijssen's journey to the West Coast of Atjeh and Simaloer (1933)]]
+- [[Zending]]
+- [[Een strijd in Atjeh (1934)]]
+- [[1933]]
+- [[Puasa]]
+- [[Bukah]]
+- [[Jinamee|Janji Jinamee]]
+- [[Meunasah]]
+- [[Banda Acheh]]
+- [[Ottoman Empire]]
+- [[Burda (poem)]]
+- [[Sultanate of Acheh]]
+- [[Cheikh al‑Būsīrī]]
 
 ## Source
 
