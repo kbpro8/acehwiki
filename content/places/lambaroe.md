@@ -1,7 +1,7 @@
 ---
-title: Lambaroe
-aliases: ["Lambaroe", "Lambarih", "V Moekims Montassik post"]
-tags: [place, aceh, village, achehnese, dutch, colonial, military, aceh-war, xxii-moekims, buitenlinie, 1896, 19th-century]
+title: "Lambaroe"
+aliases: ["Fort Lambaroe", "Kampung Lambaroe", "Lambarih", "Lambaro", "Lambaroe", "V Moekims Montassik post"]
+tags: [place, 19th-century, aceh, aceh-war, achehnese, battlefield, buitenlinie, colonial, dutch, fortification, military, settlement, village, xxii-moekims]
 ---
 
 **Lambaroe** was a settlement north of [[Kajoe‑leh]] that Dutch troops reached after occupying Kajoe‑leh on [[5 February]] [[1876]]. From Lambaroe the column proceeded to the [[Atjeh River]] and later to [[Pajar‑Ajer]].
@@ -32,32 +32,7 @@ Lambarih was a key communication and reinforcement post throughout the first sem
 
 Lambarih was the indispensable support post for the [[Ana' Galong]] garrison and a key communication node in the [[buitenlinie]] of the [[Sagi der XXII Moekims|XXII Moekims]]. Its retention after the evacuation of the outer *buitenposten* in [[April]] [[1896]] reflected its importance to the inner [[Geconcenteerde Linie|Geconcenteerde Linie (Concentrated Line)]], and its telephone connection made it a critical link in the Dutch command network. The post's role in the [[7 March]] [[1896]] relief of [[H. F. T. van Blokland|Van Blokland]]'s patrol was one of the most consequential actions of the pre-defection period.
 
-## See Also
 
-- [[Kajoe‑leh]]
-- [[Atjeh River]]
-- [[Pajar‑Ajer]]
-- [[J. L. J. H. Pel|General Pel]]
-- [[Geconcenteerde Linie]]
-- [[buitenlinie]]
-- [[K. H. Westendorp]]
-- [[F. Ketjen]]
-- [[Kapitein van den generalen staf Kronouer]]
-- [[Ana' Galong]]
-- [[Lamsoet]]
-- [[Blang Tjoet]]
-- [[Battle of Senelop (17 April 1896)]]
-- [[Kapitein P. H. Bodemeijer]]
-- [[H. F. T. van Blokland]]
-- [[Joannes Benedictus van Heutsz]]
-- [[Sagi der XXII Moekims]]
-- [[1896]]
-
-## Source
-
-*Verslagen der Marine‑Vereeniging III 1889‑1890*, pp. 229‑233. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pages 138‑141.
-
-*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 22, 27, 28, 30, 35, 38–40, 42, 51, 55, 62, 63, 66, 75–76, 92, 100, 144, 335.
 
 ## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
 
@@ -87,3 +62,45 @@ In early March [[1876]] the communication between [[Pager Ajer]] and the [[Longb
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 327–329, 336–337.
+
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Combat History in 1875-1876
+
+Guarding the approach to the [[XXII Moekims]], Lambaroe was heavily fortified by Acehnese forces under [[Panglima Polem]]. During [[General Pel's Campaign in Aceh]], General [[J. L. J. H. Pel]] directed offensive operations toward Lambaroe.
+
+In February [[1876]], during the [[March through the XXII Moekims]], columns of the [[3rd Infantry Battalion]] and [[13th Infantry Battalion]] assaulted bentengs around Lambaroe, occupying the settlement and destroying supply granaries across the surrounding sawahs ([[Sawah Cultivation and Supply in Aceh]]).
+
+## See Also
+
+- [[1896]]
+- [[3rd Infantry Battalion]]
+- [[Ana' Galong]]
+- [[Atjeh River]]
+- [[Battle of Senelop (17 April 1896)]]
+- [[Blang Tjoet]]
+- [[F. Ketjen]]
+- [[Geconcenteerde Linie]]
+- [[H. F. T. van Blokland]]
+- [[J. L. J. H. Pel]]
+- [[J. L. J. H. Pel|General Pel]]
+- [[Joannes Benedictus van Heutsz]]
+- [[K. H. Westendorp]]
+- [[Kajoe‑leh]]
+- [[Kapitein P. H. Bodemeijer]]
+- [[Kapitein van den generalen staf Kronouer]]
+- [[Lamsoet]]
+- [[March through the XXII Moekims]]
+- [[Pajar‑Ajer]]
+- [[Panglima Polem]]
+- [[Sagi der XXII Moekims]]
+- [[XXII Moekims]]
+- [[buitenlinie]]
+
+## Source
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 22, 27, 28, 30, 35, 38–40, 42, 51, 55, 62, 63, 66, 75–76, 92, 100, 144, 335.
+
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 14-20, 60-65.
+
+*Verslagen der Marine‑Vereeniging III 1889‑1890*, pp. 229‑233. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pages 138‑141.

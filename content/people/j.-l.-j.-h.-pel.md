@@ -1,7 +1,7 @@
 ---
 title: "J. L. J. H. Pel"
-aliases: ["J. L. J. H. Pel", "Colonel Pel", "Kolonel Pel", "General Pel", "Generaal Pel", "Pel", "J. Pel"]
-tags: [person, military, dutch, colonial, officer, aceh-war, 19th-century, commander]
+aliases: ["Colonel Pel", "Generaal Pel", "General Pel", "J. L. J. H. Pel", "J. Pel", "Johan Lucas Gerardus Pel", "Kolonel Pel", "Pel"]
+tags: [person, 19th-century, aceh-war, colonial, commander, dutch, general, military, officer]
 ---
 
 **J. L. J. H. Pel** — *Kolonel Pel*, later *Generaal Pel* — was a Dutch colonel of the Royal Netherlands East Indies Army ([[K.N.I.L.|K.N.I.L.]]) who, on the departure of [[Jan van Swieten|General van Swieten]] for Java on [[26 April]] [[1874]], was left in command of the Dutch forces in [[Groot-Atjeh|Groot-Atjeh]] with 3,000 men and the mission of carrying out Van Swieten's programme of "beveiliging onszer stelling en de gemeenschap naar zee in Groot-Atjeh, gepaard met streven naar onderwerping" (securing the Dutch position and the communication with the sea in Groot-Atjeh, coupled with the pursuit of submission). His tenure, lasting from [[April 1874|April]] [[1874]] to his death in [[March 1876|March]] [[1876]] during active operations, was marked by the elaboration of the so-called *[[Pel's Plan|Pel's Plan]]* — the great expansion of the Dutch *stelling* (defensive position) around [[Kota Radja|Kota Radja]] that would consume Dutch military power for the next decade.
@@ -34,38 +34,57 @@ Kruijt's judgement of Pel's tenure is severe. The continuous expansion of the *s
 
 Pel's tenure and his *Plan* mark the institutionalisation of the Dutch military presence in [[Groot-Atjeh|Groot-Atjeh]] and the beginning of the *postenlinie* (posts line) strategy that would define the geography of the Dutch position for the next two decades. The port of [[Oleh-leh|Oleh-leh]], established as the seaward terminus of his expanded *stelling*, would remain the principal Dutch naval base in Atjeh throughout the war. The railway connecting Oleh-leh to [[Kota Radja|Kota Radja]] — a project of his tenure — would become the [[Atjeh-tram|Atjeh-tram]], the principal logistical instrument of the Dutch campaign. And the dispersal of force entailed by the expanded *stelling* would prove, as [[J. A. Kruijt|Kruijt]] argued, the structural defect of the Dutch position until the [[Concentratie-stelsel (1884-1896)|concentration]] of [[1884]] reduced the perimeter.
 
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Reorganization of the Occupation (1874-1875)
+
+Taking command after the [[Second Aceh Expedition]], [[J. L. J. H. Pel]] faced severe cholera outbreaks inside [[Kraton of Aceh]] ([[Field Hospital and Cholera Epidemics in Aceh]]). He dispersed troops to well-ventilated barracks at [[Pantei Perak]] and [[Oleh-leh]] and constructed a defensive chain of redoubts including Fort [[Sinangri]] and Fort [[Kaijoe Atoa]].
+
+## Offensive Campaigns of 1875-1876
+
+To end Acehnese attacks on supply lines near [[Kotta Alam]] and [[Oleh Karang]], General [[J. L. J. H. Pel]] launched a winter offensive on [[26 December]] [[1875]]. Operating with a field army of 7,012 men, Pel executed the [[Attack on Mibouw]], directed [[Lieutenant Colonel Meijer]] during the [[Crossing of Blankala Pass]] into the [[IV Moekims]], and led the [[March through the XXII Moekims]] in February [[1876]] against [[Panglima Polem]].
+
+In *Atjeh gedurende de tweede expeditie en later* ([[1876]]), the author praised [[J. L. J. H. Pel]] as a "brave, energetic, and untiring commander," while noting that his strategic speed remained restricted by the [[Transport and Coolie System in Aceh]].
+
 ## See Also
 
-- [[Pel's Plan]]
-- [[Jan van Swieten]]
-- [[Wiggers van Kerchem]]
-- [[Diemont]]
-- [[General van der Heijden]]
-- [[T. Nek van Marassa]]
-- [[Kota Radja]]
-- [[Groot-Atjeh]]
-- [[Oleh-leh]]
-- [[Atjeh River]]
-- [[Atjeh-tram]]
-- [[Postenlinie]]
-- [[Concentratie-stelsel (1884-1896)]]
-- [[Kroeng Raba]]
-- [[Kroeng Raija]]
-- [[K.N.I.L.]]
-- [[Aceh War]]
-- [[Atjeh-oorlog]]
-- [[Batavia]]
-- [[27 April]]
-- [[June 1875]]
-- [[December 1874]]
-- [[November 1875]]
-- [[March 1876]]
-- [[April 1874]]
 - [[1874]]
 - [[1875]]
 - [[1876]]
 - [[1884]]
+- [[27 April]]
+- [[Aceh War]]
+- [[April 1874]]
+- [[Atjeh River]]
+- [[Atjeh-oorlog]]
+- [[Atjeh-tram]]
+- [[Attack on Mibouw]]
+- [[Batavia]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Crossing of Blankala Pass]]
+- [[December 1874]]
+- [[Diemont]]
+- [[General Pel's Campaign in Aceh]]
+- [[General van der Heijden]]
+- [[Groot-Atjeh]]
+- [[J. van Swieten]]
+- [[Jan van Swieten]]
+- [[June 1875]]
+- [[K.N.I.L.]]
+- [[Kota Radja]]
+- [[Kroeng Raba]]
+- [[Kroeng Raija]]
+- [[March 1876]]
+- [[March through the XXII Moekims]]
+- [[November 1875]]
+- [[Oleh-leh]]
+- [[Pel's Plan]]
+- [[Postenlinie]]
+- [[T. Nek van Marassa]]
+- [[Wiggers van Kerchem]]
 
 ## Source
+
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-75.
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IV, "Pel's verrichtingen, van April 1874 tot Maart 1876," and Chapter V opening. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 18–22.

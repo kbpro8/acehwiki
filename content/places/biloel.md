@@ -1,7 +1,7 @@
 ---
 title: "Biloel"
-aliases: ["Biloel", "Biloel (XXV Moekims)", "Bilul", "the post at Biloel", "benting Biloel", "the forward post Biloel"]
-tags: [place, military-post, aceh-war, 1896, aceh, xxv-moekims, groot-atjeh, besieged-post, dutch, colonial, 1894, 1895, voorpost]
+aliases: ["Biloel", "Biloel (XXV Moekims)", "Bilul", "Fort Biloel", "Negorij Biloel", "benting Biloel", "the forward post Biloel", "the post at Biloel"]
+tags: [place, aceh, aceh-war, achehnese, besieged-post, colonial, dutch, fortification, groot-atjeh, military-post, settlement, voorpost, xxv-moekims]
 ---
 
 **Biloel** was a Dutch temporary military post established in the [[XXV Moekims]] of [[Groot-Atjeh]] during the [[1890s]], in succession to the abandoned post of [[Boekit Daroe]] — a site that had been *aanhoudend beschoten* (continuously bombarded) and that had accordingly been abandoned for the more defensible site of Biloel. The post at Biloel was one of the four Dutch temporary posts — together with [[Anagaloeng]], [[Senelop]] and [[Lamkoenjit]] — that were besieged by the forces of [[Toekoe Oemar]] after his [[Toekoe Oemar's defection (1896)|defection]] from the Dutch alliance in [[March]] [[1896]], and its relief on [[9 April]] [[9 April]] [[1896]] was one of the principal engagements of the spring [[1896]] crisis. As described in [[A. Kruisheer|Kruisheer]]'s *ATJEH '96*, Biloel was a [[Dutch]] outpost in the [[Sagi der XXV Moekims|sagi of the XXV Moekims]], near the mountains on the border of the [[Sagi der XXII Moekims|XXII Moekims]], constructed to protect the [[IX Moekims]] against incursions from the [[Lamkrak Moekims|Lamkrak]], Kroeng Mak, Loetoe, and Lam Lheue of the [[VII Moekims Baid]]. Biloel was besieged and isolated from [[29 March]] to [[8 April]] [[1896]] in the immediate aftermath of the [[Defection of Teuku Umar (29 March 1896)|defection of Teuku Umar]], was reinforced on [[8 April]] with 5 officers and 136 men of the 3e Bataljon, was evacuated and burned on [[12 April]] [[1896]], and thereafter served as the gathering point for the 1e colonne of the [[Tuchtiging of Lam-Krak Moekims (9–10 June 1896)|tuchtiging of the Lamkrak Moekims of 9–10 June 1896]].
@@ -70,54 +70,67 @@ In the crisis of [[1896]] Biloel was one of the enclosed forward posts for whose
 
 Before the [[Three-day battle in the Beradin pass (23-25 May 1896)|Beradin operation]] of [[23 May|23]]–[[25 May]] [[1896]], Biloel was among the former forward posts — with [[Senelop|Sennelop]], [[Lamsoet]], [[Anak Galoeng]], [[Lambarih]], [[Lamkoenjit]], [[Kroeng Gloempang]], [[Tjot Rang]] and [[Toengkoeb|Toengkoep]] — that were razed after their garrisons had been relieved, an operation in which further losses were sustained.
 
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Role in Coastal Defense
+
+As noted in historical dispatches in *Atjeh gedurende de tweede expeditie en later* ([[1876]]), Biloel formed part of the secondary defensive network protecting coastal roadsteads around Aceh Proper. 
+
+During the [[Second Aceh Expedition]] in [[1873]] and [[1874]], naval patrols of the [[Dutch East Indies Government]] monitored Biloel to prevent indigenous vessels from running munitions ashore to support forces at [[Kraton of Aceh]].
+
 ## See Also
 
-- [[XXV Moekims]]
-- [[Groot-Atjeh]]
-- [[Boekit Daroe]]
-- [[Lamkoenjit]]
+- [[12 April]]
+- [[1896]]
+- [[30 March]]
+- [[8 April]]
+- [[9 April]]
+- [[Aceh War]]
 - [[Anagaloeng]]
-- [[Senelop]]
-- [[Relief of Biloel and Lamkoenjit (April 1896)]]
-- [[Relief of Biloel and Lamkoenjit (8 April 1896)]]
-- [[Evacuation of Biloel and Lamkoenjit (12 April 1896)]]
+- [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[Boekit Daroe]]
+- [[Defection of Teuku Umar (29 March 1896)]]
+- [[Dutch East Indies Government]]
 - [[E. P. A. Geluk]]
+- [[E. van Zijdveld]]
+- [[Evacuation of Biloel and Lamkoenjit (12 April 1896)]]
 - [[F. P. A. Geluk]]
-- [[Ten Seldam]]
+- [[Geconcentreerde linie]]
+- [[Generaal van der Heiden]]
+- [[Groot-Atjeh]]
 - [[Hockstein]]
-- [[Kolonel Stemfoort]]
+- [[J. F. Th. Veeren]]
 - [[J. W. Stemfoort]]
 - [[Kapitein P. H. van der Wedden]]
-- [[J. F. Th. Veeren]]
-- [[Generaal van der Heiden]]
-- [[E. van Zijdveld]]
-- [[Toekoe Oemar's defection (1896)]]
-- [[Defection of Teuku Umar (29 March 1896)]]
-- [[Tuchtiging of Lam-Krak Moekims (9–10 June 1896)]]
+- [[Kolonel Stemfoort]]
+- [[Kraton of Aceh]]
+- [[Lamkoenjit]]
 - [[Lamkrak Moekims]]
-- [[Geconcentreerde linie]]
-- [[buitenlinie]]
 - [[Lampeneroet]]
-- [[Tjot Goeë]]
-- [[Tjot Paklat]]
-- [[Tjot Iri]]
+- [[Luitenant-Generaal Vetter]]
 - [[Machtsvertoon (20 June 1896)]]
 - [[Regeeringscommissaris]]
-- [[Luitenant-Generaal Vetter]]
-- [[Aceh War]]
-- [[9 April]]
-- [[8 April]]
-- [[12 April]]
-- [[30 March]]
-- [[1896]]
-- [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[Relief of Biloel and Lamkoenjit (8 April 1896)]]
+- [[Relief of Biloel and Lamkoenjit (April 1896)]]
+- [[Second Aceh Expedition]]
+- [[Senelop]]
+- [[Ten Seldam]]
+- [[Tjot Goeë]]
+- [[Tjot Iri]]
+- [[Tjot Paklat]]
+- [[Toekoe Oemar's defection (1896)]]
+- [[Tuchtiging of Lam-Krak Moekims (9–10 June 1896)]]
+- [[XXV Moekims]]
+- [[buitenlinie]]
 
-## Sources
-
-*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 9, 10–11, 22 (De Poeassa — Eindelijk Ontzet; Een Terugblik — Wat Reeds Verkregen Werd; De Inwendige Toestand — Wat Nu?).
+## Source
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21, 28–29, 32, 39–40, 42, 48–51, 57, 60, 62–64, 66–68, 71–72, 76–78, 81–82, 270, 320, 331, 491.
 
-*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
-
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Schetsen uit den strijd op Groot-Atjeh* by P. H. R. Beuming (Amsterdam, [[1911]]). Dutch passages are quoted in the original with an English rendering.
+
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 15-20.
+
+*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 9, 10–11, 22 (De Poeassa — Eindelijk Ontzet; Een Terugblik — Wat Reeds Verkregen Werd; De Inwendige Toestand — Wat Nu?).
+
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144

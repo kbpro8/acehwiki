@@ -1,7 +1,7 @@
 ---
 title: "XXV Moekims"
-aliases: ["Vijfentwintig Moekims", "25 Moekims", "XXV Mukims", "Sagi XXV", "de Sagi's XXV", "de XXV Moekims"]
-tags: [place, acehnese, sagi, xxv-moekims, aceh-war, mukim, atjeh, 19th-century, administrative-division, moekim, aceh, groot-atjeh, administration]
+aliases: ["25 Moekims", "25 Sagi", "Dua Puluh Lima Mukim", "Sagi XXV", "Vijfentwintig Moekims", "XXV Mukims", "de Sagi's XXV", "de XXV Moekims"]
+tags: [place, 19th-century, aceh, aceh-war, acehnese, achehnese, administration, administrative-division, atjeh, district, groot-atjeh, moekim, mukim, region, sagi, xxv-moekims]
 ---
 
 The **XXV Moekims** (Vijfentwintig Moekims, "Twenty-Five Mukims") — in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s spelling also *Sagi XXV* or *de Sagi's XXV* — was the *sagi* (confederation) of twenty-five *mukim* (parish) units lying south of the [[Atjeh-rivier]] between the [[III Moekims|III Moekims]] and the [[XXII Moekims|XXII Moekims]], entirely conquered by [[Generaal Pel|Pel]]'s first offensive sweep of early February [[1876]]. Borel notes that "de geheele Sagie der XXV Moekims bevond zich in onze macht" — the entire Sagie of the XXV Moekims was in our power — after the operation. In Van Heutsz's [[1893]] tract *De onderwerping van Atjeh*, the XXV Moekims is also the third chapter of the Van der Heijden conquest — the Sagi whose September [[1879]] reconnaissance fixed the *geheel Groot-Atjeh* of the dagorder's declaration, and the territory of the post-[[1884]] resistance's fragmentation under the *panglima sagi XXV* Tjoet Abas.
@@ -46,55 +46,69 @@ The XXV Moekims's significance in Van Heutsz's [[1893]] tract rests on its being
 
 [[Teukoe Oemar]] had been appointed *[[oelèëbalang]]* of [[Leupoeëng]] in the XXV Moekims by [[C. Deijckerhoff|Deijckerhoff]] before his installation as *[[Panglima Prang Besar]]* in September [[1893]]. Swart was relieved of the government of the sub-division on [[17 July]] [[1902]] and charged instead with that of [[Poelò Raja]].
 
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Military Leadership and Combat History
+
+The XXV Moekims was led by prominent war commanders including [[Teuku Imam Lueng Batoh]] (Toekoe Iman Longbattah) and [[Teuku Lampasei]]. Following the [[Capture of the Aceh Kraton]] on [[24 January]] [[1874]], [[Teuku Lampasei]] initially sent letters of submission to General [[J. van Swieten]], contributing to the optimistic predictions of the [[General van Swieten War Telegrams]].
+
+However, resistance led by [[Teuku Imam Lueng Batoh]] and his lieutenant [[Panglima Mah Saleh]] soon resumed. Throughout [[1874]] and [[1875]], warriors from the XXV Moekims defended bentengs at [[Lemboe]] and Longbattah, engaging in continuous guerrilla warfare against Dutch occupation garrisons.
+
 ## See Also
 
-- [[III Moekims]]
-- [[XXII Moekims]]
-- [[IV Moekims]]
-- [[VI Moekims]]
-- [[IX Moekims]]
-- [[Atoeh]]
-- [[Pager Ajer]]
-- [[Lambaroe]]
-- [[Longbatta-Mesigit]]
-- [[Kroeng Raba]]
-- [[Generaal Pel]]
-- [[Generaal Wiggers van Kerchem]]
-- [[Sagi]]
-- [[Mukim]]
-- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
-- [[Atoeh catastrophe (13 February 1876)]]
-- [[Joannes Benedictus van Heutsz]]
-- [[Groot-Atjeh]]
-- [[XXVI Moekims]]
-- [[Kroeng Raja]]
-- [[Kroeng Kali]]
-- [[Tjot Lepong]]
-- [[Djerir]]
-- [[K. van der Heijden]]
-- [[J. L. J. H. Pel]]
-- [[Day-order of 5 September 1879]]
-- [[Tengkoe di Tirou]]
-- [[Concentratiebesluit (19 Augustus 1884)]]
-- [[Kloewang]]
-- [[Lampisang]]
-- [[T. Oemar]]
-- [[Selimoen tocht (1879)]]
 - [[1875]]
 - [[1876]]
 - [[1878]]
 - [[1879]]
 - [[1884]]
 - [[1893]]
-- [[H. N. A. Swart]]
-- [[General Swart, Pacifier of Atjeh (1943)]]
-- [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Atoeh catastrophe (13 February 1876)]]
+- [[Atoeh]]
+- [[Concentratiebesluit (19 Augustus 1884)]]
+- [[Day-order of 5 September 1879]]
+- [[Djerir]]
+- [[Generaal Pel]]
+- [[Generaal Wiggers van Kerchem]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Groot-Atjeh]]
+- [[H. N. A. Swart]]
+- [[III Moekims]]
+- [[IV Moekims]]
+- [[IX Moekims]]
+- [[J. L. J. H. Pel]]
+- [[J. van Swieten]]
+- [[Joannes Benedictus van Heutsz]]
+- [[K. van der Heijden]]
+- [[Kloewang]]
+- [[Kroeng Kali]]
+- [[Kroeng Raba]]
+- [[Kroeng Raja]]
+- [[Lambaroe]]
+- [[Lampisang]]
+- [[Longbatta-Mesigit]]
+- [[Mukim]]
+- [[Pacificatie van Atjeh]]
+- [[Pager Ajer]]
+- [[Panglima Mah Saleh]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Sagi]]
+- [[Selimoen tocht (1879)]]
+- [[T. Oemar]]
+- [[Tengkoe di Tirou]]
+- [[Teuku Imam Lueng Batoh]]
+- [[Teuku Lampasei]]
+- [[Tjot Lepong]]
+- [[VI Moekims]]
+- [[XXII Moekims]]
+- [[XXVI Moekims]]
 
 ## Source
 
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 327–329, 336–337.
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 8-10, 19-22.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 13, 18, 19, 20, 97, 98. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III; Extract from the service record.
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 327–329, 336–337.

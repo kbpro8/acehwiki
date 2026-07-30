@@ -1,7 +1,7 @@
 ---
-title: Pedir
-aliases: ["Pidie", "Pidië", "Pedier", "Pidir", "Pedir", "Pedir-vlakte", "Pidi", "Pedir (Aceh)", "Pedir (Atjeh)", "Kota van Pedir", "Pedir (Atjeh North Coast state)", "Staatje Pedir", "Federation of Pedir", "Pedirsche", "de kust van Pedir", "het Pedirsche"]
-tags: [place, town, coast, region, noordkust, achehnese, colonial, aceh, 1873, military, atjeh, aceh-war, 19th-century, north-coast, statelet, onderhoorigheden, scheepvaartregeling]
+title: "Pedir"
+aliases: ["Federation of Pedir", "Kota van Pedir", "Pedier", "Pedir", "Pedir (Aceh)", "Pedir (Atjeh North Coast state)", "Pedir (Atjeh)", "Pedir-vlakte", "Pedirsche", "Pidi", "Pidie", "Pidir", "Pidië", "Staatje Pedir", "State of Pedir", "Sultanate of Pedir", "de kust van Pedir", "het Pedirsche"]
+tags: [place, 19th-century, aceh, aceh-war, achehnese, atjeh, coast, coastal, colonial, dependency, kingdom, military, noordkust, north-coast, onderhoorigheden, region, scheepvaartregeling, statelet, town]
 ---
 
 **Pedir** (modern *Pidie*) was a historic coastal town, port and rice‑producing plain on the north‑eastern (the “East” in Van der Kemp’s terminology) coast of [[Acheh]], situated west of [[Penang]] across the [[Straits of Malacca]] and within easy reach of the sultanate’s capital [[Banda Acheh|Banda Acheh]]. Throughout the pre‑colonial, early‑modern and colonial periods it served as a chief pepper‑export centre, a place of captivity for Dutch sailors, the residence of the ousted [[Sultan Jauhar Alum|Jauhar Alum]], and the site where the [[Treaty of Pedir (1819)]] was concluded. In the late nineteenth century it became a focal point of Dutch naval operations during the [[Aceh War (1873–1904)]], notably the bombardment of [[29 December]] [[1873]] by a squadron under [[Captain-terr zee Van Gogh]]. The town’s strategic harbour, fertile plain and position at the mouth of the [[Atjeh River]] made it repeatedly important in Acehnese‑European trade, diplomacy and warfare.
@@ -108,74 +108,27 @@ The postcommandant te Segli was the operational instrument by which the closure 
 
 Pedir's significance in Van Heutsz's [[1893]] tract rests on its being the strategic rice-source for the interior — the *Onderhoorigheden*-statelet whose *medewerking* kept the inland resistance supplied with *levensmiddelen, zout en opium* (foodstuffs, salt, opium), and whose coercion by closure was therefore the operational prerequisite of the war's end; the early-recogniser whose June [[1876]] occupation and continued openness defeated the [[1877]] closure of Groot-Atjeh, teaching Van Heutsz the operational lesson that the closure of Groot-Atjeh alone was useless unless extended across the *Onderhoorigheden*; the *sleutel van dit systeem* — the linchpin of the Noordkust — whose coercion by the [[1890]] closure, enforced by H. M. marine and the *postcommandant te Segli*, became the high-water mark of Van Teijn's *sluiting*-stelsel; and the place whose 1891 submission — *Uwe hand drukt zwaar, maar ik onderwerp mij aan Uwen wil* — fixed the emblematic Van Heutsz scene of the closure's coercive power. Pedir's role is, in Van Heutsz's [[1893]] tract, the empirical proof of the *scheepvaartregeling*-and-closure prescription he would himself implement as Governor of Atjeh from [[1898]] onward.
 
+
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+
+Kruijt treats Pedir as the principal case study of the failure of the Dutch coastal policy — a statelet that was nominally Dutch-aligned yet consistently supplied the resistance in [[Groot-Atjeh|Groot-Atjeh]] and openly defied Dutch conditions for trade.
+
+At the end of [[1873]] Pedir was *tuchtiged* (chastised) by the [[Koninklijke Marine|Marine]] for its hostility. In [[February 1876|February]] [[1876]] the Dutch flag was raised at Pedir, and in [[June 1876|June]] [[1876]] a post was established there and the *radja* received ƒ50,000 as damages for the [[1873]] chastisement. The raising of the Dutch flag at Pedir immediately turned the *radja* of [[Giegieng|Giegieng]] against the Dutch — the revenues of the Dutch flag largely passed from Giegieng to Pedir, and between the two federations there had been enmity for years. The Dutch in [[August 1876|August]] [[1876]] renounced Giegieng's friendship and closed his harbour. The establishment at Pedir was gradually moved to [[Segli|Segli]] and completed in [[March 1877|March]] [[1877]]. In [[April 1878|April]] and [[May 1878|May]] [[1878]] the Dutch post at Segli was besieged and attacked by thousands of enemies; an expedition achieved little success.
+
+In the 1890s under [[General van Teijn|Van Teijn]], Pedir opposed the pending submission of the [[Kemala-party|Kemala-party]] with all its might. At the end of [[1888]] part of the North Coast around Pedir was closed to all import and export; this was in [[September 1889|September]] [[1889]] and [[August 1890|August]] [[1890]] extended over the whole North Coast and the [[Westkust|West Coast]] as far as [[Tenom|Tenom]], and maintained until the end of [[1892]]. Kruijt notes: "*Dit stelsel had een geduchte uitwerking en bleek een geweldig dwangmiddel*" (This system had a formidable effect and proved a powerful instrument of compulsion).
+
+When the [[Scheepvaartregeling|scheepvaartregeling]] of [[1893]]–[[1894]] was being prepared, Pedir was the only statelet that refused to accept [[Scherer|Scherer]]'s conditions. The opening of Segli was made dependent on cessation of the bombardment of that post by the [[Muslemin|Muslemin]]. After long deliberation, the *radja* of Pedir declared himself ready to put an end to this, but said he needed money. He got it from the Dutch. It went partly to the Sultan, partly to the Muslemin themselves; the driving out of the latter never came. Import and export on licences was allowed — Segli was thus officially closed, but in practice everything went in and out. Kruijt presents this as the emblematic failure of the Dutch policy of buying compliance from the very enemies it sought to suppress.
+
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Diplomatic and Military History in 1874
+
+In January [[1874]], following Dutch naval bombardments along the Pidie coast during the [[Second Aceh Expedition]], the ruler of Pedir ([[Raja of Pedir]]) opened diplomatic communication with Commander-in-Chief General [[J. van Swieten]]. 
+
+As recorded in telegrams from [[6 January]] and [[2 February]] [[1874]] ([[General van Swieten War Telegrams]]), the [[Raja of Pedir]] expressed his intention to return to his kingdom and enter into formal treaty relations with the [[Dutch East Indies Government]], a move that encouraged Dutch commanders to believe that coastal Aceh was pacified.
+
 ## See Also
 
-- [[Acheh]]
-- [[Banda Acheh]]
-- [[Telok Semawé]]
-- [[Tunku Pakih]]
-- [[Sultan Jauhar Alum]]
-- [[Treaty of Pedir (1819)]]
-- [[Dispatch of the Minto to Pedir]]
-- [[O'Hallaran's visit to Pedir (1820)]]
-- [[Captain Coombs' first Acheh mission (1817‑1818)]]
-- [[Raffles‑Coombs Acheh Commission (1819)]]
-- [[Sir Thomas Stamford Raffles]]
-- [[Sigli]]
-- [[Noordkust van Atjeh]]
-- [[Goudberg]]
-- [[Weesberg]]
-- [[Kr. Peusangan]]
-- [[Kawaj XII]]
-- [[Groot‑Atjeh]]
-- [[Samoedra‑Pasé]]
-- [[Perlak]]
-- [[Aroe]]
-- [[Daja]]
-- [[Toekoe di Tiroe]]
-- [[Gighen]]
-- [[Segli]]
-- [[Garouw]]
-- [[Telok Kadjoe]]
-- [[Kroëng Raja]]
-- [[Panglima Polem|Panglima Polim]]
-- [[Imam of Longbatta]]
-- [[Toewankoe Haschim]]
-- [[Radja Koelala]]
-- [[Kemala]]
-- [[Bombardment of Pedir (29‑31 December 1873)]]
-- [[Second Aceh Expedition (1873‑1874)]]
-- [[Campaign against the XXII Moekims (1879)]]
-- [[Campaign against the XXVI Moekims (July 1879)]]
-- [[Selimoen Expedition (August 1879)]]
-- [[Aceh War]]
-- [[Joannes Benedictus van Heutsz|Van Heutsz]]
-- [[Houtman brothers' visit to Atjeh (1599)]]
-- [[Diogo Lopez de Sequeira]]
-- [[Pasei]]
-- [[Bantam]]
-- [[Priaman]]
-- [[Tikoe]]
-- [[Pasaman]]
-- [[Zeeland Company's Atjeh mission (1601)]]
-- [[Imprisonment of Frederik de Houtman in Atjeh]]
-- [[Frederik de Houtman]]
-- [[Paulus van Caerden]]
-- [[Balthasar de Moucheron|Balthazar de Moucheron]]
-- [[Sultana of Atjeh (1641)]]
-- [[Maagden als losprijs]]
-- [[Panglima]]
-- [[Francisco de Souza de Castro]]
-- [[Atjeh River]]
-- [[Captain-terr zee Van Gogh]]
-- [[Dutch Navy]]
-- [[Aceh War (1873–1904)]]
-- [[1914]]
-- [[1915]]
-- [[1878]]
-- [[1876]]
-- [[1877]]
-- [[1879]]
 - [[1509]]
 - [[1599]]
 - [[1600]]
@@ -188,24 +141,92 @@ Pedir's significance in Van Heutsz's [[1893]] tract rests on its being the strat
 - [[1823]]
 - [[1850]]
 - [[1860]]
+- [[1876]]
+- [[1877]]
+- [[1878]]
+- [[1879]]
 - [[1900]]
+- [[1914]]
+- [[1915]]
+- [[Aceh War (1873–1904)]]
+- [[Aceh War]]
+- [[Acheh]]
+- [[Aroe]]
+- [[Atjeh River]]
+- [[Balthasar de Moucheron|Balthazar de Moucheron]]
+- [[Banda Acheh]]
+- [[Bantam]]
+- [[Bombardment of Pedir (29‑31 December 1873)]]
+- [[Campaign against the XXII Moekims (1879)]]
+- [[Campaign against the XXVI Moekims (July 1879)]]
+- [[Captain Coombs' first Acheh mission (1817‑1818)]]
+- [[Captain-terr zee Van Gogh]]
+- [[Daja]]
+- [[Diogo Lopez de Sequeira]]
+- [[Dispatch of the Minto to Pedir]]
+- [[Dutch Navy]]
+- [[Francisco de Souza de Castro]]
+- [[Frederik de Houtman]]
+- [[Garouw]]
+- [[General van Swieten War Telegrams]]
+- [[Gighen]]
+- [[Goudberg]]
+- [[Groot‑Atjeh]]
+- [[Houtman brothers' visit to Atjeh (1599)]]
+- [[Imam of Longbatta]]
+- [[Imprisonment of Frederik de Houtman in Atjeh]]
+- [[J. van Swieten]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz]]
+- [[Kawaj XII]]
+- [[Kemala]]
+- [[Kr. Peusangan]]
+- [[Kroëng Raja]]
+- [[Maagden als losprijs]]
+- [[Noordkust van Atjeh]]
+- [[O'Hallaran's visit to Pedir (1820)]]
+- [[Panglima Polem|Panglima Polim]]
+- [[Panglima]]
+- [[Pasaman]]
+- [[Pasei]]
+- [[Paulus van Caerden]]
+- [[Perlak]]
+- [[Priaman]]
+- [[Radja Koelala]]
+- [[Raffles‑Coombs Acheh Commission (1819)]]
+- [[Raja of Pedir]]
+- [[Samoedra‑Pasé]]
+- [[Second Aceh Expedition (1873‑1874)]]
+- [[Second Aceh Expedition]]
+- [[Segli]]
+- [[Selimoen Expedition (August 1879)]]
+- [[Sigli]]
+- [[Sir Thomas Stamford Raffles]]
+- [[Sultan Jauhar Alum]]
+- [[Sultana of Atjeh (1641)]]
+- [[Telok Kadjoe]]
+- [[Telok Semawé]]
+- [[Tikoe]]
+- [[Toekoe di Tiroe]]
+- [[Toewankoe Haschim]]
+- [[Treaty of Pedir (1819)]]
+- [[Tunku Pakih]]
+- [[Weesberg]]
+- [[Zeeland Company's Atjeh mission (1601)]]
 
-## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+## Source
 
-Kruijt treats Pedir as the principal case study of the failure of the Dutch coastal policy — a statelet that was nominally Dutch-aligned yet consistently supplied the resistance in [[Groot-Atjeh|Groot-Atjeh]] and openly defied Dutch conditions for trade.
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 8-10.
 
-At the end of [[1873]] Pedir was *tuchtiged* (chastised) by the [[Koninklijke Marine|Marine]] for its hostility. In [[February 1876|February]] [[1876]] the Dutch flag was raised at Pedir, and in [[June 1876|June]] [[1876]] a post was established there and the *radja* received ƒ50,000 as damages for the [[1873]] chastisement. The raising of the Dutch flag at Pedir immediately turned the *radja* of [[Giegieng|Giegieng]] against the Dutch — the revenues of the Dutch flag largely passed from Giegieng to Pedir, and between the two federations there had been enmity for years. The Dutch in [[August 1876|August]] [[1876]] renounced Giegieng's friendship and closed his harbour. The establishment at Pedir was gradually moved to [[Segli|Segli]] and completed in [[March 1877|March]] [[1877]]. In [[April 1878|April]] and [[May 1878|May]] [[1878]] the Dutch post at Segli was besieged and attacked by thousands of enemies; an expedition achieved little success.
+- *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, p. 125.
 
-In the 1890s under [[General van Teijn|Van Teijn]], Pedir opposed the pending submission of the [[Kemala-party|Kemala-party]] with all its might. At the end of [[1888]] part of the North Coast around Pedir was closed to all import and export; this was in [[September 1889|September]] [[1889]] and [[August 1890|August]] [[1890]] extended over the whole North Coast and the [[Westkust|West Coast]] as far as [[Tenom|Tenom]], and maintained until the end of [[1892]]. Kruijt notes: "*Dit stelsel had een geduchte uitwerking en bleek een geweldig dwangmiddel*" (This system had a formidable effect and proved a powerful instrument of compulsion).
+- *Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598—1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 110‑113.
 
-When the [[Scheepvaartregeling|scheepvaartregeling]] of [[1893]]–[[1894]] was being prepared, Pedir was the only statelet that refused to accept [[Scherer|Scherer]]'s conditions. The opening of Segli was made dependent on cessation of the bombardment of that post by the [[Muslemin|Muslemin]]. After long deliberation, the *radja* of Pedir declared himself ready to put an end to this, but said he needed money. He got it from the Dutch. It went partly to the Sultan, partly to the Muslemin themselves; the driving out of the latter never came. Import and export on licences was allowed — Segli was thus officially closed, but in practice everything went in and out. Kruijt presents this as the emblematic failure of the Dutch policy of buying compliance from the very enemies it sought to suppress.
+- *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, *Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen* (Weltevreden: Landsdrukkerij, 1917), pp. 12–14, 30–31, 47–49, 55–57, 137–138.
 
-## Sources
+- *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgersschool te Zierikzee. Deel IV. 1872‑1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 29, 80, 94, 96, 108.
+
+- *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, pages [[485]]‑[[488]] (entries for Pedir on [[97]], [[110]], [[115]]).- *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 9, 11, 15, 16, 19, 27, 37, 49–51, 60, 67–68. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
 - *Raffles' Atjeh‑overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal‑, Land‑ en Volkenkunde van Nederlandsch‑Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
-- *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, *Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen* (Weltevreden: Landsdrukkerij, 1917), pp. 12–14, 30–31, 47–49, 55–57, 137–138.
-- *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgersschool te Zierikzee. Deel IV. 1872‑1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 29, 80, 94, 96, 108.
-- *Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598—1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 110‑113.
+
 - *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud‑Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapters XXIII and XI, pp. 81, 39‑43.
-- *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, p. 125.
-- *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, pages [[485]]‑[[488]] (entries for Pedir on [[97]], [[110]], [[115]]).- *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 9, 11, 15, 16, 19, 27, 37, 49–51, 60, 67–68. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.

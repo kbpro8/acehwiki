@@ -1,7 +1,7 @@
 ---
-title: Penajoeng
-aliases: [Penayong, Penajoeng Atjeh, Penayong Kotta-Radja]
-tags: [place, atjeh, groot-atjeh, dutch-colonial, 19th-century, military-cantonment]
+title: "Penajoeng"
+aliases: ["Camp Penajoeng", "Penaioeng", "Penajoeng Atjeh", "Penayong", "Penayong Kotta-Radja"]
+tags: [place, 19th-century, atjeh, colonial, dutch-colonial, encampment, groot-atjeh, military-cantonment, outpost, settlement]
 ---
 
 **Penajoeng** — modern *Penayong* — was the Dutch military cantonment east of the [[Atjehrivier|Atjeh-rivier]] opposite [[Kotta-Radja|Kotta-Radja]], connected to the colonial capital by a *breede weg* over the Atjeh-rivier and developed in the late 19th century as the principal Dutch *woningen* and *hospitalen* extension of the colonial capital. In the [[De Kleine Oosterling|school-textbook]] narrative, Penajoeng is the staff history's principal instance of the Dutch *opbouw*'s extension beyond the kraton site into the *overzijde* of the Atjeh-rivier.
@@ -14,18 +14,7 @@ The [[De Kleine Oosterling|Wijma school reader]] records the Penajoeng extension
 
 Penajoeng is, in the [[De Kleine Oosterling|school-textbook]] narrative, the staff history's principal instance of the Dutch *opbouw*'s extension beyond the kraton site into the *overzijde* of the Atjeh-rivier. The school reader's emphasis on the *breede weg* connection to Kotta-Radja, on the *talrijke woningen* of *officieren en soldaten*, and on the *uitgestrekt Chineesch kamp* frames Penajoeng as the staff history's principal instance of the planned military-cantonment extension of a colonial capital — the *overzijde* counterpart to the kraton-site Kotta-Radja, and the principal *woningen* and *hospitalen* district of the Dutch colonial presence in Atjeh.
 
-## See Also
 
-- [[De Kleine Oosterling]]
-- [[Kotta-Radja]]
-- [[Atjehrivier]]
-- [[Kraton Atjeh]]
-- [[Capture of the Kraton (24 January 1874)]]
-- [[1874]]
-
-## Source
-
-*De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 38 ("Een nieuwe stad").
 
 ## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
 
@@ -54,3 +43,30 @@ Penajoeng was ravaged by cholera from the moment of landing. The disease, brough
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 24, 30, 34, 38–47, 49–50, 54, 58–59, 62–66, 73–74, 82–86, 92, 96, 100, 103, 109, 121, 125, 128, 130–132, 138, 142, 152–156.
+
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Military History During the Campaigns
+
+Captured by General [[J. van Swieten]]'s columns during their advance from [[Pedro Punt]] in January [[1874]] ([[Second Aceh Expedition]]), Penajoeng was transformed into a fortified cantonment and artillery base of the [[Royal Netherlands East Indies Army]].
+
+Throughout [[1874]], [[1875]], and [[1876]], Penajoeng served as the central defensive anchor protecting the eastern approaches to Kotta Radja. As noted in dispatches from [[4 February]] [[1874]] and during [[General Pel's Campaign in Aceh]], troops of the [[10th Infantry Battalion]] stationed at Penajoeng engaged in frequent artillery exchanges with Acehnese bentengs along the river.
+
+## See Also
+
+- [[10th Infantry Battalion]]
+- [[1874]]
+- [[Atjehrivier]]
+- [[Capture of the Kraton (24 January 1874)]]
+- [[De Kleine Oosterling]]
+- [[J. van Swieten]]
+- [[Kotta-Radja]]
+- [[Kraton Atjeh]]
+- [[Kraton of Aceh]]
+- [[Pedro Punt]]
+
+## Source
+
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 8-10, 14-20.
+
+*De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 38 ("Een nieuwe stad").

@@ -1,7 +1,7 @@
 ---
 title: "Singkel"
-aliases: ["Singkil", "Beneden-Singkel", "Boven-Singkel", "Oeloe Singkel", "Singkeln", "Sinkel", "Sinabang", "Simeulue", "Simaloer"]
-tags: [place, north-east-coast, west-coast, region, slaves, batak, holy-site, onderafdeeling, westkust, colonial, sumatra, achehnese, singkel, rechtstreeks-bestuurd-gebied, atjeh, simeulue, administrative-division, town, aceh]
+aliases: ["Beneden-Singkel", "Boven-Singkel", "New Singkel", "Oeloe Singkel", "Port of Singkel", "Simaloer", "Simeulue", "Sinabang", "Singkeln", "Singkil", "Sinkel"]
+tags: [place, aceh, achehnese, administrative-division, atjeh, batak, coastal, colonial, holy-site, north-east-coast, onderafdeeling, port, rechtstreeks-bestuurd-gebied, region, settlement, simeulue, singkel, slaves, sumatra, town, west-coast, westkust]
 ---
 
 A port and territory at the southern extreme of the West Coast, marking the boundary of [[Acheh]]. 'Beginning at Padang right up to Singkel, all tribute is raised for the King of Holland.' (sadati dialogue). [[Abdurra'uf of Singkel]], the great saint Teungku di Kuala, came from Singkel; his family name ('of Singkel') appears in the salasilahs. The hikayat Banta Beuransah (a romance) describes the war waged by Beuransah against [[China]]: 'the poet makes him touch successively at almost all the harbours of the East, West and North Coasts of [[Acheh]] and its dependencies, and finally arrive in [[Aramiah]] at the source of the river of Singke (Singkel).'
@@ -98,70 +98,91 @@ The *onderafdeeling* Singkel's place in the proposed reorganization of the [[Bes
 
 Under the [[Administrative Division of Atjeh (1908)|division of 1908]] Singkel was one of the districts where a *controleur* already conducted the administration; in [[1910]], when Bambél was abolished, Singkel was joined to the Westkust. In later years the west coast, [[Meulaboh]]–Singkel, drew the attention of estate entrepreneurs.
 
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Telegraphic and Communication Relay in 1874
+
+During the [[Second Aceh Expedition]], Singkel served as a vital southern maritime relay station where dispatch vessels from the Aceh front landed telegrams for onward transmission to [[Batavia]]. 
+
+On [[6 January]] [[1874]], Commander-in-Chief General [[J. van Swieten]] transmitted official war dispatches via Singkel reporting the submission of coastal rulers such as the author of the [[Raja of Gighen Letter of Submission]], texts that were subsequently published in the *Javasche Courant* ([[Commander's Journal of the Second Aceh Expedition]]).
+
 ## See Also
 
-- [[Abdurra'uf of Singkel]]
-- [[Acheh]]
-- [[Aramiah]]
-- [[China]]
-- [[Gampong Jawa]]
-- [[Teungku di Kuala]]
-- [[Teungku Anjong]]
-- [[Meulabôh]]
-- [[Tjalang]]
-- [[Trumën]]
-- [[Alaslanden]]
-- [[Alasweg]]
-- [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[Nota-Ypes]]
-- [[Lao Alas]]
-- [[Bakongan]]
-- [[Evacuation of women and children from the Westkust of Atjeh (March 1942)]]
-- [[Nederlands-Indië contra Japan]]
-- [[1840]]
-- [[1881]]
-- [[1902]]
-- [[1905]]
-- [[1917]]
-- [[1942]]
-- [[Baros]]
-- [[Painansch Contract]]
-- [[Jacob Jorisse Pits]]
-- [[Menangkabau]]
-- [[Atjehsche Jorrendayyers]]
-- [[Ajerbangis]]
-- [[Nias]]
-- [[Westkust van Sumatra]]
-- [[Vereenigde Oost-Indische Compagnie]]
-- [[19 March]]
 - [[12 February]]
 - [[1672]]
 - [[1681]]
 - [[1690]]
 - [[1693]]
-- [[L. Berkhout]]
-- [[Groot-Atjeh]]
-- [[Rechtstreeks bestuurd gebied]]
-- [[Bestuursreorganisatie Sumatra (1913-1914)]]
-- [[H. N. A. Swart|H. N. N. A. Swart]]
-- [[S. de Graaff]]
-- [[Gewestelijk Zelfbestuur]]
-- [[Koeta-Radja]]
-- [[H. N. A. Swart]]
-- [[General Swart, Pacifier of Atjeh (1943)]]
-- [[Pacificatie van Atjeh]]
+- [[1840]]
+- [[1881]]
+- [[19 March]]
+- [[1902]]
+- [[1905]]
+- [[1917]]
+- [[1942]]
+- [[Abdurra'uf of Singkel]]
+- [[Acheh]]
+- [[Ajerbangis]]
+- [[Alaslanden]]
+- [[Alasweg]]
+- [[Aramiah]]
 - [[Atjeh]]
+- [[Atjehsche Jorrendayyers]]
+- [[Bakongan]]
+- [[Baros]]
+- [[Batavia]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[China]]
+- [[Commander's Journal of the Second Aceh Expedition]]
+- [[Evacuation of women and children from the Westkust of Atjeh (March 1942)]]
+- [[Gampong Jawa]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Gewestelijk Zelfbestuur]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Groot-Atjeh]]
+- [[H. N. A. Swart]]
+- [[H. N. A. Swart|H. N. N. A. Swart]]
+- [[J. van Swieten]]
+- [[Jacob Jorisse Pits]]
+- [[Koeta-Radja]]
+- [[L. Berkhout]]
+- [[Lao Alas]]
+- [[Menangkabau]]
+- [[Meulabôh]]
+- [[Nederlands-Indië contra Japan]]
+- [[Nias]]
+- [[Nota-Ypes]]
+- [[Pacificatie van Atjeh]]
+- [[Painansch Contract]]
+- [[Raja of Gighen Letter of Submission]]
+- [[Rechtstreeks bestuurd gebied]]
+- [[S. de Graaff]]
+- [[Second Aceh Expedition]]
+- [[Teungku Anjong]]
+- [[Teungku di Kuala]]
+- [[Tjalang]]
+- [[Trumën]]
+- [[Vereenigde Oost-Indische Compagnie]]
+- [[Westkust van Sumatra]]
 
 ## Source
+
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 7-10.
+
+*De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), pp. 28–29.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 11, 22–23, 25, 38, 60–63, 216.
+
+*De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 18–19, 21–22, 3 (tekst bij blad 4 en 5: *Atjeh en de Westkust van Sumatra in 1684*, *De Compagnie in den Archipel na 1684 tot 1791 — Sumatra*).
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XIII.
+
+*Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V, p. 120.
+
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130.
+
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 In his chapter on Achehnese domestic life Snouck Hurgronje notes that the Achehnese applied a particular nickname of evil import — **Bala' Kar'ee** (i.e. *k'arau'*) — to all Bataks, "including the Bata' Pappa', the Bala' Tuba and the Bata' Maloyhêng (Mandailing)." He adds in a footnote that "most of these are imported from Singkel and Trumon," and that the Achehnese distinguish the Bala' Kar'ee "as being the wildest and most vicious." The importation of Batak slaves through Singkel thus formed part of the regular commerce of pre-Dutch Acheh, supplying domestic labour and tying the sultanate into the wider slave-trading network of west-coast Sumatra.
 
 s
-*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
-*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 11, 22–23, 25, 38, 60–63, 216.
-*De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), pp. 28–29.
-*Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V, p. 120.
-*De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 18–19, 21–22, 3 (tekst bij blad 4 en 5: *Atjeh en de Westkust van Sumatra in 1684*, *De Compagnie in den Archipel na 1684 tot 1791 — Sumatra*).
-*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130.
-
-*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XIII.

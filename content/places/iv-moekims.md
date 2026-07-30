@@ -1,7 +1,7 @@
 ---
-title: IV Moekims
-aliases: ["IV Moekims", "IV Mukims", "4 Mukims", "the Four Moekims", "IV Moekims of Groot-Atjeh", "IV en VI Moekims Lam-Pisang"]
-tags: [place, mukim, aceh, groot-atjeh, 19th-century, administrative-division, sultan-territory, achehnese, aceh-war, military]
+title: "IV Moekims"
+aliases: ["4 Moekims", "4 Mukims", "Empat Mukim", "IV Moekim", "IV Moekims", "IV Moekims of Groot-Atjeh", "IV Mukims", "IV en VI Moekims Lam-Pisang", "the Four Moekims"]
+tags: [place, 19th-century, aceh, aceh-war, achehnese, administrative-division, district, groot-atjeh, military, mukim, region, sultan-territory]
 ---
 
 **The IV Moekims** — the "Four Mukims" — were one of the smaller mukim-clusters of the immediate Sultan's territory in [[Groot-Atjeh]] — together with the [[III Moekims]], the [[VI Moekims]], the [[IX Moekims]] and the [[Kraton of Aceh|Kraton]] itself — that formed the immediate territory of the Sultan, distinct from the three great *sagis* (the [[XXII Moekims|XXII]], [[XXV Moekims|XXV]] and [[XXVI Moekims]]). The IV Moekims are named in the [[Atjeh-Album (Eigen Haard, 1896)|Atjeh-Album of 1896]] in the chapter on the *Inwendige Toestand* — the internal constitution of pre-conquest Atjeh — as one of the constituent mukim-clusters of the Sultan's immediate territory. In the [[1896]] operations described by [[A. Kruisheer|Kruisheer]]'s *ATJEH '96*, the IV Moekims — together with the neighbouring [[VI Moekims]] — formed the principal theatre of [[Teuku Umar]]'s defensive *stellingen* against the Dutch counter-offensive, and were the geographic core of Umar's military power, containing the kampong of [[Lam-Pisang]] (the site of Umar's dwelling) and the heights of [[Boekit Seboen]] and [[Lam-Poelau]].
@@ -24,47 +24,13 @@ The IV Moekims had been part of [[Teuku Umar]]'s territory since his appointment
 
 ## The Dutch offensive of 23–25 May 1896 in the IV Moekims
 
-The IV Moekims were the principal theatre of the [[Three-day Dutch offensive of 23–25 May 1896|three-day Dutch offensive of 23–25 May 1896]]. On [[23 May]] [[1896]] three colonnes advanced from [[Lam-Djamoe]], [[Lamtih]], [[Ketapan Doea]], and [[Blang]]: the 9e Bataljon attacked [[Lam-Asan]] and the *Binasa* versterkingen; the 12e and 14e Bataljons stormed [[Lam-Isi]] at 2:40 NM; the 5e compagnie of 12e Bataljon fought through the [[Kloof van Beradin|valley of Beradin]] toward the eastern ridge; the [[Bergcolonne]] under [[Joannes Benedictus van Heutsz|Van Heutsz]] scaled [[Tjot Tjako]] (with its *heilig graf*); and the 6e Bataljon moved on [[Lam-Tengah]] and [[Lam-Awi]]. On [[24 May]] [[1896]] the 5e Bataljon under [[M. D. J. de Jongh|1e luit. de Jongh]] captured [[Lam-Pisang]] and Umar's dwelling (de Jongh first reached the verblijf at 10:35 VM); Umar's correspondence, furniture, and small cannons were captured and the kampong was destroyed with *dynamiet*, *teer*, and *petroleum* (dynamite, tar, and petroleum). On [[25 May]] [[1896]] the 6e Bataljon's 3e compagnie stormed the *stelling* Daman–[[Lam-Tjroeng]]–[[Lam-Poelau]], with 2e luit. Lamster first inside Lam-Tjroeng and 1e luit. Keetell storming Daman; the entire *stelling* was cleared by 11:45 VM. On [[30 May]]–[[2 June]] [[1896]] [[Lam-Asan]] was razed by 800 *dwangarbeiders* (forced labourers), 400 Chinese *koelies* (coolies), and engineer troops. On [[4 June]]–[[5 June]] [[1896]] the [[Operations in IV and VI Moekims (4–5 June 1896)|two-colonne operation]] re-entered the region, and on [[5 June]] [[1896]] the [[Marine Bombardment of Lepong (25 May, 4–5, 8–9 June 1896)|marine bombarded]] the IV Moekims kampongs of [[Boekit Seboen|Seboen]], Lamlon, [[Lambaroe]], and [[Naga Oembang]].
+The IV Moekims were the principal theatre of the [[Three-day Dutch offensive of 23–25 May 1896|three-day Dutch offensive of 23–25 May 1896]]. On [[23 May]] [[1896]] three colonnes advanced from [[Lam-Djamoe]], [[Lamtih]], [[Ketapan Doea]], and [[Blang]]: the 9e Bataljon attacked [[Lam-Asan]] and the *Binasa* versterkingen; the 12e and 14e Bataljons stormed [[Lam-Isi]] at 2:40 NM; the 5e compagnie of 12e Bataljon fought through the [[Kloof van Beradin|valley of Beradin]] toward the eastern ridge; the [[Bergcolonne]] under [[Joannes Benedictus van Heutsz|Van Heutsz]] scaled [[Tjot Tjako]] (with its *heilig graf*); and the 6e Bataljon moved on [[Lam-Tengah]] and [[Lam-Awi]]. On [[24 May]] [[1896]] the 5e Bataljon under [[M. D. J. de Jongh|1e luit. de Jongh]] captured [[Lam-Pisang]] and Umar's dwelling (de Jongh first reached the verblijf at 10:35 VM); Umar's correspondence, furniture, and small cannons were captured and the kampong was destroyed with *dynamiet*, *teer*, and *petroleum* (dynamite, tar, and petroleum). On [[25 May]] [[1896]] the 6e Bataljon's 3e compagnie stormed the *stelling* Daman–[[Lam-Tjroeng]]–[[Lam-Poelau]], with 2e luit. Lamster first inside Lam-Tjroeng and 1e luit. Keetell storming Daman; the entire *stelling* was cleared by 11:45 VM. On [[30 May]]–[[2 June]] [[1896]] [[Lam-Asan]] was razed by 800 *forced convict laborers (*dwangarbeiders*)* (forced labourers), 400 Chinese *koelies* (coolies), and engineer troops. On [[4 June]]–[[5 June]] [[1896]] the [[Operations in IV and VI Moekims (4–5 June 1896)|two-colonne operation]] re-entered the region, and on [[5 June]] [[1896]] the [[Marine Bombardment of Lepong (25 May, 4–5, 8–9 June 1896)|marine bombarded]] the IV Moekims kampongs of [[Boekit Seboen|Seboen]], Lamlon, [[Lambaroe]], and [[Naga Oembang]].
 
 ## Significance
 
 The IV Moekims' significance in the documentary record of the [[Aceh War|Atjeh-oorlog]] is as one of the constituent mukim-clusters of the Sultan's immediate territory — the directly-ruled core of the sultanate that was distinct from the three great *sagis*. Their appearance in the [[Atjeh-Album (Eigen Haard, 1896)|Atjeh-Album of 1896]] is brief, but it identifies the administrative geography of the late sultanate and places the IV Moekims in the directly-ruled core of the Sultan's territory. In the [[1896]] operations the IV Moekims formed — together with the neighbouring [[VI Moekims]] — the geographic core of [[Teuku Umar]]'s military power and the principal object of the [[1896]] Dutch counter-offensive. The capture of [[Lam-Pisang]] and the destruction of Umar's dwelling on [[24 May]] [[1896]] was the symbolic climax of the first semester of [[1896]], and the razing of [[Lam-Asan]] demonstrated the new Dutch policy of chastisement that would characterise the war under [[Joannes Benedictus van Heutsz|Van Heutsz]]. The IV Moekims also marked the limit of the Dutch advance: although Umar's *stellingen* were destroyed, the man himself escaped eastward into [[Lepong]] and the [[Belang Kala-pas]].
 
-## See Also
 
-- [[Groot-Atjeh]]
-- [[III Moekims]]
-- [[VI Moekims]]
-- [[IV en VI Moekims]]
-- [[IX Moekims]]
-- [[XXII Moekims]]
-- [[XXV Moekims]]
-- [[XXVI Moekims]]
-- [[Mukim]]
-- [[Sagi]]
-- [[Kraton of Aceh]]
-- [[Kota Radja]]
-- [[Marassa]]
-- [[Longbatta]]
-- [[Lam-Pisang]]
-- [[Lam-Asan]]
-- [[Lam-Poelau]]
-- [[Boekit Seboen]]
-- [[Tjot Tjako]]
-- [[Beradin]]
-- [[Teuku Umar]]
-- [[Three-day Dutch offensive of 23–25 May 1896]]
-- [[Operations in IV and VI Moekims (4–5 June 1896)]]
-- [[Marine Bombardment of Lepong (25 May, 4–5, 8–9 June 1896)]]
-- [[Aceh War]]
-- [[Atjeh-Album (Eigen Haard, 1896)]]
-- [[1896]]
-
-## Source
-
-*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], p. 13 (De Inwendige Toestand — Kolonisten — Banda Atjeh — De Sultan — Imams en Oeloebalangs).
-
-*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 30, 59, 145, 148, 165, 179, 181, 213, 232–242, 348.
 
 ## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
 
@@ -98,3 +64,57 @@ Barely had [[Karel van der Heijden|kolonel van der Heijden]], by then *gouverneu
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 323–329, 336–337, 350–355.
+
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Geographical and Agricultural Importance
+
+Renowned for its fertile wet-rice fields ([[Sawah Cultivation and Supply in Aceh]]), the IV Moekims served as a critical granary and recruiting ground for Acehnese resistance forces following the fall of the royal capital in January [[1874]].
+
+## Military Invasion in December 1875
+
+On [[26 December]] [[1875]], during [[General Pel's Campaign in Aceh]], a Dutch strike column commanded by [[Lieutenant Colonel Meijer]] captured the border stronghold of Mibouw ([[Attack on Mibouw]]) and executed the [[Crossing of Blankala Pass]]. 
+
+Dutch infantry of the [[3rd Infantry Battalion]] and [[8th Infantry Battalion]] descended into the IV Moekims, burning fortifications, occupying granaries, and establishing permanent military garrisons to interdict Acehnese supply routes.
+
+## See Also
+
+- [[1896]]
+- [[Aceh War]]
+- [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[Beradin]]
+- [[Boekit Seboen]]
+- [[Crossing of Blankala Pass]]
+- [[General Pel's Campaign in Aceh]]
+- [[Groot-Atjeh]]
+- [[III Moekims]]
+- [[IV en VI Moekims]]
+- [[IX Moekims]]
+- [[J. L. J. H. Pel]]
+- [[Kota Radja]]
+- [[Kraton of Aceh]]
+- [[Lam-Asan]]
+- [[Lam-Pisang]]
+- [[Lam-Poelau]]
+- [[Lieutenant Colonel Meijer]]
+- [[Longbatta]]
+- [[Marassa]]
+- [[Marine Bombardment of Lepong (25 May, 4–5, 8–9 June 1896)]]
+- [[Mukim]]
+- [[Operations in IV and VI Moekims (4–5 June 1896)]]
+- [[Sagi]]
+- [[Teuku Umar]]
+- [[Three-day Dutch offensive of 23–25 May 1896]]
+- [[Tjot Tjako]]
+- [[VI Moekims]]
+- [[XXII Moekims]]
+- [[XXV Moekims]]
+- [[XXVI Moekims]]
+
+## Source
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 30, 59, 145, 148, 165, 179, 181, 213, 232–242, 348.
+
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-16.
+
+*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], p. 13 (De Inwendige Toestand — Kolonisten — Banda Atjeh — De Sultan — Imams en Oeloebalangs).

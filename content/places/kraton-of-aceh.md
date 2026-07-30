@@ -1,8 +1,7 @@
 ---
-title: Kraton of Aceh
-aliases: ["Dalam", "Kuta Raja Kraton", "Kraton of Atjeh", "Kraton of the Sultan of Aceh", "Sultan's citadel of Aceh", "Atjeh Kraton"]
-
-tags: [place, fortress, acehnese, aceh-war]
+title: "Kraton of Aceh"
+aliases: ["Aceh Kraton", "Atjeh Kraton", "Dalam", "Kraton", "Kraton of Atjeh", "Kraton of the Sultan of Aceh", "Kuta Raja Kraton", "Sultan's Palace of Aceh", "Sultan's citadel of Aceh"]
+tags: [place, aceh-war, acehnese, achehnese, capital, fortification, fortress, palace]
 ---
 
 **The Kraton of Aceh** (also called the Dalam) was the fortified citadel and residence of the [[Sultan of Aceh|sultan of Atjeh]] at [[Kota Radja|Kota Radja]] on the northern tip of Sumatra, the seat of the sultanate and the principal object of the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] of [[1873]]-[[1874]]. The Kraton was taken by the Dutch on [[24 January]] [[24 January]] [[1874]] when a reconnaissance sent by Lieutenant-general [[Jan van Swieten|Van Swieten]] from [[Taman (Kota Goenoengan)|Kota Goenoengan]] entered it unopposed and hoisted the Dutch flag on the watch-house, to the strains of the *Wilhelmus* played by the band of the right half of the 14th bataljon. The [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] was followed by the [[Death of Sultan Aladin Mahmood Shah|death of the sultan]] on [[26 January]] [[26 January]] [[1874]] and by the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] on [[31 January]] [[31 January]] [[1874]].
@@ -27,24 +26,6 @@ When this reconnaissance had advanced for some time without seeing the enemy, th
 
 After the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] the Opperbestuur approved by telegram of [[1 February]] [[1 February]] [[1874]] the procedure and considered it also necessary to set up a fortification in Atjeh proper and to establish the Dutch there permanently. In the opinion of the supreme commander, the Kraton and some other points were to be made into permanent fortifications. The Dutch hoofd-stelling at Kota Radja came to be centred on the Kraton and its outworks at [[Penajoeng|Penajoeng]], kampong Djawa, and kampong Gedah. The Kraton was garrisoned by the Dutch throughout the [[Aceh War|Atjeh-oorlog]] and became the nucleus of the colonial establishment in Atjeh.
 
-## See Also
-
-- [[Kota Radja]]
-- [[Groot-Atjeh]]
-- [[Taman (Kota Goenoengan)]]
-- [[Pakan Atjeh]]
-- [[Panglima Polem|Panglima Polim]]
-- [[Krueng Daroy]]
-- [[Jan van Swieten|J. van Swieten]]
-- [[G. M. Verspyck]]
-- [[K. van der Heyden]]
-- [[J. H. R. Köhler]]
-- [[Capture of the Kraton (24 January 1874)]]
-- [[Van Swieten's Proclamation of 31 January 1874]]
-- [[Second Aceh Expedition (1873-1874)]]
-- [[First Aceh Expedition (1873)]]
-- [[Battle of the Missigit (10 April 1873)]]
-- [[Aceh War]]
 
 ## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
 
@@ -56,8 +37,52 @@ The [[Tweede Atjeh-expeditie (1873-1874)|second expedition]] under [[Jan van Swi
 
 Under [[Demmeni|Demmeni]] ([[1884]]–[[1886]]) the [[Concentratie-stelsel (1884-1896)|concentration system]] contracted the *stelling*, but the kraton remained the inner fortress throughout the war. [[Lt.-Gen. Vetter|Vetter]]'s [[Proclamation of the Regeeringscommissaris (12 April 1896)|Proclamation of April 1896]] to the heads and population of Atjeh was issued from the kraton, reminding the Atjehers of the prosperity enjoyed under Dutch protection and of the fate of the Sultan who had fled and died in flight.
 
-## Sources
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Description and Geographical Context
+
+The kraton consisted of an expansive walled enclosure containing royal residences, administrative offices, mosques, and gardens, protected by earthen ramparts, timber palisades, and ditches. In official Dutch reports prior to [[1873]], it was estimated to be a city of approximately 6,000 souls.
+
+## Role in the First Expedition (1873)
+
+During the [[First Aceh Expedition]] in April [[1873]], the [[Royal Netherlands East Indies Army]] under General [[J. H. R. Köhler]] and General [[E. C. van Daalen]] attempted to capture the palace. 
+
+However, as General [[G. G. Booms]] documented in [[1875]], because the army lacked a [[General Staff of the KNIL]] and accurate topographical intelligence ([[Military Intelligence in the Aceh War]]), Dutch columns became entangled around the [[Baiturrahman Grand Mosque]] and never located the actual kraton before withdrawing on [[16 April]] [[1873]].
+
+## Capture in the Second Expedition (1874)
+
+During the [[Second Aceh Expedition]], General [[J. van Swieten]] advanced along the Aceh River, pulverizing outworks at [[Kotta Alam]] during the [[Capture of Kotta Alam]]. On [[24 January]] [[1874]], Dutch troops executed the [[Capture of the Aceh Kraton]], entering the enclosure to find that Sultan [[Sultan Mahmud Syah of Aceh]] had evacuated. 
+
+Following its capture, the kraton was converted into the central Dutch military citadel and hospital, where severe cholera outbreaks occurred ([[Field Hospital and Cholera Epidemics in Aceh]]).
+
+## See Also
+
+- [[Aceh Sultanate]]
+- [[Aceh War]]
+- [[Battle of the Missigit (10 April 1873)]]
+- [[Capture of the Aceh Kraton]]
+- [[Capture of the Kraton (24 January 1874)]]
+- [[First Aceh Expedition (1873)]]
+- [[First Aceh Expedition]]
+- [[G. G. Booms]]
+- [[G. M. Verspyck]]
+- [[Groot-Atjeh]]
+- [[J. H. R. Köhler]]
+- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
+- [[K. van der Heyden]]
+- [[Kota Radja]]
+- [[Krueng Daroy]]
+- [[Pakan Atjeh]]
+- [[Panglima Polem|Panglima Polim]]
+- [[Second Aceh Expedition (1873-1874)]]
+- [[Taman (Kota Goenoengan)]]
+- [[Van Swieten's Proclamation of 31 January 1874]]
+
+## Source
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapters II, III, IV, IX. pp. 9–10, 14, 18, 49.
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 13-26.
 
-*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapters II, III, IV, IX. pp. 9–10, 14, 18, 49.
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 8-15; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 7-12, 20-35.

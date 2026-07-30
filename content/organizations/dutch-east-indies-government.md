@@ -1,7 +1,7 @@
 ---
 title: "Dutch East Indies Government"
-aliases: ["Dutch East Indies Government", "Netherlands Indies Government", "N.I. Gouvernement", "Gouvernement van Nederlandsch-Indië", "colonial government of the Netherlands Indies", "the colonial administration at Batavia", "Nederlandsch-Indisch Gouvernement", "Indische Regeering", "Indies government"]
-tags: [organization, colonial, dutch, indonesia, government, colonial-administration, batavia, aceh-war, indies, governance]
+aliases: ["Batavia Government", "Dutch East Indies Government", "Gouvernement van Nederlandsch-Indië", "Government of the Netherlands East Indies", "Indies government", "Indische Regeering", "N.I. Gouvernement", "Nederlandsch-Indisch Gouvernement", "Netherlands Indies Government", "colonial government of the Netherlands Indies", "the colonial administration at Batavia"]
+tags: [organization, aceh-war, batavia, civil-administration, colonial, colonial-administration, dutch, governance, government, indies, indonesia]
 ---
 
 **Dutch East Indies Government** (Dutch: *Gouvernement van Nederlandsch-Indië*; abbreviated *N.I. Gouvernement*) was the colonial administration that ruled the Indonesian archipelago from the early [[19th century|nineteenth century]] until the mid-[[20th century|twentieth century]], exercising sovereignty over [[Sumatra]], [[Java]], [[Borneo]], the [[Moluccas]] and the other islands of the East Indian archipelago from its seat at [[Batavia]] and acting, in the context of [[Acheh (Atjeh)|Aceh]], as the metropolitan authority that invoked the obligations of the [[Anglo-Dutch Treaty of 1824|Treaty of 1824]] to guarantee safe navigation in Acehnese waters and to suppress piracy. The government's dual strategy of regulating Western trade and attempting to "civilise" the Acehnese while maintaining a hard line against "piracy" and "raids" by local chieftains ended in the [[Aceh War]] ([[1873]]–[[1904]]) and the protracted military and administrative consolidation that followed under [[Joannes Benedictus van Heutsz|General Van Heutsz]]. The N.I. Gouvernement's legal foundation was the [[Regeringsreglement van Nederlands-Indië|Government Regulation for the Netherlands Indies (Dutch: *Regeringsreglement van Nederlands-Indië*)]], successively revised in [[1818|1818]], [[1825|1825]], [[1836|1836]] and [[1854|1854]], and its constitutional successor after [[1903|1903]] was the [[Netherlands India|Netherlands Indies state]] of the [[Ethische Politiek|Ethical Policy]] period.
@@ -36,36 +36,56 @@ In the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] o
 
 The debate names the principal instruments through which the government acted in Atjeh: the [[Gouverneur van Atjeh en Onderhoorigheden|Governor of Atjeh and Dependencies]] with a resident beside him experienced in Acehnese affairs; the officials of the *binnenlandsch bestuur* posted at the points designated for Dutch establishment, with extra rewards; the *[[Scheepvaartregeling|scheepvaartregeling]]* introduced under Minister [[Van Dedem]]; the [[Verklaringen van de kustvorsten van Atjeh|declarations of the coastal princes]]; and, on the military side, the [[Korps Marechaussee]] and the mobile columns of the [[Post-1896 system in Atjeh|new system]].
 
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Diplomacy and the First Expedition
+
+Following the conclusion of the Anglo-Dutch Sumatra Treaty of [[1871]], the [[Dutch East Indies Government]] abandoned the diplomatic restraint mandated by the [[Treaty of London 1824]]. In his [[1875]] treatise, General [[G. G. Booms]] argued that the executive government in [[Batavia]], rather than army commanders, bore primary responsibility for the failure of the [[First Aceh Expedition]] in [[1873]].
+
+Booms demonstrated from the [[Parliamentary Note on Relations with Aceh 1872-1873]] that the government precipitated an overhasty invasion in April [[1873]] without adequate intelligence or naval blockade, forcing General [[J. H. R. Köhler]] and General [[E. C. van Daalen]] to fight under the hazards of the approaching [[Southwest Monsoon in Aceh Operations]].
+
+## Policy During the Second Expedition and Occupation
+
+After the April [[1873]] retreat, the [[Dutch East Indies Government]] established the [[Bureau for War Equipments on Sumatra]] to prepare the [[Second Aceh Expedition]] under General [[J. van Swieten]]. Throughout [[1874]], [[1875]], and [[1876]], the government overseen by Governors-General such as [[O. van Rees]] financed garrison infrastructure around [[Kraton of Aceh]] and authorized General [[J. L. J. H. Pel]] to wage offensive warfare in the interior mukims.
+
 ## See Also
 
+- [[1897]]
 - [[Aceh War]]
-- [[Joannes Benedictus van Heutsz|Van Heutsz]]
-- [[Pacification of Aceh]]
-- [[Dutch East Indies]]
-- [[Dutch East India Company]]
-- [[Anglo-Dutch Treaty of 1824]]
-- [[Sumatra Treaty of 1871]]
 - [[Agrarische Wet 1870]]
+- [[Anglo-Dutch Treaty of 1824]]
+- [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
 - [[Atjehsche Staatsspoorwegen]]
+- [[Batavia]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
+- [[Dutch East India Company]]
+- [[Dutch East Indies]]
+- [[Ethische Politiek]]
+- [[First Aceh Expedition]]
+- [[G. G. Booms]]
 - [[Gajoweg (Gayo Road)|Gajoweg]]
 - [[Gouvernement Atjeh en Onderhoorigheden]]
-- [[C. Snouck Hurgronje|Snouck Hurgronje]]
-- [[Ethische Politiek]]
-- [[Batavia]]
 - [[Governor-General of Netherlands India]]
-- [[J. T. Cremer]]
 - [[J. B. Verhey]]
+- [[J. T. Cremer]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz]]
+- [[O. van Rees]]
+- [[Pacification of Aceh]]
 - [[Pieter Jelles Troelstra]]
-- [[Staatscommissie voor Atjeh (proposed 1897)]]
 - [[Post-1896 system in Atjeh]]
+- [[Royal Netherlands East Indies Army]]
+- [[Second Aceh Expedition]]
+- [[Staatscommissie voor Atjeh (proposed 1897)]]
+- [[Sumatra Treaty of 1871]]
+- [[Treaty of London 1824]]
 - [[Verklaringen van de kustvorsten van Atjeh]]
-- [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
-- [[1897]]
 
-## Sources
+## Source
 
-*DLP-84-Atjeh.pdf*, pp. 2-4.
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
 
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 18–19, 25, 30, 44, 47, 59.
 
-*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+*DLP-84-Atjeh.pdf*, pp. 2-4.
+
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 5-15; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 5-15.

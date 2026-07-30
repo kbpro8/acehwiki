@@ -1,7 +1,7 @@
 ---
-title: XXII Mukims (22 Mukims)
-aliases: [XXII Mukims, 22 Mukims, XXII Moekims, mountains of the XXII Mukims, Sagi der XXII Moekims, Sagi XXII]
-tags: [place, region, aceh, precolonial, achehnese, sultanate, military, aceh-war]
+title: "XXII Mukims (22 Mukims)"
+aliases: ["22 Moekims", "22 Mukims", "22 Sagi", "Dua Puluh Dua Mukim", "Sagi XXII", "Sagi der XXII Moekims", "XXII Moekims", "XXII Mukims", "mountains of the XXII Mukims"]
+tags: [place, aceh, aceh-war, achehnese, district, military, precolonial, region, sagi, sultanate]
 ---
 
 **The XXII Mukims** — the 22 Mukims — is the region of [[Atjeh|Aceh]] whose mountains were, in [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *De Atjehers* and in the chapter *Jagerslatijn* of *[[Oost-Indisch Journael]]* by Merac ([[1947]]), the habitat of the *[[Manté's|manté's]]* — the interior people who would wear no clothing and would be densely hairy over the whole body. As described in [[A. Kruisheer|Kruisheer]]'s *ATJEH '96*, the [[Sagi der XXII Moekims]] — meaning "Federation of the Twenty-Two Mukims" — was one of the three traditional *sagi* (federations of [[moekim|mukims]]) into which [[Groot-Atjeh]] was divided, comprising twenty-two mukims situated in the western and central portion of the [[Aceh War|Atjeh-oorlog]] theatre, and was the region of influence of the great Achehnese war-leader [[Panglima Polim]], and the principal source of hostile war-bands — known to the Dutch as the "Toenongers" — that continually harassed the [[buitenpost|buitenposten]] of the [[buitenlinie]].
@@ -34,32 +34,7 @@ The Sagi der XXII Moekims was the immediate source of the hostile *benden* that 
 
 The Sagi der XXII Moekims remained the principal centre of Achehnese resistance throughout the period covered by *ATJEH '96*. The [[Dutch]] failure to reduce this sagi, even after the [[Three-day Dutch offensive of 23–25 May 1896|three-day offensive]] against [[Teuku Umar]] in the [[IV en VI Moekims|IV and VI Moekims]], is acknowledged by Kruisheer as the principal strategic limit of the [[1896]] campaigns. The sagi's continued hostility under [[Panglima Polim]] ensured that the war would continue into [[1897]] and beyond.
 
-## See Also
 
-- [[Oost-Indisch Journael]]
-- [[C. Snouck Hurgronje|Snouck Hurgronje]]
-- [Manté's](/concept/mante-s)
-- [Orang pendek / koekoeman](/concept/orang-pendek)
-- [[Datoek]]
-- [Atjeh-oorlog](/events/atjeh-oorlog)
-- [[Groot-Atjeh]]
-- [[Sagi der XXV Moekims]]
-- [[Sagi der XXVI Moekims]]
-- [[sagi]]
-- [[Panglima Polim]]
-- [[K. A. Vosmaer]]
-- [[Ana' Galong]]
-- [[Lamkrak Moekims]]
-- [[V Moekims Montassik]]
-- [[Battle of Senelop (17 April 1896)]]
-- [[Tuchtiging of Lam-Krak Moekims (9–10 June 1896)]]
-- [[1896]]
-
-## Source
-
-*Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn*.
-
-*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21–22, 72, 82, 122, 143, 148, 165, 185, 214, 292, 338.
 
 ## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
 
@@ -94,3 +69,47 @@ The XXII Moekims was the target of repeated Dutch incursions but was never perma
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 131, 228, 327–329, 336–337, 350–355.
+
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Political Leadership and Unyielding Resistance
+
+Governed by the hereditary Sagie Chief [[Panglima Polem]], the XXII Moekims constituted the primary stronghold of Acehnese military resistance. Following the capture of [[Kraton of Aceh]] in January [[1874]], [[Panglima Polem]] rallied royal forces within the XXII Moekims, utilizing its vast sawahs ([[Sawah Cultivation and Supply in Aceh]]) to sustain thousands of warriors.
+
+## Dutch Invasion in February 1876
+
+On [[13 February]] [[1876]], General [[J. L. J. H. Pel]] launched a major offensive into the XXII Moekims during [[General Pel's Campaign in Aceh]]. 
+
+In the [[March through the XXII Moekims]], columns comprising the [[3rd Infantry Battalion]], [[12th Infantry Battalion]], [[13th Infantry Battalion]], and [[Barissans of Bangkallan]] fought through fortified villages and rice paddies. Although Dutch troops burnt granaries and destroyed bentengs, logistical delays within the [[Transport and Coolie System in Aceh]] prevented the complete subjugation of the sagi.
+
+## See Also
+
+- [[1896]]
+- [[Ana' Galong]]
+- [[Battle of Senelop (17 April 1896)]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
+- [[Datoek]]
+- [[General Pel's Campaign in Aceh]]
+- [[Groot-Atjeh]]
+- [[J. L. J. H. Pel]]
+- [[K. A. Vosmaer]]
+- [[Lamkrak Moekims]]
+- [[March through the XXII Moekims]]
+- [[Oost-Indisch Journael]]
+- [[Panglima Polem]]
+- [[Panglima Polim]]
+- [[Sagi der XXV Moekims]]
+- [[Sagi der XXVI Moekims]]
+- [[Tuchtiging of Lam-Krak Moekims (9–10 June 1896)]]
+- [[V Moekims Montassik]]
+- [[XXV Moekims]]
+- [[XXVI Moekims]]
+- [[sagi]]
+
+## Source
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21–22, 72, 82, 122, 143, 148, 165, 185, 214, 292, 338.
+
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 8-16, 60-66.
+
+*Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn*.

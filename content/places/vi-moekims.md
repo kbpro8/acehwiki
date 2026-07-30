@@ -1,7 +1,7 @@
 ---
-title: VI Moekims
-aliases: ["VI Moekims", "VI Mukims", "6 Mukims", "the Six Moekims", "Sagi der VI Moekims", "VI Moekims of Groot-Atjeh", "VI Moekims Lam-Pisang"]
-tags: [place, mukim, sagi, aceh, groot-atjeh, aceh-war, 1896, 19th-century, administrative-division, achehnese, military, sultanate]
+title: "VI Moekims"
+aliases: ["6 Moekims", "6 Mukims", "Enam Mukim", "Sagi der VI Moekims", "VI Moekim", "VI Moekims", "VI Moekims Lam-Pisang", "VI Moekims of Groot-Atjeh", "VI Mukims", "the Six Moekims"]
+tags: [place, 19th-century, aceh, aceh-war, achehnese, administrative-division, district, groot-atjeh, military, mukim, region, sagi, sultanate]
 ---
 
 **The VI Moekims** — the "Six Mukims" — were one of the smaller mukim-clusters of [[Groot-Atjeh]] — the northernmost triangle of [[Sumatra]] that formed the heartland of the [[Sultanate of Atjeh|Atjehnese sultanate]]. The VI Moekims formed the western segment of the territory enclosed by the Dutch *geconcentreerde linie* after the Dutch retreat from the interior of [[Groot-Atjeh]] in [[1884]], and they were — together with the [[XXII Moekims|XXII]], [[XXV Moekims|XXV]] and [[XXVI Moekims]] — one of the principal administrative subdivisions of the late sultanate and of the Dutch colonial order that succeeded it. As described in [[A. Kruisheer|Kruisheer]]'s *ATJEH '96*, the VI Moekims were also the western power-base of [[Teuku Umar]] (*Toekoe Oemar*) in the [[Aceh War|Atjeh-oorlog]], including the kampongs of [[Lam-Pagar]], Lam-Badak, [[Lam-Baroe]], [[Lam-Tengah]], and [[Lam-Isi]], and together with the neighbouring [[IV en VI Moekims|IV Moekims]] formed the principal theatre of Umar's defensive *stellingen* against the Dutch counter-offensive of May [[1896]].
@@ -34,51 +34,7 @@ The VI Moekims were the principal target of the [[Three-day Dutch offensive of 2
 
 The VI Moekims' significance in the documentary record of the [[Aceh War|Atjeh-oorlog]] is as the western anchor of the Dutch *geconcentreerde linie* — the territory whose governance by [[Toekoe Nja Din]] placed a woman at the head of a strategically critical district, and whose invasion by [[Habib Long]] was the immediate occasion of [[Toekoe Oemar]]'s appointment as Dutch auxiliary. The VI Moekims' role in the [[1896]] crisis — as the territory first invaded by the *Moslemin* after Oemar's defection — places them as the western anchor of the spring [[1896]] crisis. Kruisheer's *ATJEH '96* adds that the VI Moekims were the centre of gravity of [[Teuku Umar]]'s military power and the principal geographic object of the [[1896]] Dutch counter-offensive. The collapse of his *stellingen* there in May [[1896]] compelled Umar to withdraw eastward into [[Lepong]] and the [[Belang Kala-pas]], and opened the way for the [[Marine Bombardment of Lepong (25 May, 4–5, 8–9 June 1896)|marine bombardments of Lepong]] of [[25 May]] and [[4 June]]–[[5 June]], [[8 June]]–[[9 June]] [[1896]]. The VI Moekims remained, however, the symbolic core of Umar's legitimacy: his [[chandoeri]] (council) of approximately [[20 June]] [[1896]] at [[Lepong]] appointed new *panglima's* drawn principally from the VI.
 
-## See Also
 
-- [[Groot-Atjeh]]
-- [[XXII Moekims]]
-- [[XXV Moekims]]
-- [[XXVI Moekims]]
-- [[IV en VI Moekims]]
-- [[IV Moekims]]
-- [[Mukim]]
-- [[Sagi]]
-- [[Toekoe Nja Din]]
-- [[Tjoet Nja Din]]
-- [[Toekoe Oemar]]
-- [[Teuku Umar]]
-- [[Habib Long]]
-- [[Geconcenteerde linie]]
-- [[Lam-Pagar]]
-- [[Lam-Baroe]]
-- [[Lam-Tengah]]
-- [[Lam-Isi]]
-- [[Lam-Awi]]
-- [[Lam-Pisang]]
-- [[Lam-Poelau]]
-- [[Boekit Seboen]]
-- [[Lepong]]
-- [[Kroeng Raba]]
-- [[Belang Kala-pas]]
-- [[Monbroeh]]
-- [[Kloof van Beradin]]
-- [[T. Hoesin Lhongbatta]]
-- [[Three-day Dutch offensive of 23–25 May 1896]]
-- [[Operations in IV and VI Moekims (4–5 June 1896)]]
-- [[Marine Bombardment of Lepong (25 May, 4–5, 8–9 June 1896)]]
-- [[J. F. T. van Bloemen Waanders]]
-- [[Joannes Benedictus van Heutsz]]
-- [[chandoeri]]
-- [[Aceh War]]
-- [[1896]]
-- [[Atjeh-Album (Eigen Haard, 1896)]]
-
-## Source
-
-*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 4, 7 (Toekoe Oemar — Zijn Verraad; De Poeassa — Atjehers en Kafirs).
-
-*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 138, 141, 142, 145, 148, 165, 175, 176, 179, 181, 213, 232–242, 344, 348.
 
 ## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
 
@@ -111,3 +67,66 @@ The conquest of the VI Moekims began on [[26 December]] [[1875]] with the launch
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 57, 65, 93, 103, 176, 200, 228, 245–246, 263, 323–329, 336–337, 350.
+
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Political Leadership and Resistance
+
+The district was governed by hereditary Acehnese nobility (*hulubalangs*), including [[Teuku Nanta Setia]] (Teuku Nanta of the VI Moekims), father of Cut Nyak Dhien. Following the [[Capture of the Aceh Kraton]] on [[24 January]] [[1874]], [[Teuku Nanta Setia]] and leaders of the VI Moekims rejected Dutch calls for capitulation, converting their agricultural villages and sawahs ([[Sawah Cultivation and Supply in Aceh]]) into fortified resistance centers.
+
+## Target of General Pel's Campaign
+
+In late December [[1875]] and early [[1876]], General [[J. L. J. H. Pel]] initiated [[General Pel's Campaign in Aceh]] by directing offensive operations against the VI Moekims. 
+
+On [[26 December]] [[1875]], Dutch columns numbering over 7,000 troops stormed border bentengs around [[Pekan Badak]] and advanced through the district, systematically dismantling earthworks and occupying agricultural lands.
+
+## See Also
+
+- [[1896]]
+- [[Aceh War]]
+- [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[Belang Kala-pas]]
+- [[Boekit Seboen]]
+- [[Geconcenteerde linie]]
+- [[General Pel's Campaign in Aceh]]
+- [[Groot-Atjeh]]
+- [[Habib Long]]
+- [[IV Moekims]]
+- [[IV en VI Moekims]]
+- [[J. F. T. van Bloemen Waanders]]
+- [[J. L. J. H. Pel]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Kloof van Beradin]]
+- [[Kroeng Raba]]
+- [[Lam-Awi]]
+- [[Lam-Baroe]]
+- [[Lam-Isi]]
+- [[Lam-Pagar]]
+- [[Lam-Pisang]]
+- [[Lam-Poelau]]
+- [[Lam-Tengah]]
+- [[Lepong]]
+- [[Marine Bombardment of Lepong (25 May, 4–5, 8–9 June 1896)]]
+- [[Monbroeh]]
+- [[Mukim]]
+- [[Operations in IV and VI Moekims (4–5 June 1896)]]
+- [[Sagi]]
+- [[T. Hoesin Lhongbatta]]
+- [[Teuku Nanta Setia]]
+- [[Teuku Umar]]
+- [[Three-day Dutch offensive of 23–25 May 1896]]
+- [[Tjoet Nja Din]]
+- [[Toekoe Nja Din]]
+- [[Toekoe Oemar]]
+- [[XXII Moekims]]
+- [[XXV Moekims]]
+- [[XXVI Moekims]]
+- [[chandoeri]]
+
+## Source
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 138, 141, 142, 145, 148, 165, 175, 176, 179, 181, 213, 232–242, 344, 348.
+
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-15, 60-65.
+
+*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 4, 7 (Toekoe Oemar — Zijn Verraad; De Poeassa — Atjehers en Kafirs).

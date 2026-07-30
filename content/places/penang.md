@@ -1,7 +1,7 @@
 ---
-title: Penang
-aliases: ["Pinang", "Prince of Wales Island", "Penang", "Pulau Pinang", "Pulau Penang", "Pulo Pinang", "Penang Island", "Poeloe Pinang", "Pulo Penang", "Prince of Wales' Island"]
-tags: [place, straits-settlements, british, islands, island, foreign, british-settlement, colonial, coast, settlement, colony, capital]
+title: "Penang"
+aliases: ["British Penang", "George Town Penang", "Penang", "Penang Island", "Pinang", "Poeloe Pinang", "Prince of Wales Island", "Prince of Wales' Island", "Pulau Penang", "Pulau Pinang", "Pulo Penang", "Pulo Pinang"]
+tags: [place, british, british-settlement, capital, coast, colonial, colony, commercial-center, foreign, island, islands, port, settlement, straits-settlements]
 ---
 
 Referenced in the sadati dialogue: 'My desire, brothers, is to go to Pulo Pinang (Penang).' The Hok Canton was a ship 'belonging to Chinese traders in Penang, trading to [[Acheh]] under Dutch colours.' After the ransom affair following the [[Hok Canton Incident]], Achehnese who had been involved found their way to [[Singapore]] and Penang. Penang thus served as both a trading partner and a place of refuge for Achehnese connected to the events of the holy war against the Dutch.
@@ -53,55 +53,70 @@ The *Wilhelmina* affair and the [[Lucas mission to Telok Semawé (February 1821)
 
 After the [[Anglo-Dutch Treaty of 1824|treaty of London of 17 March 1824]], which exchanged Malacca for Benkoelen and ceded Singapore to Britain, Penang retained its supervisory role over the northern Sumatran coast. [[Robert Fullerton|Fullerton]]'s minute of [[21 March]] [[1825]] on the Acheh situation — the [[Fullerton's minute on Acheh (21 March 1825)]] — was drawn up for the Bengal government at Penang. The island's trade benefited from the disintegration of central authority in [[Acheh]]: as Fullerton observed, the more ports were independent of the sultan, the more the trade of Penang flourished. The [[Pinang Nota (1825)]] and the [[Dutch Salt Price Reduction]] of the late 1820s show Penang's continuing preoccupation with the commerce of [[Sumatra's East Coast]] and with the competition of [[Singapore]] itself, which under [[John Prince]] and [[Robert Fullerton|Fullerton]] rapidly eclipsed the older settlement.
 
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Arms Trade and Diplomacy in 1872-1873
+
+Following the Anglo-Dutch Sumatra Treaty of [[1871]], Aceh's royal court dispatched envoys to Penang to purchase munitions. As General [[G. G. Booms]] documented in his [[1875]] treatise, between August [[1872]] and early [[1873]], Acehnese merchants imported over 15,000 rifles and vast stores of gunpowder from Penang to arm [[Coastal Fortifications in Aceh]].
+
+During the Aceh War, Penang also served as an international telegraph station where Dutch dispatches, including the [[General van Swieten War Telegrams]], were transmitted to Europe and [[Batavia]] ([[Telegraph Communication in the Aceh War]]).
 
 ## See Also
 
-- [[Mukim]]
-- [[R. J. Wilkinson|R.J. Wilkinson]]
-- [[Straits Settlements]]
-- [[Malay Peninsula]]
-- [[Great Acheh]]
-- [[Acheh]]
-- [[Hok Canton Incident]]
-- [[Singapore]]
-- [[Malacca]]
-- [[Kedah]]
-- [[Province Wellesley]]
-- [[Ulee Lheue]]
-- [[Tuan Meurasab]]
-- [[Nagore]]
-- [[Captain Francis Light]]
-- [[James Price]]
-- [[Robert Fullerton|Governor R. Fullerton]]
-- [[Mandi Safar]]
-- [[Achehnese War]]
-- [[Warren Hastings]]
-- [[Johor Allum]]
-- [[Tamiang]]
-- [[Netherlands India]]
+- [[1871]]
+- [[1872]]
+- [[1873]]
 - [[A.W.S. O'Sullivan]]
+- [[Acheh]]
+- [[Achehnese War]]
 - [[Banda Acheh]]
-- [[Bencoolen]]
-- [[Colonel John Alexander Bannerman]]
-- [[W. E. Phillips]]
-- [[Robert Fullerton]]
-- [[W. A. Clubley]]
-- [[R. Ibbetson]]
-- [[John Anderson]]
-- [[Said Hussein]]
-- [[Sultan Saif ul-Alum]]
-- [[Said Akil]]
-- [[Treaty of Quedah (Penang cession, 1786)]]
-- [[Raffles-Coombs Acheh Commission (1819)]]
-- [[Syf's pension at Penang]]
-- [[Lucas mission to Telok Semawé (February 1821)]]
-- [[Fullerton's minute on Acheh (21 March 1825)]]
-- [[Pinang Nota (1825)]]
 - [[Bellona mission to Sumatra's East Coast (1827-1828)]]
+- [[Bencoolen]]
+- [[Captain Francis Light]]
+- [[Coastal Fortifications in Aceh]]
+- [[Colonel John Alexander Bannerman]]
 - [[Dutch Salt Price Reduction]]
+- [[Fullerton's minute on Acheh (21 March 1825)]]
+- [[G. G. Booms]]
+- [[Great Acheh]]
+- [[Hok Canton Incident]]
+- [[James Price]]
+- [[John Anderson]]
+- [[Johor Allum]]
+- [[Kedah]]
+- [[Lucas mission to Telok Semawé (February 1821)]]
+- [[Malacca]]
+- [[Malay Peninsula]]
+- [[Mandi Safar]]
+- [[Mukim]]
+- [[Nagore]]
+- [[Netherlands India]]
+- [[Pinang Nota (1825)]]
+- [[Province Wellesley]]
+- [[R. Ibbetson]]
+- [[R. J. Wilkinson|R.J. Wilkinson]]
+- [[Raffles-Coombs Acheh Commission (1819)]]
+- [[Robert Fullerton]]
+- [[Robert Fullerton|Governor R. Fullerton]]
+- [[Said Akil]]
+- [[Said Hussein]]
+- [[Singapore]]
+- [[Straits Settlements]]
+- [[Sultan Saif ul-Alum]]
+- [[Syf's pension at Penang]]
+- [[Tamiang]]
+- [[Telegraph Communication in the Aceh War]]
+- [[Treaty of Quedah (Penang cession, 1786)]]
+- [[Tuan Meurasab]]
+- [[Ulee Lheue]]
+- [[W. A. Clubley]]
+- [[W. E. Phillips]]
+- [[Warren Hastings]]
 
 ## Source
 
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 6, footnote p. 81.
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 8-11; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 6-10.
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 6, footnote p. 81.

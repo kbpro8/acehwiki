@@ -1,8 +1,7 @@
 ---
 title: "Panglima Polem"
-aliases: ["Panglima Polim", "Panglima Prang Polim", "Panglima Polem of the XXII Mukims", "Lord Elder Brother", "Polem", "Polim", "Teukoe Panglima Pólém", "Po-lem", "Panglima Polam", "Panglima Polim (Acehnese leader)", "Panglima Polem XXII", "Panglima Polem the elder", "sagihoofd XXII moekims", "last Panglima Polem", "Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed", "Teukoe Panglima Polém Moehamad Ali", "Teukoe Moehamat Dawöt", "sagi-head of XXII Moekim's"]
-tags: [person, uleebalang, panglima-sagi, xxii-mukims, hereditary, acehnese, sagi, achehnese-war, title, lineage, oelèëbalang, colonial, 19th-century, 20th-century, achehnese, resistance, aceh-war]
-description: "Hereditary title of the chief (panglima sagi) of the XXII Mukims of Great Aceh, borne by a succession of warrior-statesmen from the seventeenth century to 1941."
+aliases: ["Lord Elder Brother", "Panglima Polam", "Panglima Polem II", "Panglima Polem XXII", "Panglima Polem of the XXII Mukims", "Panglima Polem the elder", "Panglima Polim", "Panglima Polim (Acehnese leader)", "Panglima Prang Polim", "Po-lem", "Polem", "Polim", "Teukoe Moehamat Dawöt", "Teukoe Panglima Polém Moehamad Ali", "Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed", "Teukoe Panglima Pólém", "Teuku Panglima Polem", "last Panglima Polem", "sagi-head of XXII Moekim's", "sagihoofd XXII moekims"]
+tags: [person, 19th-century, 20th-century, aceh-war, acehnese, achehnese, achehnese-war, colonial, commander, hereditary, lineage, nobility, oelèëbalang, panglima-sagi, resistance, sagi, sagi-chief, title, uleebalang, xxii-mukims]
 ---
 
 > **Note on nomenclature.** The hereditary office discussed here is variously spelt in the sources as *Panglima Polem*, *Panglima Polim*, and (when referring to the Sultan's wartime commander) *Panglima Prang Polim*. The Dutch colonial records transliterate it as *Panglima Pólém* or *Panglima Polém*. All forms denote the same title and the same lineage of bearers. Several distinct historical persons held the office; the article treats the title and lineage as a single entity, with separate sections for each prominent bearer whose career is documented in the sources.
@@ -213,111 +212,20 @@ The Panglima Polem title and lineage epitomise the hereditary military aristocra
 
 Panglima Pòlém joined the pretender-sultan [[Toeankoe Mochamad Dawot]] and, from [[1898]], [[Teukoe Oemar]] in Pidië; on [[1 June]] [[1898]] the resistance centre [[Garot]], where he had gathered with them and with [[Teungkoe di Tjòt Plieng]], fell to van Heutsz's storm. When the tide turned and the *[[Kompeuni]]* struck back hard, "even a great resistance leader such as Panglima Pòlém gave up the struggle" — an event that du Croo notes as one of the causes of the submission of [[T. Tjhi' Toenòng]].
 
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Leadership of Acehnese Resistance (1874)
+
+Following the occupation of [[Kraton of Aceh]] on [[24 January]] [[1874]] during the [[Second Aceh Expedition]], [[Panglima Polem]] refused to surrender. Organizing royal forces within his agricultural stronghold in the [[XXII Moekims]], he rejected Dutch peace overtures and launched continuous guerrilla warfare against Dutch garrisons around Kotta Radja.
+
+In early February [[1874]], false rumors circulated in [[Batavia]] that [[Panglima Polem]] and his eldest son [[Raja Abdullah of Aceh]] had died of disease, reports that briefly led General [[J. van Swieten]] to predict general peace ([[General van Swieten War Telegrams]]).
+
+## Battles Against General Pel (1875-1876)
+
+Throughout [[1875]] and [[1876]], [[Panglima Polem]] commanded Acehnese forces against General [[J. L. J. H. Pel]] during [[General Pel's Campaign in Aceh]]. In February [[1876]], during the [[March through the XXII Moekims]], Dutch columns invaded his homeland. Despite heavy losses of sawahs and granaries ([[Sawah Cultivation and Supply in Aceh]]), [[Panglima Polem]] successfully preserved his guerrilla army in the interior.
+
 ## See Also
 
-- [[XXII Mukims]]
-- [[XXII Moekims]]
-- [[Three Sagis]]
-- [[XXV Mukims]]
-- [[XXVI Mukims]]
-- [[Panglima Sagi]]
-- [[Great Acheh]]
-- [[Groot-Atjeh]]
-- [[Sultan Meukuta Alam]]
-- [[Meura'sa]]
-- [[Dalam]]
-- [[Pidie]]
-- [[Bentara Keumangan]]
-- [[Sultan Jauhar Alum]]
-- [[Sultan Saif ul-Alum]]
-- [[Shahbandar of Acheh]]
-- [[Queen-Mother of Acheh]]
-- [[Sir Thomas Stamford Raffles]]
-- [[Captain Coombs]]
-- [[Panglima Polim's supremacy at Acheh]]
-- [[Three Sagis' letter to Penang (4 December 1822)]]
-- [[Acheh succession dispute (1802-1819)]]
-- [[Raffles-Coombs Acheh Commission (1819)]]
-- [[Treaty of Pedir (1819)]]
-- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
-- [[Robert Fullerton]]
-- [[W. E. Phillips]]
-- [[Aceh War]]
-- [[J. L. J. H. Pel]]
-- [[Imam of Longbatta]]
-- [[Habib Abdul Rahman]]
-- [[Habib Abdoel Rachman]]
-- [[Tekoe Moeda Baid]]
-- [[Toeankoe Pangeran Hoesin]]
-- [[Telok Kroet]]
-- [[XXII Moekims campaign (1878)]]
-- [[XXVI Moekims campaign (1879)]]
-- [[Selimoen tocht (1879)]]
-- [[Day-order of 5 September 1879]]
-- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
-- [[IV Moekims]]
-- [[VII Moekims]]
-- [[Toekoe Rajoet Lamkapang]]
-- [[Toewankoe Haschim]]
-- [[Radja Koelala]]
-- [[Gleiêng]]
-- [[Panteh Karang]]
-- [[Djerreek]]
-- [[Redep]]
-- [[Indrapoeri]]
-- [[Kemala]]
-- [[Keumala]]
-- [[Campaign against the XXII Moekims (1879)]]
-- [[Campaign against the XXVI Moekims (July 1879)]]
-- [[Selimoen Expedition (August 1879)]]
-- [[Capture of Gleiêng (9 July 1879)]]
-- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
-- [[Teukoe Oema]]
-- [[Batêê Iliê]]
-- [[Samalanga]]
-- [[Kutaradja]]
-- [[Lhokseumawe]]
-- [[Hendrikus Colijn|H. Colijn]]
-- [[Christoffel]]
-- [[General van der Heijden]]
-- [[H. N. A. Swart]]
-- [[Toeankoe Machmoed Radja Keumala]]
-- [[Toeankoe Radja Keumala (Moesa)]]
-- [[Tuanku Muhamat Dawot]]
-- [[Pö Tjoet Meurah]]
-- [[Teungkoe Sjech Saman di Tiri]]
-- [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
-- [[Prang sabi]]
-- [[Kaphé]]
-- [[Hari raja puasa]]
-- [[Teuku Nanta Seutia]]
-- [[Teuku Ne' Raja Muda Seutia]]
-- [[Teuku Ne' Peureuba Wangsa]]
-- [[Teungku Tanoh Abee]]
-- [[Teungku di Lheue]]
-- [[Seulimeum]]
-- [[Pacificatie van Atjeh]]
-- [[Oranje Nassau (Orde van Oranje Nassau)]]
-- [[Poesa]]
-- [[F-beweging]]
-- [[Major W. F. Palmer van den Broek]]
-- [[Seulimeum-colonne]]
-- [[C. Snouck Hurgronje]]
-- [[A. J. Piekaar]]
-- [[G. W. T. Dames]]
-- [[Van Daalen's Gajo Expedition]]
-- [[Kawom]]
-- [[kawom-dja-sandang]]
-- [[J. Kreemer]]
-- [[Pretender Sultan]]
-- [[Toeankoe Machmoed]]
-- [[Toeankoe Brahim]]
-- [[Habib Lhong]]
-- [[Pedir]]
-- [[Ana' Galong]]
-- [[VII Moekims Baid]]
-- [[Defection of Teuku Umar (29 March 1896)]]
-- [[Three-day Dutch offensive of 23–25 May 1896]]
 - [[1855]]
 - [[1875]]
 - [[1879]]
@@ -328,33 +236,142 @@ Panglima Pòlém joined the pretender-sultan [[Toeankoe Mochamad Dawot]] and, fr
 - [[1913]]
 - [[1941]]
 - [[1942]]
-- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[A. J. Piekaar]]
+- [[Aceh War]]
+- [[Acheh succession dispute (1802-1819)]]
+- [[Ana' Galong]]
 - [[Atjeh]]
+- [[Batêê Iliê]]
+- [[Bentara Keumangan]]
+- [[C. Snouck Hurgronje]]
+- [[Campaign against the XXII Moekims (1879)]]
+- [[Campaign against the XXVI Moekims (July 1879)]]
+- [[Captain Coombs]]
+- [[Capture of Gleiêng (9 July 1879)]]
+- [[Christoffel]]
+- [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
+- [[Dalam]]
+- [[Day-order of 5 September 1879]]
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[Defection of Teuku Umar (29 March 1896)]]
+- [[Djerreek]]
+- [[F-beweging]]
+- [[G. W. T. Dames]]
+- [[General Pel's Campaign in Aceh]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[General van der Heijden]]
+- [[Gleiêng]]
+- [[Great Acheh]]
+- [[Groot-Atjeh]]
+- [[H. N. A. Swart]]
+- [[Habib Abdoel Rachman]]
+- [[Habib Abdul Rahman]]
+- [[Habib Lhong]]
+- [[Hari raja puasa]]
+- [[Hendrikus Colijn|H. Colijn]]
+- [[IV Moekims]]
+- [[Imam of Longbatta]]
+- [[Indrapoeri]]
+- [[J. Kreemer]]
+- [[J. L. J. H. Pel]]
+- [[J. van Swieten]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[Kaphé]]
+- [[Kawom]]
+- [[Kemala]]
+- [[Keumala]]
+- [[Kutaradja]]
+- [[Lhokseumawe]]
+- [[Major W. F. Palmer van den Broek]]
+- [[March through the XXII Moekims]]
+- [[Meura'sa]]
+- [[Oranje Nassau (Orde van Oranje Nassau)]]
+- [[Pacificatie van Atjeh]]
+- [[Panglima Polim's supremacy at Acheh]]
+- [[Panglima Sagi]]
+- [[Panteh Karang]]
+- [[Pedir]]
+- [[Pidie]]
+- [[Poesa]]
+- [[Prang sabi]]
+- [[Pretender Sultan]]
+- [[Pö Tjoet Meurah]]
+- [[Queen-Mother of Acheh]]
+- [[Radja Koelala]]
+- [[Raffles-Coombs Acheh Commission (1819)]]
+- [[Raja Abdullah of Aceh]]
+- [[Redep]]
+- [[Robert Fullerton]]
+- [[Samalanga]]
+- [[Selimoen Expedition (August 1879)]]
+- [[Selimoen tocht (1879)]]
+- [[Seulimeum-colonne]]
+- [[Seulimeum]]
+- [[Shahbandar of Acheh]]
+- [[Sir Thomas Stamford Raffles]]
+- [[Sultan Jauhar Alum]]
+- [[Sultan Meukuta Alam]]
+- [[Sultan Saif ul-Alum]]
+- [[Tekoe Moeda Baid]]
+- [[Telok Kroet]]
+- [[Teukoe Oema]]
+- [[Teuku Nanta Seutia]]
+- [[Teuku Ne' Peureuba Wangsa]]
+- [[Teuku Ne' Raja Muda Seutia]]
+- [[Teungkoe Sjech Saman di Tiri]]
+- [[Teungku Tanoh Abee]]
+- [[Teungku di Lheue]]
+- [[Three Sagis' letter to Penang (4 December 1822)]]
+- [[Three Sagis]]
+- [[Three-day Dutch offensive of 23–25 May 1896]]
+- [[Toeankoe Brahim]]
+- [[Toeankoe Machmoed Radja Keumala]]
+- [[Toeankoe Machmoed]]
+- [[Toeankoe Pangeran Hoesin]]
+- [[Toeankoe Radja Keumala (Moesa)]]
+- [[Toekoe Rajoet Lamkapang]]
+- [[Toewankoe Haschim]]
+- [[Treaty of Pedir (1819)]]
+- [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
+- [[Tuanku Muhamat Dawot]]
+- [[VII Moekims Baid]]
+- [[VII Moekims]]
+- [[Van Daalen's Gajo Expedition]]
+- [[W. E. Phillips]]
+- [[XXII Moekims campaign (1878)]]
+- [[XXII Moekims]]
+- [[XXII Mukims]]
+- [[XXV Mukims]]
+- [[XXVI Moekims campaign (1879)]]
+- [[XXVI Mukims]]
+- [[kawom-dja-sandang]]
 
 ## Source
 
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 219, 624.
+
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 7-10, 60-66.
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I, § 3.
 
-*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
-
-*De geschiedenis van het Nederlandsche Korps Mariniers van 1665–1945*, OCR text, pages [[485]]–[[488]] (entry for Panglima Polim on [[116]]).
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872–1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 8, 70–71, 102–103, 108.
 
-*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
-
-*J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni 1855*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, 1943, Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, pp. 39–48.
-
-*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
-
-*Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 113, 119–120, 127.
-
-*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
-
-*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 219, 624.
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665–1945*, OCR text, pages [[485]]–[[488]] (entry for Panglima Polim on [[116]]).
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 13, 16, 18. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, X.
+
+*J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni 1855*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, 1943, Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, pp. 39–48.
+
+*Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 113, 119–120, 127.
+
+*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
+
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

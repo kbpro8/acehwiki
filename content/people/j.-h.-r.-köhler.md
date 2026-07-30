@@ -1,7 +1,7 @@
 ---
 title: "J. H. R. Köhler"
-aliases: ["J. H. R. Köhler", "General Köhler", "Generaal Köhler", "Johannes Hendrik Rudolf Köhler", "Köhler"]
-tags: [person, military, dutch, colonial, general, aceh-war, 19th-century, killed-in-action]
+aliases: ["Generaal Köhler", "General Kohler", "General Köhler", "J. H. R. Köhler", "Johan Harmen Rudolf Köhler", "Johannes Hendrik Rudolf Köhler", "Köhler"]
+tags: [person, 19th-century, aceh-war, colonial, commander, dutch, general, killed-in-action, military]
 ---
 
 **J. H. R. Köhler** — *Generaal Köhler* — was a Dutch general officer of the Royal Netherlands East Indies Army ([[K.N.I.L.|K.N.I.L.]]) who commanded the [[Eerste Atjeh-expeditie (1873)|Eerste Atjeh-expeditie]] — the first Dutch military expedition against the [[Sultanate of Aceh|Sultanate of Atjeh]] — in [[April 1873|April]] [[1873]], and who was killed in action before the [[Kraton of Aceh|kraton]] of [[Kota Radja|Koeta Radja]] on [[14 April]] [[1873]] during the failed assault that terminated the expedition. His death, the loss of approximately fifty dead and four hundred wounded among his troops, and the subsequent withdrawal of the expeditionary force on [[26 April]] [[1873]] constituted the first great Dutch reverse of the [[Aceh War|Atjeh-oorlog]] and demonstrated, as [[J. A. Kruijt|Kruijt]] would later write, that the Dutch had before them "eenen dapperen, overmachtigen vijand" (a brave and superior enemy) who defended himself "met fieren moed, groote doodsverachting en taaie volharding" (with proud courage, great contempt for death and tenacious perseverance).
@@ -22,30 +22,49 @@ Kruijt describes the failure of the expedition in severe terms: "de kraton was n
 
 Köhler's death on [[14 April]] [[1873]] is one of the foundational events of the [[Aceh War|Atjeh-oorlog]]. The failure of his expedition demonstrated that the Dutch had underestimated the fighting power of the [[Atjehers|Atjehers]]: a recurrent Dutch error, identified by [[J. A. Kruijt|Kruijt]] as one of the structural causes of the protracted war. The troops' conduct under fire — "de houding onzer troepen was boven allen lof verheven" (the bearing of our troops was above all praise) — could not compensate for the want of reconnaissance, the inadequate force, and the tactical surprise of the Atjehese defence. The taking of the [[Kraton of Aceh|kraton]] would be reserved for [[Jan van Swieten|Van Swieten]]'s [[Tweede Atjeh-expeditie (1873-1874)|second expedition]] of [[December 1873|December]] [[1873]] — [[April 1874|April]] [[1874]], and the war begun by Köhler would continue for more than three decades.
 
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Command of the First Expedition
+
+Appointed to lead the spring [[1873]] invasion of the [[Aceh Sultanate]], General [[J. H. R. Köhler]] issued the [[Proclamation of 22 March 1873]] demanding the submission of the Acehnese rulers to the [[Dutch East Indies Government]]. His armada landed at [[Meuraxa]] on [[8 April]] [[1873]].
+
+As General [[G. G. Booms]] documented in [[1875]], [[J. H. R. Köhler]] was compelled to operate without a permanent [[General Staff of the KNIL]] or topographical maps of [[Kraton of Aceh]] ([[Military Intelligence in the Aceh War]]).
+
+## Death in Battle
+
+On [[10 April]] [[1873]], [[J. H. R. Köhler]] ordered an unsuccessful attack on the [[Baiturrahman Grand Mosque]]. On morning of [[14 April]] [[1873]], Dutch troops recaptured the mosque grounds. While inspecting the courtyard alongside his staff, an Acehnese sniper fired from nearby trees, striking [[J. H. R. Köhler]] through the heart and killing him instantly. His death shocked the colonial army and led to the retreat ordered by his successor, General [[E. C. van Daalen]].
+
 ## See Also
 
-- [[Eerste Atjeh-expeditie (1873)]]
-- [[Tweede Atjeh-expeditie (1873-1874)]]
-- [[Jan van Swieten]]
-- [[F. N. Nieuwenhuysen]]
-- [[Kraton of Aceh]]
-- [[Meusigit Raja]]
-- [[Kota Radja]]
-- [[Groot-Atjeh]]
-- [[Koninklijke Marine]]
-- [[K.N.I.L.]]
-- [[Aceh War]]
-- [[Atjeh-oorlog]]
-- [[Atjehers]]
-- [[Declaration of War on Aceh (1873)]]
-- [[8 April]]
 - [[10 April]]
 - [[14 April]]
 - [[17 April]]
-- [[26 April]]
 - [[1873]]
 - [[1874]]
+- [[26 April]]
+- [[8 April]]
+- [[Aceh War]]
+- [[Atjeh-oorlog]]
+- [[Atjehers]]
+- [[Battle of Baiturrahman Mosque]]
+- [[Declaration of War on Aceh (1873)]]
+- [[E. C. van Daalen]]
+- [[Eerste Atjeh-expeditie (1873)]]
+- [[F. N. Nieuwenhuysen]]
+- [[First Aceh Expedition]]
+- [[G. G. Booms]]
+- [[Groot-Atjeh]]
+- [[Jan van Swieten]]
+- [[K.N.I.L.]]
+- [[Koninklijke Marine]]
+- [[Kota Radja]]
+- [[Kraton of Aceh]]
+- [[Meusigit Raja]]
+- [[Proclamation of 22 March 1873]]
+- [[Tweede Atjeh-expeditie (1873-1874)]]
 
 ## Source
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter II, "De eerste expeditie en blokkade, van April tot December 1873." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 9–12.
+
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 8-12, 21.

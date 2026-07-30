@@ -1,7 +1,7 @@
 ---
-title: Oleh-leh
-aliases: ["Olehleh", "Oleh Leh", "Uleelheue", "Oleh-leh Atjeh", "Oleh-leh Oost", "Ulee Lheu"]
-tags: [place, port, dutch-colonial, aceh-war, 19th-century, dutch, colonial, military, atjeh, scheepvaartregeling, vrijhaven]
+title: "Oleh-leh"
+aliases: ["Oleh Leh", "Oleh-Leh", "Oleh-leh Atjeh", "Oleh-leh Oost", "Olehleh", "Port of Oleh-leh", "Ulee Lheu", "Ulee Lheue", "Uleelheue"]
+tags: [place, 19th-century, aceh-war, achehnese, atjeh, coastal, colonial, dutch, dutch-colonial, fortification, military, port, scheepvaartregeling, vrijhaven]
 ---
 
 **Oleh-leh** (also written Olehleh, modern Uleelheue) was the principal landing-place and port of the Dutch in [[Acheh|Atjeh]] during the [[Aceh War|Atjeh-oorlog]], situated on the coast west of the mouth of the [[Aceh River|Atjeh river]]. It became the principal post on the [[Westerlinie|Westerlinie]] after its occupation in [[May 1874|May-June 1874]], and the western terminus of the railway to [[Kota Radja|Kota Radja]] completed in [[November 1876|November 1876]]. The reede of Oleh-leh, especially during the west monsoon, offered many advantages over that of the mouth of the Atjeh river, and the Dutch accordingly made it the principal landing and loading place for the garrison of Kota Radja.
@@ -88,65 +88,81 @@ In Van Heutsz's own [[1893]] prescription, Oleh-leh was to be one of only two *v
 
 Oleh-leh's significance in Van Heutsz's [[1893]] tract rests on its being the operational pivot of every Dutch closure-and-scheepvaartregeling scheme — the Dutch-controlled outlet at the mouth of the Atjeh River beside the colonial seat; one of the two havens (with [[Edi]]) exempted from Van der Heijden's two unilateral closures of [[1878]] and [[5 July]] [[1879]]; the place whose 1876 rice-trade exposed the operational irony *de vijand zijne rijstschuren bij ons te Oleh-leh had* — the lesson of which became the central prescription of the [[1893]] tract; and the Groot-Atjeh-side *vrijhaven* that, together with the proposed marine station on [[Sabang|Poeloe Waij]], was to be one of the only two free ports of the entire Atjehnese rijk under the *scheepvaartregeling* Van Heutsz would himself implement as Governor of Atjeh from [[1898]] onward.
 
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Fortifications and Capture
+
+Prior to [[1873]], the port was defended by coastal bentengs ([[Coastal Fortifications in Aceh]]) armed with munitions imported from [[Penang]]. Captured by the [[Royal Netherlands East Indies Army]] during the [[Second Aceh Expedition]] in December [[1873]], Oleh-leh became the principal maritime port of disembarkation for Dutch troop reinforcements and hospital ships.
+
+## Logistical and Medical Center
+
+Under General [[J. L. J. H. Pel]] in [[1874]] and [[1875]], Oleh-leh was linked via supply road to [[Sinangri]] and [[Pekan Badak]]. The [[Medical Service in Aceh]] constructed major sanitary hospital sheds at Oleh-leh to evacuate cholera patients away from the overcrowded [[Kraton of Aceh]] ([[Field Hospital and Cholera Epidemics in Aceh]]).
+
 ## See Also
 
-- [[Kota Radja]]
-- [[Koeta Radja]]
-- [[Westerlinie]]
-- [[Soerian]]
-- [[Langkroek]]
-- [[Lamara]]
-- [[Kota-Alam]]
-- [[Marassa]]
-- [[Lampassei]]
-- [[Johan Willem van Lansberge|J. W. van Lansberge]]
-- [[J. L. J. H. Pel]]
-- [[Van Lansberge's visit to Aceh (March-April 1877)]]
-- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
-- [[Aceh War]]
-- [[De Kleine Oosterling]]
-- [[Building of Oleh-leh harbor]]
-- [[Atjeh-tram]]
-- [[Atjehsche Staatsspoorwegen]]
 - [[1874]]
-- [[1901]]
-- [[Marine]]
-- [[Sabang-baai Poeloe Weh]]
-- [[Naval Demonstration in Kroeng-Rababaai (1–4 May 1896)]]
-- [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)]]
-- [[Marine Bombardment of Lepong (25 May, 4–5, 8–9 June 1896)]]
-- [[Defection of Teuku Umar (29 March 1896)]]
-- [[G. A. Hansen]]
-- [[Geconcenteerde Linie]]
-- [[H. M. Merapi]]
-- [[Controleur te Oleh-leh]]
-- [[1896]]
-- [[Joannes Benedictus van Heutsz]]
-- [[Edi]]
-- [[Segli]]
-- [[Van der Heijden]]
-- [[Demmeni]]
-- [[Van Teijn]]
-- [[Habib Abdoel Rachman]]
-- [[Sabang]]
-- [[Blokkade]]
-- [[Onderhoorigheden]]
-- [[XXII Moekims]]
-- [[XXVI Moekims]]
 - [[1878]]
 - [[1879]]
 - [[1883]]
 - [[1884]]
 - [[1891]]
 - [[1893]]
+- [[1896]]
 - [[1898]]
+- [[1901]]
+- [[Aceh War]]
+- [[Atjeh-tram]]
+- [[Atjehsche Staatsspoorwegen]]
+- [[Blokkade]]
+- [[Building of Oleh-leh harbor]]
+- [[Coastal Fortifications in Aceh]]
+- [[Controleur te Oleh-leh]]
+- [[De Kleine Oosterling]]
+- [[Defection of Teuku Umar (29 March 1896)]]
+- [[Demmeni]]
+- [[Edi]]
+- [[Field Hospital and Cholera Epidemics in Aceh]]
+- [[G. A. Hansen]]
+- [[Geconcenteerde Linie]]
+- [[H. M. Merapi]]
+- [[Habib Abdoel Rachman]]
+- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
+- [[J. L. J. H. Pel]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
+- [[Koeta Radja]]
+- [[Kota Radja]]
+- [[Kota-Alam]]
+- [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)]]
+- [[Lamara]]
+- [[Lampassei]]
+- [[Langkroek]]
+- [[Marassa]]
+- [[Marine Bombardment of Lepong (25 May, 4–5, 8–9 June 1896)]]
+- [[Marine]]
+- [[Meuraxa]]
+- [[Naval Demonstration in Kroeng-Rababaai (1–4 May 1896)]]
+- [[Onderhoorigheden]]
+- [[Sabang-baai Poeloe Weh]]
+- [[Sabang]]
+- [[Second Aceh Expedition]]
+- [[Segli]]
+- [[Soerian]]
+- [[Van Lansberge's visit to Aceh (March-April 1877)]]
+- [[Van Teijn]]
+- [[Van der Heijden]]
+- [[Westerlinie]]
+- [[XXII Moekims]]
+- [[XXVI Moekims]]
 
-## Sources
-
-*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 33-37, 64-65, 85.
-
-*De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 38 ("Een nieuwe stad").
+## Source
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 14, 27, 28, 47, 48, 56, 138, 142, 145, 167, 187, 322, 324, 332.
 
+*De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 38 ("Een nieuwe stad").
+
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 33-37, 64-65, 85.
+
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 21, 29, 31, 35, 37. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 8-11; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 14-22, 68-71.

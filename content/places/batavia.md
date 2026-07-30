@@ -1,7 +1,7 @@
 ---
 title: "Batavia"
-aliases: ["Jakarta", "Pentawi", "Betawi", "Kota Batavia", "Batavia (city)", "Batavia Dutch East Indies", "Peutawi", "Bataviasche regeering", "capital of the Dutch East Indies"]
-tags: [place, sacred-site, foreign-land, dutch-colonial, capital, city, foreign, colonial, colony, dutch, aceh, indonesia, indies]
+aliases: ["Batavia (city)", "Batavia Dutch East Indies", "Bataviasche regeering", "Betawi", "Colonial Capital Batavia", "Jakarta", "Kota Batavia", "Modern Jakarta", "Pentawi", "Peutawi", "capital of the Dutch East Indies"]
+tags: [place, aceh, capital, city, colonial, colony, dutch, dutch-colonial, foreign, foreign-land, indies, indonesia, sacred-site]
 ---
 
 **Batavia** (Acehnese: *Pentawi*; modern [[Jakarta]]) was the colonial capital of the [[Netherlands India|Dutch East Indies]], founded by the [[Dutch East India Company|VOC]] in [[1619]] on the site of the former Portuguese port of *Sunda Kelapa*, and served as the administrative seat of the Governor‑General, the centre of Dutch trade, naval logistics, and diplomatic contacts with the Sultanate of [[Aceh]] until the Japanese occupation in [[1942]]. The city was a focal point for Dutch‑Acehnese interaction, a hub of Malay manuscript collections such as the [[Menangkabau]] Malim Diman preserved by the [[Batavian Association]], and the place where [[C. Snouck Hurgronje]] compiled his research for *The Achehnese* in [[1892]]–[[1894]].
@@ -50,55 +50,72 @@ Batavia epitomised the Dutch colonial project in the East Indies: a fortified po
 
 [[H. N. A. Swart]] arrived there from the Netherlands on [[17 June]] [[1887]]; served at the *Subsistentenkader* there from [[11 December]] [[1895]]; visited it incognito with [[Joannes Benedictus van Heutsz|van Heutsz]] before departing for Atjeh in [[1908]] — "Haroun al-Rashid and his vizier" at the *Restaurant Versteeg* opposite Hotel De Nederlanden, where the disguise failed; and returned there on [[22 September]] [[1918]] to take up the Vice-Presidency of the Council. The Governor-General told him: "I am glad again that during my absence General Swart is at Batavia." The [[Van Heutsz-Monument te Batavia|Van Heutsz Monument]] was unveiled there.
 
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Role in Aceh Decision-Making
+
+In his [[1875]] analysis, General [[G. G. Booms]] argued that executive decisions made in Batavia—rather than field errors—caused the defeat of the [[First Aceh Expedition]] in [[1873]]. Batavia authorized an overhasty invasion without establishing a permanent [[General Staff of the KNIL]] or checking seasonal weather patterns ([[Southwest Monsoon in Aceh Operations]]).
+
+Following the retreat of April [[1873]], Batavia established the [[Bureau for War Equipments on Sumatra]] to organize the [[Second Aceh Expedition]]. During [[1874]], telegrams sent to Batavia ([[General van Swieten War Telegrams]]) generated premature public euphoria that quickly turned into political bitterness when Acehnese resistance continued under [[Panglima Polem]].
+
 ## See Also
 
-- [[Dutch East India Company]]
-- [[Netherlands India]]
-- [[Java]]
 - [[Aceh]]
-- [[Jakarta]]
-- [[Pentawi]]
-- [[C. Snouck Hurgronje]]
-- [[Menangkabau]]
-- [[Batavian Association]]
-- [[Batavian Society]]
-- [[Jacob Pieter van Braam]]
-- [[Schout-bij-nacht Wolterbeek]]
-- [[Godert Alexander Gerard Philip van der Capellen]]
-- [[Timmerman Thyssen]]
-- [[Colonel E. Lucas]]
-- [[Sultan Jauhar Alum]]
-- [[Riouw]]
-- [[Penang]]
-- [[Karimon Islands|Karimons]]
-- [[Bellona]]
-- [[Commissioner-General Du Bus]]
-- [[John Prince]]
-- [[Van de Graaff]]
 - [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Anglo-Dutch Treaty of London (1814)]]
-- [[Bellona mission to Sumatra's East Coast (1827-1828)]]
-- [[Wilhelmina mutiny and murder of Bouwens]]
-- [[J. J. Korndörffer|J.J. Korndörffer]]
-- [[Kweekschool voor de Zeevaart]]
-- [[Dutch Navy|Royal Netherlands Navy]]
-- [[Royal Netherlands Marine Corps]]
-- [[Royal Netherlands East Indies Army]]
-- [[H. N. A. Swart]]
-- [[General Swart, Pacifier of Atjeh (1943)]]
-- [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Batavian Association]]
+- [[Batavian Society]]
+- [[Bellona mission to Sumatra's East Coast (1827-1828)]]
+- [[Bellona]]
+- [[Bureau for War Equipments on Sumatra]]
+- [[C. Snouck Hurgronje]]
+- [[Colonel E. Lucas]]
+- [[Commissioner-General Du Bus]]
+- [[Dutch East India Company]]
+- [[Dutch East Indies Government]]
+- [[Dutch Navy|Royal Netherlands Navy]]
+- [[First Aceh Expedition]]
+- [[G. G. Booms]]
+- [[General Staff of the KNIL]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[General van Swieten War Telegrams]]
+- [[Godert Alexander Gerard Philip van der Capellen]]
+- [[H. N. A. Swart]]
+- [[J. J. Korndörffer|J.J. Korndörffer]]
+- [[Jacob Pieter van Braam]]
+- [[Jakarta]]
+- [[Java]]
+- [[John Prince]]
+- [[Karimon Islands|Karimons]]
+- [[Kweekschool voor de Zeevaart]]
+- [[Menangkabau]]
+- [[Netherlands India]]
+- [[Pacificatie van Atjeh]]
+- [[Penang]]
+- [[Pentawi]]
+- [[Riouw]]
+- [[Royal Netherlands East Indies Army]]
+- [[Royal Netherlands Marine Corps]]
+- [[Schout-bij-nacht Wolterbeek]]
+- [[Second Aceh Expedition]]
+- [[Sultan Jauhar Alum]]
+- [[Timmerman Thyssen]]
+- [[Van de Graaff]]
+- [[Wilhelmina mutiny and murder of Bouwens]]
 
 ## Source
+
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pp. 78‑79. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter I, IX, XVII.
+
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 5-16; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 5-15.
+
+*Raffles' Atjeh‑overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal‑Land‑en‑Volkenkunde van Nederlandsch‑Indië*, 6e vol., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*Rapport aan Z.E. den Minister van Marine over de reis van Nederland via Batavia naer Atjeh* by [[J. J. Korndörffer|J.J. Korndörffer]], archival manuscript, Koninklijk Instituut voor Taal‑Land‑en‑Volkenkunde, NL‑ARCH‑00123.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A. W. S. O'Sullivan, Leyden: E. J. Brill, 1906. Introduction, p. vi; Chapter I, § 9, footnote p. 146.
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A. W. S. O'Sullivan, Leyden: E. J. Brill, 1906.
-
-*Raffles' Atjeh‑overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal‑Land‑en‑Volkenkunde van Nederlandsch‑Indië*, 6e vol., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
-
-*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pp. 78‑79. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
-
-*Rapport aan Z.E. den Minister van Marine over de reis van Nederland via Batavia naer Atjeh* by [[J. J. Korndörffer|J.J. Korndörffer]], archival manuscript, Koninklijk Instituut voor Taal‑Land‑en‑Volkenkunde, NL‑ARCH‑00123.
-
-*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter I, IX, XVII.

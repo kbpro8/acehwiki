@@ -1,7 +1,7 @@
 ---
 title: "Gighen"
-aliases: ["Gighen", "Gigien", "Gighën", "the state of Gighen on the Noordkust", "Gig-chen", "Gigeng"]
-tags: [place, coast-state, acehnese, aceh-war, kwala, atjeh, 19th-century, north-coast, noordkust, onderhoorigheden, scheepvaartregeling]
+aliases: ["Gig-chen", "Gigeng", "Gighen", "Gighën", "Gigien", "Gigieng", "Port of Gighen", "the state of Gighen on the Noordkust"]
+tags: [place, 19th-century, aceh-war, acehnese, achehnese, atjeh, coast-state, coastal, kwala, noordkust, north-coast, onderhoorigheden, port, scheepvaartregeling, settlement]
 ---
 
 **Gighen** (also written Gigien) was a coast-state on the north coast of [[Acheh|Atjeh]] — a *kwala* (river-mouth) and statelet on the [[Noordkust]] of the Atjehnese [[Onderhoorigheden]] — whose vorst had fought against the Dutch in Atjeh, but who after the victories of [[J. L. J. H. Pel|General Pel]] in [[1875]]-[[1876|76]] signed the act of submission on [[29 February]] [[29 February]] [[1876]] and hoisted the Dutch flag. The vorst later betook himself to the [[XXII Moekims|XXII Moekims]] to fight against the Dutch there; on [[19 August]] [[19 August]] [[1876]] the tractaat of friendship was accordingly cancelled, the Dutch flag was taken down, and the country was again closed to trade. The state was the object of an expedition under [[K. van der Heyden|Van der Heyden]] in [[May 1878|May 1878]], after which the radja of Gighen again offered his submission. In [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *De onderwerping van Atjeh*, Gighen is also one of the five *kwala's* named in [[J. L. J. H. Pel|Generaal Pel]]'s [[30 April]] [[1875]] plan as the sea-approaches whose occupation would seal [[Groot-Atjeh]] from the sea, the statelet where the Dutch failure to establish the prescribed posts in [[1875]]–[[1877]] was empirically exposed, and the place whose *bangoen*-default and the murder of the Dutch emissary [[Said Abdellah]] provoked [[Scherer]]'s [[1880]] *kruisboot*-deployment — the first proof-of-concept for the *kruisboot-bangoen* method that grew into the *[[Scheepvaartregeling|scheepvaartregeling]]* Scherer would later systematise.
@@ -77,34 +77,16 @@ Cremer answered by pointing to what had happened at [[Segli]]. There, he said, r
 
 Cremer also answered the wider question in the negative: asked whether he wished to conquer the whole of Atjeh, he said no. The interior of Atjeh was unknown; there were no proofs that fighters from there joined the Acehnese bands; it would therefore be perfectly unnecessary to march thither. "Wanneer wij de kust beheerschen zal van zelf het achterland onder onzen invloed komen." — When we command the coast the hinterland will come under our influence of itself.
 
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Submission in December 1873
+
+During the initial phase of the [[Second Aceh Expedition]], the ruler of Gighen ([[Raja of Gighen]]) formally drafted and transmitted the [[Raja of Gighen Letter of Submission]] on [[30 December]] [[1873]] (11 Dzoelkangidah 1290 AH) to General [[J. van Swieten]], offering the capitulation of Gighen to the [[Dutch East Indies Government]]. 
+
+This document was highlighted in official reports in *Atjeh gedurende de tweede expeditie en later* ([[1876]]) as evidence that regional coastal rulers were separating from Sultan [[Sultan Mahmud Syah of Aceh]] following the invasion of [[Kraton of Aceh]].
+
 ## See Also
 
-- [[Toekoe di Tiroe]]
-- [[Pedir]]
-- [[Segli]]
-- [[Garouw]]
-- [[Telok Kadjoe]]
-- [[J. L. J. H. Pel]]
-- [[K. van der Heyden]]
-- [[XXII Moekims]]
-- [[Aceh War]]
-- [[Joannes Benedictus van Heutsz]]
-- [[Diemont]]
-- [[Scherer]]
-- [[Van Teijn]]
-- [[Said Abdellah]]
-- [[Soetan Maharadja]]
-- [[Samalanga]]
-- [[Melaboeh]]
-- [[Olehleh]]
-- [[Bangoen]]
-- [[Scheepvaartregeling]]
-- [[Noordkust]]
-- [[Onderhoorigheden]]
-- [[Groot-Atjeh]]
-- [[Kroeng Raja]]
-- [[Kroeng Raba]]
-- [[VI Moekims]]
 - [[1875]]
 - [[1876]]
 - [[1877]]
@@ -114,13 +96,45 @@ Cremer also answered the wider question in the negative: asked whether he wished
 - [[1890]]
 - [[1891]]
 - [[1893]]
+- [[Aceh War]]
+- [[Bangoen]]
+- [[Diemont]]
+- [[Garouw]]
+- [[Groot-Atjeh]]
+- [[J. L. J. H. Pel]]
+- [[J. van Swieten]]
+- [[Joannes Benedictus van Heutsz]]
+- [[K. van der Heyden]]
+- [[Kroeng Raba]]
+- [[Kroeng Raja]]
+- [[Melaboeh]]
+- [[Noordkust]]
+- [[Olehleh]]
+- [[Onderhoorigheden]]
+- [[Pedir]]
+- [[Raja of Gighen Letter of Submission]]
+- [[Raja of Gighen]]
+- [[Said Abdellah]]
+- [[Samalanga]]
+- [[Scheepvaartregeling]]
+- [[Scherer]]
+- [[Second Aceh Expedition]]
+- [[Segli]]
+- [[Soetan Maharadja]]
+- [[Telok Kadjoe]]
+- [[Toekoe di Tiroe]]
+- [[VI Moekims]]
+- [[Van Teijn]]
+- [[XXII Moekims]]
 
-## Sources
+## Source
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 8-10.
+
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 14, 55, 57.
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 80, 96.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 9, 10, 17, 22, 26, 50, 56, 92, 93. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
-
-*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 14, 55, 57.
-
-*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.

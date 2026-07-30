@@ -1,8 +1,7 @@
 ---
-title: Padang
-aliases: ["Padang (Sumatra)", "Padang highlands", "West-Coast Padang", "Highlands of Padang", "Padang uplands", "Minangkabau highlands", "Padang", "Padang on Sumatra", "Padang op Sumatra's Westkust", "City of Padang", "Hoofdkantoor Padang"]
-
-tags: [place, foreign, region, coast, highland, sumatra, minangkabau, adat, city, colony, westkust, colonial, dutch, british]
+title: "Padang"
+aliases: ["City of Padang", "Highlands of Padang", "Hoofdkantoor Padang", "Minangkabau highlands", "Padang", "Padang (Sumatra)", "Padang highlands", "Padang on Sumatra", "Padang op Sumatra's Westkust", "Padang uplands", "Port of Padang", "Sumatra's Westkust", "West Coast Sumatra", "West-Coast Padang"]
+tags: [place, adat, british, city, coast, colonial, colony, dutch, foreign, highland, minangkabau, port, region, sumatra, westkust]
 ---
 
 **Padang** was the chief Dutch colonial station and major port on the west coast of [[Sumatra]], serving as the administrative centre of the VOC’s Westkust government, a cultural hub of the [[Menangkabau|Minangkabau]] *adat*, and later, after the [[Anglo-Dutch Treaty of 1824|Anglo‑Dutch Treaty of 1824]] on [[2 January]] [[1665]], transferred to [[British Empire]] control under the 1824 treaty; the cession reshaped Dutch strategic focus toward the [[Sultanate of Aceh]] and intensified competition over the Strait of Malacca. In *The Achehnese* Vol. I, C. Snouck Hurgronje cites Padang for its role in the [[Hasan-Husain Festival|Hasan-Husain festival]], as a centre of Minangkabau cultural production, and as the source of settlers in [[Acheh]].
@@ -55,42 +54,17 @@ Padang’s long‑term role as the VOC’s Westkust headquarters, the seat of th
 
 The *DLP-84-Atjeh* pamphlet records that [[Padang]] was a later posting for [[Pastoor Verbraak|Pastoor Verbraak]] after his service in [[Atjeh|Atjeh]]. Following his tenure in the forts of Atjeh, Verbraak continued his apostolate (*apostolaat* (apostolate)) in the Dutch colonial barracks of Padang before moving on to [[Malang|Malang]]. Padang thus served as a west-coast station in the broader chaplaincy network of the *soldier-pastor*, between the Atjeh forts of his principal service and his subsequent posting in east Java.
 
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Staging and Reserve Base for the Aceh War
+
+During the planning of the [[First Aceh Expedition]] in [[1873]] and the [[Second Aceh Expedition]] under General [[J. van Swieten]], Padang served as a major regional supply depot and reserve troop staging ground. 
+
+In *Atjeh gedurende de tweede expeditie en later* ([[1876]]), the author noted that critics of General [[J. van Swieten]] argued that the 1st Brigade stationed in reserve at Padang should have been deployed immediately to attack Aceh from the west coast, rather than being held back to prevent unnecessary climate attrition among European infantry.
+
 ## See Also
 
-- [[Benkoelen]]
-- [[Menangkabau]]
-- [[Kuta Raja]]
-- [[Trumon]]
-- [[West Coast (of Acheh)]]
-- [[Hasan-Husain Festival|Hasan-Husain festival]]
-- [[Banten]]
-- [[Menangkabau|Menangkabau territories]]
-- [[Acheh]]
-- [[Java]]
-- [[Batavia]]
-- [[Singapore]]
-- [[Captain Coombs]]
-- [[Captain Coombs' first Acheh mission (1817-1818)]]
-- [[John Prince]]
-- [[Van de Graaff]]
-- [[Dutch Salt Price Reduction]]
-- [[Paper war]]
-- [[Tikoe]]
-- [[Priaman]]
-- [[Indrapoera]]
-- [[Painansch Contract]]
-- [[Padang Conference (29 August 1680)]]
-- [[panglima-radja]]
-- [[Balthasar Bort]]
-- [[Jacob Cau]]
-- [[Jacob Jorisse Pits]]
-- [[Melchior Hurdt]]
-- [[Laurens Pit de Jonge]]
-- [[Westkust van Sumatra]]
-- [[Vereenigde Oost-Indische Compagnie]]
 - [[15 February]]
-- [[2 January]]
-- [[29 August]]
 - [[1641]]
 - [[1659]]
 - [[1664]]
@@ -102,21 +76,60 @@ The *DLP-84-Atjeh* pamphlet records that [[Padang]] was a later posting for [[Pa
 - [[1818]]
 - [[1824]]
 - [[1827]]
-- [[Anglo-Dutch Treaty of 1824]]
-- [[British Empire]]
-- [[Dutch East Indies]]
+- [[2 January]]
+- [[29 August]]
 - [[Aceh]]
-- [[Pastoor Verbraak]]
+- [[Acheh]]
+- [[Anglo-Dutch Treaty of 1824]]
+- [[Balthasar Bort]]
+- [[Banten]]
+- [[Batavia]]
+- [[Benkoelen]]
+- [[British Empire]]
+- [[Captain Coombs' first Acheh mission (1817-1818)]]
+- [[Captain Coombs]]
+- [[Dutch East Indies Government]]
+- [[Dutch East Indies]]
+- [[Dutch Salt Price Reduction]]
+- [[First Aceh Expedition]]
+- [[Hasan-Husain Festival|Hasan-Husain festival]]
+- [[Indrapoera]]
+- [[J. van Swieten]]
+- [[Jacob Cau]]
+- [[Jacob Jorisse Pits]]
+- [[Java]]
+- [[John Prince]]
+- [[Kuta Raja]]
+- [[Laurens Pit de Jonge]]
 - [[Malang]]
+- [[Melchior Hurdt]]
+- [[Menangkabau]]
+- [[Menangkabau|Menangkabau territories]]
+- [[Padang Conference (29 August 1680)]]
+- [[Painansch Contract]]
+- [[Paper war]]
+- [[Pastoor Verbraak]]
+- [[Priaman]]
+- [[Second Aceh Expedition]]
+- [[Singapore]]
+- [[Tikoe]]
+- [[Trumon]]
+- [[Van de Graaff]]
+- [[Vereenigde Oost-Indische Compagnie]]
+- [[West Coast (of Acheh)]]
+- [[Westkust van Sumatra]]
+- [[panglima-radja]]
 
 ## Source
 
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A. W. S. O'Sullivan, indexed by R. J. Wilkinson. Leyden: E. J. Brill, 1906.
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 109‑110.
 
-*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 12-16.
+
+*DLP-84-Atjeh.pdf*, pp. 6-7.
 
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* (’s‑Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 15–16, 18, 20–21, 3 (tekst bij blad 4 en 5).
 
-*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 109‑110.
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
-*DLP-84-Atjeh.pdf*, pp. 6-7.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A. W. S. O'Sullivan, indexed by R. J. Wilkinson. Leyden: E. J. Brill, 1906.

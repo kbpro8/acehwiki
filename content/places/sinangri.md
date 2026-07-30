@@ -1,7 +1,7 @@
 ---
 title: "Sinangri"
-aliases: ["Sinangri", "Sinangrie", "Senangri"]
-tags: [place, acehnese, kampong, dutch-post, vi-moekims, aceh-war]
+aliases: ["Fort Sinangri", "Post Sinangri", "Senangri", "Sinangri", "Sinangrie"]
+tags: [place, aceh-war, acehnese, colonial, dutch, dutch-post, fortification, kampong, outpost, vi-moekims]
 ---
 
 **Sinangri** was the kampong east of [[Soerian]] in the [[VI Moekims|VI Moekims]] sector, occupied by the Dutch without enemy opposition in July [[1875]] and considerably improving the [[Stelling-Pel|stelling-Pel]] at its weakest point — between [[Oeleh Leh]] and Soerian. Its occupation was a long-desired step prescribed by [[Generaal Pel|Pel]]'s plan and was carried out during the *ad interim* administration of [[Generaal Wiggers van Kerchem|generaal Wiggers van Kerchem]] after Pel's departure on three months' leave on [[12 June]] [[1875]].
@@ -14,18 +14,32 @@ The western arc of the *stelling-Pel*, between Oeleh Leh on the coast and Soeria
 
 In July [[1875]], during the *ad interim* administration of Wiggers van Kerchem, the Dutch occupied Sinangri east of Soerian without enemy opposition. The occupation considerably improved the stelling at its weakest point. With Sinangri in Dutch hands, the western arc of the stelling-Pel was finally closed. Sinangri then became a permanent post of the western arc, and its garrison could sally against any enemy attempt to *verschansen* (entrench) along the road between Soerian and the coast. The post was, however, only a defensive measure — it did not attack the source of the enemy's power in the VI Moekims itself. That attack was reserved for Pel's [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|great winter offensive]] launched on [[26 December]] [[1875]], in which Sinangri's occupation proved its value as the forward base for the operations against the VI Moekims. On [[28 December]] [[1875]] [[Lamtermin]] and [[Bital]] were ontruimd by the enemy, as were Toekoe Nanta's *geduchte versterkingen* west of Sinangri — "Nergends hadden de Atjehneezen ernstigen tegenstand geboden" (nowhere had the Atjehneezen offered serious resistance).
 
+## Nineteenth-Century Historiography & Campaign Analysis
+
+## Military History
+
+Captured by the [[Royal Netherlands East Indies Army]] during the [[Second Aceh Expedition]] in December [[1873]], Sinangri was converted into a permanent defensive redoubt and supply magazine. 
+
+During [[General Pel's Campaign in Aceh]] in [[1875]] and [[1876]], General [[J. L. J. H. Pel]] utilized Fort Sinangri as an administrative anchor for his defensive chain around Kotta Radja. Troops of the [[6th Infantry Battalion]] and [[8th Infantry Battalion]] stationed at Sinangri covered the transport of artillery across the Aceh River during the [[Attack on Mibouw]] and the [[March through the XXII Moekims]].
+
 ## See Also
 
-- [[VI Moekims]]
-- [[Soerian]]
-- [[Oeleh Leh]]
-- [[Toekoe Nanta]]
-- [[Stelling-Pel]]
 - [[Generaal Pel]]
 - [[Generaal Wiggers van Kerchem]]
+- [[General Pel's Campaign in Aceh]]
+- [[J. L. J. H. Pel]]
+- [[Oeleh Leh]]
+- [[Pekan Badak]]
 - [[Pel's Buitenzorg planning session (1875)]]
 - [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Second Aceh Expedition]]
+- [[Soerian]]
+- [[Stelling-Pel]]
+- [[Toekoe Nanta]]
+- [[VI Moekims]]
 
 ## Source
+
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 14-22.
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 263, 323–329.
