@@ -1,8 +1,28 @@
 ---
 title: A. Pruys van der Hoeven
-aliases: [Abraham Pruys van der Hoeven, A. Pruys van der Hoeven, Pruys van der Hoeven, Van der Hoeven, Gouverneur Pruys van der Hoeven, Civil Governor of Atjeh, Governor of Aceh and Dependencies Pruys van der Hoeven]
-tags: [person, governor, dutch, colonial, administrator, aceh-war]
-description: "Dutch colonial administrator, last Resident of Palembang, first civil Governor of Atjeh (1881–1883), and member of the Council of the Indies (1886–1893)."
+aliases:
+- Abraham Pruys van der Hoeven
+- Pruys van der Hoeven
+- Van der Hoeven
+- Gouverneur Pruys van der Hoeven
+- Civil Governor of Atjeh
+- Governor of Aceh and Dependencies Pruys van der Hoeven
+- Pruijs van der Hoeven
+- Pruijs v. d. Hoeven
+- Civiele Gouverneur Pruijs van der Hoeven
+- Pruijs
+tags:
+- person
+- governor
+- dutch
+- colonial
+- administrator
+- aceh-war
+- civil-governor
+- 19th-century
+- civilian-administrator
+description: Dutch colonial administrator, last Resident of Palembang, first civil
+  Governor of Atjeh (1881–1883), and member of the Council of the Indies (1886–1893).
 ---
 
 **A. Pruys van der Hoeven** (full name **Abraham Pruys van der Hoeven**, born [[1829|1829]]) was a Dutch colonial administrator — last [[Resident|Resident]] of [[Palembang|Palembang]] — who was appointed Government Commissioner together with Major-General [[K. van der Heyden|K. van der Heyden]] in [[1880|1880]] to draft the new organisation of the *gewest* (region) of Atjeh en Onderhoorigheden (Aceh and Dependencies), and who on [[6 April|6 April]] [[1881|1881]] was appointed the first civil [[Governor of Atjeh|Governor of Atjeh]] and Dependencies, with Colonel [[J. F. Haus|J. F. Haus]] taking the military command. An experienced administrator of the [[Buitenbezittingen|Outer Possessions]] who had previously served as Resident of [[Lampongs|Lampongs]] and Palembang, Pruys van der Hoeven's appointment marked the formal transition of Atjeh from a military command to a regular administrative *gewest* of the [[Netherlands Indies|Netherlands Indies]]; on [[27 December|27 December]] [[1881|1881]] he solemnly transferred the [[Meusigit Raja|Meusigit Raja]] of [[Koeta-Radja|Koeta-Radja]] to the Acehnese people in the name of the Dutch government. His governorship lasted until [[1883|1883]], after which he served as a member of the [[Council of the Indies|Council of the Indies]] ([[1886|1886]]–[[1893|1893]]).
@@ -70,6 +90,10 @@ He is remembered for:
 
 The [[Aceh War|Aceh War]] was, however, by no means over at the time of his appointment, and was to continue for more than two decades in the form of guerrilla resistance, especially in the upper lands of [[Pedir|Pedir]] and the [[XXII Moekims|XXII Moekims]].
 
+
+## Sources
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VIII, "Achteruitgang onder de Civiele Gouverneurs Pruijs van der Hoeven en Laging Tobias, van April 1881 tot September 1884"; Inleiding (citing the March 1893 speeches). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 11, 40–43.
+
 ## See Also
 
 - [[K. van der Heyden]]
@@ -114,6 +138,34 @@ The [[Aceh War|Aceh War]] was, however, by no means over at the time of his appo
 - [[1883]]
 - [[1886]]
 - [[1893]]
+- [[Civil Government Period (1881-1884)]]
+- [[Laging Tobias]]
+- [[General van der Heijden]]
+- [[Kolonel Haus]]
+- [[Generaal Boumeester]]
+- [[Scheepvaartregeling]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Struisvogelpolitiek]]
+- [[Pacificatie van Atjeh]]
+- [[22 Moekims]]
+- [[26 Moekims]]
+- [[Oleh-leh]]
+- [[Noordkust]]
+- [[Heiligen Oorlog]]
+- [[Gouverneur van Atjeh en Onderhoorigheden]]
+- [[Atjeh-oorlog]]
+- [[March 1881]]
+- [[June 1881]]
+- [[August 1881]]
+- [[September 1881]]
+- [[August 1882]]
+- [[September 1882]]
+- [[December 1882]]
+- [[13 March]]
+- [[18 March]]
+- [[March 1893]]
+- [[1882]]
+- [[1884]]
 
 ## Source
 

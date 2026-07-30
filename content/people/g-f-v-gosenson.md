@@ -1,8 +1,37 @@
 ---
-title: "G. F. V. Gosenson"
-aliases: ["Colonel G. F. V. Gosenson", "Colonel Gosenson", "Kolonel G.F.V. Gosenson", "Gosenson", "Territoriaal Commandant van Atjeh 1936-1942", "G. F. P. Gosenson", "luitenant Gosenson", "kolonel Gosenson"]
-tags: [person, dutch, military, colonial, knil, aceh, world-war-ii, pacific-war, marechaussee, meulaboh, 20th-century]
-description: "Colonel of the Netherlands Indies Army (KNIL) infantry who served as Territoriaal Commandant van Atjeh from 31 May 1936 until his capture by the Japanese on 28 March 1942, the senior Dutch military commander in Aceh throughout the run-up to and the opening phase of the Japanese invasion of North Sumatra."
+title: G. F. V. Gosenson
+aliases:
+- Colonel G. F. V. Gosenson
+- Colonel Gosenson
+- Kolonel G.F.V. Gosenson
+- Gosenson
+- Territoriaal Commandant van Atjeh 1936-1942
+- G. F. P. Gosenson
+- luitenant Gosenson
+- kolonel Gosenson
+- Kapitein Gosenson
+tags:
+- person
+- dutch
+- military
+- colonial
+- knil
+- aceh
+- world-war-ii
+- pacific-war
+- marechaussee
+- meulaboh
+- 20th-century
+- captain
+- kolonel
+- aceh-war
+- westkust
+- bakongan
+- tjoet-ali
+description: Colonel of the Netherlands Indies Army (KNIL) infantry who served as
+  Territoriaal Commandant van Atjeh from 31 May 1936 until his capture by the Japanese
+  on 28 March 1942, the senior Dutch military commander in Aceh throughout the run-up
+  to and the opening phase of the Japanese invasion of North Sumatra.
 ---
 
 **G. F. V. Gosenson** — known from his rank as **Colonel Gosenson** (Dutch: *Kolonel G.F.V. Gosenson*) — was a colonel of the [[K.N.I.L.|Netherlands Indies Army]] infantry who served as **Territoriaal Commandant van Atjeh** (Territorial Commander of Aceh) from [[31 May]] [[1936]] until his capture by the Japanese on [[28 March]] [[1942]], and in that capacity was the senior Dutch military commander in [[Aceh|Aceh]] throughout the run-up to and the opening phase of the [[Japanese invasion of Atjèh|Japanese invasion of North Sumatra]]. Piekaar's *Atjèh and the War with Japan* characterises Gosenson as "the type of the Atjèh officer of the old stamp, a master in the personal political game which characterized old Atjèh," who "spoke the country's language fluently"; in the [[Nederlands-Indië contra Japan|Dutch staff history's]] account of the Atjeh campaign (Deel VI, Hoofdstuk V), he is the central command figure of the pre-invasion and invasion phases — the officer under whom the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussee]] divisions and the four garrison battalions were steadily reduced in [[1940]]–[[1941]], and under whom the Dutch response to the [[F-beweging|F. beweging]] sabotage and the Japanese landings of [[12 March]] [[1942]] was mounted.
@@ -57,6 +86,10 @@ The [[Attack on Gosenson at Djeuram (29 December 1917)|attack]] was, unlike most
 
 [[Maurice Henri du Croo|Du Croo]] named "the sudden attack on Gosenson" with the [[Murder of Lieutenant-Colonel Scheepens (10 October 1913)|murder of Scheepens]] and the flaring of resistance in the [[Daja]] districts as one of the three heavy blows that [[H. N. A. Swart]] had to absorb alone at his high and lonely post, "but none of his people ever observed a wavering in his self-confidence, a disturbance of his composure, or a stiffening of his cheerfulness."
 
+
+## Sources
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
 ## See Also
 
 - [[Pauw]]
@@ -95,6 +128,22 @@ The [[Attack on Gosenson at Djeuram (29 December 1917)|attack]] was, unlike most
 - [[Seunagan]]
 - [[H. N. A. Swart]]
 - [[Corps of Military Constabulary of Atjeh and Dependencies]]
+- [[Tjoet Ali]]
+- [[Behrens]]
+- [[Darlang]]
+- [[Westkust resistance (1925-1927)]]
+- [[Death of Tjoet Ali (1927)]]
+- [[Mengamat attack (1927)]]
+- [[Bakongan]]
+- [[Kandang]]
+- [[Troemon]]
+- [[Kloeët]]
+- [[Mengamat]]
+- [[Meulaboh]]
+- [[1925]]
+- [[1926]]
+- [[1927]]
+- [[Aceh War]]
 
 ## Source
 

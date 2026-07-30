@@ -1,8 +1,34 @@
 ---
-
 title: Asan and Usen
-aliases: [Hasan and Husain, Hasan ibn Ali, Husain ibn Ali, Hasan, Husain, Hasan and Husayn, grandsons of the Prophet, Asan-Usen]
-tags: [person, religious-figure, islamic, ahl-al-bayt, historical]
+aliases:
+- Hasan and Husain
+- Hasan ibn Ali
+- Husain ibn Ali
+- Hasan
+- Husain
+- Hasan and Husayn
+- grandsons of the Prophet
+- Asan-Usen
+- Asan Usèn
+- Achehnese month of Muharram
+- Hasan-Husain month
+- Husayn
+- Hussein
+- Hasan the grandson of Mohammad
+tags:
+- person
+- religious-figure
+- islamic
+- ahl-al-bayt
+- historical
+- event
+- calendar
+- religious
+- festival
+- ceremony
+- islamic-figure
+- martyr
+- grandson-of-prophet
 ---
 
 The two grandsons of Muhammad. Asan, king at Medina, was poisoned at the instigation of the infidel Yadib; his brother Usen succeeded him but was defeated and killed by Yadib at the plain of Akabala (Kerbela), most of his family dying for the faith.
@@ -18,6 +44,13 @@ The history of the two brothers is briefly sketched elsewhere in Vol. I. Husain,
 The Achehnese, though they are orthodox Shafi'ites, share in this devotional inheritance. The very name of their first month, **Asan-Usen**, is the Achehnese form of *Hasan-Husain*, and the [[Hasan-Husain Festival|Hasan-Husain feast]] is celebrated in [[Trumon]] "in the manner customary in the Deccan." The two grandsons of the Prophet thus occupy, in the popular calendar and ceremonial life of Acheh, a place out of all proportion to the formal importance assigned to them in orthodox Shafi'ite law — a place which bears witness to the Indian channel through which so much of Achehnese popular religion has flowed.
 
 The veneration of Hasan and Husain is, finally, only one instance of a wider pattern: the diffusion through the Eastern Archipelago of the romantic and devotional literature of Indian Islam, in which the two brothers figure alongside [[Amir Hamzah]], [[Mohammad ibnu'l Hanafiyyah]], [[Sam'un]], and [[Raja Badar]] — all heroes of the popular Islamic romance-cycle whose stories, as Snouck Hurgronje observes, "are in conflict both with the history and the legendary tradition of the Arabs."
+
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+---
+**Ḥusain** (also **Husayn** or **Hussein**), the grandson of [[Prophet Mohammad|the Prophet Mohammad]] through his daughter Fāṭimah and his cousin and son-in-law [[Ali]], is in the religious calendar and folk-lore of [[Acheh]] inseparable from his elder brother [[Hasan]]. Together they give their names to the Achehnese month of [[Asan-Usen]] (the first month of the Mohammedan year, *Muharram*) and to the [[Hasan-Husain Festival|Hasan-Husain Festival]] commemorated in the first ten days of that month. Husain's martyrdom on the plains of [[Kerbela]] on the tenth of Muharram — the day of [[Ashura]] — is the central event of the Shiʿite calendar, and its echoes in Achehnese custom form one of the principal subjects of Chapter II of Vol. I.
+**Ḥasan** (also **Hasan ibn Ali**), the elder son of [[Ali]] and Fāṭimah and thus the grandson of [[Prophet Mohammad|the Prophet Mohammad]], is in the religious calendar and folk-lore of [[Acheh]] inseparable from his younger brother [[Husain]]. Together they give their names to the Achehnese month of [[Asan-Usen]] (the first month of the Mohammedan year, *Muharram*) and to the [[Hasan-Husain Festival|Hasan-Husain Festival]] commemorated in the first ten days of that month. Vol. I singles Hasan out for special notice on one curious point: though innocent of all martyrdom, he has been "enrolled in this band of saints" — that is, in the band of Kerbela martyrs — and the Ashura-festival accordingly bears the names of both brothers.
 
 ## See Also
 - [[Acheh]]
@@ -40,6 +73,13 @@ The veneration of Hasan and Husain is, finally, only one instance of a wider pat
 - [[Sam'un]]
 - [[Trumon]]
 - [[Yadib]]
+- [[Hasan and Husain]]
+- [[Puasa (Ramadhan fasting month)]]
+- [[Kanduri (general)]]
+- [[Kanji Ashura]]
+- [[Prophet Mohammad]]
+- [[Sayyid Abdurrahman Zahir]]
+- [[Teungku Anjong]]
 
 ## Source
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

@@ -1,7 +1,26 @@
 ---
-title: "Generaal Diemont"
-aliases: ["Diemont", "generaal Diemont", "Generaal Diemont", "bevelhebber Diemont"]
-tags: [person, dutch, colonial, military, general, bevelhebber, aceh-war, atjeh, governor, 19th-century, 1876, 1877]
+title: Generaal Diemont
+aliases:
+- Diemont
+- bevelhebber Diemont
+- A. J. E. Diemont
+- Major-general Diemont
+- General Diemont
+- Kolonel Diemont
+tags:
+- person
+- dutch
+- colonial
+- military
+- general
+- bevelhebber
+- aceh-war
+- atjeh
+- governor
+- 19th-century
+- 1876
+- 1877
+- commander
 ---
 
 **Generaal Diemont** was a Dutch *generaal* of the [[Indische Leger|Indische leger]] who served as *bevelhebber in Atjeh* under whose administration the sea-expedition to the mouth of the [[Kroeng Raya]] was undertaken by [[Karel van der Heijden|kolonel van der Heijden]] in [[1876]]. In [[G. F. W. Borel|Borel]]'s account he appears principally as the superior officer under whom the eastern, sea-borne half of [[Generaal Pel|generaal Pel]]'s secret *afsluitingslinie* was attempted — and failed of its object.
@@ -46,6 +65,13 @@ Diemont's governorship ended with his medical evacuation on [[30 June]] [[1877]]
 
 The succession was at first *tijdelijk* (temporary) and only later *definitief* (definitive). The new Governor — [[Van der Heijden|kolonel K. van der Heijden]], the future conqueror of the [[XXII Moekims]] and [[XXVI Moekims]] — would inherit, with the office, the *verzoeningspolitiek* that Diemont had been sent to execute and the [[Pel (governor)|Pel]] plan's coastal line that Diemont had substantially completed. Diemont's seven months as Governor had carried out the armed coercion of the east coast and finished the coastal closure of Groot-Atjeh; he left the office before either policy could be tested against the resistance of the [[Sagi]] federations.
 
+
+## Sources
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 79-85.
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. p. 322.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter V, "Periode onder de generaals Wiggers van Kerchem en Diemont, van Maart 1876 tot Juni 1877." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 22–27.
+
 ## See Also
 
 - [[Karel van der Heijden]]
@@ -81,6 +107,30 @@ The succession was at first *tijdelijk* (temporary) and only later *definitief* 
 - [[1876]]
 - [[1877]]
 - [[1878]]
+- [[G. B. T. Wiggers van Kerchem]]
+- [[K. van der Heyden]]
+- [[A. G. Popelier]]
+- [[Toekoe Moeda Angkasa]]
+- [[Kroëng Raja]]
+- [[Lamnga]]
+- [[Aceh War]]
+- [[Wiggers van Kerchem]]
+- [[General van der Heijden]]
+- [[Johan Willem van Lansberge]]
+- [[Pel's Plan]]
+- [[Pedir]]
+- [[Telok Semawé]]
+- [[Langsar]]
+- [[Oostkust]]
+- [[Kota Radja]]
+- [[Oleh-leh]]
+- [[Atjeh en Onderhoorigheden]]
+- [[K.N.I.L.]]
+- [[Atjeh-oorlog]]
+- [[June 1876]]
+- [[November 1876]]
+- [[January 1877]]
+- [[March 1877]]
 
 ## Source
 

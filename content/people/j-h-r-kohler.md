@@ -1,8 +1,46 @@
 ---
-
 title: J. H. R. Köhler
-aliases: [Generaal Köhler, Major-general Köhler, J.H.R. Köhler, Köhler, General Koehler, General Köhler, Köhler (Atjeh 1873), Majoor Köhler, Kohler]
-tags: [person, general, dutch, military, aceh-war, colonial, infantry, achehnese, 19th-century, killed-in-action]
+aliases:
+- Generaal Köhler
+- Major-general Köhler
+- J.H.R. Köhler
+- Köhler
+- General Koehler
+- General Köhler
+- Köhler (Atjeh 1873)
+- Majoor Köhler
+- Kohler
+- General Kaler
+- Johann Heinrich Fritz Köhler
+- Köhler (Atjeh commander)
+- General Kohler
+- Johan Harmen Rudolf Köhler
+- Johannes Hendrik Rudolf Köhler
+- General J. H. R. Kohler
+- J. H. R. Kohler
+- generaal Kohler
+- generaalmajoor Kohler
+- General-Major Köhler
+- Dutch General Köhler
+tags:
+- person
+- general
+- dutch
+- military
+- aceh-war
+- colonial
+- infantry
+- achehnese
+- 19th-century
+- killed-in-action
+- knil
+- atjeh
+- casualty
+- acheh
+- commander
+- 1873
+- atjeh-oorlog
+- aceh
 ---
 
 **J. H. R. Köhler** was a Dutch major-general of the Indies army, commanding the [[First Aceh Expedition (1873)|first Aceh expedition]] of [[April 1873]] who was mortally wounded on [[14 April]] [[1873]] while inspecting the captured [[Missigit|missigit]] outside the [[Kraton of Aceh|kraton]] of [[Acheh|Atjeh]]. A self-made man who had risen from the lowest rank in the army, Köhler was entrusted with the supreme command of the expedition against [[Acheh]] after having served as military commandant of Sumatra's Westkust, and his death in the hour of apparent success precipitated the failure of the entire first campaign.
@@ -100,6 +138,47 @@ During the [[Second Conquest of the Great Missigit]] on [[14 April]] [[1873]], K
 - [[14 April]]
 - [[24 January]]
 - [[31 January]]
+- [[Klewang]]
+- [[Kotaradja]]
+- [[Atjeh War]]
+- [[De Kleine Oosterling]]
+- [[Jan van Swieten|Generaal Van Swieten]]
+- [[Declaration of war against the Sultan of Atjeh (1873)]]
+- [[Koeta Radja]]
+- [[Groot-Atjeh]]
+- [[Atjehoorlog]]
+- [[26 March]]
+- [[General Van Swieten]]
+- [[17 April]]
+- [[26 April]]
+- [[8 April]]
+- [[Atjeh-oorlog]]
+- [[Atjehers]]
+- [[Battle of Baiturrahman Mosque]]
+- [[Declaration of War on Aceh (1873)]]
+- [[Eerste Atjeh-expeditie (1873)]]
+- [[First Aceh Expedition]]
+- [[G. G. Booms]]
+- [[Jan van Swieten]]
+- [[K.N.I.L.]]
+- [[Koninklijke Marine]]
+- [[Kota Radja]]
+- [[Meusigit Raja]]
+- [[Proclamation of 22 March 1873]]
+- [[Tweede Atjeh-expeditie (1873-1874)]]
+- [[Acheh]]
+- [[Generaal van Swieten]]
+- [[Kraton Atjeh]]
+- [[Declaration of war on Atjèh (26 March 1873)]]
+- [[Penang]]
+- [[First Aceh Expedition (April 1873)]]
+- [[Storm on the Kraton (1 April 1873)]]
+- [[Generaal Verspijck]]
+- [[Kraton of Atjeh]]
+- [[Atjeh-enquête]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
+- [[Captain-terr zee Binkes]]
+- [[Aceh War (1873–1904)]]
 
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
 
@@ -120,3 +199,13 @@ When the tree was felled in [[1936]], *van het onderste deel van den stam van K�
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
 
 *De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889.
+*De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 36 ("Een tocht met tegenspoed").
+---
+**General Kaler** — the school-textbook spelling of **J. R. T. Köhler** (also rendered *Kohler*), the Dutch general who commanded the [[First Aceh Expedition (1873)|eerste Atjeh-tocht]] of April [[1873]] and was killed before the *missigit* at [[Kotaradja|Kotaradja]] on [[April 1873|April 1873]] — is the [[De Kleine Oosterling|school-textbook]]'s opening Dutch casualty of the [[Aceh War|Atjeh-oorlog]], and the staff history's principal instance of the *tegenspoed* (adversity) of the first Dutch expedition. The school-textbook spelling "Kaler" should be treated as a popularisation; the staff-history spelling is "Köhler."
+*De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 36 ("Een tocht met tegenspoed").
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 216.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter II, "De eerste expeditie en blokkade, van April tot December 1873." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 9–12.
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 8-12, 21.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Eerste tijdvak, blz. 14–15.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. pp. 9, 34, 70, 84.
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 121‑124.

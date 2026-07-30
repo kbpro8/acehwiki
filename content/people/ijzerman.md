@@ -1,7 +1,24 @@
 ---
-title: "IJzerman"
-aliases: ["IJzerman", "Ingenieur IJzerman", "J. W. IJzerman", "Engineer IJzerman", "IJzerman (Oembilin engineer)"]
-tags: [person, dutch, colonial, engineer, 19th-century, 1896, oembilin, snouck-hurgronje, deijkerhoff]
+title: IJzerman
+aliases:
+- Ingenieur IJzerman
+- J. W. IJzerman
+- Engineer IJzerman
+- IJzerman (Oembilin engineer)
+- IJzerman (author of Dwars door Sumatra)
+tags:
+- person
+- dutch
+- colonial
+- engineer
+- 19th-century
+- 1896
+- oembilin
+- snouck-hurgronje
+- deijkerhoff
+- explorer
+- sumatra
+- author
 ---
 
 **IJzerman** — *Ingenieur J. W. IJzerman* — was a Dutch colonial engineer, formerly chief of the [[Oembilin|Oembilin]] coal-mining undertaking in west Sumatra, who visited Atjèh in the period of the [[Pahlawan-klucht|Pahlawan-klucht]] under [[Deijkerhoff|Deijkerhoff]] and was — in the famous Priok encounter of the last days of [[March 1896|March]] [[1896]] — the principal Dutch defender of the Deijkerhoff-Oema policy against the warnings of [[C. Snouck Hurgronje|Snouck Hurgronje]], only to learn from Snouck Hurgronje's reply that the policy had just collapsed in the [[Defection of Teuku Umar (March 1896)|defection of Teuku Umar]] of [[29 March]] [[29 March]] [[1896]].
@@ -19,6 +36,10 @@ On one of the last days of [[March 1896|March]] [[1896]] the two gentlemen met a
 ## Significance
 
 IJzerman is the Dutch colonial engineer whose Priok encounter with Snouck Hurgronje in the last days of [[March 1896|March]] [[1896]] is one of the dramatic episodes of the [[Defection of Teuku Umar (March 1896)|defection of Teuku Umar]]. His Atjèh-journey in the period of the Pahlawan-klucht — and his favourable report of Deijkerhoff's policy to the governor-general Van der Wijck at Buitenzorg — was one of the principal Dutch supports of the Deijkerhoff-Oema policy in the period before its collapse; and his Priok encounter with Snouck Hurgronje — in which he learned, from Snouck Hurgronje's reply, that the policy had just collapsed — is the dramatic record of the moment of the collapse.
+
+
+## Sources
+*A List of the Best Books Relating to Dutch East India*, Martinus Nijhoff, The Hague ([[1902]]).
 
 ## See Also
 

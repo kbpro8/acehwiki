@@ -1,9 +1,68 @@
 ---
 title: Habib Abdurrahman Zahir
-aliases: ["the Habib", "Sayyid Abdurrahman Zahir", "Habib Abdurrahman", "Sayyid Abdurrahman", "Habib Abdoerrahman", "Abdul Rachman", "Habib", "Sayyid Abdurrahman Zair", "Habib Abdoe'r Rachman", "Habib Abdoor Rahman", "Habib Abdoerrahman Zahir", "Habib Abdul Rahman", "Sajjid Abdoerrahman Zahir", "Habib of Aceh", "sajet of Aidaroes family", "Habib's", "Habeeb", "Sayyid", "Habib Abdoel Rachman", "Hadji Abdoel Rachman", "Habib Abdoer Rachman"]
-
-tags: [person, warrior, religious-figure, sayyid, reformer, arab, jihad-leader, religious, aceh, resistance, aceh-war, arab-scholar, rijksbestuurder, military-leader, sajet, political, achehnese, 19th-century, concept, sultanate, iv-moekims, groot-atjeh, resistance-leader, zwager]
-description: "Arab scholar and sayyid who served as the first rijksbestuurder (chief minister) of Acheh under the sultanate, and the most energetic political-religious figure of the early Dutch war period. Submitted to the Dutch on 13 October 1878 and was exiled to Jeddah on a personal annual pension of 12,000 dollars."
+aliases:
+- the Habib
+- Sayyid Abdurrahman Zahir
+- Habib Abdurrahman
+- Sayyid Abdurrahman
+- Habib Abdoerrahman
+- Abdul Rachman
+- Habib
+- Sayyid Abdurrahman Zair
+- Habib Abdoe'r Rachman
+- Habib Abdoor Rahman
+- Habib Abdoerrahman Zahir
+- Habib Abdul Rahman
+- Sajjid Abdoerrahman Zahir
+- Habib of Aceh
+- sajet of Aidaroes family
+- Habib's
+- Habeeb
+- Sayyid
+- Habib Abdoel Rachman
+- Hadji Abdoel Rachman
+- Habib Abdoer Rachman
+- Habib Abdul Rachman El-Zahir
+- Habib Abdul Rachman
+- El-Zahir
+- Al-Zahir
+- Habib Abd al-Rahman al-Zahir
+- Sheikh al-Zahir
+- Habib Abdurrahman az-Zahir
+tags:
+- person
+- warrior
+- religious-figure
+- sayyid
+- reformer
+- arab
+- jihad-leader
+- religious
+- aceh
+- resistance
+- aceh-war
+- arab-scholar
+- rijksbestuurder
+- military-leader
+- sajet
+- political
+- achehnese
+- 19th-century
+- concept
+- sultanate
+- iv-moekims
+- groot-atjeh
+- resistance-leader
+- zwager
+- acehnese
+- diplomat
+- ottoman
+- scholar
+- commander
+description: Arab scholar and sayyid who served as the first rijksbestuurder (chief
+  minister) of Acheh under the sultanate, and the most energetic political-religious
+  figure of the early Dutch war period. Submitted to the Dutch on 13 October 1878
+  and was exiled to Jeddah on a personal annual pension of 12,000 dollars.
 ---
 
 **Habib Abdurrahman Zahir** — properly Sayyid Abdurrahman Zair, also **Sajjid Abdoerrahman Zahir** — was an Arab scholar and *sayyid* of the [[Aidaroes family|Aidaroes family]] who served as the first *rijksbestuurder* (chief minister) of [[Acheh|Atjeh]] under the sultanate, and the most famous *Habib* in Acehnese history and the most energetic political-religious figure of the Dutch war period. He was abroad seeking help at [[Constantinople]] when the Dutch first attacked in [[1873]], and his return marked a turning point in the war. He established himself at [[Mon Tasie'|Mon Tasie']] and led several expeditions before [[Submission of Habib Abdurrahman (13 October 1878)|submitting to the Dutch on 13 October 1878]] — an act his enemies attributed to treachery. He rebuilt the great mosque [[Meuseugit Raya]] at [[Kutaraja]] and was exiled to [[Jeddah|Jeddah]] in [[November 1878]] with a personal annual pension of 12,000 dollars. [[J. Kreemer|Kreemer]]'s *Atjèh* (Tweede Deel, [[1923]]) records the same figure under the alternative name **Habib Abdoerrahman** as a *sajet* (sayyid) of the Aidaroes family who used his great religious prestige for political purposes, and adds three distinctively Kreemer details: the *balè meuhakamah* at [[Bloee|Bloee]] (ca. [[1860]]–[[1870]]), the exceptional stoning for *dina*, and the departure for Mecca carrying a great value in *ha gantjéng* — judicial pledge monies that had accumulated in his hands. In [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]*, the Habib — a *sayyid* of the [[IV Moekims|IV Moekims of Groot-Atjeh]] and *zwager* (brother-in-law) of the [[XXII Moekims|Sagi XXII]] under-chief [[Toekoe Moeda Baid|Tekoe Moeda Baid]] — is identified as *de ziel van den tegenstand* (the soul of the resistance) in [[1877]]–[[1878]], whose June [[1878]] *inval* (incursion) into the Dutch-occupied territory triggered [[General van der Heijden|Van der Heijden]]'s strategic reversal against the [[Groot-Atjeh]] interior.
@@ -222,6 +281,32 @@ The Habibs represent the transnational Islamic dimension of the [[Aceh War]]. Th
 - [[Controleur Neelmeijer]]
 - [[Three-day Dutch offensive of 23–25 May 1896]]
 - [[Pedir]]
+- [[Atjehsche Raad van Achten]]
+- [[Constantinople]]
+- [[Penang]]
+- [[Jeddah]]
+- [[Sultan of Turkey]]
+- [[Ottoman Empire]]
+- [[Sultanate of Aceh]]
+- [[Sultan of Aceh]]
+- [[Oostkust]]
+- [[Kroeng Raba]]
+- [[Heiligen Oorlog]]
+- [[General van der Heijden]]
+- [[Koninklijke Marine]]
+- [[Atjeh-oorlog]]
+- [[Eerste Atjeh-expeditie (1873)]]
+- [[Tweede Atjeh-expeditie (1873-1874)]]
+- [[Conquest of the Kraton (24 January 1874)]]
+- [[Teuku Umar]]
+- [[1874]]
+- [[August 1876]]
+- [[June 1878]]
+- [[October 1878]]
+- [[Aceh Sultanate]]
+- [[G. G. Booms]]
+- [[Parliamentary Note on Relations with Aceh 1872-1873]]
+- [[1872]]
 
 ## Sources
 
@@ -236,3 +321,5 @@ The Habibs represent the transnational Islamic dimension of the [[Aceh War]]. Th
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 117, 231, 244, 266.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 13, 17, 20–22. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter III (mission to Constantinople and the Raad van Achten), Chapter V (return to Groot-Atjeh), Chapter VI (invasion of June 1878 and surrender). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 13, 22–23, 29–30.
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 6-11.

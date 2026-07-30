@@ -1,8 +1,24 @@
 ---
 title: Herman Neubronner van der Tuuk
-aliases: [Dr. H.N. van der Tuuk, H. N. van der Tuuk, Van der Tuuk, van der Tuuk]
-tags: [person, scholar, western-scholar, dutch-orientalist, malay-scholarship, batak-studies, manuscript-collector, 19th-century, leiden, raniri]
-description: "Dutch linguist, lexicographer, and orientalist (1824-1894) whose 1866 Bijdragen essay and manuscript collection supplied European scholarship with the only complete manuscript of Raniri's Tibjān and the first European notice of the Ḥujjat aṣ-ṣiddīq."
+aliases:
+- Dr. H.N. van der Tuuk
+- H. N. van der Tuuk
+- Van der Tuuk
+tags:
+- person
+- scholar
+- western-scholar
+- dutch-orientalist
+- malay-scholarship
+- batak-studies
+- manuscript-collector
+- 19th-century
+- leiden
+- raniri
+description: Dutch linguist, lexicographer, and orientalist (1824-1894) whose 1866
+  Bijdragen essay and manuscript collection supplied European scholarship with the
+  only complete manuscript of Raniri's Tibjān and the first European notice of the
+  Ḥujjat aṣ-ṣiddīq.
 ---
 
 **Herman Neubronner van der Tuuk** ([[1824]]–[[1894]]) was a Dutch linguist, lexicographer, orientalist, and manuscript collector, whose essay on Malay manuscripts and notes in *Bijdragen* ([[1866]]) are extensively cited by [[C. Snouck Hurgronje|Hurgronje]], particularly regarding the literary works and the history of religious teachers in [[Acheh]], including [[Nur al-Din al-Raniri|Raniri]], [[Shaikh Shamsuddin of Sumatra|Shamsuddin]], and [[Abdurra'uf of Singkel|Abdurra'uf]]. His legacy supplied the Leiden University Library with the only complete manuscript of the [[Tibjan fi ma'rifat al-adyan|*Tibjān fī maʿrifat al-adyān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]], and he was the first European scholar to take note of the [[Hudjdjat as-siddiq li-daf az-zindiq|*Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq*]] of Raniri, which he recorded in *BKI* 13 ([[1866]]), p. 464.

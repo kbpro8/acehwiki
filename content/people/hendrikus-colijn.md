@@ -1,8 +1,41 @@
 ---
-title: "Hendrikus Colijn"
-aliases: ["Colijn", "Hendrikus Colijn as minister of Oorlog", "Colijn (Atjeh veteran)", "H. Colijn", "dr. H. Colijn", "kapitein Colijn", "adjunct regeeringscommissaris Colijn"]
-tags: [person, officer, dutch, knil, marechaussee, aceh, colonial, military, administrator, politician, minister, buitenbezittingen, acheh, 20th-century]
-description: "Dutch military officer, colonial administrator, and Prime Minister of the Netherlands (1925–1926, 1933–1939), who served as a young officer in Aceh, accepted the surrender of the Sultan's commander-in-chief Panglima Prang Polim, and became the first Adviseur voor de Bestuurszaken der Buitenbezittingen in 1908."
+title: Hendrikus Colijn
+aliases:
+- Colijn
+- Hendrikus Colijn as minister of Oorlog
+- Colijn (Atjeh veteran)
+- H. Colijn
+- dr. H. Colijn
+- kapitein Colijn
+- adjunct regeeringscommissaris Colijn
+- Luitenant Colijn
+- Min. Staat Colijn
+- Minister Colijn
+- Colijn of 1902
+- Colijn the staatsman
+tags:
+- person
+- officer
+- dutch
+- knil
+- marechaussee
+- aceh
+- colonial
+- military
+- administrator
+- politician
+- minister
+- buitenbezittingen
+- acheh
+- 20th-century
+- lieutenant
+- aceh-war
+- gayoland
+- politicus
+description: Dutch military officer, colonial administrator, and Prime Minister of
+  the Netherlands (1925–1926, 1933–1939), who served as a young officer in Aceh, accepted
+  the surrender of the Sultan's commander-in-chief Panglima Prang Polim, and became
+  the first Adviseur voor de Bestuurszaken der Buitenbezittingen in 1908.
 ---
 
 **Hendrikus Colijn** ([[1869]]–[[1944]]) was a Dutch military officer, colonial administrator, and later Prime Minister of the Netherlands ([[1925]]–[[1926]], [[1933]]–[[1939]]). During the [[Aceh War]] and the early years of [[Joannes Benedictus van Heutsz|Van Heutsz]]'s Governor-Generalship, he served as a *kapitein* (captain) and then as a roving advisor for the outer islands, playing a key role in shaping the pacification policy in [[Aceh|Atjèh]] and other territories — including the reception of the surrender of [[Panglima Polem|Panglima Polem]] (*Panglima Polem*), the Sultan's own army commander, which marked the political closure of the Acehnese Sultanate. In [[1908]] he was appointed the first [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur voor de Bestuurszaken der Buitenbezittingen]], the institutional architect of the post-[[Pacificatie van Atjeh|pacification]] colonial order in the outer possessions; his portrait, alongside those of [[A. W. F. Idenburg]] and [[Joannes Benedictus van Heutsz|Van Heutsz]], appears as one of the three frontispiece figures of the [[Encyclopaedisch Bureau]]'s volume *De Buitenbezittingen 1904 tot 1914*. He was a close collaborator of Van Heutsz and, like [[C. Snouck Hurgronje|Snouck Hurgronje]], warned against the appointment of [[Gotfried Coenraad Ernst van Daalen|Gotfried Coenraad Ernst van Daalen]] as Governor of Aceh — a warning vindicated by the [[Atjéh-enquête|Atjéh-enquête]] of [[1907]]–[[1908]]. In Merac's *[[Oost-Indisch Journael]]* ([[1947]]) he is the ninth-named in [[Musket]]'s list of the Marechaussee commanders — known to the Acehnese as *Toean Colijn*.
@@ -89,6 +122,10 @@ Van Heutsz's letter to minister [[Alexander Willem Frederik Idenburg|Idenburg]] 
 
 Colijn, "the future adviser for the Outer Provinces," visited Atjeh again shortly before [[March]] [[1914]], by then already a former minister; his judgement of the situation then agreed entirely with Swart's own, as expressed in the [[Sumatra Post]] interview, and with that of the minister of Colonies who had proposed replacing the military authority in Atjeh wholly by the civil.
 
+
+## Sources
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
 ## See Also
 
 - [[G. F. B. Watrin|Watrin]]
@@ -156,6 +193,16 @@ Colijn, "the future adviser for the Outer Provinces," visited Atjeh again shortl
 - [[Liefrinck]]
 - [[Alexander Willem Frederik Idenburg]]
 - [[Opening der Buitengewesten]]
+- [[G.C.E. van Daalen|Van Daalen]]
+- [[Gajoetocht (1904)]]
+- [[Gajoeland]]
+- [[Isaq]]
+- [[Boer ni Intem-Intem]]
+- [[Korps Marechaussee van Atjeh en Onderhorigen]]
+- [[H.N.A. Swart|Swart]]
+- [[1902]]
+- [[1930]]
+- [[20th-century]]
 
 ## Source
 

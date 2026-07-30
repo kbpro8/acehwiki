@@ -1,8 +1,46 @@
 ---
 title: J. L. J. H. Pel
-aliases: ["Pel (Atjeh commander)", "Pel", "generaal Pel", "general Pel"]
-tags: [person, military, dutch, colonial, knil, governor, aceh-war, 19th-century, acheh]
-description: "Dutch colonel of the infantry, promoted major-general by Royal Decree of 18 February 1875, who served as the first Military and Civil Commander (Mil. en Civ. bevelhebber) of the Gouvernement Atjeh en Onderhoorigheden from April 1874 until his sudden death at kampong Tonga on 24 February 1876."
+aliases:
+- Pel (Atjeh commander)
+- Pel
+- generaal Pel
+- general Pel
+- Colonel Pel
+- J. Pel
+- Johan Lucas Gerardus Pel
+- Kolonel Pel
+- de Generaal Pel
+- P. M. Pel
+- Pel (governor)
+- Pel (bevelhebber Atjeh)
+- generaal-majoor Pel
+- the successor of Van Swieten
+- Pel of Atjèh
+tags:
+- person
+- military
+- dutch
+- colonial
+- knil
+- governor
+- aceh-war
+- 19th-century
+- acheh
+- commander
+- general
+- officer
+- colonel
+- bevelhebber
+- militaire-willemsorde
+- atjeh
+- 1874
+- 1875
+- 1876
+- atjeh-oorlog
+description: Dutch colonel of the infantry, promoted major-general by Royal Decree
+  of 18 February 1875, who served as the first Military and Civil Commander (Mil.
+  en Civ. bevelhebber) of the Gouvernement Atjeh en Onderhoorigheden from April 1874
+  until his sudden death at kampong Tonga on 24 February 1876.
 ---
 
 **J. L. J. H. Pel** — usually rendered ***Pel*** in the school-textbook tradition and ***Pell*** in the staff history, and styled **General Pel** (*Generaal Pel*) after his promotion to major-general — was a Dutch colonel of the infantry, promoted major-general by extraordinary Royal Decree of [[18 February]] [[1875]], who served as the first Military and Civil Commander (*Mil. en Civ. bevelhebber*) of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] from the departure of [[Jan van Swieten|Lieutenant-general Van Swieten]] in [[April 1874]] until his sudden death from an arterial rupture at the kampong Tonga on [[24 February]] [[1876]], in the middle of the campaign that broke the [[XXVI Moekims|XXVI Moekims]]. His appointment in [[1874]] — the year after the first Dutch military expedition against [[Koeta Radja|Koeta Radja]] — marks the formal inauguration of the *Gouvernement* as an administrative unit of the [[Netherlands Indies|Netherlands Indies]], succeeding the unstable arrangements of the early [[Aceh War|Atjeh-krijg]] years. His period of command was marked by the abandonment of Van Swieten's defensive policy in favour of systematic offensive operations, and by the formulation in his note of [[30 April]] [[1875]] of the program that guided Dutch strategy in Atjeh until [[1877]].
@@ -160,6 +198,62 @@ The [[Pel|Pel]] interlude is the immediate post-[[1873]] Dutch administration of
 - [[1873]]
 - [[General Van Swieten]]
 - [[1880]]
+- [[1884]]
+- [[27 April]]
+- [[April 1874]]
+- [[Atjeh River]]
+- [[Atjeh-oorlog]]
+- [[Atjeh-tram]]
+- [[Attack on Mibouw]]
+- [[Crossing of Blankala Pass]]
+- [[December 1874]]
+- [[Diemont]]
+- [[General Pel's Campaign in Aceh]]
+- [[General van der Heijden]]
+- [[J. van Swieten]]
+- [[June 1875]]
+- [[K.N.I.L.]]
+- [[Kota Radja]]
+- [[Kroeng Raba]]
+- [[Kroeng Raija]]
+- [[March 1876]]
+- [[March through the XXII Moekims]]
+- [[November 1875]]
+- [[Pel's Plan]]
+- [[Postenlinie]]
+- [[T. Nek van Marassa]]
+- [[Wiggers van Kerchem]]
+- [[Stelling-Pel]]
+- [[Pel's Buitenzorg planning session (1875)]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Death of Generaal Pel (24 February 1876)]]
+- [[Pel's plan for the Atjeh line]]
+- [[Pel's letter to Jan van Swieten]]
+- [[Generaal Wiggers van Kerchem]]
+- [[Majoor van Zijll de Jong]]
+- [[Majoor Romswinckel]]
+- [[Kapitein von Ende]]
+- [[Militaire Willemsorde]]
+- [[Afwachtende houding]]
+- [[Aanvallende tactiek in Atjeh]]
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[B. C. P. Kielstra]]
+- [[Sagi]]
+- [[Kemala]]
+- [[Gighen]]
+- [[Kroeng Raja]]
+- [[van Lansberge]]
+- [[Loudon]]
+- [[Fransen van de Putte]]
+- [[22 April]]
+- [[26 May]]
+- [[30 April]]
+- [[Acheh]]
+- [[Generaal van Swieten]]
+- [[Kraton Atjeh]]
+- [[XXV Mukims]]
+- [[Acheh River]]
+- [[postenlinie]]
 
 ## Sources
 
@@ -176,3 +270,8 @@ The [[Pel|Pel]] interlude is the immediate post-[[1873]] Dutch administration of
 *Verslagen der Marine-Vereeniging III 1889–1890*, J. R. J. P. Cambier, pp. 229–233.
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-75.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IV, "Pel's verrichtingen, van April 1874 tot Maart 1876," and Chapter V opening. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 18–22.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. pp. 17, 27, 44, 57, 64, 67, 74, 80, 84, 87, 96, 107, 117–119, 121–122, 125, 127–128, 130–134, 144–148, 162, 176–178, 184, 197, 209, 211, 226–235, 253, 262–263, 264–265, 266–267, 270–273, 275, 277–285, 287–289, 296–302, 304–313, 316–321, 323–325, 327, 329–337, 340, 342–344, 366, 369.
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 8, 10–15, 17–19. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Derde tijdvak, blz. 17–19. Citing H. F. Meijer, *Atjèh van 26 Dec. 1875 tot 4 Sept. 1876* (1883), p. XI vg.

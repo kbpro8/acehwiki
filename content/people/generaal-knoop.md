@@ -1,7 +1,21 @@
 ---
-title: "General Knoop"
-aliases: ["Knoop", "generaal Knoop"]
-tags: [person, dutch, colonial, military, general, military-historian, critic, aceh-war, 1873]
+title: General Knoop
+aliases:
+- Knoop
+- generaal Knoop
+- W. J. Knoop
+- Willem Jan Knoop
+tags:
+- person
+- dutch
+- colonial
+- military
+- general
+- military-historian
+- critic
+- aceh-war
+- 1873
+- historian
 ---
 
 **General Knoop** was a Dutch *generaal* and military historian whose judgement that the [[Second Aceh Expedition (1873–1874)|second Dutch expedition against Atjeh]] was "slechts ten deele gelukt" — only partially successful — is cited by [[G. F. W. Borel|Borel]] as one of the principal contemporary verdicts on [[Jan van Swieten|generaal van Swieten]]'s conduct of the war. Borel remarks that Knoop "could have said *mislukt*."
@@ -14,6 +28,10 @@ Borel introduces Knoop in the company of [[Generaal Booms|generaal Booms]] and [
 
 Borel cites Knoop's judgement as authoritative, but he goes one step further: "Knoop had *mislukt* kunnen zeggen." In Borel's reading the second expedition was not merely partially unsuccessful — it failed in its principal object, which was to end the war. By declaring the war ended and departing with the *hoofdmacht*, van Swieten bequeathed to [[Generaal Pel|Pel]] a *zeer gebrekkige stelling*, a passive *afwachtende houding*, and a *bezettingskorps* so weakened by sickness that, in the [[Crisis at Kota Radja (May–June 1874)|crisis of May–June 1874]], 500 *kloeke* Atjehneezen would have sufficed "om den Kraton, en met dezen onze geheele vestiging ter kuste van Atjeh, ten val te brengen." The convergence of Knoop's verdict with those of Booms and de Rochemont — and with Borel's own participant-observation — establishes, in Borel's narrative, the professional military consensus against which van Swieten's partisans had tried to defend his conduct by appealing to Pel's [[Pel's letter to Jan van Swieten|particulier schrijven]].
 
+
+## Sources
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 19-21; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 10-15.
+
 ## See Also
 
 - [[Second Aceh Expedition (1873–1874)]]
@@ -25,6 +43,10 @@ Borel cites Knoop's judgement as authoritative, but he goes one step further: "K
 - [[Van Swieten's afscheidsrede (1874)]]
 - [[Atjeh-enquête]]
 - [[1873]]
+- [[Open Letter by Brutus to General Knoop]]
+- [[G. G. Booms]]
+- [[J. van Swieten]]
+- [[1875]]
 
 ## Source
 

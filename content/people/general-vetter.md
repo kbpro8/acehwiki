@@ -1,8 +1,42 @@
 ---
 title: General Vetter
-aliases: [Generaal Vetter, Vetter, General Vetter at Atjeh, Vetter (KNIL Atjeh commander), J. A. Vetter, Luitenant-Generaal J. A. Vetter, Luit.-Gen. Vetter, Legercommandant Vetter]
-tags: [person, general, dutch, colonial, military, infantry, achehnese, 19th-century, aceh-war, diplomacy]
-description: "Dutch colonial general of the Netherlands-Indian Army sent to Aceh as Regeeringscommissaris in the immediate aftermath of Teuku Umar's defection of 29 March 1896, with onbeperkte volmacht (unlimited authority); arrived 7 April 1896, relieved Gen.-Maj. Deykerhoff, presided over the spring counter-offensive and the three-day Dutch offensive of 23–25 May 1896, departed for Batavia 28 June 1896 with the office of Regeeringscommissaris abolished. The school-history textbook of F. Roorda credits him with 'groote voordeelen' (great advantages), though the final subjugation of Groot-Atjeh was reserved for his successor Van Heutsz."
+aliases:
+- Generaal Vetter
+- Vetter
+- General Vetter at Atjeh
+- Vetter (KNIL Atjeh commander)
+- J. A. Vetter
+- Luitenant-Generaal J. A. Vetter
+- Luit.-Gen. Vetter
+- Legercommandant Vetter
+- Luitenant-Generaal Vetter
+- Lt.-Gen. Vetter
+- Regeeringscommissaris Vetter
+- Major Vetter
+- majoor Vetter
+tags:
+- person
+- general
+- dutch
+- colonial
+- military
+- infantry
+- achehnese
+- 19th-century
+- aceh-war
+- diplomacy
+- lieutenant-general
+- government-commissioner
+- major
+- 1875
+description: Dutch colonial general of the Netherlands-Indian Army sent to Aceh as
+  Regeeringscommissaris in the immediate aftermath of Teuku Umar's defection of 29
+  March 1896, with onbeperkte volmacht (unlimited authority); arrived 7 April 1896,
+  relieved Gen.-Maj. Deykerhoff, presided over the spring counter-offensive and the
+  three-day Dutch offensive of 23–25 May 1896, departed for Batavia 28 June 1896 with
+  the office of Regeeringscommissaris abolished. The school-history textbook of F.
+  Roorda credits him with 'groote voordeelen' (great advantages), though the final
+  subjugation of Groot-Atjeh was reserved for his successor Van Heutsz.
 ---
 
 **General Vetter** — *J. A. Vetter*, *Luitenant-Generaal*, Army Commander, *Commandeur der Militaire Willemsorde*, *Ridder van den Nederlandschen Leeuw* — was a Dutch colonial general of the [[Koninklijk Nederlandsch-Indisch Leger|Netherlands-Indian Army]] who, in the aftermath of the [[1896]] defection of [[Toekoe Oemar|Toekoe Oemar]] from the Dutch alliance to the Atjehnese side, was sent to [[Acheh|Atjeh]] with *onbeperkte volmacht* (unlimited authority) — a plenipotentiary military command — and "*behaalde groote voordeelen*" ("gained great advantages"), though the final subjugation of [[Groot-Atjeh|Groot-Atjeh]] was reserved for his successor [[J. B. van Heutsz|Van Heutsz]]. His command is the immediate Dutch response to the Toekoe Oemar defection, and it bridges the central and final phases of the [[Aceh War|Atjeh-oorlog]].
@@ -38,6 +72,11 @@ H. T. Damsté's *Drie Atjeh-Mannen* records that Vetter, before his departure, h
 Vetter's significance for the encyclopedia of [[Acheh|Achehnese]] history lies in the documentary fact that his appointment with unlimited authority, in the immediate aftermath of the [[Toekoe Oemar|Toekoe Oemar]] defection, marks the Dutch decision to break the [[Concentration system in Atjeh|concentration system]] and resume the offensive. His "great advantages" — though they did not complete the subjugation of [[Groot-Atjeh|Groot-Atjeh]] — were the operational preparation for the final conquest by [[J. B. van Heutsz|Van Heutsz]]. His command thus bridges the central and final phases of the [[Aceh War|Atjeh-oorlog]], and his name — though overshadowed in the schoolroom memory by Van Heutsz's — is the documentary mark of the Dutch operational recovery of the late [[1890s]].
 
 Kruisheer's *ATJEH '96* adds a further dimension: Vetter is the *deus ex machina* — the senior officer sent from outside to reorganise a colonial war effort which had been comprehensively compromised by the failed Umar policy. His arrival on [[7 April]] [[1896]] marked the beginning of the systematic Dutch counter-offensive which would, by the end of June [[1896]], break the back of the Achehnese coalition in [[Groot-Atjeh]]; his proclamations defined the public face of the Dutch response; his dagorder of [[26 May]] [[1896]] gave the official interpretation of the three-day offensive; and his departure on [[28 June]] [[1896]] closed the first-semester chapter of the war. The fact that the office of Regeeringscommissaris was abolished on his departure — rather than continued under a successor — indicates that the colonial government regarded the Vetter mission as a finite emergency intervention rather than a permanent restructuring.
+
+
+## Sources
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter XII (the appointment of Vetter), Chapter XIII (the counter-offensive and the question of "What now?"). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 73–74, 79.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. p. 313.
 
 ## See Also
 
@@ -80,6 +119,26 @@ Kruisheer's *ATJEH '96* adds a further dimension: Vetter is the *deus ex machina
 - [[1896]]
 - [[1897]]
 - [[1898]]
+- [[Defection of Teuku Umar (March 1896)]]
+- [[Deijkerhoff]]
+- [[Teuku Umar]]
+- [[Sultan of Aceh]]
+- [[Kota Radja]]
+- [[Scheepvaartregeling]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Gouverneur van Atjeh en Onderhoorigheden]]
+- [[K.N.I.L.]]
+- [[Atjeh-oorlog]]
+- [[29 March]]
+- [[March 1896]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Mibouw]]
+- [[Generaal Pel]]
+- [[Majoor F. J. E. Mekern]]
+- [[Luitenant-kolonel Engel]]
+- [[Toekoe Nanta]]
+- [[Ketapang Doewa]]
+- [[1875]]
 
 ## Source
 

@@ -1,7 +1,23 @@
 ---
 title: I. D. Fransen van de Putte
-aliases: ["I. D. Fransen van de Putte", "Isaac Dignus Fransen van de Putte", "Fransen van de Putte", "Fransen van de Putte (liberal MP)"]
-tags: [person, minister, dutch, colonial, politician, acheh, liberal]
+aliases:
+- Isaac Dignus Fransen van de Putte
+- Fransen van de Putte
+- Fransen van de Putte (liberal MP)
+- Isaäc Dignus Fransen van de Putte
+- Van Bosse
+- minister Van Bosse
+- Minister Fransen van de Putte
+tags:
+- person
+- minister
+- dutch
+- colonial
+- politician
+- acheh
+- liberal
+- dutch-official
+- colonial-administrator
 ---
 
 **I. D. Fransen van de Putte** was a Dutch politician who served as Minister of Colonies in the ministry De Vries-Geertsema, appointed by Royal Decrees of [[6 July]] [[6 July]] [[1872]]. His tenure as Minister of Colonies covered the immediate prelude to the [[Aceh War|Atjeh-oorlog]] — the [[Aceh Envoys' Visit to Singapore (January 1873)|Acehnese envoys' visit to Singapore]] of [[January 1873|January 1873]] and the Dutch decision to send an expedition — and the first months of the war itself.
@@ -63,6 +79,18 @@ The 1896 speech of [[I. D. Fransen van de Putte|Fransen van de Putte]] echoes th
 - [[Abraham Kuyper]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh-oorlog (1873-1904)]]
+- [[Gericke]]
+- [[Sumatra Treaty of 1871]]
+- [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
+- [[Anton Reinhard Falck]]
+- [[E. de Waal]]
+- [[S. van Deventer]]
+- [[P. H. van der Kemp]]
+- [[Parliamentary Note on Relations with Aceh 1872-1873]]
+- [[G. G. Booms]]
+- [[First Aceh Expedition]]
+- [[1872]]
+- [[1873]]
 
 ## Sources
 
@@ -76,3 +104,6 @@ The 1896 speech of [[I. D. Fransen van de Putte|Fransen van de Putte]] echoes th
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I-II.
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-270, 272.
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159-239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+**Isaäc Dignus Fransen van de Putte** (1822–1902) was a Dutch liberal politician who served as Minister of Colonies and who figures in [[P. H. van der Kemp|Van der Kemp]]'s 1900 article as the spokesman for the colonial government in the Second Chamber debates of [[1872]] on the [[Sumatra Treaty of 1871|Sumatra-tractaat]]. In the source text, Van der Kemp refers to him by the name **Van Bosse** — a usage that the present article retains as an alias in keeping with the source.
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 6-7.

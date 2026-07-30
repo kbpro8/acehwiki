@@ -1,7 +1,21 @@
 ---
-title: "Major Cavaljé"
-aliases: ["Cavaljé", "majoor Cavaljé", "Cavalje"]
-tags: [person, dutch, colonial, military, major, infantry, aceh-war, 1873]
+title: Major Cavaljé
+aliases:
+- Cavaljé
+- majoor Cavaljé
+- Cavalje
+- F.P. Cavaljé
+- Majoor F.P. Cavaljé
+tags:
+- person
+- dutch
+- colonial
+- military
+- major
+- infantry
+- aceh-war
+- 1873
+- commander
 ---
 
 **Major Cavaljé** was a Dutch *majoor* of the [[Indische Leger|Indische leger]] who led the failed [[Storm on the Kraton (1 April 1873)|storm on the Kraton]] on [[1 April]] [[1873]] during the [[First Aceh Expedition (April 1873)|first Dutch expedition against Atjeh]] under [[Generaal Köhler|generaal Köhler]]. In [[G. F. W. Borel|Borel]]'s account his is the name attached to the assault column that was repulsed with heavy loss and that cost Köhler his life outside the [[Kraton of Atjeh|Kraton]] walls.
@@ -14,6 +28,10 @@ The first Dutch expedition against Atjeh in April [[1873]] was conceived as a qu
 
 The failure of Cavaljé's assault column decided the fate of the [[First Aceh Expedition (April 1873)|first expedition]]. The news "maakte een onuitsprekelijken indruk" in both Indië and Nederland; the entire Dutch nation became engaged with the war and demanded vengeance. The government was forced to plan a [[Second Aceh Expedition (1873–1874)|second, much larger expedition]] to restore Dutch prestige, "want door een tweede échec zou ons prestige in Indië geheel vernietigd zijn." Borel treats Cavaljé's repulse as the object lesson of what every subsequent Dutch commander in Atjeh — most of all [[Jan van Swieten|van Swieten]] at the [[Storming of the Mesigit (6 January 1874)|storming of the Mesigit]] of [[6 January]] [[1874]] — ought to have learned: that the Atjehneezen, "uit eene geheel bijzondere stof gekneed," would yield only to a properly prepared assault, and never to a frontal attack "tegen alle Indische traditiën in."
 
+
+## Sources
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889, pp. 13, 58-59.
+
 ## See Also
 
 - [[First Aceh Expedition (April 1873)]]
@@ -23,6 +41,8 @@ The failure of Cavaljé's assault column decided the fate of the [[First Aceh Ex
 - [[Bamboe-doeri versperringen]]
 - [[Jan van Swieten]]
 - [[1873]]
+- [[First Conquest of the Great Missigit]]
+- [[Second Conquest of the Great Missigit]]
 
 ## Source
 

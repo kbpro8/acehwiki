@@ -1,7 +1,25 @@
 ---
 title: Gudjarat
-aliases: ["Gujerat", "Gujarat", "Goedjarat", "Gudjerat"]
-tags: [place, region, india, arab-migration, raniri, "rifa'i", 16th-century, 17th-century, indian-ocean-network, acheh, trade, precolonial]
+aliases:
+- Gujerat
+- Gujarat
+- Goedjarat
+- Gudjerat
+- Goedjerat
+tags:
+- place
+- region
+- india
+- arab-migration
+- raniri
+- rifa'i
+- 16th-century
+- 17th-century
+- indian-ocean-network
+- acheh
+- trade
+- precolonial
+- islamic
 ---
 
 **Gudjarāt** — in English **Gujarat** — is the region of north-western India whose coastal towns were, in the sixteenth and seventeenth centuries, the principal nodes of the Indian Ocean network that linked the religious scholarship of India with the Malay-Indonesian world. Gujarat is the region of origin of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] and of his uncle [[Muhammad Djailani Hamid]]; the region of the religious activity of [[Muhammad al-Addars|Muḥammad al-ʿAddārs]] and [[Abd al-Qadir al-Aidaros|ʿAbd al-Qādir al-Aydārūs]]; and the immediate source of the [[Rifa'iyah order|Rifāʿiyya]] silsila that was carried to [[Acheh]] and [[Makassar]] by Raniri and [[Yusuf Makasar|Shaikh Yūsuf al-Makassar]].
@@ -65,6 +83,18 @@ The source records that "het was juist vanuit Atjeh, dat de Nederlanders, reeds 
 - [[Suratte]]
 - [[India]]
 - [[VOC]]
+- [[Wat Indië Ontving en Schonk]]
+- [[F. H. van Naerssen]]
+- [[W. J. A. Kernkamp]]
+- [[Cambay]]
+- [[Samudra]]
+- [[Pasei]]
+- [[Aru]]
+- [[Conversion of Minangkabau via Atjeh (c. 1550)]]
+- [[1297]]
+- [[1415]]
+- [[1550]]
+- [[Marco Polo]]
 
 ## Sources
 
@@ -78,3 +108,4 @@ The source records that "het was juist vanuit Atjeh, dat de Nederlanders, reeds 
 *Twee Maleise geschriften van Nūruddīn ar-Rānīrī: in facsimile uitgegeven met aantekeningen door P. Voorhoeve*. Uitgaven van de Stichting De Goeje, No. 16. Leiden: E. J. Brill, 1955. Inleiding §1 ("De auteur"), pp. 5–6.
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 163.
+*Wat Indië Ontving en Schonk*, onder leiding van Dr. C. W. Wormser (Amsterdam: Wereldbibliotheek N.V., 1946), pp. 80 and 181 (chapters *De oudste cultuurstroomen* and *Omtrekken van de Indonesische litteratuur* door Dr. F. H. van Naerssen, and chapter *De invloed van den Islam* door Prof. Dr. W. J. A. Kernkamp).

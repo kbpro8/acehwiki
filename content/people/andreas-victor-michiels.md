@@ -1,8 +1,25 @@
 ---
 title: Andreas Victor Michiels
-aliases: [Michiels, A. V. Michiels, Andreas Michiels, General Michiels]
-tags: [person, colonial-official, dutch, military, general, colonial, monument]
-description: "Andreas Victor Michiels (1797-1849) was a Dutch military officer who rose through all ranks to become a General. He was killed in action on Bali in 1849 and is commemorated by the Michiels Monument at Waterloo Square, Weltevreden, Batavia. The Atjeh Monument in the Wilhelminapark was also erected in connection with his legacy of military campaigns."
+aliases:
+- Michiels
+- A. V. Michiels
+- Andreas Michiels
+- General Michiels
+- Generaal Michiels
+tags:
+- person
+- colonial-official
+- dutch
+- military
+- general
+- colonial
+- monument
+- historical-figure
+description: Andreas Victor Michiels (1797-1849) was a Dutch military officer who
+  rose through all ranks to become a General. He was killed in action on Bali in 1849
+  and is commemorated by the Michiels Monument at Waterloo Square, Weltevreden, Batavia.
+  The Atjeh Monument in the Wilhelminapark was also erected in connection with his
+  legacy of military campaigns.
 ---
 **Andreas Victor Michiels** ([[1797]]–[[1849]]) was a Dutch general who distinguished himself throughout a long military career in the [[Netherlands India|Dutch East Indies]] and was killed in action on [[Bali]] in [[1849]]. He entered military service at the age of seventeen and eventually attained the rank of General, having passed through all intermediate ranks.
 
@@ -26,7 +43,11 @@ Two monuments are associated with Michiels and the broader military heritage com
 - [[Weltevreden]]
 - [[Aceh War]]
 - [[Pacification of Atjeh]]
+- [[J. van Swieten]]
+- [[Second Aceh Expedition]]
+- [[Royal Netherlands East Indies Army]]
 
 ## Sources
 
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Plate 70 (Monuments at Weltevreden).
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 10-15.

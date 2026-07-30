@@ -1,8 +1,53 @@
 ---
-title: "H. N. A. Swart"
-aliases: ["H. N. N. A. Swart", "Hendrik Nikolaas Albert Swart", "Swart", "Mr. Swart", "Major Swart", "Kolonel Swart", "Generaal Swart", "General Swart", "Governor Swart", "Gouverneur Swart", "Lieutenant-General Swart", "Toean Gouverneur Swart", "Aceh-connoisseur Swart", "successor of Van Daalen", "Swart the Pacificator", "Pacificator of Atjeh", "Pacificator van Atjeh", "Henri Nicolaas Alfred Swart", "Toean Besar Swart", "Bapa Swart", "de Bult"]
-tags: [person, general, dutch, colonial, military, governor, aceh, aceh-war, knil, bestuursreorganisatie, 20th-century, achehnese, 19th-century, pacification, marechaussee]
-description: "Dutch lieutenant-general of infantry (active 1890s–1918) who, as Civil and Military Governor of Atjeh en Onderhoorigheden from 1908 to 1918, restored conciliatory governance after the Van Daalen years, presided over the 1913–1914 Sumatra administrative reform, and finally handed a peaceful Aceh over to a civilian governor in 1918 — closing the forty-five-year Aceh War."
+title: H. N. A. Swart
+aliases:
+- H. N. N. A. Swart
+- Hendrik Nikolaas Albert Swart
+- Swart
+- Mr. Swart
+- Major Swart
+- Kolonel Swart
+- Generaal Swart
+- General Swart
+- Governor Swart
+- Gouverneur Swart
+- Lieutenant-General Swart
+- Toean Gouverneur Swart
+- Aceh-connoisseur Swart
+- successor of Van Daalen
+- Swart the Pacificator
+- Pacificator of Atjeh
+- Pacificator van Atjeh
+- Henri Nicolaas Alfred Swart
+- Toean Besar Swart
+- Bapa Swart
+- de Bult
+- Swart (Atjeh officer)
+- Pacificator van Atjeh Swart
+tags:
+- person
+- general
+- dutch
+- colonial
+- military
+- governor
+- aceh
+- aceh-war
+- knil
+- bestuursreorganisatie
+- 20th-century
+- achehnese
+- 19th-century
+- pacification
+- marechaussee
+- officer
+- period-van-heutsz
+- pacificator
+description: Dutch lieutenant-general of infantry (active 1890s–1918) who, as Civil
+  and Military Governor of Atjeh en Onderhoorigheden from 1908 to 1918, restored conciliatory
+  governance after the Van Daalen years, presided over the 1913–1914 Sumatra administrative
+  reform, and finally handed a peaceful Aceh over to a civilian governor in 1918 —
+  closing the forty-five-year Aceh War.
 ---
 
 **H. N. A. Swart** — *Hendrik Nikolaas Albert Swart* — known in the Acehnese idiom of the old hunter [[Datoek]] as *Toean Gouverneur Swart* — was a Dutch **lieutenant-general of the infantry** (*Luitenant-Generaal der Infanterie*) of the [[Royal Netherlands East Indies Army|K.N.I.L.]] and colonial administrator who, as **Civil and Military Governor of [[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]]** from [[1908]] to [[1918]], restored conciliatory governance after the harsh policies of his predecessor [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] had provoked the [[Atjéh-enquête|1907–1908 inquiry]] and a fierce flare-up of armed resistance, and who finally handed a peaceful Aceh over to a civilian Governor in [[1918]] — thereby ending what G. W. T. Dames calls "the lingering disease: the [[Atjeh-oorlog|Atjeh War]]" ("the lingering disease: the Aceh War"). He was the final military governor of [[Atjeh|Aceh]], the *Aceh-connoisseur* whose ten-year administration — "order and peace were consolidated in that province" — was the phase that "brought the [[Aceh War]] to an end," and who throughout his career "altijd en overal het meest voelde voor breken van het verzet zonder bloedvergieten" — "always and everywhere most preferred to break resistance without bloodshed". [[J. Kreemer|J. Kreemer]]'s *Atjèh* ([[1923]]) catalogues the administrative reforms of his governorship — the restoration of the *Hasil-reglement*, the reform of *wasé oelèëbalang*, the removal of *bestuursbemoeienis* from private-law pepper contracts, and the rapid expansion of *volksonderwijs* — in detail. In the received memory of the late-colonial Dutch community of the Indies, Swart came to be known as the *Pacificator van Atjeh* ("Pacifier of Atjeh") — a title fixed by the elegy of F. Kunst that laments the post-war destruction of his life's work.
@@ -360,6 +405,10 @@ His long administration formed an excellent school of government for his officer
 
 The simple title *Bapa* — father — became, in du Croo's judgement, the highest distinction Swart ever won among all his high and very high decorations: "Bapa Swart was one of those very few." The biography closes by comparing the Acehnese memory of him with the royal salute *Bayete!* which the Matabele brought unbidden to [[Cecil Rhodes]] in the Matoppo Hills.
 
+
+## Sources
+*Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, p. 2.
+
 ## See Also
 
 - [[Gouvernement Atjeh en Onderhoorigheden]]
@@ -452,6 +501,19 @@ The simple title *Bapa* — father — became, in du Croo's judgement, the highe
 - [[Swart's farewell address (2 September 1918)]]
 - [[Raad van Nederlandsch-Indië]]
 - [[Militaire Willemsorde]]
+- [[Drie Atjeh-mannen (1936)]]
+- [[H. T. Damsté]]
+- [[C. Snouck Hurgronje]]
+- [[Christoffel]]
+- [[Colijn]]
+- [[Van Loenen]]
+- [[Van der Maaten]]
+- [[Van der Wedden]]
+- [[Corps Maréchaussée (Atjeh)]]
+- [[K.N.I.L.]]
+- [[Atjeh-oorlog]]
+- [[1898]]
+- [[1904]]
 
 ## Source
 

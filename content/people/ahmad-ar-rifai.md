@@ -1,9 +1,31 @@
 ---
 title: Ahmad ar-Rifāʿī
-aliases: ["Ahmad Rifa'i", "Ahmad al-Rifa'i", "Ahmad Rifai", "Sheikh Ahmad Rifa'i", "Shaikh Ahmad ar-Rifa'i", "Aḥmad ar-Rifāʿī", "founder of the Rifāʿiyya"]
-
-tags: [person, scholar, religious-figure, sufi, saint, founder-of-order, rifa'i, medieval, iraq, gujarat, mocha, acheh, rapa'i, tasawwuf]
-description: "Twelfth-century Islamic mystic, founder of the Rifāʿiyya Sufi order; eponym of the Achehnese Rapa'i performances and the spiritual ancestor of Nūruddīn ar-Rānīrī."
+aliases:
+- Ahmad Rifa'i
+- Ahmad al-Rifa'i
+- Ahmad Rifai
+- Sheikh Ahmad Rifa'i
+- Shaikh Ahmad ar-Rifa'i
+- Aḥmad ar-Rifāʿī
+- founder of the Rifāʿiyya
+tags:
+- person
+- scholar
+- religious-figure
+- sufi
+- saint
+- founder-of-order
+- rifa'i
+- medieval
+- iraq
+- gujarat
+- mocha
+- acheh
+- rapa'i
+- tasawwuf
+description: Twelfth-century Islamic mystic, founder of the Rifāʿiyya Sufi order;
+  eponym of the Achehnese Rapa'i performances and the spiritual ancestor of Nūruddīn
+  ar-Rānīrī.
 ---
 
 **Aḥmad ar-Rifāʿī** (d. [[1182]] CE) was the great mystic saint and founder of the [[Rifa'iyah order|Rifāʿiyya]] Sufi order — one of the principal *ṭuruq* (mystic orders) of orthodox Sunni mysticism — a younger contemporary of [[Abdul-Qadir Jilani|ʿAbdul-Qādir Jīlānī]]. His tomb at [[Mocha]] — the coffee port of [[Yemen]] on the Red Sea — is reverenced, and his order was the *silsila* (spiritual genealogy) into which [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] was initiated by his *shaikh* [[Sajjid Abu Hafs Umar Ba Sjaiban|Sayyid ʿUmar Bā Shaybān]]. The Rifāʿiyya was the spiritual genealogy by which Raniri, on his arrival in [[Acheh]] in [[1637]], claimed the authority of an orthodox mystic against the [[Wujudiyyah]] of [[Hamzah Pansuri]] and [[Shaikh Shamsuddin of Sumatra|Shamsuddin of Pasai]]. In Acheh itself, Ahmad Rifaʿī is reverenced as the eponym of the [[Rapa'i]] religious performances, in which his name is "of course always invoked."

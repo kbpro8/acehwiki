@@ -1,8 +1,47 @@
 ---
-title: "Gotfried Coenraad Ernst van Daalen"
-aliases: ["G. C. E. van Daalen", "Van Daalen", "lieutenant-colonel Van Daalen", "the Van Daalen of the Gajo-Alas expedition", "Overste Van Daalen", "Gouverneur Van Daalen", "legercommandant Van Daalen"]
-tags: [person, officer, dutch, knil, marechaussee, aceh, governor, colonial, military, 19th-century, 20th-century, acheh, general, aceh-war, gayo]
-description: "Dutch colonial officer, Marechaussee commander, and Governor of Aceh (1905–1908) whose Gayo-Alas campaign of 1904 completed the military pacification of Aceh but whose harsh civil governorship provoked the Atjéh-enquête."
+title: Gotfried Coenraad Ernst van Daalen
+aliases:
+- G. C. E. van Daalen
+- Van Daalen
+- lieutenant-colonel Van Daalen
+- the Van Daalen of the Gajo-Alas expedition
+- Overste Van Daalen
+- Gouverneur Van Daalen
+- legercommandant Van Daalen
+- G.C.E. van Daalen
+- Godfried Coenraad Ernst van Daalen
+- kapitein Van Daalen
+- generaal Van Daalen
+- Obos Panalan
+- Panalan
+- G. C. H. v. Daalen
+- E. C. van Daalen
+- Kolonel van Daalen
+- Captain Van Daalen
+- E.C. van Daalen
+tags:
+- person
+- officer
+- dutch
+- knil
+- marechaussee
+- aceh
+- governor
+- colonial
+- military
+- 19th-century
+- 20th-century
+- acheh
+- general
+- aceh-war
+- gayo
+- gajoetocht
+- gayoland
+- commander
+- colonel
+description: Dutch colonial officer, Marechaussee commander, and Governor of Aceh
+  (1905–1908) whose Gayo-Alas campaign of 1904 completed the military pacification
+  of Aceh but whose harsh civil governorship provoked the Atjéh-enquête.
 ---
 
 **Gotfried Coenraad Ernst van Daalen** was a Dutch colonial officer and one of the most capable column commanders of the [[Aceh War]], whose brilliant [[1904]] campaign against the [[Gajoland|Gayo]] and [[Alaslanden|Alas]] highlands — known to the Acehnese as the [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)|Van Daalen Column]] — made him, in the eyes of [[Joannes Benedictus van Heutsz|Van Heutsz]], the obvious successor to the Aceh governorship. As Civil and Military Governor of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] from [[1905]] to [[1908]], however, he abandoned the conciliatory policy that had defined Van Heutsz's pacification system in favour of punishment and coercion — a deviation that provoked a fierce flare-up of resistance, a formal inquiry, a public rift with his patron, and his eventual removal from office. In Acehnese memory he was remembered as *Toean Obers Van Daalen* — *Toean Obers* being the Acehnese idiom for "the colonel" — and as "a man whose life had no price," a judgement recorded by the old hunter [[Datoek]] in Merac's *[[Oost-Indisch Journael]]* ([[1947]]).
@@ -147,6 +186,16 @@ Van Daalen later became army commander, and in that capacity issued a decree tha
 
 Van Daalen is the negative pole of du Croo's book. His appointment placed "the undeniably great figure of Van Daalen … in a place where he ought never to have been put," so that Atjeh underwent a very damaging setback and his successor was placed before "an almost impossibly heavy task of restoration and rebuilding." His military reputation as the conqueror of the Gajò and Alas lands remained, in du Croo's judgement, undiminished; it was as a pacifying administrator that he failed.
 
+
+## Sources
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 79, 149, 176, 184, 322.
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 10-21.
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 12-25.
+---
+**E. C. van Daalen** was a colonel of the Indies army who served as second-in-command of the [[First Aceh Expedition (1873)|first Aceh expedition]] under [[J. H. R. Köhler|General Köhler]] in [[April 1873]], and who, on the morning of [[14 April]] [[1873]] after the general's death at the [[Missigit|missigit]] outside the [[Kraton of Aceh|Kraton]], took over the supreme command and presided over the council of war of [[18 April]] that decided on withdrawal. He is also notable for his repeated personal acts of bravery in the stormings of late [[January 1874]], in the course of which he forced his horse through the bamboe-doern mass, planted the oranje-vaandel at the foot of the enemy's parapet, and brought up reinforcements that carried the line. The source work distinguishes him from a Captain Van Daalen — likely a kinsman — who took a conspicuous part in the same actions.
+
 ## See Also
 
 - [[1905]]
@@ -213,6 +262,66 @@ Van Daalen is the negative pole of du Croo's book. His appointment placed "the u
 - [[Alaslanden]]
 - [[Keureutòë]]
 - [[J. W. Naarding]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz]]
+- [[H.N.A. Swart|Swart]]
+- [[Schmidt]]
+- [[Heynen]]
+- [[Anakotta]]
+- [[Waki Wahab]]
+- [[T. Tjhi Toenong]]
+- [[Execution of T. Tjhi Toenong (1905)]]
+- [[Fall of Aneukgalong (1896)]]
+- [[Gajoetocht (1904)]]
+- [[Lhong punitive expedition (1897)]]
+- [[Kempees]]
+- [[Rantej boei]]
+- [[Tengkoe Tjot Plieëng]]
+- [[Tengkoe Koetakarang]]
+- [[Blang Kedjeren]]
+- [[Gajoeland]]
+- [[Tangsé]]
+- [[Pidië]]
+- [[Three-day Dutch offensive of 23–25 May 1896]]
+- [[Battle of Kroeng-Kali (23 June 1896)]]
+- [[Diversie to Montassik / Battle of Senelop (2 May 1896)]]
+- [[Tuchtiging der V Moekims Montassik (16–17 June 1896)]]
+- [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)]]
+- [[H. C. Kronouer]]
+- [[Jhr. G. J. W. C. H. Graafland]]
+- [[J. R. Jacobs]]
+- [[J. W. van den Broek]]
+- [[G. F. Sterss]]
+- [[P. Linck]]
+- [[Heyligers]]
+- [[Wagener]]
+- [[Vis]]
+- [[Simin, No. 8502]]
+- [[Wongsodikromo, No. 33780]]
+- [[Todikromo, No. 28097]]
+- [[Tengkoe Mat Amin di Tiro]]
+- [[Senelop]]
+- [[Tjot Tjako]]
+- [[Kroeng-Kali]]
+- [[Ladoeng]]
+- [[Lam-Njong]]
+- [[Groot-Atjeh]]
+- [[VI Moekims]]
+- [[1896]]
+- [[1897]]
+- [[1913]]
+- [[J. H. R. Köhler]]
+- [[G. G. Booms]]
+- [[F. V. A. de Stuers]]
+- [[First Aceh Expedition]]
+- [[Commission of Inquiry into the First Aceh Expedition]]
+- [[F. N. Nieuwenhuysen]]
+- [[G. M. Verspyck]]
+- [[E. C. O. von Bredow]]
+- [[First Aceh Expedition (1873)]]
+- [[Second Aceh Expedition (1873-1874)]]
+- [[Battle of the Missigit (10 April 1873)]]
+- [[Capture of the Kraton (24 January 1874)]]
+- [[Taman (Kota Goenoengan)]]
 
 ## Source
 

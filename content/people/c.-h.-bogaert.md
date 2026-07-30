@@ -1,7 +1,26 @@
 ---
-title: "C. H. Bogaert"
-aliases: ["C. H. Bogaert", "Lieutenant Bogaert", "Luitenant Bogaert", "Bogaert", "C. H. Bogaerts", "Stationscommandant Bogaert"]
-tags: [person, military, dutch, colonial, marine-officer, aceh-war, 19th-century, east-coast, administrator]
+title: C. H. Bogaert
+aliases:
+- Lieutenant Bogaert
+- Luitenant Bogaert
+- Bogaert
+- C. H. Bogaerts
+- Stationscommandant Bogaert
+- Lieutenant-at-sea 1st class Bogaert
+- C.H. Bogaert
+- Bogaert of the Timor
+tags:
+- person
+- military
+- dutch
+- colonial
+- marine-officer
+- aceh-war
+- 19th-century
+- east-coast
+- administrator
+- naval-officer
+- navy
 ---
 
 **C. H. Bogaert** — a Dutch naval officer, *zeeofficier* — served as *stationscommandant voor de Oostkust* (station commander for the East Coast) of [[Atjeh|Atjeh]] from [[June 1873|June]] [[1873]] onwards, and again as commander of the [[Blokkade (Atjeh, 1884-1885)|blockade of Atjeh]] of [[1884]]–[[1885]]. His administration of the [[Oostkust|East Coast]] from his ship, from [[June 1873|June]] [[1873]] until the transfer of civil administration in [[June 1875|June]] [[1875]], was the model of effective Dutch coastal control in Atjeh, and his name, Kruijt records, "leeft nog onder de Atjehers voort" (still lives on among the Atjehers).
@@ -27,6 +46,14 @@ Bogaert returned to Atjeh a decade later to take command of the [[Blokkade (Atje
 ## Significance
 
 Bogaert's administration of the [[Oostkust|East Coast]] from [[June 1873|June]] [[1873]] to [[June 1875|June]] [[1875]] was the model of the [[Scheepvaartregeling|scheepvaartregeling]] avant la lettre — the maritime trade regulation that would only be officially instituted in [[1883]] and applied throughout Atjeh in [[1893]]–[[1894]]. His combination of military blockade, political contact with the chiefs, commercial regulation, and administrative initiative from on board his ship, demonstrated what could be achieved on the coasts with adequate dedication; and the contrast with the [[Noordkust|North]] and [[Westkust|West Coasts]], where no such dedication was shown, demonstrated what was lost by its absence. His later disappointment with the [[Blokkade (Atjeh, 1884-1885)|blockade of 1884]]–[[1885]] is one of the recurrent instances in Kruijt's brochure of Dutch policy undermined by exceptions and inconsistencies.
+
+
+## Sources
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, p. 29.
+---
+
+
+**C. H. Bogaert** was a lieutenant-at-sea 1st class of the Dutch navy, commandant of the ship *Timor*, who was the principal agent in the submission of the east coast of [[Acheh|Atjeh]] to Dutch authority in [[1873]]-[[1875]]. "Bogaert was on his ship master of the coast, he had on shore and aboard continual contact with the chiefs, he did not only blockade, he regulated and governed on his own initiative; he was everywhere honoured and feared, and his name still lives on among the Atjehers."
 
 ## See Also
 
@@ -57,6 +84,9 @@ Bogaert's administration of the [[Oostkust|East Coast]] from [[June 1873|June]] 
 - [[1875]]
 - [[1884]]
 - [[1885]]
+- [[Edi-Tjoet]]
+- [[Langsar]]
+- [[Second Aceh Expedition (1873-1874)]]
 
 ## Source
 

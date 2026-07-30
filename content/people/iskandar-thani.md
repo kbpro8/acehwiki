@@ -1,7 +1,33 @@
 ---
 title: Iskandar Thani
-aliases: [Sultan Iskandar Thani, Iskandar Thani of Acheh, Sultan Iskandar Thanï, Sultan of Aceh c. 1636-1641]
-tags: [person, ruler, sultan, sultanate, achehnese, religious, 17th-century]
+aliases:
+- Sultan Iskandar Thani
+- Iskandar Thani of Acheh
+- Sultan Iskandar Thanï
+- Sultan of Aceh c. 1636-1641
+- Iskander Tsani
+- Iskandar Tsani
+- Iskandar Thaib
+- Sultan of Atjeh (d. 1641)
+- Pahang prince
+- Sultan Iskandar II
+- Iskandar II
+- Iskandar Thani of Atjeh
+- Sultan Iskandar II of Atjeh
+tags:
+- person
+- ruler
+- sultan
+- sultanate
+- achehnese
+- religious
+- 17th-century
+- atjehnese
+- precolonial
+- atjeh
+- acehnese
+- islamic
+- source
 ---
 
 **Iskandar Thani** — in Kreemer's spelling **Sultan Iskandar Thanï** — was King of [[Acheh|Atjèh]] from [[1636]]/[[1637]], succeeding [[Sultan Iskandar Muda|Meukuta Alam]] (Iskandar Muda) on the latter's death in [[1636]]. With his widow and successor [[Sultan Tajul-alam|Tadj al-alam Safijatoeddin]], he favoured the orthodox scholar [[Nur al-Din al-Raniri|Noer-ad-dïn ar-Ranïrï]]; he condemned the heterodox mystics to death and had their works burned before the great mosque **Beit ar-rahman**. His reign represented both the end of the political greatness of the Sultanate — which had reached its zenith under Iskandar Muda — and the beginning of a religious reformation which sought to bring the practice of Acheh into conformity with the strict letter of the Shafi'ite law. The same reign that saw the death of Meukuta Alam's political inheritance saw also the burning of the books of the Pansouri school.
@@ -60,9 +86,27 @@ Upon Iskandar Thanï's death in [[1641]], he was succeeded by his widow **Tadjoe
 - [[1637]]
 - [[1638]]
 - [[1641]]
+- [[Iskander Muda]]
+- [[Sultana of Atjeh (1641)]]
+- [[Pieter Soury]]
+- [[Pieter Soury's mission to Atjeh (1641)]]
+- [[Atjehsche ambassade ceremony (1 July 1641)]]
+- [[Justus Schouten]]
+- [[Jan van Riebeeck]]
+- [[Atjehsche mode]]
+- [[Tayl]]
+- [[Pahang]]
+- [[Nur al-Din al-Raniri]]
+- [[Sirat al-Mustaqim|Sirat al-mustaqim]]
+- [[Bustan al-Salatin|Bustanu's-Salatin]]
+- [[Sultan Iskandar Muda]]
+- [[Over Maleise Literatuur (1947)]]
 
 ## Sources
 
 *The Achehnese*, Vol. I and Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+*Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapters XI–XII ("Atjehsche ambassade. Inlandsche feesten. Maagden als losprijs"; "Juweelenhandel. Heeren Zeventien. Familieregeering"), pp. 39–47 of the numbered-letter sequence.
+*Over Maleise Literatuur*, by Dr. C. Hooykaas, Hoogleraarte Batavia; Tweede Druk (Leiden: E. J. Brill, 1947), chapter 19 ("Twee Moslimse exemplo-boeken als vorstenspiegel"), p. 173.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

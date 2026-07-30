@@ -1,8 +1,33 @@
 ---
 title: Ignác Goldziher
-aliases: [Ignác Goldziher, Ignaz Goldziher, Dr. Ign. Goldziher, Dr. Ignaz Goldziher, H. Goldziher, Heinrich Goldziher, Goldziher]
-tags: [person, scholar, orientalist, hungarian, islamic-studies, western-scholar, 19th-century, 20th-century]
-description: "Hungarian orientalist (1850–1921) whose writings on Islamic law, tradition, saint-worship, and Arabic poetry are cited throughout Snouck Hurgronje's The Achehnese as among the standard European authorities on the gap between the theory and practice of Mohammedan law and on Achehnese devotional literature."
+aliases:
+- Ignaz Goldziher
+- Dr. Ign. Goldziher
+- Dr. Ignaz Goldziher
+- H. Goldziher
+- Heinrich Goldziher
+- Goldziher
+- Dr. Goldziher
+- Goldziher Budapest
+- Schöpfer der historischen Betrachtung des Figh
+tags:
+- person
+- scholar
+- orientalist
+- hungarian
+- islamic-studies
+- western-scholar
+- 19th-century
+- 20th-century
+- islamologist
+- snouck-hurgronje
+- budapest
+- figh
+- islamology
+description: Hungarian orientalist (1850–1921) whose writings on Islamic law, tradition,
+  saint-worship, and Arabic poetry are cited throughout Snouck Hurgronje's The Achehnese
+  as among the standard European authorities on the gap between the theory and practice
+  of Mohammedan law and on Achehnese devotional literature.
 ---
 
 **Ignác Goldziher** (German form **Ignaz Goldziher**, often cited as **Dr. Ign. Goldziher**; [[1850]]–[[1921]]) was a Hungarian orientalist — the founding figure of modern European [[Islamic studies|Islamic studies]] — whose writings on Islamic law, tradition, saint-worship, and Arabic poetry are cited by [[C. Snouck Hurgronje|Snouck Hurgronje]] throughout *The Achehnese* as among the standard European authorities on the gap between the theory and practice of Mohammedan law, on the Zahirite school of jurisprudence, and on the devotional literature of which the Malay translations of the [[Burda (poem)|Burda]] poem by [[Al-Busiri|Al-Busiri]] formed part. His treatise *Mohammedanisches Recht in Theorie und Wirklichkeit* ("Mohammedan Law in Theory and in Reality"), published in the *Zeitschrift für vergleichende Rechtswissenschaft* (vol. VIII), is invoked by Snouck Hurgronje alongside his own essays on the same theme; his essay on Moslem saint-worship in the *Muhammedanische Studien* (Halle [[1890]]) is described by Snouck Hurgronje as "the best sketch of the Moslim saint-worship in general" and is used to open his own discussion of Achehnese saint-worship.
@@ -39,6 +64,10 @@ The passage illustrates Goldziher's analysis of the motif of the necklace as a s
 
 Although Goldziher's primary focus was the Arab world, his methodological tools have been applied to the study of Malay and Achehnese Islamic literature. Scholars interpreting poetic imagery in the Malay translations of the *Burda* — such as those preserved in the seventeenth-century manuscript examined in the source — drew on Goldziher's insights. His work thus indirectly shaped the literary culture of the [[Sultanate of Acheh|Sultanate of Acheh]] in the [[19th century|19th century]], where the *Burda* became part of the religious and poetic repertoire of the Achehnese elite.
 
+
+## Sources
+*Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, p. 3.
+
 ## See Also
 
 - [[C. Snouck Hurgronje]]
@@ -59,6 +88,12 @@ Although Goldziher's primary focus was the Arab world, his methodological tools 
 - [[1884]]
 - [[1886]]
 - [[1890]]
+- [[Batavia]]
+- [[Budapest]]
+- [[Aceh War]]
+- [[Atjeh-oorlog]]
+- [[1882]]
+- [[1885]]
 
 ## Source
 

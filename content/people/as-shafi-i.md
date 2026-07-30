@@ -1,9 +1,12 @@
 ---
-
-title: "as-Shafi'i"
-aliases: ["Imam as-Shafi'i", "our imam (as-Shafi'i)"]
-
-tags: [person, religious-figure, scholar]
+title: as-Shafi'i
+aliases:
+- Imam as-Shafi'i
+- our imam (as-Shafi'i)
+tags:
+- person
+- religious-figure
+- scholar
 ---
 
 **Imam as-Shafi'i** (Muhammad ibn Idrīs ash-Shāfiʿī, [[767]]–[[820]] CE) was the founder of the Shafi'ite school of Mohammedan law, the ritual (*madhhab*) followed by the Achehnese and by the Malays of the Archipelago more generally. He is referred to reverently by Achehnese kalis as "our imam (as-Shafi'i)", in contradistinction to the imam [[Abu Hanifah]] whose school is followed in many other Mohammedan lands.

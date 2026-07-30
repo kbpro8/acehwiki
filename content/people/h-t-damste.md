@@ -1,8 +1,44 @@
 ---
 title: H. T. Damsté
-aliases: [H. T. Damsté, Mr. H. T. Damsté, Damsté, Hendrik Thijs Damsté, H. T. Damste, Hermanus Theodorus Damsté, Damste Atjeh, Damste Simpang Olim]
-tags: [person, dutch, colonial, scholar, administrator, atjeh, aceh-scholarship, atjehnese-language, piekaar-canon, bki, koninklijk-instituut, seven-sleepers, raniri, "20th-century", author, official, simpang-olim, koloniaal-tijdschrift, acheh]
-description: "Dutch colonial scholar and administrator who served as one of the principal authorities on Atjèh cited in Piekaar's Atjèh and the War with Japan, a member of the Board of the Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië by 1940, the editor of the 1939 Hikajat Eitia Toedjoh (the Atjehsch Seven Sleepers legend), and the summariser of Teungku Harõn's Achehnese adaptation of Raniri's Tibjān."
+aliases:
+- Mr. H. T. Damsté
+- Damsté
+- Hendrik Thijs Damsté
+- H. T. Damste
+- Hermanus Theodorus Damsté
+- Damste Atjeh
+- Damste Simpang Olim
+- H. Th. Damsté
+- Damsté (colonial official)
+tags:
+- person
+- dutch
+- colonial
+- scholar
+- administrator
+- atjeh
+- aceh-scholarship
+- atjehnese-language
+- piekaar-canon
+- bki
+- koninklijk-instituut
+- seven-sleepers
+- raniri
+- 20th-century
+- author
+- official
+- simpang-olim
+- koloniaal-tijdschrift
+- acheh
+- aceh-war
+- source
+- biographer
+description: Dutch colonial scholar and administrator who served as one of the principal
+  authorities on Atjèh cited in Piekaar's Atjèh and the War with Japan, a member of
+  the Board of the Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië
+  by 1940, the editor of the 1939 Hikajat Eitia Toedjoh (the Atjehsch Seven Sleepers
+  legend), and the summariser of Teungku Harõn's Achehnese adaptation of Raniri's
+  Tibjān.
 ---
 **H. T. Damsté** — Hendrik Thijs Damsté, also addressed as **Mr. H. T. Damsté** — was a Dutch colonial administrator and scholar of Achehnese who served as one of the principal authorities on [[Atjeh|Atjèh]] cited by [[Dr. A. J. Piekaar|Piekaar]] in the *Bibliography* of *Atjèh and the War with Japan* alongside [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]], [[J. Kreemer|Kreemer]], [[J. J. Jongejans|Jongejans]], and Zentgraaff, and who served as Piekaar's principal collaborator in the preparation of the work, "constantly supported me with advice and assistance and was kind enough to read through the manuscript and provide it with notes." He was, by [[1940]], a member of the Board (*Bestuur*) of the [[Koninklijke Vereeniging Koloniaal Instituut|Koninklijke Vereeniging Koloniaal Instituut]] — the central metropolitan institution of Dutch Indies scholarship — and the editor, in [[1939]], of the standard Atjehnese version of the Seven Sleepers legend. He is further the principal European channel through which the Achehnese reading of the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] was made accessible to scholarship, by way of his summary of [[Teungku Haron|Teungku Harõn]]'s Acehnese adaptation of that work.
 
@@ -83,6 +119,18 @@ Damste's article is one of a series of short colonial-period studies of individu
 - [[Teungku Haron]]
 - [[Tibjan fi ma'rifat al-adyan]]
 - [[Verkenningen in Atjeh (1923)]]
+- [[Drie Atjeh-mannen (1936)]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Gotfried Coenraad Ernst van Daalen]]
+- [[Van der Maaten]]
+- [[Koloniaal Tijdschrift]]
+- [[Aceh War]]
+- [[Atjeh-oorlog]]
+- [[26 June]]
+- [[September 1936]]
+- [[1916]]
+- [[1936]]
+- [[1898]]
 
 ## Sources
 
@@ -93,3 +141,4 @@ Damste's article is one of a series of short colonial-period studies of individu
 *Twee Maleise geschriften van Nūruddīn ar-Rānīrī: in facsimile uitgegeven met aantekeningen door P. Voorhoeve*. Uitgaven van de Stichting De Goeje, No. 16. Leiden: E. J. Brill, 1955. Inleiding §2d ("Apparatus criticus"), p. 25, where Damsté's summary is discussed.
 
 *'Een stukje Atjeh-geschiedenis',* by H. T. Damste, in *Koloniaal Tijdschrift* (1918). Cited in *[[Verkenningen in Atjeh (1923)|Verkenningen in Atjeh]]* by Dr. R. Broersma, p. 50.
+*Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, pp. 1, 28.

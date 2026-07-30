@@ -1,7 +1,29 @@
 ---
-title: "Generaal Wiggers van Kerchem"
-aliases: ["Wiggers van Kerchem", "generaal Wiggers", "Generaal-Majoor Wiggers van Kerchem", "de Generaal Wiggers van Kerchem", "kolonel Wiggers van Kerchem", "tijdelijk bevelhebber Wiggers"]
-tags: [person, dutch, colonial, military, general, bevelhebber, aceh-war, atjeh, governor, 19th-century, 1875, 1876]
+title: Generaal Wiggers van Kerchem
+aliases:
+- Wiggers van Kerchem
+- generaal Wiggers
+- Generaal-Majoor Wiggers van Kerchem
+- de Generaal Wiggers van Kerchem
+- kolonel Wiggers van Kerchem
+- tijdelijk bevelhebber Wiggers
+- G. B. T. Wiggers van Kerchem
+- General Wiggers van Kerchem
+- Van Kerchem
+tags:
+- person
+- dutch
+- colonial
+- military
+- general
+- bevelhebber
+- aceh-war
+- atjeh
+- governor
+- 19th-century
+- 1875
+- 1876
+- acting-governor
 ---
 
 **Generaal Wiggers van Kerchem** was a Dutch *kolonel* (later *generaal*) of the [[Indische Leger|Indische leger]] who served as *tijdelijk bevelhebber* of the Dutch forces in Atjeh during [[Generaal Pel|generaal Pel]]'s absence at [[Buitenzorg|Buitenzorg]] from July to November [[1875]], and again *definitief* from [[10 March]] [[1876]] after Pel's sudden death at [[Lamjoeng]]. He was, in [[G. F. W. Borel|Borel]]'s account, the man who let [[Generaal Pel|Pel]]'s *aanvallende* achievements lapse back into the *afwachtende houding* — the second coming of [[Jan van Swieten|van Swieten]]'s passive system.
@@ -50,6 +72,13 @@ The motive van Lansberge avowed was the lifting of the *dure blokkade* — the c
 
 Wiggers van Kerchem's brief governorship is, in Van Heutsz's narrative, the strategic interlude between the Pel plan and its completion under Diemont — and the moment at which the *Regeering* first committed itself to the armed coercion of the coastal statelets that would absorb the next four years of Dutch operations. The catalogue of Governors that Van Heutsz assembles places Wiggers van Kerchem third, between the author of the *Pel Plan* and the general who carried out the coercion Wiggers van Kerchem had refused to undertake. His proxy strategy in the [[Simpang Olim]]–[[Kerti]] war — the arming of [[Tekoe Moeda Augkasa]] of [[Merbou]] with 150 rifles and 3000 dollars — is the earliest recorded Dutch subsidy of an Acehnese chief against his rivals in the *Onderhoorigheden*, the precedent for the later, often-criticised pattern of Dutch proxy politics on the east coast.
 
+
+## Sources
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 75-79.
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. pp. 303, 306–308, 311, 320–322, 332.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter V, "Periode onder de generaals Wiggers van Kerchem en Diemont, van Maart 1876 tot Juni 1877." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 20, 22–23.
+
 ## See Also
 
 - [[Generaal Pel]]
@@ -82,6 +111,24 @@ Wiggers van Kerchem's brief governorship is, in Van Heutsz's narrative, the stra
 - [[Blokkade]]
 - [[1875]]
 - [[1876]]
+- [[J. L. J. H. Pel]]
+- [[A. J. E. Diemont]]
+- [[K. van der Heyden]]
+- [[Habib Abdoerrahman]]
+- [[Toekoe Moeda Angkasa]]
+- [[Aceh War]]
+- [[Zuidoosterlinie]]
+- [[Diemont]]
+- [[Pel's Plan]]
+- [[Postenlinie]]
+- [[Kota Radja]]
+- [[Atjeh en Onderhoorigheden]]
+- [[K.N.I.L.]]
+- [[Atjeh-oorlog]]
+- [[June 1875]]
+- [[November 1875]]
+- [[November 1876]]
+- [[March 1876]]
 
 ## Source
 

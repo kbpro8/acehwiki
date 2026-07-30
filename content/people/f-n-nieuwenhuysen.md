@@ -1,8 +1,34 @@
 ---
-
 title: F. N. Nieuwenhuysen
-aliases: [Nieuwenhuysen, Nieuwenhuizen, Vice-president Nieuwenhuysen, F.N. Nieuwenhuysen]
-tags: [person, commissioner, dutch, colonial, administrator, aceh-war]
+aliases:
+- Nieuwenhuysen
+- Nieuwenhuizen
+- Vice-president Nieuwenhuysen
+- F.N. Nieuwenhuysen
+- F. N. Nieuwenhuyzen
+- Nieuwenhuyzen
+- Vice-President Nieuwenhuyzen
+- Regeeringscommissaris Nieuwenhuyzen
+- T. N. Nieuwenhuyzen
+- Nieuwenhuizen (Vice-President van den Raad van Indië)
+- Vice-President Nieuwenhuizen
+- Nieuwenhuizen Raad van Indië
+- Nieuwenhuizen Atjeh 1873
+- Commissaris Nieuwenhuizen
+tags:
+- person
+- commissioner
+- dutch
+- colonial
+- administrator
+- aceh-war
+- colonial-administrator
+- 1873
+- atjeh-oorlog
+- diplomacy
+- official
+- atjeh
+- raad-van-indie
 ---
 
 **F. N. Nieuwenhuysen** — the source work also spells the name Nieuwenhuizen — was the vice-president of the [[Council of Netherlands India|Raad van Nederlandsch-Indië]] appointed by [[J. Loudon|Governor-General Loudon]] as government commissioner to the [[First Aceh Expedition (1873)|first Aceh expedition]] of [[April 1873]]. He arrived at the roadstead of Atjeh with the expedition on [[5 April]] [[1873]], conducted the final negotiations with the sultan by letter, issued the manifesto of war, and — after the death of [[J. H. R. Köhler|General Köhler]] on [[14 April]] — advised the Governor-General by telegram on [[14 April]] of the unexpected resistance and requested reinforcements. He played a key part in the council of war of [[18 April]] that decided on withdrawal.
@@ -23,6 +49,13 @@ After the death of General Köhler on [[14 April]] [[1873]] and the unexpected r
 
 The decision was left to the Indies government. On [[20 April]] the Governor-General convened an extraordinary meeting of the Raad of Nederlandsch-Indië with the commanders of land and sea forces and Major-general [[G. M. Verspyck|Verspyck]], who had been designated as Köhler's successor. Although Verspyck declared himself ready to depart for Atjeh at once, the vice-admiral's opinion that communication between roadstead and beach could not be maintained in the bad season prevailed. The Governor-General authorised the expeditionary force to return immediately, with the firm intention of resuming the campaign in the favourable season. The fleet left the roadstead of Atjeh on [[29 April]] [[1873]].
 
+
+## Sources
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, B ("Periode 1824—1873. Oorzaken van den Atjèh-oorlog"), blz. 13–14.
+
+Verslag van het verhandelde in de vergaderingen der Tweede Kamer in comité-général van 16, 17, 18 en 20 April 1874: Oorlog met Atjeh, gedrukt ter Algemene Landsdrukkerij van het Koloniaal Instituut (1881), pp. 9–15, 19–25.
+*Het Land van Jan Pieterszoon Coen*, door Dr. W. A. Terwogt (Hoorn: P. Geerts, [1891]). Hoofdstuk XIII: "De Vice-President van den Raad van Indië, Nieuwenhuizen, werd tot Commissaris benoemd en met vier oorlogsschepen naar Atjeh gezonden... Den 22sten Maart 1873 kwam Nieuwenhuizen ter reede van Atjeh... Hierop volgde de oorlogsverklaring op 26 Maart."
+
 ## See Also
 
 - [[J. Loudon]]
@@ -35,6 +68,28 @@ The decision was left to the Indies government. On [[20 April]] the Governor-Gen
 - [[Aceh War]]
 - [[Singapore]]
 - [[Penang]]
+- [[Acheh]]
+- [[Declaration of war on Atjèh (26 March 1873)]]
+- [[Declaration of war on Atjeh (1873)]]
+- [[First Atjeh expedition (March-April 1873)]]
+- [[Panglima Tibang Moehamad]]
+- [[Sumatra Treaty of 1871]]
+- [[Anglo-Dutch Treaty of 1824]]
+- [[Riouw]]
+- [[Loudon]]
+- [[I.D. Fransen van de Putte]]
+- [[Siak-tractaat (1858)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Gouvernements-commissaris]]
+- [[Schiff]]
+- [[1873]]
+- [[Het Land van Jan Pieterszoon Coen (Terwogt)]]
+- [[Dr. W. A. Terwogt]]
+- [[Eerste Atjeh-expeditie (1873)]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
+- [[22 March]]
+- [[26 March]]
+- [[28 March]]
 
 ## Source
 

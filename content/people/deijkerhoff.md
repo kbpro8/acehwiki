@@ -1,7 +1,34 @@
 ---
-title: "Deijkerhoff"
-aliases: ["Deijkerhoff", "Generaal Deijkerhoff", "General Deijkerhoff", "Kolonel Deijkerhoff", "Colonel Deijkerhoff", "Deijkerhoff (Atjeh governor)"]
-tags: [person, military, dutch, colonial, general, governor, aceh-war, 19th-century, commander]
+title: Deijkerhoff
+aliases:
+- Generaal Deijkerhoff
+- General Deijkerhoff
+- Kolonel Deijkerhoff
+- Colonel Deijkerhoff
+- Deijkerhoff (Atjeh governor)
+- C. Deykerhoff
+- C. Deiykerhoff
+- Generaal-Majoor C. Deykerhoff
+- Generaal Deykerhoff
+- Generaal-Majoor Deykerhoff
+- C. Deykerhoff (Civiel en Militair Gouverneur van Atjeh 1894-1895)
+- the predecessor of Vetter
+tags:
+- person
+- military
+- dutch
+- colonial
+- general
+- governor
+- aceh-war
+- 19th-century
+- commander
+- diplomacy
+- knil
+- 1896
+- kruisheer
+- colonial-official
+- deijkerhoff
 ---
 
 **Deijkerhoff** — *Kolonel* (later *Generaal*) *Deijkerhoff* — was a Dutch officer of the Royal Netherlands East Indies Army ([[K.N.I.L.|K.N.I.L.]]) who served as *Gouverneur van Atjeh en Onderhoorigheden* (Governor of Atjeh and Dependencies) from [[January 1892|January]] [[1892]] to his honourable discharge in [[March 1896|March]] [[1896]], and whose governorship — coinciding with the period of the arming of [[Teuku Umar|Teuku Umar]] as *[[Panglima Prang Besar|Panglima Prang Besar]]* and culminating in the catastrophic [[Defection of Teuku Umar (March 1896)|defection of Teuku Umar]] of [[March 1896|March]] [[1896]] — was characterised by what [[J. A. Kruijt|Kruijt]] calls the "*Pahlawan-klucht*" (the Pahlawan farce), the Dutch policy of using Atjehese auxiliaries against Atjehese enemies that ended in the Dutch themselves being ambushed by their own weapons.
@@ -53,6 +80,12 @@ Reinforcements had to be telegraphed for immediately to Java. These came at once
 ## Significance
 
 Deijkerhoff's governorship culminates in the [[Defection of Teuku Umar (March 1896)|defection of Teuku Umar]] of [[March 1896|March]] [[1896]] — the immediate occasion of Kruijt's brochure. The *Pahlawan-klucht*, the arming of an Atjehese auxiliary who used Dutch money, Dutch rifles, and Dutch cartridges to maintain his position and correspond with the Dutch's enemies, is the most striking instance in the war of the Dutch policy of "verdcel en heersch" (divide and rule) turned against the Dutch themselves. The *Java-bode*'s figure of "3 ton" (three tons = 300,000 guilders) paid to maintain the *status quo* during the Lombok affair of [[1894]] — when Deijkerhoff was able to guarantee the peace of Atjeh for four months without troop replenishment — is the measure of the cost of the Pahlawan-klucht before its collapse. Deijkerhoff's honourable discharge and the appointment of Vetter as government commissioner opened the final phase of the war, in which the Dutch would revert to the military vigour that [[Joannes Benedictus van Heutsz|Van Heutsz]] would carry to its conclusion after [[1898]].
+
+
+## Sources
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 25, 28, 38, 44, 48, 49, 58.
+*ATJEH '96. 1e Deel*, door A. Kruisheer, Kapitein der Infanterie O.I.L. (Weltevreden: N.V. Boekhandel Visser & Co, [[1913]]), p. 25: *Generaal Deijkerhoff moet die illusie gewekt hebben*; frontispiece portrait opposite p. 24.
+*ATJEH '96. Tweede Deel* (2c Deel), door A. Kruisheer (Weltevreden: N.V. Boekhandel Visser & Co, [[1913]]), *Bijlage XXII — Overzicht van onzer vroegere betrekkingen met Atjeh en van den huidigen toestand in dat gewest*, p. 157: *Wat gebeurde er verder … tijdens het bestuur van Generaal Deijkerhoff*.
 
 ## See Also
 
@@ -117,6 +150,16 @@ Deijkerhoff's governorship culminates in the [[Defection of Teuku Umar (March 18
 - [[1895]]
 - [[1896]]
 - [[1898]]
+- [[Civiel en Militair Gouverneur]]
+- [[J. A. Vetter]]
+- [[Defection of Teuku Umar (29 March 1896)]]
+- [[Arrival of Vetter and Dismissal of Deykerhoff (7 April 1896)]]
+- [[Controleur Gisolf]]
+- [[Ketjihik Oemar]]
+- [[ATJEH '96 (book by A. Kruisheer)]]
+- [[A. Kruisheer]]
+- [[Teukoe Oemar]]
+- [[Pacification of Aceh]]
 
 ## Source
 

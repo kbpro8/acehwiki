@@ -1,8 +1,19 @@
 ---
-
 title: G. M. Verspyck
-aliases: [Generaal Verspyck, Major-general Verspyck, G.M. Verspyck]
-tags: [person, general, dutch, military, aceh-war]
+aliases:
+- Generaal Verspyck
+- Major-general Verspyck
+- G.M. Verspyck
+- Colonel Verspyck
+- Kolonel Verspyck
+tags:
+- person
+- general
+- dutch
+- military
+- aceh-war
+- colonel
+- commander
 ---
 
 **G. M. Verspyck** was a major-general of the Indies army who served as second-in-command of the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] under [[Jan van Swieten|Lieutenant-general Van Swieten]], distinguished himself in the storming of Tiban on [[14 December]] [[1873]], led the column that executed the omtrekking of the [[Kraton of Aceh|Kraton]] on [[23 January]] [[1874]], and was designated by [[J. Loudon|Governor-General Loudon]] to succeed [[J. H. R. Köhler|General Köhler]] as supreme commander of the Indies army before the [[Second Aceh Expedition (1873-1874)|second expedition]] was decided upon. He had already been appointed as Köhler's successor on [[20 April]] [[1873]], the day the news of the failure of the first expedition reached Batavia.
@@ -27,6 +38,10 @@ The omtrekking of the Kraton was entrusted to a column under Lieutenant-colonel 
 
 From Kota Goenoengan, "between the brushwood, one saw a broken piece of wall with a watch-house behind it, largely stripped of its roof covering. From there Kota Goenoengan had been continually and sometimes rather heavily fired upon during the previous days. But about 9 in the morning this fire slackened and soon ceased entirely." Van Swieten suspected that the Kraton was not or only weakly occupied; he ordered a reconnaissance to enter the Kraton and to hoist the Dutch flag on the watch-house. When the reconnaissance had advanced for some time without seeing the enemy, the supreme commander himself came up with his staff and the other companies. "Soon the heart of the Kraton was reached, and a repeated hoerah of our men and the *Wilhelmus*, played by the band of the right half of the 14th bataljon, proclaimed that the Kraton was in our possession." Verspyck, hearing the hoerah and Wilhelmus, turned towards the Kraton and found [[Pakan Atjeh|Pakan Atjeh]] and the entrenchment of [[Panglima Polem|Panglima Polem]] wholly abandoned by the enemy; Van der Heijden was ordered to return.
 
+
+## Sources
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-16.
+
 ## See Also
 
 - [[Jan van Swieten|J. van Swieten]]
@@ -37,6 +52,9 @@ From Kota Goenoengan, "between the brushwood, one saw a broken piece of wall wit
 - [[Capture of the Kraton (24 January 1874)]]
 - [[Panglima Polem|Panglima Polim]]
 - [[Aceh War]]
+- [[J. van Swieten]]
+- [[Second Aceh Expedition]]
+- [[Royal Netherlands East Indies Army]]
 
 ## Source
 

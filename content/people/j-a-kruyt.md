@@ -1,8 +1,50 @@
 ---
 title: J. A. Kruyt
-aliases: [J.A. Kruyt, J. A. Kruyt, J.A. Kruijt, J. A. Kruijt, J. A. Kniijt, Johannes Augustinus Kruyt, Kruyt Timor, Kruyt blockade, Kruyt Atjeh en de Atjehers]
-tags: [person, scholar, colonial-official, dutch, author, naval, colonial, blockade, timor, east-coast, acheh, kruyt]
-description: "Dutch author of *Atjeh en de Atjehers*, cited as a standard source by Snouck Hurgronje in Vol. I of *The Achehnese*."
+aliases:
+- J.A. Kruyt
+- J.A. Kruijt
+- J. A. Kruijt
+- J. A. Kniijt
+- Johannes Augustinus Kruyt
+- Kruyt Timor
+- Kruyt blockade
+- Kruyt Atjeh en de Atjehers
+- Johannes Antonius Kruijt
+- Kruijt
+- De Schrijver (De Atjeh-Oorlog)
+- Oud Controleur-Generaal Kruijt
+- J. A. Kruit
+- J. A. Kruijt (consul)
+- Kruijt (Djidda consul)
+- Consul Kruijt
+- Kruijt Djidda
+- Netherlands consul at Djidda Kruijt
+tags:
+- person
+- scholar
+- colonial-official
+- dutch
+- author
+- naval
+- colonial
+- blockade
+- timor
+- east-coast
+- acheh
+- kruyt
+- historian
+- aceh-war
+- 19th-century
+- source
+- kruijt
+- diplomat
+- consul
+- djidda
+- snouck-hurgronje
+- mekka
+- consul-at-djidda
+description: Dutch author of *Atjeh en de Atjehers*, cited as a standard source by
+  Snouck Hurgronje in Vol. I of *The Achehnese*.
 ---
 **J. A. Kruyt** — also rendered **J. A. Kruijt**, with the OCR-garbled form **J. A. Kniijt** also occurring in the text — was a Dutch author whose work *Atjeh en de Atjehers* ("Aceh and the Acehnese") is cited repeatedly by [[C. Snouck Hurgronje|Snouck Hurgronje]] in Vol. I of *The Achehnese* as one of the standard sources on the country and people of [[Aceh]]. His name appears in the footnotes of the Introduction as one of the small body of Dutch writers whose observations on Acehnese life and history had been published before Snouck Hurgronje's own investigations.
 
@@ -89,9 +131,46 @@ Kruyt's *Atjeh en de Atjehers* is the indispensable starting-point for any histo
 - [[Teukoe Tjhi Perlak]]
 - [[Teungkoe habib Moehamat bin Sajet Oesoeih]]
 - [[Verkenningen in Atjeh (1923)]]
+- [[De Atjeh-Oorlog (Kruijt, 1896)]]
+- [[Loman & Funke]]
+- [[Boekerij van het Koloniaal Instituut]]
+- [[Koloniaal Instituut]]
+- [[Atjeh-oorlog]]
+- [[Scheepvaartregeling]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Defection of Teuku Umar (March 1896)]]
+- [[Nederburgh]]
+- [[Pruijs van der Hoeven]]
+- [[De Atjehers (Snouck Hurgronje)]]
+- [[Joannes Benedictus van Heutsz]]
+- [[ATJEH '96 (Kruisheer)]]
+- [[1896]]
+- [[Netherlands Indies]]
+- [[s-Gravenhage]]
+- [[Snouck Hurgronje's Mekka journey (1884-1885)]]
+- [[J. A. Kruijt]]
+- [[De Lostalot]]
+- [[Djidda]]
+- [[Mekka]]
+- [[Pinang]]
+- [[Singapore]]
+- [[General van Teijn]]
+- [[Goossens]]
+- [[Maxwell]]
+- [[Lavino]]
+- [[Teunom]]
+- [[Panga]]
+- [[Nisero affair (November 1883 – September 1884)]]
+- [[28 August]]
+- [[9 April]]
+- [[1884]]
+- [[1885]]
+- [[1889]]
 
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. [[C. Snouck Hurgronje|C. Snouck Hurgronje]], translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, [[1906]].
 
 *Atjeh en de Atjehers, twee jaren blokkade op Sumatra's Noordoost-kust*, by J. A. Kruyt (Leiden: E. J. Brill, 1877). Cited throughout *[[Verkenningen in Atjeh (1923)|Verkenningen in Atjeh]]* by Dr. R. Broersma.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt, Oud Controleur-Generaal der Nederlanden te Pokkenhage. Boekerij van het Koloniaal Instituut. 's-Gravenhage: Loman & Funke, 1896. Title page, *Inleiding*, and *Besluit*. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 5, 11, 74–79.
+*Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, pp. 5, 8, 13.

@@ -1,7 +1,55 @@
 ---
 title: General van der Heijden
-aliases: ["van der Heijden", "General van der Heyden", "General van der Ileyden", "J. van der Heijden", "Karel van der Heijden", "Van der Heijden", "General K. van der Heijden", "Generaal van der Heijden", "Governor van der Heijden", "Kolonel van der Heijden", "K. van der Heijden", "kolonel K. v. d. Heijden", "K. VAN DER HEUDEN"]
-tags: [person, colonial-official, dutch, military, governor, colonial, aceh, atjeh, aceh-war, general, 19th-century]
+aliases:
+- van der Heijden
+- General van der Heyden
+- General van der Ileyden
+- J. van der Heijden
+- Karel van der Heijden
+- General K. van der Heijden
+- Generaal van der Heijden
+- Governor van der Heijden
+- Kolonel van der Heijden
+- K. van der Heijden
+- kolonel K. v. d. Heijden
+- K. VAN DER HEUDEN
+- generaal Van der Heyden
+- Van der Heyden
+- Van der Heyden (Atjeh commander)
+- K. van der Heyden
+- Kolonel Van der Heyden
+- Gouverneur Van der Heyden
+- the one-eyed general
+- Van der Heyden (Atjeh 1879)
+- General van der Heyden conqueror of Groot Atjeh
+- General van der Heyden (K. van der Heijden)
+- gouverneur van Atjeh van der Heijden
+- generaal éénoog
+- de eenoogige generaal
+- de eenoogige Koning
+tags:
+- person
+- colonial-official
+- dutch
+- military
+- governor
+- colonial
+- aceh
+- atjeh
+- aceh-war
+- general
+- 19th-century
+- monument
+- achehnese-history
+- acheh
+- infantry
+- achehnese
+- atjeh-oorlog
+- 1878
+- 1879
+- colonel
+- 1876
+- knil
 ---
 
 **General van der Heijden** was a Dutch military officer who served as **Governor of Acheh** from [[1877]] to [[1881]], and whose vigorous offensive campaigns through the Achehnese highlands first broke the spell of Dutch invincibility that had settled over the country after the disasters of [[1873]]–[[1876]]. He is one of the principal colonial figures of Snouck Hurgronje's Introduction to *The Achehnese*, where his governorship is treated as the decisive turn that ended the early defensive phase of the [[Achehnese War|Achehnese War]] and prepared the way for the systematic subjugation carried through under [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]].
@@ -145,6 +193,98 @@ Van Heutsz's counter-factual is sustained. "De Generaal moest heengaan" (the Gen
 - [[1881]]
 - [[1886]]
 - [[1887]]
+- [[Selimoen Expedition (August 1879)]]
+- [[Panglima Polem|Panglima Polim]]
+- [[23 July]]
+- [[15 January]]
+- [[Geconcenteerde Linie]]
+- [[G. B. T. Wiggers van Kerchem]]
+- [[Kotta Loemper]]
+- [[Nederlandsch Indië Platen Atlas (1926)]]
+- [[Campaign against the XXVI Moekims (July 1879)]]
+- [[Johan Wøller]]
+- [[1 July]]
+- [[10 July]]
+- [[J. F. Haus]]
+- [[13 October]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[21 February]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
+- [[Imam of Longbatta]]
+- [[Governorship of General van der Heyden]]
+- [[A. J. E. Diemont]]
+- [[1882]]
+- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
+- [[Expedition to Samalanga (August 1877)]]
+- [[1 April]]
+- [[C. Snouck Hurgronje]]
+- [[Koeta-Radja]]
+- [[Kuta Raja]]
+- [[Toekoe Moeda Daoed]]
+- [[Batoe Iliq Expedition (July 1880)]]
+- [[1874]]
+- [[Volkslectuur]]
+- [[1898]]
+- [[23 March]]
+- [[1873]]
+- [[Three Sagis (XXVI, XXV, XXII Mukims)]]
+- [[Campaign against the XXII Moekims (1879)]]
+- [[Establishment of the Dutch 'linie' (pale)]]
+- [[1900]]
+- [[13 August]]
+- [[6 April]]
+- [[Habib Abdoerrahman]]
+- [[30 June]]
+- [[Atjehoorlog]]
+- [[1896]]
+- [[Teungku Um]]
+- [[J. B. van Heutsz]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Kotta Loempoer]]
+- [[Koeta Radja]]
+- [[Na 1795 (1924)]]
+- [[XXII Moekims]]
+- [[XXVI Moekims]]
+- [[Concentration system in Atjeh]]
+- [[Koninklijk Nederlandsch-Indisch Leger]]
+- [[Sultanate of Acheh]]
+- [[Kolonel Pel]]
+- [[J. W. van Lansberge]]
+- [[Indrapuri]]
+- [[Aneu Galong]]
+- [[postenlinie]]
+- [[XXVI Mukims]]
+- [[XXII Mukims]]
+- [[Ulee Lheue]]
+- [[Toekoe Oemar's defection (1896)]]
+- [[1904]]
+- [[Abraham Kuyper]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[Generaal Diemont]]
+- [[Enemy breakthrough in the IV, VI and IX Moekims (June 1878)]]
+- [[Submission of Pasangan (15 August 1878)]]
+- [[Gedoeng]]
+- [[Kroeng Raya]]
+- [[Generaal Pel]]
+- [[Luitenant-kolonel Engel]]
+- [[IV Moekims]]
+- [[VI Moekims]]
+- [[IX Moekims]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Atjeh]]
+- [[Dokarim]]
+- [[Tengkoe Koetakarang]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
+- [[Tadkirat arrakidin]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz]]
+- [[Radja Moeda Teukoe Moehamad]]
+- [[Oeleë Lheuë]]
+- [[Lamteungah]]
+- [[Hikajat prang]]
+- [[1892]]
+- [[19th-century]]
 
 ## Sources
 
@@ -155,3 +295,15 @@ Van Heutsz's counter-factual is sustained. "De Generaal moest heengaan" (the Gen
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI, "Het bestuur van generaal van der Heijden, van Juni 1877 tot April 1881." pp. 27–33.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 14, 18, 21–28, 35–39. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 94-115.
+*Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 144-145.
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
+*Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Plate 23 (Great Men from the Latest History of the Dutch East Indies).
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
+*Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Vierde tijdvak, blz. 19–21.
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-270.
+F. W. Stapel, *Geschiedenis van Nederlandsch-Indië*, p. 309 (cited in the same source for a short survey of the *stelsels*).
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. pp. 322, 339, 346, 355–357, 365.
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, XVI.
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.

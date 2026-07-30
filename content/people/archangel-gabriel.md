@@ -1,9 +1,15 @@
 ---
-
 title: Archangel Gabriel
-aliases: ["Jibril", "Jibra'il", "Gabriel"]
-
-tags: [person, religious-figure, angel, legendary]
+aliases:
+- Jibril
+- Jibra'il
+- Gabriel
+- Jebra'i
+tags:
+- person
+- religious-figure
+- angel
+- legendary
 ---
 
 The **Archangel Gabriel** — in Arabic *Jibrīl* or *Jibrāʾīl* — is the angel of revelation in Islamic tradition, the celestial messenger "through whose agency", as [[C. Snouck Hurgronje|Snouck Hurgronje]] puts it, "the eternal Quran was finally revealed to [[Mohammad (the Prophet)|Mohammad]] piece by piece". He is mentioned in *The Achehnese* in connection with the Achehnese observance of the [[Lailat al-Qadar (Night of Qadar)|Night of Qadar]] in the month of [[Ramadhan (fasting month)|Ramadhan]].
@@ -20,6 +26,14 @@ At the time of Snouck Hurgronje's writing, no one could fix the date of the Nigh
 
 The role assigned to the Archangel Gabriel in the Achehnese conception of the Night of Qadar places him at the heart of the most solemn of the night-vigils of the fasting month. Although his name is not invoked in any distinctive Achehnese formula — he is, rather, the presupposed agent of a familiar Mohammedan doctrine — the popular rites of the 27th of Ramadhan are unintelligible without the doctrine of the descent of the Quran through his mediation. The observance is one of the points at which the formal teaching of Islam and the popular superstition of the Achehnese — with their lighted seven-eyed lamps and their trees doing obeisance toward the *kiblat* — meet upon a single sacred night.
 
+
+## Sources
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+---
+
+
+The archangel Gabriel, who gives Adam lessons in agriculture in the Hikayat asay pade, restores Putroe Peureukison to life, and plays a role in the mystical transfer of Muhammad's prophetic light in the Hikayat nubuet.
+
 ## See Also
 
 - [[Mohammad (the Prophet)]]
@@ -28,6 +42,9 @@ The role assigned to the Archangel Gabriel in the Achehnese conception of the Ni
 - [[Malam dua ploh tujoh (27th night of Ramadhan)]]
 - [[Mecca]]
 - [[Acheh]]
+- [[Adam and Hawa]]
+- [[Putroe Peureukison]]
+- [[Mohammad]]
 
 ## Source
 

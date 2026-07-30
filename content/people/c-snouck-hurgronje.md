@@ -1,8 +1,48 @@
 ---
-title: "C. Snouck Hurgronje"
-aliases: ["Christiaan Snouck Hurgronje", "Dr. C. Snouck Hurgronje", "Dr. Snouck Hurgronje", "Snouck Hurgronje", "Snouch Hurgronje", "Snouck", "Dr. Snouck", "Prof. Dr. C. Snouck Hurgronje", "the advisor on Atjeh affairs", "de rijksadviseur", "Sn. H.", "Prof. Snouck Hurgronje", "C. Snouck Hurgronje (Kreemer's account", "Deel II)", "de taalgeleerde", "de hoogleeraar"]
-tags: [person, scholar, dutch, orientalist, author, colonial-official, advisor, islamologist, colonial, aceh, buitenbezittingen, achehnese-history, 19th-century, 20th-century, religious, diplomacy, islam, adviser, aceh-war]
-description: "Prof. Dr. C. Snouck Hurgronje (1857-1936), the world-renowned Dutch scholar of Islam and Muslim law, was sent to the Dutch East Indies in 1889 as Government Advisor and provided services of inestimable value to the colonial government, particularly regarding Atjeh. His works include 'Mekka' and 'De Atjehers'."
+title: C. Snouck Hurgronje
+aliases:
+- Christiaan Snouck Hurgronje
+- Dr. C. Snouck Hurgronje
+- Dr. Snouck Hurgronje
+- Snouck Hurgronje
+- Snouch Hurgronje
+- Snouck
+- Dr. Snouck
+- Prof. Dr. C. Snouck Hurgronje
+- the advisor on Atjeh affairs
+- de rijksadviseur
+- Sn. H.
+- Prof. Snouck Hurgronje
+- C. Snouck Hurgronje (Kreemer's account
+- Deel II)
+- de taalgeleerde
+- de hoogleeraar
+- Christiaan Snouck Hurgrouje
+tags:
+- person
+- scholar
+- dutch
+- orientalist
+- author
+- colonial-official
+- advisor
+- islamologist
+- colonial
+- aceh
+- buitenbezittingen
+- achehnese-history
+- 19th-century
+- 20th-century
+- religious
+- diplomacy
+- islam
+- adviser
+- aceh-war
+- intelligence
+description: Prof. Dr. C. Snouck Hurgronje (1857-1936), the world-renowned Dutch scholar
+  of Islam and Muslim law, was sent to the Dutch East Indies in 1889 as Government
+  Advisor and provided services of inestimable value to the colonial government, particularly
+  regarding Atjeh. His works include 'Mekka' and 'De Atjehers'.
 ---
 
 **Christiaan Snouck Hurgronje** ([[8 February]] [[1857]]–[[1936]]), cited on the title-page of Vol. I of *The Achehnese* as **Dr. C. Snouck Hurgronje, Adviser for Native Affairs, Netherlands India**, was a Dutch orientalist, Islamic scholar, and colonial adviser who played a formative role in the pacification of [[Acheh|Atjèh]] (Aceh), both through his intellectual framework for [[Joannes Benedictus van Heutsz|Van Heutsz]]'s policy and as a vocal critic of the appointments and methods that violated it. His two-volume ethnographic and historical study *De Atjehers* (Leiden, [[1893]]–[[1894]]; English translation as *The Achehnese*, [[1906]]) remains even now the standard work on the country and people with which it deals — and the principal source of which the present Wiki is, in effect, an index. [[J. Kreemer|Kreemer]]'s *Atjèh* (Tweede Deel, [[1923]]) acknowledges its own debt in so many words: Kreemer, as archivist of the Atjèh Instituut, made "vooral een druk en dankbaar gebruik gemaakt van 'De Atjèhers' en van 'Het Gajöland en zijne bewoners'" — "especially a heavy and grateful use of 'De Atjèhers' and of 'Het Gajöland en zijne bewoners'" — and his account of Snouck's preparation, method, and informants is the colonial-period reception of the Snouck Hurgronje corpus from the perspective of the Atjèh-Instituut itself.
@@ -195,6 +235,10 @@ Du Croo's verdict was that Snouck had mistaken his man: the passage stood record
 
 Snouck Hurgronje's analysis supplied the doctrine of the entire pacification, and his formula on the combination of solid administrative means with unavoidably hard measures recurs as the standard by which du Croo measures every governor from van Heutsz to Swart. His public condemnation of Swart in [[1908]] made the Governor's "welkom" in press and periodical "verre van hartelijk en op vertrouwen stoelende," and remained a grievance in Swart's circle for decades.
 
+
+## Sources
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter XI (the 1891 mission, the diagnosis, and the advice), Chapter VII (1889 plan). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 36, 62.
+
 ## See Also
 
 - [[A. W. S. O'Sullivan translation of De Atjehers]]
@@ -303,6 +347,20 @@ Snouck Hurgronje's analysis supplied the doctrine of the entire pacification, an
 - [[Nieuwe Courant]]
 - [[1892]]
 - [[1898]]
+- [[De Atjehers (Snouck Hurgronje)]]
+- [[Pompe van Meerdervoort]]
+- [[General van Teijn]]
+- [[De onderwerping van Atjeh (Van Heutsz)]]
+- [[Scheepvaartregeling]]
+- [[Adat]]
+- [[Adat-chiefs]]
+- [[Intelligence Department (Atjeh)]]
+- [[Penang]]
+- [[Atjeh-oorlog]]
+- [[Muslemin]]
+- [[Heiligen Oorlog]]
+- [[July 1891]]
+- [[February 1892]]
 
 ## Source
 

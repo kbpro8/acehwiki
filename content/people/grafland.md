@@ -1,8 +1,33 @@
 ---
 title: Jhr. Graafland
-aliases: ["Jhr. Graafland", "Kapitein Jhr. Graafland", "Graafland", "Jonkheer Graafland", "Jhr. G. J. W. C. H. Graafland", "Kapitein Infanterie Jhr. Graafland"]
-tags: [person, captain, dutch, aceh, aceh-war, 19th-century, marechaussee, aneukgalong, colonial, military]
-description: "Captain (Jonkheer) Graafland, commandant of the Korps Maréchaussée from the end of 1895; led the Aneukgalong overval of 28-29 March 1896 with Van Heutsz in command and Van Daalen as chef-staf, in which the benteng was fully omsingeld in the early morning and Tgk. Mat Amin di Tiro was killed; principal Dutch maréchaussée commander of the first semester of 1896, leading brigades in nearly every major spring operation from Senelop (17 April) to the V Moekims Montassik tuchtiging (16–17 June)."
+aliases:
+- Kapitein Jhr. Graafland
+- Graafland
+- Jonkheer Graafland
+- Jhr. G. J. W. C. H. Graafland
+- Kapitein Infanterie Jhr. Graafland
+- Gilles Graafland
+- the Graafland era
+tags:
+- person
+- captain
+- dutch
+- aceh
+- aceh-war
+- 19th-century
+- marechaussee
+- aneukgalong
+- colonial
+- military
+- officer
+- knil
+description: Captain (Jonkheer) Graafland, commandant of the Korps Maréchaussée from
+  the end of 1895; led the Aneukgalong overval of 28-29 March 1896 with Van Heutsz
+  in command and Van Daalen as chef-staf, in which the benteng was fully omsingeld
+  in the early morning and Tgk. Mat Amin di Tiro was killed; principal Dutch maréchaussée
+  commander of the first semester of 1896, leading brigades in nearly every major
+  spring operation from Senelop (17 April) to the V Moekims Montassik tuchtiging (16–17
+  June).
 ---
 
 **Jhr. Graafland** — *kapitein Jhr. Graafland*, in Kruisheer's *ATJEH '96* identified in fuller form as **Jhr. G. J. W. C. H. Graafland**, *Kapitein Infanterie*, Jonkheer — was the Dutch officer who, *in het laatst van 1895*, succeeded [[Notten|kapitein Notten]] as commandant of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussée]]. His succession marked, Zentgraff writes, the end of the *slappe periode der geconcentreerde linie*: *"Het is, niet zoo heel lang daarna, volkomen veranderd. In het laatst van 1895 trad kapitein Jhr. Graafland op als commandant van het korps Maréchaussée, en in het laatst van Maart 1896 liep T. Oemar naar den vijand over."* He is one of the *vier vermaarde maréchaussée-officieren* in Zentgraff's photograph — *"links beneden: Graafland"*. He also appears in the 40-year jubilee photograph of [[1930]] — though in the listing of senior officers the *Kapitein Jhr. Graafland* of 1895 is not at the 1930 dinner.
@@ -31,6 +56,14 @@ Graafland's commandantship opened the great period of the Korps Maréchaussée. 
 
 Kruisheer's *ATJEH '96* adds a further dimension to Graafland's significance: he was the principal *maréchaussée* commander of the first semester of [[1896]] — the *Kapitein* whose brigades provided the *voorhoede* and the storm assault capacity in nearly every major operation of the spring and early summer campaigns. His personal role in giving "the signal for the assault on Senelop" on [[2 May]] [[1896]] and his command of 10 brigades as *voorhoede commandant* in the [[Three-day Dutch offensive of 23–25 May 1896|bergcolonne of 23 May 1896]] (the storming of Tjot Tjako) confirm his direct tactical engagement in the most important Dutch assaults of the spring, and his sustained command of the *korps maréchaussée* through June [[1896]] — including the Lam-Krak expedition (4 officers, 226 *minderen*) and the V Moekims Montassik tuchtiging — confirms his institutional centrality to the Dutch *maréchaussée*-led war effort.
 
+
+## Sources
+*Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder
+---
+
+
+**Gilles Graafland** was a Marechaussee commander of the [[Korps Marechaussee van Atjeh en Onderhorigen]] in [[Atjeh|Aceh]], the figure whose name — in *[[Oost-Indisch Journael]]* by Merac ([[1947]]) — gives the Graafland era its name: the era that began when the unsound system of the concentrated line was abandoned, and that was the "period of the offensive to the utmost, in which the Marechaussee covered itself with glory."
+
 ## See Also
 
 - [[Notten]]
@@ -56,6 +89,25 @@ Kruisheer's *ATJEH '96* adds a further dimension to Graafland's significance: he
 - [[1896]]
 - [[19th-century]]
 - [[Aceh War]]
+- [[Oost-Indisch Journael]]
+- [[Musket]]
+- [Geconcentreerde linie](/concept/geconcentreerde-linie)
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
+- [[Campioni]]
+- [[Christoffel]]
+- [[Van der Maaten]]
+- [[Scheepens]]
+- [[G. F. B. Watrin|Watrin]]
+- [[Webb]]
+- [[Hendrikus Colijn|Colijn]]
+- [[Geertsema Beckering]]
+- [[Darlang]]
+- [[Nussy]]
+- [[Salowono]]
+- [[Pongoh]]
+- [Atjeh-oorlog](/events/atjeh-oorlog)
+- [[29 March]]
 
 ## Source
 

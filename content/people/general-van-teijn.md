@@ -1,7 +1,29 @@
 ---
-title: "General van Teijn"
-aliases: ["General van Teijn", "Generaal van Teijn", "Van Teijn", "Van Teijen", "Van Thijn", "Kolonel van Teijn", "Civiel en Militair Gouverneur van Teijn"]
-tags: [person, military, dutch, colonial, general, governor, aceh-war, atjeh, 19th-century, commander]
+title: General van Teijn
+aliases:
+- Generaal van Teijn
+- Van Teijn
+- Van Teijen
+- Van Thijn
+- Kolonel van Teijn
+- Civiel en Militair Gouverneur van Teijn
+- Governor Van Teijn of Atjeh
+tags:
+- person
+- military
+- dutch
+- colonial
+- general
+- governor
+- aceh-war
+- atjeh
+- 19th-century
+- commander
+- 1880s
+- aceh
+- colonial-administrator
+- concentratie-stelsel
+- east-coast
 ---
 
 **General van Teijn** — *Kolonel* (later *Generaal*) *van Teijn* — was a Dutch officer of the Royal Netherlands East Indies Army ([[K.N.I.L.|K.N.I.L.]]) who served as *Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden* (Civil and Military Governor of Atjeh and Dependencies) from [[December 1886|December]] [[1886]] to [[April 1891|April]] [[1891]], and whose governorship — lasting nearly four and a half years — was devoted to the persistent attempt to make contact with the [[Sultan of Aceh|Sultan]] and the [[Kemala-party|Kemala-party]] and to obtain their submission, while maintaining the [[Concentratie-stelsel (1884-1896)|concentration system]] and the [[Blokkade (Atjeh, 1886-1892)|coastal blockade]] as instruments of pressure. His departure in [[April 1891|April]] [[1891]], owing to increasing ill-health, marked the failure of the policy of negotiated submission; the death of the principal resistance leaders [[Tengkoe di Tirou|Tengkoe di Tirou]] and [[Panglima Polim|Panglima Polim]] in [[January 1891|January]] [[1891]] having already deprived the negotiations of their principal addressees.
@@ -71,6 +93,10 @@ Van Teijn died in [[1892]], and his *levensbeschrijving* (biographical notice) a
 ### Significance (per Van Heutsz)
 
 Van Teijn's significance in the [[Aceh Wiki History]] record rests on four things: he was the Governor who restored Dutch prestige after the *cajoleering*-decade of [[1884]]–[[1886]]; he was the Governor who re-imposed, in stages from January [[1888]] to the beginning of [[1890]], the closure of the Noord- en Westkust, and who thus provided the operational model Van Heutsz would generalise in the 1893 tract; he was the Governor who pioneered the *actieve verdediging* of the linie from the end of September [[1889]], restoring the night-safety the linie had lost; and he was the author of the warning letter of [[23 November]] [[1891]] — "dat telkens veranderen van politiek; dat gebrek aan eene vaste consequent doorgezette richting" — that became the rhetorical opening of Van Heutsz's 1893 book and the single sentence that fixes the diagnostic frame of the entire tract. The model of Van Teijn's governorship — closure plus *actieve verdediging* plus a politically engaged civil assistant in the person of Ruijssenaers — is the immediate operational precedent for the policies Van Heutsz would himself implement as Governor of Atjeh from [[1898]] onward.
+
+
+## Sources
+*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 1, 10, 24 (Nederland en Atjeh — Personen en Stelsels; Een Terugblik — Wat Reeds Verkregen Werd; De Inwendige Toestand).
 
 ## See Also
 
@@ -143,6 +169,15 @@ Van Teijn's significance in the [[Aceh Wiki History]] record rests on four thing
 - [[1888]]
 - [[1891]]
 - [[1892]]
+- [[Demmenie]]
+- [[Deykerhoff]]
+- [[Geconcentreerde linie]]
+- [[Lamgoet]]
+- [[Teungku di Tiro]]
+- [[Noord- en Oostkust]]
+- [[Atjeh-tram]]
+- [[Ceintuur-bahn]]
+- [[Atjeh-Album (Eigen Haard, 1896)]]
 
 ## Source
 

@@ -1,8 +1,42 @@
 ---
-
 title: Imam of Longbatta
-aliases: ["Imam", "Longbatta", "Longbattah", "of", "the", "Imeum", "Lueng", "Bata", "Iman", "Toekoe Imam Longbattah", "Toekoe Imam Longbatta", "Teungku Imam Longbattah", "the Imam of Longbatta", "Imam van Daroe", "Imam van Lam-Koenjit", "Imam Lam-Rebo", "Imam of Siem", "Imam of Lamara"]
-tags: [person, imam, religious-leader, acehnese, aceh-war, military-leader, uleebalang, concept, religious, sultanate]
+aliases:
+- Imam
+- Longbatta
+- Longbattah
+- of
+- the
+- Imeum
+- Lueng
+- Bata
+- Iman
+- Toekoe Imam Longbattah
+- Toekoe Imam Longbatta
+- Teungku Imam Longbattah
+- the Imam of Longbatta
+- Imam van Daroe
+- Imam van Lam-Koenjit
+- Imam Lam-Rebo
+- Imam of Siem
+- Imam of Lamara
+tags:
+- person
+- imam
+- religious-leader
+- acehnese
+- aceh-war
+- military-leader
+- uleebalang
+- concept
+- religious
+- sultanate
+- achehnese
+- religious-figure
+- kraton
+- pre-1873
+- aceh
+- 19th-century
+- adviser
 ---
 
 **Imam of Longbatta** — also written Imam Longbatta, Iman Longbatta, or, after the alternate spelling of the place, Imam Longbattah — was the hereditary *imeum* (religious chief) of the *mukim* of [[Lueng Bata|Lueng Bata]] (also written Longbatta) near the [[Kraton of Aceh|Kraton]] of [[Acheh|Acheh]], and one of the principal Acehnese military and religious leaders of the first phase of the [[Aceh War|Atjeh-oorlog]]. Named together with [[Panglima Polem|Panglima Polem]] and [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the influential chiefs who led the war-party — and identified by [[J. L. J. H. Pel|Kolonel PEL]] as "een van de voornaamste verzetslieden," one of the principal resistance leaders — he is remembered in the [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]] as the leader who, after the conquest of the [[XXVI Moekims|XXVI Moekims]] in [[1879]], "sheathed his sword and withdrew from public life."
@@ -85,7 +119,13 @@ The Imeum of Lueng Bata also appears among those *uleebalangs* in the Sultan's t
 - [[1875]]
 - [[1879]]
 - [[1901]]
-
+- [[Habib Abdurrahman Zahir]]
+- [[Toeankoe Machmoed]]
+- [[Panglima Tibang]]
+- [[Toekoe Kadli]]
+- [[Toekoe Noq van Marassa]]
+- [[Batavia]]
+- [[Atjeh-Album (Eigen Haard, 1896)]]
 
 ## Pre-war role: adviser to Sultan Machmoed
 
@@ -153,6 +193,7 @@ D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst v
 
 
 **Imam of Longbatta** — also written Imam Longbatta, Iman Longbatta, or, after the alternate spelling of the place, Imam Longbattah — was the hereditary *imeum* (religious chief) of the *mukim* of [[Lueng Bata|Lueng Bata]] (also written Longbatta) near the [[Kraton of Aceh|Kraton]] of [[Acheh|Acheh]], and one of the principal Acehnese military and religious leaders of the first phase of the [[Aceh War|Atjeh-oorlog]]. Named together with [[Panglima Polem|Panglima Polem]] and [[Toekoe Rajoet Lamkapang|Toekoe Rajoet Lamkapang]] by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the influential chiefs who led the war-party — and identified by [[J. L. J. H. Pel|Kolonel PEL]] as "een van de voornaamste verzetslieden," one of the principal resistance leaders — he is remembered in the [[Hikajat Prang Kompeuni|Hikajat Prang Kompeuni]] as the leader who, after the conquest of the [[XXVI Moekims|XXVI Moekims]] in [[1879]], "sheathed his sword and withdrew from public life."
+*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 14–15 (De Geestelijkheid in Atjeh — Habib Abdoe'r Rachman).
 
 ## Political Status and Character
 

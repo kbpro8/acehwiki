@@ -1,7 +1,17 @@
 ---
 title: Aeilco Zijlker
-aliases: [Zijlker, A. J. Zijlker, Aeilco Jan Zijlker]
-tags: [person, entrepreneur, petroleum, colonial, east-sumatra, dutch]
+aliases:
+- Zijlker
+- A. J. Zijlker
+- Aeilco Jan Zijlker
+- Zijklker
+tags:
+- person
+- entrepreneur
+- petroleum
+- colonial
+- east-sumatra
+- dutch
 ---
 
 **Aeilco Zijlker** was the Dutch entrepreneur who, in [[1883]], conducted the first successful petroleum test-borings near [[Pangkalan Brandan]] in the *Landschap* (self-governing territory) of [[Langkat]] on Sumatra's East Coast, thereby inaugurating the Dutch colonial petroleum industry. His [[1884]] concession from the Sultan of [[Langkat]] became the legal foundation of the [[Koninklijke Petroleum Maatschappij]] when it was formed in [[1890]], the year in which Zijlker sold his petroleum business for ƒ371,000.
@@ -20,6 +30,10 @@ By [[1890]], when the [[Koninklijke Petroleum Maatschappij]] was formally consti
 
 Zijlker's initiative at Pangkalan Brandan in [[1883]] placed Sumatra's East Coast — in immediate proximity to [[Acheh|Atjeh]] — at the origin point of one of the twentieth century's largest petroleum concerns. The ƒ371,000 he received in [[1890]] was modest compensation for an enterprise that within seven years was exporting petroleum worth ƒ31,000,000 annually. His name is borne by a street in present-day Pangkalan Brandan.
 
+
+## Sources
+*Wat Indië Ontving en Schonk*, onder leiding van Dr. C. W. Wormser (Amsterdam: Wereldbibliotheek N.V., 1946), p. 252 (chapter *Mijnbouw* door Ir. F. P. C. S. van der Ploeg).
+
 ## See Also
 
 - [[Koninklijke Petroleum Maatschappij]]
@@ -33,6 +47,9 @@ Zijlker's initiative at Pangkalan Brandan in [[1883]] placed Sumatra's East Coas
 - [[1883]]
 - [[1884]]
 - [[1890]]
+- [[Acheh]]
+- [[F. P. C. S. van der Ploeg]]
+- [[Wat Indië Ontving en Schonk]]
 
 ## Source
 
