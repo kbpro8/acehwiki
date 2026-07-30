@@ -1,7 +1,7 @@
 ---
-title: Teungku Tiro
-aliases: ["the major war leader", "Teungku di Tiro", "Teungku Chi' di Tiro", "Teungku Tiro Muhamat Amin", "Teungku Saman", "Leube Saman", "Teungku Tiro (Muhamat Amin)", "Tengkoe di Tiroe", "Teungkoe di Tiro"]
-tags: [person, warrior, ulama, religious-figure, jihad, commander, achehnese, religious, sultanate, diplomacy]
+title: "Teungku Tiro"
+aliases: ["the major war leader", "Teungku di Tiro", "Teungku Chi' di Tiro", "Teungku Tiro Muhamat Amin", "Teungku Saman", "Leube Saman", "Tengkoe di Tiroe", "Teungkoe di Tiro"]
+tags: [person, warrior, ulama, religious-figure, jihad, commander, achehnese, religious, sultanate, diplomacy, resistance, oelama, tiro, aceh-war, 19th-century]
 ---
 
 In the Hikayat Prang Gompeuni, Teungku Tiro (identified with Cheh Saman) is portrayed as the great ulama-leader of the holy war against the Dutch. He arrived at Lam Panaih with followers chiefly from Pidie, required re-conversion of those from Dutch-controlled territory, erected forts, and organized great feasts. He was ultimately poisoned, and on his deathbed adjured his followers, especially his son Mat Amin, to be guided by the ulamas.
@@ -41,6 +41,10 @@ By the time of Teuku Umar's [[Defection of Teuku Umar (29 March 1896)|defection 
 ## Significance (per *ATJEH '96*)
 
 Teungkoe di Tiro's significance in *ATJEH '96* is primarily contextual, but it is fundamental: he embodies the religious legitimacy and the long historical memory of the Achehnese resistance, the lineage that linked the [[1873]] rising to the struggles of [[1896]] and that gave the resistance its *sabil Allah* character. His death at Ana' Galong marks the moment at which the Dutch, by taking the religious centre of the XXII Moekims, transformed a religious war into a war against an occupied people — a transformation that the defection of Umar in [[1896]] would, paradoxically, briefly reverse by restoring a unified Achehnese command under a leader with his own religious credentials.
+
+## Account in du Croo’s Generaal Swart (1943)
+
+He was succeeded by his eldest son [[Teungkoe Mat Amin]], who fell at [[Aneu' Galong]] in [[1896]]. The line continued through [[Tgk. Tjhi' Majét]] and [[Tgk. di Boekét]], killed by [[H. J. Schmidt]] in May [[1910]], to the sixteen-year-old [[Tgk. Ma'at]], the last of the house, who fell on [[3 December]] [[1911]] after refusing a last offer of submission.
 
 ## See Also
 
@@ -86,7 +90,10 @@ Teungkoe di Tiro's significance in *ATJEH '96* is primarily contextual, but it i
 - [[1896]]
 - [[1900]]
 - [[1901]]
-- [[Aceh War]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
@@ -95,3 +102,5 @@ Teungkoe di Tiro's significance in *ATJEH '96* is primarily contextual, but it i
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 25, 58.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, XI.

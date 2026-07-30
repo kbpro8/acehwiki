@@ -1,7 +1,7 @@
 ---
-title: Pang Nanggroë
-aliases: ["Pang Nanggroë", "Pang Nanggroe", "the Watergeus", "de Watergeus"]
-tags: [person, panglima, aceh, aceh-war, keureutoe, 20th-century, resistance, sjahid, watergeus]
+title: "Pang Nanggroë"
+aliases: ["the Watergeus", "de Watergeus", "Pang Nanggrde", "P. Nanggròë", "Panglima Nanggròë"]
+tags: [person, panglima, aceh, aceh-war, keureutoe, 20th-century, resistance, sjahid, watergeus, achehnese, bendehoofd]
 description: "Panglima of the Keureutoe resistance 1905-1910; from Matang Teungoh, a 'toeha peuë' (member of the kampong bestuur); third husband of Tjoet Meuthia, led attacks on Simpang Olim 22 August 1902 (earlier under T. Tjhi Toenong), Meunasah Djeuro 1902, Keudé Bawang and Idi; killed 26 September 1910 by Van Slooten's brigade in the Paja Tjitcem moeras."
 ---
 
@@ -29,6 +29,42 @@ He was now constantly pursued; the times in which he could stay long in one schu
 
 His grave, with that of Pang Lateh — his energetic fellow-fighter killed on another occasion — lies near the *keudé* in a *kandang*. With his death the Keureutoe resistance lost its most capable leader; but the *adelaarsjong* [[T. Radja Sabi]] still lived, and was carried on through the forests by a succession of self-sacrificing protectors until [[1919]].
 
+## Marriage and the Keureutòë band
+
+Tjoet Meutia was delivered shortly after the execution of her husband T. Tjhi' Toenòng; the child died, and after forty-four days — the auspicious number — she married Pang Nanggròë, it was said at T. Tjhi' Toenòng's own wish. Pang Nanggròë formed a band around her and around the surviving child T. Radja Sabi.
+
+On the upper course of the [[Djambo Ajé]] he set the whole of Keureutòë in motion and worked together with the best-known resistance leaders: [[Tgk. Sjeh di Paja Bakong]], who fell in [[1910]]; [[Tgk. di Mata Ië]], "the Lord of the Springs," who fell in [[1917]]; and [[Tgk. di Barat]], "the Lord of the West," who fell in [[1912]].
+
+When in November [[1907]] the half-brother of T. Tjhi' Toenòng was restored to his function as *[[oelèëbalang]]*, Pang Nanggròë for his part proclaimed T. Radja Sabi, then six years old, *oelèëbalang* of Keureutòë. That drew new members to the band and raised his influence among the population.
+
+## Stratagems
+
+Pang Nanggròë repeatedly set the brigade commanders new tricks. One was the preparation of old marching bivouacs, in which brigades occasionally camped, by cutting through the trunks of the trees to within a centimetre, filling the cuts with leaves and the like, and holding the severed trunks upright with *rotans* as guy-ropes — counting on the fact that the *marechaussée*, when making a bivouac, always cleared the surroundings and would therefore cut through those *rotans* and be crushed with their bivouac under the falling trees.
+
+Another, attempted south of [[Matang Raja]], was to saw through in the same way all the beams and joists of a large uninhabited house, to have sleeping mats laid and cosy little lamps hung and an Acehnese feast set out, then to send word that a *[[chandoeri]]* of resistance men would be held in that house that evening, lure the troops there, stage a flight on their arrival, count on their not leaving the feast untouched, and then cut the *rotans* so that the house came down on the revellers, accompanied by a brisk *klewang* attack.
+
+This "huis-nummer" ("house trick") went "volgens plan" ("according to plan") — but Pang Nanggròë happened to meet two old and experienced brigade commanders who "ruiken" ("smell") danger. It all looked very fine and genuine, but at the warning cry from the house one of the sergeants had heard too little noise in the bushes: that was no real flight. So they remained watchful: one and a half brigades stood to arms with front outward around the house and only half a brigade went inside. When the Acehnese cut the *rotans* and the house came down, the *klewang* attack ran bloodily aground on those one and a half watchful brigades, and the *Kompeuni* ("the Company (the Dutch power)") came off with some bruises and broken ribs. Pang Nanggròë left a few dead behind.
+
+He also struck real blows; and neither the [[Atjehtram]] nor the telephone line was safe from him for a single day.
+
+## Pursuit and death
+
+Eventually the vigorous action of the *[[Kompeuni]]* brought him into ever greater difficulty. He had constantly to change hiding-places, could no longer be sure they were not betrayed, and found foraging steadily harder. In June [[1909]] he barely escaped a surprise attack that cost him three followers. In March [[1910]] he was driven out of the safe *paja* (marsh) of the [[Djambo Ajé]]; on [[30 July]] he was surprised again and escaped again. In February [[1910]] his two principal subordinate leaders had submitted and handed in two repeating rifles — repeating rifles had become rare and precious.
+
+On [[24 September]] [[1910]] sergeant [[Slooten]] received orders to look for him in the [[Paja Tjitjém]], the Bird Marsh. As related by [[H. C. Zentgraaff]] and quoted by du Croo, "de baas" marched that same day with his brigade through [[Peutèë]] and heard from an Acehnese woman that three of Pang Nanggròë's men were under the *[[meunasah]]* of *gampong* [[Aloeë]] with two women. When Slooten arrived they had gone in the direction of [[Boekèt Hagoe]]; although it was night and pouring with rain, Slooten pressed on into the forest to *gampong* [[Aloeë Awé]], where the people had also left after eating.
+
+The brigade was dead tired and Slooten gave it a few hours' rest only; it was still dark when he resumed the hunt on the morning of [[25 September]]. On the way he learned that those sought had left *gampong* [[Poetèh]] an hour before. The brigade gained on them and held the tracks fast. These led into the marsh, and there they were followed, very cautiously, on [[26 September]]. The *bekas* (traces) were very fresh; the men waded through the marsh, sometimes up to the arms in mud and water, working through the foul and tough vegetation and the rampant roots with as little noise as possible.
+
+Exactly at midday voices were heard from a few huts on a dry patch a couple of hundred metres further. With supreme effort they worked another fifty metres through the forest marsh and then halted to make the final dispositions, further noiseless stalking being impossible. Slooten sent half his brigade to the right while with the other half he tried to turn the left flank of the hiding-place; the order was to attack the moment they were discovered. As they struggled on, a *marechaussée* fell in the tangle of roots and branches; the loud splash alarmed everything. They rushed forward at once and saw the band fleeing before them, now and then sending a few bullets at the brigade, each of which was taken under fire. A fugitive who had already reached a distance of two hundred metres was hit and fell. After some searching the brigade found him dead, and the guide said: Pang Nanggròë.
+
+Because of the great significance of his death the body was carried away to be recognised by the population. It was identified in the *gampong* and buried behind the *keudé* of [[Lho' Soekon]], within a covered wooden enclosure, a *kandang*, where it still lay when du Croo wrote. Beside it, in another such *kandang*, rested the body of [[Pang Latèh]], Pang Nanggròë's energetic fellow fighter, killed on another occasion: "So in death they are together again, as on many an old campaign."
+
+Of Tjoet Meutia and the boy there was no trace; it emerged years later that T. Radja Sabi had hidden in a tree during the attack.
+
+## Significance (du Croo, 1943)
+
+Pang Nanggròë's death on [[26 September]] [[1910]], with that of [[Tgk. Sjeh di Paja Bakong]] and Tjoet Meutia a month later, marked the collapse of organised resistance in [[Keureutòë]]. The year [[1910]] brought the end for many band-leaders of the district: seventy-one resistance men were killed, fifty-one taken prisoner and eighty submitted.
+
 ## See Also
 
 - [[Tjoet Meuthia]]
@@ -51,7 +87,16 @@ His grave, with that of Pang Lateh — his energetic fellow-fighter killed on an
 - [[1907]]
 - [[1910]]
 - [[Aceh War]]
+- [[Tjoet Meutia]]
+- [[Tgk. Sjeh di Paja Bakong]]
+- [[Tgk. di Barat]]
+- [[Tgk. di Mata Ië]]
+- [[Slooten]]
+- [[Paja Tjitjém]]
+- [[Lho' Soekon]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, pp. 96–98; Chapter XI, pp. 103–104.

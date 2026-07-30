@@ -1,7 +1,7 @@
 ---
-title: Leupoeëng
-aliases: [Leupoeëng, Lepong, Lhoeng, Leupeng, Leupong, Lampisang, Lejoong]
-tags: [place, coast, aceh, aceh-war, westkust, 19th-century, achehnese, dutch, military, sultanate, east-coast]
+title: "Leupoeëng"
+aliases: ["Lepong", "Lhoeng", "Leupeng", "Leupong", "Lampisang", "Lejoong"]
+tags: [place, coast, aceh, aceh-war, westkust, 19th-century, achehnese, dutch, military, sultanate, east-coast, landschap, groot-atjeh]
 description: "Two distinct Achehnese places share the name Lepong/Leupoeëng: a Westkust place from which Teukoe Oemar was driven and to which he returned (the 1897 punitive expedition against Lhong was the consequence); and an east-coast landschap of Groot-Atjeh of which Teuku Umar was territorial chief and which served as his principal power-base and refuge throughout the Aceh War."
 ---
 
@@ -38,6 +38,10 @@ Lepong was the principal geographic object of the [[Marine Bombardment of Lepong
 ### Significance (east-coast Lepong)
 
 Lepong was the symbolic and political heart of [[Teuku Umar]]'s authority, and its bombardment by the [[Marine|marine]] was the principal Dutch means of striking at Umar indirectly after the failure of the [[Three-day Dutch offensive of 23–25 May 1896|three-day offensive]] to capture him. Umar's fear of a marine bombardment of Lepong — greater than his fear of a land incursion into the [[VI Moekims]] — indicates the political and psychological importance of the *landschap* to his cause. The *chandoeri* (council) at Lepong of approximately [[20 June]] [[1896]] demonstrated Umar's continued ability to reorganise his forces even after the loss of his *stellingen*, and Lepong remained his base for the remainder of the [[Aceh War|Atjeh-oorlog]].
+
+## Account in du Croo’s Generaal Swart (1943)
+
+The column at [[Lho' Nga]] drove Teukoe Oemar from Leupoeëng in [[1898]], "but his bands returned again and again, so that it lasted until 1898 before T. Oemar likewise withdrew to [[Pidië]]." After the murder of [[C. H. R. Heins]] at [[Lhong]] on [[13 July]] [[1914]], two groups were sent to Leupoeëng to prevent the affair spreading there.
 
 ## See Also
 
@@ -76,9 +80,15 @@ Lepong was the symbolic and political heart of [[Teuku Umar]]'s authority, and i
 - [[Glé Broeë]]
 - [[Kroeng-Kali]]
 - [[1896]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 72, 82, 138, 143, 148, 213, 217, 219, 230, 232, 233, 242, 319, 337, 341–344, 348.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, XII.

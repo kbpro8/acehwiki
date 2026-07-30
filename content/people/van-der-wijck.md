@@ -1,7 +1,7 @@
 ---
 title: "Van der Wijck"
-aliases: ["Van der Wijck", "Jhr. Van der Wijck", "Jhr. C. H. van der Wijck", "Gouverneur-Generaal Van der Wijck", "Vice-President Raad van Indië Van der Wijck", "C. A. van der Wijck", "Governor-General van der Wijck", "Landvoogd van der Wijck"]
-tags: [person, dutch, colonial, governor-general, 19th-century, snouck-hurgronje, deijkerhoff, atjeh, van-der-wijck]
+aliases: ["Jhr. Van der Wijck", "Jhr. C. H. van der Wijck", "Gouverneur-Generaal Van der Wijck", "Vice-President Raad van Indië Van der Wijck", "C. A. van der Wijck", "Governor-General van der Wijck", "Landvoogd van der Wijck"]
+tags: [person, dutch, colonial, governor-general, 19th-century, snouck-hurgronje, deijkerhoff, atjeh, van-der-wijck, general, knil, governor, aceh, 20th-century]
 ---
 
 **Van der Wijck** — *Jhr. C. H. van der Wijck* — was a Dutch colonial official who served successively as Vice-President of the [[Raad van Indië|Raad van Indië]], as Commissioner of the [[Koninklijke Pakketvaart Maatschappij|Koninklijke Pakketvaart Maatschappij]] (during which capacity he visited Atjèh), and finally as [[Gouverneur-Generaal van Nederlandsch-Indië|Gouverneur-Generaal]] returning from the Netherlands to Indië — the office in which he was obliged to declare himself "*vleugellam*" (wing-lame) with respect to Atjèh, owing to the success of [[Deijkerhoff|Deijkerhoff]] and his people in making the minister [[Van Dedem|Baron Van Dedem]] so afraid of some change in Atjèh-policy that even the Queen-Regent was called upon to make Van der Wijck promise that he would change nothing therein.
@@ -38,6 +38,10 @@ When asked from the Netherlands how long the Atjeh war would last, Van der Wijck
 
 Van der Wijck is the Dutch colonial official who, successively as Vice-President of the Raad van Indië, as Commissioner of the Koninklijke Pakketvaart Maatschappij, and as Gouverneur-Generaal, was the principal institutional supporter of Snouck Hurgronje's warnings against the Deijkerhoff-Oema policy — but who, as Gouverneur-Generaal, was bound by the promise exacted from him by the Queen-Regent at the instigation of the minister Van Dedem, and so unable to act on those warnings. The protection of the Deijkerhoff-Oema policy from change at the metropolitan centre was the immediate institutional cause of the [[Defection of Teuku Umar (March 1896)|defection of 29 March 1896]]. Van der Wijck's interview with Snouck Hurgronje over the Bekendmaking Nederburgh in [[1894]] is the other principal episode of his governorgeneralship with respect to Atjèh.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+Van der Wijck held the government "in accordance with the intention" until he became army commander in May [[1905]], when [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] took over as Civil and Military Governor.
+
 ## See Also
 
 - [[C. Snouck Hurgronje]]
@@ -67,9 +71,14 @@ Van der Wijck is the Dutch colonial official who, successively as Vice-President
 - [[H.N.A. Swart]]
 - [[Lhong expedition (January 1897)]]
 - [[Sigli expedition (August 1897)]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, pp. 18–19, 27.
 
 H. T. Damsté, "Drie Atjeh-Mannen: Snouck Hurgronje — Van Heutsz — Van Daalen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), overdruck, pp. 356–375.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter VIII.

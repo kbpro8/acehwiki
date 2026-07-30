@@ -1,7 +1,7 @@
 ---
 title: "XXV Moekims"
-aliases: ["Vijfentwintig Moekims", "25 Moekims", "XXV Mukims", "XXV Mukims", "Sagi XXV", "de Sagi's XXV", "de XXV Moekims"]
-tags: [place, acehnese, sagi, xxv-moekims, aceh-war, mukim, atjeh, 19th-century, administrative-division]
+aliases: ["Vijfentwintig Moekims", "25 Moekims", "XXV Mukims", "Sagi XXV", "de Sagi's XXV", "de XXV Moekims"]
+tags: [place, acehnese, sagi, xxv-moekims, aceh-war, mukim, atjeh, 19th-century, administrative-division, moekim, aceh, groot-atjeh, administration]
 ---
 
 The **XXV Moekims** (Vijfentwintig Moekims, "Twenty-Five Mukims") — in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s spelling also *Sagi XXV* or *de Sagi's XXV* — was the *sagi* (confederation) of twenty-five *mukim* (parish) units lying south of the [[Atjeh-rivier]] between the [[III Moekims|III Moekims]] and the [[XXII Moekims|XXII Moekims]], entirely conquered by [[Generaal Pel|Pel]]'s first offensive sweep of early February [[1876]]. Borel notes that "de geheele Sagie der XXV Moekims bevond zich in onze macht" — the entire Sagie of the XXV Moekims was in our power — after the operation. In Van Heutsz's [[1893]] tract *De onderwerping van Atjeh*, the XXV Moekims is also the third chapter of the Van der Heijden conquest — the Sagi whose September [[1879]] reconnaissance fixed the *geheel Groot-Atjeh* of the dagorder's declaration, and the territory of the post-[[1884]] resistance's fragmentation under the *panglima sagi XXV* Tjoet Abas.
@@ -41,6 +41,10 @@ The VI Moekims — the sub-federation of the Sagi XXV that lay to the west of th
 ### Significance (Van Heutsz account)
 
 The XXV Moekims's significance in Van Heutsz's [[1893]] tract rests on its being the closing chapter of the Van der Heijden conquest — the Sagi whose September [[1879]] reconnaissance fixed the *geheel Groot-Atjeh* declaration — and the opening chapter of the post-[[1884]] resistance's fragmentation — the Sagi whose *panglima*'s passivity allowed the *bendehoofden* of the IX Moekims to operate independently under the religious-political authority of [[Tengkoe di Tirou]].
+
+## Account in du Croo’s Generaal Swart (1943)
+
+[[Teukoe Oemar]] had been appointed *[[oelèëbalang]]* of [[Leupoeëng]] in the XXV Moekims by [[C. Deijckerhoff|Deijckerhoff]] before his installation as *[[Panglima Prang Besar]]* in September [[1893]]. Swart was relieved of the government of the sub-division on [[17 July]] [[1902]] and charged instead with that of [[Poelò Raja]].
 
 ## See Also
 
@@ -82,9 +86,15 @@ The XXV Moekims's significance in Van Heutsz's [[1893]] tract rests on its being
 - [[1879]]
 - [[1884]]
 - [[1893]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 327–329, 336–337.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 13, 18, 19, 20, 97, 98. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III; Extract from the service record.

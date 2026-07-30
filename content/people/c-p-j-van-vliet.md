@@ -1,7 +1,7 @@
 ---
-title: C. P. J. van Vliet
-aliases: ["C. P. J. van Vliet", "overste van Vliet", "Kolonel van Vliet", "C. P. J. van Vliet (Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden)", "J. J. van Vliet", "Gouverneur van Vliet", "Van Vliet"]
-tags: [person, dutch, colonial, military, officer, aceh-war, 1896, aceh, governor, civiel-en-militair-gouverneur, colonial, kruisheer-vol1, kruisheer-vol3]
+title: "C. P. J. van Vliet"
+aliases: ["overste van Vliet", "Kolonel van Vliet", "C. P. J. van Vliet (Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden)", "J. J. van Vliet", "Gouverneur van Vliet", "Van Vliet"]
+tags: [person, dutch, colonial, military, officer, aceh-war, 1896, aceh, governor, civiel-en-militair-gouverneur, kruisheer-vol1, kruisheer-vol3, general, knil, 19th-century]
 description: "C. P. J. van Vliet — Luitenant-Kolonel van den Generalen Staf (Chief of Staff of the Dutch military command in Aceh in the first semester of 1896), later promoted to Kolonel and appointed Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden on 8 November 1896 — combined operational planning with personal reconnaissance under fire throughout 1896. His tenure as governor, which lasted from 17 November 1896 until 1898, was the bridge between the pacificatie of the second semester of 1896 and the decisive korte oorlog phase which would be launched by Joannes Benedictus van Heutsz."
 ---
 
@@ -55,6 +55,10 @@ Van Vliet's significance in *ATJEH '96* lies in his embodiment of the *Chef van 
 
 His significance in *ATJEH '96 — Tweede Deel* is that of the *Civiel en Militair Gouverneur* (Civil and Military Governor) who closed the transitional period opened by the death of [[J. J. K. de Moulin|De Moulin]] and the second tenure of [[J. W. Stemfoort|Stemfoort]] — the governor under whom the *pacificatie* (pacification) policy of the second semester of [[1896]] was consolidated, and under whom the Dutch forward movement was paralysed by the [[Cholera Epidemic in Atjeh (December 1896)|cholera epidemic of December 1896]]. His governorship — which would last until [[1898]], when he would be succeeded by [[Joannes Benedictus van Heutsz|Van Heutsz]] — was the bridge between the *pacificatie* (pacification) of the second semester of [[1896]] and the decisive *korte oorlog* phase which would be launched by Van Heutsz.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+Van Vliet, like [[Stemfoort]] before him, "was no man for the Van Heutsz tempo; our activity remained moderate, Van Heutsz met with open and covert obstruction, and so the opposing party recovered after every blow." When he retired in March [[1898]] van Heutsz was appointed Governor with [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] as adviser.
+
 ## See Also
 
 - [[ATJEH '96 (book by A. Kruisheer)]]
@@ -91,6 +95,9 @@ His significance in *ATJEH '96 — Tweede Deel* is that of the *Civiel en Milita
 - [[Sigli expedition (August 1897)]]
 - [[Lhong expedition (January 1897)]]
 - [[Conquest of Peukan Baroe-Peukan Sòt (August 1897)]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
@@ -99,3 +106,5 @@ His significance in *ATJEH '96 — Tweede Deel* is that of the *Civiel en Milita
 *ATJEH '96. Tweede Deel* (2c Deel), door A. Kruisheer, Kapitein der Infanterie O.I.L., *met 3 kaarten en 6 portretten* (Weltevreden: N.V. Boekhandel Visser & Co, [[1913]]). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-90-Atjeh_96_DLP-89-Atjeh_96_Met_3_kaarten_en_6_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 9, 145–160 (Hoofdstuk IV), 168–172 (Bijlage III — Instruction for Civiel en Militair Gouverneur Van Vliet).
 
 H. T. Damsté, "Drie Atjeh-Mannen: Snouck Hurgronje — Van Heutsz — Van Daalen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), overdruck, pp. 356–375.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III.

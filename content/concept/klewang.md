@@ -1,20 +1,20 @@
 ---
-title: Klewang
-aliases: [klewang, native sword, cutlass, Granaat, Granaatkartets, Kartets, Rentjong, Bajonet, G.K.T., Rencong]
+title: "Klewang"
+aliases: ["native sword", "cutlass", "Granaat", "Granaatkartets", "Kartets", "Rentjong", "Bajonet", "G.K.T.", "Rencong"]
 tags: [concept, weapon, knil, marechaussee, dutch, achehnese, colonial, military, 19th-century]
 ---
 
-**The klewang** was the native sword — a cutlass — carried by the soldiers of the [[K.N.I.L.]], especially the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]], and the principal melee weapon of the colonial army's counter-insurgency in [[Atjeh|Aceh]]. In *[[Oom Ambon van het K.N.I.L.]]* the *klewang* is the symbolic weapon of the [[Manisee (Manisé)|Manisee]] — paired with the *[[reuntjong]]* (the Acehnese kris) of the resistance — and the tool with which the *[[bivak]]* (camp) and its *[[pagger]]* (fence) were built. "Het gereedschap was de *klewang* en verder niet" — the tool was the klewang and nothing else.
+**The klewang** was the native sword — a cutlass — carried by the soldiers of the [[K.N.I.L.]], especially the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]], and the principal melee weapon of the colonial army's counter-insurgency in [[Atjeh|Aceh]]. In *[[Oom Ambon van het K.N.I.L.]]* the *klewang* is the symbolic weapon of the [[Manisee (Manisé)|Manisee]] — paired with the *[[reuntjong]]* (the Acehnese kris) of the resistance — and the tool with which the *[[bivak]]* (camp) and its *[[pagger]]* (fence) were built. "The tool was the klewang and nothing further" — the tool was the klewang and nothing else.
 
 ## The klewang in action
 
 In the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]], the *klewang* was the weapon of the close-quarters engagement. When *[[Peutoeha Gam Masén]]* drew his *[[reuntjong]]* and threw himself on the two voorste Marechaussees, "*[[Nussy]]* schoot en *[[Enoch]]* werkte af met de *klewang*" — Nussy shot and Enoch worked with the klewang. When [[Sergeant Molier|Baas Molier]] was ordered to silently kill an Acehnese coming from the ladang along the path, the *klewang* was the prescribed weapon — a silent kill, with the *karabijn (M. 95)|karabijn]] held in reserve.
 
-In the opening anecdote of the book, the two Marechaussees who followed their kapitein into [[Hotel de Boer]] "stond met getrokken *klewang* en de *[[karabijn (M. 95)|karabijn]]* in de aanslag" — stood with drawn klewang and the carbine at the ready. The *klewang* was therefore both the weapon of the *bivak* (where it was the only tool) and the weapon of the patrol (where it was the close-quarters complement to the carbine).
+In the opening anecdote of the book, the two Marechaussees who followed their kapitein into [[Hotel de Boer]] "stood with drawn klewang and carbine at the ready" — stood with drawn klewang and the carbine at the ready. The *klewang* was therefore both the weapon of the *bivak* (where it was the only tool) and the weapon of the patrol (where it was the close-quarters complement to the carbine).
 
 ## The klewang as tool
 
-In the *[[bivak]]* (camp) the *klewang* was the only tool. "Het gereedschap was de *klewang* en verder niet." The *pagger* (fence) — *tiangs* (palen) at 1½ metre intervals with five *blandars* (horizontal beams) bound along — was built with the *klewang*. The *ligplaats* (sleeping place) of each man was "de lengte van een *klewang*" — the length of a klewang. The *klewang* was used to kill snakes: "sloeg Oom dan ook zo'n beest met de *klewang* kapot."
+In the *[[bivak]]* (camp) the *klewang* was the only tool. "The tool was the klewang and nothing further." The *pagger* (fence) — *tiangs* (palen) at 1½ metre intervals with five *blandars* (horizontal beams) bound along — was built with the *klewang*. The *ligplaats* (sleeping place) of each man was "de lengte van een *klewang*" — the length of a klewang. The *klewang* was used to kill snakes: "Uncle accordingly struck such a beast dead with the klewang."
 
 ## The klewang and the reuntjong
 
@@ -27,24 +27,6 @@ In the book's opening anecdote, the two Marechaussees who stood behind their kap
 ## Significance
 
 The *klewang* is significant in *[[Oom Ambon van het K.N.I.L.]]* as the symbolic weapon of the [[Manisee (Manisé)|Manisee]] and the principal tool of the *[[bivak]]*. The book's argument is that the *klewang* — a native sword, not a European weapon — was what made the colonne method possible: the patrouille that built its own camp each night with the *klewang* as the only tool was the instrument by which the [[Atjeh-oorlog|Aceh War]] was actually finished. The pairing of the *klewang* with the *[[reuntjong]]* is the book's small symbolic register of the war itself.
-
-## See Also
-
-- [[Korps Marechaussee van Atjeh en Onderhorigen]]
-- [[Karabijn (M. 95)]]
-- [[Reuntjong]]
-- [[Bivak]]
-- [[Pagger]]
-- [[Dardanellen]]
-- [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
-- [[Nussy]]
-- [[Enoch]]
-- [[Sergeant Molier]]
-- [[Hotel de Boer]]
-
-## Source
-
-*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapters "De colonne Schmidt" and "De patrouille."
 
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
 
@@ -76,22 +58,6 @@ Kruisheer's principal references include: the *granaat* and *granaatkartets* —
 
 The ammunition and edged weapons of the [[Aceh War]] reflect the dual character of the conflict: an artillery war of shells, shrapnel and mortars on the Dutch side, and a close-combat war of *klewang*, *rentjong* and *bajonet* on both sides. The Dutch reliance on artillery — and the "zeer gering" (very slight) results of the 7,996-projectile bombardment of Lampisang — exposed the limits of firepower against an enemy who could simply evacuate the target zone. The Achehnese reliance on the *klewangaanval* — massed sword charges that brought the Dutch to close quarters, where their *repeteergeweer* (repeating rifle) and *mitrailleur* lost much of their advantage — was a tactical adaptation to the technological asymmetry. The *rentjong* as the characteristic Achehnese dagger survived the war as a symbol of Achehnese identity, while the *klewang* became the iconic weapon of the Dutch colonial army.
 
-## See Also (additional)
-
-- [[Dutch and Achehnese firearms]]
-- [[Dutch artillery pieces]]
-- [[Mitrailleur]]
-- [[Siege of Lamkoenjit (29 March–8 April 1896)]]
-- [[Bombardment of Lampisang (27 April – 23 May 1896)]]
-- [[Patrol of Captain Van Blokland (7 March 1896)]]
-- [[Captain H. F. T. van Blokland]]
-- [[Benteng / Benting / Koeta]]
-- [[1896]]
-
-## Source (additional)
-
-*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 33, 68, 70, 71, 75, 88, 92, 104, 110, 112, 142–144, 212, 222.
-
 ## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
 
 The **[[Klewang|klewang]]** was the Atjehnese cutting sword — the principal melee weapon of the Atjehneezen in the [[Aceh War|Atjeh-oorlog]], "meesterlijk, bliksemsnel en krachtig gehanteerd" (masterfully, lightning-fast and powerfully wielded), in Borel's judgement superior in hand-to-hand combat to the European bajonet or sabel. The klewang was the weapon of the Atjehnese *charge* — the "blanke klewang in de vuist" (naked klewang in the fist) with which the Atjehneezen sprang from the boschrand in the [[Acehnese attack on Penajoeng bivouak (13 January 1874)|attack on Penajoeng bivouak]] of [[13 January]] [[1874]], the [[Acehnese attack on Penajoeng (11 April 1874)|massed attack on Penajoeng]] of [[11 April]] [[1874]] and the [[Night attack on Longbatta-Mesigit (22 November 1875)|night attack on Longbatta-Mesigit]] of [[22 November]] [[1875]]. Borel calls the klewang "een vreeslijk wapen" (a fearsome weapon) in man-to-man night combat.
@@ -108,8 +74,32 @@ The klewang was the weapon of the Atjehnese charge — the tactical formation by
 
 The klewang dictated, in Borel's account, a set of tactical lessons for the Dutch. First, the Dutch bivouak or post must never be placed against the boschrand without proper clearing — the error of the [[Acehnese attack on Penajoeng bivouak (13 January 1874)|Penajoeng bivouak]] of [[13 January]] [[1874]], when the bivouak had been placed against the boschrand and a "bende woestelingen" had penetrated the legerplaats from the north side. Second, the field of fire must be cleared — the *stormvrijheid* that Borel advocates throughout the book — so that the Atjehnese charge could be broken by *salvoes* of Beaumont-geweer fire before the warriors could close. Third, the Dutch must never march in dispersed order over soaked sawah along wooded edges — the lesson of the [[Atoeh catastrophe (13 February 1876)|Atoeh catastrophe]] — because the Atjehnese charge from the boschrand could massacre a dispersed column before it could *verzamelen* (assemble). Fourth, the Dutch schildwachten must never sleep on post — the lesson of the [[Night attack on Longbatta-Mesigit (22 November 1875)|night attack on Longbatta-Mesigit]] — because the klewang was "een vreeslijk wapen" in man-to-man night combat, and a small but determined Atjehnese force, exploiting darkness and the cover of the boschrand, could *overvallen* a Dutch post with devastating effect. The klewang was thus, in Borel's account, both a weapon and a tactical teacher: the instrument by which the Atjehneezen converted the conditions of their terrain into a series of tactical advantages that the Dutch could only counter by discipline, by *stormvrijheid*, and by the *mobiele colonnes* that Borel advocated.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+[[Maurice Henri du Croo|Du Croo]] defined the *[[Pacificatie van Atjeh|pacificatie]]* as the conversion of Atjeh from a province "governed with sabre and carbine" into a normal part of the Indies. Under [[Joannes Benedictus van Heutsz|van Heutsz]] "the offensive and the sabre came to the fore." The *klewang* attack — the sudden rush with cold steel on a careless bivouac or patrol — remained the characteristic Acehnese tactic to the end: at [[Nalon]] in [[1911]], at [[Linggö]], at [[Pénding]], and finally at [[Koeala Bhèë]] on [[25 April]] [[1918]]. "[[Meulaboh]] is the country par excellence for sabre charges," du Croo wrote. It was a *klewang* blow across the face that disfigured [[G. F. P. Gosenson]] for life in [[1917]], and an Acehnese police servant's *klewang* that struck down [[T. Béntara Titeuë]] in [[1913]].
+
 ## See Also
 
+- [[Korps Marechaussee van Atjeh en Onderhorigen]]
+- [[Karabijn (M. 95)]]
+- [[Reuntjong]]
+- [[Bivak]]
+- [[Pagger]]
+- [[Dardanellen]]
+- [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
+- [[Nussy]]
+- [[Enoch]]
+- [[Sergeant Molier]]
+- [[Hotel de Boer]]
+- [[Dutch and Achehnese firearms]]
+- [[Dutch artillery pieces]]
+- [[Mitrailleur]]
+- [[Siege of Lamkoenjit (29 March–8 April 1896)]]
+- [[Bombardment of Lampisang (27 April – 23 May 1896)]]
+- [[Patrol of Captain Van Blokland (7 March 1896)]]
+- [[Captain H. F. T. van Blokland]]
+- [[Benteng / Benting / Koeta]]
+- [[1896]]
 - [[Atjehnees volkskarakter (Borel)]]
 - [[Beaumont-geweer]]
 - [[Bamboe-doeri versperringen]]
@@ -121,7 +111,17 @@ The klewang dictated, in Borel's account, a set of tactical lessons for the Dutc
 - [[Jan van Swieten (Kapitein)]]
 - [[1874]]
 - [[1876]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
+*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapters "De colonne Schmidt" and "De patrouille."
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 33, 68, 70, 71, 75, 88, 92, 104, 110, 112, 142–144, 212, 222.
+
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 31, 37, 54–56, 117, 162, 168–169, 231, 237, 317–318.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), passim.

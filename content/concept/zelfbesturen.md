@@ -1,7 +1,7 @@
 ---
-title: Zelfbesturen
-aliases: [Self-governing territories, zelfbesturende landschappen, zelfbestuur, inlandsche zelfbesturen, the self-governing lands of the Buitenbezittingen, self-government, inlandsch zelfbestuur, Zelfbestuurders, Het Zelfbestuur, zelfbestuursregelen]
-tags: [concept, colonial, dutch, administration, sovereignty, buitenbezittingen, aceh, zelfbesturen, atjeh, indirect-rule, governance, 20th-century]
+title: "Zelfbesturen"
+aliases: ["Self-governing territories", "zelfbesturende landschappen", "zelfbestuur", "inlandsche zelfbesturen", "the self-governing lands of the Buitenbezittingen", "self-government", "inlandsch zelfbestuur", "Zelfbestuurders", "Het Zelfbestuur", "zelfbestuursregelen", "zelfbestuurder", "self-governing landschappen"]
+tags: [concept, colonial, dutch, administration, sovereignty, buitenbezittingen, aceh, zelfbesturen, atjeh, indirect-rule, governance, 20th-century, buitengewesten]
 description: "The zelfbesturen — the self-governing native territories of the Outer Possessions, governed by their own rulers under Dutch suzerainty and supervised by the Gouvernement through political contracts (before 1899) or the Korte Verklaring (after 1899)."
 ---
 
@@ -11,9 +11,9 @@ description: "The zelfbesturen — the self-governing native territories of the 
 
 The Encyclopaedisch Bureau's account of the [[Zelfbesturen|zelfbesturen]] appears in the chapter on administrative organisation. The Bureau frames the regulation of the relationship between the zelfbesturen and the Gouvernement as one of the two principal axes of Dutch colonial policy in the Buitenbezittingen — the other being the direct administration of the rechtstreeks bestuurd gebied (directly administered territory).
 
-The Bureau notes that "[[1899|until [[1899]]]] the regulation of the relationship of the [[Zelfbesturen|Zelfbesturen]] to the Gouvernement generally found its expression in the detailed political contracts (*omstandige politieke contracten*) concluded between the two parties, in which the principles to be observed in the governance of the landschappen, as well as the mutual rights, obligations, and competences, were set out. Since [[1899|that year]] a different path has been taken... [namely the [[Korte Verklaring|Korte Verklaring]]]."
+The Bureau notes that "[[1899|until [[1899]] the regulation of the relationship of the [[Zelfbesturen|Zelfbesturen]] to the Gouvernement generally found its expression in the detailed political contracts (*omstandige politieke contracten*) concluded between the two parties, in which the principles to be observed in the governance of the landschappen, as well as the mutual rights, obligations, and competences, were set out. Since [[1899|that year]] a different path has been taken... [namely the [[Korte Verklaring|Korte Verklaring]]]."
 
-The Bureau notes that, even after [[1899]], a small and declining minority of larger sultanates retained the older detailed political contracts. As of the [[1904]]–[[1914]] decade, these were: on the [[Oostkust van Sumatra|East Coast of Sumatra]] — Asahan, Deli, Koela, Langkat, Pelalawan, Serdang, Siak Sri Indrapoera; in the [[Westerafdeeling van Borneo|Western Division of Borneo]] — Landak, Mampawa, Matan, Pontianak, Sambas, Sanggau, Tajan; in the [[Zuider- en Oosterafdeeling van Borneo|Southern and Eastern Division of Borneo]] — Koetei; in [[Celebes en Onderhoorigheden|Celebes and Dependencies]] — Laiwoei; and in [[Timor en Onderhoorigheden|Timor and Dependencies]] — Bima, Dompo, Sanggar, Soembawa. The Bureau notes that "the rulers of all other landschappen, in total about 306 in number, signed the [[Korte Verklaring|Korte Verklaring]]."
+The Bureau notes that, even after [[1899]], a small and declining minority of larger sultanates retained the older detailed political contracts. As of the [[1904]]–[[1914]] decade, these were: on the [[Oostkust van Sumatra|East Coast of Sumatra]] — Asahan, Deli, Koela, Langkat, Pelalawan, Serdang, Siak Sri Indrapoera; in the [[Westerafdeeling van Borneo|Western Division of Borneo]] — Landak, Mampawa, Matan, Pontianak, Sambas, Sanggau, Tajan; in the [[South and East Division of Borneo|Southern and Eastern Division of Borneo]] — Koetei; in [[Celebes en Onderhoorigheden|Celebes and Dependencies]] — Laiwoei; and in [[Timor en Onderhoorigheden|Timor and Dependencies]] — Bima, Dompo, Sanggar, Soembawa. The Bureau notes that "the rulers of all other landschappen, in total about 306 in number, signed the [[Korte Verklaring|Korte Verklaring]]."
 
 The Bureau's account of the principal innovation of the newer regulation of the political relationship — the introduction of the [[Civiele lijst|civiele lijst]] and the [[Landschapskassen|landschapskassen]] — is explicit about its transformative intent: "the principal principle that has been introduced in the newer regulation of the political relationship — whether laid down in contracts or in the K. V. — is that the revenues of the landschap, instead of being — as formerly — considered as the private revenues of the rulers, who only inadequately spent a part of them for the benefit of land and people, belong to the landschap and must therefore be paid into a [[Landschapskassen|landschapskas]], in order to fund from it all kinds of expenditures in the interest of land and people, including — under our guidance and oversight — the income of the rulers in the form of a 'civiele lijst'."
 
@@ -52,6 +52,30 @@ The *goedkeuring* requirement was combined, in the operational order of the *Zel
 ### Significance of the 1930 account
 
 The *Zelfbestuur*'s significance in the [[Aceh Wiki History]] record, in the 1930 compilation's perspective, rests on four things: it was the Dutch colonial system of indirect rule through "self-governing" native chiefs — the *oeleebalang* of the Acehnese *landschappen* — that the colonial state imposed on Atjeh after the pacification of [[1898]] onward, and that formed the constitutional framework within which the operational legal architecture of Dutch indirect rule in Atjeh was constructed; it was the system whose political foundation was the *Korte Verklaring* — the short political pact by which each *oeleebalang* acknowledged Dutch sovereignty and promised to follow the Government's *inzichten*, and from which the *onderworpenheid van het Atjehsche Zelfbestuur aan het Europeesch gezag* was held to flow; it was the system whose formal framework was supplied by the *Zelfbestuursregelen 1919* (Staatsblad 1919 No. 822) and *Zelfbestuursregelen 1927*, and whose collective *vaststelling* practice — under which all *Zelfbestuurders* of an *onderafdeeling* issued their regulations jointly — was preserved in Atjeh by the *Voorwoord*'s observation that "*artikel 26 der zelfbestuursregelen 1927 in dit gewest nog geen toepassing heeft gevonden*"; and it was the system whose supervisory architecture — the *Civiel en Militair Gouverneur*, the *Plaatselijk Besturend Ambtenaar*, the *Assistent Resident*, the *Hoofd van gewestelijk bestuur*, and the *goedkeuring* requirement — fixed the constitutional subordination of the *Zelfbestuur* to the colonial state in operational practice. The *Zelfbestuur* is, in this sense, the foundational legal-political concept of the 1930 compilation — the constitutional theory of Dutch indirect rule in Atjeh whose operational instruments (the *Pantjang Alas*, the *heerendienst*, the *inkomstenbelasting*, the *verordeningen* on woeker, marriage, religious instruction, slaughter, and cattle-export) the compilation records.
+
+## The old doctrine
+
+Article 43 of the *Instructie voor den Gouverneur-Generaal* of [[1855]] stated: "the right of self-government left by agreement to native princes or peoples does not exclude the obligation to promote the welfare of the land, to govern with justice, to prevent piracy and the slave trade, and to protect agriculture, industry, trade and shipping. The Governor-General sees to it that this obligation is fulfilled and that the obstacles opposing it are cleared away." Until the turn of the century, [[Maurice Henri du Croo|du Croo]] wrote, "these remained mere words" — the obligation remained a dead letter for the self-governing rulers of the hundred-and-one distant islands.
+
+"Therefore the duty rested upon the Netherlands government to bring home to those chiefs their "obligation" — where possible by argument and the force of persuasion, where necessary by other and stronger force."
+
+## The new doctrine
+
+[[Joannes Benedictus van Heutsz|Van Heutsz]]'s guiding principle was the practical application of article 67 of the *[[Regeeringsreglement]]*: "so far as circumstances permit, the native population is left under the immediate direction of its own chiefs, appointed or recognised by the Government."
+
+His *[[Beginselprogram van Van Heutsz|beginselprogram]]* required that the policy of abstention from the internal affairs of the self-governing *landschappen* be abandoned; that by peaceable means such changes be sought in the political relation to the *zelfbesturen* as might prove necessary to obtain satisfactory guarantees for the gradual improvement of administration and justice; that where necessary the financial management be placed under supervision so that the revenues might benefit land and people; that even in the self-governing *landschappen* the endeavour of administrators be directed to developing the natural sources of prosperity and improving the economic and social condition of the population; and that incorporation into government territory take place only at the request of the chiefs and population, or if unavoidable in the population's interest.
+
+## Indirect rule and its limits
+
+[[C. Lulofs]] underlined that the *[[Korte Verklaring]]* gave the Government the power to regulate everything, "but that power must and shall be used sparingly, because otherwise our interference becomes too intensive — it was precisely to prevent that growing intensity that the indirect form of government was chosen." If the government took the legislative work out of the hands of the *zelfbestuur*, the latter would be pressed back into an ever narrower field of activity instead of being developed, "whereas one of the very reasons for choosing the indirect form was the recognition that the children of the land must be given a greater and greater share in the government of their country, at least as far as its internal management is concerned."
+
+## In Atjeh
+
+Swart implemented the *Korte Verklaring* system as Civil and Military Governor of [[Celebes]] in [[1906]]–[[1908]], establishing *landschapskassen* there. In Atjeh his method with the chiefs was designed, du Croo wrote, so that "with those chiefs it was ultimately possible to achieve a beginning form of self-government (one may think of [[T. Tjhi' Moehammad Djohan Alamsjah|T. Tjhi' Peusangan]])."
+
+By [[1927]] there were, on Swart's testimony, "minstens 100 zelfbesturende lichamen" in Atjeh, whose heads "oppose communism in their own interest."
+
+The signatories of the [[Letter of the Acehnese Chiefs to General Swart (26 September 1933)|letter of the Acehnese chiefs]] of [[1933]] included sixteen *zelfbestuurders* of *landschappen*.
 
 ## See Also
 
@@ -93,9 +117,17 @@ The *Zelfbestuur*'s significance in the [[Aceh Wiki History]] record, in the 193
 - [[1927]]
 - [[1928]]
 - [[1930]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Opening der Buitengewesten]]
+- [[Non-interventiepolitiek]]
+- [[C. Lulofs]]
+- [[H. N. A. Swart]]
+- [[Landschap]]
 
-## Sources
+## Source
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 5–8 (Bestuurs-organisatie).
 
 *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*. Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesen van het Departement van Binnenlandsch Bestuur*. Weltevreden: Landsdrukkerij, [[1930]], esp. the *Voorwoord* (p. 7), the *Inhoud* (pp. V–VII), and the regulations passim (Regs. Nos. 1–23, and esp. Reg. No. 9b *Nota van Toelichting* on the constitutional subordination of the Atjehsche *Zelfbestuur*). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter V, pp. 30–35; Chapter IV, p. 23; Chapter XVII, p. 160; Appendix, p. 169.

@@ -1,6 +1,6 @@
 ---
 title: "Peutjoet"
-aliases: ["Peutjoet", "Peutjot", "Peucut", "Peutjot cemetery", "the Eik en Duinen of Aceh", "Aceh cemetery", "Kuta Alam cemetery", "heroes cemetery", "kerkhof te Peutjot", "kerkhof bij Kotaradja", "Kerkhof Petjoet", "Petjoet cemetery", "the cemetery of Petjoet at Koeta Radja", "Petjoet"]
+aliases: ["Peutjot", "Peucut", "Peutjot cemetery", "the Eik en Duinen of Aceh", "Aceh cemetery", "Kuta Alam cemetery", "heroes cemetery", "kerkhof te Peutjot", "kerkhof bij Kotaradja", "Kerkhof Petjoet", "Petjoet cemetery", "the cemetery of Petjoet at Koeta Radja", "Petjoet"]
 tags: [place, cemetery, memorial, military, colonial, aceh, koeta-radja, knil, dutch, war-graves, achehnese-history, aceh-war]
 ---
 
@@ -64,6 +64,10 @@ The dead of the [[Patrol to the Goeah Teroes on the Glé Betoes (25 September 18
 
 Beuming writes of Pastoor Verbraak that many sons of the Netherlands who then rested at Petjoet *onder de schaduw der kokospalmen* — under the shade of the coconut palms — had been attended by him in their death struggle.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+At the burial [[H. N. A. Swart]] delivered the funeral oration, "and then, perhaps for the first time in all those hard Atjeh years, Swart lost mastery of his nerves… the address had to be broken off." [[I. Feenstra]] wrote in [[1918]] of "the memorial gate of the fallen" and of "the marble shields on the gate of Peutjoet [which] are history and do not lie!" General [[Köhler]], the first Dutch general to fall in Atjeh, was killed in [[1873]] at Koeta Radja by the *[[missigit]]*, "a few hundred metres from his grave."
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -91,14 +95,17 @@ Beuming writes of Pastoor Verbraak that many sons of the Netherlands who then re
 - [[1937]]
 - [[1926]]
 - [[11 May]]
-- [[Koeta Radja]]
 - [[Pastoor Verbraak]]
 - [[K. H. Westendorp]]
 - [[Patrol of Captain Van Blokland (7 March 1896)]]
 - [[Patrol to the Goeah Teroes on the Glé Betoes (25 September 1897)]]
 - [[Schetsen uit den strijd op Groot-Atjeh (1911)]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Dominee Thenu."
 
@@ -109,3 +116,5 @@ Beuming writes of Pastoor Verbraak that many sons of the Netherlands who then re
 *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
 
 *Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XII, XVI.

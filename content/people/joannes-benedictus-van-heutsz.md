@@ -1,7 +1,6 @@
 ---
-title: Joannes Benedictus van Heutsz
-aliases: ["Van Heutsz", "J. B. van Heutsz", "J.B. van Heutsz", "Jan van Heutsz", "Johan van Heutsz", "Johan Hendrik van Heutsz", "J. B. V. Heutsz", "v. Heutsz", "Heutsz", "Joannes Benedictus van Heutsz", "Johannes Benedictus van Heutsz", "Governor Van Heutsz", "Governor-General Van Heutsz", "General Van Heutsz", "Colonel Van Heutsz", "Major Van Heutsz", "Lieutenant Van Heutsz", "Gouverneur-Generaal Van Heutsz", "Oud-Gouverneur-Generaal Van Heutsz", "Adjudant-Generaal Van Heutsz", "Zijne Excellentie J. B. van Heutsz", "Toean Djenderal Van Heutsz", "J. B.", "General", "generaal Van Heutsz", "governor Van Heutsz", "Pacificator of Atjeh", "Chef van den Staf in Atjeh en Onderhoorigheden"]
-
+title: "Joannes Benedictus van Heutsz"
+aliases: ["Van Heutsz", "J. B. van Heutsz", "Jan van Heutsz", "Johan van Heutsz", "Johan Hendrik van Heutsz", "J. B. V. Heutsz", "v. Heutsz", "Heutsz", "Johannes Benedictus van Heutsz", "Governor Van Heutsz", "Governor-General Van Heutsz", "General Van Heutsz", "Colonel Van Heutsz", "Major Van Heutsz", "Lieutenant Van Heutsz", "Gouverneur-Generaal Van Heutsz", "Oud-Gouverneur-Generaal Van Heutsz", "Adjudant-Generaal Van Heutsz", "Zijne Excellentie J. B. van Heutsz", "Toean Djenderal Van Heutsz", "J. B.", "General", "generaal Van Heutsz", "Pacificator of Atjeh", "Chef van den Staf in Atjeh en Onderhoorigheden", "de onderwerper van Atjeh"]
 tags: [person, military, colonial, dutch, governor-general, aceh, pacification, buitenbezittingen, knil, 19th-century, 20th-century, general, governor, infantry, achehnese, aceh-war, knight]
 description: "Dutch military officer and colonial administrator (1851–1924) who, as Civil and Military Governor of Aceh from 1898 and Governor-General of the Dutch East Indies from 1904 to 1909, carried through the subjugation of the Acehnese sultanate and completed the pacification of the Buitengewesten."
 ---
@@ -66,7 +65,7 @@ The resumption of offensive operations in [[1896]], at the close of the [[Defect
 
 The method that broke the back of the insurrection was the *marechaussée* system — small, lightly equipped native troops under European officers of the first rank, operating in small detachments (the *vliegende colonnes* or "flying columns") against the Acehnese guerrillas on their own terms. Only thus, Hurgronje wrote, "could any real results be arrived at." This was the *systeem Graafland, van Daalen en Van Heutsz* — the systematic working-out of the small-war method that had been adumbrated by [[Captain Francis Light|Francis Light]] and [[James Price|James Price]] a century before. "Only as guerillas against guerillas, by using the most lightly equipped native troops under the leadership of first-rate European officers with non-commissioned officers of like quality, and by operating in small detachments, could any real results be arrived at. In less than six years General Van Heutsz made such progress that now even the most sceptical must admit that we have come to the beginning of the end."
 
-In G. W. T. Dames's *[[Oom Ambon van het K.N.I.L.]]* ([[1954]]), the *systeem* is presented as the method that actually finished the [[Aceh War|Atjeh-oorlog]] at the tactical level. "Van [[1896]] tot [[1904]]" was the period of the great Dutch offensive. "In [[1898]] bewijst de benoeming van Van Heutsz tot civiel en militair Gouverneur, dat men werkelijk een einde aan de oorlog wil maken" — "In 1898 the appointment of Van Heutsz as civil and military Governor proves that one truly wishes to make an end to the war." The [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]] of [[1910]]–[[1911]] was the systematic working-out of the Van Heutsz method under [[Schmidt|luitenant Schmidt]]. "Het systeem van Van Heutsz had gezegevierd" — "The system of Van Heutsz had triumphed."
+In G. W. T. Dames's *[[Oom Ambon van het K.N.I.L.]]* ([[1954]]), the *systeem* is presented as the method that actually finished the [[Aceh War|Atjeh-oorlog]] at the tactical level. "Van [[1896]] tot [[1904]]" was the period of the great Dutch offensive. "In [[1898]] the appointment of Van Heutsz as civil and military Governor proves that there was a real wish to make an end of the war" — "In 1898 the appointment of Van Heutsz as civil and military Governor proves that one truly wishes to make an end to the war." The [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]] of [[1910]]–[[1911]] was the systematic working-out of the Van Heutsz method under [[Schmidt|luitenant Schmidt]]. "Het systeem van Van Heutsz had gezegevierd" — "The system of Van Heutsz had triumphed."
 
 The Danish physician [[Johan Wøller]], serving in the Netherlands-Indies army around [[1905]], recorded the same turning-point: "Van Heutsz had already distinguished himself several times during the fighting in Atjeh as young officer; he had in '1892' published a brochure 'Atjehs onderwerping', in which he clearly set out the tactics and politics, that had to be followed to reach this goal, and now, when it looked darkest, the government turned to him; he was in March 1898 as young colonel appointed civil and military governor of Atjeh, and with that began the last and decisive phase of the long war." Within a remarkably short time, Van Heutsz "blew a new spirit into the army; a band of young, gifted officers was trained in his school, and on all fronts a vigorous attack tactic introduced, that in the course of only a few years brought the whole country under a firm Dutch administration" — above all through "the brilliantly organized mobile columns, that used the own tactics of the Atjehnese and the same weapons as they."
 
@@ -158,7 +157,6 @@ In [[1903]] Van Heutsz introduced the ***muntverandering*** (currency change), r
 
 The [[Atjèh-tram|Atjèh-tram]] — the narrow-gauge railway connecting Bësitang (on the East Coast of Sumatra) with Pangkalan Brandan — was completed on **29 December [[1919]]**, long after Van Heutsz's departure from Atjèh.
 
-
 ## Account from *Na 1795* (1924) — the schoolroom memory
 
 The [[Na 1795 (1924)|*Na 1795*]] school-history textbook of F. Roorda records Van Heutsz's [[1898]] appointment as Governor of Atjeh in the context of the [[Pedir Expedition (1898)|Pedir-expeditie]] of the same year, and compresses the closing phase of the [[Aceh War|Atjeh-oorlog]] into a single paragraph:
@@ -186,7 +184,6 @@ The episode documents both Van Heutsz's practical command style — the decision
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
 
 The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
-
 
 **J. B. van Heutsz** — Joannes Benedictus van Heutsz ([[1851]]-[[1924]]) — was the Dutch military officer and colonial administrator who, as governor of [[Acheh|Atjeh]] ([[1898]]-[[1904]]) and governor-general of the [[Nederlandsch-Indië|Nederlandsch-Indische]] archipelago ([[1904]]-[[1909]]), brought the [[Atjeh-oorlog (1873-1904)|Atjeh-oorlog]] to its military conclusion and set the [[Pacificatie van Atjeh|pacificatie]] on its post-[[1908]] course. The parliamentary debates that accompanied and followed his Atjehnese administration are the central thread of Chapter I of [[W. H. Vermeulen|Vermeulen]]'s *Oost-Indië in het Nederlandse Parlement 1891-1918*.
 
@@ -223,6 +220,106 @@ In January [[1917]] — by then a former governor-general — [[J. B. van Heutsz
 The summary entry in *DLP-84-Atjeh* characterises **J. B. van Heutsz** (Jan van Heutsz) as a "decisive, great, forward-looking personality" (Dutch: *doortastende, grote, vooruitziende persoonlijkheid*) — a Dutch military commander who, from the late [[19th century|nineteenth century]], led the decisive campaigns that pacified the [[Aceh War|Aceh War]] and brought the region under firm Dutch control. The entry credits Van Heutsz's combination of "hard" military pressure (Dutch: *krachtige militaire druk*) and "soft" administrative reforms (Dutch: *bestuurlijke hervormingen*) with reducing casualties relative to the earlier failed Dutch attempts of the [[1873]]–[[1896]] period, and identifies his Atjeh command as the start of the so-called *Periode van Heutsz* ("Period of Heutsz"), a turning-point in the colonial history of the archipelago.
 
 The DLP-84 entry also notes that, as Governor-General of the [[Dutch East Indies|Dutch East Indies]], Van Heutsz's tenure was associated with the implementation of the [[Agrarische Wet 1870|Agricultural Law of 1870]] (Dutch: *Agrarische Wet*), which restricted land ownership to non-indigenous Europeans and placed indigenous lands under leasehold (Dutch: *erfpacht*). The law was framed as a measure to protect the "economically weak" (Dutch: *economisch zwakke*) indigenous population from dispossession — a doctrine that, in the colonial reading, justified the leasehold regime that subsequently opened up [[Atjeh|Atjeh]] and the rest of the [[Buitengewesten|Buitengewesten]] to plantation agriculture (Dutch: *ondernemingen*) in rubber, palm-oil, sisal, tobacco and coffee after the [[Pacification of Aceh|pacification]].
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] credits Van Heutsz — with [[G.C.E. van Daalen|Van Daalen]] — as the man *die den heerlijken offensieven geest er is ingebracht* (who brought in the glorious offensive spirit) that turned the [[Aceh War|Atjeh-oorlog]] after the humiliating years of the *geconcentreerde linie*. To the Atjehmannen he remained always *"de generaal"*, in their eyes *nog wat meer dan Gouverneur-Generaal*.
+
+### The 1896 Aneukgalong overval
+
+At half past midnight on [[28 March]] [[1896]] — the day after the [[Defection of Teukoe Oemar (1896)|overloopen]] of [[Teukoe Oemar]] — *overste* Van Heutsz marched from [[Lambaroe]] on the [[Aneukgalong]] benteng with two battalions and the maréchaussée, his chef-staf *kapitein* [[G.C.E. van Daalen|Van Daalen]] at his side. By 5 a.m. the hand-to-hand fighting inside the benteng was over; the Atjehers left 110 dead, including [[Tengkoe Mat Amin di Tiro|Tgk. Mat Amin]]. With Van Daalen as *chef van den staf*, Van Heutsz began the *schoonmaak in Groot-Atjeh*.
+
+### The great raids, 1898–1901
+
+He *werkte het programma systematisch af*: in [[1898]] the tocht to [[Pidië]] and then to [[Tangsé]]; in [[1898]]–[[1899]] to Peusangan and Pasé; then through the coastal country from [[Simpang Olim]] to Idi; on [[25 June]] [[1901]] — his *verjaardag* (birthday) — the famous [[Bateë Iliq (1901)|Bateë Iliq]] in Meureudoe and Samalanga. Under his *groote capitaines*, the troops were *vroolijk kinderen van den roem* (merry children of fame).
+
+### The human side
+
+Van Heutsz *was in den regel erg gemoedelijk* (was generally very genial), but could be *heftig en scherp persoonlijk* — once, before all the officers of his returning colonne, he bellowed at a captain who had reported himself sick before *uitrukken*: *"Wie is die man? Ik wil het gezicht van dien vent niet meer zien!"* He took the orphaned daughter of a friend into his home and paid all the costs of her wedding, the *bruidsjapon* ordered from [[Java]]. When the *kapal poetih* arrived at [[Oeleë Lheuë]] with the body of luitenant De Bruijn — who should have been married that Sunday — Van Heutsz had to tell the bride. He later said it was the *beroerdste boodschap* (worst message) he ever had to deliver, *"als of iemand hem een mes in de handen had gestopt met de uitnoodiging: steek haar dat in de borst."* He also tolerated, with amusement, the lady who tore open his *eigenhandig geheim* despatch on the [[Oeleë Lheuë]] wharf: *"Beste meid, maak je maar niet bezorgd; 't is in orde."* For the men he bought his *zeildoeksche schoenen* for f 1.25 *bij den Chinees op Peunajong*.
+
+### The Tangsé march and the Benit kloof
+
+On the march over the watershed into the Tangsé valley — *die nog een en al geheim voor ons was* — Van Heutsz lost a shoe in the kloof of Benit. Brigadecommandant [[Heynen]] was at his brigade nearby. He paid for his shoes at the same Chinese shop as the underofficers.
+
+### The Rijswijk overgave
+
+At the *overgave der Landvoogdij* in the [[Paleis op Rijswijk]] when he laid down the Governor-Generalship, [[Heynen]] — by then *politieopziener* at Batavia — held the wacht on the courtyard. Van Heutsz, half-undressed in a room opening onto the erf, saw him, threw open the window, and cried: *"Present, generaal?"* Heynen stood *stram in de houding*. Van Heutsz waved his gold-embroidered coat: *"Het zit er goddank op, Heynen!"* — *"Wel gefeliciteerd, generaal."* After one more *groot-saluut* with the coat, he nodded cheerfully and threw off the last *kleedingkluisters*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+## Account from Kruisheer's *ATJEH '96* (1913) — Spring 1896 Operations
+
+In Kruisheer's *ATJEH '96*, **J. B. van Heutsz** — *Luitenant-Kolonel der Infanterie* — is identified as the most operationally active Dutch field officer of the first semester of [[1896]], the commander whose colonnes fought the principal engagements of the spring and early summer campaigns against [[Teuku Umar]] and the Achehnese coalition. Van Heutsz arrived from Sumatra's Oostkust on [[16 April]] [[1896]] and immediately entered the operational rotation, commanding the [[Battle of Senelop (17 April 1896)|1e Colonne on 17 April (Senelop operation)]], the [[20 April 1896 multi-column operation|Middencolonne on 20 April]], the [[Diversie to Montassik / Battle of Senelop (2 May 1896)|diversie to Montassik on 2 May 1896]], the *bergcolonne* in the [[Three-day Dutch offensive of 23–25 May 1896|23 May 1896 operation against the VI Moekims (storming of Tjot Tjako)]], the [[Operations in IV and VI Moekims (4–5 June 1896)|2e colonne on 4–5 June 1896]], the 2e Colonne in the [[Tuchtiging der V Moekims Montassik (16–17 June 1896)|16–17 June V Moekims Montassik operation]], and the 2e Colonne in the [[Battle of Kroeng-Kali (23 June 1896)|23 June Ladoeng/Kroeng-Kali operation]]. His *Chef van den Staf* (Chief of Staff) during most of these operations was the young [[G. C. E. van Daalen|Kapitein Van Daalen]], who would himself become a famous general of the Aceh campaign.
+
+### Arrival and the Battle of Senelop, 17 April 1896
+
+Van Heutsz's arrival from Sumatra's Oostkust on [[16 April]] [[1896]] — at [[Oleh-leh|Oleh-Ich]] (probably [[Oleh Tjoet]]) — placed him in the Dutch order of battle at the critical moment when the post-defection counter-offensive was being organised. His first command was the [[Battle of Senelop (17 April 1896)|1e Colonne on 17 April 1896 (Senelop operation)]] — a multi-column advance on the hostile *stelling* at [[Lam Bada]] and [[Senelop]] which became one of the hardest-fought engagements of the first semester of [[1896]]. The column included 8 brigades *maréchaussée* under [[Jhr. G. J. W. C. H. Graafland|Kapitein Graafland]] (as *voorhoede* (vanguard)), the [[3e Bataljon]] (under [[K. W. Steinmetz|Maj. Steinmetz]]), the [[14e Bataljon]] (under [[G. P. M. van der Noordaa|Maj. Van der Noordaa]]), two sections of *bergartillerie* (mountain artillery), and supporting troops. The engagement saw the storming of the *versterking* (fortification) at Bralon by 1e Luit. [[K. J. C. Rijnen|Rijnen]] and *Eur. sergt.* [[Panman, No. 21620|Sergeant Panman]], the death of the Kling [[Habib Lhong]], and the loss of a 7 cm bronze field gun and a *mitrailleur* (machine gun) in the confusion of the retreat — the same gun which [[Panglima Polim]] would subsequently recapture and display at Senelop. The friendly-fire incident at [[Ana' Batée]] on the same day — in which *1e Luit.* [[Hoolboom]]'s *bergartillerie* section killed 6 European fusiliers of the [[12e Bataljon]] — was the most damaging Dutch operational error of the spring operations.
+
+### The Diversie of 2 May 1896 and the Storming of Tjot Tjako, 23 May 1896
+
+Van Heutsz's next major command was the [[Diversie to Montassik / Battle of Senelop (2 May 1896)|diversie to Montassik on 2 May 1896]], in which 6 brigades *maréchaussée* under [[Jhr. G. J. W. C. H. Graafland|Graafland]] (who gave the signal for the assault) attacked Senelop and retook the post — the *Amb. maréchaussée* [[Simin, No. 8502|Simin]] being the first to enter the *versterking* at 9:10 AM, only to find "*the birds flown*". The operation was supported by [[J. R. Jacobs|Maj. Jacobs]]' [[7e Bataljon]], [[J. W. van den Broek|Maj. Van den Broek]]'s [[3e Bataljon]] and [[G. F. Sterss|Maj. Sterss]]'s [[12e Bataljon]]. Van Heutsz's most famous engagement of the spring was the *bergcolonne* in the [[Three-day Dutch offensive of 23–25 May 1896|23 May 1896 operation against the VI Moekims]] — the storming of [[Tjot Tjako]] — in which the column with [[Jhr. G. J. W. C. H. Graafland|Graafland]]'s 10 brigades *maréchaussée* as *voorhoede* advanced on the Tjot Tjako height, and the Luitenants [[Wagener]] and [[Vis]] and the *maréchaussée* [[Wongsodikromo, No. 33780|Wongsodikromo]] and [[Todikromo, No. 28097|Todikromo]] were the first to reach the summit at 5:43 PM. The three-day offensive culminated in the capture of [[Teuku Umar|Umar]]'s house at [[Lam-Pisang]] on [[24 May]] [[1896]] — with 1e Luit. [[M. D. J. de Jongh|de Jongh]] officially the first to reach Umar's *verblijf* at 10:35 AM, followed by [[P. Linck|Kapitein Linck]]'s sectie — and the destruction of Lam-Pisang by *genietroepen* (engineers) with dynamite, teer (tar) and petroleum.
+
+### The June Operations and the Battle of Kroeng-Kali, 23 June 1896
+
+The June [[1896]] operations consolidated Van Heutsz's reputation as the most capable Dutch field commander of the campaign. He commanded the [[Operations in IV and VI Moekims (4–5 June 1896)|2e colonne on 4–5 June 1896]] to [[Lam-Pagar]] and [[Lam-Badak]] — the operation in which [[Toekoe Hoesin Lhongbatta]] was killed near [[Beradin]] by the *spits* (point) under *inlandsch korporaal* [[Korporaal Brodjo|Brodjo]]. He commanded the 2e Colonne in the [[Tuchtiging der V Moekims Montassik (16–17 June 1896)|16–17 June V Moekims Montassik operation]] — with [[G. C. E. van Daalen|Van Daalen]] as *Chef van den Staf* and [[J. R. Jacobs|Maj. Jacobs]]' [[7e Bataljon]], [[J. F. Th. Veeren|Lt.-Col. Veeren]]'s [[9e Bataljon]] and [[P. A. Schrassert Bert|1e Luit. Schrassert Bert]]'s [[2e Bergbatterij|2e Bergbatterij]] — which stormed the [[Tjot Maraja]] *stelling*, the [[Balik Angin]] *sterke* (stronghold), the [[blokhuis Toei Selimbing]] (three times on 16 June), the [[Lam-Nga]] under [[Jansen|Kapitein Jansen]], the [[Panteh-Karang]] redoute (under [[Lamster|2e Luit. Lamster]] and [[Dijserinck|Dijserinck]] with Amboineezen), [[Lam-Bada]] (occupied 3:10 PM on 16 June), and the [[Kroeng-Kali benteng]] on [[17 June]] [[1896|17 June]] (under [[P. Linck|Kapitein Linck]]). He commanded the 2e Colonne in the [[Battle of Kroeng-Kali (23 June 1896)|23 June Ladoeng/Kroeng-Kali operation]] — the culminating engagement of the first semester — which stormed the [[Kroeng-Kali]] *benteng* (fort) for the second time, with 2e Luit. [[Heyligers]] the first to enter (with *hoornblazer* (bugler) [[van Spanje]] and fusilier [[Veeges, No. 31895|Veeges No. 31895]]). The [[23 June]] [[1896|23 June]] engagement forced the retreat of [[T. Tjoet Toengkoeb]] and [[Panglima Nja Makam]] to [[Lam-Tobah]] and effectively closed the first-semester operations.
+
+### Significance (per *ATJEH '96*)
+
+Van Heutsz's significance in *ATJEH '96* is that of the most operationally active Dutch field officer of the first semester of [[1896]] — the commander whose colonnes fought the principal engagements against Umar and the Achehnese coalition, from the [[Battle of Senelop (17 April 1896)|battle of Senelop on 17 April]] to the [[Battle of Kroeng-Kali (23 June 1896)|battle of Kroeng-Kali on 23 June]]. His combat record in the spring and early summer of [[1896]] — the storming of Tjot Tjako, the capture of Umar's house at Lam-Pisang, the death of Toekoe Hoesin Lhongbatta, the storming of the Kroeng-Kali *benteng* — established the military reputation which would carry him to the Governor-Generalship and the formal pacification of Aceh in the early twentieth century. His partnership with [[G. C. E. van Daalen|Van Daalen]] as *Chef van den Staf* also marked the beginning of one of the most famous command partnerships in the history of the colonial Dutch East Indies.
+
+## From volunteer to Governor-General
+
+Van Heutsz, like [[Hendrikus Colijn|Colijn]] and Swart, was one of the *adspirant-onderofficieren* who entered service as volunteer soldiers and reached officer rank through the *Hoofdcursus*, and who nevertheless attained Excellency: van Heutsz became Governor-General, Colijn minister of Colonies and of Defence and Prime Minister.
+
+Du Croo quoted the portrait drawn by [[J. W. Meijer Ranneft]], chairman of the [[Volksraad]], at the unveiling of the [[Van Heutsz-Monument te Batavia|Van Heutsz Monument]] at [[Batavia]]: "Van Heutsz is not limited. His mind is as mobile as his mobile columns. He does not remain within the concentrated line, nor on Java; he brings peace to the whole of Atjeh and to the whole of the Netherlands Indies. He does not remain confined within the few years of his rule, but lays out new and distant paths for administration, education, finance and much besides." He was not afraid of the representative system; he wanted a [[Volksraad]]. *"Alles kan" ("everything is possible")* was his device — "and for this man that is no mere phrase, but the short expression of what he wants and of what he is."
+
+## The brochure of 1892
+
+As major of the General Staff, "burdened with countless enemies," especially in army circles, van Heutsz published his brochure *[[The Subjection of Atjeh (1892)|De onderwerping van Atjeh]]* — written in the same spirit as, and with the foreknowledge of, [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s report. Its motto was: "The Atjeh war gnaws at our colonial possession. It must end; let us at last show the civilised world that we are capable of ending it!"
+
+Its two principal conclusions ran wholly parallel to Snouck's: "a freedom-loving, warlike people submits only under compulsion," and "only he who shows that he possesses the power to make his will respected will bring Atjeh to submission." The brochure was regarded by many with disapproval or as unserious; only many younger men understood and endorsed it.
+
+## Governor of Atjeh, 1898–1904
+
+After the disaster of [[1896]] and the fall of [[C. Deijckerhoff|Deijckerhoff]], van Heutsz's column struck the hardest blows. He was extraordinarily promoted colonel while leading his column — but simultaneously appointed Chief of the General Staff and thus removed from Atjeh, a move that proved a mistake by his opponents: from that post he gradually convinced the Governor-General, well supported by Snouck Hurgronje, of the correctness of their shared insight. When general [[Van Vliet]] retired in March [[1898]], van Heutsz was appointed Governor of Atjeh with Snouck Hurgronje as adviser. Snouck's judgement was unhesitating: "Van Heutsz, and no one but he, would be Atjeh's Marshal Forward!"
+
+From the first day van Heutsz set the new course with a firm hand. On [[1 June]] [[1898]] he entered [[Pidië]] with four battalions and auxiliary arms, taking [[Garot]] the same day; in four months [[Van Heutsz's Pidië campaign (1898)|Pidië was subjected]]. He settled accounts with [[Teungkoe Tapa']], took [[Tangsé]] by the famous turning movement through the impassable terrain around the gorge in the [[Kroeëng Beuniët]], returned barefoot to [[Sigli]] on [[28 August]] [[1898]], held a reception at [[Koeta Radja]] on [[31 August]], and had [[Teukoe Béntara Gloempang Pajoeng]] lifted by the *marechaussée*.
+
+His method abolished the old apparatus of the war: bulletproof forts were demolished, parapets replaced by barbed wire, patrols and ambushes prevented nocturnal shootings, "base and line of operations became obsolete concepts." Columns operated independently for days, then weeks, then months, taking provisions for five or six days and buying or foraging the rest.
+
+Van Heutsz had formed in his school young men with daring and a sense of responsibility, who understood and applied his insights with their whole personality and with a minimum of men and means: "he had grafted upon them his daring and perseverance, his will-power and consciousness of his own strength … the audacious daring of Van Heutsz became their creed." He had also taught them that their administrative work must be built up slowly and gradually with the aim of winning the confidence of chiefs and population, creating order, rest and security, applying justice and honesty, but always and everywhere resting on a firm maintenance of their authority.
+
+## Governor-General and the opening of the Buitengewesten
+
+In October [[1904]] van Heutsz was appointed Governor-General; he provisionally handed over the military and civil government of Atjeh to General [[Van der Wijck]], who according to plan became army commander in May [[1905]]. As Governor-General, supported by the minister of Colonies [[Alexander Willem Frederik Idenburg|Idenburg]], he accelerated the [[Opening der Buitengewesten|opening of the Buitengewesten]]; on his retirement he could acknowledge with satisfaction that the task was accomplished, [[Sumatra]] having been wholly brought under Dutch authority.
+
+His principles were embodied in the [[Beginselprogram van Van Heutsz|beginselprogram]] and, practically, in the *[[Korte Verklaring]]*, derived from article 67 of the *[[Regeeringsreglement]]*: "so far as circumstances permit, the native population is left under the immediate direction of its own chiefs, appointed or recognised by the Government."
+
+He was also the father of *[[volksonderwijs]]* in the Indies — or rather, du Croo wrote, the man who made the village school financially possible. Confronted with the estimate that twenty thousand little schools would be needed to combat illiteracy on [[Java]] alone, at a cost of more than half the Indies budget, he entrusted [[Ziesel]] with a trial of simple schools, arguing: "in my grandfather's day the master of the village school in the Netherlands was also sexton, bell-ringer, postman, barber, cupper and so forth. Education that was good enough at the beginning of the nineteenth century for Dutch villages is also sufficient to help us out of our difficulty for the present in the Javanese village… But above all: take hold of it and do not sit with your hands in your hair. Something is always better than nothing!"
+
+## The great mistake: the choice of Van Daalen
+
+Du Croo devoted a whole chapter, *[[Atjeh van 1905 tot 1908]]*, to what he called "the great mistake of his life": van Heutsz's insistence, against all advice, that only lieutenant-colonel [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] could succeed him in Atjeh. Van Heutsz himself acknowledged that Van Daalen did not fully possess "the qualities of head and character" needed for the task, but sought in his official assessment to excuse the less desirable qualities and to demonstrate improvements. Snouck Hurgronje, his adviser, thought Van Daalen unsuitable and warned the Governor-General [[Rooseboom]] in a letter of [[2 October]] [[1903]] in terms du Croo called "as it were a Mene Tekel."
+
+An episode of [[1902]], recorded in *[[Military Constabulary in Atjeh (1943)|Marechaussee in Atjeh]]*, showed how early the question arose. In a bivouac in the [[Meulaboh|Meulabohsche]], a captain and column commander, a confidant of the Governor, asked: "General, if you were now to leave Atjeh, who ought to be your successor?" Van Heutsz answered: "Yes, that must be Major Van Daalen — now Snouck says, it is true, that he is no good for it, but I said to Snouck: then give me someone who is better fitted for it." Snouck, behind an unfolded newspaper, pretended to hear nothing.
+
+In his written assessment van Heutsz named the alternatives: "I express this judgement notwithstanding that there are officers serving in this province — namely Major X… and Captain [[Hendrikus Colijn|H. Colijn]] — who by qualities of head and character must be rated higher than Colonel Van Daalen. But these two gentlemen are candidates for the future." Colijn was still too low in rank and too young in the list; major X suffered from the same defect.
+
+## The appointment of Swart, 1908
+
+After the failure of the Van Daalen governorship van Heutsz turned to Swart, and defended him vigorously against both Snouck Hurgronje and minister Idenburg: "Governor Swart, who made himself highly deserving in the field of administration both in the South and East Division of Borneo and in Celebes, and for whom, as regards Atjeh too, I can fully vouch… must not be exposed by the Government to the same unworthy and mendacious imputations as those to which I have been exposed."
+
+He nevertheless conceded to the political necessities of the day, writing to Idenburg on [[30 July|30]]/[[31 July]] [[1908]] that he had no objection to Atjeh being visited regularly by someone who could periodically check the civil conduct of the military Governor on the spot — but rejecting Snouck Hurgronje for that role because of his character, "his ever-prominent urge to pull down officials … and his complete lack of insight into administrative affairs and administrative regulations." The compromise was the appointment of the member of the Council of the Indies [[Liefrinck]].
+
+Van Heutsz's own standard for the administrator who should succeed him was quoted at length by du Croo: such a man "must have an open eye and ear, and a heart too, for the interests of the population, for the prosperity and the development of the land … by a strong and strictly just administration he must know how to inspire confidence; he must be deeply penetrated with the sacred duty that rests upon him."
+
+## Later relations with Swart
+
+Swart called van Heutsz "my unforgettable teacher." On [[22 December]] [[1909]] Swart went to [[Sabang]] to bid farewell to the retiring Governor-General, who was in high spirits and left the Indies with a satisfied mind, moved by the telegrams from all the great commercial bodies of the Indies paying tribute to his work.
+
+## Significance
+
+Van Heutsz is, in du Croo's construction, the hinge of the whole story: the man who ended the [[Atjeh-oorlog]] as a war of position, who created the operational and administrative school from which Swart and his officers came, and who — by insisting on Van Daalen — also created the crisis that made Swart's pacification necessary.
 
 ## See Also
 
@@ -285,7 +382,6 @@ The DLP-84 entry also notes that, as Governor-General of the [[Dutch East Indies
 - [[1909]]
 - [[1919]]
 - [[1924]]
-
 - [[J. H. R. Köhler]]
 - [[Jan van Swieten]]
 - [[General Vetter]]
@@ -301,7 +397,6 @@ The DLP-84 entry also notes that, as Governor-General of the [[Dutch East Indies
 - [[Vierhonderd jaren missie in Nederlandsch Indië (1934)]]
 - [[Concentration system in Atjeh]]
 - [[1874]]
-- [[1903]]
 - [[Abraham Kuyper]]
 - [[Alasland]]
 - [[Atjeh-oorlog (1873-1904)]]
@@ -323,7 +418,6 @@ The DLP-84 entry also notes that, as Governor-General of the [[Dutch East Indies
 - [[Van Heutsz's report on Atjeh (June 1908)]]
 - [[Van der Heyden]]
 - [[1917]]
-
 - [[Pel (governor)]]
 - [[Wiggers van Kerchem]]
 - [[Diemont]]
@@ -359,8 +453,16 @@ The DLP-84 entry also notes that, as Governor-General of the [[Dutch East Indies
 - [[1888]]
 - [[1890]]
 - [[1891]]
+- [[Gotfried Coenraad Ernst van Daalen]]
+- [[Christiaan Snouck Hurgronje]]
+- [[Hendrikus Colijn]]
+- [[The Subjection of Atjeh (1892)]]
+- [[Van Heutsz's Pidië campaign (1898)]]
+- [[Opening der Buitengewesten]]
+- [[Alexander Willem Frederik Idenburg]]
+- [[Atjeh van 1905 tot 1908]]
 
-## Sources
+## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
@@ -400,52 +502,6 @@ The DLP-84 entry also notes that, as Governor-General of the [[Dutch East Indies
 
 *DLP-84-Atjeh.pdf*, pp. 5-6.
 
-## Account from *Atjeh* by H.C. Zentgraff (1938)
-
-[[H.C. Zentgraff|Zentgraff]] credits Van Heutsz — with [[G.C.E. van Daalen|Van Daalen]] — as the man *die den heerlijken offensieven geest er is ingebracht* (who brought in the glorious offensive spirit) that turned the [[Aceh War|Atjeh-oorlog]] after the humiliating years of the *geconcentreerde linie*. To the Atjehmannen he remained always *"de generaal"*, in their eyes *nog wat meer dan Gouverneur-Generaal*.
-
-### The 1896 Aneukgalong overval
-
-At half past midnight on [[28 March]] [[1896]] — the day after the [[Defection of Teukoe Oemar (1896)|overloopen]] of [[Teukoe Oemar]] — *overste* Van Heutsz marched from [[Lambaroe]] on the [[Aneukgalong]] benteng with two battalions and the maréchaussée, his chef-staf *kapitein* [[G.C.E. van Daalen|Van Daalen]] at his side. By 5 a.m. the hand-to-hand fighting inside the benteng was over; the Atjehers left 110 dead, including [[Tengkoe Mat Amin di Tiro|Tgk. Mat Amin]]. With Van Daalen as *chef van den staf*, Van Heutsz began the *schoonmaak in Groot-Atjeh*.
-
-### The great raids, 1898–1901
-
-He *werkte het programma systematisch af*: in [[1898]] the tocht to [[Pidië]] and then to [[Tangsé]]; in [[1898]]–[[1899]] to Peusangan and Pasé; then through the coastal country from [[Simpang Olim]] to Idi; on [[25 June]] [[1901]] — his *verjaardag* (birthday) — the famous [[Bateë Iliq (1901)|Bateë Iliq]] in Meureudoe and Samalanga. Under his *groote capitaines*, the troops were *vroolijk kinderen van den roem* (merry children of fame).
-
-### The human side
-
-Van Heutsz *was in den regel erg gemoedelijk* (was generally very genial), but could be *heftig en scherp persoonlijk* — once, before all the officers of his returning colonne, he bellowed at a captain who had reported himself sick before *uitrukken*: *"Wie is die man? Ik wil het gezicht van dien vent niet meer zien!"* He took the orphaned daughter of a friend into his home and paid all the costs of her wedding, the *bruidsjapon* ordered from [[Java]]. When the *kapal poetih* arrived at [[Oeleë Lheuë]] with the body of luitenant De Bruijn — who should have been married that Sunday — Van Heutsz had to tell the bride. He later said it was the *beroerdste boodschap* (worst message) he ever had to deliver, *"als of iemand hem een mes in de handen had gestopt met de uitnoodiging: steek haar dat in de borst."* He also tolerated, with amusement, the lady who tore open his *eigenhandig geheim* despatch on the [[Oeleë Lheuë]] wharf: *"Beste meid, maak je maar niet bezorgd; 't is in orde."* For the men he bought his *zeildoeksche schoenen* for f 1.25 *bij den Chinees op Peunajong*.
-
-### The Tangsé march and the Benit kloof
-
-On the march over the watershed into the Tangsé valley — *die nog een en al geheim voor ons was* — Van Heutsz lost a shoe in the kloof of Benit. Brigadecommandant [[Heynen]] was at his brigade nearby. He paid for his shoes at the same Chinese shop as the underofficers.
-
-### The Rijswijk overgave
-
-At the *overgave der Landvoogdij* in the [[Paleis op Rijswijk]] when he laid down the Governor-Generalship, [[Heynen]] — by then *politieopziener* at Batavia — held the wacht on the courtyard. Van Heutsz, half-undressed in a room opening onto the erf, saw him, threw open the window, and cried: *"Present, generaal?"* Heynen stood *stram in de houding*. Van Heutsz waved his gold-embroidered coat: *"Het zit er goddank op, Heynen!"* — *"Wel gefeliciteerd, generaal."* After one more *groot-saluut* with the coat, he nodded cheerfully and threw off the last *kleedingkluisters*.
-
-*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
-
-## Account from Kruisheer's *ATJEH '96* (1913) — Spring 1896 Operations
-
-In Kruisheer's *ATJEH '96*, **J. B. van Heutsz** — *Luitenant-Kolonel der Infanterie* — is identified as the most operationally active Dutch field officer of the first semester of [[1896]], the commander whose colonnes fought the principal engagements of the spring and early summer campaigns against [[Teuku Umar]] and the Achehnese coalition. Van Heutsz arrived from Sumatra's Oostkust on [[16 April]] [[1896]] and immediately entered the operational rotation, commanding the [[Battle of Senelop (17 April 1896)|1e Colonne on 17 April (Senelop operation)]], the [[20 April 1896 multi-column operation|Middencolonne on 20 April]], the [[Diversie to Montassik / Battle of Senelop (2 May 1896)|diversie to Montassik on 2 May 1896]], the *bergcolonne* in the [[Three-day Dutch offensive of 23–25 May 1896|23 May 1896 operation against the VI Moekims (storming of Tjot Tjako)]], the [[Operations in IV and VI Moekims (4–5 June 1896)|2e colonne on 4–5 June 1896]], the 2e Colonne in the [[Tuchtiging der V Moekims Montassik (16–17 June 1896)|16–17 June V Moekims Montassik operation]], and the 2e Colonne in the [[Battle of Kroeng-Kali (23 June 1896)|23 June Ladoeng/Kroeng-Kali operation]]. His *Chef van den Staf* (Chief of Staff) during most of these operations was the young [[G. C. E. van Daalen|Kapitein Van Daalen]], who would himself become a famous general of the Aceh campaign.
-
-### Arrival and the Battle of Senelop, 17 April 1896
-
-Van Heutsz's arrival from Sumatra's Oostkust on [[16 April]] [[1896]] — at [[Oleh-leh|Oleh-Ich]] (probably [[Oleh Tjoet]]) — placed him in the Dutch order of battle at the critical moment when the post-defection counter-offensive was being organised. His first command was the [[Battle of Senelop (17 April 1896)|1e Colonne on 17 April 1896 (Senelop operation)]] — a multi-column advance on the hostile *stelling* at [[Lam Bada]] and [[Senelop]] which became one of the hardest-fought engagements of the first semester of [[1896]]. The column included 8 brigades *maréchaussée* under [[Jhr. G. J. W. C. H. Graafland|Kapitein Graafland]] (as *voorhoede* (vanguard)), the [[3e Bataljon]] (under [[K. W. Steinmetz|Maj. Steinmetz]]), the [[14e Bataljon]] (under [[G. P. M. van der Noordaa|Maj. Van der Noordaa]]), two sections of *bergartillerie* (mountain artillery), and supporting troops. The engagement saw the storming of the *versterking* (fortification) at Bralon by 1e Luit. [[K. J. C. Rijnen|Rijnen]] and *Eur. sergt.* [[Panman, No. 21620|Sergeant Panman]], the death of the Kling [[Habib Lhong]], and the loss of a 7 cm bronze field gun and a *mitrailleur* (machine gun) in the confusion of the retreat — the same gun which [[Panglima Polim]] would subsequently recapture and display at Senelop. The friendly-fire incident at [[Ana' Batée]] on the same day — in which *1e Luit.* [[Hoolboom]]'s *bergartillerie* section killed 6 European fusiliers of the [[12e Bataljon]] — was the most damaging Dutch operational error of the spring operations.
-
-### The Diversie of 2 May 1896 and the Storming of Tjot Tjako, 23 May 1896
-
-Van Heutsz's next major command was the [[Diversie to Montassik / Battle of Senelop (2 May 1896)|diversie to Montassik on 2 May 1896]], in which 6 brigades *maréchaussée* under [[Jhr. G. J. W. C. H. Graafland|Graafland]] (who gave the signal for the assault) attacked Senelop and retook the post — the *Amb. maréchaussée* [[Simin, No. 8502|Simin]] being the first to enter the *versterking* at 9:10 AM, only to find "*the birds flown*". The operation was supported by [[J. R. Jacobs|Maj. Jacobs]]' [[7e Bataljon]], [[J. W. van den Broek|Maj. Van den Broek]]'s [[3e Bataljon]] and [[G. F. Sterss|Maj. Sterss]]'s [[12e Bataljon]]. Van Heutsz's most famous engagement of the spring was the *bergcolonne* in the [[Three-day Dutch offensive of 23–25 May 1896|23 May 1896 operation against the VI Moekims]] — the storming of [[Tjot Tjako]] — in which the column with [[Jhr. G. J. W. C. H. Graafland|Graafland]]'s 10 brigades *maréchaussée* as *voorhoede* advanced on the Tjot Tjako height, and the Luitenants [[Wagener]] and [[Vis]] and the *maréchaussée* [[Wongsodikromo, No. 33780|Wongsodikromo]] and [[Todikromo, No. 28097|Todikromo]] were the first to reach the summit at 5:43 PM. The three-day offensive culminated in the capture of [[Teuku Umar|Umar]]'s house at [[Lam-Pisang]] on [[24 May]] [[1896]] — with 1e Luit. [[M. D. J. de Jongh|de Jongh]] officially the first to reach Umar's *verblijf* at 10:35 AM, followed by [[P. Linck|Kapitein Linck]]'s sectie — and the destruction of Lam-Pisang by *genietroepen* (engineers) with dynamite, teer (tar) and petroleum.
-
-### The June Operations and the Battle of Kroeng-Kali, 23 June 1896
-
-The June [[1896]] operations consolidated Van Heutsz's reputation as the most capable Dutch field commander of the campaign. He commanded the [[Operations in IV and VI Moekims (4–5 June 1896)|2e colonne on 4–5 June 1896]] to [[Lam-Pagar]] and [[Lam-Badak]] — the operation in which [[Toekoe Hoesin Lhongbatta]] was killed near [[Beradin]] by the *spits* (point) under *inlandsch korporaal* [[Korporaal Brodjo|Brodjo]]. He commanded the 2e Colonne in the [[Tuchtiging der V Moekims Montassik (16–17 June 1896)|16–17 June V Moekims Montassik operation]] — with [[G. C. E. van Daalen|Van Daalen]] as *Chef van den Staf* and [[J. R. Jacobs|Maj. Jacobs]]' [[7e Bataljon]], [[J. F. Th. Veeren|Lt.-Col. Veeren]]'s [[9e Bataljon]] and [[P. A. Schrassert Bert|1e Luit. Schrassert Bert]]'s [[2e Bergbatterij|2e Bergbatterij]] — which stormed the [[Tjot Maraja]] *stelling*, the [[Balik Angin]] *sterke* (stronghold), the [[blokhuis Toei Selimbing]] (three times on 16 June), the [[Lam-Nga]] under [[Jansen|Kapitein Jansen]], the [[Panteh-Karang]] redoute (under [[Lamster|2e Luit. Lamster]] and [[Dijserinck|Dijserinck]] with Amboineezen), [[Lam-Bada]] (occupied 3:10 PM on 16 June), and the [[Kroeng-Kali benteng]] on [[17 June]] [[1896|17 June]] (under [[P. Linck|Kapitein Linck]]). He commanded the 2e Colonne in the [[Battle of Kroeng-Kali (23 June 1896)|23 June Ladoeng/Kroeng-Kali operation]] — the culminating engagement of the first semester — which stormed the [[Kroeng-Kali]] *benteng* (fort) for the second time, with 2e Luit. [[Heyligers]] the first to enter (with *hoornblazer* (bugler) [[van Spanje]] and fusilier [[Veeges, No. 31895|Veeges No. 31895]]). The [[23 June]] [[1896|23 June]] engagement forced the retreat of [[T. Tjoet Toengkoeb]] and [[Panglima Nja Makam]] to [[Lam-Tobah]] and effectively closed the first-semester operations.
-
-### Significance (per *ATJEH '96*)
-
-Van Heutsz's significance in *ATJEH '96* is that of the most operationally active Dutch field officer of the first semester of [[1896]] — the commander whose colonnes fought the principal engagements against Umar and the Achehnese coalition, from the [[Battle of Senelop (17 April 1896)|battle of Senelop on 17 April]] to the [[Battle of Kroeng-Kali (23 June 1896)|battle of Kroeng-Kali on 23 June]]. His combat record in the spring and early summer of [[1896]] — the storming of Tjot Tjako, the capture of Umar's house at Lam-Pisang, the death of Toekoe Hoesin Lhongbatta, the storming of the Kroeng-Kali *benteng* — established the military reputation which would carry him to the Governor-Generalship and the formal pacification of Aceh in the early twentieth century. His partnership with [[G. C. E. van Daalen|Van Daalen]] as *Chef van den Staf* also marked the beginning of one of the most famous command partnerships in the history of the colonial Dutch East Indies.
-
-## Source (Kruisheer's *ATJEH '96*)
-
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 94, 123, 125, 129, 132, 134–135, 149, 154, 176, 184, 186, 187–194, 200, 224, 233–242, 293–294, 299–305, 311–314, 316.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters I, III, IV, V, VIII, IX, XIII, pp. 2–3, 14–19, 20–21, 30–35, 80–84, 88–91, 134.

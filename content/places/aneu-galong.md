@@ -1,8 +1,7 @@
 ---
-title: Aneu Galong
-aliases: ["Aneu' Galong", "Aneu Galong", "Aneu'Galong", "Aneu-Galong", "Aneu' Galoom", "Galong"]
-
-tags: [place, fortress, battle-site, aceh, resistance, highland]
+title: "Aneu Galong"
+aliases: ["Aneu' Galoom", "Galong"]
+tags: [place, fortress, battle-site, aceh, resistance, highland, groot-atjeh, battle, 1896]
 description: "A fortress in the interior of Great Acheh, captured by Netherlands troops in 1896, marking a turning point in the Tiro family's resistance."
 ---
 
@@ -26,6 +25,10 @@ Aneu Galong is significant both in the chronicle of the [[Teungku Tiro|Tiro fami
 
 With the fall of Aneu Galong the effective military arm of the Tiro tradition was broken, although the religious authority of the line persisted long after the Dutch had consolidated their hold on Great Acheh under General [[Joannes Benedictus van Heutsz|Van Heutsz]].
 
+## Account in du Croo’s Generaal Swart (1943)
+
+The retaking followed "a splendid night march and a lightning attack with cold steel," supported by a platoon of the 3rd Battalion armed for the first time with repeating rifles. "And the blow struck home: 110 dead remained lying in the captured fortification after a fierce and honest fight, which cost us 6 dead and 33 wounded (4 officers). But more than that: [[Teungkoe Mat Amin]], the eldest son and successor of the fiercest religious resistance leader [[Teungkoe di Tirò]], who had died in [[1891]], lost his life here."
+
 ## See Also
 
 - [[Teungku Tiro]]
@@ -40,9 +43,15 @@ With the fall of Aneu Galong the effective military arm of the Tiro tradition wa
 - [[Tangsé]]
 - [[Prang sabi]]
 - [[1896]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III.

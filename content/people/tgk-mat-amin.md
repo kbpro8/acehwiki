@@ -1,18 +1,18 @@
 ---
-title: Tgk. Mat Amin
-aliases: [Tgk. Mat Amin, Teungkoe Mat Amin, T. Mad Amin, T. Mat Amin]
-tags: [person, religious-leader, acehnese, resistance, sjahid, achehnese, religious, aceh-war, military]
+title: "Tgk. Mat Amin"
+aliases: ["Teungkoe Mat Amin", "T. Mad Amin", "T. Mat Amin"]
+tags: [person, religious-leader, acehnese, resistance, sjahid, achehnese, religious, aceh-war, military, oelama, tiro, 19th-century]
 ---
 
 **Tgk. Mat Amin** — also written *Teungkoe Mat Amin*, *T. Mad Amin*, *T. Mat Amin* — was an Acehnese religious-military leader who fell at the [[Battle of Aneu Galong (1896)|defence of Aneu Galong]] in [[1896]] as a *geloofsgetuige* — a witness of the faith, a *[[sjahid]]* — and whose infant son *[[Tgk. Tjhi Ma'at]]* would, fifteen years later, become the last leader of the *Tiriō bende*. His death at Aneu Galong is the chronological anchor of the Tiriō resistance's generational arc: the father killed in [[1896]], the son killed in [[1911]]. In Kruisheer's *ATJEH '96* he is further identified as one of the three co-commanders (alongside the Kling [[Habib Lhong]] and [[Panglima Hassan]]) of the approximately 250-man Achehnese force which engaged the [[Patrol of Captain Van Blokland (7 March 1896)|patrol of Captain Van Blokland on 7 March]] [[1896]] at [[Ana' Batée]].
 
 ## The geloofsgetuige at Aneu Galong (1896)
 
-"De bij [[Aneu Galong|Aneu'Galong]] gevallen Tgk. Mat Amin." Tgk. Mat Amin fell at the [[Battle of Aneu Galong (1896)|defence of Aneu Galong]] in [[1896]] as a *geloofsgetuige* — a witness of the faith. The phrase *geloofsgetuige* is the book's term for those who fell in the resistance as *[[sjahid]]*, martyrs of the *[[prang sabi]]*. His death at Aneu Galong placed his infant son in the inheritance of the holy war.
+"Tgk. Mat Amin, who fell at [[Aneu Galong|Aneu' Galong]]." Tgk. Mat Amin fell at the [[Battle of Aneu Galong (1896)|defence of Aneu Galong]] in [[1896]] as a *geloofsgetuige* — a witness of the faith. The phrase *geloofsgetuige* is the book's term for those who fell in the resistance as *[[sjahid]]*, martyrs of the *[[prang sabi]]*. His death at Aneu Galong placed his infant son in the inheritance of the holy war.
 
 ## The infant son
 
-"Teungkoe Tjhi Ma'at di Tiró, de zoon van de bij [[Aneu Galong|Aneu'Galong]] gevallen Tgk. Mat Amin. Toen zijn Vader viel, was hij een *zuigeling*, in [[1911]] dus vijftien jaar." When Tgk. Mat Amin fell at Aneu Galong in [[1896]], his son Tgk. Tjhi Ma'at was a *zuigeling* — an infant at the breast. By [[1911]] the boy was fifteen; he would grow up to refuse submission on the grounds that "Zijn Vader was als *geloofsgetuige* gevallen, hij zou in diens voetstappen treden."
+"Teungkoe Tjhi Ma'at di Tiró, the son of Tgk. Mat Amin, who fell at Aneu' Galong. When his father fell he was an infant; in 1911, therefore, he was fifteen years old." When Tgk. Mat Amin fell at Aneu Galong in [[1896]], his son Tgk. Tjhi Ma'at was a *zuigeling* — an infant at the breast. By [[1911]] the boy was fifteen; he would grow up to refuse submission on the grounds that "Zijn Vader was als *geloofsgetuige* gevallen, hij zou in diens voetstappen treden."
 
 ## The inheritance
 
@@ -31,6 +31,10 @@ Kruisheer's description of Mad Amin as an *oelama* (religious scholar) at [[Lam-
 Tgk. Mat Amin is significant in *[[Oom Ambon van het K.N.I.L.]]* as the *geloofsgetuige* whose death at [[Battle of Aneu Galong (1896)|Aneu Galong]] in [[1896]] placed his infant son *[[Tgk. Tjhi Ma'at]]* in the inheritance of the holy war. The book's argument is that the *sjahid* status of the father was the doctrinal inheritance of the son, and that the son's refusal of submission — "Zijn Vader was als *geloofsgetuige* gevallen, hij zou in diens voetstappen treden" — was the working-out of that inheritance. Tgk. Mat Amin is therefore the book's marker of the generational arc of the Tiriō resistance: the father killed in [[1896]], the son killed in [[1911]].
 
 His significance in *ATJEH '96* lies in his embodiment of the *oelama*-as-commander — the religious scholar who leads troops in the field — and in his co-command of one of the most consequential small engagements of the first semester of [[1896]]. The [[Patrol of Captain Van Blokland (7 March 1896)|7 March 1896 engagement]] established the intensity of Achehnese resistance in the Ana' Galong sector before Umar's defection and gave the lie to any colonial assumption that the pre-defection situation was stable. Mad Amin's presence at [[Lam-Pasei]] also connects him to the network of Achehnese religious-military authority centred on the V Moekims Montassik which the Dutch *tuchtiging* of mid-June [[1896]] would attempt to break.
+
+## Account in du Croo’s Generaal Swart (1943)
+
+When the Dutch outpost Aneu' Galong, then held by the Acehnese, was retaken by the *[[Corps of Military Constabulary of Atjeh and Dependencies|marechaussée]]* of captain Jhr. [[Graafland]] after "a splendid night march and a lightning attack with cold steel", 110 Acehnese dead remained in the captured fortification — "but more than that: Teungkoe Mat Amin, the eldest son and successor of the fiercest religious resistance leader Teungkoe di Tirò, who died in [[1891]], lost his life here."
 
 ## See Also
 
@@ -57,9 +61,15 @@ His significance in *ATJEH '96* lies in his embodiment of the *oelama*-as-comman
 - [[Sibreh]]
 - [[15e Bataljon]]
 - [[Aceh War]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 35, 183.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III.

@@ -1,7 +1,7 @@
 ---
-title: Gotfried Coenraad Ernst van Daalen
-aliases: ["G. C. E. van Daalen", "Gotfried Coenraad Ernst van Daalen", "Van Daalen", "lieutenant-colonel Van Daalen", "the Van Daalen of the Gajo-Alas expedition"]
-tags: [person, officer, dutch, knil, marechaussee, aceh, governor, colonial, military, 19th-century, 20th-century, acheh]
+title: "Gotfried Coenraad Ernst van Daalen"
+aliases: ["G. C. E. van Daalen", "Van Daalen", "lieutenant-colonel Van Daalen", "the Van Daalen of the Gajo-Alas expedition", "Overste Van Daalen", "Gouverneur Van Daalen", "legercommandant Van Daalen"]
+tags: [person, officer, dutch, knil, marechaussee, aceh, governor, colonial, military, 19th-century, 20th-century, acheh, general, aceh-war, gayo]
 description: "Dutch colonial officer, Marechaussee commander, and Governor of Aceh (1905–1908) whose Gayo-Alas campaign of 1904 completed the military pacification of Aceh but whose harsh civil governorship provoked the Atjéh-enquête."
 ---
 
@@ -75,11 +75,9 @@ In October [[1905]], Van Daalen reformed the *Hasil-reglement* by Bt. 23 October
 
 Van Daalen established the first **moekimschool** (village school) in [[1907]], with an initial enrolment of 38 pupils. He also introduced the *voorschotten* (advances) scheme in [[1908]], providing ƒ60,000 to Acehnese *oelèëbalang*'s and landschapskassen as advances on future revenue — a scheme his successor [[H. N. A. Swart|Swart]] would oppose and eventually discontinue.
 
-
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
 
 The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
-
 
 **G. C. E. van Daalen** — Gotfried Coenraad Ernst van Daalen — was the Dutch lieutenant-colonel (later general) whose [[Van Daalen's Gajo-Alas-Batak expedition (1904)|expedition to the Gajoe-, Alas- and Bataklanden]] in [[1904]] was the bloodiest single episode of the post-[[Toekoe Oemar's defection ([[1896]])|Oemar]] phase of the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]], and whose subsequent tenure as governor and military commander of Atjeh ([[1905]]-[[1907]]) was brought to an end by the [[Avondpost "Wekeer" articles (October 1907)|"Wekeer" affair]] of October [[1907]] and the [[Van Heutsz's report on Atjeh (June 1908)|harsh report]] of governor-general [[J. B. van Heutsz|Van Heutsz]] in June [[1908]].
 
@@ -108,6 +106,46 @@ The report of [[Van Heutsz's report on Atjeh (June 1908)|June 1908]] was harsh. 
 ### Significance
 
 The fall of [[G. C. E. van Daalen|Van Daalen]] in [[1907]]-[[1908]] is the political climax of the post-conquest period of Atjehnese history. His tenure as governor exposed the contradiction between the [[Pacificatie van Atjeh|pacificatie]] rhetoric of [[J. B. van Heutsz|Van Heutsz]] and the practices that conquest had institutionalised; his removal cleared the way for the more conciliatory administration that [[J. B. van Heutsz|Van Heutsz]]'s [[Van Heutsz's report on Atjeh (June 1908)|June 1908 report]] installed.
+
+## The soldier
+
+Van Daalen was, in du Croo's own words, "the troop commander unsurpassed by any, the Acehnese fighting soldier par excellence, the Kitchener figure of our colonial military history" — an undeniably great figure. As the unsurpassed *marechaussée* leader of his day he undertook the famous march into the unknown interior of the [[Gajòlanden|Gajò]] and [[Alaslanden|Alas]] country, moving with a column of two hundred *marechaussées* provided with only six days' provisions over the passes of the [[Boekit Barisan|Barisan]] ranges. Notwithstanding extremely vigorous and fanatical resistance, he operated with his numerically small column for five and a half months almost entirely independently.
+
+## Unfitness as a pacifying administrator
+
+But by insight and by the character traits that determined that insight he was, du Croo held, "wholly unsuited as a pacifying administrator." Van Heutsz acknowledged that Van Daalen "most certainly not in full measure" possessed the qualities of head and character needed for the task, yet in the same assessment sought to excuse the less desirable qualities and to demonstrate "verbeteringen" in outlook, concluding that Van Daalen had since improved himself and now knew as well as van Heutsz did that an administrator must above all be penetrated by his duty to reconcile the population of already subjected parts of the country with the new state of affairs. "And… this conclusion is wide of the mark and had to be wide of the mark," du Croo wrote, "because the character and the insights of a hard, strong and self-assured figure such as Van Daalen could not possibly be changed, still less improved."
+
+## Snouck Hurgronje's warning of 2 October 1903
+
+[[Christiaan Snouck Hurgronje|Dr. Snouck Hurgronje]], van Heutsz's adviser, considered Van Daalen unsuitable, and in a letter to Governor-General [[Rooseboom]] dated [[2 October]] [[1903]] — "as it were a Mene Tekel" — wrote:
+
+"Mr Van Daalen has a deeply rooted contempt for everything that is native. This expressed itself, among other things, in the ridiculous demands of marks of respect that he made upon chiefs as well as upon inferiors. Of intercourse with chiefs there was no question: after making the knee-kiss they had to listen to orders or answer questions standing."
+
+Snouck went on to describe the administration of justice under Van Daalen: "A so-called administration of justice took place with the most tyrannical arbitrariness." Justice in Atjeh was administered by the chiefs under the direction of the civil officials and *gezaghebbers*; the low level of development of many chiefs might excuse the fact that sentences were often wholly composed by the civil administrator and not seldom sealed or signed by the chiefs entirely against their own view; and the lack of juridical knowledge and experience of many administrators meant that their sentences were often such "that no jurist would be willing to answer for them." All this ought gradually to change, by officials familiar with native jurisdiction really guiding the chiefs "instead of accustoming them to the notion that the placing of their seal or their signature has nothing to do with their opinion."
+
+"I could fill pages," Snouck continued, "with examples of the inhumane, rough, tactless manner of governing and of administering justice of this in many respects deserving officer. I consider it the more necessary to point this out because it is established in Atjeh — General Van Heutsz has repeatedly said as much virtually in public — that the present lieutenant-colonel Van Daalen is to succeed the General as governor." He closed by hoping that the Government would attach due weight to his warning "before years of sad experience have set their stamp upon it."
+
+## The clash with Swart at Poelò Raja
+
+The very first personal contact between Swart and Van Daalen in the administrative sphere marked their difference of view. Van Daalen, as acting Assistant Resident of the *Onderhoorigheden*, visited [[Poelò Raja]] and took part in a patrol. The patrol met an *[[oelèëbalang]]* with his retinue, who paid his respects in the customary and, to Swart's mind, perfectly proper manner. Van Daalen remarked that this chief had shown insufficient respect, which Swart could not see — "and… if ever anyone in Atjeh inspired respect and awe in the chiefs and also received respect from them, it was certainly Swart!" Van Daalen nevertheless lectured him: "look here, you are a full-blooded European and you do not feel that; but with me it is different. We have more sense of these things. Respect is…"
+
+In [[1902]] Van Daalen, as Swart's assistant resident, forbade administrators to visit their territory without military escort and noted that prohibition on Swart's journal, when Swart was *gezaghebber* in [[Lho' Kroeët]] and [[Daja]]. Van Heutsz in turn noted "that Swart could judge this better than he or I could, that appreciation ought to be shown from higher authority in the matter, and that there could be no question of a prohibition where Swart was concerned."
+
+## The Van Daalen governorship and its legacy
+
+Under Van Daalen "several of our best commanders had, discouraged and sometimes pushed aside, … left an Atjeh that was no longer theirs." The conditions Swart inherited in [[1908]] were described by one of his collaborators who administered [[Keureutòë]] for years: "In Keureutòë, formerly a rich and prosperous land, I found hopeless conditions… the situation had been critical and sharp measures were therefore necessary, but those measures were not always carried out with judgement and repeatedly went beyond the limit of the necessary and the permissible. For years the chiefs had been cut back in their incomes by withholdings. Spies were not everywhere well directed and supervised, deceived those who sent them out, stirred up trouble among others, harassed the population and, if their demands were not met, had cattle and possessions taken from innocent people. The livestock was thereby practically wiped out."
+
+Nowhere, du Croo wrote, had resistance and the attendant anarchy and insecurity set land and people so far back: the chiefs had lost both their authority over the population and their confidence in the administration; the formerly agricultural and cattle-keeping population had become destitute; the herds were largely destroyed; and "the system of fines and the unlawful withholding of incomes, and the collection of those fines with a strong arm and with no regard for anything or anyone, had produced nothing but hatred, contempt and resistance."
+
+It was Van Daalen too who converted the sentence of banishment pronounced on [[T. Tjhi' Toenòng]] into a death sentence, although many were convinced of his innocence.
+
+## As army commander
+
+Van Daalen later became army commander, and in that capacity issued a decree that, on grounds of a shortage of infantry officers, no civil employments might any longer be entrusted to them and that those so charged must be relieved forthwith — costing Swart the help of [[Van Doorn]] and [[Grashuis]]. Scheepens wrote to Schmidt: "How is that to be managed, my dear fellow? Meanwhile the Governor has begun the fight against that provision." Van Daalen also refused for a time to allow [[H. J. Schmidt]] to be reposted to Atjeh: between him and Swart, then Major-General, matters had come almost to "a painful war, for which Van Daalen, who hated Swart, certainly bears the guilt." The friction with the army command ended only when Swart became lieutenant-general.
+
+## Significance (du Croo, 1943)
+
+Van Daalen is the negative pole of du Croo's book. His appointment placed "the undeniably great figure of Van Daalen … in a place where he ought never to have been put," so that Atjeh underwent a very damaging setback and his successor was placed before "an almost impossibly heavy task of restoration and rebuilding." His military reputation as the conqueror of the Gajò and Alas lands remained, in du Croo's judgement, undiminished; it was as a pacifying administrator that he failed.
 
 ## See Also
 
@@ -165,8 +203,18 @@ The fall of [[G. C. E. van Daalen|Van Daalen]] in [[1907]]-[[1908]] is the polit
 - [[De Avondpost]]
 - [[J. B. van Heutsz]]
 - [[Van Heutsz's report on Atjeh (June 1908)]]
+- [[Joannes Benedictus van Heutsz]]
+- [[H. N. A. Swart]]
+- [[Christiaan Snouck Hurgronje]]
+- [[Atjeh van 1905 tot 1908]]
+- [[T. Tjhi' Toenòng]]
+- [[H. J. Schmidt]]
+- [[Gajòlanden]]
+- [[Alaslanden]]
+- [[Keureutòë]]
+- [[J. W. Naarding]]
 
-## Sources
+## Source
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), Bijlage I and pp. 4, 7, 33–35, 107, 114–115.
 
@@ -179,3 +227,5 @@ The fall of [[G. C. E. van Daalen|Van Daalen]] in [[1907]]-[[1908]] is the polit
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 271-274.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters IV, VIII, IX, XI, XIV, pp. 22–23, 80–84, 91, 103, 140.

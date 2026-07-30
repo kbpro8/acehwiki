@@ -1,7 +1,7 @@
 ---
 title: "Benteng"
-aliases: ["benteng fortification", "Malay fort", "Acehnese fort", "benteng (fortification)", "Atjehnese benteng"]
-tags: [concept, acehnese, military, fortification, defense, aceh-war]
+aliases: ["benteng fortification", "Malay fort", "Acehnese fort", "Atjehnese benteng"]
+tags: [concept, acehnese, military, fortification, defense, aceh-war, achehnese]
 ---
 
 The **[[Benteng|benteng]]** (Malay/Indonesian *benteng*, "fortification") was the standard Atjehnese fortified strongpoint — an earthen or timber work, sometimes armed with artillery, constructed to defend a kampong, a strategic position or a line of communication. Borel mentions bentengs throughout *Onze vestiging in Atjeh* as the characteristic Atjehnese fortification, often concealed behind [[Bamboe-doeri versperringen|bamboo-doeri]] thickets and sometimes mounting [[Lilla|lillas]] or heavier cannon. The benteng was to be reduced, in Borel's doctrine, by artillery fire before storming, or taken by *omtrekking* (flanking and encircling) — the "overoude Indische tactiek" that almost always yielded surprising results.
@@ -18,6 +18,10 @@ The benteng was, in Borel's doctrine, to be reduced by artillery fire before sto
 
 The benteng was also the model for some of the Dutch posts of the [[Stelling-Pel|stelling-Pel]]. The post at [[Lampoe Oek|nipa-benteng]] — the Dutch post constructed at Lampoe Oek after the destruction of the enemy fortification on [[18 September]] [[1874]] — took its name from the Atjehnese word. The Dutch posts at [[Blang Tjoet]], [[Pendetti]] and elsewhere were often constructed on the site of, or from the materials of, conquered Atjehnese bentengs. The [[Occupation of the ooster-benteng (17 August 1874)|occupation of the ooster-benteng]] on [[17 August]] [[1874]] — when [[Kapitein van Randwijk|kapitein van Randwijk]] seized the grafheuvel east of [[Pakan Atjeh]] at double-quick pace by surprise, and sandbag parapets were thrown up — illustrates the process by which an Atjehnese strongpoint became a Dutch post. The benteng was thus both the characteristic Atjehnese fortification and the model for some of the Dutch posts that replaced it. The lesson Borel draws is that the Dutch, having conquered an Atjehnese benteng, should hold and fortify it, rather than abandon it as van Swieten had abandoned [[Lemboe]] on [[25 December|25]]–[[26 December]] [[1873]] — a "groote strategische fout" that had to be repaired at high cost in [[1874]].
 
+## Account in du Croo’s Generaal Swart (1943)
+
+At the [[Attack on the Boekit Roembia (11 June 1890)|Boekit Roembia]] Swart "sprang over the parapet into the stronghold* ("fortified stockade")" and was at once shot through the arm. In [[1898]] [[Joannes Benedictus van Heutsz|van Heutsz]] took the stubbornly defended *bentengs* [[Koeta Poetoih]] of [[Teungkoe di Tjòt Plieng]]. [[I. Feenstra]] recalled in [[1918]] that in the days of the older generals "there was much shooting, and stockades, cannon and barbed wire were needed." At [[Lam Njong]] a busy *pasar* cattle market later arose on the site of the former *benteng*.
+
 ## See Also
 
 - [[Bamboe-doeri versperringen]]
@@ -30,7 +34,13 @@ The benteng was also the model for some of the Dutch posts of the [[Stelling-Pel
 - [[Occupation of the ooster-benteng (17 August 1874)]]
 - [[Kapitein van Aerssen]]
 - [[1874]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 14–17, 24–29, 57, 67, 75–80, 95, 117, 162, 183–186, 191–198, 200–206, 228, 238, 248, 317.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter II, III, XIII, XVI.

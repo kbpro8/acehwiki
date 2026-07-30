@@ -1,7 +1,7 @@
 ---
-title: Habib Teupin Wan
-aliases: [Habib Teupin Wan, de grote en heilige Habib Teupin Wan, Sjarif Habib, Habib Abdoerrachman Teupin Wan, The Holy One, de Habib]
-tags: [person, habib, sayyid, religious-leader, mystic, aceh, aceh-war, 20th-century, resistance, sjahid, kramat, acehnese]
+title: "Habib Teupin Wan"
+aliases: ["de grote en heilige Habib Teupin Wan", "Sjarif Habib", "Habib Abdoerrachman Teupin Wan", "The Holy One", "de Habib"]
+tags: [person, habib, sayyid, religious-leader, mystic, aceh, aceh-war, 20th-century, resistance, sjahid, kramat, acehnese, achehnese, oelama, pidie]
 ---
 
 **Habib Teupin Wan** — addressed in the submission-letter of the three great Atjehsche chiefs as *Penghoeloe (Heer) Habib Abdoerrachman Teupin Wan*, and called in the language of the Dutch soldiers *"The Holy One"* — was an Acehnese *sayyid* (descendant of the Prophet Muhammad), *de afstammeling van de profeet*, venerated as *kramat* (a living saint), who remained one of the principal religious figures of the Acehnese resistance to the end. He belonged properly to the VII Moekims Ateuë in [[Groot-Atjeh]], but when the Kompeuni had done its great work there he withdrew to [[Keumala]] and later lived in the mountains near [[Tangsé]]. He was killed on [[29 September]] [[1911]] by [[Schmidt]]'s brigade at the Aloeë Blang Djeuraloh, and his death, together with those of [[Tengkoe di Boekit]] and [[Tengkoe Majet di Tiro|Tgk. Majet]], closed the *epos der Tiro-oelama's*.
@@ -24,6 +24,10 @@ The *oeléëbalang*'s wife of Tangsé asked Schmidt, when he came back, how many
 
 Teupin Wan's significance is as the religious authority of the Tiriō bende — the saintly figure whose presence gave the band its charisma, and whose death stripped that charisma away. With the sayyid's death in [[September]] [[1911]], only the young *[[Tengkoe Tjhi Maät di Tiro|Tgk. Tjhi Maät]]* remained of the whole Tiri bende. The doctrinal structure of the resistance — the patriarch [[Tengkoe Sjech Saman di Tiro]], the sons, the saintly sayyid — had been destroyed.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+He was so holy, [[Maurice Henri du Croo|du Croo]] recorded, "that the fingers of any man or woman who dared point at him grew stiff." Among the dead of the same period were three scholars of great name and two well-known band-heads.
+
 ## See Also
 
 - [[Habib Abdoerrachman el Zahir]]
@@ -41,9 +45,15 @@ Teupin Wan's significance is as the religious authority of the Tiriō bende — 
 - [[1910]]
 - [[1911]]
 - [[Aceh War]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI.

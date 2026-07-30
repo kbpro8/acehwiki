@@ -1,7 +1,7 @@
 ---
-title: Gajolanden (Gayo Lands)
-aliases: [Gajolanden, Gayo Lands, Gayoland, land of the Gajos, Gajo lands, Gayo-landen, Gajo-Landen, Tanah Gayo, the Gajo highlands, Gajo country, Gajoland]
-tags: [place, region, aceh, gajo, highland, colonial, dutch, buitenbezittingen, wegennet]
+title: "Gajolanden (Gayo Lands)"
+aliases: ["Gajolanden", "Gayo Lands", "Gayoland", "land of the Gajos", "Gajo lands", "Gayo-landen", "Gajo-Landen", "Tanah Gayo", "the Gajo highlands", "Gajo country", "Gajoland", "Gajò Loeös", "Gajò Loeö"]
+tags: [place, region, aceh, gajo, highland, colonial, dutch, buitenbezittingen, wegennet, gayo, highlands, resistance, aceh-war, 20th-century]
 ---
 
 **The Gajolanden** — the Gayo Lands — is the highland region of central [[Atjeh|Aceh]] inhabited by the Gajo (Gayo) people, the region through which the [[Gajoweg]] runs from [[Bireuën]] to [[Takengeun]] on Laut Tawar. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), the Gajolanden are the book's — and the lieutenant's journey through Aceh — destination: the beautiful lake of the Gajolanden at the end of the Gajoweg, and the region of the [Gajo- en Alaslanden tochten] of Van Heutsz's period of glory.
@@ -32,6 +32,44 @@ The Encyclopaedisch Bureau's account of the [[Wegenplan Sumatra|Sumatra road pla
 
 The Bureau's account also notes that the Sumatra road plan included a separate project — the Alasweg, project no. 13 — connecting the [[Alaslanden|Alas lands]] with the Karo-hoogvlakte (Karo highlands) and the road network of the [[Oostkust van Sumatra|East Coast of Sumatra]]. The Alasweg and the Gajo-weg together represent the two principal road projects of the decade in the Atjehnese interior — both designed to open the highland interior of Atjeh to road communication with the coast.
 
+## Conquest
+
+[[Gotfried Coenraad Ernst van Daalen|Van Daalen]], "the unsurpassed constabulary commander of those days," undertook his famous march into the then unknown interior of the Gajò and [[Alaslanden|Alas]] country with a column of two hundred *marechaussées* provided with only six days' provisions, crossing the passes of the [[Boekit Barisan|Barisan]] ranges. Notwithstanding extremely vigorous and fanatical resistance he operated with that numerically small column for five and a half months almost entirely independently.
+
+## Resistance, 1908–1912
+
+In [[1908]] and [[1909]] the situation remained "beslist ongunstig": the *keudeh* with *pasar* shed at Blang Kedjerèn was burned, well-disposed chiefs were murdered, and repeated *[[klewang]]* attacks were made on brigades supervising road work or escorting transport. The situation was worst in September, bands of ill-disposed men wandering throughout the sub-division, terrorising the population and threatening with death everyone on good terms with the administration. The infantry garrison of Blang Kedjerèn was therefore replaced by *marechaussée* — the 1st Division under captain [[W. Muurling]] — while a mobile column of three brigades under [[Kaniess]] was sent to the western part.
+
+In October the bivouac at [[Goempang]] was burned and a *klewang* attack made on the monthly transport to [[Koeala Simpang]] at [[Pénding]], costing three wounded against ten of the attackers killed; but some thirty-eight ill-disposed men were killed that month and a number submitted voluntarily. At the end of November [[H. N. A. Swart]] visited the district and could already visit *gampongs* two hours from Blang Kedjerèn without military escort.
+
+## The distinctive character of Gajò resistance
+
+The *[[Koloniaal Verslag]]* for [[1910]] gave a new insight: "more and more it has become apparent that in the Gajò Loeös both the cause and the organisation of the resistance are of a different nature than in the Acehnese territories. Whereas in the latter religious fanaticism plays a part, in the [[Gajò Loeös]] the resistance is waged chiefly by an innate love of independence in the Gajò population."
+
+"The foundation of Gajò society is the tribal bond; mutual deliberation within the *[[blah]]* (clan) is the only source of authority. Those who have gone over to the resistance do not break the bond with the clan; they take part in the common deliberation and are more or less bound by its outcome. Since those in resistance from each clan belong together, there ought to be as many bands as there are clans with men in resistance, which at the beginning of the year was virtually the case. When the bands became too weak to lead an independent existence, those of different clans belonging to the same clan headship joined together. Since the tribal bond is predominant, every clan that counts men in resistance is in its majority hostile to us. Whether the centre of gravity of the clan lies in the village or in the mountains depends on the number and character of the clansmen in resistance, from which it follows that in the Gajò Loeös the first step on the road to pacification must be to bring the centre of gravity of all the clans within reach of the administration, that is, within the villages."
+
+Once that was done, the *uitgewekenen* could be brought to submission by pressure on the registered — pressure first of a moral kind, and if that did not help, by measures of compulsion such as requiring a security. "Here, therefore, the resistance must be dealt with in quite a different way than in the rest of Atjeh."
+
+The Gajò *ödöt* (*[[adat]]*) of allowing all interested parties a voice in every weighty decision meant that mutual deliberation took a great deal of time.
+
+## The pacification, 1910–1912
+
+In [[1910]] the Kaniess column brought many from the [[Padang-vallei]] to submission, returned from a temporary rest at [[Koeta Radja]] on [[25 August]] and at once laid low by surprise the irreconcilable [[Imeum van Tjané Toa]]. Since women were repeatedly hit in raids, a *hoofdenvergadering* in March was charged with letting the wives of the *uitgewekenen* know that they should not wear men's clothing and should not run away during a raid.
+
+On [[20 September]] the hiding-place of old [[Rödjö Pasér]] with his religious men was raided; among seven killed were the two principal Teungkoes and two feared commanders of [[Reröbö]]; shortly after, [[Tgk. Kalipah]], principal resistance leader of [[Penosan]], was rendered harmless; in October the Penosan band was attacked and Tgk. Kalipah's brother killed. The column [[F. Darlang|Darlang]] held the [[Péndéngvallei]], so that [[Lebé Grondong]] moved to neighbouring sub-divisions. Total losses that year: 141 killed, nine prisoners, 302 submissions; 216 *uitgewekenen* remained.
+
+[[1911]] brought steady submissions — twenty-two of Penosan in January with all their *panglimas*, twenty-five of [[Pasér]] and [[Reröbö]] in February — and in March the apparent end of Lebé Grondong, surprised between [[Tampor]] and [[Lésten]] by a brigade under sergeant [[Wisse]] with a haul of one M.95 rifle, a Mauser repeating rifle, a Beaumont and a Mauser self-loading pistol. The same month brought the murder of [[Rödjö Kemala]] at the instigation of his kinsman [[Taib|Si Taib]], and Taib's escape from the transport escort at Lésten and death, wounded and starving, on the twenty-sixth.
+
+In April Swart visited the division, inspected *gampongs* and held a great meeting with the *blah*-heads; the Kaniess column returned to garrison, its task fulfilled. In May the [[Kedjoerön Petiambang]] and fourteen prominent chiefs visited the fair exhibition at Koeta Radja under [[W. Muurling|Muurling]]'s leadership, and there [[Rödjö Tjoet Pasér]] with his *panglimas* and the *blah*-heads of Pasér and Reröbö solemnly begged the Governor's forgiveness. In September came news that Lebé Grondong was *not* dead: he had toured the Gajò Loeö during the *hari raja* feasts extorting from the population, had obtained two carbines on the death of the resistance head of [[Badaq]], and in October murdered [[Rödjö Akoeb]] of Penosan in revenge for his journey to Koetaradja — though he handed in a *panglima*, a *goeroe* and a carbine.
+
+In [[1912]] both Lebé Grondong and [[Tgk. Moedö Koetö Serei]] submitted, so that only [[Pang Manap]] with eight followers remained; Pang Manap was laid low in October [[1913]] in an encounter with police *oppassers* and the population.
+
+## Administration
+
+In the [[Administrative Division of Atjeh (1908)|administrative division of 1908]] the Gajò Loeös formed part of the *afdeeling* [[Bambél]] with the [[Alaslanden]] and [[Singkel]]. In [[1910]] Bambél was abolished; Singkel was joined to the [[Westkust van Atjeh|Westkust]] and the Gajò Loeös and the Alaslanden became independent *afdeelingen*, each under an officer-*gezaghebber*. In the Gajò and Alas lands the imposition of fines or securities on political units remained permitted after [[1910]], "where a lively and living solidary responsibility exists."
+
+The [[Gajòweg]] — the road through heavy mountain terrain to the interior — was built during Swart's governorship and brought into order for motor traffic; [[Kr. Seumpo]] was reached by motorcar along it for the first time in October [[1911]].
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -52,9 +90,21 @@ The Bureau's account also notes that the Sumatra road plan included a separate p
 - [Heinzenknecht](/people/heinzenknecht)
 - [[Datoek]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
+- [[Gajòs]]
+- [[Blang Kedjerèn]]
+- [[Meergebied]]
+- [[W. Muurling]]
+- [[Kaniess]]
+- [[Lebé Grondong]]
+- [[Pang Manap]]
+- [[Gotfried Coenraad Ernst van Daalen]]
+- [[The resistance in Atjeh 1908–1912]]
+- [[Blah]]
 
-## Sources
+## Source
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn* and the chapter on den zieleherder.
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 53–56 (section "De aanleg van wegen op de Buitenbezittingen").
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, p. 19; Chapter XI, pp. 112–115; Chapter XIII, p. 136.

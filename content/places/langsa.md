@@ -1,7 +1,7 @@
 ---
 title: "Langsa"
-aliases: ["Langsa", "Langsar", "Koewala Langsa", "Koeala Langsa", "Langsa Estate", "haven van Langsa", "the harbour of Langsa", "Langsa town", "East Coast Atjeh", "Kuala Langsa", "Kwala Langsa", "havenplaatsje of Langsa", "Langsa harbour", "Langsa hoofdplaats", "Langsa onderafdeeling", "Langsa-baai", "stad Langsa"]
-tags: [place, hoofdplaats, oostkust, colonial, dutch, buitenbezittingen, tramway, rubber, town, langsa, oostkust-van-atjeh, atjeh, border-region, harbour, achehnese, steiger, paketvaart, underafdeeling, waterleiding, artesian-boring, gouvernements-rubberonderneming]
+aliases: ["Langsar", "Koewala Langsa", "Koeala Langsa", "Langsa Estate", "haven van Langsa", "the harbour of Langsa", "Langsa town", "East Coast Atjeh", "Kuala Langsa", "Kwala Langsa", "havenplaatsje of Langsa", "Langsa harbour", "Langsa hoofdplaats", "Langsa onderafdeeling", "Langsa-baai", "stad Langsa"]
+tags: [place, hoofdplaats, oostkust, colonial, dutch, buitenbezittingen, tramway, rubber, town, langsa, oostkust-van-atjeh, atjeh, border-region, harbour, achehnese, steiger, paketvaart, underafdeeling, waterleiding, artesian-boring, gouvernements-rubberonderneming, aceh, administration]
 ---
 
 **Langsa** was the hoofdplaats of the [[Afdeeling Oostkust van Atjeh|Afdeeling Oostkust van Atjeh]] and, by [[1917]], the second city of the *gewest* — the trade-centre of the great European rubber, tobacco, and petroleum cultures of the eastern lowlands and the natural rival of [[Koeta Radja|Koeta Radja]] for commercial primacy in the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* describes Langsa as the place where, after the *pacificatie* under [[H. N. A. Swart|Swart]], "eene jonge, frissche handels-energie" unfolded, transforming a town "als het ware uit den moerassigen bodem gestampte stad" — a city, as it were, hammered out of the swampy ground — into the principal European centre of the eastern coast.
@@ -99,7 +99,6 @@ The oldest estate in Langsa is the *gouvernements rubberonderneming* — the gov
 
 Langsa is the type-figure of the planned colonial *hoofdplaats* of the eastern coast — roomy, regular, and quiet, with a deep harbour, an artesian-water problem, a government rubber-estate on peat, and a trade that has been diminished by the depression of the early 1920s. It is also the centre of the patchouli-oil industry of the eastern coast: one of the four patchouli-distilleries of Atjeh in [[1931]] stood near Langsa.
 
-
 ## Account from *Een strijd in Atjeh* ([[1934]])
 
 Langsa appears in *[[Een strijd in Atjeh (1934)]]* as the place where the ophthalmologist [[J. Tijssen|Dr. J. Tijssen]] spent sixteen years as a *plantersdokter* (plantation doctor) before the [[Cataract campaign on the North Coast of Atjeh (1932)|village campaigns]] that made his name.
@@ -109,6 +108,10 @@ The account states: "Zestien jaar plantersdokter in het Zuiden van Atjeh. Langsa
 It was at Langsa, the pamphlet continues, that Tijssen encountered the blindness that determined his later work: "Gelijk die vóór hem, die na hem, heeft hij er blinden gezien." — Like those before him and those after him, he saw blind people there. From Langsa he went to [[Leiden]] to work as assistant to [[Prof. van der Hoeve]], and returned to Atjeh in [[1929]] — "Niet naar het hospitaal" — to begin the *kampong* work described in the three letters.
 
 The Langsa years are thus the origin of the whole enterprise recorded in the pamphlet, and the source of Tijssen's contention that the Acehnese "komt maar hoogst zelden in het hospitaal," — comes only very rarely into the hospital, fearing the isolation of the hospital rather more than intimacy with death, and dying well provided he might die in a *[[Kampong|kampong]]* among his own people.
+
+## Account in du Croo’s Generaal Swart (1943)
+
+Then I went at once by tram with Colijn eastward as far as Langsa, to get an impression for myself. The financial prosperity of the sub-division treasuries of [[Tamiang]] and Langsa was founded on the estate area created on the east coast after [[1910]]. In [[1917]] an Acehnese in a fit of religious mania attacked Messrs [[Jahnke]] and [[Roberecht]] at Langsa; Jahnke died of his injury.
 
 ## See Also
 
@@ -140,7 +143,6 @@ The Langsa years are thus the origin of the whole enterprise recorded in the pam
 - [[Koeala Langsa]]
 - [[Koeala Simpang]]
 - [[Koeta Radja]]
-- [[Koeta-Radja]]
 - [[Kon. Paketvaart]]
 - [[Langsa (landschap)]]
 - [[Noord-Sumatra (proposed gewest)]]
@@ -156,8 +158,11 @@ The Langsa years are thus the origin of the whole enterprise recorded in the pam
 - [[Tamiang]]
 - [[Van der Plas]]
 - [[Verkenningen in Atjeh (1923)]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 69 (section "De Atjeh-tram").
 
@@ -174,3 +179,5 @@ The Langsa years are thus the origin of the whole enterprise recorded in the pam
 *Een strijd in Atjeh (Een oogarts op het oorlogspad)*, door Mr. C. Graadt van Roggen, met een voorrede van den heer H. Wanting, redacteur *Nieuwe Rotterdamsche Courant* (Rotterdam: N.V. Drukkerij Korteweg, uitgave van de Vereeniging „SIMAVI”, [[1934]]), pp. 3–4.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IX, XII, XIII.

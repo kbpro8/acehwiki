@@ -1,29 +1,26 @@
 ---
-title: Teukoe Oemar
-aliases: [Teukoe Oemar, Teuku Umar, T. Oemar, The Cunning Adventurer, Teukoe Johan, Teuku Johan, "Tjut Meutia's husband", Teuku Uma, Tuku Umar, Toekoe Oemar, the betrayal of Toekoe Oemar, Panglima Toekoe Oemar, T. Djohan, Toekoe Djohan Pahalawan, Toekoe Melaboeh, T. Oemar Melaboch, Teungkoe Oemar, Teukoe Oemar Keumangan, Oemar Keumangan, oeléebalang of Keumangan, Teukoe Oemar van een oud en aanzienlijk geslacht]
-tags: [person, acehnese, achehnese, resistance, aceh, turncoat, aceh-war, military-leader, colonial, "19th-century", traitor-or-patriot, military, sultanate, religious, succession, defection, oeleebalang, keumangan, pidie, bengaleesche-afkomst, houtsnijkunst]
+title: "Teukoe Oemar"
+aliases: ["Teuku Umar", "T. Oemar", "The Cunning Adventurer", "Teukoe Johan", "Teuku Johan", "Tjut Meutia's husband", "Teuku Uma", "Tuku Umar", "Toekoe Oemar", "the betrayal of Toekoe Oemar", "Panglima Toekoe Oemar", "T. Djohan", "Toekoe Djohan Pahalawan", "Toekoe Melaboeh", "T. Oemar Melaboch", "Teungkoe Oemar", "Teukoe Oemar Keumangan", "Oemar Keumangan", "oeléebalang of Keumangan", "Teukoe Oemar van een oud en aanzienlijk geslacht", "Panglima Prang Besar", "Teukoe Oemar van Meulaboh"]
+tags: [person, acehnese, achehnese, resistance, aceh, turncoat, aceh-war, military-leader, colonial, 19th-century, traitor-or-patriot, military, sultanate, religious, succession, defection, oeleebalang, keumangan, pidie, bengaleesche-afkomst, houtsnijkunst, oelèëbalang, westkust]
 ---
+
 **Teukoe Oemar** (also rendered **Teuku Umar**) was an Acehnese military leader and chief whose defection from the colonial army on [[29 March]] [[1896]] — the *verraad van Toekoe Oemar* — is identified by two colonial sources as one of the defining events of the [[Atjeh-oorlog|Aceh War]]. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), he is "the cunning adventurer" whose defection opened the critical days that preceded the glorious period of [[Joannes Benedictus van Heutsz|Van Heutsz]]; in the Encyclopaedisch Bureau's *De Buitenbezittingen 1904 tot 1914* ([[1917]]), his betrayal is the originating event of the "new direction" in Dutch policy that would lead to the [[Pacificatie van Atjeh|complete pacification of Atjeh]] and the wider extension of Dutch "effective authority" across the outer possessions.
 
 In Kruisheer's *ATJEH '96* (1913), Teuku Umar — also written in the source as *Toekoe Oemar*, *T. Djohan*, *Toekoe Djohan Pahalawan*, and after his defection *Toekoe Melaboeh* — is further identified as an [[Achehnese]] military leader and [[hoeloebalang]] (hereditary territorial chief) of [[Lepong]] whose defection from the [[Dutch]] colonial government on [[29 March]] [[1896]] triggered the collapse of the [[buitenlinie]] (outer line) and the second great crisis of the [[Aceh War|Atjeh-oorlog]]. Previously appointed [[Panglima Prang Besar]] (war commander-in-chief) of the Government on [[5 September]] [[1893]] and armed with Dutch weapons to lead a native auxiliary *legioen* (legion) against the recalcitrant [[Lamkrak]] mukims, Umar turned his Dutch-supplied arms against his patrons in the spring of [[1896]], writing three letters to the [[Governor of Atjeh]] explaining his defection and demanding ƒ150,000 per month and a Royal decoration.
 
 ## The Defection of 29 March 1896
 
-
 "But after the defection of the cunning adventurer Teukoe Oemar on 29 March 1896, critical days began." After the defection of the cunning adventurer Teukoe Oemar on [[29 March]] [[1896]], critical days began. The defection of Teukoe Oemar — the Acehnese chief who had been allied with (or in the service of) the colonial army and who, on [[29 March]] [[1896]], defected — is the book's marker of the critical days that followed the Graafland era. The defection is the book's — and the colonial army's — crisis: the Acehnese chief who had been the colonial army's ally became its enemy.
 
 ## The Cunning Adventurer
-
 
 The book's characterisation of Teukoe Oemar — "the cunning adventurer" — is the book's — and the colonial memory's — judgement on Teukoe Oemar: the Acehnese chief who had been the colonial army's ally was, in the colonial memory, a cunning adventurer — a man whose defection was the act of an adventurer, not the act of a principled resistance fighter of the holy war. The characterisation is the book's marker of the colonial memory's interpretation of Teukoe Oemar: the defection was the act of a cunning adventurer, not the act of a holy war resistance fighter.
 
 ## Falling in Battle
 
-
 "Teukoe Oemar fell long before [the Datoek's time], in Aceh." Teukoe Oemar fell long before [the Datoek's time], in Aceh. The falling in battle of Teukoe Oemar — the book's marker that he died in the [[Atjeh-oorlog|Aceh War]] — is the book's — and the Datoek's — memory of the Acehnese chief: the cunning adventurer who had defected on [[29 March]] [[1896]] and who fell long before in Aceh.
 
 ## Account from *De Buitenbezittingen* (1917) — Toekoe Oemar
-
 
 The Encyclopaedisch Bureau's volume *De Buitenbezittingen 1904 tot 1914* frames the betrayal of [[Toekoe Oemar|Toekoe Oemar]] in [[1896]] as one of three milestone moments — alongside the [[1894]] subjection of [[Lombok]] and the [[1902]] turn toward active policy in [[Djambi]]/[[Koerintji]] — that opened the era of Dutch "effective authority" across the outer possessions. The Bureau's administrative-history chapter dates the "ommekeer in de politiek ten aanzien van de Buitenbezittingen" (about-turn in policy toward the Buitenbezittingen) from these three moments, writing that "in [[1896]], after the betrayal of Toekoe Oemar, a new direction was inaugurated in our policy in Atjeh, which would lead to the complete pacification of that territory."
 
@@ -31,31 +28,25 @@ The Bureau's chapter on the [[Atjeh-tram|Atjeh-tramway]] links [[Toekoe Oemar|To
 
 ## The Sequence: Graafland, Teukoe Oemar, Van Heutsz
 
-
 The book's sequence is: the Graafland era (when the concentrated line was abandoned and the Marechaussee went over to the offensive) — "But after the defection of the cunning adventurer Teukoe Oemar on 29 March 1896, critical days began" — "After that came the glorious period of Van Heutsz, the time of the great expeditions and excursions." Teukoe Oemar's defection is therefore the book's marker of the critical days between the Graafland era and the glorious period of Van Heutsz: the crisis that preceded the glorious period.
 
 ## Significance
-
 
 Teukoe Oemar is significant across two distinct colonial framings of the [[Atjeh-oorlog|Aceh War]]. In *[[Oost-Indisch Journael]]*, he is the Acehnese cunning adventurer whose defection on [[29 March]] [[1896]] opened the critical days between the Graafland era and the glorious period of [[Joannes Benedictus van Heutsz|Van Heutsz]] — the book's marker of crisis and transition. In the Encyclopaedisch Bureau's *De Buitenbezittingen*, his *verraad* is the originating event of the entire post-[[1896]] Dutch strategic reorientation: the act that triggered the dismantling of the [[Postenlinie|postenlinie]], the abandonment of the [[Ceintuur-trambaan|belt-tramway]], and the inauguration of the new policy that led to the [[Pacificatie van Atjeh|complete pacification of Atjeh]] and the wider extension of Dutch authority across the Buitenbezittingen. The Bureau's choice of the word *verraad* (betrayal) places the Dutch interpretation firmly on the surface of the account; the same act, viewed from the Atjehnese side, was an act of patriotic resistance — a fact the Bureau's account does not foreground but which the very prominence of the *verraad* in the Dutch narrative indirectly confirms.
 
 ## Account from *Als officier van gezondheid naar Nederlandsch-Indië* (Wøller) — the ally who defected
 
-
 Dr. [[Johan Wøller]], recalling the [[Aceh War]] from his posting at [[Kotta Loempoer]] around [[1905]], described Toekoe Oemar as "one of the foremost chiefs, who for years had been a 'loyal' ally, with all his troops, who had been well provided with weapons by the Dutch, went over to the enemy." Wøller places the episode "in the years between '90 and 1900," at the height of a crisis in which "it looked as if a struggle and effort of twenty years was wasted" — a low point resolved only by the appointment of [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] as governor in 1898.
 
 ## Account from *Dispereert Niet Vol. XI* (1946) — Teukoe Oema
-
 
 **Teukoe Oema** (also known as **Teukoe Johan**) was an Acehnese guerrilla leader who played a central role in the **[[Aceh War]]** from the [[1880s]] until his death in [[1899]]. His career was marked by dramatic defections, shifting allegiances, and a guerrilla campaign that frustrated Dutch military efforts and made him one of the most famous—and controversial—figures in the conflict.
 
 ### Background
 
-
 Teukoe Oema emerged as a leader of the Acehnese resistance during the period of Dutch "concentration" ([[1884]]–[[1896]]), when Dutch forces were largely confined to the **[[Geconcentreerde Linie]]** around **[[Kutaradja]]**. He gained prominence through his successful attacks on Dutch positions and his effectiveness in collecting tribute from coastal communities.
 
 ### The Piracy Incident and Defection
-
 
 In [[1896]], Teukoe Oema was involved in the ransom of crew members from two British ships that had been captured by Acehnese pirates. The ransom—$25,000 Straits dollars for one ship and $100,000 for the other—was paid to Teukoe Oema, making him one of the best-funded resistance leaders.
 
@@ -63,23 +54,19 @@ Shortly afterward, Teukoe Oema offered to submit to Dutch authority, promising t
 
 ### The Betrayal
 
-
 In **[[March]] [[1896]]**, Teukoe Oema was preparing for another expedition. Against the advice of several officers, the Dutch governor supplied him with 1,000 rifles, ammunition, opium, and money. That same night, Teukoe Oema—still known as "Johan"—fled with his followers and resumed the war against the "Keumpenie" (Company).
 
 His betrayal was a severe blow to Dutch prestige. The weapons he received were used against Dutch troops, and the territories he had "pacified" immediately rose in revolt.
 
 ### The Final Campaign
 
-
 Teukoe Oema became even more popular among his compatriots after his betrayal. He continued his guerrilla campaign, leading attacks on Dutch positions throughout Greater Aceh. However, the arrival of **[[Joannes Benedictus van Heutsz|J. B. van Heutsz]]** in [[1898]] and the adoption of mobile *marechaussee* tactics made his position increasingly precarious.
 
 ### Death
 
-
 Teukoe Oema was killed in a *marechaussee* ambush in [[1899]]. His death was a significant blow to the Acehnese resistance, though the conflict would continue for several more years.
 
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
-
 
 [[H.C. Zentgraff|Zentgraff]] calls Teukoe Oemar the *"Heer der westelijke zee"* (Lord of the Western Sea) and the third husband of [[Tjoet Nja Din]]. He stands at the centre of the great confusion of [[1896]]–[[1897]].
 
@@ -93,11 +80,9 @@ In [[February]] [[1899]] T. Oemar was killed near [[Meulaboh]]. Zentgraff credit
 
 ## Account from Kruisheer's *ATJEH '96* (1913) — Comprehensive Spring 1896 Account
 
-
 Kruisheer's *ATJEH '96* provides the most detailed and operationally specific account of Umar's defection and its immediate military consequences. The account traces Umar's rise under Dutch patronage, the defection itself, the three explanatory letters, the Government Resolution dismissing him, and the Dutch counter-offensive which culminated in the [[Three-day Dutch offensive of 23–25 May 1896|three-day offensive of 23–25 May 1896]] against his stelling at [[Lam-Pisang]].
 
 ### Background and Rise under Dutch Patronage
-
 
 Before his defection, Umar was the linchpin of the Dutch policy of binding chiefs through salaries and arms in [[Groot-Atjeh]]. His wife, [[Tjoet Nja Din]], was the daughter of [[Toekoe Nanta Tocha]] of the [[VI Moekims]], and she "continuously urged Oemar to resist the government" — a pressure which Kruisheer notes "*just as zij zelve dat later nog lang volhield*" (as she herself continued to do for a long time afterward). Umar rendered his first important services to the colonial administration in [[August]] [[1893]] by the clearing of the XXV Mukims, and on [[30 September]] [[1893]] he took an oath of loyalty with fifteen of his panglimas before being permitted to raise a paid legion of 250 men under three blood-relative commanders and forty panglimas. The Government Resolution (*Gouvernementsbesluit*) of [[5 September]] [[1893]], No. 1 geheim, formally authorized his appointment under the name *Toekoe Djohan Pahalawan en Panglima Prang besar*, and on [[21 October]] [[1893]] he was given additional leadership of the [[XXVI Moekims]]; on [[30 November]] [[1893]] he led the conquest of [[Ana' Galong]], the post "considered by the Acehnese as the heart of Great Aceh". A further Government Resolution of [[19 January]] [[1896]], No. 9, appointed him hoeloebalang of the *landschap* [[Lepong]].
 
@@ -105,13 +90,11 @@ Umar's cooperation with the Dutch was not, however, without friction. He refused
 
 ### The Defection of 29 March 1896
 
-
 The actual defection occurred on [[29 March]] [[1896]]. Reports from [[Toekoe Tjoet Lamtengah]] and other informants confirmed that Umar had carried his Dutch-supplied weapons to the enemy, and his simultaneous ally [[Toekoe Hoesin Lhongbatta]] took with him the "doubtful-minded regions" of [[III Moekims Lamrebo|3 Moekims Lamrebo]], [[III Moekims Ateuh|4 Moekims Ateuh]] of the sagi of XXVI Moekims, and the moekims [[Hoho]] and [[Lam-Djampoe]] of the [[V Moekims Montassik]]. Within days, the Dutch buitenlinie collapsed: the posts at [[Biloel]] and [[Lam-Koenjit]] were besieged, the blokhuizen (blockhouses) of [[Aloer Oe]] and [[Toei Selimbing]] were surrounded, and the blockhouses east of the concentrated line became untenable. Toekoe Nja Itam reported the news of the defection at 1:30 PM on [[30 March]] [[1896]], and [[Toekoe Nja Banta]] — sagihoofd der XXVI Moekims — brought the formal report to Lam-Koenjit at 7:30 PM that evening, accompanied by 1e Luit. Neelmeijer and a population patrol.
 
 Umar now established his stelling (defensive position) at [[Lam-Pisang]] and built small fortifications at [[Pasar Oleh-Gli]] near [[Pakan Badak]], [[Lam Asan]], [[Adjoen Tebal]], and in the direction of [[Lam Bada]]-[[Lam Tengah]]. He withdrew his valuables to [[Lepong]], [[Naga Oembang]] and other hiding places, granted twenty Chinese safe conduct past Pakan Badak, and sent summons to various heads to come to Lam-Pisang (the [[waarnemend oeloebalang]] (acting territorial chief) [[Toekoe Nja Mohamad]] of the [[IX Moekims]] refused, withdrawing instead to his fortified home at [[Toebaloe]]). By around [[10 April]] [[1896]] Umar disposed of about 1,000 men drawn from [[Lampoe's Oe]] and Lepong, of whom roughly 500 carried *geweren* (rifles); he feared a marine bombardment of Lepong more than a land incursion into the VI Moekims, and he now actively sought cooperation with [[Panglima Polim]] of the [[XXII Moekims]].
 
 ### The Three Letters and the Dismissal of 26 April 1896
-
 
 Umar wrote three letters explaining his defection: the [[Teuku Umar's first letter to the Governor of Atjeh (30 March 1896)|first]] dated from Lampisang on [[30 March]] [[1896]]; the [[Teuku Umar's second letter to the Governor of Atjeh (12 April 1896)|second]] dated [[29 Sawal]] 1313 / [[12 April]] [[1896]]; and the [[Teuku Umar's third letter to the Governor of Atjeh (23 April 1896)|third]] dated [[1 Dsoelkaidah]] 1313 / [[23 April]] [[1896]]. His principal grievances were alleged insults by the [[Controleur te Oleh-leh]] and the *hoofddjaksa* [[Mohamad Arief]] at Koeta-Radja, who, he complained, had treated his older brother [[Toekoe Nja Mohamad]] "as resembling a karbouw (water buffalo)" at Pakan Badak, and had kicked the imams of [[Goerah]] and [[Lamtengah]] (VI Moekims) in public. He also lamented the "disappointment over an expected knighthood" — a Royal decoration (*kruis*) which he claimed [[C. Deykerhoff|Deijkerhoff]] had promised him — and demanded ƒ150,000 monthly to pay his warriors, the exclusion of *oeloebalangs* from military affairs, the succession of his son as Panglima Prang, the cession of the land of [[Selimoen]] before he would appear, the signature of the [[Governor-General]] at [[Batavia]], and even a declaration by the Queen of the Netherlands, the Governor-General, the Governor of Atjeh, and the European princes via their consuls. He named his former clerk, the Maleier [[Soetan Ali]], as his authorised intermediary.
 
@@ -119,13 +102,11 @@ The Dutch government reacted firmly. By [[Government Telegram]] of [[26 April]] 
 
 ### The Dutch Counter-Offensive and Aftermath
 
-
 The Dutch response unfolded over the next two months. Lt.-Gen. [[J. A. Vetter|Vetter]] arrived on [[7 April]] [[1896]] aboard the steamer *Carpentier* with the [[9e Bataljon]] and relieved [[C. Deykerhoff|Deykerhoff]] of his functions; on [[8 April]] [[1896]] he issued secret operational instructions for the relief of Biloel and Lam-Koenjit. The sieges were broken, both posts were evacuated and burned on [[12 April]] [[1896]], and the buitenlinie was progressively dismantled through April. A series of *tuchtigingen* (punitive expeditions) followed against the regions that had joined Umar: the [[tuchtiging van Lam Goet (14 April 1896)|tuchtiging of Lam-Goet]] on [[14 April]] [[1896]] (residence of [[Toekoe Hoesin Lhongbatta]]); the [[Battle of Senelop (17 April 1896)|battle of Senelop]] on [[17 April]] [[1896]] (in which [[Habib Lhong]] was killed); and the [[night surprise of Benting Batoe (28–29 April 1896)|night surprise of Benting Batoe]] on [[28 April|28]]–[[29 April]] [[1896]] against the fortress of [[T. Tjoet Toengkoeb]]. The culminating effort was the [[Three-day Dutch offensive of 23–25 May 1896|three-day offensive of 23–25 May 1896]], in which four Dutch colonnes under [[J. W. Stemfoort|Kolonel Stemfoort]] stormed the stelling of Lam-Asan, Lam-Pisang, Tjot Tjako, Boekit Seboen, Lam-Tjroeng and Lam-Poelau; Umar's house at Lam-Pisang was captured on [[24 May]] [[1896]] (with 1e Luit. [[M. D. J. de Jongh|de Jongh]] officially the first to reach Umar's *verblijf* at 10:35 AM), his correspondence was seized, and Lam-Pisang was destroyed by *genietroepen* (engineers) with dynamite, teer (tar) and petroleum.
 
 Although Umar himself fled to the *dal* (valley) of [[Lamtih]] at the border of Lepong and [[Lohong]], the campaign inflicted severe losses. By [[28 May]] [[1896]] a Government telegram reported that his brother [[Toekoe Mançoer]] and many sub-commanders — including [[Ketjig Bintang van Lam Loempoer]], formerly designated as Umar's successor as commandant of the legion — had been killed, with rumours of 270 dead and 130 severely wounded among Umar's own people (though Kruisheer judges these "probably exaggerated"). Vetter's *dagorder* (order of the day) of [[26 May]] [[1896]] expressed satisfaction at the success against "Toekoe Oemar's sterke, geoefende, goed versterkte en goed bewapende bende" (strong, trained, well-fortified and well-armed band). On [[20 June]] [[1896]] Umar reportedly held a *chandoeri* (feast) at Lepong to appoint new panglimas and prayed for Allah's blessing on his weapons. Marine bombardments of Lepong on [[25 May]] and on [[4 May|4]]–[[5 June]] and [[8 June|8]]–[[9 June]] [[1896]] were intended to make his stay untenable, and on [[23 June]] [[1896]] three of his men from Lam-Tengah defected to the Dutch, bringing a Beaumont *geweer* and *patronen* (cartridges). The balso closes with Umar still at large in Lepong, his military power broken but his resistance continuing.
 
 ### Significance (per *ATJEH '96*)
-
 
 Teuku Umar's defection was the pivotal event of the first semester of [[1896]] in the [[Aceh War|Atjeh-oorlog]]. It transformed what had been a counter-insurgency campaign fought with native auxiliaries into a conventional war against a unified Achehnese enemy armed with Dutch weapons, and it triggered the dispatch of a Regeeringscommissaris, the dismissal of the sitting Civil and Military Governor, and the wholesale reorganisation of the Dutch line. The *Koloniaal Verslag* quoted by Kruisheer observes that "Waar de afval van Tockoe Djohan, aanstonds tot so ver strekkende gevolgen aanleiding gaf, dat al het sedert 1893 verkregene, was, as it were, set on loose screws, moest wel ernstige twijfel rijzen, of de Civiele en Militaire Gouverneur den toestand te voren wel inderdaad juist beoordeeld had" — a verdict which damnably encapsulates the colonial establishment's retrospective judgement of the failed Umar policy. The episode also marked the maturation of the young Lt.-Col. [[J. B. van Heutsz|Van Heutsz]], who would later become the "Pacifier of Aceh", and the early combat service of [[G. C. E. van Daalen|Van Daalen]] and [[Jhr. G. J. W. C. H. Graafland|Graafland]], who would dominate the next phase of the war.
 
@@ -135,18 +116,45 @@ Teuku Umar's defection was the pivotal event of the first semester of [[1896]] i
 
 ### The New Atjehnese House
 
-
 Within the yard Teukoe Oemar has built a new house in the Atjehnese style, entirely decorated with carving and with the mouldings picked out in colours. Here he receives; but in the garden stand several older Atjehnese dwellings for the family. The construction of the new house has, at least for a few years, revived the art of wood-carving in this region. That art had greatly declined, as had also the gold- and silver-smith's craft of the men and the weaving of fine cloths by the women.
 
 ### The Great *Landschap*
-
 
 Keumangan is one of the two great *landschappen* of the eastern part of the [[Pidië|vallei of Pidië]], the other being [[Pidië (landschap)|Pidië]] itself. The two great chiefs were, of old, those of Pedir (Pidië) and of Keumangan; between them the predominance in the ancient region lay, and both wished to seize it. *'Maar het ging niet en nu is er al jaren een orde, waaraan allen zijn onderworpen'* — *But it did not succeed, and now for years there has been an order to which all are subject.* The great chiefs had their *toegerustingen* — their warlike preparations — and a dream reinforced the wish; but under the Dutch peace *'toegerustingen zijn verboden, wenschen zijn nutteloos, droomen zijn bedriegelijk'* — *preparations are forbidden, wishes are useless, dreams are deceptive.*
 
 ### Significance
 
-
 Teukoe Oemar is the type-figure of the old *aanzienlijk geslacht* of Pidië — a chief whose family had once competed for the predominance of the region and whose house-building has revived, at least temporarily, the declining art of Atjehnese wood-carving. His Bengali descent is a token of the long-standing trade-connection between the Pidië coast and the Bengal ports.
+
+## The Legioen
+
+[[C. Deijckerhoff|Deijckerhoff]], though a convinced adherent of the policy of conciliation, felt that complete inactivity could bring no solution. That feeling produced a proposal to the Government which was to lead to the disaster of [[1896]]: "the Acehnese resistance party would be fought by Acehnese well disposed towards us, equipped by us, armed by us and paid by us!"
+
+The Government accepted the proposal, and as commander of a Legion of Acehnese there appeared Teukoe Oemar, "an adventurer, coming from the West Coast (the Meulaboh region), related to the princely house there and indisputably *un*trustworthy."
+
+Although T. Oemar had repeatedly submitted and just as repeatedly attacked Dutch troops afterwards, Deijckerhoff continued to place rock-firm trust in him: "T. Oemar was appointed *[[oelèëbalang]]* of [[Leupoeëng]] ([[XXV Moekims]]) and in September [[1893]] even solemnly installed as Panglima Prang Besar (Great War Commander)."
+
+"It began very well: T. Oemar fought with success, and our authority was restored over the greater part of the territory."
+
+## The defection of 1896
+
+"And [[1896]] came — and Panglima Prang Besar T. Oemar went over to the resistance party with the Legion that we had armed and paid; Deijckerhoff had to resign, Van Heutsz got his long-awaited chance, and 'in [[1898]] the Netherlands is delivered from the Atjeh obsession; the paralysis that had held us captive for a quarter of a century yielded to the unbending will of one man'."
+
+Even [[1895]], the last year before Teukoe Oemar's defection, required a replacement draft of 6,069 men for the Indies army.
+
+## Pursuit and flight to the west coast
+
+The Dutch column at [[Lho' Nga]] attacked T. Oemar and drove him from [[Leupoeëng]], but his bands returned repeatedly, so that it lasted until [[1898]] before T. Oemar likewise withdrew to [[Pidië]] and joined [[Panglima Pòlém]] and the pretender-sultan [[Toeankoe Mochamad Dawot]]. Pidië then became the hearth of the resistance.
+
+On [[1 June]] [[1898]] the resistance centre [[Garot]] fell to van Heutsz after a bold storm; there the pretender-sultan, Teukoe Oemar, Panglima Pòlém and [[Teungkoe di Tjòt Plieng]], head of the *[[oelama]]* party, had gathered. T. Oemar was thereafter driven into the mountains and chose as his residence the supposedly unreachable [[Tangsé]]; when van Heutsz reached and occupied Tangsé by the famous turning movement through the gorge of the [[Kroeëng Beuniët]], "Teukoe Oemar too took his threatened person and his followers to safety on the West Coast."
+
+## Memory
+
+The population of [[Groot Atjeh]] had, [[Maurice Henri du Croo|du Croo]] noted in connection with the [[Resistance in Daja and Lhong (1914)|events of 1914]], "experienced no more resistance since the time of T. Oemar."
+
+## Significance (du Croo, 1943)
+
+Teukoe Oemar's defection was the event that discredited the whole policy of conciliation without power and made possible the appointment of van Heutsz, and thereby the entire course of Dutch policy in Atjeh from [[1898]] to [[1918]].
 
 ## See Also
 
@@ -274,8 +282,13 @@ Teukoe Oemar is the type-figure of the old *aanzienlijk geslacht* of Pidië — 
 - [[XXVI Moekims]]
 - [[night surprise of Benting Batoe (28–29 April 1896)]]
 - [[tuchtiging van Lam Goet (14 April 1896)]]
+- [[C. Deijckerhoff]]
+- [[Legioen van Teukoe Oemar]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Toeankoe Mochamad Dawot]]
+- [[Atjeh van 1890 tot 1898]]
 
-## Sources
+## Source
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder and the chapter *Jagerslatijn*.
 
@@ -290,3 +303,5 @@ Teukoe Oemar is the type-figure of the old *aanzienlijk geslacht* of Pidië — 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 14, 19–20, 27, 38, 42, 49, 57–60, 71–72, 82, 138, 141–145, 148, 156, 158, 165–166, 175, 181, 190, 192, 195, 213–225, 234, 281, 296, 319, 337–348.
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter XIII, *'Het groote rijstland Pidië'*, p. 93.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, pp. 16–19; Chapter V, p. 33; Chapter XII, p. 124.

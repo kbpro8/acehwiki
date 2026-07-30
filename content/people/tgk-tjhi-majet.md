@@ -1,15 +1,14 @@
 ---
-
-title: Tgk. Tjhi Majét
-aliases: [Tgk. Tjhi Majét, Tgk. Majét, Tngk. Tjhi Majét, Tngk. Tjhi Majét di Tiri, Tgk. Tjhi Majét di Tiri]
-tags: [person, religious-leader, acehnese, resistance]
+title: "Tgk. Tjhi Majét"
+aliases: ["Tgk. Majét", "Tngk. Tjhi Majét", "Tngk. Tjhi Majét di Tiri", "Tgk. Tjhi Majét di Tiri"]
+tags: [person, religious-leader, acehnese, resistance, achehnese, oelama, tiro, pidie, 20th-century]
 ---
 
 **Tgk. Tjhi Majét** — also *Tgk. Majét*, *Tngk. Tjhi Majét di Tiri* — was an Acehnese religious leader, the fourth son of *[[Teungkoe Sjech Saman di Tiri]]* and one of the two *voornaamste Teungkoes* of the *Tiriō bende*. He was killed in the chase that followed the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]]'s overval on the schuilplaats in [[May 1911]] — shot by the Menadonees [[Enoch]] — and his corpse was carried to [[Tangsé]] where the bevolking tore his bandages into hundreds of pieces as holy relics. He was the last of the four sons of Saman di Tiri to fall before the boy *[[Tgk. Tjhi Ma'at]]* (his nephew) became the final leader of the bende.
 
 ## The fourth son
 
-"Van de vier zoons van *[[Teungkoe Sjech Saman di Tiri]]* … Tngk. Tjhi Majét en Tgk. di Boekét." The fourth son of Saman di Tiri, Tjhi Majét was one of the two *voornaamste Teungkoes* of the bende (with *[[Tgk. di Boekét]]*). The eldest son had been killed at the [[Battle of Aneu Galong (1896)|defence of Aneu Galong]] in [[1896]]; *[[Tgk. Lambada]]* had been killed in a gevecht with a patrouille under *[[Luitenant Darlang|luitenant Darlang]]*; Tgk. di Boekét and Tgk. Tjhi Majét lived on as the two voornaamste Teungkoes.
+"Of the four sons of Teungkoe Sjech Saman di Tiri … Tngk. Tjhi Majét and Tgk. di Boekét." The fourth son of Saman di Tiri, Tjhi Majét was one of the two *voornaamste Teungkoes* of the bende (with *[[Tgk. di Boekét]]*). The eldest son had been killed at the [[Battle of Aneu Galong (1896)|defence of Aneu Galong]] in [[1896]]; *[[Tgk. Lambada]]* had been killed in a gevecht with a patrouille under *[[Luitenant Darlang|luitenant Darlang]]*; Tgk. di Boekét and Tgk. Tjhi Majét lived on as the two voornaamste Teungkoes.
 
 ## The killing (May 1911)
 
@@ -27,30 +26,9 @@ After the assault on the schuilplaats, *[[Tgk. di Boekét]]* — the other voorn
 
 Tgk. Tjhi Majét is significant in *[[Oom Ambon van het K.N.I.L.]]* as the fourth son of *[[Teungkoe Sjech Saman di Tiri]]* and one of the two *voornaamste Teungkoes* of the *Tiriō bende*. His death in [[May 1911]] — and the tearing of his relics at [[Tangsé]] — is the book's marker of the religious memory that the colonial army's killing of the resistance leaders could not extinguish. The small boy captured at the *levensgevaarlijke afdaling* — Tgk. Tjhi Majét's son — is the book's quiet pointer to the next generation: the boy who would, in turn, inherit the doctrine.
 
-## See Also
-
-- [[Teungkoe Sjech Saman di Tiri]]
-- [[Tgk. di Boekét]]
-- [[Tgk. Lambada]]
-- [[Tgk. Tjhi Ma'at]]
-- [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
-- [[Enoch]]
-- [[Tangsé]]
-- [Prang sabi](/concept/prang-sabi)
-- [Sjahid](/concept/sjahid)
-- [[May 1911]]
-
-## Source
-
-*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
----
-
-
-**Tgk. Tjhi Majét** — also *Tgk. Majét*, *Tngk. Tjhi Majét di Tiri* — was an Acehnese religious leader, the fourth son of *[[Teungkoe Sjech Saman di Tiri]]* and one of the two *voornaamste Teungkoes* of the *Tiriō bende*. He was killed in the chase that followed the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]]'s overval on the schuilplaats in [[May 1911]] — shot by the Menadonees [[Enoch]] — and his corpse was carried to [[Tangsé]] where the bevolking tore his bandages into hundreds of pieces as holy relics. He was the last of the four sons of Saman di Tiri to fall before the boy *[[Tgk. Tjhi Ma'at]]* (his nephew) became the final leader of the bende.
-
 ## The fourth son
 
-"Van de vier zoons van *[[Teungkoe Sjech Saman di Tiri]]* … Tngk. Tjhi Majét en Tgk. di Boekét." The fourth son of Saman di Tiri, Tjhi Majét was one of the two *voornaamste Teungkoes* of the bende (with *[[Tgk. di Boekét]]*). The eldest son had been killed at the [[Battle of Aneu Galong (1896)|defence of Aneu Galong]] in [[1896]]; *[[Tgk. Lambada]]* had been killed in a gevecht with a patrouille under *[[Luitenant Darlang|luitenant Darlang]]*; Tgk. di Boekét and Tgk. Tjhi Majét lived on as the two voornaamste Teungkoes.
+"Of the four sons of Teungkoe Sjech Saman di Tiri … Tngk. Tjhi Majét and Tgk. di Boekét." The fourth son of Saman di Tiri, Tjhi Majét was one of the two *voornaamste Teungkoes* of the bende (with *[[Tgk. di Boekét]]*). The eldest son had been killed at the [[Battle of Aneu Galong (1896)|defence of Aneu Galong]] in [[1896]]; *[[Tgk. Lambada]]* had been killed in a gevecht with a patrouille under *[[Luitenant Darlang|luitenant Darlang]]*; Tgk. di Boekét and Tgk. Tjhi Majét lived on as the two voornaamste Teungkoes.
 
 ## The killing (May 1911)
 
@@ -68,6 +46,10 @@ After the assault on the schuilplaats, *[[Tgk. di Boekét]]* — the other voorn
 
 Tgk. Tjhi Majét is significant in *[[Oom Ambon van het K.N.I.L.]]* as the fourth son of *[[Teungkoe Sjech Saman di Tiri]]* and one of the two *voornaamste Teungkoes* of the *Tiriō bende*. His death in [[May 1911]] — and the tearing of his relics at [[Tangsé]] — is the book's marker of the religious memory that the colonial army's killing of the resistance leaders could not extinguish. The small boy captured at the *levensgevaarlijke afdaling* — Tgk. Tjhi Majét's son — is the book's quiet pointer to the next generation: the boy who would, in turn, inherit the doctrine.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+With his death and that of [[Tgk. di Boekét]] the leadership of the Tirò band passed to the sixteen-year-old [[Tgk. Ma'at]], "the last surviving of the [[Tirò Teungkoes]]," who fell in December [[1911]].
+
 ## See Also
 
 - [[Teungkoe Sjech Saman di Tiri]]
@@ -80,7 +62,16 @@ Tgk. Tjhi Majét is significant in *[[Oom Ambon van het K.N.I.L.]]* as the fourt
 - [Prang sabi](/concept/prang-sabi)
 - [Sjahid](/concept/sjahid)
 - [[May 1911]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
+---
+
+**Tgk. Tjhi Majét** — also *Tgk. Majét*, *Tngk. Tjhi Majét di Tiri* — was an Acehnese religious leader, the fourth son of *[[Teungkoe Sjech Saman di Tiri]]* and one of the two *voornaamste Teungkoes* of the *Tiriō bende*. He was killed in the chase that followed the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]]'s overval on the schuilplaats in [[May 1911]] — shot by the Menadonees [[Enoch]] — and his corpse was carried to [[Tangsé]] where the bevolking tore his bandages into hundreds of pieces as holy relics. He was the last of the four sons of Saman di Tiri to fall before the boy *[[Tgk. Tjhi Ma'at]]* (his nephew) became the final leader of the bende.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI.

@@ -1,7 +1,7 @@
 ---
-title: T. Tjhi Bentara
-aliases: [Teukoe Tjhi Bentara, Tjhi Bentara, oeléëbalang baroh of Keureutoe, the new oeléëbalang]
-tags: [person, oeleebalang, aceh, aceh-war, keureutoe, 20th-century, dutch-appointee]
+title: "T. Tjhi Bentara"
+aliases: ["Teukoe Tjhi Bentara", "Tjhi Bentara", "oeléëbalang baroh of Keureutoe", "the new oeléëbalang", "the half-brother", "Tjhi' Béntara van Keureutòë"]
+tags: [person, oeleebalang, aceh, aceh-war, keureutoe, 20th-century, dutch-appointee, achehnese, oelèëbalang, noordkust]
 description: "Half-brother of T. Tjhi Toenong; appointed oeléëbalang of Keureutoe by the Dutch, weak and unpopular; temporarily removed 1905, restored November 1907; his son succeeded him but was suspended late 1936; uncle of T. Radja Sabi."
 ---
 
@@ -25,6 +25,26 @@ His son succeeded him as oeléëbalang of Keureutoe; but this young man, in the 
 
 T. Tjhi Bentara, Zentgraff writes, was the kind of compliant chief the Dutch bestuur preferred in the days of hasty pacification: weak, dependent, and therefore easily managed, but thereby also the trigger of much of the later resistance. The story of his nephew [[T. Radja Sabi|Radjā Sabi]] is in great part the story of the unpopularity of his appointment and of his half-brother's death.
 
+## The marriage and the succession
+
+T. Tjhi' Béntara was married to [[Tjoet Meutia]], "the beautiful, fierce Acehnese woman," daughter of an irreconcilable resistance leader. The marriage was repugnant to her: "the weak half-brother was no man for such a woman," so that she provoked the formula of repudiation and married Tjoet Moehamat, the future T. Tjhi' Toenòng.
+
+What the half-brother arranged as *oelèëbalang* below, "the upland man disarranged again."
+
+## Suspicion and temporary removal
+
+After the execution of T. Tjhi' Toenòng under [[Gotfried Coenraad Ernst van Daalen|Van Daalen]], his pregnant widow and his infant son [[T. Radja Sabi]] were the actual claimants to the *oelèëbalangschap*, which the population also accepted. "They turned against T. Tjhi' Béntara (she suspected, or was of course party to, the intrigue), who had temporarily to step down in view of popular indignation."
+
+He was restored to his function in November [[1907]] — whereupon [[Pang Nanggròë]] for his part proclaimed the six-year-old T. Radja Sabi *oelèëbalang* of Keureutòë, which drew new members to the band and raised his influence among the population.
+
+## Later
+
+In [[1916]] T. Tjhi' Béntara personally accompanied [[M. Schouten|Schouten]] and the *oelèëbalang* of [[Seuleuma]] to the meeting held "somewhere in the rimba* ("jungle")" in an attempt to bring in his wandering nephew.
+
+On [[13 March]] [[1919]] T. Radja Sabi, then eighteen and recognised at [[Lho' Seumawè]] by a former *kawan*, was brought to his uncle T. Tjhi' Béntara: "the wandering must now be at an end; he must report and submit."
+
+In [[1936]] the son of T. Tjhi' Béntara, who had proved a failure as *oelèëbalang*, was suspended; in [[1937]] T. Radja Sabi at last became *oelèëbalang* of Keureutòë.
+
 ## See Also
 
 - [[T. Tjhi Toenong]]
@@ -40,7 +60,12 @@ T. Tjhi Bentara, Zentgraff writes, was the kind of compliant chief the Dutch bes
 - [[1936]]
 - [[1937]]
 - [[Aceh War]]
+- [[Tjoet Meutia]]
+- [[M. Schouten]]
+- [[Oelèëbalang]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, pp. 94–95, 102; Chapter XI, p. 104.

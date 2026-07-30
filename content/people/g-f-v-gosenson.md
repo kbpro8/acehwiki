@@ -1,7 +1,7 @@
 ---
-title: G. F. V. Gosenson
-aliases: [Colonel G. F. V. Gosenson, Colonel Gosenson, Kolonel G.F.V. Gosenson, Gosenson, Territoriaal Commandant van Atjeh 1936-1942]
-tags: [person, dutch, military, colonial, knil, aceh, world-war-ii, pacific-war]
+title: "G. F. V. Gosenson"
+aliases: ["Colonel G. F. V. Gosenson", "Colonel Gosenson", "Kolonel G.F.V. Gosenson", "Gosenson", "Territoriaal Commandant van Atjeh 1936-1942", "G. F. P. Gosenson", "luitenant Gosenson", "kolonel Gosenson"]
+tags: [person, dutch, military, colonial, knil, aceh, world-war-ii, pacific-war, marechaussee, meulaboh, 20th-century]
 description: "Colonel of the Netherlands Indies Army (KNIL) infantry who served as Territoriaal Commandant van Atjeh from 31 May 1936 until his capture by the Japanese on 28 March 1942, the senior Dutch military commander in Aceh throughout the run-up to and the opening phase of the Japanese invasion of North Sumatra."
 ---
 
@@ -47,6 +47,16 @@ The Japanese landings of [[12 March]] [[1942]] at [[Kotaradja|Kotaradja]], [[Sab
 
 Gosenson's command is the hinge on which the [[Nederlands-Indië contra Japan|staff history's]] Atjeh narrative turns. He is presented as a competent, training-focused officer whose command was hollowed out by troop reductions he could not prevent, and whose February–March [[1942]] decision to arrest the eight chiefs — taken under the State of War and Siege but without positive proof of malicious intent — is presented as the impulsive act that finalised the Dutch loss of Atjeh. The staff history's postscript attributes the defeat to the under-strength force, the pre-invasion Atjehnese rising, and the demoralisation of the indigenous soldiers; but the command responsibility is fixed, by the structure of the narrative, on Gosenson. Piekaar's portrait of the "Atjèh officer of the old stamp" — strong in the personal political game, blind to the religious-political mass movements of the late 1930s — supplies the human frame for that command responsibility.
 
+## The attack of 29 December 1917
+
+Gosenson was returning with a few *marechaussée* from an elephant hunt undertaken at the request of the inhabitants of [[Goenòng Balè]] when he was attacked by some young Acehnese of [[Seunagan]]. He "was severely wounded in the action by a sabre stroke straight across the face, by which he remained disfigured for life, and by a cut across the thigh; he and his constabulary men, though all wounded, laid the three attackers low."
+
+The [[Attack on Gosenson at Djeuram (29 December 1917)|attack]] was, unlike most incidents of those years, genuinely political: the investigation led by [[H. J. Schmidt]] brought to light that the notorious [[Tgk. Poeti']] had organised it through a *krani* named [[Hamit]], intending to make resistance in Seunagan break out again. Tgk. Poeti' was arrested and banished; "order was not disturbed."
+
+## Significance (du Croo, 1943)
+
+[[Maurice Henri du Croo|Du Croo]] named "the sudden attack on Gosenson" with the [[Murder of Lieutenant-Colonel Scheepens (10 October 1913)|murder of Scheepens]] and the flaring of resistance in the [[Daja]] districts as one of the three heavy blows that [[H. N. A. Swart]] had to absorb alone at his high and lonely post, "but none of his people ever observed a wavering in his self-confidence, a disturbance of his composure, or a stiffening of his cheerfulness."
+
 ## See Also
 
 - [[Pauw]]
@@ -54,7 +64,6 @@ Gosenson's command is the hinge on which the [[Nederlands-Indië contra Japan|st
 - [[Bakongan uprising]]
 - [[Atjèh War]]
 - [[Takéngón]]
-- [[Takengon]]
 - [[Alasvalley]]
 - [[Gajó Loeós]]
 - [[Kaban Djahé]]
@@ -79,9 +88,18 @@ Gosenson's command is the hinge on which the [[Nederlands-Indië contra Japan|st
 - [[Order of Orange-Nassau]]
 - [[1936]]
 - [[1942]]
+- [[Attack on Gosenson at Djeuram (29 December 1917)]]
+- [[Tgk. Poeti']]
+- [[H. J. Schmidt]]
+- [[Djeuram]]
+- [[Seunagan]]
+- [[H. N. A. Swart]]
+- [[Corps of Military Constabulary of Atjeh and Dependencies]]
 
-## Sources
+## Source
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter II.
 
 *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 113–155.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, p. 94; Chapter XII, pp. 121–122 and illustration p. 187.

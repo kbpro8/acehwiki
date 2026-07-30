@@ -1,7 +1,7 @@
 ---
-title: T. Radja Sabi
-aliases: ["Teukoe Radja Sabi", "T. Radja Sabi of Keureutoe", "the Eagle's Child", "l'Aiglon", "adelaarsjong"]
-tags: [person, aceh, aceh-war, keureutoe, 20th-century, resistance, oeleebalang, adelaarsjong]
+title: "T. Radja Sabi"
+aliases: ["Teukoe Radja Sabi", "T. Radja Sabi of Keureutoe", "the Eagle's Child", "l'Aiglon", "adelaarsjong", "Radja Sabi", "the wandering youngster", "the wandering child", "Teuku Raja Sabi"]
+tags: [person, aceh, aceh-war, keureutoe, 20th-century, resistance, oeleebalang, adelaarsjong, achehnese, oelèëbalang]
 description: "Son of T. Tjhi Toenong and Tjoet Meuthia, born c. 1899, heir to the oeléëbalangschap of Keureutoe; carried by kawans through the forests 1905-1919, a tiger befriended him in Goenoeng Pandjang, submitted 13 March 1919; became waarnemend oeléëbalang of Keureutoe in 1937."
 ---
 
@@ -37,6 +37,48 @@ His return — his identity now no longer in doubt — was *the topic of the day
 
 The figure of T. Radja Sabi, Zentgraff writes, bears some comparison with the *l'Aiglon* of Rostand: *"Eh bien! moi, sans pouvoir, sans titre, sans royaume, / Moi qui ne suis qu'un souvenir dans un fantôme, / Moi… qui, triste, ne peut rien."* He saw again all the bloody episodes of his existence: the fusillading of his father, the fall of his foster-father Pang Nanggroë, of his mother, of Pang Lateh, of Pang Badon, of all those who with exemplary devotion protected him; the Life seemed to him a simple sum, always: minus one, and this had gone on with the pitiless regularity of fate itself.
 
+## Childhood in the resistance
+
+T. Radja Sabi was born about [[1901]] to Tjoet Meutia and Teukoe Tjoet Moehamat, later [[T. Tjhi' Toenòng]], the excluded heir to the *oelèëbalangschap* of Keureutòë. His father was arrested at [[H. N. A. Swart]]'s order after the surprise of sergeant [[Vollaers]]' patrol at [[Meurandéh Paja]] on [[26 January]] [[1905]], and executed after [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] converted the sentence of banishment to death.
+
+With his father dead and a younger sibling stillborn or dead in infancy, the child became — together with his mother — the actual claimant to the *oelèëbalangschap*, a claim the population accepted. Forty-four days after her delivery Tjoet Meutia married [[Pang Nanggròë]], who formed a band around her and around the boy. In November [[1907]], when the half-brother [[T. Tjhi' Béntara]] was restored to the office of *oelèëbalang*, Pang Nanggròë proclaimed the six-year-old T. Radja Sabi *oelèëbalang* of Keureutòë — an act that drew new members to the band and raised his influence among the population.
+
+## Survival of the two great attacks
+
+When Pang Nanggròë was killed in the [[Paja Tjitjém]] on [[26 September]] [[1910]] by the brigade of sergeant [[Slooten]], neither Tjoet Meutia nor the boy was found. Years later it emerged that T. Radja Sabi had hidden in a tree during the attack.
+
+A month later, on [[25 October]] [[1910]], he escaped again: in [[W. J. Mosselman]]'s attack on the hiding-place in a side-stream of the [[Kroeëng Peutòë]], in which his mother, [[Tgk. Sjeh di Paja Bakong]] and the latter's son [[Tgk. Mat Saleh]] were killed, "andermaal is T. Radja Sabi den dans ontsprongen."
+
+By [[1911]] he was, at twelve years old, the only figure of significance still at large in the district, wandering with the band of his stepfather. He is listed in the survey of [[1913]] among the last unsubmitted resistance leaders of [[Lho' Soekon]] as *"the wandering youngster."* In [[1913]] his last followers surrendered at Lho' Soekon, and thereafter he wandered alone.
+
+"For nine years he remained a wanderer; around him his commanders and followers fell, new ones always stood ready, and again and again the population supported him and betrayed nothing."
+
+## The mystification: Si Doelah
+
+Then he heard that he had reported himself to the administration. This mystification really occurred, but it happened entirely without the wanderer's knowledge. [[Si Doelah]], the son of a simple *[[oelama]]*, came to play the role of T. Radja Sabi; countless Acehnese recognised the substitute as T. Radja Sabi, showed him respect and submission, and even appeared before him deeply moved; and they permitted him to be accepted and brought up as future *oelèëbalang*.
+
+Why they did so "could never be answered by anyone, not even by Swart." Did they hope by the substitution to keep the real T. Radja Sabi safely out of range? Did the substituters count on a high reward? "Who shall say…? Atjeh remains Atjeh."
+
+Fairly soon reports came in to the bivouacs that the *real* T. Radja Sabi was still very much at large.
+
+## The attempt of 1916
+
+In [[1916]] [[M. Schouten|Schouten]] received reports so positive that he resolved, with the *oelèëbalang* of [[Seuleuma]], to make one more attempt: the *vechttijd* was past, and why should the boy go on wandering? With the co-operation of all the chiefs and of [[T. Tjhi' Béntara]], the half-brother, who went along in person, a discussion was held "somewhere in the rimba."
+
+The condition set by the other side proved a stumbling-block: "we shall bring the real T. Radja Sabi down when it is first established that the boy at Koetaradja is not genuine — that is, when the Great Master acknowledges that a wrong person has been designated as T. Radja Sabi." And so T. Radja Sabi continued to wander in the forests of the lonely [[Goenòng Panjang]].
+
+## Submission, 1919, and installation, 1937
+
+On [[13 March]] [[1919]] — Swart having already retired — and in his eighteenth year, after years in which he had now and then also stayed in inhabited places, T. Radja Sabi was recognised at [[Lho' Seumawè]] by one of his former *kawans* (comrades), who brought him to his uncle [[T. Tjhi' Béntara]]: the wandering had to end, he must *"mèl"* (report, submit).
+
+That was the final recognition: the substitute disappeared and ended as a road overseer (*wegmandoer*).
+
+In [[1937]], when the son of his uncle — who had proved a failure as *oelèëbalang* — had been suspended in [[1936]], T. Radja Sabi at last became *oelèëbalang* of [[Keureutòë]].
+
+## Significance (du Croo, 1943)
+
+The story of T. Radja Sabi spans the whole arc of the pacification: begun in an administrative injustice of [[1899]], carried through the war years by his father, mother and stepfather, and closed only in [[1937]] with his installation in the office of which his father had been deprived. Du Croo presented it as the exemplary Acehnese drama, and closed his account with the words of [[H. C. Zentgraaff]]: "men and women who would be the pride of any people and who yield nothing to the most brilliant of our own figures of war."
+
 ## See Also
 
 - [[T. Tjhi Toenong]]
@@ -61,7 +103,13 @@ The figure of T. Radja Sabi, Zentgraff writes, bears some comparison with the *l
 - [[1919]]
 - [[1937]]
 - [[Aceh War]]
+- [[Tjoet Meutia]]
+- [[Si Doelah]]
+- [[M. Schouten]]
+- [[Goenòng Panjang]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, pp. 94–102; Chapter XI, p. 104; Chapter XII, pp. 117–118.

@@ -1,7 +1,7 @@
 ---
 title: "De Atjehers (Snouck Hurgronje)"
-aliases: ["De Atjehers (Snouck Hurgronje)", "De Atjèhers", "The Atcheneese", "Snouck Hurgronje De Atjehers", "De Atjèhers (1893-1894)", "The Achehnese"]
-tags: [document, book, dutch, colonial, scholarly, aceh, 19th-century, snouck-hurgronje, ethnography, islamology, 1893, 1894]
+aliases: ["De Atjèhers", "The Atcheneese", "Snouck Hurgronje De Atjehers", "De Atjèhers (1893-1894)", "The Achehnese"]
+tags: [document, book, dutch, colonial, scholarly, aceh, 19th-century, snouck-hurgronje, ethnography, islamology, 1893, 1894, islam]
 ---
 
 **De Atjèhers** ("The Atjehers") is the standard scholarly work of [[C. Snouck Hurgronje|Dr. C. Snouck Hurgronje]] on the Atjèhese people, published in two volumes by the *Landsdrukkerij* (Government Printing Office) at [[Batavia|Batavia] in [[1893]] (Vol. I) and [[1894]] (Vol. II), and translated into English by A. W. S. O'Sullivan as *The Achehnese* (Leiden, 1906). The work is the published residue, in modified form, of Snouck Hurgronje's secret *[[Verslag omtrent de religieus-politieke toestanden in Atjeh|Verslag omtrent de religieus-politieke toestanden in Atjeh]]* of [[23 May]] [[23 May]] [[1892]], and is the foundational scholarly work on the Atjèhese people, their religion, and their customs.
@@ -53,6 +53,10 @@ It was especially the first two chapters of the *Verslag* that were worked up in
 
 *De Atjèhers* is the foundational scholarly work on the Atjèhese people, their religion, and their customs. Its publication in [[1893]]–[[1894]] made the substance of Snouck Hurgronje's diagnosis of the Atjèh malady public — though the prescription of the cure remained, in the *Verslag*, secret. The work's polemical character — the criticism of Van den Berg and Der Kinderen — was the occasion of the [[Bekendmaking Nederburgh|Bekendmaking Nederburgh]] and of the ministerial intervention that delayed the publication of the second volume. The English translation of [[1906]] — *The Achehnese* — made the work accessible to the international scholarly community and testified to its enduring and unsurpassed value.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+The Government had at first shelved the report — "which the government at first shelved" — but it became the core of the standard work. "Clearly and unreservedly the real internal condition and the mutual relations and connections are here laid bare, with the plainly unvarnished conclusion: only general and vigorous action can put an end to the resistance." Its analysis of the three causes of the persistence of resistance — that Atjeh was no single-headed state, that Acehnese nationality was a religious nationality, and that the *bendewezen* had become a profitable national side-industry — governed all subsequent Dutch policy.
+
 ## See Also
 
 - [[C. Snouck Hurgronje]]
@@ -75,7 +79,13 @@ It was especially the first two chapters of the *Verslag* that were worked up in
 - [[1893]]
 - [[1894]]
 - [[1906]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, pp. 18–20.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III.

@@ -1,7 +1,7 @@
 ---
-title: Seunagan
-aliases: [West Coast, south of Meulaboh, West Coast of Acheh, the Western Coast, Atjeh Westkust, the West Coast of Acheh]
-tags: [place, north-east-coast, coast, region, dependency, material-culture]
+title: "Seunagan"
+aliases: ["West Coast", "south of Meulaboh", "West Coast of Acheh", "the Western Coast", "Atjeh Westkust", "the West Coast of Acheh"]
+tags: [place, north-east-coast, coast, region, dependency, material-culture, landschap, aceh, westkust, resistance]
 ---
 
 **Seunagan** is a region on the west coast of [[Acheh|Atjeh]], situated in what is today the Nagan Raya Regency of Aceh province, Sumatra. It is known both as a centre of unorthodox mysticism and as a source of fine woven craft production. The area lies to the south of [[Meulaboh]] and formed part of the West Coast dependency (*Westkust*) of the sultanate, a region distinguished by its pepper-planting colonies, its monsoon-bound communications, and its history of foreign admixture.
@@ -36,6 +36,20 @@ The word *tandil* — a Tamil word originally meaning a collector of moneys, but
 
 The [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian Society's]] 1928 treasure-room guide records a finely woven sitting mat from Seunagan, catalogued in Cabinet 3 (Atjeh), item 2, described as *"Zitmatje uit Seunagan, gevlochten van pandanbladrepen"* — "a small sitting mat from Seunagan, woven from pandan-leaf strips." Although the treasure room primarily housed objects of gold and silver, this mat was included in the Atjeh section, presumably as a representative example of Acehnese craft production to contextualise the metalwork. Pandan-leaf weaving is a widespread craft across Southeast Asia, but the inclusion of this particular mat in the Batavian Society's collection — alongside objects of gold, silver, and precious stones — suggests that the Seunagan example was considered of exceptional quality or artistic merit. Seunagan and the neighbouring west-coast regions of Atjeh have long been known for their weaving traditions, which extend beyond mats to include the plaited work used in house construction, basketry, and ceremonial objects. During the [[Aceh War]], the west-coast regions saw extensive military activity, as Dutch forces sought to establish control over the coastal districts before pushing into the interior.
 
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* gives the fullest account of Seunagan as *het traditioneele land van de klewangaanvallen*. *Vooral die van Seunagan waren voor onze soldaten gevaarlijke tegenstanders. De Atjeher hier viel altijd aan met vollen inzet van zijn persoon, en vocht voor alles wat hij waard was.* The *heilige Habib Seunagan*, whose grave is still in high honour on the Westkust, gave the country its spiritual prestige.
+
+Above all stands the [[Simpang Olim klewangaanval (1902)|attaque op de colonne-Campioni]] in [[April]] [[1904]] in the neighbourhood of [[Djeuram]] — *de grootste klewangaanval uit de historie van Atjeh*: hundreds of enemies *stortten zich als de hel over de colonne*. Luitenant Van der Vlerk survived only because at that moment he had stepped aside to have his *puttee* fastened. The body of luitenant Van der Zee was brought to [[Meulaboh]].
+
+In [[1906]] [[Schmidt]] served as luitenant at Djeuram in *het toen uiterst roerige Seunagan*. The great antagonist was [[Tengkoe Poetih]], grandson of the holy Habib Seunagan, who *had vele en fanatieke aanhangers, en zeker evenveel spionnen in de omgeving van Schmidt als deze in het gebied van den Tengkoe had*. Around the bivak Poeloe Ië the *beruchte Tengkoe Moeda Mat Said* roamed; one night a tiger carried off one of his *djahat* followers — *men zeide dat het dier in dienst van Schmidt was, zoodat de bende snel naar veiliger gebied verhuisde*. The widow [[Tjoet Patimah]] of [[Teukoe Keumangan]], telling Zentgraff about the [[1906]]–[[1907]] period, said Schmidt was one of those rare men who carried a *rantej boei* (the magic bead of invulnerability), *waardoor hij niet alleen onkwetsbaar was doch ook een helder oog had in het donkerste geheim*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+## Account in du Croo’s Generaal Swart (1943)
+
+In March [[1909]] [[Waki Him]] committed "an old-fashioned *[[klewang]]* charge" in Seunagan which cost the Dutch eleven wounded but brought Waki Him and three of his men their end as *[[sjahid]]*; in April the submission of all the *pangs* and band members of [[T. Moeda Mat Sa'it]] followed in Seunagan, [[Tadoe]] and [[Tripa]]. In October [[1910]] lieutenant [[S. van Eendenburg]] was killed near [[Keudé Blang Bajoe]] in Seunagan by the band-head [[Pang Timoe]]. On [[29 December]] [[1917]] young Acehnese of Seunagan attacked [[G. F. P. Gosenson|lieutenant Gosenson]] at [[Djeuram]]. In [[1926]] the great [[Teukoe Keumangan]] of Seunagan told [[Maurice Henri du Croo|du Croo]] that an *[[oelèëbalang]]* who betrayed [[T. Radja Tampo']] "could not remain a territorial chief in Seunagan".
+
 ## See Also
 
 - [[Hamzah Pansuri]]
@@ -53,19 +67,15 @@ The [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen|Batavian S
 - [[Acheh proper]]
 - [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen]]
 - [[Acehnese Gold and Silverwork]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Gids voor den bezoeker van de schatkamer*, Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen, Batavia, 1928. Druk: Ruygrok & Co., Batavia. Cabinet 3 (Atjeh), item 2.
 
-## Account from *Atjeh* by H.C. Zentgraff (1938)
-
-[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* gives the fullest account of Seunagan as *het traditioneele land van de klewangaanvallen*. *Vooral die van Seunagan waren voor onze soldaten gevaarlijke tegenstanders. De Atjeher hier viel altijd aan met vollen inzet van zijn persoon, en vocht voor alles wat hij waard was.* The *heilige Habib Seunagan*, whose grave is still in high honour on the Westkust, gave the country its spiritual prestige.
-
-Above all stands the [[Simpang Olim klewangaanval (1902)|attaque op de colonne-Campioni]] in [[April]] [[1904]] in the neighbourhood of [[Djeuram]] — *de grootste klewangaanval uit de historie van Atjeh*: hundreds of enemies *stortten zich als de hel over de colonne*. Luitenant Van der Vlerk survived only because at that moment he had stepped aside to have his *puttee* fastened. The body of luitenant Van der Zee was brought to [[Meulaboh]].
-
-In [[1906]] [[Schmidt]] served as luitenant at Djeuram in *het toen uiterst roerige Seunagan*. The great antagonist was [[Tengkoe Poetih]], grandson of the holy Habib Seunagan, who *had vele en fanatieke aanhangers, en zeker evenveel spionnen in de omgeving van Schmidt als deze in het gebied van den Tengkoe had*. Around the bivak Poeloe Ië the *beruchte Tengkoe Moeda Mat Said* roamed; one night a tiger carried off one of his *djahat* followers — *men zeide dat het dier in dienst van Schmidt was, zoodat de bende snel naar veiliger gebied verhuisde*. The widow [[Tjoet Patimah]] of [[Teukoe Keumangan]], telling Zentgraff about the [[1906]]–[[1907]] period, said Schmidt was one of those rare men who carried a *rantej boei* (the magic bead of invulnerability), *waardoor hij niet alleen onkwetsbaar was doch ook een helder oog had in het donkerste geheim*.
-
-*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XII.

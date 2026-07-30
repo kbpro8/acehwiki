@@ -1,7 +1,7 @@
 ---
-title: De onderwerping van Atjeh (Van Heutsz, 1893)
-aliases: ["De onderwerping van Atjeh (Van Heutsz, 1893)", "De onderwerping van Atjeh", "The Subjugation of Atjeh", "Van Heutsz's 1893 brochure", "Van Heutsz brochure (1893)", "Van Heutsz 1892 brochure", "Van Heutsz 1893", "Van Heutsz's De onderwerping van Atjeh", "De onderwerping van Atjeh (1893)"]
-tags: [document, brochure, book, colonial, dutch, acheh, atjeh, military, strategy, aceh-war, 19th-century, van-heutsz, scheepvaartregeling, policy-tract]
+title: "De onderwerping van Atjeh (Van Heutsz, 1893)"
+aliases: ["De onderwerping van Atjeh", "The Subjugation of Atjeh", "Van Heutsz's 1893 brochure", "Van Heutsz brochure (1893)", "Van Heutsz 1892 brochure", "Van Heutsz 1893", "Van Heutsz's De onderwerping van Atjeh", "De onderwerping van Atjeh (1893)", "The Subjection of Atjeh (1892)"]
+tags: [document, brochure, book, colonial, dutch, acheh, atjeh, military, strategy, aceh-war, 19th-century, van-heutsz, scheepvaartregeling, policy-tract, aceh, policy]
 ---
 
 **De onderwerping van Atjeh** ("The Subjugation of Atjeh") is a strategic and political treatise published in [[1893]] by [[J. B. van Heutsz|Van Heutsz]] — then a major of infantry and former Chief of Staff in [[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]] — in which he argued that the Dutch defensive strategy in [[Atjeh]] had failed and that only a rigorous, systematic application of coercive measures, above all the [[Scheepvaartregeling|scheepvaartregeling]] backed by naval power, could bring about the complete subjugation of the [[Sultanate of Aceh|Achehnese sultanate]]. The brochure, published at 's-Gravenhage by [[De Gebroeders van Cleef]] and at Batavia by [[G. Kolff & Co.|G. Kolff and Co.]] — the title-page bears both houses in parallel — and printed by the Typ. Zuidholl. Boek- en Handelsdrukkerij, was written in October [[1892]] and issued in [[1893]]; it constitutes Van Heutsz's first published strategic argument and the intellectual foundation for the aggressive policy he would implement as Governor from [[1898]] onward. It is also the principal *ex ante* text of the [[Pacificatie van Atjeh|pacificatie]] doctrine and the document against which [[C. Th. van Deventer|Van Deventer]]'s [[1908]] parliamentary critique of the post-conquest administration is measured. The book opens with the warning that "De Atjeh-oorlog knaagt aan ons Koloniaal bezit, hij moet eindigen" (the Atjeh-war gnaws at our Colonial possession; it must end).
@@ -110,6 +110,10 @@ IJzerman replied that it was unfair to pursue Van Heutsz with a brochure fifteen
 
 The brochure *De onderwerping van Atjeh* is the first published statement of the strategic doctrine that Van Heutsz would carry into execution from [[1898]] onward. Its argument for the [[Scheepvaartregeling|scheepvaartregeling]] as the principal instrument of subjugation — supplemented by limited military action and the systematic exploitation of economic leverage — anticipates the combination of blockade, controlled trade, and mobile offensives that eventually ended the [[Aceh War|Atjeh-oorlog]]. The [[Concentratiestelsel]] — the defensive perimeter around Kota-Radja from which Van Heutsz in the 1890s was still recoiling — was, in his Governorship, transformed into a forward base; the *scheepvaartregeling* he prescribed in 1893 became the fiscal instrument of his pacification; and the marine-enforced closure he demanded in 1893 became the [[Blokkade|blokkade]] of the 1898–1903 campaigns. Its detailed knowledge of [[Achehnese|Atjehnese]] political structures, family connections, and regional interests reflects Van Heutsz's service as Chief of Staff and his close familiarity with the territory. The 1908 parliamentary exchange between Van Deventer and IJzerman on the continuing authority of the brochure is the canonical exchange on the relation between the Van Heutsz of [[1893]] (the conqueror) and the Van Heutsz of [[1908]] (the pacificator). The brochure is also the principal source on the policy debates of 1873–1892: Van Heutsz quotes at length from Kielstra's *Beschrijving van den Atjeh-oorlog*, from the dagorder of [[5 September]] [[1879]] (the [[Day-order of 5 September 1879|Dagorder of 5 September 1879]]), from Scherer's lecture of [[20 January]] [[1891]], from the *Indisch Militair Tijdschrift* and the *Indische Gids*, and from Van Teijn's warning letter of [[23 November]] [[1891]]. It is the only place where the policy oscillations of eleven Governors are narrated in a single sustained argument by an author who had himself been a witness.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+Its motto ran: "The Atjeh war gnaws at our colonial possession. It must end; let us at last show the civilised world that we are capable of ending it!" Its two principal conclusions ran wholly parallel to Snouck Hurgronje's argument: "a freedom-loving, warlike people submits only under compulsion," and "only he who shows that he possesses the power to make his will respected will bring Atjeh to submission." Van Heutsz still held in it to a *[[scheepvaartregeling]]*, and his aim was not so absolute as the scholar's, "but in spite of that, this brochure at last brought the new, strong and correct note. It was accordingly regarded by many either with disapproval or as not serious — only many younger men understood and endorsed it."
+
 ## See Also
 
 - [[J. B. van Heutsz]]
@@ -146,9 +150,14 @@ The brochure *De onderwerping van Atjeh* is the first published statement of the
 - [[Kota Radja]]
 - [[Groot-Atjeh]]
 - [[1893]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *De onderwerping van Atjeh*, by J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893. Gedrukt bij de Typ. Zuidholl. Boek- en Handelsdrukkerij. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 273-275.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III; List of works consulted.

@@ -1,7 +1,7 @@
 ---
 title: "Koloniaal Verslag"
-aliases: ["Koloniaal Verslag", "Koloniale Verslagen", "Colonial Report", "Koloniaal Verslag 1897"]
-tags: [document, dutch, colonial, report, parliament, statistics, aceh-war]
+aliases: ["Koloniale Verslagen", "Colonial Report", "Koloniaal Verslag 1897"]
+tags: [document, dutch, colonial, report, parliament, statistics, aceh-war, administration, indies]
 ---
 
 **The Koloniaal Verslag** (*Colonial Report*) was the annual report on the state of the Netherlands colonies laid before the [[Staten-Generaal]], and the principal statistical and narrative source used by all sides in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November|16]]–[[17 November]] [[1897]].
@@ -22,6 +22,14 @@ He cited it again on [[17 November]] for the conduct of the war: "Het laatste Ko
 
 Because the *Koloniaal Verslag* was the government's own annual publication, its evidence could not be dismissed by either side. In [[1897]] it thus served simultaneously as the government's warrant for claiming that quiet was returning to the districts the hostile bands no longer dared penetrate, and as the critics' warrant for asserting that villages were being laid in ashes, forests extirpated and the garrison consumed by disease.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+The report of [[1908]] recorded the difficulties over pepper advances and the resistance of the *[[teungkoe]]s* and mothers to *[[Volksonderwijs in Atjeh|volksonderwijs]]*; of [[1910]], the changed character of the resistance on the north coast and the new insight into the tribal basis of resistance in the [[Gajò Loeös]]; of [[1913]], that "in this province little more was to be observed during the period under report of resistance against authority" — the report scarcely filling one page; of [[1915]], "increasing confidence in the administration" and a smallpox epidemic on the north coast; of [[1916]], that the epidemic had been brought to a standstill and that the [[Sarekat Atjeh]] had been founded; of [[1917]], that "more and more the population is applying itself to the planting of rubber."
+
+## Account in du Croo’s Generaal Swart (1943) (du Croo, 1943)
+
+En zoo, al bladerende door *Koloniale Verslagen* ("Colonial Reports") en Maandverslagen, [[Maurice Henri du Croo|du Croo]] wrote, "the reader turning the pages comes again and again upon a "little work of peace", a piece of pacification." See also [[Koloniaal Verslag]] and the [[Monthly Reports of the Government of Atjeh and Dependencies|Maandverslagen]].
+
 ## See Also
 
 - [[Memorie van Antwoord on the Indies budget for 1898]]
@@ -33,10 +41,15 @@ Because the *Koloniaal Verslag* was the government's own annual publication, its
 - [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
 - [[1896]]
 - [[1897]]
-
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 6, 14, 17, 20, 29, 33–34, 47–48, 64.
 
 *Acknowledgement of sources.* The material in this article derives from *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor 1898* (Amsterdam: J. A. Fortuijn, [[1897]]). Dutch passages are quoted in the original with an English rendering.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XIII.

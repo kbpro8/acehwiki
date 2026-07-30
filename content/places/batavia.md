@@ -1,7 +1,7 @@
 ---
-title: Batavia
-aliases: [Jakarta, Pentawi, Betawi, Batavia, Kota Batavia, Batavia (city), Batavia Dutch East Indies, Peutawi, Bataviasche regeering, capital of the Dutch East Indies, Batavia (Dutch East Indies)]
-tags: [place, sacred-site, foreign-land, dutch-colonial, capital, city, foreign, colonial, colony, dutch, aceh, indonesia]
+title: "Batavia"
+aliases: ["Jakarta", "Pentawi", "Betawi", "Kota Batavia", "Batavia (city)", "Batavia Dutch East Indies", "Peutawi", "Bataviasche regeering", "capital of the Dutch East Indies"]
+tags: [place, sacred-site, foreign-land, dutch-colonial, capital, city, foreign, colonial, colony, dutch, aceh, indonesia, indies]
 ---
 
 **Batavia** (Acehnese: *Pentawi*; modern [[Jakarta]]) was the colonial capital of the [[Netherlands India|Dutch East Indies]], founded by the [[Dutch East India Company|VOC]] in [[1619]] on the site of the former Portuguese port of *Sunda Kelapa*, and served as the administrative seat of the Governor‑General, the centre of Dutch trade, naval logistics, and diplomatic contacts with the Sultanate of [[Aceh]] until the Japanese occupation in [[1942]]. The city was a focal point for Dutch‑Acehnese interaction, a hub of Malay manuscript collections such as the [[Menangkabau]] Malim Diman preserved by the [[Batavian Association]], and the place where [[C. Snouck Hurgronje]] compiled his research for *The Achehnese* in [[1892]]–[[1894]].
@@ -46,6 +46,10 @@ During the eighteenth century Batavia expanded with new fortifications, warehous
 
 Batavia epitomised the Dutch colonial project in the East Indies: a fortified port, an administrative hub, a centre of scholarly activity, and a focal point of Dutch‑Acehnese confrontation. Its role as a model of “cosmopolitan, thoroughly Islamised, and bureaucratically regulated” Javanese society, as presented by Snouck Hurgronje, provided a contrast to the more archaic institutions of [[Aceh]], shaping Dutch perceptions of the archipelago and influencing colonial policy throughout the nineteenth century.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+[[H. N. A. Swart]] arrived there from the Netherlands on [[17 June]] [[1887]]; served at the *Subsistentenkader* there from [[11 December]] [[1895]]; visited it incognito with [[Joannes Benedictus van Heutsz|van Heutsz]] before departing for Atjeh in [[1908]] — "Haroun al-Rashid and his vizier" at the *Restaurant Versteeg* opposite Hotel De Nederlanden, where the disguise failed; and returned there on [[22 September]] [[1918]] to take up the Vice-Presidency of the Council. The Governor-General told him: "I am glad again that during my absence General Swart is at Batavia." The [[Van Heutsz-Monument te Batavia|Van Heutsz Monument]] was unveiled there.
+
 ## See Also
 
 - [[Dutch East India Company]]
@@ -80,6 +84,10 @@ Batavia epitomised the Dutch colonial project in the East Indies: a fortified po
 - [[Dutch Navy|Royal Netherlands Navy]]
 - [[Royal Netherlands Marine Corps]]
 - [[Royal Netherlands East Indies Army]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
@@ -92,3 +100,5 @@ Batavia epitomised the Dutch colonial project in the East Indies: a fortified po
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pp. 78‑79. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
 
 *Rapport aan Z.E. den Minister van Marine over de reis van Nederland via Batavia naer Atjeh* by [[J. J. Korndörffer|J.J. Korndörffer]], archival manuscript, Koninklijk Instituut voor Taal‑Land‑en‑Volkenkunde, NL‑ARCH‑00123.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter I, IX, XVII.

@@ -1,7 +1,7 @@
 ---
-title: Behrens
-aliases: [Kapitein Behrens, Kolonel Behrens, Behrens of Leuhong]
-tags: [person, captain, kolonel, dutch, aceh, aceh-war, 20th-century, leuhong]
+title: "Behrens"
+aliases: ["Kapitein Behrens", "Kolonel Behrens", "Behrens of Leuhong", "H. Behrens", "H. Behrens Ridder M.W.O. met E.S.", "Generaal-Majoor Behrens"]
+tags: [person, captain, kolonel, dutch, aceh, aceh-war, 20th-century, leuhong, military, knil, marechaussee]
 description: "Dutch captain (later kolonel) who commanded the 5e divisie at Leuhong; wounded Tengkoe di Paja Bakong (Mata Ië) at Aloeë Garöt in 1913; questioned the false T. Radja Sabi in December 1913; with his brigade sergeant Dambohpulu hunted Tengkoe di Barat to his death in 1912; commander under whom luit. Molenaar was killed."
 ---
 
@@ -27,6 +27,20 @@ In the [[Westkust resistance (1925-1927)|Westkust revolt]] of [[1925]]–[[1927]
 
 Behrens was one of the most persistent hunter-commanders in the last phase of the [[Aceh War|Atjeh-oorlog]]: he broke the *Paja Bakong-oelama's* and the [[Tengkoe di Barat|Tengkoe di Barat]] resistance, was the sharp questioner who exposed the *false T. Radja Sabi*, and continued the work in the Westkust rising of the 1920s. His partnership with sergeant Dambohpulu is the type of the *trimoerti* — *baas, pang, keutjhi* — that the maréchaussée-brigade required.
 
+## Against Tgk. di Barat
+
+By December [[1911]] the situation in [[Keureutòë]] was reported as favourable: "Behrens and his men were on the track of Tgk. di Barat: it might still take a couple of months, it might take a year or longer — but the irrevocable end was approaching."
+
+Tgk. di Barat had returned from the [[Meergebied]] to the plain of [[Lho' Soekon]] and [[Lho' Seumawè]] in order to reorganise the resistance with [[Tgk. di Mata Ië]]. The *marechaussée* awaited him; their blows first struck Tgk. di Mata Ië, but on [[22 February]] [[1912]] Behrens surprised Tgk. di Barat with two brigades, "and that was the end for Tgk. di Barat. From that moment the situation in the whole North Coast division became stable."
+
+The surprise, narrated by [[H. C. Zentgraaff]] and reproduced by [[Maurice Henri du Croo|du Croo]], was made possible by the Ambonese tracker sergeant [[Dambohpulu]], who found the traces of the Teungkoe's foragers at the [[Aloeë Soea]] and followed them for days. Because provisions had run short, Behrens picked the sixteen best *marechaussée* from his two brigades and sent the rest back to the bivouac — "it was now a picked band." When smoke was seen rising from a small *aloeë*, the sixteen were divided into three groups; the group under sergeant [[Hanff]] flew through the stream and let itself fall with the water down the waterfall to the huts, where Tgk. di Barat, his wife, two followers with their wives and four children were living. The Teungkoe and his wife were mortally wounded by a single bullet as she stood before her husband.
+
+## Against Tgk. di Mata Ië
+
+In [[1913]] Behrens fell upon Tgk. di Mata Ië by the [[Aloeë Garöt]] "so swiftly upon him that his turban and rosary remained caught in the bushes, like Absalom's hair; he was wounded in the leg in this encounter." That wound ended the Teungkoe's reputation for invulnerability and, four years later, made possible the identification of his corpse at [[Samarkilang]] on [[10 July]] [[1917]].
+
+Zentgraaff named Behrens with [[Van der Vlerk]] among the patrol leaders who had sometimes been close on Tgk. di Mata Ië's heels but from whom he always escaped, "and this made the fame of his mystical powers greater still."
+
 ## See Also
 
 - [[Tengkoe di Paja Bakong (Mata Ië)]]
@@ -50,7 +64,14 @@ Behrens was one of the most persistent hunter-commanders in the last phase of th
 - [[1925]]
 - [[1926]]
 - [[Aceh War]]
+- [[Tgk. di Barat]]
+- [[Tgk. di Mata Ië]]
+- [[Corps of Military Constabulary of Atjeh and Dependencies]]
+- [[Keureutòë]]
+- [[H. C. Zentgraaff]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, pp. 96–97; Chapter XI, pp. 105–106; Chapter XII, pp. 118–119 and illustration p. 151.

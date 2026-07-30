@@ -1,7 +1,7 @@
 ---
-title: Korte Verklaring
-aliases: ["Korte verklaring", "korte verklaring", "short declaration", "the Van Heutsz-Snouck korte verklaring"]
-tags: [concept, colonial, dutch, sovereignty, document, legal, achehnese, administration, treaty, buitenbezittingen, zelfbesturen, administrative, diplomacy, acheh, instrument]
+title: "Korte Verklaring"
+aliases: ["short declaration", "the Van Heutsz-Snouck korte verklaring", "de Korte Verklaring", "Short Declaration of self-government"]
+tags: [concept, colonial, dutch, sovereignty, document, legal, achehnese, administration, treaty, buitenbezittingen, zelfbesturen, administrative, diplomacy, acheh, instrument, policy, zelfbestuur, buitengewesten, 20th-century]
 ---
 
 **The Korte Verklaring** — "Short Declaration" — was the standard colonial compact by which the [[Gouvernement Atjeh en Onderhoorigheden|Nederlandsch-Indisch Gouvernement]] recognised a native chief as *zelfbestuurder* — self-ruler — of his *landschap*, replacing the [[Sarakata|sarakata]] of the [[Sultans of Atjeh|Sultans of Atjeh]] as the documentary basis of native authority in Atjeh and its Onderhoorigheden. Introduced by Governor [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] as part of his pacification system during his governorship of Aceh ([[1898]]–[[1904]]) and later extended to other troubled regions of the Dutch East Indies during his Governor-Generalship ([[1904]]–[[1909]]), the declaration became a central tool of colonial policy whose most controversial provision — Article 3, obliging the ruler to obey all future regulations that the Dutch government might issue — critics argued eliminated any real autonomy and reduced the ruler to a mere official. In [[J. Kreemer|J. Kreemer]]'s *Atjèh* ([[1923]]) the Atjèh-specific form is given the name ***korte Atjèhverklaring*** to distinguish it from the later "uniform model" applied across the buitengewesen.
@@ -12,7 +12,7 @@ Van Heutsz devised the Korte Verklaring as a swift and unambiguous way to end th
 
 ## Form and meaning in Acehnese administration
 
-*De Buitenbezittingen* defines the compact in its discussion of the [[Oelèëbalang|oelèëbalangs]]. The name *oelèëbalangschap* was, in official documents, "later in officieele stukken teruggebracht tot *landschap*, zoodra de landstreek als zelfbestuur was erkend en ten bewijze daarvan door den oelèëbalang de zoogenaamde 'Korte Verklaring' was geteekend, welke zijne verhouding tot het Nederlandsch-Indisch Gouvernement regelt." The Declaration was thus both recognition and regulation: by signing it, the chief was acknowledged as *zelfbestuurder* of his territory, while his relationship to the colonial government was fixed. In exchange for Dutch protection of his territorial authority, the chief accepted the supervisory powers of the Gouvernement.
+*De Buitenbezittingen* defines the compact in its discussion of the [[Oelèëbalang|oelèëbalangs]]. The name *oelèëbalangschap* was, in official documents, "later reduced in official documents to landschap, as soon as the district had been recognised as self-governing and, in proof of this, the so-called 'Short Declaration' regulating its relationship to the Netherlands Indies Government had been signed by the oelèëbalang." The Declaration was thus both recognition and regulation: by signing it, the chief was acknowledged as *zelfbestuurder* of his territory, while his relationship to the colonial government was fixed. In exchange for Dutch protection of his territorial authority, the chief accepted the supervisory powers of the Gouvernement.
 
 *De Buitenbezittingen* mentions the Korte Verklaring at every decisive turn of its survey of native administration — from the recognition of the oelèëbalangs of [[Groot-Atjeh|Groot-Atjeh]] to the reorganisation of the [[Alaslanden|Alaslanden]] after the [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)|Colonne van Daalen]] of 1904. The handbook distinguishes carefully between those who signed and those who did not: in Groot-Atjeh all recognised oelèëbalangs were *zelfbestuurders*, having signed the Declaration; so too were the [[Keudjeuroeën|keudjeuroeëns]] of the Westkust and the various chiefs of [[Tamiang|Tamiang]] after the [[1878 Langkat–Tamiang Transfer|transfer of Langkat's rights]] in [[1878]]. In the [[Alaslanden|Alaslanden]], each *landschapshoofd* signed his own Declaration — and a new compact was issued whenever a chief moved his seat, as when the Kédjoerön of Batoe Mboelan moved to [[Poeloe Nas|Poeloe Nas]] in [[1914]] and "in dat jaar eene nieuwe Korte Verklaring heeft geteekend voor het landschap Poeloe Nas." Among the Gajö lands, by contrast, the chief's signature had to be supplemented by recognition of the genealogical *stamhoofden*, who had no individual territory of their own.
 
@@ -104,11 +104,9 @@ In Atjèh, the *Korte Verklaring* was signed by many *landschapshoofden*. Kreeme
 
 Mr. **H. J. Spit**, in his proefschrift *De Indische zelfbesturende landschappen* (p. 10), discussed the third article of the Korte Verklaring, which required the *zelfbestuurder* to follow all regulations and orders from the governor — a potentially far-reaching obligation that was in practice limited by the principle of self-rule.
 
-
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
 
 The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
-
 
 **The Korte verklaring** — the "short declaration" — was the administrative instrument drawn up by [[J. B. van Heutsz|Van Heutsz]] "in samenwerking met Snouck Hurgronje" (in cooperation with Snouck Hurgronje) and required of submitted chiefs in the [[Buitengewesten|buitengewesten]] (outer territories). The declaration, whose three points bound the signatory to recognise his territory as part of [[Nederlandsch-Indië|Nederlandsch-Indië]], to be loyal to the Queen and the governor-general, and to comply with all regulations and orders, was eventually signed by 261 chiefs of self-governing territories.
 
@@ -135,6 +133,48 @@ The source records that "Met de hoofden van het Mankunegarose en Paku Alamse hui
 ### Significance
 
 The [[Korte verklaring|korte verklaring]] is, in the source's narrative, the principal administrative instrument of the post-[[1904]] consolidation of Dutch authority in the *buitengewesten*. The 261 signatories include the submitted chiefs of the [[Atjeh en Onderhorigheden|Atjeh en Onderhorigheden]] and of the other post-[[1890s]] consolidated territories of the archipelago.
+
+## Origin
+
+[[Joannes Benedictus van Heutsz|Van Heutsz]]'s guiding principle was embodied in the practical application of article 67 of the *Regeeringsreglement*: "so far as circumstances permit, the native population is left under the immediate direction of its own chiefs, appointed or recognised by the Government." Out of that article arose the *Korte Verklaring* ("Short Declaration").
+
+Colijn is named by du Croo as "the father of the Short Declaration and of the Memorandum on [[Political Policy and Administrative Care in the Outer Possessions|Political Policy and Administrative Care in the Outer Possessions]], the right hand of Van Heutsz."
+
+## Text
+
+The *Korte Verklaring* ("Short Declaration") was short and forceful. In it the *zelfbestuur* declared:
+
+- (a) that the *landschap* concerned forms part of Netherlands India and consequently stands under the sovereignty of the Netherlands;
+- (b) that the *zelfbestuur* will therefore always be faithful to Her Majesty the Queen of the Netherlands and to His Excellency the Governor-General as Her Highest Representative;
+- (c) that the *zelfbestuur* will not place itself in any contact whatever with foreign powers;
+
+and of which the last article ran: "that I (the self-governing ruler) shall observe and uphold all regulations which, with regard to (name of the territory), have been or shall be laid down or declared applicable by or on behalf of the Queen of the Netherlands, or by the Governor-General of the Netherlands Indies or His representative, and that I shall in general obey all orders that have been or shall be given me by or on behalf of the Governor-General or His representative."
+
+## Snouck Hurgronje's assessment
+
+The father of the doctrine judged the short contract with the self-governing rulers as follows:
+
+"At the conclusion of such agreements it is only a few articles that attract the attention of the self-governing rulers, such as those fixing their incomes, or disposing of the revenues of their territory. For the rest, the contract is for them simply the form in which they declare their subordination to the Government; they know very well that the degree of that subordination never depends on the content of those articles, but rather on the manner in which the administration knows how to make its will respected."
+
+"Therefore those agreements must be as concise as possible in form, but must above all contain in general terms the promise of the self-governing rulers to govern their territory according to the views of the government, as these shall gradually be made clear to them by the officials designated in the contract. This last may, according to circumstances, be done by oral orders (where continual contact with the self-government makes this easy), or partly by written instructions."
+
+[[P. van Hulstijn|Van Hulstijn]] summarised its double effect: it was a formula "which on the one hand guaranteed a state of affairs equivalent to the introduction of direct rule, yet moderated the consequences of our intervention, and on the other offered an unsought opportunity to leave a great part of the administrative task in the hands of the existing native organisations."
+
+## Lulofs's caution
+
+[[C. Lulofs]] underlined a highly important principle: this flexible and practically manageable agreement did indeed give the Government the power to regulate everything, "but that power must and shall be used sparingly, because otherwise our interference becomes too intensive — it was precisely to prevent that growing intensity that the indirect form of government was chosen."
+
+"Does the government take," Lulofs wrote, "het *zelfbestuur* ("self-government") den wetgevenden arbeid uit handen, dan wordt dit laatste binnen steeds enger wordend arbeidsveld terug gedrongen instede van ontwikkeld te worden, whereas one of the very reasons for choosing the indirect form was the recognition that the children of the land must be given a greater and greater share in the government of their country, at least as far as its internal management is concerned."
+
+## Application
+
+With the *Korte Verklaring* ("Short Declaration") the *"Sesam opent U!"* was applied at an ever-quickening tempo, faster as confidence in Dutch strength increased: [[Djambi]], [[Korintji]], [[Midden Sumatra]] and the [[South and East Division of Borneo]] opened the series. As soon as van Heutsz took office as Governor-General in [[1904]], supported by the minister of Colonies [[Alexander Willem Frederik Idenburg|Idenburg]], the tempo was accelerated further, so that on his retirement he could acknowledge with satisfaction that the task was accomplished and [[Sumatra]] wholly brought under Dutch authority.
+
+[[H. N. A. Swart]] implemented the *Korte Verklaring* system as Civil and Military Governor of [[Celebes]] in [[1906]]–[[1908]], and worked within it in Atjeh, where by [[1927]] there were, on his own testimony, at least a hundred self-governing bodies.
+
+## Significance (du Croo, 1943)
+
+The *Korte Verklaring* ("Short Declaration") was the legal instrument of the whole [[Opening der Buitengewesten|opening of the Buitengewesten]] and thereby of the end of the [[Non-interventiepolitiek|policy of non-intervention]]. It settled a struggle, in du Croo's phrase, "between, on the one hand, exploitation coupled with abstention and, on the other, the principle that chose education, responsibility and the exercise of authority throughout the whole territory as its guideline."
 
 ## See Also
 
@@ -194,8 +234,17 @@ The [[Korte verklaring|korte verklaring]] is, in the source's narrative, the pri
 - [[Nederlandsch-Indië]]
 - [[J. B. van Heutsz]]
 - [[Dr. C. Snouck Hurgronje]]
+- [[Hendrikus Colijn]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Christiaan Snouck Hurgronje]]
+- [[Zelfbestuur]]
+- [[Opening der Buitengewesten]]
+- [[Non-interventiepolitiek]]
+- [[Regeeringsreglement]]
+- [[C. Lulofs]]
+- [[P. van Hulstijn]]
 
-## Sources
+## Source
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 44–45, 122.
 
@@ -208,3 +257,5 @@ The [[Korte verklaring|korte verklaring]] is, in the source's narrative, the pri
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 218-219.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter V, pp. 34–35.

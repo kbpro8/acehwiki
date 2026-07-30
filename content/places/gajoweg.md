@@ -1,7 +1,7 @@
 ---
-title: Gajoweg (Gayo Road)
-aliases: [Gajoweg, Gajo-weg, Gayo Road, Aceh-Gayo road]
-tags: [place, road, aceh, colonial, infrastructure]
+title: "Gajoweg (Gayo Road)"
+aliases: ["Gajoweg", "Gajo-weg", "Gayo Road", "Aceh-Gayo road"]
+tags: [place, road, aceh, colonial, infrastructure, gayo, transport]
 ---
 
 **The Gajoweg** — the Gayo Road — is the military road in [[Atjeh|Aceh]] that begins at the bronze bust of [Heinzenknecht](/people/heinzenknecht) on the yard of the controller at [[Bireuën]] and runs 103 km south to [[Takengeun]] on Laut Tawar (the lake of Takengeun) in the [[Gajolanden|Gajolanden]]. The Gajoweg is the set-piece of the chapter *Jagerslatijn* in *[[Oost-Indisch Journael]]* by Merac ([[1947]]): its construction by [Heinzenknecht](/people/heinzenknecht) under [[Joannes Benedictus van Heutsz|Van Heutsz]], the hurried laying-out of the route on military command with the klewang in a direct southerly direction, and the costly affair of its construction — is the book's set-piece of the colonial army's road-construction in Aceh.
@@ -38,6 +38,10 @@ The *DLP-84-Atjeh* pamphlet describes the [[Gajoweg (Gayo Road)|Gajoweg]] as a m
 
 The opening of the Gajoweg facilitated trade, transport and the spread of plantation agriculture — rubber, oil-palm and sisal — from the interior to the coast, markedly changing the demographic composition of the east-coast districts.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+[[J. C. Lamster|Lamster]] recorded that "the Gajò road to the interior, laid out through heavy mountain terrain, was put in order for motor traffic." Attacks on the road while under construction occurred repeatedly in [[Bireuën]] in [[1910]]. In October [[1911]] Swart inspected Bireuën and [[Kr. Seumpo]], "the last-named place was reached for the first time by car along the Gajò road." The road opened a closed district, though tea and coffee achieved little there. Photographs in du Croo's book show Swart travelling along the Gajòweg in [[1909]], with the builder of the road captain [[Heinzenknecht]] beside the lorry, and in [[1910]] before the *pasanggrahan* at Bireuen.
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -52,9 +56,15 @@ The opening of the Gajoweg facilitated trade, transport and the spread of planta
 - [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
 - [[Datoek]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn*.
 
 *DLP-84-Atjeh.pdf*, pp. 8-9.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XIII and illustrations.

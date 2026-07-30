@@ -1,8 +1,7 @@
 ---
 title: "Sumatra's East Coast"
 aliases: ["Sumatra's Oostkust", "Gouvernement Sumatra's Oostkust", "Sumatra Oostkust", "Oostkust van Sumatra", "East Coast of Sumatra", "Sumatras Oostkust", "Eastcoast of Sumatra", "Sumatra's East Coast government"]
-
-tags: [place, organization, coast, region, colonial, dutch, administrative-division, sumatra, deli, achehnese-history]
+tags: [place, organization, coast, region, colonial, dutch, administrative-division, sumatra, deli, achehnese-history, economy, plantations]
 description: "Sumatra's East Coast (Gouvernement Sumatra's Oostkust) was a Dutch colonial government unit whose head bore the title of Gouverneur. Alongside Atjeh, it possessed an important railway network by 1926. The Sultan of Deli was among its self-governing territories."
 ---
 
@@ -52,6 +51,10 @@ The *DLP-84-Atjeh* source (Part 5 of 5, drawn from the Centrale Boekerij Kon. In
 
 The economic disparity between the two regions was stark. European commercial enterprises (Dutch: *ondernemingen*) meant far less for Acheh than they did for S.O.K.: only 8.1% of employed persons in Acheh worked in corporate-enterprise service (Dutch: *ondernemingsdienst*), compared to 45% in S.O.K. This highlighted the heavy concentration of plantation and industrial capital in Sumatra's East Coast relative to the more subsistence-oriented economy of Acheh. The figures, drawn from the colonial statistics of [[1935]], registered the asymmetry that had become structural to the northern Sumatran economy by the late-colonial period.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+Aan de [[Noordkust van Atjeh|Noordkust]] bestond voor de rijst een goede en gemakkelijke afvoergelegenheid naar Sumatra's Oostkust, waar altijd rijst-tekort was, Swart said in explaining his interest in the *sawah* culture of [[Pidië]]. The proximity of the plantation country was one reason why the east coast of Atjeh was the first part of the province to attract estate enterprise after [[1910]].
+
 ## See Also
 
 - [[Sumatra]]
@@ -89,11 +92,17 @@ The economic disparity between the two regions was stark. European commercial en
 - [[Belawan]]
 - [[Medan]]
 - [[Acheh]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter III (Gezagvoering), p. 54; Chapter IX (Verkeer), p. 168.
 
 *DLP-84-Atjeh.pdf* (Part 5 of 5), p. 16. Centrale Boekerij Kon. Inst. v.d. Tropen, Amsterdam.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XIII.

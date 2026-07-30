@@ -1,7 +1,7 @@
 ---
-title: C. Snouck Hurgronje
-aliases: [Christiaan Snouck Hurgronje, Dr. C. Snouck Hurgronje, Dr. Snouck Hurgronje, Snouck Hurgronje, Snouch Hurgronje, Snouck, Dr. Snouck, Prof. Dr. C. Snouck Hurgronje, the advisor on Atjeh affairs, de rijksadviseur, Sn. H., Prof. Snouck Hurgronje, C. Snouck Hurgronje (Kreemer's account, Deel II)]
-tags: [person, scholar, dutch, orientalist, author, colonial-official, advisor, islamologist, colonial, aceh, buitenbezittingen, achehnese-history, 19th-century, 20th-century, religious, diplomacy]
+title: "C. Snouck Hurgronje"
+aliases: ["Christiaan Snouck Hurgronje", "Dr. C. Snouck Hurgronje", "Dr. Snouck Hurgronje", "Snouck Hurgronje", "Snouch Hurgronje", "Snouck", "Dr. Snouck", "Prof. Dr. C. Snouck Hurgronje", "the advisor on Atjeh affairs", "de rijksadviseur", "Sn. H.", "Prof. Snouck Hurgronje", "C. Snouck Hurgronje (Kreemer's account", "Deel II)", "de taalgeleerde", "de hoogleeraar"]
+tags: [person, scholar, dutch, orientalist, author, colonial-official, advisor, islamologist, colonial, aceh, buitenbezittingen, achehnese-history, 19th-century, 20th-century, religious, diplomacy, islam, adviser, aceh-war]
 description: "Prof. Dr. C. Snouck Hurgronje (1857-1936), the world-renowned Dutch scholar of Islam and Muslim law, was sent to the Dutch East Indies in 1889 as Government Advisor and provided services of inestimable value to the colonial government, particularly regarding Atjeh. His works include 'Mekka' and 'De Atjehers'."
 ---
 
@@ -133,6 +133,68 @@ Snouck Hurgronje's scholarly authority over Dutch colonial Islam policy was buil
 
 Kruisheer's identification of Snouck Hurgronje as a "*key influence on Dutch colonial policy toward Aceh*" is, despite its brevity, one of the most consequential characterisations in *ATJEH '96*. Snouck Hurgronje's policy advice — which emphasised the distinction between the *oelama*-led religious resistance and the *hoeloebalang*-led political-territorial resistance, and which advocated the systematic cooptation of the latter and the suppression of the former — provided the intellectual framework within which the Dutch *bindingspolitiek* with [[Teuku Umar]] had been conducted. The Umar experiment — which had appointed a *hoeloebalang* (territorial chief) as *Panglima Prang Besar* (war commander-in-chief) and armed his legion against the *oelama*-backed Lamkrak mukims — was, in this sense, a Snouckian policy: it sought to use the *hoeloebalang* class to suppress the *oelama*-led resistance, and it relied on the assumption that the *hoeloebalang*'s territorial-political interests could be aligned with the Dutch colonial interest. The catastrophic failure of this policy with Umar's [[Defection of Teuku Umar (29 March 1896)|defection of 29 March]] [[1896]] — a failure which Kruisheer attributes in part to [[C. Deykerhoff|Deykerhoff]]'s "*optimistic views about T. Djohan*" — was therefore also a failure of the Snouckian framework, and the post-defection counter-offensive of spring and summer [[1896]] represented a partial adjustment of that framework. The continued reliance on *maréchaussée*-led operations, the systematic *tuchtigingen* (punitive expeditions) against *oelama*-backed regions, and the disarmament of *buitenlinie* (outer-line) chiefs in mid-June [[1896]] all reflected the continuing influence of Snouck Hurgronje's analysis, even as the specific Umar experiment was abandoned.
 
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] records Snouck Hurgronje's *Verslag over de politiek-religieuze toestanden in Atjeh* ([[1892]]) as the source of *zeer onaangename dingen* (very unpleasant things) about the Acehnese establishment and colonial administration alike.
+
+Of the *hoofdpenghoeloe* of [[Koetaradja]], [[Hadji Abdoelah]], Snouck wrote that he was *"een schaamteloozen, onzedelijken, even brutalen als onkundigen schelm, in Atjeh geboren zoon van een Indisch bedelaar en eene slavin…"* — a shameless, immoral, as brazen as ignorant rogue. Of the *hoofddjaksa* [[Mohamad Arif]] he wrote that he was *"de toean besar sastrar van Atjèh"* but *"in hooge mate omkoopbaar, willekeurig en tyranniek"* (highly corruptible, arbitrary, and tyrannical), a man who lived beyond his salary and lent money at *grobe rente* (gross interest) to Atjeh chiefs.
+
+The governor of Atjeh answered Snouck in a despatch that defended Mohamad Arif: *"Gelijk alle eenzijdig ingelichten, ulterate vlug in het oordeelen, vergat Dr. SNOUCK HURGRONJE het, 'hoor en wederhoor' ook tegenover dezen ambtenaar in acht te nemen… Ware de Heer SNOUCK eenigszins bekend met het terrein… dan zou hij zich een begrip hebben kunnen vormen van den laster, waaraan een djaksa blootstaat die, als MOHAMAD ARIF, honderden heeft moeten vervolgen gedurende zoovele jaren alhier."*
+
+In the same *Verslag* Snouck had argued that Atjeh could only be subdued *door een energieken krijg* (by an energetic war), and that the instelling der *geconcentreerde linie* *het juiste begrip van onze macht bij den Atjeher zou hebben geschokt*. The governor answered in a *zeer geheimen* brief of [[17 July]] [[1893]] no. 559/K to the Governor-General that he could not concede this — it was, Zentgraff comments, *de trouvaille op het gebied eener prettige en onbloedige strategie* (the discovery in the field of a pleasant and bloodless strategy): the way to make the enemy harmless was to stay out of contact with him.
+
+Snouck also edited, in his *rapport van 1892*, the *vlugschriften* (pamphlets) of the Acehnese *oelama* [[Tengkoe Koetakarang]] under the title *[[Tadkirat arrakidin]]* — *Vermaning der stilzittenden* (Exhortation of the sit-stillers) — bringing Koetakarang's harsh verdict on Dutch bad faith (the banishment of *generaal éénoog* [[Van der Heyden]]) before the Dutch reading public.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+## The mission of 1891–1892 and De Atjehers
+
+By [[1892]] many, including men on the Government side, had begun to doubt whether the costly *Atjeh-vraagstuk*, dragging on and pressing on the whole of the Indies, could ever be solved in so passive a manner. That doubt led among other things to the despatch of "den taalgeleerde dr. Snouck Hurgronje, den grooten kenner van den Islam," with instructions to study conditions in Atjeh on the spot and report on them. To carry out that commission he stayed in Atjeh from July [[1891]] to February [[1892]].
+
+His report, which the Government at first shelved, became the core of the standard work *[[De Atjehers (1893-1894)|De Atjehers]]*, published on the Government's order in [[1893]]. In it the true internal condition of Atjeh and the mutual relations of its people were laid bare, with the unambiguous conclusion "only general and vigorous action can put an end to the resistance."
+
+## The three causes of the persistence of resistance
+
+Snouck's conclusions, as summarised in [[J. W. Naarding]]'s *[[The Conflict Snouck Hurgronje, Van Heutsz, Van Daalen (1938)|Het conflict Snouck Hurgronje — Van Heutsz — Van Daalen]]* and quoted by du Croo, identified three causes.
+
+First, Atjeh was no single-headed state that could be subdued by satisfying the head of state, destroying the state power or occupying the seat of state, but "a complicated grouping of a number of federations of small agrarian communities," so that the situation could be mastered only by subjecting the ten-thousand-headed people and its local chiefs.
+
+Second, "Acehnese nationality was a religious nationality," drawing its strength and conviction from Islam; the Atjeh war was therefore "a new period in the world-historical drama: the Holy War between believers and unbelievers, which received continual spiritual nourishment and guidance from the headquarters of the faith, [[Mekka]], and which permitted an armistice but no lasting peace."
+
+Third, that holy war was waged by bands which were masters of guerrilla warfare but had at the same time developed the *bendewezen* into a profitable "nationaal nevenbedrijf," rooted in "the brutalising and devastating effect of the long war" and "in the popular character inclining towards lawlessness."
+
+Yet the main occupation of the Acehnese people remained agriculture, "and the Acehnese farmer was in his deepest nature like all farmers: a quiet man, if only one left him, his field, his beasts and his family in peace."
+
+## The prescription
+
+The great art — and this, in Naarding's phrase, was the *new* Atjeh problem — would be to put an end to the relation between the practitioners of the normal peace-trade and those of the abnormal war-trade, between peasants and bands. Snouck had already indicated the means: even after the conquest and occupation of a district, the remaining individual or grouped enemies must be struck so hard and so long that the Acehnese peasant would be restrained by *fear* from maintaining any relation whatever with the Acehnese *[[djahat]]*. But simultaneously the same peasant must be given *trust* in Dutch authority and Dutch power and the certainty of complete protection against those bands — and to achieve that it was equally necessary to win the confidence of the well-disposed and indispensable chiefs, since only with and through the chiefs could the population be reached.
+
+Snouck's later formulation in *[[Verspreide Geschriften IV]]* was the phrase that recurs throughout du Croo's book: "the combination of means of pacification derived from sound principles of government with the unavoidably hard measures that must break the resistance."
+
+Another of his maxims, taught to his pupils, was *"Like for like — that is mercy"* — a principle du Croo saw applied in the *[[Korte Verklaring]]*, which "on the one hand guaranteed a state of affairs equivalent to the introduction of direct rule, yet moderated the consequences of our intervention, and on the other offered an unsought opportunity to leave a great part of the administrative task in the hands of the existing native organisations."
+
+Snouck's own judgement of the *Korte Verklaring* ("Short Declaration") is quoted at length: at the conclusion of such agreements only a few articles attract the attention of the self-governing rulers, such as those fixing their incomes or disposing of the revenues of their territory; for the rest the contract is for them simply the form in which they declare their subordination to the Government, "they know very well that the degree of that subordination never depends on the content of those articles, but rather on the manner in which the administration knows how to make its will respected." Such agreements should therefore be as brief as possible in form but should above all contain the general promise of the self-governing rulers to govern their territory according to the views of the Government as those are gradually made clear to them by the officials designated in the contract.
+
+## Adviser to van Heutsz
+
+When general [[Van Vliet]] retired in March [[1898]], van Heutsz was appointed Governor of Atjeh with Snouck Hurgronje as adviser. On the first programme point — "press on, lose not a day, never let the enemy recover" — "the Atjeh scholar and the Atjeh soldier were in complete agreement; so completely that with Snouck there could be no hesitation: Van Heutsz, and no one but he, would be Atjeh's Marshal Forward!"
+
+## Opposition to Van Daalen and to Swart
+
+Snouck Hurgronje considered [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] wholly unsuitable for the governorship, and warned Governor-General [[Rooseboom]] in a letter of [[2 October]] [[1903]] in terms du Croo called a *Mene Tekel*, describing Van Daalen's "deeply rooted contempt for everything that is native," his ridiculous demands of respect, his use of the *rotan*, and the tyrannical arbitrariness of the justice administered under him.
+
+By [[1908]] the relation between van Heutsz and the scholar had sharpened into a very unpleasant one, partly as a result of what du Croo called "utterances and publications that gave offence not without reason" of Snouck's. In the *[[Nieuwe Courant]]* of [[16 June|16]]–[[19 June]] [[1908]] Snouck wrote of the newly appointed Governor Swart: "Does the appointment of the newly named Governor Swart offer any guarantee of a better policy? We must answer this question decidedly in the negative. As a troop commander Swart is indeed valued by the most competent judges, but he is by no means placed on a level with Van Daalen. As regards knowledge of Atjeh and the Acehnese, he cannot stand in Van Daalen's shadow. In character there is perhaps as much difference between Swart and Van Daalen as between Van Daalen and Van Heutsz, but this difference does not benefit the provision of what Atjeh needs above all else…"
+
+Snouck also urged that there was needed "one highly placed official jointly responsible to the Government, who possesses a sound and reliable knowledge of Atjeh's land and people … and on whose advice the pacification measures rest."
+
+Van Heutsz answered that Snouck himself was by character wholly unsuited to such supervision, and the Government instead chose a member of the [[Raad van Nederlandsch-Indië]], [[Liefrinck]], as the compromise: "the side of force is represented by the Governor, the side of deliberation by Mr Liefrinck."
+
+Du Croo's verdict was that Snouck had mistaken his man: the passage stood recorded still in his *Verspreide Geschriften*, but the facts and the years [[1918]]–[[1939]] had proved "that Swart could indeed do it, that he broke the resistance and, where necessary, broke it hard, and that besides this, as regards the pacification, he was precisely a pacifier of the first order. And then it was Snouck's turn to be mistaken, still more painfully than the others."
+
+## Significance (du Croo, 1943)
+
+Snouck Hurgronje's analysis supplied the doctrine of the entire pacification, and his formula on the combination of solid administrative means with unavoidably hard measures recurs as the standard by which du Croo measures every governor from van Heutsz to Swart. His public condemnation of Swart in [[1908]] made the Governor's "welkom" in press and periodical "verre van hartelijk en op vertrouwen stoelende," and remained a grievance in Swart's circle for decades.
+
 ## See Also
 
 - [[A. W. S. O'Sullivan translation of De Atjehers]]
@@ -232,8 +294,17 @@ Kruisheer's identification of Snouck Hurgronje as a "*key influence on Dutch col
 - [[1908]]
 - [[1939]]
 - [[1950]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Gotfried Coenraad Ernst van Daalen]]
+- [[De Atjehers (1893-1894)]]
+- [[J. W. Naarding]]
+- [[Verspreide Geschriften IV]]
+- [[Liefrinck]]
+- [[Nieuwe Courant]]
+- [[1892]]
+- [[1898]]
 
-## Sources
+## Source
 
 *The Achehnese*, Vol. I & II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
@@ -255,22 +326,6 @@ Kruisheer's identification of Snouck Hurgronje as a "*key influence on Dutch col
 
 *DLP-54: Een 16de eeuwse Maleise vertaling van de Burda van al-Būṣīrī* (OCR text 20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt), pp. 31–32.
 
-*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
-
-## Account from *Atjeh* by H.C. Zentgraff (1938)
-
-[[H.C. Zentgraff|Zentgraff]] records Snouck Hurgronje's *Verslag over de politiek-religieuze toestanden in Atjeh* ([[1892]]) as the source of *zeer onaangename dingen* (very unpleasant things) about the Acehnese establishment and colonial administration alike.
-
-Of the *hoofdpenghoeloe* of [[Koetaradja]], [[Hadji Abdoelah]], Snouck wrote that he was *"een schaamteloozen, onzedelijken, even brutalen als onkundigen schelm, in Atjeh geboren zoon van een Indisch bedelaar en eene slavin…"* — a shameless, immoral, as brazen as ignorant rogue. Of the *hoofddjaksa* [[Mohamad Arif]] he wrote that he was *"de toean besar sastrar van Atjèh"* but *"in hooge mate omkoopbaar, willekeurig en tyranniek"* (highly corruptible, arbitrary, and tyrannical), a man who lived beyond his salary and lent money at *grobe rente* (gross interest) to Atjeh chiefs.
-
-The governor of Atjeh answered Snouck in a despatch that defended Mohamad Arif: *"Gelijk alle eenzijdig ingelichten, ulterate vlug in het oordeelen, vergat Dr. SNOUCK HURGRONJE het, 'hoor en wederhoor' ook tegenover dezen ambtenaar in acht te nemen… Ware de Heer SNOUCK eenigszins bekend met het terrein… dan zou hij zich een begrip hebben kunnen vormen van den laster, waaraan een djaksa blootstaat die, als MOHAMAD ARIF, honderden heeft moeten vervolgen gedurende zoovele jaren alhier."*
-
-In the same *Verslag* Snouck had argued that Atjeh could only be subdued *door een energieken krijg* (by an energetic war), and that the instelling der *geconcentreerde linie* *het juiste begrip van onze macht bij den Atjeher zou hebben geschokt*. The governor answered in a *zeer geheimen* brief of [[17 July]] [[1893]] no. 559/K to the Governor-General that he could not concede this — it was, Zentgraff comments, *de trouvaille op het gebied eener prettige en onbloedige strategie* (the discovery in the field of a pleasant and bloodless strategy): the way to make the enemy harmless was to stay out of contact with him.
-
-Snouck also edited, in his *rapport van 1892*, the *vlugschriften* (pamphlets) of the Acehnese *oelama* [[Tengkoe Koetakarang]] under the title *[[Tadkirat arrakidin]]* — *Vermaning der stilzittenden* (Exhortation of the sit-stillers) — bringing Koetakarang's harsh verdict on Dutch bad faith (the banishment of *generaal éénoog* [[Van der Heyden]]) before the Dutch reading public.
-
-*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
-
-## Source (Kruisheer's *ATJEH '96*)
-
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 19, 24, 439.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters III, V, VIII, IX, XIII, XIV, pp. 14–17, 34, 81–82, 88–89, 130, 142.

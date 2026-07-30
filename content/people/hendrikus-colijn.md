@@ -1,7 +1,7 @@
 ---
-title: Hendrikus Colijn
-aliases: ["Hendrikus Colijn", "Colijn", "Hendrikus Colijn as minister of Oorlog", "Colijn (Atjeh veteran)"]
-tags: [person, officer, dutch, knil, marechaussee, aceh, colonial, military, administrator, politician, minister, buitenbezittingen, acheh]
+title: "Hendrikus Colijn"
+aliases: ["Colijn", "Hendrikus Colijn as minister of Oorlog", "Colijn (Atjeh veteran)", "H. Colijn", "dr. H. Colijn", "kapitein Colijn", "adjunct regeeringscommissaris Colijn"]
+tags: [person, officer, dutch, knil, marechaussee, aceh, colonial, military, administrator, politician, minister, buitenbezittingen, acheh, 20th-century]
 description: "Dutch military officer, colonial administrator, and Prime Minister of the Netherlands (1925–1926, 1933–1939), who served as a young officer in Aceh, accepted the surrender of the Sultan's commander-in-chief Panglima Prang Polim, and became the first Adviseur voor de Bestuurszaken der Buitenbezittingen in 1908."
 ---
 
@@ -51,11 +51,9 @@ Colijn left the colonial service in [[1909]] to enter Dutch politics. He became 
 
 Colijn's combination of military experience, administrative skill, and political acumen made him one of the most influential figures in the transition from the Aceh War to the era of consolidation and ethical governance. His early warnings about Van Daalen were vindicated by the Atjéh-enquête, and his subsequent political career ensured that the principles of the "ethical policy" were carried forward into the twentieth century. In the narrative of *Oom Ambon van het K.N.I.L.*, his reception of the Sultan's own army commander is the moment at which the formal Acehnese political establishment passed under Dutch authority — the commander of the Sultan's own army came in to a young Dutch *kapitein* who would, decades later, become the Prime Minister of the colonial power. In the wider frame of Merac's *Oost-Indisch Journael*, the same man is one of the Marechaussee commanders whose name "rang through the Indies like carillon music" — the only one of Musket's roll-call whose colonial career carried him all the way to the Prime Ministership of the Netherlands.
 
-
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
 
 The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
-
 
 **Hendrikus Colijn** ([[1869]]-[[1944]]) — a Dutch Anti-Revolutionary politician and a former Atjeh veteran — served as minister of War (*minister van Oorlog*) in the [[W. H. Vermeulen|Vermeulen]]-period [[Tweede Kamer]] and is cited in *Schets eener parlementaire geschiedenis* as one of the right-wing figures whom the anti-revolutionary [[Abraham Kuyper|Kuyper]]-[[Heemskerk]] ministries of the post-[[1909]] period "moesten afstaan" — had to surrender — to the cabinet. His presence in the cabinet links the [[Pacificatie van Atjeh|pacificatie]] era to the post-[[1918]] colonial-policy debates.
 
@@ -70,6 +68,26 @@ In the cabinet of the [[W. H. Vermeulen|Vermeulen]] period [[Hendrikus Colijn|Co
 ### Significance
 
 [[Hendrikus Colijn|Colijn]]'s career connects the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]] generation of Dutch military officers to the post-war colonial-policy debates of the [[Ethische Politiek|ethical-policy]] state. His presence in the [[Heemskerk]] and subsequent cabinets is one of the conduits by which the lessons of the Atjehnese pacification were carried forward into the Indies-defence debates of [[1913]]-[[1918]].
+
+## From volunteer soldier to Excellency
+
+Colijn belonged, with van Heutsz and Swart, to the group of *adspirant-onderofficieren* who entered service as volunteer soldiers, reached officer rank through the *Hoofdcursus*, and nevertheless attained Excellency: "J. B. van Heutsz became Governor-General, and Dr H. Colijn minister of Colonies and of Defence and Prime Minister."
+
+## Candidate for the Atjeh governorship, 1904
+
+In van Heutsz's written assessment of [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] as his successor, Colijn was named as one of two officers superior in qualities of head and character: "I express this judgement notwithstanding that there are officers serving in this province — namely Major X… and Captain H. Colijn — who by qualities of head and character must be rated higher than Colonel Van Daalen. But these two gentlemen are candidates for the future, after Colonel Van Daalen. Captain Colijn is still too low in rank and too junior on the seniority list to be considered a candidate for the governorship now."
+
+## With Swart in 1908
+
+Van Heutsz attached Colijn to Swart for the first months of the new governorship, telling Swart: "if you then have something to propose, you need not talk about it for days and cover sheets of paper. You simply hand it over to Colijn. He will deal with it." Swart found the arrangement very convenient, expecting to have his hands full in the first period; Colijn also let him read his reports, "and with that I was in complete agreement."
+
+Swart's own account of the first weeks records: "Then I went at once by tram with Colijn eastward as far as [[Langsa]], to get an impression for myself. I discussed everything with Colijn, and together we determined what should be brought to the notice of the Governor-General. And then Colijn wrote the letter." Colijn stayed with Swart for some months and was succeeded by the two years of supervisory visits from [[Liefrinck]].
+
+## Earlier and later in Atjeh
+
+Van Heutsz's letter to minister [[Alexander Willem Frederik Idenburg|Idenburg]] of July [[1908]] recorded that in the [[Tapa' Toean|Tapa' Toeansche]], "waar vroeger Colijn, [[Campioni]] en [[Schneider]] alleen gingen," travel without military escort had by then become impossible.
+
+Colijn, "the future adviser for the Outer Provinces," visited Atjeh again shortly before [[March]] [[1914]], by then already a former minister; his judgement of the situation then agreed entirely with Swart's own, as expressed in the [[Sumatra Post]] interview, and with that of the minister of Colonies who had proposed replacing the military authority in Atjeh wholly by the civil.
 
 ## See Also
 
@@ -133,8 +151,13 @@ In the cabinet of the [[W. H. Vermeulen|Vermeulen]] period [[Hendrikus Colijn|Co
 - [[G. C. E. van Daalen]]
 - [[1899]]
 - [[1913]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Gotfried Coenraad Ernst van Daalen]]
+- [[Liefrinck]]
+- [[Alexander Willem Frederik Idenburg]]
+- [[Opening der Buitengewesten]]
 
-## Sources
+## Source
 
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 32–35, 52–53, 86–95, 161, 224–225, 231–232. Rijksarchief, Den Haag.
 
@@ -147,3 +170,5 @@ In the cabinet of the [[W. H. Vermeulen|Vermeulen]] period [[Hendrikus Colijn|Co
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Voorwoord, frontispiece portraits, and p. 3 (Bestuurs-organisatie).
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), p. 266.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter I, p. 1; Chapter VIII, p. 82; Chapter IX, pp. 88–91; Chapter XVI, p. 149.

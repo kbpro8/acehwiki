@@ -1,7 +1,7 @@
 ---
-title: General Deykerhoff
-aliases: ["Deykerhoff", "governor Deykerhoff", "Deyckerhoff", "Deijckerhoff"]
-tags: [person, colonial-official, dutch, military, governor, colonial, acheh]
+title: "General Deykerhoff"
+aliases: ["Deykerhoff", "governor Deykerhoff", "Deyckerhoff", "Deijckerhoff", "C. Deijckerhoff", "generaal Deijckerhoff", "Gouverneur Deijckerhoff"]
+tags: [person, colonial-official, dutch, military, governor, colonial, acheh, general, knil, aceh, aceh-war, 19th-century]
 ---
 
 **General Deykerhoff** was a Dutch military officer who served as Governor of [[Acheh|Acheh]] during the closing phase of the so-called **"Uma-period"** — the three years of the [[Concentration Scheme|concentration-scheme]] policy that gave the adventurer [[Teuku Uma|Teuku Uma]] his fatal influence over the affairs of the colony. Snouck Hurgronje mentions him in the Introduction to *The Achehnese* as the "blindly-trusting General Deykerhoff" on whom [[Teuku Uma|Teuku Uma]] finally turned, in [[Defection of Teuku Uma|Defection of Teuku Uma]], when the latter judged that the time had come to reveal the long-concealed hostility that lay beneath his professed friendship for the Dutch.
@@ -12,11 +12,9 @@ Armed and subsidised by the colonial government, Uma used his Dutch patron's con
 
 The episode had at least one salutary consequence. "The Uma episode, however melancholy in itself, indirectly exercised a healthy influence upon the management of Achehnese affairs. Its termination opened all eyes to the need of vigorous action if one did not wish to abandon altogether the subjugation of Acheh". In [[1896]] the war was resumed, and from [[1898]] under [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] the subjugation was systematically prosecuted. Deykerhoff's governorship thus marks the nadir of Dutch policy in Acheh, and the immediate cause of the decisive turn that followed.
 
-
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
 
 The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
-
 
 **Deykerhoff** — governor of Atjeh in the early [[1890s]] — is, in the source's narrative, the colonial administrator who, alongside the governor-general [[Pijnacker Hordijk|Pijnacker Hordijk]], declined to follow the [[1892]] advice of [[Dr. C. Snouck Hurgronje|Dr. C. Snouck Hurgronje]] and instead placed his trust in [[Teungku Um|Teungku Um]] — the warlord who would defect in [[1896]] and turn his modern-Dutch arms against his former patrons.
 
@@ -31,6 +29,28 @@ Against [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]]'s warning, [[Deykerhoff|Dey
 ### Significance
 
 [[Deykerhoff|Deykerhoff]]'s significance for the encyclopedia of [[Acheh]] history lies in his role as the colonial governor whose rejection of the [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]] advice and whose trust in [[Teungku Um|Teungku Um]] produced the [[1896]] defection that ended the policy of co-opting Atjehnese warlords as Dutch allies.
+
+## Appointment
+
+After the retirement of general [[J. van Teijn|Van Teijn]] the Government again chose the policy of waiting and negotiating. "And thus, after a short and feeble rule by General [[Pompe van Meerdervoort]], General Deijckerhoff took office."
+
+## The policy of conciliation
+
+Deijckerhoff was "a convinced adherent of the policy of conciliation." That policy corresponded entirely with the demands of the Indies moment in [[1892]], because the army was then preparing for a large-scale undertaking against [[Lombok]] which would probably require all its strength, so that Atjeh could count on no reinforcement. Action on an extended scale therefore had to be avoided — "and that lay entirely in the line of Deijckerhoff's views."
+
+"But the application of those views also brought with it that the courage and enterprise of the warlike Acehnese greatly increased: if the *Kompeni* did not dare, he dared twice as much at once!"
+
+## The Legioen and the disaster of 1896
+
+Deijckerhoff nevertheless felt that complete inactivity could bring no solution. "That feeling led to a proposal to the Government that was bound to lead to the disaster of 1896: the Acehnese resistance party would be fought by Acehnese well disposed towards us, equipped by us, armed by us and paid by us!"
+
+The Government accepted the proposal, and as commander of the Legion appeared [[Teukoe Oemar]], "an adventurer … and unquestionably untrustworthy." Although T. Oemar had repeatedly submitted and just as repeatedly attacked Dutch troops afterwards, "Deijckerhoff continued to place rock-firm confidence in him": T. Oemar was appointed *[[oelèëbalang]]* of [[Leupoeëng]] and in September [[1893]] solemnly installed as *[[Panglima Prang Besar]]*.
+
+It began very well; Dutch authority was restored over the greater part of the territory. But in [[1896]] the *Panglima Prang Besar* went over to the resistance party with the Legion the Dutch had armed and paid. "Deijckerhoff had to resign, and [[Joannes Benedictus van Heutsz|Van Heutsz]] got his long-awaited chance."
+
+## Significance (du Croo, 1943)
+
+Deijckerhoff's governorship is the negative case on which the entire argument of du Croo's book rests: it demonstrated that conciliation unsupported by demonstrated power produced not submission but emboldened resistance, and it produced the catastrophe that finally allowed the doctrine of [[Christiaan Snouck Hurgronje]] and van Heutsz to be applied.
 
 ## See Also
 
@@ -47,12 +67,17 @@ Against [[Dr. C. Snouck Hurgronje|Snouck Hurgronje]]'s warning, [[Deykerhoff|Dey
 - [[Teungku Um]]
 - [[Dr. C. Snouck Hurgronje]]
 - [[Pijnacker Hordijk]]
+- [[Teukoe Oemar]]
+- [[Legioen van Teukoe Oemar]]
+- [[Joannes Benedictus van Heutsz]]
+- [[J. van Teijn]]
+- [[Atjeh van 1890 tot 1898]]
+- [[Christiaan Snouck Hurgronje]]
 
-## Sources
+## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 ---
-
 
 **General Deykerhoff** was a Dutch military officer who served as Governor of [[Acheh|Acheh]] during the closing phase of the so-called **"Uma-period"** — the three years of the [[Concentration Scheme|concentration-scheme]] policy that gave the adventurer [[Teuku Uma|Teuku Uma]] his fatal influence over the affairs of the colony. Snouck Hurgronje mentions him in the Introduction to *The Achehnese* as the "blindly-trusting General Deykerhoff" on whom [[Teuku Uma|Teuku Uma]] finally turned, in [[Defection of Teuku Uma|Defection of Teuku Uma]], when the latter judged that the time had come to reveal the long-concealed hostility that lay beneath his professed friendship for the Dutch.
 
@@ -62,7 +87,6 @@ Armed and subsidised by the colonial government, Uma used his Dutch patron's con
 
 The episode had at least one salutary consequence. "The Uma episode, however melancholy in itself, indirectly exercised a healthy influence upon the management of Achehnese affairs. Its termination opened all eyes to the need of vigorous action if one did not wish to abandon altogether the subjugation of Acheh". In [[1896]] the war was resumed, and from [[1898]] under [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] the subjugation was systematically prosecuted. Deykerhoff's governorship thus marks the nadir of Dutch policy in Acheh, and the immediate cause of the decisive turn that followed.
 
-
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
-
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 218.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, pp. 14–17; Chapter V, p. 33.

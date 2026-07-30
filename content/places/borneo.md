@@ -1,11 +1,10 @@
 ---
-title: Borneo
-aliases: ["Kalimantan", "Borneo island", "West-Borneo", "Borneo's West Coast", "Borneo (island)"]
-
-tags: [place, island, foreign, east-indian-archipelago, borneo, dutch-east-indies, malay-archipelago, southeast asia, colonial]
+title: "Borneo"
+aliases: ["Kalimantan", "Borneo island", "West-Borneo", "Borneo's West Coast"]
+tags: [place, island, foreign, east-indian-archipelago, borneo, dutch-east-indies, malay-archipelago, southeast asia, colonial, indies, dutch, pacification]
 ---
 
-**Borneo** — the third‑largest island in the world, known in modern Indonesian as **Kalimantan** and situated in [[Southeast Asia]] — appears in early nineteenth‑century sources both as a geographical reference for Acehnese folklore and as a contested frontier of the [[Dutch East Indies]] and the [[British Empire]]. In [[C. Snouck Hurgronje]]’s *The Achehnese* (Vol. I) the island is invoked to illustrate the spread of legends about hidden, hairy peoples, while [[P. H. van der Kemp]]’s account of the [[Raffles' Atjeh-overeenkomst van 1819|Aceh agreement of [[1819]]]] portrays Borneo’s west coast as a theatre of Anglo‑Dutch rivalry that intensified after the [[Anglo-Dutch Treaty of [[1824]]|treaty of 1824]]. By the mid‑nineteenth century the Dutch feared smuggling between [[Singapore]] and the western coast, prompting naval expeditions ([[1850]]–[[1854]]) and a series of diplomatic and commercial maneuvers that linked Borneo to the broader politics of the [[Malay archipelago]].
+**Borneo** — the third‑largest island in the world, known in modern Indonesian as **Kalimantan** and situated in [[Southeast Asia]] — appears in early nineteenth‑century sources both as a geographical reference for Acehnese folklore and as a contested frontier of the [[Dutch East Indies]] and the [[British Empire]]. In [[C. Snouck Hurgronje]]’s *The Achehnese* (Vol. I) the island is invoked to illustrate the spread of legends about hidden, hairy peoples, while [[P. H. van der Kemp]]’s account of the [[Raffles' Atjeh-overeenkomst van 1819|Aceh agreement of [[1819]] portrays Borneo’s west coast as a theatre of Anglo‑Dutch rivalry that intensified after the [[Anglo-Dutch Treaty of [[1824]]|treaty of 1824]]. By the mid‑nineteenth century the Dutch feared smuggling between [[Singapore]] and the western coast, prompting naval expeditions ([[1850]]–[[1854]]) and a series of diplomatic and commercial maneuvers that linked Borneo to the broader politics of the [[Malay archipelago]].
 
 ## Folklore and Comparative Legends
 
@@ -21,7 +20,7 @@ Van der Kemp’s narrative introduces **Major Farquhar**, Resident of [[Malacca]
 
 Farquhar’s conviction that the [[Karimon Islands]] offered an alternative British commercial base contributed directly to the founding of [[Singapore]] in [[January 1819]]. Van der Kemp later critiques Dutch policy, noting that “dat wij er niet naar gestreefd hebben” — the Dutch had not pursued Borneo with sufficient vigor while European diplomats exchanged [[Hindostan|Nederlandsch Hindostan]] for [[Malacca]] and renounced British claims on [[Sumatra]].
 
-The figure of **Raja Akil** of [[Siak]] exemplifies the porous political networks linking Sumatra and Borneo. In [[1828]] Van der Kemp records that Raja Akil “werd vorst van Soekadana op Borneo” — he became prince of [[Sukadana]] on Borneo. His career illustrates how the “indeterminate frontier” of Borneo’s western sultanates (Pontianak, Sukadana) was woven into the diplomatic fabric that the [[Anglo-Dutch Treaty of 1824|treaty of [[1824]]]] sought to formalise.
+The figure of **Raja Akil** of [[Siak]] exemplifies the porous political networks linking Sumatra and Borneo. In [[1828]] Van der Kemp records that Raja Akil “werd vorst van Soekadana op Borneo” — he became prince of [[Sukadana]] on Borneo. His career illustrates how the “indeterminate frontier” of Borneo’s western sultanates (Pontianak, Sukadana) was woven into the diplomatic fabric that the [[Anglo-Dutch Treaty of 1824|treaty of [[1824]] sought to formalise.
 
 ## Mid‑Nineteenth‑Century Colonial Activities
 
@@ -34,6 +33,10 @@ These developments underscore Borneo’s transformation from a largely unmapped 
 ## Significance
 
 Borneo’s role in the early nineteenth‑century diplomatic negotiations over the [[Malay archipelago]] and its later mid‑nineteenth‑century colonial confrontations illustrate the island’s strategic importance as both a commercial conduit and a frontier of imperial control. The juxtaposition of folklore (the Uyaks) with concrete geopolitical maneuvering reveals how perceptions of the island’s interior—whether as a realm of mythic “hairy peoples” or as a space for trade and military activity—shaped European attitudes and policies toward the region.
+
+## Account in du Croo’s Generaal Swart (1943)
+
+Swart's childhood had also been spent partly in Borneo: in his seventh year his father's posting took the family to [[Soekadana]], "a post under a lieutenant with a few European sergeants," from whose non-commissioned officers Swart learned "a little arithmetic and the Dutch language" until his ninth year. As Resident he brought about "a complete reversal in Borneo within the space of a year," the [[Pacification of the South and East Division of Borneo (1905–1906)|pacification]] of [[1905]]–[[1906]].
 
 ## See Also
 
@@ -57,6 +60,10 @@ Borneo’s role in the early nineteenth‑century diplomatic negotiations over t
 - [[Labuan]]
 - [[Kongsi]]
 - [[Sultanate of Aceh]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
@@ -65,3 +72,5 @@ Borneo’s role in the early nineteenth‑century diplomatic negotiations over t
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
 *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 109‑111.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter II, VI; Extract from the service record.

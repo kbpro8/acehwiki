@@ -1,8 +1,9 @@
 ---
-title: Deli
-aliases: [Delli, Délí, Delhi, Dellie, Deli sultanate]
-tags: [place, sultanate, coast, region]
+title: "Deli"
+aliases: ["Delli", "Delhi", "Dellie", "Deli sultanate"]
+tags: [place, sultanate, coast, region, sumatra, colonial, economy, plantations]
 ---
+
 **Deli** (Dutch and English *Deli*, also *Delli*, *Dellie*; in one British translation misspelt "Delhi") was a small Malay sultanate on [[Sumatra's East Coast]], south of [[Langkat]] and north of [[Batu Bara]]. Although nominally a dependency of [[Acheh]], Deli enjoyed practical independence by the early nineteenth century and carried on an extensive trade with the British settlement at [[Penang]]. It is the most fully treated of the East Coast states in Van der Kemp's article, on account of the long and embarrassing Said Akil affair.
 
 ## A dependency of Acheh
@@ -25,6 +26,10 @@ In early [[1828]] the [[Shahbandar of Deli]] wrote directly to the governor of P
 
 The Deli episode serves Van der Kemp's larger purpose in two ways. First, it illustrates the utter uselessness of the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] as an instrument of British policy: the sultan of Acheh, who had never been in a position to fulfil any of its stipulations, was reduced to invoking its Article 1 against the proceedings of a British subject whom the Penang government could not or would not control. Second, it shows why the British government, while formally renouncing political interference on [[Sumatra]] after [[1824]], continued to maintain intimate, if informal, relations with the petty East Coast states. The Deli correspondence, together with the [[Fullerton's circular to nine Siak chiefs|Siak correspondence of 1828]] and the [[Bellona mission to Sumatra's East Coast (1827-1828)|Bellona affair]], is printed by Van der Kemp in his Appendices to show the consistent British policy of treating the East Coast as a commercial preserve.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+[[J. C. Lamster|Lamster]] recorded that "the connection of the Atjeh tramway with Deli was established"; the correspondent of the *[[Nieuwe Courant]]* wrote in [[1914]] that "in a couple of months [[Koeta Radja|Kota Radja]] will be in direct rail connection with the Deli plantation district." A redactor of the *[[Deli Courant]]* of [[Medan]] visited Atjeh in [[1916]] and described in ten articles, *Atjeh in Vogelvlucht*, a country wholly at rest and in flower.
+
 ## See Also
 
 - [[Sumatra's East Coast]]
@@ -43,7 +48,13 @@ The Deli episode serves Van der Kemp's larger purpose in two ways. First, it ill
 - [[Treaty of Pedir (1819)|Acheh treaty of 1819]]
 - [[Said Akil's Deli adventure (1824-1828)]]
 - [[Sultan of Deli's letter to Penang]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XIII, XVI.

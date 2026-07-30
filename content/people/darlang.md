@@ -1,7 +1,7 @@
 ---
-title: Darlang
-aliases: [Darlang, Lieutenant Darlang, Toean Darlang, Patrol Commander Darlang, Raadjo Boekit, Raadja Boekit, Heer der Bergen, Lord of the Mountains]
-tags: [person, officer, dutch, knil, marechaussee, aceh, aceh-war, 20th-century, peutjoet]
+title: "Darlang"
+aliases: ["Lieutenant Darlang", "Toean Darlang", "Patrol Commander Darlang", "Raadjo Boekit", "Raadja Boekit", "Heer der Bergen", "Lord of the Mountains", "F. Darlang", "kapitein Darlang", "F. Darlang Ridder 3e kl. M.W.O.", "colonne Darlang"]
+tags: [person, officer, dutch, knil, marechaussee, aceh, aceh-war, 20th-century, peutjoet, military, westkust, gayo]
 ---
 
 **Darlang** — *Toean Darlang* (in the Acehnese idiom of the old hunter [[Datoek]]), known to the Acehnese as *Raadjo Boekit* ("Heer der Bergen", Lord of the Mountains) — was a maréchaussée officer and [[panglima]] of the [[Korps Marechaussee van Atjeh en Onderhorigen]] in [[Atjeh|Aceh]], one of the great patrol commanders of the [[Aceh War|Atjeh-oorlog]], a man to whom, in [[H.C. Zentgraff|Zentgraff]]'s phrase, *"het begrip vrees volkomen onbekend was"* — the very concept of fear was wholly unknown. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Darlang is the eleventh-named in [[Musket]]'s list of the Marechaussee commanders — "Gilles Graafland, Van Daalen, Campioni, Christoffel, Van der Maaten, Scheepens, Watrin, Webb, Colijn, Geertsema Beckering, Darlang and the sergeants Nussy, Salowono, Pongoh … a colourful row" — and one of the *sobat kras* (heavy friends) whom [[Datoek]] names in the chapter *Jagerslatijn*.
@@ -28,6 +28,16 @@ He and Death had so often looked each other in the eyes that they were really ol
 
 Darlang looked at the clock, and felt fully what the deepest meaning of a clock-face is. Then he had champagne brought, and spent those last hours talking with his friends and drinking a glass. To the last he looked Death in the face, and at three o'clock in the morning he died. His *sul* (grave) on [[Peutjoet]] is one of the most striking.
 
+## The Westkust, 1909
+
+When in [[1909]] the Civil Authority [[A. Geertsema Beckeringh]] could at last dispose of sufficient means of power at [[Meulaboh]], it was "a mobile marechaussee column under the command of the well-known marechaussee captain Darlang" that temporarily occupied first the mouth of the [[Wòjla]] and later [[Boebon]] — one of the conditions that reduced the disturbed area of the Meulaboh country to [[Beneden Wòjla]], Boebon and [[Seunagan]].
+
+## The Gajòlanden and Alaslanden
+
+In [[1910]] "the Darlang column remained in the [[Péndéngvallei|Péndéng valley]], so that [[Lebé Grondong]] (a notorious resistance leader) moved with his henchmen to the neighbouring sub-divisions."
+
+Swart's letter to [[H. J. Schmidt]] of [[26 September]] [[1911]] recorded: "You will already have seen from the little Atjeh bulletin that we have had considerable success everywhere this month, Darlang too in the [[Alaslanden|Alas lands]]."
+
 ## See Also
 
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
@@ -52,9 +62,19 @@ Darlang looked at the clock, and felt fully what the deepest meaning of a clock-
 - [[Kimoen]]
 - [[Peutjoet]]
 - [[Aceh War]]
+- [[A. Geertsema Beckeringh]]
+- [[Lebé Grondong]]
+- [[Meulaboh]]
+- [[Wòjla]]
+- [[Gajòlanden]]
+- [[Alaslanden]]
+- [[Corps of Military Constabulary of Atjeh and Dependencies]]
+- [[H. N. A. Swart]]
 
-## Sources
+## Source
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder and the chapter *Jagerslatijn*.
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, pp. 110, 114; Chapter XIV, p. 141 and illustration p. 170.

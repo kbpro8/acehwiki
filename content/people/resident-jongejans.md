@@ -1,7 +1,7 @@
 ---
-title: Resident Jongejans
-aliases: [Jongejans, Resident Jongejans, J. Jongejans, J. J. Jongejans, Jongejans Land en volk van Atjeh]
-tags: [person, dutch, colonial, administrator, scholar, atjeh, resident, 1938, 1939, piekaar-canon]
+title: "Resident Jongejans"
+aliases: ["Jongejans", "J. Jongejans", "J. J. Jongejans", "Jongejans Land en volk van Atjeh"]
+tags: [person, dutch, colonial, administrator, scholar, atjeh, resident, 1938, 1939, piekaar-canon, author, aceh, 20th-century]
 ---
 
 **Jongejans** — **J. J. Jongejans** — was the [[Resident of Atjèh|Resident of Atjèh]] who preceded [[Pauw|J. Pauw]] in the post, and the author of *[[Land en volk van Atjeh vroeger en nu (Jongejans, 1939)|Land en volk van Atjèh vroeger en nu]]* (1939) — one of the principal works on Atjèh cited by [[Dr. A. J. Piekaar|Piekaar]] in the *Bibliography* of *Atjèh and the War with Japan* alongside the works of [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]], [[H. T. Damsté|Damsté]], [[J. Kreemer|Kreemer]], and Zentgraaff. Piekaar's work refers readers to "the works of Dr. Snouck Hurgronje, Damsté, Kreemer, Jongejans, and Zentgraaff listed in the 'Bibliography'" for further detail on the local circumstances described in Chapters III and V.
@@ -32,6 +32,10 @@ The three pieces together — the book and the two *Onze Aarde* articles — mar
 
 For AcehWiki, Jongejans is significant as the former Resident of Atjèh whose [[1939]] survey *[[Land en volk van Atjeh vroeger en nu (Jongejans, 1939)|Land en volk van Atjeh vroeger en nu]]* is one of the principal works on Atjèh in the [[Dr. A. J. Piekaar|Piekaar]] canon, and whose [[1939]] publications — the book and the two *Onze Aarde* articles — make him one of the principal Atjeh-focused authors of the year recorded in Van Meurs's survey. His place in the canon — alongside [[C. Snouck Hurgronje|Snouck Hurgronje]], [[H. T. Damsté|Damsté]], [[J. Kreemer|Kreemer]], and Zentgraaff — establishes the continuity of the Dutch scholarly-administrative tradition on Atjèh from the late-colonial period into the post-war historiography.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+Jongejans's book supplied [[Maurice Henri du Croo|du Croo]] with the figures for estate concessions in Atjeh to the end of [[1937]] — sixty-nine agricultural concessions covering 71,069 hectares, seventy-four leasehold parcels covering 67,287 hectares and thirteen option parcels covering 287,000 hectares — and with the account, written in [[1938]], of the later development of *[[Volksonderwijs in Atjeh|volksonderwijs]]*: 328 village schools, more than 600 teachers, more than 36,000 pupils, and a literacy rate at the census of [[1930]] of only 1.1 per cent against 5.5 per cent on [[Java]]. He also recorded the dependence of village schools, and especially girls' schools, on the support of the *[[oelèëbalang]]*.
+
 ## See Also
 
 - [[Pauw]]
@@ -49,9 +53,15 @@ For AcehWiki, Jongejans is significant as the former Resident of Atjèh whose [[
 - [[1938]]
 - [[1939]]
 - [[1940]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Foreword, Chapter I, and footnotes.
 
 *Literatuur-Overzicht over het jaar 1939 van de Taal-, Land- en Volkenkunde en Geschiedenis van Nederlandsch-Indië*, door H. van Meurs ('s-Gravenhage: M. Nijhoff, 1940), Hoofdstuk III (Sumatra en naburig gebied), Nos. 571, 571a, 572. Citing: J. J. Jongejans, *Land en volk van Atjeh vroeger en nu. Met krt. en ills.* (Baarn, 1939); and J. J. Jongejans, "Taboet- of Hasji-Hosseinfeest. Met ills.," *Onze Aarde* (1939), p. 326 e.v.; and J. J. Jongejans, "Het heiligdom te Oelakan. Met ills.," *Onze Aarde* (1939), p. 305 e.v.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XIII, XVII.

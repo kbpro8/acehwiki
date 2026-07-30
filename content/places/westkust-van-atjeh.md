@@ -1,8 +1,7 @@
 ---
-title: Westkust van Atjeh
-aliases: ["West Coast of Atjeh", "Atjeh's Westkust", "Aceh Barat", "Westkust Atjeh"]
-
-tags: [place, afdeeling, westkust, atjeh, coastal, administrative-division]
+title: "Westkust van Atjeh"
+aliases: ["West Coast of Atjeh", "Atjeh's Westkust", "Aceh Barat", "Westkust Atjeh", "the west coast of Atjeh", "Westkust"]
+tags: [place, afdeeling, westkust, atjeh, coastal, administrative-division, region, aceh, resistance, aceh-war, 20th-century]
 ---
 
 **Westkust van Atjeh** (West Coast of Atjeh) was an *afdeeling* (division) of the [[Gouvernement Atjeh en Onderhoorigheden]], administered by Assistent-Resident [[I. L. O'Brien]]. The Westkust covered the western coastline of the Atjeh territory, an area that had been one of the last regions to come under Dutch control during the Atjeh War and that continued to present significant administrative challenges due to its rugged terrain and dispersed population. The designation "Westkust" reflected the colonial practice of defining administrative units along coastal lines, a pattern characteristic of the *Buitenbezittingen* where Dutch authority had historically been established from the sea inward.
@@ -27,12 +26,48 @@ The fate of the Westkust van Atjeh was closely tied to the broader question of t
 
 The *DLP-84-Atjeh* source frames the West Coast of Atjeh as the steep, rugged shoreline on the western side of [[Aceh|Atjeh]], contrasting sharply with the low, marshy [[East Coast of Aceh|East Coast of Aceh]]. The area presented difficult terrain that required extensive engineering for road construction. The Dutch colonial administration built the mountain road (Dutch: *bergweg*) along the coast, overcoming significant geological obstacles; this road, together with the [[Gajoweg (Gayo Road)|Gajoweg]] cut through the highland jungle, linked coastal villages and facilitated the movement of troops and goods between the Westkust and the colonial capital at [[Koeta-Radja|Koeta-Radja]]. Beyond the engineered routes, the West Coast retained patches of primeval forest (Dutch: *oerbos*) that provided a glimpse of the pre-colonial environment — the dense tropical rainforest that had covered the littoral before the Dutch military conquest and the subsequent expansion of smallholder and plantation cultivation.
 
+## Character of the district
+
+The political situation there left much to be desired in [[1908]]: a difficult district with complicated internal relations and a fanatical and combative population, in which shootings, murderous attacks on well-disposed *gampong* dwellers, destruction of the telephone line and defections to the resistance were the order of the day. Nine *gezaghebbers* had succeeded one another in seven years; the chiefs "begrudged one another the light in their eyes"; and the available force was insufficient.
+
+## Pacification
+
+Improvement began in [[1909]] with the appointment of [[A. Geertsema Beckeringh]] as Civil Authority with sufficient means of power, the mobile column of [[F. Darlang|Darlang]], the clearing of [[Teunòm]] by [[H. J. Schmidt]], and the pacification of the [[Boven Wòjla]] under [[Scheurleer]] from the bivouac [[Tanòh Mirah]], producing the submission of two hundred resistance men who were helped with rice and seed-*padi*. In the sub-division [[Tapa' Toean]] under [[Th. J. Veltman|Veltman]] the great resistance leader [[T. Bén Blang Pidië]] and his sons submitted in the course of [[1908]] with several hundred followers and some twenty rifles.
+
+Setbacks continued: in January [[1910]] a patrol under sergeant [[De Haas]] going up a tributary of the *kr.* Boebon in *prauws* was ambushed, the commander and eight men being killed and eleven carbines lost, of which nine were recovered. In March [[1909]] [[Waki Him]] made an old-fashioned *klewang* attack in Seunagan costing eleven wounded, but which brought him and three of his men their end as *sjahid*. In October [[1910]] lieutenant [[S. van Eendenburg]] was killed by a *klewang* blow near [[Keudé Blang Bajoe]] in Seunagan by the band-head [[Pang Timoe]].
+
+December [[1910]] brought the submission of [[Tgk. Poeti']] with all his *teungkoes*, *panglimas* and sixty followers, and thanks to that general improvement various *landschappen* could in January [[1911]] be opened for industrial and agricultural undertakings — "and this is indeed a very great advance on the fanatical West Coast." In September [[1911]] the great and unfindable [[Keutjhi' Bén]] of [[Geumpang]] was surprised twice by [[J. van Arkel|Van Arkel]] and finally killed by sergeant [[Gackstätter]] in [[Pameu]]. "And with this the time of "political situation favourable" dawned for Meulaboh as well."
+
+## Later incidents
+
+The west coast remained the district of the last serious incidents: the [[Resistance in Daja and Lhong (1914)|murder of W. van Kregten at Lam No]] on [[20 May]] [[1914]] and the murder of the overseer [[C. H. R. Heins]] at [[Lhong]] on [[13 July]] [[1914]]; the [[Attack on Gosenson at Djeuram (29 December 1917)|attack on lieutenant Gosenson at Djeuram]] on [[29 December]] [[1917]]; and the [[Coconut and Sugar-Cane Excursion (April 1918)|Teungkoe Moet affair]] of April [[1918]].
+
+It was again on the west coast that resistance broke out in [[1925]], seven years after Swart's retirement — the occasion on which Swart's opinion was sought in Holland and recorded by [[J. Schaap]] as "Swart's Atjehsch testament." Du Croo attributed the outbreak to the failure of the condition Swart had omitted to state: "provided that the leading civil officials and military men do not spoil my work."
+
+## Development
+
+Roads along the west coast were long unsuitable for through traffic, because the spurs of the mountains repeatedly reach the coast there, and in the first pacification years such construction was too expensive. "The alarm caused by the resistance of 1925–26 became — fortunately — also the cause of the eventual carrying out of through roads and of the connecting roads between the North, East and West Coasts." In later years the west coast, Meulaboh–[[Singkel]], also drew the attention of estate entrepreneurs.
+
+In the [[Administrative Division of Atjeh (1908)|administrative division of 1908]] the Westkust was one of the five *afdeelingen*, each under an Assistant Resident; in [[1910]] [[Singkel]] was added to it from the abolished *afdeeling* [[Bambél]]. [[J. J. Boreel]] was later appointed Assistant Resident of the Westkust.
+
 ## See Also
 
-[[I. L. O'Brien]], [[Groot-Atjeh]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Noord-Sumatra (proposed gewest)]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Koeta-Radja]], [[Oostkust van Atjeh]], [[Noordkust van Atjeh]], [[East Coast of Aceh]], [[Gajoweg (Gayo Road)|Gajoweg]]
+- [[Meulaboh]]
+- [[Tapa' Toean]]
+- [[Seunagan]]
+- [[Wòjla]]
+- [[Teunòm]]
+- [[Daja]]
+- [[Singkel]]
+- [[A. Geertsema Beckeringh]]
+- [[Th. J. Veltman]]
+- [[The resistance in Atjeh 1908–1912]]
+- [[Resistance in Daja and Lhong (1914)]]
 
 ## Source
 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118, 358.
 
 *DLP-84-Atjeh.pdf*, p. 9.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, pp. 110–112; Chapter XII, pp. 123–129; Chapter XIII, pp. 133, 136; Chapter XVI, p. 150.

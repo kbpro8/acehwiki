@@ -1,7 +1,7 @@
 ---
-title: Volksraad
-aliases: ["Volksraad", "the People's Council", "Volksraad of Nederlandsch-Indië", "Indies Volksraad"]
-tags: ["concept", "colonial", "dutch", "acheh", "ethical-politiek", "representation"]
+title: "Volksraad"
+aliases: ["the People's Council", "Volksraad of Nederlandsch-Indië", "Indies Volksraad"]
+tags: [concept, colonial, dutch, acheh, ethical-politiek, representation, organization, government, indies]
 ---
 
 **The Volksraad** — the People's Council — was the advisory representative body for the [[Nederlandsch-Indië|Nederlandsch-Indische]] archipelago whose installation was proclaimed in the *Staatsblad* of [[1916]] and which was actually installed in [[May 1918|May]] [[1918]]. The Volksraad is, in the [[W. H. Vermeulen|Vermeulen]] retrospective, the type-specimen of the *ethische politiek* state's chronic lateness — its proclamation in [[1916]] and its installation in [[1918]] came too late to anchor moderate opinion in the [[Sarekat Islam]] and to contain the radical wing of Indonesian nationalism.
@@ -30,6 +30,10 @@ The Volksraad had its critics. [[Mr J. H. Bergsma|Bergsma]] (lib.) — minister 
 
 The Volksraad is, in the [[W. H. Vermeulen|Vermeulen]] retrospective, the type-specimen of the *ethische politiek* state's chronic lateness. Its proclamation in [[1916]] and installation in [[1918]] came too late to anchor the moderate wing of the [[Sarekat Islam|Sarekat Islam]]; the post-[[1918]] radicalisation of Indonesian nationalism is, in part, the consequence.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+[[Joannes Benedictus van Heutsz|Van Heutsz]] "is not afraid of the representative system; he wants a People's Council," said [[J. W. Meijer Ranneft]], chairman of the Volksraad, at the unveiling of the [[Van Heutsz-Monument te Batavia|Van Heutsz Monument]]. *[[De Locomotief]]* had objected in [[1918]] that "now, however, that the People's Council has ushered in a new era for colonial development," the daily leadership of the Council of the Indies would better have been entrusted to a man more familiar with the political currents in the colony. Three years later the *[[Java-Bode]]* recorded: "For many, the interest he always showed in the People's Council has been surprising; he was often an attentive visitor at its sittings. A man who, after a career through the autocratic schools of the Outer Possessions, followed the rise of parliamentarism with so much interest proved that he understood the voice of the times."
+
 ## See Also
 
 - [[Ethische Politiek]]
@@ -42,7 +46,12 @@ The Volksraad is, in the [[W. H. Vermeulen|Vermeulen]] retrospective, the type-s
 - [[Pacificatie van Atjeh]]
 - [[1916]]
 - [[1918]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Atjeh]]
 
 ## Source
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 340, 344, 351-355.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter I, XVII.

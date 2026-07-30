@@ -1,7 +1,7 @@
 ---
 title: "Lok-Nga"
-aliases: ["Lok-Nga", "Lhos Nga", "Lhong Nga", "Lho' Nga", "Lhoknga", "the bivak of Lhos Nga", "the fortified camp of Lok-Nga", "Loknga", "Lhok Nga", "Lhoknga bivouac", "Lho-Nga", "benting Lho-Nga", "Lhoknga benting", "the benting Lho-Nga at Kroeng Raba"]
-tags: [place, post, kampong, aceh, aceh-war, colonial, dutch, groot-atjeh, kruisheer, 19th-century, military, lok-nga, lhos-nga, bivak, westkust, onderafdeeling, achehnese, 25-26-moekims, tjemara-bosch, strand, Deli-Atjeh-Tabak-Mij, bivouac, coast, 1897, benting, kroeng-raba, garrison, 1896]
+aliases: ["Lhos Nga", "Lhong Nga", "Lho' Nga", "Lhoknga", "the bivak of Lhos Nga", "the fortified camp of Lok-Nga", "Loknga", "Lhok Nga", "Lhoknga bivouac", "benting Lho-Nga", "Lhoknga benting", "the benting Lho-Nga at Kroeng Raba"]
+tags: [place, post, kampong, aceh, aceh-war, colonial, dutch, groot-atjeh, kruisheer, 19th-century, military, lok-nga, lhos-nga, bivak, westkust, onderafdeeling, achehnese, 25-26-moekims, tjemara-bosch, strand, Deli-Atjeh-Tabak-Mij, bivouac, coast, 1897, benting, kroeng-raba, garrison, 1896, marechaussee]
 ---
 
 **Lok-Nga** — *Lhos Nga* in older Dutch sources, *Lhoknga* in modern Acehnese orthography — was an Acehnese kampong and Dutch military bivouac on the west coast of [[Groot-Atjeh]], south-west of the [[geconcentreerde linie|concentrated defensive line]] around [[Koeta Radja|Koetaradja]], that was authorised as the site of a *versterkt kampement* (fortified camp) in August [[1896]] and that served as the principal Dutch base for operations on the west coast in the second semester of the [[1896]] campaign. Lok-Nga is one of the principal Dutch posts of the [[1896]] campaign in *[[ATJEH '96 (book by A. Kruisheer)|ATJEH '96]]* (1913).
@@ -54,6 +54,10 @@ On [[25 September]] [[1897]] the patrol under Captain [[J. N. C. Baron van Heerd
 
 Beuming notes that by the time he wrote, in [[1911]], a *[[Gezondheidsetablissement|gezondheidsetablissement]]* — a sanatorium — had been established at Kroeng Raba, the climate being delightful under the constant sea wind.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+In [[1898]] the column at Lho' Nga attacked [[Teukoe Oemar]] and drove him from [[Leupoeëng]], though his bands returned repeatedly. The murder of the overseer [[C. H. R. Heins]] at [[Lhong]] on [[13 July]] [[1914]] occurred in this sub-division; the *controleur* of Lho' Nga left overland for Lhong with two groups that same morning.
+
 ## See Also
 
 - [[1896]]
@@ -85,8 +89,12 @@ Beuming notes that by the time he wrote, in [[1911]], a *[[Gezondheidsetablissem
 - [[Glé Aron]]
 - [[Glé Loeda pass]]
 - [[J. N. C. Baron van Heerdt]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *ATJEH '96. Tweede Deel* (2c Deel), door A. Kruisheer, Kapitein der Infanterie O.I.L. (Weltevreden: N.V. Boekhandel Visser & Co, [[1913]]), Hoofdstuk IV, p. 50: *Machtiging verleend tot den bouw van een versterkt kampement te Lok-Nga*; Hoofdstuk IV, *De tocht naar Lepong*.
 
@@ -99,3 +107,5 @@ Beuming notes that by the time he wrote, in [[1911]], a *[[Gezondheidsetablissem
 *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
 
 *Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, IV, XII.

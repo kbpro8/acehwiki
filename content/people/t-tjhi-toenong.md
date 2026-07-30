@@ -1,7 +1,7 @@
 ---
-title: T. Tjhi Toenong
-aliases: [Teukoe Tjhi Toenong, T. Tjoet Moehamat, T. Tjhi Moehamat, balang tjoet baroh, oeléëbalang Toenong of Keureutoe]
-tags: [person, oeleebalang, aceh, aceh-war, keureutoe, 20th-century, resistance, sjahid, execution]
+title: "T. Tjhi Toenong"
+aliases: ["Teukoe Tjhi Toenong", "T. Tjoet Moehamat", "T. Tjhi Moehamat", "balang tjoet baroh", "oeléëbalang Toenong of Keureutoe", "Teukoe Tjoet Moehamat", "Teukoe Tjoet Mochamat", "Tjhi' Toenòng", "Teukoe Tjhi Tunong"]
+tags: [person, oeleebalang, aceh, aceh-war, keureutoe, 20th-century, resistance, sjahid, execution, achehnese, oelèëbalang, executed]
 description: "Half-brother of T. Tjhi Bentara and oeléëbalang Toenong (upper) of Keureutoe; led attacks at Simpang Olim 1902, Meunasah Djeuro 1902, and the ambush of Lt. Kok's prauw in November 1903; executed 5 March 1905 by firing squad on the beach at Lho Seumawé after Van Daalen changed the sentence from hanging."
 ---
 
@@ -27,6 +27,40 @@ He was condemned to death, and the sentence was to be the rope; but [[G.C.E. van
 
 His execution set off the long drama of his son [[T. Radja Sabi|T. Radja Sabi, *l'Aiglon*]] and of [[Tjoet Meuthia]] and [[Pang Nanggroë]] — fourteen years of forest war in the mountains of Keureutoe. He was buried on the strand of Lho Seumawé; his grave, and that of T. di Boeah, one of his panglima's, is one of the monuments of the war.
 
+## Exclusion from the succession
+
+Against T. Tjoet Moehamat — described by du Croo as "a strong, fanatical Acehnese figure" — administrative errors were committed in [[1899]] which excluded him from the succession; such things, du Croo remarked, happened more often in those days. His half-brother became *oelèëbalang* instead.
+
+The half-brother was married to the beautiful and fierce Acehnese [[Tjoet Meutia]] ("the pearl"), daughter of an irreconcilable resistance leader. The marriage was repugnant to her; the weak half-brother was no man for such a woman, so that she provoked the formula of repudiation and shortly afterwards married Tjoet Moehamat, "a man after her own heart."
+
+## Resistance leader
+
+Thus T. Tjoet Moehamat became a resistance leader with Tjoet Meutia beside him. He was the man of her heart and therefore a dangerous adversary for the *[[Kompeuni]]*, so that the sultan at once granted him an appointment as *genuine* *oelèëbalang* of Keureutòë and provided that appointment with the seal of the nine circles. T. Tjoet Moehamat became **T. Tjhi' Toenòng** — of the upper districts — and the "false" chief below, the *zetbaas* of the *Kompeuni* ("the Company (the Dutch power)"), became of no further significance to the population. What the half-brother arranged, the upland man disarranged again.
+
+At the same time he dealt out blows to the Kompeuni:
+
+- In June [[1902]] a surprise attack on a detachment under [[Steijn Parvé]]: eight dead and wounded.
+- In August [[1902]] an ambush against a transport at [[Meunasah Djeuro]]: dead and three wounded, five rifles lost.
+- In November [[1903]] the operation against the *2e luitenant* [[De Kok]] with forty-five men, who was to row up the river from the *keudé* [[Sampoj Niët]] in two *prauws* with Acehnese rowers, but who had spoken of his plans beforehand. At night a few shots suddenly fell; in the pitch dark the rowers capsized the *prauws* and swam to the bank; all the soldiers went into the water; the officer and twenty-eight men drowned and forty-two rifles were lost.
+
+## Submission, arrest and execution
+
+That was the great time. But when the tide turned, when the *Kompeuni* ("the Company (the Dutch power)") struck back hard and accurately, and when even a great resistance leader such as [[Panglima Pòlém]] gave up the struggle, T. Tjhi' Toenòng also submitted. He again lived in the same *gampong* as his half-brother and worked together with him.
+
+What precisely happened around T. Tjhi' Toenòng thereafter remained obscure. On [[26 January]] [[1905]] — at a time when [[H. N. A. Swart]] still governed at [[Lho' Seumawè]] — the patrol of sergeant [[Vollaers]], seventeen men, was surprised in the *[[meunasah]]* of [[Meurandéh Paja]], east of [[Lho' Soekon]], where it had neglected all security measures and bivouacked carelessly. Sixteen men were killed; only one native fusilier escaped.
+
+Swart considered it necessary to have T. Tjhi' Toenòng arrested. The arrest and the investigation took place, but in the meantime Swart was transferred, Van Daalen became Governor, and Van Daalen changed the sentence of banishment pronounced upon T. Tjhi' into the death penalty — although many were convinced that T. Tjhi' was innocent and a victim of "the eternal, mutually entangled Acehnese intrigues."
+
+## Aftermath
+
+His pregnant wife and his little son were now the actual claimants to the *oelèëbalangschap* of Keureutòë, which the population also accepted; they turned against [[T. Tjhi' Béntara]], the half-brother, whom they suspected of or knew to be party to the intrigue, and who had temporarily to step down in view of popular indignation.
+
+Tjoet Meutia was delivered shortly afterwards; the child died; and after forty-four days — forty-four being the good number *par excellence* — she married, and it was said at the wish of T. Tjhi' Toenòng, a well-known resistance leader, [[Pang Nanggròë]], who formed a band around her and around the child [[T. Radja Sabi]].
+
+## Significance (du Croo, 1943)
+
+The case of T. Tjhi' Toenòng is du Croo's chief illustration of the human cost of Dutch administrative error and of the harshness of the Van Daalen governorship. His exclusion from a succession that was his by right created a resistance leader; his execution created, in his widow and his infant son, the nucleus of the band that would keep [[Keureutòë]] in arms for years and produce the drama of [[T. Radja Sabi]], the *wandering child* who did not submit until [[13 March]] [[1919]] and did not become *oelèëbalang* of Keureutòë until [[1937]].
+
 ## See Also
 
 - [[T. Tjhi Bentara]]
@@ -49,7 +83,13 @@ His execution set off the long drama of his son [[T. Radja Sabi|T. Radja Sabi, *
 - [[1904]]
 - [[1905]]
 - [[Aceh War]]
+- [[Tjoet Meutia]]
+- [[Gotfried Coenraad Ernst van Daalen]]
+- [[H. N. A. Swart]]
+- [[Meurandéh Paja]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, pp. 94–95.

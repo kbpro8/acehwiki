@@ -1,7 +1,7 @@
 ---
-title: Aceh War
-aliases: ["Atjeh-oorlog (1873-1904)", "Atjeh-oorlog", "Aceh War", "Acheh War", "Atjehoorlog", "Atjeh oorlog", "the Atjeh war", "Atjeh War", "Atjeh-krijg", "Atjeh-krieg", "den oorlog met Atjeh", "Atjeh-oorlog (Van Heutsz 1893)"]
-tags: [event, war, dutch-colonial, military, political, political-history, military-history, colonial, dutch, religious, acheh, atjeh, aceh-war, 19th-century, 20th-century]
+title: "Aceh War"
+aliases: ["Atjeh-oorlog (1873-1904)", "Atjeh-oorlog", "Acheh War", "Atjehoorlog", "the Atjeh war", "Atjeh War", "Atjeh-krijg", "Atjeh-krieg", "den oorlog met Atjeh", "Atjeh-oorlog (Van Heutsz 1893)"]
+tags: [event, war, dutch-colonial, military, political, political-history, military-history, colonial, dutch, religious, acheh, atjeh, aceh-war, 19th-century, 20th-century, concept, aceh]
 description: "The protracted Dutch colonial war against the Sultanate of Atjeh, begun in 1873 with the First Atjeh Expedition and concluded in the early 20th century by the pacification policies of Van Heutsz as Governor (1898-1904) and Governor-General (1904-1908)."
 ---
 
@@ -87,7 +87,7 @@ The Encyclopaedisch Bureau frames the conflict as fundamentally ideological. The
 
 ## The system of the flying columns, 1896–1904
 
-The accession of [[Joannes Benedictus van Heutsz|van Heutsz]] to the governorship in [[1898]] "beteekende het begin van eene geheel nieuwe periode." The "onverzoenlijke benden" that had hitherto found safe haven beyond the Dutch *postenlinie* were "sedert [[1896]] reeds door kleine, vliegende colonnes allerwege aangetast en vervolgd" under what the handbook calls the "systeem Graafland, van Daalen en van Heutsz" — the combined doctrine of column warfare pioneered by Graafland, [[Gotfried Coenraad Ernst van Daalen|van Daalen]] and van Heutsz. The campaigns culminated in the [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)|colonne van Daalen]] of [[1904]] and its sequel in [[1905]], which brought the "bolwerken der onverzoenlijken" — the strongholds of the irreconcilables — in the interior within Dutch influence. A "vrij hevige opflikkering van het verzet" still flared in [[1907]] and [[1908]], provoked by van Daalen's "al te hard doorgevoerde represaille-maatregelen" and by the "scherpe besnoeiing der adat-inkomsten," before [[H. N. A. Swart|Swart]]'s conciliatory policy from [[1908]] drew the coerced chiefs "steeds meer ook uit overtuiging aan onze zijde."
+The accession of [[Joannes Benedictus van Heutsz|van Heutsz]] to the governorship in [[1898]] "beteekende het begin van eene geheel nieuwe periode." The "onverzoenlijke benden" that had hitherto found safe haven beyond the Dutch *postenlinie* were "attacked and pursued everywhere since [[1896]] by small, flying columns" under what the handbook calls the "systeem Graafland, van Daalen en van Heutsz" — the combined doctrine of column warfare pioneered by Graafland, [[Gotfried Coenraad Ernst van Daalen|van Daalen]] and van Heutsz. The campaigns culminated in the [[Colonne van Daalen naar de Gajolanden en Alaslanden (1904)|colonne van Daalen]] of [[1904]] and its sequel in [[1905]], which brought the "bolwerken der onverzoenlijken" — the strongholds of the irreconcilables — in the interior within Dutch influence. A "vrij hevige opflikkering van het verzet" still flared in [[1907]] and [[1908]], provoked by van Daalen's "al te hard doorgevoerde represaille-maatregelen" and by the "scherpe besnoeiing der adat-inkomsten," before [[H. N. A. Swart|Swart]]'s conciliatory policy from [[1908]] drew the coerced chiefs "steeds meer ook uit overtuiging aan onze zijde."
 
 ## Human cost
 
@@ -165,11 +165,9 @@ The Dutch journalist Johan Luger, writing in the memorial for [[Maurice Henri du
 
 [[Dr. W. A. Terwogt|Terwogt]]'s key judgments: the first expedition was begun "met te geringe macht, overmoedig, met volkomen miskenning van de dapperheid en doodsverachting der Atjehers" (with too small a force, overconfident, with complete misappreciation of the bravery and death-defiance of the Atjehnese); the death of [[J. H. R. Köhler|Generaal-Majoor Köhler]] and the failed assault on the Kraton by [[Gotfried Coenraad Ernst van Daalen|Gotfried Coenraad Ernst van Daalen]] led to the withdrawal of [[25 April]] [[1873]] — "Zoo eindigde deze expeditie op treurige wijze. Wij hadden de nederlaag geleden" (Thus ended this expedition in a sad manner. We had suffered the defeat). The second expedition under [[Jan van Swieten|Jan van Swieten]] — over 6,000 strong, landed under [[Verspijck|Verspijck]] on [[9 December]] [[1873]] — occupied the Kraton on [[24 January]] [[1874]] (found deserted), named it [[Kutaradja|Kota-Radja]], and entrusted the command to [[J. L. J. H. Pel|J. L. J. H. Pel]]. The war continued, however, "onverzwakt" (unabated) to the end of [[1891]], thanks to the "wisselende houding" (wavering attitude) of the Dutch government. The account closes with the hope placed in the new Minister of Colonies, [[W. K. Baron van Dedem|W. K. Baron van Dedem]], who declared that he expected no good from "toegeven en zachtheid" (yielding and softness) toward the "fanatieken Atjeher" (fanatical Atjehnese).
 
-
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
 
 The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
-
 
 **The Atjeh-oorlog (1873-1904)** — the Atjeh War — was the thirty-one-year military conflict between the [[Netherlands]] and the [[Acheh|Atjeh]] sultanate, opened by the [[Declaration of war against the Sultan of Atjeh (1873)|Dutch declaration of war of 1873]] on the [[Sultan of Acheh|sultan of Atjeh]] and concluded, in its principal military phase, by the [[Van Daalen's Gajo-Alas-Batak expedition (1904)|Gajo-Alas-Batak expedition of Van Daalen]] of [[1904]] and the subsequent [[Pacificatie van Atjeh|pacificatie]]. The war is the central colonial episode of the [[W. H. Vermeulen|Vermeulen]]-period *Oost-Indië in het Nederlandse Parlement 1891-1918*; every major colonial debate of the period — the [[Ethische Politiek|ethical-policy]] proclamation of [[Troonrede of 1901|1901]], the *adat*-law revision, the *Mijnwet* and the Atjeh oil contracts, the *Volksraad* instalment — refers back to it.
 
@@ -248,6 +246,40 @@ The prescription Van Heutsz set out in [[1893]] was, after a five-year interval,
 The declaration of closure was, however, a political formality: irregular resistance continued in parts of the highlands for years afterward, and the figure Van Heutsz himself, in the [[1893]] tract, had singled out as the *onverzoenlijke tegenstander* — [[Toeankoe Haschim]] — was, at the time of the official closure, still at [[Kemala]]. The Atjeh-oorlog was, in this sense, both concluded by the [[1904]] declaration and continued, in irregular form, into the early twentieth century.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders Van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 1, 5, 9, 11, 13, 15, 16, 18, 22, 28, 29, 36, 40, 50, 95. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* (1938) provides the most vivid eyewitness synthesis of the war as a whole. Several details from his account are not found in earlier sources.
+
+### The Köhler-boom
+
+[[J.H.R. Köhler|Köhler]] was killed on [[8 April]] [[1873]] beside a tree at the edge of the *mesdjid* at [[Koetaradja]]. The *Köhler-boom* stood for more than sixty years as a landmark; it was felled only in [[1936]]. A table was made from its lower trunk for the *Atjeh-museum*; two bullets were found in the bark at a man's height. Each *divisie* that passed through Koetaradja provided wine for visitors to drink at the spot: *een glaasje wijn gedronken op den man, die op dezen plek is gevallen*.
+
+### The geconcentreerde-linie period
+
+The *geconcentreerde linie* period was bounded by the *bentengs* of Tjot Mantiang, Biloel, and Bivak Glé Nanggroë. [[Tengkoe Koetakarang]]'s *[[Tadkirat arrakidin]]* — the *Vermaning der stilzittenden* — sneered at the Dutch for sending *vergiftigde geschenken* and *geneesheeren die als spionnen dienstdoen*. [[C. Snouck Hurgronje|Snouck Hurgronje]] had warned against the *domme politiek* of giving [[Teukoe Oemar]] Dutch pay and Dutch weapons; the [[Defection of Teukoe Oemar (1896)|overloopen of 1896]] proved him right.
+
+### The Gajoetocht: specific numbers
+
+The [[Gajoetocht (1904)|Gajoetocht]] ran from [[18 March]] to [[3 June]] [[1904]]. [[G.C.E. van Daalen|Van Daalen]]'s colonne took the bentengs of Klah, Pepareq (**308 dead**), Penampakan, Koeto Lintang (**561 dead**), Koeto Reh, Reket-Goip, Bambel, killing *meer dan vier duizend Gajoes* in total. *De Gajoes laten hunne tijdrekening beginnen met de komst van Van Daalen's colonne* — the Gajoes date their modern era from Van Daalen's coming.
+
+### The Tiro-oelama deaths
+
+The deaths of the Tiro-oelama's fell on specific dates: [[Tengkoe di Boekit]] and *Habib Tjoet* on [[21 May]] [[1910]]; [[Tengkoe Majet di Tiro|Tgk. Majet]] on [[5 September]] [[1910]], the *last Tiro-oelama*; [[Tengkoe Tjhi Maät di Tiro|Tgk. Tjhi Maät]] on [[9 December]] [[1910]], closing *het epos der Tiro-oelama's*.
+
+### The Westkust
+
+The Westkust continued to resist long after the highland campaign was over. [[Tjoet Ali]] was killed on [[25 May]] [[1927]] near the marschbivak [[Kandang]], buried as a *[[sjahid]]* with his face toward Mekka by *[[Gosenson]]*, who knew *wat een eerlijk en dapper tegenstander toekomt*.
+
+### The toll
+
+*Naar eene uiteraard zeer globale schatting zijn, nà Van der Heyden's aftreden, noor ruim 30.000 Atjehers gesneuveld.* On the Dutch side: *alleen in de periode van 1890 tot en met 1914 de verliezen van ons Leger, aan dooden en gewonden, 7707 officieren en minderen hebben bedragen.* Responsibility, Zentgraff writes, *wanneer zij in menschenlevens en in bloed kan worden afgewogen, is zeer zwaar*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+## Account in du Croo’s Generaal Swart (1943)
+
+[[Joannes Benedictus van Heutsz|Van Heutsz]]'s brochure of [[1892]] took as its motto: "The Atjeh war gnaws at our colonial possession. It must end; let us at last show the civilised world that we are capable of ending it!" [[J. W. Naarding|Naarding]] characterised the war as "not just an ordinary war between two peoples, which could be ended in the ordinary way by a peace, but a new period in the world-historical drama: the Holy War between believers and unbelievers." Its cost was enormous: sixty million guilders to the beginning of [[1877]], 115 million by [[1880]], 150 million by [[1884]], 210 million by [[1893]]. [[I. Feenstra]] wrote in [[1918]]: "Forty-five years, not yet half a century — it seems so short for the great work that has been done here."
 
 ## See Also
 
@@ -381,7 +413,6 @@ The declaration of closure was, however, a political formality: irregular resist
 - [[Johan Wøller]]
 - [[Teuku Nya' Banta]]
 - [[Teukoe Oema]]
-- [[Joannes Benedictus van Heutsz]]
 - [[Sumatra-tractaat (1871)]]
 - [[Van Daalen's Gajo-Alas-Batak expedition (1904)]]
 - [[Concentratie-stelsel (1884-1896)]]
@@ -398,13 +429,11 @@ The declaration of closure was, however, a political formality: irregular resist
 - [[Koeta Radja]]
 - [[Van Kol's 1902 traverse of Atjeh]]
 - [[G. C. E. van Daalen]]
-- [[1884]]
 - [[H. B. van Kol]]
 - [[Gajoland]]
 - [[A. W. F. Idenburg]]
 - [[Van Heutsz's inspection tour of Atjeh (December 1907)]]
 - [[Toekoe Oemar]]
-- [[Groot-Atjeh]]
 - [[Declaration of war against the Sultan of Atjeh (1873)]]
 - [[J. B. van Heutsz]]
 - [[Abraham Kuyper]]
@@ -418,8 +447,10 @@ The declaration of closure was, however, a political formality: irregular resist
 - [[Pastoor Verbraak]]
 - [[Agrarische Wet 1870]]
 - [[Dutch East Indies Government]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Introduction, pp. v–xxi; Chapter I, §§ 7–9, pp. 120–193.
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 33–36, Bijlage IV–V.
@@ -435,32 +466,4 @@ The declaration of closure was, however, a political formality: irregular resist
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders Van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 1, 5, 9, 11, 13, 15, 16, 18, 22, 28, 29, 36, 40, 50, 95. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
-## Account from *Atjeh* by H.C. Zentgraff (1938)
-
-[[H.C. Zentgraff|Zentgraff]]'s *Atjeh* (1938) provides the most vivid eyewitness synthesis of the war as a whole. Several details from his account are not found in earlier sources.
-
-### The Köhler-boom
-
-[[J.H.R. Köhler|Köhler]] was killed on [[8 April]] [[1873]] beside a tree at the edge of the *mesdjid* at [[Koetaradja]]. The *Köhler-boom* stood for more than sixty years as a landmark; it was felled only in [[1936]]. A table was made from its lower trunk for the *Atjeh-museum*; two bullets were found in the bark at a man's height. Each *divisie* that passed through Koetaradja provided wine for visitors to drink at the spot: *een glaasje wijn gedronken op den man, die op dezen plek is gevallen*.
-
-### The geconcentreerde-linie period
-
-The *geconcentreerde linie* period was bounded by the *bentengs* of Tjot Mantiang, Biloel, and Bivak Glé Nanggroë. [[Tengkoe Koetakarang]]'s *[[Tadkirat arrakidin]]* — the *Vermaning der stilzittenden* — sneered at the Dutch for sending *vergiftigde geschenken* and *geneesheeren die als spionnen dienstdoen*. [[C. Snouck Hurgronje|Snouck Hurgronje]] had warned against the *domme politiek* of giving [[Teukoe Oemar]] Dutch pay and Dutch weapons; the [[Defection of Teukoe Oemar (1896)|overloopen of 1896]] proved him right.
-
-### The Gajoetocht: specific numbers
-
-The [[Gajoetocht (1904)|Gajoetocht]] ran from [[18 March]] to [[3 June]] [[1904]]. [[G.C.E. van Daalen|Van Daalen]]'s colonne took the bentengs of Klah, Pepareq (**308 dead**), Penampakan, Koeto Lintang (**561 dead**), Koeto Reh, Reket-Goip, Bambel, killing *meer dan vier duizend Gajoes* in total. *De Gajoes laten hunne tijdrekening beginnen met de komst van Van Daalen's colonne* — the Gajoes date their modern era from Van Daalen's coming.
-
-### The Tiro-oelama deaths
-
-The deaths of the Tiro-oelama's fell on specific dates: [[Tengkoe di Boekit]] and *Habib Tjoet* on [[21 May]] [[1910]]; [[Tengkoe Majet di Tiro|Tgk. Majet]] on [[5 September]] [[1910]], the *last Tiro-oelama*; [[Tengkoe Tjhi Maät di Tiro|Tgk. Tjhi Maät]] on [[9 December]] [[1910]], closing *het epos der Tiro-oelama's*.
-
-### The Westkust
-
-The Westkust continued to resist long after the highland campaign was over. [[Tjoet Ali]] was killed on [[25 May]] [[1927]] near the marschbivak [[Kandang]], buried as a *[[sjahid]]* with his face toward Mekka by *[[Gosenson]]*, who knew *wat een eerlijk en dapper tegenstander toekomt*.
-
-### The toll
-
-*Naar eene uiteraard zeer globale schatting zijn, nà Van der Heyden's aftreden, noor ruim 30.000 Atjehers gesneuveld.* On the Dutch side: *alleen in de periode van 1890 tot en met 1914 de verliezen van ons Leger, aan dooden en gewonden, 7707 officieren en minderen hebben bedragen.* Responsibility, Zentgraff writes, *wanneer zij in menschenlevens en in bloed kan worden afgewogen, is zeer zwaar*.
-
-*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, V, XVI.

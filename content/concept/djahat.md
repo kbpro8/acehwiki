@@ -1,7 +1,7 @@
 ---
-title: Djahat
-aliases: [djahat, djahats, djahat party, malicious one, resistance fighter]
-tags: [concept, term, acehnese, resistance, aceh]
+title: "Djahat"
+aliases: ["djahats", "djahat party", "malicious one", "resistance fighter"]
+tags: [concept, term, acehnese, resistance, aceh, terminology, achehnese, colonial]
 ---
 
 **Djahat** — Malay/Indonesian for "malicious one" or "resistance fighter" — was the term used by the colonial army in [[Atjeh|Aceh]] for the Acehnese resistance fighter: the man who, "like a wild animal pursued and hunted through the 'blubber' [mud] of the coastal regions and the inhospitable wildernesses of Atjeh's hinterland, never gave up and fought to the utmost." In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), the djahat is the central figure of the [[Verzet in Lhong]] (Resistance in Lhong) and of the book's argument about the paradise-death: the djahats "do not hope for victory either. They know in advance that they must lose, do not therefore shun the fight, but rather seek death. Their eye is not on the present, but on the hereafter."
@@ -30,6 +30,10 @@ The djahat's weapons are the klewang (the native sword) and the parang (the mach
 
 The djahat is significant in *[[Oost-Indisch Journael]]* as the central figure of the book's Aceh content: the Acehnese resistance fighter of the prang sabil who sought the paradise-death. The book argues that the colonial army, by killing the djahats in combat, had allowed them to achieve their goal (the paradise-death), and that the colonial army had failed to use modern methods (tear-gas grenades) that would have taken the djahats alive and reduced them to shameful imprisonment. This is the book's clearest example of the inter-war colonial critique of the old methods. The djahat thus serves as the book's marker of the Acehnese resistance: the "malicious one" who was, in the Dutch imagination echoing the spirit of their own revolt against Spain, also an object of admiration for his courage and perseverance.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+At [[Lho' Seumawè]] in [[1908]] [[H. N. A. Swart]] pointed out to the assembled *[[oelèëbalang]]s* that in various *[[landschap]]pen* there were again *djahats*, whereupon one of the chiefs answered: "not only are there evildoers everywhere, but we ourselves are evildoers too!" [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]'s prescription required that the Acehnese peasant be restrained by fear "from maintaining any relation whatever with the Acehnese evildoer." By [[1914]] the attraction had gone: "the attraction of life as an evildoer in the jungle did not tempt the quiet farmer and no longer held anything alluring for him."
+
 ## See Also
 
 - [[Musket]]
@@ -43,7 +47,13 @@ The djahat is significant in *[[Oost-Indisch Journael]]* as the central figure o
 - [[Keumala]]
 - [Vogelensang](/people/vogelensang)
 - [Atjeh-oorlog](/events/atjeh-oorlog)
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Sloebers* and chapter *Atjeh's Transport-Olifanten*.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, IX, XI, XII.

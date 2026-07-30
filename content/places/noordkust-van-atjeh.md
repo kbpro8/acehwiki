@@ -1,7 +1,7 @@
 ---
 title: "Noordkust van Atjeh"
-aliases: ["Noordkust van Atjeh", "North Coast of Atjeh", "Aceh Utara", "Noordkust Atjeh", "Noordkust", "the East or so-called North Coast of Atjeh"]
-tags: [place, afdeeling, noordkust, atjeh, coastal, pidie, administrative-division, aceh, coast, region, medicine, geography]
+aliases: ["North Coast of Atjeh", "Aceh Utara", "Noordkust Atjeh", "Noordkust", "the East or so-called North Coast of Atjeh"]
+tags: [place, afdeeling, noordkust, atjeh, coastal, pidie, administrative-division, aceh, coast, region, medicine, geography, colonial, resistance]
 ---
 
 **Noordkust van Atjeh** (North Coast of Atjeh) was an *afdeeling* (division) of the [[Gouvernement Atjeh en Onderhoorigheden]], administered by Assistent-Resident [[M. C. Roos van Raadshoven]]. The Noordkust covered the northern coastline of Atjeh, including the important region of [[Pidië]] (administered as a separate *onderafdeeling* under Civiel Gezaghebber [[Th. J. Veltman]]). The northern coast had been one of the first areas of Atjeh to come under Dutch control and contained some of the most densely populated districts in the entire *Gouvernement*. The designation "Noordkust" reflected the colonial administrative practice of organizing Atjeh's territories along coastal axes, a pattern that mirrored the initial points of Dutch military penetration and the subsequent establishment of administrative control from coastal enclaves inland.
@@ -36,6 +36,10 @@ In the [[Cataract campaign on the North Coast of Atjeh (1932)|campaign of 1932]]
 
 When in [[1933]] the governor [[A. Ph. van Aken|Van Aken]] directed him to the [[Atjeh's Westkust|West Coast]] instead, Tijssen recorded that what interested him were "vooral de eventueele verschillen tusschen de oogziekten van de Westkust en die van het Oosten, (de zoogenaamde Noordkust) waar ik al vroeger had gewerkt." — above all the possible differences between the eye diseases of the West Coast and those of the East (the so-called North Coast), where I had already worked earlier. In this respect, he found, little or no difference appeared to exist, though the number of treatments on the West Coast was smaller, for other reasons — chiefly the thinness of the population along that narrow strip.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+It was the region of the three great religious resistance leaders [[Tgk. Sjeh di Paja Bakong]], [[Tgk. di Barat]] and [[Tgk. di Mata Ië]], and the region in which the resistance was broken between [[1908]] and [[22 February]] [[1912]] — "from that moment the situation in the whole North Coast division became stable and ranged from favourable to very favourable; the suffering there was over." Its rice found a ready outlet to [[Sumatra's Oostkust]], where there was always a shortage. A smallpox epidemic struck the north coast in [[1915]]. The thirty-two signatories of the [[Letter of the Acehnese Chiefs to General Swart (26 September 1933)|letter of 1933]] were chiefs of this coast.
+
 ## See Also
 
 - [[M. C. Roos van Raadshoven]]
@@ -57,11 +61,17 @@ When in [[1933]] the governor [[A. Ph. van Aken|Van Aken]] directed him to the [
 - [[1923]]
 - [[1931]]
 - [[1932]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130.
 
 *Een strijd in Atjeh (Een oogarts op het oorlogspad)*, door Mr. C. Graadt van Roggen, met een voorrede van den heer H. Wanting, redacteur *Nieuwe Rotterdamsche Courant* (Rotterdam: N.V. Drukkerij Korteweg, uitgave van de Vereeniging „SIMAVI”, [[1934]]), pp. 3–4, 6–7, 10.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XIII, XVII.

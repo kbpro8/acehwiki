@@ -1,7 +1,7 @@
 ---
-title: Panglima Polem
-aliases: [Panglima Polem, Panglima Polim, Panglima Prang Polim, Panglima Polem of the XXII Mukims, Lord Elder Brother, Polem, Polim, Teukoe Panglima Pólém, Panglima Polém, Polém, Po-lem, Panglima Polam, Panglima Pólem, Panglima Polim (Acehnese leader), Panglima Polem XXII, Panglima Polem the elder, sagihoofd XXII moekims, last Panglima Polem, Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed, Teukoe Panglima Polém Moehamad Ali, Teukoe Moehamat Dawöt, sagi-head of XXII Moekim's]
-tags: [person, uleebalang, panglima-sagi, xxii-mukims, hereditary, acehnese, sagi, achehnese-war, title, lineage, oelèëbalang, colonial, 19th-century, 20th-century]
+title: "Panglima Polem"
+aliases: ["Panglima Polim", "Panglima Prang Polim", "Panglima Polem of the XXII Mukims", "Lord Elder Brother", "Polem", "Polim", "Teukoe Panglima Pólém", "Po-lem", "Panglima Polam", "Panglima Polim (Acehnese leader)", "Panglima Polem XXII", "Panglima Polem the elder", "sagihoofd XXII moekims", "last Panglima Polem", "Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed", "Teukoe Panglima Polém Moehamad Ali", "Teukoe Moehamat Dawöt", "sagi-head of XXII Moekim's"]
+tags: [person, uleebalang, panglima-sagi, xxii-mukims, hereditary, acehnese, sagi, achehnese-war, title, lineage, oelèëbalang, colonial, 19th-century, 20th-century, achehnese, resistance, aceh-war]
 description: "Hereditary title of the chief (panglima sagi) of the XXII Mukims of Great Aceh, borne by a succession of warrior-statesmen from the seventeenth century to 1941."
 ---
 
@@ -53,7 +53,7 @@ In a note of [[30 April]] [[1875]] to the Governor-General, [[J. L. J. H. Pel|Ge
 
 ### Campaigns of 1879
 
-After the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman on [[13 October]] [[1878]]]] and the start of the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] on [[23 March]] [[1879]], the capture of [[Indrapoeri|Indrapuri]] on [[24 March]] [[1879]] failed to secure submission. Heavy fighting followed at [[Djerreek|Djerreek]], [[Redep|Redep]] and [[Panteh Karang|Panteh Karang]]; on [[6 May]] and [[7 May]] [[1879]] the Dutch suffered great losses at Panteh Karang, and the fortress fell only on [[7 May]] with reinforcements. On [[31 May]] [[1879]] troops advanced on [[Gleiêng|Gléiëng]], Polim's fortified chief place, which was finally taken on [[9 July]] [[1879]] after a tiring march and repeated fights. The campaign in the XXII Moekims was then considered complete.
+After the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman on [[13 October]] [[1878]] and the start of the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] on [[23 March]] [[1879]], the capture of [[Indrapoeri|Indrapuri]] on [[24 March]] [[1879]] failed to secure submission. Heavy fighting followed at [[Djerreek|Djerreek]], [[Redep|Redep]] and [[Panteh Karang|Panteh Karang]]; on [[6 May]] and [[7 May]] [[1879]] the Dutch suffered great losses at Panteh Karang, and the fortress fell only on [[7 May]] with reinforcements. On [[31 May]] [[1879]] troops advanced on [[Gleiêng|Gléiëng]], Polim's fortified chief place, which was finally taken on [[9 July]] [[1879]] after a tiring march and repeated fights. The campaign in the XXII Moekims was then considered complete.
 
 ### Flight to the Pedir upper lands
 
@@ -129,7 +129,7 @@ After his surrender, Panglima Polem was reinstated as head of the XXII *moekims*
 
 In the account given by [[G. W. T. Dames|G. W. T. Dames]] in *[[Oom Ambon van het K.N.I.L.]]* (1954), the Panglima Polem — there styled **Panglima Prang Polim**, "war-commander Polim," and described as the former *legeraanvoerder van de Sultan* (commander-in-chief of the Sultan of [[Atjeh|Aceh]]'s army) — was one of the three *voornaamste Atjehse hoofden* who, at the request of [[H. N. A. Swart|General Swart]], wrote the letter urging the [[Teungkoe Sjech Saman di Tiri|Tiriō Teungkoes]] to submit. Polim had "zich tenslotte had gemeld bij kapitein *[[Hendrikus Colijn|Colijn]]*" — that is, had eventually reported to Captain Colijn, the same officer to whom the surrender of [[15 May]] [[1903]] had been made.
 
-At General Swart's request, "de drie voornaamste Atjehse hoofden" wrote the Tiriō Teungkoes a letter urging submission. The three were "twee leden van de Sultansfamilie, de *[[Toeankoe Machmoed Radja Keumala]]*, benevens Panglima Prang Polim, de vroegere legeraanvoerder van de Sultan, die zich tenslotte had gemeld bij kapitein Colijn." The letter is the clearest example of Swart's preferred method — to bring moral and political pressure on the remaining resisters through the most authoritative Acehnese leaders.
+At General Swart's request, "de drie voornaamste Atjehse hoofden" wrote the Tiriō Teungkoes a letter urging submission. The three were "two members of the Sultan's family, Toeankoe Machmoed Radja Keumala, together with Panglima Prang Polim, the Sultan's former army commander, who had finally reported to Captain Colijn." The letter is the clearest example of Swart's preferred method — to bring moral and political pressure on the remaining resisters through the most authoritative Acehnese leaders.
 
 The Teungkoes "bespraken de brief, doch besloten tot het einde te vechten; hen zou geschieden naar Allah's wil" — "discussed the letter, but resolved to fight to the end; what should happen to them would be according to Allah's will." The refusal is doctrinal: the religious resisters would not accept the authority of the former Sultan's army commander to override their doctrine of *[[prang sabi]]*. The letter therefore failed — but its existence marks the moment at which the formal Acehnese political establishment had come over to the Dutch side, leaving the religious resisters alone. In Dames's reading, the episode marks the political closure of the Acehnese Sultanate: the Sultan's own army commander, having surrendered to Colijn, now urges the last resisters to surrender — and is refused on doctrinal grounds. The Aceh War, in its last phase, was no longer a war between states (the Sultanate was gone) but a war between a colonial army and a religious doctrine.
 
@@ -208,6 +208,10 @@ The mention of the *landschap* Polém as a destination of the pretender sultan i
 ## Legacy
 
 The Panglima Polem title and lineage epitomise the hereditary military aristocracy of Acheh — the *panglima sagi* institution that mediated between sultan and *uleebalangs* and that produced, across three centuries, statesmen, war-commanders, and finally the principal Dutch political anchor of the late colonial period. The Panglima Polim of 1819, who held the balance of power in the succession dispute and treated the [[Raffles-Coombs Acheh Commission (1819)|Raffles–Coombs Commission]] with undisguised contempt, set the type; the Panglima Polim of 1875–1879, driven from [[Gleiêng|Gléiëng]] and into the Pedir upper lands, embodies the first phase of the *prang Gompeuni* — the war of the sultan, the *uleebalangs*, and the irregular chiefs. The Moehamad Daoed–Moehamad Ali succession carries the lineage through the high Aceh War and the surrender of [[1903]] to the political-religious agitation of the colonial period; the last Panglima Polem's death in [[1941]] closes the line. The career of the lineage illustrates the complexity of Acehnese resistance, navigating between open opposition and strategic accommodation to colonial powers, and contrasts with the later religious leaders (*teungkus* and *ulamas*) who, after the [[Dutch Concentration Scheme|concentration scheme]], became the principal organisers of resistance. Kreemer's record of the seven Pöléms from Teukoe Moeda Sa'ti onwards adds, to this picture, the genealogical and kinship depth that the Snouck-Piekaar-Dames tradition does not preserve in the same continuous form.
+
+## Account in du Croo’s Generaal Swart (1943)
+
+Panglima Pòlém joined the pretender-sultan [[Toeankoe Mochamad Dawot]] and, from [[1898]], [[Teukoe Oemar]] in Pidië; on [[1 June]] [[1898]] the resistance centre [[Garot]], where he had gathered with them and with [[Teungkoe di Tjòt Plieng]], fell to van Heutsz's storm. When the tide turned and the *[[Kompeuni]]* struck back hard, "even a great resistance leader such as Panglima Pòlém gave up the struggle" — an event that du Croo notes as one of the causes of the submission of [[T. Tjhi' Toenòng]].
 
 ## See Also
 
@@ -309,7 +313,6 @@ The Panglima Polem title and lineage epitomise the hereditary military aristocra
 - [[Toeankoe Machmoed]]
 - [[Toeankoe Brahim]]
 - [[Habib Lhong]]
-- [[Keumala]]
 - [[Pedir]]
 - [[Ana' Galong]]
 - [[VII Moekims Baid]]
@@ -325,6 +328,8 @@ The Panglima Polem title and lineage epitomise the hereditary military aristocra
 - [[1913]]
 - [[1941]]
 - [[1942]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Atjeh]]
 
 ## Source
 
@@ -351,3 +356,5 @@ The Panglima Polem title and lineage epitomise the hereditary military aristocra
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 219, 624.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 13, 16, 18. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, X.

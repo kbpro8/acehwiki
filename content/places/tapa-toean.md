@@ -1,17 +1,16 @@
 ---
-title: Tapa Toean
-aliases: [Tapa Toean, "Tapa' Toean", Tapa Toewa, "Tapa' Toann", Tapa-Toean, Tapa Toan]
-tags: [place, aceh, region, westkust, aceh-war, "19th-century", pepercultuur, rijstbouw, carolina-rijst, pidiërs, town, westkust-van-atjeh, achehnese, patchouli, nilam, cooperatie, Spoon]
+title: "Tapa Toean"
+aliases: ["Tapa Toewa", "Tapa' Toann", "Tapa Toan"]
+tags: [place, aceh, region, westkust, aceh-war, 19th-century, pepercultuur, rijstbouw, carolina-rijst, pidiërs, town, westkust-van-atjeh, achehnese, patchouli, nilam, cooperatie, Spoon, sub-division]
 ---
+
 **Tapa Toean** — also written *Tapa' Toean*, *Tapa Toann* — is a region on the [[Westkust|Westkust]] of [[Atjeh|Atjèh], whose lowland along the coast was, from the middle of the 17th century, colonised by Pidiërs from the upper regions of [[Pidië|Pidië]] and [[Meulaboh|Meulaboh]] (returning from the gold exploitation of the [[Kawaj XII|Kawaj XII]] to the [[pepercultuur|pepercultuur]]), and which was, in the late 19th and early 20th century, the site of the famous Carolina-rijst experiment — the failed attempt to introduce the higher-yielding Carolina rice variety to Atjèh, which demonstrated that with the introduction of a new kind of rice one cannot suffice, but that in connection therewith also new methods for the treading and hulling must be introduced.
 
 ## The 17th-Century Pidiër Colonisation
 
-
 In the middle of the 17th century, drawn by the gold in the upper regions of Pidië and Meulaboh, mainly Pidiërs moved thither and founded there the famous [[Kawaj XII|federation of the Kawaj XII]]. The business of gold-seeker in the upper regions of Pidië and Meulaboh did not, however, remain profitable, so that after some time a great part of the population of those regions sought another existence and moved further west, to the lowland along the coast of Meulaboh and Tapa Toean, which was excellently suited for the pepercultuur. This population returned to their old love: instead of gold-seeker one became pepper-planter again. In this way the Westkust of Atjèh was populated by Pidiërs.
 
 ## The Carolina-rijst Experiment
-
 
 The brilliant results obtained at [[Buitenzorg|Buitenzorg]] with [[Carolina-rijst|Carolina-rijst] led, a fifteen or so years before the [[De Rijkdom van Atjeh (1923)|1923 brochure]] of the Atjeh-Instituut, to the choice of this rice variety for a trial in the sub-afdeeling Tapa' Toean, for which a fertile piece of sawah was provided with living water and a Hindustan plough for the tillage. The Atjèhse interested parties felt little for this more intensive tillage, and shared, from unfamiliarity with this implement, that they could not use it. Some Javanese forced labourers, well familiar with sawah cultivation, were then assigned to instruct the Atjèhse farmers; but it came down to these Javanese having to do everything alone, even the weeding, so distrustful was the population of this experiment.
 
@@ -19,17 +18,19 @@ But scarcely did the padi begin to ripen, or all distrust had yielded; one was d
 
 ## The Lesson
 
-
 From this recollection it appears, the Atjeh-Instituut brochure concludes, that with the introduction of a new kind of rice one cannot suffice, but that in connection therewith also new methods for the treading and hulling must be introduced. These and other objections exist, however, only to be overcome. The main thing is certainly that the Atjèher has always shown much feeling for rice cultivation.
 
 ## Significance
-
 
 Tapa Toean is one of the principal regions of the Westkust of Atjèh, with a sustained significance in Atjèhse history from the 17th-century Pidiër colonisation to the 19th- and 20th-century Dutch attempts to develop the [[rijstbouw|rijstbouw]]. The Carolina-rijst experiment at Tapa Toean — failed because the new rice variety required new methods of treading and hulling that the Atjèhse farmers did not adopt — is one of the principal Dutch agricultural experiments in Atjèh, and the principal cautionary example in the Atjeh-Instituut brochure's prescription of a better rice variety as the first prerequisite of rice as an export article.
 
 ## Account from *Atjeh Patchouli-Olie* (1932)
 
 **Tapa Toean** — modern *Tapak Tuan* — is a place on the [[Westkust van Atjeh|Westkust van Atjeh]] and one of the four chief centres of patchouli cultivation in Atjeh, the others being [[Tjalang|Tjalang]], [[Meulaboh|Meulaboh]] and [[Langsa|Langsa]] (on the Oostkust). It was at Tapa Toean that the first factory for indigenous processing of patchouli leaves into essential oil was founded in [[1921]], with government support and the cooperation of the *Afdeeling Nijverheid* of the *Landbouwconsulent* at [[Buitenzorg|Buitenzorg]]. By [[1931]] there were two or three factories at Tapa Toean. The factory of the [[Afdeeling Handelsmuseum|Afdeeling Handelsmuseum]]'s *Bericht* No. 21 of May [[1925]] was the pioneer; by the time of [[Ir. W. Spoon|Ir. W. Spoon]]'s *Bericht* No. 71 of [[1932]], the Atjeh nilam-oil export had risen to 3.468 kg. There is also at Tapa Toean an Inlandse agricultural industry in the form of a coöperation, begun in [[1921]] with money from the *landschapskas*, which after ten months was stopped because the oil did not readily find a market in Europe. A French and a German judgement on the oil became known. The oil is too strong in scent to be enjoyed on its own, but can serve to bind other fine oils. With that finding, the European buyers preferred to obtain the leaf and the cutting of the nilam-plant; but the coöperation of Tapa Toean produces the oil and gave its product in consignment to the [[Ned. Handel-Mij|Ned. Handel-Mij]]. From the proceeds the factory has been freed, and now the oil can be delivered cheaply and yet yield a profit.
+
+## Account in du Croo’s Generaal Swart (1943)
+
+The campaign of [[1908]] against T. Bén Blang Pidië produced the submission of his eldest son with a hundred followers and nine rifles in June, of T. Bén himself with two other sons and 160 men a few weeks later with another nine rifles, of all the band-heads of [[Tgk. Pidië]] at the bivouac [[Reusa']] in August with forty-seven men and fourteen firearms, and of seventy-nine more in September with eight rifles; [[Tgk. Imeum Sradeuë']] fell with four followers. Towards the end of the year T. Bén brought his two last wandering sons in, "and Tapa' Toean became quiet again". [[Joannes Benedictus van Heutsz|Van Heutsz]] recorded in July [[1908]] that in the Tapa' Toean country, where [[Hendrikus Colijn|Colijn]], [[Campioni]] and [[Schneider]] had formerly gone alone, travel without escort had become impossible. Tapa' Toean was placed under a civil administrator in [[1909]], but in [[1936]] was again among the last four sub-divisions governed by officers.
 
 ## See Also
 
@@ -50,9 +51,15 @@ Tapa Toean is one of the principal regions of the Westkust of Atjèh, with a sus
 - [[Rijstbouw]]
 - [[Verkenningen in Atjeh (1923)]]
 - [[Westkust]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 8, 10.
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IX, XI, XIII, XVII.

@@ -1,7 +1,7 @@
 ---
-title: Rentjong
-aliases: ["Rentjong", "rentjong", "Rencong", "rencong", "bawar", "Atjehsche dagger", "Acehnese dagger", "poesaka rentjong"]
-tags: [concept, weapon, dagger, aceh, rentjong, rencong, bawar]
+title: "Rentjong"
+aliases: ["Rencong", "bawar", "Atjehsche dagger", "Acehnese dagger", "poesaka rentjong"]
+tags: [concept, weapon, dagger, aceh, rentjong, rencong, bawar, achehnese, adat]
 description: "The Acehnese dagger — wavy or straight blade; the bawar is the straight-bladed rentjong; carried by all Acehnese men in the gordel and by women too; Tjoet Ali's poesaka rentjong with special handgreep; the wapensmid could curl the point by mystic power."
 ---
 
@@ -27,6 +27,10 @@ The *wapensmid* of [[Tangsé]] could, by mystic power, curl the point of a rentj
 
 The *rentjong* was the personal weapon of the Atjeher — smaller than the *klewang*, more intimate, always at the belt. The *bawar* of the *oelama* was a *kramat* object; the *poesaka rentjong* of the *oeléëbalang* was a title-deed. The wapensmid who could curl its point by prayer was the proof that the steel of Atjeh was not the steel of the *kaphé*.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+At the sitting of the *[[Moesapat]]* at [[Sigli]] on [[10 October]] [[1913]] the armed police servant on sentry duty took from the *[[oelèëbalang]]* [[T. Béntara Titeuë]] his gold-ornamented, visibly worn *rentjong* at the entrance to the civil office — whereupon the *oelèëbalang* stabbed the presiding [[W. B. J. A. Scheepens|overste Scheepens]] with a knife concealed under his clothes. In the fight at the [[Kroeëng Peutòë]] on [[25 October]] [[1910]] the two young men who covered the fallen [[Tgk. Sjeh di Paja Bakong]] with their bodies held *klewang* and *rentjong* in their fists; and [[Tgk. di Barat]], his right arm shattered, passed his carbine to his wife and held the *rentjong* in his usable left hand. A fourteen-year-old boy armed with a *rentjong* attacked the station master at [[Samalanga]] in June [[1913]]; the band that murdered [[W. van Kregten]] at [[Lam No]] was armed with *rentjong* and *klewang*.
+
 ## See Also
 
 - [[Klewang]]
@@ -44,7 +48,13 @@ The *rentjong* was the personal weapon of the Atjeher — smaller than the *klew
 - [[Death of Tjoet Ali (1927)]]
 - [[Aceh War]]
 - [[20th-century]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, XII.

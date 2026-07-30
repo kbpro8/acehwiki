@@ -1,11 +1,13 @@
 ---
-title: Koninklijk Nederlandsch-Indisch Leger
-aliases: [Royal Netherlands East Indies Army, KNIL]
-tags: [organization, military, colonial, dutch]
+title: "Koninklijk Nederlandsch-Indisch Leger"
+aliases: ["Royal Netherlands East Indies Army", "KNIL"]
+tags: [organization, military, colonial, dutch, indies, knil]
 ---
+
 **Koninklijk Nederlandsch-Indisch Leger** (Royal Netherlands East Indies Army) was the principal Dutch colonial armed force in the *Dutch East Indies* during the early twentieth century, including the period of the Japanese invasion in [[1942]]. The army comprised infantry, cavalry, artillery, and specialised units such as the *Marinebataljon* and the *Legioen Mangko Negoro*. Its command structure was reshaped by the *Regeling op den Staat van Oorlog* on [[10 May]] [[1940]].
 
 ## Structure and Units
+
 Key components mentioned in the source include:
 - *Marinebataljon* (Marine Battalion)
 - *Legioen Mangko Negoro* (Mangko Negoro Legion)
@@ -13,21 +15,12 @@ Key components mentioned in the source include:
 - *Vrijwillig automobielcorps* (Volunteer Motor Corps)
 
 ## Operational History (1942)
+
 During the Japanese invasion, the KNIL faced severe material and numerical disadvantages, with Japanese forces outnumbering Dutch troops by a factor of 6‑8. The army’s lack of intelligence on Japanese tactics hampered its response, as noted in contemporary Dutch reports.
 
 ## Significance
+
 The KNIL’s actions across the archipelago, including in the Aceh region, formed the backbone of Dutch resistance until the capitulation in 1942.
-
-## See Also
-- [[Marinebataljon]]
-- [[Legioen Mangko Negoro]]
-- [[Regeling op den Staat van Oorlog]]
-- [[Japanese invasion of Java]]
-- [[Dutch East Indies]]
-- [[Bronzenn Kruis]]
-
-## Source
-*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, pp. 436‑442.
 
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
 
@@ -38,3 +31,26 @@ The KNIL’s actions across the archipelago, including in the Aceh region, forme
 The K.N.I.L.'s élite arm in Atjeh was the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussée]], formed in [[1890]] on the advice of *hoofddjaksa* [[Mohamad Arif]] of [[Koetaradja]]. Zentgraff's verdict: *Tenslotte, hoe schitterend hief ons Leger zich op, nadat men het de aanvoerders had gegeven waarop het aanspraak had!*
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+## Account in du Croo’s Generaal Swart (1943)
+
+Swart was appointed *2de luitenant* in the Infantry of the Army in the Netherlands Indies on [[21 November]] [[1886]] and rose to *Luitenant-Generaal* on [[6 September]] [[1912]], being honourably discharged from military service on [[12 August]] [[1918]]. Both [[Maurice Henri du Croo|du Croo]] and [[H. J. Schmidt]] were retired colonels of the corps, as was [[G. K. Dijkstra]], who wrote the foreword to their book as Lieutenant-General K.N.I.L. b.d. [[Joannes Benedictus van Heutsz|Van Heutsz]] taught its officers "how our swift, hardened indigenous troops, well led and enthusiastically commanded, were irresistible even in the smallest formations."
+
+## See Also
+
+- [[Marinebataljon]]
+- [[Legioen Mangko Negoro]]
+- [[Regeling op den Staat van Oorlog]]
+- [[Japanese invasion of Java]]
+- [[Dutch East Indies]]
+- [[Bronzenn Kruis]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
+
+## Source
+
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, pp. 436‑442.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Titelpagina; Chapter V; Extract from the service record.

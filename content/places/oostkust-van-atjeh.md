@@ -1,7 +1,7 @@
 ---
 title: "Oostkust van Atjeh"
-aliases: ["Oostkust van Atjeh", "East Coast of Atjeh", "Atjeh's Oostkust", "Aceh Timur", "Oostkust Atjeh", "Oost-Atjeh", "East Atjeh", "eastern Atjeh"]
-tags: [place, afdeeling, oostkust, atjeh, coastal, border-region, administrative-division, region, aceh, tamiang, geography, plantation]
+aliases: ["East Coast of Atjeh", "Atjeh's Oostkust", "Aceh Timur", "Oostkust Atjeh", "Oost-Atjeh", "East Atjeh", "eastern Atjeh"]
+tags: [place, afdeeling, oostkust, atjeh, coastal, border-region, administrative-division, region, aceh, tamiang, geography, plantation, colonial, economy]
 ---
 
 **Oostkust van Atjeh** (East Coast of Atjeh) was an *afdeeling* (division) of the [[Gouvernement Atjeh en Onderhoorigheden]], administered by Assistent-Resident [[H. J. Krugers]]. The Oostkust covered the eastern coastline of Atjeh, bordering the territory of Sumatra's Oostkust (East Coast of Sumatra) and the Deli and Langkat sultanates. This border region was of particular significance in the [[Atjeh-Sumatra's Oostkust merger proposal]], as the Oostkust van Atjeh was discussed as a candidate for administrative merger with the Langkat region. The eastern coast of Atjeh occupied a liminal position—not fully integrated into the Atjeh highland world, yet not naturally part of the east coast plantation belt of Sumatra either—and its administrative fate was a matter of considerable debate during the [[Bestuursreorganisatie Sumatra (1913-1914)]].
@@ -40,6 +40,10 @@ Almost the whole plain along the coast of Oost-Atjeh had been brought into culti
 
 The eastern seaboard is also the setting of episodes of the [[Aceh War|Atjeh-oorlog]] recorded by [[P. H. R. Beuming]]: the *[[Benting|benting]]* of [[Edi]], an overseas post on the east coast where he met [[Pastoor Verbraak]] in [[1896]]; and the [[Raijah piracy (20 July 1893)|Raijah piracy]] of [[20 July]] [[1893]], in which the steamer was seized off [[Keureutoe|Kerti]] on the north coast east of [[Telok Semawé]] while on passage from [[Oleh-leh]] to [[Penang]] by way of [[Segli]], Telok Semawé and Edi.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+It was on the east coast, at [[Idi]], that [[H. N. A. Swart]] first saw action in [[1890]], and it was there that [[Teungkoe Tapa']] threw the coast into commotion in [[1898]]. This district, with its mixed Acehnese-Malay population, "had suffered least from the resistance and was governed by chiefs who promoted the pacification chiefly with an eye to their own business interest." From [[1910]] rubber and, from [[1911]], oil palm estates were established: "at a feverish tempo the plantation district of Atjeh's East Coast was created, whereby the foundation was also laid for the financial prosperity of the sub-divisional treasuries of [[Tamiang]] and [[Langsa]]."
+
 ## See Also
 
 - [[H. J. Krugers]]
@@ -58,11 +62,17 @@ The eastern seaboard is also the setting of episodes of the [[Aceh War|Atjeh-oor
 - [[Handelsvereeniging Amsterdam]]
 - [[Raijah piracy (20 July 1893)]]
 - [[Edi]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118, 358.
 
 *Over eene collectie vogelhuiden van Oost-Atjeh*, door Ir. Jhr. F. C. van Heurn en Mr. Dr. Baron R. C. E. G. J. Snouckaert van Schauburg, in *Jaarberichten* (Koloniaal Instituut). Koninklijk Instituut voor de Tropen, Br N 95-1210
 
 *Acknowledgement of sources.* The material in this article derives from *Over eene collectie vogelhuiden van Oost-Atjeh* by Ir. Jhr. F. C. van Heurn and Mr. Dr. Baron R. C. E. G. J. Snouckaert van Schauburg (Koloniaal Instituut, *Jaarberichten*). Dutch passages are quoted in the original with an English rendering.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter II, III, XIII.

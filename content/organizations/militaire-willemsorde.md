@@ -1,7 +1,7 @@
 ---
-title: Militaire Willemsorde
-aliases: [Militaire Willems-Orde, M.W.O., Military Order of William, Military William Order, Order of William, Ridder M.W.O., Ridder derde klas, Ridder vierde klas]
-tags: [organization, award, military, dutch, colonial, aceh]
+title: "Militaire Willemsorde"
+aliases: ["Militaire Willems-Orde", "M.W.O.", "Military Order of William", "Military William Order", "Order of William", "Ridder M.W.O.", "Ridder derde klas", "Ridder vierde klas"]
+tags: [organization, award, military, dutch, colonial, aceh, concept, decoration, honour]
 description: "The highest Dutch military decoration for bravery, leadership, and loyalty in the field, instituted in 1815."
 ---
 
@@ -48,7 +48,7 @@ When [[Dominee Thenu]] died on [[11 May]] [[1937]], the four *slippendragers* (t
 
 ## The *Ridders M.W.O.* in the *negorij*
 
-"*Ridders M.W.O.*, dragers van de [[Medaille voor Moed en Trouw]] en van het [[Kroontje (Eervolle Vermelding)|Kroontje]] (de Eervolle Vermelding), waren de trots van hun *kampong* of *negorij*" (Knights M.W.O., bearers of the Medal for Courage and Loyalty and of the Crown (Honourable Mention), were the pride of their hamlet or village). The M.W.O. Ridder was the pride of his home community: the *negorij* tracked his *wedervaren* (fortunes) through the entire Archipelago, and his decoration was worn at the *Koninginnedag* (Queen's Day) *rondgang* (procession). The [[1938]] incident at [[Ambarawa]] — in which the author congratulated a retired Javanese fusilier on 30 years as Ridder M.W.O. on behalf of the *Legercommandant* (Army Commander) — is the book's example of the decoration's lifelong prestige.
+"*Knights of the Military Order of William, holders of the Medal for Courage and Loyalty and of the Little Crown (the Honourable Mention), were the pride of their kampong or village*" (Knights M.W.O., bearers of the Medal for Courage and Loyalty and of the Crown (Honourable Mention), were the pride of their hamlet or village). The M.W.O. Ridder was the pride of his home community: the *negorij* tracked his *wedervaren* (fortunes) through the entire Archipelago, and his decoration was worn at the *Koninginnedag* (Queen's Day) *rondgang* (procession). The [[1938]] incident at [[Ambarawa]] — in which the author congratulated a retired Javanese fusilier on 30 years as Ridder M.W.O. on behalf of the *Legercommandant* (Army Commander) — is the book's example of the decoration's lifelong prestige.
 
 ## Connection to Aceh
 
@@ -57,6 +57,26 @@ While the order was a Dutch imperial honour, its conferral on actions taken in [
 ## Significance
 
 The Militaire Willemsorde served both as a morale booster for Dutch forces and as a diplomatic signal of the Crown's commitment to its overseas territories, including Aceh. In *[[Oom Ambon van het K.N.I.L.]]* the M.W.O. is the central decoration of the book's moral economy: the *Ridders M.W.O.* are the *trots* (pride) of their *negorij*, the *slippendragers* at the dominee's funeral, and the figures through whom Dames makes his argument about the colonial army's recognition of courage. The book's quiet point is that the M.W.O. was the colonial army's most reliable instrument for recognising the actual military value of its Ambonese soldiers — a value the formal classification system could not measure. Its recipients' deeds are documented in regimental histories such as those examined here.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+The **[[Militaire Willemsorde|Militaire Willemsorde]]** (Military William Order) was the highest Dutch military honour — the order instituted in 1815 by King William I for conspicuous bravery in battle. In Borel's account of the Atjeh-oorlog, the Militaire Willemsorde features as the decoration awarded to [[Generaal Pel|generaal Pel]] (the Commander's cross), as the honour promised by [[G. F. W. Borel|Borel]] to the volunteers of his proposed [[Indische Brigade (proposed)|Indische Brigade]], and as the decoration that Borel himself held — "Ridder van de Militaire Willemsorde" — by the time he published *Onze vestiging in Atjeh* in [[1878]].
+
+## The Order
+
+The Militaire Willemsorde was the highest Dutch military honour — the order instituted in 1815 by King William I of the Netherlands for conspicuous bravery in battle. The order had several classes: Knight (Ridder), Officer (Officier), Commander (Commandeur), and Knight Grand Cross (Ridder Grootkruis). The decoration was awarded by the King on the recommendation of the military authorities, typically for acts of gallantry in action. In the Atjeh-oorlog the Militaire Willemsorde was awarded to a number of Dutch officers and men for their conduct in the campaigns of [[1873]]–[[1878]]; the decoration was, in Borel's account, the formal recognition of the bravery that the book anatomises. Borel himself held the order — "Ridder van de Militaire Willemsorde" — by the time of publication, together with the Eresabel (sword of honour).
+
+## Pel's Commander's Cross
+
+The most conspicuous award of the Militaire Willemsorde in Borel's account was the Commander's cross awarded to [[Generaal Pel|generaal Pel]]. Pel — who had taken command of the [[Bezettingskorps in Atjeh|bezettingskorps]] as kolonel on [[26 April]] [[1874]], had restored the Dutch position from "allerdonkerendst" state, had completed the [[Stelling-Pel|stelling-Pel]] in May [[1875]], and had conducted the [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|great offensive of December 1875 – February 1876]] — was promoted to generaal-majoor on the King's birthday in late February [[1875]] and invested with the Commander's cross of the Militaire Willemsorde. The news caused "great joy and sympathy in the expeditionary army." The award was, in Borel's account, the formal recognition of Pel's doorzicht, beleid, rusteloos streven and zelfverloochening — the qualities that Borel praises throughout the book. The vesting-artillerie, by contrast, was "met geen wapen op meer stiefmoederlijke wijze bedeeld" in belooningen — treated more stepmotherly than any other arm in rewards — a contrast that Borel notes with characteristic indignation.
+
+## The Brigade Promise
+
+The Militaire Willemsorde was also the honour promised by Borel to the volunteers of his proposed [[Indische Brigade (proposed)|Indische Brigade]]. In *[[Een vaderlandsch belang (Borel, 1878)|Een vaderlandsch belang]]* ([[1 March|1]]–[[3 March]] [[1878]]) and in *De Militaire Spectator*, No. 7, jaargang [[1878]], Borel proposed the formation in the Netherlands of an expeditionnaire krijgsmacht of 3 000–4 000 men — 150 officers and 3 000 men, infantry, artillery and engineers — raised from Dutch vrijwilligers with premies (ƒ 250–300 handgeld, ƒ 1 per day soldij in Atjeh, equal premie on return), bound to a strict two-year maximum verbintenis, armed with steel [[Achterlaadkanonnen van 12 c.M.|achterlaadkanonnen]] with schokbuis, and sent directly to Atjeh. The brigade's members were to be promised the Militaire Willemsorde for distinguished conduct — the formal recognition that the metropolitan volunteers would, like Pel and the officers of the bezettingskorps, earn by their bravery in the field. The promise was, in Borel's account, both an incentive to enlistment and a declaration that the war in Atjeh was a national undertaking, worthy of the nation's highest military honour. The Militaire Willemsorde thus stands, in Borel's account, as both the recognition of the bravery of the officers and men who had fought the war and the incentive to the metropolitan volunteers who would, if Borel's proposal were adopted, end it.
+
+## Account in du Croo’s Generaal Swart (1943)
+
+[[H. N. A. Swart]] was appointed Knight 4th Class by royal decree of [[30 August]] [[1891]] no. 2 for his conduct in [[Atjeh]] in [[1890]]; Knight 3rd Class by decree of [[13 July]] [[1900]] no. 29 for the operations of [[1899]]; and Commander by decree of [[2 September]] [[1909]] no. 41 for the [[Onderneming tegen Soembawa (1908)|Soembawa]] operations of [[1908]]. Many of his subordinates named in du Croo's book were knights of the order, several with the *Eeresabel*: [[H. J. Schmidt]], [[W. B. J. A. Scheepens]], [[F. Darlang]], [[Th. J. Veltman]], [[A. Geertsema Beckeringh]], [[G. F. B. Watrin]], [[J. J. Boreel]], [[A. H. C. Roelofsen]], [[F. P. A. van Gheel Gildemeester]], [[H. Behrens]], [[W. J. Mosselman]], [[M. Schouten]], [[C. A. Snell]], [[G. F. P. Gosenson]], [[G. K. W. F. de Vaynes van Brakell Buys]] and [[J. H. C. Vastenou]]. The sergeants [[Loeff]] and [[Roobaart]] earned it in the destruction of the band of [[Tgk. Léjman]] in [[1911]]. The Ambonese old soldier [[Jacob Lawalata]] celebrated thirty-five years as a knight in [[1937]].
 
 ## See Also
 
@@ -90,31 +110,6 @@ The Militaire Willemsorde served both as a morale booster for Dutch forces and a
 - [[1865]]
 - [[1869]]
 - [[1893]]
-
-## Source
-
-*De geschiedenis van het Nederlandsche Korps Mariniers van 1665–1945*, OCR text, pp. 147–148 and pp. 174–182.
-
-*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Oom en de Bintang" and chapter "Dominee Thenu."
-
-## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
-
-The **[[Militaire Willemsorde|Militaire Willemsorde]]** (Military William Order) was the highest Dutch military honour — the order instituted in 1815 by King William I for conspicuous bravery in battle. In Borel's account of the Atjeh-oorlog, the Militaire Willemsorde features as the decoration awarded to [[Generaal Pel|generaal Pel]] (the Commander's cross), as the honour promised by [[G. F. W. Borel|Borel]] to the volunteers of his proposed [[Indische Brigade (proposed)|Indische Brigade]], and as the decoration that Borel himself held — "Ridder van de Militaire Willemsorde" — by the time he published *Onze vestiging in Atjeh* in [[1878]].
-
-## The Order
-
-The Militaire Willemsorde was the highest Dutch military honour — the order instituted in 1815 by King William I of the Netherlands for conspicuous bravery in battle. The order had several classes: Knight (Ridder), Officer (Officier), Commander (Commandeur), and Knight Grand Cross (Ridder Grootkruis). The decoration was awarded by the King on the recommendation of the military authorities, typically for acts of gallantry in action. In the Atjeh-oorlog the Militaire Willemsorde was awarded to a number of Dutch officers and men for their conduct in the campaigns of [[1873]]–[[1878]]; the decoration was, in Borel's account, the formal recognition of the bravery that the book anatomises. Borel himself held the order — "Ridder van de Militaire Willemsorde" — by the time of publication, together with the Eresabel (sword of honour).
-
-## Pel's Commander's Cross
-
-The most conspicuous award of the Militaire Willemsorde in Borel's account was the Commander's cross awarded to [[Generaal Pel|generaal Pel]]. Pel — who had taken command of the [[Bezettingskorps in Atjeh|bezettingskorps]] as kolonel on [[26 April]] [[1874]], had restored the Dutch position from "allerdonkerendst" state, had completed the [[Stelling-Pel|stelling-Pel]] in May [[1875]], and had conducted the [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|great offensive of December 1875 – February 1876]] — was promoted to generaal-majoor on the King's birthday in late February [[1875]] and invested with the Commander's cross of the Militaire Willemsorde. The news caused "great joy and sympathy in the expeditionary army." The award was, in Borel's account, the formal recognition of Pel's doorzicht, beleid, rusteloos streven and zelfverloochening — the qualities that Borel praises throughout the book. The vesting-artillerie, by contrast, was "met geen wapen op meer stiefmoederlijke wijze bedeeld" in belooningen — treated more stepmotherly than any other arm in rewards — a contrast that Borel notes with characteristic indignation.
-
-## The Brigade Promise
-
-The Militaire Willemsorde was also the honour promised by Borel to the volunteers of his proposed [[Indische Brigade (proposed)|Indische Brigade]]. In *[[Een vaderlandsch belang (Borel, 1878)|Een vaderlandsch belang]]* ([[1 March|1]]–[[3 March]] [[1878]]) and in *De Militaire Spectator*, No. 7, jaargang [[1878]], Borel proposed the formation in the Netherlands of an expeditionnaire krijgsmacht of 3 000–4 000 men — 150 officers and 3 000 men, infantry, artillery and engineers — raised from Dutch vrijwilligers with premies (ƒ 250–300 handgeld, ƒ 1 per day soldij in Atjeh, equal premie on return), bound to a strict two-year maximum verbintenis, armed with steel [[Achterlaadkanonnen van 12 c.M.|achterlaadkanonnen]] with schokbuis, and sent directly to Atjeh. The brigade's members were to be promised the Militaire Willemsorde for distinguished conduct — the formal recognition that the metropolitan volunteers would, like Pel and the officers of the bezettingskorps, earn by their bravery in the field. The promise was, in Borel's account, both an incentive to enlistment and a declaration that the war in Atjeh was a national undertaking, worthy of the nation's highest military honour. The Militaire Willemsorde thus stands, in Borel's account, as both the recognition of the bravery of the officers and men who had fought the war and the incentive to the metropolitan volunteers who would, if Borel's proposal were adopted, end it.
-
-## See Also
-
 - [[Generaal Pel]]
 - [[G. F. W. Borel]]
 - [[Indische Brigade (proposed)]]
@@ -126,7 +121,17 @@ The Militaire Willemsorde was also the honour promised by Borel to the volunteer
 - [[Kapitein van Randwijk]]
 - [[1875]]
 - [[1878]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665–1945*, OCR text, pp. 147–148 and pp. 174–182.
+
+*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Oom en de Bintang" and chapter "Dominee Thenu."
+
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 253, 258, 336–337, 366.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Extract from the service record, pp. 173–175, and illustrations.

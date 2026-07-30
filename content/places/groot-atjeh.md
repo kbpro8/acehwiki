@@ -1,6 +1,6 @@
 ---
 title: "Groot-Atjeh"
-aliases: ["Groot-Atjeh", "Atjeh proper", "Banda Aceh region", "Eigenlijk Atjeh", "Great Aceh", "Great Acheh", "Greater Aceh", "Groot-Atchéh", "Groot-Atje", "Groote Atjeh", "Proper Acheh", "Greater Atjeh", "Aceh Besar", "Groot Atjeh", "Atjeh Besar", "Groott-Atjeh", "de vallei van Groot-Atjeh", "sultanate of Groot-Atjeh", "Atjeh valley", "Atjeh-vallei", "vallei van Groot-Atjeh", "the valley of Groot-Atjeh"]
+aliases: ["Atjeh proper", "Banda Aceh region", "Eigenlijk Atjeh", "Great Aceh", "Great Acheh", "Greater Aceh", "Groot-Atchéh", "Groot-Atje", "Groote Atjeh", "Proper Acheh", "Greater Atjeh", "Aceh Besar", "Atjeh Besar", "Groott-Atjeh", "de vallei van Groot-Atjeh", "sultanate of Groot-Atjeh", "Atjeh valley", "Atjeh-vallei", "vallei van Groot-Atjeh", "the valley of Groot-Atjeh"]
 tags: [place, region, aceh-proper, aceh-war, acehnese, achehnese, colonial, afdeeling, rechtstreeks-bestuurd-gebied, atjeh, sagi, administrative-division, sultanate, sumatra, military, 19th-century, valley, historical, groot-atjeh, moekim, kraton, kraton-Kota-Radja, aceh, geography, 1897]
 ---
 
@@ -192,6 +192,10 @@ The Minister of Colonies [[J. T. Cremer|Cremer]] reported that the population wa
 
 [[Pijnacker Hordijk]] read from the report on the principal events in Groot-Atjeh of 11–24 September several incidents "die nu juist niet van rust getuigen" — which do not exactly testify to quiet: the incursion of [[Teuku Umar|Toekoe Oemar]] into [[Lamtih]] had at first caused a flight of people from [[Lepong]], partly to the mountains and partly to the [[IV Moekims]]; only after the troops there were reinforced and had occupied points commanding Oemar's position was he obliged to withdraw deeper into the valley and the people returned; and although the firing on the bivouac was ended by those measures and by the setting of ambushes, it could not be prevented that some small bands continued to move about.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+In [[1908]] twenty-one village schools were opened in Groot Atjeh; by [[1909]] the *[[sagi]]* of the [[XXII Moekims]] and the [[VII Moekims Pidië]] could be placed under civil administrators, "that is to say, Groot Atjeh had by then reached the point where civil administration could be introduced there everywhere." Nevertheless the [[Vaccination Unrest in Groot Atjeh (April 1914)|vaccination unrest of April 1914]], the murder of [[C. H. R. Heins]] at [[Lhong]] on [[13 July]] [[1914]] and the killing of [[Pang Bintang]] in July [[1913]] all occurred in this "volstrekt rustige, direct bestuurde gebied". Swart told the *[[Sumatra Post]]* in [[1914]] that in Groot Atjeh, with 100,000 inhabitants, there was no longer a single ill-disposed man at large.
+
 ## See Also
 
 - [[1873]]
@@ -285,7 +289,6 @@ The Minister of Colonies [[J. T. Cremer|Cremer]] reported that the population wa
 - [[Kraton of Atjeh]]
 - [[Lho' Nga]]
 - [[Moekim]]
-- [[Oelèë Lheue]]
 - [[Oeléë Kareung]]
 - [[Pedir-dijk]]
 - [[Sagi (Atjehnese division)]]
@@ -302,8 +305,12 @@ The Minister of Colonies [[J. T. Cremer|Cremer]] reported that the population wa
 - [[J. B. Verhey]]
 - [[Pijnacker Hordijk]]
 - [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 6–14, 17–24, 28–34. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
@@ -332,3 +339,5 @@ The Minister of Colonies [[J. T. Cremer|Cremer]] reported that the population wa
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 14–17, 33, 57.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI–XIII, XVI.

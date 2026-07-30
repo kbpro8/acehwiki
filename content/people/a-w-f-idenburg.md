@@ -1,7 +1,7 @@
 ---
-title: A. W. F. Idenburg
-aliases: ["A. W. F. Idenburg", "Alexander Willem Frederik Idenburg", "Idenburg", "minister Idenburg", "governor-general Idenburg"]
-tags: [person, governor-general, dutch, colonial, protestant, administrator, aceh, buitenbezittingen, politician, acheh, anti-revolutionary, minister]
+title: "A. W. F. Idenburg"
+aliases: ["Alexander Willem Frederik Idenburg", "Idenburg", "minister Idenburg", "governor-general Idenburg", "Gouverneur-Generaal Idenburg"]
+tags: [person, governor-general, dutch, colonial, protestant, administrator, aceh, buitenbezittingen, politician, acheh, anti-revolutionary, minister, 20th-century]
 ---
 
 **Alexander Willem Frederik Idenburg** was a Dutch colonial administrator who served as [[Gouverneur-Generaal van Nederlandsch-Indië|Governor-General of the Netherlands East Indies]] during the [[1904]]–[[1914]] decade covered by the Encyclopaedisch Bureau's volume *De Buitenbezittingen 1904 tot 1914*. His portrait, alongside those of [[Joannes Benedictus van Heutsz|his predecessor Van Heutsz]] and [[Hendrikus Colijn|Hendrikus Colijn]], appears as one of the three frontispiece figures of the volume — the three men "whose names are so closely bound up with the preparation and execution of the measures that have led to the enormous progress of the Buitenbezittingen in the said period."
@@ -16,11 +16,9 @@ The portrait caption identifies [[A. W. F. Idenburg|Idenburg]] as "Gouverneur-Ge
 
 [[A. W. F. Idenburg|Idenburg]] occupies a symbolic position in the Encyclopaedisch Bureau's account as the presiding Governor-General of the [[1904]]–[[1914]] "decade of progress." His appearance alongside [[Joannes Benedictus van Heutsz|Van Heutsz]] (the military conqueror of Atjeh) and [[Hendrikus Colijn|Colijn]] (the principal administrative architect of the post-pacification order) frames the volume as a tribute to the three men who, in the Bureau's view, between them brought the [[Pacificatie van Atjeh|pacification of Atjeh]] to its completion and translated it into a colonial-wide policy of effective authority.
 
-
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
 
 The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
-
 
 **A. W. F. Idenburg** — Alexander Willem Frederik Idenburg ([[1861]]-[[1935]]) — was a Dutch Anti-Revolutionary politician who served three terms as minister of Colonies ([[1902]]-[[1905]]; [[1908]]-[[1909]]; [[1909]]-[[1913]]) and one term as governor-general of the [[Nederlandsch-Indië|Nederlandsch-Indische]] archipelago ([[1909]]-[[1916]]). His first ministry covered the [[Van Daalen's Gajo-Alas-Batak expedition (1904)|Gajoe-Alas-Batak expedition of Van Daalen]]; his subsequent career embodies the [[Ethische Politiek|ethical-policy]] attempt to translate the conquest of Atjeh into a moralised colonial administration.
 
@@ -42,7 +40,35 @@ After the [[Van Heutsz's report on Atjeh (June 1908)|June 1908 report]] of [[J. 
 
 ### Letters to De Waal Malefijt and Kuyper
 
-[[A. W. F. Idenburg|Idenburg]]'s letters to [[J. H. de Waal Malefijt|De Waal Malefijt]] and [[Abraham Kuyper|Kuyper]], cited by [[D. M. G. Koch|Koch]], are the principal evidence of his *ethische* outlook: "Het is het einde van het *taillable et corvéable à merci*. We moeten ons daarover verheugen al geeft het ons enige moeite, we hebben het aldus gewild... althans het gezegd... en door ons onderwijs het bevorderd. En er zou niets dan reden van verheugen zijn, indien tevens het christendom vrijer en dieper kon inwerken". The remark captures the Protestant-ethical wish that the political emancipation of the *inlanders* would be accompanied by, and completed in, their Christian evangelisation.
+[[A. W. F. Idenburg|Idenburg]]'s letters to [[J. H. de Waal Malefijt|De Waal Malefijt]] and [[Abraham Kuyper|Kuyper]], cited by [[D. M. G. Koch|Koch]], are the principal evidence of his *ethische* outlook: "It is the end of the taillable et corvéable à merci. We must rejoice at that, even if it gives us some trouble; we willed it so… at least we said so… and promoted it through our education. And there would be nothing but cause for rejoicing if at the same time Christianity could work more freely and more deeply". The remark captures the Protestant-ethical wish that the political emancipation of the *inlanders* would be accompanied by, and completed in, their Christian evangelisation.
+
+## The problem of 1908
+
+"The disappointing [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] period and the heavy setback which our administration in Atjeh had consequently suffered confronted Minister Idenburg with difficult decisions. Not only Van Daalen, not only Van Heutsz, but the minister too was held responsible for that latest disappointment. Time and again a short period of apparent improvement in Atjeh had been followed by a revival of the resistance; repeatedly it had been emphatically asserted that 'now the end is in sight!' and just as repeatedly that end had proved to be infinitely far off."
+
+Idenburg wrote to van Heutsz on [[23 June]] [[1908]]: "I must, for my own sake — and also towards others who ask me to account for the situation — be able to say with an easy mind: what happened will happen no more. The Governor-General is kept regularly informed: the Governor of Atjeh has, if he wishes, the source of counsel that anyone would wish to possess in circumstances as difficult as pacification in a country where war was waged for thirty-five years."
+
+The minister therefore sought the solution in such a *vraagbaak* — and one wholly civil and above all non-military. Such a prop and support had, after all, been given to van Heutsz in the person of [[Christiaan Snouck Hurgronje|Snouck Hurgronje]]; why should Snouck not be placed beside a military Governor once more?
+
+## On Swart
+
+Of Swart Idenburg wrote with candour: "I do not know Swart — I accept on your authority that he is excellent; but he is no more cut out for the work of pacification than Van Daalen, even if his character is perhaps somewhat gentler."
+
+## The compromise
+
+Van Heutsz rejected Snouck Hurgronje for the supervisory role but conceded the principle, writing on [[30 July|30]]/[[31 July]] [[1908]]: "that You as minister, in view of what happened with Van Daalen, wish to see a repetition of anything of the kind made impossible, I find so natural that I have thought I ought not to raise objections to Your wish that Atjeh should henceforth be regularly visited by someone who could examine the civil conduct of the military Governor on the spot from time to time."
+
+Idenburg accordingly chose "the golden and safe middle way" and charged a member of the [[Raad van Nederlandsch-Indië]] with the supervision: "the side of force is represented by the Governor, the side of deliberation by Mr [[Liefrinck]]." Unrest had been aroused, as the minister put it, "because the carriage ran off the rails."
+
+## On private correspondence
+
+Idenburg wrote to van Heutsz on [[15 September]] [[1908]] the sentence du Croo quoted in Swart's defence against criticism of his private letters to subordinates: "the advantage of private correspondence is that it is personal and that one can say exactly what one thinks about a matter."
+
+## As Governor-General
+
+Idenburg later became Governor-General. On [[14 December]] [[1909]] Swart went to [[Sabang]] to pay his respects to the new *landvoogd* and had a long interview with him alone: "His Excellency declared that he could entirely associate himself with the political policy I had followed and was accordingly very pleased with the course of affairs, while he finally promised me every possible support. Furthermore His Excellency expressly requested me to pay no attention whatever to the press campaign directed against me." Assured of the support of the new Indies Government, Swart wrote to [[H. J. Schmidt]], he would of course not ask for release.
+
+As minister of Colonies, Idenburg had also supported van Heutsz's acceleration of the [[Opening der Buitengewesten|opening of the Buitengewesten]] from [[1904]].
 
 ## See Also
 
@@ -72,18 +98,23 @@ After the [[Van Heutsz's report on Atjeh (June 1908)|June 1908 report]] of [[J. 
 - [[J. B. van Heutsz]]
 - [[Abraham Kuyper]]
 - [[Van Heutsz's report on Atjeh (June 1908)]]
+- [[H. N. A. Swart]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Christiaan Snouck Hurgronje]]
+- [[Gotfried Coenraad Ernst van Daalen]]
+- [[Liefrinck]]
+- [[Raad van Nederlandsch-Indië]]
+- [[Opening der Buitengewesten]]
 
-## Sources
+## Source
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Voorwoord and frontispiece portraits.
 ---
 
-
 **Alexander Willem Frederik Idenburg** was a Dutch colonial administrator who served as [[Gouverneur-Generaal van Nederlandsch-Indië|Governor-General of the Netherlands East Indies]] during the [[1904]]–[[1914]] decade covered by the Encyclopaedisch Bureau's volume *De Buitenbezittingen 1904 tot 1914*. His portrait, alongside those of [[Joannes Benedictus van Heutsz|his predecessor Van Heutsz]] and [[Hendrikus Colijn|Hendrikus Colijn]], appears as one of the three frontispiece figures of the volume — the three men "whose names are so closely bound up with the preparation and execution of the measures that have led to the enormous progress of the Buitenbezittingen in the said period."
-
-
-*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Voorwoord and frontispiece portraits.
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 271-272, 274-275, 353.
 
 D. M. G. Koch, *Om de vrijheid*, p. 25 (cited by Vermeulen for Idenburg's letter).
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter V, p. 35; Chapter IX, pp. 88–90; Chapter XIV, pp. 140–141.

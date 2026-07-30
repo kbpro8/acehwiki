@@ -1,17 +1,14 @@
 ---
-title: Singkel
-aliases: [Singkil, Singkél, Singkel, Beneden-Singkel, Boven-Singkel, Oeloe Singkel, Singkeln, Sinkel, Sinabang, Simeulue, Simaloer]
-tags: [place, north-east-coast, west-coast, region, slaves, batak, holy-site, onderafdeeling, westkust, colonial, sumatra, achehnese, singkel, rechtstreeks-bestuurd-gebied, atjeh, simeulue, administrative-division]
+title: "Singkel"
+aliases: ["Singkil", "Beneden-Singkel", "Boven-Singkel", "Oeloe Singkel", "Singkeln", "Sinkel", "Sinabang", "Simeulue", "Simaloer"]
+tags: [place, north-east-coast, west-coast, region, slaves, batak, holy-site, onderafdeeling, westkust, colonial, sumatra, achehnese, singkel, rechtstreeks-bestuurd-gebied, atjeh, simeulue, administrative-division, town, aceh]
 ---
+
 A port and territory at the southern extreme of the West Coast, marking the boundary of [[Acheh]]. 'Beginning at Padang right up to Singkel, all tribute is raised for the King of Holland.' (sadati dialogue). [[Abdurra'uf of Singkel]], the great saint Teungku di Kuala, came from Singkel; his family name ('of Singkel') appears in the salasilahs. The hikayat Banta Beuransah (a romance) describes the war waged by Beuransah against [[China]]: 'the poet makes him touch successively at almost all the harbours of the East, West and North Coasts of [[Acheh]] and its dependencies, and finally arrive in [[Aramiah]] at the source of the river of Singke (Singkel).'
 
 ## Expanded account from *The Achehnese*, Vol. I — Singkel
 
 **Singkel** is a region south of Acheh on the west coast of Sumatra mentioned in *The Achehnese* Vol. I both as a source of Batak slaves and as the geographic designation borne by one of the great Achehnese saints, **Teungku di Kuala Abdora'oh** — known in Vol. II as Abdurra'uf of Singkel.
-
-### Source of Batak Slaves
-
-In his chapter on Achehnese domestic life Snouck Hurgronje notes that the Achehnese applied a particular nickname of evil import — **Bala' Kar'ee** (i.e. *k'arau'*) — to all Bataks, "including the Bata' Pappa', the Bala' Tuba and the Bata' Maloyhêng (Mandailing)." He adds in a footnote that "most of these are imported from Singkel and Trumon," and that the Achehnese distinguish the Bala' Kar'ee "as being the wildest and most vicious." The importation of Batak slaves through Singkel thus formed part of the regular commerce of pre-Dutch Acheh, supplying domestic labour and tying the sultanate into the wider slave-trading network of west-coast Sumatra.
 
 ### The Saint of Singkel
 
@@ -97,6 +94,10 @@ The existence of *rechtstreeks bestuurd gebied* within Singkel had direct implic
 
 The *onderafdeeling* Singkel's place in the proposed reorganization of the [[Bestuursreorganisatie Sumatra (1913-1914)]] reflected its peripheral position within the *Gouvernement Atjeh en Onderhoorigheden*. Unlike the core *afdeelingen* of Groot-Atjeh, the Westkust, Oostkust, and Noordkust—which were the subject of detailed boundary adjustments and merger proposals—Singkel's fate received less specific attention in the *bestuursvergaderingen*, suggesting that its remote location and relatively small population made it a lower priority for reorganization. Nevertheless, the administrative classification of part of Singkel as *rechtstreeks bestuurd gebied* ensured that it remained relevant to the broader discussion about Atjeh's governance future, as it contributed to the unique administrative character that distinguished the *Gouvernement* from other territories and that shaped De Graaff's decision to assign it *Gewestelijk Zelfbestuur* rather than local *zelfbestuur*.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+Under the [[Administrative Division of Atjeh (1908)|division of 1908]] Singkel was one of the districts where a *controleur* already conducted the administration; in [[1910]], when Bambél was abolished, Singkel was joined to the Westkust. In later years the west coast, [[Meulaboh]]–Singkel, drew the attention of estate entrepreneurs.
+
 ## See Also
 
 - [[Abdurra'uf of Singkel]]
@@ -146,8 +147,14 @@ The *onderafdeeling* Singkel's place in the proposed reorganization of the [[Bes
 - [[S. de Graaff]]
 - [[Gewestelijk Zelfbestuur]]
 - [[Koeta-Radja]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
+
+In his chapter on Achehnese domestic life Snouck Hurgronje notes that the Achehnese applied a particular nickname of evil import — **Bala' Kar'ee** (i.e. *k'arau'*) — to all Bataks, "including the Bata' Pappa', the Bala' Tuba and the Bata' Maloyhêng (Mandailing)." He adds in a footnote that "most of these are imported from Singkel and Trumon," and that the Achehnese distinguish the Bala' Kar'ee "as being the wildest and most vicious." The importation of Batak slaves through Singkel thus formed part of the regular commerce of pre-Dutch Acheh, supplying domestic labour and tying the sultanate into the wider slave-trading network of west-coast Sumatra.
 
 s
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -156,3 +163,5 @@ s
 *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V, p. 120.
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 18–19, 21–22, 3 (tekst bij blad 4 en 5: *Atjeh en de Westkust van Sumatra in 1684*, *De Compagnie in den Archipel na 1684 tot 1791 — Sumatra*).
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XIII.

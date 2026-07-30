@@ -1,7 +1,7 @@
 ---
 title: "Paja Tjitjem"
-aliases: ["Paja Tjitjem", "Paja Tjitjeum", "Paya Cicem", "Tjitjem swamp", "Lho Soekon paja", "vogelmoeras", "the bird-swamp of North East Atjeh"]
-tags: [place, swamp, achehnese, lho-soekon, noordkust-van-atjeh, colonial, 1908, 1923, avros, rice-cultivation, oost-atjeh, natural-history, geography]
+aliases: ["Paja Tjitjeum", "Paya Cicem", "Tjitjem swamp", "Lho Soekon paja", "vogelmoeras", "the bird-swamp of North East Atjeh"]
+tags: [place, swamp, achehnese, lho-soekon, noordkust-van-atjeh, colonial, 1908, 1923, avros, rice-cultivation, oost-atjeh, natural-history, geography, marsh, aceh, keureutoe, noordkust]
 ---
 
 **Paja Tjitjem** — modern *Paya Cicem* — is the great swamp of the *onderafdeeling* [[Lho Soekon|Lho Soekon]] in the *afdeeling* [[Noordkust van Atjeh|Noordkust van Atjeh]], occupying the south-eastern half of the *onderafdeeling*. It is the refuge of the insurgents of the [[Christoffel's expedition to Keureuto (c. 1908)|Christoffel expedition]] of about [[1908]] and the principal obstacle to the development of the *onderafdeeling*.
@@ -28,6 +28,10 @@ A few years before Broersma's visit, the agricultural association [[Avros|Avros]
 
 The Paja Tjitjem is the principal physical obstacle to the development of the *onderafdeeling* Lho Soekon, and the failure of the Avros project there is the type-case of the abortive post-war attempt at large-scale rice-cultivation in the swamps of the Atjehnese coast. The swamp also played a strategic role in the post-pacification resistance, as the refuge from which the insurgents of [[1908]] operated against Christoffel's *marechaussées*.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+Ordered on [[24 September]] to seek him there, Slooten marched the same day through [[Peutèë]], pressed on through night and rain to *gampong* [[Aloeë Awé]], resumed the hunt before dawn on [[25 September]], and followed the tracks into the marsh, wading sometimes up to the arms in mud and water. At midday on [[26 September]] voices were heard from huts on a dry patch; a *marechaussée* fell in the tangle of roots and the splash alarmed the camp; the brigade rushed forward and a fugitive two hundred metres off was hit and fell.
+
 ## See Also
 
 - [[Lho Soekon]]
@@ -44,11 +48,17 @@ The Paja Tjitjem is the principal physical obstacle to the development of the *o
 - [[Oostkust van Atjeh|Oost-Atjeh]]
 - [[Aloer Djamboe]]
 - [[Alas Peurba]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter VIII, *'Lho Soekon, licht en donker'*, pp. 53–56.
 
 *Over eene collectie vogelhuiden van Oost-Atjeh*, door Ir. Jhr. F. C. van Heurn en Mr. Dr. Baron R. C. E. G. J. Snouckaert van Schauburg, in *Jaarberichten* (Koloniaal Instituut). Koninklijk Instituut voor de Tropen, Br N 95-1210
 
 *Acknowledgement of sources.* The material in this article derives from *Over eene collectie vogelhuiden van Oost-Atjeh* by Ir. Jhr. F. C. van Heurn and Mr. Dr. Baron R. C. E. G. J. Snouckaert van Schauburg (Koloniaal Instituut, *Jaarberichten*). Dutch passages are quoted in the original with an English rendering.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, XI.

@@ -1,7 +1,7 @@
 ---
-title: Djeuram
-aliases: ["Djeuram", "Djeuram in Seunagan", "bivak Djeuram", "the Djeuram in Seunagan"]
-tags: [place, aceh, aceh-war, westkust, seunagan, 20th-century, klewangaanval]
+title: "Djeuram"
+aliases: ["Djeuram in Seunagan", "bivak Djeuram", "the Djeuram in Seunagan"]
+tags: [place, aceh, aceh-war, westkust, seunagan, 20th-century, klewangaanval, bivouac]
 description: "Place in Seunagan on the Westkust, site of the largest klewangaanval in Atjeh history in April 1904 against the colonne-Campioni; Schmidt as lieutenant here in 1906; Tjoet Patimah the widow of Teukoe Keumangan; the bivak with its famous chicken and ape mascottes."
 ---
 
@@ -27,6 +27,10 @@ After [[Tjoet Ali]] was killed by [[Gosenson]]'s brigade near Aloeë on [[25 May
 
 Djeuram is the place of the largest *klewangaanval* in the history of Atjeh, of the *bivak* at which Schmidt won his Atjehsche *vertrouwen*, of [[Tjoet Patimah]]'s testimony to the *rantej boei*, and of the chicken-and-ape mascottes of [[Tjoet Ali]] in the years after his death. *Ueber allen Gipfeln ist Ruh* — above all the peaks there is rest.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+On [[29 December]] [[1917]] Gosenson, returning with a few *[[Corps of Military Constabulary of Atjeh and Dependencies|marechaussée]]* from an elephant hunt undertaken at the request of the inhabitants of [[Goenòng Balè]], was gravely wounded in the [[Attack on Gosenson at Djeuram (29 December 1917)|attack]] organised by [[Tgk. Poeti']]. [[Teukoe Agam]], whom [[H. J. Schmidt]] brought to [[Daja]] in [[1914]], had formerly been head of his intelligence service at Djeuram. In [[1926]] [[Teukoe Keumangan]] acknowledged to [[Maurice Henri du Croo|du Croo]] that T. Radja Tampo' had been present on the *pasar* at Djeuram.
+
 ## See Also
 
 - [[Seunagan]]
@@ -49,7 +53,13 @@ Djeuram is the place of the largest *klewangaanval* in the history of Atjeh, of 
 - [[1904]]
 - [[1906]]
 - [[1927]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XII.

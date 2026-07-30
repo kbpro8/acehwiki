@@ -1,7 +1,7 @@
 ---
-title: Oelama
-aliases: ["Oelama", "oelama", "ulama", "ulama's", "oelama's", "religious scholars", "geestelijke hoofden", "heilige mannen", "tengkoe meunasa", "Ulema"]
-tags: [concept, religious, islamic, aceh, oelama, religious-leader, resistance, achehnese, sultanate]
+title: "Oelama"
+aliases: ["ulama", "ulama's", "oelama's", "religious scholars", "geestelijke hoofden", "heilige mannen", "tengkoe meunasa", "Ulema"]
+tags: [concept, religious, islamic, aceh, oelama, religious-leader, resistance, achehnese, sultanate, religion, islam]
 description: "The class of Islamic religious scholars and leaders in Aceh — from Arabic ulama — who led the resistance through the prang sabil; the Tiro-oelama's, the Paja Bakong Tengkoes, Habib Teupin Wan, Tgk. Tjot Plieëng; lived kramat lives, wrote letters with Arabic formulas, were the spiritual leaders the oeléëbalangs could not rival."
 ---
 
@@ -51,6 +51,10 @@ The oelama is the institutional carrier of religious authority in the [[Aceh War
 
 The *oelama* — and not the *oeléëbalang* — was the soul of the [[Aceh War|Atjeh-oorlog]]. *Het verzet dat hij leidde reikte ver over de onderlinge geschillen der oeléëbalangs heen*. The Gouvernement could buy or depose an *oeléëbalang*; it could not buy an *oelama*. The fall of the Tiro-oelama's in [[1910]], the death of [[Habib Teupin Wan]] in [[Schmidt's pursuit of Habib Teupin Wan (1911)|1911]], the death of [[Tengkoe di Barat]] in [[1912]], broke the back of the resistance; but the village *oelama* survived, and the [[Hikajat prang|hikajat prang]] was read in the *meunasah* until [[1933]] and after.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+[[Teungkoe di Tjòt Plieng]] was head of the *oelama* party at [[Garot]] in [[1898]]; the [[Tirò Teungkoes]] were the fanatical *oelama* house of [[Pidië]]; and after [[1908]] "once again the religious scholars and the band-leaders carried the torch of war through the land." [[J. C. Lamster|Lamster]] described the *[[Corps of Military Constabulary of Atjeh and Dependencies|marechaussée]]* patrols tracking "into the deepest hiding-places the last irreconcilable religious scholars." But the *oelama* also had a constructive place in [[H. N. A. Swart]]'s system: his second principle of administration required "a decision as just as possible "with regard to the *[[adat]]*", that is to say always with the religious adviser, the *oelama*, behind the green table." [[Si Doelah]], the substitute for [[T. Radja Sabi]], was the son of a simple *oelama*.
+
 ## See Also
 
 - [[Prang sabil]]
@@ -94,9 +98,15 @@ The *oelama* — and not the *oeléëbalang* — was the soul of the [[Aceh War|
 - [[Sagi]]
 - [[1896]]
 - [[Controleur Neelmeijer]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 45, 183, 244.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, IV, X, XIII.

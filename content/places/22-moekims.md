@@ -1,7 +1,7 @@
 ---
 title: "22 Moekims"
-aliases: ["22 Moekims", "22 Moekim", "Twenty-two Moekims", "XXII Moekims", "22 Mukim", "Sagi of the 22 Moekims", "XXII Mukims", "Sagi XXII", "de Sagi's XXII"]
-tags: [place, aceh, administrative-division, inland-sagi, aceh-war, 19th-century, groot-atjeh, van-der-heijden, sagi, mukim]
+aliases: ["22 Moekim", "Twenty-two Moekims", "XXII Moekims", "22 Mukim", "Sagi of the 22 Moekims", "XXII Mukims", "Sagi XXII", "de Sagi's XXII"]
+tags: [place, aceh, administrative-division, inland-sagi, aceh-war, 19th-century, groot-atjeh, van-der-heijden, sagi, mukim, moekim, administration]
 ---
 
 **The 22 Moekims** — *Twenty-two Moekims*, written in Dutch *22 Moekims*, in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s spelling also *XXII Moekims* or *Sagi XXII* — was the inland *Sagi* (third administrative division) of [[Groot-Atjeh|Groot-Atjeh]], one of the three *Sagi's* of the sultanate together with the [[25 Moekims|25]] and [[26 Moekims|26 Moekims]] and the [[Sultan's gebied|Sultan's own territory]]. The [[Conquest of the 22 Moekims (March-June 1879)|Dutch conquest of the 22 Moekims]] under [[General van der Heijden|Van der Heijden]] from [[March 1879|March]] to half [[June 1879|June]] [[1879]] was the principal military success of Van der Heijden's governorship and brought the entire valley of Groot-Atjeh under Dutch control for the first and only time before the final pacification under [[Joannes Benedictus van Heutsz|Van Heutsz]] after [[1898]]. In Van Heutsz's [[1893]] tract *De onderwerping van Atjeh*, the XXII Moekims is the opening chapter of the Van der Heijden conquest — the Sagi of twenty-two mukims whose *panglima sagi* was [[Panglima Polim]] and within which the *machtige hoofd* [[Tekoe Moeda Baid]] held the [[VII Moekims]] sub-federation.
@@ -48,6 +48,10 @@ The outermost Dutch outpost in the conquered XXII Moekims was [[Djerir]] — the
 
 The XXII Moekims's significance in Van Heutsz's [[1893]] tract rests on its being the opening chapter of the Van der Heijden conquest — the Sagi whose reduction fixed the operational model the [[XXVI Moekims]] campaign would extend; the constitutional unit of [[Groot-Atjeh]] — the Sagi of twenty-two mukims, headed by the *panglima sagi* [[Panglima Polim]] and containing within it the [[VII Moekims]] sub-federation of the *machtige hoofd* [[Tekoe Moeda Baid]] — through which the sultan's authority had historically been mediated; the first Sagi to be conquered by Van der Heijden in the July–October [[1878]] campaign that opened the Van der Heijden conquest and that ended with the submission of Habib Abdoel Rachman and Tekoe Moeda Baid on [[13 October]] [[1878]]; and the territory whose outermost Dutch outpost, [[Djerir]], marked the limit of the September [[1879]] reconnaissance that confirmed the Van der Heijden conquest.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+It was in this *sagi* that van Heutsz attacked the positions of [[Panglima Pòlém]] and drove him to [[Pidië]]. In July [[1913]] [[Pang Bintang]] was killed there by chance, when [[Van Andel]] of [[Lam Meulò]] got the first patrol into the [[V Moekims Mon Tasië']] after the transfer of *controleur* [[Roos van Raadshoven]] and ran into the band's hiding-place near the former [[Koeta Ba' Teuë]] on the second day.
+
 ## See Also
 
 - [[Sagi (Atjeh)]]
@@ -85,9 +89,15 @@ The XXII Moekims's significance in Van Heutsz's [[1893]] tract rests on its bein
 - [[Day-order of 5 September 1879]]
 - [[Djerir]]
 - [[13 October]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI (the conquest), Chapter VIII (the loss under civil government). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 30–31, 41.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 13, 17, 21–23, 25, 37. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, XII, XIII.

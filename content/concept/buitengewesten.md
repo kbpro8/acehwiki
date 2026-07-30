@@ -1,7 +1,7 @@
 ---
-title: Buitengewesten
-aliases: ["Buitengewesen", "Buitengewesten", "the Outer Territories", "Buitenbezittingen"]
-tags: [concept, term, colonial, knil, administrative-division, dutch, geography, policy, achehnese-history, place, acheh, administrative]
+title: "Buitengewesten"
+aliases: ["Buitengewesen", "the Outer Territories", "Buitenbezittingen"]
+tags: [concept, term, colonial, knil, administrative-division, dutch, geography, policy, achehnese-history, place, acheh, administrative, administration, indies]
 description: "The Buitengewesten (Outer Territories) were all parts of the Dutch East Indies outside Java and Madura. The pacification of these territories, including Atjeh, was completed under Governor-General Van Heutsz, and their infrastructure development was a major colonial priority by 1926."
 ---
 
@@ -49,11 +49,9 @@ The *buitengewesten* are significant in *[[Oom Ambon van het K.N.I.L.]]* as the 
 
 The *Nederlandsch Indië Platen Atlas* ([[1926]]) further underscores the importance of the Buitengewesten in the official colonial reckoning. By that year, the transformation of the Outer Territories was sufficiently advanced that the atlas could boast of automobile travel from [[Kota Radja]] in Atjeh to [[Padang]], and the expansion of the Atjeh and Deli railway networks. The shift from the *onthoudingspolitiek* to an active policy of pacification — completed under [[Joannes Benedictus van Heutsz|Governor Van Heutsz]] — was presented as the defining achievement of the latest phase of Dutch colonial history.
 
-
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
 
 The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
-
 
 **Buitengewesten** — the Outer Territories — was the [[Netherlands|Dutch]] colonial-administrative term for the islands and regions of the [[Nederlandsch-Indië|Nederlandsch-Indië]] outside [[Java]] and [[Madoera|Madoera]]. In the source's narrative, the *buitengewesten* are the principal theatre of the post-[[1890s]] extension of Dutch effective authority — the [[Atjehoorlog|Atjehoorlog]] of [[1873]]-[[1904]] on [[Sumatra|Sumatra]], the [[1894]] Lombok expedition, and the subsequent consolidation under [[J. B. van Heutsz|Van Heutsz]] and his successors.
 
@@ -72,6 +70,10 @@ The source records that "In 1822 was een residentie Bali en Lombok ingesteld" (I
 ### Significance
 
 [[Buitengewesten|Buitengewesten]] is, in the source's narrative, the principal theatre of the post-[[1890s]] extension of Dutch effective authority. The [[Atjehoorlog|Atjehoorlog]] of [[1873]]-[[1904]] is the central episode of this extension; the [[Korte verklaring|korte verklaring]] is its principal administrative instrument.
+
+## Account in du Croo’s Generaal Swart (1943)
+
+Before [[1900]] they "remained distant unknowns, where our authority reached no further than the shadow of a flagstaff — with, in that narrow shadow, an administrative official without means of power and therefore without authority." *"Verboden Toegang"* was the imperative sign that closed the road to them, because "remember Atjeh — let Atjeh be a warning!" [[H. N. A. Swart]]'s whole career after [[1905]] belonged to their opening: [[Borneo]], [[Celebes]], [[Onderneming tegen Soembawa (1908)|Soembawa]] and finally [[Atjeh]]. Du Croo named van Heutsz, [[Hendrikus Colijn|Colijn]] and Swart as "de derde groote en beteekenisvolle Bouwheer der *Buitengewesten* ("Outer Provinces")." As Vice-President of the [[Raad van Nederlandsch-Indië]] from [[1918]], Swart was chosen as adviser precisely because he had been an administrator "in het nauwelijks geopende, onontgonnen gebied der buitengewesten."
 
 ## See Also
 
@@ -110,11 +112,16 @@ The source records that "In 1822 was een residentie Bali en Lombok ingesteld" (I
 - [[J. B. van Heutsz]]
 - [[Nieuw Guinea]]
 - [[Dr. C. Snouck Hurgronje]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Van recruut tot pensioen" and chapter "De buitenpost."
 
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter III (Gezagvoering), pp. 54, 56; Chapter IX (Verkeer), pp. 160, 165, 168.
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 217-219, 238.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter I, V, XVII.

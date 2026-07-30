@@ -1,7 +1,7 @@
 ---
-title: Meunasah
-aliases: [Meunasah, Village Chapel, Surau]
-tags: [concept, religion, architecture, social-institution]
+title: "Meunasah"
+aliases: ["Village Chapel", "Surau"]
+tags: [concept, religion, architecture, social-institution, building, achehnese, village]
 description: "The Acehnese village chapel — the communal heart of every gampong, serving simultaneously as a men's sleeping hall, rest-house for strangers, mosque for daily prayers, and venue for village assemblies and social events."
 ---
 
@@ -33,6 +33,10 @@ That is: in middle-[[Java|Java]] called *langgar*, in [[Sunda|Soenda]] *tajjeg*,
 
 Mellema notes that all buildings of this class — *langgar*, *tajjeg*, *soerau*, *meunasah*, *rangkang* — are recognisable by "het spitte, gestapelde dak" (the steep, tiered roof), the characteristic stacked-roof form that Mellema, earlier in the survey, traces back to the pre-Islamic Indonesian community-house (the *balai* or *bale*). The *rangkang* thus shares with the *meunasah* the architectural lineage that connects the village prayer-house to the older Indonesian tradition of the piled, tiered-roof communal building. The comparative enumeration is the Mellema-source counterpart to [[C. Snouck Hurgronje|Snouck Hurgronje]]'s monographic account of the meunasah in *[[Snouck Hurgronje's De Atjehers (1893-94)|De Atjehers]]* ([[1893]]–[[1894]]), and it furnishes the alternative name *rangkang* that Snouck's monograph does not foreground.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+On [[26 January]] [[1905]] the patrol of sergeant [[Vollaers]], seventeen men, was surprised in the *meunasah* of [[Meurandéh Paja]] east of [[Lho' Soekon]], where it had neglected all security measures; sixteen men were killed and only one native fusilier escaped. On [[24 September]] [[1910]] sergeant [[Slooten]] heard from an Acehnese woman that three of [[Pang Nanggròë]]'s men were under the *meunasah* of *gampong* [[Aloeë]] with two women. In [[1916]] a redactor of the *[[Deli Courant]]* noted that when [[H. N. A. Swart]] observed in a *gampong* that a dilapidated *meunasah* did not do the village credit, the population did not build a new one but simply demolished the old.
+
 ## See Also
 
 - [[Gampong]]
@@ -48,9 +52,15 @@ Mellema notes that all buildings of this class — *langgar*, *tajjeg*, *soerau*
 - [[Haddji title prestige in Atjeh (Mellema 1947)]]
 - [[C. Snouck Hurgronje]]
 - [[1947]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 5–6, pp. 58–80.
 
 *De Islaam in Indonesië (in het bijzonder op Java)*, by Drs. R. L. Mellema. Mededeling No. LXXVII, Afd. Volkenkunde No. 25. Amsterdam: Koninklijke Vereniging "Indisch Instituut," 1947. "Godsdienstonderwijs in Indonesië," p. 39; and *Register*, s.v. *meunasah* and *rangkang*.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, XVI.

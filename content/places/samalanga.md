@@ -1,12 +1,13 @@
 ---
-title: Samalanga
-aliases: ["Samalanga", "Samalanga (Atjeh)", "Samalanga region", "Samalangga", "Samalangá"]
-
-tags: ["aceh-proper", "achehnese", "coast", "colonial", "military-operations", "north-coast", "north-east-coast", "place", "region", "ulama"]
+title: "Samalanga"
+aliases: ["Samalanga (Atjeh)", "Samalanga region", "Samalangga"]
+tags: [aceh-proper, achehnese, coast, colonial, military-operations, north-coast, north-east-coast, place, region, ulama, landschap, aceh, noordkust]
 ---
+
 **Samalanga** is a coastal region of [[Acheh|Atjeh]] on the north coast of Sumatra, between [[Banda Acheh|Koetaradja]] and [[Pedirse|Pedir]], mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 124) as the locality where, in particular, much *dadih* — curdled buffalo-milk, the most widely consumed buffalo-milk product in northern Sumatra — was made. The Samalanga reference is part of *De Karbouw*'s wider account of buffalo-milking and buffalo-milk consumption in Atjeh, which locates Atjeh within a broader North-Sumatran dairy complex that included the [[Pedirse|Pedir]] region (where goats were also milked), the [[Gajoland|Gajoland]] highlands (where *minjaq sapi* buffalo-milk cream was boiled down to fat for frying *toempi* and *tjoetjoer*), and the [[Klingalese]] and [[Arab|Arab]] communities resident in Atjeh (great lovers of *dadih*, who knew it by their own terms *tairō* and *halib* respectively).
 
 ## Expanded account from *The Achehnese*, Vol. I — Samalanga
+
 **Samalanga** is a region on the north coast of Acheh mentioned in *The Achehnese* Vol. I both as the scene of Dutch military operations in the Acheh War and as the geographical designation borne by the influential sayyid preacher **Habib Samalanga**, one of the chief rivals of [[Teungku Tiro]].
 
 ### Military Operations in Samalanga
@@ -22,6 +23,7 @@ The other prominent bearer of the Samalanga name in Vol. I is the sayyid **Habib
 Although Samalanga as a place is mentioned only briefly in Vol. I, its double appearance — both as a major military theatre of the late Acheh War and as the geographic designation of a leading sayyid war-preacher — marks it as one of the most important centres of Achehnese armed and religious resistance at the turn of the twentieth century. The place is treated more fully in Vol. II of *The Achehnese*.
 
 ## Account from *Dispereert Niet Vol. XI* (1946) — Samalanga
+
 **Samalanga** is a region of **[[Aceh]]** on the east coast of **[[Sumatra]]**, notable for its role in the **[[Aceh War]]** and the site of the battle of **[[Batêê Iliê]]** in [[1901]].
 
 ### Background
@@ -36,24 +38,19 @@ Batêê Iliê was a fortified village in Samalanga that had successfully resiste
 
 After the battle, Panglima Polem retreated into the interior. He was eventually surrounded and surrendered to **[[Hendrikus Colijn|H. Colijn]]** at **[[Lhokseumawe]]** in [[1903]].
 
-## Sources
-*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, [[1906]].
-
-*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
-*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 124.
-*De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), passim.
-
 ## Samalanga in De Karbouw
+
 The Samalanga passage in *De Karbouw* (p. 124) runs in full:
 
 > *"In Atjeh worden van de huisdieren bijna uitsluitend karbouwen door de bevolking nu en dan gemolken; in het [[Pedirse|Pedirse]] ook geiten. Voor de bereiding van de verschillende soorten van rijstepap (*[[kandji|kandji]]*, een Tamil-woord), die in Atjeh bij bijzondere gelegenheden worden gegeten, wordt buffelmelk of klappermelk gebruikt. Gestremde buffelmelk, ook op N.-Sumatra *[[dadih (Atjeh)|dadih]]* genoemd, wordt bij de Atjehers soms met rijst of pisang, maar bij de Gajo's zelden genuttigd. De Klinganezen en Arabieren in Atjeh zijn er echter grote liefhebbers van; de eersten noemen die *[[tairō|tairō]]*, de laatsten *[[halib|halib]]*. Vooral in [[Samalanga|Samalanga]] wordt veel *dadih* gemaakt."*
 The passage locates Samalanga within a layered account of Atjehnese dairy practice: buffaloes are the principal milk-animal (goats additionally in Pedirse), the milk is used in *kandji* rice-porridge (a Tamil loan-word) at ceremonial occasions, the curdled *dadih* is sometimes eaten with rice or banana by Atjehnese (rarely by Gajos), and is especially favoured by the Klingalese (who call it *tairō*) and Arabs (who call it *halib*) of Atjeh — and Samalanga is the locality singled out for the abundance of its *dadih* production.
 
 ## Historical context
+
 Samalanga was, in the period of the [[Aceh War|Atjeh War]] of the late nineteenth and early twentieth centuries, one of the most stubbornly resistant districts of the Atjehnese interior, and its name figures prominently in the Dutch military and administrative literature on the pacification of Atjeh. [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] treats Samalanga as one of the principal seats of the Atjehnese resistance. The fact that Samalanga was, in *De Karbouw*'s ethnographic present, also a centre of *dadih* production is a small but pointed reminder that the ethnographic and the military-administrative faces of the Dutch encounter with Atjeh were inscribed on the same localities.
 
-
 ## Significance
+
 Samalanga's significance for the encyclopedia of [[Acheh]] history is as a documented locality of Atjehnese buffalo-milk consumption — specifically, the place most strongly associated with *dadih* production in the comparative ethnographic literature. It also figures as one of the most stubbornly resistant districts of the Atjehnese interior during the [[Aceh War|Atjeh War]], a fact that places its ethnographic profile in the same frame as its military-historical profile.
 
 ## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893)
@@ -84,7 +81,12 @@ The Samalanga post was abolished in [[1884]] under the [[Concentratiestelsel|Con
 
 Samalanga's significance in Van Heutsz's [[1893]] tract rests on its being the empirical origin of the *scheepvaartregeling* prescription — the place whose 1880 *kruisboot* test gave Scherer the *fingerwijzing* that became the central prescription of the entire tract; the Noordkust statelet at which a Dutch post was established in [[1877]] after heavy fighting as part of the *verzoeningspolitiek*-era occupation of the Onderhoorigheden; the site of the murder of the Dutch emissary Soetan Maharadja, whose *bangoen* (blood-price) the Samalanga chiefs evaded by *uitvluchten*; and the post abolished in [[1884]] under the Concentratie — the operational emblem of the Concentratie's self-defeating withdrawal from the coastal posts through which the *scheepvaartregeling* could have been administered.
 
+## Account in du Croo’s Generaal Swart (1943)
+
+In June [[1913]] a fourteen-year-old boy armed with a *[[rentjong]]* forced his way into the canteen at Samalanga and attacked the station master who happened to be staying there — one of the [[Atjeh-moord|Atjeh murders]]. The *zelfbestuurder* [[T. Tjhi' Moehammad]] of Samalanga was the eighth signatory of the [[Letter of the Acehnese Chiefs to General Swart (26 September 1933)|letter of 1933]].
+
 ## See Also
+
 - [[Aceh War]]
 - [[Acheh]]
 - [[Batêê Iliê]]
@@ -134,4 +136,17 @@ Samalanga's significance in Van Heutsz's [[1893]] tract rests on its being the e
 - [[1880]]
 - [[1884]]
 - [[1893]]
-*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 14, 22, 26, 31, 36. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
+
+## Source
+
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, [[1906]].
+
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 124.
+*De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), passim.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XII; Appendix.

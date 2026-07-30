@@ -1,7 +1,7 @@
 ---
-title: Java
-aliases: [Java, Jawa, Island of Java, Java island, The Javanese island, Java-eiland, Javasche, Javaansche, Pulau Jawa]
-tags: [place, sacred-site, foreign-land, island, foreign, colony, indonesia, aceh, dutch]
+title: "Java"
+aliases: ["Jawa", "Island of Java", "Java island", "The Javanese island", "Java-eiland", "Javasche", "Javaansche", "Pulau Jawa"]
+tags: [place, sacred-site, foreign-land, island, foreign, colony, indonesia, aceh, dutch, indies, colonial]
 ---
 
 **Java** is the most populous island of the [[East Indian Archipelago]] (today Indonesia), situated east of [[Sumatra]] and historically the chief seat of Dutch colonial power with [[Batavia]] as its principal city. Throughout *The Achehnese* Vol. I, [[C. Snouck Hurgronje|Snouck Hurgronje]] uses Java as the primary point of comparison for the institutions, customs, and legal practices of [[Acheh]], while Dutch colonial records portray the island as the logistical base for operations against the Sultanate of [[Aceh]] in the eighteenth and early nineteenth centuries. Its dense network of religious schools, legal institutions, and economic policies made Java a model—both admired and contested—in the Dutch imperial imagination.
@@ -22,7 +22,7 @@ After the establishment of [[Batavia]] in [[1619]], the Dutch East India Company
 
 ## Dutch Imperial Aspirations: “Second Java” and “Java Minor”
 
-In the early nineteenth century Dutch officials spoke of making Sumatra a “second Java.” Following the 1814 revision of the [[Anglo-Dutch Treaty of London (1814)|treaty of [[1814]]]], [[Anton Reinhard Falck|Falck]] and [[Hendrik Fagel|Fagel]] recommended exchanging [[Bencoolen|Benkoelen]] for Dutch factories in [[Hindostan]], arguing that an undivided authority on Sumatra offered the opportunity to develop the island on the Javanese model. British Governor [[Sir Thomas Stamford Raffles|Raffles]] warned Sultan [[Sultan Jauhar Alum|Sultan Djohor]] that the Dutch intended to turn Sumatra into a northward extension of Java.
+In the early nineteenth century Dutch officials spoke of making Sumatra a “second Java.” Following the 1814 revision of the [[Anglo-Dutch Treaty of London (1814)|treaty of [[1814]], [[Anton Reinhard Falck|Falck]] and [[Hendrik Fagel|Fagel]] recommended exchanging [[Bencoolen|Benkoelen]] for Dutch factories in [[Hindostan]], arguing that an undivided authority on Sumatra offered the opportunity to develop the island on the Javanese model. British Governor [[Sir Thomas Stamford Raffles|Raffles]] warned Sultan [[Sultan Jauhar Alum|Sultan Djohor]] that the Dutch intended to turn Sumatra into a northward extension of Java.
 
 Article 9 of the [[Anglo-Dutch Treaty of 1824|treaty of [[17 March]] [[1824]]] labelled Sumatra as **Java minor**, acknowledging its subordination to the Dutch seat in Java and the intention to replicate Javanese administrative intensity there. The British use of the term signalled an implicit recognition of Dutch supremacy over the larger island.
 
@@ -41,6 +41,10 @@ Beyond its colonial-administrative and comparative-legal roles, Java functioned 
 ## Significance
 
 Java’s dual role—as a cultural benchmark for Achehnese customs and as the administrative and logistical heart of Dutch colonial power—made it a focal point for comparative legal studies, imperial strategy, and economic competition in the early nineteenth‑century Indian Ocean world. The island’s institutions, vocabulary, and legal practices were repeatedly invoked to legitimize Dutch authority over Sumatra, while the “second Java” ambition and the “Java minor” designation reveal how colonial planners projected Javanese models onto other parts of the archipelago.
+
+## Account in du Croo’s Generaal Swart (1943)
+
+[[H. N. A. Swart]] remained obstinately on Java and in the *vredesgarnizoenen* from [[1890]] until his captaincy in [[1898]]; he served at [[Magelang]], [[Gombong]], [[Semarang]] and [[Batavia]]. [[Joannes Benedictus van Heutsz|Van Heutsz]]'s solution of the teacher problem for *[[Volksonderwijs in Atjeh|volksonderwijs]]* took the Javanese *desa* as its model; at the census of [[1930]] Java's literacy rate was 5.5 per cent against Atjeh's 1.1. Banishment to Java was the penalty [[T. Béntara Titeuë]] demanded in [[1913]] and which Dutch law could not impose for slight wounding.
 
 ## See Also
 
@@ -81,6 +85,10 @@ Java’s dual role—as a cultural benchmark for Achehnese customs and as the ad
 - [[Islam]]
 - [[Straits of Malacca]]
 - [[1300]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
@@ -91,3 +99,5 @@ Java’s dual role—as a cultural benchmark for Achehnese customs and as the ad
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pp. 78‑79. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
 
 *DLP-84-Atjeh.pdf*, pp. 2-3.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter V, XII, XIII.

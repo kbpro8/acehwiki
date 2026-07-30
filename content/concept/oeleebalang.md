@@ -1,7 +1,7 @@
 ---
 title: "Oeleebalang"
-aliases: ["Oeleebalang", "Uleëbalang", "Uleebalang", "Oelebalang", "Atjehse district chief", "Atjehse territorial chief", "oeléëbalang", "hoeloebalang", "hulubalang", "Oeleobalang", "Oeléébalang", "territorial chief"]
-tags: [concept, acehnese, administrative, traditional-institution, sultanate, aceh, 19th-century, 20th-century, oeleebalang, keudjroen-loeeng, atjeh, zelfbestuur, colonial, traditional-office]
+aliases: ["Uleëbalang", "Oelebalang", "Atjehse district chief", "Atjehse territorial chief", "hoeloebalang", "hulubalang", "Oeleobalang", "territorial chief", "oelèëbalangschap", "oelèëbalangtjoet", "territorial chief of Atjeh", "oelèëbalangs"]
+tags: [concept, acehnese, administrative, traditional-institution, sultanate, aceh, 19th-century, 20th-century, oeleebalang, keudjroen-loeeng, atjeh, zelfbestuur, colonial, traditional-office, achehnese, adat, institution, governance, nobility]
 ---
 
 **The Oeleebalang** — also written *Uleëbalang*, *Uleebalang* — was the Atjèhse territorial chief or district head, the principal Atjèhse administrative institution of the [[Sultanate of Aceh|Sultanate of Atjèh] and of the post-Dutch-conquest Atjèhse administration. The *oeleebalang* was the chief of a *mukim* (the Atjèhse territorial unit) or of a group of *mukim*s, and exercised in his territory the principal administrative, judicial, and fiscal functions. The institution was, with the Sultan and the religious leaders (*teungku*s), one of the three principal Atjèhse political institutions, and its relative power — vis-à-vis the Sultan — was, in the Snouck Hurgronje diagnosis, one of the principal causes of the decline of the Sultanate.
@@ -68,6 +68,44 @@ The *oeleebalang*'s power to issue *verordeningen* was conferred by the *Zelfbes
 
 The *oeleebalang*'s significance in the [[Aceh Wiki History]] record, in the Van Heutsz / Zelfbestuursverordeningen perspective, rests on four things: it was the territorial chief of a *negeri* / *landschap* — the political unit the colonial state recognised as the basic unit of native government — whose authority rested, in the precolonial constitutional order, on a combination of hereditary right, customary law, and the allegiance of the *anak negeri*; it was the office whose precolonial origins Van Heutsz traces to the [[Aceh Sultanate|Acehnese sultanate]] itself — the territorial chief through whom the sultan's authority was mediated into the *mukims* and *negeris* of the realm; it was the office through whom the Dutch colonial state governed Atjeh by indirect rule after the pacification — the *Zelfbestuurder* bound to the colonial state by the *Korte Verklaring*, exercising his authority under the supervisory powers the *Korte Verklaring* conferred; and it was the office whose collective-*vaststelling* practice — under which all *oeleebalang* of an *onderafdeeling* issued their regulations jointly, and whose *verordeningen* were extended to all other *onderafdeelingen* through comparative tables of *Gelijke Verordeningen* — preserved, throughout the [[1910s]] and [[1920s]], the operational expression of the *Zelfbestuur*'s collective authority. The *oeleebalang* is, in this sense, the central political figure of the 1930 *Zelfbestuursverordeningen* compilation — the office-holder whose name appears on every regulation, whose authority the *Korte Verklaring* bound to the colonial state, and whose *verordeningen* the *goedkeuring* of the *Civiel en Militair Gouverneur* brought into force.
 
+## The office and its revenues
+
+The *oelèëbalangs* drew customary incomes from their territories and were, before the reforms, the providers of the *[[pangkal]]* — the advances to pepper planters. When in [[1908]] the administration began to give pepper advances directly to the planters, the *[[Koloniaal Verslag]]* noted: "the chiefs will give no co-operation, because they see their private interests harmed by those advances; they were formerly the providers of advances." — "One feels it: that the chiefs would not let be taken from them."
+
+## Under Van Daalen
+
+Under [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] the chiefs' incomes were cut for years by withholdings, and the *[[Boetenstelsel|boete-systeem]]* — the system of fines — with the unsparing collection of those fines by force "hadden produced nothing but hatred, contempt and resistance." [[Christiaan Snouck Hurgronje|Snouck Hurgronje]] had warned in [[1903]] that Van Daalen had "a deeply rooted contempt for everything that is native," expressed among other things in "the ridiculous demands of marks of respect that he made upon chiefs as well as upon inferiors. Of intercourse with chiefs there was no question: after making the knee-kiss they had to listen to orders or answer questions standing."
+
+## Swart's policy
+
+At [[Lho' Seumawè]] in [[1908]] Swart told the assembled *oelèëbalangs* of the eastern part of the province that what in his opinion had been wrongly withheld would be returned at once and without more ado; what had rightly been imposed he regarded as a security for good conduct, returnable after a year or more of good behaviour, and otherwise irrevocably forfeit. It was at that meeting that one of the chiefs answered: "not only are there evildoers everywhere, but we ourselves are evildoers too!"
+
+Swart's principle was double: "whoever wishes to govern well must see to it that the chiefs place complete confidence in the administrator, but that at the same time they hold him in awe. They must know that they cannot play with him and can never break their word to him — and therefore never dare to. But that administrator must also give them what they need, and above all support."
+
+He also required outward propriety: at a halt in [[Pidië]] he refused to receive an *oelèëbalang* who was not properly dressed and who showed a deficiency of *[[hormat]]*, sending him away with "on the return journey, when I come by again, you may pay your respects" — to the astonishment of [[Liefrinck]], who had not even noticed. Relatively few chiefs had to be removed from their functions; against many Swart had to intervene, but he gave them a probationary period.
+
+The *oelèëbalangs* were supported and gradually returned to their *[[gampong]]s*; the withheld incomes and the securities wrongly deposited in the *[[wegenfonds]]* were repaid; rice, seed-*padi* and advances for the purchase of plough cattle were supplied.
+
+## In administration and justice
+
+Justice in Atjeh was administered by the chiefs under the direction of the civil officials and *gezaghebbers* in the *[[Moesapat]]*, with a Muhammadan adviser. Snouck Hurgronje criticised the practice by which sentences were often composed entirely by the civil administrator and "not seldom sealed or signed by the chiefs entirely against their own view."
+
+After [[1910]] the police functions passed more and more to the chiefs. Women and children of *uitgewekenen* found by patrols were to be handed over to the administrative official or to the *oelèëbalang*; the chiefs were always to be treated "met onderscheiding."
+
+## In education
+
+[[J. Jongejans|Jongejans]] noted that little could be achieved for boys' education without the vigorous support of the *oelèëbalang*, and still more so for girls' education: "many schools, particularly in the countryside, stand or fall with the support of the territorial chief, without whose encouragement or evident appreciation the majority of parents would not think of giving their children any education other than the old tried religious instruction."
+
+## The new generation
+
+In December [[1916]] the [[Sarekat Atjeh]] was founded at [[Koeta Radja]] by progressive young *oelèëbalangs* and Acehnese officials who wished to modify outdated *[[adat]]* usages and promote the raising of the Acehnese woman and both secular and religious education; the young *oelèëbalang* of [[Peureula']] was elected chairman and the very conservative *oelèëbalang* of [[Keumangan]] honorary chairman.
+
+Swart said in [[1914]] that he expected much of the younger chiefs, then trained at [[Bandoeng]] or [[Fort de Kock]], since "the old territorial chiefs, who had lived through the long struggle, gradually disappeared."
+
+## Significance (du Croo, 1943)
+
+The *oelèëbalang* was the institution on which the whole of Swart's pacification turned. Du Croo's judgement was that "because Swart was able in so complete a manner to win the confidence both of the *adat* chiefs and of the simple *gampong* man, the Acehnese also attached himself personally to Swart," and through that the chiefs and the population were brought to trust the Dutch administration.
+
 ## See Also
 
 - [[Sultanate of Aceh]]
@@ -128,11 +166,19 @@ The *oeleebalang*'s significance in the [[Aceh Wiki History]] record, in the Van
 - [[1926]]
 - [[1928]]
 - [[1930]]
+- [[H. N. A. Swart]]
+- [[Gotfried Coenraad Ernst van Daalen]]
+- [[Moesapat]]
+- [[Sarekat Atjeh]]
+- [[Landschap]]
+- [[Boetenstelsel]]
 
-## Sources
+## Source
 
 *De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 8, 14.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 14, 17, 21–23, 25, 37, 47–49, 86–88, 99–100. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
 *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*. Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesen van het Departement van Binnenlandsch Bestuur*. Weltevreden: Landsdrukkerij, [[1930]], regulations passim (Regs. Nos. 1, 2, 5, 9a, 9b, 11, 14, 19, and *Voorwoord* on the collective-*vaststelling* practice). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV, p. 23; Chapter VIII, pp. 81–82; Chapter IX, pp. 90–92; Chapter XI, p. 103; Chapter XIII, pp. 132–135.

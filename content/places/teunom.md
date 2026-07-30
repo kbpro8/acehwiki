@@ -1,11 +1,10 @@
 ---
-title: Teunom
-aliases: ["Teunôm", "Tëunom", "Kr. Teunom", "Krueng Teunom (West Atjeh)", "NW Krueng Teunom"]
-tags: ["place", "north-east-coast", "west-coast", "uleebalangship", "imeum", "punishment", "river", "atjeh", "westkust", "coal"]
+title: "Teunom"
+aliases: ["Kr. Teunom", "Krueng Teunom (West Atjeh)", "NW Krueng Teunom"]
+tags: [place, north-east-coast, west-coast, uleebalangship, imeum, punishment, river, atjeh, westkust, coal, landschap, aceh, resistance]
 ---
 
 ## Expanded account from *The Achehnese*, Vol. I — Teunom
-
 
 **Teunom** is a place on the West Coast of Acheh mentioned in *The Achehnese* Vol. I both for its chief's arbitrary punishments and for its energetic imeum, who is contrasted with the adventurer [[Teuku Uma]] as an example of how an entrenched adat-chief could hold his own against a powerful upstart.
 
@@ -21,7 +20,6 @@ The other appearance of Teunom in Vol. I is in Snouck's discussion of the rise o
 
 Though Teunom appears only briefly in Vol. I, its double association — with the cruel ingenuity of West-Coast adat-justice and with the strong hereditary chieftainship that kept even Teuku Uma at bay — gives it an illustrative importance in Snouck's analysis of the political fragmentation of the West Coast. The place is treated more fully in Vol. II of *The Achehnese*.
 
-
 ## Account from *The Geology of Indonesia* ([[1949]]) — Krueng Teunom
 
 ### The 1922 Zwierzycki observation
@@ -32,7 +30,9 @@ Zwierzycki's [[1922]] entry for the NW Krueng Teunom locality, as reproduced by 
 
 For the wider context of the West-Atjeh coal localities, see the entries on [[Krueng Kluet]] and [[Krueng Raja]]. The NW Krueng Teunom locality is one of the three West-Atjeh Paleogene-coal localities in Zwierzycki's consolidated inventory, alongside the Krueng Kluet (No. 13) and South of Tapatuan (No. 14). The Paleogene localities are exposed along the inland margin of the West-Atjeh coastal plain, where the rivers of the West-Atjeh coast emerge from the central mountains and flow across the older Tertiary rocks before reaching the recent alluvium of the coast.
 
+## Account in du Croo’s Generaal Swart (1943)
 
+Schmidt's clearing of Teunòm was one of the conditions that reduced the disturbed area of the [[Meulaboh]] country in [[1909]] to [[Beneden Wòjla]], [[Boebon]] and [[Seunagan]]. In later years he executed there the commission to bring in a band more than three hundred strong under T. Bén Boebon and his nephew [[T. di Rangkoh]], with which infantry patrols could obtain almost no contact; knowing the district and its people through and through, he brought about a peaceful submission "without shooting and without laying low." The people came in in rags, having lived since the raid on their *ladang* on *katèla* and palm hearts, and fell hungrily on the rice and fish the *[[Corps of Military Constabulary of Atjeh and Dependencies|marechaussée]]* provided. [[H. N. A. Swart]] noted on the journal: "You have achieved a fine result, the more so since no use was made of weapons." [[Joannes Benedictus van Heutsz|Van Heutsz]] had once written on a journal of Swart's: "now it is time for Captain Swart to go to Teunom."
 
 ## See Also
 
@@ -52,12 +52,15 @@ For the wider context of the West-Atjeh coal localities, see the entries on [[Kr
 - [[Van Bemmelen's The Geology of Indonesia (1949)]]
 - [[1885]]
 - [[1922]]
-
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
-
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 49 (Table 13, coal localities of Sumatra, No. 15).
 
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XV.

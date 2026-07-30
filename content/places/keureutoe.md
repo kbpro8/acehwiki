@@ -1,7 +1,7 @@
 ---
 title: "Keureutoe"
-aliases: ["Keureutoe", "Kerti", "Kerti (north coast statelet)", "Kirti"]
-tags: [place, north-east-coast, aceh, noordkust, landschap, 1893, piracy]
+aliases: ["Kerti", "Kerti (north coast statelet)", "Kirti", "Keureutdë", "Keuretoe", "landschap Keureutòë"]
+tags: [place, north-east-coast, aceh, noordkust, landschap, 1893, piracy, resistance, aceh-war, 20th-century]
 ---
 
 A kingdom on the North or East Coast of [[Acheh]]. In the Hikayat Eseukanda Ali (XVI), the merchant prince Ali Juhari is established as a sugarcane planter in Keureutoe (Kerti): 'With this in view they purchased land from Ahli, king of Keureutoe and built a sumptuous residence which was called [[Indra Siluka]].' The princess Ra'na Jamin is the daughter of the sovereign of Keureutoe. The Achehnese regard this as a fragment of history of 'Timu' (the East, the North and East Coasts). The giant Mala'oy Rimba also 'had just returned to his forest haunt from Keureutoe, bringing with him the dead body of a girl.'
@@ -28,6 +28,28 @@ The son of T. Tjhi Toenong and Tjoet Meuthia — [[T. Radja Sabi]], the *adelaar
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
 
+## The succession dispute
+
+Administrative errors committed in [[1899]] excluded [[T. Tjhi' Toenòng|Teukoe Tjoet Moehamat]], son of the *[[oelèëbalang]]* and rightful heir to the succession, from the *oelèëbalangschap*; his half-brother [[T. Tjhi' Béntara]] became *oelèëbalang* instead. Tjoet Moehamat became a resistance leader and was recognised by the sultan as the genuine *oelèëbalang* of Keureutòë, with an appointment sealed with the [[Seal of the Nine Circles|seal of the nine circles]]; he took the title **T. Tjhi' Toenòng**, "of the upper districts," while the "false" chief below became "van geen beteekenis meer" for the population.
+
+After T. Tjhi' Toenòng's execution under [[Gotfried Coenraad Ernst van Daalen|Van Daalen]], his widow Tjoet Meutia married the resistance leader [[Pang Nanggròë]], who formed a band around her and around her son [[T. Radja Sabi]] and who, in November [[1907]], proclaimed the six-year-old boy *oelèëbalang* of Keureutòë. The half-brother had temporarily to step down in view of popular indignation. Only in [[1937]], after the son of T. Tjhi' Béntara had proved a failure and been suspended in [[1936]], did T. Radja Sabi at last become *oelèëbalang* of Keureutòë.
+
+## Condition in 1908
+
+"I found hopeless conditions in Keureutòë, formerly a rich and prosperous land," said one of Swart's collaborators who administered the district for years. The chiefs had been cut in their incomes by withholdings for years; spies were not everywhere well led and controlled, deceived those who sent them out, stirred up trouble between others, vexed the population, and had cattle and possessions taken from the innocent if their demands were not met; "the livestock herd was thereby virtually wiped out. The population no longer cared about anything; it grew indifferent and went over to the resistance."
+
+## The course of the resistance
+
+On the upper [[Djambo Ajé]] Pang Nanggròë set the whole of Keureutòë in movement and worked with [[Tgk. Sjeh di Paja Bakong]], [[Tgk. di Mata Ië]] and [[Tgk. di Barat]]. In [[1908]] the co-operation of the population caused two of Tgk. di Barat's best commanders and Tgk. di Paja Bakong's best *pang* to fall, so that both principal leaders withdrew to the [[Gajòlanden]]. In [[1909]] 269 opponents still fell, including seventeen band-heads and seven Teungkoes; eleven were taken prisoner, among them the learned and fanatical [[Tgk. di Reubèë]]; seventy-two submitted.
+
+The year [[1910]] brought the decisive turn: [[Pang Nanggròë]] fell in the [[Paja Tjitjém]] on [[26 September]], and [[Tgk. Sjeh di Paja Bakong]], his son [[Tgk. Mat Saleh]] and [[Tjoet Meutia]] on [[25 October]] at the [[Kroeëng Peutòë]]; [[Pang Aron]] reported himself with eight followers. Seventy-one resistance men were killed, fifty-one taken prisoner and eighty submitted.
+
+[[1911]] brought "the great improvement," the monthly reports habitually opening "the political situation remained favourable," though [[Tgk. di Barat]] returned from the Gajòland to the upper Keureutòë in June and a night attack on the patrol of captain [[Van der Vlerk]] on the [[Keureutòë-rivier]] on [[23 March|23]]–[[24 March]] was traced to his old adherents. With his death at [[H. Behrens|Behrens]]'s hands on [[22 February]] [[1912]] "the situation in the whole North Coast division became stable and ranged from favourable to very favourable; the suffering there was over."
+
+## Significance
+
+Keureutòë is the district in which du Croo's book most fully documents both the human cost of Dutch administrative error — the exclusion of a rightful heir producing thirty-eight years of resistance in one family — and the constructive method by which [[H. N. A. Swart]] reversed it: repayment of withheld incomes, advances for the purchase of cattle, and the return of the *oelèëbalangs* to their *gampongs*.
+
 ## See Also
 
 - [[Acheh]]
@@ -38,11 +60,24 @@ The son of T. Tjhi Toenong and Tjoet Meuthia — [[T. Radja Sabi]], the *adelaar
 - [[Pedir]]
 - [[20 July]]
 - [[1893]]
+- [[T. Tjhi' Toenòng]]
+- [[Tjoet Meutia]]
+- [[Pang Nanggròë]]
+- [[T. Radja Sabi]]
+- [[T. Tjhi' Béntara]]
+- [[Tgk. Sjeh di Paja Bakong]]
+- [[Tgk. di Barat]]
+- [[Pasè]]
+- [[Lho' Soekon]]
+- [[The resistance in Atjeh 1908–1912]]
+- [[Noordkust van Atjeh]]
 
-## Sources
+## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
 
 *Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, pp. 94–95; Chapter XI, pp. 103–106.

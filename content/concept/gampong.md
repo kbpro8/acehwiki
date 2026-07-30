@@ -1,7 +1,7 @@
 ---
-title: Gampong
-aliases: [Kampong, Gampöng, Acehnese Village, gampong, kampong, gampông, Atjehsche gampong]
-tags: [concept, government, social-structure, achehnese, adat, administration]
+title: "Gampong"
+aliases: ["Kampong", "Acehnese Village", "Atjehsche gampong"]
+tags: [concept, government, social-structure, achehnese, adat, administration, settlement]
 description: "The Acehnese village — the fundamental social and political unit of Acehnese society, led by a keuchi' and teungku meunasah, containing a meunasah (chapel) as its communal heart."
 ---
 
@@ -43,7 +43,6 @@ The gampong was governed by three elements: the [[Keutjhï|Keutjhï]] with one o
 
 Although the Keutjhï lacked any formal judicial authority — "geenerlei rechtsmacht," notes the source, for all serious cases had to be sent up to the [[Oelèëbalang|oelèëbalang]] — his role as intermediary, mediator, and representative of his community's interests was indispensable. The handbook concludes that the gampong and its administration "den hoeksteen vormen van het Inlandsch Bestuur in Atjeh" and "moet blijven vormen" — must continue to form — the cornerstone of native government in Atjeh.
 
-
 ## Account from *Atjèh* by J. Kreemer (Deel II)
 
 [[J. Kreemer|Kreemer]] provides the following account of the *gampöng* as the smallest political unit in [[Groot Atjèh|Groot Atjèh]].
@@ -67,6 +66,10 @@ Within the gampöng, members of one *[[kawöm|kawöm]]* (clan) living together c
 [[B. ter Haar BzN|B. ter Haar BzN]], in his *[[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)|Beginselen en Stelsel van het Adatrecht]]* (first ed. [[1939]]; 4th ed. [[1950]]), cites the *atjehse gampong (meunasah)* as a typical example of a territorial community — a community in which the genealogical factor, "de genealogische faktor, de verbondenheid der personen krachtens gemeenschappelijke afstamming" (the genealogical factor, the connectedness of persons by virtue of common descent), has no significance. Such communities are, Ter Haar writes, "talrijk" (numerous) in the archipelago: "de javaanse, soendase, madoerese en balise désa, de atjehse gampong (meunasah), de dorpen in het maleise gebied en op Bangka en Belitoeng, een deel der streekgemeenschappen van Zuid-Sumatra, de dorps- en steekgemenschappen van Zuid-Celebes, de negorijen van de Minahasa en die van Ambon." The gampong is thus placed by Ter Haar within the typology of Indonesian village communities as a territorial — not a genealogical — community, on a par with the *désa* of Java and the *negorij* of Ambon.
 
 The placement is significant for the legal characterisation of the gampong: as a territorial community, the gampong admits of the accession of newcomers by residence and acceptance, and the genealogical descent of its members is not a criterion of membership. "Is echter eenmaal iemand van elders in het adatverband opgenomen," Ter Haar writes of such communities generally, "dan heeft hij dien-ten-gevolge de volle lasten te dragen en heeft hij de volle rechten der genoten" — once someone from elsewhere is taken up into the adat-verband, he has, in consequence, the full burdens to bear and the full rights of the genoten (community-members). The territorial character of the gampong is thus, in Ter Haar's account, the legal foundation of its openness to the accession of newcomers — a feature that distinguishes it from the genealogical communities (such as the Gajo and the Batak clans) in which membership is determined by descent.
+
+## Account in du Croo’s Generaal Swart (1943)
+
+Under [[H. N. A. Swart]] the *[[oelèëbalang]]s* "were supported and gradually returned to their villages"; [[J. C. Lamster|Lamster]] described the endless work of administrators and patrols "to bring improvement in the condition of the neglected and unhygienic villages* ("villages")" and the replacement of muddy paths with gravelled paths planted with shade trees. Swart's own principle was blunt: "before all else it is necessary that the villages, houses and yards be kept properly clean and that practical hygiene be applied." Many of the incidents of the pacification turn on the *gampong*: the murder of [[T. Béntara Titeuë]]'s coconut dispute, the *maloe* of the young Acehnese "tegenover zijn *gampong* ("village")", the population of *gampong* [[Blang]] delivering up [[Tgk. di Atjèh Ma' Amin]] in December [[1909]].
 
 ## See Also
 
@@ -92,8 +95,12 @@ The placement is significant for the legal characterisation of the gampong: as a
 - [[Atjeh adatrecht (Ter Haar account)]]
 - [[1939]]
 - [[1950]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 2, 5, pp. 23–80.
 
@@ -102,3 +109,5 @@ The placement is significant for the legal characterisation of the gampong: as a
 *Beginselen en Stelsel van het Adatrecht*, door Mr. B. ter Haar Bzn. Vierde ongewijzigde druk. Groningen, Djakarta: J. B. Wolters, 1950. Pp. 17 (gampong as territorial community), 32 (accession of newcomers).
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI–XIII.

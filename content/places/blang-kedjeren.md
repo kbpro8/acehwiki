@@ -1,15 +1,16 @@
 ---
-title: Blang Kédjérèn
-aliases: [Blang Kédjèren, Blang Kedjeren, Blang Kejeren, De Blang, Blangkedjeren]
-tags: [place, gayo, highland, military-post, aceh]
+title: "Blang Kédjérèn"
+aliases: ["Blang Kejeren", "De Blang", "Blangkedjeren"]
+tags: [place, gayo, highland, military-post, aceh, administration, garrison]
 ---
+
 **Blang Kédjérèn** is the subdistrict headquarters-town and former subdistrict in the [[Gajó Loeós|Gajó Loeós]] highlands of Central Atjèh. It was both a remote military post of the [[Korps Marechaussee van Atjeh en Onderhorigen]] — one of the most *afgelegen* (remote) posts of the colonial army, "enige dagen lopens het binnenland in" (some days' walk into the interior) — and the seat of the last Dutch defensive position in northern Sumatra, which capitulated to the Japanese on [[28 March]] [[1942]].
 
 ## The Marechaussee post and the 1e Divisie
 
-**Blang Kedjeren** was the seat of the [[1e Divisie Marechaussee uit Blang Kedjeren]] — a major formation of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]] in the highlands of central Aceh. Its remoteness defined its character. "De Blang had zijn snelste verbinding over [[Medan]]; dan hoefde men maar drie dagen te lopen en kon verder per auto: een paar honderd kilometer door de [[Alasvlakte]], de [[Karolanden]], over [[Koeta-Tjané]], [[Kaban-Djahé]] en [[Brastagi]] naar [[Medan]], vanwaar men met de trein in twee dagen in [[Koeta-Radja]] was." The route — three days' walk plus two days by car plus two days by train — is G. W. T. Dames's marker of how *afgelegen* the Blang was.
+**Blang Kedjeren** was the seat of the [[1e Divisie Marechaussee uit Blang Kedjeren]] — a major formation of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]] in the highlands of central Aceh. Its remoteness defined its character. "The Blang had its quickest connection by way of Medan; one then had to walk only three days and could go on by car: a few hundred kilometres across the Alas plain, the Karo lands, by way of Koeta-Tjané, Kaban-Djahé and Brastagi to Medan, from where one could reach Koeta-Radja by train in two days." The route — three days' walk plus two days by car plus two days by train — is G. W. T. Dames's marker of how *afgelegen* the Blang was.
 
-"Ook die tot enige dagen lopens het binnenland inlagen, zoals Blang Kedjerèn en [[Lokop]]." Blang Kedjeren was one of the deeply inland posts that [[Dominee Thenu]] continued to visit several times a year, even after his diabetes made expedition work too hard. The *Soldaten-Dominee*'s visits to the Blang were the mark of his *gezag*: the dominee who would not be deterred by illness from visiting the most *afgelegen* posts of the corps.
+"Also those lying several days' walk inland, such as Blang Kedjerèn and Lokop." Blang Kedjeren was one of the deeply inland posts that [[Dominee Thenu]] continued to visit several times a year, even after his diabetes made expedition work too hard. The *Soldaten-Dominee*'s visits to the Blang were the mark of his *gezag*: the dominee who would not be deterred by illness from visiting the most *afgelegen* posts of the corps.
 
 ## The Hotel de Boer anecdote (c. 1933)
 
@@ -33,6 +34,18 @@ When the Japanese broke through from the valley of the Lawé Rénoen on [[25 Mar
 
 Blang Kédjérèn stands at the intersection of two chapters in Acehnese colonial history. As a Marechaussee post in the late colonial era, it exemplified the *afgelegen* culture of the colonial army — the *plichtsbesef*, the *dardanellen*, the visits of the *Soldaten-Dominee* — that G. W. T. Dames memorialised in *Oom Ambon van het K.N.I.L.* As the final defensive position of the Dutch in northern Sumatra in [[1942]], it was the place where that colonial order reached its military end.
 
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] visited the Blang personally and gives the fullest evocative description. Three march-days from Lawé Aoenan (Goenoeng Setan) at the end of the motor-road, through marschbivaks Meloewak and Koenké, across the watershed at the *Pintoe Rimba* — the Gate of the Wilderness — and then: *als een Juweel, gevat in eene zetting van forsche allure* — a jewel set in a frame of mountains.
+
+[[G.C.E. van Daalen|Van Daalen]]'s [[Gajoetocht (1904)|Gajoetocht]] of [[18 March]]–[[3 June]] [[1904]] took the benteng Koeto Reh, where 561 Gajoes lay dead, and is commemorated by a stone at Blang Kedjeren: *Ter herinnering aan onze gevallen helden tijdens den tocht van overste Van Daalen in de Gajoe-Loeës, van 18 Maart 1904 tot 3 Juni 1904.* The Gajoes date their modern era from this event. The *Duivel op de Blang* crisis of [[1909]]–[[1910]] arose from the replacement of the infantry garrison by a full maréchaussée division: the women were left at Seulimeum while about 300 men and 400 *beren* marched to the Blang, producing *bloody misdrijven van militairen tegen militairen*: *Amb. maréchaussée N. doodde met den klewang de vrouw van een ander en schoot daarop door het bivak, waardoor de Eur. sergt. Selbach sneuvelde, en pleegde hierna zelfmoord.* Eventually the women were brought from [[Koeala Simpang]] by *prauw* to Kaloeë and on foot over the *Boer ni Gadjah* (Elephant Mountain). On [[7 December]] [[1926]] a Gajoe murdered the sergeants Van Gent and De Gruiter before the tangsi; the sergeant Van den Broek struck off the murderer's head with one blow.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+## Account in du Croo’s Generaal Swart (1943)
+
+In September [[1909]], the situation being at its most unfavourable, the infantry garrison of Blang Kedjerèn was replaced by *[[Corps of Military Constabulary of Atjeh and Dependencies|marechaussée]]* — the 1st Division under captain [[W. Muurling]] — while a mobile column of three brigades under [[Kaniess]] was sent to the western part of the sub-division. At the end of November [[H. N. A. Swart]] visited the district and could already visit *[[gampong]]s* two hours from Blang Kedjerèn without military escort. Jhr. [[J. J. Boreel]] served as Civil Authority at Blang Kedjeren, as did captain [[W. Muurling]].
+
 ## See Also
 
 - [[1e Divisie Marechaussee uit Blang Kedjeren]]
@@ -52,17 +65,15 @@ Blang Kédjérèn stands at the intersection of two chapters in Acehnese colonia
 - [[1933]]
 - [[1939]]
 - [[1942]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
-## Sources
+## Source
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 1, Chapter II, Chapter IV, Chapter V § 3.
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapter "Dominee Thenu."
 
-## Account from *Atjeh* by H.C. Zentgraff (1938)
-
-[[H.C. Zentgraff|Zentgraff]] visited the Blang personally and gives the fullest evocative description. Three march-days from Lawé Aoenan (Goenoeng Setan) at the end of the motor-road, through marschbivaks Meloewak and Koenké, across the watershed at the *Pintoe Rimba* — the Gate of the Wilderness — and then: *als een Juweel, gevat in eene zetting van forsche allure* — a jewel set in a frame of mountains.
-
-[[G.C.E. van Daalen|Van Daalen]]'s [[Gajoetocht (1904)|Gajoetocht]] of [[18 March]]–[[3 June]] [[1904]] took the benteng Koeto Reh, where 561 Gajoes lay dead, and is commemorated by a stone at Blang Kedjeren: *Ter herinnering aan onze gevallen helden tijdens den tocht van overste Van Daalen in de Gajoe-Loeës, van 18 Maart 1904 tot 3 Juni 1904.* The Gajoes date their modern era from this event. The *Duivel op de Blang* crisis of [[1909]]–[[1910]] arose from the replacement of the infantry garrison by a full maréchaussée division: the women were left at Seulimeum while about 300 men and 400 *beren* marched to the Blang, producing *bloody misdrijven van militairen tegen militairen*: *Amb. maréchaussée N. doodde met den klewang de vrouw van een ander en schoot daarop door het bivak, waardoor de Eur. sergt. Selbach sneuvelde, en pleegde hierna zelfmoord.* Eventually the women were brought from [[Koeala Simpang]] by *prauw* to Kaloeë and on foot over the *Boer ni Gadjah* (Elephant Mountain). On [[7 December]] [[1926]] a Gajoe murdered the sergeants Van Gent and De Gruiter before the tangsi; the sergeant Van den Broek struck off the murderer's head with one blow.
-
-*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI.

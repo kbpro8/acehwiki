@@ -1,7 +1,7 @@
 ---
-title: Pidie
-aliases: ["Pidië", "Pidié", "Pidie", "Pedir (region of Atjeh)", "the Pidië landschap"]
-tags: [place, north-east-coast, region, coast-state, east-coast, dependency, achehnese, noordkust, onderafdeeling, pidie, noordkust-van-atjeh, atjeh, strategic, administrative-division, acheh, colonial]
+title: "Pidie"
+aliases: ["Pedir (region of Atjeh)", "the Pidië landschap", "Pedir", "Pedië", "het Pedirsche", "Pedireezen"]
+tags: [place, north-east-coast, region, coast-state, east-coast, dependency, achehnese, noordkust, onderafdeeling, pidie, noordkust-van-atjeh, atjeh, strategic, administrative-division, acheh, colonial, landschap, afdeeling, aceh, resistance, aceh-war, 19th-century, 20th-century]
 ---
 
 The major North Coast territory and kingdom. 'The Achehnese give the name of Pidie to the whole of the territory which formerly belonged to the kingdom of that name, i.e. almost the whole of the North Coast with its hinterland.' Pidie is historically known as a seat of religious learning: 'Thus most of the learned in Great [[Acheh]] have spent the greater part of their student life in Pidie, while vice versa the studiously inclined in Pidie and on the East Coast amass their capital of knowledge in Great [[Acheh]].' The centres of learning in Pidie before the Dutch included [[Langga and Langgo]], [[Langga and Langgo]], [[Sriweue]], [[Simpang]], and [[Ie Leubeue]] (= Ayer Labu). [[Tiro]] in Pidie was 'sanctified by the presence of so many living ulamas and the holy tombs of their predecessors.' Heretical mysticism (eleumee sale) also flourished in Pidie. In the [[Hikajat Malém Dagang|Hikayat Malem Dagang]], 'The first place touched at is Pidie (vulg. Pedir), the panglima of which is handed down to fame as the bravest and most distinguished of generals.' The [[Hikayat Pochut Muhamat]] describes [[Pochut Muhamat]]'s tour through Pidie gathering allies: he visited [[Padang Tiji|Padang Teuji]], [[Reubee]], and eventually won over [[Pangulee Beunaroe]], the powerful uleebalang of the IX Mukims. The sadati kisah describes Pidie as forming a square with four uleebalangs holding power: 'The X Mukims are subject to Bentara Keumangan; Teungku Sama Indra rules the VIII Mukims; The La'seumana is a fatherless child; he rules the XXII Mukims; The V Mukims are under the control of Teungku Ujong
@@ -65,11 +65,9 @@ The continued presence of a Majoor as *Civiel Gezaghebber* in Pidië as late as 
 
 In the proposed administrative reorganization of the [[Bestuursreorganisatie Sumatra (1913-1914)]], the *onderafdeeling* Pidië continued as a subdivision within the merged "Noord- en Oostkust van Atjeh behalve Tamiang" *afdeeling*, which combined the former [[Noordkust van Atjeh]] and [[Oostkust van Atjeh]] into a single administrative unit with a population of approximately 480,000. The preservation of Pidië as a distinct *onderafdeeling* within this larger entity recognized the region's unique historical identity and its continuing administrative and strategic importance. The reorganization did not propose to alter the fundamental internal structure of Pidië's governance, suggesting that the colonial authorities regarded the existing arrangement—including the appointment of military officers as *Civiel Gezaghebbers*—as appropriate to local conditions and likely to persist under the new administrative framework.
 
-
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
 
 The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
-
 
 **Pidië** — also *Pidié*, *Pidie* — is, in the source's narrative, the [[Acheh|Atjehnese]] *landschap* (territory) named alongside the [[Gajoland|Gaju-]] and [[Alasland|Alaslanden]] as one of the *onderhorigheden* (dependencies) of [[Groot-Atjeh|Groot-Atjeh]]. The *onderhorigheden* are distinguished in the source from [[Groot-Atjeh|Groot-Atjeh]] proper, which contained the three *sagi*'s of the sultanate's core.
 
@@ -108,6 +106,60 @@ The operational supplement to Reg. 4a — Reg. No. 4b, the *Zelfbestuursbesluit 
 ### Significance (Zelfbestuursverordeningen account)
 
 Pidie's significance in the 1930 compilation rests on its being the most-*landschap*-fragmented *afdeeling* of the Gouvernement — twenty-four *zelfbesturende landschappen* under Reg. No. 4a (1925) and twenty-six under Reg. No. 23 (1928), the longest signatory-clauses in the compilation — and therefore the natural laboratory for the *afdeeling*-level *Pantjang Alas* revision of [[27 July]] [[1925]] that operationalised a uniform fiscal template across an entire *afdeeling* for the first time. The 1925 Pidië revision replaced the earlier 1912 *landschap*-level *Pantjang Alas* regime (originating in [[Meulaboh]], Reg. No. 2) with the *afdeeling*-level regime that the Gouvernement would extend across all the highland and island *onderafdeelingen* by 1926. Pidie is, in this sense, the empirical demonstration of the *afdeeling*-level *Pantjang Alas* regime and the *reboisatie*-motive's first appearance in the Atjeh regulatory record.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] treats Pidië as the *heartland* of the Tiro-oelama's and of the most stubborn resistance. *Op de Westkust kon je weleens gevangenen maken, maar dit kwam in Pidië practisch niet voor; ieder ervaren soldaat wist dat de menschen in Pidië zich liever doodvochten dan gevangen te geven.*
+
+In [[1898]] [[Joannes Benedictus van Heutsz|Van Heutsz]] made the *tocht naar Pidië en daarna naar Tangsé*, and in [[1901]] on his verjaardag ([[25 October]]) took the famous [[Bateë Iliq (1901)|Bateë Iliq]] at Meureudoe and Samalanga — *een 25 October zooals Van Heutsz die nooit zal vergeten*. In June [[1904]] kapitein Stoop discovered the *schuilplaats* of [[Tengkoe Tjot Plieëng]] — *de heiligste en hoogste onder de strijdbare geestelijke hoofden* — *tusschen twee uitloopers van de Gle Keulabéë Asap*; the Tengkoe escaped but left his Koran and his *zegelamulet* (an heirloom of [[Tengkoe Sjech Saman di Tiro]]). *Dat Tengkoe Tjot Plieëng die amulet verloor was, ondanks zijn rantej boei, als het schrift aan den wand.*
+
+During a patrol in Pidië, [[Potjoet Meurah]] was arrested on suspicion of hiding a klewang; she drew her *rentjong* and *stormde op de brigade in* with *"Dan ben ik liever dood."* Days later [[Veltman]] found her at the *keudé Biheuë* hidden behind cloths with *papje van koelendrek* on her wounds; he washed the *maden* from the wounds and she recovered, though lame for life. Kolonel Scheurer *nam de houding aan* and saluted her.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+*Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesten van het Departement van Binnenlandsch Bestuur*, Weltevreden: Landsdrukkerij, 1930, esp. Regs. 4a, 4b, and 23 (pp. 13, 18, and 121). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
+
+## The hearth of resistance, 1898
+
+In his column area, the *[[sagi]]* of the [[XXII Moekims]], [[Joannes Benedictus van Heutsz|van Heutsz]] attacked the positions of [[Panglima Pòlém]] and drove him to Pidië; the column at [[Lho' Nga]] drove [[Teukoe Oemar]] from [[Leupoeëng]], but his bands returned repeatedly, so that only in [[1898]] did T. Oemar likewise withdraw to Pidië and join Panglima Pòlém and the pretender-sultan [[Toeankoe Mochamad Dawot]]. "Pidië became from that moment the hearth of the resistance."
+
+Van Heutsz entered "the Pidië hotbed" on [[1 June]] [[1898]] with four battalions; [[Van Heutsz's Pidië campaign (1898)|in four months Pidië was subjected]].
+
+## Swart's service in Pidië
+
+[[H. N. A. Swart]] served in Pidië as captain from [[22 November]] [[1898]], first with the 7th Battalion at [[Sigli]] and its detached Sundanese company, with which he marched out often in the [[Padang Tidji]] district; then, from [[30 May]] [[1899]], with the 12th Battalion. In the operations of [[1899]] he was wounded by a grazing shot above the right temple at the storming of the *kampong* [[Bambi]] on [[8 May]].
+
+## The resistance of 1908–1912
+
+In this district, "the cradle of the irreconcilable religious leaders, the Tirò Teungkoes," the *[[oelama]]* party took heavy blows in [[1908]], the Tirò band having fled from [[Geumpang]] to Pidië at the end of [[1907]] before the patrols of [[H. J. Schmidt]]. Captain [[G. K. Dijkstra]] took over the administration from major [[Schröder]]. On [[8 February]] [[1908]] Schmidt surprised the band's hiding-place on the *kr.* [[Meu']], where five of the principal Teungkoes fell.
+
+In the night of [[8 December|8]]–[[9 December]] [[1908]] [[Tgk. Aron]] carried out at [[Keudé Garot]] "an almost perfect hussar's stroke," passing his band off as a patrol in captured uniforms, capturing eight rifles and wounding the [[Imeum]] of Garot.
+
+In [[1910]] [[J. J. Boreel|Boreel]] at [[Lam Meulò]] and Schmidt at [[Tangsé]] became the pace-setters; in May Schmidt killed [[Tgk. Tjhi' Majét]] and [[Tgk. di Boekét]], the leadership of the Tirò band passing to the sixteen-year-old [[Tgk. Ma'at]]. In August [[A. H. C. Roelofsen|Roelofsen]] at Geumpang laid low [[Keudjroeën Leupoe]]. In [[1910]] 186 resistance men fell in Pidië, twenty-eight were taken prisoner and 174 submitted.
+
+Among those killed were the *[[kramat]]*-venerated nestor of the religious resistance leaders, [[Habib Teupin Wan]] — so holy that the fingers of those who dared point at him would stiffen — three scholars of great name, and two well-known band-heads; and the notorious [[Tgk. Moehamat Haroen]] of Lam Meulò, laid low by captain [[F. P. A. van Gheel Gildemeester]] of the 4th Division.
+
+In July [[1911]] the *controleur* [[G. J. van Dongen]] took over the administration of the sub-division from the civil authority, the *marechaussée* captain [[W. A. Herold]]. In [[1912]] the garrison of Pidië could be reduced by two companies. In December [[1911]] Schmidt completed his commission with the death of Tgk. Ma'at.
+
+By [[1913]] only [[Pang Bintang]], [[T. Dagang]], a few survivors of the Tirò band under [[Tgk. Ma' Aréh di Lam Goet]] and the [[Tjoebo-bende]] remained; all were eliminated that year, and "Central Pidië was cleared."
+
+## The Scheepens murder
+
+On [[10 October]] [[1913]] the Civil Authority of Pidië, overste [[W. B. J. A. Scheepens]], was stabbed at Sigli during a sitting of the *[[Landschapsgerecht]]* by the *[[oelèëbalang]]* of the [[II Moekims Titeuë]], [[T. Béntara Titeuë]]; he died on [[17 October]]. Swart travelled to Sigli by special tram with the surgeon [[Dubinsky]], but surgical intervention could no longer help.
+
+## Agriculture and administration
+
+Swart considered the improvement of the *sawah* culture in Pidië especially important, since rice from the [[Noordkust van Atjeh|north coast]] had a good and easy outlet to [[Sumatra's Oostkust]], where there was always a shortage. He sought and found a collaborator to help him improve the existing water conduits, the *[[loeëng]]s*. An agricultural school was opened at [[Pedir]] on [[12 February]], of which the population did not yet fully grasp the significance but understood enough to see that an attempt was being made to raise agriculture.
+
+The separately administered territory of the [[VII Moekims Pidië]] was among the sub-divisions placed under civil administrators in [[1909]].
+
+## In 1914
+
+In the interview Swart gave to the *[[Sumatra Post]]* on [[6 March|6]] and [[7 March]] [[1914]] he reported that in "the Pedir country, once the focal point of resistance (180,000 inhabitants)" there were still ten ill-disposed men wandering about with two rifles — for whom, however, all twelve brigades of a division of *marechaussée* plus twelve brigades of infantry, some five hundred men in all, were searching, partly to reassure public opinion, "otherwise it would merely be said that Atjeh is being stripped of troops."
+
+## Significance (du Croo, 1943)
+
+Pidië was, after [[Groot Atjeh]], the most important theatre of the Atjeh war: the seat of the pretender-sultan and of the Tirò *oelama* line, the district in which van Heutsz's new method was first proved, and the district in which the last great religious resistance of the province was finally extinguished.
 
 ## See Also
 
@@ -162,8 +214,16 @@ Pidie's significance in the 1930 compilation rests on its being the most-*landsc
 - [[Pedir]]
 - [[Padri]]
 - [[Sagi (Atjehnese federation)]]
+- [[Tangsé]]
+- [[Tirò Teungkoes]]
+- [[Tgk. Ma'at]]
+- [[H. J. Schmidt]]
+- [[W. B. J. A. Scheepens]]
+- [[G. K. Dijkstra]]
+- [[Van Heutsz's Pidië campaign (1898)]]
+- [[The resistance in Atjeh 1908–1912]]
 
-## Sources
+## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 1, 9, pp. 1–2, 156.
@@ -173,14 +233,4 @@ Pidie's significance in the 1930 compilation rests on its being the most-*landsc
 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
 
-## Account from *Atjeh* by H.C. Zentgraff (1938)
-
-[[H.C. Zentgraff|Zentgraff]] treats Pidië as the *heartland* of the Tiro-oelama's and of the most stubborn resistance. *Op de Westkust kon je weleens gevangenen maken, maar dit kwam in Pidië practisch niet voor; ieder ervaren soldaat wist dat de menschen in Pidië zich liever doodvochten dan gevangen te geven.*
-
-In [[1898]] [[Joannes Benedictus van Heutsz|Van Heutsz]] made the *tocht naar Pidië en daarna naar Tangsé*, and in [[1901]] on his verjaardag ([[25 October]]) took the famous [[Bateë Iliq (1901)|Bateë Iliq]] at Meureudoe and Samalanga — *een 25 October zooals Van Heutsz die nooit zal vergeten*. In June [[1904]] kapitein Stoop discovered the *schuilplaats* of [[Tengkoe Tjot Plieëng]] — *de heiligste en hoogste onder de strijdbare geestelijke hoofden* — *tusschen twee uitloopers van de Gle Keulabéë Asap*; the Tengkoe escaped but left his Koran and his *zegelamulet* (an heirloom of [[Tengkoe Sjech Saman di Tiro]]). *Dat Tengkoe Tjot Plieëng die amulet verloor was, ondanks zijn rantej boei, als het schrift aan den wand.*
-
-During a patrol in Pidië, [[Potjoet Meurah]] was arrested on suspicion of hiding a klewang; she drew her *rentjong* and *stormde op de brigade in* with *"Dan ben ik liever dood."* Days later [[Veltman]] found her at the *keudé Biheuë* hidden behind cloths with *papje van koelendrek* on her wounds; he washed the *maden* from the wounds and she recovered, though lame for life. Kolonel Scheurer *nam de houding aan* and saluted her.
-
-*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
-
-*Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesten van het Departement van Binnenlandsch Bestuur*, Weltevreden: Landsdrukkerij, 1930, esp. Regs. 4a, 4b, and 23 (pp. 13, 18, and 121). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters III, IV, XI, XII, XIII, XVI, pp. 18–20, 106–109, 117–121, 132, 135, 150.

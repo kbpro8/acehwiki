@@ -1,7 +1,7 @@
 ---
 title: "Pompe van Meerdervoort"
-aliases: ["Pompe van Meerdervoort", "Kolonel Pompe van Meerdervoort", "Colonel Pompe", "Pompe", "Pompe van Meerdervoort (Atjeh governor)"]
-tags: [person, military, dutch, colonial, officer, governor, aceh-war, 19th-century, commander]
+aliases: ["Kolonel Pompe van Meerdervoort", "Colonel Pompe", "Pompe", "Pompe van Meerdervoort (Atjeh governor)"]
+tags: [person, military, dutch, colonial, officer, governor, aceh-war, 19th-century, commander, general, knil, aceh]
 ---
 
 **Pompe van Meerdervoort** — *Kolonel Pompe van Meerdervoort* — was a Dutch officer of the Royal Netherlands East Indies Army ([[K.N.I.L.|K.N.I.L.]]) who served as *Gouverneur van Atjeh en Onderhoorigheden* (Governor of Atjeh and Dependencies) from [[May 1891|May]] [[1891]] to [[January 1892|January]] [[1892]], and whose brief and contentious governorship — characterised by what [[J. A. Kruijt|Kruijt]] calls the *vriendelijke oorlog* (friendly war) — was marked by the breakdown of relations between the Dutch government and its own governor, by the arrival of [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]] in [[Groot-Atjeh|Groot-Atjeh]] to study the politico-religious situation, and by the governor's own insistence that there were in fact "geen vijand" (no enemy) in Atjeh but only "kwadwilligen" (malefactors), totalling at most 800 men.
@@ -37,6 +37,10 @@ Finally, after much dithering and correspondence, Pompe — weary of all the shu
 ## Significance
 
 Pompe's governorship is, in Kruijt's analysis, the most striking instance of the structural defect of the Dutch war effort — the absence of prior consultation between the government and its governor in Atjeh, and the consequent breakdown of cooperation between them. His *vriendelijke oorlog* — the policy of winning the Atjehers by gentleness rather than by force — was the antithesis of the policy of his predecessor [[General van Teijn|Van Teijn]] and of his successor [[Deijkerhoff|Deijkerhoff]], and was tried, found wanting, and abandoned within nine months. The arrival of [[C. Snouck Hurgronje|Snouck Hurgronje]] during his governorship, however, would prove the most consequential event of his tenure: Snouck Hurgronje's subsequent advice would shape the Dutch conduct of the war for the next decade and ultimately lead to the [[Joannes Benedictus van Heutsz|Van Heutsz]] pacification after [[1898]].
+
+## Account in du Croo’s Generaal Swart (1943)
+
+After the retirement of general [[J. van Teijn|van Teijn]] the Government again chose the policy of waiting and negotiating, "and thereby, after a short and feeble administration by General Pompe van Meerdervoort, General Deijckerhoff took office."
 
 ## See Also
 
@@ -74,7 +78,13 @@ Pompe's governorship is, in Kruijt's analysis, the most striking instance of the
 - [[1891]]
 - [[1892]]
 - [[1898]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter XI, "Kortstondig bestuur onder kolonel Pompe van Meerdervoort, van Mei 1891 tot Januari 1892." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 58–62.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III.
