@@ -1,7 +1,58 @@
 ---
 title: Sultan Iskandar Muda
-aliases: [Acehnese Sun-King, Eseukanda Muda, Iskandar Muda, Iskandar Muda of Aceh, Meukuta Alam, Perkasa Alam, Roi soleil of Atjeh, Soeltan Iskandar Moeda, Sultan Iskandar Moeda, Sultan Iskandar Muda of Atjeh, Sultan Meukuta Alam, Sultan of Atjeh in the 17th century, the great Meukuta Alam, Iskandar Moeda Hooykaas account, Mahkota Alam Hooykaas, Iskandar Muda, Sultan Iskandar Muda of Aceh, Le roi soleil of Aceh]
-tags: [person, sultan, acehnese, 17th-century, aceh, golden-era, historical-figure, legendary, precolonial, sultanate, hooykaas, batoe-sawar, 1613-attack, 1615-attack, pasai-conquest, kreemer]
+aliases:
+- Acehnese Sun-King
+- Eseukanda Muda
+- Iskandar Muda
+- Iskandar Muda of Aceh
+- Meukuta Alam
+- Perkasa Alam
+- Roi soleil of Atjeh
+- Soeltan Iskandar Moeda
+- Sultan Iskandar Moeda
+- Sultan Iskandar Muda of Atjeh
+- Sultan Meukuta Alam
+- Sultan of Atjeh in the 17th century
+- the great Meukuta Alam
+- Iskandar Moeda Hooykaas account
+- Mahkota Alam Hooykaas
+- Sultan Iskandar Muda of Aceh
+- Le roi soleil of Aceh
+- Sultan Iskander Moeda
+- Iskander Muda
+- Iskandar Moeda
+- Iskander Moeda
+- Alexander the Great of Atjeh
+- Sultan Iskander Muda
+- Iskandar Muda of Atjeh
+- Atjehse Roi Soleil
+tags:
+- person
+- sultan
+- acehnese
+- 17th-century
+- aceh
+- golden-era
+- historical-figure
+- legendary
+- precolonial
+- sultanate
+- hooykaas
+- batoe-sawar
+- 1613-attack
+- 1615-attack
+- pasai-conquest
+- kreemer
+- achehnese
+- atjeh
+- historical-memory
+- atjehnese
+- military
+- royal
+- sultanate-of-aceh
+- iskandar-moeda
+- roi-soleil
+- apogee
 ---
 
 **Sultan Iskandar Muda** (reigned [[1607]]–[[1636]]) — Kreemer's *Iskandar Moeda*, whom [[J. Kreemer|Kreemer]] calls "the *roi soleil* of the Atjèhers" — was the *"Roi soleil"* of the [[Aceh]] Sultanate, whose reign marked the *bloeitijdperk* (golden age) of [[Acheh|Atjeh]] and represented the zenith of pre‑colonial Acehnese military, commercial, and cultural power.  He extended Acehnese hegemony over the Malay Peninsula, reclaimed the strategic port of [[Perak]] (first taken in [[1579]]), and fostered a vibrant court culture that combined spectacular elephant‑and‑buffalo displays, an extensive system of provincial appointments, and the patronage of Islamic literature and Malay translations of Arabic texts such as the *Burda* poem.  His reign therefore serves as the chronological anchor for the study of early‑modern Acehnese statehood, diplomacy with the [[Dutch East India Company|VOC]], and the diffusion of Arabic‑derived terminology into Acehnese Malay.
@@ -94,6 +145,15 @@ Iskandar’s influence survives in the political vocabulary inherited by the Dut
 
 Sultan Iskandar Muda’s reign constitutes the defining moment of the Acehnese *bloeitijdperk*, providing a template of military ambition, diplomatic maneuvering, institutional organisation, and cultural patronage against which later centuries of decline and eventual Dutch conquest were measured.  His court’s spectacles, the establishment of the *sarakata* system, and the diffusion of Arabic‑derived terminology into the local language have left enduring legacies in Acehnese historiography, literature, and dialect.  Consequently, his biography is indispensable for understanding the political, military, and cultural dynamics of early‑modern Southeast Asia.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. p. 23. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter XI ("Atjehsche ambassade. Inlandsche feesten. Maagden als losprijs"), p. 43 of the numbered-letter sequence.
+*De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 25–27 (tekst bij blad 2 en 3: *De Archipel en het Maleische Schiereiland in 1650*) en blz. 30 (tekst bij blad 3: *Kantoren op andere plaatsen — Sumatra*).
+*De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 5–8.
+
 ## See Also
 
 - [[Atjeh-oorlog]]
@@ -161,6 +221,50 @@ Sultan Iskandar Muda’s reign constitutes the defining moment of the Acehnese *
 - [[Portuguese Empire]]
 - [[Perak]]
 - [[Benkoelen]]
+- [[Meukuta Alam]]
+- [[Sultan Sayyidi al-Mukamnal]]
+- [[Sultan Mahmut Shah]]
+- [[Adat Meukuta Alam|Edicts of Meukuta Alam]]
+- [[Meuseugit Raya]]
+- [[Joannes Benedictus van Heutsz]]
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[Van der Heijden]]
+- [[Sultan Machmoed Sjah]]
+- [[Day-order of 5 September 1879]]
+- [[Groot-Atjeh]]
+- [[Kota Radja]]
+- [[Kemala]]
+- [[XXII Moekims]]
+- [[XXV Moekims]]
+- [[XXVI Moekims]]
+- [[Onderhoorigheden]]
+- [[1873]]
+- [[1881]]
+- [[Sultana of Atjeh (Taj ul-Alam)]]
+- [[Sultana of Atjeh (1641)]]
+- [[Iskander Tsani]]
+- [[Atjeh's attack on Malakka (1629)]]
+- [[Acehnese conquest of Djohor (1613)]]
+- [[Admiral Botelho]]
+- [[Pieter Soury]]
+- [[Pieter Soury's mission to Atjeh (1641)]]
+- [[Atjehsche ambassade ceremony (1 July 1641)]]
+- [[Vereenigde Oost-Indische Compagnie]]
+- [[Malakka]]
+- [[Djohor]]
+- [[Straits of Malacca]]
+- [[Westkust van Sumatra]]
+- [[Tikoe]]
+- [[Priaman]]
+- [[Padang]]
+- [[Indrapoera]]
+- [[Sultanate of Aceh]]
+- [[Sultan Ali Moeghajat Sjah]]
+- [[Pepercultuur]]
+- [[De Rijkdom van Atjeh (1923)]]
+- [[1612]]
+- [[1625]]
+- [[1645]]
 
 ## Source
 

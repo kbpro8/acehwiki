@@ -1,7 +1,16 @@
 ---
 title: Teungkoe Tjhèh Ibrahim
-aliases: [Tjhèh Ibrahim, Teungku Chik Ibrahim, hatib of Koeta Radja, Kreemer's principal informant]
-tags: [person, oelama, achehnese, religious, 20th-century]
+aliases:
+- Tjhèh Ibrahim
+- Teungku Chik Ibrahim
+- hatib of Koeta Radja
+- Kreemer's principal informant
+tags:
+- person
+- oelama
+- achehnese
+- religious
+- 20th-century
 ---
 
 **Teungkoe Tjhèh Ibrahim** was an Atjèhnese religious scholar and the son of the Pidiësche oelama **[[Teungkoe Tjhèh Marahaban|Teungkoe Tjhèh Marahaban]]**. He served as *hatib* (preacher, from Arabic *khatib*) of the great mosque at [[Koeta Radja|Koeta Radja]] and as *kali* (religious judge) of the *moesapat*'s of Koeta Radja, [[Oelèë Lheuë|Oelèë Lheuë]], and Lam Njöng, and was appointed a geestelijk adviseur (spiritual adviser) to the governor — later a member of the [[Raad agama|Raad agama]] established by Stbl. [[1920]] N°. 398.
@@ -31,7 +40,11 @@ As hatib of the great mosque at Koeta Radja, Tjhèh Ibrahim was the second-highe
 - [[1892]]
 - [[1920]]
 - [[1922]]
+- [[Kreemer's Atjèh (1922–1923)]]
+- [[Cheh Marahaban]]
+- [[Kali]]
 
 ## Sources
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
+Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.

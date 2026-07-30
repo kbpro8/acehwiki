@@ -1,7 +1,32 @@
 ---
 title: Toeankoe Machmoed
-aliases: [Tuanku Mahmud, Toean Koemachmoed, Sultan Machmoed, "the young Sultan under Habib's regency", Tuanku Mahmud of Atjeh, Toeankoe Machmoed, Toeankoe Machmoed Idi rajeu, Machmoed Idi rajeu, oeléebalang of Idi rajeu]
-tags: [person, sultan, achehnese, kraton, pre-1873, aceh, "19th-century", regency, sultanate, succession, oeleebalang, idi-rajeu, goudschat, tjoet-nja, colonial]
+aliases:
+- Tuanku Mahmud
+- Toean Koemachmoed
+- Sultan Machmoed
+- the young Sultan under Habib's regency
+- Tuanku Mahmud of Atjeh
+- Toeankoe Machmoed Idi rajeu
+- Machmoed Idi rajeu
+- oeléebalang of Idi rajeu
+- Sultan Machmoed of Atjeh (pre-1873)
+- Toeankoe Machmoed (pre-1873)
+tags:
+- person
+- sultan
+- achehnese
+- kraton
+- pre-1873
+- aceh
+- 19th-century
+- regency
+- sultanate
+- succession
+- oeleebalang
+- idi-rajeu
+- goudschat
+- tjoet-nja
+- colonial
 ---
 **Toeankoe Machmoed** — *Tuanku Mahmud* — was the young Sultan of [[Atjeh]] in the years immediately preceding the Dutch attack of [[1873]], installed on the throne under the regency of [[Habib Abdurrahman Zahir|Habib Abdoe'r Rachman]] after the death of Sultan [[Sultan Saleiman Iskander|Saleiman Iskander]] in [[1837]]. He is named in the [[Atjeh-Album (Eigen Haard, 1896)|Atjeh-Album of 1896]] as the prince whom the Habib rescued from the custody of [[Toekoe Moeda Baid]] — *oeloebalang* of the [[VII Moekims]] — and for whom the Habib acted as *regent* during his minority.
 

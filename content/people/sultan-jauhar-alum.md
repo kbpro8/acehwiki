@@ -1,8 +1,24 @@
 ---
-
 title: Sultan Jauhar Alum
-aliases: [Johor Alum, Djohor Alum, Djohor, Jowhar 00l Aulum, Johor al Allum Shah, Jowar Allum Shah, Sultan Lama, Rajah Lama, the old sultan, the old king]
-tags: [person, sultan, achehnese]
+aliases:
+- Johor Alum
+- Djohor Alum
+- Djohor
+- Jowhar 00l Aulum
+- Johor al Allum Shah
+- Jowar Allum Shah
+- Sultan Lama
+- Rajah Lama
+- the old sultan
+- the old king
+- Johor Allum
+- Johor Allum as King of Acheen
+tags:
+- person
+- sultan
+- achehnese
+- claimant
+- historical
 ---
 
 **Sultan Jauhar Alum** (also rendered *Djohor Alum*, *Jowhar 00l Aulum*, *Johar al Allum Shah*) was the [[Sultan of Acheh]] from [[1802]] until his death in November [[1823]], "so far as circumstances allowed" — a qualification that captures the fragility of his reign. He is best known as the Achehnese party to the [[Treaty of Pedir (1819)|treaty of Pedir]] signed with [[Sir Thomas Stamford Raffles|Sir Stamford Raffles]] on [[22 April]] [[1819]], an instrument that, in the words of the Bengal government, was to remain a [[dead letter]] from the day it was signed.
@@ -27,6 +43,20 @@ The Bengal government's report of [[7 October]] [[1820]] made clear that Jauhar 
 
 Although the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] was recognised by the London authorities as early as [[4 August]] [[1824]] as a dead letter, the British plenipotentiaries at the [[Anglo-Dutch Treaty of 1824|London negotiations of March 1824]] unexpectedly raised it at the eleventh hour. The result was the insertion of an Acheh reservation in the Notes exchanged alongside the treaty, by which the Netherlands undertook to respect Acheh's independence — a clause that, as [[P. H. van der Kemp|Van der Kemp]] argues at length, became the Trojan horse of Anglo-Dutch relations over [[Sumatra]] for half a century, until the [[Sumatra Treaty of 1871]] finally removed the reservation.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+---
+
+
+**Johor Allum** was a chiefly figure who, around [[1819]]–[[1824]], was treated by the British as "King of Acheen" in connection with the treaty negotiated with [[Sir Thomas Stamford Raffles|Raffles]] and the subsequent correspondence of the East India Company. He is mentioned by Snouck Hurgronje in the Introduction to *The Achehnese* as an example of the recurring European mistake of supposing that a single Achehnese chief could speak for, or bind, the country as a whole.
+
+The treaty which [[Sir Thomas Stamford Raffles|Raffles]] concluded with Acheh was, more precisely, a treaty "with Johor Allum as king of Acheen." On the 4th of August [[1824]], the Chairman of the East India Company wrote to Bengal about this same chief, observing that — so far as could be collected from the correspondence — Johor Allum had never "possessed an established authority in the country which he assumed to represent," and had therefore never been "in a situation to maintain the relations into which he entered." The remark is one of the clearest contemporary recognitions of the structural fact that there was, in early nineteenth-century [[Acheh]], no sovereign capable of acting as a European treaty-partner in any meaningful sense.
+
+Johor Allum's case illustrates the fragmentation of authority which had prevailed in Acheh since the decline of the sultanate in the seventeenth century. The country was, as Snouck Hurgronje repeatedly emphasises, "practically split up into countless miniature states under chiefs whose power depended on personal energy," and the sultan had long ceased to exercise effective control over the great chiefs of the interior. Treaties concluded with such a figure as Johor Allum could therefore have no practical effect on the disorders — robbery, murder, and the harassment of foreign shipping — which formed the original motive of European intervention.
+
+The episode is part of the long prelude to the [[Acheh War|Achehnese War]]. It belongs to the same series of unsuccessful British experiments in Achehnese diplomacy as the discourteous reply which [[Warren Hastings]] received from the then Sultan in [[1786]], the warnings of [[Captain Francis Light]] and James Price, and the memorandum of [[Robert Fullerton|Governor R. Fullerton]] in [[1825]]. All of these pointed, with remarkable consistency, to the conclusion that the establishment of European influence over Acheh was "utterly impracticable without employing a large military force to overawe the inhabitants." It was this conclusion, finally inherited by the Dutch under the [[Anglo-Dutch Treaty of 1824|Treaty of 1824]] and re-affirmed in the [[Anglo-Dutch Treaty of 1824|Treaty of 1871]], that prepared the ground for the military operations of [[1873]] onwards.
+
 ## See Also
 
 - [[Sultan Saif ul-Alum]]
@@ -42,6 +72,14 @@ Although the [[Treaty of Pedir (1819)|Acheh treaty of 1819]] was recognised by t
 - [[Panglima Polim's supremacy at Acheh]]
 - [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Dead letter]]
+- [[Sir Thomas Stamford Raffles|Raffles]]
+- [[Raffles Treaty with Acheh]]
+- [[Captain Francis Light]]
+- [[Robert Fullerton|Governor R. Fullerton]]
+- [[Warren Hastings]]
+- [[Anglo-Dutch Treaty of 1824]]
+- [[Acheh]]
+- [[Acheh War]]
 
 ## Source
 

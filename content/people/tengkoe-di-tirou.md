@@ -1,7 +1,67 @@
 ---
-title: "Tengkoe di Tirou"
-aliases: ["Tengkoe di Tirou", "Teungku di Tiro", "Tëngku di Tiro", "Tengku Chik di Tiro", "Tengkoe di Tiroe", "T. di Tirou", "T. di Tiro", "Teungku di Tiro", "Sheikh di Tiro", "Tiro Teungku"]
-tags: [person, religious, acehnese, achehnese, atjeh, aceh-war, resistance-leader, ulama, 19th-century, tiro-family]
+title: Tengkoe di Tirou
+aliases:
+- Teungku di Tiro
+- Tëngku di Tiro
+- Tengku Chik di Tiro
+- Tengkoe di Tiroe
+- T. di Tirou
+- T. di Tiro
+- Sheikh di Tiro
+- Tiro Teungku
+- Teungku Tiro
+- the major war leader
+- Teungku Chi' di Tiro
+- Teungku Tiro Muhamat Amin
+- Teungku Saman
+- Leube Saman
+- Teungkoe di Tiro
+- Cheh Saman
+- Teungku Tiro (successor)
+- Shaikh Samman
+- Cheh Saman (Shaikh Samman)
+- Muhammad Samman
+- Samman
+- Sheikh Samman
+- Samman al-Madani
+- Muhammad al-Samman
+- Toekoe di Tiroe
+- Toekoe di Tiro of Pedir
+- the self-reliant chief of Pedir
+- Teungku di Tiro Mohammed Amir
+- Teungku Tiro Mohammed Amir
+- the first Teungku di Tiro
+- Teungku Chi' di Tiro (predecessor)
+tags:
+- person
+- religious
+- acehnese
+- achehnese
+- atjeh
+- aceh-war
+- resistance-leader
+- ulama
+- 19th-century
+- tiro-family
+- warrior
+- religious-figure
+- jihad
+- commander
+- sultanate
+- diplomacy
+- resistance
+- oelama
+- tiro
+- scholar
+- sufi
+- saint
+- sammaniyah-tariqah
+- arab
+- uleebalang
+- teungku
+- acheh-war
+- aceh
+- pedirse
 ---
 
 **Tengkoe di Tirou** — also written *Teungku di Tiro* — was the principal religious leader (*teungku*) of the Atjehese resistance during the period of the [[Concentratie-stelsel (1884-1896)|concentration system]] from [[1884]] to his sudden death in [[January 1891|January]] [[1891]], and the soul of the Atjehese resistance in the judgment of [[J. A. Kruijt|Kruijt]]. His influence, which grew steadily throughout the governorship of [[Demmeni|Demmeni]] and [[General van Teijn|Van Teijn]], made him the principal obstacle to the Dutch policy of negotiated submission; and his death, together with that of [[Panglima Polim|Panglima Polim]] in the same month, removed the principal addressee of the Dutch conciliation and led to the failure of the Van Teijn governorship.
@@ -72,6 +132,23 @@ The *steeds driester geworden* (ever-bolder) Tengkoe di Tirou was twice driven, 
 
 Tengkoe di Tirou's significance in Van Heutsz's narrative is that of the *ulama* whom Van Heutsz names as the religious leader of the Atjehnese resistance in the *cajoleering*-decade of [[1884]]–[[1886]] — the Koranic preacher who, *met den koran in de hand*, *spoorde de geloovigen met succes aan tot volharding in den strijd tegen den ongeloovigen indringer*; the religious authority whose exegesis exploited the *zwakte en onmacht* the Dutch had *allerwegen blijk gegeven* — the political diagnosis that gave the Koranic warrant its force, since the Koran itself *voorschrijft, dat een geloovige zich nooit anders aan een ongeloovige mag onderwerpen, dan genoodzaakt door dwang*, and the Dutch weakness had removed the *dwang* that could have made submission religiously permissible; and the third leg of the Atjehnese constitutional settlement at [[Kemala]] — the religious sanction that complemented the dynastic authority of [[Toeankoe Mohamad Daoed]] and the political authority of [[Toeankoe Haschim]], and that gave the resistance the religious form the political and dynastic authorities could not themselves supply. His two repulses by [[Van Teijn]] in the first year of the [[1886]]–[[1891]] governorship — *met bebloede koppen uit onze linie* — were the first Dutch military success against the religious authority of the resistance; the *ulama* himself survived, and his *bende* would reappear in the [[Koeala Pantjoer]] prauw-rooftocht of the same governorship.
 
+
+## Sources
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 25, 58.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, XI.
+---
+The right-hand man of Teungku Muhamat Amin and eventually his successor as leader of the Tiro religious tradition, son of a simple leube. He became a leading figure in the holy war in Great Acheh until his death, after which his son Teungku Mat Amin succeeded him. His rival Teungku Kuta Karang contemptuously called him "Leube Saman" rather than "Teungku Tiro."
+The founder of the rateb Saman, a mystical devotional school based on rhythmic recitation and bodily movement that became extremely popular across the Eastern Archipelago. A Medina-based teacher of the first half of the 18th century, he composed both the Arabic words and the postures of the rateb. His successors in Indonesia developed it into an ever more gymnastic, and less doctrinally meaningful, performance, but it remains one of Acheh's most popular devotional recreations.
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 80, 96, 107-108.
+**Toekoe di Tiroe** (also written Toekoe di Tiro) was a self-reliant chief in [[Pedir|Pedir]] on the north coast of [[Acheh|Atjeh]], particularly hostile to the Dutch throughout the late [[1870s]], who repeatedly attacked the Dutch post at [[Segli|Segli]] and whose stronghold at [[Garouw|Garouw]] was the object of an expedition under [[K. van der Heyden|Van der Heyden]] in [[May 1878|May 1878]]. His band was still active at [[Lampisang|Lampisang]] in [[August 1879|August 1879]], where it awaited and gave serious opposition to the Dutch column on its way to [[Selimoen|Selimoen]].
+*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 10, 16 (Een Terugblik — Wat Reeds Verkregen Werd; De Geestelijkheid in Atjeh — Teungkoe di Tiro).
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan (Leiden: E. J. Brill, 1906).
+
 ## See Also
 
 - [[Tengkoe Mohamed Amin]]
@@ -122,6 +199,78 @@ Tengkoe di Tirou's significance in Van Heutsz's narrative is that of the *ulama*
 - [[1892]]
 - [[1873]]
 - [[1874]]
+- [[Cheh Saman]]
+- [[Cheh Saman (Shaikh Samman)]]
+- [[Great Acheh]]
+- [[Habib Samalanga]]
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
+- [[Imeum of Lueng Bata]]
+- [[Mat Amin]]
+- [[Panglima Meuseugit Raya]]
+- [[Pidie]]
+- [[Teuku Kali Malikon Ade|Teuku Kali]]
+- [[Teuku Ne' of Meura'sa]]
+- [[Teuku Uma]]
+- [[Teungku Kutakarang]]
+- [[Teungku Mat Amin]]
+- [[Tiro]]
+- [[Teungkoe (concept)]]
+- [[Sabil Allah]]
+- [[Teuku Umar]]
+- [[XXII Moekims]]
+- [[Ana' Galong]]
+- [[Teungkoe Koeta Karang]]
+- [[Teungkoe Tanah Abée]]
+- [[Teungkoe Panté Gelimah]]
+- [[Defection of Teuku Umar (29 March 1896)]]
+- [[Kraton of Koeta Radja]]
+- [[Koeta Radja]]
+- [[Kloet belang]]
+- [[Grot of Daroe]]
+- [[15e Bataljon]]
+- [[H. F. T. van Blokland]]
+- [[Patrol of Captain Van Blokland (7 March 1896)]]
+- [[1885]]
+- [[1893]]
+- [[1896]]
+- [[1900]]
+- [[1901]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
+- [[Teungku Beb]]
+- [[Teungku Chot Plieng]]
+- [[Teungku Kutakarang|Teungku Kuta Karang]]
+- [[Teungku Mahidin]]
+- [[Teungku Muhamat Amin]]
+- [[Teungku Tiro]]
+- [[Acheh]]
+- [[Mecca]]
+- [[Medina]]
+- [[Peutamat daroh]]
+- [[Ramadhan]]
+- [[Rateb Saman]]
+- [[Rateb Saman|Rateb Samman]]
+- [[Rateb Samman (Rateb meuse / Kuluhut)]]
+- [[Traweh]]
+- [[K. van der Heyden]]
+- [[Pedir]]
+- [[Segli]]
+- [[Gighen]]
+- [[Garouw]]
+- [[Telok Kadjoe]]
+- [[Lampisang]]
+- [[Selimoen Expedition (August 1879)]]
+- [[Teungku di Tiro]]
+- [[Teungku Tiro Muhamat Amin]]
+- [[Sjeih Abdoel bin Djnali]]
+- [[Lamgoet]]
+- [[Demmenie]]
+- [[Van Teijn]]
+- [[C. Snouck Hurgronje]]
+- [[Ulama]]
+- [[Atjeh-Album (Eigen Haard, 1896)]]
 
 ## Source
 

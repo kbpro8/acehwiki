@@ -1,7 +1,28 @@
 ---
-title: "Tgk. Mat Amin"
-aliases: ["Teungkoe Mat Amin", "T. Mad Amin", "T. Mat Amin"]
-tags: [person, religious-leader, acehnese, resistance, sjahid, achehnese, religious, aceh-war, military, oelama, tiro, 19th-century]
+title: Tgk. Mat Amin
+aliases:
+- Teungkoe Mat Amin
+- T. Mad Amin
+- T. Mat Amin
+- Tengkoe Mat Amin di Tiro
+- Tgk. Mat Amin di Tiro
+- Tgk. Tjhi Amin
+- Mat Amin di Tiro
+tags:
+- person
+- religious-leader
+- acehnese
+- resistance
+- sjahid
+- achehnese
+- religious
+- aceh-war
+- military
+- oelama
+- tiro
+- 19th-century
+- aceh
+- aneukgalong
 ---
 
 **Tgk. Mat Amin** — also written *Teungkoe Mat Amin*, *T. Mad Amin*, *T. Mat Amin* — was an Acehnese religious-military leader who fell at the [[Battle of Aneu Galong (1896)|defence of Aneu Galong]] in [[1896]] as a *geloofsgetuige* — a witness of the faith, a *[[sjahid]]* — and whose infant son *[[Tgk. Tjhi Ma'at]]* would, fifteen years later, become the last leader of the *Tiriō bende*. His death at Aneu Galong is the chronological anchor of the Tiriō resistance's generational arc: the father killed in [[1896]], the son killed in [[1911]]. In Kruisheer's *ATJEH '96* he is further identified as one of the three co-commanders (alongside the Kling [[Habib Lhong]] and [[Panglima Hassan]]) of the approximately 250-man Achehnese force which engaged the [[Patrol of Captain Van Blokland (7 March 1896)|patrol of Captain Van Blokland on 7 March]] [[1896]] at [[Ana' Batée]].
@@ -36,6 +57,10 @@ His significance in *ATJEH '96* lies in his embodiment of the *oelama*-as-comman
 
 When the Dutch outpost Aneu' Galong, then held by the Acehnese, was retaken by the *[[Corps of Military Constabulary of Atjeh and Dependencies|marechaussée]]* of captain Jhr. [[Graafland]] after "a splendid night march and a lightning attack with cold steel", 110 Acehnese dead remained in the captured fortification — "but more than that: Teungkoe Mat Amin, the eldest son and successor of the fiercest religious resistance leader Teungkoe di Tirò, who died in [[1891]], lost his life here."
 
+
+## Sources
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
 ## See Also
 
 - [[Battle of Aneu Galong (1896)]]
@@ -65,6 +90,19 @@ When the Dutch outpost Aneu' Galong, then held by the Acehnese, was retaken by t
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Tengkoe Sjech Saman di Tiro]]
+- [[Tengkoe di Boekit]]
+- [[Tengkoe Majet di Tiro]]
+- [[Tengkoe Tjhi Maät di Tiro]]
+- [[Tiro-oelama]]
+- [[Fall of Aneukgalong (1896)]]
+- [[Teukoe Oemar]]
+- [[G.C.E. van Daalen]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz]]
+- [[Graafland]]
+- [[Aneukgalong]]
+- [[Indrapoeri]]
+- [[Prang sabil]]
 
 ## Source
 

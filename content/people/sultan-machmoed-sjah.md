@@ -1,8 +1,28 @@
 ---
-title: "Sultan Machmoed Sjah"
-aliases: ["Sultan Mahmud Syah", "Sultan Machmoed Sjah", "Mahmud Syah of Atjeh"]
-tags: [person, sultan, achehnese, atjeh, aceh-war, 19th-century, succession]
-description: "Sultan of Atjeh whose death in 1874 opened the succession that Toeankoe Haschim exploited for his pupil Toeankoe Mohamad Daoed; the last Sultan recognised by both Acehnese and Dutch before the war's prolonged succession crisis."
+title: Sultan Machmoed Sjah
+aliases:
+- Sultan Mahmud Syah
+- Mahmud Syah of Atjeh
+- Sultan Mahmud Syah of Aceh
+- Sultan of Aceh
+- Mahmud Syah
+- The Sultan of Acheh (Dutch war era)
+- Sultan of Acheh
+- the last Sultan of Acheh
+tags:
+- person
+- sultan
+- achehnese
+- atjeh
+- aceh-war
+- 19th-century
+- succession
+- ruler
+- sovereign
+- dutch-war
+description: Sultan of Atjeh whose death in 1874 opened the succession that Toeankoe
+  Haschim exploited for his pupil Toeankoe Mohamad Daoed; the last Sultan recognised
+  by both Acehnese and Dutch before the war's prolonged succession crisis.
 ---
 
 **Sultan Machmoed Sjah** — *Sultan Mahmud Syah*, in modern Indonesian spelling — was the Acehnese Sultan of [[Atjeh]] whose death in [[1874]] — the year after the Dutch conquest of the *kraton* (royal palace) of [[Kemala|Keumala]] in the [[Aceh War|Atjeh-oorlog]]'s opening campaign — opened the Atjehnese succession that [[Toeankoe Haschim]], the *zeer krachtige persoonlijkheid* (very forceful personality) at the head of the war party at [[Kemala|Keumala]], exploited for his pupil [[Toeankoe Mohamed Daoed|Toeankoe Mohamad Daoed]]. He is, in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s narrative, the last Sultan recognised by both the Acehnese and the Dutch before the war's prolonged succession crisis — the figure whose death, in [[1874]], left the Atjehnese sultanate without an installed successor and so opened the political space within which the resistance could, in the years [[1881]]–[[1883]] of Dutch *lijdelijkheid* (passivity) after the [[General van der Heijden|Van der Heijden]] dismissal, be reconstituted under a war-party candidate.
@@ -27,6 +47,13 @@ The succession crisis opened by Sultan Machmoed Sjah's death in [[1874]] is, in 
 
 Sultan Machmoed Sjah's significance in the Aceh Wiki History record rests on three things: he was the last Sultan of Atjeh recognised by both Acehnese and Dutch before the war's prolonged succession crisis — the figure whose death in [[1874]] left the Atjehnese sultanate without an installed successor and so opened the political space within which the resistance could be reconstituted; he was the Sultan whose succession was exploited, in the years [[1881]]–[[1883]] of Dutch *lijdelijkheid* after the [[General van der Heijden|Van der Heijden]] dismissal, by [[Toeankoe Haschim]] on behalf of his pupil [[Toeankoe Mohamed Daoed|Toeankoe Mohamad Daoed]] — the war-party candidate recognised "met behulp van andere voorname hoofden" as the lawful successor to the "in 1874 overleden sultan Machmoed Sjah"; and his death is, in Van Heutsz's diagnosis, one of the structural causes of the war's prolongation, the political precondition for the Atjehnese resistance's reconstitution under a war-party candidate whose installation at the [[Indrapoeri]] mosque the Dutch *Civiel Gouverneur* regime of [[1881]]–[[1883]] had not been able to prevent. His role in the Aceh Wiki History record is, in Van Heutsz's narrative, the constitutional counterpart to the religious authority of [[Tengkoe di Tirou]] and the active military leadership of [[Habib Abdurrahman Zahir|Habib Abdoel Rachman]]: where they supplied the religious sanction and the Groot-Atjeh command, Sultan Machmoed Sjah supplied the dynastic form whose vacancy the war party exploited.
 
+
+## Sources
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 6-15; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 7-12, 20-25.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+---
+The **Sultan of Acheh** in the era of the [[Acheh War|war with the Dutch]] was the last effective holder of the sultanate before the Dutch occupation of the capital. His reign is the closing chapter of the Achehnese sultanate as a political institution: when the war with the Dutch began, he fled from [[Banda Acheh]] to [[Keumala]], after which Banda Acheh became the capital of the territory seized by the Dutch and the base of their operations. The Sultan's withdrawal to Keumala, the inland seat of the royal family on the [[XXII Mukims of Panglima Poleem|XXII Mukims]] side of the river, left the city of Banda Acheh in Dutch hands and inaugurated the long period of guerrilla resistance with which the rest of the [[Acheh War]] is concerned.
+
 ## See Also
 
 - [[Toeankoe Mohamed Daoed|Toeankoe Mohamad Daoed]]
@@ -42,6 +69,20 @@ Sultan Machmoed Sjah's significance in the Aceh Wiki History record rests on thr
 - [[1873]]
 - [[1874]]
 - [[1883]]
+- [[Aceh Sultanate]]
+- [[Kraton of Aceh]]
+- [[Panglima Polem]]
+- [[J. van Swieten]]
+- [[First Aceh Expedition]]
+- [[Second Aceh Expedition]]
+- [[Capture of the Aceh Kraton]]
+- [[Acheh War]]
+- [[Banda Acheh]]
+- [[Keumala]]
+- [[Teungku Tiro]]
+- [[Teuku Uma]]
+- [[Tuanku Asem]]
+- [[Habib Abdurrahman Zahir]]
 
 ## Source
 

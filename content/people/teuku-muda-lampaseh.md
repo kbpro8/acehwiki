@@ -1,8 +1,15 @@
 ---
-
 title: Teuku Muda Lampaseh
-aliases: [Teuku Lampaseh]
-tags: [person, uleebalang]
+aliases:
+- Teuku Lampaseh
+- Teuku Lampasei
+- Toekoe Lampasei
+tags:
+- person
+- uleebalang
+- nobility
+- hulubalang
+- achehnese
 ---
 
 **Teuku Muda Lampaseh** (also called **Teuku Lampaseh**) was the claimant to the panglima sagi-ship of the [[XXVI Mukims]] during the [[Disputed succession to the panglimaship of the XXVI Mukims|disputed succession]] that began in the reign of [[Sultan Ibrahim Mansur Shah|Ibrahim Manso Shah]] ([[1858]]–[[1870]]). His descendants — notably his son [[Teuku Juhan]] — continued to assert the title from the exiled Achehnese court at [[Keumala]] throughout the [[Achehnese War|Acheh war]].
@@ -13,6 +20,10 @@ Both Teuku Muda Lampaseh and his rival bore the title *banta* (deputy), since th
 
 After the death of Teuku Muda Lampaseh, his son [[Teuku Juhan]] was appointed panglima at Keumala — that is, by the exiled Achehnese court. The rival line, descended from the murdered Teuku Lamreueng, was recognised by the Dutch Government as Panglima of the XXVI Mukims, in the person of the infant [[Teuku Nya' Banta]]. The journeys to Keumala undertaken by the uleebalangs who had tendered their submission to the government resulted in the recognition of Teuku Nya' Banta by the court as well, so that the double panglimaship continued to exist. In fact, however, Teuku Juhan "is not able to pose as a rival of Teuku Nya' Banta". The line of Teuku Muda Lampaseh thus retains only the empty form of the panglimaship, while the substance resides entirely with the descendants of his murdered rival.
 
+
+## Sources
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 8-10.
+
 ## See Also
 
 - [[Teuku Nya' Banta]]
@@ -22,6 +33,10 @@ After the death of Teuku Muda Lampaseh, his son [[Teuku Juhan]] was appointed pa
 - [[Sultan Ibrahim Mansur Shah|Ibrahim Manso Shah]]
 - [[Achehnese War]]
 - [[Keumala]]
+- [[XXV Moekims]]
+- [[J. van Swieten]]
+- [[General van Swieten War Telegrams]]
+- [[Capture of the Aceh Kraton]]
 
 ## Source
 

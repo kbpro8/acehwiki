@@ -1,7 +1,24 @@
 ---
 title: General Verspijck
-aliases: [Verspijck, Verspyck, Verspeck, General Verspijck, generaal Verspijck, luitenant-generaal Verspijck, tweede bevelhebber Verspijck, Verspijck Atjeh 1873, Verspijck tweede expeditie]
-tags: [person, dutch, colonial, military, general, tweede-bevelhebber, aceh-war, 1873, 1874]
+aliases:
+- Verspijck
+- Verspyck
+- Verspeck
+- generaal Verspijck
+- luitenant-generaal Verspijck
+- tweede bevelhebber Verspijck
+- Verspijck Atjeh 1873
+- Verspijck tweede expeditie
+tags:
+- person
+- dutch
+- colonial
+- military
+- general
+- tweede-bevelhebber
+- aceh-war
+- 1873
+- 1874
 ---
 
 **General Verspijck** was *luitenant-generaal* and *tweede bevelhebber* (second-in-command) of the [[Second Aceh Expedition (1873–1874)|second Dutch expedition against Atjeh]] under [[Jan van Swieten|generaal van Swieten]]; he commanded the landing on [[9 December]] [[1873]] at the roadstead of Atjeh and drove the Atjehneezen from their fortifications on the right bank of the Atjeh river; and he executed the [[Fall of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[1874]] through an *omtrekkende beweging* (flanking movement) that delivered the deserted palace-fortress to the Dutch without a shot. In [[G. F. W. Borel|Borel]]'s narrative he is the steady professional soldier whose sound tactical judgement was systematically overborne by his commander's caution.
@@ -29,6 +46,10 @@ Verspijck accompanied van Swieten on the [[Reconnaissance of the Atjeh-rivier (2
 ## Significance
 
 Verspijck embodies in Borel's narrative the professional soldier whose sound tactical judgement was systematically overborne by his commander's caution. His *omtrekkende beweging* saved the second expedition from the fate of the [[First Aceh Expedition (April 1873)|first]] under [[Generaal Köhler]], and his frustrated proposal for the Kroeng Raba-baai landing anticipated by three years the very strategy Pel would use to break the Atjehnese resistance.
+
+
+## Sources
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. pp. 10–11, 13, 21, 32–33, 42–44, 56.
 
 ## See Also
 

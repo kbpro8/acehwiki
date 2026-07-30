@@ -1,7 +1,30 @@
 ---
 title: Sultan Ali Mughayat Shah
-aliases: [Ali Mughayat Shah, Ali Moeghajat Sjah, Raja Ibrahim, Radja Ibrahim, the first powerful Sultan of Atjeh, founder of the Atjeh sultanate]
-tags: [person, sultan, atjehnese, precolonial, 16th-century, military, founder]
+aliases:
+- Ali Mughayat Shah
+- Ali Moeghajat Sjah
+- Raja Ibrahim
+- Radja Ibrahim
+- the first powerful Sultan of Atjeh
+- founder of the Atjeh sultanate
+- Sultan Ali Moeghajat Sjah
+- Ali Mughayat Syah
+- Founder of the Atjehse Sultanate
+tags:
+- person
+- sultan
+- atjehnese
+- precolonial
+- 16th-century
+- military
+- founder
+- acehnese
+- royal
+- sultanate-of-aceh
+- portuguese
+- pepper
+- pasé
+- pidië
 ---
 
 **Sultan Ali Mughayat Shah** — known in the Atjehnese tradition under his birth-name **Raja Ibrahim** — was, in [[J. Kreemer|Kreemer]]'s history of [[Acheh|Atjèh]], the first powerful ruler of the [[Sultanate of Acheh|Atjèh sultanate]], reigning from approximately [[1514]] to [[1530]], under whom Atjèh freed itself from its vassalage to [[Pidië|Pidië (Pedir)]] and became the dominant power on the north coast of [[Sumatra]]. His reign marks the moment at which Atjèh, hitherto an insignificant harbour-state, emerged as the successor to the older Muslim kingdom of [[Pasei|Samudra-Pasè]] and the rival of [[Malaka|Portuguese Malaka]].
@@ -17,6 +40,10 @@ Kreemer records the principal conquests of Ali Mughayat Shah's reign in a single
 ## Significance
 
 In Kreemer's periodisation of Atjehnese history, Ali Mughayat Shah's reign opens the period of Atjèh's "opkomst" — rise — which runs from approximately [[1500]] to [[1550]], preceding the "gulden eeuw" — golden century — of [[1550]]–[[1650]]. He is the ruler under whom Atjèh ceases to be a dependency and becomes a sultanate in its own right, the political successor to [[Pasei|Samudra-Pasè]] and the commercial successor to the Portuguese-thwarted trade of the north coast. His wars against [[Aru|Aroe]] and his annexation of [[Daya|Daya]] on the West Coast establish the two axes of Atjehnese expansion — eastward along the [[Sumatra's East Coast|Oostkust]] and westward along the [[Westkust van Atjeh|Westkust]] — that would define the sultanate's imperial geography for the next century.
+
+
+## Sources
+*De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 7–8.
 
 ## See Also
 
@@ -34,6 +61,17 @@ In Kreemer's periodisation of Atjehnese history, Ali Mughayat Shah's reign opens
 - [[1520]]
 - [[1524]]
 - [[1530]]
+- [[Sultanate of Aceh]]
+- [[Sultan Iskandar Moeda]]
+- [[Yorge de Brito]]
+- [[Radja Ibrahim]]
+- [[Pasé]]
+- [[Samoedra]]
+- [[Pasé-Samoedra]]
+- [[Pepercultuur]]
+- [[De Rijkdom van Atjeh (1923)]]
+- [[May 1521]]
+- [[1521]]
 
 ## Source
 

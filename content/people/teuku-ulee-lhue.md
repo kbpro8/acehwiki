@@ -1,8 +1,13 @@
 ---
-
 title: Teuku Uleë Lhuë
-aliases: [Teuku Uleë Lhuë, Teuku Ulee Lheue, Teuku Ulec Lhuic]
-tags: [person, uleebalang, tyrant, legendary]
+aliases:
+- Teuku Ulee Lheue
+- Teuku Ulec Lhuic
+tags:
+- person
+- uleebalang
+- tyrant
+- legendary
 ---
 
 **Teuku Uleë Lhuë** (also written *Teuku Ulec Lhuic*) was the right-hand man of the old [[Teuku Ne' (old)|Teuku Ne']] of [[Meura'sa|Meura'sa]] and the grandfather of the present chief of Meura'sa in the closing years of the nineteenth century. He is introduced by Snouck Hurgronje in *The Achehnese* Vol. I as the type of the atrocious Achehnese tyrant, whose memory was preserved in popular tradition long after his death and whose grave was believed to be the seat of supernatural terrors.

@@ -1,8 +1,17 @@
 ---
-
 title: Sultan Ziemul Abudeen
-aliases: ["Ziemul Abudeen", "Alauddin Mahmud Shah Djohan", "Alaoe'd-din Mahmoed Shah Djohan"]
-tags: [person, sultan, achehnese]
+aliases:
+- Ziemul Abudeen
+- Alauddin Mahmud Shah Djohan
+- Alaoe'd-din Mahmoed Shah Djohan
+- Sultan Alauddin Muhammad Shah Jauhar
+- Alaëddin Mohammed Shah
+- Alauddin Mahmud Shah Jauhan
+- sultan Munson
+tags:
+- person
+- sultan
+- achehnese
 ---
 
 **Sultan Ziemul Abudeen** was an Achehnese ruler identified in Van der Kemp's documentation as the father of the Sultan of Acheh who corresponded with [[Warren Hastings]] in [[1786]]. He is named in the opening of a letter preserved as *Bijlage* I to Van der Kemp's article, in which the Achehnese sultan addresses the Governor-General of Bengal: "This letter is sent from your friend sultan Munson, son of sultan Ziemul Abudeen … to you, who are a valuable and noble friend, and who are known to Hindostan and Arabia." The letter, dated 7 November [[1786]], thus places Ziemul Abudeen as the predecessor (or at least the royal father) of the ruling sultan of [[Acheh]] in the mid-1780s.
@@ -21,6 +30,14 @@ The sultan also mentions that "Captain Canning and Mr. Phillips" had subsequentl
 
 Ziemul Abudeen's chief significance in Van der Kemp's argument is chronological and diplomatic. His inclusion in the 1786 letter shows that Achehnese-British relations were active, court-to-court, well before the better-known [[Raffles-Coombs Acheh Commission|Acheh commission]] of [[1819]], and that the sultanate was already looking to Calcutta for arms and friendship against its regional rivals. This precedent undercuts later Dutch claims — discussed at length by Van der Kemp in connection with the [[Suzerainty question|suzerainty question]] — that Acheh had lain outside the British sphere before the [[Anglo-Dutch Treaty of 1824|Treaty of London of 1824]]. The article's use of the 1786 letter as *Bijlage* I, immediately before Raffles's own [[Raffles' Acheh treaty of 1819|Acheh agreement]] documents, signals Van der Kemp's view that British relations with Acheh had a continuous history stretching back to the Hastings era.
 
+
+## Sources
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159-239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+---
+
+
+**Sultan Alauddin Muhammad Shah Jauhar** (in [[Pieter Johannes Veth|Veth]]'s spelling *Alaoe'd-din Mahmoed Shah Djohan*; in Van der Kemp's text *Alaëddin Mohammed Shah*; in the 1786 letter to Bengal styled, probably by corruption, *sultan Munson*) was [[Sultan of Acheh|Sultan of Acheh]] from [[1781]] until his death in [[1795]]. He is chiefly known to history through a celebrated insolent letter of [[7 November]] [[1786]] to [[Warren Hastings]], Governor-General of Bengal, which opens Van der Kemp's narrative as a token of the "loose or strained" relations between Europeans and Acheh down to the eighteenth century.
+
 ## See Also
 
 - [[Sultan Alauddin Muhammad Shah Jauhar]]
@@ -29,6 +46,13 @@ Ziemul Abudeen's chief significance in Van der Kemp's argument is chronological 
 - [[Tringano]]
 - [[Pieter Johannes Veth]]
 - [[Captain Canning's mission to Acheh]]
+- [[Captain Francis Light]]
+- [[Captain Hobbs]]
+- [[Captain Glass]]
+- [[Captain Thomas]]
+- [[John Bird]]
+- [[Sultan Ziemul Abudeen]]
+- [[Sultan Jauhar Alum]]
 
 ## Source
 

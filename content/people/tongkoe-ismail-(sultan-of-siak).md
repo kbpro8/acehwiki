@@ -1,7 +1,28 @@
 ---
 title: Tongkoe Ismail (Sultan of Siak)
-aliases: [Sultan Tongkoe Ismail, Sultan Tongkoe Ismail of Siak, Tunku Ismail, Ismail of Siak, Siak Sultan Ismail, Sultan Ismail of Siak, Tongkoe Ismail van Siak]
-tags: [person, sultan, malay, sumatra, oostkust-van-sumatra, buitenbezittingen, siak, colonial, dutch]
+aliases:
+- Sultan Tongkoe Ismail
+- Sultan Tongkoe Ismail of Siak
+- Tunku Ismail
+- Ismail of Siak
+- Siak Sultan Ismail
+- Sultan Ismail of Siak
+- Tongkoe Ismail van Siak
+- Raja Ismail of Siak
+- Radja Ismail
+- Sultan Ismail van Siak
+- R. Ismail
+tags:
+- person
+- sultan
+- malay
+- sumatra
+- oostkust-van-sumatra
+- buitenbezittingen
+- siak
+- colonial
+- dutch
+- precolonial
 ---
 
 **Tongkoe Ismail** — Sultan of [[Siak|Siak]] from [[1827]] — was, in the Encyclopaedisch Bureau's survey of the [[Buitenbezittingen|Outer Possessions]], the Siak sultan under whose long reign the Siak overlordship of the East Coast statelets definitively decayed, and the sultan who, by appealing to the [[Netherlands-Indies Government|Nederlandsch-Indisch Gouvernement]] for assistance against the British adventurer [[Wilson|Wilson]] and against the reimposition of [[atjeh-as-opperheer-in-langkat-deli-serdang-(1854)|Atjehnese overlordship over Langkat, Deli and Serdang]], set in motion the chain of events by which the [[Siak|Siak sultanate]] was ceded to the Dutch and the East Coast statelets were absorbed into the colonial state.
@@ -34,6 +55,14 @@ The Dutch intervention against [[Wilson|Wilson]] was the immediate prelude to th
 
 [[Tongkoe Ismail|Tongkoe Ismail]] is, in the Encyclopaedisch Bureau's survey, the central figure of the mid-nineteenth-century Siak-East Coast crisis. His long reign (from [[1827]] to his death, apparently in the 1860s or early 1870s) spans the decay of the Siak overlordship, the [[atjeh-as-opperheer-in-langkat-deli-serdang-(1854)|1854 reimposition of Atjehnese overlordship]], the Wilson adventure, the [[Siak tractate of 1 February 1858|1858 cession of Siak to the Dutch]], and the [[langkat-appeal-to-siak-against-atjeh-(1862)|1862 Langkat appeal]] that extinguished [[atjeh-as-opperheer-in-langkat-deli-serdang-(1854)|Atjehnese overlordship over the East Coast]]. His reign thus closes the [[atjehsche-overheersing-der-noordelijke-kuststaatjes|pre-colonial Atjehnese overlordship of the East Coast]] and opens the colonial era of Dutch effective authority.
 
+
+## Sources
+*De Buitenbezittingen, Deel II, Afl. 3: Oostkust van Sumatra. Eerste Stuk*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, [[1918]]), pp. 103–104. Universiteitsbibliotheek Vrije Universiteit Amsterdam, shelfmark LS.08781.
+
+*Nota omtrent het Rijk van Siak*, by [[H. A. Hijmans van Anrooy|H. A. Hijmans van Anrooy]], in *Tijdschrift van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, dl. XXX ([[1885]]).
+
+*De Nederlanders in Siak en Djohore*, by [[E. Netscher|E. Netscher]], in *Verhandelingen van het Bataviaasch Genootschap*, XXXV ([[1870]]).
+
 ## See Also
 
 - [[Siak]]
@@ -56,6 +85,19 @@ The Dutch intervention against [[Wilson|Wilson]] was the immediate prelude to th
 - [[1854]]
 - [[1858]]
 - [[1862]]
+- [[Tongkoe Ismail]]
+- [[Raja Alam]]
+- [[Raja Moehamad]]
+- [[Radja Ketjil]]
+- [[Pelalawan]]
+- [[Poelau Gontong]]
+- [[Djohor]]
+- [[rijk Gasip]]
+- [[1759]]
+- [[1760]]
+- [[1761]]
+- [[1769]]
+- [[1779]]
 
 ## Source
 

@@ -1,8 +1,29 @@
 ---
-
 title: T. H. der Kinderen
-aliases: [Mr. T. H. Der Kinderen, Mr. Der Kinderen, Der Kinderen, Mr. T. H. der Kinderen]
-tags: [person, colonial-official, dutch, scholar, jurist, administrator]
+aliases:
+- Mr. T. H. Der Kinderen
+- Mr. Der Kinderen
+- Der Kinderen
+- Mr. Dor Kinberen
+- Dor Kinberen
+- Dor Kin-deren (OCR)
+- Der Kinderen (Atjeh judiciary)
+- Der Kinderen bataviasche firmament
+tags:
+- person
+- colonial-official
+- dutch
+- scholar
+- jurist
+- administrator
+- author
+- colonial
+- official
+- 19th-century
+- atjeh
+- judiciary
+- snouck-hurgronje
+- van-den-berg
 ---
 **T. H. der Kinderen** was a Dutch jurist and colonial administrator, president of the two high courts of [[Netherlands India|Nederlandsch-Indië]], who rendered great service in the drafting of the *wetboek van strafrecht voor inlanders* (penal code for natives) established by [[ordonnantie]] of [[6 May]] [[1872]], which came into force on [[1 January]] [[1873]]. He was later appointed a member of the [[Council of Netherlands India|Raad van Nederlandsch-Indië]] and sent to [[Acheh|Atjeh]] in [[November 1880|November 1880]] as government commissioner for the reorganisation of justice in the possessions outside Java and Madura, where he remained until [[February 1881|February 1881]] and drafted the proposals for the regulation of justice that came into force with the [[Establishment of Civil Government in Aceh (6 April 1881)|administrative reorganisation of March 1881]]. The explanatory memorandum attached to the [[Ordinance of 14th March 1881|Ordinance of 14 March 1881]] (Ordonnantie of 19 March 1881) *with regard to the administration of justice among the native population of Great Acheh* (Batavia, 1881) was authored by der Kinderen.
 
@@ -52,6 +73,27 @@ The "golden age of Acheh in which 'the Mohammedan law prevailed'" — to which d
 - [[Agrarische wet]]
 - [[Conversiequaestie]]
 - [[Aceh War]]
+- [[Ordonnantie of 19 March 1881]]
+- [[Teuku Kali Malikon Ade|Teuku Kali]]
+- [[Great Acheh]]
+- [[Batavia]]
+- [[Establishment of the bale menhakamah (religious court)]]
+- [[Acheh]]
+- [[Banda Acheh]]
+- [[Nur al-Din al-Raniri|Pandit Raniri]]
+- [[Teuku Kali Malikon Ade|Kali Malikul-adil]]
+- [[Dalam]]
+- [[L. W. C. van den Berg]]
+- [[Verslag omtrent de religieus-politieke toestanden in Atjeh]]
+- [[De Atjehers (Snouck Hurgronje)]]
+- [[Bekendmaking Nederburgh]]
+- [[Van Dedem]]
+- [[Raad van Indië]]
+- [[Atjeh-oorlog]]
+- [[23 May]]
+- [[1892]]
+- [[1893]]
+- [[1894]]
 
 ## Sources
 
@@ -60,6 +102,20 @@ The "golden age of Acheh in which 'the Mohammedan law prevailed'" — to which d
 ---
 
 **T. H. der Kinderen** was a Dutch jurist and colonial administrator, president of the two high courts of [[Netherlands India|Nederlandsch-Indië]], who rendered great service in the drafting of the *wetboek van strafrecht voor inlanders* (penal code for natives) established by [[ordonnantie]] of [[6 May]] [[1872]], which came into force on [[1 January]] [[1873]]. He was later appointed a member of the [[Council of Netherlands India|Raad van Nederlandsch-Indië]] and sent to [[Acheh|Atjeh]] in [[November 1880|November 1880]] as government commissioner for the reorganisation of justice in the possessions outside Java and Madura, where he remained until [[February 1881|February 1881]] and drafted the proposals for the regulation of justice that came into force with the [[Establishment of Civil Government in Aceh (6 April 1881)|administrative reorganisation of March 1881]]. The explanatory memorandum attached to the [[Ordinance of 14th March 1881|Ordinance of 14 March 1881]] (Ordonnantie of 19 March 1881) *with regard to the administration of justice among the native population of Great Acheh* (Batavia, 1881) was authored by der Kinderen.
+**Mr. Der Kinderen** (more fully **Mr. T. H. Der Kinderen**) was a Dutch colonial official and author of the **Ordonnantie of 19 March 1881** concerning the administration of justice among the native population of Groot-Atjeh ([[Great Acheh]]), together with an explanatory memorandum published at [[Batavia]] in the same year. He is one of the principal targets of [[C. Snouck Hurgronje|Snouck Hurgronje]]'s criticism in Vol. I of *The Achehnese*, where his account of Achehnese institutions is repeatedly cited as an example of how not to study native custom.
+The most celebrated of Snouck Hurgronje's criticisms concerns Der Kinderen's manufacture of the term **"Musapat."** Deriving the word from the Achehnese *mupakat* ("to deliberate, to assemble together" — itself from the Arabic *mutawāfaqa*), Der Kinderen turned it into a substantive and altered the first vowel, presenting the "musapats" as native tribunals existing in Acheh. These tribunals, Snouck Hurgronje retorts, "belong to the realm of fancy." They were a figment of Der Kinderen's misreading, faithfully reproduced in the ordinance of [[1881]]. After the establishment of the Dutch government in [[Acheh]], real native tribunals were indeed set up under European guidance and came to be called by the name Der Kinderen had coined; but, as Snouck Hurgronje points out in a translator's bracketed note, these courts "differ greatly both in the manner of their constitution and their functions from the creations of Mr. Der Kinderen."
+A second celebrated error concerns the position of the [[Teuku Kali Malikon Ade|Teuku Kali]], whom Der Kinderen mistook for a "hereditary supreme judge" of the kingdom. This notion Snouck Hurgronje traces directly to Der Kinderen's chief guide, namely the [[Teuku Kali Malikon Ade|Teuku Kali]] himself, who, "for reasons not difficult to surmise," painted an idealised picture of the dignity of his office as it had been at the time of its first establishment some two and a half centuries earlier. Der Kinderen was thus "quite [mistaken] in finding anything extraordinary in the fact that the 'hereditary supreme judge' of the kingdom could neither read nor write": the Teuku Kali was in fact simply the uleebalang of twelve gampongs, and shared his illiteracy with many of his equals in rank.
+More generally, Snouck Hurgronje takes Der Kinderen to task for the method underlying his whole memorandum. Der Kinderen and his friends professed to find "no trace of popular customs in conflict with Islam" or of "a customary law having its existence in the consciousness of the people" — a conclusion which, Snouck Hurgronje observes, was "as natural as the disappointment of an angler who tries to catch salmon in a wash-tub." The "golden age of Acheh in which 'the Mohammedan law prevailed,'" or in which the [[Adat Meukuta Alam]] could be regarded as the fundamental law of the kingdom, "belongs to the realms of legend"; and it could only be reached by questioning informants who "apparently do not understand" the questions put to them, instead of by direct observation of the living unwritten law of the country.
+Snouck Hurgronje's repeated references to Der Kinderen — scattered through Vol. I wherever the discussion turns to courts, judges, or adat — together form a sustained methodological lesson: that the institutions of Acheh cannot be understood from ordinances and informant-testimony alone, but only from patient study of their actual operation in the gampongs and mukims of the country. The [[Ordonnantie of 19 March 1881]] itself, though abortive in its original intent, retained a perverse afterlife as the name-giver of the very courts it had failed to describe.
+**Mr. Dor Kinberen** (the surname appears in the OCR of *The Achehnese* as "Kin-deren") was the author of an "oft-quoted brochure" on Mohammedan learning in [[Acheh]], cited and criticised by [[C. Snouck Hurgronje|Snouck Hurgronje]] in Vol. I of *The Achehnese*. The brochure, by Snouck Hurgronje's account, gave an account of the state of Islamic learning in Acheh which he considered to be greatly exaggerated in its pessimism.
+In a passage of the chapter on the *ulamas* (p. 200), Snouck Hurgronje remarks: "We may here rest content with observing that Mr. Dor Kinberen (pp. 17–18 of his oft-quoted brochure) terribly exaggerates the decline of Mohammedan learning in Acheh." Snouck Hurgronje's correction is double-edged. He concedes that "those who wrote books on theology and law under the wealthy sultans in [[Banda Acheh]] were strangers whose influence outside Acheh was at least as noticeable as within it." That is to say, the great age of Achehnese letters, in the seventeenth century, was sustained chiefly by immigrant scholars such as [[Nur al-Din al-Raniri|Raniri]] and other Arab and Indian men of letters patronised at the court. But he insists that "there are in Acheh at the present time no less than formerly ulamas of native birth who compose works of learning and edification, sometimes in Malay and sometimes in Achehnese." The native tradition of composition, in short, has not died out, even if it has not replaced the earlier cosmopolitan learning of the capital.
+Snouck Hurgronje proceeds to reinforce his point by a striking historical observation: "At the time of the coming of the Dutch to Acheh there were numerous schools throughout the country; and it is a notorious fact that on more than one occasion the students from these schools threw themselves, practically unarmed, upon the bayonets of the Dutch troops." These youths, "inflamed to fanaticism by the teaching they had imbibed in regard to the holy war and the boundless recompense hereafter awaiting the martyr to his creed," furnish the most dramatic evidence that Mohammedan learning in Acheh, far from having declined into insignificance, retained an active and influential hold upon the youth of the country at the moment of the [[Aceh War|Dutch invasion]].
+The brochure of Dor Kinberen thus represents the view, common in some colonial circles, that the Islamic culture of Acheh had sunk into irreversible decay; Snouck Hurgronje's criticism of that view is one of the clearest expressions in Vol. I of his own, more nuanced, assessment of the vigour of native Achehnese religious life. Apart from this single notice, Dor Kinberen is not further discussed in the work; the "oft-quoted" brochure is presumably one of the many Dutch colonial publications of the late nineteenth century that treated Acheh as a problem to be solved rather than as a society to be understood.
+**Mr. T. H. Der Kinderen** was a Dutch colonial official and legal scholar who, in [[1881]], authored the *Ordonnantie van 19 Maart 1881* (Ordinance of 19 March 1881) concerning the administration of justice among the native population of Groot-Atjeh (Great Acheh), together with an accompanying explanatory memorandum (*memorie van toelichting*). The work was published at [[Batavia]] in that same year and became one of the principal early Dutch sources on the structure of Achehnese customary and religious law.
+Snouck Hurgronje draws heavily on Der Kinderen's ordinance in the chapters of *The Achehnese* devoted to the legal system of [[Acheh]] proper, but he is also at pains to correct what he regards as serious misapprehensions introduced by Der Kinderen's account. The most important of these concerns the so-called "supreme hereditary judge" of the kingdom, the [[Teuku Kali Malikon Ade|Teuku Kali]] bearing the title *Kali Malikon Ade* (from the Arabic *Qadlu Malikul Adil*, "Judge of the Righteous King"). Writers on Acheh had become accustomed, chiefly through Der Kinderen, to the notion that this dignitary stood enthroned above all other kalis of the land as a kind of chief justice of the realm.
+Snouck attributes this misleading picture to the fact that Der Kinderen's "chief guide in forming this conclusion was the bearer of the title himself". The Teuku Kali, "for reasons not difficult to surmise", is said to have told Der Kinderen tales regarding his exalted position that were in flagrant conflict with the truth, painting an idealised picture of the office as it had existed at the time of its first establishment — some two and a half centuries earlier — and passing it off as the actual state of things in the 1880s.
+In reality, as Snouck demonstrates, the office of [[Teuku Kali Malikon Ade]] had long since degenerated into a mere uleebalangship of twelve gampongs near the [[Dalam]] (the Sultan's court). Its holder could neither read nor write — a circumstance that Der Kinderen had treated as unremarkable in a "hereditary supreme judge", but which Snouck points to as proof of the complete secularisation of the office. The decay had been brought about by the hereditary character of the dignity, by the proximity of its holder to the court, and by the rapid collapse of central power in the sultanate. Snouck thus concludes that Der Kinderen "quite missed the mark" in his interpretation of the Teuku Kali's position, even though his ordinance remains an important — if partly misleading — record of Achehnese institutions at the moment of Dutch expansion.
+*Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, p. 18.
 
 ## The Penal Code for Natives, 1872
 

@@ -1,7 +1,22 @@
 ---
-title: "Toeankoe Abdul Medjid"
-aliases: ["Toeankoe Abdul Medjid", "Tuanku Abdul Majid", "Tuanku Abdul Mejid", "Abdul Medjid", "Abdul Majid", "Pretender Sultan Abdul Medjid", "Sultanstelg Abdul Medjid"]
-tags: [person, acehnese, royal, pretender, aceh-war, 19th-century, pensioner]
+title: Toeankoe Abdul Medjid
+aliases:
+- Tuanku Abdul Majid
+- Tuanku Abdul Mejid
+- Abdul Medjid
+- Abdul Majid
+- Pretender Sultan Abdul Medjid
+- Sultanstelg Abdul Medjid
+- Toewankoe Abdoel Madjid
+- the relative of the former sultans
+tags:
+- person
+- acehnese
+- royal
+- pretender
+- aceh-war
+- 19th-century
+- pensioner
 ---
 
 **Toeankoe Abdul Medjid** — also written *Tuanku Abdul Majid* — was an Atjehese royal pretender to the [[Sultanate of Aceh|Sultanate of Atjeh]] whose repeated submissions to the Dutch — in [[June 1887|June]] [[1887]], again in [[May 1885|May]] [[1885]], and on subsequent occasions — and whose successive Dutch pensions and allowances made him, in Kruijt's judgement, the most striking instance of the Dutch policy of buying off dangerous enemies. He is described as a Sultanstelg (pretender to the Sultanate) who had already deceived the Dutch before [[May 1885|May]] [[1885]] and who would later "steeds om den tuin geleid" (continually lead [the Dutch] around the garden — i.e., deceive them).
@@ -21,6 +36,14 @@ Under [[Deijkerhoff|Deijkerhoff]]'s governorship, Toeankoe Abdul Medjid, paid by
 ## Significance
 
 Toeankoe Abdul Medjid is the most striking instance in Kruijt's brochure of the Dutch policy of buying off dangerous enemies by pensions and allowances. His successive submissions — in [[May 1885|May]] [[1885]] and [[June 1887|June]] [[1887]] — and his successive Dutch payments — a gift of ƒ25,000 and a monthly allowance of ƒ400, then his continued pension in the 1890s — furnish the measure of the cost of the Dutch policy of conciliation; his continued depredations on the [[Westkust|West Coast]] under Dutch pension furnish the measure of its futility. His case is the precedent for the more catastrophic policy of arming [[Teuku Umar|Teuku Umar]] that would culminate in the [[Defection of Teuku Umar (March 1896)|defection of 29 March 1896]].
+
+
+## Sources
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, p. 71.
+---
+
+
+**Toewankoe Abdoel Madjid** (also written Tuanku Abdul Majid) was one of the family members of the former sultans of [[Acheh|Atjeh]] who, together with [[Toewankoe Haschim|Toewankoe Haschim]] and [[Toewankoe Hoesin|Toewankoe Hoesin]], attached himself to the war-party against the Dutch, and who was named by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the influential leaders of the resistance. The Toewankoe's — relatives of the former sultans — had, in General Pel's analysis, "rightly seen that they have nothing more to expect from a foreign overrule."
 
 ## See Also
 
@@ -42,6 +65,13 @@ Toeankoe Abdul Medjid is the most striking instance in Kruijt's brochure of the 
 - [[June 1887]]
 - [[1885]]
 - [[1887]]
+- [[Toewankoe Haschim]]
+- [[Toewankoe Hoesin]]
+- [[Panglima Polem|Panglima Polim]]
+- [[Imam of Longbatta]]
+- [[Toekoe Rajoet Lamkapang]]
+- [[J. L. J. H. Pel]]
+- [[Acheh Succession Dispute]]
 
 ## Source
 

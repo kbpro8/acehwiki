@@ -1,8 +1,42 @@
 ---
 title: Tjoet Nja Din
-aliases: [Cut Nyak Dhien, Cut Nyak Din, Tjoet Nja Dien, Nja Din, Tjoet Nyak Dhien]
-tags: [person, woman, aceh, aceh-war, westkust, 19th-century, 20th-century, resistance, oemar, achehnese, religious, women-leaders, diplomacy]
-description: "Third wife of Teukoe Oemar, 'een der grootste vrouwenfiguren' of the Aceh War; after Oemar's death in 1899 she took to the forests, blind, and held out for six years on infusion of wild banana stalk until betrayed to Veltman, stabbing at her betrayer with her rentjong and preserving her 'Kaphé' hatred to the end. In Kruisheer's ATJEH '96 she is identified as the daughter of Toekoe Nanta Tocha of the VI Moekims and the most important female agitator behind Umar's defection of 29 March 1896."
+aliases:
+- Cut Nyak Dhien
+- Cut Nyak Din
+- Tjoet Nja Dien
+- Nja Din
+- Tjoet Nyak Dhien
+- Toekoe Nja Din
+- Nja Din of the VI Moekims
+- Teungku Nja Din
+- Njadhin
+- Toekoe Nja Djin
+- wife of Toekoe Oemar
+- Nya Din
+tags:
+- person
+- woman
+- aceh
+- aceh-war
+- westkust
+- 19th-century
+- 20th-century
+- resistance
+- oemar
+- achehnese
+- religious
+- women-leaders
+- diplomacy
+- female-leader
+- acheh-war
+- vi-moekims
+description: Third wife of Teukoe Oemar, 'een der grootste vrouwenfiguren' of the
+  Aceh War; after Oemar's death in 1899 she took to the forests, blind, and held out
+  for six years on infusion of wild banana stalk until betrayed to Veltman, stabbing
+  at her betrayer with her rentjong and preserving her 'Kaphé' hatred to the end.
+  In Kruisheer's ATJEH '96 she is identified as the daughter of Toekoe Nanta Tocha
+  of the VI Moekims and the most important female agitator behind Umar's defection
+  of 29 March 1896.
 ---
 
 **Tjoet Nja Din** — modern *Cut Nyak Dhien*, also written *Tjoet Nyak Dhien* — was the third wife of [[Teukoe Oemar]] and, in Zentgraff's phrase, *een der grootste vrouwenfiguren* (one of the greatest female figures) of the time of action in [[1896]] and the years that followed. Her brother was T. Rajeu Nanta. After the fall of her husband near [[Meulaboh]] in [[February]] [[1899]] she chose the life of the forests over submission, and held on even as her following gradually melted away. In Kruisheer's *ATJEH '96* she is further identified as an [[Achehnese]] noblewoman, the daughter of [[Toekoe Nanta Tocha]] of the [[VI Moekims]] and one of the wives of [[Teuku Umar]], who figures as the most important female agitator behind Umar's defection from the [[Dutch]] colonial government on [[29 March]] [[1896]]. Kruisheer identifies her unambiguously as "one of the Dutch government's greatest opponents" who "continuously urged Oemar to resist the government, *just as zij zelve dat later nog lang volhield*" (as she herself continued to do for a long time afterward).
@@ -28,6 +62,10 @@ Kruisheer's account places Tjoet Nja Din at the very centre of the defection. Th
 Her hatred of the *kaphé* she carried to the end. Zentgraff pairs her with the wife of [[Tengkoe di Barat]] as the two supreme instances of Atjehsche feminine heroism: the widow who would not accept quarter from an unbeliever's hand, and the wife who put herself before her husband to receive the bullet meant for him. The figure of Tjoet Nja Din, blind, emaciated, striking out in the dark with her rentjong at the man who had bought her life, closes the great age of the Westkust resistance — and opens the long later history of her legend.
 
 Though Kruisheer devotes only a few sentences to Tjoet Nja Din, her role is presented as decisive: she is the figure who kept Umar committed to the path of defection when the political and military odds still favoured continued alliance with the Dutch, and she is the only woman in *ATJEH '96* given direct political agency. Her combination of aristocratic standing, religious credibility through the *oelama* network, and family ties to the VI Moekims made her a unique force within the resistance, and her survival beyond Umar's own death in [[1899]] would carry her resistance forward into the next decade. The brief portrait in *ATJEH '96* thus captures her at the moment of her historical emergence.
+
+
+## Sources
+*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 2–4 (Toekoe Oemar — Zijn Verraad).
 
 ## See Also
 
@@ -58,6 +96,12 @@ Though Kruisheer devotes only a few sentences to Tjoet Nja Din, her role is pres
 - [[1896]]
 - [[1899]]
 - [[Aceh War]]
+- [[Toekoe Oemar]]
+- [[Groot-Atjeh]]
+- [[Geconcentreerde linie]]
+- [[Toekoe Oemar's defection (1896)]]
+- [[Habib Long]]
+- [[Atjeh-Album (Eigen Haard, 1896)]]
 
 ## Source
 

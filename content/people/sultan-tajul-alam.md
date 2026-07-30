@@ -1,7 +1,45 @@
 ---
 title: Sultan Tajul-alam
-aliases: [Sapiatodin, the first sultana, Sultane of Aceh, Queen of Aceh, Sultana of Aceh, daughter of Iskander Moeda, Sultana of Atjeh, Taj ul-Alam, Safiatuddin Syah, Taj ul-Alam Safiatuddin Syah, Vorstin van Atjeh, Atjehsche sultane, Tadj al-alam Safïat ad-dïn Sjah, Taj al-Alam, first queen of Aceh, Tadjoel-Alam, Tadjoel-Alam Safijatoeddin]
-tags: [person, sultana, sultan, 17th-century, voc, treaty, achehnese, precolonial, diplomacy, colonial, dutch]
+aliases:
+- Sapiatodin
+- the first sultana
+- Sultane of Aceh
+- Queen of Aceh
+- Sultana of Aceh
+- daughter of Iskander Moeda
+- Sultana of Atjeh
+- Taj ul-Alam
+- Safiatuddin Syah
+- Taj ul-Alam Safiatuddin Syah
+- Vorstin van Atjeh
+- Atjehsche sultane
+- Tadj al-alam Safïat ad-dïn Sjah
+- Taj al-Alam
+- first queen of Aceh
+- Tadjoel-Alam
+- Tadjoel-Alam Safijatoeddin
+- Sultana of Atjeh (1641)
+- Atjehsche Koningin
+- Sultanah Taj ul-Alam
+- Ratu Atjeh
+- the widow of Iskander Tsani
+- the Queen of Atjeh
+- Tadj al-alam Safiat ad-din Sjah
+- Tadjoel-Alam Safijatoeddin Sjah
+tags:
+- person
+- sultana
+- sultan
+- 17th-century
+- voc
+- treaty
+- achehnese
+- precolonial
+- diplomacy
+- colonial
+- dutch
+- atjehnese
+- female-rule
 ---
 
 **Sultan Tajul-alam** — also known as **Sapiatodin** (Safiatuddin Syah), in [[J. Kreemer|J. Kreemer]]'s spelling **Tadjoel-Alam Safijatoeddin** (*Tadj al-alam Safïat ad-dïn Sjah*), and remembered in Achehnese tradition as the **first sultana** — ruled [[Acheh|Atjeh]] from [[1641]] until [[1675]]. She is one of the four monarchs whose names recur on virtually every *chab sikureu'eng* — the [[Sarakata|ninefold seal]] of the sultans of Acheh — and her mediation (*afwah*) is invoked in the preamble of sultans' letters patent (*sarakata*). In Dr. F. W. Stapel's *Geschiedkundige Atlas van Nederland* she is unnamed but constantly referred to as the *sultane van Atjeh*, the *vorstin van Atjeh*, or simply *de Atjehsche sultane*: the woman with whom the [[Vereenigde Oost-Indische Compagnie|Compagnie]] negotiated every major settlement between [[1641]] and her death in [[1675]]. Kreemer, in his *Atjèh* ([[1923]]), goes further and identifies her accession in [[1641]] as "the first step of Atjèh's decline" from its zenith under [[Sultan Iskandar Muda|Iskandar Moeda]].
@@ -121,6 +159,25 @@ Tajul-alam's reign, on the VOC-treaty account, represents a period of pragmatic 
 - [[1660]]
 - [[1663]]
 - [[1675]]
+- [[Iskander Muda]]
+- [[Pieter Soury]]
+- [[Pieter Soury's mission to Atjeh (1641)]]
+- [[Atjehsche ambassade ceremony (1 July 1641)]]
+- [[Jan van Riebeeck]]
+- [[Atjehsche feestjas]]
+- [[Orangkaja]]
+- [[Panglima]]
+- [[Sabandaar]]
+- [[Tayl]]
+- [[Maagden als losprijs]]
+- [[Eunuchs of Atjeh court]]
+- [[Francisco de Souza de Castro]]
+- [[Acheh]]
+- [[Aceh]]
+- [[Sultan Iskandar Moeda]]
+- [[Vrouwenregeering]]
+- [[Tjab sikoereuëng]]
+- [[1699]]
 
 ## Sources
 
@@ -133,3 +190,5 @@ Tajul-alam's reign, on the VOC-treaty account, represents a period of pragmatic 
 *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen (Amsterdam: N.V. Swets & Zeitlinger, 1932), on the Soury embassy of 1641 and the proposal to elevate a Dutchman to prince-consort.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+*Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapters XI–XII ("Atjehsche ambassade. Inlandsche feesten. Maagden als losprijs"; "Juweelenhandel. Heeren Zeventien. Familieregeering"), pp. 39–47 of the numbered-letter sequence.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.

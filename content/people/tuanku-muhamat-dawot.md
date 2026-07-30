@@ -1,7 +1,65 @@
 ---
 title: Tuanku Muhamat Dawot
-aliases: [Tuanku Muhamat Dawot, Sultan Muhamat Dawot Shah, Sultan Alaedin Muhamad Daud Shah Juhan, Tuanku Dawot, the Pretender Sultan, Moehamat Dawöt, Mohammad Daud, Muhammad Dawud, Tëngku Muhammad Dawod, Toeankoe Mohamad Daoed, Mohamad Daoed, Pretendent Sultan, last pretender Sultan of Aceh, T. Radja Pakèh Moehamat Dawöt]
-tags: [person, sultan, pretender, 19th-century, 20th-century, achehnese, colonial, atjeh, aceh-war, succession]
+aliases:
+- Sultan Muhamat Dawot Shah
+- Sultan Alaedin Muhamad Daud Shah Juhan
+- Tuanku Dawot
+- the Pretender Sultan
+- Moehamat Dawöt
+- Mohammad Daud
+- Muhammad Dawud
+- Tëngku Muhammad Dawod
+- Toeankoe Mohamad Daoed
+- Mohamad Daoed
+- Pretendent Sultan
+- last pretender Sultan of Aceh
+- T. Radja Pakèh Moehamat Dawöt
+- Sultan Muhamat Dawot
+- Alaedin Muhamad Daud Shah
+- Moehamat Dawöt (Pretendent Sultan)
+- Pretendent-sultan van Atjeh
+- pretendent-sultan
+- the pretender sultan of Atjeh
+- zoogenaamde pretendent-sultan
+- Pretender Sultan
+- de pretendent sultan
+- Toeankoe Mohamed Daoed
+- Tuanku Muhammad Daud
+- Sultan Muhammad Daud Syah
+- Tuanku Mohamed Daoed
+- Sultan Daoed
+- Mohamed Daoed
+- Sultan Muhammad Daud
+- Toewankoe Daoed
+- Toewankoe Dawet
+- Toewankoe Daoed of Keumala
+- the young pretender to the sultanate of Atjeh
+- Toekoe Moehamat Dawot
+- Sultan Toeankoe Moehamat Dawot
+- Muhammad Dawot
+- Tuanku Muhammad Dawot Shah
+- Sultan Dawot
+tags:
+- person
+- sultan
+- pretender
+- 19th-century
+- 20th-century
+- achehnese
+- colonial
+- atjeh
+- aceh-war
+- succession
+- 1897
+- resistance
+- religious
+- acehnese
+- royal
+- resistance-leader
+- kemala
+- royalty
+- political
+- acheh
 ---
 
 **Tuanku Muhamat Dawot** — in Kreemer's spelling **Moehamat Dawöt** (also **Mohammad Daud** / **Muhammad Dawud**), in full **Sultan Alaedin Muhamad Daud Shah Juhan**, also written **Sultan Muhamat Dawot Shah** — was the last pretender to the sultanate of [[Acheh|Atjèh]]. Proclaimed sultan as a child in [[1878]] (1296 H, as inscribed on his [[Sarakata|ninefold seal]]) on the death of [[Sultan Mahmut Shah|Sultan Mahmut Shah]] shortly after the [[Loss of the Dalam|loss of the Dalam]] / [[Capture of the Kraton (24 January 1874)|fall of the kraton]] on [[24 January]] [[1874]], he was raised under the guardianship of [[Tuanku Asem|Tuanku Asem]] (Hashim) and maintained for more than two decades a wandering "court" at [[Keumala|Keumala]] and elsewhere in Pidië territory. He finally submitted to the Dutch Government in [[1903]] — effectively ending the Atjèh sultanate — and was banished in [[1907]]. For his formal style and letters patent, see [[Sultan Alaedin Muhamad Daud Shah Juhan]].
@@ -131,6 +189,73 @@ Toeankoe Mohamad Daoed's significance in Van Heutsz's narrative is that of the s
 - [[1903]]
 - [[1907]]
 - [[1914]]
+- [[Tuanku Muhamat Dawot]]
+- [[Sultan Ibrahim Mansur Shah|Sultan Mansur Shah]]
+- [[Sarakata|Sarakata with chab sikureu'eng]]
+- [[Submission of Tuanku Muhamat Dawot]]
+- [[Aceh]]
+- [[Sultan Mantsoer Sjah]]
+- [[Generaal van Swieten]]
+- [[Toeankoe Machmoed Radja Keumala]]
+- [[Bahlmann]]
+- [[J. T. Cremer]]
+- [[Pieter Jelles Troelstra]]
+- [[Kamala]]
+- [[Teuku Umar]]
+- [[Restoration of the sultanate of Atjeh (proposal)]]
+- [[C. Snouck Hurgronje]]
+- [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
+- [[1897]]
+- [[Toeankoe Machmoed]]
+- [[Toeankoe Brahim]]
+- [[Polém]]
+- [[Aceh Sultanate]]
+- [[Habib Lhong]]
+- [[Anao-Galong]]
+- [[Panteh-Karang]]
+- [[Toekoe Moeda Baid]]
+- [[Tuchtiging der V Moekims Montassik (16–17 June 1896)]]
+- [[Aceh War]]
+- [[Restoration of the Sultanate (1885-1896)]]
+- [[Sultanate of Aceh]]
+- [[Sultan of Aceh]]
+- [[Toeankoe Hasschim]]
+- [[Toeankoe Abdul Medjid]]
+- [[Kemala-party]]
+- [[Kwalla Batoe]]
+- [[Pedir]]
+- [[Giegieng]]
+- [[Panglima Polim]]
+- [[Tengkoe di Tirou]]
+- [[Imam Longbattah]]
+- [[Toekoe Oemar]]
+- [[Demmeni]]
+- [[General van Teijn]]
+- [[Pompe van Meerdervoort]]
+- [[Deijkerhoff]]
+- [[Vetter]]
+- [[Defection of Teuku Umar (March 1896)]]
+- [[Singkel]]
+- [[Westkust]]
+- [[Atjeh-oorlog]]
+- [[1885]]
+- [[August 1888]]
+- [[December 1894]]
+- [[Toewankoe Haschim]]
+- [[Aladin Mahmood Shah]]
+- [[Death of Sultan Aladin Mahmood Shah]]
+- [[Van Swieten's Proclamation of 31 January 1874]]
+- [[Panglima Polem|Panglima Polim]]
+- [[Imam of Longbatta]]
+- [[Radja Koelala]]
+- [[Selimoen Expedition (August 1879)]]
+- [[Acheh Succession Dispute]]
+- [[Election of Sultan Muhamat Dawot Shah]]
+- [[Padang Tidji]]
+- [[Panglima Polém]]
+- [[Batèë]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[Acheh]]
 
 ## Sources
 
@@ -139,3 +264,13 @@ Toeankoe Mohamad Daoed's significance in Van Heutsz's narrative is that of the s
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 26, 31, 40. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+---
+**Sultan Alaedin Muhamad Daud Shah Juhan** — pronounced in Achehnese **Muhamat Dawot Shah Juhan**, and commonly called **Tuanku Muhamat Dawot** — was the last pretender to the sultanate of [[Acheh]]. Elected Sultan in 1296 H (A.D. [[1879]]) as a child, he was the son of [[Sultan Ibrahim Mansur Shah|Sultan Alaedin Manso Shah Juhan]] (reigned 1838–70); he maintained a wandering "court" first at [[Keumala]] and then in various refuges, until his [[Submission of Tuanku Muhamat Dawot|submission]] to the Dutch Government in January [[1903]]. For his biography and conduct during the [[Achehnese War|war]], see [[Tuanku Muhamat Dawot]]; this article treats of the formal style, seals, and letters patent under which he acted, as illustrated in Chapter I of Vol. I.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 29–30, 35, 58.
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 219, 297, 308, 318.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX (the proclamation), Chapter X (the 1888 visit and the Dutch pursuit), Chapter XII (the 1894 flight and the 1896 counter-offensive). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 49–50, 56, 68, 74.
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, p. 108.
+**Toewankoe Daoed** (also written Tuanku Dawot, Toewankoe Daoed) was the young pretender to the sultanate of [[Acheh|Atjeh]] destined for the sultan's rank in [[1874]], after the [[Death of Sultan Aladin Mahmood Shah|death of Sultan Aladin Mahmood Shah]] on [[26 January]] [[26 January]] [[1874]], and kept under the guardianship of [[Toewankoe Haschim|Toewankoe Haschim]] at [[Keumala|Keumala]] (or [[Kemala|Kemala]]), in the interior south of [[Pedir|Pedir]]. After the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August [[1879]] he and his guardian fled with the other irreducible hostile chiefs beyond the reach of the Dutch troops.
+H. T. Damsté, "Drie Atjeh-Mannen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), p. 364.

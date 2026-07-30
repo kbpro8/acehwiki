@@ -1,7 +1,54 @@
 ---
-title: "Toekoe Moeda Baid"
-aliases: ["Toekoe Moeda Baid", "Toekoe", "Moeda", "Baid", "Tunku", "Muda", "the", "head", "of", "VII", "Moekims", "in", "Sagi", "XXII", "Toekoe Baid", "Teukoe Moeda Baid", "Tekoe Moeda Baid", "Tëngku Meudé Baid", "the powerful chief of the VII Moekims", "Tjut Meutia's brother", "Toekoe Baid of the VII Moekims", "Oeloebalang of the VII Moekims", "half-brother of Toekoe Tjoet Machmoed", "T. Moeda Baid", "T. Baid", "Teuku Baid", "Toekoe Baid in exile"]
-tags: [person, uleebalang, acehnese, achehnese, atjeh, aceh-war, diplomacy, military, resistance-leader, sagi-under-head, 19th-century, chief, exile, resistance]
+title: Toekoe Moeda Baid
+aliases:
+- Toekoe
+- Moeda
+- Baid
+- Tunku
+- Muda
+- the
+- head
+- of
+- VII
+- Moekims
+- in
+- Sagi
+- XXII
+- Toekoe Baid
+- Teukoe Moeda Baid
+- Tekoe Moeda Baid
+- Tëngku Meudé Baid
+- the powerful chief of the VII Moekims
+- Tjut Meutia's brother
+- Toekoe Baid of the VII Moekims
+- Oeloebalang of the VII Moekims
+- half-brother of Toekoe Tjoet Machmoed
+- T. Moeda Baid
+- T. Baid
+- Teuku Baid
+- Toekoe Baid in exile
+- Teukoe Moeda Baid Setia Maharadja
+- Teuku Muda Baid Setia Maharadja
+- Baid Setia Maharadja
+- Oeloebalang van de VII moekims
+- Uleebalang of the VII Mukims
+tags:
+- person
+- uleebalang
+- acehnese
+- achehnese
+- atjeh
+- aceh-war
+- diplomacy
+- military
+- resistance-leader
+- sagi-under-head
+- 19th-century
+- chief
+- exile
+- resistance
+- colonial
+- dutch
 ---
 
 **Toekoe Moeda Baid** — also written *T. Moeda Baid*, *T. Baid* — was the [[Uleebalang|hoeloebalang]] (hereditary territorial chief) of the [[VII Mukims|VII Mukims]] in the [[XXII Moekims|Sagi der XXII Moekims]] of [[Acheh|Atjeh]], who [[Submission of Toekoe Moeda Baid (14 October 1878)|submitted to the Dutch on 14 October 1878]] — the day after the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman]] — but whose subsequent conduct appeared more and more treacherous, leading to his arrest on [[9 May]] [[9 May]] [[1879]], his transportation to Batavia in July [[1879]], and his banishment by the Governor-General to [[Banda|Banda]].
@@ -187,6 +234,10 @@ The source records nothing further of Toekoe Baid's territory, his part in the w
 - [[Prang Sabil]]
 - [[Teuku]]
 - [[1897]]
+- [[Uleebalang]]
+- [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen]]
+- [[Granting of Dutch coat of arms chain to Baid Setia Maharadja (1888)]]
+- [[Revocation of Baid Setia Maharadja's honours (1896)]]
 
 ## Sources
 
@@ -199,3 +250,4 @@ The source records nothing further of Toekoe Baid's territory, his part in the w
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 67–68.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+*Gids voor den bezoeker van de schatkamer*, Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen, Batavia, 1928. Druk: Ruygrok & Co., Batavia. Cabinet 5 (Atjeh), item 31.

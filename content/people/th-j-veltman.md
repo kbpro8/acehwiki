@@ -1,7 +1,30 @@
 ---
-title: "Th. J. Veltman"
-aliases: ["Veltman", "Theodorus J. Veltman", "kapitein Veltman", "Th. J. Veltman Ridder 3e kl. M.W.O."]
-tags: [person, dutch, colonial-administrator, military, civiel-gezaghebber, pidie, knil, marechaussee, aceh, tapa-toean, meulaboh, 20th-century]
+title: Th. J. Veltman
+aliases:
+- Veltman
+- Theodorus J. Veltman
+- kapitein Veltman
+- Th. J. Veltman Ridder 3e kl. M.W.O.
+- Gen. Maj. tit. Veltman
+- Toean Padoman
+- Ton Padoman
+- Toean Padoman Veltman
+tags:
+- person
+- dutch
+- colonial-administrator
+- military
+- civiel-gezaghebber
+- pidie
+- knil
+- marechaussee
+- aceh
+- tapa-toean
+- meulaboh
+- 20th-century
+- officer
+- aceh-war
+- westkust
 ---
 
 Th. J. Veltman was a Dutch colonial official who held the dual position of *Majoor der Infanterie* (Major of the Infantry) and *Civiel Gezaghebber van de onderafdeeling Pidië* (Civil Authority Holder of the Pidië sub-district) during the period of the [[Bestuursreorganisatie Sumatra (1913-1914)]]. This combination of military rank and civil administrative responsibility was a distinctive feature of the governance system in the [[Gouvernement Atjeh en Onderhoorigheden]], reflecting the unique conditions that had prevailed in Atjeh since the beginning of Dutch military operations in 1873. Veltman was present at the *bestuursvergaderingen* (administrative meetings) held at [[Koeta-Radja]] on [[19 January]] [[1914]] and [[20 January]] [[1914]], though no recorded remarks from him appear in the official minutes. His presence at these high-level deliberations nonetheless underscores the importance of the Pidië sub-district within the broader administrative and strategic landscape of Atjeh.
@@ -22,6 +45,10 @@ In the sub-division [[Tapa' Toean]], where Veltman held both the administration 
 
 The action of the *marechaussée* soon produced the necessary submissions. In June T. Bén's eldest son submitted with a hundred followers and nine rifles; a few weeks later T. Bén himself gave up the resistance with two other sons and 160 men and brought another nine rifles "to the arms store of the [[Kompeuni|Company]]." In August all the band-heads of [[Tgk. Pidië]] came in submission at the bivouac [[Reusa']] — forty-seven men with fourteen firearms; in September seventy-nine more submissions with eight rifles followed, and the important [[Tgk. Imeum Sradeuë']] fell with four followers. In August the remainder submitted with eleven more rifles, except [[Panglima Nja Noer]], who chose the end as a witness of the faith and fell in the [[Gajò Loeös]] in November. Towards the end of the year T. Bén brought his two last wandering sons to the administration — "and Tapa' Toean became quiet again." That quiet was maintained in [[1909]], though disturbed now and then by incursions of bands from the neighbouring [[Gajòland]].
 
+
+## Sources
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
 ## See Also
 
 - [[T. Bén Blang Pidië]]
@@ -30,6 +57,24 @@ The action of the *marechaussée* soon produced the necessary submissions. In Ju
 - [[Sigli]]
 - [[Corps of Military Constabulary of Atjeh and Dependencies]]
 - [[Westkust van Atjeh]]
+- [[Potjoet Meurah]]
+- [[Potjoet Barin]]
+- [[Tjoet Nja Din]]
+- [[Waki Wahab]]
+- [[Schmidt]]
+- [[Pawang rimoeëng]]
+- [[Rantej boei]]
+- [[Tengkoe Tjot Plieëng]]
+- [[G.C.E. van Daalen|Van Daalen]]
+- [[Lhong]]
+- [[Pidië]]
+- [[Westkust]]
+- [[Tapa Toean]]
+- [[Oud-Wassenaar]]
+- [[Sumatraantjes]]
+- [[1904]]
+- [[1930]]
+- [[Aceh War]]
 
 ## Source
 

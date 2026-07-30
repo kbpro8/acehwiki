@@ -1,7 +1,106 @@
 ---
-title: "Teukoe Oemar"
-aliases: ["Teuku Umar", "T. Oemar", "The Cunning Adventurer", "Teukoe Johan", "Teuku Johan", "Tjut Meutia's husband", "Teuku Uma", "Tuku Umar", "Toekoe Oemar", "the betrayal of Toekoe Oemar", "Panglima Toekoe Oemar", "T. Djohan", "Toekoe Djohan Pahalawan", "Toekoe Melaboeh", "T. Oemar Melaboch", "Teungkoe Oemar", "Teukoe Oemar Keumangan", "Oemar Keumangan", "oeléebalang of Keumangan", "Teukoe Oemar van een oud en aanzienlijk geslacht", "Panglima Prang Besar", "Teukoe Oemar van Meulaboh"]
-tags: [person, acehnese, achehnese, resistance, aceh, turncoat, aceh-war, military-leader, colonial, 19th-century, traitor-or-patriot, military, sultanate, religious, succession, defection, oeleebalang, keumangan, pidie, bengaleesche-afkomst, houtsnijkunst, oelèëbalang, westkust]
+title: Teukoe Oemar
+aliases:
+- Teuku Umar
+- T. Oemar
+- The Cunning Adventurer
+- Teukoe Johan
+- Teuku Johan
+- Tjut Meutia's husband
+- Teuku Uma
+- Tuku Umar
+- Toekoe Oemar
+- the betrayal of Toekoe Oemar
+- Panglima Toekoe Oemar
+- T. Djohan
+- Toekoe Djohan Pahalawan
+- Toekoe Melaboeh
+- T. Oemar Melaboch
+- Teungkoe Oemar
+- Teukoe Oemar Keumangan
+- Oemar Keumangan
+- oeléebalang of Keumangan
+- Teukoe Oemar van een oud en aanzienlijk geslacht
+- Panglima Prang Besar
+- Teukoe Oemar van Meulaboh
+- Juhan Pahlawan
+- Teuku Unia
+- Uma
+- Oemar of Keumangan
+- Teuku Umar of Keumangan
+- T. Djohan Pahlawan
+- Teuku Johan Pahlawan
+- Djohan Pahlawan
+- Tjut Nyak Dhien's husband
+- Tengku Oemar
+- the Oemar of the 1896 defection
+- Toekoe Umar
+- Teuku Omar
+- Atjehnese ally-defector of the Dutch
+- Oemar
+- Teukoe Oema (Teuku Uma)
+- Teukoe Oema
+- Teuku Oema
+- Oema
+- the convert from Dutch ally to Atjèhnese enemy
+- Omar
+- Umar ibn al-Khattab
+- the second Caliph
+- Amir al-Mu'minin
+- Great War Commander
+- Panglima Perang Besar
+- Teuku Djoehan Pahlawan
+- Teuku Djohan Pahlawan
+- Djoehan Pahlawan
+- Johan the Champion
+tags:
+- person
+- acehnese
+- achehnese
+- resistance
+- aceh
+- turncoat
+- aceh-war
+- military-leader
+- colonial
+- 19th-century
+- traitor-or-patriot
+- military
+- sultanate
+- religious
+- succession
+- defection
+- oeleebalang
+- keumangan
+- pidie
+- bengaleesche-afkomst
+- houtsnijkunst
+- oelèëbalang
+- westkust
+- warrior
+- panglima
+- war-leader
+- west-coast
+- resistance-leader
+- commander
+- defector
+- acheh
+- achehnese-resistance
+- killed-in-action
+- atjehnese
+- atjeh-oorlog
+- political
+- xxii-mukims
+- religious-figure
+- islam
+- caliph
+- companion-of-the-prophet
+- concept
+- diplomacy
+- teuku-umar
+- deijkerhoff
+- pahlawan-klucht
+- title
 ---
 
 **Teukoe Oemar** (also rendered **Teuku Umar**) was an Acehnese military leader and chief whose defection from the colonial army on [[29 March]] [[1896]] — the *verraad van Toekoe Oemar* — is identified by two colonial sources as one of the defining events of the [[Atjeh-oorlog|Aceh War]]. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), he is "the cunning adventurer" whose defection opened the critical days that preceded the glorious period of [[Joannes Benedictus van Heutsz|Van Heutsz]]; in the Encyclopaedisch Bureau's *De Buitenbezittingen 1904 tot 1914* ([[1917]]), his betrayal is the originating event of the "new direction" in Dutch policy that would lead to the [[Pacificatie van Atjeh|complete pacification of Atjeh]] and the wider extension of Dutch "effective authority" across the outer possessions.
@@ -156,6 +255,32 @@ The population of [[Groot Atjeh]] had, [[Maurice Henri du Croo|du Croo]] noted i
 
 Teukoe Oemar's defection was the event that discredited the whole policy of conciliation without power and made possible the appointment of van Heutsz, and thereby the entire course of Dutch policy in Atjeh from [[1898]] to [[1918]].
 
+
+## Sources
+*The Achehnese*, Vol. I & II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), Plate 4, Fig. 2 (caption: "Monumentje op de plek, waar Toekoe Oemar sneuvelde; nabij Meulabôh").
+
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I, §§ 2–3.
+
+*J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 24, 294–295. Rijksarchief, Den Haag.
+---
+
+**Teuku Uma** (also written **Teuku Umar**, Dutch sources *Teukoe Oemar*) was an Acehnese guerrilla leader and the most celebrated adventurer of the later [[Aceh War]], a "priman" (freeman) without hereditary office or territory who rose through cunning, intrigue, and military skill to become, for a time, the most powerful native ruler in the country. His career — encompassing a sensational apparent submission to the Dutch in [[1893]], years of manipulation of colonial resources, open defection in March [[1896]], and final defeat and death near [[Meulaboh]] in [[1899]] — became a touchstone for Dutch debates about Acehnese policy, and his story is told across multiple accounts that testify to his importance from every angle of the war.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX (West Coast supremacy), Chapter X (1888 appointment), Chapter XII (the Pahlawan-klucht and the defection), Chapter XIII (Kruijt's judgement). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 50, 56, 68–74.
+*De Geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, by C. J. O. DORREN, 1948, pp. 115‑117 (page 16 of the OCR source).
+*Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-270.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Vijfde en Zesde tijdvak, blz. 23, 24–25.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+**Omar** (Arabic **ʿUmar**, also rendered **Oemar** in older Dutch orthography) — properly **ʿUmar ibn al-Khaṭṭāb**, the second of the four **Rāshidūn** caliphs and one of the four Companions of the Prophet — appears in Vol. I of *The Achehnese* chiefly as one of the four "rightly-guided" successors of [[Mohammad (the Prophet)|Mohammad]] whose blessing is invoked in the prelude of the *sarakata* or royal edicts of [[Acheh]].
+In a passage transcribed by [[C. Snouck Hurgronje|Snouck Hurgronje]] from a typical Achehnese sarakata, the Sultan's letter-patent opens with the formula: *"On the 4th day of the month Rabīʿ al-Awwal, being Monday, with the help of Allah the omniscient King, and with the blessing of the Prophet, the Lord of Men, and of his four companions, which be Abu Bakr, Omar, Uthman and Ali (may they be pleasing unto Allah)."* The four names — [[Abu Bakr|Abu Bakr]], Omar, [[Uthman|Uthman]] and [[Ali|Ali]] — are the four *Rāshidūn* caliphs of Sunni Islam, who succeeded Mohammad in succession: Abu Bakr (632–634), Omar (634–644), Uthman (644–656) and Ali (656–661). The invocation of their blessing at the head of a royal edict of Acheh exemplifies the manner in which the Achehnese sultans sought to invest their decrees with the highest religious authority available in the Sunni tradition.
+The second caliph is especially remembered in Islamic history for the vast extension of the Arab empire under his rule, for his codification of administrative practice, and for his reputation of strict and even-handed justice. In the Malay-Indonesian world his name is preserved in innumerable personal names — including the Achehnese "Oemar" — and is associated, in popular religious literature, with the heroic age of Islam. The story of his conversion, his severity in judgement, and his assassination by a Persian slave are familiar to every Achehnese child through the medium of Malay and Achehnese hikayat.
+The companions of the Prophet are not, in [[Acheh|Achehnese]] devotional life, the objects of any distinct cult of their own; their place is rather in the formal prelude of documents, in the formulae of prayer, and in the customary enumeration of the blessed first generation of Islam. The Shi'ite veneration of [[Ali]] at the expense of the first three caliphs, so marked in Persia and in parts of British India, has never taken root in Acheh, which adheres uniformly to the Shāfiʿī school of Sunni jurisprudence. The four Companions accordingly appear together, in the formula transcribed by Snouck Hurgronje, as the common object of the sultan's invocation; and the equal honour paid to Omar with the other three is one of the marks of Achehnese orthodoxy.
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 14, 19–20, 26, 42, 82, 217, 341, 346.
+*Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, p. 26.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter XII. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 69.
+
 ## See Also
 
 - [[15e Bataljon]]
@@ -287,6 +412,113 @@ Teukoe Oemar's defection was the event that discredited the whole policy of conc
 - [[Joannes Benedictus van Heutsz]]
 - [[Toeankoe Mochamad Dawot]]
 - [[Atjeh van 1890 tot 1898]]
+- [[C. Snouck Hurgronje|Snouck Hurgronje]]
+- [[Korte Verklaring]]
+- [[Pacification of Aceh]]
+- [[West Coast (of Acheh)]]
+- [[Meulabôh]]
+- [[Great Acheh]]
+- [[VI Mukims]]
+- [[Teuku Nanta Seutia]]
+- [[Teungku Tiro (Muhamat Amin)]]
+- [[Teungku Tiro]]
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
+- [[Hok Canton Incident]]
+- [[General Deykerhoff]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
+- [[Chut Din]]
+- [[Van der Wijck]]
+- [[Acehnese resistance]]
+- [[Sigli]]
+- [[Teungkoe Moehamad Daoed Beureu-éh]]
+- [[Oelèëbalang]]
+- [[Lam Meuló]]
+- [[Poesa]]
+- [[Glé Radja]]
+- [[Oelèë Lheuë]]
+- [[Koeta Radja]]
+- [[Penang]]
+- [[Westkust van Atjeh]]
+- [[1881]]
+- [[1886]]
+- [[1898]]
+- [[1938]]
+- [[1942]]
+- [[Defection of Teuku Umar (March 1896)]]
+- [[Pahlawan-klucht]]
+- [[T. Djohan Pahlawan]]
+- [[Deijkerhoff]]
+- [[Kroesen]]
+- [[General van Teijn]]
+- [[Demmeni]]
+- [[Tengkoe di Tirou]]
+- [[Tengkoe Mohamed Amin]]
+- [[Toekoe Nja Makam]]
+- [[Toeankoe Abdul Medjid]]
+- [[Nja Makam]]
+- [[Sultan of Aceh]]
+- [[Kemala]]
+- [[Kaloet]]
+- [[Lamkrah]]
+- [[4 and 6 Moekims]]
+- [[Westkust]]
+- [[Hok Canton affair]]
+- [[Singkel]]
+- [[Oleh-leh]]
+- [[Atjeh-oorlog]]
+- [[Muslemin]]
+- [[Van Rees]]
+- [[Vetter]]
+- [[June 1886]]
+- [[August 1888]]
+- [[December 1892]]
+- [[10 August]]
+- [[30 September]]
+- [[August 1893]]
+- [[August 1894]]
+- [[March 1896]]
+- [[1892]]
+- [[Abraham Kuyper]]
+- [[Alasland]]
+- [[Atjeh]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[Concentration system in Atjeh]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Gajoland]]
+- [[H. B. van Kol]]
+- [[I. D. Fransen van de Putte]]
+- [[J. B. van Heutsz]]
+- [[J. T. Cremer]]
+- [[Melaboeh]]
+- [[Na 1795 (1924)]]
+- [[General Vetter]]
+- [[Pedirse]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
+- [[Teungku Malem]]
+- [[Toekoe Oemar's defection (1896)]]
+- [[1904]]
+- [[Acheh]]
+- [[XXII Mukims]]
+- [[Nisero affair (1883-1885)]]
+- [[Laging Tobias]]
+- [[Oema-periode (1893-1896)]]
+- [[Teukoe Nanta Seutia]]
+- [[klewang]]
+- [[Mohammad (the Prophet)]]
+- [[Abu Bakr]]
+- [[Uthman]]
+- [[Ali]]
+- [[Sarakata (royal edicts of Acheh)]]
+- [[Teuku Umar]]
+- [[Panglima]]
+- [[Panglima Sagi]]
+- [[Hoeloebalang]]
+- [[Subjection of Teuku Umar (30 September 1893)]]
+- [[Dismission of Teuku Umar (26 April 1896)]]
+- [[Government Resolution of 5 September 1893, No. 1 geheim]]
+- [[Government Resolution of 26 April 1896 No. 159/11]]
+- [[Besluit of 9 May 1896]]
+- [[25 August]]
 
 ## Source
 

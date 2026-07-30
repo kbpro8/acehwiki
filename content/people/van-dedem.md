@@ -1,7 +1,30 @@
 ---
-title: "Van Dedem"
-aliases: ["Van Dedem", "Baron Van Dedem", "Minister Van Dedem", "Minister van Koloniën Van Dedem", "Van Dedem (colonies minister)"]
-tags: [person, dutch, politician, minister, 19th-century, snouck-hurgronje, deijkerhoff, van-der-wijck, minister-of-colonies, atjeh, queen-regent]
+title: Van Dedem
+aliases:
+- Baron Van Dedem
+- Minister Van Dedem
+- Minister van Koloniën Van Dedem
+- Van Dedem (colonies minister)
+- W. K. Baron van Dedem
+- W. K. van Dedem
+- Mr. W. K. Baron van Dedem
+tags:
+- person
+- dutch
+- politician
+- minister
+- 19th-century
+- snouck-hurgronje
+- deijkerhoff
+- van-der-wijck
+- minister-of-colonies
+- atjeh
+- queen-regent
+- colonial
+- 1891
+- 1892
+- aceh-war
+- minister-van-kolonien
 ---
 
 **Van Dedem** — *Baron Van Dedem* — was the Dutch minister of colonies to whom the criticised gentlemen [[L. W. C. van den Berg|Van den Berg]] and [[Der Kinderen|Der Kinderen]] went to audience to protest against the publication by the government of [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *[[De Atjehers (Snouck Hurgronje)|De Atjèhers]]* — the work in which such unsalted criticism of their *praestaties* occurred. The minister felt with them and wired to Indië that with the spreading of the second volume must be waited until after receipt of a letter that would follow — the letter that charged the governor-general to give the author a talking-to and to add a government declaration (the [[Bekendmaking Nederburgh|Bekendmaking Nederburgh]]) to the second volume. Later, Van Dedem would be made so afraid by [[Deijkerhoff|Deijkerhoff]] and his people of some change in Atjèh-policy that even the [[Queen-Regent of the Netherlands|Queen-Regent]] was called upon, to make the governor-general [[Van der Wijck|Van der Wijck]] promise that he would change nothing therein.
@@ -19,6 +42,10 @@ Later, Van Dedem would be made so afraid by [[Deijkerhoff|Deijkerhoff]] and his 
 ## Significance
 
 Van Dedem is the Dutch minister of colonies whose interventions — first in [[1893]]–[[1894]] over the publication of *De Atjèhers*, and later in [[1895]]–[[1896]] over the protection of the Deijkerhoff-Oema policy from change — were the principal metropolitan interventions in Atjèh-policy in the period before the [[Defection of Teuku Umar (March 1896)|defection of 29 March 1896]]. The first intervention delayed the publication of the second volume of *De Atjèhers* and produced the Bekendmaking Nederburgh; the second intervention, by binding the hands of the governor-general Van der Wijck, protected the Deijkerhoff-Oema policy from change at the metropolitan centre, and so was the immediate institutional cause of the catastrophe of March 1896.
+
+
+## Sources
+*Het Land van Jan Pieterszoon Coen*, door Dr. W. A. Terwogt (Hoorn: P. Geerts, [1891]). Hoofdstuk XIII: "Gelukkig, dat wij althans nu een Minister van Koloniën hebben, mr. W. K. Baron van Dedem, die in zijn memorie van antwoord op de Indische Begrooting van 1892 aan de Tweede Kamer onomwonden heeft verklaard, dat hij van toegeven en zachtheid tegenover den fanatieken Atjeher geen heil verwacht."
 
 ## See Also
 
@@ -38,6 +65,11 @@ Van Dedem is the Dutch minister of colonies whose interventions — first in [[1
 - [[1894]]
 - [[1895]]
 - [[1896]]
+- [[Het Land van Jan Pieterszoon Coen (Terwogt)]]
+- [[Dr. W. A. Terwogt]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[1891]]
+- [[1892]]
 
 ## Source
 

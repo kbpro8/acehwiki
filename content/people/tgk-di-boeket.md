@@ -1,7 +1,26 @@
 ---
-title: "Tgk. di Boekét"
-aliases: ["Tgk. di Beuket", "Tengkoe di Boeket"]
-tags: [person, religious-leader, acehnese, resistance, achehnese, oelama, tiro, pidie, 20th-century]
+title: Tgk. di Boekét
+aliases:
+- Tgk. di Beuket
+- Tengkoe di Boeket
+- Tengkoe di Boekit
+- Tgk. di Boekit
+- Tgk. Beb
+- Tengkoe Beb
+- Oom Bép
+tags:
+- person
+- religious-leader
+- acehnese
+- resistance
+- achehnese
+- oelama
+- tiro
+- pidie
+- 20th-century
+- aceh
+- aceh-war
+- sjahid
 ---
 
 **Tgk. di Boekét** was an Acehnese religious leader, the third son of *[[Teungkoe Sjech Saman di Tiri]]* and one of the two *voornaamste Teungkoes* of the *Tiriō bende* (with *[[Tgk. Tjhi Majét]]*). He was mortally wounded in the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]]'s overval on the schuilplaats in [[May 1911]] — escaped the assault but later died of his wounds. His death, with that of *[[Tgk. Tjhi Majét]]* in the same month, left only the boy *[[Tgk. Tjhi Ma'at]]* of the whole Tiriō bende.
@@ -42,6 +61,10 @@ Tgk. di Boekét is significant in *[[Oom Ambon van het K.N.I.L.]]* as the third 
 
 The blow of May [[1910]] was the first Schmidt struck in fulfilment of the special commission given him by [[H. N. A. Swart]] in December [[1909]]; the leadership of the band thereafter passed to the sixteen-year-old [[Tgk. Ma'at]].
 
+
+## Sources
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
 ## See Also
 
 - [[Teungkoe Sjech Saman di Tiri]]
@@ -57,6 +80,19 @@ The blow of May [[1910]] was the first Schmidt struck in fulfilment of the speci
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Tengkoe Sjech Saman di Tiro]]
+- [[Tengkoe Mat Amin di Tiro]]
+- [[Tengkoe Majet di Tiro]]
+- [[Tengkoe Tjhi Maät di Tiro]]
+- [[Tiro-oelama]]
+- [[Pursuit of the Tiro-oelamas (1908-1910)]]
+- [[Schmidt]]
+- [[Habib Teupin Wan]]
+- [[Sjahid]]
+- [[Pidië]]
+- [[1910]]
+- [[1908]]
+- [[Aceh War]]
 
 ## Source
 

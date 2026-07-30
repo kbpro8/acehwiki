@@ -1,8 +1,21 @@
 ---
-
 title: Th. Nöldeke
-aliases: [Theodor Nöldeke]
-tags: [person, scholar, orientalist]
+aliases:
+- Theodor Nöldeke
+- Nöldeke
+- Professor Nöldeke
+- Nöldeke Strasbourg
+- Nöldeke (German orientalist)
+tags:
+- person
+- scholar
+- orientalist
+- german
+- 19th-century
+- snouck-hurgronje
+- strasbourg
+- stele-of-teima
+- arabic-studies
 ---
 
 **Th. Nöldeke** (Theodor Nöldeke, 1836–1930) was a German orientalist, cited by Snouck Hurgronje alongside the Dutch scholar M. J. de Goeje for his contribution to the study of *zars* — the spirits whose "possession" of women is treated at length in Snouck Hurgronje's discussion of the Achehnese *burong*. The reference occurs in a footnote to the description of the Achehnese *burong*, the malignant spirit believed to attack women in childbed, where Snouck Hurgronje compares the Achehnese phenomena with similar beliefs at Mekka and refers the reader to "my *Mekka*, vol. II, pp. 124 et seq.: also M. J. de Goeje and Th. Nöldeke in the *Zeitschrift der Deutschen Morgenländischen Gesellschaft*, Vol. XLIV pp. 480 and 701."
@@ -15,12 +28,32 @@ The *burong* of Achehnese superstition is described by Snouck Hurgronje as havin
 
 Nöldeke was one of the towering figures of nineteenth-century Semitic philology, known above all for his work on the Syriac and Arabic languages and on the history of the Qur'an. His citation, in a footnote on the *burong*, is a reminder of the breadth of the comparative frame within which Snouck Hurgronje worked: Achehnese beliefs about childbirth-spirits were not treated as an isolated curiosity, but were placed against a background drawn from Mekka, from the Malay world, and from the Semitic literatures studied by the great German and Dutch orientalists. The mention of Nöldeke, in short, marks the point at which a local Achehnese superstition enters the international scholarly conversation of the late nineteenth century.
 
+
+## Sources
+*Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, pp. 3, 8.
+
 ## See Also
 
 - [[C. Snouck Hurgronje|Snouck Hurgronje]]
 - [[Burong]]
 - [[Tuan Siti]]
 - [[Mekka]]
+- [[C. Snouck Hurgronje]]
+- [[Snouck Hurgronje's Mekka journey (1884-1885)]]
+- [[De Goeje]]
+- [[Goldziher]]
+- [[Stele of Teima]]
+- [[Euting]]
+- [[Huber]]
+- [[Ibn Rasjid]]
+- [[De Lostalot]]
+- [[Strasbourg]]
+- [[24 November]]
+- [[5 August]]
+- [[1880]]
+- [[1883]]
+- [[1884]]
+- [[1885]]
 
 ## Source
 

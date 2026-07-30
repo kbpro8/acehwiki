@@ -1,7 +1,34 @@
 ---
-title: "Van der Wijck"
-aliases: ["Jhr. Van der Wijck", "Jhr. C. H. van der Wijck", "Gouverneur-Generaal Van der Wijck", "Vice-President Raad van Indië Van der Wijck", "C. A. van der Wijck", "Governor-General van der Wijck", "Landvoogd van der Wijck"]
-tags: [person, dutch, colonial, governor-general, 19th-century, snouck-hurgronje, deijkerhoff, atjeh, van-der-wijck, general, knil, governor, aceh, 20th-century]
+title: Van der Wijck
+aliases:
+- Jhr. Van der Wijck
+- Jhr. C. H. van der Wijck
+- Gouverneur-Generaal Van der Wijck
+- Vice-President Raad van Indië Van der Wijck
+- C. A. van der Wijck
+- Governor-General van der Wijck
+- Landvoogd van der Wijck
+- Jhr. J. C. v. d. Wyck
+- J. C. van der Wijck
+- Van der Wijck (governor-general)
+- C. H. A. van der Wijck
+- G.-G. Van der Wijck
+tags:
+- person
+- dutch
+- colonial
+- governor-general
+- 19th-century
+- snouck-hurgronje
+- deijkerhoff
+- atjeh
+- van-der-wijck
+- general
+- knil
+- governor
+- aceh
+- 20th-century
+- acheh
 ---
 
 **Van der Wijck** — *Jhr. C. H. van der Wijck* — was a Dutch colonial official who served successively as Vice-President of the [[Raad van Indië|Raad van Indië]], as Commissioner of the [[Koninklijke Pakketvaart Maatschappij|Koninklijke Pakketvaart Maatschappij]] (during which capacity he visited Atjèh), and finally as [[Gouverneur-Generaal van Nederlandsch-Indië|Gouverneur-Generaal]] returning from the Netherlands to Indië — the office in which he was obliged to declare himself "*vleugellam*" (wing-lame) with respect to Atjèh, owing to the success of [[Deijkerhoff|Deijkerhoff]] and his people in making the minister [[Van Dedem|Baron Van Dedem]] so afraid of some change in Atjèh-policy that even the Queen-Regent was called upon to make Van der Wijck promise that he would change nothing therein.
@@ -42,6 +69,14 @@ Van der Wijck is the Dutch colonial official who, successively as Vice-President
 
 Van der Wijck held the government "in accordance with the intention" until he became army commander in May [[1905]], when [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] took over as Civil and Military Governor.
 
+
+## Sources
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), Bijlage I: "Atjeh en Onderhoorigheden, Hoofden van Gewestelijk Bestuur van 1874 tot heden."
+---
+
+**Jhr. J. C. v. d. Wyck** was a Dutch colonial administrator who served as Civil and Military Governor of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] from [[1904]] to [[1905]], the brief interregnum between the powerful governorships of [[Joannes Benedictus van Heutsz|van Heutsz]] ([[1898]]–[[1904]]) and [[Gotfried Coenraad Ernst van Daalen|van Daalen]] ([[1905]]–[[1908]]). The Encyclopaedisch Bureau's *De Buitenbezittingen* lists him in its Bijlage I — the chronological list of *Hoofden van Gewestelijk Bestuur* — as the holder of the *Civ. en Mil. Gouverneur* title for this transitional period.
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 217-218.
+
 ## See Also
 
 - [[C. Snouck Hurgronje]]
@@ -74,6 +109,21 @@ Van der Wijck held the government "in accordance with the intention" until he be
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
+- [[H. N. A. Swart]]
+- [[1904]]
+- [[1905]]
+- [[Atjehoorlog]]
+- [[Dr. C. Snouck Hurgronje]]
+- [[J. B. van Heutsz]]
+- [[Pijnacker Hordijk]]
+- [[Deykerhoff]]
+- [[Teungku Um]]
+- [[Groot-Atjeh]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[1893]]
 
 ## Source
 

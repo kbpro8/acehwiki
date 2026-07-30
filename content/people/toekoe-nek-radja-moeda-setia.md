@@ -1,8 +1,41 @@
 ---
-
 title: Toekoe Nek Radja Moeda Setia
-aliases: [Toekoe Nek, Toekoe Nek of Marassa, Tunku Nik Raja Muda Setia, the head of Marassa]
-tags: [person, uleebalang, acehnese, ally-of-the-dutch, aceh-war]
+aliases:
+- Toekoe Nek
+- Toekoe Nek of Marassa
+- Tunku Nik Raja Muda Setia
+- the head of Marassa
+- Teuku Nek
+- Toekoe Nek van Marassa
+- hoofd of Marassa
+- Teuku Nek of Meuraxa
+- Toekoe Nek Radja Setia
+- Teuku Nek Radja Setia
+- Teuku Nek Meuraxa
+- Toekoe Noq van Marassa
+- Teungku Ne' of Marassa
+- the Ne' of Meura'sa
+tags:
+- person
+- uleebalang
+- acehnese
+- ally-of-the-dutch
+- aceh-war
+- hoofd
+- marassa
+- dutch-ally
+- 1874
+- 1875
+- nobility
+- ruler
+- achehnese
+- ally
+- oeloebalang
+- pre-1873
+- aceh
+- 19th-century
+- adviser
+- xxv-moekims
 ---
 
 **Toekoe Nek Radja Moeda Setia** — commonly called Toekoe Nek — was the [[Uleebalang|hoeloebalang]] of the kampong [[Marassa|Marassa]] at the mouth of the Atjeh river, who from before the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] had repeatedly offered his services to the Dutch, who was the principal native ally of the Dutch during the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] in [[January 1874]], and who remained a firm friend of the Dutch until the operations in his neighbourhood were closed. His intervention led directly to the storming of the [[Taman (Kota Goenoengan)|Taman]] on [[12 January]] [[1874]] and to the discovery that the Kraton had been evacuated on [[24 January]] [[1874]].
@@ -25,6 +58,12 @@ From Kota Goenoengan, "between the brushwood, one saw a broken piece of wall wit
 
 Toekoe Nek's intervention was thus the proximate cause of the discovery that the Kraton had been evacuated. The Dutch had not known the precise location of the Kraton during the first expedition; even in the second, "the continual uncertainty about the precise location of this" had been one of the causes of the failure of the stormings of mid-April [1873].
 
+
+## Sources
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. pp. 55, 57, 65, 75, 93–94, 103–104, 124, 132, 162, 266, 279, 288.
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 14-15; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 8-10, 14-18.
+*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 14–15 (De Geestelijkheid in Atjeh — Habib Abdoe'r Rachman).
+
 ## See Also
 
 - [[Marassa]]
@@ -36,6 +75,30 @@ Toekoe Nek's intervention was thus the proximate cause of the discovery that the
 - [[Second Aceh Expedition (1873-1874)]]
 - [[Aceh War]]
 - [[Uleebalang]]
+- [[Oeleh Leh]]
+- [[Strategische driehoek (Atjeh)]]
+- [[Toekoe Nanta]]
+- [[VI Moekims]]
+- [[Generaal Pel]]
+- [[Jan van Swieten]]
+- [[Battle of Garouw (28 June 1874)]]
+- [[1874]]
+- [[Meuraxa]]
+- [[Teuku Nya Abas]]
+- [[Teuku Nya Mohamadad]]
+- [[J. van Swieten]]
+- [[General van Swieten War Telegrams]]
+- [[Military Intelligence in the Aceh War]]
+- [[Second Aceh Expedition]]
+- [[XXV Moekims]]
+- [[Groot-Atjeh]]
+- [[Habib Abdurrahman Zahir]]
+- [[Toeankoe Machmoed]]
+- [[Panglima Tibang]]
+- [[Toekoe Imam Longbattah]]
+- [[Toekoe Kadli]]
+- [[Batavia]]
+- [[Atjeh-Album (Eigen Haard, 1896)]]
 
 ## Source
 

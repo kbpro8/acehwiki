@@ -1,9 +1,19 @@
 ---
-
-title: "Teuku Ne' of Meura'sa"
-aliases: ["Teuku Ne", "Teuku Ne' Raja Muda Seutia", "Uleebalang of Meura'sa", "Ne' Raja Muda Seutia"]
-
-tags: [person, warrior, uleebalang, sultanate, adat-chief, xxv-mukims]
+title: Teuku Ne' of Meura'sa
+aliases:
+- Teuku Ne
+- Teuku Ne' Raja Muda Seutia
+- Uleebalang of Meura'sa
+- Ne' Raja Muda Seutia
+- Teuku Ne of Ulee Lheue
+- Uleebalang of Ulee Lheue
+tags:
+- person
+- warrior
+- uleebalang
+- sultanate
+- adat-chief
+- xxv-mukims
 ---
 
 An important uleebalang of Meura'sa, popularly reported to have absorbed about 13 pounds of mercury into his body through invulnerability treatment. He kept a sacred crocodile in the river behind his house, addressed as "Teungku," and a one-eyed coconut for protection while traveling. In the war he made a show of warlike preparation before surrendering to the Dutch.
@@ -32,6 +42,20 @@ In the course of the nineteenth century, however, the house of Raja Muda Seutia 
 
 Snouck also records the famous episode of the [[Journey of Teuku Ne' and followers to Keumala|journey of Teuku Ne' of Meura'sa and his followers to the court at Keumala]], when all who accompanied him were implored by their friends and relations to bring back with them some water wherein the pretender to the sultanate had washed his feet — a striking illustration of the quasi-religious reverence enjoyed by the royal house, and of the Meura'sa chief's privileged access to it.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+---
+
+
+**Teuku Ne** was the hereditary [[Uleebalang|uleebalang]] of [[Ulee Lheue]] (called by the Dutch *Olehleh*), the coastal village immediately to the west of [[Banda Acheh|Banda Acheh]] which formed one of the principal landing-places and fishing-stations of the Achehnese capital. He is mentioned in *The Achehnese* Vol. I in Snouck Hurgronje's account of the Achehnese sea-fisheries, as one of the three chiefs by whom the *pukat*-fishermen of Ulee Lheue found themselves "dealt with" in the late nineteenth century.
+
+The Achehnese fishery was subject to a system of contributions by which the *pawangs* (fishing-masters) were required to set aside a portion of their catch for the territorial chief, his wife, and the *rakans* or followers of his house. The severity of this system may be judged, Snouck observes, from the case of Ulee Lheue, where the pukat-fishermen had to deal with at least three chiefs at once: the uleebalang Teuku Ne, his *banta* (deputy) Teuku Sandang, and Raja Itam, a son of a deceased Teuku Ne. These three always enforced their demands for fish and punished defaulters with the *langgéh*, the ban by which the offender's sampan and pukat were placed under interdict for a month or sometimes for an unlimited period, depriving him of his livelihood until he could appease the uleebalang with a money present.
+
+The presence of a son of a deceased Teuku Ne alongside the reigning Teuku Ne points to the hereditary character of the office, and to the Achehnese habit by which the members of the chief's house — including the sons of former holders of the dignity — retained a share in the exactions attached to it. The Teuku Ne of Ulee Lheue is to be carefully distinguished from the [[Teuku Ne' of Meura'sa|Teuku Ne' of Meura'sa]] of the [[XXV Mukims|XXV Mukims]], whose style is written with the apostrophe denoting the Achehnese word for "grandfather"; the Ulee Lheue chief, by contrast, is designated by the simpler name *Ne* without the hereditary "grandfather of the sultan" style.
+
+The foreshore at Ulee Lheue was divided for the pukat-fishermen into two *lho's* (literally "bays"), each of which gave a religious feast, the *kanduri laot*, at the changes of the monsoon — one in *keunong* 17, at the beginning of the S.W. monsoon (about April), and the other in *keunong* 5, at the beginning of the N.E. monsoon (about September). The day for the feast was fixed by the *panglima* of the *pawang* guild, who invited to it all the pawangs and their crews, the uleebalang Teuku Ne, and the gampong authorities of his mukim. The feast was consecrated by *dikr*, the repetition of psalms of praise in honour of the Prophet, and by *hatam*, the recitation in chorus of portions of the Quran by the teungkus and leubes present; during the seven days following the kanduri, neither the pawangs belonging to that "bay" nor their colleagues from neighbouring parts might fish in the waters fronting that division.
+
 ## See Also
 - [[Installation of a New Sultan|Coronation of the Sultan]]
 - [[Eleumee Keubay]]
@@ -49,6 +73,11 @@ Snouck also records the famous episode of the [[Journey of Teuku Ne' and followe
 - [[Uleebalang]]
 - [[VI Mukims]]
 - [[XXV Mukims]]
+- [[Ulee Lheue]]
+- [[Teuku Ne' of Meura'sa]]
+- [[Banda Acheh]]
+- [[Pawang]]
+- [[Kanduri Laot]]
 
 ## Source
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

@@ -1,8 +1,45 @@
 ---
 title: Toeankoe Hasjim
-aliases: [Toeankoe Hasjim, Tuanku Hashim, Tuan Hashim, Toeankoe Hasjim of Keumala, "the guardian of Sultan Dawot", Toeankoe Haschim, "Tëngku Hasyim", Toankoe Hasjim]
-tags: [person, atjehnese, 19th-century, atjeh-oorlog, political, keumala, colonial, aceh-war, resistance-leader, regent]
-description: "Acehnese royal chief and great-grandson of Sultan Ala ad-Din Mohammad Shah (1824–1838); guardian (voogd) of the boy-sultan Tuanku Mohamad Daoed after the fall of the Kraton in 1874; identified by Van Heutsz as the zeer krachtige persoonlijkheid (very forceful personality) at the head of the tegenpartij at Keumala, who installed his pupil as sultan in the emmedji Indrapoeri mosque and dispatched orders from Keumala as if from the only lawful authority."
+aliases:
+- Tuanku Hashim
+- Tuan Hashim
+- Toeankoe Hasjim of Keumala
+- the guardian of Sultan Dawot
+- Toeankoe Haschim
+- Tëngku Hasyim
+- Toankoe Hasjim
+- Tuanku Asem
+- Tuanku Asem (Hashim)
+- Hashim
+- Toeankoe Hasschim
+- Tuanku Hasyim
+- Teungku Hasyim
+- T. Hasschim
+- Toewankoe Haschim
+- Tuanku Haschim
+- Toewankoe Hashim
+- the keeper of the young pretender
+tags:
+- person
+- atjehnese
+- 19th-century
+- atjeh-oorlog
+- political
+- keumala
+- colonial
+- aceh-war
+- resistance-leader
+- regent
+- royal-family
+- acehnese
+- royal
+- pretender
+description: Acehnese royal chief and great-grandson of Sultan Ala ad-Din Mohammad
+  Shah (1824–1838); guardian (voogd) of the boy-sultan Tuanku Mohamad Daoed after
+  the fall of the Kraton in 1874; identified by Van Heutsz as the zeer krachtige persoonlijkheid
+  (very forceful personality) at the head of the tegenpartij at Keumala, who installed
+  his pupil as sultan in the emmedji Indrapoeri mosque and dispatched orders from
+  Keumala as if from the only lawful authority.
 ---
 
 **Toeankoe Hasjim** — also written *Toeankoe Haschim* in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s spelling, *Tëngku Hasyim* — was the Acehnese royal chief and political architect of the resistance in the middle phase of the [[Aceh War|Atjeh-oorlog]] who, after the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[1874]], became the guardian (*voogd*) of the boy-sultan [[Tuanku Muhamat Dawot|Tuanku Mohamad Daoed]] and the effective head of the fugitive Atjèhnese court at [[Keumala]] in [[Pidië|Pidië]]. He is, in [[J. Kreemer|Kreemer]]'s narrative, the central political figure of the early war period — the figure who supplied the institutional mechanism by which the Atjèhnese sultanate survived the loss of its capital. He is, in Van Heutsz's [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]*, the *zeer krachtige persoonlijkheid* (very forceful personality) at the head of the *tegenpartij* (war party) at [[Keumala]] — the power behind the throne who, in the years of Dutch *lijdelijkheid* (passivity) after the dismissal of [[General van der Heijden|Generaal van der Heijden]] in early [[1881]], masterfully exploited the time to install his pupil [[Tuanku Muhamat Dawot|Tuanku Mohamad Daoed]] as the recognised successor to the late [[Sultan Machmoed Sjah]] (d. [[1874]]) and to use the royal installation at the [[Indrapoeri]] mosque — the *emmedji Indrapoeri* — to consolidate the resistance. He is, in Van Heutsz's narrative, the political and dynastic counterpart of the religious leaders [[Tengkoe di Tirou]] and [[Habib Abdurrahman Zahir|Habib Abdoel Rachman]] — the figure who supplied the constitutional form of the Atjehnese resistance by seating a sultan on the throne the Dutch had vacated.
@@ -74,9 +111,55 @@ Toeankoe Hasjim's significance in the Aceh Wiki History record rests on three th
 - [[1881]]
 - [[1883]]
 - [[1884]]
+- [[Sultan Mahmut Shah]]
+- [[Teungku Tiro (Muhamat Amin)]]
+- [[Teuku Uma]]
+- [[Death of Tuanku Asem (Hashim)]]
+- [[Restoration of the Sultanate]]
+- [[Sultanate of Aceh]]
+- [[Toeankoe Mohamed Daoed]]
+- [[Toeankoe Abdul Medjid]]
+- [[Toeankoe Ibrahim]]
+- [[Panglima Polim]]
+- [[Demmeni]]
+- [[General van Teijn]]
+- [[Madjapait]]
+- [[Kemala]]
+- [[Kwalla Batoe]]
+- [[Pedir]]
+- [[Gayo]]
+- [[Langsar]]
+- [[Langkat]]
+- [[Muslemin]]
+- [[Heiligen Oorlog]]
+- [[Kota Radja]]
+- [[Telok Semawé]]
+- [[Perlak]]
+- [[Atjeh-oorlog]]
+- [[1885]]
+- [[1886]]
+- [[1887]]
+- [[1891]]
+- [[1892]]
+- [[1894]]
+- [[Toewankoe Daoed]]
+- [[Toewankoe Hoesin]]
+- [[Toewankoe Abdoel Madjid]]
+- [[Panglima Polem|Panglima Polim]]
+- [[Imam of Longbatta]]
+- [[Radja Koelala]]
+- [[J. L. J. H. Pel]]
+- [[Selimoen Expedition (August 1879)]]
+- [[Acheh Succession Dispute]]
 
 ## Sources
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Tweede tijdvak, blz. 16, n. 2.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 26, 40. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+---
+**Tuanku Asem** — also called **Hashim** — was a member of the royal family of [[Acheh]] and the guardian and regent of the young [[Tuanku Muhamat Dawot|Sultan Muhamat Dawot]] during the first portion of the [[Achehnese War|war with the Dutch]]. He figures in Vol. I as the ablest and most intelligent member of the [[Keumala]] court, and as the man whose influence kept alive the semblance of a royal government after the [[Loss of the Dalam|loss of the Dalam]]. He died in January [[1897]] at [[Padang Tiji]] in the [[VII Mukims|Mukims VII]].
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX (the restoration of the Sultanate and the holy war letters), Chapter X (the Van Teijn negotiations), Chapter XI (Toeankoe Ibrahim's journey). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 49–50, 56, 61.
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 71, 108.
+**Toewankoe Haschim** (also written Tuanku Hasyim) was one of the family members of the former sultans of [[Acheh|Atjeh]] who, together with [[Toewankoe Hoesin|Toewankoe's Hoesin]] and [[Toewankoe Abdoel Madjid|Abdoel Madjid]], attached himself to the war-party against the Dutch, and who was named by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the influential leaders of the resistance. He was the keeper of the young pretender [[Toewankoe Daoed|Toewankoe Daoed]], destined for the sultan's rank in [[1874]], and after the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August [[1879]] fled with him and the other irreducible hostile chiefs to [[Kemala|Kemala]] in the interior south of [[Pedir|Pedir]].

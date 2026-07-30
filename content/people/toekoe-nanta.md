@@ -1,8 +1,25 @@
 ---
-
 title: Toekoe Nanta
-aliases: [Toekoe Nanta, Tunku Nanta, the head of the VI Moekims]
-tags: [person, uleebalang, acehnese, aceh-war]
+aliases:
+- Tunku Nanta
+- the head of the VI Moekims
+- Teuku Nanta Seutia
+- Teuku Nanta
+- Nanta Seutia
+- the Nanta family
+- Teuku Nanta Setia
+- Teuku Nanta of VI Moekims
+tags:
+- person
+- uleebalang
+- acehnese
+- aceh-war
+- vi-mukims
+- hereditary
+- nobility
+- hulubalang
+- commander
+- achehnese
 ---
 
 **Toekoe Nanta** was the [[Uleebalang|hoeloebalang]] of the [[VI Moekims|VI Moekims]] of [[Groot-Atjeh|Groot-Atjeh]], the principal enemy of the Dutch ally [[Toekoe Nek Radja Moeda Setia|Toekoe Nek of Marassa]], whose fortified position at [[Bilal|Bilal]] was attacked by Lieutenant-colonel [[K. van der Heyden|Van der Heijden]] on [[12 February]] [[12 February]] [[1874]]. After his defeat at Bilal, Toekoe Nanta fled to the [[IV Moekims|IV Moekims]], where he and [[Toekoe Tjihik Lamnga|Toekoe Tjihik Lamnga]] were among the principal defenders expected to offer strong resistance to the Dutch advance of [[January 1876|January 1876]].
@@ -14,6 +31,15 @@ After the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] on [[24
 ## The Flight to the IV Moekims
 
 After the conquest of the [[VI Moekims|VI Moekims]] by General [[J. L. J. H. Pel|Pel]] in [[December 1875|December 1875]], the principal defenders of the VI Moekims fled to the [[IV Moekims|IV Moekims]]. "As the principal defenders of the VI Moekims had fled thither, such as Toekoe Nanta and [[Toekoe Tjihik Lamnga|Toekoe Tjihik Lamnga]], a strong resistance was to be expected, even though the head of the IV Moekims, [[Toekoe Lampassej|Toekoe Lampassej]], was on our side, and even though our last victories had made so much impression that on one of our reconnaissance expeditions the head of Lampagger offered his submission."
+
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+---
+
+
+**Teuku Nanta Seutia** was the hereditary title of the chief of the [[VI Mukims of the XXV]] in [[Great Acheh]] — a territory which the line had wrested in comparatively recent times from [[Teuku Ne']] of [[Meura'sa]]. The full title *Nanta Seutia* (literally "true grandparent") reflects the prominent position attained by the family within the [[XXV Mukims|XXV sagi]], where they ranked for a time alongside the two *Ne'* houses among the principal wielders of power. The article treats of the office and its holders as illustrated in Vol. I.
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 8-10, 14-16.
 
 ## See Also
 
@@ -29,6 +55,16 @@ After the conquest of the [[VI Moekims|VI Moekims]] by General [[J. L. J. H. Pel
 - [[K. van der Heyden]]
 - [[J. L. J. H. Pel]]
 - [[Aceh War]]
+- [[Teuku Ne']]
+- [[Teuku Ne' Raja Muda Seutia]]
+- [[Teuku Raja Itam]]
+- [[Teuku Uma]]
+- [[VI Mukims of the XXV]]
+- [[Defection of Teuku Uma|Treachery of Teuku Uma against the Dutch]]
+- [[Panglima Polem]]
+- [[J. van Swieten]]
+- [[General Pel's Campaign in Aceh]]
+- [[Coastal Fortifications in Aceh]]
 
 ## Source
 

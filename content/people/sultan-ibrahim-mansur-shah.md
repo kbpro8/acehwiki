@@ -1,8 +1,38 @@
 ---
 title: Sultan Ibrahim Mansur Shah
-aliases: [Ibrahim Manso Shah, Ibrahim Mansur Shah, Sultan Ibrahim Mansur Shah, Sultan Mansur Shah, Manso Shah, Alaedin Manso Shah, Alaedin Mansur Shah, Sultan Manso, Sultan Mantsoer Sjah, Mansur Syah, Sultan of Aceh 1838-1870, voorlaatste Sultan]
-tags: [person, ruler, sultan, sultanate, acheh, nineteenth-century, 19th-century, achehnese]
-description: "Sultan of Acheh c. 1838/1858–1870, voorlaatste (next-to-last) Sultan, father of the last Achehnese sultan Tuanku Muhamat Dawot; patron of the Taj-ul-mulk; name recurs on the chab sikureu'eng of his son's sarakata."
+aliases:
+- Ibrahim Manso Shah
+- Ibrahim Mansur Shah
+- Sultan Mansur Shah
+- Manso Shah
+- Alaedin Manso Shah
+- Alaedin Mansur Shah
+- Sultan Manso
+- Sultan Mantsoer Sjah
+- Mansur Syah
+- Sultan of Aceh 1838-1870
+- voorlaatste Sultan
+- Mantsoer Shah
+- Sultan Ibrahim Mansjoer Sjuh
+- Ibrahim Mansjoer Sjuh
+- the Sultan of Atjeh under the Habib
+- Sultan Ibrahim Mansyur Syah
+tags:
+- person
+- ruler
+- sultan
+- sultanate
+- acheh
+- nineteenth-century
+- 19th-century
+- achehnese
+- kraton
+- pre-1873
+- aceh
+- opium
+description: Sultan of Acheh c. 1838/1858–1870, voorlaatste (next-to-last) Sultan,
+  father of the last Achehnese sultan Tuanku Muhamat Dawot; patron of the Taj-ul-mulk;
+  name recurs on the chab sikureu'eng of his son's sarakata.
 ---
 
 **Sultan Ibrahim Mansur Shah** — known in Achehnese pronunciation as **Manso Shah**, in Kreemer's spelling **Sultan Mantsoer Sjah** (also **Mansur Syah**), and in the formal genealogical style of his house as **Alaedin Mansur Shah** — was the **voorlaatste (next-to-last) Sultan** of [[Aceh|Acheh]] of the decadent period of the [[Sultanate of Acheh|sultanate]], who reigned in the middle decades of the nineteenth century (the sources differ as to the exact dates: one passage of *The Achehnese* gives [[1838]]–[[1870]], another [[1858]]–[[1870]]; Kreemer confirms [[1838]]–[[1870]]). He was the father of [[Tuanku Muhamat Dawot|Sultan Alaedin Muhamad Daud Shah Juhan]], the last sultan recognised by the Achehnese before the final establishment of Dutch rule over the kingdom, and the predecessor of the last ruling Sultan [[Sultan Ala ad-dïn Mahmoed Sjah|Ala ad-dïn Mahmoed Sjah]] ([[1870]]–[[1874]]). His name appears in the centre of the [[Sarakata|ninefold seal]] of the sultanate and his mediation (*afwah*) is invoked in the preamble of sultans' letters patent (*sarakata*); at his instance, the religious-political leader [[Teungku Kutakarang|Teungku Kuta Karang]] (Shaikh Abbas) wrote the *Taj-ul-mulk*, an important compendium of Islamic mystic arts, prognostications, and native medicine.
@@ -91,9 +121,23 @@ The reign of Sultan Ibrahim Mansur Shah thus coincides with the period of the mo
 - [[1838]]
 - [[1858]]
 - [[1870]]
+- [[Teungku Kutakarang]]
+- [[J. Kreemer]]
+- [[Habib Abdurrahman Zahir]]
+- [[Toeankoe Machmoed]]
+- [[Sultan Saleiman Iskander]]
+- [[Panglima Tibang]]
+- [[Kraton of Aceh]]
+- [[Grootvizier]]
+- [[Aceh War]]
+- [[1837]]
+- [[1873]]
+- [[Atjeh-Album (Eigen Haard, 1896)]]
 
 ## Sources
 
 *The Achehnese*, Vol. I and Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
+*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], p. 14 (De Geestelijkheid in Atjeh — Habib Abdoe'r Rachman).

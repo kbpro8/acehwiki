@@ -1,8 +1,16 @@
 ---
-
 title: Van Hogendorp
-aliases: [Van Hogendorp, Mr. Van Hogendorp]
-tags: [person, dutch-author, scholar, cited-source]
+aliases:
+- Mr. Van Hogendorp
+- Kapitein-luitenant Van Hogendorp
+tags:
+- person
+- dutch-author
+- scholar
+- cited-source
+- captain-lieutenant
+- dutch
+- east-indies
 ---
 
 **Van Hogendorp** was a nineteenth-century Dutch author whose collected essays, *Bijdragen* ("Contributions"), preserved — in its second edition, volume V, page 236 — one of the principal printed texts of the exchanged notes accompanying the [[Anglo-Dutch Treaty of 1824|treaty of 17 March 1824]]. Van der Kemp refers to the work as *Van Hogendorp's Bijdragen*.
@@ -19,6 +27,10 @@ The exchanged notes that Van Hogendorp helped to preserve are of central importa
 
 Van Hogendorp's role in the present article is therefore that of a documentary source. As one of the editors whose compilations Van der Kemp cites, he shares the stage with [[J. E. de Sturler|De Sturler]], [[H. D. Levyssohn Norman|Levyssohn Norman]], [[Hoek]], [[L. W. G. N. Netscher|Netscher]] and [[L. J. P. J. Jeekel|Jeekel]] — the network of Dutch colonial historians on whose editorial labours Van der Kemp's own researches were built.
 
+
+## Sources
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, OCR text, pp. 81‑82.
+
 ## See Also
 
 - [[J. E. de Sturler]]
@@ -26,6 +38,11 @@ Van Hogendorp's role in the present article is therefore that of a documentary s
 - [[Sumatra Treaty of 1871]]
 - [[Lord Palmerston]]
 - [[P. H. van der Kemp]]
+- [[Jacob Pieter van Braam|Van Braam (commander)]]
+- [[Majoor Hamell]]
+- [[Salangore]]
+- [[Luitenant Wisscher]]
+- [[Malakka]]
 
 ## Source
 
