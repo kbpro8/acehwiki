@@ -1,7 +1,27 @@
 ---
 title: Wakap
-aliases: [Wakap, Wakaf, Waqf, Wakaf, Islamic endowment, Atjeh wakap]
-tags: [concept, religious, islamic, achehnese]
+aliases:
+- Wakaf
+- Waqf
+- Islamic endowment
+- Atjeh wakap
+- Wakeuëh
+- wakab
+- wökös
+- waqf Aceh
+- free-lordly territory
+- Wakeuh
+- Religious Endowment
+tags:
+- concept
+- religious
+- islamic
+- achehnese
+- legal
+- sultanate
+- religion
+- law
+- property
 ---
 
 **Wakap** — Dutch/Atjehnese spelling of Arabic *waqf* (وقف), in standard Indonesian *wakaf* — is the Islamic institution of perpetual religious endowment, by which a Muslim dedates property (land, buildings, income-producing assets) to a religious purpose in perpetuity, with the principal preserved and only the income spent. The term is recorded in Prof. Dr. [[W. J. A. Kernkamp|Kernkamp]]'s chapter *De invloed van den Islam* in *[[Wat Indië Ontving en Schonk]]* ([[1946]]) in his account of the Indonesian mosque (*[[Mesigit|mesigit]]*).
@@ -40,6 +60,13 @@ For the [[Acheh|Atjeh]]-focused reader, the *wakap* is significant as the instit
 - *ledig monument onzer dwaasheid* — empty monument of our folly
 - *Prof. Dr.* — Professor Doctor
 - *Dr.* — Doctor
+
+## Sources
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]].
+
+Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 8, p. 121.
+
 ## See Also
 
 - [[Mesigit]]
@@ -53,6 +80,17 @@ For the [[Acheh|Atjeh]]-focused reader, the *wakap* is significant as the instit
 - [[J. Kreemer]]
 - [[Wat Indië Ontving en Schonk]]
 - [[W. J. A. Kernkamp]]
+- [[Tirö]]
+- [[Moekim]]
+- [[Sagi]]
+- [[Oelèëbalang]]
+- [[Kawaj XVI]]
+- [[Aceh Sultanate]]
+- [[Mukim]]
+- [[Meusigit]]
+- [[Hikum]]
+- [[K. F. H. van Langen|Van Langen]]
+- [[Great Acheh]]
 
 ## Source
 

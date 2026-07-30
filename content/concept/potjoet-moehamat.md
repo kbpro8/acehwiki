@@ -1,7 +1,25 @@
 ---
 title: Potjoet Moehamat
-aliases: [Pötjoet Moehamat, Hikajat Potjoet Moehamat, Putjut Muhammad, Putjut Meukat, Atjèhnese heroic epic]
-tags: [concept, document, literary, achehnese, precolonial, 18th-century]
+aliases:
+- Pötjoet Moehamat
+- Hikajat Potjoet Moehamat
+- Putjut Muhammad
+- Putjut Meukat
+- Atjèhnese heroic epic
+- Potjoet Moehammat
+- Atjehnese epic Potjoet Moehammat
+- Atjehse epos Potjoet Moehammat
+- Hikajat Potjoet Moehammat
+- Poetry Moehammat
+tags:
+- concept
+- document
+- literary
+- achehnese
+- precolonial
+- 18th-century
+- epic
+- literature
 ---
 
 **Potjoet Moehamat** (also *Pötjoet Moehamat*, modern Atjehnese *Putjut Muhammad* or *Hikayat Putjut Meukat*) was the famous Atjèhnese heroic epic poem describing the *prang Rawa* — the war between Atjèhers and Maleiers (Menangkabaus) in the [[Meulaböh|Meulaböh]] region over pepper-cultuur dominance. It is one of the two oldest Atjèhnese *hikajat*'s, alongside the *[[Hikajat Malém Dagang|Hikajat Malém Dagang]]*. [[C. Snouck Hurgronje|Snouck Hurgronje]] called it "a jewel of Atjèhnese, indeed Inlandsche, literature" — "*een sieraad van Atjèhsche, ja Inlandsche letterkunde.*"
@@ -37,6 +55,12 @@ This passage fixes the *koeta djaq* as a mid-18th-century military technology in
 - [[Sultan Ala ad-dïn Djohan Sjah]]
 - [[C. Snouck Hurgronje]]
 - [[J. Kreemer]]
+- [[Aceh War]]
+- [[Atjeh bloeitijdperk ([[1607]]-[[1636]])]]
+- [[Kreemer's Atjeh ([[1922]]-23)]]
+- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Sultan Iskandar Muda]]
+- [[koeta djaq]]
 
 ## Sources
 
@@ -45,3 +69,4 @@ This passage fixes the *koeta djaq* as a mid-18th-century military technology in
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 146.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+*Atjèh*, by J. Kreemer, vol. I ([[1922]]), p. 307.

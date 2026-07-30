@@ -1,7 +1,37 @@
 ---
 title: Opiumregie in Atjeh
-aliases: [Opiumregie in Atjèh, Atjèh-regieordonnantie, opium monopoly Atjeh, opiumregie, Aceh Opium Monopoly, pacht-regie transition, afloopend licentie-stelsel Atjeh, Opium pacht, Opium farm, opiumpacht, opium pacht/regie, Atjeh opium pacht, verkoop van opium in het groot]
-tags: [concept, economic, colonial, dutch, opium, atjeh, administration, aceh-war, 19th-century, 20th-century, taxation]
+aliases:
+- Opiumregie in Atjèh
+- Atjèh-regieordonnantie
+- opium monopoly Atjeh
+- opiumregie
+- Aceh Opium Monopoly
+- pacht-regie transition
+- afloopend licentie-stelsel Atjeh
+- Opium pacht
+- Opium farm
+- opiumpacht
+- opium pacht/regie
+- Atjeh opium pacht
+- verkoop van opium in het groot
+- Atjeh Opium Regie
+- Opium Regime in Aceh
+- opium regie Atjeh
+- opium monopoly
+tags:
+- concept
+- economic
+- colonial
+- dutch
+- opium
+- atjeh
+- administration
+- aceh-war
+- 19th-century
+- 20th-century
+- taxation
+- event
+- buitenbezittingen
 ---
 
 **Opiumregie** was the government opium monopoly introduced in the gewest [[Gouvernement Atjeh en Onderhoorigheden|Atjèh en Onderhoorigheden]] on [[1 April]] [[1913]] (Stbl. [[1913]] N°. 219, modified by Stbl. [[1920]] N°. 235), replacing the earlier *pacht* (farm) system. The introduction in [[1913]] was the last such transition in the Dutch East Indies, marking the final consolidation of Dutch administrative control over [[Aceh|Atjèh]] after decades of war.
@@ -136,6 +166,31 @@ The opium-pacht's significance in the [[Aceh Wiki History]] record, in Van Heuts
 - [[1893]]
 - [[1913]]
 - [[1920]]
+- [[Buitengewesten]]
+- [[Gajo-Loeos]]
+- [[Rubber Industry in Atjeh]]
+- [[Sabang]]
+- [[Langsa]]
+- [[Palembang]]
+- [[Djambi]]
+- [[Oostkust van Sumatra]]
+- [[Lombok]]
+- [[Madoera]]
+- [[1875]]
+- [[1877]]
+- [[1887]]
+- [[1891]]
+- [[1892]]
+- [[1897]]
+- [[1902]]
+- [[1906]]
+- [[1907]]
+- [[1908]]
+- [[1909]]
+- [[1910]]
+- [[1911]]
+- [[1912]]
+- [[1921]]
 
 ## Sources
 
@@ -144,3 +199,4 @@ The opium-pacht's significance in the [[Aceh Wiki History]] record, in Van Heuts
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 12, 33, 67, 68, 70, 75, 81, 87, 92, 94. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.

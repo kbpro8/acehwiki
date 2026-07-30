@@ -1,7 +1,31 @@
 ---
 title: Resin (Aceh)
-aliases: [Damar, Resin, Hars, Atjeh resin, Atjeh damar]
-tags: [concept, forest-product, acehnese, colonial, export-crop, resin]
+aliases:
+- Damar
+- Resin
+- Hars
+- Atjeh resin
+- Atjeh damar
+- Colophonium
+- colophony
+- dennenhars
+- pine resin
+- Baleq resin
+tags:
+- concept
+- forest-product
+- acehnese
+- colonial
+- export-crop
+- resin
+- commodity
+- terpentijn
+- aceh
+- baleq
+- pinus-merkusii
+- 20th-century
+- chemical-product
+- batik-industry
 ---
 
 **Resin (Aceh)** (Dutch: *hars*, collectively called *damar*) encompassed the various natural resins and balsams collected from the rainforests (Dutch: *oerwouden*) of the residency of [[Atjeh]] in the late [[19th century|nineteenth]] and early [[20th century|twentieth centuries]], and exported as one of the principal non-timber forest products of the [[Buitengewesten|Buitengewesten]]. The most prized variety was benzoin (Dutch: *benzoë*), the fragrant resin of the *Styrax benzoin* tree, used in the perfume industry and for the manufacture of incense; other varieties included *damar mata kucing* from the *Shorea* dipterocarps, used in varnish manufacture, and the *getah* latexes tapped from various forest trees for local caulking and waterproofing. Resin contributed to the forest-product export sector of Atjeh, complementing [[Rattan (Aceh)|rattan]], [[Kapok Fiber|kapok]] and [[Bakau Bast|bakau bast]].
@@ -26,6 +50,10 @@ Other resins served local purposes and occasional export. The *damar mata kucing
 
 Resin contributed to the forest-product export sector, complementing [[Rattan (Aceh)|rattan]], [[Kapok Fiber|kapok]] and [[Bakau Bast|bakau bast]] trades. The export was concentrated through [[Koeta-Radja|Kuta Raja]] and [[Belawan]], and the principal overseas buyers were in Singapore, the [[Netherlands|Netherlands]] and — for the perfume-grade benzoin — France. By the [[1930s]] the Atjeh resin trade had contracted, partly through over-tapping of the older benzoin gardens and partly through competition from synthetic resin substitutes, but benzoin remained an important smallholder crop of the Gayo highlands throughout the colonial period and into the post-independence era.
 
+
+## Sources
+*Atjeh-terpentijn: tegenwoordige kwaliteit en nieuwe beoordeelingen*, by Ir. W. Spoon, *Berichten van de Afdeeling Handelsmuseum van de Koninklijke Vereeniging Koloniaal Instituut* No. 57, Amsterdam: J. H. de Bussy, [[1930]], pp. 5, 9 (Winning van de terpentijn).
+
 ## See Also
 
 - [[Rattan (Aceh)]]
@@ -40,6 +68,19 @@ Resin contributed to the forest-product export sector, complementing [[Rattan (A
 - [[Buitengewesten]]
 - [[1920]]
 - [[1930]]
+- [[Atjeh-terpentijn (Spoor, 1930)]]
+- [[Atjeh-terpentijn]]
+- [[Baleq]]
+- [[Pinus Merkusii]]
+- [[Quarre]]
+- [['s Lands Caoutchouchedrijf]]
+- [[Dienst van het Boschwezen]]
+- [[Nederlandsche Handel-Maatschappij]]
+- [[Afdeeling Handelsmuseum]]
+- [[W. Spoon]]
+- [[Java]]
+- [[Oostkust van Sumatra]]
+- [[1928]]
 
 ## Source
 

@@ -1,8 +1,41 @@
 ---
 title: Teungku
-aliases: [Tengku, Tuan, Religious Leader, Ulama Acheh, Teungkoe, Teungku, Teungkoe meunasah, gampong religious head, Toekoe, T., Toeankoe, Toeankoe (title)]
-tags: [concept, religion, title, leadership, achehnese, religious, office, sultanate, honorific, toeankoe, sultan, tuan, colonial]
-description: "The Acehnese title for a religious leader or scholar, applied to a range of figures from ordinary village prayer-leaders to the most learned Islamic scholars and saints, forming the principal rival power to the uleebalang class."
+aliases:
+- Tengku
+- Tuan
+- Religious Leader
+- Ulama Acheh
+- Teungkoe
+- Teungkoe meunasah
+- gampong religious head
+- Toekoe
+- T.
+- Toeankoe
+- Toeankoe (title)
+- teungkoe meunasah (Groot-Atjeh)
+- teungku meunasah
+- teungku meunasah (Atjeh)
+- village religious official of Groot-Atjeh
+tags:
+- concept
+- religion
+- title
+- leadership
+- achehnese
+- religious
+- office
+- sultanate
+- honorific
+- toeankoe
+- sultan
+- tuan
+- colonial
+- islamic
+- slaughter
+- village
+description: The Acehnese title for a religious leader or scholar, applied to a range
+  of figures from ordinary village prayer-leaders to the most learned Islamic scholars
+  and saints, forming the principal rival power to the uleebalang class.
 ---
 **Teungku** (also *tengku*; both words appear to be contractions of *tuanku* — "my lord") was the most important religious title in [[Great Acheh|Acehnese]] society, applied to a wide range of persons with religious functions and scholarly attainments. Both *teungku* and *teuku* (the secular noble title) appear to be contractions of *tuanku*, though in practice they had sharply different social meanings. Kruisheer's *ATJEH '96* renders the title variously as *teungkoe*, *toekoe*, *tengkoe*, *teungku* or *tengku*, frequently abbreviated *T.*, and names dozens of teungkoes who played prominent roles in the [[Aceh War|Atjeh-oorlog]] of [[1896]].
 
@@ -125,6 +158,19 @@ The teungkoe is the institutional carrier of the religious dimension of the [[Ac
 - [[Toekoe Nja Banta]]
 - [[Uleebalang]]
 - [[Verkenningen in Atjeh (1923)]]
+- [[Kreemer's Atjeh ([[1922]]-23)]]
+- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Moloet]]
+- [[Snouck Hurgronje's De Atjehers ([[1893]]-94)]]
+- [[VI Moekim's of Groot-Atjeh]]
+- [[hakikah]]
+- [[hanji]]
+- [[kanoeri's]]
+- [[keutjhiq]]
+- [[maq meugang]]
+- [[meunasah]]
+- [[mukim]]
+- [[tjaroeëh]]
 
 ## Sources
 
@@ -135,3 +181,6 @@ The teungkoe is the institutional carrier of the religious dimension of the [[Ac
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 20, 45, 166, 183, 231, 244, passim.
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923); *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), where applicable.
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 117-118.
+*De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), vol. I, p. 241.
+*Atjèh*, by J. Kreemer, vol. II ([[1923]]), p. 209.

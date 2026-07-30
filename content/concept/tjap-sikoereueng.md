@@ -1,8 +1,61 @@
 ---
 title: Tjap sikoereuëng
-aliases: ["Tjap sikoereuëng", "tjap sikoereuëng", "tjap sikoereueng", "cap sikoereueng", "tjap sikoereung", "Sultanszegel", "Royal seal of appointment", "seal of nine circles", "negen cirkels"]
-tags: [concept, document, regalia, aceh, sultan, oeleebalang, seal, tjap-sikoereueng]
-description: "The royal seal of appointment — Acehnese 'seal of nine circles' — given by the Sultan of Atjeh to the oeléëbalangs on their appointment to a landschap; nine concentric circles on the document; on T. Tjhi Toenong's appointment by the Sultan; transferred to T. Radja Sabi as heir."
+aliases:
+- tjap sikoereueng
+- cap sikoereueng
+- tjap sikoereung
+- Sultanszegel
+- Royal seal of appointment
+- seal of nine circles
+- negen cirkels
+- Tjab Sikoereuëng (ninefold seal of Atjèh)
+- Tjab Sikoereuëng
+- Tjab Sikoereu'eng
+- chab sikoereuëng
+- the ninefold seal
+- the ninefold royal seal of Atjèh
+- Atjèh's rijksstempel
+- ninefold seal
+- cap sikureung
+- Sultan's seal of Aceh
+- Sultan's seal
+- Sultans-zegel
+- Aanstellingsbrief van Sultan Ibrahim Mansoer
+- Olé Glé appointment brief
+- nine circles seal
+- Sultanszegel van Atjeh
+- negenvoudige zegel
+- nine-fold seal
+- chop sultan
+- cap siam
+- Mohor Sultan
+tags:
+- concept
+- document
+- regalia
+- aceh
+- sultan
+- oeleebalang
+- seal
+- tjap-sikoereueng
+- political
+- atjehnese
+- precolonial
+- 17th-century
+- sultanate
+- symbol
+- iskander-muda
+- sovereignty
+- achehnese
+- appointment
+- government
+- authority
+- material-culture
+- royal-insignia
+description: The royal seal of appointment — Acehnese 'seal of nine circles' — given
+  by the Sultan of Atjeh to the oeléëbalangs on their appointment to a landschap;
+  nine concentric circles on the document; on T. Tjhi Toenong's appointment by the
+  Sultan; transferred to T. Radja Sabi as heir.
 ---
 
 **Tjap sikoereuëng** — Acehnese: *seal of nine circles*; the *Sultanszegel* — is the royal seal of appointment by which the Sultan of [[Aceh|Atjeh]] invested an [[Uleebalang|oeléëbalang]] with the government of a *landschap*. The seal is nine concentric circles — *de negen cirkels* — printed on the appointment-letter; the letter, with the *tjap sikoereuëng*, was the *oeléëbalang*'s title-deed. *Afdruk van een Sultanszegel. Een aanstellingsbrief van wijlen Sultan Ibrahim Mansoer aan den oeléëbalang van Olé Glé. Het stuk draagt den tjap Sikoereuëng met de negen cirkels, en is ongeveer eene eeuw oud*.
@@ -22,6 +75,14 @@ The *tjap sikoereuëng* appears in other Atjehsche documents. The Tiro-oelama's 
 ## Significance
 
 The *tjap sikoereuëng* was the parchment bridge between the Sultan and the *oeléëbalang*; when the Sultan was gone and the *kraton* taken, the *tjap sikoereuëng* carried the legitimacy of the old order into the mountains, to the *toenong* and his heir. The *adelaarsjong* of Keureutoë was the *rechthebbende* on the *landschap* not because the Gouvernement said so — the Gouvernement said the opposite — but because the *tjap sikoereuëng* said so.
+
+
+## Sources
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, A ("Oudste geschiedenis tot 1824"), blz. 6.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]].
+Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+*Gids voor den bezoeker van de schatkamer*, Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen, Batavia, 1928. Druk: Ruygrok & Co., Batavia. Cabinet 4 (Atjeh), item 28.
 
 ## See Also
 
@@ -44,6 +105,32 @@ The *tjap sikoereuëng* was the parchment bridge between the Sultan and the *oel
 - [[1937]]
 - [[19th-century]]
 - [[20th-century]]
+- [[Acheh]]
+- [[Iskander Muda]]
+- [[Adat Meukuta Alam]]
+- [[sultanszegel van Atjeh]]
+- [[sarakata]]
+- [[atjehsche-viervorsten-systeem]]
+- [[sagi-system]]
+- [[1607]]
+- [[1636]]
+- [[Sarakata]]
+- [[Adat Meukoeta Alam]]
+- [[Sultan Iskandar Moeda]]
+- [[Tadjoel-Alam Safijatoeddin]]
+- [[K. F. H. van Langen]]
+- [[Vrouwenregeering]]
+- [[Tjap sikoereuëng]]
+- [[Tengkoe Sjech Saman di Tiro]]
+- [[Tengkoe Tjot Plieëng]]
+- [[Rantej boei]]
+- [[Aceh]]
+- [[1938]]
+- [[Aceh Sultanate]]
+- [[Toekoe Moeda Ia Malim]]
+- [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen]]
+- [[Batavian Society Treasure Room Aceh Collection]]
+- [[Acehnese Gold and Silverwork]]
 
 ## Source
 

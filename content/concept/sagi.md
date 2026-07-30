@@ -1,7 +1,52 @@
 ---
-title: "Sagi (Atjeh administrative division)"
-aliases: ["Three sagi's of Groot-Atjeh", "Sagi (Atjehnese federation)", "sagi", "the Atjehnese sagi", "the three sagi's of Groot-Atjeh", "Sagi (Atjehnese division)"]
-tags: [concept, administrative-division, sagi, groot-atjeh, indigenous-governance, atjeh, sultanate, achehnese, acheh, administrative, territorial, federation, institution, division, three-sagi, colonial, administration, governance]
+title: Sagi (Atjeh administrative division)
+aliases:
+- Three sagi's of Groot-Atjeh
+- Sagi (Atjehnese federation)
+- sagi
+- the Atjehnese sagi
+- the three sagi's of Groot-Atjeh
+- Sagi (Atjehnese division)
+- Sagi System
+- Three Sagis
+- XXV Mukims
+- XXVI Mukims
+- XXII Mukims
+- sagiʼ
+- thagïʼ
+- Atjehsche federatie
+- side
+- Sagi (Atjeh)
+- Sagie
+- Atjeh Sagi
+- Atjeh three Sagis
+- Three Sagis of Groot-Atjeh
+- Sagi of Atjeh
+tags:
+- concept
+- administrative-division
+- sagi
+- groot-atjeh
+- indigenous-governance
+- atjeh
+- sultanate
+- achehnese
+- acheh
+- administrative
+- territorial
+- federation
+- institution
+- division
+- three-sagi
+- colonial
+- administration
+- governance
+- government
+- territory
+- acehnese
+- political-division
+- aceh-war
+- 19th-century
 ---
 
 **The Sagi** (Atjèhnese for "corner" or "side," cf. *soeröé*; plural: sagi's) was the highest indigenous administrative unit in [[Groot-Atjeh|Groot Atjèh]], described by Gouverneur [[H. N. A. Swart|H. N. N. A. Swart]] at the [[Koeta-Radja]] meeting ([[19 January]] [[1914]]) as more or less comparable to the regentschappen of Java. There were three sagi's in Groot-Atjeh, each encompassing a large territory with its own hierarchy of subordinate administrative units: the [[peleebalangschap]]pen (comparable to Javanese districten) and the [[moekimschap]]pen (comparable to Javanese onderdistricten). The sagi thus occupied the apex of a three-tier administrative hierarchy that structured indigenous governance in the rechtstreeks bestuurd gebied (directly ruled territory) of Atjeh, providing the colonial administration with a framework through which it could exercise oversight while maintaining the appearance of indigenous self-governance.
@@ -84,6 +129,13 @@ The conquest of the sagi's of Groot-Atjeh was, in Borel's account, the principal
 
 [[Panglima Pòlém]] was the *sagi*-head whose positions [[Joannes Benedictus van Heutsz|van Heutsz]] attacked in [[1898]] in his column area, the *sagi* of the [[XXII Moekims]], driving him to [[Pidië]]. On [[27 March]] [[1902]] [[H. N. A. Swart]] was charged with the government of the division of the [[XXV Moekims]] with the southern settlements; on [[17 July]] he was relieved of the government of "the sub-division of the Sagi of the XXV Moekims and the southern settlements". In [[1909]] the *sagi* of the XXII Moekims was among the sub-divisions placed under civil administrators.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 7–8, pp. 88–193.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 44–46. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, pp. 91, 94.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI, "Het bestuur van generaal van der Heijden, van Juni 1877 tot April 1881." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 30.
+
 ## See Also
 
 - [[Groot-Atjeh|Groot Atjèh]]
@@ -138,6 +190,34 @@ The conquest of the sagi's of Groot-Atjeh was, in Borel's account, the principal
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Great Acheh]]
+- [[Acheh River]]
+- [[Aceh Sultanate]]
+- [[Teuku Kali Malikon Ade]]
+- [[Oelèëbalang]]
+- [[Panglima Sagi]]
+- [[Sultans of Atjeh]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
+- [[22 Moekims]]
+- [[25 Moekims]]
+- [[26 Moekims]]
+- [[Sultan's gebied]]
+- [[Moekim (Atjehese unit)]]
+- [[General van der Heijden]]
+- [[Conquest of the 22 Moekims (March-June 1879)]]
+- [[Conquest of the 26 Moekims (1-4 July 1879)]]
+- [[Selimoen]]
+- [[Kemala]]
+- [[Pedir]]
+- [[Pruijs van der Hoeven]]
+- [[Laging Tobias]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Aceh War]]
+- [[Atjeh-oorlog]]
+- [[1879]]
+- [[1884]]
+- [[1898]]
 
 ## Source
 

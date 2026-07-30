@@ -1,7 +1,22 @@
 ---
 title: Oom Ambon van het K.N.I.L.
-aliases: [Oom Ambon, Oom Ambon van het KNIL, Dames Oom Ambon, Oom Ambon 1954]
-tags: [document, book, source, knil, aceh, ambonese]
+aliases:
+- Oom Ambon
+- Oom Ambon van het KNIL
+- Dames Oom Ambon
+- Oom Ambon 1954
+- Oom
+- the Ambonese soldier
+tags:
+- document
+- book
+- source
+- knil
+- aceh
+- ambonese
+- concept
+- term
+- identity
 ---
 
 **Oom Ambon van het K.N.I.L.** — "Uncle Ambon of the K.N.I.L." — is a Dutch-language book by [[G. W. T. Dames]], *Maj. Inf. K.N.I.L. b.d.* (Major of Infantry, K.N.I.L., retired), published in 's-[[Gravenhage]] (The Hague) in [[1954]] by the *Koninklijke Bibliotheek*. The book is the single richest Dutch-language portrait of the Ambonese professional soldier of the colonial army, and the principal printed source for the daily life, patrols, songs and ethos of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee corps in Aceh]] in the last decades of colonial rule. It is the source of every entry in this AcehWiki corpus that draws on Dames.
@@ -43,6 +58,10 @@ The book's chapters are:
 
 *[[Oom Ambon van het K.N.I.L.]]* is the single richest Dutch-language portrait of the Ambonese professional soldier of the colonial army. Because it was written in [[1954]] — late enough to look back on the whole arc of the [[K.N.I.L.]] from the [[Aceh War]] to the [[Souvereiniteitsoverdracht (27 December 1949)|transfer of sovereignty]], early enough to be informed by living memory — it functions both as a primary source on the last generation of *[[Oom Ambon]]* and as a retrospective interpretation of what that figure meant. Its affectionate but clear-eyed portrait of the Ambonese soldier, of the *[[tangsi]]* culture that shaped him, and of the colonial regime he served, has been drawn on by every later historian of the [[K.N.I.L.]] and of the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]] in particular.
 
+
+## Sources
+*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapter "Van recruut tot pensioen."
+
 ## See Also
 
 - [[G. W. T. Dames]]
@@ -56,6 +75,15 @@ The book's chapters are:
 - [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
 - [[Hotel de Boer]]
 - [[1954]]
+- [[Tante]]
+- [[Oom Ambon van het K.N.I.L.]]
+- [[Tanamal]]
+- [[Salawono]]
+- [[Tamaela]]
+- [[Tangsi]]
+- [[Spandri]]
+- [[Soldaat sadja]]
+- [Atjehmensen](/concept/atjehmensen)
 
 ## Source
 

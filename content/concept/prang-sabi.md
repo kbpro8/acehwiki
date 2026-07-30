@@ -1,7 +1,71 @@
 ---
 title: Prang sabi
-aliases: ["Prang Sabil", "prang sabil", "Perang Sabil", "the Atjehnese holy war", "holy war (Atjeh)", "sabil", "sabililah", "jihad", "Acehnese holy war", "de prang sabil", "war of the sabil", "heilige oorlog"]
-tags: [concept, achehnese, religious, military, resistance, doctrine, acheh, islam, war, atjeh, aceh-war, 19th-century, colonial]
+aliases:
+- Prang Sabil
+- Perang Sabil
+- the Atjehnese holy war
+- holy war (Atjeh)
+- sabil
+- sabililah
+- jihad
+- Acehnese holy war
+- de prang sabil
+- war of the sabil
+- heilige oorlog
+- Holy War
+- Heiligen Krijg
+- Heiligen Oorlog
+- geloofsoorlog
+- djihad
+- fi sabil Allah
+- Sabil Allah
+- Sabilillah
+- Prang sabil as understood in the Tweede Kamer (1897)
+- prang sabil in the 1897 debate
+- heilige oorlog Atjeh 1897
+- the holy war of Atjeh in Dutch parliamentary debate
+- Holy War against the Dutch
+- Jihad against the Dutch
+- Sabilullah
+- Holy War in Acheh
+- Holy War (Jihad) against the Dutch
+- Heiligen-oorlog Atjeh
+- Holy War Atjeh
+- Jihad Atjeh
+- Atjeh Jihad
+- Prang sabi (Holy War)
+- Sabi war
+- Sab'il Allah
+- War in the way of God
+tags:
+- concept
+- achehnese
+- religious
+- military
+- resistance
+- doctrine
+- acheh
+- islam
+- war
+- atjeh
+- aceh-war
+- 19th-century
+- colonial
+- islamic
+- aceh
+- prang-sabil
+- jihad
+- religion
+- parliament
+- 1897
+- event
+- political
+- acehnese
+- muslemin
+- holy-war
+- jakeuet
+- ulama
+- conflict
 ---
 **Prang sabi** (Atjèhnese, from the Arabic *fi sabil Allah*, "in the path of God"; English "holy war") is the Atjèhnese term for the religious duty, incumbent on every Muslim in time of conflict with the infidel, of taking up arms against the *[[kaphé|kaphé]]* (unbeliever) — a duty that, in Atjèh, attained a prominence and an intensity "to a higher degree inherent in the Acehnese than in most of their co-religionists elsewhere, who, taught by experience, have set it aside as no longer of this time." The doctrine is the central religious concept of Atjèhnese resistance — the thread that runs from the [[Aceh War|Atjèh War]] of [[1873]]–[[1904]] through the [[Bakóngan uprising (1925–1927)|Bakóngan uprising]] and the [[Lhóng action (1933)|Lhóng action of 1933]] to the [[Japanese invasion of Atjèh|Japanese invasion]] of [[1942]] — and the reason the colonial army could not, by arms alone, end the resistance.
 
@@ -135,6 +199,96 @@ The *sabil*'s significance in the [[Aceh Wiki History]] record, in Van Heutsz's 
 - [[Pacificatie van Atjeh]]
 - [[Nederland en de Islam (Snouck Hurgronje, 1911)]]
 - [[Atjeh-oorlog (1873-1904)]]
+- [[Hikajat prang]]
+- [[Oelama]]
+- [[Uleebalang]]
+- [[Mèl]]
+- [[Kandoerie]]
+- [[Tengkoe Sjech Saman di Tiro]]
+- [[Tengkoe Mat Amin di Tiro]]
+- [[Tengkoe Majet di Tiro]]
+- [[Tengkoe di Boekit]]
+- [[Tengkoe Tjhi Maät di Tiro]]
+- [[Tengkoe Sech Ibrahim]]
+- [[Habib Abdoerrachman el Zahir]]
+- [[Tjoet Ali]]
+- [[Tgk. Doellah]]
+- [[Tiro-oelama's ultimatum letter (1885)]]
+- [[Brief van 18 Radjab 1325]]
+- [[Pursuit of the Tiro-oelamas (1908-1910)]]
+- [[Westkust resistance (1925-1927)]]
+- [[Death of Tjoet Ali (1927)]]
+- [[1878]]
+- [[1885]]
+- [[1908]]
+- [[1910]]
+- [[1917]]
+- [[1933]]
+- [[Kafi / Kafir]]
+- [[Moslemin]]
+- [[Teungkoe / Toekoe / Tengkoe (honorific)]]
+- [[Teungkoe Koeta Karang]]
+- [[Teungkoe Tanah Abée]]
+- [[Toekoe Djohan Lampasei]]
+- [[Panglima Polim]]
+- [[Lepong]]
+- [[Masdjid]]
+- [[Proclamation by Lt. Gen. Vetter to the heads and people of the 3 sagi of Groot-Atjeh]]
+- [[VI Moekims]]
+- [[IV Moekims]]
+- [[Luitenant-Generaal Vetter]]
+- [[Habib]]
+- [[XXII Moekims]]
+- [[XXVI Moekims]]
+- [[H. van Kol]]
+- [[J. T. Cremer]]
+- [[Abraham Kuyper]]
+- [[Pieter Jelles Troelstra]]
+- [[Sabil contributions]]
+- [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
+- [[1897]]
+- [[Achehnese War]]
+- [[Acheh War]]
+- [[Teungku Tiro]]
+- [[Jakeuet (zakat)]]
+- [[Habib Abdurrahman]]
+- [[XXVI Mukims]]
+- [[Sabil Contributions]]
+- [[De Islaam in Indonesië (Mellema, 1947)]]
+- [[R. L. Mellema]]
+- [[Oelama zakaat war-chest in the Atjehoorlog (Mellema 1947)]]
+- [[Haddji title prestige in Atjeh (Mellema 1947)]]
+- [[ulama-uleebalang social revolution in Atjeh (1945-1946)]]
+- [[1947]]
+- [[Muslemin]]
+- [[Habib Abdul Rachman El-Zahir]]
+- [[Tengkoe di Tirou]]
+- [[Tengkoe Mohamed Amin]]
+- [[Restoration of the Sultanate (1885-1896)]]
+- [[Indrapoeri]]
+- [[Toeankoe Hasschim]]
+- [[Toekoe Oemar]]
+- [[Nja Makam]]
+- [[Pompe van Meerdervoort]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Civil Government Period (1881-1884)]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Tiro Teungku family]]
+- [[Groot-Atjeh]]
+- [[Kota Radja]]
+- [[Oostkust]]
+- [[Atjeh-oorlog]]
+- [[August 1876]]
+- [[March 1881]]
+- [[1886]]
+- [[July 1891]]
+- [[February 1892]]
+- [[January 1891]]
+- [[1898]]
+- [[Defection of Teuku Uma|Treachery of Teuku Uma against the Dutch]]
+- [[Submission of Teuku Uma]]
+- [[Teuku Uma]]
+- [[Sultan of Acheh]]
 
 ## Sources
 
@@ -145,3 +299,10 @@ The *sabil*'s significance in the [[Aceh Wiki History]] record, in Van Heutsz's 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 271-272, 277.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 40, 63, 92, 97, 98. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 45, 231.
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 11–12, 23, 42, 57.
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+*De Islaam in Indonesië (in het bijzonder op Java)*, by Drs. R. L. Mellema. Mededeling No. LXXVII, Afd. Volkenkunde No. 25. Amsterdam: Koninklijke Vereniging "Indisch Instituut," 1947. "De zakaat, de 3e zuil van de wet," pp. 34–36; and *Register*, s.v. *oelama* "(wetgeleerden in Atjeh)."
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter V (the Habib Abdul Rachman return), Chapter VIII (the 1881 preaching), Chapter IX (the Muslemin constitution), Chapter XI (Snouck Hurgronje's diagnosis). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 22, 41, 49, 62.

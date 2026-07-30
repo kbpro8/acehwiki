@@ -1,8 +1,74 @@
 ---
 title: Mukim
-aliases: ["Mukim", "mukim", "the Atjehnese mukim", "moekim", "Moekims", "mukims", "Moekim"]
-tags: [concept, government, administrative-unit, achehnese, religious, administration, sultanate, administrative, acheh, territorial, atjeh, aceh-war, 19th-century, zelfbestuur]
-description: "The Acehnese parish — a grouping of gampongs sharing a Friday mosque (meusigit), led by an imeum mukim, forming the intermediate level between the village and the uleebalangship."
+aliases:
+- the Atjehnese mukim
+- moekim
+- Moekims
+- mukims
+- moeqim
+- ecclesiastical-administrative unit of Aceh
+- Mockim
+- Mockims
+- M.
+- Moekimschap
+- Mukim system
+- Atjeh moekim
+- Imeum Mukim
+- Imam Mukim
+- Imeum
+- Acehnese Parish Head
+- imuem
+- imam
+- head of the moekim
+- oelèëbalang tjoet
+- Moekim and Imeum in Atjeh (Mellema 1947)
+- Moekim as territorial parish in Atjeh
+- Imeum in Atjeh
+- Atjeh imeum
+- Moekim (Atjeh
+- Mellema account)
+- Imeum (Atjeh
+- Territorial congregation in Atjeh
+- Friday-moske parish of Atjeh
+tags:
+- concept
+- government
+- administrative-unit
+- achehnese
+- religious
+- administration
+- sultanate
+- administrative
+- acheh
+- territorial
+- atjeh
+- aceh-war
+- 19th-century
+- zelfbestuur
+- sumatra
+- institution
+- division
+- moekim
+- mukim
+- mosque-group
+- imeum
+- oeléebalang-tjoet
+- colonial
+- governance
+- administrative-division
+- groot-atjeh
+- indigenous-governance
+- village-cluster
+- mukim-leader
+- office
+- imam
+- ecclesiastical-head
+- friday-service
+- comparative
+- mellema-1947
+description: The Acehnese parish — a grouping of gampongs sharing a Friday mosque
+  (meusigit), led by an imeum mukim, forming the intermediate level between the village
+  and the uleebalangship.
 ---
 
 **Mukim** (also **moekim**; from Arabic *moeqim* "inhabitant") was the intermediate administrative and religious unit of [[Great Acheh|Acehnese]] society, sitting between the individual [[Gampong|gampong]] (village) and the [[Uleebalang|uleebalangship]] (territory). It was essentially a Friday-mosque association — a grouping of [[Gampong|gampongs]] (typically four) lying sufficiently close to one another to form a single congregation for the Friday midday prayer around a common [[Meusigit|meuseugit]] (mosque). By Kreemer's time, the moekim's had become administrative *bestuursressorten* (administrative districts). The head of each moekim was the *imeum* (from Arabic *imam*), originally the leader of the Friday service.
@@ -146,6 +212,53 @@ The use of "*Moekims*" in the names of administrative districts persisted under 
 - [[1893]]
 - [[1927]]
 - [[1930]]
+- [[1896]]
+- [[Gampöng]]
+- [[Groot Atjèh]]
+- [[Hoeloebalang]]
+- [[Imam]]
+- [[Kampong]]
+- [[Lamkrak Moekims]]
+- [[Lho' Nga]]
+- [[Masdjid]]
+- [[Oelèëbalang]]
+- [[Oeléebalang tjoet]]
+- [[Panglima Sagi]]
+- [[Sagi]]
+- [[Sagi (Atjehnese division)]]
+- [[Seulimeum]]
+- [[Teuku Umar]]
+- [[Toekoe Hoesin Lhongbatta]]
+- [[V Moekims Montassik]]
+- [[Verkenningen in Atjeh (1923)]]
+- [[XXII Moekim's]]
+- [[XXII Moekims]]
+- [[XXV Moekim's]]
+- [[XXVI Moekim's]]
+- [[XXVI Moekims]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
+[[Sagi]], [[Peleebalangschap]], [[Groot-Atjeh]], [[F. W. A. L. de Nijs]], [[G. F. B. Watrin]], [[G. J. van Dongen]], [[Inlandsch Bestuur]], [[Erfelijkheid in Atjeh hoofd appointments]], [[Civiel Gezaghebber]], [[Rechtstreeks bestuurd gebied]]
+- [[1923]]
+- [[Gampong]]
+- [[Keuchi']]
+- [[Meuseugit]]
+- [[Meusigit]]
+- [[Moekim]]
+- [[Mukim]]
+- [[Oelama]]
+- [[Oelèëbalang tjoet]]
+- [[Oeléebalang]]
+- [[Pidie]]
+- [[Pidië]]
+- [[Teungkoe]]
+- [[Rangkang]]
+- [[C. Snouck Hurgronje]]
+- [[Snouck Hurgronje's De Atjehers (1893-94)]]
+- [[De Buitenbezittingen]]
+- [[Java]]
 
 ## Sources
 
@@ -162,6 +275,13 @@ The use of "*Moekims*" in the names of administrative districts persisted under 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 13, 17, 21–23, 25, 37 (and pp. 47–49, 86–88, 97–100, on the Sagi federations and the Van der Heijden campaigns of 1878–1879). OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
 *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*. Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesen van het Departement van Binnenlandsch Bestuur*. Weltevreden: Landsdrukkerij, [[1930]], passim (esp. Reg. No. 13 signatory clause, "III Mockins Lam Bensoë", and Reg. No. 9a signatory clause, "IV Moekims"). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters XIII, XV, *'Het groote rijstland Pidië'* and *'Groot-Atjeh'*, pp. 90, 101.
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 19–20, 22, 67, 72, 76–77, 80, 92–93, 117, 122, 138, 141–142, 145, 148, 165, 175, 179, 181, 213, 231–232, 242, 292, 296, 319, 348.
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923); *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), where applicable.
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XII, XIII.
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118, 128-129.
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters XIII, XV, *'Het groote rijstland Pidië'* and *'Groot-Atjeh'*, pp. 90, 94, 101.
+*De Islaam in Indonesië (in het bijzonder op Java)*, by Drs. R. L. Mellema. Mededeling No. LXXVII, Afd. Volkenkunde No. 25. Amsterdam: Koninklijke Vereniging "Indisch Instituut," 1947. "Verschil tussen moskee en langgar," p. 16; and *Register*, s.v. *Imeum* "(in Atjeh hoofd van een moekim)" and *Moekim* "(gebiedsdeel in Atjeh)."
 
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
 

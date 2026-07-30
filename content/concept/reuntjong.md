@@ -1,7 +1,31 @@
 ---
 title: Reuntjong
-aliases: ["reuntjong", "rencong", "rentjong", "Acehnese kris", "Acehnese dagger", "Atjehsche rentjong", "Atjeh dagger", "Atjeh rentjong met houten schede", "Wagner's rentjong"]
-tags: [concept, weapon, acehnese, resistance, wood-carving, precolonial]
+aliases:
+- rencong
+- rentjong
+- Acehnese kris
+- Acehnese dagger
+- Atjehsche rentjong
+- Atjeh dagger
+- Atjeh rentjong met houten schede
+- Wagner's rentjong
+- bawar
+- Atjehsche dagger
+- poesaka rentjong
+tags:
+- concept
+- weapon
+- acehnese
+- resistance
+- wood-carving
+- precolonial
+- dagger
+- aceh
+- rentjong
+- rencong
+- bawar
+- achehnese
+- adat
 ---
 
 **The reuntjong** — also *rencong*, *rentjong*, the Acehnese kris or dagger — was the traditional bladed weapon of the [[Acheh|Acehnese]], and the symbolic weapon of the Acehnese resistance in *[[Oom Ambon van het K.N.I.L.]]* ([[1954]]). The *reuntjong* also appears in F. A. Wagner's *[[Sierkunst in Indonesië]]* ([[1949]]) as an Atjeh product whose wooden sheath was decorated with stylised leaf-motifs in fine engraving — a craftsman's account that complements the soldier's account of Dames. The two accounts together give the *reuntjong* its full AcehWiki presence: the weapon of the resistance, made by the Atjeh craftsman, decorated with the Atjeh wood-engraver's leaf-motif, and produced in Atjeh until the tradition declined in the late-colonial period.
@@ -47,6 +71,12 @@ The *reuntjong* is significant in *[[Oom Ambon van het K.N.I.L.]]* as the symbol
 
 In the larger history of [[Acheh|Atjeh]]nese decorative art, the *rentjong* in Wagner's account is, in turn, the principal example of Atjeh wood-carving on a weapon — the principal instance of the Atjeh wood-engraver's art applied to the sheath of the Atjeh warrior's principal blade. Its significance is that it places the Atjeh wood-engraver's art alongside the Atjeh weaver's art (the *[[idja]]*, the *[[anker-motief]]*, the *[[plang]]*) and the Atjeh metalworker's art (the [[Atjeh brass lamps]], the [[heetsen]], the [[tjawardi]], the [[Atjeh silver-wire ornament]]) in the cluster of Atjeh craft traditions. The *rentjong*'s decorated sheath is, in this sense, the wood-carver's contribution to the Atjeh warrior's kit — the kit that included, in metal, the blade of the *rentjong* itself, and, in wood, the engraved leaf-motifs of its sheath.
 
+
+## Sources
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, XII.
+
 ## See Also
 
 - [[Klewang]]
@@ -64,6 +94,24 @@ In the larger history of [[Acheh|Atjeh]]nese decorative art, the *rentjong* in W
 - [[Acheh]]
 - [[1949]]
 - [[1954]]
+- [[Peudeueng]]
+- [[Rantej boei]]
+- [[Oelama]]
+- [[Tjoet Ali]]
+- [[Potjoet Meurah]]
+- [[Tjoet Nja Din]]
+- [[Tengkoe Sjech di Paja Bakong]]
+- [[Schmidt]]
+- [[Veltman]]
+- [[Tangsé]]
+- [[Mengamat attack (1927)]]
+- [[Death of Tjoet Ali (1927)]]
+- [[Aceh War]]
+- [[20th-century]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 

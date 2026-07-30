@@ -1,9 +1,55 @@
 ---
 title: Pacification of Aceh
-aliases: ["Aceh pacification", "Van Heutsz's pacification", "pacification of Atjeh", "pacification policy", "Pacificatie van Atjeh", "Pacification of Atjeh", "onderwerping van Atjeh", "subjugation of Atjeh", "subjugation of Acheh", "Pacificatie", "de pacificatie", "volledige pacificatie", "pacificeerende politiek", "verstandig pacificeerend"]
-
-tags: [concept, event, colonial, achehnese, war, pacification, military, political, dutch, achehnese-history, atjeh, aceh-war, 19th-century, colonial-policy]
-description: "The pacification of Atjeh refers to the eventual subjugation of the Achehnese sultanate by Dutch military and political means, a process that began with the first expedition of 1873 and was completed under Governor Van Heutsz. It was commemorated by the Atjeh Monument in Weltevreden and the Peutjot Cemetery near Kota Radja."
+aliases:
+- Aceh pacification
+- Van Heutsz's pacification
+- pacification of Atjeh
+- pacification policy
+- Pacificatie van Atjeh
+- onderwerping van Atjeh
+- subjugation of Atjeh
+- subjugation of Acheh
+- Pacificatie
+- de pacificatie
+- volledige pacificatie
+- pacificeerende politiek
+- verstandig pacificeerend
+- Atjeh pacification
+- Atjeh pacificatie
+- Pacificatie Atjeh
+- the pacification of Atjeh
+- Pacificatie of Aceh
+- Pacificatie van Atjeh (Nederlanders over de Zeeën account)
+- pacificatie (Nederlanders over de Zeeën account)
+- Submission of Aceh
+- Atjeh-onderwerping
+tags:
+- concept
+- event
+- colonial
+- achehnese
+- war
+- pacification
+- military
+- political
+- dutch
+- achehnese-history
+- atjeh
+- aceh-war
+- 19th-century
+- colonial-policy
+- policy
+- pruijs-van-der-hoeven
+- civil-government
+- aceh
+- administration
+- 20th-century
+- buitenbezittingen
+- acheh
+description: The pacification of Atjeh refers to the eventual subjugation of the Achehnese
+  sultanate by Dutch military and political means, a process that began with the first
+  expedition of 1873 and was completed under Governor Van Heutsz. It was commemorated
+  by the Atjeh Monument in Weltevreden and the Peutjot Cemetery near Kota Radja.
 ---
 
 The **pacification of Aceh** (Dutch: *De pacificatie van Atjeh*) refers to the transition from military conquest to stable colonial governance in [[Acheh|Atjèh]] (Aceh) — the eventual subjugation of the Achehnese sultanate by Dutch military and political means, beginning with the first Dutch expedition to Atjeh in [[1873]] and carried through to completion under [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] ([[1898]]–[[1904]]) and his subsequent tenure as Governor-General ([[1904]]–[[1909]]). The process involved a combination of military pressure, political co-optation of local chiefs, and economic development, built on the fundamental principle that the indigenous leadership — particularly the *oelèëbalangs* — should be supported and guided rather than suppressed. This principle was advised by [[C. Snouck Hurgronje|C. Snouck Hurgronje]] and subsequently broken by [[Gotfried Coenraad Ernst van Daalen|Van Daalen]], whose deviation triggered the [[Atjéh-enquête|Atjéh-enquête]] and his removal. It was commemorated in the colonial capital by the [[Atjeh Monument]] in the Wilhelminapark at [[Weltevreden]], and on the battlefield itself by the [[Peutjot Cemetery|cemetery at Peutjot]] near [[Kota Radja]].
@@ -151,6 +197,79 @@ The *pacificatie*'s significance in the [[Aceh Wiki History]] record, in the 189
 - [[Dominee Thenu]]
 - [[Pastoor Verbraak]]
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
+- [[Pruijs van der Hoeven]]
+- [[Struisvogelpolitiek]]
+- [[Scheepvaartregeling]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Pahlawan-klucht]]
+- [[Restoration of the Sultanate (1885-1896)]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Scherer]]
+- [[General van Teijn]]
+- [[Corps Maréchaussée (Atjeh)]]
+- [[De onderwerping van Atjeh (Van Heutsz)]]
+- [[Jan van Swieten]]
+- [[J. L. J. H. Pel]]
+- [[Diemont]]
+- [[General van der Heijden]]
+- [[Laging Tobias]]
+- [[Demmeni]]
+- [[Pompe van Meerdervoort]]
+- [[Deijkerhoff]]
+- [[Vetter]]
+- [[Atjeh-oorlog]]
+- [[September 1882]]
+- [[January 1891]]
+- [[April 1891]]
+- [[March 1896]]
+- [[Christiaan Snouck Hurgronje]]
+- [[Gotfried Coenraad Ernst van Daalen]]
+- [[Het Pacificeerende Bestuurswerk 1908-1918]]
+- [[Van Militair naar Civiel Bestuur]]
+- [[Van Aken]]
+- [[I. Feenstra]]
+- [[1918]]
+- [[1936]]
+- [[Atjeh en Onderhoorigheden]]
+- [[Atjeh's Onderhoorigheden]]
+- [[Herendienst (in Atjeh)]]
+- [[Van der Heyden]]
+- [[1896]]
+- [[1894]]
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[Van Heutsz's report on Atjeh (June 1908)]]
+- [[Gewapende Politie]]
+- [[Buitenbezittingen]]
+- [[Toekoe Oemar's verraad (1896)]]
+- [[Van Kol's 1902 traverse of Atjeh]]
+- [[H. B. van Kol]]
+- [[1914]]
+- [[Van Daalen's Gajo-Alas-Batak expedition (1904)]]
+- [[C. Th. van Deventer]]
+- [[J. K. J. de Stuers]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[Toekoe Oemar]]
+- [[1912]]
+- [[Zelfbestuurs-ordonnantie]]
+- [[Atjeh-tram]]
+- [[Groot-Atjeh]]
+- [[1902]]
+- [[1910]]
+- [[J. B. van Heutsz]]
+- [[Acheh]]
+- [[Landschapskassen]]
+- [[Berglijntje Keude Breue–Seulimeum]]
+- [[G. C. E. van Daalen]]
+- [[1892 Snouck Hurgronje advice on Atjeh]]
+- [[Atjehoorlog]]
+- [[Nederlandsch-Indië]]
+- [[Korte verklaring]]
+- [[Dr. C. Snouck Hurgronje]]
+- [[Keuchenius]]
+- [[Atjeh-opstellen]]
+- [[Aceh]]
+- [[Kracht van wapenen]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz's governorship]]
 
 ## Sources
 
@@ -163,3 +282,9 @@ The *pacificatie*'s significance in the [[Aceh Wiki History]] record, in the 189
 *DLP-84-Atjeh.pdf*, pp. 5-6.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 32, 34, 36, 62, 63, 67, 70, 95, 108. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Throughout — the Pacificatie van Atjeh is the recurrent Dutch project throughout the brochure. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`.
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter I, p. 1; Chapter III, pp. 15–16; Chapter IV, p. 23; Chapter XVI, pp. 148–157; Chapter XVII, p. 164.
+*De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 2–3 (Bestuurs-organisatie), p. 19 (Politie), pp. 68–70 (section "De Atjeh-tram"), p. 10 (Landschapskassen).
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-275.
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 217-219, 238.
+*Brief aan Zijne Excellentie den Heere J. B. VAN HEUTSZ, Gouverneur-Generaal van Nederlandsch-Indië*, by W. H. J. Keuchenius (Batavia: Atelier A. M. Van Belkum & Co., 1905). BIBLIOTHEEK Dr ABRAHAM KUYPERSTICHTING, 3259 D 64 i 76, pp. 5, 49-50.

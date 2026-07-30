@@ -1,7 +1,32 @@
 ---
 title: Peungklēh (Atjehnese trousseau)
-aliases: [peungklēh, peungkleh, Atjehnese trousseau, uitzet Atjeh, peungklēh Atjeh, toescheiding Atjeh, Atjehnese uitzet]
-tags: [concept, law, adatrecht, achehnese, inheritance, toescheiding, uitzet, marriage, ter-haar, 1939, 1950, colonial]
+aliases:
+- peungklēh
+- peungkleh
+- Atjehnese trousseau
+- uitzet Atjeh
+- peungklēh Atjeh
+- toescheiding Atjeh
+- Atjehnese uitzet
+- Peungklèh
+- Putting forth
+- Putting forth of the daughter
+tags:
+- concept
+- law
+- adatrecht
+- achehnese
+- inheritance
+- toescheiding
+- uitzet
+- marriage
+- ter-haar
+- 1939
+- 1950
+- colonial
+- event
+- ceremony
+- adat
 ---
 
 **The peungklēh** — the Atjehnese *uitzet* (trousseau) — is the adatrechtelijk institution by which, in Atjeh, a portion of the family estate is allocated (*toegescheiden*) to a marrying daughter, sometimes with great ceremony, as her trousseau. The institution is cited by [[B. ter Haar BzN|B. ter Haar BzN]] in *[[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)|Beginselen en Stelsel van het Adatrecht]]* (first ed. [[1939]]; 4th ed. [[1950]]) as a species of *toescheiding* — the allocation of property from the family estate to a child — and as an Atjehnese instance of the wider Indonesian category of the *uitzet* (trousseau).
@@ -26,6 +51,10 @@ The *peungklēh* of Atjeh is thus, in [[B. ter Haar BzN|Ter Haar]]'s account, bo
 
 For AcehWiki, the *peungklēh* is significant as the Atjehnese trousseau — the ceremonial allocation of a portion of the family estate to a marrying daughter — and as a key example in [[B. ter Haar BzN|Ter Haar]]'s systematic account of the Indonesian *toescheiding*. The institution illustrates the interplay of marriage and inheritance in the Atjehnese adatrecht: the *peungklēh* is at once a marriage payment (the trousseau given to the marrying daughter) and an inheritance allocation (the assignment of a portion of the family estate to a child), and its ceremonial character marks the significance of the allocation in the legal awareness of the Atjehnese community. The institution complements the corpus's existing entries on the Atjehnese adatrecht and on the Atjehnese marriage, and it furnishes the doctrinal-legal characterisation of the Atjehnese *uitzet* within the colonial legal science of the late Netherlands Indies.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)]]
@@ -40,6 +69,10 @@ For AcehWiki, the *peungklēh* is significant as the Atjehnese trousseau — the
 - [[Acheh]]
 - [[1939]]
 - [[1950]]
+- [[Two great Mohammedan feasts]]
+- [[Ramadhan (fasting month)]]
+- [[Peuchichab]]
+- [[Uleëbalang]]
 
 ## Source
 

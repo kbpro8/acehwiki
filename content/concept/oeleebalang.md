@@ -1,7 +1,52 @@
 ---
-title: "Oeleebalang"
-aliases: ["Uleëbalang", "Oelebalang", "Atjehse district chief", "Atjehse territorial chief", "hoeloebalang", "hulubalang", "Oeleobalang", "territorial chief", "oelèëbalangschap", "oelèëbalangtjoet", "territorial chief of Atjeh", "oelèëbalangs"]
-tags: [concept, acehnese, administrative, traditional-institution, sultanate, aceh, 19th-century, 20th-century, oeleebalang, keudjroen-loeeng, atjeh, zelfbestuur, colonial, traditional-office, achehnese, adat, institution, governance, nobility]
+title: Oeleebalang
+aliases:
+- Uleëbalang
+- Oelebalang
+- Atjehse district chief
+- Atjehse territorial chief
+- hoeloebalang
+- hulubalang
+- Oeleobalang
+- territorial chief
+- oelèëbalangschap
+- oelèëbalangtjoet
+- territorial chief of Atjeh
+- oelèëbalangs
+- Uleebalang
+- uléebalang
+- the Atjehnese uléebalang
+- Oeloe Balang
+- Ulèbalang
+- Oelèëbalang
+- territorial chief of Aceh
+tags:
+- concept
+- acehnese
+- administrative
+- traditional-institution
+- sultanate
+- aceh
+- 19th-century
+- 20th-century
+- oeleebalang
+- keudjroen-loeeng
+- atjeh
+- zelfbestuur
+- colonial
+- traditional-office
+- achehnese
+- adat
+- institution
+- governance
+- nobility
+- government
+- military
+- sovereignty
+- acheh
+- territorial
+- chief
+- diplomacy
 ---
 
 **The Oeleebalang** — also written *Uleëbalang*, *Uleebalang* — was the Atjèhse territorial chief or district head, the principal Atjèhse administrative institution of the [[Sultanate of Aceh|Sultanate of Atjèh] and of the post-Dutch-conquest Atjèhse administration. The *oeleebalang* was the chief of a *mukim* (the Atjèhse territorial unit) or of a group of *mukim*s, and exercised in his territory the principal administrative, judicial, and fiscal functions. The institution was, with the Sultan and the religious leaders (*teungku*s), one of the three principal Atjèhse political institutions, and its relative power — vis-à-vis the Sultan — was, in the Snouck Hurgronje diagnosis, one of the principal causes of the decline of the Sultanate.
@@ -106,6 +151,17 @@ Swart said in [[1914]] that he expected much of the younger chiefs, then trained
 
 The *oelèëbalang* was the institution on which the whole of Swart's pacification turned. Du Croo's judgement was that "because Swart was able in so complete a manner to win the confidence both of the *adat* chiefs and of the simple *gampong* man, the Acehnese also attached himself personally to Swart," and through that the chiefs and the population were brought to trust the Dutch administration.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 7–9, pp. 88–193.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 44–46. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, pp. 91 e.v., 94.
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 20, 22, 26, 186, 230–231, 267, 296, 319, 342, 344, 348.
+
 ## See Also
 
 - [[Sultanate of Aceh]]
@@ -172,6 +228,52 @@ The *oelèëbalang* was the institution on which the whole of Swart's pacificati
 - [[Sarekat Atjeh]]
 - [[Landschap]]
 - [[Boetenstelsel]]
+- [[Gampong|Gampöng]]
+- [[Panglima Polem|Panglima Pölém]]
+- [[Keuchi']]
+- [[1881]]
+- [[Aceh Sultanate]]
+- [[Rakan]]
+- [[Sarakata]]
+- [[1906]]
+- [[Sagi (Atjeh administrative division)|Sagi]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
+- [[Imeum]]
+- [[Stbl. 1881 N°. 79]]
+- [[1879]]
+- [[Sagi System]]
+- [[1915]]
+- [[Oelèëbalang tjoet]]
+- [[Banta]]
+- [[Sultans of Atjeh]]
+- [[Mukim|Moekim]]
+- [[Bila]]
+- [[Teungku]]
+- [[Groot-Atjeh]]
+- [[Wasé oelèëbalang]]
+- [[1910]]
+- [[Kawom]]
+- [[Pijnacker Hordijk]]
+- [[Sultan of Acheh]]
+- [[1892 Snouck Hurgronje advice on Atjeh]]
+- [[Deykerhoff]]
+- [[Acheh]]
+- [[Panglima sagi]]
+- [[Sagi (Atjehnese federation)]]
+- [[Dr. C. Snouck Hurgronje]]
+- [[Panglima Sagi]]
+- [[Moekim / Mukim]]
+- [[Panglima]]
+- [[Panglima Prang Besar]]
+- [[Teuku Umar]]
+- [[T. Tjoet Toengkoeb]]
+- [[Panglima Bintang]]
+- [[T. Rajoet]]
+- [[T. Moeda Baid]]
+- [[Government Resolution of 26 April 1896 No. 159/11]]
+- [[Moekim]]
+- [[G. C. E. van Daalen]]
+- [[Governor Swart]]
 
 ## Source
 

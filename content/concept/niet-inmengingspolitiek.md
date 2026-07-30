@@ -1,7 +1,27 @@
 ---
-title: "Niet-inmengingspolitiek"
-aliases: ["Non-intervention policy", "Dutch non-intervention", "Onthoudingspolitiek", "Afwachtende politiek", "Dutch policy of abstention", "Non-interventiepolitiek", "policy of non-intervention", "non-interventie", "policy of abstention"]
-tags: [concept, policy, colonial, dutch, slavery, piracy, aceh-war, buitengewesten, 19th-century]
+title: Niet-inmengingspolitiek
+aliases:
+- Non-intervention policy
+- Dutch non-intervention
+- Onthoudingspolitiek
+- Afwachtende politiek
+- Dutch policy of abstention
+- Non-interventiepolitiek
+- policy of non-intervention
+- non-interventie
+- policy of abstention
+- politiek van onthouding
+tags:
+- concept
+- policy
+- colonial
+- dutch
+- slavery
+- piracy
+- aceh-war
+- buitengewesten
+- 19th-century
+- political-strategy
 ---
 
 **Niet-inmengingspolitiek** (non-intervention policy) — also called *onthoudingspolitiek* (policy of abstention) — was the policy followed by the Dutch government throughout the nineteenth century with respect to the native states of the Buitengewesten (the outer provinces of the [[Nederlandsch-Indië|Netherlands Indies]] outside Java), by which the government refrained from active intervention in the internal affairs of the native polities and confined itself to the maintenance of the existing state of affairs and the recognition of the "nominal" supreme authority of the [[Netherlands|Netherlands]]. The policy, identified by [[J. Frijling|Ir. J. Frijling]] as the principal cause of the protracted failure to suppress slavery and piracy in the Buitengewesten, is the central subject of Frijling's [[1946]] sketch *Een stukje geschiedenis der Indische Buitengewesten* and the principal political background to the [[Aceh War|Atjeh-oorlog]].
@@ -62,6 +82,10 @@ Lulofs's conclusion, quoted by du Croo as questionable when written but wholly c
 
 The non-intervention policy is, in du Croo's account, the condition against which the whole achievement of van Heutsz and of the *[[Korte Verklaring]]* must be measured. It also produced the paradox at the heart of the book: it was Atjeh, the one place where the Netherlands did intervene, whose cost and duration became the standing argument against intervening anywhere else.
 
+
+## Sources
+*Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter IX (Verkeer), p. 160.
+
 ## See Also
 
 - [[Slavernij in Nederlandsch-Indië]]
@@ -91,6 +115,9 @@ The non-intervention policy is, in du Croo's account, the condition against whic
 - [[Zelfbestuur]]
 - [[Geconcentreerde linie]]
 - [[1894]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
+- [[Pacification of Atjeh]]
+- [[Kota Radja]]
 
 ## Source
 

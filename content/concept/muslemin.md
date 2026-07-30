@@ -1,7 +1,26 @@
 ---
-title: "Muslemin"
-aliases: ["Muslemin", "Moeslemin", "Muslimin", "Mujahideen Atjeh", "Atjehese holy warriors", "Holy warriors Atjeh"]
-tags: [concept, acehnese, religious, military, resistance, aceh-war, 19th-century, heiligen-oorlog, jihad]
+title: Muslemin
+aliases:
+- Moeslemin
+- Muslimin
+- Mujahideen Atjeh
+- Atjehese holy warriors
+- Holy warriors Atjeh
+- Moslemin
+- Muslims
+- Muzelmin
+- Muzelmannen
+tags:
+- concept
+- acehnese
+- religious
+- military
+- resistance
+- aceh-war
+- 19th-century
+- heiligen-oorlog
+- jihad
+- achehnese
 ---
 
 **The Muslemin** — also written *Moeslemin*, *Muslimin* — were those Atjehers who openly took part in the holy war against the Dutch, so called after the proclamation of the [[Restoration of the Sultanate|restoration of the Sultanate]] at [[Indrapoeri|Indrapoeri]] in [[1885]]–[[1886]]. The term, designating those who had formally committed themselves to the resistance under the Sultan's authority and the religious leadership of [[Tengkoe di Tirou|Tengkoe di Tirou]] and his successor [[Tengkoe Mohamed Amin|Tengkoe Mohamed Amin]], became the standard Dutch designation for the organised Atjehese resistance in the middle and late phases of the [[Aceh War|Atjeh-oorlog]].
@@ -31,6 +50,10 @@ Kruijt uses *Muslemin* as the standard Dutch designation for the organised Atjeh
 ## Significance
 
 The Muslemin are the organised body of the Atjehese resistance in the middle and late phases of the [[Aceh War|Atjeh-oorlog]]. Their formal constitution after the proclamation of the Sultanate at [[Indrapoeri|Indrapoeri]] in [[1885]]–[[1886]], their oath against the Dutch, their religious leadership under [[Tengkoe di Tirou|Tengkoe di Tirou]] and [[Tengkoe Mohamed Amin|Tengkoe Mohamed Amin]], and their encirclement of the Dutch line together mark the institutionalisation of the Atjehese resistance that would sustain it through the [[Concentratie-stelsel (1884-1896)|concentration system]] and the governorships of [[Demmeni|Demmeni]], [[General van Teijn|Van Teijn]], [[Pompe van Meerdervoort|Pompe]], and [[Deijkerhoff|Deijkerhoff]]. The Dutch's eventual suppression of the Muslemin — under [[Joannes Benedictus van Heutsz|Van Heutsz]] after [[1898]], on the advice of [[C. Snouck Hurgronje|Snouck Hurgronje]] — would be the principal means by which the war was brought to its conclusion.
+
+
+## Sources
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 28, 45, 82, 111, 296.
 
 ## See Also
 
@@ -62,6 +85,16 @@ The Muslemin are the organised body of the Atjehese resistance in the middle and
 - [[1894]]
 - [[1896]]
 - [[1898]]
+- [[Kafi / Kafir]]
+- [[Sabil Allah]]
+- [[Kompeni / Compagnie]]
+- [[Teungkoe Koeta Karang]]
+- [[Teungkoe Tanah Abée]]
+- [[Teuku Umar]]
+- [[III Moekims Kerkoen]]
+- [[Lamkoenjit]]
+- [[Siege of Lamkoenjit (29 March–8 April 1896)]]
+- [[Main prang]]
 
 ## Source
 

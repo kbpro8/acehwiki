@@ -1,7 +1,28 @@
 ---
 title: Rabana (Aceh)
-aliases: [Rabana Atjeh, Redep, Rapana, Rapai, Frame Drum Aceh, Acehnese Frame Drum]
-tags: [concept, instrument, music, achehnese, membranophone, frame-drum, islamic-influence]
+aliases:
+- Rabana Atjeh
+- Redep
+- Rapana
+- Rapai
+- Frame Drum Aceh
+- Acehnese Frame Drum
+- Rapa'i
+- Rapai'i
+- Achehnese frame-drum performance
+- Religious play
+tags:
+- concept
+- instrument
+- music
+- achehnese
+- membranophone
+- frame-drum
+- islamic-influence
+- event
+- religious
+- rite
+- ceremony
 ---
 
 **Rabana (Aceh)** (also *rabana Atjeh*, *redep*, *rapana*, *rapai*; Dutch: *rabana* / *redep*; Arabic: *riq* / *daff* / *tar*) is a **shallow, single-headed frame drum** used in **[[Acheh]]** (Atjēh) as a core instrument of the **Islamic instrumental complex**. It is the Acehnese variant of the **Middle Eastern frame drum family** (*daff*, *riq*, *tar*, *bendir*) that spread across the Indian Ocean with Islam from the [[13th century]] onward.
@@ -77,6 +98,10 @@ However, the terms are often used interchangeably, and *redep* may simply be the
 
 Illustrated in **[[Jaap Kunst]]**, *Muziek en Dans in de Buitengewesten* ([[1946]]), Mededeling No. LXVII, Afdeling Volkenkunde No. 20, **Plate 1b** (frame drums) and **Plate 22** (processional ensembles with frame drums). The plates show both plain and jingled frame drums consistent with *rabana/redep*.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Rebana (Malay)]]
@@ -112,6 +137,11 @@ Illustrated in **[[Jaap Kunst]]**, *Muziek en Dans in de Buitengewesten* ([[1946
 - [[Acheh]]
 - [[Jaap Kunst]]
 - [[Muziek en Dans in de Buitengewesten (1946)]]
+- [[Ahmad ar-Rifāʿī|Ahmad Rifa'i]]
+- [[Rateb Saman]]
+- [[Kanduri]]
+- [[Peusijuek (cooling ceremony)]]
+- [[Peusunteng]]
 
 ## Source
 

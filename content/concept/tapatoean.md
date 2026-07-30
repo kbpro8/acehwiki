@@ -1,7 +1,29 @@
 ---
 title: Tapatoean
-aliases: [Tapatuán, Tapatuan, Tapatoean Atjeh, Tapatoean bivak, Tapaktoean, Tapaktuan, "Tapak Tuan", Tapaktooan, Tapaktoenn]
-tags: [place, atjeh, westkust, military-bivak, dutch-colonial, world-war-ii, onderafdeeling, zuid-atjeh, colonial, 20th-century, zelfbestuur]
+aliases:
+- Tapatuán
+- Tapatuan
+- Tapatoean Atjeh
+- Tapatoean bivak
+- Tapaktoean
+- Tapaktuan
+- Tapak Tuan
+- Tapaktooan
+- Tapaktoenn
+- Tapa'toean
+tags:
+- place
+- atjeh
+- westkust
+- military-bivak
+- dutch-colonial
+- world-war-ii
+- onderafdeeling
+- zuid-atjeh
+- colonial
+- 20th-century
+- zelfbestuur
+- menangkabau
 ---
 
 **Tapatoean** — *Tapaktoean* in the spelling of the *[[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]*, *Tapaktuan* / *Tapak Tuan* in modern Indonesian — was a Dutch *bivak* of the [[1ste Garnizoensbataljon|1ste Garnizoensbataljon]] (later of the [[2de (IIde) Divisie Marechaussee|IIde Divisie Maréchaussee]]) on the [[Westkust van Atjeh|Westkust van Atjeh]], between [[Meulaboh|Meulaboh]] to the north and [[Bakongan|Bakongan]] to the south. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), Tapatoean is the Westkust *bivak* whose progressive drawdown in [[1940]]–[[1941]] is the staff history's principal measure of the Dutch abandonment of the southern Westkust, and whose *bivak* served as the southern concentration point of the [[Evacuation of women and children from the Westkust of Atjeh (March 1942)|Westkust evacuation]] of March [[1942]]. In the [[1930]] compilation of *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Tapaktoean also appears as an *onderafdeeling* on the south coast of [[Atjeh|Atjeh en Onderhoorigheden]], seated alongside the *onderafdeeling Zuidelijke Atjehsche landschappen* and the island *onderafdeeling* [[Simeuloe|Simeuloe]] as the three south-coast *onderafdeelingen* to which the *vrouwelijk-vee verordening* of [[1 August]] [[1927]] (Reg. No. 17) was extended by parallel *regelingen*, and one of the original *onderafdeelingen* of the 1912 *Pantjang Alas* regime with its *Pantjang Alas* regeling dated [[15 April]] [[1912]].
@@ -64,9 +86,18 @@ Tapaktoean's significance in the 1930 compilation rests on its being one of the 
 - [[1912]]
 - [[1927]]
 - [[1930]]
+- [[Meulabóh]]
+- [[Tjalang]]
+- [[Jongejans]]
+- [[T. J. W. F. M. Supheert]]
+- [[Bakóngan uprising]]
+- [[Poesa]]
+- [[1938]]
+- [[15 March]] [[1942]]
 
 ## Sources
 
 *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 115, 121, 137.
 
 *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesten van het Departement van Binnenlandsch Bestuur*, Weltevreden: Landsdrukkerij, 1930, esp. Reg. 17 (p. 100) and comparative tables passim. OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I §§ 1–2, Chapter III § 3, Chapter V § 4.

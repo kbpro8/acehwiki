@@ -1,8 +1,38 @@
 ---
 title: Postenlinie
-aliases: ["Postenlijn", "Posten line", "the line of forts", "postenlinie of 1885", "de postenlinie", "de beroemde postenlinie", "the Atjeh postenlinie", "Posten linie", "Posts line", "Atjeh posts line", "Dutch posts line Atjeh", "Linie van posten", "Buitenlinie"]
-tags: [concept, colonial, dutch, military, defence, buitenbezittingen, aceh, strategy, 19th-century]
-description: "The postenlinie — the celebrated line of fortified posts surrounding Kota Radja in Great Atjeh, built in the 1870s and 1880s as the defensive perimeter of the Dutch military position in Atjeh, and dismantled after the 1896 betrayal of Toekoe Oemar."
+aliases:
+- Postenlijn
+- Posten line
+- the line of forts
+- postenlinie of 1885
+- de postenlinie
+- de beroemde postenlinie
+- the Atjeh postenlinie
+- Posten linie
+- Posts line
+- Atjeh posts line
+- Dutch posts line Atjeh
+- Linie van posten
+- Buitenlinie
+- Buitenlinie / Buitellinie
+- Buitellinie
+- Outer Line
+- buitenposten
+tags:
+- concept
+- colonial
+- dutch
+- military
+- defence
+- buitenbezittingen
+- aceh
+- strategy
+- 19th-century
+- aceh-war
+description: The postenlinie — the celebrated line of fortified posts surrounding
+  Kota Radja in Great Atjeh, built in the 1870s and 1880s as the defensive perimeter
+  of the Dutch military position in Atjeh, and dismantled after the 1896 betrayal
+  of Toekoe Oemar.
 ---
 
 **The Postenlinie** ("line of forts") was the celebrated defensive perimeter of fortified posts surrounding [[Kota Radja]] in [[Groot-Atjeh|Great Atjeh]], built in the [[1870s]] and [[1880s]] as the defensive ring of the Dutch military position in [[Acheh|Atjeh]]. In the Encyclopaedisch Bureau's account, the postenlinie defined the geography of the Dutch presence in Atjeh from the [[1873]] outbreak of the [[Aceh War|Atjeh-war]] until the [[Toekoe Oemar's verraad (1896)|betrayal of Toekoe Oemar in 1896]] rendered the defensive strategy obsolete. The [[1885]] [[Ceintuur-trambaan|ceintuur-trambaan (belt-tramway)]] was built along the postenlinie to allow rapid movement of troops between the forts; after the [[1896]] abandonment of the postenlinie, the belt-tramway was "gradually cleared" and the long-line strategy of [[1897]] onward replaced it.
@@ -33,6 +63,22 @@ The [[Postenlinie|postenlinie]] is, in the Encyclopaedisch Bureau's account, the
 - [[1885]]
 - [[1896]]
 - [[1897]]
+- [[Geconcenteerde Linie]]
+- [[Blokhuis]]
+- [[Benteng / Benting / Koeta]]
+- [[Mitrailleur]]
+- [[Biloel]]
+- [[Lamkoenjit]]
+- [[Ana' Galong]]
+- [[Lambarih]]
+- [[Lamsoet]]
+- [[Senelop]]
+- [[Kroeng Gloempang]]
+- [[Tjot Rang]]
+- [[Toengkoeb]]
+- [[Evacuation of Biloel and Lamkoenjit (12 April 1896)]]
+- [[Evacuation of Kroeng-Gloempang, Tjot-Rang, Toengkoeb (20 April 1896)]]
+- [[Battle of Senelop (17 April 1896)]]
 
 ## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
 
@@ -49,3 +95,4 @@ In the period of the concentration, the *Postenlinie* was the principal site of 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 68 (section "De Atjeh-tram").
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapters IV, VI, IX, XII, pp. 18–20, 27–31, 49, 69–70.
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21, 76, 93, 119, 213, 218.

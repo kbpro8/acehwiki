@@ -1,7 +1,26 @@
 ---
-title: "Penajoeng"
-aliases: ["Camp Penajoeng", "Penaioeng", "Penajoeng Atjeh", "Penayong", "Penayong Kotta-Radja"]
-tags: [place, 19th-century, atjeh, colonial, dutch-colonial, encampment, groot-atjeh, military-cantonment, outpost, settlement]
+title: Penajoeng
+aliases:
+- Camp Penajoeng
+- Penaioeng
+- Penajoeng Atjeh
+- Penayong
+- Penayong Kotta-Radja
+- Village Penajoeng
+- K. Penajoeng
+tags:
+- place
+- 19th-century
+- atjeh
+- colonial
+- dutch-colonial
+- encampment
+- groot-atjeh
+- military-cantonment
+- outpost
+- settlement
+- village
+- bivouac
 ---
 
 **Penajoeng** — modern *Penayong* — was the Dutch military cantonment east of the [[Atjehrivier|Atjeh-rivier]] opposite [[Kotta-Radja|Kotta-Radja]], connected to the colonial capital by a *breede weg* over the Atjeh-rivier and developed in the late 19th century as the principal Dutch *woningen* and *hospitalen* extension of the colonial capital. In the [[De Kleine Oosterling|school-textbook]] narrative, Penajoeng is the staff history's principal instance of the Dutch *opbouw*'s extension beyond the kraton site into the *overzijde* of the Atjeh-rivier.
@@ -27,6 +46,10 @@ After the victorious march along the strand from [[Pedro-punt]] in December [[18
 ## Pesthol and aftermath
 
 Penajoeng was ravaged by cholera from the moment of landing. The disease, brought from Batavia in the overcrowded transports, found ideal conditions in the overcrowded bivouak and cost "vele menschenlevens" through the first months of [[1874]]. It was from Penajoeng that the daily patrols of the [[Padi-snijden on the Langkroek sawah (1874)|padi-snijden]] concession to [[Langkroek]] were watched, and from Penajoeng that the [[Acehnese attack on Penajoeng (11 April 1874)|massed Acehnese attack of 11 April 1874]] was repulsed with artillery. On [[26 April]] [[1874]] the garrison withdrew to the Kraton; the [[Desecration of Dutch graves at Lampoeloe (1874)|desecration of the Dutch cemetery]] at nearby [[Lampoeloe]] followed within hours. In [[1875]] the grassy plain of [[Pantej Perak]] just south of Penajoeng was selected for the new ambulances, and the post itself was reoccupied as a forward strongpoint in the [[Stelling-Pel|stelling-Pel]].
+
+
+## Sources
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889, p. 94.
 
 ## See Also
 

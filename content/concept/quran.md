@@ -1,13 +1,25 @@
 ---
 title: Quran
-aliases: ["Al‑Qur'an", "Koran"]
-
-tags: [document, scripture, islamic]
+aliases:
+- Al‑Qur'an
+- Koran
+- Koran (document)
+- Qur’an
+tags:
+- document
+- scripture
+- islamic
+- religious
+- islam
 ---
 **Quran** is the holy book of Islam, frequently quoted in Acehnese religious poetry, including the Malay translation of the *Burda* where verses are described as “pearls in the shell of the speaking mouth”. Its verses underpin the theological arguments against *kāfir* (non‑believers) and *jinn* (spirits) found throughout the text.
 
 ## Presence in Acehnese Literature
 The Malay *Burda* integrates Qurʾānic concepts such as the *splitted moon* oath and the notion of divine miracles (*muʿjizāt*). Scholars in Aceh used the Qurʾān to interpret the poem’s allegories and to legitimize the sultan’s authority.
+
+
+## Sources
+*20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pp. 81‑83.
 
 ## See Also
 - [[Burda (poem)|Qasida al‑Burda]]
@@ -15,6 +27,9 @@ The Malay *Burda* integrates Qurʾānic concepts such as the *splitted moon* oat
 - [[Jinn]]
 - [[Kaffir]]
 - [[Acehnese religious poetry]]
+- [[Sūra al‑Fīl (Qur’anic chapter)]]
+- [[Al‑Bu‑s‑iri (author)]]
+- [[Islam in Aceh]]
 
 ## Source
 *16th‑century Malay translation of the Burda of al‑Busiri*, DLP‑54, “Een 16de eeuwse Maleise vertaling van de Burda van al‑Busiri”, pp. 59‑65, 20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt.

@@ -1,7 +1,31 @@
 ---
-title: "Pel's Plan"
-aliases: ["Pel's Plan", "Pel's stelsel", "Pel-plan", "Plan van Pel", "Pel's Plan for the stelling of Groot-Atjeh", "Pel's fortification line"]
-tags: [concept, dutch, colonial, military-strategy, aceh-war, 19th-century, stelling, postenlinie, pel]
+title: Pel's Plan
+aliases:
+- Pel's stelsel
+- Pel-plan
+- Plan van Pel
+- Pel's Plan for the stelling of Groot-Atjeh
+- Pel's fortification line
+- Pel's plan for the Atjeh line
+- Pel's secret plan
+- the grand K. Raba–K. Raya line
+- Pel's afsluitingslinie
+- Kroeng Raba–Kroeng Raya line
+tags:
+- concept
+- dutch
+- colonial
+- military-strategy
+- aceh-war
+- 19th-century
+- stelling
+- postenlinie
+- pel
+- document
+- military
+- strategic-plan
+- 1875
+- 1876
 ---
 
 **Pel's Plan** — *Pel's stelsel* — was the strategic concept, elaborated by [[J. L. J. H. Pel|Colonel Pel]] during his tenure as Dutch commander in [[Groot-Atjeh|Groot-Atjeh]] from [[April 1874|April]] [[1874]] to his death in [[March 1876|March]] [[1876]], for the great expansion of the Dutch *stelling* (defensive position) around [[Kota Radja|Kota Radja]] — from the perimeter bequeathed by [[Jan van Swieten|Van Swieten]]'s second expedition to an unbroken ring of thirty-eight fortifications enclosing [[Kota Radja|Kota Radja]], [[Oleh-leh|Oleh-leh]], and the [[Atjeh River|Atjeh-rivier]], and ultimately to a line from [[Kroeng Raba|Kroeng Raba]] on the [[Westkust|West Coast]] to [[Kroeng Raija|Kroeng Raija]] on the [[Noordkust|North Coast]] intended to cut [[Groot-Atjeh|Groot-Atjeh]] off entirely from the sea. The Plan, approved by the Netherlands Indies government, was carried out only in part — Pel himself died during the operations of [[November 1875|November]] [[1875]]–[[March 1876|March]] [[1876]] — but its heritage, the elaborate *postenlinie* (posts line) that consumed Dutch military power for the next decade, would burden every subsequent Dutch commander down to the [[Concentratie-stelsel (1884-1896)|concentration system]] of [[1884]].
@@ -31,6 +55,10 @@ The result of Pel's Plan, in Kruijt's analysis, was: "*voortdurende uitbreiding 
 ## Significance
 
 Pel's Plan is the strategic concept that institutionalised the Dutch military presence in [[Groot-Atjeh|Groot-Atjeh]] and defined the geography of the Dutch position for the next decade. The *postenlinie* (posts line) of forts and posts around [[Kota Radja|Kota Radja]] — expanded to thirty-eight fortifications by [[June 1875|June]] [[1875]] and further under the second expansion — was the principal instrument and the principal burden of the Dutch war effort. The dispersal of force entailed by the expanded *stelling* was, in Kruijt's analysis, the structural defect of the Dutch position until the concentration of [[1884]] reduced the perimeter. The port of [[Oleh-leh|Oleh-leh]], established as the seaward terminus of Pel's expanded *stelling*, would remain the principal Dutch naval base in Atjeh throughout the war. The railway connecting Oleh-leh to [[Kota Radja|Kota Radja]] — a project of his tenure — would become the [[Atjeh-tram|Atjeh-tram]], the principal logistical instrument of the Dutch campaign.
+
+
+## Sources
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 263, 277–285, 296–323, 327, 329–337, 366.
 
 ## See Also
 
@@ -65,6 +93,15 @@ Pel's Plan is the strategic concept that institutionalised the Dutch military pr
 - [[1875]]
 - [[1876]]
 - [[1884]]
+- [[Generaal Pel]]
+- [[Stelling-Pel]]
+- [[Pel's Buitenzorg planning session (1875)]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Death of Generaal Pel (24 February 1876)]]
+- [[Gouverneur-Generaal van Lansberge]]
+- [[G. F. W. Borel]]
+- [[Kroeng Raya]]
+- [[Kroeng Tjoet]]
 
 ## Source
 

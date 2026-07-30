@@ -1,7 +1,32 @@
 ---
 title: Terpentine Balm (Aceh)
-aliases: [Terpentijn-balsem, Balsam, Turpentine balm, Atjeh terpentijn, Sumatra-den]
-tags: [concept, industrial-product, acehnese, colonial, export-crop, resin]
+aliases:
+- Terpentijn-balsem
+- Balsam
+- Turpentine balm
+- Atjeh terpentijn
+- Sumatra-den
+- Pinus Merkusii
+- Sumatran pine
+- the Sumatra pine
+- the Atjeh pine
+- Jungh et de Vr.
+tags:
+- concept
+- industrial-product
+- acehnese
+- colonial
+- export-crop
+- resin
+- tree
+- pine
+- sumatra
+- aceh
+- gajo-landen
+- terpentijn
+- 19th-century
+- 20th-century
+- colonial-forestry
 ---
 
 **Terpentine Balm (Aceh)** (Dutch: *terpentijn-balsem*) was the resinous balsam obtained by tapping the Sumatra pine (Dutch: *Sumatra-den*, *Pinus merkusii*) of the residency of [[Atjeh]] in the early [[20th century|twentieth century]], and was the source of two distinct commercial products: terpentine oil (Dutch: *terpentijnolie*), distilled from the raw resin and used in paints and solvents, and the residual solid balsam (Dutch: *balsem* or *colofonium*), sold as flat cakes for use in the batik industry and paper manufacture. The tapping of the Sumatra pine was one of the small-scale forest-based industries of the Atjeh interior, and the trade complemented the broader resin and forest-product economy of [[Resin (Aceh)|damar]], [[Bakau Bast|bakau bast]] and [[Kapok Fiber|kapok]].
@@ -33,6 +58,12 @@ The trade was small in absolute terms but locally important, providing cash inco
 
 By the [[1930s]] the Atjeh terpentine-balsam trade had contracted under the combined pressure of the depression, competition from cheaper American and French turpentine, and the gradual substitution of synthetic solvents for natural terpentine oil in the European paint industry. The surviving Gayo pine stands continued to be tapped on a reduced scale through the [[1930s]], and the trade limped through the Japanese occupation of [[1942]] and the Indonesian revolution before being absorbed into the state forest corporation of the post-independence period. The Sumatra pine itself has since been widely planted as a plantation timber species across the Indonesian highlands, and the surviving natural stands of the Gayo uplands remain a protected forest resource.
 
+
+## Sources
+*Atjeh-terpentijn: tegenwoordige kwaliteit en nieuwe beoordeelingen*, by Ir. W. Spoon, *Berichten van de Afdeeling Handelsmuseum van de Koninklijke Vereeniging Koloniaal Instituut* No. 57, Amsterdam: J. H. de Bussy, [[1930]], pp. 5–8, 12–14, 19 (Winning van de terpentijn; Scheikundige samenstelling en eigenschappen; Toetsing aan de ontwerp-normalisatie-eischen).
+
+*Bijdrage tot de kennis van Pinus Merkusii Jungh et de Vr., meer in het bijzonder in de Gajo-landen*, by C. Brandts Buys, C. Japing and D. Fernandes, *Mededeeling no. 19 van het Proefstation voor het Boschwezen*, [[1928]].
+
 ## See Also
 
 - [[Resin (Aceh)]]
@@ -48,6 +79,25 @@ By the [[1930s]] the Atjeh terpentine-balsam trade had contracted under the comb
 - [[Buitengewesten]]
 - [[1920]]
 - [[1930]]
+- [[Atjeh-terpentijn (Spoor, 1930)]]
+- [[Atjeh-terpentijn]]
+- [[Baleq]]
+- [[Quarre]]
+- [[Colophonium]]
+- [[Paja Djorok]]
+- [[Blangtekoer]]
+- [[Takengon]]
+- [[Bireuen]]
+- [[Gajo-landen]]
+- [[C. Brandts Buys]]
+- [['s Lands Caoutchouchedrijf]]
+- [[Dienst van het Boschwezen]]
+- [[Proefstation voor het Boschwezen]]
+- [[Nederlandsche Handel-Maatschappij]]
+- [[D. B. Spoelstra]]
+- [[W. Spoon]]
+- [[1924]]
+- [[1928]]
 
 ## Source
 
