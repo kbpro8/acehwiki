@@ -1,8 +1,31 @@
 ---
 title: Kuta Alam
-aliases: ["old gampong", "Kota-Alam", "Kota Alam", "Benting Kota Alam", "Benteng Kota Alam"]
-
-tags: ["place", "aceh-proper", "aceh-war", "fortification", "dutch-colonial"]
+aliases:
+- old gampong
+- Kota-Alam
+- Kota Alam
+- Benting Kota Alam
+- Benteng Kota Alam
+- K. Alam
+- Kota Alem
+- Kota Alám
+- Kotta Alam
+- Fort Kotta Alam
+- Kotta-Alam
+tags:
+- place
+- aceh-proper
+- aceh-war
+- fortification
+- dutch-colonial
+- dutch
+- colonial
+- fort
+- river-bank
+- artillery
+- settlement
+- battlefield
+- achehnese
 ---
 
 **Kuta Alam** — also written **Kota Alam** — is an ancient [[gampong|gampong]] near the capital of [[Acheh|Atjeh]], known in the pre-colonial period as the place of burial of the great [[Sultan Iskandar Muda]] ([[1607]]–[[1636]]) and, in the [[Aceh War|Atjeh-oorlog]], as the site of the [[Benting Kota Alam operation (13 November 1874)|Benting Kota Alam]] — the sandbag redoubt constructed under Achehnese fire on [[13 November]] [[13 November]] [[1874]] by a Dutch column under [[M. C. E. Ruempol|Luitenant-Kolonel M. C. E. Ruempol]], with the sapper section commanded in the vanguard by [[Cornelis Jacobus Snijders|Tweede Luitenant C. J. Snijders]] of the [[Bataillon Mineurs en Sappeurs|Bataillon Mineurs en Sappeurs]].
@@ -40,6 +63,20 @@ The [[Benting Kota Alam operation (13 November 1874)|Kota Alam action]] of [[13 
 - [[Korps Ingenieurs, Mineurs en Sappeurs]]
 - [[Aceh War]]
 - [[1874]]
+- [[Atjeh-rivier]]
+- [[Lemboe]]
+- [[Pendetti]]
+- [[III Moekims]]
+- [[Kota Radja Bedil]]
+- [[Blang Tjoet]]
+- [[Kolonel Ruempol]]
+- [[Conquest of Kota Alam (13 November 1874)]]
+- [[Voorlaadkanonnen in Atjeh]]
+- [[Stelling-Pel]]
+- [[Capture of Kotta Alam]]
+- [[Oleh Karang]]
+- [[J. van Swieten]]
+- [[Second Aceh Expedition]]
 
 ## Sources
 
@@ -48,3 +85,5 @@ The [[Benting Kota Alam operation (13 November 1874)|Kota Alam action]] of [[13 
 Cornelis Jacobus Snijders ([[1852]]–[[1939]]): *Een leven in dienst van zijn Land en zijn Volk*, by D. van den Berg (Voorburg: September [[1944]]), pp. 10–35. Koninklijke Bibliotheek shelfmark 0301 4872.
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I (the autumn [[1874]] operations east of [[Kota Radja|Kota Radja]]).
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 62, 95, 200, 209, 211–214, 263.
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 58-62.

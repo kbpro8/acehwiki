@@ -1,7 +1,23 @@
 ---
 title: Korinchi (Krinchi)
-aliases: [Korinchi, Kerinci, Krinchi, Kurinji, Indrapura, Korinci]
-tags: [place, foreign, region, sumatra, hajji, comparative-reference]
+aliases:
+- Korinchi
+- Kerinci
+- Krinchi
+- Kurinji
+- Indrapura
+- Korinci
+- Krinchi settlers
+- Orang Krinchi
+- Krinchi of Java
+tags:
+- place
+- foreign
+- region
+- sumatra
+- hajji
+- comparative-reference
+- migration
 ---
 
 **Korinchi** — given in *The Achehnese* Vol. I in the alternative spellings **Krinchi** (modern *Kerinci*) — is a region of central [[Sumatra|Sumatra]], lying in the upper valley of the river Batang Hari behind the Barisan range, whose inhabitants figure repeatedly in Snouck Hurgronje's account of Achehnese society as one of the principal classes of foreign settlers and religious wayfarers in [[Acheh|Acheh]].
@@ -36,6 +52,10 @@ The wandering hajji — the man who, having made the pilgrimage, had no means of
 
 The mention of Korinchi in *The Achehnese* is otherwise incidental to the argument of the work. It belongs to that comparative apparatus — Malay, Minangkabau, Javanese, Sumatran — by which Snouck brings the institutions of [[Acheh|Acheh]] into relation with those of the neighbouring peoples. The religious connection between Korinchi and Acheh, mediated by the pilgrimage, was one of the channels by which the wider Mohammedan world was brought to the Achehnese; the wandering hajjis of Krinchi were among the principal carriers of that connection, and their presence in [[Acheh|Acheh]] is one of the small facts by which the country's place in the cosmopolitan geography of the Archipelago is illustrated.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Krinchi]]
@@ -48,6 +68,10 @@ The mention of Korinchi in *The Achehnese* is otherwise incidental to the argume
 - [[Menangkabau|Minangkabau]]
 - [[East Indian Archipelago]]
 - [[Jakèuët]]
+- [[Korinchi (Krinchi)]]
+- [[Banda Acheh]]
+- [[Korinchi]]
+- [[Kling]]
 
 ## Source
 

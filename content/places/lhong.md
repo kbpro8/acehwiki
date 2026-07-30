@@ -1,7 +1,26 @@
 ---
-title: "Lhong"
-aliases: ["Lhong (Aceh West Coast)", "Lam Ara", "Lamara", "Lam Ara (XXII Mukims)"]
-tags: [place, town, aceh, westkust, aceh-proper, mukim, xxii-mukims, landschap, groot-atjeh, resistance]
+title: Lhong
+aliases:
+- Lhong (Aceh West Coast)
+- Lam Ara
+- Lamara
+- Lam Ara (XXII Mukims)
+- Loöng
+- Loöng on the Westkust
+tags:
+- place
+- town
+- aceh
+- westkust
+- aceh-proper
+- mukim
+- xxii-mukims
+- landschap
+- groot-atjeh
+- resistance
+- coast-state
+- acehnese
+- aceh-war
 ---
 
 **Lhong** — also **Lam Ara** (= Lam Ara in the mukim records) — carries two distinct identities in the sources: as a place on the [[Westkust (of Atjeh)|West Coast of Aceh]] it was the setting of the [[Verzet in Lhong]] recorded in *[[Oost-Indisch Journael]]*; as **Lam Ara** it was a *mukim* of the [[XXII Mukims]] in the highlands of [[Great Acheh]], cited by [[C. Snouck Hurgronje|Snouck Hurgronje]] in *The Achehnese* as the sole example of a mukim divided between two distinct joint judicial unions.
@@ -38,6 +57,10 @@ In [[1933]] a new rising — eleven widows and twenty orphans — broke out at L
 
 The murder, committed by seven persons of the *landschap* who fled to the mountains with two of the overseer's sporting guns, was for Swart "a very sharp and painful disappointment indeed — after the attack at [[Daja]], now murder and band-formation in quiet [[Groot Atjeh]] as well." The plain of the IV Moekims Lhong was about three hours' walk broad, backed by an inhospitable complex of limestone rocks, outliers of the [[Boekit Barisan]], in which a band could hold out only in a few caves. [[H. J. Schmidt]]'s investigation traced the affair to [[Nja' Asém]] and behind him to [[Teukoe Mamat]]; the band was destroyed at [[Koeala Daja]] on [[5 August]] [[1914]] and the last nine members submitted on [[18 August]].
 
+
+## Sources
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 87-88.
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -58,6 +81,10 @@ The murder, committed by seven persons of the *landschap* who fled to the mounta
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
+- [[Van Lansberge's visit to Aceh (March-April 1877)]]
+- [[Malaboeh]]
+- [[Westkust van Atjeh]]
 
 ## Source
 

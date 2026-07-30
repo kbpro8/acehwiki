@@ -1,7 +1,28 @@
 ---
 title: Anagaloeng
-aliases: ["Anagaloeng", "Anagaloen", "Anagalueng", "Aneu' Galong", "Aneu Galong", "the temporary post at Anagaloeng"]
-tags: [place, military-post, aceh-war, 1896, aceh, xxii-moekims, groot-atjeh, besieged-post, defensive-position]
+aliases:
+- Anagaloen
+- Anagalueng
+- Aneu' Galong
+- Aneu Galong
+- the temporary post at Anagaloeng
+- Aneu' Galoom
+- Galong
+tags:
+- place
+- military-post
+- aceh-war
+- 1896
+- aceh
+- xxii-moekims
+- groot-atjeh
+- besieged-post
+- defensive-position
+- fortress
+- battle-site
+- resistance
+- highland
+- battle
 ---
 
 **Anagaloeng** — modern Acehnese *Aneu' Galong* — was a Dutch temporary military post established in the [[XXII Moekims]] of [[Groot-Atjeh]] during the [[1890s]] — a post that, together with [[Senelop]] on its southern flank, formed the eastern anchor of the Dutch outer perimeter in the late *concentratie* period. The post was besieged by the forces of [[Toekoe Oemar]] after his [[Toekoe Oemar's defection (1896)|defection]] in [[March]] [[1896]] and relieved on [[18 April]] [[18 April]] [[1896]], after a siege of approximately six weeks.
@@ -30,6 +51,14 @@ The [[Atjeh-Album (Eigen Haard, 1896)|Atjeh-Album]] records that Anagaloeng was,
 
 Anagaloeng's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]] is as the eastern anchor of the Dutch outer perimeter in the late *concentratie* period, and as the post whose siege defined the spring [[1896]] crisis. Its relief on [[18 April]] [[1896]] — after a siege of approximately six weeks — was the last of the three relief operations of April [[1896]], and it was the moment at which the Dutch began to recover the initiative from [[Toekoe Oemar]]'s defected forces. The post's strategic position — at the junction of the three *sagis* of [[Groot-Atjeh]] — and its earlier history as a site of [[Teungku di Tiro]]'s defensive works place it as one of the principal operational centres of the late *concentratie* period.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III.
+
 ## See Also
 
 - [[XXII Moekims]]
@@ -54,6 +83,21 @@ Anagaloeng's significance in the documentary record of the [[Aceh War|Atjeh-oorl
 - [[18 April]]
 - [[1896]]
 - [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[Teungku Tiro]]
+- [[Mat Amin]]
+- [[Tgk. Tjhi Ma'at]]
+- [[Teungku Chot Plieng]]
+- [[Battle of Aneu Galong (1896)]]
+- [[Great Acheh]]
+- [[North Coast (of Acheh)]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
+- [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
+- [[Tangsé]]
+- [[Prang sabi]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Source
 

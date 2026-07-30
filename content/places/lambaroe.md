@@ -1,7 +1,31 @@
 ---
-title: "Lambaroe"
-aliases: ["Fort Lambaroe", "Kampung Lambaroe", "Lambarih", "Lambaro", "Lambaroe", "V Moekims Montassik post"]
-tags: [place, 19th-century, aceh, aceh-war, achehnese, battlefield, buitenlinie, colonial, dutch, fortification, military, settlement, village, xxii-moekims]
+title: Lambaroe
+aliases:
+- Fort Lambaroe
+- Kampung Lambaroe
+- Lambarih
+- Lambaro
+- V Moekims Montassik post
+- Lam Baro
+- Lam-Baro
+- Lam Baro (locality)
+tags:
+- place
+- 19th-century
+- aceh
+- aceh-war
+- achehnese
+- battlefield
+- buitenlinie
+- colonial
+- dutch
+- fortification
+- military
+- settlement
+- village
+- xxii-moekims
+- locality
+- pantun
 ---
 
 **Lambaroe** was a settlement north of [[Kajoe‑leh]] that Dutch troops reached after occupying Kajoe‑leh on [[5 February]] [[1876]]. From Lambaroe the column proceeded to the [[Atjeh River]] and later to [[Pajar‑Ajer]].
@@ -46,6 +70,10 @@ Lambaroe was conquered on [[4 February]] [[1876]] in the closing sweep of the [[
 
 In early March [[1876]] the communication between [[Pager Ajer]] and the [[Longbatta-Mesigit]] was broken and Kajoe Leh was *ingesloten* (besieged) by the enemy. [[Kolonel Meijer|Overste Meijer]] marched with a colonne from K. Radja to *ontzet* (relieve) the bedreigde posten. After the enemy was verdreven on the Pager Ajer side, the colonne stuitten at Lambaroe on a *sterke benteng*, which was *stormenderhand* (by storm) taken. The Atjehneezen left more than 70 *lijken* (corpses); Dutch losses were five *gesneuvelden* and 41 *gekwetsten* including five officers. Kajoe Leh was *ontzet* and a post was opgericht at Lambaroe. The storming was the last major offensive operation of Pel's plan: on [[10 March]] [[1876]] [[Generaal Wiggers van Kerchem|generaal Wiggers van Kerchem]] assumed militaire and civiele bestuur, and from then on the war entered another phase. The *stelling* [[Kroeng Raba|K. Raba]]–[[Kwala Gigieng]] has remained "nagenoeg onveranderd" ever since, Borel writes in [[1878]].
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[III Moekims]]
@@ -58,6 +86,11 @@ In early March [[1876]] the communication between [[Pager Ajer]] and the [[Longb
 - [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
 - [[Benteng]]
 - [[Klewang]]
+- [[Lubo']]
+- [[Lhee Mukim Kayee Adang]]
+- [[Lhee Mukim Lam Rabo]]
+- [[Great Acheh]]
+- [[Mamplenc (wedding procession)]]
 
 ## Source
 

@@ -1,7 +1,66 @@
 ---
-title: "Gajolanden (Gayo Lands)"
-aliases: ["Gajolanden", "Gayo Lands", "Gayoland", "land of the Gajos", "Gajo lands", "Gayo-landen", "Gajo-Landen", "Tanah Gayo", "the Gajo highlands", "Gajo country", "Gajoland", "Gajò Loeös", "Gajò Loeö"]
-tags: [place, region, aceh, gajo, highland, colonial, dutch, buitenbezittingen, wegennet, gayo, highlands, resistance, aceh-war, 20th-century]
+title: Gajolanden (Gayo Lands)
+aliases:
+- Gajolanden
+- Gayo Lands
+- Gayoland
+- land of the Gajos
+- Gajo lands
+- Gayo-landen
+- Gajo-Landen
+- Tanah Gayo
+- the Gajo highlands
+- Gajo country
+- Gajoland
+- Gajò Loeös
+- Gajò Loeö
+- Gajo-land
+- Gayo country
+- Gayo highlands of central Atjeh
+- Het Gajoland
+- Gajo land
+- Gayo Land
+- Gayo Highlands
+- Gajoeland
+- Gajoe-Loeös
+- Gayo Loeös
+- Gayo Lues
+- the Gajo-Loeös
+- Gajo Loeës
+- Gajo-Loeës
+- Gajoloes
+- Gayo Lues Highlands
+- Gajó Loeós
+- Gajo (place)
+- Gayo
+- Gajo region
+- Gayos
+- Gayo people
+tags:
+- place
+- region
+- aceh
+- gajo
+- highland
+- colonial
+- dutch
+- buitenbezittingen
+- wegennet
+- gayo
+- highlands
+- resistance
+- aceh-war
+- 20th-century
+- achehnese
+- binnenbezittingen
+- snouck-hurgronje
+- van-daalen
+- takengon
+- laot-tawar
+- gayoland
+- interior
+- ethnic-group
+- people
 ---
 
 **The Gajolanden** — the Gayo Lands — is the highland region of central [[Atjeh|Aceh]] inhabited by the Gajo (Gayo) people, the region through which the [[Gajoweg]] runs from [[Bireuën]] to [[Takengeun]] on Laut Tawar. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), the Gajolanden are the book's — and the lieutenant's journey through Aceh — destination: the beautiful lake of the Gajolanden at the end of the Gajoweg, and the region of the [Gajo- en Alaslanden tochten] of Van Heutsz's period of glory.
@@ -70,6 +129,20 @@ In the [[Administrative Division of Atjeh (1908)|administrative division of 1908
 
 The [[Gajòweg]] — the road through heavy mountain terrain to the interior — was built during Swart's governorship and brought into order for motor traffic; [[Kr. Seumpo]] was reached by motorcar along it for the first time in October [[1911]].
 
+
+## Sources
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), passim (especially pp. 22, 28, 30, 32, 35, 50, 53, 56, 75, 81, 95, 102, 124, 171, 219).
+
+*Het Gajoland en zijne bewoners*, by C. Snouck Hurgronje (The Hague: M. Nijhoff, [[1903]]).
+*Gajosch-Nederlandsch Woordenboek*, by G. A. J. Hazeu.
+*Atjèh*, by J. Kreemer, 2 vols. ([[1922]]-23), vol. II, p. 446.
+
+*Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters XI–XII, *'De Gajo-weg en zijn landschap'* and *'In het hart van Gajo-land'*, pp. 72–87. Also *Het Gajo-land en zijn bewoners*, by Dr. C. Snouck Hurgronje (Batavia 1903), and *Atjeh en de Atjehers*, by J. A. Kruyt (Leiden 1877), for the 1874 reports.
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 8–9, 22–24, 38, 83, 103–114.
+*DLP-84-Atjeh.pdf*, pp. 9–10.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -100,6 +173,68 @@ The [[Gajòweg]] — the road through heavy mountain terrain to the interior —
 - [[Gotfried Coenraad Ernst van Daalen]]
 - [[The resistance in Atjeh 1908–1912]]
 - [[Blah]]
+- [[1873]]
+- [[1877]]
+- [[1900]]
+- [[1901]]
+- [[1903]]
+- [[1905]]
+- [[1908]]
+- [[1911]]
+- [[1913]]
+- [[1922]]
+- [[Alasland]]
+- [[Atjeh en de Atjehers (Kruyt)]]
+- [[Böbasan]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
+- [[Dr. Hazeu]]
+- [[Dr. Snouck Hurgronje]]
+- [[G. A. J. Hazeu]]
+- [[G. C. E. van Daalen]]
+- [[Gajo- en Alaslanden]]
+- [[Gajo-weg]]
+- [[Het Gajo-land en zijn bewoners]]
+- [[J. A. Kruyt]]
+- [[Kedjoeroen Boekit]]
+- [[Kreemer's Atjeh ([[1922]]
+- [[Kreemer's De Karbouw ([[1956]]
+- [[Laoet Tawar]]
+- [[Pantang of the albino buffalo in Atjeh]]
+- [[Petiambang]]
+- [[Snouck Hurgronje's Het Gajoland en zijne bewoners ([[1903]]
+- [[Takengon]]
+- [[Verkenningen in Atjeh (1923)]]
+- [[getah dadih]]
+- [[peuteumbôn]]
+- [[Blang Kedjeren]]
+- [[1e Divisie Marechaussee uit Blang Kedjeren]]
+- [[G.C.E. van Daalen]]
+- [[Gajoetocht (1904)]]
+- [[Korps Marechaussee van Atjeh en Onderhorigen]]
+- [[Klewang]]
+- [[1930]]
+- [[Takengön]]
+- [[Laut Tawar|Laoet Tawar]]
+- [[Gajo]]
+- [[Kédjoerön Pétiambang]]
+- [[Radja Tjèq of Alas]]
+- [[Alasweg]]
+- [[Gajoland]]
+- [[Gajolanden]]
+- [[Gajodorp]]
+- [[Gajoweg (Gayo Road)|Gajoweg]]
+- [[Takengen]]
+- [[Alas]]
+- [[Aceh War]]
+- [[e-c-van-daalen|Van Daalen]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz]]
+- [[Oerbos]]
+- [[Alang-alang]]
+- [[Central highlands of North Sumatra]]
+- [[Acheh]]
+- [[Achehnese War]]
+- [[General van der Heijden's excursions (marches through the highlands)]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz's governorship]]
 
 ## Source
 

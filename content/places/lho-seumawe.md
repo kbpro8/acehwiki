@@ -1,7 +1,43 @@
 ---
-title: "Lho' Seumawe"
-aliases: ["Lhokseumawe", "Lho Seumawe (north coast)", "Lho Seumawan", "Lhoseumawe", "Lhöi Seumawè", "Lho Seumawe onderafdeeling", "Lho Seumawe havenplaats", "Lho' Seumawé landschap", "Lho' Seumawe'sche"]
-tags: [place, north-east-coast, coast, uleebalangship, north-coast, north-east, mahraja, port, noordkust, oostkust, colonial, harbour, town, underafdeeling, achehnese, noordkust-van-atjeh, maharadja, sarikat-islam, paketvaart, gemeentefonds, aceh, landschap, aceh-war, 20th-century]
+title: Lho' Seumawe
+aliases:
+- Lhokseumawe
+- Lho Seumawe (north coast)
+- Lho Seumawan
+- Lhoseumawe
+- Lhöi Seumawè
+- Lho Seumawe onderafdeeling
+- Lho Seumawe havenplaats
+- Lho' Seumawé landschap
+- Lho' Seumawe'sche
+- Lho Seumawé
+- Lhok Seumawe
+tags:
+- place
+- north-east-coast
+- coast
+- uleebalangship
+- north-coast
+- north-east
+- mahraja
+- port
+- noordkust
+- oostkust
+- colonial
+- harbour
+- town
+- underafdeeling
+- achehnese
+- noordkust-van-atjeh
+- maharadja
+- sarikat-islam
+- paketvaart
+- gemeentefonds
+- aceh
+- landschap
+- aceh-war
+- 20th-century
+- city
 ---
 
 An important port and centre on the North Coast. The Mahraja (chief) of Lho' Seumawe is mentioned: 'I will not live at Sawang Keupula, for I fear lest the Mahraja (of Lho' Seumawe) may carry me off.' (sadati dialogue). Lho' Seumawe appears in the list of North Coast places referenced in the hikayats and sadati performances.
@@ -110,6 +146,10 @@ It was to Lho' Seumawè that the woman found wandering near the raided *ladangs*
 
 [[T. Maharadja Mangkoeboemi]], *zelfbestuurder* of the *landschap* Lho' Seumawè, was the first signatory and one of the two drafters of the [[Letter of the Acehnese Chiefs to General Swart (26 September 1933)|letter of the Acehnese chiefs]] to Swart on his seventieth birthday.
 
+
+## Sources
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946), pp. 65-67.
+
 ## See Also
 
 - [[1873]]
@@ -160,6 +200,10 @@ It was to Lho' Seumawè that the woman found wandering near the raided *ladangs*
 - [[Letter of the Acehnese Chiefs to General Swart (26 September 1933)]]
 - [[Lho' Soekon]]
 - [[Atjehtram]]
+- [[Aceh War]]
+- [[Hendrikus Colijn|H. Colijn]]
+- [[Batêê Iliê]]
+- [[Samalanga]]
 
 ## Source
 

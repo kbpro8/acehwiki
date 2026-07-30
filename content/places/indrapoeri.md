@@ -1,8 +1,56 @@
 ---
 title: Indrapoeri
-aliases: [Indrapoeri, Indrapuri, Indra Poeri, bivak Indrapoeri, Mesdjid Indrapuri, the Indrapuri mosque, emmedji Indrapoeri]
-tags: [place, aceh, aceh-war, koetaradja, "19th-century", cemetery, indrapoeri, mosque, religious-site, groot-atjeh, village, achehnese, irrigation, Deli-Atjeh-Tabak-Mij]
-description: "Place near Koetaradja, the residence of colonel Van Heutsz; the site of a mass grave of 28 soldiers killed in the Glé Jeung ambush, in a small neglected cemetery; Van Heutsz's 'Dit graf zal vereeuwigd worden' — but the grave is forgotten; the Genie worked all night on the coffins."
+aliases:
+- Indrapuri
+- Indra Poeri
+- bivak Indrapoeri
+- Mesdjid Indrapuri
+- the Indrapuri mosque
+- emmedji Indrapoeri
+- Indra Puri
+- Indrapuri mosque
+- Meuseugit Raya of the XXII Mukims
+- Missigit of Indrapuri
+- Indrapoera
+- Indrapera
+- Indrapura
+- Keizer van Indrapoera
+- Indrapoera (Groot-Atjeh)
+- Indra Poera
+- Indrapoera groot Atjeh
+- Indrapoera place of Atjeh
+tags:
+- place
+- aceh
+- aceh-war
+- koetaradja
+- 19th-century
+- cemetery
+- indrapoeri
+- mosque
+- religious-site
+- groot-atjeh
+- village
+- achehnese
+- irrigation
+- Deli-Atjeh-Tabak-Mij
+- sacred-site
+- great-acheh
+- kampong
+- acehnese
+- sumatra
+- westkust
+- colonial
+- dutch
+- atjeh
+- mukim
+- 20th-century
+- afdeeling
+- residence-place
+description: Place near Koetaradja, the residence of colonel Van Heutsz; the site
+  of a mass grave of 28 soldiers killed in the Glé Jeung ambush, in a small neglected
+  cemetery; Van Heutsz's 'Dit graf zal vereeuwigd worden' — but the grave is forgotten;
+  the Genie worked all night on the coffins.
 ---
 **Indrapoeri** — also *Indrapuri* — is the place near [[Koetaradja]] where colonel [[Joannes Benedictus van Heutsz|Van Heutsz]] had his residence in the years of the *geconcentreerde linie* (concentrated line). It was the seat of his *bivak*, and of a small neglected cemetery in which lies the mass grave of the 28 soldiers killed in the [[Glé Jeung ambush|mislukte verrassing van Glé Jeung]] — a grave that, in Zentgraff's day, *was niets te zien* (there was nothing to see). The graves of [[Tengkoe Sjech Saman di Tiro|Tgk. Sjech Saman di Tiro]] and of his son [[Tengkoe Mat Amin di Tiro|Tgk. Mat Amin]], killed at [[Aneukgalong]] in [[1896]], lie in the *kandang* at kampong Moereuë, not far from Indrapoeri.
 
@@ -117,6 +165,69 @@ The Sultan's influence greatly increased. In all Atjeh and for all Atjehers he w
 - [[Van Lansberge]]
 - [[Verkenningen in Atjeh (1923)]]
 - [[XXVI Moekims]]
+- [[K. van der Heyden]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
+- [[missigit Indrapoeri]]
+- [[Gle Kambing]]
+- [[Anak Galoeëng]]
+- [[Panglima Polem|Panglima Polim]]
+- [[Imam of Longbatta]]
+- [[Habib Machmoed]]
+- [[Djerreek]]
+- [[Redep]]
+- [[Panteh Karang]]
+- [[Gleiêng]]
+- [[Capture of Indrapuri (24 March 1879)]]
+- [[Campaign against the XXII Moekims (1879)]]
+- [[Selimoen Expedition (August 1879)]]
+- [[Indrapatra]]
+- [[Indrapeurua]]
+- [[Meuseugit Raya of the capital]]
+- [[XXII Mukims]]
+- [[Panglima Polem]]
+- [[Sultan Meukuta Alam]]
+- [[Three Sagis (XXVI, XXV, XXII Mukims)]]
+- [[Great Acheh]]
+- [[XXV Mukims]]
+- [[XXVI Mukims]]
+- [[Meukuta Alam]]
+- [[Tikoe]]
+- [[Priaman]]
+- [[Padang]]
+- [[Painan]]
+- [[Salido]]
+- [[Poeloe Tjingkoek]]
+- [[Bajang]]
+- [[Taroesan]]
+- [[Painansch Contract]]
+- [[Padang Conference (29 August 1680)]]
+- [[Balthasar Bort]]
+- [[Jacob Jorisse Pits]]
+- [[Jan van Groenewegen]]
+- [[Westkust van Sumatra]]
+- [[Vereenigde Oost-Indische Compagnie]]
+- [[6 July]]
+- [[29 August]]
+- [[27 February]]
+- [[1663]]
+- [[1680]]
+- [[1681]]
+- [[1716]]
+- [[Atjeh en Onderhoorigheden]]
+- [[Geschiedenis en genealogie van het geslacht Van Son (1951)]]
+- [[Koninklijk Nederlandsch-Indisch Leger]]
+- [[Koeta Radja]]
+- [[Leonie van Son]]
+- [[Livinus Diederik Mattheus van Son]]
+- [[Otto Louis Brewer]]
+- [[Surrender of the Atjeh pretender-sultan (1903)]]
+- [[Van Son genealogy]]
+- [[XXII Moekims]]
+- [[Yvonne Caroline Brewer]]
+- [[1904]]
+- [[1 August]]
+- [[17 November]]
+- [[24 March]]
 
 ## Sources
 
@@ -127,3 +238,7 @@ The Sultan's influence greatly increased. In all Atjeh and for all Atjehers he w
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX. pp. 49–50.
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 103-108.
+*De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 15, 17, 19–21, 3 (tekst bij blad 4 en 5: *Atjeh en de Westkust van Sumatra in 1684*, *De Compagnie in den Archipel na 1684 tot 1791 — Sumatra*).
+*Geschiedenis en genealogie van het geslacht Van Son, eertijds geheeten Van Broechoven*, by H. J. A. van Son, Deel III: De Oudere Linie (Vervolg tot heden) (Dordrecht: Schefferdrukkerij, [[1951]]), p. 37 (Tak B, generation XIa).

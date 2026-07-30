@@ -1,7 +1,25 @@
 ---
-title: "Atjeh"
-aliases: ["Aceh", "Achéh", "Achin", "Atjeh (historical)", "Atjeh (Aceh)"]
-tags: [place, aceh, historical, region, southeast-asia, indonesia, sultanate, sumatra, precolonial, colonial, aceh-war]
+title: Atjeh
+aliases:
+- Aceh
+- Achéh
+- Achin
+- Atjeh (historical)
+- Atjeh (Aceh)
+- Atjeh Sultanate
+- Aché
+tags:
+- place
+- aceh
+- historical
+- region
+- southeast-asia
+- indonesia
+- sultanate
+- sumatra
+- precolonial
+- colonial
+- aceh-war
 ---
 
 **Atjeh** was a coastal sultanate on the northern tip of [[Sumatra]] (present‑day [[Aceh (province)|Aceh]]) that existed from the early [[16th century|16th century]] until its incorporation into the [[Netherlands|Dutch East Indies]] in the early [[20th century|20th century]]. Its strategic position on the [[Strait of Malacca]] made it a focal point of the pepper trade, Islamic scholarship, and a series of protracted conflicts with the [[Dutch East India Company|VOC]] and later the [[Netherlands]] during the [[Aceh War|Aceh War (1873–1904)]]. The sultanate’s capital was [[Bandjar|Bandjar]] (modern [[Banda Aceh]]), and its territory included the offshore [[Aroe Islands]]. Dutch military operations, especially those of the [[Korps Mariniers (Netherlands)|Dutch Marine Corps]] from [[1873]] through [[1908]], produced a dense record of engagements, honours such as the [[Ridder Militaire Willemsorde]], and a lasting legacy in colonial military history.
@@ -63,6 +81,10 @@ The source describes the broader social and cultural life of Aceh: agricultural 
 
 Throughout *Generaal Swart, Pacificator van Atjeh* the name stands both for the territory and for the problem: "Atjeh was, after all, Atjeh — every setback still caused an involuntary fright." [[Maurice Henri du Croo|Du Croo]] defined the *[[Pacificatie van Atjeh|pacificatie]]* as the conversion of Atjeh "from an exceptional, expensive, improper province governed with *[[klewang|sabre]]* and carbine into an ordinary and virtually normal part of the Netherlands Indies." Its administrative form was the [[Gouvernement Atjeh en Onderhoorigheden]], divided in [[1908]] into the *afdeelingen* [[Groot Atjeh]], the [[Noordkust van Atjeh|Noordkust]], the [[Oostkust van Atjeh|Oostkust]], the [[Westkust van Atjeh|Westkust]] and [[Bambél]]. Swart's judgement in [[1927]] was: "I am convinced of the truth of a remark by an Acehnese chief, that people would be sorry if Netherlands authority withdrew."
 
+
+## Sources
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pp. 470‑473.
+
 ## See Also
 
 - [[Bandjar]]
@@ -94,6 +116,13 @@ Throughout *Generaal Swart, Pacificator van Atjeh* the name stands both for the 
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Groot Atjeh]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
+- [[Aceh Expedition (1873–1876)|Atjeh expedition (1873–1876)]]
+- [[Aceh Expedition (1873–1876)|Atjeh campaign (26 December 1875 – 4 September 1876)]]
+- [[Atjeh campaign (26 December 1875 – 7 February 1876)]]
+- [[Atjeh Marineblad (1890–1891)]]
+- [[Map of Groot Atjeh]]
 
 ## Source
 

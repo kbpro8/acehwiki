@@ -1,8 +1,58 @@
 ---
-title: "Lho Soekon"
-aliases: ["Lho Sukon", "Lhok Sukon", "bivak Lho Soekon", "Lhoksoekon", "Lhokseukon", "Lhossckon", "Lhosoekon", "Lhoksoeken", "Lhosukon", "Lho Soekon onderafdeeling", "Lho Seukon", "Lhoksukon", "the Lho' Soekon district"]
-tags: [place, bivak, aceh, aceh-war, north-coast, colonial, dutch, 20th-century, pang-nanggroe, onderafdeeling, zelfbestuur, underafdeeling, achehnese, noordkust-van-atjeh, paja-tjitjem, keureuto, sarikat-islam, samudra-pasé, town, noordkust, keureutoe]
-description: "Bivak and post in the Lho Seumawé area, seat of the civiel-gezaghebber Schouten, the division command, and the centre of resistance of Pang Nanggroë; the graves of Pang Nanggroë and Pang Lateh lie behind the keudé in kandangs."
+title: Lho Soekon
+aliases:
+- Lho Sukon
+- Lhok Sukon
+- bivak Lho Soekon
+- Lhoksoekon
+- Lhokseukon
+- Lhossckon
+- Lhosoekon
+- Lhoksoeken
+- Lhosukon
+- Lho Soekon onderafdeeling
+- Lho Seukon
+- Lhoksukon
+- the Lho' Soekon district
+- Lho Sukon (Atjeh)
+- Lho-Sukon
+- Lho' Soekon
+- Lho' Sukon
+- Lhokseumawe region
+- Lho' Soekon (Noordkust afdeeling)
+tags:
+- place
+- bivak
+- aceh
+- aceh-war
+- north-coast
+- colonial
+- dutch
+- 20th-century
+- pang-nanggroe
+- onderafdeeling
+- zelfbestuur
+- underafdeeling
+- achehnese
+- noordkust-van-atjeh
+- paja-tjitjem
+- keureuto
+- sarikat-islam
+- samudra-pasé
+- town
+- noordkust
+- keureutoe
+- oil-field
+- atjeh
+- sumatra
+- exploration
+- region
+- 19th-century
+- rijstbouw
+- lho-soekon
+description: Bivak and post in the Lho Seumawé area, seat of the civiel-gezaghebber
+  Schouten, the division command, and the centre of resistance of Pang Nanggroë; the
+  graves of Pang Nanggroë and Pang Lateh lie behind the keudé in kandangs.
 ---
 
 **Lho Soekon** — also *Lho Sukon*, modern *Lhok Sukon*, also *Lhoksoekon* — was a *bivak* and post in the [[Lho Seumawé]] area on the North coast of [[Aceh]], seat of the *civiel-gezaghebber* (civil authority) — Schouten held the post in the years of the false [[T. Radja Sabi]] — and of the division command that directed the [[Korps Marechaussee van Atjeh en Onderhorigen|maréchaussée]]-brigades operating against the bands of [[Pang Nanggroë]], [[Tjoet Meuthia]], and the *adelaarsjong*. The graves of [[Pang Nanggroë]] and [[Pang Lateh]] lie behind its *keudé* in wooden-enclosed *kandangs*, and the *pasanggrahan* of Lho Soekon is the setting of [[H.C. Zentgraff|Zentgraff]]'s long interview with the grown [[T. Radja Sabi]]. In the [[1930]] compilation of *[[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]*, Lhoksoekon appears as an *onderafdeeling* of the afdeeling Noordkust van Atjeh in the [[Gouvernement Atjeh en Onderhoorigheden]], seat of three *zelfbesturende landschappen* (Keureutoë, Matang Koeli, and Hakim Kroeeng Peutoë) whose *oeleebalang* collectively issued the *woeker-verordening* of [[9 December]] [[1926]] (Reg. No. 1), the *klappercultuur-verordening* of [[25 August]] [[1916]] (Reg. No. 18a), and the *mantri*-instructie of the same date for the klappercultuur (Reg. No. 18b).
@@ -91,6 +141,11 @@ In January [[1913]] the foragers of [[Tgk. di Mata Ië]] were vigorously driven 
 
 In [[1917]] a leper at Lho' Soekon murdered the *officier van gezondheid* [[J. Ph. Andriesse|dr. J. Ph. Andriesse]] during examination; the perpetrator was sentenced to death. In June [[1915]] the *officier van gezondheid* [[De Vos]] was lightly wounded at Lho' Soekon during vaccination, the perpetrator being killed by bystanders. On [[11 March]] [[1918]] the Civil Authority, lieutenant [[M. Schouten|Schouten]], was attacked there; he soon recovered and the perpetrator was laid low.
 
+
+## Sources
+*The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 9 (Situation Before Worldwar II).
+*De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 9.
+
 ## See Also
 
 - [[1905]]
@@ -144,6 +199,21 @@ In [[1917]] a leper at Lho' Soekon murdered the *officier van gezondheid* [[J. P
 - [[W. J. Mosselman]]
 - [[Tgk. di Mata Ië]]
 - [[Meurandéh Paja]]
+- [[Acheh]]
+- [[Atjeh oil complex]]
+- [[N.K.P.M.]]
+- [[Oil exploration in North Sumatra]]
+- [[Pasé oil field]]
+- [[Pedirse]]
+- [[Van Bemmelen's The Geology of Indonesia (1949)]]
+- [[1940]]
+- [[1941]]
+- [[Samalanga]]
+- [[Peusangan]]
+- [[Rijstbouw]]
+- [[Pepercultuur]]
+- [[De Rijkdom van Atjeh (1923)]]
+- [[1923]]
 
 ## Source
 

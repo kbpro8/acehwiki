@@ -1,7 +1,36 @@
 ---
 title: Sultanate of Acheh
-aliases: [Acheh, Atjeh, Aceh, Sultanate of Atjeh, Kingdom of Acheh, Achehnese country, Great Acheh, Acheh proper]
-tags: [place, sultanate, kingdom, country, region, coast, islamic, islamic-learning, precolonial, polity, 16th-century]
+aliases:
+- Acheh
+- Atjeh
+- Aceh
+- Sultanate of Atjeh
+- Kingdom of Acheh
+- Achehnese country
+- Great Acheh
+- Acheh proper
+- Aceh Sultanate
+- Acehnese Sultanate
+- Kesultanan Aceh
+- Rijk van Atsjin
+- Sultanate of Aceh
+tags:
+- place
+- sultanate
+- kingdom
+- country
+- region
+- coast
+- islamic
+- islamic-learning
+- precolonial
+- polity
+- 16th-century
+- achehnese
+- event
+- government
+- history
+- sovereign-state
 ---
 
 **Sultanate of Acheh** was a powerful maritime Islamic kingdom occupying the northern tip of [[Sumatra]] from the early [[16th century|16th century]] until its gradual incorporation into the Dutch colonial sphere in the late [[19th century|19th century]], notably after the Dutch‑Achen war that began in [[1873]]. Centered on the capital [[Banda Acheh]], the sultanate controlled a network of coastal towns, the three confederations of the [[Three Sagis]] (the [[XXII Mukims]], [[XXV Mukims]] and [[XXVI Mukims]]), and a hinterland that stretched from [[Tamiang|Teumiang]] on the [[East Coast (of Acheh)|East Coast]] to [[Baros]] on the [[West Coast (of Acheh)|West Coast]]. Its political life intertwined with the regional pepper trade, the spread of Islamic scholarship, and a series of contested successions that attracted the attention of the [[British East India Company]], the [[Dutch East India Company|VOC]], and later the British colonial administration in [[Penang]] and [[Bengal]].
@@ -66,6 +95,12 @@ From the [[16th century]] onward, Portuguese, Dutch, English and American vessel
 
 The Dutch, invoking obligations from the [[Anglo-Dutch Treaty of 1824|Treaty of 1824]] to safeguard the [[Strait of Malacca]], sought to curtail Acehnese piracy. Repeated clashes led to the declaration of the [[Aceh War]] in [[1873]], which lasted until the early twentieth century. The war's *pacification* (pacification) was eventually achieved under [[Joannes Benedictus van Heutsz|General J. B. van Heutsz]] in the *Periode van Heutsz* (Period of Heutsz), bringing relative stability and opening the way for modernisation policies.
 
+
+## Sources
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 5-20; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 5-75.
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 7–8, pp. 88–193; Introduction.
+
 ## See Also
 
 - [[Sumatra]]
@@ -88,6 +123,20 @@ The Dutch, invoking obligations from the [[Anglo-Dutch Treaty of 1824|Treaty of 
 - [[1500]]
 - [[1873]]
 - [[Periode van Heutsz]]
+- [[Adat]]
+- [[Dalam]]
+- [[First Aceh Expedition]]
+- [[Great Acheh]]
+- [[Kraton of Aceh]]
+- [[Muhammad Dawot Shah]]
+- [[Panglima Meuseugit Raya]]
+- [[Sagi System]]
+- [[Second Aceh Expedition]]
+- [[Teuku Kali Malikon Ade]]
+- [[Treaty of 1857 between Netherlands and Aceh]]
+- [[Treaty of London 1824]]
+- [[Uleebalang]]
+- [[Wakeuh]]
 
 ## Source
 

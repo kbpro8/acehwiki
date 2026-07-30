@@ -1,7 +1,32 @@
 ---
 title: Gampong Jawa
-aliases: [Kampong Jawa, Gampong Jawa, Gampông Jawa, Java Village, Gampông Java, Gampong Djawa, Kampung Jawa, Gampong Java, Gampong Jawè, The Javanese village of Acheh]
-tags: [place, aceh-proper, gampong, capital-area, ziarah, sacred-site, religious-site, capital, village]
+aliases:
+- Kampong Jawa
+- Gampông Jawa
+- Java Village
+- Gampông Java
+- Gampong Djawa
+- Kampung Jawa
+- Gampong Java
+- Gampong Jawè
+- The Javanese village of Acheh
+- Kampong Djawa
+- Kampong Java
+tags:
+- place
+- aceh-proper
+- gampong
+- capital-area
+- ziarah
+- sacred-site
+- religious-site
+- capital
+- village
+- acehnese
+- kampong
+- chinese-traders
+- left-bank
+- aceh-war
 ---
 
 A village (gampong) within or near the capital of [[Acheh]]. It was inhabited chiefly by Javanese and Malay settlers and traders, as well as foreigners who had settled in [[Acheh]]. Javanese and Malay traders in Gampong Jawa had grown accustomed to using tea and coffee during their sojourn in Arabia or from Achehnese neighbours. During the civil war between Jeumaloy and [[Pochut Muhamat]], Jeumaloy fortified Gampong Jawa (along with [[Peunayong]] and [[Meura'sa]]) as a stronghold; its fall to [[Pochut Muhamat]] was decisive. The tomb of [[Poteu Jeumaloy]] (the Arab claimant to the Achehnese throne) is located in the ancient [[Gampong Kandang]], not far from [[The Dalam]]. The sadati kisah also mentions: 'In Gampong Jawa the heavens are greatly overcast; storms of rain and thunder and lightning come up. Cocoanut trees are cleft in twain.' Habib Abdurrahman (the Habib par excellence) was absent from [[Acheh]] on a voyage to [[Constantinople]] at the outbreak of the Dutch war; upon his return he entered Achehnese soil and assumed a considerable share in the conduct of the war; he also worked on the [[Meuseugit Raya]] after his arrival. The sadati texts also say: 'In Gampong Jawa there are lamps in a row; let us make processions round the tomb of the Prophet.' The Sayyid of the family of Aidarus who lived in Gampong Jawa was revered as a saint even during his lifetime.
@@ -44,6 +69,11 @@ Snouck Hurgronje's account of Gampong Jawa also bears on the trustworthiness of 
 In the political life of the late sultanate and the early Dutch period, Gampong Jawa is cited as a byword for submission. Even the people of [[Meura'sa]] and Gampong Jawa, who had wholly compromised themselves by complete submission, continued to call all Dutch authorities *kafir* and to speak, without the slightest intention to give offence, of the regulations of the *kaphe* — thus in their common talk denying to the Dutch Government the very authority to which they had submitted. Their attitude is contrasted with the more stubborn view of the up-country Achehnese, who held that the estimate of infidels that prevailed in Acheh in ancient times was more reliable than the view taken by the people of Meura'sa, Gampong Jawa and the like, according to which the wisest course would be to submit to the first *kafir* power that came by.
 **Gampong Jawa** (sometimes written **Gampong Java**) was one of the most important **gampongs** or villages of [[Banda Acheh]], the capital of [[Acheh]]. It is named in *The Achehnese* among the chief gampongs which clustered around the [[Dalam (Sultan's Court)|Dalam]] — the Sultan's residence — together with [[Pande]], [[Peunayong]], [[Lam Bhu]], [[Lueng Bata]], [[Lam Seupeu'eng]], [[Ateung]], [[Batoh]] and [[Meura'sa]]. Together with their neighbours, the inhabitants of these villages were distinguished by the epithet **banda** — "town-bred" or "civilized" — and gave the tone to the whole country in matters of custom and dress.
 
+
+## Sources
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 26, 30, 87, 92, 113, 124, 132, 153, 167, 260.
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
 ## See Also
 
 - [[Abdurra'uf of Singkel]]
@@ -78,6 +108,19 @@ In the political life of the late sultanate and the early Dutch period, Gampong 
 - [[Kanduri T'eungku Anjong]]
 - [[Maulud (Mo'lot)]]
 - [[Achehnese War]]
+- [[Penajoeng]]
+- [[Atjeh-rivier]]
+- [[Lampoeloe]]
+- [[Lampoe Oek]]
+- [[Longbatta]]
+- [[Luitenant Sloet van Zwanenburg]]
+- [[Bezettingskorps in Atjeh]]
+- [[Posten-systeem in Atjeh]]
+- [[Three Sagis]]
+- [[Three Sagis' letter to Penang (4 December 1822)]]
+- [[Sultan Jauhar Alum]]
+- [[Sultan Saif ul-Alum]]
+- [[W. E. Phillips]]
 
 ## Source
 

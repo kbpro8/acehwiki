@@ -1,7 +1,30 @@
 ---
 title: IX Moekims
-aliases: ["IX", "Moekims", "Moekim", "region", "IX Moekims", "IX Mukims", "9 Mukims", "the Nine Moekims", "IX Moekims of Groot-Atjeh", "IX Moekims Oleh Soesoe"]
-tags: [place, aceh, region, ix-moekims, achehnese, aceh-war, diplomacy, military]
+aliases:
+- IX
+- Moekims
+- Moekim
+- region
+- IX Mukims
+- 9 Mukims
+- the Nine Moekims
+- IX Moekims of Groot-Atjeh
+- IX Moekims Oleh Soesoe
+- Nine Mukims
+- IX Mukims of the XXV
+- Sikureueng Mukim
+tags:
+- place
+- aceh
+- region
+- ix-moekims
+- achehnese
+- aceh-war
+- diplomacy
+- military
+- mukim
+- uleebalangship
+- sagi
 ---
 
 **IX Moekims** refers to the ninth district of the Moekim (local chief) system in [[Acheh]], targeted by the Dutch expeditionary force in [[1875]]–[[1876]]. General [[J. L. J. H. Pel|General Pel]] received orders to conquer the IX Moekims, and the marine and army columns advanced through passes such as [[Glitaroem]] to bring the area under Dutch control. As described in [[A. Kruisheer|Kruisheer]]'s *ATJEH '96*, the IX Moekims — written in Dutch as *IX Moekims* and meaning "Nine Mukims" — was a region of [[Groot-Atjeh]] comprising nine [[moekim|mukims]] situated in the central-southern portion of the [[Aceh War|Atjeh-oorlog]] theatre, of which the true *ulèëbalang* (territorial chief) was Toekoe Nanggroi, who always resided at Troemon, and the acting (*wd.*) *oeleebalang* was [[Toekoe Nja Mohamad]] at [[Toebaloe]]. The IX Moekims contained the mukims of Oleh Soesoe and [[Lamkoenjit]], and were protected by the [[Dutch]] post of [[Biloel]] against incursions from the [[Lamkrak Moekims|Lamkrak]], Kroeng Mak, Loetoe, and Lam Lheue of the [[VII Moekims Baid]]. The general sentiment of the IX Moekims toward the Dutch was "not unfavourable," but the kampongs of [[Lam-Tehen]] and [[Koeta Karang]] were actively hostile. The IX Moekims were the object of the [[Machtsvertoon in IX Moekims (29 May 1896)|show-of-force by Van Heutsz on 29 May 1896]] and were the recruiting ground for [[Teuku Umar]]'s mercenaries at 15 dollars per month plus rations.
@@ -31,6 +54,10 @@ The IX Moekims were the object of a [[Machtsvertoon in IX Moekims (29 May 1896)|
 ## Significance
 
 The IX Moekims represented the borderline case of an Achehnese mukim whose *oeleebalang* was prepared to acknowledge Dutch suzerainty but whose population remained partially hostile. The Dutch show-of-force of [[29 May]] [[1896]] was intended to consolidate the loyalty of [[Toekoe Nja Mohamad]] and to detach the IX Moekims from [[Teuku Umar]]'s cause. The persistent hostility of [[Lam-Tehen]] and [[Koeta Karang]] within the otherwise accommodating IX Moekims demonstrated the limits of Dutch authority at the level of individual kampongs. The IX Moekims were also one of the principal sources of Umar's mercenaries — recruited at 15 dollars per month plus rations — and thus a strategic object of Dutch political-military policy in the first semester of [[1896]].
+
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 ## See Also
 
@@ -76,6 +103,15 @@ The IX Moekims represented the borderline case of an Achehnese mukim whose *oele
 - [[1875]]
 - [[1876]]
 - [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[XXV Mukims]]
+- [[IX Mukims (of XXV)]]
+- [[VI Mukims]]
+- [[Meura'sa]]
+- [[Teuku Ne' Peureuba Wangsa]]
+- [[Teungku Lam Peuneu'eun|Teungku Lam Keuneu'eun]]
+- [[Teungku Lam Peuneu'eun]]
+- [[Eumpèe Blieng]]
+- [[Kanduri bungong lada (Pepper-blossom feast)]]
 
 ## Source
 

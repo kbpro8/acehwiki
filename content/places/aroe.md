@@ -1,7 +1,37 @@
 ---
 title: Aroe
-aliases: [Aru, Aru kingdom, Kingdom of Aru, Aroe kingdom, Aroe negri, Negri Aroe, Djao, Jaoa, Rijk Aroe, Batakrijk Aroe, Batak realm of Aroe, Aroe rijk, Het rijk Aroe, Great Batak realm of Aroe, Batak-Aroe]
-tags: [place, kingdom, sumatra, east-coast, 16th-century, achehnese, batak, precolonial, buitenbezittingen]
+aliases:
+- Aru
+- Aru kingdom
+- Kingdom of Aru
+- Aroe kingdom
+- Aroe negri
+- Negri Aroe
+- Djao
+- Jaoa
+- Rijk Aroe
+- Batakrijk Aroe
+- Batak realm of Aroe
+- Aroe rijk
+- Het rijk Aroe
+- Great Batak realm of Aroe
+- Batak-Aroe
+- Haru
+- Aru (Atjeh wingewest)
+- Aru Sumatra
+- Deli region
+tags:
+- place
+- kingdom
+- sumatra
+- east-coast
+- 16th-century
+- achehnese
+- batak
+- precolonial
+- buitenbezittingen
+- atjeh
+- djohor
 ---
 
 **Aroe** — also **Aru**, in Portuguese *Aru* or *Arua*, in the [[Sadjarah Malajoe]] the realm of the *Djao* (Portuguese *Jaoa*), and in the Encyclopaedisch Bureau's survey of the [[Buitenbezittingen|Outer Possessions]] the *Batakrijk Aroe* — was the kingdom on the east coast of [[Sumatra]] whose bay, [[Aroe-baai|Aroe-baai]], opens into the [[Straits of Malacca|Strait of Malacca]] opposite the Nine Islands of [[Perak]], and whose fall to the [[Acheh|Atjehnese]] [[Atjehsche vloot|fleet]] in [[1539]] — recorded by [[Mendez Pinto]] — marks the close of the independent history of the east-coast Hindu-Buddhist commonwealth and the beginning of the Atjehnese maritime age. A kingdom once ranked in the [[Sadjarah Malajoe]] on a level with [[Pasej-Samodra|Pasej]] and [[Malacca]], and one that stretched from [[Tamijang|Tamijang]] to [[Siak]] — and, in the Encyclopaedisch Bureau's account, north-westward along the [[Straits of Malacca|Strait of Malakka]] into south-eastern [[Acheh|Atjeh]] — Aroe was reduced by the Atjehnese conquest to "poverty and piracy", so much so that in the colonial period only a "*soekoe Aroe*" — an Aroe clan — was remembered. The Encyclopaedisch Bureau, drawing on Batak saga, places the destruction of the *Batakrijk Aroe* "probably in [[1589]]" — a dating tradition that complements (rather than supersedes) Pinto's [[1539]] account, and that anchors the Batak memory of a coast-dwelling people driven into the hills by the Atjehnese conquest.
@@ -88,6 +118,12 @@ For AcehWiki, Aroe is the principal east-coast polity whose fall marks the forma
 - [[atjehsche-overheersing-der-noordelijke-kuststaatjes]]
 - [[1539]]
 - [[1589]]
+- [[Acheh]]
+- [[Sultan of Atjeh (1589-1604)]]
+- [[Portuguese conquest of Malaka (1511)]]
+- [[Strait of Malaka]]
+- [[Sumatra]]
+- [[1587]]
 
 ## Sources
 
@@ -96,3 +132,4 @@ For AcehWiki, Aroe is the principal east-coast polity whose fall marks the forma
 *De Buitenbezittingen, Deel II, Afl. 3: Oostkust van Sumatra. Eerste Stuk*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, [[1918]]), pp. 102, 116. Universiteitsbibliotheek Vrije Universiteit Amsterdam, shelfmark LS.08781.
 
 *De Oostkust van Sumatra*, III, by [[Gramberg|Gramberg]], in *Indische Gids* ([[1881]]).
+*Coen, Koopman van Heeren Zeventien. Geschiedenis van den Hollandshen Handel in Indië (1598-1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. De Boer Jr., 1948), Hoofdstuk V "Voorgangers, Hollanders en mededingers tot 1614. Atjeh. Djohor. Malaka." (pp. 109, 136-137).

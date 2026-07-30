@@ -1,8 +1,58 @@
 ---
 title: Dalam
-aliases: ["Kraton Acheh", "Kuta Raja", "Royal Palace of Acheh", "The Dalam", "Sultan's residence", "Kraton", "Kraton of Acheh", "Kutaraja", "Koetaradja", "Kuta Radja", "the King's Fort", "the capital of Acheh"]
-
-tags: [place, palace, sultanate, dalam, capital, kraton, city, colonial]
+aliases:
+- Kraton Acheh
+- Kuta Raja
+- Royal Palace of Acheh
+- The Dalam
+- Sultan's residence
+- Kraton
+- Kraton of Acheh
+- Kutaraja
+- Koetaradja
+- Kuta Radja
+- the King's Fort
+- the capital of Acheh
+- Kraton of Aceh
+- Aceh Kraton
+- Atjeh Kraton
+- Kraton of Atjeh
+- Kraton of the Sultan of Aceh
+- Kuta Raja Kraton
+- Sultan's Palace of Aceh
+- Sultan's citadel of Aceh
+- Kraton Atjeh
+- Kraton (Aceh)
+- Kraton Aceh
+- Kraton Atjèh
+- Atjehse kraton
+- Atjehnese kraton
+- Sultan's kraton Atjeh
+- Royal Palace of Aceh
+- De Kraton
+- Sultan's Palace of Atjeh
+- Royal Palace and Enclosure
+tags:
+- place
+- palace
+- sultanate
+- dalam
+- capital
+- kraton
+- city
+- colonial
+- aceh-war
+- acehnese
+- achehnese
+- fortification
+- fortress
+- atjeh
+- groot-atjeh
+- dutch-colonial
+- 19th-century
+- military
+- aceh
+- 1873
 ---
 
 **The Dalam** was the official residence of the Sultan of [[Great Acheh|Acheh]] — the royal palace around which the capital [[Banda Acheh]] was organised. [[C. Snouck Hurgronje]] notes that the Dutch incorrectly termed it *Kraton* (from the Javanese word for palace), while the Acehnese knew it as *Kuta Raja* ("the king's fort") — a name which, he observes, the Dutch improperly applied to the whole capital.
@@ -59,6 +109,19 @@ Kuta Raja is mentioned as the locality of one of the principal episodes in the l
 
 After the [[Achehnese War|Dutch conquest]] of the sultanate, Kuta Raja (in Dutch spelling *Koetaradja*) became the seat of the colonial government of Acheh. The town is repeatedly mentioned in the later pages of *The Achehnese* as the scene of festivals and ceremonies introduced or modified under Dutch rule. The Hasan-Husain feasts, which the purified Islam of [[Mecca]] had banished from the East Indies, "may now be witnessed year by year at Kuta Raja," Snouck remarks, "for the most part got up by the Padang people who have settled there. Some Klings and Hindus take part in them, but the Achehnese..." The "anniversary" of a saint, observed with a *kanduri* and the recitation of the *fatihah*, was likewise occasionally celebrated in Kuta Raja in Snouck's day.
 
+
+## Sources
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapters II, III, IV, IX. pp. 9–10, 14, 18, 49.
+
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 13-26.
+
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 8-15; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 7-12, 20-35.
+*De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Lessen 3, 37, 38.
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, p. 122.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 24, 27, 32–50, 58–60, 89, 96, 99–107, 111, 116–118, 121–128, 131–135, 219–223, 266–273.
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889.
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Aceh Sultanate]]
@@ -78,6 +141,51 @@ After the [[Achehnese War|Dutch conquest]] of the sultanate, Kuta Raja (in Dutch
 - [[Bitay]]
 - [[Burong Srabi]]
 - [[Achehnese War]]
+- [[Aceh War]]
+- [[Battle of the Missigit (10 April 1873)]]
+- [[Capture of the Aceh Kraton]]
+- [[Capture of the Kraton (24 January 1874)]]
+- [[First Aceh Expedition (1873)]]
+- [[First Aceh Expedition]]
+- [[G. G. Booms]]
+- [[G. M. Verspyck]]
+- [[Groot-Atjeh]]
+- [[J. H. R. Köhler]]
+- [[J. van Swieten]]
+- [[Jan van Swieten|J. van Swieten]]
+- [[K. van der Heyden]]
+- [[Kota Radja]]
+- [[Krueng Daroy]]
+- [[Pakan Atjeh]]
+- [[Panglima Polem|Panglima Polim]]
+- [[Second Aceh Expedition (1873-1874)]]
+- [[Taman (Kota Goenoengan)]]
+- [[Van Swieten's Proclamation of 31 January 1874]]
+- [[Mesigit]]
+- [[De Kleine Oosterling]]
+- [[Aceh Expedition (1873-1876)]]
+- [[Declaration of War on Aceh (1873)]]
+- [[General-Major Köhler]]
+- [[Jan van Swieten|Generaal Van Swieten]]
+- [[Kotta-Radja]]
+- [[Atjeh War]]
+- [[1873]]
+- [[1874]]
+- [[Mesigit of Atjeh]]
+- [[Kroeng Daroe]]
+- [[Atjeh-rivier]]
+- [[Storming of the Mesigit (6 January 1874)]]
+- [[Bombardment of the Kraton (January 1874)]]
+- [[Fall of the Kraton (24 January 1874)]]
+- [[Kraton (institution)]]
+- [[Bamboe-doeri versperringen]]
+- [[Beknopte beschrijving van den Kraton van Groot Atjeh]]
+- [[Acheh]]
+- [[Kutaraja]]
+- [[Lam Teungoh]]
+- [[Lueng Bata]]
+- [[Pochut Muhamat]]
+- [[Poteu Jeumaloy]]
 
 ## Source
 

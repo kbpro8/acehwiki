@@ -1,7 +1,33 @@
 ---
-title: "Batavia"
-aliases: ["Batavia (city)", "Batavia Dutch East Indies", "Bataviasche regeering", "Betawi", "Colonial Capital Batavia", "Jakarta", "Kota Batavia", "Modern Jakarta", "Pentawi", "Peutawi", "capital of the Dutch East Indies"]
-tags: [place, aceh, capital, city, colonial, colony, dutch, dutch-colonial, foreign, foreign-land, indies, indonesia, sacred-site]
+title: Batavia
+aliases:
+- Batavia (city)
+- Batavia Dutch East Indies
+- Bataviasche regeering
+- Betawi
+- Colonial Capital Batavia
+- Jakarta
+- Kota Batavia
+- Modern Jakarta
+- Pentawi
+- Peutawi
+- capital of the Dutch East Indies
+- Jakarta (Batavia)
+- Djakarta
+tags:
+- place
+- aceh
+- capital
+- city
+- colonial
+- colony
+- dutch
+- dutch-colonial
+- foreign
+- foreign-land
+- indies
+- indonesia
+- sacred-site
 ---
 
 **Batavia** (Acehnese: *Pentawi*; modern [[Jakarta]]) was the colonial capital of the [[Netherlands India|Dutch East Indies]], founded by the [[Dutch East India Company|VOC]] in [[1619]] on the site of the former Portuguese port of *Sunda Kelapa*, and served as the administrative seat of the Governor‑General, the centre of Dutch trade, naval logistics, and diplomatic contacts with the Sultanate of [[Aceh]] until the Japanese occupation in [[1942]]. The city was a focal point for Dutch‑Acehnese interaction, a hub of Malay manuscript collections such as the [[Menangkabau]] Malim Diman preserved by the [[Batavian Association]], and the place where [[C. Snouck Hurgronje]] compiled his research for *The Achehnese* in [[1892]]–[[1894]].
@@ -58,6 +84,11 @@ In his [[1875]] analysis, General [[G. G. Booms]] argued that executive decision
 
 Following the retreat of April [[1873]], Batavia established the [[Bureau for War Equipments on Sumatra]] to organize the [[Second Aceh Expedition]]. During [[1874]], telegrams sent to Batavia ([[General van Swieten War Telegrams]]) generated premature public euphoria that quickly turned into political bitterness when Acehnese resistance continued under [[Panglima Polem]].
 
+
+## Sources
+*20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pp. 22‑24.
+*20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, p. 22.
+
 ## See Also
 
 - [[Aceh]]
@@ -103,6 +134,15 @@ Following the retreat of April [[1873]], Batavia established the [[Bureau for Wa
 - [[Timmerman Thyssen]]
 - [[Van de Graaff]]
 - [[Wilhelmina mutiny and murder of Bouwens]]
+- [[Burda (poem)]]
+- [[Kasida]]
+- [[Van Ronkel]]
+- [[Burda (poem)|Burda]]
+- [[Khālid al-Azhari]]
+- [[Supplement-Catalog]]
+- [[Leiden]]
+- [[Cambridge]]
+- [[Oxford]]
 
 ## Source
 

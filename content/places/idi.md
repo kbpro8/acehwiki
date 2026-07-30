@@ -1,7 +1,60 @@
 ---
-title: "Idi"
-aliases: ["Edi", "Idi Rayeuk", "Idi of the East Coast", "Idi Cut", "Idi Rajeu", "Idi Tjoet", "Onderafdeeling Idi", "Idi onderafdeeling", "Idi hoofdplaats", "Idi (Aceh)", "Idi Besar", "landschap Idi rajeu", "Greater Idi"]
-tags: [place, region, east-coast, district, dependency, coast, oostkust, achehnese, colonial, petroleum, town, underafdeeling, oostkust-van-atjeh, pepper, havenplaats, gemeentefonds, landschap, idi, oeléebalang, goudschat, aceh, garrison, aceh-war]
+title: Idi
+aliases:
+- Edi
+- Idi Rayeuk
+- Idi of the East Coast
+- Idi Cut
+- Idi Rajeu
+- Idi Tjoet
+- Onderafdeeling Idi
+- Idi onderafdeeling
+- Idi hoofdplaats
+- Idi (Aceh)
+- Idi Besar
+- landschap Idi rajeu
+- Greater Idi
+- Edé
+- Edie
+- Edi on the Oostkust
+- Edi (Atjeh East Coast state)
+- Staatje Edi
+- Edi (Atjeh)
+- Atjeh-Edi
+- Edi (East Coast)
+- the Dutch post at Edi
+tags:
+- place
+- region
+- east-coast
+- district
+- dependency
+- coast
+- oostkust
+- achehnese
+- colonial
+- petroleum
+- town
+- underafdeeling
+- oostkust-van-atjeh
+- pepper
+- havenplaats
+- gemeentefonds
+- landschap
+- idi
+- oeléebalang
+- goudschat
+- aceh
+- garrison
+- aceh-war
+- coast-state
+- acehnese
+- historical
+- statelet
+- atjeh
+- 19th-century
+- onderhoorigheden
+- scheepvaartregeling
 ---
 
 **Idi** (also spelled *Edi*) was a district on the East Coast of [[Great Acheh|Acheh]], mentioned by [[C. Snouck Hurgronje]] in the context of regional saints and the *kramat* tradition. The recently deceased raja of Idi — the first pioneer of that district — was identified as the father of a Habib of the famous ʿAidarus Sayyid family, described as a half-crazy young man, the son of Teungku di Bukét.
@@ -98,6 +151,14 @@ The northern border of the *landschap* is the [[Kroeeng Djamboe Aje|Kroeeng Djam
 
 The attack of [[11 June]] [[1890]] on the enemy positions on the left bank of the [[Idi-rivier]] was the action in which *2e luitenant* [[H. N. A. Swart]] was first into the summit fortification and was wounded; the column returned to Idi at 4.30 p.m. and occupied the bivouacs. In March [[1913]] the *controleur* of Idi and an accompanying official were attacked with a *[[parang]]* and both wounded, one of the [[Atjeh-moord|Atjeh murders]]. Idi was among the sub-divisions where a *controleur* already conducted the administration under the [[Administrative Division of Atjeh (1908)|division of 1908]].
 
+
+## Sources
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 29, 96-97.
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapters II, IX, XII. pp. 11–12, 47, 66.
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 10, 11, 15, 21, 25, 31, 35, 39. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*De Geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, by C. J. O. Dorren, 1948, pp. 112–113 (page 16 of the OCR source).
+
 ## See Also
 
 - [[1873]]
@@ -148,6 +209,42 @@ The attack of [[11 June]] [[1890]] on the enemy positions on the left bank of th
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[C. H. Bogaert]]
+- [[Edi-Tjoet]]
+- [[Gedong]]
+- [[Langsar]]
+- [[Pedawa Tjoet]]
+- [[Paseirivier]]
+- [[Blang Pria]]
+- [[K. van der Heyden]]
+- [[Aceh War]]
+- [[Onderhoorigheden]]
+- [[Oostkust]]
+- [[Olehleh]]
+- [[Pasangan]]
+- [[Segli]]
+- [[Pedir]]
+- [[Van der Heijden]]
+- [[Scherer]]
+- [[Laging Tobias]]
+- [[Demmeni]]
+- [[Van Teijn]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Scheepvaartregeling]]
+- [[Blokkade]]
+- [[Habib Abdoel Rachman]]
+- [[XXII Moekims]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
+- [[1875]]
+- [[1877]]
+- [[1878]]
+- [[1879]]
+- [[1883]]
+- [[1884]]
+- [[1890]]
+- [[1893]]
+- [[1898]]
+- [[Expedition to Edi (1890)]]
 
 ## Source
 

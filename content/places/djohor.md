@@ -1,7 +1,54 @@
 ---
 title: Djohor
-aliases: [Johor, Johore, Johor-Riau, Sultanate of Johor, Djohor Lama, Johor Lama, Batoesawer, Johor Hooykaas account]
-tags: [place, kingdom, malay-peninsula, sultanate, atjeh, malaka, portuguese, precolonial, 16th-century, 17th-century, hooykaas, batoe-sawar, 1613-attack, 1615-attack, second-exodus]
+aliases:
+- Johor
+- Johore
+- Johor-Riau
+- Sultanate of Johor
+- Djohor Lama
+- Johor Lama
+- Batoesawer
+- Johor Hooykaas account
+- Jho
+- Johor Sultanate
+- Batoe Sawar
+- Batu Sawar
+- Batoesawar
+- Batoe Sawar capital
+- Batoe Sawar Johor
+- Batu Sawar (Djohor capital)
+- Batoesawer (Djohor)
+- Batu Sawar Padang
+tags:
+- place
+- kingdom
+- malay-peninsula
+- sultanate
+- atjeh
+- malaka
+- portuguese
+- precolonial
+- 16th-century
+- 17th-century
+- hooykaas
+- batoe-sawar
+- 1613-attack
+- 1615-attack
+- second-exodus
+- sacred-site
+- foreign-land
+- foreign
+- malay-state
+- comparative
+- sawah
+- malay-world
+- malay
+- east-indies
+- capital
+- djohor
+- source
+- dutch
+- colonial
 ---
 
 **Djohor** — the Malay Muslim sultanate on the southern tip of the Malay Peninsula, successor state of the sultanate of Malaka after the [[Portuguese conquest of Malaka (1511)|Portuguese conquest of 1511]], and the chief Malay rival of both the Portuguese at [[Malaka|Malaka]] and the [[Sultan of Atjeh (1589-1604)|sultan of Atjeh]] — was the Dutch Republic's chief Malay ally in the early seventeenth century, the strategic partner in the [[Matelieff's Malaka campaign (1606)|Matelieff campaign of 1606]] and the [[Verhoeff's Malaka expedition (1608)|Verhoeff expedition of 1608]], and the principal Malay counterpart to the Dutch in the early Dutch-Indies relationship. Djohor is the principal Malay place in Van der Woude's chapter "Atjeh. Djohor. Malaka." in his [[Coen, Koopman van Heeren Zeventien (1948)|Van der Woude (1948)]].
@@ -84,8 +131,46 @@ The [[1613]] and [[1615]] attacks on Batoe Sawar illustrate, in Hooykaas's readi
 - [[Dr. C. Hooykaas]]
 - [[1615]]
 - [[1623]]
+- [[Aceh]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
+- [[Irandamin]]
+- [[Johor Lama and Johor Bali]]
+- [[Malem Dagang]]
+- [[Pahang]]
+- [[Riouw]]
+- [[Si Ujut]]
+- [[Singapore]]
+- [[Sultan Iskandar Muda]]
+- [[Captain Francis Light]]
+- [[Johor Allum]]
+- [[Kedah]]
+- [[Malay Peninsula]]
+- [[Province Wellesley]]
+- [[Lingga]]
+- [[Anglo-Dutch Treaty of 1824|Treaty of London (1824)]]
+- [[Raffles' Atjew-overeenkomst van 1819]]
+- [[Acehnese conquest of Djohor (1613)]]
+- [[Atjeh]]
+- [[Mahmoed (young prince of Riouw)]]
+- [[Radya Aly]]
+- [[Oost-Indische Compagnie]]
+- [[Sir Thomas Stamford Raffles|Stamford Raffles]]
+- [[Hussein Mua'zzam Shah]]
+- [[Bengkulu]]
+- [[Bugis]]
+- [[Yamtuan Muda]]
+- [[Djohor]]
+- [[1612]]
+- [[1608]]
+- [[1614]]
 
 ## Sources
 
 *Coen, Koopman van Heeren Zeventien. Geschiedenis van den Hollandshen Handel in Indië (1598-1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. De Boer Jr., 1948), Hoofdstuk V "Voorgangers, Hollanders en mededingers tot 1614. Atjeh. Djohor. Malaka." (pp. 108-140).
 *Over Maleise Literatuur*, by Dr. C. Hooykaas, Hoogleraarte Batavia; Tweede Druk (Leiden: E. J. Brill, 1947).
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+*Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598—1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 122, 131‑132.
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, pp. 81‑82.
+*Over Maleise Literatuur*, by Dr. C. Hooykaas, Hoogleraarte Batavia; Tweede Druk (Leiden: E. J. Brill, 1947), chapter 11 ("Geschiedschrijving in het Maleis"), pp. 96-98; appendix III ("De Vorsten van Malakka en Djohor"), pp. 273-276.
+*Coen, Koopman van Heeren Zeventien. Geschiedenis van den Hollandshen Handel in Indië (1598-1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. De Boer Jr., 1948), Hoofdstuk V "Voorgangers, Hollanders en mededingers tot 1614. Atjeh. Djohor. Malaka." (pp. 125-133).

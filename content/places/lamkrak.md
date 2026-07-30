@@ -1,7 +1,31 @@
 ---
 title: Lamkrak
-aliases: ["Lamkrak", "Lamkrak (XXII Moekims)", "Lam Krak", "the kampong of Lamkrak"]
-tags: [place, kampong, aceh-war, 1896, aceh, xxii-moekims, groot-atjeh, habib-long, lambaroe, anagaloeng]
+aliases:
+- Lamkrak (XXII Moekims)
+- Lam Krak
+- the kampong of Lamkrak
+- Lamkrah
+- Lam Krah
+- Lamkrah (Groot-Atjeh)
+- Lamkrah region
+tags:
+- place
+- kampong
+- aceh-war
+- 1896
+- aceh
+- xxii-moekims
+- groot-atjeh
+- habib-long
+- lambaroe
+- anagaloeng
+- region
+- inland
+- 19th-century
+- toekoe-oemar
+- pahlawan-klucht
+- fanatieke
+- lamkrah
 ---
 
 **Lamkrak** — also *Lam Krak* — was an Atjehnese *kampong* in the [[XXII Moekims]] of [[Groot-Atjeh]], located south of the road that ran along the river upstream from the Dutch post of [[Lambaroe]] of the *geconcentreerde linie* to the temporary post of [[Anagaloeng]]. The *kampong* was the principal encampment of the bandit chief [[Habib Long]] in [[1896]], and the Dutch decision to use [[Toekoe Oemar|Toekoe Djohan Pahalawan]] to dislodge him was the immediate occasion of Toekoe Oemar's [[Toekoe Oemar's defection (1896)|defection]] from the Dutch alliance.
@@ -26,6 +50,10 @@ The [[Atjeh-Album (Eigen Haard, 1896)|Atjeh-Album]] records that [[Toekoe Ketjik
 
 Lamkrak's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]] is as the *kampong* whose occupation by [[Habib Long]] was the immediate occasion of [[Toekoe Oemar]]'s [[Toekoe Oemar's defection (1896)|defection]] from the Dutch alliance. The Dutch decision to use Toekoe Oemar to dislodge Habib Long from Lamkrak — and Toekoe Oemar's refusal to march — was the proximate signal of the defection, and the warning of [[Toekoe Ketjik Oemar]] — delivered to the *contrôleur* [[Kroesen]] — was the proximate cause of the Dutch ability to respond. Lamkrak thus occupies a uniquely consequential position in the chronology of the [[1896]] crisis.
 
+
+## Sources
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter XII. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 72.
+
 ## See Also
 
 - [[XXII Moekims]]
@@ -41,6 +69,20 @@ Lamkrak's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]
 - [[Aceh War]]
 - [[1896]]
 - [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[Teuku Umar]]
+- [[Deijkerhoff]]
+- [[Defection of Teuku Umar (March 1896)]]
+- [[Pahlawan-klucht]]
+- [[Geconcentreerde Linie]]
+- [[Kota Radja]]
+- [[Oleh-leh]]
+- [[Lombok]]
+- [[Atjeh-oorlog]]
+- [[29 March]]
+- [[August 1894]]
+- [[March 1896]]
+- [[1894]]
+- [[1895]]
 
 ## Source
 

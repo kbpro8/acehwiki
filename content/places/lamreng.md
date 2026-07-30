@@ -1,7 +1,23 @@
 ---
 title: Lamreng
-aliases: ["Lamreng", "Lamreng (XXV Moekims)", "the post at Lamreng", "Lam Reueng"]
-tags: [place, military-post, aceh-war, 1892, aceh, xxv-moekims, groot-atjeh, geconcentreerde-linie]
+aliases:
+- Lamreng (XXV Moekims)
+- the post at Lamreng
+- Lam Reueng
+- Lamreueng
+- Lam-reueng
+- Lamreueng (XXVI Mukims)
+tags:
+- place
+- military-post
+- aceh-war
+- 1892
+- aceh
+- xxv-moekims
+- groot-atjeh
+- geconcentreerde-linie
+- gampong
+- xxvi-mukims
 ---
 
 **Lamreng** was a Dutch military post in the [[XXV Moekims]] of [[Groot-Atjeh]] — one of the two principal posts (the other being [[Lambaroe]]) at the south-eastern corner of the Dutch *geconcentreerde linie* in the late *concentratie* period. The post was the seat of the *linie-commandant* (line-commandant) for the Lamreng sector, and it was one of the principal bases for the operations against the Atjehnese fortification of [[Kaloet]] — a fortification that lay approximately 800 metres from the *spoorbaan* (railway line) between Lambaroe and Lamreng.
@@ -30,6 +46,10 @@ The [[Atjeh-Album (Eigen Haard, 1896)|Atjeh-Album]] records that, on [[4 August]
 
 Lamreng's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]] is as one of the two principal posts at the south-eastern corner of the Dutch *geconcentreerde linie* — the post whose *linie-commandant* commanded the sector opposite the Atjehnese fortification of [[Kaloet]]. The post's role in the [[De Strijd om Kaloet (1892)|Strijd om Kaloet]] of [[1892]] and [[1893]] — as the base for the night-patrols of Lieutenant [[Brant]], the reconnaissance of Captain [[Jhr. Graafland|Graafland]], the assault of [[1 October]] [[1892]] and the artillery support of [[Toekoe Oemar]]'s [[Capture of Kaloet by Toekoe Oemar (August 1893)|capture of Kaloet]] of [[August]] [[1893]] — places it as one of the principal operational centres of the late *concentratie* period.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[XXV Moekims]]
@@ -53,6 +73,13 @@ Lamreng's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]
 - [[1892]]
 - [[1893]]
 - [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[XXVI Mukims]]
+- [[Great Acheh]]
+- [[Keumala]]
+- [[Pidie]]
+- [[Dalam]]
+- [[Murder of Teuku Chut Lamreueng in Pidie]]
+- [[Disputed succession to the panglimaship of the XXVI Mukims]]
 
 ## Source
 

@@ -1,7 +1,18 @@
 ---
 title: Leiden (University and Library)
-aliases: [Leiden, Leiden University, Leiden Library]
-tags: [place, city, netherlands, academic, library]
+aliases:
+- Leiden
+- Leiden University
+- Leiden Library
+- Leyden
+tags:
+- place
+- city
+- netherlands
+- academic
+- library
+- foreign
+- publishing
 ---
 
 **Leiden (University and Library)** denotes the Dutch city of [[Leiden]] in the [[Netherlands]] whose historic university library preserves a rich corpus of early Malay and Acehnese manuscripts. Among the holdings are the [[Nalam Mo'lôt]], a local translation of the [[Akidat al-awāmm]], the *Burda* translation, and the *Hikayat Iskandar DzŌe KI‑Karnain*. The library’s collection also includes Arabic‑Malay interlinear manuscripts such as catalogue number 3116 (1), which illuminate the linguistic techniques of 16th‑century Acehnese scholarship. These materials were central to the research of [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]] and later scholars like [[Van Ronkel]], and they have been cited in sources noting “Het boekje is in de Leidse bibliotheek aanwezig” and “de talrijke Atjéhse handschriften te Leiden”.
@@ -26,6 +37,10 @@ The Leiden collections attracted the attention of prominent scholars:
 
 The accessibility of these documents in Leiden has therefore been pivotal for the historiography of Aceh, enabling detailed philological and cultural analyses that would otherwise be impossible.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Atjeh]]
@@ -40,6 +55,11 @@ The accessibility of these documents in Leiden has therefore been pivotal for th
 - [[Burda (poem)]]
 - [[Hikayat Iskandar DzŌe KI‑Karnain]]
 - [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
+- [[A. S. O'Sullivan]]
+- [[C. Snouck Hurgronje]]
+- [[E. J. Brill]]
+- [[R. J. Wilkinson]]
+- [[G. K. Niemann|Prof. Niemann]]
 
 ## Source
 

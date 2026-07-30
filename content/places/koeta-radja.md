@@ -1,8 +1,87 @@
 ---
-title: "Koeta-Radja"
-aliases: ["Kuta Raja", "Kutaraja", "Kutaraja (Banda Aceh)", "Banda Aceh", "Kota Radja", "Kotaradja", "Kota Raja", "capital of Atjeh", "Koetaradja", "Kutaradja", "Kota Radja (Atjeh)", "Banda Acheh", "Bandah Acheh", "Bandar Aceh", "the Kutaradja of the Dutch concentration", "Banda Atjeh"]
-tags: [place, city, capital, aceh, sumatra, colonial, colonial-capital, government-seat, achehnese-history, hoofdplaats, atjeh, administrative-center, town, acheh, fortified, headquarters, groot-atjeh, 20th-century]
-description: "Kota Radja (also Kotaradja, Koeta-Radja; modern Banda Aceh) was the capital of the Dutch Gouvernement Atjeh en Onderhoorigheden and the principal city of Atjeh. By 1926 it served as the starting point for automobile travel across Sumatra to Padang, symbolising the transformation of transport infrastructure following the pacification."
+title: Koeta-Radja
+aliases:
+- Kuta Raja
+- Kutaraja
+- Kutaraja (Banda Aceh)
+- Banda Aceh
+- Kota Radja
+- Kotaradja
+- Kota Raja
+- capital of Atjeh
+- Koetaradja
+- Kutaradja
+- Kota Radja (Atjeh)
+- Banda Acheh
+- Bandah Acheh
+- Bandar Aceh
+- the Kutaradja of the Dutch concentration
+- Banda Atjeh
+- Banda
+- Banda-Acheh
+- Bandar Acheh
+- Acheh capital
+- Capital of Acheh
+- Kota Acheh
+- hoofdplaats Atjeh
+- Acheen capital
+- Koeta Radja
+- Koetaraja
+- Kraton
+- Kota-Radja
+- Kraton (Koeta Radja)
+- Keraton
+- Sultan's palace
+- Kota Radja Atjeh
+- Kotta-Radja
+- Kuta Radja
+- Kotja-Radja
+- Atjeh's chief place
+- Bandjar (Banda Aceh)
+- Bandjar
+tags:
+- place
+- city
+- capital
+- aceh
+- sumatra
+- colonial
+- colonial-capital
+- government-seat
+- achehnese-history
+- hoofdplaats
+- atjeh
+- administrative-center
+- town
+- acheh
+- fortified
+- headquarters
+- groot-atjeh
+- 20th-century
+- aceh-proper
+- coast
+- achehnese
+- concept
+- dutch
+- sultanate
+- military
+- kraton
+- van-heutsz
+- van-daalen
+- sabang
+- oelèë-lheue
+- museum
+- atjeh-instituut
+- dutch-colonial
+- 19th-century
+- aceh-war
+- military-base
+- koetaradja
+description: Kota Radja (also Kotaradja, Koeta-Radja; modern Banda Aceh) was the capital
+  of the Dutch Gouvernement Atjeh en Onderhoorigheden and the principal city of Atjeh.
+  By 1926 it served as the starting point for automobile travel across Sumatra to
+  Padang, symbolising the transformation of transport infrastructure following the
+  pacification.
 ---
 
 ## The colonial capital
@@ -164,6 +243,27 @@ Koeta Radja was the terminus of the [[Atjehtram]]; the correspondent of the *[[N
 
 On [[31 August]] [[1898]] [[Joannes Benedictus van Heutsz|van Heutsz]] held a reception at Koeta Radja after his barefoot return from [[Tangsé]]. Twenty years later, on the morning of [[22 September]] [[1918]], Swart drove by car from Koeta Radja to [[Oelèë Lheuë]] for his departure, accompanied by the acting Governor and the Provincial Military Commander.
 
+
+## Sources
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 2–5, pp. 23–58.
+
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 21, 38, 46–47, 214–215.
+
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Foreword, Chapter I §§ 3–5, Chapter II, Chapter III § 1, Chapter IV, Chapter V § 1, Chapter VII § 4.
+*Verslagen der Marine‑Vereeniging III 1889‑1890*, pp. 229‑233. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pages 138‑141.
+*De geschiedenis van het Nederlandsche Korps Mariniers van [[1665]]–[[1945]]*, OCR transcription, page 484. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 26, 224, 318, 321, 325, 332, 339.
+*De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 38 ("Een nieuwe stad").
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 8, 14, 16, 19, 22, 27, 32. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 26-37, 64-65, 113-115.
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946), pp. 54-55, 59-60.
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR transcription, pp. 118‑119.
+
 ## See Also
 
 - [[A. Pruys van der Hoeven|Pruys van der Hoeven]]
@@ -269,6 +369,128 @@ On [[31 August]] [[1898]] [[Joannes Benedictus van Heutsz|van Heutsz]] held a re
 - [[Oelèë Lheuë]]
 - [[Sarekat Atjeh]]
 - [[Javasche Bank te Koetaradja]]
+- [[Aceh Sultanate]]
+- [[Dalam]]
+- [[Gampong]]
+- [[Gampong Jawa]]
+- [[Great Acheh]]
+- [[Kutaraja]]
+- [[Lam Teungoh]]
+- [[Lueng Bata]]
+- [[Meura'sa]]
+- [[Meuse]]
+- [[Meuseugit Raya]]
+- [[Panglima Meuseugit Raya]]
+- [[Pochut Muhamat]]
+- [[The Dalam]]
+- [[The Gunongan]]
+- [[Dalam (Sultan's Court)]]
+- [[Teuku Kali Malikon Ade|Kali Malikon Ade]]
+- [[Kuta Raja]]
+- [[Keumala]]
+- [[Peunayong]]
+- [[Three Sagis (XXVI, XXV, XXII Mukims)]]
+- [[Acheh River]]
+- [[Three Sagis]]
+- [[XXII Mukims]]
+- [[XXV Mukims]]
+- [[XXVI Mukims]]
+- [[Panglima Polem|Panglima Polim]]
+- [[Shahbandar of Acheh]]
+- [[Kampong Java]]
+- [[Treaty of Pedir (1819)]]
+- [[Sir Thomas Stamford Raffles]]
+- [[Captain Coombs]]
+- [[Panglima Polim's supremacy at Acheh]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Atjeh-tram]]
+- [[Sabang]]
+- [[1917]]
+- [[Resident J. Pauw]]
+- [[G. F. V. Gosenson|Colonel Gosenson]]
+- [[Seulimeum]]
+- [[Bireuën]]
+- [[Takéngón]]
+- [[Atjèh Shimbun]]
+- [[1942]]
+- [[11 March]] [[1942]]
+- [[1930]]
+- [[1941]]
+- [[1945]]
+- [[J. L. J. H. Pel|General Pel]]
+- [[Atjeh River]]
+- [[Sultanate of Aceh]]
+- [[Battle of Daroe]]
+- [[Aceh]]
+- [[Banda Aceh]]
+- [[Dutch East India Company]]
+- [[Geconcentreerde linie]]
+- [[Pretender Sultan]]
+- [[Spoorbaan / Spoorweg]]
+- [[Proclamation by Lt. Gen. Vetter to the heads and population of Atjeh]]
+- [[Stoomtram]]
+- [[De Kleine Oosterling]]
+- [[Capture of the Kraton (24 January 1874)]]
+- [[Kraton Atjeh]]
+- [[Atjehrivier]]
+- [[Atjehsche Staatsspoorwegen]]
+- [[Building of Oleh-leh harbor]]
+- [[Penajoeng]]
+- [[Second Aceh Expedition (1873-1874)]]
+- [[Jan van Swieten|Generaal Van Swieten]]
+- [[Onderhoorigheden]]
+- [[Van der Heijden]]
+- [[Scherer's Nota (19 April 1880)]]
+- [[Day-order of 5 September 1879]]
+- [[Concentratiestelsel]]
+- [[Kemala]]
+- [[Indrapoeri]]
+- [[Ruijssenaers]]
+- [[Toeankoe Pangeran Hoesin]]
+- [[Toeankoe Mohamad Daoed]]
+- [[J. L. J. H. Pel]]
+- [[G. B. T. Wiggers van Kerchem]]
+- [[A. J. E. Diemont]]
+- [[Demmeni]]
+- [[Van Teijn]]
+- [[Van Lansberge]]
+- [[1877]]
+- [[1880]]
+- [[1890]]
+- [[1893]]
+- [[Kraton of Aceh]]
+- [[Marassa]]
+- [[Lampassei]]
+- [[Westerlinie]]
+- [[Noorderlinie]]
+- [[Zuidoosterlinie]]
+- [[Noordoosterlinie]]
+- [[K. van der Heyden]]
+- [[Jan van Swieten|J. van Swieten]]
+- [[Van Lansberge's visit to Aceh (March-April 1877)]]
+- [[Establishment of Civil Government in Aceh (6 April 1881)]]
+- [[Hikajat Prang Kompeuni|Hikajat prang Kompeuni]]
+- [[J.H.R. Köhler]]
+- [[G.C.E. van Daalen]]
+- [[C. Snouck Hurgronje]]
+- [[Mohamad Arif]]
+- [[Scheepens]]
+- [[T. Radja Sabi]]
+- [[Teukoe Oemar]]
+- [[Korps Marechaussee van Atjeh en Onderhorigen]]
+- [[1897]]
+- [[1913]]
+- [[1919]]
+- [[1938]]
+- [[Geconcentreerde Linie]]
+- [[General Köhler]]
+- [[Jan van Swieten|General Van Swieten]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[Kali-Anget]]
+- [[Kampong Djentarek]]
+- [[Royal Netherlands Marine Corps]]
+- [[Lieutenant P. Spanjaard]]
+- [[Colonel De Brabant]]
 
 ## Source
 

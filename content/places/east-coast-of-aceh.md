@@ -1,7 +1,43 @@
 ---
 title: East Coast of Aceh
-aliases: [Oostkust van Atjeh, East Aceh Coast, Oostkust, Aceh East Coast, "the East Coast of Atjeh", "de Oostkust", "Pasei-streek"]
-tags: [place, coast, aceh, environment, mangrove, colonial, atjeh, aceh-war, 19th-century, east-coast, onderhoorigheden, scheepvaartregeling]
+aliases:
+- Oostkust van Atjeh
+- East Aceh Coast
+- Oostkust
+- Aceh East Coast
+- the East Coast of Atjeh
+- de Oostkust
+- Pasei-streek
+- East Coast of Atjeh
+- Atjeh's Oostkust
+- Aceh Timur
+- Oostkust Atjeh
+- Oost-Atjeh
+- East Atjeh
+- eastern Atjeh
+tags:
+- place
+- coast
+- aceh
+- environment
+- mangrove
+- colonial
+- atjeh
+- aceh-war
+- 19th-century
+- east-coast
+- onderhoorigheden
+- scheepvaartregeling
+- afdeeling
+- oostkust
+- coastal
+- border-region
+- administrative-division
+- region
+- tamiang
+- geography
+- plantation
+- economy
 ---
 
 **The East Coast of Aceh** — the *Oostkust van Atjeh*, in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s spelling also *de Oostkust*, sometimes joined to the [[Noordkust|Noordkust]] for administrative purposes as the *Noord- en Oostkust* — was the low-lying coastal strip along the eastern side of [[Atjeh|Atjeh]] facing the [[Strait of Malacca|Strait of Malacca]], characterised in the source *DLP-84-Atjeh* by extensive mangrove swamps whose stilt roots were clearly visible from passing vessels, and whose mangrove bark (Dutch: *bakaubast*) had been historically considered worthless but by the early twentieth century had become a commercial product exported through the harbours of the residency (Dutch: *gewest*). The coastline was later traversed by the [[Atjehtram|Atjeh-tram]] and the [[Atjehweg|Great Atjeh Road (Dutch: *Groote Atjehweg*)]], which facilitated the trade and settlement that transformed the Oostkust from a frontier of military operations during the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1904]] into one of the principal plantation districts of [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. In Van Heutsz's [[1893]] tract *De onderwerping van Atjeh*, the Oostkust is also the coastal region of the Atjehnese [[Onderhoorigheden]] comprising the statelets of [[Edi]] (the long-standing Dutch post), [[Simpang Olim]] and [[Tandjong Semantoh]] (the November [[1876]] co-belligerents subdued by [[A. J. E. Diemont|Generaal Diemont]]), [[Kerti]] (the friendly statelet the Diemont expedition was sent to support), [[Gedong]] and [[Pasangan]] (the [[1877]] expedition targets of the *verzoeningspolitiek*-cum-*gewapend optreden*), the Pasei-streek cluster (Bajoe, Tjoenda, Nizam, Sawang, Blangmeh, Samakoeroeh, Kloempang doea), and [[Tamiang]] (the eastern extremity of the entire Atjehnese coast).
@@ -103,9 +139,29 @@ The Oostkust's significance in Van Heutsz's [[1893]] tract rests on its being on
 - [[1890]]
 - [[1893]]
 - [[1898]]
+- [[H. J. Krugers]]
+- [[Noordkust van Atjeh]]
+- [[Atjeh-Sumatra's Oostkust merger proposal]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Van der Plas]]
+- [[H. N. A. Swart|H. N. N. A. Swart]]
+- [[Over eene collectie vogelhuiden van Oost-Atjeh]]
+- [[Aloer Djamboe]]
+- [[Alas Peurba]]
+- [[Paja Tjitjem]]
+- [[Handelsvereeniging Amsterdam]]
+- [[Raijah piracy (20 July 1893)]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## Sources
 
 *DLP-84-Atjeh.pdf*, p. 8.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 10, 11, 17, 21, 29, 30, 31, 32, 35, 40, 50, 56, 61, 67. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118, 358.
+*Over eene collectie vogelhuiden van Oost-Atjeh*, door Ir. Jhr. F. C. van Heurn en Mr. Dr. Baron R. C. E. G. J. Snouckaert van Schauburg, in *Jaarberichten* (Koloniaal Instituut). Koninklijk Instituut voor de Tropen, Br N 95-1210
+*Acknowledgement of sources.* The material in this article derives from *Over eene collectie vogelhuiden van Oost-Atjeh* by Ir. Jhr. F. C. van Heurn and Mr. Dr. Baron R. C. E. G. J. Snouckaert van Schauburg (Koloniaal Instituut, *Jaarberichten*). Dutch passages are quoted in the original with an English rendering.
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter II, III, XIII.

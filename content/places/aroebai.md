@@ -1,7 +1,41 @@
 ---
 title: Aroebai
-aliases: [Aroe-baai, Arube Bay, Aroe baai, Aroebaai, Aroe Bay, the natural harbour of Aroebai, Arubaai, Aroebay, Langsaarbaai, Telok Taboean bay, Aroebai, Aru Bay, Aru-baai, Tamiang baai]
-tags: [place, bay, harbour, colonial, dutch, aceh, buitenbezittingen, tramway, areo-baai-plannen, oostkust-van-sumatra, petroleum, tamiang, oostkust-van-atjeh, achehnese, ar-oe-baai]
+aliases:
+- Aroe-baai
+- Arube Bay
+- Aroe baai
+- Aroebaai
+- Aroe Bay
+- the natural harbour of Aroebai
+- Arubaai
+- Aroebay
+- Langsaarbaai
+- Telok Taboean bay
+- Aru Bay
+- Aru-baai
+- Tamiang baai
+- Aru Bay (oil field)
+- Teluk Aru
+- Aru Bay field
+- Aru-Bay
+tags:
+- place
+- bay
+- harbour
+- colonial
+- dutch
+- aceh
+- buitenbezittingen
+- tramway
+- areo-baai-plannen
+- oostkust-van-sumatra
+- petroleum
+- tamiang
+- oostkust-van-atjeh
+- achehnese
+- ar-oe-baai
+- oil-field
+- sumatra
 ---
 **Aroebai** (also rendered **Aroe-baai**, modern **Arube Bay**, in the [[1918]] Oostkust volume also **Langsaarbaai**) was a broad, shallow natural harbour on the Strait of Malaka at the northern extremity of the [[Gouvernement Oostkust van Sumatra|Gouvernement Oostkust van Sumatra]], just south of the [[Besitang|Besitang River]] mouth and the [[Tamiang|Tamiang]] region (transferred to [[Gouvernement Atjeh en Onderhoorigheden|Atjeh]] in [[1908]]). Described in the Encyclopaedisch Bureau's [[1917]] account as "the fine and accessible Arube Bay" (*de fraaie en goed toegankelijke Aroe-baai*) and as "a good roadstead" (*eene goede rede*), Aroebai was projected as the natural maritime terminus of the [[Atjeh-tram|Atjeh-tramway]] network — and as a potential competitor to [[Belawan|Belawan]], [[Singapore|Singapore]], and [[Sabang|Sabang]] as a deep-water outlet for the [[Acheh|Atjehnese]] export trade. Three and a half centuries earlier, the same bay had been the theatre of the [[Atjeh-Aroe War (1539)|Atjeh-Aroe war of 1539]] and the principal locus of the *bedekte taal* that De Roo de la Faille decodes as the survival of the Hindu-Buddhist place-world of the Sumatran east coast.
 
@@ -119,6 +153,18 @@ Before [[1898]] the regions near the Aroe-baai were continually disturbed by pep
 - [[Van Rijn van Alkemade]]
 - [[Verkenningen in Atjeh (1923)]]
 - [[van Heutszgebergte]]
+- [[Acheh]]
+- [[B.P.M.]]
+- [[East Atjeh oil block]]
+- [[N.K.P.M.]]
+- [[N.L.A.M.]]
+- [[N.P.P.M.]]
+- [[Oil exploration in North Sumatra]]
+- [[Peureula]]
+- [[Tamiang oil block]]
+- [[Van Bemmelen's The Geology of Indonesia (1949)]]
+- [[1940]]
+- [[1941]]
 
 ## Sources
 
@@ -129,3 +175,4 @@ Before [[1898]] the regions near the Aroe-baai were continually disturbed by pep
 *Historische Curiositeiten uit Malajoe en Java*, by P. de Roo de la Faille (Den Haag: Maart [[1954]]), chapter "Mendez Pinto op Sumatra", pp. 7–17.
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters I–II, *'Inleiding'* and *'Tamiang'*, pp. 5, 6.
+*The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 9 (Table 4: Oil production in the East Indies in 1940 and 1941), p. 11 (Oil Districts of the East Indies, North Sumatra).

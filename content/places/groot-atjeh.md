@@ -1,7 +1,65 @@
 ---
-title: "Groot-Atjeh"
-aliases: ["Atjeh proper", "Banda Aceh region", "Eigenlijk Atjeh", "Great Aceh", "Great Acheh", "Greater Aceh", "Groot-Atchéh", "Groot-Atje", "Groote Atjeh", "Proper Acheh", "Greater Atjeh", "Aceh Besar", "Atjeh Besar", "Groott-Atjeh", "de vallei van Groot-Atjeh", "sultanate of Groot-Atjeh", "Atjeh valley", "Atjeh-vallei", "vallei van Groot-Atjeh", "the valley of Groot-Atjeh"]
-tags: [place, region, aceh-proper, aceh-war, acehnese, achehnese, colonial, afdeeling, rechtstreeks-bestuurd-gebied, atjeh, sagi, administrative-division, sultanate, sumatra, military, 19th-century, valley, historical, groot-atjeh, moekim, kraton, kraton-Kota-Radja, aceh, geography, 1897]
+title: Groot-Atjeh
+aliases:
+- Atjeh proper
+- Banda Aceh region
+- Eigenlijk Atjeh
+- Great Aceh
+- Great Acheh
+- Greater Aceh
+- Groot-Atchéh
+- Groot-Atje
+- Groote Atjeh
+- Proper Acheh
+- Greater Atjeh
+- Aceh Besar
+- Atjeh Besar
+- Groott-Atjeh
+- de vallei van Groot-Atjeh
+- sultanate of Groot-Atjeh
+- Atjeh valley
+- Atjeh-vallei
+- vallei van Groot-Atjeh
+- the valley of Groot-Atjeh
+- Acheh
+- Atjeh
+- Acheh Proper
+- True Acheh
+- the heartland of Acheh
+- Great-Acheh
+- the kernel of the kingdom
+- Atjeh-proper
+tags:
+- place
+- region
+- aceh-proper
+- aceh-war
+- acehnese
+- achehnese
+- colonial
+- afdeeling
+- rechtstreeks-bestuurd-gebied
+- atjeh
+- sagi
+- administrative-division
+- sultanate
+- sumatra
+- military
+- 19th-century
+- valley
+- historical
+- groot-atjeh
+- moekim
+- kraton
+- kraton-Kota-Radja
+- aceh
+- geography
+- 1897
+- kingdom
+- capital-region
+- great-acheh
+- highland
+- lowland
 ---
 
 **Groot-Atjeh** ("Greater Aceh") was the Dutch colonial designation for the heartland of the [[Acheh|Atjeh]] sultanate — the densely settled coastal and hinterland district around the capital [[Banda Acheh|Koetaradja]] and its immediate interior — and later came to denote the interior highland region that was the focus of Dutch military mapping and operations in the 1870s. As an *afdeeling* and a *rechtstreeks bestuurd gebied* within the [[Gouvernement Atjeh en Onderhoorigheden]], Groot-Atjeh figured prominently in the [[Aceh War]], in colonial railway construction, and in the administrative reforms that shaped the later governance of Aceh.
@@ -196,6 +254,12 @@ The Minister of Colonies [[J. T. Cremer|Cremer]] reported that the population wa
 
 In [[1908]] twenty-one village schools were opened in Groot Atjeh; by [[1909]] the *[[sagi]]* of the [[XXII Moekims]] and the [[VII Moekims Pidië]] could be placed under civil administrators, "that is to say, Groot Atjeh had by then reached the point where civil administration could be introduced there everywhere." Nevertheless the [[Vaccination Unrest in Groot Atjeh (April 1914)|vaccination unrest of April 1914]], the murder of [[C. H. R. Heins]] at [[Lhong]] on [[13 July]] [[1914]] and the killing of [[Pang Bintang]] in July [[1913]] all occurred in this "volstrekt rustige, direct bestuurde gebied". Swart told the *[[Sumatra Post]]* in [[1914]] that in Groot Atjeh, with 100,000 inhabitants, there was no longer a single ill-disposed man at large.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 1–2, pp. 1–25.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 12–13, 33–47.
+
 ## See Also
 
 - [[1873]]
@@ -309,6 +373,32 @@ In [[1908]] twenty-one village schools were opened in Groot Atjeh; by [[1909]] t
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Aceh Sultanate]]
+- [[Dalam]]
+- [[Mukim]]
+- [[Acheh River]]
+- [[Krueng Raya]]
+- [[Kluang]]
+- [[Pidie]]
+- [[Tamiang|Teumieng]]
+- [[Baros]]
+- [[XXII Mukims]]
+- [[XXV Mukims]]
+- [[XXVI Mukims]]
+- [[East Coast (of Acheh)]]
+- [[West Coast (of Acheh)]]
+- [[Tunong]]
+- [[Baroh]]
+- [[Kuta Raja]]
+- [[VII Mukims Bueng]]
+- [[Nurul Alam Nakiatodin]]
+- [[Acheh proper]]
+- [[Koeta Radja]]
+- [[Oelèë Lheuë]]
+- [[Sagi]]
+- [[XXVI Moekims]]
+- [[XXV Moekims]]
+- [[C. Snouck Hurgronje]]
 
 ## Source
 

@@ -1,7 +1,42 @@
 ---
 title: Kroëng Raja
-aliases: ["Krueng Raja", "Kroeng Radja", "Kuala Raja", "Kroëng Rajah", "Kr. Raja", "Krueng Raja (West Atjeh)", "Sungai Raja", "Kroeng Raja", "Kroeng-Raja", "Krung Raja"]
-tags: ["place", "kampong", "coast-state", "acehnese", "aceh-war", "river", "atjeh", "westkust", "coal", "north-coast", "19th-century", "village"]
+aliases:
+- Krueng Raja
+- Kroeng Radja
+- Kuala Raja
+- Kroëng Rajah
+- Kr. Raja
+- Krueng Raja (West Atjeh)
+- Sungai Raja
+- Kroeng Raja
+- Kroeng-Raja
+- Krung Raja
+- Krueng Raya
+- Kreuëng Raya
+- Kruëng Raya
+- Krucng Raya
+- Kroeng Raya
+- K. Raya
+tags:
+- place
+- kampong
+- coast-state
+- acehnese
+- aceh-war
+- river
+- atjeh
+- westkust
+- coal
+- north-coast
+- 19th-century
+- village
+- aceh-proper
+- coastal
+- boundary
+- boundary-point
+- great-acheh
+- region
+- afsluitingslinie
 ---
 
 ## The Five Kwala's
@@ -66,6 +101,13 @@ Kroeng Raja was, before the Dutch closure of the [[XXII Moekims]] under [[Van Te
 
 Kroeng Raja's significance in Van Heutsz's [[1893]] tract rests on its being the northern hinge of the Pel plan and the operational anchor whose occupation opened the policy question — *hoe moet men nu verder tot de volkomen onderwerping geraken* — the next two decades would fail to answer; the route-node of the principal landward path from Pedir through the XXII and XXVI to the interior; and the export-harbour of the peper the XXII Moekims produced before the [[1888]]–[[1890]] closure.
 
+
+## Sources
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 1, p. 1.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 323–325, 336–344.
+
 ## See Also
 
 - [[Ladoeng]]
@@ -109,7 +151,34 @@ Kroeng Raja's significance in Van Heutsz's [[1893]] tract rests on its being the
 - [[1888]]
 - [[1890]]
 - [[1893]]
-
+- [[Aceh Sultanate]]
+- [[Batee Puteh]]
+- [[Great Acheh]]
+- [[Hikajat Malém Dagang|Hikayat Malem Dagang]]
+- [[Kluang]]
+- [[Ladong]]
+- [[Malem Dagang]]
+- [[Pidie]]
+- [[Pochut Muhamat]]
+- [[Raja Raden]]
+- [[Sagi System]]
+- [[Si Ujut]]
+- [[Sultan Iskandar Muda]]
+- [[K. F. H. Van Langen]]
+- [[XXII Mukims]]
+- [[XXV Mukims]]
+- [[XXVI Mukims]]
+- [[Kroeng Tjoet]]
+- [[Kwala Gigieng]]
+- [[Kota Pohama]]
+- [[Tongah]]
+- [[Generaal Pel]]
+- [[Pel's Buitenzorg planning session (1875)]]
+- [[Death of Generaal Pel (24 February 1876)]]
+- [[Karel van der Heijden]]
+- [[Generaal Wiggers van Kerchem]]
+- [[Generaal Diemont]]
+- [[Kroeng]]
 
 ## Source
 
