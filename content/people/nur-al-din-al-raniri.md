@@ -1,8 +1,51 @@
 ---
 title: Nur al-Din al-Raniri
-aliases: ["Nūruddīn ar-Rānīrī", "Noer Oed-Din AR-RĀNĪRI", "Noer Oed-Din ar-Raniri", "Nuruddin ar-Raniri", "Nur al-Din al-Raniri", "Raniri", "al-Raniri", "Shaykh Nuruddin ar-Raniri", "Shaikh Nuruddin ar-Raniri", "Sjaich Naruddin b. Ali b. Hasandji b. Muhammad", "the pandit Raniri", "Pandit Raniri", "Muhammad Jailani b. Hasan b. Muhammad Hamid Raniri", "Nuruddin b. Ali b. Hasanji b. Muhammad Raniri", "Nuruddin Muhammad b. Ali b. Hasanji b. Muhammad Hamid ar-Raniri al-Kurasji asj-Sjafi'i", "Noer-ad-dïn ar-Ranïrï", "Noer-ad-dïn b. Ali b. Hasandjï b. Moehammad Hamïd ar-Ranïrï", "orthodox scholar of Aceh"]
-tags: [person, scholar, religious-figure, islamic-scholar, sufi, precolonial, 17th-century, gujarati, arab-descent, aceh, shafi'i, rifa'i, polemicist, malay-literature, oelama]
-description: "Gujarati-born Hadrami Muslim scholar of the Shāfiʿite school who served as the principal religious authority at the court of Sultan Iskandar Thani of Aceh from 1637; author of the Sirāṭ al-mustaqīm, the Bustān as-Salāṭīn, the Tibjān fī maʿrifat al-adyān, and the Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq, and the agent of the orthodox reaction against the Wujūdiyyah mysticism of Hamzah Fansūrī and Shamsuddīn of Pasai."
+aliases:
+- Nūruddīn ar-Rānīrī
+- Noer Oed-Din AR-RĀNĪRI
+- Noer Oed-Din ar-Raniri
+- Nuruddin ar-Raniri
+- Raniri
+- al-Raniri
+- Shaykh Nuruddin ar-Raniri
+- Shaikh Nuruddin ar-Raniri
+- Sjaich Naruddin b. Ali b. Hasandji b. Muhammad
+- the pandit Raniri
+- Pandit Raniri
+- Muhammad Jailani b. Hasan b. Muhammad Hamid Raniri
+- Nuruddin b. Ali b. Hasanji b. Muhammad Raniri
+- Nuruddin Muhammad b. Ali b. Hasanji b. Muhammad Hamid ar-Raniri al-Kurasji asj-Sjafi'i
+- Noer-ad-dïn ar-Ranïrï
+- Noer-ad-dïn b. Ali b. Hasandjï b. Moehammad Hamïd ar-Ranïrï
+- orthodox scholar of Aceh
+- Nuruddin Muhammad ibn Ali al-Raniri
+- Nūr al-Dīn al-Rānīrī
+- Nuruddin Muhammad b. 'Ali b. Hasandji b. Muhammad Hamid ar-Raniri al-Kurasji asj-Sjafi'i
+tags:
+- person
+- scholar
+- religious-figure
+- islamic-scholar
+- sufi
+- precolonial
+- 17th-century
+- gujarati
+- arab-descent
+- aceh
+- shafi'i
+- rifa'i
+- polemicist
+- malay-literature
+- oelama
+- acehnese
+- religious
+- seventeenth-century
+description: Gujarati-born Hadrami Muslim scholar of the Shāfiʿite school who served
+  as the principal religious authority at the court of Sultan Iskandar Thani of Aceh
+  from 1637; author of the Sirāṭ al-mustaqīm, the Bustān as-Salāṭīn, the Tibjān fī
+  maʿrifat al-adyān, and the Ḥujjat aṣ-ṣiddīq li-dafʿ az-zindīq, and the agent of
+  the orthodox reaction against the Wujūdiyyah mysticism of Hamzah Fansūrī and Shamsuddīn
+  of Pasai.
 ---
 
 **Nur al-Din al-Raniri** — Malay/Arabic *Nūruddīn ar-Rānīrī*, also written *Noer Oed-Din AR-RĀNĪRI* in the older Dutch orthography — was a Gujarati-born Muslim scholar of Hadrami *sayyid* descent who arrived in [[Aceh]] in [[1637]] and served as the principal religious authority at the court of [[Sultan Iskandar II|Sultan Iskandar Thani]] in the late [[1630s]] and early [[1640s]], composing at the sultan's command the *[[Sirat al-Mustaqim|Sirāṭ al-mustaqīm]]* (begun [[1634]], completed [[1644]]) and the *[[Bustan al-Salatin|Bustān as-Salāṭīn]]* ([[1638]]) — the principal Malay-language works of *fiqh* and of the "mirror for princes" genre produced at the Acehnese court. He is the most celebrated of the Indian-Arab scholars who, during Aceh's golden age, made the capital a centre of Islamic learning for the entire [[East Indian Archipelago|Indian Archipelago]], and — as [[C. Snouck Hurgronje|Snouck Hurgronje]]'s "pandit Raniri" — supplied one of the few firm chronological anchor-points in the early history of the Acehnese Sultanate by testifying to the year [[1636]] as the date of the death of [[Sultan Iskandar Muda|Meukuta Alam]] (Iskandar Muda). He is equally the agent of the orthodox reaction that closed Aceh's golden age of mystical poetry, and the author whose polemical works preserve — even in their refutation — the names, doctrines, and very words of the writers whose books were burned at his instigation. [[J. Kreemer|Kreemer]]'s *Atjèh* (Tweede Deel, [[1923]]) records the same orthodox victory and the same patronage under the widow and successor **[[Sultan Tajul-alam|Tadj al-alam QafTat ad-dïn]]**, and is also the source of an alternative identification of Ranïr with **Raner in Bikaner state, Rajputana** — a reading that contradicts the Gujarati identification established by Voorhoeve and Drewes.
@@ -110,6 +153,10 @@ Raniri occupies a singular position in the religious history of Aceh: he is at o
 
 His three compositions of [[1638]] — the *[[Sirat al-Mustaqim|Sirāṭ al-mustaqīm]]*, the *[[Bustan al-Salatin|Bustān as-Salāṭīn]]*, and the *Bad' khalq as-samawat wal-arwah* — together constitute the literary apparatus of his orthodox reform of the Acehnese court, and the *Bustān*'s historical chapter on the sultans of Aceh is, in Hooykaas's judgement, occasionally more reliable than the *Sadjarah Malajoe*. His diffusion of the *Sirāṭ* to Kedah is the principal evidence for the role of the Acehnese court as the centre of Shāfiʿite *fiqh* diffusion to the Malay Peninsula in the early seventeenth century. Kreemer's distinctive testimony — the Bikaner identification of Ranïr, the explicit record of Sjamsoeddin's execution, and the continued Atjèhnese veneration of the *Kitab Sirat* as one of the three foundational Malay *kitab*'s of higher Islamic education — adds the Atjèh-Instituut perspective to the Voorhoeve–Hooykaas–Snouck Hurgronje consensus.
 
+
+## Sources
+*Twee Maleise geschriften van Nūruddīn ar-Rānīrī*, by P. Voorhoeve, in facsimile with notes (Leiden: E. J. Brill, 1955), Publications de la Fondation De Goeje No. 16, pp. 5–7.
+
 ## See Also
 
 - [[Abd al-Karim al-Jili]]
@@ -175,6 +222,13 @@ His three compositions of [[1638]] — the *[[Sirat al-Mustaqim|Sirāṭ al-must
 - [[1666]]
 - [[1945]]
 - [[1955]]
+- [[Hudjdjat as-siddik li-daf az-zindik]]
+- [[Wujudiyyah in Aceh]]
+- [[Syamsuddin of Pasai]]
+- [[Hamzah Fansuri]]
+- [[Safiatuddin Tajul Alam]]
+- [[Muhammad Jilani Hamid]]
+- [[Sirat al-Mustakim]]
 
 ## Source
 

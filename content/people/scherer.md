@@ -1,7 +1,30 @@
 ---
-title: "Scherer"
-aliases: ["Scherer", "Assistent-Resident Scherer", "wd. assistent-resident Scherer", "A. Scherer", "Resident Scherer", "resident Scherer", "de tegenwoordige resident Scherer", "H. J. Scherer", "Scherer (Atjeh official)"]
-tags: [person, dutch, colonial, civil-administrator, aceh-war, atjeh, resident, official, 19th-century, scheepvaartregeling-advocate]
+title: Scherer
+aliases:
+- Assistent-Resident Scherer
+- wd. assistent-resident Scherer
+- A. Scherer
+- Resident Scherer
+- de tegenwoordige resident Scherer
+- H. J. Scherer
+- Scherer (Atjeh official)
+- G. A. Scherer
+- de Resident Scherer
+tags:
+- person
+- dutch
+- colonial
+- civil-administrator
+- aceh-war
+- atjeh
+- resident
+- official
+- 19th-century
+- scheepvaartregeling-advocate
+- colonial-administrator
+- civil-government
+- aceh
+- author
 ---
 
 **Scherer** — *Assistent-Resident* in the Dutch colonial civil administration — was the principal Dutch advocate of the [[Scheepvaartregeling|scheepvaartregeling]] (maritime trade regulation) as the decisive strategic instrument of the [[Aceh War|Atjeh-oorlog]]. His persistent advocacy of the regulation, his practical application of it on the [[Noordkust|North Coast]] from [[May 1882|May]] [[1882]], his May 1883 introduction of it throughout Atjeh under [[Laging Tobias|Laging Tobias]], his 20 January 1891 lecture before the [[Indisch Genootschap|Indisch Genootschap]] at The Hague, and his role in the preparation of the 1893–1894 general regulation under [[Deijkerhoff|Deijkerhoff]], together constitute the most sustained Dutch attempt to substitute systematic trade control for the failed policies of blockade and conciliation.
@@ -82,6 +105,10 @@ Scherer's resignation came in early October [[1884]], after he had perceived tha
 
 The *Nota's van Scherer aan Demmeni* — the parting warning-notes — were the last expert advice the General received before Scherer left. The resignation took with it, in Van Heutsz's reading, the only man who could have advised Demmeni how to construct the *scheepvaartregeling* he had begun to introduce: "de man, die den Generaal het beste had kunnen voorlichten omtrent de wijze, waarop die scheepvaartregeling diende ingericht te zijn en waarom eene andere regeling niet deugde, was heengegaan" (the man who could best have advised the General on the way in which that shipping-regulation should be arranged, and why another arrangement was no good, had departed). The counter-factual is explicit: "Ware hij gebleven en had hij gestreden met zijne argumenten tegen de blokkade en voor de scheepvaartregeling, zeker zou dan geene contrôle op handel en scheepvaart getroffen zijn, zooals thans het geval is geweest, vermoedelijk ook geen tweeslachtige regeling" — Had he stayed and fought with his arguments against the blockade and for the shipping-regulation, then certainly no control on trade and shipping would have been adopted as has now been the case, probably also no ambiguous arrangement.
 
+
+## Sources
+*Hoe Atjeh te onderwerpen*, door W. A. Coblijn, gepensionneerd Kolonel van het Oost-Indisch Leger ('s-Gravenhage: De Gebroeders van Cleef, [[1893]]), pp. 50, 70–80, 90–93, 112, 117. OCR-filename: `20260716_140310_DLP-100-Hoe_Atjeh_te_onderwerpen_Nemotron-OCR-v2_OCR.txt`.
+
 ## See Also
 
 - [[Joannes Benedictus van Heutsz]]
@@ -121,6 +148,14 @@ The *Nota's van Scherer aan Demmeni* — the parting warning-notes — were the 
 - [[1881]]
 - [[1882]]
 - [[1883]]
+- [[Hoe moet Atjeh gepacificeerd worden? (Scherer)]]
+- [[Scheepvaartregeling (1892)]]
+- [[Civil government period]]
+- [[Civil versus military government in Atjeh]]
+- [[Batoe Iliq Expedition (July 1880)]]
+- [[Toekoe Tjibik]]
+- [[A. Pruys van der Hoeven]]
+- [[J. F. Haus]]
 
 ## Source
 

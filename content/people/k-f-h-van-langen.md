@@ -1,7 +1,40 @@
 ---
 title: K. F. H. van Langen
-aliases: [Van Langen, K.F.H. van Langen, K. F. H. van Langen, Karel Ferdinand Hubert van Langen, C. F. H. van Langen, Van L.angen, student of Atjèhsche staatsbestuur, Resident van Langen]
-tags: [person, dutch, colonial-official, scholar, geographer, western-scholar, colonial, 19th-century, diplomacy]
+aliases:
+- Van Langen
+- K.F.H. van Langen
+- Karel Ferdinand Hubert van Langen
+- C. F. H. van Langen
+- Van L.angen
+- student of Atjèhsche staatsbestuur
+- Resident van Langen
+- Controleur Van Langen
+- Van Langen (Langen controleur)
+- Van Langen Atjeh language studies
+- de assistent-resident van Groot-Atjeh van Langen
+- Scherer's collega van Langen
+- Resident voor Atjehsche zaken en de scheepvaartregeling
+- Resident for Acehnese affairs
+- Resident van Atjeh
+tags:
+- person
+- dutch
+- colonial-official
+- scholar
+- geographer
+- western-scholar
+- colonial
+- 19th-century
+- diplomacy
+- official
+- 1887
+- snouck-hurgronje
+- atjeh-language
+- langen
+- atjeh
+- aceh-war
+- assistant-resident
+- organization
 ---
 
 **K. F. H. van Langen** (full name **Karel Ferdinand Hubert van Langen**) was a Dutch colonial official, geographer, and scholar of Acehnese government whose principal work — *De inrichting van het Atjehsche Staatsbestuur onder het Sultanaat* ("The Organisation of the Acehnese Government under the Sultanate") — published in the *Bijdragen van het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië* for [[1888|1888]], and cited throughout [[C. Snouck Hurgronje|Snouck Hurgronje]]'s *The Achehnese* simply as *Atjehsch Staatsbestuur* — was the standard printed authority on the political institutions of the sultanate of [[Acheh|Aceh]]. He was also the author of an Acehnese dictionary (*Woordenboek der Atjèhsche taal*, [[1889|1889]]), of a *Handleiding voor de beoefening der Atjèhsche taal* ([[1889|1889]]), of an article on [[Acheh's Westkust|Aceh's West Coast]] in the *Tijdschrift van het Koninklijk Nederlandsch Aardrijkskundig Genootschap* for [[1888|1888]], and of remarks on Acehnese music that Snouck Hurgronje held to "require correction and expansion". Kreemer, in turn, cites Van Langen frequently for information on coinage, weights, measures, and political institutions.
@@ -125,6 +158,43 @@ Van Langen's significance in *ATJEH '96* lies in his embodiment of the senior ci
 - [[Teuku Umar]]
 - [[Defection of Teuku Umar (29 March 1896)]]
 - [[1896]]
+- [[Teungkoe di Tirou]]
+- [[Habib Abdul Rachman El-Zahir]]
+- [[Keuchenius]]
+- [[W. B. Bergsma]]
+- [[Langen]]
+- [[Scherer]]
+- [[Demmeni]]
+- [[Laging Tobias]]
+- [[Van Rees]]
+- [[Concentratiebesluit (19 Augustus 1884)]]
+- [[Staatsblad No. 105 van 1884]]
+- [[Staatsblad No. 85 van 1885]]
+- [[Blokkade]]
+- [[Scheepvaartregeling]]
+- [[Concentratiestelsel]]
+- [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
+- [[Telok Semawe|Telok Semawé]]
+- [[Melaboeh]]
+- [[Segli]]
+- [[13 October]]
+- [[19 August]]
+- [[1884]]
+- [[Aceh War]]
+- [[Atjeh-oorlog]]
+- [[26 July]]
+- [[1887]]
+- [[1891]]
+- [[1892]]
+- [[K. F. H. van Langen (Resident)]]
+- [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden]]
+- [[Regeeringscommissaris (Government Commissioner)]]
+- [[J. A. Vetter (Luitenant-Generaal)]]
+- [[J. W. Stemfoort (Kolonel der Infanterie)]]
+- [[C. P. J. van Vliet (Luitenant-Kolonel)]]
+- [[Controleur 2e klasse bij het Binnenlandsch Bestuur]]
+- [[Second Letter of Teuku Umar (Bijlage IV)]]
+- [[Arrival of Vetter and Dismissal of Deykerhoff (7 April 1896)]]
 
 ## Sources
 
@@ -137,3 +207,5 @@ Van Langen's significance in *ATJEH '96* lies in his embodiment of the senior ci
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956|1956]]), p. 104.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 14, 20, 38, 48, 58, 333.
+*Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, p. 10.
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders Van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 35, 42. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.

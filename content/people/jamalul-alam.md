@@ -1,8 +1,18 @@
 ---
-
 title: Jamalul Alam
-aliases: [Jamalul-Alam, Jamalul-AIam, Jemnaloj, Jamalul-alam the Arab rival]
-tags: [person, sultan, sultanate, claimant]
+aliases:
+- Jamalul-Alam
+- Jamalul-AIam
+- Jemnaloj
+- Jamalul-alam the Arab rival
+- Poteu Jeumaloy
+tags:
+- person
+- sultan
+- sultanate
+- claimant
+- saint
+- ruler
 ---
 
 The name **Jamalul Alam** — in Achehnese **Jemnaloj** — was borne in Achehnese history by (at least) two distinct persons, both of whom are mentioned in Vol. I of *The Achehnese*: a Sultan of [[Acheh]] reigning in [[1689]], and an Arab rival claimant to the throne who contested the succession of [[Alaedin Juhan Shah]] in [[1756]]–[[1760]]. The two should not be confused.
@@ -23,6 +33,14 @@ A later and quite different **Jamalul-alam** was an Arab claimant to the throne 
 
 The conflict between [[Alaedin Juhan Shah]] and the Arab Jamalul-alam — known to Achehnese tradition as the [[Achehnese succession war of 1756-1760]] — is one of the principal episodes of the latest, Bugis-origin dynasty of Acheh. It is in this conflict that the *imeums* first emerge, in Achehnese heroic poetry, as independent military and political actors; the [[Imeum of Chadé]] is recorded as having been the most powerful supporter of the finally defeated candidate in "the last conflict for royal honours before the Achehnese war." The identity of the defeated candidate is not directly stated by Snouck Hurgronje in Vol. I, but the reference belongs to the same recurring pattern of disputed successions, of which the war between Alaedin Juhan Shah and the Arab Jamalul-alam is the most famous eighteenth-century example.
 
+
+## Sources
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+---
+
+
+An Arab sayyid and the most remarkable pretender to the throne of Acheh in the 18th century, reigning [[1703]]-[[1726]] and contesting the throne thereafter. The main antagonist of the Hikayat Pochut Muhamat, he is nonetheless regarded by the common people as a saint, with a revered tomb near the principal mosque of Acheh, though the royal family forbids reading the hikayat celebrating his defeat. He escaped his fallen stronghold in female disguise.
+
 ## See Also
 
 - [[Sarakata (royal edicts of Acheh)]]
@@ -35,6 +53,10 @@ The conflict between [[Alaedin Juhan Shah]] and the Arab Jamalul-alam — known 
 - [[Achehnese succession war of 1756-1760]]
 - [[Imeum of Chadé]]
 - [[Acheh]]
+- [[Hikayat Pochut Muhamat]]
+- [[Pochut Muhamat]]
+- [[Alaedin Ahmat Shah]]
+- [[Gampong Jawa]]
 
 ## Source
 

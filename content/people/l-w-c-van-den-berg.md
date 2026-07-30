@@ -1,8 +1,29 @@
 ---
-
 title: L.W.C. van den Berg
-aliases: [van den Berg, Mr. L. W. C. Van den Berg, Mr. L. W. C. Van tlen Berg (OCR), L. W. C. van den Berg, Mr. van den Berg, Van den Berg of the Beginselen]
-tags: [person, western-scholar, colonial-official, scholar, dutch, lawyer, orientalist]
+aliases:
+- van den Berg
+- Mr. L. W. C. Van den Berg
+- Mr. L. W. C. Van tlen Berg (OCR)
+- L. W. C. van den Berg
+- Mr. van den Berg
+- Van den Berg of the Beginselen
+- Lodewijk Willem Christiaan van den Berg
+- Van den Berg (Batavia advisor)
+- Van den Berg Minhādj editor
+tags:
+- person
+- western-scholar
+- colonial-official
+- scholar
+- dutch
+- lawyer
+- orientalist
+- colonial
+- official
+- 19th-century
+- islamologist
+- van-den-berg
+- snouck-adversary
 ---
 
 A Dutch scholar whose works on Malay manuscripts and the Mohammedan clergy of Java are frequently cited by Hurgronje, who criticizes him for misclassifying pesantrens as "schools for the priesthood" and for misidentifying the rateb sadati he witnessed in [[1881]] as Naqshibandiyyah when it was actually the rateb Saman.
@@ -35,6 +56,10 @@ Van den Berg's treatment of the *taʿlīq* adat — by which the bridegroom at m
 
 Van den Berg is also taken to task for confusing the function of the agent of the *wali* with the *kuwasa kakim* (delegated judicial authority) of the *pangulu*; for his account of the consequences of impotence; for his surprise at Winter's use of the term *khulʿ*; and for his "curious deduction" that a given adat is "specially Javanese" because it also occurs in such outlying Dutch possessions as [[Celebes|Southern Celebes]]. Throughout, Snouck uses van den Berg's errors as foils against which to display the results of his own field observation in [[Acheh]] and elsewhere.
 
+
+## Sources
+*Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, pp. 3–4, 18.
+
 ## See Also
 - [[Acheh]]
 - [[Batavia]]
@@ -47,6 +72,19 @@ Van den Berg is also taken to task for confusing the function of the agent of th
 - [[T. H. der Kinderen]]
 - [[Ta'liq]]
 - [[K. F. H. van Langen|Van Langen]]
+- [[Der Kinderen]]
+- [[Verslag omtrent de religieus-politieke toestanden in Atjeh]]
+- [[De Atjehers (Snouck Hurgronje)]]
+- [[Bekendmaking Nederburgh]]
+- [[Van Dedem]]
+- [[Goldziher]]
+- [[Aceh War]]
+- [[Atjeh-oorlog]]
+- [[April 1883]]
+- [[1884]]
+- [[1892]]
+- [[1893]]
+- [[1894]]
 
 ## Source
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

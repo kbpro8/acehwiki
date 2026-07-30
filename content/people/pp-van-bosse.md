@@ -1,8 +1,20 @@
 ---
-
 title: P.P. van Bosse
-aliases: [Peter Philip van Bosse, Van Bosse, Mr. P.P. van Bosse]
-tags: [person, colonial, minister, dutch, liberal]
+aliases:
+- Peter Philip van Bosse
+- Van Bosse
+- Mr. P.P. van Bosse
+- P. P. van Bosse
+- Pieter Philip van Bosse
+- minister Van Bosse
+tags:
+- person
+- colonial
+- minister
+- dutch
+- liberal
+- politician
+- acheh
 ---
 **P.P. van Bosse** was a Dutch colonial minister who served from [[November]] [[1877]] to [[February]] [[1879]], a critical period in the [[Aceh War]] when the transition from military to civil governance began to take shape. Born in [[1809]], he was an experienced statesman who had previously served as Minister of Finance and was known for his liberal views and financial expertise.
 
@@ -72,6 +84,10 @@ His legacy includes:
 - Efforts to improve the quality of the civil service.
 - The establishment of the technical bureau for railway procurement.
 
+
+## Sources
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 267-268.
+
 ## See Also
 
 - [[Johan Willem van Lansberge|J.W. van Lansberge]]
@@ -82,6 +98,13 @@ His legacy includes:
 - [[F. Alting Mees]]
 - [[O. van Rees]]
 - [[Secret Instruction of 5 June 1855]]
+- [[Sumatra-tractaat (1871)]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[Declaration of war against the Sultan of Atjeh (1873)]]
+- [[W. J. van Welderen Rengers]]
+- [[1871]]
+- [[1873]]
+- [[1897]]
 
 ## Source
 

@@ -1,9 +1,15 @@
 ---
-
-title: "Ja'far al-Barzanji"
-aliases: ["Ja'far-al-Barzanji", "Ja'far ibn Hasan al-Barzanji"]
-
-tags: [person, author, religious-figure, scholar, poet, islamic]
+title: Ja'far al-Barzanji
+aliases:
+- Ja'far-al-Barzanji
+- Ja'far ibn Hasan al-Barzanji
+tags:
+- person
+- author
+- religious-figure
+- scholar
+- poet
+- islamic
 ---
 
 Author of a popular maulid — a hymn in honor of the Prophet's birth — recited at the religious festival of Muhammad's birthday and on other ceremonial occasions in Acheh.

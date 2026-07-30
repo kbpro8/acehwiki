@@ -1,9 +1,14 @@
 ---
-
-title: "Sam'un"
-aliases: ["Sam'un (Samson)", "Samson", "the hero Sam'un"]
-
-tags: [person, legendary, heroic-figure, romance]
+title: Sam'un
+aliases:
+- Sam'un (Samson)
+- Samson
+- the hero Sam'un
+tags:
+- person
+- legendary
+- heroic-figure
+- romance
 ---
 
 **Sam'un** — the Achehnese and Malay form of the name **Samson** — is the hero of popular Islamic romance, mentioned by [[C. Snouck Hurgronje|Snouck Hurgronje]] in Vol. I of *The Achehnese* among the favourite figures of the popular religious literature of the [[East Indian Archipelago|Eastern Archipelago]]. He is named, together with [[Amir Hamzah|Amir Hamzah]] (the uncle of the Prophet), [[Mohammad ibn al-Hanafiyyah|Mohammad (ibnu'l) Hanafiyyah]] (the son of [[Ali]]), and [[Raja Badar|Raja Badar]], as one of the protagonists of the Titanic wars and numerous love adventures whose stories "are such favourites in the Eastern Archipelago."

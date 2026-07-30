@@ -1,7 +1,17 @@
 ---
-title: "Major Diepenheim"
-aliases: ["Diepenheim", "majoor Diepenheim"]
-tags: [person, dutch, colonial, military, major, infantry, aceh-war, 1876]
+title: Major Diepenheim
+aliases:
+- Diepenheim
+- majoor Diepenheim
+tags:
+- person
+- dutch
+- colonial
+- military
+- major
+- infantry
+- aceh-war
+- 1876
 ---
 
 **Major Diepenheim** was a Dutch *majoor* of the [[Indische Leger|Indische leger]] who commanded the *linker-colonne* — the *rechter halve bataljon* and a section of artillery — on [[13 February]] [[1876]] in [[Generaal Pel|generaal Pel]]'s three-*colonne* operation against the [[III Moekims]], with the task of covering the flank of [[Majoor Jeltes|Jeltes]]'s *midden-colonne* in its advance from [[Kota Alam]] along the right bank of the [[Atjeh-rivier|Atjeh-rivier]] against [[Pango]] and the [[Longbatta-Mesigit]].
@@ -13,6 +23,10 @@ Pel granted the troops only a couple of days' rest at [[Kota Radja]] after the c
 ## Outcome and Significance
 
 On [[13 February]] [[1876]] Pango was conquered and a post *opgericht*. The same day, however, the [[Atoeh catastrophe (13 February 1876)|catastrophe at Atoeh]] overtook [[Jan van Swieten (Kapitein)|kapitein van Swieten]]'s small detachment on the *drassige sawah* near [[Lamsajoen]]. On [[14 February|14]]–[[15 February]] [[1876]] the troops conquered [[Meroe]], [[Lampermej]] and [[Tjap Octoe]] after *hevigen tegenstand*. At Tjap Octoe the troops *stuitten* on a sterke *benteng* with artillery, *krachtig verdedigd*, which was only taken "met veel moeite en opoffering." The losses were enough to make Pel decide not to push further eastward but to designate Pango as the *uiterste steunpunt* of the new *linie* toward [[Kwala Gigieng]]. Diepenheim's *linker-colonne* thus completed the encirclement by which the eastern face of Pel's projected *afsluitingslinie* was secured. His name is paired in Borel's narrative with those of [[Majoor B. E. Mekern|Mekern]] and Jeltes as the three *bataljons-commandanten* who carried the offensive to its farthest point before Pel's [[Death of Generaal Pel (24 February 1876)|death at Lamjoeng]] ten days later.
+
+
+## Sources
+*Verslagen der Marine‑Vereeniging III 1889‑1890*, J. R. J. P. Cambier, pp. 229‑233. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pages 138‑141.
 
 ## See Also
 
@@ -26,6 +40,11 @@ On [[13 February]] [[1876]] Pango was conquered and a post *opgericht*. The same
 - [[Majoor Jeltes]]
 - [[Generaal Pel]]
 - [[1876]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
+- [[Battle of Daroe]]
+- [[Glitaroem]]
+- [[Beradin]]
+- [[Major B. Mekern]]
 
 ## Source
 

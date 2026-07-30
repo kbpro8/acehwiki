@@ -1,7 +1,22 @@
 ---
-title: "Major van Zijll de Jong"
-aliases: ["van Zijll de Jong", "majoor van Zijll de Jong", "commandant der artillerie van Zijll de Jong"]
-tags: [person, dutch, colonial, military, major, artillery, hero-of-the-day, aceh-war, 1874]
+title: Major van Zijll de Jong
+aliases:
+- van Zijll de Jong
+- majoor van Zijll de Jong
+- commandant der artillerie van Zijll de Jong
+- T. J. A. van Zijll de Jong
+- T.J.A. van Zijll de Jong
+tags:
+- person
+- dutch
+- colonial
+- military
+- major
+- artillery
+- hero-of-the-day
+- aceh-war
+- 1874
+- officer
 ---
 
 **Major van Zijll de Jong** was a Dutch *majoor* of the [[Indische Leger|Indische leger]] and *commandant der artillerie* under [[Generaal Pel|Pel]] in Atjeh, whom [[G. F. W. Borel|Borel]] calls "the hero of the day" of [[31 December]] [[1874]] for proposing and executing the counter-attack with some sixty infantry and a four-gun battery that retook the lost *benteng* at the [[Longbatta-Mesigit]] and so saved the *colonne-van der Meer* from certain destruction in the [[Battle of Longbatta (31 December 1874)|battle of Longbatta]]. He is also the officer who had repeatedly proposed the bombardment of kampongs that [[Jan van Swieten|van Swieten]] had always refused.
@@ -18,6 +33,14 @@ On the afternoon of [[31 December]] [[1874]] the situation was desperate. [[Majo
 
 Van Zijll de Jong is, in Borel's narrative, the model of the Indische artillery officer — tactically astute, technically proficient, and personally fearless. His counter-attack at Longbatta turned a rout into a costly retreat; his long-standing advice on the bombardment of kampongs, refused by van Swieten and adopted by Pel, became the foundation of the active defence that allowed the *bezettingskorps* to hold [[Kota Radja]] through the worst months of [[1874]]. The contrast with van Swieten's *afwachtende houding* — and with van der Meer's loss of cohesion on the *sawah* — could not be sharper.
 
+
+## Sources
+Cornelis Jacobus Snijders ([[1852]]–[[1939]]): *Een leven in dienst van zijn Land en zijn Volk*, by D. van den Berg (Voorburg: September [[1944]]), pp. 10–35. Koninklijke Bibliotheek shelfmark 0301 4872.
+---
+
+
+**T. J. A. van Zijll de Jong** was a Dutch *Majoor* of the artillery serving in [[Acheh|Atjeh]] in [[1874]] who, together with [[W. J. C. Leers|Majoor W. J. C. Leers]] (engineers), sited the [[Kuta Alam|Benting Kota Alam]] fortification on [[13 November]] [[13 November]] [[1874]] on a bend of the [[Acheh River|Atjeh River]] east of [[Kota Radja|Kota Radja]].
+
 ## See Also
 
 - [[Battle of Longbatta (31 December 1874)]]
@@ -30,6 +53,14 @@ Van Zijll de Jong is, in Borel's narrative, the model of the Indische artillery 
 - [[Vesting-artillerie in Atjeh]]
 - [[Kota Radja]]
 - [[1874]]
+- [[Cornelis Jacobus Snijders]]
+- [[W. J. C. Leers]]
+- [[M. C. E. Ruempol]]
+- [[Benting Kota Alam operation (13 November 1874)]]
+- [[Kuta Alam]]
+- [[Longbatta]]
+- [[Acheh River]]
+- [[Aceh War]]
 
 ## Source
 

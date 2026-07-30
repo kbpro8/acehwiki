@@ -1,7 +1,21 @@
 ---
 title: Ketjig Bintang van Lam Loempoer
-aliases: ["Ketjig Bintang", "Ketjiq Bintang", "Ketjik Bintang"]
-tags: [person, achehnese, aceh-war, military]
+aliases:
+- Ketjig Bintang
+- Ketjiq Bintang
+- Ketjik Bintang
+- Ketjihik
+- Ketjig
+- Ketjiq
+- Ketjik
+tags:
+- person
+- achehnese
+- aceh-war
+- military
+- concept
+- religious
+- sultanate
 ---
 
 **Ketjig Bintang van Lam Loempoer** — also written *Ketjig Bintang*, *Ketjiq Bintang*, *Ketjik Bintang* — was, in Kruisheer's *ATJEH '96*, one of [[Teuku Umar]]'s "*beste onderaanvoerders*" (best sub-commanders) alongside [[Panglima Poelau]], a commander of a mobile force of approximately 300 men armed with [[Beaumontgeweer|Beaumontgeweren]] in black uniform, and — critically — the figure "formerly designated successor as commandant of Umar's legion" whose reported death by [[28 May]] [[1896]] (along with Umar's brother [[Toekoe Mançoer]]) marked the most significant decapitation of the Achehnese command structure in the first semester of [[1896]]. His name connects him to [[Lam-Loempoer]] (a kampong in the western [[IV Moekims]]), and his honorific "*Ketjig*" identifies him as an * Acehnese* religious-court official of a particular rank, distinct from the *panglima* military title of his colleague Poelau. His combination of designated succession to the legion command, military command of an elite mobile force, and political-diplomatic sensitivity — Kruisheer records his threat to "withdraw to the [[Westkust]] if Toenongers ([[XXII Moekims]] people) or Pedireezen were tolerated in the IV/VI Moekims" — places him at the intersection of the military, political, and demographic tensions which shaped the Achehnese coalition of the spring of [[1896]].
@@ -18,6 +32,10 @@ The political-diplomatic dimension of Ketjig Bintang's command is captured in Kr
 
 Ketjig Bintang's significance in *ATJEH '96* lies in his embodiment of the institutional, military, and political dimensions of Umar's command structure simultaneously: he was the designated successor to the legion command, an elite mobile-force commander, and the figure who articulated the demographic tensions within the Achehnese coalition. His death on or before [[28 May]] [[1896]] — together with the death of [[Toekoe Mançoer]] — was the most important single loss suffered by the Achehnese side in the [[Three-day Dutch offensive of 23–25 May 1896|three-day offensive]], and it materially shaped the second-semester balance of forces in [[Groot-Atjeh]].
 
+
+## Sources
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 42, 218, 237.
+
 ## See Also
 
 - [[Teuku Umar]]
@@ -32,6 +50,14 @@ Ketjig Bintang's significance in *ATJEH '96* lies in his embodiment of the insti
 - [[VI Moekims]]
 - [[1896]]
 - [[Aceh War]]
+- [[Imam (in Acehnese context)]]
+- [[Oelama]]
+- [[Teungkoe / Toekoe / Tengkoe (honorific)]]
+- [[Moekim / Mukim]]
+- [[Masdjid]]
+- [[Tjoet Nja Din]]
+- [[Ketjihik Oemar]]
+- [[Ketjig Bintang van Lam Loempoer]]
 
 ## Source
 

@@ -1,7 +1,15 @@
 ---
 title: Sultan Ala ad-dïn Mahmoed Sjah
-aliases: [Alaeddin Mahmud Syah, last Sultan of Aceh, Sultan Mahmoed Sjah, Ala ad-din Mahmud Shah]
-tags: [person, sultan, achehnese, 19th-century]
+aliases:
+- Alaeddin Mahmud Syah
+- last Sultan of Aceh
+- Sultan Mahmoed Sjah
+- Ala ad-din Mahmud Shah
+tags:
+- person
+- sultan
+- achehnese
+- 19th-century
 ---
 
 **Sultan Ala ad-dïn Mahmoed Sjah** (reigned [[1870]]–[[1874]]) was the **last ruling Sultan of [[Aceh|Atjèh]]**. His single seal is reproduced on the spine of [[J. Kreemer|Kreemer]]'s work *Atjèh* (1922–23). He died without children when the [[Kraton Atjeh|kraton]] fell on [[24 January]] [[1874]].
@@ -32,7 +40,11 @@ After the kraton fell, the pretender Sultan [[Moehamat Dawöt (Pretendent Sultan
 - [[1870]]
 - [[1873]]
 - [[1874]]
+- [[Sultan Ibrahim Mansur Shah]]
+- [[Tuanku Muhamat Dawot]]
+- [[Pö Tjoet Meurah]]
 
 ## Sources
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
+Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.

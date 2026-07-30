@@ -1,8 +1,27 @@
 ---
-
 title: Mohammad
-aliases: [Muhammad, Prophet Muhammad, the Apostle of God, the Lord of Men, Prophet Mohammad, Mohammad (the Prophet), the Messenger of Allah, the Prophet of Islam]
-tags: [person, prophet, religious-figure, islam]
+aliases:
+- Muhammad
+- Prophet Muhammad
+- the Apostle of God
+- the Lord of Men
+- Prophet Mohammad
+- Mohammad (the Prophet)
+- the Messenger of Allah
+- the Prophet of Islam
+- Sayyidina Muhammad
+- Muhammad ibn Abdullah
+- Rasulullah
+- Prophet of Islam
+tags:
+- person
+- prophet
+- religious-figure
+- islam
+- religious
+- islamic
+- acehnese
+- aceh
 ---
 
 The Prophet of Islam, referred to throughout Acehnese religious literature as the Apostle of God. His Sunnah, the Quran, his family and companions, and the rules he ordained form the backbone of religious learning in Acheh. The Achehnese recite maulids in his honor at the mawlid festival, and his nocturnal journey to heaven (Me'reuet) is the subject of a popular hikayat. His daughter Fatimah's marriage to Ali and his instructions to her on wifely duty are frequently cited in popular literature.
@@ -31,6 +50,19 @@ The Prophet is, in this sense, doubly present in Achehnese law: present as the f
 
 The name of Mohammad is invoked elsewhere in Vol. I in the prelude of the *sarakata* or royal edicts of [[Acheh]], together with those of [[Abdul-Qadir Jilani|ʿAbdul-Qādir al-Jīlānī]] and the four Companions — [[Abu Bakr|Abu Bakr]], [[Omar|Omar]], [[Uthman|Uthman]] and [[Ali|Ali]] — whose blessing is pronounced over the sultan's letters-patent. His birthday is commemorated by the great annual feast of the *Mo'lot* (the 12th of *Rabīʿ al-Awwal*), and his sickness and death are remembered in the Achehnese *Rabu Abeh* bathing festival, which closes the month of Safar. For a fuller account of these observances, see the related article on the Prophet in this work.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+---
+
+
+**Mohammad** (Arabic *Muḥammad*), "the Apostle of God" and "the Lord of Men," is the founder of Islam and the central religious figure of the Achehnese Mohammedan world. In Vol. I his name is invoked at every turn — in the formal preambles of the sultans' edicts, in the prayers and litanies of the Achehnese calendar, and in the daily formulas of blessing and salutation. This article treats of those references to the Prophet that cluster around the calendar and festival chapters of Vol. I; for his invocation in marriage and legal rites, see [[Prophet Muhammad]].
+**Muhammad** (Arabic *Muḥammad*; Achehnese *Muhammad* or *Mohammad*) — "the Apostle of God" and "the Lord of Men" — is the founder of Islam and the central religious figure of the Achehnese Mohammedan world. In the marriage, legal and domestic-rite chapters of Vol. I his name is invoked at every turn: in the marriage contract, in the formulas of blessing pronounced over bridegrooms, in the precepts handed down by him as the basis of the religious law, and in the small domestic offerings made "in honour of the Prophet." For his invocation in the calendar and festival chapters, see [[Prophet Mohammad]].
+*20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pp. 37‑39.
+*16th‑century Malay translation of the Burda of al‑Busiri*, DLP‑54, “Een 16de eeuwse Maleise vertaling van de Burda van al‑Busiri”, pp. 59‑65, 20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt.
+*DLP‑54 – Een 16de‑eeuwse Maleise vertaling van de Burda van al‑Busiri*, digitised manuscript, pages [[73]]‑[[79]], 20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt.
+*16th‑century Malay translation of the Burda of al‑Busiri*, manuscript, pages 52‑58, DLP‑54, digitised as 20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt.
+
 ## See Also
 - [[Abdul-Qadir Jilani]]
 - [[Abu Bakr]]
@@ -48,6 +80,43 @@ The name of Mohammad is invoked elsewhere in Vol. I in the prelude of the *sarak
 - [[Sayyid Abdurrahman Zahir]]
 - [[Teungku Anjong|Sayyid Abu Bakar bin Husain Bil-Faqih]]
 - [[Uthman]]
+- [[Prophet Muhammad]]
+- [[Mo'lot]]
+- [[Adbe Mo'lot]]
+- [[Maulud (Mo'lot)]]
+- [[Miraj (Ascension of Mohammad)]]
+- [[Prophet Mohammad]]
+- [[Mamplenc (wedding procession)]]
+- [[Peusunat (Circumcision)]]
+- [[Koh gigoe (tooth-filing)]]
+- [[Panglima Meuseugit Raya]]
+- [[Letters patent with the ninefold seal to Panglima Meuseugit Raya]]
+- [[Burda (poem)|Burda]]
+- [[Burda (poem)|Qasida al‑Burda]]
+- [[Al-Busiri|al-Busiri]]
+- [[Al-Busiri|Imam al‑Busiri]]
+- [[Islam]]
+- [[Quran]]
+- [[Malay translation of the Burda]]
+- [[Wahhabism]]
+- [[Shirk]]
+- [[Isra]]
+- [[Miʿraj]]
+- [[Hunain]]
+- [[Badr]]
+- [[Uhud]]
+- [[Acehnese religious poetry]]
+- [[Sultan Ibrahim of Aceh]]
+- [[Rasulullah]]
+- [[Burda (poem)|Al‑Burda (Arabic poem)]]
+- [[Arabic terms in Acehnese religious poetry]]
+- [[Aceh]]
+- [[Zuhair (poet)]]
+- [[Burda (poem)|Burda of al‑Busiri]]
+- [[Malay translation of the Burda (16th century)]]
+- [[Islam in Aceh]]
+- [[Acehnese literature]]
+- [[Al‑Busiri]]
 
 ## Source
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

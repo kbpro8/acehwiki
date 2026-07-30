@@ -1,7 +1,19 @@
 ---
 title: Joost Schouten
-aliases: [Schouten, VOC envoy, Justus Schouten, J. Schouten]
-tags: [person, diplomat, voc, 17th-century, colonial, dutch, achehnese]
+aliases:
+- Schouten
+- VOC envoy
+- Justus Schouten
+- J. Schouten
+- Justus Schouten van Amsterdam
+tags:
+- person
+- diplomat
+- voc
+- 17th-century
+- colonial
+- dutch
+- achehnese
 ---
 
 **Joost Schouten** (also called *Justus Schouten* in some sources) was the [[Vereenigde Oost-Indische Compagnie|Compagnie]]'s envoy to [[Atjeh|Atjeh]] who, in [[15 February|February]] [[1641]], concluded with the newly enthroned [[Sultana of Atjeh (Taj ul-Alam)|sultane of Atjeh]] — [[Sultan Tajul-alam|Tajul-alam]] — the [[Treaty of Atjeh-VOC (15 February 1641)|first major Acehnese-Dutch treaty of her reign]]. In Dr. F. W. Stapel's *Geschiedkundige Atlas van Nederland* he is the diplomat whose embassy opened the era of structured Dutch commercial privilege on the [[Westkust van Sumatra|West Coast of Sumatra]].
@@ -26,6 +38,10 @@ Schouten's embassy is the political foundation on which all later Dutch Westkust
 
 The 1641 embassy is also the first Dutch diplomatic encounter with a female Muslim sovereign. Stapel's editorial judgement on Schouten's opposite number is uniformly respectful — the sultane is described as conducting her own foreign policy, signing her own treaties, and (in [[1656]]) ordering the [[Arrest of Anthony van Voorst|arrest of Van Voorst]] as a sovereign act of reprisal. Schouten's success in February 1641 set the tone of that long diplomatic relationship.
 
+
+## Sources
+*Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapters XI–XII ("Atjehsche ambassade. Inlandsche feesten. Maagden als losprijs"; "Juweelenhandel. Heeren Zeventien. Familieregeering"), pp. 39–47 of the numbered-letter sequence.
+
 ## See Also
 
 - [[Sultana of Atjeh (Taj ul-Alam)]]
@@ -46,6 +62,14 @@ The 1641 embassy is also the first Dutch diplomatic encounter with a female Musl
 - [[Westkust van Sumatra]]
 - [[1641]]
 - [[15 February]]
+- [[Pieter Soury]]
+- [[Jan van Riebeeck]]
+- [[Joan Maetsuycker]]
+- [[Iskander Tsani]]
+- [[Sultana of Atjeh (1641)]]
+- [[Atjehsche mode]]
+- [[Acheh]]
+- [[Dutch lodge at Atjeh]]
 
 ## Source
 

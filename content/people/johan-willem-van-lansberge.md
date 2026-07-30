@@ -1,8 +1,28 @@
 ---
 title: Johan Willem van Lansberge
-aliases: ["J. W. van Lansberge", "J.W. van Lansberge", "Mr. J. W. van Lansberge", "Mr. J.W. van Lansberge", "Van Lansberge", "Governor-General Van Lansberge", "Johan Willem van Lansberge", "Gouverneur-Generaal van Lansberge"]
-tags: [person, governor-general, dutch, colonial, administrator, aceh]
-description: "Dutch diplomat and colonial administrator who served as Governor-General of the Netherlands Indies from 1875 to 1881, presiding over the middle phase of the Aceh War."
+aliases:
+- J. W. van Lansberge
+- J.W. van Lansberge
+- Mr. J. W. van Lansberge
+- Mr. J.W. van Lansberge
+- Van Lansberge
+- Governor-General Van Lansberge
+- Gouverneur-Generaal van Lansberge
+- L. A. J. W. van Lansberge
+tags:
+- person
+- governor-general
+- dutch
+- colonial
+- administrator
+- aceh
+- government
+- gouverneur-generaal
+- aceh-war
+- 1875
+description: Dutch diplomat and colonial administrator who served as Governor-General
+  of the Netherlands Indies from 1875 to 1881, presiding over the middle phase of
+  the Aceh War.
 ---
 
 **Johan Willem van Lansberge** (born [[16 November]] [[1830]]) was a Dutch diplomat and colonial administrator who served as [[Governor-General of the Netherlands Indies|Governor-General of Netherlands India]] from [[26 March]] [[1875]] until [[12 April]] [[1881]], succeeding [[J. Loudon|Mr. J. Loudon]] and presiding over the middle phase of the [[Aceh War|Atjeh-oorlog]]. His governorship saw the rise of [[Habib Abdurrahman Zahir|Habib Abdurrahman Zahir]] as the principal Acehnese leader, the campaigns of generals [[J. L. J. H. Pel|Pel]], [[G. B. T. Wiggers van Kerchem|Wiggers van Kerchem]], [[A. J. E. Diemont|Diemont]] and [[K. van der Heyden|Van der Heyden]], the submission of the [[XXII Mukims|XXII Moekims]] and [[XXVI Mukims|XXVI Moekims]] in [[1879]], the laying of the first stone of the [[Meusigit Raja]] of [[Kuta Raja|Koeta Radja]] on [[9 October]] [[1879]], and the establishment of civil government in [[Aceh|Atjeh]] in [[1881]].
@@ -112,6 +132,15 @@ Van Lansberge demonstrated how a Governor-General could maintain policy continui
 - [[Personeele belasting]]
 - [[Patentrecht]]
 - [[Governor-General of the Netherlands Indies]]
+- [[Pel's Buitenzorg planning session (1875)]]
+- [[Pel's plan for the Atjeh line]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Generaal Pel]]
+- [[Generaal Wiggers van Kerchem]]
+- [[Kroeng Raba]]
+- [[Kroeng Raya]]
+- [[Buitenzorg]]
+- [[1875]]
 
 ## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
 
@@ -130,3 +159,4 @@ Kruijt reserves his sharpest criticism for Van Lansberge's role in the displacem
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman. Haarlem: De Gulden Pers, 1947, the chapter on the Meusigit Raja.
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapters IV, VII, VIII. pp. 19–20, 36–38.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. p. 304.

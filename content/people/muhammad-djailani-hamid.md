@@ -1,8 +1,29 @@
 ---
-
 title: Muhammad Djailani Hamid
-aliases: [Muhammad Jailani Hamid, Muhammad Djailani, Muhammad Jailani, Muhammad Djailānī Hamid, Muḥammad Jaylānī Ḥamīd, the uncle of Raniri]
-tags: [person, scholar, religious-figure, islamic-scholar, sufi, precolonial, 16th-century, 17th-century, gujarati, arab-descent, aceh, mecca]
+aliases:
+- Muhammad Jailani Hamid
+- Muhammad Djailani
+- Muhammad Jailani
+- Muhammad Djailānī Hamid
+- Muḥammad Jaylānī Ḥamīd
+- the uncle of Raniri
+- Muhammad Jilani Hamid
+- Muhammad Jailani b. Hamid
+tags:
+- person
+- scholar
+- religious-figure
+- islamic-scholar
+- sufi
+- precolonial
+- 16th-century
+- 17th-century
+- gujarati
+- arab-descent
+- aceh
+- mecca
+- acehnese
+- sixteenth-century
 ---
 
 **Muhammad Djailani Hamid** — also written **Muḥammad Jaylānī Ḥamīd** — was a Gujarati scholar of Arab descent, the uncle of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]], who made the first recorded visit of the family to [[Acheh]] between [[1580]] and [[1583]]. He is the immediate predecessor of Raniri in the Gujarati-Ḥadramī network that linked the religious scholarship of [[Gudjarat|Gujarat]] with the Achehnese court, and his experience of Acheh — narrated by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition of Raniri's two Malay treatises — is the precedent on which Raniri himself drew when he left for Acheh in [[1637]].
@@ -22,6 +43,7 @@ Raniri, Voorhoeve records, "has learned from the experiences of his uncle": when
 ## Sources
 
 The information on Muhammad Djailani Hamid is drawn from [[G. K. Niemann|Niemann]]'s *Bloemlezing uit Maleische geschriften* 112, pp. 124 ff., cited by [[P. Voorhoeve|Voorhoeve]] in the introduction to the [[1955]] edition.
+*Twee Maleise geschriften*, Voorhoeve, p. 5.
 
 ## See Also
 
@@ -38,6 +60,8 @@ The information on Muhammad Djailani Hamid is drawn from [[G. K. Niemann|Niemann
 - [[Shaikh Shamsuddin of Sumatra]]
 - [[Sultan Iskandar Muda]]
 - [[Wujudiyyah]]
+- [[Nuruddin ar-Raniri]]
+- [[Acheh]] in the [[1580]]s
 
 ## Source
 

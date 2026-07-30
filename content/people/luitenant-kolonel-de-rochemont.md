@@ -1,7 +1,20 @@
 ---
-title: "Lieutenant-Colonel de Rochemont"
-aliases: ["de Rochemont", "gep. lt.-kol. de Rochemont", "luitenant-kolonel de Rochemont"]
-tags: [person, dutch, colonial, military, lieutenant-colonel, author, critic, aceh-war, 1873]
+title: Lieutenant-Colonel de Rochemont
+aliases:
+- de Rochemont
+- gep. lt.-kol. de Rochemont
+- luitenant-kolonel de Rochemont
+- Colonel de Rochemont
+tags:
+- person
+- dutch
+- colonial
+- military
+- lieutenant-colonel
+- author
+- critic
+- aceh-war
+- 1873
 ---
 
 **Lieutenant-Colonel de Rochemont** was a retired (*gepensioneerd*) Dutch *luitenant-kolonel* and author of the [[De Rochemont brochure|brochure]] *Wat hebben partijschappen* — cited by [[G. F. W. Borel|Borel]] as the source for the text of [[Jan van Swieten|van Swieten]]'s verbal instruction to [[Generaal Pel|kolonel Pel]] ("zooveel mogelijk vechten weinig, afwachtende houding bewaren"). Borel turns de Rochemont's own quotations against him to demolish the claim — put about by van Swieten's partisans — that Pel had merely carried out van Swieten's programme.
@@ -18,6 +31,10 @@ De Rochemont's brochure also entered the controversy over Pel's [[Pel's letter t
 
 De Rochemont is, in Borel's narrative, the principal pamphleteer of van Swieten's cause, and his brochure is the document Borel most often cites against itself. The convergence of [[Generaal Booms|Booms]]'s "zeer juist geschreven critiek," [[Generaal Knoop|Knoop]]'s "slechts ten deele gelukt," and Borel's own participant-observation against the de Rochemont brochure establishes, in Borel's narrative, the professional military consensus on the second expedition.
 
+
+## Sources
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 12-16.
+
 ## See Also
 
 - [[De Rochemont brochure]]
@@ -30,6 +47,9 @@ De Rochemont is, in Borel's narrative, the principal pamphleteer of van Swieten'
 - [[Generaal Booms]]
 - [[Generaal Knoop]]
 - [[1873]]
+- [[Coastal Fortifications in Aceh]]
+- [[Second Aceh Expedition]]
+- [[Royal Netherlands East Indies Army]]
 
 ## Source
 

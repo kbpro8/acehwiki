@@ -1,8 +1,31 @@
 ---
-title: "P. F. Laging Tobias"
-aliases: ["P. F. Laging Tobias", "Laging Tobias", "Oud-Gouverneur Laging Tobias", "de Heer Laging Tobias", "Gouverneur Laging Tobias", "Gouverneur Tobias", "Tobias"]
-tags: [person, governor, dutch, colonial-administrator, civil-government, aceh, atjeh, colonial, civil-governor, 19th-century, aceh-war]
-description: "Dutch civil Governor of Atjeh and Onderhoorigheden after Pruys van der Hoeven, author of the brochure Phrasen en Feiten, whose early request for discharge was cited by Coblijn as the proof that a civil government of Atjeh was premature."
+title: P. F. Laging Tobias
+aliases:
+- Laging Tobias
+- Oud-Gouverneur Laging Tobias
+- de Heer Laging Tobias
+- Gouverneur Laging Tobias
+- Gouverneur Tobias
+- Tobias
+- Laging Tobiassen
+- Civiele Gouverneur Laging Tobias
+- L. Tobias
+tags:
+- person
+- governor
+- dutch
+- colonial-administrator
+- civil-government
+- aceh
+- atjeh
+- colonial
+- civil-governor
+- 19th-century
+- aceh-war
+- civilian-administrator
+description: Dutch civil Governor of Atjeh and Onderhoorigheden after Pruys van der
+  Hoeven, author of the brochure Phrasen en Feiten, whose early request for discharge
+  was cited by Coblijn as the proof that a civil government of Atjeh was premature.
 ---
 
 **P. F. Laging Tobias** was a Dutch colonial administrator who served as civil Gouverneur van Atjeh en Onderhoorigheden during the *bestuurlijke* experiment of the [[Civil government period|civil government period]] in the early 1880s, and the author of the brochure *[[Phrasen en Feiten (Laging Tobias)|Phrasen en Feiten]]* (Phrases and Facts), in which he reviewed the policy of the Atjeh government. He succeeded — per sé a civil governor being desired in Atjeh — the Resident [[A. Pruys van der Hoeven|Pruys van der Hoeven]], a choice that [[W. A. Coblijn|Coblijn]] pronounced, for character-qualities, *zeer gelukkig* (very fortunate); but the experiment failed, and in [[1884]] Laging Tobias himself asked for his discharge, after which the [[Government decisions of 19 August 1884|decisions of 19 August 1884]] abolished the civil government and entrusted the authority to kolonel [[Demmenie]] as military governor.
@@ -45,6 +68,10 @@ The resignation was at first declined by the outgoing 's Jacob — "Toen echter 
 
 Laging Tobias's significance in the [[Aceh Wiki History]] record rests on three things: he was the Governor who introduced the May [[1883]] *scheepvaartregeling* — the measure Van Heutsz considered the one bright spot of the post-Van-der-Heijden decade; he was the Governor whose advocacy of the *herstel van het sultanaat* made him, in Van Heutsz's later refutation of that policy, the principal Dutch witness against whom the 1893 tract's genealogical-constitutional argument is directed; and his February [[1884]] resignation — "zijn ontslag te moeten vragen, toen de Regeering het eenige middel verwierp" — was the first Dutch gubernatorial resignation over the *Concentratie*, and the act that fixed the *Concentratie* as the policy the Regeering would pursue for the next six years. The *scheepvaartregeling* he had introduced lasted, in diluted form, until December [[1885]], when the Regeering finally withdrew it; the *sultanaat* idea he had championed was revived, against his own later arguments, by Minister Sprenger van Eijk in [[1886]], and Laging Tobias himself re-entered the public debate with his article "Het herstel van het sultanaat in Atjeh" in the *Indische Gids* of December [[1886]]. He is, in Van Heutsz's narrative, the Governor who saw the right measure and the wrong remedy — and who paid for both with his office.
 
+
+## Sources
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VIII, "Achteruitgang onder de Civiele Gouverneurs Pruijs van der Hoeven en Laging Tobias, van April 1881 tot September 1884." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 43–45.
+
 ## See Also
 
 - [[Phrasen en Feiten (Laging Tobias)]]
@@ -82,6 +109,33 @@ Laging Tobias's significance in the [[Aceh Wiki History]] record rests on three 
 - [[1884]]
 - [[1885]]
 - [[1886]]
+- [[Civil Government Period (1881-1884)]]
+- [[Pruijs van der Hoeven]]
+- [[Nisero affair]]
+- [[Nisero]]
+- [[Tenom]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Staten-Generaal]]
+- [[s Jacob]]
+- [[Van Rees]]
+- [[Sultan of Aceh]]
+- [[Restoration of the Sultanate]]
+- [[General van Teijn]]
+- [[C. Snouck Hurgronje]]
+- [[Groot-Atjeh]]
+- [[Westkust]]
+- [[Gouverneur van Atjeh en Onderhoorigheden]]
+- [[Atjeh-oorlog]]
+- [[August 1883]]
+- [[November 1883]]
+- [[March 1883]]
+- [[May 1883]]
+- [[March 1884]]
+- [[16 June]]
+- [[17 June]]
+- [[June 1884]]
+- [[September 1884]]
+- [[1882]]
 
 ## Source
 

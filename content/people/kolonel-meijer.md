@@ -1,7 +1,20 @@
 ---
-title: "Colonel Meijer"
-aliases: ["Meijer", "overste Meijer", "kolonel Meijer"]
-tags: [person, dutch, colonial, military, colonel, aceh-war, 1876]
+title: Colonel Meijer
+aliases:
+- Meijer
+- overste Meijer
+- kolonel Meijer
+- Lieutenant Colonel Meijer
+- Luitenant-Kolonel Meijer
+tags:
+- person
+- dutch
+- colonial
+- military
+- colonel
+- aceh-war
+- 1876
+- commander
 ---
 
 **Colonel Meijer** was a Dutch *overste* (colonel) of the [[Indische Leger|Indische leger]] who, in early March [[1876]], marched with a *colonne* from [[Kota Radja]] to relieve the besieged posts of [[Pager Ajer]] and [[Kajoe Leh]] — whose communication with the [[Longbatta-Mesigit]] had been *verbroken* by the enemy — and stormed the strong *benteng* at [[Lambaroe]], which the Atjehneezen defended at a cost of more than seventy dead.
@@ -13,6 +26,10 @@ After [[Generaal Pel|Pel]]'s [[Death of Generaal Pel (24 February 1876)|sudden d
 ## Significance
 
 Meijer's *colonne* restored the eastern face of Pel's projected *linie* at the moment when the death of the *bevelhebber* and the imminent arrival of [[Generaal Wiggers van Kerchem|generaal Wiggers van Kerchem]] (who would take command on [[10 March]] [[1876]]) threatened to undo the conquests of the [[XXV Moekims]]. The storming of Lambaroe — at a cost of more than seventy enemy dead for five Dutch dead — is, in [[G. F. W. Borel|Borel]]'s narrative, a last flourish of the *aanvallende* system before Wiggers reverted to the *afwachtende houding*. The forty-one Dutch wounded, including five officers, testify to the *hevigen tegenstand* the *benteng* offered; the cost was *betrekkelijk* light for the strategic gain, since the post of Lambaroe secured the south-eastern link between Pager Ajer and the Longbatta-Mesigit. Meijer's name closes the roster of *colonne-commandanten* who, under Pel's *leiding*, had conquered the [[IV Moekims]], [[VI Moekims]], [[IX Moekims]], [[XXV Moekims]] and the western end of the *linie* at [[Loenga]] on the [[Kroeng Raba]].
+
+
+## Sources
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-15.
 
 ## See Also
 
@@ -27,6 +44,11 @@ Meijer's *colonne* restored the eastern face of Pel's projected *linie* at the m
 - [[Generaal Wiggers van Kerchem]]
 - [[Benteng]]
 - [[1876]]
+- [[J. L. J. H. Pel]]
+- [[Crossing of Blankala Pass]]
+- [[3rd Infantry Battalion]]
+- [[Marine Corps in Aceh]]
+- [[IV Moekims]]
 
 ## Source
 

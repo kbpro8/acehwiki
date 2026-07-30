@@ -1,7 +1,30 @@
 ---
-title: "Overste Scheepens"
-aliases: ["Scheepens", "Toean Scheepens", "Lieutenant-Colonel Scheepens", "Marechaussee Commander Scheepens", "W. B. J. A. Scheepens", "Luitenant-kolonel Scheepens", "Majoor Scheepens"]
-tags: [person, officer, dutch, knil, marechaussee, aceh, military, pidie, aceh-war, murdered, 20th-century]
+title: Overste Scheepens
+aliases:
+- Scheepens
+- Toean Scheepens
+- Lieutenant-Colonel Scheepens
+- Marechaussee Commander Scheepens
+- W. B. J. A. Scheepens
+- Luitenant-kolonel Scheepens
+- Majoor Scheepens
+- Kolonel Scheepens
+- Kapitein Scheepens
+tags:
+- person
+- officer
+- dutch
+- knil
+- marechaussee
+- aceh
+- military
+- pidie
+- aceh-war
+- murdered
+- 20th-century
+- colonel
+- peutjoet
+- sigli
 ---
 
 **Overste Scheepens** — *Toean Scheepens* in the Acehnese idiom of the old hunter [[Datoek]] — was a Dutch *overste* (colonel) of the [[K.N.I.L.]] and a Marechaussee commander of the [[Korps Marechaussee van Atjeh en Onderhorigen]] in [[Atjeh|Aceh]]. He appears in two distinct roles in the sources: as one of the great patrol commanders of the war, sixth-named in [[Musket]]'s list of the Marechaussee commanders in *[[Oost-Indisch Journael]]*; and as the *overste* wounded by an Acehnese during a *rechtzitting* (court session) in [[1913]] who died of his wounds twenty years later in [[1933]], as recorded in *[[Oom Ambon van het K.N.I.L.]]*.
@@ -82,6 +105,10 @@ The murder of Scheepens was, in du Croo's account, the deepest personal blow of 
 
 The case remained the classic Dutch illustration of how even an Acehnese *landschapshoofd* could be driven to such a murder by the collision of *adat* honour with colonial criminal law.
 
+
+## Sources
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -116,6 +143,18 @@ The case remained the classic Dutch illustration of how even an Acehnese *landsc
 - [[Pidië]]
 - [[Peutjoet]]
 - [[Pang Bintang]]
+- [[Mary Ware]]
+- [[G.C.E. van Daalen|Van Daalen]]
+- [[Gajoetocht (1904)]]
+- [[Scheepens murder (1913)]]
+- [[Uleebalang]]
+- [[Adat]]
+- [[Rentjong]]
+- [[Klewang]]
+- [[Atjehtram]]
+- [[1904]]
+- [[Queen Wilhelmina]]
+- [[Aceh War]]
 
 ## Source
 

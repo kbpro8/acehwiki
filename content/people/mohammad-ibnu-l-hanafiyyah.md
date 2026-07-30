@@ -1,8 +1,16 @@
 ---
-
-title: "Mohammad ibnu'l Hanafiyyah"
-aliases: [Muhammad ibn al-Hanafiyya, Mohammad ibn al-Hanafiyyah, Muhammad ibn al-Hanafiyyah, son of Ali]
-tags: [person, religious-figure, historical, islamic, legendary]
+title: Mohammad ibnu'l Hanafiyyah
+aliases:
+- Muhammad ibn al-Hanafiyya
+- Mohammad ibn al-Hanafiyyah
+- Muhammad ibn al-Hanafiyyah
+- son of Ali
+tags:
+- person
+- religious-figure
+- historical
+- islamic
+- legendary
 ---
 
 **Mohammad ibnu'l Hanafiyyah** (Arabic **Muhammad ibn al-Hanafiyya**) was a son of [[Ali]] (the cousin and son-in-law of the [[Prophet Muhammad|Prophet]]) by his wife al-Hanafiyya, and is mentioned in Vol. I of *The Achehnese* as one of the heroes of the popular Islamic romances current in the Eastern Archipelago. He is cited by [[C. Snouck Hurgronje|Snouck Hurgronje]] in the course of his argument about the Indian — and especially Deccanese — origin of much of the popular religious literature of the Malay-Indonesian world.

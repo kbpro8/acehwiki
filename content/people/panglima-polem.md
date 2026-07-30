@@ -1,7 +1,61 @@
 ---
-title: "Panglima Polem"
-aliases: ["Lord Elder Brother", "Panglima Polam", "Panglima Polem II", "Panglima Polem XXII", "Panglima Polem of the XXII Mukims", "Panglima Polem the elder", "Panglima Polim", "Panglima Polim (Acehnese leader)", "Panglima Prang Polim", "Po-lem", "Polem", "Polim", "Teukoe Moehamat Dawöt", "Teukoe Panglima Polém Moehamad Ali", "Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed", "Teukoe Panglima Pólém", "Teuku Panglima Polem", "last Panglima Polem", "sagi-head of XXII Moekim's", "sagihoofd XXII moekims"]
-tags: [person, 19th-century, 20th-century, aceh-war, acehnese, achehnese, achehnese-war, colonial, commander, hereditary, lineage, nobility, oelèëbalang, panglima-sagi, resistance, sagi, sagi-chief, title, uleebalang, xxii-mukims]
+title: Panglima Polem
+aliases:
+- Lord Elder Brother
+- Panglima Polam
+- Panglima Polem II
+- Panglima Polem XXII
+- Panglima Polem of the XXII Mukims
+- Panglima Polem the elder
+- Panglima Polim
+- Panglima Polim (Acehnese leader)
+- Panglima Prang Polim
+- Po-lem
+- Polem
+- Polim
+- Teukoe Moehamat Dawöt
+- Teukoe Panglima Polém Moehamad Ali
+- Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed
+- Teukoe Panglima Pólém
+- Teuku Panglima Polem
+- last Panglima Polem
+- sagi-head of XXII Moekim's
+- sagihoofd XXII moekims
+- Seri Madoe Perkasa Teukoe Panglima Polem
+- Sri Muda Perkasa Teuku Panglima Polim
+- Panglima Palim
+- Panglima Polem IX
+- P. Polim
+- Teukoe Panglima Pólém Moehamad Ali
+- Panglima Polém Moehamad Ali
+- Moehamad Ali of the Polém
+tags:
+- person
+- 19th-century
+- 20th-century
+- aceh-war
+- acehnese
+- achehnese
+- achehnese-war
+- colonial
+- commander
+- hereditary
+- lineage
+- nobility
+- oelèëbalang
+- panglima-sagi
+- resistance
+- sagi
+- sagi-chief
+- title
+- uleebalang
+- xxii-mukims
+- panglima
+- oeleebalang
+- aceh
+- xxii-moekims
+- military
+- sultanate
 ---
 
 > **Note on nomenclature.** The hereditary office discussed here is variously spelt in the sources as *Panglima Polem*, *Panglima Polim*, and (when referring to the Sultan's wartime commander) *Panglima Prang Polim*. The Dutch colonial records transliterate it as *Panglima Pólém* or *Panglima Polém*. All forms denote the same title and the same lineage of bearers. Several distinct historical persons held the office; the article treats the title and lineage as a single entity, with separate sections for each prominent bearer whose career is documented in the sources.
@@ -224,6 +278,17 @@ In early February [[1874]], false rumors circulated in [[Batavia]] that [[Pangli
 
 Throughout [[1875]] and [[1876]], [[Panglima Polem]] commanded Acehnese forces against General [[J. L. J. H. Pel]] during [[General Pel's Campaign in Aceh]]. In February [[1876]], during the [[March through the XXII Moekims]], Dutch columns invaded his homeland. Despite heavy losses of sawahs and granaries ([[Sawah Cultivation and Supply in Aceh]]), [[Panglima Polem]] successfully preserved his guerrilla army in the interior.
 
+
+## Sources
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 59, 82, 138, 143.
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI, Chapter X, Chapter XI. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 28, 56, 58.
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I, § 3.
+---
+**Teukoe Panglima Polém Moehamad Ali** was the [[Panglima Sagi|Panglima Sagi]] of the [[XXII Mukims|XXII Mukims]] of [[Groot-Atjèh|Great Atjèh]] from [[1940]]/[[1941|41]] — succeeding his father, the old [[Teukoe Panglima Polém|Teukoe Panglima Polém]] Sri Moeda Perkasa Moehamad Daoed, "one of the great figures of the [[Atjèh War|Aceh War]]" — whose assumption of the sagi headship marked the entry of the new generation into the leadership of the religious-political struggle against the Dutch and whose role in the insurgency of early [[1942]] would prove, in Piekaar's reading, to be the dominant one among the younger generation of *oelèëbalang*'s.
+
 ## See Also
 
 - [[1855]]
@@ -345,6 +410,41 @@ Throughout [[1875]] and [[1876]], [[Panglima Polem]] commanded Acehnese forces a
 - [[XXVI Moekims campaign (1879)]]
 - [[XXVI Mukims]]
 - [[kawom-dja-sandang]]
+- [[Tiro-oelama]]
+- [[Tengkoe Majet di Tiro]]
+- [[Tengkoe Tjot Plieëng]]
+- [[Brief van 18 Radjab 1325]]
+- [[Habib Teupin Wan]]
+- [[Tengkoe di Boekit]]
+- [[H.N.A. Swart|Swart]]
+- [[Schmidt]]
+- [[Colijn]]
+- [[Lho Seumawé]]
+- [[Koetaradja]]
+- [[Teuku Umar]]
+- [[Battle of Senelop (17 April 1896)]]
+- [[Senelop]]
+- [[Teungkoe di Tiro]]
+- [[Teungkoe Sjech Tjot Poetoe]]
+- [[Lampisang]]
+- [[Lam Bada]]
+- [[Kafi / Kafir]]
+- [[Panglima Prang Besar]]
+- [[Kraton of Koeta Radja]]
+- [[Lepong]]
+- [[1873]]
+- [[1893]]
+- [[1907]]
+- [Teukoe Panglima Polém]
+- [Panglima Sagi]
+- [XXII Mukims]
+- [Groot-Atjèh]
+- [Poesa]
+- [Atjèh War]
+- [1940]
+- [1941]
+- [1942]
+- [Hari raja puasa]
 
 ## Source
 

@@ -1,8 +1,40 @@
 ---
 title: Jan van Swieten
-aliases: ["Van Swieten", "J. van Swieten", "Jan van Swieten", "General Van Swieten", "Generaal Van Swieten", "Generaal van Swieten", "de Generaal van Swieten", "Lieutenant-general Van Swieten", "Lieutenant-colonel Van Swieten", "General", "Conqueror of the Acehnese Van Swieten", "war-hero Van Swieten", "grijzen veldheer en staatsman", "Van Swieten (Atjeh)", "Jan van Swieten commander Second Aceh Expedition", "generaal Van Swieten", "Van Swieten (Atjeh commander)"]
-tags: [person, general, dutch, military, colonial, knil, aceh-war, bali-expedition, 19th-century, infantry, achehnese, acheh, atjeh, governor]
-description: "Dutch lieutenant-general (1807–1888) who commanded the Second Aceh Expedition of 1873–1874, presided over the capture of the Kraton and the proclamation of annexation of Groot-Atjeh, and earlier in his career negotiated the Treaty of 30 March 1857 with the Sultan of Aceh and took command of the third Bali expedition of 1849."
+aliases:
+- Van Swieten
+- J. van Swieten
+- General Van Swieten
+- Generaal Van Swieten
+- de Generaal van Swieten
+- Lieutenant-general Van Swieten
+- Lieutenant-colonel Van Swieten
+- General
+- Conqueror of the Acehnese Van Swieten
+- war-hero Van Swieten
+- grijzen veldheer en staatsman
+- Van Swieten (Atjeh)
+- Jan van Swieten commander Second Aceh Expedition
+- Van Swieten (Atjeh commander)
+tags:
+- person
+- general
+- dutch
+- military
+- colonial
+- knil
+- aceh-war
+- bali-expedition
+- 19th-century
+- infantry
+- achehnese
+- acheh
+- atjeh
+- governor
+- commander
+description: Dutch lieutenant-general (1807–1888) who commanded the Second Aceh Expedition
+  of 1873–1874, presided over the capture of the Kraton and the proclamation of annexation
+  of Groot-Atjeh, and earlier in his career negotiated the Treaty of 30 March 1857
+  with the Sultan of Aceh and took command of the third Bali expedition of 1849.
 ---
 
 **Jan van Swieten** ([[1807]]–[[1888]]) — known in Dutch as *Generaal Van Swieten* and styled by his contemporaries the "conqueror of the Acehnese" and the "grey war-hero" — was a Dutch lieutenant-general of the [[Royal Netherlands East Indies Army|Indies army]] who, after a long career that took him from the [[1849]] [[Bali Expedition|third Bali expedition]] through the governorship of [[Sumatra's Westkust|Sumatra's Westkust]] and the negotiation of the [[Treaty of 30 March 1857 with the Sultan of Aceh|Treaty of 30 March 1857 with the Sultan of Atjeh]], was restored to active service in [[1873]] to command the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] of November [[1873]]–January [[1874]]. He presided over the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[1874]] and issued the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] on [[31 January]] [[1874]], before returning to the Netherlands in April of that year. He is the principal Dutch commander of the triumph phase of the [[Aceh War|Atjeh-oorlog]] in the colonial school readers and the staff histories, and the figure through whom Merac's *[[Oost-Indisch Journael]]* ([[1947]]) narrates the colonial state's religious politics in [[Atjeh|Aceh]].
@@ -189,6 +221,10 @@ The source's verdict on [[General Van Swieten|Van Swieten]]'s achievement is dir
 - [[26 May]]
 - [[30 April]]
 - [[1875]]
+- [[Treaty of 1857 between Netherlands and Aceh]]
+- [[Second Aceh Expedition]]
+- [[General van Swieten War Telegrams]]
+- [[Open Letter by Brutus to General Knoop]]
 
 ## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
 
@@ -217,6 +253,7 @@ On [[16 April]] [[1874]] a Dutch column was repulsed before an enemy fortificati
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 216-217.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 6–8, 10–14, 16, 22–26. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 14-15; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 5-76.
 
 ## Account from *Onze vestiging in Atjeh* (Borel, 1878)
 

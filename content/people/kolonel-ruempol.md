@@ -1,7 +1,23 @@
 ---
-title: "Colonel Ruempol"
-aliases: ["Ruempol", "overste Ruempol", "kolonel Ruempol"]
-tags: [person, dutch, colonial, military, colonel, aceh-war, 1874, 1875]
+title: Colonel Ruempol
+aliases:
+- Ruempol
+- overste Ruempol
+- kolonel Ruempol
+- M. C. E. Ruempol
+- Luitenant-Kolonel Ruempol
+- M.C.E. Ruempol
+tags:
+- person
+- dutch
+- colonial
+- military
+- colonel
+- aceh-war
+- 1874
+- 1875
+- officer
+- infantry
 ---
 
 **Colonel Ruempol** was a Dutch *overste* (colonel) of the [[Indische Leger|Indische leger]] who commanded the column that took [[Kota Alam]] on [[13 November]] [[1874]] in the [[Conquest of Kota Alam (13 November 1874)|conquest of Kota Alam]] and the column that conquered [[Blang Tjoet]] on [[18 January]] [[1875]] in the [[Conquest of Blang Tjoet (18 January 1875)|conquest of Blang Tjoet]]. In [[G. F. W. Borel|Borel]]'s narrative he is one of [[Generaal Pel|Pel]]'s reliable column commanders, repeatedly entrusted with the consolidation of the eastern face of the *stelling-Pel*.
@@ -18,6 +34,14 @@ Three weeks after the [[Battle of Longbatta (31 December 1874)|battle of Longbat
 
 Ruempol's two columns together secured the eastern face of what would become the [[Stelling-Pel|stelling-Pel]]: Kota Alam sealed the bend of the Atjeh-rivier, and Blang Tjoet bridged the gap between the Mesigit and Pendetti. Both were *betrekkelijk* cheap victories, in Borel's reading, because Pel's combined-*colonne* tactics gave the Atjehneezen no time to mass their forces.
 
+
+## Sources
+Cornelis Jacobus Snijders ([[1852]]–[[1939]]): *Een leven in dienst van zijn Land en zijn Volk*, by D. van den Berg (Voorburg: September [[1944]]), pp. 10–35. Koninklijke Bibliotheek shelfmark 0301 4872.
+---
+
+
+**M. C. E. Ruempol** was a Dutch *Luitenant-Kolonel* of the infantry who, on [[13 November]] [[13 November]] [[1874]], commanded the column dispatched from [[Kota Radja|Kota Radja]] by the civil and military governor [[J. L. J. H. Pel|Kolonel Pel]] to construct the [[Kuta Alam|Benting Kota Alam]] fortification on the [[Acheh River|Atjeh River]] east of [[Kota Radja|Kota Radja]].
+
 ## See Also
 
 - [[Conquest of Kota Alam (13 November 1874)]]
@@ -31,6 +55,15 @@ Ruempol's two columns together secured the eastern face of what would become the
 - [[III Moekims]]
 - [[1874]]
 - [[1875]]
+- [[Cornelis Jacobus Snijders]]
+- [[W. J. C. Leers]]
+- [[T. J. A. van Zijll de Jong]]
+- [[J. L. J. H. Pel]]
+- [[Benting Kota Alam operation (13 November 1874)]]
+- [[Kuta Alam]]
+- [[Kota Radja]]
+- [[Acheh River]]
+- [[Aceh War]]
 
 ## Source
 

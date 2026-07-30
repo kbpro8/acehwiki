@@ -1,7 +1,25 @@
 ---
-title: "Lieutenant-Colonel Engel"
-aliases: ["Engel", "lt.-kol. Engel", "luitenant-kolonel Engel", "overste Engel"]
-tags: [person, dutch, colonial, military, lieutenant-colonel, aceh-war, 1875, 1876]
+title: Lieutenant-Colonel Engel
+aliases:
+- Engel
+- lt.-kol. Engel
+- luitenant-kolonel Engel
+- overste Engel
+- Colonel Engel
+- Lieutenant‑Colonel Engel
+tags:
+- person
+- dutch
+- colonial
+- military
+- lieutenant-colonel
+- aceh-war
+- 1875
+- 1876
+- colonel
+- commander
+- army
+- aceh
 ---
 
 **Lieutenant-Colonel Engel** was a Dutch *luitenant-kolonel* of the [[Indische Leger|Indische leger]] who commanded the column that advanced along the right bank of the [[Kroeng Daroe]] on [[26 December]] [[1875]] and occupied [[Pakan Badak]] on [[28 December]] [[1875]] in [[Generaal Pel|generaal Pel]]'s [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|great offensive against the VI, IV and IX Moekims]], who arrived at [[Lamjoeng]] with the 9de bataljon to reinforce the *ageerende troepen* before Pel's death, and who as the oldest *hoofdofficier* in Atjeh assumed *tijdelijk oppergezag* after [[Death of Generaal Pel (24 February 1876)|Pel's death at Lamjoeng]] on [[24 February]] [[1876]] and continued the march to [[Kwala Gigieng]], reached on [[26 February]] [[1876]].
@@ -18,6 +36,11 @@ Engel arrived at Lamjoeng with the 9de bataljon to reinforce the *ageerende troe
 
 Engel's assumption of command after Pel's death preserved the continuity of the offensive in its final, most critical days. His arrival at Kwala Gigieng closed the north-eastern end of Pel's projected *afsluitingslinie*, and the post on Kota Pohama sealed the Kroeng Tjoet mouth. He handed over to [[Generaal Wiggers van Kerchem|generaal Wiggers van Kerchem]] on [[10 March]] [[1876]], when the *linie* Kroeng Raba–Kwala Gigieng — the line whose closure had been Pel's secret plan — was at its furthest extent, and was then allowed by Wiggers to remain "nagenoeg onveranderd."
 
+
+## Sources
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-15.
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, p. 136.
+
 ## See Also
 
 - [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
@@ -33,6 +56,15 @@ Engel's assumption of command after Pel's death preserved the continuity of the 
 - [[Generaal Wiggers van Kerchem]]
 - [[1875]]
 - [[1876]]
+- [[8th Infantry Battalion]]
+- [[J. L. J. H. Pel]]
+- [[General Pel's Campaign in Aceh]]
+- [[Pekan Badak]]
+- [[J. L. J. H. Pel|General Pel]]
+- [[Beradin]]
+- [[IV Moekims]]
+- [[Dutch Army]]
+- [[Reconnaissance in Aceh]]
 
 ## Source
 

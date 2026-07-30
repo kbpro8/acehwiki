@@ -1,8 +1,18 @@
 ---
-
 title: Salawono
-aliases: [Sergeant Salawono, Ridder 3e klas Salawono, Salowono]
-tags: [person, marechaussee, ambonese, knil, mwo-ridder]
+aliases:
+- Sergeant Salawono
+- Ridder 3e klas Salawono
+- Salowono
+- Sergeant Salowono
+- Marechaussee Sergeant Salowono
+tags:
+- person
+- marechaussee
+- ambonese
+- knil
+- mwo-ridder
+- aceh
 ---
 
 **Salawono** was an Ambonese sergeant of the [[Korps Marechaussee van Atjeh en Onderhorigen|Royaal Nederlandsch-Indisch Leger's Marechaussee]] — a *Ridder derde klas* of the [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]] — who earned the *Eervolle Vermelding* and the *[[Medaille voor Moed en Trouw]]* at the Marechaussee korps, then the M.W.O. 4e klas at the [[Storming of Limboer (22 June 1903)|storming of Limboer]] in [[Djambi]] on [[22 June]] [[1903]] (where he was the first over the wall, alone, and held it with rifle fire until the wounded luitenant [[Van Hoogenhuyzen]] could rejoin), and the M.W.O. 3e klas on [[Celebes]] for the *Verovering van de Alla-stellingen (Celebes, 1905-1908)|verovering van de berucht Alla-stellingen]] and the overval on *[[Andi Noni]]*'s band. He is one of the four retired M.W.O.-ridders who acted as *slippendragers* at the [[Funeral of Dominee Thenu (11 May 1937)|funeral of Dominee Thenu]] in [[Koeta-Radja]].
@@ -27,6 +37,14 @@ When [[Dominee Thenu]] died on [[11 May]] [[1937]], the four slippendragers at h
 
 Salawono's significance in *[[Oom Ambon van het K.N.I.L.]]* is as the most fully-decorated of the book's named Ambonese soldiers, and as the type of the Marechaussee Ridder — the man whose career can be read through his decorations, from the *Eervolle Vermelding* and *Moed en Trouw* of the korps, through the 4e klas at Limboer, to the 3e klas on Celebes. His presence as a slippendrager at Thenu's funeral ties the decorated courage of the old Marechaussee to the moral gezag of the Soldaten-Dominee.
 
+
+## Sources
+*Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder
+---
+
+
+**Salowono** — also *Salawono* — was an Ambonese sergeant of the [[Korps Marechaussee van Atjeh en Onderhorigen]] in [[Atjeh|Aceh]], one of the sergeants of the war — the [[Atjeh-oorlog|Aceh War]]. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Salowono is the second-named of the sergeants in [[Musket]]'s list of the Marechaussee commanders: "Gilles Graafland, Van Daalen, Campioni, Christoffel, Van der Maaten, Scheepens, Watrin, Webb, Colijn, Geertsema Beckering, Darlang and the sergeants Nussy, Salowono, Pongoh … a colourful array."
+
 ## See Also
 
 - [[Storming of Limboer (22 June 1903)]]
@@ -41,6 +59,23 @@ Salawono's significance in *[[Oom Ambon van het K.N.I.L.]]* is as the most fully
 - [[Pattiasina]]
 - [[Kazen]]
 - [[Pattipuluhu]]
+- [[Oost-Indisch Journael]]
+- [[Musket]]
+- [[Nussy]]
+- [[Pongoh]]
+- [[Gilles Graafland]]
+- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
+- [[Campioni]]
+- [[Christoffel]]
+- [[Van der Maaten]]
+- [[Scheepens]]
+- [[G. F. B. Watrin|Watrin]]
+- [[Webb]]
+- [[Hendrikus Colijn|Colijn]]
+- [[Geertsema Beckering]]
+- [[Darlang]]
+- [[Korps Marechaussee van Atjeh en Onderhorigen]]
+- [Atjeh-oorlog](/events/atjeh-oorlog)
 
 ## Source
 

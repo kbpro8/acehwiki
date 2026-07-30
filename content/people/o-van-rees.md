@@ -1,8 +1,18 @@
 ---
-
 title: O. van Rees
-aliases: [Otto van Rees, Van Rees, Mr. O. van Rees]
-tags: [person, colonial, minister, dutch]
+aliases:
+- Otto van Rees
+- Van Rees
+- Mr. O. van Rees
+- Gouverneur-Generaal van Rees
+- Governor-General van Rees
+tags:
+- person
+- colonial
+- minister
+- dutch
+- governor-general
+- official
 ---
 **O. van Rees** was a Dutch colonial minister who served from [[March]] to [[August]] [[1879]], a brief but significant period in the [[Aceh War]] during Governor-General [[Johan Willem van Lansberge|J.W. van Lansberge]]'s administration. Born in [[1823]], he was a senior colonial official with extensive experience in the [[Dutch East Indies]], having served as Vice-President of the [[Council of the Indies]] from [[1873]] to [[1878]].
 
@@ -65,6 +75,10 @@ Van Rees' role in colonial history is often overshadowed by his more prominent p
 - [[Secret Instruction of 5 June 1855]]
 - [[1875]]
 - [[1879]]
+- [[Dutch East Indies Government]]
+- [[J. L. J. H. Pel]]
+- [[General Pel's Campaign in Aceh]]
+- [[Batavia]]
 
 ## Sources
 
@@ -73,6 +87,7 @@ Van Rees' role in colonial history is often overshadowed by his more prominent p
 ---
 
 **O. van Rees** was a Dutch colonial minister who served from [[March]] to [[August]] [[1879]], a brief but significant period in the [[Aceh War]] during Governor-General [[Johan Willem van Lansberge|J.W. van Lansberge]]'s administration. Born in [[1823]], he was a senior colonial official with extensive experience in the [[Dutch East Indies]], having served as Vice-President of the [[Council of the Indies]] from [[1873]] to [[1878]].
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-15, 45-50.
 
 ## Early Career
 

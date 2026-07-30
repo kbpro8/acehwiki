@@ -1,8 +1,21 @@
 ---
-
 title: M. J. de Goeje
-aliases: [Michael Jan de Goeje, M. J. de Goeje, de Goeje]
-tags: [person, scholar, orientalist, dutch]
+aliases:
+- Michael Jan de Goeje
+- de Goeje
+- Professor De Goeje
+- Michaël Jan de Goeje
+- De Goeje Leiden orientalist
+tags:
+- person
+- scholar
+- orientalist
+- dutch
+- 19th-century
+- snouck-hurgronje
+- leiden
+- teacher
+- mekka
 ---
 
 **M. J. de Goeje** (Michael Jan de Goeje, 1836–1909) was a distinguished Dutch Orientalist and professor of Arabic at [[Leyden]], whose name is cited by [[C. Snouck Hurgronje|Snouck Hurgronje]] in Vol. I of *The Achehnese* in connection with the comparative study of popular demonological beliefs.
@@ -13,6 +26,10 @@ The two citations in the same volume of the *ZDMG* — pp. 480 and 701 — show 
 
 De Goeje was one of the leading figures of that enterprise. As professor at Leyden and as a long-serving editor of the *ZDMG*, he played a central role in the institutional consolidation of Arabic and Islamic studies in the Netherlands, and trained or influenced a generation of scholars including Snouck Hurgronje himself. His collaboration with Nöldeke on questions of popular demonology is thus part of the broader intellectual genealogy of *The Achehnese* — a work that would have been impossible without the comparative scaffolding erected by the Leyden Orientalists and their German counterparts in the closing decades of the nineteenth century.
 
+
+## Sources
+*Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, pp. 5, 9.
+
 ## See Also
 
 - [[Th. Nöldeke]]
@@ -21,6 +38,18 @@ De Goeje was one of the leading figures of that enterprise. As professor at Leyd
 - [[Leyden]]
 - [[E. J. Brill]]
 - [[Acheh]]
+- [[Snouck Hurgronje's Mekka journey (1884-1885)]]
+- [[Mekka (Snouck Hurgronje)]]
+- [[Leiden University]]
+- [[Indische Instelling]]
+- [[Van der Lith]]
+- [[Nöldeke]]
+- [[24 November]]
+- [[21 February]]
+- [[1874]]
+- [[1880]]
+- [[1884]]
+- [[1885]]
 
 ## Source
 

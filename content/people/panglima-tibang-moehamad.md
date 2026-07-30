@@ -1,7 +1,31 @@
 ---
 title: Panglima Tibang Moehamad
-aliases: ["Panglima", "Tibang", "Moehamad", "the", "sjahbandar", "of", "Atjèh", "Atjèhnese", "envoy", "to", "Riouw", "Panglima Tibang", "the raadsman of the previous Sultan", "the Panglima who tried to poison Habib Abdurrahman"]
-tags: [person, atjehnese, diplomat, envoy, sjahbandar, 1872, 1873, atjeh-oorlog]
+aliases:
+- Panglima
+- Tibang
+- Moehamad
+- the
+- sjahbandar
+- of
+- Atjèh
+- Atjèhnese
+- envoy
+- to
+- Riouw
+- Panglima Tibang
+- the raadsman of the previous Sultan
+- the Panglima who tried to poison Habib Abdurrahman
+- the Hindu
+tags:
+- person
+- atjehnese
+- diplomat
+- envoy
+- sjahbandar
+- 1872
+- 1873
+- atjeh-oorlog
+- warrior
 ---
 
 **Panglima Tibang Moehamad** — in [[J. Kreemer|Kreemer]]'s history, the *sjahbandar* (harbourmaster) of [[Acheh|Atjèh]] — was the principal envoy of the Atjèhnese embassy sent to the resident of [[Riouw|Riouw]] in late [[1872]] or early [[1873]], bearing a letter from the [[Sultan of Atjeh|Sultan]] requesting the postponement of the announced Dutch visit to Atjèh. The embassy — consisting of Tibang Moehamad and four [[uleebalang|oelèëbalangs]] — is, in Kreemer's narrative, a key episode in the diplomatic prelude to the [[Aceh War|Atjèh-oorlog]].
@@ -24,6 +48,14 @@ The Indische Regeering granted the postponement. While the Atjèhnese envoys wer
 
 The Tibang Moehamad embassy is, in Kreemer's narrative, the last Atjèhnese diplomatic initiative before the war. The Sultan's letter — with its revelation that he had written to the [[Sultan of Turkey|Sultan of Turkey]] seeking help against the Dutch — convinced the Indische Regeering that further negotiation was pointless, and led directly to the dispatch of [[F. N. Nieuwenhuyzen|F. N. Nieuwenhuyzen]] as Regeeringscommissaris and the [[Declaration of war on Atjèh (26 March 1873)|declaration of war]] of [[26 March]] [[1873]].
 
+
+## Sources
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+---
+
+
+A historical figure of apparent Hindu origin who appears in the Hikayat Prang Gompeuni as a traitor whose capture by the Dutch and surrender of a royal-sealed parchment and flag gave the Dutch "false tokens" they used to claim possession of the Acehnese kingdom. He served the Dutch faithfully thereafter, earning lasting Acehnese hatred, and the poet attributes much of the country's fall to him.
+
 ## See Also
 
 - [[Acheh]]
@@ -38,7 +70,7 @@ The Tibang Moehamad embassy is, in Kreemer's narrative, the last Atjèhnese dipl
 - [[Sultan of Turkey]]
 - [[1872]]
 - [[1873]]
-
+- [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 
 ## Earlier role: court counsellor and opponent of Habib Abdurrahman
 

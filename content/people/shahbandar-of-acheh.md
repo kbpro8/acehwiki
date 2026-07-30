@@ -1,8 +1,39 @@
 ---
-
 title: Shahbandar of Acheh
-aliases: [Sjahbandar, Shahbandar]
-tags: [person, achehnese]
+aliases:
+- Sjahbandar
+- Shahbandar
+- Sabander
+- Sabandar
+- Shahbandar (port official)
+- Sabander of Atjeh
+- Sabander of Pedir
+- Sabandaar
+- Syahbandar
+- Sabandaar (harbor-master)
+- havenmeester van Atjeh
+- Sjabandar
+- Harbor Master of Atjeh
+- harbour master
+- shah-bandar
+tags:
+- person
+- achehnese
+- concept
+- malay
+- atjeh
+- port
+- trade
+- precolonial
+- colonial
+- 16th-century
+- 17th-century
+- office
+- atjehnese
+- acehnese
+- colonial-administration
+- administrative
+- sultanate
 ---
 
 The **Shahbandar of Acheh** (also written *Sjahbandar*) was the harbour master of [[Acheh]] — the chief port official of the Achehnese capital, and the customary channel of communication between foreign merchants and the Achehnese chiefs. In the confused politics of the [[Acheh succession dispute (1802-1819)|Acheh succession dispute]] he played a double role: as the official intermediary of the [[Three Sagis]] he was the person to whom the [[Raffles-Coombs Acheh Commission (1819)|Raffles–Coombs Commission]] of [[1819]] was told to address itself, and he was also the assassin of [[Tunku Pakih]], the powerful chief of [[Pedir]] and protector of [[Sultan Jauhar Alum]].
@@ -25,6 +56,14 @@ The [[Death of Tunku Pakih|death of Tunku Pakih]] removed at a stroke the princi
 
 The Shahbandar's double role — official intermediary and factional assassin — captures the character of Achehnese politics in 1819: the formal port-officials of the sultanate had become instruments of the [[Three Sagis]] and of [[Panglima Polem|Panglima Polim]], who together treated both rival sultans as mere tools. The Shahbandar's mission to Pedir was one of the immediate preliminaries to the [[Treaty of Pedir (1819)|Acheh treaty of 1819]], and his murder of [[Tunku Pakih]] one of the decisive local events that made the treaty possible.
 
+
+## Sources
+*Coen, Koopman van Heeren Zeventien. Geschiedenis van den Hollandshen Handel in Indië (1598-1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. De Boer Jr., 1948), Hoofdstuk V "Voorgangers, Hollanders en mededingers tot 1614. Atjeh. Djohor. Malaka." (pp. 111-114).
+*Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter XI ("Atjehsche ambassade. Inlandsche feesten. Maagden als losprijs"), pp. 39–43 of the numbered-letter sequence.
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 9-11, 104.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]].
+Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
 ## See Also
 
 - [[Sultan Jauhar Alum]]
@@ -37,6 +76,33 @@ The Shahbandar's double role — official intermediary and factional assassin �
 - [[Capture of British brig by Tunku Pakih]]
 - [[Death of Tunku Pakih]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
+- [[Acheh]]
+- [[Sultan of Atjeh (1589-1604)]]
+- [[Paulus van Caerden]]
+- [[Paulus van Caerden's Atjeh visit (1600-1601)]]
+- [[Frederik de Houtman]]
+- [[Frederik de Houtman's Atjeh captivity (1599-1601)]]
+- [[Pedir]]
+- [[1600]]
+- [[1601]]
+- [[Pieter Soury's mission to Atjeh (1641)]]
+- [[Atjehsche ambassade ceremony (1 July 1641)]]
+- [[Atjeh-rivier]]
+- [[Sultana of Atjeh (1641)]]
+- [[Eunuchs of Atjeh court]]
+- [[Dutch lodge at Atjeh]]
+- [[Tjap (passport)]]
+- [[Panglima Tiban Mohammed]]
+- [[Habib Abdoerrahman]]
+- [[Sultan of Aceh]]
+- [[Riouw]]
+- [[XXII Moekims]]
+- [[Aceh War]]
+- [[Aceh Sultanate]]
+- [[Banda-Atjèh]]
+- [[Kawaj XVI]]
+- [[Pö Rachman]]
+- [[Sarakata]]
 
 ## Source
 

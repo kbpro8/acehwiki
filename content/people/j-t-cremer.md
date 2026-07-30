@@ -1,7 +1,23 @@
 ---
-title: "J. T. Cremer"
-aliases: ["J. T. Cremer", "J.T. Cremer", "Cremer", "Jan Theodore Cremer"]
-tags: [person, dutch, colonial, agriculture, east-sumatra]
+title: J. T. Cremer
+aliases:
+- J.T. Cremer
+- Cremer
+- Jan Theodore Cremer
+- Jacob Theodoor Cremer
+- minister Cremer
+- Cremer (liberal minister of Colonies)
+tags:
+- person
+- dutch
+- colonial
+- agriculture
+- east-sumatra
+- politician
+- acheh
+- liberal
+- minister
+- mining
 ---
 
 **J. T. Cremer** was the organising genius of the tobacco-planting era on [[Gouvernement Oostkust van Sumatra|Sumatra's East Coast]] in the [[1870s]] and early [[1880s]], founder of the [[Deli Planters Vereeniging]] and the principal driver of the [[Deli Maatschappij]]'s growth from a modest initial enterprise to the largest plantation company in the [[Dutch East Indies]]. He repatriated to the Netherlands in [[1883]], but his administrative, organisational, and institutional legacy shaped the East Coast's development for the remainder of the colonial period.
@@ -115,6 +131,27 @@ On [[17 November]] he returned to place on record the [[Verklaringen van de kust
 - [[1874]]
 - [[1879]]
 - [[1883]]
+- [[Mijnwet]]
+- [[Mijnwet art. 5a (1910)]]
+- [[Indische Comptabiliteitswet amendment (26 June 1903)]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[Toekoe Oemar's defection (1896)]]
+- [[Pacificatie van Atjeh]]
+- [[Batig Slot]]
+- [[Ereschuld]]
+- [[Rutgers van Rozenburg]]
+- [[Lohman (De Savornin Lohman)]]
+- [[H. B. van Kol]]
+- [[Pijnacker Hordijk]]
+- [[A. W. F. Idenburg]]
+- [[Billiton Maatschappij]]
+- [[Koninklijke Petroleum Maatschappij]]
+- [[Perlak Petroleum Maatschappij]]
+- [[1896]]
+- [[1899]]
+- [[1902]]
+- [[1903]]
+- [[1910]]
 
 ## Sources
 
@@ -123,3 +160,4 @@ On [[17 November]] he returned to place on record the [[Verklaringen van de kust
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 45–60, 79–80.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 270, 284-285, 305-306.
