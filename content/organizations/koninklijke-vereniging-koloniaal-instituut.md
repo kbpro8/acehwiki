@@ -1,8 +1,60 @@
 ---
 title: Koninklijke Vereeniging Koloniaal Instituut
-aliases: ["Koninklijke Vereeniging Koloniaal Instituut", "Koninklijke Vereniging Indisch Instituut", "Koninklijk Koloniaal Instituut", "Koninklijk Indisch Instituut", "Koloniaal Instituut Amsterdam", "K.I.", "Kon. Vereeniging Koloniaal Instituut", "the Amsterdam Colonial Institute", "Royal Colonial Institute Amsterdam", "Royal Association Colonial Institute", "Koloniaal Instituut Afd. Volkenkunde", "Afdeeling Volkenkunde van het Indisch Instituut", "Koninklijke Vereeniging Indisch Instituut", "Royal Tropical Institute predecessor"]
-tags: [organization, institution, dutch, colonial, ethnography, ethnology, amsterdam, publishing]
-description: "Amsterdam-based Dutch colonial-ethnographic institute; founded as the Koloniaal Instituut, reorganised after Indonesian independence as the Indisch Instituut, and the predecessor of the Royal Tropical Institute."
+aliases:
+- Koninklijke Vereniging Indisch Instituut
+- Koninklijk Koloniaal Instituut
+- Koninklijk Indisch Instituut
+- Koloniaal Instituut Amsterdam
+- K.I.
+- Kon. Vereeniging Koloniaal Instituut
+- the Amsterdam Colonial Institute
+- Royal Colonial Institute Amsterdam
+- Royal Association Colonial Institute
+- Koloniaal Instituut Afd. Volkenkunde
+- Afdeeling Volkenkunde van het Indisch Instituut
+- Koninklijke Vereeniging Indisch Instituut
+- Royal Tropical Institute predecessor
+- Kon. Ver. Koloniaal Instituut
+- Royal Colonial Institute (Amsterdam)
+- Koloniaal Instituut
+- Colonial Institute Amsterdam
+- Royal Colonial Institute
+- Koninklijk Instituut voor de Tropen
+- Royal Tropical Institute
+- KIT
+- Koninklijk Instituut voor de Tropen Amsterdam
+- KIT Amsterdam
+- Bureau Cursussen en Vertalingen
+- Het Koloniaal Instituut
+- Amsterdamsch Koloniaal Instituut
+tags:
+- organization
+- institution
+- dutch
+- colonial
+- ethnography
+- ethnology
+- amsterdam
+- publishing
+- colonial-institute
+- research-institution
+- 20th-century
+- science
+- aceh
+- terpentijn
+- scientific
+- koloniaal-instituut
+- research
+- berichten
+- handelsmuseum
+- post-colonial
+- koninklijk-instituut-voor-de-tropen
+- scholarly-institution
+- 19th-century
+- kruijt-1896-publisher
+description: Amsterdam-based Dutch colonial-ethnographic institute; founded as the
+  Koloniaal Instituut, reorganised after Indonesian independence as the Indisch Instituut,
+  and the predecessor of the Royal Tropical Institute.
 ---
 
 **The Koninklijke Vereeniging Koloniaal Instituut** — the Royal Association "Colonial Institute" — was the Amsterdam-based Dutch colonial-ethnographic institute that served, throughout the late colonial period, as the principal metropolitan centre for the scholarly and commercial study of the [[Netherlands Indies|Netherlands Indies]]. Established in [[Amsterdam|Amsterdam]] as a private association — *Vereeniging* — with royal patronage (*Koninklijke*), the institute was reorganised after Indonesian independence as the **Koninklijke Vereniging "Indisch Instituut"** (Royal Society "Indies Institute"), under which name it issued its post-war series of *Mededeelingen* (Communications). Through its Ethnography Department — the *Afdeeling Volkenkunde* — and its publishing programme, the institute was, in both its pre- and post-reorganisation phases, one of the principal metropolitan venues for the comparative ethnology of the archipelago, including the comparative ethnology of Islam in [[Java|Java]] and [[Aceh|Atjeh]].
@@ -51,6 +103,12 @@ The institute's institutional continuity — through the Japanese occupation, th
 
 The Koninklijke Vereeniging Koloniaal Instituut / Indisch Instituut of Amsterdam is a distinct institution from the [[Koninklijke Vereeniging Koloniaal Instituut|Koninklijke Vereeniging Koloniaal Instituut]] (KITLV) of [['s-Gravenhage|The Hague]], which was founded in [[1851]] as a learned society for the philology, geography, and ethnology of the Netherlands Indies and is treated in a separate AcehWiki entry. The two institutions are often confused in popular usage but were independent foundations in different cities with different publication programmes (the *Mededeelingen* of the Amsterdam institute, the *Bijdragen tot de Taal-, Land- en Volkenkunde* of the KITLV).
 
+
+## Sources
+*Atjeh Patchouli-Olie*, by Ir. W. Spoon. Berichten van de Afdeeling Handelsmuseum van de Kon. Vereeniging Koloniaal Instituut, No. 71. Overgedrukt uit *De Indische Mercuur* van [[20 July]] [[1932]]. Amsterdam: Druk J. H. de Bussy. List of Berichten on the inside covers.
+*De staatkundige ontwikkeling van Indonesië in de 20e eeuw*, uitgave van het Bureau Cursussen en Vertalingen van het Koninklijk Instituut voor de Tropen (Amsterdam: Koninklijk Instituut voor de Tropen). Title page and imprint.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Title page. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 5.
+
 ## See Also
 
 - [[Indonesische Kunstnijverheid (Bezemer 1933)]]
@@ -77,6 +135,43 @@ The Koninklijke Vereeniging Koloniaal Instituut / Indisch Instituut of Amsterdam
 - [[Amsterdam]]
 - [[1933]]
 - [[1947]]
+- [['s Lands Caoutchouchedrijf]]
+- [[1925]]
+- [[1926]]
+- [[1930]]
+- [[1932]]
+- [[Afdeeling Handelsmuseum]]
+- [[Atjeh Patchouli-Olie (1932)]]
+- [[Atjeh-terpentijn]]
+- [[Atjeh-terpentijn (Spoor, 1930)]]
+- [[Baleq]]
+- [[Circulaire of 5 May 1930 to the V.V.V.F.]]
+- [[Colophonium]]
+- [[D. B. Spoelstra]]
+- [[Dienst van het Boschwezen]]
+- [[Hoofdcommissie voor de Normalisatie in Nederland]]
+- [[Ir. W. Spoon]]
+- [[L. P. de Bussy]]
+- [[M. A. van Royen]]
+- [[Nederlandsche Handel-Maatschappij]]
+- [[Patchouli-olie industry in Atjeh]]
+- [[Pinus Merkusii]]
+- [[Quarre]]
+- [[Tapa Toean]]
+- [[Vereeniging van Vernis- en Verffabrikanten en -Handelaren in Nederland]]
+- [[W. Spoon]]
+- [[De staatkundige ontwikkeling van Indonesië in de 20e eeuw]]
+- [[Atjèh's accession to the Negara Islam Indonesia (1953)]]
+- [[Negara Islam Indonesia]]
+- [[Koninklijke Vereeniging Koloniaal Instituut|Koninklijke Vereniging "Indisch Instituut"]]
+- [[Acheh]]
+- [[Boekerij van het Koloniaal Instituut]]
+- [[De Atjeh-Oorlog (Kruijt, 1896)]]
+- [[J. A. Kruijt]]
+- [[Loman & Funke]]
+- [[Atjeh-oorlog]]
+- [[Defection of Teuku Umar (March 1896)]]
+- [[1896]]
 
 ## Source
 

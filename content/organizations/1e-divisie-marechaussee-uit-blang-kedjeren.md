@@ -1,8 +1,39 @@
 ---
 title: 1e Divisie Marechaussee uit Blang Kedjeren
-aliases: [1e Divisie Marechaussee, 1ste Divisie Marechaussee, 1ste Divisie Maréchaussee, Eerste Divisie Marechaussee, Eerste Divisie Maréchaussee, Iste Divisie Maréchaussee, 1st Division Maréchaussee, Blang Kedjeren division]
-tags: [organization, military-unit, knil, marechaussee, aceh, blang-kedjeren, dutch, colonial, 20th-century, world-war-ii, oom-ambon, gajo-alas]
-description: "The Blang Kedjeren- and central-Atjeh-oriented division of the Korps Marechaussee van Atjeh en Onderhorigen, the formation whose eight brigades at Blangkedjeren and four brigades at Koeala Bee formed the principal Dutch force in the Alas valley on the eve of the Japanese invasion of March 1942."
+aliases:
+- 1e Divisie Marechaussee
+- 1ste Divisie Marechaussee
+- 1ste Divisie Maréchaussee
+- Eerste Divisie Marechaussee
+- Eerste Divisie Maréchaussee
+- Iste Divisie Maréchaussee
+- 1st Division Maréchaussee
+- Blang Kedjeren division
+- 1ste Divisie Maréchaussée
+- Eerste Divisie Maréchaussée
+- Iste Divisie Maréchaussée
+- 1st Division Maréchaussée
+- Divisie satoe djaga poetjoek Tripa
+tags:
+- organization
+- military-unit
+- knil
+- marechaussee
+- aceh
+- blang-kedjeren
+- dutch
+- colonial
+- 20th-century
+- world-war-ii
+- oom-ambon
+- gajo-alas
+- aceh-war
+- gayoland
+- 1e-divisie
+description: The Blang Kedjeren- and central-Atjeh-oriented division of the Korps
+  Marechaussee van Atjeh en Onderhorigen, the formation whose eight brigades at Blangkedjeren
+  and four brigades at Koeala Bee formed the principal Dutch force in the Alas valley
+  on the eve of the Japanese invasion of March 1942.
 ---
 
 **The 1e Divisie Marechaussee uit Blang Kedjeren** (also **1ste Divisie Maréchaussee**, *Iste Divisie*) was the division of the [[Korps Marechaussee van Atjeh en Onderhorigen]] based at [[Blang Kedjeren|Blang Kedjeren]] — also written **Blangkedjeren** — in the highlands of central [[Aceh|Atjeh]], and the principal Maréchaussee formation of the Gajo Alas interior in the period between the *dertiger jaren* (1930s) and the [[Japanese invasion of Atjèh|Japanese invasion of March 1942]]. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), the 1ste Divisie is the Blangkedjeren- and central-Atjeh-oriented Maréchaussee division whose eight brigades at [[Blangkedjeren|Blangkedjeren]] — together with the four brigades at [[Koeala Bee|Koeala Bee]] — formed the principal Dutch force in the Alas valley theatre on the eve of the invasion. In Dames's [[1954]] *[[Oom Ambon van het K.N.I.L.]]*, the division is the unit through which the book's two great themes — the *plichtsbesef* (sense of duty) of the Ambonese soldier, and the boundary between the tall story and the *waarheid* (truth) — are introduced in the prologue, by way of the *kapitein*'s [[Hotel de Boer]] story at the *Soos* (officers' club) in [[Koeta-Radja|Koeta-Radja]] in [[1933]].
@@ -75,9 +106,26 @@ The 1e Divisie Marechaussee uit Blang Kedjeren is significant in two complementa
 - [[1933]]
 - [[1940]]
 - [[1942]]
+- [[2e Divisie Marechaussee]]
+- [[G.C.E. van Daalen]]
+- [[Gajoetocht (1904)]]
+- [[Gajoeland]]
+- [[Takengon]]
+- [[Alaslanden]]
+- [[Beren (dwangarbeiders)]]
+- [[Tangsi]]
+- [[Kandoerie]]
+- [[Duivel op de Blang (1909-1910)]]
+- [[1904]]
+- [[1909]]
+- [[1910]]
+- [[1926]]
+- [[1930]]
+- [[Aceh War]]
 
 ## Sources
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…".
 
 *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 114–118.
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.

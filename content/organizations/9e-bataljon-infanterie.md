@@ -1,7 +1,20 @@
 ---
 title: 9e Bataljon Infanterie
-aliases: ["9e Bataljon Infanterie", "9de Bataljon", "9e Bataljon", "9th Infantry Battalion"]
-tags: [organization, dutch, colonial, military, 19th-century, aceh-war]
+aliases:
+- 9de Bataljon
+- 9e Bataljon
+- 9th Infantry Battalion
+- 9e Bataillon Infanterie
+- Ninth KNIL Infantry Battalion
+- 9th KNIL Battalion
+tags:
+- organization
+- dutch
+- colonial
+- military
+- 19th-century
+- aceh-war
+- infantry
 ---
 
 **The 9e Bataljon Infanterie** — also written *9de Bataljon* — was a Dutch colonial field infantry battalion of the [[Oost-Indisch Leger]] that arrived in [[Aceh War|Atjeh]] on [[7 April]] [[1896]] aboard the steamers *Carpentier* and *Bantam* together with [[J. A. Vetter (Luitenant-Generaal)|Lt.-Gen. Vetter]], [[J. W. Stemfoort (Kolonel der Infanterie)|Kolonel Stemfoort]], and Major of the General Staff J. F. Breijer. Commanded initially by Luit.-kol. H. Bendien and later by Luit.-kol. J. F. Th. Veeren, the battalion became one of the most heavily engaged Dutch units of the spring [[1896]] campaign, leading the assault that talso [[Lam-Asan]] on [[23 May]] [[1896]], covering the retreat through the [[Beradin (Vallei van Beradin / Kloof van Beradin)|Kloof van Beradin]] on [[25 May]] [[1896]], attacking [[Ateuh Raja]] on [[9 June]] [[1896]], and forming the 2e Colonne under [[J. B. van Heutsz (Luitenant-Kolonel)|Lt.-Col. Van Heutsz]] in the [[Tuchtiging der V Moekims Montassik (16–17 June 1896)|tuchtiging of V Moekims Montassik of 16–17 June 1896]].
@@ -39,9 +52,14 @@ During the [[First Conquest of the Great Missigit]] on [[10 April]] [[1873]], un
 - [[Ateuh Raja]]
 - [[Beradin (Vallei van Beradin / Kloof van Beradin)]]
 - [[1896]]
+- [[Royal Netherlands East Indies Army]]
+- [[J. L. J. H. Pel]]
+- [[General Pel's Campaign in Aceh]]
+- [[Pekan Badak]]
 
 ## Sources
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 67, 73, 77, 83, 84, 89, 93, 120, 146, 158, 184, 212, 229, 246, 293, 310, 318.
 
 *De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889.
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-14.

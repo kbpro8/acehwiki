@@ -1,7 +1,30 @@
 ---
-title: "Atjehsche Raad van Achten"
-aliases: ["Atjehsche Raad van Achten", "Aceh Council of Eight", "Atjeh Council of Eight", "Raad van Achten", "Atjehsche Raad van Acht", "Atjeh Committee of Eight at Penang"]
-tags: [organization, acehnese, diplomatic, resistance, aceh-war, 19th-century, penang, foreign-relations]
+title: Atjehsche Raad van Achten
+aliases:
+- Aceh Council of Eight
+- Atjeh Council of Eight
+- Raad van Achten
+- Atjehsche Raad van Acht
+- Atjeh Committee of Eight at Penang
+- Raad van Achten (Atjèhnese revolutionary committee at Penang)
+- Council of Eight
+- the Atjèhnese revolutionary committee at Pinang
+- the Council of Eight at Penang
+- Atjèhsch revolutionnaire comité
+tags:
+- organization
+- acehnese
+- diplomatic
+- resistance
+- aceh-war
+- 19th-century
+- penang
+- foreign-relations
+- political
+- atjehnese
+- atjeh-oorlog
+- revolutionary
+- colonial
 ---
 
 **The Atjehsche Raad van Achten** — the *Atjeh Council of Eight* — was the diplomatic body constituted at [[Penang|Penang]] in [[1873]], in the interval between the [[Eerste Atjeh-expeditie (1873)|first]] and [[Tweede Atjeh-expeditie (1873-1874)|second]] Dutch expeditions against [[Atjeh|Atjeh]], to manage the external affairs of the [[Sultanate of Aceh|Sultanate of Atjeh]] — that is, to continue to seek foreign assistance and to conduct diplomatic correspondence on Atjeh's behalf. The Council, of which [[Habib Abdul Rachman El-Zahir|Habib Abdul Rachman el-Zahir]] was a leading member after his return empty-handed from his mission to [[Constantinople|Konstantinopel]], was the principal Atjehese instrument of external diplomacy after the failure of the Ottoman mission and before the Dutch conquest of the [[Kraton of Aceh|kraton]] of [[Kota Radja|Koeta Radja]] in [[January 1874|January]] [[1874]].
@@ -17,6 +40,10 @@ Peace proposals made by the Atjehsche Raad van Achten to the Dutch were rejected
 ## Significance
 
 The Atjehsche Raad van Achten is the principal Atjehese instrument of external diplomacy of the early phase of the [[Aceh War|Atjeh-oorlog]]. Its constitution at [[Penang|Penang]] — a British possession — placed the Atjehese external effort under British observation and was one of the factors that complicated the Dutch-British relationship over Atjeh in the early 1870s. Its peace proposals to the Dutch represent the last Atjehese attempt at a negotiated settlement before the Dutch conquest of the kraton. The role of [[Habib Abdul Rachman El-Zahir|Habib Abdul Rachman el-Zahir]] as a leading member connects the Council to the broader Arab-Atjehese diplomatic effort that had sought Ottoman intervention before the war.
+
+
+## Sources
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Eerste tijdvak, blz. 15.
 
 ## See Also
 
@@ -37,6 +64,8 @@ The Atjehsche Raad van Achten is the principal Atjehese instrument of external d
 - [[Atjeh-oorlog]]
 - [[1873]]
 - [[1874]]
+- [[Acheh]]
+- [[First Aceh Expedition (5-29 April 1873) — Kreemer's account]]
 
 ## Source
 

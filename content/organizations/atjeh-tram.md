@@ -1,7 +1,48 @@
 ---
-title: "Atjeh-tram"
-aliases: ["Atjeh Tramway", "Atjehsche tram", "Atjeh train", "Dienst der S.S.", "Aceh tram", "Atjehtram", "Atjeh Staatsspoor"]
-tags: [organization, colonial, dutch, railway, infrastructure, military, transport, atjeh-tram, kota-radja, oelèë-lheue, besitang, pangkalan-soesoe, sigli, lho-seumawe, langsa, bireuen, seulimeum, smalspoor, 0.75-m, 62-locomotives, aceh, 20th-century]
+title: Atjeh-tram
+aliases:
+- Atjeh Tramway
+- Atjehsche tram
+- Atjeh train
+- Dienst der S.S.
+- Aceh tram
+- Atjehtram
+- Atjeh Staatsspoor
+- Atjehtram (place)
+- Atjeh tram
+- Atjeh-tram route
+- Tramweg aanleg in Atjeh (1897)
+- Tramweg aanleg in Atjeh
+- Tramway construction Atjeh
+- Tram-aanleg Atjeh
+- Atjeh tram line
+tags:
+- organization
+- colonial
+- dutch
+- railway
+- infrastructure
+- military
+- transport
+- atjeh-tram
+- kota-radja
+- oelèë-lheue
+- besitang
+- pangkalan-soesoe
+- sigli
+- lho-seumawe
+- langsa
+- bireuen
+- seulimeum
+- smalspoor
+- 0.75-m
+- 62-locomotives
+- aceh
+- 20th-century
+- place
+- tram
+- concept
+- acheh
 ---
 
 **The Atjeh-tram** was the military-origin tramway of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] that, by [[1917]], had become the principal transport artery of the *gewest* — connecting [[Koeta Radja|Koeta Radja]] and [[Oelèë Lheuë|Oelèë Lheuë]] with Indragiri and Seulimeum and, beyond the Goudberg-hoogvlakte, with the principal bevolkings-centra of the Noord- and Oostkust as far as [[Koeala Simpang|Koeala Simpang]] and [[Besitang|Besitang]]. Operated as the *Dienst der S.S.* (Staatsspoorwegen) under the Department van Gouvernements-Bedrijven, the Atjeh-tram had, *De Buitenbezittingen* records, "haar militaire rol reeds geheel losgelaten" — already entirely shed its military role — and now possessed "in de voornaamste plaats economische beteekenis."
@@ -144,6 +185,11 @@ In [[1927]] Swart, then long retired, told the journalist [[J. Schaap]] that the
 
 Swart used the tram for administration as well: he toured with [[Liefrinck]] in a directors' carriage, stopping at every announced halt so that the *oelèëbalangs* could pay their respects; he travelled by special tram to [[Sigli]] with the surgeon [[Dubinsky]] on hearing of the [[Murder of Lieutenant-Colonel Scheepens (10 October 1913)|stabbing of Scheepens]]; and immediately after taking office in [[1908]] he went east by tram with [[Hendrikus Colijn|Colijn]] as far as [[Langsa]] "to get an impression for myself."
 
+
+## Sources
+*DLP-84-Atjeh.pdf*, p. 8.
+H. T. Damsté, "Drie Atjeh-Mannen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), overdruck, p. 361.
+
 ## See Also
 
 - [[Atjehweg]]
@@ -205,6 +251,17 @@ Swart used the tram for administration as well: he toured with [[Liefrinck]] in 
 - [[Atjeh-moord]]
 - [[Pang Nanggròë]]
 - [[Het Pacificeerende Bestuurswerk 1908-1918]]
+- [[Atjeh-tram]]
+- [[Atjehspoorweg]]
+- [[Gajoweg (Gayo Road)|Gajoweg]]
+- [[Koeta-Radja]]
+- [[Olehleh]]
+- [[Pacification of Atjeh]]
+- [[Groot-Atjeh]]
+- [[Koetaradja]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Geconcentreerde linie]]
+- [[Atjeh-oorlog (1873-1904)]]
 
 ## Source
 

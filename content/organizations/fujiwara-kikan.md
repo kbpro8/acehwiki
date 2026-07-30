@@ -1,8 +1,18 @@
 ---
-
 title: Fujiwara-kikan
-aliases: [Fujiwara kikan, F-organisatie, F-organization, F-movement, fifth column organization]
-tags: [organization, japanese, intelligence, military]
+aliases:
+- Fujiwara kikan
+- F-organisatie
+- F-organization
+- F-movement
+- fifth column organization
+tags:
+- organization
+- japanese
+- intelligence
+- military
+- concept
+- fifth-column
 ---
 **Fujiwara-kikan** — literally "the Fujiwara organisation," deriving its name from its founder [[Fujiwara Iwaichi|Major Fujiwara]] — was the Japanese intelligence organisation, also known as the [[F-organisatie|F-organisatie]] or F-movement, that supported anti-Dutch elements in [[Atjèh|Atjèh]] in the months before the [[Japanese invasion of Atjèh|Japanese invasion of Atjèh]] and that, in Piekaar's analysis, gave the insurgent movement of [[1942]] "its dangerous character" by uniting the [[Poesa|Poesa]], the sultan's party, and dissident *oelèëbalang* elements in a single fifth-column apparatus activated on the day of the landings. The kikan was formed from Indonesians living in [[Malaya|Malaya]] after the [[fall of Penang|fall of Penang]] on [[19 December]] [[1941]], and was succeeded — but never entirely replaced — by the [[Masubuchi-kikan|Masubuchi-kikan]] after the establishment of the Japanese military administration.
 
@@ -22,6 +32,10 @@ The F-organisatie "has, in cooperation with other organizations, mainly carried 
 
 When, after the invasion, the [[Masubuchi-kikan|Masubuchi-kikan]] emerged as the formal military-administration successor, the F-organisatie did not disappear: Masubuchi "constantly maintained the bond" with its members "through meetings and commemorative meals," and enjoyed among them the honorary title "*bapak Atjèh*." On [[3 July]] [[1945]], with the Allies approaching, [[Masubuchi|Masubuchi]] formally "took upon himself the task of creating a new 5th column organization … named by its founder 'Masubuchi-kikan'." "The old F-organization," Piekaar records, "would resume its task as M-organization" — the F-organisatie's pre-invasion apparatus becoming the institutional foundation of the planned anti-Allied insurgency behind the invasion beaches.
 
+
+## Sources
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Glossary, Chapter III § 1, Chapter VI.
+
 ## See Also
 
 - [[Fujiwara Iwaichi|Fujiwara]]
@@ -35,6 +49,12 @@ When, after the invasion, the [[Masubuchi-kikan|Masubuchi-kikan]] emerged as the
 - [[Atjèh Shimbun]]
 - [[19 December]] [[1941]]
 - [[1942]]
+- [[M-organisatie]]
+- [[Fujiwara-kikan]]
+- [[Poesa]]
+- [[Fall of Penang]]
+- [[Japanese invasion of Atjèh]]
+- [[1941]]
 
 ## Source
 

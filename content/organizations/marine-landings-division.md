@@ -1,8 +1,27 @@
 ---
 title: Marine Landings Division
-aliases: [Marine Landings Division, Marine Landing Division, Marine Landing Division (Aceh 1873), Marine-landingsdivisie, Landingsdivisie der marine]
-tags: [organization, military, colonial, dutch, marine, amphibious, aceh, 1873, netherlands]
-description: "The amphibious infantry landing formation of the Royal Netherlands Marine Corps, deployed in the Dutch colonial campaigns against Acehnese fortified settlements in 1868–1870 and assembled as a combined amphibious force for the 1873 Aceh expedition under Captain-ter-zee Binkes."
+aliases:
+- Marine Landing Division
+- Marine Landing Division (Aceh 1873)
+- Marine-landingsdivisie
+- Landingsdivisie der marine
+- Naval Landing Division
+- Landingsdivisie
+tags:
+- organization
+- military
+- colonial
+- dutch
+- marine
+- amphibious
+- aceh
+- 1873
+- netherlands
+- navy
+description: The amphibious infantry landing formation of the Royal Netherlands Marine
+  Corps, deployed in the Dutch colonial campaigns against Acehnese fortified settlements
+  in 1868–1870 and assembled as a combined amphibious force for the 1873 Aceh expedition
+  under Captain-ter-zee Binkes.
 ---
 
 > **Note on nomenclature.** The formation is variously called the *Marine Landing Division* (singular, used specifically for the [[1873]] Aceh expedition force), the *Marine Landings Division* (plural, the standard modern form used for the broader standing formation of the [[Royal Netherlands Marine Corps]]), and in the original Dutch both *Marine-landingsdivisie* and *Landingsdivisie der marine*. The article treats these as a single organisational entity — the amphibious landing formation of the [[Royal Netherlands Marine Corps|Dutch Marine Corps]] — whose deployments span the [[1868]]–[[1870]] expeditions against the fortified Acehnese settlements of [[Bandjar|Bandjar]], [[Kali-Anget|Kali-Anget]] and [[Kampong Djentarek|Kampong Djentarek]], and the [[1873]] Aceh expedition under [[Captain-terr zee Binkes|Captain-ter-zee Binkes]].
@@ -44,6 +63,10 @@ Contemporary reports, such as those cited by [[J. R. J. P. Cambier|Cambier]] (p.
 
 The Marine Landings Division played a crucial role in the Dutch strategy of combined land-sea assaults that eventually subdued Acehnese resistance, setting precedents for later colonial amphibious operations. The 1868–1870 deployments against the fortified Acehnese settlements of Bandjar, Kali-Anget and Kampong Djentarek established the tactical pattern that the Dutch would refine and scale up for the 1873 expedition and the prolonged [[Aceh War|Aceh War]] of [[1873]]–[[1904]]. As the amphibious infantry component of the [[Royal Netherlands Marine Corps|Royal Netherlands Marine Corps]], the division became the core instrument of Dutch amphibious warfare in the volatile Aceh region, integrating naval infantry tactics with army manoeuvres and naval gunfire support in a manner that shaped colonial military doctrine in the Netherlands Indies.
 
+
+## Sources
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889, pp. 21, 56.
+
 ## See Also
 
 - [[Royal Netherlands Marine Corps]]
@@ -78,6 +101,7 @@ The Marine Landings Division played a crucial role in the Dutch strategy of comb
 - [[1868]]
 - [[1869]]
 - [[1873]]
+- [[First Conquest of the Great Missigit]]
 
 ## Source
 

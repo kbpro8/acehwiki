@@ -1,8 +1,23 @@
 ---
-
 title: Masubuchi-kikan
-aliases: [M-organisatie, M-organization, Masubuchi kikan, Masubutikikan]
-tags: [organization, japanese, military, administration]
+aliases:
+- M-organisatie
+- M-organization
+- Masubuchi kikan
+- Masubutikikan
+- M-movement
+- Masubuchi
+- Major Masubuchi
+- Lieutenant-General Masubuchi
+- Masubuchi Toru
+tags:
+- organization
+- japanese
+- military
+- administration
+- concept
+- person
+- administrator
 ---
 **Masubuchi-kikan** — the M-organisatie, or Japanese military-administration organisation for [[Atjèh|Atjèh]] under [[Masubuchi|Major (later Lieutenant-General) Masubuchi]] — was the formal successor to the [[Fujiwara-kikan|Fujiwara-kikan]] that, from the establishment of Japanese authority in March [[1942]] until the [[Japanese capitulation of 15 August 1945|Japanese capitulation of 15 August 1945]], served as the institutional core of the occupation's political apparatus in the residency. Named for its head in the standard Japanese practice of naming administrative *kikan* (機関, "agency" or "organisation") after their commanders, the Masubuchi-kikan was both an instrument of the *gunseibu* (military administration) and a personal apparatus through which Masubuchi — "*bapak Atjèh*" to his followers — played, in Piekaar's words, "the game of Acehnese politics in a truly masterful manner."
 
@@ -22,6 +37,13 @@ The propaganda shift from the [[Asia Timoer Raja|Asia Timoer Raja]] idea (Septem
 
 On [[3 July]] [[1945]], with the Allies approaching, "Masubuchi, on 3 July 1945 released from the leadership of the economic affairs department, took upon himself the task of creating a new 5th column organization, which shortly — in the event of an Allied invasion — would have to carry out its destructive work behind the Allied lines. [[Said Aboe Bakar|Said Aboe Bakar]], [[Teukoe Panglima Pólém Moehamad Ali|Teukoe Panglima Pólém Moehamad Ali]], [[Teungkoe Moehamad Daoed Beureu-éh|Teungkoe Moehamad Daoed Beureu-éh]] and [[Teukoe Moehamad Amin|Teukoe Moehamad Amin]] took a leading part in the new organization, named by its founder 'Masubuchi-kikan.' The old F-organization would resume its task as M-organization." After the capitulation, Masubuchi was ordered arrested by the Allied commander in [[Medan|Medan]] on [[21 October]] [[1945]], but, Piekaar records, "by committing '*hara-kiri*' he managed to escape trial as a war criminal."
 
+
+## Sources
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Glossary and Chapter VII §§ 1, 3–4.
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Glossary and Chapters V–VII.
+---
+**Masubuchi** was the Japanese officer — initially a major, later promoted to lieutenant-general — who, as head of the *Masubuchi-kikan* (the Japanese military administration organisation for [[Atjèh|Atjèh]]), was the principal architect of the Japanese occupation of the residency from March [[1942]] until the reorganisation of the occupation apparatus in the later years of the war. Piekaar's *Atjèh and the War with Japan* treats Masubuchi as "an extremely capable leader" of the Japanese political apparatus in Atjèh, whose combination of military authority, political intelligence, and personal capability gave the occupation its initial character.
+
 ## See Also
 
 - [[Masubuchi]]
@@ -36,6 +58,22 @@ On [[3 July]] [[1945]], with the Allies approaching, "Masubuchi, on 3 July 1945 
 - [[Teukoe Panglima Pólém Moehamad Ali]]
 - [[1942]]
 - [[1945]]
+- [[F-organisatie]]
+- [[Masubuchi-kikan]]
+- [[Japanese invasion of Atjèh]]
+- [M-organisatie]
+- [Masubuchi-kikan]
+- [F-organisatie]
+- [Fujiwara-kikan]
+- [Maibkatra]
+- [Asia Timoer Raja]
+- [Indonesia Merdéka]
+- [Said Aboe Bakar]
+- [Atjèh Shimbun]
+- [1942]
+- [1943]
+- [1944]
+- [1945]
 
 ## Source
 

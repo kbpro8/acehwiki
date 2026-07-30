@@ -1,7 +1,20 @@
 ---
 title: 12e Bataljon Infanterie
-aliases: ["12e Bataljon Infanterie", "12de Bataljon", "12e Bataljon", "12th Infantry Battalion"]
-tags: [organization, dutch, colonial, military, 19th-century, aceh-war]
+aliases:
+- 12de Bataljon
+- 12e Bataljon
+- 12th Infantry Battalion
+- 12e Bataillon Infanterie
+- Twelfth KNIL Infantry Battalion
+- 12th KNIL Battalion
+tags:
+- organization
+- dutch
+- colonial
+- military
+- 19th-century
+- aceh-war
+- infantry
 ---
 
 **The 12e Bataljon Infanterie** — also written *12de Bataljon* — was a Dutch colonial field infantry battalion of the [[Oost-Indisch Leger]], present in [[Aceh War|Atjeh]] at the start of [[1896]] and engaged in nearly every major Dutch column of the spring, from the immediate counter-measures after [[Teuku Umar]]'s [[Defection of Teuku Umar (29 March 1896)|defection of 29 March 1896]] through the [[Three-day Dutch offensive of 23–25 May 1896|three-day offensive of 23–25 May 1896]] and the [[Tuchtiging der V Moekims Montassik (16–17 June 1896)|tuchtiging of V Moekims Montassik of 16–17 June 1896]]. Commanded initially by Overste G. Ilgen, then by Maj. G. F. Soeters, and in his absence (wd.) by Kapitein A. J. van Geelen, the battalion furnished troops for the buitenposten of [[Tjot Rang]] and [[Toengkoeb]] and supplied companies for the planned March column of Lt.-Col. C. P. J. van Vliet. The battalion was one of the largest in the theatre, with a [[Bijlage VIII — Staat van troepensterkte op 1 Juni 1896|1 June 1896 strength]] of 13 officers and 512 minderen.
@@ -38,9 +51,15 @@ They were among the first units to conduct the [[Landing on Atjeh's Coasts]] on 
 - [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)]]
 - [[Defection of Teuku Umar (29 March 1896)]]
 - [[1896]]
+- [[Royal Netherlands East Indies Army]]
+- [[3rd Infantry Battalion]]
+- [[13th Infantry Battalion]]
+- [[J. L. J. H. Pel]]
+- [[March through the XXII Moekims]]
 
 ## Sources
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 83, 84, 86, 88, 94, 119, 183, 212, 219, 238, 247, 294.
 
 *De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889.
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-14.

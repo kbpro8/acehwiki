@@ -1,7 +1,26 @@
 ---
 title: Derde Bataljon (Atjeh-Bataljon)
-aliases: [Derde Bataljon, 3e Bataljon, Atjeh-Bataljon, Aceh Battalion, 3e Bataljon Infanterie, 3de Bataljon Infanterie, 3rd Infantry Battalion]
-tags: [organization, military-unit, knil, aceh, dutch, colonial, military, 19th-century]
+aliases:
+- Derde Bataljon
+- 3e Bataljon
+- Atjeh-Bataljon
+- Aceh Battalion
+- 3e Bataljon Infanterie
+- 3de Bataljon Infanterie
+- 3rd Infantry Battalion
+- 3e Bataillon Infanterie
+- Third KNIL Infantry Battalion
+- 3rd KNIL Battalion
+tags:
+- organization
+- military-unit
+- knil
+- aceh
+- dutch
+- colonial
+- military
+- 19th-century
+- infantry
 ---
 
 **The Derde Bataljon** — the 3rd Battalion of the [[K.N.I.L.]] — also written *3e Bataljon Infanterie* or *3de Bataljon Infanterie*, was the "Atjeh-Bataljon," the battalion that received the [[Militaire Willemsorde|M.W.O.]] decoration "in [[1877]] voor het buitengewoon roemrijk aandeel" in the early years of the [[Atjeh-oorlog|Aceh War]], "in het bijzonder vermeld die van begin [[1876]]." The Derde Bataljon's M.W.O. was one of the earliest battalion-level decorations of the Aceh War, and the battalion's nickname "Atjeh-Bataljon" marks it as the battalion most identified with the Aceh theatre. The battalion returned to the Aceh theatre in the spring of [[1896]] as a regular *veldbataljon* (field battalion) of the colonial army, where — under the successive command of Maj. K. W. Steinmetz, Maj. J. W. van den Broek, and Luit.-kol. G. A. Hansen — it served as the workhorse battalion of the campaign, participating in nearly every major Dutch column from the [[Relief of Biloel and Lamkoenjit (8 April 1896)|relief of Biloel and Lamkoenjit]] through the [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)|Ladoeng landing of 22–23 June 1896]], and supplying the 1e Luit. M. D. J. de Jongh who was officially the first Dutch officer to reach [[Teuku Umar]]'s *verblijf* (residence) at [[Lam-Pisang]] on [[24 May]] [[1896]].
@@ -40,6 +59,11 @@ The Derde Bataljon is significant in *[[Oom Ambon van het K.N.I.L.]]* as the "At
 
 In Kruisheer's *ATJEH '96* the 3e Bataljon Infanterie emerges as the workhorse battalion of the spring [[1896]] campaign, present in every major Dutch column from the [[Relief of Biloel and Lamkoenjit (8 April 1896)|April relief operations]] to the [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)|June Ladoeng landing]]. Its repeater-rifle peloton reflects the Dutch adoption of new infantry weapons against the well-armed *benden* (bands) of [[Teuku Umar]], and its rapid succession of commanders (Steinmetz → van den Broek → Hansen) mirrors the Dutch command reshuffle that followed [[J. A. Vetter|Lt.-Gen. Vetter]]'s arrival as [[Regeeringscommissaris (Government Commissioner)|Regeeringscommissaris]] on [[7 April]] [[1896]]. The distinction of being first into Umar's house at [[Lam-Pisang]] on [[24 May]] — a claim contested in the source by the cavalryman Wachtmeester Jonker — was awarded by Kruisheer to the battalion's 1e luit. de Jongh.
 
+
+## Sources
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-15.
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889, pp. 20, 58.
+
 ## See Also
 
 - [[Atjeh-oorlog]]
@@ -73,6 +97,13 @@ In Kruisheer's *ATJEH '96* the 3e Bataljon Infanterie emerges as the workhorse b
 - [[Koeta Radja]]
 - [[Glé Broeë]]
 - [[Oleh-leh]]
+- [[Royal Netherlands East Indies Army]]
+- [[Lieutenant Colonel Meijer]]
+- [[J. L. J. H. Pel]]
+- [[General Pel's Campaign in Aceh]]
+- [[Crossing of Blankala Pass]]
+- [[March through the XXII Moekims]]
+- [[9e Bataljon Infanterie]]
 
 ## Source
 

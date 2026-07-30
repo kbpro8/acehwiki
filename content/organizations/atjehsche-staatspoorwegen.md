@@ -1,8 +1,34 @@
 ---
-
 title: Atjehsche Staatsspoorwegen
-aliases: [Atjehse staatsspoorwegen, Atjeh tram (state railway), Atjehse Spoorwegen, Atjeh state railway, Atjeh-tram staatsspoorwegen]
-tags: [organization, colonial, dutch, infrastructure, atjeh, railway, wereldoorlog-ii]
+aliases:
+- Atjehse staatsspoorwegen
+- Atjeh tram (state railway)
+- Atjehse Spoorwegen
+- Atjeh state railway
+- Atjeh-tram staatsspoorwegen
+- Atjehspoorweg
+- Atjeh railway
+- Atjeh spoorweg
+- Aceh railway
+- spoorweg in Atjeh
+- Atjeh spoorwegnet
+- railway in Aceh
+- Aceh rail network
+tags:
+- organization
+- colonial
+- dutch
+- infrastructure
+- atjeh
+- railway
+- wereldoorlog-ii
+- place
+- aceh
+- event
+- transport
+- acheh
+- sumatra
+- buitengewesten
 ---
 
 **The Atjehsche Staatsspoorwegen** — the Atjeh state railways — was the Dutch colonial state railway of the *gewest* of [[Atjeh|Atjeh]], operating the [[Atjeh-tram|Atjeh tram]] between [[Oleh-leh|Oleh-leh]] / [[Kotaradja|Kotaradja]] and the inland outposts of the noordkust and the *sagi der XXII moekims*, and providing the principal logistical connection between the colonial capital and the inland outposts of the Korps Maréchaussee and the garrison battalions. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), the Atjehsche Staatsspoorwegen is the principal logistical infrastructure of the pre-invasion Atjeh campaign — and the principal target of the [[F-beweging|F. beweging]] sabotage of February–March [[1942]].
@@ -31,6 +57,11 @@ The Atjehsche Staatsspoorwegen is, in the staff history's Atjeh chapter, the pri
 
 The *DLP-84-Atjeh* pamphlet describes the [[Atjehsche Staatsspoorwegen|Atjehspoorweg (Atjeh railway)]] as the colonial railway built in [[Atjeh|Atjeh]] for military and economic purposes. Together with the [[Grote Atjehweg|Great Atjeh Road (*Grote Atjehweg*)]] and the [[Gajoweg (Gayo Road)|Gajo Road (*Gajoweg*)]], the railway formed a transport network that opened the interior to trade and settlement. The railway facilitated rapid troop movement during the lingering security concerns after the [[Aceh War|Aceh War]], and enabled the export of plantation products — rubber, palm oil and sisal — via the port of [[Belawan|Belawan]].
 
+
+## Sources
+*DLP-84-Atjeh.pdf*, p. 10.
+*Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter IX (Verkeer / Transport), p. 168.
+
 ## See Also
 
 - [[Nederlands-Indië contra Japan]]
@@ -52,6 +83,26 @@ The *DLP-84-Atjeh* pamphlet describes the [[Atjehsche Staatsspoorwegen|Atjehspoo
 - [[Palm oil cultivation]]
 - [[Sisal cultivation]]
 - [[Atjehspoorweg]]
+- [[Atjehweg]]
+- [[Sabang]]
+- [[Koeta-Radja]]
+- [[Olehleh]]
+- [[Langsa]]
+- [[Besitang]]
+- [[Koeala Simpang]]
+- [[Aceh War]]
+- [[Pacification of Atjeh]]
+- [[Joannes Benedictus van Heutsz|Van Heutsz]]
+- [[Cornelis Jacobus Snijders]]
+- [[H. N. A. Swart]]
+- [[Deli Spoorweg Maatschappij]]
+- [[Agrarische Wet 1870]]
+- [[Gouvernement Atjeh en Onderhoorigheden]]
+- [[Kota Radja]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
+- [[Buitengewesten]]
+- [[Deli]]
+- [[Sumatra's East Coast]]
 
 ## Source
 

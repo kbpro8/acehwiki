@@ -1,7 +1,28 @@
 ---
 title: Kawaj XII
-aliases: [Kawaj XII, Kawé XII, Kawai XII, Twelve Gold-Seeker Settlements]
-tags: [concept, noordkust, achehnese, federation, colonial]
+aliases:
+- Kawé XII
+- Kawai XII
+- Twelve Gold-Seeker Settlements
+- Kawaj 12
+- Federation of the Kawaj XII
+- Kawaj XII federation
+- XII Kawaj
+- Twelve Kawaj
+tags:
+- concept
+- noordkust
+- achehnese
+- federation
+- colonial
+- organization
+- acehnese
+- 17th-century
+- pidië
+- meulaboh
+- gold
+- pepercultuur
+- kawaj-xii
 ---
 **Kawaj XII** — the "Kawé of Twelve" — was the federation of twelve gold-seeker settlements in the highlands between [[Beutông|Beutông]] and Keumala Dalam (in the *onderafdeeling Sigli*), whose chiefs paid an annual *boengkaj* of gold dust to the [[Sultans of Atjeh|Sultan of Atjeh]]'s *keudjeuroeën mas* (gold customs-collector), and whose depopulation — the result of the decline of the gold workings and the cholera epidemic of [[1878]] — led to its dissolution and partition in [[1914]]. *De Buitenbezittingen* treats the *Kawaj XII* as the parallel, on the Pedir highlands, of the [[Kawaj XVI|Kawaj XVI]] federation of the Westkust under the *Keudjeuroeën Tjhï'* of [[Meulabôh|Meulabôh]]: both were Sultan-derived federations of gold-producing settlements that the Dutch encountered as already-decaying institutions at the time of their arrival.
 
@@ -21,6 +42,10 @@ On the grounds of the very small remaining population, the Dutch administration 
 
 The *Kawaj XII* of the Pedir highlands — like the [[Kawaj XVI|Kawaj XVI]] of the Westkust — was a fossil of the [[Sultans of Atjeh|Sultanate]]'s apparatus of extraction, an institution whose constitutional significance had long since been hollowed out by the decay of its economic basis. Its dissolution in [[1914]] was a typical act of the colonial administrative rationalisation that consolidated the Gouvernement's territorial structure.
 
+
+## Sources
+*De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 8.
+
 ## See Also
 
 - [[Kawaj XVI]]
@@ -33,6 +58,17 @@ The *Kawaj XII* of the Pedir highlands — like the [[Kawaj XVI|Kawaj XVI]] of t
 - [[Goudberg]]
 - [[1878]]
 - [[1914]]
+- [[Pidië]]
+- [[Meulaboh]]
+- [[Tapa Toean]]
+- [[Westkust]]
+- [[Prang Rawa]]
+- [[Pepercultuur]]
+- [[Perak]]
+- [[Sultanate of Aceh]]
+- [[De Rijkdom van Atjeh (1923)]]
+- [[1645]]
+- [[17th-century]]
 
 ## Source
 

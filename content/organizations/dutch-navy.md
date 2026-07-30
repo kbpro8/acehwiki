@@ -1,8 +1,35 @@
 ---
 title: Dutch Navy
-aliases: [Koninklijke Marine, Dutch Navy, Royal Netherlands Navy, Dutch fleet, Republic of the Seven United Netherlands navy, Netherlands Navy, Dutch Admiralty, Dutch colonial navy, Marine, Zeemacht]
-tags: [organization, navy, naval, dutch, military, colonial, 17th-century, 19th-century, aceh, aceh-war]
-description: "The maritime arm of the Dutch Republic (later the Kingdom of the Netherlands), responsible for defending trade routes, protecting VOC interests, and projecting naval power abroad — including the riverine campaigns of the Aceh War."
+aliases:
+- Koninklijke Marine
+- Royal Netherlands Navy
+- Dutch fleet
+- Republic of the Seven United Netherlands navy
+- Netherlands Navy
+- Dutch Admiralty
+- Dutch colonial navy
+- Marine
+- Zeemacht
+- Marine (Nederlandsch-Indië)
+- Marine Atjeh
+- Dutch Marine Atjeh
+tags:
+- organization
+- navy
+- naval
+- dutch
+- military
+- colonial
+- 17th-century
+- 19th-century
+- aceh
+- aceh-war
+- marine
+- blockade
+- koninklijke-marine
+description: The maritime arm of the Dutch Republic (later the Kingdom of the Netherlands),
+  responsible for defending trade routes, protecting VOC interests, and projecting
+  naval power abroad — including the riverine campaigns of the Aceh War.
 ---
 
 **Dutch Navy** (Dutch: *Koninklijke Marine* in the Kingdom era; previously the navy of the [[Dutch Republic|Republic of the Seven United Netherlands]]) — also referred to in [[A. Kruisheer|Kruisheer]]'s *ATJEH '96* simply as *the Marine* or *Zeemacht* — was the maritime arm of the [[Dutch Republic]] (later the Kingdom of the Netherlands), responsible for defending the Republic's trade routes, protecting the colonial interests of the [[Dutch East India Company|Dutch East India Company (VOC)]], and projecting naval power abroad — including in the interior of [[Aceh]] during the colonial period. From the mid-seventeenth century through the late nineteenth century it escorted VOC merchant ships, fought major fleet actions against the [[French fleet]] and [[English fleet]] in the [[Dutch–French War]] ([[1672]]–[[1678]]), and later conducted riverine expeditions such as the [[19 December|December 19]]–[[25 December]] operation that deployed the barks [[Zeven Provinciën]] and [[St Eustatius]] and river detachments under [[Captain Van Oyen]] and [[Captain-lieutenant Smit]]. During the [[1870s]] it provided the essential sea-power for operations against the [[Aceh Sultanate|Sultanate of Aceh]], with captains such as [[J. J. Korndörffer|J.J. Korndörffer]] reporting on voyages from the Netherlands via [[Batavia]] to the Aceh coast, and naval vessels supplying artillery support for marine and army units during the [[Aceh Expedition 1875–1876]]. Its activities linked commercial protection, naval warfare, and colonial coercion, shaping the economic and geopolitical trajectory of the Dutch state. In the spring of [[1896]], following the [[Defection of Teuku Umar (29 March 1896)|defection of Teuku Umar]], the Navy's Atjeh squadron — comprising the warships H. M. *Madoera*, H. M. *Merapi*, Hr. Ms. *Sumatra*, Hr. Ms. *Wilhelmina*, Hr. Ms. *Tromp*, Hr. Ms. *Koningin Wilhelmina*, Hr. Ms. *Sumbawa*, Hr. Ms. *Flores*, and Hr. Ms. *Nias*, together with the gouvernementstoomers (government steamers) *Condor* and *Albatros* — provided coastal defence of [[Oleh-leh]], bombarded [[Lepong]], [[Lamnga]], and [[Lampisang]], and projected the *marinelandingsdivisie* (naval landing division) at [[Koeala Pantjoer]] and [[Ladoeng]].
@@ -89,6 +116,29 @@ In the spring [[1896]] campaign specifically, the Marine's significance lay in t
 - [[Oleh-leh]]
 - [[Lepong]]
 - [[1896]]
+- [[Blokkade (Atjeh, 1884-1885)]]
+- [[Blokkade (Atjeh, 1886-1892)]]
+- [[C. H. Bogaert]]
+- [[Scheepvaartregeling]]
+- [[Koninklijke Pakketvaart Maatschappij]]
+- [[Groot-Atjeh]]
+- [[Oostkust]]
+- [[Noordkust]]
+- [[Westkust]]
+- [[Penang]]
+- [[Singapore]]
+- [[Eerste Atjeh-expeditie (1873)]]
+- [[Defection of Teuku Umar (March 1896)]]
+- [[Vetter]]
+- [[Atjeh-oorlog]]
+- [[21 June]]
+- [[June 1873]]
+- [[June 1875]]
+- [[March 1885]]
+- [[June 1884]]
+- [[29 March]]
+- [[March 1896]]
+- [[1881]]
 
 ## Sources
 
@@ -99,3 +149,4 @@ In the spring [[1896]] campaign specifically, the Marine's significance lay in t
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, OCR text, pp. 345–347.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 217, 230, 241, 242, 324.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter II (the 1873 blockade and the Bogaert administration), Chapter VI (the 1881 reduction), Chapter IX (the 1884–1885 blockade), Chapter X (the 1886–1892 blockade), Chapter XIII (the 1896 reinforcement). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 10–12, 32–33, 47, 54–55, 79.

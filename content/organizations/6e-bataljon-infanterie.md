@@ -1,7 +1,20 @@
 ---
 title: 6e Bataljon Infanterie
-aliases: ["6e Bataljon Infanterie", "6de Bataljon", "6e Bataljon", "6th Infantry Battalion"]
-tags: [organization, dutch, colonial, military, 19th-century, aceh-war]
+aliases:
+- 6de Bataljon
+- 6e Bataljon
+- 6th Infantry Battalion
+- 6e Bataillon Infanterie
+- Sixth KNIL Infantry Battalion
+- 6th KNIL Battalion
+tags:
+- organization
+- dutch
+- colonial
+- military
+- 19th-century
+- aceh-war
+- infantry
 ---
 
 **The 6e Bataljon Infanterie** — also written *6de Bataljon* — was a Dutch colonial field infantry battalion of the [[Oost-Indisch Leger]] that arrived in [[Aceh War|Atjeh]] on [[8 April]] [[1896]] aboard the steamers three companies and the fourth company, and was immediately committed to [[J. W. Stemfoort (Kolonel der Infanterie)|Kolonel Stemfoort]]'s relief column for [[Biloel]] and [[Lamkoenjit]]. Originally commanded by Luit.-kol. H. Bendien (who shortly transferred to the [[9e Bataljon Infanterie|9e Bataljon]]), then by Maj. D. A. Okhuyzen (wounded [[17 April]] [[1896]]), the battalion became one of the most heavily engaged infantry units of the spring [[1896]] campaign, participating in the [[Tuchtiging van Lam Goet (14 April 1896)|tuchtiging of Lam Goet on 14 April]], the [[Battle of Senelop (17 April 1896)|Battle of Senelop on 17 April]], the [[Three-day Dutch offensive of 23–25 May 1896|three-day offensive of 23–25 May 1896]], the [[Machtsvertoon in III Moekims Daroe (29 May 1896)|machtsvertoon in III Moekims Daroe on 29 May]], and the [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)|Ladoeng Landing of 22–23 June 1896]].
@@ -22,6 +35,10 @@ The battalion's strength developed through the spring. On [[8 April]] [[1896]] i
 
 The 6e Bataljon Infanterie exemplifies the rapid operational deployment of a fresh colonial battalion into a collapsing theatre: disembarked on [[8 April]] [[1896]], two of its companies were in combat within hours as part of the [[Relief of Biloel and Lamkoenjit (8 April 1896)|Stemfoort relief column]]. The wounding of Maj. Okhuyzen at [[Battle of Senelop (17 April 1896)|Senelop on 17 April]] — the most costly single day for the Dutch in April — underscores the price paid by line infantry in the assault on prepared Acehnese *versterkingen*. The battalion's continued employment through the [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)|Ladoeng landing]] at the end of June demonstrates the operational tempo that [[J. A. Vetter (Luitenant-Generaal)|Lt.-Gen. Vetter]] imposed on the Dutch forces in the four months following [[Teuku Umar]]'s defection.
 
+
+## Sources
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-14.
+
 ## See Also
 
 - [[H. Bendien (Luitenant-Kolonel)]]
@@ -34,6 +51,11 @@ The 6e Bataljon Infanterie exemplifies the rapid operational deployment of a fre
 - [[Machtsvertoon in III Moekims Daroe (29 May 1896)]]
 - [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)]]
 - [[1896]]
+- [[Royal Netherlands East Indies Army]]
+- [[J. L. J. H. Pel]]
+- [[Attack on Mibouw]]
+- [[General Pel's Campaign in Aceh]]
+- [[Pekan Badak]]
 
 ## Source
 

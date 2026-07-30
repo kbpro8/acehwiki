@@ -1,7 +1,41 @@
 ---
 title: Netherlands India
-aliases: [Netherlands-India, Netherlands India, Dutch East Indies, Nederlandsch-Indië, Nederlandsch Oost-Indië, Buitenbezittingen, Netherlands Indies]
-tags: [place, foreign, region, colonial, colony]
+aliases:
+- Netherlands-India
+- Dutch East Indies
+- Nederlandsch-Indië
+- Nederlandsch Oost-Indië
+- Buitenbezittingen
+- Netherlands Indies
+- Ned.-Indië
+- the Netherlands Indies
+- Nederlandse Oost-Indië
+- Dutch Indies
+- Netherlands East Indies
+- Nederlands-Indië
+- Dutch East India
+- Nederlands-Indisch Rijk
+- East Indies
+- Oost-Indië
+- Nusantara
+tags:
+- place
+- foreign
+- region
+- colonial
+- colony
+- organization
+- government
+- dutch
+- empire
+- state
+- acheh
+- administrative
+- netherlands
+- indonesia
+- southeast asia
+- aceh
+- southeast-asia
 ---
 
 **Netherlands India** (also written **Netherlands-India**, in Dutch *Nederlandsch-Indië*, and known colloquially as the Dutch East Indies) was the colonial territory governed from Batavia by the [[Joannes Benedictus van Heutsz|Governor-General]] of the Netherlands. In *The Achehnese*, Vol. I, it appears both as the administrative framework within which [[C. Snouck Hurgronje|Snouck Hurgronje]] wrote — the title-page of the original Dutch work styles him "Adviser for Native Affairs, Netherlands India" — and as a comparative field against which Achehnese institutions, customs and religious life are measured.
@@ -37,6 +71,26 @@ Van der Kemp's concluding pages draw the wider moral that "the political complic
 
 **Nederlandsch-Indië** is also the overarching context for the [[Submission of Aceh|submission of Aceh]] and the broader economic and administrative reforms proposed in the [[1905]] letter by [[Keuchenius|W. H. J. Keuchenius]] to Governor-General [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]. Aceh was a part of the Dutch East Indies, though it retained a distinct political and cultural identity. The successful campaign to pacify Aceh, as championed by Van Heutsz, was a significant event in the history of the colony. Keuchenius, in his letter, argues that the economic health of the entire colony of Nederlandsch-Indië depends on reforms in trade representation, the private sector, and the Chinese question, placing Aceh's pacification as a precedent for a broader colonial revival — see [[Kracht van wapenen]].
 
+
+## Sources
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912.
+---
+
+
+**Netherlands India** (Dutch: *Nederlandsch-Indië*; also *Nederlands-Indië*; English: *Dutch East Indies*) was the colonial possession of the [[Holland|Kingdom of the Netherlands]] in the Indonesian archipelago, comprising the islands of Java, Sumatra, Borneo, Celebes, the Moluccas, the Lesser Sunda Islands, and the western half of New Guinea, governed by a [[Governor-General of the Netherlands India|Governor-General]] resident at [[Batavia|Batavia]] on Java, assisted by the [[Council of Netherlands India|Council of Netherlands India]] and the various departments of the colonial administration. In the period covered by the source work (1872-1883) the colony was engaged in the [[Aceh War|Atjeh-oorlog]], the longest and most costly colonial war in Dutch history.
+
+
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 143, 156, 209, 216-219, 267.
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pp. [[102]]‑[[104]], 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. [[109]]‑[[111]].
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, pages 174‑182.
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR transcription, pages 429‑434, 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, page 415 (reference to “Nederlandsch Oost‑Indië” during the outbreak of war with Japan).
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*.
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, pp. 266‑269, 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
+
 ## See Also
 
 - [[C. Snouck Hurgronje]]
@@ -68,6 +122,62 @@ Van der Kemp's concluding pages draw the wider moral that "the political complic
 - [[Paper war]]
 - [[Dead letter]]
 - [[Jameson's raid comparison]]
+- [[J. Loudon]]
+- [[Indies Army]]
+- [[Conversiequaestie]]
+- [[Johan Willem van Lansberge|J. W. van Lansberge]]
+- [[Buitengewesten]]
+- [[Personeele belasting]]
+- [[Tanjung Priok|Tandjong Priok]]
+- [[Governor-General of the Netherlands India]]
+- [[Council of Netherlands India]]
+- [[Batig Slot]]
+- [[Patentrecht]]
+- [[Aceh War]]
+- [[Holland]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh en Onderhorigheden]]
+- [[Republik Indonesia]]
+- [[1949]]
+- [[1904]]
+- [[Atjehoorlog]]
+- [[1824]]
+- [[1948]]
+- [[Korte verklaring]]
+- [[1873]]
+- [[Acheh]]
+- [[Second politionele actie (18 December 1948)]]
+- [[1799]]
+- [[VOC]]
+- [[Royal Netherlands Marine Corps|Korps Mariniers]]
+- [[Padri War|Padri War]]
+- [[Aceh]]
+- [[Sultanate of Aceh]]
+- [[Palembang]]
+- [[Borneo]]
+- [[Anglo-Dutch Treaty of 1824]]
+- [[British Empire]]
+- [[Kongsi]]
+- [[Jakarta]]
+- [[Militaire Willemsorde|Military Order of William]]
+- [[1699]]
+- [[1801]]
+- [[1814]]
+- [[Royal Netherlands Marine Corps]]
+- [[Japanese invasion of the Dutch East Indies]]
+- [[Surabaya]]
+- [[Madura]]
+- [[1940]]
+- [[1942]]
+- [[Aceh War (1873–1904)]]
+- [[World War II in the Dutch East Indies]]
+- [[Royal Netherlands East Indies Army]]
+- [[Dutch East India Company]]
+- [[Schooneveld (battle)]]
+- [[Michiel de Ruyter]]
+- [[Maarten Tromp]]
+- [[Stadholder]]
+- [[Staten-Generaal]]
 
 ## Source
 

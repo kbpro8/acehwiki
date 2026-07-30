@@ -1,7 +1,40 @@
 ---
 title: Bencoolen
-aliases: [Benculen, Bancoolen, Benkulu, Bengkulu, Fort Marlborough, Benkoelen, Bencoolen]
-tags: [place, region, coast, west-coast, foreign, british-india, city, colony, sumatra, colonial, british, dutch, achehnese]
+aliases:
+- Benculen
+- Bancoolen
+- Benkulu
+- Bengkulu
+- Fort Marlborough
+- Benkoelen
+- Hr. Ms. Benkoelen
+- Warship Benkoelen
+- Dutch warship Benkoelen
+- Benkoelen (Bengkulu)
+tags:
+- place
+- region
+- coast
+- west-coast
+- foreign
+- british-india
+- city
+- colony
+- sumatra
+- colonial
+- british
+- dutch
+- achehnese
+- organization
+- ship
+- navy
+- aceh-war
+- 19th-century
+- 1884
+- toekoe-oemar
+- lambeusong
+- koninklijke-marine
+- indonesia
 ---
 
 **Bencoolen** — Dutch **Benkoelen**; modern **Bengkulu** — on the south-west coast of [[Sumatra]], was the British East India Company's settlement on the [[Westkust van Sumatra|West Coast of Sumatra]], centred on the fortress of **Fort Marlborough**, established in [[1685]] after the English expulsion from [[Bantam]] by the [[17 April 1684]] treaty between [[Sultan Hadji of Bantam|sultan Hadji of Bantam]] and the [[Vereenigde Oost-Indische Compagnie|Compagnie]]. In Dr. F. W. Stapel's *Geschiedkundige Atlas van Nederland* Bencoolen is the long English counterweight to the Dutch Westkust system, and the place whose presence on the Westkust — formally on territory the Compagnie considered its own — would last until [[1824]].
@@ -78,6 +111,30 @@ The Bencoolen establishment is also the operational proof that the Compagnie's W
 - [[1684]]
 - [[1685]]
 - [[1824]]
+- [[Teuku Umar]]
+- [[Koninklijke Marine]]
+- [[Meulaboh]]
+- [[Rigaih]]
+- [[Lambeusong]]
+- [[Westkust]]
+- [[Hok Canton (ship)]]
+- [[Hok Canton affair (June 1886)]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Demmeni]]
+- [[Pahlawan-klucht]]
+- [[Defection of Teuku Umar (March 1896)]]
+- [[Aceh War]]
+- [[Atjeh-oorlog]]
+- [[1884]]
+- [[1886]]
+- [[1896]]
+- [[Anglo-Dutch Treaty of 1824]]
+- [[Bengkulu]]
+- [[Dutch East Indies]]
+- [[British Empire]]
+- [[Sultanate of Acheh]]
+- [[Aceh]]
+- [[Strait of Malacca]]
 
 ## Sources
 
@@ -86,3 +143,6 @@ The Bencoolen establishment is also the operational proof that the Compagnie's W
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 23 (tekst bij blad 4: *Atjeh en de Westkust van Sumatra in 1684*).
+*Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, p. 25.
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 109‑110.
+*DLP-84-Atjeh.pdf*, pp. 3‑4.

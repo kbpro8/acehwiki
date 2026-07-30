@@ -1,7 +1,24 @@
 ---
-title: "Indische Stoomboot-maatschappij"
-aliases: ["Indies Steamship Company", "ISM", "Nederlandsch-Indische Stoomvaart Maatschappij", "Dutch East Indies steamship company", "Stoomboot-maatschappij"]
-tags: [organization, dutch, colonial, transport, contractor, shipping, aceh-war, 1874]
+title: Indische Stoomboot-maatschappij
+aliases:
+- Indies Steamship Company
+- ISM
+- Nederlandsch-Indische Stoomvaart Maatschappij
+- Dutch East Indies steamship company
+- Stoomboot-maatschappij
+- Nederlandsch-Indische Stoomvaartmaatschappij
+- NISM
+- Nederlandsch-Indische Stoomvartmaatschappij
+- Dutch Indies Steamship Company
+tags:
+- organization
+- dutch
+- colonial
+- transport
+- contractor
+- shipping
+- aceh-war
+- 1874
 ---
 
 The **[[Indische Stoomboot-maatschappij|Indische Stoomboot-maatschappij]]** (Indies Steamship Company) was the private shipping contractor engaged by the Dutch colonial government to transport troops, stores and materieel to and from [[Atjeh (Borel account)|Atjeh]] during the [[Aceh War|Atjeh-oorlog]]. Under the terms of its contract, the government paid a *[[Liggelden|liggeld]]* (demurrage) of ƒ 1,200 for every day a ship was held at the roadstead beyond the first 24 hours after arrival. The company's transports — the *Prins Alexander der Nederlanden*, the *Baron Sloet van de Beele* and others — feature repeatedly in Borel's account of the chaotic debarkation at [[Oeleh Leh]] and of the cost overruns that heaped scandal on the conduct of the war.
@@ -18,6 +35,14 @@ The Indische Stoomboot-maatschappij's ships carried the troops and koelies of th
 
 The Indische Stoomboot-maatschappij is also part of Borel's indictment of the financial costs of the Atjeh-oorlog. The demurrage paid to the company — running, on the *Baron Sloet van de Beele* alone, to almost ƒ 17,000 — is cited alongside the costs of the [[Vesting-artillerie in Atjeh|vesting-artillerie]], the [[Vereniging Het Roode Kruis in Atjeh|Red Cross comforts]], the [[Kettinggangers in Atjeh|kettinggang convicts]] and the spoorweg K. Radja–Oeleh Leh as part of the "kolossale offers" the war had already cost by [[1878]]. Borel's proposed [[Indische Brigade (proposed)|Indische Brigade]] of 3 000–4 000 men, estimated at ƒ 6 000 000 for the first year and ƒ 10–15 million for the whole two years, was, he argued, no more than a fraction of what the war was already costing in demurrage, reinforcements, and the slow attrition of the [[Indische Leger|Indische leger]] — and would, by ending the war, eliminate the very demand for the company's transports that the demurrage fed.
 
+
+## Sources
+D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), pp. 22, 35. Koninklijke Bibliotheek shelfmark 0301 4872.
+
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 49–50, 69.
+
+*Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
 ## See Also
 
 - [[Liggelden]]
@@ -31,6 +56,17 @@ The Indische Stoomboot-maatschappij is also part of Borel's indictment of the fi
 - [[Crisis at Kota Radja (May–June 1874)]]
 - [[Indische Brigade (proposed)]]
 - [[1874]]
+- [[Cornelis Jacobus Snijders]]
+- [[Maatschappij "Nederland"]]
+- [[Koninklijke Paketvaart-Maatschappij]]
+- [[Oleh-leh]]
+- [[Batavia]]
+- [[Surabaya]]
+- [[Penang]]
+- [[Singapore]]
+- [[Aceh War]]
+- [[1873]]
+- [[1875]]
 
 ## Source
 

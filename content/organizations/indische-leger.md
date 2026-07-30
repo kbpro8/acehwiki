@@ -1,7 +1,33 @@
 ---
 title: Indische Leger
-aliases: ["Indische Leger", "Indische leger", "Colonial army", "Dutch East Indies Army", "Royal Dutch East Indies Army"]
-tags: [organization, military, dutch, colonial, aceh, 1873]
+aliases:
+- Colonial army
+- Dutch East Indies Army
+- Royal Dutch East Indies Army
+- Indies Army
+- Het Indische Leger
+- Nederlandsch-Indisch Leger
+- KNIL
+- Koninklijk Nederlandsch-Indisch Leger
+- Royal Netherlands Indies Army
+- K.N.I.L.
+- Koninklijk Nederlands-Indisch Leger
+- Royal Netherlands East Indies Army
+- Royal Dutch Indies Army
+- Nederlands-Indisch Leger
+- Koninklijk Nederlands Indisch Leger
+- Indische legerverband
+tags:
+- organization
+- military
+- dutch
+- colonial
+- aceh
+- 1873
+- army
+- indies
+- knil
+- netherlands
 ---
 
 **Indische Leger** was the regular Dutch colonial army—also called the Royal Dutch East Indies Army—serving as the main ground force of the [[Netherlands]] in the [[Dutch East Indies Government]] and responsible for land operations throughout the [[East Indies]] archipelago. It operated in close coordination with the [[Royal Netherlands Marine Corps|Dutch Marine Corps]], the [[Indische marechaussees]] and the [[Royal Netherlands Marine Corps|Korps Mariniers]], taking part in early‑nineteenth‑century punitive expeditions (e.g., the [[17 May]] [[1817]] suppression of the uprising on [[Saparoea]] and the [[1821]] campaign against [[Palembang]]) and the protracted [[Aceh War (1873–1904)]], including the initial amphibious assaults of [[5 April]] [[1873]] and the later [[1875]]–[[1876]] Aceh expedition that saw infantry companies and artillery supported by marine detachments.
@@ -36,6 +62,20 @@ The Indische Leger embodied the Dutch colonial state’s capacity to mobilize a 
 
 The *DLP-84-Atjeh* pamphlet records that the [[Indische Leger|Indische Leger]] — the colonial army of the [[Dutch East Indies|Dutch East Indies]] — comprised European officers, Ambonese *fusiliers* (infantrymen) and other native troops. It operated in [[Atjeh|Atjeh]] during the [[Aceh War|Aceh War]], employing the chaplains [[Dominee Thenu|Ds. Thenu]] and [[Pastoor Verbraak]] — the one a *soldier-dominee*, the other a *soldier-pastor* — to tend to soldiers' spiritual needs. The Ambonese *fusiliers* and European soldiers, many of them Christian, served under the guidance of these *soldier-pastors* (*soldaten-pastoors*), the chaplaincy arrangement that supplied the moral and religious framework for the Christian soldiery of the Atjeh garrisons.
 
+
+## Sources
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I.
+---
+
+
+**The Indies Army** (Dutch: *Het Indische Leger*; later the *Koninklijk Nederlandsch-Indisch Leger* or KNIL) was the colonial army of the [[Netherlands India|Netherlands-Indian]] government, comprising European and native troops with African and Ambonese auxiliaries, charged with the defence and expansion of the Dutch colonial possessions in the Indonesian archipelago. In the period covered by the source work the army was commanded by Lieutenant-general [[W. E. Kroesen|W. E. Kroesen]] until his death, then by Lieutenant-general [[H. G. Boumeester|H. G. Boumeester]]; its principal engagement was the [[Aceh War|Atjeh-oorlog]] of [[1873]]-[[1903|1903]], which "robbed the Indies army of a good part of its fit cadres and its best soldiers."
+*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapters "Van recruut tot pensioen," "Moeilijkheden op den weg," "Tangsi en Tante," "De buitenpost," "Ooms leger," and the closing chapters on the Indonesian revolution.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Throughout — the K.N.I.L. is the principal Dutch military instrument throughout the brochure.
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, pp. 436‑442.
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pages 445‑447.
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 5-22; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-17.
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Titelpagina; Chapter V; Extract from the service record.
+
 ## See Also
 
 - [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
@@ -53,6 +93,66 @@ The *DLP-84-Atjeh* pamphlet records that the [[Indische Leger|Indische Leger]] �
 - [[J. L. J. H. Pel|General Pel]]
 - [[Battle of Daroe]]
 - [[Dutch colonial administration]]
+- [[W. E. Kroesen]]
+- [[H. G. Boumeester]]
+- [[J. H. R. Köhler]]
+- [[Jan van Swieten|J. van Swieten]]
+- [[J. L. J. H. Pel]]
+- [[G. B. T. Wiggers van Kerchem]]
+- [[A. J. E. Diemont]]
+- [[K. van der Heyden]]
+- [[G. M. Verspyck]]
+- [[E. C. van Daalen]]
+- [[Aceh War]]
+- [[First Aceh Expedition (1873)]]
+- [[Second Aceh Expedition (1873-1874)]]
+- [[Netherlands India]]
+- [[Korps Marechaussee van Atjeh en Onderhorigen]]
+- [[1e Divisie Marechaussee uit Blang Kedjeren]]
+- [[6e Divisie Marechaussee]]
+- [[Zesde Bataljon]]
+- [[Derde Bataljon (Atjeh-Bataljon)]]
+- [[Depotbataljons]]
+- [[Andjing Nica (5e Bataljon)]]
+- [[Zeven December Divisie]]
+- [[Oom Ambon]]
+- [[Tangsi]]
+- [[Bangsa]]
+- [Atjeh-oorlog](/events/atjeh-oorlog)
+- [[Souvereiniteitsoverdracht (27 December 1949)]]
+- [Jappentijd (Japanese occupation, 1942-1945)](/events/jappentijd)
+- [Tegen de rood-witten (1946-1949)](/events/tegen-de-rood-witten)
+- [[Communist uprisings of 1926]]
+- [[Jan van Swieten]]
+- [[General van der Heijden]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Koninklijk Nederlandsch-Indisch Leger]]
+- [[Marinebataljon]]
+- [[Legioen Mangko Negoro]]
+- [[Japanese invasion of Java]]
+- [[Regeling op den Staat van Oorlog]]
+- [[1942]]
+- [[Aceh Expedition 1875–1876]]
+- [[Aceh]]
+- [[Dutch Marine Corps (Netherlands)]]
+- [[Dutch Navy|Royal Netherlands Navy]]
+- [[First Aceh Expedition]]
+- [[General Pel's Campaign in Aceh]]
+- [[General Staff of the KNIL]]
+- [[J. van Swieten]]
+- [[Japanese occupation of Aceh]]
+- [[M. P. Meyer]]
+- [[Royal Netherlands Marine Corps]]
+- [[Second Aceh Expedition]]
+- [[World War II in the Dutch East Indies]]
+- [[Dutch East Indies]]
+- [[Bronzenn Kruis]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
+- [[1873]]
+- [[1908]]
 
 ## Source
 

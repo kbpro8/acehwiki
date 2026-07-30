@@ -1,9 +1,62 @@
 ---
 title: Gouvernement Atjeh en Onderhoorigheden
-aliases: ["Gouvernement Atjeh en Onderhoorigheden", "Gouvernement of Atjeh and its Dependencies", "Government of Aceh and Dependencies", "Atjeh and Dependencies", "Gouvernement Atjeh", "Atjeh en Onderhoorigh.", "Gewest Atjeh", "Residency of Atjeh and Dependencies", "Aceh Governorate", "Atjeh-residency", "Atjeh en Onderhoorigheden", "Atjeh's Onderhoorigheden", "Onderhoorigheden", "Atjeh Dependencies", "Atjeh en Onderhorigheden", "Government of Atjeh and Dependencies", "Gouvernement van Atjeh", "Atjeh government"]
-
-tags: [place, organization, gouvernement, residency, region, colonial, dutch, aceh, sumatra, buitenbezittingen, military, tramway, administrative-division, achehnese-history]
-description: "The Gouvernement Atjeh en Onderhoorigheden (Government of Atjeh and Dependencies) was a Dutch colonial administrative unit in North Sumatra. Its head bore the title of Gouverneur (Governor), a rank higher than the Resident who headed most other territorial units."
+aliases:
+- Gouvernement of Atjeh and its Dependencies
+- Government of Aceh and Dependencies
+- Atjeh and Dependencies
+- Gouvernement Atjeh
+- Atjeh en Onderhoorigh.
+- Gewest Atjeh
+- Residency of Atjeh and Dependencies
+- Aceh Governorate
+- Atjeh-residency
+- Atjeh en Onderhoorigheden
+- Atjeh's Onderhoorigheden
+- Onderhoorigheden
+- Atjeh Dependencies
+- Atjeh en Onderhorigheden
+- Government of Atjeh and Dependencies
+- Gouvernement van Atjeh
+- Atjeh government
+- Gouvernement Atjeh en Ond.
+- Atjeh en Onderh.
+- Aceh and Dependencies
+- Atjèh en Onderhoorigheden
+- Gouvernement Atjeh en Onderhorigheden
+- residency of Atjeh
+- Atjeh en Onderhoorigheden (colonial government)
+tags:
+- place
+- organization
+- gouvernement
+- residency
+- region
+- colonial
+- dutch
+- aceh
+- sumatra
+- buitenbezittingen
+- military
+- tramway
+- administrative-division
+- achehnese-history
+- atjeh
+- colonial-administration
+- military-governance
+- government
+- administration
+- 19th-century
+- 20th-century
+- achehnese
+- administrative-unit
+- concept
+- acheh
+- administrative
+- aceh-war
+description: The Gouvernement Atjeh en Onderhoorigheden (Government of Atjeh and Dependencies)
+  was a Dutch colonial administrative unit in North Sumatra. Its head bore the title
+  of Gouverneur (Governor), a rank higher than the Resident who headed most other
+  territorial units.
 ---
 
 **The Gouvernement Atjeh en Onderhoorigheden** (English: Government of Atjeh and Dependencies; also simply *Gouvernement Atjeh*) was the colonial administrative unit established by the Dutch in [[1874]] to comprise the northern tip of [[Sumatra]] and its subject territories — the *gewest* whose protracted subjection through the [[Aceh War|Atjeh-krijg]] became, in the words of *De Buitenbezittingen*, "het zorgenkind van het Nederlandsch-Indische Gouvernement" (the worry-child of the Netherlands-Indies Government). Bounded on three sides by the sea — the Indian Ocean to the west, the Strait of Malacca to the north and east — and to the south by the *gewesten* of the East Coast of Sumatra and Tapanoeli, it covered roughly one-eighth of the entire island and was administered, by [[1917]], under a Civil and Military Governor resident at [[Koeta Radja|Koeta Radja]]. It was one of the three colonial territorial divisions whose head bore the elevated title of Gouverneur (Governor), alongside [[Sumatra's East Coast]] and Celebes and Dependencies.
@@ -163,6 +216,100 @@ By [[1926]], the Gouvernement Atjeh en Onderhoorigheden possessed an important a
 - [[Fort Marlborough]]
 - [[Sabang]]
 - [[Kotta Loempoer]]
+- [[H. N. A. Swart|H. N. N. A. Swart]]
+- [[Koeta-Radja]]
+- [[Rechtstreeks bestuurd gebied]]
+- [[Gewestelijk Zelfbestuur]]
+- [[Sagi]]
+- [[Peleebalangschap]]
+- [[Moekimschap]]
+- [[Civiel Gezaghebber]]
+- [[Bestuursreorganisatie Sumatra (1913-1914)]]
+- [[Koeta-Radja bestuursvergaderingen (19-20 January 1914)]]
+- [[Noord-Sumatra (proposed gewest)]]
+- [[Atjeh-Sumatra's Oostkust merger proposal]]
+- [[Gotfried Coenraad Ernst van Daalen]]
+- [[C. Deijckerhoff]]
+- [[Van Sluys]]
+- [[Van Aken]]
+- [[Administrative Division of Atjeh (1908)]]
+- [[Swart's farewell address (2 September 1918)]]
+- [[Gajoland]]
+- [[N.O.-kust van Atjeh]]
+- [[M.A.E.M.]]
+- [[Alasland]]
+- [[J. Zulkler]]
+- [[Netherlands Indies Mining Law of 1899]]
+- [[Kleine-Atjeh]]
+- [[1885]]
+- [[Tamiang oil block]]
+- [[Van Heutsz's report on Atjeh (June 1908)]]
+- [[Kreemer's Atjeh ([[1922]]
+- [[Banda Acheh]]
+- [[Koninklijke Petroleum Maatschappij]]
+- [[1908]]
+- [[Coal in Atjeh]]
+- [[Mijnwet]]
+- [[Bureau of Mines in Indonesia]]
+- [[Atjeh's Westkust]]
+- [[Simaloer]]
+- [[Perlak Petroleum Maatschappij]]
+- [[Van Bemmelen's The Geology of Indonesia (1949)]]
+- [[Atjeh-oorlog (1873-1904)]]
+- [[Pedirse]]
+- [[Indisch Verslag 1939]]
+- [[Kinandam-Sumatra Mijnbouw Mij.]]
+- [[Sultan of Acheh]]
+- [[Mijnwet art. 5a (1910)]]
+- [[East Atjeh oil block]]
+- [[Pasei]]
+- [[Oil exploration in North Sumatra]]
+- [[Kreemer's De Karbouw ([[1956]]
+- [[Rinaud]]
+- [[1949]]
+- [[J. B. van Heutsz]]
+- [[Acheh]]
+- [[J. Kreemer]]
+- [[G. C. E. van Daalen]]
+- [[Sagi (Atjehnese federation)]]
+- [[Uleebalang]]
+- [[Atjehoorlog]]
+- [[Pidië]]
+- [[Korte verklaring]]
+- [[Dr. C. Snouck Hurgronje]]
+- [[Gouverneur van Atjeh en Onderhoorigheden]]
+- [[Civiel en Militair Gouvernur]]
+- [[Sultanate of Aceh]]
+- [[Sultan of Aceh]]
+- [[Oostkust]]
+- [[Noordkust]]
+- [[Westkust]]
+- [[Onderhoorigheden]]
+- [[Kraton of Aceh]]
+- [[Conquest of the Kraton (24 January 1874)]]
+- [[Jan van Swieten]]
+- [[J. L. J. H. Pel]]
+- [[Wiggers van Kerchem]]
+- [[Diemont]]
+- [[General van der Heijden]]
+- [[Pruijs van der Hoeven]]
+- [[Laging Tobias]]
+- [[Demmeni]]
+- [[General van Teijn]]
+- [[Pompe van Meerdervoort]]
+- [[Deijkerhoff]]
+- [[Vetter]]
+- [[Regeeringscommissaris]]
+- [[Scheepvaartregeling]]
+- [[Gayo]]
+- [[Alas]]
+- [[Troemon]]
+- [[Utrecht]]
+- [[Sumatra]]
+- [[Atjeh-oorlog]]
+- [[24 January]]
+- [[26 January]]
+- [[1918]]
 
 ## Sources
 
@@ -175,3 +322,12 @@ By [[1926]], the Gouvernement Atjeh en Onderhoorigheden possessed an important a
 *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 131-145.
 
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter III (Gezagvoering), p. 54; Plates 23, 70.
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118-130.
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters I, III, VIII, XIII, XVI, XVII, pp. 1, 14, 80, 136, 152–157; Extract from the service record, pp. 172–173.
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 50-51.
+*Indisch Verslag [[1939]]*, vol. II, p. 283.
+*Atjèh: algemeen samenvattend overzicht van land en volk van Atjèh en Onderhoorigheden*, by J. Kreemer, 2 vols. ([[1922]]-23).
+*The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 56 (Atjeh and Dependencies coal exploration summary), pp. 9–10 (North Sumatra oil production, including the Atjeh fields).
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-275, 305-306.
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 217-219.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter I (geography), Chapter III (the establishment of the gouvernement). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 6, 14.

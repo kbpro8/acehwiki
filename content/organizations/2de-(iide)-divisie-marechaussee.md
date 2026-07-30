@@ -1,8 +1,33 @@
 ---
-
 title: 2de (IIde) Divisie Marechaussee
-aliases: [2e Divisie Marechaussee, Tweede Divisie Marechaussee, IIde Divisie Marechaussee, Westkust Maréchaussee divisie]
-tags: [organization, military, dutch, colonial, knil, marechaussee, atjeh, world-war-ii, westkust]
+aliases:
+- 2e Divisie Marechaussee
+- Tweede Divisie Marechaussee
+- IIde Divisie Marechaussee
+- Westkust Maréchaussee divisie
+- 2e Divisie Maréchaussée
+- IIde Divisie Maréchaussée
+- 2nd Division Maréchaussée
+- Koeala Beh division
+- Tripa division
+- Divisie Doewa djaga koeala
+tags:
+- organization
+- military
+- dutch
+- colonial
+- knil
+- marechaussee
+- atjeh
+- world-war-ii
+- westkust
+- military-unit
+- aceh
+- aceh-war
+- 20th-century
+- koeala-beh
+- tripa
+- 2e-divisie
 ---
 
 **The 2de (IIde) Divisie Marechaussee** was the Westkust division of the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Maréchaussee van Atjeh en Onderhorigen]] during [[1940]]–[[1942]], under the command of Captain [[L. H. J. Kloprogge|L. H. J. Kloprogge]] at [[Meulaboh|Meulaboh]], and the only Maréchaussee division to conduct sustained Dutch resistance during the [[Japanese invasion of Atjèh|Japanese invasion of March 1942]]. In the [[Nederlands-Indië contra Japan|Dutch staff history's]] account (Deel VI, Hoofdstuk V), the IIde Divisie is the staff history's principal narrative unit of the Westkust campaign — the formation that evacuated 3,000 women and children over 600 km of Westkust road, fought the [[Battle of Blang Pidië (16 March 1942)|Battle of Blang Pidië]] on [[17 March]] [[17 March 1942|17 March 1942]], and capitulated at [[Lae Boetar|Lae Boetar]] on [[29 March]] [[29 March 1942|29 March 1942]].
@@ -35,6 +60,10 @@ The IIde Divisie's operations of March [[1942]] are the staff history's principa
 
 The IIde Divisie is, in the staff history's Atjeh chapter, the principal Dutch formation of the Westkust campaign, and the only Maréchaussee division to conduct sustained resistance during the Japanese invasion. The staff history's contrast between the IIde Divisie's sustained resistance — achieved under Captain [[L. H. J. Kloprogge|Kloprogge]]'s calm and judicious leadership — and the panic that overtook the *2de Garnizoensbataljon* on the noordkust under Lt-Col [[C. J. Bekkers|Bekkers]] is the compilers' principal evidence that the structural cause of the noordkust collapse was not the Maréchaussee's fighting spirit in general, but the *2de Garnizoensbataljon*'s specific demoralisation.
 
+
+## Sources
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
 ## See Also
 
 - [[Nederlands-Indië contra Japan]]
@@ -54,6 +83,26 @@ The IIde Divisie is, in the staff history's Atjeh chapter, the principal Dutch f
 - [[Battle of Blang Pidië (16 March 1942)]]
 - [[Capitulation at Lae Boetar (29 March 1942)]]
 - [[1942]]
+- [[1e Divisie Marechaussee]]
+- [[Colonne Matjan]]
+- [[G.C.E. van Daalen]]
+- [[Gajoetocht (1904)]]
+- [[Blang Kedjeren]]
+- [[Gajoeland]]
+- [[Meulaboh]]
+- [[Seunagan]]
+- [[Potjoet Barin]]
+- [[Toengkob]]
+- [[Boven-Wojla]]
+- [[Tangsé]]
+- [[Geumpang]]
+- [[Klewang]]
+- [[Beren (dwangarbeiders)]]
+- [[Tangsi]]
+- [[1904]]
+- [[1925]]
+- [[1927]]
+- [[Aceh War]]
 
 ## Source
 

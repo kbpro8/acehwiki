@@ -1,8 +1,36 @@
 ---
 title: Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden
-aliases: ["Civiel en Militair Gouverneur", "Civil and Military Governor of Atjeh", "Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden", "Civiele en Militaire Gouverneur", "Civiel en Militair Gouvernur", "Governor of Atjeh and Dependencies", "Gouverneur van Atjeh en Onderhoorigheden", "Atjeh Governor", "Gouverneur tevens militair bevelhebber van Atjeh en Onderhoorigheden"]
-tags: [organization, dutch, colonial, colonial-office, atjeh, aceh-war, administration, governor, gouverneur, succession, 19th-century, 20th-century]
-description: "The office of the Civil and Military Governor of Atjeh and Dependencies, instituted in 1874 by Van Swieten's Instructie, held successively by eleven Governors (van Swieten through Deijkerhof) before 1893 according to Van Heutsz's catalogue, and again in 1896 by Deykerhoff and Stemfoort; combined military command and civil administration of the Atjeh territory."
+aliases:
+- Civiel en Militair Gouverneur
+- Civil and Military Governor of Atjeh
+- Civiele en Militaire Gouverneur
+- Civiel en Militair Gouvernur
+- Governor of Atjeh and Dependencies
+- Gouverneur van Atjeh en Onderhoorigheden
+- Atjeh Governor
+- Gouverneur tevens militair bevelhebber van Atjeh en Onderhoorigheden
+- Civil and Military Governor
+- Civiele en Militaire Gouverneur Atjeh
+- Civil and Military Governor Atjeh
+tags:
+- organization
+- dutch
+- colonial
+- colonial-office
+- atjeh
+- aceh-war
+- administration
+- governor
+- gouverneur
+- succession
+- 19th-century
+- 20th-century
+- office
+description: The office of the Civil and Military Governor of Atjeh and Dependencies,
+  instituted in 1874 by Van Swieten's Instructie, held successively by eleven Governors
+  (van Swieten through Deijkerhof) before 1893 according to Van Heutsz's catalogue,
+  and again in 1896 by Deykerhoff and Stemfoort; combined military command and civil
+  administration of the Atjeh territory.
 ---
 
 **The Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden** — the Civil and Military Governor of [[Atjeh]] and [[Onderhoorigheden|Dependencies]] — was the combined civil-and-military head of the Dutch colonial administration in [[Aceh War|Atjeh]], an office instituted by the founding *Instructie voor den militairen, tevens civielen bevelhebber te Atjeh* drawn up by [[Van Swieten|Generaal van Swieten]] and approved by Besluit of the Gouverneur-Generaal of Nederlandsch-Indië of [[26 May]] [[1874]] No. 1, vesting in a single officer both the military command of the Dutch forces in the Atjeh territory and the supreme civil administration of the occupied coast and interior. [[Joannes Benedictus van Heutsz|Van Heutsz]] opens the diagnostic chapter of his [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]* by cataloguing the eleven Governors who, in the twenty years between the conquest of the *kraton* and the book's publication, successively held the office — a catalogue he adduces as proof that the colonial *Regeering* had, by constantly changing the office-holder and the policy, "stijft den Atjeher in hooge mate in zijn verzet" (strengthened the Atjeher greatly in his resistance). In [[1896]], in the immediate aftermath of the [[Defection of Teuku Umar (March 1896)|defection of Teuku Umar]], the office was held by Generaal-Majoor C. Deykerhoff, honorably relieved on [[7 April]] [[1896]], temporarily abolished under the [[Regeeringscommissaris (Government Commissioner)|Regeeringscommissaris]] period of [[J. A. Vetter (Luitenant-Generaal)|Lt.-Gen. Vetter]] ([[7 April]]–[[28 June]] [[1896]]), and restored on [[28 June]] [[1896]] with Kolonel Stemfoort (provisionally) as *Civiel en Militair Gouvernur*.
@@ -101,6 +129,18 @@ The office of *Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden* is, 
 - [[1893]]
 - [[1896]]
 - [[1898]]
+- [[Gouverneur van Atjeh en Onderhoorigheden]]
+- [[Vetter]]
+- [[Regeeringscommissaris]]
+- [[General van der Heijden]]
+- [[C. Snouck Hurgronje]]
+- [[Teuku Umar]]
+- [[Joannes Benedictus van Heutsz]]
+- [[September 1884]]
+- [[December 1886]]
+- [[May 1891]]
+- [[January 1892]]
+- [[March 1896]]
 
 ## Sources
 

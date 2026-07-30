@@ -1,8 +1,37 @@
 ---
-
 title: Vereenigde Oostindische Compagnie
-aliases: [VOC, Dutch East India Company, Vereenigde O.I. Compagnie, Geoctroyeerde Oostindische Compagnie, Heeren Compagnie, Verenigde Oostindische Compagnie]
-tags: [organization, company, colonial, dutch, atjeh, banda, malaka, monopoly, 17th-century, voc]
+aliases:
+- VOC
+- Dutch East India Company
+- Vereenigde O.I. Compagnie
+- Geoctroyeerde Oostindische Compagnie
+- Heeren Compagnie
+- Verenigde Oostindische Compagnie
+- United East India Company
+- Dutch East India Company (VOC)
+- Dutch East India Co.
+- Vereenigde Oost-Indische Compagnie
+- Edele Compagnie
+- O.I. Compagnie
+- Oost-Indische Compagnie
+- Heeren Zeventien
+- Bewindhebbers
+- the Company
+tags:
+- organization
+- company
+- colonial
+- dutch
+- atjeh
+- banda
+- malaka
+- monopoly
+- 17th-century
+- voc
+- aceh
+- trade
+- east-indies
+- acheh
 ---
 
 **The Vereenigde Oostindische Compagnie (VOC)** — the **Dutch East India Company**, chartered by the [[Staten-Generaal|Staten-Generaal]] of the United Provinces on [[Founding of the VOC (1602)|20 March 1602]] for a period of twenty-one years (renewable in ten-year accounting periods), with a monopoly of Dutch trade east of the Cape of Good Hope and through the Strait of Magellan — was the principal Dutch commercial and political instrument in the East Indies for two centuries and the institutional framework within which the Dutch-Atjeh relationship unfolded from [[1602]] to the Company's dissolution in [[1799]]. The VOC is the central institution of Van der Woude's [[Coen, Koopman van Heeren Zeventien (1948)|Van der Woude (1948)]].
@@ -31,6 +60,25 @@ The VOC's institutional framework — the [[Heeren Zeventien|Heeren Zeventien]] 
 
 The VOC is, in Van der Woude's narrative, the central institution of the early Dutch-Indies trade and the institutional framework within which the Dutch-Atjeh relationship unfolded from [[1602]] to the Company's dissolution in [[1799]]. The charter of [[20 March]] [[1602]] — with its grant of quasi-sovereign powers (fortification, war, treaty-making) — was the legal foundation of the [[Jan Pieterszoon Coen|Coen]] programme of monopoly-by-force that would define VOC policy from [[1609]] onward. The early VOC inherited the diplomatic framework of the voorcompagnieën at Atjeh — the [[Aceh Embassy to Prince Maurits at Grave (1602)|treaty of 1601]], the lodge "Zeelant", the practice of buying pepper from visiting fleets — and continued to operate within it for the first decade of its existence, while the strategic centre of Dutch-Indies policy shifted south and east to [[Banda-eilanden|Banda]] and [[Jacatra|Jacatra]]. The Company's monopoly-by-force policy, inaugurated by the secret instruction of [[11 April]] [[1608]] and completed by the [[Jan Pieterszoon Coen|Coen]] *Discours* of [[1 January]] [[1614]], would define the Dutch-Indies trade for the next two centuries and would, in the long run, lead to the [[Aceh War|Atjeh-oorlog]] of [[1873]]-[[1903]].
 
+
+## Sources
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, pp. 43‑46 (20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt).  
+
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pp. 76‑78. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.  
+
+*De Geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR transcription, pp. 212‑214, 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.  
+
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, pp. 266‑269, 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.  
+
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR text, p. 275.  
+
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 287‑290.
+
+*DLP-84-Atjeh.pdf*, pp. 4-5.
+*Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapters X–XII, XXXII–XXXIV, passim, pp. 33–47, 114–125 of the numbered-letter sequence.
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR transcription, pp. 24‑32.
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 156-157, 163.
+
 ## See Also
 
 - [[Founding of the VOC (1602)]]
@@ -54,6 +102,55 @@ The VOC is, in Van der Woude's narrative, the central institution of the early D
 - [[1608]]
 - [[1609]]
 - [[1614]]
+- [[Batavia]]
+- [[Regiment de Marine]]
+- [[Dutch Marine Corps (1665–1945)]]
+- [[Dutch‑Aceh wars]]
+- [[Treaty of 1629 (Aceh‑VOC)]]
+- [[Second Anglo‑Dutch War]]
+- [[Aceh War (1659–1663)]]
+- [[Solebay]]
+- [[Battle of Schooneveld]]
+- [[Battle of Kijkduin]]
+- [[East Indies (region)]]
+- [[Sultanate of Aceh]]
+- [[Michiel de Ruyter]]
+- [[Maarten Tromp]]
+- [[Stadholder]]
+- [[Dutch–French War]]
+- [[Indische retourvloot]]
+- [[Dutch Navy]]
+- [[Admiralty colleges]]
+- [[Strait of Malacca]]
+- [[Willem III of Orange]]
+- [[Aceh War (1873–1904)]]
+- [[Pieter Soury's mission to Atjeh (1641)]]
+- [[Atjehsche ambassade ceremony (1 July 1641)]]
+- [[Dutch lodge at Atjeh]]
+- [[Fort Zeeland at Atjeh]]
+- [[Justus Schouten]]
+- [[Joan Maetsuycker]]
+- [[Jacob Compostel]]
+- [[Pieter Willemz]]
+- [[Jan van Riebeeck]]
+- [[Atjehsche mode]]
+- [[Joris van Spilbergen|Joris van Spilbergh]]
+- [[Bewindhebbers]]
+- [[1641]]
+- [[Queen Wilhelmina of the Netherlands]]
+- [[Royal Netherlands Marine Corps|Dutch Marine Corps]]
+- [[1665]]
+- [[Aceh War]]
+- [[Rotterdam]]
+- [[Mogol]]
+- [[H. J. de Graaf]]
+- [[Benkoelen]]
+- [[Nederlanders over de Zeeën (De Graaf et al., 1955)]]
+- [[Van Imhoff]]
+- [[Nederlandsch-Indië]]
+- [[Gujerat]]
+- [[Suratte]]
+- [[1799]]
 
 ## Source
 

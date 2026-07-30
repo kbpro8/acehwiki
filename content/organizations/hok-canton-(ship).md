@@ -1,7 +1,38 @@
 ---
-title: "Hok Canton (ship)"
-aliases: ["Hok Canton (ship)", "Hok Canton", "SS Hok Canton", "Steamship Hok Canton", "Hok Canton incident (1886)", "Hok Canton geschiedenis 1886", "the 1886 Hok Canton affair", "de in Juni 1886 voorgevallene treurige Hok Canton geschiedenis", "de Hok Canton geschiedenis"]
-tags: [organization, ship, dutch, colonial, aceh-war, 19th-century, 1886, 1893, toekoe-oemar, hok-canton, piracy, rigaih, scheepvaartregeling]
+title: Hok Canton (ship)
+aliases:
+- Hok Canton
+- SS Hok Canton
+- Steamship Hok Canton
+- Hok Canton incident (1886)
+- Hok Canton geschiedenis 1886
+- the 1886 Hok Canton affair
+- de in Juni 1886 voorgevallene treurige Hok Canton geschiedenis
+- de Hok Canton geschiedenis
+- Hok Canton affair (June 1886)
+- Hok Canton incident
+- Capture of the Hok Canton
+- Piracy of the Hok Canton
+- June 1886 Hok Canton affair
+tags:
+- organization
+- ship
+- dutch
+- colonial
+- aceh-war
+- 19th-century
+- 1886
+- 1893
+- toekoe-oemar
+- hok-canton
+- piracy
+- rigaih
+- scheepvaartregeling
+- event
+- acehnese
+- westkust
+- kemala
+- ransom
 ---
 
 **The Hok Canton** — the steamship *Hok Canton* — was the merchant vessel captured by the Atjèhse chieftain [[Teuku Umar|Teukoe Oema]] at the roadstead of [[Rigaih|Rigaih]] on the [[Westkust|Westkust]] of [[Atjeh|Atjèh]] in [[June 1886|June]] [[1886]], in the period of Toekoe Oema's mastery of the Westkust under the [[Concentratie-stelsel (1884-1896)|concentration system]]. The capture, the subsequent ransom of the prisoners for 25,000 dollars, and the division of the ransom between Toekoe Oema and [[Kemala|Kemala]] together constitute one of the principal Atjèhse acts of piracy against foreign shipping of the middle phase of the [[Aceh War|Atjèh-oorlog]] — and the empirical event that, in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]*, turned both the colony's former Civil Governor ([[1881]]–[[1883]]) and the sitting Governor of Atjeh ([[Demmeni|Generaal Demmeni]]) into advocates of a return to the [[Scheepvaartregeling|scheepvaartregeling]] that the [[Concentratiebesluit (19 Augustus 1884)|Concentratie]] had abolished.
@@ -88,6 +119,26 @@ In Van Heutsz's [[1893]] narrative, the Hok Canton incident of June [[1886]] is 
 - [[1884]]
 - [[1886]]
 - [[1896]]
+- [[Hok Canton (ship)]]
+- [[Concentratie-stelsel (1884-1896)]]
+- [[Tengkoe di Tirou]]
+- [[Pedir]]
+- [[Willemstoren]]
+- [[Poeloe Bras]]
+- [[Cedar Passage]]
+- [[Koningspunt]]
+- [[Straits Settlements]]
+- [[British Empire]]
+- [[September 1884]]
+- [[November 1883]]
+- [[1883]]
+- [[1879]]
+- [[Teuku Uma]]
+- [[Hansen]]
+- [[Mrs. Hansen]]
+- [[John Fay]]
+- [[Captain Roura]]
+- [[Teuku Ba'et]]
 
 ## Sources
 
@@ -100,3 +151,5 @@ In Van Heutsz's [[1893]] narrative, the Hok Canton incident of June [[1886]] is 
 *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Koninklijk Instituut voor de Tropen, Br N 82-144, pp. 9–11.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above. Dutch passages are quoted in the original with an English rendering.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX, "Blokkade en Concentratie onder den Civiel en Militair Gouverneur Demmeni, van September 1884 tot December 1886." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 50–52.
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.

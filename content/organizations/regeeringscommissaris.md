@@ -1,7 +1,24 @@
 ---
 title: Regeeringscommissaris (Government Commissioner)
-aliases: ["Regeeringscommissaris", "Government Commissioner", "Regeeringscommissaris voor Atjeh en Onderhoorigheden", "Regeerings-Commissaris"]
-tags: [organization, dutch, colonial, diplomacy, succession, 19th-century]
+aliases:
+- Regeeringscommissaris
+- Government Commissioner
+- Regeeringscommissaris voor Atjeh en Onderhoorigheden
+- Regeerings-Commissaris
+- Gouvernements-commissaris
+- Commissaris naar Atjeh
+- Gouvernement commissaris
+tags:
+- organization
+- dutch
+- colonial
+- diplomacy
+- succession
+- 19th-century
+- concept
+- official
+- political
+- acheh
 ---
 
 **The Regeeringscommissaris** — also referred to as *Government Commissioner* or, in full, *Regeeringscommissaris voor Atjeh en Onderhoorigheden* — was the emergency civil-military office created by the Dutch government and dispatched from the Netherlands to [[Aceh War|Atjeh]] after [[Teuku Umar]]'s [[Defection of Teuku Umar (29 March 1896)|defection of 29 March 1896]], superseding the [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden|Civiel en Militair Gouverneur]] and concentrating both civil and military authority in the hands of a senior Lieutenant-General directly answerable to the Governor-General and the Minister of Colonies. Held by Luitenant-Generaal J. A. Vetter from [[7 April]] to [[28 June]] [[1896]], the office was abolished on [[28 June]] [[1896]] when Vetter departed per the stoomschip *Coen* to Batavia. As Regeeringscommissaris, Vetter issued the [[Proclamation of the Regeeringscommissaris (12 April 1896) (Bijlage III/V)|first proclamation of 12 April 1896]] announcing the purpose of his arrival, ordered the [[Evacuation of Biloel and Lamkoenjit (12 April 1896)|evacuation of Biloel and Lamkoenjit]], decided to lift the *buitenlinie* posts, issued the [[Proclamation of Lt. Gen. Vetter to the heads and people of the 3 sagi of Groot-Atjeh (27 April 1896) (Bijlage VII)|second proclamation of 27 April 1896]] announcing operations against T. Oemar Melaboch, and ordered the [[Disarmament of Buitenlinie Chiefs (mid-June 1896)|disarmament of buitenlinie chiefs in mid-June 1896]].
@@ -22,6 +39,10 @@ The office of Regeeringscommissaris voor Atjeh en Onderhoorigheden was held by L
 
 The Regeeringscommissaris period was the most decisive phase of the [[Aceh War|Atjeh-oorlog]] in the spring of [[1896]]. By superseding the discredited [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden|Civiel en Militair Gouverneur]] and concentrating authority in the hands of the Army Commander himself, the Dutch government broke the administrative inertia that had followed Umar's defection and authorized the wholesale counter-offensive — evacuation of the buitenlinie, bombardment of Lampisang, three-day offensive, Lam-Krak tuchtiging, V Moekims Montassik tuchtiging — that defined the spring campaign. Vetter's two proclamations (Bijlage III/V of [[12 April]] [[1896]] and Bijlage VII of [[27 April]] [[1896]]) and his [[Government Resolution of 26 April 1896 No. 159/11 (Bijlage VI)|Besluit of 26 April 1896]] (Bijlage VI) dismissing T. Djohan Pahalawan formalized the rupture with the pre-defection Dutch policy. His [[Departure of Vetter and Restoration of Civil and Military Governor (28 June 1896)|departure on 28 June 1896]] marked the end of the Regeeringscommissaris period and the restoration — under Stemfoort — of the unified Civiel en Militair Gouverneur office.
 
+
+## Sources
+Verslag van het verhandelde in de vergaderingen der Tweede Kamer in comité-général van 16, 17, 18 en 20 April 1874: Oorlog met Atjeh, gedrukt ter Algemene Landsdrukkerij van het Koloniaal Instituut (1881), pp. 10–15, 19–25, 87–93.
+
 ## See Also
 
 - [[J. A. Vetter (Luitenant-Generaal)]]
@@ -36,6 +57,17 @@ The Regeeringscommissaris period was the most decisive phase of the [[Aceh War|A
 - [[Disarmament of Buitenlinie Chiefs (mid-June 1896)]]
 - [[Defection of Teuku Umar (29 March 1896)]]
 - [[1896]]
+- [[T.N. Nieuwenhuyzen]]
+- [[Schiff]]
+- [[Van de Wall]]
+- [[I.D. Fransen van de Putte]]
+- [[Loudon]]
+- [[Instructie gouvernements-commissaris (1873)]]
+- [[Manifest aan Sultan van Atjeh (22 March 1873)]]
+- [[Declaration of war on Atjeh (1873)]]
+- [[First Atjeh expedition (March-April 1873)]]
+- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
+- [[Atjeh-oorlog (1873-1904)]]
 
 ## Source
 
