@@ -75,6 +75,10 @@ Under the [[Van Teijn]] closure of [[1890]], Telok Semawé was one of the three 
 
 In Van Heutsz's own [[1893]] prescription, Telok Semawé was retained as one of the open ports of the *scheepvaartregeling*. Scherer's [[20 January]] [[1891]] *lezing* before the *Indisch Genootschap* had named Telok Semawé as one of four Noordkust ports — *Op de Noordkust: 1 Edi. 2 Telok Semawé 3 Samalanga 4 Segli* (On the Noordkust: 1. Edi, 2. Telok Semawé, 3. Samalanga, 4. Segli) — and Van Teijn had endorsed the reduced list of three: *De Generaal van Teijn achtte op de Oost- en Noordkust: Edi, Telok Semawé en Segli, althans vooreerst, voldoende* (General van Teijn considered Edi, Telok Semawé and Segli sufficient, at least for the present, on the East- and North Coast). Van Heutsz concurred, and the prescription that closed the [[1893]] tract retained Telok Semawé as one of the open call-ports of the *scheepvaartregeling* Van Heutsz would himself implement as Governor of Atjeh from [[1898]] onward.
 
+## Military Evacuation (10 November 1884)
+
+The operational implementation of the [[Concentration Decision of August 1884|Concentratiebesluit]] at Telok Semawé is recorded in *De Geconcentreerde Stelling in Groot-Atjeh* (1885). The post was evacuated on [[10 November]] [[1884]], following the Governor-General's decision of [[19 August]] [[1884]], which abolished the position of *assistent-resident ter Noord- en Oostkust* (assistant-resident for the North and East Coast) whose *standplaats* (station) it had been. The materials from the evacuated post were transported and reused in the construction of the new post at [[Lamtih]], demonstrating the efficient resource management during the concentration. This reuse reflected the practical approach of the [[Demmeni|Colonel Demmeni]] administration: abandoned fortifications were stripped and their materials incorporated into the new defensive line rather than left to the Acehnese.
+
 ## See Also
 
 - [[Acheh]]
@@ -137,3 +141,5 @@ In Van Heutsz's own [[1893]] prescription, Telok Semawé was retained as one of 
 - *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 64, 114.
 - *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 29, 30, 31, 32, 35, 36, 41, 42, 46, 50, 55, 56, 60, 62, 66, 67. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IV (the submission of July 1874), Chapter VII (Scherer's station), Chapter X (the Van Teijn reopening), Chapter XII (the 1894 scheepvaartregeling and the 1890s unrest). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 20, 35, 54, 66, 75.
+
+*De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 5, 25.

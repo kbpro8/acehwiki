@@ -21,6 +21,14 @@ In [[1888]] he summoned the Dutch Resident to embrace Islam if he wished to avoi
 
 When Tgk. Sjech Saman felt his end approaching in [[January]] [[1891]] he summoned his eldest son [[Tengkoe Mat Amin di Tiro|Mat Amin]] to his deathbed and spoke to him words of grave and urgent admonition: this son was of loose habits, given to women in a way that shamed an oelama, proud and obstinate, and made free with the funds collected for the holy war — yet none of this prevented the father from naming him as his successor, and the pretendent-sultan confirmed him in that position in [[1892]].
 
+## Dutch Colonial Assessment (1885)
+
+The 1885 Dutch report *De Geconcentreerde Stelling in Groot-Atjeh* identified Sjech Saman di Tiro as the most prominent *geestdrijver* (religious zealot) in [[Groot-Atjeh]] during the 1880s. A graduate of the famous school at [[Tirou]], which trained Islamic scholars (*Schriftgeleerden*) bearing the title [[Teungkoe / Teukoe / Tengkoe (honorific)|Tengkoe]], he exercised *zeer grooten invloed* (very great influence) in preaching the *heilige oorlog* (holy war) against Dutch colonial rule and urging the population to employ *bedrog, list, verraad, en moord* (deception, cunning, treachery, and murder) as permissible means in the struggle against the *kafirs* (unbelievers).
+
+The report noted that Sjech Saman worked closely with the [[Oorlogspartij|oorlogspartij]] (war party) that opposed Dutch authority. While [[Toeankoe Mochamad Dawot|Toeankoe Mohammed Daoed]], the young recognized Sultan, remained personally inactive (*werkeloos*), figures like Sjech Saman provided the ideological energy that drove the resistance movement. Under his direction, Tengkoe throughout Groot-Atjeh organized the collection of *[[Wang Sabil]]* (holy war funds) and maintained networks of support for fighters.
+
+Dutch observers also noted broader dimensions of his influence: the report connected the activities of religious zealots in Atjeh with events elsewhere in the Islamic world, including the appearance of the Mahdi in Sudan and the Anglo-Egyptian conflict, which Islamic leaders throughout the world — including in Atjeh — followed with great interest.
+
 ## Significance
 
 Tgk. Sjech Saman did not live to see the downfall of his house; the reckoning was settled with his sons, grandsons, and other relatives. But the reputation he left — the *roem van den godsvruchtigen Tgk. Sjech Saman di Tiro* — protected his successors for two decades. Even the most money-grubbing Acehnese dared not betray the schuilplaats of these holy men; the best Dutch patrol-commandants, however zealous their nosing and spying, got nothing out of the population. Only after [[1908]], when governor [[H.N.A. Swart|Swart]] unleashed the destructive apparatus under lieutenant [[Schmidt]], did the bad days come for the Tiro-oelama's.
@@ -79,6 +87,11 @@ When the Dutch built their model *benteng* at [[Anagaloeng]], the large Achehnes
 - [[Kapitein Miseroy]]
 - [[Sagi der XXVI Moekims]]
 - [[Prang sabi]]
+- [[Tirou]]
+- [[Oorlogspartij]]
+- [[Wang Sabil]]
+- [[Heilige Oorlog]]
+
 
 ## Sources
 
@@ -87,3 +100,5 @@ When the Dutch built their model *benteng* at [[Anagaloeng]], the large Achehnes
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 24, 48, 50.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, p. 40.

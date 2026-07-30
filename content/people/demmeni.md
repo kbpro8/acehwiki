@@ -1,6 +1,6 @@
 ---
 title: "Demmeni"
-aliases: ["Kolonel Demmeni", "Colonel Demmeni", "Generaal Demmeni", "Civiel en Militair Gouverneur Demmeni", "Demmeni (Atjeh governor)", "General Demmeni"]
+aliases: ["Kolonel Demmeni", "Colonel Demmeni", "Generaal Demmeni", "Civiel en Militair Gouverneur Demmeni", "Demmeni (Atjeh governor)", "General Demmeni", "Demmeni", "kolonel Demmeni", "H. Demmeni", "Civiele en Militaire Gouverneur van Atjeh"]
 tags: [person, military, dutch, colonial, officer, governor, aceh-war, atjeh, general, 19th-century, commander]
 ---
 
@@ -169,3 +169,5 @@ Hooijer's judgment on the outcome was sceptical. The proximity of Baid's territo
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 50.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 5–6, 24–29.

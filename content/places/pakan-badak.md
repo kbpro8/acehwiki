@@ -1,7 +1,7 @@
 ---
 title: Pakan Badak
 aliases: [Pakan Badak, Pakan Badak Atjeh, Market of the Badak]
-tags: [place, kampong, market, acehnese, aceh-war, aceh, geography]
+tags: [place, kampong, market, acehnese, aceh-war, aceh, geography, geconcentreerde-stelling, 1885]
 ---
 
 **Pakan Badak** was a kampong and important market‑place in the interior of [[Acheh|Aceh]], situated in the [[VI Moekims|VI Moekims]] of [[Groot-Atjeh|Groot‑Atjeh]]. It functioned as a commercial hub with two large plank buildings on piles and, from [[31 December]] [[1875]] onward, as a Dutch military base for operations against the [[IV Moekims|IV Moekims]] and later the [[IX Moekims|IX Moekims]]. Its location near the mountain passes of [[Glitaroem]] and [[Beradin]] made it a strategic waypoint for Dutch forces during the 1875–1876 expedition, notably for the column under [[J. L. J. H. Pel|General Pel]] that entered the gorge on the morning of [[25 January]] [[1876]].
@@ -30,11 +30,18 @@ By the spring of [[1878]] the [[Habib Abdoerrahman|Habib]] resumed offensive act
 
 The interior position of Pakan Badak, coupled with its market facilities and proximity to mountain passes, rendered it an ideal staging ground. On the morning of [[25 January]] [[1876]] the column of marines under [[J. L. J. H. Pel|General Pel]] marched through the gorge toward Pakan Badak, forming the vanguard of the operation against the IX Moekims. Its capture not only secured a commercial centre but also provided the Dutch with a logistical hub from which to project power deeper into the Acehnese interior.
 
+## Evacuation in the Concentration Strategy (February 1885)
+
+Pakan-Badak was evacuated on [[28 February]] [[1885]] as part of the [[Concentration Decision of August 1884|concentration strategy]]. The post was not incorporated into the new geconcentreerde stelling (concentrated position) and was among the outer positions abandoned in the systematic reduction of the defensive perimeter. The evacuation proceeded with minimal casualties: 1 killed and 6 wounded. Routes to the post, including the one from [[Lamdjamoe]], were no longer maintained by the Dutch following the evacuation.
+
 ## See Also
 
 - [[VI Moekims]]
 - [[IV Moekims]]
 - [[IX Moekims]]
+- [[Geconcentreerde Stelling]]
+- [[Concentration Decision of August 1884]]
+- [[Lamdjamoe]]
 - [[Groot-Atjeh]]
 - [[Kota Radja]]
 - [[Mibouw]]
@@ -54,7 +61,10 @@ The interior position of Pakan Badak, coupled with its market facilities and pro
 - [[Gedong]]
 - [[Aceh War]]
 
-## Source
+## Sources
+
+*De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], pp. 18, 28.
+
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872‑1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 72‑73, 99‑100.  
 

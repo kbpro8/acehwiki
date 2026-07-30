@@ -174,3 +174,5 @@ The [[Aceh War|Aceh War]] was, however, by no means over at the time of his appo
 *J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni 1855*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, 1943, Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, pp. 50–72, 215–260.
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja.
+
+*De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, p. 5.

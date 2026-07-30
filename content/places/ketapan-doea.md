@@ -1,7 +1,7 @@
 ---
 title: Ketapan Doea
-aliases: ["Ketapan Doea", "Ketapan Meot", "Ketapan-Doewa", "Ketapan Doca"]
-tags: [place, dutch, colonial, military, aceh-war]
+aliases: ["Ketapan Doea", "Ketapan Meot", "Ketapan-Doewa", "Ketapan Doca", "Ketapan-Doea", "Ketapang Dua", "Two Sisters"]
+tags: [place, dutch, colonial, military, aceh-war, geconcentreerde-stelling, 1885]
 ---
 
 **Ketapan Doea** — written in Dutch variously as *Ketapan Doea*, *Ketapan Meot*, *Ketapan-Doewa*, and *Ketapan Doca* — was a [[Dutch]] post on the [[Spoorbaan|military railway]] in the southern sector of the [[Geconcentrerde Linie|Geconcente Linie (Concentrated Line)]], firing daily into its fore-field from [[7 May]] [[1896]] onward. As described in Kruisheer's *ATJEH '96*, Ketapan Doea was the departure point for the 6e Bataljon and for [[Joannes Benedictus van Heutsz|Van Heutsz]]'s mountain column on [[23 May]] [[1896]], and was the *bevelhebber*'s post (commander's post) on that day. The post was an assembly point on the *spoorbaan* and was one of the principal starting-points of the [[Three-day Dutch offensive of 23–25 May 1896|three-day Dutch offensive of 23–25 May 1896]].
@@ -17,6 +17,10 @@ Ketapan Doea had been constructed as part of the [[Geconcentrerde Linie|Geconcen
 ## Role in the 1896 Operations
 
 Ketapan Doea was one of the principal Dutch posts of the southern sector throughout the first semester of [[1896]]. From [[7 May]] [[1896]] onward the post fired daily into its fore-field. On [[30 March]] [[1896]] a company was sent to Ketapan Doea at 4:15 PM to provide help if needed. On [[23 May]] [[1896]] the [[Three-day Dutch offensive of 23–25 May 1896|three-day Dutch offensive]] was launched in part from Ketapan Doea: the 6e Bataljon and the mountain column under [[Joannes Benedictus van Heutsz|Van Heutsz]] departed from Ketapan Doea to scale [[Tjot Tjako]] (with its *heilig graf*) via the *Koegelvanger van Blang*; the post was the *bevelhebber*'s post (commander's post) on that day. Signal communication was maintained between the *bivak* on [[Tjot Tjako]] and Ketapan Doea. On [[4 June]] [[1896]] a maréchaussée column from Ketapan Doea moved into the [[IV en VI Moekims|IV and VI Moekims]]. On [[20 June]] [[1896]] the [[Machtsvertoon (20 June 1896)|four-column show-of-force]] used Ketapan Doea as a base. Ketapan II was the starting point for maréchaussée and Linck's company on [[20 June]] [[1896]].
+
+## Role in the Geconcentreerde Stelling (1885)
+
+Ketapan-Doea was retained in the new geconcentreerde stelling (concentrated position) of [[1885]], making it one of the important anchor points on the southern section of the perimeter. Approximately 4–5 palen from [[Kota-Radja]], the post was completely rebuilt as part of the new fortification program. It held a 150-man Infantry garrison and was armed with 2 × 12cm breech-loading guns and 1 Coehoorn mortar. The post was connected to [[Lambaroe]] via the ceintuurtram (girdle tramway) and to [[Kota-Radja]] by a radial road. [[Blang]] (a new post) lay to the east along the ceintuurbaan, and the [[Lamara]] watchhouse lay to the west. The nearby post of [[Tjot-Goe]] was temporarily retained due to its favorable covering position.
 
 ## Significance
 
@@ -36,6 +40,8 @@ Ketapan Doea was the principal [[Dutch]] command-and-assembly post on the [[Spoo
 - [[Geconcenteerde Linie]]
 - [[1896]]
 
-## Source
+## Sources
+
+*De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], pp. 18–19.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 26, 28, 47–48, 51, 53, 56–58, 144, 149, 167, 170–172, 176, 186, 192, 194–196, 199, 227, 320–321, 335, 762.

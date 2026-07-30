@@ -118,3 +118,5 @@ Dutch infantry of the [[3rd Infantry Battalion]] and [[8th Infantry Battalion]] 
 *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-16.
 
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], p. 13 (De Inwendige Toestand — Kolonisten — Banda Atjeh — De Sultan — Imams en Oeloebalangs).
+
+*De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], pp. 9, 17, 28.

@@ -1,7 +1,7 @@
 ---
 title: Lamtih
-aliases: ["Lamtih"]
-tags: [place, dutch, colonial, military, aceh-war]
+aliases: ["Lamtih", "Lam Tih"]
+tags: [place, dutch, colonial, military, aceh-war, geconcentreerde-stelling, 1884, 1885]
 ---
 
 **Lamtih** — written in Dutch as *Lamtih* — was a [[Dutch]] post in the [[Geconcenteerde Linie|Geconcentreerde Linie (Concentrated Line)]] of the southern sector, armed with a 7 cm bronze field gun in the north-west bastion, equipped with an observation *stelling* with a *mitrailleur*, and serving as a departure point for the patrouille of [[21 May]] [[1896]], for the attack of [[23 May]] [[1896]], and for the colonne of [[5 June]] [[1896]]. As described in Kruisheer's *ATJEH '96*, the raised sentry-box of Lamtih was shelled from Senangri on [[13 April]] [[1896]] — the first hostilities at the post. Lamtih was one of the principal assembly points for the [[Three-day Dutch offensive of 23–25 May 1896|three-day Dutch offensive of 23–25 May 1896]].
@@ -9,6 +9,10 @@ tags: [place, dutch, colonial, military, aceh-war]
 ## Description and Location
 
 Lamtih lay in the southern sector of the [[Geconcenteerde Linie|Geconcente Linie (Concentrated Line)]] between [[Lam-Djamoe]] and [[Ketapan Doea]]. The post was armed with a 7 cm bronze field gun in the north-west bastion, and was equipped with an observation position with a machine gun. The raised sentry-box of Lamtih was the most-forward observation point of the post. The post commanded the road toward [[Lam-Tengah-Oost|Lam-Tengah]] and the [[IV en VI Moekims|IV and VI Moekims]]. The post was linked by telephone to the forward area and to [[Lam-Djamoe]]. The Senangri position, from which the *verhoogde schilderhuis* was shelled on [[13 April]] [[1896]], lay to the front of Lamtih.
+
+## Establishment in the Geconcentreerde Stelling (1884)
+
+Lamtih was established on [[20 November]] [[1884]] as part of the [[Concentration Decision of August 1884|concentration strategy]]. Materials for construction were brought from [[Telok-Semawé]] on the north coast, which had been evacuated on [[10 November]] [[1884]]. Access to the construction site was via an existing usable road from [[Olehleh]] and via the lagune. In the completed geconcentreerde stelling of [[1885]], Lamtih held a 50-man Infantry garrison armed with 2 × 12cm breech-loading guns. The post formed the southern terminus of the defensive line and was connected to [[Olehleh]] by water routes and to [[Lamdjamoe]] by a grass road.
 
 ## Historical Background
 
@@ -36,6 +40,8 @@ Lamtih was one of the principal Dutch assembly and departure points for the [[18
 - [[Lam-Tengah]]
 - [[1896]]
 
-## Source
+## Sources
+
+*De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], pp. 25–26.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 82, 141, 144, 167, 171, 176, 183, 204, 296, 320, 573.

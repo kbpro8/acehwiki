@@ -154,6 +154,17 @@ Hooijer characterised the XXVI Moekims as low country of stinking marshes *waaru
 - [[Hoengtjala]]
 - [[Mat Amin]]
 
+## The Geconcentreerde Stelling and the XXVI Moekims (1884–1885)
+
+The [[Concentration Decision of August 1884]] acknowledged that extending control through the hostile XXVI Moekims eastward from [[Toengkoeb]] would require unacceptable sacrifices. The terrain on the approaches to the [[IV Moekims]] area — including the steep sides of the kloof van Beradin (Beradin ravine) — limited the defensive options and made lateral expansion impractical.
+
+Key locations in the XXVI Moekims in this period included:
+
+- **[[Toengkoeb]]**: The most distant post retained in the XXVI Moekims area during the pre-concentration period. Located only 1½ palen (approximately 3 kilometers) from [[Lamjong]], its communications road was unprotected on both sides. The post was evacuated on [[21 February]] [[1885]] without casualties as part of the concentration, the communications road being assessed as *"slechts van zeer gering belang"* (only of very minor importance) due to the short distance to Lamjong.
+- **[[Pango]]**: Located within the defensive perimeter and incorporated into the geconcentreerde stelling (concentrated position). Expected to be evacuated after the new [[Lampermej]] post on the right bank of the Atjeh-rivier was occupied on [[27 July]] [[1885]].
+
+The evacuation of Toengkoeb on [[21 February]] [[1885]] marked the eastern limit of the consolidated Dutch position. Following the concentration, the XXVI Moekims remained outside the geconcentreerde stelling, and the eastern approaches were no longer directly observed.
+
 ## Sources
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 22–23, 122, 123, 143, 144, 146, 158, 164, 217, 325, 339, 344.
@@ -168,3 +179,5 @@ Hooijer characterised the XXVI Moekims as low country of stinking marshes *waaru
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 16, 22, 24, 26, 30, 32, 34, 36, 38, 42, 48, 50.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 9, 11, 17–18, 28.

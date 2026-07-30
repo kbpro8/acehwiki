@@ -1,6 +1,6 @@
 ---
 title: "Samalanga"
-aliases: ["Samalanga (Atjeh)", "Samalanga region", "Samalangga"]
+aliases: ["Samalanga (Atjeh)", "Samalanga region", "Samalangga", "Samalanga post", "Samalanga north coast"]
 tags: [aceh-proper, achehnese, coast, colonial, military-operations, north-coast, north-east-coast, place, region, ulama, landschap, aceh, noordkust]
 ---
 
@@ -150,3 +150,5 @@ In June [[1913]] a fourteen-year-old boy armed with a *[[rentjong]]* forced his 
 *De Atjehers*, by C. Snouck Hurgronje, 2 vols. (Leiden: E. J. Brill, [[1893]]-94), passim.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XII; Appendix.
+
+*De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], p. 24.

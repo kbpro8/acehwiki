@@ -1,7 +1,7 @@
 ---
 title: "Kota Pohama"
-aliases: ["K. Pohama", "Kota Poehama", "Poeloe Pohama"]
-tags: [place, dutch, colonial, island-post, fort, aceh-war]
+aliases: ["K. Pohama", "Kota Poehama", "Poeloe Pohama", "Kota-Pohama", "Pohama"]
+tags: [place, dutch, colonial, island-post, fort, aceh-war, geconcentreerde-stelling, 1884, 1885]
 ---
 
 **Kota Pohama** was the Dutch island post in the lagune of Gigieng, established in February [[1876]] by [[Luitenant-kolonel Engel|lt.-kol. Engel]] to seal off access to the mouth of the [[Kroeng Tjoet]] and complete the closure of the [[Kwala Gigieng|Kwala Gigieng]] that had been reached on [[26 February]] [[1876]]. Together with the post at Kwala Gigieng itself, it shut the *gemeenschap* (communication) between sea and mouth of the Kroeng Tjoet, ending the contraband supply to the [[XXVI Moekims]] through that channel.
@@ -14,8 +14,17 @@ The lagune of Gigieng on the north coast of [[Groot-Atjeh]] was connected to the
 
 After the death of [[Generaal Pel|Pel]] at [[Lamjoeng]] on [[24 February]] [[1876]], [[Luitenant-kolonel Engel|Engel]] assumed tijdelijk oppergezag as oudste hoofdofficier and continued the march via Tjade to Kwala Gigieng, bereikt on [[26 February]] [[1876]]. Posts were established at Kwala Gigieng and on the island of Kota Pohama in the lagune. The establishment of the island post was the seaward completion of Pel's afsluitingslinie from the [[Kroeng Raba]] mouth on the west coast to the [[Kroeng Raya]] mouth on the north coast, a line whose completion Pel's death had interrupted. Together with the closure of the Kroeng Tjoet mouth, the Kota Pohama post shut the last major channel through which arms and ammunition reached the [[XXVI Moekims]] from the sea. Borel notes that the Kroeng Tjoet was "finally closed by the Dutch in 1876" — a strategic success attributable to the [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|winter offensive of 1875–1876]] and to Engel's prompt assumption of command after Pel's death.
 
+## Establishment in the Geconcentreerde Stelling (1884)
+
+Following the [[Concentration Decision of August 1884]], a new post was established at Kota-Pohama using materials brought from the evacuated post at [[Samalanga]] on the north coast. On [[25 September]] [[1884]], the garrison of the former Samalanga post landed at Pohama and began construction. No significant opposition was encountered. In the new geconcentreerde stelling (concentrated position) of [[1885]], Kota-Pohama held a 75-man Infantry garrison armed with 2 × 12cm breech-loading guns. The post was connected to [[Pakan-Kroeng-Tjoet]] by road and to [[Lamjong]] via the ceintuurtram (girdle tramway), serving as the westernmost point of the new defensive perimeter.
+
 ## See Also
 
+- [[Concentration Decision of August 1884]]
+- [[Samalanga]]
+- [[Geconcentreerde Stelling]]
+- [[Pakan-Kroeng-Tjoet]]
+- [[Lamjong]]
 - [[Kwala Gigieng]]
 - [[Kroeng Tjoet]]
 - [[Kwala Tjangkoel]]
@@ -27,6 +36,8 @@ After the death of [[Generaal Pel|Pel]] at [[Lamjoeng]] on [[24 February]] [[187
 - [[Death of Generaal Pel (24 February 1876)]]
 - [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
 
-## Source
+## Sources
+
+*De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], pp. 24–25.
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 322–325, 336, 342–344.

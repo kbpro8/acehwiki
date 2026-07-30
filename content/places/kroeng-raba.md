@@ -54,9 +54,17 @@ Kroeng Raba was the principal scene of Dutch naval operations throughout the fir
 
 Kroeng Raba was the principal Dutch naval and amphibious base for the operations against [[Teuku Umar]] and the [[landschap]] of [[Lepong]] throughout the first semester of [[1896]]. The bay's sheltered anchorage made it the natural station of the Dutch warships conducting the [[Naval Demonstration in Kroeng-Rababaai (1–4 May 1896)|naval demonstration]] and the [[Marine Bombardment of Lepong (25 May, 4–5, 8–9 June 1896)|bombardments of Lepong]], and the river marked the principal line of contact between the Dutch bridgehead and Umar's territory. The [[Reconnaissance to Kroeng Raba Bridge (13 June 1896)|great bridge reconnaissance of 13 June 1896]] was one of the largest cavalry reconnaissances of the period.
 
+## Evacuation in the Concentration Strategy (February 1885)
+
+The Dutch post at Kroeng-Raba in the [[IV Moekims]] was evacuated on [[15 February]] [[1885]] by sea as part of the [[Concentration Decision of August 1884|concentration strategy]]. This sea evacuation was chosen because the terrain of the [[IV Moekims]] — characterized by the kloof van Beradin (Beradin ravine) — made overland withdrawal impractical for the most distant posts. Casualties during the evacuation: 2 wounded (lower soldiers). The evacuation marked the end of the Dutch forward presence in the western IV Moekims established during the conquest expeditions of [[J. L. J. H. Pel|Generaal Pel]].
+
 ## See Also
 
 - [[J. L. J. H. Pel]]
+- [[Concentration Decision of August 1884]]
+- [[Boekit-Lampaja]]
+- [[Boekit-Seboen]]
+- [[Geconcentreerde Stelling]]
 - [[K. van der Heyden]]
 - [[Habib Abdoerrahman]]
 - [[Habib Abdurrahman]]
@@ -182,3 +190,5 @@ Kroeng Raba's significance in Van Heutsz's [[1893]] tract rests on its being the
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 323–325, 336–342.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 9, 18, 19, 20, 84, 94. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], pp. 17, 28.

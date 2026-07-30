@@ -132,6 +132,29 @@ That, Hooijer wrote, was the prelude to the drama that followed three weeks late
 
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 5, 8, 10, 16, 20 (Toekoe Oemar — Zijn Verraad; De Poeassa — Atjehers en Kafirs — Anagaloeng — Eindelijk Ontzet; Een Terugblik — Wat Reeds Verkregen Werd; De Geestelijkheid in Atjeh — Teungkoe di Tiro; De Inwendige Toestand — Wat Nu?).
 
+## The Withdrawal of January 1885
+
+Anagaloeng had served as a significant Dutch military post and collection point along the communication line extending 121 palen eastward from [[Lambaroe]] through the [[XXII Moekims]]. Located on the main road eastward from [[Lambaroe]] toward the interior, the post commanded approach routes from the south and east and served as a staging point for operations toward [[Djerir]].
+
+During the [[Concentration Decision of August 1884|withdrawal of January 1885]], Anagaloeng became a critical logistics hub. Over an 84-palen stretch from Anagaloeng to [[Djerir]], approximately 2,000 men and numerous vehicles were deployed over about seven hours to evacuate materials and personnel. A temporary post was established at [[Boekloe]] on the road from Anagaloeng to [[Lambaroe]] to protect the ongoing transport of materials.
+
+Anagaloeng was evacuated on [[13 January]] [[1885]], simultaneously with [[Indrapoeri]], [[Djerir]], [[Glé-Kamping]], [[Long-Lemoh]], [[Tjot-Basetoel]], [[Samagani]], and [[Lepong-Ara]]. Casualties during the evacuation operations: 1 *minder militair* killed and 1 officer and 12 *minderen* wounded on 13 January; 1 *minder militair* killed and 6 *minderen* wounded on 14 January. Following evacuation, the area around Anagaloeng returned to Acehnese control.
+
+## See Also
+
+- [[Withdrawal from XXII Moekims Outposts (January 1885)]]
+- [[Boekloe]]
+- [[Djerir]]
+- [[Concentration Decision of August 1884]]
+- [[Geconcentreerde Stelling]]
+
+## Source
+
+*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 5, 8, 10, 16, 20 (Toekoe Oemar — Zijn Verraad; De Poeassa — Atjehers en Kafirs — Anagaloeng — Eindelijk Ontzet; Een Terugblik — Wat Reeds Verkregen Werd; De Geestelijkheid in Atjeh — Teungkoe di Tiro; De Inwendige Toestand — Wat Nu?).
+
+*De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], pp. 24–29.
+
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 38, 40, 42, 44, 46, 48, 50, 52.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
