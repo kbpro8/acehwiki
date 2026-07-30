@@ -1,7 +1,26 @@
 ---
 title: Kadar night
-aliases: [Kadar night, Lailat al-Qadr, Laylat al-Qadr, Night of Power, Night of Decree, Atjeh Kadar night, Atjeh 27th night of Ramadan]
-tags: [concept, religious, islamic, achehnese]
+aliases:
+- Lailat al-Qadr
+- Laylat al-Qadr
+- Night of Power
+- Night of Decree
+- Atjeh Kadar night
+- Atjeh 27th night of Ramadan
+- Lailat al-Qadar
+- Lailatul Qadar
+- Night of Qadar
+- malam qadar
+tags:
+- concept
+- religious
+- islamic
+- achehnese
+- event
+- ceremony
+- feast
+- calendar
+- ramadhan
 ---
 
 **Kadar night** — Dutch/Atjehnese *Kadar-nacht*, Arabic *Laylat al-Qadr* (ليلة القدر), "the Night of Power" or "the Night of Decree" — is the night in the last third of Ramadan on which, according to Islamic tradition, the Quran was first revealed to the Prophet Muhammad. The night is named in Prof. Dr. [[W. J. A. Kernkamp|Kernkamp]]'s chapter *De invloed van den Islam* in *[[Wat Indië Ontving en Schonk]]* ([[1946]]) in his account of the Ramadan cycle in the Indies. Kernkamp's specific Atjeh-relevant observation is that, where Java prefers the 21st night of Ramadan as the *Kadar-nacht*, Atjeh prefers the 27th.
@@ -38,6 +57,10 @@ For the [[Acheh|Atjeh]]-focused reader, the *Kadar-nacht* is significant as one 
 - *Java* — Java
 - *Prof. Dr.* — Professor Doctor
 - *Dr.* — Doctor
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Ratib in Atjeh]]
@@ -52,6 +75,11 @@ For the [[Acheh|Atjeh]]-focused reader, the *Kadar-nacht* is significant as one 
 - [[J. Kreemer]]
 - [[Wat Indië Ontving en Schonk]]
 - [[W. J. A. Kernkamp]]
+- [[Malam dua ploh tujoh]]
+- [[Malam beureu'at]]
+- [[Ramadhan]]
+- [[Puasa]]
+- [[Meudaroh]]
 
 ## Source
 

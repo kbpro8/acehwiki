@@ -1,7 +1,30 @@
 ---
 title: Benting
-aliases: ["Benteng", "Benting", "system", "Sandbag", "benting", "Atjehese", "benteng", "Atjehnese fortification", "Atjehnese benting", "Atjehsche benting", "Koeta", "Kota", "Pagar", "Versterking"]
-tags: [concept, fortification, acehnese, dutch, aceh-war, military, achehnese]
+aliases:
+- Benteng
+- system
+- Sandbag
+- Atjehese
+- Atjehnese fortification
+- Atjehnese benting
+- Atjehsche benting
+- Koeta
+- Kota
+- Pagar
+- Versterking
+- benteng fortification
+- Malay fort
+- Acehnese fort
+- Atjehnese benteng
+tags:
+- concept
+- fortification
+- acehnese
+- dutch
+- aceh-war
+- military
+- achehnese
+- defense
 ---
 
 A **benting** (modern spelling *benteng*) is a field fortification of the type used throughout the [[Aceh War|Atjeh-oorlog]] by both the [[Achehnese|Atjehers]] and the Dutch, consisting typically of a sandbag breastwork thrown up around a captured strongpoint — a kampong, a mosque, a bend in a river — and fitted with a garrison, logies (quarters), and the auxiliary obstacles of [[bamboe-doerie|bamboe-doerie]] hedge and [[ranjoe|ranjoe]] planting. The benting was the basic unit of Dutch engineer practice in the Atjeh war, and the construction of bentings under fire is the principal subject of [[Cornelis Jacobus Snijders|Tweede-Luitenant C. J. Snijders]]'s Atjeh service of [[1874]]–[[1875]].
@@ -17,6 +40,12 @@ The [[Achehnese|Atjehers]] also constructed bentings — typically more substant
 ## The Benting as a System
 
 The benting was the basic unit of the Dutch system of perimeter consolidation in the middle phase of the [[Aceh War|Atjeh-oorlog]]. [[J. L. J. H. Pel|Kolonel PEL]]'s strategy of [[1874]]–[[1875]] consisted of a series of offensive operations, each resulting in the capture of a kampong or strongpoint and its conversion into a Dutch benting; the bentings, taken together, formed the progressively widened perimeter around [[Koeta Radja|Kota Radja]] that gave the Dutch the secure base from which the later operations of [[1875]]–[[1879]] could be undertaken. The bentings constructed by [[Cornelis Jacobus Snijders|Snijders]] in [[1874]]–[[1875]] — [[Kuta Alam|Kota Alam]], [[Missigit Longbatta|Missigit Longbatta]], [[Mandarsah Poetih|Mandarsah Poetih]], [[Pungej Blang Tjoet|Pungej Blang Tjoet]], [[Lamara Olejlo|Lamara Olejlo]] — form a representative sample of the system in its early, sandbag-and-coolie form.
+
+
+## Sources
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 14–17, 24–29, 57, 67, 75–80, 95, 117, 162, 183–186, 191–198, 200–206, 228, 238, 248, 317.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter II, III, XIII, XVI.
 
 ## See Also
 
@@ -35,7 +64,19 @@ The benting was the basic unit of the Dutch system of perimeter consolidation in
 - [[Aceh War]]
 - [[1874]]
 - [[1875]]
-
+- [[Bamboe-doeri versperringen]]
+- [[Omtrekking]]
+- [[Lilla]]
+- [[Achterlaadkanonnen van 12 c.M.]]
+- [[Storming of the Mesigit (6 January 1874)]]
+- [[Battle of Lampoe Oek (16 April 1874)]]
+- [[Destruction of the Lampoe Oek fortification (18 September 1874)]]
+- [[Occupation of the ooster-benteng (17 August 1874)]]
+- [[Kapitein van Aerssen]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
 
 ## The Atjehnese Benting of the Late Concentratie Period
 

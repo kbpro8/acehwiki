@@ -1,7 +1,30 @@
 ---
 title: Hikajat Raja-Raja Pasai
-aliases: [Hikayat Raja-Raja Pasai, Hikajat Radja-Radja Pasai, Hikajat Radja² Pasai, Ht. Radja² Pasai, Hikayat Raja Pasai, Chronicle of Pasai]
-tags: [document, chronicle, malay, pasai, sumatra, atjeh, 15th-century, source]
+aliases:
+- Hikayat Raja-Raja Pasai
+- Hikajat Radja-Radja Pasai
+- Hikajat Radja² Pasai
+- Ht. Radja² Pasai
+- Hikayat Raja Pasai
+- Chronicle of Pasai
+- Hikajat Radja-radja Pasei
+- Hikayat Pasai
+- Malay chronicle of Pasai
+- Pasai chronicle
+- chronicle of the kings of Pasai
+tags:
+- document
+- chronicle
+- malay
+- pasai
+- sumatra
+- atjeh
+- 15th-century
+- source
+- achehnese
+- muslim
+- precolonial
+- aceh
 ---
 
 **The Hikajat Raja-Raja Pasai** is the principal Malay-language chronicle of the sultanate of [[Pasai]], the early-Islamic north-Sumatran pepper-port polity on that "Noordelijkste stuk van Sumatra waarvan de kust nagenoeg O-W. loopt" (northernmost piece of Sumatra whose coast runs nearly east-west), which in the early seventeenth century had to bow to the "machtige Atjéh" of [[Sultan Iskandar Muda|Iskandar Muda]] (Mahkota 'Alam). The chronicle is, in [[C. Hooykaas|Hooykaas]]'s reading, the Malay counterpart of the *[[Sadjarah Malajoe]]* and the *[[Hikajat Sultan Atjeh Marhoem]]* — a Malay-language chronicle of a non-Malay-speaking Sumatran polity, and a key source for the early history of the [[Pasai]] sultanate that Atjeh displaced.
@@ -30,6 +53,14 @@ The *Hikajat Raja-Raja Pasai* is cited in [[Over Maleise Literatuur (1947)|Hooyk
 
 For AcehWiki, the *Hikajat Raja-Raja Pasai* is significant as the principal Malay chronicle of the [[Pasai]] sultanate that Atjeh displaced in the early seventeenth century. The chronicle's silence on the Atjehnese conquest is itself a historical datum — the text dates itself to the pre-conquest period — and its record of Pasai's older primacy as the Sumatran centre of Islamic learning is the background against which the Atjehnese primacy of the seventeenth century (under [[Sultan Iskandar Muda|Iskandar Muda]] and the ulema of his court) must be measured.
 
+
+## Sources
+*Hikajat Radja-radja Pasei*, edited by E. Dulaurier (Paris, [[1849]]).
+
+*Sumatra, Histoire des rois de Pasey*, by A. Marre (Paris, [[1874]]).
+*De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), p. 209.
+*20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, page 85.
+
 ## See Also
 
 - [[Pasai]]
@@ -41,6 +72,24 @@ For AcehWiki, the *Hikajat Raja-Raja Pasai* is significant as the principal Mala
 - [[Over Maleise Literatuur (1947)]]
 - [[15th-century]]
 - [[17th-century]]
+- [[A. Marre]]
+- [[Atjeh bloeitijdperk ([[1607]]-[[1636]])]]
+- [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
+- [[E. Dulaurier]]
+- [[J. Kreemer]]
+- [[J. L. A. Brandes]]
+- [[Kreemer's De Karbouw ([[1956]])]]
+- [[L. C. Westenenk]]
+- [[Pasei]]
+- [[Snouck Hurgronje's De Atjehers ([[1893]]-94)]]
+- [[Aceh]]
+- [[E. Dulaurier|Dulaurier]]
+- [[J. P. Mead]]
+- [[Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië]]
+- [[Journal of the Straits Branch of the Royal Asiatic Society]]
+- [[R. J. Wilkinson|Wilkinson]]
+- [[Klinkert]]
+- [[Al-Busiri]]
 
 ## Source
 

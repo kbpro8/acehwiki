@@ -1,8 +1,28 @@
 ---
 title: Hikum
-aliases: [Hukom, Hukum, Islamic Law Acheh, Sharia Acheh, Hoeköm, Hoekom, Islamic law in Atjeh]
-tags: [concept, law, religion, islam, achehnese, religious]
-description: "The Acehnese term for Islamic law (from Arabic hukm), maintained by the teungku class, coexisting with the customary adat, and a source of political tension during the Aceh War."
+aliases:
+- Hukom
+- Hukum
+- Islamic Law Acheh
+- Sharia Acheh
+- Hoeköm
+- Hoekom
+- Islamic law in Atjeh
+- Hokm
+- Hoekoem
+- Hukm
+- Religious law in Atjeh
+tags:
+- concept
+- law
+- religion
+- islam
+- achehnese
+- religious
+- islamic
+description: The Acehnese term for Islamic law (from Arabic hukm), maintained by the
+  teungku class, coexisting with the customary adat, and a source of political tension
+  during the Aceh War.
 ---
 
 **Hikum** (also *hukom*; from Arabic *ḥukm*, "judgment" or "decree") was the Acehnese term for [[Islamic]] law — the body of rules derived from the Quran and the traditions of the Prophet Mohammed, as interpreted through the Shafi'ite school of jurisprudence dominant in [[Great Acheh|Acheh]] and throughout the Malay-Indonesian world.
@@ -40,6 +60,10 @@ The *hoeköm* of Atjeh, *De Buitenbezittingen* records, followed the *Sjafiïtis
 In the colonial legal order of the Gouvernement, the *hoeköm* — like the *adat* — was preserved in the hands of the native chiefs and the *moesapat* (native court), which included, as an advisor, a *Mohamedaansch schriftgeleerde* — a Mohammedan scriptural scholar. *Godsoordeelen* (ordeal) and *mutileerende straffen* (mutilating punishments) were wholly forbidden; in other respects, *De Buitenbezittingen* records, "zuiver de adat gevolgd" — purely the adat was followed — in civil cases, while in criminal cases the *hoeköm* informed the deliberations of the *moesapat* alongside the *adat* and the Dutch penal code. The *kadhi* — the Islamic judge — was not, in Atjeh, a separate office; his functions were absorbed into those of the *teungkoe* and the *imeum*.
 
 
+
+## Sources
+*Wat Indië Ontving en Schonk*, onder leiding van Dr. C. W. Wormser (Amsterdam: Wereldbibliotheek N.V., 1946), pp. 101–102 (chapter *De invloed van den Islam* door Prof. Dr. W. J. A. Kernkamp).
+
 ## See Also
 
 - [[Adat]]
@@ -56,6 +80,15 @@ In the colonial legal order of the Gouvernement, the *hoeköm* — like the *ada
 - [[Moesapat]]
 - [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Sjafiïtische school]]
+- [[Adat and Hokm Atjeh proverb]]
+- [[Adat Meukuta Alam]]
+- [[Adat Meureuhom]]
+- [[Atjeh Adatrecht (ter Haar account)]]
+- [[C. Snouck Hurgronje]]
+- [[J. Kreemer]]
+- [[Acheh]]
+- [[Wat Indië Ontving en Schonk]]
+- [[W. J. A. Kernkamp]]
 
 ## Source
 

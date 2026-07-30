@@ -1,7 +1,21 @@
 ---
 title: Conversiequaestie
-aliases: [Conversie quaestie, Conversion Question, Conversie van communaal in individueel bezit, Conversion of Communal Land]
-tags: [concept, agrarian, dutch-colonial, colonial-administration]
+aliases:
+- Conversie quaestie
+- Conversion Question
+- Conversie van communaal in individueel bezit
+- Conversion of Communal Land
+- Conversie
+- communaal bezit
+- individueel bezit
+tags:
+- concept
+- agrarian
+- dutch-colonial
+- colonial-administration
+- java
+- colonial
+- liberal
 ---
 
 **The Conversiequaestie** (Dutch: "conversion question") was the political and administrative dispute in [[1874]]-[[1879]] over the conversion of communal into individual land ownership (*conversie van communaal in individueel bezit*) in [[Netherlands India|Nederlandsch-Indië]], brought to a head by the journey of the general secretary [[H. D. Levyssohn Norman|Levyssohn Norman]] through Java and Madura in [[July 1874|July 1874]] and by his telegraphic authorisation from [[J. Loudon|Governor-General Loudon]] to act in the matter. The dispute led directly to the fall of Loudon — who had requested honourable discharge by Royal Decree of [[17 December]] [[17 December]] [[1874]] — and to the eventual abandonment of the conversion policy by the Indies government.
@@ -34,6 +48,10 @@ The conversion of communal into individual ownership, no longer supported by the
 
 The report of [[1880]] concluded: "From the answers received, it has appeared that the native population nowhere spontaneously undertakes conversions of the kind always meant, when speaking of a regulation by general ordonnantie; that namely nowhere of its own accord does it proceed from communal ownership with periodic divisions to hereditary individual ownership in one go. If one lets the population go its own way, it follows a more gradual path." Three kinds of hindrance to the conversion appeared: 1°. municipal institutions or customs, or existing popular concepts; 2°. the retarding influence of the dessahoofden; 3°. the demands made by the administration with regard to culture- and heerendiensten.
 
+
+## Sources
+*J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni [[1855]]*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, [[1943]], Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, Chapter V, pp. 99-117.
+
 ## See Also
 
 - [[H. D. Levyssohn Norman]]
@@ -47,6 +65,11 @@ The report of [[1880]] concluded: "From the answers received, it has appeared th
 - [[Regeeringsreglement]]
 - [[Heerendiensten]]
 - [[Cultuurdiensten]]
+- [[Agrarian Law of 1870]]
+- [[Fransen van de Putte]]
+- [[W. van Goltstein]]
+- [[H.D. Levyssohn Norman]]
+- [[Cultivation System]]
 
 ## Source
 

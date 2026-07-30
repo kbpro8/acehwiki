@@ -1,7 +1,23 @@
 ---
 title: Boeròng
-aliases: [Boerong, Boeròng, Burong, Burung, Atjeh poentianak, Atj. poentianak]
-tags: [concept, religious, folkbelief, achehnese]
+aliases:
+- Boerong
+- Burong
+- Burung
+- Atjeh poentianak
+- Atj. poentianak
+- Boeröng
+- kraamvrouwenkwelgeest
+- childbirth ghost
+- Kuntilanak of Aceh
+tags:
+- concept
+- religious
+- folkbelief
+- achehnese
+- folk-belief
+- childbirth
+- spirit
 ---
 
 **Boeròng** — Atjehnese *burong*, in the chapter rendered *boeròng* — is the Atjehnese variant of the *poentianak* (Malay *pontianak*), the vengeful female spirit of a woman who has died in childbed. The term is named in Prof. Dr. [[W. J. A. Kernkamp|Kernkamp]]'s chapter *De invloed van den Islam* in *[[Wat Indië Ontving en Schonk]]* ([[1946]]) in the course of his discussion of Islamic influence on family life: "Special protection of mother and child is necessary against the exceptionally malignant spirit of a woman who died in childbed, who is extremely feared in all of the Indies (Malay *poentianak*, Javanese *Koentianak*, Atjehnese *boeròng*). This woman, who would have a horrible appearance, must be warded off with fishing-nets, *sirih* spit, etc."
@@ -30,6 +46,12 @@ For the [[Acheh|Atjeh]]-focused reader, the *boeròng* is significant as the Atj
 - *Java* — Java
 - *Prof. Dr.* — Professor Doctor
 - *Dr.* — Doctor
+
+## Sources
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]].
+
+Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
 ## See Also
 
 - [[Toean di boh]]
@@ -41,6 +63,13 @@ For the [[Acheh|Atjeh]]-focused reader, the *boeròng* is significant as the Atj
 - [[J. Kreemer]]
 - [[Wat Indië Ontving en Schonk]]
 - [[W. J. A. Kernkamp]]
+- [[Bidan]]
+- [[Peutrön boeröng]]
+- [[Pötjoet Siti]]
+- [[Srabi Tandjong]]
+- [[Aweuëh peuët plöh peuët]]
+- [[Kaphan]]
+- [[Seumangat]]
 
 ## Source
 

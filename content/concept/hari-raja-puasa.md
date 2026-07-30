@@ -1,8 +1,22 @@
 ---
 title: Hari raja puasa
-aliases: ["hari raya puasa", "oerë raja poeasa", "Idul Fitri", "Idoe'lfitr", "Eid al-Fitr"]
-
-tags: [concept, achehnese, religious]
+aliases:
+- hari raya puasa
+- oerë raja poeasa
+- Idul Fitri
+- Idoe'lfitr
+- Eid al-Fitr
+- Leubè raya
+- Leube raya
+- Id al-Fitr
+- Uroe raya
+tags:
+- concept
+- achehnese
+- religious
+- event
+- festival
+- ceremony
 ---
 **Hari raja puasa** (Atjèhnese *oerë raja poeasa*; Malay *hari raya puasa*; Arabic *Īd al-Fiṭr*) is the great feast that marks the end of the Islamic fasting month of Ramadan in [[Atjèh|Atjèh]] — the principal religious and social festival of the Atjèhnese year, and an occasion of considerable political significance, on which *oelèëbalang*s customarily paid their respects to the *Panglima Sagi* of the *sagi* to which they belonged. Piekaar's *Atjèh and the War with Japan* treats the feast as one of the regular ceremonial hinges of Atjèhnese public life, repeatedly invoked — by both Dutch and Japanese administrators — as the moment for political gestures, religious proclamations, and the public ratification of authority.
 
@@ -22,6 +36,10 @@ The fasting month was also the occasion for political-religious exhortation. As 
 
 The most fateful coincidence of *hari raja puasa* with political upheaval came in [[August]] [[1945]], when the [[Japanese capitulation of 15 August 1945|Japanese capitulation of 15 August 1945]] arrived "in the Muslim fasting month, [when] the preparations for the Allied invasion were in full swing." The fast that year ended on [[7 September]] [[1945]] — the day on which "*oelèëbalangs* from all of Aceh traveled to [[Koetaradja|Koetaradja]] to offer their congratulations" to [[Teukoe Hadji Tjhi' Moehamad Djohan Alam Sjah|Teukoe Hadji Tjhi' Moehamad Djohan Alam Sjah]] of [[Peusangan|Peusangan]], in a striking renewal, under the new conditions, of the old *hari raja puasa* ceremonial of the *sagi*.
 
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Maibkatra]]
@@ -30,6 +48,11 @@ The most fateful coincidence of *hari raja puasa* with political upheaval came i
 - [[Teukoe Hadji Tjhi' Moehamad Djohan Alam Sjah]]
 - [[Japanese capitulation of 15 August 1945]]
 - [[Indonesia Merdéka]]
+- [[Puasa (Ramadhan fasting month)]]
+- [[Pitrah (zakat fitrah)]]
+- [[Traweh (Tarawih)]]
+- [[Kanduri]]
+- [[Dalam]]
 
 ## Source
 

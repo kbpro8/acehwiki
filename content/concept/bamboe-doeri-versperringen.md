@@ -1,7 +1,35 @@
 ---
-title: "Bamboe-doeri versperringen"
-aliases: ["Bamboe-doeri versperringen", "bamboo-thorn barricades", "bamboe-doeri", "bamboo thorn barriers", "Acehnese bamboo barricades", "bamboo-doeri", "Bamboedoeri", "bamboe doeri", "thorny bamboo barrier"]
-tags: [concept, acehnese, military, fortification, defense, bamboo, aceh-war, botany, malay, terminology]
+title: Bamboe-doeri versperringen
+aliases:
+- bamboo-thorn barricades
+- bamboe-doeri
+- bamboo thorn barriers
+- Acehnese bamboo barricades
+- bamboo-doeri
+- Bamboedoeri
+- bamboe doeri
+- thorny bamboo barrier
+- Bamboe-doerie
+- Bamboe doerie
+- Bamboe doeri beplanting
+- Bamboo-doerie
+- Bambu Duri
+- Doornbamboe
+- Thorny bamboo
+- Thorny Bamboo Pallisade
+tags:
+- concept
+- acehnese
+- military
+- fortification
+- defense
+- bamboo
+- aceh-war
+- botany
+- malay
+- terminology
+- dutch
+- vegetation
 ---
 
 The **[[Bamboe-doeri versperringen|bamboe-doeri versperringen]]** (bamboo-thorn barricades) were the chief Atjehnese defensive works — thickets of thorny bamboo planted and woven to form impenetrable barriers around kampongs, bentengs, borstweringen and grachten. Borel mentions bamboo-doeri throughout *Onze vestiging in Atjeh* as the characteristic Atjehnese fortification, concealing the enemy's stellingen "als een tijger die op zijn prooi loert" (like a tiger lurking for its prey) and obstructing every Dutch advance. The bamboo-doeri was, in effect, the Atjehnese equivalent of the European *abatis* or wire entanglement — a cheap, effective and locally abundant obstacle that the Dutch could only overcome by *kappen en branden* (cutting and burning) or by artillery fire.
@@ -40,6 +68,18 @@ The Dutch counter-measures against the bamboo-doeri were of two kinds: *kappen* 
 - [[Surprise of Ana' Galoeng (29 June 1896)]]
 - [[IJzerdraadversperring]]
 - [[Dijkstra]]
+- [[Ranjoe]]
+- [[Batoe Iliq]]
+- [[Batoe Iliq Expedition (July 1880)]]
+- [[Battle of the Missigit (10 April 1873)]]
+- [[Lemboe]]
+- [[Lamkrak]]
+- [[Benting Kota Alam operation (13 November 1874)]]
+- [[Cornelis Jacobus Snijders]]
+- [[Missigit Longbatta operation (31 December 1874 – 13 January 1875)]]
+- [[Bataillon Mineurs en Sappeurs]]
+- [[Lilla]]
+- [[Aceh War]]
 
 ## Sources
 
@@ -48,3 +88,5 @@ The Dutch counter-measures against the bamboo-doeri were of two kinds: *kappen* 
 *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
 
 *Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.
+D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944|1944]]), p. 27. Koninklijke Bibliotheek shelfmark 0301 4872.
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I.

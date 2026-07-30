@@ -1,7 +1,45 @@
 ---
 title: Mesigit
-aliases: [Mesigit, Masigit, Mosque, Indonesian mosque, Atjeh mesigit]
-tags: [concept, religious, islamic, achehnese, architecture]
+aliases:
+- Masigit
+- Mosque
+- Indonesian mosque
+- Atjeh mesigit
+- Missigit
+- Masjid
+- Atjehese mosque
+- Atjeh mosque
+- Meusigit
+- Mesjid
+- Meuseugit
+- Friday mosque
+- Mesigit of Atjeh
+- De Mesigit
+- Fortified Mosque of the Kraton
+- Mesigit building
+- Mesigit (Aceh)
+- Atjeh's Groote Missigit
+- Great Missigit
+- Groote Missigit
+- Masjid Raya
+tags:
+- concept
+- religious
+- islamic
+- achehnese
+- architecture
+- building
+- acehnese
+- fortification
+- aceh-war
+- religion
+- islam
+- mosque
+- place
+- mesigit
+- aceh
+- 1873
+- military
 ---
 
 **Mesigit** — Atjehnese/Dutch spelling of standard Indonesian *masjid*, from Arabic *masjid* (مسجد), "mosque" — is the term used in [[Acheh|Atjeh]] (and elsewhere in the Indies) for the Friday congregational mosque, as distinct from the smaller village prayer-house (*[[Meunasah|meunasah]]* in Atjeh, *langgar* or *tadjoeg* on Java). The term and its architectural form are recorded in Prof. Dr. [[W. J. A. Kernkamp|Kernkamp]]'s chapter *De invloed van den Islam* in *[[Wat Indië Ontving en Schonk]]* ([[1946]]).
@@ -54,6 +92,19 @@ For the [[Acheh|Atjeh]]-focused reader, the *mesigit* is significant as the inst
 - *ledig monument onzer dwaasheid* — empty monument of our folly
 - *Prof. Dr.* — Professor Doctor
 - *Dr.* — Doctor
+
+## Sources
+D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), pp. 28–32 (Missigit Longbatta), p. 32 (Mandarsah Poetih). Koninklijke Bibliotheek shelfmark 0301 4872.
+
+*DLP-84-Atjeh.pdf*, p. 9.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV, XVI.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 6, pp. 80–88.
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 42–44, 46–47.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 14–17, 20, 24–30, 34–37, 49, 102.
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 122‑124.
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889, pp. 13-18.
+
 ## See Also
 
 - [[Meunasah]]
@@ -71,6 +122,49 @@ For the [[Acheh|Atjeh]]-focused reader, the *mesigit* is significant as the inst
 - [[J. Kreemer]]
 - [[Wat Indië Ontving en Schonk]]
 - [[W. J. A. Kernkamp]]
+- [[Missigit Longbatta]]
+- [[Mandarsah Poetih]]
+- [[Benting]]
+- [[Cornelis Jacobus Snijders]]
+- [[Missigit Longbatta operation (31 December 1874 – 13 January 1875)]]
+- [[Capture of Mandarsah Poetih (28 January 1875)]]
+- [[Imam of Longbatta]]
+- [[T. W. G. Merz]]
+- [[Aceh War]]
+- [[1875]]
+- [[Meusigit Raja]]
+- [[Koeta-Radja]]
+- [[Dutch East Indies Government]]
+- [[H. N. A. Swart]]
+- [[General Swart, Pacifier of Atjeh (1943)]]
+- [[Pacificatie van Atjeh]]
+- [[Atjeh]]
+- [[Mukim]]
+- [[Gampong]]
+- [[Hikum]]
+- [[Great Acheh]]
+- [[Moekim]]
+- [[Teungkoe]]
+- [[Imeum]]
+- [[Hoeköm]]
+- [[Koeta Radja]]
+- [[Meuseugit Raja]]
+- [[Sjafiïtische school]]
+- [[Kraton of Atjeh]]
+- [[Penajoeng]]
+- [[Storming of the Mesigit (6 January 1874)]]
+- [[Bombardment of the Kraton (January 1874)]]
+- [[Fall of the Kraton (24 January 1874)]]
+- [[Longbatta-Mesigit]]
+- [[Bamboe-doeri versperringen]]
+- [[Benteng]]
+- [[Kolonel de Roy van Zuydewijn]]
+- [[Generaal Pel]]
+- [[Kraton Atjeh|Kraton (Aceh)]]
+- [[Captain-terr zee Binkes]]
+- [[Sergeant Rood]]
+- [[Aceh War (1873–1904)]]
+- [[Village Merdoehati]]
 
 ## Source
 

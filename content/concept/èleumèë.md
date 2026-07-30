@@ -1,7 +1,23 @@
 ---
 title: Èleumèë
-aliases: [eleumee, ilmoe, esoteric knowledge, pagan science of Aceh]
-tags: [concept, folk-belief, achehnese, precolonial, magic]
+aliases:
+- eleumee
+- ilmoe
+- esoteric knowledge
+- pagan science of Aceh
+- ilmu
+- geheime wetenschap
+- secret science
+tags:
+- concept
+- folk-belief
+- achehnese
+- precolonial
+- magic
+- term
+- acehnese
+- aceh
+- folklore
 ---
 
 **Èleumèë** was the Atjèhnese term for "heathen/pagan science" — the esoteric knowledge of formulas and incantations used by *pawang*'s (master fishermen and hunters) to control sea and forest spirits. Used in fishery and hunting, and also in *peukeunong* (magic charms), *èleumèë* was distinguished from *èleumèë kitab* (religious science based on Arabic theological works).
@@ -39,6 +55,10 @@ Specialised forms of *èleumèë* included:
 - *Èleumèë sangkilat* — iron-softening
 - *Èleumèë sihé* — magic/sorcery (from Arabic *sihir*)
 
+
+## Sources
+Merac. *Oost-Indisch Journael: Palaver om de tafel met het gat*. Toekan Series No. 2. Edited by G. L. Tichelman. Haarlem: De Gulden Pers, [[1947]]. Chapter: *Jagerslatijn*.
+
 ## See Also
 
 - [[Pawang]]
@@ -49,6 +69,10 @@ Specialised forms of *èleumèë* included:
 - [[Èleumèë sihé]]
 - [[Èleumèë koelat]]
 - [[Èleumèë salé']]
+- [[Oost-Indisch Journael]]
+- [[Datoek]]
+- [[Orang pendek / koekoeman]]
+- [[Manté's]]
 
 ## Source
 

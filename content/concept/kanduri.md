@@ -1,8 +1,41 @@
 ---
 title: Kanduri
-aliases: [Kenduri, Kanduri feast, Religious Feast, Kauduris, Achehnese kanduri]
-tags: [concept, event, culture, religion, food, ceremony, festival, acehnese]
-description: "The Acehnese religious feast — a communal meal held on the occasion of religious holidays, life-cycle events, vows, and seasonal transitions, marked by Quran recitation and constituting the most characteristic social institution of Acehnese Islam."
+aliases:
+- Kenduri
+- Kanduri feast
+- Religious Feast
+- Kauduris
+- Achehnese kanduri
+- Kanoeri
+- kandoeri
+- religious meal
+- Atjèhnese ceremony
+- Kandoerie
+- slametan
+- ceremonial meal
+- Kandoeri Rajeu
+- Kandoeri Masoesé
+- great slametan
+tags:
+- concept
+- event
+- culture
+- religion
+- food
+- ceremony
+- festival
+- acehnese
+- religious
+- achehnese
+- islam
+- aceh
+- kandoerie
+- slametan
+- feast
+description: The Acehnese religious feast — a communal meal held on the occasion of
+  religious holidays, life-cycle events, vows, and seasonal transitions, marked by
+  Quran recitation and constituting the most characteristic social institution of
+  Acehnese Islam.
 ---
 
 **Kanduri** (also *kenduri*, *kauduris*; from Persian *qandūrī*, cognate with the Malay *kenduri* and the Arabic *qandūriyya*) is the general [[Achehnese|Acehnese]] term for a religious feast — the communal meal held on the occasion of religious holidays, life-cycle events (birth, [[peutron|first contact with the earth]], [[peusunat|circumcision]], marriage, death), the completion of a house, the safe return from a journey, seasonal feasts, and in fulfilment of vows (*nazar*). It was the most characteristic social institution of Acehnese Islam and the form in which the great majority of collective religious observances found their expression. Small *kanduris* are of very common occurrence in every [[gampong|gampong]], and some require the presence of the [[teungku|teungku]]; the word covers both the periodic feasts of the ecclesiastical year and occasional feasts given at the transitions of life.
@@ -35,6 +68,13 @@ The *kanduri* was embedded in the religious calendar. On the *ureë raya* (Eid f
 
 As a social institution, the *kanduri* expresses at once the commensality of the Muslim community and the Acehnese idea that no important transition — birth, [[peutron|first contact with the earth]], [[peusunat|circumcision]], marriage, voyage, sickness, death — is complete without a religious feast. The *kanduri* thus occupies in Acehnese life a place midway between the prescribed liturgy of Islam and the purely customary usages of the country.
 
+
+## Sources
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]].
+
+Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
 ## See Also
 
 - [[Kanduri Mo'lot]]
@@ -54,6 +94,29 @@ As a social institution, the *kanduri* expresses at once the commensality of the
 - [[Tahlil]]
 - [[Achehnese Calendar and Festivals]]
 - [[Achehnese Domestic Life]]
+- [[Teungkoe Andjöng]]
+- [[Kanoeri la'öt]]
+- [[Pantang]]
+- [[Tahli]]
+- [[Meuhatam]]
+- [[Liké]]
+- [[Korps Marechaussee van Atjeh en Onderhorigen]]
+- [[Tangsi]]
+- [[Adat]]
+- [[Sembah]]
+- [[Pang Nanggroë]]
+- [[Tjoet Ali]]
+- [[T. Tjhi Bentara]]
+- [[Veltman]]
+- [[Struijvenberg]]
+- [[Colijn]]
+- [[H.N.A. Swart]]
+- [[Mengamat attack (1927)]]
+- [[Blang Kedjeren]]
+- [[Aceh War]]
+- [[1907]]
+- [[1927]]
+- [[1930]]
 
 ## Source
 

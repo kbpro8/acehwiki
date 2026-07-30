@@ -1,7 +1,21 @@
 ---
 title: Djakat
-aliases: [Djakat, Zakat, Zakah, Zakat al-Mal, Atjeh djakat]
-tags: [concept, religious, islamic, achehnese]
+aliases:
+- Zakat
+- Zakah
+- Zakat al-Mal
+- Atjeh djakat
+- Jakeuet
+- Agricultural tithe
+- Rice tithe
+tags:
+- concept
+- religious
+- islamic
+- achehnese
+- event
+- agricultural
+- ceremony
 ---
 
 **Djakat** — Atjehnese/Dutch spelling of Arabic *zakāt* (زكاة), the obligatory alms-tax on wealth, "the third of the five pillars of Islam" — is the contribution that every Muslim must pay on certain categories of property (agricultural produce, livestock, merchandise, gold and silver) at fixed rates, for distribution to specified categories of recipients named in the Quran (the poor, the needy, those in debt, etc.). The Atjeh form of the *djakat*, and its collection, is recorded in Prof. Dr. [[W. J. A. Kernkamp|Kernkamp]]'s chapter *De invloed van den Islam* in *[[Wat Indië Ontving en Schonk]]* ([[1946]]).
@@ -44,6 +58,10 @@ For the [[Acheh|Atjeh]]-focused reader, the *djakat* is significant as one of th
 - *desa* — village
 - *Prof. Dr.* — Professor Doctor
 - *Dr.* — Doctor
+
+## Sources
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
 ## See Also
 
 - [[Pitrah]]
@@ -60,6 +78,11 @@ For the [[Acheh|Atjeh]]-focused reader, the *djakat* is significant as one of th
 - [[J. Kreemer]]
 - [[Wat Indië Ontving en Schonk]]
 - [[W. J. A. Kernkamp]]
+- [[Holy War (Jihad) against the Dutch]]
+- [[Pitrah (zakat fitrah)]]
+- [[Puasa (Ramadhan fasting month)]]
+- [[Teungku Tiro]]
+- [[Kanduri]]
 
 ## Source
 

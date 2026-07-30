@@ -1,8 +1,37 @@
 ---
 title: Atjeh goldsmithing (soeasa technique)
-aliases: ["Atjehsche goudsmidkunst", "Atjeh gold work", "Soeasa wrapping technique", "Atjehers' gold-copper wrapping", "Atjeh soeasa work", "Spinsbek", "Soeasa", "Suasa", "Spinsbeek", "the gold-copper alloy", "Indonesian red gold", "Atjeh gold-copper alloy", "the Atjehers' soeasa", "the gold-copper alloy of the Atjehers"]
-
-tags: [concept, craft, atjehnese, goldsmithing, metalwork, precolonial, sumatra, technical-vocabulary]
+aliases:
+- Atjehsche goudsmidkunst
+- Atjeh gold work
+- Soeasa wrapping technique
+- Atjehers' gold-copper wrapping
+- Atjeh soeasa work
+- Spinsbek
+- Soeasa
+- Suasa
+- Spinsbeek
+- the gold-copper alloy
+- Indonesian red gold
+- Atjeh gold-copper alloy
+- the Atjehers' soeasa
+- the gold-copper alloy of the Atjehers
+- Spinsbek werk
+- spinsbek-work
+- spun-bead work
+- granulated metalwork
+tags:
+- concept
+- craft
+- atjehnese
+- goldsmithing
+- metalwork
+- precolonial
+- sumatra
+- technical-vocabulary
+- material-culture
+- achehnese
+- technique
+- decorative-arts
 ---
 
 **Atjeh goldsmithing — the *soeasa* wrapping technique** — was the specifically Atjehnese method, described in Prof. [[T. J. Bezemer|T. J. Bezemer]]'s [[Indonesische Kunstnijverheid (Bezemer 1933)|*Indonesische Kunstnijverheid* (1933)]] and further documented in F. A. Wagner's [[Sierkunst in Indonesië|*Sierkunst in Indonesië* (1949)]], of wrapping a copper core with a thin sheet of *soeasa* — a gold-copper alloy known in Dutch colonial parlance as *spinsbek* — to produce a gilded-or-silvered ornamental object. The technique is recorded as a distinctive practice of the Atjeh goldsmiths, illustrating the sultanate's place in the wider Indonesian precious-metal craft tradition and contrasting with the *[[cire perdue|à cire perdue]]* casting of the [[Toba-Bataklanden|Toba-Batak]] goldsmiths and the [[filigraanwerk (Padangsche Bovenlanden)|filigree]] of the [[Padangsche Bovenlanden|Padangsche Bovenlanden]].
@@ -61,6 +90,9 @@ For [[Acheh|Atjeh]]'s history, the *soeasa* wrapping technique is a small but co
 - [[Toba-Bataklanden]]
 - [[1933]]
 - [[1949]]
+- [[Acehnese Gold and Silverwork]]
+- [[Batavian Society Treasure Room Aceh Collection]]
+- [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen]]
 
 ## Sources
 
@@ -69,3 +101,4 @@ For [[Acheh|Atjeh]]'s history, the *soeasa* wrapping technique is a small but co
 *Sierkunst in Indonesië*, by F. A. Wagner, Insulinde — Serie Handleidingen voor de Kennis van Indonesië, Vol. VI (Groningen, Batavia: J. B. Wolters' Uitgevers-Maatschappij N.V., 1949), pp. 136–137 (on the *heetsen* heat-reddening of gold at Atjeh) and p. 142 (on the *tjawardi* enamelling technique).
 
 *De Inlandsche Kunstnijverheid in Nederlandsch-Indië*, by J. E. Jasper en Mas Pirngadie, Vol. IV (on gold- and silverwork), pp. 25–26 (on the *cire perdue* casting process used by Toba-Batak goldsmiths on Noord-Sumatra) and p. 65 (on the *granuleeren* granulation technique of the Bataks, Dyaks and Timorese).
+*Gids voor den bezoeker van de schatkamer*, Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen, Batavia, 1928. Druk: Ruygrok & Co., Batavia. Cabinets 3, 4, and 5 (Atjeh), passim.

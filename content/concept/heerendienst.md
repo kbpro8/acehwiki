@@ -1,8 +1,88 @@
 ---
-title: "Heerendienst"
-aliases: ["Herendienst (in Atjeh)", "herendienst", "corvée (in Atjeh)", "the Atjeh corvée labour", "rodi", "heerendienstplicht", "Atjeh heerendienst", "forced labour service", "corvée labour", "heerendiensten", "labour service", "statute labour"]
-tags: [concept, colonial, dutch, labour, administration, buitenbezittingen, aceh, infrastructure, roads, acheh, ethical-politiek, atjeh, zelfbestuur, 20th-century, institution, achehnese, heerendienst, corvée, labour-tax, afkoop, 3-gulden, taxation]
-description: "The heerendienst — the Dutch colonial corvée labour system, by which the population of the Buitenbezittingen was obliged to provide unpaid labour for public works, principally road construction, before the systematic road plan of the B.O.W. replaced it with paid labour."
+title: Heerendienst
+aliases:
+- Herendienst (in Atjeh)
+- herendienst
+- corvée (in Atjeh)
+- the Atjeh corvée labour
+- rodi
+- heerendienstplicht
+- Atjeh heerendienst
+- forced labour service
+- corvée labour
+- heerendiensten
+- labour service
+- statute labour
+- Dwangarbeiders
+- Dwangarbeid
+- Forced labour
+- Conscript labour
+- Dwangarbeider
+- Koelie
+- Chineesche koelie
+- Mandoer
+- Tandoes
+- Vivres
+- Trein
+- Lamoen
+- Voorwagen
+- Vivres-colonne
+- Beren (dwangarbeiders)
+- beren
+- kettingberen
+- dwangkeezen
+- adelborsten
+- 19e bataljon
+- bataljon merah
+- dwangarbeiders met en zonder ketting
+- forced labourers
+- Kettinggangers in Atjeh
+- chain-gang convict labourers
+- kettinggangers
+- convict labour Atjeh
+- chain-gang Atjeh
+- Tandoe
+- tandu
+- litter hammock
+tags:
+- concept
+- colonial
+- dutch
+- labour
+- administration
+- buitenbezittingen
+- aceh
+- infrastructure
+- roads
+- acheh
+- ethical-politiek
+- atjeh
+- zelfbestuur
+- 20th-century
+- institution
+- achehnese
+- heerendienst
+- corvée
+- labour-tax
+- afkoop
+- 3-gulden
+- taxation
+- aceh-war
+- military
+- 19th-century
+- trade
+- beren
+- dwangarbeider
+- forced-labor
+- convict
+- medical
+- transport
+- malay
+- terminology
+description: The heerendienst — the Dutch colonial corvée labour system, by which
+  the population of the Buitenbezittingen was obliged to provide unpaid labour for
+  public works, principally road construction, before the systematic road plan of
+  the B.O.W. replaced it with paid labour.
 ---
 
 **The Heerendienst** ("corvée labour service," plural *heerendiensten*) was the Dutch colonial system of obligatory unpaid labour by which the population of the [[Buitenbezittingen|Outer Possessions]] — including [[Acheh|Atjeh]] — was required to provide labour for public works, principally road construction. In the Encyclopaedisch Bureau's account, the heerendienst was the principal labour instrument of the older, pre-systematic phase of road construction in the Buitenbezittingen: the phase in which roads were built "on initiative of the administrative side" and "gradually in heerendienst" — that is, by forced labour under the direction of administrative officials rather than by centrally planned technical service.
@@ -158,6 +238,16 @@ The road network Swart laid down "on gravel roads — then metalling" was, in du
 
 The *[[Koloniaal Verslag]]* records elsewhere that in the pacified districts of [[1913]]–[[1918]] the regular performance of the *heerendienst* was one of the standard indicators of a favourable political situation.
 
+
+## Sources
+D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), pp. 32–33. Koninklijke Bibliotheek shelfmark 0301 4872.
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 66, 68–69, 71, 73, 75, 81, 83, 86, 88, 91, 95, 101, 105–106, 108–110, 117, 119–121, 199, 216, 227, 229, 238, 240, 247, 293–294, 301, 308–309, 322, 324, 342–343.
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 117–118, 122–130, 144–148, 167, 168–169, 254–258.
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
+*Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.
+
 ## See Also
 
 - [[1893]]
@@ -206,6 +296,52 @@ The *[[Koloniaal Verslag]]* records elsewhere that in the pacified districts of 
 - [[Gajòweg]]
 - [[Maurice Henri du Croo]]
 - [[Buitengewesten]]
+- [[Vrije koelies]]
+- [[Cornelis Jacobus Snijders]]
+- [[Lamara Olejlo fortification (15 February 1875)]]
+- [[Bataillon Mineurs en Sappeurs]]
+- [[Aceh War]]
+- [[1874]]
+- [[1875]]
+- [[Spoorbaan / Spoorweg]]
+- [[Benteng / Benting / Koeta]]
+- [[Tuchtiging]]
+- [[Razing of Lam-Asan (30 May – 2 June 1896)]]
+- [[Ladoeng landing (22–23 June 1896)]]
+- [[Geconcentreerde Linie]]
+- [[Ambulance]]
+- [[Koninklijke Paketvaart-Maatschappij]]
+- [[1896]]
+- [[Groot-Atjeh]]
+- [[Korps Marechaussee van Atjeh en Onderhorigen]]
+- [[Koninklijk Nederlandsch-Indisch Leger]]
+- [[1e Divisie Marechaussee]]
+- [[2e Divisie Marechaussee]]
+- [[Tangsi]]
+- [[Veltman]]
+- [[Jhr. Graafland]]
+- [[Kimoen]]
+- [[Jenae]]
+- [[Blang Kedjeren]]
+- [[Gajoetocht (1904)]]
+- [[Defection of Teukoe Oemar (1896)]]
+- [[1905]]
+- [[19th-century]]
+- [[20th-century]]
+- [[Bezettingskorps in Atjeh]]
+- [[Zeehoofd]]
+- [[Cholera catastrophe at Kota Radja (February 1875)]]
+- [[Crisis at Kota Radja (May–June 1874)]]
+- [[Klewang]]
+- [[Vereniging Het Roode Kruis in Atjeh]]
+- [[Indische Stoomboot-maatschappij]]
+- [[Pantej Perak]]
+- [[Kota Podjoet]]
+- [[Patrol to the Goeah Teroes on the Glé Betoes (25 September 1897)]]
+- [[Three-day battle in the Beradin pass (23-25 May 1896)]]
+- [[Drijber]]
+- [[Koloniale Reserve]]
+- [[Peutjoet|Kerkhof Petjoet]]
 
 ## Source
 

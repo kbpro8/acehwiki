@@ -1,7 +1,26 @@
 ---
 title: Administrative Decentralization (Dutch East Indies)
-aliases: [Bestuursdecentralisatie, Decentralization of administration, Administrative decentralization in the Dutch East Indies, Decentralization reform 1913-1914]
-tags: [concept, dutch-colonial, governance, administration, reform, decentralization, 1913-1914, aceh, sumatra]
+aliases:
+- Bestuursdecentralisatie
+- Decentralization of administration
+- Administrative decentralization in the Dutch East Indies
+- Decentralization reform 1913-1914
+- Administrative Decentralization
+- Decentralization of governance
+tags:
+- concept
+- dutch-colonial
+- governance
+- administration
+- reform
+- decentralization
+- 1913-1914
+- aceh
+- sumatra
+- decentralisatie
+- bestuursdecentralisatie
+- atjeh
+- colonial-administration
 ---
 
 **Administrative Decentralization** (*bestuursdecentralisatie*) in the Dutch East Indies referred to the process of transferring administrative authority and responsibility from the central colonial government to lower-level regional and local governmental organs. The concept gained particular prominence during the [[1913–1914 Administrative Reform Meetings]] held across Sumatra, where it became a central principle in discussions about restructuring the colonial governance system.
@@ -101,9 +120,11 @@ The specific application of these principles to [[Aceh]]—through the proposed 
 - [[Gewestelijke Raad]]
 - [[1913]]
 - [[1914]]
+[[S. de Graaff]], [[Gewestelijk Zelfbestuur]], [[Gouvernement Atjeh en Onderhoorigheden]], [[Inlandsch Bestuur]], [[Bestuursreorganisatie Sumatra (1913-1914)]], [[Rechtstreeks bestuurd gebied]], [[Noord-Sumatra (proposed gewest)]]
 
 ## Sources
 
 *Notulen der Bestuursvergaderingen ter Bespreking van de Verdere Voorbereiding eener Hervorming van het Bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914).
 
 *De Buitenbezittingen onder Nederlandsch Bestuur* (Leiden: N.V. Uitgeversmaatschappij Brill, 1917–1918), Part I, pp. xii–xx (administrative organization overview).
+*Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118-130.

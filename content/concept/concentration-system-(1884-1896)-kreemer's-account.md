@@ -1,7 +1,58 @@
 ---
 title: Concentration system (1884–1896) — Kreemer's account
-aliases: [Concentratiestelsel, Atjèh concentration system, the concentration policy, Kreemer's account of the concentration, geconcentreerde linie, Concentration system in Atjeh, Atjeh concentration system, stelsel van concentratie, Atjeh concentration strategy, Dutch concentration system Atjeh, Atjeh-oorlog concentration system, Concentratie, het stelsel van concentratie, geconcentreerde stelling van Groot-Atjeh, geconcentreerde stelling, Concentratiebesluit]
-tags: [concept, military, political, colonial, atjeh-oorlog, 19th-century, dutch, atjehnese, 1884, 1896, military-strategy, achehnese, aceh-war, defensive-strategy]
+aliases:
+- Concentratiestelsel
+- Atjèh concentration system
+- the concentration policy
+- Kreemer's account of the concentration
+- geconcentreerde linie
+- Concentration system in Atjeh
+- Atjeh concentration system
+- stelsel van concentratie
+- Atjeh concentration strategy
+- Dutch concentration system Atjeh
+- Atjeh-oorlog concentration system
+- Concentratie
+- het stelsel van concentratie
+- geconcentreerde stelling van Groot-Atjeh
+- geconcentreerde stelling
+- Concentratiebesluit
+- concentrated line
+- the unsound system of the concentrated line
+- Linie
+- Gec. Linie
+- Dutch Concentration Scheme
+- Concentration Scheme
+- Concentration-line
+- Dutch concentration policy in Acheh
+- Dutch linie
+- Concentratie-linie
+- Dutch pale in Acheh
+- Line of fortresses in Acheh
+- Concentration Line
+- Dutch Concentration Line at Atjeh
+tags:
+- concept
+- military
+- political
+- colonial
+- atjeh-oorlog
+- 19th-century
+- dutch
+- atjehnese
+- 1884
+- 1896
+- military-strategy
+- achehnese
+- aceh-war
+- defensive-strategy
+- aceh
+- event
+- war
+- dutch-colonial
+- treaty
+- dutch-policy
+- fortification
 ---
 
 **The Concentration system** (*concentratiestelsel*) of [[1884]]–[[1896]] — in [[J. Kreemer|Kreemer]]'s history, the Dutch policy of "inkrimping van het rechtstreeks onder ons bestuur gebracht gebied, gepaard met een strenge 'blokkade' van de kust" — "contraction of the area brought under our direct administration, accompanied by a strict 'blockade' of the coast" — was, in Kreemer's judgement, the greatest service anyone ever did the Atjèhnese war-party: "zeker niemand de oorlogspartij ooit een grooter dienst bewees, dan de uitvinder van deze concentratie" — "certainly no one ever did the war-party a greater service than the inventor of this concentration."
@@ -164,6 +215,62 @@ The Concentratie's significance in the [[Aceh Wiki History]] record, in Van Heut
 - [[1892]]
 - [[1893]]
 - [[1898]]
+- [[Oost-Indisch Journael]]
+- [[Gilles Graafland]]
+- [[Teukoe Oemar]]
+- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
+- [Atjeh-oorlog](/events/atjeh-oorlog)
+- [Offensief à outrance](/concept/offensief-a-outrance)
+- [[Kutaradja]]
+- [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
+- [[Jan van Swieten|General Van Swieten]]
+- [[Buitenlinie / Buitellinie]]
+- [[Blokhuis]]
+- [[Benteng / Benting / Koeta]]
+- [[Kampement]]
+- [[Bisschoff van Heemskerck]]
+- [[Kraton]]
+- [[Deykerhofflaan]]
+- [[Ooster Ringdijk]]
+- [[Three-day Dutch offensive of 23–25 May 1896]]
+- [[Evacuation of Biloel and Lamkoenjit (12 April 1896)]]
+- [[Lam-Pisang]]
+- [[V Moekims Montassik]]
+- [[Ladoeng landing (22–23 June 1896)]]
+- [[29 March]]
+- [[Great Acheh]]
+- [[Aceh Sultanate]]
+- [[Netherlands India]]
+- [[Achehnese War]]
+- [[Holy war against the Dutch]]
+- [[Teuku Uma]]
+- [[Tuanku Muhamat Dawot]]
+- [[Proclamation of the Pretender Sultan]]
+- [[Joannes Benedictus van Heutsz|Governor Van Heutsz]]
+- [[General van der Heijden's excursions (marches through the highlands)]]
+- [[Dutch policy of 'concentration']]
+- [[Concentration scheme]]
+- [[Governorship of General van der Heyden]]
+- [[Acheh War]]
+- [[Holy War (Jihad) against the Dutch]]
+- [[Sarakata]]
+- [[Kota Radja]]
+- [[Oleh-leh]]
+- [[Westerlinie]]
+- [[Noorderlinie]]
+- [[Zuidoosterlinie]]
+- [[Noordoosterlinie]]
+- [[Marassa]]
+- [[Lampassei]]
+- [[Lamara]]
+- [[Jan van Swieten|J. van Swieten]]
+- [[J. L. J. H. Pel]]
+- [[K. van der Heyden]]
+- [[Capture of the Kraton (24 January 1874)]]
+- [[Van Swieten's Proclamation of 31 January 1874]]
+- [[Dutch Concentration Scheme]]
+- [[Dutch Policy of 'Concentration']]
+
 ## Sources
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Zesde tijdvak, blz. 26–28. Citing [[E. B. Kielstra|E. B. Kielstra]], *Atjèh onder het bestuur van den gouverneur Demmeni*, p. 499–525 en 613–635, and [[C. Snouck Hurgronje|C. Snouck Hurgronje]], *De Atjèhers* dl. I p. 184 vg.
@@ -171,3 +278,8 @@ The Concentratie's significance in the [[Aceh Wiki History]] record, in Van Heut
 *Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 24, 28–35. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder (the soul-shepherd).
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21, 30–31, 35, 39, 213, 218, 318.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Introduction, pp. xiv–xxi.
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 33-37, 65-79.

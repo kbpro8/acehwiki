@@ -1,8 +1,27 @@
 ---
 title: Kawom
-aliases: [Kaum, Kawn, Clan, Tribe, Acehnese Clan, kawöm, soekèë, qawm, Atjèhnese clan, four tribes of Aceh]
-tags: [concept, social-structure, tribe, kinship, achehnese, precolonial, social]
-description: "The Acehnese clan or tribal grouping, whose members bore collective responsibility for blood feuds (bila), and whose panglima kawom served as a tribal rather than territorial chief."
+aliases:
+- Kaum
+- Kawn
+- Clan
+- Tribe
+- Acehnese Clan
+- kawöm
+- soekèë
+- qawm
+- Atjèhnese clan
+- four tribes of Aceh
+tags:
+- concept
+- social-structure
+- tribe
+- kinship
+- achehnese
+- precolonial
+- social
+description: The Acehnese clan or tribal grouping, whose members bore collective responsibility
+  for blood feuds (bila), and whose panglima kawom served as a tribal rather than
+  territorial chief.
 ---
 
 **Kawom** (also *kawöm*, *kaum*, *soekèë*; from Arabic *qawm*, "people" or "tribe") was the Acehnese clan or tribal grouping — a kinship-based social unit encompassing all descendants of one *stamvader* (founding father) in the male line, whose members bore collective and several liability for *[[Bila|bila]]* (blood money) in cases of killing or wounding. The kawom was a tribal, not a territorial, institution, standing apart from the [[Gampong|gampong]]-[[Mukim|mukim]]-[[Uleebalang|uleebalang]] hierarchy of territorial administration.
@@ -44,6 +63,8 @@ By Kreemer's time (the early [[1920s]]), the kawöm system was largely extinct, 
 - [[Panglima kawöm]]
 - [[Waréh]]
 - [[XXII Moekim's]]
+- [[Panglima Pölém]]
+- [[Gampöng]]
 
 ## Sources
 

@@ -1,8 +1,33 @@
 ---
 title: Burda (poem)
-aliases: ["Burda", "Al-Burda", "Al-Burdah", "al-Burdah", "al-Burdah al-Muḥammadiyya", "Būrdah", "Poem of the Cloak", "Poem of the Mantle", "The Poem of the Mantle", "The Mantle", "Qaṣīdat al-Burda", "Qasīdat al-Burdah", "Burda of al-Busiri", "al-Busiri's Burda", "Burda al-Būsīrī", "Poem of Praise"]
-tags: [document, poem, arabic, islamic, sufi, devotional, acehnese, malay-translation]
-description: A celebrated 13th-century Arabic ode by the Egyptian Sufi poet Al-Busiri in praise of the Prophet Muhammad, widely transmitted across the Muslim world and rendered into Malay in the 16th century for use in the Sultanate of Aceh.
+aliases:
+- Burda
+- Al-Burda
+- Al-Burdah
+- al-Burdah al-Muḥammadiyya
+- Būrdah
+- Poem of the Cloak
+- Poem of the Mantle
+- The Poem of the Mantle
+- The Mantle
+- Qaṣīdat al-Burda
+- Qasīdat al-Burdah
+- Burda of al-Busiri
+- al-Busiri's Burda
+- Burda al-Būsīrī
+- Poem of Praise
+tags:
+- document
+- poem
+- arabic
+- islamic
+- sufi
+- devotional
+- acehnese
+- malay-translation
+description: A celebrated 13th-century Arabic ode by the Egyptian Sufi poet Al-Busiri
+  in praise of the Prophet Muhammad, widely transmitted across the Muslim world and
+  rendered into Malay in the 16th century for use in the Sultanate of Aceh.
 ---
 
 **Burda (poem)**, formally titled *Qasīdat al-Burdah* ("Poem of the Cloak") and known in Arabic as *al-Burdah* ("the mantle") — also called *al-Burdah al-Muḥammadiyya* — is a celebrated thirteenth-century Arabic ode composed by the Egyptian Sufi poet and scholar [[Al-Busiri|al-Būṣīrī]] in praise of the Prophet [[Muhammad]]. The poem became one of the most widely recited, copied, and commented-upon devotional texts in the Islamic world, and reached the [[Sultanate of Aceh|Sultanate of Acheh]] by the early modern period, where a sixteenth-century Malay translation circulated among scholars, mystics, and the Muslim elite. The Malay version — preserved in the digitised manuscript DLP-54, *Een 16de eeuwse Maleise vertaling van de Burda van al-Busiri* — became a principal vehicle for the diffusion of Arabic religious terminology into Acehnese literary culture and remains a central text of [[Acehnese religious poetry]].
@@ -34,6 +59,10 @@ Its verses were used to inspire resistance against colonial incursions and to af
 ## Legacy
 
 The *Burda* inspired a vast body of commentaries, translations, and *takhmīs* (expansions) across the Muslim world, including the Malay version examined here. Its verses were treated as a powerful amulet in [[North Africa]] and in Aceh, where they were believed to protect houses from fire and ships from wreckage. The translation of the *Burda* facilitated the incorporation of Arabic theological vocabulary into the Acehnese language, shaping the theological lexicon that underlies subsequent Acehnese religious literature, legal texts, and oral tradition. Its role in the diffusion of Arabic religious terminology highlights the broader processes of cultural and linguistic exchange between the Arab-Islamic world and the [[Malay Archipelago]] during the early modern period.
+
+
+## Sources
+*20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, title page and pp. 24–28, 29–34, 52–58, 59–65, 73–79, 84, 92–97 (digitised manuscript containing the full sixteenth-century Malay translation of the *Burda of al-Busiri* with commentary, footnotes, and an Arabic-Malay glossary).
 
 ## See Also
 

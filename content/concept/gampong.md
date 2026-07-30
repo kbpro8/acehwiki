@@ -1,8 +1,31 @@
 ---
-title: "Gampong"
-aliases: ["Kampong", "Acehnese Village", "Atjehsche gampong"]
-tags: [concept, government, social-structure, achehnese, adat, administration, settlement]
-description: "The Acehnese village — the fundamental social and political unit of Acehnese society, led by a keuchi' and teungku meunasah, containing a meunasah (chapel) as its communal heart."
+title: Gampong
+aliases:
+- Kampong
+- Acehnese Village
+- Atjehsche gampong
+- Kampong / kamponggemeenschap
+- kamponggemeenschap
+- village
+- village community
+- Negorij
+- negeri
+- home community
+tags:
+- concept
+- government
+- social-structure
+- achehnese
+- adat
+- administration
+- settlement
+- term
+- indonesian
+- identity
+- ambonese
+description: The Acehnese village — the fundamental social and political unit of Acehnese
+  society, led by a keuchi' and teungku meunasah, containing a meunasah (chapel) as
+  its communal heart.
 ---
 
 **Gampong** (from Malay *kampong*) was the fundamental social, political, and religious unit of [[Great Acheh|Acehnese]] society — the village. All Acehnese social life was organised around the gampong, which combined the functions of a residential community, a political unit with its own leadership, and a religious congregation.
@@ -71,6 +94,11 @@ The placement is significant for the legal characterisation of the gampong: as a
 
 Under [[H. N. A. Swart]] the *[[oelèëbalang]]s* "were supported and gradually returned to their villages"; [[J. C. Lamster|Lamster]] described the endless work of administrators and patrols "to bring improvement in the condition of the neglected and unhygienic villages* ("villages")" and the replacement of muddy paths with gravelled paths planted with shade trees. Swart's own principle was blunt: "before all else it is necessary that the villages, houses and yards be kept properly clean and that practical hygiene be applied." Many of the incidents of the pacification turn on the *gampong*: the murder of [[T. Béntara Titeuë]]'s coconut dispute, the *maloe* of the young Acehnese "tegenover zijn *gampong* ("village")", the population of *gampong* [[Blang]] delivering up [[Tgk. di Atjèh Ma' Amin]] in December [[1909]].
 
+
+## Sources
+*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Van recruut tot pensioen" and chapter "Tangsi en Tante."
+*Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Van recruut tot pensioen."
+
 ## See Also
 
 - [[Mukim]]
@@ -99,6 +127,21 @@ Under [[H. N. A. Swart]] the *[[oelèëbalang]]s* "were supported and gradually 
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Negorij]]
+- [[Tangsi]]
+- [[Anak-kolong]]
+- [[Militaire Willemsorde|Militaire Willemsorde (M.W.O.)]]
+- [[Medaille voor Moed en Trouw]]
+- [[Kroontje (Eervolle Vermelding)]]
+- [[Koninginnedag]]
+- [Adat](/concept/adat)
+- [Patrollie datang](/concept/patrollie-datang)
+- [[K.N.I.L.]]
+- [[Ambon]]
+- [[Minahassa]]
+- [[Oom Ambon]]
+- [[Kampong / kamponggemeenschap]]
+- [Verlof](/concept/verlof)
 
 ## Source
 

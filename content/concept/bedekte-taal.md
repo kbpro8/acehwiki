@@ -1,7 +1,25 @@
 ---
 title: Bedekte taal
-aliases: [Veiled language, Bahasa kapoer, Bahasa kapur, Lime-language, Hidden language, Disguised language, Omhulde taal]
-tags: [concept, method, philology, malay, javanese, achehnese, scholarly]
+aliases:
+- Veiled language
+- Bahasa kapoer
+- Bahasa kapur
+- Lime-language
+- Hidden language
+- Disguised language
+- Omhulde taal
+- Bahasa kapoer of Malajoe
+- Peculiar language of Malajoe
+tags:
+- concept
+- method
+- philology
+- malay
+- javanese
+- achehnese
+- scholarly
+- language-register
+- sumatra
 ---
 
 **Bedekte taal** — Dutch "veiled language" — is the term [[P. de Roo de la Faille|De Roo de la Faille]] uses for the allegorical and riddling register that, in his reading, pervades the chronicle and romance literature of the Malay-Javanese world and conceals references to the older Hindu-Buddhist geography of [[Sumatra]]'s east coast and the [[Acheh|Atjehnese]] sphere. Its Malay form is ***bahasa kapoer*** — "lime-language", the "peculiar language" of [[Malajoe]] that [[Marco Polo]] noted on his travels, and which [[P. de Roo de la Faille|De Roo de la Faille]] identifies with the "lime" (*kapoer*) of [[Baros|Baros camphor]] — a code of speech, that is, whose key is the trade-goods and place-names of the Sumatran coast. Its instruments are the *wangsalan* (the Malay rhyme-riddle) and the Kawi-Javanese *dasanama* (the synonym-book), and its function is to record matters of royal shame, ancestral displacement, or sacred geography without exposing them to plain view.
@@ -26,6 +44,10 @@ The method of decoding is illustrated at every turn of [[Historische Curiositeit
 
 For AcehWiki, *bedekte taal* is the single most important methodological concept underlying [[P. de Roo de la Faille|De Roo de la Faille]]'s reading of the chronicle record. Whether or not each of his particular identifications is accepted, the recognition that the Malay and Javanese chronicles routinely employ a veiled-language register — and that European travel accounts of the archipelago were routinely misled by it — is the framework against which any AcehWiki entry touching on the chronicle geography of [[Acheh|Atjeh]] and the east-coast Sumatran polities must be read.
 
+
+## Sources
+*Historische Curiositeiten uit Malajoe en Java*, by P. de Roo de la Faille (Den Haag: Maart 1954), chapter "Gamispola", pp. 22-23.
+
 ## See Also
 
 - [[Wangsallan]]
@@ -41,6 +63,12 @@ For AcehWiki, *bedekte taal* is the single most important methodological concept
 - [[Sjahroe'n Noewi]]
 - [[Puteri Idjo]]
 - [[Dr. J. Brandes]]
+- [[Bedekte taal]]
+- [[Kapoer baroer]]
+- [[Marco Polo]]
+- [[Taroema]]
+- [[Barus]]
+- [[Malajoe]]
 
 ## Source
 

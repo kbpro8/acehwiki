@@ -1,7 +1,36 @@
 ---
-title: "Herstel van het sultanaat"
-aliases: ["Herstel van het sultanaat", "restoration of the sultanate", "herstel van het sultanaat in Atjeh", "restoration of the Achehnese sultanate", "sultanate restoration debate", "sultanaat herstel", "Restoration of the sultanate of Atjeh (proposal)", "herstel van het sultanaat op Atjeh", "restoration of the Acehnese sultanate"]
-tags: [concept, colonial, dutch, achehnese, sultanate, political, aceh-war, 19th-century, aceh, 1897]
+title: Herstel van het sultanaat
+aliases:
+- restoration of the sultanate
+- herstel van het sultanaat in Atjeh
+- restoration of the Achehnese sultanate
+- sultanate restoration debate
+- sultanaat herstel
+- Restoration of the sultanate of Atjeh (proposal)
+- herstel van het sultanaat op Atjeh
+- restoration of the Acehnese sultanate
+- Restoration of the Sultanate (1885-1896)
+- Restoration of the Sultanate Atjeh
+- Sultanate restoration policy
+- Atjeh Sultanate restoration
+- Poging tot herstel van het Sultanaat
+tags:
+- concept
+- colonial
+- dutch
+- achehnese
+- sultanate
+- political
+- aceh-war
+- 19th-century
+- aceh
+- 1897
+- event
+- acehnese
+- political-policy
+- restoration
+- indrapoeri
+- kemala
 ---
 
 **Herstel van het sultanaat** ("restoration of the sultanate") was the Dutch colonial policy proposal — debated from [[1879]] to [[1892]] and intermittently pursued as official strategy — to restore the indigenous sultanate in [[Groot-Atjeh|Groot-Atjeh]] under [[Toeankoe Mohamad Daoed|Toeankoe Mohamad Daoed]] as sultan, within the framework of Dutch sovereignty, as the means of obtaining the submission of the [[Atjehers|Atjehers]] and ending the [[Aceh War|Atjeh-oorlog]]. The proposal was the subject of a celebrated article by [[Laging Tobias|Laging Tobias]], "Het herstel van het sultanaat in Atjeh," published in the *Indische Gids* of [[December]] [[1886]]; was supported by successive ministers of colonies including [[I. D. Fransen van de Putte|Fransen van de Putte]], [[Minister van Bloemen Waanders|Minister van Bloemen Waanders]], and [[Minister Sprenger van Eijk|Minister Sprenger van Eijk]]; and was adopted as official policy during the governorship of [[General van Teijn|Generaal van Teijn]] ([[1886]]–[[1891]]). It was rejected by [[J. B. van Heutsz|Van Heutsz]] in his [[De onderwerping van Atjeh (Van Heutsz, 1893)|1893 brochure]] on grounds that the present sultan's lineage had never possessed real authority, had been placed on the throne by bribery, and was opposed by the chiefs who would be compelled to support it against their own interests.
@@ -77,6 +106,31 @@ In place of a treaty with a restored sultanate, Dutch authority on the coast res
 - [[Post-1896 system in Atjeh]]
 - [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
 - [[1897]]
+- [[Sultan of Aceh]]
+- [[Toeankoe Mohamed Daoed]]
+- [[Toeankoe Abdul Medjid]]
+- [[Toeankoe Hasschim]]
+- [[Indrapoeri]]
+- [[Kemala-party]]
+- [[Demmeni]]
+- [[Panglima Polim]]
+- [[Tengkoe di Tirou]]
+- [[Imam Longbattah]]
+- [[Giegieng]]
+- [[Kwalla Batoe]]
+- [[Groot-Atjeh]]
+- [[Kota Radja]]
+- [[Aceh War]]
+- [[Atjeh-oorlog]]
+- [[1885]]
+- [[1886]]
+- [[June 1887]]
+- [[August 1888]]
+- [[1889]]
+- [[January 1891]]
+- [[April 1891]]
+- [[December 1894]]
+- [[1896]]
 
 ## Sources
 
@@ -85,3 +139,4 @@ In place of a treaty with a restored sultanate, Dutch authority on the coast res
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 29–30, 54, 58.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VIII (the Laging Tobias attempts), Chapter IX (the Atjehese restoration), Chapter X (the Van Teijn pursuit), Chapter XII (the 1894 flight from Kemala). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 44, 49–50, 56–57, 68.

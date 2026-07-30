@@ -1,7 +1,27 @@
 ---
-title: "Atjeh-moord"
-aliases: ["Aceh murder", "Acehnese murder-attack", "Atjeh-moorden", "Atjeh murder", "Acehnese murder", "Atjeh murders"]
-tags: [concept, military-term, acehnese, resistance, aceh, violence, colonial, achehnese, religion, psychology, 20th-century]
+title: Atjeh-moord
+aliases:
+- Aceh murder
+- Acehnese murder-attack
+- Atjeh-moorden
+- Atjeh murder
+- Acehnese murder
+- Atjeh murders
+- Atjèh murder
+- Atjèh-moord
+- Atjèhnese assassination
+tags:
+- concept
+- military-term
+- acehnese
+- resistance
+- aceh
+- violence
+- colonial
+- achehnese
+- religion
+- psychology
+- 20th-century
 ---
 
 **The Atjeh-moord** — the Aceh murder, the Acehnese murder-attack — was the colonial army's term for the Acehnese practice of the lone attack: the djahat's attack on a colonial soldier or official, conducted in the expectation of the paradise-death. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), the Atjeh-moord is the subject of [[Musket]]'s Sloebers prologue: the proposal to mutilate the fallen perpetrator of an Atjeh-moord — "by cutting off his arms and legs, or by beheading him" — and the prang sabil against which the colonial army tried to defend by "burying fallen opponents together with a pig."
@@ -60,6 +80,10 @@ Such flare-ups were almost always declared in the press and by "the talk of the 
 
 The *Atjeh-moord* was the residual violence of a pacified province, and du Croo's analysis of it — as a social and psychological rather than a political phenomenon, produced by the destruction of the *bendewezen* that had formerly absorbed such men — is one of the most sustained pieces of interpretation in his book. He noted that the murders continued long after the period he described: the last he lists occurred in [[1919]], but "they still occurred even twenty years later."
 
+
+## Sources
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 1, Chapter VI.
+
 ## See Also
 
 - [[Musket]]
@@ -78,6 +102,13 @@ The *Atjeh-moord* was the residual violence of a pacified province, and du Croo'
 - [[Resistance in Daja and Lhong (1914)]]
 - [[Kaphé]]
 - [[H. N. A. Swart]]
+- [[kaphé]]
+- [[prang sabi]]
+- [[hikajat prang sabi]]
+- [[Atjèh War]]
+- [[Bakóngan uprising (1925–1927)]]
+- [[Lhóng action (1933)]]
+- [[Japanese invasion of Atjèh]]
 
 ## Source
 

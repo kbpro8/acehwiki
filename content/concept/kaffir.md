@@ -1,7 +1,27 @@
 ---
-title: "Kaffir"
-aliases: ["Kaffir", "Kafir", "non‑believer", "Kafi", "Kafr", "Kafirs", "Kafirun", "unbeliever", "kaphe"]
-tags: [concept, religious, islamic, achehnese, military, aceh-war, islam, religion, terminology]
+title: Kaffir
+aliases:
+- Kafir
+- non‑believer
+- Kafi
+- Kafr
+- Kafirs
+- Kafirun
+- unbeliever
+- kaphe
+- Kaphé
+- kafé
+- infidel
+tags:
+- concept
+- religious
+- islamic
+- achehnese
+- military
+- aceh-war
+- islam
+- religion
+- terminology
 ---
 
 **Kaffir** is an Arabic term for non‑believer used in the Malay translation of the *Burda* to describe those who are blind to the prophetic signs. The poem contrasts the enlightened believers with the *kāfir* who "refuse the signs of the messenger".
@@ -68,6 +88,14 @@ The term marks the point at which Van Kol's political argument became a religiou
 - [[Atjeh onneembaar]]
 - [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
 - [[1897]]
+- [[prang sabi]]
+- [[Atjèh murder]]
+- [[Atjèh War]]
+- [[Fujiwara-kikan]]
+- [[Maibkatra]]
+- [[Poesa]]
+- [[hikajat prang sabi]]
+- [[Panglima Polem|Teukoe Panglima Pólém]]
 
 ## Sources
 
@@ -78,3 +106,4 @@ The term marks the point at which Van Kol's political argument became a religiou
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, p. 12.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Glossary, Chapter I § 1, Chapter III § 3, Chapter VI.
