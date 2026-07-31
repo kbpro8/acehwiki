@@ -1,48 +1,8 @@
 ---
-title: C. Snouck Hurgronje
-aliases:
-- Christiaan Snouck Hurgronje
-- Dr. C. Snouck Hurgronje
-- Dr. Snouck Hurgronje
-- Snouck Hurgronje
-- Snouch Hurgronje
-- Snouck
-- Dr. Snouck
-- Prof. Dr. C. Snouck Hurgronje
-- the advisor on Atjeh affairs
-- de rijksadviseur
-- Sn. H.
-- Prof. Snouck Hurgronje
-- C. Snouck Hurgronje (Kreemer's account
-- Deel II)
-- de taalgeleerde
-- de hoogleeraar
-- Christiaan Snouck Hurgrouje
-tags:
-- person
-- scholar
-- dutch
-- orientalist
-- author
-- colonial-official
-- advisor
-- islamologist
-- colonial
-- aceh
-- buitenbezittingen
-- achehnese-history
-- 19th-century
-- 20th-century
-- religious
-- diplomacy
-- islam
-- adviser
-- aceh-war
-- intelligence
-description: Prof. Dr. C. Snouck Hurgronje (1857-1936), the world-renowned Dutch scholar
-  of Islam and Muslim law, was sent to the Dutch East Indies in 1889 as Government
-  Advisor and provided services of inestimable value to the colonial government, particularly
-  regarding Atjeh. His works include 'Mekka' and 'De Atjehers'.
+title: "C. Snouck Hurgronje"
+aliases: ["Christiaan Snouck Hurgronje", "Dr. C. Snouck Hurgronje", "Dr. Snouck Hurgronje", "Snouck Hurgronje", "Snouch Hurgronje", "Snouck", "Dr. Snouck", "Prof. Dr. C. Snouck Hurgronje", "the advisor on Atjeh affairs", "de rijksadviseur", "Sn. H.", "Prof. Snouck Hurgronje", "C. Snouck Hurgronje (Kreemer's account", "Deel II)", "de taalgeleerde", "de hoogleeraar", "Christiaan Snouck Hurgrouje"]
+tags: [person, scholar, dutch, orientalist, author, colonial-official, advisor, islamologist, colonial, aceh, buitenbezittingen, achehnese-history, 19th-century, 20th-century, religious, diplomacy, islam, adviser, aceh-war, intelligence]
+description: "Prof. Dr. C. Snouck Hurgronje (1857-1936), the world-renowned Dutch scholar of Islam and Muslim law, was sent to the Dutch East Indies in 1889 as Government Advisor and provided services of inestimable value to the colonial government, particularly regarding Atjeh. His works include 'Mekka' and 'De Atjehers'."
 ---
 
 **Christiaan Snouck Hurgronje** ([[8 February]] [[1857]]–[[1936]]), cited on the title-page of Vol. I of *The Achehnese* as **Dr. C. Snouck Hurgronje, Adviser for Native Affairs, Netherlands India**, was a Dutch orientalist, Islamic scholar, and colonial adviser who played a formative role in the pacification of [[Acheh|Atjèh]] (Aceh), both through his intellectual framework for [[Joannes Benedictus van Heutsz|Van Heutsz]]'s policy and as a vocal critic of the appointments and methods that violated it. His two-volume ethnographic and historical study *De Atjehers* (Leiden, [[1893]]–[[1894]]; English translation as *The Achehnese*, [[1906]]) remains even now the standard work on the country and people with which it deals — and the principal source of which the present Wiki is, in effect, an index. [[J. Kreemer|Kreemer]]'s *Atjèh* (Tweede Deel, [[1923]]) acknowledges its own debt in so many words: Kreemer, as archivist of the Atjèh Instituut, made "vooral een druk en dankbaar gebruik gemaakt van 'De Atjèhers' en van 'Het Gajöland en zijne bewoners'" — "especially a heavy and grateful use of 'De Atjèhers' and of 'Het Gajöland en zijne bewoners'" — and his account of Snouck's preparation, method, and informants is the colonial-period reception of the Snouck Hurgronje corpus from the perspective of the Atjèh-Instituut itself.
@@ -235,9 +195,19 @@ Du Croo's verdict was that Snouck had mistaken his man: the passage stood record
 
 Snouck Hurgronje's analysis supplied the doctrine of the entire pacification, and his formula on the combination of solid administrative means with unavoidably hard measures recurs as the standard by which du Croo measures every governor from van Heutsz to Swart. His public condemnation of Swart in [[1908]] made the Governor's "welkom" in press and periodical "verre van hartelijk en op vertrouwen stoelende," and remained a grievance in Swart's circle for decades.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter XI (the 1891 mission, the diagnosis, and the advice), Chapter VII (1889 plan). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 36, 62.
+**C. Snouck Hurgronje** was the Dutch Arabist and adviser on native affairs whose judgment of the Dutch position within the *[[Geconcentreerde linie|geconcentreerde linie]]* [[G. B. Hooijer]] quoted at the head of *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]*, and whose ethnographic study of the Achehnese Hooijer named in his [[Voorwoord of De verlaten posten in Groot-Atjeh|Voorwoord]] as the only work standing beside the one substantial military history of the [[Aceh War|Atjeh-krijg]].
+
+## The image of the ape on a chain
+
+Hooijer opened his narrative with the words *Jaren en jaren lang hadden wij, zooals Snouck Hurgronje zegt, in onze geconcentreerde linie gelegen als een aap aan een ketting, door een aantal knapen, zonder veel gevaar voor hen zelven, tot dol wordens toe geplaagd* — "For years and years we had lain, as Snouck Hurgronje says, in our concentrated line like an ape on a chain, teased to distraction by a number of boys who ran little danger themselves."
+
+Hooijer developed the image at length as the frame of his book: the Dutch sorties had profited them little and served only to keep the surrounding population at a distance; but when the Dutch sat quietly in their cage and gave that population the chance to pick the fruits that grew beneath it — that is, when they opened their hitherto closed line to it — the *[[Moslemin]]*, unable to trouble the Dutch, began instead to attack what the population had gained from them, and the game of the naughty boys palled.
+
+## The ethnographic study
+
+In the [[Voorwoord of De verlaten posten in Groot-Atjeh|Voorwoord]], Hooijer complained that the soundest work possessed on the *Atjeh-krijg* ran only over the first nine years of the war, and that beside this military study and one further *land- en volkenkundige studie over de Atjehers* — a land- and ethnographic study of the Achehnese, understood to be Snouck Hurgronje's *[[De Atjehers (Snouck Hurgronje)|De Atjehers]]* — no literary work of art and no powerful poem had appeared to sing the great struggle.
 
 ## See Also
 
@@ -361,8 +331,14 @@ Snouck Hurgronje's analysis supplied the doctrine of the entire pacification, an
 - [[Heiligen Oorlog]]
 - [[July 1891]]
 - [[February 1892]]
+- [[Geconcentreerde linie]]
+- [[Moslemin]]
+- [[G. B. Hooijer]]
+- [[Voorwoord of De verlaten posten in Groot-Atjeh]]
 
-## Source
+## Sources
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter XI (the 1891 mission, the diagnosis, and the advice), Chapter VII (1889 plan). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 36, 62.
 
 *The Achehnese*, Vol. I & II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
@@ -387,3 +363,7 @@ Snouck Hurgronje's analysis supplied the doctrine of the entire pacification, an
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 19, 24, 439.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters III, V, VIII, IX, XIII, XIV, pp. 14–17, 34, 81–82, 88–89, 130, 142.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, Voorwoord and p. 9.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

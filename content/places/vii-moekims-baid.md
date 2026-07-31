@@ -1,7 +1,7 @@
 ---
-title: VII Moekims Baid
-aliases: ["VII Moekims Baid", "7 Mukims Baid"]
-tags: [place, achehnese, succession, sultanate]
+title: "VII Moekims Baid"
+aliases: ["7 Mukims Baid", "VII Mockims", "Seven Moekims of Baid", "VII Mukims"]
+tags: [place, achehnese, succession, sultanate, moekim, administrative-division, groot-atjeh, aceh-war]
 ---
 
 **VII Moekims Baid** — written in Dutch as *VII Moekims Baid* and meaning "Seven Mukims of Baid" — was a region of [[Groot-Atjeh]] comprising seven [[moekim|mukims]] situated in the southern inland portion of the [[Aceh War|Atjeh-oorlog]] theatre, of which the territorial chief was [[Toekoe Moeda Baid|T. Moeda Baid]]. As described in Kruisheer's *ATJEH '96*, the VII Moekims Baid contained the mukims of [[Lamkrak Moekims|Lamkrak, Kroeng Mak, Loetoe, and Lam Lheue]], "welke steeds eene verblijfplaats van kwaad volk waren" ("which were always a haunt of bad people"). The VII Moekims Baid was crossed by [[Toeankoe Machmoed]] and [[Toeankoe Brahim]] in late [[May]] [[1896]] en route to [[Groot-Atjeh]], and [[Ana' Galong]] — at the eastern edge of the mukim — had originally been built to keep "[[Toekoe Moeda Baid|T. Baid]]" in line.
@@ -22,6 +22,14 @@ The VII Moekims Baid was crossed by [[Toeankoe Machmoed]] and [[Toeankoe Brahim]
 
 The VII Moekims Baid was the principal southern refuge of Achehnese resistance in [[Groot-Atjeh]]. The failure of the [[Dutch]] to reduce the Lamkrak mukims within the VII Moekims Baid before [[1896]] had been a major strategic limitation of the *buitenlinie* policy, and the [[Tuchtiging of Lam-Krak Moekims (9–10 June 1896)|tuchtiging of 9–10 June 1896]] was the first systematic Dutch operation against these mukims. The passage of [[Toeankoe Machmoed]] and [[Toeankoe Brahim]] through the VII Moekims Baid in late [[May]] [[1896]] indicated the continued political importance of the region in the Achehnese imagination.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+The **VII Moekims Baid** were the seven *[[Mukim|moekims]]* of [[Groot-Atjeh]] headed by [[Toekoe Moeda Baid]], *het machtige hoofd der VII Moekims*, whose territory adjoined the Dutch post at [[Anagaloeng]].
+
+## Relations with the Dutch
+
+[[Toekoe Moeda Baid]] had been banished by [[General van der Heijden]] for faithlessness and was afterwards recalled and restored to honour by [[Demmeni|General Demmeni]] on account of his influence. Hooijer recorded that the proximity of his territory kept the officers of the [[Anagaloeng]] garrison in suspense and the sentries awake, and that one of the neighbouring *[[Blokhuis|blokhuizen]]* held by his people fell or was played into the hands of the *[[Moslemin]]* a few hours after a Dutch inspection had found everything in order. For two years the garrison nevertheless had a fairly quiet time, once the surrounding terrain came to be watched by Achehnese auxiliaries no longer commanded by Toekoe Baid.
+
 ## See Also
 
 - [[Toekoe Moeda Baid]]
@@ -35,7 +43,14 @@ The VII Moekims Baid was the principal southern refuge of Achehnese resistance i
 - [[Ateuh Raja]]
 - [[Baha]]
 - [[1896]]
+- [[Anagaloeng]]
+- [[General van der Heijden]]
+- [[Demmeni]]
 
-## Source
+## Sources
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21, 297.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 50.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

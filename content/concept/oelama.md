@@ -1,7 +1,7 @@
 ---
 title: "Oelama"
-aliases: ["ulama", "ulama's", "oelama's", "religious scholars", "geestelijke hoofden", "heilige mannen", "tengkoe meunasa", "Ulema"]
-tags: [concept, religious, islamic, aceh, oelama, religious-leader, resistance, achehnese, sultanate, religion, islam]
+aliases: ["ulama", "ulama's", "oelama's", "religious scholars", "geestelijke hoofden", "heilige mannen", "tengkoe meunasa", "Ulema", "Oelama Teungkoe di Tiro"]
+tags: [concept, religious, islamic, aceh, oelama, religious-leader, resistance, achehnese, sultanate, religion, islam, office]
 description: "The class of Islamic religious scholars and leaders in Aceh — from Arabic ulama — who led the resistance through the prang sabil; the Tiro-oelama's, the Paja Bakong Tengkoes, Habib Teupin Wan, Tgk. Tjot Plieëng; lived kramat lives, wrote letters with Arabic formulas, were the spiritual leaders the oeléëbalangs could not rival."
 ---
 
@@ -55,6 +55,20 @@ The *oelama* — and not the *oeléëbalang* — was the soul of the [[Aceh War|
 
 [[Teungkoe di Tjòt Plieng]] was head of the *oelama* party at [[Garot]] in [[1898]]; the [[Tirò Teungkoes]] were the fanatical *oelama* house of [[Pidië]]; and after [[1908]] "once again the religious scholars and the band-leaders carried the torch of war through the land." [[J. C. Lamster|Lamster]] described the *[[Corps of Military Constabulary of Atjeh and Dependencies|marechaussée]]* patrols tracking "into the deepest hiding-places the last irreconcilable religious scholars." But the *oelama* also had a constructive place in [[H. N. A. Swart]]'s system: his second principle of administration required "a decision as just as possible "with regard to the *[[adat]]*", that is to say always with the religious adviser, the *oelama*, behind the green table." [[Si Doelah]], the substitute for [[T. Radja Sabi]], was the son of a simple *oelama*.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+An **oelama** was a religious scholar of [[Atjeh]], and in the period covered by *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]* the effective leader of the war-party against the Netherlands in [[Groot-Atjeh]].
+
+## Teungkoe di Tiro
+
+[[G. B. Hooijer]] named as *Oelama* only [[Tengkoe Sjech Saman di Tiro|Teungkoe di Tiro]], the spiritual leader of the Achehnese in the holy war, whose party had for years been supreme in the [[Sagi der XXVI Moekims|XXVI Moekims]], who penetrated the *[[Geconcentreerde linie|geconcentreerde linie]]* with disciplined troops to pray at holy graves before being driven out by [[General Vetter|Kolonel Vetter]], who harassed the line from [[Kota Toeankoe]], whose proposal to reconcile the [[Proclamation of the Pretender Sultan|pretender-Sultan]] with the Dutch on condition of becoming his *rijksbestuurder* was rejected, and who died at [[Anagaloeng]] as *een zedelijk en lichamelijk gebroken man*.
+
+His declared life-aim, according to Hooijer, was *ons uit Atjeh te verdrijven en er zelf geestelijk opperhoofd te worden* — to drive the Dutch out of Atjeh and himself become spiritual supreme head there.
+
+## Succession
+
+He was succeeded in the leadership of the *[[Moslemin]]* by his son [[Mat Amin|Mad Amin]], who was reported — Hooijer stressed, only as hearsay — to have poisoned him.
+
 ## See Also
 
 - [[Prang sabil]]
@@ -102,11 +116,17 @@ The *oelama* — and not the *oeléëbalang* — was the soul of the [[Aceh War|
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Mat Amin]]
+- [[Anagaloeng]]
 
-## Source
+## Sources
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 45, 183, 244.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, IV, X, XIII.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 48.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

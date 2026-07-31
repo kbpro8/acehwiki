@@ -1,31 +1,7 @@
 ---
-title: Lambaroe
-aliases:
-- Fort Lambaroe
-- Kampung Lambaroe
-- Lambarih
-- Lambaro
-- V Moekims Montassik post
-- Lam Baro
-- Lam-Baro
-- Lam Baro (locality)
-tags:
-- place
-- 19th-century
-- aceh
-- aceh-war
-- achehnese
-- battlefield
-- buitenlinie
-- colonial
-- dutch
-- fortification
-- military
-- settlement
-- village
-- xxii-moekims
-- locality
-- pantun
+title: "Lambaroe"
+aliases: ["Fort Lambaroe", "Kampung Lambaroe", "Lambarih", "Lambaro", "V Moekims Montassik post", "Lam Baro", "Lam-Baro", "Lam Baro (locality)", "Lambaroc", "Lambaroe on the Atjeh river"]
+tags: [place, 19th-century, aceh, aceh-war, achehnese, battlefield, buitenlinie, colonial, dutch, fortification, military, settlement, village, xxii-moekims, locality, pantun, kampong, groot-atjeh]
 ---
 
 **Lambaroe** was a settlement north of [[Kajoe‑leh]] that Dutch troops reached after occupying Kajoe‑leh on [[5 February]] [[1876]]. From Lambaroe the column proceeded to the [[Atjeh River]] and later to [[Pajar‑Ajer]].
@@ -56,8 +32,6 @@ Lambarih was a key communication and reinforcement post throughout the first sem
 
 Lambarih was the indispensable support post for the [[Ana' Galong]] garrison and a key communication node in the [[buitenlinie]] of the [[Sagi der XXII Moekims|XXII Moekims]]. Its retention after the evacuation of the outer *buitenposten* in [[April]] [[1896]] reflected its importance to the inner [[Geconcenteerde Linie|Geconcenteerde Linie (Concentrated Line)]], and its telephone connection made it a critical link in the Dutch command network. The post's role in the [[7 March]] [[1896]] relief of [[H. F. T. van Blokland|Van Blokland]]'s patrol was one of the most consequential actions of the pre-defection period.
 
-
-
 ## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
 
 **Lambaroe** was an Atjehnees kampong in the [[III Moekims]] sector, conquered on [[4 February]] [[1876]] in [[Generaal Pel|Pel]]'s great [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|winter offensive]] and the site of a strong enemy *benteng* (fortification) stormed in early March [[1876]] by [[Kolonel Meijer|overste Meijer]]'s colonne, in which the Atjehneezen lost more than 70 dead and the Dutch five dead and 41 wounded including five officers. A Dutch post was then erected at Lambaroe.
@@ -70,9 +44,27 @@ Lambaroe was conquered on [[4 February]] [[1876]] in the closing sweep of the [[
 
 In early March [[1876]] the communication between [[Pager Ajer]] and the [[Longbatta-Mesigit]] was broken and Kajoe Leh was *ingesloten* (besieged) by the enemy. [[Kolonel Meijer|Overste Meijer]] marched with a colonne from K. Radja to *ontzet* (relieve) the bedreigde posten. After the enemy was verdreven on the Pager Ajer side, the colonne stuitten at Lambaroe on a *sterke benteng*, which was *stormenderhand* (by storm) taken. The Atjehneezen left more than 70 *lijken* (corpses); Dutch losses were five *gesneuvelden* and 41 *gekwetsten* including five officers. Kajoe Leh was *ontzet* and a post was opgericht at Lambaroe. The storming was the last major offensive operation of Pel's plan: on [[10 March]] [[1876]] [[Generaal Wiggers van Kerchem|generaal Wiggers van Kerchem]] assumed militaire and civiele bestuur, and from then on the war entered another phase. The *stelling* [[Kroeng Raba|K. Raba]]–[[Kwala Gigieng]] has remained "nagenoeg onveranderd" ever since, Borel writes in [[1878]].
 
+## Nineteenth-Century Historiography & Campaign Analysis
 
-## Sources
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+## Combat History in 1875-1876
+
+Guarding the approach to the [[XXII Moekims]], Lambaroe was heavily fortified by Acehnese forces under [[Panglima Polem]]. During [[General Pel's Campaign in Aceh]], General [[J. L. J. H. Pel]] directed offensive operations toward Lambaroe.
+
+In February [[1876]], during the [[March through the XXII Moekims]], columns of the [[3rd Infantry Battalion]] and [[13th Infantry Battalion]] assaulted bentengs around Lambaroe, occupying the settlement and destroying supply granaries across the surrounding sawahs ([[Sawah Cultivation and Supply in Aceh]]).
+
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+**Lambaroe** was a place on the [[Acheh River|Atjeh-rivier]] in the [[XXII Moekims]] of [[Groot-Atjeh]], the northern terminus of the road running to [[Anagaloeng]] on which the temporary posts of [[Lam Barih]] and [[Lam Soet]] were established.
+
+## The road to Anagaloeng
+
+Hooijer recorded that at the repeated insistence of [[Teukoe Oemar|Toekoe Djohan]] a temporary post was occupied on [[30 November]] [[1893]] *op den bestaanden weg van Lambaroe naar Anagaloeng* at [[Lam Barih]]. The traffic passing along that road gave variety to life at the post and prevented the garrison from feeling as lonely as elsewhere: *men leefde er als op een soort van boerderij* — they lived there as on a sort of farm.
+
+The post of [[Lam Soet]] was erected a few days after that at [[Anagaloeng]] to secure the same road, and Hooijer noted that its establishment had indeed made safe the stretch of road from Lambaroe near [[Anagaloeng]].
+
+## Terrain
+
+A plate of the terrain at [[Anagaloeng]] showed the plain *van af Indrapoeri tot Lambaroe*, through which the winding river cut its sharply incised bed.
 
 ## See Also
 
@@ -91,21 +83,6 @@ In early March [[1876]] the communication between [[Pager Ajer]] and the [[Longb
 - [[Lhee Mukim Lam Rabo]]
 - [[Great Acheh]]
 - [[Mamplenc (wedding procession)]]
-
-## Source
-
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 327–329, 336–337.
-
-## Nineteenth-Century Historiography & Campaign Analysis
-
-## Combat History in 1875-1876
-
-Guarding the approach to the [[XXII Moekims]], Lambaroe was heavily fortified by Acehnese forces under [[Panglima Polem]]. During [[General Pel's Campaign in Aceh]], General [[J. L. J. H. Pel]] directed offensive operations toward Lambaroe.
-
-In February [[1876]], during the [[March through the XXII Moekims]], columns of the [[3rd Infantry Battalion]] and [[13th Infantry Battalion]] assaulted bentengs around Lambaroe, occupying the settlement and destroying supply granaries across the surrounding sawahs ([[Sawah Cultivation and Supply in Aceh]]).
-
-## See Also
-
 - [[1896]]
 - [[3rd Infantry Battalion]]
 - [[Ana' Galong]]
@@ -129,11 +106,24 @@ In February [[1876]], during the [[March through the XXII Moekims]], columns of 
 - [[Sagi der XXII Moekims]]
 - [[XXII Moekims]]
 - [[buitenlinie]]
+- [[Lam Barih]]
+- [[Lam Soet]]
+- [[Anagaloeng]]
+- [[Indrapoeri]]
+- [[Acheh River]]
 
-## Source
+## Sources
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 327–329, 336–337.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 22, 27, 28, 30, 35, 38–40, 42, 51, 55, 62, 63, 66, 75–76, 92, 100, 144, 335.
 
 *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 14-20, 60-65.
 
 *Verslagen der Marine‑Vereeniging III 1889‑1890*, pp. 229‑233. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pages 138‑141.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 38, 40, 49-50.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

@@ -1,8 +1,9 @@
 ---
-title: Goudberg
-aliases: [Goudberg, Seulawah Agam, Gold Mountain]
-tags: [place, mountain, noordkust, achehnese]
+title: "Goudberg"
+aliases: ["Seulawah Agam", "Gold Mountain", "Goud-berg", "the Goudberg"]
+tags: [place, mountain, noordkust, achehnese, geography, groot-atjeh, aceh-war]
 ---
+
 **Goudberg** — the "Gold Mountain" — known natively as **Seulawah Agam** (1,726 m), is the prominent volcanic peak on the deforested highland east of the [[Kr. Atjeh|Atjeh River]] that, with its companion **Weesberg** (*Seulawah Inòng*, 868 m, the "Orphan Mountain"), forms the backdrop of the [[Pedir|Pedir]] plain and the northern skyline of [[Groot-Atjeh|Groot-Atjeh]]. *De Buitenbezittingen* records that the *Goudberg* and *Weesberg* owed their Dutch names to the gold workings that had once attracted miners — and through them, the political interest of the [[Sultans of Atjeh|Sultanate of Atjeh]] — to the highlands of north-eastern Atjeh.
 
 ## Topography and landscape
@@ -27,6 +28,14 @@ The Encyclopaedisch Bureau's earlier Sumatra-wide survey (Aflevering 1, Hoofdstu
 
 The Bureau frames the Goudberg's *dwarsrij* as the geological foundation of the Sabang oceaanhaven and thus of the Dutch colonial state's principal northern haven — a strategic reading that complements the *De Buitenbezittingen* Aflevering 2 account of the mountain's gold-working history and its role in the geography of the Pantjang Alas refuge route.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+The **Goudberg** — "Gold Mountain" — was a height bounding the valley of the [[Acheh River|Atjeh-rivier]] in [[Groot-Atjeh]], named by [[G. B. Hooijer]] together with the [[Glé Raja]] in his description of the storms over the [[XXII Moekims]].
+
+## In Hooijer's description
+
+*Wanneer de donder weerkaatst van den Goudberg naar den Glé Raja, de bliksem verblindend licht over de in duisternis gehulde landouwen en tropische regens neerkletteren op de roerloos staande boomen* — when the thunder echoed from the Goudberg to the Glé Raja, lightning threw blinding light over the darkened fields and tropical rains clattered down on the motionless trees — then, Hooijer wrote, the surplus water of the middle part of the valley ran off towards the feet of the hills and mountains bounding the plain, and trickled thence through creeks and streams to the lower river or the sea coast.
+
 ## See Also
 
 - [[Pedir]]
@@ -46,9 +55,17 @@ The Bureau frames the Goudberg's *dwarsrij* as the geological foundation of the 
 - [[1878]]
 - [[1914]]
 - [[1917]]
+- [[Glé Raja]]
+- [[Acheh River]]
+- [[XXII Moekims]]
+- [[Anagaloeng]]
 
 ## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 4, 9–13, 55.
 
 *De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), p. 12, and Lijst der Vulkanen.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 40.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

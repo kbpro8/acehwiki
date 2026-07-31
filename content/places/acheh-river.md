@@ -1,39 +1,7 @@
 ---
-title: Acheh River
-aliases:
-- Krueng Acheh
-- Kuala Acheh
-- Aceh River
-- Krueng Aceh
-- Sungai Aceh
-- Atjeh-rivier
-- Acheen River
-- Atjeh river
-- rivier van Atjeh
-- de Atjeh-rivier
-- Atjehrivier
-- Kroeëng Atjeh
-- Mouth of the Acheh River
-- Kuala Achèh
-- River-mouth of the Aceh
-tags:
-- place
-- river
-- waterway
-- capital
-- banda-aceh
-- coast
-- atjehnese
-- geography
-- atjeh
-- hydrography
-- dutch-colonial
-- groot-atjeh
-- aceh
-- 1873
-- military
-- aceh-proper
-- river-mouth
+title: "Acheh River"
+aliases: ["Krueng Acheh", "Kuala Acheh", "Aceh River", "Krueng Aceh", "Sungai Aceh", "Atjeh-rivier", "Acheen River", "Atjeh river", "rivier van Atjeh", "de Atjeh-rivier", "Atjehrivier", "Kroeëng Atjeh", "Mouth of the Acheh River", "Kuala Achèh", "River-mouth of the Aceh", "Atjeh-stroom", "the Atjeh valley", "Atjeh-vallei"]
+tags: [place, river, waterway, capital, banda-aceh, coast, atjehnese, geography, atjeh, hydrography, dutch-colonial, groot-atjeh, aceh, 1873, military, aceh-proper, river-mouth, aceh-war]
 ---
 
 **The Acheh River** (*Krueng Acheh*, debouchement *Kuala Acheh*) was the principal river of [[Great Acheh]] and an important geographic and administrative landmark. The mouth of the Acheh River — the *kuala Acheh* — suggested to the Acehnese fancy the somewhat sharply pointed mouth of a *jeuëë* (winnowing-basket), which they used as a metaphor for the shape of their homeland.
@@ -82,13 +50,21 @@ The river-mouth reappears in [[Robert Fullerton|Fullerton]]'s minute of [[21 Mar
 
 The Acheh River also gave its name to the description of the *Wilhelmina* affair, in which [[Lieutenant Marx Bouwens|Bouwens]] was murdered "op de hoogte van Atjeh" — off Acheh — before his ship drifted on to [[Pasangan]] and [[Telok Semawé]].
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
+The **Acheh River** — the *Atjeh-rivier* or *Atjeh-stroom* of Dutch usage — was the principal river of [[Groot-Atjeh]], whose broad, sharply incised valley formed the theatre of the outpost campaign described in *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]*.
 
-## Sources
-*Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter XI ("Atjehsche ambassade. Inlandsche feesten. Maagden als losprijs"), pp. 39–43 of the numbered-letter sequence.
-*De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), pp. 11–12, 28–29.
-*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, p. 125.
-*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+## Course and valley
+
+[[G. B. Hooijer]] described the valley as a flat, marshy floor bounded on the south by a steep mountain range behind [[Biloel]], on the east by bare hill country, and running upstream past [[Indrapoeri]] to [[Lambaroe]] and beyond to the point where the *Atjeh-stroom* and the [[Selimoen|Selimoen-rivier]] unite in the deepest part of the valley. Its yellow waters (*hare gele wateren*) rolled through the *kampong* (village) chain in which the post of [[Lam Barih]] was placed, and described a wide bend below the *kampongs* (villages) of [[Anagaloeng]], where the top of the steep bank was visible above the plain of high grass.
+
+## Flooding and drainage
+
+When the thunder echoed from the [[Goudberg]] to the [[Glé Raja]], lightning lit the darkened country and tropical rains clattered on the motionless trees, the surplus water of the middle valley — gradually raised by the sediment of earlier floods — ran off towards the feet of the hills and bounding mountains and trickled thence through creeks and streams to the lower river or to the sea coast. The waters once rose so high at [[Anagaloeng]] that the two Dutch encampments there were buried two metres deep and the soldiers had to take refuge on the high *kampong* ground.
+
+## Bridges and traffic
+
+At [[Anagaloeng]] the river was crossed by an [[Bridge at Anagaloeng|iron bridge]] and, between the two bivouacs of [[General van der Heijden]], by a *vlotbrug* or float-bridge. On the stream lay great Chinese barges in which the sick were carried down to the [[Kraton (institution)|Kraton]]. The post of [[Lam Soet]] was erected on the river a few days after that at [[Anagaloeng]] to secure the road from [[Lambaroe]]; its parapet was left open on the river side, and the commandant's summer-house on the rampart gave a view over the water. Rifle-shots at Lam Soet were mostly aimed at iguanas appearing at or in the river.
 
 ## See Also
 
@@ -164,9 +140,25 @@ The Acheh River also gave its name to the description of the *Wilhelmina* affair
 - [[Dalam]]
 - [[Both lanchang (setting afloat of a lanchang)]]
 - [[Kanduri la'ot (Sea-kanduri)]]
+- [[Anagaloeng]]
+- [[Bridge at Anagaloeng]]
+- [[Lam Soet]]
+- [[Lam Barih]]
+- [[Selimoen]]
+- [[Goudberg]]
+- [[Glé Raja]]
 
-## Source
+## Sources
+
+*Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter XI ("Atjehsche ambassade. Inlandsche feesten. Maagden als losprijs"), pp. 39–43 of the numbered-letter sequence.
+*De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), pp. 11–12, 28–29.
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, p. 125.
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 1–7, pp. 1–120.
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 38, 40, 42, 44, 46, 49.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

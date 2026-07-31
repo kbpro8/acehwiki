@@ -1,6 +1,6 @@
 ---
-title: Habib Samalanga
-aliases: [Habib of Samalanga, the Samalanga Habib]
+title: "Habib Samalanga"
+aliases: ["Habib of Samalanga", "the Samalanga Habib", "wijlen Habib Samalanga", "the late Habib Samalanga"]
 tags: [person, warrior, sayyid, ulama, religious-figure, jihad, achehnese, religious, aceh-war, military]
 ---
 
@@ -33,6 +33,14 @@ Samalanga's choice to "nest himself in [[Lamsoet]] with 50–60 men" is strategi
 ## Significance
 
 Habib Samalanga's significance in *ATJEH '96* lies in his embodiment of the religiously-authoritative Habib who, despite an initially neutral stance, was drawn into the resistance by the gravitational pull of Umar's defection and the progressive Dutch pressure on the western *sagi* mukims. His occupation of the former Dutch post at [[Lamsoet]] is a particularly evocative detail, because it represents the literal re-fortification of a Dutch strongpoint by a Habib commander — a symbolic reversal of the colonial *buitenlinie* through the agency of religious authority. His presence among the eight *bendehoofden* of the V Moekims Montassik confirms the integration of the Habib network into the broader Achehnese military command structure of mid-June [[1896]].
+
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+**Habib Samalanga** was an Achehnese religious war-leader associated with [[Samalanga]] on the north coast of [[Atjeh]], already dead by [[March]] [[1894]], whose sister commanded the fortified position of [[Senelop]] in the [[Sagi der XXVI Moekims|XXVI Moekims]] against the forces of [[Teukoe Oemar|Toekoe Djohan]].
+
+## The defence of Senelop
+
+Hooijer recorded that at [[Senelop]] *de zuster van wijlen Habib Samalanga* — the sister of the late Habib Samalanga — held the command and had, with fifteen other fanatical women, devoted herself to death. The struggle that [[Teukoe Oemar|Toekoe Djohan]] had to wage there on [[12 March]] [[1894]] was accordingly severe, and he succeeded in taking the position only after placing himself at the head of his troops with his sunshade in hand and running in upon the fortification together with [[Toekoe Hoessin Longbattah]]. Dutch troops occupied Senelop three days later.
 
 ## See Also
 
@@ -78,12 +86,19 @@ Habib Samalanga's significance in *ATJEH '96* lies in his embodiment of the reli
 - [[1891]]
 - [[1896]]
 - [[1901]]
-- [[Aceh War]]
+- [[Senelop]]
+- [[Sister of Habib Samalanga]]
+- [[Teukoe Oemar]]
+- [[Toekoe Hoessin Longbattah]]
 
-## Source
+## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 143, 279, 541.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 53.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

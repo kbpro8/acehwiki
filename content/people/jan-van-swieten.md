@@ -1,40 +1,8 @@
 ---
-title: Jan van Swieten
-aliases:
-- Van Swieten
-- J. van Swieten
-- General Van Swieten
-- Generaal Van Swieten
-- de Generaal van Swieten
-- Lieutenant-general Van Swieten
-- Lieutenant-colonel Van Swieten
-- General
-- Conqueror of the Acehnese Van Swieten
-- war-hero Van Swieten
-- grijzen veldheer en staatsman
-- Van Swieten (Atjeh)
-- Jan van Swieten commander Second Aceh Expedition
-- Van Swieten (Atjeh commander)
-tags:
-- person
-- general
-- dutch
-- military
-- colonial
-- knil
-- aceh-war
-- bali-expedition
-- 19th-century
-- infantry
-- achehnese
-- acheh
-- atjeh
-- governor
-- commander
-description: Dutch lieutenant-general (1807–1888) who commanded the Second Aceh Expedition
-  of 1873–1874, presided over the capture of the Kraton and the proclamation of annexation
-  of Groot-Atjeh, and earlier in his career negotiated the Treaty of 30 March 1857
-  with the Sultan of Aceh and took command of the third Bali expedition of 1849.
+title: "Jan van Swieten"
+aliases: ["Van Swieten", "J. van Swieten", "General Van Swieten", "Generaal Van Swieten", "de Generaal van Swieten", "Lieutenant-general Van Swieten", "Lieutenant-colonel Van Swieten", "General", "Conqueror of the Acehnese Van Swieten", "war-hero Van Swieten", "grijzen veldheer en staatsman", "Van Swieten (Atjeh)", "Jan van Swieten commander Second Aceh Expedition", "Van Swieten (Atjeh commander)"]
+tags: [person, general, dutch, military, colonial, knil, aceh-war, bali-expedition, 19th-century, infantry, achehnese, acheh, atjeh, governor, commander]
+description: "Dutch lieutenant-general (1807–1888) who commanded the Second Aceh Expedition of 1873–1874, presided over the capture of the Kraton and the proclamation of annexation of Groot-Atjeh, and earlier in his career negotiated the Treaty of 30 March 1857 with the Sultan of Aceh and took command of the third Bali expedition of 1849."
 ---
 
 **Jan van Swieten** ([[1807]]–[[1888]]) — known in Dutch as *Generaal Van Swieten* and styled by his contemporaries the "conqueror of the Acehnese" and the "grey war-hero" — was a Dutch lieutenant-general of the [[Royal Netherlands East Indies Army|Indies army]] who, after a long career that took him from the [[1849]] [[Bali Expedition|third Bali expedition]] through the governorship of [[Sumatra's Westkust|Sumatra's Westkust]] and the negotiation of the [[Treaty of 30 March 1857 with the Sultan of Aceh|Treaty of 30 March 1857 with the Sultan of Atjeh]], was restored to active service in [[1873]] to command the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] of November [[1873]]–January [[1874]]. He presided over the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[1874]] and issued the [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[Groot-Atjeh|Groot-Atjeh]] on [[31 January]] [[1874]], before returning to the Netherlands in April of that year. He is the principal Dutch commander of the triumph phase of the [[Aceh War|Atjeh-oorlog]] in the colonial school readers and the staff histories, and the figure through whom Merac's *[[Oost-Indisch Journael]]* ([[1947]]) narrates the colonial state's religious politics in [[Atjeh|Aceh]].
@@ -125,11 +93,9 @@ Van Swieten's expedition marked the first successful Dutch occupation of Aceh's 
 
 Van Swieten's significance for the encyclopedia of [[Acheh|Achehnese]] history lies principally in two acts. First, his capture of the [[Kraton of Aceh|Kraton]] on [[24 January]] [[24 January]] [[1874]] is the principal Dutch military success of the [[Aceh War|Atjeh-oorlog]]'s opening phase — the act that transformed the war from a punitive expedition into a conquest. Second, his [[Van Swieten's Proclamation of 31 January 1874|proclamation of annexation]] of [[31 January]] [[31 January]] [[1874]] is the formal founding document of the colonial administration of Atjeh, the legal basis on which all subsequent Dutch governance of the territory rested. His name, together with [[Köhler|Köhler]] and [[Van Heutsz|Van Heutsz]], is one of the three mnemonic pegs of the Dutch schoolroom memory of the Atjeh war.
 
-
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
 
 The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
-
 
 **General Van Swieten** — generaal Van Swieten — was the [[Netherlands|Dutch]] commander of the second military expedition against [[Acheh|Atjeh]], which landed in December [[1873]] with 8,000 men. After a bombardment of the "versterkte vorstenverblijf" (fortified royal residence), the residence was surrounded; it proved to have been abandoned. By Van Swieten's proclamation, [[Groot-Atjeh|Groot-Atjeh]] was declared government territory; the fortified kraton was renamed "[[Koeta Radja|Kota-Radja]]".
 
@@ -148,6 +114,40 @@ The source's verdict on [[General Van Swieten|Van Swieten]]'s achievement is dir
 ### Significance
 
 [[General Van Swieten|Van Swieten]]'s [[1873]] expedition is the formal beginning of Dutch territorial administration in Atjeh. The [[Koeta Radja|Kota-Radja]] renaming, the [[Groot-Atjeh|Groot-Atjeh]] annexation, and the [[Pel|Pel]] interlude together set the pattern for the next thirty-one years: formal Dutch declarations of sovereignty alternating with persistent Atjehnese resistance.
+
+## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
+
+Kruijt's account of Van Swieten is sharply critical: admiring the military achievement, condemning the political decisions and their consequences.
+
+Van Swieten's second expedition of approximately 9,000 combatants was divided into three brigades, one of which remained in reserve at [[Padang|Padang]]. A strong squadron of the [[Koninklijke Marine|Marine]] supported the operations. On [[7 January]] [[1874]] the groote Missigit was taken; on [[24 January]] [[1874]] the kraton fell. "*Dit feit maakte overal diepen indruk*" (This fact made a deep impression everywhere), and several chiefs came forward to submit. Two days later the Sultan died of cholera.
+
+Kruijt identifies Van Swieten's *proclamatietocht* (proclamation tour) as the origin of the *[[Vlaghijscherij|vlaghijscherij]]* (flag-raising) — the practice of circulating the flag and the *onderwerpingsacte* (act of submission) along the coasts by Marine vessels, with submission often little more than a flag sent ashore by a messenger. On the North and West Coasts, Kruijt writes, the flag and the act of recognition were "*veelal eenvoudig door een boodschapper aan land gezonden, zonder meer*" (usually simply sent ashore by a messenger, and nothing more), and trade was opened without supervision, "*zoodat de deuren er wijd werden opengezet om den vijand van alles te voorzien en het verzet te stijven*" (so that the doors were thrown wide open to supply the enemy with everything and to stiffen the resistance).
+
+On [[16 April]] [[1874]] a Dutch column was repulsed before an enemy fortification just south of the kraton — an *échec* that went unavenged. Van Swieten judged his task accomplished and on [[26 April]] [[1874]] returned to Java, leaving Colonel [[J. L. J. H. Pel|Pel]] with 3,000 men. His *Nota* to Pel, Kruijt judges, was written "*in bewoordingen, die voor verschillende uitleggingen vatbaar waren*" (in terms susceptible to various interpretations) and set the pattern for the Dutch reports from Atjeh: "*dat ophemelen van kleine of onbeteekenende gebeurtenissen in ons voordeel, dat blindblijven voor verschijnselen in ons nadeel*" (that extolling of small or insignificant events in our favour, that blindness to phenomena to our disadvantage).
+
+## Account from *Onze vestiging in Atjeh* (Borel, 1878)
+
+**Jan van Swieten** was a *gepensioneerd luitenant-generaal* (retired lieutenant-general) of the Dutch army whom the government recalled to active service in [[1873]] as *opperbevelhebber der zee- en landmacht* and *regeerings-commissaris* for the [[Second Aceh Expedition (1873–1874)|second expedition against Atjeh]], with "bijna onbeperkte volmacht," and who became the central target of [[G. F. W. Borel|Borel]]'s critical history for declaring the war ended after the [[Fall of the Kraton (24 January 1874)|fall of the Kraton]] and for bequeathing to [[Generaal Pel|Kolonel Pel]] an *afwachtende houding* (wait-and-see posture) that, in Borel's judgement, squandered every advantage won at the cost of Dutch blood.
+
+## Appointment and the Second Expedition
+
+Van Swieten's appointment in November [[1873]] surprised the Indische leger, which no longer knew him personally and found him "geenszins populair"; the government simultaneously named [[Generaal Verspijck|generaal Verspijck]] as *tweede bevelhebber*, although Verspijck's diverging *inzichten* were "niet gekend" and he was to play only an *ondergeschikte rol*. After the [[Landing at Pedro-punt (6 December 1873)|landing at Pedro-punt]] and the [[Battle of Lemboe (25–26 December 1873)|bloody reconnaissances at Lemboe]] on Christmas 1873, van Swieten ordered the [[Storming of the Mesigit (6 January 1874)|frontal storming of the Mesigit]] on [[6 January]] [[1874]] without reconnaissance, costing 220 dead and wounded; he rejected Verspijck's proposal to land the [[Padangsche brigade|third brigade]] at the [[Kroeng Raba-baai]] for a pincer movement, leaving it instead at Padang — "eene groote strategische fout." On [[23 January|23]]–[[24 January]] [[1874]] Verspijck's [[Omtrekking|omtrekkende beweging]] delivered the deserted Kraton to the Dutch without a fight.
+
+## The Afscheidsrede and Departure
+
+After the fall of the Kraton van Swieten "stak het zwaard voor goed in de scheede" and applied the *afwachtende houding*; he ordered the [[Java|Javaansche hulptroepen]] of [[Mangkoe Negoro]] and [[Pakoe Alam]] and a *veld-batterij* back to Java, recalled one of the two companies of vesting-artillerie together with the [[Achterlaadkanonnen van 12 c.M.|beste geschut]], and tolerated the [[Padi-snijden on the Langkroek sawah (1874)|padi-snijden]] on the Langkroek sawah. He issued on [[7 April]] [[1874]] the instruction for daily patrols that Borel judges should have been given "van af de inneming van den Kraton." When the [[Battle of Lampoe Oek (16 April 1874)|échec at Lampoe Oek]] on [[16 April]] [[1874]] exposed the failure of his passive system, van Swieten was "zeer verbolgen" and blamed [[Majoor Romswinckel|Romswinckel]] entirely, refusing the major a hearing. On [[23 April]] [[1874]] he pronounced his [[Van Swieten's afscheidsrede (1874)|afscheidsrede]] — "Ik beschouw den oorlog met Atjeh als geëindigd" — and on [[26 April]] [[1874]] boarded the *Prins Alexander der Nederlanden* and departed, leaving [[Generaal Pel|Pel]] a "zeer gebrekkige stelling."
+
+## Borel's Indictment
+
+Borel's indictment of van Swieten runs the length of *Onze vestiging in Atjeh*. He accuses him of leaving Aceh's stelling "ondoelmatig, onveilig en zonder het minste offensieve vermogen," of squandering the chance to occupy the [[Stelling-Pel|stelling-Pel]] a year early at low cost, of issuing contradictory instructions to Pel, of fighting an "overdreven zachte en humane" war with proclamations and gifts to spies, and of refusing to burn kampongs or cut standing *padi*. Borel also cites the [[Van Swieten's legerorder on sleeping sentinels|legerorder]] that withdrew the application of [[Crimineel Wetboek art. 92|art. 92 of the Crimineel Wetboek]] to sleeping sentinels as an unlawful and damaging act. The judgement of [[Generaal Knoop|generaal Knoop]] — that the second expedition was "slechts ten deele gelukt" — is, in Borel's view, generous; Borel says he could have said "mislukt."
+
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+**Jan van Swieten** was the Dutch general commanding the [[Second Aceh Expedition (1873-1874)|second expedition]] against [[Atjeh]], whose departure from the theatre [[G. B. Hooijer]] marked, in the musical programme sketched in his [[Voorwoord of De verlaten posten in Groot-Atjeh|Voorwoord]], as the moment at which dissonance entered the story of the [[Aceh War|Atjeh-oorlog]].
+
+## In Hooijer's periodisation of the war
+
+Sketching the symphony he thought the war deserved, Hooijer moved from the mysterious beginning full of fear of the European great powers, through the war-music of the [[First Aceh Expedition (1873)|first expedition]] and the stately advance of the second expedition rolling broadly along Acheh's shores, to *de dissonanten na van Swieten's vertrek met de schrille klanken van het Allah il Allah* — the dissonances after Van Swieten's departure, with the shrill sounds of the *Allah il Allah*. These, he wrote, were first drowned by the war- and victory-song under [[General van der Heijden|Van der Heijden]] but thereafter regained the upper hand, until muffled music could express the Dutch concealment behind the *[[Geconcentreerde linie|geconcentreerde linie]]*.
 
 ## See Also
 
@@ -225,16 +225,20 @@ The source's verdict on [[General Van Swieten|Van Swieten]]'s achievement is dir
 - [[Second Aceh Expedition]]
 - [[General van Swieten War Telegrams]]
 - [[Open Letter by Brutus to General Knoop]]
-
-## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
-
-Kruijt's account of Van Swieten is sharply critical: admiring the military achievement, condemning the political decisions and their consequences.
-
-Van Swieten's second expedition of approximately 9,000 combatants was divided into three brigades, one of which remained in reserve at [[Padang|Padang]]. A strong squadron of the [[Koninklijke Marine|Marine]] supported the operations. On [[7 January]] [[1874]] the groote Missigit was taken; on [[24 January]] [[1874]] the kraton fell. "*Dit feit maakte overal diepen indruk*" (This fact made a deep impression everywhere), and several chiefs came forward to submit. Two days later the Sultan died of cholera.
-
-Kruijt identifies Van Swieten's *proclamatietocht* (proclamation tour) as the origin of the *[[Vlaghijscherij|vlaghijscherij]]* (flag-raising) — the practice of circulating the flag and the *onderwerpingsacte* (act of submission) along the coasts by Marine vessels, with submission often little more than a flag sent ashore by a messenger. On the North and West Coasts, Kruijt writes, the flag and the act of recognition were "*veelal eenvoudig door een boodschapper aan land gezonden, zonder meer*" (usually simply sent ashore by a messenger, and nothing more), and trade was opened without supervision, "*zoodat de deuren er wijd werden opengezet om den vijand van alles te voorzien en het verzet te stijven*" (so that the doors were thrown wide open to supply the enemy with everything and to stiffen the resistance).
-
-On [[16 April]] [[1874]] a Dutch column was repulsed before an enemy fortification just south of the kraton — an *échec* that went unavenged. Van Swieten judged his task accomplished and on [[26 April]] [[1874]] returned to Java, leaving Colonel [[J. L. J. H. Pel|Pel]] with 3,000 men. His *Nota* to Pel, Kruijt judges, was written "*in bewoordingen, die voor verschillende uitleggingen vatbaar waren*" (in terms susceptible to various interpretations) and set the pattern for the Dutch reports from Atjeh: "*dat ophemelen van kleine of onbeteekenende gebeurtenissen in ons voordeel, dat blindblijven voor verschijnselen in ons nadeel*" (that extolling of small or insignificant events in our favour, that blindness to phenomena to our disadvantage).
+- [[Second Aceh Expedition (1873–1874)]]
+- [[Appointment of Jan van Swieten as opperbevelhebber (1873)]]
+- [[Fall of the Kraton (24 January 1874)]]
+- [[Van Swieten declares the Aceh War ended (1874)]]
+- [[Departure of Jan van Swieten from Atjeh (April 1874)]]
+- [[Van Swieten's afscheidsrede (1874)]]
+- [[Van Swieten's legerorder on sleeping sentinels]]
+- [[Afwachtende houding]]
+- [[Generaal Verspijck]]
+- [[Generaal Pel]]
+- [[Majoor Romswinckel]]
+- [[Second Aceh Expedition (1873-1874)|second expedition]]
+- [[General van der Heijden]]
+- [[Voorwoord of De verlaten posten in Groot-Atjeh]]
 
 ## Sources
 
@@ -255,38 +259,8 @@ On [[16 April]] [[1874]] a Dutch column was repulsed before an enemy fortificati
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 6–8, 10–14, 16, 22–26. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 *Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 14-15; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 5-76.
 
-## Account from *Onze vestiging in Atjeh* (Borel, 1878)
-
-**Jan van Swieten** was a *gepensioneerd luitenant-generaal* (retired lieutenant-general) of the Dutch army whom the government recalled to active service in [[1873]] as *opperbevelhebber der zee- en landmacht* and *regeerings-commissaris* for the [[Second Aceh Expedition (1873–1874)|second expedition against Atjeh]], with "bijna onbeperkte volmacht," and who became the central target of [[G. F. W. Borel|Borel]]'s critical history for declaring the war ended after the [[Fall of the Kraton (24 January 1874)|fall of the Kraton]] and for bequeathing to [[Generaal Pel|Kolonel Pel]] an *afwachtende houding* (wait-and-see posture) that, in Borel's judgement, squandered every advantage won at the cost of Dutch blood.
-
-## Appointment and the Second Expedition
-
-Van Swieten's appointment in November [[1873]] surprised the Indische leger, which no longer knew him personally and found him "geenszins populair"; the government simultaneously named [[Generaal Verspijck|generaal Verspijck]] as *tweede bevelhebber*, although Verspijck's diverging *inzichten* were "niet gekend" and he was to play only an *ondergeschikte rol*. After the [[Landing at Pedro-punt (6 December 1873)|landing at Pedro-punt]] and the [[Battle of Lemboe (25–26 December 1873)|bloody reconnaissances at Lemboe]] on Christmas 1873, van Swieten ordered the [[Storming of the Mesigit (6 January 1874)|frontal storming of the Mesigit]] on [[6 January]] [[1874]] without reconnaissance, costing 220 dead and wounded; he rejected Verspijck's proposal to land the [[Padangsche brigade|third brigade]] at the [[Kroeng Raba-baai]] for a pincer movement, leaving it instead at Padang — "eene groote strategische fout." On [[23 January|23]]–[[24 January]] [[1874]] Verspijck's [[Omtrekking|omtrekkende beweging]] delivered the deserted Kraton to the Dutch without a fight.
-
-## The Afscheidsrede and Departure
-
-After the fall of the Kraton van Swieten "stak het zwaard voor goed in de scheede" and applied the *afwachtende houding*; he ordered the [[Java|Javaansche hulptroepen]] of [[Mangkoe Negoro]] and [[Pakoe Alam]] and a *veld-batterij* back to Java, recalled one of the two companies of vesting-artillerie together with the [[Achterlaadkanonnen van 12 c.M.|beste geschut]], and tolerated the [[Padi-snijden on the Langkroek sawah (1874)|padi-snijden]] on the Langkroek sawah. He issued on [[7 April]] [[1874]] the instruction for daily patrols that Borel judges should have been given "van af de inneming van den Kraton." When the [[Battle of Lampoe Oek (16 April 1874)|échec at Lampoe Oek]] on [[16 April]] [[1874]] exposed the failure of his passive system, van Swieten was "zeer verbolgen" and blamed [[Majoor Romswinckel|Romswinckel]] entirely, refusing the major a hearing. On [[23 April]] [[1874]] he pronounced his [[Van Swieten's afscheidsrede (1874)|afscheidsrede]] — "Ik beschouw den oorlog met Atjeh als geëindigd" — and on [[26 April]] [[1874]] boarded the *Prins Alexander der Nederlanden* and departed, leaving [[Generaal Pel|Pel]] a "zeer gebrekkige stelling."
-
-## Borel's Indictment
-
-Borel's indictment of van Swieten runs the length of *Onze vestiging in Atjeh*. He accuses him of leaving Aceh's stelling "ondoelmatig, onveilig en zonder het minste offensieve vermogen," of squandering the chance to occupy the [[Stelling-Pel|stelling-Pel]] a year early at low cost, of issuing contradictory instructions to Pel, of fighting an "overdreven zachte en humane" war with proclamations and gifts to spies, and of refusing to burn kampongs or cut standing *padi*. Borel also cites the [[Van Swieten's legerorder on sleeping sentinels|legerorder]] that withdrew the application of [[Crimineel Wetboek art. 92|art. 92 of the Crimineel Wetboek]] to sleeping sentinels as an unlawful and damaging act. The judgement of [[Generaal Knoop|generaal Knoop]] — that the second expedition was "slechts ten deele gelukt" — is, in Borel's view, generous; Borel says he could have said "mislukt."
-
-## See Also
-
-- [[Second Aceh Expedition (1873–1874)]]
-- [[Appointment of Jan van Swieten as opperbevelhebber (1873)]]
-- [[Fall of the Kraton (24 January 1874)]]
-- [[Van Swieten declares the Aceh War ended (1874)]]
-- [[Departure of Jan van Swieten from Atjeh (April 1874)]]
-- [[Van Swieten's afscheidsrede (1874)]]
-- [[Van Swieten's legerorder on sleeping sentinels]]
-- [[Afwachtende houding]]
-- [[Generaal Verspijck]]
-- [[Generaal Pel]]
-- [[Majoor Romswinckel]]
-- [[1873]]
-- [[1874]]
-
-## Source
-
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. pp. 9–11, 14–16, 19–23, 24–38, 41–49, 54–58, 64–72, 78–87, 96, 98, 104, 108–110, 116–122, 124–128, 203, 265, 270–272, 275, 277–282, 284, 286–292, 294–296, 304, 308, 312, 322, 324, 344, 354, 364.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, Voorwoord.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

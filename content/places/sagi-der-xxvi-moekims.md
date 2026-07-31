@@ -1,41 +1,7 @@
 ---
-title: Sagi der XXVI Moekims
-aliases:
-- 26 Mukims
-- XXVI Moekims
-- Sagi XXVI
-- XXVI Mukims
-- de Sagi's XXVI
-- Sagi of 26 Mukims
-- Twenty-six Mukims
-- Sagi of XXVI Mukims
-- 26 Mukim
-- 26 Moekims
-- 26 Moekim
-- Twenty-six Moekims
-- Sagi of the 26 Moekims
-- 26 Sagi
-- Dua Puluh Enam Mukim
-- Zesentwintig Moekims
-tags:
-- place
-- achehnese
-- sultanate
-- military
-- aceh-war
-- sagi
-- mukim
-- atjeh
-- 19th-century
-- administrative-division
-- aceh
-- seaward-sagi
-- groot-atjeh
-- van-der-heijden
-- acehnese
-- district
-- region
-- xxvi-moekims
+title: "Sagi der XXVI Moekims"
+aliases: ["26 Mukims", "XXVI Moekims", "Sagi XXVI", "XXVI Mukims", "de Sagi's XXVI", "Sagi of 26 Mukims", "Twenty-six Mukims", "Sagi of XXVI Mukims", "26 Mukim", "26 Moekims", "26 Moekim", "Twenty-six Moekims", "Sagi of the 26 Moekims", "26 Sagi", "Dua Puluh Enam Mukim", "Zesentwintig Moekims", "XXVI Mockims", "sagi of the XXVI Moekims"]
+tags: [place, achehnese, sultanate, military, aceh-war, sagi, mukim, atjeh, 19th-century, administrative-division, aceh, seaward-sagi, groot-atjeh, van-der-heijden, acehnese, district, region, xxvi-moekims, moekim]
 ---
 
 **Sagi der XXVI Moekims** — written in Dutch as *Sagi der XXVI Moekims* and meaning "Federation of the Twenty-Six Mukims"; in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s spelling also *Sagi XXVI* or *de Sagi's XXVI* — was one of the three traditional [[sagi]] (federations of [[moekim|mukims]]) into which [[Groot-Atjeh]] was divided, comprising twenty-six mukims situated on the east coast of the [[Aceh War|Atjeh-oorlog]] theatre around the [[Toengkoeb]] post. As described in Kruisheer's *ATJEH '96*, the Sagi der XXVI Moekims was the region of the [[hoeloebalang|ulèëbalang]] [[Toekoe Nja Banta]] and of [[Toekoe Djohan Lampasei]], and contained the mukim of [[Toengkoeb]] within its territory. Together with the [[Sagi der XXV Moekims|XXV Moekims]] it is mentioned in the final Dutch assessments of [[1896]] as one of the prosperous regions under Dutch protection, in implicit contrast to the permanently hostile [[Sagi der XXII Moekims]]. In Van Heutsz's [[1893]] tract *De onderwerping van Atjeh*, the XXVI Moekims is also the closing chapter of the Van der Heijden conquest — the Sagi whose July–September [[1879]] campaign culminated in the [[Selimoen tocht (1879)|tocht naar Selimoen]] and produced the [[Day-order of 5 September 1879|dagorder]] of [[5 September]] [[1879]] declaring *geheel Groot-Atjeh ten onder gebragt* (the whole of Greater Atjeh subdued).
@@ -81,6 +47,30 @@ The Van der Heijden conquest of the XXVI Moekims did not, however, extinguish th
 ### Significance (Van Heutsz account)
 
 The XXVI Moekims's significance in Van Heutsz's [[1893]] tract rests on its being the closing chapter of the Van der Heijden conquest — the Sagi whose reduction fixed the *nog geen 14 maanden* precedent and whose abandonment by the [[1884]] Concentratie exposed the policy oscillation the rest of the tract diagnoses; the second of the three Sagi's of [[Groot-Atjeh]] — the territorial league of twenty-six mukims whose reduction was the operational continuation of the [[XXII Moekims]] campaign of [[1878]] and the immediate occasion of the [[Day-order of 5 September 1879|dagorder]] of [[5 September]] [[1879]] declaring *geheel Groot-Atjeh ten onder gebragt*; the territory whose July–September [[1879]] campaign culminated in the [[Selimoen tocht (1879)|tocht naar Selimoen]] — the multi-column operation that closed the Van der Heijden conquest; the territory whose September [[1879]] reconnaissance reached the Kroeng Kali northern limit and the Tjot Lepong eastern limit; and the territory whose post-[[1879]] residual resistance — exposed by the [[1884]] Concentratie and unified by [[Tengkoe di Tirou]] — would become the operational centre of the post-[[1884]] Groot-Atjeh resistance.
+
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+The **Sagi der XXVI Moekims** was one of the three *[[Sagi|sagis]]* of [[Groot-Atjeh]], lying east of the Dutch *[[Geconcentreerde linie|geconcentreerde linie]]*, long dominated by the priestly party under [[Tengkoe Sjech Saman di Tiro|Teungkoe di Tiro]], and the district in which the whole eastern chain of Dutch temporary posts — [[Toengkoeb]], [[Kroeng Kali]], [[Masdjid Siem]] and [[Tjot Rang]] — was erected between [[September]] [[1893]] and [[1894]].
+
+## The commission to Toekoe Nja Banta
+
+On [[1 September]] [[1893]], following the success of [[Teukoe Oemar|Toekoe Djohan]] in the [[XXV Moekims]], the [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden|Governor of Atjeh and Dependencies]] authorised [[Toekoe Nja Banta]], the friendly head of the *sagi*, to open the fight against the *[[Moslemin]]* in this terrain also. Rifles and powder were to be furnished him, and his father-in-law [[T. Nek van Marassa|Toekoe Neq van Marassa]] and his brother-in-law [[T. Tjoet Toengkoeb|Toekoe Tjoet]], *oeleebalang* of the [[XIII Moekims Toengkoeb]], were to help.
+
+The action went badly. Nja Banta's fighters were not so hardened as Oemar's followers; they were even reproached with effeminacy for carrying handkerchiefs. Toekoe Tjoet's wavering conduct so confused affairs that on [[27 September]] [[1893]] one of his *bentengs* at [[Toengkoeb]] had to be occupied by Dutch troops. The *benteng* at [[Lamgoet]], taken by Nja Banta on [[4 September]] [[1893]], was arbitrarily abandoned by Toekoe Tjoet. Dutch soldiers appeared before [[Kroeng Kali]] on [[6 October]] [[1893]] to find the required hill still unoccupied.
+
+## The Dutch relief operation
+
+After the *Moslemin* re-occupied the terrain abandoned by Toekoe Tjoet's dispersing population and cut communications between [[Kroeng Kali]] and [[Toengkoeb]], the [[3de Bataljon Infanterie|3rd battalion]] under [[Overste Sievers]] advanced to relieve the post, clearing two of the three enemy positions on the connecting road at the cost of [[Luitenant Weyerman]] and three men killed and two officers and fifty men wounded at [[Masdjid Siem]].
+
+## Toekoe Djohan's campaign
+
+It had become only too clear that without [[Teukoe Oemar|Toekoe Djohan]]'s help the Dutch allies would not drive the fanatics from the XXVI Moekims. On [[21 October]] [[1893]] he took over [[Masdjid Siem]] with a hundred fighters. Fighters streamed in from the coastal lands to join [[Mat Amin|Mad Amin]] — two hundred from [[Samalanga]] alone — while Oemar received reinforcements from the [[Westkust|West Coast]], from [[Malaboeh|Melaboeh]] and from the [[IX Moekims]], and [[T. Tjoet Toengkoeb|Toekoe Tjoet]] was recalled from banishment because his population would not return without him.
+
+On [[2 November]] [[1893]] some 2,400 auxiliary troops assembled beneath the trees near [[Masdjid Siem]] under Oemar's leadership and at Dutch expense to drive the *[[Prang sabi|Sabil]]* bands from the *sagi*. Meeting little resistance, he then occupied [[Tjot Rang]] with Dutch support, dispersed [[Mat Amin]]'s bands, and on [[12 November]] [[1893]] caused the enemy to evacuate the *bentengs* at [[Hoengtjala]].
+
+## Terrain
+
+Hooijer characterised the XXVI Moekims as low country of stinking marshes *waaruit als het ware malaria opsteeg* — out of which malaria seemed to rise — contrasting it unfavourably with the drier ground of the [[XXII Moekims]] around [[Anagaloeng]]. In [[1896]] the population of the southern part of the *sagi* took flight, and [[Mat Amin]] had by then been driven from both the XXVI and the [[XXII Moekims]].
 
 ## See Also
 
@@ -158,7 +148,11 @@ The XXVI Moekims's significance in Van Heutsz's [[1893]] tract rests on its bein
 - [[Longbatta]]
 - [[Luitenant-kolonel Engel]]
 - [[Pinang]]
-- [[Sagi]]
+- [[T. Nek van Marassa]]
+- [[Teukoe Oemar]]
+- [[Masdjid Siem]]
+- [[Hoengtjala]]
+- [[Mat Amin]]
 
 ## Sources
 
@@ -170,3 +164,7 @@ The XXVI Moekims's significance in Van Heutsz's [[1893]] tract rests on its bein
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI (the conquest), Chapter VIII (the loss under civil government). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 30–31, 41.
 *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 8-10.
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 131, 200, 228, 248, 322–329, 336–337, 350–355.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 16, 22, 24, 26, 30, 32, 34, 36, 38, 42, 48, 50.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

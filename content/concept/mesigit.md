@@ -1,45 +1,7 @@
 ---
-title: Mesigit
-aliases:
-- Masigit
-- Mosque
-- Indonesian mosque
-- Atjeh mesigit
-- Missigit
-- Masjid
-- Atjehese mosque
-- Atjeh mosque
-- Meusigit
-- Mesjid
-- Meuseugit
-- Friday mosque
-- Mesigit of Atjeh
-- De Mesigit
-- Fortified Mosque of the Kraton
-- Mesigit building
-- Mesigit (Aceh)
-- Atjeh's Groote Missigit
-- Great Missigit
-- Groote Missigit
-- Masjid Raya
-tags:
-- concept
-- religious
-- islamic
-- achehnese
-- architecture
-- building
-- acehnese
-- fortification
-- aceh-war
-- religion
-- islam
-- mosque
-- place
-- mesigit
-- aceh
-- 1873
-- military
+title: "Mesigit"
+aliases: ["Masigit", "Mosque", "Indonesian mosque", "Atjeh mesigit", "Missigit", "Masjid", "Atjehese mosque", "Atjeh mosque", "Meusigit", "Mesjid", "Meuseugit", "Friday mosque", "Mesigit of Atjeh", "De Mesigit", "Fortified Mosque of the Kraton", "Mesigit building", "Mesigit (Aceh)", "Atjeh's Groote Missigit", "Great Missigit", "Groote Missigit", "Masjid Raya", "Messigit", "Masdjid", "the mosque as fortification"]
+tags: [concept, religious, islamic, achehnese, architecture, building, acehnese, fortification, aceh-war, religion, islam, mosque, place, mesigit, aceh, 1873, military]
 ---
 
 **Mesigit** — Atjehnese/Dutch spelling of standard Indonesian *masjid*, from Arabic *masjid* (مسجد), "mosque" — is the term used in [[Acheh|Atjeh]] (and elsewhere in the Indies) for the Friday congregational mosque, as distinct from the smaller village prayer-house (*[[Meunasah|meunasah]]* in Atjeh, *langgar* or *tadjoeg* on Java). The term and its architectural form are recorded in Prof. Dr. [[W. J. A. Kernkamp|Kernkamp]]'s chapter *De invloed van den Islam* in *[[Wat Indië Ontving en Schonk]]* ([[1946]]).
@@ -93,17 +55,23 @@ For the [[Acheh|Atjeh]]-focused reader, the *mesigit* is significant as the inst
 - *Prof. Dr.* — Professor Doctor
 - *Dr.* — Doctor
 
-## Sources
-D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), pp. 28–32 (Missigit Longbatta), p. 32 (Mandarsah Poetih). Koninklijke Bibliotheek shelfmark 0301 4872.
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-*DLP-84-Atjeh.pdf*, p. 9.
+A **Messigit** — the Dutch rendering of *masdjid*, mosque — appears throughout *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]* not only as a place of worship but as a fortified point repeatedly contested, captured and converted to military use in [[Groot-Atjeh]].
 
-*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV, XVI.
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 6, pp. 80–88.
-*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 42–44, 46–47.
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 14–17, 20, 24–30, 34–37, 49, 102.
-*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 122‑124.
-*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889, pp. 13-18.
+## Mosques converted into Dutch posts
+
+At [[Biloel]], the fortification erected in the night of [[20 May]]–[[21 May]] [[1894]] was raised *om de oude Messigit*, around the old mosque, whose roof had been burnt and renewed; within its white wall the officers' quarters were established, and the post commander emerged from it each midday in night-trousers and *kabaai* (loose jacket) when the provision cart arrived. At [[Lam Koenjit]] too the officers lived in an old *Messigit*. At [[Toengkoeb]], the liveliness that had formerly reigned *om de oude Messigit* under [[General van der Heijden]] was contrasted with the stillness of the 1890s garrison.
+
+## Mosques as Achehnese strongpoints
+
+The [[Masdjid Siem|Messigit Siem]] was one of three positions of the *[[Moslemin]]* on the road between [[Kroeng Kali]] and [[Toengkoeb]], taken by [[Overste Sievers]] in [[October]] [[1893]] at the cost of [[Luitenant Weyerman]] and three men killed and two officers and fifty men wounded. Hooijer wrote that the defenders seemed to draw strength from the consecration the place possessed in their eyes — a place that had so often been a meeting-point for the religious and worldly festivals of which they were so fond — and that Dutch bullets had to fly like howling hailstorms across the *sawah* (wet rice-field) plain before they gave up their sanctuary.
+
+In the tale of the old [[Ambonese soldiers in the Atjeh outposts|Ambonese soldier]] at [[Toengkoeb]], the main column of [[General van der Heijden]] had sought to approach a strongly held *Messigit* from the rear, since its front was covered by marshes and a series of fortifications; brought by its Achehnese guide directly opposite the house of prayer, it received a fire that killed the guide and two soldiers and wounded an officer and sixteen men, and the artillery threw a *[[Granaatkartets|granaatkartets]]* through its roof and ceiling.
+
+## Architecture
+
+Of [[Masdjid Siem]] Hooijer noted that the old stone wall was a remnant of earlier times, while the roof — differing in form from the double broken roofs usually raised above such houses of prayer — dated from a later period, after the torch of war had passed over it.
 
 ## See Also
 
@@ -165,7 +133,28 @@ D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst v
 - [[Sergeant Rood]]
 - [[Aceh War (1873–1904)]]
 - [[Village Merdoehati]]
+- [[Masdjid Siem]]
+- [[Biloel]]
+- [[Lam Koenjit]]
+- [[Toengkoeb]]
+- [[Overste Sievers]]
+- [[Moslemin]]
 
-## Source
+## Sources
+
+D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), pp. 28–32 (Missigit Longbatta), p. 32 (Mandarsah Poetih). Koninklijke Bibliotheek shelfmark 0301 4872.
+
+*DLP-84-Atjeh.pdf*, p. 9.
+
+*Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV, XVI.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 6, pp. 80–88.
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 42–44, 46–47.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 14–17, 20, 24–30, 34–37, 49, 102.
+*20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 122‑124.
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889, pp. 13-18.
 
 *Wat Indië Ontving en Schonk*, onder leiding van Dr. C. W. Wormser (Amsterdam: Wereldbibliotheek N.V., 1946), pp. 84–85 (chapter *De invloed van den Islam* door Prof. Dr. W. J. A. Kernkamp).
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 12, 18, 22, 24, 32.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

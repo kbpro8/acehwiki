@@ -1,6 +1,6 @@
 ---
 title: "Demmeni"
-aliases: ["Demmeni", "Kolonel Demmeni", "kolonel Demmeni", "Colonel Demmeni", "Generaal Demmeni", "Civiel en Militair Gouverneur Demmeni", "Demmeni (Atjeh governor)"]
+aliases: ["Kolonel Demmeni", "Colonel Demmeni", "Generaal Demmeni", "Civiel en Militair Gouverneur Demmeni", "Demmeni (Atjeh governor)", "General Demmeni"]
 tags: [person, military, dutch, colonial, officer, governor, aceh-war, atjeh, general, 19th-century, commander]
 ---
 
@@ -78,6 +78,16 @@ Van Heutsz's posthumous verdict on Demmeni turns on the absence of Scherer — t
 
 Demmeni died at the end of [[1886]], and his death opened the governorship to [[Van Teijn|Kolonel van Teijn]]: "Zoo brak einde 1886 het tijdperk aan, waarin door den dood van den Generaal Demmeni, de Kolonel van Teijn het bestuur in handen kreeg, met de opdracht om consequent door te gaan in de aangegeven richting, en met het beginsel van herstel van het sultanaat tot basis" — So at the end of 1886 the period began, in which, through the death of General Demmeni, Colonel van Teijn took the administration into his hands, with the charge to continue consistently in the indicated direction, and with the principle of restoration of the sultanate as basis. Van Teijn would, in his own governorship ([[1886]]–[[1891]]), reverse the policies Demmeni had compromised on — restoring the [[sluiting]] of the Noord- en Westkust, pioneering the *actieve verdediging* of the [[Kota Radja|Kota-Radja]] linie, and becoming the second hero of Van Heutsz's narrative after [[Van der Heijden]].
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+**Demmeni** was the Dutch general who recalled [[Toekoe Moeda Baid]], the powerful head of the [[VII Moekims Baid|VII Moekims]] in [[Groot-Atjeh]], from the banishment imposed upon him by [[General van der Heijden]], and restored him to honour on account of his influence.
+
+## The rehabilitation of Toekoe Moeda Baid
+
+[[G. B. Hooijer]] recorded that Toekoe Moeda Baid, *het machtige hoofd der VII Moekims*, had been banished by General van der Heijden for faithlessness (*wegens trouweloosheid*), and was *ter wille van zijn invloed door Generaal Demmeni teruggehaald en in eere hersteld* — brought back and rehabilitated by General Demmeni for the sake of his influence.
+
+Hooijer's judgment on the outcome was sceptical. The proximity of Baid's territory to the Dutch post at [[Anagaloeng]] kept the officers in suspense and the sentries awake, for now and then well-founded suspicions arose that Van der Heijden had not judged the chief so wrongly; one of the neighbouring *[[Blokhuis|blokhuizen]]* garrisoned by Baid's people fell or was played into the hands of the *[[Moslemin]]* only hours after a Dutch officer's inspection had found everything in order.
+
 ## See Also
 
 - [[Concentratie-stelsel (1884-1896)]]
@@ -97,12 +107,10 @@ Demmeni died at the end of [[1886]], and his death opened the governorship to [[
 - [[Scherer]]
 - [[Van der Heijden]]
 - [[Diemont]]
-- [[Laging Tobias]]
 - [[Concentratiebesluit (19 Augustus 1884)]]
 - [[Staatsblad No. 105 van 1884]]
 - [[Staatsblad No. 85 van 1885]]
 - [[Blokkade]]
-- [[Concentratie-stelsel (1884-1896)]]
 - [[Tamiang]]
 - [[Troemon]]
 - [[Telok Semawe|Telok Semawé]]
@@ -147,9 +155,17 @@ Demmeni died at the end of [[1886]], and his death opened the governorship to [[
 - [[1884]]
 - [[1885]]
 - [[1886]]
+- [[Toekoe Moeda Baid]]
+- [[General van der Heijden]]
+- [[Anagaloeng]]
+- [[VII Moekims Baid]]
 
-## Source
+## Sources
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX, "Blokkade en Concentratie onder den Civiel en Militair Gouverneur Demmeni, van September 1884 tot December 1886." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 46–52.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 10, 32, 34–35, 40–42. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 50.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

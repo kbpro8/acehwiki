@@ -1,7 +1,7 @@
 ---
 title: "Korps Marechaussee van Atjeh en Onderhorigen"
-aliases: ["Korps Marechaussee", "Atjeh Marechaussee", "Manisee corps", "Marsosé corps", "Korps Marechaussee van Atjeh en Celebes", "Marechaussee in Aceh", "Marechaussée in Atjeh", "Corps of Military Constabulary of Atjeh and Dependencies", "marechaussee", "Corps of Marechaussee"]
-tags: [organization, military-corps, knil, aceh, ambonese, military, dutch, colonial, aceh-war, 19th-century, 20th-century]
+aliases: ["Korps Marechaussee", "Atjeh Marechaussee", "Manisee corps", "Marsosé corps", "Korps Marechaussee van Atjeh en Celebes", "Marechaussee in Aceh", "Marechaussée in Atjeh", "Corps of Military Constabulary of Atjeh and Dependencies", "marechaussee", "Corps of Marechaussee", "Korps Marechaussée", "het dappere korps Marechaussée", "Marechaussée", "Corps of Marechaussee of Atjeh"]
+tags: [organization, military-corps, knil, aceh, ambonese, military, dutch, colonial, aceh-war, 19th-century, 20th-century, police]
 ---
 
 **The Korps Marechaussee van Atjeh en Onderhorigen** was the elite *Marechaussee* (military police / light infantry) corps of the [[K.N.I.L.]] raised for counter-insurgency work in [[Atjeh|Aceh]] and its dependencies — the corps whose soldiers were known to themselves and to the Acehnese as *[[Manisee (Manisé)|Manisee]]* or *[[Manisee (Manisé)|Marsosé]]*, whose *[[Marechausseelied]]* and *[[Korpslied van de Marechaussee|korpslied]]* were composed by [[Dominee Thenu]], and whose *[[dardanellen|dardanellen]]* (point-men), *[[bekas]]* (spoorzoekers) and *[[bivak]]* (camp) culture are the principal subject of *[[Oom Ambon van het K.N.I.L.]]*. The corps was the instrument by which the [[Atjeh-oorlog|Aceh War]] was militarily finished — by the method of small, highly trained patrouilles operating with local intelligence against a religiously motivated resistance — and the institutional home of the book's named Ambonese soldiers: [[Nussy]], [[Thijs de Fretes]], [[Tanamal]], [[Salawono]] and the rest.
@@ -104,6 +104,16 @@ The corps's conduct towards the population was regulated by the *[[General Instr
 
 The *marechaussée* was the instrument by which the [[Atjeh-oorlog]] was won and the pacification executed; "to them, and when they departed, to the successors they had trained," was entrusted the final task of eliminating the last irreconcilables, so that at Swart's retirement in [[1918]] only [[T. Radja Tampo']] remained unfound.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+The **Korps Marechaussee van Atjeh en Onderhorigen** was the Netherlands Indies gendarmerie corps raised for service in [[Atjeh]], described by [[G. B. Hooijer]] as *het dappere korps Marechaussée* — the brave corps of Marechaussée — and designated to provide the police supervision of the districts of [[Groot-Atjeh]] that were to be brought under regular administration in [[1896]].
+
+## The projected role
+
+Hooijer recorded that at the beginning of [[1896]] the temporary posts were to be converted into fixed settlements *met al den aankleve van dien* — with all their appurtenances: clearance of terrain, the building of bridges, the laying of roads, dykes and tramways, *een krachtig politietoezicht van het dappere korps Marechaussée*, and regular administration by acting *[[Controleur|controleurs]]*.
+
+This programme amounted, in Hooijer's words, to *een feitelijk in bezit nemen van wat tot dusver uit zijn handen in leen was ontvangen* — an actual taking into possession of what had hitherto been held in fief from the hands of [[Teukoe Oemar]] — and Hooijer offered it, tentatively, as a possible explanation of Oemar's defection in [[March]] [[1896]].
+
 ## See Also
 
 - [[K.N.I.L.]]
@@ -138,10 +148,18 @@ The *marechaussée* was the instrument by which the [[Atjeh-oorlog]] was won and
 - [[Koninklijk Nederlandsch-Indisch Leger]]
 - [[Kompeuni]]
 - [[H. N. A. Swart]]
+- [[Controleur]]
+- [[Defection of Teukoe Oemar (1896)]]
+- [[Teukoe Oemar]]
+- [[Oost-Indisch Leger]]
 
-## Source
+## Sources
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapters "Van recruut tot pensioen," "De buitenpost," "Ooms leger," "De colonne Schmidt," "Dominee Thenu," "Thijs," and "De patrouille."
 *In Memoriam Maurice Henri du Croo* (1951), pp. 5, 6, 10, 20 (references to Marechaussée in Atjeh and du Croo's service with the corps).
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, pp. 18–19; Chapter X, pp. 93–101; Chapter XII, pp. 116–117 and illustrations.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 54.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

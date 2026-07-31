@@ -1,55 +1,7 @@
 ---
-title: General van der Heijden
-aliases:
-- van der Heijden
-- General van der Heyden
-- General van der Ileyden
-- J. van der Heijden
-- Karel van der Heijden
-- General K. van der Heijden
-- Generaal van der Heijden
-- Governor van der Heijden
-- Kolonel van der Heijden
-- K. van der Heijden
-- kolonel K. v. d. Heijden
-- K. VAN DER HEUDEN
-- generaal Van der Heyden
-- Van der Heyden
-- Van der Heyden (Atjeh commander)
-- K. van der Heyden
-- Kolonel Van der Heyden
-- Gouverneur Van der Heyden
-- the one-eyed general
-- Van der Heyden (Atjeh 1879)
-- General van der Heyden conqueror of Groot Atjeh
-- General van der Heyden (K. van der Heijden)
-- gouverneur van Atjeh van der Heijden
-- generaal éénoog
-- de eenoogige generaal
-- de eenoogige Koning
-tags:
-- person
-- colonial-official
-- dutch
-- military
-- governor
-- colonial
-- aceh
-- atjeh
-- aceh-war
-- general
-- 19th-century
-- monument
-- achehnese-history
-- acheh
-- infantry
-- achehnese
-- atjeh-oorlog
-- 1878
-- 1879
-- colonel
-- 1876
-- knil
+title: "General van der Heijden"
+aliases: ["van der Heijden", "General van der Heyden", "General van der Ileyden", "J. van der Heijden", "Karel van der Heijden", "General K. van der Heijden", "Generaal van der Heijden", "Governor van der Heijden", "Kolonel van der Heijden", "K. van der Heijden", "kolonel K. v. d. Heijden", "K. VAN DER HEUDEN", "generaal Van der Heyden", "Van der Heyden", "Van der Heyden (Atjeh commander)", "K. van der Heyden", "Kolonel Van der Heyden", "Gouverneur Van der Heyden", "the one-eyed general", "Van der Heyden (Atjeh 1879)", "General van der Heyden conqueror of Groot Atjeh", "General van der Heyden (K. van der Heijden)", "gouverneur van Atjeh van der Heijden", "generaal éénoog", "de eenoogige generaal", "de eenoogige Koning"]
+tags: [person, colonial-official, dutch, military, governor, colonial, aceh, atjeh, aceh-war, general, 19th-century, monument, achehnese-history, acheh, infantry, achehnese, atjeh-oorlog, 1878, 1879, colonel, 1876, knil]
 ---
 
 **General van der Heijden** was a Dutch military officer who served as **Governor of Acheh** from [[1877]] to [[1881]], and whose vigorous offensive campaigns through the Achehnese highlands first broke the spell of Dutch invincibility that had settled over the country after the disasters of [[1873]]–[[1876]]. He is one of the principal colonial figures of Snouck Hurgronje's Introduction to *The Achehnese*, where his governorship is treated as the decisive turn that ended the early defensive phase of the [[Achehnese War|Achehnese War]] and prepared the way for the systematic subjugation carried through under [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]].
@@ -146,6 +98,34 @@ Van der Heijden's constitutional legacy is the *Nota* he submitted to the *Regee
 Van der Heijden's governorship was cut short by his dismissal in early [[1881]]. Van Heutsz's verdict is one of the most quoted lines in the 1893 tract: "ware hij niet in het begin van 1881 op onverantwoordelijke wijze ontslagen, dan behoorde de Atjeh-krijg thans reeds lang tot het verledene" — had he not been dismissed, in irresponsible fashion, in the beginning of 1881, the Atjeh-war would by now long belong to the past. The dismissal was the act of G.-G. Van Lansberge, against whose policies Van der Heijden had repeatedly closed the havens on his own responsibility; the immediate consequence was the appointment of a *Civiel Gouverneur* (Civil Governor) — "na het ontslag van den Generaal van der Heijden, en diens vervanging door een Civiel gouverneur" — and the abandonment of Van der Heijden's *scheepvaartregeling* programme.
 
 Van Heutsz's counter-factual is sustained. "De Generaal moest heengaan" (the General had to go), Van Heutsz writes, "en hoe zijn opvolger deed wat hij later niet schreef en weinig deed van hetgeen hij later wel schreef en daardoor het schoone door den Generaal van der Heijden opgetrokken gebouw in korten tijd sloopte" — and how his successor did what he later did not write, and did little of what he later did write, and thereby in short time demolished the fine edifice General Van der Heijden had erected. The conclusion is the tribute of the entire book: "De Generaal van der Heijden had daardoor in werkelijkheid wat niemand vóór hem en tot dusverre nog niemand na hem heeft gehad, te Groot-Atjeh den brand onder den voet" — General Van der Heijden had thereby, in reality, what no one before him and so far no one after him has had: in Groot-Atjeh, the fire under the foot. Van der Heijden had had the war won. The broader verdict: "Atjehers hadden ons leeren kennen in onze kracht, vooral tijdens het bestuur van Generaal van der Heijden" — the Atjehnese had come to know us in our strength, above all during the administration of General Van der Heijden — and the loss of that prestige, after his dismissal, was the loss the next twelve years of Dutch policy could not recover. (Van der Heijden would return to the governorship briefly in [[1886]]–[[1887]].)
+
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+**General van der Heijden** was the Dutch general whose offensive operations in [[Groot-Atjeh]] between [[1879]] and the early 1880s carried Dutch columns into the [[Sagi der XXVI Moekims|XXVI Moekims]] and up the [[Acheh River|Atjeh valley]] as far as [[Anagaloeng]], and whose memory dominated the ground on which the temporary posts of the [[Teukoe Oemar|Oemar]] alliance were afterwards built, as recorded by [[G. B. Hooijer]] in *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]*.
+
+## Operations in the XXVI Moekims
+
+Hooijer described the great encampment the Dutch columns under Van der Heijden had raised at [[Toengkoeb]] when they penetrated the [[Sagi der XXVI Moekims|XXVI Moekims]]: two battalions of infantry, a detachment of cavalry, three sections of artillery, sappers, survey personnel and a train of a thousand convict labourers and coolies were united there. By contrast the post of the 1890s held only two officers and fifty men, with not a single gun defending its ramparts and no medical officer present.
+
+An old Ambonese soldier at Toengkoeb was remembered by Hooijer telling the garrison of those earlier days, when Dutch soldiers had done the fighting instead of the Achehnese, and when *Generaal Van der Heijden hier in datzelfde Toengkoeb was verschenen met een wolk op zijn voorhoofd* — General Van der Heijden had appeared at that same Toengkoeb with a cloud on his forehead, because its capture had not gone as swiftly as he had a right to expect.
+
+## The mosque action and the general's anger
+
+The narrative preserved by the old soldier described the main column being led by an Achehnese guide through narrow *kampong* (village) paths until it stood directly opposite a strongly held house of prayer, from which a heavy fire was immediately opened that cost the guide and two soldiers their lives and wounded an officer and sixteen men. The artillery pushed out and threw a *[[Granaatkartets|granaatkartets]]* through the roof and ceiling of the *[[Messigit|Messigit]]* before the column commander could account for what was happening and order the fight broken off. A second guide, with a pistol held to the back of his head, was made to point out the prescribed direction. Cutting its way through hundreds of *paggers* (bamboo fences) and capturing a couple of *bentengs* in passing, the column had covered only half its road by four in the afternoon, and then, for the sake of a quiet night for the tired soldiers, withdrew northwards to the Dutch encampment at [[Tjadé]] instead of pressing on or at least remaining where it was. *En dat was de reden van des Generaals toorn geweest* — that had been the reason for the general's wrath — for as much as he cared for his men, he demanded much of them.
+
+## The Atjeh valley and Anagaloeng
+
+At the crossing of the [[Acheh River|Atjeh-rivier]] near [[Anagaloeng]], Hooijer recorded the two bivouacs that Van der Heijden had caused to be pitched on both banks when he was preparing to continue his campaign of conquest through the valley. Scores of officers were quartered in huts; in a great shed they gathered for a game when duty did not call them; and *de tegenwoordigheid van den Generaal, die maanden lang huisde in een laag hutje met *katjangmatten* (bean-straw matting) gedekt en met kiezelsteenen tot vloerkleed, gaf wijding aan het geheel* — the presence of the General, who for months lived in a low hut covered with bean-straw matting and with pebbles for a floor-covering, gave consecration to the whole. Long barracks housed several battalions; hundreds of coolies and convicts slept under lean-tos; guns stood in the corners of the palisades; and above all flew the Dutch flag.
+
+At one point the waters of the river rose so high that the encampments were buried two metres deep and the soldiers had to take refuge on the high *kampong* ground of [[Anagaloeng]]. A float-bridge connected the two camps, across which soldiers, Chinese and native women passed continually, while large Chinese barges carried the sick down to the [[Kraton (institution)|Kraton]].
+
+## Banishments
+
+Hooijer recorded two chiefs banished by Van der Heijden for faithlessness whose subsequent recall he treated as questionable: [[Toekoe Moeda Baid]], head of the [[VII Moekims Baid|VII Moekims]], brought back and restored to honour by [[Demmeni|General Demmeni]] for the sake of his influence — of whom Hooijer remarked that suspicions later arose that Van der Heijden had not judged him so wrongly; and, by implication, the wider pattern of rehabilitations under later governors.
+
+## Other traces
+
+The single tiger Hooijer reported seeing in the [[Acheh River|Atjeh valley]] was an old royal tiger lying in a cage, offered to General van der Heijden as a token of appreciation. The post at [[Kroeng Kali]] which Van der Heijden had caused to be erected remained a thorn in the enemy's eye and so great a point of attraction for the ill-disposed that a later governor resolved to slight its walls and withdraw the garrison from that advanced position — a decision whose consequences were felt again in [[1893]].
 
 ## See Also
 
@@ -285,6 +265,15 @@ Van Heutsz's counter-factual is sustained. "De Generaal moest heengaan" (the Gen
 - [[Hikajat prang]]
 - [[1892]]
 - [[19th-century]]
+- [[Toengkoeb]]
+- [[Anagaloeng]]
+- [[Kroeng Kali]]
+- [[Tjadé]]
+- [[Acheh River]]
+- [[Toekoe Moeda Baid]]
+- [[Demmeni]]
+- [[Sagi der XXVI Moekims]]
+- [[Geconcentreerde linie]]
 
 ## Sources
 
@@ -307,3 +296,7 @@ F. W. Stapel, *Geschiedenis van Nederlandsch-Indië*, p. 309 (cited in the same 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. pp. 322, 339, 346, 355–357, 365.
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, XVI.
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 22, 24, 26, 34, 46, 50.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

@@ -1,58 +1,7 @@
 ---
-title: Concentration system (1884–1896) — Kreemer's account
-aliases:
-- Concentratiestelsel
-- Atjèh concentration system
-- the concentration policy
-- Kreemer's account of the concentration
-- geconcentreerde linie
-- Concentration system in Atjeh
-- Atjeh concentration system
-- stelsel van concentratie
-- Atjeh concentration strategy
-- Dutch concentration system Atjeh
-- Atjeh-oorlog concentration system
-- Concentratie
-- het stelsel van concentratie
-- geconcentreerde stelling van Groot-Atjeh
-- geconcentreerde stelling
-- Concentratiebesluit
-- concentrated line
-- the unsound system of the concentrated line
-- Linie
-- Gec. Linie
-- Dutch Concentration Scheme
-- Concentration Scheme
-- Concentration-line
-- Dutch concentration policy in Acheh
-- Dutch linie
-- Concentratie-linie
-- Dutch pale in Acheh
-- Line of fortresses in Acheh
-- Concentration Line
-- Dutch Concentration Line at Atjeh
-tags:
-- concept
-- military
-- political
-- colonial
-- atjeh-oorlog
-- 19th-century
-- dutch
-- atjehnese
-- 1884
-- 1896
-- military-strategy
-- achehnese
-- aceh-war
-- defensive-strategy
-- aceh
-- event
-- war
-- dutch-colonial
-- treaty
-- dutch-policy
-- fortification
+title: "Concentration system (1884–1896) — Kreemer's account"
+aliases: ["Concentratiestelsel", "Atjèh concentration system", "the concentration policy", "Kreemer's account of the concentration", "geconcentreerde linie", "Concentration system in Atjeh", "Atjeh concentration system", "stelsel van concentratie", "Atjeh concentration strategy", "Dutch concentration system Atjeh", "Atjeh-oorlog concentration system", "Concentratie", "het stelsel van concentratie", "geconcentreerde stelling van Groot-Atjeh", "geconcentreerde stelling", "Concentratiebesluit", "concentrated line", "the unsound system of the concentrated line", "Linie", "Gec. Linie", "Dutch Concentration Scheme", "Concentration Scheme", "Concentration-line", "Dutch concentration policy in Acheh", "Dutch linie", "Concentratie-linie", "Dutch pale in Acheh", "Line of fortresses in Acheh", "Concentration Line", "Dutch Concentration Line at Atjeh", "the concentrated line"]
+tags: [concept, military, political, colonial, atjeh-oorlog, 19th-century, dutch, atjehnese, 1884, 1896, military-strategy, achehnese, aceh-war, defensive-strategy, aceh, event, war, dutch-colonial, treaty, dutch-policy, fortification, strategy]
 ---
 
 **The Concentration system** (*concentratiestelsel*) of [[1884]]–[[1896]] — in [[J. Kreemer|Kreemer]]'s history, the Dutch policy of "inkrimping van het rechtstreeks onder ons bestuur gebracht gebied, gepaard met een strenge 'blokkade' van de kust" — "contraction of the area brought under our direct administration, accompanied by a strict 'blockade' of the coast" — was, in Kreemer's judgement, the greatest service anyone ever did the Atjèhnese war-party: "zeker niemand de oorlogspartij ooit een grooter dienst bewees, dan de uitvinder van deze concentratie" — "certainly no one ever did the war-party a greater service than the inventor of this concentration."
@@ -88,7 +37,6 @@ The concentration did not even fulfil the expectation of saving the treasury. Th
 ## Significance
 
 The concentration system is, in Kreemer's narrative, the low point of Dutch fortunes in the Atjèh war — the moment at which the Dutch abandoned the conquests of [[1878]]–[[1879]], shut themselves into a besieged perimeter, and handed the initiative to the *ulama*-led resistance. The concentration produced, as its direct political consequence, the [[Oema-periode (1893-1896)|Oema-period]] of [[Teungku Tiro|Teungkoe Tirö]] and [[Teukoe Oema|Teukoe Oema]], and it was only the abandonment of the concentration under [[Governor Van Heutsz|Van Heutsz]] and the adoption of [[C. Snouck Hurgronje|Snouck Hurgronje]]'s advice — "dat de onderwerping niet uitsluitend afgewacht, nog minder afgebedeld, maar dat zij afgedwongen moest worden" — "that submission could not merely be awaited, still less begged for, but must be forced" — that would reverse the decline.
-
 
 ## Account from *Na 1795* (1924) — the schoolroom memory
 
@@ -146,6 +94,30 @@ Van Heutsz's critique of the Concentratie is sustained across the diagnostic and
 
 The Concentratie's significance in the [[Aceh Wiki History]] record, in Van Heutsz's diagnosis, rests on three things: it was the policy the Regeering prescribed in [[1884]] as the operational counterpart to the [[Blokkade|blokkade]] — the withdrawal of all outlying Dutch posts to the *geconcentreerde stelling van Groot-Atjeh* combined with the *politiek van non-interventie* in the internal affairs of the coastal statelets; it was the policy whose hybrid execution by Demmeni produced, in Van Heutsz's diagnosis, the *tweeslachtig ding* of the *partieele blokkade* and the *soort scheepvaartregeling* that defined the *cajoleering*-decade of [[1884]]–[[1892]]; and it was the polemical target against which Van Heutsz defined, in the 1893 tract, his own prescription — the substitution of the active-defensive posture for the passive one, the substitution of the *scheepvaartregeling*-cum-closure for the *partieele blokkade*-cum-*non-interventie*, and the substitution of the assumption of the [[Hatsil|hatsil]] and the [[Opium pacht|opium-pacht]] for the *cajoleering*-policy of paying hostile chiefs *traktement*. The Concentratie is, in Van Heutsz's narrative, the original *fout* of the post-Van-der-Heijden decade — the measure whose imposition by Van Rees's *besluit* of [[19 August]] [[1884]] opened the *cajoleering*-era and whose reversal by the Van Teijn closure of [[1888]]–[[1890]] began, in Van Heutsz's diagnosis, the recovery the 1893 tract would generalise into a prescription.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+The **Geconcentreerde linie** — the "concentrated line" — was the fortified perimeter around [[Kota Radja]] within which the Netherlands Indies army confined itself in [[Groot-Atjeh]] from [[1884]], and outside which the temporary posts described in *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]* were erected between [[1893]] and [[1896]].
+
+## Origin
+
+[[G. B. Hooijer]] recorded that the Dutch withdrew behind the line in [[1884]], when *de onverzoenlijke en slechts voor macht bukkende Atjehers* had been able to take up arms again and compelled the abandonment of advanced positions such as [[Anagaloeng]]. He referred to the resulting decade as the *tienjarige concentratie periode* — the ten-year concentration period — during which, apart from the failed attempt on [[Kaloet]] and the assault on [[Kota Toeankoe]], the Dutch had only once operated outside the line in strength against the *[[Moslemin]]*.
+
+## Snouck Hurgronje's image
+
+Hooijer opened his narrative with the judgment of [[C. Snouck Hurgronje|Snouck Hurgronje]] that for years and years the Dutch had lain within the concentrated line *als een aap aan een ketting, door een aantal knapen, zonder veel gevaar voor hen zelven, tot dol wordens toe geplaagd* — like an ape on a chain, teased to distraction by a number of boys who ran little risk themselves. The sorties made had profited the Dutch little and served only to keep the surrounding population at a distance.
+
+## The opening of the line
+
+The turn came when the Dutch sat quietly in their cage and gave the surrounding population the chance to pick the fruits growing beneath it — that is, when they opened their hitherto closed line to it. The *Moslemin*, unable to trouble the Dutch, then began to attack what the population had gained from them, and their game palled. [[Teukoe Oemar|Toekoe Oemar]] placed himself at the head of the resulting movement and drove the *Moslemin* from his *kampongs* (villages), and the Dutch resolved to make use of him.
+
+## The outposts beyond the line
+
+At Oemar's request the Dutch occupied temporary posts outside the line and spread their military force over a wider area, linked by twenty-three *[[Blokhuis|blokhuizen]]* garrisoned by his *[[Legioen van T. Djohan (T. Oemar's Legion)|legioen]]* or by friendly Achehnese. The southern group comprised [[Tjot Goeë]], [[Biloel]] and [[Lam Koenjit]]; the eastern group [[Toengkoeb]], [[Kroeng Kali]], [[Masdjid Siem]], [[Tjot Rang]] and [[Kroeng Gloempang]]; and the south-eastern group [[Lam Barih]], [[Anagaloeng]], [[Lam Soet]] and [[Senelop]]. Posts within the line named by Hooijer include [[Tjot Iri]], [[Pakan Kroeng Tjoet]], [[Lamjong]] and [[Lamreng]].
+
+## Collapse
+
+All the posts outside the line were invested after the defection of [[Teukoe Oemar]] on [[29 March]] [[1896]] and lifted, burnt or slighted by the end of [[April]] [[1896]], leaving only [[Tjot Goeë]], retained since [[April]] [[1895]] as a permanent strongpoint.
+
 ## See Also
 
 - [[Acheh]]
@@ -167,7 +139,6 @@ The Concentratie's significance in the [[Aceh Wiki History]] record, in Van Heut
 - [[C. Snouck Hurgronje]]
 - [[1884]]
 - [[1896]]
-
 - [[Aceh War (Na 1795 textbook account)]]
 - [[Atjeh-tram]]
 - [[Ceintuur-trambaan]]
@@ -269,7 +240,9 @@ The Concentratie's significance in the [[Aceh Wiki History]] record, in Van Heut
 - [[Capture of the Kraton (24 January 1874)]]
 - [[Van Swieten's Proclamation of 31 January 1874]]
 - [[Dutch Concentration Scheme]]
-- [[Dutch Policy of 'Concentration']]
+- [[Kaloet]]
+- [[Kota Toeankoe]]
+- [[Defection of Teukoe Oemar (1896)]]
 
 ## Sources
 
@@ -283,3 +256,7 @@ The Concentratie's significance in the [[Aceh Wiki History]] record, in Van Heut
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21, 30–31, 35, 39, 213, 218, 318.
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Introduction, pp. xiv–xxi.
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 33-37, 65-79.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 9, 10, 26, 48, 54.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

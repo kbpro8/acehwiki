@@ -1,7 +1,7 @@
 ---
 title: "Klewang"
-aliases: ["native sword", "cutlass", "Granaat", "Granaatkartets", "Kartets", "Rentjong", "Bajonet", "G.K.T.", "Rencong"]
-tags: [concept, weapon, knil, marechaussee, dutch, achehnese, colonial, military, 19th-century]
+aliases: ["native sword", "cutlass", "Granaat", "Granaatkartets", "Kartets", "Rentjong", "Bajonet", "G.K.T.", "Rencong", "granaatkartetsen", "case-shot shell", "volkspijs", "klewangs", "the Achehnese sword"]
+tags: [concept, weapon, knil, marechaussee, dutch, achehnese, colonial, military, 19th-century, artillery, aceh-war]
 ---
 
 **The klewang** was the native sword — a cutlass — carried by the soldiers of the [[K.N.I.L.]], especially the [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]], and the principal melee weapon of the colonial army's counter-insurgency in [[Atjeh|Aceh]]. In *[[Oom Ambon van het K.N.I.L.]]* the *klewang* is the symbolic weapon of the [[Manisee (Manisé)|Manisee]] — paired with the *[[reuntjong]]* (the Acehnese kris) of the resistance — and the tool with which the *[[bivak]]* (camp) and its *[[pagger]]* (fence) were built. "The tool was the klewang and nothing further" — the tool was the klewang and nothing else.
@@ -78,6 +78,40 @@ The klewang dictated, in Borel's account, a set of tactical lessons for the Dutc
 
 [[Maurice Henri du Croo|Du Croo]] defined the *[[Pacificatie van Atjeh|pacificatie]]* as the conversion of Atjeh from a province "governed with sabre and carbine" into a normal part of the Indies. Under [[Joannes Benedictus van Heutsz|van Heutsz]] "the offensive and the sabre came to the fore." The *klewang* attack — the sudden rush with cold steel on a careless bivouac or patrol — remained the characteristic Acehnese tactic to the end: at [[Nalon]] in [[1911]], at [[Linggö]], at [[Pénding]], and finally at [[Koeala Bhèë]] on [[25 April]] [[1918]]. "[[Meulaboh]] is the country par excellence for sabre charges," du Croo wrote. It was a *klewang* blow across the face that disfigured [[G. F. P. Gosenson]] for life in [[1917]], and an Acehnese police servant's *klewang* that struck down [[T. Béntara Titeuë]] in [[1913]].
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+### Granaatkartets
+
+The **granaatkartets** was a shrapnel or case-shot shell used by Dutch artillery in [[Groot-Atjeh]], known to the soldiers by the ironic name *volkspijs* — "people's food" — and, when it failed to explode, converted by the Achehnese into ammunition for their own improvised ordnance.
+
+### The soldiers' name
+
+[[G. B. Hooijer]] recorded that above the entrance of the *benteng* of [[Kroeng Gloempang]] was posted the notice *Welkom in de restauratie van volkspijs* — "Welcome to the restaurant of people's food" — explaining that *de soldaat noemt namelijk een granaatkartets een blikje volkspijs*, the soldier calls a case-shot shell a tin of people's food.
+
+### Reuse by the Achehnese
+
+At [[Senelop]], which was a target for the enemy, Hooijer recorded that many times unexploded Dutch *granaatkartetsen* came back at and into the fortification *met afgevijlde nokken en een bamboe kokertje met lont, in plaats van de zunderbuis* — with filed-off ridges and a small bamboo tube with a fuse in place of the time-fuse — fired from old sawn-off iron cannon or, as it was said, from hollowed-out coconut trunks strongly bound about with stolen telephone wire.
+
+### Use in earlier operations
+
+In the tale of the old [[Ambonese soldiers in the Atjeh outposts|Ambonese soldier]] at [[Toengkoeb]], the Dutch artillery in [[General van der Heijden]]'s time pushed forward and threw a *granaatkartets* through the roof and ceiling of the fortified *[[Messigit|Messigit]]* before the column commander could take stock of what was happening.
+
+### Klewang
+
+The **klewang** was the Achehnese cutting sword, both the characteristic weapon of the Achehnese fighter and, in Dutch usage, the name for the sudden close-quarters attack — *klewang aanval* — most feared by soldiers on the roads of [[Groot-Atjeh]].
+
+### As a weapon of assault
+
+[[G. B. Hooijer]] recorded that at the storming of [[Anagaloeng]] on [[21 December]] [[1893]] the defenders did not give way at once: *de klewangs moesten worden gezwaaid, de strijdkreet aangeheven*, and the champions excited by opium, shrieking and leaping like madmen, had to lead their men in storming the last redoubt of the *[[Moslemin]]* before the field was quitted.
+
+### Klewang attacks on transports
+
+Describing the fortnightly *[[Vivres|vivres]]* transport on the road through the [[IX Moekims]], Hooijer noted that the long train was closed by a rearguard, some of whose men at greater distance *den rug beveiligen tegen klewang aanvallen van rondsluipende marodeurs* — secured the rear against *klewang* attacks by prowling marauders.
+
+### As a symbol of allegiance
+
+Of [[T. Tjoet Toengkoeb|Toekoe Tjoet Toengkoeb]], who had for years made common cause with the priestly party under [[Tengkoe Sjech Saman di Tiro|Teungkoe di Tiro]], Hooijer wrote that only after [[General‑Major Van Teyn]] granted him a salary on condition that he cease fighting the Dutch *had hij de klewang opgeborgen* — had he put away the *klewang*.
+
 ## See Also
 
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
@@ -115,8 +149,18 @@ The klewang dictated, in Borel's account, a set of tactical lessons for the Dutc
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Kroeng Gloempang]]
+- [[Senelop]]
+- [[Lilla]]
+- [[Toengkoeb]]
+- [[General van der Heijden]]
+- [[Anagaloeng]]
+- [[Vivres]]
+- [[T. Tjoet Toengkoeb]]
+- [[General‑Major Van Teyn]]
+- [[Moslemin]]
 
-## Source
+## Sources
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapters "De colonne Schmidt" and "De patrouille."
 
@@ -125,3 +169,7 @@ The klewang dictated, in Borel's account, a set of tactical lessons for the Dutc
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 31, 37, 54–56, 117, 162, 168–169, 231, 237, 317–318.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), passim.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 24, 51, 53; pp. 10, 24, 40.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

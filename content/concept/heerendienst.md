@@ -1,88 +1,8 @@
 ---
-title: Heerendienst
-aliases:
-- Herendienst (in Atjeh)
-- herendienst
-- corvée (in Atjeh)
-- the Atjeh corvée labour
-- rodi
-- heerendienstplicht
-- Atjeh heerendienst
-- forced labour service
-- corvée labour
-- heerendiensten
-- labour service
-- statute labour
-- Dwangarbeiders
-- Dwangarbeid
-- Forced labour
-- Conscript labour
-- Dwangarbeider
-- Koelie
-- Chineesche koelie
-- Mandoer
-- Tandoes
-- Vivres
-- Trein
-- Lamoen
-- Voorwagen
-- Vivres-colonne
-- Beren (dwangarbeiders)
-- beren
-- kettingberen
-- dwangkeezen
-- adelborsten
-- 19e bataljon
-- bataljon merah
-- dwangarbeiders met en zonder ketting
-- forced labourers
-- Kettinggangers in Atjeh
-- chain-gang convict labourers
-- kettinggangers
-- convict labour Atjeh
-- chain-gang Atjeh
-- Tandoe
-- tandu
-- litter hammock
-tags:
-- concept
-- colonial
-- dutch
-- labour
-- administration
-- buitenbezittingen
-- aceh
-- infrastructure
-- roads
-- acheh
-- ethical-politiek
-- atjeh
-- zelfbestuur
-- 20th-century
-- institution
-- achehnese
-- heerendienst
-- corvée
-- labour-tax
-- afkoop
-- 3-gulden
-- taxation
-- aceh-war
-- military
-- 19th-century
-- trade
-- beren
-- dwangarbeider
-- forced-labor
-- convict
-- medical
-- transport
-- malay
-- terminology
-description: The heerendienst — the Dutch colonial corvée labour system, by which
-  the population of the Buitenbezittingen was obliged to provide unpaid labour for
-  public works, principally road construction, before the systematic road plan of
-  the B.O.W. replaced it with paid labour.
+title: "Heerendienst"
+aliases: ["Herendienst (in Atjeh)", "herendienst", "corvée (in Atjeh)", "the Atjeh corvée labour", "rodi", "heerendienstplicht", "Atjeh heerendienst", "forced labour service", "corvée labour", "heerendiensten", "labour service", "statute labour", "Dwangarbeiders", "Dwangarbeid", "Forced labour", "Conscript labour", "Dwangarbeider", "Koelie", "Chineesche koelie", "Mandoer", "Tandoes", "Vivres", "Trein", "Lamoen", "Voorwagen", "Vivres-colonne", "Beren (dwangarbeiders)", "beren", "kettingberen", "dwangkeezen", "adelborsten", "19e bataljon", "bataljon merah", "dwangarbeiders met en zonder ketting", "forced labourers", "Kettinggangers in Atjeh", "chain-gang convict labourers", "kettinggangers", "convict labour Atjeh", "chain-gang Atjeh", "Tandoe", "tandu", "litter hammock", "litter", "stretcher", "provisions transport", "victuals", "vivres transport"]
+tags: [concept, colonial, dutch, labour, administration, buitenbezittingen, aceh, infrastructure, roads, acheh, ethical-politiek, atjeh, zelfbestuur, 20th-century, institution, achehnese, heerendienst, corvée, labour-tax, afkoop, 3-gulden, taxation, aceh-war, military, 19th-century, trade, beren, dwangarbeider, forced-labor, convict, medical, transport, malay, terminology, logistics]
+description: "The heerendienst — the Dutch colonial corvée labour system, by which the population of the Buitenbezittingen was obliged to provide unpaid labour for public works, principally road construction, before the systematic road plan of the B.O.W. replaced it with paid labour."
 ---
 
 **The Heerendienst** ("corvée labour service," plural *heerendiensten*) was the Dutch colonial system of obligatory unpaid labour by which the population of the [[Buitenbezittingen|Outer Possessions]] — including [[Acheh|Atjeh]] — was required to provide labour for public works, principally road construction. In the Encyclopaedisch Bureau's account, the heerendienst was the principal labour instrument of the older, pre-systematic phase of road construction in the Buitenbezittingen: the phase in which roads were built "on initiative of the administrative side" and "gradually in heerendienst" — that is, by forced labour under the direction of administrative officials rather than by centrally planned technical service.
@@ -238,15 +158,35 @@ The road network Swart laid down "on gravel roads — then metalling" was, in du
 
 The *[[Koloniaal Verslag]]* records elsewhere that in the pacified districts of [[1913]]–[[1918]] the regular performance of the *heerendienst* was one of the standard indicators of a favourable political situation.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), pp. 32–33. Koninklijke Bibliotheek shelfmark 0301 4872.
+### Tandoe
 
-*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 66, 68–69, 71, 73, 75, 81, 83, 86, 88, 91, 95, 101, 105–106, 108–110, 117, 119–121, 199, 216, 227, 229, 238, 240, 247, 293–294, 301, 308–309, 322, 324, 342–343.
-*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 117–118, 122–130, 144–148, 167, 168–169, 254–258.
-*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
-*Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.
+A **tandoe** was a carrying-litter used in the Netherlands Indies for the transport of the sick, the wounded and baggage, carried by coolies in the columns and transports of [[Groot-Atjeh]].
+
+### In the vivres transport
+
+[[G. B. Hooijer]] described the fortnightly provision transport on the road through the [[IX Moekims]]: behind the ox-carts loaded with rice came *een drom van *koelies* (porters), gedeeltelijk gehuurde Atjehers, die tandoes en vivres transporteeren* — a crowd of coolies, partly hired Achehnese, transporting *tandoes* and provisions — and the long train, moving slowly under the burning Indies sun over the uneven and often muddy road, was closed by a rearguard securing the rear against *[[Klewang|klewang]]* attacks.
+
+### Vivres
+
+**Vivres** — provisions — and the fortnightly transports that carried them were the logistic lifeline of the Dutch outposts of [[Groot-Atjeh]] and one of the recurrent subjects of the plates of *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]*.
+
+### The fortnightly transport
+
+[[G. B. Hooijer]] used the plate of the road over the bare hills of the [[IX Moekims]] to explain the necessity of roads in such terrain, which became clear only when one considered the scale of *het veertiendaagsch transport van vivres*. At one of the many small bridges over the muddy ditches and creeks stood the advance party of the transport in the practical rather than picturesque clothing of the Indies soldier; some 150 metres behind, ox-carts loaded with rice showed above the *alang-alang* (coarse tall grass); behind them came a crowd of coolies, partly hired Achehnese, carrying *[[Tandoe|tandoes]]* and provisions; and the long train, moving slowly under the burning sun over the uneven and often muddy road, was closed by a rearguard whose furthest men secured the rear against *[[Klewang|klewang]]* attacks by prowling marauders.
+
+### The daily cart
+
+At [[Lam Koenjit]] the cart with *vivres* arrived daily towards the midday meal, under a small covering party of Achehnese, and *nog wel eens beschoten werd* — was still now and then fired at. It brought the letters, and its arrival was, Hooijer wrote, the most important hour of the day.
+
+### Diet under siege
+
+During the investment of [[Biloel]] from [[29 March]] [[1896]], Hooijer recorded that provisions were sufficient: only the *toespijzen* (side-dishes accompanying rice) accompanying the rice, and bread, were too few; stockfish and tinned minced meat were in abundance, and a couple of buffaloes and a goat that were shot replaced fresh meat. At [[Anagaloeng]] the garrison was left to itself for eighteen days, *gelukkig ruimschoots voorzien van vivres en munitie*.
+
+### Attacks on transports
+
+Hostile marksmen fired persistently on Dutch transports near [[Anagaloeng]], which was the reason for the order to patrol that produced [[Van Blokland|Kapitein Blokland]]'s action of [[7 March]] [[1896]]. The road between [[Tjot Goeë]] and [[Biloel]] had been so unsafe that covering troops had to be pushed forward to [[Lam Koenjit]] and volleys fired into the *kampongs* (villages) before the transport could pass, which led to the erection of the intermediate post there on [[4 July]] [[1894]].
 
 ## See Also
 
@@ -342,8 +282,25 @@ D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst v
 - [[Drijber]]
 - [[Koloniale Reserve]]
 - [[Peutjoet|Kerkhof Petjoet]]
+- [[Vivres]]
+- [[Tjot Goeë]]
+- [[IX Moekims]]
+- [[Kettingganger]]
+- [[Lam Koenjit]]
+- [[Biloel]]
+- [[Anagaloeng]]
+- [[Tandoe]]
+- [[Van Blokland]]
 
-## Source
+## Sources
+
+D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), pp. 32–33. Koninklijke Bibliotheek shelfmark 0301 4872.
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 66, 68–69, 71, 73, 75, 81, 83, 86, 88, 91, 95, 101, 105–106, 108–110, 117, 119–121, 199, 216, 227, 229, 238, 240, 247, 293–294, 301, 308–309, 322, 324, 342–343.
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 117–118, 122–130, 144–148, 167, 168–169, 254–258.
+*Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
+*Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters X, XII, *'In het land van Peusangan'* and *'In het hart van Gajo-land'*, pp. 68, 85.
 
@@ -360,3 +317,7 @@ J. B. van Heutsz, *De onderwerping van Atjeh* (1893), p. 79.
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923); *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), where applicable.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV, p. 23; Chapter XIII, pp. 135–136; Chapter XII, p. 122.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 10; pp. 10, 14, 16, 18, 50, 52.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

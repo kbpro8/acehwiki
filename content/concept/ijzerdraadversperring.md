@@ -1,7 +1,7 @@
 ---
 title: "IJzerdraadversperring"
-aliases: ["IJzerdraadversperring", "barbed-wire entanglement", "gewapend ijzerdraad", "wire entanglement"]
-tags: [concept, military, fortification, terminology, aceh-war, dutch]
+aliases: ["barbed-wire entanglement", "gewapend ijzerdraad", "wire entanglement", "iron-wire obstacle", "staande ijzerdraadversperring"]
+tags: [concept, military, fortification, terminology, aceh-war, dutch, technology, colonial]
 ---
 
 **The ijzerdraadversperring** — the wire entanglement, also *gewapend ijzerdraad*, armed iron wire — was the wire obstacle used around Dutch posts and fortified quarters in [[Acheh|Atjeh]], described in detail by [[P. H. R. Beuming]].
@@ -20,6 +20,22 @@ The same obstacle was used to protect the fortified quarters of [[Koeta Radja]] 
 
 When the Acehnese occupied the abandoned Dutch post of [[Anak Galoeng]] they retained its wire: the [[Surprise of Ana' Galoeng (29 June 1896)|surprise of 29 June 1896]] found the obstacle still in good order and insuperable, forcing the attackers to open the gate from within.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+The **ijzerdraadversperring** — the standing iron-wire entanglement — was the standard passive obstacle of Dutch fortification in [[Groot-Atjeh]], present at almost every post described in *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]*.
+
+## Construction and placement
+
+At [[Biloel]] the whole was surrounded by an earthen parapet with sod banquettes, and everything was secured against escalade *door staand vlechtwerk van ijzerdraad*. At [[Toengkoeb]] the square earthen wall was protected against a first rush by a standing entanglement at four metres' distance from the wall, and the kitchen under a lean-to lay inside the wire but outside the wall, while the [[Chinese sutler in the Atjeh outposts|Chinese sutler]]'s hut lay outside the wire altogether — *dus alles behalve verzekerd tegen een stoutmoedigen Atjehschen marodeur*. At [[Tjot Rang]] the work was of the usual type: *een verticale ijzerdraadversperring nog versterkt door een horizontale*, encompassing the earthen ramparts and both bastions. At [[Lam Koenjit]] the outwork containing the kitchen was surrounded by wire. At [[Lam Soet]] the earthen rampart, one and a half metres thick and revetted with lying coconut trunks, was covered by wire and a dry ditch except on the river side. At [[Kroeng Gloempang]] the vertical entanglement *ontbrak hier evenmin als elders* — was no more absent here than elsewhere — and the kitchen was properly surrounded by wire although it lay outside the walls.
+
+## The model at Anagaloeng
+
+Hooijer's fullest praise was reserved for [[Anagaloeng]]: *de staande ijzerdraadversperring om de rechtopgezette *borstwering* (parapet) ziet er zoo regelmatig uit, alsof zij fabriekswerk in plaats van soldatenwerk ware, en zou in tijden van nood minstens even nuttig kunnen blijken als een natte gracht* — the standing wire entanglement around the upright parapet looked as regular as though it were factory work rather than soldiers' work, and in time of need would prove at least as useful as a wet moat.
+
+## The Achehnese equivalent
+
+Hooijer observed that the Achehnese *[[Benteng|bentengs]]* achieved the same effect by botanical means: the broad girdle of *[[Bamboe doeri|bamboe doeri]]* stools, with hundreds of whipping twigs set with hooked thorns, closed every approach *beter dan de beste ijzerdraadversperring*.
+
 ## See Also
 
 - [[Voorpostenbenting]]
@@ -28,9 +44,19 @@ When the Acehnese occupied the abandoned Dutch post of [[Anak Galoeng]] they ret
 - [[Nesoeh]]
 - [[Surprise of Ana' Galoeng (29 June 1896)]]
 - [[Geconcentreerde linie]]
+- [[Benteng]]
+- [[Bamboe doeri]]
+- [[Anagaloeng]]
+- [[Tjot Rang]]
+- [[Toengkoeb]]
+- [[Lam Soet]]
 
-## Source
+## Sources
 
 *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
 
 *Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 12, 22, 34, 49, 50.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

@@ -1,55 +1,16 @@
 ---
-title: Kroëng Raja
-aliases:
-- Krueng Raja
-- Kroeng Radja
-- Kuala Raja
-- Kroëng Rajah
-- Kr. Raja
-- Krueng Raja (West Atjeh)
-- Sungai Raja
-- Kroeng Raja
-- Kroeng-Raja
-- Krung Raja
-- Krueng Raya
-- Kreuëng Raya
-- Kruëng Raya
-- Krucng Raya
-- Kroeng Raya
-- K. Raya
-tags:
-- place
-- kampong
-- coast-state
-- acehnese
-- aceh-war
-- river
-- atjeh
-- westkust
-- coal
-- north-coast
-- 19th-century
-- village
-- aceh-proper
-- coastal
-- boundary
-- boundary-point
-- great-acheh
-- region
-- afsluitingslinie
+title: "Kroëng Raja"
+aliases: ["Krueng Raja", "Kroeng Radja", "Kuala Raja", "Kroëng Rajah", "Kr. Raja", "Krueng Raja (West Atjeh)", "Sungai Raja", "Kroeng Raja", "Kroeng-Raja", "Krung Raja", "Krueng Raya", "Kreuëng Raya", "Kruëng Raya", "Krucng Raya", "Kroeng Raya", "K. Raya", "the bay of Kroeng Raja", "baai van Kroeng Raja"]
+tags: [place, kampong, coast-state, acehnese, aceh-war, river, atjeh, westkust, coal, north-coast, 19th-century, village, aceh-proper, coastal, boundary, boundary-point, great-acheh, region, afsluitingslinie, bay, port, trade, groot-atjeh]
 ---
 
 ## The Five Kwala's
 
-
 In his note of [[30 April]] [[30 April]] [[1875]] to the Governor-General, General Pel set out his plan for the consolidation of the Dutch position. As part of his plan, he proposed to occupy the coast-stretch from Kroëng Raja to [[Kroëng Raba|Kroëng Raba]] and the VI Moekims: "By the occupation of that coast-stretch, in particular of the five access-points to the sea, the kwala's Loë, Gighen, Atjeh, Tjangkoel and Pantjoer, Atjeh-proper is wholly cut off from the sea and thus, from a commercial point of view, dependent on us."
-
 
 ## The Operation of 25 January 1877
 
-
 In [[January 1877|January 1877]] the troops resumed operations for the completion of Pel's program. On [[25 January]] [[25 January]] [1877] the operations began under the commander-in-chief's personal direction with a simultaneous landing at [[Kwala Loë|Kwala Loë]] and Kroëng Raja. "The latter place was not deemed suitable for a settlement, whereupon the troops returned along the beach to Ladoeng and thence over the mountains to Lambaroe Angan to join the other column, which had landed at Kwala Loë under Colonel [[K. van der Heyden|Van der Heyden]]. After the junction, the strong Lamnga was occupied, abandoned by the enemy. Notwithstanding strong resistance, on [[30 January]] [[30 January]] [1877] the missigit Lambada too was stormed, from which our troops had been repulsed in October. With this the objective was in essence attained, and although no post was set up at Kroëng Raja, the occupation of the coast from Kwala Gighen to Kwala Loë had in fact cut the enemy off from the sea. In future he had to follow the difficult paths of the mountains for the import of food and war-material."
-
 
 ## Account from *The Geology of Indonesia* ([[1949]]) — Krueng Raja
 
@@ -64,8 +25,6 @@ The Krueng Raja locality is one of the four West-Atjeh Neogene-coal localities i
 ### Significance
 
 The Krueng Raja locality is significant for the encyclopedia of [[Acheh]] history because it is one of the more substantial West-Atjeh coal occurrences recorded in the colonial geological literature — the five seams of 2–9 ft brown coal represent a coal-bearing sequence of significant aggregate thickness, and the recorded structural information (NW-SE strike, westerly dip) provides the basis for any subsequent exploration. The locality is also the northernmost of the four West-Atjeh Neogene-coal localities, and it accordingly marks the approximate northern limit of the West-Atjeh Neogene coal zone as recorded in the colonial geological literature. The fact that the Krueng Raja brown coals, like the other West-Atjeh coal occurrences, were never mined on any significant scale is itself historically significant: it is the documentary evidence that the West-Atjeh coal occurrences, though locally substantial, were insufficient to support a colonial coal industry.
-
-
 
 ## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893)
 
@@ -101,12 +60,19 @@ Kroeng Raja was, before the Dutch closure of the [[XXII Moekims]] under [[Van Te
 
 Kroeng Raja's significance in Van Heutsz's [[1893]] tract rests on its being the northern hinge of the Pel plan and the operational anchor whose occupation opened the policy question — *hoe moet men nu verder tot de volkomen onderwerping geraken* — the next two decades would fail to answer; the route-node of the principal landward path from Pedir through the XXII and XXVI to the interior; and the export-harbour of the peper the XXII Moekims produced before the [[1888]]–[[1890]] closure.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+**Kroeng Raja** was a bay on the coast of [[Groot-Atjeh]] through which [[Toekoe Moeda Soleiman]], guardian of the young [[Panglima Polim]], was permitted by the Netherlands to ship his pepper — a commercial concession granted in the hope of securing his continued political support, which [[G. B. Hooijer]] recorded as having failed.
 
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 1, p. 1.
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 323–325, 336–344.
+## The pepper concession
+
+Hooijer wrote that the erection of the post at [[Lam Soet]] had indeed secured the safety of the road from [[Lambaroe]] near [[Anagaloeng]], but that this had put no end to the enemy's activity: *de hoop, dat Toekoe Moeda Soleiman, de voogd van den jongen Panglima Polim, Sagihoofd der XXII Moekims, ons steun zou blijven verleenen, na hem de gelegenheid gegeven was, zijn peper uit de baai van Kroeng Raja te verschepen, bleek ijdel* — the hope that Toekoe Moeda Soleiman would continue to lend the Dutch support, after he had been given the opportunity to ship his pepper out of the bay of Kroeng Raja, proved vain.
+
+At the same time the population of the southern part of the [[Sagi der XXVI Moekims|XXVI Moekims]] took flight, [[Toekoe Moesa Anaq Batee]] attacked the *[[Passer|passer]]*-goers between [[Lam Barih|Lambarih]] and [[Anagaloeng]], and the Dutch post on [[Boekit Daroe]] was continuously shelled.
+
+## Significance
+
+The episode is a compact instance of the Dutch use of trade privileges as an instrument of political attachment in [[Atjeh]], parallel to the earlier [[Closing of the Noord- en Westkust (1889-1890)|closure of the West Coast]] to import and export, which had driven [[Teukoe Oemar]] to seek Dutch favour for want of money.
 
 ## See Also
 
@@ -179,9 +145,18 @@ Kroeng Raja's significance in Van Heutsz's [[1893]] tract rests on its being the
 - [[Generaal Wiggers van Kerchem]]
 - [[Generaal Diemont]]
 - [[Kroeng]]
+- [[Toekoe Moeda Soleiman]]
+- [[Panglima Polim]]
+- [[Lam Soet]]
+- [[Pepper cultivation in Atjeh]]
+- [[Teukoe Oemar]]
 
-## Source
+## Sources
 
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 1, p. 1.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 323–325, 336–344.
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 70-71, 83-84.
 
@@ -189,3 +164,6 @@ Kroeng Raja's significance in Van Heutsz's [[1893]] tract rests on its being the
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 9, 12, 84, 94. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 49-50.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

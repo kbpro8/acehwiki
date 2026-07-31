@@ -1,7 +1,7 @@
 ---
-title: Defection of Teukoe Oemar (1896)
-aliases: ["overloopen van Teukoe Oemar", "Teukoe Oemar's defection", "T. Oemar's overloop", "defection of 1896", "the most trouweloos verraad", "Oemar's defection"]
-tags: [event, defection, aceh, aceh-war, 1896, teukoe-oemar, westkust, groot-atjeh]
+title: "Defection of Teukoe Oemar (1896)"
+aliases: ["overloopen van Teukoe Oemar", "Teukoe Oemar's defection", "T. Oemar's overloop", "defection of 1896", "the most trouweloos verraad", "Oemar's defection", "Verraad van Toekoe Oemar", "Toekoe Oemar's defection (1896)", "het verraad", "the treason of Toekoe Oemar", "Defection of Teuku Umar"]
+tags: [event, defection, aceh, aceh-war, 1896, teukoe-oemar, westkust, groot-atjeh, achehnese, colonial, dutch, betrayal]
 description: "The February 1896 defection of Teukoe Oemar — Dutch ally of the concentrated-line period, supplied with weapons, money and salary by the governor — back to the Acehnese resistance; the Senelop and Lamsoet bentengs had to be retaken 2 May 1896 and then abandoned again; called 'the most trouweloos verraad' but condemned by Snouck Hurgronje as the inevitable result of the domme politiek of arming him."
 ---
 
@@ -23,6 +23,38 @@ The eight months that followed were *dwaze tijden na de groote verwarring* — f
 
 *Geheel beheerscht door woede en wraakzucht over het overloopen van T. Oemar en de daardoor toegenomen actie van den vijand, deden minder geschikte hooge bevelhebbers iets dat bij juister inzicht in de beteekenis der gebeurtenissen nooit had mogen geschieden* — wholly dominated by rage and vindictiveness over Oemar's defection, less competent high commanders did things that should never have been done. The methods adopted — *het verbranden van geheele kampongs, het doodschieten van personen die niet tegen ons streden, het omkappen van vruchtboomen op zeer groote schaal* — were condemned even by *strenge en harde vechtnaturen* in the officer corps, of whom [[G.C.E. van Daalen|Van Daalen]] was the most outspoken. *Deze domme politiek* of *pacificatie* through Teukoe Oemar was finished; the way was open for the offensive of [[Joannes Benedictus van Heutsz|Van Heutsz]].
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+The **Defection of Teukoe Oemar** was the breaking, at the end of [[March]] [[1896]], of the solemnly sworn oath by which [[Teukoe Oemar|Toekoe Oemar]] — styled [[Toekoe Djohan Pahalawan]] and holding the Dutch dignity of *[[Panglima Prang Besar]]* — had bound himself to the Netherlands Indies government, and his passing *van vriend in vijand* ("from friend into enemy"). It destroyed within weeks the entire system of Dutch temporary posts and *[[Blokhuis|blokhuizen]]* erected outside the *[[Geconcentreerde linie|geconcentreerde linie]]* in [[Groot-Atjeh]] since [[1893]], and forms the central event of *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]*.
+
+## Background
+
+For three years Oemar had been the man who, if he had not conceived the guiding idea of occupying the terrain around the Dutch line, had at least executed it, after taking up the struggle against [[Mat Amin|Mad Amin]]. Through the unfitness of the other Dutch allies he had come still further to the fore. At his request the Dutch occupied temporary posts outside their line and spread their military force over a wider area. The twenty-three *blokhuizen* connecting those posts were garrisoned by his *[[Legioen van T. Djohan (T. Oemar's Legion)|legioen]]* or by friendly Achehnese. With his three subordinate commanders, his forty *[[Panglima|panglima's]]* and his two hundred salaried warriors he was responsible for order in those territories, and, in Hooijer's words, *zijn stem klonk daar oppermachtig*.
+
+## The threatened loss of indispensability
+
+At the beginning of [[1896]] it seemed that the moment had come when part of that task would be taken from him, once [[Lamkrak]] — *dat broeinest der Moslemin* — had been chastised and cleansed. Dutch patrols had already begun to move outside [[Anagaloeng]]. The temporary posts were to be changed into fixed settlements, with all that this implied: clearance of terrain, the building of bridges, the laying of roads, dykes and tramways, vigorous police supervision by the brave [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Marechaussée]], regular administration by acting *[[Controleur|controleurs]]* — in a word, *een feitelijk in bezit nemen van wat tot dusver uit zijn handen in leen was ontvangen en aan zijn beheer was toevertrouwd geweest*: an actual taking into possession of what had hitherto been received in fief from his hands and entrusted to his management.
+
+Whether he foresaw that his indispensability would thereby lapse and his influence decline, and whether he found in that a reason to break his word and refuse to march against Lamkrak, Hooijer refused to determine: *wie zal het zeggen?* He stated flatly that *waarom Toekoe Oemar onze zijde verliet, is nog altijd niet uitgemaakt* — why Toekoe Oemar left the Dutch side had still not been settled.
+
+## 29 March 1896
+
+The great preparations at [[Biloel]] had been made: a shed roofed with sheet iron erected as magazine and auxiliary hospital, and the post designated for elevation to a permanent fortification. Great bustle was expected, since [[Teukoe Oemar|Toekoe Djohan]] was to gather there a thousand warriors and a thousand coolies to begin the action against [[Lamkrak]].
+
+Instead, on the morning of [[29 March]] [[1896]] *verscheen er niemand op de passer onder den grooten boom, zelfs de politie-*oppasser* (orderly) niet* — no one at all appeared at the *[[Passer|passer]]* under the great tree, not even the police *oppasser* — and it became apparent that the *blokhuizen* held by friendly Achehnese in the neighbourhood had been abandoned. Towards half past four that afternoon [[Kapitein Schadée]] went out with a patrol of sixty men towards [[Tjot Goeë]] and was heavily fired on across the flooded rice-fields; [[Luitenant Zijdveld]] was shot through the lower jaw. From that moment [[Biloel]] was surrounded. The same day the patrols from [[Lam Koenjit]], always accompanied by their tame black sheep, came to the conviction that their post too was invested and that they would henceforth have to make do with muddy water.
+
+## Neelmeyer's ride
+
+Learning of the going-over of the [[Panglima Prang Besar]], [[Luitenant Neelmeyer]] set out in the evening from [[Pakan Kroeng Tjoet]] in the concentrated line, in the company of [[T. Tjoet Toengkoeb|Toekoe Tjoet]] and some of his followers, to warn the garrisons of [[Toengkoeb]] and [[Tjot Rang]], and returned to [[Tjot Iri]] before daybreak, just before communication with those posts was cut. Toekoe Tjoet followed Oemar's example two days later.
+
+## The fall of the posts
+
+The population immediately took Oemar's side. [[Tjot Goeë]] and [[Biloel]] were beleaguered; [[Lam Koenjit]] was stormed in one bastion in the night of [[4 April]]–[[5 April]] [[1896]] and saved only because the gun there was loaded with case-shot; a relief force reached [[Biloel]] on [[9 April]] [[1896]] and turned back on the report that Oemar was approaching. [[Anagaloeng]] was left to itself for eighteen days. [[Tjot Rang]] was relieved on [[16 April]] [[1896]] by two columns totalling 2,700 men, whose withdrawal was pursued so closely that their losses rose to forty-five killed and wounded; the post was abandoned and slighted a few days later. On [[18 April]] [[1896]] the columns came up that relieved and lifted [[Anagaloeng]], [[Lam Barih|Lambarih]] and [[Senelop]], after the *[[Blokhuis|blokhuizen]]* in the neighbourhood had been burnt by the Dutch. [[Toengkoeb]] was evacuated without a shot under [[Luitenant Neelmeyer]].
+
+## Assessment
+
+Hooijer declined to describe the furious fighting that followed, as lying outside the framework of a narrative written to explain plates. His judgment was that with these posts the work of two years — which had promised so much good, although raised on an unsound foundation — had gone up in flames; that the lives destroyed and the money spent would have proved uselessly wasted had the event not furnished occasion at last to act with force and to make the Achehnese experience *dat onze wil zijn wet moet zijn*; and that, while deeply regretting the many who fell, he could not regret what had happened, because it swept away the *scheeve verhoudingen* beginning to arise between Dutch power and Oemar's own, and allowed the Dutch position in [[Groot-Atjeh]] to be purified and strengthened.
+
 ## See Also
 
 - [[Teukoe Oemar]]
@@ -41,7 +73,20 @@ The eight months that followed were *dwaze tijden na de groote verwarring* — f
 - [[Aceh War]]
 - [[1896]]
 - [[1897]]
+- [[Biloel]]
+- [[Anagaloeng]]
+- [[Tjot Rang]]
+- [[Senelop]]
+- [[Lam Koenjit]]
+- [[Toengkoeb]]
+- [[Luitenant Neelmeyer]]
+- [[Lamkrak]]
+- [[Geconcentreerde linie]]
 
-## Source
+## Sources
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 12, 14, 16, 18, 34, 36, 50, 52, 54.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

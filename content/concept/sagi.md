@@ -1,52 +1,7 @@
 ---
-title: Sagi (Atjeh administrative division)
-aliases:
-- Three sagi's of Groot-Atjeh
-- Sagi (Atjehnese federation)
-- sagi
-- the Atjehnese sagi
-- the three sagi's of Groot-Atjeh
-- Sagi (Atjehnese division)
-- Sagi System
-- Three Sagis
-- XXV Mukims
-- XXVI Mukims
-- XXII Mukims
-- sagiʼ
-- thagïʼ
-- Atjehsche federatie
-- side
-- Sagi (Atjeh)
-- Sagie
-- Atjeh Sagi
-- Atjeh three Sagis
-- Three Sagis of Groot-Atjeh
-- Sagi of Atjeh
-tags:
-- concept
-- administrative-division
-- sagi
-- groot-atjeh
-- indigenous-governance
-- atjeh
-- sultanate
-- achehnese
-- acheh
-- administrative
-- territorial
-- federation
-- institution
-- division
-- three-sagi
-- colonial
-- administration
-- governance
-- government
-- territory
-- acehnese
-- political-division
-- aceh-war
-- 19th-century
+title: "Sagi (Atjeh administrative division)"
+aliases: ["Three sagi's of Groot-Atjeh", "Sagi (Atjehnese federation)", "sagi", "the Atjehnese sagi", "the three sagi's of Groot-Atjeh", "Sagi (Atjehnese division)", "Sagi System", "Three Sagis", "XXV Mukims", "XXVI Mukims", "XXII Mukims", "sagiʼ", "thagïʼ", "Atjehsche federatie", "side", "Sagi (Atjeh)", "Sagie", "Atjeh Sagi", "Atjeh three Sagis", "Three Sagis of Groot-Atjeh", "Sagi of Atjeh", "sagihoofd", "Achehnese sagi", "the three sagis"]
+tags: [concept, administrative-division, sagi, groot-atjeh, indigenous-governance, atjeh, sultanate, achehnese, acheh, administrative, territorial, federation, institution, division, three-sagi, colonial, administration, governance, government, territory, acehnese, political-division, aceh-war, 19th-century, territorial-division]
 ---
 
 **The Sagi** (Atjèhnese for "corner" or "side," cf. *soeröé*; plural: sagi's) was the highest indigenous administrative unit in [[Groot-Atjeh|Groot Atjèh]], described by Gouverneur [[H. N. A. Swart|H. N. N. A. Swart]] at the [[Koeta-Radja]] meeting ([[19 January]] [[1914]]) as more or less comparable to the regentschappen of Java. There were three sagi's in Groot-Atjeh, each encompassing a large territory with its own hierarchy of subordinate administrative units: the [[peleebalangschap]]pen (comparable to Javanese districten) and the [[moekimschap]]pen (comparable to Javanese onderdistricten). The sagi thus occupied the apex of a three-tier administrative hierarchy that structured indigenous governance in the rechtstreeks bestuurd gebied (directly ruled territory) of Atjeh, providing the colonial administration with a framework through which it could exercise oversight while maintaining the appearance of indigenous self-governance.
@@ -129,12 +84,17 @@ The conquest of the sagi's of Groot-Atjeh was, in Borel's account, the principal
 
 [[Panglima Pòlém]] was the *sagi*-head whose positions [[Joannes Benedictus van Heutsz|van Heutsz]] attacked in [[1898]] in his column area, the *sagi* of the [[XXII Moekims]], driving him to [[Pidië]]. On [[27 March]] [[1902]] [[H. N. A. Swart]] was charged with the government of the division of the [[XXV Moekims]] with the southern settlements; on [[17 July]] he was relieved of the government of "the sub-division of the Sagi of the XXV Moekims and the southern settlements". In [[1909]] the *sagi* of the XXII Moekims was among the sub-divisions placed under civil administrators.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 7–8, pp. 88–193.
+A **sagi** was one of the three great federations of *[[Mukim|moekims]]* into which [[Groot-Atjeh]] was divided, each under a *sagihoofd* or *panglima sagi*, and the highest unit of Achehnese territorial organisation encountered in *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]*.
 
-*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 44–46. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, pp. 91, 94.
-*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI, "Het bestuur van generaal van der Heijden, van Juni 1877 tot April 1881." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 30.
+## The sagis named by Hooijer
+
+[[G. B. Hooijer]] named [[Toekoe Nja Banta]] as *het bevriende hoofd van de sagi der XXVI Moekims* — the friendly head of the *sagi* of the [[Sagi der XXVI Moekims|XXVI Moekims]] — to whom the [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden|Governor of Atjeh and Dependencies]] granted on [[1 September]] [[1893]] the right to open the struggle against the *[[Moslemin]]* east of the Dutch line, with rifles and powder supplied. He named the young [[Panglima Polim]] as *Sagihoofd der XXII Moekims*, under the guardianship of [[Toekoe Moeda Soleiman]]. The [[XXV Moekims]] were formed by the territory of [[Teukoe Oemar]] together with that of [[Toekoe Nja Mohammad]].
+
+## Dutch use of the sagi structure
+
+The Dutch alliance policy of [[1893]] worked through the *sagi* heads: what had succeeded with [[Teukoe Oemar]] in the [[XXV Moekims]] was extended to Nja Banta in the XXVI Moekims. Its comparative failure there — attributed by Hooijer to the softness of Nja Banta's fighters and the unreliability of his brother-in-law [[T. Tjoet Toengkoeb]] — drove the Dutch back on Oemar and concentrated power in his hands.
 
 ## See Also
 
@@ -195,7 +155,6 @@ The conquest of the sagi's of Groot-Atjeh was, in Borel's account, the principal
 - [[Aceh Sultanate]]
 - [[Teuku Kali Malikon Ade]]
 - [[Oelèëbalang]]
-- [[Panglima Sagi]]
 - [[Sultans of Atjeh]]
 - [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[22 Moekims]]
@@ -218,8 +177,17 @@ The conquest of the sagi's of Groot-Atjeh was, in Borel's account, the principal
 - [[1879]]
 - [[1884]]
 - [[1898]]
+- [[Sagi der XXVI Moekims]]
+- [[Toekoe Nja Banta]]
+- [[Panglima Polim]]
+- [[Oeleebalang]]
 
-## Source
+## Sources
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 7–8, pp. 88–193.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 44–46. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, pp. 91, 94.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI, "Het bestuur van generaal van der Heijden, van Juni 1877 tot April 1881." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 30.
 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 128-129.
 
@@ -234,3 +202,7 @@ The conquest of the sagi's of Groot-Atjeh was, in Borel's account, the principal
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923); *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), where applicable.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, XIII; Extract from the service record.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 16, 50.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

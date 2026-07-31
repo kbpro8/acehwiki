@@ -1,7 +1,7 @@
 ---
-title: Selimoen
-aliases: [Selimoen, Selinoen, Atjeh-rivier Selimoen, Last Refuge of the Insurgents]
-tags: [place, kampong, acehnese, aceh-war, atjeh, 19th-century, sagi-xxvi, village, groot-atjeh]
+title: "Selimoen"
+aliases: ["Selinoen", "Atjeh-rivier Selimoen", "Last Refuge of the Insurgents", "Selimoen-rivier", "Seulimeum", "the Selimoen river"]
+tags: [place, kampong, acehnese, aceh-war, atjeh, 19th-century, sagi-xxvi, village, groot-atjeh, river, geography]
 ---
 
 **Selimoen** (also written Selimoen, Selinoen) was a kampong on the [[Aceh River|Atjeh-rivier]] in the interior of [[Acheh|Atjeh]], described as "the last refuge of the insurgents" in the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of [[13 August]] [[13 August]] – [[15 August]] [[15 August]] [[1879]], the final Dutch military operation of the first phase of the [[Aceh War|Atjeh-oorlog]]. The submission of [[Toekoe Moeda Daoed|Toekoe Moeda Daoed]] at Selimoen, and the flight of [[Panglima Polem|Panglima Polem]] and the [[Imam of Longbatta|Imam Longbatta]] to the upper lands of [[Pedir|Pedir]], closed the large-scale operations in Great Acheh; on [[5 September]] [[5 September]] [[1879]] the active columns were dissolved. In [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *De onderwerping van Atjeh*, Selimoen is the operational culmination of the [[K. van der Heijden|Van der Heijden]] conquest — the village whose occupation closed the campaign that had opened in July [[1878]] with the [[XXII Moekims]] operation and that had continued in [[1879]] with the [[XXVI Moekims]] operation, and whose reduction produced the [[Day-order of 5 September 1879|dagorder]] of [[5 September]] [[1879]] declaring *geheel Groot-Atjeh ten onder gebragt* (the whole of Greater Atjeh subdued).
@@ -46,6 +46,14 @@ The Van der Heijden conquest of Selimoen did not, however, extinguish the Atjehn
 
 Selimoen was, in Van Heutsz's later diagnosis of the post-[[1884]] hoeloebalang-politics of the XXVI Moekims, the *opgeschuurde peper* (hoarded pepper) of *T. Moeda Rajoet* — the *hoeloebalang* whose [[1890]] request to export peper via [[Olehleh|Oleh-leh]] under the condition of a *contanten* payment and free Dutch military movement through the XXVI Moekims was, in Van Heutsz's diagnosis, the *voorwaarden* (conditions) the Dutch should never accept. Van Heutsz records the request on page 106 of the [[1893]] tract: *bezit T. Moeda Rajoet bovendien nog al veel in de XXVI Moekims opgeschuurde peper, die hij in 1890 verzocht te mogen uitvoeren via Oleh-leh, onder voorwaarde dat hij f 10000 contanten zou krijgen en wij dan vrij en ongehinderd met onze troepen door de XXVI Moekims zouden kunnen marcheeren. Voorwaarden mogen ons niet gesteld worden, maar met handigen dwang bereikt men ook zijn doel* (T. Moeda Rajoet possesses besides still quite a lot of hoarded pepper in the XXVI Moekims, which in 1890 he requested permission to export via Oleh-leh, on condition that he would receive f 10000 cash and we would then be free and unhindered to march with our troops through the XXVI Moekims. Conditions may not be imposed on us, but with adroit compulsion one also achieves one's goal). The Selimoen-peper of T. Moeda Rajoet was, in Van Heutsz's diagnosis, the fiscal stake whose *handige dwang* — adroit compulsion — would convert the *hoeloebalang* from the post-[[1884]] resistance's passive supporter into the colonial state's active co-operator.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+The **Selimoen** was a river of [[Groot-Atjeh]] which joins the [[Acheh River|Atjeh-stroom]] in the deepest part of the [[Acheh River|Atjeh valley]], named by [[G. B. Hooijer]] as the far limit of the view enjoyed from the Dutch post at [[Anagaloeng]].
+
+## In Hooijer's description
+
+Contrasting the drier and healthier ground of the [[XXII Moekims]] with the marshes of the [[Sagi der XXVI Moekims|XXVI Moekims]], Hooijer wrote that the free view over the mountain masses — *als coulissen achter elkander wegschuivend tot daar, waar de Atjeh-stroom en de Selimoen-rivier zich vereenigen in het diepste gedeelte der vallei* — sliding away behind one another like stage wings to the point where the *Atjeh-stroom* and the Selimoen river unite in the deepest part of the valley, disposed the mind more to cheerfulness and vitality than the wild vegetation with which the lower lands were covered.
+
 ## See Also
 
 - [[K. van der Heyden]]
@@ -85,9 +93,15 @@ Selimoen was, in Van Heutsz's later diagnosis of the post-[[1884]] hoeloebalang-
 - [[1884]]
 - [[1890]]
 - [[1893]]
+- [[Acheh River]]
+- [[Anagaloeng]]
 
 ## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 107-108.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 18, 19, 20, 22, 84, 106. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 42.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

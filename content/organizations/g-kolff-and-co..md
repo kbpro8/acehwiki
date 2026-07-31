@@ -1,7 +1,7 @@
 ---
 title: "G. Kolff & Co."
-aliases: ["G. Kolff & Co.", "G. Kolff and Co.", "Kolff", "Firma G. Kolff", "Kolff & Co. Batavia", "G. Kolff en Co.", "G. Kolff Batavia"]
-tags: [organization, printing, publishing, colonial, dutch, batavia, 19th-century, 20th-century, colonial-publishing]
+aliases: ["G. Kolff and Co.", "Kolff", "Firma G. Kolff", "Kolff & Co. Batavia", "G. Kolff en Co.", "G. Kolff Batavia", "Kolff & Co.", "Kolff, Batavia"]
+tags: [organization, printing, publishing, colonial, dutch, batavia, 19th-century, 20th-century, colonial-publishing, publisher]
 description: "G. Kolff & Co. was a printing and publishing firm based in Batavia, the largest such enterprise in the Dutch East Indies; printed the Nederlandsch Indië Platen Atlas in 1926, produced the Neresco sigars, and co-published J. B. van Heutsz's De onderwerping van Atjeh in 1893."
 ---
 
@@ -23,6 +23,14 @@ Batavia was, in the late nineteenth century, the colonial seat of Dutch East-Ind
 
 G. Kolff & Co.'s significance in the [[Aceh Wiki History]] record is bibliographic and contextual. The firm's role as the publisher of the *Nederlandsch Indië Platen Atlas* placed it at the centre of the colonial government's jubilee publishing programme; its status as the largest printing and publishing house in the Indies made it the natural choice for a work intended for wide distribution both in the colony and in the Netherlands. The firm is also the colonial-Indies publisher of the single most important policy tract on the Atjeh-oorlog printed in the Dutch East Indies before the turn of the century — the tract in which Van Heutsz set out the diagnosis of twenty years of failed policy that would, within a decade, prepare his own elevation to the Governorship of Atjeh and, ultimately, to the Governor-Generalship of the Dutch East Indies. The dual [[De Gebroeders van Cleef]] / G. Kolff en Co. imprint is also the standard bibliographic marker by which the [[1893]] first edition of *De onderwerping van Atjeh* is identified — the marker cited on the title page and reconstructed, with the OCR-noise typical of the 1893 tract's page-scan, in the [[Aceh Wiki History]] source record.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+**G. Kolff & Co.** was the Batavia publishing and bookselling house that issued *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]* by [[G. B. Hooijer]] jointly with [[De Erven F. Bohn]] of Haarlem.
+
+## The imprint
+
+The title-page of the work names Haarlem and Batavia as the twin places of publication: *HAARLEM DE ERVEN F. BOHN. BATAVIA. G. KOLFF & Co.* Kolff was among the principal publishers of colonial military, administrative and topographical literature in the Netherlands Indies in the later nineteenth century.
+
 ## See Also
 
 - [[De Gebroeders van Cleef]]
@@ -33,9 +41,16 @@ G. Kolff & Co.'s significance in the [[Aceh Wiki History]] record is bibliograph
 - [[Batavia]]
 - [[1893]]
 - [[1926]]
+- [[De verlaten posten in Groot-Atjeh (Hooijer, 1897)]]
+- [[De Erven F. Bohn]]
+- [[G. B. Hooijer]]
 
 ## Sources
 
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Title page; Plate 324.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, title page (p. 1) and title-page verso. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, title page.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

@@ -1,26 +1,7 @@
 ---
-title: Muslemin
-aliases:
-- Moeslemin
-- Muslimin
-- Mujahideen Atjeh
-- Atjehese holy warriors
-- Holy warriors Atjeh
-- Moslemin
-- Muslims
-- Muzelmin
-- Muzelmannen
-tags:
-- concept
-- acehnese
-- religious
-- military
-- resistance
-- aceh-war
-- 19th-century
-- heiligen-oorlog
-- jihad
-- achehnese
+title: "Muslemin"
+aliases: ["Moeslemin", "Muslimin", "Mujahideen Atjeh", "Atjehese holy warriors", "Holy warriors Atjeh", "Moslemin", "Muslims", "Muzelmin", "Muzelmannen", "de Moslemin", "the Moslemin", "geestdrijvers", "Sabilbenden"]
+tags: [concept, acehnese, religious, military, resistance, aceh-war, 19th-century, heiligen-oorlog, jihad, achehnese, islam]
 ---
 
 **The Muslemin** — also written *Moeslemin*, *Muslimin* — were those Atjehers who openly took part in the holy war against the Dutch, so called after the proclamation of the [[Restoration of the Sultanate|restoration of the Sultanate]] at [[Indrapoeri|Indrapoeri]] in [[1885]]–[[1886]]. The term, designating those who had formally committed themselves to the resistance under the Sultan's authority and the religious leadership of [[Tengkoe di Tirou|Tengkoe di Tirou]] and his successor [[Tengkoe Mohamed Amin|Tengkoe Mohamed Amin]], became the standard Dutch designation for the organised Atjehese resistance in the middle and late phases of the [[Aceh War|Atjeh-oorlog]].
@@ -51,9 +32,23 @@ Kruijt uses *Muslemin* as the standard Dutch designation for the organised Atjeh
 
 The Muslemin are the organised body of the Atjehese resistance in the middle and late phases of the [[Aceh War|Atjeh-oorlog]]. Their formal constitution after the proclamation of the Sultanate at [[Indrapoeri|Indrapoeri]] in [[1885]]–[[1886]], their oath against the Dutch, their religious leadership under [[Tengkoe di Tirou|Tengkoe di Tirou]] and [[Tengkoe Mohamed Amin|Tengkoe Mohamed Amin]], and their encirclement of the Dutch line together mark the institutionalisation of the Atjehese resistance that would sustain it through the [[Concentratie-stelsel (1884-1896)|concentration system]] and the governorships of [[Demmeni|Demmeni]], [[General van Teijn|Van Teijn]], [[Pompe van Meerdervoort|Pompe]], and [[Deijkerhoff|Deijkerhoff]]. The Dutch's eventual suppression of the Muslemin — under [[Joannes Benedictus van Heutsz|Van Heutsz]] after [[1898]], on the advice of [[C. Snouck Hurgronje|Snouck Hurgronje]] — would be the principal means by which the war was brought to its conclusion.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 28, 45, 82, 111, 296.
+The **Moslemin** were the members of the Achehnese religious war-party in [[Groot-Atjeh]] — also called by [[G. B. Hooijer]] *geestdrijvers* ("fanatics") and, where they operated as armed bands, *Sabilbenden* ("[[Prang sabi|sabil]] bands") — against whom the whole system of Dutch outposts erected between [[1893]] and [[1896]] was directed.
+
+## Character in Hooijer's account
+
+Hooijer used the term to distinguish the party of religious warfare, led after the death of [[Tengkoe Sjech Saman di Tiro|Teungkoe di Tiro]] by his son [[Mat Amin|Mad Amin]], from the territorial chiefs and their populations. He described them as roving, thieving and murdering; as smoking opium in the mosque of [[Masdjid Siem]] before its capture; and as champions who, excited by opium and shrieking and leaping like madmen, led their men in defending the last redoubt at [[Anagaloeng]]. At the same time he acknowledged repeatedly that *de geestdrijvers* had lost nothing of their courage when they entered the lists against the *Kafirs*, and that the Achehnese had not forgotten how to defend himself behind his walls *met mannenmoed en doodsverachting*.
+
+## Relations with the population
+
+Hooijer's political analysis turned on the distinction between the *Moslemin* and the settled population. While the Dutch line remained closed, the *Moslemin* could tease the garrison without risk; when the line was opened and the population began to profit, the *Moslemin* attacked what the population had gained, and thereby lost its support. It was this that allowed [[Teukoe Oemar|Toekoe Oemar]] to place himself at the head of a movement against them and drive them from his *kampongs* (villages).
+
+Conversely, wherever a population dispersed — as around [[Toengkoeb]] after [[Toekoe Nja Banta]] removed [[T. Tjoet Toengkoeb|Toekoe Tjoet]]'s wives to [[Lamreng]] — the *Moslemin* immediately reoccupied the abandoned terrain and cut Dutch communications. Hooijer noted that a soldier with war experience did not need to enter the *kampongs* to know that the *Moslemin* were again masters there: he saw it in the restless movements of black figures emerging from the shade, striding over the narrow dykes, standing in small groups on a rise and vanishing again beneath the palms.
+
+## Recruitment
+
+Fighters streamed to the *Moslemin* from the coastal lands: from [[Samalanga]] alone an opponent of the pro-Dutch *[[Oeleebalang|oeleebalang]]* of that district crossed to [[Groot-Atjeh]] with two hundred followers to join [[Mat Amin]].
 
 ## See Also
 
@@ -95,7 +90,20 @@ The Muslemin are the organised body of the Atjehese resistance in the middle and
 - [[Lamkoenjit]]
 - [[Siege of Lamkoenjit (29 March–8 April 1896)]]
 - [[Main prang]]
+- [[Mat Amin]]
+- [[Tengkoe Sjech Saman di Tiro]]
+- [[Prang sabi]]
+- [[Teukoe Oemar]]
+- [[Anagaloeng]]
+- [[Masdjid Siem]]
+- [[Geconcentreerde linie]]
 
-## Source
+## Sources
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 28, 45, 82, 111, 296.
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX (the proclamation), Chapter XI (the Pompe terminology), Chapter XII (the conflict with Toekoe Oemar). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 49, 61–62, 68.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 9, 24, 26, 32, 40, 50.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

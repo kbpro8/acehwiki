@@ -1,42 +1,8 @@
 ---
-title: Tjoet Nja Din
-aliases:
-- Cut Nyak Dhien
-- Cut Nyak Din
-- Tjoet Nja Dien
-- Nja Din
-- Tjoet Nyak Dhien
-- Toekoe Nja Din
-- Nja Din of the VI Moekims
-- Teungku Nja Din
-- Njadhin
-- Toekoe Nja Djin
-- wife of Toekoe Oemar
-- Nya Din
-tags:
-- person
-- woman
-- aceh
-- aceh-war
-- westkust
-- 19th-century
-- 20th-century
-- resistance
-- oemar
-- achehnese
-- religious
-- women-leaders
-- diplomacy
-- female-leader
-- acheh-war
-- vi-moekims
-description: Third wife of Teukoe Oemar, 'een der grootste vrouwenfiguren' of the
-  Aceh War; after Oemar's death in 1899 she took to the forests, blind, and held out
-  for six years on infusion of wild banana stalk until betrayed to Veltman, stabbing
-  at her betrayer with her rentjong and preserving her 'Kaphé' hatred to the end.
-  In Kruisheer's ATJEH '96 she is identified as the daughter of Toekoe Nanta Tocha
-  of the VI Moekims and the most important female agitator behind Umar's defection
-  of 29 March 1896.
+title: "Tjoet Nja Din"
+aliases: ["Cut Nyak Dhien", "Cut Nyak Din", "Tjoet Nja Dien", "Nja Din", "Tjoet Nyak Dhien", "Toekoe Nja Din", "Nja Din of the VI Moekims", "Teungku Nja Din", "Njadhin", "Toekoe Nja Djin", "wife of Toekoe Oemar", "Nya Din", "Potjoet Nja Din", "Tjut Nja Dhien", "Potjoet Nja Din of the IV and VI Moekims"]
+tags: [person, woman, aceh, aceh-war, westkust, 19th-century, 20th-century, resistance, oemar, achehnese, religious, women-leaders, diplomacy, female-leader, acheh-war, vi-moekims, women, nobility]
+description: "Third wife of Teukoe Oemar, 'een der grootste vrouwenfiguren' of the Aceh War; after Oemar's death in 1899 she took to the forests, blind, and held out for six years on infusion of wild banana stalk until betrayed to Veltman, stabbing at her betrayer with her rentjong and preserving her 'Kaphé' hatred to the end. In Kruisheer's ATJEH '96 she is identified as the daughter of Toekoe Nanta Tocha of the VI Moekims and the most important female agitator behind Umar's defection of 29 March 1896."
 ---
 
 **Tjoet Nja Din** — modern *Cut Nyak Dhien*, also written *Tjoet Nyak Dhien* — was the third wife of [[Teukoe Oemar]] and, in Zentgraff's phrase, *een der grootste vrouwenfiguren* (one of the greatest female figures) of the time of action in [[1896]] and the years that followed. Her brother was T. Rajeu Nanta. After the fall of her husband near [[Meulaboh]] in [[February]] [[1899]] she chose the life of the forests over submission, and held on even as her following gradually melted away. In Kruisheer's *ATJEH '96* she is further identified as an [[Achehnese]] noblewoman, the daughter of [[Toekoe Nanta Tocha]] of the [[VI Moekims]] and one of the wives of [[Teuku Umar]], who figures as the most important female agitator behind Umar's defection from the [[Dutch]] colonial government on [[29 March]] [[1896]]. Kruisheer identifies her unambiguously as "one of the Dutch government's greatest opponents" who "continuously urged Oemar to resist the government, *just as zij zelve dat later nog lang volhield*" (as she herself continued to do for a long time afterward).
@@ -63,9 +29,17 @@ Her hatred of the *kaphé* she carried to the end. Zentgraff pairs her with the 
 
 Though Kruisheer devotes only a few sentences to Tjoet Nja Din, her role is presented as decisive: she is the figure who kept Umar committed to the path of defection when the political and military odds still favoured continued alliance with the Dutch, and she is the only woman in *ATJEH '96* given direct political agency. Her combination of aristocratic standing, religious credibility through the *oelama* network, and family ties to the VI Moekims made her a unique force within the resistance, and her survival beyond Umar's own death in [[1899]] would carry her resistance forward into the next decade. The brief portrait in *ATJEH '96* thus captures her at the moment of her historical emergence.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 2–4 (Toekoe Oemar — Zijn Verraad).
+**Tjoet Nja Din** — written by [[G. B. Hooijer]] as *Potjoet Nja Din* — was the Achehnese noblewoman of the [[IV Moekims]] and [[VI Moekims]] whose marriage to [[Teukoe Oemar|Toekoe Oemar]] was named by Hooijer as one of the chief foundations of his rise from the head of a crossroads settlement to an influential and feared figure in Achehnese society.
+
+## Marriage and influence
+
+Hooijer wrote that Toekoe Oemar had climbed *van pertigganeershoofd van deftige familie* to become an influential and feared person in Achehnese society by virtue of his marriages with the daughters of several great families on the [[Westkust|West Coast]] and in [[Atjeh]] — *onder anderen met de, in de IV en VI Moekims zoo machtige Potjoet Nja Din*, "among others with Potjoet Nja Din, so powerful in the IV and VI Moekims" — together with his energetic character, his cunning and cultivation, his enterprise and his liberality.
+
+## Significance (Hooijer's account)
+
+Hooijer's brief notice locates the source of Oemar's authority in affinal alliance with the established nobility of the western *moekims* rather than in inherited rank, and thus explains why Dutch policy in [[Groot-Atjeh]] came to depend on a single individual whose standing rested on kinship networks the colonial administration neither controlled nor fully understood.
 
 ## See Also
 
@@ -102,9 +76,17 @@ Though Kruisheer devotes only a few sentences to Tjoet Nja Din, her role is pres
 - [[Toekoe Oemar's defection (1896)]]
 - [[Habib Long]]
 - [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[IV Moekims]]
+- [[Sister of Habib Samalanga]]
 
-## Source
+## Sources
+
+*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 2–4 (Toekoe Oemar — Zijn Verraad).
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 42, 45–46.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 9.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

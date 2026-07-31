@@ -1,7 +1,7 @@
 ---
-title: Tengkoe Sjech Saman di Tiro
-aliases: [Tgk. Sjech Saman di Tiro, Tengkoe Sech Saman di Tiro, Hadji Sjech Saman Tirou, Sjech Saman Tiro, Tgk. di Tiro, Tiro-oelama]
-tags: [person, oelama, religious-leader, aceh, aceh-war, tiro, pidie, 19th-century, resistance, prang-sabil, sjahid]
+title: "Tengkoe Sjech Saman di Tiro"
+aliases: ["Tgk. Sjech Saman di Tiro", "Tengkoe Sech Saman di Tiro", "Hadji Sjech Saman Tirou", "Sjech Saman Tiro", "Tgk. di Tiro", "Tiro-oelama", "Teungkoe di Tiro", "Oelama Teungkoe di Tiro", "Teungku di Tiro", "Tengkoe di Tiro", "Sjech Saman di Tiro"]
+tags: [person, oelama, religious-leader, aceh, aceh-war, tiro, pidie, 19th-century, resistance, prang-sabil, sjahid, achehnese, religious, military]
 description: "Head of the Tiro-oelama family and the most influential of all Acehnese resistance leaders, who organised the prang sabil from the 1870s until his death in January 1891 and whose sons and grandsons carried the war forward to the last of them in 1910."
 ---
 
@@ -27,6 +27,28 @@ Tgk. Sjech Saman did not live to see the downfall of his house; the reckoning wa
 
 His grave, beside that of his son Mat Amin who fell at [[Aneukgalong]] in [[1896]], lies at kampong Moereuë near [[Indrapoeri]], under a small white-draped *kandang* that is still honoured.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+**Tengkoe Sjech Saman di Tiro** — named by [[G. B. Hooijer]] as *Oelama Teungkoe di Tiro* — was the *[[Oelama|oelama]]* who led the Achehnese in the holy war against the Netherlands in [[Groot-Atjeh]], who breathed his last at [[Anagaloeng]], and whose house-timbers, taken from the planks of a Dutch bridge, later served as the officers' quarters of the Dutch *benteng* built on the same spot.
+
+## Supremacy in the XXVI Moekims
+
+Hooijer recorded that the priestly party under Teungkoe di Tiro had for years been supreme (*oppermachtig*) in the [[Sagi der XXVI Moekims|XXVI Moekims]], and that [[T. Tjoet Toengkoeb|Toekoe Tjoet Toengkoeb]] had long made common cause with it, laying aside the *[[Klewang|klewang]]* only when [[General‑Major Van Teyn|General Van Teyn]] granted him a salary on condition that he cease fighting the Dutch.
+
+## The failed campaign against the geconcentreerde linie
+
+Hooijer summarised the *oelama*'s life-aim as being to drive the Dutch out of [[Atjeh]] and himself to become spiritual supreme head there, and judged that he had missed it: the *[[Geconcentreerde linie|geconcentreerde linie]]* had proved too strong for him. He had once penetrated within it with his well-disciplined troops in order to pray at holy graves, but [[General Vetter|Kolonel Vetter]] had driven him out again. He had harassed the line strongly from [[Kota Toeankoe]], but that fortification too had fallen into Dutch hands by storm and been slighted, a few months after the Dutch had suffered so great a loss before it. Finally his proposal was rejected — that he should reconcile himself with the [[Proclamation of the Pretender Sultan|pretender-Sultan]] and persuade him to submit to the Dutch, on the reservation that he himself should then become the pretender's *rijksbestuurder* (chancellor of the realm).
+
+## Death at Anagaloeng
+
+His influence with friend and foe having declined, Hooijer wrote, he died *als een zedelijk en lichamelijk gebroken man* — a morally and physically broken man. He breathed his last at [[Anagaloeng]], lying on the gravestone that had been erected there for [[Kapitein Miseroy]] at the time when the Dutch were still masters of the place.
+
+Hooijer further reported, as hearsay (*naar men zeide*), that his son [[Mat Amin|Mad-Amin]] had poisoned him in rage over the strictures the *oelama* had made on his immoral conduct.
+
+## Posthumous traces at Anagaloeng
+
+When the Dutch built their model *benteng* at [[Anagaloeng]], the large Achehnese dwelling that served as officers' quarters was, Hooijer recorded, the house that Teungkoe di Tiro had raised *uit de dekplanken van onze brug* — from the deck-planks of the Dutch bridge over the [[Acheh River|Atjeh-rivier]]. Under that house the officers kept a cool salon floored with red brick, with rattan chairs and the inscription *Monaco* inviting them to play.
+
 ## See Also
 
 - [[Tiro-oelama]]
@@ -48,7 +70,20 @@ His grave, beside that of his son Mat Amin who fell at [[Aneukgalong]] in [[1896
 - [[Tangsé]]
 - [[Pidië]]
 - [[Indrapoeri]]
+- [[Anagaloeng]]
+- [[Mat Amin]]
+- [[Oelama]]
+- [[Geconcentreerde linie]]
+- [[Kota Toeankoe]]
+- [[General Vetter]]
+- [[Kapitein Miseroy]]
+- [[Sagi der XXVI Moekims]]
+- [[Prang sabi]]
 
-## Source
+## Sources
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 24, 48, 50.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

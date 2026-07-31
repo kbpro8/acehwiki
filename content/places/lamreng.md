@@ -1,23 +1,7 @@
 ---
-title: Lamreng
-aliases:
-- Lamreng (XXV Moekims)
-- the post at Lamreng
-- Lam Reueng
-- Lamreueng
-- Lam-reueng
-- Lamreueng (XXVI Mukims)
-tags:
-- place
-- military-post
-- aceh-war
-- 1892
-- aceh
-- xxv-moekims
-- groot-atjeh
-- geconcentreerde-linie
-- gampong
-- xxvi-mukims
+title: "Lamreng"
+aliases: ["Lamreng (XXV Moekims)", "the post at Lamreng", "Lam Reueng", "Lamreueng", "Lam-reueng", "Lamreueng (XXVI Mukims)", "Lam Reng"]
+tags: [place, military-post, aceh-war, 1892, aceh, xxv-moekims, groot-atjeh, geconcentreerde-linie, gampong, xxvi-mukims, kampong]
 ---
 
 **Lamreng** was a Dutch military post in the [[XXV Moekims]] of [[Groot-Atjeh]] — one of the two principal posts (the other being [[Lambaroe]]) at the south-eastern corner of the Dutch *geconcentreerde linie* in the late *concentratie* period. The post was the seat of the *linie-commandant* (line-commandant) for the Lamreng sector, and it was one of the principal bases for the operations against the Atjehnese fortification of [[Kaloet]] — a fortification that lay approximately 800 metres from the *spoorbaan* (railway line) between Lambaroe and Lamreng.
@@ -46,9 +30,13 @@ The [[Atjeh-Album (Eigen Haard, 1896)|Atjeh-Album]] records that, on [[4 August]
 
 Lamreng's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]] is as one of the two principal posts at the south-eastern corner of the Dutch *geconcentreerde linie* — the post whose *linie-commandant* commanded the sector opposite the Atjehnese fortification of [[Kaloet]]. The post's role in the [[De Strijd om Kaloet (1892)|Strijd om Kaloet]] of [[1892]] and [[1893]] — as the base for the night-patrols of Lieutenant [[Brant]], the reconnaissance of Captain [[Jhr. Graafland|Graafland]], the assault of [[1 October]] [[1892]] and the artillery support of [[Toekoe Oemar]]'s [[Capture of Kaloet by Toekoe Oemar (August 1893)|capture of Kaloet]] of [[August]] [[1893]] — places it as one of the principal operational centres of the late *concentratie* period.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+**Lamreng** was a place within the *[[Geconcentreerde linie|geconcentreerde linie]]* of [[Groot-Atjeh]] to which [[Toekoe Nja Banta]] had the wives of [[T. Tjoet Toengkoeb|Toekoe Tjoet]] transferred from the [[Toengkoeb]] district, an act which caused the general dispersal of that chief's population.
+
+## The transfer and its consequences
+
+Hooijer recorded that, having little success in resuming hostilities, [[Toekoe Nja Banta]] caused *de vrouwen van zijn vroegeren medestrijder uit zijn gebied om Toengkoeb naar Lamreng, in de geconcentreerde linie, te doen overbrengen* — the women of his former fellow-combatant to be brought from his territory around Toengkoeb to Lamreng within the concentrated line — and thereby provoked a general dispersal of that population. Of this the *[[Moslemin]]* immediately took advantage, occupying the abandoned terrain and breaking communications between the Dutch establishments at [[Kroeng Kali]] and [[Toengkoeb]].
 
 ## See Also
 
@@ -80,7 +68,16 @@ Lamreng's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]
 - [[Dalam]]
 - [[Murder of Teuku Chut Lamreueng in Pidie]]
 - [[Disputed succession to the panglimaship of the XXVI Mukims]]
+- [[Toekoe Nja Banta]]
+- [[T. Tjoet Toengkoeb]]
+- [[Toengkoeb]]
 
-## Source
+## Sources
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 25, 30–33 (De Strijd om Kaloet — Eene herinnering uit den Atjeh-oorlog).
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 24.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

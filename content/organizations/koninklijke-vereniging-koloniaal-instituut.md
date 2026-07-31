@@ -1,60 +1,8 @@
 ---
-title: Koninklijke Vereeniging Koloniaal Instituut
-aliases:
-- Koninklijke Vereniging Indisch Instituut
-- Koninklijk Koloniaal Instituut
-- Koninklijk Indisch Instituut
-- Koloniaal Instituut Amsterdam
-- K.I.
-- Kon. Vereeniging Koloniaal Instituut
-- the Amsterdam Colonial Institute
-- Royal Colonial Institute Amsterdam
-- Royal Association Colonial Institute
-- Koloniaal Instituut Afd. Volkenkunde
-- Afdeeling Volkenkunde van het Indisch Instituut
-- Koninklijke Vereeniging Indisch Instituut
-- Royal Tropical Institute predecessor
-- Kon. Ver. Koloniaal Instituut
-- Royal Colonial Institute (Amsterdam)
-- Koloniaal Instituut
-- Colonial Institute Amsterdam
-- Royal Colonial Institute
-- Koninklijk Instituut voor de Tropen
-- Royal Tropical Institute
-- KIT
-- Koninklijk Instituut voor de Tropen Amsterdam
-- KIT Amsterdam
-- Bureau Cursussen en Vertalingen
-- Het Koloniaal Instituut
-- Amsterdamsch Koloniaal Instituut
-tags:
-- organization
-- institution
-- dutch
-- colonial
-- ethnography
-- ethnology
-- amsterdam
-- publishing
-- colonial-institute
-- research-institution
-- 20th-century
-- science
-- aceh
-- terpentijn
-- scientific
-- koloniaal-instituut
-- research
-- berichten
-- handelsmuseum
-- post-colonial
-- koninklijk-instituut-voor-de-tropen
-- scholarly-institution
-- 19th-century
-- kruijt-1896-publisher
-description: Amsterdam-based Dutch colonial-ethnographic institute; founded as the
-  Koloniaal Instituut, reorganised after Indonesian independence as the Indisch Instituut,
-  and the predecessor of the Royal Tropical Institute.
+title: "Koninklijke Vereeniging Koloniaal Instituut"
+aliases: ["Koninklijke Vereniging Indisch Instituut", "Koninklijk Koloniaal Instituut", "Koninklijk Indisch Instituut", "Koloniaal Instituut Amsterdam", "K.I.", "Kon. Vereeniging Koloniaal Instituut", "the Amsterdam Colonial Institute", "Royal Colonial Institute Amsterdam", "Royal Association Colonial Institute", "Koloniaal Instituut Afd. Volkenkunde", "Afdeeling Volkenkunde van het Indisch Instituut", "Koninklijke Vereeniging Indisch Instituut", "Royal Tropical Institute predecessor", "Kon. Ver. Koloniaal Instituut", "Royal Colonial Institute (Amsterdam)", "Koloniaal Instituut", "Colonial Institute Amsterdam", "Royal Colonial Institute", "Koninklijk Instituut voor de Tropen", "Royal Tropical Institute", "KIT", "Koninklijk Instituut voor de Tropen Amsterdam", "KIT Amsterdam", "Bureau Cursussen en Vertalingen", "Het Koloniaal Instituut", "Amsterdamsch Koloniaal Instituut", "Kon. Inst. v/d Tropen", "Centrale Boekerij Amsterdam"]
+tags: [organization, institution, dutch, colonial, ethnography, ethnology, amsterdam, publishing, colonial-institute, research-institution, 20th-century, science, aceh, terpentijn, scientific, koloniaal-instituut, research, berichten, handelsmuseum, post-colonial, koninklijk-instituut-voor-de-tropen, scholarly-institution, 19th-century, kruijt-1896-publisher, library]
+description: "Amsterdam-based Dutch colonial-ethnographic institute; founded as the Koloniaal Instituut, reorganised after Indonesian independence as the Indisch Instituut, and the predecessor of the Royal Tropical Institute."
 ---
 
 **The Koninklijke Vereeniging Koloniaal Instituut** — the Royal Association "Colonial Institute" — was the Amsterdam-based Dutch colonial-ethnographic institute that served, throughout the late colonial period, as the principal metropolitan centre for the scholarly and commercial study of the [[Netherlands Indies|Netherlands Indies]]. Established in [[Amsterdam|Amsterdam]] as a private association — *Vereeniging* — with royal patronage (*Koninklijke*), the institute was reorganised after Indonesian independence as the **Koninklijke Vereniging "Indisch Instituut"** (Royal Society "Indies Institute"), under which name it issued its post-war series of *Mededeelingen* (Communications). Through its Ethnography Department — the *Afdeeling Volkenkunde* — and its publishing programme, the institute was, in both its pre- and post-reorganisation phases, one of the principal metropolitan venues for the comparative ethnology of the archipelago, including the comparative ethnology of Islam in [[Java|Java]] and [[Aceh|Atjeh]].
@@ -103,11 +51,13 @@ The institute's institutional continuity — through the Japanese occupation, th
 
 The Koninklijke Vereeniging Koloniaal Instituut / Indisch Instituut of Amsterdam is a distinct institution from the [[Koninklijke Vereeniging Koloniaal Instituut|Koninklijke Vereeniging Koloniaal Instituut]] (KITLV) of [['s-Gravenhage|The Hague]], which was founded in [[1851]] as a learned society for the philology, geography, and ethnology of the Netherlands Indies and is treated in a separate AcehWiki entry. The two institutions are often confused in popular usage but were independent foundations in different cities with different publication programmes (the *Mededeelingen* of the Amsterdam institute, the *Bijdragen tot de Taal-, Land- en Volkenkunde* of the KITLV).
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*Atjeh Patchouli-Olie*, by Ir. W. Spoon. Berichten van de Afdeeling Handelsmuseum van de Kon. Vereeniging Koloniaal Instituut, No. 71. Overgedrukt uit *De Indische Mercuur* van [[20 July]] [[1932]]. Amsterdam: Druk J. H. de Bussy. List of Berichten on the inside covers.
-*De staatkundige ontwikkeling van Indonesië in de 20e eeuw*, uitgave van het Bureau Cursussen en Vertalingen van het Koninklijk Instituut voor de Tropen (Amsterdam: Koninklijk Instituut voor de Tropen). Title page and imprint.
-*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Title page. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 5.
+The **Koninklijk Instituut voor de Tropen** — the Royal Tropical Institute at Amsterdam — is the holding institution of the copy of *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]* from which the text of the work is known.
+
+## The stamp
+
+The preliminary and final leaves of the copy bear the stamp *Kon. Inst. v/d Tropen, CENTRALE BOEKERIJ, AMSTERDAM* — the Central Library of the Royal Tropical Institute — together with the shelf notation *10 12 F 91-27* and the accession sequence *14 0300 0128 7586*.
 
 ## See Also
 
@@ -172,9 +122,20 @@ The Koninklijke Vereeniging Koloniaal Instituut / Indisch Instituut of Amsterdam
 - [[Atjeh-oorlog]]
 - [[Defection of Teuku Umar (March 1896)]]
 - [[1896]]
+- [[De verlaten posten in Groot-Atjeh (Hooijer, 1897)]]
+- [[G. B. Hooijer]]
+- [[De Erven F. Bohn]]
 
-## Source
+## Sources
+
+*Atjeh Patchouli-Olie*, by Ir. W. Spoon. Berichten van de Afdeeling Handelsmuseum van de Kon. Vereeniging Koloniaal Instituut, No. 71. Overgedrukt uit *De Indische Mercuur* van [[20 July]] [[1932]]. Amsterdam: Druk J. H. de Bussy. List of Berichten on the inside covers.
+*De staatkundige ontwikkeling van Indonesië in de 20e eeuw*, uitgave van het Bureau Cursussen en Vertalingen van het Koninklijk Instituut voor de Tropen (Amsterdam: Koninklijk Instituut voor de Tropen). Title page and imprint.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Title page. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 5.
 
 *Indonesische Kunstnijverheid. Platen-Atlas met Inleiding van Prof. T. J. Bezemer* ('s-Gravenhage: N.V. tot Exploitatie van het Maandblad "Nederl-Indië, Oud en Nieuw"; ten Hagen's Drukkerij en Uitgeversmaatschappij N.V., 15 October 1933), title-page (citing the institute's *medewerking*) and *Verzameling / Collection / Sammlung* appendix, pp. 169–170 (citing the institute's *Afd. Volkenkunde, Amsterdam* as the lender of plates 62, 65, 66, and others). Universiteitsbibliotheek Vrije Universiteit, Amsterdam, LS 5411.
 
 *De Islaam in Indonesië (in het bijzonder op Java)*, by Drs. R. L. Mellema, Oud-Leraar in de Javaansche Taal en Letterkunde aan de Oosters Letterkundige Afdeeling van de Algemene Middelbare School te Djogjakarta, Taalkundig Medewerker bij de Afdeeling Volkenkunde van het Indisch Instituut te Amsterdam. Mededeling No. LXXVII, Afd. Volkenkunde No. 25. Amsterdam: Koninklijke Vereniging "Indisch Instituut," 1947. Title page and imprint.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, title page and final leaf.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

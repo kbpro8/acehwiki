@@ -1,35 +1,7 @@
 ---
-title: Bamboe-doeri versperringen
-aliases:
-- bamboo-thorn barricades
-- bamboe-doeri
-- bamboo thorn barriers
-- Acehnese bamboo barricades
-- bamboo-doeri
-- Bamboedoeri
-- bamboe doeri
-- thorny bamboo barrier
-- Bamboe-doerie
-- Bamboe doerie
-- Bamboe doeri beplanting
-- Bamboo-doerie
-- Bambu Duri
-- Doornbamboe
-- Thorny bamboo
-- Thorny Bamboo Pallisade
-tags:
-- concept
-- acehnese
-- military
-- fortification
-- defense
-- bamboo
-- aceh-war
-- botany
-- malay
-- terminology
-- dutch
-- vegetation
+title: "Bamboe-doeri versperringen"
+aliases: ["bamboo-thorn barricades", "bamboe-doeri", "bamboo thorn barriers", "Acehnese bamboo barricades", "bamboo-doeri", "Bamboedoeri", "bamboe doeri", "thorny bamboo barrier", "Bamboe-doerie", "Bamboe doerie", "Bamboe doeri beplanting", "Bamboo-doerie", "Bambu Duri", "Doornbamboe", "Thorny bamboo", "Thorny Bamboo Pallisade", "bamboo doeri", "thorn bamboo hedge", "bamboe-doeri stoelen"]
+tags: [concept, acehnese, military, fortification, defense, bamboo, aceh-war, botany, malay, terminology, dutch, vegetation, achehnese]
 ---
 
 The **[[Bamboe-doeri versperringen|bamboe-doeri versperringen]]** (bamboo-thorn barricades) were the chief Atjehnese defensive works — thickets of thorny bamboo planted and woven to form impenetrable barriers around kampongs, bentengs, borstweringen and grachten. Borel mentions bamboo-doeri throughout *Onze vestiging in Atjeh* as the characteristic Atjehnese fortification, concealing the enemy's stellingen "als een tijger die op zijn prooi loert" (like a tiger lurking for its prey) and obstructing every Dutch advance. The bamboo-doeri was, in effect, the Atjehnese equivalent of the European *abatis* or wire entanglement — a cheap, effective and locally abundant obstacle that the Dutch could only overcome by *kappen en branden* (cutting and burning) or by artillery fire.
@@ -51,6 +23,20 @@ The bamboo-doeri played a central role in Atjehnese defense. The [[Storming of t
 ## The Dutch Counter-Measures
 
 The Dutch counter-measures against the bamboo-doeri were of two kinds: *kappen* (cutting) and *branden* (burning). The *kappen* was the work of the woodcutters — a labour that exposed them to Atjehnese fire from behind the bamboo-doeri thickets, and that was repeatedly the occasion of Dutch casualties. The [[Battle outside the ooster-face (13 October 1874)|battle outside the ooster-face]] of [[13 October]] [[1874]] — when a strong column under [[Kapitein van der Straate|kapitein van der Straate]] tried to penetrate the wilderness before sunrise, and the woodcutters who began at 6 AM were attacked from all sides — was a typical example. The *branden* was the burning of kampongs from which the Dutch were fired on — a measure that [[Jan van Swieten|van Swieten]] had prohibited as a humane policy and that [[Generaal Pel|Pel]] had reversed. The *stormvrijheid* — the cleared field of fire that Borel advocates throughout the book — was, in effect, the Dutch counter-measure against the bamboo-doeri: the removal of the thorny thickets from the immediate vicinity of Dutch posts so that the Atjehnese charge could be broken by *salvoes* of Beaumont-geweer fire before the warriors could close. The *stormvrijheid* was, however, only achieved by sustained and costly labour, and the Dutch posts were never wholly free of the bamboo-doeri that grew up to their very parapets.
+
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+**Bamboe doeri** — thorn bamboo — was the plant used by the Achehnese as the principal outer obstacle of their *[[Benteng|bentengs]]* in [[Groot-Atjeh]], which [[G. B. Hooijer]] judged more effective than the Dutch *[[IJzerdraadversperring|ijzerdraadversperring]]*.
+
+## Description
+
+Describing the *benteng* of [[T. Tjoet Toengkoeb]] near [[Kroeng Kali]], Hooijer wrote that the walls, revetted upright with stone on the inner side, were unrecognisable from the outside *achter den breeden gordel van slanke stammen der bamboe-doeri stoelen, die hen geheel omringen en waarvan de honderde zwiepende takjes bezet zijn met haakvormige doornen, allen toegang beter afsluitend dan de beste ijzerdraadversperring* — behind the broad girdle of slender stems of the *bamboe doeri* stools that entirely surround them, whose hundreds of whipping twigs are set with hooked thorns, closing every access better than the best wire entanglement.
+
+Only along a narrow passage winding through the broad *bamboe doeri* hedge, and leading over a ditch, could one reach the front of the great bastion; and to reach the entrance of the *benteng* itself, covered by a *traverse* (traverse (blast wall)), one had to follow the narrow passage between the hedge and half the eastern wall.
+
+## Tactical consequence
+
+Hooijer drew the conclusion that such small strongholds, concealed amid the dense vegetation of the *kampongs* (villages), were usually discovered only when one stood close before them, and then only by the bullets whizzing out of an opaque green curtain of bamboo leaves — a fact that, he wrote, needed no further demonstration of the difficulty of capturing them.
 
 ## See Also
 
@@ -80,6 +66,8 @@ The Dutch counter-measures against the bamboo-doeri were of two kinds: *kappen* 
 - [[Bataillon Mineurs en Sappeurs]]
 - [[Lilla]]
 - [[Aceh War]]
+- [[Kroeng Kali]]
+- [[T. Tjoet Toengkoeb]]
 
 ## Sources
 
@@ -90,3 +78,7 @@ The Dutch counter-measures against the bamboo-doeri were of two kinds: *kappen* 
 *Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.
 D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944|1944]]), p. 27. Koninklijke Bibliotheek shelfmark 0301 4872.
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 34, 36.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

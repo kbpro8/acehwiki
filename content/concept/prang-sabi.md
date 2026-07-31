@@ -1,72 +1,9 @@
 ---
-title: Prang sabi
-aliases:
-- Prang Sabil
-- Perang Sabil
-- the Atjehnese holy war
-- holy war (Atjeh)
-- sabil
-- sabililah
-- jihad
-- Acehnese holy war
-- de prang sabil
-- war of the sabil
-- heilige oorlog
-- Holy War
-- Heiligen Krijg
-- Heiligen Oorlog
-- geloofsoorlog
-- djihad
-- fi sabil Allah
-- Sabil Allah
-- Sabilillah
-- Prang sabil as understood in the Tweede Kamer (1897)
-- prang sabil in the 1897 debate
-- heilige oorlog Atjeh 1897
-- the holy war of Atjeh in Dutch parliamentary debate
-- Holy War against the Dutch
-- Jihad against the Dutch
-- Sabilullah
-- Holy War in Acheh
-- Holy War (Jihad) against the Dutch
-- Heiligen-oorlog Atjeh
-- Holy War Atjeh
-- Jihad Atjeh
-- Atjeh Jihad
-- Prang sabi (Holy War)
-- Sabi war
-- Sab'il Allah
-- War in the way of God
-tags:
-- concept
-- achehnese
-- religious
-- military
-- resistance
-- doctrine
-- acheh
-- islam
-- war
-- atjeh
-- aceh-war
-- 19th-century
-- colonial
-- islamic
-- aceh
-- prang-sabil
-- jihad
-- religion
-- parliament
-- 1897
-- event
-- political
-- acehnese
-- muslemin
-- holy-war
-- jakeuet
-- ulama
-- conflict
+title: "Prang sabi"
+aliases: ["Prang Sabil", "Perang Sabil", "the Atjehnese holy war", "holy war (Atjeh)", "sabil", "sabililah", "jihad", "Acehnese holy war", "de prang sabil", "war of the sabil", "heilige oorlog", "Holy War", "Heiligen Krijg", "Heiligen Oorlog", "geloofsoorlog", "djihad", "fi sabil Allah", "Sabil Allah", "Sabilillah", "Prang sabil as understood in the Tweede Kamer (1897)", "prang sabil in the 1897 debate", "heilige oorlog Atjeh 1897", "the holy war of Atjeh in Dutch parliamentary debate", "Holy War against the Dutch", "Jihad against the Dutch", "Sabilullah", "Holy War in Acheh", "Holy War (Jihad) against the Dutch", "Heiligen-oorlog Atjeh", "Holy War Atjeh", "Jihad Atjeh", "Atjeh Jihad", "Prang sabi (Holy War)", "Sabi war", "Sab'il Allah", "War in the way of God", "Sabilbenden"]
+tags: [concept, achehnese, religious, military, resistance, doctrine, acheh, islam, war, atjeh, aceh-war, 19th-century, colonial, islamic, aceh, prang-sabil, jihad, religion, parliament, 1897, event, political, acehnese, muslemin, holy-war, jakeuet, ulama, conflict]
 ---
+
 **Prang sabi** (Atjèhnese, from the Arabic *fi sabil Allah*, "in the path of God"; English "holy war") is the Atjèhnese term for the religious duty, incumbent on every Muslim in time of conflict with the infidel, of taking up arms against the *[[kaphé|kaphé]]* (unbeliever) — a duty that, in Atjèh, attained a prominence and an intensity "to a higher degree inherent in the Acehnese than in most of their co-religionists elsewhere, who, taught by experience, have set it aside as no longer of this time." The doctrine is the central religious concept of Atjèhnese resistance — the thread that runs from the [[Aceh War|Atjèh War]] of [[1873]]–[[1904]] through the [[Bakóngan uprising (1925–1927)|Bakóngan uprising]] and the [[Lhóng action (1933)|Lhóng action of 1933]] to the [[Japanese invasion of Atjèh|Japanese invasion]] of [[1942]] — and the reason the colonial army could not, by arms alone, end the resistance.
 
 ## The hikajat prang sabi
@@ -103,11 +40,9 @@ In [[1942]] the duty of *prang sabi* was reawakened across Atjèh. The Japanese 
 
 *Prang sabi* is the central religious concept of Atjèhnese resistance. It explains why the colonial army could not, by arms alone, end the resistance: it had to wait for the last heir of the doctrine to fall. The generational arc of the Tiriō family — from [[Teungkoe Sjech Saman di Tiri]] to the boy [[Tgk. Tjhi Ma'at]], an infant when his father fell in [[1896]] and the last leader of the bende when he died in [[1911]] at fifteen — is the human face of the doctrine. The tearing of the relics at [[Tangsé]] is the book's quiet acknowledgement that the doctrine, far from being extinguished by the killing of its last heir, was made permanent in the country's religious memory.
 
-
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
 
 The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
-
 
 **Prang Sabil** — Acehnese: *prang sabil*, "holy war" — is the Atjehnese doctrine of religious war against the infidel invader, invoked in the [[W. H. Vermeulen|Vermeulen]]-period parliamentary debates principally by [[Rutgers van Rozenburg|Rutgers van Rozenburg]] (lib.) in his [[1904]] defence of the conduct of the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]]. The *prang sabil* doctrine was, in the [[A. W. F. Idenburg|Idenburg]]-[[C. Snouck Hurgronje|Snouck Hurgronje]] reading, the religious frame within which the Atjehnese resistance was organised; its neutralisation was, accordingly, a principal political aim of the [[Pacificatie van Atjeh|pacificatie]].
 
@@ -168,6 +103,20 @@ The Dutch response, in Van Heutsz's prescription, was therefore to separate the 
 ### Significance of the Van Heutsz account
 
 The *sabil*'s significance in the [[Aceh Wiki History]] record, in Van Heutsz's 1893 diagnosis, rests on four things: it was the Islamic concept of holy war by which the Acehnese *ulama*, led by Tengkoe di Tirou after the [[1884]] Concentratie, rallied the *geloovigen* against the Dutch "*ongeloovigen indringer*" — and so the religious-political apparatus by which the post-[[1884]] resistance was unified under a single religious command; it was the concept whose Koranic justification — "*de koran zelf voorschrijft, dat een geloovige zich nooit anders aan een ongeloovige mag onderwerpen, dan genoodzaakt door dwang*" — fixed the Dutch response as the operational *dwang* of the *scheepvaartregeling*-cum-closure, the only ground of submission the Koran itself authorises; it was the concept whose religious unity was broken by Tengkoe di Tirou's over-reach into the worldly authority of the *panglima sagi XXVI* — the over-reach whose effect was to shatter the unified command of the post-[[1884]] resistance and to fragment the *bendehoofden* into their separate commands; and it was the concept whose operational form — the *fanatieken opgezweept door priesters* — fixed the Dutch prescription as the separation of the *wettige hoofden* from the *fanatieken* by the fiscal leverage of the *scheepvaartregeling*. The *sabil* is, in Van Heutsz's narrative, the religious-political predicate the twenty-year policy oscillation had failed to overcome, and the operational counter-predicate — the *dwang* the Koran itself authorises — the 1893 tract prescribes.
+
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+**Prang sabi** — the holy war, whose adherents formed the *Sabilbenden* or *sabil* bands of Dutch usage — was the religious framework of Achehnese armed resistance in [[Groot-Atjeh]], invoked throughout *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]* as the motive of the *[[Moslemin]]*.
+
+## The sabil bands
+
+[[G. B. Hooijer]] recorded that the 2,400 auxiliaries assembled under [[Teukoe Oemar|Toekoe Djohan]] on [[2 November]] [[1893]] were to drive *de Sabilbenden* out of the [[Sagi der XXVI Moekims|XXVI Moekims]], and that the *kampong* (village) of [[Hoengtjala]] was *die voorraadschuur en veilige wijkplaats der sabilbenden* — the storehouse and safe refuge of the *sabil* bands — before it was given over to plunder and fire.
+
+## Leadership and self-devotion
+
+The spiritual leader of the Achehnese *in den heiligen strijd* was, in Hooijer's account, the *[[Oelama|oelama]]* [[Tengkoe Sjech Saman di Tiro|Teungkoe di Tiro]], succeeded by his son [[Mat Amin|Mad Amin]]. The most striking instance of self-devotion he recorded was at [[Senelop]], where the [[Sister of Habib Samalanga|sister of the late Habib Samalanga]] held the command and *zich met 15 andere fanatieke vrouwen ten dood had gewijd* — had devoted herself to death with fifteen other fanatical women.
+
+At [[Anagaloeng]] the defenders were led in their last defence by champions excited by opium, shrieking and leaping like madmen. Hooijer acknowledged, in describing the fighting at [[Kroeng Kali]] and [[Kota Toeankoe]], that the Achehnese defended himself behind his walls *met mannenmoed en doodsverachting* — with manly courage and contempt of death.
 
 ## See Also
 
@@ -253,7 +202,6 @@ The *sabil*'s significance in the [[Aceh Wiki History]] record, in Van Heutsz's 
 - [[Jakeuet (zakat)]]
 - [[Habib Abdurrahman]]
 - [[XXVI Mukims]]
-- [[Sabil Contributions]]
 - [[De Islaam in Indonesië (Mellema, 1947)]]
 - [[R. L. Mellema]]
 - [[Oelama zakaat war-chest in the Atjehoorlog (Mellema 1947)]]
@@ -289,6 +237,10 @@ The *sabil*'s significance in the [[Aceh Wiki History]] record, in Van Heutsz's 
 - [[Submission of Teuku Uma]]
 - [[Teuku Uma]]
 - [[Sultan of Acheh]]
+- [[Mat Amin]]
+- [[Sister of Habib Samalanga]]
+- [[Senelop]]
+- [[Hoengtjala]]
 
 ## Sources
 
@@ -306,3 +258,7 @@ The *sabil*'s significance in the [[Aceh Wiki History]] record, in Van Heutsz's 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 *De Islaam in Indonesië (in het bijzonder op Java)*, by Drs. R. L. Mellema. Mededeling No. LXXVII, Afd. Volkenkunde No. 25. Amsterdam: Koninklijke Vereniging "Indisch Instituut," 1947. "De zakaat, de 3e zuil van de wet," pp. 34–36; and *Register*, s.v. *oelama* "(wetgeleerden in Atjeh)."
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter V (the Habib Abdul Rachman return), Chapter VIII (the 1881 preaching), Chapter IX (the Muslemin constitution), Chapter XI (Snouck Hurgronje's diagnosis). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 22, 41, 49, 62.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 32, 36, 48, 53.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

@@ -1,43 +1,7 @@
 ---
-title: XXV Moekims
-aliases:
-- 25 Moekims
-- 25 Sagi
-- Dua Puluh Lima Mukim
-- Sagi XXV
-- Vijfentwintig Moekims
-- XXV Mukims
-- de Sagi's XXV
-- de XXV Moekims
-- Sagi der XXV Moekims
-- 25 Mukims
-- 25 Moekim
-- Twenty-five Moekims
-- 25 Mukim
-- Sagi of the 25 Moekims
-- Twenty-five Mukims
-- Sagi of XXV Mukims
-tags:
-- place
-- 19th-century
-- aceh
-- aceh-war
-- acehnese
-- achehnese
-- administration
-- administrative-division
-- atjeh
-- district
-- groot-atjeh
-- moekim
-- mukim
-- region
-- sagi
-- xxv-moekims
-- sultanate
-- sumatra
-- seaward-sagi
-- dutch-occupation
+title: "XXV Moekims"
+aliases: ["25 Moekims", "25 Sagi", "Dua Puluh Lima Mukim", "Sagi XXV", "Vijfentwintig Moekims", "XXV Mukims", "de Sagi's XXV", "de XXV Moekims", "Sagi der XXV Moekims", "25 Mukims", "25 Moekim", "Twenty-five Moekims", "25 Mukim", "Sagi of the 25 Moekims", "Twenty-five Mukims", "Sagi of XXV Mukims", "XXV Mockims"]
+tags: [place, 19th-century, aceh, aceh-war, acehnese, achehnese, administration, administrative-division, atjeh, district, groot-atjeh, moekim, mukim, region, sagi, xxv-moekims, sultanate, sumatra, seaward-sagi, dutch-occupation]
 ---
 
 The **XXV Moekims** (Vijfentwintig Moekims, "Twenty-Five Mukims") — in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s spelling also *Sagi XXV* or *de Sagi's XXV* — was the *sagi* (confederation) of twenty-five *mukim* (parish) units lying south of the [[Atjeh-rivier]] between the [[III Moekims|III Moekims]] and the [[XXII Moekims|XXII Moekims]], entirely conquered by [[Generaal Pel|Pel]]'s first offensive sweep of early February [[1876]]. Borel notes that "de geheele Sagie der XXV Moekims bevond zich in onze macht" — the entire Sagie of the XXV Moekims was in our power — after the operation. In Van Heutsz's [[1893]] tract *De onderwerping van Atjeh*, the XXV Moekims is also the third chapter of the Van der Heijden conquest — the Sagi whose September [[1879]] reconnaissance fixed the *geheel Groot-Atjeh* of the dagorder's declaration, and the territory of the post-[[1884]] resistance's fragmentation under the *panglima sagi XXV* Tjoet Abas.
@@ -90,11 +54,15 @@ The XXV Moekims was led by prominent war commanders including [[Teuku Imam Lueng
 
 However, resistance led by [[Teuku Imam Lueng Batoh]] and his lieutenant [[Panglima Mah Saleh]] soon resumed. Throughout [[1874]] and [[1875]], warriors from the XXV Moekims defended bentengs at [[Lemboe]] and Longbattah, engaging in continuous guerrilla warfare against Dutch occupation garrisons.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21, 339.
-*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI (the geography of Groot-Atjeh). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 30.
-*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+The **XXV Moekims** were the *[[Sagi|sagi]]* of [[Groot-Atjeh]] formed by the territory standing under the influence of [[Teukoe Oemar|Toekoe Djohan]] together with that of [[Toekoe Nja Mohammad]], head of the [[IX Moekims]], and the first district to be cleared of the *[[Moslemin]]* under the Dutch alliance policy of [[1893]].
+
+## Clearance and its consequences
+
+Hooijer wrote that once [[Teukoe Oemar|Toekoe Djohan]], supported by the Dutch, had cleared of enemies both the territory under his own influence and that of [[Toekoe Nja Mohammad]] — *'t welk te zamen de XXV Moekims vormde* — the result obtained was so favourable, and the rest in the cleared terrain so general, that the [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden|Governor of Atjeh and Dependencies]] proceeded on [[1 September]] [[1893]] to attempt the same in the terrain outside the eastern part of the Dutch line, by permitting [[Toekoe Nja Banta]], the friendly head of the [[Sagi der XXVI Moekims|sagi of the XXVI Moekims]], to open the struggle against the *Moslemin* there as well.
+
+Hooijer contrasted the ease of Oemar's work in the XXV Moekims with the difficulty he later met in the [[Sagi der XXVI Moekims|XXVI Moekims]]: in the latter *had hij niet dien invloed op de bevolking, die het hem in de XXV Moekims zoo gemakkelijk had gemaakt de Moslemin te verdrijven*.
 
 ## See Also
 
@@ -146,7 +114,6 @@ However, resistance led by [[Teuku Imam Lueng Batoh]] and his lieutenant [[Pangl
 - [[XXVI Moekims]]
 - [[Sagi der XXII Moekims]]
 - [[Sagi der XXVI Moekims]]
-- [[sagi]]
 - [[moekim]]
 - [[Biloel]]
 - [[Lamkoenjit]]
@@ -178,8 +145,15 @@ However, resistance led by [[Teuku Imam Lueng Batoh]] and his lieutenant [[Pangl
 - [[Panglima Polem|Panglima Polim]]
 - [[Three Sagis' letter to Penang (4 December 1822)]]
 - [[C. Snouck Hurgronje|Snouck Hurgronje]]
+- [[Teukoe Oemar]]
+- [[Toekoe Nja Mohammad]]
+- [[Toekoe Nja Banta]]
 
-## Source
+## Sources
+
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21, 339.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI (the geography of Groot-Atjeh). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 30.
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
 *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 8-10, 19-22.
 
@@ -188,3 +162,7 @@ However, resistance led by [[Teuku Imam Lueng Batoh]] and his lieutenant [[Pangl
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III; Extract from the service record.
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 327–329, 336–337.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 16, 32.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

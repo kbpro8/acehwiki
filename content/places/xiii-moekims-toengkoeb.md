@@ -1,7 +1,7 @@
 ---
-title: XIII Moekims Toengkoeb
-aliases: ["XIII Moekims Toengkoeb", "13 Mukims Toengkoeb"]
-tags: [place, achehnese, aceh-war, military]
+title: "XIII Moekims Toengkoeb"
+aliases: ["13 Mukims Toengkoeb", "XIII Mockims Toengkoeb", "XIII Mukims Toengkoeb", "Thirteen Moekims of Toengkoeb"]
+tags: [place, achehnese, aceh-war, military, moekim, administrative-division, groot-atjeh, xxvi-moekims]
 ---
 
 **XIII Moekims Toengkoeb** — written in Dutch as *XIII Moekims Toengkoeb* and meaning "Thirteen Mukims of Toengkoeb" — was a region of [[Groot-Atjeh]] comprising thirteen [[moekim|mukims]] situated in the east of the [[Aceh War|Atjeh-oorlog]] theatre, of which the territorial chief was [[T. Tjoet Toengkoeb]]. As described in Kruisheer's *ATJEH '96*, the XIII Moekims Toengkoeb contained the kampong of [[Toengkoeb]] (the seat of its chief), the kampong and river of [[Kroeng-Kali]], and the fortification of Batoe west of Toengkoeb. The region was the theatre of the [[Demonstration in the XIII Moekims Toengkoeb (30 April 1896)|expedition of 30 April 1896]] and the [[Second Expedition to XIII Moekims Toengkoeb (4 May 1896)|second expedition of 4 May 1896]], and was crossed by the maréchaussée march through [[Glé Taroempas]] on [[22 June]] [[1896]]. The Achehnese *stelling* east of [[Kroeng-Kali]] partly belonged to this region.
@@ -22,6 +22,16 @@ The XIII Moekims Toengkoeb were the object of two major Dutch expeditions in [[1
 
 The XIII Moekims Toengkoeb were the principal eastern bastion of Achehnese resistance after the [[Defection of Teuku Umar (29 March 1896)|defection of 29 March 1896]]. The repeated Dutch expeditions against [[Kroeng-Kali]] and the *benteng* of Batoe demonstrated that the Dutch could not leave this region unmolested, since it threatened the eastern flank of their operations against Umar and provided a refuge for retreating Achehnese *benden*. The demolition of the [[benteng|bentengs]] Perampoean and Batoe on [[20 June]] [[1896]] and the storming of the *benteng* of [[Kroeng-Kali]] on [[23 June]] [[1896]] broke the back of organised Achehnese defence in this mukim.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+The **XIII Moekims Toengkoeb** were the thirteen *[[Mukim|moekims]]* of [[Toengkoeb]] within the [[Sagi der XXVI Moekims|XXVI Moekims]] of [[Groot-Atjeh]], the territory of the *[[Oeleebalang|oeleebalang]]* [[T. Tjoet Toengkoeb]], brother-in-law of [[Toekoe Nja Banta]].
+
+## In the campaign of 1893
+
+When the [[Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden|Governor of Atjeh and Dependencies]] authorised [[Toekoe Nja Banta]] on [[1 September]] [[1893]] to open the struggle against the *[[Moslemin]]* east of the Dutch line, Hooijer recorded that his father-in-law [[T. Nek van Marassa|Toekoe Neq van Marassa]] and his brother-in-law *Toekoe Tjoet, oeleebalang der XIII Moekims Toengkoeb*, were to assist him.
+
+The district was the scene of some of the most damaging failures of the alliance. Toekoe Tjoet's wavering conduct led the Dutch to occupy one of his *bentengs* at [[Toengkoeb]] on [[27 September]] [[1893]]; his banishment to [[Malaboeh]] emptied the *kampongs* (villages), since the population would not remain without him; and the removal of his wives to [[Lamreng]] by [[Toekoe Nja Banta]] caused a general dispersal that let the *Moslemin* re-occupy the ground and cut communications between [[Kroeng Kali]] and [[Toengkoeb]].
+
 ## See Also
 
 - [[T. Tjoet Toengkoeb]]
@@ -35,7 +45,14 @@ The XIII Moekims Toengkoeb were the principal eastern bastion of Achehnese resis
 - [[benteng]]
 - [[Lam-Tobah]]
 - [[1896]]
+- [[Toekoe Nja Banta]]
+- [[Sagi der XXVI Moekims]]
+- [[Kroeng Kali]]
 
-## Source
+## Sources
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 14, 22, 122, 143, 144, 146, 158, 165, 322.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 16, 24.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

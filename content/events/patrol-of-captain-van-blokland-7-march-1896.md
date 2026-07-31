@@ -1,7 +1,7 @@
 ---
 title: "Patrol of Captain Van Blokland (7 March 1896)"
-aliases: ["Patrol of Captain Van Blokland (7 March 1896)", "Patrol of Captain Van Blokland", "7 March 1896 patrol of Ana Galong", "Patrouille van Kapitein Van Blokland", "patrouille Van Blokland", "the Anak Baté patrol"]
-tags: [event, dutch, achehnese, colonial, military, aceh-war, 1896, anak-galoeng, patrol, groot-atjeh]
+aliases: ["Patrol of Captain Van Blokland", "7 March 1896 patrol of Ana Galong", "Patrouille van Kapitein Van Blokland", "patrouille Van Blokland", "the Anak Baté patrol", "Blokland's patrol from Anagaloeng", "The patrol of 7 March 1896 near Anagaloeng"]
+tags: [event, dutch, achehnese, colonial, military, aceh-war, 1896, anak-galoeng, patrol, groot-atjeh, battle]
 ---
 
 **The Patrol of Captain Van Blokland (7 March 1896)** — the celebrated *patrouille* of [[Kapitein der Infanterie H. F. T. van Blokland|Kapitein Van Blokland]] from the post of [[Ana' Galong]] along the kampong edges of [[Ana' Batée]], [[Klieng]], and the rice-fields toward [[Sibreh]] — was one of the hardest-fought small actions of the [[Aceh War|Atjeh-oorlog]] in the opening weeks of [[1896]]. Launched as a routine reconnaissance in force by the garrison of the most exposed post on the western [[buitenlinie]], the patrol ran into a superior Achehnese force of approximately 250 men under [[T. Mad Amin]], [[Habib Lhong]], and [[Panglima Hassan]] and was forced into a five-hour firefight from which it was only extricated by the timely arrival of a relief detachment under [[Kapitein van den generalen staf Kronouer|Kapitein Kronouer]] — itself composed of forty bayonets from [[Lamsoet]] and [[Lambarih]] under [[Luitenant K. H. Westendorp|Lt. Westendorp]] and [[Luitenant F. Ketjen|Lt. Ketjen]]. Kruisheer singles out Van Blokland's personal valour, recording that "het gelukte hem persoonlijk met de sabel twee tegenstanders neer te slaan, of which een nagenoeg in tweeën gedeeld werd" (it was granted him personally, with the sabre, to strike down two opponents, one of whom was cleft nearly in twain).
@@ -84,6 +84,26 @@ To sketch all the instances of courage shown in this engagement, Beuming writes,
 
 Lieutenant Westendorp died on [[10 March]] of the consequences of his wound and was buried on [[11 March]] [[1896]] with the greatest solemnity on the [[Peutjoet|Petjoet cemetery]]; the passage is given at [[Peutjoet|Kerkhof Petjoet]].
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+The **Patrol of Captain Van Blokland** of [[7 March]] [[1896]] was a Dutch reconnaissance from the post of [[Anagaloeng]] in the [[XXII Moekims]] of [[Groot-Atjeh]] that was severely mauled by the *[[Moslemin]]* within sight of the fortification, and which [[G. B. Hooijer]] described as *het voorspel van het drama* — the prelude to the drama of the defection of [[Teukoe Oemar]] three weeks later.
+
+## The order
+
+At the beginning of [[1896]] the post commandant received the instruction that, before his detachment was relieved by another, he should make a patrol through the surroundings and drive off the hostile marksmen who could not refrain from firing at Dutch transports. Hooijer read the order as a sign that an end might be coming to the Dutch passive attitude towards the roving, thieving and murdering *Moslemin*, and that plans were in the air to transfer the task of maintaining order from the Achehnese back to Dutch soldiers.
+
+## The action
+
+*Zoo toog dan Kapitein Blokland met 72 man op den 7den Maart 1896 des morgens vroeg uit de benteng, waarin maar 28 soldaten achterbleven* — thus Captain Blokland set out with seventy-two men early on the morning of 7 March 1896 from the *benteng*, in which only twenty-eight soldiers remained. He had been out of sight behind the surrounding trees only a short while when those in the post heard, from every side, the ever-increasing fire of the enemy, answered by Dutch volleys. At length they saw their captain's party retiring to within 350 paces of the post and there standing fast, because hands were lacking to carry the many dead and wounded further.
+
+## Disorder in the post
+
+No officer had been left behind, and everything in the post ran in disorder and the greatest anxiety: soldiers' wives wailed, children cried, and nobody dared leave the post to help the party hemmed in among the rice-fields under enemy fire.
+
+## The relief (Hooijer's account)
+
+At last the *liniecommandant* (commander of the line) appeared, who had come from [[Senelop]] on hearing the heavy firing and had taken up forty men from [[Lam Soet]] and [[Lam Barih|Lambarih]] on the way. The [[Kapitein van den Staf|Captain of the Staff]] accompanying him succeeded, by taking a position on the flank, in drawing the fire of the *Moslemin* upon himself, and thereby enabled the wounded Blokland to withdraw into the post with his dead and wounded and his twenty unwounded men.
+
 ## See Also
 
 - [[H. F. T. van Blokland]]
@@ -99,6 +119,13 @@ Lieutenant Westendorp died on [[10 March]] of the consequences of his wound and 
 - [[Buitenlinie]]
 - [[1896]]
 - [[Aceh War]]
+- [[Van Blokland]]
+- [[Anagaloeng]]
+- [[Senelop]]
+- [[Lam Soet]]
+- [[Lam Barih|Lambarih]]
+- [[Defection of Teukoe Oemar (1896)]]
+- [[Kapitein van den Staf]]
 
 ## Sources
 
@@ -107,3 +134,7 @@ Lieutenant Westendorp died on [[10 March]] of the consequences of his wound and 
 *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Schetsen uit den strijd op Groot-Atjeh* by P. H. R. Beuming (Amsterdam, [[1911]]). Dutch passages are quoted in the original with an English rendering.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 50-52.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

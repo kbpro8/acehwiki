@@ -1,65 +1,7 @@
 ---
-title: Groot-Atjeh
-aliases:
-- Atjeh proper
-- Banda Aceh region
-- Eigenlijk Atjeh
-- Great Aceh
-- Great Acheh
-- Greater Aceh
-- Groot-Atchéh
-- Groot-Atje
-- Groote Atjeh
-- Proper Acheh
-- Greater Atjeh
-- Aceh Besar
-- Atjeh Besar
-- Groott-Atjeh
-- de vallei van Groot-Atjeh
-- sultanate of Groot-Atjeh
-- Atjeh valley
-- Atjeh-vallei
-- vallei van Groot-Atjeh
-- the valley of Groot-Atjeh
-- Acheh
-- Atjeh
-- Acheh Proper
-- True Acheh
-- the heartland of Acheh
-- Great-Acheh
-- the kernel of the kingdom
-- Atjeh-proper
-tags:
-- place
-- region
-- aceh-proper
-- aceh-war
-- acehnese
-- achehnese
-- colonial
-- afdeeling
-- rechtstreeks-bestuurd-gebied
-- atjeh
-- sagi
-- administrative-division
-- sultanate
-- sumatra
-- military
-- 19th-century
-- valley
-- historical
-- groot-atjeh
-- moekim
-- kraton
-- kraton-Kota-Radja
-- aceh
-- geography
-- 1897
-- kingdom
-- capital-region
-- great-acheh
-- highland
-- lowland
+title: "Groot-Atjeh"
+aliases: ["Atjeh proper", "Banda Aceh region", "Eigenlijk Atjeh", "Great Aceh", "Great Acheh", "Greater Aceh", "Groot-Atchéh", "Groot-Atje", "Groote Atjeh", "Proper Acheh", "Greater Atjeh", "Aceh Besar", "Atjeh Besar", "Groott-Atjeh", "de vallei van Groot-Atjeh", "sultanate of Groot-Atjeh", "Atjeh valley", "Atjeh-vallei", "vallei van Groot-Atjeh", "the valley of Groot-Atjeh", "Acheh", "Atjeh", "Acheh Proper", "True Acheh", "the heartland of Acheh", "Great-Acheh", "the kernel of the kingdom", "Atjeh-proper", "Groot Atjeh", "Great Atjeh"]
+tags: [place, region, aceh-proper, aceh-war, acehnese, achehnese, colonial, afdeeling, rechtstreeks-bestuurd-gebied, atjeh, sagi, administrative-division, sultanate, sumatra, military, 19th-century, valley, historical, groot-atjeh, moekim, kraton, kraton-Kota-Radja, aceh, geography, 1897, kingdom, capital-region, great-acheh, highland, lowland, dutch]
 ---
 
 **Groot-Atjeh** ("Greater Aceh") was the Dutch colonial designation for the heartland of the [[Acheh|Atjeh]] sultanate — the densely settled coastal and hinterland district around the capital [[Banda Acheh|Koetaradja]] and its immediate interior — and later came to denote the interior highland region that was the focus of Dutch military mapping and operations in the 1870s. As an *afdeeling* and a *rechtstreeks bestuurd gebied* within the [[Gouvernement Atjeh en Onderhoorigheden]], Groot-Atjeh figured prominently in the [[Aceh War]], in colonial railway construction, and in the administrative reforms that shaped the later governance of Aceh.
@@ -254,11 +196,29 @@ The Minister of Colonies [[J. T. Cremer|Cremer]] reported that the population wa
 
 In [[1908]] twenty-one village schools were opened in Groot Atjeh; by [[1909]] the *[[sagi]]* of the [[XXII Moekims]] and the [[VII Moekims Pidië]] could be placed under civil administrators, "that is to say, Groot Atjeh had by then reached the point where civil administration could be introduced there everywhere." Nevertheless the [[Vaccination Unrest in Groot Atjeh (April 1914)|vaccination unrest of April 1914]], the murder of [[C. H. R. Heins]] at [[Lhong]] on [[13 July]] [[1914]] and the killing of [[Pang Bintang]] in July [[1913]] all occurred in this "volstrekt rustige, direct bestuurde gebied". Swart told the *[[Sumatra Post]]* in [[1914]] that in Groot Atjeh, with 100,000 inhabitants, there was no longer a single ill-disposed man at large.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 1–2, pp. 1–25.
+**Groot-Atjeh** — "Great Acheh," the core territory of the former [[Sultanate of Acheh|Achehnese sultanate]] surrounding [[Kota Radja]] on the northern tip of [[Sumatra]] — was the theatre of the whole narrative of *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]*, in which [[G. B. Hooijer]] described the Dutch outposts erected beyond the *[[Geconcentreerde linie|geconcentreerde linie]]* between [[1893]] and [[1896]] and abandoned after the defection of [[Teukoe Oemar]].
 
-*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 12–13, 33–47.
+## Geography
+
+Hooijer described the region as centred on the valley of the [[Acheh River|Atjeh-rivier]], a flat and largely marshy valley floor bounded on the south by a steep mountain range behind [[Biloel]], on the east by bare hill country, and running upstream through [[Indrapoeri]] to the point where the [[Acheh River|Atjeh-stroom]] and the [[Selimoen|Selimoen-rivier]] unite in the deepest part of the valley. The [[Goudberg]] and the [[Glé Raja]] were the principal named heights. The plain was divided into rice-fields netted with little dykes, wide fields overgrown with coconut palms, and *kampongs* (villages) raised on mounds and closed off by hedges of areca, coconut and thorn.
+
+The character of the ground varied markedly between districts. The low lands and stinking marshes of the [[Sagi der XXVI Moekims|XXVI Moekims]] — out of which, in Hooijer's phrase, malaria seemed to rise — were contrasted with the drier, cooler and healthier ground of the [[XXII Moekims]] around [[Anagaloeng]], where the fever-pale faces of the soldiers quickly regained their healthy brown colour.
+
+Game was scarce in the inhabited low country: elephants left tracks on the eastern hills, bears kept to the heavily overgrown interior of [[Sumatra]], and deer nested in scrub and *glaga* (reed-grass) fields, but none penetrated the settled districts. Wild pigs roamed around [[Tjot Rang]]; tigers were almost unknown; and wild or feral dogs dug up corpses and howled around the Dutch posts at night.
+
+## Administrative divisions
+
+The territory was divided into three *[[Sagi|sagis]]*, of which Hooijer's narrative concerns the [[Sagi der XXVI Moekims|XXVI Moekims]] and the [[XXII Moekims]], together with the [[XXV Moekims]] formed by the territories under the influence of [[Teukoe Oemar]] and [[Toekoe Nja Mohammad]]. Subordinate units named in the book include the [[IX Moekims]], the [[IV Moekims]], the [[VI Moekims]], the [[VII Moekims Baid]], the [[III Moekims Daroe]], the [[XIII Moekims Toengkoeb]] and the *moekims* of [[Lamkrak]].
+
+## The Dutch military position
+
+For a decade after [[1884]] the Dutch had confined themselves to the *[[Geconcentreerde linie|geconcentreerde linie]]* around [[Kota Radja]], from which they made occasional sorties. Hooijer, quoting [[C. Snouck Hurgronje|Snouck Hurgronje]], likened their position to that of *een aap aan een ketting* — an ape on a chain, teased to distraction by boys who ran little risk. The opening of the line to the surrounding population, the alliance with [[Teukoe Oemar]] from [[1893]], and the erection of temporary posts and *[[Blokhuis|blokhuizen]]* outside it constituted the attempt to escape that condition; the defection of [[March]] [[1896]] destroyed it, and every post described in the book was lifted, burnt or slighted within a few weeks.
+
+## Significance
+
+Hooijer's closing judgment was that although the work of two years had gone up in flames, the crisis had at least cleared the way for vigorous action, purifying and strengthening the Dutch position in Groot-Atjeh *tot heil van de, onder anarchie en priesterdwang gebukte bevolking* — for the good of the population bowed under anarchy and priestly compulsion — and to the glory of the Indies army and the prestige of the Kingdom of the Netherlands.
 
 ## See Also
 
@@ -399,8 +359,15 @@ In [[1908]] twenty-one village schools were opened in Groot Atjeh; by [[1909]] t
 - [[XXVI Moekims]]
 - [[XXV Moekims]]
 - [[C. Snouck Hurgronje]]
+- [[Geconcentreerde linie]]
+- [[IX Moekims]]
+- [[Teukoe Oemar]]
 
-## Source
+## Sources
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 1–2, pp. 1–25.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 12–13, 33–47.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 6–14, 17–24, 28–34. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
@@ -431,3 +398,7 @@ In [[1908]] twenty-one village schools were opened in Groot Atjeh; by [[1909]] t
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI–XIII, XVI.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 9, 40, 42, 44, 54.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

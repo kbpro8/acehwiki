@@ -1,36 +1,8 @@
 ---
-title: Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden
-aliases:
-- Civiel en Militair Gouverneur
-- Civil and Military Governor of Atjeh
-- Civiele en Militaire Gouverneur
-- Civiel en Militair Gouvernur
-- Governor of Atjeh and Dependencies
-- Gouverneur van Atjeh en Onderhoorigheden
-- Atjeh Governor
-- Gouverneur tevens militair bevelhebber van Atjeh en Onderhoorigheden
-- Civil and Military Governor
-- Civiele en Militaire Gouverneur Atjeh
-- Civil and Military Governor Atjeh
-tags:
-- organization
-- dutch
-- colonial
-- colonial-office
-- atjeh
-- aceh-war
-- administration
-- governor
-- gouverneur
-- succession
-- 19th-century
-- 20th-century
-- office
-description: The office of the Civil and Military Governor of Atjeh and Dependencies,
-  instituted in 1874 by Van Swieten's Instructie, held successively by eleven Governors
-  (van Swieten through Deijkerhof) before 1893 according to Van Heutsz's catalogue,
-  and again in 1896 by Deykerhoff and Stemfoort; combined military command and civil
-  administration of the Atjeh territory.
+title: "Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden"
+aliases: ["Civiel en Militair Gouverneur", "Civil and Military Governor of Atjeh", "Civiele en Militaire Gouverneur", "Civiel en Militair Gouvernur", "Governor of Atjeh and Dependencies", "Gouverneur van Atjeh en Onderhoorigheden", "Atjeh Governor", "Gouverneur tevens militair bevelhebber van Atjeh en Onderhoorigheden", "Civil and Military Governor", "Civiele en Militaire Gouverneur Atjeh", "Civil and Military Governor Atjeh", "the Governor"]
+tags: [organization, dutch, colonial, colonial-office, atjeh, aceh-war, administration, governor, gouverneur, succession, 19th-century, 20th-century, office]
+description: "The office of the Civil and Military Governor of Atjeh and Dependencies, instituted in 1874 by Van Swieten's Instructie, held successively by eleven Governors (van Swieten through Deijkerhof) before 1893 according to Van Heutsz's catalogue, and again in 1896 by Deykerhoff and Stemfoort; combined military command and civil administration of the Atjeh territory."
 ---
 
 **The Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden** — the Civil and Military Governor of [[Atjeh]] and [[Onderhoorigheden|Dependencies]] — was the combined civil-and-military head of the Dutch colonial administration in [[Aceh War|Atjeh]], an office instituted by the founding *Instructie voor den militairen, tevens civielen bevelhebber te Atjeh* drawn up by [[Van Swieten|Generaal van Swieten]] and approved by Besluit of the Gouverneur-Generaal of Nederlandsch-Indië of [[26 May]] [[1874]] No. 1, vesting in a single officer both the military command of the Dutch forces in the Atjeh territory and the supreme civil administration of the occupied coast and interior. [[Joannes Benedictus van Heutsz|Van Heutsz]] opens the diagnostic chapter of his [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]* by cataloguing the eleven Governors who, in the twenty years between the conquest of the *kraton* and the book's publication, successively held the office — a catalogue he adduces as proof that the colonial *Regeering* had, by constantly changing the office-holder and the policy, "stijft den Atjeher in hooge mate in zijn verzet" (strengthened the Atjeher greatly in his resistance). In [[1896]], in the immediate aftermath of the [[Defection of Teuku Umar (March 1896)|defection of Teuku Umar]], the office was held by Generaal-Majoor C. Deykerhoff, honorably relieved on [[7 April]] [[1896]], temporarily abolished under the [[Regeeringscommissaris (Government Commissioner)|Regeeringscommissaris]] period of [[J. A. Vetter (Luitenant-Generaal)|Lt.-Gen. Vetter]] ([[7 April]]–[[28 June]] [[1896]]), and restored on [[28 June]] [[1896]] with Kolonel Stemfoort (provisionally) as *Civiel en Militair Gouvernur*.
@@ -84,6 +56,22 @@ The office of Civiel en Militair Gouverneur was held successively by: Generaal v
 ## Significance
 
 The office of *Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden* is, in Van Heutsz's [[1893]] narrative, the institutional protagonist of the Atjeh-oorlog — the office through which the colonial *Regeering*'s alternating policies were locally executed and locally reversed. Its significance in the [[Aceh Wiki History]] record rests on five things: it was the office instituted by the [[Van Swieten's instructie (22 April 1874)|1874 Instructie]] that founded the Dutch civil administration of Atjeh on the concentrated defensive model of Kotja-Radja; it was the office whose eleven holders between [[1874]] and [[1893]] — van Swieten, Pel, Wiggers van Kerchem, Diemont, van der Heijden, Pruijs van der Hoeven, Laging Tobias, Demmeni, van Teijn, Pompe van Meerdervoort, Deijkerhof — Van Heutsz catalogues as the local register of the colonial *Regeering*'s inability to follow a single policy; it was the office whose formal title *Gouverneur tevens militair bevelhebber van Atjeh en Onderhoorigheden*, inscribed on the [[Day-order of 5 September 1879|dagorder]] of [[5 September]] [[1879]], made the personal union of military command and civil administration the constitutional device of the Dutch occupation; it was the office whose post-[[1881]] attenuation into a *Civiel Gouverneur* form — after the "onverantwoordelijke" dismissal of Van der Heijden — inaugurated the [[1881]]–[[1883]] regime that Laging Tobias himself would describe as having found Atjeh "bijna hopeloos", and whose formal restoration as *Civiel en Militair Gouvernur* in [[September 1884|September]] [[1884]] marked the abandonment of the civil-government experiment; and it was the office whose 1896 temporary abolition — Deykerhoff's honorable relief on [[7 April]] [[1896]] and the substitution of Vetter's *Regeeringscommissaris* — was the most senior political casualty of [[Teuku Umar]]'s defection and a public admission that the Dutch policy of relying on Umar's *legioen* — adopted in [[Subjection of Teuku Umar (30 September 1893)|September 1893]] — had failed. The 1893 tract is, in institutional terms, an indictment of the office's successive holders' treatment by Batavia — a plea, in Van Teijn's words, that "de Gouverneur van Atjeh door eene bindende instructie te dwingen de door Haar vast te stellen politiek te volgen" — the Governor of Atjeh should be bound by a binding instruction to follow the policy fixed by the Government — and that within that binding instruction "de Gouverneur … de handen vrij moet hebben en moet kunnen beschikken over de ten dienste staande middelen". The temporary abolition of the office during the Vetter *Regeeringscommissaris* period reflected the Dutch government's decision to suspend the Atjeh administration's autonomy and place it under direct Army-Commander control. The restoration of the office with Kolonel Stemfoort on [[28 June]] [[1896]] marked the Dutch government's judgment that, after the [[Three-day Dutch offensive of 23–25 May 1896|three-day offensive]] and the [[Tuchtiging der V Moekims Montassik (16–17 June 1896)|V Moekims Montassik tuchtiging]], the situation had stabilized enough to return to a unified civil-military command.
+
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+The **Gouverneur van Atjeh en Onderhoorigheden** — Governor of Atjeh and Dependencies — was the supreme civil and military authority of the Netherlands in [[Atjeh]], and the office whose decisions shaped every phase of the outpost policy described in *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]*.
+
+## Decisions recorded by Hooijer
+
+The governor's authorisation of [[1 September]] [[1893]] extended the alliance policy from the [[XXV Moekims]] to the [[Sagi der XXVI Moekims|XXVI Moekims]] by permitting [[Toekoe Nja Banta]] to open the struggle against the *[[Moslemin]]*, with rifles and powder supplied. The acceptance of [[Teukoe Oemar]]'s submission and the conferment on him of the dignity of *[[Panglima Prang Besar]]* under the name [[Toekoe Djohan Pahalawan]] took place in [[September]] [[1893]], one month after the erection of the post at [[Tjot Goeë]].
+
+The governor banished [[T. Tjoet Toengkoeb|Toekoe Tjoet]] to [[Malaboeh]] *bij wijze van les* after his repeated insubordination, and afterwards recalled him because his population would not return to the evacuated *kampongs* (villages) without him. A "new governor" — unnamed by Hooijer — resolved to slight the walls of [[Kroeng Kali]] and withdraw the garrison from that advanced position established by [[General van der Heijden]].
+
+The plundering and burning of [[Hoengtjala]] by the men of [[Toekoe Nja Banta]] and [[T. Nek van Marassa|Toekoe Neq]] on [[12 November]] [[1893]] took place *tegen de bevelen van den Gouverneur in* — against the Governor's orders.
+
+## Named holders in the narrative
+
+Hooijer named [[General van der Heijden]], [[General‑Major Van Teyn]] and [[Demmeni|General Demmeni]] as generals whose decisions on the treatment of Achehnese chiefs shaped the situation of the 1890s.
 
 ## See Also
 
@@ -141,6 +129,11 @@ The office of *Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden* is, 
 - [[May 1891]]
 - [[January 1892]]
 - [[March 1896]]
+- [[Toekoe Nja Banta]]
+- [[Teukoe Oemar]]
+- [[T. Tjoet Toengkoeb]]
+- [[General‑Major Van Teyn]]
+- [[Kroeng Kali]]
 
 ## Sources
 
@@ -149,3 +142,7 @@ The office of *Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden* is, 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VIII (the institution), Chapters IX–XII (the successive holders), Chapter XIII (the supersession). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 45, 47, 53, 58, 66, 73.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 25, 28, 38, 44, 48, 49, 58, 333.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 10, 16, 24, 26, 36.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

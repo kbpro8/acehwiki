@@ -1,42 +1,8 @@
 ---
-title: General Vetter
-aliases:
-- Generaal Vetter
-- Vetter
-- General Vetter at Atjeh
-- Vetter (KNIL Atjeh commander)
-- J. A. Vetter
-- Luitenant-Generaal J. A. Vetter
-- Luit.-Gen. Vetter
-- Legercommandant Vetter
-- Luitenant-Generaal Vetter
-- Lt.-Gen. Vetter
-- Regeeringscommissaris Vetter
-- Major Vetter
-- majoor Vetter
-tags:
-- person
-- general
-- dutch
-- colonial
-- military
-- infantry
-- achehnese
-- 19th-century
-- aceh-war
-- diplomacy
-- lieutenant-general
-- government-commissioner
-- major
-- 1875
-description: Dutch colonial general of the Netherlands-Indian Army sent to Aceh as
-  Regeeringscommissaris in the immediate aftermath of Teuku Umar's defection of 29
-  March 1896, with onbeperkte volmacht (unlimited authority); arrived 7 April 1896,
-  relieved Gen.-Maj. Deykerhoff, presided over the spring counter-offensive and the
-  three-day Dutch offensive of 23–25 May 1896, departed for Batavia 28 June 1896 with
-  the office of Regeeringscommissaris abolished. The school-history textbook of F.
-  Roorda credits him with 'groote voordeelen' (great advantages), though the final
-  subjugation of Groot-Atjeh was reserved for his successor Van Heutsz.
+title: "General Vetter"
+aliases: ["Generaal Vetter", "Vetter", "General Vetter at Atjeh", "Vetter (KNIL Atjeh commander)", "J. A. Vetter", "Luitenant-Generaal J. A. Vetter", "Luit.-Gen. Vetter", "Legercommandant Vetter", "Luitenant-Generaal Vetter", "Lt.-Gen. Vetter", "Regeeringscommissaris Vetter", "Major Vetter", "majoor Vetter", "Kolonel Vetter", "Colonel Vetter"]
+tags: [person, general, dutch, colonial, military, infantry, achehnese, 19th-century, aceh-war, diplomacy, lieutenant-general, government-commissioner, major, 1875]
+description: "Dutch colonial general of the Netherlands-Indian Army sent to Aceh as Regeeringscommissaris in the immediate aftermath of Teuku Umar's defection of 29 March 1896, with onbeperkte volmacht (unlimited authority); arrived 7 April 1896, relieved Gen.-Maj. Deykerhoff, presided over the spring counter-offensive and the three-day Dutch offensive of 23–25 May 1896, departed for Batavia 28 June 1896 with the office of Regeeringscommissaris abolished. The school-history textbook of F. Roorda credits him with 'groote voordeelen' (great advantages), though the final subjugation of Groot-Atjeh was reserved for his successor Van Heutsz."
 ---
 
 **General Vetter** — *J. A. Vetter*, *Luitenant-Generaal*, Army Commander, *Commandeur der Militaire Willemsorde*, *Ridder van den Nederlandschen Leeuw* — was a Dutch colonial general of the [[Koninklijk Nederlandsch-Indisch Leger|Netherlands-Indian Army]] who, in the aftermath of the [[1896]] defection of [[Toekoe Oemar|Toekoe Oemar]] from the Dutch alliance to the Atjehnese side, was sent to [[Acheh|Atjeh]] with *onbeperkte volmacht* (unlimited authority) — a plenipotentiary military command — and "*behaalde groote voordeelen*" ("gained great advantages"), though the final subjugation of [[Groot-Atjeh|Groot-Atjeh]] was reserved for his successor [[J. B. van Heutsz|Van Heutsz]]. His command is the immediate Dutch response to the Toekoe Oemar defection, and it bridges the central and final phases of the [[Aceh War|Atjeh-oorlog]].
@@ -73,10 +39,15 @@ Vetter's significance for the encyclopedia of [[Acheh|Achehnese]] history lies i
 
 Kruisheer's *ATJEH '96* adds a further dimension: Vetter is the *deus ex machina* — the senior officer sent from outside to reorganise a colonial war effort which had been comprehensively compromised by the failed Umar policy. His arrival on [[7 April]] [[1896]] marked the beginning of the systematic Dutch counter-offensive which would, by the end of June [[1896]], break the back of the Achehnese coalition in [[Groot-Atjeh]]; his proclamations defined the public face of the Dutch response; his dagorder of [[26 May]] [[1896]] gave the official interpretation of the three-day offensive; and his departure on [[28 June]] [[1896]] closed the first-semester chapter of the war. The fact that the office of Regeeringscommissaris was abolished on his departure — rather than continued under a successor — indicates that the colonial government regarded the Vetter mission as a finite emergency intervention rather than a permanent restructuring.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter XII (the appointment of Vetter), Chapter XIII (the counter-offensive and the question of "What now?"). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 73–74, 79.
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. p. 313.
+**General Vetter** — mentioned by [[G. B. Hooijer]] in his earlier rank as *Kolonel Vetter* — was the Dutch officer who drove the *oelama* [[Tengkoe Sjech Saman di Tiro|Teungkoe di Tiro]] and his disciplined troops out of the *[[Geconcentreerde linie|geconcentreerde linie]]* after they had penetrated it in order to pray at holy graves.
+
+## Expulsion of Teungkoe di Tiro from the concentrated line
+
+In his account of the failure of Teungkoe di Tiro's life-aim — to drive the Dutch out of [[Atjeh]] and himself become spiritual supreme head there — Hooijer recorded that the *geconcentreerde linie* had proved too strong for him: *Wel was hij er eenmaal met zijn goed gedisciplineerde troepen in doorgedrongen om er te bidden op heilige graven, maar Kolonel Vetter had hem er weder uitgejaagd* — he had indeed once penetrated it with his well-disciplined troops in order to pray at holy graves, but Colonel Vetter had chased him out again.
+
+Hooijer coupled this with the fall of [[Kota Toeankoe]] by storm and its slighting, and with the rejection of the *oelama*'s proposal to reconcile himself with the [[Proclamation of the Pretender Sultan|pretender-Sultan]] on condition of becoming his *rijksbestuurder*, as the three checks that broke Teungkoe di Tiro's influence.
 
 ## See Also
 
@@ -139,11 +110,21 @@ Kruisheer's *ATJEH '96* adds a further dimension: Vetter is the *deus ex machina
 - [[Toekoe Nanta]]
 - [[Ketapang Doewa]]
 - [[1875]]
+- [[Tengkoe Sjech Saman di Tiro]]
+- [[Geconcentreerde linie]]
+- [[Kota Toeankoe]]
 
-## Source
+## Sources
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter XII (the appointment of Vetter), Chapter XIII (the counter-offensive and the question of "What now?"). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 73–74, 79.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. p. 313.
 
 *Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 14, 37, 48, 57–60, 76, 217, 218, 319, 322, 331–333, 339–340, 348.
 
 H. T. Damsté, "Drie Atjeh-Mannen: Snouck Hurgronje — Van Heutsz — Van Daalen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), overdruck, pp. 356–358; *De Locomotief*, 16 January 1897.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 48.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

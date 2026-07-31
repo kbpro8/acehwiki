@@ -1,9 +1,9 @@
 ---
-title: Panglima
-aliases: ["Panglima's", "Panglima of Pedir", "Panglima of Deli", "Panglima (Atjeh regional commander)", "Atjeh Panglima", "Panglima Raja", "Panglima Radja", "Panglima-raja", "Panglimah Radja", "Panglima-Radja of Padang", "Panglima", "Pangliman", "War commander"]
-
-tags: [concept, office, atjehnese, military, regional-administration, title, malay, achehnese, sumatra, colonial, sultanate]
+title: "Panglima"
+aliases: ["Panglima's", "Panglima of Pedir", "Panglima of Deli", "Panglima (Atjeh regional commander)", "Atjeh Panglima", "Panglima Raja", "Panglima Radja", "Panglima-raja", "Panglimah Radja", "Panglima-Radja of Padang", "Pangliman", "War commander"]
+tags: [concept, office, atjehnese, military, regional-administration, title, malay, achehnese, sumatra, colonial, sultanate, aceh-war]
 ---
+
 **Panglima** was the title of the regional military commanders of the [[Acheh|Atjeh]] sultanate in the seventeenth century — the Sultan's appointed governors or war-chiefs of the subordinate territories of the sultanate. In [[E. C. Godee Molsbergen|Godee Molsbergen]]'s account of [[Pieter Soury's mission to Atjeh (1641)|Soury's embassy of 1641]] the *Panglima's* of [[Pedir]] and [[Deli]] appear together with "nog vele anderen" (many others) at an audience before the [[Sultana of Atjeh (1641)|Sultana]] at which the request for "Portugeesche jonge dochterkens" — Portuguese maidens as *losprijs* (ransom) — was put to the Dutch.
 
 ## Etymology and office
@@ -75,6 +75,22 @@ Kruisheer's catalogue of panglimas spans the entire text. [[Panglima Polim]] app
 
 The panglima is the central institution of Achehnese military resistance in [[1896]]: a personal war-leadership that could be raised anywhere a charismatic commander could attract followers, and that proved remarkably resilient to Dutch pressure. The proliferation of panglimas — both pro-Dutch and anti-Dutch — explains why the war could not be ended by any single battle or treaty: every panglima negotiated his own peace, and the defection of one panglima did not bind another. The Dutch decision in [[1893]] to appoint Umar [[Panglima Prang Besar]] over the other panglimas was an attempt to centralise this institution under colonial patronage; its catastrophic failure in [[1896]] is the central event of Kruisheer's narrative.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+A **panglima** was an Achehnese war commander, and in the context of the Dutch alliance of [[1893]]–[[1896]] one of the subordinate leaders of the *[[Legioen van T. Djohan (T. Oemar's Legion)|legioen]]* of [[Teukoe Oemar|Toekoe Djohan]].
+
+## In Oemar's organisation
+
+[[G. B. Hooijer]] recorded that Oemar, with *zijn drie onderbevelhebbers, zijn veertig panglima's en zijn tweehonderd bezoldigde krijgers*, had to provide for order in the territories cleared outside the *[[Geconcentreerde linie|geconcentreerde linie]]*.
+
+## In battle
+
+Describing the fighting at [[Anagaloeng]] in [[December]] [[1893]], Hooijer wrote that firing was kept up until the enemy again concentrated *en de panglima's hun volkje tot een volgenden stap aanspoorden* — and the *panglima's* urged their people to a further step.
+
+## Related titles
+
+The compound dignity *[[Panglima Prang Besar]]* — Great War Commander — was conferred on Oemar by the Netherlands Indies government in [[September]] [[1893]]. *Panglima sagi* or *sagihoofd* designated the head of a *[[Sagi|sagi]]*, as with [[Toekoe Nja Banta]] of the [[Sagi der XXVI Moekims|XXVI Moekims]] and the young [[Panglima Polim]] of the [[XXII Moekims]].
+
 ## See Also
 
 - [[Pieter Soury's mission to Atjeh (1641)]]
@@ -112,6 +128,9 @@ The panglima is the central institution of Achehnese military resistance in [[18
 - [[Battle of Senelop (17 April 1896)]]
 - [[1896]]
 - [[1893]]
+- [[Legioen van T. Djohan (T. Oemar's Legion)]]
+- [[Teukoe Oemar]]
+- [[Sagi]]
 
 ## Sources
 
@@ -120,3 +139,7 @@ The panglima is the central institution of Achehnese military resistance in [[18
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 18, 20, 22–23 (tekst bij blad 4: *Atjeh en de Westkust van Sumatra in 1684*).
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 20, 82, 105, 117, 138, 143, 148, 158, 165, 186, 319, 343.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 40, 54.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

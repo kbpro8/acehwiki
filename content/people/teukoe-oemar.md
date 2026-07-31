@@ -1,106 +1,7 @@
 ---
-title: Teukoe Oemar
-aliases:
-- Teuku Umar
-- T. Oemar
-- The Cunning Adventurer
-- Teukoe Johan
-- Teuku Johan
-- Tjut Meutia's husband
-- Teuku Uma
-- Tuku Umar
-- Toekoe Oemar
-- the betrayal of Toekoe Oemar
-- Panglima Toekoe Oemar
-- T. Djohan
-- Toekoe Djohan Pahalawan
-- Toekoe Melaboeh
-- T. Oemar Melaboch
-- Teungkoe Oemar
-- Teukoe Oemar Keumangan
-- Oemar Keumangan
-- oeléebalang of Keumangan
-- Teukoe Oemar van een oud en aanzienlijk geslacht
-- Panglima Prang Besar
-- Teukoe Oemar van Meulaboh
-- Juhan Pahlawan
-- Teuku Unia
-- Uma
-- Oemar of Keumangan
-- Teuku Umar of Keumangan
-- T. Djohan Pahlawan
-- Teuku Johan Pahlawan
-- Djohan Pahlawan
-- Tjut Nyak Dhien's husband
-- Tengku Oemar
-- the Oemar of the 1896 defection
-- Toekoe Umar
-- Teuku Omar
-- Atjehnese ally-defector of the Dutch
-- Oemar
-- Teukoe Oema (Teuku Uma)
-- Teukoe Oema
-- Teuku Oema
-- Oema
-- the convert from Dutch ally to Atjèhnese enemy
-- Omar
-- Umar ibn al-Khattab
-- the second Caliph
-- Amir al-Mu'minin
-- Great War Commander
-- Panglima Perang Besar
-- Teuku Djoehan Pahlawan
-- Teuku Djohan Pahlawan
-- Djoehan Pahlawan
-- Johan the Champion
-tags:
-- person
-- acehnese
-- achehnese
-- resistance
-- aceh
-- turncoat
-- aceh-war
-- military-leader
-- colonial
-- 19th-century
-- traitor-or-patriot
-- military
-- sultanate
-- religious
-- succession
-- defection
-- oeleebalang
-- keumangan
-- pidie
-- bengaleesche-afkomst
-- houtsnijkunst
-- oelèëbalang
-- westkust
-- warrior
-- panglima
-- war-leader
-- west-coast
-- resistance-leader
-- commander
-- defector
-- acheh
-- achehnese-resistance
-- killed-in-action
-- atjehnese
-- atjeh-oorlog
-- political
-- xxii-mukims
-- religious-figure
-- islam
-- caliph
-- companion-of-the-prophet
-- concept
-- diplomacy
-- teuku-umar
-- deijkerhoff
-- pahlawan-klucht
-- title
+title: "Teukoe Oemar"
+aliases: ["Teuku Umar", "T. Oemar", "The Cunning Adventurer", "Teukoe Johan", "Teuku Johan", "Tjut Meutia's husband", "Teuku Uma", "Tuku Umar", "Toekoe Oemar", "the betrayal of Toekoe Oemar", "Panglima Toekoe Oemar", "T. Djohan", "Toekoe Djohan Pahalawan", "Toekoe Melaboeh", "T. Oemar Melaboch", "Teungkoe Oemar", "Teukoe Oemar Keumangan", "Oemar Keumangan", "oeléebalang of Keumangan", "Teukoe Oemar van een oud en aanzienlijk geslacht", "Panglima Prang Besar", "Teukoe Oemar van Meulaboh", "Juhan Pahlawan", "Teuku Unia", "Uma", "Oemar of Keumangan", "Teuku Umar of Keumangan", "T. Djohan Pahlawan", "Teuku Johan Pahlawan", "Djohan Pahlawan", "Tjut Nyak Dhien's husband", "Tengku Oemar", "the Oemar of the 1896 defection", "Toekoe Umar", "Teuku Omar", "Atjehnese ally-defector of the Dutch", "Oemar", "Teukoe Oema (Teuku Uma)", "Teukoe Oema", "Teuku Oema", "Oema", "the convert from Dutch ally to Atjèhnese enemy", "Omar", "Umar ibn al-Khattab", "the second Caliph", "Amir al-Mu'minin", "Great War Commander", "Panglima Perang Besar", "Teuku Djoehan Pahlawan", "Teuku Djohan Pahlawan", "Djoehan Pahlawan", "Johan the Champion", "the dignity of Panglima Prang Besar", "T. Djohan Pahalawan", "Toekoe Djohan", "Djohan Pahalawan", "Teuku Umar Johan Pahlawan"]
+tags: [person, acehnese, achehnese, resistance, aceh, turncoat, aceh-war, military-leader, colonial, 19th-century, traitor-or-patriot, military, sultanate, religious, succession, defection, oeleebalang, keumangan, pidie, bengaleesche-afkomst, houtsnijkunst, oelèëbalang, westkust, warrior, panglima, war-leader, west-coast, resistance-leader, commander, defector, acheh, achehnese-resistance, killed-in-action, atjehnese, atjeh-oorlog, political, xxii-mukims, religious-figure, islam, caliph, companion-of-the-prophet, concept, diplomacy, teuku-umar, deijkerhoff, pahlawan-klucht, title, alliance]
 ---
 
 **Teukoe Oemar** (also rendered **Teuku Umar**) was an Acehnese military leader and chief whose defection from the colonial army on [[29 March]] [[1896]] — the *verraad van Toekoe Oemar* — is identified by two colonial sources as one of the defining events of the [[Atjeh-oorlog|Aceh War]]. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), he is "the cunning adventurer" whose defection opened the critical days that preceded the glorious period of [[Joannes Benedictus van Heutsz|Van Heutsz]]; in the Encyclopaedisch Bureau's *De Buitenbezittingen 1904 tot 1914* ([[1917]]), his betrayal is the originating event of the "new direction" in Dutch policy that would lead to the [[Pacificatie van Atjeh|complete pacification of Atjeh]] and the wider extension of Dutch "effective authority" across the outer possessions.
@@ -255,31 +156,87 @@ The population of [[Groot Atjeh]] had, [[Maurice Henri du Croo|du Croo]] noted i
 
 Teukoe Oemar's defection was the event that discredited the whole policy of conciliation without power and made possible the appointment of van Heutsz, and thereby the entire course of Dutch policy in Atjeh from [[1898]] to [[1918]].
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*The Achehnese*, Vol. I & II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+### Panglima Prang Besar
 
-*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), Plate 4, Fig. 2 (caption: "Monumentje op de plek, waar Toekoe Oemar sneuvelde; nabij Meulabôh").
+**Panglima Prang Besar** — "Great War Commander" — was the dignity conferred by the Netherlands Indies government upon [[Teukoe Oemar|Toekoe Oemar]] in [[September]] [[1893]], together with the name [[Toekoe Djohan Pahalawan]], on the acceptance of his submission to Dutch authority.
 
-*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I, §§ 2–3.
+### Conferment
 
-*J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 24, 294–295. Rijksarchief, Den Haag.
----
+[[G. B. Hooijer]] dated the conferment precisely by reference to the erection of the post at [[Tjot Goeë]] on [[8 August]] [[1893]]: that post was raised *één maand voor zijn onderwerping aan ons gezag werd aangenomen en hem, onder den naam van Toekoe Djohan Pahalawan, de waardigheid van Panglima Prang Besar door ons Gouvernement werd verleend* — one month before his submission to Dutch authority was accepted and the dignity of Panglima Prang Besar conferred on him by the Government under the name Toekoe Djohan Pahalawan.
 
-**Teuku Uma** (also written **Teuku Umar**, Dutch sources *Teukoe Oemar*) was an Acehnese guerrilla leader and the most celebrated adventurer of the later [[Aceh War]], a "priman" (freeman) without hereditary office or territory who rose through cunning, intrigue, and military skill to become, for a time, the most powerful native ruler in the country. His career — encompassing a sensational apparent submission to the Dutch in [[1893]], years of manipulation of colonial resources, open defection in March [[1896]], and final defeat and death near [[Meulaboh]] in [[1899]] — became a touchstone for Dutch debates about Acehnese policy, and his story is told across multiple accounts that testify to his importance from every angle of the war.
-*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX (West Coast supremacy), Chapter X (1888 appointment), Chapter XII (the Pahlawan-klucht and the defection), Chapter XIII (Kruijt's judgement). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 50, 56, 68–74.
-*De Geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, by C. J. O. DORREN, 1948, pp. 115‑117 (page 16 of the OCR source).
-*Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.
-*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-270.
-*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Vijfde en Zesde tijdvak, blz. 23, 24–25.
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
-**Omar** (Arabic **ʿUmar**, also rendered **Oemar** in older Dutch orthography) — properly **ʿUmar ibn al-Khaṭṭāb**, the second of the four **Rāshidūn** caliphs and one of the four Companions of the Prophet — appears in Vol. I of *The Achehnese* chiefly as one of the four "rightly-guided" successors of [[Mohammad (the Prophet)|Mohammad]] whose blessing is invoked in the prelude of the *sarakata* or royal edicts of [[Acheh]].
-In a passage transcribed by [[C. Snouck Hurgronje|Snouck Hurgronje]] from a typical Achehnese sarakata, the Sultan's letter-patent opens with the formula: *"On the 4th day of the month Rabīʿ al-Awwal, being Monday, with the help of Allah the omniscient King, and with the blessing of the Prophet, the Lord of Men, and of his four companions, which be Abu Bakr, Omar, Uthman and Ali (may they be pleasing unto Allah)."* The four names — [[Abu Bakr|Abu Bakr]], Omar, [[Uthman|Uthman]] and [[Ali|Ali]] — are the four *Rāshidūn* caliphs of Sunni Islam, who succeeded Mohammad in succession: Abu Bakr (632–634), Omar (634–644), Uthman (644–656) and Ali (656–661). The invocation of their blessing at the head of a royal edict of Acheh exemplifies the manner in which the Achehnese sultans sought to invest their decrees with the highest religious authority available in the Sunni tradition.
-The second caliph is especially remembered in Islamic history for the vast extension of the Arab empire under his rule, for his codification of administrative practice, and for his reputation of strict and even-handed justice. In the Malay-Indonesian world his name is preserved in innumerable personal names — including the Achehnese "Oemar" — and is associated, in popular religious literature, with the heroic age of Islam. The story of his conversion, his severity in judgement, and his assassination by a Persian slave are familiar to every Achehnese child through the medium of Malay and Achehnese hikayat.
-The companions of the Prophet are not, in [[Acheh|Achehnese]] devotional life, the objects of any distinct cult of their own; their place is rather in the formal prelude of documents, in the formulae of prayer, and in the customary enumeration of the blessed first generation of Islam. The Shi'ite veneration of [[Ali]] at the expense of the first three caliphs, so marked in Persia and in parts of British India, has never taken root in Acheh, which adheres uniformly to the Shāfiʿī school of Sunni jurisprudence. The four Companions accordingly appear together, in the formula transcribed by Snouck Hurgronje, as the common object of the sultan's invocation; and the equal honour paid to Omar with the other three is one of the marks of Achehnese orthodoxy.
-*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 14, 19–20, 26, 42, 82, 217, 341, 346.
-*Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, p. 26.
-*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter XII. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 69.
+### The powers attached
+
+With his three subordinate commanders, his forty *[[Panglima|panglima's]]* and his two hundred salaried warriors, the holder of the dignity was responsible for order in the territories cleared outside the *[[Geconcentreerde linie|geconcentreerde linie]]*, and, in Hooijer's phrase, *zijn stem klonk daar oppermachtig* — his voice sounded there supreme. The twenty-three *[[Blokhuis|blokhuizen]]* linking the Dutch posts were garrisoned by his *[[Legioen van T. Djohan (T. Oemar's Legion)|legioen]]* or by friendly Achehnese.
+
+### Repudiation
+
+The going-over of the *Panglima Prang Besar* in [[March]] [[1896]] was the news that sent [[Luitenant Neelmeyer]] riding by night from [[Pakan Kroeng Tjoet]] to warn the garrisons of [[Toengkoeb]] and [[Tjot Rang]].
+
+### Toekoe Djohan Pahalawan
+
+**Toekoe Djohan Pahalawan** was the name under which [[Teukoe Oemar|Toekoe Oemar]] was received into Dutch service in [[September]] [[1893]], together with the dignity of *[[Panglima Prang Besar]]*, and by which he is generally designated in the narrative of *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]*.
+
+### Conferment (Toekoe Djohan Pahalawan)
+
+[[G. B. Hooijer]] recorded that the post of [[Tjot Goeë]] was raised on [[8 August]] [[1893]] — one month before Oemar's submission to Dutch authority was accepted and, *onder den naam van Toekoe Djohan Pahalawan*, the dignity of *Panglima Prang Besar* was conferred on him by the Government.
+
+### Usage in the narrative
+
+Hooijer used the name *Toekoe Djohan* consistently for the period of the alliance — in the clearing of the [[Sagi der XXVI Moekims|XXVI Moekims]], the capture of [[Lam Barih]] and [[Anagaloeng]], the storm of [[Senelop]], and the summons of the *onmisbare Toekoe Djohan* in [[1896]] — and reverted to *Toekoe Oemar* when writing of his approach to the Dutch before [[1893]] and of his defection in [[March]] [[1896]]. The alternation marks in his prose the distinction between the Achehnese chief and the Dutch functionary.
+
+### Teukoe Oemar
+
+**Teukoe Oemar** — written by [[G. B. Hooijer]] as *Toekoe Oemar* and, after his submission, styled *[[Toekoe Djohan Pahalawan]]* with the dignity of *[[Panglima Prang Besar]]* ("Great War Commander") — was the Achehnese chief whose alliance with the Netherlands Indies government between [[1893]] and [[1896]] made possible the whole system of Dutch outposts outside the [[Geconcentreerde linie|geconcentreerde linie]] in [[Groot-Atjeh]], and whose [[Defection of Teukoe Oemar (1896)|defection]] in [[March]] [[1896]] destroyed it. In *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]* he is the central figure: every post described in the book was built, garrisoned or abandoned in consequence of his actions.
+
+### Rise to power
+
+Hooijer described Oemar as having risen *van pertigganeershoofd van deftige familie* — from the head of a crossroads settlement, though of distinguished family — to become an influential and feared person in Achehnese society. The qualities credited to him were his marriages with the daughters of several great families on the [[Westkust|West Coast]] and in [[Atjeh]] — among them the marriage with [[Tjoet Nja Din|Potjoet Nja Din]], so powerful in the [[IV Moekims]] and [[VI Moekims]] — together with his energetic character, his cunning and cultivation, his enterprise and his liberality.
+
+### Approach to the Dutch
+
+According to Hooijer, Oemar had sought a rapprochement with the Dutch even before the alliance, driven chiefly by a shortage of money resulting from the [[Closing of the Noord- en Westkust (1889-1890)|Dutch closure of the West Coast]] to import and export. The Dutch, however, judged that his *kerfstok* — his tally-stick of past offences — contained too many and too deep notches for them, stiff from long sitting in their cage, to rely on him as sufficient support for a walk outside the line.
+
+The decisive change came when Oemar turned against the *[[Moslemin]]*, the religious war-party. When the population outside the line began to enjoy the fruits of the reopened *geconcentreerde linie*, the *Moslemin* — unable to trouble the Dutch — began to attack what the population had obtained from them. Oemar placed himself at the head of the resulting movement and drove the *Moslemin* out of his *kampongs* (villages). Once his stick had proved strong enough to thrash [[Mat Amin|Mad Amin]] and his companions out of his territory, and once he had shown himself willing to resist the *geestdrijvers* ("fanatics"), Hooijer wrote, it was time for the Dutch to make use of him.
+
+### The plan of employment
+
+The design was that Oemar would remove for the Dutch *de steenen waaraan wij ons zouden kunnen stooten* — "the stones on which we might stub ourselves" — such as the notorious [[Kaloet]], which had proved too strong for Dutch arms. The Dutch would then be able to lay out roads in the surrounding country in order to move easily, and, with the help of a population enjoying peace and prosperity, keep the "naughty boys" at a distance.
+
+### Clearing the IX and XXV Moekims
+
+Oemar first drove the *Moslemin* from the bare hills of the [[IX Moekims]], east of the [[IV Moekims]] and [[VI Moekims]], on the flat marshy valley floor of the [[Acheh River|Atjeh valley]] between the southern side of the *geconcentreerde linie* and the steep mountains behind [[Biloel]]. When the whole of the IX Moekims had been cleared, the Dutch erected the post of [[Tjot Goeë]] on [[8 August]] [[1893]] — one month before his submission to Dutch authority was accepted and the dignity of *[[Panglima Prang Besar]]* conferred on him under the name [[Toekoe Djohan Pahalawan]]. Together with the territory of [[Toekoe Nja Mohammad]], head of the IX Moekims, this cleared area formed the [[XXV Moekims]].
+
+### Campaign in the XXVI Moekims
+
+Because the Dutch allies [[Toekoe Nja Banta]], [[T. Nek van Marassa]] and [[T. Tjoet Toengkoeb]] proved unable to expel the *Moslemin* from the [[Sagi der XXVI Moekims|XXVI Moekims]], the task fell to Oemar. Hooijer noted that here he did not possess the influence over the population that had made his work in the [[XXV Moekims]] so easy, and that fighters streamed in from the coastal lands to join [[Mat Amin|Mad Amin]] — from [[Samalanga]] alone an opponent of the pro-Dutch *[[Oeleebalang]]* of that district had crossed to [[Groot-Atjeh]] with two hundred followers. Reinforcements nevertheless reached Oemar from the [[Westkust|West Coast]], from [[Malaboeh|Melaboeh]] and from the [[IX Moekims]].
+
+On [[21 October]] [[1893]] Oemar appeared with a hundred fighters to take over [[Masdjid Siem]] from the Dutch and to quarter his men in the *benteng* of [[T. Tjoet Toengkoeb]] near [[Kroeng Kali]]. On [[2 November]] [[1893]] about 2,400 auxiliary troops assembled under his leadership and at Dutch expense to drive the *[[Prang sabi|Sabil]]* bands out of the XXVI Moekims; it was agreed that he and his fighters would afterwards maintain order there for a fixed salary, and that should he fall he would be succeeded in the command by his brother and by the bravest of his officers. Hooijer recorded that he met unexpectedly little resistance and suffered small loss. Dutch troops then occupied [[Tjot Rang]] at his request, enabling him to disperse Mad Amin's bands entirely. On [[12 November]] [[1893]] he resumed his movements supported by Dutch artillery fire, with the result that the enemy evacuated the *bentengs* at [[Hoengtjala]] in the middle of the marshland.
+
+### Campaign in the XXII Moekims
+
+A new task followed at once: an attack on the part of the [[XXII Moekims]] fringing the Dutch concentrated position in the south-east. Resistance here far exceeded that met in the XXVI Moekims, and only after seven days of fighting and considerable losses could Oemar make himself master of [[Lam Barih]], a quarter of an hour from the *geconcentreerde linie*; at his repeated insistence a temporary post was occupied there on [[30 November]] [[1893]]. Pressing further along the *kampong* (village) belt, he reached [[Anagaloeng]] on [[20 December]] [[1893]], which fell to him the following day after a furious fight.
+
+Hooijer described his tactics in detail: he swarmed his bands out over a great distance, enveloping the objective; his fighters — broad-shouldered, narrow in the hips, carrying a small head on a long muscular neck — lay down behind the little dykes netting the rice-fields or hid in the tangled vegetation of the raised mounds; firing was exchanged until a defender's fire fell silent for want of ammunition or through casualties, whereupon the attackers crept forward from dyke to dyke like snakes. Whoever had the most cartridges was generally the victor, as in the earlier wars of the Achehnese among themselves. At Anagaloeng, however, the defenders did not flee at once: the *[[Klewang|klewangs]]* had to be swung and the war-cry raised, and the opium-excited champions, shrieking and leaping like madmen, had to lead their men in storming the last redoubt of the *Moslemin*.
+
+### Senelop
+
+With [[Kroeng Gloempang]] at his back and supported by Dutch artillery, Oemar advanced on [[12 March]] [[1894]] against [[Senelop]], where the sister of the late [[Habib Samalanga]] commanded and had devoted herself to death with fifteen other fanatical women. The struggle was severe, and only when Oemar placed himself at the head of his troops with his sunshade in his hand, and ran in upon the fortification together with [[Toekoe Hoessin Longbattah]] — who waved a handkerchief — did he succeed in taking it. Dutch troops occupied Senelop three days later.
+
+### The alliance system at its height
+
+By the beginning of [[1896]] Oemar had for three years been the man who, if he had not conceived the guiding idea of occupying the terrain around the Dutch line, had at least executed it. The unfitness of the other Dutch allies had brought him still further to the fore. At his request the Dutch occupied temporary posts outside their line and spread their military power over a wider area. The [[Blokhuis|twenty-three blokhuizen]] linking these posts were garrisoned by his *[[Legioen van T. Djohan (T. Oemar's Legion)|legioen]]* or by friendly Achehnese. With his three subordinate commanders, his forty *panglima's* and his two hundred paid warriors he was responsible for order in those territories, and *zijn stem klonk daar oppermachtig* — "his voice sounded there supreme."
+
+### Defection
+
+In early [[1896]] it appeared that part of that task would be taken from him once [[Lamkrak]], described as the *broeinest der Moslemin* ("breeding-nest of the *Moslemin*"), had been chastised and cleansed. Dutch patrols had already begun to move outside [[Anagaloeng]]; the temporary posts were to be converted into fixed settlements with terrain clearance, bridges, roads, dykes and tramways, vigorous police supervision by the [[Korps Marechaussee van Atjeh en Onderhorigen|Korps Marechaussée]] and regular administration by acting *controleurs* — in a word, an actual taking into possession of what had hitherto been received in fief from his hands.
+
+Whether he foresaw that his indispensability would thereby lapse and his influence decline, and whether he found in that a reason to break his word and refuse to march against [[Lamkrak]], Hooijer refused to say: *wie zal het zeggen?* On the morning of [[29 March]] [[1896]] not one of the thousand warriors and thousand coolies he was to have assembled at [[Biloel]] appeared at the *passer*, not even the police *oppasser* (orderly), and the *blokhuizen* held by friendly Achehnese in the neighbourhood were found abandoned. Oemar had broken his solemnly sworn oath and turned from friend into enemy. The population immediately took his side; [[Anagaloeng]], [[Tjot Rang]], [[Biloel]], [[Lam Koenjit]], [[Kroeng Gloempang]] and [[Senelop]] were invested, and within a month all were relieved and burnt.
+
+### Assessment
+
+Hooijer's verdict was that the work of two years, however good it had seemed to promise, had been built *op ondeugdelijken grondslag* ("on an unsound foundation"), and had gone up in flames; but that the lives destroyed and money spent would not have been wasted if the event furnished the occasion at last to act with force. He held that the crisis at least swept away the *scheeve verhoudingen* — the skewed relations that had begun to arise between Dutch power and Oemar's own.
 
 ## See Also
 
@@ -519,8 +476,41 @@ The companions of the Prophet are not, in [[Acheh|Achehnese]] devotional life, t
 - [[Government Resolution of 26 April 1896 No. 159/11]]
 - [[Besluit of 9 May 1896]]
 - [[25 August]]
+- [[Teukoe Oemar]]
+- [[Toekoe Djohan Pahalawan]]
+- [[Legioen van T. Djohan (T. Oemar's Legion)]]
+- [[Defection of Teukoe Oemar (1896)]]
+- [[Mat Amin]]
+- [[Moslemin]]
+- [[Anagaloeng]]
+- [[Senelop]]
+- [[G. B. Hooijer]]
 
-## Source
+## Sources
+
+*The Achehnese*, Vol. I & II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), Plate 4, Fig. 2 (caption: "Monumentje op de plek, waar Toekoe Oemar sneuvelde; nabij Meulabôh").
+
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I, §§ 2–3.
+
+*J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 24, 294–295. Rijksarchief, Den Haag.
+---
+
+**Teuku Uma** (also written **Teuku Umar**, Dutch sources *Teukoe Oemar*) was an Acehnese guerrilla leader and the most celebrated adventurer of the later [[Aceh War]], a "priman" (freeman) without hereditary office or territory who rose through cunning, intrigue, and military skill to become, for a time, the most powerful native ruler in the country. His career — encompassing a sensational apparent submission to the Dutch in [[1893]], years of manipulation of colonial resources, open defection in March [[1896]], and final defeat and death near [[Meulaboh]] in [[1899]] — became a touchstone for Dutch debates about Acehnese policy, and his story is told across multiple accounts that testify to his importance from every angle of the war.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX (West Coast supremacy), Chapter X (1888 appointment), Chapter XII (the Pahlawan-klucht and the defection), Chapter XIII (Kruijt's judgement). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 50, 56, 68–74.
+*De Geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, by C. J. O. DORREN, 1948, pp. 115‑117 (page 16 of the OCR source).
+*Na 1795: Repetitie-boekje voor de Vaderlandsche Geschiedenis ten behoeve van Hoogere Burgerscholen en Candidaat-Notarissen*, by F. Roorda (Groningen: P. Noordhoff, [[1924]]), p. 47.
+*Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-270.
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Vijfde en Zesde tijdvak, blz. 23, 24–25.
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+**Omar** (Arabic **ʿUmar**, also rendered **Oemar** in older Dutch orthography) — properly **ʿUmar ibn al-Khaṭṭāb**, the second of the four **Rāshidūn** caliphs and one of the four Companions of the Prophet — appears in Vol. I of *The Achehnese* chiefly as one of the four "rightly-guided" successors of [[Mohammad (the Prophet)|Mohammad]] whose blessing is invoked in the prelude of the *sarakata* or royal edicts of [[Acheh]].
+In a passage transcribed by [[C. Snouck Hurgronje|Snouck Hurgronje]] from a typical Achehnese sarakata, the Sultan's letter-patent opens with the formula: *"On the 4th day of the month Rabīʿ al-Awwal, being Monday, with the help of Allah the omniscient King, and with the blessing of the Prophet, the Lord of Men, and of his four companions, which be Abu Bakr, Omar, Uthman and Ali (may they be pleasing unto Allah)."* The four names — [[Abu Bakr|Abu Bakr]], Omar, [[Uthman|Uthman]] and [[Ali|Ali]] — are the four *Rāshidūn* caliphs of Sunni Islam, who succeeded Mohammad in succession: Abu Bakr (632–634), Omar (634–644), Uthman (644–656) and Ali (656–661). The invocation of their blessing at the head of a royal edict of Acheh exemplifies the manner in which the Achehnese sultans sought to invest their decrees with the highest religious authority available in the Sunni tradition.
+The second caliph is especially remembered in Islamic history for the vast extension of the Arab empire under his rule, for his codification of administrative practice, and for his reputation of strict and even-handed justice. In the Malay-Indonesian world his name is preserved in innumerable personal names — including the Achehnese "Oemar" — and is associated, in popular religious literature, with the heroic age of Islam. The story of his conversion, his severity in judgement, and his assassination by a Persian slave are familiar to every Achehnese child through the medium of Malay and Achehnese hikayat.
+The companions of the Prophet are not, in [[Acheh|Achehnese]] devotional life, the objects of any distinct cult of their own; their place is rather in the formal prelude of documents, in the formulae of prayer, and in the customary enumeration of the blessed first generation of Islam. The Shi'ite veneration of [[Ali]] at the expense of the first three caliphs, so marked in Persia and in parts of British India, has never taken root in Acheh, which adheres uniformly to the Shāfiʿī school of Sunni jurisprudence. The four Companions accordingly appear together, in the formula transcribed by Snouck Hurgronje, as the common object of the sultan's invocation; and the equal honour paid to Omar with the other three is one of the marks of Achehnese orthodoxy.
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 14, 19–20, 26, 42, 82, 217, 341, 346.
+*Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, p. 26.
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter XII. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 69.
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder and the chapter *Jagerslatijn*.
 
@@ -537,3 +527,7 @@ The companions of the Prophet are not, in [[Acheh|Achehnese]] devotional life, t
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter XIII, *'Het groote rijstland Pidië'*, p. 93.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, pp. 16–19; Chapter V, p. 33; Chapter XII, p. 124.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 10, 34, 54; pp. 10, 32, 38, 50, 53; pp. 9-10, 12, 15-16, 30-32, 34, 36, 38, 46, 50, 53-54.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

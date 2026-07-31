@@ -1,87 +1,8 @@
 ---
-title: Koeta-Radja
-aliases:
-- Kuta Raja
-- Kutaraja
-- Kutaraja (Banda Aceh)
-- Banda Aceh
-- Kota Radja
-- Kotaradja
-- Kota Raja
-- capital of Atjeh
-- Koetaradja
-- Kutaradja
-- Kota Radja (Atjeh)
-- Banda Acheh
-- Bandah Acheh
-- Bandar Aceh
-- the Kutaradja of the Dutch concentration
-- Banda Atjeh
-- Banda
-- Banda-Acheh
-- Bandar Acheh
-- Acheh capital
-- Capital of Acheh
-- Kota Acheh
-- hoofdplaats Atjeh
-- Acheen capital
-- Koeta Radja
-- Koetaraja
-- Kraton
-- Kota-Radja
-- Kraton (Koeta Radja)
-- Keraton
-- Sultan's palace
-- Kota Radja Atjeh
-- Kotta-Radja
-- Kuta Radja
-- Kotja-Radja
-- Atjeh's chief place
-- Bandjar (Banda Aceh)
-- Bandjar
-tags:
-- place
-- city
-- capital
-- aceh
-- sumatra
-- colonial
-- colonial-capital
-- government-seat
-- achehnese-history
-- hoofdplaats
-- atjeh
-- administrative-center
-- town
-- acheh
-- fortified
-- headquarters
-- groot-atjeh
-- 20th-century
-- aceh-proper
-- coast
-- achehnese
-- concept
-- dutch
-- sultanate
-- military
-- kraton
-- van-heutsz
-- van-daalen
-- sabang
-- oelèë-lheue
-- museum
-- atjeh-instituut
-- dutch-colonial
-- 19th-century
-- aceh-war
-- military-base
-- koetaradja
-description: Kota Radja (also Kotaradja, Koeta-Radja; modern Banda Aceh) was the capital
-  of the Dutch Gouvernement Atjeh en Onderhoorigheden and the principal city of Atjeh.
-  By 1926 it served as the starting point for automobile travel across Sumatra to
-  Padang, symbolising the transformation of transport infrastructure following the
-  pacification.
+title: "Koeta-Radja"
+aliases: ["Kuta Raja", "Kutaraja", "Kutaraja (Banda Aceh)", "Banda Aceh", "Kota Radja", "Kotaradja", "Kota Raja", "capital of Atjeh", "Koetaradja", "Kutaradja", "Kota Radja (Atjeh)", "Banda Acheh", "Bandah Acheh", "Bandar Aceh", "the Kutaradja of the Dutch concentration", "Banda Atjeh", "Banda", "Banda-Acheh", "Bandar Acheh", "Acheh capital", "Capital of Acheh", "Kota Acheh", "hoofdplaats Atjeh", "Acheen capital", "Koeta Radja", "Koetaraja", "Kraton", "Kota-Radja", "Kraton (Koeta Radja)", "Keraton", "Sultan's palace", "Kota Radja Atjeh", "Kotta-Radja", "Kuta Radja", "Kotja-Radja", "Atjeh's chief place", "Bandjar (Banda Aceh)", "Bandjar", "Kota Raoja"]
+tags: [place, city, capital, aceh, sumatra, colonial, colonial-capital, government-seat, achehnese-history, hoofdplaats, atjeh, administrative-center, town, acheh, fortified, headquarters, groot-atjeh, 20th-century, aceh-proper, coast, achehnese, concept, dutch, sultanate, military, kraton, van-heutsz, van-daalen, sabang, oelèë-lheue, museum, atjeh-instituut, dutch-colonial, 19th-century, aceh-war, military-base, koetaradja, administration]
+description: "Kota Radja (also Kotaradja, Koeta-Radja; modern Banda Aceh) was the capital of the Dutch Gouvernement Atjeh en Onderhoorigheden and the principal city of Atjeh. By 1926 it served as the starting point for automobile travel across Sumatra to Padang, symbolising the transformation of transport infrastructure following the pacification."
 ---
 
 ## The colonial capital
@@ -243,26 +164,17 @@ Koeta Radja was the terminus of the [[Atjehtram]]; the correspondent of the *[[N
 
 On [[31 August]] [[1898]] [[Joannes Benedictus van Heutsz|van Heutsz]] held a reception at Koeta Radja after his barefoot return from [[Tangsé]]. Twenty years later, on the morning of [[22 September]] [[1918]], Swart drove by car from Koeta Radja to [[Oelèë Lheuë]] for his departure, accompanied by the acting Governor and the Provincial Military Commander.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+**Kota Radja** was the Dutch administrative and garrison centre of [[Groot-Atjeh]], within the *[[Geconcentreerde linie|geconcentreerde linie]]*, and the point of reference for the outpost garrisons described in *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]*.
 
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 2–5, pp. 23–58.
+## Relations with the outposts
 
-*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+Hooijer recorded that in the quiet years ladies and gentlemen came out from Kota Radja by small carriage to visit [[Tjot Goeë]], raised above the surrounding rice-fields, from whose bastion seat one had a pleasant view over a series of posts in the concentrated line. Soldiers at [[Lam Koenjit]] longed for news from Kota Radja, *waarnaar zij verlangden om de drukte en beweging, de groote kantine en wat niet al meer* — for its bustle and movement, its great canteen and much else besides. At [[Toengkoeb]], where pay accumulated without occasion to spend it, the accumulated sum was paid out at Kota Radja on return from *[[Detacheering|detacheering]]*. [[T. Tjoet Toengkoeb|Toekoe Tjoet]] travelled back and forth to Kota Radja rather than concern himself with the Dutch post in his own neighbourhood.
 
-*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 21, 38, 46–47, 214–215.
+## Isolation of the posts in 1896
 
-*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Foreword, Chapter I §§ 3–5, Chapter II, Chapter III § 1, Chapter IV, Chapter V § 1, Chapter VII § 4.
-*Verslagen der Marine‑Vereeniging III 1889‑1890*, pp. 229‑233. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pages 138‑141.
-*De geschiedenis van het Nederlandsche Korps Mariniers van [[1665]]–[[1945]]*, OCR transcription, page 484. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
-*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 26, 224, 318, 321, 325, 332, 339.
-*De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 38 ("Een nieuwe stad").
-*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 8, 14, 16, 19, 22, 27, 32. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
-*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 26-37, 64-65, 113-115.
-*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
-*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946), pp. 54-55, 59-60.
-*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR transcription, pp. 118‑119.
+When [[Tjot Rang]] was invested after the defection of [[Teukoe Oemar]], Hooijer recorded that *vandaar eenig bericht naar Kota Radja te verzenden bleek onmogelijk* — to send any message thence to Kota Radja proved impossible; the garrison could only look out from one day to the next for relief.
 
 ## See Also
 
@@ -482,7 +394,6 @@ On [[31 August]] [[1898]] [[Joannes Benedictus van Heutsz|van Heutsz]] held a re
 - [[1913]]
 - [[1919]]
 - [[1938]]
-- [[Geconcentreerde Linie]]
 - [[General Köhler]]
 - [[Jan van Swieten|General Van Swieten]]
 - [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
@@ -491,8 +402,32 @@ On [[31 August]] [[1898]] [[Joannes Benedictus van Heutsz|van Heutsz]] held a re
 - [[Royal Netherlands Marine Corps]]
 - [[Lieutenant P. Spanjaard]]
 - [[Colonel De Brabant]]
+- [[Tjot Goeë]]
+- [[Lam Koenjit]]
+- [[Toengkoeb]]
+- [[Tjot Rang]]
+- [[Kraton (institution)|Kraton]]
 
-## Source
+## Sources
+
+*The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 2–5, pp. 23–58.
+
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 21, 38, 46–47, 214–215.
+
+*Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Foreword, Chapter I §§ 3–5, Chapter II, Chapter III § 1, Chapter IV, Chapter V § 1, Chapter VII § 4.
+*Verslagen der Marine‑Vereeniging III 1889‑1890*, pp. 229‑233. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pages 138‑141.
+*De geschiedenis van het Nederlandsche Korps Mariniers van [[1665]]–[[1945]]*, OCR transcription, page 484. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 26, 224, 318, 321, 325, 332, 339.
+*De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 38 ("Een nieuwe stad").
+*De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 8, 14, 16, 19, 22, 27, 32. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 26-37, 64-65, 113-115.
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+*"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946), pp. 54-55, 59-60.
+*De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR transcription, pp. 118‑119.
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapter "Dominee Thenu."
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja and the chapter on den zieleherder.
@@ -512,3 +447,7 @@ On [[31 August]] [[1898]] [[Joannes Benedictus van Heutsz|van Heutsz]] held a re
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 14, 27, 28, 47, 48, 56, 67, 68, 71, 72, 73, 74, 82, 83, 92, 99, 116, 122, 132, 134–135, 143, 149, 162, 171, 176, 185, 194, 203, 209, 213, 224, 234, 266, 296, 318, 321, 325, 332, 333.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters III, X, XI, XII, XIII, XV, XVI, XVII, pp. 19, 94, 108, 121, 134–135, 143, 151, 153–155, and illustrations.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 10, 18, 22, 26, 36.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

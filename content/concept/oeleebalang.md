@@ -1,52 +1,7 @@
 ---
-title: Oeleebalang
-aliases:
-- Uleëbalang
-- Oelebalang
-- Atjehse district chief
-- Atjehse territorial chief
-- hoeloebalang
-- hulubalang
-- Oeleobalang
-- territorial chief
-- oelèëbalangschap
-- oelèëbalangtjoet
-- territorial chief of Atjeh
-- oelèëbalangs
-- Uleebalang
-- uléebalang
-- the Atjehnese uléebalang
-- Oeloe Balang
-- Ulèbalang
-- Oelèëbalang
-- territorial chief of Aceh
-tags:
-- concept
-- acehnese
-- administrative
-- traditional-institution
-- sultanate
-- aceh
-- 19th-century
-- 20th-century
-- oeleebalang
-- keudjroen-loeeng
-- atjeh
-- zelfbestuur
-- colonial
-- traditional-office
-- achehnese
-- adat
-- institution
-- governance
-- nobility
-- government
-- military
-- sovereignty
-- acheh
-- territorial
-- chief
-- diplomacy
+title: "Oeleebalang"
+aliases: ["Uleëbalang", "Oelebalang", "Atjehse district chief", "Atjehse territorial chief", "hoeloebalang", "hulubalang", "Oeleobalang", "territorial chief", "oelèëbalangschap", "oelèëbalangtjoet", "territorial chief of Atjeh", "oelèëbalangs", "Uleebalang", "uléebalang", "the Atjehnese uléebalang", "Oeloe Balang", "Ulèbalang", "Oelèëbalang", "territorial chief of Aceh"]
+tags: [concept, acehnese, administrative, traditional-institution, sultanate, aceh, 19th-century, 20th-century, oeleebalang, keudjroen-loeeng, atjeh, zelfbestuur, colonial, traditional-office, achehnese, adat, institution, governance, nobility, government, military, sovereignty, acheh, territorial, chief, diplomacy, administration, aceh-war]
 ---
 
 **The Oeleebalang** — also written *Uleëbalang*, *Uleebalang* — was the Atjèhse territorial chief or district head, the principal Atjèhse administrative institution of the [[Sultanate of Aceh|Sultanate of Atjèh] and of the post-Dutch-conquest Atjèhse administration. The *oeleebalang* was the chief of a *mukim* (the Atjèhse territorial unit) or of a group of *mukim*s, and exercised in his territory the principal administrative, judicial, and fiscal functions. The institution was, with the Sultan and the religious leaders (*teungku*s), one of the three principal Atjèhse political institutions, and its relative power — vis-à-vis the Sultan — was, in the Snouck Hurgronje diagnosis, one of the principal causes of the decline of the Sultanate.
@@ -151,16 +106,19 @@ Swart said in [[1914]] that he expected much of the younger chiefs, then trained
 
 The *oelèëbalang* was the institution on which the whole of Swart's pacification turned. Du Croo's judgement was that "because Swart was able in so complete a manner to win the confidence both of the *adat* chiefs and of the simple *gampong* man, the Acehnese also attached himself personally to Swart," and through that the chiefs and the population were brought to trust the Dutch administration.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 7–9, pp. 88–193.
+An **oeleebalang** was a territorial chief of [[Atjeh]], head of a *[[Mukim|moekim]]* or group of *moekims*, and the class of person on whose cooperation Dutch alliance policy in [[Groot-Atjeh]] between [[1893]] and [[1896]] depended.
 
-*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 44–46. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, pp. 91 e.v., 94.
+## The oeleebalangs of Hooijer's narrative
 
-*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+[[G. B. Hooijer]] applied the term explicitly to [[T. Tjoet Toengkoeb|Toekoe Tjoet]], *oeleebalang der [[XIII Moekims Toengkoeb]]*, and to the pro-Dutch *oeleebalang* of [[Samalanga]], an opponent of whom crossed to [[Groot-Atjeh]] with two hundred followers to join [[Mat Amin|Mad Amin]]. The same class comprised [[Toekoe Nja Banta]], head of the *sagi* of the [[Sagi der XXVI Moekims|XXVI Moekims]]; [[T. Nek van Marassa]]; [[Toekoe Nja Mohammad]], head of the [[IX Moekims]]; [[Toekoe Moeda Baid]], head of the [[VII Moekims Baid|VII Moekims]]; and [[Toekoe Moeda Soleiman]], guardian of the young [[Panglima Polim]] of the [[XXII Moekims]].
 
-*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
-*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 20, 22, 26, 186, 230–231, 267, 296, 319, 342, 344, 348.
+## Dutch management of the class
+
+Hooijer's narrative records the whole repertoire of Dutch measures: the grant of *[[Bezoldiging|bezoldiging]]* (salary) on condition of neutrality, as [[General‑Major Van Teyn]] granted to Toekoe Tjoet; the supply of rifles and powder, as authorised for Nja Banta on [[1 September]] [[1893]]; the concession of trading privileges, as the shipping of pepper from the bay of [[Kroeng Raja]] granted to Toekoe Moeda Soleiman; banishment as a lesson, as of Toekoe Tjoet to [[Malaboeh]] and of Toekoe Moeda Baid by [[General van der Heijden]]; and recall and rehabilitation when the population would not remain without its chief.
+
+Hooijer's assessment of the results was consistently sceptical: the fighters of Nja Banta were reproached with effeminacy for carrying handkerchiefs; Toekoe Tjoet withheld from his men the pay he received for them; a member of the sultan's family said of him *hij bleef een aap, die nog niet getemd is*; and of Toekoe Moeda Baid he wrote that *hij was een vriend, voor wien men moest oppassen*.
 
 ## See Also
 
@@ -261,7 +219,6 @@ The *oelèëbalang* was the institution on which the whole of Swart's pacificati
 - [[Panglima sagi]]
 - [[Sagi (Atjehnese federation)]]
 - [[Dr. C. Snouck Hurgronje]]
-- [[Panglima Sagi]]
 - [[Moekim / Mukim]]
 - [[Panglima]]
 - [[Panglima Prang Besar]]
@@ -274,8 +231,21 @@ The *oelèëbalang* was the institution on which the whole of Swart's pacificati
 - [[Moekim]]
 - [[G. C. E. van Daalen]]
 - [[Governor Swart]]
+- [[Toekoe Nja Banta]]
+- [[Toekoe Moeda Baid]]
+- [[Toekoe Moeda Soleiman]]
+- [[Bezoldiging]]
 
-## Source
+## Sources
+
+*The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 7–9, pp. 88–193.
+
+*De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 44–46. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, pp. 91 e.v., 94.
+
+*Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
+*ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 20, 22, 26, 186, 230–231, 267, 296, 319, 342, 344, 348.
 
 *De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 8, 14.
 
@@ -284,3 +254,7 @@ The *oelèëbalang* was the institution on which the whole of Swart's pacificati
 *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*. Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesen van het Departement van Binnenlandsch Bestuur*. Weltevreden: Landsdrukkerij, [[1930]], regulations passim (Regs. Nos. 1, 2, 5, 9a, 9b, 11, 14, 19, and *Voorwoord* on the collective-*vaststelling* practice). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV, p. 23; Chapter VIII, pp. 81–82; Chapter IX, pp. 90–92; Chapter XI, p. 103; Chapter XIII, pp. 132–135.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 16, 24, 32, 50.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

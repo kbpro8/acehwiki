@@ -1,41 +1,7 @@
 ---
-title: 22 Moekims
-aliases:
-- 22 Moekim
-- Twenty-two Moekims
-- XXII Moekims
-- 22 Mukim
-- Sagi of the 22 Moekims
-- XXII Mukims
-- Sagi XXII
-- de Sagi's XXII
-- XXII Mukims (22 Mukims)
-- 22 Mukims
-- 22 Sagi
-- Dua Puluh Dua Mukim
-- Sagi der XXII Moekims
-- mountains of the XXII Mukims
-- Twenty-two Mukims
-- Sagi of XXII Mukims
-tags:
-- place
-- aceh
-- administrative-division
-- inland-sagi
-- aceh-war
-- 19th-century
-- groot-atjeh
-- van-der-heijden
-- sagi
-- mukim
-- moekim
-- administration
-- achehnese
-- district
-- military
-- precolonial
-- region
-- sultanate
+title: "22 Moekims"
+aliases: ["22 Moekim", "Twenty-two Moekims", "XXII Moekims", "22 Mukim", "Sagi of the 22 Moekims", "XXII Mukims", "Sagi XXII", "de Sagi's XXII", "XXII Mukims (22 Mukims)", "22 Mukims", "22 Sagi", "Dua Puluh Dua Mukim", "Sagi der XXII Moekims", "mountains of the XXII Mukims", "Twenty-two Mukims", "Sagi of XXII Mukims", "XXII Mockims"]
+tags: [place, aceh, administrative-division, inland-sagi, aceh-war, 19th-century, groot-atjeh, van-der-heijden, sagi, mukim, moekim, administration, achehnese, district, military, precolonial, region, sultanate]
 ---
 
 **The 22 Moekims** — *Twenty-two Moekims*, written in Dutch *22 Moekims*, in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s spelling also *XXII Moekims* or *Sagi XXII* — was the inland *Sagi* (third administrative division) of [[Groot-Atjeh|Groot-Atjeh]], one of the three *Sagi's* of the sultanate together with the [[25 Moekims|25]] and [[26 Moekims|26 Moekims]] and the [[Sultan's gebied|Sultan's own territory]]. The [[Conquest of the 22 Moekims (March-June 1879)|Dutch conquest of the 22 Moekims]] under [[General van der Heijden|Van der Heijden]] from [[March 1879|March]] to half [[June 1879|June]] [[1879]] was the principal military success of Van der Heijden's governorship and brought the entire valley of Groot-Atjeh under Dutch control for the first and only time before the final pacification under [[Joannes Benedictus van Heutsz|Van Heutsz]] after [[1898]]. In Van Heutsz's [[1893]] tract *De onderwerping van Atjeh*, the XXII Moekims is the opening chapter of the Van der Heijden conquest — the Sagi of twenty-two mukims whose *panglima sagi* was [[Panglima Polim]] and within which the *machtige hoofd* [[Tekoe Moeda Baid]] held the [[VII Moekims]] sub-federation.
@@ -86,11 +52,29 @@ The XXII Moekims's significance in Van Heutsz's [[1893]] tract rests on its bein
 
 It was in this *sagi* that van Heutsz attacked the positions of [[Panglima Pòlém]] and drove him to [[Pidië]]. In July [[1913]] [[Pang Bintang]] was killed there by chance, when [[Van Andel]] of [[Lam Meulò]] got the first patrol into the [[V Moekims Mon Tasië']] after the transfer of *controleur* [[Roos van Raadshoven]] and ran into the band's hiding-place near the former [[Koeta Ba' Teuë]] on the second day.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 131, 228, 327–329, 336–337, 350–355.
-*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
-*J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni [[1855]]*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, [[1943]], Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, pp. 39-48.
+The **XXII Moekims** were the *[[Sagi|sagi]]* of [[Groot-Atjeh]] fringing the Dutch concentrated position on the south-east and bordering the [[Sagi der XXVI Moekims|XXVI Moekims]], whose *sagi*-head was the young [[Panglima Polim]] under the guardianship of [[Toekoe Moeda Soleiman]], and in which [[Lam Barih]], [[Anagaloeng]], [[Lam Soet]] and the granary of [[Anagaloeng]] lay.
+
+## Toekoe Djohan's campaign
+
+Scarcely had [[Teukoe Oemar|Toekoe Djohan]] completed his work in the [[Sagi der XXVI Moekims|XXVI Moekims]] when a new task was set him: an attack on that part of the XXII Moekims bordering the now cleared XXVI Moekims. Only if the *[[Moslemin]]* were also driven out of it, Hooijer wrote, could lasting rest be counted on in the liberated territory. The resistance met there far exceeded that in the XXVI Moekims: only after seven days of fighting and considerable losses could Oemar make himself master of [[Lam Barih]], a quarter of an hour from the *[[Geconcentreerde linie|geconcentreerde linie]]*. Pressing on through the *kampong* (village) belt, he reached [[Anagaloeng]] on [[20 December]] [[1893]] and took it the next day after a furious fight.
+
+## Separation from the IX Moekims
+
+The establishment of the post of [[Lam Koenjit]] on [[4 July]] [[1894]], together with [[Biloel]] and [[Tjot Goeë]], served among other purposes to separate the XXII Moekims more effectively from those of the [[IX Moekims]].
+
+## Anagaloeng as the granary
+
+Hooijer recorded that the Achehnese called [[Anagaloeng]] *de navel van het land* — the navel of the country — and that it was the *voorraadschuur der XXII Moekims*, the granary of the XXII Moekims. Dutch soldiers were quartered there once [[Mat Amin|Mad-Amin]] had been driven out of both the XXII and the XXVI Moekims.
+
+## Terrain
+
+The XXII Moekims were, in Hooijer's account, healthier and drier ground than the marshy [[Sagi der XXVI Moekims|XXVI Moekims]]. Although the plain often stood under water when the river could not contain the run-off from the largely deforested mountain ridges of the interior, the surplus drained towards the foot of the hills and thence by creeks to the lower river or the sea. Fever-pale soldiers' faces regained their healthy colour there; the temperature was less oppressive, the winds cool; and the view extended over the mountain masses to where the [[Acheh River|Atjeh-stroom]] and the [[Selimoen|Selimoen-rivier]] unite.
+
+## 1896
+
+The hope of continued support from [[Toekoe Moeda Soleiman]], guardian of the young [[Panglima Polim]], *sagi*-head of the XXII Moekims, after he had been allowed to ship his pepper out of the bay of [[Kroeng Raja]], proved vain. Rest had seemed to prevail *tot in de meest verwijderde landschappen der XXII Moekims* after the earlier fighting; that peace collapsed with the defection of [[Teukoe Oemar]].
 
 ## See Also
 
@@ -157,11 +141,25 @@ It was in this *sagi* that van Heutsz attacked the positions of [[Panglima Pòl�
 - [[Habib Abdul Rahman]]
 - [[Indrapoeri]]
 - [[1880]]
+- [[Anagaloeng]]
+- [[Lam Barih]]
+- [[Lam Soet]]
+- [[Toekoe Moeda Soleiman]]
+- [[Sagi der XXVI Moekims]]
+- [[Lamkrak]]
 
-## Source
+## Sources
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 131, 228, 327–329, 336–337, 350–355.
+*Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+*J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni [[1855]]*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, [[1943]], Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, pp. 39-48.
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI (the conquest), Chapter VIII (the loss under civil government). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 30–31, 41.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 13, 17, 21–23, 25, 37. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, XII, XIII.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 14, 38, 40, 42, 48, 50.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

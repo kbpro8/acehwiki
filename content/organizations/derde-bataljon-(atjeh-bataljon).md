@@ -1,26 +1,7 @@
 ---
-title: Derde Bataljon (Atjeh-Bataljon)
-aliases:
-- Derde Bataljon
-- 3e Bataljon
-- Atjeh-Bataljon
-- Aceh Battalion
-- 3e Bataljon Infanterie
-- 3de Bataljon Infanterie
-- 3rd Infantry Battalion
-- 3e Bataillon Infanterie
-- Third KNIL Infantry Battalion
-- 3rd KNIL Battalion
-tags:
-- organization
-- military-unit
-- knil
-- aceh
-- dutch
-- colonial
-- military
-- 19th-century
-- infantry
+title: "Derde Bataljon (Atjeh-Bataljon)"
+aliases: ["Derde Bataljon", "3e Bataljon", "Atjeh-Bataljon", "Aceh Battalion", "3e Bataljon Infanterie", "3de Bataljon Infanterie", "3rd Infantry Battalion", "3e Bataillon Infanterie", "Third KNIL Infantry Battalion", "3rd KNIL Battalion", "3rd battalion", "het 3de bataljon", "Third Battalion of Infantry"]
+tags: [organization, military-unit, knil, aceh, dutch, colonial, military, 19th-century, infantry, aceh-war, unit]
 ---
 
 **The Derde Bataljon** — the 3rd Battalion of the [[K.N.I.L.]] — also written *3e Bataljon Infanterie* or *3de Bataljon Infanterie*, was the "Atjeh-Bataljon," the battalion that received the [[Militaire Willemsorde|M.W.O.]] decoration "in [[1877]] voor het buitengewoon roemrijk aandeel" in the early years of the [[Atjeh-oorlog|Aceh War]], "in het bijzonder vermeld die van begin [[1876]]." The Derde Bataljon's M.W.O. was one of the earliest battalion-level decorations of the Aceh War, and the battalion's nickname "Atjeh-Bataljon" marks it as the battalion most identified with the Aceh theatre. The battalion returned to the Aceh theatre in the spring of [[1896]] as a regular *veldbataljon* (field battalion) of the colonial army, where — under the successive command of Maj. K. W. Steinmetz, Maj. J. W. van den Broek, and Luit.-kol. G. A. Hansen — it served as the workhorse battalion of the campaign, participating in nearly every major Dutch column from the [[Relief of Biloel and Lamkoenjit (8 April 1896)|relief of Biloel and Lamkoenjit]] through the [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)|Ladoeng landing of 22–23 June 1896]], and supplying the 1e Luit. M. D. J. de Jongh who was officially the first Dutch officer to reach [[Teuku Umar]]'s *verblijf* (residence) at [[Lam-Pisang]] on [[24 May]] [[1896]].
@@ -59,10 +40,15 @@ The Derde Bataljon is significant in *[[Oom Ambon van het K.N.I.L.]]* as the "At
 
 In Kruisheer's *ATJEH '96* the 3e Bataljon Infanterie emerges as the workhorse battalion of the spring [[1896]] campaign, present in every major Dutch column from the [[Relief of Biloel and Lamkoenjit (8 April 1896)|April relief operations]] to the [[Ladoeng Landing and Glé Broeë Attack (22–23 June 1896)|June Ladoeng landing]]. Its repeater-rifle peloton reflects the Dutch adoption of new infantry weapons against the well-armed *benden* (bands) of [[Teuku Umar]], and its rapid succession of commanders (Steinmetz → van den Broek → Hansen) mirrors the Dutch command reshuffle that followed [[J. A. Vetter|Lt.-Gen. Vetter]]'s arrival as [[Regeeringscommissaris (Government Commissioner)|Regeeringscommissaris]] on [[7 April]] [[1896]]. The distinction of being first into Umar's house at [[Lam-Pisang]] on [[24 May]] — a claim contested in the source by the cavalryman Wachtmeester Jonker — was awarded by Kruisheer to the battalion's 1e luit. de Jongh.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-15.
-*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889, pp. 20, 58.
+The **3de Bataljon Infanterie** — the third battalion of infantry of the [[Oost-Indisch Leger|Netherlands East Indies Army]] — was the unit which, under the command of [[Overste Sievers]], advanced in [[October]] [[1893]] to relieve the beleaguered Dutch post at [[Kroeng Kali]] in the [[Sagi der XXVI Moekims|XXVI Moekims]] of [[Groot-Atjeh]].
+
+## The relief of Kroeng Kali
+
+[[G. B. Hooijer]] recorded that *het 3de bataljon, onder de bevelen van den Overste Sievers, rukte daarheen op en zou trachten den vijand uit zijn drie stellingen op den verbindingsweg met Toengkoeb te verdrijven* — the 3rd battalion, under the orders of Lieutenant-Colonel Sievers, advanced there and was to attempt to drive the enemy from his three positions on the connecting road with [[Toengkoeb]].
+
+The defenders resisted so obstinately that on the first day only two positions could be taken. One was the [[Masdjid Siem|Messigit Siem]], where [[Luitenant Weyerman]] and three men fell and two officers and fifty men were wounded on the *sawah* (wet rice-field) plain before the mosque. The third position was evacuated by the enemy during the following night.
 
 ## See Also
 
@@ -104,9 +90,21 @@ In Kruisheer's *ATJEH '96* the 3e Bataljon Infanterie emerges as the workhorse b
 - [[Crossing of Blankala Pass]]
 - [[March through the XXII Moekims]]
 - [[9e Bataljon Infanterie]]
+- [[Overste Sievers]]
+- [[Kroeng Kali]]
+- [[Masdjid Siem]]
+- [[Luitenant Weyerman]]
+- [[Oost-Indisch Leger]]
 
-## Source
+## Sources
+
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-15.
+*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889, pp. 20, 58.
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Oom en de Bintang."
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 67, 77, 93, 100, 117, 120, 125, 132, 134, 149, 184, 219, 245, 293, 322.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 26, 32.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

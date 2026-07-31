@@ -1,41 +1,8 @@
 ---
-title: Hendrikus Colijn
-aliases:
-- Colijn
-- Hendrikus Colijn as minister of Oorlog
-- Colijn (Atjeh veteran)
-- H. Colijn
-- dr. H. Colijn
-- kapitein Colijn
-- adjunct regeeringscommissaris Colijn
-- Luitenant Colijn
-- Min. Staat Colijn
-- Minister Colijn
-- Colijn of 1902
-- Colijn the staatsman
-tags:
-- person
-- officer
-- dutch
-- knil
-- marechaussee
-- aceh
-- colonial
-- military
-- administrator
-- politician
-- minister
-- buitenbezittingen
-- acheh
-- 20th-century
-- lieutenant
-- aceh-war
-- gayoland
-- politicus
-description: Dutch military officer, colonial administrator, and Prime Minister of
-  the Netherlands (1925–1926, 1933–1939), who served as a young officer in Aceh, accepted
-  the surrender of the Sultan's commander-in-chief Panglima Prang Polim, and became
-  the first Adviseur voor de Bestuurszaken der Buitenbezittingen in 1908.
+title: "Hendrikus Colijn"
+aliases: ["Colijn", "Hendrikus Colijn as minister of Oorlog", "Colijn (Atjeh veteran)", "H. Colijn", "dr. H. Colijn", "kapitein Colijn", "adjunct regeeringscommissaris Colijn", "Luitenant Colijn", "Min. Staat Colijn", "Minister Colijn", "Colijn of 1902", "Colijn the staatsman", "Colyn"]
+tags: [person, officer, dutch, knil, marechaussee, aceh, colonial, military, administrator, politician, minister, buitenbezittingen, acheh, 20th-century, lieutenant, aceh-war, gayoland, politicus]
+description: "Dutch military officer, colonial administrator, and Prime Minister of the Netherlands (1925–1926, 1933–1939), who served as a young officer in Aceh, accepted the surrender of the Sultan's commander-in-chief Panglima Prang Polim, and became the first Adviseur voor de Bestuurszaken der Buitenbezittingen in 1908."
 ---
 
 **Hendrikus Colijn** ([[1869]]–[[1944]]) was a Dutch military officer, colonial administrator, and later Prime Minister of the Netherlands ([[1925]]–[[1926]], [[1933]]–[[1939]]). During the [[Aceh War]] and the early years of [[Joannes Benedictus van Heutsz|Van Heutsz]]'s Governor-Generalship, he served as a *kapitein* (captain) and then as a roving advisor for the outer islands, playing a key role in shaping the pacification policy in [[Aceh|Atjèh]] and other territories — including the reception of the surrender of [[Panglima Polem|Panglima Polem]] (*Panglima Polem*), the Sultan's own army commander, which marked the political closure of the Acehnese Sultanate. In [[1908]] he was appointed the first [[Adviseur voor de Bestuurszaken der Buitenbezittingen|Adviseur voor de Bestuurszaken der Buitenbezittingen]], the institutional architect of the post-[[Pacificatie van Atjeh|pacification]] colonial order in the outer possessions; his portrait, alongside those of [[A. W. F. Idenburg]] and [[Joannes Benedictus van Heutsz|Van Heutsz]], appears as one of the three frontispiece figures of the [[Encyclopaedisch Bureau]]'s volume *De Buitenbezittingen 1904 tot 1914*. He was a close collaborator of Van Heutsz and, like [[C. Snouck Hurgronje|Snouck Hurgronje]], warned against the appointment of [[Gotfried Coenraad Ernst van Daalen|Gotfried Coenraad Ernst van Daalen]] as Governor of Aceh — a warning vindicated by the [[Atjéh-enquête|Atjéh-enquête]] of [[1907]]–[[1908]]. In Merac's *[[Oost-Indisch Journael]]* ([[1947]]) he is the ninth-named in [[Musket]]'s list of the Marechaussee commanders — known to the Acehnese as *Toean Colijn*.
@@ -122,9 +89,15 @@ Van Heutsz's letter to minister [[Alexander Willem Frederik Idenburg|Idenburg]] 
 
 Colijn, "the future adviser for the Outer Provinces," visited Atjeh again shortly before [[March]] [[1914]], by then already a former minister; his judgement of the situation then agreed entirely with Swart's own, as expressed in the [[Sumatra Post]] interview, and with that of the minister of Colonies who had proposed replacing the military authority in Atjeh wholly by the civil.
 
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
 
-## Sources
-*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+**Hendrikus Colijn** — written by [[G. B. Hooijer]] as *Colyn* — was among the Dutch officers whom Hooijer identified in the group photographed at the post of [[Biloel]] in [[Groot-Atjeh]] during the alliance period of [[1893]]–[[1896]].
+
+## At Biloel
+
+Hooijer named the officers recognisable behind the bench at [[Biloel]], sheltered by an earthen wall thrown up to catch enemy bullets while they sat talking: [[Officier Dijkstra|Dijkstra]], [[Luitenant Zon|Zon]] (who later fell), [[Luitenant Zijdveld|Zijdveld]], Colyn, [[Kapitein Engelbert van Bevervoorde]], [[Kapitein Van der Wedden|Van der Wedden]] and [[Kapitein Schadée|Schadée]], the lieutenants [[Luitenant Van Delden|Van Delden]] and [[Luitenant Kastens|Kastens]], and the medical officers [[Officier van gezondheid Nanta|Nanta]] and [[Officier van gezondheid Tromp|Tromp]].
+
+The post itself had been raised around the old *[[Messigit|Messigit]]*, whose burnt roof had been renewed and within whose white wall the officers' quarters were established; two field-pieces and a *[[Mitrailleur|mitrailleur]]* stood in battery in the two bastions, and an observation post for the artillery officer was set in the tree behind the buildings, from which he could follow the effect of his shots on the small enemy fortifications laid out in the mountains.
 
 ## See Also
 
@@ -203,8 +176,15 @@ Colijn, "the future adviser for the Outer Provinces," visited Atjeh again shortl
 - [[1902]]
 - [[1930]]
 - [[20th-century]]
+- [[Biloel]]
+- [[Kapitein Van der Wedden]]
+- [[Kapitein Schadée]]
+- [[Messigit]]
+- [[Geconcentreerde linie]]
 
-## Source
+## Sources
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 32–35, 52–53, 86–95, 161, 224–225, 231–232. Rijksarchief, Den Haag.
 
@@ -219,3 +199,7 @@ Colijn, "the future adviser for the Outer Provinces," visited Atjeh again shortl
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), p. 266.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter I, p. 1; Chapter VIII, p. 82; Chapter IX, pp. 88–91; Chapter XVI, p. 149.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 12.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

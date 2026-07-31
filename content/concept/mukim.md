@@ -1,74 +1,8 @@
 ---
-title: Mukim
-aliases:
-- the Atjehnese mukim
-- moekim
-- Moekims
-- mukims
-- moeqim
-- ecclesiastical-administrative unit of Aceh
-- Mockim
-- Mockims
-- M.
-- Moekimschap
-- Mukim system
-- Atjeh moekim
-- Imeum Mukim
-- Imam Mukim
-- Imeum
-- Acehnese Parish Head
-- imuem
-- imam
-- head of the moekim
-- oelèëbalang tjoet
-- Moekim and Imeum in Atjeh (Mellema 1947)
-- Moekim as territorial parish in Atjeh
-- Imeum in Atjeh
-- Atjeh imeum
-- Moekim (Atjeh
-- Mellema account)
-- Imeum (Atjeh
-- Territorial congregation in Atjeh
-- Friday-moske parish of Atjeh
-tags:
-- concept
-- government
-- administrative-unit
-- achehnese
-- religious
-- administration
-- sultanate
-- administrative
-- acheh
-- territorial
-- atjeh
-- aceh-war
-- 19th-century
-- zelfbestuur
-- sumatra
-- institution
-- division
-- moekim
-- mukim
-- mosque-group
-- imeum
-- oeléebalang-tjoet
-- colonial
-- governance
-- administrative-division
-- groot-atjeh
-- indigenous-governance
-- village-cluster
-- mukim-leader
-- office
-- imam
-- ecclesiastical-head
-- friday-service
-- comparative
-- mellema-1947
-description: The Acehnese parish — a grouping of gampongs sharing a Friday mosque
-  (meusigit), led by an imeum mukim, forming the intermediate level between the village
-  and the uleebalangship.
+title: "Mukim"
+aliases: ["the Atjehnese mukim", "moekim", "Moekims", "mukims", "moeqim", "ecclesiastical-administrative unit of Aceh", "Mockim", "Mockims", "M.", "Moekimschap", "Mukim system", "Atjeh moekim", "Imeum Mukim", "Imam Mukim", "Imeum", "Acehnese Parish Head", "imuem", "imam", "head of the moekim", "oelèëbalang tjoet", "Moekim and Imeum in Atjeh (Mellema 1947)", "Moekim as territorial parish in Atjeh", "Imeum in Atjeh", "Atjeh imeum", "Moekim (Atjeh", "Mellema account)", "Imeum (Atjeh", "Territorial congregation in Atjeh", "Friday-moske parish of Atjeh", "Imam der III Moekims Daroe"]
+tags: [concept, government, administrative-unit, achehnese, religious, administration, sultanate, administrative, acheh, territorial, atjeh, aceh-war, 19th-century, zelfbestuur, sumatra, institution, division, moekim, mukim, mosque-group, imeum, oeléebalang-tjoet, colonial, governance, administrative-division, groot-atjeh, indigenous-governance, village-cluster, mukim-leader, office, imam, ecclesiastical-head, friday-service, comparative, mellema-1947, islam, territorial-division]
+description: "The Acehnese parish — a grouping of gampongs sharing a Friday mosque (meusigit), led by an imeum mukim, forming the intermediate level between the village and the uleebalangship."
 ---
 
 **Mukim** (also **moekim**; from Arabic *moeqim* "inhabitant") was the intermediate administrative and religious unit of [[Great Acheh|Acehnese]] society, sitting between the individual [[Gampong|gampong]] (village) and the [[Uleebalang|uleebalangship]] (territory). It was essentially a Friday-mosque association — a grouping of [[Gampong|gampongs]] (typically four) lying sufficiently close to one another to form a single congregation for the Friday midday prayer around a common [[Meusigit|meuseugit]] (mosque). By Kreemer's time, the moekim's had become administrative *bestuursressorten* (administrative districts). The head of each moekim was the *imeum* (from Arabic *imam*), originally the leader of the Friday service.
@@ -119,11 +53,9 @@ Some moekim's were *wakeuëh*-districts (free-lordly domains) whose chiefs were 
 
 [[R. L. Mellema|Mellema]], in his comparative ethnological survey *[[De Islaam in Indonesië (Mellema, 1947)|De Islaam in Indonesië (in het bijzonder op Java)]]* (Amsterdam, [[1947]]), gives an etiology of the moekim as a territorial parish that complements the Snouckian and *De Buitenbezittingen* accounts treated above. In his discussion of the distinction between the *moskee* (the Friday mosque) and the *langgar* (the prayer-house without Friday service), Mellema observes that the Muslim law requires the Friday service to be held only where at least forty adult male Muslims are settled as permanent residents (*moekim* in the canonical sense). In [[Acheh|Atjeh]], he records, it could happen that several *desa*'s joined together — "dat verschillende desa's zich aaneensloten om gezamenlijk een moskee met Vrijdagsdienst te kunnen houden" — to maintain, jointly, a mosque with a Friday service. From this cooperation "zijn nieuwe territoriale gemeenten ontstaan, eveneens met de naam moekim aangeduid" — new territorial communes arose, likewise designated by the name *moekim* — at the head of which stood an *imeum*, "Atjeh's voor imaam." The distinctive contribution of Mellema's account is the canonical-genetic framing: the territorial moekim arises, in his presentation, as an institutional solution to the canonical requirement of the Friday-service quorum of forty resident men. The term *moekim* thus undergoes a semantic extension — from its canonical sense of "permanent resident" to its Atjehnese sense of "territorial congregation."
 
-
 ## Account from *Schets eener parlementaire geschiedenis* (1955)
 
 The following account is drawn from the parliamentary history of the [[Netherlands|Dutch]] [[Tweede Kamer der Staten-Generaal (colonial business)|Second Chamber]] as narrated by [[W. H. Vermeulen|Vermeulen]] in the colonial section of the [[Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901 (Rengers-Vermeulen, 1955)|1955 fourth revised edition of Rengers's *Schets*]].
-
 
 **The Mukim** — Acehnese *mukim* — is, in the source's narrative, the Atjehnese territorial unit consisting of a group of *kampongs* (villages) sharing a single mosque. The *mukim* is the intermediate unit of the Atjehnese territorial hierarchy: above the *kampong*, below the *uléebalang* territory. Three or more *mukim*'s form a *landschap* (territory) under an *uléebalang*.
 
@@ -162,6 +94,52 @@ Within the Sagi's, smaller sub-federations of *mukims* — the IV Moekims, the V
 ### The persistence of "Moekims" in the Zelfbestuur-period nomenclature
 
 The use of "*Moekims*" in the names of administrative districts persisted under Dutch colonial rule into the *Zelfbestuur* period. The *Inhoud* (table of contents) of the [[1930]] [[Zelfbestuursverordeningen Atjeh en Onderhoorigheden|compilation]] records the sub-federation nomenclature in the signatory clauses: Reg. No. 13 (the [[Tjalang]] *blanke wapenen* regulation of [[8 January]] [[1927]]) is issued by ten *oeleebalang* of the *onderafdeeling* Tjalang, including the *oeleebalang* of "III Mockins Lam Bensoë" (III Moekims Lam Beusoë). The 1930 compilation's *Inhoud* likewise names "IV Moekims" in the Reg. No. 9a signatory list. The persistence of the *mukim*-based nomenclature in the *Zelfbestuur*-period regulations reflects the survival of the *mukim* as the operational unit of *oeleebalang* authority — the named aggregate of *mukims* held by a single *oeleebalang* and recognised as his *landschap* under the [[Korte Verklaring]]. The *mukim*, in this sense, survived the [[1873]]–[[1904]] war and the [[1898]]-onward *Zelfbestuur* imposition as the basic territorial-religious unit of Acehnese society — the building-block of the Sagi federations of Groot-Atjeh and the named sub-federation of the *Zelfbestuur*-period *landschap*.
+
+## Account from *Atjeh* by H.C. Zentgraff (1938)
+
+[[H.C. Zentgraff|Zentgraff]] uses *mukim* numbers as standard place-identifiers throughout *Atjeh*. The *VII Moekims Ateuë* in [[Groot-Atjeh]] was [[Habib Teupin Wan]]'s home territory: *hij hoorde eigenlijk thuis in de VII Moekims Ateuë, Groot-Atjeh, doch toen de Kompeuni daar het groote werk volbracht trok hij zich terug*. The governor's secret brief of [[17 July]] [[1893]], no. 559/K — cited in the chapter on Snouck Hurgronje's *Verslag* — listed salaries paid to *oeléëbalangs* of *IX Moekims* outside the occupied territory. The *XXVI Moekims* appear in the Tiro-oelama's ultimatum letter. The *IV Moekims* of the [[Lhong]] area were burned during the [[Lhong punitive expedition (1897)|Lhong punitive expedition]] in [[April]] [[1897]]: *den 25en werd Boekit Seboen genomen en een gedeelte van de IV Moekims verbrand, o.a. het huis van Oemar's vrouw te Anak Paja.*
+
+In the Boven-Wojla, the *Kawaj XII* federation — *Pameuë, [[Geumpang]], [[Tangsé]], Anoë en Ara* — was the country of [[Potjoet Barin]] and the [[2e Divisie Marechaussee|2e Divisie]]; *aan de namen merkt ge dat het hier gaat om het hart van het centrale bergland*. The *VII Moekims Baët* appear in the *djahat* list: *de djahat uit kampong L. Ara Toenoeng (VII Moekims Baët)*.
+
+*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
+
+The **[[Mukim|mukim]]** (Acehnese *moekim*) was the basic Atjehnese territorial subdivision — a mosque-centred parish, comprising a number of kampongs around a central *mesigit* (mosque), and forming the building-block of the larger [[Sagi|sagi]] (federation of mukims). The mukims of [[Groot-Atjeh]] are the geographic units of Borel's narrative: the [[VI Moekims|VI Moekims]], [[IV Moekims|IV Moekims]], [[IX Moekims|IX Moekims]], [[XXII Moekims|XXII Moekims]], [[XXV Moekims|XXV Moekims]], [[XXVI Moekims|XXVI Moekims]] and [[III Moekims|III Moekims]] are all federations of mukims, named by the number of mukims they contained.
+
+## The Mosque-Centred Parish
+
+The mukim was, in Borel's account, the basic Atjehnese territorial subdivision. Each mukim was centred on a *mesigit* (mosque) — the place of worship, the seat of the local religious authority, and the focal point of the community's social and political life. The mukim comprised a number of kampongs — typically a few to a dozen — whose inhabitants worshipped at the central mesigit and whose affairs were regulated by the local religious and secular heads. The mukim was, in effect, the Atjehnese equivalent of the European parish — a territorial unit defined by religious affiliation rather than by secular jurisdiction. The mesigit was often a stone building — like the [[Mesigit of Atjeh|Mesigit]] of the Kraton, the [[Longbatta-Mesigit|Longbatta-Mesigit]] or the [[Mandarsa Poeti|gebedenhuis at Mandarsa Poeti]] — and could serve, in time of war, as a strongpoint around which a benteng was constructed. The mukim's religious character — its association with the mosque and with the local religious authority — gave the Atjehnese resistance a religious dimension that the Dutch consistently underestimated.
+
+## The Sagi: Federation of Mukims
+
+The mukims of [[Groot-Atjeh]] were grouped into larger federations called [[Sagi|sagi's]] — each sagi comprising a number of mukims, named by the number: the [[VI Moekims|VI Moekims]] (six mukims), the [[IV Moekims|IV Moekims]] (four mukims), the [[IX Moekims|IX Moekims]] (nine mukims), the [[XXII Moekims|XXII Moekims]] (twenty-two mukims), the [[XXV Moekims|XXV Moekims]] (twenty-five mukims), the [[XXVI Moekims|XXVI Moekims]] (twenty-six mukims), the [[III Moekims|III Moekims]] (three mukims). Each sagi was a political federation of mukims, with its own heads (the *toekoe* or *opperhoofd*) and its own collective military capability. The sagi was, in effect, the Atjehnese equivalent of the European county or canton — a political federation of smaller territorial units. The sagi's of Groot-Atjeh were the principal opponents of the Dutch in the Atjeh-oorlog: the XXII Moekims was "de kern van Atjeh's weerstandsvermogen" — the densest-populated Sagi, containing the Sultan's voorraadschuren and the most hostile chiefs; the VI Moekims was led by [[Toekoe Nanta]], the "onzen ijverigen tegenstander," whose gebied was the single weak point of the [[Stelling-Pel|stelling-Pel]] between [[Oeleh Leh]] and [[Soerian]].
+
+## The Mukims in the War
+
+The mukims and sagi's of Groot-Atjeh are the geographic units of Borel's narrative. The [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|great offensive of December 1875 – February 1876]] under [[Generaal Pel|generaal Pel]] was directed against the VI, IV and IX Moekims — the sagi's that flanked the stelling-Pel and that had to be conquered before the projected afsluitingslinie from the [[Kroeng Raba]] to the [[Kroeng Raya]] could be completed. The [[Enemy breakthrough in the IV, VI and IX Moekims (June 1878)|enemy breakthrough of June 1878]] took place in the IV, VI and IX Moekims — the sagi's that had been conquered by Pel and that the enemy re-entered during [[Karel van der Heijden|van der Heijden]]'s absence at [[Gedoeng]]. The XXII Moekims — never permanently occupied — was the target of Borel's recommended repeated *tuchtigingen* by the proposed [[Indische Brigade (proposed)|Indische Brigade]]. The XXVI Moekims — the other main Sagi of Groot-Atjeh — Borel predicted would submit without needing force, once the XXII Moekims had been tamed. The mukim and the sagi were thus the territorial units through which the Atjeh-oorlog was fought, and the conquest or submission of each sagi was, in Borel's account, a strategic objective of the campaign.
+
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+### Imam
+
+An **imam** was the religious head of a *[[Mukim|moekim]]* in [[Groot-Atjeh]], an office that in the period described by [[G. B. Hooijer]] could also carry effective military leadership against the Netherlands.
+
+### Toekoe Rajoet
+
+The single named holder of the office in *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]* is [[T. Rajoet|Toekoe Rajoet, Imam der III Moekims Daroe]], whose attacks on Dutch transports moving between [[Tjot Goeë]] and [[Biloel]] were the stated reason for the erection of the temporary intermediate post of [[Lam Koenjit]] on [[4 July]] [[1894]].
+
+### Mukim
+
+A **moekim** — Arabic *mukim* — was the basic territorial and religious division of [[Atjeh]], a district grouping several *kampongs* (villages) around a congregational mosque, and the unit by which the administrative geography of [[Groot-Atjeh]] is expressed throughout *[[De verlaten posten in Groot-Atjeh (Hooijer, 1897)|De verlaten posten in Groot-Atjeh]]*.
+
+### The moekims of Hooijer's narrative
+
+Groups of *moekims* named by [[G. B. Hooijer]] include the [[IX Moekims]], whose head was [[Toekoe Nja Mohammad]]; the [[IV Moekims]] and [[VI Moekims]], where [[Tjoet Nja Din|Potjoet Nja Din]] was powerful; the [[XXV Moekims]], formed by the territories of [[Teukoe Oemar]] and Toekoe Nja Mohammad together; the [[Sagi der XXVI Moekims|XXVI Moekims]] under [[Toekoe Nja Banta]]; the [[XXII Moekims]] under the young [[Panglima Polim]] with [[Toekoe Moeda Soleiman]] as guardian; the [[XIII Moekims Toengkoeb]] under [[T. Tjoet Toengkoeb]]; the [[VII Moekims Baid|VII Moekims]] under [[Toekoe Moeda Baid]]; and the [[III Moekims Daroe]] whose *[[Imam|imam]]* was [[T. Rajoet]].
+
+### Clearance moekim by moekim
+
+The Dutch alliance policy proceeded by clearing whole groups of *moekims* of the *[[Moslemin]]* in turn: first the [[IX Moekims]] and the [[XXV Moekims]] by [[Teukoe Oemar]] in [[1893]], then the [[Sagi der XXVI Moekims|XXVI Moekims]] from [[September]] [[1893]], then the eastern part of the [[XXII Moekims]] from [[November]] [[1893]]. Posts were sited in part to separate one group from another: [[Lam Koenjit]], with [[Biloel]] and [[Tjot Goeë]], served to divide the [[XXII Moekims]] more effectively from the [[IX Moekims]].
 
 ## See Also
 
@@ -223,7 +201,6 @@ The use of "*Moekims*" in the names of administrative districts persisted under 
 - [[Masdjid]]
 - [[Oelèëbalang]]
 - [[Oeléebalang tjoet]]
-- [[Panglima Sagi]]
 - [[Sagi]]
 - [[Sagi (Atjehnese division)]]
 - [[Seulimeum]]
@@ -240,7 +217,6 @@ The use of "*Moekims*" in the names of administrative districts persisted under 
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
-[[Sagi]], [[Peleebalangschap]], [[Groot-Atjeh]], [[F. W. A. L. de Nijs]], [[G. F. B. Watrin]], [[G. J. van Dongen]], [[Inlandsch Bestuur]], [[Erfelijkheid in Atjeh hoofd appointments]], [[Civiel Gezaghebber]], [[Rechtstreeks bestuurd gebied]]
 - [[1923]]
 - [[Gampong]]
 - [[Keuchi']]
@@ -259,6 +235,22 @@ The use of "*Moekims*" in the names of administrative districts persisted under 
 - [[Snouck Hurgronje's De Atjehers (1893-94)]]
 - [[De Buitenbezittingen]]
 - [[Java]]
+- [[Mesigit of Atjeh]]
+- [[Longbatta-Mesigit]]
+- [[Mandarsa Poeti]]
+- [[VI Moekims]]
+- [[IV Moekims]]
+- [[IX Moekims]]
+- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Toekoe Nanta]]
+- [[1875]]
+- [[1876]]
+- [[T. Rajoet]]
+- [[III Moekims Daroe]]
+- [[Lam Koenjit]]
+- [[Oeleebalang]]
+- [[Sagi der XXVI Moekims]]
+- [[XXV Moekims]]
 
 ## Sources
 
@@ -283,45 +275,8 @@ The use of "*Moekims*" in the names of administrative districts persisted under 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters XIII, XV, *'Het groote rijstland Pidië'* and *'Groot-Atjeh'*, pp. 90, 94, 101.
 *De Islaam in Indonesië (in het bijzonder op Java)*, by Drs. R. L. Mellema. Mededeling No. LXXVII, Afd. Volkenkunde No. 25. Amsterdam: Koninklijke Vereniging "Indisch Instituut," 1947. "Verschil tussen moskee en langgar," p. 16; and *Register*, s.v. *Imeum* "(in Atjeh hoofd van een moekim)" and *Moekim* "(gebiedsdeel in Atjeh)."
 
-## Account from *Atjeh* by H.C. Zentgraff (1938)
-
-[[H.C. Zentgraff|Zentgraff]] uses *mukim* numbers as standard place-identifiers throughout *Atjeh*. The *VII Moekims Ateuë* in [[Groot-Atjeh]] was [[Habib Teupin Wan]]'s home territory: *hij hoorde eigenlijk thuis in de VII Moekims Ateuë, Groot-Atjeh, doch toen de Kompeuni daar het groote werk volbracht trok hij zich terug*. The governor's secret brief of [[17 July]] [[1893]], no. 559/K — cited in the chapter on Snouck Hurgronje's *Verslag* — listed salaries paid to *oeléëbalangs* of *IX Moekims* outside the occupied territory. The *XXVI Moekims* appear in the Tiro-oelama's ultimatum letter. The *IV Moekims* of the [[Lhong]] area were burned during the [[Lhong punitive expedition (1897)|Lhong punitive expedition]] in [[April]] [[1897]]: *den 25en werd Boekit Seboen genomen en een gedeelte van de IV Moekims verbrand, o.a. het huis van Oemar's vrouw te Anak Paja.*
-
-In the Boven-Wojla, the *Kawaj XII* federation — *Pameuë, [[Geumpang]], [[Tangsé]], Anoë en Ara* — was the country of [[Potjoet Barin]] and the [[2e Divisie Marechaussee|2e Divisie]]; *aan de namen merkt ge dat het hier gaat om het hart van het centrale bergland*. The *VII Moekims Baët* appear in the *djahat* list: *de djahat uit kampong L. Ara Toenoeng (VII Moekims Baët)*.
-
-*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
-
-## Account from *Een Vaderlandsch Belang* by H. Borel (1878)
-
-The **[[Mukim|mukim]]** (Acehnese *moekim*) was the basic Atjehnese territorial subdivision — a mosque-centred parish, comprising a number of kampongs around a central *mesigit* (mosque), and forming the building-block of the larger [[Sagi|sagi]] (federation of mukims). The mukims of [[Groot-Atjeh]] are the geographic units of Borel's narrative: the [[VI Moekims|VI Moekims]], [[IV Moekims|IV Moekims]], [[IX Moekims|IX Moekims]], [[XXII Moekims|XXII Moekims]], [[XXV Moekims|XXV Moekims]], [[XXVI Moekims|XXVI Moekims]] and [[III Moekims|III Moekims]] are all federations of mukims, named by the number of mukims they contained.
-
-## The Mosque-Centred Parish
-
-The mukim was, in Borel's account, the basic Atjehnese territorial subdivision. Each mukim was centred on a *mesigit* (mosque) — the place of worship, the seat of the local religious authority, and the focal point of the community's social and political life. The mukim comprised a number of kampongs — typically a few to a dozen — whose inhabitants worshipped at the central mesigit and whose affairs were regulated by the local religious and secular heads. The mukim was, in effect, the Atjehnese equivalent of the European parish — a territorial unit defined by religious affiliation rather than by secular jurisdiction. The mesigit was often a stone building — like the [[Mesigit of Atjeh|Mesigit]] of the Kraton, the [[Longbatta-Mesigit|Longbatta-Mesigit]] or the [[Mandarsa Poeti|gebedenhuis at Mandarsa Poeti]] — and could serve, in time of war, as a strongpoint around which a benteng was constructed. The mukim's religious character — its association with the mosque and with the local religious authority — gave the Atjehnese resistance a religious dimension that the Dutch consistently underestimated.
-
-## The Sagi: Federation of Mukims
-
-The mukims of [[Groot-Atjeh]] were grouped into larger federations called [[Sagi|sagi's]] — each sagi comprising a number of mukims, named by the number: the [[VI Moekims|VI Moekims]] (six mukims), the [[IV Moekims|IV Moekims]] (four mukims), the [[IX Moekims|IX Moekims]] (nine mukims), the [[XXII Moekims|XXII Moekims]] (twenty-two mukims), the [[XXV Moekims|XXV Moekims]] (twenty-five mukims), the [[XXVI Moekims|XXVI Moekims]] (twenty-six mukims), the [[III Moekims|III Moekims]] (three mukims). Each sagi was a political federation of mukims, with its own heads (the *toekoe* or *opperhoofd*) and its own collective military capability. The sagi was, in effect, the Atjehnese equivalent of the European county or canton — a political federation of smaller territorial units. The sagi's of Groot-Atjeh were the principal opponents of the Dutch in the Atjeh-oorlog: the XXII Moekims was "de kern van Atjeh's weerstandsvermogen" — the densest-populated Sagi, containing the Sultan's voorraadschuren and the most hostile chiefs; the VI Moekims was led by [[Toekoe Nanta]], the "onzen ijverigen tegenstander," whose gebied was the single weak point of the [[Stelling-Pel|stelling-Pel]] between [[Oeleh Leh]] and [[Soerian]].
-
-## The Mukims in the War
-
-The mukims and sagi's of Groot-Atjeh are the geographic units of Borel's narrative. The [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|great offensive of December 1875 – February 1876]] under [[Generaal Pel|generaal Pel]] was directed against the VI, IV and IX Moekims — the sagi's that flanked the stelling-Pel and that had to be conquered before the projected afsluitingslinie from the [[Kroeng Raba]] to the [[Kroeng Raya]] could be completed. The [[Enemy breakthrough in the IV, VI and IX Moekims (June 1878)|enemy breakthrough of June 1878]] took place in the IV, VI and IX Moekims — the sagi's that had been conquered by Pel and that the enemy re-entered during [[Karel van der Heijden|van der Heijden]]'s absence at [[Gedoeng]]. The XXII Moekims — never permanently occupied — was the target of Borel's recommended repeated *tuchtigingen* by the proposed [[Indische Brigade (proposed)|Indische Brigade]]. The XXVI Moekims — the other main Sagi of Groot-Atjeh — Borel predicted would submit without needing force, once the XXII Moekims had been tamed. The mukim and the sagi were thus the territorial units through which the Atjeh-oorlog was fought, and the conquest or submission of each sagi was, in Borel's account, a strategic objective of the campaign.
-
-## See Also
-
-- [[Sagi]]
-- [[Mesigit of Atjeh]]
-- [[Longbatta-Mesigit]]
-- [[Mandarsa Poeti]]
-- [[VI Moekims]]
-- [[IV Moekims]]
-- [[IX Moekims]]
-- [[XXII Moekims]]
-- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
-- [[Toekoe Nanta]]
-- [[1875]]
-- [[1876]]
-
-## Source
-
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 24, 57, 62, 65, 93, 103, 131, 176, 200, 228, 246, 263, 287–289, 323–325, 354.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 14; pp. 9, 14, 16, 38, 50.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.

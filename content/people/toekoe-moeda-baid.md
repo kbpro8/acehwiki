@@ -1,54 +1,7 @@
 ---
-title: Toekoe Moeda Baid
-aliases:
-- Toekoe
-- Moeda
-- Baid
-- Tunku
-- Muda
-- the
-- head
-- of
-- VII
-- Moekims
-- in
-- Sagi
-- XXII
-- Toekoe Baid
-- Teukoe Moeda Baid
-- Tekoe Moeda Baid
-- Tëngku Meudé Baid
-- the powerful chief of the VII Moekims
-- Tjut Meutia's brother
-- Toekoe Baid of the VII Moekims
-- Oeloebalang of the VII Moekims
-- half-brother of Toekoe Tjoet Machmoed
-- T. Moeda Baid
-- T. Baid
-- Teuku Baid
-- Toekoe Baid in exile
-- Teukoe Moeda Baid Setia Maharadja
-- Teuku Muda Baid Setia Maharadja
-- Baid Setia Maharadja
-- Oeloebalang van de VII moekims
-- Uleebalang of the VII Mukims
-tags:
-- person
-- uleebalang
-- acehnese
-- achehnese
-- atjeh
-- aceh-war
-- diplomacy
-- military
-- resistance-leader
-- sagi-under-head
-- 19th-century
-- chief
-- exile
-- resistance
-- colonial
-- dutch
+title: "Toekoe Moeda Baid"
+aliases: ["Toekoe", "Moeda", "Baid", "Tunku", "Muda", "the", "head", "of", "VII", "Moekims", "in", "Sagi", "XXII", "Toekoe Baid", "Teukoe Moeda Baid", "Tekoe Moeda Baid", "Tëngku Meudé Baid", "the powerful chief of the VII Moekims", "Tjut Meutia's brother", "Toekoe Baid of the VII Moekims", "Oeloebalang of the VII Moekims", "half-brother of Toekoe Tjoet Machmoed", "T. Moeda Baid", "T. Baid", "Teuku Baid", "Toekoe Baid in exile", "Teukoe Moeda Baid Setia Maharadja", "Teuku Muda Baid Setia Maharadja", "Baid Setia Maharadja", "Oeloebalang van de VII moekims", "Uleebalang of the VII Mukims", "Toekoe Moeda Baid, hoofd der VII Moekims"]
+tags: [person, uleebalang, acehnese, achehnese, atjeh, aceh-war, diplomacy, military, resistance-leader, sagi-under-head, 19th-century, chief, exile, resistance, colonial, dutch, oeleebalang, alliance]
 ---
 
 **Toekoe Moeda Baid** — also written *T. Moeda Baid*, *T. Baid* — was the [[Uleebalang|hoeloebalang]] (hereditary territorial chief) of the [[VII Mukims|VII Mukims]] in the [[XXII Moekims|Sagi der XXII Moekims]] of [[Acheh|Atjeh]], who [[Submission of Toekoe Moeda Baid (14 October 1878)|submitted to the Dutch on 14 October 1878]] — the day after the [[Submission of Habib Abdurrahman (13 October 1878)|submission of Habib Abdurrahman]] — but whose subsequent conduct appeared more and more treacherous, leading to his arrest on [[9 May]] [[9 May]] [[1879]], his transportation to Batavia in July [[1879]], and his banishment by the Governor-General to [[Banda|Banda]].
@@ -137,7 +90,33 @@ The submission of [[13 October]] [[1878]] — of the Habib and of Tekoe Moeda Ba
 
 Tekoe Moeda Baid's significance in Van Heutsz's narrative is that of the *machtige hoofd der VII Moekims van de Sagi XXII Moekims* — the powerful under-chief of the VII Moekims of the Sagi XXII Moekims of Groot-Atjeh — whose March [[1877]] submission feelers, reported to [[Van Lansberge|Gouverneur-Generaal van Lansberge]] by his *zwager* [[Habib Abdoel Rachman]], were one of the three converging signals that confirmed the Gouverneur-Generaal in the *verzoeningspolitiek* of March [[1877]]; who was the under-chief whose two *Telok-Kroet* meetings with the Dutch *bestuursambtenaren* produced the telegram of [[11 October]] [[1877]] from the Governor of Atjeh and the [[Van Lansberge's keerpunt letter (12 October 1877)|12 October 1877 keerpunt letter]] of [[Van Lansberge|Gouverneur-Generaal van Lansberge]] — a letter that would later be revealed, by the failure of the submission, to have been premised on insincere negotiations; who was the *zwager* of the Habib, the kinship-tie by which the religious authority of the *sayyid* was attached to the territorial authority of the VII Moekims, and the operational base of the resistance in the Lambaroe sector in the first half of [[1878]]; and who was the under-chief whose actual submission, together with that of his *zwager* the Habib, came on [[13 October]] [[1878]] after the [[XXII Moekims campaign (1878)|XXII Moekims campaign]] of [[Van der Heijden|Generaal van der Heijden]]. His role in the resistance is, in Van Heutsz's narrative, the territorial counterpart to the religious authority of the Habib: where the Habib supplied the religious sanction and the operational command, Tekoe Moeda Baid supplied the territorial base — the VII Moekims of the Sagi XXII — from which the resistance was conducted.
 
-## See Also (additional)
+## The prophecy
+
+Van Kol introduced the saying immediately after quoting [[Isaac Dignus Fransen van de Putte|Fransen van de Putte]]'s warning to the chamber of September [[1876]] — "Geeft niet toe aan den volkswaan van een dag; tracht niet door krachtige middelen een einde aan den oorlog te maken; het zal u niet gelukken!" — and observed that the judgement of the Dutch statesman was also the judgement of an Acehnese prince.
+
+Toekoe Baid's words, as reported, were: *"als de mannen gedood zijn, zullen de vrouwen oorlog voeren, en als deze gevallen zijn zullen de kinderen, groot geworden, den krijg hervatten"* — when the men are killed, the women will wage war, and when these have fallen the children, grown up, will resume the fight.
+
+## Context in Van Kol's argument
+
+The saying formed part of Van Kol's argument, printed under the heading *Atjeh onneembaar*, that the subjection of Atjeh was unattainable. Whoever knew the national character, he said, knew that every Acehnese who fell imposed upon his numerous blood relations the duty of *weerwraak* (blood revenge); though it be years later, fidelity to the *vendetta* demanded the killing of the enemies who had slain him. The Dutch could destroy dwellings and kill men, could even cause women and children to fall, but they did not diminish the fighting capacity of the warriors — only the powerlessness of the peaceably disposed. They thus roused bitterness and supported the war-loving parts of the population, who wished nothing better than a guerrilla war; after a defeat these made off, disappeared into inaccessible interiors, and returned later strengthened and with new auxiliaries; "zij zijn overal en nergens." The Dutch were forming an embittered people in a devastated land, sown with bayonets, where they had made enemies of all, great and small.
+
+The source records nothing further of Toekoe Baid's territory, his part in the war, the date or place of his banishment, or the name of the official to whom he spoke.
+
+## Account in Hooijer's *De verlaten posten in Groot-Atjeh* ([[1897]])
+
+**Toekoe Moeda Baid** was the powerful head (*het machtige hoofd*) of the [[VII Moekims Baid|VII Moekims]] in [[Groot-Atjeh]], banished by [[General van der Heijden]] for faithlessness and afterwards recalled and restored to honour by [[Demmeni|General Demmeni]] on account of his influence, whose territory adjoined the Dutch post at [[Anagaloeng]] and whose ambiguous loyalty kept the garrison there on the alert.
+
+## Banishment and restoration
+
+Hooijer recorded that Toekoe Moeda Baid had been banished by [[General van der Heijden]] *wegens trouweloosheid* — for faithlessness — and was afterwards brought back and rehabilitated by [[Demmeni|General Demmeni]] for the sake of the influence he wielded.
+
+## The neighbourhood of Anagaloeng
+
+The Dutch post at [[Anagaloeng]] lay immediately beside his territory. Hooijer wrote that this neighbourhood *hield de officieren in spanning en de schildwachten wakker* — kept the officers in suspense and the sentries awake — for now and then only too well-founded suspicions arose that General Van der Heijden had not judged him so wrongly after all. One of the nearby *[[Blokhuis|blokhuizen]]*, garrisoned by his people and under his supervision, fell or was played into the hands of the *[[Moslemin]]* a few hours after an officer had held an inspection there and found everything in order. In a word, Hooijer concluded, he was a friend of whom one had to beware, *en dat geeft wat pittigheid aan de conversatie, zooals men te Anagaloeng zeide* — "and that gives some spice to the conversation, as they said at Anagaloeng."
+
+For two years in succession the constantly changing garrison at Anagaloeng nevertheless had a fairly quiet time, once the surrounding terrain came to be watched by Achehnese auxiliaries who were no longer commanded by Toekoe Baid.
+
+## See Also
 
 - [[Sultan Saleiman Iskander]]
 - [[Toeankoe Machmoed]]
@@ -153,21 +132,6 @@ Tekoe Moeda Baid's significance in Van Heutsz's narrative is that of the *machti
 - [[1837]]
 - [[1896]]
 - [[Atjeh-Album (Eigen Haard, 1896)]]
-
-## The prophecy
-
-Van Kol introduced the saying immediately after quoting [[Isaac Dignus Fransen van de Putte|Fransen van de Putte]]'s warning to the chamber of September [[1876]] — "Geeft niet toe aan den volkswaan van een dag; tracht niet door krachtige middelen een einde aan den oorlog te maken; het zal u niet gelukken!" — and observed that the judgement of the Dutch statesman was also the judgement of an Acehnese prince.
-
-Toekoe Baid's words, as reported, were: *"als de mannen gedood zijn, zullen de vrouwen oorlog voeren, en als deze gevallen zijn zullen de kinderen, groot geworden, den krijg hervatten"* — when the men are killed, the women will wage war, and when these have fallen the children, grown up, will resume the fight.
-
-## Context in Van Kol's argument
-
-The saying formed part of Van Kol's argument, printed under the heading *Atjeh onneembaar*, that the subjection of Atjeh was unattainable. Whoever knew the national character, he said, knew that every Acehnese who fell imposed upon his numerous blood relations the duty of *weerwraak* (blood revenge); though it be years later, fidelity to the *vendetta* demanded the killing of the enemies who had slain him. The Dutch could destroy dwellings and kill men, could even cause women and children to fall, but they did not diminish the fighting capacity of the warriors — only the powerlessness of the peaceably disposed. They thus roused bitterness and supported the war-loving parts of the population, who wished nothing better than a guerrilla war; after a defeat these made off, disappeared into inaccessible interiors, and returned later strengthened and with new auxiliaries; "zij zijn overal en nergens." The Dutch were forming an embittered people in a devastated land, sown with bayonets, where they had made enemies of all, great and small.
-
-The source records nothing further of Toekoe Baid's territory, his part in the war, the date or place of his banishment, or the name of the official to whom he spoke.
-
-## See Also
-
 - [[Habib Abdoerrahman]]
 - [[Habib Abdoel Rachman]]
 - [[Panglima Polim]]
@@ -193,17 +157,6 @@ The source records nothing further of Toekoe Baid's territory, his part in the w
 - [[Capture of Gleiêng (9 July 1879)]]
 - [[Panteh Karang]]
 - [[Banda]]
-- [[Sultan Saleiman Iskander]]
-- [[Toeankoe Machmoed]]
-- [[Habib Abdurrahman Zahir]]
-- [[Potjoet]]
-- [[Tjot Bada]]
-- [[Toekoe Tjoet Machmoed van Lamtenguh]]
-- [[Lamtenguh]]
-- [[Blang Tjoet]]
-- [[Anagaloeng]]
-- [[Teukoe Moeda Baid Setia Maharadja]]
-- [[XXVI Moekims]]
 - [[Toekoe Tjoet Lamtengah]]
 - [[Pretender Sultan]]
 - [[Toeankoe Brahim]]
@@ -220,13 +173,10 @@ The source records nothing further of Toekoe Baid's territory, his part in the w
 - [[Teungkoe di Tiro]]
 - [[Teuku Umar]]
 - [[Defection of Teuku Umar (29 March 1896)]]
-- [[1837]]
 - [[1876]]
 - [[1878]]
 - [[1879]]
 - [[1888]]
-- [[1896]]
-- [[Atjeh-Album (Eigen Haard, 1896)]]
 - [[Aceh War]]
 - [[H. van Kol]]
 - [[Isaac Dignus Fransen van de Putte]]
@@ -238,6 +188,10 @@ The source records nothing further of Toekoe Baid's territory, his part in the w
 - [[Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen]]
 - [[Granting of Dutch coat of arms chain to Baid Setia Maharadja (1888)]]
 - [[Revocation of Baid Setia Maharadja's honours (1896)]]
+- [[General van der Heijden]]
+- [[Demmeni]]
+- [[Blokhuis]]
+- [[Moslemin]]
 
 ## Sources
 
@@ -251,3 +205,7 @@ The source records nothing further of Toekoe Baid's territory, his part in the w
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
 *Gids voor den bezoeker van de schatkamer*, Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen, Batavia, 1928. Druk: Ruygrok & Co., Batavia. Cabinet 5 (Atjeh), item 31.
+
+*De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 50.
+
+*Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
