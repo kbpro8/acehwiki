@@ -4,7 +4,7 @@ aliases: ["Beri-beri epidemic in the Atjeh garrison", "Berri-berri in Atjeh", "B
 tags: [event, medicine, dutch, colonial, military, aceh-war, disease, 1893, 1896]
 ---
 
-**The beri-beri epidemic in the Atjeh garrison** was the sustained outbreak of *berri-berri* — the thiamine-deficiency disease of rice-eating garrisons — among the troops of the [[Koninklijk Nederlandsch-Indisch Leger|Netherlands Indies Army]] stationed in [[Acheh|Atjeh]] during the [[Aceh War|Atjeh-oorlog]], which by the mid-[[1890s]] had become the principal cause of invaliding and evacuation from the territory. The figures were laid before the [[Tweede Kamer]] on [[16 November]] [[1897]] by the marine officer and deputy [[J. B. Verhey]], under the heading the pamphlet prints as *Verschrikkelijke Sterfte* (terrible mortality).
+**The beri-beri epidemic in the Atjeh garrison** was the sustained outbreak of *berri-berri* — the thiamine-deficiency disease of rice-eating garrisons — among the troops of the [[Koninklijk Nederlandsch-Indisch Leger|Netherlands Indies Army]] stationed in [[acheh|Atjeh]] during the [[Aceh War|Atjeh-oorlog]], which by the mid-1890s had become the principal cause of invaliding and evacuation from the territory. The figures were laid before the [[tweede-kamer-der-staten-generaal-(colonial-business)|Tweede Kamer]] on [[16-november|16 November]] [[1897]] by the marine officer and deputy [[j-b-verhey|J. B. Verhey]], under the heading the pamphlet prints as *Verschrikkelijke Sterfte* (terrible mortality).
 
 ## The figures given by Verhey
 
@@ -14,29 +14,33 @@ According to the [[Koloniaal Verslag|Koloniale Verslagen]] of [[1896]] and [[189
 
 ## The disease in Van Kol's indictment
 
-[[H. van Kol]] had named *berri-berri* in his opening speech among the diseases that always follow war — "dyssenterie, cholera, moeraskoortsen, berri berri" — adding that venereal disease and syphilis also attacked those who escaped the enemy's lead or steel. [[Pieter Jelles Troelstra|Troelstra]] returned to Verhey's figures on the second day, saying that the chamber had heard from a fellow member the terrible number of human lives the war demanded, and how thousands upon thousands of people had in recent years been mown down by the *berri-berri*; when the history of the Atjeh war should one day be written from beginning to end, it would be seen that thousands of Dutch citizens had been wantonly given over to the saddest of deaths without really knowing for what.
+[[h-van-kol|H. van Kol]] had named *berri-berri* in his opening speech among the diseases that always follow war — "dyssenterie, cholera, moeraskoortsen, berri berri" — adding that venereal disease and syphilis also attacked those who escaped the enemy's lead or steel. [[Pieter Jelles Troelstra|Troelstra]] returned to Verhey's figures on the second day, saying that the chamber had heard from a fellow member the terrible number of human lives the war demanded, and how thousands upon thousands of people had in recent years been mown down by the *berri-berri*; when the history of the Atjeh war should one day be written from beginning to end, it would be seen that thousands of Dutch citizens had been wantonly given over to the saddest of deaths without really knowing for what.
 
 ## Cremer's counter-figures
 
 The Minister of Colonies [[J. T. Cremer|Cremer]], answering [[J. B. Verhey|Verhey]] on the health of the troops, maintained that the condition was at present infinitely more favourable than under the system of [[1884]]. Then, he said, the Dutch had had the great losses to *berri-berri* through the violent action of that disease. Now it appeared from the latest reports covering the period from mid-July that in the whole of Atjeh, out of a garrison of eight thousand men, only two to four *berri-berri* patients a day entered hospital.
 
-He linked the improvement to the abandonment of the [[Geconcentreerde linie|geconcentreerde stelling]] and the change of system: in the time of [[Karel van der Heijden|general Van der Heyden]] ten thousand men had been needed in Atjeh, whereas at the moment there were only eight thousand, while the strength of the army as a whole was considerably greater, so that replacement could be properly provided for. He added that the [[Korps Marechaussee|korps marechaussee]] took much of the most fatiguing work off the troops and was being steadily expanded.
+He linked the improvement to the abandonment of the [[geconcentreerde linie|geconcentreerde stelling]] and the change of system: in the time of [[Karel van der Heijden|general Van der Heyden]] ten thousand men had been needed in Atjeh, whereas at the moment there were only eight thousand, while the strength of the army as a whole was considerably greater, so that replacement could be properly provided for. He added that the [[Korps Marechaussee|korps marechaussee]] took much of the most fatiguing work off the troops and was being steadily expanded.
 
 ## Significance
 
 The *berri-berri* figures were used by both sides of the debate: by the war's critics as a measure of the human cost of the occupation, and by the government as evidence that the [[Post-1896 system in Atjeh|new system]] of mobile columns and concentrated *kampementen* was healthier than the static *bentings* and posts of the concentration period. The disease was the principal reason why, as [[J. B. Verhey|Verhey]] calculated, more than the whole garrison was required annually in replacements, and why a company in Atjeh was in effect renewed in the course of a single year — a *va et vient* that he judged could not have a favourable influence on the cohesion of the army.
 
+## Brooshooft's Account
+
+Brooshooft notes the repeated outbreaks of beri-beri that ravaged the Dutch garrison during the concentration period, particularly during [[1885]] and [[1886]]. He treats the disease as one of the principal drains on the strength of the Indies army in Atjeh, alongside battle casualties and the climate, and he links its prevalence to inadequate barrack accommodation, monotonous rations and the sheer exhaustion of the troops after thirteen years of continuous campaigning.
+
 ## See Also
 
-- [[J. B. Verhey]]
-- [[J. T. Cremer]]
-- [[H. van Kol]]
-- [[Pieter Jelles Troelstra]]
-- [[Koloniaal Verslag]]
-- [[Geconcentreerde linie]]
-- [[Post-1896 system in Atjeh]]
-- [[Korps Marechaussee]]
-- [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
+- [[j-b-verhey|J. B. Verhey]]
+- [[j-t-cremer|J. T. Cremer]]
+- [[h-van-kol|H. van Kol]]
+- [[troelstra|Pieter Jelles Troelstra]]
+- [[koloniaal-verslag|Koloniaal Verslag]]
+- [[geconcentreerde linie|Geconcentreerde linie]]
+- [[post-1896-system-in-atjeh|Post-1896 system in Atjeh]]
+- [[korps-marechaussee-van-atjeh-en-onderhorigen|Korps Marechaussee]]
+- [[atjeh-debate-in-the-tweede-kamer-(16-17-november-1897)|Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
 - [[1893]]
 - [[1895]]
 - [[1896]]
@@ -44,6 +48,7 @@ The *berri-berri* figures were used by both sides of the debate: by the war's cr
 
 ## Source
 
+Brooshooft, Mr. P. *Geschiedenis van den Atjeh-oorlog 1873–1886*. Utrecht: F. B. van Ditmar, 1886, Hoofdstuk X, passim, esp. pp. 285–290 (pp. 297–302 of the OCR).
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 10, 19–20, 35, 55.
 
 *Acknowledgement of sources.* The material in this article derives from *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor 1898* (Amsterdam: J. A. Fortuijn, [[1897]]). Dutch passages are quoted in the original with an English rendering.

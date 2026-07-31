@@ -6,15 +6,15 @@ tags: [person, dutch-official, colonial-officer, scholar, dutch, writer, colonia
 
 **W. C. Nieuwenhuyzen** — *gep. kolonel* (late colonel) Nieuwenhuyzen — was a Dutch colonial officer and man of letters, the author of *Poeloe Weh* (1898) and a contributor to *De Nederlandsche Spectator*, who is cited three times by [[P. H. van der Kemp|Van der Kemp]] in his 1900 monograph on the [[Treaty of Pedir (1819)|Raffles–Coombs convention]] and its long aftermath. Nieuwenhuyzen's chief importance for Van der Kemp lies in his editorial and historical interventions on the early history of British and American activity in the East Indian archipelago.
 
-**W. C. Nieuwenhuizen** was a Dutch writer in the *[[Indische Gids]]* whose dictum on the relation between the [[Aceh War|Atjeh-oorlog]] and Dutch shipping was quoted by [[H. van Kol]] in the [[Tweede Kamer]] on [[17 November]] [[1897]].
+**W. C. Nieuwenhuizen** was a Dutch writer in the *[[indische-gids|Indische Gids]]* whose dictum on the relation between the [[Aceh War|Atjeh-oorlog]] and Dutch shipping was quoted by [[h-van-kol|H. van Kol]] in the [[tweede-kamer-der-staten-generaal-(colonial-business)|Tweede Kamer]] on [[17-november|17 November]] [[1897]].
 
 ## *Poeloe Weh* (1898)
 
-Nieuwenhuyzen's *Poeloe Weh* — a study of the small island off the northern tip of Sumatra, on which the Dutch port of Sabang would later be developed — appeared in *De Indische Gids* of April 1898. Van der Kemp cites it on his fourth page, in connection with his discussion of the founding of [[Penang|Penang]] in 1786. The Treaty of [[Treaty of Quedah (Penang cession, 1786)|Quedah]], by which Captain [[Captain Francis Light|Francis Light]] obtained Penang from the sultan of [[Kedah|Kedah]] for an annual payment of ten thousand dollars, had been the subject of a separate study by Nieuwenhuyzen, who had drawn attention to the original Malay text of the cession and to the supplementary documents preserved in the Bisschop collection. Van der Kemp, though declining to reprint those documents himself, refers his readers to Nieuwenhuyzen's article for further particulars.
+Nieuwenhuyzen's *Poeloe Weh* — a study of the small island off the northern tip of Sumatra, on which the Dutch port of Sabang would later be developed — appeared in *De Indische Gids* of April 1898. Van der Kemp cites it on his fourth page, in connection with his discussion of the founding of [[penang|Penang]] in 1786. The Treaty of [[Treaty of Quedah (Penang cession, 1786)|Quedah]], by which Captain [[Captain Francis Light|Francis Light]] obtained Penang from the sultan of [[kedah|Kedah]] for an annual payment of ten thousand dollars, had been the subject of a separate study by Nieuwenhuyzen, who had drawn attention to the original Malay text of the cession and to the supplementary documents preserved in the Bisschop collection. Van der Kemp, though declining to reprint those documents himself, refers his readers to Nieuwenhuyzen's article for further particulars.
 
 ## The Warning of American Designs on the Philippines
 
-Nieuwenhuyzen's second appearance in Van der Kemp's article is in connection with the celebrated letter of [[J. C. Baud|J. C. Baud]] to [[Anton Reinhard Falck|Minister Falck]] of 28 November 1822, in which Baud had predicted that the North Americans would one day seize the [[Philippines|Philippines]]. The prophecy, fulfilled in 1898 with the American occupation of the Philippines during the Spanish–American War, was more than seventy-five years ahead of its time. Nieuwenhuyzen had earned, in Van der Kemp's words, "the merit of pointing this out" in *De Nederlandsche Spectator* of 10 December 1898. The reference to Nieuwenhuyzen comes at the close of Van der Kemp's discussion of the British plenipotentiaries' invocation, at the London conference of 23 February 1824, of an American threat to Acheh — an invocation that Van der Kemp insists was no idle speculation but a real concern of Dutch colonial strategists since at least 1822.
+Nieuwenhuyzen's second appearance in Van der Kemp's article is in connection with the celebrated letter of [[j-c-baud|J. C. Baud]] to [[Anton Reinhard Falck|Minister Falck]] of 28 November 1822, in which Baud had predicted that the North Americans would one day seize the [[philippines|Philippines]]. The prophecy, fulfilled in 1898 with the American occupation of the Philippines during the Spanish–American War, was more than seventy-five years ahead of its time. Nieuwenhuyzen had earned, in Van der Kemp's words, "the merit of pointing this out" in *De Nederlandsche Spectator* of 10 December 1898. The reference to Nieuwenhuyzen comes at the close of Van der Kemp's discussion of the British plenipotentiaries' invocation, at the London conference of 23 February 1824, of an American threat to Acheh — an invocation that Van der Kemp insists was no idle speculation but a real concern of Dutch colonial strategists since at least 1822.
 
 ## The Ironical Citation on "Our Mighty Neighbour"
 
@@ -22,35 +22,39 @@ Nieuwenhuyzen's third appearance is more oblique. In the course of Van der Kemp'
 
 ## Nieuwenhuyzen as Colonial Commentator
 
-Taken together, the three citations present Nieuwenhuyzen as a distinctive voice in the Dutch colonial literature of the 1890s — a former colonial officer who combined technical familiarity with the geography of the East Indian archipelago (Poeloe Weh, Penang, the [[Philippines|Philippines]]) with a sharp, ironical judgment of the Dutch diplomatic record. His standing as *gep. kolonel* — a retired colonel — lends his writings the additional authority of long colonial service, and Van der Kemp's repeated recourse to them suggests that he regarded Nieuwenhuyzen as an ally in the project of revising the complacent Dutch historiography of the Acheh question.
+Taken together, the three citations present Nieuwenhuyzen as a distinctive voice in the Dutch colonial literature of the 1890s — a former colonial officer who combined technical familiarity with the geography of the East Indian archipelago (Poeloe Weh, Penang, the [[philippines|Philippines]]) with a sharp, ironical judgment of the Dutch diplomatic record. His standing as *gep. kolonel* — a retired colonel — lends his writings the additional authority of long colonial service, and Van der Kemp's repeated recourse to them suggests that he regarded Nieuwenhuyzen as an ally in the project of revising the complacent Dutch historiography of the Acheh question.
 
 
 ## The dictum
 
-The words, as Van Kol gave them, were: "De geschiedenis van den Atjeh-oorlog is in zekeren zin de geschiedenis van de [[Nederlandsch-Indische Stoomvaart-Maatschappij|Nederlandsch-Indische Stoomvaartmaatschappij]]." — The history of the Atjeh war is in a certain sense the history of the Netherlands-Indies Steamship Company.
+The words, as Van Kol gave them, were: "De geschiedenis van den Atjeh-oorlog is in zekeren zin de geschiedenis van de Nederlandsch-Indische Stoomvaartmaatschappij." — The history of the Atjeh war is in a certain sense the history of the Netherlands-Indies Steamship Company.
 
 Van Kol placed the quotation in the passage printed under the heading *De belanghebbenden*, in which he set out the private interests served by the prolongation of the war. It stood beside his statement that the *prauwenveren* had made colossal profits by their expensive freights and could pay yearly dividends of twenty to twenty-five per cent, and that the shares of the [[Koninklijke Paketvaart-Maatschappij|paketvaartmaatschappij]] rose in times of aggression and fell in days of gentler tactics.
 
 ## Significance
 
-The dictum was among the most damaging quotations available to the socialist case, since it came not from a party source but from a recognised colonial periodical. It was in substance conceded by the Minister of Colonies [[J. T. Cremer|Cremer]] for the earlier period: as former chairman of the Koninklijke he acknowledged that the provision of ships for expeditions had strengthened that company's treasury far more under its predecessor the [[Nederlandsch-Indische Stoomvaart-Maatschappij]], "die geen contract had gemaakt omtrent de huurprijzen van schepen en dikwijls dan ook toen groote dividenden uitkeerde." — which had made no contract about the hire prices of ships and often therefore paid great dividends at that time.
+The dictum was among the most damaging quotations available to the socialist case, since it came not from a party source but from a recognised colonial periodical. It was in substance conceded by the Minister of Colonies [[J. T. Cremer|Cremer]] for the earlier period: as former chairman of the Koninklijke he acknowledged that the provision of ships for expeditions had strengthened that company's treasury far more under its predecessor the Nederlandsch-Indische Stoomvaart-Maatschappij, "die geen contract had gemaakt omtrent de huurprijzen van schepen en dikwijls dan ook toen groote dividenden uitkeerde." — which had made no contract about the hire prices of ships and often therefore paid great dividends at that time.
+
+## In Brooshooft (1886)
+
+Brooshooft records that [[W. C. Nieuwenhuyzen|Nieuwenhuyzen]], as Government Commissioner, delivered the [[Manifest aan Sultan van Atjeh (22 March 1873)|manifest]] to the Sultan of Atjeh on [[22-march|22 March]] [[1873]] demanding satisfaction for the alleged provocations that had led to the crisis. When the Sultan's reply proved evasive, the decision was taken to send the [[April 1873 Atjeh Expedition|first expedition]] under [[J. H. R. Köhler|Köhler]].
 
 ## See Also
 
-- [[J. C. Baud]]
-- [[Anton Reinhard Falck]]
-- [[Captain Francis Light]]
-- [[Penang]]
-- [[Philippines]]
-- [[United States of America]]
-- [[Treaty of Quedah (Penang cession, 1786)]]
-- [[Raising of the Acheh treaty in London negotiations]]
-- [[P. H. van der Kemp]]
-- [[H. van Kol]]
-- [[Indische Gids]]
-- [[Nederlandsch-Indische Stoomvaart-Maatschappij]]
-- [[Koninklijke Paketvaart-Maatschappij]]
-- [[Economic interests alleged behind the Atjeh-oorlog (1897)]]
+- [[j-c-baud|J. C. Baud]]
+- [[anton-reinhard-falck|Anton Reinhard Falck]]
+- [[captain-francis-light|Captain Francis Light]]
+- [[penang|Penang]]
+- [[philippines|Philippines]]
+- [[united-states-of-america|United States of America]]
+- [[treaty-of-quedah|Treaty of Quedah (Penang cession, 1786)]]
+- [[raising-of-the-acheh-treaty-in-london-negotiations|Raising of the Acheh treaty in London negotiations]]
+- [[p-h-van-der-kemp|P. H. van der Kemp]]
+- [[h-van-kol|H. van Kol]]
+- [[indische-gids|Indische Gids]]
+- Nederlandsch-Indische Stoomvaart-Maatschappij
+- [[koninklijke-paketvaart-maatschappij|Koninklijke Paketvaart-Maatschappij]]
+- [[economic-interests-in-the-aceh-war|Economic interests alleged behind the Atjeh-oorlog (1897)]]
 - [[1897]]
 
 ## Sources
