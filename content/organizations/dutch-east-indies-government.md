@@ -48,6 +48,10 @@ Booms demonstrated from the [[Parliamentary Note on Relations with Aceh 1872-187
 
 After the April [[1873]] retreat, the [[Dutch East Indies Government]] established the [[Bureau for War Equipments on Sumatra]] to prepare the [[Second Aceh Expedition]] under General [[J. van Swieten]]. Throughout [[1874]], [[1875]], and [[1876]], the government overseen by Governors-General such as [[O. van Rees]] financed garrison infrastructure around [[Kraton of Aceh]] and authorized General [[J. L. J. H. Pel]] to wage offensive warfare in the interior mukims.
 
+## The second expedition
+
+[[Jan van Swieten]]’s [[1879]] retrospective described the [[Dutch East Indies Government]] as having appointed him Government Commissioner and commander of the [[Second Dutch Expedition to Aceh]]. He argued that the intended political programme sought security and recognized supremacy without immediate direct administration; this was his interpretation of the policy.
+
 ## See Also
 
 - [[1897]]
@@ -89,3 +93,5 @@ After the April [[1873]] retreat, the [[Dutch East Indies Government]] establish
 *DLP-84-Atjeh.pdf*, pp. 2-4.
 
 *Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 5-15; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 5-15.
+
+*De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 1–465.

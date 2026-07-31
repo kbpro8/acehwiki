@@ -24,6 +24,10 @@ Borel writes as a professional artilleryman and a moralist. He repeatedly invoke
 
 Borel is the principal Dutch critical voice on the conduct of the Atjeh War between [[1873]] and [[1878]]. His book is one of the few primary sources that narrates Dutch reverses — the [[Battle of Lampoe Oek (16 April 1874)|échec at Lampoe Oek]], the [[Battle of Longbatta (31 December 1874)|disaster at Longbatta]], the [[Atoeh catastrophe (13 February 1876)|catastrophe at Atoeh]] — in full tactical detail, and his advocacy of [[Mobiele colonnes (Borel)|mobiele colonnes]] over the [[Posten-systeem in Atjeh|posten-systeem]] anticipates the later *maréchaussée* system associated with [[Johannes van Heutsz|van Heutsz]].
 
+## The 1879 controversy
+
+[[Jan van Swieten]]’s [[1879]] book [[De waarheid over onze vestiging in Atjeh]] directly contested [[G. F. W. Borel]]’s *Onze vestiging in Atjeh*. Van Swieten charged that Borel had detached operations from their conditions of disease, supply, terrain, and political purpose. This was Van Swieten’s polemical assessment, not a neutral finding.
+
 ## See Also
 
 - [[Onze vestiging in Atjeh (Borel, 1878)]]
@@ -41,3 +45,5 @@ Borel is the principal Dutch critical voice on the conduct of the Atjeh War betw
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. Voorberigt, pp. V–VI; pp. 160, 182, 336–337, 355, 364.
+
+*De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 1–465.

@@ -60,6 +60,10 @@ The 1896 speech of [[I. D. Fransen van de Putte|Fransen van de Putte]] echoes th
 
 [[I. D. Fransen van de Putte|Fransen van de Putte]]'s 1896 speech is the most forceful liberal parliamentary argument against the conquest of Atjeh. The Makassar precedent — 150 years of patient co-existence within the city limits — supplied the historical reference-point for every subsequent liberal argument that the [[Netherlands]] should either subjugate Atjeh outright or withdraw, but should not prolong the intermediate state of inconclusive warfare.
 
+## Van Swieten’s account
+
+[[Jan van Swieten]] wrote in [[1879]] that discussions among [[I. D. Fransen van de Putte]], [[James Loudon]], and himself had framed the [[Second Dutch Expedition to Aceh]] around restraint: neither unlimited subjugation nor immediate direct administration. This identifies Fransen van de Putte’s place in Van Swieten’s retrospective argument.
+
 ## See Also
 
 - [[Aceh War]]
@@ -107,3 +111,5 @@ The 1896 speech of [[I. D. Fransen van de Putte|Fransen van de Putte]] echoes th
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159-239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 **Isaäc Dignus Fransen van de Putte** (1822–1902) was a Dutch liberal politician who served as Minister of Colonies and who figures in [[P. H. van der Kemp|Van der Kemp]]'s 1900 article as the spokesman for the colonial government in the Second Chamber debates of [[1872]] on the [[Sumatra Treaty of 1871|Sumatra-tractaat]]. In the source text, Van der Kemp refers to him by the name **Van Bosse** — a usage that the present article retains as an alias in keeping with the source.
 *Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 6-7.
+
+*De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 1–465.

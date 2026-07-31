@@ -91,6 +91,10 @@ Describing the fighting at [[Anagaloeng]] in [[December]] [[1893]], Hooijer wrot
 
 The compound dignity *[[Panglima Prang Besar]]* — Great War Commander — was conferred on Oemar by the Netherlands Indies government in [[September]] [[1893]]. *Panglima sagi* or *sagihoofd* designated the head of a *[[Sagi|sagi]]*, as with [[Toekoe Nja Banta]] of the [[Sagi der XXVI Moekims|XXVI Moekims]] and the young [[Panglima Polim]] of the [[XXII Moekims]].
 
+## Panglima in the Aceh War
+
+In the [[1873]]–[[1874]] campaign account of [[Jan van Swieten]], *panglima* retained its meaning of military commander. [[Teuku Potjoet Ali]] was identified as panglima of the [[III Mukim]], while [[Nja Abas]] was called panglima of the [[XXV Mukim]].
+
 ## See Also
 
 - [[Pieter Soury's mission to Atjeh (1641)]]
@@ -143,3 +147,5 @@ The compound dignity *[[Panglima Prang Besar]]* — Great War Commander — was 
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 40, 54.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 1–465.

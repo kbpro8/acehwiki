@@ -85,6 +85,10 @@ During the initial phase of the [[Second Aceh Expedition]], the ruler of Gighen 
 
 This document was highlighted in official reports in *Atjeh gedurende de tweede expeditie en later* ([[1876]]) as evidence that regional coastal rulers were separating from Sultan [[Sultan Mahmud Syah of Aceh]] following the invasion of [[Kraton of Aceh]].
 
+## Second expedition context
+
+During the [[Second Dutch Expedition to Aceh]], [[Jan van Swieten]] contrasted a coastal route near [[Gighen]] with a landing at [[Krueng Raba]]. He regarded the ability to remain in contact with the fleet as an important advantage of the Gighen coastal sector and later recorded negotiations there.
+
 ## See Also
 
 - [[1875]]
@@ -138,3 +142,5 @@ This document was highlighted in official reports in *Atjeh gedurende de tweede 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 80, 96.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 9, 10, 17, 22, 26, 50, 56, 92, 93. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 1–465.

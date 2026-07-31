@@ -145,6 +145,10 @@ The Dutch alliance policy proceeded by clearing whole groups of *moekims* of the
 
 [[Sagi]], [[Peleebalangschap]], [[Groot-Atjeh]], [[F. W. A. L. de Nijs]], [[G. F. B. Watrin]], [[G. J. van Dongen]], [[Inlandsch Bestuur]], [[Erfelijkheid in Atjeh hoofd appointments]], [[Civiel Gezaghebber]], [[Rechtstreeks bestuurd gebied]]
 
+## Mukim politics in 1874
+
+[[Jan van Swieten]]’s [[1879]] account used *mukim* as a political as well as territorial category during the [[Aceh War]]. After the [[Capture of the Kraton of Aceh]], he recorded approaches from leaders of the [[XXV Mukim]], [[III Mukim]], and [[XXVI Mukim]], illustrating how the Dutch attempted to translate military occupation into separate local adhesions.
+
 ## See Also
 
 - [[XXII Mukims|XXII Moekim's]]
@@ -286,3 +290,5 @@ The Dutch alliance policy proceeded by clearing whole groups of *moekims* of the
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], p. 17.
+
+*De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 1–465.

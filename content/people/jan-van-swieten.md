@@ -149,6 +149,10 @@ Borel's indictment of van Swieten runs the length of *Onze vestiging in Atjeh*. 
 
 Sketching the symphony he thought the war deserved, Hooijer moved from the mysterious beginning full of fear of the European great powers, through the war-music of the [[First Aceh Expedition (1873)|first expedition]] and the stately advance of the second expedition rolling broadly along Acheh's shores, to *de dissonanten na van Swieten's vertrek met de schrille klanken van het Allah il Allah* — the dissonances after Van Swieten's departure, with the shrill sounds of the *Allah il Allah*. These, he wrote, were first drowned by the war- and victory-song under [[General van der Heijden|Van der Heijden]] but thereafter regained the upper hand, until muffled music could express the Dutch concealment behind the *[[Geconcentreerde linie|geconcentreerde linie]]*.
 
+## Van Swieten’s retrospective
+
+In [[1879]], [[Jan van Swieten]] published [[De waarheid over onze vestiging in Atjeh]]. He defended the limited-war and indirect-influence policy associated with the [[Second Dutch Expedition to Aceh]], arguing that capture of the [[Kraton of Aceh]] had not made direct administration prudent and that coercive destruction could strengthen resistance.
+
 ## See Also
 
 - [[Kloenkoeng]]
@@ -264,3 +268,5 @@ Sketching the symphony he thought the war deserved, Hooijer moved from the myste
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, Voorwoord.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 1–465.
