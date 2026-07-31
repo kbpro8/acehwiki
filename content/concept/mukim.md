@@ -141,6 +141,10 @@ Groups of *moekims* named by [[G. B. Hooijer]] include the [[IX Moekims]], whose
 
 The Dutch alliance policy proceeded by clearing whole groups of *moekims* of the *[[Moslemin]]* in turn: first the [[IX Moekims]] and the [[XXV Moekims]] by [[Teukoe Oemar]] in [[1893]], then the [[Sagi der XXVI Moekims|XXVI Moekims]] from [[September]] [[1893]], then the eastern part of the [[XXII Moekims]] from [[November]] [[1893]]. Posts were sited in part to separate one group from another: [[Lam Koenjit]], with [[Biloel]] and [[Tjot Goeë]], served to divide the [[XXII Moekims]] more effectively from the [[IX Moekims]].
 
+## Related topics
+
+[[Sagi]], [[Peleebalangschap]], [[Groot-Atjeh]], [[F. W. A. L. de Nijs]], [[G. F. B. Watrin]], [[G. J. van Dongen]], [[Inlandsch Bestuur]], [[Erfelijkheid in Atjeh hoofd appointments]], [[Civiel Gezaghebber]], [[Rechtstreeks bestuurd gebied]]
+
 ## See Also
 
 - [[XXII Mukims|XXII Moekim's]]
