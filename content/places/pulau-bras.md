@@ -1,6 +1,6 @@
 ---
 title: "Pulau Bras"
-aliases: ["Poeloe Bras", "Poelou Bras", "Pulo Bras", "Bras Island"]
+aliases: ["Poeloe Bras", "Poelou Bras", "Pulo Bras", "Bras Island", "Eiland Bras"]
 tags: ["place", "island", "aceh", "west-coast", "19th-century", "aceh-war"]
 ---
 
