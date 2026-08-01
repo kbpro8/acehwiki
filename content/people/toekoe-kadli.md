@@ -33,3 +33,23 @@ Toekoe Kadli's significance in the documentary record of the [[Aceh War|Atjeh-oo
 ## Source
 
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 14–15 (De Geestelijkheid in Atjeh — Habib Abdoe'r Rachman).
+
+## Account from Van Swieten (1879): Acting Bandhara and the Negotiations of March 1873
+
+[[Jan van Swieten|Lieutenant-General Van Swieten]], in *De waarheid over onze vestiging in Atjeh* ([[1879]]), identified Toengkoe Kadli with the fuller title "Toengkoe Kadli Malikoel Adil" and described him as the Sultan's second father-in-law — having married the Sultan to his daughter in early [[1873]] — and the acting *bandhara* (treasurer and chief minister) of the Acehnese court. Van Swieten's account provided crucial testimony from Toengkoe Kadli himself, given after his submission and arrival in [[Batavia]], where he stayed for half a month at the home of [[Raad van Indië|Councillor of the Indies]] [[Levysohn Norman]].
+
+### Role in the March 1873 Negotiations
+
+According to Toengkoe Kadli's later testimony, the Sultan's willingness to accept a treaty with the Dutch was defeated by the opposition of the *sagie* chiefs, "and among these the most vehement was Panglima Polim." The Sultan, Toengkoe Kadli said, lacked not the will but the courage to defy them. A treaty would have been advantageous for the Sultan — it would have given him Dutch protection and an increase in income — but the *sagie* chiefs would not permit it.
+
+Toengkoe Kadli confirmed that the dispatch of the Dutch letter via [[Sidi Tahil]] in [[March 1873]] had produced a poor impression. [[Sidi Tahil]], he said, behaved clumsily. When the conversation turned to the question of what flag would be flown, Sidi Tahil allegedly remarked — unprompted — that the Acehnese flag could continue to fly, but *under* the Dutch flag. This statement aroused such indignation among those present that they nearly attacked him, and Toengkoe Kadli had to intervene to protect him.
+
+### The Fire at Penajoeng
+
+During the [[Second Aceh Expedition (1873-1874)|Second Expedition]], Toengkoe Kadli had been inclined to come forward and accept the Dutch. But on [[19 December]] [[1873]], his house in the kampong of [[Penajoeng|Penajoeng (Penajong)]] was set on fire under mysterious circumstances. The house, described as a substantial plank-built dwelling, contained the Acehnese state archive, which was lost in the flames. Toengkoe Kadli, his confidence destroyed, fled into the interior and took no further part in the negotiations.
+
+When [[Levysohn Norman|Levysohn Norman]] later asked him why he had not approached the Dutch general, his answer was: "Toekoe Nek also advised me to do so, and promised a favourable reception. I was also minded to do it; but when on [[19 December]], at the arrival of the troops at Penajoeng, my house was set on fire, my confidence was destroyed and I took flight."
+
+## Source (Van Swieten account)
+
+*De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 20–25 (Inleiding).

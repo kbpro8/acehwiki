@@ -87,3 +87,25 @@ The **Sultan of Acheh** in the era of the [[Acheh War|war with the Dutch]] was t
 ## Source
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. p. 26. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+## Account from Van Swieten (1879)
+
+[[Jan van Swieten|Lieutenant-General Van Swieten]], in *De waarheid over onze vestiging in Atjeh* ([[1879]]), provided a detailed characterization of the Sultan at the time of the [[First Aceh Expedition (1873)|First Expedition]] and the diplomatic crisis of [[March 1873]]. Van Swieten described the Sultan's revenues as no more than 20,000 Spanish dollars, of which a substantial portion went to his officials. His authority was nominal. The real power in [[Groot-Atjeh]] lay with the *sagie* chiefs — the panglimas of the [[XXV Moekims]], the [[XXVI Moekims]], and the [[XXII Moekims]] — whose own revenues far exceeded the Sultan's. He had no police or executive force; he was almost entirely at the mercy of the tribal chiefs, and his personality was not forceful enough to restore the balance.
+
+### The Family Connections
+
+The Sultan had two powerful fathers-in-law. His first father-in-law was [[Toekoe Pakek]], the [[Radja of Pedir|radja of Pedir]]. His second father-in-law, with whom he had married in early [[1873]], was [[Toengkoe Kadli Malikoel Adil|Toengkoe Kali]], the acting *bandhara*. Both men were, to varying degrees, favourably disposed toward the Dutch. But neither could override the opposition of the *sagie* chiefs.
+
+### The Negotiations of March 1873
+
+During the diplomatic exchanges of [[March 1873]], the Sultan received the letters of [[F. N. Nieuwenhuizen|Government Commissioner Nieuwenhuizen]] via the intermediary [[Sidi Tahil]]. The Sultan's responses were evasive — he asked for time, he expressed a desire for friendship, he offered explanations for the armed gatherings along the shore (the people were merely curious about the large ship that had anchored so close to the coast), but he never provided the categorical answer demanded by the Commissioner.
+
+Van Swieten argued that the Sultan's indecisiveness was not the fundamental problem. The Sultan, he believed, would have accepted a treaty if the negotiations had been conducted by a European official who could explain the Dutch terms in person, promise protection, and offer concrete material advantages. The failure to exploit this possibility — the refusal to send [[Th. E. R. Kraaijenhoff|Kraaijenhoff]], who had offered to go himself — was, in Van Swieten's judgment, the critical error that made war inevitable.
+
+### The Flight from the Kraton
+
+When the [[Second Aceh Expedition (1873-1874)|Second Expedition]] captured the [[Kraton of Aceh|Kraton]] on [[24 January]] [[1874]], the Sultan had already fled. He retreated into the interior — to a place, according to reports gathered at [[Pinang]], three days' journey from the Kraton in the mountain interior, where a fortified position had been prepared. His flight meant that there was no sovereign to negotiate with and no authority capable of surrendering on formal terms. Van Swieten's proclamation of [[31 January]] [[1874]] declared the land annexed by right of conquest precisely because the Sultan had fled and no treaty could be concluded.
+
+## Source (Van Swieten account)
+
+*De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 19–22 (Inleiding).

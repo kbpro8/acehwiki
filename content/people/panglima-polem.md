@@ -439,3 +439,15 @@ The [[XXII Moekims]] of which Panglima Polim was *sagi*-head fringed the Dutch c
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 49-50.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+## Account from Van Swieten (1879)
+
+[[Jan van Swieten|Lieutenant-General Van Swieten]], in *De waarheid over onze vestiging in Atjeh* ([[1879]]), identified Panglima Polim as the most formidable military leader of the Acehnese resistance and the principal opponent of any accommodation with the Dutch. According to the testimony of [[Toengkoe Kadli Malikoel Adil|Toengkoe Kali]], given in [[Batavia]] after his submission, the Sultan's willingness to accept a treaty with the Dutch was defeated by the opposition of the *sagie* chiefs, "and among these the most vehement was Panglima Polim."
+
+Van Swieten noted that the panglima of the [[XXII Moekims]] was the first among the *sagie* chiefs in power and influence. His revenues exceeded those of the Sultan, and his authority within his sagie was nearly absolute. He was, Van Swieten wrote, the chief obstacle to any peaceful settlement — not because the Sultan was unwilling to accept Dutch terms, but because Panglima Polim and the other *sagie* chiefs understood that Dutch sovereignty would extinguish their own quasi-independent authority.
+
+After the departure of the main force in [[April 1874]], Panglima Polim continued to lead the guerrilla resistance. According to informants cited in the Dutch press publication "De Patriot," his residence was in the interior at the first mountain slope, reachable in two to three marches from the coast.
+
+## Source (Van Swieten account)
+
+*De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 19–20, 461–462.

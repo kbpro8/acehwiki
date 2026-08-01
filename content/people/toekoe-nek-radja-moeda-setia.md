@@ -141,3 +141,15 @@ Toekoe Nek's intervention was thus the proximate cause of the discovery that the
 ## Source
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 21-26.
+
+## Account from Van Swieten (1879)
+
+[[Jan van Swieten|Lieutenant-General Van Swieten]], in *De waarheid over onze vestiging in Atjeh* ([[1879]]), confirmed Toekoe Nek's role as one of the most influential Acehnese chiefs and his early submission to the Dutch. During the diplomatic exchanges of [[March 1873]], Toekoe Nek received [[Sidi Tahil]] at kampong [[Djawa]] near [[Maraksa]] and provided him with access to the [[Panglima Dalam]], who escorted Sidi Tahil into the [[Kraton of Aceh|Kraton]].
+
+During the [[Second Aceh Expedition (1873-1874)|Second Expedition]], the Dutch deliberately chose to land east of the [[Atjeh River|Atjeh river]] at [[Kwala Loë]] on [[9 December]] [[1873]] partly to spare Toekoe Nek's kampong of Maraksa. He had offered his services before the landing and was among the first of the Acehnese chiefs to come over to the Dutch side. He subsequently advised [[Toengkoe Kadli Malikoel Adil|Toengkoe Kali]] to approach the Dutch commanding general and promised a favourable reception.
+
+In Van Swieten's letter to the [[Radja of Troemon]], he wrote with pleasure of having observed "that my friend Toekoe Nek has been occupied in inducing the above-mentioned states to recognize the Netherlands Government as their Overlord and to refrain from hostilities."
+
+## Source (Van Swieten account)
+
+*De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 21, 25, 88, 465.

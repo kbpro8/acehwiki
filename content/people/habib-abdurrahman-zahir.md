@@ -323,3 +323,17 @@ The Habibs represent the transnational Islamic dimension of the [[Aceh War]]. Th
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 13, 17, 20–22. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter III (mission to Constantinople and the Raad van Achten), Chapter V (return to Groot-Atjeh), Chapter VI (invasion of June 1878 and surrender). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 13, 22–23, 29–30.
 *Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 6-11.
+
+## Account from Van Swieten (1879): The Constantinople Mission
+
+[[Jan van Swieten|Lieutenant-General Van Swieten]], in *De waarheid over onze vestiging in Atjeh* ([[1879]]), provided detail on the Habib's mission to [[Constantinople]]. In [[January 1873]], even before the outbreak of hostilities, the Habib was dispatched by the Acehnese leadership to the [[Ottoman Empire|Ottoman Sultan]] to seek military and diplomatic support. Van Swieten recorded: "From the very beginning the Acehnese flattered themselves with Turkish help and eagerly believed the repeatedly circulating rumours of the arrival of Turkish warships."
+
+The Habib carried petitions from the Acehnese chiefs, written "in words full of Eastern glow and religious enthusiasm," invoking the help of the Great Lord. They declared themselves vassals of Turkey, for as early as [[1562]] Atjeh had been placed under the sovereignty of [[Selim I|Sultan Selim I]], and that relationship had been renewed in [[1851]]. The flag they flew was that of the Ottoman Empire — a white half-moon on a red field.
+
+The Porte hesitated, torn between duty as head of the Islamic faith and the old friendship with the Netherlands. The Habib's negotiations were strongly supported by [[Midhat Pasha]] and by recommendations from the [[Sharif of Mecca]]. But at the end of August [[1873]], the Ottoman Government formally renounced both factual and diplomatic intervention — a decision to which the firm posture of the Dutch diplomats, supported by [[France]] and [[Russia]], contributed not a little.
+
+Van Swieten further noted that the Habib's machinations "were not to be despised" and had begun to assume a threatening character. His agents were active in the [[Straits Settlements]], particularly at [[Pinang]] and [[Singapore]], working to keep the Acehnese cause before the international community.
+
+## Source (Van Swieten account)
+
+*De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 35–36, 44–45.

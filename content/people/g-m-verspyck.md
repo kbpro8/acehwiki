@@ -98,3 +98,13 @@ From Kota Goenoengan, "between the brushwood, one saw a broken piece of wall wit
 ## Source
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 19-26.
+
+## Account from Van Swieten (1879)
+
+[[Jan van Swieten|Lieutenant-General Van Swieten]], in his *De waarheid over onze vestiging in Atjeh* ([[1879]]), recorded Verspyck's participation in the critical conference of [[12 May]] [[1873]] at which the composition and strength of the Second Expedition were determined. At this conference, attended by the Commander of the Army [[N. H. W. S. Whitton|Whitton]], Colonel [[E. C. van Daalen|Van Daalen]], Colonel [[A. W. Egter van Wissekerke|Egter van Wissekerke]], and Lieutenant-Colonel [[H. G. Boumeester|Boumeester]], Verspyck — as Major-General and head of the 2nd Department of the War Department — concurred with the view that the expedition should be designed initially for the capture of the Kraton only, not for the complete conquest of the entire realm, and that a force of approximately 6,000 infantry would be sufficient. The Commander of the Army agreed, and this became the basis for the expedition's organization.
+
+Van Swieten also noted that it was to Verspyck — then second-in-command — that he had entrusted the bold storming of Tiban on [[14 December]] [[1873]], one of the decisive engagements of the advance on the [[Kraton of Aceh|Kraton]].
+
+## Source (Van Swieten account)
+
+*De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Boekerij van het Koloniaal Instituut, Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 46, 88, 482.

@@ -47,3 +47,15 @@ Borel is the principal Dutch critical voice on the conduct of the Atjeh War betw
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. Voorberigt, pp. V–VI; pp. 160, 182, 336–337, 355, 364.
 
 *De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 1–465.
+
+## Van Swieten's Rebuttal: The Kampong-Burning Debate
+
+In Van Swieten's [[1879]] account, the General devoted extensive passages to rebutting Borel's advocacy of systematic kampong destruction. Van Swieten argued that Borel had claimed the Acehnese had "forfeited all claim to compassion or forbearance" by their conduct of the war — but Van Swieten responded that this argument, even if accepted, could not justify an endless programme of devastation. He noted that by the time the map of [[Groot-Atjeh]] was drawn up in March [[1876]], 230 kampongs were marked as burned, a number that had certainly grown enormously by [[1879]].
+
+Van Swieten invoked the provisions of Articles 172 and 173 of the Criminal Code for the Land Forces, which prohibited the destruction of dwellings and property under penalty of death. He further argued that Borel's approach would require the destruction of virtually everything, because resistance was offered everywhere, and that such a policy would produce only bitterness, prolonging the war indefinitely.
+
+"The entire task in India must be of a different nature," Van Swieten wrote. "It must be civilizing, ennobling, worthy of the character of a small people that exercises dominion over such beautiful and extensive lands." He cited the example of the Java War ([[1825]]–[[1830]]), when the Dutch had refrained from burning kampongs and had succeeded in winning over the population through patience and moderation.
+
+## Source (Van Swieten rebuttal)
+
+*De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 4–7 (Inleiding), pp. 437–455 (closing sections of Hoofdstuk IX).

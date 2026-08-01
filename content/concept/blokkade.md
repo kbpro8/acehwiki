@@ -81,3 +81,15 @@ The blokkade's significance in the Aceh Wiki History record rests on three thing
 ## Source
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 12, 15, 19, 28–43. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+## Account from Van Swieten (1879): Ships, Commanders, and Operations
+
+[[Jan van Swieten|Lieutenant-General Van Swieten]], in *De waarheid over onze vestiging in Atjeh* ([[1879]]), provided a detailed account of the blockade squadron and its operations. The blockade was initially commanded by Captain-Lieutenant [[J. W. Binkes]] after the departure of the expedition's transports. By the end of June [[1873]], the squadron had grown to fourteen ships, and by the end of August to twenty-three, including the steam frigate {{HMS Zeeland}}, {{HMS Metalen Kruis}}, {{HMS Citadel van Antwerpen}}, {{HMS Watergeus}}, {{HMS Vice-admiraal Koopman}}, {{HMS Coehoorn}}, {{HMS Den Briel}}, {{HMS Schouwen}}, {{HMS Riowo}}, {{HMS Banda}}, {{HMS Amboina}}, {{HMS Bommelerwaard}}, {{HMS Soerabaja}}, {{HMS Timor}}, {{HMS Sumatra}}, {{HMS Admiraal van Kinsbergen}}, {{HMS Borneo}}, and government steamers {{HMS Hertog Bernhard}}, {{HMS Siak}}, {{HMS Telegraaf}}, and {{HMS Argus}}. The squadron was ultimately under the command of Captain [[J. van Gogh|Van Gogh]].
+
+Van Swieten noted that despite the blockade's strictness, "communication with the outside world was not entirely cut off." The Acehnese were remarkably well informed about external events, and "more than one prauw or small vessel, under cover of night or stormy weather, managed to reach the coast."
+
+The blockade had both a military and political dimension. Ship commanders were instructed to maintain friendly relations with the rulers of the subordinate states, several of which — notably [[Edi]], [[Troemon]], and others — expressed their willingness to accept Dutch sovereignty. The government was cautious in granting these requests, as lifting the blockade for newly protected ports would have weakened the overall blockade of hostile territory.
+
+## Source (Van Swieten account)
+
+*De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 61–86 (Hoofdstuk II).

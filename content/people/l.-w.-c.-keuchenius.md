@@ -20,3 +20,15 @@ Van Kol used the citation to press his charge that in the twenty-five years duri
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 41, 61–62.
 
 *Acknowledgement of sources.* The material in this article derives from *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor 1898* (Amsterdam: J. A. Fortuijn, [[1897]]). Dutch passages are quoted in the original with an English rendering.
+
+## The De Standaard Nota (June 1873)
+
+[[Jan van Swieten|Van Swieten]], in *De waarheid over onze vestiging in Atjeh* ([[1879]]), cited a different and earlier manifestation of Keuchenius's criticism: a *nota* published in the newspaper *De Standaard* on [[13 June]], [[16 June]], and [[17 June]] [[1873]], in which Keuchenius — then identified as a former member of the [[Raad van Nederlandsch-Indië|Council of the Indies]] — accused [[J. Loudon|Governor-General Loudon]] of having undertaken the war with "little justified purpose, on frivolous grounds, with arrogant self-confidence, in haste, with short-sightedness if not worse, without policy, in thoughtlessness." He declared that the Governor-General had "brought dishonour upon Netherlands statecraft."
+
+The *nota* concluded with a prayer that the King be moved "to halt the perpetrated atrocities; to stop the hastily undertaken hostilities against Atjeh; and to dispatch a magnificent embassy directly from the Netherlands to assure the Sultan of Atjeh that He in sincere friendship wishes to live with Atjeh."
+
+Van Swieten cited the *nota* as one of the "unseemly outbursts" of the press that, when known in [[Pinang]] and carried to Atjeh, "caused the belief to arise that the war was neither popular in the Netherlands nor in India, and that from Atjeh's side only perseverance was needed to triumph." The public criticism from the Netherlands thus contributed, in Van Swieten's analysis, to the hardening of the Acehnese position and the failure of the diplomatic efforts of [[March 1873]].
+
+## Source (Van Swieten account)
+
+*De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 9–10.

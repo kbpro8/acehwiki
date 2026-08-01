@@ -72,3 +72,15 @@ During the [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 1-52.
 
 Verslag van het verhandelde in de vergaderingen der Tweede Kamer in comité-général van 16, 17, 18 en 20 April 1874: Oorlog met Atjeh, gedrukt ter Algemene Landsdrukkerij van het Koloniaal Instituut (1881), pp. 7–95.
+
+## Account from Van Swieten (1879)
+
+[[Jan van Swieten|Lieutenant-General Van Swieten]], in *De waarheid over onze vestiging in Atjeh* ([[1879]]), provided additional detail on Loudon's role in the decision to dispatch the expedition. When [[F. N. Nieuwenhuizen|Government Commissioner Nieuwenhuizen]] telegraphed from [[Pinang]] on [[17 March]] [[1873]] requesting permission to bombard immediately, Loudon — perceiving in the request a reluctance to act on the Commissioner's own responsibility — telegraphed back that Nieuwenhuizen was authorized to act as he thought fit, even beyond his written instructions, and that the Governor-General would bear responsibility for the consequences. "Trust in me," Loudon telegraphed, "as I do in you."
+
+Van Swieten described the policy for Atjeh as having been developed in consultation between the [[Minister of Colonies]] [[I. D. Fransen van de Putte]], the Governor-General, and himself. The policy aimed not at violent subjugation or direct administration but at establishing Dutch influence through a treaty modelled on the [[Treaty of 30 March 1857 with the Sultan of Atjeh|Siak treaty of 1858]].
+
+Van Swieten later asked why Loudon and the Commander of the Army [[N. H. W. S. Whitton|Lieutenant-General Whitton]] had never received recognition for their services in organizing the Second Expedition — particularly when their successors [[J. W. van Lansberge|Van Lansberge]] and [[G. P. de Neve|De Neve]] were rewarded in [[1878]].
+
+## Source (Van Swieten account)
+
+*De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 4, 13, 60.
