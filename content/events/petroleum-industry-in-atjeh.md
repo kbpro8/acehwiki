@@ -118,6 +118,26 @@ The oil exploration in North Sumatra is significant for the encyclopedia of [[Ac
 
 
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+In author [[J. Langhout|Joh. Langhout]]'s chapter "De Petroleum-ontginning" ("The petroleum-exploitation"), the industry was one of the first to establish itself in the still un-pacified [[Acheh|Atjeh]] — and, against the popular legend "dat de militaire excursies vaak slechts moesten dienen om dekking te verleenen aan de nieuw gevestigde ondernemingen" ("that the military excursions often merely served to give cover to the newly established enterprises"), it was itself "one of the foremost factors of the pacification of this part of the coast tract".
+
+### From dug wells to company
+
+The industry's roots lay in the landscape [[Peureula]] on the East Coast, where petroleum springs had been worked "in native fashion" for centuries: from of old an "Indische markt" (Indian market) existed there, where the oil won from four dug wells was brought to market — the source of the petroleum which the [[Vereenigde Oost-Indische Compagnie|East India Company]] in the eighteenth century sometimes obtained from the Sultan of Atjeh and which was highly prized in the mother-country as a medicament. Already in [[1890]], even south of the provincial border in the [[Langkat]] country, the [[Bataafsche Petroleum Maatschappij|Bataafsche]] had founded her establishment [[Pangkalan Brandan]]; an establishment at the deep-water [[Aroebai|Aroe-baai]] was then impossible for the absence of every authority, Dutch or native, the coast lying in complete anarchy and the young establishment being repeatedly startled by attacks of roving bands. A few years later the Hollandsche Perlak Maatschappij (the later [[Perlak Petroleum-Mij]]) began her activity on actual Atjehnese ground, at Peureula.
+
+### The pacifying enterprise
+
+On the estates the Atjehnese for the first time knew the Hollander otherwise than as a soldier: there he found work and an ample earning, while to the chiefs and great ones the enterprise opened a source of income in the *cijns* (tribute) greater than they had ever drawn from the heaviest taxing of their subjects. The tact and language-knowledge of the administrator [[Allein]] reconciled the surrounding population to the point that within a short time he worked with 60% Atjehnese voluntary labour, and many of the later employees of the [[Atjeh Tram]] received their first schooling on the Perlak enterprise. After a few raids by strange mountain bands in the first years, the enterprise's good name became known even to the "kwaadwilligen" ("evilly-disposed"): once, upon a foray in which all rice was carried off from the native and Chinese settlement, the enterprise's full rice-barns — past which the bands had crossed the river — were left unmolested. The successive governors of Atjeh therefore always favoured the petroleum enterprises, and — in deviation from custom — a geologist or other officer was occasionally allowed to accompany an excursion into the interior in search of oil-traces: "de vestiging van den olieman, zoo wisten de militairen, beteekent... de vrede!" ("the settlement of the oil-man, the soldiers knew, means... peace!").
+
+### Extensions and consolidation
+
+Governor [[Joannes Benedictus van Heutsz|Van Heutsz]] gave European mining his full interest, opening several tracts for private investigation and exploitation: especially in Peureula were great and rich petroleum wells struck, and in [[1902]]–[[1903]] also at [[Langsar]], [[Peudada]], [[Idi]], [[Djoelo Rajeu]] and [[Tjoenda]]. In [[1899]] the [[Koninklijke Petroleum Maatschappij]] had founded enterprises at [[Lho Seumawe|Lho Seumawè]] and Peureula. Governor [[H. N. A. Swart|Swart]]'s government explored for petroleum in [[Peusangan River|Peusangan]] without exploitation following; the province's mineral concessions were not extended — "hetwelk te betreuren viel" ("which was to be deplored") — the foremost concession remaining that of [[Zuid-Perlak Petroleum-Mij|Zuid Perlak]], exploited "by de Koninklijke". Some years before [[1923]] the Zuid Perlak Maatschappij transferred its works to the [[Bataafsche Petroleum Maatschappij]], which already exploited other Perlak terrains.
+
+### Rantau Pandjang and the pipeline
+
+"In het binnenland is gaandeweg een oliestad, Rantau Pandjang, ontstaan" — in the interior the oil city [[Rantau Pandjang]] gradually arose: the oil was won there and, by a kilometres-long pipeline, pumped to Pangkalan Brandan, the industrial city of the Langkat terrains. Rantau Pandjang had a brilliantly equipped enterprise, surrounded by oil wells, in which — beside a number of European workmen — a very great number of native and Chinese workers found an ample existence. According to the official data, the Bataafsche pumped in December [[1922]] from the tract Peureula "121197 ton" (as printed; probably 121,197 ton) of crude oil, while in the same month 598 tons were pumped from the oil field at [[Aloer Mas]] toward Rantau Pandjang — figures which over the last years showed a steady increase. (For the company histories see [[Bataafsche Petroleum Maatschappij]], [[Perlak Petroleum-Mij]], [[Zuid-Perlak Petroleum-Mij]] and [[Koninklijke Petroleum Maatschappij]].)
+
 ## See Also
 
 - [[Gold mining in Atjeh]]
@@ -161,6 +181,24 @@ The oil exploration in North Sumatra is significant for the encyclopedia of [[Ac
 - [[1940]]
 - [[1941]]
 
+- [[Vijftig jaren economische staatkunde in Atjeh]]
+- [[Bataafsche Petroleum Maatschappij]]
+- [[Perlak Petroleum-Mij]]
+- [[Zuid-Perlak Petroleum-Mij]]
+- [[Koninklijke Petroleum Maatschappij]]
+- [[Rantau Pandjang]]
+- [[Aroebai]]
+- [[Langkat]]
+- [[Langsar]]
+- [[Peudada]]
+- [[Djoelo Rajeu]]
+- [[Tjoenda]]
+- [[Aloer Mas]]
+- [[Allein]]
+- [[1899]]
+- [[1902]]
+- [[1903]]
+- [[1922]]
 
 ## Source
 
@@ -171,3 +209,4 @@ translation from the Dutch).
 
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), pp. 7–11 (petroleum history, situation before WWII, oil districts of the East Indies).
 
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 68, 83–85, 108, 160–163 (chapter "De Petroleum-ontginning"), illustration captions pp. 160, 162.

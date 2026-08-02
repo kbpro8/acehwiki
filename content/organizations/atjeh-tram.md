@@ -169,7 +169,7 @@ The Atjeh-tram is the principal means of overland transport in the *Gouvernement
 
 At the meeting Swart held with all the *[[oelèëbalang]]s* of the eastern part of the province at [[Lho' Seumawè]] in [[1908]], he raised the unceasing attacks on the tram, which had become the rule: "I firmly count on it that those attacks are finished from today. Should that not be the case, then I can assure the territorial chiefs that I shall make them feel it severely!" He did not say how or what or where — "but they still knew me there from the time when I was major at Lho' Seumawè, and so they knew that it would strike home. Then they said: "you may rely on it." And from then on the tramway line there was no longer destroyed."
 
-Neither the Atjehtram nor the telephone line had been safe from [[Pang Nanggròë]] for a single day. In [[Pidië]] operations against the sensitive tram line continued into [[1911]]: "that was the finest opportunity to bring well-disposed [[keutjhi'|village heads]] into difficulty."
+Neither the Atjehtram nor the telephone line had been safe from [[Pang Nanggròë]] for a single day. In [[Pidie|Pidië]] operations against the sensitive tram line continued into [[1911]]: "that was the finest opportunity to bring well-disposed [[keutjhi'|village heads]] into difficulty."
 
 By [[1910]] the *[[Koloniaal Verslag]]* could report of the north coast: "the Atjeh tramway always ran without escort, and the trackmen no longer had to be protected, while for their quarters, erected everywhere along the line, no extra protection proved necessary; destruction of telephone lines had not occurred in the last months."
 

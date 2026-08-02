@@ -31,7 +31,7 @@ The passage stands immediately after his report of the West Coast results — tw
 
 ## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
 
-**Simaloer** (Simeulue; in [[J. Langhout|Joh. Langhout]]'s text also "Simeuloeë") was the northernmost of the chain of large islands off the West Coast of [[Sumatra]] belonging to [[Acheh|Atjeh]] — about 100 kilometres long by 10 to 25 kilometres wide, traversed along its length by a steep, much-branched mountain ridge — which under Dutch rule became the scene of the mechanized timber exploitation of the [[N.V. Vereenigde Javasche Houthandel Maatschappijen]] for the island's endemic rassak tree, and earlier the island where, with [[Poelò Breuëh]], ship-building was the chief native industry.
+**Simaloer** (Simeulue; in [[J. Langhout|Joh. Langhout]]'s text also "Simeuloeë") was the northernmost of the chain of large islands off the West Coast of [[Sumatra]] belonging to [[Acheh|Atjeh]] — about 100 kilometres long by 10 to 25 kilometres wide, traversed along its length by a steep, much-branched mountain ridge — which under Dutch rule became the scene of the mechanized timber exploitation of the [[N.V. Vereenigde Javasche Houthandel Maatschappijen]] for the island's endemic rassak tree, and earlier the island where, with [[Poelo Breuëh|Poelò Breuëh]], ship-building was the chief native industry.
 
 ### Geography and population
 

@@ -155,7 +155,7 @@ In the budget of [[1900]] funds were granted for the tramway [[Sigli]]–[[Lho S
 - [[General van der Heijden|Karel van der Heijden]]
 - [[Atjeh Tram]]
 - [[Sigli]]
-- [[Pidië]]
+- [[Pidie|Pidië]]
 
 ## Source
 

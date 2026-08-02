@@ -5,11 +5,11 @@ tags: [person, woman, aceh, aceh-war, pidie, 20th-century, resistance, "nobility
 description: "From Pidië; suspected of hiding a klewang, she drew her rentjong and charged the brigade; received two skull houwen, two shoulder houwen, and a cut Achilles heel; left for dead; survived; wanted to slaughter the whole moekim; found by Veltman at keudé Biheuë with maggots in her wounds; treated by Veltman; saluted by kolonel Scheur (Scheurer) of Lombok; never troubled the Kompeuni again."
 ---
 
-**Potjoet Meurah** — modern *Cut Meurah* — was a prominent Acehnese woman of [[Pidië]], not to be confused with the old Sultans-widow of the same name still living at [[Koetaradja]] in Zentgraff's day. She is one of the supreme examples Zentgraff gives of the Atjehsche woman's *doodsverachting* — contempt of death — in the guerrilla war.
+**Potjoet Meurah** — modern *Cut Meurah* — was a prominent Acehnese woman of [[Pidie|Pidië]], not to be confused with the old Sultans-widow of the same name still living at [[Koetaradja]] in Zentgraff's day. She is one of the supreme examples Zentgraff gives of the Atjehsche woman's *doodsverachting* — contempt of death — in the guerrilla war.
 
 ## The rentjong and the brigade
 
-During a patrol in [[Pidië]] a prominent Acehnese woman, Potjoet Meurah, was detained on suspicion of having a klewang hidden under her *kain*. Suddenly she drew a *rentjong* and, with the cry *"Dan ben ik liever dood"* — "Then I'd rather be dead" — stormed the brigade. The brigade had no choice against a woman who stabbed around her like a madwoman, and a moment later she lay severely wounded on the ground. She had been fearfully battered: she had two *houwen* (cuts) in the skull, two in the shoulder, and on one of her feet the Achilles-heel had been cut through. So she lay, full of blood and mud, a miserable heap of flesh; and a sergeant who pitied her asked the commander: *"Shall I give her the mercy-shot?"* — which [[Veltman]] forbade with a *"ben je bedonderd?"*
+During a patrol in [[Pidie|Pidië]] a prominent Acehnese woman, Potjoet Meurah, was detained on suspicion of having a klewang hidden under her *kain*. Suddenly she drew a *rentjong* and, with the cry *"Dan ben ik liever dood"* — "Then I'd rather be dead" — stormed the brigade. The brigade had no choice against a woman who stabbed around her like a madwoman, and a moment later she lay severely wounded on the ground. She had been fearfully battered: she had two *houwen* (cuts) in the skull, two in the shoulder, and on one of her feet the Achilles-heel had been cut through. So she lay, full of blood and mud, a miserable heap of flesh; and a sergeant who pitied her asked the commander: *"Shall I give her the mercy-shot?"* — which [[Veltman]] forbade with a *"ben je bedonderd?"*
 
 So they marched on; one wanted to let her die among her own countrymen. Some days passed when Veltman, on the *keudé* Biheuë (between [[Sigli]] and [[Padang Tidji]]), heard that Potjoet Meurah was not only still alive, but was even planning to have the whole *moekim* slaughtered! It seemed a bit foolish that a soul so firmly riveted to a body so badly battered should hold such a plan; but for certainty Veltman had the kampong cordoned and searched house by house. After literally rummaging in every corner, she was discovered, well hidden behind all sorts of cloths. She looked terrible; on her wounds a paste of cooling dung had been laid, and weak from blood-loss and fever, she groaned with pain.
 
@@ -36,7 +36,7 @@ Receiving the journalist [[J. Langhout|Joh. Langhout]] as old Vice-President of 
 ## See Also
 
 - [[Veltman]]
-- [[Pidië]]
+- [[Pidie|Pidië]]
 - [[Sigli]]
 - [[Padang Tidji]]
 - [[Scheur]]

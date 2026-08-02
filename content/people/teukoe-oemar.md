@@ -144,7 +144,7 @@ Even [[1895]], the last year before Teukoe Oemar's defection, required a replace
 
 ## Pursuit and flight to the west coast
 
-The Dutch column at [[Lho' Nga]] attacked T. Oemar and drove him from [[Leupoeëng]], but his bands returned repeatedly, so that it lasted until [[1898]] before T. Oemar likewise withdrew to [[Pidië]] and joined [[Panglima Pòlém]] and the pretender-sultan [[Toeankoe Mochamad Dawot]]. Pidië then became the hearth of the resistance.
+The Dutch column at [[Lho' Nga]] attacked T. Oemar and drove him from [[Leupoeëng]], but his bands returned repeatedly, so that it lasted until [[1898]] before T. Oemar likewise withdrew to [[Pidie|Pidië]] and joined [[Panglima Pòlém]] and the pretender-sultan [[Toeankoe Mochamad Dawot]]. Pidië then became the hearth of the resistance.
 
 On [[1 June]] [[1898]] the resistance centre [[Garot]] fell to van Heutsz after a bold storm; there the pretender-sultan, Teukoe Oemar, Panglima Pòlém and [[Teungkoe di Tjòt Plieng]], head of the *[[oelama]]* party, had gathered. T. Oemar was thereafter driven into the mountains and chose as his residence the supposedly unreachable [[Tangsé]]; when van Heutsz reached and occupied Tangsé by the famous turning movement through the gorge of the [[Kroeëng Beuniët]], "Teukoe Oemar too took his threatened person and his followers to safety on the West Coast."
 
@@ -354,7 +354,7 @@ Thereafter Teukoe Oemar's presence on the West Coast seriously hampered the inla
 - [[Panglima Prang Besar]]
 - [[Pasar Oleh-Gli]]
 - [[Patrol of Captain Van Blokland (7 March 1896)]]
-- [[Pidië]]
+- [[Pidie|Pidië]]
 - [[Postenlinie]]
 - [[Selimoen]]
 - [[Soetan Ali]]

@@ -102,7 +102,7 @@ The **Nisero affair** of [[10 November]] [[1883]] – [[10 September]] [[1884]] 
 
 ### The stranding
 
-In the night of [[10 November|10]] to [[11 November]] [[1883]] the English steamship *Nisero*, commanded by Captain [[Captain Woodhouse|Woodhouse]] and coming with a cargo of sugar from [[Soerabaja]] destined for [[Suez]], stranded before [[Koela Panga]] on the West Coast of Atjeh: attempting upon [[Poelò Breuëh]] to take in coal in stormy weather, the ship ran aground by the mouth of the Panga river. The crew was forced to disembark and, once ashore, met from the population a very ungracious treatment, culminating in their imprisonment by the Radja of [[Teunom]] and the plundering of the stranded steamer.
+In the night of [[10 November|10]] to [[11 November]] [[1883]] the English steamship *Nisero*, commanded by Captain [[Captain Woodhouse|Woodhouse]] and coming with a cargo of sugar from [[Soerabaja]] destined for [[Suez]], stranded before [[Koela Panga]] on the West Coast of Atjeh: attempting upon [[Poelo Breuëh|Poelò Breuëh]] to take in coal in stormy weather, the ship ran aground by the mouth of the Panga river. The crew was forced to disembark and, once ashore, met from the population a very ungracious treatment, culminating in their imprisonment by the Radja of [[Teunom]] and the plundering of the stranded steamer.
 
 ### First demands
 

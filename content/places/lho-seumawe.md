@@ -157,11 +157,11 @@ It was to Lho' Seumawè that the woman found wandering near the raided *ladangs*
 
 ## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
 
-**Lho Seumawè** (modern Lhokseumawe) was the deep harbour of the North Coast of [[Acheh|Atjeh]] which in the last years of the old order served as sea-outlet for the smuggled trade of the closed [[Pidië]] tract, and which under Dutch rule developed into a garrison and commercial town — giving its name to the petroleum establishments of [[1899]], to a credit bank of [[1913]], and to the [[Handelsvereeniging Amsterdam|H.V.A.]]'s ill-fated estate [[Boeloe Belang Ara]] in its neighbourhood.
+**Lho Seumawè** (modern Lhokseumawe) was the deep harbour of the North Coast of [[Acheh|Atjeh]] which in the last years of the old order served as sea-outlet for the smuggled trade of the closed [[Pidie|Pidië]] tract, and which under Dutch rule developed into a garrison and commercial town — giving its name to the petroleum establishments of [[1899]], to a credit bank of [[1913]], and to the [[Handelsvereeniging Amsterdam|H.V.A.]]'s ill-fated estate [[Boeloe Belang Ara]] in its neighbourhood.
 
 ### The open harbour
 
-Under the resolution of [[29 May]] [[1883]] Lho Seumawè belonged to the few harbours remaining open for import and export; and when the [[Pidië]] tract was closed for the coasting trade, the population resorted to clandestine transport over land to [[Meureudoe]] and thence by sea to Lho Seumawè, until the licence system of July [[1894]] at [[Sigli]] relieved them. In [[1899]] the [[Bataafsche Petroleum Maatschappij|Koninklijke Petroleum Maatschappij]] founded establishments at Lho Seumawè and [[Peureula]]. From [[1903]] to [[1907]] the [[Nederlandsche Handel-Maatschappij]] kept a temporary agency there (at a level equal to that of Koeta Radja) while the coastal tramway was being built.
+Under the resolution of [[29 May]] [[1883]] Lho Seumawè belonged to the few harbours remaining open for import and export; and when the [[Pidie|Pidië]] tract was closed for the coasting trade, the population resorted to clandestine transport over land to [[Meureudoe]] and thence by sea to Lho Seumawè, until the licence system of July [[1894]] at [[Sigli]] relieved them. In [[1899]] the [[Bataafsche Petroleum Maatschappij|Koninklijke Petroleum Maatschappij]] founded establishments at Lho Seumawè and [[Peureula]]. From [[1903]] to [[1907]] the [[Nederlandsche Handel-Maatschappij]] kept a temporary agency there (at a level equal to that of Koeta Radja) while the coastal tramway was being built.
 
 ### The tramway and later development
 

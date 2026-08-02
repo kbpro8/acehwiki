@@ -4,7 +4,7 @@ aliases: ["Gighen", "Gighèn", "Gigieng", "Gigiëng (federation)"]
 tags: [place, landscape, federation, achehnese, trade]
 ---
 
-**Gigiëng** was the landscape and small federation of the [[Pidië]] region of [[Acheh|Atjeh]] whose radja signed the [[Submission of the Radja of Gigiëng (20 April 1874)|first act of submission]] of the [[Acheh War|war years]] on [[20 April]] [[1874]], and which from [[1890]] devoted itself so successfully to rice cultivation that it became the granary of the federation Pidië and could even spare rice for Groot-Atjeh.
+**Gigiëng** was the landscape and small federation of the [[Pidie|Pidië]] region of [[Acheh|Atjeh]] whose radja signed the [[Submission of the Radja of Gigiëng (20 April 1874)|first act of submission]] of the [[Acheh War|war years]] on [[20 April]] [[1874]], and which from [[1890]] devoted itself so successfully to rice cultivation that it became the granary of the federation Pidië and could even spare rice for Groot-Atjeh.
 
 ## The submission of 1874
 
@@ -18,7 +18,7 @@ Especially in the federation Gighen the population devoted itself from [[1890]] 
 
 - [[Raja of Gigieng|Radja of Gigiëng]]
 - [[Submission of the Radja of Gigiëng (20 April 1874)]]
-- [[Pidië]]
+- [[Pidie|Pidië]]
 - [[Agriculture in Atjeh]]
 
 ## Source

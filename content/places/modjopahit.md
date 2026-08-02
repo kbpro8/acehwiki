@@ -17,7 +17,7 @@ The threatened cultures, principally those in Modjopahit, were otherwise support
 ## See Also
 
 - [[Langsa]]
-- [[Pidië]]
+- [[Pidie|Pidië]]
 - [[Taxation in Atjeh]]
 - [[Pepper cultivation and trade in Atjeh]]
 

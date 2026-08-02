@@ -88,7 +88,7 @@ After the defection of Teukoe Oemar in March 1896, an extraordinary meeting of t
 
 ### Appointment of Van Heutsz
 
-In the years 1896–1898 Dr. C. [[C. Snouck Hurgronje|Snouck Hurgronje]] advised him on the choice of a new governor, recommending Colonel J. B. van Heutsz. Langhout writes that even the superficial reader of colonial history will come to the conviction that Governor-General Van der Wijck took the decision only after ripe deliberation and after accurate study of the advices received; shortly before the beginning of the [[Pidië]] expedition Van Heutsz took office as Civil and Military Governor.
+In the years 1896–1898 Dr. C. [[C. Snouck Hurgronje|Snouck Hurgronje]] advised him on the choice of a new governor, recommending Colonel J. B. van Heutsz. Langhout writes that even the superficial reader of colonial history will come to the conviction that Governor-General Van der Wijck took the decision only after ripe deliberation and after accurate study of the advices received; shortly before the beginning of the [[Pidie|Pidië]] expedition Van Heutsz took office as Civil and Military Governor.
 
 ## See Also
 

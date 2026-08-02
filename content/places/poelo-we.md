@@ -17,7 +17,7 @@ The island proved increasingly suited to the cultivation of pepper: under Govern
 ## See Also
 
 - [[Sabang]]
-- [[Poelò Breuëh]]
+- [[Poelo Breuëh|Poelò Breuëh]]
 - [[Maatschappij Zeehaven en Kolenstation Sabang]]
 - [[Pepper cultivation and trade in Atjeh]]
 

@@ -40,7 +40,7 @@ Schmidt's clearing of Teunòm was one of the conditions that reduced the disturb
 
 ### Insecurity, 1883
 
-During [[1883]] the *passar* and the establishment of the controller at Meulaboh had to endure repeated nocturnal attacks of robber bands; the warship *Madura* had to come to the rescue before the bands withdrew, to attack Meulaboh again later. It was in the Panga river's mouth — "Koela Panga" — that the English steamer *Nisero* stranded in the night of [[10 November|10]]–[[11 November]] [[1883]] on a voyage with a cargo of sugar from [[Soerabaja]] bound for [[Suez]], where her captain had tried to take in coal at [[Poelò Breuëh]]; the crew, once ashore, was imprisoned by the [[Radja of Teunom]] and the ship plundered.
+During [[1883]] the *passar* and the establishment of the controller at Meulaboh had to endure repeated nocturnal attacks of robber bands; the warship *Madura* had to come to the rescue before the bands withdrew, to attack Meulaboh again later. It was in the Panga river's mouth — "Koela Panga" — that the English steamer *Nisero* stranded in the night of [[10 November|10]]–[[11 November]] [[1883]] on a voyage with a cargo of sugar from [[Soerabaja]] bound for [[Suez]], where her captain had tried to take in coal at [[Poelo Breuëh|Poelò Breuëh]]; the crew, once ashore, was imprisoned by the [[Radja of Teunom]] and the ship plundered.
 
 ### The expedition and the closing
 

@@ -39,7 +39,7 @@ During the [[Blockade of the Atjeh coast (1873-1874)|blockade of the Atjehnese c
 - [[Submission of the Radja of Gigiëng (20 April 1874)]]
 - [[Gigiëng]]
 - [[Blockade of the Atjeh coast (1873-1874)]]
-- [[Pidië]]
+- [[Pidie|Pidië]]
 
 ## Source
 

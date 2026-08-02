@@ -84,15 +84,15 @@ In January [[1915]] the murder of a Chinese occurred at Sigli.
 
 ## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
 
-**Sigli** was the principal town of the North Coast of [[Acheh|Atjeh]] and the seat of one of the first assistant-residents of the [[Government of Atjeh en Onderhoorigheden]] (from [[1878]]), a station of the [[Atjeh Tram]] with the line's principal workshops, and later the seat of the administration of the department [[Pidië]] (photo caption: "Bestuurskantoor van den assistent-resident van Pidië te Sigli").
+**Sigli** was the principal town of the North Coast of [[Acheh|Atjeh]] and the seat of one of the first assistant-residents of the [[Government of Atjeh en Onderhoorigheden]] (from [[1878]]), a station of the [[Atjeh Tram]] with the line's principal workshops, and later the seat of the administration of the department [[Pidie|Pidië]] (photo caption: "Bestuurskantoor van den assistent-resident van Pidië te Sigli").
 
 ### Administration and trade restrictions
 
-At the civil formation of the end of [[1878]] one of the four assistant-residents was placed at Sigli, charged with the administration of the north coast. Under the resolution of [[29 May]] [[1883]] Sigli belonged — with [[Oeleë Lheuë|Oelèë Lheue]], [[Samalanga|Samelanga]], [[Lho Seumawè]], [[Idi]] and [[Meulaboh]] — to the only harbours open for import and export. In July [[1894]] a licence system with an extraordinary *hacil* duty on the export of products was introduced at Sigli as a temporary measure: it had the consequence that the population of the [[Pidië]] region, which tract was closed for the coasting trade, no longer needed to take recourse to clandestine transport over land to [[Meureudoe]] and thence by sea to [[Lho Seumawè]] (see [[Taxation in Atjeh]]).
+At the civil formation of the end of [[1878]] one of the four assistant-residents was placed at Sigli, charged with the administration of the north coast. Under the resolution of [[29 May]] [[1883]] Sigli belonged — with [[Oeleë Lheuë|Oelèë Lheue]], [[Samalanga|Samelanga]], [[Lho Seumawè]], [[Idi]] and [[Meulaboh]] — to the only harbours open for import and export. In July [[1894]] a licence system with an extraordinary *hacil* duty on the export of products was introduced at Sigli as a temporary measure: it had the consequence that the population of the [[Pidie|Pidië]] region, which tract was closed for the coasting trade, no longer needed to take recourse to clandestine transport over land to [[Meureudoe]] and thence by sea to [[Lho Seumawè]] (see [[Taxation in Atjeh]]).
 
 ### The Atjeh Tram
 
-The tramway along the North Coast was built from Sigli outward: the line Sigli–[[Kudéé Brueuk]] (18 km) opened for traffic in [[1899]]; funds for the line Sigli–[[Lho Seumawè]] were granted in the budget of [[1900]], its construction taken in hand from both ends because the middle part in the landscape [[Samalanga]] was politically inaccessible, and completed in April [[1904]] after three iron bridges had been swept away by *bandjirs* (floods); in [[1913]] the branch [[Beureunoen]]–[[Lam Meulō]] (5 km) was added. The mountainside connection over the watershed from Groot-Atjeh reached the coast net in [[1908]] (limited service from 15 September), whereafter the workshops of Koeta Radja were closed and those of Sigli enlarged: a stelplaats (shed) for locomotives, carriages and wagons, a foundry, extended smithy and turning-shop and magazines arose at Sigli.
+The tramway along the North Coast was built from Sigli outward: the line Sigli–[[Kudéé Brueuk]] (18 km) opened for traffic in [[1899]]; funds for the line Sigli–[[Lho Seumawè]] were granted in the budget of [[1900]], its construction taken in hand from both ends because the middle part in the landscape [[Samalanga]] was politically inaccessible, and completed in April [[1904]] after three iron bridges had been swept away by *bandjirs* (floods); in [[1913]] the branch [[Beureunoen]]–[[Lam Meuló|Lam Meulō]] (5 km) was added. The mountainside connection over the watershed from Groot-Atjeh reached the coast net in [[1908]] (limited service from 15 September), whereafter the workshops of Koeta Radja were closed and those of Sigli enlarged: a stelplaats (shed) for locomotives, carriages and wagons, a foundry, extended smithy and turning-shop and magazines arose at Sigli.
 
 ### Later development
 
@@ -119,7 +119,7 @@ A normal school for chiefs' sons and a public European lower school were among t
 - [[Lam Meuló]]
 - [[Lho Seumawe]]
 - [[Pedir]]
-- [[Pidië]]
+- [[Pidie|Pidië]]
 - [[Poesa]]
 - [[Teukoe Moehamad Hasan]]
 - [[Teukoe Oemar of Keumangan]]

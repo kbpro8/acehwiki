@@ -4,7 +4,7 @@ aliases: ["Toeankoe Mochamad Dawot", "Toeankoe Mohammed Daoed", "Tuanku Muhammad
 tags: [person, achehnese, sultan, pretender, aceh-war, 19th-century, royalty, geconcentreerde-stelling, "sultan-pretender", "resistance"]
 ---
 
-**Toeankoe Mochamad Dawot** (also spelled *Toeankoe Mohammed Daoed*) was the young Sultan of [[Atjeh]] recognized by the Acehnese as the legitimate successor to the sultanate following the death of the last Sultan in [[1874]], and declared of age in [[August]] [[1884]] — an event that strengthened the position of the [[Oorlogspartij|oorlogspartij]] (war party) opposing Dutch colonial rule. Later, with [[Panglima Pòlém]] and [[Teukoe Oemar]], he made [[Pidië]] the hearth of the resistance from [[1898]].
+**Toeankoe Mochamad Dawot** (also spelled *Toeankoe Mohammed Daoed*) was the young Sultan of [[Atjeh]] recognized by the Acehnese as the legitimate successor to the sultanate following the death of the last Sultan in [[1874]], and declared of age in [[August]] [[1884]] — an event that strengthened the position of the [[Oorlogspartij|oorlogspartij]] (war party) opposing Dutch colonial rule. Later, with [[Panglima Pòlém]] and [[Teukoe Oemar]], he made [[Pidie|Pidië]] the hearth of the resistance from [[1898]].
 
 ## Recognition as Sultan (August 1884)
 

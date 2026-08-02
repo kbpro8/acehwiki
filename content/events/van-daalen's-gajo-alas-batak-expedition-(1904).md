@@ -42,7 +42,7 @@ In practice the expedition became a campaign of annihilation. According to the o
 
 ### The commission
 
-"The expedition to the Gajo- and Alas-lands, wherewith Colonel Van Daalen in February 1904 was charged" — thus Langhout announces it, one of the foremost military expeditions that took place under Van Heutsz's administration. For the military particulars of that march he refers to the book of [[J. C. J. Kempees]]: *"De tocht van Overste Van Daalen door de Gajo-, Alas- en Bataklanden"* ("The march of Colonel Van Daalen through the Gajo-, Alas- and Batak lands"), since his own theme permits only the economic reading of the period (and since the march together with the [[Pidië]] expedition framed Van Heutsz's war-years from [[1898]] onward).
+"The expedition to the Gajo- and Alas-lands, wherewith Colonel Van Daalen in February 1904 was charged" — thus Langhout announces it, one of the foremost military expeditions that took place under Van Heutsz's administration. For the military particulars of that march he refers to the book of [[J. C. J. Kempees]]: *"De tocht van Overste Van Daalen door de Gajo-, Alas- en Bataklanden"* ("The march of Colonel Van Daalen through the Gajo-, Alas- and Batak lands"), since his own theme permits only the economic reading of the period (and since the march together with the [[Pidie|Pidië]] expedition framed Van Heutsz's war-years from [[1898]] onward).
 
 ### Consequences for the highlands
 

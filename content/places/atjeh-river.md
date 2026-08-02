@@ -4,7 +4,7 @@ aliases: ["Aceh River", "Krueng Aceh", "Atjeh River", "Kali Atjeh"]
 tags: [place, river, achehnese, colonial]
 ---
 
-The **Atjeh River** (Dutch *Atjeh-rivier*) was the river of Groot-[[Acheh|Atjeh]] whose valley carried the capital [[Koeta Radja]] and most of the province's road- and tram-network, spanned by iron bridges at [[Glé Kambing]] and [[Lambaroe|Lambaroh]] ([[1882]]), and forming with the [[Pidië]] river the watershed over which the mountain tramway was built in [[1903]]–[[1908]].
+The **Atjeh River** (Dutch *Atjeh-rivier*) was the river of Groot-[[Acheh|Atjeh]] whose valley carried the capital [[Koeta Radja]] and most of the province's road- and tram-network, spanned by iron bridges at [[Glé Kambing]] and [[Lambaroe|Lambaroh]] ([[1882]]), and forming with the [[Pidie|Pidië]] river the watershed over which the mountain tramway was built in [[1903]]–[[1908]].
 
 ## Roads, bridges and tramway
 
@@ -19,7 +19,7 @@ Already in [[1898]] Governor [[Joannes Benedictus van Heutsz|Van Heutsz]] formed
 - [[Koeta Radja]]
 - [[Groot-Atjeh]]
 - [[Atjeh Tram]]
-- [[Pidië]]
+- [[Pidie|Pidië]]
 
 ## Source
 

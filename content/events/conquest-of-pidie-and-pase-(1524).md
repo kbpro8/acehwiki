@@ -24,7 +24,7 @@ The **Acehnese expulsion of the Portuguese from Pasè** — accomplished at the 
 
 ### The freeing of Atjeh
 
-At the beginning of the 1500s the "self-government" of Atjeh began with [[Pidië]] making itself independent and with the expulsion of the Portuguese, who for years running had maintained as administrator of the mighty Pasè one of their mightiest subjects. Whether that expulsion of all that was Portuguese from the coastal strips and the interior of Atjeh was a consequence of an actual oppression of the one people by the other; whether the "freeing" of Atjeh must be regarded as an escape from the yoke of Portuguese servitude — from a kind of slave-service applied by the Portuguese of [[Malakka]] to the inhabitants of the Atjeh of those days — or whether already then the idea of national solidarity had so penetrated the people of Atjeh that it wished to free itself from foreign domination: "the answers to these questions can only be guessed", Langhout writes.
+At the beginning of the 1500s the "self-government" of Atjeh began with [[Pidie|Pidië]] making itself independent and with the expulsion of the Portuguese, who for years running had maintained as administrator of the mighty Pasè one of their mightiest subjects. Whether that expulsion of all that was Portuguese from the coastal strips and the interior of Atjeh was a consequence of an actual oppression of the one people by the other; whether the "freeing" of Atjeh must be regarded as an escape from the yoke of Portuguese servitude — from a kind of slave-service applied by the Portuguese of [[Malakka]] to the inhabitants of the Atjeh of those days — or whether already then the idea of national solidarity had so penetrated the people of Atjeh that it wished to free itself from foreign domination: "the answers to these questions can only be guessed", Langhout writes.
 
 ### The expansion of the sultanate
 
@@ -38,7 +38,7 @@ For Langhout's argument the year 1524 opens the three and a half centuries of At
 
 - [[Acheh]]
 - [[Sultan Ali Mughayat Shah]]
-- [[Pidië]]
+- [[Pidie|Pidië]]
 - [[Pasei]]
 - [[Portuguese conquest of Malaka (1511)]]
 - [[Malaka]]

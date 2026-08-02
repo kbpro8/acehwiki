@@ -8,7 +8,7 @@ tags: [concept, agriculture, economy, colonial, trade]
 
 ## The stock of crops
 
-The first official economic survey (ordered in [[1893]]) counted a fairly great variety of crops beside the staples: *pinang* and rice; maize, millet (*gierst*), several kinds of tubers, diverse varieties of pulse, cucumbers, Spanish pepper, onions etc.; pepper and tobacco, though only for provincial use; cotton, though only in small quantity; kapok, indigo, sugar-cane ("zeer goed suikerhoudend" — very good sugar-holding), coconuts, nutmeg, and coffee "waarvan de cultuur nog onbeduidend was" ("of which the culture was still insignificant"). Of these cultures, only pepper could then be regarded as a real *volkscultuur* ("people's culture"); the women's industry (silk weaving, plaiting), some earthenware, shipbuilding on [[Poelò Breuëh]] and [[Simaloer]], gold-washing (little result), native petroleum-drawing at [[Peureula]], and the prosperous sea-fishery — which even then did not cover demand, salt and dried fish being imported (over f 30,000 in [[1890]]) — completed the picture. The rice import of [[1890]] weighed f 144,178, indicating insufficient production in several regions, though ample building-land lay available both in Groot-Atjeh and in the Dependencies.
+The first official economic survey (ordered in [[1893]]) counted a fairly great variety of crops beside the staples: *pinang* and rice; maize, millet (*gierst*), several kinds of tubers, diverse varieties of pulse, cucumbers, Spanish pepper, onions etc.; pepper and tobacco, though only for provincial use; cotton, though only in small quantity; kapok, indigo, sugar-cane ("zeer goed suikerhoudend" — very good sugar-holding), coconuts, nutmeg, and coffee "waarvan de cultuur nog onbeduidend was" ("of which the culture was still insignificant"). Of these cultures, only pepper could then be regarded as a real *volkscultuur* ("people's culture"); the women's industry (silk weaving, plaiting), some earthenware, shipbuilding on [[Poelo Breuëh|Poelò Breuëh]] and [[Simaloer]], gold-washing (little result), native petroleum-drawing at [[Peureula]], and the prosperous sea-fishery — which even then did not cover demand, salt and dried fish being imported (over f 30,000 in [[1890]]) — completed the picture. The rice import of [[1890]] weighed f 144,178, indicating insufficient production in several regions, though ample building-land lay available both in Groot-Atjeh and in the Dependencies.
 
 ## Rice
 
@@ -33,7 +33,7 @@ European agriculture — trials of Deli tobacco companies on fallow grounds in t
 - [[H. N. A. Swart]]
 - [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
 - [[Groot-Atjeh]]
-- [[Pidië]]
+- [[Pidie|Pidië]]
 
 ## Source
 

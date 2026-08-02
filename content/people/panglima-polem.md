@@ -242,7 +242,7 @@ The [[XXII Moekims]] of which Panglima Polim was *sagi*-head fringed the Dutch c
 
 ### Swart's testimony
 
-Speaking as old Governor of [[Acheh|Atjeh]] and old Vice-President of the [[Council of the Indies]] in [[1922]]–[[1923]], General Swart cited what he "had experienced from his men" as the official grown grey in the service of Atjeh, and told of [[Teukoe Tjhi Peusangan]], of Panglima Polem and his sister, of Polem's brother-in-law Toeankoe Radja Keumala, of [[Pòtjoet Meurah]] and her husband [[Toeankoe Machmoed]], and of so many other sultans' kin and Atjehnese chiefs who found the *kaphé* not so bad and "entrusted to him all, their dearest and most secret thoughts". Langhout reproduces the anecdote within his account of Swart's governorship ([[1908]]–[[1918]]), under which the last effective resistance of the [[Acheh War]] ended by [[1913]].
+Speaking as old Governor of [[Acheh|Atjeh]] and old Vice-President of the [[Council of the Indies]] in [[1922]]–[[1923]], General Swart cited what he "had experienced from his men" as the official grown grey in the service of Atjeh, and told of [[Teukoe Tjhi Peusangan]], of Panglima Polem and his sister, of Polem's brother-in-law Toeankoe Radja Keumala, of [[Potjoet Meurah|Pòtjoet Meurah]] and her husband [[Toeankoe Machmoed]], and of so many other sultans' kin and Atjehnese chiefs who found the *kaphé* not so bad and "entrusted to him all, their dearest and most secret thoughts". Langhout reproduces the anecdote within his account of Swart's governorship ([[1908]]–[[1918]]), under which the last effective resistance of the [[Acheh War]] ended by [[1913]].
 
 ## See Also
 
@@ -404,7 +404,7 @@ Speaking as old Governor of [[Acheh|Atjeh]] and old Vice-President of the [[Coun
 - [[Kroeng Raja]]
 - [[Anagaloeng]]
 - [[Sagi]]
-- [[Pòtjoet Meurah]]
+- [[Potjoet Meurah|Pòtjoet Meurah]]
 - [[Pacification of Atjeh]]
 - [[Acheh War]]
 

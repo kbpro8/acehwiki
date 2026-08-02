@@ -59,7 +59,7 @@ After [[1918]], while the pinang-culture bloomed, the West Coast saw an extendin
 - [[Kawaj XII]]
 - [[Meulaboh]]
 - [[Pepercultuur]]
-- [[Pidië]]
+- [[Pidie|Pidië]]
 - [[Rijstbouw]]
 - [[Verkenningen in Atjeh (1923)]]
 - [[Westkust]]
