@@ -1,6 +1,6 @@
 ---
 title: Koninklijke Petroleum Maatschappij
-aliases: ["Koninklijke Petroleum Maatschappij", "Koninklijke", "Royal Dutch Petroleum Company", "Royal Dutch Shell (precursor)", "KPM (oil)"]
+aliases: ["Koninklijke Petroleum Maatschappij", "Koninklijke", "Royal Dutch Petroleum Company", "Royal Dutch Shell (precursor)", "KPM (oil)", "Koninklijke Petroleum Maatschappij in Atjeh"]
 tags: [organization, company, petroleum, dutch, colonial, acheh, oil]
 ---
 
@@ -71,6 +71,10 @@ The Atjeh north-coast oilfields — at [[Pedirse]], [[Peureula]], [[Pasé oil fi
 
 The [[Koninklijke Petroleum Maatschappij|Koninklijke]] is, in the [[W. H. Vermeulen|Vermeulen]] colonial parliamentary record, the type-specimen of the private oil company whose operations in Atjeh triggered legislative intervention. The [[Mijnwet art. 5a (1910)|Article 5a amendment]] of [[1910]] is the direct parliamentary response to the [[Perlak Petroleum Maatschappij|Perlak]]-[[Koninklijke Petroleum Maatschappij|Koninklijke]] contract.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+In author [[J. Langhout|Joh. Langhout]]'s account of the Atjeh petroleum industry, the Koninklijke Petroleum Maatschappij founded enterprises at [[Lho Seumawè]] and [[Peureula]] in [[1899]] — the year after Governor [[Joannes Benedictus van Heutsz|Van Heutsz]] had given European mining his full interest, opening several tracts for private investigation and exploitation. The outstanding concession of the province remaining in later years — that of [[Zuid-Perlak Petroleum-Mij|Zuid Perlak]] — was, Langhout records, exploited "by de Koninklijke".
+
 ## See Also
 
 - [[1903]]
@@ -116,6 +120,9 @@ The [[Koninklijke Petroleum Maatschappij|Koninklijke]] is, in the [[W. H. Vermeu
 - [[1910]]
 - [[1911]]
 - [[1914]]
+- [[Lho Seumawè]]
+- [[Peureula]]
+- [[Joannes Benedictus van Heutsz|Johannes van Heutsz]]
 
 ## Sources
 
@@ -124,3 +131,5 @@ The [[Koninklijke Petroleum Maatschappij|Koninklijke]] is, in the [[W. H. Vermeu
 *Van Oerbosch tot Cultuurgebied: Een Schets van de Beteekenis van de Tabak, de Andere Cultures en de Industrie ter Oostkust van Sumatra*, by Dr. T. Volker (Medan: Deli Planters Vereeniging, [[1928]]), pp. 47–56. Delpher Digital Library, reference DLP-76. Universiteitsbibliotheek Vrije Universiteit Amsterdam, shelfmark 09383.
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië [[1891]]–[[1918]]* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, [[1955]]), p. 306.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 68, 83–85, 108, 160–163 (chapter "De Petroleum-ontginning"), illustration captions pp. 160, 162.

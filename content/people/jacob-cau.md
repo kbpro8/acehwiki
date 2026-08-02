@@ -1,7 +1,7 @@
 ---
 title: Jacob Cau
-aliases: [Jacob Cauw, J. Cau, Cau, Jacobus Cau]
-tags: [person, official, military, dutch, colonial, VOC]
+aliases: [Jacob Cauw, J. Cau, Cau, Jacobus Cau, "Commissaris Cau"]
+tags: [person, official, military, dutch, colonial, VOC, "17th-century"]
 ---
 
 **Jacob Cau** was the [[Vereenigde Oost-Indische Compagnie|Compagnie]]'s commissioner who commanded the squadron of four well-armed ships dispatched from [[Batavia]] on [[17 August]] [[1664]] to the [[Westkust van Sumatra|West Coast of Sumatra]] to ratify the [[Painansch Contract]] of [[6 July]] [[1663]] in the chiefs' own countries and to expel the Atjehers from the pepper ports. In Dr. F. W. Stapel's *Geschiedkundige Atlas van Nederland* he is the military-diplomatic officer whose campaign of [[1664]]–[[1665]] produced the four definitive Westkust factories — [[Padang]], [[Salido|Poeloe Tjingkoek/Salido]], [[Priaman]] and [[Tikoe]] — and the operational ratification of the Painansch system.
@@ -38,6 +38,14 @@ Cau's campaign of [[1664]]–[[1665]] is the operational ratification of the [[P
 
 The campaign also established the four-factory system — Padang (head), Salido (Poeloe Tjingkoek), Priaman, Tikoe — that would be the institutional backbone of the Westkust establishment for the next century. The choice of Padang as head office, in particular, would prove durable: it remained the chief Dutch station on the Westkust through the entire VOC period and into the nineteenth century.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Jacob Cau** was the servant of the Dutch [[Vereenigde Oost-Indische Compagnie|East India Company]] who in [[1664]] laid in at [[Padang]] the head depot for the Dutch trade on the West Coast of [[Sumatra]], following the Company's treaty of exclusive trade with the [[Minangkabau|Minangkabauers]].
+
+### The Padang depot
+
+After the Atjehnese had continually violated the trade monopoly conceded to the Company under the treaty that ended the [[Murder of the Hollanders and blockade of Atjeh (1651)|blockade of 1651]] — whereby half of the tin yield of [[Perak]] and the monopoly of trade had accrued to the Company — the Company acted: it occupied [[Indrapoera]], [[Padang]] and [[Tikoe]], and concluded with the Minangkabauers of the West Coast a treaty of exclusive trade, of which the consequence was that in [[1664]] Jacob Cau could lay in the head depot at Padang. Here the Hollanders knew how to maintain themselves, notwithstanding the many attacks undertaken by the Atjehnese upon their settlement; it was in one of those fights that the Dutch commissaris [[Gruys]] had to lose his life with 130 men.
+
 ## See Also
 
 - [[Painansch Contract]]
@@ -58,7 +66,11 @@ The campaign also established the four-factory system — Padang (head), Salido 
 - [[2 January]]
 - [[1664]]
 - [[1665]]
+- [[VOC-Minangkabau treaty and the founding of the Padang depot (1664)]]
+- [[Murder of the Hollanders and blockade of Atjeh (1651)]]
 
 ## Source
 
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 16 (tekst bij blad 4: *Atjeh en de Westkust van Sumatra in 1684*).
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), p. 15.

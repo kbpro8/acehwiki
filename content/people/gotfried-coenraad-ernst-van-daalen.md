@@ -19,6 +19,8 @@ aliases:
 - Kolonel van Daalen
 - Captain Van Daalen
 - E.C. van Daalen
+- "Gotfried Coenraad Ernst van Daalen"
+- "Colonel Van Daalen"
 tags:
 - person
 - officer
@@ -196,6 +198,33 @@ Van Daalen is the negative pole of du Croo's book. His appointment placed "the u
 ---
 **E. C. van Daalen** was a colonel of the Indies army who served as second-in-command of the [[First Aceh Expedition (1873)|first Aceh expedition]] under [[J. H. R. Köhler|General Köhler]] in [[April 1873]], and who, on the morning of [[14 April]] [[1873]] after the general's death at the [[Missigit|missigit]] outside the [[Kraton of Aceh|Kraton]], took over the supreme command and presided over the council of war of [[18 April]] that decided on withdrawal. He is also notable for his repeated personal acts of bravery in the stormings of late [[January 1874]], in the course of which he forced his horse through the bamboe-doern mass, planted the oranje-vaandel at the foot of the enemy's parapet, and brought up reinforcements that carried the line. The source work distinguishes him from a Captain Van Daalen — likely a kinsman — who took a conspicuous part in the same actions.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**G. C. E. van Daalen** was a Dutch infantry officer who, as Lieutenant-Colonel commanding in the Dependencies of [[Acheh|Atjeh]], was charged in February [[1904]] with the celebrated expedition through the [[Gayo- en Alaslanden|Gajo, Alas and Batak lands]], and who from [[6 May]] [[1905]] to [[1908]] governed Atjeh and its Dependencies, completing the political unity of the province under direct Dutch authority and attempting to realize that unity also in the economic sense.
+
+### The Gajo expedition
+
+Under Governor [[Joannes Benedictus van Heutsz|Johannes van Heutsz]], Lieutenant-Colonel Van Daalen long administered the department of the Dependencies; in February [[1904]] he was entrusted with the expedition to the Gajo and Alas lands, one of the principal military operations of the Van Heutsz period. For the military particulars of the march Langhout refers his readers to the work of [[J. C. J. Kempees]], *De tocht van Overste Van Daalen door de Gajo-, Alas- en Bataklanden* ("The march of Colonel Van Daalen through the Gajo, Alas and Batak lands"). In May 1904, when Van Heutsz left for Holland, Van Daalen was replaced in the Dependencies by a civilian assistant-resident — one of Van Heutsz's last pacification measures.
+
+### Governor of Atjeh, 1905–1908
+
+After the appointment of Governor [[J. C. van der Wyck]] as army commander, Colonel G. C. E. van Daalen was entrusted with the government of Atjeh on 6 May [[1905]]. His administration gave occasion, Langhout observes, to severe and perhaps not always equitable criticism: at his taking leave, Van Daalen was reproached with not having observed the *fortiter in re, suaviter in modo* ("strong in deed, gentle in manner"), or at least not sufficiently, and with having regarded the perfect subjection of the province too much as *conditio sine qua non* for the modern economic policy. Langhout purposely leaves that criticism unexamined, since a full consideration of the period would have required too much military detail.
+
+As soon as the political unity of the whole province under direct Dutch rule was a fact — in [[1908]] the last piece, the department of the Gajo and Alas lands, was definitively created — Van Daalen tried to realize that unity economically as well.
+
+### Economic measures
+
+- **Roads and bridges.** He devoted his attention first to traffic routes opening the remote regions and linking the separated parts of the country to the coast. Beside a number of screw-pile bridges over smaller rivers and creeks, there arose under extremely difficult circumstances the iron bridge over the [[Peusangan River]] at [[Teupen Blang Manè]] on the [[Gajo road]], built on the Governor's initiative by the engineer troops ([[1906]], photographed in Langhout's book) at no cost to the road fund. The scale and reduction of the heavy export duties on pepper — regulated differently in every landscape of the Dependencies — accompanied this traffic policy.
+- **Agriculture.** Finding native agriculture still most primitive, with a single (rice) crop a year, one of his first measures was to summon a number of Sundanese to demonstrate the Javanese method of deeper tillage with Hindustan ploughs and of padi planting; he attempted the introduction of second crops, distributed strong maize (*djagoeng*) seed imported from the [[Minahassa]] on a large scale, and introduced the potato, hitherto unknown, in the [[Gayo- en Alaslanden|Gajo lands]]. Irrigation of rice lands was taken in hand, market-gardening was encouraged by interest-free advances from the road fund for pepper and coconut gardens (also freeing the population from usurers who bought the crop far below value), thousands of young *Ficus elastica* plants were distributed, and seeds and grass-sods were furnished for the improvement of forage.
+- **European enterprise.** In [[1907]] agricultural concessions totalling about 16,700 hectares were granted, and forest-exploitation concessions already numbered 21, spread over the whole province. As an example and encouragement, in view of the results obtained elsewhere with Pará rubber, the wherewithal was furnished for the establishment of a caoutchouc estate at [[Langsar]] (the later government rubber enterprise at [[Langsa]]).
+- **Fisheries.** Market-fish (*goeramé* and other good species) was repeatedly distributed on a large scale to encourage fresh-water pisciculture; advances were made for sea-fisheries and for the laying out of fish-ponds and salt-pans, and the government steamer *Gier* examined the fish wealth of the Atjehnese waters to judge whether a fishery with steam trawlers would pay.
+- **Credit.** In connection with the first advances from the road fund, he took the first step toward regulating popular credit (*volkscredietwezen*) by proposing the [[Groot-Atjehsche Afdeelingsbank]], meant to combat usury and to furnish agricultural, industrial and commercial credits; the bank materialized in September [[1908]] under his successor.
+- **Education and exhibitions.** Five village-schools were opened in Groot-Atjeh and five more taken in hand; in the Dependencies there were as yet no native first-class schools, only lower government and private establishments. He proposed the creation of kampong-schools — one in every [[Moekim System|moekim]] — and of a boarding school at Koeta Radja for sons of native chiefs where instruction would be given in Dutch. A first agricultural-market exhibition, held at [[Koeta Radja]] in [[1907]] (Langhout also dates an exhibition of April [[1908]] under Van Daalen), attracted lively popular interest.
+
+### Financial outcome and departure
+
+The financial result of the Government of Atjeh and Dependencies was, including the Departments of War and Navy, a deficit (f 5,917,900 in [[1905]]; f 4,369,304 in [[1906]]; f 3,694,891 in [[1907]]); leaving those departments aside, the civil account showed a favourable balance of f 460,366 in 1905, f 833,534 in 1906 and f 382,437 in 1907 (to end of October). The world money crisis of [[1907]] depressed trade, imports fell with the reduction of the garrison and the departure of hundreds of Chinese and other Foreign Orientals, but exports already showed the first results of the raised production, and shipping at [[Sabang]] grew from 172 foreign merchant vessels in 1905 to 201 in 1906 and 231 in 1907. By Government resolution of [[4 May]] [[1908]] Van Daalen was, at his own request, honourably discharged; Lieutenant-Colonel [[H. N. A. Swart]] accepted the administration on [[10 June]] [[1908]].
+
 ## See Also
 
 - [[1905]]
@@ -322,6 +351,9 @@ Van Daalen is the negative pole of du Croo's book. His appointment placed "the u
 - [[Battle of the Missigit (10 April 1873)]]
 - [[Capture of the Kraton (24 January 1874)]]
 - [[Taman (Kota Goenoengan)]]
+- [[J. C. van der Wyck]]
+- [[Gayo- en Alaslanden|Gajo- en Alaslanden]]
+- [[Agriculture in Atjeh]]
 
 ## Source
 
@@ -338,3 +370,5 @@ Van Daalen is the negative pole of du Croo's book. His appointment placed "the u
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 271-274.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters IV, VIII, IX, XI, XIV, pp. 22–23, 80–84, 91, 103, 140.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 80–81, 86–94, illustration captions pp. 88–89, 92.

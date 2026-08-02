@@ -1,6 +1,6 @@
 ---
 title: "Koeta-Radja"
-aliases: ["Kuta Raja", "Kutaraja", "Kutaraja (Banda Aceh)", "Banda Aceh", "Kota Radja", "Kotaradja", "Kota Raja", "capital of Atjeh", "Koetaradja", "Kutaradja", "Kota Radja (Atjeh)", "Banda Acheh", "Bandah Acheh", "Bandar Aceh", "the Kutaradja of the Dutch concentration", "Banda Atjeh", "Banda", "Banda-Acheh", "Bandar Acheh", "Acheh capital", "Capital of Acheh", "Kota Acheh", "hoofdplaats Atjeh", "Acheen capital", "Koeta Radja", "Koetaraja", "Kraton", "Kota-Radja", "Kraton (Koeta Radja)", "Keraton", "Sultan's palace", "Kota Radja Atjeh", "Kotta-Radja", "Kuta Radja", "Kotja-Radja", "Atjeh's chief place", "Bandjar (Banda Aceh)", "Bandjar", "Kota Raoja"]
+aliases: ["Kuta Raja", "Kutaraja", "Kutaraja (Banda Aceh)", "Banda Aceh", "Kota Radja", "Kotaradja", "Kota Raja", "capital of Atjeh", "Koetaradja", "Kutaradja", "Kota Radja (Atjeh)", "Banda Acheh", "Bandah Acheh", "Bandar Aceh", "the Kutaradja of the Dutch concentration", "Banda Atjeh", "Banda", "Banda-Acheh", "Bandar Acheh", "Acheh capital", "Capital of Acheh", "Kota Acheh", "hoofdplaats Atjeh", "Acheen capital", "Koeta Radja", "Koetaraja", "Kraton", "Kota-Radja", "Kraton (Koeta Radja)", "Keraton", "Sultan's palace", "Kota Radja Atjeh", "Kotta-Radja", "Kuta Radja", "Kotja-Radja", "Atjeh's chief place", "Bandjar (Banda Aceh)", "Bandjar", "Kota Raoja", "Koeta-Radja", "Banda Aceh (historical Koeta Radja)"]
 tags: [place, city, capital, aceh, sumatra, colonial, colonial-capital, government-seat, achehnese-history, hoofdplaats, atjeh, administrative-center, town, acheh, fortified, headquarters, groot-atjeh, 20th-century, aceh-proper, coast, achehnese, concept, dutch, sultanate, military, kraton, van-heutsz, van-daalen, sabang, oelèë-lheue, museum, atjeh-instituut, dutch-colonial, 19th-century, aceh-war, military-base, koetaradja, administration]
 description: "Kota Radja (also Kotaradja, Koeta-Radja; modern Banda Aceh) was the capital of the Dutch Gouvernement Atjeh en Onderhoorigheden and the principal city of Atjeh. By 1926 it served as the starting point for automobile travel across Sumatra to Padang, symbolising the transformation of transport infrastructure following the pacification."
 ---
@@ -175,6 +175,26 @@ Hooijer recorded that in the quiet years ladies and gentlemen came out from Kota
 ## Isolation of the posts in 1896
 
 When [[Tjot Rang]] was invested after the defection of [[Teukoe Oemar]], Hooijer recorded that *vandaar eenig bericht naar Kota Radja te verzenden bleek onmogelijk* — to send any message thence to Kota Radja proved impossible; the garrison could only look out from one day to the next for relief.
+
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Koeta Radja** was the capital of [[Acheh|Atjeh]] and the seat of the [[Government of Atjeh en Onderhoorigheden]] — the fortified kernel of the Dutch [[Dutch Policy of 'Concentration'|concentrated line]] of 1884–1896, the centre of the [[Atjeh Tram]], and the town whose building, commercial and institutional growth through [[1923]] author [[J. Langhout|Joh. Langhout]] traces from a war bivouac to a provincial capital with banks, newspapers, a museum and an hotel "met zijn machtig-indrukwekkende omgeving" ("with its mightily impressive surroundings", photo caption).
+
+### Early Dutch works
+
+After the debarkation at [[Oeleë Lheuë|Oelèë Lheue]] in April [[1873]], Koeta Radja was linked to the coast by the works of the commission of [[26 June]] [[1874]]: a road of five kilometres, a railway and a telegraphic connection (in service [[20 March]] [[1875]]). The first artesian well of Atjeh, begun in September [[1874]], yielded on [[22 June]] [[1875]] some 60 litres of excellent drinking water per minute — a first necessity against the cholera which had raged frightfully. In July 1875 Oelèë Lheue and the adjacent [[Kampong Djawa]] already counted 181 traders, mostly Chinese. The petty trade of the town grew with the petty industries of Europeans and Foreign Orientals: bread- and rusk-bakeries and slaughterhouses of the so-called Atjeh-leverancier, a factory for artificial mineral water and a small printing office, beside Chinese brick- and tile-kilns, lime-kilns, smithies, arak distilleries, gold- and silversmiths, tinsmiths, tailors, shoemakers, "tot zelfs twee Chineesche fotografen" ("down to even two Chinese photographers").
+
+### Public buildings and the Missigit
+
+In October [[1879]] Governor [[General van der Heijden|Karel van der Heijden]] laid the first stone of the town's new [[Baiturrahman Grand Mosque|Missigit]] (mosque), built at his initiative; it was opened with great ceremony on [[27 December]] [[1882]], and at the beginning of that year several clergy were attached to it at government cost. The earthquake of [[1883]] shook Koeta Radja to a wide distance in the "rapjaar". To protect the town against inundations the Government built a quay (under Governor [[General van Teijn|Van Teijn]]). The photographs in Langhout's book show the *Koeta Goenoengan* and the gate *Pintō Khab* (Pintu Khop) of Koeta Radja, "neusoh" (northeast side).
+
+### Commercial growth after 1893
+
+The submission of [[Teukoe Oemar]] ([[30 September]] [[1893]]) ushered in prosperity: new dwellings and Chinese *toko's* gradually arose, European and foreign traders renewed and improved their shops and magazines, and the government received numerous applications for building-sites. Under Governor [[J. C. van der Wyck]] (1904–1905) stone houses for the assistant-residents of Groot-Atjeh and of the Dependencies were completed, a new tasteful hotel came ready, and with government support an abattoir was opened and a pepper-washing establishment erected, administered by the [[Nederlandsche Handel-Maatschappij]]. The value of the import of piece-goods at Oelèë Lheue rose from f 162,175 in [[1898]] to f 4,889,522 in [[1904]].
+
+### Institutional centre
+
+Under Governor [[H. N. A. Swart]] the town acquired: a Hollandsch-Indlandsche school ([[1915]]), a Hollandsch-Chineesche school ([[1918]]), an Ambonese school ([[1911]], nearly 400 pupils by 1918), a neutral fröbel-school (1915) and a native trade school ([[1916]]); the [[Groot-Atjehsche Afdeelingsbank]] (September [[1908]]) and the annual agricultural exhibitions; the [[Atjeh Museum]] (opened 1915 in the rebuilt [[Semarang]] exhibition pavilion); offices of Medan houses; and the agency of the [[Javasche Bank te Koetaradja|Javasche Bank]] (opened [[2 December]] [[1918]], first stone laid by Swart), joined by the premises of the [[Nieuwsblad voor Atjeh en Onderhoorigheden|Atjeh press]] on the Peunajoengsingel (1903) and the Sociëteitsweg (1914), the [[Nederlandsche Handel-Maatschappij|NHM]] office (1904–1905, photo in the book), the [[Atjehsche Handelmaatschappij]] head office, and the [[Economische Vereeniging te Koeta Radja]] ([[1919]]). Governor [[Van Sluys|A. G. H. van Sluys]] held his officials' conferences here (September [[1921]] with self-governing rulers attending), and from [[1922]] his new regulation for the local funds gave the town a kind of municipality in embryo. By [[1923]] Koeta Radja could be reached by car from [[Medan]] and by train from the East Coast of Sumatra — a through connection of 510 kilometres (see [[Atjeh Tram]]).
 
 ## See Also
 
@@ -407,6 +427,11 @@ When [[Tjot Rang]] was invested after the defection of [[Teukoe Oemar]], Hooijer
 - [[Toengkoeb]]
 - [[Tjot Rang]]
 - [[Kraton (institution)|Kraton]]
+- [[Oeleë Lheuë|Oelèë Lheue]]
+- [[Baiturrahman Grand Mosque|Missigit at Koeta Radja]]
+- [[Atjeh Tram]]
+- [[Government of Atjeh en Onderhoorigheden]]
+- [[Atjeh Museum]]
 
 ## Sources
 
@@ -453,3 +478,5 @@ When [[Tjot Rang]] was invested after the defection of [[Teukoe Oemar]], Hooijer
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 19–23.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 31–33, 42, 47, 50–52, 61, 66–67, 70–71, 87, 111, 119, 124, illustration captions pp. 17, 44, 129, 177, 183, 191, 194.

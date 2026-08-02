@@ -24,6 +24,8 @@ aliases:
 - de Bult
 - Swart (Atjeh officer)
 - Pacificator van Atjeh Swart
+- "N. A. Swart"
+- "Henri Swart"
 tags:
 - person
 - general
@@ -409,6 +411,32 @@ The simple title *Bapa* — father — became, in du Croo's judgement, the highe
 ## Sources
 *Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, p. 2.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**H. N. A. Swart** was a Dutch officer and administrator who as Civil and Military Governor of [[Acheh|Atjeh and Onderhoorigheden]] (1908–1918) completed the [[Pacification of Atjeh|pacification]] of the country, and who later, as old Vice-President of the [[Council of the Indies]], furnished the foreword to [[J. Langhout|Joh. Langhout]]'s *[[Vijftig jaren economische staatkunde in Atjeh]]* ([[1923]]). Under his administration, in the phrase of the writer [[J. Kreemer]], "the swords were forged into ploughshares": the last organized resistance of the [[Acheh War]] was extinguished by [[1913]], and a vast programme of schools, credit institutions, waterworks and roads followed.
+
+### Appointment and early measures
+
+By Government resolution of [[4 May]] [[1908]] Major-General [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]] was, at his own request, honourably discharged as Civil and Military Governor of Atjeh, and Lieutenant-Colonel H. N. A. Swart, then Civil and Military Governor of [[Celebes|Celebes and Dependencies]], was appointed in his place. Swart accepted the administration on [[10 June]] [[1908]]; it would last unbroken for ten years. Because of the circumstances of the change of government, [[F. A. Liefrinck]], Member of the [[Council of the Indies]], twice visited Atjeh as Government Commissioner in the first years of Swart's governorship to guarantee that the government of the province continued to answer to the principles fixed by the Government. Swart none the less followed a different administrative line from his predecessor, while continuing [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]'s policy of restlessly pursuing and rendering harmless the religious resistance-leaders and band-chiefs.
+
+Among his first measures was a proposal — accepted — to repay the landscape chiefs the share of import and export duties and excises which had been withheld from them "allegedly for their punishment", and to refund their imposed surety sums; Swart everywhere handed these back personally to prove, as he said, that the Government "knew how to practise clemency and to redress wrong". As the political state improved he saw no objection to furnishing several landscape chiefs with rifles and charging them with the maintenance of peace and order in their territories, holding that "by giving trust, trust is won". He likewise sought to win the confidence of the common man by providing quick and cheap justice, through an administrative organisation dividing the province into five departments under assistant-residents, split into many sub-departments, whereby the supervision of native jurisdiction became steadily more accurate.
+
+### End of the war
+
+With the death or submission of the principal religious and secular resistance-leaders and many thousands of their followers in the years 1908–[[1913]], all effective opposition ended by the latter year; a few dozen evildoers holding out in the most inaccessible mountain tracts had no significance. Governor Swart had the exiles whose residence in the province had been forbidden under article 47 R.R. allowed to return, with the exception of the ex-pretender-sultan [[Toeankoe Mochamad Dawot|Toeankoe Moehamad Dawot]] and his son [[Toeankoe Ibrahim]]. From [[1909]] silver and gold stars for loyalty and merit were conferred on higher and lower chiefs for their good cooperation. Submitted resistance-fighters and chiefs whose dwellings or *koeta's* (fortified places) had been destroyed were set on their feet with interest-free advances from funds obtained from the Government.
+
+### Welfare, education and health policy
+
+Convinced that the European government no longer had to act merely punitively, Swart powerfully furthered everything serving the people's welfare. Popular education was his first care, aimed at the practice of life: agriculture teaching for boys, hand- and household-work for girls. The five village-schools with some 300 pupils at his accession grew to 125 schools with 6,000 pupils by [[1911]], and to 242 schools with nearly 13,000 pupils by [[1918]]; a first girls' school opened at [[Oeleë Lheuë|Oelèë Lheue]] in [[1910]], and by 1918 there were fifteen girls' schools with more than 1,000 pupils, through which the government hoped to combat the evil of child-marriage (*kinderhuwelijken*). A Hollandsch-Indlandsche school opened at [[Koeta Radja]] in [[1915]], followed by [[Lho Seumawè]] and [[Langsar]] (1916), and a Hollandsch-Chineesche school at Koeta Radja in 1918; an Ambonese school for children of Ambonese soldiers, opened in 1911, counted nearly 400 pupils in 1918; an *ambachtschool* (native trade school) for carpenters was opened at Koeta Radja in [[1916]]. Agricultural schools at [[Beureunoen]] and [[Oeléë Karang]] kept farming as the first means of existence; chiefs' sons were educated at [[Fort de Kock]], [[Bandoeng]] (later [[Serang]]), the Asahan school, the Cultuurschool at [[Soekaboemi]], the agricultural school at [[Buitenzorg]] and the native law school at [[Batavia]]. Unattended lepers were gathered in colonies, that of Groot-Atjeh being an agricultural colony on the islet [[Pò-Amat]] (1911), and on the island [[Roebia]] in [[Sabang]] bay a quarantine station for returning pilgrims was set up in [[1912]]. When smallpox epidemics broke out in [[1915]] and [[1916]], vaccination was vigorously enforced. Taxes averaged only one guilder per head and compulsory labour two days per month, with redemption of *heerendiensten* (statute labour) permitted by way of trial; the sub-department and landscape treasuries spent the proceeds on works of public utility.
+
+### Economic measures
+
+[[Agriculture in Atjeh|Agriculture]] was stimulated through the agricultural adviser posted in the province since 1908, new irrigation works, the diking of the lower courses of the [[Peusangan River|Peusangan]] and [[Djambo Ajé]] rivers, cattle-selection under the government veterinary surgeon (from 1911), weekly cattle markets, and interest-free advances (including buffalo-advances for plough cattle on the North Coast). The [[Atjeh Tram]] was carried on to [[Koeala Simpang]] (1912) and [[Besitang]] (1916) and transferred to the State Railways on [[1 January]] [[1916]]; the [[Groot-Atjehsche Afdeelingsbank|People's credit institutions]], including the Afdeelingsbank (September 1908), kampong banks, and credit banks at [[Lho Seumawè]] (1913) and [[Langsar]], combated usury. The annual fair exhibition at [[Koeta Radja]] was repeated in [[1911]], and after the [[Semarang]] colonial exhibition of [[1914]] the Atjeh pavilion was re-erected at Koeta Radja as the [[Atjeh Museum]], opened in the second half of [[1915]]. The agency of the [[Javasche Bank te Koetaradja|Javasche Bank]] at Koeta Radja owed its first stone to the Governor. From 1911 Swart worked at the gradual separation of civil and military authority.
+
+### Character
+
+Nineteen years Swart had lived and worked among the Atjehnese; ten years in succession he governed land and people. Receiving author Langhout as old Vice-President of the Council of the Indies, he rejected press talk of an ineradicable hereditary hatred of the Dutch among the kampong women — "Wie dat zegt, kent het volk niet!" ("Whoever says that, does not know the people!") — and told of [[Teukoe Tjhi Peusangan]], of [[Panglima Polem]] and his sister, of Polem's brother-in-law [[Toeankoe Radja Keumala]], of [[Pòtjoet Meurah]] and her husband [[Toeankoe Machmoed]], and of so many other descendants of sultans and Atjehnese chiefs who entrusted to the *kaphé* (infidel) their "dearest and most secret thoughts". In his foreword of [[31 March]] [[1923]] at The Hague, signed "H. N. A. Swart, Oud Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden", he held that after the long and tenacious struggle a state of rest and order had prevailed for about ten years, which only needed time fully to consolidate. Stepping ashore at [[Sabang]] again at the end of January [[1922]] on his way to Europe, he was told by the Atjehnese chiefs who came to compliment him that the economic development of Atjeh was still progressing.
+
 ## See Also
 
 - [[Gouvernement Atjeh en Onderhoorigheden]]
@@ -514,6 +542,11 @@ The simple title *Bapa* — father — became, in du Croo's judgement, the highe
 - [[Atjeh-oorlog]]
 - [[1898]]
 - [[1904]]
+- [[Van Sluys|A. G. H. van Sluys]]
+- [[Pacification of Atjeh]]
+- [[Government of Atjeh en Onderhoorigheden]]
+- [[Atjeh Museum]]
+- [[Vijftig jaren economische staatkunde in Atjeh]]
 
 ## Source
 
@@ -534,3 +567,5 @@ The simple title *Bapa* — father — became, in du Croo's judgement, the highe
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), p. 273.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Foreword; Chapters I–IV, VIII–XVII; Appendixn: Letter of the Acehnese chiefs, Extract from the service record of H. N. A. Swart, pp. 1–177.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), Voorwoord, pp. 94–113, 121–122.

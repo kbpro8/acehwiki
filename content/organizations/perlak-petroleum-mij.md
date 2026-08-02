@@ -1,6 +1,6 @@
 ---
 title: Perlak-Petroleum-Mij
-aliases: [Perlak Petroleum Maatschappij, Perlak Oil Company, Perlak (oil), Perlak Petroleum-Mij]
+aliases: [Perlak Petroleum Maatschappij, Perlak Oil Company, Perlak (oil), Perlak Petroleum-Mij, "Hollandsche Perlak Maatschappij", "Holland Perlak Maatschappij"]
 tags: [organization, company, colonial, petroleum, dutch, acheh, oil, perlak, rantau-pandjang, bataafsche-petroleum-mij, zuid-perlak-petroleum-mij, pipe-line, oeléebalang, cijns]
 ---
 **The Perlak-Petroleum-Mij** — the Perlak Petroleum Company — was the Dutch colonial concession-holder of the *Peureula* oil-terrain in the onderafdeeling [[Langsa|Langsa]] of the [[Afdeeling Oostkust van Atjeh|Afdeeling Oostkust van Atjeh]], the historic territory of the former sultanaat of [[Peureula|Perlak]] on Sumatra's eastern coast. *De Buitenbezittingen* names the Perlak-Petroleum-Mij as the *concessionaris* whose Peureula-terrein — together with the neighbouring Oost-Peudawa — was, by [[1917]], "in exploitatie bij de [[Bataafsche Petroleum Maatschappij|Bataafsche Petr. Mij.]]"; the actual winning of crude oil was thus conducted by the [[Bataafsche Petroleum Maatschappij|Bataafsche Petroleum Maatschappij]] as operator, while the Perlak-Petroleum-Mij remained the legal holder of the concession.
@@ -62,6 +62,18 @@ The petroleum-spring at Rantau Pandjang was discovered in May [[1875]] by office
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter V, *'Perlak, land van peper en olie'*, pp. 36–37.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+In author [[J. Langhout|Joh. Langhout]]'s chapter "De Petroleum-ontginning" — drawing on the company's own information — the history of the Perlak enterprise began with the petroleum springs of the landscape [[Peureula]] on the East Coast, which had been exploited "in native fashion" for centuries: an "Indische markt" (Indian market) had existed there from of old, where the oil won from four dug wells was brought to market — the source of the petroleum which the [[Vereenigde Oost-Indische Compagnie|East India Company]] in the eighteenth century sometimes obtained from the Sultan of Atjeh and which was highly prized in the mother-country as a medicament. A few years after the Bataafsche's [[1890]] start at [[Pangkalan Brandan]] over the border, the Hollandsche Perlak Maatschappij began her activity on actual Atjehnese ground, at Peureula — still in the un-pacified territory.
+
+### "The settlement of the oil-man means peace"
+
+Langhout's judgement on the Perlak enterprise reversed the popular legend that the military excursions merely covered the companies: on the estates the Atjehnese for the first time knew the Hollander otherwise than as a soldier; chiefs and great ones drew from the *cijns* (tribute) more than the heaviest taxing of their subjects had ever yielded; and the tact and language-knowledge of the administrator [[Allein]] reconciled the surrounding population to the point that 60% Atjehnese voluntary labour was reached within a short time. When raiding mountain bands once carried off all rice from the native and Chinese settlement, the enterprise's full rice-barns — past which the bands had crossed the river — were left unmolested: "de vestiging van den olieman, zoo wisten de militairen, beteekent... de vrede!"
+
+### Output and December 1922
+
+The Perlak concession-area was exploited by the [[Bataafsche Petroleum Maatschappij|Bataafsche]]; according to the official data she pumped in December [[1922]] from the tract Peureula "121197 ton" (as printed; probably 121,197 ton) of crude oil, with exploitation figures showing a steady increase over the last years.
+
 ## See Also
 
 - [[1875]]
@@ -89,6 +101,8 @@ The petroleum-spring at Rantau Pandjang was discovered in May [[1875]] by office
 - [[Teukoe Tjhi Perlak]]
 - [[Verkenningen in Atjeh (1923)]]
 - [[Zuid-Perlak Petroleum-Mij]]
+- [[Vereenigde Oost-Indische Compagnie]]
+- [[Allein]]
 
 ## Sources
 
@@ -103,3 +117,5 @@ The petroleum-spring at Rantau Pandjang was discovered in May [[1875]] by office
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), p. 306.
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim; *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), for the Koloniaal Instituut and Handelsmuseum.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 68, 83–85, 108, 160–163 (chapter "De Petroleum-ontginning"), illustration captions pp. 160, 162.

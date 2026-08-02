@@ -23,6 +23,8 @@ aliases:
 - Atjeh-Edi
 - Edi (East Coast)
 - the Dutch post at Edi
+- "Idi (east coast)"
+- "Landschap Idi"
 tags:
 - place
 - region
@@ -55,6 +57,10 @@ tags:
 - 19th-century
 - onderhoorigheden
 - scheepvaartregeling
+- "landscape"
+- "harbour"
+- "trade"
+
 ---
 
 **Idi** (also spelled *Edi*) was a district on the East Coast of [[Great Acheh|Acheh]], mentioned by [[C. Snouck Hurgronje]] in the context of regional saints and the *kramat* tradition. The recently deceased raja of Idi — the first pioneer of that district — was identified as the father of a Habib of the famous ʿAidarus Sayyid family, described as a half-crazy young man, the son of Teungku di Bukét.
@@ -159,6 +165,18 @@ The attack of [[11 June]] [[1890]] on the enemy positions on the left bank of th
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 10, 11, 15, 21, 25, 31, 35, 39. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 *De Geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, by C. J. O. Dorren, 1948, pp. 112–113 (page 16 of the OCR source).
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Idi** was the trading harbour of the East Coast of [[Acheh|Atjeh]] and one of the first seats of an assistant-resident ([[1878]]), which under a well-disposed landscape chief attained "a state more favourable than that in any of the other dependencies", and which under the [[Scheepvaartregeling|shipping regulation]] of [[1892]] was brought to greater bloom as the only East Coast harbour open to general trade.
+
+### Trade and administration
+
+At the civil formation of the end of [[1878]] the third assistant-resident was placed at Idi, charged with the administration of the East Coast, with a controller beside him. The regulated steam service along the west coast lines, extended in [[1877]], called regularly at Idi; Dutch trade relations with the East Coast dated from the acting consul of the Netherlands at [[Penang]]'s publication in the *Staatscourant* of [[17 March|17]]/[[18 March]] [[1878]] of extensive data on the trade traffic of that part of Atjeh. When in [[1882]] the compulsory visitation of vessels at [[Oeleë Lheuë|Oelèë Lheue]] was abolished, traffic and trade at Idi increased again rapidly; the landscape itself, also through the influence of the landscape chief well-disposed toward the Dutch, gradually came into a state more favourable than that of any other dependency. The pepper trade developed ever more, and the Chinese population grew to such an extent that the need of a temple soon made itself felt: with the cooperation of the Government and with the support of the landscape chief, who of his own accord contributed 500 dollars to the building costs, a Chinese temple soon arose.
+
+### The shipping regulation
+
+The [[Scheepvaartregeling|shipping regulation]] brought the harbour of Idi to greater bloom above all: of the harbours along the East Coast of Atjeh only Idi was opened for general trade, the others being declared accessible merely to the coasting trade — and then only to vessels under 25 register tons. All products of the East Coast were shipped out only from the harbour of Idi, while conversely the articles destined for the East Coast and brought from the [[Straits Settlements|Straits]] were carried via Idi to the several landscapes. Agricultural enterprises established in Idi, like those in neighbouring [[Langkat]], suffered repeatedly from the attacks of the [[Gayo- en Alaslanden|Gajoes]] inhabiting the hinterland. Under Governor [[Joannes Benedictus van Heutsz|Van Heutsz]] petroleum wells were bored at Idi in [[1903]], and the [[Koninklijke Paketvaart Maatschappij]] kept an office or agency in the harbour among its Atjehnese ports of call.
+
 ## See Also
 
 - [[1873]]
@@ -245,6 +263,8 @@ The attack of [[11 June]] [[1890]] on the enemy positions on the left bank of th
 - [[1893]]
 - [[1898]]
 - [[Expedition to Edi (1890)]]
+- [[Lho Seumawè]]
+- [[Pepper cultivation and trade in Atjeh]]
 
 ## Source
 
@@ -257,3 +277,5 @@ The attack of [[11 June]] [[1890]] on the enemy positions on the left bank of th
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter VII, *'Vriendelijk Idi'*, pp. 50–51.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter II, XII, XIII.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 37, 40–41, 48, 64–65, 85, 157, 179.

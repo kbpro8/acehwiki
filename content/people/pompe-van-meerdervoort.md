@@ -1,6 +1,6 @@
 ---
 title: "Pompe van Meerdervoort"
-aliases: ["Kolonel Pompe van Meerdervoort", "Colonel Pompe", "Pompe", "Pompe van Meerdervoort (Atjeh governor)"]
+aliases: ["Kolonel Pompe van Meerdervoort", "Colonel Pompe", "Pompe", "Pompe van Meerdervoort (Atjeh governor)", "Pompe van Meerdervoort", "Colonel Pompe van Meerdervoort"]
 tags: [person, military, dutch, colonial, officer, governor, aceh-war, 19th-century, commander, general, knil, aceh]
 ---
 
@@ -42,6 +42,14 @@ Pompe's governorship is, in Kruijt's analysis, the most striking instance of the
 
 After the retirement of general [[J. van Teijn|van Teijn]] the Government again chose the policy of waiting and negotiating, "and thereby, after a short and feeble administration by General Pompe van Meerdervoort, General Deijckerhoff took office."
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**F. Pompe van Meerdervoort** was a Dutch colonel who was appointed Governor of [[Acheh|Atjeh and Onderhoorigheden]] on [[23 April]] [[1891]], receiving the province from Major-General [[General van Teijn|Van Teijn]] at a moment when the situation in the occupied parts of Atjeh was, in author [[J. Langhout|Joh. Langhout]]'s words, "not unfavourable".
+
+### Government
+
+During the two following years the situation remained stable. Outside the [[Dutch Policy of 'Concentration'|concentrated line]] the population began to devote itself more to rice-growing, and the satisfactory outcome of the rice harvests even caused prices there to be considerably lower than inside the line; the transport of rice from outside to inside the line was accordingly permitted, which equally benefited the revival of trade. The island [[Poelò We|We]] proved increasingly suited to pepper cultivation and the plantations regularly expanded; the pepper export from the East Coast of Atjeh had risen in the years [[1889]]–[[1891]] from 5,742 to 5,853 and 7,620 *kojangs*, though profits in 1891 were reduced by falling market prices and by wages which had to be nearly doubled for want of experienced labour. It was likewise in this period that, with the improved security, Chinese pedlars could move almost unhindered along the roads and between the several posts, and the pepper-federation [[Gigiëng]] devoted itself from [[1890]] so successfully to rice culture that it became the granary of the federation [[Pidië]] and could even spare rice for Groot-Atjeh.
+
 ## See Also
 
 - [[General van Teijn]]
@@ -82,9 +90,14 @@ After the retirement of general [[J. van Teijn|van Teijn]] the Government again 
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Dutch Policy of 'Concentration'|The Concentration in Atjeh (1884-1898)]]
+- [[Government of Atjeh en Onderhoorigheden]]
+- [[Pepper cultivation and trade in Atjeh]]
 
 ## Source
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter XI, "Kortstondig bestuur onder kolonel Pompe van Meerdervoort, van Mei 1891 tot Januari 1892." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 58–62.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 64–65.

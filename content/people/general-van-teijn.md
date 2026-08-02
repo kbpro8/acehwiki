@@ -8,6 +8,10 @@ aliases:
 - Kolonel van Teijn
 - Civiel en Militair Gouverneur van Teijn
 - Governor Van Teijn of Atjeh
+- "General Van Teijn"
+- "Generaal-majoor Van Teijn"
+- "Governor Van Teijn"
+- "Gouverneur Van Teijn"
 tags:
 - person
 - military
@@ -98,6 +102,20 @@ Van Teijn's significance in the [[Aceh Wiki History]] record rests on four thing
 ## Sources
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 1, 10, 24 (Nederland en Atjeh — Personen en Stelsels; Een Terugblik — Wat Reeds Verkregen Werd; De Inwendige Toestand).
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Van Teijn** was a Dutch major-general who as Governor of [[Acheh|Atjeh and Onderhoorigheden]] from the end of [[1886]] to [[23 April]] [[1891]] replaced the system of abstention practised under [[Dutch Policy of 'Concentration'|the Concentration]] by a more vigorous action against the resistance, and under whose administration the general state of the province notably improved.
+
+### Government
+
+Van Teijn entered upon office in the last part of [[1886]] with the instruction to continue the consolidation of the concentration, keeping also in view the restoration of the Sultanate under Dutch protectorate (see also [[E. B. Kielstra]], whose work *Het Herstel van het Sultanaat in Atjeh* Langhout cites in this connexion). After a year of patient waiting he came to the conviction that the subjection of the province could only be enforced; the ensuing more energetic action, continued under his successor, visibly reduced the enemy's resistance — damage to telephone lines, railways and bridges had almost ceased to occur by [[1891]].
+
+In the years of Van Teijn's government the general condition much improved. Travelling by Atjehnese on the [[Atjeh Tram|steam tram]] perceptibly increased; for safety it was decided that in every train a police officer should be present, keeping a watchful eye at the halts upon the Atjehnese travelling along, so that armed men should not take place in the carriages. A marked improvement also came in the state of health. To protect [[Koeta Radja]] against inundations the Government built a quay, so that the neighbourhood remained free of superfluous water. Trade in Groot-Atjeh remained of little significance, however: rice-growing was hampered by lack of plough-cattle, and the considerable import of buffaloes from other parts of Atjeh brought no change because cattle-disease claimed numerous victims among the newly arrived animals; the proclaimed closing of the whole north coast since August [[1890]] had a withering influence on trade, without hastening subjection as intended.
+
+### Departure
+
+On 23 April [[1891]] Major-General Van Teijn handed the government of the province over to the newly appointed Governor, Colonel [[Pompe van Meerdervoort|F. Pompe van Meerdervoort]], the state of affairs in the occupied parts of Atjeh being "not unfavourable".
+
 ## See Also
 
 - [[Concentratie-stelsel (1884-1896)]]
@@ -178,9 +196,14 @@ Van Teijn's significance in the [[Aceh Wiki History]] record rests on four thing
 - [[Atjeh-tram]]
 - [[Ceintuur-bahn]]
 - [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[Dutch Policy of 'Concentration'|The Concentration in Atjeh (1884-1898)]]
+- [[General Deykerhoff|C. Deykerhoff]]
+- [[Government of Atjeh en Onderhoorigheden]]
 
 ## Source
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter X, "Politiek onder generaal Van Teijn. Blokkade en poging tot herstel van het Sultanaat, van December 1886 tot April 1891." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 53–57.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 6, 10, plus the chapters on 1886–1891. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 60–62, 64.

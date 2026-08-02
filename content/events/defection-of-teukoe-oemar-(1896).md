@@ -1,7 +1,7 @@
 ---
 title: "Defection of Teukoe Oemar (1896)"
-aliases: ["overloopen van Teukoe Oemar", "Teukoe Oemar's defection", "T. Oemar's overloop", "defection of 1896", "the most trouweloos verraad", "Oemar's defection", "Verraad van Toekoe Oemar", "Toekoe Oemar's defection (1896)", "het verraad", "the treason of Toekoe Oemar", "Defection of Teuku Umar"]
-tags: [event, defection, aceh, aceh-war, 1896, teukoe-oemar, westkust, groot-atjeh, achehnese, colonial, dutch, betrayal]
+aliases: ["overloopen van Teukoe Oemar", "Teukoe Oemar's defection", "T. Oemar's overloop", "defection of 1896", "the most trouweloos verraad", "Oemar's defection", "Verraad van Toekoe Oemar", "Toekoe Oemar's defection (1896)", "het verraad", "the treason of Toekoe Oemar", "Defection of Teuku Umar", "Verraad van Teukoe Oemar", "Defection of Teukoe Oemar 1896", "Teukoe Oemar's breach with the Government"]
+tags: [event, defection, aceh, aceh-war, 1896, teukoe-oemar, westkust, groot-atjeh, achehnese, colonial, dutch, betrayal, "war", "military"]
 description: "The February 1896 defection of Teukoe Oemar — Dutch ally of the concentrated-line period, supplied with weapons, money and salary by the governor — back to the Acehnese resistance; the Senelop and Lamsoet bentengs had to be retaken 2 May 1896 and then abandoned again; called 'the most trouweloos verraad' but condemned by Snouck Hurgronje as the inevitable result of the domme politiek of arming him."
 ---
 
@@ -55,6 +55,22 @@ The population immediately took Oemar's side. [[Tjot Goeë]] and [[Biloel]] were
 
 Hooijer declined to describe the furious fighting that followed, as lying outside the framework of a narrative written to explain plates. His judgment was that with these posts the work of two years — which had promised so much good, although raised on an unsound foundation — had gone up in flames; that the lives destroyed and the money spent would have proved uselessly wasted had the event not furnished occasion at last to act with force and to make the Achehnese experience *dat onze wil zijn wet moet zijn*; and that, while deeply regretting the many who fell, he could not regret what had happened, because it swept away the *scheeve verhoudingen* beginning to arise between Dutch power and Oemar's own, and allowed the Dutch position in [[Groot-Atjeh]] to be purified and strengthened.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+The **betrayal of Teukoe Oemar** — the news, certain by [[29 March]] [[1896]], that the chief received into grace in [[1893]] had "het masker had afgeworpen" ("thrown off the mask") and would again turn against the Government — was the crisis that cost Governor [[General Deykerhoff|C. Deykerhoff]] his office, brought army commander [[General Vetter|J. A. Vetter]] to Atjeh as Government Commissioner, and closed the era of the [[Dutch Policy of 'Concentration'|Concentrated Line]].
+
+### The certainty of 29 March 1896
+
+After rumours had long circulated, on 29 March [[1896]] the government received certainty that [[Teukoe Oemar]] — who at his [[Pardon of Teukoe Oemar (30 September 1893)|submission]] had received the title "Teungkoe Djohan Pahlawan" — had thrown off the mask and would henceforth again turn against the Government. The Governor of Atjeh, Major-General C. Deykerhoff, immediately telegraphed the warning of Teukoe Oemar's treason to the Governor-General, who at once convened an extraordinary meeting of the Council of the Netherlands Indies. In that assembly the Netherlands Indian Government reached the conclusion that the direction of affairs in Atjeh could no longer remain entrusted to the governor who had been "all too optimistic and incautious" in regard of Teukoe Oemar; Deykerhoff received honourable discharge, and Lieutenant-General [[General Vetter|J. A. Vetter]], the army commander, betook himself once more to Atjeh — this time to take the direction of affairs in hand as *Regeerings-Commissaris*. Whether Teukoe Oemar's deed was really "treason" is doubted by Dr. C. [[C. Snouck Hurgronje|Snouck Hurgronje]] — "waar Oemar nimmer tot de onzen behoort heeft" ("since Oemar never truly belonged to ours"); for the particulars author [[J. Langhout|Joh. Langhout]] refers to the [[Koloniaal Verslag|Colonial Report]] over 1896 and the military literature.
+
+### Chastisement and the new course
+
+After the chastisement of Teukoe Oemar and of the chiefs who had joined him in resistance had been accomplished, General Vetter returned to Batavia on [[28 June]] [[1896]], and effect was then given to his insights, which posited as a commanding requirement an unbroken development of power outside the concentrated position. The era of the [[Dutch Policy of 'Concentration'|concentration]] was thereby closed: the concentrated line became merely the base-point for the operations of three mobile columns, three temporary encampments outside the line were connected with it by [[Atjeh Tram|steam tramway]], and the [[Scheepvaartregeling|shipping regulation]] was applied in all its consequences. Governor-General [[Van der Wijck|Van der Wijck]] made the new course serve the economy as much as the war.
+
+### Economic consequences
+
+The political commotions had for result that, in the field of trade, the imports of 1896 were considerably less than in the preceding years; not only Groot-Atjeh but also the North and East Coasts felt the backlash. "Zoo ging de koffiecultuur, toch reeds van geringe beteekenis, in 1896 geheel achteruit; de uitvoer van peper verminderde, mede door de verlaagde peperprijzen, zoodat in genoemd jaar inderdaad over het geheele gebied een economische inzinking te zien gaf" — the coffee culture, already unimportant, declined wholly; the pepper export diminished, partly through the lowered pepper prices, so that in that year an economic collapse was visible over the whole territory. The recovery came with the active control of the three sagi's of Groot-Atjeh (registration 1897, pasars 1898) that marked the eve of Governors [[Joannes Benedictus van Heutsz|Van Heutsz]] and [[C. Snouck Hurgronje|Snouck Hurgronje]]'s tandem.
+
 ## See Also
 
 - [[Teukoe Oemar]]
@@ -82,6 +98,10 @@ Hooijer declined to describe the furious fighting that followed, as lying outsid
 - [[Luitenant Neelmeyer]]
 - [[Lamkrak]]
 - [[Geconcentreerde linie]]
+- [[Pardon of Teukoe Oemar (30 September 1893)]]
+- [[General Deykerhoff|C. Deykerhoff]]
+- [[General Vetter|J. A. Vetter]]
+- [[Dutch Policy of 'Concentration'|The Concentration in Atjeh (1884-1898)]]
 
 ## Sources
 
@@ -90,3 +110,5 @@ Hooijer declined to describe the furious fighting that followed, as lying outsid
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 12, 14, 16, 18, 34, 36, 50, 52, 54.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 72–76.

@@ -1,7 +1,7 @@
 ---
 title: Singkel post reaching Atjeh border (1840)
-aliases: [Singkelbezetting 1840, Dutch post at Singkel 1840, Singkel post reaching the Atjeh border, Grens met Atjeh bereikt door Singkelbezetting 1840, Vestiging van de post Singkel 1840, Singkel boundary with Atjeh]
-tags: [event, colonial, dutch, atjeh, sumatra, westkust-van-sumatra, buitenbezittingen, singkel, boundary]
+aliases: [Singkelbezetting 1840, Dutch post at Singkel 1840, Singkel post reaching the Atjeh border, Grens met Atjeh bereikt door Singkelbezetting 1840, Vestiging van de post Singkel 1840, Singkel boundary with Atjeh, "Dutch action at Baros and Singkel 1840", "Verdrijving der Atjehers uit Baros en Singkel"]
+tags: [event, colonial, dutch, atjeh, sumatra, westkust-van-sumatra, buitenbezittingen, singkel, boundary, "military", "west-coast", "19th-century"]
 ---
 
 **The Singkel post reaching Atjeh border (1840)** was the establishment, in [[1840]], of a Dutch military post at [[Singkel|Singkel]] on [[Sumatra's West Coast|Sumatra's West Coast]], by which — the Encyclopaedisch Bureau records — "the border with [[Acheh|Atjeh]]" was reached. The Singkel post was, in the Bureau's survey of the [[Buitenbezittingen|Outer Possessions]], one of the chain of Dutch outposts by which the colonial state, in the years [[1836]]–[[1840]], consolidated its effective authority over the interior of [[Sumatra|Sumatra]] at the close of the [[Padri War|Padri War on Sumatra's West Coast]]. The post was the geographical anchor of the Dutch claim to the southern boundary of [[Acheh|Atjeh]]'s sphere — a claim that would, in the late nineteenth and early twentieth centuries, be redemarcated and revised as the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] took its final shape.
@@ -21,6 +21,14 @@ The [[1840]] Singkel post was, however, almost immediately caught up in the [[J.
 ## Significance
 
 The [[1840]] Singkel post is, in the Encyclopaedisch Bureau's survey, the first formal demarcation of the southern boundary of [[Acheh|Atjeh]]'s sphere. It is the geographical prelude to the later, more elaborate boundary settlements — the [[1878 Langkat–Tamiang transfer|1878 Tamiang transfer]], the [[Boundary between Oostkust van Sumatra and Atjeh|1908 Oostkust-Atjeh boundary]] — by which the colonial state would, in the late nineteenth and early twentieth centuries, fix the limits of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. The post is also, in the Bureau's framing, the geographical complement of the [[atjehsche-overheersing-der-noordelijke-kuststaatjes|long Atjehnese overlordship of the East Coast]]: where the latter extended Atjehnese power southward along the [[Straits of Malacca|Strait of Malakka]], the former extended Dutch power northward along the [[Sumatra's West Coast|West Coast]].
+
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+The **expulsion of the Atjehnese from Baros and Singkel** in [[1840]] was the Netherlands Indian Government's answer to Atjehnese pressure upon the West Coast settlements of [[Sumatra]] — following the sufferings of [[Baros]] under Atjehnese raids and the *[[Schooner Dolphijn incident (1836)|Dolphiijn]]* affair — and came between the American ([[1831]]) and British ([[1844]]) naval chastisements of the Atjehnese coast.
+
+### The action
+
+In [[1831]] the Americans had punished [[Koeala Batië]] for the cutting-off of their merchantman; "also for our flag the Atjehnese had not much awe, and had o.a. Baros much to suffer from them", and in June [[1836]] the schooner *Dolphiijn* was cut off and burned, the Sultan keeping her money and guns. "Dan volgde in 1840 het verdrijven door de Nederlandsch Indische Regeering van de Atjehers uit Baros en uit Singkel" — "then followed in 1840 the driving-out by the Netherlands Indian Government of the Atjehnese from Baros and from Singkel". The action nevertheless failed to secure the coastlastingly: in [[1844]] English warships chastised Koeala Batië and [[Koeala Meureudoe]] anew for the plundering of merchant ships (see [[Bombardment of the Atjehse coast by the British (1844)|British chastisement of Kuala Batee and Kuala Meureudoe (1844)]], [[Sea robbery on the Atjeh coast]]).
 
 ## See Also
 
@@ -47,7 +55,12 @@ The [[1840]] Singkel post is, in the Encyclopaedisch Bureau's survey, the first 
 - [[1841]]
 - [[1842]]
 - [[1843]]
+- [[Sea robbery on the Atjeh coast]]
+- [[Schooner Dolphijn incident (1836)|Dolphiijn affair (1836)]]
+- [[American bombardment of the Atjehse coast (1831)|American chastisement of Kuala Batee (1831)]]
 
 ## Source
 
 *De Buitenbezittingen, Deel II, Afl. 3: Oostkust van Sumatra. Eerste Stuk*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, [[1918]]), p. 105. Universiteitsbibliotheek Vrije Universiteit Amsterdam, shelfmark LS.08781.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 15–16.

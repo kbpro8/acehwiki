@@ -209,6 +209,24 @@ Hooijer developed the image at length as the frame of his book: the Dutch sortie
 
 In the [[Voorwoord of De verlaten posten in Groot-Atjeh|Voorwoord]], Hooijer complained that the soundest work possessed on the *Atjeh-krijg* ran only over the first nine years of the war, and that beside this military study and one further *land- en volkenkundige studie over de Atjehers* — a land- and ethnographic study of the Achehnese, understood to be Snouck Hurgronje's *[[De Atjehers (Snouck Hurgronje)|De Atjehers]]* — no literary work of art and no powerful poem had appeared to sing the great struggle.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**C. Snouck Hurgronje** was the Dutch orientalist whose mastery of [[Acheh|Atjehnese]] conditions — won first during his study journey through the [[Government of Atjeh en Onderhoorigheden]] in [[1890]], which issued in his standard work *De Atjehers* ("The Achehnese") — made him, as Adviser for Native and Arab affairs from [[1898]] to [[1903]], the intellectual partner of Governor [[Joannes Benedictus van Heutsz|Johannes van Heutsz]] in the final [[Pacification of Atjeh|pacification]] of Atjeh.
+
+### The scholar of Atjeh
+
+By making a study journey through the Government of Atjeh and Dependencies in 1890, Snouck Hurgronje, then Adviser for the Oriental languages and Mohammedan law, made himself thoroughly familiar with the conditions of Atjeh; the book *De Atjehers* appeared some years later. His advices to the Indian Government frequently extended to matters concerning the province and, judging by the utterances in the Koloniale Verslagen (Colonial Reports), were always held in particular esteem. [[J. Langhout|Joh. Langhout]] quotes his famous observation in the introduction of *De Atjehers*: "De geschiedenis van dit 'Rijk der drie zijden' en van de kuststaten en van de eilanden, die deszelfs onderhoorigheden vormden, moet nog geschreven worden" ("The history of this 'Kingdom of the three sides', and of the coast states and of the islands forming its dependencies, remains to be written"). From the same work Langhout takes the argument that no regulated, normal development of state government or jurisdiction ever had place in the Atjeh of former days, and that order and rest were sought in vain even under the sultans who gave the land its greatest prosperity.
+
+### Adviser for Atjeh, 1898–1903
+
+In March [[1898]] Snouck Hurgronje, appointed Adviser for Native and Arab affairs, received the commission "to betake himself to the Government of Atjeh and Dependencies as often, and to sojourn there as long, as shall be necessary in the interest of his work as adviser for native affairs". A circular of the Governor of Atjeh directed the officials to regard him as invested with the same authority as had been allotted to the former resident of Atjeh and Dependencies; he kept the commission until March [[1903]].
+
+In the years 1896–1898 he advised Governor-General [[Van der Wijck|Van der Wijck]] on the appointment of a new governor of Atjeh, holding that Colonel J. B. [[Joannes Benedictus van Heutsz|van Heutsz]] was "the man" for Atjeh. The ensuing collaboration of governor and adviser — to which Langhout ascribes the gradually changed policy toward the self-governing territories in the whole of the Indies, and notably the replacement of the "declaration of 18 articles" by the three-article [[Korte verklaring]] — benefited the pacification in very great measure. When the [[Toeankoe Mochamad Dawot|pretender-sultan]] declared himself willing to sign the short declaration, Snouck strongly dissuaded the giving of pledges and promises to him; Van Heutsz nevertheless conceded that the pretender would never be banished — a promise that later, when the sultan's approaches to a foreign power came to light, had to be broken. In [[1903]] the collaboration itself broke down: the professor had to take a stand against Van Heutsz, "the man who could endure no opposition".
+
+### Later years
+
+To author [[J. Langhout|Joh. Langhout]], who in 1922–1923 enjoyed the privilege of hours of "college" in the Leiden professor's study on the statecraft of Atjeh from 1898 to 1904, Snouck spoke words of "appreciation, of high esteem, almost of reverence" for what Van Heutsz had brought about. Langhout also records that Snouck doubted whether Teukoe Oemar's breach with the Government in [[1896]] was really "verraad" ("treason"), since Oemar had never truly belonged to the Dutch side, and thanked the professor for the many hours spent supplying data for *[[Vijftig jaren economische staatkunde in Atjeh]]*, during which his abiding love for the land and people of Atjeh constantly came forward.
+
 ## See Also
 
 - [[A. W. S. O'Sullivan translation of De Atjehers]]
@@ -335,6 +353,9 @@ In the [[Voorwoord of De verlaten posten in Groot-Atjeh|Voorwoord]], Hooijer com
 - [[Moslemin]]
 - [[G. B. Hooijer]]
 - [[Voorwoord of De verlaten posten in Groot-Atjeh]]
+- [[Government of Atjeh en Onderhoorigheden]]
+- [[Teukoe Oemar]]
+- [[Vijftig jaren economische staatkunde in Atjeh]]
 
 ## Sources
 
@@ -367,3 +388,5 @@ In the [[Voorwoord of De verlaten posten in Groot-Atjeh|Voorwoord]], Hooijer com
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, Voorwoord and p. 9.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 21, 73, 77–80, 82, 135, 192–193.

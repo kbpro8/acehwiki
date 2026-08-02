@@ -1,7 +1,7 @@
 ---
 title: "Panglima Polem"
-aliases: ["Lord Elder Brother", "Panglima Polam", "Panglima Polem II", "Panglima Polem XXII", "Panglima Polem of the XXII Mukims", "Panglima Polem the elder", "Panglima Polim", "Panglima Polim (Acehnese leader)", "Panglima Prang Polim", "Po-lem", "Polem", "Polim", "Teukoe Moehamat Dawöt", "Teukoe Panglima Polém Moehamad Ali", "Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed", "Teukoe Panglima Pólém", "Teuku Panglima Polem", "last Panglima Polem", "sagi-head of XXII Moekim's", "sagihoofd XXII moekims", "Seri Madoe Perkasa Teukoe Panglima Polem", "Sri Muda Perkasa Teuku Panglima Polim", "Panglima Palim", "Panglima Polem IX", "P. Polim", "Teukoe Panglima Pólém Moehamad Ali", "Panglima Polém Moehamad Ali", "Moehamad Ali of the Polém", "de jonge Panglima Polim", "the young Panglima Polim", "Sagihoofd der XXII Moekims"]
-tags: [person, 19th-century, 20th-century, aceh-war, acehnese, achehnese, achehnese-war, colonial, commander, hereditary, lineage, nobility, oelèëbalang, panglima-sagi, resistance, sagi, sagi-chief, title, uleebalang, xxii-mukims, panglima, oeleebalang, aceh, xxii-moekims, military, sultanate]
+aliases: ["Lord Elder Brother", "Panglima Polam", "Panglima Polem II", "Panglima Polem XXII", "Panglima Polem of the XXII Mukims", "Panglima Polem the elder", "Panglima Polim", "Panglima Polim (Acehnese leader)", "Panglima Prang Polim", "Po-lem", "Polem", "Polim", "Teukoe Moehamat Dawöt", "Teukoe Panglima Polém Moehamad Ali", "Teukoe Panglima Polém Sri Moeda Perkasa Moehamad Daoed", "Teukoe Panglima Pólém", "Teuku Panglima Polem", "last Panglima Polem", "sagi-head of XXII Moekim's", "sagihoofd XXII moekims", "Seri Madoe Perkasa Teukoe Panglima Polem", "Sri Muda Perkasa Teuku Panglima Polim", "Panglima Palim", "Panglima Polem IX", "P. Polim", "Teukoe Panglima Pólém Moehamad Ali", "Panglima Polém Moehamad Ali", "Moehamad Ali of the Polém", "de jonge Panglima Polim", "the young Panglima Polim", "Sagihoofd der XXII Moekims", "Panglima Polém", "Panglima Polem of the XXII Moekims"]
+tags: [person, 19th-century, 20th-century, aceh-war, acehnese, achehnese, achehnese-war, colonial, commander, hereditary, lineage, nobility, oelèëbalang, panglima-sagi, resistance, sagi, sagi-chief, title, uleebalang, xxii-mukims, panglima, oeleebalang, aceh, xxii-moekims, military, sultanate, "chief"]
 ---
 
 > **Note on nomenclature.** The hereditary office discussed here is variously spelt in the sources as *Panglima Polem*, *Panglima Polim*, and (when referring to the Sultan's wartime commander) *Panglima Prang Polim*. The Dutch colonial records transliterate it as *Panglima Pólém* or *Panglima Polém*. All forms denote the same title and the same lineage of bearers. Several distinct historical persons held the office; the article treats the title and lineage as a single entity, with separate sections for each prominent bearer whose career is documented in the sources.
@@ -236,6 +236,14 @@ Throughout [[1875]] and [[1876]], [[Panglima Polem]] commanded Acehnese forces a
 
 The [[XXII Moekims]] of which Panglima Polim was *sagi*-head fringed the Dutch concentrated position on the south-east and bordered the [[Sagi der XXVI Moekims|XXVI Moekims]]. Within it lay [[Lam Barih]], [[Lam Soet]] and [[Anagaloeng]] — the last called by the Achehnese the navel of the country and the granary of the XXII Moekims — all of which were taken by [[Teukoe Oemar|Toekoe Djohan]] in [[November]]–[[December]] [[1893]], garrisoned by the Dutch, and abandoned and burnt in [[April]] [[1896]].
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Panglima Polem** was the Atjehnese chief and former resistance commander whom General [[H. N. A. Swart]], in his conversation with the journalist [[J. Langhout|Joh. Langhout]], named among the Atjehnese chiefs — with his sister and his brother-in-law [[Toeankoe Radja Keumala]] — whose confidential relations with the Dutch administration disproved the notion of a hereditary hatred of Atjehnese toward the Dutch.
+
+### Swart's testimony
+
+Speaking as old Governor of [[Acheh|Atjeh]] and old Vice-President of the [[Council of the Indies]] in [[1922]]–[[1923]], General Swart cited what he "had experienced from his men" as the official grown grey in the service of Atjeh, and told of [[Teukoe Tjhi Peusangan]], of Panglima Polem and his sister, of Polem's brother-in-law Toeankoe Radja Keumala, of [[Pòtjoet Meurah]] and her husband [[Toeankoe Machmoed]], and of so many other sultans' kin and Atjehnese chiefs who found the *kaphé* not so bad and "entrusted to him all, their dearest and most secret thoughts". Langhout reproduces the anecdote within his account of Swart's governorship ([[1908]]–[[1918]]), under which the last effective resistance of the [[Acheh War]] ended by [[1913]].
+
 ## See Also
 
 - [[1855]]
@@ -396,6 +404,9 @@ The [[XXII Moekims]] of which Panglima Polim was *sagi*-head fringed the Dutch c
 - [[Kroeng Raja]]
 - [[Anagaloeng]]
 - [[Sagi]]
+- [[Pòtjoet Meurah]]
+- [[Pacification of Atjeh]]
+- [[Acheh War]]
 
 ## Sources
 
@@ -451,3 +462,5 @@ After the departure of the main force in [[April 1874]], Panglima Polim continue
 ## Source (Van Swieten account)
 
 *De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 19–20, 461–462.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 96–97.

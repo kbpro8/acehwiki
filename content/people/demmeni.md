@@ -1,6 +1,6 @@
 ---
 title: "Demmeni"
-aliases: ["Kolonel Demmeni", "Colonel Demmeni", "Generaal Demmeni", "Civiel en Militair Gouverneur Demmeni", "Demmeni (Atjeh governor)", "General Demmeni", "Demmeni", "kolonel Demmeni", "H. Demmeni", "Civiele en Militaire Gouverneur van Atjeh"]
+aliases: ["Kolonel Demmeni", "Colonel Demmeni", "Generaal Demmeni", "Civiel en Militair Gouverneur Demmeni", "Demmeni (Atjeh governor)", "General Demmeni", "Demmeni", "kolonel Demmeni", "H. Demmeni", "Civiele en Militaire Gouverneur van Atjeh", "Governor Demmeni", "Gouverneur Demmeni"]
 tags: [person, military, dutch, colonial, officer, governor, aceh-war, atjeh, general, 19th-century, commander]
 ---
 
@@ -88,6 +88,18 @@ Demmeni died at the end of [[1886]], and his death opened the governorship to [[
 
 Hooijer's judgment on the outcome was sceptical. The proximity of Baid's territory to the Dutch post at [[Anagaloeng]] kept the officers in suspense and the sentries awake, for now and then well-founded suspicions arose that Van der Heijden had not judged the chief so wrongly; one of the neighbouring *[[Blokhuis|blokhuizen]]* garrisoned by Baid's people fell or was played into the hands of the *[[Moslemin]]* only hours after a Dutch officer's inspection had found everything in order.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**H. Demmeni** was a Dutch infantry colonel who commanded the fruitless military expedition to [[Teunom]] in the [[Nisero affair (1883–1885)|Nisero affair]] of January [[1884]] and who, when the experiment of separate civil government ended, was appointed Civil and Military Governor of [[Acheh|Atjeh and Onderhoorigheden]], accepting the administration on [[13 September]] [[1884]].
+
+### The Teunom expedition, January 1884
+
+With the consent of the Government, which wished to avoid every reproach that not everything had been done or suffered to promote the liberation of the crew of the stranded English steamer *Nisero*, a military expedition was equipped which steamed from [[Oeleë Lheuë|Oelèë Lheue]] to Teunom on [[4 January]] [[1884]] under the command of Colonel H. Demmeni, while the English warship *Pegasus* sailed up to Teunom on the English side. When the ultimatum to the [[Radja of Teunom]] remained unanswered, hostilities were opened and an exemplary chastisement of the Radja followed: the coast was kept closed to a wide distance for all import and export, the fisheries were impeded, and Dutch warships fired on everything within their reach. The Radja remained indifferent, however, and the prisoners were not delivered up: the captives were freed only on [[10 September]] [[1884]], after renewed negotiations conducted by Governor [[P. F. Laging Tobias]] together with [[Mr. Maxwell]] of the [[Singapore]] colonial council.
+
+### Civil and Military Governor, 1884
+
+After more than three years of civil government the Government understood that a reserved and very forceful attitude toward the Atjehnese left no place for a separate civil administration, and that military and civil authority had again to be united in one hand. Governor Laging Tobias was honourably relieved, and Colonel of Infantry H. Demmeni was appointed Civil and Military Governor of Atjeh and Dependencies, accepting the administration on 13 September 1884. Thus ended, in Langhout's phrase, "the for our army inglorious and for trade most unfavourable period of the first civil government in Atjeh". Demmeni's name thereafter attaches to the carrying out of the [[Dutch Policy of 'Concentration'|Concentration]] — the withdrawal from outlying posts, the redrawing of the line of posts around [[Koeta Radja]], and the strict blockade of a great part of the Atjehnese coast.
+
 ## See Also
 
 - [[Concentratie-stelsel (1884-1896)]]
@@ -159,6 +171,10 @@ Hooijer's judgment on the outcome was sceptical. The proximity of Baid's territo
 - [[General van der Heijden]]
 - [[Anagaloeng]]
 - [[VII Moekims Baid]]
+- [[Nisero affair (1883–1885)|Nisero affair (1883-1884)]]
+- [[P. F. Laging Tobias]]
+- [[Dutch Policy of 'Concentration'|The Concentration in Atjeh (1884-1898)]]
+- [[Government of Atjeh en Onderhoorigheden]]
 
 ## Sources
 
@@ -171,3 +187,5 @@ Hooijer's judgment on the outcome was sceptical. The proximity of Baid's territo
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 5–6, 24–29.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 55–60.

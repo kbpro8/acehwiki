@@ -1,7 +1,7 @@
 ---
 title: "Meulaboh"
-aliases: ["Meulabo'h", "Malabo", "Meulaba", "Malaboh", "Meulabuh", "Meulaboh (West coast of Atjeh)", "Maulaboh", "Melaboeh", "Melaboeh (Atjeh Westkust)", "Melaboeng", "Melaboh", "place of death of Toekoe Oemar", "het Meulabosche", "Meulabohsche", "Meulaboh district"]
-tags: [place, north-east-coast, west-coast, region, pepper, uleebalangship, hoofdplaats, westkust, achehnese, japanese, town, atjeh, sumatra, colonial, dutch, westkust-van-atjeh, 19th-century, aceh-war, battlefield, patchouli, nilam, Spoon, aceh, resistance, 20th-century]
+aliases: ["Meulabo'h", "Malabo", "Meulaba", "Malaboh", "Meulabuh", "Meulaboh (West coast of Atjeh)", "Maulaboh", "Melaboeh", "Melaboeh (Atjeh Westkust)", "Melaboeng", "Melaboh", "place of death of Toekoe Oemar", "het Meulabosche", "Meulabohsche", "Meulaboh district", "Meulaböh", "Meulabōh", "Meulabo"]
+tags: [place, north-east-coast, west-coast, region, pepper, uleebalangship, hoofdplaats, westkust, achehnese, japanese, town, atjeh, sumatra, colonial, dutch, westkust-van-atjeh, 19th-century, aceh-war, battlefield, patchouli, nilam, Spoon, aceh, resistance, 20th-century, "coastal"]
 ---
 
 ## Expanded account from *The Achehnese*, Vol. I — Meulaboh
@@ -155,6 +155,22 @@ In the marshes of [[Seuneu'am]] and [[Tripa]] near Meulaboh wandered [[T. Radja 
 
 Meulaboh was the last district of Atjeh in which serious armed incidents occurred — in [[1914]], [[1917]] and [[1918]] — and one of the four sub-divisions still governed by officers as late as [[1936]], when Governor [[Van Aken]] declared it fully ripe for civil administration.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Meulaboh** was the principal town of the West Coast of [[Acheh|Atjeh]] and the seat of the assistant-resident charged with the administration of that coast, a centre of the west-coast [[Pepper cultivation and trade in Atjeh|pepper trade]] with [[Padang]], the starting point of the coal explorations in [[Seunagan]] ([[1882]]–[[1883]]), the target of repeated nocturnal attacks by robber bands in [[1883]], and the place near which [[Teukoe Oemar]] met his death in [[1899]].
+
+### Administration and trade
+
+At the civil formation of the end of [[1878]] the fourth assistant-resident was placed at Meulaboh, charged with the administration of the west coast, with a controller beside him. The government-subsidized steam navigation along the West Coast — extended at the beginning of [[1877]] to Patè and in June of that year to [[Rigaih]] — brought trading relations into being principally between Meulaboh and Padang, so that the products (pepper, coffee, rattans) thenceforth could be carried to the Overwal by Dutch merchant vessels instead of English-flag ships. The pepper trade of the West Coast, however, came for the greatest part into the hands of a Chinese *kongsi* at [[Batavia]], which had secured the delivery of all pepper for some years, while from several West Coast harbours cargoes of pepper were carried directly to Europe by a French ship. In [[1882]] the pepper culture of the West Coast underwent a considerable extension from the return of the population that had earlier betaken itself to Groot-Atjeh to wage the war; for some years thereafter production on the West Coast stayed virtually stationary for lack of workpeople.
+
+### Coal exploration and attacks of 1882–1883
+
+At the end of [[1882]] the assistant-resident of Meulaboh made a journey to the landscapes lying south of Meulaboh to hold a preliminary investigation into the coal present in the landscape [[Seunagan]] — an investigation which, for the very inadequate means, was very superficial and gave few results; in the following year the "ontdekkingstochten" were continued by some mining engineers, with little satisfying outcome, the coal proving to be mixed with too much clay and shale and of too young formation. During [[1883]] the *passar* and the establishment of the controller at Meulaboh had to endure repeated nocturnal attacks of robber bands from [[Teunom]]-[[Panga]], [[Löh Boeboen]] and [[Boeboen]], some of them very violent; the warship *Madura* had to come to the rescue before the bands withdrew — to attack Meulaboh again later. Under the resolution of [[29 May]] [[1883]] Meulaboh was, however, one of the few harbours remaining open; the seasonal cycle of license-systems and the [[Scheepvaartregeling|shipping regulation]] (in full effect on the West Coast from January [[1895]]) brought [[Poelò Raja]], the stapling-place of the northern part of the West Coast, to increasing bloom.
+
+### Later years
+
+The trade of the West Coast remained of small extent, chiefly through the stay of [[Teukoe Oemar]] in these regions, whose action hampered the inland trade of the department; Governor [[Joannes Benedictus van Heutsz|Van Heutsz]]'s pursuit of Oemar led in [[1899]], near Meulaboh, to the rebel's death, "whereby the conditions everywhere became healthier". In [[1902]]–[[1903]] the government investigated the presence of stone coal on the West Coast. The [[Koninklijke Paketvaart Maatschappij|K.P.M.]] maintained an office or agency at Meulaboh (with Tapa Toean and [[Sinabang]] serving the south-west coast), and patchouli (*tilem*) planting spread on the West Coast after [[1918]].
+
 ## See Also
 
 - [[10 March]]
@@ -227,6 +243,10 @@ Meulaboh was the last district of Atjeh in which serious armed incidents occurre
 - [[Attack on Gosenson at Djeuram (29 December 1917)]]
 - [[Maurice Henri du Croo]]
 - [[Teunòm]]
+- [[Pepper cultivation and trade in Atjeh]]
+- [[Teukoe Oemar]]
+- [[Scheepvaartregeling|Scheepvaartregeling in Atjeh]]
+- [[Tapa Toean]]
 
 ## Source
 
@@ -245,3 +265,5 @@ Meulaboh was the last district of Atjeh in which serious armed incidents occurre
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters XI, XII, XIII, XVI, pp. 110–112, 121–129, 132, 157.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 37, 40–41, 49–50, 54, 71, 76, 80, 85, 157.

@@ -1,7 +1,7 @@
 ---
 title: Schooner Dolphijn incident (1836)
-aliases: [Plundering of the Dolphijn, De Dolphijn incident, 1836 plundering of 's lands schooner Dolphijn, the Dolphijn affair]
-tags: [event, maritime, piracy, colonial, 19th-century, atjehnese, dutch, causes-of-war]
+aliases: [Plundering of the Dolphijn, De Dolphijn incident, 1836 plundering of 's lands schooner Dolphijn, the Dolphijn affair, "Loss of the schooner Dolphiijn", "Dolfijn 1836", "Seizure of the Dolphiijn money shipment"]
+tags: [event, maritime, piracy, colonial, 19th-century, atjehnese, dutch, causes-of-war, "naval", "achehnese"]
 ---
 
 **The schooner Dolphijn incident** of [[1836]] — in [[J. Kreemer|Kreemer]]'s history, the plundering by Atjèhnese of the [[Netherlands|Netherlands-Indies government]]'s schooner *Dolphijn*, carrying some ƒ30,000 in specie, and the seizure of the cargo by the [[Sultan of Atjeh|Sultan of Atjèh]] himself — was one of the principal humiliations which, in Kreemer's account, the Dutch government endured between [[1824]] and [[1873]] rather than violate the [[Anglo-Dutch Treaty of 1824|London treaty]]'s guarantee of Atjèh's integrity.
@@ -18,6 +18,18 @@ The Dolphijn incident is, in Kreemer's narrative, one of a sequence of outrages 
 
 The Dolphijn incident is, in Kreemer's account of the causes of the [[Aceh War|Atjèh-oorlog]], a key exhibit in the case that the Dutch policy of "schipperen" — trimming — between the 1824 treaty's twin obligations (to ensure safety in Atjèhnese waters and to respect Atjèh's integrity) was unsustainable. The advice of the commission sent to Atjèh — that the government's honour should now at last be upheld — is the first recorded official recommendation of a forceful policy; its rejection marks the depth of the Dutch commitment to the 1824 framework, and thus the depth of the eventual rupture when that framework was finally abandoned in [[1873]].
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+The **Dolphiijn affair** of June [[1836]] was the cutting-off by her own native crew of the Dutch schooner *Dolphiijn*, with a money shipment of 30,000 guilders on board, between [[Natal]] and [[Padang]] — the ship brought into [[Acheh|Atjeh]] and burned by the robbers, while the Sultan of Atjeh "kept the money and the guns for himself".
+
+### The seizure
+
+In June [[1836]] the Dutch schooner *Dolphiijn*, with a money shipment of 30,000 guilders on board, was cut off by the native crew between Natal and Padang and brought to Atjeh. Neither for the Dutch flag had the Atjehnese much awe, author [[J. Langhout|Joh. Langhout]] observes: [[Baros]] had already much to suffer from them. An investigation brought to light that the robbers had burned the ship — "en de Soeltan van Atjeh het geld en het geschut voor zichzelf had gehouden!" ("and the Sultan of Atjeh had kept the money and the guns for himself!").
+
+### Place in the chain of incidents
+
+The affair stood in the series of piratical incidents — the American chastisement of [[American bombardment of the Atjehse coast (1831)|Kuala Batee in 1831]], the Dutch expulsion of the Atjehnese from [[Baros]] and [[Singkel]] in [[1840]], the English chastisement of Koeala Batië and [[Koeala Meureudoe]] in [[1844]], the plundering of a Neapolitan schooner in [[1851]] and an English merchantman in [[1852]] — that finally moved the Netherlands Indian Government to let General [[Jan van Swieten|J. van Swieten]] conclude the [[Treaty of 1857 between Netherlands and Aceh|Treaty of 1857 with the Sultan of Atjeh]] ([[1857]]), in which "all claims on account of former facts would lapse".
+
 ## See Also
 
 - [[Acheh]]
@@ -28,7 +40,14 @@ The Dolphijn incident is, in Kreemer's account of the causes of the [[Aceh War|A
 - [[Kuala Bathee]]
 - [[Kuala Meureudu]]
 - [[1836]]
+- [[Sea robbery on the Atjeh coast]]
+- [[American bombardment of the Atjehse coast (1831)|American chastisement of Kuala Batee (1831)]]
+- [[Singkel post reaching Atjeh border (1840)|Expulsion of the Atjehnese from Baros and Singkel (1840)]]
+- [[Treaty of 1857 between Netherlands and Aceh|Treaty of 1857 with the Sultan of Atjeh]]
+- [[Sultan Ibrahim Mansur Shah|Sultan Ibrahim Mansur]]
 
 ## Source
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, B ("Periode 1824—1873. Oorzaken van den Atjèh-oorlog"), blz. 10.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 15–16.

@@ -18,6 +18,8 @@ aliases:
 - Teluk Aru
 - Aru Bay field
 - Aru-Bay
+- "Arosbaya"
+- "Aroëbaai"
 tags:
 - place
 - bay
@@ -36,6 +38,8 @@ tags:
 - ar-oe-baai
 - oil-field
 - sumatra
+- "east-coast"
+
 ---
 **Aroebai** (also rendered **Aroe-baai**, modern **Arube Bay**, in the [[1918]] Oostkust volume also **Langsaarbaai**) was a broad, shallow natural harbour on the Strait of Malaka at the northern extremity of the [[Gouvernement Oostkust van Sumatra|Gouvernement Oostkust van Sumatra]], just south of the [[Besitang|Besitang River]] mouth and the [[Tamiang|Tamiang]] region (transferred to [[Gouvernement Atjeh en Onderhoorigheden|Atjeh]] in [[1908]]). Described in the Encyclopaedisch Bureau's [[1917]] account as "the fine and accessible Arube Bay" (*de fraaie en goed toegankelijke Aroe-baai*) and as "a good roadstead" (*eene goede rede*), Aroebai was projected as the natural maritime terminus of the [[Atjeh-tram|Atjeh-tramway]] network — and as a potential competitor to [[Belawan|Belawan]], [[Singapore|Singapore]], and [[Sabang|Sabang]] as a deep-water outlet for the [[Acheh|Atjehnese]] export trade. Three and a half centuries earlier, the same bay had been the theatre of the [[Atjeh-Aroe War (1539)|Atjeh-Aroe war of 1539]] and the principal locus of the *bedekte taal* that De Roo de la Faille decodes as the survival of the Hindu-Buddhist place-world of the Sumatran east coast.
 
@@ -98,6 +102,18 @@ Aroebai is, in the Encyclopaedisch Bureau's [[1917]] account, the projected natu
 
 
 Before [[1898]] the regions near the Aroe-baai were continually disturbed by pepper-planters, wanderers and raiders, and the whole of Tamiang was unsafe. The opening of Tamiang to private enterprise in [[1898]] — when the Atjeh-weg was about to reach [[Koeala Simpang|Koeala Simpang]] — was a token of confidence in the security of oil-winning and tobacco-cultivation, and was the political event that turned the Aroe-baai from a pirate-haunted roadstead into the harbour of a planting-region.
+
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Aroe-baai** was the bay on the East Coast of [[Acheh|Atjeh]] near the border with [[Langkat]] whose deep water made it, in [[1890]], the in-finitely better anchorage for a petroleum establishment than the inner coast — but where, in the absence of every authority, Dutch or native, settlement was then impossible — and which obtained its rail connection (Besitang–[[Pangkalan Soesoe]]–[[Teloktaboehan]]) in [[1917]].
+
+### The ungoverned bay, 1890
+
+Already in [[1890]] the [[Bataafsche Petroleum Maatschappij|Bataafsche Petroleum Maatschappij]] had founded its establishment [[Pangkalan Brandan]] even south of the border of the province, in the [[Langkat|Langkat country]]. An establishment at the "infinitely more favourably situated" deep-water Aroe-baai was impossible — not only because of the absence of the Dutch authority, but practically speaking also of every native authority: the Atjehnese coastal strip found itself in a state of complete anarchy, the mutual feuds of the chiefs had promoted banditry, and repeatedly the young establishment was startled by attacks of roving bands. In the following years a proposed tramway from the Aroe-baai to [[Lho Seumawè]] was rejected by the Government in favour of the coastal tramway (budget of [[1901]]).
+
+### The rail connection, 1917
+
+The later coastal [[Atjeh Tram|tramway]] was carried to [[Besitang]] on the border of Atjeh and Sumatra's East Coast (construction completed end of [[1915]], opened 1916), and in [[1917]] a three-rail branch from Besitang to Pangkalan Soesoe on the Aroe-baai followed — with a third rail giving both the 0.75 m and the 1.067 m gauges, so that material of the [[Deli Spoorweg Maatschappij|Deli railway]] coming from Pangkalan Brandan could be brought to Teloktaboehan on the Aroe-baai. That bay was already known to history for the incident of the [[Atjehsche avonturier at Aroe-baai (1862)|Atjehnese adventurer of 1862]].
 
 ## See Also
 
@@ -165,6 +181,8 @@ Before [[1898]] the regions near the Aroe-baai were continually disturbed by pep
 - [[Van Bemmelen's The Geology of Indonesia (1949)]]
 - [[1940]]
 - [[1941]]
+- [[Atjeh Tram]]
+- [[Langkat]]
 
 ## Sources
 
@@ -176,3 +194,5 @@ Before [[1898]] the regions near the Aroe-baai were continually disturbed by pep
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters I–II, *'Inleiding'* and *'Tamiang'*, pp. 5, 6.
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 9 (Table 4: Oil production in the East Indies in 1940 and 1941), p. 11 (Oil Districts of the East Indies, North Sumatra).
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 137–139, 160.

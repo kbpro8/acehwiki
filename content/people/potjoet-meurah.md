@@ -1,7 +1,7 @@
 ---
 title: Potjoet Meurah
-aliases: [Cut Meurah, Potjoet Meurah of Pidië]
-tags: [person, woman, aceh, aceh-war, pidie, 20th-century, resistance]
+aliases: [Cut Meurah, Potjoet Meurah of Pidië, "Potjoet Meurah", "Pocut Meurah", "Pōtjoet Meurah"]
+tags: [person, woman, aceh, aceh-war, pidie, 20th-century, resistance, "nobility", "achehnese"]
 description: "From Pidië; suspected of hiding a klewang, she drew her rentjong and charged the brigade; received two skull houwen, two shoulder houwen, and a cut Achilles heel; left for dead; survived; wanted to slaughter the whole moekim; found by Veltman at keudé Biheuë with maggots in her wounds; treated by Veltman; saluted by kolonel Scheur (Scheurer) of Lombok; never troubled the Kompeuni again."
 ---
 
@@ -25,6 +25,14 @@ When the military commander, kolonel Scheur (Scheurer) — the man of *"alles ko
 
 Zentgraff cites Potjoet Meurah as the supreme instance of the Atjehsche woman's solitary valour — single-handedly charging a brigade of eighteen carbines and sharp klewangs with her *rentjong*. The salute of kolonel Scheur, the Lombok fighter, marks the sporting admiration that soldiers of all nations can have for one another, even across the lines of religion and race.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Pòtjoet Meurah** was an Atjehnese noblewoman — wife of [[Toeankoe Machmoed]] — whom General [[H. N. A. Swart|Swart]], Governor of [[Acheh|Atjeh]] from [[1908]] to [[1918]], named among the descendants of sultans and Atjehnese chiefs whose trust in the European government he cited as proof that no ineradicable hereditary hatred of the Dutch lived among the kampong population.
+
+### Swart's testimony
+
+Receiving the journalist [[J. Langhout|Joh. Langhout]] as old Vice-President of the [[Council of the Indies]], General Swart rejected the newspaper talk of an inextinguishable hatred which the women in the kampongs would keep alive against the Dutch: "Er is geen sprake van een onuitroeibaren haat, die hereditair is! Wie dat zegt, kent het volk niet!" ("There is no question of an ineradicable hatred that is hereditary! Whoever says that, does not know the people!"). He could cite an uncountable number of examples proving the contrary, and told among others of [[Teukoe Tjhi Peusangan]], of [[Panglima Polem]] and his sister, of Polem's brother-in-law [[Toeankoe Radja Keumala]], and of Pòtjoet Meurah and her husband Toeankoe Machmoed — chiefs and sultans' kin who "found the *kaphé* (infidel) not so bad after all" and entrusted to the grey-haired administrator in the service of Atjeh all their "dearest and most secret thoughts".
+
 ## See Also
 
 - [[Veltman]]
@@ -37,7 +45,12 @@ Zentgraff cites Potjoet Meurah as the supreme instance of the Atjehsche woman's 
 - [[Kaphé]]
 - [[Aceh War]]
 - [[20th-century]]
+- [[H. N. A. Swart]]
+- [[Panglima Polem]]
+- [[Pacification of Atjeh]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 96–97.

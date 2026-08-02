@@ -12,6 +12,9 @@ aliases:
 - Lho' Seumawe'sche
 - Lho Seumawé
 - Lhok Seumawe
+- "Lhō Seumawè"
+- "Lho Seumawee"
+- "Lo Seumawe"
 tags:
 - place
 - north-east-coast
@@ -38,6 +41,8 @@ tags:
 - aceh-war
 - 20th-century
 - city
+- "coastal"
+
 ---
 
 An important port and centre on the North Coast. The Mahraja (chief) of Lho' Seumawe is mentioned: 'I will not live at Sawang Keupula, for I fear lest the Mahraja (of Lho' Seumawe) may carry me off.' (sadati dialogue). Lho' Seumawe appears in the list of North Coast places referenced in the hikayats and sadati performances.
@@ -150,6 +155,18 @@ It was to Lho' Seumawè that the woman found wandering near the raided *ladangs*
 ## Sources
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946), pp. 65-67.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Lho Seumawè** (modern Lhokseumawe) was the deep harbour of the North Coast of [[Acheh|Atjeh]] which in the last years of the old order served as sea-outlet for the smuggled trade of the closed [[Pidië]] tract, and which under Dutch rule developed into a garrison and commercial town — giving its name to the petroleum establishments of [[1899]], to a credit bank of [[1913]], and to the [[Handelsvereeniging Amsterdam|H.V.A.]]'s ill-fated estate [[Boeloe Belang Ara]] in its neighbourhood.
+
+### The open harbour
+
+Under the resolution of [[29 May]] [[1883]] Lho Seumawè belonged to the few harbours remaining open for import and export; and when the [[Pidië]] tract was closed for the coasting trade, the population resorted to clandestine transport over land to [[Meureudoe]] and thence by sea to Lho Seumawè, until the licence system of July [[1894]] at [[Sigli]] relieved them. In [[1899]] the [[Bataafsche Petroleum Maatschappij|Koninklijke Petroleum Maatschappij]] founded establishments at Lho Seumawè and [[Peureula]]. From [[1903]] to [[1907]] the [[Nederlandsche Handel-Maatschappij]] kept a temporary agency there (at a level equal to that of Koeta Radja) while the coastal tramway was being built.
+
+### The tramway and later development
+
+Funds for the line [[Sigli]]–Lho Seumawè were granted in the budget of [[1900]]; construction proceeded from both ends — the middle section in [[Samalanga]] being politically inaccessible — and was completed in April [[1904]] after three iron bridges had been washed away by *bandjirs*. From Lho Seumawè the route was continued under the budget of [[1901]] toward [[Idi]], after a proposal for a line from the [[Aroebai|Aroe-baai]] to Lho Seumawè had been rejected by the Government. The town received a Hollandsch-Indlandsche school in [[1916]]; in [[1913]] a credit bank for the North Coast arose there (with that at [[Langsar]] for the East Coast), and a government post- and telegraph-office, and agencies of the [[Atjehsche Handelmaatschappij]] and of Medan houses. In [[1922]] N. [[N. van Zalinge|van Zalinge]] reported that the shipping-off of pinang-nuts and copra from Lho Seumawè, though it showed no increase over that year, would grow in the future "since ever more coconut- and pinang-trees are planted", while trade centred ever more on [[Langsar]], the rising estate district in its vicinity.
+
 ## See Also
 
 - [[1873]]
@@ -204,6 +221,10 @@ It was to Lho' Seumawè that the woman found wandering near the raided *ladangs*
 - [[Hendrikus Colijn|H. Colijn]]
 - [[Batêê Iliê]]
 - [[Samalanga]]
+- [[Langsar]]
+- [[Atjeh Tram]]
+- [[Bataafsche Petroleum Maatschappij|Petroleum industry in Atjeh]]
+- [[Boeloe Belang Ara]]
 
 ## Source
 
@@ -216,3 +237,5 @@ It was to Lho' Seumawè that the woman found wandering near the raided *ladangs*
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter IX, *'In het oude rijk Samoedra'*, pp. 59–65.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV, p. 22; Chapter IX, pp. 90–92; Chapter X, p. 102; Chapter XI, pp. 105, 109; Extract from the service record, p. 172.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 53, 71, 110, 124, 127, 136–137, 157, 178–179, 183, 185.

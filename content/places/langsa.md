@@ -1,7 +1,7 @@
 ---
 title: "Langsa"
-aliases: ["Langsar", "Koewala Langsa", "Koeala Langsa", "Langsa Estate", "haven van Langsa", "the harbour of Langsa", "Langsa town", "East Coast Atjeh", "Kuala Langsa", "Kwala Langsa", "havenplaatsje of Langsa", "Langsa harbour", "Langsa hoofdplaats", "Langsa onderafdeeling", "Langsa-baai", "stad Langsa"]
-tags: [place, hoofdplaats, oostkust, colonial, dutch, buitenbezittingen, tramway, rubber, town, langsa, oostkust-van-atjeh, atjeh, border-region, harbour, achehnese, steiger, paketvaart, underafdeeling, waterleiding, artesian-boring, gouvernements-rubberonderneming, aceh, administration]
+aliases: ["Langsar", "Koewala Langsa", "Koeala Langsa", "Langsa Estate", "haven van Langsa", "the harbour of Langsa", "Langsa town", "East Coast Atjeh", "Kuala Langsa", "Kwala Langsa", "havenplaatsje of Langsa", "Langsa harbour", "Langsa hoofdplaats", "Langsa onderafdeeling", "Langsa-baai", "stad Langsa", "Langsa (landscape)", "Landscape Langsa"]
+tags: [place, hoofdplaats, oostkust, colonial, dutch, buitenbezittingen, tramway, rubber, town, langsa, oostkust-van-atjeh, atjeh, border-region, harbour, achehnese, steiger, paketvaart, underafdeeling, waterleiding, artesian-boring, gouvernements-rubberonderneming, aceh, administration, "landscape", "east-coast"]
 ---
 
 **Langsa** was the hoofdplaats of the [[Afdeeling Oostkust van Atjeh|Afdeeling Oostkust van Atjeh]] and, by [[1917]], the second city of the *gewest* — the trade-centre of the great European rubber, tobacco, and petroleum cultures of the eastern lowlands and the natural rival of [[Koeta Radja|Koeta Radja]] for commercial primacy in the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* describes Langsa as the place where, after the *pacificatie* under [[H. N. A. Swart|Swart]], "eene jonge, frissche handels-energie" unfolded, transforming a town "als het ware uit den moerassigen bodem gestampte stad" — a city, as it were, hammered out of the swampy ground — into the principal European centre of the eastern coast.
@@ -113,6 +113,18 @@ The Langsa years are thus the origin of the whole enterprise recorded in the pam
 
 Then I went at once by tram with Colijn eastward as far as Langsa, to get an impression for myself. The financial prosperity of the sub-division treasuries of [[Tamiang]] and Langsa was founded on the estate area created on the east coast after [[1910]]. In [[1917]] an Acehnese in a fit of religious mania attacked Messrs [[Jahnke]] and [[Roberecht]] at Langsa; Jahnke died of his injury.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Langsa** was a landscape of the East Coast of [[Acheh|Atjeh]] — later a sub-department — whose chief's nipah forests were contracted to the firm [[Handelsmaatschappij Deli-Atjeh|Nolte & Haas]] under Governor [[Joannes Benedictus van Heutsz|Van Heutsz]], whose pepper planters were driven near to flight by robber bands in [[1881]]–[[1882]], and within which by [[1918]] a great number of rubber-, oil-palm- and coconut-estates had arisen, centred on the harbour tract of [[Langsar]].
+
+### Submission and robberies
+
+Langsa was among the lands submitted in the pacification of the Dependencies of [[1877]] — with [[Simpang Oelèm]], [[Tandjong Seumantoh]], [[Modjopahit]] and [[Rigaih]] — which opened the principal Atjehnese pepper harbours to Dutch relations. Less favourable was the economic state in Langsa and [[Modjopahit]] after [[1881]]: the numerous robberies by Atjehnese bands increased so much that the pepper planters of Groot-Atjeh established there were minded to leave the country, abandoning their costly gardens and dwelling-houses; the acting assistant-resident came in time to prevent it, and on his instigation and under his leadership the robbers, after a severe chastisement by the population, were driven from the landscape. The threatened cultures, principally those in [[Modjopahit]], received government support: in March [[1882]] the Netherlands Government placed a sum of 500 dollars, from the yield of the hacil, at the disposal of the pepper gardens that had suffered most from the robbers' practices.
+
+### The nipah contract and the estates
+
+Under Governor Van Heutsz the Deli firm Nolte & Haas — which provided the tobacco planters of [[Deli]] with wood for drying-sheds and other buildings and sheds — concluded with the chief of Langsa an agreement, approved by the government, whereby the firm was enabled, only against very ample payment, to exploit the extensive nipah forests present in his landscape, stipulating inter alia that the native population would keep the right to take what it needed for its own use; Van Heutsz proceeded "on strictly equitable lines" in the making of these contracts. The government's own caoutchouc estate at Langsar/Langsa, founded at [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]'s instance as an example of Pará rubber culture, steadily expanded through the years. Private estates multiplied under Governor [[H. N. A. Swart|Swart]]: in the sub-departments Langsa and [[Tamiang|Temyang]] a great number of rubber-, oil-palm- and coconut-enterprises appeared; by [[1922]] the Langsar estate district counted twenty enterprises (see [[N. van Zalinge]]'s report and [[Langsar]]). The town of Langsa received a government post- and telegraph-office under Swart, a tram-conveyance onward from [[Koeala Simpang]] (opened [[1912]]), and a branch office of the [[Atjehsche Handelmaatschappij]].
+
 ## See Also
 
 - [[1903]]
@@ -161,6 +173,10 @@ Then I went at once by tram with Colijn eastward as far as Langsa, to get an imp
 - [[H. N. A. Swart]]
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Atjeh]]
+- [[Langsar]]
+- [[Modjopahit]]
+- [[Handelsmaatschappij Deli-Atjeh]]
+- [[Foreign capital in Atjeh]]
 
 ## Source
 
@@ -181,3 +197,5 @@ Then I went at once by tram with Colijn eastward as far as Langsa, to get an imp
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IX, XII, XIII.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 36, 48–49, 84, 90–91, 107, 121, 185.

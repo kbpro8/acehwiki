@@ -1,7 +1,7 @@
 ---
 title: Gayo- en Alaslanden
-aliases: [Gajo- en Alaslanden, Gajo LoeBus, Gajo and Alas lands, Gayo Alas]
-tags: [place, afdeeling, atjeh, gayo, alas, colonial, "20th-century", zelfbestuur, gajo-land, alas-landen, achehnese, Takengon, Blang Kedjerën, Kota Tjane, Lökop]
+aliases: [Gajo- en Alaslanden, Gajo LoeBus, Gajo and Alas lands, Gayo Alas, "Gayo and Alas lands", "Gajo-landen", "Alaslanden", "Gajoloeös", "Gayo Lues", "Afdeeling Gajo- en Alaslanden"]
+tags: [place, afdeeling, atjeh, gayo, alas, colonial, "20th-century", zelfbestuur, gajo-land, alas-landen, achehnese, Takengon, Blang Kedjerën, Kota Tjane, Lökop, "region", "department", "gajo"]
 description: "An afdeeling of the Gouvernement Atjeh en Onderhoorigheden in the interior highlands of Atjeh, comprising the Gayo and Alas homelands; seat of the zelfbesturende landschappen of Takingeun, Alaslanden, and others."
 ---
 **Gayo- en Alaslanden** — *Gajo- en Alaslanden* in the spelling of the *[[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]*, *Gajo LoeBus*, *Gajo LoeDoes*, and *Gajo Loelus* in OCR variants, *Gayo Alas* in modern Indonesian — was an *afdeeling* (administrative division) of the [[Gouvernement Atjeh en Onderhoorigheden]] in the interior highlands of [[Atjeh|Aceh]], comprising the homelands of the Gayo (Gajo) and Alas peoples and the seat of the *zelfbesturende landschappen* (self-governing territories) of the *onderafdeelingen* (sub-divisions) [[Takingeun]] (the Gayo highlands, with the *gebied van Rädjö Boekét* / territory of Rädjö Boekét) and [[Alaslanden]] (the Alas valley, with the *gebieden* / territories of Bambel, Poeloe Nas, Kedjoerön Batoe Mboelan, and Kedjoerön Bambel). The Inhoud (table of contents) of the 1930 compilation places the *afdeeling Gajo- en Alaslanden* as the originating seat of three regulations — Regs. 4c (the Takingeun *Pantjang Alas* uitvoeringsbesluit / implementing decision), 21 (the Serbeudjadi Rafflesia-*natuurmonument* designation), and 22 (the Takingeun *alang-alang en dennenbosschen-verordening* / cogon-grass and pine-forest regulation) — and as the recipient of parallel *regelingen* (arrangements) in the comparative tables of nearly every other regulation in the book.
@@ -47,6 +47,22 @@ The *afdeeling Gajo- en Alaslanden*'s significance in the Aceh Wiki History reco
 
 **Gajo- en Alaslanden** is an *afdeeling* of the *Gouvernement Atjeh en Onderhoorigheden*, comprising the highland regions of the [[Gajo-land|Gajo country]] and the [[Alas-landen|Alas lands]] in the interior of northern Sumatra. The *afdeeling* was formed in [[1905]] in the aftermath of [[G. C. E. van Daalen|Van Daalen]]'s expeditions of [[1901]] and [[1904]], was re-allotted in [[1908]] among other administrative areas, but was restored in [[1922]] with chief place [[Takengon|Takengon]], comprising the *onderafdeelingen* [[Takengon|Takéngon]], [[Gajoe Loeös|Gajoe Loeös]], [[Serbödjadi|Serbödjadi]] and [[Alaslanden|Alaslanden]]. The administrative work is still hampered by the lack of communications. This *afdeeling* is perhaps the largest in all Sumatra, and the *assistent-resident* needs a month to visit all the *onderafdeelingen*.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Gajo- en Alaslanden** was the department of [[Acheh|Atjeh and Onderhoorigheden]] comprising the central Sumatran highlands of the Gajo and Alas peoples — the last tract of the province to be formed, definitively created as a department in [[1908]] after the expedition of Lieutenant-Colonel [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]] ([[Van Daalen's Gajo-Alas-Batak expedition (1904)|February 1904]]), and traversed by the [[Roads and bridges in Atjeh|Gajo road]] from [[Bireuen]] to the [[Laoet Tawar]] and the great road from [[Medan]] over the [[Karo]] plateau to [[Koeta Tjane]].
+
+### The people and the old relation with Atjeh
+
+The Gajoes inhabited the inner part of Sumatra enclosed between the Atjehnese coast states; they were *cijnsbaar* (tributary) to the Sultans of Atjeh and had in the last years to furnish heavy war contributions, both in victuals and in fighting strength, so that they suffered much: poverty drove them from their land to seek work on agricultural enterprises elsewhere, or to go raiding. As good Mohammedans the Gajoes detested the bad morals in Atjeh, yet bore the Atjehnese yoke with resignation; the struggle against the Netherlands had been represented to them as a *prang sabil* (holy war), and as such acceptable also to them. But the Gajo chiefs began to see that they did well to join the Netherlands: they soon ascribed the Atjehnese adversity to the wrath of Allah over their immorality, and therefore sought contact with the Dutch government, in which a certain [[Teungkoe Hadjie]] lent his cooperation. In the highlands the subjects of the signatory coast-rajahs did not consider themselves bound by the submission of the coast.
+
+### Expedition and department
+
+The agricultural enterprises at [[Idi]] and in neighbouring [[Langkat]] repeatedly suffered the attacks of the Gajoes. Under Governor [[Joannes Benedictus van Heutsz|Van Heutsz]] the Gajo and Alas lands were sketched into the first general map of Atjeh ([[1901]]) from data collected by Dr. C. [[C. Snouck Hurgronje|Snouck Hurgronje]], and in February [[1904]] Lieutenant-Colonel Van Daalen was entrusted with the expedition through the Gajo, Alas and Batak lands (see [[J. C. J. Kempees]]'s account). Van Daalen, as governor from [[1905]], laboured to realize the province's political unity also economically: the mountain passage was opened to motor traffic by the completion of the Gajo road from [[Bireuen]] to the Laoet Tawar; in [[1908]], as the last piece, the department of the Gajo- and Alaslanden was definitively created.
+
+### Development
+
+In the Gajo lands the potato, until then unknown, was introduced under Van Daalen; Merino sheep were brought in to obtain a wool-sheep in the highlands (disposed of without result in [[1918]]), and the native horse breed — the original *Gajo-paard* (Gayo pony) — had long gone back in quality: crossing with Sandelhout stallions and Australian breeding-mares achieved little, and better success was expected from covering some dozens of mares by a selected Batak stallion. The [[Frijling|Regeerings-Commissaris Frijling]] ([[1922]]–[[1923]]) even made "the far and difficult journey to the Gajoloeös", where Captain [[Kaniess]], "the father of the Gajoes", already 11 years established, was extraordinarily promoted during that *tournée*. Governor [[Van Sluys|A. G. H. van Sluys]]'s programme of [[1923]] asked for a road from [[Koeta Tjane]] to [[Blang Kedjeren]] and [[Takengon]], connecting the highlands with the Atjehnese road system; the government road from Medan over the Karo highland to Koeta Tjane in the Alas lands was complete and fit for motor traffic, and was continued as horse-path to Blang Kedjeren, linking with the paths to [[Lōköp]] and over [[Rantō Pandjang]] to [[Birim Rajeu|Birem-Rajeu]] in the East Coast department.
+
 ## See Also
 
 - [[1901]]
@@ -63,9 +79,16 @@ The *afdeeling Gajo- en Alaslanden*'s significance in the Aceh Wiki History reco
 - [[Verkenningen in Atjeh (1923)]]
 - [[Zelfbesturen|Zelfbestuur]]
 - [[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]
+- [[Van Daalen's Gajo-Alas-Batak expedition (1904)|Van Daalen's expedition through the Gajo, Alas and Batak lands (1904)]]
+- [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
+- [[Roads and bridges in Atjeh]]
+- [[Laoet Tawar]]
+- [[Agriculture in Atjeh]]
 
 ## Sources
 
 *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesten van het Departement van Binnenlandsch Bestuur*, Weltevreden: Landsdrukkerij, 1930, esp. Inhoud (pp. V–VII). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 37–38, 80–81, 83, 88–90, 105, 112, 125, 128, illustration caption p. 88.

@@ -10,6 +10,8 @@ aliases:
 - Laging Tobiassen
 - Civiele Gouverneur Laging Tobias
 - L. Tobias
+- "P. T. Laging Tobias"
+- "Governor Laging Tobias"
 tags:
 - person
 - governor
@@ -71,6 +73,26 @@ Laging Tobias's significance in the [[Aceh Wiki History]] record rests on three 
 
 ## Sources
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VIII, "Achteruitgang onder de Civiele Gouverneurs Pruijs van der Hoeven en Laging Tobias, van April 1881 tot September 1884." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 43–45.
+
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**P. F. Laging Tobias** was the second civilian Governor of [[Acheh|Atjeh and Onderhoorigheden]] (December [[1882]]–[[13 September]] [[1884]]), the resident of [[Palembang]] who succeeded [[A. Pruijs van der Hoeven]] and who, confronted with an almost hopeless situation, personally negotiated the release of the captives of the [[Nisero affair (1883–1885)|Nisero affair]] before being honourably relieved when military and civil authority were again united in one hand.
+
+### Appointment and pessimistic diagnosis
+
+In December [[1882]] the government of the province was entrusted to Laging Tobias, resident of Palembang, in replacement of Pruijs van der Hoeven; he accepted the administration on [[16 March]] [[1883]]. In contradiction to his predecessor's optimistic reports he had to declare that "de toestand in Atjeh zeer ongunstig was" ("the state in Atjeh was very unfavourable"), and shortly afterwards he wrote: "Reeds zeer kort na mijn optreden als gouverneur van Atjeh kreeg ik de overtuiging dat onze toestand in Atjeh bijna geheel hopeloos was" ("Very shortly after my assumption of office as Governor of Atjeh I gained the conviction that our state in Atjeh was almost wholly hopeless"). A visit by Governor-General [['s Jacob]] soon followed, who wished personally to convince himself of the course of affairs under the civil government — a visit on which the official documents, remarkably, report little or nothing.
+
+### The difficult year 1883
+
+The year [[1883]] went into Atjeh's history as a "rapjaar" ("year of disaster"): the struggle of the Atjehnese, taking on an ever more religious character, demanded ever heavier sacrifices, Dutch influence in Groot-Atjeh declined markedly despite every assurance that the Government respected the Mohammedan religion, wished to maintain the Atjehnese *adat* and would further land and people economically; some chiefs who had enjoyed the Government's confidence fell away; and the whole province was visited by a violent cholera epidemic with thousands of victims and by a no less violent earthquake shaking [[Koeta Radja]] to a wide distance. By resolution of the Governor of [[29 May]] [[1883]] the opening of the whole coast for trade was again withdrawn: only the harbour places where government officials were stationed — [[Oeleë Lheuë|Oelèë Lheue]], [[Sigli]], [[Samalanga|Samelanga]], [[Lho Seumawè]], [[Idi]], [[Meulaboh]], and [[Tapa Toean]] as soon as an official should be posted there — remained open for import and export. When the control of trading vessels was denounced from a certain quarter as a means to favour Dutch industry, the government publicly and emphatically ordered all officials charged with the control to leave aside every measure that could feed the impression of preference, declaring that trading vessels must be controlled without preference of any nationality.
+
+### The Nisero affair
+
+After the stranding of the English steamer *Nisero* off [[Koela Panga]] in the night of [[10 November|10]]–[[11 November]] [[1883]] and the capture of her crew by the [[Radja of Teunom]], Laging Tobias — after the fruitless military expedition of Colonel [[Demmeni|H. Demmeni]] (January [[1884]]), the eccentric mediation of [[Teukoe Oemar]] and the raising of the Radja's demands when the English warship *Pegasus* appeared — negotiated in person, together with [[Mr. Maxwell]] of the colonial council at [[Singapore]], for the prisoners' release. It was determined inter alia that a sum of f 100,000 would be paid to the person who brought the prisoners back, that the harbours would be reopened and the closing of the surrounding statelets lifted. On [[10 September]] [[1884]] the captives were finally delivered up, after almost a year in the hands of the Radja.
+
+### Honourable relief, September 1884
+
+After more than three years of civil government in Atjeh the Government realized that a reserved and very forceful attitude had to be taken toward the Atjehnese, in which there was no place for a separate civil administration: military and civil authority were again united in one hand. Governor Laging Tobias was honourably relieved of his function, and Infantry Colonel H. Demmeni was appointed Civil and Military Governor of Atjeh and Dependencies, accepting the administration on [[13 September]] [[1884]].
 
 ## See Also
 
@@ -136,9 +158,14 @@ Laging Tobias's significance in the [[Aceh Wiki History]] record rests on three 
 - [[June 1884]]
 - [[September 1884]]
 - [[1882]]
+- [[A. Pruijs van der Hoeven]]
+- [[Nisero affair (1883–1885)|Nisero affair (1883-1884)]]
+- [[Radja of Teunom]]
 
 ## Source
 
 *Hoe Atjeh te onderwerpen*, door W. A. Coblijn, gepensioneerd Kolonel van het Oost-Indisch Leger ('s-Gravenhage: De Gebroeders van Cleef, [[1893]]), pp. 71–83. OCR-filename: `20260716_140310_DLP-100-Hoe_Atjeh_te_onderwerpen_Nemotron-OCR-v2_OCR.txt`.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 24, 28–34, 39, 43. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 44, 50–58.

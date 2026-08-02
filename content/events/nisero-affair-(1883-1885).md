@@ -17,6 +17,9 @@ aliases:
 - Wreck of the Nisero
 - Nisero captivity
 - Tenom Nisero affair
+- "Stranding of the Nisero"
+- "Nisero kwestie"
+- "Teunom affair"
 tags:
 - event
 - maritime
@@ -36,6 +39,11 @@ tags:
 - tenom
 - nisero
 - laging-tobias
+- "naval"
+- "achehnese"
+- "diplomacy"
+- "military"
+
 ---
 
 **The Nisero affair** of [[1883]]–[[1885]] — in [[J. Kreemer|Kreemer]]'s history, the *Nisero-quaestie* — was the international incident provoked by the wreck of the English ship *Nisero* in November [[1883]] off [[Panga|Panga]], in the territory of [[Teunom|Teunöm]] on [[Atjeh's Westkust|Atjèh's Westkust]], the seizure and plunder of the ship and the imprisonment of its crew by the Radja of Teunöm, and the protracted Dutch–British–Atjèhnese negotiations for the crew's release. The affair, in Kreemer's account, brought the Netherlands to the brink of international complications with Britain, exposed the limits of Dutch authority on the Westkust, and produced — through the disastrous employment of [[Teukoe Oema|Teukoe Oema]] as a Dutch agent — the conversion of Oema from uncertain ally to irreconcilable enemy. In [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]*, the *Nisero-quaestie* — *de treurige Nisero-quaestie* — is cited as one of the events of the [[1884]]–[[1885]] policy context that exposed Dutch weakness on the Atjehnese coast and that the Atjehnese drew on when they concluded that the Dutch would prove "*weder spoedig te zwak*" — too weak again — to carry the [[Concentratiebesluit (19 Augustus 1884)|Concentratie]] and the [[Staatsblad No. 105 van 1884|rigorous blokkade]] through.
@@ -87,6 +95,34 @@ The *Nisero-quaestie* settlement had, in other words, bound the Dutch by an inte
 The Nisero affair is, in Kreemer's narrative, the moment at which the Netherlands' inability to police its own Atjèhnese territory was exposed to an international audience. The Radja of Teunöm's open intention to embroil the Dutch with the British, the failure of the Dutch punitive expedition of [[4 January]] [[1884]], the failure of the Maxwell mission, and the conversion of [[Teukoe Oema|Teukoe Oema]] from ally to enemy — all of these revealed the hollowness of Dutch authority outside the concentrated line. The eventual resolution — a joint Anglo-Dutch demand backed by a ƒ100,000 ransom — was a diplomatic victory only in the narrowest sense; it confirmed that the Dutch could not act in Atjèh without British cooperation, and that the Atjèhnese chiefs could play the European powers against each other.
 
 In Van Heutsz's [[1893]] diagnosis, the *Nisero-quaestie* was, additionally, one of the events of the [[1884]]–[[1885]] policy context that "*onze zwakheid maar al te zichtbaar*" — made our weakness all too visible — and that taught the Atjehnese to expect the colony's collapse and to "*het nut hadden leeren inzien te trekken uit Nisero-quaesties*" — to appreciate the advantage to be drawn from *Nisero-quaesties*. It was contemporaneous with the [[Concentratiebesluit (19 Augustus 1884)|Concentratiebesluit of 19 August 1884]] and the [[Staatsblad No. 105 van 1884|Staatsblad No. 105 of 1884]] *rigoureuse blokkade*, and was, in Van Heutsz's reading, part of the same [[1884 Concentratie and blokkade debate|1884 Concentratie and blokkade debate]] that produced the [[Demmeni]] *wankelen* and the [[Staatsblad No. 85 van 1885|Staatsblad No. 85 of 1885]] repeal. The *Nisero-quaestie* settlement had bound the Dutch, by an international agreement, to keep [[Telok Kroet]] open to general trade — an obligation Van Heutsz concedes in the policy-prescription half of the [[1893]] tract, while arguing that the obligation does not require the Dutch to establish a *vestiging* there. The *Nisero-quaestie* is, in Van Heutsz's narrative, the type-event of the diplomatic incident the Atjehnese had learned to provoke, and the empirical warrant for the [[1893]] prescription's insistence on a marine-enforced closure that would prevent such incidents from recurring.
+
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+The **Nisero affair** of [[10 November]] [[1883]] – [[10 September]] [[1884]] was the stranding of the English steamer *Nisero* on the West Coast of [[Acheh|Atjeh]], the ten-month captivity of her crew in the hands of the [[Radja of Teunom]], and the tangled Anglo-Dutch negotiations — pepper debts, a military expedition, absurd free-trade demands, and the treachery of [[Teukoe Oemar]] — that preceded their release against a ransom of f 100,000.
+
+### The stranding
+
+In the night of [[10 November|10]] to [[11 November]] [[1883]] the English steamship *Nisero*, commanded by Captain [[Captain Woodhouse|Woodhouse]] and coming with a cargo of sugar from [[Soerabaja]] destined for [[Suez]], stranded before [[Koela Panga]] on the West Coast of Atjeh: attempting upon [[Poelò Breuëh]] to take in coal in stormy weather, the ship ran aground by the mouth of the Panga river. The crew was forced to disembark and, once ashore, met from the population a very ungracious treatment, culminating in their imprisonment by the Radja of [[Teunom]] and the plundering of the stranded steamer.
+
+### First demands
+
+Immediately after the event became known at [[Koeta Radja]], the assistant-resident concerned was furnished by the Governor of Atjeh with the necessary instructions. The Radja of Teunom answered in writing to the first demand for the prisoners' release that he was prepared to grant their freedom when care was taken that a certain pepper merchant at [[Penang]] — who still owed the Radja a fairly large sum for sold and delivered pepper — should fulfil his obligations. That demand, with which in the interest of the prisoners reckoning had to be kept, was raised higher when the English warship *Pegasus* appeared in the Atjeh waters to gather intelligence about the compatriots, and the English side showed great activity to effect the prisoners' liberation: the Radja came out openly with it, that by making higher demands he hoped to involve the Dutch in a war with England.
+
+### The expedition of Colonel Demmeni
+
+With the consent of the Dutch Government — which wished to avoid everything that could draw the reproach that not everything had been done or suffered to promote the liberation — a military expedition was fitted out, which steamed from [[Oeleë Lheuë|Oelèë Lheue]] to Teunom on [[4 January]] [[1884]] under the command of Colonel [[Demmeni|H. Demmeni]], while on the English side the *Pegasus* steamed up to Teunom. When the ultimatum to the Radja remained unanswered, hostilities were opened; an exemplary chastisement of the Radja followed; the coast was kept closed to a wide distance for all import and export, the fishery was impeded, and by Dutch warships was fired on everything that came within their reach. But the Radja remained indifferent, and to the delivery of the prisoners it did not come — not even when [[Mr. Maxwell]], member of the colonial council at [[Singapore]], brought over on the *Pegasus*, personally negotiated with the Radja, who made demands "which by everyone without distinction were called ridiculous", one of them: general free trade under guarantee of England — with naturally as first object the import of weapons and ammunition.
+
+### Teukoe Oemar's mediation and treachery
+
+Then the Dutch government accepted the help of some native chiefs who offered their mediation, among whom "the almost notorious Teukoe Oemar" — of whose sincerity doubt had existed already at his submission in the preceding year. [[Teukoe Oemar|T. Oemar]] departed for [[Lambeusoë]] to negotiate with the Radja of Teunom; he and his retinue were rowed ashore in two trips in a sloop manned by 1 mandoer and 8 other natives. Hardly had the sloop landed the crew the second time ashore when T. Oemar fell upon the men with the *klewang*: only one of the rowers remained unhurt and reached the ship wounded; the others left their lives in the attack, and the rifles and ammunition were made booty by T. Oemar, who now went over again to the resistance. "Ook deze zending met een onverwacht resultaat, mislukte" — "Also this mission, with an unexpected result, miscarried."
+
+### Settlement and release
+
+The prisoners were set free only after the Governor of Atjeh in person, [[P. F. Laging Tobias]], together with Mr. Maxwell, had again negotiated with the Radja — with the determination inter alia that to the person who brought the prisoners back a sum of f 100,000 would be paid, that the harbours would again be opened for trade, and that the closing of the surrounding statelets would be lifted. At last, on [[10 September]] [[1884]], the prisoners were delivered up, after having been in the hands of the Radja for almost a year. Whether the event contributed to the Government's decision of the same month to end separate civil government in Atjeh — the [[Establishment of Civil Government in Aceh (6 April 1881)|civil experiment]] closed on [[13 September]] [[1884]] — Langhout leaves in the middle: three days after the prisoners' release Governor Laging Tobias was honourably relieved and Colonel Demmeni accepted the administration as Civil and Military Governor.
+
+### Significance
+
+For Langhout the affair "kept the year 1883 as a rapjaar" in Atjeh's history and completed the discomfiture of the first civil government. It showed the exposure of European shipping to unsubjected chiefs on the coasts of the Dependencies, the delicacy of Anglo-Dutch coexistence in Atjehnese waters despite the free hand conceded by the [[Treaty of 1871]], and the first great stage upon which Teukoe Oemar proved his unreliability — ten years before his [[Pardon of Teukoe Oemar (30 September 1893)|pardon of 1893]] and his greater [[Defection of Teukoe Oemar (1896)|defection of 1896]].
 
 ## See Also
 
@@ -141,6 +177,10 @@ In Van Heutsz's [[1893]] diagnosis, the *Nisero-quaestie* was, additionally, one
 - [[June 1887]]
 - [[1886]]
 - [[1887]]
+- [[Radja of Teunom]]
+- [[P. F. Laging Tobias]]
+- [[Teukoe Oemar]]
+- [[Establishment of Civil Government in Aceh (6 April 1881)|Introduction of civil government in Atjeh (1881)]]
 
 ## Sources
 
@@ -148,3 +188,5 @@ In Van Heutsz's [[1893]] diagnosis, the *Nisero-quaestie* was, additionally, one
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders Van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 38, 77. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VIII, "Achteruitgang onder de Civiele Gouverneurs Pruijs van der Hoeven en Laging Tobias, van April 1881 tot September 1884." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 44.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 54–58.

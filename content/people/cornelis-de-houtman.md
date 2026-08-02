@@ -1,7 +1,7 @@
 ---
 title: Cornelis de Houtman
-aliases: [Cornelis Houtman, de Houtman (elder brother), C. de Houtman]
-tags: [person, dutch, explorer, colonial, 16th-century, pre-VOC]
+aliases: [Cornelis Houtman, de Houtman (elder brother), C. de Houtman, "Cornelis de Houtman (navigator)", "De Houtman"]
+tags: [person, dutch, explorer, colonial, 16th-century, pre-VOC, "navigator"]
 ---
 
 **Cornelis de Houtman** (1565–[[1599]]) was the [[The Netherlands|Dutch]] navigator who commanded the first Dutch expedition to the East Indies ([[1595]]–[[1597]]), and who was killed at [[Acheh|Atjeh]] in [[1599]] on the second expedition under [[Balthasar de Moucheron|De Moucheron]]'s auspices. His death at Atjeh — by *kris*-attack after a quarrel that began with poisoned fruits and drinks — is the first recorded Dutch fatality in the Atjeh sultanate, the opening Dutch casualty of an Acehnese-Dutch relationship that would last, with long interruptions, for the next three centuries, and the trigger of his brother [[Frederik de Houtman|Frederik de Houtman]]'s twenty-six-month Atjeh captivity, out of which came the first European Malay dictionary.
@@ -48,6 +48,14 @@ Johan van der Woude's biography of Jan Pieterszoon Coen gives a fuller account o
 
 Cornelis de Houtman is significant to [[Acheh|Atjeh]]'s history as the first Dutchman of note to die there — the eldest casualty of the Dutch-Atjeh encounter, and the human cause of the diplomatic and scholarly chain that produced his brother's Malay dictionary and the [[Aceh Embassy to Prince Maurits at Grave (1602)|Atjeh embassy to Prince Maurits]]. His death fixed Atjeh in the Dutch colonial memory as a place of danger, treachery, and — paradoxically — of compulsory apprenticeship. In Stapel's structure of the Dutch-Acehnese narrative, his death is the opening Dutch casualty of a three-century relationship.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Cornelis de Houtman** was the Dutch navigator who, with his brother [[Frederik de Houtman]], brought the first Dutch ships to [[Acheh|Atjeh]] in July [[1599]] — the voyage which opened the long and violent history of Dutch-Atjehnese relations and cost Cornelis his life in a surprise attack by the Sultan's bands.
+
+### The voyage of 1599
+
+In July [[1599]] the brothers Frederik and Cornelis de Houtman, after a not very prosperous voyage, cast anchor in the roadstead of Atjeh; the ships stood in the service of the Zealand shipowner [[De Moucheron]]. The [[Sultan of Atjeh|Sultan]] had been warned beforehand of the coming of the new traders, and his disposition toward the Hollanders was sufficiently determined, thanks to the Portuguese, who did not fail to set him on against these new "intruders". At a visit of the *[[Shahbandar of Atjeh|sjahbander]]*, or harbour-master, to the Dutch ships, the Dutch sailors were partly rendered harmless by means of poisoned drinks, and bands of the Sultan made an unexpected attack, which could be beaten off — at the cost, however, of the life of Cornelis de Houtman and 68 sailors. His brother Frederik fell into captivity; all attempts of the crews of the Dutch ships to liberate their commander failed, and in July [[1600]] the ships returned to the mother country with heavy losses, their purpose unaccomplished.
+
 ## See Also
 
 - [[Frederik de Houtman]]
@@ -69,6 +77,8 @@ Cornelis de Houtman is significant to [[Acheh|Atjeh]]'s history as the first Dut
 - [[Houtman brothers' visit to Atjeh (1599)]]
 - [[Het Land van Jan Pieterszoon Coen (Terwogt)]]
 - [[Dr. W. A. Terwogt]]
+- [[Paulus van Caerden]]
+
 ## Source
 
 *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter XXIII ("Sint Thomas. De Madoera-ziekte. Malakka. Het groote kanon in Atjeh. Java. Paradijsvogels. Lélang. Koloniale Portugeezen"), p. 81 of the numbered-letter sequence, and chapter XXXII ("Het Kasteel van Verre. De brief op varkensvel in Atjeh. Bali en Holland één!"), pp. 114–118.
@@ -76,3 +86,5 @@ Cornelis de Houtman is significant to [[Acheh|Atjeh]]'s history as the first Dut
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 27 (tekst bij blad 1: *De eerste reizen der Nederlanders — Eenige der volgende reizen naar O. Indië, I. Rond Z. Afrika, a. C. en F. de Houtman en Lefort (Atjeh) 1598/9*).
 
 *Het Land van Jan Pieterszoon Coen*, door Dr. W. A. Terwogt (Hoorn: P. Geerts, [1891]). Hoofdstuk I: the arrival at Atjeh on 21 June 1599, the poisoning and treacherous assault of 1 September 1599, and the death of Cornelis de Houtman — "de Atjehneezen zich door grootere energie van alle andere bevolkingen van den Archipel onderscheiden, maar hunne zeden diep verdorven zijn" (the Atjehnese distinguish themselves from all other populations of the archipelago by greater energy, but their morals are deeply corrupted).
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 10–11.

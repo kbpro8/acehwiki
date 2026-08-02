@@ -1,6 +1,6 @@
 ---
 title: "General Vetter"
-aliases: ["Generaal Vetter", "Vetter", "General Vetter at Atjeh", "Vetter (KNIL Atjeh commander)", "J. A. Vetter", "Luitenant-Generaal J. A. Vetter", "Luit.-Gen. Vetter", "Legercommandant Vetter", "Luitenant-Generaal Vetter", "Lt.-Gen. Vetter", "Regeeringscommissaris Vetter", "Major Vetter", "majoor Vetter", "Kolonel Vetter", "Colonel Vetter"]
+aliases: ["Generaal Vetter", "Vetter", "General Vetter at Atjeh", "Vetter (KNIL Atjeh commander)", "J. A. Vetter", "Luitenant-Generaal J. A. Vetter", "Luit.-Gen. Vetter", "Legercommandant Vetter", "Luitenant-Generaal Vetter", "Lt.-Gen. Vetter", "Regeeringscommissaris Vetter", "Major Vetter", "majoor Vetter", "Kolonel Vetter", "Colonel Vetter", "Lieutenant-General Vetter", "General Vetter", "Regeerings-Commissaris Vetter"]
 tags: [person, general, dutch, colonial, military, infantry, achehnese, 19th-century, aceh-war, diplomacy, lieutenant-general, government-commissioner, major, 1875]
 description: "Dutch colonial general of the Netherlands-Indian Army sent to Aceh as Regeeringscommissaris in the immediate aftermath of Teuku Umar's defection of 29 March 1896, with onbeperkte volmacht (unlimited authority); arrived 7 April 1896, relieved Gen.-Maj. Deykerhoff, presided over the spring counter-offensive and the three-day Dutch offensive of 23–25 May 1896, departed for Batavia 28 June 1896 with the office of Regeeringscommissaris abolished. The school-history textbook of F. Roorda credits him with 'groote voordeelen' (great advantages), though the final subjugation of Groot-Atjeh was reserved for his successor Van Heutsz."
 ---
@@ -48,6 +48,22 @@ Kruisheer's *ATJEH '96* adds a further dimension: Vetter is the *deus ex machina
 In his account of the failure of Teungkoe di Tiro's life-aim — to drive the Dutch out of [[Atjeh]] and himself become spiritual supreme head there — Hooijer recorded that the *geconcentreerde linie* had proved too strong for him: *Wel was hij er eenmaal met zijn goed gedisciplineerde troepen in doorgedrongen om er te bidden op heilige graven, maar Kolonel Vetter had hem er weder uitgejaagd* — he had indeed once penetrated it with his well-disciplined troops in order to pray at holy graves, but Colonel Vetter had chased him out again.
 
 Hooijer coupled this with the fall of [[Kota Toeankoe]] by storm and its slighting, and with the rejection of the *oelama*'s proposal to reconcile himself with the [[Proclamation of the Pretender Sultan|pretender-Sultan]] on condition of becoming his *rijksbestuurder*, as the three checks that broke Teungkoe di Tiro's influence.
+
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**J. A. Vetter** was a Dutch lieutenant-general and army commander (*legercommandant*) of the Netherlands Indies who twice entered [[Acheh|Atjeh]] in [[1895]]–[[1896]] — first on an inspection which found the province at rest, then as Government Commissioner to take the direction of affairs in hand after the [[Defection of Teukoe Oemar (1896)|defection of Teukoe Oemar]], and whose insights ended the era of [[Dutch Policy of 'Concentration'|the Concentrated Line]].
+
+### First visit, November 1895
+
+When in November [[1895]] the newly appointed army commander, Lieutenant-General J. A. Vetter, visited the Government of Atjeh and Dependencies, he received a fairly favourable impression of the quiet in the occupied territory and of the disposition of the population. The opening of the haven of [[Sabang]] to general trade that year, the coal establishment on [[Poelò We]] and the revival of trade made the rest seem durable; Langhout remarks that General Vetter, at that first visit, "could not have suspected" that he would have to tread Atjeh again barely half a year later under wholly different circumstances.
+
+### The Teukoe Oemar crisis, 1896
+
+On [[29 March]] [[1896]] the government received certainty that [[Teukoe Oemar]] had thrown off the mask; Governor [[General Deykerhoff|C. Deykerhoff]] telegraphed the treason to Batavia, an extraordinary meeting of the [[Council of the Indies]] followed, and Vetter went to Atjeh as *Regeerings-Commissaris* (Government Commissioner), replacing the discharged governor. After the chastisement of Teukoe Oemar and of the chiefs who had joined him had been accomplished, Vetter returned to Batavia on [[28 June]] [[1896]].
+
+### The new course
+
+Effect was then given to Vetter's insights, in which an unbroken development of power outside the concentrated position was posited as a commanding requirement: the era of the concentration, which had brought the pacification no nearer, was closed, and the concentrated line would henceforth serve only a subordinate role as a supporting point for the operations of three mobile columns that were to realize the display of power in the regions outside the line. One of the first measures was the connection of three temporary encampments by [[Atjeh Tram|steam tramways]] to the concentrated line as base-point, while the system of the [[Scheepvaartregeling|shipping regulation]] would be applied everywhere in all its consequences. Governor-General [[Van der Wijck|Van der Wijck]] found in the events occasion to follow a new line of conduct in Atjeh; Langhout counts it one of that Governor-General's great merits that in the application of his system he caused the economic interests of land and people of Atjeh to be cared for as greatly as those in the military field.
 
 ## See Also
 
@@ -113,6 +129,11 @@ Hooijer coupled this with the fall of [[Kota Toeankoe]] by storm and its slighti
 - [[Tengkoe Sjech Saman di Tiro]]
 - [[Geconcentreerde linie]]
 - [[Kota Toeankoe]]
+- [[General Deykerhoff|C. Deykerhoff]]
+- [[Teukoe Oemar]]
+- [[Defection of Teukoe Oemar (1896)|Betrayal of Teukoe Oemar (1896)]]
+- [[Dutch Policy of 'Concentration'|The Concentration in Atjeh (1884-1898)]]
+- [[Van der Wijck|Governor-General Van der Wijck]]
 
 ## Sources
 
@@ -128,3 +149,5 @@ H. T. Damsté, "Drie Atjeh-Mannen: Snouck Hurgronje — Van Heutsz — Van Daale
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 48.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 71–74.

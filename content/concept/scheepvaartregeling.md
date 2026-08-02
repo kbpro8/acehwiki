@@ -1,7 +1,7 @@
 ---
 title: "Scheepvaartregeling"
-aliases: ["Scheepvaartregeling", "Scheepvaartregeling Atjeh", "Scheepvaart-regeling", "Maritime Trade Regulation Atjeh", "Atjeh Maritime Trade Regulation", "Scheepvaartregeling (Atjeh)", "Scheepvaart-regeling Atjeh", "shipping regulation", "Atjeh scheepvaartregeling", "Scherer's scheepvaartregeling", "handel- en scheepvaartregeling", "controle op handel en scheepvaart"]
-tags: [concept, dutch, colonial, policy, trade-regulation, aceh-war, 19th-century, scheepvaartregeling, atjeh, onderhoorigheden, colonial-policy]
+aliases: ["Scheepvaartregeling", "Scheepvaartregeling Atjeh", "Scheepvaart-regeling", "Maritime Trade Regulation Atjeh", "Atjeh Maritime Trade Regulation", "Scheepvaartregeling (Atjeh)", "Scheepvaart-regeling Atjeh", "shipping regulation", "Atjeh scheepvaartregeling", "Scherer's scheepvaartregeling", "handel- en scheepvaartregeling", "controle op handel en scheepvaart", "Shipping regulation of Atjeh", "Shipping regulation of 1892-1897"]
+tags: [concept, dutch, colonial, policy, trade-regulation, aceh-war, 19th-century, scheepvaartregeling, atjeh, onderhoorigheden, colonial-policy, "regulation", "shipping", "trade", "customs"]
 ---
 
 **The Scheepvaartregeling** (literally "shipping regulation", also "maritime trade regulation") was the Dutch system of controlled maritime trade on the coasts of [[Atjeh|Atjeh]] — first proposed by [[Scherer|Scherer]] in [[May 1881|May]] [[1881]], first introduced on a part of the [[Noordkust|North Coast]] in [[May 1882|May]] [[1882]], first applied throughout Atjeh in [[May 1883|May]] [[1883]], withdrawn by the [[Concentratie-stelsel (1884-1896)|concentration system]] of [[October 1884|October]] [[1884]] (except on the [[Oostkust|East Coast]], where it was maintained), and finally and definitively introduced in [[October 1893|October]] [[1893]] for the East Coast and [[April 1894|April]] [[1894]] for the North and West Coasts — that [[J. A. Kruijt|Kruijt]] identifies as the principal strategic instrument neglected by the Dutch throughout the [[Aceh War|Atjeh-oorlog]]. Its consistent application, Kruijt argues, was the principal means by which the Dutch could have mastered the coasts and so ended the war; its half-hearted and inconsistent application was, in Kruijt's analysis, the principal cause of the protraction of the war from [[1873]] to [[1896]].
@@ -96,6 +96,22 @@ The operational precedent Van Heutsz invokes for his preferred *scheepvaartregel
 
 The *scheepvaartregeling*'s significance in the [[Aceh Wiki History]] record, in Van Heutsz's 1893 diagnosis, rests on four things: it was the scheme Scherer had conceived in [[1879]]–[[1880]] from the Noordkust — the *rationeele regeling voor handel en scheepvaart in verband met onze vestigingen op de kusten* — that Van Heutsz adopted as the central prescription of the 1893 tract and that Van Heutsz would himself implement, in modified form, as Governor of Atjeh from [[1898]] onward; it was the scheme Laging Tobias had first applied in May [[1883]] and that Van Heutsz singled out as "*alles wat men kon verlangen*" — the high-water mark of the post-Van-der-Heijden decade; it was the scheme whose abolition in December [[1885]] — together with the repeal of the *blokkade* by [[Staatsblad No. 85 van 1885]] — opened the *cajoleering*-decade of [[1884]]–[[1892]]; and it was the scheme Van Heutsz refashioned in the 1893 tract into his own five-component design — call-ports, closure, marine, revenue, *boeten* — against the softer application Scherer had proposed in his *Indisch Genootschap* lecture of [[20 January]] [[1891]]. The *scheepvaartregeling* is, in Van Heutsz's narrative, the *bestuursmiddel* — the instrument of government — that the *bestraffingsmiddel* of the *blokkade* could never be; and the prescription the 1893 tract makes is, in this sense, the substitution of the *scheepvaartregeling*-cum-closure for the *blokkade*-cum-*cajoleering* that had defined the *fout* and *ramp* of the post-Van-der-Heijden decade. Van Heutsz's 1893 prescription anticipates — and is the conceptual blueprint for — the 1893–1894 definitive introduction Kruijt records.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+The **Scheepvaartregeling** ("shipping regulation") was the customs-and-harbour system designed for the [[Government of Atjeh en Onderhoorigheden]] by the commission instituted by Governor-General [[Mr. Pynacker Hordijk]] in [[1892]] — Governors [[General Deykerhoff|Deijkerhoff]] and Resident [[G. A. Scherer]] — and introduced piecemeal between [[1892]] and [[1897]], by which only a few well-situated harbours with a military post and a civil official were open to general trade, the rest of the coast being served from those harbours by small craft alone, while government customs personnel levied the in- and export-duties and paid them to the entitled chiefs, withholding them upon breach of engagement.
+
+### Genesis
+
+In [[1892]] the Government judged it desirable to design a shipping regulation, whereby it would be determined inter alia that a certain category of ships might not load and unload everywhere on the coast, but only in the harbours destined for the purpose whereto sufficient customs personnel for control would be present. A similar measure, already proposed earlier, could then find no favour in the eyes of the Government; until 1892 all proposals to that effect were rejected, and only in that year did the then Landvoogd, Mr. Pynacker Hordijk, institute a commission existing of Governor Deijkerhoff and Resident G. A. Scherer to design such a regulation for the province. "Bij 'brokstukken' kwam zij tot stand" — it came into being piecemeal: in 1892 for the East Coast; in [[1893]] for the North and West Coasts and Groot-Atjeh; in [[1896]] [[Sabang]] was taken up in the regulation; and finally in [[1897]] the shipping regulation could be introduced for the whole territory.
+
+### Principles
+
+"The principal aim of that regulation was: to touch the chiefs of the coast states, upon their unwillingness, in their incomes, without hampering the economic development of the land." To that end, on the coasts only a few well-situated places would be opened for trade — namely where both a military post and a civil official were established; the trade with the other parts of the coast would be allowed to take place only from those harbours, and indeed by means of small ships which could easily be controlled. In those harbours the customs personnel placed at the Government's disposal would levy in- and export-duties on the several products and pay them out to the entitled chiefs; but those moneys would be withheld from them as soon as it appeared that they did not keep to the agreement concluded with them.
+
+### Effect
+
+Of the harbours along the East Coast of Atjeh only [[Idi]] was opened for general trade, the others being declared accessible only to the coasting trade, and then still only to vessels under 25 register tons; all products of the East Coast were shipped only from the harbour of Idi, and articles for the East Coast brought from the [[Straits Settlements]] passed via Idi to the several landscapes — "de reeds eerder genoemde scheepvaartregeling bracht vooral de haven van Idi tot grooter bloei" ("the already mentioned shipping regulation brought especially the harbour of Idi to greater bloom"). The regulation came into full effect for the West Coast in January [[1895]]: [[Poelò Raja]], the stapling-place of the northern part of the West Coast, "where several cultures began again to bud", thereby increased in bloom, and the import of some articles, as petroleum, tobacco and dried fish, began to rise. The system was a deliberate successor to the clumsier "sluitingen" (closings) — such as that of the whole North Coast from August [[1890]], which had embittered the well-disposed traders — and, on the administrative side, to the open-closed oscillations of [[1882]]–[[1883]] and the [[Blockade of the Atjeh coast (1873-1874)|wartime blockade]]. After [[1896]] the regulation was applied in all its consequences, as part of the active system of power-development under Vetter's and [[Joannes Benedictus van Heutsz|Van Heutsz]]'s new course.
+
 ## See Also
 
 - [[Scherer]]
@@ -172,9 +188,16 @@ The *scheepvaartregeling*'s significance in the [[Aceh Wiki History]] record, in
 - [[1894]]
 - [[1896]]
 - [[1898]]
+- [[Taxation in Atjeh]]
+- [[Idi]]
+- [[General Deykerhoff|C. Deykerhoff]]
+- [[Dutch Policy of 'Concentration'|The Concentration in Atjeh (1884-1898)]]
+- [[Blockade of the Atjeh coast (1873-1874)]]
 
 ## Sources
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VI (the Van der Heijden introduction of 1879), Chapter VII (Scherer's doctrine and the 1881–1884 introduction), Chapter XII (the 1893–1894 definitive introduction), Chapter XIII (the prescription for the future). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 31–32, 34–39, 65–66, 78.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 22, 26–28, 32, 34–35, 39–42, 73–77. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 61–63, 65, 71–72, 74, 98.

@@ -1,7 +1,7 @@
 ---
 title: "Tapa Toean"
-aliases: ["Tapa Toewa", "Tapa' Toann", "Tapa Toan"]
-tags: [place, aceh, region, westkust, aceh-war, 19th-century, pepercultuur, rijstbouw, carolina-rijst, pidiërs, town, westkust-van-atjeh, achehnese, patchouli, nilam, cooperatie, Spoon, sub-division]
+aliases: ["Tapa Toewa", "Tapa' Toann", "Tapa Toan", "Tapaktuan", "Tapa-Toean", "Tapa Toea", "Tapa Tuan"]
+tags: [place, aceh, region, westkust, aceh-war, 19th-century, pepercultuur, rijstbouw, carolina-rijst, pidiërs, town, westkust-van-atjeh, achehnese, patchouli, nilam, cooperatie, Spoon, sub-division, "landscape", "west-coast", "colonial"]
 ---
 
 **Tapa Toean** — also written *Tapa' Toean*, *Tapa Toann* — is a region on the [[Westkust|Westkust]] of [[Atjeh|Atjèh], whose lowland along the coast was, from the middle of the 17th century, colonised by Pidiërs from the upper regions of [[Pidië|Pidië]] and [[Meulaboh|Meulaboh]] (returning from the gold exploitation of the [[Kawaj XII|Kawaj XII]] to the [[pepercultuur|pepercultuur]]), and which was, in the late 19th and early 20th century, the site of the famous Carolina-rijst experiment — the failed attempt to introduce the higher-yielding Carolina rice variety to Atjèh, which demonstrated that with the introduction of a new kind of rice one cannot suffice, but that in connection therewith also new methods for the treading and hulling must be introduced.
@@ -32,6 +32,18 @@ Tapa Toean is one of the principal regions of the Westkust of Atjèh, with a sus
 
 The campaign of [[1908]] against T. Bén Blang Pidië produced the submission of his eldest son with a hundred followers and nine rifles in June, of T. Bén himself with two other sons and 160 men a few weeks later with another nine rifles, of all the band-heads of [[Tgk. Pidië]] at the bivouac [[Reusa']] in August with forty-seven men and fourteen firearms, and of seventy-nine more in September with eight rifles; [[Tgk. Imeum Sradeuë']] fell with four followers. Towards the end of the year T. Bén brought his two last wandering sons in, "and Tapa' Toean became quiet again". [[Joannes Benedictus van Heutsz|Van Heutsz]] recorded in July [[1908]] that in the Tapa' Toean country, where [[Hendrikus Colijn|Colijn]], [[Campioni]] and [[Schneider]] had formerly gone alone, travel without escort had become impossible. Tapa' Toean was placed under a civil administrator in [[1909]], but in [[1936]] was again among the last four sub-divisions governed by officers.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Tapa Toean** (modern Tapaktuan) was the southernmost landscape and harbour of the West Coast of [[Acheh|Atjeh]], named in native reports as containing stone-coal seams, later the seat of a co-operative patchouli-oil distillery and of the [[Atjehsche Handelmaatschappij]]'s kapok-press, and a station of the [[Koninklijke Paketvaart Maatschappij|K.P.M.]] and of government telegraph and steam services.
+
+### Coal reports and the open harbour
+
+According to native reports furnished to the assistant-resident of [[Meulaboh]] in [[1882]]–[[1883]], coal seams were present in Tapa Toean as in [[Seunagan]], [[Trang]], [[Tadoe]] and the highlands of Meulaboh; the engineers' survey of [[1883]] found the coal blended with clay and shale and of too young formation. Under the resolution of [[29 May]] [[1883]], Tapa Toean would join the open harbours ([[Oeleë Lheuë|Oelèë Lheue]], [[Sigli]], [[Samalanga|Samelanga]], [[Lho Seumawè]], [[Idi]], Meulaboh) "as soon as also there an official should be established".
+
+### The oil distillery and the kapok-press
+
+After [[1918]], while the pinang-culture bloomed, the West Coast saw an extending planting of patchouli (*tilem*). With the support of Governor [[Van Sluys|A. G. H. van Sluys]] and of the [[Nederlandsche Handel-Maatschappij]] there arose at Tapa Toean a small co-operative oil-distilling establishment, which could soon proceed to the sending of oils; the lower copra prices had in any case already turned the population toward oil preparation, a product which found its market especially in [[Tapanoeli]]. The Atjehsche Handelmaatschappij had for years run at the same Tapa Toean a kapok-press establishment which exported over 300,000 kg per year. The [[Koninklijke Paketvaart Maatschappij]] maintained an agency at Tapa Toean among its Atjehnese ports of call; in [[1914]] a telegraphic connection from [[Sinabang]] over Tapa Toean to [[Singkel]] came into exploitation, and the town's sewerage was improved in connection with the presence of streaming water (as at [[Koeta Radja]], [[Sabang]] and [[Tjalang]]).
+
 ## See Also
 
 - [[17th-century]]
@@ -55,6 +67,10 @@ The campaign of [[1908]] against T. Bén Blang Pidië produced the submission of
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Seunagan]]
+- [[Atjehsche Handelmaatschappij]]
+- [[Nederlandsche Handel-Maatschappij]]
+- [[Sinabang]]
 
 ## Source
 
@@ -63,3 +79,5 @@ The campaign of [[1908]] against T. Bén Blang Pidië produced the submission of
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IX, XI, XIII, XVII.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 49, 53, 109, 120, 157, 185.

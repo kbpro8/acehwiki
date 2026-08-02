@@ -1,6 +1,6 @@
 ---
 title: "Teukoe Oemar"
-aliases: ["Teuku Umar", "T. Oemar", "The Cunning Adventurer", "Teukoe Johan", "Teuku Johan", "Tjut Meutia's husband", "Teuku Uma", "Tuku Umar", "Toekoe Oemar", "the betrayal of Toekoe Oemar", "Panglima Toekoe Oemar", "T. Djohan", "Toekoe Djohan Pahalawan", "Toekoe Melaboeh", "T. Oemar Melaboch", "Teungkoe Oemar", "Teukoe Oemar Keumangan", "Oemar Keumangan", "oeléebalang of Keumangan", "Teukoe Oemar van een oud en aanzienlijk geslacht", "Panglima Prang Besar", "Teukoe Oemar van Meulaboh", "Juhan Pahlawan", "Teuku Unia", "Uma", "Oemar of Keumangan", "Teuku Umar of Keumangan", "T. Djohan Pahlawan", "Teuku Johan Pahlawan", "Djohan Pahlawan", "Tjut Nyak Dhien's husband", "Tengku Oemar", "the Oemar of the 1896 defection", "Toekoe Umar", "Teuku Omar", "Atjehnese ally-defector of the Dutch", "Oemar", "Teukoe Oema (Teuku Uma)", "Teukoe Oema", "Teuku Oema", "Oema", "the convert from Dutch ally to Atjèhnese enemy", "Omar", "Umar ibn al-Khattab", "the second Caliph", "Amir al-Mu'minin", "Great War Commander", "Panglima Perang Besar", "Teuku Djoehan Pahlawan", "Teuku Djohan Pahlawan", "Djoehan Pahlawan", "Johan the Champion", "the dignity of Panglima Prang Besar", "T. Djohan Pahalawan", "Toekoe Djohan", "Djohan Pahalawan", "Teuku Umar Johan Pahlawan"]
+aliases: ["Teuku Umar", "T. Oemar", "The Cunning Adventurer", "Teukoe Johan", "Teuku Johan", "Tjut Meutia's husband", "Teuku Uma", "Tuku Umar", "Toekoe Oemar", "the betrayal of Toekoe Oemar", "Panglima Toekoe Oemar", "T. Djohan", "Toekoe Djohan Pahalawan", "Toekoe Melaboeh", "T. Oemar Melaboch", "Teungkoe Oemar", "Teukoe Oemar Keumangan", "Oemar Keumangan", "oeléebalang of Keumangan", "Teukoe Oemar van een oud en aanzienlijk geslacht", "Panglima Prang Besar", "Teukoe Oemar van Meulaboh", "Juhan Pahlawan", "Teuku Unia", "Uma", "Oemar of Keumangan", "Teuku Umar of Keumangan", "T. Djohan Pahlawan", "Teuku Johan Pahlawan", "Djohan Pahlawan", "Tjut Nyak Dhien's husband", "Tengku Oemar", "the Oemar of the 1896 defection", "Toekoe Umar", "Teuku Omar", "Atjehnese ally-defector of the Dutch", "Oemar", "Teukoe Oema (Teuku Uma)", "Teukoe Oema", "Teuku Oema", "Oema", "the convert from Dutch ally to Atjèhnese enemy", "Omar", "Umar ibn al-Khattab", "the second Caliph", "Amir al-Mu'minin", "Great War Commander", "Panglima Perang Besar", "Teuku Djoehan Pahlawan", "Teuku Djohan Pahlawan", "Djoehan Pahlawan", "Johan the Champion", "the dignity of Panglima Prang Besar", "T. Djohan Pahalawan", "Toekoe Djohan", "Djohan Pahalawan", "Teuku Umar Johan Pahlawan", "Teungkoe Djohan Pahlawan", "Teungku Umar", "Teukoe Omar", "Teungkoe Johan Pahlawan"]
 tags: [person, acehnese, achehnese, resistance, aceh, turncoat, aceh-war, military-leader, colonial, 19th-century, traitor-or-patriot, military, sultanate, religious, succession, defection, oeleebalang, keumangan, pidie, bengaleesche-afkomst, houtsnijkunst, oelèëbalang, westkust, warrior, panglima, war-leader, west-coast, resistance-leader, commander, defector, acheh, achehnese-resistance, killed-in-action, atjehnese, atjeh-oorlog, political, xxii-mukims, religious-figure, islam, caliph, companion-of-the-prophet, concept, diplomacy, teuku-umar, deijkerhoff, pahlawan-klucht, title, alliance]
 ---
 
@@ -237,6 +237,30 @@ Whether he foresaw that his indispensability would thereby lapse and his influen
 ### Assessment
 
 Hooijer's verdict was that the work of two years, however good it had seemed to promise, had been built *op ondeugdelijken grondslag* ("on an unsound foundation"), and had gone up in flames; but that the lives destroyed and money spent would not have been wasted if the event furnished the occasion at last to act with force. He held that the crisis at least swept away the *scheeve verhoudingen* — the skewed relations that had begun to arise between Dutch power and Oemar's own.
+
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Teukoe Oemar** — called by author [[J. Langhout|Joh. Langhout]] "the almost notorious Teukoe Oemar, the man who would later make so much talk of himself" — was the Atjehnese resistance leader whose ambiguous dealings with the Dutch spanned the [[Nisero affair (1883–1885)|Nisero affair]] ([[1884]]), the leadership of the popular anti-robber movement of [[1893]], his [[Pardon of Teukoe Oemar (30 September 1893)|pardon and submission]] of [[30 September]] [[1893]] with the title *Teungkoe Djohan Pahlawan*, his [[Defection of Teukoe Oemar (1896)|defection of March 1896]] which ended the era of the [[Dutch Policy of 'Concentration'|Concentration]], and his death in flight near [[Meulaboh]] in [[1899]] at the hands of Governor [[Joannes Benedictus van Heutsz|Van Heutsz]]'s pursuing columns.
+
+### The Nisero affair, 1884
+
+When the crew of the English steamer *Nisero* lay captive with the [[Radja of Teunom]], the Dutch government accepted the help of several native chiefs who offered their mediation, among them Teukoe Oemar — a chief whose sincerity had been doubted already at his submission in the preceding year. Oemar departed for [[Lambeusoë]] to negotiate with the Radja; he and his retinue were rowed ashore in two trips in a sloop manned by one *mandoer* and eight other natives. Hardly had the sloop landed the second time when Oemar fell upon the crew with the *klewang* (sword): only one of the rowers escaped unhurt and reached the ship wounded; the others lost their lives, and Oemar made booty of the rifles and ammunition, whereupon he went over again to the resistance.
+
+### Leader against the robbers, 1893
+
+After the Government in [[1893]] ended the prohibition of exports to outside the [[Dutch Policy of 'Concentration'|line]], the well-disposed population from outside who came within to sell produce and buy necessities lay exposed to the robbery and murder of the "evil elements", who ventured even within reach of the guns of the Dutch posts. From this evil arose a movement among the population — principally of the [[IV Moekims]] — to end the nuisance, and at its head stood Teukoe Oemar, who saw in it the fittest means to satisfy the Government's demand that clear proofs of his good disposition were needed before ear would be lent to his repeatedly made offer of submission. Supported by the Dutch military force, he acted effectively against the resistance-fighters.
+
+### Pardon and title, 30 September 1893
+
+On [[30 September]] [[1893]] the Government decided to grant him pardon, whereupon he swore the oath of loyalty and submission to the Government: he was forgiven all that he had formerly committed against it, and no punishments or fines were imposed. At his submission he had received the title "Teungkoe Djohan Pahlawan". The event greatly benefited trade; prosperity visibly rose in [[Koeta Radja]] and the country.
+
+### Defection, 29 March 1896
+
+After rumours had long circulated, the government obtained certainty on [[29 March]] [[1896]] that Teukoe Oemar "had thrown off the mask" and would henceforth turn against the Government. Governor [[General Deykerhoff|C. Deykerhoff]], who had been all too optimistic and incautious in his regard, was honourably discharged, and army commander [[General Vetter|J. A. Vetter]] came as Government Commissioner to chastise Oemar and the chiefs who had joined him. Langhout notes that whether the deed was really "treason" is doubted by Dr. C. [[C. Snouck Hurgronje|Snouck Hurgronje]], "since Oemar never belonged to the Dutch side"; for the particulars he refers to the [[Koloniaal Verslag|Colonial Report]] over 1896 and the other literature on the Netherlands military history in Atjeh.
+
+### Final years and death, 1896–1899
+
+Thereafter Teukoe Oemar's presence on the West Coast seriously hampered the inland trade of that department. Governor [[Joannes Benedictus van Heutsz|Van Heutsz]] undertook the pursuit of Oemar — in Langhout's garbled phrase "de vervolging van T. Oemar, ... ondernomen over de K.K." — which in [[1899]] led to Oemar's death (*sneuvelen*, falling in battle) near [[Meulaboh]], whereafter conditions everywhere became healthier.
 
 ## See Also
 
@@ -485,6 +509,9 @@ Hooijer's verdict was that the work of two years, however good it had seemed to 
 - [[Anagaloeng]]
 - [[Senelop]]
 - [[G. B. Hooijer]]
+- [[Pardon of Teukoe Oemar (30 September 1893)]]
+- [[Nisero affair (1883–1885)|Nisero affair (1883-1884)]]
+- [[Radja of Teunom]]
 
 ## Sources
 
@@ -531,3 +558,5 @@ The companions of the Prophet are not, in [[Acheh|Achehnese]] devotional life, t
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 10, 34, 54; pp. 10, 32, 38, 50, 53; pp. 9-10, 12, 15-16, 30-32, 34, 36, 38, 46, 50, 53-54.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 56–57, 70–74, 76, 80.

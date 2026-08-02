@@ -1,7 +1,7 @@
 ---
 title: "Groot-Atjeh"
-aliases: ["Atjeh proper", "Banda Aceh region", "Eigenlijk Atjeh", "Great Aceh", "Great Acheh", "Greater Aceh", "Groot-Atchéh", "Groot-Atje", "Groote Atjeh", "Proper Acheh", "Greater Atjeh", "Aceh Besar", "Atjeh Besar", "Groott-Atjeh", "de vallei van Groot-Atjeh", "sultanate of Groot-Atjeh", "Atjeh valley", "Atjeh-vallei", "vallei van Groot-Atjeh", "the valley of Groot-Atjeh", "Acheh", "Atjeh", "Acheh Proper", "True Acheh", "the heartland of Acheh", "Great-Acheh", "the kernel of the kingdom", "Atjeh-proper", "Groot Atjeh", "Great Atjeh"]
-tags: [place, region, aceh-proper, aceh-war, acehnese, achehnese, colonial, afdeeling, rechtstreeks-bestuurd-gebied, atjeh, sagi, administrative-division, sultanate, sumatra, military, 19th-century, valley, historical, groot-atjeh, moekim, kraton, kraton-Kota-Radja, aceh, geography, 1897, kingdom, capital-region, great-acheh, highland, lowland, dutch]
+aliases: ["Atjeh proper", "Banda Aceh region", "Eigenlijk Atjeh", "Great Aceh", "Great Acheh", "Greater Aceh", "Groot-Atchéh", "Groot-Atje", "Groote Atjeh", "Proper Acheh", "Greater Atjeh", "Aceh Besar", "Atjeh Besar", "Groott-Atjeh", "de vallei van Groot-Atjeh", "sultanate of Groot-Atjeh", "Atjeh valley", "Atjeh-vallei", "vallei van Groot-Atjeh", "the valley of Groot-Atjeh", "Acheh", "Atjeh", "Acheh Proper", "True Acheh", "the heartland of Acheh", "Great-Acheh", "the kernel of the kingdom", "Atjeh-proper", "Groot Atjeh", "Great Atjeh", "Groter Atjeh", "Aceh Besar (historical Groot-Atjeh)"]
+tags: [place, region, aceh-proper, aceh-war, acehnese, achehnese, colonial, afdeeling, rechtstreeks-bestuurd-gebied, atjeh, sagi, administrative-division, sultanate, sumatra, military, 19th-century, valley, historical, groot-atjeh, moekim, kraton, kraton-Kota-Radja, aceh, geography, 1897, kingdom, capital-region, great-acheh, highland, lowland, dutch, "department"]
 ---
 
 **Groot-Atjeh** ("Greater Aceh") was the Dutch colonial designation for the heartland of the [[Acheh|Atjeh]] sultanate — the densely settled coastal and hinterland district around the capital [[Banda Acheh|Koetaradja]] and its immediate interior — and later came to denote the interior highland region that was the focus of Dutch military mapping and operations in the 1870s. As an *afdeeling* and a *rechtstreeks bestuurd gebied* within the [[Gouvernement Atjeh en Onderhoorigheden]], Groot-Atjeh figured prominently in the [[Aceh War]], in colonial railway construction, and in the administrative reforms that shaped the later governance of Aceh.
@@ -220,6 +220,22 @@ For a decade after [[1884]] the Dutch had confined themselves to the *[[Geconcen
 
 Hooijer's closing judgment was that although the work of two years had gone up in flames, the crisis had at least cleared the way for vigorous action, purifying and strengthening the Dutch position in Groot-Atjeh *tot heil van de, onder anarchie en priesterdwang gebukte bevolking* — for the good of the population bowed under anarchy and priestly compulsion — and to the glory of the Indies army and the prestige of the Kingdom of the Netherlands.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Groot-Atjeh** ("Great Aceh") was the heartland of the old sultanate — the valley of the [[Atjeh River]] with the capital [[Koeta Radja]], the roadstead [[Oeleë Lheuë|Oelèë Lheue]] and the three *sagi's* (federations) of the [[XXV Moekims]], the [[XXVI Moekims]] and the XXII Moekims — which passed under direct Dutch administration after [[1873]] and formed, with the sub-department [[Singkel]], the directly-ruled territory within the [[Government of Atjeh en Onderhoorigheden]], as distinct from the more than one hundred self-governing landscapes of the Dependencies.
+
+### The conquered territory
+
+Groot-Atjeh was, in Dr. [[E. B. Kielstra]]'s phrase quoted by [[J. Langhout|Joh. Langhout]], "a territory conquered by force of arms, where in the first years the sword had to keep what the sword had won". It was in Groot-Atjeh that the works of the early years arose: the road, tram- and telegraph-line [[Oeleë Lheuë|Oelèë Lheue]]–[[Koeta Radja]] ([[1874]]–[[1876]]), the posts of the later [[Dutch Policy of 'Concentration'|concentrated line]] (from the post Koeta Pohama over [[Lambaroe]] to the blockhouse Sabang), the roads to [[Aneugal|Aneugalong]], [[Glé Kambing]], [[Toengkop]] and [[Montassik]] and the iron bridges over the Atjeh river (1882), and the new [[Baiturrahman Grand Mosque|Missigit]] (opened 27 December [[1882]]), and that the revenue experiments were made: the opium- and gambling-farms (from [[1876]]; f 549,000 in [[1878]], f 358,680 more than 1877), the Chinese agricultural trial of 25 *bouws* near Koeta Radja and [[Penajong|Peunajoeng]] (October [[1877]]), and the indirect taxes — *hacil* on pepper and rice, half a dollar per picol of coffee — from [[1878]]. In [[1882]] 2,700 Chinese and other Foreign Orientals were assessed for the trade tax in Groot-Atjeh.
+
+### War, recovery and administration
+
+The years of the [[Establishment of Civil Government in Aceh (6 April 1881)|civil experiment]] (1881–1884) saw Groot-Atjeh's security deteriorate ("our influence in Groot-Atjeh declined markedly"), the Concentration ([[1884]]–[[1888]]) kept some 5,000 men heaped within the line while the rice culture outside it all but perished, and Van Teijn's and the later active systems (to [[1898]]) restored the three sagi's to cultivation: the population was registered in the Sagi of the XXV Moekims ([[1897]]), pasars founded with government support ([[1898]]), roads and bridges built in the Sagi of the XXVI Moekims, a native court instituted under the civil magistrate, and the *oelèèbalangs* of the VI Moekims supplied with coffee seed for planting on the yards. The anti-robber movement of [[Teukoe Oemar]] in [[1893]] arose in the [[IV Moekims]]. By [[1922]] the province fed even the remaining garrison of c. 4,000 men with rice bought from the population.
+
+### Economy
+
+Groot-Atjeh long remained, in Langhout's judgement, "een weinig belovende streek" ("a not very promising region") for European agriculture: most agricultural trials failed, and tobacco cultivation and coconut planting in this part of Atjeh were virtually given up; its wealth lay in rice (the subjugated area's sawahs, extended yearly under Governors [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] and [[H. N. A. Swart|Swart]]), in fishing, petty trade and the transport trades, and in the government town Koeta Radja. The wholesale [[Taxation in Atjeh|taxation]] figures (f 225,000 from the native population in [[1908]]; f 530,000 in [[1917]]) and the school programme of [[Education in Atjeh]] applied to the department first: five village-schools under Van Daalen, 242 schools province-wide by [[1918]], agricultural schools at [[Beureunoen]] and [[Oeléë Karang]], the leper colony of [[Pò-Amat]] ([[1911]]), and artesian bores and irrigation works.
+
 ## See Also
 
 - [[1873]]
@@ -362,6 +378,10 @@ Hooijer's closing judgment was that although the work of two years had gone up i
 - [[Geconcentreerde linie]]
 - [[IX Moekims]]
 - [[Teukoe Oemar]]
+- [[Government of Atjeh en Onderhoorigheden]]
+- [[Oeleë Lheuë|Oelèë Lheue]]
+- [[Moekim System]]
+- [[Dutch Policy of 'Concentration'|The Concentration in Atjeh (1884-1898)]]
 
 ## Sources
 
@@ -404,3 +424,5 @@ Hooijer's closing judgment was that although the work of two years had gone up i
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], pp. 9, 11–12, 17.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 25, 34, 37–50, 59–76, 88–93, 98–106, 111–113, 126–127, 181.

@@ -1,6 +1,6 @@
 ---
 title: "Jan van Swieten"
-aliases: ["Van Swieten", "J. van Swieten", "General Van Swieten", "Generaal Van Swieten", "de Generaal van Swieten", "Lieutenant-general Van Swieten", "Lieutenant-colonel Van Swieten", "General", "Conqueror of the Acehnese Van Swieten", "war-hero Van Swieten", "grijzen veldheer en staatsman", "Van Swieten (Atjeh)", "Jan van Swieten commander Second Aceh Expedition", "Van Swieten (Atjeh commander)"]
+aliases: ["Van Swieten", "J. van Swieten", "General Van Swieten", "Generaal Van Swieten", "de Generaal van Swieten", "Lieutenant-general Van Swieten", "Lieutenant-colonel Van Swieten", "General", "Conqueror of the Acehnese Van Swieten", "war-hero Van Swieten", "grijzen veldheer en staatsman", "Van Swieten (Atjeh)", "Jan van Swieten commander Second Aceh Expedition", "Van Swieten (Atjeh commander)", "Johan van Swieten", "Lt-Gen J. van Swieten", "J. van Swieten, Governor of Sumatra's West Coast"]
 tags: [person, general, dutch, military, colonial, knil, aceh-war, bali-expedition, 19th-century, infantry, achehnese, acheh, atjeh, governor, commander]
 description: "Dutch lieutenant-general (1807–1888) who commanded the Second Aceh Expedition of 1873–1874, presided over the capture of the Kraton and the proclamation of annexation of Groot-Atjeh, and earlier in his career negotiated the Treaty of 30 March 1857 with the Sultan of Aceh and took command of the third Bali expedition of 1849."
 ---
@@ -153,6 +153,18 @@ Sketching the symphony he thought the war deserved, Hooijer moved from the myste
 
 In [[1879]], [[Jan van Swieten]] published [[De waarheid over onze vestiging in Atjeh]]. He defended the limited-war and indirect-influence policy associated with the [[Second Dutch Expedition to Aceh]], arguing that capture of the [[Kraton of Aceh]] had not made direct administration prudent and that coercive destruction could strengthen resistance.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**J. van Swieten** was the Dutch general who, as Governor of [[Sumatra]]'s West Coast, concluded with Sultan [[Sultan Ibrahim Mansur Shah|Ibrahim Mansur]] of [[Acheh|Atjeh]] the [[Treaty of 1857 between Netherlands and Aceh|treaty of peace, friendship and commerce]] of [[1857]] — the agreement meant, in author [[J. Langhout|Joh. Langhout]]'s words, "once more to try, along the road of reconciliation, to call another, better state of affairs into being" sixteen years before war was declared on the sultanate.
+
+### The treaty of 1857
+
+The chronic insecurity on the Atjehnese coasts — the plundering of an American merchant ship (1830) and the ensuing American chastisement of [[Koeala Batië]] in [[1831]], the loss of the schooner *[[Schooner Dolphijn incident (1836)|Dolphiijn]]* with its money shipment of 30,000 guilders in [[1836]], the expulsion of the Atjehnese from [[Baros]] and [[Singkel]] in [[1840]], the English chastisement of Koeala Batië and [[Koeala Meureudoe]] in [[1844]], and the plundering of a Neapolitan schooner (1851) and an English merchantman (1852) — led the Netherlands Indian Government, "once more to try along the road of reconciliation", to instruct General van Swieten, then Governor of Sumatra's West Coast, to conclude with Ibrahim Mansoer, who had meanwhile come forward as Sultan of Atjeh, an agreement of peace, friendship and trade. It contained provisions on the admission of each other's subjects to trade, shipping and residence in one another's countries, provisions against sea-, strand- and man-robbery, and the agreement that all claims on account of former facts would lapse.
+
+### Later significance
+
+The treaty worked, Langhout writes, "until [[1858]]", when the Dutch [[Siak tractate of 1 February 1858|contract with the Sultan of Siak]] called forth the Atjehnese pretensions upon that realm — claims not recognized by the Netherlands — beginning the chain of irritations that led through the expeditions of [[Dutch expedition to the North-East Coast of Sumatra (1865)|1865]], the refusal of the Atjehnese chiefs' requests for Dutch supremacy, and the replacement of the [[Anglo-Dutch Treaty of 1824|London treaty]] by the [[Treaty of 1871|Sumatra treaty of 1871]], to the [[Nieuwenhuizen's mission to Atjeh and the declaration of war (March 1873)|declaration of war of 26 March 1873]]. Langhout's own account of that later conflict, he observes elsewhere, relies for military particulars on the existing literature — for which Van Swieten himself, as lieutenant-general and former commander of the expeditions of [[1873]], had furnished one of the standard narratives with his book *De waarheid over onze vestiging in Atjeh*.
+
 ## See Also
 
 - [[Kloenkoeng]]
@@ -243,6 +255,9 @@ In [[1879]], [[Jan van Swieten]] published [[De waarheid over onze vestiging in 
 - [[Second Aceh Expedition (1873-1874)|second expedition]]
 - [[General van der Heijden]]
 - [[Voorwoord of De verlaten posten in Groot-Atjeh]]
+- [[Sultan Ibrahim Mansur Shah|Sultan Ibrahim Mansur]]
+- [[Acheh War]]
+- [[Nieuwenhuizen's mission to Atjeh and the declaration of war (March 1873)]]
 
 ## Sources
 
@@ -270,3 +285,5 @@ In [[1879]], [[Jan van Swieten]] published [[De waarheid over onze vestiging in 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 1–465.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 16–17.

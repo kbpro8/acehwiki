@@ -1,8 +1,9 @@
 ---
 title: Bataafsche Petroleum Maatschappij
-aliases: [Bataafsche Petroleum Maatschappij, Bataafsche Petr. Mij., BPM, Bataafsche, Batavian Oil Company, B.P.M., Bataafsche Petroleum-Mij, Batavian Petroleum Company, Royal Dutch Shell subsidiary]
+aliases: [Bataafsche Petroleum Maatschappij, Bataafsche Petr. Mij., BPM, Bataafsche, Batavian Oil Company, B.P.M., Bataafsche Petroleum-Mij, Batavian Petroleum Company, Royal Dutch Shell subsidiary, "BPM Atjeh", "Petroleum industry in Atjeh"]
 tags: [organization, company, colonial, petroleum, oil, dutch, bpm, perlak, rantau-pandjang, pangkalan-brandan, pipe-line, perlak-petroleum-mij]
 ---
+
 ## Concessions in Atjeh
 
 
@@ -23,6 +24,18 @@ At the haven of [[Pangkalan Soesoeh|Pangkalan Soesoeh]] on the [[Aroebaai|Aroeba
 
 *De Buitenbezittingen* notes that the *oliepalm* cultures of the European *ondernemingen* — particularly the *met Belgisch kapitaal opgerichte oliepalmplantages in Tamiang* — were, like the Bataafsche's own concession-empire, dependent on the long-distance pipeline and the distant refinery for their economic meaning. The Company's *vast recht* of ƒ0.25 per H.A. (yielding ƒ1,300 per year minimum) plus 4% of the bruto-opbrengst provided, in [[1909]], ƒ249,000; in [[1910]], ƒ255,000; in [[1911]], ƒ143,000; and in [[1912]], ƒ262,000 to the *gewest*, of which two-fifths went to the landschapskassen.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+In author [[J. Langhout|Joh. Langhout]]'s account, the Bataafsche's consolidation marked the completion of the petroleum history of the East Coast: already in [[1890]], even south of the provincial border in the [[Langkat]] country, the Bataafsche had founded her establishment [[Pangkalan Brandan]] — an establishment at the deep-water [[Aroebai|Aroe-baai]] then being impossible for the absence of every authority, Dutch or native, the coast lying in complete anarchy and the young establishment repeatedly startled by attacks of roving bands. Governor [[Joannes Benedictus van Heutsz|Van Heutsz]] gave European mining his full interest, opening several tracts for private investigation and exploitation: especially in [[Peureula]] were great and rich petroleum wells struck, and in [[1902]]–[[1903]] also at [[Langsar]], [[Peudada]], [[Idi]], [[Djoelo Rajeu]] and [[Tjoenda]].
+
+### The pacifying enterprise
+
+Langhout recounts the widely spread legend — "dat de militaire excursies vaak slechts moesten dienen om dekking te verleenen aan de nieuw gevestigde ondernemingen" ("that the military excursions often merely served to give cover to the newly established enterprises") — and reverses it: in reality the petroleum exploitations were one of the foremost factors of the pacification of this part of the coast tract, for on the estates the Atjehnese for the first time knew the Hollander otherwise than as a soldier — he found an opportunity to work and an ample earning — while to the chiefs and great ones the enterprise opened a source of income in the *cijns* (tribute) greater than they had ever drawn from the heaviest taxing of their subjects. After a few raids by strange mountain bands in the first years, the good name of the enterprise became known even to the "kwaadwilligen" ("evilly-disposed"): it once happened that upon a foray all rice was carried off from the native and Chinese settlement, but the full rice-barns of the enterprise, past which the bands had crossed the river, were left unmolested. Hence the successive governors of Atjeh always favoured the petroleum enterprises, and — in deviation from custom — a geologist or other officer was occasionally allowed to accompany an excursion into the interior in search of oil-traces: "de vestiging van den olieman, zoo wisten de militairen, beteekent... de vrede!" ("the settlement of the oil-man, the soldiers knew, means... peace!"). Many of the later employees of the [[Atjeh Tram]] received their first schooling on the Perlak enterprise, to which the tact and language-knowledge of the then administrator [[Allein]] much contributed — within a short time he worked with 60% Atjehnese voluntary labour.
+
+### Rantau Pandjang and the pipeline
+
+"In het binnenland is gaandeweg een oliestad, Rantau Pandjang, ontstaan" — in the interior the oil city [[Rantau Pandjang]] gradually arose: the oil was won there and, by a kilometres-long pipeline, pumped to Pangkalan Brandan, the industrial city of the Langkat terrains. Rantau Pandjang had a brilliantly equipped enterprise, surrounded by oil wells; beside a number of European workmen, a very great number of native and Chinese workers found an ample existence in the Bataafsche's enterprise. Some years before [[1923]] the [[Zuid-Perlak Petroleum-Mij|Zuid Perlak Maatschappij]] had transferred its works to the Bataafsche Petroleum Maatschappij, which already exploited other Perlak terrains. According to the official data, the Bataafsche pumped in December [[1922]] from the tract Peureula "121197 ton" (as printed; probably 121,197 ton) of crude oil, while in the same month 598 tons of crude oil were pumped from the oil field at [[Aloer Mas]] toward Rantau Pandjang — figures which over the last years showed a steady increase.
+
 ## See Also
 
 
@@ -34,6 +47,10 @@ At the haven of [[Pangkalan Soesoeh|Pangkalan Soesoeh]] on the [[Aroebaai|Aroeba
 - [[Peureula]]
 - [[Atjeh-tram]]
 - [[Deli Spoorweg Maatschappij]]
+- [[Perlak]]
+- [[Joannes Benedictus van Heutsz|Johannes van Heutsz]]
+- [[Atjeh Tram]]
+- [[Aloer Mas]]
 
 ## Source
 
@@ -165,3 +182,5 @@ The Bataafsche Petroleum-Mij is the principal oil-company of the Atjehnese easte
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), pp. 7–10 (petroleum history, refining, production tables).
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim; *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), for the Koloniaal Instituut and Handelsmuseum.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 68, 83–85, 108, 160–163 (chapter "De Petroleum-ontginning"), illustration captions pp. 160, 162.

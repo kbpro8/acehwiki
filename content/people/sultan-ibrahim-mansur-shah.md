@@ -17,6 +17,10 @@ aliases:
 - Ibrahim Mansjoer Sjuh
 - the Sultan of Atjeh under the Habib
 - Sultan Ibrahim Mansyur Syah
+- "Ibrahim Mansoer"
+- "Sultan Ibrahim Mansoer Sjah"
+- "Mansur Shah of Atjeh"
+- "Sultan of Atjeh Ibrahim Mansur"
 tags:
 - person
 - ruler
@@ -81,6 +85,18 @@ His son and successor, the child [[Tuanku Muhamat Dawot]], was elevated to the s
 
 The reign of Sultan Ibrahim Mansur Shah thus coincides with the period of the most rapid decay of the Sultanate's effective authority. The Sultan's inability to settle a disputed succession within his own capital territory — and his recourse to the compromise of recognising both claimants — exemplifies the constitutional principle, repeatedly stressed by Snouck Hurgronje, that the Sultan of Acheh had by this time become little more than *primus inter pares* among the chiefs of Great Acheh. His patronage of the *Tadj-oel-moelk* shows the survival of the sultanate's cultural and religious functions even as its political power collapsed; the anecdote of the drunken frenzy shows the moral counterpart of that collapse; and his son's career, from the sultanate of 1879 to the submission to the Dutch, shows the final extinction of the political reality to which Mansur Shah's name remained, in formal style, attached. Kreemer's account, in turn, supplies the list of *sarakata*'s he issued — to the heads of Paté and Lhö Gloempang, to the bestuurder of Lhö Kroeët, and to the Kali Malikön Adé — that allows the documentary record of his reign to be reconstructed.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Sultan Ibrahim Mansur** — "Ibrahim Mansoer" in [[J. Langhout|Joh. Langhout]]'s spelling — was the Sultan of [[Acheh|Atjeh]] with whom General [[Jan van Swieten|J. van Swieten]], Governor of [[Sumatra]]'s West Coast, in [[1857]] concluded the [[Treaty of 1857 between Netherlands and Aceh|treaty of peace, friendship and commerce]], the last Dutch attempt "along the road of reconciliation" to call a better state of affairs into being before the slide toward the [[Acheh War]].
+
+### The treaty of 1857
+
+After the chronic sea- and strand-robbery on the Atjehnese coasts — the American chastisement of [[Koeala Batië]] in [[1831]], the plundering and burning of the schooner *[[Schooner Dolphijn incident (1836)|Dolphiijn]]* in [[1836]] (whose money and guns the Sultan of Atjeh had kept for himself), the plundering of a Neapolitan schooner in [[1851]] and of an English merchantman in [[1852]] — the Netherlands Indian Government ordered General van Swieten, then Governor of Sumatra's West Coast, to conclude with Ibrahim Mansoer, meanwhile come forward as Sultan of Atjeh, an agreement of peace, friendship and trade. It contained inter alia provisions on the admission of each other's subjects to trade, shipping and residence in one another's countries, provisions to combat sea-, strand- and man-robbery, and the agreement that all claims on account of former facts would lapse.
+
+### Aftermath
+
+"It went well — until [[1858]]!" Then the Netherlands Indian government concluded a [[Siak tractate of 1 February 1858|contract with the Sultan of Siak]], whose realm had formerly belonged to Atjeh but had loosened itself from it since [[1705]]; the Sultan of Atjeh thereupon suddenly remembered that he could assert his long-lapsed claims upon Siak and Dependencies — claims which the Dutch side naturally did not recognize — with the consequence of several utterances of a less good understanding, among them a firing by the Atjehnese upon [[Batoe Baroe]].
+
 ## See Also
 
 - [[Acheh]]
@@ -133,6 +149,10 @@ The reign of Sultan Ibrahim Mansur Shah thus coincides with the period of the mo
 - [[1837]]
 - [[1873]]
 - [[Atjeh-Album (Eigen Haard, 1896)]]
+- [[Treaty of 1857 between Netherlands and Aceh|Treaty of 1857 with the Sultan of Atjeh]]
+- [[Jan van Swieten|J. van Swieten]]
+- [[Siak tractate of 1 February 1858|Dutch treaty with the Sultan of Siak (1858)]]
+- [[Acheh War]]
 
 ## Sources
 
@@ -141,3 +161,5 @@ The reign of Sultan Ibrahim Mansur Shah thus coincides with the period of the mo
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], p. 14 (De Geestelijkheid in Atjeh — Habib Abdoe'r Rachman).
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 16–18.

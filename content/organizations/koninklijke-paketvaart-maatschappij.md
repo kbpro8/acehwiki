@@ -1,6 +1,6 @@
 ---
 title: "Koninklijke Paketvaart Maatschappij"
-aliases: ["Koninklijke Paketvaart Maatschappij", "K.P.M.", "KPM", "Koninklijke Paketvaart-Maatschappij", "Kon. Paketvaart-Maatschappij", "Royal Packet Navigation Company", "Royal Packet Company", "Packetvaart", "Kon. Paketvaart"]
+aliases: ["Koninklijke Paketvaart Maatschappij", "K.P.M.", "KPM", "Koninklijke Paketvaart-Maatschappij", "Kon. Paketvaart-Maatschappij", "Royal Packet Navigation Company", "Royal Packet Company", "Packetvaart", "Kon. Paketvaart", "Paketvaart"]
 tags: [organization, company, colonial, dutch, shipping, 19th-century, trade, aceh-war, kpm, kon-paketvaart, harbour, penang, langsa, idi, lho-seumawe, sigli, oelèë-lheue]
 ---
 
@@ -93,6 +93,18 @@ Answering as former chairman, [[J. T. Cremer|Cremer]] made three points. First, 
 
 Cremer added that he had foreseen on accepting the portfolio that such matters would be alluded to and had resolved never to be angry about them: had it been his object to gain direct or indirect advantage, it would have been more profitable for him not to sit as minister.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+The **Koninklijke Paketvaart Maatschappij** (K.P.M.; Royal Packet Navigation Company) was the Dutch shipping company which kept the maritime communications of [[Acheh|Atjeh]] — with 112 vessels in service over some thirty lines, offices or agencies in eleven Atjehnese ports, and a steady history of profitless pioneer-lines — and whose contribution to the [[Pacification of Atjeh|pacification]] of the province author [[J. Langhout|Joh. Langhout]] records with particular emphasis.
+
+### The network at Atjeh
+
+Langhout, quoting Dr. [[Broersma]]'s article in the *Indische Gids* (late [[1922]]), writes that the K.P.M., the shipping company with the largest number of lines in the Indies, was not always head of the West Coast but encouraged the development of all outer provinces and "zoo dikwijls lijnen heeft 'aangelegd' zonder daartoe verplicht te zijn geweest en... zonder eenige winst te behalen" ("so often 'laid' lines without having been obliged to do so and... without making any profit"). Of the 112 vessels in service (passenger ships, freighters, lighters, stern-wheel steamers and tugs and salvage vessels), the first line ran Batavia– Singapore–Penang–Atjeh, a second the same route with a western variant, a third a Penang–Atjeh service alone; another maintained a weekly service of [[Penang]] to [[Belawan]] and [[Langsa]], another connected [[Pangkalan Brandan]] — in the immediate neighbourhood of the Atjehnese frontier — with the principal ports of the Indies and the Straits. In [[1903]] the company opened a line from [[Deli]] to [[Sabang]], chiefly for the transport of tobacco and rubber; in [[1910]] she bought the ships *Pegu* and *Hok Canton*, which had regularly maintained the trade relations between Atjeh and the Overwal, and took them out of service. Only one, nearly insignificant line had to be abolished largely through the malaise — that of [[Pakan Baroe]] to Singapore, to be restored when trade should liven. Early in [[1923]] the *Swartenhondt* (4,600 tons) was successfully launched (immediately followed by the keel-laying of a new steamer), with the *Plancius* (5,600 tons) and the *Bontekoe* (4,600 tons, built by J. & K. Smit's yards at [[Kinderdijk]]; photographed as "het 'jongste' stoomschip der K.P.M.") also in construction.
+
+### Offices and the Van Zalinge report
+
+"In de Atjehsche havenplaatsen [[Lho Seumawè|Lhō Seumawe]], [[Sigli]], [[Oeleë Lheuë|Oelèë Lheue]], [[Tjalang]], [[Meulaboh]], [[Tapa Toean]], [[Sinabang]], [[Singkel]], [[Langsa]], [[Sabang]], [[Idi]], welke geregeld door de schepen van de Paketvaart worden aangedaan, heeft de maatschappij kantoren of Agentschappen gevestigd" — in those eleven Atjehnese ports of call the company had established offices or agencies. Langhout could describe Atjeh as it was in late [[1922]] through the eyes of K.P.M. director [[N. van Zalinge]], whose unpublished travel report the Amsterdam directorate made over to him: the pacification could be regarded as finished, the land was no less safe than the rest of the Indies, the population laid out rice and pinang, the troops (c. 4,000 men) were fed with rice bought from the population, and trade was moving toward [[Langsar]]. Also under Governor [[Van Sluys|Van Sluys]] the water communication remained the K.P.M.'s care, beside which two government steamers stationed in the province kept the connection with all smaller coast places.
+
 ## See Also
 
 - [[1888]]
@@ -133,6 +145,10 @@ Cremer added that he had foreseen on accepting the portfolio that such matters w
 - [[Spoorbaan / Spoorweg / Extratreinen / Stoomtram]]
 - [[Verkenningen in Atjeh (1923)]]
 - [[W. Ruys]]
+- [[N. van Zalinge]]
+- [[Stoomvaart Maatschappij Nederland]]
+- [[Rotterdamsche Lloyd]]
+- [[Ocean Steamship Company]]
 
 ## Sources
 
@@ -149,3 +165,5 @@ Cremer added that he had foreseen on accepting the portfolio that such matters w
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 37, 39, 49–50, 68–69.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 125, 155–158, 180, illustration caption p. 154.

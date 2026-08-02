@@ -1,6 +1,6 @@
 ---
 title: "General Deykerhoff"
-aliases: ["Deykerhoff", "governor Deykerhoff", "Deyckerhoff", "Deijckerhoff", "C. Deijckerhoff", "generaal Deijckerhoff", "Gouverneur Deijckerhoff"]
+aliases: ["Deykerhoff", "governor Deykerhoff", "Deyckerhoff", "Deijckerhoff", "C. Deijckerhoff", "generaal Deijckerhoff", "Gouverneur Deijckerhoff", "Deijkerhoff", "Gouverneur Deykerhoff", "C. Deijkerhoff", "Generaal-majoor C. Deykerhoff"]
 tags: [person, colonial-official, dutch, military, governor, colonial, acheh, general, knil, aceh, aceh-war, 19th-century]
 ---
 
@@ -52,6 +52,18 @@ It began very well; Dutch authority was restored over the greater part of the te
 
 Deijckerhoff's governorship is the negative case on which the entire argument of du Croo's book rests: it demonstrated that conciliation unsupported by demonstrated power produced not submission but emboldened resistance, and it produced the catastrophe that finally allowed the doctrine of [[Christiaan Snouck Hurgronje]] and van Heutsz to be applied.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**C. Deykerhoff** was the Dutch Governor of [[Acheh|Atjeh and Onderhoorigheden]] whose too optimistic and incautious confidence in [[Teukoe Oemar]] was broken by the latter's [[Defection of Teukoe Oemar (1896)|defection of March 1896]], whereupon he was honourably discharged. Earlier, as governor, he had served on the commission that designed the [[Scheepvaartregeling|shipping regulation]] for the province.
+
+### The shipping regulation commission, 1892
+
+In [[1892]] Governor-General [[Pynacker Hordijk]] instituted a commission, consisting of Governor Deijkerhoff and Resident [[G. A. Scherer]], to design a shipping regulation for the Government of Atjeh and Dependencies. The regulation came into being piecemeal — in 1892 for the East Coast, in [[1893]] for the North and West Coasts and Groot-Atjeh; [[Sabang]] was included in [[1896]], and finally in [[1897]] the shipping regulation could be introduced for the whole province.
+
+### The defection of Teukoe Oemar, 1896
+
+After rumours had circulated for some time, the government obtained certainty on [[29 March]] [[1896]] that Teukoe Oemar — who at his [[Pardon of Teukoe Oemar (30 September 1893)|submission in 1893]] had received the title "Teungkoe Djohan Pahlawan" — had "thrown off the mask" and would henceforth turn against the Government. The Governor of Atjeh, Major-General C. Deykerhoff, immediately telegraphed the news of Teukoe Oemar's treason to the Governor-General, who at once convened an extraordinary meeting of the [[Council of the Indies]]. In that assembly the Netherlands Indian Government came to the conclusion that the direction of affairs in Atjeh could no longer be entrusted to the governor who had been "al te optimistisch en onvoorzichtig" ("all too optimistic and incautious") in regard of Teukoe Oemar. Deykerhoff received honourable discharge, and the army commander, Lieutenant-General [[General Vetter|J. A. Vetter]], betook himself once more to Atjeh — this time to take the direction of affairs in hand as Government Commissioner.
+
 ## See Also
 
 - [[Defection of Teuku Uma|Treachery of Teuku Uma against the Dutch]]
@@ -73,6 +85,9 @@ Deijckerhoff's governorship is the negative case on which the entire argument of
 - [[J. van Teijn]]
 - [[Atjeh van 1890 tot 1898]]
 - [[Christiaan Snouck Hurgronje]]
+- [[General Vetter|J. A. Vetter]]
+- [[Defection of Teukoe Oemar (1896)|Betrayal of Teukoe Oemar (1896)]]
+- [[Scheepvaartregeling|Scheepvaartregeling in Atjeh]]
 
 ## Source
 
@@ -90,3 +105,5 @@ The episode had at least one salutary consequence. "The Uma episode, however mel
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 218.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, pp. 14–17; Chapter V, p. 33.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 62, 72–73.

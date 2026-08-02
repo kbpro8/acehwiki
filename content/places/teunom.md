@@ -1,7 +1,7 @@
 ---
 title: "Teunom"
-aliases: ["Kr. Teunom", "Krueng Teunom (West Atjeh)", "NW Krueng Teunom"]
-tags: [place, north-east-coast, west-coast, uleebalangship, imeum, punishment, river, atjeh, westkust, coal, landschap, aceh, resistance]
+aliases: ["Kr. Teunom", "Krueng Teunom (West Atjeh)", "NW Krueng Teunom", "Teunom-Panga", "Teunom (west coast)"]
+tags: [place, north-east-coast, west-coast, uleebalangship, imeum, punishment, river, atjeh, westkust, coal, landschap, aceh, resistance, "landscape", "achehnese"]
 ---
 
 ## Expanded account from *The Achehnese*, Vol. I — Teunom
@@ -34,6 +34,18 @@ For the wider context of the West-Atjeh coal localities, see the entries on [[Kr
 
 Schmidt's clearing of Teunòm was one of the conditions that reduced the disturbed area of the [[Meulaboh]] country in [[1909]] to [[Beneden Wòjla]], [[Boebon]] and [[Seunagan]]. In later years he executed there the commission to bring in a band more than three hundred strong under T. Bén Boebon and his nephew [[T. di Rangkoh]], with which infantry patrols could obtain almost no contact; knowing the district and its people through and through, he brought about a peaceful submission "without shooting and without laying low." The people came in in rags, having lived since the raid on their *ladang* on *katèla* and palm hearts, and fell hungrily on the rice and fish the *[[Corps of Military Constabulary of Atjeh and Dependencies|marechaussée]]* provided. [[H. N. A. Swart]] noted on the journal: "You have achieved a fine result, the more so since no use was made of weapons." [[Joannes Benedictus van Heutsz|Van Heutsz]] had once written on a journal of Swart's: "now it is time for Captain Swart to go to Teunom."
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Teunom** was the landscape on the West Coast of [[Acheh|Atjeh]] whose radja made himself notorious by the capture of the crew of the English steamer *Nisero* ([[Nisero affair (1883–1885)|Nisero affair]]) — a region whose people of Teunom-[[Panga]], [[Löh Boeboen]] and [[Boeboen]] kept the surroundings of [[Meulaboh]] unsafe through the early 1880s.
+
+### Insecurity, 1883
+
+During [[1883]] the *passar* and the establishment of the controller at Meulaboh had to endure repeated nocturnal attacks of robber bands; the warship *Madura* had to come to the rescue before the bands withdrew, to attack Meulaboh again later. It was in the Panga river's mouth — "Koela Panga" — that the English steamer *Nisero* stranded in the night of [[10 November|10]]–[[11 November]] [[1883]] on a voyage with a cargo of sugar from [[Soerabaja]] bound for [[Suez]], where her captain had tried to take in coal at [[Poelò Breuëh]]; the crew, once ashore, was imprisoned by the [[Radja of Teunom]] and the ship plundered.
+
+### The expedition and the closing
+
+When the Radja's evasions continued, a military expedition under Colonel [[Demmeni|H. Demmeni]] steamed from [[Oeleë Lheuë|Oelèë Lheue]] to Teunom on [[4 January]] [[1884]], opened hostilities after the ultimatum remained unanswered, and administered an exemplary chastisement; the coast was thenceforth kept closed to a wide distance for all import and export, the fisheries were impeded, and Dutch warships fired upon everything within their reach. Only on [[10 September]] [[1884]], after the negotiations of Governor [[P. F. Laging Tobias]] with Mr. Maxwell and the promise of f 100,000 to whoever brought back the prisoners, of the reopening of the harbours and of the lifting of the closing of the surrounding statelets, were the captives delivered up. Parallel to these events ran the treachery of [[Teukoe Oemar]] at [[Lambeusoë]], the place to which he had been sent to negotiate with the Radja.
+
 ## See Also
 
 - [[Acheh]]
@@ -56,6 +68,10 @@ Schmidt's clearing of Teunòm was one of the conditions that reduced the disturb
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Nisero affair (1883–1885)|Nisero affair (1883-1884)]]
+- [[Radja of Teunom]]
+- [[Meulaboh]]
+- [[Demmeni|H. Demmeni]]
 
 ## Source
 
@@ -64,3 +80,5 @@ Schmidt's clearing of Teunòm was one of the conditions that reduced the disturb
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 49 (Table 13, coal localities of Sumatra, No. 15).
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XV.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 54–57.

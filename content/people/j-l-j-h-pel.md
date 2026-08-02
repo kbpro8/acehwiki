@@ -16,6 +16,8 @@ aliases:
 - generaal-majoor Pel
 - the successor of Van Swieten
 - Pel of Atjèh
+- "Civil and Military Commandant Pel"
+- "Bevelhebber Pel"
 tags:
 - person
 - military
@@ -144,6 +146,14 @@ The Atjehnese response to the [[Pel|Pel]] interlude was, the source records, the
 
 The [[Pel|Pel]] interlude is the immediate post-[[1873]] Dutch administration of Atjeh. The instructions — amicable arrangement, patience, waiting posture — and the Atjehnese response — repeated attacks — together set the pattern for the [[Concentratie-stelsel (1884-1896)|concentratie]] period that would formally begin in the early [[1880s]].
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Colonel Pel** was the Dutch officer who, as civil and military commandant of [[Acheh|Atjeh]] after the [[Capture of the Kraton (24 Jan 1874)|capture of the kraton]] in January [[1874]], endeavoured to persuade Chinese artisans from [[Penang]] and [[Java]] to settle in Atjeh and to lead Netherlands Indian trade toward the province.
+
+### Efforts for trade and settlement
+
+After the fall of the Atjehnese kraton, when the hope could be cherished that an end would soon come to the [[Acheh War|war]] — and thus to the [[Blockade of the Atjeh coast (1873-1874)|blockade]] — Colonel Pel used his efforts to induce Chinese industrials from Penang as well as from Java to establish themselves in Atjeh, and equally to attract Netherlands Indian commerce. The attempts succeeded at first, but the course of affairs prevented merchants and artisans from immediately giving effect to their intentions; Langhout recounts the sequence as part of the early steps toward the pacification-era economy of Oelèë Lheue and [[Koeta Radja]]. The more than once repeated declaration of the civil and military commandant in Atjeh, "that the safety of the immigrants was assured and that he deemed the immigration of small traders and industrials very desirable", contributed to the lively activity which reigned from May 1874 in the region traversed by the new communications between [[Oeleë Lheuë|Oelèë Lheue]] and Koeta Radja, where gradually a great number of Europeans, Chinese and Arabs — most from Penang, but also from [[Batavia]] — settled as small merchants or artisans.
+
 ## See Also
 
 - [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]
@@ -254,6 +264,8 @@ The [[Pel|Pel]] interlude is the immediate post-[[1873]] Dutch administration of
 - [[XXV Mukims]]
 - [[Acheh River]]
 - [[postenlinie]]
+- [[Blockade of the Atjeh coast (1873-1874)]]
+- [[Oeleë Lheuë|Oelèë Lheue]]
 
 ## Sources
 
@@ -277,3 +289,5 @@ The [[Pel|Pel]] interlude is the immediate post-[[1873]] Dutch administration of
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, p. 9.
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Derde tijdvak, blz. 17–19. Citing H. F. Meijer, *Atjèh van 26 Dec. 1875 tot 4 Sept. 1876* (1883), p. XI vg.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 29, 32.

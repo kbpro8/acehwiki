@@ -1,7 +1,7 @@
 ---
 title: "Samalanga"
-aliases: ["Samalanga (Atjeh)", "Samalanga region", "Samalangga", "Samalanga post", "Samalanga north coast"]
-tags: [aceh-proper, achehnese, coast, colonial, military-operations, north-coast, north-east-coast, place, region, ulama, landschap, aceh, noordkust]
+aliases: ["Samalanga (Atjeh)", "Samalanga region", "Samalangga", "Samalanga post", "Samalanga north coast", "Samelanga", "Samalanga (north coast)"]
+tags: [aceh-proper, achehnese, coast, colonial, military-operations, north-coast, north-east-coast, place, region, ulama, landschap, aceh, noordkust, "landscape", "coastal"]
 ---
 
 **Samalanga** is a coastal region of [[Acheh|Atjeh]] on the north coast of Sumatra, between [[Banda Acheh|Koetaradja]] and [[Pedirse|Pedir]], mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 124) as the locality where, in particular, much *dadih* — curdled buffalo-milk, the most widely consumed buffalo-milk product in northern Sumatra — was made. The Samalanga reference is part of *De Karbouw*'s wider account of buffalo-milking and buffalo-milk consumption in Atjeh, which locates Atjeh within a broader North-Sumatran dairy complex that included the [[Pedirse|Pedir]] region (where goats were also milked), the [[Gajoland|Gajoland]] highlands (where *minjaq sapi* buffalo-milk cream was boiled down to fat for frying *toempi* and *tjoetjoer*), and the [[Klingalese]] and [[Arab|Arab]] communities resident in Atjeh (great lovers of *dadih*, who knew it by their own terms *tairō* and *halib* respectively).
@@ -85,6 +85,18 @@ Samalanga's significance in Van Heutsz's [[1893]] tract rests on its being the e
 
 In June [[1913]] a fourteen-year-old boy armed with a *[[rentjong]]* forced his way into the canteen at Samalanga and attacked the station master who happened to be staying there — one of the [[Atjeh-moord|Atjeh murders]]. The *zelfbestuurder* [[T. Tjhi' Moehammad]] of Samalanga was the eighth signatory of the [[Letter of the Acehnese Chiefs to General Swart (26 September 1933)|letter of 1933]].
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Samalanga** was a landscape of the North Coast of [[Acheh|Atjeh]] — one of the coastal districts which submitted in the first years of the [[Acheh War]] — where Colonel [[General van der Heijden|Karel van der Heijden]] was wounded during his first expedition in [[1878]], and through which the middle section of the coastal [[Atjeh Tram|tramway]] was the last to be built because of the persistent political troubles.
+
+### The war years and administration
+
+At the civil formation of the end of [[1878]] one controller was placed at Samalanga for the north coast. When Colonel Karel van der Heijden took up the post of military and civil commandant of Atjeh on [[30 June]] [[1878]], it was during his first expedition — directed against Samalanga — that he was wounded. Under the resolution of [[29 May]] [[1883]] Samelanga belonged to the few harbours remaining open for import and export (with [[Oeleë Lheuë|Oelèë Lheue]], [[Sigli]], [[Lho Seumawè]], [[Idi]] and [[Meulaboh]]).
+
+### The tramway
+
+In the budget of [[1900]] funds were granted for the tramway [[Sigli]]–[[Lho Seumawè]]; because the survey of the middle section, lying in the landscape Samalanga, was not yet possible owing to the political condition, the construction was taken in hand from Sigli and from Lho Seumawè outward. The washing-away of three iron bridges by *bandjirs* (floods) caused further delay, so that the whole new stretch could be taken into use only in April [[1904]].
+
 ## See Also
 
 - [[Aceh War]]
@@ -140,6 +152,10 @@ In June [[1913]] a fourteen-year-old boy armed with a *[[rentjong]]* forced his 
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[General van der Heijden|Karel van der Heijden]]
+- [[Atjeh Tram]]
+- [[Sigli]]
+- [[Pidië]]
 
 ## Source
 
@@ -152,3 +168,5 @@ In June [[1913]] a fourteen-year-old boy armed with a *[[rentjong]]* forced his 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XII; Appendix.
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], p. 24.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 38, 40, 53, 137.

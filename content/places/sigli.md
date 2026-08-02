@@ -1,7 +1,7 @@
 ---
 title: "Sigli"
-aliases: ["Siglir", "Tandjong Sigli", "Atjeh Sigli", "haven van Sigli", "the harbour of Sigli", "Sigli hoofdplaats", "Sigli havenplaats", "Sigli Pidië", "Atjeh-tram workshop Sigli", "the troop command at Sigli"]
-tags: [place, hoofdplaats, noordkust, achehnese, colonial, dutch, buitenbezittingen, tramway, town, harbour, pidie, paketvaart, atjeh-tram, workshop, waterleiding, aceh, garrison, aceh-war, 20th-century]
+aliases: ["Siglir", "Tandjong Sigli", "Atjeh Sigli", "haven van Sigli", "the harbour of Sigli", "Sigli hoofdplaats", "Sigli havenplaats", "Sigli Pidië", "Atjeh-tram workshop Sigli", "the troop command at Sigli", "Siglie", "Siglii", "Pidië Sigli"]
+tags: [place, hoofdplaats, noordkust, achehnese, colonial, dutch, buitenbezittingen, tramway, town, harbour, pidie, paketvaart, atjeh-tram, workshop, waterleiding, aceh, garrison, aceh-war, 20th-century, "coastal"]
 ---
 
 **Sigli** was the *hoofdplaats* of the onderafdeeling of the same name in the [[Afdeeling Noordkust van Atjeh|Afdeeling Noordkust van Atjeh]] — the town on the coast of the Pedir plain that served, together with Lhoʼ Seumawè, as one of the two principal export havens of the densely populated north coast of [[Gouvernement Atjeh en Onderhoorigheden|Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* places Sigli among the four "polen van het dichtstbevolkte deel van geheel Atjeh," whose trade in inlandsche producten — chiefly rijst, klappers, and peper — was already, by [[1917]], drawing level with the artificial primacy of [[Koeta Radja|Koeta Radja]].
@@ -82,6 +82,22 @@ On [[10 October]] [[1913]] Scheepens, presiding over the *[[Moesapat]]* at Sigli
 
 In January [[1915]] the murder of a Chinese occurred at Sigli.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Sigli** was the principal town of the North Coast of [[Acheh|Atjeh]] and the seat of one of the first assistant-residents of the [[Government of Atjeh en Onderhoorigheden]] (from [[1878]]), a station of the [[Atjeh Tram]] with the line's principal workshops, and later the seat of the administration of the department [[Pidië]] (photo caption: "Bestuurskantoor van den assistent-resident van Pidië te Sigli").
+
+### Administration and trade restrictions
+
+At the civil formation of the end of [[1878]] one of the four assistant-residents was placed at Sigli, charged with the administration of the north coast. Under the resolution of [[29 May]] [[1883]] Sigli belonged — with [[Oeleë Lheuë|Oelèë Lheue]], [[Samalanga|Samelanga]], [[Lho Seumawè]], [[Idi]] and [[Meulaboh]] — to the only harbours open for import and export. In July [[1894]] a licence system with an extraordinary *hacil* duty on the export of products was introduced at Sigli as a temporary measure: it had the consequence that the population of the [[Pidië]] region, which tract was closed for the coasting trade, no longer needed to take recourse to clandestine transport over land to [[Meureudoe]] and thence by sea to [[Lho Seumawè]] (see [[Taxation in Atjeh]]).
+
+### The Atjeh Tram
+
+The tramway along the North Coast was built from Sigli outward: the line Sigli–[[Kudéé Brueuk]] (18 km) opened for traffic in [[1899]]; funds for the line Sigli–[[Lho Seumawè]] were granted in the budget of [[1900]], its construction taken in hand from both ends because the middle part in the landscape [[Samalanga]] was politically inaccessible, and completed in April [[1904]] after three iron bridges had been swept away by *bandjirs* (floods); in [[1913]] the branch [[Beureunoen]]–[[Lam Meulō]] (5 km) was added. The mountainside connection over the watershed from Groot-Atjeh reached the coast net in [[1908]] (limited service from 15 September), whereafter the workshops of Koeta Radja were closed and those of Sigli enlarged: a stelplaats (shed) for locomotives, carriages and wagons, a foundry, extended smithy and turning-shop and magazines arose at Sigli.
+
+### Later development
+
+A normal school for chiefs' sons and a public European lower school were among the town's institutions; artesian wells were bored for its drinking-water supply. Under Governor [[H. N. A. Swart]] the town received one of the new post- and telegraph-offices (with [[Langsa]], [[Koeala Simpang]] and [[Sinabang]]), agencies of Medan houses and of the [[Atjehsche Handelmaatschappij]]; the telephone net connected it with the other government stations, and it lay on the through route described by [[N. van Zalinge]] ([[1922]]) and Governor [[Van Sluys|Van Sluys]] — rail via [[Langsar]], [[Lho Seumawè]], Sigli to [[Koeta Radja]], with a future line to [[Meulaboh]] still demanded.
+
 ## See Also
 
 - [[12 March]]
@@ -115,6 +131,9 @@ In January [[1915]] the murder of a Chinese occurred at Sigli.
 - [[Murder of Lieutenant-Colonel Scheepens (10 October 1913)]]
 - [[H. J. Schmidt]]
 - [[Joannes Benedictus van Heutsz]]
+- [[Atjeh Tram]]
+- [[Lho Seumawè]]
+- [[Government of Atjeh en Onderhoorigheden]]
 
 ## Source
 
@@ -127,3 +146,5 @@ In January [[1915]] the murder of a Chinese occurred at Sigli.
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters XIII–XIV, *'Het groote rijstland Pidië'* and *'De Atjeh-tram'*, pp. 94–101.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV, p. 20; Chapter XII, pp. 119–121; Chapter XIV, p. 145; Chapter XV, p. 143.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 40, 53, 71, 89, 107, 109, 111, 124–125, 133–138, 157, 179, 183, 185, illustration captions pp. 92, 135, 180.

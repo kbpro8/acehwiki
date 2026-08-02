@@ -26,6 +26,8 @@ aliases:
 - Sultan Iskander Muda
 - Iskandar Muda of Atjeh
 - Atjehse Roi Soleil
+- "Marhoem Makota Alam"
+- "Marhoem Makota Alam (posthumous name)"
 tags:
 - person
 - sultan
@@ -154,6 +156,18 @@ Sultan Iskandar Muda’s reign constitutes the defining moment of the Acehnese *
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 25–27 (tekst bij blad 2 en 3: *De Archipel en het Maleische Schiereiland in 1650*) en blz. 30 (tekst bij blad 3: *Kantoren op andere plaatsen — Sumatra*).
 *De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 5–8.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Sultan Iskandar Muda** — "Iskander moeda" in [[J. Langhout|Joh. Langhout]]'s spelling, known after his death under the name of *Marhoem Makota Alam* — was the Sultan of [[Acheh|Atjeh]] who in [[1627]] compelled the Dutch to break up the factory founded under his predecessor and equally to evacuate the West Coast of [[Sumatra]].
+
+### Expulsion of the Dutch, 1627
+
+The privileged position won by the Dutch through the treaty concluded near the beginning of the seventeenth century — when the ships of the [[Middelburg]] fleet had brought gifts and a letter from [[Maurice of Nassau|Prince Maurice]] and obtained permission to found a factory — lasted only fifteen years. The Spaniards and Portuguese, who during those years unceasingly used all efforts to regain the friendship of the Atjehnese princes, finally succeeded, and once again the Hollanders were the dupes of the friendship regained. In [[1627]] they were compelled by the then Sultan of Atjeh, Iskandar Muda, to break up the factory, while being equally forced to evacuate the West Coast of Sumatra. Only in [[1640]] were the bonds of friendship restored, when during the administration of Governor-General [[Van Diemen]] the successor of Iskandar Muda came to power — a young prince without experience, but equally without plans for breaking the bonds with the Hollanders.
+
+### The expansion under Atjeh's great commander
+
+Langhout connects the sultan's age with the high-water mark of Atjehnese expansion: by the beginning of the seventeenth century a great part of the island of Sumatra and the island of [[Nias]], and even a part of the peninsula of [[Malakka]], were subjected to the realm of the Prince of Atjeh — a fortunate circumstance which the realm owed, for the greatest part, to one of the army-commanders of the reigning Sultan, who for his time "must have been an extraordinary strategist"; it was with this commander that the Dutch made acquaintance when they first appeared in Atjeh in [[1599]].
+
 ## See Also
 
 - [[Atjeh-oorlog]]
@@ -265,6 +279,9 @@ Sultan Iskandar Muda’s reign constitutes the defining moment of the Acehnese *
 - [[1612]]
 - [[1625]]
 - [[1645]]
+- [[Iskandar Muda's expulsion of the Dutch (1627)]]
+- [[Conquest of Pidië and Pasè (1524)|Acehnese expulsion of the Portuguese from Pasè (1524)]]
+- [[Atjèh embassy to Prince Maurits (1601)|Dutch-Atjehnese alliance and embassy to Prince Maurice (1601-1602)]]
 
 ## Source
 
@@ -289,3 +306,5 @@ Sultan Iskandar Muda’s reign constitutes the defining moment of the Acehnese *
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
 
 *DLP-84-Atjeh.pdf*, pp. 3-4.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 9–10, 13.

@@ -1,7 +1,7 @@
 ---
 title: Paulus van Caerden
-aliases: [Paulus van Caerden (Vice-Admiraal), Paulus van Caerden de Oude, Paulus van der Caerden, Vice-Admiraal van Caerden, Caerden, P. van Caerden, Van Caerden]
-tags: [person, dutch, navigator, precolonial, atjeh, netherlands-east-indies, 17th-century, voc, trade, amsterdam, pre-VOC]
+aliases: [Paulus van Caerden (Vice-Admiraal), Paulus van Caerden de Oude, Paulus van der Caerden, Vice-Admiraal van Caerden, Caerden, P. van Caerden, Van Caerden, "Paulus van Cardaen", "Admiral Van Caerden"]
+tags: [person, dutch, navigator, precolonial, atjeh, netherlands-east-indies, 17th-century, voc, trade, amsterdam, pre-VOC, "admiral"]
 ---
 
 **Paulus van Caerden** was a Dutch vice-admiraal in the service of the [[Nieuwe Brabantsche Compagnie|Nieuwe Brabantsche Compagnie]] — and after [[1602]] of the [[Vereenigde Oostindische Compagnie|VOC]] — who commanded the [[Paulus van Caerden's Atjeh visit (1600-1601)|second Dutch commercial visit to Atjeh]] in [[1600]]–[[1601]], conducted a punitive campaign against the Spanish in the Moluccas in [[1606]]–[[1608]] in which he was captured and held prisoner, and was the elder kinsman (probably uncle) of the better-known **Cornelis van Caerden** also in VOC service. He is, after the [[Houtman brothers' visit to Atjeh (1599)|Houtman brothers]], the principal Dutch commander at Atjeh in the pre-VOC period. In [[E. C. Godee Molsbergen|Godee Molsbergen]]'s account his Atjeh visit is the source of the [[Pigskin parchment letter incident at Atjeh (1600)|pigskin parchment letter incident]] — a diplomatic fiasco in which a Portuguese monk pointed out to the Sultan that Prince Maurits's letter was written on parchment made from the skin of the unclean pig.
@@ -50,6 +50,18 @@ Paulus van Caerden is the principal Dutch commander at Atjeh in the pre-VOC peri
 
 The visit is also the occasion of [[Pieter Both|Pieter Both]]'s presence at Atjeh. Both would become the first Governor-General of the [[Vereenigde Oost-Indische Compagnie|Compagnie]] after its [[1602]] founding, and his experience of Atjeh in [[1600]] — watching a Dutch captain fail to extract a prisoner from the Acehnese court — must have informed the more cautious Compagnie policy toward Atjeh that would mark his governor-generalship. The controversy over his seizure of the Arab junks at Atjeh — and the long-running compensation claim that followed — also established the legal-political pattern that would recur throughout the Dutch-Atjeh relationship: aggressive commercial action by a Dutch commander, controversy at home about whether his instructions permitted it, and a long-running compensation claim. His subsequent capture by the Spanish in the Moluccas deprived the VOC of an experienced commander and contributed to the strategic difficulties of the [[Jan Pieterszoon Coen|Coen]] era.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Paulus van Caerden** was the Dutch admiral, a companion of [[Pieter Both]], who came to the Indies for the account of some Brabant shipowners, tried like the De Houtmans before him to open trade relations with [[Acheh|Atjeh]], escaped a second murderous plot through the warning of the captive [[Frederik de Houtman]] — and then abandoned that benefactor and his fellow-captives, seizing instead four Arab ships on the Atjehnese coast.
+
+### Voyage to Atjeh
+
+Van Caerden underwent, in author [[J. Langhout|Joh. Langhout]]'s words, "a second, less friendly treatment" in Atjeh. Again it was the Sultan who, at the instigation of the Portuguese, attempted an assault; but the Sultan reckoned without his host — in this case without Frederik de Houtman, who, having learned of the plans, escaped from captivity and warned the admiral of the threatening danger, so that the plot miscarried without any lives being lost. Frederik de Houtman, after his escape, placed himself anew in the hands of the Sultan to plead his countrymen's interests, trusting in Van Caerden's help if need be.
+
+### The seizure of the Arab ships
+
+That trust was ill placed. After lingering for some time on the coasts of Atjeh, Van Caerden "knew nothing better to do" than to take possession of a quarter of ships belonging to Arabs, and to leave the coast, no longer concerning himself about his countrymen living in captivity. Langhout remarks that the admiral "rewarded the magnanimity of De Houtman very badly"; Frederik de Houtman and his companions regained their freedom only thanks to the subsequent favourable turn brought by the ships of the [[Middelburg]] fleet with gifts and a letter from [[Maurice of Nassau|Prince Maurice]].
+
 ## See Also
 
 - [[Paulus van Caerden's Atjeh visit (1600-1601)]]
@@ -82,6 +94,8 @@ The visit is also the occasion of [[Pieter Both|Pieter Both]]'s presence at Atje
 - [[1601]]
 - [[1602]]
 - [[1607]]
+- [[Houtman brothers' visit to Atjeh (1599)|De Houtman brothers' voyage to Atjeh (1599-1600)]]
+- [[Atjèh embassy to Prince Maurits (1601)|Dutch-Atjehnese alliance and embassy to Prince Maurice (1601-1602)]]
 
 ## Sources
 
@@ -90,3 +104,5 @@ The visit is also the occasion of [[Pieter Both|Pieter Both]]'s presence at Atje
 *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter XXXII ("Het Kasteel van Verre. De brief op varkensvel in Atjeh. Bali en Holland één! Van Neck's reis in 1600") and chapter XXXIII ("Atjehers in het kamp van Maurits. De zeeslag bij Bantam"), pp. 114–121 of the numbered-letter sequence.
 
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 27 (tekst bij blad 1: *De eerste reizen der Nederlanders*).
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 11–13.

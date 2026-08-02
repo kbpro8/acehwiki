@@ -1,7 +1,7 @@
 ---
 title: "Seunagan"
-aliases: ["West Coast", "south of Meulaboh", "West Coast of Acheh", "the Western Coast", "Atjeh Westkust", "the West Coast of Acheh"]
-tags: [place, north-east-coast, coast, region, dependency, material-culture, landschap, aceh, westkust, resistance]
+aliases: ["West Coast", "south of Meulaboh", "West Coast of Acheh", "the Western Coast", "Atjeh Westkust", "the West Coast of Acheh", "Seunagan (landscape)", "Landschap Seunagan"]
+tags: [place, north-east-coast, coast, region, dependency, material-culture, landschap, aceh, westkust, resistance, "landscape", "west-coast", "mining"]
 ---
 
 **Seunagan** is a region on the west coast of [[Acheh|Atjeh]], situated in what is today the Nagan Raya Regency of Aceh province, Sumatra. It is known both as a centre of unorthodox mysticism and as a source of fine woven craft production. The area lies to the south of [[Meulaboh]] and formed part of the West Coast dependency (*Westkust*) of the sultanate, a region distinguished by its pepper-planting colonies, its monsoon-bound communications, and its history of foreign admixture.
@@ -50,6 +50,18 @@ In [[1906]] [[Schmidt]] served as luitenant at Djeuram in *het toen uiterst roer
 
 In March [[1909]] [[Waki Him]] committed "an old-fashioned *[[klewang]]* charge" in Seunagan which cost the Dutch eleven wounded but brought Waki Him and three of his men their end as *[[sjahid]]*; in April the submission of all the *pangs* and band members of [[T. Moeda Mat Sa'it]] followed in Seunagan, [[Tadoe]] and [[Tripa]]. In October [[1910]] lieutenant [[S. van Eendenburg]] was killed near [[Keudé Blang Bajoe]] in Seunagan by the band-head [[Pang Timoe]]. On [[29 December]] [[1917]] young Acehnese of Seunagan attacked [[G. F. P. Gosenson|lieutenant Gosenson]] at [[Djeuram]]. In [[1926]] the great [[Teukoe Keumangan]] of Seunagan told [[Maurice Henri du Croo|du Croo]] that an *[[oelèëbalang]]* who betrayed [[T. Radja Tampo']] "could not remain a territorial chief in Seunagan".
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Seunagan** was a landscape south of [[Meulaboh]] on the West Coast of [[Acheh|Atjeh]], reputed from native reports to possess extensive coal-fields, investigated by the assistant-resident of Meulaboh at the end of [[1882]] and by mining engineers in [[1883]] — with disappointing results, the coal being mixed with clay and shale and of too young formation.
+
+### The exploration of 1882–1883
+
+At the end of [[1882]] the assistant-resident of Meulaboh made a journey to the landscapes lying south of Meulaboh to hold a preliminary investigation into the coal present in the landscape Seunagan; the inquiry, for the very inadequate means at his disposal, was very superficial and gave few results. At a few hours' distance from the coast stone coal of young formation was found; according to the reports of natives furnished to the assistant-resident, the coal-fields had to be very extensive and join those found in the landscapes [[Trang]] and [[Tadoe]] — subject to Seunagan — and in the highlands of Meulaboh; also in one of the more southerly landscapes, [[Tapa Toean]], coal seams were said to be present. In the following year these "ontdekkingstochten" ("voyages of discovery") were continued by some mining engineers who made an extensive investigation; it led to few satisfying results, since the coal that was indeed present appeared to be blended with too much clay and shale and of too young formation to offer favourable prospects for exploitation.
+
+### Later surveys
+
+Under Governor [[Joannes Benedictus van Heutsz|Van Heutsz]] the government again investigated the presence of stone coal on the West Coast in [[1902]]–[[1903]], and under Governor [[H. N. A. Swart|Swart]] government surveys of a mining character took place in several parts of the province (among them for petroleum in [[Peusangan River|Peusangan]]), though without issuing in exploitation.
+
 ## See Also
 
 - [[Hamzah Pansuri]]
@@ -71,6 +83,8 @@ In March [[1909]] [[Waki Him]] committed "an old-fashioned *[[klewang]]* charge"
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Tapa Toean]]
+- [[Bataafsche Petroleum Maatschappij|Petroleum industry in Atjeh]]
 
 ## Source
 
@@ -79,3 +93,5 @@ In March [[1909]] [[Waki Him]] committed "an old-fashioned *[[klewang]]* charge"
 *Gids voor den bezoeker van de schatkamer*, Koninklijk Bataviaasch Genootschap van Kunsten en Wetenschappen, Batavia, 1928. Druk: Ruygrok & Co., Batavia. Cabinet 3 (Atjeh), item 2.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XII.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 49–50, 85.

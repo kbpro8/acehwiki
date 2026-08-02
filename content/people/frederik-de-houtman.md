@@ -1,7 +1,7 @@
 ---
 title: Frederik de Houtman
 aliases: [Frederick de Houtman, Frederik Houtman, de Houtman, F. de Houtman]
-tags: [person, dutch, explorer, colonial, voc, scholar, 16th-century, 17th-century, pre-VOC]
+tags: [person, dutch, explorer, colonial, voc, scholar, 16th-century, 17th-century, pre-VOC, "navigator"]
 ---
 
 **Frederik de Houtman** ([[1571]]–[[1627]]) was a Dutch navigator, linguist and astronomer whose twenty-six-month captivity in [[Acheh|Atjeh]] from [[1599]] to [[1601]] produced one of the earliest European grammars and dictionaries of the Malay language and the first European catalogue of southern-hemisphere stars. A member of the pioneering [[E. C. Godee Molsbergen|Godee Molsbergen]]'s "wilde vaart" generation of pre-VOC Dutch adventurers, De Houtman is a pivotal figure in the early Dutch-Atjeh encounter — and his Atjeh imprisonment, by his own later account, was a providential mercy.
@@ -60,6 +60,18 @@ In [[September 1600]] a new Dutch fleet under [[Paulus van Caerden|Van Caerden]]
 
 Frederik de Houtman's Atjeh captivity is the foundational episode of European Malay studies and of European astronomy of the southern sky. The *Spraeck ende woord-boeck* of [[1603]] — composed from notes taken during his Atjeh imprisonment — directly shaped Dutch, Latin and English Malay lexicography for the next two centuries, and through [[W. Marsden]] influenced the British tradition as well. For [[Acheh|Atjeh]], De Houtman is the European prisoner who turned captivity into the earliest substantial Western record of the sultanate's lingua franca — a Malay of the Atjeh roadstead that would become the diplomatic and commercial *lingua franca* of the entire Archipelago. The 1603 vocabulary is also the precondition of all later Dutch diplomacy and commerce in the Malay-Indonesian world, including the very treaties — [[Dutch–Aceh Treaty of 1641|Schouten]], [[Dutch–Aceh Treaty of 1649|Truytman]], [[Treaty of Atjeh-VOC (5 October 1659)|1659]] — that structured the Dutch-Acehnese relationship.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Frederik de Houtman** was the Dutch commander who survived the fatal first Dutch voyage to [[Acheh|Atjeh]] of July [[1599]] — in which his brother [[Cornelis de Houtman]] and 68 sailors were killed — and who, twice the Sultan's prisoner, twice instrumental to his countrymen, regained his freedom through the embassy sent by [[Maurice of Nassau|Prince Maurice]].
+
+### Captivity and the Van Caerden affair
+
+After the surprise attack by the Sultan's bands, Frederik de Houtman fell into captivity, and when the Dutch ships sailed home in July [[1600]] he remained behind. When admiral [[Paulus van Caerden]], a companion of [[Pieter Both]], came to the Indies for the account of some Brabant shipowners and likewise tried to open trade relations with Atjeh, the Sultan — again at the instigation of the Portuguese — prepared an assault upon him; the Sultan reckoned, however, without his host, "in casu without Frederik de Houtman", who, having learned of the plans, managed to escape from his captivity and warned the admiral of the threatening danger, so that this assault also failed without loss of life. Frederik nevertheless deemed it undesirable to return to the mother country: to plead the interests of his countrymen as well as possible, he placed himself anew in the hands of the Sultan of Atjeh, trusting, if need be, in the help of Van Caerden. That admiral however "rewarded De Houtman's magnanimity very badly": after lingering some time on the coasts of Atjeh, he knew nothing better to do than to seize four ships belonging to Arabs and to leave the coast, no longer concerning himself about his countrymen living in captivity.
+
+### Liberation
+
+Frederik de Houtman and his fellow-sufferers owed their freedom to the favourable turn of [[1601]]–[[1602]], when, after a Portuguese embassy from the under-king of [[Goa]] had demanded an island of Atjeh for the building of a fort, a few Zealand ships of the [[Middelburg]] fleet under the admirals [[De Roy]] and [[Bickers]] arrived in the roadstead with gifts and a letter from [[Maurice of Nassau|Prince Maurice]] for the Sultan. An agreement was concluded permitting the Hollanders to found a factory, and to this favourable turn it was due that Frederik de Houtman and his companions regained their liberty.
+
 ## See Also
 
 - [[Cornelis de Houtman]]
@@ -92,8 +104,13 @@ Frederik de Houtman's Atjeh captivity is the foundational episode of European Ma
 
 - [[De Kleine Oosterling]]
 - [[Prince Maurits]]
+- [[Houtman brothers' visit to Atjeh (1599)|De Houtman brothers' voyage to Atjeh (1599-1600)]]
+- [[Atjèh embassy to Prince Maurits (1601)|Dutch-Atjehnese alliance and embassy to Prince Maurice (1601-1602)]]
+
 ## Source
 
 *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapters XXIII, XXXII ("Het Kasteel van Verre. De brief op varkensvel in Atjeh. Bali en Holland één! Van Neck's reis in 1600"; "Atjehers in het kamp van Maurits. De zeeslag bij Bantam"), pp. 81, 114–118 of the numbered-letter sequence. Cf. *Atlas N.I.* No. 46 en 47, bl. 16, on the *Spraeck- ende woord-boeck*.
 
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 27–28 (tekst bij blad 1: *De eerste reizen der Nederlanders — Eenige der volgende reizen naar O. Indië, a. C. en F. de Houtman en Lefort (Atjeh) 1598/9*).
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 10–13.

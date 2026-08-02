@@ -13,6 +13,7 @@ aliases:
 - Van der Wijck (governor-general)
 - C. H. A. van der Wijck
 - G.-G. Van der Wijck
+- "Van der Wijck"
 tags:
 - person
 - dutch
@@ -77,6 +78,18 @@ Van der Wijck held the government "in accordance with the intention" until he be
 **Jhr. J. C. v. d. Wyck** was a Dutch colonial administrator who served as Civil and Military Governor of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] from [[1904]] to [[1905]], the brief interregnum between the powerful governorships of [[Joannes Benedictus van Heutsz|van Heutsz]] ([[1898]]–[[1904]]) and [[Gotfried Coenraad Ernst van Daalen|van Daalen]] ([[1905]]–[[1908]]). The Encyclopaedisch Bureau's *De Buitenbezittingen* lists him in its Bijlage I — the chronological list of *Hoofden van Gewestelijk Bestuur* — as the holder of the *Civ. en Mil. Gouverneur* title for this transitional period.
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 217-218.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Van der Wijck** was the Governor-General of the Netherlands Indies under whom the government of [[Acheh|Atjeh]] was reorganized after the [[Defection of Teukoe Oemar (1896)|defection of Teukoe Oemar]] in [[1896]]: he found in the crisis occasion to follow a new line of conduct in Atjeh, closing the era of [[Dutch Policy of 'Concentration'|the Concentration]], and after mature deliberation gave effect to the appointment of Colonel [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] as Governor of Atjeh.
+
+### The new line in Atjeh, 1896–1898
+
+After the defection of Teukoe Oemar in March 1896, an extraordinary meeting of the [[Council of the Indies]], called by the Governor-General, resolved that the direction of affairs in Atjeh could no longer remain entrusted to Governor [[General Deykerhoff|C. Deykerhoff]], who was honourably discharged. Army commander [[General Vetter|J. A. Vetter]] acted as Government Commissioner; on his return to Batavia on [[28 June]] [[1896]] effect was given to his insights — an unbroken development of power outside the concentrated line, sustained by three mobile columns, the extension of the [[Atjeh Tram|tramways]] to the new encampments, and the application everywhere of the [[Scheepvaartregeling|shipping regulation]]. Langhout counts it one of Governor-General Van der Wijck's great merits that, at the application of his system, he caused the economic interests of land and people of Atjeh to be cared for as greatly as the military: in [[1897]] the population of the Sagi of the [[XXV Moekims]] was registered; in [[1898]] the government supported the founding of *pasars* (markets) in several moekims, revived agriculture and took up road- and bridge-building in the Sagi of the [[XXVI Moekims]], instituted a native court under the civil magistrate, and gave out coffee seed to the several *oelèèbalangs* for planting on the yards — so that the [[Koloniaal Verslag|Colonial Report]] over 1898 could report the state of the province as favourable.
+
+### Appointment of Van Heutsz
+
+In the years 1896–1898 Dr. C. [[C. Snouck Hurgronje|Snouck Hurgronje]] advised him on the choice of a new governor, recommending Colonel J. B. van Heutsz. Langhout writes that even the superficial reader of colonial history will come to the conviction that Governor-General Van der Wijck took the decision only after ripe deliberation and after accurate study of the advices received; shortly before the beginning of the [[Pidië]] expedition Van Heutsz took office as Civil and Military Governor.
+
 ## See Also
 
 - [[C. Snouck Hurgronje]]
@@ -124,6 +137,8 @@ Van der Wijck held the government "in accordance with the intention" until he be
 - [[Groot-Atjeh]]
 - [[Concentratie-stelsel (1884-1896)]]
 - [[1893]]
+- [[General Vetter|J. A. Vetter]]
+- [[Dutch Policy of 'Concentration'|The Concentration in Atjeh (1884-1898)]]
 
 ## Source
 
@@ -132,3 +147,5 @@ Van der Wijck held the government "in accordance with the intention" until he be
 H. T. Damsté, "Drie Atjeh-Mannen: Snouck Hurgronje — Van Heutsz — Van Daalen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), overdruck, pp. 356–375.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter VIII.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 73–75, 77–80.

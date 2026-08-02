@@ -1,7 +1,7 @@
 ---
 title: Siak tractate of 1 February 1858
-aliases: [Siak contract of 1 February 1858, Siak tractate 1858, Traktaat van Siak 1 Februari 1858, Siak-Contract 1858, Siak aan het Gouvernement opgedragen 1858, Tongkoe Ismail tractate 1858]
-tags: [event, document, treaty, colonial, dutch, malay, sumatra, oostkust-van-sumatra, buitenbezittingen, siak, tamiang]
+aliases: [Siak contract of 1 February 1858, Siak tractate 1858, Traktaat van Siak 1 Februari 1858, Siak-Contract 1858, Siak aan het Gouvernement opgedragen 1858, Tongkoe Ismail tractate 1858, "Contract with the Sultan of Siak 1858", "Siak contract", "Renewal of Atjehnese claims upon Siak"]
+tags: [event, document, treaty, colonial, dutch, malay, sumatra, oostkust-van-sumatra, buitenbezittingen, siak, tamiang, "diplomacy", "19th-century"]
 ---
 
 **The Siak tractate of 1 February 1858** — the political contract by which [[Tongkoe Ismail|Sultan Tongkoe Ismail of Siak]] formally ceded his realm to the [[Netherlands-Indies Government|Nederlandsch-Indisch Gouvernement]] — was, in the Encyclopaedisch Bureau's survey of the [[Buitenbezittingen|Outer Possessions]], the foundational diplomatic instrument by which the Dutch colonial state acquired formal sovereignty over the [[Siak|Siak sultanate]] and its dependencies, including — at the northern limit — the East Coast statelets up to the [[Tamiang|Tamiang River]]. The tractate was the formal sequel to the Dutch intervention against the British adventurer [[Wilson|Wilson]] in [[Siak|Siak]], and it served, in the Bureau's account, as the legal basis for the [[langkat-appeal-to-siak-against-atjeh-(1862)|1862 Langkat appeal to Siak]] and for the [[Netscher|Netscher]] mission of the same year.
@@ -28,6 +28,18 @@ The [[1858]] tractate was also the legal basis of the [[langkat-appeal-to-siak-a
 
 The [[1858]] tractate is, in the Encyclopaedisch Bureau's survey, the diplomatic foundation of the Dutch East Coast state. It transfers [[Siak|Siak]] from a Siak sphere of influence to the Dutch colonial state; it fixes the [[Tamiang|Tamiangrivier]] as the northern limit of the Siak Dependencies (and hence of the Dutch sphere); and it provides the legal basis for the [[langkat-appeal-to-siak-against-atjeh-(1862)|1862 Langkat appeal]] that would, within four years, extinguish [[atjeh-as-opperheer-in-langkat-deli-serdang-(1854)|Atjehnese overlordship over the East Coast]]. The tractate is thus the hinge between the [[atjehsche-overheersing-der-noordelijke-kuststaatjes|pre-colonial Atjehnese overlordship of the East Coast]] and the colonial era of Dutch effective authority.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+The **Dutch treaty with the Sultan of Siak** of [[1858]] — by which that ruler placed his realm, which had formerly belonged to [[Acheh|Atjeh]] but had loosened itself from it since [[1705]], with all his dependencies "strekkende tot de Tamiangrivier" ("stretching to the [[Tamiang]] river") under Netherlands supremacy — called forth the Atjehnese Sultan's sudden memory of his lapsed claims, and with it the chain of incidents that led toward the [[Acheh War]].
+
+### The contract and the Atjehnese reaction
+
+"'t Ging goed... tot 1858!" — the [[Treaty of 1857 between Netherlands and Aceh|treaty of 1857]], concluded by General [[Jan van Swieten|J. van Swieten]] with Sultan [[Sultan Ibrahim Mansur Shah|Ibrahim Mansur]], had worked well until 1858, when the Netherlands Indian Government concluded a contract with the [[Sultan of Siak]]. And then it was, writes author [[J. Langhout|Joh. Langhout]], that the Sultan of Atjeh suddenly remembered that he could assert his claims — lapsed already more than a century before — upon Siak and Dependencies. "Aanspraken, die natuurlijk onzerzijds niet werden erkend" ("Claims which naturally were not recognized on our side").
+
+### Consequences
+
+The consequence was several utterances of a less good understanding, among them a firing by the Atjehnese upon [[Batoe Baroe]], and as second consequence a Dutch [[Dutch expedition to the North-East Coast of Sumatra (1865)|expedition in 1865]] to the North-East coast, which brought order, but no improvement of the disposition of the inhabitants of the Atjehnese border states.
+
 ## See Also
 
 - [[Siak]]
@@ -52,7 +64,13 @@ The [[1858]] tractate is, in the Encyclopaedisch Bureau's survey, the diplomatic
 - [[1866]]
 - [[1878]]
 - [[1908]]
+- [[Treaty of 1857 between Netherlands and Aceh|Treaty of 1857 with the Sultan of Atjeh]]
+- [[Dutch expedition to the North-East Coast of Sumatra (1865)]]
+- [[Sultan Ibrahim Mansur Shah|Sultan Ibrahim Mansur]]
+- [[Acheh War]]
 
 ## Source
 
 *De Buitenbezittingen, Deel II, Afl. 3: Oostkust van Sumatra. Eerste Stuk*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, [[1918]]), p. 114. Universiteitsbibliotheek Vrije Universiteit Amsterdam, shelfmark LS.08781.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 17–18.

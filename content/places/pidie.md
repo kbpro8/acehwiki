@@ -33,6 +33,9 @@ aliases:
 - Pidie region
 - the Pedir region
 - Pedirse (region)
+- "Pidie"
+- "Pidië (federation)"
+- "Federatie Pidië"
 tags:
 - place
 - north-east-coast
@@ -84,6 +87,8 @@ tags:
 - meureudoe
 - aceh-proper
 - oil
+- "federation"
+
 ---
 
 The major North Coast territory and kingdom. 'The Achehnese give the name of Pidie to the whole of the territory which formerly belonged to the kingdom of that name, i.e. almost the whole of the North Coast with its hinterland.' Pidie is historically known as a seat of religious learning: 'Thus most of the learned in Great [[Acheh]] have spent the greater part of their student life in Pidie, while vice versa the studiously inclined in Pidie and on the East Coast amass their capital of knowledge in Great [[Acheh]].' The centres of learning in Pidie before the Dutch included [[Langga and Langgo]], [[Langga and Langgo]], [[Sriweue]], [[Simpang]], and [[Ie Leubeue]] (= Ayer Labu). [[Tiro]] in Pidie was 'sanctified by the presence of so many living ulamas and the holy tombs of their predecessors.' Heretical mysticism (eleumee sale) also flourished in Pidie. In the [[Hikajat Malém Dagang|Hikayat Malem Dagang]], 'The first place touched at is Pidie (vulg. Pedir), the panglima of which is handed down to fame as the bravest and most distinguished of generals.' The [[Hikayat Pochut Muhamat]] describes [[Pochut Muhamat]]'s tour through Pidie gathering allies: he visited [[Padang Tiji|Padang Teuji]], [[Reubee]], and eventually won over [[Pangulee Beunaroe]], the powerful uleebalang of the IX Mukims. The sadati kisah describes Pidie as forming a square with four uleebalangs holding power: 'The X Mukims are subject to Bentara Keumangan; Teungku Sama Indra rules the VIII Mukims; The La'seumana is a fatherless child; he rules the XXII Mukims; The V Mukims are under the control of Teungku Ujong
@@ -266,6 +271,18 @@ Pidië was, after [[Groot Atjeh]], the most important theatre of the Atjeh war: 
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 124, 178.
 *Atjèh*, by J. Kreemer, vol. II ([[1923]]), pp. 578 vg.
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 9 (Table 4: Oil production in 1940 and 1941, North Sumatra fields), p. 9 (Lho Sukon deepest exploratory drilling).
+
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Pidië** was the great rice federation of Atjeh's North Coast, watered by the Pidië river on whose watershed with the [[Atjeh River]] valley the mountain tramway was later projected, and the region whose thousands of smallholders — "Pidireezen" — swelled the East Coast pepper gardens in [[1891]] and whose tract, closed to the coasting trade, was relieved by the [[Sigli]] licence system of July [[1894]].
+
+### The rice land
+
+The federation Gighèn — itself a part of the Pidië region — devoted itself from [[1890]] so successfully to rice culture that it became the granary ("voorraadschuur") of the federation Pidië and could even spare rice for Groot-Atjeh; the yield of the sawahs of the North Coast in general sufficed for the population's need. When the Pidië tract was closed for the coasting trade, its people took recourse to clandestine transport over land to [[Meureudoe]] and thence by sea to [[Lho Seumawè]], until the temporary licence system introduced at Sigli in July [[1894]] with an extraordinary *hacil* on the export of products gave relief. In [[1891]] thousands of Groot-Atjehers and Pidireezen travelled to the East Coast of Atjeh to work in the pepper gardens and to return home with well-filled purses — a proof for Langhout that the Atjehnese farmer "geenszins van ondernemingsgeest ontbloot is" ("is by no means devoid of enterprise").
+
+### Administration and the mountain line
+
+Under Governor [[H. N. A. Swart|Swart]] the assistant-resident of Pidië had his government office at [[Sigli]] (photo caption: "Bestuurskantoor van den assistent-resident van Pidië te Sigli"). The mountain tramway connecting Groot-Atjeh with the coastal net, projected from [[1898]] from [[Seulimeum]] over the watershed between the valleys of the Atjeh river and the Pidië river, was definitively carried out in two sides from [[1903]] and in limited service from [[15 September]] [[1908]] (see [[Atjeh Tram]]).
 
 ## See Also
 
@@ -478,6 +495,10 @@ Pidië was, after [[Groot Atjeh]], the most important theatre of the Atjeh war: 
 - [[Van Bemmelen's The Geology of Indonesia (1949)]]
 - [[1940]]
 - [[1941]]
+- [[Gigiëng]]
+- [[Atjeh Tram]]
+- [[Pepper cultivation and trade in Atjeh]]
+- [[Agriculture in Atjeh]]
 
 ## Source
 
@@ -490,3 +511,5 @@ Pidië was, after [[Groot Atjeh]], the most important theatre of the Atjeh war: 
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters III, IV, XI, XII, XIII, XVI, pp. 18–20, 106–109, 117–121, 132, 135, 150.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 65–66, 71, 135–138, illustration caption p. 180.

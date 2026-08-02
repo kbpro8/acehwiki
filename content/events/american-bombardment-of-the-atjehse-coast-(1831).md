@@ -1,7 +1,7 @@
 ---
 title: American bombardment of the Atjehse coast (1831)
-aliases: [1831 American bombardment of Atjeh, American punitive action against Atjeh 1831, USS bombardment of Atjehse coast 1831]
-tags: [event, military, naval, american, aceh, piracy, colonial, pre-aceh-war]
+aliases: [1831 American bombardment of Atjeh, American punitive action against Atjeh 1831, USS bombardment of Atjehse coast 1831, "American punitive expedition against Kuala Batee", "Koeala Batië 1831"]
+tags: [event, military, naval, american, aceh, piracy, colonial, pre-aceh-war, "19th-century"]
 ---
 
 The **American bombardment of the Atjehse coast** of [[1831]] was a punitive naval action by the United States against the [[Achehnese|Atjehse]] coastal population, undertaken in retaliation for Atjehese piracy against American merchant shipping and explicitly framed by the American government as a punishment of the Atjehse coast population for its piracy and its failure to respect Dutch sovereignty over the [[Acheh|Atjeh]] polity. The action is recorded by [[J. Frijling|Ir. J. Frijling]] in his [[1946]] sketch *Een stukje geschiedenis der Indische Buitengewesten* as one of the two nineteenth-century precedents — the other being the [[Bombardment of the Atjehse coast by the British (1844)|British bombardment of 1844]] — for the use of foreign naval force against the Atjehse coast in the absence of effective Dutch authority.
@@ -22,6 +22,14 @@ Frijling gives no detail of the warship, the commanding officer, or the precise 
 
 The [[1831]] American bombardment, together with the [[Bombardment of the Atjehse coast by the British (1844)|British bombardment of 1844]], is one of the two precedents for foreign naval action against the Atjehse coast in the period between the [[Anglo-Dutch Treaty of London|Verdrag van Londen]] of [[1814]] and the [[Anglo-Dutch Treaty of 1824|Sumatra-contract]] of [[1871]]. Both actions illustrate the international pressure on the Dutch to suppress Atjehese piracy and slavery — pressure that ultimately led to the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1904]]. The American framing of the action as a punishment "ontkennende der Nederlandse souvereiniteit" is particularly pointed: it asserts that, whatever the paper claims of the [[Anglo-Dutch Treaty of London|1814 treaty]], the Atjehse coast was, in the view of the American government, not effectively under Dutch sovereignty and therefore open to direct foreign retribution.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+The **American chastisement of Kuala Batee** in [[1831]] was the appearance of an American warship before [[Koeala Batië]] on the coast of [[Acheh|Atjeh]] — after an American merchant ship had been cut off (*afgeloopen*) by the Atjehnese coastal population in the preceding year — "to make clear to the Atjehnese how in future sea-robbery would be punished".
+
+### The plundering and the retribution
+
+In [[1831]], author [[J. Langhout|Joh. Langhout]] writes, "the zeeschuimers made it too wild": after in the foregoing year an American merchant ship had been cut off by the Atjehnese coastal population, suddenly an American man-of-war appeared before Koeala Batië, to show the Atjehnese how in the sequel sea-robbery would be punished. The chastisement worked at first wholesomely. Atjeh had long been tormented by internal feuds and exploitative chiefs; sea-robbery, strand-robbery and plundering of merchant ships — the crews too often the victims — had increased hand over hand, until the growing insecurity called forth this first foreign naval action on the coast. Neither for the Dutch flag had the Atjehnese much awe: [[Baros]] had much to suffer, and in [[1836]] came the loss of the schooner *[[Schooner Dolphijn incident (1836)|Dolphiijn]]*; in [[1840]] followed the expulsion of the Atjehnese from Baros and [[Singkel]], and in [[1844]] English warships chastised Koeala Batië and [[Koeala Meureudoe]] anew (see [[Bombardment of the Atjehse coast by the British (1844)|British chastisement of Kuala Batee and Kuala Meureudoe (1844)]]).
+
 ## See Also
 
 - [[Bombardment of the Atjehse coast by the British (1844)]]
@@ -41,7 +49,11 @@ The [[1831]] American bombardment, together with the [[Bombardment of the Atjehs
 - [[1844]]
 - [[1871]]
 - [[1873]]
+- [[Sea robbery on the Atjeh coast]]
+- [[Schooner Dolphijn incident (1836)|Dolphiijn affair (1836)]]
 
 ## Source
 
 J. Frijling, *Een stukje geschiedenis der Indische Buitengewesten, voor wie dat niet overbodig mocht zijn* (1946), pp. 1–2. Koninklijke Bibliotheek shelfmark 0465 0898.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 15–16.

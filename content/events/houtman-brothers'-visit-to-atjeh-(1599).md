@@ -1,8 +1,7 @@
 ---
 title: "Houtman brothers' visit to Atjeh (1599)"
-aliases: ["Houtman's first visit to Atjeh", "Atjeh ambush 1599", "Houtman brothers Atjeh 1599", "Eerste Nederlandsche bezoeken aan Atjeh", "Murder of Cornelis de Houtman in Atjeh (1599)", "De Houtman's death in Aceh", "Atjeh massacre of 1599", "First Dutch Voyage to Aceh (Cornelis de Houtman)", "Cornelis de Houtman's voyage to Aceh", "De Houtman's Atjeh Expedition", "1599 Aceh Expedition"]
-
-tags: [event, dutch, colonial, precolonial, atjeh, trade, diplomacy, 1599, houtman, netherlands-east-indies, conflict, exploration]
+aliases: ["Houtman's first visit to Atjeh", "Atjeh ambush 1599", "Houtman brothers Atjeh 1599", "Eerste Nederlandsche bezoeken aan Atjeh", "Murder of Cornelis de Houtman in Atjeh (1599)", "De Houtman's death in Aceh", "Atjeh massacre of 1599", "First Dutch Voyage to Aceh (Cornelis de Houtman)", "Cornelis de Houtman's voyage to Aceh", "De Houtman's Atjeh Expedition", "1599 Aceh Expedition", "First Dutch voyage to Atjeh", "First Dutch appearance at Atjeh", "De Houtman at Atjeh"]
+tags: [event, dutch, colonial, precolonial, atjeh, trade, diplomacy, 1599, houtman, netherlands-east-indies, conflict, exploration, "voyage", "16th-century"]
 ---
 
 **The Houtman brothers' visit to Atjeh of 1599** — the first Dutch visit to the *rijk* [[Atjeh|Atjeh]] on Sumatra, conducted by the brothers **[[Cornelis Houtman|Cornelis Houtman]]** and **[[Frederik Houtman|Frederik Houtman]]** in two Zeeland ships in the summer of [[1599]] — ended in ambush, the killing of most of the crew, and the captivity of Frederik Houtman at the Atjehnese court, and is the opening Dutch-Atjehnese encounter of the [[De Kleine Oosterling|school-textbook]] narrative of Atjeh history. The visit is the *terminus a quo* of Dutch-Atjehnese relations — the first in a sequence of encounters that would culminate in the [[Aceh War|Atjeh-oorlog]] of [[1873]]–[[1903|1903]].
@@ -45,6 +44,18 @@ The surviving Dutch ships fled to the nearby port of [[Pedir]] to attempt a resc
 
 The Houtman brothers' visit of [[1599]] is, in the [[De Kleine Oosterling|school-textbook]] narrative, the *terminus a quo* of Dutch-Atjehnese relations, and the staff history's principal instance of the *trouwelooze* character of the Atjehnese in the Dutch school-textbook imagination. The visit's framing — initial welcome followed by ambush — sets the moral arc that the rest of the school reader's Atjeh lessons will follow: the Atjehnese are *trouwelooze* until proven *gunstig*, and the Dutch-Atjehnese relationship is one of perpetual vigilance. The visit also produced the first Dutch captive at the Atjehnese court — Frederik Houtman — whose two-year captivity is the staff history's principal instance of the early-modern Dutch experience of Atjehnese imprisonment.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+The **De Houtman brothers' voyage to Atjeh** of July [[1599]] — the first appearance of the Dutch at the sultanate — ended in poisoned drinks, a surprise attack by the Sultan's bands which cost [[Cornelis de Houtman]] and 68 sailors their lives and left [[Frederik de Houtman]] a prisoner, and in the empty-handed return of the ships in July [[1600]]; it opened the long record of Dutch-Atjehnese relations which author [[J. Langhout|Joh. Langhout]] traces to the war of [[1873]].
+
+### Arrival and attack
+
+In July 1599 the brothers Frederik and Cornelis de Houtman, after a somewhat unprosperous voyage, cast anchor in the roadstead of [[Acheh|Atjeh]], their ships in the service of the Zealand shipowner [[De Moucheron]]. The Sultan had been warned beforehand of the coming of the new traders, and his disposition toward the Hollanders was sufficiently determined, thanks to the Portuguese, who did not fail to set him on against these new "indringers" ("intruders"). The consequences did not fail to come: at a visit of the *sjahbander*, or harbour-master, to the Dutch ships, the Dutch sailors were partly rendered harmless by means of poisoned drinks, and bands of the Sultan made an unexpected attack, which could be beaten off — at the cost, however, of the life of Cornelis de Houtman and 68 men of the crew. Frederik de Houtman fell into captivity, and all attempts of the crews of the Dutch ships to liberate their commander failed: in July [[1600]] the Dutch ships returned to the mother country empty-handed and with heavy losses.
+
+### The Van Caerden sequel
+
+Admiral [[Paulus van Caerden]], a companion of [[Pieter Both]] come to the Indies for the account of some [[Brabant]] shipowners, underwent "a second, less friendly treatment". Again the Sultan, at the instigation of the Portuguese, attempted an assault; but he reckoned without his host — in this case without Frederik de Houtman, who, having learned of the plans, escaped from captivity and warned the admiral, so that the plot miscarried without loss of life. Frederik then placed himself anew in the Sultan's hands to plead his countrymen's interests, trusting in Van Caerden's help; the admiral, however, seized four ships belonging to Arabs and left the coast, abandoning the captives. Both the captives and the Dutch-Atjehnese friendship were saved by the arrival of the ships of the [[Middelburg]] fleet (see [[Atjèh embassy to Prince Maurits (1601)|Dutch-Atjehnese alliance and embassy to Prince Maurice (1601-1602)]]).
+
 ## See Also
 
 - [[De Kleine Oosterling]]
@@ -66,9 +77,15 @@ The Houtman brothers' visit of [[1599]] is, in the [[De Kleine Oosterling|school
 - [[1598]]
 - [[1599]]
 - [[1601]]
+- [[Cornelis de Houtman]]
+- [[Frederik de Houtman]]
+- [[Atjèh embassy to Prince Maurits (1601)|Dutch-Atjehnese alliance and embassy to Prince Maurice (1601-1602)]]
+- [[Acheh]]
 
 ## Sources
 
 *De Kleine Oosterling — Iets uit de Geschiedenis van Nederlandsch-Indië. Leesboekje voor de Lagere Scholen*, door J. Wijma, Tweede Druk (Kampen: Laurens van Hulst, 1901), Les 3 ("Een gezantschap").
 
 *Coen: Koopman van Heeren Zeventien. Geschiedenis van den Hollandschen Handel in Indië (1598—1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. de Boer Jr., 1948), pp. 109-111.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 10–13.

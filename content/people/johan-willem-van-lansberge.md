@@ -9,6 +9,7 @@ aliases:
 - Governor-General Van Lansberge
 - Gouverneur-Generaal van Lansberge
 - L. A. J. W. van Lansberge
+- "Landvoogd Van Lansberge"
 tags:
 - person
 - governor-general
@@ -96,6 +97,24 @@ Van Lansberge's administration is often seen as a transitional period between th
 
 Van Lansberge demonstrated how a Governor-General could maintain policy continuity despite rapid ministerial changes. His handling of [[Aceh]] — combining military aggression with pragmatic negotiation — established the foundation for eventual pacification under [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] and [[C. Snouck Hurgronje]]. His financial and administrative reforms contributed to the modernisation of the colonial state. His decision to replace military with civil governance in [[Aceh]] represented a significant shift in colonial policy.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**J. W. van Lansberge** was the Governor-General of the Netherlands Indies who paid the first Governor-General's visit to [[Acheh|Atjeh]] in March [[1877]], who as Landvoogd ("Landvoogd") introduced civil government in the province by the resolution of [[11 March]] [[1881]], and who on that occasion assured Lieutenant-General [[General van der Heijden|Karel van der Heijden]] that "the crown was set upon the building" raised by the Indian army.
+
+### Visit to Atjeh, March 1877
+
+In March [[1877]] the then Governor-General Mr. J. W. van Lansberge paid his first visit to Atjeh, the occasion lying inter alia in the solution of certain questions of a hygienic and financial nature in which the weightiest interests of the country were involved. He was accompanied by the General Secretary and a considerable retinue, including several prominent native chiefs of [[Java]]. A steamer of the [[Nederlandsch-Indische Stoomboot Maatschappij]], escorted by the warships *Prins Hendrik*, *Brouw*, *Borneo* and *Sambas*, brought the Landvoogd to Oelèë Lheue on [[14 March]]. He stayed twelve days in Atjeh, inspected several establishments and works, held daily conferences with the authorities on administrative matters, and before his departure convened an assembly of all the chiefs of the [[XXV Moekims]] and of the coast states then present.
+
+In an address to those chiefs, interpreted by Assistant-Resident [[R. C. Kroesen]], the Landvoogd pointed to the beneficent object aimed at by the establishment of Dutch authority and called on them to cooperate powerfully to that end, with which their own interests were most closely bound up; he authorized them in his name to inform the chiefs still in resistance that all who would then willingly submit would be maintained in their authority. The solemn assembly, which made a deep impression on all chiefs present, was closed with the presentation of gifts and of flags and acts of recognition to the chiefs of the coast states who had not yet received them.
+
+### Strategic decision
+
+The words and deeds of the Landvoogd were closely connected with the conviction that a further extension of the strategic position in Groot-Atjeh was no longer expedient, and that military operations had to be confined to armed action against the Dependencies. The submissions of [[Simpang Oelèm]] and [[Tandjong Seumantoh]], of [[Langsa]] and [[Modjopahit]], of [[Rigaih]] and adjacent landscapes, gave occasion to expect that Netherlands trade would profit by the opportunity of entering into relations with the principal Atjehnese pepper harbours.
+
+### Introduction of civil government, 1881
+
+Using the authorization granted the year before by the Supreme Government, Van Lansberge as Landvoogd determined by resolution of 11 March [[1881]] that a chief official with the title of governor should henceforth stand at the head of the province of Atjeh. Lieutenant-General [[General van der Heijden|K. van der Heijden]] was honourably discharged and [[A. Pruijs van der Hoeven]] appointed in his place, with Colonel [[J. F. Haus]] as military commandant, both taking office on [[6 April]] [[1881]]. Van Lansberge closed his letter to Van der Heijden on the introduction of the civil government with the words: "In werkelijkheid wordt daardoor de kroon gezet op 't gebouw door den heldenmoed en de toewijding van het Indische leger onder Uwer Excellenties krachtige leiding opgetrokken" ("In reality the crown is thereby set upon the building erected by the heroism and the devotion of the Indian army under Your Excellency's vigorous leadership"), offering him the expression of appreciation and the thanks of the Government — a crown which, as author [[J. Langhout|Joh. Langhout]] remarks, all too soon proved not to fit.
+
 ## See Also
 
 - [[J. Loudon]]
@@ -141,6 +160,11 @@ Van Lansberge demonstrated how a Governor-General could maintain policy continui
 - [[Kroeng Raya]]
 - [[Buitenzorg]]
 - [[1875]]
+- [[Governor-General Van Lansberge's visit to Atjeh (March 1877)]]
+- [[General van der Heijden|Karel van der Heijden]]
+- [[Establishment of Civil Government in Aceh (6 April 1881)|Introduction of civil government in Atjeh (1881)]]
+- [[R. C. Kroesen]]
+- [[Government of Atjeh en Onderhoorigheden]]
 
 ## Account from *De Atjeh-Oorlog* by J.A. Kruijt (1896)
 
@@ -160,3 +184,5 @@ Kruijt reserves his sharpest criticism for Van Lansberge's role in the displacem
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapters IV, VII, VIII. pp. 19–20, 36–38.
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. p. 304.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 35–36, 42–43.

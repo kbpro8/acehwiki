@@ -16,6 +16,10 @@ aliases:
 - Tramway construction Atjeh
 - Tram-aanleg Atjeh
 - Atjeh tram line
+- "Atjeh-tram"
+- "Atjeh stoomtram"
+- "Atjeh State Railway"
+- "Atjehsche stoomtram"
 tags:
 - organization
 - colonial
@@ -43,6 +47,8 @@ tags:
 - tram
 - concept
 - acheh
+- "government"
+
 ---
 
 **The Atjeh-tram** was the military-origin tramway of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] that, by [[1917]], had become the principal transport artery of the *gewest* — connecting [[Koeta Radja|Koeta Radja]] and [[Oelèë Lheuë|Oelèë Lheuë]] with Indragiri and Seulimeum and, beyond the Goudberg-hoogvlakte, with the principal bevolkings-centra of the Noord- and Oostkust as far as [[Koeala Simpang|Koeala Simpang]] and [[Besitang|Besitang]]. Operated as the *Dienst der S.S.* (Staatsspoorwegen) under the Department van Gouvernements-Bedrijven, the Atjeh-tram had, *De Buitenbezittingen* records, "haar militaire rol reeds geheel losgelaten" — already entirely shed its military role — and now possessed "in de voornaamste plaats economische beteekenis."
@@ -190,6 +196,34 @@ Swart used the tram for administration as well: he toured with [[Liefrinck]] in 
 *DLP-84-Atjeh.pdf*, p. 8.
 H. T. Damsté, "Drie Atjeh-Mannen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), overdruck, p. 361.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+The **Atjeh Tram** was the government narrow-gauge steam tramway of [[Acheh|Atjeh]] — begun with the five-kilometre line [[Oeleë Lheuë|Oelèë Lheue]]–[[Koeta Radja]] approved on [[26 June]] [[1874]], extended down the North and East Coasts to [[Besitang]], where at the end of December [[1919]] it joined the [[Deli Spoorweg Maatschappij|Deli railway]] to form a through rail connection of 510 kilometres from [[Tandjong Balei]] to Koeta Radja — and remembered by author [[J. Langhout|Joh. Langhout]] as one of the chief instruments of the [[Pacification of Atjeh|pacification]]: "vast staat dat de Atjehtram ten volle heeft beantwoord aan het doel ... nl. een afdoende pacificatie der Atjehgebieden" ("certain it is that the Atjeh tram fully answered its purpose, namely an effective pacification of the Atjeh regions").
+
+### The first line, 1874–1876
+
+On [[26 May]] [[1874]] a commission came into being — Assistant-Resident [[R. C. Kroesen|Kroesen]], the chief engineer-officer present, and Lieutenant-at-sea [[J. P. Mercier]] — charged with investigating what the Government had to do for the improvement of the means of communication; on 26 June the Netherlands Indian Government approved the proposal of a môle of iron screw-piles at Oelèë Lheue, an adjoining railway with steam traction to Koeta Radja, and a telegraphic connection between both places. The môle was ready in [[1875]]; only in [[1876]], for the delayed material, could the line (not yet 5 km; gauge 1.067 m as on [[Java]]; cost f 540,000 including f 138,000 rolling material) be opened to public traffic. The telegraph Koeta Radja–Oelèë Lheue had entered service on [[20 March]] [[1875]].
+
+### Narrow gauge and the line of posts
+
+Plans for carrying the line to [[Glé Kambing]] on the left bank of the [[Atjeh River]] had to be fitted to the 6-metre column road; a gauge of 0.75 m was therefore chosen, leaving a free, hardened road of 3.45 m beside the track, and the gauge of the existing stretch was likewise reduced to 0.75 m, the line being exploited as a tramway from June [[1884]]. In [[1883]] construction began toward Lambaroe (opened 1884); when in [[1885]] the force was withdrawn within the line of fortifications around [[Koeta Radja]] (running from the post Koeta Pohama over Lambaroe to the blockhouse Sabang), a connecting line between [[Keutapang Doea]] and Koeta Radja (over 16 km) was opened in 1885 along the posts, and in June [[1886]] a third radial line Koeta Radja–Lam Njong with branches Tongah–Peukan Kroeeng Tjoet and to the hospital at Panté Pirah. In October [[1889]] part of the tram-line from Lam Reueng to Lambaroe was closed for repeated damage by hostile bands (reopened after the destruction stopped); trains had to be preceded by a loose inspection locomotive, repairs being made under military cover, and derailments with heavy loss of life occurred.
+
+### Extension under the new system
+
+The [[1896]] turn (three mobile columns outside the concentrated line) was matched by tramway extension: from June [[1897]], Lambaroe–Glé Kambing opposite [[Indrapoeri]] (c. 15 km; opened November 1897); from January [[1898]], onward to [[Seulimeum]] (c. 18 km, opened [[1 November]] [[1898]]); in 1897 the superfluous parts of the older lines were broken up and new branch lines laid; by [[1901]] the Groot-Atjeh net measured 58 kilometres, with station-yard and workshops at Koeta Radja extended. The line [[Sigli]]–[[Kudéé Brueuk]] (18 km) opened in [[1899]]; funds for Sigli–[[Lho Seumawè]] came with the budget of [[1900]] (built from both ends, the middle in [[Samalanga]] being inaccessible, delayed by bandjir-floods washing away three iron bridges; completed April [[1904]]; branch Beureunoen–Lam Meulō, 5 km, added [[1913]]); with the budget of 1901 came Lho Seumawè–[[Idi]], a proposed line from the [[Aroebai|Aroe-baai]] having been rejected.
+
+### The mountain line, 1903–1908
+
+The connection over the watershed, planned by Governor [[Joannes Benedictus van Heutsz|Van Heutsz]] in 1898 and estimated by chief engineer [[A. E. Wijss]] at over three million guilders, obtained its provisional design in [[1902]] (Seulimeum–[[Kudéé Brueuk]]), was begun on both sides in [[1903]] through dry and unhealthy country, and opened to a limited service on [[15 September]] [[1908]] — joining the two nets, whereafter the [[Koeta Radja]] workshops were closed and [[Sigli]]'s were extended (locomotive and carriage sheds, foundry, smithy, lathe-shop and magazines).
+
+### To the Deli frontier
+
+The connection with the Deli railway was already discussed under Van Heutsz. In July [[1910]] funds came for [[Langsa]]–[[Koeala Simpang]] (opened 1912); [[1914]] brought the opening Koeala Simpang–[[Soengei Lipoet]]; at the end of [[1915]] the construction reached [[Besitang]] on the border of Atjeh and Sumatra's East Coast (opened to traffic in [[1916]]); and in [[1917]] a branch of three rails — for both the 0.75 m gauge and the 1.067 m gauge of the Deli railway — was laid from Besitang to [[Pangkalan Soesoe]] on the Aroe-baai, so that Deli material from [[Pangkalan Brandan]] could run to [[Teloktaboehan]]. At the end of December [[1919]] the "missing link" was made by the Deli railway's own extension from Pangkalan Brandan to Besitang: "zoodat thans een rechtstreeksche verbinding bestaat van Tandjong Balei, ter Oostkust van Sumatra, tot Koeta Radja, een afstand van niet minder dan 510 kilometer".
+
+### Administration and exploitation
+
+Peculiarly, the tram served during its first almost fifty years under three different bodies: the engineers ([[Genie]]), who had largely built it; from [[1882]] the Department of Civil Public Works (*Burgerlijke Openbare Werken*); from [[1890]] again the Department of War; and from [[1 January]] [[1916]] the Government Enterprises (State Railways / *Gouvernementsbedrijven*). The total length of the Atjeh line amounts to 450 kilometre plus several branch lines; locomotives develop a maximum speed of 40 km/h with train-weights of 100–120 tons, fuel changing from Ombilin coal to *bakobako*-wood; the rolling stock includes water-tank wagons, director and inspection saloons, first-, second- and third-class carriages, sick-carriages, hearses, closed and open goods wagons and cattle wagons. The exploitation long ran at a loss (the land traffic ran free of charge and there was no hinterland), but the paying traffic rose from over f 37,000 (mid-[[1908]]) to f 77,000 ([[1914]]) and f 97,000 ([[1918]]). Langhout took the data from the Colonial Reports, from an article by Ir. [[J. H. Müller]] in the *Indisch Tijdschrift voor Spoor- en Tramwegen*, and from particulars and photographs of Ir. [[J. H. Caspers]], old chief of construction of the Atjeh tram.
+
 ## See Also
 
 - [[Atjehweg]]
@@ -262,6 +296,9 @@ H. T. Damsté, "Drie Atjeh-Mannen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang 
 - [[Concentratie-stelsel (1884-1896)]]
 - [[Geconcentreerde linie]]
 - [[Atjeh-oorlog (1873-1904)]]
+- [[Oeleë Lheuë|Oelèë Lheue]]
+- [[Lho Seumawè]]
+- [[Dutch Policy of 'Concentration'|The Concentration in Atjeh (1884-1898)]]
 
 ## Source
 
@@ -281,3 +318,5 @@ D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst v
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim; *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), for the Koloniaal Instituut and Handelsmuseum.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IX, pp. 90–91; Chapter X, p. 97; Chapter XI, pp. 107–109; Chapter XII, p. 121; Chapter XIII, p. 131; Chapter XVI, p. 149; Chapter XVII, p. 161.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 31, 63, 91, 124–125, 131–140 (chapter "De Atjeh-Tram"), illustration captions pp. 131, 135.

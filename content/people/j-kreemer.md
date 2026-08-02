@@ -1,7 +1,7 @@
 ---
 title: J. Kreemer
-aliases: [J. Kreemer (author of Atjeh), J. Kreemer (author of De Karbouw), J. Kreemer, Johannes Kreemer, Kreemer, Mr. J. Kreemer]
-tags: [person, scholar, colonial, dutch, ethnographer, manuscript, 20th-century]
+aliases: [J. Kreemer (author of Atjeh), J. Kreemer (author of De Karbouw), J. Kreemer, Johannes Kreemer, Kreemer, Mr. J. Kreemer, "Dr. J. Kreemer", "Justus Kreemer"]
+tags: [person, scholar, colonial, dutch, ethnographer, manuscript, 20th-century, "author"]
 ---
 
 **J. Kreemer** was a Dutch colonial official, ethnographer and manuscript researcher who served as a *Kontroleur B.B.* on [[Sumatra's Westkust]] in the early twentieth century, later as **Archivaris van het [[Atjèh Instituut|Atjèh Instituut]]** (Archivist of the Atjèh Institute), and authored the two-volume monograph [[Kreemer's Atjeh (1922‑23)|*Atjeh* (1922‑23)]] and the comparative work [[Kreemer's De Karbouw (1956)|*De Karbouw* (1956)]]. He also documented the scarcity of an Acehnese manuscript of the *Burda* attributed to the author of the *Nalam Mo'lôt*. His career exemplifies the typical trajectory of the colonial scholar-administrator, while his manuscript note adds a specialised contribution to the study of Acehnese literary transmission.
@@ -65,6 +65,18 @@ Kreemer also acknowledges the "onschatbare" (invaluable) Gayo-Dutch dictionary o
 
 His comparative method extends across three languages and peoples: **Atjèhnese**, **Gayo**, and **Alas** — treating the highlands and the coastal lowlands as a unified study-area. His spelling system follows Snouck Hurgronje's conventions with one simplification: the digraph *th* (used in Snouck for the Atjèhnese emphatic *t*) is simplified to *s* throughout Kreemer's work.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**J. Kreemer** was the Dutch scholar whose recent book on [[Acheh|Atjeh]] author [[J. Langhout|Joh. Langhout]] twice invokes: for the celebrated characterization of Governor [[H. N. A. Swart]]'s administration — "the swords were forged into ploughshares" — and as what Langhout calls the first great and grand attempt to fill the existing need for economic literature on Atjeh.
+
+### "The swords into ploughshares"
+
+Writing of the end of the Atjeh war under Governor Swart (by [[1913]] all effective opposition in the province had ceased), Langhout quotes Kreemer's judgement in the first, recently appeared volume of his book on Atjeh: "Onder het bestuur van Swart werden de zwaarden tot ploegscharen omgesmeed" ("Under the government of Swart the swords were forged into ploughshares"). Langhout adds that although General Swart owed this important fact in part to the action of his predecessors, it must be fully recognized that the pacification of Atjeh and Dependencies was accomplished under his administration.
+
+### The economic literature on Atjeh
+
+In his closing word, discussing how Atjeh had never stood in a friendly light, in the Netherlands or abroad — a misunderstanding which, Langhout argues, was largely due to how little was known of Dutch economic statecraft in Atjeh — Langhout observes that Kreemer's book "can be regarded as the first great and grand attempt to supply the existing need for economic reading on Atjeh", beside which his own modest collection of facts sought a place.
+
 ## See Also
 
 - [[Alasland]]
@@ -96,6 +108,9 @@ His comparative method extends across three languages and peoples: **Atjèhnese*
 - [[1922]]
 - [[1923]]
 - [[1956]]
+- [[H. N. A. Swart]]
+- [[Pacification of Atjeh]]
+- [[Vijftig jaren economische staatkunde in Atjeh]]
 
 ## Sources
 
@@ -106,3 +121,5 @@ His comparative method extends across three languages and peoples: **Atjèhnese*
 *Beginselen en Stelsel van het Adatrecht*, door Mr. B. ter Haar Bzn. Vierde ongewijzigde druk. Groningen, Djakarta: J. B. Wolters, [[1950]]. Pp. 245-246 (sources for the rechtskring Atjeh).
 
 *20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pp. 20-22.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 95, 192–193.

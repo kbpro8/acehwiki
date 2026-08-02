@@ -44,6 +44,8 @@ aliases:
 - Poeloe Wè
 - P. We
 - Poelau We
+- "Sabbang"
+- "Vrijhaven Sabang"
 tags:
 - place
 - harbour
@@ -399,6 +401,26 @@ translation from the Dutch).
 *Coen, Koopman van Heeren Zeventien. Geschiedenis van den Hollandshen Handel in Indië (1598-1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. De Boer Jr., 1948), Hoofdstuk V "Voorgangers, Hollanders en mededingers tot 1614. Atjeh. Djohor. Malaka." (p. 113).
 *De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), pp. 12, 26.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Sabang** was the free harbour (*vrijhaven*) on the northern bay of the island [[Poelò We]], north of [[Acheh|Atjeh]] at the entrance of the Strait of Malakka, developed from a small government coal depot ([[1884]]) into the ocean harbour and coaling station of the [[Maatschappij Zeehaven en Kolenstation Sabang]], and from [[29 September]] [[1903]] a fixed call of the mail steamers of the [[Stoomvaart Maatschappij Nederland|Stoomvaart Maatschappij "Nederland"]] — "the first harbour-place of Netherlands India" for ships coming through the [[Suez Canal]] or around the [[Cape of Good Hope|Cape]].
+
+### Early history
+
+The attention of the Netherlands Indian government was first drawn to the island of We in the war years after [[1873]], when the need was felt of a good harbour near Sumatra's North Coast suitable as operation-base, coal station and evacuation-place for sick and wounded; a government commission instituted in [[1877]] had to report, however, that We was then unsuitable as an evacuation place. In [[1884]] the Government established a small coal depot on the island's Balohan (South) bay and appointed an *oelèèbalang* as head of the island; a request for exploitation addressed to the Government by a combination of trading men was declined. After a hydrographic and topographic survey in [[1887]] it became clear that the northern bay — the Sabang bay — was by its natural disposition the fittest, and the Batavia firm [[De Lange & Co]], under the able leadership of [[J. M. H. van Oosterzee]] and supported by the [[Nederlandsche Handel-Maatschappij]], asked for and obtained a concession for the establishment of a coal station. General (then Major) [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] had almost from the beginning, in word and writing, propagated Sabang's viability (see his *De onderwerping van Atjeh*, [[1892]]); critics mocked the mail-service plans as "de gril van een groot man" ("the whim of a great man", [[M. van Geuns]]) and as "De Penangsche Hollander" ([[H. J. Martij]]).
+
+### The company harbour
+
+In [[1892]] De Lange & Co contracted for the building of piers and sheds and for the delivery of coal, in the first place to the Government and War Navy but also to private parties; on [[1 April]] [[1896]], when the first piers, sheds and dwellings were completed, the free harbour Sabang was opened to general trade (Langhout elsewhere dates the opening to [[1895]]). In [[1897]] the exploitation passed to the specially founded [[Maatschappij Zeehaven en Kolenstation Sabang|N.V. "Zeehaven en Kolenstation"]], directed by the Factory of the [[Nederlandsche Handel-Maatschappij]], and powerfully continued with the support of Governor Van Heutsz. In [[1901]] [[G. C. Quarles van Ufford]] took the direction, and with his "inflexible faith in the future of Sabang" helped the enterprise over the dead point. The year [[1903]], when the first mailboat *Koning Willem III* was festively piloted in (see [[Inauguration of the Sabang mail service (1903)]]), was a milestone; the first administrator, [[C. G. Vattier Kraane]], was made Knight of the Order of Oranje-Nassau. In [[1904]]–[[1905]], four (later five) electrically driven coal-transporters replaced coolie labour for loading and discharging. Under administrators [[L. L. F. de Greve]] and [[H. Smit]] the works steadily extended, until in [[1909]]–[[1910]] a fixed agreement came about with the Government: a broad strip of the company's coastal land with all piers, sheds, factory and electric power-station passed into government ownership at cost price, the company receiving them back in long-lease (*erfpacht*) against a yearly canon and a share in the profits — securing the Government against the harbour ever falling under foreign control. Later expansions in the interest of trade and navigation would be paid by the Government and taken into the lease.
+
+### Situation, facilities and traffic
+
+Sabang lay, Langhout writes, most favourably conceivable: north of Sumatra at the entrance of the Strait of Malakka, on the traffic route to and from East Asia both of ships steaming through the Suez Canal and of those coming from or going to the Cape; coal could be obtained there at prices equal to or lower than at the rival coaling stations [[Colombo]] and [[Singapore]] (from Bengal, the [[Ombilin]] fields, [[Natal]], Japan, Australia). The Sabang bay is a splendid, wholly sheltered natural harbour, safely entered by night; bunkering proceeded at great speed by night as well, with five electric transporters and two floating bunker machines. The company kept a modern repair shop for ships, machines, electro- and combustion motors, with all ships' necessaries in stock; a 3,000-ton floating dock and slipways for small craft, with a 5,000-ton dock under construction at the [[Nederlandsche Scheepsbouw Maatschappij]] at [[Amsterdam]] for transport in the summer of [[1923]] (391'3" long, 64 English feet 7½ inch wide between the wrijf-rolls, taking ships of 19 feet draught, with a travelling electric crane lifting 5,000 kg); a fresh-water conduit, electric light, a hotel for waiting passengers, a brick- and tile-works, and a newly built hospital equipped to the latest requirements for Europeans and for the native and Chinese workforce. The [[Atjeh Transport Maatschappij]] maintained a regular service with [[Oeleë Lheuë|Oelèë Lheue]]; the [[Dordtsche Petroleum Maatschappij]] possessed three large and one small tank for liquid fuel in the harbour; and the N.V. "[[Ret-Sabang]]" exploited a factory of triplex (tea- and rubber-) chests, with timber from [[Singkel]]. On the island [[Roebia]] in the Sabang bay a quarantine station for pilgrims returning from [[Mekka]] was set up in [[1912]].
+
+### Statistics and competition
+
+The book's traffic and turnover statistics (see [[Maatschappij Zeehaven en Kolenstation Sabang]]) show the growth: 181 merchant vessels and 23,122 tons of coal in [[1902]]; 1,071 vessels and 213,351 tons (with 111,000 tons goods traffic) in [[1913]]; the slump of the war years to 423 vessels and 33,583 tons in [[1918]]; and recovery to 648 vessels and 113,179 tons in [[1921]]. The opening of the ocean harbour of [[Belawan]] ([[Deli]]) cost Sabang the transhipment of Deli goods (tobacco and rubber), but many freighters formerly running along Sumatra's West Coast now went by the East Coast to Belawan and called at the cheap crossing-point Sabang for West-Coast cargo or bunkers; Langhout concludes that both harbours have wholly different reasons of existence and that Sabang will remain of great importance — as coal station, for transhipment, docking and repair, and as harbour of the Government of Atjeh.
+
 ## See Also
 
 - [[1.3.6. force]]
@@ -511,6 +533,11 @@ translation from the Dutch).
 - [[Sabang bombing (22 January 1942)]]
 - [[Japanese invasion of Atjèh]]
 - [[1917]]
+- [[Maatschappij Zeehaven en Kolenstation Sabang]]
+- [[Poelò We]]
+- [[G. C. Quarles van Ufford]]
+- [[Inauguration of the Sabang mail service (1903)]]
+- [[Stoomvaart Maatschappij Nederland]]
 
 ## Source
 
@@ -547,3 +574,5 @@ translation from the Dutch).
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters XV and XX, *'Groot-Atjeh'* and *'Ten slotte over staatkunde'*, pp. 104, 107, 136–137.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XIII, XIV.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 62, 64–65, 70–71, 84–86, 93, 141–153, 154–155, illustration captions pp. 4, 139, 142, 146, 181, 188–189.

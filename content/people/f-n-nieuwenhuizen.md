@@ -1,7 +1,7 @@
 ---
 title: "F. N. Nieuwenhuizen"
-aliases: ["Nieuwenhuizen", "Frederik Nieuwenhuizen", "Vice-President Nieuwenhuizen", "Gouvernements-Commissaris Nieuwenhuizen", "Mr. F. N. Nieuwenhuizen", "F.N. Nieuwenhuljzen", "Mr. Nieuwenhuizen"]
-tags: [person, colonial, dutch, government-commissioner, first-aceh-expedition, 19th-century, raadvanindie, atjeh]
+aliases: ["Nieuwenhuizen", "Frederik Nieuwenhuizen", "Vice-President Nieuwenhuizen", "Gouvernements-Commissaris Nieuwenhuizen", "Mr. F. N. Nieuwenhuizen", "F.N. Nieuwenhuljzen", "Mr. Nieuwenhuizen", "Nieuwenhuyzen", "Nieuwenhujzeen", "Government Commissioner Nieuwenhuizen"]
+tags: [person, colonial, dutch, government-commissioner, first-aceh-expedition, 19th-century, raadvanindie, atjeh, "official", "diplomat"]
 ---
 
 **F. N. Nieuwenhuizen** (full name: Frederik Nieuwenhuizen) was Vice-President of the [[Raad van Nederlandsch-Indië|Council of the Netherlands-Indies]] who served as the first Government Commissioner (*Gouvernements-Commissaris*) for the [[First Aceh Expedition (1873)|First Aceh Expedition]] of [[1873]]. Appointed by [[Governor-General of the Netherlands-India|Governor-General]] [[J. Loudon|Loudon]], Nieuwenhuizen was charged with the political direction of the expedition — the task of securing from [[Sultan Aladin Mahmoed Shah|Sultan Mahmud Shah]] a treaty recognizing Dutch sovereignty over [[Groot-Atjeh|Atjeh]], failing which the military forces would compel compliance. His handling of the negotiations in [[March 1873]] was sharply criticized by [[Jan van Swieten|Lieutenant-General Van Swieten]] as a principal cause of the expedition's failure and the subsequent war.
@@ -44,6 +44,22 @@ Nieuwenhuizen's indecision manifested most clearly in his telegram of [[17 March
 
 Nieuwenhuizen's role in the opening chapter of the Aceh War remains one of the most contested in Dutch colonial history. Van Swieten placed the principal blame for the war's outbreak — and its subsequent duration — on the failures of March [[1873]], and Nieuwenhuizen's handling of the negotiations was, in his judgment, the proximate cause. The moderate Acehnese voices that might have produced a peaceful settlement, notably [[Toengkoe Kadli Malikoel Adil|Toengkoe Kali]], were alienated by the clumsy and aggressive posture of the Dutch approach. "Probably the war would not have come," Van Swieten wrote, "if the negotiations of March [[1873]] had been better conducted."
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**F. N. Nieuwenhuizen** — spelled "Nieuwenhuyzen" and "Nieuwenhujzeen" in [[J. Langhout|Joh. Langhout]]'s text — was the Vice-President of the [[Council of the Indies|Council of the Netherlands Indies]] who, as Government Commissioner, delivered the Netherlands Indian Government's letters to the [[Sultan Machmoed Sjah|Sultan of Atjeh]] in March [[1873]], demanded explanations for the Sultan's "treacherous conduct", and, on behalf of the Government, declared war on Atjeh on [[26 March]] [[1873]].
+
+### The commission
+
+After intelligence received from the Consul-General at [[Singapore]] that an envoy of the Sultan had left for France and another Atjehnese deputation sought help against the Dutch government with America and Italy — reports never fully cleared of exaggeration — the Indian Government judged that the time had come for a more resolute action. Nieuwenhuizen, then Vice-President of the Council, was charged as Government Commissioner to ask the Sultan of Atjeh for explanation concerning his treacherous conduct and to bring about a proper regulation of the relations between the Netherlands and Atjeh.
+
+### The mission
+
+Nieuwenhuizen departed from [[Batavia]] on [[7 March]] [[1873]] and, after stopping at [[Riouw]], Singapore and [[Penang]], arrived on [[22 March]] in the roadstead of Atjeh with four warships. The interpreter [[Sidi Tahil]], who had acted as interpreter at earlier visits of warships, was forthwith sent ashore with a letter from the Government Commissioner to the Sultan — for the conveyance of the interpreter use was made of a prauw stopped at sea, since the temper toward the Hollanders in Atjeh made sending Dutch boats inadvisable — in which the grievances of the Netherlands Indian government were set out and explanation was demanded concerning the equivocal actions of the Sultan; the Commissioner reserved, when that explanation should have been given, to confer with the Sultan on the way in which the desired relationship was to be brought about. Within the term of 24 hours set for an answer, the interpreter placed the Sultan's reply in Nieuwenhuizen's hands on the evening of [[23 March]]: "Ware het ook niet zoo naar den wensch van het gouvernement, het is twee-maal mijn wensch!" ("Even were it not wholly the Government's wish, it is twice my wish!") — of any explanation not a trace. A second letter was equally insufficiently answered, whereupon Nieuwenhuizen, acting on behalf of the Netherlands Indian Government, declared war on the Sultan of Atjeh.
+
+### The first shot
+
+Hope flickered once more: when on the morning of [[27 March]] the flotilla accompanying the Government Commissioner prepared to open fire on the *bentengs* (earthworks) thrown up on the sea-strand, a further letter from the Sultan was received proposing two days' delay. The Commissioner granted the request on condition that all war preparations on the Atjehnese coast would immediately cease; but when in the course of the day it became clear that the throwing up of *bentengs* continued, the condition was not fulfilled — and toward the evening of 27 March [[1873]] the first shot was fired by the Dutch. On his way to Atjeh Nieuwenhuizen had declared at Singapore that, notwithstanding the state of war, the "regular trade" between British India and Atjeh would not be prejudiced — a declaration overtaken by the subsequently necessary strict [[Blockade of the Atjeh coast (1873-1874)|blockade of the Atjehnese coast]].
+
 ## See Also
 
 - [[First Aceh Expedition (1873)]]
@@ -55,7 +71,13 @@ Nieuwenhuizen's role in the opening chapter of the Aceh War remains one of the m
 - [[Sultan Aladin Mahmoed Shah]]
 - [[Toengkoe Kadli Malikoel Adil]]
 - [[Aceh War]]
+- [[Nieuwenhuizen's mission to Atjeh and the declaration of war (March 1873)]]
+- [[Sultan Machmoed Sjah]]
+- [[First Dutch Attack on Acheh]]
+- [[1873]]
 
 ## Source
 
 *De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten, Zalt-Bommel, Joh. Noman en Zoon, [1879], pp. 10–34 (Inleiding), pp. 35–60 (Hoofdstuk I).
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 19–21, 27.

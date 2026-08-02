@@ -19,6 +19,8 @@ aliases:
 - Perlac
 - Muslim principality of Perlak
 - Moslimsch rijkje Perlak
+- "Perlak oil field of Peureula"
+- "Indian market of Peureula"
 tags:
 - place
 - oil-field
@@ -45,6 +47,9 @@ tags:
 - north-sumatra
 - history
 - medieval
+- "oilfield"
+- "east-coast"
+
 ---
 **Peureula** (also Peureulah) is an oil-field locality on the north coast of [[Acheh|Atjeh]] — in the [[Pedirse|Pidie]] region — recorded in [[Van Bemmelen's The Geology of Indonesia (1949)|Van Bemmelen's *Geology of Indonesia*]] ([[1949]]) as the largest producing field of the [[Atjeh oil complex|Atjeh oil complex]] in the [[1940]]–[[1941]] period. The Peureula field was operated by the [[N.L.A.M.]] (Nederlandsche Lloyd Aardolie Maatschappij, the Netherlands Lloyd Petroleum Company), and its production of 48,219 tons of 1000 kg in [[1940]] and 36,640 tons in [[1941]] accounted for the great majority of the Atjeh-complex output in both years.
 
@@ -112,6 +117,22 @@ There now lie the oil-terrains of the [[Perlak Petroleum-Mij|Perlak Petroleum-Mi
 
 The *oeléebalang* of Peureula (Perlak) at the time of Broersma's visit was [[Teukoe Tjhi Mohamad Thajeb|Teukoe Tjhi Mohamad Thajeb]], who had succeeded his father [[Teukoe Tjhi Perlak|Teukoe Tjhi Perlak]] in [[1913]] at the moment when the oil-cijns was regularised into the *landschapskas* and the chief received a fixed income. From the oil the *oeléebalang* had drawn his riches, *'die toch misschien wel overschat zijn'* — *which perhaps may have been overrated.* After [[1912]] the petroleum-cijns came into the *landschapskas* and the *oeléebalang* received a fixed income.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Peureula** was the petroleum tract within the landscape [[Perlak]] on the East Coast of [[Acheh|Atjeh]] — a site where an "Indische markt" (Indian market) had existed for centuries and where oil was won from four dug wells sold locally — which after [[1890]] became the first great industrial establishment of Atjeh, worked by the [[Hollandsche Perlak Maatschappij]] and absorbed into the [[Bataafsche Petroleum Maatschappij|Bataafsche Petroleum Maatschappij]]'s Perlak operations.
+
+### The ancient wells
+
+In Peureula, Langhout relates, an Indian market had existed since centuries, where the petroleum won from a quarter of dug pits was brought to the man; from here came the mineral oil which the [[Vereenigde Oost-Indische Compagnie|East India Company]] in the eighteenth century now and then obtained from the Sultan of Atjeh, and which was very highly valued in *patria* as a medicament. In the first (pre-pacification) economic survey the Government ordered from [[1893]], Peureula is the only mineral site named in Atjeh: "In het landschap Peureula, ter Oostkust, werden petroleumbronnen gevonden, die op Inlandsche wijze werden geëxploiteerd."
+
+### The companies
+
+A few years after the Bataafsche Petroleum Maatschappij had staked its establishment [[Pangkalan Brandan]] just south of the provincial border in [[Langkat]] ([[1890]]), the Holland Perlak Maatschappij began its works on actual Atjehnese ground at Peureula. Governor [[Joannes Benedictus van Heutsz|Van Heutsz]], who gave European mining his full interest, opened several tracts for private investigation and exploitation; "vooral in Peureula" were great and rich petroleum wells struck. In [[1902]]–[[1903]] wells were also bored at [[Langsar]], [[Peudada]], [[Idi]], [[Djoelo Rajeu]] and [[Tjoenda]]. The Zuid Perlak company transferred its works to the Bataafsche, which pumped the crude oil from the landscape Peureula by a kilometres-long pipeline to [[Pangkalan Brandan]] and the new oil city [[Rantau Pandjang]]; in December [[1922]] the Bataafsche pumped "121197 ton" of crude oil from the tract of Peureula, with 598 tons that month from the [[Aloer Mas]] field to Rantau Pandjang (figures as printed). Under Governor [[H. N. A. Swart|Swart]] the petroleum concession of Zuid Perlak, exploited by "de Koninklijke", was the foremost mineral concession of the province. In the same period the government experimented at Peureula with a Fordson tractor plough-demonstration (photo caption: "Ploegdemonstratie met een Fordsontractor te Peureula").
+
+### The pacifying factory
+
+Langhout records the "widely spread legend" that the military excursions often merely served to cover the new enterprises — and inverts it: the petroleum exploitations were one of the foremost factors of the pacification of that coast tract, because on the estates the Atjehnese for the first time knew the Hollander otherwise than as a soldier; the tact and knowledge of languages of the administrator [[Allein]] reconciled the surrounding population, so that he soon worked with 60% Atjehnese voluntary labour, and raiding bands on one occasion carried off all rice from the native and Chinese settlement yet left the full rice-barns of the enterprise untouched.
+
 ## See Also
 
 - [[13th-century]]
@@ -162,6 +183,8 @@ The *oeléebalang* of Peureula (Perlak) at the time of Broersma's visit was [[Te
 - [[Islam in Aceh|Islam in Atjeh]]
 - [[North Sumatra]]
 - [[Soenan Goenoeng Djati]]
+- [[Perlak]]
+- [[Bataafsche Petroleum Maatschappij|Petroleum industry in Atjeh]]
 
 ## Sources
 
@@ -172,3 +195,5 @@ The *oeléebalang* of Peureula (Perlak) at the time of Broersma's visit was [[Te
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 38–40, 49, 59–60, 77–78.
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter IV (Godsdienst), p. 75.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 68, 83–85, 160–163, illustration captions pp. 135, 160–162.

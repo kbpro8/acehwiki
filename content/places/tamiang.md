@@ -1,7 +1,7 @@
 ---
 title: "Tamiang"
-aliases: ["Tamiang (Sumatra)", "Tamiang region", "Tamiang Valley", "Aceh Tamiang", "Tamiang Regency", "Teumieng", "Teumang", "Teumicng", "Tamiangsche landschapjes", "Landschap Tamiang", "Tamiang (Atjeh)", "Tamiang (block)", "Tamiang oil field", "Tamiangsche moerassen", "the Tamiang swamps", "Tamiangsche", "East Limit of Acheh", "Tamiang River", "Temiang", "Tamiang river basin", "Tamiang landschap", "onderafdeeling Tamiang", "Kroeeng Tamiang"]
-tags: [place, region, onderafdeeling, tamiang, border-region, atjeh, oostkust, administrative-division, oil-field, sumatra, colonial, dutch, aceh, buitenbezittingen, tramway, agriculture, river-basin, achehnese, oostkust-van-atjeh, pepper, rubber, oil-palm, petroleum, landschap, administration]
+aliases: ["Tamiang (Sumatra)", "Tamiang region", "Tamiang Valley", "Aceh Tamiang", "Tamiang Regency", "Teumieng", "Teumang", "Teumicng", "Tamiangsche landschapjes", "Landschap Tamiang", "Tamiang (Atjeh)", "Tamiang (block)", "Tamiang oil field", "Tamiangsche moerassen", "the Tamiang swamps", "Tamiangsche", "East Limit of Acheh", "Tamiang River", "Temiang", "Tamiang river basin", "Tamiang landschap", "onderafdeeling Tamiang", "Kroeeng Tamiang", "Temyang", "Tamyang", "Tamiang (onderafdeeling)"]
+tags: [place, region, onderafdeeling, tamiang, border-region, atjeh, oostkust, administrative-division, oil-field, sumatra, colonial, dutch, aceh, buitenbezittingen, tramway, agriculture, river-basin, achehnese, oostkust-van-atjeh, pepper, rubber, oil-palm, petroleum, landschap, administration, "east-coast", "estates"]
 description: "Region on the east coast of Sumatra; eastern limit of the Aceh Sultanate, Dutch onderafdeeling of the Gouvernement Atjeh en Onderhoorigheden, agricultural frontier, and oil block."
 ---
 
@@ -155,6 +155,22 @@ The importance which Tamiang has is derived from the great agricultural industry
 
 The estate area created on the east coast from [[1910]] "also laid the foundation for the financial prosperity of the sub-divisional treasuries of Tamiang and [[Langsa]]," according to [[J. Jongejans|Jongejans]].
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Tamiang** — "Temyang" in [[J. Langhout|Joh. Langhout]]'s spelling — was the sub-department of [[Acheh|Atjeh]] immediately bordering the East Coast of Sumatra residency, the part of the province where the first private estates appeared (by [[1908]]), and which by [[1923]] held the concessions of the [[Société Financière des Caoutchoucs]] (Soengei Lipoet, Batang Ara, Semadam), the [[Palmeraies de Simpang Kanan]], the [[Simpang Kiri Cultuurmaatschappij]] and the [[Tengoelan Cultuur Maatschappij]] — the district treated in Langhout's chapter "[[Foreign capital in Atjeh|Buitenlandsch kapitaal in Atjeh]]".
+
+### The first estates
+
+Private agricultural enterprises, of which in [[1908]] only a few were found, and those in the sub-department Temyang, gradually extended, so that slowly in this sub-department and in that of [[Langsa]] a great number of rubber-, oil-palm- and coconut-enterprises arose; the agricultural concessions issued numbered in [[1918]] 141 over the whole province, of which 68 in exploitation. From [[1911]] a stream of natives and Foreign Orientals, who found there an ample existence, entered the province in consequence of the steady extension of the cultures on the East Coast.
+
+### The foreign plantations
+
+Under Franco-Belgian auspices the Société Financière des Caoutchoucs opened in Temyang a series of enterprises for the winning of caoutchouc, coffee, rubber and palm-oil: **Soengei Lipoet** (opened [[26 February]] [[1908]]; from 30 ha to 5,751 ha by [[1922]] with 3,600 coolies; coffee changed for oil-palm in [[1918]]), **Batang Ara** ([[18 January]] [[1911]]; 86 ha to 1,739 ha, 742 coolies) and **Semadam** ([[1913]]; over 515 ha). The French company "Palmeraies de Simpang Kanan" opened on [[28 April]] [[1914]] the estate Simpang Kanan (650 ha Hevea rubber and some 70 ha oil-palm), worked beside by the Simpang Kiri Cultuurmaatschappij (founded [[22 March]] [[1913]], some 600 ha rubber), while the Tengoelan Cultuur Maatschappij likewise possessed enterprises in the Atjehnese district. The [[Atjeh Tram|tramway]]'s baanvak Koeala Simpang–Soengei Lipoet opened in [[1914]], carrying the line into this estate district, on the way to [[Besitang]] ([[1915]]–[[1916]]).
+
+### Name and frontier
+
+The older geography of the region surfaces in the history of the Treaty with the [[Sultan of Siak]] ([[1858]]): Siak, freed from Atjeh since [[1705]], placed itself with all dependencies "stretching to the Tamiang river" under Dutch supremacy — the boundary-river whose basin formed Atjeh's later south-eastern sub-department.
+
 ## See Also
 
 - [[1861]]
@@ -254,6 +270,9 @@ The estate area created on the east coast from [[1910]] "also laid the foundatio
 - [[H. N. A. Swart]]
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Atjeh]]
+- [[Foreign capital in Atjeh]]
+- [[Atjeh Tram]]
+- [[Siak tractate of 1 February 1858|Dutch treaty with the Sultan of Siak (1858)]]
 
 ## Source
 
@@ -274,3 +293,5 @@ The estate area created on the east coast from [[1910]] "also laid the foundatio
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter II, *'Tamiang'*, pp. 5–12. Also *Gegevens betreffende den bodem van Sumatra's Oostkust*, by F. C. van Heurn (c. 1923), p. 103.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XIII.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 18, 106–107, 136–138, 188–190.

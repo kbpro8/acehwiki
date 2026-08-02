@@ -1,6 +1,6 @@
 ---
 title: "Korte Verklaring"
-aliases: ["short declaration", "the Van Heutsz-Snouck korte verklaring", "de Korte Verklaring", "Short Declaration of self-government"]
+aliases: ["short declaration", "the Van Heutsz-Snouck korte verklaring", "de Korte Verklaring", "Short Declaration of self-government", "Short Declaration (Atjeh)", "Korte verklaring in 3 artikelen", "Three-article declaration of Atjeh", "Verklaring van 18 artikelen (predecessor)"]
 tags: [concept, colonial, dutch, sovereignty, document, legal, achehnese, administration, treaty, buitenbezittingen, zelfbesturen, administrative, diplomacy, acheh, instrument, policy, zelfbestuur, buitengewesten, 20th-century]
 ---
 
@@ -176,6 +176,18 @@ With the *Korte Verklaring* ("Short Declaration") the *"Sesam opent U!"* was app
 
 The *Korte Verklaring* ("Short Declaration") was the legal instrument of the whole [[Opening der Buitengewesten|opening of the Buitengewesten]] and thereby of the end of the [[Non-interventiepolitiek|policy of non-intervention]]. It settled a struggle, in du Croo's phrase, "between, on the one hand, exploitation coupled with abstention and, on the other, the principle that chose education, responsibility and the exercise of authority throughout the whole territory as its guideline."
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+The **Korte verklaring** ("short declaration") was the three-article instrument introduced by Governor [[Joannes Benedictus van Heutsz|Johannes van Heutsz]] in [[1898]] to replace the older *verklaring van 18 artikelen* ("declaration of 18 articles") presented for signature to the landscape chiefs of [[Acheh|Atjeh and Onderhoorigheden]], binding them simply to obedience to all orders of the provincial government — the form upon which the [[Toeankoe Mochamad Dawot|pretender-sultan]] gave his [[Submission and banishment of the pretender-Sultan|submission]], and the seed of the later empire-wide Short Declaration policy.
+
+### From eighteen articles to three
+
+"De bestaande 'verklaring van 18 artikelen', die den landschapshoofden ter teekening werden aangeboden, werd vervangen door de z.g. 'korte verklaring' in drie artikelen, waardoor die hoofden verplicht werden tot gehoorzaamheid aan alle bevelen van het Gewestelijk bestuur" — "the existing declaration of 18 articles, which was presented to the landscape chiefs for signature, was replaced by the so-called short declaration in three articles, whereby those chiefs were obliged to obedience to all commands of the Provincial government". In the same first year of his government Van Heutsz showed on both the political and the economic field that "another spirit was abroad", and the Dependencies soon felt the favourable results: roads and bridges were built, a telephone connection over the watershed came about with [[Sigli]] and further along the North Coast, and "the bureaucratic rule made place for a régime of works and of deeds".
+
+### Wider significance
+
+Author [[J. Langhout|Joh. Langhout]] writes that it is due to the initiative and the unbroken cooperation of Governor Van Heutsz and Dr. C. [[C. Snouck Hurgronje|Snouck Hurgronje]] that a wholly changed policy regarding the self-governing territories gradually developed in the whole of the Indies; he quotes the words of [[H. Colijn]]: "Men had het middel gevonden om de gevolgen van een onvermijdelijk geworden optreden te matigen, door niet over te gaan tot de invoering van een rechtstreeksch bestuur en toch een daarmede overeenkomenden toestand te verkrijgen" — "one had found the means to temper the consequences of an action that had become unavoidable, by not proceeding to the introduction of a direct administration and yet obtaining a state of affairs corresponding therewith". The [[Submission and banishment of the pretender-Sultan|submission of the pretender-sultan]] was signed on the form of the short declaration; upon that signature depended Van Heutsz's contested pledge never to banish the signer from Atjeh.
+
 ## See Also
 
 - [[1938]]
@@ -243,6 +255,9 @@ The *Korte Verklaring* ("Short Declaration") was the legal instrument of the who
 - [[Regeeringsreglement]]
 - [[C. Lulofs]]
 - [[P. van Hulstijn]]
+- [[Submission and banishment of the pretender-Sultan]]
+- [[Government of Atjeh en Onderhoorigheden]]
+- [[Pacification of Atjeh]]
 
 ## Source
 
@@ -259,3 +274,5 @@ The *Korte Verklaring* ("Short Declaration") was the legal instrument of the who
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 218-219.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter V, pp. 34–35.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 80–81.

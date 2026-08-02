@@ -1,7 +1,7 @@
 ---
 title: Poenale Sanctie
-aliases: [poenale sanctie, penal sanctions, Article 2 No. 27]
-tags: [concept, labor, java, colonial]
+aliases: [poenale sanctie, penal sanctions, Article 2 No. 27, "Penal sanction", "Poenale Sanctie on labour contracts", "Penal sanction on coolie contracts"]
+tags: [concept, labor, java, colonial, "labour", "law", "plantations"]
 ---
 The **Poenale Sanctie** (Penal Sanction) was a legal provision that made it a criminal offense for workers to break their labor contracts. The provision, particularly **Article 2, No. 27** of the General Police Criminal Regulation for Natives, was a key element of colonial labor policy and was the subject of intense debate in the [[Netherlands]] and the [[Dutch East Indies]] during the [[1870s]].
 
@@ -57,6 +57,18 @@ The poenale sanctie debate reflected broader tensions in colonial policy:
 
 The issue was eventually resolved through a combination of labor regulation (the [[1880]] Coelie Ordnantie) and the gradual development of free labor systems.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+The **Poenale sanctie** ("penal sanction") was the penal clause attachable to the labour contracts of coolies in the Outer Possessions of the Netherlands Indies, whose announced abolition — declared by the Government in the early 1920s, for Atjeh effective "althans met ingang van 1 Januari 1926 op de reëngagementscontracten" — was named by author [[J. Langhout|Joh. Langhout]] as the direct cause of the [[Handelsvereeniging Amsterdam]]'s decision to close her estate [[Boeloe Belang Ara]] in Atjeh and to renounce all extension there, "a decision... meaning for the company a financial fiasco of f 800,000".
+
+### The abolition debate
+
+Langhout reports that the H.V.A.'s closure decision "in verband is te brengen met de absolute arbeidsonzekerheid in de buitenbezittingen, die zou worden geschapen door de uitvoering der uitgesproken bedoeling van de Regeering, om binnen afzienbaren tijd, althans met ingang van 1 Januari 1926, bij de reëngagementscontracten, over te gaan tot het afschaffen van de Poenale Sanctie op de werkovereenkomsten" — was bound up with the absolute labour-insecurity in the Outer Possessions which would be created by carrying out the Government's declared intention to abolish the penal sanction on the labour contracts, within the foreseeable future, at least from 1 January 1926 for the re-engagement contracts.
+
+### Westenenk's plea and Fock's reply
+
+Governor Westenenk of East Sumatra had recently ([[1922]]–[[1923]]), in a conference of chiefs of administration in the Outer Possessions, pleaded for the retention of the penal sanction "as factor for the development of the Outer Possessions, as well as for order and regularity and better hygienic conditions among the coolie population", and "zonder uitzondering hebben alle hoofden van het gewestelijk bestuur hunne instemming met het betoog van den Heer Westenenk betuigd" ("without exception all chiefs of the territorial administration professed their assent with the argument of the heer Westenenk"). In answer to that official's considerations, Mr. Fock replied that the Indian Government with its advice would seriously reckon with the judgement unanimously pronounced by the chiefs of the territorial administration — an advice which had undoubtedly already been received by the Netherlands Government: "Het was een 'officieel' advies. Een advies 'uit eigen boezem'!" On the retention of the heer [[S. de Graaff|De Graaff]] as Minister of Colonies, the *Soerabaiasch Handelsblad* and the *Java Bode* concluded "that from this statesman no inconsiderate deeds need be feared toward the cultures in Netherlands India".
+
 ## See Also
 
 - [[Cultivation System]]
@@ -64,7 +76,12 @@ The issue was eventually resolved through a combination of labor regulation (the
 - [[J.T. Cremer]]
 - [[Coelie Ordnantie]]
 - [[Pandelingschap]]
+- [[Handelsvereeniging Amsterdam]]
+- [[Foreign capital in Atjeh]]
+- [[Tamiang]]
 
 ## Source
 
 *J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni [[1855]]*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, [[1943]], Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, Chapter VI, pp. 118-133.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 173–175.

@@ -1,6 +1,6 @@
 ---
 title: "General van der Heijden"
-aliases: ["van der Heijden", "General van der Heyden", "General van der Ileyden", "J. van der Heijden", "Karel van der Heijden", "General K. van der Heijden", "Generaal van der Heijden", "Governor van der Heijden", "Kolonel van der Heijden", "K. van der Heijden", "kolonel K. v. d. Heijden", "K. VAN DER HEUDEN", "generaal Van der Heyden", "Van der Heyden", "Van der Heyden (Atjeh commander)", "K. van der Heyden", "Kolonel Van der Heyden", "Gouverneur Van der Heyden", "the one-eyed general", "Van der Heyden (Atjeh 1879)", "General van der Heyden conqueror of Groot Atjeh", "General van der Heyden (K. van der Heijden)", "gouverneur van Atjeh van der Heijden", "generaal éénoog", "de eenoogige generaal", "de eenoogige Koning"]
+aliases: ["van der Heijden", "General van der Heyden", "General van der Ileyden", "J. van der Heijden", "Karel van der Heijden", "General K. van der Heijden", "Generaal van der Heijden", "Governor van der Heijden", "Kolonel van der Heijden", "K. van der Heijden", "kolonel K. v. d. Heijden", "K. VAN DER HEUDEN", "generaal Van der Heyden", "Van der Heyden", "Van der Heyden (Atjeh commander)", "K. van der Heyden", "Kolonel Van der Heyden", "Gouverneur Van der Heyden", "the one-eyed general", "Van der Heyden (Atjeh 1879)", "General van der Heyden conqueror of Groot Atjeh", "General van der Heyden (K. van der Heijden)", "gouverneur van Atjeh van der Heijden", "generaal éénoog", "de eenoogige generaal", "de eenoogige Koning", "Karel van der Heyden", "General van der Heijden", "Gouverneur Van der Heijden"]
 tags: [person, colonial-official, dutch, military, governor, colonial, aceh, atjeh, aceh-war, general, 19th-century, monument, achehnese-history, acheh, infantry, achehnese, atjeh-oorlog, 1878, 1879, colonel, 1876, knil]
 ---
 
@@ -126,6 +126,26 @@ Hooijer recorded two chiefs banished by Van der Heijden for faithlessness whose 
 ## Other traces
 
 The single tiger Hooijer reported seeing in the [[Acheh River|Atjeh valley]] was an old royal tiger lying in a cage, offered to General van der Heijden as a token of appreciation. The post at [[Kroeng Kali]] which Van der Heijden had caused to be erected remained a thorn in the enemy's eye and so great a point of attraction for the ill-disposed that a later governor resolved to slight its walls and withdraw the garrison from that advanced position — a decision whose consequences were felt again in [[1893]].
+
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Karel van der Heijden** was the Dutch officer who from [[30 June]] [[1878]] to [[1881]] commanded [[Acheh|Atjeh]] — first as military and civil commandant, then, with the new style created for him, as "Governor of Atjeh and Dependencies, likewise military commandant" — and whose declaration of [[1879]] that the time of [[Pacification of Atjeh|pacification]] and restoration had arrived prepared the introduction of civil government in [[1881]]. The great mosque (*Missigit*) of [[Koeta Radja]], of which he laid the first stone in October [[1879]], was built on his initiative.
+
+### Appointment in 1878
+
+On 30 June [[1878]] Colonel Karel van der Heijden — later so well known in the history of Atjeh as General — took up the post of military and civil commandant of Atjeh in place of Major-General [[Diemont]], who left for Java on account of illness. During his first expedition, which went to [[Samalanga]], Colonel Van der Heijden was wounded. His assumption of office coincided with an innovation: because in the subjected territories the purely military management had more and more to make way for the ordinary civil administration, the post of "military and civil commandant" was replaced by that of "Gouverneur van Atjeh en Onderhoorigheden, tevens militair bevelhebber", to which Van der Heijden was accordingly appointed.
+
+### Government and economic development
+
+Under his government the immigration of Europeans and Chinese continued: in [[1877]] no fewer than 4,886 Chinese had come to Atjeh from [[Singapore]] and [[Penang]], largely for their own account, and to promote their permanent settlement the government opened agriculture to them in the neighbourhood of Koeta Radja and [[Penajong|Peunajoeng]], making available in October 1877 an area of 25 *bouws* by way of trial, while Chinese *kongsies* willing to take up the reclamation were supported with the necessary working capital by advances. The farming out of the opium-sale and gambling houses yielded in [[1878]] in Groot-Atjeh f 549,000 — f 358,680 more than in 1877 — and in the same year the native population of the subdued territories began to pay indirect taxes: *hacil* (export duty, inherited from the sultan's government) on pepper and rice, and half a dollar per exported picol of coffee. Financial support went to nascent native cultures, as the advance of f 2,500 to the people of [[Lehong]] in 1877 for the enlargement of their pepper and coffee gardens, while for some East Coast landscapes the hacil on pepper was lowered from f 50 to f 35 per picol. At the end of 1878 the civil personnel of the new government consisted of 1 provincial secretary, 4 assistant-residents (at Koeta Radja, [[Sigli]], [[Idi]] and [[Meulaboh]], charged respectively with the capital and the north, east and west coasts) and 8 controllers (at Koeta Radja, [[Oeleë Lheuë|Oelèë Lheue]], [[Kroeëng Raba]], [[Samalanga]], Idi and Meulaboh) — a "bestuurs-civilisatie" which favourably influenced the forming of new trade relations.
+
+### The turn to pacification, 1879
+
+After the successful military operations of the two preceding years, Van der Heijden expressed himself in 1879 to the effect that the war had ended and that "from that moment the time of pacification and restoration had arrived", in which the civil administration would have to strive toward subjection with other means than the sword and try to repair what the ravages of war had destroyed. In October [[1879]] he laid the first stone of the new Missigit (mosque) of Koeta Radja, built at his initiative; the building was opened with great ceremony on [[27 December]] [[1882]], and at the beginning of that year several clergy were attached to it at government cost.
+
+### Honourable dismissal, 1881
+
+Using the authorization granted the year before, the Governor-General determined by resolution of [[11 March]] [[1881]] that a chief official with the title of Governor should henceforth head the province; Lieutenant-General K. van der Heijden was by the same resolution honourably discharged from his function, and [[A. Pruijs van der Hoeven]] was appointed in his place, with Colonel [[J. F. Haus]] as military commandant, both taking office on [[6 April]] [[1881]]. Governor-General [[Johan Willem van Lansberge|Van Lansberge]] closed his letter to Van der Heijden on the introduction of the civil government with the words that thereby the crown was set upon the building "erected by the heroism and devotion of the Indian army under Your Excellency's vigorous leadership", offering him the expression of his appreciation and the thanks of the Government. Van der Heijden, handing over, had deemed the political state of the province "without exaggeration favourable"; the sequel, in which his successor's policy collapsed within three years, was summarized by [[E. B. Kielstra]]'s judgement that in Groot-Atjeh what had been won by the sword still had to be kept by the sword — "iets wat diezelfde ambtenaar niet inzag" ("something that the same official did not perceive") — a remark Langhout quotes in weighing the accusations cast at the first civil governor.
 
 ## See Also
 
@@ -274,6 +294,10 @@ The single tiger Hooijer reported seeing in the [[Acheh River|Atjeh valley]] was
 - [[Demmeni]]
 - [[Sagi der XXVI Moekims]]
 - [[Geconcentreerde linie]]
+- [[Government of Atjeh en Onderhoorigheden]]
+- [[Establishment of Civil Government in Aceh (6 April 1881)|Introduction of civil government in Atjeh (1881)]]
+- [[A. Pruijs van der Hoeven]]
+- [[Baiturrahman Grand Mosque|Missigit at Koeta Radja]]
 
 ## Sources
 
@@ -302,3 +326,5 @@ F. W. Stapel, *Geschiedenis van Nederlandsch-Indië*, p. 309 (cited in the same 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 9–12.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 38–43, 47, illustration caption p. 10 ("Meuseugit te Koeta-Radja, gebouwd op initiatief van Gouverneur Karel van der Heyden").

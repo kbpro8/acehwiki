@@ -1,7 +1,7 @@
 ---
 title: "Sidi Tahil"
-aliases: ["Sidi Tahil", "Sadi Tahil", "SIDI TAHIL", "Sidi Thahil", "the Priaman merchant"]
-tags: [person, merchant, intermediary, aceh-war, colonial, 19th-century, atjeh, priaman, diplomat, first-aceh-expedition]
+aliases: ["Sidi Tahil", "Sadi Tahil", "SIDI TAHIL", "Sidi Thahil", "the Priaman merchant", "Interpreter Sidi Tahil", "Tolk Sidi Tahil"]
+tags: [person, merchant, intermediary, aceh-war, colonial, 19th-century, atjeh, priaman, diplomat, first-aceh-expedition, "interpreter", "achehnese-service"]
 ---
 
 **Sidi Tahil** was a merchant from [[Priaman]] on the west coast of [[Sumatra]] who had traded for many years with the Acehnese and was well acquainted with [[Groot-Atjeh]]. He was engaged by [[F. N. Nieuwenhuizen|Government Commissioner Nieuwenhuizen]] as an intermediary during the diplomatic exchanges of [[March 1873]] preceding the [[First Aceh Expedition (1873)|First Aceh Expedition]], and was tasked with carrying the Commissioner's letters to and from [[Sultan Aladin Mahmoed Shah|Sultan Mahmud Shah]]. His mission — the first and most critical diplomatic contact between the Dutch and the Acehnese court in the crisis of [[1873]] — was ultimately judged to have been counterproductive, though Van Swieten noted that Sidi Tahil had done his best from his own standpoint.
@@ -44,6 +44,14 @@ After the formal declaration of war on [[26 March]] [[1873]], Sidi Tahil carried
 
 The central criticism was not of Sidi Tahil personally but of the decision to use a native merchant rather than a European official for a diplomatic mission of such importance. The failure to send [[Th. E. R. Kraaijenhoff|Kraaijenhoff]] — who had offered to go himself — was, in Van Swieten's judgment, the critical error.
 
+## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
+
+**Sidi Tahil** was the interpreter sent ashore by Government Commissioner [[F. N. Nieuwenhuizen|Nieuwenhuizen]] in March [[1873]] to deliver the Netherlands Indian Government's letters to the [[Sultan Machmoed Sjah|Sultan of Atjeh]], in the days immediately preceding the Dutch [[Nieuwenhuizen's mission to Atjeh and the declaration of war (March 1873)|declaration of war on Atjeh]].
+
+### Role in March 1873
+
+Sidi Tahil was "the same who at former visits of warships had acted as interpreter". When the Government Commissioner arrived in the roadstead of Atjeh on [[22 March]] [[1873]] with four warships, the interpreter was forthwith sent ashore with a letter to the Sultan. For his conveyance to the Atjehnese coast use was made of a prauw stopped at sea, because the temper in Atjeh toward the Hollanders made it inadvisable to send the men in Dutch sloops. On the evening of [[23 March]] the interpreter placed the Sultan's answer — the famous evasive sentence "Ware het ook niet zoo naar den wensch van het gouvernement, het is twee-maal mijn wensch!" — in the hands of Nieuwenhuizen; after a second letter had been answered equally insufficiently, war was declared.
+
 ## See Also
 
 - [[First Aceh Expedition (1873)]]
@@ -55,7 +63,11 @@ The central criticism was not of Sidi Tahil personally but of the decision to us
 - [[Toekoe Nek Radja Moeda Setia]]
 - [[Malilla]]
 - [[Aceh War]]
+- [[Nieuwenhuizen's mission to Atjeh and the declaration of war (March 1873)]]
+- [[Sultan Machmoed Sjah]]
 
 ## Source
 
 *De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten, Zalt-Bommel, Joh. Noman en Zoon, [1879], pp. 17, 24–27, 31–32.
+
+*Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 19–20.
