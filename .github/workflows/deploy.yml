@@ -48,9 +48,11 @@ jobs:
 
       - name: Build @quartz-community/utils
         run: |
-          cd node_modules/@quartz-community/utils
-          npm install --ignore-scripts
-          npx tsup
+          git clone https://github.com/quartz-community/utils.git /tmp/qc-utils
+          cd /tmp/qc-utils
+          npm install
+          npm run build
+          cp -r dist/ $GITHUB_WORKSPACE/node_modules/@quartz-community/utils/dist/
 
       - name: Install Quartz plugins
         run: npx quartz plugin install
