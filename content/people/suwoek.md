@@ -1,7 +1,7 @@
 ---
 title: "Suwoek"
-aliases: ["Suwoek", "the Menadonese maréchaussée Suwoek", "Maréchaussée-soldaat Suwoek"]
-tags: [person, soldier, menadonese, knil, marechaussee, atjeh, westkust, military, 20th-century]
+aliases: ["Suwoek", "the Menadonese maréchaussée Suwoek", "Maréchaussée-soldaat Suwoek", "Soewoek", "Menadonese Marechaussee Suwoek"]
+tags: [person, soldier, menadonese, knil, marechaussee, atjeh, westkust, military, 20th-century, aceh-history]
 ---
 
 **Suwoek** was a Menadonese *maréchaussée*-soldier of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* who took over the command of his *[[Brigade (Maréchaussée)|brigade]]* on the [[Westkust van Atjeh|west coast of Atjeh]] during the action of [[1925]]–[[1927]], after Captain [[J. Paris]], the brigade commander, and finally the wounded Javanese *maréchaussée* [[Kromo-di-Koro]] had each in turn been put out of action.
@@ -18,6 +18,10 @@ As a result of that fire the *maréchaussée* [[Sumangkut]] saw an opponent flee
 
 Of the brigade only two men remained unhurt; besides Captain Paris five other soldiers were killed and twelve wounded, while some twenty opponents were laid low and twenty-six *klewangs* captured.
 
+## Additional detail from the jubilee number
+
+During the [[1925]] West Coast ambush following the death of Captain [[J. Paris]], Suwoek assumed command from the severely wounded [[Kromo-di-Koro]]. He directed counter-fire, pursued charging Acehnese insurgents through the grass, and held the perimeter until reinforcements arrived.
+
 ## See Also
 
 - [[Gevecht waarin kapitein Paris sneuvelde (Westkust van Atjeh, 1925-1927)]]
@@ -26,6 +30,8 @@ Of the brigade only two men remained unhurt; besides Captain Paris five other so
 - [[J. Paris]]
 - [[Leleng]]
 - [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Louis Adriaan Snell]]
 
 ## Source
 

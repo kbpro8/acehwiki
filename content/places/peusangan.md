@@ -1,43 +1,7 @@
 ---
-title: Peusangan
-aliases:
-- Glumpang Dua
-- Pesangan
-- Peusangan landschap
-- Peusangan river
-- Kroeeng Peusangan
-- Pasangan
-- Peusangan-rivier
-- Peusangan rivier
-- Kroeëng Peusangan
-- Sungai Peusangan
-- Peusanganrivier (Peusangan River)
-- Peusanganrivier
-- Krueng Peusangan
-tags:
-- place
-- north-east-coast
-- landschap
-- river
-- achehnese
-- bireuen
-- noordkust-van-atjeh
-- colonial
-- oeléebalang
-- padiveld
-- irrigation
-- salt-making
-- aceh
-- noordkust
-- zelfbestuur
-- north-coast
-- aceh-war
-- 19th-century
-- 20th-century
-- bandjir
-- irrigatie
-- peusangan
-- gajoweg
+title: "Peusangan"
+aliases: ["Glumpang Dua", "Pesangan", "Peusangan landschap", "Peusangan river", "Kroeeng Peusangan", "Pasangan", "Peusangan-rivier", "Peusangan rivier", "Kroeëng Peusangan", "Sungai Peusangan", "Peusanganrivier (Peusangan River)", "Peusanganrivier", "Krueng Peusangan", "Peusangan valley"]
+tags: [place, north-east-coast, landschap, river, achehnese, bireuen, noordkust-van-atjeh, colonial, oeléebalang, padiveld, irrigation, salt-making, aceh, noordkust, zelfbestuur, north-coast, aceh-war, 19th-century, 20th-century, bandjir, irrigatie, peusangan, gajoweg, landscape, rice, atjeh]
 ---
 
 An area on the North Coast. The sadati dialogue: 'If that please thee not, little brother, let us go to the country of Peusangan in [[Glumpang Dua]]. In the country of Peusangan there are also strange doings; Teuku Ben (= Bentara) is dead, and no successor has yet been appointed.'
@@ -79,6 +43,20 @@ In [[1909]] [[H. N. A. Swart]] was authorised to pay 10,000 guilders in compensa
 *De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 22.
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn*.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Peusangan** was river rising from lake [[Laut Tawar]] in [[Gajo-land]] carrying large water wealth to coast, and large landscape >32,000 souls in underafdeeling [[Bireuen]] with hoofdplaats [[Bireuen]].
+
+### Landscape description
+
+Large landscape per Broersma oeléëbalang [[Mohamed Djohan Alamsjah]] etc. About third ground irrigable i.e., from swamp some wadoeks. Attempted irrigation from Peusangan at [[Panté Lhong]] splits two arms sea damming one arm by [[Burgerlijke Openbare Werken|B.O.W.]] after damming no water main line all water other arm cost 3 tons fruitless if want irrigation need new work maybe dam whole width expensive due daily wage 60 cent vs Atjeher redeeming heerendienst only 3 gulden whole year.
+
+Landscape real sawahs own construction tegal fields higher terrains also ladangs. Pepper pinang less important than elsewhere here besides padi also djagong oebi katjang tanah little sugarcane tobacco indigenous agriculture resembles Java more.
+
+Busy agriculture seen use credit biggest part capital Volkscredietbank [[Lho Seumawe]] in [[Bireuen]] sometimes 3 ton. In Peusangan about 10 gampongbankjes capitals 300-600 reserves 100-300.
+
+See also salt winning, elephants hunting, weaving.
+
 ## See Also
 
 - [[1873]]
@@ -117,11 +95,12 @@ In [[1909]] [[H. N. A. Swart]] was authorised to pay 10,000 guilders in compensa
 - [[Bireuën]]
 - [Heinzenknecht](/people/heinzenknecht)
 - [Atjeh-oorlog](/events/atjeh-oorlog)
+- [[Mohamed Djohan Alamsjah]]
+- [[Takengon]]
 
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter X, *'In het land van Peusangan'*, pp. 66–70.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV, XIII, XVII.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 59-64.

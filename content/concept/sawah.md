@@ -1,8 +1,9 @@
 ---
-title: Sawah
-aliases: [irrigated rice field, rice paddy, sawah (rice field), Atjehnese sawah, rice field Atjeh, Sawah]
-tags: [concept, acehnese, geography, agriculture, terrain, aceh-war, achehnese, rice, sawah, irrigated, blang, tegal, wadoek, locèng, colonial, java]
+title: "Sawah"
+aliases: ["irrigated rice field", "rice paddy", "sawah (rice field)", "Atjehnese sawah", "rice field Atjeh", "Sawah", "Blang", "Tegal", "Ladang", "Wadoek", "Loeng", "Sawah Atjeh"]
+tags: [concept, acehnese, geography, agriculture, terrain, aceh-war, achehnese, rice, sawah, irrigated, blang, tegal, wadoek, locèng, colonial, java, irrigation, atjeh]
 ---
+
 The **[[Sawah|sawah]]** (irrigated rice field, rice paddy) was the characteristic terrain of the Atjehnese lowlands — a flooded or marshy field, crossed only by narrow *galangs-an* (dikes), on which the Atjehneezen cultivated their padi (rice). The sawah was, in Borel's account, both the economic foundation of the Atjehnese war effort (the padi fed the warriors) and the most dangerous tactical terrain on which the Dutch could operate: a column marching across a sawah lost all order, exposed itself to Atjehnese fire from the boschrand, and could be cut to pieces by a *charge* of [[Klewang|klewang]]-armed warriors.
 
 ## Description and Tactical Significance
@@ -29,6 +30,28 @@ The most damaging single tactical episode involving the sawah in Borel's account
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters V, X, XIII, XV, *'Perlak, land van peper en olie'*, *'In het land van Peusangan'*, *'Het groote rijstland Pidië'* and *'Groot-Atjeh'*, passim.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Sawah** was irrigated rice field in [[Atjeh]], contrasted with rain-dependent *blang*, *tegal* dry fields, *ladang* slash-burn.
+
+### Details per Broersma
+
+Very many blangs in whole Atjeh but like know of real sawahs. In [[Peureula]] small waterworks improvement wadoek laid [[1906]] then little dike now 250 ha irrigated. Population lays ladang piece forest which for as needed digs to obtain one rice harvest reckless padi cultivation Sumatra still desired usual landscape administration Peureula limited determining ladang only allowed old pepper gardens which ladang builders must clean first excellent measure whereby abandoned decayed pepper gardens not perish wilderness.
+
+Landscape [[Langsa]] padifields more frequent called sawah's but rain-dependent on Java called *eega*. Yet landscape Langsa still rice deficit completable from [[Idi]] if harvest not fail partly due root disease.
+
+[[Pidie]] etc irrigation water fertile clay whole area many kampongs much bamboo. Without waterworks cannot manage needed only already to limit bandjirs. Population guided heads simple works others created labour [[Burgerlijke Openbare Werken|B.O.W.]] From landschapsdienst thus landscape kas majority.
+
+[[Seulimeum]] 22 moekims population earlier used living water irrigation sawahs besides many rain-dependent. Government worked expanding sawah surface still necessary irrigation Atjeh-valley expand e.g., Indrapoeri completely finished not. Large valley as padistreek not same as population diligent skilled cultivation far removed ground processing where terribly shortcoming.
+
+[[Peusangan]] its real sawahs own construction tegal fields higher terrains also ladangs pepper pinang less important here besides padi djagong oebi katjang tanah little sugarcane tobacco agriculture resembles Java more.
+
+[[Gajo-land]] has tegal fields even sawahs padi planter gladly even ladang. Collective etc.
+
+Irrigation attempt [[Peusangan]] at [[Panté Lhong]] two arms sea damming one arm by BOW no water main line fruitless cost 3 tons.
+
+[[Koeta Radja]]? etc.
+
 ## See Also
 
 - [[1874]]
@@ -51,9 +74,13 @@ The most damaging single tactical episode involving the sawah in Borel's account
 - [[Tegal]]
 - [[Verkenningen in Atjeh (1923)]]
 - [[Wadoek]]
+- [[Paditeelt]]
+- [[Peusangan]]
+- [[Peureula]]
+- [[Pidie]]
 
-## Sources
+## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 14, 20, 24, 46, 52–54, 64, 73, 117, 121, 124, 162, 200, 211, 228–237, 317–318.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923); *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), where applicable.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 26-27, 39-47, 60-64, 81, 83-84, 90-91, 97-115.

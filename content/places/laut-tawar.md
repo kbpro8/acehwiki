@@ -1,9 +1,10 @@
 ---
-title: Laut Tawar
-aliases: [Laut Tawar, Laoet Tawar, Lake Tawar, Gayo lake, the lake of Takengeun, lake of Takengeun, Tawar-meer, Tawar lake, Lake Laut Tawar, Takengon lake]
-tags: [place, lake, gayo, highland, aceh, gajolanden, achehnese, gajo-land, binnenbezittingen, colonial, takengon, depèq, fishing]
+title: "Laut Tawar"
+aliases: ["Laut Tawar", "Laoet Tawar", "Lake Tawar", "Gayo lake", "the lake of Takengeun", "lake of Takengeun", "Tawar-meer", "Tawar lake", "Lake Laut Tawar", "Takengon lake", "Tawar Meer", "Danau Laut Tawar"]
+tags: [place, lake, gayo, highland, aceh, gajolanden, achehnese, gajo-land, binnenbezittingen, colonial, takengon, depèq, fishing, atjeh]
 description: "Laut Tawar — Dutch Laoet Tawar — is the great natural lake of the Gayo highlands of Aceh, lying at about 1,200 metres above sea level, on which Takengeun stands at the southern terminus of the Gajoweg."
 ---
+
 **Laut Tawar** — Dutch ***Laoet Tawar***, also called the **lake of Takengeun** and the **Gayo lake** — is the great natural lake of the [[Gajoland|Gayo]] highlands of [[Atjeh|Aceh]], approximately 16 kilometres long and 4 kilometres wide, lying at about 1,200 metres above sea level in a basin enclosed by the high, pine-forested walls of the [[Klietel-massif|*Klietel*-massif]] to the south and the *B. ni Segi*–*B. ni Beboeli* chain to the north. It is the geographical and demographic heart of the [[Gajo Loeës|Gajo Loeës]] high plateau and the headwater of the [[Kr. Peusangan|Kr. Peusangan]], which descends from it to the North Coast; the village of [[Takengeun]] stands on its shore at the southern terminus of the [[Gajoweg|*Gajo-weg*]]. *De Buitenbezittingen* treats the *Laoet Tawar* as the principal physical feature of the Gayo lands: the body of water around which the great rice plains of *Bintang* and *Takengën* formed, and the barrier whose only access of *hoogen weg* from the north — the *Klietel*-saddle — was the route of the *Gajo-weg*, "met ontzaglijke moeite en kosten geslagen" (opened with immense effort and cost).
 
 ## Topography and formation
@@ -60,6 +61,18 @@ The lake is subject to the *depèq* — a dry wind that sometimes rises to storm
 
 Laoet Tawar is the geographic landmark of the Gajo country and the principal scenic attraction of the interior of northern Sumatra. The lake and its surrounding mountains form the highland basin which the colonial government hoped to develop as a *herstellingsoord* — a convalescent station — for the European population of the lowlands.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Laut Tawar** (*Laoet Tawar*) was lake at 1200+ meters above sea, 16 km long greatest width 5 km, at [[Takengon]] in [[Gajo-landen]], draining west via [[Peusangan River|Peusangan River]].
+
+### Description
+
+Great attraction [[Takengon]] but not only. Road along lake cut in mountain side small villages population fishes sawahs along rivers feeding lake. Can be rowed motorboat bestuur. View water surface tranquil splendour changing tints enjoy from road height surrounding or ridge mountains.
+
+Around [[Takengon]] trips e.g., [[Pegasèn-Relop]] valley, [[Kebajakan]] and [[Sarel]]. West of place stretches big blang grass plain [[Blang Kolag]] excellent terrain exercise game pleasant resort.
+
+Early settlement 1874 representatives Indian government meeting Gajos at [[Peureula]] where descended small vessels with dammar rottan gambir tobacco gold dust. Their land must be beautiful large lake densely populated kampongs per Atjehers tales.
+
 ## See Also
 
 - [[1903]]
@@ -96,13 +109,12 @@ Laoet Tawar is the geographic landmark of the Gajo country and the principal sce
 - [[Takengon]]
 - [[Takengën]]
 - [[Verkenningen in Atjeh (1923)]]
+- [[Blang Kolag]]
 
-## Sources
+## Source
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 4–6, 9.
-
 *De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), pp. 12–13, 17–20.
-
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn*.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters XI–XII, *'De Gajo-weg en zijn landschap'* and *'In het hart van Gajo-land'*, pp. 76–83.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 71-73.

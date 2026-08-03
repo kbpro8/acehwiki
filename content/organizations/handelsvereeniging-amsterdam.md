@@ -1,7 +1,7 @@
 ---
 title: "Handelsvereeniging Amsterdam"
-aliases: ["Handelsvereeniging Amsterdam", "H.V.A.", "HVA", "Trading Association Amsterdam", "Handelsvereeniging Amsterdam agency", "Handelsvereeniging Amsterdam in Oost-Atjeh", "De Amsterdam", "Handelsvereeniging Amsterdam (H.V.A.)", "Boeloe Belang Ara"]
-tags: [organization, company, dutch, colonial, planting, HVA, handelsvereeniging, rubber, koffie, oliepalm, 1920, 1922, boeloeh-blang-ara, oostkust-van-atjeh, aloer-djamboe, commercial, plantation, oost-atjeh, tamiang, science-patronage]
+aliases: ["Handelsvereeniging Amsterdam", "H.V.A.", "HVA", "Trading Association Amsterdam", "Handelsvereeniging Amsterdam agency", "Handelsvereeniging Amsterdam in Oost-Atjeh", "De Amsterdam", "Handelsvereeniging Amsterdam (H.V.A.)", "Boeloe Belang Ara", "Handelsvereeniging Amsterdam Boeloeh Blang Ara"]
+tags: [organization, company, dutch, colonial, planting, HVA, handelsvereeniging, rubber, koffie, oliepalm, 1920, 1922, boeloeh-blang-ara, oostkust-van-atjeh, aloer-djamboe, commercial, plantation, oost-atjeh, tamiang, science-patronage, trading, atjeh]
 ---
 
 **The Handelsvereeniging Amsterdam** — the *H.V.A.*, the Trading Association of Amsterdam — was a major Dutch planting-company active in the *Gouvernement Atjeh en Onderhoorigheden* in the post-war period. Its principal Atjeh-estate was [[Boeloeh Blang Ara|Boeloeh Blang Ara]] in the *onderafdeeling* [[Lho Seumawe|Lho' Seumawé]] of the *afdeeling* [[Noordkust van Atjeh|Noordkust van Atjeh]], opened in [[1920]] and given up as failed in [[1922]] after the H.V.A. had spent eight tons of gold on it. The H.V.A. also held the estate [[Aloer Djamboe|Aloer Djamboe]] in [[Tamiang|Tamiang]], wholly obtained from graftings.
@@ -42,6 +42,20 @@ The Handelsvereeniging Amsterdam, which had long possessed "cultuurrecht" in the
 
 The book places the H.V.A. case within the debate then raging: Governor Westenenk of East Sumatra had recently, in a conference of chiefs of administration in the Outer Possessions, pleaded for the retention of the penal sanction as a factor for the development of the Outer Possessions, for order and regularity and for better hygienic conditions among the coolie population — with the unanimous assent of all chiefs of territorial administration; Mr. Fock answered that the Indian Government would seriously reckon with the judgement unanimously expressed by the chiefs. And the *Soerabaiasch Handelsblad* and the *Java Bode*, on the occasion of the retention of the heer [[S. de Graaff|De Graaff]] as Minister of Colonies, had jointly concluded that "from this statesman no inconsiderate deeds need be feared toward the cultures in Netherlands India".
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Handelsvereeniging Amsterdam** (*H.V.A.*) was major trading and plantation association.
+
+### Estates
+
+[[Temiang]]: enterprise [[Aloer Djamboe]] wholly from graftings obtained.
+
+[[Lho Seumawe]]: enterprise [[Boeloeh Blang Ara]] opened [[1920]] and gave up [[1922]] as failed after spending 8 tons gold. Must have seen abandoned enterprise to know sad impression closing would have escaped general attention if not reports about reasons HVA would have withdrawn fearing restriction penal sanctions labour contract. Though could feel not true reason statement found belief. Otherwise reasons given HVA to bestuur Atjeh: disappointment soil climate unfavorable health condition little cooperation bestuur. Added second plan assistentenregeling threatening shrinkage penale sanctie. Bestuur not lay down with one reason little cooperation bestuur HVA withdrew accusation claimed disappointments soil climate after 2 years overcome but before second spending equally big amount chose retreat Then through reports about return more or less disgraceful. Fact coffee terrains [[Boeloeh Blang Ara]] full big stones rainfall below 2000 mm yearly. Coffee gardens looked few months ago still favorable because soil loose clean *lamtoro* intercrop same high as coffee rubber gardens less favorable Other terrains concession HVA tried oilpalm tea. Thought big plans realize. When started coffee rubber height 150-200m appeared soil obstacles many stones low rainfall. Faced choice progress two enterprises large expansion or stopping all activities loss 8 ton latter chosen But if fault big in game then found nobody else than HVA itself. Ground with all buildings end [[1922]] returned to land other bidders came look attracted presence gardens buildings per info concession already reissued.
+
+### Significance
+
+Example of risky big agriculture in Atjeh one big misery deterrent per Broersma.
+
 ## See Also
 
 - [[Boeloeh Blang Ara]]
@@ -60,15 +74,14 @@ The book places the H.V.A. case within the debate then raging: Governor Westenen
 - [[Poenale sanctie]]
 - [[Lho Seumawè]]
 - [[Foreign capital in Atjeh]]
+- [[Temiang]]
+- [[Atjeh Tram]]
 
-## Sources
+## Source
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters II, IX, *'Tamiang'* and *'In het oude rijk Samoedra'*, pp. 7, 63–65.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim; *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), for the Koloniaal Instituut and Handelsmuseum.
-
 *Over eene collectie vogelhuiden van Oost-Atjeh*, door Ir. Jhr. F. C. van Heurn en Mr. Dr. Baron R. C. E. G. J. Snouckaert van Schauburg, in *Jaarberichten* (Koloniaal Instituut). Koninklijk Instituut voor de Tropen, Br N 95-1210
-
 *Acknowledgement of sources.* The material in this article derives from *Over eene collectie vogelhuiden van Oost-Atjeh* by Ir. Jhr. F. C. van Heurn and Mr. Dr. Baron R. C. E. G. J. Snouckaert van Schauburg (Koloniaal Instituut, *Jaarberichten*). Dutch passages are quoted in the original with an English rendering.
-
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 172–175 (chapter "Rubberaanplant op Atjeh's Oostkust"), illustration captions pp. 172–175.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 8, 57-59.

@@ -1,7 +1,7 @@
 ---
 title: "Teukoe Tjhi Mohamad Thajeb"
-aliases: ["Teukoe Tjhi Mohamad Thajeb", "Teukoe Tjhi Mohamad Thaib", "Mohamad Thajeb", "Mohamad Thajib Peureula", "Tjhi Mohamad Thajeb", "oeléebalang of Peureula since 1913"]
-tags: [person, oeleebalang, achehnese, perlak, volksraad, bandoeng, moderniser, 1913, 1918, colonial, verlicht]
+aliases: ["Teukoe Tjhi Mohamad Thajeb", "Teukoe Tjhi Mohamad Thaib", "Mohamad Thajeb", "Mohamad Thajib Peureula", "Tjhi Mohamad Thajeb", "oeléebalang of Peureula since 1913", "Thajeb Peureula", "Oeléëbalang Peureula 1913"]
+tags: [person, oeleebalang, achehnese, perlak, volksraad, bandoeng, moderniser, 1913, 1918, colonial, verlicht, uleebalang, peureula, modernist]
 ---
 
 **Teukoe Tjhi Mohamad Thajeb** was the *[[Oeléebalang|oeléebalang]]* of [[Peureula (Perlak)|Peureula (Perlak)]] from [[1913]] onward, succeeding his father [[Teukoe Tjhi Perlak|Teukoe Tjhi Perlak]] in the chieftaincy at the moment when the oil-cijns was regularised into the *landschapskas* and the chief received a fixed income. He is the principal example in Broersma's *[[Verkenningen in Atjeh (1923)|Verkenningen in Atjeh]]* of the *verlichte hoofden* — the enlightened chiefs — *'die niet vreemd wenschten te blijven aan Westersche begrippen'* — who do not wish to remain strangers to Western ideas.
@@ -18,7 +18,20 @@ Broersma notes that, whenever trials or measures are needed for the improvement 
 ## Significance
 Mohamad Thajeb's chieftaincy is a representative case of the second generation of post-pacification *oeléebalangs* — the sons sent to Dutch schools in Java, who returned to rule their *landschappen* with Western habits and Dutch-speaking colleagues. Broersma treats him alongside [[Mohamad Djohan Alamsjah|Mohamad Djohan Alamsjah]] of [[Peusangan]] as the type of the new chief.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Teukoe Tjhi Mohamad Thajeb** was [[Uleebalang|oeléëbalang]] of [[Peureula]] since [[1913]], son of [[Teukoe Tjhi Moeda Peusangan]], educated in [[Bandoeng]].
+
+### Administration
+
+Schooled in Bandoeng, he had no Atjeh past when acting as administrator and could feel more at home in spheres where younger generation native administrators must be able to move. His father, who follows affairs closely, was not old-fashioned in worse sense.
+
+From [[1918]] to [[1919]] member of [[Volksraad]], office of oeléëbalang then observed by *banta*. When needed for improvement volkscultures trials or measures, cooperation of Moehamad Thajeb could be counted upon. He belonged to enlightened heads not wanting to remain stranger to western concepts.
+
+He encouraged bringing sawahs in order, applying motor plows of landscape at payment e.g., 5 gulden for half *baoe* in landscape, brought to f 7.50 for half baoe for [[1924]].
+
 ## See Also
+
 - [[Teukoe Tjhi Perlak]]
 - [[Peureula (Perlak)]]
 - [[Oeléebalang]]
@@ -29,6 +42,11 @@ Mohamad Thajeb's chieftaincy is a representative case of the second generation o
 - [[Pepper cultivation in Atjeh]]
 - [[1913]]
 - [[1918]]
+- [[Peureula]]
+- [[Teukoe Tjhi Moeda Peusangan]]
+- [[Peperteelt]]
 
 ## Source
+
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter VI, *'Oeléebalang's volkshoofden'*, pp. 41–42. Also *Het Achehnese*, by Dr. C. Snouck Hurgronje, Vol. I (Leyden 1906), p. 96, for the comparison of the *banta* with the Javanese *patih*.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 38, 32-34.

@@ -1,7 +1,7 @@
 ---
 title: "Kromo-di-Koro"
-aliases: ["Kromo-di-Koro", "Kromodikoro", "the Javanese maréchaussée Kromo-di-Koro"]
-tags: [person, soldier, javanese, knil, marechaussee, atjeh, westkust, military, 20th-century]
+aliases: ["Kromo-di-Koro", "Kromodikoro", "the Javanese maréchaussée Kromo-di-Koro", "Javanese Marechaussee Kromo-di-Koro"]
+tags: [person, soldier, javanese, knil, marechaussee, atjeh, westkust, military, 20th-century, aceh-history]
 ---
 
 **Kromo-di-Koro** was a Javanese *maréchaussée* of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* who, though wounded, assumed command of his *[[Brigade (Maréchaussée)|brigade]]* on the [[Westkust van Atjeh|west coast of Atjeh]] during the action of [[1925]]–[[1927]] after both Captain [[J. Paris]] and the brigade commander had been killed.
@@ -18,6 +18,10 @@ Colonel [[L. A. Snell]], interviewed in the same issue, named Kromo-di-Koro last
 
 The jubilee number concluded its account of the episode with the judgement that "de oude geest van het Korps Maréchaussée was bij zijn manschappen blijven voortleven" — the old spirit of the Corps Maréchaussée had continued to live on among its men.
 
+## Additional detail from the jubilee number
+
+During a lethal ambush in [[1925]] near [[Meulaboh]] in which Captain [[J. Paris]] and his brigade commander were killed, wounded Marechaussee Kromo-di-Koro took command of the surviving twelve men. He organized defensive volley fire into the surrounding *alang-alang* grass until collapsing from severe blood loss, successfully preventing the unit from being wiped out.
+
 ## See Also
 
 - [[Gevecht waarin kapitein Paris sneuvelde (Westkust van Atjeh, 1925-1927)]]
@@ -27,6 +31,8 @@ The jubilee number concluded its account of the episode with the judgement that 
 - [[Leleng]]
 - [[L. A. Snell]]
 - [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Louis Adriaan Snell]]
 
 ## Source
 

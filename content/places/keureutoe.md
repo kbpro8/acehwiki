@@ -1,7 +1,7 @@
 ---
 title: "Keureutoe"
-aliases: ["Kerti", "Kerti (north coast statelet)", "Kirti", "Keureutdë", "Keuretoe", "landschap Keureutòë"]
-tags: [place, north-east-coast, aceh, noordkust, landschap, 1893, piracy, resistance, aceh-war, 20th-century]
+aliases: ["Kerti", "Kerti (north coast statelet)", "Kirti", "Keureutdë", "Keuretoe", "landschap Keureutòë", "Keureuto", "Keureutoe landschap", "Kroeëng Keureuto"]
+tags: [place, north-east-coast, aceh, noordkust, landschap, 1893, piracy, resistance, aceh-war, 20th-century, landscape, river, lho-soekon, atjeh]
 ---
 
 A kingdom on the North or East Coast of [[Acheh]]. In the Hikayat Eseukanda Ali (XVI), the merchant prince Ali Juhari is established as a sugarcane planter in Keureutoe (Kerti): 'With this in view they purchased land from Ahli, king of Keureutoe and built a sumptuous residence which was called [[Indra Siluka]].' The princess Ra'na Jamin is the daughter of the sovereign of Keureutoe. The Achehnese regard this as a fragment of history of 'Timu' (the East, the North and East Coasts). The giant Mala'oy Rimba also 'had just returned to his forest haunt from Keureutoe, bringing with him the dead body of a girl.'
@@ -50,6 +50,22 @@ The year [[1910]] brought the decisive turn: [[Pang Nanggròë]] fell in the [[P
 
 Keureutòë is the district in which du Croo's book most fully documents both the human cost of Dutch administrative error — the exclusion of a rightful heir producing thirty-eight years of resistance in one family — and the constructive method by which [[H. N. A. Swart]] reversed it: repayment of withheld incomes, advances for the purchase of cattle, and the return of the *oelèëbalangs* to their *gampongs*.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Keureutoe** (*Keureuto*, *Kroeëng Keureutö* pronounced Kertō) was river and landscape in [[Lho Soekon]] splitting underafdeeling in two halves different nature.
+
+### Description
+
+Middle [[Lho Soekon]] run rivers [[Peutoë]], [[Pira]] and [[Keureutö]] near hoofdplaats [[Lho Soekon]] connection two arms sea. Keureuto splits underafdeeling: south-eastern half all *paja* swamp 15k souls smaller northern half free counts double souls. Relation will on duration otherwise comes more people now head [[Simpang Olim]] controlled floods [[Djamboe Aje]] drainage promoted.
+
+Hill region 100-300m extent toward [[Rödjö Boekit]] planting pepper though not much that [[Lho Soekon]] pepper land like [[Idi]] or [[Peureula]] or [[Groot-Atjeh]]. [[1921]] [[Lho Soekon]] 1383 picol exported but hill region marked Atjeh military annals where about 15 years ago resistance flared difficult reach because withdrew from [[Paja Tjitjem]] to hills then [[Christoffel]] bivouac [[Panton Labeuë]] subdued.
+
+Memories suffered sorrow still fresh spiritual parasites misuse doctrine holy war keep moods bitter vigilance double necessary not conspicuous presence bestuursambtenaren with Atjeh experience language highly valued.
+
+At [[Blang Djeroëën]] lives oelèëbalang [[Teukoe Tjhi Bentara]].
+
+In fairly favorable region like this known as someone who much rice eats as little other food. Lush area e.g., kampong [[Moeliën]] irrigation blessing between big kampongs beautiful blangs wide view cultivable plain mountain background big birds *reigers* cheerful outdoor life happy place peaceful farmer spared war kampongs many good houses ornament large bamboo wealth.
+
 ## See Also
 
 - [[Acheh]]
@@ -71,13 +87,15 @@ Keureutòë is the district in which du Croo's book most fully documents both th
 - [[Lho' Soekon]]
 - [[The resistance in Atjeh 1908–1912]]
 - [[Noordkust van Atjeh]]
+- [[Lho Soekon]]
+- [[Teukoe Tjhi Bentara]]
+- [[Paja Tjitjem]]
+- [[Christoffel]]
 
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
-
 *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
-
 *Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, pp. 94–95; Chapter XI, pp. 103–106.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 47-51.

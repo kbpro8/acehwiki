@@ -2,7 +2,11 @@
 title: Christoffel
 aliases: ["Christoffel", "Toean Kristoppel", "Corporal Christoffel", "Kapitein Christoffel", "Christoffel of de colonne matjan", "commandant der colonne matjan", "Christoffel marechaussée", "apitan rimoeeng", "Christoffel de tijger-kapitein", "Christoffel Keureuto", "Christoffel Paja Tjitjem", "Onderluit. Mar. H. Christoffel", "H. Christoffel"]
 tags: [person, officer, dutch, knil, marechaussee, aceh, aceh-war, 20th-century, colonne-matjan, military, colonial, marechaussée, keureuto, lho-soekon, apitan-rimoeeng, tiger-captain, honours, jubilee]
+title: "Christoffel"
+aliases: ["Christoffel", "Toean Kristoppel", "Corporal Christoffel", "Kapitein Christoffel", "Christoffel of de colonne matjan", "commandant der colonne matjan", "Christoffel marechaussée", "apitan rimoeeng", "Christoffel de tijger-kapitein", "Christoffel Keureuto", "Christoffel Paja Tjitjem", "Kapitan Rimoeëng", "Christoffel marechaussee", "Tijger-kapitein"]
+tags: [person, officer, dutch, knil, marechaussee, aceh, aceh-war, 20th-century, colonne-matjan, military, colonial, marechaussée, keureuto, lho-soekon, apitan-rimoeeng, tiger-captain]
 ---
+
 **Christoffel** — *Toean Kristoppel* (in the Acehnese idiom of the old hunter [[Datoek]]), *kapitein Christoffel* — was a Dutch maréchaussée officer and commander of the ***[[Colonne Matjan]]*** (Tiger-Colonne) of the [[Korps Marechaussee van Atjeh en Onderhorigen]] in [[Atjeh|Aceh]], selected in [[1908]] to form the special twelve-brigade division raised to break the revolt spreading from [[Lho Soekon]], [[Keureutoe]], and Pasé. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Christoffel is the fourth-named in [[Musket]]'s list of the Marechaussee commanders, and the first of the *sobat kras* (heavy friends) whom [[Datoek]] names — "I was a 'heavy friend' with Toean Kristoppel" — noting that Christoffel was, in Datoek's time, still a corporal. He was chosen, [[H.C. Zentgraff|Zentgraff]] writes, as a man *hard en ongenadig als een rots* (hard and merciless as a rock), who would receive *eene vrijwel onbeperkte volmacht* (an almost unrestricted mandate) and would, *ten koste van wat dan ook* (at whatever cost), restore order with *uiterste gestrengheid* (utmost severity).
 
 ## Datoek's sobat kras
@@ -55,6 +59,15 @@ The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in 
 He was one of the very few *onderluitenants* to receive that class: the editors noted that the 3rd class had in total been granted to only eleven members of the corps — five officers, one *onderluitenant*, four sergeants and one soldier, the last being the well-known [[Nussy]].
 
 Colonel [[C. A. Snell|L. A. Snell]], interviewed in the same issue, recalled him among the old *vuurvreters* as "den onverzettelijken Christoffel" — the unyielding Christoffel.
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Christoffel** was a captain of the [[Korps Marechaussee te Voet|Marechaussee]], nicknamed *kapitan rimoeëng* (tiger-captain) because his grip was bloody, active in the hill country of [[Keureutoe]] and [[Paja Tjitjem]] area.
+
+### Pacification around 1908-1910
+
+When about 15 years before [[1923]] resistance flared in hill country 100-300m forming extent toward gebergte [[Rödjö Boekit]], difficult to reach because withdrew from [[Paja Tjitjem]] to hills, Christoffel with his maréchaussées was sent, who occupied bivouac at [[Panton Labeuë]] and from there subdued resistance.
+
+Memories of suffered sorrow in region [[Keureutoe]] still fresh at time of Broersma visit; spiritual parasites misuse doctrine of holy war to keep moods bitter, requiring vigilance not conspicuous, presence bestuursambtenaren with Atjeh experience and language knowledge highly valued.
 
 ## See Also
 
@@ -86,13 +99,14 @@ Colonel [[C. A. Snell|L. A. Snell]], interviewed in the same issue, recalled him
 - [[C. A. Snell]]
 - [[Nussy]]
 - [[Militaire Willemsorde]]
+- [[Panton Labeue]]
+- [[Marechaussee]]
 
-## Sources
+## Source
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder and the chapter *Jagerslatijn*.
-
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter VIII, *'Lho Soekon, licht en donker'*, p. 55.
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, p. 50.

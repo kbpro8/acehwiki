@@ -1,7 +1,7 @@
 ---
 title: "Passenstelsel"
 aliases: ["passenstelsel", "pass system", "the pass system in Atjeh"]
-tags: [concept, administration, colonial, dutch, atjeh, policing, security]
+tags: [concept, administration, colonial, dutch, atjeh, policing, security, administrative, policy]
 ---
 
 The **passenstelsel** was the pass system introduced in [[Atjeh]] alongside the prohibition on the carrying of weapons, as a measure against the *overvallen* (surprise attacks) that followed the *[[Concentratiestelsel|concentratie]]* of [[19 August]] [[1884]] — and whose insufficiency was one of the immediate reasons for raising the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* in April [[1890]].
@@ -14,6 +14,12 @@ The [[1930]] jubilee number records that after the concentration decision small 
 
 Because these measures proved insufficient, "een afzonderlijk korps, de Maréchaussée, werd onder nadere goedkeuring des Konings opgericht" — a separate corps, the Maréchaussée, was established under the further approval of the King, to which the ultimate task would fall of taking so important a part in the pacification of the restless region.
 
+## Additional detail from the jubilee number
+
+Under the policy, carrying weapons of any kind—including traditional Acehnese daggers (*rencong*) and swords (*klewang*)—was strictly criminalized for the Acehnese population residing within or entering the concentrated military ring around [[Kuta Raja]]. Civilians were required to register with the authorities and carry written travel passes (*passen*) issued by the administration or monitored by the [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]].
+
+Despite rigid enforcement, the pass system failed to prevent guerrilla infiltration due to widespread civilian sympathy for the resistance and the difficulty of monitoring densely vegetated terrain. The system was supplemented after [[1896]] by active mobile counter-insurgency patrols.
+
 ## See Also
 
 - [[Concentratiestelsel]]
@@ -21,6 +27,8 @@ Because these measures proved insufficient, "een afzonderlijk korps, de Marécha
 - [[Geconcentreerde linie]]
 - [[1884]]
 - [[1890]]
+- [[Concentratie-Stelsel]]
+- [[Binnenlandsch Bestuur in Atjeh]]
 
 ## Source
 

@@ -1,48 +1,7 @@
 ---
-title: Lho' Seumawe
-aliases:
-- Lhokseumawe
-- Lho Seumawe (north coast)
-- Lho Seumawan
-- Lhoseumawe
-- Lhöi Seumawè
-- Lho Seumawe onderafdeeling
-- Lho Seumawe havenplaats
-- Lho' Seumawé landschap
-- Lho' Seumawe'sche
-- Lho Seumawé
-- Lhok Seumawe
-- "Lhō Seumawè"
-- "Lho Seumawee"
-- "Lo Seumawe"
-tags:
-- place
-- north-east-coast
-- coast
-- uleebalangship
-- north-coast
-- north-east
-- mahraja
-- port
-- noordkust
-- oostkust
-- colonial
-- harbour
-- town
-- underafdeeling
-- achehnese
-- noordkust-van-atjeh
-- maharadja
-- sarikat-islam
-- paketvaart
-- gemeentefonds
-- aceh
-- landschap
-- aceh-war
-- 20th-century
-- city
-- "coastal"
-
+title: "Lho' Seumawe"
+aliases: ["Lhokseumawe", "Lho Seumawe (north coast)", "Lho Seumawan", "Lhoseumawe", "Lhöi Seumawè", "Lho Seumawe onderafdeeling", "Lho Seumawe havenplaats", "Lho' Seumawé landschap", "Lho' Seumawe'sche", "Lho Seumawé", "Lhok Seumawe", "Lhō Seumawè", "Lho Seumawee", "Lo Seumawe", "Lho' Seumawé", "Haven Lho Seumawe", "Afdeeling Noordkust"]
+tags: [place, north-east-coast, coast, uleebalangship, north-coast, north-east, mahraja, port, noordkust, oostkust, colonial, harbour, town, underafdeeling, achehnese, noordkust-van-atjeh, maharadja, sarikat-islam, paketvaart, gemeentefonds, aceh, landschap, aceh-war, 20th-century, city, coastal, atjeh, historical-kingdom, samoedra]
 ---
 
 An important port and centre on the North Coast. The Mahraja (chief) of Lho' Seumawe is mentioned: 'I will not live at Sawang Keupula, for I fear lest the Mahraja (of Lho' Seumawe) may carry me off.' (sadati dialogue). Lho' Seumawe appears in the list of North Coast places referenced in the hikayats and sadati performances.
@@ -167,6 +126,44 @@ Under the resolution of [[29 May]] [[1883]] Lho Seumawè belonged to the few har
 
 Funds for the line [[Sigli]]–Lho Seumawè were granted in the budget of [[1900]]; construction proceeded from both ends — the middle section in [[Samalanga]] being politically inaccessible — and was completed in April [[1904]] after three iron bridges had been washed away by *bandjirs*. From Lho Seumawè the route was continued under the budget of [[1901]] toward [[Idi]], after a proposal for a line from the [[Aroebai|Aroe-baai]] to Lho Seumawè had been rejected by the Government. The town received a Hollandsch-Indlandsche school in [[1916]]; in [[1913]] a credit bank for the North Coast arose there (with that at [[Langsar]] for the East Coast), and a government post- and telegraph-office, and agencies of the [[Atjehsche Handelmaatschappij]] and of Medan houses. In [[1922]] N. [[N. van Zalinge|van Zalinge]] reported that the shipping-off of pinang-nuts and copra from Lho Seumawè, though it showed no increase over that year, would grow in the future "since ever more coconut- and pinang-trees are planted", while trade centred ever more on [[Langsar]], the rising estate district in its vicinity.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Lho Seumawe**, sometimes written *Lho' Seumawé*, was afdeelingshoofdplaats on north-east coast of [[Atjeh]], on little island with lagoons connected to Sumatra by bridge 120 meters, former main harbour north-east coast and still one of principal ports.
+
+### Old kingdom Samoedra
+
+Crossing [[Pasei River|Pasé-rivier]] entering [[Gendong]] and [[Blang Me]] old landscapes near sea belonging territory now underafdeeling [[Lho Seumawe]] but where earlier 6 centuries considerable kingdom [[Samoedra]] and adjacent [[Pasé]]. Travelers middle ages been there noted. Further 5-6 centuries earlier Chinese travelers afterwards Arabs traders with Islam. [[Marco Polo]] spoke of Sama(d)ra i.e., Samoedra said cannibals but also rice *arén* palm and coconut used. [[Fei Hsin]] saw two centuries later pepper grew and people prepared *toewak* from nipah palm and then annually two harvests obtained from dry fields! Sultans rode high on elephant and went to battle against unbelievers. Now kampong [[Samoedra]] no old archive present. Here there graves old sultans princes of which in [[Blang Me]] most known. Some *praalgraven* for which marble used. Marble tombstone standing at head grave bearing mention names facts Arabic inscriptions. Remote in waterland offers royal rest under high trees sacred place pious land.
+
+In 15th and 16th century [[Samoedra]] and [[Pasé]] under [[Atjeh Sultanate|Atjeh]], princes subordinate sultan. When Atjeh over time lost power, developed in all regions outside [[Groot-Atjeh]] independence princes and heads, process in some landscapes such that too many heads and headlets eager own authority. Settlers pepper planters from elsewhere new *oulossens* to authority-bearing heads. Fragmentation authority could sometimes ease for Netherlands administration, usually caused trouble delay measures.
+
+### Town description
+
+Mountain outcrops push north close to sea along military road and tram now and then short distance continue to hoofdplaats [[Lho Seumawe]], factually on islet with lagoons. Fairly favourably lying at bay where ships can come close steiger, was earlier main harbour north-east coast and nowadays still one of main. Island connected Sumatra by bridge 120 meter.
+
+Town afdeelingshoofdplaats bears burdens location outside on silted terrain and when Netherlands settlement had to come nobody thought build villa. Military dwellings arose style colour emergency and private beside before beside in hasty wooden construction so [[Lho Seumawe]] became dark residence without any laugh. What is [[Langsa]] with boring space, [[Idi]] with small rest far preferable above harbour town old Samoedra! Current administration rightly wishes turn necessity into virtue asks cooperation for improvement plans first health. Lagoon coast sends evening mosquito flights town and author saw large dwelling walls corners black of mosquitoes. Drying terrain on land not work only big entrepreneurs can or years labour so better future in sight.
+
+### Administration and gemeentefonds
+
+Gemeentefonds manages water pipeline from sandplate to town so suitable water in houses. Wells here there little salty water. Moreover maintains sea bath where enclosure removes danger animals. Europeans monthly one gulden. Population also uses and regulation whereby white and brown not hinder each other. Fonds maintains pasar, slaughterhouse, cinema with string ensemble. Trade in youngest years lost significance, e.g., ... Handel Mij narrowed. Chinese handle usual export products mostly to [[Penang]] settle with import manufacturen, plus money drafts would like credit on *cognossement* of shipped goods.
+
+[[Lho Seumawe]] has import-export for whole afdeeling [[Noordkust van Atjeh]], except however [[Samalanga]] using [[Sigli]]. Therein pointer that [[Sigli]] rising and [[Lho Seumawe]] declining. In [[1921]] 120 ships cleared, [[1922]] 108 almost all [[Koninklijke Paketvaart Maatschappij|Kon. Paketvaart]]. Export: [[1918]] 734,120 KG vs [[1921]] 1,425,694 KG copra? Actually copra 734k? Table: copra? In text: 1918 734,120 KG 6,186,492 1921 1,425,694 KG copra 7,088,652 pinang 558,266 793,115 pepper. Receipts tol office: [[1920]] [[1921]] [[1922]] import f 117,062 164,520 159,338 export cijns petroleum 36,931 34,226 etc. Comparison notes duties 1921 increased 100%, 1922 again 100% not increased trade.
+
+[[Lho Seumawe]] derives part bustle because in middle [[Atjeh Tram|Atjeh-tram]]: travellers [[Koeta Radja]] further than [[Lho Seumawe]] must overnight and vice versa. Small European hotel and pasanggrahan as happily on many places Atjeh fairly suitable.
+
+Several landscapes underafdeeling one small called [[Lho Seumawe]] but head from old prominent prince bearing title *mbaharadja* indicating former prestige at sultan whole Atjeh. See [[Teungkoe Abdoel Hamid Orangkaja Sri Maharadja Mangkoe Boemi]].
+
+### Schools and population
+
+Afdeeling counts 58 volksscholen few for girls pupils 3409 boys 918 girls. At [[Lho Seumawe]] course to train volksonderwijzers yearly 12. Salary teachers 20-40 gulden head school 5 more. Moreover 6 gouvernements inland schools and in afdeeling one Hollandsch-inlandsche school. Soul count whole afdeeling ~170k about 2300 Chinese whereof in underafdeeling alone 1100; 182 Europeans per Broersma.
+
+### Other landscapes and estate Boeloeh Blang Ara
+
+Underafdeeling water enough but irrigation work could larger plans money not. Irrigation necessary because rivers no middle course. They come from mountains burden narrow plain with *bandjirs*, circumstance complicates works regulating watercourse. Only here there sawahs mostly tegalfields called sawah. Pepper gardens in hill pinang klappers grow everywhere. Cattle e.g., nice landscape [[Tjoenda]] sold Medan.
+
+Landscapes [[Tjoenda]] and [[Nisam]] water from [[Kroeëng Boeloh]] where 12 km westwards [[Lho Seumawe]] stone dam sometimes endangered bandjirs. Population lukewarm such works does little nothing.
+
+End westwards narrow bumpy road enterprise [[Boeloeh Blang Ara]] which [[Handelsvereeniging Amsterdam]] opened [[1920]] and gave up [[1922]] as failed after spending 8 tons gold. Must have seen abandoned enterprise to know sad impression. However closing would have escaped general attention if not reports about reasons HVA would have withdrawn fearing restriction penal sanctions labour contract. Though could feel not true reason statement found belief. Otherwise reasons given HVA to bestuur Atjeh: disappointment soil climate unfavorable health condition little cooperation bestuur. Added second plan upcoming assistentenregeling threatening shrinkage penale sanctie. Bestuur not lay down with one reason little cooperation bestuur HVA withdrew accusation claimed disappointments soil climate after 2 years overcome but before second spending equally big amount chose retreat Then through its reports about return made itself more or less disgraceful. Fact coffee terrains [[Boeloeh Blang Ara]] full big stones rainfall below 2000 mm yearly. Coffee gardens looked few months ago still favorable because soil loose clean *lamtoro* as intercrop same high as coffee. Rubber gardens less favorable. Other terrains concession HVA tried oilpalm tea. Not imagination needed see HVA thought big plans to realize. And when started coffee rubber at height 150-200m appeared soil obstacles presence many stones low rainfall. Faced choice progress with two enterprises large expansion or stopping all activities loss 8 ton. Latter chosen. But if fault big in game then found nobody else than HVA itself. Ground with all buildings end [[1922]] returned to land. Other bidders came look attracted presence gardens buildings per info concession already reissued.
+
 ## See Also
 
 - [[1873]]
@@ -225,17 +222,16 @@ Funds for the line [[Sigli]]–Lho Seumawè were granted in the budget of [[1900
 - [[Atjeh Tram]]
 - [[Bataafsche Petroleum Maatschappij|Petroleum industry in Atjeh]]
 - [[Boeloe Belang Ara]]
+- [[Peureula]]
+- [[Blang Me]]
+- [[Teungkoe Abdoel Hamid Orangkaja Sri Maharadja Mangkoe Boemi]]
 
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
-
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 28–30, 70–72, 126, 213–217, 227–229.
-
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 198–199. Rijksarchief, Den Haag.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter IX, *'In het oude rijk Samoedra'*, pp. 59–65.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV, p. 22; Chapter IX, pp. 90–92; Chapter X, p. 102; Chapter XI, pp. 105, 109; Extract from the service record, p. 172.
-
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 53, 71, 110, 124, 127, 136–137, 157, 178–179, 183, 185.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 52-60.

@@ -1,7 +1,7 @@
 ---
 title: "Sigli"
-aliases: ["Siglir", "Tandjong Sigli", "Atjeh Sigli", "haven van Sigli", "the harbour of Sigli", "Sigli hoofdplaats", "Sigli havenplaats", "Sigli Pidië", "Atjeh-tram workshop Sigli", "the troop command at Sigli", "Siglie", "Siglii", "Pidië Sigli"]
-tags: [place, hoofdplaats, noordkust, achehnese, colonial, dutch, buitenbezittingen, tramway, town, harbour, pidie, paketvaart, atjeh-tram, workshop, waterleiding, aceh, garrison, aceh-war, 20th-century, "coastal"]
+aliases: ["Siglir", "Tandjong Sigli", "Atjeh Sigli", "haven van Sigli", "the harbour of Sigli", "Sigli hoofdplaats", "Sigli havenplaats", "Sigli Pidië", "Atjeh-tram workshop Sigli", "the troop command at Sigli", "Siglie", "Siglii", "Pidië Sigli", "Sigli Atjeh", "Sigli port", "Afdeeling Pidië hoofdplaats"]
+tags: [place, hoofdplaats, noordkust, achehnese, colonial, dutch, buitenbezittingen, tramway, town, harbour, pidie, paketvaart, atjeh-tram, workshop, waterleiding, aceh, garrison, aceh-war, 20th-century, coastal, port, administrative, atjeh]
 ---
 
 **Sigli** was the *hoofdplaats* of the onderafdeeling of the same name in the [[Afdeeling Noordkust van Atjeh|Afdeeling Noordkust van Atjeh]] — the town on the coast of the Pedir plain that served, together with Lhoʼ Seumawè, as one of the two principal export havens of the densely populated north coast of [[Gouvernement Atjeh en Onderhoorigheden|Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* places Sigli among the four "polen van het dichtstbevolkte deel van geheel Atjeh," whose trade in inlandsche producten — chiefly rijst, klappers, and peper — was already, by [[1917]], drawing level with the artificial primacy of [[Koeta Radja|Koeta Radja]].
@@ -98,6 +98,18 @@ The tramway along the North Coast was built from Sigli outward: the line Sigli�
 
 A normal school for chiefs' sons and a public European lower school were among the town's institutions; artesian wells were bored for its drinking-water supply. Under Governor [[H. N. A. Swart]] the town received one of the new post- and telegraph-offices (with [[Langsa]], [[Koeala Simpang]] and [[Sinabang]]), agencies of Medan houses and of the [[Atjehsche Handelmaatschappij]]; the telephone net connected it with the other government stations, and it lay on the through route described by [[N. van Zalinge]] ([[1922]]) and Governor [[Van Sluys|Van Sluys]] — rail via [[Langsar]], [[Lho Seumawè]], Sigli to [[Koeta Radja]], with a future line to [[Meulaboh]] still demanded.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Sigli** was hoofdplaats of newly formed afdeeling [[Pidie]] and port where most bustle on north coast, receiving export of whole afdeeling [[Noordkust van Atjeh]] except [[Samalanga]] using itself.
+
+### Description
+
+Not beautiful place but compared other coastal places fairly much bustle. Dwelling assistant-resident sociëteit office [[Koninklijke Paketvaart Maatschappij|Kon. Paketvaart]] at sea cheerful piece harbour place while rest mostly sombre. At mouth river sandbank often surf. Ships at roads only [[Koninklijke Paketvaart Maatschappij|KPM]] monthly 8 ships. Same export figures other ports given also for [[Sigli]]: [[1918]] [[1921]] Pepper 1,139,344 KG 1,592,857 KG Pinang 5,253,276 3,517,945 Copra 155,533 70,755.
+
+Close [[Sigli]] kampong [[Klappa Satoe]] place with war memory where formerly indeed one coconut palm stood now some thousand trees neatly maintained. [[Sigli]] also gemeentefonds incomes cinema. Drinking water provision fairly deficient water locally bad receives daily with tram quantity drinking water from [[Koeta Radja]] 4 hour ride That water delivered 6 cent petroleum tin delivery home 10 cent Source water pipeline possible calculated cost ton. Gemeentefonds now 40k available so provisional provision today still remains.
+
+Bustle [[Sigli]] brings years central workshop [[Atjeh Tram|Atjeh-tram]].
+
 ## See Also
 
 - [[12 March]]
@@ -134,17 +146,15 @@ A normal school for chiefs' sons and a public European lower school were among t
 - [[Atjeh Tram]]
 - [[Lho Seumawè]]
 - [[Government of Atjeh en Onderhoorigheden]]
+- [[Pidie]]
+- [[Koeta Radja]]
 
 ## Source
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 69 (section "De Atjeh-tram").
-
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 13, 25–30, 38, 63–64, 126, 213–217.
-
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 3, Chapter III § 2, Chapter V § 2.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters XIII–XIV, *'Het groote rijstland Pidië'* and *'De Atjeh-tram'*, pp. 94–101.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV, p. 20; Chapter XII, pp. 119–121; Chapter XIV, p. 145; Chapter XV, p. 143.
-
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 40, 53, 71, 89, 107, 109, 111, 124–125, 133–138, 157, 179, 183, 185, illustration captions pp. 92, 135, 180.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 84, 90-91.

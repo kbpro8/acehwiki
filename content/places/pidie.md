@@ -1,94 +1,7 @@
 ---
-title: Pidie
-aliases:
-- Pedir (region of Atjeh)
-- the Pidië landschap
-- Pedir
-- Pedië
-- het Pedirsche
-- Pedireezen
-- Federation of Pedir
-- Kota van Pedir
-- Pedier
-- Pedir (Aceh)
-- Pedir (Atjeh North Coast state)
-- Pedir (Atjeh)
-- Pedir-vlakte
-- Pedirsche
-- Pidi
-- Pidir
-- Pidië
-- Staatje Pedir
-- State of Pedir
-- Sultanate of Pedir
-- de kust van Pedir
-- Pidié
-- Pedir region
-- Pidië (Atjehse afdeeling)
-- Pidië (landschap)
-- Pidië afdeeling
-- Afdeeling Pidië
-- Pidie valley
-- Pedirse
-- Pidie region
-- the Pedir region
-- Pedirse (region)
-- "Pidie"
-- "Pidië (federation)"
-- "Federatie Pidië"
-tags:
-- place
-- north-east-coast
-- region
-- coast-state
-- east-coast
-- dependency
-- achehnese
-- noordkust
-- onderafdeeling
-- pidie
-- noordkust-van-atjeh
-- atjeh
-- strategic
-- administrative-division
-- acheh
-- colonial
-- landschap
-- afdeeling
-- aceh
-- resistance
-- aceh-war
-- 19th-century
-- 20th-century
-- coast
-- coastal
-- kingdom
-- military
-- north-coast
-- onderhoorigheden
-- scheepvaartregeling
-- statelet
-- town
-- coastal-state
-- pepercultuur
-- pidië
-- kawaj-xii
-- sawah
-- irrigatie
-- oeléebalang
-- historical
-- koning-van-Pidië
-- pepper
-- padiveld
-- sigli
-- irrigation
-- padang-tidji
-- lam-meulo
-- meureudoe
-- aceh-proper
-- oil
-- "federation"
-
+title: "Pidie"
+aliases: ["Pedir (region of Atjeh)", "the Pidië landschap", "Pedir", "Pedië", "het Pedirsche", "Pedireezen", "Federation of Pedir", "Kota van Pedir", "Pedier", "Pedir (Aceh)", "Pedir (Atjeh North Coast state)", "Pedir (Atjeh)", "Pedir-vlakte", "Pedirsche", "Pidi", "Pidir", "Pidië", "Staatje Pedir", "State of Pedir", "Sultanate of Pedir", "de kust van Pedir", "Pidié", "Pedir region", "Pidië (Atjehse afdeeling)", "Pidië (landschap)", "Pidië afdeeling", "Afdeeling Pidië", "Pidie valley", "Pedirse", "Pidie region", "the Pedir region", "Pedirse (region)", "Pidie", "Pidië (federation)", "Federatie Pidië", "Vallei van Pidië"]
+tags: [place, north-east-coast, region, coast-state, east-coast, dependency, achehnese, noordkust, onderafdeeling, pidie, noordkust-van-atjeh, atjeh, strategic, administrative-division, acheh, colonial, landschap, afdeeling, aceh, resistance, aceh-war, 19th-century, 20th-century, coast, coastal, kingdom, military, north-coast, onderhoorigheden, scheepvaartregeling, statelet, town, coastal-state, pepercultuur, pidië, kawaj-xii, sawah, irrigatie, oeléebalang, historical, koning-van-Pidië, pepper, padiveld, sigli, irrigation, padang-tidji, lam-meulo, meureudoe, aceh-proper, oil, federation, rice]
 ---
 
 The major North Coast territory and kingdom. 'The Achehnese give the name of Pidie to the whole of the territory which formerly belonged to the kingdom of that name, i.e. almost the whole of the North Coast with its hinterland.' Pidie is historically known as a seat of religious learning: 'Thus most of the learned in Great [[Acheh]] have spent the greater part of their student life in Pidie, while vice versa the studiously inclined in Pidie and on the East Coast amass their capital of knowledge in Great [[Acheh]].' The centres of learning in Pidie before the Dutch included [[Langga and Langgo]], [[Langga and Langgo]], [[Sriweue]], [[Simpang]], and [[Ie Leubeue]] (= Ayer Labu). [[Tiro]] in Pidie was 'sanctified by the presence of so many living ulamas and the holy tombs of their predecessors.' Heretical mysticism (eleumee sale) also flourished in Pidie. In the [[Hikajat Malém Dagang|Hikayat Malem Dagang]], 'The first place touched at is Pidie (vulg. Pedir), the panglima of which is handed down to fame as the bravest and most distinguished of generals.' The [[Hikayat Pochut Muhamat]] describes [[Pochut Muhamat]]'s tour through Pidie gathering allies: he visited [[Padang Tiji|Padang Teuji]], [[Reubee]], and eventually won over [[Pangulee Beunaroe]], the powerful uleebalang of the IX Mukims. The sadati kisah describes Pidie as forming a square with four uleebalangs holding power: 'The X Mukims are subject to Bentara Keumangan; Teungku Sama Indra rules the VIII Mukims; The La'seumana is a fatherless child; he rules the XXII Mukims; The V Mukims are under the control of Teungku Ujong
@@ -283,6 +196,36 @@ The federation Gighèn — itself a part of the Pidië region — devoted itself
 ### Administration and the mountain line
 
 Under Governor [[H. N. A. Swart|Swart]] the assistant-resident of Pidië had his government office at [[Sigli]] (photo caption: "Bestuurskantoor van den assistent-resident van Pidië te Sigli"). The mountain tramway connecting Groot-Atjeh with the coastal net, projected from [[1898]] from [[Seulimeum]] over the watershed between the valleys of the Atjeh river and the Pidië river, was definitively carried out in two sides from [[1903]] and in limited service from [[15 September]] [[1908]] (see [[Atjeh Tram]]).
+
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Pidie** (*Pidië*, *Pedir*) was great rice land, valley between sea and mountains, former kingdom, now afdeeling formed [[1922]] including underafdeelingen [[Sigli]], [[Lam Meulo]], [[Padang Tidji]] and [[Meureudoe]].
+
+### History
+
+Power kingdom Pidie four centuries past pride sense greatness remained with those who developed to heads memory lived wish mighty princeliness cherished dream strengthened wish Then gesture sword raised war among oelèëbalangs greater smaller landscapes who would once again as victor all emerge from series little wars? End came without answer because resistance vs Netherlands government had to unite all Atjeh grietmannen and then obey. To blessing land people it was over equipment war. Biggest heads [[Pedir]] and [[Keumangan]] between them weight ancient area both wished grasp but didn't. Now years order subject all. Equipments forbidden wishes useless dreams deceptive There will still be dreamt as still spoken "uncrowned king of Pidie" but all delusion weakens duty delays Dutch administration execution task. Institution separate afdeeling Pidie last year will undoubtedly contribute destruction each illusion.
+
+### Geography and irrigation
+
+In underafdeeling [[Sigli]] find 23 landscapes most divided *moekims*. Originally moekim group kampongs together mosque; later moekim simply part oelebalangschap district with subhead *imeum* or *oelèëbalang tjoet*. From [[Meureudoe]] coming meet landscape [[Ndjong]] largely mountain hill plain only coastal strip lagoon where road leads not tram which westward bends stretches large length. First end west lies good land [[Ndjong]] many sawahs landscape head famous richness proceeds notable thanks treasure soil fertility. Without waterworks cannot manage needed only already to limit *bandjirs* For padi population guided heads simple works; others created labour [[Burgerlijke Openbare Werken|B.O.W.]]. From *landschapsdienst* thus landscape treasury majority accomplished often useful sometimes useless when insight execution incorrect or funds wrong destination disease commonly Indies. But forget small side human when again before immeasurable rice field collection fields lonely tree middle far background Atjeh Goldmountain see light mist [[Seulawaih Agam]] man and smaller [[Seulawaih Inong]] woman. Everything Nature sees or imagines indigenous presence distinction pair.
+
+Kampongs many dwellings yard but dwellings not beautiful. Bamboo rich exactly as [[Lho Soekenn]] Sagopalm cocospalm pinang make great wild garden.
+
+Rich part famous part subdistrict Sigli is valley Pidie enclosed sea mountain roughly triangle through which tram runs while roads ploughed nowhere so many landscape roads and good as this area [[Kroeëng Tiro]] which runs landscape [[Keumangan]] and [[Kroeëng Baroh]] near [[Sigli]] into sea main rivers. Throughout valley irrigation water fertile clay cultivable soil whole area many kampongs much bamboo much fruit trees also quite cattle cattle buffalo used partly field labour own slaughter Atjeher available trade etc.
+
+Known cattle market [[Padang Tidji]] hoofdplaats underafdeeling name once weekly pasar designated fenced terrain maintenance sellers small amount per beast they bring [[1922]] average 100 head each market day buyers usually Bengalees [[Medan]]. Around [[Padang Tidji]] roads particularly well maintained head like [[Teukoe Radja Hoesin]] oelèëbalang [[Reubéé]] aware volks interests involved order neatness keeps roads regularly good.
+
+Big road from [[Padang Tidji]] few km westwards then stops unbelievable but only big road south-north has big gap so that portion direction [[Seulimeum]] tram only big traffic road and connection over land Is path but desirable connection for big transport fully made.
+
+Returning etc other big landscape [[Keumangan]] whose oeléëbalang [[Teukoe Oemar|Teukoe Oemar Keumangan]] etc Beureunoen large residence etc.
+
+[[Beureunoen]] at Atjeh-tram short branch to [[Lam Meulo]] (Lamló) southwest hoofdplaats underafdeeling name Place still in valley Pidie surrounded very beautiful blangs Road along [[Kroeëng Baró]] south direction will over some time reach [[Tangsé]] surrounded sawah plains already fully in mountains This road probably once drawn to point at west coast then big role connections Sigli. South [[Lam Meulo]] blangs soon closed hill ridge [[Glé Gapoei]] whose slopes seem excellent cattle pasture Is through this glé (hill ridge) then again blangs Higher you come later activities padi cultivation posed Behind higher ridge [[Glé Meulinteuëng]] women in June busy planting bibit What lovely open mountain landscape great sawah plain around lonely tree! Here especially historic area landscape [[Keumala]] during resistance Pidie longest resistance where leaders resistance took position strategically important hill ridges.
+
+Afdeeling Pidie its volksschooltjes polyclinics like other departments will benefit long term. Begroting collective landscapes afdeeling for [[1923]] over amount 457,103 gulden Expenditures salaries roomy place There are oeléëbalangs 100 200 gulden monthly highest paid 500 Army oelama imeums receive salaries 10 15 gulden monthly Dutch considered when clergy salaryed their education can check Incomes income tax estimated 164,220 slaughter tax 8500 hacil for pepper 9500 pinang 12,500 forest product 2000 redemption heerendienst 86,900 gulden.
+
+### Economy rice
+
+Pidie nice land seems priciest department area from which still much to make important hinterland havenplaats where most bustle [[Sigli]]. Besides shipping and Atjeh-tram some services small trucks provide traffic need.
 
 ## See Also
 
@@ -507,9 +450,7 @@ Under Governor [[H. N. A. Swart|Swart]] the assistant-resident of Pidië had his
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 198–199, 252. Rijksarchief, Den Haag.
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 2, Chapter III § 2, Chapter V §§ 1–2, Chapter VII § 4.
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), p. 118.
-
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters III, IV, XI, XII, XIII, XVI, pp. 18–20, 106–109, 117–121, 132, 135, 150.
-
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 65–66, 71, 135–138, illustration caption p. 180.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 78-84.

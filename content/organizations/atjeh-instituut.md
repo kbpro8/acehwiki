@@ -1,8 +1,9 @@
 ---
-title: Atjèh Instituut
-aliases: [Atjèh-Instituut, Atjeh Institute, the Atjèh Institute, Atjèh Instituut (1914), the Atjèh-Instituut of Amsterdam, Atjeh-Instituut]
-tags: [organization, scholarly, dutch, colonial, "20th-century", atjeh, koloniaal-instituut, institute, atjeh-instituut, research, policy, de-rijkdom-van-atjeh, broersma, koeta-radja, rice, cattle, trade]
+title: "Atjèh Instituut"
+aliases: ["Atjèh-Instituut", "Atjeh Institute", "the Atjèh Institute", "Atjèh Instituut (1914)", "the Atjèh-Instituut of Amsterdam", "Atjeh-Instituut", "Atjèh Instituut", "Aceh Institute", "De rijkdom van Atjeh"]
+tags: [organization, scholarly, dutch, colonial, 20th-century, atjeh, koloniaal-instituut, institute, atjeh-instituut, research, policy, de-rijkdom-van-atjeh, broersma, koeta-radja, rice, cattle, trade, agriculture]
 ---
+
 **The Atjèh Instituut** — founded in [[1914]] with the approval of the Dutch Crown (*Koninklijk besluit van 31 Juli 1914 N°. 61*) — was the scholarly association that commissioned [[J. Kreemer|J. Kreemer]]'s encyclopaedic survey *Atjèh* ([[1922]]–[[1923]]), the work that is the principal source of this wiki's Kreemer entries. Its purpose, as recorded in its statutes and quoted by Kreemer in his preface, was "om, in samenwerking met het [[Koloniaal Instituut|Koloniaal Instituut]], zoo volledig mogelijke gegevens te verzamelen betreffende de bevolking van Atjèh en Onderhoorigheden en deze gegevens beschikbaar te stellen ten behoeve van het welzijn en van de stoffelijke en de geestelijke ontwikkeling van die bevolking en van onze betrekkingen met haar" — "to collect, in collaboration with the Koloniaal Instituut, the most complete possible data concerning the population of Atjèh and Onderhoorigheden, and to make these data available for the welfare and for the material and spiritual development of that population and of our relations with it."
 
 ## Foundation and directorium
@@ -56,6 +57,22 @@ The Atjeh-Instituut is the principal institutional sponsor of the economic devel
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters XVII, XVIII, XIX, *'De verbetering van het rijstland'*, *'Veeteelt als bron van welvaart'* and *'Handelaar en arbeider'*, pp. 119–127.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Atjeh Instituut** was research institute interest economic development Atjeh, author of treatise *De rijkdom van Atjeh*.
+
+### Broersma account
+
+Small treatise published from Atjeh-Instituut titled *De rijkdom van Atjeh.* That richness sees writing in rice cultivation gewest if develops Forms future image offers bestuur gewest states also [[Oostkust van Sumatra]] not indifferent economic happening Atjeh and wishes help Must consider treatise preparation later other communications follow.
+
+Broersma asks: Would Atjeh-Instituut not person as mediator want can indicate between Atjeh and East Sumatra interests? What there recommended good: 1 suitable padi sorts indicate; 2 opportunities open dehulling; 3 organization create product each moment against market price sell.
+
+Believe Atjeh-Instituut still must indicate how thinks big work improvement padi cultivation to begin maybe consider whether way indicated leads goal: appointment truly expert padi cultivation with college capable heads survey state overview what each region needed; next indicate how simplest quick improvements apply to further build; instruction planters via suitable countrymen cooperation heads.
+
+### Connection cattle
+
+Atjeh-Instituut could task promote cattle possession country benefit also Java and Atjeh itself second wealth.
+
 ## See Also
 
 - [[1914]]
@@ -76,9 +93,12 @@ The Atjeh-Instituut is the principal institutional sponsor of the economic devel
 - [[Veeteelt in Atjeh]]
 - [[Verbetering van het rijstland in Atjeh]]
 - [[Verkenningen in Atjeh (1923)]]
+- [[Paditeelt]]
+- [[Pidie]]
+- [[Koeta Radja]]
 
-## Sources
+## Source
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. "Een woord vooraf," blz. V–VI, met noot 1.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim; *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), for the Koloniaal Instituut and Handelsmuseum.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 108-115, 113-114.

@@ -1,7 +1,7 @@
 ---
 title: "Korte Verklaring"
-aliases: ["short declaration", "the Van Heutsz-Snouck korte verklaring", "de Korte Verklaring", "Short Declaration of self-government", "Short Declaration (Atjeh)", "Korte verklaring in 3 artikelen", "Three-article declaration of Atjeh", "Verklaring van 18 artikelen (predecessor)"]
-tags: [concept, colonial, dutch, sovereignty, document, legal, achehnese, administration, treaty, buitenbezittingen, zelfbesturen, administrative, diplomacy, acheh, instrument, policy, zelfbestuur, buitengewesten, 20th-century]
+aliases: ["short declaration", "the Van Heutsz-Snouck korte verklaring", "de Korte Verklaring", "Short Declaration of self-government", "Short Declaration (Atjeh)", "Korte verklaring in 3 artikelen", "Three-article declaration of Atjeh", "Verklaring van 18 artikelen (predecessor)", "Korte Verklaring Atjeh 1899", "Declaration 3 articles"]
+tags: [concept, colonial, dutch, sovereignty, document, legal, achehnese, administration, treaty, buitenbezittingen, zelfbesturen, administrative, diplomacy, acheh, instrument, policy, zelfbestuur, buitengewesten, 20th-century, political]
 ---
 
 **The Korte Verklaring** — "Short Declaration" — was the standard colonial compact by which the [[Gouvernement Atjeh en Onderhoorigheden|Nederlandsch-Indisch Gouvernement]] recognised a native chief as *zelfbestuurder* — self-ruler — of his *landschap*, replacing the [[Sarakata|sarakata]] of the [[Sultans of Atjeh|Sultans of Atjeh]] as the documentary basis of native authority in Atjeh and its Onderhoorigheden. Introduced by Governor [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]] as part of his pacification system during his governorship of Aceh ([[1898]]–[[1904]]) and later extended to other troubled regions of the Dutch East Indies during his Governor-Generalship ([[1904]]–[[1909]]), the declaration became a central tool of colonial policy whose most controversial provision — Article 3, obliging the ruler to obey all future regulations that the Dutch government might issue — critics argued eliminated any real autonomy and reduced the ruler to a mere official. In [[J. Kreemer|J. Kreemer]]'s *Atjèh* ([[1923]]) the Atjèh-specific form is given the name ***korte Atjèhverklaring*** to distinguish it from the later "uniform model" applied across the buitengewesen.
@@ -188,6 +188,16 @@ The **Korte verklaring** ("short declaration") was the three-article instrument 
 
 Author [[J. Langhout|Joh. Langhout]] writes that it is due to the initiative and the unbroken cooperation of Governor Van Heutsz and Dr. C. [[C. Snouck Hurgronje|Snouck Hurgronje]] that a wholly changed policy regarding the self-governing territories gradually developed in the whole of the Indies; he quotes the words of [[H. Colijn]]: "Men had het middel gevonden om de gevolgen van een onvermijdelijk geworden optreden te matigen, door niet over te gaan tot de invoering van een rechtstreeksch bestuur en toch een daarmede overeenkomenden toestand te verkrijgen" — "one had found the means to temper the consequences of an action that had become unavoidable, by not proceeding to the introduction of a direct administration and yet obtaining a state of affairs corresponding therewith". The [[Submission and banishment of the pretender-Sultan|submission of the pretender-sultan]] was signed on the form of the short declaration; upon that signature depended Van Heutsz's contested pledge never to banish the signer from Atjeh.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Korte Verklaring** (Short Declaration) was contract in 3 articles introduced by Netherlands government [[1899]] replacing long contract 18 articles to seal submission of [[Uleebalang|oeléëbalang]].
+
+### Example Peudawa Rajeu
+
+[[Teukoe Habib Moehamat bin Sajet Oesoeir]] oeléëbalang [[Peudawa Rajeu]] signed Korte Verklaring in 3 articles in [[1899]] replacing long contract 18 articles.
+
+Similarly [[Tengkoe Abdoel Hamid Orangkaja Sri Maharadja Mangkoe Boemi]] mbaharadja [[Lho Seumawe]] signed in [[1904]].
+
 ## See Also
 
 - [[1938]]
@@ -258,21 +268,18 @@ Author [[J. Langhout|Joh. Langhout]] writes that it is due to the initiative and
 - [[Submission and banishment of the pretender-Sultan]]
 - [[Government of Atjeh en Onderhoorigheden]]
 - [[Pacification of Atjeh]]
+- [[Peudawa Rajeu]]
+- [[Lho Seumawe]]
+- [[Uleebalang]]
 
 ## Source
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 44–45, 122.
-
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 46–47, 49, 173–177. Rijksarchief, Den Haag.
-
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
-
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 5–7 (section "Bestuurs-organisatie").
-
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
-
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 218-219.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter V, pp. 34–35.
-
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 80–81.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 39-40, 56.

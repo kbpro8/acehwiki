@@ -54,6 +54,10 @@ tags:
 description: Bivak and post in the Lho Seumawé area, seat of the civiel-gezaghebber
   Schouten, the division command, and the centre of resistance of Pang Nanggroë; the
   graves of Pang Nanggroë and Pang Lateh lie behind the keudé in kandangs.
+title: "Lho Soekon"
+aliases: ["Lho Sukon", "Lhok Sukon", "bivak Lho Soekon", "Lhoksoekon", "Lhokseukon", "Lhossckon", "Lhosoekon", "Lhoksoeken", "Lhosukon", "Lho Soekon onderafdeeling", "Lho Seukon", "Lhoksukon", "the Lho' Soekon district", "Lho Sukon (Atjeh)", "Lho-Sukon", "Lho' Soekon", "Lho' Sukon", "Lhokseumawe region", "Lho' Soekon (Noordkust afdeeling)", "Lho Sokoun", "Onderafdeeling Lho Soekon"]
+tags: [place, bivak, aceh, aceh-war, north-coast, colonial, dutch, 20th-century, pang-nanggroe, onderafdeeling, zelfbestuur, underafdeeling, achehnese, noordkust-van-atjeh, paja-tjitjem, keureuto, sarikat-islam, samudra-pasé, town, noordkust, keureutoe, oil-field, atjeh, sumatra, exploration, region, 19th-century, rijstbouw, lho-soekon, administrative, landscape, swamp, pepper]
+description: "Bivak and post in the Lho Seumawé area, seat of the civiel-gezaghebber Schouten, the division command, and the centre of resistance of Pang Nanggroë; the graves of Pang Nanggroë and Pang Lateh lie behind the keudé in kandangs."
 ---
 
 **Lho Soekon** — also *Lho Sukon*, modern *Lhok Sukon*, also *Lhoksoekon* — was a *bivak* and post in the [[Lho Seumawé]] area on the North coast of [[Aceh]], seat of the *civiel-gezaghebber* (civil authority) — Schouten held the post in the years of the false [[T. Radja Sabi]] — and of the division command that directed the [[Korps Marechaussee van Atjeh en Onderhorigen|maréchaussée]]-brigades operating against the bands of [[Pang Nanggroë]], [[Tjoet Meuthia]], and the *adelaarsjong*. The graves of [[Pang Nanggroë]] and [[Pang Lateh]] lie behind its *keudé* in wooden-enclosed *kandangs*, and the *pasanggrahan* of Lho Soekon is the setting of [[H.C. Zentgraff|Zentgraff]]'s long interview with the grown [[T. Radja Sabi]]. In the [[1930]] compilation of *[[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]*, Lhoksoekon appears as an *onderafdeeling* of the afdeeling Noordkust van Atjeh in the [[Gouvernement Atjeh en Onderhoorigheden]], seat of three *zelfbesturende landschappen* (Keureutoë, Matang Koeli, and Hakim Kroeeng Peutoë) whose *oeleebalang* collectively issued the *woeker-verordening* of [[9 December]] [[1926]] (Reg. No. 1), the *klappercultuur-verordening* of [[25 August]] [[1916]] (Reg. No. 18a), and the *mantri*-instructie of the same date for the klappercultuur (Reg. No. 18b).
@@ -149,9 +153,38 @@ In [[1917]] a leper at Lho' Soekon murdered the *officier van gezondheid* [[J. P
 
 ## Maréchaussée station ([[1910]])
 
-the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records the stations assigned to the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* in [[1910]]: 1st Division at [[Blang Kedjeren]]; 2nd Division at [[Malaboeh|Meulaboh]]; 3rd Division at [[Takengeun|Takèngan]]; 4th Division at [[Lam Meulo]]; and 5th Division at [[Lho Soekon]], "zooals zij ook thans nog gelegerd is" — where it was still quartered at the time of the [[1930]] jubilee. Lho' Soekon was the station of the 5th Division.
+The [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records the stations assigned to the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* in [[1910]]: 1st Division at [[Blang Kedjeren]]; 2nd Division at [[Malaboeh|Meulaboh]]; 3rd Division at [[Takengeun|Takèngan]]; 4th Division at [[Lam Meulo]]; and 5th Division at [[Lho Soekon]], "zooals zij ook thans nog gelegerd is" — where it was still quartered at the time of the [[1930]] jubilee. Lho' Soekon was the station of the 5th Division.
 
 Earlier, in [[1898]], the corps had been localised with its Staff at [[Koeta Radja]] and its divisions at [[Selimoen]], [[Indrapoeri]], [[Tjot Mantjang]] and [[Glé Broet]], [[Tjot Goet]], and [[Lam Baroe]] and [[Lok Nga|Lho'-Nga]].
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Lho Soekon** was underafdeeling of afdeeling [[Noordkust van Atjeh]] between rivers [[Djamboe Aje]] and [[Pasei]], area earlier part of kingdom [[Samoedra-Pasé]], where Atjeh sultans in 16th century expansion got and kept highness.
+
+### Geography
+
+Middle [[Lho Soekon]] run rivers [[Peutoë]], [[Pira]] and [[Keureutö]] (pronounce Kertō) which near hoofdplaats [[Lho Soekon]] get connection and in two arms to sea. Remarkable how [[Keureutoe]] splits underafdeeling in two towards nature land different: south-eastern half all *paja*, swamp, population 15 thousand souls, smaller northern half free counts double souls. Relation will on duration otherwise; comes more people now head [[Simpang Olim]] over whom previous chapter controlled floods [[Djamboe Aje]] and drainage promoted.
+
+Great swamp here is [[Paja Tjitjem]] for which builder tram undertook big bending. Yet could not entirely without dike. Big military road likewise could not fully outside swamp remain and further landscape road to just near sea so possible in this part [[Lho Soekon]] crusade undertake. Such trip not reviving. More desolate plain hardly imaginable gray endless somber lifeless. Few points along road poor neighbourhood people unfavorable appearance. How otherwise when padi culture so easily entirely fails and laying drainage often disappoints because peat soil easily sinks making digging fruitless. Present population, as padi culture risky, needs side income. Some in salt winning coast scanty income find.
+
+### Social conditions
+
+Known phenomenon inferior grounds often also indigenous rural population low level and reflects on heads backwardness forms obstacle developing labour Netherlands administration even danger for dutiful official If cannot rely cooperation heads work mostly fruitless Atjeh counts several capable heads *oeléëbalangs* and *oelèëbalangs tjoet* but also those not understanding administration seriousness not only imagine but act people exists for them. Such head accessible wrong applications abstention opposition. Before severe measure can be taken by government placing outside community own people already caused much harm few years ago working [[Sarikat Islam]] in afdeeling Noordkust wrong dangerous direction and banishment some younger heads could not stay behind. Bestuur especially delayed when folk head authority and finance exclusively for pleasure good cheer dresses association pursuit seeks reasons with felt hat silk socks patent shoes repeatedly other women serves trips Medan Then interior bestuur that already not on cooperation can count must above measure trace that not extorts and squeezes. Then smaller bigger frauds around. Earlier government finds reasons remove such head better.
+
+Stands not established land best served heads most attached Netherlands government. Oelèëbalang lazy idle can yet very well correct insight that Netherlands authority secures place landscape certain against third parties. Obedience finds ground in well-understood self-interest and sees with special liking labour bestuursambtenaren where he folk head that has business only advantage experiences. So can be proponent good roads irrigation etc without moment breaking head or stretching hand.
+
+Returning [[Paja Tjitjem]] — only few years ago agricultural association [[Avros]] Medan eye on extensive terrains start big padi culture in large to begin provide rice for contractants members. Important plan. Requested and obtained *erfpacht* although involved folk heads therein reluctantly consented; fairly expensive surveys done... Then turn came followed business slack Avros left Tjitjem plans loose so large rice enterprise stayed behind paja untouched.
+
+West of area *boekits* hills 100-300m forming extent toward gebergte [[Rödjö Boekit]]. In hills population planting pepper though not so much that [[Lho Soekon]] pepper land to call like [[Idi]] or [[Peureula]] or [[Groot-Atjeh]]. In [[1921]] [[Lho Soekon]] 1383 picol exported. But hill region marked in Atjeh military annals: when about 15 years ago resistance flared difficult to reach because withdrew from paja Tjitjen to hills. Then [[Christoffel]] with maréchaussées sent bivouac at [[Panton Labeuë]] and from there subdued resistance *kapitan rimoeëng* called tiger-captain because grip bloody. Memories suffered sorrow in region [[Keureutoe]] still fresh; spiritual parasites misuse doctrine holy war keep moods bitter, then vigilance double necessary not conspicuous. Presence bestuursambtenaren with Atjeh experience and language knowledge highly valued.
+
+At [[Blang Djeroëën]] lives oelèëbalang [[Keureutoe]] [[Teukoe Tjhi Bentara]].
+
+### West fertile area and agriculture
+
+In fairly favorable region like this overeat (?), known as someone who much rice eats as little other food. In lush area e.g., kampong [[Moeliën]] irrigation could be blessing. Between big kampongs spread beautiful blangs. Wide view cultivable plain mountain background big birds white feathers yellow beaks busy *reigers* etc. Cheerful outdoor life happy place peaceful farmer spared war. Kampongs many good houses ornament large bamboo wealth huge chairs many meters circumference tall dispute husbandman place planting garden trees.
+
+In west underafdeeling lies fertile landscape [[Kroeëng Pasé]] (right bank Pasé river) usually indicated as area [[Hakim Kroeëng]]. Not large population not numerous but irrigation and if all grounds planted surplus exportable. Known petroleum sources in stream area river [[Ngom]].
+
+In [[Lho Soekon]] big agricultural industry represented by one enterprise in Pira region [[Pira-Estate]] no less than 3400 hectares opened [[1918]] with coffee and now also planted. Less good representation five permits landscape [[Keureutoe]]. No spade ground put though cijns due.
 
 ## See Also
 
@@ -224,15 +257,15 @@ Earlier, in [[1898]], the corps had been localised with its Staff at [[Koeta Rad
 - [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
 - [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
 - [[Divisie (Maréchaussée)]]
+- [[Teukoe Tjhi Bentara]]
+- [[Atjeh Tram]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
-
 *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesten van het Departement van Binnenlandsch Bestuur*, Weltevreden: Landsdrukkerij, 1930, esp. Inhoud (pp. V–VII) and Regs. 1, 18a, 18b (pp. 1, 102, 106). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter VIII, *'Lho Soekon, licht en donker'*, pp. 52–58.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, pp. 94–101; Chapter XI, p. 105; Chapter XII, pp. 117–121.
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 47-52.
