@@ -1,26 +1,40 @@
 ---
 title: "Kraton of Aceh"
-aliases: ["Kraton", "Kraton Kutaraja"]
-tags: [place, palace, acehnese, aceh-war]
+aliases: ["Kraton", "Kraton Kutaraja", "Kota Raja", "Dalam", "Royal Palace of Aceh"]
+tags: [place, palace, fort, capital, acehnese, aceh-war]
 ---
 
-**Kraton of Aceh** was the royal palace complex and ceremonial centre of the [[Sultanate of Aceh]] at [[Kota Radja]], now [[Banda Aceh]].
+**Kraton of Aceh** (known locally as the *Dalam* or *Kota Raja*) was the fortified royal palace complex and ceremonial centre of the [[Sultanate of Aceh]], located at [[Kota Radja]], now [[Banda Aceh]].
 
-## Historical setting
+## Description and Fortifications
 
-Its capture by Dutch forces in [[1874]] was decisive symbolically but did not end the [[Aceh War]]. Van Swieten recorded that Acehnese custom required a sultan’s installation there, making the selection of a successor impossible while the complex was occupied and the court displaced.
+The Kraton was an extensive walled compound housing the royal residence, state treasury, council chambers, arsenals, and court quarters. It was enclosed by thick earthen ramparts, deep moats, dense bamboo thorn barriers (*bamboe-doeri*), and multiple defensive gates, including the *Pintoe Oekoep*. It was defended by 56 brass and iron cannons.
 
-## Modern context
+## Fall of the Palace Complex
 
-The source situates [[Kraton of Aceh]] in the historical landscape of [[Aceh]]; historical spellings follow the [[1879]] Dutch text.
+During the [[First Aceh Expedition]], Colonel [[Eduard Cornelis van Daalen]] launched the [[Attack on the Kraton]] on [[16 April]] [[1873]], but was repulsed at the main gate with heavy losses, forcing retreat to Java.
+
+During the [[Second Aceh Expedition]], General [[Jan van Swieten]] subjected the Kraton to systematic mortar bombardment. [[Sultan Alauddin Mahmud Syah IX]] evacuated the palace on [[15 January]] [[1874]]. On [[24 January]]–[[26 January]] [[1874]], Dutch columns under Major-General [[G.M. Verspijck]] and Lieutenant-Colonel [[Karel van der Heijden]] executed the [[Encirclement and Fall of the Kraton]], finding the palace deserted. Dutch troops officially occupied and renamed it *Kota Radja*, converting it into the permanent headquarters of the colonial military administration.
+
+## Significance for Succession
+
+Its capture was decisive symbolically but did not end the [[Aceh War]]. Van Swieten recorded that Acehnese custom required a sultan’s installation at the Kraton, making the selection of a successor impossible while the complex was occupied and the court displaced — a fact the Dutch exploited to deny legitimacy to any rival claimant.
 
 ## See Also
 
-- [[[[Capture of the Kraton of Aceh]]]]
-- [[Aceh]]
+- [[Attack on the Kraton]]
+- [[Encirclement and Fall of the Kraton]]
+- [[Sultanate of Aceh]]
 - [[Aceh War]]
 - [[Jan van Swieten]]
+- [[Sultan Alauddin Mahmud Syah IX]]
+- [[First Aceh Expedition]]
+- [[Second Aceh Expedition]]
+- [[1873]]
+- [[1874]]
 
 ## Source
 
-*De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. pp. 211–272, 341–343.
+*De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 211–272, 341–343.
+
+*De expeditiën naar Atjeh 1873-1874*, W.W.F. Herfkens, Koninklijke Militaire Academie, [[1900]], pp. 21–23, 54–61, 71.
