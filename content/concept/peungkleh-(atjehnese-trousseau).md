@@ -11,6 +11,9 @@ aliases:
 - Peungklèh
 - Putting forth
 - Putting forth of the daughter
+- atra peunoelang
+- harta peunoelang
+- mandjaë
 tags:
 - concept
 - law
@@ -28,6 +31,8 @@ tags:
 - ceremony
 - adat
 ---
+- land-law
+- property
 
 **The peungklēh** — the Atjehnese *uitzet* (trousseau) — is the adatrechtelijk institution by which, in Atjeh, a portion of the family estate is allocated (*toegescheiden*) to a marrying daughter, sometimes with great ceremony, as her trousseau. The institution is cited by [[B. ter Haar BzN|B. ter Haar BzN]] in *[[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)|Beginselen en Stelsel van het Adatrecht]]* (first ed. [[1939]]; 4th ed. [[1950]]) as a species of *toescheiding* — the allocation of property from the family estate to a child — and as an Atjehnese instance of the wider Indonesian category of the *uitzet* (trousseau).
 
@@ -55,6 +60,30 @@ For AcehWiki, the *peungklēh* is significant as the Atjehnese trousseau — the
 ## Sources
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
+## Account from *Het recht op den grond in Atjeh* ([[D. W. N. de Boer]], [[1931]]) — peungkleh and the atra peunoelang
+
+[[D. W. N. de Boer]], writing as a former chairman of Atjehnese *[[Moesapat|moesapat]]* and *[[Landschapsgerecht|landschapsgerecht]]* courts, described *peungkleh* — the setting-up of a married couple in an independent household, corresponding to the Batak *mandjaë* — as the occasion of a distinct form of property which "the chairman of a *moesapat* or *landschapsgerecht* not infrequently encounters": the *[[Atra peunoelang|atra peunoelang]]*, also called *harta peunoelang*, which he equated with the Batak *[[Indahan arian|indahan arian]]*.
+
+### Occasion and composition
+
+The moment for *peungkleh* arrived with the birth of the couple's first child: it was then that they established themselves independently, then that the young pair received their own dwelling, and then that the father — or another *[[Wali|wali]]* (guardian) — made over the *atra peunoelang* to his married daughter or ward. It usually consisted of a rice field and a head of plough cattle, and sometimes other things besides. It counted as *[[Adat|adat]]* that the value of the goods given with the couple by the bride's father should be twice as great as the *[[Djinamee (Atjehnese marriage gift)|djinaméë]]* (Batak *sinamot*, the bride-price) paid by the bridegroom's father at the conclusion of the marriage.
+
+### Purpose
+
+The purpose, De Boer explained, was that if the husband should die first there would remain enough for the wife to procure herself the maintenance required by her rank and station — Mohammedan inheritance law allotting the widow only a small share in her husband's estate. Whatever she managed to save from the yield of the *harta peunoelang* she might regard as her own property. On the earlier death of the wife, the husband also inherited from this *harta*.
+
+### Not deducted from the estate
+
+The *atra peunoelang* was not brought into deduction from the estate of the wife's father — neither on the division of the estate during his lifetime, called *[[Atra boeloeng|atra boeloeng]]*, nor on the division of the estate after death.
+
+### Estate division during life
+
+De Boer added that division of the estate during the lifetime of the prospective testator occurred very frequently in [[Atjeh]]. It took place, among other occasions, when a man was about to depart for [[Mecca|Mekka]]: in view of the possibility that he might die during the *[[Hajj|hadj]]*, a pilgrim preferred to settle his affairs in advance, fearing that through sudden death or other circumstances he might have no opportunity to draw up a proper *[[Wasiet|wasiët]]* (testament), and unwilling to risk that a disposition drawn up on the journey or in the Holy Land should fail to be transmitted or executed as he wished. Assignment in *boeloeng* also took place in the case of great age, or of such illness that the testator no longer dared reckon on managing his goods himself again. After a safe homecoming from Mekka, or sufficient recovery, such a disposition made during life was often undone again.
+
+### Jointly acquired marital property
+
+Alongside the *atra peunoelang* stood the *[[Harta seuhareukat|harta seuhareukat]]* (Atjehnese *atra thihareukat*), property acquired through the joint labour of husband and wife during the marriage, bearing the same name in Atjeh as in [[Menangkabau|Minangkabau]]. Ground made fruitful by man and wife in new clearance during the marriage was regarded as belonging to both together, though the husband had the management and its produce served their common maintenance. On divorce it was divided two-thirds to the husband and one-third to the wife in the *onderafdeeling* [[Sigli]], and half and half in the *onderafdeeling* [[Lho' Seumawe]] and in [[Groot-Atjeh]].
+
 ## See Also
 
 - [[Beginselen en Stelsel van het Adatrecht (Ter Haar, 4th ed. 1950)]]
@@ -73,7 +102,15 @@ For AcehWiki, the *peungklēh* is significant as the Atjehnese trousseau — the
 - [[Ramadhan (fasting month)]]
 - [[Peuchichab]]
 - [[Uleëbalang]]
+- [[Atra peunoelang]]
+- [[Atra boeloeng]]
+- [[Harta seuhareukat]]
+- [[Wasiet]]
+- [[Indahan arian]]
+- [[Het recht op den grond in Atjeh (De Boer)]]
 
 ## Source
 
 *Beginselen en Stelsel van het Adatrecht*, door Mr. B. ter Haar Bzn. Vierde ongewijzigde druk. Groningen, Djakarta: J. B. Wolters, 1950. Pp. 171, 205.
+
+*Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.

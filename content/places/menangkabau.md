@@ -1,7 +1,7 @@
 ---
 title: Menangkabau
 aliases: [Minangkabau, Menangkabouw, Menangkabau people, Manangkabau, Menangkabau territories, Minangkabau territories, Menangkabau country, Minangkabau country, territories of the Menangkabau, Menangkabausche, Minangkabauers, King of Menangkabau, Emperor of Menangkabau, Keijser van Menangkabau]
-tags: [place, region, sumatra, foreign, people, highland, polity, adat, achehnese, colonial]
+tags: [place, region, sumatra, foreign, people, highland, polity, adat, achehnese, colonial, property, comparative]
 description: Highland region and people of west-central Sumatra; the chief comparative point of reference for Achehnese institutions and the constitutional fiction on which the VOC Painansch Contract system rested.
 ---
 
@@ -77,6 +77,16 @@ The [[Tikoe submission (20-21 June 1684)|Tikoe submission of 20–21 June 1684]]
 
 Menangkabau matters for AcehWiki on two fronts. First, as the chief matrilineal people of Sumatra, the Menangkabau provide the standing parallel for Achehnese kinship, inheritance, and adat — parallels which are developed at length in [[C. Snouck Hurgronje|Snouck Hurgronje]]'s comparative apparatus, especially in connection with the *suku* or fourfold clan system, with formal oratory, with the *ta'liq*-*adat* and the wife's practical independence, and with the matriarchal survivals of Achehnese domestic life. Second, the Menangkabau king is the constitutional fiction on which the [[Painansch Contract]] system rests: the Compagnie's Westkust authority is, in form, the authority of the Menangkabau king's stadtholder, and the Painansch Contract signatories acknowledge the Menangkabau king as their sovereign. The fiction allowed the Compagnie to displace Atjehsche sovereignty without appearing to acquire direct sovereignty itself — a useful constitutional ambiguity that persisted through the entire VOC period. The Menangkabau fiction is also the principal point of contact between the Westkust story and the larger history of the Padangsche Bovenlanden: the interior uplands — the future heartland of the [[Padri War]] — were the seat of the Menangkabau king, and the Compagnie's relationship with them through the stadtholder-ship was the precondition of its later nineteenth-century involvement with the Padangsche Bovenlanden.
 
+## Account from *Het recht op den grond in Atjeh* ([[D. W. N. de Boer]], [[1931]]) — the shared institution of harta seharkat
+
+Minangkabau appears in the Atjehnese land-law literature as the region with which [[Atjeh]] shared, under the same name, the *[[Adat|adat]]* institution of jointly acquired marital property.
+
+[[D. W. N. de Boer]] recorded that ground made fruitful by husband and wife in new clearance during the marriage was regarded as belonging to both together, though the husband had the management of it, and the produce of such ground served the common maintenance of the couple. Property so acquired by the joint labour of man and wife bore in Atjeh, he wrote, the same name as in Minangkabau: *harta seharkat*, in Atjehnese *[[Harta seuhareukat|atra thihareukat]]*.
+
+The division of the *harta seharkat* on divorce varied by district within Atjeh: in the *onderafdeeling* [[Sigli]], two-thirds to the husband and one-third to the wife; in the *onderafdeeling* [[Lho' Seumawe]] and in [[Groot-Atjeh]], one half to each.
+
+The institution formed, together with the *[[Atra peunoelang|atra peunoelang]]*, the customary counterweight in Atjeh to the small share allotted to a wife or widow under Mohammedan inheritance law — the same function it served in the Minangkabau *adat*.
+
 ## See Also
 
 - [[Aceh Sultanate]]
@@ -124,9 +134,14 @@ Menangkabau matters for AcehWiki on two fronts. First, as the chief matrilineal 
 - [[1672]]
 - [[1680]]
 - [[1684]]
+- [[Harta seuhareukat]]
+- [[Atra peunoelang]]
+- [[Het recht op den grond in Atjeh (De Boer)]]
 
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A. W. S. O'Sullivan, indexed by R. J. Wilkinson. Leyden: E. J. Brill, 1906. Chapter I, § 1, p. 1 (limits of the kingdom of Acheh); comparative sections on the *suku*, the *bidaʾ*/*biday* malignant spirit, formal oratory, marriage customs, the *ta'liq*-*adat*, and the *aneu' Rawa* of the West Coast.
 
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 14–22 (tekst bij blad 4: *Atjeh en de Westkust van Sumatra in 1684*).
+
+*Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.

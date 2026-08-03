@@ -1,7 +1,7 @@
 ---
 title: Adat
-aliases: [Adat Acheh, Customary Law, Acehnese Custom, Adat, Adat-law, Customary law, Adats, adat, custom, traditional law, Adat and Hoekom, hoekom, ödöt, customary law and Islamic law in Aceh, adat-law, Adat Acheh, Acehnese adat, adat-hukom dualism]
-tags: [concept, law, culture, achehnese, colonial, legal, religious, precolonial, customary-law, atjeh, zelfbestuur, 20th-century]
+aliases: ["Adat Acheh", "Customary Law", "Acehnese Custom", "Adat", "Adat-law", "Customary law", "Adats", "adat", "custom", "traditional law", "Adat and Hoekom", "hoekom", "ödöt", "customary law and Islamic law in Aceh", "adat-law", "Adat Acheh", "Acehnese adat", "adat-hukom dualism", "Atjehsch adatrecht", "adatrecht of Atjeh", "Atjehnese customary land law"]
+tags: [concept, law, culture, achehnese, colonial, legal, religious, precolonial, customary-law, atjeh, zelfbestuur, 20th-century, land-law, grondenrecht]
 description: "The customary law (adat) of the Acehnese — the unwritten, indigenous legal tradition governing social life, distinct from but coexisting with Islamic law (hikum/hukom/hoekom), and maintained primarily by the keuchi' and uleebalang; also the customary atmosphere of the colonial tangsi."
 ---
 
@@ -117,6 +117,26 @@ The *[[Heerendienst|heerendienst]]* regulation of [[Bireuën]] — Reg. No. 14 �
 
 The 1930 compilation's significance for the *adat* record is that it documents the operational framework within which *adat* was the legal tradition the *oeleebalang* applied, that the *verordeningen* codified, and that the *Civiel en Militair Gouverneur*'s *goedkeuring* brought into operational force. The *adat-hukom* dualism — the basic legal structure of the Acehnese order — was, in this framework, the legal framework within which the *Zelfbestuur*'s *verordeningen* of Atjeh operated throughout the [[1910s]] and [[1920s]].
 
+## Account from *Het recht op den grond in Atjeh* ([[D. W. N. de Boer]], [[1931]]) — the customary land law
+
+The fullest practitioner's description of the *adat* of the soil in [[Atjeh]] was written by **[[D. W. N. de Boer]]**, a former chairman (*Voorzitter*) of Atjehnese *[[Moesapat|moesapat]]* and *[[Landschapsgerecht|landschapsgerechten]]* courts, and dated at [[Scheveningen]] in November [[1931]]. De Boer described his work as a *résumé* of data gathered "te hooi en te gras" — haphazardly, as occasion offered — over many years on the bench, published in the hope that "even this modest contribution to the study of the *adatrecht* may be of use, if only by giving occasion for criticism, correction and commentary."
+
+### The village plays no part in rights in land
+
+The governing thesis of De Boer's account, stated at the head of his study and reasserted throughout, was that the [[Gampong|gampong]] played no role whatever in the Atjehnese law of rights in land. He grounded this on the territorial rather than genealogical origin of the Atjehnese *[[Keradjaan|keradjaäns]]*, citing *[[De Atjehers (Snouck Hurgronje)|De Atjehers]]*, Vol. I, p. 62: once the great step in political development had been taken which made chiefs or princes (*[[Oeleebalang|oeléëbalang]]*) into rulers over the inhabitants of a defined territory "without distinction of *[[Kawom|kawom]]* or *soekëë*," no chief depended for his position on a following of kinsmen. Unlike the Batak *[[Radja Hoeta|Radja Hoeta]]*, therefore, the Atjehnese chief had no need of a watchful, defensive *[[Beschikkingsrecht in Atjeh|beschikkingsrecht]]* (right of avail). De Boer noted the striking practical consequence: so far as was known, village boundary disputes never occurred in Atjeh, although boundary disputes between the *zelfbesturen* were common.
+
+### Scope of the land adat
+
+De Boer's survey covered the *[[Beschikkingsrecht in Atjeh|right of avail]]* and the *[[Milik|milik]]* (the indigenous hereditary right of possession); the customary charges on clearance and cultivation — the *[[Haq radja taléë|haq radja taléë]]*, the *[[Boeët oemòng|boeët oemòng]]* land rent, the *[[Adat glé|adat glé]]* with its *[[Padi lintjah|padi lintjah]]* and *[[Thiploeëh-tha|thiploeëh-tha]]* tithe, and the *[[Adat moeda|adat moeda]]* fine; the *[[Thiplah tano|thiplah-tano]]* contract; the remedies of the courts (*[[Haq padjoh asoé|haq padjoh asoé]]*, *[[Padé kandoeri|padé kandoeri]]*, *[[Haq toeleuèng|haq toeleuèng]]*, *[[Haq tano|haq tano]]*, and the obsolete *[[Haq thilangkob|haq thilangkob]]*); the share-cropping and lease contracts *[[Mawaih|mawaih]]* and *[[Thiwa|thiwa]]*; the *[[Contract of the Atjehnese pepper planter|contract of the Atjehnese pepper planter]]*; the securities *[[Gala|gala]]* (pledge) and *[[Borok|borok]]* (mortgage); the marital and inheritance institutions *[[Harta seuhareukat|harta seuhareukat]]* and *[[Atra peunoelang|atra peunoelang]]*; and the introduction of *[[Verjaring in Atjehsch adatrecht|verjaring]]* (prescription) in [[1911]].
+
+### Disagreement with Van Vollenhoven
+
+At two points De Boer set his findings expressly against [[C. van Vollenhoven|Van Vollenhoven]]'s *[[Adatrecht (Van Vollenhoven)|Adatrecht]]*. Where Van Vollenhoven had written at p. 196 that "a faded or sleeping right of avail does not exist here," De Boer answered that this was "not correct" as regards the *[[Zelfbesturen|zelfbesturende landschappen]]*, where the right was actively exercised through the measuring-out of land, the levy of recognition fees, and the control of territorial boundaries. And where Van Vollenhoven had recorded the Atjehnese grazing usage as "the peculiar right," possibly surviving from a village right of avail (pp. 196, 198), De Boer held it was no right at all but "a sober exchange of economic goods" — giving the cattle-owner free pasture near his gampong and the field-owner free manuring of his soil. He referred to the *Adatrecht* by page throughout: pp. 164 (the *[[Wathe|wathé]]* revenues), 190 and 200 (no requirement of village membership imposed on a clearer), 197 ff. (the right of possession), 198 (its restrictions), and 202 (the neighbour's right of preference).
+
+### The recording of antiquities
+
+De Boer defended his recording of institutions already obsolete — notably the *[[Haq thilangkob|haq thilangkob]]*, the right of the felling-length — on the ground that the noting-down of "adatrechterlijke antiquiteiten" (antiquities of customary law) could be of use for a comparative or explanatory study of the *adat* law of other regions.
+
 ## See Also
 
 - [[Hikum|Hikum]]
@@ -172,6 +192,13 @@ The 1930 compilation's significance for the *adat* record is that it documents t
 - [[1930]]
 - [[1939]]
 - [[1950]]
+- [[Het recht op den grond in Atjeh (De Boer)]]
+- [[D. W. N. de Boer]]
+- [[Beschikkingsrecht in Atjeh]]
+- [[Milik]]
+- [[Mawaih]]
+- [[Gala]]
+- [[Verjaring in Atjehsch adatrecht]]
 
 ## Sources
 
@@ -188,6 +215,8 @@ The 1930 compilation's significance for the *adat* record is that it documents t
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., [[1893]], esp. pp. 22, 25–27 (the *bangoen* episode at Gighen and Samalanga). OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
 *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*. Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesen van het Departement van Binnenlandsch Bestuur*. Weltevreden: Landsdrukkerij, [[1930]], regulations passim, esp. Reg. No. 1 (the *woeker* verordening of 9 December 1926 for Lhoksoekon, recital and *Eenig artikel*), Reg. No. 10 (the marriage regulation for Meureudoe, Artikel 1(2) on *adat isti'adat tiap-tiap tempat*), and Reg. No. 14 (the *heerendienst* regulation for Bireuën, § 2 on the *adat* exemptions from corvée). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
+
+*Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.
 
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
 

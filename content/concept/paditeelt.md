@@ -1,7 +1,7 @@
 ---
 title: "Paditeelt"
-aliases: ["Padi culture Atjeh", "Blang", "Sawah", "Naleh", "Bamboe rice", "Goentja"]
-tags: [concept, agriculture, rice, economic, atjeh]
+aliases: ["Padi culture Atjeh", "Blang", "Sawah", "Naleh", "Bamboe rice", "Goentja", "gantang", "areh", "bidjeh", "bibit", "Atjehnese measures of seed rice"]
+tags: [concept, agriculture, rice, economic, atjeh, measurement, land-law]
 ---
 
 **Paditeelt** (rice cultivation) was the great *volksbedrijf* of [[Atjeh]], practiced on *blang* large rice fields rain-dependent or irrigated *sawahs*, with *ladang* slash-burn and *tegal* fields, characterized by low yields and poor storage.
@@ -36,6 +36,27 @@ Some interest shown rice cultivation Atjeh i.e., see volks agriculture higher bl
 
 There is small treatise published from [[Atjeh Instituut]] titled *De rijkdom van Atjeh.* That richness sees writing in rice cultivation gewest if develops Forms future image offers bestuur gewest states also [[Oostkust van Sumatra]] not indifferent economic happening Atjeh and wishes help Must consider treatise preparation later other communications follow Communications? Would Atjeh-Instituut not person as mediator want can indicate between Atjeh and East Sumatra interests? Whereabout if once nothing happens? What there recommended good: 1 suitable padi sorts indicate; 2 opportunities open dehulling; 3 organization create product each moment against market price sell Question but how to all that many belonging comes Treatise also points heads indispensable coworkers Believe Atjeh-Instituut still must indicate how thinks big work improvement padi cultivation to begin Maybe wants consider whether way indicated leads goal: appointment truly expert padi cultivation with college capable heads survey state overview what each region needed; next indicate how simplest quick improvements apply to further build; instruction planters via suitable countrymen cooperation heads.
 
+## Account from *Het recht op den grond in Atjeh* ([[D. W. N. de Boer]], [[1931]]) — the measures of seed and the assessment of land
+
+[[D. W. N. de Boer]] set out the Atjehnese system of measurement in explaining the rent for good *[[Sawah|sawah]]*'s in the *landschap* [[Keumangan]] (*onderafdeeling* [[Sigli]]), which amounted to two *goentja* of *padi* per *naleh* of *bidjeh* (seed rice).
+
+### The scale of capacity
+
+- one **goentja**
+- one **naleh** = one-tenth of a *goentja*
+- one **gantang** = one-eighth of a *naleh*
+- one **areh** = one-half of a *gantang*
+
+so that one *goentja* equalled ten *naleh*, eighty *gantang* and one hundred and sixty *areh*.
+
+### Seed as a measure of area
+
+The size of a rice field in Atjeh was not stated in surface measure but "door de hoeveelheid *bibit* (= zaadpadi) die men gemiddeld voor de beplanting daarvan noodig heeft" — by the quantity of seed padi needed on average to plant it, or estimated to be needed. With one *naleh* about 1,600 square metres were planted. The yield of good *sawah*'s averaged fifty times, and of poor fields fifteen times, the quantity of seed. On that basis De Boer reckoned the Keumangan lease at about two-fifths of the normally budgeted return.
+
+### The measures in the levies and contracts
+
+The same units governed the customary charges and contracts of the soil. The *[[Boeët oemòng|boeët oemòng]]* — the Atjehnese land rent on wet rice fields within the [[Gampong|gampong]] boundaries — was assessed at one *naleh* of *padi* per *naleh* of *bidjeh*, roughly two to three per cent of the yield. The *[[Padi lintjah|padi lintjah]]* on dry fields was two *naleh* of *padi* per *hippaang padi*, the area cleared by one person with a single *parang* (chopping knife). Under the *[[Thiplah tano|thiplah-tano]]* contract, rice-field land was granted to a non-indigenous immigrant only if he undertook to work at least five *naleh* of *bidjeh*, about 8,000 square metres or 0.8 hectare. The *[[Padé kandoeri|padé kandoeri]]* delivered yearly in recognition of another's possessory right was one *naleh* of *padi*. And the advance made to a pepper planter under the *[[Pangkaj|pangkaj]]* system normally included two *goentja* of *padi*.
+
 ## See Also
 
 - [[Pidie]]
@@ -44,7 +65,14 @@ There is small treatise published from [[Atjeh Instituut]] titled *De rijkdom va
 - [[Groot-Atjeh]]
 - [[Atjeh Instituut]]
 - [[Atjeh Tram]]
+- [[Thiwa]]
+- [[Boeët oemòng]]
+- [[Keumangan]]
+- [[Het recht op den grond in Atjeh (De Boer)]]
+- [[Mawaih]]
 
 ## Source
 
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 99-115.
+
+*Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.

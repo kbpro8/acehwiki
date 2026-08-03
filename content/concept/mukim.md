@@ -1,7 +1,7 @@
 ---
 title: "Mukim"
 aliases: ["the Atjehnese mukim", "moekim", "Moekims", "mukims", "moeqim", "ecclesiastical-administrative unit of Aceh", "Mockim", "Mockims", "M.", "Moekimschap", "Mukim system", "Atjeh moekim", "Imeum Mukim", "Imam Mukim", "Imeum", "Acehnese Parish Head", "imuem", "imam", "head of the moekim", "oelèëbalang tjoet", "Moekim and Imeum in Atjeh (Mellema 1947)", "Moekim as territorial parish in Atjeh", "Imeum in Atjeh", "Atjeh imeum", "Moekim (Atjeh", "Mellema account)", "Imeum (Atjeh", "Territorial congregation in Atjeh", "Friday-moske parish of Atjeh", "Imam der III Moekims Daroe"]
-tags: [concept, government, administrative-unit, achehnese, religious, administration, sultanate, administrative, acheh, territorial, atjeh, aceh-war, 19th-century, zelfbestuur, sumatra, institution, division, moekim, mukim, mosque-group, imeum, oeléebalang-tjoet, colonial, governance, administrative-division, groot-atjeh, indigenous-governance, village-cluster, mukim-leader, office, imam, ecclesiastical-head, friday-service, comparative, mellema-1947, islam, territorial-division]
+tags: [concept, government, administrative-unit, achehnese, religious, administration, sultanate, administrative, acheh, territorial, atjeh, aceh-war, 19th-century, zelfbestuur, sumatra, institution, division, moekim, mukim, mosque-group, imeum, oeléebalang-tjoet, colonial, governance, administrative-division, groot-atjeh, indigenous-governance, village-cluster, mukim-leader, office, imam, ecclesiastical-head, friday-service, comparative, mellema-1947, islam, territorial-division, land-law]
 description: "The Acehnese parish — a grouping of gampongs sharing a Friday mosque (meusigit), led by an imeum mukim, forming the intermediate level between the village and the uleebalangship."
 ---
 
@@ -149,6 +149,14 @@ The Dutch alliance policy proceeded by clearing whole groups of *moekims* of the
 
 [[Jan van Swieten]]’s [[1879]] account used *mukim* as a political as well as territorial category during the [[Aceh War]]. After the [[Capture of the Kraton of Aceh]], he recorded approaches from leaders of the [[XXV Mukim]], [[III Mukim]], and [[XXVI Mukim]], illustrating how the Dutch attempted to translate military occupation into separate local adhesions.
 
+## Account from *Het recht op den grond in Atjeh* ([[D. W. N. de Boer]], [[1931]]) — the imeum and the charge on clearance
+
+[[D. W. N. de Boer]] used the position of the *imeum* to demonstrate the concentration of authority in the hands of the *[[Oeleebalang|oeléëbalang]]* in matters of land. In [[Atjeh]] the clearer of waste ground paid a small tariffed recognition, the *[[Haq radja taléë|haq radja taléë]]* — so named because the *radja* measured out the land to him with a rope (*taléë*, Malay *tali*) — and that payment went to the territorial chief.
+
+That the *radja taléë* was paid to the *oeléëbalang*, and not to the village head or to another chief subordinate to him — "den Imeum bijv.," the *imeum* for instance — was, De Boer argued, "alweer een bewijs van de machtsconcentratie bij het Landschapshoofd," yet another proof of the concentration of power in the head of the *[[Landschap (Atjehnese)|landschap]]*. He supported the point with *[[De Atjehers (Snouck Hurgronje)|De Atjehers]]*, Vol. I, p. 91 ff.: "De oeleëbalangs zijn de heeren des lands, de territoriale hoofden bij uitnemendheid; zij worden dan ook in de boeken, zoowel als in de gesproken taal de radja's van hun gebied genoemd" — the *oeléëbalangs* are the lords of the land, the territorial chiefs par excellence; they are accordingly called, in the books as in the spoken language, the *radja*'s of their territory.
+
+The observation belongs to De Boer's larger thesis that neither the [[Gampong|gampong]] nor any intermediate body played a part in Atjehnese rights in land, the whole of the *[[Beschikkingsrecht in Atjeh|beschikkingsrecht]]* being concentrated in the territorial chief.
+
 ## See Also
 
 - [[XXII Mukims|XXII Moekim's]]
@@ -259,6 +267,9 @@ The Dutch alliance policy proceeded by clearing whole groups of *moekims* of the
 - [[Oeleebalang]]
 - [[Sagi der XXVI Moekims]]
 - [[XXV Moekims]]
+- [[Haq radja taléë]]
+- [[Beschikkingsrecht in Atjeh]]
+- [[Het recht op den grond in Atjeh (De Boer)]]
 
 ## Sources
 
@@ -292,3 +303,5 @@ The Dutch alliance policy proceeded by clearing whole groups of *moekims* of the
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], p. 17.
 
 *De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 1–465.
+
+*Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.

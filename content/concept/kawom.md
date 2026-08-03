@@ -19,6 +19,8 @@ tags:
 - achehnese
 - precolonial
 - social
+- land-law
+- beschikkingsrecht
 description: The Acehnese clan or tribal grouping, whose members bore collective responsibility
   for blood feuds (bila), and whose panglima kawom served as a tribal rather than
   territorial chief.
@@ -51,6 +53,16 @@ The ordinary blood money for causing death in Acheh was 500 Spanish (Mexican) do
 
 By Kreemer's time (the early [[1920s]]), the kawöm system was largely extinct, with only the name remembered. The best preserved memory was in the [[XXII Moekim's|XXII Moekim's]], where the sagi-head [[Panglima Polem|Panglima Pölém]] still belonged to the Dja Sandang kawöm. The *Dajasche landschappen* — partly populated from the XXII Moekim's — still had all four kawöm's represented, with the Imeum peuët by far the most numerous.
 
+## Account from *Het recht op den grond in Atjeh* ([[D. W. N. de Boer]], [[1931]]) — kawom, soekëë and rights in land
+
+[[D. W. N. de Boer]] invoked the *kawom* and the *soekëë* to establish the negative proposition on which his whole account of Atjehnese land law rested: that neither clan nor village had any role in rights in the soil of [[Atjeh]].
+
+He quoted *[[De Atjehers (Snouck Hurgronje)|De Atjehers]]*, Vol. I, p. 62, on the decisive step in Atjehnese political development — the step "die hoofden of vorsten (Oeléébalang) tot gezaghebbers over bewoners van een zeker gebied maakte zonder onderscheid van kawoms of soekëë," which made chiefs or princes into authorities over the inhabitants of a certain territory without distinction of *kawom* or *soekëë*. From that moment the Atjehnese *[[Keradjaan|keradjaäns]]* were territorial rather than genealogical bodies.
+
+The consequence for the law of land was direct. Unlike the Toba-Batak *[[Radja Hoeta|Radja Hoeta]]*, who depended on binding to himself picked kinsmen of his own *marga* and therefore had to wield an anxiously vigilant *[[Beschikkingsrecht in Atjeh|beschikkingsrecht]]*, the Atjehnese *[[Oeleebalang|oeléëbalang]]* was genealogically independent. It mattered little to him, De Boer wrote, "welke *[[Rajat|rajat]]*, van welke kawom of soekëë ook, en waarvandaan" — which subject, of whatever clan or sub-tribe and from wherever — took waste land into use in his territory, provided it was not done in secret; nor did mutations of landholding among his own subjects particularly interest him. His concern was rather the growth of his *[[Wathe|wathé]]* revenues, for which free immigration was desirable.
+
+Accordingly no Atjehnese clearer of waste land was subjected to any requirement of clan or village membership — a point on which De Boer cited [[C. van Vollenhoven|Van Vollenhoven]]'s *[[Adatrecht (Van Vollenhoven)|Adatrecht]]*, pp. 190 and 200 — and no Atjehnese parallel existed to the Batak *[[Parripe|parripean]]* lands, the holdings by which a Batak *radja* bound clients to himself.
+
 ## See Also
 
 - [[Bila]]
@@ -65,9 +77,16 @@ By Kreemer's time (the early [[1920s]]), the kawöm system was largely extinct, 
 - [[XXII Moekim's]]
 - [[Panglima Pölém]]
 - [[Gampöng]]
+- [[Beschikkingsrecht in Atjeh]]
+- [[Keradjaan]]
+- [[Radja Hoeta]]
+- [[Parripe]]
+- [[Het recht op den grond in Atjeh (De Boer)]]
 
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 4, pp. 44–58.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.

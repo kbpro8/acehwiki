@@ -1,7 +1,7 @@
 ---
 title: Toba-Bataklanden
-aliases: [Toba Batak Lands, Toba-Batak Lands, Toba-Bataklanden, the Toba Batak lands, Toba lands, Toba-Batak country, Toba-Batak territories, Toba region of Sumatra, the Batak lands on Noord-Sumatra]
-tags: [place, highlands, sumatra, batak, goldsmithing, craft-center, colonial-administration]
+aliases: ["Toba Batak Lands", "Toba-Batak Lands", "Toba-Bataklanden", "the Toba Batak lands", "Toba lands", "Toba-Batak country", "Toba-Batak territories", "Toba region of Sumatra", "the Batak lands on Noord-Sumatra", "Toba-Bataksche landen"]
+tags: [place, highlands, sumatra, batak, goldsmithing, craft-center, colonial-administration, adat, land-law, comparative]
 ---
 
 **Toba-Bataklanden** — the "Toba-Batak Lands" — was, in the Dutch colonial administrative geography of [[Sumatra|Sumatra]], the region of the Toba-Batak people on [[Noord-Sumatra|Northern Sumatra]], around [[Lake Toba|Lake Toba]] in the uplands south of [[Acheh|Atjeh]]. The region appears in Prof. [[T. J. Bezemer|T. J. Bezemer]]'s [[Indonesische Kunstnijverheid (Bezemer 1933)|1933 plate-atlas *Indonesische Kunstnijverheid*]] as the place of origin of the *[[cire perdue|à cire perdue]]* gold-casting technique documented by J. E. [[J. E. Jasper|Jasper]] en Mas [[Mas Pirngadie|Pirngadie]] in *[[De Inlandsche Kunstnijverheid in Nederlandsch-Indië|De Inlandsche Kunstnijverheid in Nederlandsch-Indië]]*, Vol. IV, pp. 25–26, and as the place of origin of the [[granuleeren|granulation]] technique documented in the same volume, p. 65. The region is, in this sense, the immediate Sumatran goldsmithing context against which the [[Atjeh goldsmithing (soeasa technique)|Atjeh *soeasa* wrapping technique]] is defined in the Bezemer atlas's § H.
@@ -34,6 +34,26 @@ For [[Acheh|Atjeh]]'s history, the Toba-Bataklanden are significant principally 
 
 The Toba-Bataklanden are also significant as the immediate southern neighbours of Atjeh across the [[Barisan|Barisan]] range, and as the principal non-Atjehnese region of [[Noord-Sumatra|Noord-Sumatra]] in the Dutch colonial administrative geography. The two regions — Atjeh and the Toba-Bataklanden — together constituted the highland-and-coastal complex of northern Sumatra, and their metalwork and textile traditions were, in the late colonial period, in continuing contact across the mountainous interior.
 
+## Account from *Het recht op den grond in Atjeh* ([[D. W. N. de Boer]], [[1931]]) — the Batak right of avail as comparative frame
+
+The Toba-Bataklanden, and the territories that had borrowed their institutions, supplied [[D. W. N. de Boer]] with the comparative frame against which he measured the operation of the *[[Beschikkingsrecht in Atjeh|beschikkingsrecht]]* (right of avail over unappropriated land) in [[Atjeh]]. His study opens with the proposition that the right "bestaat in Atjeh van huis uit niet in dien vorm, met die strekking, tot die bemoeienis, als in de Toba-Batak- en de daaraan ontleende landen" — does not from the outset exist in Atjeh in that form, with that tendency, to that degree of interference, as in the Toba-Batak and derived lands.
+
+### The two elements of the Batak right
+
+In the Toba-Batak lands the right consisted of two elements. The first was an "angstvallig intensieve contrôle" — an anxiously intensive control — exercised in the first instance by the *[[Radja Hoeta|Radja (ni) Hoeta]]*, the village *radja*, over the taking of land into use, and above all directed to preventing the alienation of land out of the community. The second was the annexation by that same *Radja Hoeta* of lands left by deceased dependants, or abandoned by emigrating ones, so far as no entitled heirs presented themselves — annexation either for his own benefit, or for issue and re-issue of the land to new immigrants, whom he thereby bound to himself as *[[Parripe|parripe]]*'s.
+
+### The political foundation
+
+For the Batak *radja* this right was "de basis van zijn macht, het fundament bij den opbouw van zijn *harajaon*" — the basis of his power, the foundation on which his chieftaincy was built. Without it, De Boer argued, the small Batak *radja* in general, and above all — since the fragmentation of the *marga* (clan) — the man founding a new village, could not have bound to himself the picked *[[Ripe|ripe]]*'s, preferably belonging to his own *marga*, whom he needed to maintain or extend his *harajaon*. Nor could he have prevented representatives or members of other *marga*'s from nibbling away at his often insignificant little chieftaincy, until at last he found himself so far in the minority even in the village he had himself founded that under *marga* law he could be more or less set aside.
+
+### The contrast with Atjeh
+
+De Boer drew the contrast sharply. The Atjehnese *[[Keradjaan|keradjaäns]]* were not fragmented in that degree and were far larger; the Atjehnese village heads — the *[[Keuchi|Keutjih]]* and the *[[Peutoeha|Peutoeha]]* — enjoyed no outward independence; and the formation of the various *[[Landschap (Atjehnese)|landschappen]]* of Atjeh had not taken place along genealogical lines at all, the Atjehnese states having arisen territorially. There was consequently in Atjeh no dependence on a sufficiently strong following of members of the same lineage, sub-stem or *marga*, and so no necessity to handle the right of avail with circumspection. "Naar een parallel met *parripean*-gronden zoekt men hier vergeefs" — one searches in vain here for a parallel with *parripean* lands.
+
+### Comparative institutions of marriage and household
+
+Three further Batak institutions served De Boer as comparanda for Atjehnese usages: the Batak *[[Indahan arian|indahan arian]]*, which he equated with the Atjehnese *[[Atra peunoelang|atra peunoelang]]* — the property given by a father or other guardian to his married daughter on the birth of her first child; the Batak *mandjaë*, corresponding to the Atjehnese *[[Peungkleh|peungkleh]]*, the setting-up of a young couple in an independent household; and the Batak *sinamot*, corresponding to the Atjehnese *[[Djinamee (Atjehnese marriage gift)|djinaméë]]* or bride-price.
+
 ## See Also
 
 - [[Cire perdue]]
@@ -53,7 +73,14 @@ The Toba-Bataklanden are also significant as the immediate southern neighbours o
 - [[Padangsche Bovenlanden]]
 - [[Sumatra]]
 - [[Acheh]]
+- [[Radja Hoeta]]
+- [[Parripe]]
+- [[Beschikkingsrecht in Atjeh]]
+- [[Atra peunoelang]]
+- [[Het recht op den grond in Atjeh (De Boer)]]
 
 ## Source
 
 *Indonesische Kunstnijverheid. Platen-Atlas met Inleiding van Prof. T. J. Bezemer* ('s-Gravenhage: N.V. tot Exploitatie van het Maandblad "Nederl-Indië, Oud en Nieuw"; ten Hagen's Drukkerij en Uitgeversmaatschappij N.V., 15 October 1933), p. 13 (on the Toba-Batak *cire perdue* casting process, quoting Jasper and Pirngadie) and plate 64 (the Toba-Batak *Ragidoep* cotton ikat, p. 48), plate 168 (the Batak man with brass armlet, p. 122), plate 169 (the Toba-Batak brass armlet, p. 123). Universiteitsbibliotheek Vrije Universiteit, Amsterdam, LS 5411. See also *De Inlandsche Kunstnijverheid in Nederlandsch-Indië*, by J. E. Jasper en Mas Pirngadie, Vol. IV, pp. 25–26 (on the Toba-Batak *cire perdue* process) and p. 65 (on granulation).
+
+*Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.

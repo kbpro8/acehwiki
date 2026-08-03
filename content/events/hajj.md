@@ -1,7 +1,7 @@
 ---
 title: Hajj
-aliases: [Hajj, Pilgrimage to Mecca, The pilgrimage, Achehnese pilgrims to Mecca, Haj, The hajj pilgrimage, Achehnese haj, Certificates for the haj]
-tags: [event, religious-practice, pilgrimage, social, travel, colonial-administration]
+aliases: ["Hajj", "Pilgrimage to Mecca", "The pilgrimage", "Achehnese pilgrims to Mecca", "Haj", "The hajj pilgrimage", "Achehnese haj", "Certificates for the haj", "hadj", "Mekkaganger"]
+tags: [event, religious-practice, pilgrimage, social, travel, colonial-administration, inheritance, adat, law]
 ---
 
 The **Hajj** — the Mohammedan pilgrimage to [[Mecca]] — is treated by C. Snouck Hurgronje in *The Achehnese* chiefly in connection with its social and economic effects on Achehnese society: the slaves brought home from Mecca by returning pilgrims, the religious influence acquired by those who had made the journey, and the indirect contribution of the pilgrimage to the Dutch colonial problem through the contacts it fostered between Achehnese and the wider Mohammedan world.
@@ -50,6 +50,16 @@ The returned Haddji who had spent some years in Mecca in the study of the law an
 
 It is in connection with the [[Oelama zakaat war-chest in the Atjehoorlog (Mellema 1947)|diversion of the zakaat as a war-chest]] during the [[Aceh War|Atjehoorlog]] that Mellema records the political significance of the Haddji title in Atjeh. The *[[oelama|oelama]]*'s who, during the Atjehoorlog, acted as *zakaatinner* (zakaat-collectors) and formed a *particuliere krijgskas* (private war-chest) from which they paid their followers, thereby gained "een persoonlijk overwicht op de bevolking" (a personal ascendancy over the population) and "groter invloed … dan de officiele hoofden bezatten" (greater influence than the official chiefs — the [[Uleebalang|uleebalang]]s — possessed). The ascendancy so gained was further strengthened when the oelama could in addition assume the title of Haddji: "Wanneer zij dan daarenboven nog de titel van Haddji konden aannemen, omdat zij een tocht naar Mekka hadden volbracht, kon dit slechts het aanzien, dat zij in de ogen van het volk genoten, verhogen." The Haddji title is thus, in Mellema's account, the religious-cultural complement to the fiscal-military base supplied by the zakaat: together, the two made the oelama's the effective rivals of the uleebalangs in the society of wartime Atjeh. The Haddji title's prestige is treated at length in [[Haddji title prestige in Atjeh (Mellema 1947)]].
 
+## Account from *Het recht op den grond in Atjeh* ([[D. W. N. de Boer]], [[1931]]) — the hadj and the settlement of estates
+
+A further, strictly legal, effect of the pilgrimage on Achehnese society was recorded by [[D. W. N. de Boer]], a former chairman of Atjehnese *[[Moesapat|moesapat]]* and *[[Landschapsgerecht|landschapsgerecht]]* courts, in his survey of the customary law of the soil.
+
+De Boer noted that division of an estate during the lifetime of the prospective testator — *[[Atra boeloeng|atra boeloeng]]* — "komt in Atjeh zeer veel voor," occurred very frequently in [[Atjeh]], and that one of its principal occasions was the departure of a man for [[Mecca|Mekka]]. With the possibility in view that he might die during the *hadj*, a *Mekkaganger* preferred to regulate his affairs beforehand. He feared that through sudden death or other circumstances he might not be in a position to draw up a proper *[[Wasiet|wasiët]]* (testament); and in any case he did not wish to run the risk that a disposition drawn up on the journey or in "het heilige land" — the Holy Land — would fail to be transmitted home, or would not be carried out according to his wish.
+
+The same assignment in *boeloeng* took place in the case of great age of the prospective testator, or of such illness that he no longer dared reckon on being able to manage his goods himself again. After a safe homecoming from Mekka, or sufficient recovery from illness, such a disposition made during life was often undone again.
+
+The pilgrimage thus left a direct mark on the Atjehnese law of inheritance: it was among the chief practical reasons why the *adat* of estate division before death remained vigorous alongside the written testament of Islamic law.
+
 ## See Also
 
 - [[Haj]]
@@ -71,9 +81,15 @@ It is in connection with the [[Oelama zakaat war-chest in the Atjehoorlog (Melle
 - [[Rangkang]]
 - [[Oelama]]
 - [[1947]]
+- [[Atra boeloeng]]
+- [[Wasiet]]
+- [[Atra peunoelang]]
+- [[Het recht op den grond in Atjeh (De Boer)]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *De Islaam in Indonesië (in het bijzonder op Java)*, by Drs. R. L. Mellema. Mededeling No. LXXVII, Afd. Volkenkunde No. 25. Amsterdam: Koninklijke Vereniging "Indisch Instituut," 1947. "De haddj, de 5e zuil van de wet," pp. 36–39; and "De zakaat, de 3e zuil van de wet," pp. 34–36; and *Register*, s.v. *haddj* and *haddji*.
+
+*Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.

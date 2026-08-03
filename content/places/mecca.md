@@ -23,6 +23,8 @@ tags:
 - islam
 - islamic
 ---
+- inheritance
+- adat
 
 In the [[Hikayat Nubuet]]: 'Abu Jhay (Abu Jahl) is represented as king of Mecca' and Muhammad 'in his tender youth... with the help of forty companions, waged a long war against Abu Jhay who is represented as king of Mecca and who deemed himself slighted by the young lad.'
 
@@ -48,6 +50,14 @@ Mecca is the great centre through which the more strict and orthodox doctrine of
 
 The marriage-officials of Mecca are called *mumlik* (a term whose "absolute" identity of function with the district *pangulus* of [[Java]] Snouck Hurgronje had already discussed in his *Mekka*, Vol. II). Together with [[Medina]] and [[Cairo]], Mecca is cited as a centre of Mohammedan civilisation where the legal equality of the children of slave-concubines with those of free wives is actually observed in practice — a custom only partially observed in Acheh and in inland Arabia. In the matter of the calendar, the doctrine of the *ruya* (observation of the new moon) has more recently been accepted throughout the East Indies under the combined influence of Mecca and [[Hadramaut]], displacing the older method of *hisab* (calculation). Here, as in so much else, the holy city sets the standard to which the outlying Muslim lands tend, sometimes slowly and sometimes with great rapidity, to conform.
 **Mecca** (also written **Mekka**, Arabic **Makkah**) is the holy city of Islam in [[Arabia]], and the destination of the pilgrimage (*hajj*) which every pious Achehnese was expected, if able, to accomplish at least once in his lifetime. Throughout *The Achehnese* it appears both as the supreme spiritual centre towards which Achehnese religious life was oriented — the *kiblat* or direction of prayer, the goal of the Hajj, and the source of much of the doctrinal and devotional literature in use in [[Acheh]] — and as the place where [[C. Snouck Hurgronje|Snouck Hurgronje]] himself, during a residence in [[Arabia]] in [[1884]]–[[1885]], had gained that intimate knowledge of Mohammedan fanaticism which he afterwards applied to the analysis of Achehnese resistance to Dutch rule.
+
+## Account from *Het recht op den grond in Atjeh* ([[D. W. N. de Boer]], [[1931]]) — Mekka and the settlement of Atjehnese estates
+
+Mekka bore directly on the Atjehnese law of property through the practice of settling one's estate before departing on pilgrimage — a practice recorded by [[D. W. N. de Boer]], former chairman of Atjehnese *[[Moesapat|moesapat]]* and *[[Landschapsgerecht|landschapsgerecht]]* courts.
+
+De Boer noted that division of an estate during the lifetime of the prospective testator, called *[[Atra boeloeng|atra boeloeng]]*, occurred very frequently in [[Atjeh]], and took place among other occasions "als iemand op het punt staat naar Mekka te vertrekken" — when someone stands on the point of departing for Mekka. In view of the possibility that he might die during the *[[Hajj|hadj]]*, a *Mekkaganger* preferred to regulate his affairs in advance: he feared that through sudden death or other circumstances he might have no opportunity to draw up a proper *[[Wasiet|wasiët]]* (testament), and did not wish to run the risk that a disposition drawn up on the journey or in "het heilige land" — the Holy Land — would fail to be transmitted home, or would not be executed according to his wish.
+
+After a safe homecoming from Mekka, De Boer added, such a disposition made during life was often undone again.
 
 ## See Also
 
@@ -78,6 +88,9 @@ The marriage-officials of Mecca are called *mumlik* (a term whose "absolute" ide
 - [[Haji (Acehnese practice)]]
 - [[Hajj from Aceh]]
 - [[Islamic pilgrimage in Southeast Asia]]
+- [[Atra boeloeng]]
+- [[Wasiet]]
+- [[Het recht op den grond in Atjeh (De Boer)]]
 
 ## Sources
 
@@ -85,3 +98,5 @@ The marriage-officials of Mecca are called *mumlik* (a term whose "absolute" ide
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 *20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pp. [[83]], [[91]].
+
+*Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.

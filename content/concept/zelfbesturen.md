@@ -1,7 +1,7 @@
 ---
 title: "Zelfbesturen"
 aliases: ["Self-governing territories", "zelfbesturende landschappen", "zelfbestuur", "inlandsche zelfbesturen", "the self-governing lands of the Buitenbezittingen", "self-government", "inlandsch zelfbestuur", "Zelfbestuurders", "Het Zelfbestuur", "zelfbestuursregelen", "zelfbestuurder", "self-governing landschappen"]
-tags: [concept, colonial, dutch, administration, sovereignty, buitenbezittingen, aceh, zelfbesturen, atjeh, indirect-rule, governance, 20th-century, buitengewesten]
+tags: [concept, colonial, dutch, administration, sovereignty, buitenbezittingen, aceh, zelfbesturen, atjeh, indirect-rule, governance, 20th-century, buitengewesten, land-law, beschikkingsrecht]
 description: "The zelfbesturen — the self-governing native territories of the Outer Possessions, governed by their own rulers under Dutch suzerainty and supervised by the Gouvernement through political contracts (before 1899) or the Korte Verklaring (after 1899)."
 ---
 
@@ -77,6 +77,26 @@ By [[1927]] there were, on Swart's testimony, "minstens 100 zelfbesturende licha
 
 The signatories of the [[Letter of the Acehnese Chiefs to General Swart (26 September 1933)|letter of the Acehnese chiefs]] of [[1933]] included sixteen *zelfbestuurders* of *landschappen*.
 
+## Account from *Het recht op den grond in Atjeh* ([[D. W. N. de Boer]], [[1931]]) — the right of avail in the self-governing territories
+
+In [[D. W. N. de Boer]]'s survey of Atjehnese land law, the *zelfbesturende landschappen* (self-governing territories) were precisely the part of the *gewest* in which the *[[Beschikkingsrecht in Atjeh|beschikkingsrecht]]* — the right of avail over unappropriated land — remained a living institution, in contrast to the directly governed territory of [[Groot-Atjeh]], where it was barely discernible and the indigenous inhabitant was practically free to clear outside the [[Gampong|gampong]] boundaries wherever no rights of others were apparent.
+
+De Boer set this finding expressly against [[C. van Vollenhoven]]'s *[[Adatrecht (Van Vollenhoven)|Adatrecht]]*, p. 196, which had declared that "a faded or sleeping right of avail does not exist here": that judgement, he answered, was "not correct" for the *Zelfbesturende Landschappen*.
+
+### Prior notice and the three-month warning term
+
+In the self-governing territories the intention to clear waste land had first to be notified to the *radja* or his *[[Wakil|wakil]]* (deputy), so as to prevent boundary disputes so far as possible. It was as a rule known to the *radja* or his representative — through the measuring-out of ground under the *[[Haq radja taléë|haq radja taléë]]*, through the former *[[Boeët oemòng|boeët oemòng]]* and *[[Adat glé|adat glé]]* levies, and through the continuing collection of *[[Wathe|wathé]]* — whether land applied for still had an owner, or had at least lately been someone's property.
+
+Land bearing clear traces of recent working was therefore not issued at once. Instead the intention to re-clear was publicly proclaimed for [[Three-month warning term for re-clearance in the Atjehnese self-governing territories|three months]]. If no older right was substantiated within that term, the clearance permit was granted against payment of the *radja taléë*, and the holder could thereafter be ousted by no one; if an older right was proved by witnesses, the applicant was rejected. Recently abandoned *[[Sawah|sawah]]* not yet gone to *[[Rimba|rimba]]* (jungle) was granted only as a three-year loan for use; neglected gardens within the gampong were given out in *[[Mawaih|mawaih asoë]]*; wholly derelict gardens outside the gampong were granted in full possession.
+
+### The right of avail as an emolument of the ruler
+
+De Boer judged that the exercise of the right of avail as an emolument of the sovereign — and with it the fixing, through the mediation of the Netherlands administration, of the several *zelfbestuur* boundaries — became genuinely important only when European capital began to interest itself in these lands, the right promising to become for the self-governing rulers "a Deli-like source of income" through their share in the *pachtschat* (concession rent), *vastrecht* (fixed due) and *cijns* (quit-rent) of land and mining concessions under [[Staatsblad 1919 No. 61 jo No. 281]]. For [[Atjeh]] the division was six-tenths to the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement]] and four-tenths to the *[[Landschap (Atjehnese)|landschap]]*, and of the latter seven-tenths to the *[[Oeleebalang|oeléëbalang]]* and three-tenths to the *[[Landschapskassen|landschapskas]]*. Most boundary disputes between the *zelfbesturen* arose from the laying-out of pepper, *pinang* and other plantations in frontier districts, on which *wathé* would in due course be leviable.
+
+### Abolition of the sovereign land levies
+
+By article 15 sub I of the *zelfbestuursordonnantie*, [[Staatsblad 1919 No. 822]], the older levies which the *oeléëbalangs* had raised as sovereigns — the *boeët oemòng* within the gampong and the *adat glé* outside it — were abolished, the chiefs receiving in compensation a fixed *[[Civiele lijst|civiele lijst]]* calculated separately for each of them. Article 15 sub I read with article 29 sub 3 also brought the alienation of land to persons not belonging to the indigenous population under the control of the Gouvernement.
+
 ## See Also
 
 - [[Korte Verklaring]]
@@ -123,6 +143,11 @@ The signatories of the [[Letter of the Acehnese Chiefs to General Swart (26 Sept
 - [[C. Lulofs]]
 - [[H. N. A. Swart]]
 - [[Landschap]]
+- [[Beschikkingsrecht in Atjeh]]
+- [[Het recht op den grond in Atjeh (De Boer)]]
+- [[Staatsblad 1919 No. 822]]
+- [[Staatsblad 1919 No. 61 jo No. 281]]
+- [[Three-month warning term for re-clearance in the Atjehnese self-governing territories]]
 
 ## Source
 
@@ -131,3 +156,5 @@ The signatories of the [[Letter of the Acehnese Chiefs to General Swart (26 Sept
 *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*. Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesen van het Departement van Binnenlandsch Bestuur*. Weltevreden: Landsdrukkerij, [[1930]], esp. the *Voorwoord* (p. 7), the *Inhoud* (pp. V–VII), and the regulations passim (Regs. Nos. 1–23, and esp. Reg. No. 9b *Nota van Toelichting* on the constitutional subordination of the Atjehsche *Zelfbestuur*). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter V, pp. 30–35; Chapter IV, p. 23; Chapter XVII, p. 160; Appendix, p. 169.
+
+*Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.
