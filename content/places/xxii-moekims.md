@@ -1,54 +1,45 @@
 ---
 title: "XXII Moekims"
-aliases: ["XXII Moekim's", "Twenty-two Mukims", "22 Mukims", "Sagi of XXII Moekims"]
-tags: [place, region, aceh, achehnese, atjeh, administrative-division, sagi, geography]
+aliases: ["XXII Moekims", "Sagi der XXII Moekims", "Sagi XXII", "XXII Moekims (Polim)", "Polim's territory", "Land of Panglima Polim"]
+tags: [place, region, sagi, moekim, aceh, aceh-war, 19th-century, 20th-century]
 ---
 
-**The XXII Moekims** (Twenty-two Mukims) was one of the three sagi's (federations) of [[Groot-Atjeh]], named for the twenty-two mukims (ecclesiastical-administrative units) it contained. Located in the southern and eastern portions of the Dutch-occupied territory, it was the scene of intense military activity during the [[Aceh War]] and the focus of the concentration decision of [[1884]].
+**The [[XXII Moekims]]** (also referred to as the [[Sagi]] of the [[XXII Moekims]]) was the territorial unit ruled by [[Panglima Polim]]—the principal resistance leader in [[Groot-Atjeh]] during the [[Aceh War]] ([[1873]]–[[1903]]). Comprising twenty-two [[moekims]] (districts) originally, it formed one of the three sagi that encompassed the territory around [[Koeta Radja]] where the sultan of [[Atjeh]] exercised direct authority.
 
-## Geography
+## Structure and leadership
 
-The XXII Moekims encompassed a substantial portion of the southern and southeastern territory of [[Groot-Atjeh]]. The region extended from the vicinity of [[Kota-Radja]] eastward toward the interior highlands. The terrain varied from coastal lowlands near the [[Atjeh-rivier]] to more elevated areas in the interior.
+The [[XXII Moekims]] was ruled by a hereditary chief bearing the title [[panglima]]. At the beginning of the Dutch conflict in [[1873]], the head was [[Sri Moeda Perkasa]], who died in [[1879]]. His successor [[Toekoe Moeda Ibrahim]] died in [[1891]]; the next heir was the young [[Toekoe Radja Daoed]], initially under the guardianship of three [[toekoes]]. The family line—referred to collectively as "[[Panglima Polim]]"—persisted throughout the war, making the territory a continuous centre of resistance regardless of individual deaths.
 
-## Administrative Structure
+The main place of the [[XXII Moekims]] was [[Misigit Indrapoeri]] (also called [[Indrapoeri]] or [[Indrapuri]]), which served as the administrative and strategic centre. Dutch forces penetrated to [[Indrapoeri]] in [[1878]] and [[1879]], but this did not bring [[Polim]] to submission; instead, it was claimed that he became more combative than ever, even attempting to recapture the lost centre.
 
-As a sagi, the XXII Moekims was headed by a Panglima Sagi, whose title reflected the military origins of the federation. The sagi was divided into peleebalangschappen (districts) and moekimschappen (subdistricts), creating a hierarchical administrative structure that the Dutch later attempted to utilize for colonial governance.
+## Role in the resistance
 
-The XXII Moekims contained the important mukim of [[Pager-Ajer]], which included [[Lampermej]].
+The [[XXII Moekims]] was the core of resistance throughout the war. From the very first expedition in [[1873]], its inhabitants played a dominant role in resisting Dutch forces, even before Dutch troops entered the territory. After the capture of the [[kraton]] in [[1874]], [[Panglima Polim]] made his territory a gathering place for all who wished to continue the war, and his influence radiated over all landscapes of [[Groot-Atjeh]].
 
-## Military History
+During the revival of resistance in the early [[1880]]s, the [[XXII Moekims]] gave rise to a closely united priestly party that united for the holy war and made common cause with fanatical chiefs and existing war bands. Even within the Dutch [[Concentrated Line]] established in [[1886]], the bands from the [[XXII Moekims]]—particularly those led by [[Panglima Polim]] and [[Teungkoe di Tiro]]—penetrated and fought fierce battles in [[1887]].
 
-### Offensive Operations
+The Dutch government itself acknowledged in the [[1890]]s that the [[XXII Moekims]] had always been the focal point of resistance since the war began, and that a favourable situation comparable to that in the [[XXV]] and [[XXVI Moekims]] could not be achieved quickly in this sagi.
 
-The XXII Moekims was the focus of major Dutch military operations in [[1878]]–[[1879]], when [[General van der Heyden]] led expeditions to establish control over the region. These campaigns resulted in the establishment of numerous posts extending eastward from [[Lambaroe]] toward [[Djerir]].
+## The Dutch campaigns (1893-1903)
 
-### Communication Line
+Under [[Deykerhoff]]'s alliance policy, [[Toekoe Djohan]] (the defector [[T. Oema]]) managed to penetrate to [[Senelop]] in [[1893]] and [[1894]], but encountered strong resistance and ultimately defected back to the hostile side in [[1896]]. The supreme authority then sent [[Generaal Vetter]] with three battalions, and part of the [[XXII Moekims]] was treated—though not entirely subdued.
 
-A key feature of Dutch presence in the XXII Moekims was the communicationslijn (communication line) extending 121 palen eastward through the region. This line, passing through [[Anagaloeng]], [[Lepong-Ara]], [[Samagani]], [[Tjot-Basetoel]], [[Long-Lemoh]], [[Glé-Kamping]], [[Indrapoeri]], and [[Djerir]], was intended to support offensive operations but proved a liability once those operations ceased.
+Under [[Van Heutsz]]—appointed in [[March 1898]]—the [[XXII Moekims]] became the primary target. The [[Pidië Expedition]] began at [[Segli]] in [[Pedir]] and advanced over the mountains toward [[Polim]]'s land. The Dutch secured the [[VII Moekims]]—the mountain district between [[Pedir]] and the [[XXII Moekims]]—and gradually pushed [[Polim]] out of his ancestral territory. Over five years of relentless pursuit, the resistance in the [[XXII Moekims]] was broken, and in [[1903]] [[Panglima Polim]] submitted unconditionally.
 
-### Concentration
-
-The concentration decision of [[1884]] led to the evacuation of all posts in the XXII Moekims except those incorporated into the new geconcentreerde stelling, including [[Lambaroe]], [[Lampermej]], and [[Ketapan-Doea]]. The posts of Anagaloeng, Lepong-Ara, Samagani, Tjot-Basetoel, Long-Lemoh, Glé-Kamping, Indrapoeri, Djerir, Panteh-Karang, Senelop, and Montasik were evacuated on [[13 January]] [[1885]].
-
-## Population
-
-The population of the XXII Moekims was predominantly Acehnese. Following the Dutch expeditions of 1878–1879, much of the population initially submitted to Dutch authority. However, as the oorlogspartij (war party) gained strength and the *heilige oorlog* (holy war) was proclaimed, many joined the resistance.
-
-## Significance
-
-The XXII Moekims illustrated the challenges of maintaining control over a region without genuine popular support. The Dutch could establish posts, but without control of the surrounding territory and population, these posts remained vulnerable. The concentration strategy acknowledged this reality by abandoning the attempt to hold isolated positions.
+Following the submission, Dutch civil authorities established regular administration in the [[XXII Moekims]], completing the pacification of [[Groot-Atjeh]] and laying the foundation for the modern administrative structure of [[Atjeh]].
 
 ## See Also
 
-- [[Groot-Atjeh]]
+- [[Panglima Polim]]
 - [[Sagi]]
-- [[XXV Moekims]]
-- [[XXVI Moekims]]
-- [[General van der Heyden]]
-- [[Aceh War]]
-- [[Withdrawal from XXII Moekims Outposts (January 1885)]]
-- [[Anagaloeng]]
+- [[Moekim]]
+- [[Misigit Indrapoeri]]
+- [[Groot-Atjeh]]
+- [[Pidië Expedition]]
+- [[Joannes Benedictus van Heutsz]]
+- [[Dr. C. Snouck Hurgronje]]
+- [[Toekoe Oemar]]
 
 ## Source
 
-*De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 9–12, 17–18, 24–29.
+*Het einde van den Atjeh Oorlog* (Overprintken uit de *Evening Post* van 25, 26 en 27 Augustus 1903, pp. 3-16); Somer, Dr. J. M. *Het Atjeh-probleem van 1890-1900* (Overprint uit *Journal / Organ van de Netherlands-Indies Officers Association*, [1935], pp. 4-7); Damste, H. T. "Atjeh-historie," *Koloniaal Tijdschrift* 1916.
