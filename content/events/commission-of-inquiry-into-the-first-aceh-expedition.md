@@ -1,34 +1,53 @@
 ---
 title: "Commission of Inquiry into the First Aceh Expedition"
-aliases: ["Enquête over de Eerste Atjehse Expeditie", "Aceh Commission of Inquiry 1874", "Enquete Eerste Expeditie"]
-tags: [event, political, inquiry, military, dutch]
+aliases: ["Aceh inquiry into the failed expedition", "Enquête over de eerste Atjeh-expeditie", "Enquete over den mislukten tocht naar Atjeh"]
+tags: [event, inquiry, military, dutch, aceh-war, colonial]
 ---
 
-**Commission of Inquiry into the First Aceh Expedition** was an official governmental and military commission of inquiry (*enquête*) convened by the [[Dutch East Indies Government]] in [[1874]] to investigate the primary causes behind the defeat and withdrawal of the [[First Aceh Expedition]] against the [[Aceh Sultanate]] in April [[1873]].
+**The Commission of Inquiry into the First Aceh Expedition** was the investigation started after the failure of the [[First Aceh Expedition (1873)]], when the Dutch colonial government tried to determine responsibility for the retreat from [[Aceh|Atjeh]] and the death of [[J. H. R. Köhler|General Köhler]]. As described by [[H. B. van Daalen]] in [[De enquête over den mislukten tocht naar Atjeh]], the process began not with an open hearing of the commanders, but with secret written questions to senior officers. Only later did it become a formal commission.
 
-## Interrogation of Surviving Officers
+The inquiry is important because it turned the defeat of [[1873]] into an internal struggle over blame, military honour, and government responsibility.
 
-The commission interrogated surviving commanders, staff officers, and naval personnel, including General [[E. C. van Daalen]] and adjutants who had served under the deceased General [[J. H. R. Köhler]]. As General [[G. G. Booms]] observed in his [[1875]] treatise, the proceedings were conducted with such aggressive scrutiny that one parliamentary deputy publicly branded the inquiry an "inquisition."
+## Secret questioning after the retreat
 
-Booms noted that investigators went so far as to interrogate General Köhler's adjutant regarding the commander's emotional mood upon arriving at headquarters on the day of his death.
+After the expedition returned to the roadstead of [[Batavia]], the government did not rely only on the formal reports of the commanders. Van Daalen wrote that, under date [[6 May]] [[1873]], written questions were quietly sent to senior officers who had taken part in the campaign. In his view, the purpose was either to prove that the retreat had been unavoidable or to gather support for blaming the commanders in the field.
 
-## Findings and Historiographical Rebuttal
+This already caused unease, because the government appeared to be questioning subordinates behind the backs of their chiefs.
 
-The published report of the commission tended to highlight tactical mistakes by military officers on the ground. In response, General [[G. G. Booms]] wrote *Over de eerste expeditie tegen Atjeh* ([[1875]]) to rebut the enquête's one-sided conclusions. 
+## The formal commission
 
-Booms demonstrated that the testimony collected by the inquiry actually proved that the defeat stemmed from institutional failures—including the absence of a [[General Staff of the KNIL]], defective [[Military Intelligence in the Aceh War]], and the overhasty timing forced by the approaching [[Southwest Monsoon in Aceh Operations]].
+When these earlier steps did not settle the matter, a formal commission was appointed to examine the expedition from its organization to its return. Van Daalen criticized both its direction and its composition. The president was a civilian, and some members were, in his eyes, not of unquestioned military standing in relation to the officers whose conduct might be judged.
+
+## The withdrawal of Kroesen
+
+Van Daalen paid special attention to the withdrawal of Colonel [[Kroesen]] after he had attended a few sittings. He admitted that the reasons were not fully public, but he treated the event as highly significant. Some people saw it as evidence that the inquiry was aimed mainly at the former army commander. Others saw it as proof that the inquiry itself had taken a troubling direction.
+
+## Criticism of procedure
+
+Van Daalen did not say that an inquiry was wrong in itself. He said it had to be fair, open, calm, and based on proper forms. Instead, he believed the government had acted with unusual haste, had used secret accusations, and had damaged confidence within the army by questioning officers in the wrong way.
+
+Later writers such as [[G. G. Booms]] and [[W. A. Coblijn]] also criticized the tendency to put too much blame on the officers in the field and too little on the larger failures of policy, preparation, and intelligence.
+
+## Significance
+
+**The Commission of Inquiry into the First Aceh Expedition** mattered because it showed that the first Dutch defeat in [[Aceh|Atjeh]] immediately became more than a military event. It became a political and institutional crisis. The inquiry raised the question of whether the commanders had failed, whether the government had failed, or whether both had failed together.
 
 ## See Also
 
+- [[De enquête over den mislukten tocht naar Atjeh]]
+- [[H. B. van Daalen]]
+- [[Bemoediging]]
+- [[First Aceh Expedition (1873)]]
+- [[James Loudon]]
+- [[Kroesen]]
+- [[Council of Netherlands India|Raad van Nederlandsch-Indië]]
+- [[Batavia]]
 - [[1873]]
-- [[1874]]
-- [[1875]]
-- [[G. G. Booms]]
-- [[J. H. R. Köhler]]
-- [[E. C. van Daalen]]
-- [[First Aceh Expedition]]
-- [[General Staff of the KNIL]]
 
 ## Source
 
-*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 12-21.
+*De enquête over den mislukten tocht naar Atjeh*, door H. B. van Daalen, redacteur van den *Java-Bode*. Twee artikelen, overgedrukt uit de nos. 131 en 132 van den *Java-Bode* (Batavia: H. M. van Dorp & Co.; 's-Gravenhage: De Erven Thierry & Mensing; C. van Doorn & Zoon, [[1873]]), pp. 17–23.
+
+*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, door G. G. Booms ('s-Gravenhage: A. van Hoogstraten & Zoon, [[1875]]), pp. 12–21.
+
+*Hoe Atjeh te onderwerpen*, door W. A. Coblijn ('s-Gravenhage: De Gebroeders van Cleef, [[1893]]), pp. 27–29.

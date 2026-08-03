@@ -1,53 +1,38 @@
 ---
-title: General Knoop
-aliases:
-- Knoop
-- generaal Knoop
-- W. J. Knoop
-- Willem Jan Knoop
-tags:
-- person
-- dutch
-- colonial
-- military
-- general
-- military-historian
-- critic
-- aceh-war
-- 1873
-- historian
+title: "General Knoop"
+aliases: ["W. J. Knoop", "Generaal Knoop", "Knoop", "Willem Jan Knoop"]
+tags: [person, general, dutch, military-historian, aceh-war, critic]
 ---
 
-**General Knoop** was a Dutch *generaal* and military historian whose judgement that the [[Second Aceh Expedition (1873–1874)|second Dutch expedition against Atjeh]] was "slechts ten deele gelukt" — only partially successful — is cited by [[G. F. W. Borel|Borel]] as one of the principal contemporary verdicts on [[Jan van Swieten|generaal van Swieten]]'s conduct of the war. Borel remarks that Knoop "could have said *mislukt*."
+**General Knoop** was the Dutch military historian whose judgement that the [[Second Aceh Expedition (1873-1874)]] had been only "slechts ten halve gelukt" — only half successful — became one of the best-known verdicts in the early historiography of the [[Aceh War]]. His phrase stood at the centre of the public dispute between [[Jan van Swieten]], who tried to answer it in [[General Van Swieten's letter in Het Vaderland]], and [[Brutus]], who defended it in [[Open Letter by Brutus to General Knoop]].
 
-## The Judgement "Slechts ten deele gelukt"
+## The famous judgement
 
-Borel introduces Knoop in the company of [[Generaal Booms|generaal Booms]] and [[Luitenant-kolonel de Rochemont|gep. lt.-kol. de Rochemont]] as one of the named critics of the second expedition whose published judgements he cites to buttress his own indictment of van Swieten. Knoop's verdict — that the second expedition was "slechts ten deele gelukt" — is the most economical of the three. The verdict covers, in a single phrase, the whole arc of the second expedition from the [[Landing at Pedro-punt (6 December 1873)|landing at Pedro-punt]] of [[6 December]] [[1873]] to the [[Departure of Jan van Swieten from Atjeh (April 1874)|departure of van Swieten]] on [[26 April]] [[1874]]: the [[Storming of the Mesigit (6 January 1874)|storming of the Mesigit]] with 220 casualties, the [[Fall of the Kraton (24 January 1874)|fall of the Kraton]] by Verspijck's *omtrekkende beweging*, the [[Reconnaissance of the Atjeh-rivier (29 January 1874)|misfired reconnaissance of the Atjeh-rivier]] of [[29 January]] [[1874]], the [[Death of the Sultan of Atjeh and annexation proclamation (1874)|death of the sultan and annexation proclamation]] of early February, the [[Expedition to Bital (12 February 1874)|expeditions to Bital]] and [[Expedition to Ketapang Doewa (15 February 1874)|Ketapang Doewa]] of mid-February, the [[Battle of Lampoe Oek (16 April 1874)|échec at Lampoe Oek]] of [[16 April]] [[1874]] — and finally van Swieten's [[Van Swieten's afscheidsrede (1874)|afscheidsrede]] of [[23 April]] [[1874]] declaring the war "geëindigd."
+Knoop's importance came from the authority his judgement carried. He did not deny that the Dutch had taken the [[Kraton of Aceh|Kraton]]. What he denied was that this visible success amounted to a full victory while the war in [[Aceh|Atjeh]] was still continuing.
 
-## Borel's Use of Knoop
+This short formula became powerful because it separated battlefield success from political result.
 
-Borel cites Knoop's judgement as authoritative, but he goes one step further: "Knoop had *mislukt* kunnen zeggen." In Borel's reading the second expedition was not merely partially unsuccessful — it failed in its principal object, which was to end the war. By declaring the war ended and departing with the *hoofdmacht*, van Swieten bequeathed to [[Generaal Pel|Pel]] a *zeer gebrekkige stelling*, a passive *afwachtende houding*, and a *bezettingskorps* so weakened by sickness that, in the [[Crisis at Kota Radja (May–June 1874)|crisis of May–June 1874]], 500 *kloeke* Atjehneezen would have sufficed "om den Kraton, en met dezen onze geheele vestiging ter kuste van Atjeh, ten val te brengen." The convergence of Knoop's verdict with those of Booms and de Rochemont — and with Borel's own participant-observation — establishes, in Borel's narrative, the professional military consensus against which van Swieten's partisans had tried to defend his conduct by appealing to Pel's [[Pel's letter to Jan van Swieten|particulier schrijven]].
+## Place in the pamphlet war
 
+When [[General Van Swieten's letter in Het Vaderland]] appeared, many readers treated its publication as a sign that Knoop had effectively yielded. [[Brutus]] wrote precisely to resist that idea. He addressed Knoop directly and used the continuing state of war in [[Aceh|Atjeh]] as proof that the judgement still stood.
 
-## Sources
-*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 19-21; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 10-15.
+Because of this, Knoop became the fixed point around which the pamphlet war turned. Van Swieten wrote to undo his verdict. Brutus wrote to preserve it.
+
+## Significance
+
+**General Knoop** mattered in the printed history of the [[Aceh War]] because one short judgement forced later writers to explain what the second expedition had really achieved. His verdict survived because events themselves seemed to support it: the Dutch held the [[Kraton of Aceh|Kraton]], but they had not yet subdued [[Aceh|Atjeh]].
 
 ## See Also
 
-- [[Second Aceh Expedition (1873–1874)]]
-- [[Generaal Booms]]
-- [[Luitenant-kolonel de Rochemont]]
-- [[Jan van Swieten]]
-- [[Pel's letter to Jan van Swieten]]
-- [[Generaal Pel]]
-- [[Van Swieten's afscheidsrede (1874)]]
-- [[Atjeh-enquête]]
-- [[1873]]
 - [[Open Letter by Brutus to General Knoop]]
-- [[G. G. Booms]]
-- [[J. van Swieten]]
-- [[1875]]
+- [[General Van Swieten's letter in Het Vaderland]]
+- [[Brutus]]
+- [[Jan van Swieten]]
+- [[Second Aceh Expedition (1873-1874)]]
+- [[1874]]
 
 ## Source
 
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. p. 120.
+*Open brief aan den Generaal Knoop over de Atjeh-kwestie (naar aanleiding van den brief van Generaal Van Swieten in Het Vaderland)*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 1–3, 31–33.
+
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel (The Hague: D. A. Thieme, [[1878]]), p. 120.

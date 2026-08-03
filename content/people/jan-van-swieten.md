@@ -85,6 +85,12 @@ Van Swieten departed Atjeh in [[April]] [[1874]]. His departure left the command
 
 The [[Na 1795 (1924)|*Na 1795*]] school-history textbook of F. Roorda fixes Van Swieten's name in the canonical Dutch schoolroom memory of the Atjeh-oorlog. The two clauses on the expeditions' outcome — "*De Kraton (paleis) van den sultan werd ingenomen*" ("The Kraton (palace) of the sultan was taken") and "*Kota Radja werd de zetel van ons gezag*" ("Kota Radja became the seat of our authority") — fix the two consequences of the [[Capture of the Kraton (24 January 1874)|capture of the Kraton]] of [[24 January]] [[1874]]: the strategic objective achieved, and the colonial capital founded. Van Swieten's name, together with [[J. H. R. Köhler|Köhler]] and [[Joannes Benedictus van Heutsz|Van Heutsz]], is one of the three mnemonic pegs of the Dutch schoolroom memory of the Atjeh war.
 
+## The 1874 pamphlet controversy
+
+In [[1874]], Van Swieten entered the public debate on the [[Second Aceh Expedition (1873-1874)|second expedition]] by publishing a letter in [[Het Vaderland]]. In that letter he defended his conduct and argued that the expedition had fulfilled its program by taking the [[Kraton of Aceh|Kraton]] and securing a durable Dutch position. This public defense drew an immediate reply from the pseudonymous [[Brutus]] in [[Open Letter by Brutus to General Knoop]], a pamphlet written in support of [[General Knoop]]'s judgement that the expedition had been only "slechts ten halve gelukt" — only half successful.
+
+The controversy mattered because it showed how quickly Van Swieten's military reputation became tied to public print. Admirers treated him as the commander who had reversed the defeat of [[1873]]. Critics answered that the occupation of the [[Kraton of Aceh|Kraton]] had not brought the submission of [[Aceh|Atjeh]], and that the campaign had moved too slowly after key successes. The dispute over his leadership therefore began while the war was still ongoing.
+
 ## Legacy
 
 Van Swieten's expedition marked the first successful Dutch occupation of Aceh's capital, but it failed to end the war. His decision to leave a garrison without adequate pacification measures laid the groundwork for the prolonged guerrilla warfare that followed — the [[Aceh War|Atjeh-oorlog]] would drag on for another three decades, finally ending only under [[Joannes Benedictus van Heutsz|Van Heutsz]]'s governorship in [[1903]]–[[1904]]. In the colonial school readers — above all the [[De Kleine Oosterling|*De Kleine Oosterling* school reader]] of [[1901]] — Van Swieten is the moral counterpart to [[General Kaler|Kaler]]: the capable commander whose success closes the adversity–triumph arc of the school reader's Aceh War. In Merac's *[[Oost-Indisch Journael]]* he is the figure through whom the colonial state's failure to understand Acehnese religious politics is narrated: the conqueror who tried, and failed, to make the Acehnese population forget the suffering of the war.
@@ -285,5 +291,7 @@ The treaty worked, Langhout writes, "until [[1858]]", when the Dutch [[Siak trac
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 1–465.
+
+*Open brief aan den Generaal Knoop over de Atjeh-kwestie (naar aanleiding van den brief van Generaal Van Swieten in Het Vaderland)*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 1–33.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 16–17.

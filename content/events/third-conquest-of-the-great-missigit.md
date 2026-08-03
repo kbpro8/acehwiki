@@ -1,19 +1,43 @@
 ---
 title: "Third Conquest of the Great Missigit"
-aliases: ["Derde Verovering van de Missigit", "6 January 1874 Attack"]
-tags: [event, military, battle, dutch, acehnese]
+aliases: ["Derde Verovering van de Missigit", "6 January 1874 attack", "Capture of the Great Missigit on 6 January 1874"]
+tags: [event, battle, military, dutch, aceh-war, colonial]
 ---
-**Third Conquest of the Great Missigit** was the final and decisive capture of [[Atjeh's Groote Missigit]] by Dutch forces on [[6 January]] [[1874]] during the Second Aceh Expedition.
 
-## Historical Context
-Following the withdrawal of the [[First Aceh Expedition]] in April [[1873]], the Acehnese had fortified the area surrounding the mosque with extensive earthworks. By late December [[1873]], the Dutch forces had returned, establishing bivouacs near [[Village Penajoeng]] along the [[Atjeh-rivier]] and the plains of [[Pantej Perak]].
+**The Third Conquest of the Great Missigit** was the Dutch capture of the great mosque position on [[6 January]] [[1874]] during the [[Second Aceh Expedition (1873-1874)]]. The fall of the [[Missigit]] broke one of the strongest inner Acehnese defenses between [[Penajoeng]] and the [[Kraton of Aceh|Kraton]], and it opened the way for the later move against [[Taman (Kota Goenoengan)|the Taman]] and the final occupation of the royal center.
 
-## The Final Assault
-On [[6 January]] [[1874]], the Dutch launched a massive, coordinated attack against the heavily entrenched Acehnese positions. Unlike the prior expeditions, this assault was characterized by overwhelming firepower and methodical siege tactics. The Acehnese resistance was fierce, utilizing the earthen envelopes and the remaining stone structures of the mosque to exact a toll on the advancing troops. However, the Dutch military superiority eventually breached the defenses, securing the mosque permanently and opening the direct route to the [[Kraton of Atjeh]].
+## Position in the campaign
+
+After the heavy fighting at [[Battle of Lemboe (25–26 December 1873)|Lemboe]], the Dutch concentrated on the fortified line around the mosque. The area had been strengthened with earthworks and other field defenses after the failure of the first Dutch expedition earlier in [[1873]]. By early [[January]] [[1874]], the Dutch had brought forward batteries and were preparing the ground for a direct assault.
+
+## The attack of 6 January 1874
+
+On [[6 January]] [[1874]], the Dutch launched a coordinated attack on the fortified mosque position. The Acehnese defenders resisted strongly from their works, and the mosque complex once again became one of the hardest-fought points of the campaign. This time, however, the Dutch had greater weight of artillery, better preparation, and a stronger force than in the earlier attacks of [[April]] [[1873]]. The position fell, and the Dutch at last secured the Great Missigit.
+
+## Later criticism of the operation
+
+Later critics did not deny the importance of the success. [[Brutus]] argued instead that the attack might have happened earlier if the ground between [[Gampong Jawa|Kampong Djawa]] and the mosque had been cleared sooner. In his view, the delay gave the defenders more time than they should have had. This criticism became part of the larger argument that the Dutch command moved too slowly after each success.
+
+## Significance
+
+**The Third Conquest of the Great Missigit** mattered because it was the final Dutch capture of one of the key religious and military positions of the Acehnese capital area. It also formed the direct bridge between the outer fighting at [[Lemboe]] and the inner operations that ended in the occupation of the [[Kraton of Aceh|Kraton]].
 
 ## See Also
-- [[Second Conquest of the Great Missigit]]
-- [[Atjeh's Groote Missigit]]
+
+- [[Second Aceh Expedition (1873-1874)]]
+- [[Battle of Lemboe (25–26 December 1873)]]
+- [[Advance from Penajoeng to the Kraton (14 December 1873 – 24 January 1874)]]
+- [[Capture of the Kraton (24 January 1874)]]
+- [[Penajoeng]]
+- [[Missigit]]
+- [[Brutus]]
+- [[6 January]]
+- [[1874]]
 
 ## Source
-*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889, pp. 93-130.
+
+*De verovering van Atjeh's groote Missigit*, door J. F. D. Bruinsma (Sneek, [[1889]]), pp. 93–130.
+
+*Open brief aan den Generaal Knoop over de Atjeh-kwestie (naar aanleiding van den brief van Generaal Van Swieten in Het Vaderland)*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 14–15.
+
+*Onze vestiging in Atjeh, critisch beschreven*, door G. F. W. Borel (The Hague: D. A. Thieme, [[1878]]), pp. 20–34.
