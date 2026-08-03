@@ -46,6 +46,12 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
+      - name: Build @quartz-community/utils
+        run: |
+          cd node_modules/@quartz-community/utils
+          npm install --ignore-scripts
+          npx tsup
+
       - name: Install Quartz plugins
         run: npx quartz plugin install
 
