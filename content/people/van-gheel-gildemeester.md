@@ -1,7 +1,7 @@
 ---
 title: Van Gheel Gildemeester
-aliases: [Luitenant Van Gheel Gildemeester, Van Gheel Gildemeester, Kol. v. Gheel Gildemeester]
-tags: [person, lieutenant, dutch, aceh, aceh-war, 20th-century, simpang-olim]
+aliases: ["Luitenant Van Gheel Gildemeester", "Van Gheel Gildemeester", "Kol. v. Gheel Gildemeester", "F. P. A. van Gheel Gildemeester", "Kapt. Mar. F. P. A. van Gheel Gildemeester"]
+tags: [person, lieutenant, dutch, aceh, aceh-war, 20th-century, simpang-olim, marechaussee, honours]
 description: "Dutch lieutenant who came with 40 men to the rescue of Fortier's detachment after the Simpang Olim klewangaanval of August 1902 at Meunasah Djeuro; later Kolonel; appears in the 1930 40-year jubilee photograph of the Korps Maréchaussée as no. 11."
 ---
 
@@ -19,6 +19,10 @@ At the 40-year jubilee dinner of the [[Korps Marechaussee van Atjeh en Onderhori
 
 Van Gheel Gildemeester's *te hulp komen* with 40 men — the prompt relief of Fortier's remnant — is one of the small episodes of the Simpang Olim affair that the official record keeps. The photographs of the 1930 jubilee show him surviving into the front rank of the korps's seniors, a *Kolonel v. Gheel Gildemeester* of the old Atjeh school.
 
+## Entry in the Maréchaussée register of honours ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records under [[1910]] the award to *Kapt. Mar. F. P. A. van Gheel Gildemeester* of the knight's cross of the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 4th class, together with *Onderluit. Mar.* [[A. H. C. Roelofsen]].
+
 ## See Also
 
 - [[T. Tjhi Toenong]]
@@ -32,7 +36,12 @@ Van Gheel Gildemeester's *te hulp komen* with 40 men — the prompt relief of Fo
 - [[1930]]
 - [[20th-century]]
 - [[Aceh War]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Militaire Willemsorde]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

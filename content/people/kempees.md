@@ -1,7 +1,7 @@
 ---
 title: Kempees
 aliases: [Luit. Kol. Kempees, Kapitein Kempees, Kempees of the Gajoetocht]
-tags: [person, officer, author, dutch, aceh, aceh-war, 20th-century, gajoetocht]
+tags: [person, officer, author, dutch, aceh, aceh-war, 20th-century, gajoetocht, marechaussee]
 description: "Author of the standard work on the Gajoetocht under Van Daalen, in which the photographs of the rows of dead at the veroverde bentengs were published; appears as Luit. Kol. Kempees at the 1930 40-year jubilee dinner of the Korps Maréchaussée."
 ---
 
@@ -23,6 +23,10 @@ At the *Kandoeri Rajeu* — the great *slametan* — at the *Witte* in [[The Hag
 
 Kempees's *bekende werk* is the printed and photographically documented record of the Gajoetocht — the *koloniale staatsdaad* that broke the Gajoes' resistance in [[1904]]. Without the published photographs of the rows of dead at Koeto Lintang, the public record of the tocht would be thinner. The book is one of the three pillars — with Zentgraff and Hoedt — on which the modern history of the tocht rests.
 
+## Cited in the Maréchaussée Jubileum-nummer ([[1930]])
+
+The editorial of the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* named Kempees among the authorities on the history of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]*: "Vele bladzijden der werken van dr. [[C. Snouck Hurgronje]], [[G. B. Hooyer]], [[A. Kruisheer]], J. C. J. Kempees e.a. schrijvers over Atjeh zijn gevuld met de geschiedenis van wapenfeiten, volbracht door het Korps Maréchaussée" — many pages of the works of Dr. C. Snouck Hurgronje, G. B. Hooyer, A. Kruisheer, J. C. J. Kempees and other writers on Atjeh are filled with the history of feats of arms performed by the Corps Maréchaussée.
+
 ## See Also
 
 - [[G.C.E. van Daalen|Van Daalen]]
@@ -42,7 +46,11 @@ Kempees's *bekende werk* is the printed and photographically documented record o
 - [[1930]]
 - [[20th-century]]
 - [[Aceh War]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

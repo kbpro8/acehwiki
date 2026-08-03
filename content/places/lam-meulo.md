@@ -30,6 +30,12 @@ Lam Meuló was the gateway to the secondary defense centre of Tangsé-Geumpang. 
 
 [[H. N. A. Swart]] put Lam Meulò under Boreel, "one of the bravest officers of the corps"; in [[1910]] Boreel at Lam Meulò and [[H. J. Schmidt]] at [[Tangsé]] were the pace-setters in Pidië. In [[1911]] Van Gheel Gildemeester's 4th Division killed the notorious [[Tgk. Moehamat Haroen]] of Lam Meulò with his principal subordinates and six followers. In January [[1913]] *marechaussée* from Lam Meulò found the hiding-place of [[Tgk. Ma' Aréh di Lam Goet]], and "Central Pidië had been cleared". In May [[1914]] an Acehnese attacked the sentry at Lam Meulò out of *[[maloe]]*. In [[1936]] Lam Meulò was one of the last four sub-divisions still governed by officers.
 
+## Maréchaussée station ([[1910]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records the stations assigned to the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* in [[1910]]: 1st Division at [[Blang Kedjeren]]; 2nd Division at [[Malaboeh|Meulaboh]]; 3rd Division at [[Takengeun|Takèngan]]; 4th Division at [[Lam Meulo]]; and 5th Division at [[Lho Soekon]], "zooals zij ook thans nog gelegerd is" — where it was still quartered at the time of the [[1930]] jubilee. Lam Meulo was the station of the 4th Division.
+
+Earlier, in [[1898]], the corps had been localised with its Staff at [[Koeta Radja]] and its divisions at [[Selimoen]], [[Indrapoeri]], [[Tjot Mantjang]] and [[Glé Broet]], [[Tjot Goet]], and [[Lam Baroe]] and [[Lok Nga|Lho'-Nga]].
+
 ## See Also
 
 - [[16 March]]
@@ -48,6 +54,9 @@ Lam Meuló was the gateway to the secondary defense centre of Tangsé-Geumpang. 
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Divisie (Maréchaussée)]]
 
 ## Source
 
@@ -56,3 +65,5 @@ Lam Meuló was the gateway to the secondary defense centre of Tangsé-Geumpang. 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XII, XV, XVII.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

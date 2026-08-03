@@ -99,6 +99,14 @@ Hooijer named the officers recognisable behind the bench at [[Biloel]], sheltere
 
 The post itself had been raised around the old *[[Messigit|Messigit]]*, whose burnt roof had been renewed and within whose white wall the officers' quarters were established; two field-pieces and a *[[Mitrailleur|mitrailleur]]* stood in battery in the two bastions, and an observation post for the artillery officer was set in the tree behind the buildings, from which he could follow the effect of his shots on the small enemy fortifications laid out in the mountains.
 
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+Colijn appears twice in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]*.
+
+He is named by Colonel [[C. A. Snell|L. A. Snell]] among "de groote pioniers, die van het Korps gemaakt hebben wat het geworden is" — the great pioneers who made of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* what it became — with [[Jhr. Graafland|Graafland]], [[Gotfried Coenraad Ernst van Daalen|Van Daalen]], [[H. N. A. Swart|Swart]], [[Van der Maaten]] and, above all, [[Joannes Benedictus van Heutsz|Van Heutsz]].
+
+He appears again in the portrait notice of [[W. V. Rhemrev]]: after Rhemrev had been mortally dangerously wounded in [[Dempen van den opstand in de Gajo- en Alaslanden (1905)|quelling the 1905 revolt]] in the [[Gajolanden|Gajo]] and [[Alaslanden|Alas]] lands and had been declared unfit for active service, he nevertheless continued to serve "op verzoek van Gouverneur-Generaal J. B. van Heutsz en Colijn" — at the request of Governor-General Van Heutsz and of Colijn.
+
 ## See Also
 
 - [[G. F. B. Watrin|Watrin]]
@@ -181,6 +189,10 @@ The post itself had been raised around the old *[[Messigit|Messigit]]*, whose bu
 - [[Kapitein Schadée]]
 - [[Messigit]]
 - [[Geconcentreerde linie]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[C. A. Snell]]
+- [[W. V. Rhemrev]]
 
 ## Sources
 
@@ -203,3 +215,5 @@ The post itself had been raised around the old *[[Messigit|Messigit]]*, whose bu
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 12.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

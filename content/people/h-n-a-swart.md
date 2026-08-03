@@ -437,6 +437,12 @@ Convinced that the European government no longer had to act merely punitively, S
 
 Nineteen years Swart had lived and worked among the Atjehnese; ten years in succession he governed land and people. Receiving author Langhout as old Vice-President of the Council of the Indies, he rejected press talk of an ineradicable hereditary hatred of the Dutch among the kampong women — "Wie dat zegt, kent het volk niet!" ("Whoever says that, does not know the people!") — and told of [[Teukoe Tjhi Peusangan]], of [[Panglima Polem]] and his sister, of Polem's brother-in-law [[Toeankoe Radja Keumala]], of [[Potjoet Meurah|Pòtjoet Meurah]] and her husband [[Toeankoe Machmoed]], and of so many other descendants of sultans and Atjehnese chiefs who entrusted to the *kaphé* (infidel) their "dearest and most secret thoughts". In his foreword of [[31 March]] [[1923]] at The Hague, signed "H. N. A. Swart, Oud Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden", he held that after the long and tenacious struggle a state of rest and order had prevailed for about ten years, which only needed time fully to consolidate. Stepping ashore at [[Sabang]] again at the end of January [[1922]] on his way to Europe, he was told by the Atjehnese chiefs who came to compliment him that the economic development of Atjeh was still progressing.
 
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* carried a photograph captioned "Voor Zijne Excellentie H. N. A. Swart, gewezen Gouverneur van Atjeh en Vice-President van den Raad van Indië" — for His Excellency H. N. A. Swart, former Governor of Atjeh and Vice-President of the Council of the Indies.
+
+Colonel [[C. A. Snell|L. A. Snell]], interviewed in the same issue, named Swart among "de groote pioniers, die van het Korps gemaakt hebben wat het geworden is" — the great pioneers who made of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* what it became — with [[Jhr. Graafland|Graafland]], [[Gotfried Coenraad Ernst van Daalen|Van Daalen]], [[Hendrikus Colijn|Colijn]], [[Van der Maaten]] and, above all, [[Joannes Benedictus van Heutsz|Van Heutsz]].
+
 ## See Also
 
 - [[Gouvernement Atjeh en Onderhoorigheden]]
@@ -547,6 +553,9 @@ Nineteen years Swart had lived and worked among the Atjehnese; ten years in succ
 - [[Government of Atjeh en Onderhoorigheden]]
 - [[Atjeh Museum]]
 - [[Vijftig jaren economische staatkunde in Atjeh]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[C. A. Snell]]
 
 ## Source
 
@@ -569,3 +578,5 @@ Nineteen years Swart had lived and worked among the Atjehnese; ten years in succ
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Foreword; Chapters I–IV, VIII–XVII; Appendixn: Letter of the Acehnese chiefs, Extract from the service record of H. N. A. Swart, pp. 1–177.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), Voorwoord, pp. 94–113, 121–122.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

@@ -1,7 +1,7 @@
 ---
 title: "Pidië Expedition"
 aliases: ["Pidië-expeditie (1897–1898)", "Van Heutsz's Pidië campaign", "Van Heutsz's Pidië campaign (1898)", "Pidië campaign 1898", "onderwerping van Pidië", "Garot 1898", "Tangsé 1898", "conquest of Pidië"]
-tags: [event, war, military, colonial, dutch, aceh, knil, 19th-century, campaign, aceh-war, 1898, pidie]
+tags: [event, war, military, colonial, dutch, aceh, knil, 19th-century, campaign, aceh-war, 1898, pidie, marechaussee, jubilee]
 ---
 
 **The Pidië Expedition** of [[1897]]–[[1898]] was one of the great successes of the glorious period of [[Joannes Benedictus van Heutsz|Van Heutsz]] in the [[Atjeh-oorlog|Aceh War]] — a military expedition under Van Heutsz that ended the existence of the two Pidiësche federations, **Pidië-Ndjöng** and **Keumangan**, which had divided the Pidiësche landschappen. It is the first-named of the expeditions and excursions that [[Musket]] lists in *[[Oost-Indisch Journael]]* by Merac ([[1947]]), and represents the offensive phase of Dutch consolidation over [[Aceh|Atjèh]] during the [[Atjeh-oorlog|Atjèh-oorlog]].
@@ -57,6 +57,14 @@ It cost van Heutsz his shoes: he returned barefoot to [[Sigli]] on [[28 August]]
 
 The Pidië campaign was the demonstration in the field of the doctrine van Heutsz had argued in *[[The Subjection of Atjeh (1892)|De onderwerping van Atjeh]]* and Snouck Hurgronje in his report: that a freedom-loving, warlike people submits only under compulsion, and that only he who shows he has the power to make his will respected will bring Atjeh to submission. It established the operational method — self-contained, fast-moving, independent columns living off the country — that the *[[Corps of Military Constabulary of Atjeh and Dependencies|marechaussée]]* would use throughout the pacification years under [[H. N. A. Swart]].
 
+## Account from the Maréchaussée Jubileum-nummer ([[1930]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* treats the Pidië expedition as the first fruit of the period of "strenge actie" that followed the abandonment of the *[[Concentratiestelsel|concentratie]]* system. It records that "de Pidië-expeditie onder opperbevel van den kolonel der Infanterie [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] in [[1898]] zou daarvan de inzet zijn; het daarbij behaalde succes was wederom voor een belangrijk deel te danken aan de Maréchaussée" — the Pidië expedition under the supreme command of the colonel of infantry J. B. van Heutsz in 1898 was to be the opening of it; the success achieved there was again in important part due to the Maréchaussée.
+
+The editors set this in a wider judgement: "Het heeft lang geduurd, voordat algemeen ingezien en erkend werd, dat de krijgshaftige Atjeher zich slechts door geweld van wapenen zou onderwerpen, en lankmoedigheid plaats moest maken voor een straf regime" — it took long before it was generally seen and acknowledged that the warlike Atjehnese would submit only to force of arms, and that forbearance had to give way to a severe regime.
+
+The corps "had zich ook doen gelden bij de onderwerping van [[Peusangan]] en [[Pasei|Pasé]] in [[1899]]," an expedition likewise under the supreme command of Van Heutsz, by then promoted major-general. The jubilee number treated the whole period [[1898]]–[[1906]] as marked by "bijzonder-opvallende krijgsdaden.
+
 ## See Also
 
 - [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
@@ -88,6 +96,9 @@ The Pidië campaign was the demonstration in the field of the doctrine van Heuts
 - [[Garot]]
 - [[Gotfried Coenraad Ernst van Daalen]]
 - [[J. C. Lamster]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Peusangan]]
 
 ## Source
 
@@ -96,3 +107,5 @@ The Pidië campaign was the demonstration in the field of the doctrine van Heuts
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, pp. 18–19.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

@@ -1,7 +1,7 @@
 ---
 title: Heynen
-aliases: [Sergeant Heynen, Brigadecommandant Heynen, Politieopziener Heynen, Heynen of the 5th brigade]
-tags: [person, brigadecommandant, dutch, aceh, aceh-war, 19th-century, 20th-century, marechaussee, peutjoet]
+aliases: ["Sergeant Heynen", "Brigadecommandant Heynen", "Politieopziener Heynen", "Heynen of the 5th brigade", "J. C. Heijnen", "Eur. Sergt. Mar. J. C. Heijnen"]
+tags: [person, brigadecommandant, dutch, aceh, aceh-war, 19th-century, 20th-century, marechaussee, peutjoet, honours, jubilee]
 description: "One of the best Dutch brigadecommandanten of the Korps Maréchaussée, holder of the Willemsorde 3e klasse; held the wacht at Van Heutsz's overgave of the Landvoogdij at the Paleis op Rijswijk; lost a shoe at the Benit kloof on the march to Tangsé; led the 5th brigade at Koeta Blang Djeurat 31 December 1901; in 1936 opzichter of the Peutjoet cemetery."
 ---
 
@@ -27,6 +27,18 @@ By [[1936]] Heynen — *„deze was in 1936 opzichter van het kerkhof Peutjoet"*
 
 Heynen is the type of the *brigadecommandant* who was at once the *baas* of his eighteen-man *trimoerti* in the bosch and the *onderofficier* whom a *generaal* — by then Gouverneur-Generaal — could greet from the window of the Rijswijk palace as an old comrade. His last service, fittingly, was the care of the graves at [[Peutjoet]] — *waar witte grafsteenen blikkeren in de schaduw der boomen*.
 
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* carried both a register entry and a portrait notice of Heijnen, spelling the name *Heijnen*.
+
+Born on [[16 October]] [[1869]], he received as *brigade-commandant* of Maréchaussée the knight's cross of the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 4th class on [[18 February]] [[1902]], and the 3rd class on [[31 July]] of the same year. He was, the notice states, "de derde onderofficier, wien deze hooge onderscheiding werd toegekend en no. 5 van het geheele Korps" — the third non-commissioned officer to receive that high distinction, and the fifth member of the whole corps. The register lists the 3rd-class award under [[1902]] jointly with that to his division commander *Kapt. Mar.* [[Van der Maaten|K. van der Maaten]], with the number *Alg. Stb. No. 31519*.
+
+The issue reproduced a photograph of Van der Maaten which "werd door zijn oud-divisiecommandant aan sergeant Heijnen opgedragen" — was dedicated by his former division commander to Sergeant Heijnen.
+
+Heijnen afterwards transferred into the police service and was pensioned as *adjunct-hoofdcommissaris*, after the knight's cross of the *[[Oranje-Nassau (Orde van Oranje-Nassau)|Orde van Oranje-Nassau]]* had been conferred upon him.
+
+Colonel [[C. A. Snell|L. A. Snell]] named him among "de eenvoudigen van ziel" who ought to be rescued from oblivion — "de dappersten onder de dapperen."
+
 ## See Also
 
 - [[Joannes Benedictus van Heutsz|Van Heutsz]]
@@ -45,7 +57,15 @@ Heynen is the type of the *brigadecommandant* who was at once the *baas* of his 
 - [[20th-century]]
 - [[19th-century]]
 - [[Aceh War]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Van der Maaten]]
+- [[C. A. Snell]]
+- [[Militaire Willemsorde]]
+- [[18 February]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

@@ -1,7 +1,7 @@
 ---
 title: "Bakongan"
 aliases: ["Bakongan", "Bakongan post", "Bakongan (Aceh Westkust)"]
-tags: [place, military-post, aceh, westkust]
+tags: [place, military-post, aceh, westkust, marechaussee]
 ---
 **Bakongan** was a military post of the [[Korps Marechaussee van Atjeh en Onderhorigen]] on the [[Westkust (of Atjeh)|Westkust]] of [[Atjeh|Aceh]] at which the author served in the dertiger jaren alongside the sergeant [[Thijs de Fretes]] and the *Marechaussee 1e klas* [[Tanamal]] of the [[6e Divisie Marechaussee]], and at which he first met [[Dominee Thenu]] on the beach at the end of [[1932]]. It is one of the principal settings of the chapters "Thijs" and "Dominee Thenu" in *[[Oom Ambon van het K.N.I.L.]]*, and the post from which the *colonne* of [[Schmidt]] operated against the *[[Teungkoe Sjech Saman di Tiri|Tiriō Teungkoes]]* in the early [[1910s]].
 
@@ -59,6 +59,12 @@ Of the administration's practical support he recorded: "in Bakongan heeft het be
 
 Bakongan lay in the thinly peopled coastal strip five hundred kilometres long and scarcely five kilometres broad along which the motorable road ran, flanked on both sides by the mass graves of the Atjeh wars and the rising of [[1926]] — the district described at [[Tijssen's journey to the West Coast of Atjeh and Simaloer (1933)]], and the one in which, Tijssen noted, no officer went into a *[[Kampong|kampong]]* without a soldier behind him with a loaded carbine, and yet where he himself lived unarmed among the people for weeks without anyone harming a hair of his head.
 
+## The new Maréchaussée division at Bakongan ([[1927]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records that towards the end of [[1927]], the government having recognised that the safety of Atjeh did not permit economies on the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* after the [[Westkust Resistance (1925-1927)|Westkust action]], the corps was raised again to 23 officers and 1,214 men, "er werd een nieuwe divisie opgericht met Bakongan als standplaats" — a new division was formed with Bakongan as its station.
+
+The corps had been reduced in [[1925]] to 18 officers and 1,072 men, a reduction in which, the editors remarked, the policy of *versobering* (austerity) must have had "een hartig woord" to say.
+
 ## See Also
 
 - [[Thijs de Fretes]]
@@ -72,6 +78,11 @@ Bakongan lay in the thinly peopled coastal strip five hundred kilometres long an
 - [[Westkust (of Atjeh)]]
 - [[1932]]
 - [[1933]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Westkust Resistance (1925-1927)]]
+- [[Divisie (Maréchaussée)]]
+- [[1927]]
 
 ## Sources
 
@@ -80,3 +91,5 @@ Bakongan lay in the thinly peopled coastal strip five hundred kilometres long an
 *Een strijd in Atjeh (Een oogarts op het oorlogspad)*, door Mr. C. Graadt van Roggen, met een voorrede van den heer H. Wanting, redacteur *Nieuwe Rotterdamsche Courant* (Rotterdam: N.V. Drukkerij Korteweg, uitgave van de Vereeniging „SIMAVI”, [[1934]]), pp. 10–11.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

@@ -1,7 +1,7 @@
 ---
 title: Stoop
-aliases: [Stoop, Gouvernements mijnningenieur Stoop, Stoop of Dordtsche Petroleum]
-tags: [person, dutch, mining, petroleum]
+aliases: ["Stoop", "Gouvernements mijnningenieur Stoop", "Stoop of Dordtsche Petroleum", "W. K. J. Stoop", "1ste Luit. Mar. W. K. J. Stoop"]
+tags: [person, dutch, mining, petroleum, marechaussee, honours]
 ---
 
 **Stoop** — published in the volume as *gouvernements mijnningenieur Stoop* (governments' mining engineer Stoop) — was the Dutch colonial mining engineer who, after resigning from the colonial government's mining service, carried out the borings on Java that founded the [[Dordtsche Petroleum Maatschappij]] — the first indigenous Indonesian petroleum company. He is named in Ir. [[F. P. C. S. van der Ploeg|Van der Ploeg]]'s chapter *Mijnbouw* in *[[Wat Indië Ontving en Schonk]]* ([[1946]]).
@@ -34,6 +34,10 @@ For the [[Acheh|Atjeh]]-focused reader, Stoop's significance is comparative: he 
 - *gouvernements* — government's
 - *Dr.* — Doctor
 - *Ir.* — Engineer (Dutch Ingenieur)
+## Entry in the Maréchaussée register of honours ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records under [[1903]] the award to *1ste Luits. Mar. W. K. J. Stoop* of the knight's cross of the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 4th class, together with [[Officier Dijkstra|G. K. Dijkstra]] and [[C. F. A. Wagener]].
+
 ## See Also
 
 - [[Dordtsche Petroleum Maatschappij]]
@@ -46,7 +50,12 @@ For the [[Acheh|Atjeh]]-focused reader, Stoop's significance is comparative: he 
 - [[Wat Indië Ontving en Schonk]]
 - [[1889]]
 - [[1911]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Militaire Willemsorde]]
 
 ## Source
 
 *Wat Indië Ontving en Schonk*, onder leiding van Dr. C. W. Wormser (Amsterdam: Wereldbibliotheek N.V., 1946), p. 252 (chapter *Mijnbouw* door Ir. F. P. C. S. van der Ploeg).
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

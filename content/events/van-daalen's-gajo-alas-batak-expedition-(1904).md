@@ -1,7 +1,7 @@
 ---
 title: Van Daalen's Gajo-Alas-Batak expedition (1904)
-aliases: ["Van Daalen's Gajo-Alas-Batak expedition (1904)", "the Gajoe-Alas-Batak expedition of 1904", "Van Daalen expedition (1904)", "the 1904 expedition to the Gajoe-, Alas- and Bataklanden", "Tocht naar de Gajo- en Alaslanden", "Van Daalen's Gajo expedition", "Expedition to the Gajo lands 1904"]
-tags: ["event", "war", "colonial", "dutch", "acheh", "military", "pacification", "military-expedition", "gajo", "alas", "1904"]
+aliases: ["Van Daalen's Gajo-Alas-Batak expedition (1904)", "the Gajoe-Alas-Batak expedition of 1904", "Van Daalen expedition (1904)", "the 1904 expedition to the Gajoe-, Alas- and Bataklanden", "Tocht naar de Gajo- en Alaslanden", "Van Daalen's Gajo expedition", "Expedition to the Gajo lands 1904", "Tocht naar de Gajo-Loeös", "tocht naar de Gajo-Loeös (1904)"]
+tags: [event, war, colonial, dutch, acheh, military, pacification, military-expedition, gajo, alas, 1904, marechaussee, jubilee]
 ---
 
 **Van Daalen's Gajo-Alas-Batak expedition (1904)** was the military campaign led by lieutenant-colonel [[G. C. E. van Daalen|Van Daalen]] — later governor and military commander of [[Acheh|Atjeh]] — through the [[Gajoland|Gajoe-]], [[Alasland|Alas-]] and [[Bataklanden|Bataklanden]] of interior Atjeh in [[1904]], in the course of which, according to the official figures, 2,922 inlanders — among them 1,149 women and children — were killed "in weinige dagen" — in a few days. The expedition is the bloodiest single episode of the post-[[Toekoe Oemar's defection ([[1896]])|Oemar]] phase of the [[Atjeh-oorlog ([[1873]]-[[1904]])|Atjeh-oorlog]] and the political-military climax of the war's concluding phase.
@@ -48,6 +48,26 @@ In practice the expedition became a campaign of annihilation. According to the o
 
 The expedition opened the central highlands to Dutch authority: the Gajo and Alas lands, already sketched into the first general map of Atjeh ([[1901]]) from data collected by Dr. C. [[C. Snouck Hurgronje|Snouck Hurgronje]], received their administration from Van Daalen himself until, in May [[1904]] — one of Van Heutsz's last pacification measures — the department of the Dependencies of Atjeh passed from military hands to a civilian assistant-resident. When in [[1908]] the last piece of the province, the department of the Gajo- and Alaslanden, was definitively created, it was Governor Van Daalen who tried to realize the political unity of the whole province also in the economic sense: the [[Roads and bridges in Atjeh|Gajo road]] from [[Bireuen]] to the [[Laoet Tawar]], with the iron bridge at [[Teupen Blang Manè]] ([[1906]]), the introduction of the potato in the Gajo lands, and the traffic and credit measures of his administration (see [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]).
 
+## Account from the Maréchaussée Jubileum-nummer ([[1930]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* calls the expedition "den roemruchtigen tocht naar de Gajoe-Loeös onder bevel van luitenant-kolonel [[Gotfried Coenraad Ernst van Daalen|G. C. E. van Daalen]]" — the far-famed march to the Gajo-Loeös — and counts it among "de schitterendste wapenfeiten" of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]*.
+
+### Duration and composition
+
+The expedition lasted from February to July [[1904]]. It "bestond aanvankelijk uit 10 brigades Maréchaussées, om allengs te worden uitgebreid tot 14 brigades" — consisted initially of ten *[[Brigade (Maréchaussée)|brigades]]* of Maréchaussée, to be gradually enlarged to fourteen brigades.
+
+### Civil authority in the hands of the division commanders
+
+"Aan de divisiecommandanten werd tevens het civiel bestuur opgedragen" — to the division commanders the civil administration was at the same time entrusted. This applied the general rule laid down when the corps was enlarged in [[1899]], that commanders of divisions and *afdeelingen* were, where circumstances required, charged with the administration as *civiel-gezaghebber*.
+
+### Awards and aftermath
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|register of honours]]* in the same issue lists a separate group of awards under the heading **Gajo- en Alaslanden**: the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 3rd class to *Kapt. Mar.* [[Overste Scheepens|W. B. J. A. Scheepens]] and the 4th class to *1ste Luit. Mar.* [[P. A. H. Holten]].
+
+The expedition was followed by a rising, [[Dempen van den opstand in de Gajo- en Alaslanden (1905)|quelled in 1905]] by the young officer [[W. V. Rhemrev]], who was mortally dangerously wounded in the action and declared unfit for active service, but continued to serve at the request of Governor-General [[Joannes Benedictus van Heutsz|Van Heutsz]] and of [[Hendrikus Colijn|Colijn]].
+
+The jubilee number treated the whole period [[1898]]–[[1906]] as marked by "bijzonder-opvallende krijgsdaden," reflected in the royal distinctions conferred during those years.
+
 ## See Also
 
 - [[G. C. E. van Daalen]]
@@ -76,9 +96,17 @@ The expedition opened the central highlands to Dutch authority: the Gajo and Ala
 - [[Gayo- en Alaslanden|Gajo- en Alaslanden]]
 - [[Joannes Benedictus van Heutsz|Johannes van Heutsz]]
 - [[Roads and bridges in Atjeh]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Dempen van den opstand in de Gajo- en Alaslanden (1905)]]
+- [[W. V. Rhemrev]]
+- [[Brigade (Maréchaussée)]]
+- [[P. A. H. Holten]]
 
 ## Source
 
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 271-272.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 80–81, 86, 88–90, footnote p. 81.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

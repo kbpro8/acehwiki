@@ -1,7 +1,7 @@
 ---
 title: Westkust resistance (1925-1927)
 aliases: ["Westkust-verzet 1925-1927", "Westkust opstand 1925", "Zuid-Aceh verzet 1925-1927", "verzet te Westkust 1925", "Tjoet Ali opstand", "1925-1927 resistance"]
-tags: [event, resistance, campaign, aceh, aceh-war, 1925, 1926, 1927, westkust, tjoet-ali, tengkoe-poetih]
+tags: [event, resistance, campaign, aceh, aceh-war, 1925, 1926, 1927, westkust, tjoet-ali, tengkoe-poetih, marechaussee, jubilee]
 description: "The Westkust resistance of 1925-1927 that began in the southern Westkust settlements; symptoms already in 1924; holy books read at night; old leaders T. Bin Blang Pidië, Tengkoe Poetih (grandson of Habib Seunagan), Imeum Sabi; Tjoet Ali as central figure; patrouille-Grünefeld March 1926 disaster; patrouille-Wiarda 1926; patrouille-Paris disaster at Sapé; Kromodikoro's heroism; patrouille-Klaar earned the Kroontje; patrouille-Batten fought off attack; patrouille-Schreuder July 1926; luit. Molenaar killed at Teureubangan schoolyard by Teukoe Nago; luit. Van Heerde wounded Tjoet Ali at Kroeëng Bateë; Snell's 8-brigade omsingeling; Tengkoe Mauloed killed."
 ---
 
@@ -41,6 +41,26 @@ The end came with [[Gosenson|kapitein Gosenson]], *in Juli 1926 te Bakongan inge
 
 The Westkust resistance of [[1925]]–[[1927]] was the last *massale* rising of the Atjeh-oorlog. With the death of Tjoet Ali, *was de kern van het verzet uitgeroeid*; the Westkust would know smaller *opflakkeringen* — the Lhong risings of [[1933]] and [[1935]] — but no comparable rising until the Japanese invasion. The resistance produced, Zentgraff writes, *een nieuwe kern van haat* — a new kernel of hatred — and the long aftermath of the *Atjeh-oorlog* would, on the Westkust, continue to flow from it.
 
+## Account from the Maréchaussée Jubileum-nummer ([[1930]]) — the Maréchaussée in the Westkust action
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* treats the Westkust action as the occasion on which the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* "toonde haar onmisbaarheid opnieuw aan" — demonstrated its indispensability anew — after the reduction of the corps in [[1925]] to 18 officers and 1,072 men, a reduction in which the policy of *versobering* (austerity) had, the editors remarked, "een hartig woord" to say.
+
+### The engagement in which Captain Paris fell
+
+In the course of the action Captain [[J. Paris]] was killed, and on the same occasion the *brigade-commandant* also fell. The wounded Javanese *maréchaussée* [[Kromo-di-Koro]] thereupon took over the command, holding it until loss of blood threatened to make him collapse; before handing over to the Menadonese *maréchaussée*-soldier [[Suwoek]] he ordered shots fired into the surrounding *alang-alang* to drive out any Atjehnese concealed there. As a result the *maréchaussée* [[Sumangkut]], himself severely wounded and unable to pursue, saw an opponent flee with a *[[Klewang|klewang]]* and warned Suwoek, who stayed on his heels and brought him down fifty metres further on. The *maréchaussée*-soldier [[Leleng]], having lost the use of his left hand through a wound, took part in the firing by placing his *karabijn* between his knees and discharging it with his right hand.
+
+Of the brigade only two men remained unhurt: besides Captain Paris five other soldiers were killed and twelve more or less severely wounded; notwithstanding those losses some twenty *kwaadwilligen* were laid low and twenty-six *klewangs* captured. The full narrative is given at [[Gevecht waarin kapitein Paris sneuvelde (Westkust van Atjeh, 1925-1927)]].
+
+The episode was cited by the editors as proof that "de oude geest van het Korps Maréchaussée was bij zijn manschappen blijven voortleven" — the old spirit of the corps had continued to live on among its men.
+
+### Snell sent from Java
+
+When in [[1925]] "het op de Westkust van Atjeh opnieuw begon te spoken" and it was decided to send experienced *rimboe*-officers from [[Java]], attention fell at once on Captain [[C. A. Snell|L. A. Snell]], "een old hand" who in sixteen years had more than earned his spurs. Greeted with joy by his old comrades, he "maakte met zijn steeds van een glimlach vergezeld gaande bevelen een eind aan het verzet" — made an end of the resistance with orders always accompanied by a smile.
+
+### Aftermath
+
+Towards the end of [[1927]], the government having recognised that the safety of Atjeh permitted no economies on the Maréchaussée, the corps was again raised to 23 officers and 1,214 men, and a new division was formed with [[Bakongan]] as its station.
+
 ## See Also
 
 - [[Tjoet Ali]]
@@ -74,7 +94,16 @@ The Westkust resistance of [[1925]]–[[1927]] was the last *massale* rising of 
 - [[1925]]
 - [[1926]]
 - [[1927]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Gevecht waarin kapitein Paris sneuvelde (Westkust van Atjeh, 1925-1927)]]
+- [[J. Paris]]
+- [[Kromo-di-Koro]]
+- [[Suwoek]]
+- [[C. A. Snell]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

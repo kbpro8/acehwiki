@@ -1,8 +1,8 @@
 ---
 
 title: Van der Maaten
-aliases: [Van der Maaten, K. van der Maaten, Marechaussee Commander Van der Maaten, Luitenant Van der Maaten]
-tags: [person, officer, dutch, knil, marechaussee, aceh, defense, pamphleteer]
+aliases: ["Van der Maaten", "K. van der Maaten", "Marechaussee Commander Van der Maaten", "Luitenant Van der Maaten", "Kapt. Mar. K. van der Maaten"]
+tags: [person, officer, dutch, knil, marechaussee, aceh, defense, pamphleteer, honours, jubilee]
 ---
 
 **Van der Maaten** — **K. van der Maaten** — was a [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee commander]] in [[Atjeh|Aceh]] who served under [[Joannes Benedictus van Heutsz|J. B. van Heutsz]] during the [[Atjeh-oorlog|Aceh War]] and, almost two decades later, became one of the most outspoken critics of his former chief's post-governorship campaign to remake the defence of [[Netherlands India|Netherlands Indies]], publishing in [[1917]] the pamphlet *Z. E. De Oud Gouverneur-Generaal J. B. van Heutsz en de Defensie van Nederlandsch-Indië*. As a young officer he was one of the famed patrol commanders whose names, in the memory of *[[Oost-Indisch Journael]]* by Merac ([[1947]]), "rang through the Indies like carillon music"; as a retired veteran he was the man who broke publicly with Van Heutsz to expose what he regarded as the political and personal manoeuvring behind the Van Heutsz–Van der Weyden defence programme.
@@ -53,6 +53,17 @@ Van der Maaten was careful to acknowledge Van Heutsz's great merits in other dom
 
 Van der Maaten is significant in *[[Oost-Indisch Journael]]* as one of the Marechaussee commanders whose "name rang through the Indies like carillon music" — one of the book's *fellows of the old time*. He is significant in the [[Defense of Netherlands Indies debate (1917)|1917 defence debate]] as the most authoritative internal critic of the Van Heutsz–Van der Weyden programme, whose personal rupture with his former chief gave his pamphlet a documentary force that pure strategic argument could not have matched. The combination of these two roles — the patrol commander of the [[Atjeh-oorlog|Aceh War]] and the pamphleteer of [[1917]] — makes Van der Maaten one of the most revealing figures of the long afterlife of the Aceh campaign, in which the methods and reputations forged in the colonial small-war theatre were redeployed in the metropolitan debate over the survival of the empire they had helped to build.
 
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records two awards to Van der Maaten:
+
+- [[1902]] — the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 3rd class, as *Kapt. Mar.*, jointly with his brigade commander *Eur. Sergt. Mar.* [[Heynen|J. C. Heijnen]], Alg. Stb. No. 31519
+- [[1905]] — the Militaire Willems-Orde 4th class, as *Kapt. Mar.*, together with [[M. W. E. van Bloemen Waanders]] and *1ste Luit. Mar.* [[J. C. Lamster]]
+
+The issue reproduced a photograph of Van der Maaten with the caption recording that it "werd door zijn oud-divisiecommandant aan sergeant Heijnen opgedragen" — was dedicated by his former division commander to Sergeant Heijnen, who had been promoted to the 3rd class at the same time as he.
+
+Colonel [[C. A. Snell|L. A. Snell]] named Van der Maaten among "de groote pioniers, die van het Korps gemaakt hebben wat het geworden is," with [[Jhr. Graafland|Graafland]], [[Gotfried Coenraad Ernst van Daalen|Van Daalen]], [[Hendrikus Colijn|Colijn]], [[H. N. A. Swart|Swart]] and, above all, [[Joannes Benedictus van Heutsz|Van Heutsz]].
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -84,6 +95,11 @@ Van der Maaten is significant in *[[Oost-Indisch Journael]]* as one of the Marec
 - [[C. Snouck Hurgronje]]
 - [[Rapport over de Atjeh-enquête]]
 - [[Atjeh-enquête]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[C. A. Snell]]
+- [[Heynen]]
+- [[Militaire Willemsorde]]
 
 ## Source
 
@@ -178,3 +194,5 @@ Van der Maaten is significant in *[[Oost-Indisch Journael]]* as one of the Marec
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder.
 
 K. van der Maaten, *Z. E. De Oud Gouverneur-Generaal J. B. van Heutsz en de Defensie van Nederlandsch-Indië* ('s-Gravenhage: Martinus Nijhoff, 1917).
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

@@ -1,8 +1,8 @@
 ---
 
 title: Nussy
-aliases: [Korporaal Nussy, Sergeant Nussy, Baas Nussy, Marechaussee Sergeant Nussy]
-tags: [person, marechaussee, ambonese, knil, aceh]
+aliases: ["Korporaal Nussy", "Sergeant Nussy", "Baas Nussy", "Marechaussee Sergeant Nussy", "Amb. Mar. Th. Nussy", "Th. Nussy"]
+tags: [person, marechaussee, ambonese, knil, aceh, honours, jubilee]
 ---
 
 **Nussy** was an Ambonese [[Korps Marechaussee van Atjeh en Onderhorigen|Marechaussee]] of the [[K.N.I.L.]] who served as a *dardanel* under the vermaarde patrouillecommandanten [[Vastenou]] and [[Dersjant]] before becoming the best-known spoorzoeker and overval specialist of the [[colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)|colonne Schmidt]] in [[1910]]–[[1911]], for which he was awarded the [[Militaire Willemsorde|M.W.O.]] 3e klas. After his retirement as sergeant he was taken to the Netherlands by a *controleur* and afterwards served as *mantri-politie* on [[Ambon]] under the civil bestuur of his former commander, the Assistent-Resident [[Schmidt]].
@@ -39,6 +39,14 @@ After his retirement from the army, "een controleur hem nog meegenomen naar Nede
 
 Nussy is the most fully drawn of the named Ambonese soldiers in *[[Oom Ambon van het K.N.I.L.]]* and one of the most fully drawn Ambonese soldiers in any Dutch colonial source. His career tracks the whole arc of the late-colonial Marechaussee in Aceh: from the *dardanel* on patrol under the old patrouillecommandanten, through the long hunt for the last Acehnese resistance, to the strange peace of post-war police work under his former commander. His tears at the news of his decoration, and his lifelong identification as "soldaat sadja," give the entry its human centre. In *[[Oost-Indisch Journael]]* he is equally the first-named of the legendary sergeants: the frame for the colonial memory of the [[Atjeh-oorlog|Aceh War]].
 
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records under [[1911]] the award to *Amb. Mar. Th. Nussy, Alg. Stb. No. 40434* of the knight's cross of the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 3rd class.
+
+The editors singled him out in their footnote on the limits of the printed list. Lack of space had compelled them to confine the register to officers and *onderluitenants* and to those non-commissioned officers and men who held the 3rd class — "een zeldzame onderscheiding, die in totaal slechts aan elf leden van het Korps Maréchaussée is toegekend, n.l. aan vijf officieren, één onderluitenant, vier sergeanten en één soldaat, den zoo bekenden Nussy" — a rare distinction, granted in total to only eleven members of the corps: five officers, one *onderluitenant*, four sergeants and one soldier, the well-known Nussy. He is thus identified as the only private soldier of the corps ever to receive the 3rd class.
+
+Colonel [[C. A. Snell|L. A. Snell]], interviewed in the same issue, named Nussy among "de eenvoudigen van ziel" who ought to be rescued from oblivion alongside the great officers — "de dappersten onder de dapperen."
+
 ## See Also
 
 - [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
@@ -66,6 +74,10 @@ Nussy is the most fully drawn of the named Ambonese soldiers in *[[Oom Ambon van
 - [[Geertsema Beckering]]
 - [[Darlang]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[C. A. Snell]]
+- [[Militaire Willemsorde]]
 
 ## Sources
 
@@ -140,3 +152,5 @@ Nussy is the most fully drawn of the named Ambonese soldiers in *[[Oom Ambon van
 
 - *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt" and chapter "Leve het Zesde Bataljon!"
 - *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

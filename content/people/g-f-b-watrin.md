@@ -1,7 +1,7 @@
 ---
 title: G. F. B. Watrin
-aliases: [Watrin, G.F.B. Watrin, Marechaussee Commander Watrin]
-tags: [person, dutch, colonial-administrator, military, civiel-gezaghebber, xxii-moekims, atjeh, officer, knil, marechaussee, aceh]
+aliases: ["Watrin", "G.F.B. Watrin", "Marechaussee Commander Watrin", "1ste Luit. Mar. G. F. B. Watrin"]
+tags: [person, dutch, colonial-administrator, military, civiel-gezaghebber, xxii-moekims, atjeh, officer, knil, marechaussee, aceh, honours, jubilee]
 description: "Dutch military officer and colonial administrator in Aceh — one of the celebrated Marechaussee commanders of the Aceh War named in Musket's roll-call, and by 1914 the Kapitein der Infanterie and Civiel Gezaghebber of the onderafdeeling XXII Moekims."
 ---
 
@@ -37,6 +37,19 @@ The *bestuursvergaderingen* at Koeta-Radja on [[19 January]] and [[20 January]] 
 
 Watrin's career, taken in its two-source totality, exemplifies the trajectory of the Dutch officer class in Atjeh from the *Marechaussee* patrols of the war years to the *civiel gezaghebber* posts of the post-war administration. As one of the *Marechaussee* commanders whose name "rang through the Indies like carillon music," he belongs to the colonial memory of the Atjeh-oorlog preserved in Merac's *Oost-Indisch Journael*; as *Kapitein der Infanterie* and *Civiel Gezaghebber* of the XXII Moekims, he was a working officer of the post-war administration whose presence at the 1914 *bestuursvergaderingen* places him at the centre of the debate over the future of the military-civil hybrid that had defined Atjeh's governance since the conquest.
 
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records two awards to Watrin:
+
+- [[1898]] — the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 4th class, as *1ste Luits. Mar.*, together with [[Darlang|F. Darlang]]
+- [[1906]] — the *[[Eeresabel]]*, as *1ste Luit. Mar.*
+
+### Watrin's own account
+
+The same issue printed a short statement Watrin had sent to the paper: "Ik verbleef in Atjeh van primo 1900 tot medio 1915. Het was de mooiste tijd van mijn loopbaan, bekroond met een Diner ten Hove op [[20 November]] [[1913]], gedurende mijn Europeesch verlof. Ik had het voorrecht links naast H. M. de Koningin aan tafel te zitten" — I stayed in Atjeh from the beginning of [[1900]] to the middle of [[1915]]. It was the finest time of my career, crowned by a Dinner at Court on 20 November 1913, during my European leave. I had the privilege of sitting at table on the left of Her Majesty the Queen.
+
+Colonel [[C. A. Snell|L. A. Snell]] named Watrin among the old *vuurvreters* he remembered from the *soos* and the *rimboe*.
+
 ## See Also
 
 - [[Hendrikus Colijn]]
@@ -66,9 +79,16 @@ Watrin's career, taken in its two-source totality, exemplifies the trajectory of
 - [[XXII Moekims]]
 - [[Koeta-Radja]]
 - [[Aceh War]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[C. A. Snell]]
+- [[Eeresabel]]
+- [[20 November]]
 
 ## Source
 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118-130.
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on *den zieleherder*.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

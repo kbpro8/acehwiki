@@ -9,6 +9,7 @@ aliases:
 - Toean Padoman
 - Ton Padoman
 - Toean Padoman Veltman
+- Majoor v/h Korps Mar. Th. J. Veltman
 tags:
 - person
 - dutch
@@ -26,6 +27,8 @@ tags:
 - aceh-war
 - westkust
 ---
+- honours
+- jubilee
 
 Th. J. Veltman was a Dutch colonial official who held the dual position of *Majoor der Infanterie* (Major of the Infantry) and *Civiel Gezaghebber van de onderafdeeling Pidië* (Civil Authority Holder of the Pidië sub-district) during the period of the [[Bestuursreorganisatie Sumatra (1913-1914)]]. This combination of military rank and civil administrative responsibility was a distinctive feature of the governance system in the [[Gouvernement Atjeh en Onderhoorigheden]], reflecting the unique conditions that had prevailed in Atjeh since the beginning of Dutch military operations in 1873. Veltman was present at the *bestuursvergaderingen* (administrative meetings) held at [[Koeta-Radja]] on [[19 January]] [[1914]] and [[20 January]] [[1914]], though no recorded remarks from him appear in the official minutes. His presence at these high-level deliberations nonetheless underscores the importance of the Pidië sub-district within the broader administrative and strategic landscape of Atjeh.
 
@@ -48,6 +51,16 @@ The action of the *marechaussée* soon produced the necessary submissions. In Ju
 
 ## Sources
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records three awards to Veltman, spanning the whole of his career with the corps:
+
+- [[1897]] — the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 4th class, as *1ste Luit. Mar.*, in the same year in which [[Jhr. Graafland|Jhr. G. J. W. C. Graafland]] received the 3rd class and [[Overste Scheepens|W. B. J. A. Scheepens]] the *[[Eeresabel]]*
+- [[1906]] — the Militaire Willems-Orde 3rd class, as *Kapt. Mar.*
+- [[1914]] — appointment as Officer in the *[[Oranje-Nassau (Orde van Oranje-Nassau)|Orde van Oranje-Nassau]]*, as *Majoor v/h Korps Mar.*
+
+Colonel [[C. A. Snell|L. A. Snell]], interviewed in the same issue, recalled him among the old *vuurvreters* of the corps as "den levenslustigen Veltman" — the high-spirited Veltman — in a list that also named [[Overste Scheepens|Scheepens]], [[Darlang]], [[Christoffel]], [[Geertsema Beckering|Geertsema]], Beckering, [[G. F. B. Watrin|Watrin]] and [[Schmidt]]: men apparently carefree in the *soos* but who in the *rimboe* developed "zeldzame energie en moed… gepaard aan bovenmenschelijk doorzettingsvermogen en waardeering van zijn tegenstander."
 
 ## See Also
 
@@ -75,9 +88,15 @@ The action of the *marechaussée* soon produced the necessary submissions. In Ju
 - [[1904]]
 - [[1930]]
 - [[Aceh War]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[C. A. Snell]]
+- [[Militaire Willemsorde]]
 
 ## Source
 
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118-130.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, pp. 111–112 and illustration p. 170.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

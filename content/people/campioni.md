@@ -1,7 +1,7 @@
 ---
 title: Campioni
-aliases: [Campioni, Marechaussee commander Campioni, Kapitein Campioni, Colonne-commandant Campioni]
-tags: [person, officer, dutch, knil, marechaussee, aceh, aceh-war, 20th-century, seunagan]
+aliases: ["Campioni", "Marechaussee commander Campioni", "Kapitein Campioni", "Colonne-commandant Campioni", "M. J. B. H. Campioni", "1ste Luit. Mar. M. J. B. H. Campioni"]
+tags: [person, officer, dutch, knil, marechaussee, aceh, aceh-war, 20th-century, seunagan, honours]
 ---
 
 **Campioni** — *kapitein Campioni*, *colonne-commandant* — was a Dutch maréchaussée officer of the [[Korps Marechaussee van Atjeh en Onderhorigen]] in [[Atjeh|Aceh]], one of the great patrol commanders of the [[Aceh War|Atjeh-oorlog]]. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Campioni is the third-named in [[Musket]]'s list of the Marechaussee commanders: "Gilles Graafland, Van Daalen, Campioni, Christoffel, Van der Maaten, Scheepens, Watrin, Webb, Colijn, Geertsema Beckering, Darlang and the sergeants Nussy, Salowono, Pongoh … a colourful row." The names of these famous Marechaussee commanders "rang through the Indies like carillon music," and their "stories of brave deeds, adventures, and peculiarities went the rounds, as if they were legends." In [[H.C. Zentgraff|Zentgraff]]'s *Atjeh* he is named as one of the four *vermaarde maréchaussée-officieren* in the jubilee photograph — *"links boven: Campioni; rechts boven: Snell; links beneden: Graafland; rechts beneden: Webb"* — and he appears among the *oude kameraden* whom [[Scheepens|Mevrouw Scheepens]] named at her husband's deathbed: *"Je noemde hem: de groote rust. Het was altijd je verlangen op Peutjoet te liggen bij je oude kameraden, Webb, Campioni…"*
@@ -15,6 +15,10 @@ Campioni's *colonne* was marching in the neighbourhood of [[Djeuram]] — the pl
 ### In the 1930 jubilee photograph
 
 Campioni is named in the 40-year jubilee dinner of the Korps Maréchaussée at the *Witte* in The Hague on [[2 April]] [[1930]], in the *Kandoeri Rajeu* menu-card among the listing of *Afdeelings- en Divisiecommandanten*.
+
+## Entry in the Maréchaussée register of honours ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records under [[1904]] the award to *1ste Luit. Mar. M. J. B. H. Campioni* of both the knight's cross of the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 4th class and the *[[Eeresabel]]*.
 
 ## See Also
 
@@ -32,9 +36,14 @@ Campioni is named in the 40-year jubilee dinner of the Korps Maréchaussée at t
 - [[1904]]
 - [[1930]]
 - [[Aceh War]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Militaire Willemsorde]]
 
 ## Sources
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder.
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

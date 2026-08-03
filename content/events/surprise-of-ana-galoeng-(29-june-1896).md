@@ -1,7 +1,7 @@
 ---
 title: "Surprise of Ana' Galoeng (29 June 1896)"
 aliases: ["Surprise of Ana' Galoeng (29 June 1896)", "Verrassing van Ana' Galoeng", "Verrassing van Ana Galoeng op 29 Juni", "the night attack on Ana' Galoeng", "the surprise of Ana' Galoeng of 29 June 1896", "Ana' Galoeng 29 June 1896", "Bestorming van Ana' Galoeng", "overrompeling van Anak Galoeng", "the surprise of Anak Galoeng"]
-tags: [event, aceh-war, 1896, surprise-attack, ana-galong, groot-atjeh, kruisheer-vol3, hoofdstuk-iii, military-operation, night-attack, maréchaussée, snelladers, marechaussee]
+tags: [event, aceh-war, 1896, surprise-attack, ana-galong, groot-atjeh, kruisheer-vol3, hoofdstuk-iii, military-operation, night-attack, maréchaussée, snelladers, marechaussee, jubilee]
 ---
 
 **The Surprise of Ana' Galoeng** — *Verrassing van Ana' Galoeng op 29 Juni* [[1896]] — was the three-colonne night attack by Dutch forces under [[J. B. van Heutsz|Luitenant-Kolonel Van Heutsz]] (1e colonne), [[G. F. Soeters|Luitenant-Kolonel G. F. Soeters]] (2e colonne) and [[C. J. Laceulle|Luitenant-Kolonel C. J. Laceulle]] (3e colonne) on the *benteng* (fort) of [[Ana' Galong]] in the early hours of [[29 June]] [[1896]], which opened the second semester of [[1896]] in [[A. Kruisheer|Kruisheer]]'s *[[ATJEH '96 — Tweede Deel (book by A. Kruisheer)|ATJEH '96 — Tweede Deel]]*. The post — *het hart van Groot-Atjeh* (the heart of Great Aceh) — had been the former main residence of [[Teungkoe di Tiro|Teungkoe di Tiro]], who *also died there*, and had been conquered by [[Teuku Umar|Teuku Umar]]'s legion on [[30 November]] [[1893]] during the [[Subjection of Teuku Umar 1893|subjection of Teuku Umar]]. The Dutch had retaken the post briefly but abandoned it again, and by mid-[[1896]] it had been reoccupied and refortified by the Acehnese with *de stevige verticale ijzerdraadversperring van onzen ouden post* (the sturdy vertical barbed-wire entanglement of our old post) still in good order. The operation — the most ambitious Dutch *verrassing* (surprise) of the second semester — was launched on the night of [[28 June|28]]–[[29 June]] [[1896]], the very night after the [[Departure of Vetter (28 June 1896)|departure of Lt.-Gen. Vetter as Regeeringscommissaris]].
@@ -80,7 +80,7 @@ The first column was instructed to take Anak Galoeng by surprise and then to pun
 
 The Van Heutsz column marched out of the *[[Kraton of Aceh|Kraton]]* at twelve at night for [[Lambaroe]], whence it began its nocturnal enterprise southward. Arrived at [[Lambarih]], a *benting* the Dutch had earlier razed, they crept with great circumspection towards Anak Galoeng — *want marcheeren kon het niet worden genoemd*, for it could not be called marching. The *marechaussée*, strengthened by a platoon of fusiliers armed with repeating rifles, had to carry out the important enterprise.
 
-All the corps officers took part: Captain Jhr. Graafland *met zijn stoicijnsche kalmte, die door zijn soldaten op de handen gedragen werd*; the gallant Lieutenant [[Dijkstra]], *die immer weinig sprak, maar veel uitvoerde*; Lieutenant [[C. F. A. Wagener|Wagener]], who never failed to answer the roll when anything special was afoot; and Lieutenant [[Stoop]]. The corps had lost Lieutenant [[Vis]] on his appointment as *controleur* charged with the civil administration; but that this honourable post should keep him from the punishment of Sibreh and Rahat and the surprise of Anak Galoeng was too much for him, and he asked and obtained permission to take part. Beuming adds that little could that officer then suspect that three years later, in [[1899]], he would lose his life at the punishment of [[Toekoe Lhon]]. The platoon of fusiliers stood under the command of *den dapperen luitenant* [[Rijnen]].
+All the corps officers took part: Captain Jhr. Graafland *met zijn stoicijnsche kalmte, die door zijn soldaten op de handen gedragen werd*; the gallant Lieutenant [[Dijkstra]], *die immer weinig sprak, maar veel uitvoerde*; Lieutenant [[C. F. A. Wagener|Wagener]], who never failed to answer the roll when anything special was afoot; and Lieutenant [[Stoop]]. The corps had lost Lieutenant [[H. M. Vis|Vis]] on his appointment as *controleur* charged with the civil administration; but that this honourable post should keep him from the punishment of Sibreh and Rahat and the surprise of Anak Galoeng was too much for him, and he asked and obtained permission to take part. Beuming adds that little could that officer then suspect that three years later, in [[1899]], he would lose his life at the punishment of [[Toekoe Lhon]]. The platoon of fusiliers stood under the command of *den dapperen luitenant* [[Rijnen]].
 
 Slowly they went forward, creeping through the *[[Alang-alang|alang-alang]]*. In the deepest silence Anak Galoeng was reached without the enemy noticing anything. Within the *benting* the enemy could be heard clearly praying from the [[Qur'an|Koran]], *een eentonig gezang, nu en dan onderbroken door het gillen van "Alah-lah ilah-lah."*
 
@@ -125,6 +125,16 @@ Encouraged by the brilliant success won in the early morning, the 3e and 6e Bata
 That same day the fallen Acehnese were buried near Anak Galoeng. For a long time afterwards the Acehnese did not venture into the neighbourhood, and if they had unavoidably to pass it they kept as far off as possible, *gedreven door een bijgeloovige vrees*, because according to them *een booze geest* dwelt in the former Dutch stronghold — see [[Orang Setan]]. Beuming concludes that the Acehnese of Anak Galoeng, Sibreh and Rahat were thus punished for their treachery, and that the surprise of Anak Galoeng had become for them *een spookbeeld*, a spectre.
 
 He adds that the events of [[29 June]] [[1896]] gave the resistance a sensitive blow and had as their consequence *dat zich onverwijld een aantal hoofden met hunne volgelingen ter onderwerping aan ons gezag aanmeldden* — that a number of chiefs with their followers immediately presented themselves in submission to Dutch authority.
+
+## Account from the Maréchaussée Jubileum-nummer ([[1930]]) — the corps's first full deployment
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* treats the action at Ana' Galoeng as the first occasion on which the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* took the field "in zijn geheele samenstelling" — in its entire composition — and as the engagement in which it distinguished itself at once.
+
+Until [[1896]] the *maréchaussées* had applied their strength chiefly to police and administrative functions inside the *[[Geconcentreerde linie|geconcentreerde linie]]*; from that year they also entered the purely military field and began to seek out the enemy in his hiding places, a change of role the jubilee number credited to the initiative of the then captain [[Jhr. Graafland|Jhr. G. J. W. C. Graafland]].
+
+The corps's strength on the day is given as three officers and 221 non-commissioned officers, corporals and men. Of the assault the account records only that, once the Maréchaussée had penetrated the *versterking*, "maakte zij er zich in een kwartier tijds meester van" — it made itself master of it in a quarter of an hour.
+
+The editors placed the action at the head of the corps's record of feats of arms, observing that "de historie van het Korps Maréchaussée is de geschiedenis van zijn bestaansrecht" — the history of the corps is the history of its right to exist — and noting that many pages of the works of Dr. [[C. Snouck Hurgronje]], [[G. B. Hooyer]], [[A. Kruisheer]], [[Kempees|J. C. J. Kempees]] and other writers on Atjeh were filled with the corps's feats of arms.
 
 ## See Also
 
@@ -173,6 +183,9 @@ He adds that the events of [[29 June]] [[1896]] gave the resistance a sensitive 
 - [[1896]]
 - [[29 June]]
 - [[1913]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Jhr. Graafland]]
 
 ## Sources
 
@@ -181,3 +194,5 @@ He adds that the events of [[29 June]] [[1896]] gave the resistance a sensitive 
 *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Schetsen uit den strijd op Groot-Atjeh* by P. H. R. Beuming (Amsterdam, [[1911]]). Dutch passages are quoted in the original with an English rendering.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

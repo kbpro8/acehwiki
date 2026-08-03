@@ -1,7 +1,7 @@
 ---
 title: "Joannes Benedictus van Heutsz"
 aliases: ["Joannes Benedictus van Heutsz", "J. B. van Heutsz", "Van Heutsz", "Generaal Van Heutsz", "Kolonel Van Heutsz", "Gouverneur Van Heutsz"]
-tags: [person, military, dutch, colonial-official, governor, aceh, aceh-war, 19th-century, 20th-century]
+tags: [person, military, dutch, colonial-official, governor, aceh, aceh-war, 19th-century, 20th-century, marechaussee]
 ---
 
 **Joannes Benedictus van Heutsz** ([[1842]]–[[1924]]) was a Dutch army officer and colonial administrator who served as Civil and Military Governor of [[Atjeh]] and its Dependencies from [[March 1898]] until [[1904]]. His collaboration with the Islamic scholar [[Dr. C. Snouck Hurgronje]] transformed the strategic direction of the [[Aceh War]] from passive containment to active subjugation, and his campaigns—most notably the [[Pidië Expedition]] of [[1898]]—are regarded as the decisive military turning point in Dutch pacification of the region.
@@ -34,6 +34,14 @@ From [[1898]] onward, [[Van Heutsz]] directed the systematic pursuit of [[Pangli
 
 [[Van Heutsz]] left [[Atjeh]] in [[1904]] and subsequently served as [[Governor-General]] of the [[Dutch East Indies]] ([[1904]]–[[1909]]). His reputation as the architect of the final pacification of [[Atjeh]] remains one of the most significant in Dutch colonial military history. The consolidation of Dutch authority over the [[Onderhoorigheden]]—achieved through his campaigns—laid the foundation for the further extension of Dutch effective authority to other regions of the [[Buitenbezittingen]] after [[1902]].
 
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* carried a portrait of Van Heutsz captioned "Gouverneur-Generaal J. B. van Heutsz, de pacificator van Atjeh," with the dates of his governor-generalship and the year of his death, [[1924]].
+
+His name recurs throughout the issue. The [[Pidie expeditie|Pidië expedition]] of [[1898]] stood under his supreme command as colonel of infantry, and the success achieved there was "wederom voor een belangrijk deel te danken aan de Maréchaussée"; the [[Onderwerping van Peusangan en Pasé (1899)|subjection of Peusangan and Pasé]] in [[1899]] likewise stood under his supreme command, by then as major-general. It was at his request, with that of [[Hendrikus Colijn|Colijn]], that the wounded [[W. V. Rhemrev]] was allowed to continue serving after being declared unfit.
+
+Colonel [[C. A. Snell|L. A. Snell]] named him last and highest among the great pioneers of the corps: "boven allen den grootste onder de grooten: den pacificator van Atjeh, generaal J. B. van Heutsz, onzen nationalen held" — above all the greatest among the great: the pacifier of Atjeh, General J. B. van Heutsz, our national hero.
+
 ## See Also
 
 - [[Dr. C. Snouck Hurgronje]]
@@ -46,7 +54,14 @@ From [[1898]] onward, [[Van Heutsz]] directed the systematic pursuit of [[Pangli
 - [[Concentrated Line]]
 - [[Pedir]]
 - [[Samalanga]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[C. A. Snell]]
+- [[Pidie expeditie]]
+- [[W. V. Rhemrev]]
 
 ## Source
 
 *Het Atjeh-probleem van 1890-1900. De stimulans van Van Heutsz en Snouck Hurgronje* (Overprint uit *Journal / Organ van de Netherlands-Indies Officers Association*, [1935], pp. 4-7, 10-11); *Het einde van den Atjeh Oorlog. De beteekenis der Onderwerping van Panglima Polim* (Overprintken uit de *Evening Post* van 25, 26 en 27 Augustus 1903, Royal Institute for Language, Land, and Ethnology, The Hague, 1903, pp. 10-16); Damste, H. T. "Atjeh-historie," *Koloniaal Tijdschrift* 1916; Hotz, *Beknopt geschiedkundig overzicht van den Atjeh-oorlog*.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

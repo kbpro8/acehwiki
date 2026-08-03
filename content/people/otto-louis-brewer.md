@@ -1,7 +1,7 @@
 ---
 title: Otto Louis Brewer
-aliases: [O. L. Brewer, Otto Brewer, Brewer (KNIL artillery), Heer van Vrijenes, General-major Brewer, Titulair Generaal-Majoor Brewer]
-tags: [person, officer, dutch, colonial, military, artillery, achehnese, 19th-century, 20th-century, aceh-war, knight-of-military-willemsorde]
+aliases: ["O. L. Brewer", "Otto Brewer", "Brewer (KNIL artillery)", "Heer van Vrijenes", "General-major Brewer", "Titulair Generaal-Majoor Brewer", "1ste Luit. Mar. O. L. Brewer"]
+tags: [person, officer, dutch, colonial, military, artillery, achehnese, 19th-century, 20th-century, aceh-war, knight-of-military-willemsorde, marechaussee, honours]
 ---
 
 **Otto Louis Brewer** "heer van Vrijenes" ([[26 May]] [[1875]], [[Meester Cornelis|Meester Cornelis]] (Java) – after [[1933]]) was a Dutch colonial artillery officer of the [[Koninklijk Nederlandsch-Indisch Leger|Koninklijk Nederlandsch-Indisch Leger (K.N.I.L.)]] who rose to titular major-general (*generaal majoor tit.*) of artillery, was decorated a Knight 4th class of the [[Militaire Willemsorde|Militaire Willemsorde]] — the highest Dutch military valour decoration — and whose career spanned postings at [[Djokjakarta|Djocjacarta]], [[Indrapoera|Indrapoera]] in [[Groot-Atjeh|Groot-Atjeh]], and the wider colonial artillery establishment. He is documented in the [[Van Son genealogy|Van Son genealogy]] as the husband of two sisters of the Van Son family — first [[Leonie van Son|Leonie van Son]] (marriage [[1899]]), and after her death at [[Koeta Radja|Koeta Radja]] in [[1904]], her sister [[Adeline van Son|Adeline van Son]] (marriage [[1908]]) — and as the father of [[Yvonne Caroline Brewer|Yvonne Caroline Brewer]], born at [[Indrapoera|Indrapoera]] in [[Groot-Atjeh|Groot-Atjeh]] on [[1 Augustus]] [[1904]].
@@ -32,6 +32,10 @@ The genealogy does not record the date of Brewer's retirement from the K.N.I.L. 
 
 Brewer's significance for the encyclopedia of [[Acheh|Achehnese]] history lies in three particulars. First, his Atjeh posting of [[1904]] — fixed by the birth of his daughter Yvonne at Indrapoera and the death of his wife Leonie at Koeta Radja — places a serving K.N.I.L. artillery officer in [[Groot-Atjeh|Groot-Atjeh]] in the very year that marks the transition from military to civil administration of the [[Atjeh en Onderhoorigheden|Atjeh en Onderhoorigheden]]. Second, his receipt of the 4th class of the [[Militaire Willemsorde|Militaire Willemsorde]] documents, by the genealogical route, the award of the highest Dutch military valour decoration for service in the Atjeh theatre. Third, his double marriage into the Van Son family — itself an Atjeh-expedition family through his father-in-law [[Livinus Diederik Mattheus van Son|L. D. M. van Son]] — represents the marriage-alliances by which the colonial officer class of late-nineteenth and early-twentieth-century Atjeh reproduced itself as a hereditary military caste.
 
+## Entry in the Maréchaussée register of honours ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records under [[1906]] the award to *1ste Luits. Mar. O. L. Brewer* of the knight's cross of the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 4th class, among the six recipients of that class in that year — with [[Vastenou|J. H. Ch. Vastenou]], [[G. K. W. F. de Vaynes van Brakell Buys]], [[W. L. Kramers]], [[Dersjant|L. Dersjant]] and [[W. V. Rhemrev]].
+
 ## See Also
 
 - [[Aceh War]]
@@ -57,7 +61,11 @@ Brewer's significance for the encyclopedia of [[Acheh|Achehnese]] history lies i
 - [[1903]]
 - [[1904]]
 - [[1908]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
 
 ## Source
 
 *Geschiedenis en genealogie van het geslacht Van Son, eertijds geheeten Van Broechoven*, by H. J. A. van Son, Deel III: De Oudere Linie (Vervolg tot heden) (Dordrecht: Schefferdrukkerij, [[1951]]), pp. 36–37 (Tak B, generation XIa).
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

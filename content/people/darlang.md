@@ -1,7 +1,7 @@
 ---
 title: "Darlang"
-aliases: ["Lieutenant Darlang", "Toean Darlang", "Patrol Commander Darlang", "Raadjo Boekit", "Raadja Boekit", "Heer der Bergen", "Lord of the Mountains", "F. Darlang", "kapitein Darlang", "F. Darlang Ridder 3e kl. M.W.O.", "colonne Darlang"]
-tags: [person, officer, dutch, knil, marechaussee, aceh, aceh-war, 20th-century, peutjoet, military, westkust, gayo]
+aliases: ["Lieutenant Darlang", "Toean Darlang", "Patrol Commander Darlang", "Raadjo Boekit", "Raadja Boekit", "Heer der Bergen", "Lord of the Mountains", "F. Darlang", "kapitein Darlang", "F. Darlang Ridder 3e kl. M.W.O.", "colonne Darlang", "1ste Luit. Mar. F. Darlang", "Kapitein F. Darlang"]
+tags: [person, officer, dutch, knil, marechaussee, aceh, aceh-war, 20th-century, peutjoet, military, westkust, gayo, honours, jubilee]
 ---
 
 **Darlang** — *Toean Darlang* (in the Acehnese idiom of the old hunter [[Datoek]]), known to the Acehnese as *Raadjo Boekit* ("Heer der Bergen", Lord of the Mountains) — was a maréchaussée officer and [[panglima]] of the [[Korps Marechaussee van Atjeh en Onderhorigen]] in [[Atjeh|Aceh]], one of the great patrol commanders of the [[Aceh War|Atjeh-oorlog]], a man to whom, in [[H.C. Zentgraff|Zentgraff]]'s phrase, *"het begrip vrees volkomen onbekend was"* — the very concept of fear was wholly unknown. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Darlang is the eleventh-named in [[Musket]]'s list of the Marechaussee commanders — "Gilles Graafland, Van Daalen, Campioni, Christoffel, Van der Maaten, Scheepens, Watrin, Webb, Colijn, Geertsema Beckering, Darlang and the sergeants Nussy, Salowono, Pongoh … a colourful row" — and one of the *sobat kras* (heavy friends) whom [[Datoek]] names in the chapter *Jagerslatijn*.
@@ -38,6 +38,17 @@ In [[1910]] "the Darlang column remained in the [[Péndéngvallei|Péndéng vall
 
 Swart's letter to [[H. J. Schmidt]] of [[26 September]] [[1911]] recorded: "You will already have seen from the little Atjeh bulletin that we have had considerable success everywhere this month, Darlang too in the [[Alaslanden|Alas lands]]."
 
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records two awards to Darlang in the same year:
+
+- [[1898]] — the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 4th class, as *1ste Luit. Mar.*, together with [[G. F. B. Watrin]]
+- [[1898]] — the *[[Eeresabel]]*, as *1ste Luit. Mar.*, together with [[Rijnen|K. J. C. Rijnen]]
+
+A portrait notice in the same issue styles him *Kapitein F. Darlang*, "als 1ste luitenant der Maréchaussée in 1904 onderscheiden met het ridderkruis der M. W. O. vierde-klasse" — decorated as first lieutenant of Maréchaussée in [[1904]] with the knight's cross of the Militaire Willems-Orde 4th class.
+
+Colonel [[C. A. Snell|L. A. Snell]] remembered him as "den altoos vroolijken Darlang" — the ever-cheerful Darlang. A bust of Darlang adorned the *[[Kerkhof Peutjoet]]*, with those of [[Overste Scheepens|Scheepens]], [[H. M. Vis|Vis]] and [[Webb]].
+
 ## See Also
 
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
@@ -70,6 +81,11 @@ Swart's letter to [[H. J. Schmidt]] of [[26 September]] [[1911]] recorded: "You 
 - [[Alaslanden]]
 - [[Corps of Military Constabulary of Atjeh and Dependencies]]
 - [[H. N. A. Swart]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[C. A. Snell]]
+- [[Kerkhof Peutjoet]]
+- [[Eeresabel]]
 
 ## Source
 
@@ -78,3 +94,5 @@ Swart's letter to [[H. J. Schmidt]] of [[26 September]] [[1911]] recorded: "You 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, pp. 110, 114; Chapter XIV, p. 141 and illustration p. 170.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

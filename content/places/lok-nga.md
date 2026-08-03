@@ -110,6 +110,12 @@ In [[1898]] the column at Lho' Nga attacked [[Teukoe Oemar]] and drove him from 
 ## Sources
 *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 16-20.
 
+## Maréchaussée station ([[1898]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records the localisation of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* in [[1898]]: Staff at [[Koeta Radja]]; 1st Division at [[Selimoen]]; 2nd Division at [[Indrapoeri]]; 3rd Division at [[Tjot Mantjang]] and [[Glé Broet]]; 4th Division at [[Tjot Goet]]; 5th Division at [[Lam Baroe]] and [[Lok Nga|Lho'-Nga]]. Lho'-Nga was the station of the 5th Division (with [[Lam Baroe]]).
+
+By [[1910]] the corps had been redistributed to [[Blang Kedjeren]], [[Malaboeh|Meulaboh]], [[Takengeun|Takèngan]], [[Lam Meulo]] and [[Lho Soekon]].
+
 ## See Also
 
 - [[1896]]
@@ -149,6 +155,9 @@ In [[1898]] the column at Lho' Nga attacked [[Teukoe Oemar]] and drove him from 
 - [[Meuraxa]]
 - [[J. L. J. H. Pel]]
 - [[Second Aceh Expedition]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Divisie (Maréchaussée)]]
 
 ## Source
 
@@ -165,3 +174,5 @@ In [[1898]] the column at Lho' Nga attacked [[Teukoe Oemar]] and drove him from 
 *Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, IV, XII.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

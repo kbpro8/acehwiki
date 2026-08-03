@@ -1,7 +1,7 @@
 ---
 title: "Concentration system (1884–1896) — Kreemer's account"
 aliases: ["Concentratiestelsel", "Atjèh concentration system", "the concentration policy", "Kreemer's account of the concentration", "geconcentreerde linie", "Concentration system in Atjeh", "Atjeh concentration system", "stelsel van concentratie", "Atjeh concentration strategy", "Dutch concentration system Atjeh", "Atjeh-oorlog concentration system", "Concentratie", "het stelsel van concentratie", "geconcentreerde stelling van Groot-Atjeh", "geconcentreerde stelling", "Concentratiebesluit", "concentrated line", "the unsound system of the concentrated line", "Linie", "Gec. Linie", "Dutch Concentration Scheme", "Concentration Scheme", "Concentration-line", "Dutch concentration policy in Acheh", "Dutch linie", "Concentratie-linie", "Dutch pale in Acheh", "Line of fortresses in Acheh", "Concentration Line", "Dutch Concentration Line at Atjeh", "the concentrated line"]
-tags: [concept, military, political, colonial, atjeh-oorlog, 19th-century, dutch, atjehnese, 1884, 1896, military-strategy, achehnese, aceh-war, defensive-strategy, aceh, event, war, dutch-colonial, treaty, dutch-policy, fortification, strategy]
+tags: [concept, military, political, colonial, atjeh-oorlog, 19th-century, dutch, atjehnese, 1884, 1896, military-strategy, achehnese, aceh-war, defensive-strategy, aceh, event, war, dutch-colonial, treaty, dutch-policy, fortification, strategy, marechaussee]
 ---
 
 **The Concentration system** (*concentratiestelsel*) of [[1884]]–[[1896]] — in [[J. Kreemer|Kreemer]]'s history, the Dutch policy of "inkrimping van het rechtstreeks onder ons bestuur gebracht gebied, gepaard met een strenge 'blokkade' van de kust" — "contraction of the area brought under our direct administration, accompanied by a strict 'blockade' of the coast" — was, in Kreemer's judgement, the greatest service anyone ever did the Atjèhnese war-party: "zeker niemand de oorlogspartij ooit een grooter dienst bewees, dan de uitvinder van deze concentratie" — "certainly no one ever did the war-party a greater service than the inventor of this concentration."
@@ -117,6 +117,16 @@ At Oemar's request the Dutch occupied temporary posts outside the line and sprea
 ## Collapse
 
 All the posts outside the line were invested after the defection of [[Teukoe Oemar]] on [[29 March]] [[1896]] and lifted, burnt or slighted by the end of [[April]] [[1896]], leaving only [[Tjot Goeë]], retained since [[April]] [[1895]] as a permanent strongpoint.
+
+## Account from the Maréchaussée Jubileum-nummer ([[1930]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* summarises the origin and the end of the *concentratie* in a few sentences, from the standpoint of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* whose creation it occasioned.
+
+Shortly before, under the administration of General [[General van der Heijden|K. van der Heyden]], the Dutch action had extended over the valley of [[Groot-Atjeh]]; then "op [[19 August]] [[1884]] werd tot de z.g. concentratie besloten en werden onze troepen tot defensieve houding gedwongen" — on 19 August 1884 the so-called concentration was decided upon and the Dutch troops were forced into a defensive attitude. "Kleine benden slopen de linie binnen, vielen onze convooien aan en vernielden kunstwerken" — small bands crept inside the line, attacked the convoys and destroyed engineering works, and *overvallen* occurred "met schier verbijsterende regelmaat."
+
+Against this the carrying of weapons by the Atjehnese population was made punishable and a *[[Passenstelsel|passenstelsel]]* introduced; but the evil was not thereby overcome, and in April [[1890]] a separate corps, the Maréchaussée, was raised under the further approval of the King.
+
+The system was abandoned in [[1896]]: "het verraad van Teukoe Djohan alias Oemar in 1896 dwong het Bestuur van Atjeh het, in 1884, aangenomen stelsel van *concentratie* te verlaten" — see [[Defection of Teukoe Oemar (1896)]]. From that year the Maréchaussée entered the purely military field alongside its police and administrative duties.
 
 ## See Also
 
@@ -243,6 +253,9 @@ All the posts outside the line were invested after the defection of [[Teukoe Oem
 - [[Kaloet]]
 - [[Kota Toeankoe]]
 - [[Defection of Teukoe Oemar (1896)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Passenstelsel]]
 
 ## Sources
 
@@ -260,3 +273,5 @@ All the posts outside the line were invested after the defection of [[Teukoe Oem
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 9, 10, 26, 48, 54.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

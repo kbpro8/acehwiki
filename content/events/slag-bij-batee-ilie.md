@@ -1,7 +1,7 @@
 ---
 title: Battle of Batèë-Ilië
-aliases: [Battle of Batèë-Ilië, Batee Ilie]
-tags: [event, war, aceh, knil, colonial]
+aliases: ["Battle of Batèë-Ilië", "Batee Ilie", "Batee Iliek", "bestorming van Batee Iliek"]
+tags: [event, war, aceh, knil, colonial, marechaussee, jubilee]
 ---
 
 **The Battle of Batèë-Ilië** was the battle in the [[Atjeh-oorlog|Aceh War]] by which "the organised, general resistance in Aceh was broken for good." In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), the Battle of Batèë-Ilië is the last-named of the great successes of the glorious period of Van Heutsz — the time of the great expeditions and excursions — that [[Musket]] lists after [[Buyckjens]]'s backward glance.
@@ -22,6 +22,12 @@ The book's sequence is: the Graafland era — the all-out offensive — the defe
 
 The Battle of Batèë-Ilië is significant in *[[Oost-Indisch Journael]]* as the battle by which "the organised, general resistance in Atjeh was broken for good." The book's argument — that the Battle of Batèë-Ilië was the last of the great successes of the glorious period of Van Heutsz and that it broke the organised resistance for good — is the book's marker of the military end of the [[Atjeh-oorlog|Aceh War]]. The Battle of Batèë-Ilië is therefore the book's — and the colonial memory's — marker of the breaking of the organised resistance: the battle that opened the way to the administration of Governor Swart.
 
+## Account from the Maréchaussée Jubileum-nummer ([[1930]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records the storming of Batee Iliek among the operations in which the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* took part: the corps "ontbrak ook niet bij de excursie in het Samalangasche, waarbij o.a. het uit den tijd van generaal [[General van der Heijden|Van der Heyden]] beruchte Batee Iliek stormenderhand werd genomen" — was not lacking either at the [[Samalanga expedition|excursion into the Samalangasche]], at which the Batee Iliek, made notorious in the time of General Van der Heyden, was taken by storm.
+
+The reference to Van der Heyden points to the period before the *[[Concentratiestelsel|concentratie]]* decision of [[19 August]] [[1884]], when under his administration the Dutch action had extended over the valley of [[Groot-Atjeh]].
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -39,7 +45,13 @@ The Battle of Batèë-Ilië is significant in *[[Oost-Indisch Journael]]* as the
 - [Atjeh-oorlog](/events/atjeh-oorlog)
 - [[1896]]
 - [[29 March]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Samalanga expedition]]
+- [[General van der Heijden]]
 
 ## Source
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

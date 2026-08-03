@@ -1,7 +1,7 @@
 ---
 title: "Behrens"
-aliases: ["Kapitein Behrens", "Kolonel Behrens", "Behrens of Leuhong", "H. Behrens", "H. Behrens Ridder M.W.O. met E.S.", "Generaal-Majoor Behrens"]
-tags: [person, captain, kolonel, dutch, aceh, aceh-war, 20th-century, leuhong, military, knil, marechaussee]
+aliases: ["Kapitein Behrens", "Kolonel Behrens", "Behrens of Leuhong", "H. Behrens", "H. Behrens Ridder M.W.O. met E.S.", "Generaal-Majoor Behrens", "Kapt. Mar. H. Behrens"]
+tags: [person, captain, kolonel, dutch, aceh, aceh-war, 20th-century, leuhong, military, knil, marechaussee, honours, jubilee]
 description: "Dutch captain (later kolonel) who commanded the 5e divisie at Leuhong; wounded Tengkoe di Paja Bakong (Mata Ië) at Aloeë Garöt in 1913; questioned the false T. Radja Sabi in December 1913; with his brigade sergeant Dambohpulu hunted Tengkoe di Barat to his death in 1912; commander under whom luit. Molenaar was killed."
 ---
 
@@ -41,6 +41,13 @@ In [[1913]] Behrens fell upon Tgk. di Mata Ië by the [[Aloeë Garöt]] "so swif
 
 Zentgraaff named Behrens with [[Van der Vlerk]] among the patrol leaders who had sometimes been close on Tgk. di Mata Ië's heels but from whom he always escaped, "and this made the fame of his mystical powers greater still."
 
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records two awards to Behrens:
+
+- [[1912]] — the *[[Eeresabel]]*, as *Kapt. Mar.*, the register noting him as "sedert tot Majoor bevorderden" — since promoted major
+- [[1914]] — the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 4th class, as *1ste Luit. Mar.*
+
 ## See Also
 
 - [[Tengkoe di Paja Bakong (Mata Ië)]]
@@ -69,9 +76,15 @@ Zentgraaff named Behrens with [[Van der Vlerk]] among the patrol leaders who had
 - [[Corps of Military Constabulary of Atjeh and Dependencies]]
 - [[Keureutòë]]
 - [[H. C. Zentgraaff]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Eeresabel]]
+- [[Militaire Willemsorde]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, pp. 96–97; Chapter XI, pp. 105–106; Chapter XII, pp. 118–119 and illustration p. 151.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

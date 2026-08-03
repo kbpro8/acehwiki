@@ -1,7 +1,7 @@
 ---
 title: "Militaire Willemsorde"
 aliases: ["Militaire Willems-Orde", "M.W.O.", "Military Order of William", "Military William Order", "Order of William", "Ridder M.W.O.", "Ridder derde klas", "Ridder vierde klas"]
-tags: [organization, award, military, dutch, colonial, aceh, concept, decoration, honour]
+tags: [organization, award, military, dutch, colonial, aceh, concept, decoration, honour, marechaussee]
 description: "The highest Dutch military decoration for bravery, leadership, and loyalty in the field, instituted in 1815."
 ---
 
@@ -78,6 +78,20 @@ The Militaire Willemsorde was also the honour promised by Borel to the volunteer
 
 [[H. N. A. Swart]] was appointed Knight 4th Class by royal decree of [[30 August]] [[1891]] no. 2 for his conduct in [[Atjeh]] in [[1890]]; Knight 3rd Class by decree of [[13 July]] [[1900]] no. 29 for the operations of [[1899]]; and Commander by decree of [[2 September]] [[1909]] no. 41 for the [[Onderneming tegen Soembawa (1908)|Soembawa]] operations of [[1908]]. Many of his subordinates named in du Croo's book were knights of the order, several with the *Eeresabel*: [[H. J. Schmidt]], [[W. B. J. A. Scheepens]], [[F. Darlang]], [[Th. J. Veltman]], [[A. Geertsema Beckeringh]], [[G. F. B. Watrin]], [[J. J. Boreel]], [[A. H. C. Roelofsen]], [[F. P. A. van Gheel Gildemeester]], [[H. Behrens]], [[W. J. Mosselman]], [[M. Schouten]], [[C. A. Snell]], [[G. F. P. Gosenson]], [[G. K. W. F. de Vaynes van Brakell Buys]] and [[J. H. C. Vastenou]]. The sergeants [[Loeff]] and [[Roobaart]] earned it in the destruction of the band of [[Tgk. Léjman]] in [[1911]]. The Ambonese old soldier [[Jacob Lawalata]] celebrated thirty-five years as a knight in [[1937]].
 
+## The Militaire Willems-Orde in the Korps Maréchaussée ([[1890]]-[[1930]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* printed a complete *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* — a register of honours conferred on the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* — arranged by year and recording awards of the Militaire Willems-Orde in the third and fourth classes, of the *[[Eeresabel]]*, and of the *[[Oranje-Nassau (Orde van Oranje-Nassau)|Orde van Oranje-Nassau]]*.
+
+The editors observed that in the Netherlands-Indies army the name *Maréchaussée* was "meer dan een klank," and that on seeing a soldier whose breast bore the knight's cross the thought forced itself upon one: "hij heeft stellig bij de Maréchaussée gediend!" — *Maréchaussée* and *ridder* had become well-nigh synonymous.
+
+### The rarity of the third class
+
+A footnote to the register records that the third class was "een zeldzame onderscheiding, die in totaal slechts aan elf leden van het Korps Maréchaussée is toegekend, n.l. aan vijf officieren, één onderluitenant, vier sergeanten en één soldaat, den zoo bekenden [[Nussy]]" — a rare distinction, granted in total to only eleven members of the corps: five officers, one *onderluitenant*, four sergeants and one soldier, the well-known Nussy. Lack of space obliged the editors to confine the printed list to officers, *onderluitenants* and those non-commissioned officers and men holding the third class; they expressed the hope that a future *gedenkboek* would name all the decorated without distinction.
+
+The first entry in the register is the third class to *Kapt. Mar. Jhr.* [[Jhr. Graafland|G. J. W. C. Graafland]] in [[1897]], whose name accordingly "prijkt bovenaan op de lijst van geridderde Maréchaussées."
+
+The words engraved on the knight's cross — *moed, beleid en trouw* (courage, conduct and fidelity) — recur throughout the jubilee number, and the busts of [[Overste Scheepens|Scheepens]], [[Darlang]], [[H. M. Vis|Vis]] and [[Webb]] at the *[[Kerkhof Peutjoet]]* were described as "zoovele symbolen" of them.
+
 ## See Also
 
 - [[William I of the Netherlands]]
@@ -125,6 +139,10 @@ The Militaire Willemsorde was also the honour promised by Borel to the volunteer
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Eeresabel]]
+- [[Kerkhof Peutjoet]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
 
 ## Source
 
@@ -135,3 +153,5 @@ The Militaire Willemsorde was also the honour promised by Borel to the volunteer
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 253, 258, 336–337, 366.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Extract from the service record, pp. 173–175, and illustrations.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

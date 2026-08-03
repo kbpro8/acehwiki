@@ -1,7 +1,7 @@
 ---
 title: "General van der Heijden"
 aliases: ["van der Heijden", "General van der Heyden", "General van der Ileyden", "J. van der Heijden", "Karel van der Heijden", "General K. van der Heijden", "Generaal van der Heijden", "Governor van der Heijden", "Kolonel van der Heijden", "K. van der Heijden", "kolonel K. v. d. Heijden", "K. VAN DER HEUDEN", "generaal Van der Heyden", "Van der Heyden", "Van der Heyden (Atjeh commander)", "K. van der Heyden", "Kolonel Van der Heyden", "Gouverneur Van der Heyden", "the one-eyed general", "Van der Heyden (Atjeh 1879)", "General van der Heyden conqueror of Groot Atjeh", "General van der Heyden (K. van der Heijden)", "gouverneur van Atjeh van der Heijden", "generaal éénoog", "de eenoogige generaal", "de eenoogige Koning", "Karel van der Heyden", "General van der Heijden", "Gouverneur Van der Heijden"]
-tags: [person, colonial-official, dutch, military, governor, colonial, aceh, atjeh, aceh-war, general, 19th-century, monument, achehnese-history, acheh, infantry, achehnese, atjeh-oorlog, 1878, 1879, colonel, 1876, knil]
+tags: [person, colonial-official, dutch, military, governor, colonial, aceh, atjeh, aceh-war, general, 19th-century, monument, achehnese-history, acheh, infantry, achehnese, atjeh-oorlog, 1878, 1879, colonel, 1876, knil, marechaussee]
 ---
 
 **General van der Heijden** was a Dutch military officer who served as **Governor of Acheh** from [[1877]] to [[1881]], and whose vigorous offensive campaigns through the Achehnese highlands first broke the spell of Dutch invincibility that had settled over the country after the disasters of [[1873]]–[[1876]]. He is one of the principal colonial figures of Snouck Hurgronje's Introduction to *The Achehnese*, where his governorship is treated as the decisive turn that ended the early defensive phase of the [[Achehnese War|Achehnese War]] and prepared the way for the systematic subjugation carried through under [[Joannes Benedictus van Heutsz|Joannes Benedictus van Heutsz]].
@@ -146,6 +146,12 @@ After the successful military operations of the two preceding years, Van der Hei
 ### Honourable dismissal, 1881
 
 Using the authorization granted the year before, the Governor-General determined by resolution of [[11 March]] [[1881]] that a chief official with the title of Governor should henceforth head the province; Lieutenant-General K. van der Heijden was by the same resolution honourably discharged from his function, and [[A. Pruijs van der Hoeven]] was appointed in his place, with Colonel [[J. F. Haus]] as military commandant, both taking office on [[6 April]] [[1881]]. Governor-General [[Johan Willem van Lansberge|Van Lansberge]] closed his letter to Van der Heijden on the introduction of the civil government with the words that thereby the crown was set upon the building "erected by the heroism and devotion of the Indian army under Your Excellency's vigorous leadership", offering him the expression of his appreciation and the thanks of the Government. Van der Heijden, handing over, had deemed the political state of the province "without exaggeration favourable"; the sequel, in which his successor's policy collapsed within three years, was summarized by [[E. B. Kielstra]]'s judgement that in Groot-Atjeh what had been won by the sword still had to be kept by the sword — "iets wat diezelfde ambtenaar niet inzag" ("something that the same official did not perceive") — a remark Langhout quotes in weighing the accusations cast at the first civil governor.
+
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* opens its historical section with Van der Heijden: "Nadat kort tevoren onder het bestuur van generaal K. van der Heyden de actie zich had uitgestrekt over de vallei van [[Groot-Atjeh]], werd op [[19 August]] [[1884]] tot de z.g. *[[Concentratiestelsel|concentratie]]* besloten en werden onze troepen tot defensieve houding gedwongen" — after the action had shortly before, under the administration of General K. van der Heyden, extended over the valley of Groot-Atjeh, on 19 August 1884 the so-called concentration was decided upon and the Dutch troops were forced into a defensive attitude.
+
+His name recurs in the account of the [[Samalanga expedition|excursion into the Samalangasche]], at which "het uit den tijd van generaal Van der Heyden beruchte [[Batee Ilie|Batee Iliek]] stormenderhand werd genomen" — the Batee Iliek made notorious in the time of General Van der Heyden was taken by storm.
 
 ## See Also
 
@@ -298,6 +304,11 @@ Using the authorization granted the year before, the Governor-General determined
 - [[Establishment of Civil Government in Aceh (6 April 1881)|Introduction of civil government in Atjeh (1881)]]
 - [[A. Pruijs van der Hoeven]]
 - [[Baiturrahman Grand Mosque|Missigit at Koeta Radja]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Concentratiestelsel]]
+- [[Samalanga expedition]]
+- [[Batee Ilie]]
 
 ## Sources
 
@@ -328,3 +339,5 @@ F. W. Stapel, *Geschiedenis van Nederlandsch-Indië*, p. 309 (cited in the same 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 9–12.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 38–43, 47, illustration caption p. 10 ("Meuseugit te Koeta-Radja, gebouwd op initiatief van Gouverneur Karel van der Heyden").
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

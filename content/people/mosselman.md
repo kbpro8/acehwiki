@@ -1,7 +1,7 @@
 ---
 title: "Mosselman"
-aliases: ["Sergeant Mosselman", "Brigadecommandant Mosselman", "Oud-brigadecommandant Mosselman", "W. J. Mosselman", "W. J. Mosselman Ridder 3e kl. M.W.O."]
-tags: [person, brigadecommandant, dutch, aceh, aceh-war, 20th-century, marechaussee, willemsorde, military, knil]
+aliases: ["Sergeant Mosselman", "Brigadecommandant Mosselman", "Oud-brigadecommandant Mosselman", "W. J. Mosselman", "W. J. Mosselman Ridder 3e kl. M.W.O.", "reserve-luitenant Mosselman", "oud-maréchaussée Mosselman"]
+tags: [person, brigadecommandant, dutch, aceh, aceh-war, 20th-century, marechaussee, willemsorde, military, knil, aviation, author, jubilee]
 description: "Vermaard oud-brigadecommandant of the Korps Maréchaussée, holder of the Willemsorde 3e klasse; on 25 October 1910 at the Kroeëng Peutoeë his brigade killed Tengkoe Sjech di Paja Bakong (Seupot Mata) and Tjoet Meuthia; later the baas of the mentally-ill korporaal Limbar; star of the wild-pig story with Willem van Leuven."
 ---
 
@@ -71,6 +71,34 @@ Mosselman later transferred to the flying service and was pensioned as *onderlui
 
 The pursuit of October [[1910]] is the fullest single narrative in du Croo's book of what *marechaussée* patrol work actually consisted of — tracking, hunger, exhaustion, improvisation against regulations — and its outcome, the deaths of Tgk. Sjeh di Paja Bakong and Tjoet Meutia a month after that of [[Pang Nanggròë]], effectively ended organised resistance in [[Keureutòë]].
 
+## Account from the Maréchaussée Jubileum-nummer ([[1930]]) — service record and memoir
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* carried both a portrait notice of Mosselman's career and his signed memoir *Herinnering van een oud-Maréchaussee*, one of the two extended first-person accounts in the issue.
+
+### Service record
+
+Born on [[8 September]] [[1884]], Mosselman entered military service on [[16 April]] [[1900]] as a soldier with the *Instructie-Bataljon* at Kampen, was promoted corporal on [[8 August]] of the same year, and transferred on [[8 September]] [[1907]] to the *Grenadiers en Jagers*. He passed the sergeant's examination in April [[1902]] and departed in that rank for the Indies in April [[1904]], serving with the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* from December [[1906]] to January [[1912]]. As sergeant of Maréchaussée he received the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 3rd class in [[1912]]; the *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records the award to *Eur. Sergt. Mar. W. J. Mosselman, Alg. Stb. No. 58330*. He then rose through the ranks to *onderluitenant*.
+
+In [[1916]] he transferred to the *[[Luchtvaart-Afdeeling (Netherlands Indies)|Luchtvaart-Afdeeling]]*, and belongs with the former captain of Artillery [[W. Leendertz]] to the first two Netherlands-Indies military aviators to obtain the *Internationaal vliegbrevet*. On his retirement in [[1922]] he was retained as reserve lieutenant for special services, and signed his memoir "W. J. Mosselman, reserve-luitenant der Infanterie."
+
+### The memoir
+
+The memoir opens with the corps song *[[Marechausseelied|O, marsausee]]*, whose refrain "Satoe mati, ganti sepoeloeh" he took as expressing the core of the old corps spirit — "de taaie vasthoudendheid van den terrier, de zorgelooze bereidheid tot het groote offer."
+
+He described entry into the corps as entirely voluntary, every supplementary requisition on the infantry carrying the words "geschikt en… genegen" — in which *genegen* implied the command's recognition that more would be asked of a *maréchaussée* than could be expected of the mass. Whoever could not give that "deed beter weg te blijven."
+
+He set out the corps's internal vocabulary borrowed from the Acehnese enemy — officers as *[[Oeleebalang|Oeleuhbalangs]]*, European non-commissioned officers as *Toekoes*, indigenous sergeants as *[[Panglima|Panglima's]]*, corporals as *[[Keuchi|Keutjih's]]* and the men as *[[Kawan (Maréchaussée)|Kawans]]* — for which see *[[Maréchaussée-vocabulaire]]*; and described the friction with the ordinary infantry, who called the corps "een zootje, een vrijgevochten bende" and sometimes refused it space inside their wire.
+
+He recalled his men by name — Kromodimedjo, Sarpan, Diroen, Patty, Wattimena, Limba, Wokas, Mamahit, Sengkey and Mioen — adding that the events of his later life had buried their names, "maar jelui gestalten, zij zijn niet bedolven." He recalled the family life of *brigade doea-blas* of the 1st and of the 5th Division, and narrated at length the [[Dwaaltocht in het Barisangebergte (Mosselman's account)|wandering march in the Barisan mountains]] in which his patrol nearly starved.
+
+### The passage on the forgotten veterans
+
+The most severe passage in the whole jubilee number is Mosselman's on the corps's disabled and pensioned indigenous veterans. Patched and repaired, sent from hospital to hospital, many had wasted away and found a quiet grave in the *dessa*, "zonder tromgeroffel en zonder salvo's" — without drum-roll and without volleys — forgotten and unrecognised by the Netherlands. For a while they had vegetated on a "hongerpensioentje" tossed to them for the sake of appearances; after offering their strength and lives on the altar of the community they had been carried off "als vergeten cadavers." "De Moor had zijn plicht gedaan, de Moor kon gaan" — the saying, he wrote, fitted here with painful literalness.
+
+He absolved the corps itself — "Ons Korps als zoodanig staat immers onschuldig aan jelui misère" — and laid the matter at the door of the community represented in the government: "een kwestie van dankbaarheid, van waardeering en, zooals ik ook wel heb hooren zeggen, een kwestie van Eereschuld." He nevertheless rejoiced with the serving men, because the gift of the *vaandel* meant "tenminste een ideëele erkenning, een ideëele belooning" of what "gij, roemvolle stakkers" had wrought.
+
+He added a reflection on his own responsibility: "zooals ik hun krachten nam en verspilde, zoo heb ik ook met de mijne gehandeld." In the end it was not he, their *Toekoe*, who had demanded it, "het was Nederland, het was de Maatschappij, die jelui opeischte" for the pioneer labour that had to precede the bringing of peace, order and prosperity to the Indies.
+
 ## See Also
 
 - [[Tengkoe Sjech di Paja Bakong]]
@@ -99,9 +127,17 @@ The pursuit of October [[1910]] is the fullest single narrative in du Croo's boo
 - [[Corps of Military Constabulary of Atjeh and Dependencies]]
 - [[H. C. Zentgraaff]]
 - [[H. N. A. Swart]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Dwaaltocht in het Barisangebergte (Mosselman's account)]]
+- [[Maréchaussée-vocabulaire]]
+- [[Luchtvaart-Afdeeling (Netherlands Indies)]]
+- [[W. Leendertz]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
 
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, pp. 98–101; Chapter XVII, p. 161.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

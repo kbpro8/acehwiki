@@ -1,7 +1,7 @@
 ---
 title: Christoffel
-aliases: [Christoffel, Toean Kristoppel, Corporal Christoffel, Kapitein Christoffel, Christoffel of de colonne matjan, commandant der colonne matjan, Christoffel marechaussée, apitan rimoeeng, Christoffel de tijger-kapitein, Christoffel Keureuto, Christoffel Paja Tjitjem]
-tags: [person, officer, dutch, knil, marechaussee, aceh, aceh-war, "20th-century", colonne-matjan, military, colonial, marechaussée, keureuto, lho-soekon, apitan-rimoeeng, tiger-captain]
+aliases: ["Christoffel", "Toean Kristoppel", "Corporal Christoffel", "Kapitein Christoffel", "Christoffel of de colonne matjan", "commandant der colonne matjan", "Christoffel marechaussée", "apitan rimoeeng", "Christoffel de tijger-kapitein", "Christoffel Keureuto", "Christoffel Paja Tjitjem", "Onderluit. Mar. H. Christoffel", "H. Christoffel"]
+tags: [person, officer, dutch, knil, marechaussee, aceh, aceh-war, 20th-century, colonne-matjan, military, colonial, marechaussée, keureuto, lho-soekon, apitan-rimoeeng, tiger-captain, honours, jubilee]
 ---
 **Christoffel** — *Toean Kristoppel* (in the Acehnese idiom of the old hunter [[Datoek]]), *kapitein Christoffel* — was a Dutch maréchaussée officer and commander of the ***[[Colonne Matjan]]*** (Tiger-Colonne) of the [[Korps Marechaussee van Atjeh en Onderhorigen]] in [[Atjeh|Aceh]], selected in [[1908]] to form the special twelve-brigade division raised to break the revolt spreading from [[Lho Soekon]], [[Keureutoe]], and Pasé. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Christoffel is the fourth-named in [[Musket]]'s list of the Marechaussee commanders, and the first of the *sobat kras* (heavy friends) whom [[Datoek]] names — "I was a 'heavy friend' with Toean Kristoppel" — noting that Christoffel was, in Datoek's time, still a corporal. He was chosen, [[H.C. Zentgraff|Zentgraff]] writes, as a man *hard en ongenadig als een rots* (hard and merciless as a rock), who would receive *eene vrijwel onbeperkte volmacht* (an almost unrestricted mandate) and would, *ten koste van wat dan ook* (at whatever cost), restore order with *uiterste gestrengheid* (utmost severity).
 
@@ -48,6 +48,14 @@ The hill-country of Keureuto was difficult to reach, because the resistance *'zi
 
 Christoffel is one of the last of the *marechaussée*-captains of the Atjehnese hill-country, and his nickname *apitan rimoeeng* — *tiger-captain* — places him in the same series as the *'tijger van Atjeh'* [[G. C. E. van Daalen|Van Daalen]] himself. The expedition of about [[1908]] is one of the last significant military actions of the post-pacification period, undertaken in a region whose geography — the great swamp and the hills — gave the insurgents a refuge from which only the *marechaussée* could dislodge them.
 
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records under [[1904]] the award to *Onderluit. Mar. H. Christoffel, Alg. Stb. No. 22174* of the knight's cross of the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 3rd class. A portrait notice in the same issue styles him *Kapitein H. Christoffel*, "als onderluitenant der Maréchaussée in 1904 onderscheiden met het ridderkruis der M. W. O. derde-klasse."
+
+He was one of the very few *onderluitenants* to receive that class: the editors noted that the 3rd class had in total been granted to only eleven members of the corps — five officers, one *onderluitenant*, four sergeants and one soldier, the last being the well-known [[Nussy]].
+
+Colonel [[C. A. Snell|L. A. Snell]], interviewed in the same issue, recalled him among the old *vuurvreters* as "den onverzettelijken Christoffel" — the unyielding Christoffel.
+
 ## See Also
 
 - [[1908]]
@@ -73,6 +81,11 @@ Christoffel is one of the last of the *marechaussée*-captains of the Atjehnese 
 - [[Tjimahi]]
 - [[Van der Vlerk]]
 - [[Verkenningen in Atjeh (1923)]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[C. A. Snell]]
+- [[Nussy]]
+- [[Militaire Willemsorde]]
 
 ## Sources
 
@@ -81,3 +94,5 @@ Christoffel is one of the last of the *marechaussée*-captains of the Atjehnese 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter VIII, *'Lho Soekon, licht en donker'*, p. 55.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

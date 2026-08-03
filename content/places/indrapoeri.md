@@ -1,7 +1,7 @@
 ---
 title: "Indrapoeri"
 aliases: ["Indrapoeri", "Indrapuri", "Indrapoera", "Misigit Indrapoeri", "Indrapoeri (main place XXII Moekims)"]
-tags: [place, centre, strategic, aceh, aceh-war, 19th-century, 20th-century]
+tags: [place, centre, strategic, aceh, aceh-war, 19th-century, 20th-century, marechaussee]
 ---
 
 **Indrapoeri** (also spelled [[Indrapuri]] or [[Indrapoera]]) was the main place (capital) of the [[XXII Moekims]]—the territory ruled by [[Panglima Polim]]—and served as both the administrative centre and a key strategic point during the [[Aceh War]] ([[1873]]–[[1903]]).
@@ -18,6 +18,12 @@ The Dutch recognised that controlling [[Indrapoeri]] did not mean controlling th
 
 Only the sustained active campaign led by [[Joannes Benedictus van Heutsz|Van Heutsz]] from [[1898]]—advancing from [[Pedir]] through the [[VII Moekims]] and directly into the heart of the [[XXII Moekims]]—finally broke the resistance that [[Indrapoeri]] had symbolised for more than two decades.
 
+## Maréchaussée station ([[1898]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records the localisation of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* in [[1898]]: Staff at [[Koeta Radja]]; 1st Division at [[Selimoen]]; 2nd Division at [[Indrapoeri]]; 3rd Division at [[Tjot Mantjang]] and [[Glé Broet]]; 4th Division at [[Tjot Goet]]; 5th Division at [[Lam Baroe]] and [[Lok Nga|Lho'-Nga]]. Indrapoeri was the station of the 2nd Division.
+
+By [[1910]] the corps had been redistributed to [[Blang Kedjeren]], [[Malaboeh|Meulaboh]], [[Takengeun|Takèngan]], [[Lam Meulo]] and [[Lho Soekon]].
+
 ## See Also
 
 - [[XXII Moekims]]
@@ -28,7 +34,12 @@ Only the sustained active campaign led by [[Joannes Benedictus van Heutsz|Van He
 - [[Groot-Atjeh]]
 - [[Pidië Expedition]]
 - [[Concentrated Line]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Divisie (Maréchaussée)]]
 
 ## Source
 
 *Het einde van den Atjeh Oorlog* (Overprintken uit de *Evening Post* van 25, 26 en 27 Augustus 1903, pp. 5-8, 10-11); Somer, Dr. J. M. *Het Atjeh-probleem van 1890-1900* (Overprint uit *Journal / Organ van de Netherlands-Indies Officers Association*, [1935], pp. 4-7); Damste, H. T. "Atjeh-historie," *Koloniaal Tijdschrift* 1916.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

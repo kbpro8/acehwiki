@@ -1,7 +1,7 @@
 ---
 title: "Blang Kédjérèn"
 aliases: ["Blang Kejeren", "De Blang", "Blangkedjeren"]
-tags: [place, gayo, highland, military-post, aceh, administration, garrison]
+tags: [place, gayo, highland, military-post, aceh, administration, garrison, marechaussee]
 ---
 
 **Blang Kédjérèn** is the subdistrict headquarters-town and former subdistrict in the [[Gajó Loeós|Gajó Loeós]] highlands of Central Atjèh. It was both a remote military post of the [[Korps Marechaussee van Atjeh en Onderhorigen]] — one of the most *afgelegen* (remote) posts of the colonial army, "enige dagen lopens het binnenland in" (some days' walk into the interior) — and the seat of the last Dutch defensive position in northern Sumatra, which capitulated to the Japanese on [[28 March]] [[1942]].
@@ -46,6 +46,12 @@ Blang Kédjérèn stands at the intersection of two chapters in Acehnese colonia
 
 In September [[1909]], the situation being at its most unfavourable, the infantry garrison of Blang Kedjerèn was replaced by *[[Corps of Military Constabulary of Atjeh and Dependencies|marechaussée]]* — the 1st Division under captain [[W. Muurling]] — while a mobile column of three brigades under [[Kaniess]] was sent to the western part of the sub-division. At the end of November [[H. N. A. Swart]] visited the district and could already visit *[[gampong]]s* two hours from Blang Kedjerèn without military escort. Jhr. [[J. J. Boreel]] served as Civil Authority at Blang Kedjeren, as did captain [[W. Muurling]].
 
+## Maréchaussée station ([[1910]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records the stations assigned to the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* in [[1910]]: 1st Division at [[Blang Kedjeren]]; 2nd Division at [[Malaboeh|Meulaboh]]; 3rd Division at [[Takengeun|Takèngan]]; 4th Division at [[Lam Meulo]]; and 5th Division at [[Lho Soekon]], "zooals zij ook thans nog gelegerd is" — where it was still quartered at the time of the [[1930]] jubilee. Blang Kedjeren was the station of the 1st Division.
+
+Earlier, in [[1898]], the corps had been localised with its Staff at [[Koeta Radja]] and its divisions at [[Selimoen]], [[Indrapoeri]], [[Tjot Mantjang]] and [[Glé Broet]], [[Tjot Goet]], and [[Lam Baroe]] and [[Lok Nga|Lho'-Nga]].
+
 ## See Also
 
 - [[1e Divisie Marechaussee uit Blang Kedjeren]]
@@ -69,6 +75,9 @@ In September [[1909]], the situation being at its most unfavourable, the infantr
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Divisie (Maréchaussée)]]
 
 ## Source
 
@@ -77,3 +86,5 @@ In September [[1909]], the situation being at its most unfavourable, the infantr
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapter "Dominee Thenu."
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

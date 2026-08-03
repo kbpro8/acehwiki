@@ -50,6 +50,7 @@ tags:
 - 19th-century
 - rijstbouw
 - lho-soekon
+- marechaussee
 description: Bivak and post in the Lho Seumawé area, seat of the civiel-gezaghebber
   Schouten, the division command, and the centre of resistance of Pang Nanggroë; the
   graves of Pang Nanggroë and Pang Lateh lie behind the keudé in kandangs.
@@ -146,6 +147,12 @@ In [[1917]] a leper at Lho' Soekon murdered the *officier van gezondheid* [[J. P
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 9 (Situation Before Worldwar II).
 *De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 9.
 
+## Maréchaussée station ([[1910]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records the stations assigned to the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* in [[1910]]: 1st Division at [[Blang Kedjeren]]; 2nd Division at [[Malaboeh|Meulaboh]]; 3rd Division at [[Takengeun|Takèngan]]; 4th Division at [[Lam Meulo]]; and 5th Division at [[Lho Soekon]], "zooals zij ook thans nog gelegerd is" — where it was still quartered at the time of the [[1930]] jubilee. Lho' Soekon was the station of the 5th Division.
+
+Earlier, in [[1898]], the corps had been localised with its Staff at [[Koeta Radja]] and its divisions at [[Selimoen]], [[Indrapoeri]], [[Tjot Mantjang]] and [[Glé Broet]], [[Tjot Goet]], and [[Lam Baroe]] and [[Lok Nga|Lho'-Nga]].
+
 ## See Also
 
 - [[1905]]
@@ -214,6 +221,9 @@ In [[1917]] a leper at Lho' Soekon murdered the *officier van gezondheid* [[J. P
 - [[Pepercultuur]]
 - [[De Rijkdom van Atjeh (1923)]]
 - [[1923]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Divisie (Maréchaussée)]]
 
 ## Source
 
@@ -224,3 +234,5 @@ In [[1917]] a leper at Lho' Soekon murdered the *officier van gezondheid* [[J. P
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter VIII, *'Lho Soekon, licht en donker'*, pp. 52–58.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, pp. 94–101; Chapter XI, p. 105; Chapter XII, pp. 117–121.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

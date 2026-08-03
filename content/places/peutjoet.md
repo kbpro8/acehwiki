@@ -1,7 +1,7 @@
 ---
 title: "Peutjoet"
-aliases: ["Peutjot", "Peucut", "Peutjot cemetery", "the Eik en Duinen of Aceh", "Aceh cemetery", "Kuta Alam cemetery", "heroes cemetery", "kerkhof te Peutjot", "kerkhof bij Kotaradja", "Kerkhof Petjoet", "Petjoet cemetery", "the cemetery of Petjoet at Koeta Radja", "Petjoet"]
-tags: [place, cemetery, memorial, military, colonial, aceh, koeta-radja, knil, dutch, war-graves, achehnese-history, aceh-war]
+aliases: ["Peutjot", "Peucut", "Peutjot cemetery", "the Eik en Duinen of Aceh", "Aceh cemetery", "Kuta Alam cemetery", "heroes cemetery", "kerkhof te Peutjot", "kerkhof bij Kotaradja", "Kerkhof Petjoet", "Petjoet cemetery", "the cemetery of Petjoet at Koeta Radja", "Petjoet", "Kerkhof Peutjoet", "Kerkhof te Peutjoet", "doodenakker van Peutjoet"]
+tags: [place, cemetery, memorial, military, colonial, aceh, koeta-radja, knil, dutch, war-graves, achehnese-history, aceh-war, marechaussee]
 ---
 
 **Peutjoet** — also *Peutjot*, *Peucut* — is the military cemetery of [[Koeta-Radja]] in [[Atjeh|Aceh]], at which [[Dominee Thenu]] is buried "temidden van zovelen, die hij voorbereid had op die laatste gang daarheen" — among the many whom he had prepared for that last journey there. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Peutjoet is called the "Eik en Duinen" of Aceh — *Eik en Duinen* being the famous cemetery in The Hague — the place where a brave man was carried to his last resting-place, and where [[Dominee Thenu|Dominee Thenu]] was regularly present. The cemetery was primarily intended for Dutch soldiers and officers who fell during the various expeditions in Atjeh; the names of the dead are recorded in the stone walls at the entrance to the cemetery.
@@ -68,6 +68,20 @@ Beuming writes of Pastoor Verbraak that many sons of the Netherlands who then re
 
 At the burial [[H. N. A. Swart]] delivered the funeral oration, "and then, perhaps for the first time in all those hard Atjeh years, Swart lost mastery of his nerves… the address had to be broken off." [[I. Feenstra]] wrote in [[1918]] of "the memorial gate of the fallen" and of "the marble shields on the gate of Peutjoet [which] are history and do not lie!" General [[Köhler]], the first Dutch general to fall in Atjeh, was killed in [[1873]] at Koeta Radja by the *[[missigit]]*, "a few hundred metres from his grave."
 
+## Account from the Maréchaussée Jubileum-nummer ([[1930]]) — the Kerkhof te Peutjoet
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* describes the *Kerkhof te Peutjoet* — the military cemetery at Peutjoet near [[Koeta Radja]] — as the resting place of many of the dead of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]*, and as the site before which the corps's [[Uitreiking van het vaandel aan het Korps Maréchaussée (2 April 1930)|colour was to be presented]] on [[2 April]] [[1930]].
+
+"Over geheel Atjeh liggen de graven dier dapperen verspreid" — over the whole of Atjeh the graves of those brave men lie scattered — but many rested at Peutjoet, "wier namen in den muur zijn gebeiteld als een stille, doch sprekende hulde aan hun nagedachtenis," their names chiselled into the wall as a silent but eloquent tribute.
+
+The editors wrote of it in elevated terms: "de doodenakker van Peutjoet is een epos, waarvan de grootsche handeling is de vestiging en bevestiging van het Nederlandsch Gezag, een stuk gewijde grond, hetwelk niet dan met ontroering kan worden betreden. Daar ligt de geschiedenis van den [[Atjeh-oorlog|Atjeh-oorlog]] beschreven, de historie eener lange worsteling, waarin de Maréchaussée de meest-eervolle plaats heeft ingenomen."
+
+### The busts
+
+Busts of four officers of the corps adorned the cemetery "als zoovele symbolen van moed, beleid en trouw" — the words engraved on the knight's cross of the *[[Militaire Willemsorde|Militaire Willems-Orde]]*: [[Overste Scheepens|Scheepens]], [[Darlang]], [[H. M. Vis|Vis]] and [[Webb]].
+
+In the period [[1890]]–[[1930]] approximately 950 members of the corps fell on the field of battle and about 250 were wounded; most of the deaths occurred during the *[[Patrouille (Maréchaussée)|patrouilles]]*.
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -104,6 +118,11 @@ At the burial [[H. N. A. Swart]] delivered the funeral oration, "and then, perha
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Uitreiking van het vaandel aan het Korps Maréchaussée (2 April 1930)]]
+- [[Kerkhof Peutjoet]]
+- [[Koeta Radja]]
 
 ## Source
 
@@ -118,3 +137,5 @@ At the burial [[H. N. A. Swart]] delivered the funeral oration, "and then, perha
 *Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XII, XVI.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

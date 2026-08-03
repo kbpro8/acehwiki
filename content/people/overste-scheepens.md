@@ -10,6 +10,7 @@ aliases:
 - Majoor Scheepens
 - Kolonel Scheepens
 - Kapitein Scheepens
+- Kapt. Mar. W. B. J. A. Scheepens
 tags:
 - person
 - officer
@@ -26,6 +27,8 @@ tags:
 - peutjoet
 - sigli
 ---
+- honours
+- jubilee
 
 **Overste Scheepens** — *Toean Scheepens* in the Acehnese idiom of the old hunter [[Datoek]] — was a Dutch *overste* (colonel) of the [[K.N.I.L.]] and a Marechaussee commander of the [[Korps Marechaussee van Atjeh en Onderhorigen]] in [[Atjeh|Aceh]]. He appears in two distinct roles in the sources: as one of the great patrol commanders of the war, sixth-named in [[Musket]]'s list of the Marechaussee commanders in *[[Oost-Indisch Journael]]*; and as the *overste* wounded by an Acehnese during a *rechtzitting* (court session) in [[1913]] who died of his wounds twenty years later in [[1933]], as recorded in *[[Oom Ambon van het K.N.I.L.]]*.
 
@@ -109,6 +112,17 @@ The case remained the classic Dutch illustration of how even an Acehnese *landsc
 ## Sources
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records two awards to Scheepens:
+
+- [[1897]] — the *[[Eeresabel]]*, as *Kapt. Mar.*
+- under the separate heading **Gajo- en Alaslanden** — the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 3rd class, as *Kapt. Mar.*, together with the 4th class to *1ste Luit. Mar.* [[P. A. H. Holten]]. The awards relate to the operations following [[Van Daalen's Gajo-Alas-Batak expedition (1904)|Van Daalen's march]] of [[1904]] and the [[Dempen van den opstand in de Gajo- en Alaslanden (1905)|revolt of 1905]].
+
+Colonel [[C. A. Snell|L. A. Snell]] named him first among the old *vuurvreters* he remembered — "den zoo beminden Scheepens," the much-loved Scheepens.
+
+A bust of Scheepens adorned the *[[Kerkhof Peutjoet]]* near [[Koeta Radja]], with those of [[Darlang]], [[H. M. Vis|Vis]] and [[Webb]], "als zoovele symbolen van moed, beleid en trouw" — as so many symbols of courage, conduct and fidelity, the words engraved on the knight's cross of the Militaire Willems-Orde.
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -155,6 +169,11 @@ The case remained the classic Dutch illustration of how even an Acehnese *landsc
 - [[1904]]
 - [[Queen Wilhelmina]]
 - [[Aceh War]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[C. A. Snell]]
+- [[Kerkhof Peutjoet]]
+- [[P. A. H. Holten]]
 
 ## Source
 
@@ -165,3 +184,5 @@ The case remained the classic Dutch illustration of how even an Acehnese *landsc
 **Overste Scheepens** — *Toean Scheepens* in the Acehnese idiom of the old hunter [[Datoek]] — was a Dutch *overste* (colonel) of the [[K.N.I.L.]] and a Marechaussee commander of the [[Korps Marechaussee van Atjeh en Onderhorigen]] in [[Atjeh|Aceh]]. He appears in two distinct roles in the sources: as one of the great patrol commanders of the war, sixth-named in [[Musket]]'s list of the Marechaussee commanders in *[[Oost-Indisch Journael]]*; and as the *overste* wounded by an Acehnese during a *rechtzitting* (court session) in [[1913]] who died of his wounds twenty years later in [[1933]], as recorded in *[[Oom Ambon van het K.N.I.L.]]*.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XII, pp. 119–121; Chapter XIV, pp. 139–141; Chapter XV, p. 145.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

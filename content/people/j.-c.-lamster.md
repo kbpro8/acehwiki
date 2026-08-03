@@ -1,7 +1,7 @@
 ---
 title: "J. C. Lamster"
-aliases: ["Lamster", "J. C. Lamster (auteur)"]
-tags: [person, dutch, author, colonial, aceh, historian, 20th-century]
+aliases: ["Lamster", "J. C. Lamster (auteur)", "J. C. Lamster", "1ste Luit. Mar. J. C. Lamster"]
+tags: [person, dutch, author, colonial, aceh, historian, 20th-century, marechaussee, honours]
 ---
 
 **J. C. Lamster** was the Dutch author whose writings on [[Atjeh]] and on [[Joannes Benedictus van Heutsz|van Heutsz]] supplied [[Maurice Henri du Croo|du Croo]] with the framework of two chapters of *[[General Swart, Pacifier of Atjeh (1943)|Generaal Swart]]*: the description of van Heutsz's operational method and the survey of the pacifying administrative work of [[1908]]–[[1918]].
@@ -27,6 +27,10 @@ On method he wrote: "In entirely new districts, consultation was first held with
 
 Lamster also recorded [[Joannes Benedictus van Heutsz|van Heutsz]]'s solution of the teacher problem for *[[volksonderwijs]]*, quoted at length by du Croo.
 
+## Entry in the Maréchaussée register of honours ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records under [[1905]] the award to *1ste Luit. Mar. J. C. Lamster* of the knight's cross of the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 4th class, together with *Kapts. Mar.* [[Van der Maaten|K. van der Maaten]] and [[M. W. E. van Bloemen Waanders]].
+
 ## See Also
 
 - [[Maurice Henri du Croo]]
@@ -35,7 +39,12 @@ Lamster also recorded [[Joannes Benedictus van Heutsz|van Heutsz]]'s solution of
 - [[Gotfried Coenraad Ernst van Daalen]]
 - [[Volksonderwijs in Atjeh]]
 - [[Haagsch Maandblad]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Militaire Willemsorde]]
 
 ## Source
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, p. 19; Chapter XIII, pp. 130–134; List of works consulted, p. 177.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

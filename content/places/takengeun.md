@@ -47,6 +47,7 @@ tags:
 - sub-division
 - meergebied
 ---
+- marechaussee
 
 **Takengeun** — also Takengon (modern Indonesian), Takingeun in the spelling of the *[[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]* — is a town in the [[Gajolanden|Gayo Lands]] of [[Atjeh|Aceh]], on Laut Tawar (the lake of Takengeun), at the southern terminus of the [[Gajoweg]] — 103 km south of [[Bireuën]]. In *[[Oost-Indisch Journael]]* by Merac ([[1947]]), Takengeun is the destination of the lieutenant's journey through Aceh: the beautiful lake in the Gajolanden at the end of the Gajoweg. The town is also the place where the old hunter [[Datoek]] settled permanently in [[1917]] — "Previously I had often made journeys to Takengeun." In the [[1930]] compilation of *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Takingeun appears as an *onderafdeeling* of the afdeeling [[Gayo- en Alaslanden|Gajo- en Alaslanden]] in the interior highlands of [[Atjeh|Atjeh en Onderhoorigheden]], seat of the *zelfbesturende landschappen* whose *oeleebalang* collectively issued the *alang-alang en dennenbosschen-verordening* of [[20 May]] [[1924]] (Reg. No. 22) — the only regulation in the 1930 compilation dealing with pine-forest (*dennenbosschen*) protection — and the *uitvoeringszelfbestuursbesluit* of [[1 October]] [[1926]] for the *Pantjang Alas* in Takingeun (Reg. No. 4c), the most-detailed operational supplement in the *Pantjang Alas* regime.
 
@@ -85,6 +86,12 @@ A third Takingeun-seated regulation — Reg. No. 6, the *Zelfbestuursverordening
 ### Significance (Zelfbestuursverordeningen account)
 
 Takingeun's significance in the 1930 compilation rests on its being the originating seat of the only *dennenbosschen* (pine-forest) regulation in the compilation — Reg. No. 22 of [[20 May]] [[1924]], the only regulation protecting the *Pinus merkusii* forests of the Gayo/Alas highlands; the originating seat of the most-detailed operational supplement in the *Pantjang Alas* regime — Reg. No. 4c of [[1 October]] [[1926]]; the originating seat of the *vee-uitvoerheffing* for the *gebied van Rädjö Boekét* (Reg. No. 6) — the clearest single illustration in the compilation of a *zelfbestuursverordening* expressly abolishing an earlier *adat* levy; and the demonstration — through its highland location in the *afdeeling Gajo- en Alaslanden*, its collective signatory clause, and its recurrent role as the originating seat of regulations whose parallel *regelingen* extend to the other highland *onderafdeelingen* — of the highland Gayo country's status as a distinct regulatory subsystem within the Gouvernement, with Takingeun as its operational centre.
+
+## Maréchaussée station ([[1910]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records the stations assigned to the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* in [[1910]]: 1st Division at [[Blang Kedjeren]]; 2nd Division at [[Malaboeh|Meulaboh]]; 3rd Division at [[Takengeun|Takèngan]]; 4th Division at [[Lam Meulo]]; and 5th Division at [[Lho Soekon]], "zooals zij ook thans nog gelegerd is" — where it was still quartered at the time of the [[1930]] jubilee. Takèngan was the station of the 3rd Division.
+
+Earlier, in [[1898]], the corps had been localised with its Staff at [[Koeta Radja]] and its divisions at [[Selimoen]], [[Indrapoeri]], [[Tjot Mantjang]] and [[Glé Broet]], [[Tjot Goet]], and [[Lam Baroe]] and [[Lok Nga|Lho'-Nga]].
 
 ## See Also
 
@@ -156,6 +163,9 @@ Takingeun's significance in the 1930 compilation rests on its being the originat
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Divisie (Maréchaussée)]]
 
 ## Sources
 
@@ -168,3 +178,5 @@ Takingeun's significance in the 1930 compilation rests on its being the originat
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters XI–XII, *'De Gajo-weg en zijn landschap'* and *'In het hart van Gajo-land'*, pp. 77–87.
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XII, XV.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

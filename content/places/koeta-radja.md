@@ -1,7 +1,7 @@
 ---
 title: "Koeta-Radja"
 aliases: ["Kuta Raja", "Kutaraja", "Kutaraja (Banda Aceh)", "Banda Aceh", "Kota Radja", "Kotaradja", "Kota Raja", "capital of Atjeh", "Koetaradja", "Kutaradja", "Kota Radja (Atjeh)", "Banda Acheh", "Bandah Acheh", "Bandar Aceh", "the Kutaradja of the Dutch concentration", "Banda Atjeh", "Banda", "Banda-Acheh", "Bandar Acheh", "Acheh capital", "Capital of Acheh", "Kota Acheh", "hoofdplaats Atjeh", "Acheen capital", "Koeta Radja", "Koetaraja", "Kraton", "Kota-Radja", "Kraton (Koeta Radja)", "Keraton", "Sultan's palace", "Kota Radja Atjeh", "Kotta-Radja", "Kuta Radja", "Kotja-Radja", "Atjeh's chief place", "Bandjar (Banda Aceh)", "Bandjar", "Kota Raoja", "Koeta-Radja", "Banda Aceh (historical Koeta Radja)"]
-tags: [place, city, capital, aceh, sumatra, colonial, colonial-capital, government-seat, achehnese-history, hoofdplaats, atjeh, administrative-center, town, acheh, fortified, headquarters, groot-atjeh, 20th-century, aceh-proper, coast, achehnese, concept, dutch, sultanate, military, kraton, van-heutsz, van-daalen, sabang, oelèë-lheue, museum, atjeh-instituut, dutch-colonial, 19th-century, aceh-war, military-base, koetaradja, administration]
+tags: [place, city, capital, aceh, sumatra, colonial, colonial-capital, government-seat, achehnese-history, hoofdplaats, atjeh, administrative-center, town, acheh, fortified, headquarters, groot-atjeh, 20th-century, aceh-proper, coast, achehnese, concept, dutch, sultanate, military, kraton, van-heutsz, van-daalen, sabang, oelèë-lheue, museum, atjeh-instituut, dutch-colonial, 19th-century, aceh-war, military-base, koetaradja, administration, marechaussee]
 description: "Kota Radja (also Kotaradja, Koeta-Radja; modern Banda Aceh) was the capital of the Dutch Gouvernement Atjeh en Onderhoorigheden and the principal city of Atjeh. By 1926 it served as the starting point for automobile travel across Sumatra to Padang, symbolising the transformation of transport infrastructure following the pacification."
 ---
 
@@ -195,6 +195,12 @@ The submission of [[Teukoe Oemar]] ([[30 September]] [[1893]]) ushered in prospe
 ### Institutional centre
 
 Under Governor [[H. N. A. Swart]] the town acquired: a Hollandsch-Indlandsche school ([[1915]]), a Hollandsch-Chineesche school ([[1918]]), an Ambonese school ([[1911]], nearly 400 pupils by 1918), a neutral fröbel-school (1915) and a native trade school ([[1916]]); the [[Groot-Atjehsche Afdeelingsbank]] (September [[1908]]) and the annual agricultural exhibitions; the [[Atjeh Museum]] (opened 1915 in the rebuilt [[Semarang]] exhibition pavilion); offices of Medan houses; and the agency of the [[Javasche Bank te Koetaradja|Javasche Bank]] (opened [[2 December]] [[1918]], first stone laid by Swart), joined by the premises of the [[Nieuwsblad voor Atjeh en Onderhoorigheden|Atjeh press]] on the Peunajoengsingel (1903) and the Sociëteitsweg (1914), the [[Nederlandsche Handel-Maatschappij|NHM]] office (1904–1905, photo in the book), the [[Atjehsche Handelmaatschappij]] head office, and the [[Economische Vereeniging te Koeta Radja]] ([[1919]]). Governor [[Van Sluys|A. G. H. van Sluys]] held his officials' conferences here (September [[1921]] with self-governing rulers attending), and from [[1922]] his new regulation for the local funds gave the town a kind of municipality in embryo. By [[1923]] Koeta Radja could be reached by car from [[Medan]] and by train from the East Coast of Sumatra — a through connection of 510 kilometres (see [[Atjeh Tram]]).
+
+## Maréchaussée staff station and jubilee site
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records that in [[1898]] the Staff of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* was quartered at Koeta Radja, its divisions lying at [[Selimoen]], [[Indrapoeri]], [[Tjot Mantjang]] and [[Glé Broet]], [[Tjot Goet]], and [[Lam Baroe]] and [[Lok Nga|Lho'-Nga]]. When the corps was enlarged by *Gouvernementsbesluit* of [[3 March]] [[1899]] to 20 officers and 1,212 men, its military administration was placed under a field officer, "en daarvoor werd aldra aangewezen de plaatselijk Commandant te Koeta-Radja" — for which the local commandant at Koeta Radja was soon designated.
+
+Koeta Radja was also the site of the corps's fortieth-anniversary celebration on [[2 April]] [[1930]]: the [[Uitreiking van het vaandel aan het Korps Maréchaussée (2 April 1930)|presentation of the colour]] was to take place before the *[[Kerkhof Peutjoet|Kerkhof te Peutjoet]]* near the town, and a deputation travelled there from [[Java]] on board the *[[Tasman (ship)|Tasman]]*.
 
 ## See Also
 
@@ -432,6 +438,10 @@ Under Governor [[H. N. A. Swart]] the town acquired: a Hollandsch-Indlandsche sc
 - [[Atjeh Tram]]
 - [[Government of Atjeh en Onderhoorigheden]]
 - [[Atjeh Museum]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Kerkhof Peutjoet]]
+- [[Uitreiking van het vaandel aan het Korps Maréchaussée (2 April 1930)]]
 
 ## Sources
 
@@ -480,3 +490,5 @@ Under Governor [[H. N. A. Swart]] the town acquired: a Hollandsch-Indlandsche sc
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 19–23.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 31–33, 42, 47, 50–52, 61, 66–67, 70–71, 87, 111, 119, 124, illustration captions pp. 17, 44, 129, 177, 183, 191, 194.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

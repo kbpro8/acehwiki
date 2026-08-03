@@ -1,7 +1,7 @@
 ---
 title: Malaboeh
 aliases: [Malaboeh, Meulaboh, Mala Boe, Malaboeh on the Westkust]
-tags: [place, coast-state, acehnese, aceh-war]
+tags: [place, coast-state, acehnese, aceh-war, marechaussee]
 ---
 
 **Malaboeh** (modern Meulaboh) was a coast-state on the west coast of [[Acheh|Atjeh]], one of the principal centres of Dutch authority on the Westkust and the chief place of the assistant-residency of the [[Westkust van Atjeh|Westkust van Atjeh]] under the [[Establishment of Civil Government in Aceh (6 April 1881)|administrative reorganisation of March 1881]]. The Dutch established a fortified post at Malaboeh in [[April 1877|April 1877]], but the post was repeatedly attacked by the population under the hostile eldest son of the radja, and expeditions were necessary in [[May 1877|May 1877]] and [[June 1877|June 1877]] to punish the kampong [[Merbau|Merbau]] and to defend the establishment.
@@ -14,6 +14,12 @@ In the same month [[April 1877|April 1877]] as the [[Bombardment of Loöng (Apri
 
 In accordance with the [[Establishment of Civil Government in Aceh (6 April 1881)|administrative reorganisation of March 1881]], Malaboeh became the chief place of the assistant-residency of the [[Westkust van Atjeh|Westkust van Atjeh]], one of the three assistant-residencies of the gewest Atjeh en Onderhoorigheden. To the landscapes belonging to this afdeeling, however, self-government was left; only in [[Groot-Atjeh|Groot-Atjeh]] was direct Dutch administration introduced.
 
+## Maréchaussée station ([[1910]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records the stations assigned to the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* in [[1910]]: 1st Division at [[Blang Kedjeren]]; 2nd Division at [[Malaboeh|Meulaboh]]; 3rd Division at [[Takengeun|Takèngan]]; 4th Division at [[Lam Meulo]]; and 5th Division at [[Lho Soekon]], "zooals zij ook thans nog gelegerd is" — where it was still quartered at the time of the [[1930]] jubilee. Meulaboh was the station of the 2nd Division.
+
+Earlier, in [[1898]], the corps had been localised with its Staff at [[Koeta Radja]] and its divisions at [[Selimoen]], [[Indrapoeri]], [[Tjot Mantjang]] and [[Glé Broet]], [[Tjot Goet]], and [[Lam Baroe]] and [[Lok Nga|Lho'-Nga]].
+
 ## See Also
 
 - [[Loöng]]
@@ -22,7 +28,12 @@ In accordance with the [[Establishment of Civil Government in Aceh (6 April 1881
 - [[Johan Willem van Lansberge|J. W. van Lansberge]]
 - [[Establishment of Civil Government in Aceh (6 April 1881)]]
 - [[Aceh War]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Divisie (Maréchaussée)]]
 
 ## Source
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 88, 114.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

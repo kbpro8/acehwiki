@@ -1,7 +1,7 @@
 ---
 title: "Korps Marechaussee van Atjeh en Onderhorigen"
-aliases: ["Korps Marechaussee", "Atjeh Marechaussee", "Manisee corps", "Marsosé corps", "Korps Marechaussee van Atjeh en Celebes", "Marechaussee in Aceh", "Marechaussée in Atjeh", "Corps of Military Constabulary of Atjeh and Dependencies", "marechaussee", "Corps of Marechaussee", "Korps Marechaussée", "het dappere korps Marechaussée", "Marechaussée", "Corps of Marechaussee of Atjeh"]
-tags: [organization, military-corps, knil, aceh, ambonese, military, dutch, colonial, aceh-war, 19th-century, 20th-century, police]
+aliases: ["Korps Marechaussee", "Atjeh Marechaussee", "Manisee corps", "Marsosé corps", "Korps Marechaussee van Atjeh en Celebes", "Marechaussee in Aceh", "Marechaussée in Atjeh", "Corps of Military Constabulary of Atjeh and Dependencies", "marechaussee", "Corps of Marechaussee", "Korps Marechaussée", "het dappere korps Marechaussée", "Marechaussée", "Corps of Marechaussee of Atjeh", "Korps Maréchaussée te voet in Atjeh en Onderhoorigheden", "De Atjehsche Garde", "Atjehsche Garde", "the Atjehnese Guard"]
+tags: [organization, military-corps, knil, aceh, ambonese, military, dutch, colonial, aceh-war, 19th-century, 20th-century, police, jubilee, vaandel, 1930]
 ---
 
 **The Korps Marechaussee van Atjeh en Onderhorigen** was the elite *Marechaussee* (military police / light infantry) corps of the [[K.N.I.L.]] raised for counter-insurgency work in [[Atjeh|Aceh]] and its dependencies — the corps whose soldiers were known to themselves and to the Acehnese as *[[Manisee (Manisé)|Manisee]]* or *[[Manisee (Manisé)|Marsosé]]*, whose *[[Marechausseelied]]* and *[[Korpslied van de Marechaussee|korpslied]]* were composed by [[Dominee Thenu]], and whose *[[dardanellen|dardanellen]]* (point-men), *[[bekas]]* (spoorzoekers) and *[[bivak]]* (camp) culture are the principal subject of *[[Oom Ambon van het K.N.I.L.]]*. The corps was the instrument by which the [[Atjeh-oorlog|Aceh War]] was militarily finished — by the method of small, highly trained patrouilles operating with local intelligence against a religiously motivated resistance — and the institutional home of the book's named Ambonese soldiers: [[Nussy]], [[Thijs de Fretes]], [[Tanamal]], [[Salawono]] and the rest.
@@ -114,6 +114,46 @@ Hooijer recorded that at the beginning of [[1896]] the temporary posts were to b
 
 This programme amounted, in Hooijer's words, to *een feitelijk in bezit nemen van wat tot dusver uit zijn handen in leen was ontvangen* — an actual taking into possession of what had hitherto been held in fief from the hands of [[Teukoe Oemar]] — and Hooijer offered it, tentatively, as a possible explanation of Oemar's defection in [[March]] [[1896]].
 
+## Account from the Jubileum-nummer of [[1930]] — the fortieth anniversary
+
+For the corps's fortieth anniversary on [[2 April]] [[1930]], and for the grant to it of a *vaandel* (colour) by [[Wilhelmina of the Netherlands|Queen Wilhelmina]], the Batavia daily *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued the *Extra Jubileum-nummer* *[[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)|Het Korps Maréchaussée in Atjeh]]*, styling the corps *De Atjehsche Garde* — the Atjehnese Guard — and placing on its masthead the motto attributed to [[Pierre Cambronne|Cambronne]], *"La garde meurt, mais ne se rend pas!"* The *koninklijk besluit* granting the colour recited that the corps had "sedert de oprichting een belangrijke rol vervuld bij de vertegenwoordiging en handhaving van het Nederlandsch Gezag."
+
+### Foundation and original purpose
+
+The jubilee account gives the corps's full official style as *Korps Maréchaussée te voet in Atjeh en Onderhoorigheden* and dates its institution to a *Gouvernementsbesluit* of April [[1890]], made under the further approval of the King. Its original purpose was to exercise police work inside the *[[Geconcentreerde linie|geconcentreerde stelling]]* of [[Groot-Atjeh]], and it was "voorbestemd om die taak over te dragen aan het burgerlijk bestuur, zoodra de toestanden het zouden toelaten" — destined to hand that task over to the civil administration as soon as conditions permitted.
+
+The provocation was the state of affairs after the *[[Concentratiestelsel|concentratie]]* decision of [[19 August]] [[1884]]: small bands crept inside the line, attacked convoys and destroyed engineering works, and *overvallen* occurred "met schier verbijsterende regelmaat." The carrying of weapons by the Atjehnese population was made punishable and a *[[Passenstelsel|passenstelsel]]* introduced, but the evil was not thereby overcome, and a separate corps was raised.
+
+### The first establishment
+
+Only one *[[Divisie (Maréchaussée)|divisie]]* was at first designated: a captain-commandant, one first lieutenant, a European sergeant-major, a European *fourier*, twelve European sergeants, twelve non-European sergeants, twelve non-European corporals and 180 non-European *maréchaussées*. Of these it was required that they make themselves acquainted with "taal en adat" — the language and the *[[Adat|adat]]* of the population — in order to win confidence and obtain reliable intelligence.
+
+Recruitment was from officers, non-commissioned officers and "de beste niet-Europeesche manschappen van het Leger." Placement with the corps "is een onderscheiding geweest en is dat gebleven"; a European soldier had first to gain non-commissioned rank, and even then admission depended on his record.
+
+### From police work to field operations, 1896
+
+From [[1890]] to [[1896]] the corps worked inside the concentrated line, performing police duties and also administrative work — laying out registers of the kind kept by the *[[Binnenlandsch Bestuur|B.B.]]*, in which possessions and trades were recorded. From [[1896]] it also entered the purely military field, seeking out the enemy in his hiding places; the jubilee number credited that extension to the initiative of the then captain [[Jhr. Graafland|Jhr. G. J. W. C. Graafland]], carried out "met ontembare energie." The corps first took the field in its entire composition — three officers and 221 non-commissioned officers, corporals and men — at [[Surprise of Ana' Galoeng (29 June 1896)|Ana' Galoeng]] on [[29 June]] [[1896]].
+
+### Growth, stations and pay
+
+By *Gouvernementsbesluit* of [[3 March]] [[1899]] the corps was brought to 20 officers and 1,212 men in five divisions of three *afdeelingen*, each subdivided into four *[[Brigade (Maréchaussée)|brigades]]*; military administration was placed under a field officer, for which the *plaatselijk commandant* at [[Koeta Radja]] was soon designated. An annual sum was placed at the disposal of the [[Civiel en Militair Gouverneur|Civil and Military Governor]] to reward *maréchaussées* who had excelled. Commanders of divisions and *afdeelingen* were, where circumstances required, charged with the administration as *civiel-gezaghebber*.
+
+In [[1898]] the corps stood: Staff at Koeta Radja; 1st Division at [[Selimoen]]; 2nd at [[Indrapoeri]]; 3rd at [[Tjot Mantjang]] and [[Glé Broet]]; 4th at [[Tjot Goet]]; 5th at [[Lam Baroe]] and [[Lok Nga|Lho'-Nga]]. In [[1910]]: 1st at [[Blang Kedjeren]]; 2nd at [[Malaboeh|Meulaboh]]; 3rd at [[Takengeun|Takèngan]]; 4th at [[Lam Meulo]]; 5th at [[Lho Soekon]], where it still lay in 1930.
+
+Members were paid extra — captains on the scale of the General Staff, lieutenants and *onderluitenants* on that of the Engineers, with a separate scale for the lower ranks. Exempt from garrison duty, they ran their own *menage*. Their uniform was distinguished by *[[Bloedvingers|bloedvingers]]* on the collar corners and a flat curl on the sleeves, gold for officers and orange cloth for the men. They were armed with a *[[Karabijn der Maréchaussée|karabijn]]* — first the [[Beaumont-geweer|Beaumont]], later the Mannlicher — and with the *[[Klewang|klewang]]*, "het specifieke wapen van den Atjeher, waarmede hij thans zelf werd bestreden."
+
+### Later history and losses
+
+In [[1914]] the Maréchaussée became part of the arm of the Infantry. Reduced in [[1925]] to 18 officers and 1,072 men under the policy of *versobering* (austerity), it was raised again towards the end of [[1927]] to 23 officers and 1,214 men after the [[Westkust Resistance (1925-1927)|Westkust action]], a new division being formed with [[Bakongan]] as its station. In the period [[1890]]–[[1930]] approximately 950 members of the corps fell on the field of battle and about 250 were wounded; most of the deaths occurred during the *[[Patrouille (Maréchaussée)|patrouilles]]*.
+
+### The corps spirit
+
+The chief factor in its success was, in the editors' judgement, "de uitstekende korpsgeest, welke de Maréchaussée van de andere Wapens heeft onderscheiden" — see *[[Korpsgeest der Maréchaussée]]*. Its watchword was "Eén voor allen, allen voor één," and only two words were allowed value: *Doel* and *Bereiken*.
+
+### A more reflective judgement
+
+Alongside the celebratory framing, the same issue recorded Colonel [[C. A. Snell|L. A. Snell]]'s judgement that the Atjehnese people was "onderworpen, doch niet verzoend" — subjected but not reconciled — and that the Netherlands had done it "leed, zeer veel leed" which it was the duty of the younger generation to make good; and [[Mosselman|W. J. Mosselman]]'s bitter passage on the neglected indigenous veterans, whom he described as carried off "als vergeten cadavers" and whose treatment he called a matter of *Eereschuld*, a debt of honour.
+
 ## See Also
 
 - [[K.N.I.L.]]
@@ -152,6 +192,13 @@ This programme amounted, in Hooijer's words, to *een feitelijk in bezit nemen va
 - [[Defection of Teukoe Oemar (1896)]]
 - [[Teukoe Oemar]]
 - [[Oost-Indisch Leger]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Uitreiking van het vaandel aan het Korps Maréchaussée (2 April 1930)]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Brigade (Maréchaussée)]]
+- [[Divisie (Maréchaussée)]]
+- [[Korpsgeest der Maréchaussée]]
+- [[Kerkhof Peutjoet]]
 
 ## Sources
 
@@ -163,3 +210,5 @@ This programme amounted, in Hooijer's words, to *een feitelijk in bezit nemen va
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 54.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

@@ -6,6 +6,8 @@ aliases:
 - kolonel Meijer
 - Lieutenant Colonel Meijer
 - Luitenant-Kolonel Meijer
+- H. Meijer
+- 1ste Luit. Mar. H. Meijer
 tags:
 - person
 - dutch
@@ -16,6 +18,8 @@ tags:
 - 1876
 - commander
 ---
+- marechaussee
+- honours
 
 **Colonel Meijer** was a Dutch *overste* (colonel) of the [[Indische Leger|Indische leger]] who, in early March [[1876]], marched with a *colonne* from [[Kota Radja]] to relieve the besieged posts of [[Pager Ajer]] and [[Kajoe Leh]] — whose communication with the [[Longbatta-Mesigit]] had been *verbroken* by the enemy — and stormed the strong *benteng* at [[Lambaroe]], which the Atjehneezen defended at a cost of more than seventy dead.
 
@@ -30,6 +34,10 @@ Meijer's *colonne* restored the eastern face of Pel's projected *linie* at the m
 
 ## Sources
 *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-15.
+
+## Entry in the Maréchaussée register of honours ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records under [[1928]] the appointment of *1ste Luit. Mar. H. Meijer* as knight in the *[[Oranje-Nassau (Orde van Oranje-Nassau)|Orde van Oranje-Nassau]]*, in the same year as [[J. C. J. Bongers]].
 
 ## See Also
 
@@ -49,7 +57,12 @@ Meijer's *colonne* restored the eastern face of Pel's projected *linie* at the m
 - [[3rd Infantry Battalion]]
 - [[Marine Corps in Aceh]]
 - [[IV Moekims]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Militaire Willemsorde]]
 
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. p. 321.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

@@ -1,7 +1,7 @@
 ---
 title: "Defection of Teukoe Oemar (1896)"
-aliases: ["overloopen van Teukoe Oemar", "Teukoe Oemar's defection", "T. Oemar's overloop", "defection of 1896", "the most trouweloos verraad", "Oemar's defection", "Verraad van Toekoe Oemar", "Toekoe Oemar's defection (1896)", "het verraad", "the treason of Toekoe Oemar", "Defection of Teuku Umar", "Verraad van Teukoe Oemar", "Defection of Teukoe Oemar 1896", "Teukoe Oemar's breach with the Government"]
-tags: [event, defection, aceh, aceh-war, 1896, teukoe-oemar, westkust, groot-atjeh, achehnese, colonial, dutch, betrayal, "war", "military"]
+aliases: ["overloopen van Teukoe Oemar", "Teukoe Oemar's defection", "T. Oemar's overloop", "defection of 1896", "the most trouweloos verraad", "Oemar's defection", "Verraad van Toekoe Oemar", "Toekoe Oemar's defection (1896)", "het verraad", "the treason of Toekoe Oemar", "Defection of Teuku Umar", "Verraad van Teukoe Oemar", "Defection of Teukoe Oemar 1896", "Teukoe Oemar's breach with the Government", "Teukoe Djohan alias Oemar"]
+tags: [event, defection, aceh, aceh-war, 1896, teukoe-oemar, westkust, groot-atjeh, achehnese, colonial, dutch, betrayal, war, military, marechaussee]
 description: "The February 1896 defection of Teukoe Oemar — Dutch ally of the concentrated-line period, supplied with weapons, money and salary by the governor — back to the Acehnese resistance; the Senelop and Lamsoet bentengs had to be retaken 2 May 1896 and then abandoned again; called 'the most trouweloos verraad' but condemned by Snouck Hurgronje as the inevitable result of the domme politiek of arming him."
 ---
 
@@ -71,6 +71,14 @@ After the chastisement of Teukoe Oemar and of the chiefs who had joined him in r
 
 The political commotions had for result that, in the field of trade, the imports of 1896 were considerably less than in the preceding years; not only Groot-Atjeh but also the North and East Coasts felt the backlash. "Zoo ging de koffiecultuur, toch reeds van geringe beteekenis, in 1896 geheel achteruit; de uitvoer van peper verminderde, mede door de verlaagde peperprijzen, zoodat in genoemd jaar inderdaad over het geheele gebied een economische inzinking te zien gaf" — the coffee culture, already unimportant, declined wholly; the pepper export diminished, partly through the lowered pepper prices, so that in that year an economic collapse was visible over the whole territory. The recovery came with the active control of the three sagi's of Groot-Atjeh (registration 1897, pasars 1898) that marked the eve of Governors [[Joannes Benedictus van Heutsz|Van Heutsz]] and [[C. Snouck Hurgronje|Snouck Hurgronje]]'s tandem.
 
+## Account from the Maréchaussée Jubileum-nummer ([[1930]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* states the consequence of the defection in unusually blunt terms. "Het verraad van Teukoe Djohan alias Oemar in 1896 dwong het Bestuur van Atjeh het, in 1884, aangenomen stelsel van *concentratie* te verlaten; wij stonden tegenover den man, dien wij van wapens en ammunitie hadden voorzien en die ons dwong den in 1884 gestaakten oorlog te hervatten" — the treason of Teukoe Djohan alias Oemar in 1896 compelled the government of Atjeh to abandon the system of concentration adopted in 1884; we stood opposed to the man whom we had provided with weapons and ammunition, and who compelled us to resume the war broken off in 1884.
+
+### Consequence for the Maréchaussée
+
+The abandonment of *[[Concentratiestelsel|concentratie]]* transformed the role of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]*. Raised in [[1890]] to do police work inside the *[[Geconcentreerde linie|geconcentreerde stelling]]* of [[Groot-Atjeh]], the corps from 1896 also entered the purely military field, waging a guerrilla against the Atjehnese "die op dezelfde wijze den oorlog tegen ons trachtten vol te houden." It first took the field in its entire composition at [[Surprise of Ana' Galoeng (29 June 1896)|Ana' Galoeng]] on [[29 June]] [[1896]]. Among the tasks that followed from the new situation was the prevention of smuggling in foodstuffs and pepper, which had arisen because the coasts of enemy territory were closed by warships.
+
 ## See Also
 
 - [[Teukoe Oemar]]
@@ -102,6 +110,9 @@ The political commotions had for result that, in the field of trade, the imports
 - [[General Deykerhoff|C. Deykerhoff]]
 - [[General Vetter|J. A. Vetter]]
 - [[Dutch Policy of 'Concentration'|The Concentration in Atjeh (1884-1898)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Concentratiestelsel]]
 
 ## Sources
 
@@ -112,3 +123,5 @@ The political commotions had for result that, in the field of trade, the imports
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 72–76.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

@@ -1,7 +1,7 @@
 ---
 title: "Geconcentreerde Stelling"
-aliases: ["Concentrated Position", "Defensive Perimeter", "Fortified Line", "Concentration Strategy"]
-tags: [concept, military-strategy, aceh, achehnese, atjeh, colonial, fortifications]
+aliases: ["Concentrated Position", "Defensive Perimeter", "Fortified Line", "Concentration Strategy", "geconcentreerde linie"]
+tags: [concept, military-strategy, aceh, achehnese, atjeh, colonial, fortifications, marechaussee]
 ---
 
 **De Geconcentreerde Stelling** (The Concentrated Position) was the strategic defensive line established by the Dutch colonial military in [[Groot-Atjeh]] following the concentration decision of [[19 August]] [[1884]]. The position, completed on [[1 March]] [[1885]], consisted of a ring of fortifications approximately 4–5 palen from [[Kota-Radja]] and [[Olehleh]], enclosing the principal Dutch strongholds while abandoning the scattered posts that had proven unsustainable.
@@ -76,6 +76,12 @@ The position was supported by extensive infrastructure:
 
 The geconcentreerde stelling became the foundation of Dutch strategy in [[Groot-Atjeh]] for years to come. It represented acknowledgment that the Aceh War would not be won quickly and that sustainable long-term control required consolidating gains rather than seeking further expansion.
 
+## The concentrated position and the raising of the Maréchaussée
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records that the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* was instituted by *Gouvernementsbesluit* of April [[1890]] "met de bedoeling binnen de geconcentreerde stelling van [[Groot-Atjeh]] politiewerk uit te oefenen" — with the intention of exercising police work inside the concentrated position of Groot-Atjeh — and was originally destined to hand that task over to the civil administration as soon as conditions should permit.
+
+From [[1890]] to [[1896]] the corps worked within the line, performing police duties and administrative work, laying out registers of possessions and trades of the kind kept by the *[[Binnenlandsch Bestuur|B.B.]]*. From [[1896]], after the [[Defection of Teukoe Oemar (1896)|defection of Teukoe Oemar]] had forced the abandonment of the *[[Concentratiestelsel|concentratie]]* system, the *maréchaussées* also entered the purely military field and sought out the enemy in his hiding places — a change credited by the jubilee editorial to the initiative of the then captain [[Jhr. Graafland|Jhr. G. J. W. C. Graafland]].
+
 ## See Also
 
 - [[Concentration Decision of August 1884]]
@@ -84,7 +90,12 @@ The geconcentreerde stelling became the foundation of Dutch strategy in [[Groot-
 - [[Aceh War]]
 - [[Kota-Radja]]
 - [[Groot-Atjeh]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Defection of Teukoe Oemar (1896)]]
 
 ## Source
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 17–23.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

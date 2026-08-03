@@ -1,7 +1,7 @@
 ---
 title: "Schmidt"
-aliases: ["Luitenant Schmidt", "Kapitein Schmidt", "Assistent-Resident Schmidt", "Kolonel Schmidt", "Schmidt K.N.I.L.", "H. J. Schmidt", "H. J. Schmidt Ridder 3e kl. M.W.O.", "Schmidt (marechaussee)"]
-tags: [person, officer, knil, dutch, aceh, marechaussee, author, colonial, military, aceh-war, 20th-century]
+aliases: ["Luitenant Schmidt", "Kapitein Schmidt", "Assistent-Resident Schmidt", "Kolonel Schmidt", "Schmidt K.N.I.L.", "H. J. Schmidt", "H. J. Schmidt Ridder 3e kl. M.W.O.", "Schmidt (marechaussee)", "1ste Luit. Mar. H. J. Schmidt"]
+tags: [person, officer, knil, dutch, aceh, marechaussee, author, colonial, military, aceh-war, 20th-century, honours, jubilee]
 description: "K.N.I.L. officer who commanded the colonne Schmidt against the Tiriō Teungkoes (1910–1911), later Assistent-Resident on Ambon and co-author with Maurice Henri du Croo of two book-length Dutch accounts of the Aceh War."
 ---
 
@@ -91,6 +91,17 @@ Swart's private letters to Schmidt of [[1909]], [[1911]] and [[1913]] are printe
 
 Schmidt was the executant of the single most sustained special operation of the pacification — the destruction of the Tirò *oelama* line — and the model of the officer Swart preferred: one who knew the language, the country and the people, who could obtain results without firing, and whose ambition could be harnessed to a defined task. As co-author of two of the principal Dutch books on the [[Atjeh-oorlog]] he was also one of its chief chroniclers.
 
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+The *[[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)|Overzicht van Onderscheidingen]]* printed in the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records four awards to Schmidt, more than to any other individual in the register:
+
+- [[1906]] — knight in the *[[Oranje-Nassau (Orde van Oranje-Nassau)|Orde van Oranje-Nassau]]*, as *1ste Luit. Mar.*
+- [[1909]] — the *[[Militaire Willemsorde|Militaire Willems-Orde]]* 4th class, as *1ste Luit. Mar.*, together with [[J. J. Jenac]]
+- [[1911]] — the *[[Eeresabel]]*, as *1ste Luit. Mar.*
+- [[1913]] — the Militaire Willems-Orde 3rd class, as *1ste Luit. Mar.* — the only entry for that year
+
+Colonel [[C. A. Snell|L. A. Snell]] named Schmidt among the old *vuurvreters* of the corps whom he saw pass in review before his mind's eye, with [[Overste Scheepens|Scheepens]], [[Th. J. Veltman|Veltman]], [[Darlang]], [[Christoffel]], [[Geertsema Beckering|Geertsema]], Beckering and [[G. F. B. Watrin|Watrin]].
+
 ## See Also
 
 - [[Colonne Schmidt campaign against the Tiriō Teungkoes (1910-1911)]]
@@ -124,6 +135,11 @@ Schmidt was the executant of the single most sustained special operation of the 
 - [[Teukoe Agam]]
 - [[Coconut and Sugar-Cane Excursion (April 1918)]]
 - [[Meulaboh]]
+- [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[C. A. Snell]]
+- [[Eeresabel]]
+- [[Militaire Willemsorde]]
 
 ## Source
 
@@ -134,3 +150,5 @@ Schmidt was the executant of the single most sustained special operation of the 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters X–XV, pp. 93, 106–109, 117–118, 124–129, 140–141, 143–145.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

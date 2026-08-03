@@ -46,6 +46,7 @@ tags:
 - 20th-century
 - buitenbezittingen
 - acheh
+- marechaussee
 description: The pacification of Atjeh refers to the eventual subjugation of the Achehnese
   sultanate by Dutch military and political means, a process that began with the first
   expedition of 1873 and was completed under Governor Van Heutsz. It was commemorated
@@ -157,6 +158,16 @@ The *pacificatie* is, finally, in Van Heutsz's narrative, the political test the
 ### Significance of the 1893 articulation
 
 The *pacificatie*'s significance in the [[Aceh Wiki History]] record, in the 1893 articulation, rests on four things: it was the political consolidation the *onderwerping* was fought to produce — the *maatregelen des vredes*, *geregeld bestuur*, *goede rechtsbedeeling*, *landbouw*, *handel* and *nijverheid* the *ambtenaren* were to bring to a country "dat wij aan ons gezag onderworpen hebben" — and the analytical counterpart to the military *onderwerping* that is the title and subject of the 1893 tract; it was the political form the *blokkade* could not produce, the *ambtenaren* could not sustain under the *blokkade*'s regime, and the *Concentratie* of [[1884]] had excluded by its very form — the withdrawal of the *controleurs* and the *assistent-residenten* that fixed the *pacificatie*'s suspension; it was the operational object the *scheepvaartregeling* — the *maatregel des vredes van duurzamen aard* — was uniquely able to sustain, and the test Scherer's softer *scheepvaartregeling* had failed to produce in its *volledige* form; and it was the prescription Laging Tobias had reached as the *derden weg* of [[1883]] and Van Heutsz had refashioned, in the [[1893]] tract, into the *pacificatie* by *scheepvaartregeling*-cum-closure that Van Heutsz would himself implement as Governor of Atjeh from [[1898]] onward. The *pacificatie* is, in Van Heutsz's narrative, the political predicate the twenty-year policy oscillation had failed to produce — the *volledige pacificatie van Atjeh* whose absence the 1893 tract diagnoses and whose operational form the 1893 tract prescribes.
+
+## Account from the Maréchaussée Jubileum-nummer ([[1930]]) — the pacifying work of the corps
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* claims for the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* a share in the pacification exceeding its purely military value.
+
+Alongside its police task the corps performed administrative work, "hieruit bestaande, dat het registers aanlegde, zooals het [[Binnenlandsch Bestuur|B. B.]] er op nahoudt om zijn vaderlijke zorgen over de bevolking te kunnen laten gaan; bezittingen en uitgeoefende bedrijven werden geregistreerd." Where territory could be brought under direct authority and the safety of person and goods was guaranteed, "ontwikkelde zich welvaart en daarmede had de pacificatie een aanvang genomen" — prosperity developed and with that the pacification had begun.
+
+The distinctive contribution the editors claimed was that of continual patrolling: "Het Korps Maréchaussée heeft er door voortdurend patrouilleeren bij de bevolking van Atjeh den schrik in gebracht; weifelmoedigen werden, in ons voordeel, tot nadenken gestemd… het hield de djahats terug van voorgenomen wandaden" — by continual patrolling the corps brought terror among the population; the wavering were brought to reflection; it held the *djahats* back from intended misdeeds. Precisely because so little was known of that part of the work — "de massa spitst zich op wapenfeiten" — its fulfilment had given the corps "de innerlijke beteekenis… voor de pacificatie uitstekende boven zijn militaire waarde."
+
+Colonel [[C. A. Snell|L. A. Snell]] pointed in the same issue to the corps's work of peace: the numerous roads traversing Atjeh, the many engineering works it had built, and the order created "in de vroeger door onderlinge veeten van elkander gescheiden staatjes." But he added that the Atjehnese people remained "onderworpen, doch niet verzoend" — subjected but not reconciled — and that the Netherlands had done it "leed, zeer veel leed" which it was the duty of the younger generation to make good.
 
 ## See Also
 
@@ -270,6 +281,10 @@ The *pacificatie*'s significance in the [[Aceh Wiki History]] record, in the 189
 - [[Aceh]]
 - [[Kracht van wapenen]]
 - [[Joannes Benedictus van Heutsz|Van Heutsz's governorship]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Patrouille (Maréchaussée)]]
+- [[C. A. Snell]]
 
 ## Sources
 
@@ -288,3 +303,5 @@ The *pacificatie*'s significance in the [[Aceh Wiki History]] record, in the 189
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-275.
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), pp. 217-219, 238.
 *Brief aan Zijne Excellentie den Heere J. B. VAN HEUTSZ, Gouverneur-Generaal van Nederlandsch-Indië*, by W. H. J. Keuchenius (Batavia: Atelier A. M. Van Belkum & Co., 1905). BIBLIOTHEEK Dr ABRAHAM KUYPERSTICHTING, 3259 D 64 i 76, pp. 5, 49-50.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

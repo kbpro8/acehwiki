@@ -1,7 +1,7 @@
 ---
 title: "Selimoen"
 aliases: ["Selinoen", "Atjeh-rivier Selimoen", "Last Refuge of the Insurgents", "Selimoen-rivier", "Seulimeum", "the Selimoen river", "the kampong of Selimoen", "Selimoen kampong"]
-tags: [place, kampong, acehnese, aceh-war, atjeh, 19th-century, sagi-xxvi, village, groot-atjeh, river, geography]
+tags: [place, kampong, acehnese, aceh-war, atjeh, 19th-century, sagi-xxvi, village, groot-atjeh, river, geography, marechaussee]
 ---
 
 **Selimoen** (also written Selimoen, Selinoen) was a kampong on the [[Aceh River|Atjeh-rivier]] in the interior of [[Acheh|Atjeh]], described as "the last refuge of the insurgents" in the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of [[13 August]] – [[15 August]] [[1879]], the final Dutch military operation of the first phase of the [[Aceh War|Atjeh-oorlog]]. The submission of [[Toekoe Moeda Daoed|Toekoe Moeda Daoed]] at Selimoen, and the flight of [[Panglima Polem|Panglima Polem]] and the [[Imam of Longbatta|Imam Longbatta]] to the upper lands of [[Pedir|Pedir]], closed the large-scale operations in Great Acheh; on [[5 September]] [[1879]] the active columns were dissolved. In [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *De onderwerping van Atjeh*, Selimoen is the operational culmination of the [[K. van der Heijden|Van der Heijden]] conquest — the village whose occupation closed the campaign that had opened in July [[1878]] with the [[XXII Moekims]] operation and that had continued in [[1879]] with the [[XXVI Moekims]] operation, and whose reduction produced the [[Day-order of 5 September 1879|dagorder]] of [[5 September]] [[1879]] declaring *geheel Groot-Atjeh ten onder gebragt* (the whole of Greater Atjeh subdued).
@@ -64,6 +64,12 @@ The **Selimoen** was a river of [[Groot-Atjeh]] which joins the [[Acheh River|At
 
 Contrasting the drier and healthier ground of the [[XXII Moekims]] with the marshes of the [[Sagi der XXVI Moekims|XXVI Moekims]], Hooijer wrote that the free view over the mountain masses — *als coulissen achter elkander wegschuivend tot daar, waar de Atjeh-stroom en de Selimoen-rivier zich vereenigen in het diepste gedeelte der vallei* — sliding away behind one another like stage wings to the point where the *Atjeh-stroom* and the Selimoen river unite in the deepest part of the valley, disposed the mind more to cheerfulness and vitality than the wild vegetation with which the lower lands were covered.
 
+## Maréchaussée station ([[1898]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records the localisation of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* in [[1898]]: Staff at [[Koeta Radja]]; 1st Division at [[Selimoen]]; 2nd Division at [[Indrapoeri]]; 3rd Division at [[Tjot Mantjang]] and [[Glé Broet]]; 4th Division at [[Tjot Goet]]; 5th Division at [[Lam Baroe]] and [[Lok Nga|Lho'-Nga]]. Selimoen was the station of the 1st Division.
+
+By [[1910]] the corps had been redistributed to [[Blang Kedjeren]], [[Malaboeh|Meulaboh]], [[Takengeun|Takèngan]], [[Lam Meulo]] and [[Lho Soekon]].
+
 ## See Also
 
 - [[K. van der Heyden]]
@@ -117,6 +123,9 @@ Contrasting the drier and healthier ground of the [[XXII Moekims]] with the mars
 - [[1893]]
 - [[Acheh River]]
 - [[Anagaloeng]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Divisie (Maréchaussée)]]
 
 ## Sources
 
@@ -129,3 +138,5 @@ Contrasting the drier and healthier ground of the [[XXII Moekims]] with the mars
 *Eene schoone bladzijde uit Atjeh's geschiedenis*, door W. Cool en G. B. Hooijer ('s-Gravenhage: Martinus Nijhoff, 1889), pp. 44-58. OCR-filename: `20260720_115822_DLP-135-Eene_schoone_bladzijde_uit_Atjeh_s_geschiedenis_Nemotron_OCR_v2_OCR.txt`.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry (De Bruyne 1912; Van Heutsz 1893; Hooijer 1897) with the eyewitness account given by [[W. Cool]] and [[G. B. Hooijer]] in *Eene schoone bladzijde uit Atjeh's geschiedenis* ([[1889]]). Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

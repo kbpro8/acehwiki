@@ -1,7 +1,7 @@
 ---
 title: "Tjot Mantjang"
 aliases: ["Tjot Mantjang", "Tjot Mantjang (Blang Bintang)", "the Blang Bintang camp site", "Tjot Mantjang height", "Tjot Mautjang", "Cot Mancang", "Tjot Mautjang bivouac"]
-tags: [place, height, camp-site, blang-bintang, groot-atjeh, aceh-war, 1896, stemfoort, kruisheer-vol3, hoofdstuk-iii, forward-position, aceh, military, bivouac, 1897]
+tags: [place, height, camp-site, blang-bintang, groot-atjeh, aceh-war, 1896, stemfoort, kruisheer-vol3, hoofdstuk-iii, forward-position, aceh, military, bivouac, 1897, marechaussee]
 ---
 
 **Tjot Mantjang** was the height at [[Blang Bintang]] in [[Groot-Atjeh]], on which the Dutch constructed a *kampement* (camp) beginning on [[7 September]] [[1896]] — *begin van den bouw van een kampement op de Blang Bintang (Tjot Mantjang)*. The camp — known indifferently as the *kampement op de Blang Bintang* or the *kampement Tjot Mantjang* — served as the advanced base for the [[First Selimoen Expedition (6–11 September 1896)|first Selimoen expedition]] of [[6 September|6]]–[[11 September]] [[1896]] and the [[Second Selimoen Expedition (3–6 November 1896)|second Selimoen expedition]] of [[3 November|3]]–[[6 November]] [[1896]], and represented the second permanent Dutch forward position beyond the *geconcenteerd linie* in the second semester of [[1896]], after the [[Occupation of Kroeng-Raba (Lok-Nga) (15 July 1896)|occupation of Kroeng-Raba (Lok-Nga)]] of [[15 July]] [[1896]]. The choice of Tjot Mantjang as the site of the camp was determined by its strategic location on the high ground between the *geconcenteerd linie* and the [[XXII Moekims]], commanding the principal route from Koeta-Radja to the Selimoen highlands.
@@ -15,6 +15,12 @@ tags: [place, height, camp-site, blang-bintang, groot-atjeh, aceh-war, 1896, ste
 ## Context
 
 The three bivouacs belong to the [[Post-1896 system in Atjeh|system]] defended in the same debate by the Minister of Colonies [[J. T. Cremer|Cremer]]: the abandonment of the [[Geconcentreerde linie|geconcentreerde stelling]], the reduction of the number of posts from the twenty-one of [[Karel van der Heijden|Van der Heyden]]'s time plus eight added under civil government to seventeen and eventually about nine, and the concentration of strong mobile columns in a few well-placed *kampementen* instead of shutting the army up in small *bentings* each too weakly garrisoned to command its surroundings.
+
+## Maréchaussée station ([[1898]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records the localisation of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* in [[1898]]: Staff at [[Koeta Radja]]; 1st Division at [[Selimoen]]; 2nd Division at [[Indrapoeri]]; 3rd Division at [[Tjot Mantjang]] and [[Glé Broet]]; 4th Division at [[Tjot Goet]]; 5th Division at [[Lam Baroe]] and [[Lok Nga|Lho'-Nga]]. Tjot Mantjang was the station of the 3rd Division (with [[Glé Broet]]).
+
+By [[1910]] the corps had been redistributed to [[Blang Kedjeren]], [[Malaboeh|Meulaboh]], [[Takengeun|Takèngan]], [[Lam Meulo]] and [[Lho Soekon]].
 
 ## See Also
 
@@ -39,6 +45,9 @@ The three bivouacs belong to the [[Post-1896 system in Atjeh|system]] defended i
 - [[Atjeh valley]]
 - [[J. T. Cremer]]
 - [[1897]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Divisie (Maréchaussée)]]
 
 ## Sources
 
@@ -47,3 +56,5 @@ The three bivouacs belong to the [[Post-1896 system in Atjeh|system]] defended i
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, p. 33.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

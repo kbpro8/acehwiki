@@ -225,6 +225,14 @@ As soon as the political unity of the whole province under direct Dutch rule was
 
 The financial result of the Government of Atjeh and Dependencies was, including the Departments of War and Navy, a deficit (f 5,917,900 in [[1905]]; f 4,369,304 in [[1906]]; f 3,694,891 in [[1907]]); leaving those departments aside, the civil account showed a favourable balance of f 460,366 in 1905, f 833,534 in 1906 and f 382,437 in 1907 (to end of October). The world money crisis of [[1907]] depressed trade, imports fell with the reduction of the garrison and the departure of hundreds of Chinese and other Foreign Orientals, but exports already showed the first results of the raised production, and shipping at [[Sabang]] grew from 172 foreign merchant vessels in 1905 to 201 in 1906 and 231 in 1907. By Government resolution of [[4 May]] [[1908]] Van Daalen was, at his own request, honourably discharged; Lieutenant-Colonel [[H. N. A. Swart]] accepted the administration on [[10 June]] [[1908]].
 
+## In the Maréchaussée Jubileum-nummer ([[1930]])
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* carried a portrait captioned "De groote Van Daalen," and treated the [[Van Daalen's Gajo-Alas-Batak expedition (1904)|march to the Gajo-Loeös]] of [[1904]] — which he commanded as lieutenant-colonel, from February to July, with an initial ten and eventually fourteen *[[Brigade (Maréchaussée)|brigades]]* of Maréchaussée and with the civil administration entrusted to the division commanders — as belonging to "de schitterendste wapenfeiten" of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]*.
+
+Colonel [[C. A. Snell|L. A. Snell]] named Van Daalen second among "de groote pioniers, die van het Korps gemaakt hebben wat het geworden is," after [[Jhr. Graafland|Graafland]] and before [[Hendrikus Colijn|Colijn]], [[H. N. A. Swart|Swart]] and [[Van der Maaten]].
+
+The rising that broke out after the expedition was [[Dempen van den opstand in de Gajo- en Alaslanden (1905)|quelled in 1905]] by [[W. V. Rhemrev]].
+
 ## See Also
 
 - [[1905]]
@@ -323,7 +331,7 @@ The financial result of the Government of Atjeh and Dependencies was, including 
 - [[P. Linck]]
 - [[Heyligers]]
 - [[Wagener]]
-- [[Vis]]
+- [[H. M. Vis|Vis]]
 - [[Simin, No. 8502]]
 - [[Wongsodikromo, No. 33780]]
 - [[Todikromo, No. 28097]]
@@ -354,6 +362,10 @@ The financial result of the Government of Atjeh and Dependencies was, including 
 - [[J. C. van der Wyck]]
 - [[Gayo- en Alaslanden|Gajo- en Alaslanden]]
 - [[Agriculture in Atjeh]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[C. A. Snell]]
+- [[Dempen van den opstand in de Gajo- en Alaslanden (1905)]]
 
 ## Source
 
@@ -372,3 +384,5 @@ The financial result of the Government of Atjeh and Dependencies was, including 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters IV, VIII, IX, XI, XIV, pp. 22–23, 80–84, 91, 103, 140.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 80–81, 86–94, illustration captions pp. 88–89, 92.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.

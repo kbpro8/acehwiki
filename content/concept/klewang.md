@@ -112,6 +112,14 @@ Describing the fortnightly *[[Vivres|vivres]]* transport on the road through the
 
 Of [[T. Tjoet Toengkoeb|Toekoe Tjoet Toengkoeb]], who had for years made common cause with the priestly party under [[Tengkoe Sjech Saman di Tiro|Teungkoe di Tiro]], Hooijer wrote that only after [[General‑Major Van Teyn]] granted him a salary on condition that he cease fighting the Dutch *had hij de klewang opgeborgen* — had he put away the *klewang*.
 
+## The klewang as Maréchaussée weapon ([[1930]] jubilee account)
+
+the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records that the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* was armed "met een karabijn, eerst de Beaumont-karabijn en later de Mannlicher, en het specifieke wapen van den Atjeher, een klewang, waarmede hij thans zelf werd bestreden" — with a carbine, first the [[Beaumont-geweer|Beaumont]] and later the Mannlicher, and with the specific weapon of the Atjehnese, a *klewang*, with which he was now himself fought. See *[[Karabijn der Maréchaussée]]*.
+
+The deliberate adoption of the enemy's own weapon belongs with the corps's wider practice of fighting "den tegenstander met zijn eigen tactiek" and of borrowing Acehnese titles for its own ranks — see *[[Maréchaussée-vocabulaire]]*.
+
+In the [[Gevecht waarin kapitein Paris sneuvelde (Westkust van Atjeh, 1925-1927)|Westkust engagement]] of the action of [[1925]]–[[1927]], twenty-six *klewangs* were captured from the opponents; the fleeing man whom [[Suwoek]] pursued and brought down fifty metres away was seen by the wounded [[Sumangkut]] to break from the *alang-alang* with a *klewang* in his hand.
+
 ## See Also
 
 - [[Korps Marechaussee van Atjeh en Onderhorigen]]
@@ -159,6 +167,11 @@ Of [[T. Tjoet Toengkoeb|Toekoe Tjoet Toengkoeb]], who had for years made common 
 - [[T. Tjoet Toengkoeb]]
 - [[General‑Major Van Teyn]]
 - [[Moslemin]]
+- [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
+- [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+- [[Karabijn der Maréchaussée]]
+- [[Maréchaussée-vocabulaire]]
+- [[Gevecht waarin kapitein Paris sneuvelde (Westkust van Atjeh, 1925-1927)]]
 
 ## Sources
 
@@ -173,3 +186,5 @@ Of [[T. Tjoet Toengkoeb|Toekoe Tjoet Toengkoeb]], who had for years made common 
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 24, 51, 53; pp. 10, 24, 40.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
