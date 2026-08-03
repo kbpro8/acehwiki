@@ -1,7 +1,7 @@
 ---
 title: "Paja Tjitjem"
-aliases: ["Paja Tjitjeum", "Paya Cicem", "Tjitjem swamp", "Lho Soekon paja", "vogelmoeras", "the bird-swamp of North East Atjeh"]
-tags: [place, swamp, achehnese, lho-soekon, noordkust-van-atjeh, colonial, 1908, 1923, avros, rice-cultivation, oost-atjeh, natural-history, geography, marsh, aceh, keureutoe, noordkust]
+aliases: ["Paja Tjitjeum", "Paya Cicem", "Tjitjem swamp", "Lho Soekon paja", "vogelmoeras", "the bird-swamp of North East Atjeh", "Paja Tjitjem swamp", "Paja Tjitjem Atjeh", "Tjitjem Paja"]
+tags: [place, swamp, achehnese, lho-soekon, noordkust-van-atjeh, colonial, 1908, 1923, avros, rice-cultivation, oost-atjeh, natural-history, geography, marsh, aceh, keureutoe, noordkust, atjeh, agriculture]
 ---
 
 **Paja Tjitjem** — modern *Paya Cicem* — is the great swamp of the *onderafdeeling* [[Lho Soekon|Lho Soekon]] in the *afdeeling* [[Noordkust van Atjeh|Noordkust van Atjeh]], occupying the south-eastern half of the *onderafdeeling*. It is the refuge of the insurgents of the [[Christoffel's expedition to Keureuto (c. 1908)|Christoffel expedition]] of about [[1908]] and the principal obstacle to the development of the *onderafdeeling*.
@@ -32,6 +32,20 @@ The Paja Tjitjem is the principal physical obstacle to the development of the *o
 
 Ordered on [[24 September]] to seek him there, Slooten marched the same day through [[Peutèë]], pressed on through night and rain to *gampong* [[Aloeë Awé]], resumed the hunt before dawn on [[25 September]], and followed the tracks into the marsh, wading sometimes up to the arms in mud and water. At midday on [[26 September]] voices were heard from huts on a dry patch; a *marechaussée* fell in the tangle of roots and the splash alarmed the camp; the brigade rushed forward and a fugitive two hundred metres off was hit and fell.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Paja Tjitjem** was great swamp in south-eastern half of [[Lho Soekon]], for which tram builder undertook big bending yet could not without dike.
+
+### Geography and attempts
+
+Great military road likewise could not outside swamp remain and landscape road to near sea so possible cruise part Lho Soekon not uplifting more desolate plain hardly imaginable gray endless somber lifeless few poor neighbourhood people unfavorable appearance. How otherwise when padi culture so easily fails and drainage often disappoints because peat soil easily sinks.
+
+Present population needs side income some salt winning coast.
+
+Returning Paja Tjitjem — few years ago agricultural association [[Avros]] Medan eye extensive terrains start big padi culture large to begin provide rice contractants members important plan requested obtained *erfpacht* although folk heads therein reluctantly consented fairly expensive surveys done... Then turn came business slack Avros left Tjitjem plans loose so large rice enterprise stayed behind paja untouched.
+
+Earlier resistance flared about 15 years before [[1923]] difficult reach because withdrew from [[Paja Tjitjem]] to hills then [[Christoffel]] with maréchaussées sent bivouac [[Panton Labeuë]] subdued resistance tiger-captain.
+
 ## See Also
 
 - [[Lho Soekon]]
@@ -52,13 +66,13 @@ Ordered on [[24 September]] to seek him there, Slooten marched the same day thro
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Keureutoe]]
+- [[Christoffel]]
 
 ## Source
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter VIII, *'Lho Soekon, licht en donker'*, pp. 53–56.
-
 *Over eene collectie vogelhuiden van Oost-Atjeh*, door Ir. Jhr. F. C. van Heurn en Mr. Dr. Baron R. C. E. G. J. Snouckaert van Schauburg, in *Jaarberichten* (Koloniaal Instituut). Koninklijk Instituut voor de Tropen, Br N 95-1210
-
 *Acknowledgement of sources.* The material in this article derives from *Over eene collectie vogelhuiden van Oost-Atjeh* by Ir. Jhr. F. C. van Heurn and Mr. Dr. Baron R. C. E. G. J. Snouckaert van Schauburg (Koloniaal Instituut, *Jaarberichten*). Dutch passages are quoted in the original with an English rendering.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, XI.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 48-50.

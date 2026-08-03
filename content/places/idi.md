@@ -1,66 +1,7 @@
 ---
-title: Idi
-aliases:
-- Edi
-- Idi Rayeuk
-- Idi of the East Coast
-- Idi Cut
-- Idi Rajeu
-- Idi Tjoet
-- Onderafdeeling Idi
-- Idi onderafdeeling
-- Idi hoofdplaats
-- Idi (Aceh)
-- Idi Besar
-- landschap Idi rajeu
-- Greater Idi
-- Edé
-- Edie
-- Edi on the Oostkust
-- Edi (Atjeh East Coast state)
-- Staatje Edi
-- Edi (Atjeh)
-- Atjeh-Edi
-- Edi (East Coast)
-- the Dutch post at Edi
-- "Idi (east coast)"
-- "Landschap Idi"
-tags:
-- place
-- region
-- east-coast
-- district
-- dependency
-- coast
-- oostkust
-- achehnese
-- colonial
-- petroleum
-- town
-- underafdeeling
-- oostkust-van-atjeh
-- pepper
-- havenplaats
-- gemeentefonds
-- landschap
-- idi
-- oeléebalang
-- goudschat
-- aceh
-- garrison
-- aceh-war
-- coast-state
-- acehnese
-- historical
-- statelet
-- atjeh
-- 19th-century
-- onderhoorigheden
-- scheepvaartregeling
-- "landscape"
-- "harbour"
-- "trade"
-
+title: "Idi"
+aliases: ["Edi", "Idi Rayeuk", "Idi of the East Coast", "Idi Cut", "Idi Rajeu", "Idi Tjoet", "Onderafdeeling Idi", "Idi onderafdeeling", "Idi hoofdplaats", "Idi (Aceh)", "Idi Besar", "landschap Idi rajeu", "Greater Idi", "Edé", "Edie", "Edi on the Oostkust", "Edi (Atjeh East Coast state)", "Staatje Edi", "Edi (Atjeh)", "Atjeh-Edi", "Edi (East Coast)", "the Dutch post at Edi", "Idi (east coast)", "Landschap Idi", "Idi Atjeh"]
+tags: [place, region, east-coast, district, dependency, coast, oostkust, achehnese, colonial, petroleum, town, underafdeeling, oostkust-van-atjeh, pepper, havenplaats, gemeentefonds, landschap, idi, oeléebalang, goudschat, aceh, garrison, aceh-war, coast-state, acehnese, historical, statelet, atjeh, 19th-century, onderhoorigheden, scheepvaartregeling, landscape, harbour, trade, port, administrative]
 ---
 
 **Idi** (also spelled *Edi*) was a district on the East Coast of [[Great Acheh|Acheh]], mentioned by [[C. Snouck Hurgronje]] in the context of regional saints and the *kramat* tradition. The recently deceased raja of Idi — the first pioneer of that district — was identified as the father of a Habib of the famous ʿAidarus Sayyid family, described as a half-crazy young man, the son of Teungku di Bukét.
@@ -177,6 +118,38 @@ At the civil formation of the end of [[1878]] the third assistant-resident was p
 
 The [[Scheepvaartregeling|shipping regulation]] brought the harbour of Idi to greater bloom above all: of the harbours along the East Coast of Atjeh only Idi was opened for general trade, the others being declared accessible merely to the coasting trade — and then only to vessels under 25 register tons. All products of the East Coast were shipped out only from the harbour of Idi, while conversely the articles destined for the East Coast and brought from the [[Straits Settlements|Straits]] were carried via Idi to the several landscapes. Agricultural enterprises established in Idi, like those in neighbouring [[Langkat]], suffered repeatedly from the attacks of the [[Gayo- en Alaslanden|Gajoes]] inhabiting the hinterland. Under Governor [[Joannes Benedictus van Heutsz|Van Heutsz]] petroleum wells were bored at Idi in [[1903]], and the [[Koninklijke Paketvaart Maatschappij]] kept an office or agency in the harbour among its Atjehnese ports of call.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Idi** (*Edi*) was hoofdplaats of equally named underafdeeling on east coast of [[Atjeh]], once flourishing pepper port, later quiet after garrison abolition and harbour closure.
+
+### Description
+
+Author notes friendly Idi still pleasant, though diminished compared to general pepper decline and garrison lifting. Standing before dwelling of controller or neighbouring *pasanggrahan* looking over beautiful open grass plain at three sides framed by high avenue trees. Said drier than [[Langsa]]. Everywhere evidence maintenance neatness, fine roads in shade of sturdy trees near kom of Idi compensate what may miss in traffic. Road along cemetery — each burial place in [[Atjeh]] has historic significance — leads to beach, walk over grey-yellow sand along living spray sea.
+
+*Keude* (market street) entirely occupied by small shops Chinese and temple with more meritorious sculpture than usual Sumatra such houses of worship. Over half century ago many Chinese from [[Malaka]] settled Idi and *kongsie* managed to lease import rights of radja for 50 thousand dollars. Twenty years ago government closed harbour and although five years later reopened, traffic shrunk, other harbours increased.
+
+Boats [[Koninklijke Paketvaart Maatschappij|Kon. Paketvaart]] maintaining service Penang - north [[Sumatra]] call Idi. Export: [[1918]] vs [[1921]] *boomschors* 622,914 KG vs 413,894 KG, pepper 613,121 vs 340,725, copra 18,228 vs 150,622, rottan 2,077 vs 2,969, pinang 1,073,416 vs 843,675. Ships anchor roads; prauws bring goods to and from jetty. Part import-export via [[Lho Seumawe]].
+
+Idi has *gemeentefonds* like several hoofdplaatsen. Useful institutions easy workings. Head local bestuur here controller is chairman commission 4 members managing gemeentefonds. Cares local traffic, health, street lighting. Incomes payments street lighting, rent pasar sheds. Maintains slaughterhouse, tennis court, cinema. Some maintain bathing facility sea. Some people prefer living under Atjeh gemeentefonds than under gemeenteraad Java.
+
+### Hinterland
+
+Underafdeeling with 7 landscapes attractive interior wholly Atjehsch, though population emerged from pepper colonies [[Groot-Atjeh]] and [[Pasei]]. Road to [[Blang Sekotji]] in landscape [[Idi Rajeu]] between padifields brings environment cheerful garden land around *blang* big rice field. Characteristic Atjeh settlement: big padi field and around kampongs owning it, useful tasteful settlement. Blangs 100-200 *baoe* estimate, here there in blang tree with heavy crown as towering guard over many fields where cut padi of day brought. Sometimes thresh grains from ears and portion harvest temporarily stacked. Blang of Atjeh landscape knows many lovely days.
+
+Kampongs around blang resemble middle-Java; dwellings with yard, kampong paths fencing and enclosure whole kampong. Speaking now of kampong (real Atjeh *gampong*) but name *desa* would better characterize for who knows desa Java. More than Javanese desa Atjeh gampong yards formed garden where cocos- and pinang-palms sometimes rubber trees grow beside fruit trees. [[Blang Sekotji]] lovely place. Name said derived from *schuitje* small vessels that earlier from sea the *kroeëng* (river) Idi up to that point. Perhaps derivation correct but author doubts; notes [[J. A. Kruyt]] repeatedly speaks of [[Sekoetji]].
+
+Early entrepreneur tobacco Theresia Estate between [[Blang Sekotji]] and [[Kemoening]] taking over Englishman's already abandoned enterprise, etc. Story of band attack klewangs shed [[Kemoening]] first drama before end [[1876]], second spring [[1877]] people murdered buildings burnt seedbeds trampled. Entrepreneur left to Java asking government permanent reinforcement, finally acknowledged venture daring premature. See article [[Theresia Estate]].
+
+Further: school at [[Keude Geuroba]] beyond [[Blang Sekotji]] two classes 40 children boys 6-9. Notes neat writing.
+
+Roads through [[Djoeloh Rajeu]] and tjoet into blooming [[Simpang Olim]] where pepper about century ago caused Atjeh settlement and wasteland coastal area into reclamation.
+
+Higher part landscape borders inland [[Gajo-land]] less populated than lowland. Northern border [[Kroeëng Djamboe Aje]] river flooding enough to lay sturdy dike benefiting kampong [[Lho Niboeng]]. Measure against swamp formation river water and effective use farmland can be worked as earlier in landscape [[Idi Rajeu]] started irrigation work destroyed by river itself; says 1000 hectares irrigable.
+
+Principal bestuurder young [[Toeankoe Machmoed]] whose beautiful residence near hoofdplaats Idi.
+
+Mention granted permits wood (*zeehout*), mining (petroleum) and agriculture showing spirit enterprise not leaving north coast undesired. Some agriculture permits withdrawn because holder did not begin nor pay.
+
 ## See Also
 
 - [[1873]]
@@ -265,17 +238,16 @@ The [[Scheepvaartregeling|shipping regulation]] brought the harbour of Idi to gr
 - [[Expedition to Edi (1890)]]
 - [[Lho Seumawè]]
 - [[Pepper cultivation and trade in Atjeh]]
+- [[Peureula]]
+- [[Koeala Langsa]]
+- [[Atjeh Tram]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 9, p. 156.
-
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 76–77, 213–216, 248–251.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter VII, *'Vriendelijk Idi'*, pp. 45–51.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter VII, *'Vriendelijk Idi'*, pp. 50–51.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter II, XII, XIII.
-
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 37, 40–41, 48, 64–65, 85, 157, 179.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 40-47.

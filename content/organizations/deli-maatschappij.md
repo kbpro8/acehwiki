@@ -1,7 +1,7 @@
 ---
-title: Deli Maatschappij
-aliases: [Deli Maatschappij, Deli Company]
-tags: [organization, company, colonial, agriculture, east-sumatra, dutch, tobacco]
+title: "Deli Maatschappij"
+aliases: ["Deli Maatschappij", "Deli Company", "Deli-Mij", "Deli Maatschappij Atjeh"]
+tags: [organization, company, colonial, agriculture, east-sumatra, dutch, tobacco, plantation, temiang]
 ---
 
 **Deli Maatschappij** was the first *naamlooze vennootschap* (joint-stock company) established in the [[Dutch East Indies]], founded in [[1869]] on the [[Gouvernement Oostkust van Sumatra|East Coast of Sumatra]] by the Handel Maatschappij and the partners Janssen, Clemen, and [[Jacobus Nienhuys]], the pioneer of the Deli tobacco culture. From an initial capital of ƒ300,000, the company grew over sixty years to a capital of ƒ30,000,000, becoming the cornerstone of what would emerge as the most productive plantation district in the colonial Indies.
@@ -38,6 +38,18 @@ Under [[J. T. Cremer]]'s leadership, the Deli Maatschappij was the first company
 
 The Deli Maatschappij was the principal driver of [[Medan]]'s urban development. When the city became the administrative capital of the [[Gouvernement Oostkust van Sumatra|Oostkust gewest]] in [[1887]], the Deli Maatschappij's offices, infrastructure investments, and social institutions were integral to its character.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Deli Maatschappij** was major plantation company of [[Oostkust van Sumatra]] extending into [[Temiang]] with large land grant attempting tobacco.
+
+### Activity in Temiang
+
+Deli-Mij got large land grant and opened tobacco enterprises Sekrah I, II and III. After couple years closed because tobacco not to wish succeeded and returned grounds.
+
+Illustrates general failure tobacco in [[Temiang]] even orderly condition not able become Deli tobacco per Broersma.
+
+Later replaced by rubber and oilpalm enterprises. Deli-Mij example followed by [[Tabak-Maatschappij Arendsburg]] and [[Rotterdam Deli-Maatschappij]] similar failures.
+
 ## See Also
 
 - [[Jacobus Nienhuys]]
@@ -51,7 +63,11 @@ The Deli Maatschappij was the principal driver of [[Medan]]'s urban development.
 - [[1877]]
 - [[1891]]
 - [[1927]]
+- [[Temiang]]
+- [[Tabak-Maatschappij Arendsburg]]
+- [[Soengei Lipoet]]
 
 ## Source
 
 *Van Oerbosch tot Cultuurgebied: Een Schets van de Beteekenis van de Tabak, de Andere Cultures en de Industrie ter Oostkust van Sumatra*, by Dr. T. Volker (Medan: Deli Planters Vereeniging, [[1928]]), pp. 14–35. Delpher Digital Library, reference DLP-76. Universiteitsbibliotheek Vrije Universiteit Amsterdam, shelfmark 09383.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, p. 7.

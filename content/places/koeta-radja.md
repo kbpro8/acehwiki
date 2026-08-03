@@ -1,7 +1,7 @@
 ---
 title: "Koeta-Radja"
 aliases: ["Kuta Raja", "Kutaraja", "Kutaraja (Banda Aceh)", "Banda Aceh", "Kota Radja", "Kotaradja", "Kota Raja", "capital of Atjeh", "Koetaradja", "Kutaradja", "Kota Radja (Atjeh)", "Banda Acheh", "Bandah Acheh", "Bandar Aceh", "the Kutaradja of the Dutch concentration", "Banda Atjeh", "Banda", "Banda-Acheh", "Bandar Acheh", "Acheh capital", "Capital of Acheh", "Kota Acheh", "hoofdplaats Atjeh", "Acheen capital", "Koeta Radja", "Koetaraja", "Kraton", "Kota-Radja", "Kraton (Koeta Radja)", "Keraton", "Sultan's palace", "Kota Radja Atjeh", "Kotta-Radja", "Kuta Radja", "Kotja-Radja", "Atjeh's chief place", "Bandjar (Banda Aceh)", "Bandjar", "Kota Raoja", "Koeta-Radja", "Banda Aceh (historical Koeta Radja)"]
-tags: [place, city, capital, aceh, sumatra, colonial, colonial-capital, government-seat, achehnese-history, hoofdplaats, atjeh, administrative-center, town, acheh, fortified, headquarters, groot-atjeh, 20th-century, aceh-proper, coast, achehnese, concept, dutch, sultanate, military, kraton, van-heutsz, van-daalen, sabang, oelèë-lheue, museum, atjeh-instituut, dutch-colonial, 19th-century, aceh-war, military-base, koetaradja, administration]
+tags: [place, city, capital, aceh, sumatra, colonial, colonial-capital, government-seat, achehnese-history, hoofdplaats, atjeh, administrative-center, town, acheh, fortified, headquarters, groot-atjeh, 20th-century, aceh-proper, coast, achehnese, concept, dutch, sultanate, military, kraton, van-heutsz, van-daalen, sabang, oelèë-lheue, museum, atjeh-instituut, dutch-colonial, 19th-century, aceh-war, military-base, koetaradja, administration, administrative]
 description: "Kota Radja (also Kotaradja, Koeta-Radja; modern Banda Aceh) was the capital of the Dutch Gouvernement Atjeh en Onderhoorigheden and the principal city of Atjeh. By 1926 it served as the starting point for automobile travel across Sumatra to Padang, symbolising the transformation of transport infrastructure following the pacification."
 ---
 
@@ -195,6 +195,34 @@ The submission of [[Teukoe Oemar]] ([[30 September]] [[1893]]) ushered in prospe
 ### Institutional centre
 
 Under Governor [[H. N. A. Swart]] the town acquired: a Hollandsch-Indlandsche school ([[1915]]), a Hollandsch-Chineesche school ([[1918]]), an Ambonese school ([[1911]], nearly 400 pupils by 1918), a neutral fröbel-school (1915) and a native trade school ([[1916]]); the [[Groot-Atjehsche Afdeelingsbank]] (September [[1908]]) and the annual agricultural exhibitions; the [[Atjeh Museum]] (opened 1915 in the rebuilt [[Semarang]] exhibition pavilion); offices of Medan houses; and the agency of the [[Javasche Bank te Koetaradja|Javasche Bank]] (opened [[2 December]] [[1918]], first stone laid by Swart), joined by the premises of the [[Nieuwsblad voor Atjeh en Onderhoorigheden|Atjeh press]] on the Peunajoengsingel (1903) and the Sociëteitsweg (1914), the [[Nederlandsche Handel-Maatschappij|NHM]] office (1904–1905, photo in the book), the [[Atjehsche Handelmaatschappij]] head office, and the [[Economische Vereeniging te Koeta Radja]] ([[1919]]). Governor [[Van Sluys|A. G. H. van Sluys]] held his officials' conferences here (September [[1921]] with self-governing rulers attending), and from [[1922]] his new regulation for the local funds gave the town a kind of municipality in embryo. By [[1923]] Koeta Radja could be reached by car from [[Medan]] and by train from the East Coast of Sumatra — a through connection of 510 kilometres (see [[Atjeh Tram]]).
+
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Koeta Radja** was *hoofdplaats* of *gewest* [[Atjeh en Onderhoorigheden]], planned city by Netherlands administration not grown by trade, with spacious quarters, clean orderly but silent dead silent per Broersma.
+
+### Description according to Broersma
+
+Koeta Radja as center *kraton* whose walls disappeared *kraton* formerly dwelling governor offices magazines workshops dwellings safely sheltered *kraton* old sultans. Cemetery resting place bodies many who left life unrest Atjeh land preserves many memories homage gratitude remaining when stone signs once given. That replaced *dalam*. European quarters Koeta Radja residential quarter Malays Javanese Klings Chinese large number. Close hotel built with government support now property company where government participates amount still larger than earlier support had during [[Van Heutsz]] *Vredespark* laid but later during [[Van Daalen]] *Oorlogspark* added. Excellent societeit neat spacious. On place where earlier large meuseugit stood destroyed during war enterprise government at cost built large mosque Building comes out because high big but lacks finesse consecration Long years Atjeh population withheld interest later may be prayer house.
+
+In esplanade Atjeh house arranged as Atjeh museum Visit worth both careful ordering instructive visits collection itself. Forging weaving art crafts use crafts example products land represented ... museum now well-provided perhaps soon must miss good part richness when owner many objects collection takes back. Pity Koeta Radja privilege good drinking water Also here exists gemeentefonds two slaughterhouses bioscoop pasar maintains street lighting manages bathing place [[Oelèë Lheuë]].
+
+From sense spacious layout nearby harbour little town profited That space earlier rather required than now Earlier more ships many more officers At [[Oelèë Lheuë]] everything neat well situated Properly arranged swimming place attraction townspeople because dance floor beside recreation land water even land not need sit dry Meanwhile [[Oelèë Lheuë]] significance declined Where earlier before reduction troops troop movements actually only port for Atjeh directed after administrative settlement other coastal places shipping also there Nowadays only one government steamer [[Oelèë Lheuë]] earlier more. Main export figures [[1918]] [[1921]] pepper 316,660 KG 371,270 KG pinang 529,050 244,744 coprah 77,376. [[Oelèë Lheuë]] (vulgo Oleleh) monthly roads about 15 ships [[Koninklijke Paketvaart Maatschappij|KPM]] unloading in prauws Chinese entrepreneur or Atjeh Transport-Mij part of Sabang-Mij Company also steamer coming to trade steiger to Oleleh goods passengers.
+
+One beautiful tours undertaking Atjeh through 25 and 26 Moekims to [[Lho Nga]] at west coast Apart fierce winds usually Sumatraanschen wind called during few months May-July occasionally arise and showers consequence that area pleasant healthy climate Were not lengthy war state probably entrepreneurs big agriculture here sought grounds That may point [[Deli-Atjeh Tabak-Mij]] over twenty years ago in 26 moekims as near [[Indrapoeri]] trials tobacco little luck though good quality could obtain. Reason was and is well good tobacco obtained but no Deli-Langkat. Later years north [[Groot-Atjeh]] some European enterprises and plantations coco palm [[Mata lë]] and [[Ketapan Doea]].
+
+From [[Koeta Radja]] excellent road through [[Lam Pisang]] (Lam abbreviation Dalam place) small kampong now bigger nobler earlier further through region ... Breaks low mountain it's gorge [[Bradeuën]] Then in 4 moekims belonging subdivision [[Lho Nga]] and rides magnificent tjemara forest right at sea stands on bumpy soil lovely sandy beach before. On Java Sumatra at some points southern western coast places surprising impression western vastness mildness they immediately visitor establish accustomed landscape plain under untempered broiling sun Such surprising spot found at [[Lho Nga]] at sea about 15 KM Koeta-Radja place to rest dune-like height with fallen tjemara-green covered under peaceful rustle tree tops and roaring foam sea wave after wave on beach carries. Selected pause offers road further south to [[Seudoe]] where over great length close along sea and glorious view over big moving mass rolling onto karang coast and there with cheerful noise between lost. Always grand panorama north coast Sumatra awesome when storm waters also road much suffering telephone poles must set reinforced concrete Where road somewhat coastal fringe recedes kampongs aside Among some orchards various species unusual phenomenon Indies Gardens with rambutan mangistan doekoe doerian mangga.
+
+Education: many volksschooltjes where several girls go although additionally girls school fröbelschool 2 gouvernements inland schools 2 Hollandsch-inlandsche schools Hollandsch-Chinesche school Ambonese school craft school European elementary school and mulo-school Pupils all those institutions not only [[Koeta Radja]] itself 10k souls they flow from whole gewest.
+
+Great importance Atjehsch internaat [[1922]] erected boarding for school-going Atjeh children under European supervision while maintaining simplicity try meet all demands Dormitories spacious feeding according medical advice neatly cared Lodging monthly 60 gulden but child can for less if parents amount cannot pay Noteworthy all housed children still from notable families Oeléëbalang tjoet would children may admitted but not yet It thus until today noble institution. Strengthening volkswelvaart made here like elsewhere gewest institution for separation sufferers contagious diseases Leprozen housed on island [[Poh Ama]] where under supervision government doctor by Ambonese nurse cared About 50 sufferers admitted Considered care institution again transfer to [[Leger des Heils]] Salvation Army managed earlier Each nursing available from Lands kas 10 gulden monthly thereby all expenses fought Been time before [[1919]] that sufferers housed like beasts Was time nice abattoir built where however not allowed slaughter as only must serve appearance orderly neat bestuur. Frequent insanity in Atjeh recent years attracted attention and wished know if in connection with attacks long known name Atjeh murders worry bestuur community Consequence research advisor government inland affairs and expert mental diseases necessity insane asylum Atjeh When he in gewest came administration could hand list about 1100 people considered insane Researcher impression truly number well larger Finding malaria lepra syphilis framboesia people plague already weakened child marriage mutual wars war against Dutch administration Evil opium added evil alcohol likewise Always quite spirits in Atjeh used mainly heads They learned know through Europeans and Klings fairly large number in Atjeh. Degeneration children many phenomena paralysis idiocy stupidity insanity epilepsy nerve weakness Researcher not neglected point mental decline partly account material decline Atjeh people lost much strength decadent Old women who male folk otherwise known now sometimes reproach men that they play football visit cinema but lack pride fathers Well explainable so administration Atjeh proposed central institution treatment insane build [[Lam Teumet]] in [[Seulimeum]]. For economy government not consent but recently agreed former military hospital [[Sabang]] will be arranged admission insane needing asylum nursing.
+
+### Atjeh Tram
+
+First rail traffic naturally between [[Koeta Radja]] and port [[Oelèë Lheuë]] (Oleh Leh). Only until time concentration when [[Netherlands]] power [[1884]] limited to ring around [[Koeta Radja]] and ceintuurbaan 16 posts connected short before to tram reduced railway while three radial lines main establishment Koeta Radja with ceintuurbaan. See [[Atjeh Tram]] details.
+
+### Municipal and harbour
+
+Koeta Radja bears many education institutions Atjehsch internaat boarding for school-going Atjeh children European supervision etc.
 
 ## See Also
 
@@ -432,17 +460,15 @@ Under Governor [[H. N. A. Swart]] the town acquired: a Hollandsch-Indlandsche sc
 - [[Atjeh Tram]]
 - [[Government of Atjeh en Onderhoorigheden]]
 - [[Atjeh Museum]]
+- [[Lho Nga]]
+- [[Poh Ama]]
 
-## Sources
+## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
-
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 2–5, pp. 23–58.
-
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
-
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 21, 38, 46–47, 214–215.
-
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Foreword, Chapter I §§ 3–5, Chapter II, Chapter III § 1, Chapter IV, Chapter V § 1, Chapter VII § 4.
 *Verslagen der Marine‑Vereeniging III 1889‑1890*, pp. 229‑233. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pages 138‑141.
 *De geschiedenis van het Nederlandsche Korps Mariniers van [[1665]]–[[1945]]*, OCR transcription, page 484. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt.
@@ -453,30 +479,20 @@ Under Governor [[H. N. A. Swart]] the town acquired: a Hollandsch-Indlandsche sc
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946), pp. 54-55, 59-60.
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR transcription, pp. 118‑119.
-
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), prologue "Bij ons…" and chapter "Dominee Thenu."
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja and the chapter on den zieleherder.
 *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 143-145.
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter IX (Verkeer / Transport), p. 160, and Plate 70 (Monuments at Weltevreden), p. 70.
 *20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, p. 21.
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130.
-
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), pp. 207–208 (Kr. Geuenteuet and Gle Mon Ampeuet localities, with distance-and-bearing references to Kota Radja).
-
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 269-274.
-
 *DLP-84-Atjeh.pdf* (Part 5 of 5), p. 16. Centrale Boekerij Kon. Inst. v.d. Tropen, Amsterdam.
-
 *DLP-84-Atjeh.pdf*, p. 9.
-
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 14, 27, 28, 47, 48, 56, 67, 68, 71, 72, 73, 74, 82, 83, 92, 99, 116, 122, 132, 134–135, 143, 149, 162, 171, 176, 185, 194, 203, 209, 213, 224, 234, 266, 296, 318, 321, 325, 332, 333.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters III, X, XI, XII, XIII, XV, XVI, XVII, pp. 19, 94, 108, 121, 134–135, 143, 151, 153–155, and illustrations.
-
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 10, 18, 22, 26, 36.
-
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
-
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 19–23.
-
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 31–33, 42, 47, 50–52, 61, 66–67, 70–71, 87, 111, 119, 124, illustration captions pp. 17, 44, 129, 177, 183, 191, 194.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 85-101.

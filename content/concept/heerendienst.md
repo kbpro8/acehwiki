@@ -1,7 +1,7 @@
 ---
 title: "Heerendienst"
-aliases: ["Herendienst (in Atjeh)", "herendienst", "corvée (in Atjeh)", "the Atjeh corvée labour", "rodi", "heerendienstplicht", "Atjeh heerendienst", "forced labour service", "corvée labour", "heerendiensten", "labour service", "statute labour", "Dwangarbeiders", "Dwangarbeid", "Forced labour", "Conscript labour", "Dwangarbeider", "Koelie", "Chineesche koelie", "Mandoer", "Tandoes", "Vivres", "Trein", "Lamoen", "Voorwagen", "Vivres-colonne", "Beren (dwangarbeiders)", "beren", "kettingberen", "dwangkeezen", "adelborsten", "19e bataljon", "bataljon merah", "dwangarbeiders met en zonder ketting", "forced labourers", "Kettinggangers in Atjeh", "chain-gang convict labourers", "kettinggangers", "convict labour Atjeh", "chain-gang Atjeh", "Tandoe", "tandu", "litter hammock", "litter", "stretcher", "provisions transport", "victuals", "vivres transport"]
-tags: [concept, colonial, dutch, labour, administration, buitenbezittingen, aceh, infrastructure, roads, acheh, ethical-politiek, atjeh, zelfbestuur, 20th-century, institution, achehnese, heerendienst, corvée, labour-tax, afkoop, 3-gulden, taxation, aceh-war, military, 19th-century, trade, beren, dwangarbeider, forced-labor, convict, medical, transport, malay, terminology, logistics]
+aliases: ["Herendienst (in Atjeh)", "herendienst", "corvée (in Atjeh)", "the Atjeh corvée labour", "rodi", "heerendienstplicht", "Atjeh heerendienst", "forced labour service", "corvée labour", "heerendiensten", "labour service", "statute labour", "Dwangarbeiders", "Dwangarbeid", "Forced labour", "Conscript labour", "Dwangarbeider", "Koelie", "Chineesche koelie", "Mandoer", "Tandoes", "Vivres", "Trein", "Lamoen", "Voorwagen", "Vivres-colonne", "Beren (dwangarbeiders)", "beren", "kettingberen", "dwangkeezen", "adelborsten", "19e bataljon", "bataljon merah", "dwangarbeiders met en zonder ketting", "forced labourers", "Kettinggangers in Atjeh", "chain-gang convict labourers", "kettinggangers", "convict labour Atjeh", "chain-gang Atjeh", "Tandoe", "tandu", "litter hammock", "litter", "stretcher", "provisions transport", "victuals", "vivres transport", "Heerendiensten Atjeh", "Forced labour Atjeh", "Koelie werk"]
+tags: [concept, colonial, dutch, labour, administration, buitenbezittingen, aceh, infrastructure, roads, acheh, ethical-politiek, atjeh, zelfbestuur, 20th-century, institution, achehnese, heerendienst, corvée, labour-tax, afkoop, 3-gulden, taxation, aceh-war, military, 19th-century, trade, beren, dwangarbeider, forced-labor, convict, medical, transport, malay, terminology, logistics, tax]
 description: "The heerendienst — the Dutch colonial corvée labour system, by which the population of the Buitenbezittingen was obliged to provide unpaid labour for public works, principally road construction, before the systematic road plan of the B.O.W. replaced it with paid labour."
 ---
 
@@ -188,6 +188,22 @@ During the investment of [[Biloel]] from [[29 March]] [[1896]], Hooijer recorded
 
 Hostile marksmen fired persistently on Dutch transports near [[Anagaloeng]], which was the reason for the order to patrol that produced [[Van Blokland|Kapitein Blokland]]'s action of [[7 March]] [[1896]]. The road between [[Tjot Goeë]] and [[Biloel]] had been so unsafe that covering troops had to be pushed forward to [[Lam Koenjit]] and volleys fired into the *kampongs* (villages) before the transport could pass, which led to the erection of the intermediate post there on [[4 July]] [[1894]].
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Heerendienst** was compulsory labour imposed on Atjeh population, institution that volks household of old not knew, 24 days maximum per ordonnance for Atjeh.
+
+### Practice per Broersma
+
+During [[Gajo-weg]] construction much heerendienst occurred and wegenfonds sacrificed country treasury support. Between [[Bireuen]] and [[Takengon]] excellent piece labour.
+
+In advertisement book [[1923]] claimed population only two days had to come for obligatory labour. Author states deceit: heerendienst ordonnance for Atjeh 24 days states maximum. In praised period with blessings loving governor [[H. N. A. Swart]] 1908-1918 heerendienst here there repeatedly above maximum came. Charging much heerendienst counted then among officials as expression brisk bestuurvoering. Institution Atjeh traditional household never knew sensitive pressure many emigrated. When [[1919]] after ending praised period with redemption heerendienst beginning continued [[1920]] [[1921]] returnees came.
+
+In [[Takengon]] [[Gajo]] 24 days heerendienst can buy off 3 gulden but usually not. Labour road not heavy own labour watercourses irrigation likes clever.
+
+In [[Koeta Radja]] first civil governor speech February [[1919]] principles: taxes and heerendiensten including gemeentediensten may not be raised; binding population incomprehensible police regulations forbidden etc.
+
+Begroting collective landscapes afdeeling [[Pidie]] [[1923]]: afkoop heerendienst 86,900 gulden income among 457,103 total.
+
 ## See Also
 
 - [[1893]]
@@ -291,33 +307,26 @@ Hostile marksmen fired persistently on Dutch transports near [[Anagaloeng]], whi
 - [[Anagaloeng]]
 - [[Tandoe]]
 - [[Van Blokland]]
+- [[Gajo-weg]]
+- [[Pidie]]
+- [[Takengon]]
 
-## Sources
+## Source
 
 D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), pp. 32–33. Koninklijke Bibliotheek shelfmark 0301 4872.
-
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 66, 68–69, 71, 73, 75, 81, 83, 86, 88, 91, 95, 101, 105–106, 108–110, 117, 119–121, 199, 216, 227, 229, 238, 240, 247, 293–294, 301, 308–309, 322, 324, 342–343.
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 117–118, 122–130, 144–148, 167, 168–169, 254–258.
 *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
 *Acknowledgement of sources.* The material in this article derives from *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]). Dutch passages are quoted in the original with an English rendering.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters X, XII, *'In het land van Peusangan'* and *'In het hart van Gajo-land'*, pp. 68, 85.
-
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 52–56 (section "De aanleg van wegen op de Buitenbezittingen"), p. 48 (section "Het Departement der B. O. W.").
-
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`.
-
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), pp. 273-275.
-
 J. B. van Heutsz, *De onderwerping van Atjeh* (1893), p. 79.
-
 *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*. Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesen van het Departement van Binnenlandsch Bestuur*. Weltevreden: Landsdrukkerij, [[1930]], esp. pp. 80–95 (Reg. No. 14, the *Zelfbestuursverordening* of 18 August 1928 for the *onderafdeeling* Bireuën), and p. 109 (the comparative table extending parallel *regelingen* to all eighteen other *onderafdeelingen*). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923); *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), where applicable.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV, p. 23; Chapter XIII, pp. 135–136; Chapter XII, p. 122.
-
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 10; pp. 10, 14, 16, 18, 50, 52.
-
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 64-65, 73-75, 84, 124.

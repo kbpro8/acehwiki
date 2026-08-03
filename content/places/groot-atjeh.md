@@ -1,7 +1,7 @@
 ---
 title: "Groot-Atjeh"
-aliases: ["Groot-Atjeh", "Groot Atjeh", "Groot-Atjeh (region)", "Groot Atjeh region", "Great Atjeh"]
-tags: [place, region, administrative, aceh, aceh-war, 19th-century, 20th-century]
+aliases: ["Groot-Atjeh", "Groot Atjeh", "Groot-Atjeh (region)", "Groot Atjeh region", "Great Atjeh", "Atjeh valley"]
+tags: [place, region, administrative, aceh, aceh-war, 19th-century, 20th-century, historical-sultanate, rice, atjeh]
 ---
 
 **Groot-Atjeh** (Great Atjeh) is the central region of [[Atjeh]] (Aceh), comprising the north-western part of the realm through which the middle and lower courses of the [[Atjeh River]] flow. It is defined geographically by the river valley and administratively by the three [[sagi]] (bondgenootschappen) that encompassed the territory where the sultan of [[Atjeh]] exercised direct authority: the [[XXV Moekims]], the [[XXII Moekims]], and the [[XXVI Moekims]].
@@ -20,6 +20,18 @@ Dutch attempts to control the region—including the establishment of the [[Conc
 
 Following the submission, the Dutch established direct administrative control through civil authorities, laying the foundation for the modern administrative structure of [[Aceh]].
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Groot-Atjeh** was sultanate core, afdeeling including subdepartments [[Koeta Radja]] [[Seulimeum]] and [[Lho Nga]], rice land valley.
+
+### Description per Broersma
+
+Who from south entering Groot-Atjeh must either west side ship or east side [[Atjeh Tram|Atjeh-tram]] or over sea travel Road has over long distance between [[Padang Tidji]] and [[Seulimeum]] gap poor area where population not capable produce funds labour road construction such importance so gap only disappears when government can bear hardening costs Upwards to watershed then descending to Seulimeum lies tram mountain landscape without life without beauty North of valley where river Groot-Atjeh meanders mountainland poor vegetation population Middle rises [[Seulawaih Agam]] Goldmount part comfortless area is broad separation between bloomy farmland valley Groot-Atjeh which with north northwest coast best part department. No wonder valley most roads direction [[Indrapoeri]] and [[Seulimeum]] but parallel north coast Road Koeta-Radja to [[Lho Nga]] already extended along west coast to [[Seudoe]] and undoubtedly one once further build as interior west needs road along coast.
+
+Old rice land Groot-Atjeh region now subdepartments Seulimeum is sagi 22 moekims Moekim originally church association gampongs church head imeum gradually character changed name kept even name sagi side meaning originated when imagined Groot-Atjeh triangle and spoke three sagi What want know explanation found in work Snouck Hurgronje elsewhere Each sagi sagi-head under him oeleebalangs under these imeums 25 and 26 moekims form now subdept Lho Nga. In 22 moekims population earlier used living water irrigation sawahs besides many rain-dependent rice fields Government worked expanding sawah surface still necessary irrigation Atjeh-valley expand Expansion e.g., at Indrapoeri completely finished not. Large valley as padistreek designating not same as population appreciate diligent skilled padi cultivation Unfortunately far removed It's again ground processing where terribly shortcoming Use seed padi harvest processing leave desired Also Groot-Atjeh must not in each cultivator rice field owner see Most own no grounds but cultivate for owner against part yield as wage Is field sawah somewhat expect success gets worker 2/3 yield Is field rain risk bigger then 4/5 sometimes his share Gets for cultivation buffalo loan then share again bit less. Population whole department 106k approx and not overgreat part padi cultivation Even those no own fields neither sawah nor tegal lay few ladang although in hill area yes Trade fishery other businesses must many necessary incomes provide further those who went out above Lho Seumawe and Pidie plant pepper Of them largest part returned when low market disease work without advantage expect upon entering improvement temporary emigration resumed. Measures strengthening volkswelvaart in Groot-Atjeh not superfluous taken agricultural school opened [[Oelèë Kareung]] not far [[Koeta Radja]] but actually exists no more because grown small farm dairy chicken breeding vegetable cultivation How may accord lust young Atjehers money earning learn practice is transformation agricultural school not cheer. Koeta Radja shelters many education institutions volksschooltjes etc etc.
+
+Great importance Atjehsch internaat [[1922]] etc. Separation sufferers island [[Poh Ama]] 50 sufferers earlier housed beasts time nice abattoir built where not allowed slaughter as only must serve appearance orderly neat bestuur. Frequent insanity etc.
+
 ## See Also
 
 - [[XXII Moekims]]
@@ -32,7 +44,12 @@ Following the submission, the Dutch established direct administrative control th
 - [[Onderhoorigheden]]
 - [[Aceh War]]
 - [[Pidië Expedition]]
+- [[Seulimeum]]
+- [[Lho Nga]]
+- [[Seulawaih Agam]]
+- [[Atjeh Tram]]
 
 ## Source
 
 *Het einde van den Atjeh Oorlog* (Overprintken uit de *Evening Post* van 25, 26 en 27 Augustus 1903, pp. 3-6, 10-16); Somer, Dr. J. M. *Het Atjeh-probleem van 1890-1900* (Overprint uit *Journal / Organ van de Netherlands-Indies Officers Association*, [1935], pp. 4-7); Damste, H. T. "Atjeh-historie," *Koloniaal Tijdschrift* 1916.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 85-101.

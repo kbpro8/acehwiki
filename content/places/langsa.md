@@ -1,7 +1,7 @@
 ---
 title: "Langsa"
-aliases: ["Langsar", "Koewala Langsa", "Koeala Langsa", "Langsa Estate", "haven van Langsa", "the harbour of Langsa", "Langsa town", "East Coast Atjeh", "Kuala Langsa", "Kwala Langsa", "havenplaatsje of Langsa", "Langsa harbour", "Langsa hoofdplaats", "Langsa onderafdeeling", "Langsa-baai", "stad Langsa", "Langsa (landscape)", "Landscape Langsa"]
-tags: [place, hoofdplaats, oostkust, colonial, dutch, buitenbezittingen, tramway, rubber, town, langsa, oostkust-van-atjeh, atjeh, border-region, harbour, achehnese, steiger, paketvaart, underafdeeling, waterleiding, artesian-boring, gouvernements-rubberonderneming, aceh, administration, "landscape", "east-coast"]
+aliases: ["Langsar", "Koewala Langsa", "Koeala Langsa", "Langsa Estate", "haven van Langsa", "the harbour of Langsa", "Langsa town", "East Coast Atjeh", "Kuala Langsa", "Kwala Langsa", "havenplaatsje of Langsa", "Langsa harbour", "Langsa hoofdplaats", "Langsa onderafdeeling", "Langsa-baai", "stad Langsa", "Langsa (landscape)", "Landscape Langsa", "Langsa Atjeh", "Afdeeling Langsa", "Onderafdeeling Langsa"]
+tags: [place, hoofdplaats, oostkust, colonial, dutch, buitenbezittingen, tramway, rubber, town, langsa, oostkust-van-atjeh, atjeh, border-region, harbour, achehnese, steiger, paketvaart, underafdeeling, waterleiding, artesian-boring, gouvernements-rubberonderneming, aceh, administration, landscape, east-coast, port, administrative, pepper]
 ---
 
 **Langsa** was the hoofdplaats of the [[Afdeeling Oostkust van Atjeh|Afdeeling Oostkust van Atjeh]] and, by [[1917]], the second city of the *gewest* — the trade-centre of the great European rubber, tobacco, and petroleum cultures of the eastern lowlands and the natural rival of [[Koeta Radja|Koeta Radja]] for commercial primacy in the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]]. *De Buitenbezittingen* describes Langsa as the place where, after the *pacificatie* under [[H. N. A. Swart|Swart]], "eene jonge, frissche handels-energie" unfolded, transforming a town "als het ware uit den moerassigen bodem gestampte stad" — a city, as it were, hammered out of the swampy ground — into the principal European centre of the eastern coast.
@@ -125,6 +125,44 @@ Langsa was among the lands submitted in the pacification of the Dependencies of 
 
 Under Governor Van Heutsz the Deli firm Nolte & Haas — which provided the tobacco planters of [[Deli]] with wood for drying-sheds and other buildings and sheds — concluded with the chief of Langsa an agreement, approved by the government, whereby the firm was enabled, only against very ample payment, to exploit the extensive nipah forests present in his landscape, stipulating inter alia that the native population would keep the right to take what it needed for its own use; Van Heutsz proceeded "on strictly equitable lines" in the making of these contracts. The government's own caoutchouc estate at Langsar/Langsa, founded at [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]'s instance as an example of Pará rubber culture, steadily expanded through the years. Private estates multiplied under Governor [[H. N. A. Swart|Swart]]: in the sub-departments Langsa and [[Tamiang|Temyang]] a great number of rubber-, oil-palm- and coconut-enterprises appeared; by [[1922]] the Langsar estate district counted twenty enterprises (see [[N. van Zalinge]]'s report and [[Langsar]]). The town of Langsa received a government post- and telegraph-office under Swart, a tram-conveyance onward from [[Koeala Simpang]] (opened [[1912]]), and a branch office of the [[Atjehsche Handelmaatschappij]].
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Langsa** was afdeelingshoofdplaats and governmental area surrounded by self-governing landscapes [[Langsa]], [[Peureula|Perlak]] and [[Soengei Radja]] on east coast of [[Atjeh]], with port hamlet [[Koeala Langsa]] 9 km away.
+
+### Town planning and appearance
+
+Noted for roomy block system layout like [[Koeta Radja]], counting on future growth imagined around [[1910]] when administration thought pacification of gewest almost fact and could start foundation order as in gewest [[Sumatra]]. Bay of Langsa and sea mouth where river mouths proved deep favorable: perhaps [[Langsa-baai]] future equally big importance as [[Aroe-baai]]. Future not yet obtained now town roomy but silent and traffic from hinterland between [[1912]] and [[1920]] strongly diminished.
+
+Chinese gardeners near [[Oepah]] likely from [[Langkat]]. Young rubber estate [[Toealang Tjoet]] named fitting because many *toealangs* raise bare trunks high.
+
+### Water supply
+
+Suffers water provision as many places east coast Atjeh. On some yards wells; if somewhat favorably known, others crowd. In barracks drinking filtered *kali* water. 8 artesische wells... been; only one remained insufficient for population, water iron-containing attacking pipes. Expect pipes soon eaten and only tolerable provision finished. Trial de-ironing by exposing in collection basin to air. Artesian drillings between [[1906]] and [[1919]] cost f 122,931, house lines f 12,788. Only 12 km away mountain water obtainable from still unpolluted small river in forest, favorable provision possible.
+
+In kampongs of hoofdplaats *kali* water sold 5 cent picol, exposing whole place to contamination.
+
+### Harbour Koeala Langsa
+
+Not connected by road but with side line [[Atjeh Tram|Atjeh-tram]] 9 km running middle through *bakoe-bakoe*, area messy plant growth in marsh maintained sea water, well-known coastal occurrence Sumatra where man with sacrifice health and life span yet extracts use by winning wood, bark and *nipah* leaf. At [[Koeala Langsa]] long roomy jetty built, extendable at will at harbor water 15-20m deep. On bank at entrance sea mouth at low water still 14 foot depth. Nature opportunity envied by many small trade harbors Indies. Average 36 vessels monthly cleared. Majority [[Koninklijke Paketvaart Maatschappij|Kon. Paketvaart]]; also weekly Chinese boat from [[Penang]] and Chinese tongkangs fetching goods bringing little. Company [[Guntzel & Schumacher]] own coastal shipping consisting small tug with tongkangs plying between [[Idi]] and [[Belawan]] in connection permission exploitation tidal forests.
+
+### Trade statistics
+
+Receipts tol office: [[1918]] f 205,643 total, [[1921]] f 304,856, with import f 160,924 vs f 218,949, export 401 vs 3,470, accijns petroleum 31,893 vs 62,222, lucifers 11,806 vs 19,184, warehouse rent 619 vs 1,031. Note all rights nearly doubled in [[1921]]. Concerning import within Netherlands Indies no statistics because not paid for. [[Sabang]] outside toll area, likewise [[Riouw]] and [[Bengkalis]]. Comparison import 1918 not effective because 1918 not all ordered goods could arrive. Some export figures: 1918 vs 1921: wood bark? *boomschors* 7,720,832 KG vs 5,581,007 KG, black pepper? 2,218,848 vs etc? pinangnoten 882,440 vs 1,992,379 vs 1,290,790 export entirely to [[Penang]], [[Singapore]] and [[Hongkong]]. Remarkable export Robusta coffee 1920 still 26,786 KG and after closing enterprises 10,086 KG 1921. On roads much fishing; on islet before koeala dryer and shipment along coast.
+
+### Population and agriculture
+
+Underafdeeling [[Langsa]] comprises three landscapes Langsa 4000 souls, [[Peureula]] etc, [[Soengei Radja]] 1300. Atjehers majority. North of Langsa padifields more frequent, called *sawah's*, but rain-dependent fields on Java called *eega*. Yet landscape Langsa still rice deficit completable from [[Idi]] if harvest not fail as partly this year due root disease. North Langsa very many pepper gardens, established by Atjehers from [[Pidie]], [[Samalanga]] and [[Pasei]] and returned when pepper cultivation failed due disease in crop not fully determined maybe now receding and market price drop. Interest lost. Heads furnished principal capital *pangkai* according administrative regulation interest paid, also landscape treasury income. After failure tax collection decreased even backlog not recoverable.
+
+### European estates
+
+Oldest enterprise [[Langsa]] in [[1907]] by Indian government opened to show how in this low land Hevea rubber could go. Would get plantation 1000 *baoe*, in [[1915]] had over half extent, worked then with 430 coolies largely contractors, yield 123 thousand pound rubber cost price 66 cent. Could compose eulogies as happened but for country treasury pity no consequence given to plan years ago to sell. Had happened, opening would answer goal show possibility. Other entrepreneurs later ignorant disappointments awaiting. Government rubber enterprise opened peat ground now visible soil by trees sinks roots above whole skewed growth consequence plantation looks poor. Also other divisions soil unfavorable, in younger plantings better. Wonder enough yield whole enterprise nowadays reason satisfaction. Comprises now 900 *baoe* and works with 250 workers (tappers inclusive). Factory only 4 rollers. Thanks management, not least among sisters region.
+
+Enterprise [[Peureula (Perlak)]] dates [[1911]], modest rubber and oilpalm, little fortunate existence.
+
+[[Gadja Meuntah]] opened by [[1919]] formed company [[Soengei Radja]] and after 3 years 600 *baoe* rubber and intercropped coffee. 1921 went wrong and sold for 19 thousand gulden to English body.
+
+[[Vico]] ([[Vereenigde Indische Cultuur-ondernemingen]]) has enterprise [[Langsa]] (to distinguish government enterprise) which by mostly Belgian capital founded, and [[Kemoening]]. Both rubber lands under one management have together factory. Moreover from Vico enterprise [[Damar Sipoet]] thousand *baoe* rubber. Only oliepalm enterprise in underafdeeling is [[Karang Inouë]], [[1922]] with 800 *baoe* plant yet belonging [[Vereenigde Ned. Oliepalm-Cultuur]], then for 24 thousand gulden handed to [[Sipef]] ([[Societe Internationale de Plantations et de Finances]]). There was no money, plant in dirt, would almost start anew. Therefore recently for little money handed already mentioned Japanese company [[Dutch Borneo Plantations Cy]]. [[Blang Simpo]] as worthless rubber land returned, [[Aloer Soenasang]] wants unopened returned, [[Panton Meuriah]] of Japanese not maintained sees timber felling decay. [[Birim Rajeu]] dug [[1911]] but trees remained so small. Administrator earns now salary by delivering wood to Chinese. General phenomenon in Langsa: on enterprises much money used quickly become large; when difficulty came no money for preservation. Worse than in [[Temiang]]. There was time 12 thousand contractors; now no 2 thousand more. On some enterprises assistants gone, management in hands mandoer alone. Situation can change as soon rubber market more favorable for planter.
+
 ## See Also
 
 - [[1903]]
@@ -177,25 +215,20 @@ Under Governor Van Heutsz the Deli firm Nolte & Haas — which provided the toba
 - [[Modjopahit]]
 - [[Handelsmaatschappij Deli-Atjeh]]
 - [[Foreign capital in Atjeh]]
+- [[Temiang]]
+- [[Soengei Lipoet]]
+- [[Atjeh Tram]]
 
 ## Source
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 69 (section "De Atjeh-tram").
-
 *De Buitenbezittingen 1904*. In: *Mededeelingen van het Encyclopaedisch Bureau*. Batavia: G.C.T. van Dorp & Co., [ca. 1915], p. 258–261.
-
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 14–15, 25–27, 29–30, 38, 72–76, 214–217.
-
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), p. 358.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter III, *'Langsa'*, pp. 15–16.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter III, *'Langsa'*, pp. 12–19. Also *Atjeh Patchouli-Olie*, by Ir. W. Spoon (Bericht No. 71, 1932), for the Langsa patchouli-distillery.
-
 *Een strijd in Atjeh (Een oogarts op het oorlogspad)*, door Mr. C. Graadt van Roggen, met een voorrede van den heer H. Wanting, redacteur *Nieuwe Rotterdamsche Courant* (Rotterdam: N.V. Drukkerij Korteweg, uitgave van de Vereeniging „SIMAVI”, [[1934]]), pp. 3–4.
-
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IX, XII, XIII.
-
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 36, 48–49, 84, 90–91, 107, 121, 185.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 12-20.

@@ -1,45 +1,10 @@
 ---
-title: H. T. Damsté
-aliases:
-- Mr. H. T. Damsté
-- Damsté
-- Hendrik Thijs Damsté
-- H. T. Damste
-- Hermanus Theodorus Damsté
-- Damste Atjeh
-- Damste Simpang Olim
-- H. Th. Damsté
-- Damsté (colonial official)
-tags:
-- person
-- dutch
-- colonial
-- scholar
-- administrator
-- atjeh
-- aceh-scholarship
-- atjehnese-language
-- piekaar-canon
-- bki
-- koninklijk-instituut
-- seven-sleepers
-- raniri
-- 20th-century
-- author
-- official
-- simpang-olim
-- koloniaal-tijdschrift
-- acheh
-- aceh-war
-- source
-- biographer
-description: Dutch colonial scholar and administrator who served as one of the principal
-  authorities on Atjèh cited in Piekaar's Atjèh and the War with Japan, a member of
-  the Board of the Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië
-  by 1940, the editor of the 1939 Hikajat Eitia Toedjoh (the Atjehsch Seven Sleepers
-  legend), and the summariser of Teungku Harõn's Achehnese adaptation of Raniri's
-  Tibjān.
+title: "H. T. Damsté"
+aliases: ["Mr. H. T. Damsté", "Damsté", "Hendrik Thijs Damsté", "H. T. Damste", "Hermanus Theodorus Damsté", "Damste Atjeh", "Damste Simpang Olim", "H. Th. Damsté", "Damsté (colonial official)", "H. T. Damsté", "Resident Damsté", "Author Een stukje Atjeh-geschiedenis"]
+tags: [person, dutch, colonial, scholar, administrator, atjeh, aceh-scholarship, atjehnese-language, piekaar-canon, bki, koninklijk-instituut, seven-sleepers, raniri, 20th-century, author, official, simpang-olim, koloniaal-tijdschrift, acheh, aceh-war, source, biographer, resident, aceh]
+description: "Dutch colonial scholar and administrator who served as one of the principal authorities on Atjèh cited in Piekaar's Atjèh and the War with Japan, a member of the Board of the Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië by 1940, the editor of the 1939 Hikajat Eitia Toedjoh (the Atjehsch Seven Sleepers legend), and the summariser of Teungku Harõn's Achehnese adaptation of Raniri's Tibjān."
 ---
+
 **H. T. Damsté** — Hendrik Thijs Damsté, also addressed as **Mr. H. T. Damsté** — was a Dutch colonial administrator and scholar of Achehnese who served as one of the principal authorities on [[Atjeh|Atjèh]] cited by [[Dr. A. J. Piekaar|Piekaar]] in the *Bibliography* of *Atjèh and the War with Japan* alongside [[C. Snouck Hurgronje|Dr. Snouck Hurgronje]], [[J. Kreemer|Kreemer]], [[J. J. Jongejans|Jongejans]], and Zentgraaff, and who served as Piekaar's principal collaborator in the preparation of the work, "constantly supported me with advice and assistance and was kind enough to read through the manuscript and provide it with notes." He was, by [[1940]], a member of the Board (*Bestuur*) of the [[Koninklijke Vereeniging Koloniaal Instituut|Koninklijke Vereeniging Koloniaal Instituut]] — the central metropolitan institution of Dutch Indies scholarship — and the editor, in [[1939]], of the standard Atjehnese version of the Seven Sleepers legend. He is further the principal European channel through which the Achehnese reading of the [[Tibjan fi ma'rifat al-adyan|*Tibjān*]] of [[Nur al-Din al-Raniri|Nūruddīn ar-Rānīrī]] was made accessible to scholarship, by way of his summary of [[Teungku Haron|Teungku Harõn]]'s Acehnese adaptation of that work.
 
 ## The Scholarly Canon on Atjèh
@@ -86,6 +51,16 @@ Damste's article narrates how, when the Dutch government established itself in t
 
 Damste's article is one of a series of short colonial-period studies of individual Atjehnese *landschappen* — studies that, taken together, form the indispensable source for the political history of Atjeh in the transition period between the [[Aceh War|Atjeh-oorlog]] and the civilian government. The article is regularly cited alongside the more general works of [[Dr. Snouck Hurgronje|Snouck Hurgronje]] and [[J. A. Kruyt|Kruyt]] as one of the sources for the early colonial-period history of the eastern coast.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**H. T. Damsté** was Dutch colonial officer and author of essay "Een stukje Atjeh-geschiedenis" in [[Koloniaal Tijdschrift]] [[1918]], and later critical article in [[Koloniaal Tijdschrift]] September [[1924]] concerning maladministration.
+
+### Contribution to Aceh history
+
+Broersma refers to Damsté's 1918 essay for full account of succession struggle in [[Simpang Olim]] where [[Teukoe Moeda Oesoeh]] had to ensure he and not another who less right became oeléëbalang.
+
+In September [[1924]] Damsté published criticism aligning with [[C. Snouck Hurgronje]]'s 1924 article about arbitrary handling of moneys during governorate [[H. N. A. Swart]] period [[1908]]-[[1918]], including fictitious secret police accounts, volksschool funds expenses unrelated to people and schools, civil public works accounted not spent as such, vaccination reports stating vaccinations not done, firearm investigations reporting "nothing special" while far more firearms without permit than with permit in possession Atjehers.
+
 ## See Also
 
 - [[1873]]
@@ -131,14 +106,14 @@ Damste's article is one of a series of short colonial-period studies of individu
 - [[1916]]
 - [[1936]]
 - [[1898]]
+- [[Teukoe Moeda Oesoeh]]
+- [[H. N. A. Swart]]
 
-## Sources
+## Source
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Foreword.
-
 *Literatuur-Overzicht over het jaar 1939 van de Taal-, Land- en Volkenkunde en Geschiedenis van Nederlandsch-Indië*, door H. van Meurs ('s-Gravenhage: M. Nijhoff, 1940), Hoofdstuk III (Sumatra en naburig gebied), Nos. 560, 561, 570; and Bijlage: "Het Koninklijk Instituut voor de Taal-, Land- en Volkenkunde van Nederlandsch-Indië," pp. 89–90. Citing: H. T. Damsté, "De legende van de heilige zeven slapers in het Atjehsch," *B.K.I.*, deel 98 (1939), p. 407 e.v.; and *Hikajat Eitia Toedjoh. Tekst A van "De legende van de heilige zeven slapers in het Atjehsch" door H. T. Damsté* (Overdr. uit dl. 98 der B.K.I.; 's-Gravenhage: M. Nijhoff, 1939).
-
 *Twee Maleise geschriften van Nūruddīn ar-Rānīrī: in facsimile uitgegeven met aantekeningen door P. Voorhoeve*. Uitgaven van de Stichting De Goeje, No. 16. Leiden: E. J. Brill, 1955. Inleiding §2d ("Apparatus criticus"), p. 25, where Damsté's summary is discussed.
-
 *'Een stukje Atjeh-geschiedenis',* by H. T. Damste, in *Koloniaal Tijdschrift* (1918). Cited in *[[Verkenningen in Atjeh (1923)|Verkenningen in Atjeh]]* by Dr. R. Broersma, p. 50.
 *Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, pp. 1, 28.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 45-46, 125.

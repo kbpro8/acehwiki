@@ -1,51 +1,10 @@
 ---
-title: J. A. Kruyt
-aliases:
-- J.A. Kruyt
-- J.A. Kruijt
-- J. A. Kruijt
-- J. A. Kniijt
-- Johannes Augustinus Kruyt
-- Kruyt Timor
-- Kruyt blockade
-- Kruyt Atjeh en de Atjehers
-- Johannes Antonius Kruijt
-- Kruijt
-- De Schrijver (De Atjeh-Oorlog)
-- Oud Controleur-Generaal Kruijt
-- J. A. Kruit
-- J. A. Kruijt (consul)
-- Kruijt (Djidda consul)
-- Consul Kruijt
-- Kruijt Djidda
-- Netherlands consul at Djidda Kruijt
-tags:
-- person
-- scholar
-- colonial-official
-- dutch
-- author
-- naval
-- colonial
-- blockade
-- timor
-- east-coast
-- acheh
-- kruyt
-- historian
-- aceh-war
-- 19th-century
-- source
-- kruijt
-- diplomat
-- consul
-- djidda
-- snouck-hurgronje
-- mekka
-- consul-at-djidda
-description: Dutch author of *Atjeh en de Atjehers*, cited as a standard source by
-  Snouck Hurgronje in Vol. I of *The Achehnese*.
+title: "J. A. Kruyt"
+aliases: ["J.A. Kruyt", "J.A. Kruijt", "J. A. Kruijt", "J. A. Kniijt", "Johannes Augustinus Kruyt", "Kruyt Timor", "Kruyt blockade", "Kruyt Atjeh en de Atjehers", "Johannes Antonius Kruijt", "Kruijt", "De Schrijver (De Atjeh-Oorlog)", "Oud Controleur-Generaal Kruijt", "J. A. Kruit", "J. A. Kruijt (consul)", "Kruijt (Djidda consul)", "Consul Kruijt", "Kruijt Djidda", "Netherlands consul at Djidda Kruijt", "Kruyt", "J. A. Kruyt", "Author of Atjeh en de Atjehers 1877", "Officer of Timor"]
+tags: [person, scholar, colonial-official, dutch, author, naval, colonial, blockade, timor, east-coast, acheh, kruyt, historian, aceh-war, 19th-century, source, kruijt, diplomat, consul, djidda, snouck-hurgronje, mekka, consul-at-djidda, naval-officer]
+description: "Dutch author of *Atjeh en de Atjehers*, cited as a standard source by Snouck Hurgronje in Vol. I of *The Achehnese*."
 ---
+
 **J. A. Kruyt** — also rendered **J. A. Kruijt**, with the OCR-garbled form **J. A. Kniijt** also occurring in the text — was a Dutch author whose work *Atjeh en de Atjehers* ("Aceh and the Acehnese") is cited repeatedly by [[C. Snouck Hurgronje|Snouck Hurgronje]] in Vol. I of *The Achehnese* as one of the standard sources on the country and people of [[Aceh]]. His name appears in the footnotes of the Introduction as one of the small body of Dutch writers whose observations on Acehnese life and history had been published before Snouck Hurgronje's own investigations.
 
 ## The Work: *Atjeh en de Atjehers*
@@ -102,6 +61,18 @@ Broersma cites Kruyt repeatedly in the early chapters of *[[Verkenningen in Atje
 
 
 Kruyt's *Atjeh en de Atjehers* is the indispensable starting-point for any history of the eastern coast of Atjeh in the early blockade-period. His mixture of naval memoir, commercial report and ethnographic note became a model for later colonial reconnaissance literature, and his statistical observations on the pepper-trade are the only quantitative basis for the comparison of the [[1873]] east-coast exports with the [[1913]] figures given in *[[De Buitenbezittingen 1904-1914|De Buitenbezittingen 1904-'14]]*.
+
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**J. A. Kruyt** was a Dutch naval officer and author of *Atjeh en de Atjehers, twee jaren blokkade op Sumatra's Noord-oost-kust* (Leiden, [[1877]]), based on cruising with the warship [[Timor]] on the east coast of [[Atjeh]] between [[1873]] and [[1875]].
+
+### Account of pepper culture
+
+Kruyt recorded that a pepper garden usually counted 5,000 trees yielding 5 *kojang* = 1,100 *picol*, maintained by 3 or 4 men who received half produce at local market price. A collection of pepper gardens together was called *seuneubò* (Kruyt wrote "seleboe"; probably misheard). He estimated annual export from east coast at 5,000 to 6,000 *kojang* at [[Penang]] market prices between 200 and 250 *pilaardollars* per *kojang* in [[August]] [[1873]]: three years earlier price had been 90.
+
+### Petroleum discovery at Rantau Pandjang
+
+Kruyt's book also preserves the earliest European description of petroleum wells near [[Rantau Pandjang]], north-west of [[Peureula]], visited in [[May]] [[1875]] by officers of the [[Timor]] led by [[Atjeh]] chiefs. He described fenced source, underground wooden collection tank with lid, oil skimmed twice daily with *pisang* leaf buckets, transported in hollow bamboos on back to [[Rantau Pandjang]] for sale at nearly 6 dollars per *picol*, head monthly income 200 dollars. Pebbles near source proved on investigation to be weathered granite, quartz, quartzite, quartz conglomerate and siliceous sandstone.
 
 ## See Also
 
@@ -166,11 +137,13 @@ Kruyt's *Atjeh en de Atjehers* is the indispensable starting-point for any histo
 - [[1884]]
 - [[1885]]
 - [[1889]]
+- [[Peureula]]
+- [[Perlak Petroleum-Mij]]
 
-## Sources
+## Source
 
 *The Achehnese*, Vol. I, by Dr. [[C. Snouck Hurgronje|C. Snouck Hurgronje]], translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, [[1906]].
-
 *Atjeh en de Atjehers, twee jaren blokkade op Sumatra's Noordoost-kust*, by J. A. Kruyt (Leiden: E. J. Brill, 1877). Cited throughout *[[Verkenningen in Atjeh (1923)|Verkenningen in Atjeh]]* by Dr. R. Broersma.
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt, Oud Controleur-Generaal der Nederlanden te Pokkenhage. Boekerij van het Koloniaal Instituut. 's-Gravenhage: Loman & Funke, 1896. Title page, *Inleiding*, and *Besluit*. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 5, 11, 74–79.
 *Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, pp. 5, 8, 13.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 27-29, 33-34, 55.

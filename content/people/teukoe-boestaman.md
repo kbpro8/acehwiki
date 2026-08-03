@@ -1,7 +1,7 @@
 ---
 title: "Teukoe Boestaman"
-aliases: ["Teukoe Boestaman", "Boestaman Peusangan", "Teukoe Boestaman Peusangan", "landbouwkundige of Peusangan"]
-tags: [person, agriculture, achehnese, peusangan, soekaboemi, cultuurschool, 1923, colonial, landbouwkundige]
+aliases: ["Teukoe Boestaman", "Boestaman Peusangan", "Teukoe Boestaman Peusangan", "landbouwkundige of Peusangan", "Boestaman", "Teukoe Boestaman landbouwkundige Peusangan"]
+tags: [person, agriculture, achehnese, peusangan, soekaboemi, cultuurschool, 1923, colonial, landbouwkundige, acehnese]
 ---
 
 **Teukoe Boestaman** was a brother of [[Mohamad Djohan Alamsjah|Mohamad Djohan Alamsjah]], the *[[Oeléebalang|oeléebalang]]* of [[Peusangan|Peusangan]], and held the office of *landbouwkundige* — agricultural expert — in that *landschap*. He had been trained at the *cultuurschool* at [[Soekaboemi|Soekaboemi]] in West Java, and is one of the few Atjehnese agricultural experts of his generation to have received a Dutch agricultural education.
@@ -12,7 +12,16 @@ Broersma mentions Teukoe Boestaman in the course of his account of the *oeléeba
 ## Significance
 Teukoe Boestaman is an early instance of the new career-path opening to the younger brothers of *oeléebalangs* in the post-pacification period: a Dutch agricultural education, followed by an official agricultural post within the brother's *landschap*. Such men were intended to form the local cadre through whom the *departement van Landbouw* could reach the Atjehnese cultivator without the mediation of European officials — a policy Broersma strongly recommends in his chapter on the improvement of the rice-land.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Teukoe Boestaman** was brother of [[Mohamed Djohan Alamsjah]] and agriculturalist (*landbouwkundige*) of landscape [[Peusangan]], trained at the cultuurschool at [[Soekaboemi]].
+
+### Role
+
+In [[Peusangan]], with more agricultural feeling than other landscapes, Boestaman served to calculate yields and advise on padi, second crops, and irrigation. He and the oeléëbalang calculated yield on rain-dependent grounds at 31 *picol* dry padi.
+
 ## See Also
+
 - [[Mohamad Djohan Alamsjah]]
 - [[Mohamad Ali Alamsjah]]
 - [[Peusangan]]
@@ -21,6 +30,10 @@ Teukoe Boestaman is an early instance of the new career-path opening to the youn
 - [[Oeléebalang]]
 - [[Verkenningen in Atjeh (1923)]]
 - [[Verbetering van het rijstland in Atjeh]]
+- [[Mohamed Djohan Alamsjah]]
+- [[Paditeelt]]
 
 ## Source
+
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter X, *'In het land van Peusangan'*, p. 67.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 60-62.

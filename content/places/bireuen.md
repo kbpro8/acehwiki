@@ -1,7 +1,7 @@
 ---
 title: "Bireuën"
-aliases: ["Bireun", "town", "aceh", "colonial", "Birun", "Bireuen hoofdplaats", "Bireuen onderafdeeling"]
-tags: [place, hoofdplaats, noordkust, achehnese, town, aceh, colonial, underafdeeling, noordkust-van-atjeh, peusangan, gajo-weg, atjeh-tram, pasars, landschap, resistance]
+aliases: ["Bireun", "town", "aceh", "colonial", "Birun", "Bireuen hoofdplaats", "Bireuen onderafdeeling", "Bireuen Atjeh", "Peusangan hoofdplaats", "Bireuën"]
+tags: [place, hoofdplaats, noordkust, achehnese, town, aceh, colonial, underafdeeling, noordkust-van-atjeh, peusangan, gajo-weg, atjeh-tram, pasars, landschap, resistance, administrative, atjeh, gayo-gateway]
 ---
 
 **Bireuën** was the hoofdplaats of the onderafdeeling Bireuën of the [[Afdeeling Noordkust van Atjeh|Afdeeling Noordkust van Atjeh]], the principal settlement of the vlakte of the Kr. Peusangan, and the critical junction at which the great Gajo-weg left the coast to climb toward the *Laoet Tawar* and the Gajoland beyond. *De Buitenbezittingen* treats Bireuën as the northern terminus of the road system that opened the Gajo-lands: "De aanleg van deze eenige verbindingsschakel tusschen de vruchtbare hoogvlakten en de Noordkust vond in den beginne veel bestrijders" — the construction of this single connecting link between the fertile high plains and the Noordkust met with much initial opposition.
@@ -68,6 +68,34 @@ Bireuen is the type-figure of the well-kept colonial *hoofdplaats* of the easter
 
 After respect for the *[[Kompeuni]]* had been restored under [[G. F. B. Watrin|Watrin]], the protected population turned against the bands: [[20 December]] [[1909]] brought the end for [[Pang Aron]] and [[24 December]] for [[Tgk. di Atjèh Ma' Amin]], overpowered while foraging in *gampong* [[Blang]]. [[1910]] was the last "verzetsjaar": sixty-two opponents killed, thirty-one prisoners and 161 submissions, though five *gampong* dwellers were still murdered and seven wounded and attacks were made on the [[Gajòweg]] then under construction. Swart could report that the valleys of the [[Beuratjan]], the [[Panté Radja]] and the [[Mampréë]] could be occupied to three hours' walk into the mountains, some four hundred registered persons settling there with their families and moving about unarmed without molestation. In February [[1913]] the head of the [[Lampehan-bendetje]] reported himself "and Bireuën too was clean". In July [[1913]] two Acehnese ran amok at the station, killing two non-commissioned officers. In October [[1911]] Swart inspected Bireuën and reached [[Kr. Seumpo]] for the first time by motorcar along the Gajòweg. A photograph shows Swart before the *pasanggrahan* at Bireuen in [[1910]].
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Bireuen** (*Birun*) was hoofdplaats of underafdeeling [[Bireuen]] of afdeeling [[Noordkust van Atjeh]] and pleasantest place in eastern Atjeh per Broersma.
+
+### Description
+
+Large rectangle: one side formed station with emplacement, opposite long side dwellings controller, officers and pasanggrahan, most beautiful whole Atjeh. Between both sides grass field fairly high trees. Behind dwellings officers bivouac. Market streets other side tram line. All neat fresh quiet place though some bustle. Not port all transport with [[Atjeh Tram|Atjeh-tram]] and bustle market partly fact endpoint [[Gajo-weg]]: what from Gajo-landen to east coast goes comes at [[Bireuen]].
+
+### Landscape Peusangan
+
+[[Peusangan]] large landscape >32,000 souls. Oeléëbalang [[Mohamed Djohan Alamsjah]] etc. About third ground irrigable i.e., from swamp and some wadoeks. Attempted irrigation from Peusangan at [[Panté Lhong]] costs 3 tons fruitless.
+
+Landscape its real sawahs own construction tegal fields higher terrains also ladangs. Peusangan pepper pinang less important than elsewhere here besides padi also djagong oebi katjang tanah little sugarcane tobacco. Indigenous agriculture here resembles Java.
+
+Padiculture accounting and second crops described.
+
+Record busy agriculture seen use credit biggest part capital Volkscredietbank [[Lho Seumawe]] finds in underafdeeling [[Bireuen]] placement amount sometimes 3 ton. In [[Peusangan]] about 10 gampongbankjes capitals 300-600 gulden reserves 100-300, properly looked management.
+
+European agricultural industry until recently in [[Peusangan]] northernmost representation: land [[Beuridi]] similarly company bore short life rubber klappers sereh [[1921]] abandoned that listless time could be bought for few thousand guilders.
+
+Peusangan still some weaving but overall population wears imported kains For weaving silk mostly imported however few gampongs maintain mulberry trees silkworms. Artistic plaiting mats figures colored silk women also work *waalers* frame part palm leaf (palm called *teuē*) in inner part with velvet gold decorated.
+
+Since government salt monopoly not extend over Atjeh could develop population salt winning to extent import salt small. Salt winning everywhere but north and east coast north of [[Idi]] much more practiced south of that place. Coastal [[Peusangan]] wins fairly much salt. Process open terrains near tidal forest loosening ground bit sea water flood throws loose ground into pit 3 dM depth additional sea water poured filtering then collection basin approx 80 cm that water carried nearby dwellings poured big container cooked portions pots till salt remains cooking 10-12 hours needs much firewood. Advantage distance raking and obtaining picol fairly white salt 3 days picol sold Peusangan f 3.30 wood delivery quantity f 1.25 so for 3 days about 2 gulden left meaning normal daily wage etc. Workers alone or kongsie heavy labour not demanding women take part.
+
+Residential areas sea whole east coast Sumatra shabby, seems fishery work tidal forests salt winning must pair sloppiness dilapidation dwelling circumstance health harm.
+
+Atjeh area where still elephants [[Peureula]], [[Lho Soekon]], [[Peusangan]] and probably elsewhere Atjeher or team hunts elephants for costly tusk formerly many gampong smaller larger community had *pawang* expert boss hunt as still fishery has pawang as group leader expert thereby preponderance leadership etc. Price tusks: usual buy pair; pair large tusks weighs approx 1 picol smaller calculated katties weight heard prices [[Peureula]] 500-600 gulden picol thus pair large tusks [[Idi]] 600 [[Peusangan]] 480-500. In [[Pidie]] elephants still service military transport goods less fast safer than rental autos.
+
 ## See Also
 
 - [[13 March]]
@@ -105,17 +133,16 @@ After respect for the *[[Kompeuni]]* had been restored under [[G. F. B. Watrin|W
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Takengon]]
+- [[Atjeh Tram]]
+- [[Paja Tjitjem]]
 
 ## Source
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 53–56 (section "De aanleg van wegen op de Buitenbezittingen").
-
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 13–14, 21–22, 38, 65–67, 126.
-
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 3, Chapter II, Chapter IV, Chapter V § 2.
-
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn*.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter X, *'In het land van Peusangan'*, pp. 66–70.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XII.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 59-64.

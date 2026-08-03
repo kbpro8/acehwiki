@@ -1,55 +1,8 @@
 ---
-title: H. N. A. Swart
-aliases:
-- H. N. N. A. Swart
-- Hendrik Nikolaas Albert Swart
-- Swart
-- Mr. Swart
-- Major Swart
-- Kolonel Swart
-- Generaal Swart
-- General Swart
-- Governor Swart
-- Gouverneur Swart
-- Lieutenant-General Swart
-- Toean Gouverneur Swart
-- Aceh-connoisseur Swart
-- successor of Van Daalen
-- Swart the Pacificator
-- Pacificator of Atjeh
-- Pacificator van Atjeh
-- Henri Nicolaas Alfred Swart
-- Toean Besar Swart
-- Bapa Swart
-- de Bult
-- Swart (Atjeh officer)
-- Pacificator van Atjeh Swart
-- "N. A. Swart"
-- "Henri Swart"
-tags:
-- person
-- general
-- dutch
-- colonial
-- military
-- governor
-- aceh
-- aceh-war
-- knil
-- bestuursreorganisatie
-- 20th-century
-- achehnese
-- 19th-century
-- pacification
-- marechaussee
-- officer
-- period-van-heutsz
-- pacificator
-description: Dutch lieutenant-general of infantry (active 1890s–1918) who, as Civil
-  and Military Governor of Atjeh en Onderhoorigheden from 1908 to 1918, restored conciliatory
-  governance after the Van Daalen years, presided over the 1913–1914 Sumatra administrative
-  reform, and finally handed a peaceful Aceh over to a civilian governor in 1918 —
-  closing the forty-five-year Aceh War.
+title: "H. N. A. Swart"
+aliases: ["H. N. N. A. Swart", "Hendrik Nikolaas Albert Swart", "Swart", "Mr. Swart", "Major Swart", "Kolonel Swart", "Generaal Swart", "General Swart", "Governor Swart", "Gouverneur Swart", "Lieutenant-General Swart", "Toean Gouverneur Swart", "Aceh-connoisseur Swart", "successor of Van Daalen", "Swart the Pacificator", "Pacificator of Atjeh", "Pacificator van Atjeh", "Henri Nicolaas Alfred Swart", "Toean Besar Swart", "Bapa Swart", "de Bult", "Swart (Atjeh officer)", "Pacificator van Atjeh Swart", "N. A. Swart", "Henri Swart", "H. N. A. Swart oud-gouverneur van Atjeh"]
+tags: [person, general, dutch, colonial, military, governor, aceh, aceh-war, knil, bestuursreorganisatie, 20th-century, achehnese, 19th-century, pacification, marechaussee, officer, period-van-heutsz, pacificator, atjeh, 1908-1918]
+description: "Dutch lieutenant-general of infantry (active 1890s–1918) who, as Civil and Military Governor of Atjeh en Onderhoorigheden from 1908 to 1918, restored conciliatory governance after the Van Daalen years, presided over the 1913–1914 Sumatra administrative reform, and finally handed a peaceful Aceh over to a civilian governor in 1918 — closing the forty-five-year Aceh War."
 ---
 
 **H. N. A. Swart** — *Hendrik Nikolaas Albert Swart* — known in the Acehnese idiom of the old hunter [[Datoek]] as *Toean Gouverneur Swart* — was a Dutch **lieutenant-general of the infantry** (*Luitenant-Generaal der Infanterie*) of the [[Royal Netherlands East Indies Army|K.N.I.L.]] and colonial administrator who, as **Civil and Military Governor of [[Gouvernement Atjeh en Onderhoorigheden|Atjeh and Dependencies]]** from [[1908]] to [[1918]], restored conciliatory governance after the harsh policies of his predecessor [[Gotfried Coenraad Ernst van Daalen|Van Daalen]] had provoked the [[Atjéh-enquête|1907–1908 inquiry]] and a fierce flare-up of armed resistance, and who finally handed a peaceful Aceh over to a civilian Governor in [[1918]] — thereby ending what G. W. T. Dames calls "the lingering disease: the [[Atjeh-oorlog|Atjeh War]]" ("the lingering disease: the Aceh War"). He was the final military governor of [[Atjeh|Aceh]], the *Aceh-connoisseur* whose ten-year administration — "order and peace were consolidated in that province" — was the phase that "brought the [[Aceh War]] to an end," and who throughout his career "altijd en overal het meest voelde voor breken van het verzet zonder bloedvergieten" — "always and everywhere most preferred to break resistance without bloodshed". [[J. Kreemer|J. Kreemer]]'s *Atjèh* ([[1923]]) catalogues the administrative reforms of his governorship — the restoration of the *Hasil-reglement*, the reform of *wasé oelèëbalang*, the removal of *bestuursbemoeienis* from private-law pepper contracts, and the rapid expansion of *volksonderwijs* — in detail. In the received memory of the late-colonial Dutch community of the Indies, Swart came to be known as the *Pacificator van Atjeh* ("Pacifier of Atjeh") — a title fixed by the elegy of F. Kunst that laments the post-war destruction of his life's work.
@@ -437,6 +390,16 @@ Convinced that the European government no longer had to act merely punitively, S
 
 Nineteen years Swart had lived and worked among the Atjehnese; ten years in succession he governed land and people. Receiving author Langhout as old Vice-President of the Council of the Indies, he rejected press talk of an ineradicable hereditary hatred of the Dutch among the kampong women — "Wie dat zegt, kent het volk niet!" ("Whoever says that, does not know the people!") — and told of [[Teukoe Tjhi Peusangan]], of [[Panglima Polem]] and his sister, of Polem's brother-in-law [[Toeankoe Radja Keumala]], of [[Potjoet Meurah|Pòtjoet Meurah]] and her husband [[Toeankoe Machmoed]], and of so many other descendants of sultans and Atjehnese chiefs who entrusted to the *kaphé* (infidel) their "dearest and most secret thoughts". In his foreword of [[31 March]] [[1923]] at The Hague, signed "H. N. A. Swart, Oud Civiel en Militair Gouverneur van Atjeh en Onderhoorigheden", he held that after the long and tenacious struggle a state of rest and order had prevailed for about ten years, which only needed time fully to consolidate. Stepping ashore at [[Sabang]] again at the end of January [[1922]] on his way to Europe, he was told by the Atjehnese chiefs who came to compliment him that the economic development of Atjeh was still progressing.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**H. N. A. Swart** was Civil and Military Governor of [[Atjeh en Onderhoorigheden]] from [[1908]] to [[1918]], whose administration was the central focus of [[J. Langhout|J. Langhout]]'s jubilee book *Vijftig jaren economische staatkunde in Atjeh* ([[1923]]).
+
+### Administration as described by Broersma
+
+[[Dr. R. Broersma]] characterized Swart's period as a period of appearance and self-advertisement, elevated in the tasteless advertising of 1923 to a vessel full of "blessings of peace". According to Broersma, Swart was indicated as the person truly responsible for the content of Langhout's book, although Langhout was listed as author. Len Langhout had never seen land and people when he compiled overview from data presented to him.
+
+Broersma considered the departmental support of the Department of Colonies for this advertising as unworthy of the Dutch state, particularly as an English edition was also provided.
+
 ## See Also
 
 - [[Gouvernement Atjeh en Onderhoorigheden]]
@@ -547,25 +510,19 @@ Nineteen years Swart had lived and worked among the Atjehnese; ten years in succ
 - [[Government of Atjeh en Onderhoorigheden]]
 - [[Atjeh Museum]]
 - [[Vijftig jaren economische staatkunde in Atjeh]]
+- [[J. Langhout]]
+- [[Atjeh-tram]]
 
 ## Source
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), Bijlage I and pp. 33–36, 205.
-
 *J. B. van Heutsz als Gouverneur Generaal 1904-1909*, by J. C. Lamster (Amsterdam: P. N. van Kampen & Zoon N.V., 1938), pp. 52, 92, 96, 161, 199, 271. Rijksarchief, Den Haag.
-
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapters on the colonne Schmidt and on Dominee Thenu.
-
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on *overplaatsingswee*, the chapter on den zieleherder, and the chapter *Jagerslatijn*.
-
 *Notulen der bestuursvergaderingen ter bespreking van de verdere voorbereiding eener hervorming van het bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), pp. 118–130.
-
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
-
 *Melati en rotan: Gedichten van F. Kunst, pentekeningen van Johanna Roberti* (Bandoeng: Vacuüm-Handel Maatschappij Vortex en Uitgeverij en Boekhandel W. Mellink, [[1947]]), p. 41 ("*Bij den dood van Generaal Swart, den pacificator van Atjeh*").
-
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by Mr W. J. van Welderen baron Rengers, 4th rev. ed., Vol. IV: *Oost-Indië 1891-1918* by Dr W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, 1955), p. 273.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Foreword; Chapters I–IV, VIII–XVII; Appendixn: Letter of the Acehnese chiefs, Extract from the service record of H. N. A. Swart, pp. 1–177.
-
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), Voorwoord, pp. 94–113, 121–122.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 5-6, 121-131.

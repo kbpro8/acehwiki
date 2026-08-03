@@ -1,54 +1,7 @@
 ---
-title: Atjeh-tram
-aliases:
-- Atjeh Tramway
-- Atjehsche tram
-- Atjeh train
-- Dienst der S.S.
-- Aceh tram
-- Atjehtram
-- Atjeh Staatsspoor
-- Atjehtram (place)
-- Atjeh tram
-- Atjeh-tram route
-- Tramweg aanleg in Atjeh (1897)
-- Tramweg aanleg in Atjeh
-- Tramway construction Atjeh
-- Tram-aanleg Atjeh
-- Atjeh tram line
-- "Atjeh-tram"
-- "Atjeh stoomtram"
-- "Atjeh State Railway"
-- "Atjehsche stoomtram"
-tags:
-- organization
-- colonial
-- dutch
-- railway
-- infrastructure
-- military
-- transport
-- atjeh-tram
-- kota-radja
-- oelèë-lheue
-- besitang
-- pangkalan-soesoe
-- sigli
-- lho-seumawe
-- langsa
-- bireuen
-- seulimeum
-- smalspoor
-- 0.75-m
-- 62-locomotives
-- aceh
-- 20th-century
-- place
-- tram
-- concept
-- acheh
-- "government"
-
+title: "Atjeh-tram"
+aliases: ["Atjeh Tramway", "Atjehsche tram", "Atjeh train", "Dienst der S.S.", "Aceh tram", "Atjehtram", "Atjeh Staatsspoor", "Atjehtram (place)", "Atjeh tram", "Atjeh-tram route", "Tramweg aanleg in Atjeh (1897)", "Tramweg aanleg in Atjeh", "Tramway construction Atjeh", "Tram-aanleg Atjeh", "Atjeh tram line", "Atjeh-tram", "Atjeh stoomtram", "Atjeh State Railway", "Atjehsche stoomtram", "Tramweg Atjeh", "Dienst der S.S. Atjeh"]
+tags: [organization, colonial, dutch, railway, infrastructure, military, transport, atjeh-tram, kota-radja, oelèë-lheue, besitang, pangkalan-soesoe, sigli, lho-seumawe, langsa, bireuen, seulimeum, smalspoor, 0.75-m, 62-locomotives, aceh, 20th-century, place, tram, concept, acheh, government, atjeh]
 ---
 
 **The Atjeh-tram** was the military-origin tramway of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] that, by [[1917]], had become the principal transport artery of the *gewest* — connecting [[Koeta Radja|Koeta Radja]] and [[Oelèë Lheuë|Oelèë Lheuë]] with Indragiri and Seulimeum and, beyond the Goudberg-hoogvlakte, with the principal bevolkings-centra of the Noord- and Oostkust as far as [[Koeala Simpang|Koeala Simpang]] and [[Besitang|Besitang]]. Operated as the *Dienst der S.S.* (Staatsspoorwegen) under the Department van Gouvernements-Bedrijven, the Atjeh-tram had, *De Buitenbezittingen* records, "haar militaire rol reeds geheel losgelaten" — already entirely shed its military role — and now possessed "in de voornaamste plaats economische beteekenis."
@@ -224,6 +177,40 @@ The connection with the Deli railway was already discussed under Van Heutsz. In 
 
 Peculiarly, the tram served during its first almost fifty years under three different bodies: the engineers ([[Genie]]), who had largely built it; from [[1882]] the Department of Civil Public Works (*Burgerlijke Openbare Werken*); from [[1890]] again the Department of War; and from [[1 January]] [[1916]] the Government Enterprises (State Railways / *Gouvernementsbedrijven*). The total length of the Atjeh line amounts to 450 kilometre plus several branch lines; locomotives develop a maximum speed of 40 km/h with train-weights of 100–120 tons, fuel changing from Ombilin coal to *bakobako*-wood; the rolling stock includes water-tank wagons, director and inspection saloons, first-, second- and third-class carriages, sick-carriages, hearses, closed and open goods wagons and cattle wagons. The exploitation long ran at a loss (the land traffic ran free of charge and there was no hinterland), but the paying traffic rose from over f 37,000 (mid-[[1908]]) to f 77,000 ([[1914]]) and f 97,000 ([[1918]]). Langhout took the data from the Colonial Reports, from an article by Ir. [[J. H. Müller]] in the *Indisch Tijdschrift voor Spoor- en Tramwegen*, and from particulars and photographs of Ir. [[J. H. Caspers]], old chief of construction of the Atjeh tram.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Atjeh Tram** was military-origin tramway of [[Gouvernement Atjeh en Onderhoorigheden]] 495 km long main line [[Oelèë Lheuë]] to [[Pangkalan Soesoe]] plus side lines [[Langsa]]-[[Koeala Langsa]] 9 km and [[Beureunoen]]-[[Lam Meulo]] 5 km, narrow gauge 0.75M, meeting [[Deli Spoorweg Maatschappij|Deli-spoor]] 1.067M at [[Besitang]] via three-rail track to [[Pangkalan Soesoe]].
+
+### Development
+
+First rail traffic between [[Koeta Radja]] and port [[Oelèë Lheuë]] (Oleh Leh) until time concentration when Dutch power [[1884]] limited to ring around [[Koeta Radja]] and ceintuurbaan 16 posts connected short before to tram reduced railway while three radial lines hoofdvestiging [[Koeta Radja]] with ceintuurbaan connected. Recently saw [[Sigli]] locomotive already service 1884. For telephone in posts circle also cared.
+
+When [[1896]] other insights regarding acting in Atjeh gained and line concentration around [[Koeta Radja]] given up, needed track through [[Groot-Atjeh]]. [[1897]]-[[1898]] tram via [[Indrapoeri]] to [[Seulimeum]] (Slimum). Conformed political-military insights time that first years new century also in dependencies Atjeh worked tram line From [[Sigli]] built direction [[Langsa]] but also direction [[Seulimeum]] [[1908]] line Koeta Radja to Langsa. After [[1910]] only worked tram [[Langsa]]-[[Koeala Simpang]] and [[1913]] decision extension [[Besitang]] and [[Pangkalan Soesoe]]. At [[Besitang]] meeting few years Atjeh-tram and Deli-spoor and over common track both to [[Pangkalan Soesoe]] track with three rails because Atjeh-tram narrow gauge 0.75M Deli-spoor 1.067M.
+
+According to Broersma, every distance along eastern coast can be done with auto over big road not broad but properly maintained, or with Atjeh-tram also not broad (0.75M) but properly maintained. From [[Koeala Simpang]] to [[Langsa]] tram about 1.5 hour, sneltrein 1.25 hour. "Net speelgoed" would call tram miniature train, but significant.
+
+Disadvantages narrow gauge for permanent railway many well-known but at time construction not have today's experiences and works undertaken 30 years ago in Atjeh stood exclusively military use foreground If want escape consequences must go rebuild heavier track wider gauge And anticipating state gewest will once demand says currently Atjeh-tram great services indispensable satisfying work provided leadership not out eyes Atjeh also connection needs Oostkust Sumatra and existing connection as reasonable general utility not exclusively Atjeh interest serve.
+
+Track built while often enemy came disturb work and later years had to remove consequences. As pacification advanced reduced exclusively military use and must be mindful co-use for population Indeed in course years strongly increased.
+
+### Tariffs and operation
+
+Tariff passenger 6 cent per km 1st class 3.5 cent 2nd 1.8 cent Europeans and Foreign Easterners 3rd class 1 cent inlanders 3rd class. Trains usually formed small locomotive with trailer firewood baggage wagon carriage 1st 2nd class few carriages 3rd class sometimes large number freight wagons Whole not tram local rail but great railway in reduced edition Wagons 1st 2nd long trajectories furnished in style carriages Java 1st class comfortable sliding seats. Because speed never considerable maybe average 25-30 km per hour long journey Atjeh-tram boring. One departs Koeta-Radja morning early for lunch held [[Samalanga]] roomy stop and afternoon [[Lho Seumawe]] where next morning early departs to [[Langsa]] (if not late) on prior statement lunch find and half four [[Besitang]] arrival There transfer fast train Deli-spoor to 6 hour [[Medan]] arrive Daily one through train which some stops passes without stopping. Much natural beauty from train not observable even mountain line [[Padang Tidji]]-[[Seulimeum]]. Trains stations fairly clean. Exploitation expensive because stretched line many wagons need available for transport.
+
+Goods transport private first pepper pinang copra from population to harbour places to be shipped Penang. Main harbours [[Sigli]] and [[Lho Seumawe]] and choose harbour usually according market price difference price delivery Sigli or Lho Seumawe. If market price fairly favorable suddenly transport increase. Fruits not much transported significant only pisangs from [[Indrapoera]] to Koeta-Radja daily wagonloads Wagonload 4 ton. Unfortunately Atjeher doesn't ship padi significant. Shipment within Atjeh perhaps e.g., [[Pidie]] to [[Idi]] when shortage further south but to Oostkust Sumatra nothing. With cattle different From [[Groot-Atjeh]] center [[Seulimeum]] goes cattle to [[Sabang]] and [[Medan]]. For Medan usually loaded [[Lam Baró]] halt further and tram brings to [[Besitang]]. From there guide cattle over road to [[Medan]] because longer train journey harmful animals. Cattle with through trains sent.
+
+Transport products big agricultural industry Atjeh-tram mainly [[Langsa]] and [[Temiang]] brings to [[Koeala Langsa]] and [[Pangkalan Soesoe]] or [[Besitang]] for transshipment [[Belawan]]. Transport palm oil lasts only good year with packaging barrels as soon transport sea tankers must Atjeh-tram provide tankwagons. Transport wood in [[Langsa]] and Temiang north south. Own firewood buys A.T. from Chinese contractor inter alia from population south [[Simpang Olim]].
+
+### Expansion considerations
+
+Broadening line occasionally considered would start [[Pangkalan Soesoe]] send material from Java no longer service whereafter material A.T. could serve construction iron road [[Bali]] and [[Lombok]]. Perhaps such considerations become deeds over few years.
+
+Central workshop [[Sigli]] worth viewing If necessary manufactures repairs everything sharp economizing would make unsuitable important task 62 locomotives and 6 heavier mountain locomotives now and then cleaning repair wagons likewise. Labourer Atjeher and under proper supervision satisfies fully Also track workers even some mandoers Atjehers. Slowly Atjeher presents also for conductor Until now as such mostly Malays [[Padang]] known often strong in union fuss weak in monetary accuracy. As machinists serve Javanese Malays. Provision personnel often difficulty because Atjeh outside often considered land without comforts enjoyments. As soon trade among Atjeh people larger east west connection get sales for rice cattle regulated people will ask greater service Atjeh-tram which now important help offers. Throughout Atjeh goes telephone line connecting administration posts Busy doing over to government telephone service.
+
+### Significance
+
+Development of land owes much to tram although construction social utility not counted military transport main. One easily inclined whole military labour over long series years treat as means achieving political goal establishing order obedience but often overlooked in colonial area part war works gradually can transition to works peace In Atjeh fortunately also case Settlement occupation bivouaks gave direction trade traffic Need many help services brought labour where besides Atjeher began participate Serving health mail also others than military benefited. Most tram and telephone line from military means transitioned to factors economic development.
+
 ## See Also
 
 - [[Atjehweg]]
@@ -303,20 +290,13 @@ Peculiarly, the tram served during its first almost fifty years under three diff
 ## Source
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, [[1917]]), pp. 20–25, 181, 234–235, 242.
-
 *De Buitenbezittingen 1904*. In: *Mededeelingen van het Encyclopaedisch Bureau*. Batavia: G.C.T. van Dorp & Co., [ca. 1915].
-
 D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), p. 33. Koninklijke Bibliotheek shelfmark 0301 4872. The biography records the construction of the Kota Radja–Olehleh smalspoorbaan and the vakwerk-aanleggtiier at [[Oleh-leh|Olehleh]] as one of the peacetime engineer works of [[Cornelis Jacobus Snijders|Snijders]] at [[Koeta Radja|Kota Radja]] in [[1874]]–[[1875]].
-
 *DLP-84-Atjeh.pdf*, p. 8.
 ---
-
 **The Atjeh-tram** was the military-origin tramway of the [[Gouvernement Atjeh en Onderhoorigheden|Gouvernement Atjeh en Onderhoorigheden]] that, by [[1917]], had become the principal transport artery of the *gewest* — connecting [[Koeta Radja|Koeta Radja]] and [[Oelèë Lheuë|Oelèë Lheuë]] with Indragiri and Seulimeum and, beyond the Goudberg-hoogvlakte, with the principal bevolkings-centra of the Noord- and Oostkust as far as [[Koeala Simpang|Koeala Simpang]] and [[Besitang|Besitang]]. Operated as the *Dienst der S.S.* (Staatsspoorwegen) under the Department van Gouvernements-Bedrijven, the Atjeh-tram had, *De Buitenbezittingen* records, "haar militaire rol reeds geheel losgelaten" — already entirely shed its military role — and now possessed "in de voornaamste plaats economische beteekenis."
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter XIV, *'De Atjeh-tram'*, pp. 96–101.
-
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim; *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), for the Koloniaal Instituut and Handelsmuseum.
-
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IX, pp. 90–91; Chapter X, p. 97; Chapter XI, pp. 107–109; Chapter XII, p. 121; Chapter XIII, p. 131; Chapter XVI, p. 149; Chapter XVII, p. 161.
-
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 31, 63, 91, 124–125, 131–140 (chapter "De Atjeh-Tram"), illustration captions pp. 131, 135.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 85-90.

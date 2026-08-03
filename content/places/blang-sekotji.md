@@ -1,7 +1,7 @@
 ---
 title: "Blang Sekotji"
-aliases: ["Blang Sekotji", "Sekotji", "Sekoetji", "Blang Sekotjie", "Sekotji Idi"]
-tags: [place, village, landschap, achehnese, idi, oostkust-van-atjeh, colonial, 1873, 1923, padiveld, onderneming-theresia]
+aliases: ["Blang Sekotji", "Sekotji", "Sekoetji", "Blang Sekotjie", "Sekotji Idi", "Blang Sekotji Idi", "Blang Sekotji Atjeh"]
+tags: [place, village, landschap, achehnese, idi, oostkust-van-atjeh, colonial, 1873, 1923, padiveld, onderneming-theresia, blang, rice]
 ---
 
 **Blang Sekotji** — also written *Sekoetji* by [[J. A. Kruyt|J. A. Kruyt]] — is a place in the *landschap* [[Idi rajeu|Idi rajeu]] in the *onderafdeeling* [[Idi|Idi]], described by Broersma as *'een liefelijk oord'* — *a lovely spot* — of cheerful garden-land round a great rice-field.
@@ -15,7 +15,24 @@ Remarkable is that in this region half a century before Broersma's visit the *Ne
 ## The School
 The little school at nearby [[Keude Geuroba|Keude Geuroba]] — pronounced *kedé Groba* — has two classes with forty children together, boys of six to nine years. They sat copying the examples on the board, and it struck Broersma how neatly they did it. On several school-tours in Atjeh he had seen the same, and in no land of Netherlands-India has the simple people's education such a task as in Atjeh, where the young generation sorely needs a little exercise of thinking against the foolish teaching of useless hatred.
 
+## Account from Atjeh als land voor handel en bedrijf (1925)
+
+**Blang Sekotji** (*Sekoetji* per [[J. A. Kruyt]]) was lovely place in landscape [[Idi Rajeu]] between padi fields environment cheerful garden land around *blang* big rice field.
+
+### Description
+
+Road [[Idi]] rd? From south characteristic Atjeh settlement big padi field and around kampongs owning it useful tasteful settlement. Blangs 100-200 *baoe* estimate here there in blang tree heavy crown towering guard over many fields where cut padi day brought sometimes threshing portion harvest temporarily stacked. Blang of Atjeh landscape knows many lovely days.
+
+Kampongs around blang resemble middle-Java dwellings yard kampong paths fencing whole kampong. Speaking kampong (real Atjeh *gampong*) but name *desa* better characterizes per Java desa. More than Javanese desa Atjeh gampong yards as garden cocos pinang palms sometimes rubber trees alongside fruit trees.
+
+Name said derived from *schuitje* small vessels that earlier from sea *kroeëng* Idi up to that point. Perhaps derivation correct author doubts notes Kruyt repeatedly speaks Sekoetji.
+
+### Related early tobacco
+
+Early entrepreneur tobacco [[Theresia Estate]] between [[Blang Sekotji]] and [[Kemoening]] etc.
+
 ## See Also
+
 - [[Idi]]
 - [[Idi rajeu]]
 - [[Keude Geuroba]]
@@ -25,6 +42,9 @@ The little school at nearby [[Keude Geuroba|Keude Geuroba]] — pronounced *ked�
 - [[Verkenningen in Atjeh (1923)]]
 - [[1873]]
 - [[1877]]
+- [[Theresia Estate]]
 
 ## Source
+
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter VII, *'Vriendelijk Idi'*, pp. 47–48.
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 41-44.
