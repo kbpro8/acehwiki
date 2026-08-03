@@ -1,233 +1,79 @@
 ---
-title: First Aceh Expedition (1873)
-aliases:
-- Eerste Atjeh-expeditie
-- First Atjeh Expedition
-- First Dutch Expedition to Aceh
-- Atjeh Expeditie 1873
-- Eerste Atjeh-expeditie (1873)
-- First Aceh Expedition
-- 1873 expedition
-- storming of the mosque April 1873
-- Atjeh-expedition of 1873
-- the 1873 Atjeh expedition
-- the Atjeh-expeditie
-- Atjeh-expeditie (1873)
-- Eerste Atjeh-expeditie (April 1873)
-- April 1873 expedition
-- 1873 Aceh Expedition
-- 1ste Atjehsche Expeditie
-- Eerste Atjeh Expeditie
-- Eerste Atjehse Expeditie
-- First Aceh War Campaign
-- Atjeh-expeditie 1873
-- the Köhler expedition
-- expeditie van 1873
-- First Aceh Expedition (April 1873)
-- 1ste expeditie tegen Atjeh
-- Köhler expedition
-- First Atjeh expedition (March-April 1873)
-- First expedition to Atjeh 1873
-- Mislukte expeditie Atjeh
-- April 1873
-- April 1873 storming
-tags:
-- event
-- war
-- dutch-colonial
-- military
-- aceh-war
-- colonial
-- aceh
-- knil
-- dutch
-- achehnese
-- 19th-century
-- expedition
-- buitenbezittingen
-- k.o.h.l.e.r
-- kruijt-1896-account
-- acehnese
-- battle
-- 1873
-- koetaradja
-- kohler
-- failure
-- acheh
-- failed
-- concept
-- date
-- meusigit-raja
+title: "First Aceh Expedition (1873)"
+aliases: ["Eerste Atjeh-expeditie", "First Atjeh Expedition", "First Dutch Expedition to Aceh", "Köhler expedition", "Mislukte expeditie Atjeh", "First Aceh Expedition (April 1873)"]
+tags: [event, expedition, military, dutch, aceh-war, colonial, failure]
 ---
 
-**The First Aceh Expedition** (Dutch: *Eerste Atjeh-expeditie*) was the Dutch military expedition dispatched against [[Acheh|Atjeh]] in [[March 1873|March-April 1873]], under the command of Major-general [[J. H. R. Köhler|J. H. R. Köhler]] with [[F. N. Nieuwenhuysen|F. N. Nieuwenhuysen]] as government commissioner, which ended in failure with the death of Köhler at the [[Battle of the Missigit (10 April 1873)|missigit]] on [[14 April]] [[1873]] and the withdrawal of the expeditionary force from the roadstead of Atjeh on [[29 April]] [[1873]]. The failure was attributed by the source work to "the unfamiliarity with the situation, the too low opinion of the enemy's strength and perseverance, and the consequent inadequate preparation of the expedition," and led directly to the dispatch of the [[Second Aceh Expedition (1873-1874)|second expedition]] of [[November 1873]].
+**The First Aceh Expedition (1873)** was the first Dutch military expedition sent against [[Aceh|Atjeh]] in [[March]] and [[April]] [[1873]]. It was commanded by [[J. H. R. Köhler|General Köhler]] and accompanied by [[F. N. Nieuwenhuysen]] as government commissioner. The expedition ended in failure after hard fighting near the capital, the death of Köhler, and the withdrawal of the Dutch force on [[29 April]] [[1873]].
 
-## Origins
+The expedition is important because it opened the [[Aceh War]], revealed that the Dutch had badly underestimated Acehnese resistance, and immediately triggered a struggle over blame, inquiry, and official explanation.
 
-After the [[Anglo-Dutch Treaty of 1824|Sumatra-tractaat of 2 November 1871]] released the Netherlands from the British reservation regarding expansion in Sumatra, the Indies government moved to assert Dutch sovereignty over [[Acheh|Atjeh]]. In [[September 1871]] the controller [[E. R. Krayenhoff|E. R. Krayenhoff]] was sent aboard the *Djambi* to deliver a letter from the Governor of Sumatra's Westkust to the [[Sultan of Aceh|sultan]]. In [[1870]] the previous sultan had died and had been succeeded by the fourteen-year-old [[Aladin Mahmood Shah|Aladin Mahmood Shah]] under the regency of the Arab sayyid [[Habib Abdoerrahman|Habib Abdoe'r Rachman]], who assumed a high tone, demanded the return of former Acehnese territory on the east and west coasts, and threatened the intervention of [[England|England]], [[France|France]] and [[Turkey|Turkey]].
+## Origins of the expedition
 
-In [[September 1872]] the sjabandar of Atjeh, [[Panglima Tiban Mohammed|Panglima Tiban Mohammed]], arrived at [[Riouw|Riouw]] — first without, then in [[December]] with credentials from the sultan — with various communications. From these it appeared that there were two parties at the sultan's court: the Arab party under the hostile rijksbestuurder, and a native party that wished, with Dutch help, to be rid of him. The Indies government decided to support the sultan against the Arab party, but only on condition of recognition of Dutch supremacy. On [[25 January]] [[1873]] the envoys left Riouw for [[Singapore|Singapore]], to return to Atjeh after visiting a few other ports.
+The Dutch move toward war came after the [[Anglo-Dutch Treaty of 1824|treaty of 1824]] and especially after the [[Sumatra-tractaat (1871)|Sumatra Treaty of 1871]] changed the international situation. Dutch officials now felt freer to push for stronger control in northern Sumatra. Reports from [[Singapore]] that Acehnese envoys had approached foreign consuls increased Dutch fear that other powers might interfere.
 
-## The Singapore Telegram of 16 February 1873
+After the telegram of [[18 February]] [[1873]] from [[I. D. Fransen van de Putte]], the [[Council of Netherlands India]] met on [[20 February]] [[1873]] and decided to send an expedition backed by land and sea forces. [[F. N. Nieuwenhuysen]] was named government commissioner, [[J. H. R. Köhler|Köhler]] commander of the land force, and [[Captain-terr zee Koopman|J. F. Koopman]] commander of the sea force.
 
-After their departure the Governor-General received from the Consul-General at Singapore, [[W. H. Read|W. H. Read]], reports of their proceedings there, which he at once, on [[16 February]] [[1873]], transmitted to the Minister of Colonies in the following telegram: "Consul-General Singapore reports treason of Atjeh. Embassy has there asked help of consuls America and Italy against us. Both have concerned themselves with the matter. Will try to provoke counter-order of governments to keep back. Consul America proposes Atjeh tractaat and writes to admiral in China. Racchia waits two ships and then marches to Atjeh." Although it later appeared that the Malay [[Ariffin|Ariffin]] who had given these communications to the Consul-General was a rather unreliable person and his reports were probably exaggerated, and although the Italian and American governments forbade their consuls further intervention, the Dutch government saw in these negotiations the proof of the treacherous intentions of the Acehnese chiefs.
+## The move to war
 
-## The Decision to Send an Expedition
+The expedition sailed from [[Batavia]] on [[22 March]] [[1873]] and reached Aceh on [[5 April]] [[1873]]. Before the landing, Dutch authorities tried negotiation and sent messages to the sultan through intermediaries such as [[Said Tahir]]. When the Dutch judged the answers unsatisfactory, they issued a declaration of war and moved to force.
 
-The Minister of Colonies, with the knowledge of the King and the council of ministers, sent a telegram on [[18 February]] [[1873]]: "If you do not doubt the correctness of the report of Consul Singapore, further delay is unlawful. Will send powerful sea-power to Atjeh, to ask clarification and account for ambiguous and treacherous conduct and the regulation of the relation of the Netherlands to Atjeh in the proposed sense. If not sufficiently complied with, the fighting forces shall be brought together, suitable to give sufficient emphasis to the demand with the least delay." In the extraordinary meeting of the [[Council of Netherlands India|Raad of Nederlandsch-Indië]] with the commanders of sea and land forces, it was decided to send at once a high official to Atjeh with full powers to ask the sultan for clarification of his treacherous conduct and to demand from him the recognition of Dutch sovereignty. As commissioner was designated the vice-president of the Raad, [[F. N. Nieuwenhuysen|F. N. Nieuwenhuysen]]; the command of the land force was entrusted to Major-general [[J. H. R. Köhler|J. H. R. Köhler]], that of the sea force to Captain-ter-sea [[J. F. Koopman|J. F. Koopman]], and the former was at the same time appointed supreme commander of the expedition.
+## Landing and the first setbacks
 
-## The Expedition
+The landing west of the mouth of the [[Aceh River|Aceh River]] began on [[8 April]] [[1873]]. From the first day, resistance was stronger than expected. Acehnese fighters came out from cover and attacked at close range with firearms and blades. Dutch troops managed to land, but the attack on [[Battle of Kotta Mogat|Kotta Mogat]] failed at first because of poor preparation, lack of ammunition, and lack of proper assault equipment. This early setback already showed that the campaign was not going to be the easy show of force many had imagined.
 
-On [[1 March]] [1873] Nieuwenhuysen departed from Batavia. At Singapore and Penang he learned that the Acehnese were fully aware of Dutch intentions and ready for the war. He asked for and obtained authority to cause the four warships at his disposal to make a bombardment, in order perhaps still by intimidation to obtain what was wished, and in any case to hamper the enemy in his preparations. On [[22 March]] [1873], after arrival at the roadstead of Atjeh, a Malay, [[Said Tahir|Said Tahir]], was sent to the sultan with a letter. When the sultan's answer did not give the requested clarification, a second letter was sent on [[24 March]]. When this too was not sufficiently answered, Nieuwenhuysen proceeded to the declaration of war, for which a manifesto was issued and sent to the sultan. When the sultan on [[27 March]] requested an extension to [[29 March]], this was granted once more on condition that the armed people left the beach and ceased work on the fortifications. As this condition was not met, the guns of the warships themselves had to make an end to the work. Further letters of [[30 March]] and [[1 April]] from the sultan were equally without the requested categorical answer. Nieuwenhuysen now broke off the negotiations, to leave the word to the weapons.
+## The fighting at the Missigit
 
-## The Landing, 8 April 1873
+On [[10 April]] [[1873]], the Dutch advanced toward the royal center and came up against the fortified mosque position known as the [[Battle of the Missigit (10 April 1873)|Missigit]]. The Dutch had expected something almost like a parade march. Instead, they found stubborn resistance, strong fieldworks, attacks from the woods and nearby villages, and a position that could not easily be stormed. The mosque roof was eventually set on fire, the Dutch entered the position, and then, exhausted by fighting and heat, abandoned it again.
 
-On [[21 February]] [[1873]] the decision to send an expedition had been taken. On [[22 March]] [1873] it sailed from Batavia and on [[5 April]] [1873] it arrived at Atjeh. It consisted of three bataljons of the Indies army and a bataljon of the Barissan, in all 188 officers and 3198 rank-and-file. The sea force consisted of six warships, with five steam-barks, two ships of the governments-marine, and eight armed cruise-boats. From the navy a landing division was formed of 25 officers and 402 rank-and-file. Much had been done in a short time to make everything ready, but not enough. There was a lack of sufficient engineers and artillery, the armament was defective — one bataljon was still equipped with muzzle-loaders and the others insufficiently practised in the use of breech-loaders. Above all, the condition of the navy was at this time very sad. There was further no general staff in the Indies, and one was almost wholly unacquainted with land and population of Atjeh — although already in [[July 1871]] the commander of the Indies army, Lieutenant-general [[W. E. Kroesen|W. E. Kroesen]], had instructed the then colonel Köhler, military commandant of Sumatra's Westkust, to collect all possible military data about Atjeh; at the same time a proposal to send a captain of the Indies army aboard the *Djambi* to inform himself locally of conditions had been refused by the Indies government.
+The struggle resumed on [[14 April]] [[1873]]. This time the Dutch managed to secure the position more firmly. But that same day [[J. H. R. Köhler|General Köhler]] was mortally wounded while observing the field. His death struck the expedition at its most difficult moment.
 
-The landing on [[8 April]] [1873] west of the mouth of the Atjeh river immediately presented more difficulties than expected. From the fortification Kotta Pantej Termin, which had been taken on [[6 April]] without a blow but had been evacuated, shots were now fired that cost the adelborst Zimmer his life. Hardly were a couple of companies on the beach when some 400 Atjehers emerged from the undergrowth, armed with flint-locks, blunderbusses, klewangs and lances, and stormed, after firing their small-arms, in blind rage, despite the fire of the skirmishers, with the white arms upon the troops. After a furious fight they had to leave the field with a loss of 82 dead. When the infantry had landed, the twelfth bataljon was ordered to take the two eastern fortifications, Kota Pantej Termin and [[Kotta Mogat|Kotta Mogat]]. The first was found abandoned, but the storming of the second, even a second time after receiving reinforcements, failed, among other reasons for want of the necessary ammunition and storm-ladders. Thus the first day already ended with an échec. The next morning [[Kotta Mogat|Kotta Mogat]], after a breach had been shot in it by the guns of the warships, was found abandoned by the enemy and occupied without trouble by the Dutch.
+## Failure and withdrawal
 
-## The Battle of the Missigit, 10 April 1873
+A new attack on [[18 April]] [[1873]] failed again. After this, the commanders held a council of war and agreed that no useful result could be expected from a fresh assault. The force withdrew to the beach camp. In [[Batavia]], the [[Council of Netherlands India]] met again on [[20 April]] [[1873]]. Naval arguments about the danger of the anchorage and the communications line helped decide the matter. The government ordered the force home, and the fleet left Aceh on [[29 April]] [[1873]].
 
-On [[10 April]] [1873] the troops advanced on the Kraton. It was thought that the march would be no more than a military parade. Only one day's rations had been ordered, and "if the troops did not return the same day," rations were to be sent after them. Considerable delay was already encountered at the bridge over the lagune on the inner side of the beach. At one o'clock the vanguard came upon a fortification, the missigit or mosque, which had therefore to be attempted. Here too an unexpected stubborn resistance was met. The attempts at omtrekking failed, while the troops themselves were attacked from all sides, from the wood's edge and the neighbouring kampongs. The guns had little effect, and the high wall made a storming practically impossible. At last, about half past one in the afternoon, light-balls succeeded in setting the attappen roof of the mosque alight. As the enemy's fire then diminished, the storm column succeeded in climbing an areng-palm to the wall and entering the missigit, which was now abandoned by the enemy. The same afternoon, however, it was again abandoned by the Dutch and immediately occupied by the enemy. The reason was that the Dutch troops were exhausted by the long march, the oppressive heat to which they had been exposed all day, the subsequent fight, and the unbearable warmth that, at least initially, prevailed in the conquered position as a result of the burning of the missigit.
+## Why the expedition failed
 
-## The Death of Köhler, 14 April 1873
+Dutch and later writers gave several reasons for the failure: poor knowledge of the land and people, too low an estimate of Acehnese strength and determination, weak preparation, defects in equipment, and the lack of a proper general staff and reliable intelligence. Later writers also stressed overconfidence and haste.
 
-On [[14 April]] [1873] at five in the morning the troops returned to the attack. After the mortars, now more favourably placed, had made some throws, the storm column approached the wall. "As soon as the storm column had approached the wall, the storm-ladders, which had arrived since the 10th, were placed and held by the mineurs, because the enemy within the wall tried to throw them over with his lances. The ladders were climbed, but the great number of enemies, who awaited our men with lance and klewang and threw large sharp stones over the wall, prevented them from jumping inside." When at last a company armed with breech-loaders had climbed the wall and opened rapid fire, the enemy had to give way, so that the soldiers had the opportunity to jump inside, and the missigit was soon in Dutch hands.
+## The inquiry and the pamphlet war
 
-That same morning the supreme commander arrived at the missigit, "where the chief of staff informed him of the situation. He then went with the various authorities to the east side of the missigit, on the plateau, from which one could best survey the ground and observe the enemy's position. A few moments later General Köhler was mortally wounded and gave up the ghost almost immediately." About 5 o'clock on the same day, which passed in continual fighting with the enemy, the second commander, Colonel [[E. C. van Daalen|E. C. Van Daalen]], arrived at the missigit to take over the supreme command.
+The failure did not end at the shoreline. It immediately led to an official and public battle over blame. According to [[H. B. van Daalen]] in [[De enquête over den mislukten tocht naar Atjeh]], senior officers were quietly questioned after the expedition returned, and only later was a formal [[Commission of Inquiry into the First Aceh Expedition]] appointed. Van Daalen strongly criticized this process, saying it bypassed proper military forms and seemed designed to shift blame onto officers in the field.
 
-## The Council of War and Withdrawal
-
-After new reconnaissances and investigations, a second attack was undertaken on [[18 April]] [1873]. At a quarter past five the third bataljon set out. The surprise failed; the enemy opened a heavy fire. The storm column of 700 strong returned to the missigit at 6 o'clock with nine officers wounded (of whom two soon died), 11 rank-and-file killed and 105 wounded. The supreme commander convened a council of war. The first question — whether any success could be expected from a renewed attack — was unanimously answered in the negative; the supreme commander decided that no renewed attack should take place.
-
-The next day the march back took place, "and with this the failure of the enterprise was an accomplished fact." Immediately after the return to the beach bivouac a meeting took place of the supreme commander and the chief of staff with the commander of the sea force and the government commissioner. The government commissioner had already on [[14 April]], after the news of the death of General Köhler and the unexpected resistance, telegraphed the Governor-General to request reinforcements. It was agreed that for the moment a continuation of the expedition was not to be thought of, and that the season would prevent the sending of sufficient reinforcements. There was a difference of opinion on the necessity of causing the whole expedition to return to Java. The decision was left to the Indies government.
-
-On [[20 April]] [1873] the Governor-General convened an extraordinary meeting of the Raad of Nederlandsch-Indië with the commanders of land and sea forces and Major-general [[G. M. Verspyck|Verspyck]], who had been designated as Köhler's successor. Although Verspyck declared himself ready to depart for Atjeh at once, the vice-admiral's opinion — that the roadstead of Atjeh would offer no safe anchorage, and that communication between roadstead and beach would be seriously threatened — prevailed. The Governor-General authorised the expeditionary force to return immediately, with the firm intention of resuming the campaign in the favourable season. The re-embarkation took place without difficulty, and on [[29 April]] [1873] the transport fleet left the roadstead of Atjeh.
+He also attacked the anonymous pamphlet [[Bemoediging]], which defended the retreat as unavoidable and was widely read as a defense of [[James Loudon|Governor-General Loudon]]. In this way the first expedition became not only a military failure but the beginning of the first great pamphlet war of the conflict.
 
 ## Significance
 
-"The first campaign to Atjeh had thus failed, principally — although mistakes may also have been made on the campaign — through the unfamiliarity with the situation, the too low opinion of the enemy's strength and perseverance, and the consequent inadequate preparation of the expedition." The lesson was not lost on the Indies government. Preparations for the [[Second Aceh Expedition (1873-1874)|second expedition]] were put in hand immediately: troops were levied in the Netherlands, all were equipped with breech-loaders, the artillery was reinforced, and the expeditionary force was increased to 6354 infantry besides officers, with cavalry, artillery and engineers. The retired Lieutenant-general [[Jan van Swieten|Jan van Swieten]] was restored to active service and placed in supreme command.
-
-
-## Sources
-- *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Oom en de Bintang."
-- *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja.
-- *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 68 (section "De Atjeh-tram").
-- *Het Land van Jan Pieterszoon Coen*, door Dr. W. A. Terwogt (Hoorn: P. Geerts, [1891]). Hoofdstuk XIII: the first expedition 22 March–25 April 1873 — "Opnieuw, gelijk reeds zoo menigmaal te voren, begon men dezen oorlog met te geringe macht, overmoedig, met volkomen miskenning van de dapperheid en doodsverachting der Atjehers" (Once again, as so many times before, one began this war with too small a force, overconfident, with complete misappreciation of the bravery and death-defiance of the Atjehnese); the death of Köhler on 14 April; the failed assault on the Kraton by Van Daalen on 16 April; the withdrawal of 25 April — "Zoo eindigde deze expeditie op treurige wijze. Wij hadden de nederlaag geleden" (Thus ended this expedition in a sad manner. We had suffered the defeat).
-*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter I (the outbreak of the war), Chapter II, "De eerste expeditie en blokkade, van April tot December 1873." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 9–12.
-*De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889, pp. 18-93.
-*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 5-22; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 5-15.
-*Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 9, 34, 70, 84.
-Verslag van het verhandelde in de vergaderingen der Tweede Kamer in comité-général van 16, 17, 18 en 20 April 1874: Oorlog met Atjeh, gedrukt ter Algemene Landsdrukkerij van het Koloniaal Instituut (1881), pp. 9–14, 65–72.
+**The First Aceh Expedition** was the event that began the long Dutch war against Aceh. It failed in its direct military object, but it succeeded in showing both sides that the conflict would not be short. For the Dutch, it led directly to the stronger [[Second Aceh Expedition (1873-1874)]]. For later historians, it became the classic example of a colonial war begun with too much confidence and too little knowledge.
 
 ## See Also
 
+- [[Council of Netherlands India]]
+- [[James Loudon]]
+- [[I. D. Fransen van de Putte]]
 - [[J. H. R. Köhler]]
 - [[F. N. Nieuwenhuysen]]
-- [[J. F. Koopman]]
-- [[E. C. van Daalen]]
-- [[G. M. Verspyck]]
-- [[J. Loudon]]
-- [[Said Tahir]]
+- [[Captain-terr zee Koopman|J. F. Koopman]]
 - [[Battle of the Missigit (10 April 1873)]]
-- [[Battle of Kotta Mogat]]
-- [[W. H. Read]]
-- [[Ariffin]]
-- [[Panglima Tiban Mohammed]]
-- [[Habib Abdoerrahman]]
-- [[Aladin Mahmood Shah]]
+- [[Commission of Inquiry into the First Aceh Expedition]]
+- [[De enquête over den mislukten tocht naar Atjeh]]
+- [[Bemoediging]]
+- [[H. B. van Daalen]]
 - [[Second Aceh Expedition (1873-1874)]]
 - [[Aceh War]]
-- [Atjeh-oorlog](/events/atjeh-oorlog)
-- [[Tweede Atjeh-expeditie (1873-1874)]]
-- [[Missigit (Meusigit)]]
-- [[Meusigit Raja]]
-- [[generaal Van Swieten]]
-- [[Koeta-Radja]]
-- [[Sultan Iskandar Muda]]
-- [[Joannes Benedictus van Heutsz|Gouverneur-Generaal Van Heutsz]]
-- [[Handover of Aceh to a civil Gouverneur (1918)]]
-- [[Oost-Indisch Journael]]
-- [[Atjeh-tram]]
-- [[Postenlinie]]
-- [[Ceintuur-trambaan]]
-- [[Oelèë Lheuë]]
-- [[Departement van Oorlog]]
-- [[Pacificatie van Atjeh]]
-- [[Toekoe Oemar's verraad-(1896)]]
-- [[Groot-Atjeh]]
-- [[April 1873]]
-- [[6 January]]
+- [[20 February]]
+- [[20 April]]
+- [[29 April]]
 - [[1873]]
-- [[1874]]
-- [[1875]]
-- [[1876]]
-- [[1885]]
-- [[1896]]
-- [[1918]]
-- [[Het Land van Jan Pieterszoon Coen (Terwogt)]]
-- [[Dr. W. A. Terwogt]]
-- [[Terwogt's account of the Atjeh-oorlog (1891)]]
-- [[Nieuwenhuizen]]
-- [[Gotfried Coenraad Ernst van Daalen|Van Daalen]]
-- [[Jan van Swieten]]
-- [[Kraton of Aceh]]
-- [[Kota Radja]]
-- [[Koninklijke Marine]]
-- [[C. H. Bogaert]]
-- [[Edi]]
-- [[Oostkust]]
-- [[Noordkust]]
-- [[Declaration of War on Aceh (1873)]]
-- [[Atjeh-oorlog]]
-- [[Atjehers]]
-- [[K.N.I.L.]]
-- [[Joannes Benedictus van Heutsz]]
-- [[8 April]]
-- [[10 April]]
-- [[14 April]]
-- [[17 April]]
-- [[26 April]]
-- [[7 May]]
-- [[June 1873]]
-- [[March 1873]]
-- [[December 1873]]
-- [[1898]]
-- [[Battle of Baiturrahman Mosque]]
-- [[Commission of Inquiry into the First Aceh Expedition]]
-- [[G. G. Booms]]
-- [[J.H.R. Köhler]]
-- [[Second Aceh Expedition]]
-- [[Koetaradja]]
-- [[Panglima Polim]]
-- [[Tengkoe Sjech Saman di Tiro]]
-- [[Tengkoe Koetakarang]]
-- [[Van der Heyden]]
-- [[G.C.E. van Daalen]]
-- [[Prang sabil]]
-- [[Tadkirat arrakidin]]
-- [[1888]]
-- [[1936]]
-- [[Storm on the Kraton (1 April 1873)]]
-- [[Generaal Köhler]]
-- [[Majoor Cavaljé]]
-- [[Kraton of Atjeh]]
-- [[Atjeh-enquête]]
-- [[Second Aceh Expedition (1873–1874)]]
-- [[Beaumont-geweer]]
-- [[Bamboe-doeri versperringen]]
-- [[Declaration of war on Atjeh (1873)]]
-- [[T.N. Nieuwenhuyzen]]
-- [[I.D. Fransen van de Putte]]
-- [[Loudon]]
-- [[Van Swieten]]
-- [[Kroesen]]
-- [[Parliamentary debate on Atjeh war origins (April 1874)|Tweede Kamer debate on Atjeh war origins (April 1874)]]
-- [[Second Atjeh expedition (1873)]]
-- [[Atjeh-oorlog (1873-1904)]]
-- [[Eerste Atjeh-expeditie (1873)]]
 
 ## Source
 
-*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 8-19.
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne (Schiedam: J. F. Dupont, [[1912]]), Chapter I, pp. 8–19.
+
+*De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt (The Hague: Loman & Funke, [[1896]]), pp. 9–12.
+
+*De verovering van Atjeh's groote Missigit*, door J. F. D. Bruinsma (Sneek, [[1889]]), pp. 18–93.
+
+*De enquête over den mislukten tocht naar Atjeh*, door H. B. van Daalen, redacteur van den *Java-Bode* (Batavia / The Hague, [[1873]]), pp. 3–23.
+
+*Over de eerste expeditie tegen Atjeh*, door G. G. Booms ('s-Gravenhage: A. van Hoogstraten & Zoon, [[1875]]), pp. 5–22.
