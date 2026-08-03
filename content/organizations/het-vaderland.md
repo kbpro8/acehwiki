@@ -1,31 +1,41 @@
 ---
 title: "Het Vaderland"
-aliases: ["Het Vaderland", "Vaderland (newspaper)", "Het Vaderland (Dutch daily)"]
-tags: [organization, periodical, dutch, press, tamiang, 1897]
+aliases: ["Het Vaderland", "Vaderland", "Het Vaderland newspaper", "Het Vaderland (Dutch daily)"]
+tags: [organization, newspaper, dutch, press, aceh-war, colonial]
 ---
 
-**Het Vaderland** was a Dutch newspaper cited by [[Pieter Jelles Troelstra|Troelstra]] in the [[Tweede Kamer]] on [[16 November]] [[1897]] for the announcement of the opening of [[Tamiang]] to land concessions.
+**Het Vaderland** was a Dutch newspaper that played a visible role in the public debate on the [[Aceh War]]. It is especially important in Aceh-related print history because it published [[General Van Swieten's letter in Het Vaderland]], the letter that led directly to [[Open Letter by Brutus to General Knoop]].
 
-## The Tamiang notice
+The paper also appeared later in parliamentary debate, where it was cited for reports connected with the opening of [[Tamiang]] and the relation between economic expansion and the war in [[Aceh|Atjeh]].
 
-Troelstra told the chamber: "wij hebben enkele dagen geleden in Het Vaderland een bericht kunnen lezen, overgenomen uit de [[Deli Courant]]: dat Tamiang weldra zal worden opengesteld en dat de houders van aanspraken op landconcessiën zullen worden opgeroepen om daarvan te doen blijken." — a few days ago we were able to read in Het Vaderland a notice taken from the Deli Courant: that Tamiang will soon be opened up and that the holders of claims to land concessions will be called upon to prove them.
+## Publication of Van Swieten's letter
 
-He explained that [[Tamiang]] was the outermost part of the former dependencies of [[Siak]], the tract bordering on the coastal region of [[Acheh|Atjeh]]; that applications for the exploitation of lands there had been made some years before but not proceeded with, on account of the insecurity resulting from the non-subjection of Atjeh and because the Dutch government thought it necessary to protect those who settled there. He asked whether the opening of Tamiang was to be seen in connection with the changed tactics in Atjeh, and insisted that the chamber ought properly to know whether the subjection of Atjeh was necessary for the exploitation of Tamiang.
+After the [[Second Aceh Expedition (1873-1874)]], [[Het Vaderland]] published the letter in which [[Jan van Swieten]] defended his conduct and argued that the expedition had fulfilled its program. This publication gave the debate a new public stage. [[Brutus]] wrote that readers took the appearance of the letter without comment as a sign that [[General Knoop]]'s criticism had been answered. He therefore replied in print with [[Open Letter by Brutus to General Knoop]].
 
-The Minister of Colonies [[J. T. Cremer|Cremer]] answered that the war was not waged in order to use capital in Tamiang or [[Perlak]], but that capital brought into those districts would greatly assist the *pacificatie* of Atjeh.
+Because of that episode, *Het Vaderland* became one of the newspapers through which the military meaning of the second expedition was argued in public.
+
+## Later parliamentary citation
+
+The paper was cited again in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate of 1897]], when a report taken from the [[Deli Courant]] about the opening of [[Tamiang]] appeared in its pages. This linked the newspaper not only to military controversy, but also to the later Dutch discussion of land concessions, economic interests, and pacification.
+
+## Significance
+
+**Het Vaderland** is significant because it provided one of the main public platforms through which the Dutch reading public encountered arguments about the early course of the [[Aceh War]]. Its publication of Van Swieten's defense helped trigger one of the best-known pamphlets of the period.
 
 ## See Also
 
-- [[Pieter Jelles Troelstra]]
+- [[General Van Swieten's letter in Het Vaderland]]
+- [[Open Letter by Brutus to General Knoop]]
+- [[Brutus]]
+- [[Jan van Swieten]]
+- [[General Knoop]]
+- [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
 - [[Tamiang]]
-- [[Deli Courant]]
-- [[Economic interests alleged behind the Atjeh-oorlog (1897)]]
-- [[J. T. Cremer]]
+- [[1874]]
 - [[1897]]
-
 
 ## Source
 
-*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, p. 38.
+*Open brief aan den Generaal Knoop over de Atjeh-kwestie (naar aanleiding van den brief van Generaal Van Swieten in Het Vaderland)*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 1–33.
 
-*Acknowledgement of sources.* The material in this article derives from *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor 1898* (Amsterdam: J. A. Fortuijn, [[1897]]). Dutch passages are quoted in the original with an English rendering.
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]* (Amsterdam: J. A. Fortuijn, [[1897]]), p. 38.

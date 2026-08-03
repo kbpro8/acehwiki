@@ -1,35 +1,40 @@
 ---
 title: "De Java Bode"
-aliases: ["De Java Bode", "Java Bode", "De Javabode", "Java-Bode"]
-tags: [organization, periodical, dutch, press, indies, 1897]
+aliases: ["Java-Bode", "De Java Bode", "Java Bode", "De Javabode"]
+tags: [organization, newspaper, dutch, press, colonial, aceh-war]
 ---
 
-**De Java Bode** was a Netherlands Indies newspaper cited twice by the socialist deputies in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Atjeh debate]] of [[16 November]] [[1897]].
+**De Java Bode** was a newspaper in the [[Dutch East Indies]] that became one of the important press voices in the early public debate on the [[Aceh War]]. It is especially important for Aceh-related history because its editor [[H. B. van Daalen]] used the paper in [[1873]] to publish the two articles later reprinted as [[De enquête over den mislukten tocht naar Atjeh]].
 
-## The estimate of [[13 April]] [[1897]]
+The paper also appeared in later Dutch parliamentary debate, where it was cited as a source on the cost of the war and on suspicions that economic interests were linked to Dutch military policy.
 
-[[H. van Kol]] cited "de Java Bode van [[13 April]] [[1897]]" for the highest of the estimates of the cost of the [[Aceh War|Atjeh-oorlog]] then in circulation: "f 1000 millioen aan geld en 100 duizend menschenlevens" — a thousand million guilders in money and a hundred thousand human lives. He set this beside his own figure of three hundred and fifty million in extra expenditure over twenty-five years, the objection of [[Joannes Benedictus van Heutsz|Van Heutsz]] in *[[Insulinde]]* that all extra civil expenditure must be added, and the estimate of seven to eight hundred million reached by others.
+## The paper and the first Aceh inquiry
 
-## The share-dealing report of [[16 March]] [[1897]]
+In [[1873]], numbers 131 and 132 of the *Java-Bode* carried the articles by [[H. B. van Daalen]] that were later printed together as [[De enquête over den mislukten tocht naar Atjeh]]. In those articles, Van Daalen attacked the handling of the [[First Aceh Expedition (1873)]], criticized the later [[Commission of Inquiry into the First Aceh Expedition]], and accused the government and its supporters of trying to protect [[James Loudon|Governor-General Loudon]].
 
-[[Pieter Jelles Troelstra|Troelstra]] cited "De Javabode van 16 Maart [[1897]]" for the report that already six months before the [[Defection of Teuku Umar (29 March 1896)|defection of Teuku Umar]] it had been advised in the Indies to buy shares in the [[Koninklijke Paketvaart-Maatschappij|Koninklijke]], "zoodat men toen reeds scheen te weten, dat zes maanden later eene aggressieve politiek zou worden gevolgd, ten gevolge waarvan de aandeelen van die Koninklijke omhoog zouden gaan." — so that it seemed to be known already then that six months later an aggressive policy would be followed, in consequence of which the shares of that Koninklijke would go up.
+Because of this, *De Java Bode* became more than a newspaper of record. It became an active participant in the first great printed controversy of the war.
 
-[[H. van Kol]] returned to the same report on [[17 November]], adding that the advice had been given "van bevoegde zijde reeds in September [[1895]]," and commenting: "Wij willen niet veronderstellen, dat men zwanger ging van oorlogsplannen ter wille van die aandeelen, doch dat soms vaderlandsliefde wordt gehuicheld om persoonlijke belangen na te jagen, heeft zich elders wel eens voorgedaan." — We will not suppose that men went pregnant with war plans for the sake of those shares; but that love of fatherland is sometimes feigned in order to pursue personal interests has certainly occurred elsewhere.
+## A paper in later debate
+
+The newspaper reappeared in the [[Atjeh debate in the Tweede Kamer (16-17 November 1897)|Tweede Kamer debate of 1897]]. There it was cited for estimates of the huge cost of the war and for a report that seemed to suggest advance knowledge of a coming aggressive policy in Aceh. In this way the paper's name remained linked to questions of war, money, and political honesty.
+
+## Significance
+
+**De Java Bode** is significant because it was one of the colonial newspapers through which the Dutch public first argued about responsibility for the war in [[Aceh|Atjeh]]. Its connection with [[H. B. van Daalen]] and [[De enquête over den mislukten tocht naar Atjeh]] gives it a clear place in the documentary history of the conflict.
 
 ## See Also
 
-- [[H. van Kol]]
-- [[Pieter Jelles Troelstra]]
-- [[Economic interests alleged behind the Atjeh-oorlog (1897)]]
-- [[Koninklijke Paketvaart-Maatschappij]]
+- [[H. B. van Daalen]]
+- [[De enquête over den mislukten tocht naar Atjeh]]
+- [[Bemoediging]]
+- [[James Loudon]]
+- [[Commission of Inquiry into the First Aceh Expedition]]
 - [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
-- [[13 April]]
-- [[16 March]]
 - [[1897]]
-
+- [[1873]]
 
 ## Source
 
-*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 10, 37, 69.
+*De enquête over den mislukten tocht naar Atjeh*, door H. B. van Daalen, redacteur van den *Java-Bode* (Batavia / The Hague, [[1873]]), title page and pp. 3–23.
 
-*Acknowledgement of sources.* The material in this article derives from *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor 1898* (Amsterdam: J. A. Fortuijn, [[1897]]). Dutch passages are quoted in the original with an English rendering.
+*Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]* (Amsterdam: J. A. Fortuijn, [[1897]]), pp. 10, 37, 69.
