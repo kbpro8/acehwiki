@@ -1,7 +1,7 @@
 ---
 title: "Bajan"
-aliases: ["Bajan", "Bajeuën", "Bajan houtbedrijf", "wood-cutting Bajan", "Bajan Atjeh-tram"]
-tags: [place, village, wood-cutting, achehnese, langsa, oostkust-van-atjeh, colonial, 1923, deli-spoor, dwarsliggers, panglong]
+aliases: ["Bajan", "Bajeuën", "Bajan houtbedrijf", "wood-cutting Bajan", "Bajan Atjeh-tram", "Bajan Langsa", "Bajan wood", "Bajan leprosery"]
+tags: [place, village, wood-cutting, forestry, timber, leprosy, achehnese, langsa, oostkust-van-atjeh, colonial, 1923, deli-spoor, dwarsliggers, panglong]
 ---
 
 **Bajan** — also written *Bajeuën* — is the wood-cutting village of the *onderafdeeling* [[Langsa|Langsa]], situated on the [[Atjeh-tram|Atjeh-tram]] nineteen kilometres from Langsa. The place, on a river of the same name, was formerly of somewhat greater importance, when a *controleur* was stationed there and a garrison lay. Now there is nothing but official and military silence and the saw of the wood-enterprise.
@@ -20,7 +20,17 @@ At Bajan, however, two groups work, each of about forty men, people from over th
 The forest is a fine piece of nature, but the terrain is difficult to work because it continually rises and then falls steeply. The tree-species are mixed, though groups of *damar laoet* occur. About 250 tons of wood are cut a month (one ton = 1¼ cubic metre), but the wealth is so great that for 25 years 700 tons a month could have been taken.
 
 ## Significance
-Bajan is the principal wood-cutting settlement of the eastern coast of Atjeh, and its labour-form — a modified *panglong* system under direct European supervision — is the model on which the colonial government hoped to regulate the wood-cutting of the flood-forests of the eastern coast generally. The dependence of the Deli-spoor on Bajan for its sleepers made the village an integral part of the railway- economy of northern Sumatra.
+Bajan is the principal wood-cutting settlement of the eastern coast of Atjeh, and its labour-form — a modified *panglong* system under direct European supervision — is the model on which the colonial government hoped to regulate the wood-cutting of the flood-forests of the eastern coast generally. The dependence of the Deli-spoor on Bajan for its sleepers made the village an integral part of the railway-economy of northern Sumatra.
+
+## Permit and Land Conflicts
+
+The permit granted in [[1918]] ran for thirty years for timber felling. On the same terrains, however, agricultural permits had also been granted to bodies other than the Deli-spoor — to [[VICO]] for part and to a Japanese company for another part. Should these bodies wish to use the ground they could proceed to clearing the forest. Broersma considered it improbable that they would do so soon, the terrain being so difficult and clearing such expensive reclamation, but regarded the government's simultaneous issuance of conflicting rights over the same land as undesirable.
+
+## Leprosery
+
+On the road to [[Peureula]] there is little of beauty. The landscape of [[Soengoe Raje]] offers nothing attractive: the pepper gardens have lost their freshness, withered by disease and neglect. Not far north of Bajan, beside the road, stands a small leproserie, an institution of the *landschap* such as many in [[Atjeh]]. Atjehnese had long shown an aversion to leprosy sufferers — Dr. [[Julius Jacobs]], in *[[het familie- en kampongleven op Groot-Atjeh (1894)|het familie- en kampongleven op Groot-Atjeh]]* ([[1894]]), records that sufferers in [[Groot-Atjeh]] were inexorably expelled and sent to a specific kampong with sulphurous hot springs, their real estate passing to their family and their spouse legally divorced from them. The leprosy kampong formed a small society of unfortunates, maintaining themselves as far as possible by fields, crafts, and fishery.
+
+In Broersma's time matters had changed. The Bajan leproserie had four small sheds — one for women — accommodating fifteen people. A government doctor came twice weekly to examine and treat patients with injections of *Ecco*, an oil containing camphor among other ingredients. The treatment was relatively new and the experiences still incomplete; doses were raised gradually, then omitted for a long period, then resumed with increasing doses over five rounds. Broersma reported good results and improved patient wellbeing. There was already a plan for a central leproserie for the *gewest* but execution had been dropped from the agenda for reasons of economy.
 
 ## See Also
 - [[Langsa]]
@@ -30,6 +40,11 @@ Bajan is the principal wood-cutting settlement of the eastern coast of Atjeh, an
 - [[Houtaankap in Atjeh]]
 - [[Verkenningen in Atjeh (1923)]]
 - [[St. 1909 No. 488 (panglongreglement)]]
+- [[Peureula]]
+- [[Julius Jacobs]]
+- [[Groot-Atjeh]]
 
 ## Source
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter IV, *'Het hout van Langsa'*, pp. 21–24.
+
+*Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma (Utrecht: Gebrs. Cohen, [[1925]]), pp. 20–25.
