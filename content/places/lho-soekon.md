@@ -1,62 +1,10 @@
 ---
-title: Lho Soekon
-aliases:
-- Lho Sukon
-- Lhok Sukon
-- bivak Lho Soekon
-- Lhoksoekon
-- Lhokseukon
-- Lhossckon
-- Lhosoekon
-- Lhoksoeken
-- Lhosukon
-- Lho Soekon onderafdeeling
-- Lho Seukon
-- Lhoksukon
-- the Lho' Soekon district
-- Lho Sukon (Atjeh)
-- Lho-Sukon
-- Lho' Soekon
-- Lho' Sukon
-- Lhokseumawe region
-- Lho' Soekon (Noordkust afdeeling)
-tags:
-- place
-- bivak
-- aceh
-- aceh-war
-- north-coast
-- colonial
-- dutch
-- 20th-century
-- pang-nanggroe
-- onderafdeeling
-- zelfbestuur
-- underafdeeling
-- achehnese
-- noordkust-van-atjeh
-- paja-tjitjem
-- keureuto
-- sarikat-islam
-- samudra-pasé
-- town
-- noordkust
-- keureutoe
-- oil-field
-- atjeh
-- sumatra
-- exploration
-- region
-- 19th-century
-- rijstbouw
-- lho-soekon
-- marechaussee
+title: "Lho Soekon"
+aliases: ["Lho Sukon", "Lhok Sukon", "bivak Lho Soekon", "Lhoksoekon", "Lhokseukon", "Lhossckon", "Lhosoekon", "Lhoksoeken", "Lhosukon", "Lho Soekon onderafdeeling", "Lho Seukon", "Lhoksukon", "the Lho' Soekon district", "Lho Sukon (Atjeh)", "Lho-Sukon", "Lho' Soekon", "Lho' Sukon", "Lhokseumawe region", "Lho' Soekon (Noordkust afdeeling)", "Lho Sokoun", "Onderafdeeling Lho Soekon"]
+tags: [place, bivak, aceh, aceh-war, north-coast, colonial, dutch, 20th-century, pang-nanggroe, onderafdeeling, zelfbestuur, underafdeeling, achehnese, noordkust-van-atjeh, paja-tjitjem, keureuto, sarikat-islam, samudra-pasé, town, noordkust, keureutoe, oil-field, atjeh, sumatra, exploration, region, 19th-century, rijstbouw, lho-soekon, administrative, landscape, swamp, pepper, marechaussee]
 description: Bivak and post in the Lho Seumawé area, seat of the civiel-gezaghebber
   Schouten, the division command, and the centre of resistance of Pang Nanggroë; the
   graves of Pang Nanggroë and Pang Lateh lie behind the keudé in kandangs.
-title: "Lho Soekon"
-aliases: ["Lho Sukon", "Lhok Sukon", "bivak Lho Soekon", "Lhoksoekon", "Lhokseukon", "Lhossckon", "Lhosoekon", "Lhoksoeken", "Lhosukon", "Lho Soekon onderafdeeling", "Lho Seukon", "Lhoksukon", "the Lho' Soekon district", "Lho Sukon (Atjeh)", "Lho-Sukon", "Lho' Soekon", "Lho' Sukon", "Lhokseumawe region", "Lho' Soekon (Noordkust afdeeling)", "Lho Sokoun", "Onderafdeeling Lho Soekon"]
-tags: [place, bivak, aceh, aceh-war, north-coast, colonial, dutch, 20th-century, pang-nanggroe, onderafdeeling, zelfbestuur, underafdeeling, achehnese, noordkust-van-atjeh, paja-tjitjem, keureuto, sarikat-islam, samudra-pasé, town, noordkust, keureutoe, oil-field, atjeh, sumatra, exploration, region, 19th-century, rijstbouw, lho-soekon, administrative, landscape, swamp, pepper]
 description: "Bivak and post in the Lho Seumawé area, seat of the civiel-gezaghebber Schouten, the division command, and the centre of resistance of Pang Nanggroë; the graves of Pang Nanggroë and Pang Lateh lie behind the keudé in kandangs."
 ---
 
