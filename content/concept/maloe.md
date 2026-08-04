@@ -1,7 +1,7 @@
 ---
 title: "Maloe"
 aliases: ["malu", "maloe-worden", "shame in Acehnese society"]
-tags: [concept, achehnese, society, psychology, adat, honour]
+tags: [concept, achehnese, society, psychology, adat, honour, medicine, public-health, 1937]
 ---
 
 ***Maloe*** — glossed by [[Maurice Henri du Croo|du Croo]] variously as "embarrassed, at a loss, ashamed" (embarrassed, at a loss, ashamed) — was the Acehnese and Malay concept of shame or loss of face which, in du Croo's analysis, supplied the motive for the great majority of the *[[Atjeh-moord|Atjeh murders]]* and of the local outbreaks of resistance in the pacified years [[1913]]–[[1918]].
@@ -30,6 +30,12 @@ In the [[Resistance in Daja and Lhong (1914)|Daja and Lhong affair]], [[Nja' As�
 
 The concept of *maloe* is the interpretative key to du Croo's whole treatment of the residual violence of the pacification years, and the reason he could argue that the *Atjeh-moord* had, as a rule, no political significance whatever — while nevertheless requiring, for its investigation, an administrator "who needed no interpreter and who knew too much of Atjeh and the Acehnese to go astray."
 
+## Maloe as an obstacle to medical treatment ([[1937]])
+
+Dr. [[C. E. Gomperts]] recorded the *maloegevoel* as a practical difficulty of the colonial medical service in [[Groot-Atjeh]]. Discussing whether gonorrhoeal infection could account for a share of the [[Blindheid in Groot-Atjeh|blindness]] he had found, he noted that the *Gouvernements-Indisch arts* charged with the general D.V.G. service was born and bred in Groot-Atjeh and spoke Atjehnese well, which gave a guarantee that patients with venereal infections would turn to him sooner than to a European physician: "Voor den Europeeschen arts hebben de Inheemschen ongetwijfeld een groot *maloegevoel*, zoodat zij er niet gemakkelijk toe zullen besluiten zich tot een Europeeschen arts te wenden bij ziekten van het geslachts-apparaat."
+
+The observation allowed Gomperts to treat the figures of the indigenous physician — eight and nine gonorrhoeal infections in [[1936]] and [[1937]] — as a more reliable measure of the disease's frequency than European practice would have given, and so to conclude that its share among the causes of blindness "zeer gering moet zijn."
+
 ## See Also
 
 - [[Atjeh-moord]]
@@ -38,7 +44,14 @@ The concept of *maloe* is the interpretative key to du Croo's whole treatment of
 - [[Murder of Lieutenant-Colonel Scheepens (10 October 1913)]]
 - [[Resistance in Daja and Lhong (1914)]]
 - [[The resistance in Atjeh 1913–1918]]
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
+- [[Blindheid in Groot-Atjeh]]
+- [[Dienst der Volksgezondheid]]
 
 ## Source
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XII, pp. 120–126.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.

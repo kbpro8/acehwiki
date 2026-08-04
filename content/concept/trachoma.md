@@ -1,7 +1,7 @@
 ---
 title: "Trachoma"
-aliases: ["Trachoma", "trachoom", "trachoma in the Indies", "granular conjunctivitis"]
-tags: [concept, medicine, ophthalmology, public-health, sumatra, batak, 1933]
+aliases: ["Trachoma", "trachoom", "trachoma in the Indies", "granular conjunctivitis", "absence of trachoma in Groot-Atjeh"]
+tags: [concept, medicine, ophthalmology, public-health, sumatra, batak, 1933, groot-atjeh, 1937]
 ---
 
 ***Trachoom*** — trachoma, the chronic contagious conjunctivitis that was among the leading causes of blindness in the tropics — is described at length in *[[Een strijd in Atjeh (1934)]]* in [[J. Tijssen|Dr. J. Tijssen]]'s account of the [[Trachoma campaign on Samosir (1933)|Samosir campaign]] of [[1933]], where he encountered it in place of the cataract that had dominated his Acehnese work.
@@ -28,6 +28,16 @@ The operation performed was palliative and not curative: "De trachoom is niet ge
 
 The contrast between the trachoma country of [[Samosir]] and the cataract country of [[Acheh|Atjeh]] is one of the organising oppositions of Tijssen's account. In Atjeh he found cataract in numbers sufficient to operate on eighty-three persons in twenty-six days on the [[Noordkust van Atjeh|North Coast]]; on Samosir, among nearly a hundred thousand people, not a single cataract among the candidates presented. He noted also that on the [[Atjeh's Westkust|West Coast of Atjeh]] he had looked for differences from the eye diseases of the North Coast and found little or none.
 
+## Absence of trachoma in Groot-Atjeh (Gomperts, [[1937]])
+
+Where [[J. Tijssen|Tijssen]] had met "trachoom en nog eens trachoom" on [[Samosir]] in [[1933]], Dr. [[C. E. Gomperts]] found none at all in [[Groot-Atjeh]] four years later. The eighth question of his [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)|survey of 1937]] was the occurrence of trachoma among the Atjehnese, and his conclusion was categorical: "Trachoom volgens de algemeen gangbare opvatting, komt in het onderzochte gebied van Groot-Atjeh niet voor."
+
+What he found instead was *conjunctivitis follicularis*, in 215 cases — about 2 per cent of the 11,400 children examined. He distinguished it from trachoma on four grounds: it occurred exclusively in children and very rarely in adults; in none of the 215 cases were corneal complications found; the granules occurred in the lower transitional fold alone or in both, but never above alone; and it was not concentrated, as trachoma would have been, in the districts of busy traffic and racial admixture. In [[Oeleë Lheuë|Oelee-Lheuë]] 78 cases were found among 1,325 children (6 per cent), but in the exclusively Atjehnese [[Montassik|Moekim Montassie]] 75 among 1,795 (rather more than 4 per cent).
+
+He rejected outright the view that this form of conjunctivitis was a benign trachoma of the young tending to self-healing: that opinion "mist volgens schrijver elken grond."
+
+The finding bore directly on the causes of blindness. Trachoma was in Egypt an important cause, and the *K.W.* infection there implicated left room for doubt on that account; but in Groot-Atjeh "kan deze oorzaak zeker worden uitgeschakeld." See *[[Trachoma in Groot-Atjeh]]* and *[[Blindheid in Groot-Atjeh]]*.
+
 ## See Also
 
 - [[Trachoma campaign on Samosir (1933)]]
@@ -38,10 +48,16 @@ The contrast between the trachoma country of [[Samosir]] and the cataract countr
 - [[Kampong medicine in Atjeh]]
 - [[Een strijd in Atjeh (1934)]]
 - [[1933]]
-
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Trachoma in Groot-Atjeh]]
+- [[Blindheid in Groot-Atjeh]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
 
 ## Source
 
 *Een strijd in Atjeh (Een oogarts op het oorlogspad)*, door Mr. C. Graadt van Roggen, met een voorrede van den heer H. Wanting, redacteur *Nieuwe Rotterdamsche Courant* (Rotterdam: N.V. Drukkerij Korteweg, uitgave van de Vereeniging „SIMAVI”, [[1934]]), pp. 12–14.
 
 *Acknowledgement of sources.* The material in this article derives from *Een strijd in Atjeh (Een oogarts op het oorlogspad)* by Mr. C. Graadt van Roggen (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.

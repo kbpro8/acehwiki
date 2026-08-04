@@ -1,7 +1,7 @@
 ---
 title: "Paditeelt"
-aliases: ["Padi culture Atjeh", "Blang", "Sawah", "Naleh", "Bamboe rice", "Goentja", "gantang", "areh", "bidjeh", "bibit", "Atjehnese measures of seed rice"]
-tags: [concept, agriculture, rice, economic, atjeh, measurement, land-law]
+aliases: ["Padi culture Atjeh", "Blang", "Sawah", "Naleh", "Bamboe rice", "Goentja", "gantang", "areh", "bidjeh", "bibit", "Atjehnese measures of seed rice", "paddi-aanplant", "paddi"]
+tags: [concept, agriculture, rice, economic, atjeh, measurement, land-law, 1937, groot-atjeh, medicine, nutrition]
 ---
 
 **Paditeelt** (rice cultivation) was the great *volksbedrijf* of [[Atjeh]], practiced on *blang* large rice fields rain-dependent or irrigated *sawahs*, with *ladang* slash-burn and *tegal* fields, characterized by low yields and poor storage.
@@ -57,6 +57,14 @@ The size of a rice field in Atjeh was not stated in surface measure but "door de
 
 The same units governed the customary charges and contracts of the soil. The *[[Boeët oemòng|boeët oemòng]]* — the Atjehnese land rent on wet rice fields within the [[Gampong|gampong]] boundaries — was assessed at one *naleh* of *padi* per *naleh* of *bidjeh*, roughly two to three per cent of the yield. The *[[Padi lintjah|padi lintjah]]* on dry fields was two *naleh* of *padi* per *hippaang padi*, the area cleared by one person with a single *parang* (chopping knife). Under the *[[Thiplah tano|thiplah-tano]]* contract, rice-field land was granted to a non-indigenous immigrant only if he undertook to work at least five *naleh* of *bidjeh*, about 8,000 square metres or 0.8 hectare. The *[[Padé kandoeri|padé kandoeri]]* delivered yearly in recognition of another's possessory right was one *naleh* of *padi*. And the advance made to a pepper planter under the *[[Pangkaj|pangkaj]]* system normally included two *goentja* of *padi*.
 
+## Rice cultivation in Groot-Atjeh and the eye survey of [[1937]]
+
+Dr. [[C. E. Gomperts]]'s [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)|eye survey of 1937]] records the conditions of *paddi* cultivation in [[Groot-Atjeh]] as evidence bearing on the causes of *[[Xerophthalmie|xerophthalmie]]*.
+
+"Aangezien er geen kunstmatige bevloeiing der sawahvelden in Groot-Atjeh bestaat en men dus afhankelijk is van regenval" — since no artificial irrigation of the *[[Sawah|sawah]]* fields existed in Groot-Atjeh and one was therefore dependent on rainfall — the long-continued drought of [[1936]] and [[1937]] caused the *paddi* planting to fail nearly everywhere. The exceptions were [[Lhong|VI Moekims Lhong]] and [[Lam Teuba|Moekim Lam-Teuba]], where the *sawah* irrigation was fed by mountain streams that supplied enough water even in the dry seasons; in Lam-Teuba the planting and harvest took place twice a year, in the rest of Groot-Atjeh only once. In [[Montassik|V Moekims Montassie]] a *[[Walang sangit|walangsangit]]* plague was added to the drought, producing in some *moekims* an almost complete crop failure.
+
+Gomperts also recorded the dietary consequence: "de basisvoeding van de Atjehsche kampongbevolking bestaat uit rijst," the supplementing of that basic food with vegetables and meat being very sparse, so that the population suffered a chronic shortage of vitamin A. It was to remedy this that his final recommendation urged the stimulation of *erfbouw* — yard cultivation — of vitamin-A-rich crops, with instruction from the [[Landbouwdienst (Netherlands Indies)|Landbouwdienst]].
+
 ## See Also
 
 - [[Pidie]]
@@ -70,9 +78,18 @@ The same units governed the customary charges and contracts of the soil. The *[[
 - [[Keumangan]]
 - [[Het recht op den grond in Atjeh (De Boer)]]
 - [[Mawaih]]
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
+- [[Xerophthalmie]]
+- [[Walang sangit]]
+- [[Landbouwdienst (Netherlands Indies)]]
+- [[Sawah]]
 
 ## Source
 
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 99-115.
 
 *Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.

@@ -1,7 +1,7 @@
 ---
 title: Montassik
-aliases: ["Montasik", "Montassiek", "Missigit Montassik", "V Moekims Montassik", "V Moekims Mont Tassik", "5 Mukims Montassik"]
-tags: [place, kampong, acehnese, aceh-war, xxii-moekims, v-moekims-montassik, dutch, colonial, military, lamkrak]
+aliases: ["Montasik", "Montassiek", "Missigit Montassik", "V Moekims Montassik", "V Moekims Mont Tassik", "5 Mukims Montassik", "V Moekims Montassie", "Montassie", "vallei-Moekims Montassie"]
+tags: [place, kampong, acehnese, aceh-war, xxii-moekims, v-moekims-montassik, dutch, colonial, military, lamkrak, agriculture, 1937, medicine, public-health]
 ---
 
 **Montassik** was a kampong in the [[XXII Moekims|XXII Moekims]] of [[Acheh|Atjeh]], whose [[missigit Montassik|missigit]] — a fortified mosque that served as the principal arsenal of [[Habib Abdoerrahman|Habib Abdurrahman]] — was the object of the [[Capture of Montassik (28 July 1878)|capture of 28 July 1878]], the opening operation of the Dutch campaign in the XXII Moekims of [[23 July]] [[23 July]] [[1878]] – [[23 March]] [[23 March]] [[1879]]. With the taking of Montassik the initial objective of the operations was attained. As described in [[A. Kruisheer|Kruisheer]]'s *ATJEH '96*, the broader *V Moekims Montassik* — written in Dutch as also *V Moekims Mont Tassik* and meaning "Five Mukims of Montassik" — was a region of [[Groot-Atjeh]] comprising five [[moekim|mukims]] situated in the south-eastern portion of the [[Aceh War|Atjeh-oorlog]] theatre, of which the district head was [[Toeankoe Brahim|T. Brahim Montassik]] and the [[hoeloebalang|ulèëbalang]] was [[T. Rajoet]]. The V Moekims Montassik were a constant source of hostile *benden* (war-bands) against the [[buitenpost|buitenposten]] of the [[buitenlinie]], and the [[Dutch]] post of [[Senelop]] was constructed as a barrier against them.
@@ -42,6 +42,20 @@ The V Moekims Montassik were the principal south-eastern bastion of Achehnese re
 
 Meijer's calendar of the Habib's advance gives Montasih's mesigit as the place of assembly of the enemy chiefs in August [[1876]]: on [[12 August]] the Dutch spies reported that [[Habib Abdoerrachman el Zahir|Habib Abdoer Rachman]] had for some days been keeping to the mesigit of Montasih and had many principal heads there with him — [[Panglima Polim]], [[Toewankoe Moeda Daoed]] and [[Toewankoe Hasjim]], names known well enough to need no comment. To the question of Toewankoe Hasjim why he did not let his fighters move up against the kafirs, the Habib is reported to have answered: *"I wish first to pay a visit to the Mesigit Raia, which I have myself built, and to pray there"* — a resolution which he was said actually to have executed with some followers, and after which he declared that a divine revelation had pointed him out the 27th of the month Redjeb ([[17 August|17]]–[[18 August]] [[1876]]) as the favourable day for an attack on the Dutch troops. On [[27 August]] he was again reported to have gone to Montasih, his prestige and influence ever increasing.
 
+## Montassie in the eye survey of [[1937]]
+
+In Dr. [[C. E. Gomperts]]'s [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)|eye survey of 1937]], the *V Moekims Montassie* figure twice: as the district worst hit by crop failure in [[1936]]–[[1937]], and as the control district for the question of *[[Trachoma in Groot-Atjeh|trachoma]]*.
+
+### The crop failure
+
+[[1936]] and [[1937]] were marked by long-continued drought throughout [[Groot-Atjeh]]. In V Moekims Montassie, Gomperts recorded, "had men behalve van de droogte, ook van een walangsangitplaag te lijden, zoodat in sommige Moekims van dit District eene vrijwel volledige oogstmislukking werd geboekt" — besides the drought there was also a *[[Walang sangit|walang sangit]]* plague to suffer, so that in some *moekims* of this district an almost complete crop failure was recorded.
+
+The district's misfortune served as a natural experiment on the causes of *[[Xerophthalmie|xerophthalmie]]*. Had dietary deficiency alone caused the disease, Montassie should have shown a markedly raised frequency; in fact it "weinig verschilde van die van de vallei-Moekims [[VII Moekims Baet|Baet]], met een veel beteren oogst."
+
+### The trachoma control
+
+Because the population of Moekim Montassie was exclusively Atjehnese, without the admixture of Javanese, Padangers and Malays found in the busier coastal places, it tested the theory that *conjunctivitis follicularis* was a mild trachoma spread by contact with other races. There 75 cases were found among 1,795 children examined — rather more than 4 per cent — against 78 among 1,325 (6 per cent) at [[Oeleë Lheuë|Oelee-Lheuë]]: a difference too small to support the theory, and part of Gomperts's ground for concluding that trachoma proper did not occur in the surveyed area.
+
 ## See Also
 
 - [[K. van der Heyden]]
@@ -80,9 +94,18 @@ Meijer's calendar of the Habib's advance gives Montasih's mesigit as the place o
 - [[Blang Bintang]]
 - [[1896]]
 - [[1878]]
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Xerophthalmie]]
+- [[Walang sangit]]
+- [[Trachoma in Groot-Atjeh]]
+- [[VII Moekims Baet]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
 
 ## Source
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 100-103.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 22, 26, 143, 148, 149, 156, 292, 295.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.

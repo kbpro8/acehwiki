@@ -1,8 +1,7 @@
 ---
 title: "Ba'et"
-aliases: ["Ba-et", "Baët", "Ba'ët", "Bateu"]
-
-tags: [place, mukim, district]
+aliases: ["Ba-et", "Baët", "Ba'ët", "Bateu", "VII Moekims Baet", "vallei-Moekims Baet"]
+tags: [place, mukim, district, medicine, 1937, groot-atjeh, agriculture]
 ---
 
 **Ba'et** is a district name in the [[XXII Mukims]] of [[Great Acheh]], best known as the seat of the [[VII Mukims Ba'et|seven-mukim uleebalangship]] of that name. In *The Achehnese* Vol. I, Snouck Hurgronje mentions Ba'et in three connected contexts: as the seat of a powerful clan of imeums, as the eponymous territory of [[Teuku Muda Ba'et]] and his predecessors, and as one of the few districts whose imeum had effectively emancipated himself from uleebalang control.
@@ -15,6 +14,12 @@ The office of imeum (Arabic *imām*) at the head of a mukim was originally relig
 
 The word *Ba'et* in Achehnese is also applied as an honorific in the title of the chief of the VII Mukims, [[Teuku Muda Ba'et]], although Snouck Hurgronje does not commit himself on the etymology of the place-name. The territory of an uleebalang has no distinctive name in Achehnese; the Achehnese speak of "the country of uleebalang so and so" or of "the so many mukims." For the sake of clearness the two expressions are sometimes united, as in "the seven mukims Ba'et," i.e. the uleebalangship consisting of seven mukims whose chief is called Teuku Muda Ba'et.
 
+## In the eye survey of Groot-Atjeh ([[1937]])
+
+The *VII Moekims Baet* appear in Dr. [[C. E. Gomperts]]'s [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)|eye survey of 1937]] as the valley district whose comparatively good harvest was set against the crop failure of [[Montassik|V Moekims Montassie]] in testing whether food supply governed the frequency of *[[Xerophthalmie|xerophthalmie]]*.
+
+Gomperts's third test ran: "Dat in de vallei-Moekims Montassie, met eene groote oogstmislukking de xerophthalmie-frequentie weinig verschilde van die van de vallei-Moekims Baet, met een veel beteren oogst" — that in the valley *moekims* Montassie, with a great crop failure, the xerophthalmia frequency differed little from that of the valley *moekims* Baet, with a much better harvest. With the parallel findings for [[Lhong|Lhong]] and [[Lam Teuba|Lam-Teuba]], this supported his conclusion that "men alleen met den factor voeding het xerophthalmie-vraagstuk niet kan oplossen."
+
 ## See Also
 
 - [[VII Mukims Ba'et]]
@@ -24,7 +29,15 @@ The word *Ba'et* in Achehnese is also applied as an honorific in the title of th
 - [[Lam Lheue]]
 - [[Ateue']]
 - [[Lam Ara]]
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
+- [[Xerophthalmie]]
+- [[Montassik]]
+- [[Walang sangit]]
 
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.

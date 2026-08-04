@@ -1,7 +1,7 @@
 ---
 title: "Kroëng Raja"
-aliases: ["Krueng Raja", "Kroeng Radja", "Kuala Raja", "Kroëng Rajah", "Kr. Raja", "Krueng Raja (West Atjeh)", "Sungai Raja", "Kroeng Raja", "Kroeng-Raja", "Krung Raja", "Krueng Raya", "Kreuëng Raya", "Kruëng Raya", "Krucng Raya", "Kroeng Raya", "K. Raya", "the bay of Kroeng Raja", "baai van Kroeng Raja"]
-tags: [place, kampong, coast-state, acehnese, aceh-war, river, atjeh, westkust, coal, north-coast, 19th-century, village, aceh-proper, coastal, boundary, boundary-point, great-acheh, region, afsluitingslinie, bay, port, trade, groot-atjeh]
+aliases: ["Krueng Raja", "Kroeng Radja", "Kuala Raja", "Kroëng Rajah", "Kr. Raja", "Krueng Raja (West Atjeh)", "Sungai Raja", "Kroeng Raja", "Kroeng-Raja", "Krung Raja", "Krueng Raya", "Kreuëng Raya", "Kruëng Raya", "Krucng Raya", "Kroeng Raya", "K. Raya", "the bay of Kroeng Raja", "baai van Kroeng Raja", "Kroeëng-Raja"]
+tags: [place, kampong, coast-state, acehnese, aceh-war, river, atjeh, westkust, coal, north-coast, 19th-century, village, aceh-proper, coastal, boundary, boundary-point, great-acheh, region, afsluitingslinie, bay, port, trade, groot-atjeh, medicine, public-health, 1937]
 ---
 
 ## The Five Kwala's
@@ -73,6 +73,12 @@ At the same time the population of the southern part of the [[Sagi der XXVI Moek
 ## Significance
 
 The episode is a compact instance of the Dutch use of trade privileges as an instrument of political attachment in [[Atjeh]], parallel to the earlier [[Closing of the Noord- en Westkust (1889-1890)|closure of the West Coast]] to import and export, which had driven [[Teukoe Oemar]] to seek Dutch favour for want of money.
+
+## In the eye survey of Groot-Atjeh ([[1937]])
+
+Kroeëng-Raja was one of the places of examination in Dr. [[C. E. Gomperts]]'s [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)|eye survey of 1937]], and appears in the second of the two photographs printed with the report, captioned "Oogheelkundig onderzoek te Kroeëng-Raja."
+
+It was named among the districts of [[Groot-Atjeh]] where Western influence had penetrated further and traffic was busier — with [[Oeleë Lheuë|Oeloe-Lheuë]], [[Seulimeum]], [[Sibreh]], [[Indrapoeri]] and [[Lho Nga|Lho-Nga]] — which gave Gomperts a measure for the frequency of venereal infection, and hence for its small share among the causes of [[Blindheid in Groot-Atjeh|blindness]]; and among the districts where, on the theory that *conjunctivitis follicularis* was a mild [[Trachoma in Groot-Atjeh|trachoma]] spread by racial admixture, the condition should have been concentrated.
 
 ## See Also
 
@@ -150,6 +156,12 @@ The episode is a compact instance of the Dutch use of trade privileges as an ins
 - [[Lam Soet]]
 - [[Pepper cultivation in Atjeh]]
 - [[Teukoe Oemar]]
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Blindheid in Groot-Atjeh]]
+- [[Trachoma in Groot-Atjeh]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
 
 ## Account from *Land en Volk van Atjeh Vroeger en Nu*
 
@@ -175,3 +187,5 @@ Place between [[K.M.]] 22-23 on the [[Noordkust]] with old fortress walls at the
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 57.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.

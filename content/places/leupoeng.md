@@ -1,7 +1,7 @@
 ---
 title: "Leupoeëng"
 aliases: ["Lepong", "Lhoeng", "Leupeng", "Leupong", "Lampisang", "Lejoong"]
-tags: [place, coast, aceh, aceh-war, westkust, 19th-century, achehnese, dutch, military, sultanate, east-coast, landschap, groot-atjeh]
+tags: [place, coast, aceh, aceh-war, westkust, 19th-century, achehnese, dutch, military, sultanate, east-coast, landschap, groot-atjeh, medicine, 1937]
 description: "Two distinct Achehnese places share the name Lepong/Leupoeëng: a Westkust place from which Teukoe Oemar was driven and to which he returned (the 1897 punitive expedition against Lhong was the consequence); and an east-coast landschap of Groot-Atjeh of which Teuku Umar was territorial chief and which served as his principal power-base and refuge throughout the Aceh War."
 ---
 
@@ -42,6 +42,10 @@ Lepong was the symbolic and political heart of [[Teuku Umar]]'s authority, and i
 ## Account in du Croo’s Generaal Swart (1943)
 
 The column at [[Lho' Nga]] drove Teukoe Oemar from Leupoeëng in [[1898]], "but his bands returned again and again, so that it lasted until 1898 before T. Oemar likewise withdrew to [[Pidië]]." After the murder of [[C. H. R. Heins]] at [[Lhong]] on [[13 July]] [[1914]], two groups were sent to Leupoeëng to prevent the affair spreading there.
+
+## In the eye survey of Groot-Atjeh ([[1937]])
+
+Leupoeng is named among the coastal and valley districts of [[Groot-Atjeh]] covered by Dr. [[C. E. Gomperts]]'s [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)|eye survey of 1937]], in the list printed with the sketch-map of the *afdeeling*, alongside the [[VII Moekims Baet]] and Djeroë.
 
 ## See Also
 
@@ -84,6 +88,9 @@ The column at [[Lho' Nga]] drove Teukoe Oemar from Leupoeëng in [[1898]], "but 
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
 
 ## Source
 
@@ -92,3 +99,5 @@ The column at [[Lho' Nga]] drove Teukoe Oemar from Leupoeëng in [[1898]], "but 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 72, 82, 138, 143, 148, 213, 217, 219, 230, 232, 233, 242, 319, 337, 341–344, 348.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, XII.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.

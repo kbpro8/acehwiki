@@ -1,7 +1,7 @@
 ---
 title: "J. Tijssen"
-aliases: ["J. Tijssen", "Dr. J. Tijssen", "Tijssen", "Doctor Tijssen", "Tijssen the eye doctor of Atjeh", "methode-Tijssen"]
-tags: [person, physician, dutch, ophthalmology, aceh, medicine, 1933, 1934, simavi]
+aliases: ["J. Tijssen", "Dr. J. Tijssen", "Tijssen", "Doctor Tijssen", "Tijssen the eye doctor of Atjeh", "Tijssen the kampong operator"]
+tags: [person, physician, dutch, ophthalmology, aceh, medicine, 1933, 1934, simavi, 1937, controversy, xerophthalmia]
 ---
 
 **Dr. J. Tijssen** was a Dutch ophthalmologist who worked for sixteen years as a plantation doctor in the south of [[Acheh|Atjeh]] and afterwards, from [[1929]], conducted at his own expense a series of village eye-surgery campaigns in the *[[Kampong|kampongs]]* of Atjeh, [[Borneo]] and the Batak country. His conversations aboard the steamer *[[Baloeran]]* with the journalist [[C. Graadt van Roggen]] in February [[1933]] are the substance of the pamphlet *[[Een strijd in Atjeh (1934)]]*, published by the [[Vereeniging SIMAVI]].
@@ -44,6 +44,34 @@ He closed: "Ik vraag dus met nadruk geen geld voor mijn eigen arbeid. Wanneer er
 
 [[H. Wanting|Wanting]] described him in the foreword as "de stille, teruggetrokken en bescheiden arts, dien de eenzaamheid ook al niet spraakzamer had gemaakt" — a pioneer who some years before had gone into the *kampong* on his own initiative to bring help and relief in often extremely primitive circumstances. It was Tijssen who put to Graadt van Roggen the question that gave the pamphlet its purpose: "Kunt U dat niet eens zeggen?" — meaning that in the Indies an intelligent population suffered terribly and needlessly.
 
+## Gomperts's assessment of Tijssen's work ([[1940]])
+
+Three years after Tijssen's Acehnese campaigns, Dr. [[C. E. Gomperts]] carried out a systematic [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)|eye survey]] of [[Groot-Atjeh]] and published in *[[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937|Oriënteerend oogheelkundig onderzoek]]* ([[1940]]) the first detailed evaluation of Tijssen's method and results. The assessment was mixed: warm approval of the idea, firm rejection of the practice.
+
+### The occasion
+
+Gomperts opened by acknowledging Tijssen's initiative. In the two years before his own survey, more extensive investigation and treatment of eye disease had been undertaken in the *afdeeling* "dank zij de roepstem van Tijssen en zijne activiteit op dit gebied" — thanks to the call of Tijssen and his activity in this field. Because Tijssen had worked only briefly in Groot-Atjeh, however, only a few small parts of the fairly large *ressort* had profited by "zijne zoo zeer gewaardeerde behandeling."
+
+### Approval of the kampong idea
+
+"Het idee van Tijssen om de bevolking in de kampongs op te zoeken en onderzoek in hun milieu te verrichten, is zeer toe te juichen" — the idea of Tijssen to seek out the population in the *kampongs* and to conduct the examination in their own milieu is greatly to be applauded. Thereby, Gomperts wrote, contact with the population was increased, which benefited confidence in Western medicine, and a great part of serious eye disease could be taken in hand before it destroyed the sight. Gomperts followed "een gewijzigde werkwijze van Tijssen" in his own survey.
+
+### Rejection of kampong surgery
+
+Gomperts nevertheless declined to operate in the villages, sending patients requiring surgery instead to the [[Militair Hospitaal te Koetaradja]] with an admission note. His comparison of results found that of 17 eyes operated on by Tijssen, 4 were lost, 3 gave moderate and 2 very moderate results, 2 were bad and 6 good — rather more than 35 per cent good results; against 2 eyes lost of 22 (9 per cent) and 91 per cent good results for the *Officieren van gezondheid* eye specialists, at least fourteen of whose sixteen patients were treated by operators with shorter practical experience than Tijssen. The full argument is set out at *[[Methode-Tijssen]]*.
+
+Gomperts held that Tijssen's fear that the population could not be brought to enter existing hospitals was groundless, adducing the graph of Atjehnese out-patients and admissions at the Koetaradja hospital from [[1934]] to [[1937]].
+
+### The clinical disputes
+
+Gomperts also printed Tijssen's propositions on *[[Keratomalacie|keratomalacie]]* and *[[Xerophthalmie|xerophthalmie]]* in parallel columns with his own findings, agreeing on some points — that the sufferers were badly fed or sick individuals, that the therapy was a general treatment of mother and child, and that the therapy for xerophthalmia was *[[Levertraan|levertraan]]* — and dissenting on others. He disputed Tijssen's confinement of keratomalacia to infants under two, his assertion of no sex preference, his dismissal of *ascariasis*, his figure of 240 xerophthalmia cases per 100,000 children in Atjeh, his association of the disease with areas of *rijstovervloed* (rice abundance), and above all his view that xerophthalmia was a *constitutie-ziekte* essentially distinct from keratomalacia.
+
+On one point Gomperts sided with Tijssen against [[Mulock Houwer]] and [[Sie Boen Lian]]: that the greater frequency of blindness among boys was caused by more boys than girls being attacked by xerophthalmia — a supposition he shared "volkomen wat betreft het door verslaggever onderzochte gebied."
+
+### Tijssen's Acehnese vocabulary
+
+Gomperts confirmed Tijssen's record of the Acehnese name for xerophthalmia, noting that in the *moekims* [[VI Moekims Lhong|Lhong]], [[Lho Nga|Lho-Nga]] and [[Lam-Kabeuë]] the condition was known as *penjikit sisë* — "TIJSSEN siseh" — while elsewhere in the surveyed area it bore no such name.
+
 ## See Also
 
 - [[C. Graadt van Roggen]]
@@ -59,10 +87,18 @@ He closed: "Ik vraag dus met nadruk geen geld voor mijn eigen arbeid. Wanneer er
 - [[Langsa]]
 - [[1929]]
 - [[1933]]
-
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Methode-Tijssen]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
+- [[Militair Hospitaal te Koetaradja]]
+- [[Xerophthalmie]]
+- [[Keratomalacie]]
 
 ## Source
 
 *Een strijd in Atjeh (Een oogarts op het oorlogspad)*, door Mr. C. Graadt van Roggen, met een voorrede van den heer H. Wanting, redacteur *Nieuwe Rotterdamsche Courant* (Rotterdam: N.V. Drukkerij Korteweg, uitgave van de Vereeniging „SIMAVI”, [[1934]]), pp. 1–16.
 
 *Acknowledgement of sources.* The material in this article derives from *Een strijd in Atjeh (Een oogarts op het oorlogspad)* by Mr. C. Graadt van Roggen (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.
