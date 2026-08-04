@@ -111,8 +111,5 @@ Because the population of Moekim Montassie was exclusively Atjehnese, without th
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 22, 26, 143, 148, 149, 156, 292, 295.
 
-<<<<<<< HEAD
 *Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 82. OCR: DLP-158.
-=======
 *Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.
->>>>>>> origin/v5
