@@ -44,6 +44,26 @@ According to native reports furnished to the assistant-resident of [[Meulaboh]] 
 
 After [[1918]], while the pinang-culture bloomed, the West Coast saw an extending planting of patchouli (*tilem*). With the support of Governor [[Van Sluys|A. G. H. van Sluys]] and of the [[Nederlandsche Handel-Maatschappij]] there arose at Tapa Toean a small co-operative oil-distilling establishment, which could soon proceed to the sending of oils; the lower copra prices had in any case already turned the population toward oil preparation, a product which found its market especially in [[Tapanoeli]]. The Atjehsche Handelmaatschappij had for years run at the same Tapa Toean a kapok-press establishment which exported over 300,000 kg per year. The [[Koninklijke Paketvaart Maatschappij]] maintained an agency at Tapa Toean among its Atjehnese ports of call; in [[1914]] a telegraphic connection from [[Sinabang]] over Tapa Toean to [[Singkel]] came into exploitation, and the town's sewerage was improved in connection with the presence of streaming water (as at [[Koeta Radja]], [[Sabang]] and [[Tjalang]]).
 
+## Account from *Over patchouly-olie en patchouly-blad van Atjeh (1925)* — the Van Vreeswijk correspondence
+
+The four-year experimental programme that founded the indigenous Atjeh patchouli-oil industry — the [[Atjeh patchouli experiments (1921-1925)|Atjeh patchouli experiments of 1921-1925]] — is preserved in detail in [[Over patchouly-olie en patchouly-blad van Atjeh (1925)|*Bericht* No. 21 of the Afdeeling Handelsmuseum]] (April 1925). The programme began with the letter of [[6 August]] [[1921]] from the [[Afdeeling Nijverheid|Afdeeling Nijverheid]] at [[Buitenzorg|Buitenzorg]] announcing that distillation of essential oil from patchouli leaves was thenceforth to be carried out at Tapa Toean, with the cooperation of the *Gewestelijk Bestuur van Atjeh en Onderhoorigheden* and the *Afdeeling Nijverheid*, and with the [[Nederlandsche Handel-Maatschappij|Nederlandsche Handel-Maatschappij]] advancing ƒ25 per kilogram of oil to the Atjehnese planters.
+
+### The 1921-1923 Distillations and the European Verdicts
+
+The first Tapa Toean distillations, sent to Europe in September 1921, were of mediocre quality. The three European expert houses — [[Schimmel & Co.|Schimmel & Co.]] of Miltitz, [[Roure, Bertrand fils|Roure, Bertrand fils]] of Grasse, and [[Polak & Schwarz's Essencefabrieken|Polak & Schwarz's Essencefabrieken]] of Hilversum — gave conflicting but generally unfavourable verdicts. The factory at Tapa Toean fell into a period of standstill.
+
+### The Van Vreeswijk Take-Over (1924)
+
+In [[1924]] the [[Atjehsche Oliefabriek|Atjehsche Oliefabriek]] at Tapa Toean was taken over by **[[Van Vreeswijk|Van Vreeswijk]]**, described in the 1925 Bericht as "een Europeaan, aldaar woonachtig" — a European resident there. Van Vreeswijk's letter of [[16 August]] [[1924]] to the [[Afdeeling Handelsmuseum|Afdeeling Handelsmuseum]] gave the discovery that transformed the Atjeh patchouli-oil industry. The letter ranked the three principal Tapa Toean patchouli districts:
+
+- **[[Laboh Hadji|Labohan-Hadji]]** — the least valuable. "Het komt zeer vuil op de markt" (it comes very dirty to market), often weighted with sea-water. Market price ƒ5-ƒ6 per *pikol*; after cleaning only 50% remains.
+- **[[Loboang Koang|Loboang Koang]]** — better. A locality "vlak bij Tapa-Toean" (right by Tapa Toean). Van Vreeswijk had bought freshly picked leaf here, dried it himself, and sent one baal of it to the Handelsmuseum.
+- **[[Bakongan|Bakongan]]** — the best. Van Vreeswijk had just returned from a trip to Bakongan, where he found "verreweg de meeste zorg door de Inlanders eraan besteed" — by far the most care devoted to it by the natives. The Bakongan planters had begun to plant on a strip of land along the coast, bounded on the other side by swamp-land; the conjunction of sand and swamp "schijnt de plant zeer ten goede te komen". Market price: ƒ14 per *pikol*.
+
+### The Concluding Prospect (April 1925)
+
+The Handelsmuseum's Bericht No. 21 closed in April 1925 with the verdict that "Er openen zich aldus voor de cultuur van nilam-blad in Atjeh, en de verwerking tot olie aldaar ên in Nederland, aardige perspectieven! Er is een sluier opgeheven, en de afhankelijkheid van Singapore en Penang, wat betreft het verkrijgen van prima patchouly, vervallen." — There thus open up attractive prospects for the cultivation of nilam-leaf in Atjeh and for its processing into oil there and in the Netherlands! A veil has been lifted, and the dependence on Singapore and Penang, in respect of obtaining prime patchouli, has lapsed.
+
 ## See Also
 
 - [[17th-century]]
@@ -89,3 +109,5 @@ Legendary 'sea saint' (Toean = Lord) of [[Tapa Toean]] place. Left footprints on
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 49, 53, 109, 120, 157, 185.
 
 *Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 52, 53, 55, 185, 192, 193, 196, 327, 331, 336.
+
+*Over patchouly-olie en patchouly-blad van Atjeh (Noord-Sumatra).* Berichten van de Afdeeling Handelsmuseum van de Kon. Vereeniging Koloniaal Instituut, No. 21. Overgedrukt uit *De Indische Mercuur* van 8 en 15 Mei 1925. Amsterdam: Druk De Bussy. OCR-filename: `20260801_233856_DLP-153-Over_patchouly_olie_en_patchouly_blad_van_Atjeh_Noord_Sumatra_Nemotron-OCR-v2_OCR.txt`, pp. 3-21.
