@@ -1,155 +1,73 @@
 ---
-title: Toekoe Nek Radja Moeda Setia
-aliases:
-- Toekoe Nek
-- Toekoe Nek of Marassa
-- Tunku Nik Raja Muda Setia
-- the head of Marassa
-- Teuku Nek
-- Toekoe Nek van Marassa
-- hoofd of Marassa
-- Teuku Nek of Meuraxa
-- Toekoe Nek Radja Setia
-- Teuku Nek Radja Setia
-- Teuku Nek Meuraxa
-- Toekoe Noq van Marassa
-- Teungku Ne' of Marassa
-- the Ne' of Meura'sa
-tags:
-- person
-- uleebalang
-- acehnese
-- ally-of-the-dutch
-- aceh-war
-- hoofd
-- marassa
-- dutch-ally
-- 1874
-- 1875
-- nobility
-- ruler
-- achehnese
-- ally
-- oeloebalang
-- pre-1873
-- aceh
-- 19th-century
-- adviser
-- xxv-moekims
+title: "Toekoe Nek Radja Moeda Setia"
+aliases: ["Toekoe Nek", "Toekoe Nek of Marassa", "Teuku Nek", "Teuku Nek of Meuraxa", "Toekoe Nek van Marassa", "the head of Marassa", "Toekoe Nek Radja Setia"]
+tags: [person, uleebalang, acehnese, ally-of-the-dutch, aceh-war, marassa]
 ---
 
-**Toekoe Nek Radja Moeda Setia** — commonly called Toekoe Nek — was the [[Uleebalang|hoeloebalang]] of the kampong [[Marassa|Marassa]] at the mouth of the Atjeh river, who from before the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] had repeatedly offered his services to the Dutch, who was the principal native ally of the Dutch during the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] in [[January 1874]], and who remained a firm friend of the Dutch until the operations in his neighbourhood were closed. His intervention led directly to the storming of the [[Taman (Kota Goenoengan)|Taman]] on [[12 January]] [[1874]] and to the discovery that the Kraton had been evacuated on [[24 January]] [[1874]].
+**Toekoe Nek Radja Moeda Setia** — usually called **Toekoe Nek** — was the chief of [[Marassa]] at the mouth of the [[Atjeh-rivier|Aceh River]] and the most important early Acehnese ally of the Dutch in the [[Second Aceh Expedition (1873-1874)]]. He had already offered his services before the landing, helped the Dutch with information, advised them to seize the [[Taman (Kota Goenoengan)]], and remained central to Dutch hopes of local submission after the fall of the [[Kraton of Aceh|Kraton]].
 
-## The Dutch Alliance
+## Before the second expedition
 
-When the second expedition was being planned, it was decided that the landing should take place east of the Atjeh river rather than west of it as in the first expedition, "firstly because there was less resistance to be expected there, and secondly because one wished to spare the kampong Marassa, which was well-disposed to us and whose head, Toekoe Nek Radja Moeda Setia, had repeatedly offered us his services." After the landing on [[9 December]] [[1873]] at the Kwala Loë, Toekoe Nek maintained his good offices, sending word of enemy movements and offering to act as guide.
+Dutch sources say that Toekoe Nek had already offered his help before the landing of [[December]] [[1873]]. This was one reason the Dutch chose to land east of the river: they expected less resistance there, and they also wanted to spare [[Marassa]], which was friendly to them.
 
-## The Search for Nino Bixio's Body
+Van Swieten later wrote that Toekoe Nek had also been useful earlier in the diplomatic contacts around [[1873]], when intermediaries still tried to move between Dutch and Acehnese authorities.
 
-Toekoe Nek had already before then "promised his intervention in the recovery of the robbed corpse of the [[Nino Bixio|general Nino Bixio]] who had died of cholera," then commander of a transport ship. On [[11 January]] [[1874]] he held a secret meeting with the controller Kroesen, in which he promised to pay a visit to the supreme commander. At the same time he gave the advice that the Dutch should seize the [[Taman (Kota Goenoengan)|Taman]], the sultan's fortified pleasure-garden south-west of the Kraton, in order to close the sultan off from the west side.
+## The Dutch landing and alliance
 
-## The Storming of the Taman, 12 January 1874
+After the landing at [[Kwala Loë]] on [[9 December]] [[1873]], Toekoe Nek kept sending information about enemy movements and offered practical help as guide and intermediary. Dutch writers repeatedly described him as their principal ally in the area.
 
-[[Jan van Swieten|Van Swieten]], who had already vainly attempted to surprise the Kraton, decided to follow Toekoe Nek's advice. On [[12 January]] the Taman or Kota Goenoengan was stormed and taken. "Probably from resentment at this, the enemy made an attack on our bivouac at [[Penajoeng|Penajoeng]] and the trench-guard. Although our guards were at first surprised, the attack was chiefly repelled by the gallant conduct of Captain Van Daalen." After the taking of the missigit on [[6 January]] [1874], letters had been sent to Toekoe Nek and to four other chiefs of the [[XXV Moekims|XXV Moekims]], inviting Toekoe Nek to come openly to offer his submission. Toekoe Nek kept his promise.
+His political position was not easy. His territory stood between Dutch-held ground and hostile neighboring districts. Later writers said he lived "between two fires." That is why he kept asking the Dutch for visible military help.
 
-## The Discovery of the Kraton's Evacuation, 24 January 1874
+## Advice on the Taman
 
-From Kota Goenoengan, "between the brushwood, one saw a broken piece of wall with a watch-house behind it, largely stripped of its roof covering. From there Kota Goenoengan had been continually and sometimes rather heavily fired upon during the previous days. But about 9 in the morning this fire slackened and soon ceased entirely." This led the supreme commander to suspect that the Kraton was not or only weakly occupied, and he ordered a reconnaissance to enter the Kraton and to hoist the Dutch flag on the watch-house. "When this reconnaissance had advanced for some time without seeing the enemy, the supreme commander himself came up with his staff and the other companies. Soon the heart of the Kraton was reached, and a repeated hoerah of our men and the *Wilhelmus*, played by the band of the right half of the 14th bataljon, proclaimed that the Kraton was in our possession."
+On [[11 January]] [[1874]], Toekoe Nek met controller [[Kroesen]] in secret and advised that the Dutch should seize the [[Taman (Kota Goenoengan)]], the fortified pleasure-garden southwest of the [[Kraton of Aceh|Kraton]]. The Dutch accepted that advice, stormed the position on [[12 January]] [[1874]], and greatly increased the pressure on the Acehnese center.
 
-Toekoe Nek's intervention was thus the proximate cause of the discovery that the Kraton had been evacuated. The Dutch had not known the precise location of the Kraton during the first expedition; even in the second, "the continual uncertainty about the precise location of this" had been one of the causes of the failure of the stormings of mid-April [1873].
+This was one of Toekoe Nek's most important contributions to the campaign.
 
+## Link with the fall of the Kraton
 
-## Sources
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. pp. 55, 57, 65, 75, 93–94, 103–104, 124, 132, 162, 266, 279, 288.
-*Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 14-15; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 8-10, 14-18.
-*Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 14–15 (De Geestelijkheid in Atjeh — Habib Abdoe'r Rachman).
+Because the Dutch held the [[Taman (Kota Goenoengan)]], they could watch the area around the [[Kraton of Aceh|Kraton]] more effectively. Later Dutch accounts connected Toekoe Nek's advice directly with the events that led to the discovery on [[24 January]] [[1874]] that the [[Kraton of Aceh|Kraton]] had been abandoned.
+
+## Requests for protection
+
+After the fall of the [[Kraton of Aceh|Kraton]], Toekoe Nek still needed Dutch help against hostile nearby places, especially [[Bital]] and [[Ketapang Doewa]]. His requests led to the [[Expedition to Bital (12 February 1874)]] and the [[Expedition to Ketapang Doewa (15 February 1874)]]. Those operations helped show both the value and the weakness of the Dutch alliance with him: the Dutch could win the field, but they did not always hold the ground long enough to secure his district properly.
+
+## Toekoe Nek and Dutch optimism
+
+Reports from Toekoe Nek also helped shape the tone of the [[General van Swieten War Telegrams]] after the fall of the [[Kraton of Aceh|Kraton]]. Later defenders of Van Swieten said that the command had reason to believe local submission was coming, because allies like Toekoe Nek were giving encouraging information.
+
+## Significance
+
+**Toekoe Nek Radja Moeda Setia** is significant because he was the most important local Acehnese ally of the Dutch in the critical weeks between the landing of [[December]] [[1873]] and the occupation of the [[Kraton of Aceh|Kraton]] in [[January]] [[1874]]. His advice, his information, and his requests for protection all had direct effects on the early course of the war.
 
 ## See Also
 
 - [[Marassa]]
-- [[Jan van Swieten|J. van Swieten]]
-- [[Kroesen (controller)]]
-- [[Nino Bixio]]
-- [[Taman (Kota Goenoengan)]]
-- [[Capture of the Kraton (24 January 1874)]]
 - [[Second Aceh Expedition (1873-1874)]]
-- [[Aceh War]]
-- [[Uleebalang]]
-- [[Oeleh Leh]]
-- [[Strategische driehoek (Atjeh)]]
-- [[Toekoe Nanta]]
-- [[VI Moekims]]
-- [[Generaal Pel]]
 - [[Jan van Swieten]]
-- [[Battle of Garouw (28 June 1874)]]
-- [[1874]]
-- [[Meuraxa]]
-- [[Teuku Nya Abas]]
-- [[Teuku Nya Mohamadad]]
-- [[J. van Swieten]]
-- [[General van Swieten War Telegrams]]
-- [[Military Intelligence in the Aceh War]]
-- [[Second Aceh Expedition]]
-- [[XXV Moekims]]
-- [[Groot-Atjeh]]
-- [[Habib Abdurrahman Zahir]]
-- [[Toeankoe Machmoed]]
-- [[Panglima Tibang]]
-- [[Toekoe Imam Longbattah]]
-- [[Toekoe Kadli]]
-- [[Batavia]]
-- [[Atjeh-Album (Eigen Haard, 1896)]]
-
-## Source
-
-*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 21-26.
----
-
-
-**Toekoe Nek Radja Moeda Setia** — commonly called Toekoe Nek — was the [[Uleebalang|hoeloebalang]] of the kampong [[Marassa|Marassa]] at the mouth of the Atjeh river, who from before the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] had repeatedly offered his services to the Dutch, who was the principal native ally of the Dutch during the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] in [[January 1874]], and who remained a firm friend of the Dutch until the operations in his neighbourhood were closed. His intervention led directly to the storming of the [[Taman (Kota Goenoengan)|Taman]] on [[12 January]] [[1874]] and to the discovery that the Kraton had been evacuated on [[24 January]] [[1874]].
-
-## The Dutch Alliance
-
-When the second expedition was being planned, it was decided that the landing should take place east of the Atjeh river rather than west of it as in the first expedition, "firstly because there was less resistance to be expected there, and secondly because one wished to spare the kampong Marassa, which was well-disposed to us and whose head, Toekoe Nek Radja Moeda Setia, had repeatedly offered us his services." After the landing on [[9 December]] [[1873]] at the Kwala Loë, Toekoe Nek maintained his good offices, sending word of enemy movements and offering to act as guide.
-
-## The Search for Nino Bixio's Body
-
-Toekoe Nek had already before then "promised his intervention in the recovery of the robbed corpse of the [[Nino Bixio|general Nino Bixio]] who had died of cholera," then commander of a transport ship. On [[11 January]] [[1874]] he held a secret meeting with the controller Kroesen, in which he promised to pay a visit to the supreme commander. At the same time he gave the advice that the Dutch should seize the [[Taman (Kota Goenoengan)|Taman]], the sultan's fortified pleasure-garden south-west of the Kraton, in order to close the sultan off from the west side.
-
-## The Storming of the Taman, 12 January 1874
-
-[[Jan van Swieten|Van Swieten]], who had already vainly attempted to surprise the Kraton, decided to follow Toekoe Nek's advice. On [[12 January]] the Taman or Kota Goenoengan was stormed and taken. "Probably from resentment at this, the enemy made an attack on our bivouac at [[Penajoeng|Penajoeng]] and the trench-guard. Although our guards were at first surprised, the attack was chiefly repelled by the gallant conduct of Captain Van Daalen." After the taking of the missigit on [[6 January]] [1874], letters had been sent to Toekoe Nek and to four other chiefs of the [[XXV Moekims|XXV Moekims]], inviting Toekoe Nek to come openly to offer his submission. Toekoe Nek kept his promise.
-
-## The Discovery of the Kraton's Evacuation, 24 January 1874
-
-From Kota Goenoengan, "between the brushwood, one saw a broken piece of wall with a watch-house behind it, largely stripped of its roof covering. From there Kota Goenoengan had been continually and sometimes rather heavily fired upon during the previous days. But about 9 in the morning this fire slackened and soon ceased entirely." This led the supreme commander to suspect that the Kraton was not or only weakly occupied, and he ordered a reconnaissance to enter the Kraton and to hoist the Dutch flag on the watch-house. "When this reconnaissance had advanced for some time without seeing the enemy, the supreme commander himself came up with his staff and the other companies. Soon the heart of the Kraton was reached, and a repeated hoerah of our men and the *Wilhelmus*, played by the band of the right half of the 14th bataljon, proclaimed that the Kraton was in our possession."
-
-Toekoe Nek's intervention was thus the proximate cause of the discovery that the Kraton had been evacuated. The Dutch had not known the precise location of the Kraton during the first expedition; even in the second, "the continual uncertainty about the precise location of this" had been one of the causes of the failure of the stormings of mid-April [1873].
-
-## See Also
-
-- [[Marassa]]
-- [[Jan van Swieten|J. van Swieten]]
-- [[Kroesen (controller)]]
-- [[Nino Bixio]]
+- [[Kroesen]]
 - [[Taman (Kota Goenoengan)]]
 - [[Capture of the Kraton (24 January 1874)]]
-- [[Second Aceh Expedition (1873-1874)]]
-- [[Aceh War]]
-- [[Uleebalang]]
+- [[Expedition to Bital (12 February 1874)]]
+- [[Expedition to Ketapang Doewa (15 February 1874)]]
+- [[General van Swieten War Telegrams]]
+- [[Kwala Loë]]
+- [[9 December]]
+- [[11 January]]
+- [[12 January]]
+- [[24 January]]
+- [[1874]]
 
 ## Source
 
-*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 21-26.
+*De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne (Schiedam: J. F. Dupont, [[1912]]), pp. 21–26.
 
-## Account from Van Swieten (1879)
+*Over de eerste expeditie tegen Atjeh*, by G. G. Booms ('s-Gravenhage: A. van Hoogstraten & Zoon, [[1875]]), pp. 14–15.
 
-[[Jan van Swieten|Lieutenant-General Van Swieten]], in *De waarheid over onze vestiging in Atjeh* ([[1879]]), confirmed Toekoe Nek's role as one of the most influential Acehnese chiefs and his early submission to the Dutch. During the diplomatic exchanges of [[March 1873]], Toekoe Nek received [[Sidi Tahil]] at kampong [[Djawa]] near [[Maraksa]] and provided him with access to the [[Panglima Dalam]], who escorted Sidi Tahil into the [[Kraton of Aceh|Kraton]].
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier (Batavia: Ogilvie & Co., [[1876]]), pp. 8–10, 14–18.
 
-During the [[Second Aceh Expedition (1873-1874)|Second Expedition]], the Dutch deliberately chose to land east of the [[Atjeh River|Atjeh river]] at [[Kwala Loë]] on [[9 December]] [[1873]] partly to spare Toekoe Nek's kampong of Maraksa. He had offered his services before the landing and was among the first of the Acehnese chiefs to come over to the Dutch side. He subsequently advised [[Toengkoe Kadli Malikoel Adil|Toengkoe Kali]] to approach the Dutch commanding general and promised a favourable reception.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel (The Hague: D. A. Thieme, [[1878]]), pp. 55, 57, 65, 75, 93–94, 103–104, 124, 132, 162, 266, 279, 288.
 
-In Van Swieten's letter to the [[Radja of Troemon]], he wrote with pleasure of having observed "that my friend Toekoe Nek has been occupied in inducing the above-mentioned states to recognize the Netherlands Government as their Overlord and to refrain from hostilities."
+*De waarheid over onze vestiging in Atjeh*, door J. van Swieten (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 21, 25, 88, 465.
 
-## Source (Van Swieten account)
-
-*De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 21, 25, 88, 465.
+*Atjeh-Album van Eigen Haard* (Amsterdam, [[1896]]), pp. 14–15.

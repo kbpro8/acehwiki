@@ -4,30 +4,35 @@ aliases: ["W. J. Knoop", "Generaal Knoop", "Knoop", "Willem Jan Knoop"]
 tags: [person, general, dutch, military-historian, aceh-war, critic]
 ---
 
-**General Knoop** was the Dutch military historian whose judgement that the [[Second Aceh Expedition (1873-1874)]] had been only "slechts ten halve gelukt" — only half successful — became one of the best-known verdicts in the early historiography of the [[Aceh War]]. His phrase stood at the centre of the public dispute between [[Jan van Swieten]], who tried to answer it in [[General Van Swieten's letter in Het Vaderland]], and [[Brutus]], who defended it in [[Open Letter by Brutus to General Knoop]].
+**General Knoop** was the Dutch military historian whose judgement that the [[Second Aceh Expedition (1873-1874)]] had been only "slechts ten halve gelukt" — only partly successful — became one of the best-known verdicts in the early historiography of the [[Aceh War]]. His phrase stood at the center of the public dispute between [[Jan van Swieten]], who answered it in [[General Van Swieten's letter in Het Vaderland]], and [[Brutus]], who defended it in [[Open Letter by Brutus to General Knoop]].
 
 ## The famous judgement
 
-Knoop's importance came from the authority his judgement carried. He did not deny that the Dutch had taken the [[Kraton of Aceh|Kraton]]. What he denied was that this visible success amounted to a full victory while the war in [[Aceh|Atjeh]] was still continuing.
+Knoop's importance came from the authority of his judgement. He did not deny that the Dutch had taken the [[Kraton of Aceh|Kraton]]. What he denied was that this visible success amounted to full victory while the war in [[Aceh|Atjeh]] was still continuing.
 
-This short formula became powerful because it separated battlefield success from political result.
+That short formula became powerful because it separated battlefield success from political result.
 
-## Place in the pamphlet war
+## Why it mattered in 1874
 
-When [[General Van Swieten's letter in Het Vaderland]] appeared, many readers treated its publication as a sign that Knoop had effectively yielded. [[Brutus]] wrote precisely to resist that idea. He addressed Knoop directly and used the continuing state of war in [[Aceh|Atjeh]] as proof that the judgement still stood.
+When Van Swieten's letter appeared in [[Het Vaderland]], many readers treated its publication as if Knoop's criticism had already been answered. [[Brutus]] wrote precisely to resist that impression. He addressed Knoop directly and used the continuing war in [[Aceh|Atjeh]] as proof that the judgement still stood.
 
-Because of this, Knoop became the fixed point around which the pamphlet war turned. Van Swieten wrote to undo his verdict. Brutus wrote to preserve it.
+Because of this, Knoop became the fixed point of the pamphlet controversy. Van Swieten wrote to overturn his verdict. Brutus wrote to preserve it. Later critics such as [[G. F. W. Borel|Borel]] also treated Knoop's formula as a fair, and even restrained, judgement on the expedition.
+
+## Knoop in later criticism
+
+Borel went even further than Knoop. He suggested that "partly successful" might be too generous, because the expedition had taken the center but had left the Dutch with an unfinished war and a weak strategic position. That later use of Knoop's formula helped keep it alive in Dutch writing on Aceh.
 
 ## Significance
 
-**General Knoop** mattered in the printed history of the [[Aceh War]] because one short judgement forced later writers to explain what the second expedition had really achieved. His verdict survived because events themselves seemed to support it: the Dutch held the [[Kraton of Aceh|Kraton]], but they had not yet subdued [[Aceh|Atjeh]].
+**General Knoop** is significant because one short judgement forced later writers to explain what the second expedition had really achieved. His verdict survived because events themselves appeared to support it: the Dutch held the [[Kraton of Aceh|Kraton]], but they had not yet subdued [[Aceh|Atjeh]].
 
 ## See Also
 
-- [[Open Letter by Brutus to General Knoop]]
 - [[General Van Swieten's letter in Het Vaderland]]
+- [[Open Letter by Brutus to General Knoop]]
 - [[Brutus]]
 - [[Jan van Swieten]]
+- [[G. F. W. Borel]]
 - [[Second Aceh Expedition (1873-1874)]]
 - [[1874]]
 

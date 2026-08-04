@@ -1,32 +1,47 @@
 ---
 title: "Bital"
 aliases: ["Bithal", "Bitall"]
-tags: [place, acehnese, kampong, fortified, aceh-war]
+tags: [place, kampong, fortified, aceh-war, acehnese]
 ---
 
-**Bital** was a strongly fortified kampong about an hour's walk south-west of the [[Kraton of Atjeh|Kraton]] in the western sector of the Dutch perimeter, attacked by a Dutch expedition on [[12 February]] [[1874]] in the [[Expedition to Bital (12 February 1874)|expedition to Bital]] at the request of [[Toekoe Nek]] of [[Marassa]]. It was captured, immediately abandoned at night, and lost again to the Atjehneezen — a pattern Borel treats as the epitome of [[Jan van Swieten|van Swieten]]'s passive *afwachtende houding*. A second Dutch attempt to take it by surprise on [[29 September]] [[1874]] failed because the Atjehneezen were now more on guard.
+**Bital** was a fortified kampong southwest of the [[Kraton of Aceh|Kraton]] and near [[Ketapang Doewa]]. During the early [[Aceh War]], it was one of the hostile places that threatened the Dutch ally [[Toekoe Nek Radja Moeda Setia|Toekoe Nek]] of [[Marassa]]. The Dutch attacked it on [[12 February]] [[1874]], took it, and then quickly lost it again.
 
-## The February 1874 expedition
+## Why Bital mattered
 
-Bital and neighbouring [[Ketapang Doewa]] were hostile to Toekoe Nek and posed a constant threat to his pro-Dutch district of Marassa. At Toekoe Nek's request van Swieten sent an expedition on [[12 February]] [[1874]]. Dutch bataljons in linie advanced across open *sawah* (irrigated rice fields) against the boschrand and, despite "moorddadig vuur," pressed forward and stormed the kampong-rand. A "streng gelast" was issued that "geen enkel huis of eenig eigendom te beschadigen" — no house or property was to be damaged. After being handed to the Marassanen, the kampong was immediately lost when Dutch troops returned to [[Penajoeng]] at night. Borel's comment is cutting: "Grootmoedigheid is eene eigenschap waarvan de Atjehnees niet het flauwste begrip heeft" — generosity is a quality of which the Atjehnees has not the faintest conception.
+Bital mattered because it stood close enough to affect the western side of the Dutch position after the fall of the [[Kraton of Aceh|Kraton]]. It also mattered politically, because it threatened the district of [[Marassa]], where Toekoe Nek had allied himself with the Dutch.
 
-## Later operations
+## The expedition of [[12 February]] [[1874]]
 
-Three days after Bital the larger [[Expedition to Ketapang Doewa (15 February 1874)|expedition to Ketapang Doewa]] followed on [[15 February]] [[1874]]. After that van Swieten "stak het zwaard voor goed in de scheede" — put up his sword for good — and applied the afwachtende houding. Bital therefore remained in enemy hands through the spring and summer of [[1874]]. On [[29 September]] [[1874]], the day after the [[Conquest of Langkroek (28 September 1874)|conquest of Langkroek]], a Dutch attempt to take the now-fortified Bital by surprise failed because the Atjehneezen had grown more alert. Bital is mentioned again among the "strongly fortified kampongs west of K. Radja" that came under Dutch observation after the [[Battle of Soerian (26 July 1874)|battle of Soerian]] of [[26 July]] [[1874]]. Bital was finally cleared during [[Generaal Pel|Pel]]'s December [[1875]] offensive along with [[Lamtermin]], and its ground was permanently incorporated into the [[Stelling-Pel|stelling-Pel]].
+At the request of [[Toekoe Nek Radja Moeda Setia|Toekoe Nek]], Dutch troops marched against [[Bital]] on [[12 February]] [[1874]]. They crossed open rice-fields, came under heavy fire from the edge of the village, and stormed the position. According to Dutch accounts, strict orders were given not to damage houses or property. The kampong was then handed over to the men of Toekoe Nek.
+
+The problem came immediately afterward. Because the Dutch withdrew again to [[Penajoeng]], the Acehnese soon returned, and the gain was lost.
+
+## Later criticism
+
+Writers such as [[Brutus]] and [[G. F. W. Borel|Borel]] used Bital as an example of a victory that was not turned into lasting control. In their view, it showed the weakness of a campaign that could take ground but not hold or exploit it.
+
+## Later fighting
+
+Bital remained part of the contested western zone during [[1874]]. A later attempt to surprise it after the [[Conquest of Langkroek (28 September 1874)]] failed, because the Acehnese were more alert by then. The place was only cleared more firmly during later Dutch advances under [[J. L. J. H. Pel|Pel]].
+
+## Significance
+
+**Bital** is significant because it was one of the small but revealing places through which the wider problem of the second expedition became visible. The Dutch could win a local fight there, but not turn it into a stable result. That made Bital important both militarily and in later criticism of the campaign.
 
 ## See Also
 
-- [[Ketapang Doewa]]
-- [[Marassa]]
-- [[Toekoe Nek]]
-- [[Lamtermin]]
-- [[Soerian]]
 - [[Expedition to Bital (12 February 1874)]]
-- [[Expedition to Ketapang Doewa (15 February 1874)]]
+- [[Ketapang Doewa]]
+- [[Toekoe Nek Radja Moeda Setia]]
+- [[Marassa]]
+- [[Penajoeng]]
+- [[Brutus]]
+- [[G. F. W. Borel]]
 - [[Conquest of Langkroek (28 September 1874)]]
-- [[Battle of Soerian (26 July 1874)]]
-- [[Jan van Swieten]]
+- [[1874]]
 
 ## Source
 
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 54–57, 64–65, 176, 202, 266.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel (The Hague: D. A. Thieme, [[1878]]), pp. 54–57, 64–65, 176, 202, 266.
+
+*Open brief aan den Generaal Knoop over de Atjeh-kwestie*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 17–18.

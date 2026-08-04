@@ -1,33 +1,47 @@
 ---
 title: "Ketapang Doewa"
 aliases: ["Ketapang Dua", "Ketapan Doewa", "Ketapang 2"]
-tags: [place, acehnese, kampong, fortified, aceh-war]
+tags: [place, kampong, fortified, aceh-war, acehnese]
 ---
 
-**Ketapang Doewa** was a strongly fortified kampong south-west of the [[Kraton of Atjeh|Kraton]] and adjacent to [[Bital]] in the western sector of the Dutch perimeter, attacked by a Dutch expedition on [[15 February]] [[1874]] in the [[Expedition to Ketapang Doewa (15 February 1874)|expedition of 15 February 1874]] and finally conquered for good on [[27 December]] [[1875]] in the opening days of [[Generaal Pel|Pel]]'s great [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|winter offensive]]. Borel treats its high ground as the ideal site for a permanent post that would have given the Kraton "lucht van de westzijde" — air from the west — had van Swieten not refused to extend the Dutch stelling.
+**Ketapang Doewa** was a fortified kampong southwest of the [[Kraton of Aceh|Kraton]] and near [[Bital]]. During the early [[Aceh War]], it was one of the key hostile positions on the western side of the Dutch center. Dutch troops attacked it on [[15 February]] [[1874]], captured it, and then abandoned it again. The place was later taken more firmly during the Dutch offensive of [[1875]]–[[1876]].
 
-## The February 1874 expedition
+## Why the place mattered
 
-Three days after the [[Expedition to Bital (12 February 1874)|expedition to Bital]] of [[12 February]] [[1874]], a similar but larger expedition was sent against Ketapang Doewa. The strijd was "veel heviger" and Dutch losses "aanmerkelijk grooter" than at Bital. Six halve bataljons infanterie plus artillerie and cavallerie were deployed — "eene voor Indië zeer aanzienlijke macht" that Borel judges "geheel overbodig." The kampong was attacked only in front, captured, and immediately abandoned in the same pattern as Bital. Borel insists that a permanent post on the high ground at Ketapang Doewa would have given the Kraton "lucht van de westzijde," but "eene uitbreiding onzer stelling lag echter niet in de plannen van den generaal van Swieten." After [[15 February]] van Swieten declared the offensive over and "stak het zwaard voor goed in de scheede."
+Ketapang Doewa stood on high ground that could affect the western side of the Dutch position around the [[Kraton of Aceh|Kraton]]. That is why later Dutch critics treated it as an important lost opportunity.
 
-## The final conquest
+## The attack of [[15 February]] [[1874]]
 
-Ketapang Doewa next appears in Borel's account as one of the kampongs along the western edge of the *sawah* that fell into Dutch hands in the days following the [[Battle of Soerian (26 July 1874)|battle of Soerian]] of [[26 July]] [[1874]], when the Atjehneezen abandoned all their western positions. Yet the place was evidently reoccupied, for it appears again as a target of Pel's December [[1875]] offensive. On [[27 December]] [[1875]] Ketapang Doewa — "bitterly fought over on 15 Feb 1874" — fell "andermaal en nu voorgoed" into Dutch hands, marking the start of the operation that would carry the [[IX Moekims|IX Moekims]] invasion through [[Boekit Daroe]] and the [[Glitaroem]] pass in January [[1876]]. With [[Djempit]] and Pakan Badak conquered on [[28 December]] [[1875]] and [[Lamtermin]] and Bital ontruimd by the enemy, the entire western sector was finally cleared.
+Three days after the operation against [[Bital]], the Dutch mounted a larger attack against [[Ketapang Doewa]]. According to Borel, the fighting was harder than at Bital and Dutch losses were greater. Even so, the Dutch carried the position.
+
+The problem came afterward. The position was not held. Critics argued that this gave away the main advantage of the success.
+
+## Later criticism
+
+[[Brutus]] used Ketapang Doewa as one of his main examples against [[Jan van Swieten]]. He argued that the Dutch had enough strength to hit the enemy hard but still failed to turn success into lasting control. [[G. F. W. Borel|Borel]] added that the high ground should have been kept as a permanent post.
+
+## Later conquest
+
+Ketapang Doewa remained contested after [[15 February]] [[1874]]. It appears again in later operations and was finally taken more firmly during the larger Dutch offensive under [[J. L. J. H. Pel|Pel]] at the end of [[1875]].
+
+## Significance
+
+**Ketapang Doewa** is significant because it shows how a small place could become central in a larger military argument. It was not just a kampong on the map. It became an example of the difference between capturing ground and truly controlling it.
 
 ## See Also
 
-- [[Bital]]
-- [[Lamtermin]]
-- [[Soerian]]
-- [[Boekit Daroe]]
-- [[Glitaroem]]
-- [[IX Moekims]]
 - [[Expedition to Ketapang Doewa (15 February 1874)]]
-- [[Battle of Soerian (26 July 1874)]]
-- [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
+- [[Bital]]
+- [[Kraton of Aceh]]
+- [[J. L. J. H. Pel]]
 - [[Jan van Swieten]]
-- [[Generaal Pel]]
+- [[Brutus]]
+- [[G. F. W. Borel]]
+- [[1874]]
+- [[1875]]
 
 ## Source
 
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 54–57, 64–66, 179, 266.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel (The Hague: D. A. Thieme, [[1878]]), pp. 54–57, 64–66, 179, 266.
+
+*Open brief aan den Generaal Knoop over de Atjeh-kwestie*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 18–19.

@@ -1,50 +1,48 @@
 ---
 title: "Major Romswinckel"
-aliases: ["Majoor Romswinckel", "Major Romswinckel", "Romswinckel", "majoor Romswinckel"]
-tags: [person, aceh-war, colonial, commander, dutch, infantry, major, military]
+aliases: ["Majoor Romswinckel", "Romswinckel", "majoor Romswinckel"]
+tags: [person, military, dutch, aceh-war, commander, infantry]
 ---
 
-**Major Romswinckel** was a Dutch *majoor* of the [[Indische Leger|Indische leger]] who commanded the 5th battalion of infantry in Atjeh, the unit that bore the brunt of the [[Battle of Lampoe Oek (16 April 1874)|defeat at Lampoe Oek]] on [[16 April]] [[1874]] — for which [[Jan van Swieten|van Swieten]] "zeer verbolgen" blamed him unfairly — and went on to distinguish himself at the [[Battle of Garouw (28 June 1874)|battle of Garouw]], the [[Conquest of Langkroek (28 September 1874)|conquest of Langkroek]], the [[Battle of Longbatta (31 December 1874)|battle of Longbatta]], the [[Conquest of Lampriet|conquest of Lampriet]] of [[4 February]] [[1875]] and the establishment of the [[Lemboe Oost]] post of [[12 March]] [[1875]]. In [[G. F. W. Borel|Borel]]'s narrative he is one of the most praised subalterns of the *aanvallende* phase.
+**Major Romswinckel** was a Dutch infantry officer in the [[Aceh War]] who became best known for his role in the [[Battle of Lampoe Oek (16 April 1874)]]. In that action he tried to support Dutch patrols near [[Longbatta]], attacked a strong Acehnese fortification, and was forced back after heavy losses. Later Dutch writers strongly disagreed over whether he had acted rashly or bravely.
 
-## The Lampoe Oek defeat and Borel's Vindication
+## The battle of [[16 April]] [[1874]]
 
-On [[16 April]] [[1874]] Romswinckel was sent with a compagnie infantry and a sectie artillery to support two patrols under kapiteins Bardok and Scheltus that had been heavily engaged. The *colonne* discovered a strongly fortified enemy stelling near [[Longbatta]] — later known as [[Lampoe Oek]] — of which the Dutch had known nothing. Romswinckel, "over eene voor het doel vrij aanzienlijke macht beschikkend," judged he could attack. The initial attack was repulsed by "bijna onoverkomelijke terreinhindernisen" and "woedenden tegenstand." He received reinforcements — kapiteins van de Poll, Vasseur and Hamilton of Silvertonhill, and four *handmortieren* under luitenant van der Kruk — and attacked "van verschillende zijden," but again suffered "schipbreuk" on the terrain. Forced to retreat, he lost nearly a hundred dead and wounded, of whom five were *vermist*. The date was "noodlottig" — exactly one year after the [[First Aceh Expedition (April 1873)|first expedition]]'s failure. Van Swieten, "zeer verbolgen," blamed Romswinckel entirely and refused him a hearing. Borel defends him: he was "te dapper en te fier" to retreat after the initial defeat, and was following the spirit of the 7 April instruction for daily patrols.
+On [[16 April]] [[1874]], Romswinckel was sent forward with infantry and artillery to support two patrols already under heavy fire. Near [[Longbatta]] he found a fortified Acehnese position later known as [[Lampoe Oek]]. He judged that the force available was enough to attack.
 
-## The Later Offensives
+According to [[Brutus]], Romswinckel had even received oral orders to attack the position and had been supplied with *lithofracteur* charges in case enemy guns had to be destroyed. During the fighting, more Dutch troops and ammunition were sent to him. The action lasted for about six hours.
 
-Vindicated by subsequent operations, Romswinckel commanded the 5th battalion at the [[Conquest of Langkroek (28 September 1874)|conquest of Langkroek]] ([[28 September]] [[1874]]) and at the [[Battle of Longbatta (31 December 1874)|battle of Longbatta]] ([[31 December]] [[1874]]), where his morning attack on the *bosch-rand* east of [[Kota Radja]] succeeded so well that the enemy streamed east to face him, leaving the left-bank approach open for [[Majoor van der Meer|van der Meer]]. On [[4 February]] [[1875]] he marched with a column to take [[Lampriet]], "like an oasis in the sawah" between Langkroek and [[Pinang (kampong)|Pinang]], important for command of the terrain and banks of the Kroeng Broek. Since the 12 c.M. shells had criss-crossed the terrain, the enemy was unlikely to defend it; Romswinckel took it without resistance and immediately began the new fortification to replace Langkroek-oost. On [[12 March]] [[1875]] he established the intermediate post of Lemboe Oost on the eastern kampong-rand; the enemy tried to prevent the work but was driven off, at a cost of seven wounded.
+## Defeat and blame
 
-## Borel's Judgement
+The Dutch could not carry the position. The ground was difficult, the defense was strong, and the attack failed. Losses were heavy. Borel wrote of nearly 100 killed and wounded, with five men missing.
 
-Romswinckel is, in Borel's account, the prototype of the dashing Indische *bataljons-commandant* — "te dapper en te fier" to be deterred by the Lampoe Oek setback, and the man to whom [[Generaal Pel|Pel]] repeatedly entrusted the most exposed columns. His unfair treatment by van Swieten at the Lampoe Oek defeat is one of Borel's principal exhibits in the indictment of the *opperbevelhebber*'s judgement of subordinates.
+After the retreat, [[Jan van Swieten]] blamed Romswinckel. Both [[Brutus]] and [[G. F. W. Borel|Borel]] thought this was unfair. Borel argued that Romswinckel had simply followed the spirit of the orders. Brutus went further and said that since reinforcements and supplies had been sent during the battle, it was wrong to make the field commander carry all the blame after the failure.
 
-## Nineteenth-Century Historiography & Campaign Analysis
+## Later service
 
-## Service in the Aceh Campaigns
+Romswinckel did not disappear after Lampoe Oek. He later distinguished himself again in Dutch operations at [[Battle of Garouw (28 June 1874)]], [[Conquest of Langkroek (28 September 1874)]], [[Battle of Longbatta (31 December 1874)]], and other actions of the more offensive phase that followed under [[J. L. J. H. Pel|Pel]].
 
-As recorded in *Atjeh gedurende de tweede expeditie en later* ([[1876]]), [[Majoor Romswinckel]] commanded line infantry detachments during engagements around [[Meuraxa]] and [[Pekan Badak]], securing supply roads for the advance on [[Kraton of Aceh]].
+## Significance
+
+**Major Romswinckel** is significant because his name became tied to one of the most controversial reverses of the early war. His career shows how quickly Dutch officers in Aceh could become both battlefield actors and subjects of public argument.
 
 ## See Also
 
+- [[Battle of Lampoe Oek (16 April 1874)]]
+- [[Longbatta]]
+- [[Jan van Swieten]]
+- [[Brutus]]
+- [[G. F. W. Borel]]
+- [[J. L. J. H. Pel]]
+- [[Battle of Garouw (28 June 1874)]]
+- [[Conquest of Langkroek (28 September 1874)]]
 - [[1874]]
 - [[1875]]
-- [[Battle of Garouw (28 June 1874)]]
-- [[Battle of Lampoe Oek (16 April 1874)]]
-- [[Battle of Longbatta (31 December 1874)]]
-- [[Conquest of Langkroek (28 September 1874)]]
-- [[Generaal Pel]]
-- [[Jan van Swieten]]
-- [[Lampoe Oek]]
-- [[Lampriet]]
-- [[Lemboe Oost]]
-- [[Longbatta]]
-- [[Majoor van der Meer]]
-- [[Meuraxa]]
-- [[Pekan Badak]]
-- [[Royal Netherlands East Indies Army]]
 
 ## Source
 
-*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 11-15.
+*Open brief aan den Generaal Knoop over de Atjeh-kwestie (naar aanleiding van den brief van Generaal Van Swieten in Het Vaderland)*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 28–30.
 
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. pp. 68–83, 162, 227, 248, 262.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel (The Hague: D. A. Thieme, [[1878]]), pp. 58–73, 162, 227, 248, 262.
+
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier (Batavia: Ogilvie & Co., [[1876]]), pp. 11–15.
