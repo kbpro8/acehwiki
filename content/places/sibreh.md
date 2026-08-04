@@ -1,7 +1,7 @@
 ---
 title: Sibreh
 aliases: ["Sibreh", "Sibreh (Ba' Seping)", "Ba' Seping", "the kampong of Sibreh", "Passar Sibreh"]
-tags: [place, kampong, iii-moekims-lamkrak, groot-atjeh, aceh-war, 1896, tuchtiging, ana-galong, kruisheer-vol3, hoofdstuk-iii]
+tags: [place, kampong, iii-moekims-lamkrak, groot-atjeh, aceh-war, 1896, tuchtiging, ana-galong, kruisheer-vol3, hoofdstuk-iii, medicine, public-health, 1937]
 description: "Sibreh — also known as Sibreh (Ba' Seping) — was a kampong in the III Moekims Lamkrak of Groot-Atjeh, which was burned by the Dutch on 29 June 1896 in the tuchtiging which followed the Surprise of Ana' Galoeng. The kampong was estimated by Dutch intelligence to have been garrisoned by 12 men, and its Passar (market) by 30 men, at the time of the surprise attack."
 ---
 
@@ -18,6 +18,12 @@ The Dutch intelligence on Sibreh, as recorded by Kruisheer, was as follows: *Ana
 ## Significance
 
 Sibreh is significant in the documentary record of *ATJEH '96 — Tweede Deel* as one of the two kampongs (with [[Rahat]]) burned by the Dutch on [[29 June]] [[1896]] in the [[Tuchtiging of Sibreh and Rahat (29 June 1896)|tuchtiging which followed the Surprise of Ana' Galoeng]]. The kampong — the home of [[Toekoe Haschim of Sibreh|Toekoe Haschim]], the *mukimhoofd* (parish-head) of Sibreh — was the principal civilian settlement in the immediate vicinity of the *benteng* (fort) of Ana' Galoeng, and its burning was the visible demonstration, to the surrounding population, of the consequence of harbouring or supporting the Acehnese resistance at the *benteng* (fort). The kampong would be reoccupied by the Acehnese and would again be the object of Dutch operations in the second semester of [[1896]] — the recurring pattern of tuchtiging and reoccupation which characterised the slow, attritional warfare of the second semester.
+
+## In the eye survey of Groot-Atjeh ([[1937]])
+
+Sibreh appears in Dr. [[C. E. Gomperts]]'s [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)|eye survey of 1937]] among the parts of [[Groot-Atjeh]] "waar de Westersche invloed meer is doorgedrongen" and where traffic was busier — with [[Oeleë Lheuë|Oeloe-Lheuë]], [[Seulimeum]], [[Indrapoeri]], [[Lho Nga|Lho-Nga]] and [[Kroeng Raja|Kroeëng-Raja]].
+
+Gomperts used these districts as a measure of the frequency of venereal infection among the population: the annual reports of the *Gouvernements-Indisch arts* for [[1936]] and [[1937]] recorded only eight and nine gonorrhoeal infections in total, from which he concluded that the share of gonorrhoeal infection in the causes of [[Blindheid in Groot-Atjeh|blindness]] in the surveyed area "zeer gering moet zijn."
 
 ## See Also
 
@@ -36,7 +42,14 @@ Sibreh is significant in the documentary record of *ATJEH '96 — Tweede Deel* a
 - [[Aceh War]]
 - [[1896]]
 - [[1913]]
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Blindheid in Groot-Atjeh]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
 
 ## Source
 
 *ATJEH '96. Tweede Deel* (2c Deel), door A. Kruisheer, Kapitein der Infanterie O.I.L., *met 3 kaarten en 6 portretten* (Weltevreden: N.V. Boekhandel Visser & Co, [[1913]]). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-90-Atjeh_96_DLP-89-Atjeh_96_Met_3_kaarten_en_6_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`., pp. 1, 7, 19, 23, 138.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.

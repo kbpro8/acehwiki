@@ -1,7 +1,7 @@
 ---
 title: "Indrapoeri"
 aliases: ["Indrapoeri", "Indrapuri", "Indrapoera", "Misigit Indrapoeri", "Indrapoeri (main place XXII Moekims)"]
-tags: [place, centre, strategic, aceh, aceh-war, 19th-century, 20th-century, marechaussee]
+tags: [place, centre, strategic, aceh, aceh-war, 19th-century, 20th-century, marechaussee, medicine, public-health, 1937, groot-atjeh]
 ---
 
 **Indrapoeri** (also spelled [[Indrapuri]] or [[Indrapoera]]) was the main place (capital) of the [[XXII Moekims]]—the territory ruled by [[Panglima Polim]]—and served as both the administrative centre and a key strategic point during the [[Aceh War]] ([[1873]]–[[1903]]).
@@ -27,6 +27,11 @@ By [[1910]] the corps had been redistributed to [[Blang Kedjeren]], [[Malaboeh|M
 ## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
 
 [[J. J. W. E. Verstege|Verstege]] names Indrapoerie (self-same as Indrapuri) the old and famous sanctuary of the highlands — "het oude en vermaarde heiligdom der bovenlanden" — occupied in [[1879]] by the irreconcilable [[Imam Longbattah]] and captured on [[24 March]] [[1879]] with insignificant loss (see [[Capture of Indrapuri (24 March 1879)]]); it was the post to which on [[17 August]] [[1879]] the columns returning from [[Selimoen]] brought [[Toekoe Moeda Daoed]] and [[Toekoe Tjoet Hadjet]], and one of the outer fortifications evacuated between [[5 January|5]] and [[14 January]] [[1885]] at the execution of the [[Concentratie-stelsel (1884-1896)|concentration]] (see [[Completion of the concentrated position (March 1885)]]).
+## In the eye survey of Groot-Atjeh ([[1937]])
+
+Indrapoeri appears in Dr. [[C. E. Gomperts]]'s [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)|eye survey of 1937]] among the valley districts of [[Groot-Atjeh]] whose rice harvest in [[1936]]–[[1937]] suffered from the long-continued drought, and whose *[[Xerophthalmie|xerophthalmie]]* frequency was nevertheless practically equal to that of [[Lam Teuba|Moekim Lam-Teuba]], where there was a rice surplus — one of the three comparisons on which Gomperts rested his conclusion that food supply alone could not explain the distribution of the disease.
+
+Indrapoeri was also named among the districts of Groot-Atjeh into which Western influence had penetrated further and where traffic was busier — with [[Oeleë Lheuë|Oeloe-Lheuë]], [[Seulimeum]], [[Sibreh]], [[Lho Nga|Lho-Nga]] and [[Kroeng Raja|Kroeëng-Raja]] — which gave Gomperts a measure for the frequency of venereal infection among the population, and hence for its very small share among the causes of [[Blindheid in Groot-Atjeh|blindness]].
 
 ## See Also
 
@@ -41,6 +46,12 @@ By [[1910]] the corps had been redistributed to [[Blang Kedjeren]], [[Malaboeh|M
 - [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
 - [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
 - [[Divisie (Maréchaussée)]]
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Xerophthalmie]]
+- [[Blindheid in Groot-Atjeh]]
+- [[Lam Teuba]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
 
 ## Source
 
@@ -49,3 +60,4 @@ By [[1910]] the corps had been redistributed to [[Blang Kedjeren]], [[Malaboeh|M
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
 
 *Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 60, 61, 81. OCR: DLP-158.
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.

@@ -1,7 +1,7 @@
 ---
 title: "Koeta-Radja"
-aliases: ["Kuta Raja", "Kutaraja", "Kutaraja (Banda Aceh)", "Banda Aceh", "Kota Radja", "Kotaradja", "Kota Raja", "capital of Atjeh", "Koetaradja", "Kutaradja", "Kota Radja (Atjeh)", "Banda Acheh", "Bandah Acheh", "Bandar Aceh", "the Kutaradja of the Dutch concentration", "Banda Atjeh", "Banda", "Banda-Acheh", "Bandar Acheh", "Acheh capital", "Capital of Acheh", "Kota Acheh", "hoofdplaats Atjeh", "Acheen capital", "Koeta Radja", "Koetaraja", "Kraton", "Kota-Radja", "Kraton (Koeta Radja)", "Keraton", "Sultan's palace", "Kota Radja Atjeh", "Kotta-Radja", "Kuta Radja", "Kotja-Radja", "Atjeh's chief place", "Bandjar (Banda Aceh)", "Bandjar", "Kota Raoja", "Koeta-Radja", "Banda Aceh (historical Koeta Radja)"]
-tags: [place, city, capital, aceh, sumatra, colonial, colonial-capital, government-seat, achehnese-history, hoofdplaats, atjeh, administrative-center, town, acheh, fortified, headquarters, groot-atjeh, 20th-century, aceh-proper, coast, achehnese, concept, dutch, sultanate, military, kraton, van-heutsz, van-daalen, sabang, oelèë-lheue, museum, atjeh-instituut, dutch-colonial, 19th-century, aceh-war, military-base, koetaradja, administration, marechaussee, administrative]
+aliases: ["Kuta Raja", "Kutaraja", "Kutaraja (Banda Aceh)", "Banda Aceh", "Kota Radja", "Kotaradja", "Kota Raja", "capital of Atjeh", "Koetaradja", "Kutaradja", "Kota Radja (Atjeh)", "Banda Acheh", "Bandah Acheh", "Bandar Aceh", "the Kutaradja of the Dutch concentration", "Banda Atjeh", "Banda", "Banda-Acheh", "Bandar Acheh", "Acheh capital", "Capital of Acheh", "Kota Acheh", "hoofdplaats Atjeh", "Acheen capital", "Koeta Radja", "Koetaraja", "Kraton", "Kota-Radja", "Kraton (Koeta Radja)", "Keraton", "Sultan's palace", "Kota Radja Atjeh", "Kotta-Radja", "Kuta Radja", "Kotja-Radja", "Atjeh's chief place", "Bandjar (Banda Aceh)", "Bandjar", "Kota Raoja", "Koeta-Radja", "Banda Aceh (historical Koeta Radja)", "onderafdeeling Koetaradja"]
+tags: [place, city, capital, aceh, sumatra, colonial, colonial-capital, government-seat, achehnese-history, hoofdplaats, atjeh, administrative-center, town, acheh, fortified, headquarters, groot-atjeh, 20th-century, aceh-proper, coast, achehnese, concept, dutch, sultanate, military, kraton, van-heutsz, van-daalen, sabang, oelèë-lheue, museum, atjeh-instituut, dutch-colonial, 19th-century, aceh-war, military-base, koetaradja, administration, marechaussee, administrative, medicine, public-health, 1937]
 description: "Kota Radja (also Kotaradja, Koeta-Radja; modern Banda Aceh) was the capital of the Dutch Gouvernement Atjeh en Onderhoorigheden and the principal city of Atjeh. By 1926 it served as the starting point for automobile travel across Sumatra to Padang, symbolising the transformation of transport infrastructure following the pacification."
 ---
 
@@ -228,6 +228,12 @@ First rail traffic naturally between [[Koeta Radja]] and port [[Oelèë Lheuë]]
 ### Municipal and harbour
 
 Koeta Radja bears many education institutions Atjehsch internaat boarding for school-going Atjeh children European supervision etc.
+
+## In the eye survey of Groot-Atjeh ([[1937]])
+
+Koetaradja was one of the two *onderafdeelingen* of the *afdeeling* [[Groot-Atjeh]] covered by the survey, and the seat of the [[Militair Hospitaal te Koetaradja|Militair Hospitaal]] to which Dr. [[C. E. Gomperts]] referred all patients needing surgery or hospital treatment. Its estimated population for [[1937]] was 24,336 — 8,369 men, 8,882 women and 7,085 children.
+
+Koetaradja was one of only four places in Groot-Atjeh not populated exclusively by Atjehnese, though the admixture with Malays, Padangers and others was "zeer gering." The town's eye out-patient clinic supplied the observations on *wazig zien* (blurred vision) that Gomperts could not make in the villages, the *donkerkamertent* letting through too much light for the fluorescein test; and the *Huidarts* at Koetaradja reported the forty-odd gonorrhoeal patients whose small number helped Gomperts discount gonorrhoea as a cause of [[Blindheid in Groot-Atjeh|blindness]].
 
 ## See Also
 
@@ -471,6 +477,12 @@ Koeta Radja bears many education institutions Atjehsch internaat boarding for sc
 - [[Uitreiking van het vaandel aan het Korps Maréchaussée (2 April 1930)]]
 - [[Lho Nga]]
 - [[Poh Ama]]
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Militair Hospitaal te Koetaradja]]
+- [[Wazig zien]]
+- [[Blindheid in Groot-Atjeh]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
 
 ## Source
 
@@ -507,3 +519,5 @@ Koeta Radja bears many education institutions Atjehsch internaat boarding for sc
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 85-101.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.

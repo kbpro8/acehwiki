@@ -1,7 +1,7 @@
 ---
 title: "Zending"
 aliases: ["Zending", "Protestant mission in the Indies", "zendingsziekenhuizen", "mission hospitals in the Netherlands Indies"]
-tags: [concept, religion, mission, medicine, colonial, indies, 1934]
+tags: [concept, religion, mission, medicine, colonial, indies, 1934, public-health, nutrition]
 ---
 
 ***Zending*** — the Protestant mission — appears in *[[Een strijd in Atjeh (1934)]]* chiefly in its medical capacity, as the agency whose village hospitals and dispensaries constituted, in [[J. Tijssen|Dr. J. Tijssen]]'s account, the only substantial provision for the indigenous population outside the government hospitals.
@@ -26,6 +26,12 @@ On [[Samosir]] Tijssen found three Dutch missionaries and three small mission au
 
 For [[Acheh|Atjeh]] itself the pamphlet records the obstacle rather than the work. Of the [[Atjeh's Westkust|West Coast]] Tijssen wrote that its people were "vrome fanatieke Mohammedanen," that at the hour of prayer every boy spread out his head-cloth on the road wherever he was, and that "het woord van Paulus „Ik schaam mij het evangelie van Jezus Christus niet” is voor den Mohammedaan absoluut onbegrijpelijk. Zijn geloof is zijn eer." — the word of Paul, „I am not ashamed of the gospel of Jesus Christ”, is to the Muhammadan absolutely incomprehensible. His faith is his honour. Among such a population, he said, one could not work in the fasting month, and the administration would not gladly have seen it. He also observed that on the West Coast the Dutch faced a population among whom no officer went into a *[[Kampong|kampong]]* without an armed soldier behind him, while he himself lived unarmed among them for weeks unharmed.
 
+## The mission's cod-liver oil work in the later literature
+
+The treatment of *[[Avitaminose in Atjeh|avitaminose]]* with *[[Levertraan|levertraan]]* for which [[J. Tijssen]] praised the *zending* — crediting it with having prevented early blindness in hundreds of children — was confirmed as sound practice by the systematic [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)|eye survey]] of Dr. [[C. E. Gomperts]] in [[1937]].
+
+Gomperts distributed 404.1 kilogrammes of cod-liver oil during the ten months of his own survey, recorded that corneal changes in *[[Xerophthalmie|xerophthalmie]]* often disappeared under cod-liver oil and a vitamin-A-rich diet, and made the liberal distribution of cod-liver oil the second of his five recommended measures for combating the disease and preventing blindness through *[[Keratomalacie|keratomalacie]]*. On the therapy of xerophthalmia he and Tijssen were in complete agreement.
+
 ## See Also
 
 - [[J. Tijssen]]
@@ -37,10 +43,16 @@ For [[Acheh|Atjeh]] itself the pamphlet records the obstacle rather than the wor
 - [[Samosir]]
 - [[Een strijd in Atjeh (1934)]]
 - [[1934]]
-
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
+- [[Levertraan]]
+- [[Xerophthalmie]]
 
 ## Source
 
 *Een strijd in Atjeh (Een oogarts op het oorlogspad)*, door Mr. C. Graadt van Roggen, met een voorrede van den heer H. Wanting, redacteur *Nieuwe Rotterdamsche Courant* (Rotterdam: N.V. Drukkerij Korteweg, uitgave van de Vereeniging „SIMAVI”, [[1934]]), pp. 2, 5, 12–14, 16.
 
 *Acknowledgement of sources.* The material in this article derives from *Een strijd in Atjeh (Een oogarts op het oorlogspad)* by Mr. C. Graadt van Roggen (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.

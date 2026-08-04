@@ -7,6 +7,8 @@ aliases:
 - Lam Ara (XXII Mukims)
 - Loöng
 - Loöng on the Westkust
+- VI Moekims Lhong
+- kust-Moekims Lhong
 tags:
 - place
 - town
@@ -22,6 +24,9 @@ tags:
 - acehnese
 - aceh-war
 ---
+- medicine
+- 1937
+- agriculture
 
 **Lhong** — also **Lam Ara** (= Lam Ara in the mukim records) — carries two distinct identities in the sources: as a place on the [[Westkust (of Atjeh)|West Coast of Aceh]] it was the setting of the [[Verzet in Lhong]] recorded in *[[Oost-Indisch Journael]]*; as **Lam Ara** it was a *mukim* of the [[XXII Mukims]] in the highlands of [[Great Acheh]], cited by [[C. Snouck Hurgronje|Snouck Hurgronje]] in *The Achehnese* as the sole example of a mukim divided between two distinct joint judicial unions.
 
@@ -61,6 +66,14 @@ The murder, committed by seven persons of the *landschap* who fled to the mounta
 ## Sources
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 87-88.
 
+## In the eye survey of Groot-Atjeh ([[1937]])
+
+In Dr. [[C. E. Gomperts]]'s [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)|eye survey of 1937]] the *VI Moekims Lhong* appear as one of only two districts of [[Groot-Atjeh]] — with [[Lam Teuba|Moekim Lam-Teuba]] — whose *[[Sawah|sawah]]* fields were irrigated by mountain streams that supplied enough water even in the dry season. Since the rest of the *afdeeling* depended on rainfall, the long drought of [[1936]]–[[1937]] caused the *paddi* planting to fail everywhere but in these two.
+
+In the coastal *moekims* of Lhong, accordingly, "de voedselvoorziening (rijstvoorziening) niet te wenschen overliet" during the survey period, in contrast with the other coastal *moekims*. Gomperts used the contrast as the first of three tests of whether food supply governed the frequency of *[[Xerophthalmie|xerophthalmie]]*, and found that in Lhong "deze invloed van de voeding niet duidelijk tot uitdrukking komt in de xerophthalmiefrequentie."
+
+In the *moekims* Lhong, [[Lho'nga|Lho-Nga]] and [[Lam-Kabeuë]], xerophthalmia was known among the Acehnese population under the name *penjikit sisë* — [[J. Tijssen|Tijssen]] writes *siseh* — while elsewhere in the surveyed area the condition bore no such name; there *sisë* meant only *kulit ikan*, the scales of a dead fish, or *kaki ajam*, a chicken's foot.
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -85,6 +98,13 @@ The murder, committed by seven persons of the *landschap* who fled to the mounta
 - [[Van Lansberge's visit to Aceh (March-April 1877)]]
 - [[Malaboeh]]
 - [[Westkust van Atjeh]]
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
+- [[Xerophthalmie]]
+- [[Lam Teuba]]
+- [[Lam-Kabeuë]]
+- [[Sawah]]
 
 ## Source
 
@@ -93,3 +113,5 @@ The murder, committed by seven persons of the *landschap* who fled to the mounta
 - *DLP-84-Atjeh.pdf*, p. 8.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XII.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.

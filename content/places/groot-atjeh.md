@@ -1,7 +1,7 @@
 ---
 title: "Groot-Atjeh"
 aliases: ["Groot-Atjeh", "Groot Atjeh", "Groot-Atjeh (region)", "Groot Atjeh region", "Great Atjeh", "Atjeh valley"]
-tags: [place, region, administrative, aceh, aceh-war, 19th-century, 20th-century, historical-sultanate, rice, atjeh]
+tags: [place, region, administrative, aceh, aceh-war, 19th-century, 20th-century, historical-sultanate, rice, atjeh, medicine, public-health, 1937, demography]
 ---
 
 **Groot-Atjeh** (Great Atjeh) is the central region of [[Atjeh]] (Aceh), comprising the north-western part of the realm through which the middle and lower courses of the [[Atjeh River]] flow. It is defined geographically by the river valley and administratively by the three [[sagi]] (bondgenootschappen) that encompassed the territory where the sultan of [[Atjeh]] exercised direct authority: the [[XXV Moekims]], the [[XXII Moekims]], and the [[XXVI Moekims]].
@@ -32,6 +32,32 @@ Old rice land Groot-Atjeh region now subdepartments Seulimeum is sagi 22 moekims
 
 Great importance Atjehsch internaat [[1922]] etc. Separation sufferers island [[Poh Ama]] 50 sufferers earlier housed beasts time nice abattoir built where not allowed slaughter as only must serve appearance orderly neat bestuur. Frequent insanity etc.
 
+## Groot-Atjeh in the eye survey of [[1937]]
+
+Dr. [[C. E. Gomperts]]'s [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)|eye survey of 1937]] gives an unusually precise administrative and demographic description of the *afdeeling* at the end of the colonial period.
+
+### Administrative division
+
+The *afdeeling* Groot-Atjeh, forming part of the *Residentie* [[Gouvernement Atjeh en Onderhoorigheden|Atjeh en Onderhoorigheden]], had two *onderafdeelingen* — [[Seulimeum]] and [[Koeta Radja|Koetaradja]] — "welke onderafdeelingen tot het bestuursgebied van twee controleurs behooren." The sketch-map accompanying the report shows the *afdeeling* bounded by the [[Straits of Malacca|Straat van Malaka]] to the north, the [[Indische Oceaan]] to the west, and the *Ooster Afdeeling* and *Zuidelijke Afdeeling van Atjeh* to the south-east and south.
+
+Gomperts divided the surveyed territory into *kuststreken* and *valleistreken* — coastal and valley districts — a distinction that proved central to his findings, xerophthalmia being markedly less frequent on the coast.
+
+### Population
+
+"Groot-Atjeh wordt, met uitzondering van [[Koeta Radja|Koetaradja]], [[Lho Nga|Lho-Nga]], [[Oeleë Lheuë|Oelee-Lheuë]] en [[Seulimeum]], uitsluitend door Atjehers bevolkt" — Groot-Atjeh is, with the exception of those four places, populated exclusively by Atjehnese; and in those four the admixture with other indigenous races, such as Malays and Padangers, was very slight.
+
+The estimated population of the surveyed area for [[1937]], derived from the *[[Volkstelling 1930]]* with an annual increase of 1½ per cent, was 51,122: in the *onderafdeeling* Koetaradja 8,369 men, 8,882 women and 7,085 children; in Seulimeum 8,580 men, 9,748 women and 8,458 children. In the surveyed area the immigration factor played no role, "doordat er geen cultures van eenige beteekenis zijn èn doordat de trek van de Atjehsche bevolking van bedoeld ressort naar andere streken zeer gering is," so that increase was determined virtually exclusively by the birth surplus.
+
+The *Volkstelling 1930* supposed that in the *onderafdeelingen* Lho-Nga and Seulimeum a slight natality had long existed, connected with a slight fertility of the women through factors not certainly known — avitaminosis was suggested — and with great child mortality.
+
+### Agriculture
+
+Groot-Atjeh had no artificial irrigation of its *[[Sawah|sawah]]* fields and depended on rainfall, except in [[VI Moekims Lhong]] and [[Lam Teuba|Moekim Lam-Teuba]], where irrigation came from mountain streams that supplied water even in the dry season; in Lam-Teuba planting and harvest took place twice a year, in the rest of Groot-Atjeh only once. [[1936]] and [[1937]] were marked by long-continued drought, and in [[Montassik|V Moekims Montassie]] a *[[Walang sangit|walangsangit]]* plague brought an almost complete crop failure.
+
+### Eye disease
+
+The findings of the survey are set out at *[[Xerophthalmie]]*, *[[Keratomalacie]]*, *[[Blindheid in Groot-Atjeh]]*, *[[Pterygium]]* and *[[Trachoma in Groot-Atjeh]]*.
+
 ## See Also
 
 - [[XXII Moekims]]
@@ -48,6 +74,12 @@ Great importance Atjehsch internaat [[1922]] etc. Separation sufferers island [[
 - [[Lho Nga]]
 - [[Seulawaih Agam]]
 - [[Atjeh Tram]]
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
+- [[Xerophthalmie]]
+- [[Blindheid in Groot-Atjeh]]
+- [[Volkstelling 1930]]
 
 ## Account from *Land en Volk van Atjeh Vroeger en Nu*
 
@@ -61,3 +93,5 @@ Region around [[Koetaradja]]; one of the first areas where Dutch authority was e
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 85-101.
 
 *Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 26, 38, 39, 41, 156, 188, 190, 194.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.

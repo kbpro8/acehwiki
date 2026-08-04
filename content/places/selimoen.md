@@ -1,7 +1,7 @@
 ---
 title: "Selimoen"
-aliases: ["Selinoen", "Atjeh-rivier Selimoen", "Last Refuge of the Insurgents", "Selimoen-rivier", "Seulimeum", "the Selimoen river", "the kampong of Selimoen", "Selimoen kampong"]
-tags: [place, kampong, acehnese, aceh-war, atjeh, 19th-century, sagi-xxvi, village, groot-atjeh, river, geography, marechaussee]
+aliases: ["Selinoen", "Atjeh-rivier Selimoen", "Last Refuge of the Insurgents", "Selimoen-rivier", "Seulimeum", "the Selimoen river", "the kampong of Selimoen", "Selimoen kampong", "onderafdeeling Seulimeum"]
+tags: [place, kampong, acehnese, aceh-war, atjeh, 19th-century, sagi-xxvi, village, groot-atjeh, river, geography, marechaussee, medicine, public-health, 1937]
 ---
 
 **Selimoen** (also written Selimoen, Selinoen) was a kampong on the [[Aceh River|Atjeh-rivier]] in the interior of [[Acheh|Atjeh]], described as "the last refuge of the insurgents" in the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of [[13 August]] – [[15 August]] [[1879]], the final Dutch military operation of the first phase of the [[Aceh War|Atjeh-oorlog]]. The submission of [[Toekoe Moeda Daoed|Toekoe Moeda Daoed]] at Selimoen, and the flight of [[Panglima Polem|Panglima Polem]] and the [[Imam of Longbatta|Imam Longbatta]] to the upper lands of [[Pedir|Pedir]], closed the large-scale operations in Great Acheh; on [[5 September]] [[1879]] the active columns were dissolved. In [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *De onderwerping van Atjeh*, Selimoen is the operational culmination of the [[K. van der Heijden|Van der Heijden]] conquest — the village whose occupation closed the campaign that had opened in July [[1878]] with the [[XXII Moekims]] operation and that had continued in [[1879]] with the [[XXVI Moekims]] operation, and whose reduction produced the [[Day-order of 5 September 1879|dagorder]] of [[5 September]] [[1879]] declaring *geheel Groot-Atjeh ten onder gebragt* (the whole of Greater Atjeh subdued).
@@ -70,6 +70,14 @@ the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indi�
 
 By [[1910]] the corps had been redistributed to [[Blang Kedjeren]], [[Malaboeh|Meulaboh]], [[Takengeun|Takèngan]], [[Lam Meulo]] and [[Lho Soekon]].
 
+## In the eye survey of Groot-Atjeh ([[1937]])
+
+Seulimeum was one of the two *onderafdeelingen* of the *afdeeling* [[Groot-Atjeh]] covered by Dr. [[C. E. Gomperts]]'s [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)|eye survey of 1937]], its estimated population for [[1937]] being 26,786 — 8,580 men, 9,748 women and 8,458 children, the larger of the two subdivisions.
+
+It was one of only four places in Groot-Atjeh not populated exclusively by Atjehnese; and one of the districts where, Western influence having penetrated further and traffic being busier, Gomperts looked for — and did not find — the concentration of *conjunctivitis follicularis* that would have been expected had that condition been a form of [[Trachoma in Groot-Atjeh|trachoma]].
+
+The *[[Volkstelling 1930]]* had supposed that in the *onderafdeelingen* Seulimeum and [[Lho Nga|Lho-Nga]] a slight natality had long existed, connected with a slight fertility of the women through factors not certainly known — avitaminosis among this population group was suggested — and with great child mortality. In the xerophthalmia data Seulimeum appears among the valley *moekims* whose rice harvest in [[1936]]–[[1937]] was less favourable, yet whose *[[Xerophthalmie|xerophthalmie]]* frequency was practically equal to that of [[Lam Teuba|Lam-Teuba]] with its rice surplus.
+
 ## See Also
 
 - [[K. van der Heyden]]
@@ -126,6 +134,13 @@ By [[1910]] the corps had been redistributed to [[Blang Kedjeren]], [[Malaboeh|M
 - [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
 - [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
 - [[Divisie (Maréchaussée)]]
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Trachoma in Groot-Atjeh]]
+- [[Volkstelling 1930]]
+- [[Xerophthalmie]]
+- [[Lam Teuba]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
 
 ## Sources
 
@@ -140,3 +155,5 @@ By [[1910]] the corps had been redistributed to [[Blang Kedjeren]], [[Malaboeh|M
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry (De Bruyne 1912; Van Heutsz 1893; Hooijer 1897) with the eyewitness account given by [[W. Cool]] and [[G. B. Hooijer]] in *Eene schoone bladzijde uit Atjeh's geschiedenis* ([[1889]]). Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.

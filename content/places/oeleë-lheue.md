@@ -1,7 +1,7 @@
 ---
 title: "Oeleë Lheuë"
-aliases: ["Uleë Lheue", "Olehleh", "Ulee Lheue", "Oelèë-Lheue", "Olee Leeue", "Oelèè Lheuë"]
-tags: [place, coast, harbour, aceh, aceh-war, koetaradja, 19th-century, 20th-century, port, koeta-radja, "coastal", "achehnese", "colonial"]
+aliases: ["Uleë Lheue", "Olehleh", "Ulee Lheue", "Oelèë-Lheue", "Olee Leeue", "Oelèè Lheuë", "Oelee-Lheuë", "Oeloe-Lheuë", "Delee-Lheuë"]
+tags: [place, coast, harbour, aceh, aceh-war, koetaradja, 19th-century, 20th-century, port, koeta-radja, coastal, achehnese, colonial, medicine, public-health, 1937, groot-atjeh]
 description: "The harbour of Koetaradja, where the kapal poetih arrived with the half-stok flag when an officer had fallen, and where the bodies of officers killed on the Westkust were brought by boat."
 ---
 
@@ -35,6 +35,14 @@ In [[1875]] the commandant entrusted equal jurisdiction over all direct subjects
 
 The port's import trade was vividly alive: in [[1890]] some three million guilders' worth of imports passed Oelèë Lheue; in that year 51 steamships called (39 departing), and from outside the Netherlands Indies there arrived 19 sailing and 135 steam vessels (20 sailing and 143 steam vessels departing). In the slump year [[1896]] imports fell back; the principal import articles over 1896–1898 were foodstuffs (f 411,295 → f 380,713), rice (5,116,980 → 4,448,070 kg), petroleum (673,848 → 1,473,588 litres), tobacco (c. 75,000 kg), flour, dried fish and manufactures (f 109,060 → f 162,175; the latter figure rising to f 4,889,522 by [[1904]]). In [[1901]] the [[Nederlandsche Handel-Maatschappij]] opened a sub-agency here ([[20 October]]), removed to Koeta Radja in [[1904]]. The first girls' school of the province opened at Oelèë Lheue in [[1910]]. Under the [[Inauguration of the Sabang mail service (1903)|Sabang mail service]] the post office was enlarged (1903–1904), the [[Maatschappij Zeehaven en Kolenstation Sabang|Atjeh Transport Maatschappij]] maintained a regular service with Sabang, and a government land telegraph-line connected Oelèë Lheue with [[Medan]] in [[1912]]. By [[1922]], however, the import and export of Oelèë Lheue was gradually diminishing, the trade having shifted to [[Langsar]], [[Lho Seumawè]] and Sabang, as Director [[N. van Zalinge]] reported.
 
+## In the eye survey of Groot-Atjeh ([[1937]])
+
+Oelee-Lheuë was one of the places examined in Dr. [[C. E. Gomperts]]'s [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)|eye survey of 1937]], and the district that furnished the key comparison on [[Trachoma in Groot-Atjeh|trachoma]].
+
+It was one of only four places in [[Groot-Atjeh]] not populated exclusively by Atjehnese — with [[Koeta Radja|Koetaradja]], [[Lho Nga|Lho-Nga]] and [[Seulimeum]] — though the admixture with Malays, Padangers and other indigenous races was "zeer gering." Because trachoma occurred in typical form among those other races, Gomperts reasoned that if the *conjunctivitis follicularis* he was finding belonged to trachoma, it should be concentrated in such places. At Oelee-Lheuë 78 cases were found among 1,325 children examined — 6 per cent — but in the exclusively Atjehnese [[Montassik|Moekim Montassie]] 75 among 1,795, rather more than 4 per cent: a difference too small to support the theory.
+
+Oelee-Lheuë was also named among the districts where Western influence had penetrated further, giving a measure of venereal infection and hence of its small share among the causes of [[Blindheid in Groot-Atjeh|blindness]].
+
 ## See Also
 
 - [[Koetaradja]]
@@ -50,6 +58,12 @@ The port's import trade was vividly alive: in [[1890]] some three million guilde
 - [[Sabang]]
 - [[Scheepvaartregeling|Scheepvaartregeling in Atjeh]]
 - [[Government of Atjeh en Onderhoorigheden]]
+- [[Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937]]
+- [[C. E. Gomperts]]
+- [[Trachoma in Groot-Atjeh]]
+- [[Blindheid in Groot-Atjeh]]
+- [[Montassik]]
+- [[Oogheelkundig kampongonderzoek in Groot-Atjeh (Maart-December 1937)]]
 
 ## Source
 
@@ -58,3 +72,5 @@ The port's import trade was vividly alive: in [[1890]] some three million guilde
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XVI.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 31–34, 41, 47–48, 53, 60, 66–68, 76, 87, 101, 109, 121, 127, 133, 149, 155, 178–179 and Errata.
+
+*Oriënteerend oogheelkundig onderzoek bij de Atjehsche bevolking van Groot-Atjeh gedurende 1937* (“Orienting Ophthalmological Survey among the Atjehnese Population of Groot-Atjeh during 1937”), by Dr. [[C. E. Gomperts]], offprint from the *[[Geneeskundig Tijdschrift voor Nederlandsch-Indië]]*, Afl. 19, Deel 80 ([[1940]]), pp. 1191-1238 (Batavia-Centrum: G. Kolff & Co.). Received by the editors [[25 October]] [[1939]]. Offprint DLP-157, Bibliotheek KITLV.
