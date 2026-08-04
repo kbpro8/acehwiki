@@ -96,6 +96,7 @@ In [[1917]] a leper at Lho' Soekon murdered the *officier van gezondheid* [[J. P
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 9 (Situation Before Worldwar II).
 *De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 9.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 164, 196, 205, 208, 209, 329, 331, 341.
 ## Maréchaussée station ([[1910]])
 
 The [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* records the stations assigned to the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]* in [[1910]]: 1st Division at [[Blang Kedjeren]]; 2nd Division at [[Malaboeh|Meulaboh]]; 3rd Division at [[Takengeun|Takèngan]]; 4th Division at [[Lam Meulo]]; and 5th Division at [[Lho Soekon]], "zooals zij ook thans nog gelegerd is" — where it was still quartered at the time of the [[1930]] jubilee. Lho' Soekon was the station of the 5th Division.
@@ -204,6 +205,12 @@ In [[Lho Soekon]] big agricultural industry represented by one enterprise in Pir
 - [[Divisie (Maréchaussée)]]
 - [[Teukoe Tjhi Bentara]]
 - [[Atjeh Tram]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+[[onderafdeeling|Onderafdeeling]] in northern Aceh; site of [[Gajo-land (Gayo Land)|Gayo]] dances (photo caption) and of a large vezel-onderneming (fiber estate) — the [[N.V. Cultuur Maatschappij Lho' Soekon]]. Has extensive [[Blang|blang]] vlakten potentially suitable for rice after drainage. Rice harvest below average in [[1937]]Onderafdelingshoofdplaats in the[[afdeeling]] [[Noordkust van Atjeh]]. Site of the [[landschap]] [[Keureutòë]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 164, 196, 205, 208, 209, 329, 331, 341.*
 
 ## Source
 

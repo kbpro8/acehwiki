@@ -9,5 +9,13 @@ tags: [place, village, peusangan, noordkust-van-atjeh, achehnese, irrigation-fai
 ## See Also
 - [[Verkenningen in Atjeh (1923)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Site of an important irrigation work and drainage canal (~20 years before writing) that greatly improved the [[Peusangan River|Peusangan river]] flooding situation in the coast strook.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 77.*
+
 ## Source
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 77.

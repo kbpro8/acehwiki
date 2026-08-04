@@ -272,6 +272,12 @@ Similarly [[Tengkoe Abdoel Hamid Orangkaja Sri Maharadja Mangkoe Boemi]] mbahara
 - [[Lho Seumawe]]
 - [[Uleebalang]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Three-article political contract between the Dutch government and the zelfbestuurders of self-governing landschappen, replacing the longer [[souvereiniteitsverklaring]]. The Atjeh version, the '[[korte Atjeh-verklaring]]' ([[1898]]), designed by [[Generaal J. B. van Heutsz|Van Heutsz]] and [[C. Snouck Hurgronje|Snouck Hurgronje]], became the '[[Uniform model korte verklaring|uniform model korte verklaring]]' for most of the rest of [[Nederlandsch-Indië]], with minor local modifications.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 332, 338.*
+
 ## Source
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 44–45, 122.
@@ -283,3 +289,5 @@ Similarly [[Tengkoe Abdoel Hamid Orangkaja Sri Maharadja Mangkoe Boemi]] mbahara
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter V, pp. 34–35.
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 80–81.
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 39-40, 56.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 332, 338.

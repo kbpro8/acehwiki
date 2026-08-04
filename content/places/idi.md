@@ -106,6 +106,7 @@ The attack of [[11 June]] [[1890]] on the enemy positions on the left bank of th
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 10, 11, 15, 21, 25, 31, 35, 39. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 *De Geschiedenis van het Nederlandsche Korps Mariniers van 1665-1945*, by C. J. O. Dorren, 1948, pp. 112–113 (page 16 of the OCR source).
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 25, 88, 184, 194, 291, 295, 323, 329, 331.
 ## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
 
 **Idi** was the trading harbour of the East Coast of [[Acheh|Atjeh]] and one of the first seats of an assistant-resident ([[1878]]), which under a well-disposed landscape chief attained "a state more favourable than that in any of the other dependencies", and which under the [[Scheepvaartregeling|shipping regulation]] of [[1892]] was brought to greater bloom as the only East Coast harbour open to general trade.
@@ -241,6 +242,12 @@ Mention granted permits wood (*zeehout*), mining (petroleum) and agriculture sho
 - [[Peureula]]
 - [[Koeala Langsa]]
 - [[Atjeh Tram]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Town more attractive than [[Lho'Soekon]]; small place with only the controleurs-huis, [[zelfbestuurder]]'s house, [[Pasanggrahan|pasanggrahan]] and a Chinese temple on the [[pasar]]Most easterly[[onderafdeeling]] of Aceh; opened for landbouw-concessies. Upper reaches of rivers fall within this [[onderafdeeling]].[[onderafdeeling|Onderafdeeling]] on [[Atjeh's Oostkust (East Coast of Aceh)|Oostkust]]; rubber cultivation; tidal forest exploitation (roundwood poles, firewood, charcoal, bakau bark, tengar bark).[[Assistent-Resident]] from [[1878]]. Site of the BPM landing field constructed in [[1934]] in collaboration with the [[Zelfbestuur|zelfbestuur]] of [[Peudawa]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 25, 88, 184, 194, 291, 295, 323, 329, 331.*
 
 ## Source
 

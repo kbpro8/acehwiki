@@ -58,6 +58,12 @@ Jongejans's book supplied [[Maurice Henri du Croo|du Croo]] with the figures for
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Author of the book. Arrived in Aceh in [[1930]] as assistant-resident, stayed (with brief interlude in [[Menado]]) until time of writing. Wrote the book at request of [[Hollandia Drukkerij N.V. Baarn]]Author of the book. He is a colonial administrator writing an ethnographic/administrative description of Aceh. First-person voice throughout (e.g., 'moge ik niet nalaten te verklaren').[[Land en volk van Atjeh vroeger en nu (Jongejans, 1939)|Land en Volk van Atjeh Vroeger en Nu]]'. Conducted the [[1933]] [[Atjeh-moord|atjeh-moord]] investigation as afdeelingschef. Had earlier service in [[Borneo (Z.M. stoomschip)|Borneo]] (mentions seeing insane in [[Rattan (Aceh)|rotan]] bindings).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 1, 5, 9, 15, 16, 17, 20, 21, 141, 178, 197, 383, 386.*
+
 ## Source
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Foreword, Chapter I, and footnotes.
@@ -65,3 +71,5 @@ Jongejans's book supplied [[Maurice Henri du Croo|du Croo]] with the figures for
 *Literatuur-Overzicht over het jaar 1939 van de Taal-, Land- en Volkenkunde en Geschiedenis van Nederlandsch-Indië*, door H. van Meurs ('s-Gravenhage: M. Nijhoff, 1940), Hoofdstuk III (Sumatra en naburig gebied), Nos. 571, 571a, 572. Citing: J. J. Jongejans, *Land en volk van Atjeh vroeger en nu. Met krt. en ills.* (Baarn, 1939); and J. J. Jongejans, "Taboet- of Hasji-Hosseinfeest. Met ills.," *Onze Aarde* (1939), p. 326 e.v.; and J. J. Jongejans, "Het heiligdom te Oelakan. Met ills.," *Onze Aarde* (1939), p. 305 e.v.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XIII, XVII.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 1, 5, 9, 15, 16, 17, 20, 21, 141, 178, 197, 383, 386.

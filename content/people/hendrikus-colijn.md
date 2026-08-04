@@ -194,6 +194,12 @@ He appears again in the portrait notice of [[W. V. Rhemrev]]: after Rhemrev had 
 - [[C. A. Snell]]
 - [[W. V. Rhemrev]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Wrote the voorwoord (foreword) to the book. As [[Dr. H. Colijn|Luitenant Colijn]], had a house at [[Tapa Toean]] during action time with view of the bay. As '[[Dr. H. Colijn|kapitein Colijn]]' received the submission of [[Teukoe Panglima Polem]] in May [[1904]]Wrote foreword to the book (not directly referenced in pp. 211-280 but part of book context).[[Resident Jongejans|Jongejans]]' book.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 5, 9, 11, 55, 57.*
+
 ## Sources
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
@@ -217,3 +223,5 @@ He appears again in the portrait notice of [[W. V. Rhemrev]]: after Rhemrev had 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 5, 9, 11, 55, 57.

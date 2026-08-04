@@ -164,6 +164,12 @@ Van Daalen crossed the passes of the [[Boekit Barisan|Barisan]] ranges with two 
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Region east of [[Gajo-land (Gayo Land)|Gajoland]]; first (heathen) inhabitants said to have come from [[Bataklanden]] near [[Toba-meer]]. First settlement at [[Batoe Mboelan]] (white stone). Later settlers from Rau ([[Menangkabau]]) under [[Radja Dewa]] brought [[Islam]]. Has a different, more elegant physical type and friendlier nature than [[Gajo-land (Gayo Land)|Gayo]]. Since [[1934]] part of [[afdeeling]] [[Oostkust van Atjeh]]Long elongated valley in southern Aceh; population is Muslim. Coffee (robusta) cultivation started well there but coffee berry borer destroyed the industry. Coffee cultivation now largely in hands of a Japanese concern.[[onderafdeeling|Onderafdeeling]] in interior; isolated, accessible only by 217 km auto road to [[Medan]]; benefits from [[S.O.K.]]timber demand.[[onderafdeeling|Onderafdeeling]] in the [[afdeeling]] [[Oostkust van Atjeh]]. Populated mainly by Batak and [[Menangkabau]] colonists. [[Gouverneur Van Daalen|Van Daalen]]'s colonne broke [[Bantah (Acehnese term)|resistance]] here in [[1904]]. Divided in [[1912]] into [[marga]]'s under [[penghoeloe si'mpat]]. Briefly under civiel- en militair bestuur during the [[1925]]-[[1927]] troubles.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 79, 84, 97, 108, 142, 155, 184, 195, 203, 295, 305, 327, 329, 337, 347.*
+
 ## Source
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 2–5, 8, 22–24, 33, 36, 38, 114–125.
@@ -177,3 +183,5 @@ Van Daalen crossed the passes of the [[Boekit Barisan|Barisan]] ranges with two 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, XI, XII, XIII, XVII.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 79, 84, 97, 108, 142, 155, 184, 195, 203, 295, 305, 327, 329, 337, 347.

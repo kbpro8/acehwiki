@@ -185,6 +185,7 @@ Pidië was, after [[Groot Atjeh]], the most important theatre of the Atjeh war: 
 *Atjèh*, by J. Kreemer, vol. II ([[1923]]), pp. 578 vg.
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 9 (Table 4: Oil production in 1940 and 1941, North Sumatra fields), p. 9 (Lho Sukon deepest exploratory drilling).
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 26, 64, 94, 105, 156, 188, 190.
 ## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
 
 **Pidië** was the great rice federation of Atjeh's North Coast, watered by the Pidië river on whose watershed with the [[Atjeh River]] valley the mountain tramway was later projected, and the region whose thousands of smallholders — "Pidireezen" — swelled the East Coast pepper gardens in [[1891]] and whose tract, closed to the coasting trade, was relieved by the [[Sigli]] licence system of July [[1894]].
@@ -442,6 +443,12 @@ Pidie nice land seems priciest department area from which still much to make imp
 - [[Atjeh Tram]]
 - [[Pepper cultivation and trade in Atjeh]]
 - [[Agriculture in Atjeh]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Neighboring kingdom that, before [[1500]], successfully conquered Atjeh and made it a vassal state. From this position [[Sultan Ali Moegajat Sjah]], the second underking, broke away and founded [[Groot-Atjeh]]. Also the realm of [[Teukoe Oemar Keumangan]] ('crowned king of [[Pidië]]Region of Aceh; known for fatterigheid (smartness) and draaierij (deviousness). Population data missing for[[1920]]. Sits on [[Seunagan|west coast]]of Strait.[[onderafdeeling]] on the [[North Coast|north coast]], known for manufacture of genuine Acehnese [[Koepiah der Atjehers|koepiah]] caps; fertile coastal plain formed by alluvial deposit. Capital at [[Sigli]]Region/plains of[[Pidië]] on [[Noordkust]]; separated from [[Groot-Atjeh]] by tertiary hill land (the '[[Attescheiding|attescheiding]]'); historic pepper area; cattle grazing lands.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 26, 64, 94, 105, 156, 188, 190.*
 
 ## Source
 

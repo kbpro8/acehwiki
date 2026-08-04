@@ -122,6 +122,7 @@ After the [[Achehnese War|Dutch conquest]] of the sultanate, Kuta Raja (in Dutch
 *De verovering van Atjeh's groote Missigit* by J.F.D. Bruinsma, Sneek, 1889.
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 97.
 ## See Also
 
 - [[Aceh Sultanate]]
@@ -186,6 +187,12 @@ After the [[Achehnese War|Dutch conquest]] of the sultanate, Kuta Raja (in Dutch
 - [[Lueng Bata]]
 - [[Pochut Muhamat]]
 - [[Poteu Jeumaloy]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+[[Sultan of Aceh|The Sultan]]'s palace/inner court at [[Koeta-Radja|Koeta Radja]]; contact with [[Dalam|the Dalam]] was not very close for the Gajos, even though they paid war contributions when messengers came with [[Sultan of Aceh|the Sultan]]'s seal. [[Radja Kemala]] of [[De Alaslanden|Alaslanden]] visited [[Sultan of Aceh|the Sultan]] in [[Dalam|the Dalam]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 97.*
 
 ## Source
 

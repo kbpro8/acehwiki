@@ -29,7 +29,7 @@ The post was, with [[Pakan Badak]] and [[Boekit Seboen]], the western anchor of 
 ## See Also
 
 - [[Night attack on Lampagar (2-3 May 1876)]]
-- [[Hoynck van Papendrecht]]
+- [[Hoynck van Papendrecht (Kapitein)|Hoynck van Papendrecht]]
 - [[Schnelle]]
 - [[Panglima Moeda of Piëng]]
 - [[Hadji Soliman of Lampagar]]

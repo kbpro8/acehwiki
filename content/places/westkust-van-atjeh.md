@@ -97,6 +97,7 @@ In the [[Administrative Division of Atjeh (1908)|administrative division of 1908
 *Verspreide Geschriften*, by G. A. J. Wilken, vol. II, p. 488.
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), pp. 49–56 (coal in Sumatra, West-Atjeh localities), pp. 121–122 (Basin of Meulaboh, M.A.E.M. operation), pp. 205–211 (iron-ore localities of the Westkust), p. 223 (Westkust mercury).
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.
 ## See Also
 
 - [[Meulaboh]]
@@ -172,6 +173,12 @@ In the [[Administrative Division of Atjeh (1908)|administrative division of 1908
 - [[1885]]
 - [[1922]]
 - [[1946]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+[[afdeeling|Afdeeling]] of [[Seunagan|West Coast]] of Aceh; includes [[Malaboeh|Meulaboh]], [[Tapa'Toean]], [[Singkel]], [[Simeuloeë]]. Sole producer of patchouly ([[Nilam|nilam]]); [[karbouw]] country due to marshland; pepper and gold historic area. Cattle: 4,745 runderen / 32,130 karbouwen.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.*
 
 ## Source
 

@@ -29,6 +29,14 @@ The persistence of resistance at the [[moekim]] level—particularly in the [[XX
 - [[Gampong]]
 - [[Groot-Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Congregation of at least 40 male free adult Muslims required for a valid [[Friday service (Jum'at)|Friday service]]. Pious persons from neighboring gampongs united into such circles, built a centrally-located [[meuseugit]], and eventually became territorial units (moekims).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 334.*
+
 ## Source
 
 Somer, Dr. J. M. *Het Atjeh-probleem van 1890-1900* (Overprint uit *Journal / Organ van de Netherlands-Indies Officers Association*, [1935], pp. 4-7); *Het einde van den Atjeh Oorlog* (Overprintken uit de *Evening Post* van 25, 26 en 27 Augustus 1903, pp. 3-6); Kreemer, J. J. *Atjèh* (Tweede Deel, 1923); Damste, H. T. "Atjeh-historie," *Koloniaal Tijdschrift* 1916.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 334.

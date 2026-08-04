@@ -248,6 +248,12 @@ The same account shows the war's preacher at the meetings of Groot-Atjeh: the Ha
 - [[Senelop]]
 - [[Hoengtjala]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Acehnese term for [[Heilige Oorlog|holy war]]; proclaimed in [[July]] [[1896]] against the Dutch. Oelamas preached itinerantly, whipped up the population, and collected income portions from co-religionists for the war chest. The [[Gajo-land (Gayo Land)|Gajo]]'s supported the war party by contributing rice for the [[Prang sabi|prang sabil]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 357, 371, 402.*
+
 ## Sources
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Glossary, Chapter I § 1, Chapter III § 3, Chapter VII § 2, Chapter IX.
@@ -268,3 +274,5 @@ The same account shows the war's preacher at the meetings of Groot-Atjeh: the Ha
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 32, 36, 48, 53.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 357, 371, 402.

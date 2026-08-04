@@ -114,6 +114,7 @@ It was to Lho' Seumawè that the woman found wandering near the raided *ladangs*
 ## Sources
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946), pp. 65-67.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 58.
 ## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
 
 **Lho Seumawè** (modern Lhokseumawe) was the deep harbour of the North Coast of [[Acheh|Atjeh]] which in the last years of the old order served as sea-outlet for the smuggled trade of the closed [[Pidie|Pidië]] tract, and which under Dutch rule developed into a garrison and commercial town — giving its name to the petroleum establishments of [[1899]], to a credit bank of [[1913]], and to the [[Handelsvereeniging Amsterdam|H.V.A.]]'s ill-fated estate [[Boeloe Belang Ara]] in its neighbourhood.
@@ -225,6 +226,12 @@ End westwards narrow bumpy road enterprise [[Boeloeh Blang Ara]] which [[Handels
 - [[Peureula]]
 - [[Blang Me]]
 - [[Teungkoe Abdoel Hamid Orangkaja Sri Maharadja Mangkoe Boemi]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Town on [[Noordkust]] that with [[Sigli]] shares the doubtful honour of being 'the eel of Atjeh'.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 58.*
 
 ## Source
 

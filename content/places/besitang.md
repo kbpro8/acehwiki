@@ -46,8 +46,16 @@ At Besitang, as Roest records the state of affairs at the end of [[1915]], the t
 - [[Telok Taboeban]]
 - [[Verkenningen in Atjeh (1923)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+End point of the Atjeh-Staatsspoor on the [[Atjeh's Oostkust (East Coast of Aceh)|Oostkust]] van Sumatra side. Connection with the [[Deli-Spoorweg Mij.]] completed in [[1919]], greatly increasing the economic importance of the military line.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 286, 287, 292.*
+
 ## Sources
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 69–72 (section "De Atjeh-tram").
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 286, 287, 292.

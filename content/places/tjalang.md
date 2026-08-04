@@ -104,6 +104,12 @@ Tjalang's significance in the 1930 compilation rests on its being the originatin
 - [[Zelfbestuur]]
 - [[Zelfbestuursverordeningen Atjeh en Onderhoorigheden]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Locality on the [[Seunagan|west coast]]of Aceh where European coconut (klapper) enterprises were first established as rust en orde (peace and order) progressed.[[onderafdeeling|Onderafdeeling]] in the [[afdeeling]] [[Westkust van Atjeh]]; direct bestuurd gebied.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 50, 51, 196, 331, 336.*
+
 ## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 11, 15–16, 25, 29–30, 38, 56–59, 126, 216–217.
@@ -113,3 +119,5 @@ Tjalang's significance in the 1930 compilation rests on its being the originatin
 *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesten van het Departement van Binnenlandsch Bestuur*, Weltevreden: Landsdrukkerij, 1930, esp. Reg. 13 (p. 83) and comparative tables passim. OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 50, 51, 196, 331, 336.

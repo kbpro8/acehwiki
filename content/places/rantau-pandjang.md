@@ -24,9 +24,17 @@ By the early [[1920s]] Rantau Pandjang had become the *oliestad* (oil city) of t
 - [[J. A. Kruyt]]
 - [[1875]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+BPM oil terrain ~15 km inland from [[Peureula|keudé Peureula]]; formerly called [[Peureula|Pèrlak]]. Oil piped to [[Pangkalan Brandan]] ([[S.O.K.]]).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 85, 88.*
+
 ## Source
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, [[1923]]), pp. 162–163.
 
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma (Utrecht: Gebrs. Cohen, [[1925]]), pp. 33–35.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 85, 88.

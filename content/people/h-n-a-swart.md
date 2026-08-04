@@ -364,6 +364,7 @@ The simple title *Bapa* — father — became, in du Croo's judgement, the highe
 ## Sources
 *Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, p. 2.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 42.
 ## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
 
 **H. N. A. Swart** was a Dutch officer and administrator who as Civil and Military Governor of [[Acheh|Atjeh and Onderhoorigheden]] (1908–1918) completed the [[Pacification of Atjeh|pacification]] of the country, and who later, as old Vice-President of the [[Council of the Indies]], furnished the foreword to [[J. Langhout|Joh. Langhout]]'s *[[Vijftig jaren economische staatkunde in Atjeh]]* ([[1923]]). Under his administration, in the phrase of the writer [[J. Kreemer]], "the swords were forged into ploughshares": the last organized resistance of the [[Acheh War]] was extinguished by [[1913]], and a vast programme of schools, credit institutions, waterworks and roads followed.
@@ -520,6 +521,12 @@ Broersma considered the departmental support of the Department of Colonies for t
 - [[C. A. Snell]]
 - [[J. Langhout]]
 - [[Atjeh-tram]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Governor [[1908]]-[[1918]] under whose long administration the transition from repressive (repressief) military action to preventive (preventief) military action took place, alongside the pacification work initiated by [[Gouverneur Van Daalen|Van Daalen]]. Under him: administration regulated, judiciary organized, public education introduced, support given to repair war damages, regional chiefs (landshoofden) restored to old position.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 42.*
 
 ## Source
 

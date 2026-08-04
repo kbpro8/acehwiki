@@ -97,6 +97,12 @@ Aan de [[Noordkust van Atjeh|Noordkust]] bestond voor de rijst een goede en gema
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Adjacent Dutch colony with extremely fertile cultuurgebied. Aceh's east-coast cultures were modeled after and compared to this. Imports rice; market for Aceh rice, coffee, etc. Its rubber/[[Palm Oil (Aceh)|palm oil]]industries provided the model.[[gewest]]; main market for Aceh cattle (60-85% of [[Medan]] abattoir supply from Aceh), rice, [[Kapok Fiber|kapok]], potatoes, etc.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 177, 189, 190, 192, 194, 198, 201, 208, 210.*
+
 ## Source
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
@@ -106,3 +112,5 @@ Aan de [[Noordkust van Atjeh|Noordkust]] bestond voor de rijst een goede en gema
 *DLP-84-Atjeh.pdf* (Part 5 of 5), p. 16. Centrale Boekerij Kon. Inst. v.d. Tropen, Amsterdam.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XIII.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 177, 189, 190, 192, 194, 198, 201, 208, 210.

@@ -401,6 +401,7 @@ translation from the Dutch).
 *Coen, Koopman van Heeren Zeventien. Geschiedenis van den Hollandshen Handel in Indië (1598-1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. De Boer Jr., 1948), Hoofdstuk V "Voorgangers, Hollanders en mededingers tot 1614. Atjeh. Djohor. Malaka." (p. 113).
 *De Buitenbezittingen, Deel II, Aflevering 1: Sumatra, Algemeene Hoofdstukken*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), Hoofdstuk I (Oro-hydrographisch), pp. 12, 26.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 23, 24, 25, 47, 186, 281, 282, 283, 284, 295, 311, 329, 334, 365, 367, 368.
 ## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
 
 **Sabang** was the free harbour (*vrijhaven*) on the northern bay of the island [[Poelò We]], north of [[Acheh|Atjeh]] at the entrance of the Strait of Malakka, developed from a small government coal depot ([[1884]]) into the ocean harbour and coaling station of the [[Maatschappij Zeehaven en Kolenstation Sabang]], and from [[29 September]] [[1903]] a fixed call of the mail steamers of the [[Stoomvaart Maatschappij Nederland|Stoomvaart Maatschappij "Nederland"]] — "the first harbour-place of Netherlands India" for ships coming through the [[Suez Canal]] or around the [[Cape of Good Hope|Cape]].
@@ -538,6 +539,12 @@ The book's traffic and turnover statistics (see [[Maatschappij Zeehaven en Kolen
 - [[G. C. Quarles van Ufford]]
 - [[Inauguration of the Sabang mail service (1903)]]
 - [[Stoomvaart Maatschappij Nederland]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Free port at the entry point of the [[Dutch East Indies]]. Harbor establishment, coal steigers, hangars, dock ([[5000]] ton), all of the [[N.V. Zeehaven en Kolenstation Sabang|Sabang Maatschappij]]. Hotel 'de Koepel' ([[De Koepel (Soosje)|the Soosje]]), Catholic and Protestant churches, open-air swimming pool, old kazematten (casemates). Smuggling center [[1930]]-[[1934]]. Airfield unused except 6 Oct [[1934]]. Has a psychiatric hospital (krankzinnigengesticht) with ~[[1300]]patients.[[Poelò We|Pulau Weh]]at the foot of the island's volcano; free port of Aceh.[[Poelau Weh]]; coal station and repair yard of the [[N.V. Zeehaven en Kolenstation Sabang ('Sabang Mij.')]]; used for direct shipping of [[Copra|copra]] to [[Europe]]Port and town on the island of[[Poelau Weh]] with a natural deep-water bay. Originally an operation base, coal station, and evacuation site for wounded/sick. Opened as a free port ([[Vrijhaven|vrijhaven]]) on [[4 April]] [[1896]]. Site of the N.V. '[[Vrijhaven]] en [[Kolenstation]] [[Sabang]]' with electric coal transporters, dry docks ([[3000]]-ton floating dock and [[5000]]-ton sectional dock), workshops, ice factory, hospital, hotel, and BPM fuel tanks. After [[Belawan|Belawan Deli]] ocean harbor opened, [[Sabang]] lost transshipment trade. Also the location of a [[onderafdeeling]] consisting of the islands [[Poelau Weh]] and [[Rondo]]Island/port; site of the krankzinnigengesticht (mental asylum). Some patients walk freely in[[Sabang]] itself, attend voetbalwedstrijden and bioscoopvertooningen. Mentioned as on the uiterste punt (extreme point) of Sumatra.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 23, 24, 25, 47, 186, 281, 282, 283, 284, 295, 311, 329, 334, 365, 367, 368.*
 
 ## Source
 

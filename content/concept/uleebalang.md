@@ -49,8 +49,16 @@ Understanding this term is necessary for reading the political relationships rec
 - [[Jan van Swieten]]
 - [[Snouck Hurgronje]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Acehnese territorial nobility; per [[Adat|adat]] owns wild karbouwen herds in their region; consulted by Dutch for cooperation in trade matters; their old jewelry and ceremonial weapons testify to former gold/silver smithing heights.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.*
+
 ## Source
 
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma (Utrecht: Gebrs. Cohen, [[1925]]), pp. 35–40, 45–52, 60–62.
 
 *De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 298–300.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.

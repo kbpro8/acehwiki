@@ -44,6 +44,14 @@ That the enterprise remained financially strong despite the world war it owed, p
 - [[Nederlandsche Handel-Maatschappij]]
 - [[Inauguration of the Sabang mail service (1903)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Owns the havenétablissement (harbor establishment) at [[Sabang]]: kolensteigers (coal steigers), hangars, dok ([[5000]] ton dock). Also owns the [[Alberti's]] shops.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 23, 24.*
+
 ## Source
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 85, 141–153 (chapter "Sabang"), statistics p. 153, pp. 178–179, 182.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 23, 24.

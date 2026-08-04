@@ -107,6 +107,12 @@ Frederik de Houtman and his fellow-sufferers owed their freedom to the favourabl
 - [[Houtman brothers' visit to Atjeh (1599)|De Houtman brothers' voyage to Atjeh (1599-1600)]]
 - [[Atjèh embassy to Prince Maurits (1601)|Dutch-Atjehnese alliance and embassy to Prince Maurice (1601-1602)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Brother of Cornelis; together made the discovery voyage to the East. Received poorly in Atjeh in [[1599]], with one of the brothers killed and the other imprisoned.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 30.*
+
 ## Source
 
 *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapters XXIII, XXXII ("Het Kasteel van Verre. De brief op varkensvel in Atjeh. Bali en Holland één! Van Neck's reis in 1600"; "Atjehers in het kamp van Maurits. De zeeslag bij Bantam"), pp. 81, 114–118 of the numbered-letter sequence. Cf. *Atlas N.I.* No. 46 en 47, bl. 16, on the *Spraeck- ende woord-boeck*.
@@ -114,3 +120,5 @@ Frederik de Houtman and his fellow-sufferers owed their freedom to the favourabl
 *De Koloniën*, by Dr. F. W. Stapel, in *Geschiedkundige Atlas van Nederland* ('s-Gravenhage: Martinus Nijhoff, 1931), kaart 19, blz. 27–28 (tekst bij blad 1: *De eerste reizen der Nederlanders — Eenige der volgende reizen naar O. Indië, a. C. en F. de Houtman en Lefort (Atjeh) 1598/9*).
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 10–13.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 30.

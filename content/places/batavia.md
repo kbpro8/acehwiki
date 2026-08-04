@@ -89,6 +89,7 @@ Following the retreat of April [[1873]], Batavia established the [[Bureau for Wa
 *20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, pp. 22‑24.
 *20260707_232246_DLP-54-Een_16de_eeuwse_Maleise_vertaling_van_de_Burda_van_al_Bu_s_i_ri_OCR.txt*, p. 22.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 360, 394, 404.
 ## See Also
 
 - [[Aceh]]
@@ -143,6 +144,12 @@ Following the retreat of April [[1873]], Batavia established the [[Bureau for Wa
 - [[Leiden]]
 - [[Cambridge]]
 - [[Oxford]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Place of exile of the [[Pretendent-sultan|Pretendent-Sultan]] ([[1907]]). [[10 May]] [[1873]] the expeditionary troops were disembarked here. [[Pretendent-sultan|Pretendent-Sultan]] died in [[Batavia]] 6 [[April]] 'j.l.' (last year).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 360, 394, 404.*
 
 ## Source
 

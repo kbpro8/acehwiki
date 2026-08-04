@@ -19,6 +19,14 @@ At the embarkation of [[26 July]] [[1879]], the Z. M. Stoomschip Borneo received
 - [[Embarkation at Oleh-leh and landing at Lampanas (26–27 July 1879)]]
 - [[1879]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Where the author personally saw a woman who had committed adultery being built into a cage under a house in the middle of a village, to be publicly shamed and spat upon.[[Rattan (Aceh)|rotan]] there.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 121, 367.*
+
 ## Source
 
 *Eene schoone bladzijde uit Atjeh's geschiedenis*, door W. Cool en G. B. Hooijer ('s-Gravenhage: Martinus Nijhoff, 1889), pp. 7-9. OCR-filename: `20260720_115822_DLP-135-Eene_schoone_bladzijde_uit_Atjeh_s_geschiedenis_Nemotron_OCR_v2_OCR.txt`.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 121, 367.

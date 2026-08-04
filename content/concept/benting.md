@@ -128,6 +128,12 @@ The Dutch temporary posts followed a recurring pattern, described at [[Tjot Rang
 - [[Anagaloeng]]
 - [[Kroeng Gloempang]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Old fort that forms the historical core of towns like [[Sigli]] and [[Lho'Seumawé]], around which the town grew haphazardly.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 89.*
+
 ## Sources
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 14–17, 24–29, 57, 67, 75–80, 95, 117, 162, 183–186, 191–198, 200–206, 228, 238, 248, 317.
@@ -143,3 +149,5 @@ D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst v
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 10, 12, 18, 34, 50, 51.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 89.

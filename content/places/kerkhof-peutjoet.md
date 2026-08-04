@@ -34,6 +34,14 @@ In the period [[1890]]–[[1930]] approximately 950 members of the Korps Maréch
 - [[F. Darlang]]
 - [[Militaire Willemsorde]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Military cemetery at [[Koetaradja]]. More than anything tells what Aceh has meant in those long years of struggle: a sacrifice, then a matter of honour, now an 'eereschuld' (debt of honour). Cool marble plaques at entrance with rows of names; many grave markers (killed in action or died of wounds); mass graves. [[Tjemara]] (casuarina) avenues provide solemn rest.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 48.*
+
 ## Source
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]*, Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 48.

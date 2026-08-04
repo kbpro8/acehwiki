@@ -30,6 +30,14 @@ Following the fall of [[Keumala]], the resistance lost its coordination hub. The
 - [[Pretender-sultan]]
 - [[Aceh War]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Region historically where Sultansmacht ([[sultan|Sultan]]'s authority) was most honored. Court fled here twice ([[1878]] and [[1898]]) when forced to flee the [[Dalem]]. Long a breeding ground of fanaticism and [[Kafir|kafir]]Place where the 'hof' (court) of the[[Pretendent-sultan|Pretendent-Sultan]] found refuge; site of the so-called '[[Keumala]]-tochten' (journeys to visit the court by already-submitted chiefs, encouraged by the government).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 60, 358, 360.*
+
 ## Source
 
 Somer, Dr. J. M. *Het Atjeh-probleem van 1890-1900* (Overprint uit *Journal / Organ van de Netherlands-Indies Officers Association*, [1935], pp. 4-7); *Het einde van den Atjeh Oorlog* (Overprintken uit de *Evening Post* van 25, 26 en 27 Augustus 1903, pp. 3-5, 13-14); Damste, H. T. "Atjeh-historie," *Koloniaal Tijdschrift* 1916.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 60, 358, 360.

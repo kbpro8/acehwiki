@@ -74,6 +74,12 @@ The *Moesapat* ("customary-law court") embodied the compromise on which Dutch in
 - [[Maloe]]
 - [[H. N. A. Swart]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Indigenous court where important cases are heard; each has a government-appointed [[kali-moesapat]] as advisor.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 133, 350.*
+
 ## Source
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]].
@@ -81,3 +87,5 @@ The *Moesapat* ("customary-law court") embodied the compromise on which Dutch in
 Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV, p. 23; Chapter VIII, pp. 81–82; Chapter XII, pp. 119–122.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 133.

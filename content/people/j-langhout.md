@@ -18,6 +18,14 @@ Broersma dismissed the work as not containing land and people essentially, and a
 - [[Dr. R. Broersma]]
 - [[Aceh War]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Named as author of one of the smaller works on Aceh.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 17.*
+
 ## Source
 
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 5-6.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 17.

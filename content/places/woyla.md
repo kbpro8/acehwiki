@@ -55,6 +55,12 @@ The Krueng Woyla is significant for the encyclopedia of [[Acheh]] history becaus
 - [[1949]]
 
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Place where [[Teukoe Oemar]] settled after his flight (from [[Lageuën]]).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 402.*
+
 ## Source
 
 
@@ -62,3 +68,4 @@ The Krueng Woyla is significant for the encyclopedia of [[Acheh]] history becaus
 
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 56 (coal in North Sumatra, West-Atjeh Neogene deposits along the Krueng Woyla and Krueng Meureubo).
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 402.

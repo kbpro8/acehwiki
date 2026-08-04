@@ -98,6 +98,12 @@ Roest cites, too, the Deli Company's reserve: its application of the beginning o
 - [[Van Bemmelen's The Geology of Indonesia (1949)]]
 - [[Verkenningen in Atjeh (1923)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Oil refinery in [[Sumatra's East Coast|Sumatra's Oostkust]] connected by 128 km pipeline to [[Perlak]] oil field in [[1901]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 88.*
+
 ## Sources
 
 *Van Oerbosch tot Cultuurgebied: Een Schets van de Beteekenis van de Tabak, de Andere Cultures en de Industrie ter Oostkust van Sumatra*, by Dr. T. Volker (Medan: Deli Planters Vereeniging, [[1928]]), pp. 47–56. Delpher Digital Library, reference DLP-76. Universiteitsbibliotheek Vrije Universiteit Amsterdam, shelfmark 09383.
@@ -107,3 +113,5 @@ Roest cites, too, the Deli Company's reserve: its application of the beginning o
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 10 (refining section, list of large refineries, and post-war destruction/reconstitution).
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 88.

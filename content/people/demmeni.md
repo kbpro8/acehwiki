@@ -176,6 +176,12 @@ After more than three years of civil government the Government understood that a
 - [[Dutch Policy of 'Concentration'|The Concentration in Atjeh (1884-1898)]]
 - [[Government of Atjeh en Onderhoorigheden]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Appointed in [[August]] [[1884]] to restore unified civiel- en militair bestuur. He and his successors were tied down in [[Groot-Atjeh]] at the [[Concentrated Line|concentrated line]] until [[1893]], taking a passive wait-and-see stance. His tenure saw a reduction of administrative divisions from three afdeelingen to two and abolition of controleursposten.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 324.*
+
 ## Sources
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX, "Blokkade en Concentratie onder den Civiel en Militair Gouverneur Demmeni, van September 1884 tot December 1886." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 46–52.
@@ -189,3 +195,5 @@ After more than three years of civil government the Government understood that a
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 5–6, 24–29.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 55–60.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 324.

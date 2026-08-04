@@ -53,8 +53,16 @@ With the death of Tgk. di Barat the *afdeeling* Noordkust became stable and its 
 - [[H. C. Zentgraaff]]
 - [[1912]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+From the Lho' Soekonsche; son-in-law of [[teungkoe|Teungkoe]] di [[Mata Ië]] (married his daughter). Capable [[Oelama|oelama]] and born popular leader. Plundering band leader, sparing no fellow Acehnese. Active [[1903]]-[[1912]]. Pursued by the usual men plus v.d. Zee, [[Van Vuuren]], [[J. W. Ebbink|Ebbink]], [[Scheepens]]. [[January]] [[1912]] Lt. [[Behrens]] received reports of his fourageeren; February [[1912]] located his hideout with help of Ambonese sergeant [[Dambohpulu]]. Surrounded: a few huts housing [[Tgk. di Barat|Teungkoe di Barat]] with wife and 2 children, plus 2 followers with wives and children. When patrol detected, they took position between karang blocks; [[Tgk. di Barat|Teungkoe di Barat]]'s wife stood beside her husband. First shot hit him in right arm; with left hand drawing his rentjong, he passed his [[Karabijn (M. 95)|carbine]] to his wife, who placed herself in front of him - both killed by the same shot. 2 followers also killed; 2 women and 4 children captured.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 368, 369.*
+
 ## Source
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, pp. 96–97; Chapter XI, pp. 103–106.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]).
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 368, 369.

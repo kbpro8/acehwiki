@@ -223,6 +223,12 @@ Enterprise [[Peureula (Perlak)]] dates [[1911]], modest rubber and oilpalm, litt
 - [[Soengei Lipoet]]
 - [[Atjeh Tram]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Town in the cultuurgebied (cultivation area) of eastern Aceh; deliberately laid out with spacious design. Has rubber-tuinen including [['s Lands Caoutchouc Bedrijf]], koffie- en oliepalmondernemingen. Good water supply (NIGM central), european lagere school, bioscoop, zwembad. Closer to [[Medan]] (160 km) than [[Koeta-Radja|Koeta Radja]] (600 km). Not directly on sea; port at [[Koeala Langsa]]. More attractive than [[Sigli]]/[[Lho'Seumawé]].[[onderafdeeling|Onderafdeeling]] on the [[East Coast of Aceh|east coast of Aceh]]; opened for landbouw-concessies; tertiair gronden made important rubber/[[Palm Oil (Aceh)|palm oil]]culture center. Financieel bloei of its onderafdelingskas.[[onderafdeeling|Onderafdeeling]] on [[Atjeh's Oostkust (East Coast of Aceh)|Oostkust]]; site of two remilling rubber factories (capacities 500 & 200 ton/year); BPM oil concessions ([[Soengei Raja]], [[Krueng Meureubo|Kroeëng Meureubo]], [[Paja Bilik]]); [[N.K.P.M.|NKPM]] 5A contract; bijkantoor of [[Atjeh (Aceh)|Atjehsche]] Handel Mij; [[N.I. Gasmaatschappij]] showroom; [[Güntzel & Schumacher]]bijkantoor; tidal forest exploitation.[[afdeeling]] [[Oostkust van Atjeh]]; the only kustplaats with a natural harbor. Standplaats of the [[Assistent-Resident]] of the [[afdeeling]] [[Oostkust van Atjeh]]. Site of inheemsch internaat ([[1931]]). Connected to the Atjeh-Staatsspoor.[[Tamiang]] area. The Samarkilangbende leader was arrested in [[1937]] and died here, where a residence had been assigned. Large-scale agriculture (with [[Tamiang]]).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 89, 90, 184, 189, 190, 194, 195, 284, 287, 314, 329, 331, 345, 364, 411.*
+
 ## Source
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 69 (section "De Atjeh-tram").
@@ -236,3 +242,5 @@ Enterprise [[Peureula (Perlak)]] dates [[1911]], modest rubber and oilpalm, litt
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IX, XII, XIII.
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 36, 48–49, 84, 90–91, 107, 121, 185.
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 12-20.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 89, 90, 184, 189, 190, 194, 195, 284, 287, 314, 329, 331, 345, 364, 411.

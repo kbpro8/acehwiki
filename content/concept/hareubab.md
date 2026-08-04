@@ -64,6 +64,14 @@ Illustrated in **[[Jaap Kunst]]**, *Muziek en Dans in de Buitengewesten* ([[1946
 - [[Jaap Kunst]]
 - [[Muziek en Dans in de Buitengewesten (1946)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Only indigenous Acehnese string instrument. Bowl-shaped soundbox of nangka-wood hollowed out, covered with buffalo/cow stomach. Bow made of bent [[Rattan (Aceh)|rotan]]/bamboo. Orchestra with two or more nangka-wood drums accompanies recitation of pantoens.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 151.*
+
 ## Source
 
 **[[Jaap Kunst]]**, *Muziek en Dans in de Buitengewesten*, Mededeling No. LXVII, Afdeling Volkenkunde No. 20, Koninklijke Vereeniging "Indisch Instituut" te Amsterdam (Leiden: E. J. Brill, [[1946]]), p. 9. Based on field research [[1919]]–[[1934]].
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 151.

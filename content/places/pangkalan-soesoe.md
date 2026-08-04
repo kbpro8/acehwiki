@@ -94,6 +94,12 @@ The new harbour design was simpler than the one originally made for Telok Taboeh
 - [[Telok Taboeban]]
 - [[Verkenningen in Atjeh (1923)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Place on the strait of [[Malakka]] reached by a branch line from [[Besitang]]; terminus of the [[1912]] extension of the [[Atjeh-tram]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 287, 292.*
+
 ## Sources
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, [[1917]]), pp. 69–72 (section "De Atjeh-tram").
@@ -101,3 +107,5 @@ The new harbour design was simpler than the one originally made for Telok Taboeh
 *De Buitenbezittingen, Deel II, Afl. 3: Oostkust van Sumatra. Eerste Stuk*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, [[1918]]), pp. 50–51, 66–67, 79–80, 93–95, 106–107. Universiteitsbibliotheek Vrije Universiteit Amsterdam, shelfmark LS.08781.
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 287, 292.

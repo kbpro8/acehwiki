@@ -145,6 +145,12 @@ Even after the effective disappearance of Sultanate authority — and especially
 - [[J. Kreemer]]
 - [[K. F. H. Van Langen]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Formal appointment documents issued by the Sultans to the oelèëbalangs; had to be replaced by written agreements with the Dutch government when the Dutch stepped into [[Sultan of Aceh|the Sultan]]'s place.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 336.*
+
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -152,3 +158,5 @@ Even after the effective disappearance of Sultanate authority — and especially
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 47–48, 53–55, 78. Citing C. Snouck Hurgronje, *De Atjehers*, Vol. I, p. 136.
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 336.

@@ -37,6 +37,14 @@ The persistence of the [[sagi]] system—despite the collapse of the sultanate a
 - [[Groot-Atjeh]]
 - [[Panglima Polim]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Federation of oelèëbalangschappen in [[Groot-Atjeh]], comparable to a 'federation of states acting as a union externally' with high internal autonomy. [[Three Sagis (XXVI, XXV, XXII Mukims)|Three sagis]] in [[Groot-Atjeh]]: [[Sagi|sagi]] der [[XXV Moekims|XXV moekims]] (west of [[Koeta-Radja|Koeta Radja]]), [[Sagi der XXVI Moekims|sagi der XXVI moekims]] (around [[Koeta-Radja|Koeta Radja]]), and [[Sagi|sagi]] der [[XXII Moekims|XXII moekims]] (east of [[Koeta-Radja|Koeta Radja]], forming the [[onderafdeeling]] [[Seulimeum]]Major administrative division (federation of mukims); Sagihoofd = head of a[[Sagi|sagi]]. [[Panglima Polém]] is Sagihoofd der [[XXII Moekims]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 335, 336, 356, 360.*
+
 ## Source
 
 *Het einde van den Atjeh Oorlog* (Overprintken uit de *Evening Post* van 25, 26 en 27 Augustus 1903, pp. 3-6); Somer, Dr. J. M. *Het Atjeh-probleem van 1890-1900* (Overprint uit *Journal / Organ van de Netherlands-Indies Officers Association*, [1935], pp. 4-7); Kreemer, J. J. *Atjèh* (Tweede Deel, 1923); Damste, H. T. "Atjeh-historie," *Koloniaal Tijdschrift* 1916.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 335, 336, 356, 360.

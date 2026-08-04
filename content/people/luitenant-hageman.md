@@ -17,6 +17,14 @@ Hooijer recorded that Hageman and [[Luitenant Veerman|Veerman]], with several of
 - [[Kaloet]]
 - [[Geconcentreerde linie]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Took the photographs of Acehnese folk types and the 'Atjehsch paar in feesttooi uit den ouden tijd' (couple in festive old-time dress), the woman being the famous '[[Ross van Padang Tidji]]Photographer credited for photographs of Acehnese and[[Gajodorp|Gayo village]]Photographer credited for the photograph 'Visschershuisje aan het strand' (fisherman's house on the beach) at[[Koeta-Radja|Koeta Radja]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 127, 128, 145, 146.*
+
 ## Source
 
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 26.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 127, 128, 145, 146.

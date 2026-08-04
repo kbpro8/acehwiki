@@ -236,6 +236,12 @@ Hooijer's assessment of the results was consistently sceptical: the fighters of 
 - [[Toekoe Moeda Soleiman]]
 - [[Bezoldiging]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Acehnese hereditary chief. In the first phase of the war the oelèëbalangs were the undisputed lords of the land (the [[sultanate|Sultanate]] had little influence); popular favour toward them was a life-or-death matter. In the second phase (after war) the [[Kompeuni]] took over security. In the third (modern) phase the old chiefs remain at their old stance, younger chiefs have little influence and less capability. Served as sole-sprechend judge in the [[Landschapsgerecht|landschapsgerecht]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 335, 341, 351, 354, 357, 369, 389.*
+
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 7–9, pp. 88–193.
@@ -258,3 +264,5 @@ Hooijer's assessment of the results was consistently sceptical: the fighters of 
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 16, 24, 32, 50.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 335, 341, 351, 354, 357, 369, 389.

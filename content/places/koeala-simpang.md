@@ -76,8 +76,16 @@ In [[J. Roest]]'s chronicle *[[De spoorwegverbinding tusschen Deli, Atjeh en de 
 - [[Atjeh Tram]]
 - [[Oepah]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Town at the confluence of [[Simpang Kiri]] and [[Simpang Kanan]] rivers, ~30 km from [[Langsar|Langsa]]. Cosmopolitan center with much foreign capital and foreign workers. Has [[B.P.M.]]-terrain [[Rantau]], palmoliefabrick [[Soengei Lipoet Cultuur-Maatschappij|Soengei Lipoet]]. [[De Koepel (Soosje)|Soosje]]with bin- and tennisbanen.[[1910]] extension of the [[Atjeh-tram]] from the [[Langsabaai]]. Direct bestuurd gebied.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 90, 292, 331.*
+
 ## Source
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 69–70 (section "De Atjeh-tram").
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter II, *'Tamiang'*, pp. 6, 11.
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 8-10, 13-14.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 90, 292, 331.

@@ -100,6 +100,12 @@ The panglima sagi embodies the confederal character of the [[Aceh Sultanate]]: t
 - [[Sabil Allah]]
 - [[Masdjid]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Title given by the Dutch to the chief of the most prominent oelèëbalangschap in a [[Sagi|sagi]], who acted as its leader. Not a native Atjeh title. The [[Panglima Sagi]] also held an oelèëbalangschap directly under him. As the [[sultanate]]'s power waned, the [[Three Sagis (XXVI, XXV, XXII Mukims)|three sagi]]-hoofden acted as guardians of the [[sultanate]] and even chose a new [[sultan|Sultan]], including a foreigner, founding a new dynasty.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 336, 337.*
+
 ## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 45–46.
@@ -107,3 +113,5 @@ The panglima sagi embodies the confederal character of the [[Aceh Sultanate]]: t
 *Nederlanders over de Zeeën: 350 Jaar geschiedenis van Nederland buitengaats*, onder redactie van Dr. H. J. de Graaf, met medewerking van Prof. G. Gonggrijp, W. R. Menkman en Prof. Jhr Dr P. J. van Winter, 2e geheel herziene druk (Utrecht: W. de Haan N.V., MCMLV), p. 217.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 20, 231, 348.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 336, 337.

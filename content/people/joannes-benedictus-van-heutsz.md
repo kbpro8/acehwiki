@@ -62,8 +62,16 @@ Colonel [[C. A. Snell|L. A. Snell]] named him last and highest among the great p
 - [[Pidie expeditie]]
 - [[W. V. Rhemrev]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Began new offensive method in the [[Onderhoorigheden|onderhoorigheden]] in [[1898]]. Together with [[Christiaan Snouck Hurgronje|Dr. Snouck Hurgronje]], designed the '[[korte Atjeh-verklaring]]' ([[1898]]). Laid the groundwork for the more intensive bestuursvoering that developed into the modern system. Issued staatsblad [[1899]] no. 259 reorganizing the [[gewest]] into [[afdeeling]] [[Groot-Atjeh]] and [[afdeeling]] [[Onderhoorigheden]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 326, 327, 338, 343.*
+
 ## Source
 
 *Het Atjeh-probleem van 1890-1900. De stimulans van Van Heutsz en Snouck Hurgronje* (Overprint uit *Journal / Organ van de Netherlands-Indies Officers Association*, [1935], pp. 4-7, 10-11); *Het einde van den Atjeh Oorlog. De beteekenis der Onderwerping van Panglima Polim* (Overprintken uit de *Evening Post* van 25, 26 en 27 Augustus 1903, Royal Institute for Language, Land, and Ethnology, The Hague, 1903, pp. 10-16); Damste, H. T. "Atjeh-historie," *Koloniaal Tijdschrift* 1916; Hotz, *Beknopt geschiedkundig overzicht van den Atjeh-oorlog*.
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 326, 327, 338, 343.

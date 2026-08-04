@@ -59,6 +59,12 @@ The council remained important in later Aceh matters. In the twentieth century i
 - [[1873]]
 - [[1918]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Vice-president charged with leading political affairs during the [[First Aceh Expedition|first Aceh expedition]]. General [[Gouverneur Swart|Swart]] appointed to it [[2 September]] [[1918]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 394, 406.*
+
 ## Source
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne (Schiedam: J. F. Dupont, [[1912]]), Chapter I, pp. 11–19, 53, 59.
@@ -68,3 +74,5 @@ The council remained important in later Aceh matters. In the twentieth century i
 *Schets eener parlementaire geschiedenis van Nederland van 1849 tot 1901*, by W. J. van Welderen baron Rengers, Vol. IV by W. H. Vermeulen ('s-Gravenhage: Martinus Nijhoff, [[1955]]), pp. 265, 273.
 
 *Generaal Swart, Pacificator van Atjeh*, by M. H. du Croo and H. J. Schmidt (Maastricht: N.V. Leiter-Nypels, [[1943]]), pp. 31, 90, 157–160, 173.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 394, 406.

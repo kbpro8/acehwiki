@@ -200,6 +200,12 @@ De Boer defended his recording of institutions already obsolete — notably the 
 - [[Gala]]
 - [[Verjaring in Atjehsch adatrecht]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Customary law regulating many aspects of life: wild karbouwen belong to [[Uleebalang|Oeléëbalang]]; no liability for cattle grazing on sawahs during open-veld season; strict liability when sawahs planted; governs rights and obligations.[[keutjhi']] in the [[Gampong|gampong]]; basis of many Atjeh institutions. The [[Adat|adat]]is grounded in many points on Islamic law.[[Hukum|hukum]] / Islamic law).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 349, 350.*
+
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 1–9, throughout.
@@ -218,6 +224,7 @@ De Boer defended his recording of institutions already obsolete — notably the 
 
 *Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 349, 350.
 ## Account from *Atjeh* by H.C. Zentgraff (1938)
 
 [[H.C. Zentgraff|Zentgraff]] dwells on *adat* as the living atmosphere of both the Atjehsche kampong and the colonial tangsi. *Schmidt kende de Atjehsche taal en adat als niemand anders, zoodat de legende van zijn mystieke gaven zich nog versterkte; velen kwamen bij hem om raad in lastige adatzaken en persoonlijke kwestiés.* The *oeléëbalang* and the *keuchi'* were keepers of the *adat*; [[G.C.E. van Daalen|Van Daalen]] drew by hand the *stamboomen* (family trees) of the principal *oeléëbalang* families *teneinde meer kennis te krijgen van de onderlinge verhouding tusschen de hoofden en hunne vrouwen*.

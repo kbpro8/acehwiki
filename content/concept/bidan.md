@@ -36,8 +36,16 @@ The *bidan* received payment (*peunajah*, *seunalén*) after the 44-day postpart
 - [[Roempöt Patimah]]
 - [[Toelah]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Traditional [[Bidan|midwife]] who assists at the birth.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 136.*
+
 ## Source
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]].
 
 Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 136.

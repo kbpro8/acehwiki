@@ -1,0 +1,29 @@
+---
+title: "Oogstvergunning"
+aliases: []
+tags: [concept, jongejans, aceh]
+---
+
+**Oogstvergunning** (English: "Harvest permit/license") is a term or concept described in [[J. Jongejans|Jongejan]]'s *Land en Volk van Atjeh Vroeger en Nu* in relation to [[Aceh]]. Permit issued per rubber tuinbezitter specifying his allowed KG; could be sold by smallholders to large holders or government-licensed remilling bedrijven.
+
+## Translation
+
+Harvest permit/license
+
+## Description
+
+Permit issued per rubber tuinbezitter specifying his allowed KG; could be sold by smallholders to large holders or government-licensed remilling bedrijven. In [[1937]], 1,500,000 KG of permits issued but 2,800,000 KG exported from Aceh—[[S.O.K.]] and [[Tapanoeli]] permits served Aceh rubber.
+
+## Significance
+
+The term *Oogstvergunning* is recorded by [[J. Jongejans|Jongejan]] as part of the cultural, administrative, or institutional vocabulary of [[Aceh]].
+
+## See Also
+
+- [[Aceh]]
+- [[J. Jongejans]]
+- [[Land en Volk van Atjeh Vroeger en Nu]]
+
+## Source
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.

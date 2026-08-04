@@ -234,6 +234,12 @@ Reading the soldiers' facetiousness from the plate of the interior of [[Kroeng G
 - [[Kroeng Gloempang]]
 - [[Heerengracht (barracks passage at Kroeng Gloempang)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Historic port town near [[Koetaradja]]. Once a lively, busy place, now declined. Destroyed by [[vloedgolf]] (tidal wave) and [[aardbeving]] (earthquake) in [[August]] [[1936]]. Only a few Europeans remain. Recently a 'platje' (platform) built for moonlit '[[makan angin]]' (evening stroll).[[Noordkust]] (near [[Koeta-Radja|Koeta Radja]]); site of one of two weefschooltjes for reviving Acehnese weaving.[[Koeta-Radja|Koeta Radja]], on the eastern bank of the Atjeh River. Connection point for the [[Koninklijke Paketvaart Maatschappij (K.P.M.)|K.P.M.]] and [[Atjeh Transport Mij.]] ships. Station of the Gouvernementsvaartuig 'Wega'. Starting point of the Atjeh-Staatsspoor ([[1876]]). Site of [[Weefscholen|weefscholen]] (weaving schools) and the location where the second Dutch expedition under [[Jan van Swieten|Van Swieten]] landed on [[9 December]] [[1873]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 25, 47, 281, 283, 284, 285, 287, 291, 311, 320, 329, 331.*
+
 ## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -264,3 +270,5 @@ Reading the soldiers' facetiousness from the plate of the interior of [[Kroeng G
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 19–23.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 25, 47, 281, 283, 284, 285, 287, 291, 311, 320, 329, 331.

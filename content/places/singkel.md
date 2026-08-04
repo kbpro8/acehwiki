@@ -165,6 +165,12 @@ On [[6 January]] [[1874]], Commander-in-Chief General [[J. van Swieten]] transmi
 - [[Vereenigde Oost-Indische Compagnie]]
 - [[Westkust van Sumatra]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Hoofdplaats of [[Simeuloeë]]. Beautifully situated as seen from the boat, but decayed and neglected at the shore. Site of [[V.I.B.E.M.]] wood exploitation ([[1917]]). Once notorious for malaria, much improved in recent years. Military garrison rotated every two months from [[Tapa Toean]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 57.*
+
 ## Source
 
 *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 7-10.
@@ -186,3 +192,5 @@ On [[6 January]] [[1874]], Commander-in-Chief General [[J. van Swieten]] transmi
 In his chapter on Achehnese domestic life Snouck Hurgronje notes that the Achehnese applied a particular nickname of evil import — **Bala' Kar'ee** (i.e. *k'arau'*) — to all Bataks, "including the Bata' Pappa', the Bala' Tuba and the Bata' Maloyhêng (Mandailing)." He adds in a footnote that "most of these are imported from Singkel and Trumon," and that the Achehnese distinguish the Bala' Kar'ee "as being the wildest and most vicious." The importation of Batak slaves through Singkel thus formed part of the regular commerce of pre-Dutch Acheh, supplying domestic labour and tying the sultanate into the wider slave-trading network of west-coast Sumatra.
 
 s
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 57.

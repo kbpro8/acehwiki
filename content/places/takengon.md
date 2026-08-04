@@ -34,6 +34,14 @@ Economy: enterprise [[Paja Toempi]] [[Veenhuizen family]] as described.
 - [[Böbasan]]
 - [[Bireuen]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Friendly village by the [[Laoet Tawar]] lake, ~[[1250]] m elevation, on the [[Gajoweg (Gayo Road)|Gajoweg]] ~321 km from [[Koeta-Radja|Koeta Radja]]. Cool climate, ideal vacation spot but remote. Has [[pasar]], logeries (pasanggrahans and bungalows), and the '[[Gouverneur Van Daalen|Van Daalen]] boom' (now gone, asphyxiated by asphalting). Has a [[meuseugit]](where the 'Kölee boom' once stood).[[Laoet Tawar]]; center of [[Arabica Coffee (Aceh)|Arabica coffee]] cultivation ([[Takengon-koffie]]). Tea and coffee estates located along the [[Gajo-weg]].[[onderafdeeling|Onderafdeeling]] in [[Gajo-land (Gayo Land)|Gajoland]]; Lake [[Laoet Tawar]]; centre of [[Arabica Coffee (Aceh)|Arabica coffee]] (population and European estates), aardappelen (potato), white cabbage cultivation; pine ([[Pinus merkusii|Pinus Merkusii]]) forests for [[Resin (Aceh)|resin]]/terpentine; horse-breeding by Gajos.[[Gajo-land (Gayo Land)|Gajo]] lands; [[onderafdeeling]] in the [[afdeeling]] [[Noordkust van Atjeh]]. Reached by a zijweg from [[Bireuën]] with daily auto service. Site of a lake with a marine vliegtuig overzetveer (rakit) shown in the book's photo.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 8, 25, 47, 71, 73, 75, 76, 77, 78, 79, 91, 178, 184, 187, 204, 207, 287, 290, 295, 329, 345.*
+
 ## Source
 
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 68-82.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 8, 25, 47, 71, 73, 75, 76, 77, 78, 79, 91, 178, 184, 187, 204, 207, 287, 290, 295, 329, 345.

@@ -40,6 +40,14 @@ The defeat of the First Aceh Expedition shattered the myth of European military 
 - [[Attack on the Kraton]]
 - [[Second Aceh Expedition]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu* (dated 1873)
+
+An expedition-army of [[3600]] men, brought from overseas, marched against the capital ([[Koetaradja]]) in [[1873]]. Ended with Dutch withdrawal (aftocht) and the death in action (sneuvelen) of the supreme commander [[Generaal Köhler|General Köhler]]. The initial Dutch plan was to take the capital and force [[Sultan of Aceh|the Sultan]] into a treaty recognizing Dutch [[Suzerainty question|sovereignty]]; this failed.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 38.*
+
 ## Source
 
 *De expeditiën naar Atjeh 1873-1874*, W.W.F. Herfkens, Koninklijke Militaire Academie, 1900, pp. 1-24.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 38.

@@ -151,6 +151,12 @@ The episode is a compact instance of the Dutch use of trade privileges as an ins
 - [[Pepper cultivation in Atjeh]]
 - [[Teukoe Oemar]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Place between [[K.M.]] 22-23 on the [[Noordkust]] with old fortress walls at the beach, popularly called 'Portugeesche vestingen' (Portuguese fortifications). Walls with schietgaten (loopholes) largely intact; 4 covered water wells with dome roofs inside one enclosure. Whether history or legend is uncertain.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 57.*
+
 ## Sources
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -167,3 +173,5 @@ The episode is a compact instance of the Dutch use of trade privileges as an ins
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 49-50.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 57.

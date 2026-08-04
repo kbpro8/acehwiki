@@ -238,6 +238,12 @@ Writing in [[1911]], Beuming records that after a stay of more than thirty years
 - [[1918]]
 - [[1922]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Photo caption (page 376): '[[Pastoor Verbraak]] en [[Ds. Thenu]], Atjeh's groote geestelijken uit den [[actie-tijd]].'
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 49, 376.*
+
 ## Sources
 
 - *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Dominee Thenu."
@@ -257,3 +263,5 @@ Writing in [[1911]], Beuming records that after a stay of more than thirty years
 *Schetsen uit den strijd op Groot-Atjeh, met speciaal vervaardigde kaart en toepasselijke photo's*, bewerkt door P. H. R. Beuming, oud-onderofficier van het Ned.-Indische Leger (Amsterdam, December [[1911]]; uitgegeven ten bate van het te stichten Herstellingsoord voor Rijks-Ambtenaren). Koninklijk Instituut voor de Tropen, Br N 82-144
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Schetsen uit den strijd op Groot-Atjeh* by P. H. R. Beuming (Amsterdam, [[1911]]). Dutch passages are quoted in the original with an English rendering.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 49, 376.

@@ -18,8 +18,16 @@ The movement, set on foot by [[Penghoeloe Koeala]], a [[Gajòs|Gajò]] of [[Leub
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Isolated post reachable from [[Blang Kedjerèn]] (path to [[Lököp]]) or from [[Langsar|Langsa]] (auto + 25 km path). With [[Gajo Loeös]] and [[De Alaslanden|Alaslanden]], transferred out of [[Gajolanden (Gayo Lands)|Gajolanden]] in [[1934]].[[landschap|Landschap]] in which the first nature monuments ([[Aroe Koembai]], [[Djernih rivier Moento]]) were designated in [[1921]], merged [[1936]] as Rafflesia [[Natuurmonument|natuurmonument]] [[Serbödjadi]]Place near[[Samarkilang]] where [[teungkoe|Teungkoe]] di [[Mata Ië]] hid.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 79, 83, 363.*
+
 ## Source
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XII, XIII.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 79, 83, 363.

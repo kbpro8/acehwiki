@@ -75,6 +75,12 @@ The **Goudberg** — "Gold Mountain" — was a height bounding the valley of the
 - [[XXII Moekims]]
 - [[Anagaloeng]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Mountain near [[Sigli]] with a beautiful, regular, and imposing form. Slowly the road circles partly around it, then crosses the connecting ridge and descends along the slopes of the [[Weesberg]] to the strandvlakte.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 57, 62.*
+
 ## Sources
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 4, 9–13, 55.
@@ -86,3 +92,5 @@ The **Goudberg** — "Gold Mountain" — was a height bounding the valley of the
 *Eene schoone bladzijde uit Atjeh's geschiedenis*, door W. Cool en G. B. Hooijer ('s-Gravenhage: Martinus Nijhoff, 1889), pp. 16, 21, 33-34, 43, 76. OCR-filename: `20260720_115822_DLP-135-Eene_schoone_bladzijde_uit_Atjeh_s_geschiedenis_Nemotron_OCR_v2_OCR.txt`.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the accounts given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]] and in *Eene schoone bladzijde uit Atjeh's geschiedenis* ([[1889]]) by [[W. Cool]] and [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 57, 62.

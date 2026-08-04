@@ -140,6 +140,12 @@ Of [[Masdjid Siem]] Hooijer noted that the old stone wall was a remnant of earli
 - [[Overste Sievers]]
 - [[Moslemin]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Friday mosque. Usually modest, mostly open buildings, poorly maintained. Floor of planks on stilts or just stamped earth. Roof on 16 octagonal (not round) stilts, covered with sagopalm leaves. Big drum hangs outside to announce prayer times. No minarets. A masonry tank or reservoir for ritual washing in front. Mihrab niche on west wall toward [[Mecca]]. Minbar: preacher leans on a staff with white turban.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 165, 166.*
+
 ## Sources
 
 D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), pp. 28–32 (Missigit Longbatta), p. 32 (Mandarsah Poetih). Koninklijke Bibliotheek shelfmark 0301 4872.
@@ -158,3 +164,5 @@ D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst v
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 12, 18, 22, 24, 32.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 165, 166.

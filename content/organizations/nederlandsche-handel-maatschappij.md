@@ -77,8 +77,16 @@ Besides what the NHM did for Atjeh in a general sense by her cooperation in the 
 - [[Koeta Radja]]
 - [[Pacification of Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Provided financial support for [[de Lange & Co.]]'s coal station at [[Sabang]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 205, 281.*
+
 ## Source
 
 *Atjeh-terpentijn: tegenwoordige kwaliteit en nieuwe beoordeelingen*, by Ir. W. Spoon, *Berichten van de Afdeeling Handelsmuseum van de Koninklijke Vereeniging Koloniaal Instituut* No. 57, Amsterdam: J. H. de Bussy, [[1930]], pp. 9–10, 29–30 (Winning van de terpentijn; Bijlage II — Circulaire).
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 87, 144, 178–182, illustration captions pp. 178, 181.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 205, 281.

@@ -38,6 +38,14 @@ Sultan Mahmud Syah IX died of cholera at Longbatta on [[28 January]] [[1874]]. G
 - [[Third Capture of Mesjid Raya]]
 - [[Encirclement and Fall of the Kraton]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu* (dated end 1873)
+
+End of [[1873]], a second expedition, twice as strong (~[[7200]] men), landed under General [[Jan van Swieten|van Swieten]]. The occupied area was not relinquished because the hoped-for submission of [[Sultan of Aceh|the Sultan]] with '[[aanbreng]]' (tribute) of his whole kingdom failed to materialize.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 38.*
+
 ## Source
 
 *De expeditiën naar Atjeh 1873-1874*, W.W.F. Herfkens, Koninklijke Militaire Academie, 1900, pp. 25-70.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 38.

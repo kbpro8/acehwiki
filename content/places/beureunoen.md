@@ -30,6 +30,12 @@ Bernoen lay in the coastal belt where Tijssen had worked earlier, and which he c
 - [[Pedir]]
 - [[1933]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Place on the [[asweg]] where every Saturday a busy cattle [[pasar]] (livestock market) is held. Just off the road lies the residence of [[Teukoe Oemar Keumangan]], former 'crowned king of [[Pidië]]'.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 64.*
+
 ## Sources
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
@@ -37,3 +43,5 @@ Bernoen lay in the coastal belt where Tijssen had worked earlier, and which he c
 *Een strijd in Atjeh (Een oogarts op het oorlogspad)*, door Mr. C. Graadt van Roggen, met een voorrede van den heer H. Wanting, redacteur *Nieuwe Rotterdamsche Courant* (Rotterdam: N.V. Drukkerij Korteweg, uitgave van de Vereeniging „SIMAVI”, [[1934]]), pp. 6–7.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 383.

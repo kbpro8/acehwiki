@@ -12,9 +12,15 @@ tags: [organization, company, dutch, colonial, transport, praow, atjeh-transport
 - [[Kon. Paketvaart]]
 - [[Verkenningen in Atjeh (1923)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Operated the S '[[Sabang]]-baai' on the [[Sabang]]-[[Oelèë Lheuë]] connection alongside the [[Koninklijke Paketvaart Maatschappij (K.P.M.)|K.P.M.]]
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 284.*
+
 ## Source
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter XV, *'Groot-Atjeh'*, p. 108.
 
-
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 284.
 ## Source
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim; *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), for the Koloniaal Instituut and Handelsmuseum.

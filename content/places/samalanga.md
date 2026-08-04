@@ -157,6 +157,12 @@ In the budget of [[1900]] funds were granted for the tramway [[Sigli]]–[[Lho S
 - [[Sigli]]
 - [[Pidie|Pidië]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+[[detachement|Detachement]] under a captain. Plain with barren lands from nearly criminal 'rooftbouw' (robber agriculture). Site of the [[Battle of Batèë Ilië]] (visible from [[Batèë Ilië]]Region whose inhabitants are stereotyped as horsemeat- and snake-eaters.[[North Coast|north coast]]of Aceh where the tertiair heuvelland is absent south of it.[[Noordkust]]; site of one of two weefschooltjes (weaving schools) for reviving Acehnese weaving.[[landschap|Landschap]]/[[onderafdeeling]] in the [[afdeeling]] [[Noordkust van Atjeh]]. Had a [[Controleur|controleur]] from [[1878]]. The [[zelfbestuurder]] provided a landing field. Site of a weefschool (weaving school) initiated by the local [[oelèëbalang]]Region; its[[oelèëbalang]]'s supremacy was refused by the onderhoofd of [[Oelèë Glé]]. Site of [[Batèë Ilië]] fortress and the [[Samalanga]]-expeditie.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 62, 66, 67, 105, 188, 295, 312, 323, 402, 412.*
+
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, [[1906]].
@@ -170,3 +176,5 @@ In the budget of [[1900]] funds were granted for the tramway [[Sigli]]–[[Lho S
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], p. 24.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 38, 40, 53, 137.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 62, 66, 67, 105, 188, 295, 312, 323, 402, 412.

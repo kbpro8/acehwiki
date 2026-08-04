@@ -8,7 +8,7 @@ tags: [person, military, dutch, colonial, knil, lieutenant, aceh-war, 1876]
 
 ## The night of 2–3 May 1876
 
-Free from duty that evening, Schnelle had taken seriously what Captain [[Hoynck van Papendrecht]] had dismissed — the openly suspicious visit of the kampong heads [[Hadji Soliman of Lampagar|Hadji Soliman]] and [[Toekoe Amat]] — and stayed awake until about two, listening to the dogs barking without rest in the surrounding kampongs. At four the enemy came over the northern fence and spread in three parties through the camp. Schnelle had just time to dress and grasp sabre and revolver; two klewang-cutters came at him at once — the revolver misfired, but he parried one cut with his sabre, wounded one of the Atjehers, and drove them off.
+Free from duty that evening, Schnelle had taken seriously what Captain [[Hoynck van Papendrecht (Kapitein)|Hoynck van Papendrecht]] had dismissed — the openly suspicious visit of the kampong heads [[Hadji Soliman of Lampagar|Hadji Soliman]] and [[Toekoe Amat]] — and stayed awake until about two, listening to the dogs barking without rest in the surrounding kampongs. At four the enemy came over the northern fence and spread in three parties through the camp. Schnelle had just time to dress and grasp sabre and revolver; two klewang-cutters came at him at once — the revolver misfired, but he parried one cut with his sabre, wounded one of the Atjehers, and drove them off.
 
 Cut off from the western side by enemies holding the inner square, he collected the men he found on the south side — at first barely 12, reinforced by some Europeans — made them fire volleys into the spaces before and behind the officers' quarters until the Atjehers gave way, went with four men to look for the missing officers along the gallery, fought off two assault parties there (two enemies fell at each), sent sergeant Bekker to check a fire glowing at the camp's north edge, and then made the round of the south and west sides, posting men as he found them, satisfying himself of the gun and counting, as far as darkness allowed, his remaining strength. At dawn he learnt what the night had cost: Captain Hoynck van Papendrecht and Lieutenant [[Van de Roemer]] dead, 5 native fusiliers, a forced-labourer and a woman, with 21 wounded.
 
@@ -21,7 +21,7 @@ Still before sunrise he admitted the arriving [[Hadji Soliman of Lampagar|Hadji 
 - [[Night attack on Lampagar (2-3 May 1876)]]
 - [[Lampagar]]
 - [[Van de Roemer]]
-- [[Hoynck van Papendrecht]]
+- [[Hoynck van Papendrecht (Kapitein)|Hoynck van Papendrecht]]
 - [[Guerilla warfare in Groot-Atjeh]]
 
 ## Source

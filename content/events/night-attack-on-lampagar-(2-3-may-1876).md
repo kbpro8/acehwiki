@@ -4,7 +4,7 @@ aliases: ["Lampagar massacre", "Overval op Lampagar nacht 2-3 Mei 1876", "Death 
 tags: [event, military, aceh-war, guerilla, night-attack, massacre, dutch, colonial, 1876]
 ---
 
-**The night attack on Lampagar ([[2 May|2]]–[[3 May]] [[1876]])** was one of the saddest events in the history of the [[Aceh War]]: a well-prepared surprise assault, an hour before dawn, on the open, barely defended Dutch camp at [[Lampagar]] in the [[VI Moekims]], in which the post commander Captain [[Hoynck van Papendrecht]] and First Lieutenant [[Van de Roemer]] were killed inside their own camp, together with 5 native fusiliers, 1 forced-labourer and 1 native woman, while the attackers lost only 11 dead. The enemy slipped out again by the same northern and eastern sides by which he had come — and took his revenge on Dutch self-confidence. The event was described in full, from the official reports, by [[Kolonel Meijer|H. F. Meijer]] in *[[Atjeh van 26 December 1875 tot 4 September 1876]]* ([[1883]]).
+**The night attack on Lampagar ([[2 May|2]]–[[3 May]] [[1876]])** was one of the saddest events in the history of the [[Aceh War]]: a well-prepared surprise assault, an hour before dawn, on the open, barely defended Dutch camp at [[Lampagar]] in the [[VI Moekims]], in which the post commander Captain [[Hoynck van Papendrecht (Kapitein)|Hoynck van Papendrecht]] and First Lieutenant [[Van de Roemer]] were killed inside their own camp, together with 5 native fusiliers, 1 forced-labourer and 1 native woman, while the attackers lost only 11 dead. The enemy slipped out again by the same northern and eastern sides by which he had come — and took his revenge on Dutch self-confidence. The event was described in full, from the official reports, by [[Kolonel Meijer|H. F. Meijer]] in *[[Atjeh van 26 December 1875 tot 4 September 1876]]* ([[1883]]).
 
 ## The open camp
 
@@ -55,7 +55,7 @@ Meijer wrote that the disaster was the garrison's own fault: this history, he sa
 - [[Lampagar]]
 - [[Schnelle]]
 - [[Van de Roemer]]
-- [[Hoynck van Papendrecht]]
+- [[Hoynck van Papendrecht (Kapitein)|Hoynck van Papendrecht]]
 - [[Panglima Moeda of Piëng]]
 - [[Hadji Soliman of Lampagar]]
 - [[Koewala Pantjoer patrol ambush (7 April 1876)]]

@@ -111,6 +111,12 @@ Early settlement 1874 representatives Indian government meeting Gajos at [[Peure
 - [[Verkenningen in Atjeh (1923)]]
 - [[Blang Kolag]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Lake in the [[Central highlands of North Sumatra|central highlands of Aceh]]; a large afdammingsmeer (dammed-up lake). Maleische naam means 'the saltless sea'. Surrounded by quartaire gronden and terraced land suitable for rice, gardens, and [[Ladang|ladang]]Lake at[[Takengon]] around which white cabbage, coffee, and pine forests are situated.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 76, 77, 78, 178, 184, 185, 186.*
+
 ## Source
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 4–6, 9.
@@ -118,3 +124,5 @@ Early settlement 1874 representatives Indian government meeting Gajos at [[Peure
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn*.
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters XI–XII, *'De Gajo-weg en zijn landschap'* and *'In het hart van Gajo-land'*, pp. 76–83.
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 71-73.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 76, 77, 78, 178, 184, 185, 186.

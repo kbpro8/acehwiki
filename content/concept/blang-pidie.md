@@ -32,6 +32,14 @@ Blang Pidië is, in the staff history's Atjeh chapter, the Westkust *bivak* whos
 - [[Meulaboh]]
 - [[1942]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Military post on the [[Westkust]] road, between [[Lam lë]] and [[Tapa Toean]].[[Bivak]] whose commandant still functions as schakel-officier.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 52, 328.*
+
 ## Source
 
 *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 115, 133–137.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 52, 328.

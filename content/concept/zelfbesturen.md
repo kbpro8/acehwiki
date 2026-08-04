@@ -149,6 +149,12 @@ By article 15 sub I of the *zelfbestuursordonnantie*, [[Staatsblad 1919 No. 822]
 - [[Staatsblad 1919 No. 61 jo No. 281]]
 - [[Three-month warning term for re-clearance in the Atjehnese self-governing territories]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Form of government in which a [[zelfbestuurder|Zelfbestuurder]] rules a [[landschap]], after signing the [[Korte Verklaring|korte verklaring]] and being confirmed by the government. Distinguished from rechtstreeksch bestuur ([[Rechtstreeks bestuurd gebied|direct rule]]).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 332.*
+
 ## Source
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 5–8 (Bestuurs-organisatie).
@@ -158,3 +164,5 @@ By article 15 sub I of the *zelfbestuursordonnantie*, [[Staatsblad 1919 No. 822]
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter V, pp. 30–35; Chapter IV, p. 23; Chapter XVII, p. 160; Appendix, p. 169.
 
 *Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 195.

@@ -52,6 +52,12 @@ Despite the failure of the first attack, Loudon remained in office while prepara
 - [[1873]]
 - [[1874]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Charged by the opperbestuur, supported by sea and land force, to demand clarification, arrange a settlement and demand recognition of Dutch [[Suzerainty question|sovereignty]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 394.*
+
 ## Source
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne (Schiedam: J. F. Dupont, [[1912]]), Chapter I, pp. 1–52.
@@ -61,3 +67,5 @@ Despite the failure of the first attack, Loudon remained in office while prepara
 *De waarheid over onze vestiging in Atjeh*, door J. van Swieten (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 4, 13, 60.
 
 Verslag van het verhandelde in de vergaderingen der Tweede Kamer in comité-général van [[16 April]]–[[20 April]] [[1874]]: *Oorlog met Atjeh* (Algemene Landsdrukkerij, [[1881]]), pp. 7–95.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 394.

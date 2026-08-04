@@ -30,6 +30,7 @@ The most damaging single tactical episode involving the sawah in Borel's account
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters V, X, XIII, XV, *'Perlak, land van peper en olie'*, *'In het land van Peusangan'*, *'Het groote rijstland Pidië'* and *'Groot-Atjeh'*, passim.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 57, 60, 62, 187, 199, 209, 210.
 ## Account from Atjeh als land voor handel en bedrijf (1925)
 
 **Sawah** was irrigated rice field in [[Atjeh]], contrasted with rain-dependent *blang*, *tegal* dry fields, *ladang* slash-burn.
@@ -78,6 +79,12 @@ Irrigation attempt [[Peusangan]] at [[Panté Lhong]] two arms sea damming one ar
 - [[Peusangan]]
 - [[Peureula]]
 - [[Pidie]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+[[Sawah|Irrigated rice field]]. [[Sawah]]-gebied characterizes the first 40 km of road from [[Koetaradja]] to [[Seulimeum]], and the area around [[Tangsé]]. Bevloeiingswater (irrigation water) is distributed via a partition system allowing different phases of rice cultivation in close proximity.[[Sawah|Irrigated rice field]]. Lower quartaire terraces used for [[Sawah|sawah]]. [[Sawah]] complexes in North-Aceh (e.g., 500 H.A. reclaimed in [[Peusangan]]Natte rijstvelden (wet rice fields) for rice cultivation; dependent on irrigation; in[[1937]] areaal ~140,500 HA in Aceh yielding ~207,000 ton ([[Peeled Rice (Aceh)|gepelde rijst]] = husked rice). Subject to braak-liggen (fallow) period when second crops planted.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 57, 60, 62, 187, 199, 209, 210.*
 
 ## Source
 

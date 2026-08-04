@@ -248,6 +248,12 @@ The trade of the West Coast remained of small extent, chiefly through the stay o
 - [[Scheepvaartregeling|Scheepvaartregeling in Atjeh]]
 - [[Tapa Toean]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Afdelingshoofdplaats on [[Westkust]], 245 km from [[Koetaradja]]. Has [[Koninklijke Paketvaart Maatschappij (K.P.M.)|K.P.M.]] connection, postauto (private unsubsidised) service, [[A.S.S.]] autobuses. Surrounding enterprises: [[Meureubo]] (rubber), [[Seunagan]] (oil palm), [[Seumanjam]] (oil palm), [[Tripa]] (rubber). Since [[Société Financière des Caoutchoucs (S.F.C.)|S.F.C.]] acquired interests in [[1926]], more activity. Hospital and medical facilities.[[onderafdeeling|Onderafdeeling]] on the [[Seunagan|West Coast]] of Aceh; one of only two [[Seunagan|West Coast]] areas with tertiair heuvelland. Has a coastal plain. Site of rubber and oil palm estates by [[Société financière des caoutchoucs|Société Financière des Caoutchoucs]]. Subject to heavy [[Indische Oceaan|Indian Ocean]]surf and swamp formation.[[onderafdeeling|Onderafdeeling]] on [[Westkust]]; coal investigations [[1901]] between [[Meureubo]] and [[Seunagan]]Onderafdelingshoofdplaats and standplaats of the[[Assistent-Resident]] of the [[afdeeling]] [[Westkust van Atjeh]]. One of the starting points of the [[transversaalweg]]. Under [[Assistent-Resident]] from [[1878]]. Currently still under a [[kapitein-fungeerend-controleur]](military civil administrator).[[Westkust]] town near where [[Teukoe Oemar]] fell; an obelisk [[Marks|marks]] the spot. He died at [[Oedjoeng Kala]] when attempting to attack and burn that kota.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 51, 188, 189, 192, 196, 197, 198, 199, 203, 287, 295, 323, 329, 331, 336, 337, 354, 402.*
+
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -267,3 +273,5 @@ The trade of the West Coast remained of small extent, chiefly through the stay o
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapters XI, XII, XIII, XVI, pp. 110–112, 121–129, 132, 157.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 37, 40–41, 49–50, 54, 71, 76, 80, 85, 157.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 51, 188, 189, 192, 196, 197, 198, 199, 203, 287, 295, 323, 329, 331, 336, 337, 354, 402.

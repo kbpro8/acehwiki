@@ -42,6 +42,14 @@ Zentgraaff was, with du Croo and [[H. J. Schmidt]], one of the principal chronic
 - [[W. J. Mosselman]]
 - [[General Swart, Pacifier of Atjeh (1943)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+During a journalistic journey in [[1937]] he coined the name 'terpentijnstraat' (turpentine road) for the proposed road through the [[Tripa]] valley to Aceh's [[Westkust]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 80.*
+
 ## Source
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter I, p. 2; Chapter X, pp. 93–101; Chapter XII, pp. 118–119; List of works consulted, p. 177.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 80.

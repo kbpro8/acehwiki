@@ -40,6 +40,14 @@ In this legend, typifying the vileness of the origin of the Niasese in Achehnese
 - [[Haj]]
 - [[Peusijuek (cooling ceremony)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Source of [[Nias]] slave women, considered more attractive than Acehnese women, used as concubines and influencing the Acehnese 'race'.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 56, 95.*
+
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 56, 95.

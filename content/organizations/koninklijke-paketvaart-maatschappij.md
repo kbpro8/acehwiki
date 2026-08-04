@@ -150,6 +150,12 @@ Langhout, quoting Dr. [[Broersma]]'s article in the *Indische Gids* (late [[1922
 - [[Rotterdamsche Lloyd]]
 - [[Ocean Steamship Company]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+[[Koninklijke Paketvaart Maatschappij]] — maintains busy trade relations with [[Penang]] from [[Lho'Seumawé]]; new steiger at [[Lho'Seumawé]] taken into use in year of writing. Large [[Koninklijke Paketvaart Maatschappij (K.P.M.)|K.P.M.]] ships can lie at the steiger of [[Koeala Langsa]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 86, 90.*
+
 ## Sources
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapters III, VII, IX, XIII, XIV, XV, passim.
@@ -167,3 +173,5 @@ Langhout, quoting Dr. [[Broersma]]'s article in the *Indische Gids* (late [[1922
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 125, 155–158, 180, illustration caption p. 154.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 86, 90.

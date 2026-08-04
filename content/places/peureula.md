@@ -205,6 +205,12 @@ Now there lie drilling terrains of [[Perlak Petroleum-Maatschappij]] which [[Bat
 - [[Teukoe Tjhi Peureula]]
 - [[Atjeh Tram]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+[[landschap|Landschap]] (historic kingdom of [[Perlak]]) on [[Atjeh's Oostkust (East Coast of Aceh)|Oostkust]]; petroleum traded as early as [[16th century]] from natural seeps; first oil borings [[1900]] by [[Holland-Perlak Maatschappij]]; 128 km pipeline to [[Pangkalan Brandan|Pangkalan Brandan refinery]] [[1901]]; now in hands of [[N.V. Perlak Petroleum Mij.]] & [[N.V. Petroleum Mij. Zuid Perlak]]Location of BPM oil fields; aerial cartography (luchtkaarteeringen) conducted from the[[1934]] Idi/[[Peudawa]] landing field.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 85, 88, 208, 295.*
+
 ## Source
 
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 9 (Table 4: Oil production in the East Indies in 1940 and 1941).
@@ -215,3 +221,5 @@ Now there lie drilling terrains of [[Perlak Petroleum-Maatschappij]] which [[Bat
 *Nederlandsch Indië Platen Atlas met korte beschrijvingen*, uitgegeven door Volkslectuur, Weltevreden, Java. Weltevreden: G. Kolff & Co., January 1926. Chapter IV (Godsdienst), p. 75.
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 68, 83–85, 160–163, illustration captions pp. 135, 160–162.
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 25-34.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 85, 88, 208, 295.

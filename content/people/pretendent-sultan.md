@@ -34,8 +34,16 @@ the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indi�
 - [[Zuider- en Oosterafdeeling van Borneo]]
 - [[Brigade (Maréchaussée)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Unrecognized pretender to the Atjeh [[sultanate]] who surrendered in the Gouverneurshuis at [[Koeta-Radja|Koeta Radja]]. Later banished (verbanning). Photographed before his banishment with caption 'F.[[Darlang|DARLANG]] 21 4PHL [[1317]]'.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 324, 325.*
+
 ## Source
 
 *Het einde van den Atjeh Oorlog* (Overprintken uit de *Evening Post* van 25, 26 en 27 Augustus 1903, pp. 10-11, 14-16); Somer, Dr. J. M. *Het Atjeh-probleem van 1890-1900* (Overprint uit *Journal / Organ van de Netherlands-Indies Officers Association*, [1935], pp. 4-7); Damste, H. T. "Atjeh-historie," *Koloniaal Tijdschrift* 1916.
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 324, 325.

@@ -85,6 +85,12 @@ In the Gajo lands the potato, until then unknown, was introduced under Van Daale
 - [[Laoet Tawar]]
 - [[Agriculture in Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Interior highland region opened to cultivation when the [[Gajo-weg]] was completed in [[1914]]. Focus of mountain cultures (tea and coffee). Circumcision practices differ from coastal Aceh.[[Gajo-land (Gayo Land)|Gajo]] people; gold washing historic and current; pine forests; coffee; potatoes; rice-growing using fire-light methods to keep animals away.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 141, 142, 143, 195, 204.*
+
 ## Sources
 
 *Zelfbestuursverordeningen Atjeh en Onderhoorigheden*, Serie A No. 9 of the *Mededeelingen van de Afdeeling Bestuurszaken der Buitengewesten van het Departement van Binnenlandsch Bestuur*, Weltevreden: Landsdrukkerij, 1930, esp. Inhoud (pp. V–VII). OCR-filename: `20260719_030404_DLP-112-Zelfbestuursverordeningen_Atjeh_en_onderhoorigheden_Nemotron-OCR-v2_OCR.txt`.
@@ -92,3 +98,5 @@ In the Gajo lands the potato, until then unknown, was introduced under Van Daale
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 37–38, 80–81, 83, 88–90, 105, 112, 125, 128, illustration caption p. 88.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 141, 142, 143, 195, 204.

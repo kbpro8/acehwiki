@@ -22,6 +22,14 @@ An ultimatum remaining unanswered, the military expedition of Colonel [[Demmeni|
 - [[P. F. Laging Tobias]]
 - [[Teukoe Oemar]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Was still holding the 'Niserosschip' castaways in medio [[July]] [[1884]] when Governor [[Laging Tobias]] tried to use [[Teukoe Oemar]]'s help to free them.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 353.*
+
 ## Source
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 54–57.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 353.

@@ -23,6 +23,14 @@ On [[1 October]] [[1904]] the government of the Netherlands Indies passed from [
 - [[Koeta Radja]]
 - [[Government of Atjeh en Onderhoorigheden]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Replaced [[Generaal J. B. van Heutsz|Van Heutsz]] as Governor on [[6 September]] [[1904]]. Soon succeeded by [[Eduard Cornelis van Daalen|Colonel Van Daalen]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 403.*
+
 ## Source
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 86–88.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 403.

@@ -33,6 +33,14 @@ Lae Boetar is, in the staff history's Atjeh chapter, the southern Dutch anchor o
 - [[Singkel]]
 - [[1942]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Enterprise of the [[Société Financière des Caoutchoucs (S.F.C.)|S.F.C.]] ([[Société financière des caoutchoucs|Société Financière des Caoutchoucs]]) above [[Singkel]]. Excellent grounds. Has production unmatched by any other oil palm enterprise; also produces some rubber and coffee.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 56.*
+
 ## Source
 
 *Nederlands-Indië contra Japan*, Deel VI: *De strijd op Ambon, Timor en Sumatra*, bewerkt door C. van den Hoogenband en L. Schotborgh ('s-Gravenhage: Staatsdrukkerij- en Uitgeverijbedrijf, 1959), Hoofdstuk V ("De strijd in Noord-Sumatra (Atjeh)"), pp. 128–137.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 56.

@@ -271,6 +271,12 @@ The observation belongs to De Boer's larger thesis that neither the [[Gampong|ga
 - [[Beschikkingsrecht in Atjeh]]
 - [[Het recht op den grond in Atjeh (De Boer)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Not explicitly defined in pages 1-70, but related to the [[Sagi|sagi]] and [[Gampong|gampong]] system that the Sagihoofd (e.g., [[Teukoe Panglima Polem]]Not explicitly defined in this page range but referenced indirectly as Acehnese administrative unit.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.*
+
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 5–6, pp. 58–88.
@@ -305,3 +311,5 @@ The observation belongs to De Boer's larger thesis that neither the [[Gampong|ga
 *De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 1–465.
 
 *Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.

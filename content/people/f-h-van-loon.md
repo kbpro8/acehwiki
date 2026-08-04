@@ -16,6 +16,14 @@ One of the first measures of Governor Van Sluys, after taking office in Septembe
 - [[Public health in Atjeh]]
 - [[Government of Atjeh en Onderhoorigheden]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+In [[1920]] was commissioned to investigate the number of insane in Acehsche residency and [[Onderhoorigheden|onderhoorigheden]] needing institutional care and to gather data for solving the lunacy issue. Began at [[Koeala Simpang]]; investigated the whole line to [[Koetaradja]]. Estimated serious insane at >[[1000]], with many more less serious cases. Wrote report. Quoted on [[Atjeh-moord]] motivations and on the emotional/nervous excitability of the Acehnese.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 366, 367, 368, 381.*
+
 ## Source
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 117–118.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 366, 367, 368, 381.

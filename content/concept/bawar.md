@@ -32,6 +32,14 @@ The *bawar* principle — that the physical regalia constitute the title, not th
 - [[Sultans of Atjeh]]
 - [[Keris kepala soeasa]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Stabbing weapon with a peculiarly curved blade in a long sheath, given by [[Sultan of Aceh|the Sultan]] of Aceh to [[Radja Kemala]] of [[De Alaslanden|Alaslanden]] as a sign of good relations. Possession was highly prized and elevated the possessor in the eyes of the people.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 97.*
+
 ## Source
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 96–98. Citing C. Snouck Hurgronje, *Het Gajoland*, pp. 170–191.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 97.

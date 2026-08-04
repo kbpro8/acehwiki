@@ -34,6 +34,14 @@ Lands permission agriculture, not *erfpacht*, no mortgage possible payment to la
 - [[Mopoli]]
 - [[Batang Ara]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Palm-oil factory near [[Kwala Simpang]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 90.*
+
 ## Source
 
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 9-12.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 90.

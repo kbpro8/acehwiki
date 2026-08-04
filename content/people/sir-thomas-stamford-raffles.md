@@ -80,6 +80,12 @@ Raffles is remembered as the founder of Singapore and a key figure in the expans
 - [[Aceh]]
 - [[Sumatra]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+On [[22 April]] [[1819]] signed a contract intended to bind Aceh entirely to [[Engeland (England)|England]] and prevent settlement by third parties, while willing to trade with them. This [[Raffles]]-tractaat was automatically abrogated by the [[London|Londensche]] tractaat of [[17 March]] [[1824]] (by which [[Engeland (England)|England]] withdrew completely from Sumatra in exchange for [[Malakka]]).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 393, 394.*
+
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -89,3 +95,5 @@ Raffles is remembered as the founder of Singapore and a key figure in the expans
 *Als officier van gezondheid naar Nederlandsch-Indië*, by Dr. Johan Wøller, trans. Greta Baars-Jelgersma (Utrecht: Erven J. Bijleveld), pp. 140, 144.
 
 *"Dispereert Niet: Twintig Eeuwen Historie van de Nederlanden", Deel XI*, by A. Algra and H. Algra (Franeker: T. Wever, 1946).
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 393, 394.

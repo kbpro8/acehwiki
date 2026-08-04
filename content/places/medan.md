@@ -36,6 +36,14 @@ Medan's significance in the encyclopedia of [[Acheh|Achehnese]] history is as th
 - [[Noord-Sumatra (proposed gewest)]]
 - [[Aceh War]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+City in East Sumatra, ~160 km from [[Langsar|Langsa]] and ~600 km from [[Koeta-Radja|Koeta Radja]]. Has an H.B.S. (higher civic school). Closer to [[Langsar|Langsa]], making [[Langsar|Langsa]] more attractive as a station. [[Medan]] residents have their own bovenlanden ([[Prapat]]Capital of[[Sumatra's East Coast|Sumatra's Oostkust]]; main cattle consumption centre (abattoir); terminus of 217 km road from [[De Alaslanden|Alaslanden]]; headquarters of several firms with Aceh bijkantoren ([[Deli Courant]], etc.).[[Sumatra's East Coast|Sumatra's Oostkust]]; southern terminus of the road and railway connections from [[Koeta-Radja|Koeta Radja]]. European travelers could do [[Medan]]-[[Koetaradja]] by auto in one day, vs. two days by train.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 15, 77, 79, 80, 89, 90, 287, 292, 293.*
+
 ## Source
 
 *DLP-84-Atjeh.pdf*, Part 5 of 5, p. 16.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 15, 77, 79, 80, 89, 90, 287, 292, 293.
