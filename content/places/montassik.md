@@ -38,6 +38,10 @@ The V Moekims Montassik were the object of two major Dutch operations in [[1896]
 
 The V Moekims Montassik were the principal south-eastern bastion of Achehnese resistance and the immediate geographic object against which the [[buitenpost|buitenposten]] of [[Senelop]] and [[Lamsoet]] had been built. Their *tuchtiging* in [[June]] [[1896]] was the second-largest operation of the first semester of [[1896]] after the [[Three-day Dutch offensive of 23–25 May 1896|three-day offensive]] against [[Teuku Umar]], and demonstrated the new Dutch policy of moving beyond the old defensive *linie* into active chastisement of hostile mukims. The death of [[T. Hoesin Lhongbatta|Toekoe Hoesin Long Bata]] removed one of the most dangerous Achehnese war-leaders in this region.
 
+## Account from H. F. Meijer (1883) — the mesigit of Montasih, August 1876
+
+Meijer's calendar of the Habib's advance gives Montasih's mesigit as the place of assembly of the enemy chiefs in August [[1876]]: on [[12 August]] the Dutch spies reported that [[Habib Abdoerrachman el Zahir|Habib Abdoer Rachman]] had for some days been keeping to the mesigit of Montasih and had many principal heads there with him — [[Panglima Polim]], [[Toewankoe Moeda Daoed]] and [[Toewankoe Hasjim]], names known well enough to need no comment. To the question of Toewankoe Hasjim why he did not let his fighters move up against the kafirs, the Habib is reported to have answered: *"I wish first to pay a visit to the Mesigit Raia, which I have myself built, and to pray there"* — a resolution which he was said actually to have executed with some followers, and after which he declared that a divine revelation had pointed him out the 27th of the month Redjeb ([[17 August|17]]–[[18 August]] [[1876]]) as the favourable day for an attack on the Dutch troops. On [[27 August]] he was again reported to have gone to Montasih, his prestige and influence ever increasing.
+
 ## See Also
 
 - [[K. van der Heyden]]

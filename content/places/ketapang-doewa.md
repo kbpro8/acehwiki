@@ -28,6 +28,12 @@ Ketapang Doewa remained contested after [[15 February]] [[1874]]. It appears aga
 
 **Ketapang Doewa** is significant because it shows how a small place could become central in a larger military argument. It was not just a kampong on the map. It became an example of the difference between capturing ground and truly controlling it.
 
+## Account from H. F. Meijer (1883) — the kampong and its post, 1876
+
+Meijer gives Ketapan Doewa its situation on the right bank of the [[Kroeëng Daroe]], with a good, restored and later renewed bridge across the river; over that bridge went the old Atjehnese paved dike, one metre wide, crossing the marsh to kampong Garoet, and the way for the later straighter Dutch road past the kampong. The weekly head of the kampong was [[Mat Saïd of Ketapan Doewa|Mat Saïd]], whose failure to supply the ordered bridge materials and whose suspicious travels led to the [[Arrest of Mat Saïd (8 May 1876)|arrest of 8 May 1876]]. South and west of the fort the ground is low and swampy and at times of high river a mud pool. Between it and Garoet there stood, in the days of springs, a stone dike of Atjehnese work; on the falls before the dike the enemy's bandits repeatedly took their stand for attacks at the Dutch posts in the year.
+
+On [[20 April]] [[1876]] the post was alarmed in vain by night; on [[23 April]] a small band of Atjehers tried to steal up on it in daylight, three quarters of an hour past noon, and was driven back for the first time wholly without losses; on [[17 July]] the last great fight of the road between the post and [[Boekit Daroe]] took place, with the destruction of the escort of corporals [[Ambush between Boekit Daroe and Ketapan Doewa (17 July 1876)|Wensting and Wijnen]]; and its garrison and the terrain around were the enemy's habitual watching ground, as Meijer's record of the month's steady spying on the post shows.
+
 ## See Also
 
 - [[Expedition to Ketapang Doewa (15 February 1874)]]

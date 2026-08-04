@@ -22,6 +22,12 @@ Captured by the [[Royal Netherlands East Indies Army]] during the [[Second Aceh 
 
 During [[General Pel's Campaign in Aceh]] in [[1875]] and [[1876]], General [[J. L. J. H. Pel]] utilized Fort Sinangri as an administrative anchor for his defensive chain around Kotta Radja. Troops of the [[6th Infantry Battalion]] and [[8th Infantry Battalion]] stationed at Sinangri covered the transport of artillery across the Aceh River during the [[Attack on Mibouw]] and the [[March through the XXII Moekims]].
 
+## Account from H. F. Meijer (1883) — the besieged island post of Sinangri
+
+Meijer gives Sinangri its situation as the Dutch post raised about the middle of [[1874]] in the southwestern part of an island in the great lagune south of [[Oleh-leh|Olehleh]]: its garrison had spent eighteen months as it kept under siege by the enemy, who from his strong, unapproachable positions along the whole left bank of the lagune had done everything to make life there unsafe, enfilading the soldiers' quarters from across the arm of the lagune until they had to be blinded with double rows of sleeping tables — whose many bullet holes proved, to Meijer, that no useless work had been done.
+
+The island itself is V-shaped: the arms of the lagune knit around it in the most capricious bends; the Atjehnese had laid dikes with water passages through those arms, by which Sinangri's people communicated at low water with the kampongs across; and the whole left bank of the lagune to Koewala Tjangkoel was lined with the enemy's works — small redoubts and *flèches* connected by trenches, with grenade-proof dug-outs and a dozen pieces of iron ordnance. Only because the Dutch march on [[30 December|30]]–[[31 December]] [[1875]] from [[Djempit]] to [[Pakan Badak]] made that strong position untenable did the enemy give it up. Afterwards the post lost nearly all its meaning, its garrison was reduced to one section, its armament removed, and its only task left was the guarding of the new bridge of boats and then juk bridge over the lagune that secured communication with Olehleh.
+
 ## See Also
 
 - [[Generaal Pel]]

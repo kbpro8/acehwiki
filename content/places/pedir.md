@@ -18,6 +18,12 @@ The [[Pidië Expedition]] began on [[1 June]] [[1898]] at [[Segli]]. [[Van Heuts
 
 The capture of [[Keumala]] on [[14 June]] [[1898]]—only two weeks after the campaign began—demonstrated the effectiveness of the new approach. Following the capture, [[Pedir]] remained under Dutch control, and the coastal blockade was completed. The resistance leader, deprived of his sea connection and pursued relentlessly, was eventually forced into the highlands of [[Samalanga]] and beyond.
 
+## Account from H. F. Meijer (1883) — the Dutch establishment of 1876
+
+Meijer's Chapter VIII gives the fullest Dutch account of the first Pidir establishment. The realm bordered on the west on the [[XXII Moekims]] of Groot-Atjeh, 65 to 70 kilometres from Kroeëng Raja by the much-used road along the beach, while the little-used road through the interior would take three and a half to four days. Meijer explains the state's place in the war economy: together with [[Gigiëng]] — with whose rivers Pidir shares one mouth — it had become the natural supply place of the whole war party of Groot-Atjeh when the blockade closed [[Oleh-leh|Olehleh]] and Kroeëng Raja. The prince [[Toengkoe Radja Pakik]] confirmed his submission on the Koran at the end of February [[1876]] and ceded a terrain free of charge for the Dutch establishment; a commission chose the point near the beach on the creek by which sloops could reach the river mouth at high tide, 1,800 metres from the royal residence; and the [[Occupation of Pidir (31 May - 4 June 1876)|landing of 31 May – 4 June 1876]] landed the detachment of Captain [[J. R. Engelhard]] there, a first garrison of 244 men with 2 mountain guns, 4,000 sandbags and 35,000 randjoes, which built the fortification by the end of June amid the daily pressure of hundreds of openly hostile armed Atjehers. Until the coming of Assistant-Resident [[De Scheemaker]] political affairs remained with the station commander Captain-Lieutenant [[Meijn]].
+
+In the same chapter Meijer records how an embassy from the prince, on [[5 August]], came to Kota Radja to signal the royal good disposition and was shown all the Dutch establishment. The post was, for all its long usefulness — as he writes at the close of his account — moved nevertheless in [[1877]] to [[Segli]].
+
 ## See Also
 
 - [[Pidië Expedition]]

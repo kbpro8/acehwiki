@@ -79,6 +79,14 @@ Wiggers van Kerchem's brief governorship is, in Van Heutsz's narrative, the stra
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. pp. 303, 306–308, 311, 320–322, 332.
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter V, "Periode onder de generaals Wiggers van Kerchem en Diemont, van Maart 1876 tot Juni 1877." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 20, 22–23.
 
+## Account from H. F. Meijer (1883) — the commander of the consolidation
+
+[[Kolonel Meijer|H. F. Meijer]]'s official history *[[Atjeh van 26 December 1875 tot 4 September 1876]]* ([[1883]]) shows Wiggers van Kerchem as the commander of the consolidation that followed Pel's death. Between 9 March and 4 September [[1876]] the Dutch troops did not act offensively: the general had the order to restrict himself to the consolidation of the occupied position and to the urgent building of roads and clearings. Under him the posts of [[Night attack on Atoë Noord (22-23 March 1876)|Atoë Noord]] (March), [[Biloel Zuid]] (May) and [[Sweep of the IV and VI Moekims (8-15 July 1876)|Kroeëng Raba]] (July) were founded; Colonel [[K. van der Heyden]] was placed over the south-east line on [[1 April]]; vivres-depots for two months were stored at [[Lambaroe]] and Mesigit Pagar-Ajer; and the long lines of posts were at last joined by beaten roads.
+
+Nevertheless Meijer's chronological record also shows the price of the pause: nearly every night of that spring brought firing on one or more posts, and nearly every month a bloody incident — the ambushes of [[Convoy ambush near Atoë (21 March 1876)|21 March]], [[Koewala Pantjoer patrol ambush (7 April 1876)|7 April]], [[Oleh Karang convoy ambush (16 April 1876)|16 April]], the disasters of [[Night attack on Lampagar (2-3 May 1876)|Lampagar]] (2–3 May), [[Ambush between Oleh Karang and Kota Alam (18 June 1876)|18 June]], [[Ambush between Pango and Kota Alam (14 July 1876)|14 July]], [[Ambush between Boekit Daroe and Ketapan Doewa (17 July 1876)|17 July]] and [[Lo-oe ambush (28 August 1876)|28 August]].
+
+When the general did move, he moved in force: he personally directed the [[Biloel Zuid operation (13-15 May 1876)|march of the three columns to Biloel Zuid]] on 13–15 May and the two-column march of the [[Sweep of the IV and VI Moekims (8-15 July 1876)|July operation]] into the IV and VI Moekims, at the end of which he placed the post at the mouth of the Kroeëng Raba. On [[4 September]] [[1876]] he led part of the troops to the [[XXVI Moekims]] for the closing of the XXII and XXVI Moekims from the sea — resuming Pel's design.
+
 ## See Also
 
 - [[Generaal Pel]]

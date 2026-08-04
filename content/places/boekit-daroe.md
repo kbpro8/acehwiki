@@ -26,6 +26,12 @@ Hooijer recorded that the road shown on the opening plate, running along and ove
 
 Among the signs that the *[[Moslemin]]* still needed a lesson, Hooijer listed that *onze post op Boekit Daroe werd aanhoudend beschoten* — the Dutch post on Boekit Daroe was continuously fired upon — at the same period in which [[Toekoe Moesa Anaq Batee]] attacked the *passer*-goers between [[Lam Barih|Lambarih]] and [[Anagaloeng]] and the population of the southern [[Sagi der XXVI Moekims|XXVI Moekims]] took flight.
 
+## Account from H. F. Meijer (1883) — the pass post at the foot of the Barisan mountains
+
+Meijer describes Boekit Daroe as standing on an old, low hillock — one of the man-made mounds of the sawah, serving the Atjehnese rice-growers as paddy-drying floors and grave knolls — just east of the place where the [[Kroeëng Daroe]] issues at the foot of the [[Barisan mountains]] onto the great sawah plain of [[Blang Daroe]]. The purpose of the post, founded in the January campaign of Pel as one of the VI Moekims works, was to keep the pass of [[Glitaroem|Gli Taroem]] in Dutch hands: the watch of the mountain path that ran between the [[IV Moekims|IV]] and [[IX Moekims]], the only communication between the two districts, with its guard house above the plain on the hill [[Boekit Terin]]. It stood, as Meijer explains, almost in one great pool of mud, surrounded by *rawahs* (drowned paddy hollows) in which a walker sank to the middle, needing help to be pulled out; between the Fort and the Atjehnese camp at Oleh Soosoe lay the open hill plateau conquered in the days of Pel's conquest march of January [[1876]].
+
+Close to its southwest bivouac stood the farmed but walled *mesigit* at the head of the brook, with the farmed bathing place lined in stone; both served the garrison's bath. His garrison commanders' name for the post stands at the top of the official record of [[1876]]: Captain [[Marckert]], who provided to the [[Gli Taroem night ambush (8-9 August 1876)|night operation of 8–9 August]] one of his African fusiliers as guide.
+
 ## See Also
 
 - [[IX Moekims]]

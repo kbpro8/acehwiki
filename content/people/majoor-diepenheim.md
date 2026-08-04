@@ -28,6 +28,10 @@ On [[13 February]] [[1876]] Pango was conquered and a post *opgericht*. The same
 ## Sources
 *Verslagen der Marine‑Vereeniging III 1889‑1890*, J. R. J. P. Cambier, pp. 229‑233. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pages 138‑141.
 
+## Account from H. F. Meijer (1883) — Lambaroe and Kroeëng Raba
+
+Meijer's official history *[[Atjeh van 26 December 1875 tot 4 September 1876]]* ([[1883]]) gives Diepenheim's later part in the year. At the [[Storming of Lambaroe (7 March 1876)|storming of Lambaroe]] on 7 March he led the right half of the [[3e Bataljon|3rd battalion]] with the barisan company into the kampong from the east — a march in which he was fired on from across the Atjeh River and from an unforeseen enemy work on the left bank — and brought his advance guard before the north face of the great fortification just in time to attack it simultaneously with Major [[General van Teijen|Van Teijn]] from the south and east. In May he was appointed to the 1st column of the [[Biloel Zuid operation (13-15 May 1876)|Biloel Zuid operation]], falling sick on the first day and handing command to Captain [[A. Bosch]]. In July he led the 1st column of the [[Sweep of the IV and VI Moekims (8-15 July 1876)|operation in the IV and VI Moekims]], bivouacking on the saddle of the pass of [[Blang Kala]] where Pel had lain on [[16 January]]; he afterwards remained with three companies of the right half of the 5th battalion at the mouth of the Kroeëng Raba to protect the fortification works of the new post, and on [[25 July]] made the [[Reconnaissance to Lepong (25 July 1876)|reconnaissance to Lepong]], which returned that district's people to the authority of their lawful chief [[Toekoe Lampasei]]. On 27–28 July he returned over the pass of [[Gli Taroem]] to Boekit Daroe and Kota Radja.
+
 ## See Also
 
 - [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]

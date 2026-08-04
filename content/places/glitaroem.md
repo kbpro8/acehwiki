@@ -8,6 +8,12 @@ tags: [place, aceh, mountain-pass]
 ### Military Use
 The pass was described as the “eastern exit” leading to the kampong of [[Daroe]]. Its steep, marshy surroundings made movement difficult for infantry, artillery, and cavalry.
 
+## Account from H. F. Meijer (1883) — the pass of Gli Taroem
+
+Meijer's thorough description of the pass — a footnote meant to correct the old error of the first campaign — gives Gli Taroem not as a ravine (*kloof*), as it had been repeatedly misnamed, but as a mountain path forming the regular communication between the [[IX Moekims|IX]] and [[IV Moekims]]. The saddle lies about 95 metres above sea level and is about 100 metres long. On the eastern side the path begins just west of [[Boekit Terin]], very steep, washed out of the rocky mountain and strongly uneven, climbing to the culmination through the bottom of a ravine over countless great and small boulders; on the west side the slope is considerably flatter and the way much easier. The heights are covered with light undergrowth; on the saddle the path runs through tall alang-alang between shrubs.
+
+The pass fell into Dutch hands with the invasion of the IX Moekims at the end of January [[1876]]; the Dutch held its mouth from [[Boekit Daroe]] and its watchers from the fort on [[Boekit Terin]]. Through it moved the enemy bands between the two districts — in 1876 the means of the nightly rice transport from the IV Moekims to the hungry [[XXII Moekims]], the traffic spied out and attacked by the Dutch in the [[Gli Taroem night ambush (8-9 August 1876)|night ambush of 8-9 August]]. Through it, on [[28 July]], Major [[Majoor Diepenheim|Diepenheim]] marched from Boekit Seboen back to Boekit Daroe, and through it the enemy's bands answered the [[Voigt expedition to the IV Moekims (1-3 June 1876)|Voigt expedition]] by leaving the IV Moekims.
+
 ## See Also
 - [[Beradin]]
 - [[Daroe]]

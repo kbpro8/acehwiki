@@ -18,6 +18,12 @@ The same day saw the [[Atoeh catastrophe (13 February 1876)|Atoeh catastrophe]]:
 
 Pango was one of the posts inside the geconcentreerde stelling (concentrated position) of [[1885]]. The post existed before the concentration and was expected to be evacuated after the new [[Lampermej]] post on the right bank of the [[Atjeh-rivier]] was occupied on [[27 July]] [[1885]]. The [[Lampermej]] post assumed the function previously served by Pango, and its completion would allow for the final consolidation of the southern section of the perimeter.
 
+## Account from H. F. Meijer (1883) — the post and river crossing of Pango, 1876
+
+Meijer gives Pango its use as the Dutch fortification at the well-known Atjehnese crossing of the [[Atjeh River]] on the right bank, built simultaneously with the post of [[Pagar-Ajer]] on the left bank opposite it in February [[1876]], and belonging, with [[Oleh Karang]] and [[Kwala Gigieng|Koewala Gigiëng]], to the most advanced works of the [[XXVI Moekims]]. The terrain about the post was fairly high, consisting for the greater part of grass and of fields earlier used for the cultivation of sugar cane; a *gierpont* (flying ferry) over the river kept its communication with Pagar-Ajer — broken away once in the March flood — and all its provisions reached it by prauw along the river, convoyed till Pagar-Ajer and thence by forced-labourers, the only transport the enemy never harassed.
+
+Pel designated Pango as the farthest supporting point of the new line towards Koewala Gigiëng. Its patrols were forbidden to cross to the enemy side further than the safety of the posts demanded, and its bread and meat were fouraged daily at [[Kota Alam]] — the fouraging path whereon fell, on [[Ambush between Pango and Kota Alam (14 July 1876)|14 July]], the worst Dutch reverse of the year: ten of twenty-two armed men of sergeant Ribbink's detachment left dead and seven wounded by an ambush on the open fields halfway. Meijer's June flood broke the chain of its gierpont and floated the ferry away at once.
+
 ## See Also
 
 - [[III Moekims]]

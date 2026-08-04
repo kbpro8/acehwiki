@@ -53,6 +53,12 @@ Pangkalan Brandan is significant for the encyclopedia of [[Acheh]] history becau
 
 **Pangkalan Brandan** — modern *Pangkalan Brandan* — is a harbour-place on the [[Oostkust van Sumatra|Oostkust van Sumatra]], the destination of the 120 km pipe-line by which the [[Bataafsche Petroleum-Mij|Bataafsche Petroleum-Mij]] pumps the crude oil of the [[Perlak Petroleum-Mij|Perlak Petroleum-Mij]] from [[Rantau Pandjang|Rantau Pandjang]] in the *landschap* of [[Peureula (Perlak)|Peureula (Perlak)]]. The Bataafsche does not process the oil at Rantau Pandjang but pumps it through the pipe-line to Pangkalan Brandan, where it is shipped. Only the gases are compressed at Rantau Pandjang into oil, which is likewise pumped away. Pangkalan Brandan was, with [[Pangkalan Soesoe|Pangkalan Soesoe]], one of the two great oil-ports of the northern Sumatran coast in the early civilian period.
 
+## Account from J. Roest (1916) — Brandan in the railway debates of 1912–1915
+
+[[J. Roest]]'s chronicle *[[De spoorwegverbinding tusschen Deli, Atjeh en de Aroebaai]]* (December [[1916]]) gives the place from the standpoint of the [[1912]]–[[1915]] railway disputes: the existing import and export harbour of [[Tamiang]] was seated here, in the river of the Babalan — as [[Schadee]], the former administrator of the [[Deli Spoorweg Maatschappij]], proved to the [[Cultuurraad]] out of the traffic statistics, correcting the Minister's preference of [[Telok Taboeban|Telok Taboehan]]. Its Chinese shop-house colony of about eighty at [[Koeala Simpang|Kwala Simpang]] took, with their nearly all-Brandan branches, a third of Brandan's import trade, worth at least a million guilders of trade and f 100,000 of profit yearly — the ground of his argument that the 8-K.M. connection Pematang Pandjang–Pangkalan Brandan, estimated at f 300,000, was a small expense for so great a market.
+
+Roest cites, too, the Deli Company's reserve: its application of the beginning of [[1911]] for a preference in the concession from Pangkalan Brandan to the [[Aroebai|Aru Bay]] had been meant as goodwill only, and the company would hardly use it where the Government set no price on cooperation. By his year-end account of [[1915]] the plantation region's expectation had changed: the Government abandoned provisionally a state-built connection of the two railway systems, and the company itself would now build the line [[Besitang]]–Pangkalan Brandan.
+
 ## See Also
 
 - [[1883]]

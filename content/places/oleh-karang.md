@@ -16,6 +16,12 @@ As recorded in *Atjeh gedurende de tweede expeditie en later* ([[1876]]), Acehne
 
 During the [[Concentration Decision of August 1884|concentration period]] of [[1884]]–[[1885]], [[Oleh-Karang]] served as a depôt van materialen (materials depot) supporting the construction of new posts at [[Boekit-Karang]], [[Roempit]], and [[Tjot-Iri]]. Roads were built from Oleh-Karang to these new positions, and materials were staged there before being moved to the construction sites. The use of Oleh-Karang as a logistical hub illustrated the systematic approach to implementing the concentration: materials from evacuated posts and northern stations were efficiently redistributed to support new construction.
 
+## Account from H. F. Meijer (1883) — the stronghold-mesigit of Oleh Karang, 1876
+
+Meijer gives Oleh Karang its situation as the Dutch fortification named after the *mesigit* taken possession of by the troops on [[22 February]] [[1876]] — of all the mosques conquered in that period unquestionably the most strongly fortified: the square, of 50-metre sides, in which the mesigit and the attached buildings stood, was wholly surrounded except on the east by an earth breastwork two metres high with perpendicular walls held between baulks, planks, trunks and ratan, an earth banquette, a ditch of two metres wide and one deep filled with a bamboo-thorn abatis, and on the open east face a living fence that was halved and backed by a coconut palisade. A few days' work turned the conquered position into a properly secured work.
+
+Its situation lay among sawahs on the north and east, leaning on kampongs on the south and west: the ground towards kampong Lemboecq was crossed at random by old water channels, presumably connected with the Kroeëng Tjoet. The road from it to [[Kota Alam]] was soon opened, cleared and made firm, but the direct road from it to [[Pango]] across kampong Tjiri and the edge of kampong Lamkapang, held by the enemy, remained for months impassable and was the road on which the escort of the [[Oleh Karang convoy ambush (16 April 1876)|convoy of 16 April]] and the meat supplies were daily disputed. Its year's records were the ambushes of [[Ambush between Oleh Karang and Kota Alam (18 June 1876)|18 June]] and [[Ambush between Kota Alam and Oleh Karang (28 July 1876)|28 July]] [[1876]] on its fouraging roads, and in the year's flood the sliding of its whole west face into the ditch.
+
 ## See Also
 
 - [[Kotta Alam]]

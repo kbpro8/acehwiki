@@ -14,6 +14,12 @@ In February–March [[1874]], after the [[Expedition to Ketapang Doewa (15 Febru
 
 After several weeks of forced inactivity the Dutch struck again on [[28 September]] [[1874]]. The kampong of Langkroek, leaning against the middle of the Pedir-dijk, was taken by surprise. The plan was Pel's; the execution Wiegand's. The north side of Langkroek was heavily fortified — a continuous line of works armed with light guns — but on the Dutch arrival the works were un- or weakly-held and were captured before the enemy, streaming in from [[Pinang]] and the [[XXVI Moekims]], could resist. The victory was "of great importance, cost almost nothing." Three new posts were immediately erected around Langkroek. Borel criticises Wiegand for not pressing on to take [[Lampriet]], which would have fallen almost without a blow. The post of *Langkroek-oost* was later replaced by the new post at Lampriet after the conquest of Lampriet of [[4 February]] [[1875]] by [[Majoor Romswinckel|majoor Romswinckel]].
 
+## Account from H. F. Meijer (1883) — the Langkroek posts of 1876
+
+Meijer includes Langkroek and Langkroek East, with [[Tibang]] and the two [[Lamara]]'s, among the small square earth redoubts along the left bank of the [[Kroeëng Titi Pandjang]]: small square earth redoubts in marsh ground scattered with salt pans and fish ponds, guarding the eastern approaches of [[Penajoeng]]. On the age-long Atjehnese work near Langkroek the [[Pedir-dijk|Pidir dam]] came down out of the [[Kroeëng Raja]] high country to kampong Koewala; about 300 metres south of Langkroek is the *coupure* in that dike, by which the water of the ditch at its eastern side was carried away into the [[Atjeh River]], and the way over the bridge of that dam came from [[Kota Radja]] by Berouw.
+
+Across the moist ground between Langkroek and the farther northeast posts the garrisons made a clay road, completed with difficulty and usable only in dry weather, that joined these posts to each other and to [[Lamprit]]; with the whole chain of small works they were, in [[1876]], the near watch posts of the Dutch over all movement on the lagune side of the [[XXVI Moekims]].
+
 ## See Also
 
 - [[Pedir-dijk]]

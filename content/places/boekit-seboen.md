@@ -22,6 +22,12 @@ Boekit Seboen was attacked and patrolled from [[23 May]] to [[25 May]] [[1896]] 
 
 Boekit Seboen was the northern anchor of [[Teuku Umar]]'s defensive *stelling* across the [[IV en VI Moekims|IV and VI Moekims]] and the principal Dutch observation post over the coastal *landschap* of [[Lepong]]. Its occupation by the Dutch on the night of [[25 May]] [[1896]] and again on [[4 June]] [[1896]] marked the effective destruction of Umar's northern defences and opened the way for the [[Marine Bombardment of Lepong (25 May, 4–5, 8–9 June 1896)|marine bombardments of Lepong]]. The hill's bombardment together with the kampongs of Lamlon, [[Lambaroe]] (IV Moekims context), and [[Naga Oembang]] indicates the Dutch perception of the hill as a key target in the campaign to break Umar's power.
 
+## Account from H. F. Meijer (1883) — the only post of the IV Moekims
+
+Meijer gives Boekit Seboen as the only Dutch post that existed in the [[IV Moekims]] at the end of March [[1876]], planted on the middle and lowest of the three small hills Seboen, Poelat and Lamtjong at the entrance of the ravine of Beradin. The Dutch fort was built on the basis of an old Atjehnese earthen fort found on the plateau: an old rectangular enclosure whose sides of 54 and 40 metres answered exactly to modern need, on which two round bastions were traced. The first garrison — a company of Africans with some sappers and forced-labourers — lay on the stony ground that carried only alang-alang grass among weathered granite clumps; and the first small bamboo-thorn hedge did not thrive at all. Because the district had submitted voluntarily, the commander had strictly forbidden harm to the people of the district, so the post had to buy its materials of the population.
+
+His account gives the officer's names for its use in these years: the post commander dared not come out from domicile without the district civil officer, who lodged in the fort; [[Toekoe Lampasei]] made it his residence to come into closer contact with his moekims; and the district's patrols — to the borders of the mountains and to [[Kroeëng Raba]] — left from it, with the [[1 June]]–[[3 June]] March of Major [[Majoor Voigt|Voigt]] also taking it as base for the [[Voigt expedition to the IV Moekims (1-3 June 1876)|search for Toekoe Tjihiq Lamngga]]. The difficult 3,600-metre mud road from Pakan Badak to it took his columns three hours.
+
 ## See Also
 
 - [[Three-day Dutch offensive of 23–25 May 1896]]

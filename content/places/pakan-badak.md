@@ -34,6 +34,12 @@ The interior position of Pakan Badak, coupled with its market facilities and pro
 
 Pakan-Badak was evacuated on [[28 February]] [[1885]] as part of the [[Concentration Decision of August 1884|concentration strategy]]. The post was not incorporated into the new geconcentreerde stelling (concentrated position) and was among the outer positions abandoned in the systematic reduction of the defensive perimeter. The evacuation proceeded with minimal casualties: 1 killed and 6 wounded. Routes to the post, including the one from [[Lamdjamoe]], were no longer maintained by the Dutch following the evacuation.
 
+## Account from H. F. Meijer (1883) — the market post of the VI Moekims
+
+Meijer recounts that the Dutch took possession of this market place on [[31 December]] [[1875]]: on a low, man-made mound west of kampong Lambassan stood two large Atjehnese market buildings, 40 by 6 metres, facing each other at twenty paces — later converted into quarters for officers and men. Around them the Dutch work was laid out as a square redoubt palisaded 46 metres with two round bastions, chicanes before every face; a good way to [[Sinangri]] was traced. Pel kept his operating force there for fourteen days for reconnaissance towards Lamdoerian and [[Lampagar]] while the work was built.
+
+Its situation made it the door between the IV Moekims and the world of the Dutch: under the strict orders, all who went to or came from the IV Moekims had to appear at Pakan Badak with their pass, first valid for a couple of days, later for a week and a month; its patrol ground covered the valley up to Beradin and kampongs to [[Lampagar]], the mountains to the southwest, and the ravine opposite Goera; and the ripe paddy of its sawahs was the first harvest the submitted people were officially permitted to reap unarmed, at 300 metres from the post. In the first six months the post and the district were never quiet: every stranger moving with goods between the IV Moekims and Olehleh was watched by the officials there, and in July it became the assembly point of the 2nd column of the [[Sweep of the IV and VI Moekims (8-15 July 1876)|July operation]]. It was the post of the commander of the [[Westerlinie|western line]].
+
 ## See Also
 
 - [[VI Moekims]]

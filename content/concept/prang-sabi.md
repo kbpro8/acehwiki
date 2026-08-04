@@ -118,6 +118,12 @@ The spiritual leader of the Achehnese *in den heiligen strijd* was, in Hooijer's
 
 At [[Anagaloeng]] the defenders were led in their last defence by champions excited by opium, shrieking and leaping like madmen. Hooijer acknowledged, in describing the fighting at [[Kroeng Kali]] and [[Kota Toeankoe]], that the Achehnese defended himself behind his walls *met mannenmoed en doodsverachting* — with manly courage and contempt of death.
 
+## Account from H. F. Meijer (1883) — prang sabil in the year of the Habib's return
+
+[[Kolonel Meijer|H. F. Meijer]], in *[[Atjeh van 26 December 1875 tot 4 September 1876]]* ([[1883]]), records the holy war in the making, in the year after the Habib's landing: Prince [[Toengkoe Bintara Kamangan]] of [[Gigiëng]], after his outward peace had begun to fail, invited the heads of his realm to collect money for the *prang sabil* against the Netherlands — a report brought to the Dutch by the well-disposed moekim head [[Toekoe Imam of Gigiëng]] and one of the foundations of the [[Cancellation of friendship with Gigiëng (19 August 1876)|breach of 19 August 1876]].
+
+The same account shows the war's preacher at the meetings of Groot-Atjeh: the Habib's written declarations, taken from the chiefs of the three [[Sagi]]s in [[1876]] and confirmed by oaths, expressly framed the continuance of resistance as duty.
+
 ## See Also
 
 - [[Sjahid]]

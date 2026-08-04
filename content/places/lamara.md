@@ -14,6 +14,12 @@ Lamara's exposure to *lilla* fire is repeatedly mentioned by Borel. The Atjehnee
 
 By the time the continuous line around [[Kota Radja|K. Radja]] was completed in May [[1875]], the Lamara post had been strengthened and incorporated into the eastern side of the *stelling-Pel*. Borel lists the south side of the line as running from Oedjoeng Planggan through [[Soerian]], [[Poe Oe]], Poengej Blang Tjoet, Lamteboe, [[Setee]] Z., [[Lamara Olejlo]], [[Longbatta]] Z. to [[Longbatta-Mesigit]], and the east side as running from [[Blang Tjoet]] through [[Kota Alam]], [[Lemboe]] O. en N.O., [[Lampriet]], Langkroek O., Lamara Z.O. en N.O., [[Tiban]] to [[Moesapi]]. The Lamara posts (south-east and north-east) thus connected the river-defence chain of the [[Pedir-dijk]] with the eastern sea-face at Moesapi. With the completion of the line, operations could be suspended or postponed, and [[Generaal Pel|Pel]] was granted three months' leave on [[12 June]] [[1875]] to recover his shattered health.
 
+## Account from H. F. Meijer (1883) — the Lamara posts of 1876
+
+Meijer gives Lamara's twin posts of [[1876]] — Lamara Northeast (N.O.) and Lamara Southeast (Z.O.), with [[Tibang]], [[Langkroek]] and Langkroek East — as the small square earth redoubts set along the left bank of the [[Kroeëng Titi Pandjang]], in marshy ground cut by ridges into salt pans and fish ponds, that watched the river and the hostile ground east of it, forbade fishing and salt making, and protected [[Penajoeng]]. Their garrisons fetched cooking wood themselves and drank the water fetched at Tibang.
+
+Both posts were the object of the carefully prepared Atjehnese gate assault in the [[Night attacks on Lamara N.O. and Lamara Z.O. (28-29 May 1876)|night of 28-29 May 1876]]: at Lamara N.O. First Lieutenant [[Verploegh]], at the post since half past two, checked the *"siin, siin"* callers and the first men at the gates — receiving two lance wounds at the gate himself, losing 1 native fusilier; at Lamara Z.O. First Lieutenant [[Mahne]] stood two hours later against four Atjehers already busy destroying the outer gate, repelled them with corporal Mulder's bayonet beside him, suffered two wood blows on the skull and lost no man. It was one of the pair that lay in Meijer's account for the purpose of observing the enemy ground along the Titi Pandjang in his 1876 statistics; the same posts were continually fired on that summer.
+
 ## See Also
 
 - [[Pedir-dijk]]

@@ -42,6 +42,10 @@ Town owes expansion to presence twenties enterprises surrounding in favorable ye
 
 [[Atjeh Tram|Atjeh-tram]] runs middle through [[Temiang]] estates both north and south of town.
 
+## Account from J. Roest (1916) — Kwala Simpang and its Chinese shop-houses
+
+In [[J. Roest]]'s chronicle *[[De spoorwegverbinding tusschen Deli, Atjeh en de Aroebaai]]* ([[1916]]) Kwala Simpang figures, in [[Schadee]]'s argument before the [[Cultuurraad]] of [[20 February]] [[1913]], as the place of about eighty Chinese *kedeh* (shop-houses), nearly all branches of business of their counterparts at [[Pangkalan Brandan]], taking one third of Brandan's import trade — worth at least a million guilders of trade and f 100,000 of profit in the year: precisely the immediate market for the railway connection the plantation region needed. Kwala Simpang stood on the [[Langsa]] tramway with its own harbour; and the hour had of the [[Atjeh-tram]], which Roest reports as the railway dispute's facts, showed the [[Langsa]] harbour at the edge between the trade of the two districts, the Atjeh cultures lying nearer to Langsa by every subsequent extension and Langsa itself, in any further development, having all the chance to become their centre.
+
 ## See Also
 
 - [[1898]]

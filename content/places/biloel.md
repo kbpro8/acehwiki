@@ -108,6 +108,12 @@ Hooijer recorded that provisions were sufficient: only the *toespijzen* (side-di
 
 Biloel and [[Lam Koenjit]] were lifted and burnt in [[April]] [[1896]], the Dutch troops hastening back over the muddy fields on which they had endured almost three years of a temporary station. Hooijer noted that, unlike [[Tjot Goeë]], Biloel was not retained.
 
+## Account from H. F. Meijer (1883) — the first-line post of the Zuidoosterlinie, 1876
+
+Meijer counts the *mesigit* of Biloel one of the most important points on the border of the [[XXII Moekims|XXII]] and [[XXV Moekims]]. On a high and dry part of the terrain at the southwestern edge of the kampong of the same name, it commands the whole sawah plain to the mountains; only on that side is the ground open, elsewhere covered by the thickly wooded kampong. The post was founded on [[5 February]] [[1876]] — Meijer's text expressly warns against confusing that date — in and around the mesigit itself, as a square redoubt of about 42 metres with two round bastions, the prayer house taken inside its wall as the officers' quarters. The sawah before it was almost always too wet to walk; two little water channels gave the enemy the cover for his advances towards it. The imam of Biloel kept a standing strong hostile position opposite the work.
+
+That first week of garrison — after Pel's operating force had passed east on [[7 February]] — the enemy seized the weakness: the road between Biloel and [[Boekit Daroe]] and between Biloel and Kota Radja became dangerous and soon cut. In April [[1876]] the post's patrols made the two great fruit-less reconnaissances of the month — [[5 April]] southeastward and [[19 April]] towards Batoe Lintang — by which the Dutch learned that an entry into the XXII Moekims was not to be made without much trouble. It held to the line the heavier duty when, in May, its southward continuation [[Biloel Zuid]] was founded beneath the mountains: the road between the two works long remained unsafe from the enemy sniping of the wooded ground between them.
+
 ## See Also
 
 - [[12 April]]

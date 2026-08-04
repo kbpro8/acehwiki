@@ -69,6 +69,12 @@ That, he said, had been done. After the expulsion the chief of that district had
 
 Answering the charge of cruelty, Cremer described the departure of the expedition to Segli as reported to him by an eyewitness: a general excitement prevailed among the soldiers as they marched out; short addresses were delivered by the battalion commanders reminding them of their duty towards Queen, fatherland and colours; the Christian natives were addressed in simple words by their own *voorgangers*, and these words were greeted with great cheering — "geen gejuich van bloeddorstige dieren," he insisted, but testimony to a cheerful and glad acceptance of a heavy task.
 
+## Account from H. F. Meijer (1883) — Segli and the planned move from Pidir
+
+Meijer records at the close of his Chapter VIII — completing the story which the [[Occupation of Pidir (31 May - 4 June 1876)|occupation of Pidir]] of June [[1876]] began — that the civil and military commander returned afterwards to his first plan: the fortification not at Pidir but near [[Gigiëng]], on the so-called *Tanah Raja* or neutral ground, at the right bank of the Segli river, over which a bridge was thrown afterwards, and through the sodden ground a road traced to the residence of the prince of Pidir. The Pidir fortification was abolished; but, he wrote at the time of his book, the carrying out of the road from strand to royal residence had not begun to the beginning of [[1879]].
+
+Against this fortification during the two years of the [[Cancellation of friendship with Gigiëng (19 August 1876)|breach with Gigiëng]] Meijer records the post at Segli was repeatedly alarmed and attacked, not only by the people of that realm but by the band of the notorious [[Tengkoe di Tirou|Toekoe di Tiroe]] descending from Pidir ground.
+
 ## See Also
 
 - [[Pedir]]

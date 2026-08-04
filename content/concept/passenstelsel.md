@@ -20,6 +20,12 @@ Under the policy, carrying weapons of any kind—including traditional Acehnese 
 
 Despite rigid enforcement, the pass system failed to prevent guerrilla infiltration due to widespread civilian sympathy for the resistance and the difficulty of monitoring densely vegetated terrain. The system was supplemented after [[1896]] by active mobile counter-insurgency patrols.
 
+## Account from H. F. Meijer (1883) — the early pass system of 1875–1876
+
+[[Kolonel Meijer|H. F. Meijer]], in *[[Atjeh van 26 December 1875 tot 4 September 1876]]* ([[1883]]), shows the first year of the system in Groot-Atjeh: in the territory under Dutch rule every Atjehnese who did not wish to be regarded or treated as an enemy had to be provided, when travelling from one kampong to another, with a pass — at first good only for a couple of days, later for a week and then a month, ever through the control post of [[Pakan Badak]] on the road between the IV Moekims and Olehleh. Persons with firearms were confiscated; persons found with side-arms outside their villages were arrested — unless identified by the guide or the people as quiet inhabitants of the district.
+
+Its weakness was the same as that of every colonial paper watch in the guerilla war: passes of friendly Atjehnese were lent or passed to hostile ones, against whom no control existed. Meijer cites the proof from the battlefield: among the papers on the bodies of the Atjehers fallen on [[Ambush between Boekit Daroe and Ketapan Doewa (17 July 1876)|17 July 1876]] between Boekit Daroe and Ketapan Doewa were found two passes — one dated Olehleh, [[25 March]] [[1876]], permitting travel from Lampasei to Djempah, another dated Boekit Seboen, [[6 July]] [[1876]], good for six days from Anaq Paja over Pakan Badak, Sinangri and Olehleh to Lampasei — and it could never be established whether the fallen had been the same persons to whom those passes had been issued.
+
 ## See Also
 
 - [[Concentratiestelsel]]

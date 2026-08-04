@@ -18,6 +18,12 @@ The principal post on the Westerlinie was [[Oleh-leh|Oleh-leh]] on the coast wes
 
 For the better preservation of the connection with the Atjeh river and to defeat the enemy's attempts to cut the Dutch off from it, the [[Noorderlinie|Noorderlinie]] was also strengthened by the establishment of posts at [[Lamara|Lamara]] and Kota Radja Bedil. The engineers had also to provide for the works at the sea-head on iron screw-piles at Oleh-leh, completed in [[September 1876|September 1876]], and at the railway between Oleh-leh and Kota Radja, completed in [[November 1876|November 1876]].
 
+## Account from H. F. Meijer (1883) — the western line of 1876
+
+[[Kolonel Meijer|H. F. Meijer]], in *[[Atjeh van 26 December 1875 tot 4 September 1876]]* ([[1883]]), gives the western line of the consolidation year in its composition: [[Oleh-leh|Olehleh]], Lampasei, Blang-Oë, [[Sinangri]] and [[Lampagar]]; plus [[Pakan Badak]], [[Boekit Seboen]], [[Djempit]] and [[Boekit Daroe]] — with [[Kroeëng Raba]] was added that summer — the line commander's station first at Olehleh and then at Pakan Badak. The purpose of its works ran: protection of the submitted population of the [[IV Moekims|IV]] and [[VI Moekims]], control by passes of the growing traffic through [[Pakan Badak]] and by licence of the rice and betel trade between the IV Moekims and the Atjehnese enemy of the [[XXII Moekims]], and the watching of the mountain over which went all the raiding ways from west and south. Its commander in the summer of [[1876]] was Lieutenant-Colonel of Infantry [[Luitenant-kolonel Haus|Haus]], who from it ordered the [[Gli Taroem night ambush (8-9 August 1876)|Gli Taroem night ambush]], and its post commanders combined in the patrol arrangement — three combined patrols per week at unfixed hours in fixed sectors, with the controleur's interpreters from Olehleh going with or without him in charge — by which the increasing unsafety of the pacified zone was to be answered.
+
+The line's year contains in miniature the whole Dutch problem of those years: from the quiet eastern patrols of the spring to the disaster of the badly fortified post at [[Night attack on Lampagar (2-3 May 1876)|Lampagar]] on the friendly ground, and the never-quiet April and June traffic between the IV Moekims and the enemy's hungry districts.
+
 ## See Also
 
 - [[Concentratie-linie]]

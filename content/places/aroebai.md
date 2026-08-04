@@ -115,6 +115,12 @@ Already in [[1890]] the [[Bataafsche Petroleum Maatschappij|Bataafsche Petroleum
 
 The later coastal [[Atjeh Tram|tramway]] was carried to [[Besitang]] on the border of Atjeh and Sumatra's East Coast (construction completed end of [[1915]], opened 1916), and in [[1917]] a three-rail branch from Besitang to Pangkalan Soesoe on the Aroe-baai followed — with a third rail giving both the 0.75 m and the 1.067 m gauges, so that material of the [[Deli Spoorweg Maatschappij|Deli railway]] coming from Pangkalan Brandan could be brought to Teloktaboehan on the Aroe-baai. That bay was already known to history for the incident of the [[Atjehsche avonturier at Aroe-baai (1862)|Atjehnese adventurer of 1862]].
 
+## Account from J. Roest (1916) — the bay in the railway debates
+
+In [[J. Roest]]'s chronicle *[[De spoorwegverbinding tusschen Deli, Atjeh en de Aroebaai]]* (December [[1916]]) the bay is the whole scene of the years-long dispute over the ports of the East Coast. He records its advantages for the harbour question of those years: by the [[Semibilangeul|Sembilan channel]], the bay's southern entrance, ships came in in safety; near [[Telok Taboeban|Telok Taboehan]], not far from the coast, the water was deep enough for the coast steamers; the water surface was wide enough for the turning and warping of ships; and the quiet of the surface was secured by the opposite island [[Poeloe Sembilan]]. Correcting [[Beyerman]], he makes the economic distinction permanent: the traffic which seemed to grow in the bay was in truth the traffic of the river harbour of [[Pangkalan Brandan]] in the [[Balbalan|Babalan]] river — where [[Schadee]] reminded the Cultuurraad that the import and export trade of [[Tamiang]] was seated, and not in the Aru Bay.
+
+Roest records how the bay's full harbour-growths at Telok Taboehan were laid aside when the dredging at [[Belawan]] succeeded, and how the Government at the end of [[1915]] planned the modest coastal installation at [[Pangkalan Soesoe]] — the plan being built, for a beginning, at the f 150,000 then on the budget for [[1916]] — while the long-drawn dispute over the ocean harbour which the Aru Bay had one day been intended to serve ended undecided.
+
 ## See Also
 
 - [[1539]]

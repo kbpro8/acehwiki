@@ -14,6 +14,12 @@ During the [[Blockade of the Atjeh coast (1873-1874)|blockade of the Atjehnese c
 
 Especially in the federation Gighen the population devoted itself from [[1890]] to rice culture — "zóó zelfs, dat die streek de voorraadschuur van rijst werd voor de federatie Pidië en bovendien nog rijst kon afstaan voor Groot-Atjeh" ("so much even that this tract became the store-shed of rice for the federation Pidië, and moreover could spare rice for Groot-Atjeh"). The North Coast sawahs in general produced enough for the population's need even while the tract remained closed to the coasting trade in the early 1890s.
 
+## Account from H. F. Meijer (1883) — the breach of 19 August 1876
+
+Meijer's Chapter VIII tells how Gigiëng — the state that by its submission had shown how to undo the blockade's pressure by diplomacy — proved, in the year of the [[Habib Abdoerrachman el Zahir|Habib]]'s return, also the first prince's state of the coast to break its handwriting. Its prince [[Toengkoe Bintara Kamangan]] (Potjoet Osman Bintara) lived in continuous hostility with the prince of [[Pedir|Pidir]], mostly, the Dutch thought, from disputes upon claims of territory and the levying of the taxes at the mouth which his river shared with the Pidir river; war and blockade had made the state a great source of supply for the war party.
+
+In July [[1876]] three independent witnesses — [[Radja Mangkoeta]], the moekim head [[Toekoe Imam of Gigiëng]] and the Dutch agent at Penang, [[Lavino]] — gave the Dutch certainty that the prince had invited the heads of his realm to collect money for the *[[Prang sabi|prang sabil]]* and had himself gone to fight in the [[XXII Moekims]], after dismissing the friendly market master [[Toekoe Moeda Rajat]] for the hostile Toekoe Hasjim. On [[19 August]] the steamship Marnix came on the roadstead with the proclamation of the civil and military commander: the friendship was ended and the harbours of the state closed to trade, and the Dutch flag flying at the capital since [[1874]] was hauled down. The breach lasted two years and put life into the attacks on the Dutch fortification at [[Segli]] by the state's people and by [[Tengkoe di Tirou|Toekoe di Tiroe]]'s band from Pidir, ending — in [[1878]] — in the prince's second submission after the expedition from Groot-Atjeh.
+
 ## See Also
 
 - [[Raja of Gigieng|Radja of Gigiëng]]

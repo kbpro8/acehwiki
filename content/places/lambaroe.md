@@ -66,6 +66,12 @@ The post of [[Lam Soet]] was erected a few days after that at [[Anagaloeng]] to 
 
 A plate of the terrain at [[Anagaloeng]] showed the plain *van af Indrapoeri tot Lambaroe*, through which the winding river cut its sharply incised bed.
 
+## Account from H. F. Meijer (1883) — the kampong, the battle and the Dutch post of 7 March 1876
+
+Meijer describes Lambaroe as the southwesternmost point of the kampong series in the [[XXV Moekims]], dominating the sawah plains between [[Kajoe-Lē]] and Lamtengah and those west and north of it, with the kampongs from Lamsajoeng northward. The enemy held it with a heavy occupation: two fortifications, of which the chief one stood twenty paces from the southwest corner of the kampong edge at 300–400 paces from the [[Atjeh River]], about halfway between the Dutch posts of Mesigit Pagar-Ajer and Kajoe-Lē. From [[Storming of Lambaroe (7 March 1876)|7 March 1876]] the Dutch post of the same name — a square redoubt of 42 by 45 metres with two round bastions on a dry point some hundred metres from the conquered enemy work — rose on the small sawah field outside the kampong edge; communications with [[Kota Radja]] and with the neighbouring posts were restored and made safe by a three-metre road, and the post became the quarters of the commander of the [[Zuidoosterlinie|south-east line]] and one of its two reserve vivres depots. The river water channel of the district, running north from [[Biloel]] through the sawahs, passes a little north of Lambaroe by a nipah bush and ends in the brook Kroeëng Tandjong.
+
+The same day's initial Dutch garrison — the left half of the [[8e Bataljon|8th Infantry Battalion]] and a section of mountain artillery — lay partly under sheds in the conquered enemy work, a stinking mud pool full of chewed sugar cane, until quarters were brought from Kota Radja. Soon after, sawahs around the post stood a foot of water: the days of Meijer's operation were the wettest of that summer.
+
 ## See Also
 
 - [[III Moekims]]

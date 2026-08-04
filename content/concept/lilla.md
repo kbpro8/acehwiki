@@ -30,6 +30,12 @@ The **lilla** was a small Achehnese swivel gun, used by the besiegers of the Dut
 
 Hooijer described at [[Senelop]] the improvised Achehnese artillery of the same campaign: unexploded Dutch *[[Granaatkartets|granaatkartetsen]]* came back into the fortification with filed-off ridges and a small bamboo tube with a fuse in place of the time-fuse, fired from old sawn-off iron cannon or, as it was said, from hollowed-out coconut trunks strongly bound about with stolen telephone wire.
 
+## Account from H. F. Meijer (1883) — the Acehnese way of serving the lilla
+
+[[Kolonel Meijer|H. F. Meijer]], in *[[Atjeh van 26 December 1875 tot 4 September 1876]]* ([[1883]]), explains how the Atjehnese enemy used his small-calibre ordnance — the *lilla* (also written *lela*), the Atjehnese gun of the lagune and kampong lines — when employed as position artillery. The piece was put in battery behind the breastwork, wholly hidden from the enemy's eye, and fired. Directly after the shot, gun and carriage were drawn backwards into a pit or trench, in which the crew too had grenade-proof huts; when they reckoned themselves safe again, gun and carriage were hauled out — but at a different place than the time before — and put in battery until the chance seemed good to reopen fire.
+
+In this way the enemy kept — with lilla batteries on the lagune northeast of the Dutch post at [[Kwala Gigieng|Koewala Gigiëng]] and in earth batteries at the mouth of the [[Kroeëng Raja]] — small, irreducible ordnance in action for a whole year against the modern 12 cm guns of the Dutch works, until the occupation of his own flanks made the device impossible. The same account lists the varied muzzle-loading and light Atjehnese small arms of these years: the *lilla* and *donderbus* (blunderbuss) beside the flintlock and percussion gun, and beside the Dutch breech-loaders whose numbers and losses fed the enemy's rising stock.
+
 ## See Also
 
 - [[Achterlaadkanonnen van 12 c.M.]]

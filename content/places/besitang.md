@@ -21,6 +21,12 @@ The Bureau's account of the projected — but ultimately deferred — direct lin
 
 **Besitang** — modern *Besitang* — is the junction where the [[Atjeh-tram|Atjeh-tram]] and the [[Deli-spoor|Deli-spoor]] meet, and over a common track both run to [[Pangkalan Soesoe|Pangkalan Soesoe]] — a track with three rails, because the Atjeh-tram has narrow gauge (0.75 m) and the Deli-spoor has a line-width of 1.067 m. At Besitang the traveller from Kota Radja passes to the fast train of the Deli-spoor to reach [[Medan|Medan]]. The junction was effected in [[1908]], and after [[1910]] work began on the Langsa-Koeala Simpang section and the through-extension to Besitang and Pangkalan Soesoe was decided in [[1913]]. Besitang is in the border-region of the *Gouvernement Atjeh en Onderhoorigheden*; at [[Koeala Simpang|Koeala Simpang]] one is already in [[Tamiang|Tamiang]].
 
+## Account from J. Roest (1916) — Besitang as the junction disputed, 1912–1915
+
+[[J. Roest]]'s article *[[De spoorwegverbinding tusschen Deli, Atjeh en de Aroebaai]]* ([[1916]]) places Besitang as the junction point at which four different railway designs competed: the traced line Besitang–[[Telok Taboeban|Telok Taboehan]] by the army engineers (f 510,000) and the one by the Deli path over the level country; the line Besitang–[[Tandjong Slamat]] (30 K.M., f 1,450,000) urged by the chief of construction of the [[Atjeh-tram]] and by Governor [[Van der Plas]] as the only way along which a [[Kota Radja]]–[[Medan]] journey of two days would be possible; [[Schadee]]'s alternative junction at Pematang Pandjang (8 K.M., f 300,000) to [[Pangkalan Brandan]]; and the line Besitang–[[Pangkalan Soesoe]] by which the government laid a way for the Atjeh tram to the [[Aroebai|Aru Bay]], with the cheap northern flat line along the shore.
+
+At Besitang, as Roest records the state of affairs at the end of [[1915]], the two systems would run side by side towards the Aru Bay: the state tram on the trace Besitang–Pangkalan Soesoe–Telok Taboehan, and the company's own projected line between Besitang and Pangkalan Brandan; and the long-disputed through connection Besitang–Tandjong Slamat remained doubtful whether it would ever be made.
+
 ## See Also
 
 - [[1908]]

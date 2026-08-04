@@ -18,6 +18,10 @@ On [[14 August]] [[1879]] [[Toekoe Moeda Daoed|Toekoe Moeda Daud]], the head of 
 
 Having promised in his report to the General to bring the chief with him to the [[Kraton]], Lubeck waited for Toekoe Moeda Daud until within a few hours of his own march, a time of great tension; thechief appeared at last, and Lubeck's column marched back to Indrapoeri in the morning of [[17 August]] [[1879]], accompanied by Toekoe Moeda Daud, [[Toekoe Tjoet Hadjet|Toekoe Ajer Alang]] and a following — received everywhere by the population in the most peaceful manner. Of his remaining provisions he had left more than half a day's store at the disposal of Overste Gerlach.
 
+## Account from H. F. Meijer (1883) — the July operations of 1876
+
+Meijer's *[[Atjeh van 26 December 1875 tot 4 September 1876]]* ([[1883]]) shows Major Lubeck in the operations of that year. As commander of the left half of the 5th Infantry Battalion he was quartered at [[Longbatah Zuid]] in March [[1876]], receiving the troops that Lieutenant-Colonel [[Kolonel Meijer|H. F. Meijer]] assembled there on the eve of the [[Storming of Lambaroe (7 March 1876)|storming of Lambaroe]] and seeing to their quarters and warm food. In the July sweeps he commanded the 2nd column in the [[Sweep of the IV and VI Moekims (8-15 July 1876)|IV and VI Moekims operation]], assembling at Pakan Badak, dragging his mountain artillery by hand through the drowned ground of the Kroeëng Daroe on the first day, and covering Diepenheim's march through the pass of [[Blang Kala]] on 9–10 July. On [[13 July]] he personally led the encircling column — three companies of the right half of the 5th battalion, a company of barisan, mortar crews and engineers, guided by Captain [[F. C. E. Meijer]] of the General Staff — across the Kroeëng Raba by two small rafts to cut off [[Toekoe Tjihiq Lamngga]] at Leboew; the quarry escaped, warned by the premature rifle fire, but kampong Raba was burned and the river mouth was held. With the other troops he returned to Kota Radja on [[15 July]].
+
 ## See Also
 
 - [[Selimoen Expedition (August 1879)]]

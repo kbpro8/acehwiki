@@ -10,6 +10,12 @@ Beuming places Biloel *in de nabijheid der posten [[Lamkoenjit]] en [[Tjot Goé]
 
 The word *boekit* is glossed elsewhere in the book as *een kleine hoogte of heuvel* — a small height or hill.
 
+## Account from H. F. Meijer (1883) — Boekit Terin
+
+Meijer gives Boekit Terin as a bare, rocky hill about 50 metres high, 400 metres southeast of the post of [[Boekit Daroe]], from whose top the whole plain of Blang Daroe, the courses of the [[Kroeëng Daroe]], the plains of the [[IX Moekims|IX]] and [[VI Moekims]] and the whole mountain road through the pass of [[Glitaroem|Gli Taroem]] could be watched. The enemy had used the position masterfully against the first Dutch advance and had given it up only by force; after the post's foundation the Dutch kept a watch post of the Boekit Daroe garrison on its summit, in a fortified watch house lodged with materials hoisted up its steep walls, forbidding the enemy mastery of the post below. On the slope the troops had their only safe climb to the post from the depression belying kampong Lamtadoe's hiding ground.
+
+In the first month the ground about the hill showed the passing refuge of the fled population of the VI Moekims — many *pondoks* (huts) fresh-built between kampong and mountain and empty since — from which Meijer deduced that the hill and the great mound of Boekit Daroe had served as refuge places for those evacuees of the district.
+
 ## See Also
 
 - [[Biloel]]

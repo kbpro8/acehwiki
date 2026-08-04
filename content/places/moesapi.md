@@ -14,6 +14,12 @@ Moesapi had been in Dutch hands before February [[1874]] but was abandoned by [[
 
 By the time the continuous line around K. Radja was completed in May [[1875]], the east side of the line ran from [[Blang Tjoet]] through [[Kota Alam]], [[Lemboe]] O. en N.O., [[Lampriet]], [[Langkroek]] O., [[Lamara]] Z.O. en N.O., [[Tiban]] to Moesapi. From Moesapi the line continued along the sea-strand to Oeleh Leh — the *basis* of the *stelling-Pel* triangle. Moesapi's weakness — its inability to close the Kroeng Tjoet — was only made good in February [[1876]], when [[Luitenant-kolonel Engel|Engel]] reached the [[Kwala Gigieng]] on [[26 February]] [[1876]] and established posts at Kwala Gigieng and on the island of [[Kota Pohama]] in the lagune. The mouth of the Kroeng Tjoet was finally closed by the Dutch in [[1876]], in the wake of [[Generaal Pel|Pel]]'s great [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|winter offensive of 1875–1876]] and his death at [[Lamjoeng]] on [[24 February]] [[1876]].
 
+## Account from H. F. Meijer (1883) — Moesapi and Kota-Moesapi, 1876
+
+Meijer gives Moesapi its situation as a Dutch work on the left bank of the [[Kroeëng Titi Pandjang]] near its mouth into the great lagune: a rectangular trapezium of earth breastwork with palisade added, whose long face towards the lagune was crowned with a great bastion for two guns. In the Kroeëng Titi Pandjang near the post were still found in [[1876]] the traces of the bridges the Dutch had thrown there during the Second Expedition; Meijer notes, after Van Swieten, that what was wrongly called Kroeëng Tjoet in [[1873]]–[[1874]] was in reality this Kroeëng Titi Pandjang.
+
+300 metres northwest of the post stood the old Atjehnese stronghold **Kota-Moesapi**, occupying nearly the whole of a five hundred by one hundred metre peninsula surrounded by lagune and marsh: a square redoubt whose walls stand partly in stone and partly in earth, flanked by *flèches* leaning with their gorge on its west and east faces. The whole work stood neglected, its parapets fallen, its interior partly ruined and partly a mud pool, and in it lay in [[1876]] two fine bronze cannon of six and four metres — left there for want of any transport, Meijer notes. From the post at Moesapi the Dutch kept their observations on the Kroeëng Titi Pandjang; the communication between it and [[Kwala Gigieng|Koewala Gigiëng]] along the lagune was assured by the intermediate post of [[Kota-Pohama]].
+
 ## See Also
 
 - [[Kroeng Tjoet]]

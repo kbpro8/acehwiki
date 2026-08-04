@@ -18,6 +18,10 @@ In [[January 1877|January 1877]] the troops resumed operations for the completio
 
 In [[September 1876|September 1876]] after the arrival of new reinforcements, the Dutch troops again took more offensive action. The object of the operations was to better secure the Noordoosterlinie, which was continually threatened by the enemy's attacks, and to obtain a better boundary line by the occupation of the [[Kroëng Tjoet|lagune Kroëng Tjoet]]. By diversions in the [[Zuidoosterlinie|Zuidoosterlinie]] the enemy's attention was diverted, and on [[4 September]] [[4 September]] operations began in the [[XXVI Moekims|XXVI Moekims]].
 
+## Account from H. F. Meijer (1883) — the north-east line of 1876
+
+[[Kolonel Meijer|H. F. Meijer]], in *[[Atjeh van 26 December 1875 tot 4 September 1876]]* ([[1883]]), gives the northern works of the consolidation year as the line then called the north-east line (*noordoosterlinie*): [[Kwala Gigieng|Koewala Gigiëng]], [[Kota-Pohama]], [[Moesapi]], and, in the marshes along the [[Kroeëng Titi Pandjang]], [[Tibang]], Lamara Northeast and Southeast, Langkroek and Langkroek East. Its posts watched the great lagune and its only open mouth — holding away the enemy's fish catching and salt making, and guarding the great settled ground of [[Penajoeng]] and the moors along the river mouths — the most isolated of all the lines, where for long even an instruction book for the officers and the watch-holding of the works gave place to the fear of the night. In it the officers read most distinctly the law of the Atjehnese guerilla post war: fire on every work most nights, wakeful watches against prowling enemies around the fort between dusk and dawn, and, for the whole chain, the waterway over the lagune by which every load for the north must go.
+
 ## See Also
 
 - [[Concentratie-linie]]

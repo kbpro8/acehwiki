@@ -18,6 +18,12 @@ After the death of [[Generaal Pel|Pel]] at [[Lamjoeng]] on [[24 February]] [[187
 
 Following the [[Concentration Decision of August 1884]], a new post was established at Kota-Pohama using materials brought from the evacuated post at [[Samalanga]] on the north coast. On [[25 September]] [[1884]], the garrison of the former Samalanga post landed at Pohama and began construction. No significant opposition was encountered. In the new geconcentreerde stelling (concentrated position) of [[1885]], Kota-Pohama held a 75-man Infantry garrison armed with 2 × 12cm breech-loading guns. The post was connected to [[Pakan-Kroeng-Tjoet]] by road and to [[Lamjong]] via the ceintuurtram (girdle tramway), serving as the westernmost point of the new defensive perimeter.
 
+## Account from H. F. Meijer (1883) — the island of Kota-Pohama, 1876
+
+Meijer gives Kota-Pohama as a flat island in the great lagune, opposite the mouth of the [[Kroeëng Titi Pandjang]]: nothing stood there but coconut trees on a flat floor; on its northernmost part lay an old, entirely ruined Atjehnese stone fort — a square redoubt with two bastions, three of whose nearly perpendicular stone faces remained standing, a metre-and-a-half to two high and a metre thick, with bamboo-thorn hedges across the island's whole breadth, and to the south the remains of an old bridge with sound stiles and no deck. The deck boards found there proved what the commander of [[Moesapi]] had already reported: that the enemy still communicated with the islet.
+
+Almost simultaneously with the occupation of the position at [[Kwala Gigieng|Koewala Gigiëng]], in February [[1876]], the place was occupied, after a reconnaissance from Koewala Gigiëng found it abandoned: the garrison received provisions and munition to hold out, and materials to build. The enemy let all this not happen undisturbed: he disturbed the fortifying by rifle fire from the south side of the lagune, increasing so soon that the south face of the work had to be closed by palisade, and in April the post received a mortar because the enemy opposite kept it under such constant fire. The island post had to secure the communication between Koewala Gigiëng and Moesapi.
+
 ## See Also
 
 - [[Concentration Decision of August 1884]]

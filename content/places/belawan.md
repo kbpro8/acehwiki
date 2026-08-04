@@ -26,6 +26,12 @@ Belawan's harbour facilitated the movement of commodities to *Buiten Indië* (ou
 
 Despite Acheh possessing its own coastline, the region increasingly oriented its import and export economy through the S.O.K. and Belawan. By [[1935]], colonial statistics indicated that more than one-third (1/3) of Acheh's total imports and one-quarter (1/4) of its total exports passed through Belawan. In [[1935]], the total import value for Acheh was ƒ 2,280,000, and the total export value was ƒ 4,198,000 — a significant portion of which transited through Belawan rather than local Acehnese ports, cementing the harbour's role as the economic gateway for the region.
 
+## Account from J. Roest (1916) — Belawan's dredging success and the end of the great Aru Bay design
+
+[[J. Roest]]'s article *[[De spoorwegverbinding tusschen Deli, Atjeh en de Aroebaai]]* ([[1916]]) — the sequel of his own earlier piece *Belawanhaven en Atjeh-tram* in the December [[1912]] issue of the same journal — gives Belawan's place in the whole plan: it was on the assumption that the dredging in the Belawan channel would *fail* that the government had designed the whole Atjehtram and picked the future ocean harbour of the East Coast on the [[Aroebai|Aru Bay]], as the then Chief Inspector of Railways [[Van Stipriaan Luïscius]] openly declared to the direction of the [[Deli Spoorweg Maatschappij]].
+
+In connection with the advices of the engineers Kraus and De Jongh and the hopeful first results reached with the suction dredger *Java* for the deepening of the Belawan channel, the originally grand harbour plan at [[Telok Taboeban|Telok Taboehan]] was set aside in [[1915]]: what had been the Government's ocean-port alternative to Belawan fell away, and Roest's article — written as the work at Belawan prospered — closes the decade of the debate with his own judgement *"a fair chance"* given to the Aru Bay.
+
 ## See Also
 
 - [[Aroe-baai-plannen]]

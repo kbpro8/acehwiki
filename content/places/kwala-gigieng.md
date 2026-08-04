@@ -29,6 +29,12 @@ After [[Generaal Pel|Pel]]'s sudden death at the bivouac at [[Lamjoeng]] between
 ## Sources
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
+## Account from H. F. Meijer (1883) — the lagune mouth and the Dutch post of 1876
+
+Meijer's Chapter I gives the fullest description of this mouth (*koewala*, mouth, in Acehnese usage) of the great lagune that stretches from the mouth of the Titi Pandjang to the foot of the mountains bounding the alluvial plain of Groot-Atjeh on the east. The whole form of the lagune shows that it must formerly have had more mouths: the Koewala Loë, open during both Atjeh expeditions, had since been wholly closed by the sand of the northern beach of the sea. The branches of the lagune pierce far inland and form by their capricious bends a maze of overgrown mud flats, land now dry, now under water — without good guides the road cannot be found.
+
+On the great dune plain south of the place where the lagune relieves her water into the sea the Dutch work was raised in February [[1876]] — one of the most isolated posts of Groot-Atjeh, with the worst possible retreat road in case of being overpowered, one of the rear connections of [[Pel's offensive against the VI, IV and IX Moekims (1875-1876)|Pel's XXVI Moekims campaign]]. An old Atjehnese fortification of two connected earth redoubts of 50 and 20 metres stood on just the point commanding both the lagune over her whole length and her outflow; it was repaired with sandbags and coconut timber and armed with one 12 cm gun, which chased without success for a year the enemy battery dug in at the northeastern bend of the lagune, whence a continuous fire was kept up on the post: the hostile gunners dropped lilla and carriage after every shot into a covered pit — a device by which the enemy held out successfully against the Dutch 12-centimetre artillery until Lambadak was occupied a year later. The post stood within reach of the strong positions the enemy under Toekoe Lamnga held not far from it, and by the continuous spying and creeping of those bands all its work was disputed; the loads destined for it were carried into it over the lagune from Olehleh, landed on the beach when weather allowed.
+
 ## See Also
 
 - [[Kroeng Tjoet]]

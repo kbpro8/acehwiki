@@ -54,3 +54,11 @@ While Borel was writing his book, the telegraph brought news on [[15 August]] [[
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 350–355.
+
+## Account from H. F. Meijer (1883) — the warning letter of August 1876
+
+Meijer's account of the [[Cancellation of friendship with Gigiëng (19 August 1876)|breach with Gigiëng]] includes also Pasangan: the prince of that always hostile coast state received a direct letter from the civil and military commander about the same deed, with the necessary warnings. General [[Generaal Wiggers van Kerchem|Wiggers van Kerchem]] had judged this necessary also as an answer to a letter from that prince from which, likewise, an anything but friendly attitude appeared.
+
+## Source
+
+*Atjeh van 26 December 1875 tot 4 September 1876*, door H. F. Meijer (Breda: P. B. Nieuwenhuijs, [[1883]]), chapter VIII, p. 281.

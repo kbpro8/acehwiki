@@ -14,6 +14,12 @@ Verspijck's plan called for the [[Padangsche brigade]] — already embarked and 
 
 The Kroeng Raba itself, as Borel describes it in the closing chapters, formed the western end of the great afsluitingslinie that Pel planned between the mouth of the Kroeng Raba on the west coast and the mouth of the [[Kroeng Raya]] on the north coast, with the aim of isolating Atjeh from the sea. Pel's colonne reached the river's mouth on [[15 January]] [[1876]] and found the hoofden willing to submit; the planned line was eventually extended from the Kroeng Raba to [[Kwala Gigieng]] after Pel's sudden death at [[Lamjoeng]] on [[24 February]] [[1876]]. The Kroeng Raba-baai was therefore not merely a rejected alternative but the western anchor of what Borel considered the only strategic solution to the war.
 
+## Account from H. F. Meijer (1883) — the bay and its bad anchorage, July 1876
+
+Meijer preserves the report of the naval station commander at [[Oleh-leh|Olehleh]] of [[11 July]] [[1876]], in which the bay was called, in this season of the year, *"one of the worst anchorages of the west coast"* — the full ocean swell rolling in without pause, and weather generally worse there than further to the south, as near projecting mountainous land points. Landing with loaded sloops would risk total loss of what was embarked; and only a steamship with a very powerful engine could lie safely with such unexpected heavy rain squalls.
+
+Nevertheless the hired steamer *Marion*, Captain [[Osborne]], attempted the bay at his own responsibility on [[13 July|13]]–[[15 July]]: at King's Point the naval escort had to order back; Osborne went ashore, rode on horseback to look at the beach with his own eyes, steamed in at dawn on 15 July, could land nothing by sloop, threw the bundled engineering materials overboard for the surf to bring, and had to work his ship out under full steam when dragging her anchors — the engineering stores for the new fort of [[Sweep of the IV and VI Moekims (8-15 July 1876)|Kroeëng Raba]] being largely lost in the sea.
+
 ## See Also
 
 - [[Kroeng Raba]]

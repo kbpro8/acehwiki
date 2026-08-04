@@ -50,6 +50,12 @@ Pangkalan Soesoe is, in the Encyclopaedisch Bureau's [[1917]] account, the centr
 
 **Pangkalan Soesoe** — modern *Pangkalan Susu* — is the harbour-place at which the oil of the [[Bataafsche Petroleum-Mij|Bataafsche Petroleum-Mij]] is exported, and the south-eastern terminus of the [[Atjeh-tram|Atjeh-tram]]. The connection of Besitang with Pangkalan Soesoe, where the oil of the Bataafsche Petroleum-Mij is exported, is a line with three rails. The Deli-spoor and the Atjeh-tram meet at [[Besitang|Besitang]] and run together to Pangkalan Soesoe. The Atjeh-tram's main line thus runs from [[Oelèë Lheue|Oelèë Lheuë]] to Pangkalan Soesoe — 495 kilometres — with two short side-lines: [[Langsa|Langsa]]-[[Koeala Langsa|Koeala Langsa]] (9 km) and [[Beureunoen|Beureunoen]]-[[Lam Meulo|Lam Meulo]] (5 km).
 
+## Account from J. Roest (1916) — the choice of Pangkalan Soesoe, 1915
+
+[[J. Roest]]'s article *[[De spoorwegverbinding tusschen Deli, Atjeh en de Aroebaai]]* ([[1916]]) names Pangkalan Soesoe — about halfway between [[Besitang]] and [[Telok Taboeban|Telok Taboehan]], where both the [[Atjeh-tram]] and the [[Deli Spoorweg Maatschappij]] would have a station — as the harbour site chosen in [[1915]] in place of the deserted project at Telok Taboehan. The deciding grounds, in Roest's argument, were negative and positive: at Telok Taboehan all would have been built in an uninhabitable wilderness needing expensive sanitation, while at Pangkalan Soesoe the [[Bataafsche Petroleum Maatschappij]] already had an extensive establishment with a jetty and a settled trade and shipping.
+
+The new harbour design was simpler than the one originally made for Telok Taboehan and easily capable of extension; the lines of the Atjeh tram and the company would each join the lines of the storage sheds separately. For its personnel houses the government had, in the previous design, looked to the island [[Poeloe Sembilan]]. The roadbed of the stretch Pangkalan Soesoe–Telok Taboehan, built at a cost of f 200,000 and already complete when the change was made, went out of use; and discussions were already ongoing for surrender by the Native Self-Government of [[Langkat]] of the ground needed for the state's works. The harbour was to serve the [[Tamiang]] plantation country to its north, at f 150,000 entered on the draft budget for [[1916]].
+
 ## See Also
 
 - [[1878 Langkat–Tamiang transfer]]

@@ -68,6 +68,12 @@ Towards midday the cart with *[[Vivres|vivres]]* arrived daily — often fired a
 
 Lam Koenjit was lifted together with [[Biloel]] four days after the relief of [[Tjot Goeë]] in [[April]] [[1896]], and went up in flames as the Dutch withdrew.
 
+## Account from H. F. Meijer (1883) — the kampong in the IX Moekims, 1876
+
+Meijer places Lamkoenjit between [[Biloel]] and [[Boekit Daroe]] in the [[IX Moekims]], a wooded and populous kampong whose covering ground gave the enemy the standing ambush cover on the road between those two posts. The enemy nested there — with Lamtadoe and Tjot Bēhēl — within days of the departure of Pel's operating force in February [[1876]], and from it, on [[17 February]], his bands surprised the 13-man detachment on that road in the [[Lamkoenjit ambush (17 February 1876)|ambush of 17 February]], the first alarm of the month between those posts.
+
+Meijer drew the kampong then as one of the principal resorts of the enemy in his double role as raider and harvester of the standing paddy: from its cover he descended by day on stray parties and by night cut the grain. The Dutch march of the two columns of [[Biloel Zuid operation (13-15 May 1876)|14 May 1876]] past its western edge found it, as ever, suspiciously empty on their approach.
+
 ## See Also
 
 - [[XXV Moekims]]

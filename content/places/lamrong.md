@@ -32,6 +32,12 @@ The post was connected to:
 
 Lamrong helped complete the southern section of the perimeter, providing additional coverage between [[Lambaroe]] and the more southern posts.
 
+## Account from H. F. Meijer (1883) — Lamrong and Lamrong's imam, 1876
+
+Meijer places Lamrong — written also Lēber (Lamrong) in the march orders — as one of the three hostile kampongs (with [[Lamsajoen|Lamsajoeng]] and [[Lambaroe]]) from which the enemy by the beginning of March [[1876]] had established a heavy occupation that cut the communication of Major [[Majoor B. E. Mekern|B. E. Mekern]]'s column at [[Kajoe-Lē]] with its supplies at [[Longbatah]] and [[Mesigit Pagar Ajer]]. The kampong belongs with Lambaroe to the ground across which ran the road that Pel's first-line posts travelled in these years, and from which the enemy's nightly paddy cutting in the occupied zone was protected by sentries pushed forward in scattered order.
+
+Its head [[Toekoe Lamkeboe]] of Lamrong had once showed himself inclined to return to his kampong with his people, but in the rising tide of [[Habib Abdoerrachman el Zahir|the Habib]]'s return let it be known clearly that he had given up that intention for good and had joined the Habib — a defection cited by Meijer as characteristic of the effect of the Habib's appearance on chiefs who had nearly crossed over. Lamrong itself, with the adjoining kampongs, was laid in ashes by the 3rd column of the [[Biloel Zuid operation (13-15 May 1876)|Biloel Zuid operation]] on [[14 May]].
+
 ## See Also
 
 - [[Geconcentreerde Stelling]]
