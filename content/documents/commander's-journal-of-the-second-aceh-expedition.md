@@ -4,41 +4,39 @@ aliases: ["Journaal van den Opperbevelhebber der Tweede Expeditie", "Van Swieten
 tags: [document, journal, military, dutch, aceh-war, official-report]
 ---
 
-**The Commander's Journal of the Second Aceh Expedition** was the official daily command record kept by [[Jan van Swieten]] and his staff during the [[Second Aceh Expedition (1873-1874)]]. Parts of it were published in official newspapers, including the *Javasche Courant*, and later writers used it to defend the conduct of the expedition against public criticism.
+**The Commander's Journal of the Second Aceh Expedition** was the official daily record kept by [[Jan van Swieten]] and his staff during the [[Second Aceh Expedition (1873-1874)]]. Parts of it were later published in official newspapers such as the *Javasche Courant*. The journal became important not only as a military source, but also as evidence in the public argument over whether the expedition had been well led.
 
-The journal is important because it preserves the official day-by-day Dutch view of the campaign. It also became part of the printed debate over whether the expedition had been wisely led.
+## What the journal was
 
-## Publication
+The journal recorded movements of troops, losses, practical arrangements, and intelligence received during the campaign. It was not a private memoir written long afterward. It was a working command record tied closely to daily operations.
 
-Published extracts from the journal began to appear in the *Javasche Courant*, including an issue of [[9 January]] [[1874]]. These extracts gave the public an official record of movements, casualties, orders, and intelligence during the campaign.
+Published extracts began to appear in the *Javasche Courant*, including an issue of [[9 January]] [[1874]]. This gave the public and later writers access to part of the official Dutch narrative of the campaign.
 
-## What the journal recorded
+## Why it became controversial
 
-The journal noted troop movements, practical arrangements, casualties, and intelligence reported by local informants and allies. In this way it was more than a private diary. It was an operational document tied closely to command.
+The second expedition was quickly attacked in print, especially in [[Open Letter by Brutus to General Knoop]]. Because of that criticism, documents connected with the campaign took on a second life. They were no longer only records of events. They became tools in argument.
 
-Because the second expedition was later debated so fiercely, this daily record became valuable evidence in argument as well as in military history.
+The journal was one of the most important of these tools.
 
-## Use in later debate
+## Use in the 1876 defense
 
-In *Atjeh gedurende de tweede expeditie en later* ([[1876]]), the anonymous author used the published journal to defend [[Jan van Swieten]] against [[Brutus]] and [[Open Letter by Brutus to General Knoop]]. By comparing the journal with the shorter [[General van Swieten War Telegrams]], the author tried to show that the command had acted on real information and not on careless optimism.
+In [[Atjeh gedurende de tweede expeditie en later]], the anonymous author used the journal to defend Van Swieten. By comparing the journal with the [[General van Swieten War Telegrams]], the author tried to show that the command had acted on the basis of real information rather than careless hope.
 
-The journal therefore belongs to the second stage of the Aceh pamphlet war. First came criticism, especially from [[Brutus]]. Then came documentary defense, in which official records like the journal were used to answer that criticism.
+In this way, the journal was pulled into the wider pamphlet war over the meaning of the campaign.
 
 ## Significance
 
-**The Commander's Journal of the Second Aceh Expedition** is significant because it helped preserve the official Dutch memory of the campaign while the campaign was still being argued about. It stands between military administration and public controversy, and it remains one of the important printed records for studying the second expedition in detail.
+**The Commander's Journal of the Second Aceh Expedition** is significant because it preserves the official day-by-day Dutch view of the campaign while also showing how military paperwork could become public evidence. It stands at the meeting point of operations, administration, and controversy in the early [[Aceh War]].
 
 ## See Also
 
 - [[Second Aceh Expedition (1873-1874)]]
 - [[Jan van Swieten]]
 - [[General van Swieten War Telegrams]]
+- [[Atjeh gedurende de tweede expeditie en later]]
 - [[Open Letter by Brutus to General Knoop]]
-- [[Brutus]]
-- [[Kraton of Aceh]]
 - [[9 January]]
 - [[1874]]
-- [[1876]]
 
 ## Source
 

@@ -38,13 +38,19 @@ The naval side of the campaign also mattered. When the ruler of [[Pedir]] was re
 
 ## Why the expedition did not end the war
 
-Although the expedition took the [[Kraton of Aceh|Kraton]], it did not end the war. This was clear almost at once. The Dutch still had to fight actions after the fall of the capital, including the expeditions to [[Expedition to Bital (12 February 1874)]] and [[Expedition to Ketapang Doewa (15 February 1874)]], and the reverse at [[Battle of Lampoe Oek (16 April 1874)]].
+Although the expedition took the [[Kraton of Aceh|Kraton]], it did not end the war. This was clear almost at once. The Dutch still had to fight actions after the fall of the capital, including the expeditions to [[Expedition to Bital (12 February 1874)]], [[Expedition to Ketapang Doewa (15 February 1874)]], and the reverse at [[Battle of Lampoe Oek (16 April 1874)]].
 
-This reality shaped the early printed debate about the campaign. [[General Knoop]] judged that the expedition had been only "slechts ten halve gelukt". In [[Open Letter by Brutus to General Knoop]], [[Brutus]] argued in detail that the Dutch had moved too slowly after each success and had relied too much on the hope that occupation of the capital would bring submission by itself. In [[General Van Swieten's letter in Het Vaderland]], Van Swieten answered that the expedition had fulfilled its program by taking the [[Kraton of Aceh|Kraton]] and securing a durable base.
+At the same time, Van Swieten's own short public signals seemed hopeful. The [[General van Swieten War Telegrams]] suggested that the struggle was nearly over and that important districts were close to submission. Later critics seized on those words when resistance continued.
+
+## The printed controversy
+
+The second expedition quickly became the subject of one of the first large printed controversies of the war. [[General Knoop]] judged that the expedition had been only partly successful. In [[Open Letter by Brutus to General Knoop]], [[Brutus]] argued in detail that the Dutch had moved too slowly after each success and had relied too much on the hope that occupation of the capital would bring submission by itself.
+
+The reply came in [[Atjeh gedurende de tweede expeditie en later]] ([[1876]]), where an anonymous former officer defended Van Swieten by using the [[Commander's Journal of the Second Aceh Expedition]], the [[General van Swieten War Telegrams]], and other official material. This later defense argued that the critics underestimated the effect of climate, transport problems, disease, and the practical limits of campaigning.
 
 ## Significance
 
-**The Second Aceh Expedition** changed the course of the war. It succeeded where the first expedition had failed, and it gave the Dutch possession of the old royal center. But it also created the central paradox of the early [[Aceh War]]: the Dutch could hold the capital and still fail to subdue the country. That is why the expedition remained both a military success and a political beginning rather than an end.
+**The Second Aceh Expedition** changed the course of the war. It succeeded where the first expedition had failed, and it gave the Dutch possession of the old royal center. But it also created the central paradox of the early [[Aceh War]]: the Dutch could hold the capital and still fail to subdue the country. That is why the expedition remained both a military success and the beginning of a much longer struggle.
 
 ## See Also
 
@@ -58,8 +64,13 @@ This reality shaped the early printed debate about the campaign. [[General Knoop
 - [[Third Conquest of the Great Missigit]]
 - [[Capture of the Kraton (24 January 1874)]]
 - [[Van Swieten's Proclamation of 31 January 1874]]
+- [[Expedition to Bital (12 February 1874)]]
+- [[Expedition to Ketapang Doewa (15 February 1874)]]
+- [[Battle of Lampoe Oek (16 April 1874)]]
+- [[General van Swieten War Telegrams]]
 - [[Open Letter by Brutus to General Knoop]]
-- [[General Van Swieten's letter in Het Vaderland]]
+- [[Atjeh gedurende de tweede expeditie en later]]
+- [[Commander's Journal of the Second Aceh Expedition]]
 - [[Aceh War]]
 - [[9 December]]
 - [[24 January]]
@@ -75,6 +86,6 @@ This reality shaped the early printed debate about the campaign. [[General Knoop
 
 *Onze vestiging in Atjeh, critisch beschreven*, door G. F. W. Borel (The Hague: D. A. Thieme, [[1878]]), pp. 9–49, 58–73, 118–122.
 
-*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier (Batavia: Ogilvie & Co., [[1876]]), pp. 5–75.
+*Open brief aan den Generaal Knoop over de Atjeh-kwestie*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 4–33.
 
-*Open brief aan den Generaal Knoop over de Atjeh-kwestie (naar aanleiding van den brief van Generaal Van Swieten in Het Vaderland)*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 4–33.
+*Atjeh gedurende de tweede expeditie en later*, Een Oud Officier (Batavia: Ogilvie & Co., [[1876]]), pp. 5–75.

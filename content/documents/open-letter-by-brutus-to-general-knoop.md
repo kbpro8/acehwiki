@@ -4,44 +4,49 @@ aliases: ["Open brief aan den Generaal Knoop over de Atjeh-kwestie", "BRUTUS Ope
 tags: [document, pamphlet, military, controversy, dutch, aceh-war]
 ---
 
-**Open Letter by Brutus to General Knoop** was the [[1874]] pamphlet in which the pseudonymous author [[Brutus]] defended [[General Knoop]]'s judgement that the [[Second Aceh Expedition (1873-1874)]] had been only "slechts ten halve gelukt" — only half successful. The pamphlet was written in reply to [[General Van Swieten's letter in Het Vaderland]], which had tried to prove that the expedition had fully succeeded.
+**Open Letter by Brutus to General Knoop** was the [[1874]] pamphlet in which the pseudonymous author [[Brutus]] defended [[General Knoop]]'s judgement that the [[Second Aceh Expedition (1873-1874)]] had been only partly successful. The pamphlet answered [[General Van Swieten's letter in Het Vaderland]], which had tried to show that the expedition had fully succeeded after the fall of the [[Kraton of Aceh|Kraton]].
 
-The document is important because it turned a professional military judgement into a public historical argument. It retold the whole march from [[Battle of Tiban (14 December 1873)|Tiban]] to the [[Kraton of Aceh|Kraton]] as a story of delays, missed pursuit, and misplaced confidence.
+This was one of the most important Dutch pamphlets of the early [[Aceh War]], because it turned a military judgement into a public, detailed argument about what had happened on the ground between [[December]] [[1873]] and [[April]] [[1874]].
 
-## Occasion and argument
+## Why the pamphlet was written
 
-Brutus addressed [[General Knoop]] directly. He argued that many readers had wrongly taken the publication of [[General Van Swieten's letter in Het Vaderland]] in [[Het Vaderland]] as proof that Knoop had given way. The pamphlet answered that impression by restating the central question: if the expedition had really succeeded, why was the war in [[Aceh|Atjeh]] still going on?
+Brutus believed that many readers had taken the publication of Van Swieten's letter in [[Het Vaderland]] as proof that [[General Knoop]] had been answered. He rejected that view. His central question was simple: if the expedition had really succeeded, why was the war in [[Aceh|Atjeh]] still continuing?
 
-## Reconstructing the campaign
+## The campaign retold as criticism
 
-The heart of the pamphlet was a chronological critique of the campaign. Brutus moved from the Dutch success at [[Battle of Tiban (14 December 1873)|Tiban]] on [[14 December]] [[1873]], to the concentration at [[Penajoeng]], to the delays before the actions at [[Battle of Lemboe (25–26 December 1873)|Lemboe]] and the [[Third Conquest of the Great Missigit|Great Missigit]], and finally to the occupation of the [[Kraton of Aceh|Kraton]] on [[24 January]] [[1874]].
+The heart of the pamphlet was a retelling of the campaign itself. Brutus moved from the Dutch success at [[Battle of Tiban (14 December 1873)|Tiban]], to the delays at [[Penajoeng]], to the operations at [[Battle of Lemboe (25–26 December 1873)|Lemboe]] and the [[Third Conquest of the Great Missigit|Great Missigit]], and finally to the occupation of the [[Kraton of Aceh|Kraton]] on [[24 January]] [[1874]].
 
-He then turned to the period after the capture of the capital: the expeditions to [[Expedition to Bital (12 February 1874)]] and [[Expedition to Ketapang Doewa (15 February 1874)]], and the reverse of [[Battle of Lampoe Oek (16 April 1874)]]. In his view, these events proved that the Dutch had won a visible military success without forcing real submission.
+He then turned to the period after the capital fell. The expeditions to [[Expedition to Bital (12 February 1874)]], [[Expedition to Ketapang Doewa (15 February 1874)]], and the reverse at [[Battle of Lampoe Oek (16 April 1874)]] showed, in his view, that the Dutch had taken the center without truly breaking resistance.
 
-## Criticism of Van Swieten
+## The charge against Van Swieten
 
-Brutus accused [[Jan van Swieten]] of moving too slowly and trusting too much in expectation. He argued that the command behaved as if the mere occupation of the [[Kraton of Aceh|Kraton]] would naturally lead to submission. Instead, the Acehnese kept fighting.
+Brutus argued that Van Swieten moved too slowly and trusted too much in expectation. He believed the command acted as if the occupation of the [[Kraton of Aceh|Kraton]] would naturally bring the rest of the country to submission. Instead, the Acehnese kept fighting, building new positions and using every Dutch pause to recover.
 
-Brutus also criticized what he saw as misplaced humanitarian softness. He argued that the enemy had not been made to fear continued resistance. This line of criticism became part of the early Dutch debate on how the war in [[Aceh|Atjeh]] should be fought.
+## Humanitarian softness and military result
 
-## Later rebuttals
+One of the best-known parts of the pamphlet was its criticism of what Brutus saw as misplaced softness. He argued that the enemy had not been made to fear continued resistance enough. This line of thought later became part of the wider Dutch debate on whether the war had been fought too cautiously or too harshly.
 
-The pamphlet did not go unanswered. Later writers, especially the anonymous author of *Atjeh gedurende de tweede expeditie en later*, tried to defend Van Swieten by using official reports and the command journal. The Brutus pamphlet therefore became one of the key texts in the first historical controversy about the war.
+## The reply from 1876
+
+The pamphlet did not remain unanswered. In [[1876]], the anonymous work [[Atjeh gedurende de tweede expeditie en later]] used official material such as the [[Commander's Journal of the Second Aceh Expedition]] and the [[General van Swieten War Telegrams]] to answer Brutus and defend Van Swieten's conduct. Because of this reply, the Brutus pamphlet became part of a larger printed controversy rather than a single isolated attack.
 
 ## Significance
 
-**Open Letter by Brutus to General Knoop** mattered because it fixed the argument that taking the [[Kraton of Aceh|Kraton]] was not the same as ending the war. It linked field operations, public debate, and the reputation of commanders into one powerful critique, and it helped preserve Knoop's phrase "only half successful" in the history of the [[Aceh War]].
+**Open Letter by Brutus to General Knoop** is significant because it preserved one of the earliest full arguments that taking the [[Kraton of Aceh|Kraton]] was not the same as ending the war. It linked places, dates, military choices, and public reputation into a single critique, and it helped fix the idea that the second expedition had won a major success without achieving final submission.
 
 ## See Also
 
 - [[Brutus]]
 - [[General Knoop]]
 - [[General Van Swieten's letter in Het Vaderland]]
+- [[Atjeh gedurende de tweede expeditie en later]]
+- [[Commander's Journal of the Second Aceh Expedition]]
+- [[General van Swieten War Telegrams]]
 - [[Jan van Swieten]]
 - [[Second Aceh Expedition (1873-1874)]]
-- [[Advance from Penajoeng to the Kraton (14 December 1873 – 24 January 1874)]]
 - [[Battle of Lampoe Oek (16 April 1874)]]
 - [[Het Vaderland]]
+- [[18 November]]
 - [[1874]]
 
 ## Source

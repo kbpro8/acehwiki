@@ -1,37 +1,52 @@
 ---
 title: "Expedition to Bital (12 February 1874)"
 aliases: ["Expeditie naar Bital", "12 February 1874 Bital expedition", "Bital operation", "Toekoe Nek Bital expedition"]
-tags: [event, military, dutch, colonial, aceh-war, 1874, expedition, alliance]
+tags: [event, expedition, military, dutch, aceh-war, colonial, 1874]
 ---
 
-**The Expedition to Bital (12 February 1874)** was the military expedition undertaken by the [[Second Aceh Expedition (1873–1874)|second Aceh expedition]] on [[12 February]] [[1874]] — a week after the [[Death of the Sultan of Atjeh and annexation proclamation (1874)|annexation proclamation]] — at the express request of [[Toekoe Nek]], the Dutch-allied hoofd of [[Marassa]], against the kampong of [[Bital]], about an hour's march south-west of the [[Kraton of Atjeh|Kraton]], in which Dutch bataljons in linie advanced across open [[Sawah|sawahs]] against a moorddadig vuur from the boschrand, stormed the kampong-rand under a "streng gelast" order "geen enkel huis of eenig eigendom te beschadigen" (to damage no house or property whatsoever), and then — having handed the captured kampong over to the Marassanen — immediately withdrew to [[Penajoeng]] at night, whereupon Bital was at once lost. Borel treats the operation as a textbook case of misapplied grootmoedigheid.
+**The Expedition to Bital (12 February 1874)** was a Dutch attack made on [[12 February]] [[1874]] during the late phase of the [[Second Aceh Expedition (1873-1874)]]. The operation was carried out at the request of [[Toekoe Nek Radja Moeda Setia|Toekoe Nek]], the Dutch ally at [[Marassa]], against the hostile kampong of [[Bital]] southwest of the [[Kraton of Aceh|Kraton]]. The Dutch stormed the position and drove the defenders away, but they did not hold the ground. Very soon the enemy returned.
 
-## The Request
+The expedition became important in later debate because critics used it as an example of a Dutch victory that was not turned into lasting result.
 
-[[Toekoe Nek]] was, in Borel's account, the only Dutch ally in Atjeh after the [[Fall of the Kraton (24 January 1874)|fall of the Kraton]]. His gebied of [[Marassa]] lay "tusschen 2 vuren" — between two fires: between the Dutch at [[Kota Radja]] and the hostile Atjehnees confederations of the [[VI Moekims]] and the interior. His hold on Marassa depended on his being able to demonstrate that alliance with the Dutch brought tangible protection against the kampongs that harried his borders. [[Bital]], about an hour south-west of the Kraton, was one of the hostile kampongs that had been raiding Marassa. Toekoe Nek requested that the Dutch reduce it.
+## Why the attack was made
 
-## The Operation
+After the fall of the [[Kraton of Aceh|Kraton]], [[Toekoe Nek Radja Moeda Setia|Toekoe Nek]] remained one of the few important local allies of the Dutch. His area at [[Marassa]] stood between Dutch positions and hostile neighboring districts. He asked for military help against enemies who threatened his ground. [[Bital]] was one of the kampongs that had to be dealt with if Dutch alliance with Toekoe Nek was to mean anything in practice.
 
-On [[12 February]] [[1874]] the expedition set out. Dutch bataljons formed up in linie and advanced across the open sawahs that lay between the [[Kraton of Atjeh|Kraton]] and [[Bital]]. As they approached the boschrand of the kampong, the Atjehneezen opened a "moorddadig vuur" from the cover of the trees and the [[Bamboe-doeri versperringen|bamboe-doeri]] that lined the edge. The Dutch infantry pressed forward through the sawah — exposed, taking losses — and at length stormed the kampong-rand. Once inside Bital, the troops received and obeyed a "streng gelast" order: "geen enkel huis of eenig eigendam te beschadigen." The kampong was taken intact; not a house was burned, not a property looted. The Dutch then handed Bital over to Toekoe Nek's Marassanen and, with the night approaching, withdrew to the bivouak of [[Penajoeng]].
+## The march and assault
 
-## The Loss
+On [[12 February]] [[1874]], Dutch troops marched out across open rice-fields toward [[Bital]]. As they neared the village edge, the Acehnese opened heavy fire from the tree line and field defenses. The Dutch pressed forward under fire and finally stormed the kampong.
 
-The Dutch had no sooner disappeared back down the road to Penajoeng than the Atjehneezen returned. By the morning, Bital was again in enemy hands. The whole operation — the exposed advance across the sawah, the casualties of the storm, the careful preservation of the kampong — had been for nothing. Borel draws the moral with characteristic sharpness: "grootmoedigheid is eene eigenschap waarvan de Atjehnees niet het flauwste begrip heeft" — generosity is a quality of which the Acehnese has not the faintest understanding. To preserve enemy property in the middle of a war, in the expectation that the enemy would respond in kind, was, in Borel's view, a piece of "ziekelijke denkbeelden" (sickly sentiment) wholly inappropriate to the Atjehnees character. The operation would be repeated three days later at [[Expedition to Ketapang Doewa (15 February 1874)|Ketapang Doewa]] with the same result: a heavier battle, a heavier butcher's bill, and the same immediate abandonment of the captured ground. The pattern of capture-and-withdrawal would, in Borel's account, become the signature of [[Jan van Swieten|van Swieten]]'s command.
+According to Borel, the troops had strict orders not to damage houses or property. The village was therefore taken intact. The Dutch then handed it over to the men of Toekoe Nek.
+
+## Immediate loss of the position
+
+The success did not last. Because the Dutch withdrew again to [[Penajoeng]], the Acehnese soon returned. By the next morning, or very soon after, the position was effectively lost again.
+
+This made the whole operation look deeply unsatisfactory to later critics. Men had crossed exposed ground, taken casualties, and won the position, yet the result did not remain in Dutch or allied hands.
+
+## How Brutus read the event
+
+[[Brutus]] used Bital as a key example in his case against [[Jan van Swieten]]. He argued that the enemy had been broken on that day, but the Dutch failed to pursue him. In Brutus's reading, only part of the expedition's total strength had been used, so there were still troops available for further action. Instead of pressing the enemy while he was in retreat, the command allowed the moment to pass.
+
+## Significance
+
+**The Expedition to Bital** is significant because it shows the difference between a local battlefield success and a lasting political result. The Dutch could take the kampong, but they did not make the victory permanent. For later critics, Bital became one of the clearest early signs that the second expedition was not turning its successes into submission.
 
 ## See Also
 
-- [[Second Aceh Expedition (1873–1874)]]
-- [[Bital]]
+- [[Second Aceh Expedition (1873-1874)]]
+- [[Toekoe Nek Radja Moeda Setia]]
 - [[Marassa]]
-- [[Toekoe Nek]]
-- [[Expedition to Ketapang Doewa (15 February 1874)]]
+- [[Bital]]
 - [[Penajoeng]]
-- [[Kraton of Atjeh]]
-- [[Sawah]]
-- [[Bamboe-doeri versperringen]]
+- [[Expedition to Ketapang Doewa (15 February 1874)]]
+- [[Open Letter by Brutus to General Knoop]]
 - [[Jan van Swieten]]
+- [[12 February]]
 - [[1874]]
 
 ## Source
 
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 44–47, 54–57.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel (The Hague: D. A. Thieme, [[1878]]), pp. 44–47, 54–57.
+
+*Open brief aan den Generaal Knoop over de Atjeh-kwestie (naar aanleiding van den brief van Generaal Van Swieten in Het Vaderland)*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 17–18.

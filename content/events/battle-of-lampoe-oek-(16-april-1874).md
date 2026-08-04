@@ -1,42 +1,61 @@
 ---
 title: "Battle of Lampoe Oek (16 April 1874)"
 aliases: ["Slag bij Lampoe Oek", "16 April 1874 Lampoe Oek échec", "Romswinckel's échec", "Lampoe Oek disaster", "Noodlottige datum 16 April"]
-tags: [event, military, dutch, colonial, aceh-war, 1874, battle, échec, controversy]
+tags: [event, battle, military, dutch, aceh-war, colonial, 1874, controversy]
 ---
 
-**The Battle of Lampoe Oek (16 April 1874)** was the Dutch échec fought on [[16 April]] [[1874]] — exactly one year after the [[First Aceh Expedition (April 1873)|failure of the first expedition]] of [[16 April|16 April]] [[1873]], a "noodlottige datum" (fatal date) — when two patrols of 100 men each under kapitein Bardok and 1ste luitenant Scheltus, sent out from [[Kota Radja]] in execution of [[Jan van Swieten|van Swieten]]'s instruction of [[7 April|7 April]] [[1874]] for daily patrols, struck a strongly fortified Atjehnees stelling near [[Longbatta]] that the Dutch had known nothing about, later called [[Lampoe Oek]], and were repulsed with "bijna 100 dooden en gewonden" of whom five were "vermist," an échec which Borel calls "geweldig" and which "veel van de vroeger behaalde voordeelen bedierf." [[Jan van Swieten|Van Swieten]] was "zeer verbolgen," blamed [[Majoor Romswinckel|romswinckel]] entirely and refused him a hearing. Borel, with characteristic independence, defends Romswinckel: he was, Borel insists, following the spirit of the [[7 April|7 April]] instruction.
+**The Battle of Lampoe Oek (16 April 1874)** was the Dutch reverse fought on [[16 April]] [[1874]] during the late phase of the [[Second Aceh Expedition (1873-1874)]]. A Dutch patrol near [[Longbatta]] ran into a strong Acehnese fortification later known as [[Lampoe Oek]]. Reinforcements were sent in, fighting continued for hours, and the Dutch were finally forced to retreat with heavy losses. The action became one of the most disputed events of the campaign.
 
-## The Patrols
+The battle mattered because it happened after the Dutch had already taken the [[Kraton of Aceh|Kraton]]. It showed very clearly that the war in [[Aceh|Atjeh]] was not over.
 
-On [[7 April]] [[1874]] van Swieten had issued an instruction to [[Generaal Pel|kolonel Pel]] to send daily patrols — from [[Pakan Atjeh]] to the Taman and back — gradually extending to 1500–2000 pas from the hoofdwal of [[Kota Radja]]. The goal was to investigate the terrain, make the enemy "beangst," and prevent the Atjehneezen from nesting in the boschrand within striking distance of the garrison. Borel's comment is that this "hoogst nuttige maatregel" should have been applied "van af de inneming van den Kraton, en niet 2½ maand daarna" — from the taking of the Kraton, and not two and a half months later. On [[16 April]] the daily patrol consisted of two companies of 100 men each, under kapitein Bardok and 1ste luitenant Scheltus. They were heavily engaged. [[Majoor Romswinckel|Majoor Romswinckel]] was sent out with a compagnie infanterie and a sectie artillerie to support them.
+## Background
 
-## The Discovery
+On [[7 April]] [[1874]], Van Swieten ordered daily patrols to move out from [[Kota Radja]] in order to inspect the ground and keep the enemy from settling too close to the Dutch position. Later critics pointed out that this useful measure came very late. In their view, the Dutch had already spent too long sitting still after the capture of the [[Kraton of Aceh|Kraton]].
 
-Romswinckel's colonne discovered, in the boschrand near [[Longbatta]], a strongly fortified enemy stelling of which the Dutch had known nothing. The work was later called [[Lampoe Oek]]. It had been built, undisturbed, between the [[Expedition to Ketapang Doewa (15 February 1874)|expedition to Ketapang Doewa]] of [[15 February]] [[1874]] and [[16 April]] [[1874]] — a full two months during which the Dutch had sat still within their stelling and the Atjehneezen had been free to fortify the high ground that would give them a permanent grip on the western approach to the [[Kraton of Atjeh|Kraton]]. Romswinckel, "over eene voor het doel vrij aanzienlijke macht beschikkend" — having at his disposal a force fairly considerable for the purpose — judged that he could attack.
+Between the earlier operations of [[Expedition to Ketapang Doewa (15 February 1874)]] and [[16 April]] [[1874]], the Acehnese had time to strengthen a new position near [[Longbatta]]. This helped make the coming clash more dangerous.
 
-## The échec
+## The patrols meet strong resistance
 
-The initial attack was repulsed by "bijna onoverkomelijke terreinhindernisen" and "woedenden tegenstand" — near-insuperable terrain obstacles and furious resistance. Romswinckel called for and received versterking: kapiteins van de Poll, Vasseur, Hamilton of Silvertonhill, and four [[Lithofracteur|handmortieren]] under luitenant der artillerie van der Kruk. The combined force attacked "van verschillende zijden" — from various sides — and again suffered "schipbreuk" on the terrain. Romswinckel was "te dapper en te fier" to retreat at the first check; he persisted until it was clear that the position could not be carried, and then drew off his force. The butcher's bill was severe: "bijna 100 dooden en gewonden," of whom five were "vermist" — missing, presumably dead in the boschrand.
+On [[16 April]] [[1874]], two patrols of about 100 men each, under Captain Bardok and First Lieutenant Scheltus, went out from the Dutch side. They came under heavy fire. [[Majoor Romswinckel|Major Romswinckel]] was sent to support them with infantry and artillery.
 
-## Borel's Defence of Romswinckel
+When he reached the area, Romswinckel found a much stronger fortified position than the Dutch had expected. This was the work later called [[Lampoe Oek]]. Because the position lay close to the Dutch center, the fight could not simply be ignored.
 
-The date [[16 April]] [[1874]] was, Borel writes, "noodlottig" — exactly one year after the failure of the [[First Aceh Expedition (April 1873)|first expedition]]. [[Jan van Swieten|Van Swieten]] was "zeer verbolgen," blamed Romswinckel entirely, and refused him a hearing. Borel defends Romswinckel on two grounds. First, Romswinckel was following the spirit of the [[7 April|7 April]] instruction, which had ordered aggressive patrolling. To punish an officer for the consequences of an order he was obeying was unjust. Second, the real fault lay with the two months of passivity that had allowed the Atjehneezen to fortify [[Lampoe Oek]] undisturbed. The échec was, in Borel's account, the fruit of the [[Afwachtende houding|afwachtende houding]] itself — the very system van Swieten was about to [[Van Swieten declares the Aceh War ended (1874)|pronounce at an end]] in his [[23 April|23 April]] afscheidsrede. "À quelque chose malheur est bon," Borel adds: the one voordeel of the disaster was that a half bataljon extra was kept in Atjeh rather than sent home with the rest.
+## The six-hour fight
+
+According to the later account used by [[Brutus]], Romswinckel had been given an oral order to attack the enemy fortification and had even been supplied with *lithofracteur* charges to destroy enemy artillery if needed. During the fighting, more troops were sent from the Dutch side, and at Romswinckel's request he also received grenades and signal lights. The battle went on for about six hours.
+
+Borel described the terrain as extremely difficult and the resistance as fierce. Several further officers and specialists joined the effort, but even with reinforcement the Dutch could not carry the position. Romswinckel eventually had to withdraw.
+
+## Losses and blame
+
+Losses were heavy. Borel wrote of nearly 100 killed and wounded, with five men missing. The defeat hit Dutch morale hard. It was also symbolically painful because it came exactly one year after the failure of the first expedition in [[April]] [[1873]], which made some Dutch writers call [[16 April]] a fatal date.
+
+Van Swieten was said to be furious and blamed Romswinckel. Borel strongly defended the major, arguing that he had acted in the spirit of the orders given. [[Brutus]] made the same point differently: if the attack had truly been wrong, the command near the [[Kraton of Aceh|Kraton]] had every chance to stop it earlier. Since reinforcement and ammunition had continued to be sent, it was unfair to place all blame on the field commander after the failure.
+
+## Why the battle became controversial
+
+For Borel, the real cause of the disaster was Dutch passivity in the previous weeks. For Brutus, the deeper problem was what happened after the defeat. He argued that once the Dutch had suffered such a visible reverse, a second attack became even more necessary in order to break the enemy's confidence and restore Dutch prestige. That second attack never came. In his eyes, this failure to answer the setback was proof that the expedition had ended in a weak and unfinished way.
+
+## Significance
+
+**The Battle of Lampoe Oek** is significant because it exposed the weakness of Dutch claims that victory was already secure after [[24 January]] [[1874]]. The battle showed that the Acehnese could still build, resist, and strike back close to the Dutch center. It also became one of the strongest pieces of evidence used by critics of Van Swieten's command.
 
 ## See Also
 
-- [[Second Aceh Expedition (1873–1874)]]
-- [[Lampoe Oek]]
+- [[Second Aceh Expedition (1873-1874)]]
 - [[Longbatta]]
 - [[Majoor Romswinckel]]
-- [[Generaal Pel]]
-- [[Pakan Atjeh]]
 - [[Jan van Swieten]]
-- [[Van Swieten declares the Aceh War ended (1874)]]
-- [[First Aceh Expedition (April 1873)]]
+- [[Open Letter by Brutus to General Knoop]]
+- [[Atjeh gedurende de tweede expeditie en later]]
+- [[Expedition to Ketapang Doewa (15 February 1874)]]
+- [[Kraton of Aceh]]
 - [[Afwachtende houding]]
-- [[Lithofracteur]]
+- [[16 April]]
 - [[1874]]
 
 ## Source
 
-*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 58–73, 114, 131.
+*Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel (The Hague: D. A. Thieme, [[1878]]), pp. 58–73, 114, 131.
+
+*Open brief aan den Generaal Knoop over de Atjeh-kwestie (naar aanleiding van den brief van Generaal Van Swieten in Het Vaderland)*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 28–30.
