@@ -65,6 +65,27 @@ the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indi�
 
 The corps had been reduced in [[1925]] to 18 officers and 1,072 men, a reduction in which, the editors remarked, the policy of *versobering* (austerity) must have had "een hartig woord" to say.
 
+## Account from *Over patchouly-olie en patchouly-blad van Atjeh (1925)* — the patchouli discovery
+
+In the early twentieth century the *landschap* of Bakongan became the site of one of the most consequential agricultural discoveries in the colonial Atjeh economy: the discovery, in [[1924]], by [[Van Vreeswijk|Van Vreeswijk]] — the manager of the [[Atjehsche Oliefabriek|Atjehsche Oliefabriek]] at [[Tapa Toean|Tapa Toean]] — that the patchouli (*nilam*) leaf of Bakongan, grown on the sand-and-swamp conjunction of the Bakongan coastal strip and dried with the care the Bakongan planters had begun to devote to it, was the finest patchouli-leaf of [[Atjeh|Atjeh]], with an odour "veel sterker dan dat uit eenig andere streek in Atjeh" (much stronger than from any other region in Atjeh).
+
+### Van Vreeswijk's Letter of 16 August 1924
+
+Van Vreeswijk's letter of [[16 August]] [[1924]] to the [[Afdeeling Handelsmuseum|Afdeeling Handelsmuseum]] at Amsterdam — preserved in [[Over patchouly-olie en patchouly-blad van Atjeh (1925)|*Bericht* No. 21 of the Afdeeling Handelsmuseum]] (April 1925) — recorded his discovery after a recent trip to Bakongan:
+
+> "Sedert een jaar plant men daar veel op een strook grond langs de kust, aan den anderen kant begrensd door moerasgrond. De vereeniging daarvan met zandgrond, schijnt de plant zeer ten goede te komen." — For a year now much has been planted there on a strip of land along the coast, bounded on the other side by swamp-ground. The conjunction of that with sand-ground seems to agree very well with the plant.
+
+The Bakongan planters, Van Vreeswijk reported, devoted "verreweg de meeste zorg" — by far the most care — to the cultivation of patchouli of any Atjehnese planters he had observed. The leaf "komt biina geheel gezuiverd aan de markt" (comes almost wholly cleaned to market). The new coastal-strip planting had already been picked twice within the year, and a third picking would follow within the year. Market price: ƒ14 per *pikol* — more than double the ƒ5-ƒ6 per *pikol* of the [[Laboh Hadji|Labohan-Hadji]] leaf, the least valuable of the Tapa Toean districts.
+
+### The Bakongan Triumph of Winter 1924-1925
+
+Van Vreeswijk made up the second shipment of the [[Atjeh patchouli experiments (1921-1925)|1924 quarterly programme]] from Bakongan leaf, and sent it to Amsterdam at the end of October 1924. The Bakongan leaf, when distilled by the European essential-oil houses over the winter of 1924-1925, produced oil uniformly judged equal in quality to the best Singapore-Penang product:
+
+- [[Schimmel & Co.|Schimmel & Co.]] of Miltitz reported: "Die untersuchten Dilemblätter sind hiernach den Singapore-Patchouliblättern als gleichwertig zu erachten. Die Oelausbeute ist recht befriedigend und das Oel selbst nach Geruch und Konstanten von guter Qualität."
+- A Dutch factory reported: "Het ons gezonden monster van het Koloniaal Instituut Nr 21718 ruikt heel goed en komt ons inziens in reuk overeen met goede kwaliteit Penang-olie en is in ieder geval veel beter dan de Java-olie (z.g. Dilem-olie)."
+
+The Handelsmuseum's conclusion was: "prima blad, prima olie; op de winning van het goede blad komt het aan! en niet op de nabehandeling te Penang of Singapore." — Prime leaf, prime oil; it is the winning of the good leaf that matters, and not the after-treatment at Penang or Singapore. The Bakongan discovery broke the [[Singapore|Singapore]]-[[Penang|Penang]] monopoly on prime patchouli oil and established the indigenous Atjeh patchouli-oil industry on a firm commercial basis.
+
 ## See Also
 
 - [[Thijs de Fretes]]
@@ -101,3 +122,5 @@ The corps had been reduced in [[1925]] to 18 officers and 1,072 men, a reduction
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
 
 *Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 55, 285, 407.
+
+*Over patchouly-olie en patchouly-blad van Atjeh (Noord-Sumatra).* Berichten van de Afdeeling Handelsmuseum van de Kon. Vereeniging Koloniaal Instituut, No. 21. Overgedrukt uit *De Indische Mercuur* van 8 en 15 Mei 1925. Amsterdam: Druk De Bussy. OCR-filename: `20260801_233856_DLP-153-Over_patchouly_olie_en_patchouly_blad_van_Atjeh_Noord_Sumatra_Nemotron-OCR-v2_OCR.txt`, pp. 17-21.
