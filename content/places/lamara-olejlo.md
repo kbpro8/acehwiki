@@ -1,5 +1,5 @@
 ---
-title: Lamara Olejlo
+title: "Lamara Olejlo"
 aliases: [Lamara Olejlo, Lamara Oleilo, Lamara Olehlo, Kampong Lamara Olejlo]
 tags: [place, kampong, fortification, acehnese, aceh-war, dutch]
 ---
@@ -13,6 +13,10 @@ After the [[Missigit Longbatta operation (31 December 1874 – 13 January 1875)|
 ## The Fortification of 15 February 1875
 
 [[Cornelis Jacobus Snijders|Snijders]] received orders at midday on [[15 February]] [[15 February]] at [[Koeta Radja|Kota Radja]] and marched with part of the company and a detachment of 100 dwangarbeiders, with a quantity of tools and sandbags, to put the captured benting in a state of defence. The full operation is described on the [[Lamara Olejlo fortification (15 February 1875)|operation page]]. With the completion of the work Snijders' task with the field column ended.
+
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Lamara-Oleyloe (Lamara near Oleh-leh) in the chain of posts of the position of April [[1875]]: in the southern chain from Oedjong Palanggahan to [[Missigit Longbatta|Longbatta-Missigit]] — Soerian, Poe-oe, Blangey, Bang Tjoen Tjoet, Setoe Zuid, Lamara-Oleyloe, Lohong (see [[Verstege's folding map of Groot-Atjeh (1886)]]).
 
 ## See Also
 
@@ -63,3 +67,5 @@ Three or four enemy *benteng*, several cannon and *lilla*'s fell into Dutch hand
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 246, 250–251, 263, 322.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 53. OCR: DLP-158.

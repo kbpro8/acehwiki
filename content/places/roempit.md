@@ -34,6 +34,10 @@ The post was connected to:
 
 Roempit's early establishment demonstrated the rapid progress of construction following the concentration decision. The post formed an important link in the new defensive line.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records that Roempit was occupied by Dutch troops on 25/29 September [[1884]] — one of the first posts of the new line to be taken in hand, while already before the completion of the new chain the evacuation of the posts outside had begun; that it was one of the eighteen posts of the line of [[1 March]] [[1885]]; and that, according to the latest news of the pamphlet (January [[1886]]), the [[Ceintuur-trambaan|belt tramway]] of the line had then been completed as far as Roempit (see [[Completion of the concentrated position (March 1885)]]).
+
 ## See Also
 
 - [[Geconcentreerde Stelling]]
@@ -43,3 +47,5 @@ Roempit's early establishment demonstrated the rapid progress of construction fo
 ## Source
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 24–25.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 81, 83. OCR: DLP-158.

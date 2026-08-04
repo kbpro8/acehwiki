@@ -20,6 +20,10 @@ Meijer includes Langkroek and Langkroek East, with [[Tibang]] and the two [[Lama
 
 Across the moist ground between Langkroek and the farther northeast posts the garrisons made a clay road, completed with difficulty and usable only in dry weather, that joined these posts to each other and to [[Lamprit]]; with the whole chain of small works they were, in [[1876]], the near watch posts of the Dutch over all movement on the lagune side of the [[XXVI Moekims]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Langkroek-Oost (Oost-Langkroek) in the chain of posts of the position at the end of April [[1875]], between [[Lampriet]] and Lamara Zuid-Oost (see [[Verstege's folding map of Groot-Atjeh (1886)]]).
+
 ## See Also
 
 - [[Pedir-dijk]]
@@ -36,3 +40,5 @@ Across the moist ground between Langkroek and the farther northeast posts the ga
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 52–54, 62–64, 73, 92, 95, 121, 125, 142, 165, 200–201.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 53. OCR: DLP-158.

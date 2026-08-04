@@ -75,6 +75,10 @@ Meijer records at the close of his Chapter VIII — completing the story which t
 
 Against this fortification during the two years of the [[Cancellation of friendship with Gigiëng (19 August 1876)|breach with Gigiëng]] Meijer records the post at Segli was repeatedly alarmed and attacked, not only by the people of that realm but by the band of the notorious [[Tengkoe di Tirou|Toekoe di Tiroe]] descending from Pidir ground.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records that with the new policy of the [[Concentratie-stelsel (1884-1896)|concentration]], the garrisons of the coast states were given up; only at [[Edi]] and at Segli was the maintenance of a military garrison judged necessary (see [[Blokkade]] of [[1884]]-[[1885]] and [[Malaboeh]]).
+
 ## See Also
 
 - [[Pedir]]
@@ -125,3 +129,5 @@ Town on [[Noordkust]] at [[K.M.]] 71 ([[Saré]] pass at 475 m is highest point b
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
 
 *Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 57, 58, 59, 60, 85, 86, 87, 89, 102, 190, 287, 291, 312, 323, 329, 341, 360, 362, 367, 383, 386.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 87. OCR: DLP-158.

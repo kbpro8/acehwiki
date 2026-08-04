@@ -43,6 +43,10 @@ The post was connected to:
 
 Lampermej's relocation and rebuilding demonstrated the systematic approach to the concentration. The post was one of the most important on the southern section, and its improved position enhanced the overall defensive capability.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records: Lampermej was one of the eighteen posts of the line of [[1885]]; it harboured the tramway bridge near which luitenant [[Luitenant Tuinenburg (1885)|Tuinenburg]] was wounded; and in two nights of [[1885]] — 12-13 and 20-21 September — the tramway near Lampermej was dug out by the enemy, the first time leaving the rails hanging in the air (fortunately discovered in time, with the enemy in ambush), the second time damaging again and destroying the telephone connection (see [[Guerilla raids inside the concentration line (1885)]]).
+
 ## See Also
 
 - [[Geconcentreerde Stelling]]
@@ -54,3 +58,5 @@ Lampermej's relocation and rebuilding demonstrated the systematic approach to th
 ## Source
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 17–19, 21.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 81, 109. OCR: DLP-158.

@@ -14,6 +14,10 @@ There followed on the same day the speeches of [[Pijnacker Hordijk]]; of [[J. B.
 
 The debate was resumed and concluded on [[17 November]] [[1897]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+On this date in [[1882]] the Kamer-debate on the worrying state of Atjeh produced the statements of minister [[Willem Maurits de Brauw|de Brauw]] (see [[1882]]) and the warning of [[Rutgers van Rozenburg]] about the blood yet to be shed.
+
 ## See Also
 
 - [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
@@ -29,3 +33,5 @@ The debate was resumed and concluded on [[17 November]] [[1897]].
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178.
 
 *Acknowledgement of sources.* The material in this article derives from *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor 1898* (Amsterdam: J. A. Fortuijn, [[1897]]). Dutch passages are quoted in the original with an English rendering.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), see [[Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk (Verstege, 1886)#passages|op. cit.]]. OCR: DLP-158.

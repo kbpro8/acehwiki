@@ -26,6 +26,10 @@ Under [[Deijkerhoff|Deijkerhoff]]'s governorship, the enemy closed the Dutch lin
 
 The 1000-meter strook is the principal site of the daily guerrilla warfare between Dutch patrols and Atjèhse Muslemin from [[1886]] to the end of the [[Aceh War|Atjèh-oorlog]]. The strip — established to prevent the enemy from approaching the Dutch posts unobserved — was, in the event, the principal site of the enemy's approach: the overgrowth of the strip with tropical speed, the location of the notorious Kaloet fortification within it, and the enemy's encirclement of the line from within the strip — these were the principal forms of the Atjèhse military effort in the middle and late phases of the war. The Dutch's inability to keep the strip clear, and the enemy's ability to entrench within it, were the principal military failures of the concentration system, and the principal arguments for the Snouck Hurgronje prescription of a more active defence.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] quotes the Koloniaal Verslag that the new line of [[1885]] was "omgeven door eene 1000 meter breede vrije strook, gezuiverd van kampongs, boomen en struikgewas, om het verdedigingsvermogen zooveel mogelijk te verhoogen" ("surrounded by a 1000-metre wide free strip, cleansed of kampongs, trees and shrubbery, to heighten the defensive power as much as possible"), and answers: "de plantengroei der tropen is zoo weelderig dat het terrein spoedig weder begroeid zal zijn" ("the plant growth of the tropics is so luxuriant that the terrain will soon be overgrown again"), while the Atjehers, by old habit, were already surrounding the Dutch line with entrenchments which would close in more and more as the terrain favoured them. The official journal shows what the clearing itself cost: from 9 to 26 February [[1885]], 3 dead and 15 wounded, among whom two officers; from 12 to 31 March, 8 killed (among whom one officer) and 25 wounded (among whom one officer); and Perelaer's chronicle ([[Guerilla raids inside the concentration line (1885)]]) that the strip by no means fenced out the raids: the clearing-burnings at [[Lampermej]], the surprise at [[Penditi]] (25 February), the nightly firing upon kampongs, watches and piles of rails followed immediately.
+
 ## See Also
 
 - [[Geconcentreerde Linie]]
@@ -56,3 +60,5 @@ The 1000-meter strook is the principal site of the daily guerrilla warfare betwe
 ## Source
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX, X, XII. OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 48–52, 54, 64, 68.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 81, 108-110. OCR: DLP-158.

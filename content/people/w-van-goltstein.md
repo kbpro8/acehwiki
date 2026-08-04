@@ -1,5 +1,5 @@
 ---
-title: W. van Goltstein
+title: "W. van Goltstein"
 aliases: [Willem van Goltstein, Van Goltstein, Mr. W. van Goltstein, Minister Van Goltstein, Minister of Colonies Van Goltstein]
 tags: [person, minister, dutch, colonial, politician]
 description: Dutch politician (born 1831) who served two non-consecutive terms as Minister of Colonies (1874-1876 and 1879-1882) during the later years of the Aceh War.
@@ -84,6 +84,10 @@ Van Goltstein's resignation in [[1882]] was prompted by parliamentary criticism 
 
 His legacy lies in his cautious, gradual approach to reform, his defence of the indigenous social order, and his efforts to balance Dutch and Indian financial interests. He is remembered as a conservative administrator who prioritised stability and continuity over rapid change.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records of the minister's Atjeh course the following fixed dates. On [[28 August]] [[1874]] van Goltstein replaced minister [[I. D. Fransen van de Putte|Fransen van de Putte]], and in December [[1876]], in an article "Atjeh sedert 1874", he publicly testified that kolonel [[Jacobus Pel|Pel]]'s position in the summer of 1874 had been precarious ("hachelijk"), that the Atjehsche population "ons zoo weinig met rust gelaten heeft, dat onze stelling, vóór de aankomst van versterkingen, niet zonder gevaar was" ("left us so little in peace that our position, before the arrival of reinforcements, was not without danger"), that only by bloody fights was some safety secured, and "alléén van offensieve bewegingen zijn vruchten geplukt — en stilzitten was steeds achteruitgaan" ("only from offensive movements was fruit gathered — and standing still was always going backwards"). On [[18 November]] [[1881]] he spoke in the Tweede Kamer of the "valsche philanthropie" (false philanthropy) "which nearly brought luitenant-generaal [[Karel van der Heijden|K. van der Heyden]] on the bench of the accused", as the minister then expressed it — words by which Verstege reminds the reader how the celebrated commander had indeed been virtually put there, "through this counsellor of the crown, after theories from the Queen". On [[28 March]] [[1881]] the same minister, defending the replacement of Van der Heyden as inevitable so as to be able to *opbeuren* ("raise") the Atjehsche population, declared that the answer whether the conqueror had reached his goal had to be affirmative, "vermits alle waarborgen aanwezig waren, dat de oorlog niet meer zou worden hervat" ("since all guarantees were present that the war would not be resumed") — while on the administrator's standpoint, he owned, the answer was less satisfying, with the population of Groot-Atjeh, once estimated at 800,000 souls, declined to 50,000. In [[1882]] he was out of office; his successor [[Willem Maurits de Brauw|de Brauw]] carried the same line.
+
 ## See Also
 
 - [[A. Pruys van der Hoeven]]
@@ -109,3 +113,5 @@ His legacy lies in his cautious, gradual approach to reform, his defence of the 
 *J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni [[1855]]*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, [[1943]], Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, pp. 210–324.
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872–1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 50–55, 233–238.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 4 note, 51, 71. OCR: DLP-158.

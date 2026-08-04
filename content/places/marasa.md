@@ -16,6 +16,10 @@ Dutch influence had in Marasa its nearly only local anchor: Toekoe Nja Hamza, th
 
 The posts of the inner ring round the establishment (Lampasei, Blang-Oë) were largely kept for the protection of this never-unfaithful district, which lay within calling distance of the enemy bands of kampong [[Pinang (kampong)|Pinang]] and the roads over which they moved.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records two facets of the moekim Marassa: the physical tableau of its population —"iedereen, die te Oleh-leh zijne intrede op Atjeh doet, valt het op, hoe de welgebouwde inboorling der Moekim Marassa u met eerbiedig opgeheven gestalte ... aanstaart, zonder in het minst de oogen neer te slaan" ("everyone who makes his entry at Atjeh at Oleh-leh is struck by how the well-built native of the moekim Marassa faces you with proudly erect bearing... without in the least lowering his eyes"), "en dat zijn Atjehers die zich zonder strijd aan ons gezag hebben onderworpen, dus geenszins het meest energieke deel der natie" ("and those are Atjehers who have submitted to our authority without struggle, thus by no means the most energetic part of the nation", from the manuscript of the contrôleur [[Kroesen (controleur at Oleh-leh)|Kroesen]]) — and the sacrifice of its alliance: on [[27 April]] [[1874]], one day after [[Departure of Jan van Swieten from Atjeh (April 1874)|van Swieten's departure]], the enemy punished the area of Marassa, the Dutch allies of the first and second expeditions, and laid seven kampongs in ashes (see [[Punishment of Marassa (27 April 1874)]]).
+
 ## See Also
 
 - [[VI Moekims]]
@@ -26,3 +30,5 @@ The posts of the inner ring round the establishment (Lampasei, Blang-Oë) were l
 ## Source
 
 *Atjeh van 26 December 1875 tot 4 September 1876*, door H. F. Meijer (Breda: P. B. Nieuwenhuijs, [[1883]]), introduction (p. IX–XI) and chapter I (p. 33).
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 15, 50. OCR: DLP-158.

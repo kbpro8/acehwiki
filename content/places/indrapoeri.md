@@ -24,6 +24,10 @@ the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indi�
 
 By [[1910]] the corps had been redistributed to [[Blang Kedjeren]], [[Malaboeh|Meulaboh]], [[Takengeun|Takèngan]], [[Lam Meulo]] and [[Lho Soekon]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Indrapoerie (self-same as Indrapuri) the old and famous sanctuary of the highlands — "het oude en vermaarde heiligdom der bovenlanden" — occupied in [[1879]] by the irreconcilable [[Imam Longbattah]] and captured on [[24 March]] [[1879]] with insignificant loss (see [[Capture of Indrapuri (24 March 1879)]]); it was the post to which on [[17 August]] [[1879]] the columns returning from [[Selimoen]] brought [[Toekoe Moeda Daoed]] and [[Toekoe Tjoet Hadjet]], and one of the outer fortifications evacuated between [[5 January|5]] and [[14 January]] [[1885]] at the execution of the [[Concentratie-stelsel (1884-1896)|concentration]] (see [[Completion of the concentrated position (March 1885)]]).
+
 ## See Also
 
 - [[XXII Moekims]]
@@ -43,3 +47,5 @@ By [[1910]] the corps had been redistributed to [[Blang Kedjeren]], [[Malaboeh|M
 *Het einde van den Atjeh Oorlog* (Overprintken uit de *Evening Post* van 25, 26 en 27 Augustus 1903, pp. 5-8, 10-11); Somer, Dr. J. M. *Het Atjeh-probleem van 1890-1900* (Overprint uit *Journal / Organ van de Netherlands-Indies Officers Association*, [1935], pp. 4-7); Damste, H. T. "Atjeh-historie," *Koloniaal Tijdschrift* 1916.
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 60, 61, 81. OCR: DLP-158.

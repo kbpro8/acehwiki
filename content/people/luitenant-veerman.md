@@ -12,6 +12,10 @@ Hooijer recorded that nearly three battalions with the necessary cavalry and art
 
 After a long and furious fight, all that fell into Dutch hands, at a cost of three times as many dead and wounded, was an outwork of ten by fifteen metres of interior space, within which lay a heap of thirty fallen Achehnese.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+Already in the first year of the concentration a lieutenant Veerman appears in majoor [[M. T. H. Perelaer|Perelaer]]'s list of the Dutch losses inside the line: on [[9 June]] [[1885]], at the building of a dyke near [[Siroen]], luitenant Veerman and two workers were wounded (see [[Guerilla raids inside the concentration line (1885)]]). The same officer well may have been the Veerman who, before the events of [[1893]] in [[Groot-Atjeh]], fell with luitenant [[Luitenant Hageman|Hageman]] at [[Kota Toeankoe]] as described above.
+
 ## See Also
 
 - [[Kota Toeankoe]]
@@ -22,3 +26,5 @@ After a long and furious fight, all that fell into Dutch hands, at a cost of thr
 ## Source
 
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 26.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 109. OCR: DLP-158.

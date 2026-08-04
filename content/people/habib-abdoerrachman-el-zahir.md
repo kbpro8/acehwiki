@@ -1,5 +1,5 @@
 ---
-title: Habib Abdoerrachman el Zahir
+title: "Habib Abdoerrachman el Zahir"
 aliases: [Habib Abdoerrachman, Sejjid Abdurrachman Zahir, el Zahir, de Habib, Habib Zahir, Habib Abdoerrachman Zahir]
 tags: [person, arab, sayyid, religious-leader, diplomat, aceh, aceh-war, 19th-century, resistance, mekka]
 description: "Arab sayyid of prophetic descent and central religious-political leader of the Acehnese resistance in the late 1870s, whose 1878 submission was bought by the Dutch colonial government with a 10,000-dollar annual pension and exile to Mekka."
@@ -35,6 +35,10 @@ In Mekka he remained in regular contact with Atjeh pilgrims, who came to him for
 
 The Habib's removal in [[1878]] closed the first phase of unified religious-political leadership of the [[Aceh War|Atjeh resistance]], but it also opened the era of the [[Tiro-oelama|Tiro-oelama's]]. As Zentgraff puts it: after the Habib's period "our weak government received more slaps in the face; the Tiro-oelama's took care of that." His memorandum of [[1884]] is preserved as one of the curiosities of the early diplomatic record of the war — a sayyid's proposal that the Netherlands-Indies Government install him, with a sultan's title, as its Muslim chief minister over Atjeh.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] — after [[B. C. P. Kielstra|Kielstra]]'s lecture in the Indisch Genootschap of December [[1883]] (*Indische Gids*) — preserves the Habib's neglected offers as the main station on the road not taken: already in [[1874]], at his earlier offers, it had been declared from the Dutch side "dat er slechts sprake kon zijn van volledige onderwerping" ("that there could only be talk of complete submission"); and on [[20 May]] [[1875]], at the residence of the Lieutenant-Governor of [[Penang]] and in his presence, a meeting took place of the Dutch agent for the Atjehsche affairs, Mr. [[Lavino]] (later Consul-General at Singapore), with Habib Abdoerrachman el Zahir, who declared himself ready to go to Groot-Atjeh to try to obtain from the chiefs a mandate (*volmacht*) for negotiating with the Dutch; the foundations of those negotiations were to be the elevation of [[Toeankoe Mohamad Daoed|Toeankoe Daoed]] to Sultan and the Habib's own appointment as regent. In connection with the Habb's characterised as "vast en ondernemend" ("firm and enterprising"), Verstege comments that there would at that time already, in case of acceptance, have been a chance of reaching the end of the Atjeh question. "Maar de Indische Regeering wees het ten eenenmale van de hand" ("But the Indian government put it aside entirely"), "because the nature of our establishment in Atjeh, whereby we step into the place of the princely native government, was not compatible with a new Sultanate" — the reading of the [[Annexation proclamation of Atjeh (1874)|annexation of 1874]] that the government itself confirmed thereby (see [[Herstel van het sultanaat]]).
+
 ## See Also
 
 - [[Tengkoe Sjech Saman di Tiro]]
@@ -50,3 +54,5 @@ The Habib's removal in [[1878]] closed the first phase of unified religious-poli
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 97 note. OCR: DLP-158.

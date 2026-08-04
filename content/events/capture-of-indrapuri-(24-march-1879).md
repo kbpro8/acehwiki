@@ -1,5 +1,5 @@
 ---
-title: Capture of Indrapuri (24 March 1879)
+title: "Capture of Indrapuri (24 March 1879)"
 aliases: [Inname van Indrapuri, Fall of Indrapuri, Verovering van de missigit Indrapoeri]
 tags: [event, battle, military, dutch-colonial, aceh-war]
 ---
@@ -18,6 +18,10 @@ The troops, which had marched on [[23 March]] [1879], reached on [[24 March]] [1
 
 The capture of Indrapuri was the opening operation of the [[Campaign against the XXII Moekims (1879)|campaign against the XXII Moekims]] of [[1879]], which culminated in the [[Capture of Gleiêng (9 July 1879)|fall of Gleiêng]] on [[9 July]] [1879]. But the capture did not lead to the desired submission. "On the contrary, it was as if the struggle, under the leadership of our embittered enemies — Panglima Polim, Imam Longbatta and others — flared up with new strength." The campaign continued with heavy fighting at [[Djerreek|Djerreek]], [[Redep|Redep]], [[Panteh Karang|Panteh Karang]] in May, and at Gleiêng in July.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names the same opening of van der Heyden's campaign: on [[23 March]] [[1879]] the war operations in the XXII Moekims were resumed, "en reeds den volgenden dag werd de sterke [[Missigit Indrapoeri|Missigit Indrapoerie]], het oude en vermaarde heiligdom der bovenlanden, dat door den onverzoenlijken Imam Longbattah was bezet, met een onbeduidend verlies van onze zijde vermeesterd" ("and already the next day the strong Missigit Indrapoerie, the old and famous sanctuary of the highlands, which was occupied by the irreconcilable Imam Longbattah, was taken with an insignificant loss on our side"). Indrapoerie afterwards remained a Dutch fortification, keystone of the pacification marches to Selimoen that summer, until it was evacuated among the outer posts between [[5 January|5]] and [[14 January]] [[1885]] at the execution of the [[Concentratie-stelsel (1884-1896)|concentration]] (see [[Completion of the concentrated position (March 1885)]]).
+
 ## See Also
 
 - [[K. van der Heyden]]
@@ -34,3 +38,5 @@ The capture of Indrapuri was the opening operation of the [[Campaign against the
 ## Source
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 103-104.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 60, 81. OCR: DLP-158.

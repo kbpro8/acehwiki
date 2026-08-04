@@ -1,5 +1,5 @@
 ---
-title: Postenlinie
+title: "Postenlinie"
 aliases:
 - Postenlijn
 - Posten line
@@ -49,6 +49,10 @@ The Bureau's framing of the postenlinie — together with the [[Ceintuur-trambaa
 
 The [[Postenlinie|postenlinie]] is, in the Encyclopaedisch Bureau's account, the principal material embodiment of the defensive phase of the Dutch presence in [[Acheh|Atjeh]] — the phase of the [[1873]]–[[1896]] period in which the Dutch position was confined to a fortified perimeter around [[Kota Radja]]. Its abandonment after the [[Toekoe Oemar's verraad (1896)|betrayal of Toekoe Oemar in 1896]] marks the strategic reorientation that opened the long Atjeh campaign of conquest and [[Pacificatie van Atjeh|pacification]] — the campaign that the [[Atjeh-tram|Atjeh-tramway]]'s long line of [[1897]] onward would serve as the principal logistical instrument.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]]'s brochure inventories the finished line of [[1885]] (from the Koloniaal Verslag): 18 semi-permanent built posts — [[Kota Pohama]], [[Pakan Kroeng Tjoet]], [[Lamjong]], [[Boekit Karang]], [[Roempit]], [[Tjot Iri]], the [[Wachthuis aan de Lingkar]], [[Lampermej]], [[Siroen]], [[Lambaroe]], the watchhouse of [[Lamsajoen]], [[Lamrong]], [[Lampeneroet]], the watchhouse of [[Lamara]], [[Ketapang Doewa]], [[Blang]], [[Lamdjame]] and [[Lamtih]] — enclosing 6,700 hectares, requiring a garrison of about 4,500 men; the occupied strip had its fittings of telephone connection and [[Ceintuur-trambaan|belt tramway]] (completed as far as [[Roempit]]), and the Dutch had retreated thither from [[Kroeng Raba]] (southwest, to [[Lamdjame]]), [[Toengkoep]] (east, to [[Lamjong]]) and [[Djerir]] (south, to [[Lambaroe]]) — nearly thirteen kilometres towards Lambaroe. [[Tjot-Goe]] remained provisionally occupied till the tram from [[Ketapang Doewa]] to [[Lambaroe]] was ready. Against every figure of the pamphlet see [[Completion of the concentrated position (March 1885)]]; and for the incidents behind the same posts in the first year [[Guerilla raids inside the concentration line (1885)]] with majoor [[M. T. H. Perelaer|Perelaer]]'s list.
+
 ## See Also
 
 - [[Ceintuur-trambaan]]
@@ -96,3 +100,5 @@ In the period of the concentration, the *Postenlinie* was the principal site of 
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapters IV, VI, IX, XII, pp. 18–20, 27–31, 49, 69–70.
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21, 76, 93, 119, 213, 218.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 80-84, 108-110. OCR: DLP-158.

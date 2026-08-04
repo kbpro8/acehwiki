@@ -14,6 +14,10 @@ Hooijer recorded that the garrison of [[Toengkoeb]] numbered only two officers a
 
 The road formerly laid through the *kampong* (village) chain — of which [[Kroeng Kali]] formed the north-eastern and [[Toengkoeb]] the opposite extremity — ran from Lamjong in the concentrated line by way of Toengkoeb and [[Masdjid Siem|Messigit Siem]] to [[Kroeng Kali]] and thence to the foot of the bare hill country east of the valley.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Lamjong one of the eighteen posts of the line of [[1885]]; the line had been shortened eastward from [[Toengkoep]] to Lamjong at the execution of the concentration (see [[Completion of the concentrated position (March 1885)]]).
+
 ## See Also
 
 - [[Toengkoeb]]
@@ -31,3 +35,5 @@ The road formerly laid through the *kampong* (village) chain — of which [[Kroe
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam, pp. 22, 26.
 
 *De Geconcentreerde Stelling in Groot-Atjeh* ([[1885]]).
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 80-81. OCR: DLP-158.

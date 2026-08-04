@@ -35,6 +35,10 @@ Van Kol placed the quotation in the passage printed under the heading *De belang
 
 The dictum was among the most damaging quotations available to the socialist case, since it came not from a party source but from a recognised colonial periodical. It was in substance conceded by the Minister of Colonies [[J. T. Cremer|Cremer]] for the earlier period: as former chairman of the Koninklijke he acknowledged that the provision of ships for expeditions had strengthened that company's treasury far more under its predecessor the [[Nederlandsch-Indische Stoomvaart-Maatschappij]], "die geen contract had gemaakt omtrent de huurprijzen van schepen en dikwijls dan ook toen groote dividenden uitkeerde." — which had made no contract about the hire prices of ships and often therefore paid great dividends at that time.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]]'s Appendix D draws heavily on kapitein Nieuwenhuyzen's essay "Het stelsel der militaire instellingen voor het Indische leger" (*Indische Gids*, November and December [[1883]]), which he offers to his readers next to the other warnings about the Indies army. From it he borrows the sentence that "voor de aldus in zes maanden tijds georganiseerde tweede expeditie, de rest van het Indische leger gedesorganiseerd moest worden" ("for the second expedition, in this way organised in six months' time, the rest of the Indies army had to be disorganised"), and the costly arithmetic of the war: that the direct and indirect expenditure during the years [[1873]], [[1874]] and [[1875]] for transport by water alone had come to approximately fourteen million guilders, and that in direct and indirect costs the first five years of the war had cost about one hundred million guilders — a figure Verstege supports with his own observation that even the Regeering could not give the exact amount of the war costs with accuracy (see [[Koninklijk Nederlandsch-Indisch Leger]]).
+
 ## See Also
 
 - [[J. C. Baud]]
@@ -60,3 +64,5 @@ The dictum was among the most damaging quotations available to the socialist cas
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, p. 69.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 118, 125, 130. OCR: DLP-158.

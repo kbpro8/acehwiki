@@ -26,6 +26,10 @@ Borel went even further than Knoop. He suggested that "partly successful" might 
 
 **General Knoop** is significant because one short judgement forced later writers to explain what the second expedition had really achieved. His verdict survived because events themselves appeared to support it: the Dutch held the [[Kraton of Aceh|Kraton]], but they had not yet subdued [[Aceh|Atjeh]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] puts the general's verdict at the head of his epigraphs and the closing appeal. From the *Militaire Gids* No. 2 of [[1884]] he quotes: "De oorlog in Atjeh, die reeds tien jaar duurt, is voor ons een volksramp" ("The war in Atjeh, which has already lasted ten years, is for us a national disaster") — luitenant-generaal W. J. Knoop's sentence, which Verstege makes his own: "De Atjeh-oorlog is voor ons een volksramp, die onze geldmiddelen uitput, waardoor het edelste bloed met volle stroomen op Sumatra's grond wordt uitgestort, een volksramp die zoo menige Hollandsche moeder rouw doet dragen over den dood van een geliefden zoon, dáár op roemvolle wijze gevallen voor de zaak des vaderlands" ("The Atjeh war is for us a national disaster that exhausts our money resources, through which the noblest blood is poured out in full streams on Sumatra's ground, a national disaster that makes so many a Dutch mother wear mourning for the death of a beloved son, fallen there in a glorious way for the fatherland's cause"), concluding: "Volkomen waar! zal zeker ieder met den eerwaardigen krijgsoverste uitroepen" ("Wholly true! everyone will certainly exclaim with the honourable old warrior"). Verstege cites him besides as the judge of nations: "De kracht en grootheid van een volk hangen veel minder af van zijne getalsterkte, dan van den geest die het bezielt, van het karakter der mannen die het leiden" ("The strength and greatness of a people depend far less upon its numerical strength than upon the spirit that animates it, upon the character of the men who lead it", spoken two years before, thinking both of the little heroic band of Transvaal farmers and of the Dutch forefathers in the Spanish struggle). The pamphlet also reproduces van Swieten's letter to Knoop of [[17 October]] [[1874]] in evidence of that general's real views (see [[Jan van Swieten]]).
+
 ## See Also
 
 - [[General Van Swieten's letter in Het Vaderland]]
@@ -41,3 +45,5 @@ Borel went even further than Knoop. He suggested that "partly successful" might 
 *Open brief aan den Generaal Knoop over de Atjeh-kwestie (naar aanleiding van den brief van Generaal Van Swieten in Het Vaderland)*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 1–3, 31–33.
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel (The Hague: D. A. Thieme, [[1878]]), p. 120.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 1, 24, 50-51, 104. OCR: DLP-158.

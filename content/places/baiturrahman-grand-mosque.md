@@ -28,6 +28,10 @@ The **Missigit at Koeta Radja** was the great mosque of the capital of [[Acheh|A
 
 "Met groote plechtigheid werd op 27 Dec. 1882 de nieuwe Missigit, waarvan de gouverneur van Atjeh in Oct. 1879 de eerste steen had gelegd, geopend" — "with great ceremony the new Missigit was opened on 27 December 1882, of which the Governor of Atjeh had laid the first stone in October 1879" — records author [[J. Langhout|Joh. Langhout]], adding that at the beginning of that year several clergy were attached to the Missigit at the cost of the Government. The measure answered to the Government's striving to convince the Atjehnese that it respected the Mohammedan religion, wished to maintain the Atjehnese *adat*, and would further land and people economically — a policy which in those years of the [[Establishment of Civil Government in Aceh (6 April 1881)|civil experiment]] none the less failed to retain the population's confidence. A photograph in the book shows the building with the caption: "Meuseugit te Koeta-Radja, gebouwd op initiatie van Gouverneur Karel van der Heyden" ("Missigit at Koeta Radja, built on the initiative of Governor Karel van der Heyden").
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records the first act in the mosque's Dutch-sponsored building: after the example of a defeated sultan's missigit van Swieten had had to burn, the first stone of the new Atjehsche missigit to be built in the vicinity of [[Kuta Raja|Kota Radja]] was laid by generaal [[Karel van der Heijden|van der Heyden]] in the midst of the year [[1879]] — on [[9 October]] [[1879]], "tijdens eene indrukwekkende plechtigheid, in tegenwoordigheid van een groot aantal voorname hoofden van Groot-Atjeh, vorsten en bestuurders van de Vasalstaten, daartoe door generaal Van der Heyden opgeroepen, en mede in tegenwoordigheid van eene schare van ruim 6000 Atjehers, die, na afloop der steenlegging ook deelnamen aan het kendoerie-feest" ("during an impressive ceremony, in the presence of a large number of prominent heads of Groot-Atjeh, princes and regents of the vasal states, summoned thereto by general van der Heyden, and also in the presence of a crowd of more than 6,000 Atjehers, who after the stone-laying took part in the prayer-meal") — ceremony and feast ending without any disorder (see [[Laying of the first stone of Meusigit Raja]]). The princes of the coast states being so ready to be present at it, in [[J. J. W. E. Verstege|Verstege]]'s argument, showed how firmly the vasal bond answered to the fortune of Groot-Atjeh.
+
 ## See Also
 
 - [[Battle of Baiturrahman Mosque]]
@@ -45,3 +49,5 @@ The **Missigit at Koeta Radja** was the great mosque of the capital of [[Acheh|A
 *Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 8-12, 21.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 10, 47–48.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 63-64, 8. OCR: DLP-158.

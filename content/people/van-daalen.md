@@ -22,6 +22,10 @@ Led his colonne on the famous [[March|march]] straight through [[Atjeh]] in [[19
 
 [[Gouverneur Van Daalen|Van Daalen]] appears in [[J. Jongejans|Jongejan]]'s account as one of the figures shaping the history of [[Aceh]] during the period covered by the book.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] cites the sworn testimony of kapitein G. C. E. van Daalen, "gewezen chef van het kabinet van den Kommandant van het leger, Generaal KROESEN" — given in the inquiry into the [[First Aceh Expedition (5-29 April 1873) Kreemer's account|first Atjeh expedition]] — that the luitenant-generaal [[W. E. Kroesen|Kroesen]] in [[1869]], [[1870]] and [[1871]] had repeatedly reported that personnel and materiel of the Indies army were below the need of the land, had done and proposed everything for improvement, "maar dat de Regeering en de Ministers geweigerd of getalmoud hebben" ("but that the Government and the Ministers refused or delayed to give effect to his proposals"). The testimony is part of Verstege's dossier, in Appendix D of his pamphlet, for the judgment that the war was begun in the knowledge of an unprepared army (see [[Koninklijk Nederlandsch-Indisch Leger]]).
+
 ## See Also
 
 - [[Aceh]]
@@ -31,3 +35,5 @@ Led his colonne on the famous [[March|march]] straight through [[Atjeh]] in [[19
 ## Source
 
 *Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 78, 108, 327, 346, 347.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 123. OCR: DLP-158.

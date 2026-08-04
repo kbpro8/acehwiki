@@ -1,6 +1,6 @@
 ---
 
-title: Mas Soemo Widikdjo
+title: "Mas Soemo Widikdjo"
 aliases: [Mas Soemo Widikdjo, Mas Soemo, the son of a British-Indian officer, the murdered Dutch envoy]
 tags: [person, malay, guide, interpreter, aceh-war]
 ---
@@ -18,6 +18,10 @@ After the [[Second Aceh Expedition (1873-1874)|second Aceh expedition]] had land
 ## The Murder
 
 He departed on [[26 December]] [[26 December]] [1873] but never returned. "Later it became known that, after being held prisoner a couple of days, he was murderously killed at Longbatta." His murder hardened the Dutch resolution to take the Kraton by force, and led directly to the [[Capture of the Kraton (24 January 1874)|fall of the Kraton]] on [[24 January]] [[24 January]] [[1874]].
+
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]]'s narrative adds the fullest setting of the old chief's fate. General [[Jan van Swieten|van Swieten]], who had proposed to the Sultan in his letter of [[1 December]] [[1873]] "dit gebruik eveneens te volgen" ("to follow also this custom" — the civilised usage, the Red Cross principle), asked in the same letter that his messengers be treated with kindness and his letters read; and before opening the bombardment of the Kraton he sent, as European law of war and war custom required, a peace offer. On [[23 December]] [[1873]] Mas Soemo Widjojo — an aged and respectable Javanese chief who accompanied the expedition — went out as parlementair, unarmed and with a white flag. Hardly arrived at the enemy, he was taken prisoner with his followers and bound; a few days later he was put to death in the cruellest manner in the presence of [[Panglima Polim]], of other chiefs and of many lesser Atjehers — his hands and feet bound across, and then his head twisted round (see [[Murder of parlementaire Mas Soemo Widjojo (23 December 1873)]]). His three followers escaped some days later on being warned that they too would be killed the next day; one of them, overtaken in his flight, held under water, pierced with lance blows and thrown into a pit as dead, recovered, resumed his flight, but died after his return of the wounds inflicted on him. "De marteldood onzen parlementair aangedaan, mocht zeker gelden als een duidelijk bewijs, dat de Atjehsche vijand wel het allerminst rijp was voor theoriën van Westersch oorlogs- en volkenrecht" ("The martyr's death inflicted on our truce-bearer could certainly count as clear proof that the Atjehnese enemy was least of all ripe for theories of Western war and international law"), Verstege concludes; six years later van Swieten himself wrote of it as "eene wreede daad, eene verkrachting van het oorlogs- en volkenrecht, tot dusverre steeds geeerbiedigd door alle volken van den Archipel" ("a cruel deed, a violation of the law of war and nations, until then always respected by all peoples of the Archipelago").
 
 ## See Also
 
@@ -84,3 +88,5 @@ The disappearance was regarded by the Dutch as a violation of the laws of war an
 ## Source (Van Swieten account)
 
 *De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 142–170 (Hoofdstuk IV); Bijlage D, pp. 471–472; Bijlage F, pp. 474–475.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 17-18. OCR: DLP-158.

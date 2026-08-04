@@ -20,6 +20,10 @@ Meijer gives Lamsajoeng fuller treatment than any other kampong of the south-eas
 
 That narrows with the kampong Tjot Bēhēl was for the line troops the most dreaded passage in the daily fouraging between the posts, the ground of the [[Ambush of the Buijs detachment (4 March 1876)|ambush of 4 March]] in which 1 man fell and 19 were wounded; at the beginning of June the garrison of the new post at Atoë Noord was still having its daily patrols fired upon from its edges; and through it marched, finally, the 3rd column of the [[Biloel Zuid operation (13-15 May 1876)|Biloel Zuid operation]] of 14–15 May, with the kampong being burned by the 3rd column's advance on the 14th.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names the watchhouse of Lamsajoen one of the eighteen posts of the new line of [[1885]] — "Wachthuis Lamsajoen" in the official list given at [[Postenlinie]] (see [[Completion of the concentrated position (March 1885)]]).
+
 ## See Also
 
 - [[Atoeh]]
@@ -39,3 +43,5 @@ That narrows with the kampong Tjot Bēhēl was for the line troops the most drea
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 327–329.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 81. OCR: DLP-158.

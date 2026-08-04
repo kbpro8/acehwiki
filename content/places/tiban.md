@@ -22,6 +22,10 @@ The exact modern administrative identification of Tiban is not clear from the ci
 
 **Tiban** is significant because it marks the first major inland Dutch victory of the second expedition. As both a place and a battle site, it belongs to the chain of locations that structured the Dutch advance toward the [[Kraton of Aceh|Kraton]] in [[December]] [[1873]] and [[January]] [[1874]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Tiban the penultimate link — after Lamara Noord — on the chain of posts of the position of April [[1875]] before reaching [[Moesapi|Kota Moesapie]] (see [[Verstege's folding map of Groot-Atjeh (1886)]]).
+
 ## See Also
 
 - [[Battle of Tiban (14 December 1873)]]
@@ -37,3 +41,5 @@ The exact modern administrative identification of Tiban is not clear from the ci
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt (The Hague: Loman & Funke, [[1896]]), pp. 13–14.
 
 *Open brief aan den Generaal Knoop over de Atjeh-kwestie (naar aanleiding van den brief van Generaal Van Swieten in Het Vaderland)*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 7–8.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 53. OCR: DLP-158.

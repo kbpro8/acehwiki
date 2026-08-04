@@ -1,5 +1,5 @@
 ---
-title: Toekoe Kadli
+title: "Toekoe Kadli"
 aliases: ["Toekoe Kadli", "Teungku Kadli", "Teuku Kadi", "the Kadli of the Sultan's court"]
 tags: [person, achehnese, kadli, religious-official, kraton, pre-1873, aceh, 19th-century, adviser]
 ---
@@ -17,6 +17,10 @@ The [[Atjeh-Album (Eigen Haard, 1896)|Atjeh-Album]] records that Toekoe Kadli wa
 ## Significance
 
 Toekoe Kadli's significance in the documentary record of the [[Aceh War|Atjeh-oorlog]] is as the *Kadli* — the Islamic judge — of the Sultan's court, and as one of the three named advisers consulted by the Sultan on the question of whether to open negotiations with the Dutch. His dual role — supporter of the Habib's pro-Dutch policy on one occasion, opponent of the Habib's mosque-building on another — illustrates the way in which the *hoofden* of the late sultanate could shift between coalition and opposition on different issues, and it identifies the *Kadli* office as one of the principal religious-official positions at the late sultanate court.
+
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] twice names "Toekoe Kadli, the chief who had come over to the Dutch already in [[1874]]": as an addressee, together with the imam [[Imam Longbattah|Longbatta]], of general [[Jan van Swieten|van Swieten]]'s letter of [[8 February]] [[1874]] announcing that the Kraton would be arranged "als een kota voor de Nederlanders" ("as a *kota* [fort] for the Dutch"), under whose administration safety and protection would be given to all who settled in its neighbourhood, and that "at Atjeh a great trading city would be founded" — the promise that Verstege compares with the safety as it was ten years later within the concentrated line of [[1885]]; and as the intermediary to whom, in [[1879]], [[Toekoe Moeda Daoed]] of [[Selimoen]] addressed his request for intercession with Van der Heyden (see [[Toekoe Moeda Daoed]]).
 
 ## See Also
 
@@ -53,3 +57,5 @@ When [[Levysohn Norman|Levysohn Norman]] later asked him why he had not approach
 ## Source (Van Swieten account)
 
 *De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 20–25 (Inleiding).
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 35, 61. OCR: DLP-158.

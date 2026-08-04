@@ -1,5 +1,5 @@
 ---
-title: Pakan Badak
+title: "Pakan Badak"
 aliases: [Pakan Badak, Pakan Badak Atjeh, Market of the Badak]
 tags: [place, kampong, market, acehnese, aceh-war, aceh, geography, geconcentreerde-stelling, 1885]
 ---
@@ -40,6 +40,10 @@ Meijer recounts that the Dutch took possession of this market place on [[31 Dece
 
 Its situation made it the door between the IV Moekims and the world of the Dutch: under the strict orders, all who went to or came from the IV Moekims had to appear at Pakan Badak with their pass, first valid for a couple of days, later for a week and a month; its patrol ground covered the valley up to Beradin and kampongs to [[Lampagar]], the mountains to the southwest, and the ravine opposite Goera; and the ripe paddy of its sawahs was the first harvest the submitted people were officially permitted to reap unarmed, at 300 metres from the post. In the first six months the post and the district were never quiet: every stranger moving with goods between the IV Moekims and Olehleh was watched by the officials there, and in July it became the assembly point of the 2nd column of the [[Sweep of the IV and VI Moekims (8-15 July 1876)|July operation]]. It was the post of the commander of the [[Westerlinie|western line]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records from the Koloniaal Verslag that Pakan Badak, after [[Senelop]] and [[Montassik]], was the last-named of the posts evacuated between [[12 February|12]] and [[28 February]] [[1885]] in the completion of the [[Concentratie-stelsel (1884-1896)|concentration]]: "al onze troepen begaven zich toen binnen de nieuwe postenlinie, en hiermede was de concentratie voltooid" ("all our troops then went inside the new line of posts, and with this the concentration was completed", see [[Completion of the concentrated position (March 1885)]]).
+
 ## See Also
 
 - [[VI Moekims]]
@@ -75,3 +79,5 @@ Its situation made it the door between the IV Moekims and the world of the Dutch
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872‑1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 72‑73, 99‑100.  
 
 *Verslagen der Marine‑Vereeniging III 1889‑1890*, pp. 229‑233. 20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt, pages 138‑141.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 82. OCR: DLP-158.

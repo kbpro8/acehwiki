@@ -1,5 +1,5 @@
 ---
-title: Malaboeh
+title: "Malaboeh"
 aliases: [Malaboeh, Meulaboh, Mala Boe, Malaboeh on the Westkust]
 tags: [place, coast-state, acehnese, aceh-war, marechaussee]
 ---
@@ -20,6 +20,10 @@ the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indi�
 
 Earlier, in [[1898]], the corps had been localised with its Staff at [[Koeta Radja]] and its divisions at [[Selimoen]], [[Indrapoeri]], [[Tjot Mantjang]] and [[Glé Broet]], [[Tjot Goet]], and [[Lam Baroe]] and [[Lok Nga|Lho'-Nga]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records the exception to the general giving up: with the new policy followed in Groot-Atjeh, the garrisons of the coast states were discontinued; only at [[Edi]] and [[Segli]] did it seem necessary to keep a military garrison, "terwijl later besloten werd ook onzen militairen post te Malaboeh (Westkust) voorloopig niet op te heffen, omdat de hoofden aldaar zich nog niet sterk genoeg gevoelden om zich te kunnen verdedigen tegen eventueele aanvallen van den Radja van [[Tenom]]" ("while it was later decided not to discontinue for the time being our military post at Malaboeh (West Coast), because the chiefs there did not feel strong enough yet to defend themselves against possible attacks of the Radja of Tenom"); to which he asks: "if this principle counted for the retention of the post at Malaboeh, why was that principle not also valid for our establishment at [[Telok Semawe]]?" — to which establishment treasures had been devoted since [[1881]] (see [[Blokkade]] of [[1884]]-[[1885]]).
+
 ## See Also
 
 - [[Loöng]]
@@ -37,3 +41,5 @@ Earlier, in [[1898]], the corps had been localised with its Staff at [[Koeta Rad
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 88, 114.
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 87-88. OCR: DLP-158.

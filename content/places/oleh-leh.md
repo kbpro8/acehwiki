@@ -106,6 +106,10 @@ Under General [[J. L. J. H. Pel]] in [[1874]] and [[1875]], Oleh-leh was linked 
 
 Reading the soldiers' facetiousness from the plate of the interior of [[Kroeng Gloempang]], Hooijer explained that the inscription *Japan 5 gulden een flesch portwijn* — "Japan, five guilders a bottle of port wine" — referred to the dwelling-place of *eenige, weinig preutsche, maar zeer inhalige Japansche schoonheden te Oleh-leh gevestigd*: some Japanese women, little prudish but very grasping, established at Oleh-leh. The neighbouring inscription *[[Heerengracht (barracks passage at Kroeng Gloempang)|Heerengracht]]*, at the end of the long passage between the barracks, indicated the officers' quarters.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] paints the Dutch harbour town through the incidents: Kroesen's manuscript has it as the gate where every newcomer was met by the proud bearing of the natives of the moekim [[Marasa|Marassa]], and where in December [[1875]] the arrival of [[Majoor Romswinckel (1875)|Majoor Romswinckel]] brought the sampan anecdote to light (see [[Kroesen (controleur at Oleh-leh)]] and [[Toekoe Nja Mohamad (Oleh-leh, 1875)]]); [[I. D. Fransen van de Putte|Fransen van de Putte]]'s advice of December [[1882]] to retreat to the limited position "Kraton, Atjeh rivier, Oleh-leh"; the landing-place of [[Toekoe Oemar (Tenom)|Toekoe Oemar]]'s murderous [[Lambesi treachery (3 July 1884)|Lambesi]] treachery at [[Lambesi]] (3 July 1884); the repeatedly fired-on harbour of the concentration year — "Oleh-leh onze havenplaats herhaaldelijk beschoten" (repeatedly fired upon, per the Governor's report of 6-18 August), the roadstead which the navy had to defend by gunfire on [[15 October]] [[1885]], the bridge by the [[Atjeh-passer]] whose watch was attacked in the evening of [[7 October]] [[1885]], and the tramway between Oleh-leh and Kota Radja which was blocked with iron wire and beams on [[24 October]] and fired upon on [[27 October]] [[1885]], proving, in the pamphlet's words, that "binnen onze zoo beperkte linie geen veiligheid meer bestaat voor have en goed, zelfs niet voor onze troepen" ("inside our so limited line no safety any more exists for goods, not even for our troops"; see [[Guerilla raids inside the concentration line (1885)]]).
+
 ## See Also
 
 - [[1874]]
@@ -272,3 +276,5 @@ Historic port town near [[Koetaradja]]. Once a lively, busy place, now declined.
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 19–23.
 
 *Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 25, 47, 281, 283, 284, 285, 287, 291, 311, 320, 329, 331.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 15, 84-86, 88, 109-110. OCR: DLP-158.

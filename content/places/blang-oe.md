@@ -20,6 +20,10 @@ Meijer gives Blang-Oë its purpose as the old work with [[Lampasei]] destined to
 
 The hospital of Blang-Oë — connected with Olehleh by a reasonably good road passing a strong yoke bridge over the lagune — tended the sick of the coastal establishment; its better supply was obtained directly from Olehleh instead of Kota Radja. In it and in the auxiliary fighting of [[1876]], Meijer found — among his examples of the daily toll of the guerilla war — the mutilated body of a free coolie fetched several days earlier from this post by Atjehnese prowlers; and at the wounded men's count of the hospital on 1 September [[1876]] 72 patients, with 574 at that of Panteh Peiraq. The footpath towards Kota Radja by it was reported in a very bad state.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records how even the kampongs between [[Oleh-leh]] and [[Kuta Raja|Kota Radja]] were not spared within the line: in the night of [[6 June|6]]-[[7 June]] [[1885]] a band of twenty men fired upon the kampong Blang Oe, situated between Oleh-leh and Kota Radja (see [[Guerilla raids inside the concentration line (1885)]]).
+
 ## See Also
 
 - [[Marassa]]
@@ -34,3 +38,5 @@ The hospital of Blang-Oë — connected with Olehleh by a reasonably good road p
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 85, 94, 103–104, 115, 119–120, 132, 135, 141, 143, 176–183, 263.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 109. OCR: DLP-158.

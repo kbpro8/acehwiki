@@ -1,5 +1,5 @@
 ---
-title: Blokkade
+title: "Blokkade"
 aliases: [blockade, Atjeh blokkade, rigoureuse blokkade, kustblokkade, algemeene sluiting, sluiting, partieele blokkade]
 tags: [concept, military, colonial, dutch, atjeh, aceh-war, blockade, 19th-century]
 description: "The Dutch blockade of the Atjeh coast prescribed by Staatsblad No. 105 van 1884, intended to cut off the interior from foreign arms and rice supplies; Van Heutsz's central polemical target in De onderwerping van Atjeh."
@@ -51,6 +51,10 @@ The closure of the coast that [[General van Teijn|Generaal van Teijn]] would imp
 
 The blokkade's significance in the Aceh Wiki History record rests on three things: it was the measure the *Regeering* prescribed in [[1884]] as the operational counterpart to the [[Concentratie-stelsel (1884-1896)|Concentratie]] — the *rigoureuse sluiting* of the entire coast from Tamiang to Troemon, authorised by [[Staatsblad No. 105 van 1884]] and entrusted for execution to [[Demmeni]]; it was the measure whose partial application by Demmeni produced, in Van Heutsz's diagnosis, the worst of both worlds — "eene soort van scheepvaartregeling, die niet deugde … en naast die verkeerde scheepvaartregeling eene partieele blokkade, die natuurlijk, in verband met de eerste, evenmin nut kon stichten" — and whose withdrawal by [[Staatsblad No. 85 van 1885]] carried with it the abolition of the *scheepvaartregeling* that Laging Tobias had introduced in May [[1883]]; and it was the polemical target against which Van Heutsz defined, in the 1893 tract, his own prescription — the combination of a marine-enforced closure with a *scheepvaartregeling*, an *[[Opium pacht|opium-pacht]]*, and the assumption of the *[[Hatsil|hatsil]]*. The blokkade the *Regeering* prescribed in 1884 and repealed in 1885 is, in Van Heutsz's narrative, the original *fout* and *ramp* of the post-Van-der-Heijden decade — the measure whose botched execution defined the *cajoleering*-era (cajoling era) and whose reversal defined the operational model Van Heutsz himself would implement, as Governor of Atjeh from [[1898]] onward, to close the war the *partieele blokkade* had failed to end.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]]'s chapter on the blockade of [[1884]]-[[1885]] (pp. 86-87) records its means and contradictions as set out at [[Blockade of the Atjeh coast (1884-1885)]]: the 1⅔ million guilders voted on [[16 June]] [[1884]]; the heterogeneous fleet (2 auxiliary squadron steamers; 18 of the Indian military marine; 3 hopper-barges of the Batavian harbour works "made fit" for naval service; 3 steam barges; 2 lifeboats; 5 steam vessels of the same works) for more than five months; the three conflicting official purposes (Koloniaal Verslag; Memorie of December [[1884]]; London conditions of July [[1884]]); the widely assured cause of its small result — [[C. H. Bogaert|Bogaert]]'s hands so tied "that all chance of success was from the outset excluded"; the wartime experience that the enemy lacked neither arms nor ammunition during the retreat; and the servant's excuse, that for success the blockade should have been begun much earlier. It cost, with wear and tear, probably double its vote; "net evenals de concentratie, op drie millioen" ("just like the concentration, at three million") the pamphlet's computation closes.
+
 ## See Also
 
 - [[Scheepvaartregeling]]
@@ -93,3 +97,5 @@ The blockade had both a military and political dimension. Ship commanders were i
 ## Source (Van Swieten account)
 
 *De waarheid over onze vestiging in Atjeh*, door den Luitenant-Generaal J. van Swieten. Zalt-Bommel, Joh. Noman en Zoon, [[1879]], pp. 61–86 (Hoofdstuk II).
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 86-87. OCR: DLP-158.

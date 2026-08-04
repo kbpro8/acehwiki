@@ -1,5 +1,5 @@
 ---
-title: Gewapende Politie
+title: "Gewapende Politie"
 aliases: [Armed Police, the Armed Police of the Netherlands East Indies, Gewapende Politie korps, Korps Gewapende Politie, the colonial armed police]
 tags: [concept, colonial, dutch, police, military, buitenbezittingen, aceh, colonial-security]
 description: "The Gewapende Politie — the Armed Police of the Netherlands East Indies, formed in 1897 on Java from the old pradjoerits and Djajang Sekars corps, and progressively extended to the Buitenbezittingen in the early twentieth century."
@@ -22,6 +22,10 @@ The Bureau's statistical table of the Gewapende Politie in the Buitenbezittingen
 ## Significance
 
 The [[Gewapende Politie|Gewapende Politie]] is, in the Encyclopaedisch Bureau's account, the principal police instrument of the post-[[Pacificatie van Atjeh|pacification]] consolidation of Dutch rule in the Buitenbezittingen — the substitute for the field army that had been partially withdrawn from the newly-pacified territories. The continuing military command of the Atjeh division — the only such exception in the Buitenbezittingen — reflects the still-recent character of the [[Pacificatie van Atjeh|Pacificatie]] even at the end of the [[1904]]–[[1914]] decade.
+
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] preserves the forgotten earlier use of the Armed Police as a Atjeh measure: instead of using the appointed military force for the expulsion of the robber bands growing under his regime, the civil governor [[A. Pruys van der Hoeven|Pruijs van der Hoeven]] entrusted that task to an armed police — "eene daarvoor niet berekende en ook nergens elders gebruikte gewapende politie" ("an armed police unsuited for it and not used anywhere else") — through which those so-called bands of robbers or marauders assumed more and more the character of hostile bands that renewed the guerilla war (see [[Normale bestuursinrichting (Atjeh, 1881-1884)]]). The Koloniaal Verslag of [[1885]] records with what Verstege calls gladness that this police, "which in the hand of the governor Pruijs van der Hoeven partly became the instrument to bring Atjeh into the later unfavourable state, luckily exists no longer" — a note distinguishing this early and unsucceeded Atjeh armed police from the later corps of [[1897]] described above.
 
 ## See Also
 
@@ -46,3 +50,5 @@ The [[Gewapende Politie|Gewapende Politie]] is, in the Encyclopaedisch Bureau's 
 ## Sources
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 18–20 (section "De Politie").
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 73 note, 86 note. OCR: DLP-158.

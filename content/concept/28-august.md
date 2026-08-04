@@ -14,6 +14,10 @@ tags: [concept, date, calendar, timeline]
 - [[Tangsé]]
 - [[Van Heutsz's Pidië campaign (1898)]]
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+On this date in [[1874]] the minister [[W. van Goltstein|van Goltstein]] replaced [[I. D. Fransen van de Putte|Fransen van de Putte]] at the Colonies department.
+
 ## See Also
 
 - [[General Swart, Pacifier of Atjeh (1943)]]
@@ -23,3 +27,5 @@ tags: [concept, date, calendar, timeline]
 ## Source
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), passim.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 51. OCR: DLP-158.

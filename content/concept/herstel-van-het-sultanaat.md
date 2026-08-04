@@ -1,5 +1,5 @@
 ---
-title: Herstel van het sultanaat
+title: "Herstel van het sultanaat"
 aliases:
 - restoration of the sultanate
 - herstel van het sultanaat in Atjeh
@@ -80,6 +80,10 @@ He gave a further ground, drawn from his view of the Acehnese polity: "Er wordt 
 
 In place of a treaty with a restored sultanate, Dutch authority on the coast rested on the [[Verklaringen van de kustvorsten van Atjeh|declarations of the sixty-two coastal princes]], the earliest of [[1885]], by which each ruler individually acknowledged that his *landschap* belonged to [[Nederlandsch-Indië|Netherlands India]] and recognised the Queen as lawful sovereign. In [[Groot-Atjeh]] it rested on the [[Post-1896 system in Atjeh|system of mobile columns]] and on government "in vereeniging met de hoofden" — with the acknowledged difficulty that those chiefs could not exercise sufficient authority over their subjects.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] gives the neglected offers their place in the history of the solution thrown away. Gouverneur [[P. F. Laging Tobias|Laging Tobias]], bleeding the truth of Atjeh from all parties, "getracht heeft te doen: herstel van het Sultanaat" ("attempted: the restoration of the Sultanate"), "afgestuit op de inzichten der Indische Regeering, die zulk eene oplossing onvereenigbaar achtte met onze annexatie van [[1874]]" ("which foundered on the notions of the Indian government, which considered such a solution irreconcilable with our annexation of 1874"). In elaborating the same theme from [[B. C. P. Kielstra|Kielstra]]'s lecture in the Indisch Genootschap (*Indische Gids*, December [[1883]]), the pamphlet recalls the earlier offers of [[Habib Abdoerrachman el Zahir]] in [[1874]] and [[1875]]: already then it had been answered "dat er slechts sprake kon zijn van volledige onderwerping" ("that only complete submission could be in question"); and from the meeting of [[20 May]] [[1875]] at the house of the Lieutenant-Governor of [[Penang]] came his — with [[Lavino]] — concrete project of negotiation: the elevation of [[Toeankoe Mohamad Daoed|Toeankoe Daoed]] to Sultan and the appointment of the Habib as regent. The Indian government rejected it entirely "because the nature of our vestiging in Atjeh, whereby we stepped into the place of the princely native government, was not compatible with a new Sultanate". Ten years later that same annexation was pointed out as what had made a retreat with honour, with a Sultan as a neutral receptacle, impossible — the candidate had been declared of age at [[Kemala]] in August [[1884]] himself, and was in the eyes of the Atjehers their lawful Sultan (see [[Toeankoe Mohamad Daoed]]): to him one could bring at most "a paper crown" now.
+
 ## See Also
 
 - [[Toeankoe Mohamad Daoed]]
@@ -140,3 +144,5 @@ In place of a treaty with a restored sultanate, Dutch authority on the coast res
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VIII (the Laging Tobias attempts), Chapter IX (the Atjehese restoration), Chapter X (the Van Teijn pursuit), Chapter XII (the 1894 flight from Kemala). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 44, 49–50, 56–57, 68.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 97-98. OCR: DLP-158.

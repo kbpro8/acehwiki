@@ -1,5 +1,5 @@
 ---
-title: P. F. Laging Tobias
+title: "P. F. Laging Tobias"
 aliases:
 - Laging Tobias
 - Oud-Gouverneur Laging Tobias
@@ -94,6 +94,10 @@ After the stranding of the English steamer *Nisero* off [[Koela Panga]] in the n
 
 After more than three years of civil government in Atjeh the Government realized that a reserved and very forceful attitude had to be taken toward the Atjehnese, in which there was no place for a separate civil administration: military and civil authority were again united in one hand. Governor Laging Tobias was honourably relieved of his function, and Infantry Colonel H. Demmeni was appointed Civil and Military Governor of Atjeh and Dependencies, accepting the administration on [[13 September]] [[1884]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] acquits Laging Tobias of the charge of misleading: the unfavourable state of Atjeh he reported always truthfully. On [[16 March]] [[1883]] he took over the government from [[A. Pruys van der Hoeven|Pruijs van der Hoeven]], who had asked and obtained his discharge — "scheen tot het besef te zijn gekomen (niet alzoo echter de Indische Regeering) dat Atjeh vooreerst niet de plaats was voor een civiel Gouverneur" ("seemed to have reached the conviction — not so, however, the Indian government — that Atjeh was for the time being no place for a civil governor"). Laging Tobias soon became convinced that the splitting of the highest authority at Atjeh had been a great mistake; when he found no support in his striving to bring the Atjeh question to the desired solution by the [[Herstel van het sultanaat|restoration of the sultanate]], and observed ever more that the state of Atjeh was spoilt for good and deteriorating, he proposed to reunite the civil and military administration in one hand; to that disinterested initiative it was due that, at last, at the eleventh hour, kolonel [[Demmeni]] entered office on [[19 August]] [[1884]] as civil *and* military governor. It is reported that Laging Tobias, like Demmeni and the majority of the then Raad van Indië, advised *against* the [[Concentratie-stelsel (1884-1896)|concentration]] decided upon in the secret sessions of [[16 June|16]]-[[17 June]] [[1884]] (see [[Concentration decision (16-17 June 1884)]]). Verstege adds that the Governor's sultanate policy "was defeated on the notions of the Indian government, which considered such a solution irreconcilable with our annexation of 1874" (see [[Herstel van het sultanaat]]).
+
 ## See Also
 
 - [[Phrasen en Feiten (Laging Tobias)]]
@@ -169,3 +173,5 @@ After more than three years of civil government in Atjeh the Government realized
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 24, 28–34, 39, 43. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 44, 50–58.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 79, 80, 97. OCR: DLP-158.

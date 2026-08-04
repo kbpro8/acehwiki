@@ -32,6 +32,10 @@ The post was connected to:
 
 Boekit-Karang's establishment completed the eastern section of the geconcentreerde stelling, closing the gap between [[Lamjong]] and [[Lampermej]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Boekit Karang one of the eighteen semi-permanently built posts of the line of [[1885]] (see [[Postenlinie]] and [[Completion of the concentrated position (March 1885)]]).
+
 ## See Also
 
 - [[Geconcentreerde Stelling]]
@@ -41,3 +45,5 @@ Boekit-Karang's establishment completed the eastern section of the geconcentreer
 ## Source
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, p. 25.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 81. OCR: DLP-158.

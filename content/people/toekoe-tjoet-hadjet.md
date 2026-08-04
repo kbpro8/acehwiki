@@ -14,6 +14,10 @@ On the afternoon of the day on which the [[Lamtoba column (1879)|Lamtoba column]
 
 The submission of a brother of Panglima Polim marked the breaking of the most formidable chiefly connection of the war in [[Groot-Atjeh]]: Panglima Polim himself, with his son [[Radja Koelala|Radja Koeala]], the [[Imam of Longbatta]] and [[Massa-an]], had days before withdrawn from the council in the missigit of Selimoen to [[Reng-Reng]] in the VII Moekims of [[Pedir]] — but the entry of his brother into the Dutch peace distinguished the conquered household from the irreconcilable.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] adds detail to the submission: a "broeder van PANGLIMA POLIM" (brother of Panglima Polim), Toekoe Tjoet Hadjet — "veelal TOEKOE AJER-ALANG genaamd" ("mostly called Toekoe Ajer-Alang") — came with a great number of followers into the Dutch bivouac at [[Selimoen]] on the afternoon of [[15 August]] [[1879]], the day on which that remote place was reached after tiring day-marches, to offer his submission to the Dutch; on [[17 August]] [[1879]] he went with [[Toekoe Moeda Daoed]] and one of the two columns to Indrapoerie — a real triumphal march through kampongs planting white flags — and on [[20 August]] both heads appeared before generaal [[Karel van der Heijden|van der Heyden]] and swore their submission (see [[Van der Heijden's pacification of Groot-Atjeh]]).
+
 ## See Also
 
 - [[Panglima Polem]]
@@ -27,3 +31,5 @@ The submission of a brother of Panglima Polim marked the breaking of the most fo
 ## Source
 
 *Eene schoone bladzijde uit Atjeh's geschiedenis*, door W. Cool en G. B. Hooijer, met een voorwoord van Generaal K. van der Heijden ('s-Gravenhage: Martinus Nijhoff, 1889), Voorwoord pp. V-VI and pp. 55, 57. OCR-filename: `20260720_115822_DLP-135-Eene_schoone_bladzijde_uit_Atjeh_s_geschiedenis_Nemotron_OCR_v2_OCR.txt`.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 61-62. OCR: DLP-158.

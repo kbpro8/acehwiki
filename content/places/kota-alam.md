@@ -14,6 +14,10 @@ The fortification contained, in addition to the artillery detachment, buildings 
 
 In March [[1876]] the settlement of Kota Alam marked the south-eastern edge of the secure zone of the Dutch establishment: from it, the footpath towards Oleh Karang and Pango wound through hedge-divided and ditch-crossed ground, among grave knolls and great fruit trees. It lay within reach of the garrisons and the auxiliaries sent out from Kota Radja through [[Penajoeng]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] notes Kota Alam's place in both lines: in April [[1875]] as the point on the right bank of the Atjeh river where the eastbound chain of the position turned (from [[Missigit Longbatta|Longbatta-Missigit]] upstream past Blang-Tjoet and Long Zaita-Zuid) to go over Lemboe Oost and Lemboe Noord to [[Moesapi|Kota Moesapie]] (see [[Verstege's folding map of Groot-Atjeh (1886)]]); in [[1885]] as one of the fortifications lying *inside* the new concentration line (see [[Completion of the concentrated position (March 1885)]]).
+
 ## See Also
 
 - [[Oleh Karang]]
@@ -25,3 +29,5 @@ In March [[1876]] the settlement of Kota Alam marked the south-eastern edge of t
 ## Source
 
 *Atjeh van 26 December 1875 tot 4 September 1876*, door H. F. Meijer (Breda: P. B. Nieuwenhuijs, [[1883]]), chapters I (p. 50), IV (p. 82) and V (p. 102).
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 53, 81. OCR: DLP-158.

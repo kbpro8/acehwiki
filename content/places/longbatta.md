@@ -1,5 +1,5 @@
 ---
-title: Longbatta
+title: "Longbatta"
 aliases: [Longbattah, Longbata, Long Batu, Kampong Longbatta]
 tags: [place, kampong, acehnese, aceh-war]
 ---
@@ -27,6 +27,10 @@ Longbatta was one of the most bitterly contested kampongs in the immediate neigh
 ## Account from *Snijders* (1944) — Longbatta and the Kota Alam Covering Position
 
 Longbatta also enters the Snijders biography as the principal landmark that the [[Benting Kota Alam operation (13 November 1874)|Benting Kota Alam]] was sited to cover. When intelligence in early [[November 1874|November]] [[1874]] indicated that the [[Achehnese|Atjehers]] were preparing to occupy [[Kuta Alam|Kota Alam]] further east — a move that would have threatened Longbatta and the Dutch line of communication — [[J. L. J. H. Pel|Kolonel PEL]] dispatched a column under [[M. C. E. Ruempol|Luitenant-Kolonel Ruempol]] to forestall them. [[T. J. A. van Zijll de Jong|Majoor van Zijll de Jong]] (artillery) and [[W. J. C. Leers|Majoor Leers]] (engineers) sited the new redoubt on a bend of the [[Acheh River|Atjeh River]] precisely so as to command both the fortified edge of Pinang to the northeast and Longbatta to the south, while dominating one of the best river-crossing points. The sapper section in the vanguard was commanded by [[Cornelis Jacobus Snijders|Tweede Luitenant C. J. Snijders]] of the [[Bataillon Mineurs en Sappeurs|Bataillon Mineurs en Sappeurs]], for whom the action was a baptism of fire. The [[Benting Kota Alam operation (13 November 1874)|full operation]] is described on the dedicated event page; the redoubt, once completed on [[13 November]] [[13 November]] [[1874]], secured the eastern flank of the Dutch positions and covered the Dutch line of communication with Longbatta and the country further east.
+
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Longbattah twice: as the inland point reached and at once lost by the opperbevelhebber [[Jan van Swieten|van Swieten]] in the [[Van Swietens reconnaissance to Longbattah (29 January 1874)|reconnaissance of 29 January 1874]], when his troops, after a considerable display of force in that direction, were attacked by a numerous enemy and put on the retreat; and as the position round [[Missigit Longbatta|Longbatta-Missigit]], which in April [[1875]] was the verst vooruitgeschoven post in het binnenland (most advanced position inland) of the chain that Pel had then held for a year (see [[Verstege's folding map of Groot-Atjeh (1886)]]).
 
 ## See Also
 
@@ -86,3 +90,5 @@ Longbatta's importance in Borel's account flows from its residential and strateg
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 67, 95, 131, 137, 144, 200, 226–238, 248.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 31, 53. OCR: DLP-158.

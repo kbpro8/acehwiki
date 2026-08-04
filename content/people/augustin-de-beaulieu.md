@@ -1,5 +1,5 @@
 ---
-title: Augustin de Beaulieu
+title: "Augustin de Beaulieu"
 aliases: [Augustin de Beaulieu (French captain), De Beaulieu, Beaulieu]
 tags: [person, french, explorer, navigator, 17th-century]
 ---
@@ -36,6 +36,10 @@ When [[Jan Pieterszoon Coen|Coen]] was in Holland in [[1623]] he wrote that the 
 
 For [[Acheh|Atjeh]]'s history, De Beaulieu is the principal French protagonist of the early seventeenth century — the captain whose 1620–1621 mission brought French arms and French claims into the pepper trade that the Sultan of Atjeh controlled through his Westkust dependencies. The episode is also the proximate cause of [[Robert Gravé|Gravé]]'s death and burial at Atjeh, and of the long-running French claim for damages against the VOC that was eventually settled at 550,000 *livres*. Through De Beaulieu's own later published narrative the episode entered the European literature of Asian travel.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] adopts the French admiral's characterisation of the Atjehnese as a pillar of his argument. Beaulieu, who in the years [[1620]] and [[1621]] stayed a considerable time at Atjeh and got to know the people well, described them, in the pamphlet's quotation, as "hoogmoedig, nijdig, zonder geloof en geweten, inzonderheid tegen de Christenen, als verraders, dieven en vergiftigers" ("haughty, spiteful, without faith and conscience, against the Christians in particular traitors, thieves and poisoners"), whose wickedness went so far that one would often hear the brother accuse his brother and the son his father, and who, when their wickedness was reproached to them and they were told they had a bad conscience, answered: "God verre, maar de Koning nabij is" ("God is far, but the King is near"). Two centuries later generaal [[Jan van Swieten|van Swieten]] invoked the same Beaulieu in the letter of [[17 October]] [[1874]] to generaal [[Generaal Knoop|Knoop]], in defence of his own judgment of the Atjehsche people (see [[Jan van Swieten]]); and Verstege places next to him the still better informed manuscript of the contrôleur [[Kroesen (controleur at Oleh-leh)|Kroesen]].
+
 ## See Also
 
 - [[Robert Gravé]]
@@ -50,3 +54,5 @@ For [[Acheh|Atjeh]]'s history, De Beaulieu is the principal French protagonist o
 ## Source
 
 *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter LIV ("Augustin de Beaulieu en Robert Grave"), pp. 194–197 of the numbered-letter sequence.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 11-12, 16. OCR: DLP-158.

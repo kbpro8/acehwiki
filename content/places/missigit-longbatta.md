@@ -1,5 +1,5 @@
 ---
-title: Missigit Longbatta
+title: "Missigit Longbatta"
 aliases:
 - Longbatta-Missigit
 - Missigit Longbattah
@@ -37,6 +37,10 @@ The Missigit Longbatta is one of the best-documented instances of the Dutch conv
 ## Sources
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 95, 131, 137, 144, 200, 226–238, 248, 263, 269, 322–323.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] mentions this post as the most advanced inland fortification of the Dutch position at the end of April [[1875]]: the southern chain of the chain of posts from [[Oleh-leh]] (Oedjong Palanggahan, Soerian, Poe-oe, Blangey, Bang Tjoen Tjoet, Setoe Zuid, [[Lamara Oleyloe|Lamara-Oleyloe]], Lohong) ended here, and from Longbatta-Missigit eastward the chain passed by Blang-Tjoet and Long Zaita-Zuid upstream along the left bank of the Atjeh river to [[Kota Alam]] (see [[Verstege's folding map of Groot-Atjeh (1886)]]).
+
 ## See Also
 
 - [[Longbatta]]
@@ -70,3 +74,5 @@ The Missigit Longbatta is one of the best-documented instances of the Dutch conv
 ## Source
 
 Lecture by Eerste-Luitenant T. W. G. Merz, *Orgaan der Officiersvereeniging*, October [[1935]], as cited in C. A. Bannink, "Grepen uit den Atjeh-oorlog," *Orgaan der Officiersvereeniging* ([[1936]]), and in D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), pp. 28–32. Koninklijke Bibliotheek shelfmark 0301 4872.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 53. OCR: DLP-158.

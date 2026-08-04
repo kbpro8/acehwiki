@@ -1,5 +1,5 @@
 ---
-title: Campaign against the XXII Moekims (1879)
+title: "Campaign against the XXII Moekims (1879)"
 aliases: [Veldtocht in de XXII Moekims, Conquest of the XXII Moekims, Submission of the XXII Moekims]
 tags: [event, war, military, dutch-colonial, aceh-war]
 ---
@@ -22,6 +22,10 @@ The road from Anak Galoeëng to Gle Kambing had first to be put in good order an
 
 As the operations for the submission of the XXII Moekims had to be continued, the troops on [[31 May]] [1879] again advanced on [[Gleiêng|Gléiëng]], the fortified and well-armed chief place of [[Panglima Polem|Panglima Polem]]. "After a tiring march and repeated fights, this was at last reached and taken on [[9 July]] [1879]. With this the campaign in the XXII Moekims was over and the objective fully attained. The enemy's resistance was broken, and those who wished to continue the war had fled to the [[XXVI Moekims|XXVI Moekims]]."
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]]'s review (after Kielstra, D. III) records the campaign as the model of what "oorlog te voeren op oorlogsmanier" ("to wage war in the manner of war") could do in five months: the operations in the XXII Moekims were resumed on [[23 March]], on [[24 March]] [[1879]] the strong [[Capture of Indrapuri (24 March 1879)|missigit Indrapoerie]] — "het oude en vermaarde heiligdom der bovenlanden, dat door den onverzoenlijken [[Imam Longbattah]] was bezet" ("the old and famous sanctuary of the highlands, occupied by the irreconcilable Imam Longbattah") — was taken with insignificant loss; May and June brought the operations against the fortified lines of [[Djerir|Sihong (Djerir)]], [[Gleieng]] and other principal districts and focal points of resistance, "tot hoogst gewichtige resultaten" ("to most important results"). After the storm of Gleieng in the morning of [[5 June]] (Verstege's dating; cf. [[Capture of Gleiêng (9 July 1879)]]) the days of 9-10 June completed the success, "den vluchtenden vijand uit zijne schuilhoeken te verdrijven, en tot onderwerping te noodzaken" ("driving the fleeing enemy out of his hiding-corners and forcing him to submission"). When the veldtocht in the XXII Moekims ended, "de tegenstand des vijands in deze Sagie op alle punten gebroken" ("the enemy's resistance in this Sagie broken at all points"), those who would fight on had made for the [[XXVI Moekims]] (see [[Van der Heyden's pacification of Groot-Atjeh]]).
+
 ## See Also
 
 - [[K. van der Heyden]]
@@ -41,3 +45,5 @@ As the operations for the submission of the XXII Moekims had to be continued, th
 ## Source
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 102-105.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 60-61. OCR: DLP-158.

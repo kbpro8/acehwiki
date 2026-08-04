@@ -72,6 +72,10 @@ Meijer describes Lambaroe as the southwesternmost point of the kampong series in
 
 The same day's initial Dutch garrison — the left half of the [[8e Bataljon|8th Infantry Battalion]] and a section of mountain artillery — lay partly under sheds in the conquered enemy work, a stinking mud pool full of chewed sugar cane, until quarters were brought from Kota Radja. Soon after, sawahs around the post stood a foot of water: the days of Meijer's operation were the wettest of that summer.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] adds the tram and line details of the concentration: since mid-[[1884]] Lambaroe had been connected with [[Kuta Raja|Kota Radja]] by the steam tramway; at the execution of the concentration the tramline from Kota Radja was lengthened to [[Ketapang Doewa]] and from there on one side to [[Lamdjame]] and on the other to Lambaroe itself; Lambaroe was one of the eighteen semi-permanently built posts of the line occupied on [[1 March]] [[1885]] (after the line's southernmost edge had been withdrawn from [[Djerir]] to Lambaroe — "niet minder dan bijna 13 kilometers afstand" — "not less than nearly thirteen kilometres"), and it was for the speed of the tram between Ketapang Doewa and Lambaroe that the outer post [[Tjot-Goe]] was provisionally retained; see [[Completion of the concentrated position (March 1885)]], [[Atjeh-tram]] and the clearing disasters between Lambaroe and [[Siroen]] of [[6 April]] [[1885]] in [[Guerilla raids inside the concentration line (1885)]].
+
 ## See Also
 
 - [[III Moekims]]
@@ -150,3 +154,5 @@ Place 7 km from [[Koeta-Radja|Koeta Radja]]; reached by the [[1885]] extension o
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], pp. 9–12, 17–19.
 
 *Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 291.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 80-83, 109. OCR: DLP-158.

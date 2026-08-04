@@ -1,5 +1,5 @@
 ---
-title: Lamtih
+title: "Lamtih"
 aliases: ["Lamtih", "Lam Tih"]
 tags: [place, dutch, colonial, military, aceh-war, geconcentreerde-stelling, 1884, 1885]
 ---
@@ -26,6 +26,10 @@ Lamtih was one of the principal Dutch posts of the southern sector throughout th
 
 Lamtih was one of the principal Dutch assembly and departure points for the [[1896]] counter-offensive against [[Teuku Umar]], together with [[Lam-Djamoe]], [[Ketapan Doea]], and [[Blang]]. Its *mitrailleur* observation *stelling* and *kanon van 7 c.M. A. Veld* made it a key fire-support post for the [[Three-day Dutch offensive of 23–25 May 1896|three-day offensive]] and the [[Operations in IV and VI Moekims (4–5 June 1896)|two-colonne operation of 4–5 June 1896]]. The shelling of the *verhoogde schilderhuis* from Senangri on [[13 April]] [[1896]] was among the earliest hostile acts against the inner line after the [[Defection of Teuku Umar (29 March 1896)|defection]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Lamtih the closing member of the official list of the eighteen semi-permanently built posts forming together, with [[Oleh-leh|Oleh-leh]], [[Kuta Raja|Kota Radja]], [[Kota Alam]], [[Oleh Karang]] and other inward-lying fortifications, the cordon of the new line of [[1 March]] [[1885]] (see [[Completion of the concentrated position (March 1885)]]).
+
 ## See Also
 
 - [[Geconcenteerde Linie]]
@@ -45,3 +49,5 @@ Lamtih was one of the principal Dutch assembly and departure points for the [[18
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], pp. 25–26.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 82, 141, 144, 167, 171, 176, 183, 204, 296, 320, 573.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 81. OCR: DLP-158.

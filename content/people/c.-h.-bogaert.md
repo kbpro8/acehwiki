@@ -1,5 +1,5 @@
 ---
-title: C. H. Bogaert
+title: "C. H. Bogaert"
 aliases:
 - Lieutenant Bogaert
 - Luitenant Bogaert
@@ -55,6 +55,10 @@ Bogaert's administration of the [[Oostkust|East Coast]] from [[June 1873|June]] 
 
 **C. H. Bogaert** was a lieutenant-at-sea 1st class of the Dutch navy, commandant of the ship *Timor*, who was the principal agent in the submission of the east coast of [[Acheh|Atjeh]] to Dutch authority in [[1873]]-[[1875]]. "Bogaert was on his ship master of the coast, he had on shore and aboard continual contact with the chiefs, he did not only blockade, he regulated and governed on his own initiative; he was everywhere honoured and feared, and his name still lives on among the Atjehers."
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]], reporting the general judgment that the [[Blockade of the Atjeh coast (1884-1885)|blockade of the Atjeh coast]] of [[1884]]-[[1885]] had had little or no result, gives the widely held explanation current at the time, "van meer dan eene zijde" ("from more than one side") assured: that the commander of the blockade flotilla, kapitein ter zee Bogaert, had his hands so tied from the beginning that "alle kans op succes daar voor reeds dadelijk werd uitgesloten" ("all chance of success was from the very outset excluded") — one of the circumstances which Verstege adds to the picture of the whole operation's futility (see [[Blokkade]]).
+
 ## See Also
 
 - [[Edi]]
@@ -91,3 +95,5 @@ Bogaert's administration of the [[Oostkust|East Coast]] from [[June 1873|June]] 
 ## Source
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter II (Bogaert's East Coast administration), Chapter IX (Bogaert's 1884–85 blockade command). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 11–12, 47.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 86 note. OCR: DLP-158.

@@ -14,6 +14,10 @@ The taking of Lampriet had been intended on [[28 September]] [[1874]] — the da
 
 Lampriet became one of the eastern-side posts of the [[Stelling-Pel|stelling-Pel]]. By May [[1875]] the east side of the continuous line around [[Kota Radja|K. Radja]] ran from [[Blang Tjoet]] through [[Kota Alam]], [[Lemboe]] O. en N.O., Lampriet, [[Langkroek]] O., [[Lamara]] Z.O. en N.O., [[Tiban]] to [[Moesapi]]. Lampriet's exposure made it a frequent target of enemy harassment: in September [[1875]] a Dutch detachment south of K. Radja and at Lampriet was "in groot gevaar om afgesneden en in de pan gehakt te worden" — in great danger of being cut off and chopped to pieces. On [[26 November]] [[1875]] Lampriet was one of the chief points of the enemy's attack along the entire *ooster-linie*, an attack that cemented [[Generaal Pel|Pel]]'s conviction that the *afwachtende stelsel* had to be abandoned and that the great [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)|winter offensive of 1875–1876]] had to be launched.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Lampriet in the chain of posts of [[J. L. I. H. Pel|the garrison]]'s position at the end of April [[1875]], between [[Kota Alam]] and Langkroek-Oost on the way to [[Moesapi|Kota Moesapie]] (see [[Verstege's folding map of Groot-Atjeh (1886)]]).
+
 ## See Also
 
 - [[Langkroek]]
@@ -29,3 +33,5 @@ Lampriet became one of the eastern-side posts of the [[Stelling-Pel|stelling-Pel
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 200–201, 248, 263, 322.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 53. OCR: DLP-158.

@@ -38,6 +38,10 @@ Meijer places Lamrong — written also Lēber (Lamrong) in the march orders — 
 
 Its head [[Toekoe Lamkeboe]] of Lamrong had once showed himself inclined to return to his kampong with his people, but in the rising tide of [[Habib Abdoerrachman el Zahir|the Habib]]'s return let it be known clearly that he had given up that intention for good and had joined the Habib — a defection cited by Meijer as characteristic of the effect of the Habib's appearance on chiefs who had nearly crossed over. Lamrong itself, with the adjoining kampongs, was laid in ashes by the 3rd column of the [[Biloel Zuid operation (13-15 May 1876)|Biloel Zuid operation]] on [[14 May]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Lamrong one of the eighteen posts of the line of [[1885]]: on [[9 August]] [[1885]] a reconnaissance patrol of six men, close by the benteng of Lamrong, was attacked by the enemy, with six wounded and three rifles lost; and in the night of [[27 September|27]]-[[28 September]] [[1885]] the telephone connection between Lamrong and [[Lampeneroet]] was destroyed (see [[Guerilla raids inside the concentration line (1885)]]).
+
 ## See Also
 
 - [[Geconcentreerde Stelling]]
@@ -47,3 +51,5 @@ Its head [[Toekoe Lamkeboe]] of Lamrong had once showed himself inclined to retu
 ## Source
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 28.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 81, 109. OCR: DLP-158.

@@ -40,6 +40,10 @@ For Borel, the real cause of the disaster was Dutch passivity in the previous we
 
 **The Battle of Lampoe Oek** is significant because it exposed the weakness of Dutch claims that victory was already secure after [[24 January]] [[1874]]. The battle showed that the Acehnese could still build, resist, and strike back close to the Dutch center. It also became one of the strongest pieces of evidence used by critics of Van Swieten's command.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] supplies the casualty return of the day and the commander's subsequent line: on [[16 April]] [[1874]] the troops suffered, "als het ware in de onmiddellijke nabijheid van den Kraton (ten zuiden van [[Lampoe Oek]]), op ongeveer 700 passen van onze wallen" ("as it were in the immediate neighbourhood of the Kraton (south of Lampoe Oek), at about 700 paces from our walls"), a painful defeat which cost 9 dead and 86 wounded, among the latter 10 officers. "Het lag niet in de bedoeling van den opperbevelhebber die nederlaag te herstellen" ("It did not lie in the intention of the opperbevelhebber to repair that defeat"): van Swieten merely reinforced the garrison of Atjeh with half a battalion, postponed his already intended departure to 26 April, and left Atjeh's soil on that date with the so-called chief force. His own defence, later, in the letter of [[17 October]] [[1874]] to generaal [[Generaal Knoop|Knoop]] — "the fortified kampong which was well known, lying there with many further ones behind and beside it, could not be touched without involving us in a series of fights against well-defended kampongs, whose result and end could not be overseen, which would very certainly have cost many losses, and endangered the advantages gained" — is read by Verstege as the clearest evidence hidden in the opperbevelhebber's own words of how unsafe and untenable the position was, already before his departure (see [[Departure of Jan van Swieten from Atjeh (April 1874)]]).
+
 ## See Also
 
 - [[Second Aceh Expedition (1873-1874)]]
@@ -59,3 +63,5 @@ For Borel, the real cause of the disaster was Dutch passivity in the previous we
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel (The Hague: D. A. Thieme, [[1878]]), pp. 58–73, 114, 131.
 
 *Open brief aan den Generaal Knoop over de Atjeh-kwestie (naar aanleiding van den brief van Generaal Van Swieten in Het Vaderland)*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 28–30.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 49-51. OCR: DLP-158.

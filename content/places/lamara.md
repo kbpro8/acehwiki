@@ -20,6 +20,10 @@ Meijer gives Lamara's twin posts of [[1876]] — Lamara Northeast (N.O.) and Lam
 
 Both posts were the object of the carefully prepared Atjehnese gate assault in the [[Night attacks on Lamara N.O. and Lamara Z.O. (28-29 May 1876)|night of 28-29 May 1876]]: at Lamara N.O. First Lieutenant [[Verploegh]], at the post since half past two, checked the *"siin, siin"* callers and the first men at the gates — receiving two lance wounds at the gate himself, losing 1 native fusilier; at Lamara Z.O. First Lieutenant [[Mahne]] stood two hours later against four Atjehers already busy destroying the outer gate, repelled them with corporal Mulder's bayonet beside him, suffered two wood blows on the skull and lost no man. It was one of the pair that lay in Meijer's account for the purpose of observing the enemy ground along the Titi Pandjang in his 1876 statistics; the same posts were continually fired on that summer.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names: the watchhouse of Lamara, one of the eighteen posts of the line of [[1885]]; a patrol of 21 men under luitenant [[Luitenant Nyland (1885)|Nyland]], going from Lamara to [[Kuta Raja|Kota Radja]] on [[16 May]] [[1885]], fell upon the enemy (2 dead, 7 wounded of whom 3 died); on [[11 August]] [[1885]] the night watch returning to [[Ketapang Doewa]] from Lamara was attacked (6 wounded, 3 of whom died the same day); the repair of the tramway between Lamara and [[Lampeneroet]] of [[16 December]] [[1885]] (see [[Guerilla raids inside the concentration line (1885)]]). Lamara, with its sub-posts (south-east and north of it), was also a link of the position of April [[1875]] (see [[Verstege's folding map of Groot-Atjeh (1886)]]).
+
 ## See Also
 
 - [[Pedir-dijk]]
@@ -34,3 +38,5 @@ Both posts were the object of the carefully prepared Atjehnese gate assault in t
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 63, 92, 95, 121, 125, 142, 165, 263, 322.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 53, 81, 109-110. OCR: DLP-158.

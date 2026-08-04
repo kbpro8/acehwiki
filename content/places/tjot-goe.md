@@ -44,6 +44,10 @@ Tjot-Goe's retention demonstrated the pragmatic approach to the concentration. R
 
 As of August 1885, Tjot-Goe remained occupied. The author noted that its favorable situation justified its retention, though the post was eventually evacuated as the position was consolidated.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] adds: here, on [[29 July]] [[1884]], the so-called friendly chief and supplier [[Imam Habib (Tjot-Goe)|Imam Habib]] had his followers unexpectedly attack a Dutch patrol of 27 bayonets on its return march to Tjot-Goe (see [[Ambush at Tjot-Goe (29 July 1884)]]); the post itself stood outside the new line of [[1885]] and was provisionally retained "totdat de tramlijn Ketapang-Doewa – [[Lambaroe]] gereed zou zijn" ("until the tramline Ketapang Doewa-Lambaroe would be ready"); on [[17 June]] [[1885]] a patrol of 25 men, on the way from Tjot-Goe to the line, found the enemy and lost two dead and four wounded, the enemy carrying off two rifles (see [[Guerilla raids inside the concentration line (1885)]]).
+
 ## See Also
 
 - [[Geconcentreerde Stelling]]
@@ -56,3 +60,5 @@ As of August 1885, Tjot-Goe remained occupied. The author noted that its favorab
 ## Source
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 18, 21, 28.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 82, 86, 109. OCR: DLP-158.

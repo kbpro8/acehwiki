@@ -1,5 +1,5 @@
 ---
-title: Gleiêng
+title: "Gleiêng"
 aliases:
 - Gléiëng
 - Gleieng
@@ -39,6 +39,10 @@ As the operations for the submission of the XXII Moekims had to be continued, th
 H. T. Damsté, "Drie Atjeh-Mannen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), pp. 360–362.
 H. T. Damsté, "Drie Atjeh-Mannen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), pp. 360–361.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Gleieng the dwelling-place of the so feared sagie-head [[Panglima Polim]] — "de verblijfplaats van het zoo gevreesde sagiehoofd PANGLIMA POLIM, die echter onze komst niet had durven afwachten" ("the dwelling-place of the so feared sagie-head Panglima Polim, who however had not dared to await our arrival") — with its extensive strong positions taken on an early morning of June [[1879]] (he dates the storm [[5 June]]; cf. [[Capture of Gleiêng (9 July 1879)]]) with slight loss to the Dutch side; found there was, besides a great stock of gunpowder and bullets, a battery of 24 cannon, most of too great calibre to carry, which were rendered unfit for use, and the two days after, 9 and 10 June, brought the fleeing enemy to submission; see [[Campaign against the XXII Moekims (1879)]].
+
 ## See Also
 
 - [[K. van der Heyden]]
@@ -67,3 +71,5 @@ H. T. Damsté, "Drie Atjeh-Mannen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang 
 ## Source
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 102-105, 108-109.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 60. OCR: DLP-158.

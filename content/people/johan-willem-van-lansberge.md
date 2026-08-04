@@ -1,5 +1,5 @@
 ---
-title: Johan Willem van Lansberge
+title: "Johan Willem van Lansberge"
 aliases:
 - J. W. van Lansberge
 - J.W. van Lansberge
@@ -115,6 +115,10 @@ The words and deeds of the Landvoogd were closely connected with the conviction 
 
 Using the authorization granted the year before by the Supreme Government, Van Lansberge as Landvoogd determined by resolution of 11 March [[1881]] that a chief official with the title of governor should henceforth stand at the head of the province of Atjeh. Lieutenant-General [[General van der Heijden|K. van der Heijden]] was honourably discharged and [[A. Pruijs van der Hoeven]] appointed in his place, with Colonel [[J. F. Haus]] as military commandant, both taking office on [[6 April]] [[1881]]. Van Lansberge closed his letter to Van der Heijden on the introduction of the civil government with the words: "In werkelijkheid wordt daardoor de kroon gezet op 't gebouw door den heldenmoed en de toewijding van het Indische leger onder Uwer Excellenties krachtige leiding opgetrokken" ("In reality the crown is thereby set upon the building erected by the heroism and the devotion of the Indian army under Your Excellency's vigorous leadership"), offering him the expression of appreciation and the thanks of the Government — a crown which, as author [[J. Langhout|Joh. Langhout]] remarks, all too soon proved not to fit.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+Verstege's portrait of the Governor-General is one of deliberate contradiction. On [[18 November]] [[1879]], at a great feast prepared by himself, Van Lansberge said of the Atjeh question: "Voor langen tijd wellicht zullen dus van het leger op Atjeh meer dan de gewone diensten gevorderd worden. Zulks neemt echter niet weg, dat de schitterende krijgsbedrijven welke in de laatste twee jaren hebben plaats gehad, ons zeer nabij het doel gebracht hebben waarnaar wij streven; dat wij nu, mits eene voldoende waakzaamheid betracht worde en op politiek gebied geene fouten begaan worden, de toekomst met vertrouwen kunnen te gemoet gaan" ("For a long time perhaps more than the ordinary services will be asked of the army at Atjeh. This does not alter the fact that the splendid war deeds of the last two years have brought us very near the goal we are striving for; that we now, provided sufficient vigilance is kept and no mistakes are made in the political field, can meet the future with confidence"). But the same Landvoogd — Verstege notes — had already with minister [[W. van Goltstein|van Goltstein]] as it were prepared the political mistakes he himself warned against, executed on [[11 March]] [[1881]], when his Kabinetsbrief (litt. N.) announced to [[Karel van der Heijden|van der Heyden]] the resolution of the [[Council of Netherlands India|Raad van Indië]] of [[11 September]] [[1880]], unanimously, that the time had come to introduce on Atjeh a [[Normale bestuursinrichting (Atjeh, 1881-1884)|normal administrative organisation]]: the "abnormal state" could no longer be justified, the chiefs and the people would have no stronger proof of the Dutch intention to stay and of the irrevocability of the annexation than the replacement of temporary measures by an arrangement as it existed in the long subjected parts — the decision by which, in Verstege's analysis, the "crown" was set on the undoing of the conquest. The pamphlet names him, with his minister, among those who had been "caught in the snares of that mysterious love of Atjeh" from the new aim, suddenly, "the elevation of the Atjehsche people".
+
 ## See Also
 
 - [[J. Loudon]]
@@ -186,3 +190,5 @@ Kruijt reserves his sharpest criticism for Van Lansberge's role in the displacem
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. p. 304.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 35–36, 42–43.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 68-70. OCR: DLP-158.

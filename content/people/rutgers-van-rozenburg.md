@@ -39,6 +39,10 @@ The remark is placed immediately after Van Kol's quotation of the Dutch boast ab
 
 The practice alluded to — the mutilation of the bodies of *[[Prang Sabil|prang sabil]]* fighters in the belief that a body divided would be denied paradise — was the subject of the exchange between [[Goeman Borgesius]] and the Minister [[Mr. J. H. Bergsma|Bergsma]] on [[22 September]] [[1896]], quoted by [[J. T. Cremer|Cremer]] on [[17 November]] [[1897]], in which both the Netherlands and the Indies governments were said to be most strongly opposed to *mutileeren* and the [[Governor-General of Netherlands India|Governor-General]] to have forbidden it in the strictest terms.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] cites Rutgers van Rozenburg as the most persistent parliamentary warner against the retreat. In the sitting of the Tweede Kamer of [[16 November]] [[1882]] he told the Minister: "Zoo als die politiek van denkbeeldigen vrede wordt voortgezet ... dan zal het nog te vergieten bloed komen voor rekening van den onverantwoordelijken Minister van Koloniën" ("If this policy of an imaginary peace is continued ... the blood yet to be shed will come to the account of the irresponsible Minister of Colonies"). On [[21 June]] [[1883]] he brought the worrying state of Atjeh into discussion; the government's answer already betrayed the intention of a considerable shrinking of the occupied terrain, and the vigilant member was "the interpreter of many in the country" when he said that such a return would be a step of the most fatal nature, ruinous chiefly in its consequences, for the future of the whole of India. On [[19 December]] [[1884]], declaring that the breaking down of what had been built at a cost of streams of blood and treasures was to the vexation of the nation, he asked with reason who the military specialists were, "the Dutch Moltkes", whom the Minister here in the country had consulted on the concentration plan — and got only an evasive answer. Verstege borrows from him the deservedly sarcastic name for the concentration itself: the "vertrekking op groote schaal" ("retreat on a grand scale").
+
 ## See Also
 
 - [[Atjeh-oorlog (1873-1904)]]
@@ -59,3 +63,5 @@ The practice alluded to — the mutilation of the bodies of *[[Prang Sabil|prang
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 10–11, 79–80.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 66-67, 75-77, 81. OCR: DLP-158.

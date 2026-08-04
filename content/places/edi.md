@@ -12,6 +12,10 @@ Edi's place in the record of [[1876]] is the arrival of [[Habib Abdoerrachman el
 
 The place lies on the north-east coast of Sumatra, east of the great sultanate's own lands — a passage landing well-known to the coasting schooners of Penang.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records that with the new policy of the [[Concentratie-stelsel (1884-1896)|concentration]], the garrisons of the coast states were given up; only at Edi and at [[Segli]] was the maintenance of a military garrison judged necessary — Edi remarked besides, in the account of a Dutch colonial official of December [[1885]] quoted by Verstege, as the East Coast land where for ten or so years everything had been so quiet that plantations had been laid out, then again coming "in beroering" (into commotion) after the Dutch retreat to the line (see [[Blokkade]] of [[1884]]-[[1885]]).
+
 ## See Also
 
 - [[Habib Abdoerrachman el Zahir]]
@@ -22,3 +26,5 @@ The place lies on the north-east coast of Sumatra, east of the great sultanate's
 ## Source
 
 *Atjeh van 26 December 1875 tot 4 September 1876*, door H. F. Meijer (Breda: P. B. Nieuwenhuijs, [[1883]]), chapter VII, p. 153.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 87, 92-93. OCR: DLP-158.

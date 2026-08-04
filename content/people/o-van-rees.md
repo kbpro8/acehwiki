@@ -1,5 +1,5 @@
 ---
-title: O. van Rees
+title: "O. van Rees"
 aliases:
 - Otto van Rees
 - Van Rees
@@ -57,6 +57,10 @@ Van Rees' role in colonial history is often overshadowed by his more prominent p
 - His support for aggressive action in Aceh.
 - His questioning of the military position, which led to clearer strategic thinking.
 - His role in the financial reforms that continued the movement away from the "batig slot" system.
+
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] holds up against the [[Concentratie-stelsel (1884-1896)|concentration]] the Governor-General's proclamation of [[19 August]] [[1884]] to the indigenous princes and greats and to the population settled in the dependencies of the government of Atjeh — "our new province of 1874" — in which Van Rees declared: "Nog steeds duurt het gewapend verzet in Groot-Atjeh voort, niettegenstaande elke poging daartoe door de Nederlandsche krijgsmacht wordt bedwongen, en telkens dood en verderf gebracht wordt onder de dwaze aanvallers, die, als roovers onze posten en transporten beschieten, doch er nooit in zullen slagen ons een enkelen stap terug te dringen" ("The armed resistance in Groot-Atjeh still continues, although each attempt towards it is suppressed by the Dutch fighting force, and death and destruction are repeatedly brought among the foolish attackers who, like robbers, shoot at our posts and transports, but will never succeed in driving us back a single step"), and which called on the Atjehsche people to give up "den ijdelen waan, dat zij de Nederlanders zouden kunnen verdrijven, wat nooit gebeuren zou" ("the idle illusion that they could drive away the Dutch, which would never happen"). This proclamation, known in the Netherlands in September [[1884]] — when the preparation of the retreat was already in full swing — was, Verstege remarks, speedily lied against, and is the crowning proof of how systematically the Dutch nation had been misled; he regrets that governor-general Van Rees did not hold back that so-speedily-falsified proclamation (see [[Concentration decision (16-17 June 1884)]]).
 
 ## See Also
 
@@ -153,3 +157,5 @@ Van Rees' role in colonial history is often overshadowed by his more prominent p
 
 - *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 53, 55-58.
 - *J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni [[1855]]*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, [[1943]], Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, pp. 44-46, 210-214.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 57 note, 74-75, 80. OCR: DLP-158.

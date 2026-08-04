@@ -1,5 +1,5 @@
 ---
-title: Kroëng Raba
+title: "Kroëng Raba"
 aliases: ["Krueng Raba", "Kroeng Raba", "Kroëng Raba Atjeh", "Krueng-Raba", "Krueng Raba fort", "Kroeng-Raba", "Kroeng-Ralb", "Kroeng-Rababaai", "Kroeng-Raba-baai", "Krung Raba", "IV Moekims Kroeng Raba"]
 tags: [place, kampong, acehnese, aceh-war, fort, west-coast, dutch, colonial, military, iv-moekims, east-coast, 19th-century, south-coast-of-groot-atjeh, scheepvaartregeling]
 ---
@@ -63,6 +63,10 @@ The Dutch post at Kroeng-Raba in the [[IV Moekims]] was evacuated on [[15 Februa
 Meijer describes Kroeëng Raba as the small river of the [[IV Moekims]], flowing in a little valley along the foot of the mountains to the bay of the same name: very low and marshy inland, higher near its mouth behind the dunes, where the bed is hard. The river rises in two openings in the rocks of the mountain; near kampong Raba was found, in the reconnaissance of [[11 July]] [[1876]] by captains [[F. C. E. Meijer]] and [[J. J. Staat]], an easy raft crossing — 47 metres wide, 3.7 metres deep at mid flood, with no steep banks; near Loeknga the river bends broad (147 metres) and impassable, with an old one-metre foot-bridge standing then, tested by Captain Staat himself with some soldiers before the first shots of Atjehers warned the party home.
 
 The mouth had been chosen by General [[J. L. J. H. Pel|Pel]] as the western point of his projected closing of the [[XXII Moekims]] from the sea — the columns of the [[Sweep of the IV and VI Moekims (8-15 July 1876)|July operation of 1876]] reached it after two weeks of sweeps through the IV and VI Moekims, resting there on [[13 July]] after the encircling march in pursuit of [[Toekoe Tjihiq Lamngga]], and on [[14 July]] the fortification work began under Captain of Engineers Staat at kampong Moesang, whose materials built the post after the hired steamer *Marion* could land nothing through the surf of the bay. The post lay on the left bank, where its fire commanded in full the new bridge thrown by the Dutch over the river; one company of the left half of the [[6e Bataljon|6th Infantry Battalion]] moved in as garrison on [[26 July]]. With it the population of the district began to sell fish, fruit and poultry beside the work; and the post was first armed with two 8 cM. mountain guns and then, on [[21 July]], with two 8 cM. field pieces.
+
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Kroeng Raba the southwestern point from which the Dutch line of [[1885]] was shortened inward to [[Lamdjame]] (with [[Toengkoep]] to [[Lamjong]] eastwards and [[Djerir]] to [[Lambaroe]] southwards), at the execution of the [[Concentratie-stelsel (1884-1896)|concentration]]; the post was evacuated between [[12 February|12]] and [[28 February]] [[1885]] (see [[Completion of the concentrated position (March 1885)]]).
 
 ## See Also
 
@@ -198,3 +202,5 @@ Kroeng Raba's significance in Van Heutsz's [[1893]] tract rests on its being the
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 9, 18, 19, 20, 84, 94. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], pp. 17, 28.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 80, 82. OCR: DLP-158.

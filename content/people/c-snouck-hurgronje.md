@@ -227,6 +227,10 @@ In the years 1896–1898 he advised Governor-General [[Van der Wijck|Van der Wij
 
 To author [[J. Langhout|Joh. Langhout]], who in 1922–1923 enjoyed the privilege of hours of "college" in the Leiden professor's study on the statecraft of Atjeh from 1898 to 1904, Snouck spoke words of "appreciation, of high esteem, almost of reverence" for what Van Heutsz had brought about. Langhout also records that Snouck doubted whether Teukoe Oemar's breach with the Government in [[1896]] was really "verraad" ("treason"), since Oemar had never truly belonged to the Dutch side, and thanked the professor for the many hours spent supplying data for *[[Vijftig jaren economische staatkunde in Atjeh]]*, during which his abiding love for the land and people of Atjeh constantly came forward.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] cites Snouck Hurgronje's judgment on one of the Arabic pamphlets that circulated in the Indies in those years: writing in the *Indische Gids* of July [[1884]] on the pamphlet *De laatste vermaning van Mohamed aan zijne gemeente* ("The last admonition of Muhammad to his community") — an account, by a certain Sjaich Abdoellah, of a dream-vision befallen him at Medina in 1297 A.H. ([[1880]]), which in [[1884]] was spread in the Preanger Regentschappen, Bantam, Middle Java and also in Atjeh — Snouck Hurgronje pointed out that it pronounced a kind of excommunication over those who refused to be stirred up, but that it had no political tendency and could be called more innocent than the *Akireng Djaman*, "waarin de Koning van Holland als een ongeloovige verachtelijk, als een overwonnene bespottelijk gemaakt wordt" ("in which the King of Holland is made contemptible as an unbeliever and ridiculous as a conquered man"). The citation belongs to Verstege's warning that [[Proclamation of Toekoe di Tiroe (2 February 1885)|Toekoe di Tiroe's proclamation]], spread even among the Javanese population, would not fall on barren ground in the revival of religious zeal throughout the archipelago.
+
 ## See Also
 
 - [[A. W. S. O'Sullivan translation of De Atjehers]]
@@ -390,3 +394,5 @@ To author [[J. Langhout|Joh. Langhout]], who in 1922–1923 enjoyed the privileg
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 21, 73, 77–80, 82, 135, 192–193.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 70-71. OCR: DLP-158.

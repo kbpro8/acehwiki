@@ -1,5 +1,5 @@
 ---
-title: Montassik
+title: "Montassik"
 aliases: ["Montasik", "Montassiek", "Missigit Montassik", "V Moekims Montassik", "V Moekims Mont Tassik", "5 Mukims Montassik"]
 tags: [place, kampong, acehnese, aceh-war, xxii-moekims, v-moekims-montassik, dutch, colonial, military, lamkrak]
 ---
@@ -41,6 +41,10 @@ The V Moekims Montassik were the principal south-eastern bastion of Achehnese re
 ## Account from H. F. Meijer (1883) — the mesigit of Montasih, August 1876
 
 Meijer's calendar of the Habib's advance gives Montasih's mesigit as the place of assembly of the enemy chiefs in August [[1876]]: on [[12 August]] the Dutch spies reported that [[Habib Abdoerrachman el Zahir|Habib Abdoer Rachman]] had for some days been keeping to the mesigit of Montasih and had many principal heads there with him — [[Panglima Polim]], [[Toewankoe Moeda Daoed]] and [[Toewankoe Hasjim]], names known well enough to need no comment. To the question of Toewankoe Hasjim why he did not let his fighters move up against the kafirs, the Habib is reported to have answered: *"I wish first to pay a visit to the Mesigit Raia, which I have myself built, and to pray there"* — a resolution which he was said actually to have executed with some followers, and after which he declared that a divine revelation had pointed him out the 27th of the month Redjeb ([[17 August|17]]–[[18 August]] [[1876]]) as the favourable day for an attack on the Dutch troops. On [[27 August]] he was again reported to have gone to Montasih, his prestige and influence ever increasing.
+
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records from the Koloniaal Verslag that Montassik was evacuated between [[12 February|12]] and [[28 February]] [[1885]], in succession with [[Boekit Seboen]], [[Boekit Lampaja]], [[Kroeng Raba]], [[Toengkoep]], [[Anak Galoeng]] with [[Boekloe]], [[Senelop]] and [[Pakan Badak]], in the completion of the [[Concentratie-stelsel (1884-1896)|concentration]] (see [[Completion of the concentrated position (March 1885)]]).
 
 ## See Also
 
@@ -86,3 +90,5 @@ Meijer's calendar of the Habib's advance gives Montasih's mesigit as the place o
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 100-103.
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 22, 26, 143, 148, 149, 156, 292, 295.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 82. OCR: DLP-158.

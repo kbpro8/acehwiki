@@ -1,5 +1,5 @@
 ---
-title: Ceintuur-trambaan
+title: "Ceintuur-trambaan"
 aliases: [Belt-tramway, Ceintuurbaan, ceintuur-trambaan of 1885, the Atjeh belt-tramway, the circular tramway of Kota Radja]
 tags: [concept, colonial, dutch, military, tramway, infrastructure, buitenbezittingen, aceh, 19th-century]
 description: "The ceintuur-trambaan — the belt-tramway built in 1885 along the postenlinie (line of forts) surrounding Kota Radja in Great Atjeh, connecting the Dutch defensive perimeter by three radial lines to the old tramway to the roadstead at Oelèe Lheuë."
@@ -18,6 +18,10 @@ The Bureau's framing of the ceintuur-trambaan places it as the principal materia
 ## Significance
 
 The [[Ceintuur-trambaan|ceintuur-trambaan]] is, in the Encyclopaedisch Bureau's account, the principal material embodiment of the defensive phase of the Dutch presence in [[Acheh|Atjeh]] — the phase of the [[1873]]–[[1896]] period. Its construction in [[1885]] marks the high point of the *postenlinie* strategy; its dismantling after [[1896]] marks the strategic reorientation that opened the long Atjeh campaign of conquest and [[Pacificatie van Atjeh|pacification]]. The ceintuur-trambaan's wheel-like pattern — circular line with three radial spokes — is the distinctive geographic form of the defensive phase of the Atjeh-tram network.
+
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] gives the decision and the first stages of its execution: it was decided to lay a *ceintuurtramweg* (belt tramway) between [[Lamdjame]] and [[Pakan Kroeng Tjoet]], "loopende langs alle tusschengelegen, tot de nieuwe postenlinie behoorende versterkingen; Siroen alleen uitgezonderd" ("running along all intervening fortifications belonging to the new line of posts; [[Siroen]] alone excepted"), after the steam tramway from Kota Radja to [[Lambaroe]] had worked since mid-[[1884]] and was then extended from Kota Radja to [[Ketapang Doewa]] and from there both to Lamdjame and to Lambaroe; according to the latest Atjeh news at the pamphlet's date ([[1886]]) that belt line was then completed as far as [[Roempit]]. To the same fence-work belong the telephone connections of every post with Kota Radja and the plan for electrical lighting of the whole position — measures that Perelaer's list of incidents immediately showed could not keep out the nightly raids on the rails (see [[Atjeh-tram]] and [[Guerilla raids inside the concentration line (1885)]]).
 
 ## See Also
 
@@ -40,3 +44,5 @@ The [[Ceintuur-trambaan|ceintuur-trambaan]] is, in the Encyclopaedisch Bureau's 
 ## Sources
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), p. 68 (section "De Atjeh-tram").
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 83. OCR: DLP-158.

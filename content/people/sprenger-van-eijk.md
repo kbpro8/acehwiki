@@ -22,6 +22,10 @@ But [[Tjilegon|Tjilegon]] and the Islam on Java! That the government wished to s
 
 Sprenger van Eijk is the Dutch minister of colonies in [[1889]] whose ministerial stance — that, in the matter of Atjèh, the government wished nothing new, and that the *modus* of the concentration system and the beri-beri commission must be maintained — was the immediate political context of Snouck Hurgronje's [[1889]] despatch to Indië with a special commission to study the institutions of Islam on Java (rather than Atjèh). The beri-beri commission — "*commissie-Keuchenhuis*", as Damsté satirically calls it — was the government's principal response to the beri-beri problem; and the Atjèh-political stance was the principal obstacle to Snouck Hurgronje's Atjèh interest in [[1889]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] fastens on the minister's public defences of the concentration. On [[19 December]] [[1884]] Sprenger van Eijk told the Tweede Kamer, as the newly coined paradoxes required, "dat de Atjehers door onze concentratie van slechter conditie zijn geworden" ("that the Atjehers have come into worse condition by our concentration"), "that the former commanders, through unfamiliarity with the terrain and the circumstances, had chosen bad points for our fortifications, whereby the advantage was too much on the enemy's side" and "that by choosing other points the advantage had come to ours" — sophisms of which only the Dutch people, and not the Atjehers, became the dupes, as the [[Proclamation of Toekoe di Tiroe (2 February 1885)]] showed. And in his Memorie van Antwoord (answer-memorial) to the Eerste Kamer of [[20 January]] [[1886]] the minister declared "that by the course of affairs in Atjeh the predictions of those who at the time condemned the concentration plan had least of all come true; that without noteworthy losses that concentration, represented as most dangerous, had been brought about; and that a comparison between the present state of safety and that before the concentration, or between the demands then and now made upon the Indies army and upon the country's financial forces, could not but fall out in favour of the present state". "A taste of traditional government optimism in the Atjeh affairs", Verstege comments, "an oracle-saying", for nobody, not even the minister, then knew the amount of the expenditure that comparison pretended to weigh. Later rumour credited Sprenger van Eijk, when serving as Raad van Indië, and the majority of that council, with advice *against* the concentration of [[1884]] (see [[Concentration decision (16-17 June 1884)]]).
+
 ## See Also
 
 - [[C. Snouck Hurgronje]]
@@ -42,3 +46,5 @@ Sprenger van Eijk is the Dutch minister of colonies in [[1889]] whose ministeria
 ## Source
 
 *Drie Atjeh-mannen: Snouck Hurgronje — Van Heutsz — Van Daalen*, door H. T. Damsté (September 1936). OCR-filename: `20260718_105749_DLP-111-Drie_Atjeh_mannen_Nemotron-OCR-v2_OCR.txt`, p. 11.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 66-67, 80, 94. OCR: DLP-158.

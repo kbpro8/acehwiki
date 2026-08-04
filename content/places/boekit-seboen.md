@@ -1,5 +1,5 @@
 ---
-title: Boekit Seboen
+title: "Boekit Seboen"
 aliases: ["Bt. Seboen", "Boekit Seboen", "B. Seboen", "Seboen"]
 tags: [place, achehnese, aceh-war, military]
 ---
@@ -28,6 +28,10 @@ Meijer gives Boekit Seboen as the only Dutch post that existed in the [[IV Moeki
 
 His account gives the officer's names for its use in these years: the post commander dared not come out from domicile without the district civil officer, who lodged in the fort; [[Toekoe Lampasei]] made it his residence to come into closer contact with his moekims; and the district's patrols — to the borders of the mountains and to [[Kroeëng Raba]] — left from it, with the [[1 June]]–[[3 June]] March of Major [[Majoor Voigt|Voigt]] also taking it as base for the [[Voigt expedition to the IV Moekims (1-3 June 1876)|search for Toekoe Tjihiq Lamngga]]. The difficult 3,600-metre mud road from Pakan Badak to it took his columns three hours.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records from the Koloniaal Verslag that Boekit Seboen was the first-named of the posts evacuated in succession between [[12 February|12]] and [[28 February]] [[1885]] at the execution of the [[Concentratie-stelsel (1884-1896)|concentration]] (see [[Completion of the concentrated position (March 1885)]]).
+
 ## See Also
 
 - [[Three-day Dutch offensive of 23–25 May 1896]]
@@ -45,3 +49,5 @@ His account gives the officer's names for its use in these years: the post comma
 ## Source
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 145, 148, 167, 181, 191, 195, 209, 213, 225, 227–230, 233, 319, 321.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 82. OCR: DLP-158.

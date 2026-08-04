@@ -1,5 +1,5 @@
 ---
-title: Nisero affair (1883–1885)
+title: "Nisero affair (1883–1885)"
 aliases:
 - Nisero-quaestie
 - the Nisero question
@@ -124,6 +124,10 @@ The prisoners were set free only after the Governor of Atjeh in person, [[P. F. 
 
 For Langhout the affair "kept the year 1883 as a rapjaar" in Atjeh's history and completed the discomfiture of the first civil government. It showed the exposure of European shipping to unsubjected chiefs on the coasts of the Dependencies, the delicacy of Anglo-Dutch coexistence in Atjehnese waters despite the free hand conceded by the [[Treaty of 1871]], and the first great stage upon which Teukoe Oemar proved his unreliability — ten years before his [[Pardon of Teukoe Oemar (30 September 1893)|pardon of 1893]] and his greater [[Defection of Teukoe Oemar (1896)|defection of 1896]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names the Nisero question "de noodlottige, die, in strijd met veler wensch, den waren toestand op Atjeh zoo duidelijk aan het licht bracht" ("the fatal question which, contrary to many wishes, brought the true state of Atjeh so clearly to light"), and the direct occasion why the concentration came to execution (see [[Concentration decision (16-17 June 1884)]]). The pamphlet contributes to the English side the following reliefs: the prophecy of the admiral-member [[Admiraal Fabius|Fabius]] of [[17 April]] [[1874]] — that the annexation would end by making the Dutch, when English subjects were murdered in Atjeh, answerable before England, or by England's action itself — came home in [[1884]] "in zake de Tenomquaestie, die ons, behalve veel geld, ook zoovele vernederingen heeft gekost, dat wij bij die herinnering nog het schaamrood op onze wang moeten voelen" ("in the Tenom affair, which has cost us, besides much money, also so many humiliations, that at the recollection we must still feel the blush on our cheek"); the joy with which the Dutch respectable press welcomed the so-called "joint action" with England is corrected with the warning that England would then have charged double for the war costs, and would have received, as an equivalent, the cession of the so favourably situated [[Poeloe Waai]] (Poelo Weh) — "on which at that very time France and Russia had drawn the attention of our government for the laying down of coal depots, to be in that respect independent of England" — which would have taken away the fear of the Straits English for the future of Penang and Singapore; since, Verstege believes in August [[1884]], Poeloe Waai therefore had been actually occupied by the Dutch. The same English mediator who had then told the Dutch, as every impartial mind must interpret the [[Annexation proclamation of Atjeh (1874)|annexation of 1874]], "dat wil, òf het land moesten veroveren òf terugtrekken" ("that is, that they must either conquer the land or withdraw"), "has missed no occasion to do us discredit, to show his hostility, his contempt for us as clearly as possible" — that was Mr. [[Sir William Maxwell|Maxwell]], in whom the English government placed complete confidence, and whose reward followed: "the English peerage" in the year before the pamphlet (so [[1885]]), while the Penang Chinese [[Koh Thian Poh]] at the end of [[1885]], with great ceremony, received a golden watch from the Queen for his services in the Tenom question, and the staatssecretaris [[Sir Julian Pauncefote]] — known to the Dutch side as the principal leader of the Tenom negotiations — got the Grand Cross of the Order of St Michael and St George (see also [[Sir Frederick Weld]]'s return to Penang and Maxwell's projected removal to Penang at the same moment, on pp. 93-94).
+
 ## See Also
 
 - [[Acheh]]
@@ -190,3 +194,5 @@ For Langhout the affair "kept the year 1883 as a rapjaar" in Atjeh's history and
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VIII, "Achteruitgang onder de Civiele Gouverneurs Pruijs van der Hoeven en Laging Tobias, van April 1881 tot September 1884." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 44.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 54–58.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 32-34, 79-80, 86-87, 93. OCR: DLP-158.

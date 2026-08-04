@@ -1,5 +1,5 @@
 ---
-title: Atjehsche Raad van Achten
+title: "Atjehsche Raad van Achten"
 aliases:
 - Aceh Council of Eight
 - Atjeh Council of Eight
@@ -45,6 +45,10 @@ The Atjehsche Raad van Achten is the principal Atjehese instrument of external d
 ## Sources
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Eerste tijdvak, blz. 15.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] (1886) names the war council when sketching the alarm he thought England's next move might occasion from that side: [[Sir William Maxwell|Maxwell]] — "the new English nobleman", the no friend of the Dutch from the [[Nisero affair (1883–1885)|Tenom affair]] — was about to move from Singapore to Penang for good, "de dichtst bij zijne Atjehvrienden" ("the nearest to his Atjeh-friends"), where he would be closest to the remaining members of the Raad van achten ("de Atjesche oorlogsraad" — the Atjehsche war council), "en verbereidt met hen wellicht reeds het oogenblik dat, met Atjeh te beginnen, ons Indisch Rijk een einde zal nemen" ("and is perhaps already preparing with them the moment when, beginning with Atjeh, our Indian Realm will come to an end"). From the same sources he holds that the Atjehsche chiefs in Penang worked always with their agents or the returning hadjis to sap Dutch authority (see [[C. Bosscher]] on the same belief, in the same year).
+
 ## See Also
 
 - [[Habib Abdul Rachman El-Zahir]]
@@ -70,3 +74,5 @@ The Atjehsche Raad van Achten is the principal Atjehese instrument of external d
 ## Source
 
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter III, "Tweede expeditie, van December 1873 tot April 1874." OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, p. 13.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 93. OCR: DLP-158.

@@ -18,6 +18,10 @@ The book follows the blockade, transport and cholera crisis, landing, fighting a
 
 The [[1879]] volume appeared at [[Zalt-Bommel]] with a map of [[Aceh]] and a plan of the [[Kraton of Aceh]].
 
+## Verstege's use of the book in 1886
+
+[[J. J. W. E. Verstege|Verstege]] uses *De Waarheid* as the arsenal against its own author. He confronts from it: the war-aim passage (pp. 287-288) — "Het doel van den oorlog was slechts vasten voet in het Noorden van Sumatra te bekomen, ten einde bemoeienis van vreemde mogendheden met Atjeh tegen te gaan. Dat bereikt zijnde, werd verder niets verlangd" ("The aim of the war was but to get firm footing in the north of Sumatra, in order to prevent the meddling of foreign powers with Atjeh. That being obtained, nothing further was desired"), with the consequences documented at [[Annexation proclamation of Atjeh (1874)]]; the exhaustion passage (p. 310) — the commander-in-chief's telegram of 11 January [[1874]] that the expeditionary battalions at Padang were exhausted ("de expeditionaire bataillons te Padang zijn uitgeput"); Lampang story (p. 311) on party spirit becoming an enemy as dangerous as the Atjehnese fighters ("De partijgeest heeft eenige onzer landgenooten tot even gevaarlijke vijanden gemaakt als onze Atjehsche strijders"); the journal of 4 February [[1874]] (p. 315) with the three confessions — the whole people to be dealt with, no decisive battle to be given, the losses hardly replenishible — against the telegrams of the same date; the health boast (pp. 319-320) that [[Kuta Raja|Kota Radja]] was so healthy a residence, against the ambulance returns; the "no third expedition" letter to the Governor-General of 19 July 1874 (p. 546), the whole correspondence with the Sultan (pp. 388-392, 470, 490 and its "Inlanders schikken zich spoedig in het onvermijdelijke" ["Natives soon accommodate themselves to the inevitable"] optimism), the "strongest form" thesis (p. 277), and the instructions left to Pel ("de agressieve kracht des vijands niet groot... 's vijands aanvallen af te wachten", p. 458). Chapter after chapter Verstege forces the reader to lay the general's public confidences beside the general's private statements in the same book, and the return of each is the [[Afwachtende houding|wait-and-see posture]] that all Atjeh history has punished (see [[Jan van Swieten]]).
+
 ## See Also
 
 - [[Jan van Swieten]]
@@ -29,3 +33,5 @@ The [[1879]] volume appeared at [[Zalt-Bommel]] with a map of [[Aceh]] and a pla
 ## Source
 
 *De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. title pages, introduction, pp. 1–465, appendices..
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), passim. OCR: DLP-158.

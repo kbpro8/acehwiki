@@ -81,6 +81,10 @@ On [[7 March]] [[1896]] the *liniecommandant* (commander of the line) came from 
 
 This *benteng*, exposed to enemy fire — which resounded immediately after the people were seen running away from the rice-fields in front — remained occupied until on [[18 April]] [[1896]] the columns came up which were to relieve it, together with [[Anagaloeng]] and [[Lam Barih|Lambarih]], and to lift it, after the surrounding population had ranged itself on the side of [[Teukoe Oemar|Toekoe Oemar]], who had gone over to the *[[Moslemin]]*, and the *[[Blokhuis|blokhuizen]]* in the neighbourhood had been burnt by the Dutch.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records from the Koloniaal Verslag that Senelop was evacuated between [[12 February|12]] and [[28 February]] [[1885]], in (the) succession at the execution of the [[Concentratie-stelsel (1884-1896)|concentration]] (see [[Completion of the concentrated position (March 1885)]]).
+
 ## See Also
 
 - [[XXII Moekims]]
@@ -160,3 +164,5 @@ This *benteng*, exposed to enemy fire — which resounded immediately after the 
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 53-54.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 82. OCR: DLP-158.

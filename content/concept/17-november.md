@@ -16,6 +16,10 @@ The Minister of Colonies [[J. T. Cremer|Cremer]] opened by placing on record the
 
 The general deliberation and the deliberation on the motion of order were then closed, and the motion was put and rejected by seventy-two votes to three, the three being [[H. van Kol|Van Kol]], [[Pieter Jelles Troelstra|Troelstra]] and [[Van der Zwaag]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+Closing date (1885) of majoor [[M. T. H. Perelaer|Perelaer]]'s list of incidents inside the concentration line (see [[Guerilla raids inside the concentration line (1885)]]).
+
 ## See Also
 
 - [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
@@ -31,3 +35,5 @@ The general deliberation and the deliberation on the motion of order were then c
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178.
 
 *Acknowledgement of sources.* The material in this article derives from *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor 1898* (Amsterdam: J. A. Fortuijn, [[1897]]). Dutch passages are quoted in the original with an English rendering.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), see [[Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk (Verstege, 1886)#passages|op. cit.]]. OCR: DLP-158.

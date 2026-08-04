@@ -10,6 +10,10 @@ tags: [concept, date, calendar, timeline, aceh-war]
 
 - [[Dutch occupation of a benteng at Toengkoeb (27 September 1893)]] — Dutch troops occupied one of [[T. Tjoet Toengkoeb]]'s *bentengs* at [[Toengkoeb]] ([[1893]])
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+Night of 27-28 September [[1885]]: the telephone connection between [[Lamrong]] and [[Lampeneroet]] was destroyed (see [[Guerilla raids inside the concentration line (1885)]]).
+
 ## See Also
 
 - [[De verlaten posten in Groot-Atjeh (Hooijer, 1897)]]
@@ -20,3 +24,5 @@ tags: [concept, date, calendar, timeline, aceh-war]
 ## Source
 
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, passim.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), see [[Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk (Verstege, 1886)#passages|op. cit.]]. OCR: DLP-158.

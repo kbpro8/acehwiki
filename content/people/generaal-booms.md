@@ -1,5 +1,5 @@
 ---
-title: General Booms
+title: "General Booms"
 aliases:
 - Booms
 - generaal Booms
@@ -31,6 +31,10 @@ Borel's use of Booms is characteristic of his method: he invokes the named criti
 ## Sources
 *Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 1-22.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] leans, in his Appendix D, much on generaal P. G. Booms's *Historische kritiek: de eerste Atjehsche expeditie en hare enquête* (overdrukt uit de Indische Gids, May and June [[1880]]) for the documented account of how the first expedition was prepared: the admiral's answers at the Raadsvergadering of [[21 February]] [[1873]] (see [[Schout-bij-nacht Geerling]]), the evidence that the legerbestuur (army administration) had in the one month from [[21 February]] to [[22 March]] [[1873]] "done what was possible, and with that little time had, as it were, raked together" for the equipment, and the verdict that the inquiry of [[1873]] — "schijnbaar om een staatsbelang" ("ostensibly for a public interest") — chiefly served to make the conduct of the commanders the scapegoat, with veiling of the chief causes of failure: "de tekortkomingen en de fouten van de regeering" ("the shortcomings and the mistakes of the government"). Verstege notes that such an inquiry "moeten wij niet hebben" ("we must not have"), while demanding a true commission of inquiry into the whole Atjeh question (see [[Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk (Verstege, 1886)]]).
+
 ## See Also
 
 - [[Second Aceh Expedition (1873–1874)]]
@@ -51,3 +55,5 @@ Borel's use of Booms is characteristic of his method: he invokes the named criti
 ## Source
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, [[1878]]. p. 21.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 102, 119-123. OCR: DLP-158.

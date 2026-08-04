@@ -1,5 +1,5 @@
 ---
-title: Tengkoe di Tirou
+title: "Tengkoe di Tirou"
 aliases:
 - Teungku di Tiro
 - Tëngku di Tiro
@@ -149,6 +149,10 @@ The founder of the rateb Saman, a mystical devotional school based on rhythmic r
 *Atjeh-Album van Eigen Haard*, uitgave van de N.V. *Het Tijdschrift "Eigen Haard"*, Amsterdam, [[1896]], pp. 10, 16 (Een Terugblik — Wat Reeds Verkregen Werd; De Geestelijkheid in Atjeh — Teungkoe di Tiro).
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan (Leiden: E. J. Brill, 1906).
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] stamps Toekoe di Tiroe "hunnen voornaamsten aanvoerder" — the Atjehnese people's foremost leader — in early [[1885]], and reports from the Koloniaal Verslag that he had then established his headquarters at [[Anak Galoeng]], "geruimen tijd het onze" ("for a long time ours"): the place to which the Gouverneur-Commissaris [[A. Pruys van der Hoeven|Pruijs van der Hoeven]] had wanted in September [[1880]] to move the chief seat of the government as lying more centrally in the then position — a proposal the government would not consent to. From that sign-palace of the former Dutch mastery the leader issued, on [[2 February]] [[1885]] (16 Rabioel Achir 1302), the victory proclamation on the retreat of the Dutch, spread among the Atjehsche and even the Javanese population (see [[Proclamation of Toekoe di Tiroe (2 February 1885)]]). To Verstege the fact that the foremost enemy held his court within the very bounds of the old headquarters was the commentary of events on the ministerial assurance that the concentration had placed the Atjehers in a worse condition.
+
 ## See Also
 
 - [[Tengkoe Mohamed Amin]]
@@ -277,3 +281,5 @@ The founder of the rateb Saman, a mystical devotional school based on rhythmic r
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX (the soul of the resistance), Chapter X (the encirclement and the 1889 offer), Chapter XI (death and succession). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 49–50, 53–57, 61.
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. p. 40. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 67, 70. OCR: DLP-158.

@@ -31,6 +31,10 @@ The post was connected to:
 
 Blang helped complete the southern section of the perimeter, providing additional coverage between [[Ketapan-Doea]] and [[Lamdjamoe]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Blang the last but one of the eighteen semi-permanently built posts of the line of [[1885]] as enumerated in the Koloniaal Verslag (see [[Postenlinie]]): "Kota-Pohama, Pakan-Kroeng-Tjoet, Lamjong, Boekit-Karang, Roempit, Tjot-Iri, Wachthuis aan de Lingkar, Lampermej, Siroen, Lambaroe, Wachthuis Lamsajoen, Lamrong, Lampeneroet, Wachthuis Lamara, Ketapan-Doewa, Blang, Landjame en Lamtih" (see [[Completion of the concentrated position (March 1885)]]).
+
 ## See Also
 
 - [[Geconcentreerde Stelling]]
@@ -40,3 +44,5 @@ Blang helped complete the southern section of the perimeter, providing additiona
 ## Source
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, p. 28.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 81. OCR: DLP-158.

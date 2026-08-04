@@ -94,6 +94,10 @@ Then came the report that [[Panglima Polim]] had asked for operations against hi
 
 With the submission of [[Panglima Polim]] in [[1903]], the thirty-year [[Atjeh War]] came to its end. Although some work remained—roads to be built, the [[Gajoelanden]] to be brought under administration, a few remaining hostile bands to be pursued—the fundamental resistance had collapsed. The population everywhere, even in the deepest interior and highest mountains, recognised Dutch authority. The war itself was over.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]]'s notes touch the Panglima's place in three moments. As a figure of the Atjehsche war custom he stands, with other chiefs and a crowd of lesser Atjehers, among those present at the cruel execution of the Dutch truce-bearer [[Mas Soemo Widikdjo|Mas Soemo Widjojo]] in the last days of December [[1873]] (see [[Murder of parlementaire Mas Soemo Widjojo (23 December 1873)]]). In June [[1879]] his official dwelling-place, [[Gleieng]] — "the dwelling-place of the so feared sagie-head Panglima Polim" — was stormed in the morning of the fifth (Verstege's dating; see [[Capture of Gleiêng (9 July 1879)]] for the variant of tradition): he had not dared to await the Dutch attack, and in his positions were found, besides a great stock of gunpowder and bullets, 24 pieces of cannon, most of too great calibre to be carried away, which were made unfit for further use. And it was his brother [[Toekoe Tjoet Hadjet]], known as [[Toekoe Ajer-Alang]], who on [[15 August]] [[1879]] surrendered with a great following at the Selimoen bivouac and, with [[Toekoe Moeda Daoed]], swore submission before generaal [[Karel van der Heijden|van der Heyden]] on [[20 August]] [[1879]].
+
 ## See Also
 
 - [[XXII Moekims]]
@@ -115,3 +119,5 @@ With the submission of [[Panglima Polim]] in [[1903]], the thirty-year [[Atjeh W
 ## Source
 
 *Het einde van den Atjeh Oorlog. De beteekenis der Onderwerping van Panglima Polim* (Overprintken uit de *Evening Post* van 25, 26 en 27 Augustus 1903, Royal Institute for Language, Land, and Ethnology, The Hague, Publishing Company voorheen De Vries & Co., 1903, pp. 3-18); Somer, Dr. J. M. *Het Atjeh-probleem van 1890-1900* (Overprint uit *Journal / Organ van de Netherlands-Indies Officers Association*, [1935], pp. 4-7, 10-11).
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 18, 60, 61. OCR: DLP-158.

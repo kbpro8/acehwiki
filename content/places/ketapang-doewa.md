@@ -34,6 +34,10 @@ Meijer gives Ketapan Doewa its situation on the right bank of the [[Kroeëng Dar
 
 On [[20 April]] [[1876]] the post was alarmed in vain by night; on [[23 April]] a small band of Atjehers tried to steal up on it in daylight, three quarters of an hour past noon, and was driven back for the first time wholly without losses; on [[17 July]] the last great fight of the road between the post and [[Boekit Daroe]] took place, with the destruction of the escort of corporals [[Ambush between Boekit Daroe and Ketapan Doewa (17 July 1876)|Wensting and Wijnen]]; and its garrison and the terrain around were the enemy's habitual watching ground, as Meijer's record of the month's steady spying on the post shows.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Ketapang Doewa one of the eighteen posts of the line of [[1885]], a node of the new tramway development: from [[Kuta Raja|Kota Radja]] the steam tram was lengthened to Ketapang Doewa, and from here in two directions — to [[Lamdjame]] and to [[Lambaroe]] (see [[Atjeh-tram]]); on [[11 August]] [[1885]] the night watch of six men returning from [[Lamara]] to Ketapang Doewa was attacked: six wounded, of whom three died the same day, with two rifles lost to the enemy (see [[Guerilla raids inside the concentration line (1885)]]).
+
 ## See Also
 
 - [[Expedition to Ketapang Doewa (15 February 1874)]]
@@ -51,3 +55,5 @@ On [[20 April]] [[1876]] the post was alarmed in vain by night; on [[23 April]] 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel (The Hague: D. A. Thieme, [[1878]]), pp. 54–57, 64–66, 179, 266.
 
 *Open brief aan den Generaal Knoop over de Atjeh-kwestie*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 18–19.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 81, 83, 109. OCR: DLP-158.

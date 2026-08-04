@@ -24,6 +24,10 @@ Meijer gives Kota-Pohama as a flat island in the great lagune, opposite the mout
 
 Almost simultaneously with the occupation of the position at [[Kwala Gigieng|Koewala Gigiëng]], in February [[1876]], the place was occupied, after a reconnaissance from Koewala Gigiëng found it abandoned: the garrison received provisions and munition to hold out, and materials to build. The enemy let all this not happen undisturbed: he disturbed the fortifying by rifle fire from the south side of the lagune, increasing so soon that the south face of the work had to be closed by palisade, and in April the post received a mortar because the enemy opposite kept it under such constant fire. The island post had to secure the communication between Koewala Gigiëng and Moesapi.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records that Kota Pohama was occupied by Dutch troops already on 25-29 September [[1884]], one of the first posts of the new line of the [[Concentratie-stelsel (1884-1896)|concentration]], and stands first in the official list of the eighteen semi-permanent fortified posts of the March [[1885]] line (see [[Postenlinie]] and [[Completion of the concentrated position (March 1885)]]).
+
 ## See Also
 
 - [[Concentration Decision of August 1884]]
@@ -47,3 +51,5 @@ Almost simultaneously with the occupation of the position at [[Kwala Gigieng|Koe
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], pp. 24–25.
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 322–325, 336, 342–344.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 81. OCR: DLP-158.

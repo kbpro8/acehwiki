@@ -22,6 +22,10 @@ Meijer gives Oleh Karang its situation as the Dutch fortification named after th
 
 Its situation lay among sawahs on the north and east, leaning on kampongs on the south and west: the ground towards kampong Lemboecq was crossed at random by old water channels, presumably connected with the Kroeëng Tjoet. The road from it to [[Kota Alam]] was soon opened, cleared and made firm, but the direct road from it to [[Pango]] across kampong Tjiri and the edge of kampong Lamkapang, held by the enemy, remained for months impassable and was the road on which the escort of the [[Oleh Karang convoy ambush (16 April 1876)|convoy of 16 April]] and the meat supplies were daily disputed. Its year's records were the ambushes of [[Ambush between Oleh Karang and Kota Alam (18 June 1876)|18 June]] and [[Ambush between Kota Alam and Oleh Karang (28 July 1876)|28 July]] [[1876]] on its fouraging roads, and in the year's flood the sliding of its whole west face into the ditch.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] names Oleh Karang, with [[Oleh-leh]], [[Kuta Raja|Kota Radja]] and [[Kota Alam]], among the named fortifications lying *inside* the new line of [[1885]]; on [[8 November]] [[1885]] an escort of seven men was attacked between Oleh Karang and [[Tjot Iri]] (see [[Guerilla raids inside the concentration line (1885)]]).
+
 ## See Also
 
 - [[Kotta Alam]]
@@ -37,3 +41,5 @@ Its situation lay among sawahs on the north and east, leaning on kampongs on the
 *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 58-61.
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], p. 22.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 81, 110. OCR: DLP-158.

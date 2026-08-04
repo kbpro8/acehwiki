@@ -116,6 +116,10 @@ The Dutch post at [[Anagaloeng]] lay immediately beside his territory. Hooijer w
 
 For two years in succession the constantly changing garrison at Anagaloeng nevertheless had a fairly quiet time, once the surrounding terrain came to be watched by Achehnese auxiliaries who were no longer commanded by Toekoe Baid.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] gives the chief's use against his own people a bitter chronicle. Banished to Banda in [[1879]], Toekoe Moeda Baid was allowed to return to Atjeh at the end of [[1884]], on the proposal of the military governor, who had come to know Baid more closely at Banda — a measure in which the [[Concentratie-stelsel (1884-1896)|concentration]] was paired with clemency: already in November [[1884]] Baid issued an order to the Atjehers not to trouble the Dutch soldiers when they would evacuate the outer posts, for fourteen days. "Leaving aside that this day order of BAID had no result, it already appears from it how sad it must be with our prestige, that we call in and accept such intercession of such a returned traitor for our soldiers", Verstege remarks; "it has truly already come far with us, and yet we still regard ourselves as the second great colonial power." The Koloniaal Verslag recorded his allowance of [[600]] guilders a month, besides perhaps other unknown advantages, after he had risen to Hoeloebalang (war chief) of the VII Moekims now lying outside the Dutch line, and noted, in the same report, that "aangezien de voortdurende pogingen onzerzijds om vredelievende betrekkingen met hoofden en bevolking aan te knoopen en te onderhouden, slechts met verraad worden beantwoord, werd het noodzakelijk geacht voortaan eene zeer krachtige en gereserveerde houding tegenover alle Atjehers in acht te nemen" ("since the continuous attempts from our side to knit and maintain peaceable relations with chiefs and population are only answered with betrayal, it was deemed necessary henceforth to take a very powerful and reserved attitude towards all Atjehers"). "How he serves the Atjehers will, in many men's opinion, first become clear when kolonel [[Demmeni]] shall have left Atjeh" (cf. the events of the year [[1896]] recorded elsewhere: the verification of this distrust belongs to the later account).
+
 ## See Also
 
 - [[Sultan Saleiman Iskander]]
@@ -209,3 +213,5 @@ For two years in succession the constantly changing garrison at Anagaloeng never
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 50.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 84-85. OCR: DLP-158.

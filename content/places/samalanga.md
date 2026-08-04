@@ -97,6 +97,10 @@ At the civil formation of the end of [[1878]] one controller was placed at Samal
 
 In the budget of [[1900]] funds were granted for the tramway [[Sigli]]–[[Lho Seumawè]]; because the survey of the middle section, lying in the landscape Samalanga, was not yet possible owing to the political condition, the construction was taken in hand from Sigli and from Lho Seumawè outward. The washing-away of three iron bridges by *bandjirs* (floods) caused further delay, so that the whole new stretch could be taken into use only in April [[1904]].
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] gives the warlike reputation of the place its most spirited incident: during the Dutch campaigns against the krijgshaftige volk van Samalangan on Atjeh's North Coast in [[1877]] and [[1880]], the reins of authority there were effectively in the hands of [[Potjoet Maligoï]], "de halve zuster van den door opium-gebruik ontzenuwden Samalanganschen vorst" ("the half-sister of the Samalangan prince unnerved by opium use"), an energetic woman who had the men who would not fight or behaved cowardly "eenvoudig ontmannen" ("simply emasculated") — "de teugels van het gezag" ("the reins of authority") going so far, in one example, that the Dutch saw how lad-hearted men are treated there (see [[Van der Heyden's Samalangan campaign]]). In the June-August [[1880]] campaign against it, which at first was unfavourable for the Dutch, but came at last to a good result, "we had to contend with a stubborn kamp", Verstege writes (after Kielstra).
+
 ## See Also
 
 - [[Aceh War]]
@@ -178,3 +182,5 @@ In the budget of [[1900]] funds were granted for the tramway [[Sigli]]–[[Lho S
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 38, 40, 53, 137.
 
 *Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 62, 66, 67, 105, 188, 295, 312, 323, 402, 412.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 15, 67-68. OCR: DLP-158.

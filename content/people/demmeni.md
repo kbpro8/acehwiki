@@ -100,6 +100,10 @@ With the consent of the Government, which wished to avoid every reproach that no
 
 After more than three years of civil government the Government understood that a reserved and very forceful attitude toward the Atjehnese left no place for a separate civil administration, and that military and civil authority had again to be united in one hand. Governor Laging Tobias was honourably relieved, and Colonel of Infantry H. Demmeni was appointed Civil and Military Governor of Atjeh and Dependencies, accepting the administration on 13 September 1884. Thus ended, in Langhout's phrase, "the for our army inglorious and for trade most unfavourable period of the first civil government in Atjeh". Demmeni's name thereafter attaches to the carrying out of the [[Dutch Policy of 'Concentration'|Concentration]] — the withdrawal from outlying posts, the redrawing of the line of posts around [[Koeta Radja]], and the strict blockade of a great part of the Atjehnese coast.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records the colonel's assumption of the double office: on [[19 August]] [[1884]] kolonel Demmeni entered office as civil *and* military Governor of Atjeh — the reunification of the two-headed government of [[1881]] which governor [[P. F. Laging Tobias|Laging Tobias]] had proposed (see [[Normale bestuursinrichting (Atjeh, 1881-1884)]]). Rumour credited Demmeni, like his predecessor and most members of the Raad van Indië, with advice *against* the concentration before the secret decision of [[16 June|16]]-[[17 June]] [[1884]] (see [[Concentration decision (16-17 June 1884)]]). Demmeni it was who, on the proposal of the military governor who had come to know [[Toekoe Moeda Baid]] at Banda, promoted the return of that exiled chief to Atjeh (end of [[1884]]); and it is his name that Verstege links with the comment on that chief's allowance of six hundred guilders a month as Hoeloebalang of the VII Moekims outside the line: "hoe hij de Atjehers echter dient, zal, volgens veler meening, eerst duidelijk aan het licht komen wanneer de Kolonel DEMMENI Atjeh eens zal hebben verlaten" ("but how he serves the Atjehers will, in the opinion of many, first become clear when Kolonel Demmeni shall have left Atjeh").
+
 ## See Also
 
 - [[Concentratie-stelsel (1884-1896)]]
@@ -197,3 +201,5 @@ Appointed in [[August]] [[1884]] to restore unified civiel- en militair bestuur.
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 55–60.
 
 *Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 324.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 79-80, 85. OCR: DLP-158.

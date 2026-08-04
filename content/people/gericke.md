@@ -28,6 +28,10 @@ Cremer used the statement as one of three pillars of his defence, alongside the 
 
 [[H. van Kol]] answered on [[17 November]] that the pretext of foreign interference had been "een verfoeilijk kluchtspel," that the official papers on the occasion of the war, kept carefully secret for eight years, were known to him also, and that according to [[Abraham Kuyper|Kuyper]] in the *Handelingen* of [[1874]]–[[1875]], p. 1305, a "zot" and a "monomaan" had by "de inblazingen van een leugenaar" — the promptings of a liar made the [[Onderkoning|viceroy]] the dupe of a false alarm.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] quotes Gericke van Herwijnen's own closing words in the secret Kamerzitting of [[17 April]] [[1874]], when he was Minister of Foreign Affairs: "Wij hebben alle middelen uitgeput om tot een vergelijk te komen met Atjeh, maar komen tot de overtuiging, dat ons niets anders overbleef dan het bezigen van geweld. In plaats van den aangeboden olijftak verkozen zij het zwaard. Dat is de schuld van Atjeh, en niet de onze" ("We exhausted all means to come to a settlement with Atjeh, but came to the conviction that nothing remained to us but the use of force. Instead of the offered olive branch they chose the sword. That is Atjeh's fault, and not ours"). "Die woorden onderschrijven wij geheel", Verstege writes, "maar juist daarom ging het niet aan, om in 1874 na den eersten aanloop te blijven steken en de Atjehers steeds olijftakken te blijven aanbieden, die zij steeds met klewanghouwen bleven beantwoorden" ("Those words we subscribe entirely; but precisely for that reason it was not admissible, in 1874, after the first onset, to keep sticking and to keep offering the Atjehers olive branches, which they kept answering with klewang blows") — the principle by which he judges both the "war of philanthropy" of that year and the [[Afwachtende houding|afwachtende houding]] that followed it.
+
 ## See Also
 
 - [[Isaäc Dignus Fransen van de Putte]]
@@ -44,3 +48,5 @@ Cremer used the statement as one of three pillars of his defence, alongside the 
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 48–49, 62–63.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 23 note. OCR: DLP-158.

@@ -22,6 +22,10 @@ Boekloe itself was evacuated on [[28 February]] [[1885]] along with [[Senelop]],
 
 The establishment and subsequent evacuation of Boekloe illustrated the temporary nature of many posts and the practical challenges of retrograde operations. The post served its purpose during the evacuation period and was then abandoned.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]] records from the Koloniaal Verslag that Boekloe was evacuated together with [[Anak Galoeng]] in the February [[1885]] series at the execution of the [[Concentratie-stelsel (1884-1896)|concentration]] (see [[Completion of the concentrated position (March 1885)]]).
+
 ## See Also
 
 - [[Withdrawal from XXII Moekims Outposts (January 1885)]]
@@ -33,3 +37,5 @@ The establishment and subsequent evacuation of Boekloe illustrated the temporary
 ## Source
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 26, 28.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), p. 82. OCR: DLP-158.

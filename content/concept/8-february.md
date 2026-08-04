@@ -25,6 +25,10 @@ tags: [concept, date, aceh, colonial, meusigit-raja, calendar, timeline]
 - [[Tgk. Ma'at]]
 - [[Extract from the service record of H. N. A. Swart]]
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+On this date in [[1874]] van Swieten wrote to Imam Lhongbattah and [[Toekoe Kadli]] that the Kraton would become a Dutch kota and at Atjeh a great trading city be founded; on this date in [[1876]] [[Jacobus Pel|Pel]], returned from the conquest of the XXV Moekims, addressed his soldiers in the day order quoted in the pamphlet (see [[Jacobus Pel]]).
+
 ## See Also
 
 - [[Oost-Indisch Journael]]
@@ -43,3 +47,5 @@ tags: [concept, date, aceh, colonial, meusigit-raja, calendar, timeline]
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on the Meusigit Raja.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), passim.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 35, 58, 83 note. OCR: DLP-158.

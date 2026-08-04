@@ -1,5 +1,5 @@
 ---
-title: Telok Semawé
+title: "Telok Semawé"
 aliases:
 - Telok Semawe
 - Teluk Semawe
@@ -79,6 +79,10 @@ In Van Heutsz's own [[1893]] prescription, Telok Semawé was retained as one of 
 
 The operational implementation of the [[Concentration Decision of August 1884|Concentratiebesluit]] at Telok Semawé is recorded in *De Geconcentreerde Stelling in Groot-Atjeh* (1885). The post was evacuated on [[10 November]] [[1884]], following the Governor-General's decision of [[19 August]] [[1884]], which abolished the position of *assistent-resident ter Noord- en Oostkust* (assistant-resident for the North and East Coast) whose *standplaats* (station) it had been. The materials from the evacuated post were transported and reused in the construction of the new post at [[Lamtih]], demonstrating the efficient resource management during the concentration. This reuse reflected the practical approach of the [[Demmeni|Colonel Demmeni]] administration: abandoned fortifications were stripped and their materials incorporated into the new defensive line rather than left to the Acehnese.
 
+## Account from Verstege's *Een beroep op het Nederlandsche volk* (1886)
+
+[[J. J. W. E. Verstege|Verstege]], asking why the principle that kept the garrison at [[Malaboeh]] was not valid likewise for the other coast establishments, names Telok Semawe: "waarom werden dan in Groot-Atjeh zoovele versterkingen prijs gegeven ... en waarom werd onze vestiging te Telok Semawe, waaraan sedert 1881 schatten zijn besteed, niet behouden?" ("why then in Groot-Atjeh were so many fortifications given up ... and why was our establishment at Telok Semawe, to which treasures had been devoted since 1881, not retained?") — a question which, in his series of the government's alter-and-fluctuate decisions that year, remained unanswered (see [[Concentratie-stelsel (1884-1896)]] and [[Blokkade]]).
+
 ## See Also
 
 - [[Acheh]]
@@ -143,3 +147,5 @@ The operational implementation of the [[Concentration Decision of August 1884|Co
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IV (the submission of July 1874), Chapter VII (Scherer's station), Chapter X (the Van Teijn reopening), Chapter XII (the 1894 scheepvaartregeling and the 1890s unrest). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 20, 35, 54, 66, 75.
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 5, 25.
+
+*Een beroep op het Nederlandsche volk in zake het Atjeh-vraagstuk*, door J. J. W. E. Verstege (Amsterdam: J. H. de Bussy, [[1886]]), pp. 88. OCR: DLP-158.
