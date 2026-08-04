@@ -21,6 +21,30 @@ Spoon's six sample oils — numbered 1874, 1882, 1958-1, 1958-2, 1986 and 2076 �
 ## Significance
 The patchouli-oil industry in Atjeh is the type-case of the post-pacification *volkscultuur* promoted by the [[Koninklijke Vereeniging Koloniaal Instituut|Koloniaal Instituut]] and the colonial government. It demonstrates both the possibilities of indigenous processing of an existing raw-material export and the obstacles — quality-control, market-reception, the competition of the Chinese distilleries of Penang and Singapore — that such an industry faced in the inter-war period.
 
+## Account from *Over patchouly-olie en patchouly-blad van Atjeh (1925)* — Bericht No. 21
+
+The full correspondence of the [[Atjeh patchouli experiments (1921-1925)|Atjeh patchouli experiments of 1921-1925]] is preserved in [[Over patchouly-olie en patchouly-blad van Atjeh (1925)|*Bericht* No. 21 of the Afdeeling Handelsmuseum]] (April 1925). The Bericht opens with the letter of [[6 August]] [[1921]] from the [[Afdeeling Nijverheid|Afdeeling Nijverheid]] at [[Buitenzorg|Buitenzorg]] to the [[Afdeeling Handelsmuseum|Afdeeling Handelsmuseum]] at Amsterdam announcing the beginning of distillation at [[Tapa Toean|Tapa Toean]], and closes in April [[1925]] with the Handelsmuseum's verdict that "Er is een sluier opgeheven, en de afhankelijkheid van Singapore en Penang, wat betreft het verkrijgen van prima patchouly, vervallen" — A veil has been lifted, and the dependence on Singapore and Penang, in respect of obtaining prime patchouli, has lapsed.
+
+### The Three European Verdicts of 1921-1922
+
+The first Atjeh-distilled oil samples reached Amsterdam in September 1921 and were distributed to three of the leading European essential-oil houses:
+
+- [[Schimmel & Co.|Schimmel & Co.]] of Miltitz near Leipzig — the world's largest essential-oil house — reported in December 1921 (analysis signed by Dr. Richard Dunkel) that the oil was "ein vollwertiges Konkurrenzprodukt für das Singaporeöl ... nicht" — not a full-value competitive product for the Singapore oil.
+- [[Roure, Bertrand fils|Roure, Bertrand fils]] of Grasse — the oldest French perfumery house — reported in December 1921 that the same oils were "de très bonne qualité et possèdent une valeur commerciale indiscutable" — of very good quality and of indisputable commercial value.
+- [[Polak & Schwarz's Essencefabrieken|Polak & Schwarz's Essencefabrieken]] of Hilversum — the principal Dutch essential-oil house — reported in January 1922 that, while the constants were satisfactory, the odour was "zeer matig" (very mediocre) and would find a market only at 30-40% below the Singapore price.
+
+### The 1923-1924 Leaf-Consignment Programme
+
+After the discouraging 1921-1922 verdicts, the Handelsmuseum proposed a regular quarterly programme of raw-leaf shipments, sent direct from Atjeh, distributed to the European houses for distillation and evaluation. The first baal — one *pikol* — was shipped from Tapa Toean in early July 1924, via [[Sabang|Sabang]], to Amsterdam, with the leaf "under European supervision selected".
+
+The Atjehsche Oliefabriek had been taken over, around 1924, by a European resident of Tapa Toean, **[[Van Vreeswijk|Van Vreeswijk]]**, after a period of standstill. Van Vreeswijk's letter of [[16 August]] [[1924]] to the Handelsmuseum gave the discovery that transformed the Atjeh patchouli-oil industry: the patchouli leaf of [[Bakongan|Bakongan]], grown on the sand-and-swamp conjunction of the Bakongan coastal strip and dried with the care the Bakongan planters had begun to devote to it, was the finest patchouli-leaf of Atjeh, with an odour "veel sterker dan dat uit eenig andere streek in Atjeh". Van Vreeswijk ranked the three principal Tapa Toean patchouli districts: [[Laboh Hadji|Labohan-Hadji]] the least valuable, [[Loboang Koang|Loboang Koang]] the middling, [[Bakongan|Bakongan]] the best.
+
+### The Bakongan Triumph of Winter 1924-1925
+
+The Bakongan leaf, when distilled by the European houses over the winter of 1924-1925, produced oil uniformly judged equal in quality to the best Singapore-Penang product. [[Schimmel & Co.|Schimmel & Co.]] of Miltitz reported: "Die untersuchten Dilemblätter sind hiernach den Singapore-Patchouliblättern als gleichwertig zu erachten" — the Dilem leaves are to be considered equivalent to the Singapore patchouli leaves. The Dutch factory reported the oil "ruikt heel goed en komt ons inziens in reuk overeen met goede kwaliteit Penang-olie" — smells very good and corresponds in odour to good-quality Penang oil.
+
+The Handelsmuseum's conclusion was concise: "prima blad, prima olie; op de winning van het goede blad komt het aan! en niet op de nabehandeling te Penang of Singapore" — Prime leaf, prime oil; it is the winning of the good leaf that matters, and not the after-treatment at Penang or Singapore.
+
 ## See Also
 - [[Ir. W. Spoon]]
 - [[Atjeh Patchouli-Olie (1932)]]
@@ -44,3 +68,5 @@ The patchouli-oil industry in Atjeh is the type-case of the post-pacification *v
 
 ## Source
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
+
+*Over patchouly-olie en patchouly-blad van Atjeh (Noord-Sumatra).* Berichten van de Afdeeling Handelsmuseum van de Kon. Vereeniging Koloniaal Instituut, No. 21. Overgedrukt uit *De Indische Mercuur* van 8 en 15 Mei 1925. Amsterdam: Druk De Bussy. OCR-filename: `20260801_233856_DLP-153-Over_patchouly_olie_en_patchouly_blad_van_Atjeh_Noord_Sumatra_Nemotron-OCR-v2_OCR.txt`, pp. 3-21.
