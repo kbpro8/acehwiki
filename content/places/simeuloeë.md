@@ -18,6 +18,14 @@ The appendices comprise the [[Brief van Atjehsche hoofden aan Generaal Swart (26
 - [[H. N. A. Swart]]
 - [[Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Very forested island with many bays, off the [[Westkust]]. Where the Emden (German cruiser) once hid - easily an entire squadron could find [[Ghaib (Acehnese concept)|unseen]] anchorage. Hoofdplaats: [[Sinabang]]. Connected by Gouvernementsstoomer to all coastal places and (every 2 months) to [[Sibolga]] and [[Nias]].[[onderafdeeling|Onderafdeeling]] (islands) off [[Westkust]] of Aceh; coconut estates especially suited; coal seams; large timber ([[Rasakhout|rasakhout]]) production historically; degraded [[karbouw]] breed without [[Tayl|tail]]-tuft; served commercially from [[Sibolga]]/[[Tapanoeli]] rather than [[Koetaradja]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 56, 57.*
+
 ## Source
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), passim.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 56, 57.

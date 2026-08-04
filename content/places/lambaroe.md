@@ -119,6 +119,12 @@ A plate of the terrain at [[Anagaloeng]] showed the plain *van af Indrapoeri tot
 - [[Ketapan-Doea]]
 
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Place 7 km from [[Koeta-Radja|Koeta Radja]]; reached by the [[1885]] extension of the [[Atjeh-tram]]. Extended to [[Seulimeum]] in [[1898]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 291.*
+
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -136,3 +142,5 @@ A plate of the terrain at [[Anagaloeng]] showed the plain *van af Indrapoeri tot
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], pp. 9–12, 17–19.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 291.

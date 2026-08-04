@@ -94,6 +94,7 @@ The [[Aceh War|Aceh War]] was, however, by no means over at the time of his appo
 ## Sources
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter VIII, "Achteruitgang onder de Civiele Gouverneurs Pruijs van der Hoeven en Laging Tobias, van April 1881 tot September 1884"; Inleiding (citing the March 1893 speeches). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 11, 40–43.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 397.
 ## See Also
 
 - [[K. van der Heyden]]
@@ -166,6 +167,12 @@ The [[Aceh War|Aceh War]] was, however, by no means over at the time of his appo
 - [[March 1893]]
 - [[1882]]
 - [[1884]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Appointed [[6 April]] [[1881]]. To be assisted by 3 Assistant-Residents, 10 controleurs and a corps of 225 [[Gewapende Politie|armed police]]. Military command given to Colonel [[J. F. Haus]]. The premature introduction of civil government under him and [[Laging Tobias]] is described as a dark page.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 397.*
 
 ## Source
 

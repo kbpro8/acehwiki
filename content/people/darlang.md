@@ -87,6 +87,12 @@ Colonel [[C. A. Snell|L. A. Snell]] remembered him as "den altoos vroolijken Dar
 - [[Kerkhof Peutjoet]]
 - [[Eeresabel]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Patrol commander in action against [[Teungkoe di Tjot Plieëng]] ([[1903]]). Listed among famous [[Marechaussée|marechaussée]] men.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 372, 413.*
+
 ## Source
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), the chapter on den zieleherder and the chapter *Jagerslatijn*.
@@ -96,3 +102,5 @@ Colonel [[C. A. Snell|L. A. Snell]] remembered him as "den altoos vroolijken Dar
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, pp. 110, 114; Chapter XIV, p. 141 and illustration p. 170.
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 372, 413.

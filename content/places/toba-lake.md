@@ -22,8 +22,16 @@ The journalist [[C. Graadt van Roggen]], noticing the doctor on shipboard, recor
 - [[1933]]
 
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Lake in the [[Bataklanden]] from which the first heathen [[Alas|Alassers]] are said to have originated.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 84.*
+
 ## Source
 
 *Een strijd in Atjeh (Een oogarts op het oorlogspad)*, door Mr. C. Graadt van Roggen, met een voorrede van den heer H. Wanting, redacteur *Nieuwe Rotterdamsche Courant* (Rotterdam: N.V. Drukkerij Korteweg, uitgave van de Vereeniging „SIMAVI”, [[1934]]), pp. 3, 12.
 
 *Acknowledgement of sources.* The material in this article derives from *Een strijd in Atjeh (Een oogarts op het oorlogspad)* by Mr. C. Graadt van Roggen (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 84.

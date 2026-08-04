@@ -43,6 +43,7 @@ In [[1909]] [[H. N. A. Swart]] was authorised to pay 10,000 guilders in compensa
 *De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 22.
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn*.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 68, 70, 295, 357, 402.
 ## Account from Atjeh als land voor handel en bedrijf (1925)
 
 **Peusangan** was river rising from lake [[Laut Tawar]] in [[Gajo-land]] carrying large water wealth to coast, and large landscape >32,000 souls in underafdeeling [[Bireuen]] with hoofdplaats [[Bireuen]].
@@ -97,6 +98,12 @@ See also salt winning, elephants hunting, weaving.
 - [Atjeh-oorlog](/events/atjeh-oorlog)
 - [[Mohamed Djohan Alamsjah]]
 - [[Takengon]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Important [[landschap]] ruled by [[zelfbestuurder]] [[Teukoe Hadji Tjhi' Mohamad Djohan Alamsjah]]. Fertile soil, almost a model-[[landschap]]. River ([[Peusangan (river)|Peusangan-rivier]]) crossed by [[Gajoweg (Gayo Road)|Gajoweg]] at [[Blang Mané]].[[landschap|Landschap]] in [[Groot-Atjeh]] region; salt-coconut [[Copra|copra]] coöperation between zoutzieders and klappertuinbezitters; salt production [[Thomas Best|best]]practice method.[[landschap|Landschap]] whose bevolking built the [[Bireuën]] landing field in [[Heerendienst|heerendienst]]District through which[[Panglima Polém]] was pushed by successive expeditions.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 68, 70, 295, 357, 402.*
 
 ## Source
 

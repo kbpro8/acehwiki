@@ -95,8 +95,16 @@ Tjoet Meutia stands in du Croo's narrative as the embodiment of the judgement of
 - [[Kroeëng Peutòë]]
 - [[H. C. Zentgraaff]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Her presence and the reverence paid to her as mother of the child [[oelèëbalang]] strengthened [[Pang Nanggròë]]'s influence. Travelled with [[Pang Nanggròë]] and the boy; repeatedly escaped with them.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 369, 370.*
+
 ## Source
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, pp. 94–101; Chapter XI, p. 104.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 369, 370.

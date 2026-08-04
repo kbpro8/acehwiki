@@ -513,6 +513,12 @@ Thereafter Teukoe Oemar's presence on the West Coast seriously hampered the inla
 - [[Nisero affair (1883–1885)|Nisero affair (1883-1884)]]
 - [[Radja of Teunom]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Band leader who had harassed the Dutch for about ten years. After his 'submission', the then-Governor of Aceh granted him trust, made him Acehnese general in Dutch service, equipped with Dutch weapons and Dutch money to maintain a small army unit. While apparently serving the Dutch in good faith, he committed treason (verraad) in [[1896]] and rejoined his countrymen openly. This 'sensitive lesson in short-sightedness and misplaced trust' finally pushed the Dutch to adopt [[C. Snouck Hurgronje|Snouck Hurgronje]]Famous Acehnese chief initially supplied with weapons and ammunition by the Dutch to fight the[[Bantah (Acehnese term)|resistance]]. Defected with his fighting force to the [[Bantah (Acehnese term)|resistance]] party in [[April]] [[1896]], deeply shocking Dutch prestige and triggering the realisation that only continuous, forceful action could pacify Atjeh.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 40, 41, 64, 309, 326.*
+
 ## Sources
 
 *The Achehnese*, Vol. I & II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -560,3 +566,5 @@ The companions of the Prophet are not, in [[Acheh|Achehnese]] devotional life, t
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 56–57, 70–74, 76, 80.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 40, 41, 64, 309, 326.

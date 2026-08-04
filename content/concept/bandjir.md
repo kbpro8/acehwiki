@@ -27,6 +27,14 @@ After the close of his field engineer service with the [[Lamara Olejlo fortifica
 - [[1874]]
 - [[1875]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Floods; primitive stuwdammen (dams) not resistant; significant flood danger due to short river courses in Aceh.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 60.*
+
 ## Source
 
 D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), pp. 27–28, 33. Koninklijke Bibliotheek shelfmark 0301 4872.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 60.

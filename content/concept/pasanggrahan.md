@@ -18,6 +18,14 @@ The curiosity among the pasanggrahans of Atjeh was the *„Fransche barak”* (F
 - [[Koeala Simpang]]
 - [[1913]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Government rest house for travelers. Found at [[Tapa Toean]] (next to [[Hendrikus Colijn|Colijn]]'s old house), [[Tangsé]] (simple but good, with view of [[Tangsé|Tangsé valley]]), [[Bireuën]] (once the [[Thomas Best|best]], now a 'doorgangshuis'). Netness and service depend on the local [[Binnenlandsch Bestuur (B.B.)|B.B.]]Government rest house for travelers; found in[[Takengon]], [[Blang Kedjerën]] bivaks, [[Koeta Tjané]], Idi, etc.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 55, 61, 69, 77, 80, 88.*
+
 ## Source
 
 *Reisindrukken van Atjeh*, door W. Moens, oud-luitenant ter zee (Amsterdam: Jacob van Campen, [[1914]]), pp. 11, 31. OCR-filename: `20260716_140310_DLP-99-Reisindrukken_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 55, 61, 69, 77, 80, 88.

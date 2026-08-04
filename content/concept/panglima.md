@@ -136,6 +136,12 @@ In the [[1873]]–[[1874]] campaign account of [[Jan van Swieten]], *panglima* r
 - [[Teukoe Oemar]]
 - [[Sagi]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Title for a military commander. [[Teungkoe Sjech Saman di Tiri|Tjhèh Saman]]'s son Ma'Anim was 'much more [[Panglima|panglima]] than scholar'; [[Teungkoe di Tjot Tjitjém]] was a [[Panglima|panglima]] with ~400 drilled men; the [[teungkoe|Teungkoe]] di [[Mata Ië]]'s brother-in-law was 'tevens [[Panglima|panglima]]'.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 371, 373.*
+
 ## Sources
 
 *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter XI ("Atjehsche ambassade. Inlandsche feesten. Maagden als losprijs"), pp. 39–43 of the numbered-letter sequence.
@@ -149,3 +155,5 @@ In the [[1873]]–[[1874]] campaign account of [[Jan van Swieten]], *panglima* r
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 1–465.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 371, 373.

@@ -45,6 +45,14 @@ The N.K.P.M. is significant for the encyclopedia of [[Acheh]] history because it
 - [[1940]]
 - [[1941]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Has terrains at [[Pasè I]], 25 km from [[Lho'Seumawé]]. Took over the former Hotel [[Firma Nass|Nass]] as its logeergebouw.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 85.*
+
 ## Source
 
 *The Geology of Indonesia*, by R. W. van Bemmelen, Vol. II: *Economic Geology* (The Hague: Government Printing Office; Martinus Nijhoff, [[1949]]), p. 7 (N.K.P.M. founding), p. 9 (Table 4: Oil production in 1940 and 1941).
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 85.

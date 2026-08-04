@@ -21,6 +21,14 @@ Road through *bakoe-bakoe* is whole area messy plant growth in marsh maintained 
 - [[Idi]]
 - [[Belawan]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Harbor town of [[Langsar|Langsa]], only reachable by [[A.S.S.]] (9 km). Has large harbor emplacement and steiger where large [[Koninklijke Paketvaart Maatschappij (K.P.M.)|K.P.M.]] ships can lie.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 90.*
+
 ## Source
 
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 14-16.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 90.

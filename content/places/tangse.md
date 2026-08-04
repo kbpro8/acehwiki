@@ -95,9 +95,17 @@ In June [[1915]] the *onderluitenant* [[Müssig]] was murdered at Tangsé in a p
 - [[Kroeëng Beuniët]]
 - [[Van Heutsz's Pidië campaign (1898)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Miniature town on the transversaal road, at 435 m elevation. Temperature like a radiant Dutch spring day. Consists of a small [[pasar]], the [[Bivak|bivak]] with lieutenant's dwelling (within barbed wire), and the [[Pasanggrahan|pasanggrahan]]. Ideal week-end retreat from [[Sigli]]. Military swimming pool available. Cable bridge over the confluence of [[kroečng|Kroečng]] [[Tangsé]] and [[kroečng|Kroečng]] [[Geumpang]] (completed [[1931]]) is an important link to [[Bivak|bivak]] [[Geumpang]]Place between which and[[Geumpang]] [[Transport-olifanten (Aceh)|elephant transport]]Place of multiple Dutch tochten (expeditions); the colonne[[Van der Maaten]] at [[Tangsé]] overran [[Panglima Polém]]'s mother and other family, leading to his surrender.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 61, 62, 289, 401, 404.*
+
 ## Source
 
 - *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
 - *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Atjeh's Transport-Olifanten* and the chapter on den zieleherder.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter III, p. 19; Chapter XI, pp. 106–107; Chapter XII, pp. 117–118; Chapter XIV, p. 140; Chapter XV, pp. 143–144.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 61, 62, 289, 401, 404.

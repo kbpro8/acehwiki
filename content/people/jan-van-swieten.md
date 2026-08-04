@@ -269,6 +269,12 @@ The treaty worked, Langhout writes, "until [[1858]]", when the Dutch [[Siak trac
 - [[Acheh War]]
 - [[Nieuwenhuizen's mission to Atjeh and the declaration of war (March 1873)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Led the [[Second Dutch Expedition to Aceh|second Dutch expedition to Aceh]], landing on the beach at [[Oelèë Lheuë]] on [[9 December]] [[1873]]. Issued the proclamation of [[31 January]] [[1874]] annexing Atjeh and [[Onderhoorigheden]] to the Dutch colonial possessions. Also drafted the model 6-article agreement ([[souvereiniteitsverklaring]]) used with the oelèëbalangs.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 320, 321, 322, 336.*
+
 ## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 19–37.
@@ -299,3 +305,5 @@ The treaty worked, Langhout writes, "until [[1858]]", when the Dutch [[Siak trac
 *Open brief aan den Generaal Knoop over de Atjeh-kwestie (naar aanleiding van den brief van Generaal Van Swieten in Het Vaderland)*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 1–33.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 16–17.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 320, 321, 322, 336.

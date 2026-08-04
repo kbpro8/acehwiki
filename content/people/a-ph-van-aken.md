@@ -65,6 +65,12 @@ The resulting tour is described at [[Tijssen's journey to the West Coast of Atje
 - [[Marga]]
 - [[Adat]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Book is dedicated to his memory ('AAN DE NAGEDACHTENIS VAN MIJN VRIEND EN VOORGANGER [[A. Ph. van Aken|WIJLEN GOUVERNEUR A. PH. VAN AKEN]]'). Mentioned as flying from Idi via [[Bireuën]] to [[Sabang]] on [[6 October]] [[1934]] - the only aircraft to land at [[Sabang]]'s then-unused airfield.[[1932]] to [[1936]]. Photographed in the book.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 6, 25, 309.*
+
 ## Sources
 
 *Notulen der Bestuursvergaderingen ter Bespreking van de Verdere Voorbereiding eener Hervorming van het Bestuurswezen in Nederlandsch-Indië* (Batavia: Landsdrukkerij, 1914), Medan session ([[13 January]]–[[15 January]] [[1914]]), pp. 11–15.
@@ -72,3 +78,5 @@ The resulting tour is described at [[Tijssen's journey to the West Coast of Atje
 *Een strijd in Atjeh (Een oogarts op het oorlogspad)*, door Mr. C. Graadt van Roggen, met een voorrede van den heer H. Wanting, redacteur *Nieuwe Rotterdamsche Courant* (Rotterdam: N.V. Drukkerij Korteweg, uitgave van de Vereeniging „SIMAVI”, [[1934]]), pp. 10–11.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 6, 25, 309.

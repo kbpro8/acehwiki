@@ -408,6 +408,12 @@ Speaking as old Governor of [[Acheh|Atjeh]] and old Vice-President of the [[Coun
 - [[Pacification of Atjeh]]
 - [[Acheh War]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Famous Acehnese military [[Bantah (Acehnese term)|resistance]] leader who surrendered to [[Dr. H. Colijn|Kapitein Colijn]] at [[Lho' Seumawe|Lho Seumawe]]. Photographed at the surrender ceremony.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 325.*
+
 ## Sources
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
@@ -451,6 +457,7 @@ Speaking as old Governor of [[Acheh|Atjeh]] and old Vice-President of the [[Coun
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 325.
 ## Account from Van Swieten (1879)
 
 [[Jan van Swieten|Lieutenant-General Van Swieten]], in *De waarheid over onze vestiging in Atjeh* ([[1879]]), identified Panglima Polim as the most formidable military leader of the Acehnese resistance and the principal opponent of any accommodation with the Dutch. According to the testimony of [[Toengkoe Kadli Malikoel Adil|Toengkoe Kali]], given in [[Batavia]] after his submission, the Sultan's willingness to accept a treaty with the Dutch was defeated by the opposition of the *sagie* chiefs, "and among these the most vehement was Panglima Polim."

@@ -120,6 +120,12 @@ In *Atjeh gedurende de tweede expeditie en later* ([[1876]]), the author noted t
 - [[Westkust van Sumatra]]
 - [[panglima-radja]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Neighboring [[gewest]]; market for Aceh [[Kapok Fiber|kapok]]; source of Malay colonists in [[Tapa'Toean]]; [[Singkel]]/[[Simeuloeë]] partly oriented here ([[Padang]]).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.*
+
 ## Source
 
 *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 109‑110.
@@ -133,3 +139,5 @@ In *Atjeh gedurende de tweede expeditie en later* ([[1876]]), the author noted t
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A. W. S. O'Sullivan, indexed by R. J. Wilkinson. Leyden: E. J. Brill, 1906.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.

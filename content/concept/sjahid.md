@@ -74,6 +74,12 @@ The gloss he supplied — "getuigen en martelaren," witnesses and martyrs — is
 - [[Atjeh debate in the Tweede Kamer (16-17 November 1897)]]
 - [[1897]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Acehnese aspiration to die as a martyr in the [[Heilige Oorlog|holy war]]; oelamas preached the glories of dying as a [[Sjahid|sjahid]]. The last young [[teungkoe|Teungkoe]] Tirò died as a [[Sjahid|sjahid]] on [[9 December]] [[1911]] - he 'wanted to die as a [[Sjahid|sjahid]]'.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 371, 374.*
+
 ## Sources
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
@@ -81,3 +87,5 @@ The gloss he supplied — "getuigen en martelaren," witnesses and martyrs — is
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 11–12.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 371, 374.

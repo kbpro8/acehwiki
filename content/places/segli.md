@@ -102,6 +102,12 @@ Answering the charge of cruelty, Cremer described the departure of the expeditio
 - [[1893]]
 - [[1898]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Town on [[Noordkust]] at [[K.M.]] 71 ([[Saré]] pass at 475 m is highest point before descent). With [[Lho'Seumawe]] shares the doubtful honour of being 'the eel of Atjeh'. Big [[Pinangnut (Betel Nut)|pinang]], [[Copra|copra]], and pepper export, suffered from [[Malaise|malaise]]. [[Atjeh-tram]] workshop with ~200 [[Coolies|coolies]] (since [[1935]] also [[Ambachtsleergang|ambachtsleergang]] with metaalbewerking; houtbewerking added [[1937]]-[[1938]]). Artesian well water brackish; waterleiding since [[December]] [[1932]] fed by [[Wadoek|wadoek]] of 245,000 m³. Europeesche lagere school, electric light, sea bath [[Pasir Rawa]]Hot messy town comparable to[[Lho'Seumawé]]; grew randomly around an old [[Benting|benteng]] (fort) as core. Has NIGM central. The author was stationed at [[Sigli]] and rushed from there to [[Lho'Soekon]]on news of Schmid's murder.[[onderafdeeling|Onderafdeeling]] on the [[North Coast|north coast]] of Aceh, capital of the [[Pidië]]region; diluvial heuvelland is entirely absent here.[[Noordkust]]; central workshop of Atjeh Staatsspoor; KPM connection; bijkantoor [[Atjeh (Aceh)|Atjehsche]] Handel Mij; [[N.I. Gasmaatschappij]]Onderafdeelingshoofdplaats and standplaats of the[[Assistent-Resident]] of the [[afdeeling]] [[Noordkust van Atjeh]]. One of the starting points of the [[transversaalweg]] (transverse road) toward [[Malaboeh|Meulaboh]]. Site of the openbare [[Ambachtsleergang|ambachtsleergang]] (vocational school) at the Atjeh-[[Bekas|spoor]] workshops. Has [[Mukim|mukim]]-style divisions like [[Groot-Atjeh]]Town on the Northkust; one of the two places (with Lho-Soekon) where most[[Atjeh-moorden|atjeh-moorden]] occur. Site of [[1925]] [[Van der Sluys Veer]] and [[1935]] Birkenfeld murders. [[Pretendent-sultan|Pretendent-Sultan]] was escorted here by chiefs of [[Groot-Atjeh]] on his way to submit at [[Koetaradja]]. Author tells story of a leprous complainant visit at his [[Sigli]] house.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 57, 58, 59, 60, 85, 86, 87, 89, 102, 190, 287, 291, 312, 323, 329, 341, 360, 362, 367, 383, 386.*
+
 ## Sources
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 80, 84, 96, 114.
@@ -111,3 +117,5 @@ Answering the charge of cruelty, Cremer described the departure of the expeditio
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 33, 55, 59.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 57, 58, 59, 60, 85, 86, 87, 89, 102, 190, 287, 291, 312, 323, 329, 341, 360, 362, 367, 383, 386.

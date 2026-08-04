@@ -17,6 +17,14 @@ The register lists him under [[1927]] as *1ste Luit. Mar. W. A. Molenaar*, with 
 - [[Militaire Willemsorde]]
 - [[Het Korps Maréchaussée in Atjeh (Jubileum-nummer 1930)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+First Lieutenant killed during the [[Bakongan-actie]] of [[1925]]-[[1927]] along with [[Kapitein Paris]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 285.*
+
 ## Source
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]*, Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 285.

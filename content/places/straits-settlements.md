@@ -34,6 +34,14 @@ The English Government in [[Penang|Penang]] and Province Wellesley has adopted t
 - [[T. J. Newbold]]
 - [[British India]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+British colonies (incl. [[Penang]], [[Singapore]]British colony; its Governor repeatedly warned of the danger to persons and goods in Acehnese waters.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 393.*
+
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 393.

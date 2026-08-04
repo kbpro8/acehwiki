@@ -69,6 +69,7 @@ Kruisheer's *ATJEH '96* adds a further dimension to Graafland's significance: he
 
 **Gilles Graafland** was a Marechaussee commander of the [[Korps Marechaussee van Atjeh en Onderhorigen]] in [[Atjeh|Aceh]], the figure whose name — in *[[Oost-Indisch Journael]]* by Merac ([[1947]]) — gives the Graafland era its name: the era that began when the unsound system of the concentrated line was abandoned, and that was the "period of the offensive to the utmost, in which the Marechaussee covered itself with glory."
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 413.
 ## Account from the Maréchaussée Jubileum-nummer ([[1930]])
 
 In the [[1930]] jubilee number of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* Graafland appears as the officer who took the initiative for the decisive change in the role of the *[[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden|Korps Maréchaussée]]*, and as the man remembered in the corps as ***de vader der Maréchaussées*** — the father of the Maréchaussées.
@@ -133,6 +134,12 @@ The jubilee number refers to him in his later rank as *overste* (lieutenant-colo
 - [[Overzicht van Onderscheidingen toegekend aan het Korps Maréchaussée in Atjeh en Onderhoorigheden (1890-1930)]]
 - [[C. A. Snell]]
 - [[Korps Maréchaussée te voet in Atjeh en Onderhoorigheden]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Great merit was his: from [[1896]] the [[Marechaussée|marechaussée]] would also enter the purely military terrain and [[Bekas|track]] the enemy in his hiding places.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 413.*
 
 ## Source
 

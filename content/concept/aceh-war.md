@@ -46,6 +46,14 @@ The Aceh War established patterns of colonial governance that would persist thro
 - [[Oorlogspartij]]
 - [[Heilige Oorlog]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+The ~40-year war between [[Netherlands|the Netherlands]] and the [[sultanate|Sultanate]] of Atjeh, beginning [[26 March]] [[1873]] with the Dutch declaration of war and ending with [[Sultan of Aceh|the sultan]]'s submission in [[January]] [[1903]](with continued mopping-up operations afterwards).[[1873]], pacification ~[[1904]]); disrupted cattle stocks, weaving industry, gold/silver smithing; caused formation of wild karbouwen herds and [[Penang]]-based Acehnese diaspora financing war.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 17, 38.*
+
 ## Source
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, throughout.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 17, 38.

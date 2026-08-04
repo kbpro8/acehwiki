@@ -86,6 +86,12 @@ Under Governor [[Joannes Benedictus van Heutsz|Van Heutsz]] the government again
 - [[Tapa Toean]]
 - [[Bataafsche Petroleum Maatschappij|Petroleum industry in Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+River/place in [[Malaboeh|Meulaboh]] [[onderafdeeling]]; bounds [[1901]] coal investigation area.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 51.*
+
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -95,3 +101,5 @@ Under Governor [[Joannes Benedictus van Heutsz|Van Heutsz]] the government again
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XII.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 49–50, 85.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 51.

@@ -45,6 +45,14 @@ The *bivak* is significant in *[[Oom Ambon van het K.N.I.L.]]* as the daily act 
 - [[Modelketketels (model-etabletels) van het K.N.I.L.]]
 - [Atjeh-oorlog](/events/atjeh-oorlog)
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Military post. Examples: [[Geunteuët]] ([[marschbivak]]), [[Geumpang]] ([[Bivak|bivak]]), [[Bakongan]] ([[Bivak|bivak]] established [[1926]]), [[Tangsé]] ([[Bivak|bivak]]with lieutenant's dwelling within barbed wire).[[Meloewak]] and [[Koengké]] on the route from [[Koeta Tjané]] to [[Blang Kedjerën]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 49, 55, 61, 80.*
+
 ## Source
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De patrouille."
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 49, 55, 61, 80.

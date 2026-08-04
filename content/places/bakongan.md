@@ -84,6 +84,12 @@ The corps had been reduced in [[1925]] to 18 officers and 1,072 men, a reduction
 - [[Divisie (Maréchaussée)]]
 - [[1927]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+[[Bivak]] established after the [[Overval|overval]] (attack) of [[1926]]. 60 km south of [[Tapa Toean]]. Will not be lifted for the time being. Surroundings are unfriendly; severe malaria infection in the whole region. Life on such a post requires maximum perseverance.[[1925]]-[[1927]] military action ([[Bakongan-actie]]). Goods and casualties were transported by [[Gouvernements Marine]] vessels between [[Oelèë Lheuë]]and the action area.[[Westkust]] place of an uprising in [[1926]] used by some as proof that [[Binnenlandsch Bestuur (B.B.)|civil administration]] was introduced too early; author disputes this.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 55, 285, 407.*
+
 ## Sources
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapters "Dominee Thenu" and "Thijs."
@@ -93,3 +99,5 @@ The corps had been reduced in [[1925]] to 18 officers and 1,072 men, a reduction
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 55, 285, 407.

@@ -108,9 +108,17 @@ Troemon's position at the southern and western end of the Atjehnese coast placed
 - [[Kuta Raja]]
 - [[British India]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+[[landschap|Landschap]] formerly ressorterend under [[Singkel]]; combined with the southern part of [[Tapa'Toean]] to form the new [[onderafdeeling]] [[Zuidelijke Atjehsche Landschappen|Zuidelijke Atjehsche landschappen]] during the [[1925]]-[[1927]] troubles.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 327.*
+
 ## Sources
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Thijs" and chapter "Ooms leger."
 
 *De onderwerping van Atjeh*, door J. B. van Heutsz, Majoor der Infanterie, gewezen Chef van den Staf in Atjeh en Onderhoorigheden. 's-Gravenhage: De Gebroeders van Cleef; Batavia: G. Kolff en Co., 1893, esp. pp. 30, 32, 36, 50, 72, 77, 86. OCR-filename: `20260718_105749_DLP-107-De_onderwerping_van_Atjeh_Nemotron-OCR-v2_OCR.txt`.
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 327.

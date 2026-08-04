@@ -53,8 +53,16 @@ The *pagar* of the general vocabulary is the Atjehnese *[[Pageue|pageue]]*, whic
 - [[Toenong]]
 - [[Het recht op den grond in Atjeh (De Boer)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Market. [[Sigli]]'s [[pasar]] is one of the busiest in the [[gewest]]. [[Beureunoen]] has a Saturday vee-[[pasar]] (cattle market). [[Bireuën]] also has Saturday [[pasar]] with vee-[[pasar]]Market in towns like[[Takengon]], Idi, [[Lho'Seumawé]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 43, 58, 64, 69, 78, 88.*
+
 ## Source
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 21, 27, 40–41, 51, 56, 71, 74, 81, 87, 89, 103, 105–106, 110–111, 144, 220, 230–231, 241, 244, 316, 322.
 
 *Het recht op den grond in Atjeh* ("The Right to the Soil in Atjeh"), by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 43, 58, 64, 69, 78, 88.

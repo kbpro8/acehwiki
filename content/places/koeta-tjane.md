@@ -59,6 +59,12 @@ Both were laid low. The investigation pointed towards the acting *[[Kedjoerön]]
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Hot town in the [[De Alaslanden|Alaslanden]]; the [[Pasanggrahan|pasanggrahan]] is the hottest. From here auto-road goes another 36 km toward [[Blang Kedjerèn]]. From [[Lawé Oenan]] cars take traveler to [[Koeta Tjané]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 80, 84.*
+
 ## Source
 
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 1, Chapter II, Chapter IV, Chapter V § 3.
@@ -68,3 +74,5 @@ Both were laid low. The investigation pointed towards the acting *[[Kedjoerön]]
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XII.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 80, 84.

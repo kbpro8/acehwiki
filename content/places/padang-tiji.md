@@ -75,6 +75,12 @@ Schmidt "had little liking for that pacified life," went to [[Koeta Radja]] and 
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+[[onderafdeeling|Onderafdeeling]] in [[Groot-Atjeh]]. Last [[onderafdeeling]] in [[Groot-Atjeh]] to receive civiel bestuur, in [[1910]], completing the civiel bestuur of [[Groot-Atjeh]]. Watershed between [[Seulimeum]] and [[Padang]]-Tidji required a [[bergspoorweg]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 127, 291, 327.*
+
 ## Source
 
 H. T. Damsté, "Drie Atjeh-Mannen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), p. 364.
@@ -90,3 +96,5 @@ H. T. Damsté, "Drie Atjeh-Mannen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IV, XV.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 127, 291, 327.

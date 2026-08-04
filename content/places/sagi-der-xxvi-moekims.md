@@ -165,6 +165,12 @@ Key locations in the XXVI Moekims in this period included:
 
 The evacuation of Toengkoeb on [[21 February]] [[1885]] marked the eastern limit of the consolidated Dutch position. Following the concentration, the XXVI Moekims remained outside the geconcentreerde stelling, and the eastern approaches were no longer directly observed.
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Confederation of mukims whose oelèëbalangs received the [[August]] [[1896]] Dutch ultimatum with [[Panglima Polém]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 357.*
+
 ## Sources
 
 *ATJEH '96*, door A. Kruisheer, Kapitein der Infanterie O.I.L., met 2 kaarten en 4 portretten (Weltevreden: N.V. Boekhandel Visser & Co, 1913). Instituut Kern, Leiden. OCR-filename: `20260715_163243_DLP-89-Atjeh_96_Met_2_kaarten_en4_DOORA_KRUISHEER_Kapiteinder_Infanterie_nemoretriever-ocr-v1_OCR.txt`, pp. 22–23, 122, 123, 143, 144, 146, 158, 164, 217, 325, 339, 344.
@@ -181,3 +187,5 @@ The evacuation of Toengkoeb on [[21 February]] [[1885]] marked the eastern limit
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885, pp. 9, 11, 17–18, 28.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 357.

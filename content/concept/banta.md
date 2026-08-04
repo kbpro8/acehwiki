@@ -29,9 +29,17 @@ In [[Peureula]] 1910 administration observed by *banta* while [[Teukoe Tjhi Moed
 - [[Peureula]]
 - [[Snouck Hurgronje]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Assistant to the [[zelfbestuurder|Zelfbestuurder]] of a larger [[landschap]], usually a close family member.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 341.*
+
 ## Source
 
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter VI, *'Oeléebalang's volkshoofden'*, p. 41, note 1. Also *Het Achehnese*, by Dr. C. Snouck Hurgronje, Vol. I (Leyden 1906), p. 96.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 341.
 ## Source
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923); *Atjeh Patchouli-Olie*, by Ir. W. Spoon (1932), where applicable.
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, p. 37.

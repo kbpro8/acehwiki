@@ -52,11 +52,19 @@ According to [[Dr. R. Broersma]]'s rendering, Polo called it Ferlac, told Mohamm
 - [[Perlak]]
 - [[Samoedra]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Great world traveler who around [[1290]] mentioned six 'koninkrijken' (kingdoms) in the Aceh region - evidence of multiple polities/vested settlements under various princes in the area.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 25.*
+
 ## Source
 
 *Historische Curiositeiten uit Malajoe en Java*, by P. de Roo de la Faille (Den Haag: Maart 1954), chapter "Gamispola", pp. 22-23.
 ---
 **Marco Polo** (Venice, c. [[1254]]–[[1324]]) was the Venetian traveller whose *Travels* (Il Milione) records, in connection with his crossing from [[Java minor|Java minor]] to [[Kulam|Kalï-patnam]] in [[Tinnevelly|Tinnevelly]], a "very small island that is called **Gauenispola**" — which [[G. P. Rouffaer|Rouffaer]] identified with the [[Pulo Bras|Pulo Xuta / Poelo Bras]] of the *Eerste Schipvaart*, and which [[P. de Roo de la Faille|De Roo de la Faille]] decodes as a *bedekte taal* form for the ancestral land of [[Taroema]]. Polo also records the "peculiar language" of the island — the ***bahasa kapoer*** of [[Malajoe|Malajoe]] — which is the principal *bedekte taal* register of Malay-Javanese historical geography.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 25.
 ## The Gauenispola passage
 After his description of [[Java minor|Java minor]], Marco Polo crossed to [[Kulam|Kalï-patnam]] in [[Tinnevelly|Tinnevelly]] and "incidentally mentioned a very small island that is called **Gauenispola**". He did not say what he had to tell of it. That, [[P. de Roo de la Faille|De Roo de la Faille]] notes, would have left us indifferent, were it not that [[G. P. Rouffaer|Rouffaer]] had identified the place with the *Pulo Xuta* of the *Eerste Schipvaart* (vol. II, pp. 212-213): "a high island on which stands a watch-tower or *Farol* that warns the inhabitants and is lit at night when there are ships on the coast". A fire-beacon in the manner of the [[Coromandel Coast|Voor-Indische]] primitive light-towers, such as [[Haafner|Haafner]] had described at [[Bimilipatnam|Bimilipatam]]; the Malay name is ***roemban***. Since [[1875]] the [[Willemstoren|Willemstoren]] has stood on [[Pulo Bras|Poelo Bras]].
 ## Decoding: *Gawé-nis* and the vanished Kapoelaga

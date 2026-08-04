@@ -39,6 +39,14 @@ The *koepiah der Atjehers* is, in Wagner's account, the principal example of Atj
 - [[Acheh]]
 - [[1949]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Velvet kalotjes (small caps) replacing the traditional hoofddoek, made and sold everywhere by Malay traders. The genuine Acehnese [[Koepiah der Atjehers|koepiah]] is multicolored, truncated cone-shaped; still worn by older heads and wealthy. Manufactured only in [[Groot-Atjeh]] near [[Koetaradja]] and in the [[Pidië|Pidiësche]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 156.*
+
 ## Source
 
 *Sierkunst in Indonesië*, by F. A. Wagner, Insulinde — Serie Handleidingen voor de Kennis van Indonesië, Vol. VI (Groningen, Batavia: J. B. Wolters' Uitgevers-Maatschappij N.V., 1949), p. 36.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 156.

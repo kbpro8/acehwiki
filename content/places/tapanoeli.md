@@ -30,6 +30,14 @@ Van der Kemp prints the article and the critique side by side as part of his ind
 - [[Hindostan]]
 - [[Netherlands India]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Neighboring residency south of Aceh, reachable via [[Sidikalang]] (connection 'under consideration'). Connected by Gouvernementsstoomer to [[Singkel]] every 2 months with [[Sibolga]] and [[Nias]]Neighboring residency on the[[Seunagan|west coast]] of Sumatra; the tertiair heuvelland strip extends along the coast from [[Sumatra's East Coast|Sumatra's Oostkust]] through Aceh to [[Tapanoeli]]Neighboring[[gewest]]; with [[Sibolga]] and [[Baroes]] serves [[Singkel]]/[[Simeuloeë]] commercially; part of [[Noord-Sumatra]]Neighboring residency to the south of Atjeh;[[Singkel]] was originally part of [[Tapanoeli]]; the Westkustweg will eventually connect to it.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 55, 56, 188, 287, 327.*
+
 ## Source
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159-239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 55, 56, 188, 287, 327.

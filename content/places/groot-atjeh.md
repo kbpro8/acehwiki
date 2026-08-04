@@ -49,7 +49,15 @@ Great importance Atjehsch internaat [[1922]] etc. Separation sufferers island [[
 - [[Seulawaih Agam]]
 - [[Atjeh Tram]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Region around [[Koetaradja]]; one of the first areas where Dutch authority was established and where early erfpachtperceelen (leaseholds) for coconut cultivation were issued to Europeans and Chinese at the beginning of the 20th century.[[afdeeling|Afdeeling]] (administrative division) of [[Groot-Atjeh|Greater Aceh]] around [[Koeta-Radja|Koeta Radja]]. First site of European coconut estates and earliest oil interests; forests already heavily depleted; [[Alang|alang]] grass plains where forest should stand.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 26, 38, 39, 41, 156, 188, 190, 194.*
+
 ## Source
 
 *Het einde van den Atjeh Oorlog* (Overprintken uit de *Evening Post* van 25, 26 en 27 Augustus 1903, pp. 3-6, 10-16); Somer, Dr. J. M. *Het Atjeh-probleem van 1890-1900* (Overprint uit *Journal / Organ van de Netherlands-Indies Officers Association*, [1935], pp. 4-7); Damste, H. T. "Atjeh-historie," *Koloniaal Tijdschrift* 1916.
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 85-101.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 26, 38, 39, 41, 156, 188, 190, 194.

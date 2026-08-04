@@ -152,6 +152,12 @@ Toeankoe Hasjim's significance in the Aceh Wiki History record rests on three th
 - [[Selimoen Expedition (August 1879)]]
 - [[Acheh Succession Dispute]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Became the [[Pretendent-sultan|Pretendent-Sultan]]'s guardian after the fall of the [[Dalem]]; one of the most hostile of the royal family. Later fell out with his former ward.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 359, 360.*
+
 ## Sources
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Eerste Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1922]]. Hoofdstuk I, C ("Atjèh-oorlog (1873—1910)"), Tweede tijdvak, blz. 16, n. 2.
@@ -163,3 +169,5 @@ Toeankoe Hasjim's significance in the Aceh Wiki History record rests on three th
 *De Atjeh-Oorlog: Kort Overzicht van Oorsprong, Verloop en Gevolg*, door J. A. Kruijt. 's-Gravenhage: Loman & Funke, 1896. Chapter IX (the restoration of the Sultanate and the holy war letters), Chapter X (the Van Teijn negotiations), Chapter XI (Toeankoe Ibrahim's journey). OCR-filename: `20260716_140310_DLP-101-De_Atjeh_oorlog_Nemotron-OCR-v2_OCR.txt`, pp. 49–50, 56, 61.
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne, Directeur der Hoogere Burgerschool te Zierikzee. Deel IV. 1872-1883. Nieuwe uitgave. Schiedam: J. F. Dupont, 1912, Hoofdstuk I, pp. 71, 108.
 **Toewankoe Haschim** (also written Tuanku Hasyim) was one of the family members of the former sultans of [[Acheh|Atjeh]] who, together with [[Toewankoe Hoesin|Toewankoe's Hoesin]] and [[Toewankoe Abdoel Madjid|Abdoel Madjid]], attached himself to the war-party against the Dutch, and who was named by [[J. L. J. H. Pel|General Pel]] in [[1875]] as one of the influential leaders of the resistance. He was the keeper of the young pretender [[Toewankoe Daoed|Toewankoe Daoed]], destined for the sultan's rank in [[1874]], and after the [[Selimoen Expedition (August 1879)|Selimoen expedition]] of August [[1879]] fled with him and the other irreducible hostile chiefs to [[Kemala|Kemala]] in the interior south of [[Pedir|Pedir]].
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 359, 360.

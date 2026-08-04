@@ -10,5 +10,13 @@ tags: ["place", "legendary-land"]
 - [[Acheh]]
 - [[Java]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Source of contract laborers and colonists brought to Atjeh under colonization schemes starting in [[1930]]. Also the overpopulated island whose surplus population the Government planned to transfer to colonization terrenen in the [[Buitenbezittingen|buitenbezittingen]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 35, 179, 210, 296, 297, 298, 299, 300.*
+
 ## Source
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 35, 179, 210, 296, 297, 298, 299, 300.

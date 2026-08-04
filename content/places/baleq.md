@@ -63,6 +63,14 @@ Baleq's significance in the historiography of colonial Aceh is as the site of th
 - [[1928]]
 - [[1930]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Site of the original overoude (very old) boschcomplexen initially used by [['s Lands Caoutchoucbedrijf]] for pine [[Resin (Aceh)|resin]] exploitation.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.*
+
 ## Source
 
 *Atjeh-terpentijn: tegenwoordige kwaliteit en nieuwe beoordeelingen*, by Ir. W. Spoon, *Berichten van de Afdeeling Handelsmuseum van de Koninklijke Vereeniging Koloniaal Instituut* No. 57, Amsterdam: J. H. de Bussy, [[1930]], pp. 5–9 (Winning van de terpentijn).
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.

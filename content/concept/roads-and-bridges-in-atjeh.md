@@ -31,6 +31,14 @@ Early in [[1919]] the construction and maintenance of works of art in the main r
 - [[Van Sluys|A. G. H. van Sluys]]
 - [[Pacification of Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+103 km road from [[Bireuën]] to [[Takengon]] ([[Gajo-land (Gayo Land)|Gajo]]-land), completed [[1913]]. Cost ~f 20,000/km, total ~2 million guilders. Crosses the [[Peusangan (river)|Peusangan-rivier]] at [[Blang Mané]], reaches [[Kroečng Seumpo (river)|Kroečng Seumpo]] at [[K.M.]] 18. Cut through very accident-prone terrain and heavy freight traffic. Replaced the old '[[vrouwenwegen]]' (women's paths). Conditio sine qua non for coffee, tea, [[Resin (Aceh)|resin]]/turpentine enterprises. Critic [[Van Kol]] called 2/10 wasted; [[Resident Jongejans|Jongejans]]Road completed in[[1914]] that opened the [[Gajo-landen]] to cultivation; brought attention to mountain cultures (tea, coffee) along the road to [[Takengon]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 47, 70, 195, 204.*
+
 ## Source
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 47, 50, 75, 89–90, 107–108, 112, 121, 124–125.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 73, 74, 75, 76, 78, 379.

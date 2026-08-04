@@ -80,8 +80,16 @@ Governor Westenenk of East Sumatra had recently ([[1922]]–[[1923]]), in a conf
 - [[Foreign capital in Atjeh]]
 - [[Tamiang]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+System of [[Poenale Sanctie|penal sanctions]] against contract laborers; its abolition was anticipated, motivating preparations to secure trained labor via [[arbeiders-kolonisatie]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 298.*
+
 ## Source
 
 *J.W. van Lansberge en de praktijk van art. 4 van de Geheime Instructie van 5 Juni [[1855]]*, by M. Boon, Academisch Proefschrift ter verkrijging van den graad van doctor in de letteren en wijsbegeerte aan de Rijksuniversiteit te Utrecht, [[1943]], Utrecht: N.V. A. Oosthoek's Uitgevers-Maatschappij, Chapter VI, pp. 118-133.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 173–175.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 298.

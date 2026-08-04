@@ -310,6 +310,12 @@ His name recurs in the account of the [[Samalanga expedition|excursion into the 
 - [[Samalanga expedition]]
 - [[Batee Ilie]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Given both civil and military authority in the conquered area in [[1874]]. In slightly more than 1.5 years this strong leader effectively subdued [[Groot-Atjeh]], banished unrest, and gave the population confidence. His wiser policy was not continued by the government in [[Netherlands|the Netherlands]], which adopted a defensive posture.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 39.*
+
 ## Sources
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -341,3 +347,5 @@ F. W. Stapel, *Geschiedenis van Nederlandsch-Indië*, p. 309 (cited in the same 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 38–43, 47, illustration caption p. 10 ("Meuseugit te Koeta-Radja, gebouwd op initiatief van Gouverneur Karel van der Heyden").
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 39.

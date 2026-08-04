@@ -50,8 +50,16 @@ The King's authorisation, drafted by Reinhold and signed by the sovereign on [[1
 - [[King's Authorization of 13 February 1824]]
 - [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London 1824]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Seat of the Dutch government; with [[Buitenzorg]], confirmed that Aceh was ready for [[Binnenlandsch Bestuur (B.B.)|civil administration]] in [[1918]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 406.*
+
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 406.

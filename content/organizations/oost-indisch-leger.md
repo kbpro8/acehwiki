@@ -31,6 +31,14 @@ He concluded that these were the men who upheld the Dutch flag in [[Atjeh]] as i
 - [[Queen Wilhelmina]]
 - [[G. B. Hooijer]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+[[Dutch East Indies Army]]. Built both the [[Gajoweg (Gayo Road)|Gajoweg]] and the [[Atjeh-tram]] under the most difficult conceivable conditions during the Aceh campaign.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 75.*
+
 ## Source
 
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, title page, pp. 10, 18, 22, 26, 34, 46, 50, 54.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 75.

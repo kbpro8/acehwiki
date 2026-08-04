@@ -274,6 +274,12 @@ The older geography of the region surfaces in the history of the Treaty with the
 - [[Atjeh Tram]]
 - [[Siak tractate of 1 February 1858|Dutch treaty with the Sultan of Siak (1858)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Most easterly [[onderafdeeling]] of Aceh; opened for landbouw-concessies. Tertiair gronden enabled an important rubber and [[Palm Oil (Aceh)|palm oil]] culture center. Malay or mixed Acehnese-Malay population; less [[Bantah (Acehnese term)|resistance]]to Dutch rule than pure Acehnese areas. Financieel bloei of its onderafdelingskas from rubber cultivation.[[onderafdeeling|Onderafdeeling]] on [[Atjeh's Oostkust (East Coast of Aceh)|Oostkust]]; rubber cultivation; BPM 5A contract block containing [[Rantau]]oil field (one of most productive in N.I.).[[onderafdeeling|Onderafdeeling]] in the [[afdeeling]] [[Oostkust van Atjeh]]. Originally part of [[Sumatra's East Coast|Sumatra's Oostkust]], transferred to Atjeh about four years after [[Singkel]] (c. [[1908]]Region; one of the few areas where large-scale agricultural enterprise (with[[Langsar|Langsa]]) is of much significance.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 98, 105, 184, 189, 190, 194, 195, 305, 327, 329, 411.*
+
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 1, p. 1.
@@ -295,3 +301,5 @@ The older geography of the region surfaces in the history of the Treaty with the
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XIII.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 18, 106–107, 136–138, 188–190.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 98, 105, 184, 189, 190, 194, 195, 305, 327, 329, 411.

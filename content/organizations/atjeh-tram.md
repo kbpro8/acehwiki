@@ -149,6 +149,7 @@ Swart used the tram for administration as well: he toured with [[Liefrinck]] in 
 *DLP-84-Atjeh.pdf*, p. 8.
 H. T. Damsté, "Drie Atjeh-Mannen," *Kolonial Tijdschrift*, No. 4, 26e Jaargang (1937), overdruck, p. 361.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 75, 85, 87, 195.
 ## Account from *Vijftig jaren economische staatkunde in Atjeh* ([[1923]])
 
 The **Atjeh Tram** was the government narrow-gauge steam tramway of [[Acheh|Atjeh]] — begun with the five-kilometre line [[Oeleë Lheuë|Oelèë Lheue]]–[[Koeta Radja]] approved on [[26 June]] [[1874]], extended down the North and East Coasts to [[Besitang]], where at the end of December [[1919]] it joined the [[Deli Spoorweg Maatschappij|Deli railway]] to form a through rail connection of 510 kilometres from [[Tandjong Balei]] to Koeta Radja — and remembered by author [[J. Langhout|Joh. Langhout]] as one of the chief instruments of the [[Pacification of Atjeh|pacification]]: "vast staat dat de Atjehtram ten volle heeft beantwoord aan het doel ... nl. een afdoende pacificatie der Atjehgebieden" ("certain it is that the Atjeh tram fully answered its purpose, namely an effective pacification of the Atjeh regions").
@@ -286,6 +287,12 @@ Development of land owes much to tram although construction social utility not c
 - [[Oeleë Lheuë|Oelèë Lheue]]
 - [[Lho Seumawè]]
 - [[Dutch Policy of 'Concentration'|The Concentration in Atjeh (1884-1898)]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+The railway of Atjeh (officially [[A.S.S.]]). Subject of many jokes for its tempo, smallness, primitive wood fuel (with soot, cinders, and spark showers at night), frequent derailments when a goat gets on the [[Bekas|track]]. But also: played a major role in the Aceh war (transport, communications, wounded), economically significant. Stops at [[Bireuën]], [[Sigli]] (workshop), and along [[Noordkust]]Military tramway/railway nearing completion that improved access for agricultural ondernemingen and the transport of materials and products.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 59, 65, 67, 195.*
 
 ## Source
 

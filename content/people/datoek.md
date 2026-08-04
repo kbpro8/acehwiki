@@ -67,6 +67,12 @@ Datoek is significant in *[[Oost-Indisch Journael]]* as the book's portrait of t
 - [[1890]]
 - [[1917]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Title of the onder-districtshoofd in [[Singkel]], subordinate to the [[Datoek besar]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 336.*
+
 ## Source
 
 *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Jagerslatijn*
@@ -75,6 +81,7 @@ Datoek is significant in *[[Oost-Indisch Journael]]* as the book's portrait of t
 
 **Datoek** — Datoek the hunter, the Nimrod of Blang-Rakal — is an Acehnese hunter of [[Blang Rakal]] on the [[Gajoweg]] in [[Atjeh|Aceh]], the figure through whom the lieutenant of *[[Oost-Indisch Journael]]* ([[1947]]) tells the story of his expedition through Aceh and his interview with the old hunter. Datoek's full name is Boejoeng, titled Datoek Radja Soetan. He was a *sobat kras* (heavy friend) with the great patrol commanders of the *prang* (the [[Atjeh-oorlog|Aceh War]]) — *Toean Kristoppel* (the later [[Christoffel]]), *Toean Djenderal* [[Joannes Benedictus van Heutsz|Van Heutsz]], [[Overste Scheepens|Toean Scheepens]], [[Darlang|Toean Darlang]], *Toean Boreel*, and *Toean Gouverneur* [[H. N. A. Swart|Swart]] — and in eighteen years he had shot 331 tigers and 18 elephants. He is the book's portrait of the Acehnese *pawang* (the magical knower of the forest and the animals) and of the Acehnese who had served the colonial army as a hunter and a guide.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 336.
 ## The name and the sobat kras
 
 "Datoek's name is actually Boejoeng, titled Datoek Radja Soetan." His full name — Boejoeng, titled Datoek Radja Soetan — is the book's first marker that Datoek is an Acehnese of standing: the title Datoek Radja Soetan is an Acehnese noble title. He "came to Blang Rakal in 1890" — that is, he arrived at Blang Rakal in the middle of the [[Atjeh-oorlog|Aceh War]] — "and around 1917 I settled permanently." The lieutenant's informant also reports that "Teukoe Oemar fell long before, in Aceh" — placing Datoek's arrival in the generation of the great Acehnese resistance.

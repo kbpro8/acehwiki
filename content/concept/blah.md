@@ -29,6 +29,14 @@ In [[1910]] a *[[Normaalcursus]]* for the training of village schoolteachers was
 - [[General Swart, Pacifier of Atjeh (1943)]]
 - [[Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Kinship group in [[Gajo-land (Gayo Land)|Gajo]] society — the genealogical unit. Members belong to their original [[Blah|blah]]wherever they go, creating administrative headaches (comparable to a man from Zundert moving to Krommenie and refusing to deal with the local burgemeester because he has no family there).[[Gajo-land (Gayo Land)|Gajo]] lands, headed by a rëdjö or [[Panghoeloe|penghoeloe]]. Smallest administrative unit (rather than the [[Gampong|gampong]] as in proper Atjeh). Comprises the [[saudörö's]] (brothers) plus the rëdjö, [[toeö]], and [[imöm]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 114, 119, 345.*
+
 ## Source
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), passim.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 114, 119, 345.

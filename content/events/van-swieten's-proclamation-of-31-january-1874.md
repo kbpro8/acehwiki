@@ -61,6 +61,12 @@ The proclamation remained important long after [[1874]] because it was the found
 - [[31 January]]
 - [[1874]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Formal annexation of Atjeh and [[Onderhoorigheden]] to the Dutch colonial possessions by [[Overwinningsrecht|overwinningsrecht]] (right of conquest), after the [[Capture of the Kraton|capture of the Kraton]] and death of [[Sultan of Aceh|the Sultan]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 320.*
+
 ## Source
 
 *De geschiedenis van Nederland in onzen tijd*, by J. A. de Bruyne (Schiedam: J. F. Dupont, [[1912]]), pp. 25–26.
@@ -68,3 +74,5 @@ The proclamation remained important long after [[1874]] because it was the found
 *Second Aceh Expedition (1873-1874)* source narrative, especially the account of the occupation of the [[Kraton of Aceh|Kraton]] and the death of the sultan in late [[January]] [[1874]].
 
 *Open brief aan den Generaal Knoop over de Atjeh-kwestie*, door Brutus (L. van Bakkenes en Co., [[1874]]), pp. 17–18, 30–33.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 320.

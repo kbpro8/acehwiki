@@ -59,6 +59,14 @@ The publication provides invaluable primary source material for understanding Du
 - [[Geconcentreerde Stelling]]
 - [[Groot-Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Dutch defensive policy of [[1876]]-[[1896]]: retreating to a minimal piece of ground in an extended already-conquered territory and trying to convince the enemy through patience and submission that they could not dislodge the Dutch. Interpreted by the enemy as cowardice and weakness; undermined Dutch soldier morale. Abandoned in [[1896]] due to [[C. Snouck Hurgronje|Snouck Hurgronje]]'s advice (positive) and [[Teukoe Oemar]]'s treason (negative).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 40.*
+
 ## Source
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, 1885.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 40.

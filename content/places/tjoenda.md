@@ -9,5 +9,13 @@ tags: [place, landschap, lho-seumawe, noordkust-van-atjeh, achehnese, vee, Kroee
 ## See Also
 - [[Verkenningen in Atjeh (1923)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Place; its [[zelfbestuurder]]'s supremacy was refused by the Boeloe / [[Keureutòë]] onderhoofden.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 412.*
+
 ## Source
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 412.

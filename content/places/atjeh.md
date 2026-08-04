@@ -85,6 +85,7 @@ Throughout *Generaal Swart, Pacificator van Atjeh* the name stands both for the 
 ## Sources
 *De geschiedenis van het Nederlandsche Korps Mariniers van 1665‑1945*, OCR edition, pp. 470‑473.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.
 ## See Also
 
 - [[Bandjar]]
@@ -123,6 +124,12 @@ Throughout *Generaal Swart, Pacificator van Atjeh* the name stands both for the 
 - [[Atjeh campaign (26 December 1875 – 7 February 1876)]]
 - [[Atjeh Marineblad (1890–1891)]]
 - [[Map of Groot Atjeh]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+The entire [[gewest]] (region) of Aceh on northern Sumatra; main subject of the book.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.*
 
 ## Source
 

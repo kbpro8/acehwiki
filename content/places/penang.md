@@ -113,6 +113,12 @@ During the Aceh War, Penang also served as an international telegraph station wh
 - [[W. E. Phillips]]
 - [[Warren Hastings]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+British port in [[Straits Settlements]]; principal export market for Aceh products; refuge for rich Acehnese during Aceh war from where war was financed; has Consulate-General which sent price telegrams; trial shipments of cattle and goats began [[1936]]British trade port; main trade partner of Atjeh before[[Blokkade|blockade]]. Source of imported war matériel for the Atjeh war party.[[Council of Eight|Raad van Achten]]' ([[Council of Eight]]) of Acehnese notables was formed to represent Acehnese interests abroad.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 86, 194, 284, 322, 395.*
+
 ## Source
 
 *Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 8-11; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 6-10.
@@ -120,3 +126,5 @@ During the Aceh War, Penang also served as an international telegraph station wh
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, § 6, footnote p. 81.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 86, 194, 284, 322, 395.

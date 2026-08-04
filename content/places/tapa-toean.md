@@ -72,6 +72,12 @@ After [[1918]], while the pinang-culture bloomed, the West Coast saw an extendin
 - [[Nederlandsche Handel-Maatschappij]]
 - [[Sinabang]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Legendary 'sea saint' (Toean = Lord) of [[Tapa Toean]] place. Left footprints on the beach (10-ell long) and in a mountain when pursuing a dragon into the sea. Two strikingly formed rocks in the sea bay are his petrified hat ([[Koepiah der Atjehers|koepiah]]) and staff (toengkat), thrown after the banished monster. A fisherman would never intentionally approach these, but if wind and current happen to bring his prauw to touch them, it is a good omen.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 52.*
+
 ## Source
 
 *De Rijkdom van Atjeh*, uitgegeven door het Atjeh-Instituut, Amsterdam, 1923. OCR-filename: `20260718_105749_DLP-110-De_rijkdom_van_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 8, 10.
@@ -81,3 +87,5 @@ After [[1918]], while the pinang-culture bloomed, the West Coast saw an extendin
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter IX, XI, XIII, XVII.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 49, 53, 109, 120, 157, 185.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 52, 53, 55, 185, 192, 193, 196, 327, 331, 336.

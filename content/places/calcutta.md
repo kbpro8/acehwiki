@@ -37,6 +37,14 @@ Once the [[Anglo-Dutch Treaty of 1824|treaty of 17 March 1824]] was signed, the 
 - [[George Swinton]]
 - [[Robert Fullerton]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Centre of the [[Pinangnut (Betel Nut)|pinang]] ([[Pinangnut (Betel Nut)|betel nut]]) market in [[Hindostan|British India]]; direct shipping trial considered but not pursued.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.*
+
 ## Source
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159-239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.

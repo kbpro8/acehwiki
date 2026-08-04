@@ -28,6 +28,14 @@ It was after this engagement that Colonel [[L. A. Snell]] was sent from [[Java]]
 - [[L. A. Snell]]
 - [[Westkust Resistance (1925-1927)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Dutch Captain killed during the [[Bakongan-actie]] of [[1925]]-[[1927]]. His remains were transported by [[Gouvernements Marine]] vessels from [[Oelèë Lheuë]] to the action area.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 285.*
+
 ## Source
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]*, Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 285.

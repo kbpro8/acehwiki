@@ -60,9 +60,17 @@ In August [[1910]] the bivouac commander of Geumpang, *onderluitenant* [[A. H. C
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+[[Bivak]] 3 km sideways from the main road ([[Transversaalweg (Noord-Westkust)|transversal road]]). Connected by a cable bridge (completed [[1931]]) over the confluence of [[kroečng|Kroečng]] [[Tangsé]] and [[kroečng|Kroečng]] [[Geumpang]]. Receiving end of the [[Transversaalweg (Noord-Westkust)|transversal road]] from [[Malaboeh|Meulaboh]]Place between which and[[Tangsé]] [[Transport-olifanten (Aceh)|elephant transport]] of columns recently took place.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 51, 61, 289.*
+
 ## Source
 
 - *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "De colonne Schmidt."
 - *Oost-Indisch Journael: Palaver om de tafel met het gat*, by Merac, Toekan-Serie no. 2, ed. G. L. Tichelman (Haarlem: De Gulden Pers, 1947), chapter *Atjeh's Transport-Olifanten* and the chapter on den zieleherder.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XIV.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 51, 61, 289.

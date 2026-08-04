@@ -57,6 +57,12 @@ On [[26 January]] [[1905]] the patrol of sergeant [[Vollaers]], seventeen men, w
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Each village has a [[Meunasah|meunasah]], with a big drum for the [[Five daily prayers (seumayangs)|five daily prayers]]. Less used as a prayer house, more as a place for men to gather in the evening to discuss news. In former years hosted cock-fights with gambling. Functions as a village club, lodging for unmarried visiting men, meeting place for special occasions, place to conclude marriage contracts, and venue for partial [[Quran]] instruction for boys.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 166.*
+
 ## Source
 
 *The Achehnese*, Vol. I, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906. Chapter I, §§ 5–6, pp. 58–80.
@@ -64,3 +70,5 @@ On [[26 January]] [[1905]] the patrol of sergeant [[Vollaers]], seventeen men, w
 *De Islaam in Indonesië (in het bijzonder op Java)*, by Drs. R. L. Mellema. Mededeling No. LXXVII, Afd. Volkenkunde No. 25. Amsterdam: Koninklijke Vereniging "Indisch Instituut," 1947. "Godsdienstonderwijs in Indonesië," p. 39; and *Register*, s.v. *meunasah* and *rangkang*.
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter X, XVI.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 366.

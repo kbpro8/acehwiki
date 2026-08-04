@@ -49,6 +49,14 @@ In [[March 1898]], [[Snouck Hurgronje]] joined [[Joannes Benedictus van Heutsz|V
 - [[Korte Verklaring]]
 - [[De Atjehers]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Most influential scholar of Aceh. Stayed in Aceh [[1892]]-[[1893]] to advise on political situation. Advised: never negotiate with the enemy, only strike them, never let them recover - then show peaceful intentions. His advice was implemented by [[Generaal J. B. van Heutsz|Van Heutsz]]. Recommended [[Generaal J. B. van Heutsz|Van Heutsz]] for command of Aceh. Author of '[[Snouck Hurgronje's Het Gajoland en zijne bewoners (1903)|Het Gajoland en zijne bewoners]]' (The [[Gajo-land (Gayo Land)|Gayo]] Land and its Inhabitants) and other standard works. Died [[1936]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 17, 18, 20, 40, 41, 47.*
+
 ## Source
 
 Somer, Dr. J. M. *Het Atjeh-probleem van 1890-1900* (Overprint uit *Journal / Organ van de Netherlands-Indies Officers Association*, [1935], pp. 4-7, 10-11); *Het einde van den Atjeh Oorlog* (Overprintken uit de *Evening Post* van 25, 26 en 27 Augustus 1903, pp. 3-16); Kreemer, J. J. *Atjèh* (Tweede Deel, 1923); Damste, H. T. "Atjeh-historie," *Koloniaal Tijdschrift* 1916.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 17, 18, 20, 40, 41, 47.

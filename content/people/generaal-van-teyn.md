@@ -43,6 +43,14 @@ In the strategic analysis of [[Dr. J. M. Somer]], the shift from [[Van Teyn]]'s 
 - [[Concentrated Line]]
 - [[Aceh War]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Had already several times reported to the Minister of Colonies that the great mistake during the first 20 years of the Aceh war was that every successive Governor changed the politics, and that there was a lack of a consistently pursued direction.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 398.*
+
 ## Source
 
 Somer, Dr. J. M. *Het Atjeh-probleem van 1890-1900* (Overprint uit *Journal / Organ van de Netherlands-Indies Officers Association*, [1935], pp. 4-7, 10-11); *Het einde van den Atjeh Oorlog* (Overprintken uit de *Evening Post* van 25, 26 en 27 Augustus 1903, pp. 10-11); Damste, H. T. "Atjeh-historie," *Koloniaal Tijdschrift* 1916.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 398.

@@ -9,5 +9,13 @@ tags: [place, village, gajo-weg, gajo-land, achehnese, koffiehuis, Chinese, tran
 ## See Also
 - [[Verkenningen in Atjeh (1923)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Place on the Gajoeweg; new pine [[Resin (Aceh)|resin]] 'fabriek' (factory) opened [[1938]] with modern French installation; old factory burnt [[March]] [[1937]] (j.l.).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 74, 75.*
+
 ## Source
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 74, 75.

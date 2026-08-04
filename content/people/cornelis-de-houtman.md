@@ -79,6 +79,12 @@ In July [[1599]] the brothers Frederik and Cornelis de Houtman, after a not very
 - [[Dr. W. A. Terwogt]]
 - [[Paulus van Caerden]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+With brother Frederik led the first Dutch voyage to the East Indies. Received very disappointingly in Atjeh in [[1599]] - one of the early negative encounters between Dutch and Acehnese.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 30.*
+
 ## Source
 
 *Tijdens de O.I. Compagnie*, by Dr. E. C. Godee Molsbergen, Oud-Hoogleeraar, Landsarchivaris te Batavia (Amsterdam: N.V. Swets & Zeitlinger Boekhandel en Uitgevers Mij., 1932), chapter XXIII ("Sint Thomas. De Madoera-ziekte. Malakka. Het groote kanon in Atjeh. Java. Paradijsvogels. Lélang. Koloniale Portugeezen"), p. 81 of the numbered-letter sequence, and chapter XXXII ("Het Kasteel van Verre. De brief op varkensvel in Atjeh. Bali en Holland één!"), pp. 114–118.
@@ -88,3 +94,5 @@ In July [[1599]] the brothers Frederik and Cornelis de Houtman, after a not very
 *Het Land van Jan Pieterszoon Coen*, door Dr. W. A. Terwogt (Hoorn: P. Geerts, [1891]). Hoofdstuk I: the arrival at Atjeh on 21 June 1599, the poisoning and treacherous assault of 1 September 1599, and the death of Cornelis de Houtman — "de Atjehneezen zich door grootere energie van alle andere bevolkingen van den Archipel onderscheiden, maar hunne zeden diep verdorven zijn" (the Atjehnese distinguish themselves from all other populations of the archipelago by greater energy, but their morals are deeply corrupted).
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 10–11.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 30.

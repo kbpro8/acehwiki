@@ -31,6 +31,14 @@ The Nicobaren are, in Van der Woude's narrative, the principal transit anchorage
 - [[1605]]
 - [[1606]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Island group north of Sumatra, mentioned as part of the great folding-mountain arc that includes the [[Boekit Barisan]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 179.*
+
 ## Source
 
 *Coen, Koopman van Heeren Zeventien. Geschiedenis van den Hollandshen Handel in Indië (1598-1614)*, by Johan van der Woude (Amsterdam: C.V. Uitgeverij v/h C. De Boer Jr., 1948), Hoofdstuk V "Voorgangers, Hollanders en mededingers tot 1614. Atjeh. Djohor. Malaka." (pp. 127, 138-139).
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 179.

@@ -137,6 +137,12 @@ Atjeh area where still elephants [[Peureula]], [[Lho Soekon]], [[Peusangan]] and
 - [[Atjeh Tram]]
 - [[Paja Tjitjem]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Attractive controleursplaatsje 'along the line' ([[Atjeh-tram]]). In one of the very important landschappen of the [[Noordkust]] [[afdeeling]]. Has swimming pool behind controleurswoning, [[Pasanggrahan|pasanggrahan]], Saturday [[pasar]] (also vee-[[pasar]]). Site of [[Kapitein Heinzenknecht|kapitein Heinzenknecht]] bust by [[Toon Dupuis]]. Start of the [[Gajoweg (Gayo Road)|Gajoweg]]. On the flight path of [[Van Aken]]'s flight from Idi via [[Bireuën]] to [[Sabang]] (6 Oct [[1934]]Border point at[[K.M.]] 36 of the [[Gajoweg (Gayo Road)|Gajoweg]] (border [[Bireuën]]-[[Takengon]]). Has a vliegveld (airfield) opened [[October]] [[1934]] but no second plane had landed there since. Also has a NIGM central. More attractive than [[Lho'Soekon]]Region on the[[North Coast|north coast]]of Aceh; tertiair heuvelland extends to the coast up to this point.[[onderafdeeling|Onderafdeeling]] on [[Noordkust]]; [[Kapok Fiber|kapok]]centre; salt production; KPM connection via Atjeh Staatsspoor.[[afdeeling]] [[Noordkust van Atjeh]]; site of an excellent landing field (vliegveld) built in [[Heerendienst|heerendienst]] by the bevolking of [[Peusangan]]. On the hoofdweg [[Koeta-Radja|Koeta Radja]]-[[Medan]]; junction for the autoweg to [[Takengon]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 25, 45, 67, 68, 69, 70, 73, 85, 86, 188, 287, 295, 329, 331.*
+
 ## Source
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 53–56 (section "De aanleg van wegen op de Buitenbezittingen").
@@ -146,3 +152,5 @@ Atjeh area where still elephants [[Peureula]], [[Lho Soekon]], [[Peusangan]] and
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), chapter X, *'In het land van Peusangan'*, pp. 66–70.
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XII.
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 59-64.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 25, 45, 67, 68, 69, 70, 73, 85, 86, 188, 287, 295, 329, 331.

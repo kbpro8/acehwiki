@@ -21,11 +21,18 @@ Snouck Hurgronje's *Het Gajoland en zijne bewoners* ([[1903]]) was the principal
 Snouck Hurgronje's *Het Gajoland en zijne bewoners* ([[1903]]) is significant for the encyclopedia of [[Acheh]] history as the principal Western scholarly monograph on the [[Gajoland|Gayo]] country — the highland interior of central Atjeh, paired with Atjeh proper throughout the comparative ethnographic literature on buffalo-vocabulary, buffalo-custom and buffalo-belief. The monograph is the principal authority on the Gayo albino-buffalo prohibition, on the Gayo white-pennant stall-protection practice, and on the question of the conceptual basis of Gayo food-prohibitions, and is cited throughout the Gayo-related entries in this wiki.
 
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Masterly work ('meesterlijke werk') describing the [[Gajo-land (Gayo Land)|Gajo]]-land and its inhabitants. Contains an enumeration of dozens of '[[vrouwenwegen]]' (women's paths) - the old footpaths to [[Gajo-land (Gayo Land)|Gajo]]-land.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 47.*
+
 ## Sources
 *Het Gajoland en zijne bewoners*, by C. Snouck Hurgronje (The Hague: M. Nijhoff, [[1903]]).
 
 *De Karbouw — Zijn betekenis voor de volken van de Indonesische Archipel*, by J. Kreemer ('s-Gravenhage / Bandung: N.V. Uitgeverij W. van Hoeve, [[1956]]), pp. 171, 217-218, 267.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 47.
 ## See Also
 - [[Alasland]]
 - [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]

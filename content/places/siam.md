@@ -29,8 +29,16 @@ Siam's wider entanglement in the politics of the Strait is also visible in the A
 - [[Acheh]]
 - [[Raffles' Atjeh-overeenkomst van 1819]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Country whose [[Pinangnut (Betel Nut)|pinang]] was rated higher than Aceh's; also barred from cattle export to [[Penang]] due to contagious cattle disease, opening the door for Aceh cattle.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.*
+
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.

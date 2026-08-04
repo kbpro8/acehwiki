@@ -148,6 +148,12 @@ The hope of continued support from [[Toekoe Moeda Soleiman]], guardian of the yo
 - [[Sagi der XXVI Moekims]]
 - [[Lamkrak]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+The 22-[[Mukim|mukim]] [[Sagi|sagi]]/region of which [[Panglima Polém]] is Sagihoofd. (Note: at one point called [[XXVI Moekims|XXVI moekims]] in the ultimatum - possibly XXII vs XXVI variant spellings.)
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 356, 357.*
+
 ## Sources
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 131, 228, 327–329, 336–337, 350–355.
@@ -163,3 +169,5 @@ The hope of continued support from [[Toekoe Moeda Soleiman]], guardian of the yo
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, pp. 14, 38, 40, 42, 48, 50.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 356, 357.

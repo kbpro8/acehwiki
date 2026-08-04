@@ -84,6 +84,7 @@ The *Atjeh-moord* was the residual violence of a pacified province, and du Croo'
 ## Sources
 *Atjèh and the War with Japan*, by Dr. A. J. Piekaar, translated from the Dutch original *Atjèh en de oorlog met Japan* (1949) ('s-Gravenhage/Bandung: N.V. Uitgeverij W. van Hoeve; English edition), Chapter I § 1, Chapter VI.
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 365, 380, 381, 383, 388.
 ## See Also
 
 - [[Musket]]
@@ -109,6 +110,12 @@ The *Atjeh-moord* was the residual violence of a pacified province, and du Croo'
 - [[Bakóngan uprising (1925–1927)]]
 - [[Lhóng action (1933)]]
 - [[Japanese invasion of Atjèh]]
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Distinctive form of murder: premeditated, selective, in cool blood. The perpetrator electively chooses victim and place; acts after careful weighing of chances; hopes to fall himself so as to ascend directly to heaven. Contrasted with amok (which is a psychosis). Often motivated by levensmoheid (life-weariness), despair (esp. among lepers), revenge, shame. Religious motivation alone is rare. Figures [[1910]]-[[1938]]: average ~4 per year (75% of listed cases, after deducting 25% amok cases).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 365, 380, 381, 383, 388.*
 
 ## Source
 

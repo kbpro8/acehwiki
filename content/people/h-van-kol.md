@@ -154,6 +154,12 @@ He voted for [[Van Kol's motion of 16 November 1897|his own motion]] on [[17 Nov
 - [[Van Kol's 1902 traverse of Atjeh]]
 - [[Atjeh-oorlog (1873-1904)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Described the ~2 million guilders cost of the [[Gajoweg (Gayo Road)|Gajoweg]] as '2/10 doelloos verspild' (2/10 senselessly wasted). [[Resident Jongejans|Jongejans]] disputes this, saying it undervalues the peaceful development of the central region.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 70.*
+
 ## Sources
 
 *De Sociaaldemokraten in de Tweede Kamer* (Amsterdam, c. 1901). Vrije Universiteit Bibliotheek, pp. 2-3, 12-13, 20-21, 28-29.
@@ -163,3 +169,5 @@ He voted for [[Van Kol's motion of 16 November 1897|his own motion]] on [[17 Nov
 *Atjeh in de Tweede Kamer: Debatten bij de behandeling der begrooting van Nederlandsch-Indië voor [[1898]]*, uitgave van de Sociaaldemokratische Arbeiderspartij in Nederland (Amsterdam: J. A. Fortuijn, [[1897]]). Koninklijk Instituut voor de Tropen, Br P95-178, pp. 3–13, 60–70.
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 70.

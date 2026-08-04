@@ -200,6 +200,12 @@ Alongside the celebratory framing, the same issue recorded Colonel [[C. A. Snell
 - [[Korpsgeest der Maréchaussée]]
 - [[Kerkhof Peutjoet]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Dutch colonial military police. The [[Marechaussée|marechaussée]] takes 5–6 days on the paardenpad from [[Takengon]] to [[Blang Kedjerèn]]; an untrained person needs a week.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 79.*
+
 ## Sources
 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapters "Van recruut tot pensioen," "De buitenpost," "Ooms leger," "De colonne Schmidt," "Dominee Thenu," "Thijs," and "De patrouille."
@@ -212,3 +218,5 @@ Alongside the celebratory framing, the same issue recorded Colonel [[C. A. Snell
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 
 *Het Korps Maréchaussée in Atjeh: De Atjehsche Garde, 1890 - [[2 April]] [[1930]]* (“The Corps of Maréchaussée in Atjeh: The Atjehnese Guard”), Extra Jubileum-nummer of *[[Het Nieuws van den Dag voor Nederlandsch-Indië]]* issued for the fortieth anniversary of the corps ([[1930]]), pp. 1-16. Offprint DLP-143, Bibliotheek KITLV, accession 621 116 794.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 79.

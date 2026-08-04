@@ -99,6 +99,7 @@ Under [[H. N. A. Swart]] the *[[oelèëbalang]]s* "were supported and gradually 
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Van recruut tot pensioen" and chapter "Tangsi en Tante."
 *Oom Ambon van het K.N.I.L.*, by G. W. T. Dames, Maj. Inf. K.N.I.L. b.d. ('s-Gravenhage: Koninklijke Bibliotheek, 1954), chapter "Van recruut tot pensioen."
 
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 43, 64, 88, 333, 363, 370.
 ## See Also
 
 - [[Mukim]]
@@ -142,6 +143,12 @@ Under [[H. N. A. Swart]] the *[[oelèëbalang]]s* "were supported and gradually 
 - [[Oom Ambon]]
 - [[Kampong / kamponggemeenschap]]
 - [Verlof](/concept/verlof)
+
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Atjehnese village. The '[[Gampong|gampong]]-bevolking' (village population) is sober with few needs. [[Gampong]]-geluiden (village sounds) include the rhythmic pounding of rice. Gamponghuisjes (village houses) are generally primitive and dirty.[[Gampong|gampong]]-lieden (villagers) gather at a tree in the [[Sawah|sawah]]Acehnese village settlement; most households have pinangboomen on their erf; cattle brought back to[[Gampong|gampong]] stalls for [[Sawah|sawah]]Smallest territorial and legal community in Atjeh, headed by a[[keutjhi']] (or [[Peutoeha|peutoeha]] in the [[Onderhoorigheden|onderhoorigheden]]). A [[keutjhi']] is assisted by a [[Wakil|wakil]] (deputy) and consults a college of elders ([[moepakat]]Acehnese village; smallest administrative unit.[[Gampong]] Tirò in [[Pidië]] known for many wet-geleerden and schools of the holy sciences; also a vrijplaats (sanctuary).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 43, 64, 88, 333, 363, 370.*
 
 ## Source
 

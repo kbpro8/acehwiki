@@ -84,6 +84,12 @@ After the April [[1873]] retreat, the [[Dutch East Indies Government]] establish
 - [[Treaty of London 1824]]
 - [[Verklaringen van de kustvorsten van Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+The Dutch colonial government. Throughout the book the actor that declares war, makes treaties, appoints governors, institutes administrative systems, etc.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 40, 41, 42.*
+
 ## Source
 
 *Acknowledgement of sources.* This article combines material from the publications cited above; the material newly added derives from *Atjeh in de Tweede Kamer* (Amsterdam: J. A. Fortuijn, [[1897]]) and *Een strijd in Atjeh* (Rotterdam: N.V. Drukkerij Korteweg for the Vereeniging „SIMAVI”, [[1934]]). Dutch passages are quoted in the original with an English rendering.
@@ -95,3 +101,5 @@ After the April [[1873]] retreat, the [[Dutch East Indies Government]] establish
 *Over de eerste expeditie tegen Atjeh: Een antwoord aan Generaal de Stuers*, G. G. Booms, 's-Gravenhage: A. van Hoogstraten & Zoon, 1875, pp. 5-15; *Atjeh gedurende de tweede expeditie en later*, Een Oud Officier, Batavia: Ogilvie & Co., 1876, pp. 5-15.
 
 *De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 1–465.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 40, 41, 42.

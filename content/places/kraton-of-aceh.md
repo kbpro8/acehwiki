@@ -33,8 +33,16 @@ Its capture was decisive symbolically but did not end the [[Aceh War]]. Van Swie
 - [[1873]]
 - [[1874]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+[[Sultan of Aceh|The Sultan]]'s palace of Atjeh; captured 7 days before the [[31 January]] [[1874]] proclamation (i.e., [[24 January]] [[1874]]). [[Sultan of Aceh|The Sultan]] died of cholera a few days later. The capture effectively ended the Atjeh [[sultanate]]; the territory passed to [[Netherlands|the Netherlands]] by [[Overwinningsrecht|overwinningsrecht]] (right of conquest).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 320, 322, 336.*
+
 ## Source
 
 *De waarheid over onze vestiging in Atjeh: met eene kaart van Atjeh en een plan van den Kraton*, by [[Jan van Swieten|J. van Swieten]] (Zalt-Bommel: Joh. Noman en Zoon, [[1879]]), pp. 211–272, 341–343.
 
 *De expeditiën naar Atjeh 1873-1874*, W.W.F. Herfkens, Koninklijke Militaire Academie, [[1900]], pp. 21–23, 54–61, 71.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 320, 322, 336.

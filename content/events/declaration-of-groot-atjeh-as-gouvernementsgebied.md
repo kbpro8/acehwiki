@@ -1,0 +1,31 @@
+---
+title: "Declaration of Groot-Atjeh as Gouvernementsgebied"
+aliases: []
+tags: [event, 1873, jongejans, aceh]
+---
+
+**Declaration of Groot-Atjeh as Gouvernementsgebied** (1873) was an event in the history of [[Aceh]] recorded by [[J. Jongejans|Jongejan]] in *Land en Volk van Atjeh Vroeger en Nu*. After the Second Expedition, the core territory of Atjeh (Groot-Atjeh) was declared Gouvernementsgebied (Government territory). 
+
+## Date and Context
+
+The event is dated to [[1873]].
+
+## Account
+
+After the Second Expedition, the core territory of Atjeh ([[Groot-Atjeh]]) was declared Gouvernementsgebied (Government territory). The Acehnese responded with continuing [[Bantah (Acehnese term)|resistance]] in the form of a guerrilla war, sometimes fought by the whole population of a region, in other cases by organized bands under religious and secular leaders.
+
+## Significance
+
+The event is recorded by [[J. Jongejans|Jongejan]] as part of the broader historical narrative of [[Aceh]] and the [[Aceh War|Atjeh conflict]] period. It illustrates the complex interplay of local [[Acehnese|Atjehers]] politics, Dutch colonial administration, and the religious and military leadership that shaped the region's history.
+
+## See Also
+
+- [[Aceh]]
+- [[Aceh War]]
+- [[J. Jongejans]]
+- [[Land en Volk van Atjeh Vroeger en Nu]]
+- [[1873]]
+
+## Source
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 38.

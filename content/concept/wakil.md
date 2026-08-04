@@ -22,6 +22,14 @@ In [[Groot-Atjeh]], where no active *[[Beschikkingsrecht in Atjeh|beschikkingsre
 - [[Zelfbesturende landschappen]]
 - [[Groot-Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Deputy of the [[keutjhi']] in the [[Gampong|gampong]]; literally 'place-vervanger'.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 333.*
+
 ## Source
 
 *Het recht op den grond in Atjeh*, by [[D. W. N. de Boer]], dated Scheveningen, November [[1931]], pp. 59-80. Offprint DLP-141, Koninklijk Instituut voor Taal-, Land- en Volkenkunde, 's-Gravenhage; Bibliotheek KITLV accession 0060 4460 60 081470 428.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 333.

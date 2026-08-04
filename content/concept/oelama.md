@@ -119,6 +119,12 @@ He was succeeded in the leadership of the *[[Moslemin]]* by his son [[Mat Amin|M
 - [[Mat Amin]]
 - [[Anagaloeng]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Religious scholars who gained great power and influence after the collapse of the territorial organization during the Aceh War, by preaching war against the hated unbelievers. Made ample use of their power. (Dutch spelling: [[Oelama's]]; modern: [[Oelama|ulama]].)
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 38.*
+
 ## Sources
 
 *Atjeh*, door H.C. Zentgraff. Gedrukt bij Drukkerij "De Unie", [[1938]], Batavia. OCR-filename: `20260709_002148_DLP-81-Atjeh_OCR.txt`.
@@ -130,3 +136,5 @@ He was succeeded in the leadership of the *[[Moslemin]]* by his son [[Mat Amin|M
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 48.
 
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 38.

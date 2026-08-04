@@ -113,8 +113,16 @@ All 18 *landschapskassen* in Atjèh were created on [[1 January]] [[1912]] by Go
 - [[1920]]
 - [[1921]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Subsidized the inheemsch internaat in [[Koetaradja]] ([[1920]]) and [[Langsar|Langsa]] ([[1931]]).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 314.*
+
 ## Sources
 
 *De Buitenbezittingen 1904 tot 1914, Deel I*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen, Aflevering X (Weltevreden: Landsdrukkerij, 1917), pp. 7–17 (sections "Bestuurs-organisatie" and "De Landschapskassen").
 
 *Atjèh. Algemeen samenvattend overzicht van land en volk van Atjèh en onderhoorigheden*, door J. Kreemer, Archivaris van het Atjèh Instituut. Tweede Deel. Leiden: N.V. Boekhandel en Drukkerij voorheen E.J. Brill, [[1923]]. Identifier: Delpher `MMKB02B:000001798`; PPN 395084288. Koninklijke Bibliotheek.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 314.

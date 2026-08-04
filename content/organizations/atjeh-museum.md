@@ -16,6 +16,14 @@ The annual-market exhibitions held in Atjeh — the first under Governor [[Gotfr
 - [[H. N. A. Swart]]
 - [[Education in Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Museum at [[Koetaradja]] in Acehnese architectural style, holding collections on land and people of Aceh (currently being reorganized). Houses the [[Tjakra Donja]] bell.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 19, 48.*
+
 ## Source
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 110–111, illustration caption p. 192.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 19, 48.

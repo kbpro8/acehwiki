@@ -9,5 +9,13 @@ tags: [place, river, tamiang, oostkust-van-atjeh, Simpang-kiri, Simpang Kanan]
 ## See Also
 - [[Verkenningen in Atjeh (1923)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+River and place in the [[onderafdeeling]] [[Singkel]]; location of the place [[Roendeng]], the [[Singkel]] onderafdelingshoofdplaats accessible by motorboat. One of the four districts of [[Singkel]].
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 90, 286, 336.*
+
 ## Source
 *Verkenningen in Atjeh*, by Dr. R. Broersma (De Locomotief, October 1923), passim.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 90, 286, 336.

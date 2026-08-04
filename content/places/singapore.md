@@ -62,6 +62,12 @@ Singapore’s foundation illustrates the intersection of colonial ambition, ling
 - [[Treaty of Pedir (1819)]]
 - [[Raffles-Coombs Acheh Commission (1819)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+British colony; location of the British naval base whose construction reduced [[Sabang]]'s strategic value as a potential marine base.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 282, 284.*
+
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -69,3 +75,5 @@ Singapore’s foundation illustrates the intersection of colonial ambition, ling
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch‑Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
 
 *20260707_232246_DLP-55-De_geschiedenis_van_het_Nederlandsche_Korps_Mariniers_van_1665_1945_OCR.txt*, pp. 109‑110.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 282, 284.

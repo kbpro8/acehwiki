@@ -28,6 +28,14 @@ Langkat's appearance in Fullerton's minute is not accidental. The whole commerci
 - [[Anglo-Dutch Treaty of 1824|Anglo-Dutch Treaty of London (1824)]]
 - [[Sumatra Treaty of 1871]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Area in [[S.O.K.]]; has Zuidwest [[Boschreserve|boschreserve]] adjacent to proposed [[Silaboehan]] nature monument.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 98.*
+
 ## Source
 
 *Raffles' Atjeh-overeenkomst van 1819*, by P. H. van der Kemp, in *Bijdragen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde van Nederlandsch-Indië*, 6e Volgr., Deel VII (1900), pp. 159–239. Universiteitsbibliotheek Vrije Universiteit, LS.08781.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 98.

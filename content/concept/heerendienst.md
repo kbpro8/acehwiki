@@ -311,6 +311,12 @@ Begroting collective landscapes afdeeling [[Pidie]] [[1923]]: afkoop heerendiens
 - [[Pidie]]
 - [[Takengon]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Native overseer; one [[Sigli]] [[Mandoer|mandoer]] appropriated provisions meant for lepers and was dismissed.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 386.*
+
 ## Source
 
 D. van den Berg, *Cornelis Jacobus Snijders (1852–1939): Een leven in dienst van zijn Land en zijn Volk* (Voorburg: September [[1944]]), pp. 32–33. Koninklijke Bibliotheek shelfmark 0301 4872.
@@ -330,3 +336,5 @@ J. B. van Heutsz, *De onderwerping van Atjeh* (1893), p. 79.
 *De verlaten posten in Groot-Atjeh*, door G. B. Hooijer, Gep. Luit.-Kolonel O. I. Leger, met 24 platen (Haarlem: De Erven F. Bohn; Batavia: G. Kolff & Co., [[1897]]). Koninklijk Instituut voor de Tropen, Centrale Boekerij, Amsterdam. OCR-filename: `20260719_140140_DLP-134-De_verlaten_posten_in_Groot_Atjeh_Nemotron-OCR-v2_OCR.txt`, p. 10; pp. 10, 14, 16, 18, 50, 52.
 *Acknowledgement of sources.* This article is a single consolidated account combining the material previously held in this entry with the account given in *De verlaten posten in Groot-Atjeh* ([[1897]]) by [[G. B. Hooijer]]. Dutch terminology has been rendered in English, the original Dutch being retained only in direct quotations and in bibliographic citations.
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 64-65, 73-75, 84, 124.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 386.

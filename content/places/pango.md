@@ -39,8 +39,16 @@ Pango was one of the posts inside the geconcentreerde stelling (concentrated pos
 - [[Death of Generaal Pel (24 February 1876)]]
 - [[Pel's offensive against the VI, IV and IX Moekims (1875–1876)]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Region whose inhabitants are characterized as 'so good at lying that they can talk a white buffalo grey and straight horns crooked'.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 106.*
+
 ## Sources
 
 *Onze vestiging in Atjeh, critisch beschreven*, by G. F. W. Borel, Kapitein der Artillerie. 's-Gravenhage: D. A. Thieme, 1878. pp. 327–329, 336.
 
 *De Geconcentreerde Stelling in Groot-Atjeh*, 's-Gravenhage: De Gebroeders Van Cleef, [[1885]], pp. 22.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 106.

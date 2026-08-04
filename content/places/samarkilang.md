@@ -15,6 +15,14 @@ Als onze jagers het hem ál te lastig maakten, week hij voor een tijdje uit naar
 - [[Pacificatie van Atjeh]]
 - [[Atjeh]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Place between which and [[Serbödjadi]] [[teungkoe|Teungkoe]] di [[Mata Ië]] had his schuilplaats. Population recognised his [[Bangkai (Acehnese term)|corpse]]. Last 7 followers became the 'Samarkilangbende'.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 363, 364.*
+
 ## Source
 
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XII.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 363, 364.

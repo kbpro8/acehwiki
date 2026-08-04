@@ -70,11 +70,19 @@ Terrenes of famous [[Zuid-Perlak Petroleum-Mij]] adjacent. Tol office receipts s
 - [[Zuid-Perlak Petroleum-Mij]]
 - [[Rantau Pandjang]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+[[Bataafsche Petroleum Maatschappij]] — oil company. Long-exploited terrains at [[Rantau Pandjang]] ([[Peureula]], formerly [[Peureula|Pèrlak]]) and [[Rantau]] ([[Kwala Simpang]]). Explored at [[Leuboe]] (abandoned [[1936]]). New sea-boring at [[Koeala Idi]]. [[Rantau]] is spectacular at night with gas flares.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 85, 88, 90.*
+
 ## Source
 
 *De Buitenbezittingen, Deel II, Aflevering 2: Atjeh en Onderhoorigheden*, bewerkt door het Encyclopaedisch Bureau, Mededeelingen van het Bureau voor de Bestuurszaken der Buitenbezittingen (Weltevreden: Landsdrukkerij, 1917), pp. 27, 230, 242, 248–251.
 ---
 **The Bataafsche Petroleum Maatschappij** (B.P.M.) — the Batavian Petroleum Company, the production subsidiary of the Royal Dutch/Shell group in the Netherlands East Indies — was, by [[1917]], the operator of every working oil-concession in the [[Afdeeling Oostkust van Atjeh|Afdeeling Oostkust van Atjeh]] and the owner of the great refinery at [[Pangkalan Brandan|Pangkalan Brandan]], to which the crude oil of Atjeh was conveyed through a *pijpleiding* of more than 120 km from the boorterreinen of [[Idi|Idi]] and [[Langsa|Langsa]]. *De Buitenbezittingen* names the Bataafsche as the dominant industrial presence in the eastern part of the *gewest*: the third of the "drietal lichamen" that exercised "industrie groote schaal ten behoeve van de wereldmarkt" within Atjeh — alongside the [[Java-Bosch-Exploitatie-Mij|Java-Bosch-Exploitatie-Mij]] of [[Sinabang|Sinabang]] and the [[Sabang Maatschappij|Sabang Maatschappij]] of [[Poeloe Wé|Poeloe Wé]].
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 85, 88, 90.
 ## Concessions in Atjeh
 By [[1917]] five petroleum-concessions, totalling 8,652 H.A. and situated in the onderafdeelingen [[Idi|Idi]] and [[Langsa|Langsa]], had been brought into exploitation. Of these, two — Peudawa and Paja-Bilik — were no longer being worked; of the three still active, two (Oost-Peudawa and Peureula, the latter "eene concessie der [[Perlak-Petroleum-Mij|Perlak-Petroleum-Mij]]") were exploited by the Bataafsche, while the third (Zuid-Peureula) was exploited by the *Petroleum-Mij. Zuid-Perlak*. In [[1914]] the Bataafsche's *vergunningsterrein* Kroëng Meureubo came into production for the first time, yielding 17 K.G.-ton of crude oil in that year. Exploratory vergunningen covered further tracts, including the *oelèëbalangschap* Meurasa near [[Oelèë Lheuë|Oelèë Lheuë]], Soengei Raja, and Bajeuën; the Koloniale Petroleum-Mij's deep-boring at Bedoelang (Tamiang), abandoned in [[1913]] at 405 m, was the most ambitious of these unsuccessful probes.
 ## The pipeline and the Pangkalan Brandan refinery

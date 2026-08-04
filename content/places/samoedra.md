@@ -21,6 +21,14 @@ In 15th and 16th century Samoedra and Pasé under [[Atjeh Sultanate|Atjeh]] prin
 - [[Marco Polo]]
 - [[Blang Me]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Historic kingdom in North Sumatra/[[Pasai|Pasé]]; destination of first pepper plants from [[Hindostan|British India]] ([[1350]]-[[1400]]).
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.*
+
 ## Source
 
 *Atjeh als land voor handel en bedrijf*, by Dr. R. Broersma, Gebrs. Cohen, Utrecht, 1925, pp. 52-53.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. —.

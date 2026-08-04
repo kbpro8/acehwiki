@@ -73,6 +73,12 @@ When the Radja's evasions continued, a military expedition under Colonel [[Demme
 - [[Meulaboh]]
 - [[Demmeni|H. Demmeni]]
 
+## Account from *Land en Volk van Atjeh Vroeger en Nu*
+
+Place where [[Teukoe Oemar]] settled (along with [[Woyla]]). [[Radja van Teunom]] held the Niserosschip castaways.
+
+*Source: J. Jongejans, Land en Volk van Atjeh Vroeger en Nu (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 353, 402.*
+
 ## Source
 
 *The Achehnese*, Vol. II, by Dr. C. Snouck Hurgronje, translated by A.W.S. O'Sullivan, indexed by R.J. Wilkinson. Leyden: E.J. Brill, 1906.
@@ -82,3 +88,5 @@ When the Radja's evasions continued, a military expedition under Colonel [[Demme
 *Generaal Swart, Pacificator van Atjeh* (“General Swart, Pacifier of Atjeh”), by M. H. du Croo, Colonel K.N.I.L. (retired), with the collaboration of H. J. Schmidt, Titular Colonel K.N.I.L. (retired), with a foreword by His Excellency Lieutenant-General K.N.I.L. (retired) G. K. Dijkstra (Maastricht: N.V. Leiter-Nypels, [[1943]]), Chapter XI, XV.
 
 *Vijftig jaren economische staatkunde in Atjeh*, by Joh. Langhout (The Hague: N.V. Boekhandel v/h W. P. van Stockum & Zoon, 1923), pp. 54–57.
+
+*Land en Volk van Atjeh Vroeger en Nu*, by J. Jongejans, Oud-Resident van het Gewest Atjeh en Onderhoorigheden, with a foreword by Dr. H. Colijn (Baarn: Hollandia Drukkerij N.V., c. 1938), pp. 353, 402.
