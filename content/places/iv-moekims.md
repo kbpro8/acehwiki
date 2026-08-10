@@ -1,6 +1,6 @@
 ---
 title: "IV Moekims"
-aliases: ["4 Moekims", "4 Mukims", "Empat Mukim", "IV Moekim", "IV Moekims", "IV Moekims of Groot-Atjeh", "IV Mukims", "IV en VI Moekims Lam-Pisang", "the Four Moekims"]
+aliases: ["4 Moekims", "4 Mukims", "Empat Mukim", "IV Moekim", "IV Moekims", "IV Moekims of Groot-Atjeh", "IV Mukims", "IV en VI Moekims", "IV en VI Moekims Lam-Pisang", "the Four Moekims"]
 tags: [place, 19th-century, aceh, aceh-war, achehnese, administrative-division, district, groot-atjeh, military, mukim, region, sultan-territory]
 ---
 

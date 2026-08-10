@@ -4,7 +4,7 @@ aliases: ["Atjeh field-consecration rite", "Atjeh first-furrow rite", "peuoe bla
 
 tags: ["achehnese", "agricultural", "concept", "islamic", "magic", "ritual"]
 ---
-**Poephon blang** (in [[J. Kreemer|Kreemer]]'s spelling; modern Atjehnese *peuoe blang* or *peuseumbong blang*) is the Atjehnese rite of the first inauguration of field-work — the consecration of the rice-fields and the plough-cattle at the start of the agricultural year, performed by a *malim* (a scriptural scholar skilled in calculating auspicious moments and versed in the secret lore of rice-cultivation) who, with completely shaved head, goes to the field at midnight, draws the first furrow-lines with his *parang* (machete) while muttering an incantation, and returns home. The rite is the Atjehnese analogue of the cognate field-consecration ceremonies of the wider archipelago — the *herdersfeest* of Java, the *mandjangog kandang* of the Minangkabauers, the *palili-feest* of South Celebes, the *masarampoe* of the To Rongkong, and the *motinoe-woei baoela* of the To Bada — and is the only Atjeh-specific topic given its own indexed slot in the table of contents of [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 178).
+**Poephon blang** (in [[J. Kreemer|Kreemer]]'s spelling; modern Atjehnese *peuoe blang* or *peuseumbong blang*) is the Atjehnese rite of the first inauguration of field-work — the consecration of the rice-fields and the plough-cattle at the start of the agricultural year, performed by a *malim* (a scriptural scholar skilled in calculating auspicious moments and versed in the secret lore of rice-cultivation) who, with completely shaved head, goes to the field at midnight, draws the first furrow-lines with his *parang* (machete) while muttering an incantation, and returns home. The rite is the Atjehnese analogue of the cognate field-consecration ceremonies of the wider archipelago — the *herdersfeest* of Java, the *mandjangog kandang* of the Minangkabauers, the *palili-feest* of South Celebes, the *masarampoe* of the To Rongkong, and the *motinoe-woei baoela* of the To Bada — and is the only Atjeh-specific topic given its own indexed slot in the table of contents of [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* ([[1956]])]] (p. 178).
 
 ## The rite
 The *poephon blang* passage in *De Karbouw* (pp. 177-178) reads:
@@ -25,7 +25,7 @@ The *poephon blang* is a document of the syncretism of pre-Islamic rice-cultivat
 
 
 ## Significance
-*Poephon blang* is significant for the encyclopedia of [[Acheh]] history as the principal documented Atjehnese field-consecration rite — the rite that integrated the buffalo-drawn plough, the rice-cultivation calendar, and the Islamic-scholarly magical complex into a single midnight ceremony performed by a *malim* at the start of the agricultural year. The rite is the only Atjeh-specific topic given its own indexed slot in the table of contents of *De Karbouw*, and is documented in [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. I, p. 471; vol. II, pp. 578 vg.) and re-cited in [[Kreemer's De Karbouw ([[1956]])|*De Karbouw*]] (p. 178). The Pederse variant, with the tiny golden plough, documents the regional variation of the rite within the Atjehnese cultural sphere and the Atjehse conception of gold as a metal of magical potency analogous to iron.
+*Poephon blang* is significant for the encyclopedia of [[Acheh]] history as the principal documented Atjehnese field-consecration rite — the rite that integrated the buffalo-drawn plough, the rice-cultivation calendar, and the Islamic-scholarly magical complex into a single midnight ceremony performed by a *malim* at the start of the agricultural year. The rite is the only Atjeh-specific topic given its own indexed slot in the table of contents of *De Karbouw*, and is documented in [[Kreemer's Atjeh (1922-23)|Kreemer's *Atjeh*]] (vol. I, p. 471; vol. II, pp. 578 vg.) and re-cited in [[Kreemer's De Karbouw (1956)|*De Karbouw*]] (p. 178). The Pederse variant, with the tiny golden plough, documents the regional variation of the rite within the Atjehnese cultural sphere and the Atjehse conception of gold as a metal of magical potency analogous to iron.
 
 
 ## Sources
@@ -36,8 +36,8 @@ The *poephon blang* is a document of the syncretism of pre-Islamic rice-cultivat
 ## See Also
 - [[Groot-Atjeh]]
 - [[Koeroebeuën]]
-- [[Kreemer's Atjeh ([[1922]]-23)]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's Atjeh (1922-23)]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[Pederse]]
 - [[Rabò annual seven-day feast]]
 - [[hakikah]]

@@ -1,6 +1,6 @@
 ---
 title: "Keumala"
-aliases: ["Keumala", "Keumala party", "Keumala-partij", "Keumala centre", "Keumala court"]
+aliases: ["Keumala", "Kemala", "Keumala party", "Keumala-partij", "Keumala centre", "Keumala court"]
 tags: [place, centre, resistance, spiritual, aceh, aceh-war, 19th-century, 20th-century]
 ---
 

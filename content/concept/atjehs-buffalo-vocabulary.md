@@ -4,7 +4,7 @@ aliases: ["Achehnese words for buffalo", "Atjehnese buffalo vocabulary", "Atjehs
 
 tags: ["achehnese", "agriculture", "concept", "language", "lexicography"]
 ---
-The **Atjehs buffalo vocabulary** is the set of Atjehnese-language (Atjehs) terms for the water-buffalo, its varieties, its husbandry-implements, and its ritual-legal-economic functions, as documented in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] and his [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]] ([[1922]]-23), and in the lexicographical sources [[Hoesein Djajadiningrat|Djajadiningrat]]'s *Atjehsch-Nederlandsch Woordenboek* and [[G. A. J. Hazeu|Hazeu]]'s *Gajosch-Nederlandsch Woordenboek*. The vocabulary is exceptionally rich — a single small language-community maintains distinct terms for the buffalo itself, for its colour-varieties (albino, blaze, piebald), for its feral form, for its vocalisation, for its wallow, for its herd-leader, for the various implements of its husbandry (plough, harrow, yoke, restraining stock, bell, brake-shoe, freight-cart), and for the various ritual-legal concepts (earnest-money, half-share arrangement, fattening custom, nose-rope) attached to its commercial and ceremonial use.
+The **Atjehs buffalo vocabulary** is the set of Atjehnese-language (Atjehs) terms for the water-buffalo, its varieties, its husbandry-implements, and its ritual-legal-economic functions, as documented in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* ([[1956]])]] and his [[Kreemer's Atjeh (1922-23)|*Atjeh*]] ([[1922]]-23), and in the lexicographical sources [[Hoesein Djajadiningrat|Djajadiningrat]]'s *Atjehsch-Nederlandsch Woordenboek* and [[G. A. J. Hazeu|Hazeu]]'s *Gajosch-Nederlandsch Woordenboek*. The vocabulary is exceptionally rich — a single small language-community maintains distinct terms for the buffalo itself, for its colour-varieties (albino, blaze, piebald), for its feral form, for its vocalisation, for its wallow, for its herd-leader, for the various implements of its husbandry (plough, harrow, yoke, restraining stock, bell, brake-shoe, freight-cart), and for the various ritual-legal concepts (earnest-money, half-share arrangement, fattening custom, nose-rope) attached to its commercial and ceremonial use.
 
 ## The principal terms
 ### The buffalo and its varieties
@@ -78,7 +78,7 @@ The principal lexicographical sources on the Atjehs buffalo-vocabulary are:
 The Atjehs language is, as *De Karbouw* notes (p. 22), a member of the Sumatran group of Austronesian languages and is "especially related to" (*vooral met het Atjehs geparenteerd*) the Cham language — a linguistic connection that points to the historical Atjeh-Cham relationship familiar from [[C. Snouck Hurgronje|Snouck Hurgronje]]'s work.
 
 ## Significance
-The Atjehs buffalo-vocabulary is significant for the encyclopedia of [[Acheh]] history as the linguistic documentation of the integration of the buffalo into every domain of Atjehnese village life — agricultural, economic, ritual-legal, magical, and cosmological. The vocabulary documents that the buffalo was, in Atjehnese village society, not merely an economic asset but a culturally elaborated animal whose every variety, implement, function, and ritual-legal status had its own named term. The vocabulary is the principal linguistic monument of the Atjehnese buffalo-complex as documented in [[Kreemer's De Karbouw ([[1956]])|*De Karbouw*]] and [[Kreemer's Atjeh ([[1922]]-23)|*Atjeh*]], and is the basis on which many of the concept-entries in this wiki rest.
+The Atjehs buffalo-vocabulary is significant for the encyclopedia of [[Acheh]] history as the linguistic documentation of the integration of the buffalo into every domain of Atjehnese village life — agricultural, economic, ritual-legal, magical, and cosmological. The vocabulary documents that the buffalo was, in Atjehnese village society, not merely an economic asset but a culturally elaborated animal whose every variety, implement, function, and ritual-legal status had its own named term. The vocabulary is the principal linguistic monument of the Atjehnese buffalo-complex as documented in [[Kreemer's De Karbouw (1956)|*De Karbouw*]] and [[Kreemer's Atjeh (1922-23)|*Atjeh*]], and is the basis on which many of the concept-entries in this wiki rest.
 
 
 ## Sources
@@ -96,8 +96,8 @@ The Atjehs buffalo-vocabulary is significant for the encyclopedia of [[Acheh]] h
 - [[G. A. J. Hazeu]]
 - [[Hoesein Djajadiningrat]]
 - [[J. Kreemer]]
-- [[Kreemer's Atjeh ([[1922]]-23)]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's Atjeh (1922-23)]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[baris-Laksamana]]
 - [[bòh pè]]
 - [[keubeuë djagat]]

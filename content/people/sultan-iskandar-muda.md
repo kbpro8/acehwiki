@@ -200,7 +200,7 @@ Langhout connects the sultan's age with the high-water mark of Atjehnese expansi
 - [[Koeta djaq]]
 - [[Koeta‑Radja]]
 - [[Kreemer's Atjeh ([[1922]]‑23)]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[Malacca]]
 - [[Meusigit Raja]]
 - [[Oost-Indisch Journael]]

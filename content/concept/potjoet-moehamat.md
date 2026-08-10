@@ -57,8 +57,8 @@ This passage fixes the *koeta djaq* as a mid-18th-century military technology in
 - [[J. Kreemer]]
 - [[Aceh War]]
 - [[Atjeh bloeitijdperk ([[1607]]-[[1636]])]]
-- [[Kreemer's Atjeh ([[1922]]-23)]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's Atjeh (1922-23)]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[Sultan Iskandar Muda]]
 - [[koeta djaq]]
 

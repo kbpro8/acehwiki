@@ -78,7 +78,7 @@ For AcehWiki, the *Hikajat Raja-Raja Pasai* is significant as the principal Mala
 - [[E. Dulaurier]]
 - [[J. Kreemer]]
 - [[J. L. A. Brandes]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[L. C. Westenenk]]
 - [[Pasei]]
 - [[Snouck Hurgronje's De Atjehers ([[1893]]-94)]]

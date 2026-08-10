@@ -51,8 +51,8 @@ Following the existing wiki convention (folders: `people/`, `places/`, `events/`
 - [[Court buffalo-fight at Sultan Iskandar Muda's court ([[1613]])]] — the court spectacle staged in Best's honour.
 - [[Rabò annual seven-day feast]] — the seven-day beach festival with buffalo-sacrifice.
 ### Source documents (treated as events per wiki convention)
-- [[Kreemer's De Karbouw ([[1956]])]] — Kreemer's late synthesis.
-- [[Kreemer's Atjeh ([[1922]]-23)]] — Kreemer's two-volume monograph.
+- [[Kreemer's De Karbouw (1956)]] — Kreemer's late synthesis.
+- [[Kreemer's Atjeh (1922-23)]] — Kreemer's two-volume monograph.
 - [[Kreemer's De Maleier en zijn karbouw ([[1907]])]] — Kreemer's first scholarly article.
 - [[Van Langen's Atjeh's Westkust ([[1888]])]] — Van Langen's geographical article.
 - [[Snouck Hurgronje's De Atjehers ([[1893]]-94)]] — the foundational ethnography.

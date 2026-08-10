@@ -102,7 +102,7 @@ The conquest of the VI Moekims began on [[26 December]] [[1875]] with the launch
 - [[Stelling-Pel]]
 - [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Groot-Atjeh]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[Poelo Breuëh]]
 - [[Rabò annual seven-day feast]]
 - [[Rabò]]
@@ -113,7 +113,7 @@ The conquest of the VI Moekims began on [[26 December]] [[1875]] with the launch
 - [[mukim]]
 - [[teungkoe meunasah]
 ---
-The **VI Moekim's of Groot-Atjeh** (the Six *Mukim*s of Greater Aceh) were a federation of six *mukim* — the Islamic administrative unit (from Arabic *muqīm*, literally "settled" or "resident") used in [[Acheh|Atjeh]] to organise the territorial-administrative structure of the sultanate — that formed one of the principal territorial federations of the [[Groot-Atjeh|Groot-Atjeh]] heartland around [[Banda Acheh|Koetaradja]]. The VI Moekim's are mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 246) as the inhabitants who, in the period documented by [[C. Snouck Hurgronje|Snouck Hurgronje]], held the [[Rabò annual seven-day feast|annual seven-day beach feast at Rabò]] — the seventh day of which culminated in the ritual sacrifice of a buffalo that was first stabbed and then led bleeding over all the rice-fields.
+The **VI Moekim's of Groot-Atjeh** (the Six *Mukim*s of Greater Aceh) were a federation of six *mukim* — the Islamic administrative unit (from Arabic *muqīm*, literally "settled" or "resident") used in [[Acheh|Atjeh]] to organise the territorial-administrative structure of the sultanate — that formed one of the principal territorial federations of the [[Groot-Atjeh|Groot-Atjeh]] heartland around [[Banda Acheh|Koetaradja]]. The VI Moekim's are mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* ([[1956]])]] (p. 246) as the inhabitants who, in the period documented by [[C. Snouck Hurgronje|Snouck Hurgronje]], held the [[Rabò annual seven-day feast|annual seven-day beach feast at Rabò]] — the seventh day of which culminated in the ritual sacrifice of a buffalo that was first stabbed and then led bleeding over all the rice-fields.
 
 ## Source
 

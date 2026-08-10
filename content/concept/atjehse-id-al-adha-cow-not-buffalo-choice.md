@@ -4,7 +4,7 @@ aliases: ["Atjeh Id al-Adha choice", "Atjehse choice of cow over buffalo for the
 
 tags: ["achehnese", "concept", "islamic", "religious", "sacrifice"]
 ---
-The **Atjehse Id al-Adha cow-not-buffalo choice** is the documented Atjehnese preference for sacrificing a cow (rather than a buffalo) at the *Id al-Adha* (the "great feast" that concludes the pilgrimage to Mecca), in spite of the general Atjehnese preference for buffalo-meat over beef. The choice is explained, in the Atjehnese account recorded by [[C. Snouck Hurgronje|Snouck Hurgronje]] in [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 262) and re-cited in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (pp. 104-105), by the belief that a buffalo — "always accustomed to wallow in low water or mud" — would embarrass its rider on the plain of resurrection by stepping into a river or ditch with him; the same consideration is what underlies the [[hakikah|*hakikah*]] rule that the newborn-sacrifice is also never a buffalo. [[J. Kreemer|Kreemer]] suggests that the real underlying reason is that the buffalo was unknown in water-poor Arabia (the ritual's homeland), so that the canonical Islamic sacrificial animals remained sheep and cow.
+The **Atjehse Id al-Adha cow-not-buffalo choice** is the documented Atjehnese preference for sacrificing a cow (rather than a buffalo) at the *Id al-Adha* (the "great feast" that concludes the pilgrimage to Mecca), in spite of the general Atjehnese preference for buffalo-meat over beef. The choice is explained, in the Atjehnese account recorded by [[C. Snouck Hurgronje|Snouck Hurgronje]] in [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers*]] (vol. I, p. 262) and re-cited in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* ([[1956]])]] (pp. 104-105), by the belief that a buffalo — "always accustomed to wallow in low water or mud" — would embarrass its rider on the plain of resurrection by stepping into a river or ditch with him; the same consideration is what underlies the [[hakikah|*hakikah*]] rule that the newborn-sacrifice is also never a buffalo. [[J. Kreemer|Kreemer]] suggests that the real underlying reason is that the buffalo was unknown in water-poor Arabia (the ritual's homeland), so that the canonical Islamic sacrificial animals remained sheep and cow.
 
 ## The choice and its explanation
 The passage in *De Karbouw* (pp. 104-105) reads:
@@ -29,7 +29,7 @@ The Atjehse Id al-Adha cow-not-buffalo choice is significant for the encyclopedi
 - [[Atjeh adat schimpstraf (buffalo-riding wife-beater)]]
 - [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Koeroebeuën]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[Pantang of the albino buffalo in Atjeh]]
 - [[Rabò annual seven-day feast]]
 - [[Snouck Hurgronje's De Atjehers ([[1893]]-94)]]

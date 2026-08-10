@@ -95,7 +95,7 @@ description: Pasei (modern Pasai; also Pasé, Samudra Pasai) was the historical 
   by the 1926 atlas alongside Perlak as evidence for the early arrival of Islam.
 ---
 
-**Pasei** (modern *Pasai*; also *Pasé*; also *Samudra Pasai*) was the historical Muslim kingdom on the north coast of [[Acheh|Atjeh]], founded (on the chronology of the [[Hikajat Radja-radja Pasei|Pasai chronicle]]) in the late thirteenth century and absorbed by the [[Atjeh|Atjeh sultanate]] under [[Sultan Iskandar Muda|Iskandar Muda]] in the early seventeenth century. Pasei was, before the rise of [[Banda Acheh|Koetaradja]], the principal Muslim polity of northern Sumatra and one of the earliest Muslim kingdoms in the Indonesian archipelago; its chronicle, the [[Hikajat Radja-radja Pasei|*Hikajat Radja-radja Pasei*]], is one of the foundational Malay historical texts and was made accessible to European scholarship by [[E. Dulaurier]] in [[1849]] and by [[A. Marre]] in [[1874]]. In [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 220) Pasei appears as the place of origin of [[Gedong (Atjeher of Pasei)|Gedong]], the eponymous ancestor of the [[marga Ramin]] of [[Boven-Singkel]], whose encounter with an eel and a buffalo during a shipwreck on the way to [[Belawan]] gave rise to the lineage's double food-prohibition.
+**Pasei** (modern *Pasai*; also *Pasé*; also *Samudra Pasai*) was the historical Muslim kingdom on the north coast of [[Acheh|Atjeh]], founded (on the chronology of the [[Hikajat Radja-radja Pasei|Pasai chronicle]]) in the late thirteenth century and absorbed by the [[Atjeh|Atjeh sultanate]] under [[Sultan Iskandar Muda|Iskandar Muda]] in the early seventeenth century. Pasei was, before the rise of [[Banda Acheh|Koetaradja]], the principal Muslim polity of northern Sumatra and one of the earliest Muslim kingdoms in the Indonesian archipelago; its chronicle, the [[Hikajat Radja-radja Pasei|*Hikajat Radja-radja Pasei*]], is one of the foundational Malay historical texts and was made accessible to European scholarship by [[E. Dulaurier]] in [[1849]] and by [[A. Marre]] in [[1874]]. In [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* ([[1956]])]] (p. 220) Pasei appears as the place of origin of [[Gedong (Atjeher of Pasei)|Gedong]], the eponymous ancestor of the [[marga Ramin]] of [[Boven-Singkel]], whose encounter with an eel and a buffalo during a shipwreck on the way to [[Belawan]] gave rise to the lineage's double food-prohibition.
 
 In the *Nederlandsch Indië Platen Atlas* ([[1926]]), Pasei (spelled *Pasé*) is cited alongside [[Perlak]] as one of the two earliest-known Muslim principalities (*Moslimsche rijkjes*) on the north-east coast of Sumatra, established by approximately [[1500]] — evidence for the early penetration of Islam into the Indonesian Archipelago. The atlas also notes that [[Soenan Goenoeng Djati]], one of the nine saints (*Wali Songo*) credited with the Islamisation of Java, was "vermoedelijk uit Pasei (Noord-Sumatra) afkomstig" (presumably from Pasai [North Sumatra] by origin).
 
@@ -169,7 +169,7 @@ The kingdom of Samudra-Pasai was founded, according to the [[Hikajat Radja-radja
 - [[Gedong (Atjeher of Pasei)]]
 - [[Hikajat Radja-radja Pasei]]
 - [[Islam in Aceh|Islam in Atjeh]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[Pantang of the albino buffalo in Atjeh]]
 - [[Pedir]]
 - [[Perlak]]

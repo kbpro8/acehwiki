@@ -4,7 +4,7 @@ aliases: ["Boven-Singkel origin legend", "Gedong legend", "legend of the Atjeher
 
 tags: ["achehnese", "concept", "genealogy", "legend", "pantang", "singkil"]
 ---
-The **marga Ramin legend of Boven-Singkel** is the origin-narrative of the [[marga Ramin|marga Ramin]] of [[Boven-Singkel|Boven-Singkel]] (Upper Singkel, in present-day [[Aceh Singkil Regency|Aceh Singkil Regency]]), recorded by [[W. K. H. Ypes|Ypes]] in his *Bijdrage tot de kennis van stamverwantschap op Sumatra* (p. 57 nt. 1) and reproduced in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 220). The legend tells of [[Gedong (Atjeher of Pasei)|Gedong]], an Atjeher from [[Pasei|Pasei]] and the eponymous ancestor of the *marga*, who suffered shipwreck on his way to [[Belawan]] and was caught by an eel that brought him to land after he swore never to eat eel; on the beach, a buffalo awaited him and threatened to push him back into the sea, but released him unharmed after he swore never to eat buffalo-meat. The members of the [[marga Ramin|marga Ramin]] are said to abstain, to this day, from both eel and buffalo-meat, in fulfilment of Gedong's two oaths.
+The **marga Ramin legend of Boven-Singkel** is the origin-narrative of the [[marga Ramin|marga Ramin]] of [[Boven-Singkel|Boven-Singkel]] (Upper Singkel, in present-day [[Aceh Singkil Regency|Aceh Singkil Regency]]), recorded by [[W. K. H. Ypes|Ypes]] in his *Bijdrage tot de kennis van stamverwantschap op Sumatra* (p. 57 nt. 1) and reproduced in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* ([[1956]])]] (p. 220). The legend tells of [[Gedong (Atjeher of Pasei)|Gedong]], an Atjeher from [[Pasei|Pasei]] and the eponymous ancestor of the *marga*, who suffered shipwreck on his way to [[Belawan]] and was caught by an eel that brought him to land after he swore never to eat eel; on the beach, a buffalo awaited him and threatened to push him back into the sea, but released him unharmed after he swore never to eat buffalo-meat. The members of the [[marga Ramin|marga Ramin]] are said to abstain, to this day, from both eel and buffalo-meat, in fulfilment of Gedong's two oaths.
 
 ## The legend
 The legend, as reproduced from Ypes in *De Karbouw* (p. 220), reads:
@@ -34,7 +34,7 @@ The marga Ramin legend is significant for the encyclopedia of [[Acheh]] history 
 - [[Boven-Singkel]]
 - [[C. Snouck Hurgronje|Christiaan Snouck Hurgronje]]
 - [[Gedong (Atjeher of Pasei)]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[Pantang of the albino buffalo in Atjeh]]
 - [[Pasei]]
 - [[W. K. H. Ypes]]

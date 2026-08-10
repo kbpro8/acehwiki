@@ -5,7 +5,7 @@ aliases: ["W.K.H. Ypes", "Wouter Ypes", "Ypes"]
 
 tags: ["dutch", "ethnographer", "person", "scholar"]
 ---
-**W. K. H. Ypes** was a Dutch ethnographer whose *Bijdrage tot de kennis van stamverwantschap op Sumatra* ("Contribution to the knowledge of kinship on Sumatra") documented, among other Sumatran genealogical traditions, the [[marga Ramin]] origin legend of [[Boven-Singkel|Boven-Singkel]] involving an Atjeher from [[Pasei|Pasei]] named [[Gedong (Atjeher of Pasei)|Gedong]] and his encounter with an eel and a buffalo. Ypes's work is cited twice in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]]: once (at p. 215, nt.) for the Batakse legend of a buffalo-fight at Tamba between Bataks and the Malays of Baroes, and once (at p. 220, nt. 1) for the [[Boven-Singkel|Boven-Singkel]] [[marga Ramin]] legend of [[Gedong (Atjeher of Pasei)|Gedong]] the Atjeher of [[Pasei|Pasei]].
+**W. K. H. Ypes** was a Dutch ethnographer whose *Bijdrage tot de kennis van stamverwantschap op Sumatra* ("Contribution to the knowledge of kinship on Sumatra") documented, among other Sumatran genealogical traditions, the [[marga Ramin]] origin legend of [[Boven-Singkel|Boven-Singkel]] involving an Atjeher from [[Pasei|Pasei]] named [[Gedong (Atjeher of Pasei)|Gedong]] and his encounter with an eel and a buffalo. Ypes's work is cited twice in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* ([[1956]])]]: once (at p. 215, nt.) for the Batakse legend of a buffalo-fight at Tamba between Bataks and the Malays of Baroes, and once (at p. 220, nt. 1) for the [[Boven-Singkel|Boven-Singkel]] [[marga Ramin]] legend of [[Gedong (Atjeher of Pasei)|Gedong]] the Atjeher of [[Pasei|Pasei]].
 
 ## The Bijdrage tot de kennis van stamverwantschap op Sumatra
 Ypes's *Bijdrage* appears to have been a substantial contribution to the early-twentieth-century Dutch ethnographic literature on Sumatran kinship systems, treating the genealogical organisation of the various Sumatran peoples — Batak *marga*, Atjehnese *kawōm*, Gayo and Alas *mergō*, Malay *soekoe*, and similar patrilineal or matrilineal kinship groups — and including, as part of that documentation, the origin-legends attached to particular lineages. The two passages cited in *De Karbouw* show Ypes's coverage extending from the Batak country (the legend of a buffalo-fight at Tamba between Bataks and the Malays of Baroes) through the Singkil area (the [[marga Ramin]] legend of [[Gedong (Atjeher of Pasei)|Gedong]] of [[Pasei|Pasei]]) — that is, along the western and northern flanks of the Sumatran highland belt that includes [[Acheh|Atjeh]] proper and the [[Gajoland]]-[[Alasland|Alas]] interior.
@@ -25,13 +25,13 @@ Ypes's significance for the encyclopedia of [[Acheh]] history is as the source o
 - [[Boven-Singkel]]
 - [[Gedong (Atjeher of Pasei)]]
 - [[J. Kreemer]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[Pantang of the albino buffalo in Atjeh]]
 - [[Pasei]]
 - [[marga Ramin]
 ---
 
-**W. K. H. Ypes** was a Dutch ethnographer whose *Bijdrage tot de kennis van stamverwantschap op Sumatra* ("Contribution to the knowledge of kinship on Sumatra") documented, among other Sumatran genealogical traditions, the [[marga Ramin]] origin legend of [[Boven-Singkel|Boven-Singkel]] involving an Atjeher from [[Pasei|Pasei]] named [[Gedong (Atjeher of Pasei)|Gedong]] and his encounter with an eel and a buffalo. Ypes's work is cited twice in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]]: once (at p. 215, nt.) for the Batakse legend of a buffalo-fight at Tamba between Bataks and the Malays of Baroes, and once (at p. 220, nt. 1) for the [[Boven-Singkel|Boven-Singkel]] [[marga Ramin]] legend of [[Gedong (Atjeher of Pasei)|Gedong]] the Atjeher of [[Pasei|Pasei]].
+**W. K. H. Ypes** was a Dutch ethnographer whose *Bijdrage tot de kennis van stamverwantschap op Sumatra* ("Contribution to the knowledge of kinship on Sumatra") documented, among other Sumatran genealogical traditions, the [[marga Ramin]] origin legend of [[Boven-Singkel|Boven-Singkel]] involving an Atjeher from [[Pasei|Pasei]] named [[Gedong (Atjeher of Pasei)|Gedong]] and his encounter with an eel and a buffalo. Ypes's work is cited twice in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* ([[1956]])]]: once (at p. 215, nt.) for the Batakse legend of a buffalo-fight at Tamba between Bataks and the Malays of Baroes, and once (at p. 220, nt. 1) for the [[Boven-Singkel|Boven-Singkel]] [[marga Ramin]] legend of [[Gedong (Atjeher of Pasei)|Gedong]] the Atjeher of [[Pasei|Pasei]].
 
 ## The Bijdrage tot de kennis van stamverwantschap op Sumatra
 Ypes's *Bijdrage* appears to have been a substantial contribution to the early-twentieth-century Dutch ethnographic literature on Sumatran kinship systems, treating the genealogical organisation of the various Sumatran peoples — Batak *marga*, Atjehnese *kawōm*, Gayo and Alas *mergō*, Malay *soekoe*, and similar patrilineal or matrilineal kinship groups — and including, as part of that documentation, the origin-legends attached to particular lineages. The two passages cited in *De Karbouw* show Ypes's coverage extending from the Batak country (the legend of a buffalo-fight at Tamba between Bataks and the Malays of Baroes) through the Singkil area (the [[marga Ramin]] legend of [[Gedong (Atjeher of Pasei)|Gedong]] of [[Pasei|Pasei]]) — that is, along the western and northern flanks of the Sumatran highland belt that includes [[Acheh|Atjeh]] proper and the [[Gajoland]]-[[Alasland|Alas]] interior.
@@ -51,7 +51,7 @@ Ypes's significance for the encyclopedia of [[Acheh]] history is as the source o
 - [[Boven-Singkel]]
 - [[Gedong (Atjeher of Pasei)]]
 - [[J. Kreemer]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[Pantang of the albino buffalo in Atjeh]]
 - [[Pasei]]
 - [[marga Ramin]]

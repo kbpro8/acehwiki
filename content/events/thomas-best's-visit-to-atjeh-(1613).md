@@ -4,7 +4,7 @@ aliases: ["Best's 1613 Atjeh embassy", "English embassy to Sultan Iskandar Muda 
 
 tags: ["achehnese", "colonial", "diplomatic", "english", "event", "maritime", "precolonial"]
 ---
-**Thomas Best's visit to Atjeh in [[1613]]** was the embassy of the English sea-captain and [[East India Company|East India Company]] envoy [[Thomas Best]] to the court of [[Sultan Iskandar Muda]] at [[Banda Acheh|Koetaradja]] during the [[Atjeh bloeitijdperk ([[1607]]-[[1636]])|*bloeitijdperk*]] (golden age) of the [[Acheh|Atjeh]] sultanate, in the course of which a great festival was staged in Best's honour — the central moments of which were a tournament of elephants and a [[Court buffalo-fight at Sultan Iskandar Muda's court ([[1613]])|buffalo-fight]] that Best's journal records in one of the earliest European eyewitness descriptions of court spectacle at Koetaradja. The visit is documented in Best's journal, edited and published by [[William Foster]] as *The Voyage of Thomas Best to the East Indies, 1612-14* (London: Hakluyt Society, [[1934]], p. 168), and is cited in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 84) — drawing on [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. I, p. 192) — as the principal first-hand account of buffalo-fights as a courtly entertainment in [[Acheh|Atjeh]].
+**Thomas Best's visit to Atjeh in [[1613]]** was the embassy of the English sea-captain and [[East India Company|East India Company]] envoy [[Thomas Best]] to the court of [[Sultan Iskandar Muda]] at [[Banda Acheh|Koetaradja]] during the [[Atjeh bloeitijdperk ([[1607]]-[[1636]])|*bloeitijdperk*]] (golden age) of the [[Acheh|Atjeh]] sultanate, in the course of which a great festival was staged in Best's honour — the central moments of which were a tournament of elephants and a [[Court buffalo-fight at Sultan Iskandar Muda's court ([[1613]])|buffalo-fight]] that Best's journal records in one of the earliest European eyewitness descriptions of court spectacle at Koetaradja. The visit is documented in Best's journal, edited and published by [[William Foster]] as *The Voyage of Thomas Best to the East Indies, 1612-14* (London: Hakluyt Society, [[1934]], p. 168), and is cited in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* ([[1956]])]] (p. 84) — drawing on [[Kreemer's Atjeh (1922-23)|Kreemer's *Atjeh*]] (vol. I, p. 192) — as the principal first-hand account of buffalo-fights as a courtly entertainment in [[Acheh|Atjeh]].
 
 ## Kreemer's summary in De Karbau
 [[J. Kreemer|Kreemer]] introduces the visit in the chapter on buffalo-fights and buffalo-races of *De Karbouw* (p. 84), in a passage that fixes the visit within the [[Atjeh bloeitijdperk ([[1607]]-[[1636]])|Atjeh *bloeitijdperk*]] of [[Sultan Iskandar Muda|Iskandar Muda]] and quotes Best's description of the buffalo-fight verbatim:
@@ -36,8 +36,8 @@ Best's visit to Atjeh in [[1613]] is significant for the encyclopedia of [[Acheh
 - [[Atjeh bloeitijdperk ([[1607]]-[[1636]])]]
 - [[Banda Acheh]]
 - [[Court buffalo-fight at Sultan Iskandar Muda's court ([[1613]])]]
-- [[Kreemer's Atjeh ([[1922]]-23)]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's Atjeh (1922-23)]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[Raffles' Acheh treaty of 1819]]
 - [[Sultan Iskandar Muda]]
 - [[Sultan of Acheh's letter to Warren Hastings]]

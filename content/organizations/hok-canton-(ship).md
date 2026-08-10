@@ -35,11 +35,11 @@ tags:
 - ransom
 ---
 
-**The Hok Canton** — the steamship *Hok Canton* — was the merchant vessel captured by the Atjèhse chieftain [[Teuku Umar|Teukoe Oema]] at the roadstead of [[Rigaih|Rigaih]] on the [[Westkust|Westkust]] of [[Atjeh|Atjèh]] in [[June 1886|June]] [[1886]], in the period of Toekoe Oema's mastery of the Westkust under the [[Concentratie-stelsel (1884-1896)|concentration system]]. The capture, the subsequent ransom of the prisoners for 25,000 dollars, and the division of the ransom between Toekoe Oema and [[Kemala|Kemala]] together constitute one of the principal Atjèhse acts of piracy against foreign shipping of the middle phase of the [[Aceh War|Atjèh-oorlog]] — and the empirical event that, in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]*, turned both the colony's former Civil Governor ([[1881]]–[[1883]]) and the sitting Governor of Atjeh ([[Demmeni|Generaal Demmeni]]) into advocates of a return to the [[Scheepvaartregeling|scheepvaartregeling]] that the [[Concentratiebesluit (19 Augustus 1884)|Concentratie]] had abolished.
+**The Hok Canton** — the steamship *Hok Canton* — was the merchant vessel captured by the Atjèhse chieftain [[Teuku Umar|Teukoe Oema]] at the roadstead of [[Rigaih|Rigaih]] on the [[Westkust|Westkust]] of [[Atjeh|Atjèh]] in June [[1886]], in the period of Toekoe Oema's mastery of the Westkust under the [[Concentratie-stelsel (1884-1896)|concentration system]]. The capture, the subsequent ransom of the prisoners for 25,000 dollars, and the division of the ransom between Toekoe Oema and [[Kemala|Kemala]] together constitute one of the principal Atjèhse acts of piracy against foreign shipping of the middle phase of the [[Aceh War|Atjèh-oorlog]] — and the empirical event that, in [[Joannes Benedictus van Heutsz|Van Heutsz]]'s [[1893]] tract *[[De onderwerping van Atjeh (Van Heutsz, 1893)|De onderwerping van Atjeh]]*, turned both the colony's former Civil Governor ([[1881]]–[[1883]]) and the sitting Governor of Atjeh ([[Demmeni|Generaal Demmeni]]) into advocates of a return to the [[Scheepvaartregeling|scheepvaartregeling]] that the [[Concentratiebesluit (19 Augustus 1884)|Concentratie]] had abolished.
 
 ## The 1886 Capture
 
-The steamship *Hok Canton* was captured by [[Teuku Umar|Teukoe Oema]] at the roadstead of [[Rigaih|Rigaih]] on the Westkust of Atjèh in [[June 1886|June]] [[1886]]. The capture — in the period of Toekoe Oema's mastery of the Westkust, when he levied taxes, pressed the population, and murdered, robbed, and burned where resistance was offered — was one of the principal Atjèhse acts of piracy against foreign shipping of the middle phase of the war.
+The steamship *Hok Canton* was captured by [[Teuku Umar|Teukoe Oema]] at the roadstead of [[Rigaih|Rigaih]] on the Westkust of Atjèh in June [[1886]]. The capture — in the period of Toekoe Oema's mastery of the Westkust, when he levied taxes, pressed the population, and murdered, robbed, and burned where resistance was offered — was one of the principal Atjèhse acts of piracy against foreign shipping of the middle phase of the war.
 
 ## The Precedents
 
@@ -47,7 +47,7 @@ The capture of the *Hok Canton* was, however, not Toekoe Oema's first act of pir
 
 ## The Ransom
 
-For 25,000 dollars the Dutch bought the prisoners of the *Hok Canton* free with difficulty. The ransom of 25,000 dollars — approximately ƒ12,500 — was a substantial sum, though less than the ƒ100,000 ransom paid for the crew of the *[[Nisero|Nisero]]* in [[September 1884|September]] [[1884]]. The difficulty of the negotiation indicates the weakness of the Dutch position on the Westkust in this period; the Dutch had no force capable of compelling Toekoe Oema to release the prisoners, and were obliged to pay the ransom he demanded. [[Kemala|Kemala]] received its share of the ransom.
+For 25,000 dollars the Dutch bought the prisoners of the *Hok Canton* free with difficulty. The ransom of 25,000 dollars — approximately ƒ12,500 — was a substantial sum, though less than the ƒ100,000 ransom paid for the crew of the *[[Nisero affair (1883–1885)|Nisero]]* in September [[1884]]. The difficulty of the negotiation indicates the weakness of the Dutch position on the Westkust in this period; the Dutch had no force capable of compelling Toekoe Oema to release the prisoners, and were obliged to pay the ransom he demanded. [[Kemala|Kemala]] received its share of the ransom.
 
 ## Account from *De onderwerping van Atjeh* (Van Heutsz, 1893) — the political significance
 
@@ -69,7 +69,7 @@ The June [[1886]] incident was also contemporaneous with two other events of the
 
 ## The Hok Canton and the Raijah piracy of 1893
 
-The *Hok Canton* appears a second time in the literature of Acehnese piracy, seven years after her own capture, in a role exactly opposite to that of [[1886]]: not as the vessel taken, but as the vessel that escaped notice. In the account given by [[P. H. R. Beuming]] of the [[Raijah piracy (20 July 1893)|seizure of the steamer *Raijah*]] on the night of [[20 July]] [[1893]], seven men of [[Pedir]] boarded the *[[Raijah (steamer)|Raijah]]* at [[Telok Semawé]] because of a rumour that she carried a large sum of money for the *[[Controleur Binnenlandsch Bestuur|controleur]]* at [[Edi (Atjeh)|Edi]]. They killed the helmsman, the second mate and the captain, and left twenty-four dead; but the plunder, Beuming noted, *zal wel erg tegengevallen zijn* — must have been a severe disappointment — because the money-consignment *had niet met de Raijah, maar met de Hok Canton plaats gehad*: it had gone not with the *Raijah* but with the *Hok Canton*.
+The *Hok Canton* appears a second time in the literature of Acehnese piracy, seven years after her own capture, in a role exactly opposite to that of [[1886]]: not as the vessel taken, but as the vessel that escaped notice. In the account given by [[P. H. R. Beuming]] of the [[Raijah piracy (20 July 1893)|seizure of the steamer *Raijah*]] on the night of [[20 July]] [[1893]], seven men of [[Pedir]] boarded the *[[Raijah (steamer)|Raijah]]* at [[Telok Semawé]] because of a rumour that she carried a large sum of money for the *[[Binnenlandsch Bestuur|controleur]]* at [[Edi (Atjeh)|Edi]]. They killed the helmsman, the second mate and the captain, and left twenty-four dead; but the plunder, Beuming noted, *zal wel erg tegengevallen zijn* — must have been a severe disappointment — because the money-consignment *had niet met de Raijah, maar met de Hok Canton plaats gehad*: it had gone not with the *Raijah* but with the *Hok Canton*.
 
 The coincidence is not remarked upon by Beuming, who does not connect the vessel to the [[1886]] affair, and the two episodes belong to different phases and different coasts of the war — the [[1886]] capture to the Westkust under the [[Concentratie-stelsel (1884-1896)|concentration system]], the [[1893]] massacre to the [[Noordkust van Atjeh|Noordkust]] in the last years before the [[Post-1896 system in Atjeh|new policy]]. They are recorded here together only because the same ship's name stands in both.
 
@@ -93,9 +93,9 @@ In Van Heutsz's [[1893]] narrative, the Hok Canton incident of June [[1886]] is 
 - [[Meulaboh]]
 - [[Westkust]]
 - [[Kemala]]
-- [[Nisero (ship)]]
+- [[Nisero affair (1883–1885)|Nisero (ship)]]
 - [[Nisero affair (November 1883 – September 1884)]]
-- [[Nisero affair (1883-1885)]]
+- [[Nisero affair (1883–1885)]]
 - [[Pahlawan-klucht]]
 - [[Defection of Teuku Umar (March 1896)]]
 - [[Aceh War]]
@@ -115,7 +115,6 @@ In Van Heutsz's [[1893]] narrative, the Hok Canton incident of June [[1886]] is 
 - [[W. Cool]]
 - [[Indisch Genootschap]]
 - [[De onderwerping van Atjeh (Van Heutsz, 1893)]]
-- [[June 1886]]
 - [[1884]]
 - [[1886]]
 - [[1896]]
@@ -129,8 +128,6 @@ In Van Heutsz's [[1893]] narrative, the Hok Canton incident of June [[1886]] is 
 - [[Koningspunt]]
 - [[Straits Settlements]]
 - [[British Empire]]
-- [[September 1884]]
-- [[November 1883]]
 - [[1883]]
 - [[1879]]
 - [[Teuku Uma]]

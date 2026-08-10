@@ -4,7 +4,7 @@ aliases: ["Atjeh magic circle for stall", "Ramayana magic circle", "baris-Laksam
 
 tags: ["achehnese", "concept", "folk-belief", "magic", "ramayana", "sumatra"]
 ---
-The **baris-Laksamana** (also **oeris-Laksamana**; Atj. *laqseumana*) is the magic circle drawn around a livestock-stall to protect the animals from diseases, wild animals, and other dangers — a practice attested across Sumatra (and beyond), used by the [[Acheh|Atjehnese]] (Atjehers), Malays and Gayo under the same name. The term, despite [[W. W. Skeat|Skeat]]'s folk-etymology "Admiral's Line," does not refer to an admiral but to the magic circle that Laksamana — in the old Hindu epic [[Ramayana]] — drew around Rama's wife Sita before leaving her, to protect her from Rawana, the demon-prince of the realm of Langkapoera. The practice is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 172) — citing [[Kreemer's Atjeh ([[1922]]-23)|his *Atjeh*]] (vol. I, p. 312; vol. II, pp. 586 vg., 661 nt. 2) and [[Hoesein Djajadiningrat|Djajadiningrat]]'s *Atjehsch-Ned. Wdbk.* i.v. *laqseumana*.
+The **baris-Laksamana** (also **oeris-Laksamana**; Atj. *laqseumana*) is the magic circle drawn around a livestock-stall to protect the animals from diseases, wild animals, and other dangers — a practice attested across Sumatra (and beyond), used by the [[Acheh|Atjehnese]] (Atjehers), Malays and Gayo under the same name. The term, despite [[W. W. Skeat|Skeat]]'s folk-etymology "Admiral's Line," does not refer to an admiral but to the magic circle that Laksamana — in the old Hindu epic [[Ramayana]] — drew around Rama's wife Sita before leaving her, to protect her from Rawana, the demon-prince of the realm of Langkapoera. The practice is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* ([[1956]])]] (p. 172) — citing [[Kreemer's Atjeh (1922-23)|his *Atjeh*]] (vol. I, p. 312; vol. II, pp. 586 vg., 661 nt. 2) and [[Hoesein Djajadiningrat|Djajadiningrat]]'s *Atjehsch-Ned. Wdbk.* i.v. *laqseumana*.
 
 ## The practice
 The baris-Laksamana passage in *De Karbouw* (p. 172) reads:
@@ -22,7 +22,7 @@ The rejection of [[W. W. Skeat|Skeat]]'s folk-etymology is significant. [[W. W. 
 
 
 ## Significance
-The baris-Laksamana is significant for the encyclopedia of [[Acheh]] history as a documented instance of the survival of [[Ramayana]]-derived magical practice into the Muslim-Atjehnese village complex — a survival attested by the very name of the rite, which refers explicitly to Laksamana's protective circle around Sita. The rite is documented in [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. I, p. 312; vol. II, pp. 586 vg., 661 nt. 2), in [[Hoesein Djajadiningrat|Djajadiningrat]]'s *Atjehsch-Ned. Wdbk.* i.v. *laqseumana*, and in [[W. W. Skeat|Skeat]]'s [[Skeat's Malay Magic ([[1900]])|*Malay Magic*]] (p. 156), and is re-cited in [[Kreemer's De Karbouw ([[1956]])|*De Karbouw*]] (p. 172). The rite also exemplifies the wider Sumatran pattern, visible also in the [[Poephon blang|*poephon blang*]] field-consecration rite and in the *teungkoe meunasah*'s ritual-slaughter complex, in which Islamic ritual forms (the Arabic-sounding *doea* incantation, the use of consecrated white stones) were layered onto a pre-Islamic substrate of magical practice (the [[Ramayana]]-derived circle).
+The baris-Laksamana is significant for the encyclopedia of [[Acheh]] history as a documented instance of the survival of [[Ramayana]]-derived magical practice into the Muslim-Atjehnese village complex — a survival attested by the very name of the rite, which refers explicitly to Laksamana's protective circle around Sita. The rite is documented in [[Kreemer's Atjeh (1922-23)|Kreemer's *Atjeh*]] (vol. I, p. 312; vol. II, pp. 586 vg., 661 nt. 2), in [[Hoesein Djajadiningrat|Djajadiningrat]]'s *Atjehsch-Ned. Wdbk.* i.v. *laqseumana*, and in [[W. W. Skeat|Skeat]]'s [[Skeat's Malay Magic ([[1900]])|*Malay Magic*]] (p. 156), and is re-cited in [[Kreemer's De Karbouw (1956)|*De Karbouw*]] (p. 172). The rite also exemplifies the wider Sumatran pattern, visible also in the [[Poephon blang|*poephon blang*]] field-consecration rite and in the *teungkoe meunasah*'s ritual-slaughter complex, in which Islamic ritual forms (the Arabic-sounding *doea* incantation, the use of consecrated white stones) were layered onto a pre-Islamic substrate of magical practice (the [[Ramayana]]-derived circle).
 
 
 ## Sources
@@ -36,8 +36,8 @@ The baris-Laksamana is significant for the encyclopedia of [[Acheh]] history as 
 ## See Also
 - [[Atjehs buffalo vocabulary]]
 - [[Hoesein Djajadiningrat]]
-- [[Kreemer's Atjeh ([[1922]]-23)]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's Atjeh (1922-23)]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[Poephon blang]]
 - [[Ramayana (in Atjeh folk-belief)]]
 - [[Skeat's Malay Magic ([[1900]])]]

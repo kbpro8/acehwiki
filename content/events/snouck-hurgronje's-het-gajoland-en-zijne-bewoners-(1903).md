@@ -4,7 +4,7 @@ aliases: ["Het Gajoland en zijne bewoners", "Snouck Het Gajoland", "Snouck Hurgr
 
 tags: ["book", "colonial", "document", "dutch", "ethnography", "gajo"]
 ---
-**Snouck Hurgronje's *Het Gajoland en zijne bewoners* ([[1903]])** ("The Gayo Country and its Inhabitants") is the monograph by [[C. Snouck Hurgronje|C. Snouck Hurgronje]] on the [[Gajoland|Gayo]] highlands of central [[Acheh|Atjeh]] and the Gayo people, published in [[1903]] (The Hague: M. Nijhoff). The work is the principal Western scholarly source on the Gayo country, and is cited repeatedly in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] for Gayo ethnographic detail — on the white pennants before the stall (p. 171), on the [[Pantang of the albino buffalo in Atjeh|Gajoland albino-buffalo prohibition]] (p. 217), and on the question of totemism vs. fear of ancestral wrath as the basis of food-prohibitions (p. 218). The work is listed in the *Lijst van geschriften* (bibliography) of *De Karbouw* (p. 267) alongside [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers* ([[1893]]-94)]] and his *Verspreide Geschriften* ([[1923]]-25).
+**Snouck Hurgronje's *Het Gajoland en zijne bewoners* ([[1903]])** ("The Gayo Country and its Inhabitants") is the monograph by [[C. Snouck Hurgronje|C. Snouck Hurgronje]] on the [[Gajoland|Gayo]] highlands of central [[Acheh|Atjeh]] and the Gayo people, published in [[1903]] (The Hague: M. Nijhoff). The work is the principal Western scholarly source on the Gayo country, and is cited repeatedly in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* ([[1956]])]] for Gayo ethnographic detail — on the white pennants before the stall (p. 171), on the [[Pantang of the albino buffalo in Atjeh|Gajoland albino-buffalo prohibition]] (p. 217), and on the question of totemism vs. fear of ancestral wrath as the basis of food-prohibitions (p. 218). The work is listed in the *Lijst van geschriften* (bibliography) of *De Karbouw* (p. 267) alongside [[C. Snouck Hurgronje|Snouck Hurgronje]]'s [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers* ([[1893]]-94)]] and his *Verspreide Geschriften* ([[1923]]-25).
 
 ## The monograph
 Snouck Hurgronje's *Het Gajoland en zijne bewoners* ([[1903]]) was the principal Western scholarly monograph on the [[Gajoland|Gayo]] country — the highland region of central [[Acheh|Atjeh]] inhabited by the Gayo people, lying between [[Groot-Atjeh|Greater Aceh]] on the north coast and the [[Alasland|Alas]] valley to the south-east. The work was a companion-piece to Snouck's earlier [[Snouck Hurgronje's De Atjehers ([[1893]]-94)|*De Atjehers* ([[1893]]-94)]] — the foundational ethnography of the Atjehnese proper — and treated the Gayo as the inland neighbours of the Atjehnese with whom a wide range of vocabulary, customs and beliefs are paired. The monograph's coverage of Gayo ethnographic detail made it the standard Western reference on the Gayo country through the early twentieth century.
@@ -39,7 +39,7 @@ Masterly work ('meesterlijke werk') describing the [[Gajo-land (Gayo Land)|Gajo]
 - [[Gajoland]]
 - [[J. Kreemer]]
 - [[Kedjoeroen Boekit]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[Pantang of the albino buffalo in Atjeh]]
 - [[Petiambang]]
 - [[Snouck Hurgronje's De Atjehers ([[1893]]-94)]]

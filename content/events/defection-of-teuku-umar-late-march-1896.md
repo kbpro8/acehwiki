@@ -7,6 +7,7 @@ aliases:
 - Teuku Umar's defection
 - T. Oemar's defection
 - Defection of Teuku Umar (March 1896)
+- Defection of Teuku Umar (29 March 1896)
 - Toekoe Oemar's verraad (1896)
 - Verraad van Toekoe Oemar
 - March 1896 defection

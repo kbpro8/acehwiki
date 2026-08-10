@@ -1,6 +1,6 @@
 ---
 title: "Lho' Seumawe"
-aliases: ["Lhokseumawe", "Lho Seumawe (north coast)", "Lho Seumawan", "Lhoseumawe", "Lhöi Seumawè", "Lho Seumawe onderafdeeling", "Lho Seumawe havenplaats", "Lho' Seumawé landschap", "Lho' Seumawe'sche", "Lho Seumawé", "Lhok Seumawe", "Lhō Seumawè", "Lho Seumawee", "Lo Seumawe", "Lho' Seumawé", "Haven Lho Seumawe", "Afdeeling Noordkust"]
+aliases: ["Lhokseumawe", "Lho Seumawe", "Lho' Seumawè", "Lho Seumawe (north coast)", "Lho Seumawan", "Lhoseumawe", "Lhöi Seumawè", "Lho Seumawe onderafdeeling", "Lho Seumawe havenplaats", "Lho' Seumawé landschap", "Lho' Seumawe'sche", "Lho Seumawé", "Lhok Seumawe", "Lhō Seumawè", "Lho Seumawee", "Lo Seumawe", "Lho' Seumawé", "Haven Lho Seumawe", "Afdeeling Noordkust"]
 tags: [place, north-east-coast, coast, uleebalangship, north-coast, north-east, mahraja, port, noordkust, oostkust, colonial, harbour, town, underafdeeling, achehnese, noordkust-van-atjeh, maharadja, sarikat-islam, paketvaart, gemeentefonds, aceh, landschap, aceh-war, 20th-century, city, coastal, atjeh, historical-kingdom, samoedra]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Aceh War"
-aliases: ["Atjeh-oorlog (1873-1904)", "Atjeh-oorlog", "Acheh War", "Atjehoorlog", "the Atjeh war", "Atjeh War", "Atjeh-krijg", "Atjeh-krieg", "den oorlog met Atjeh", "Atjeh-oorlog (Van Heutsz 1893)"]
+aliases: ["Atjeh-oorlog (1873-1904)", "Atjeh-oorlog", "Acheh War", "Atjehoorlog", "the Atjeh war", "Atjeh War", "Achehnese War", "Atjeh-krijg", "Atjeh-krieg", "den oorlog met Atjeh", "Atjeh-oorlog (Van Heutsz 1893)"]
 tags: [event, war, dutch-colonial, military, political, political-history, military-history, colonial, dutch, religious, acheh, atjeh, aceh-war, 19th-century, 20th-century, concept, aceh]
 description: "The protracted Dutch colonial war against the Sultanate of Atjeh, begun in 1873 with the First Atjeh Expedition and concluded in the early 20th century by the pacification policies of Van Heutsz as Governor (1898-1904) and Governor-General (1904-1908)."
 ---

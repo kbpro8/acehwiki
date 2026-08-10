@@ -4,7 +4,7 @@ aliases: ["Samalanga (Atjeh)", "Samalanga region", "Samalangga", "Samalanga post
 tags: [aceh-proper, achehnese, coast, colonial, military-operations, north-coast, north-east-coast, place, region, ulama, landschap, aceh, noordkust, "landscape", "coastal"]
 ---
 
-**Samalanga** is a coastal region of [[Acheh|Atjeh]] on the north coast of Sumatra, between [[Banda Acheh|Koetaradja]] and [[Pedirse|Pedir]], mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 124) as the locality where, in particular, much *dadih* — curdled buffalo-milk, the most widely consumed buffalo-milk product in northern Sumatra — was made. The Samalanga reference is part of *De Karbouw*'s wider account of buffalo-milking and buffalo-milk consumption in Atjeh, which locates Atjeh within a broader North-Sumatran dairy complex that included the [[Pedirse|Pedir]] region (where goats were also milked), the [[Gajoland|Gajoland]] highlands (where *minjaq sapi* buffalo-milk cream was boiled down to fat for frying *toempi* and *tjoetjoer*), and the [[Klingalese]] and [[Arab|Arab]] communities resident in Atjeh (great lovers of *dadih*, who knew it by their own terms *tairō* and *halib* respectively).
+**Samalanga** is a coastal region of [[Acheh|Atjeh]] on the north coast of Sumatra, between [[Banda Acheh|Koetaradja]] and [[Pedirse|Pedir]], mentioned in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* ([[1956]])]] (p. 124) as the locality where, in particular, much *dadih* — curdled buffalo-milk, the most widely consumed buffalo-milk product in northern Sumatra — was made. The Samalanga reference is part of *De Karbouw*'s wider account of buffalo-milking and buffalo-milk consumption in Atjeh, which locates Atjeh within a broader North-Sumatran dairy complex that included the [[Pedirse|Pedir]] region (where goats were also milked), the [[Gajoland|Gajoland]] highlands (where *minjaq sapi* buffalo-milk cream was boiled down to fat for frying *toempi* and *tjoetjoer*), and the [[Klingalese]] and [[Arab|Arab]] communities resident in Atjeh (great lovers of *dadih*, who knew it by their own terms *tairō* and *halib* respectively).
 
 ## Expanded account from *The Achehnese*, Vol. I — Samalanga
 
@@ -112,7 +112,7 @@ In the budget of [[1900]] funds were granted for the tramway [[Sigli]]–[[Lho S
 - [[Hikajat Prang Kompeuni|Hikayat Prang Gompeuni]]
 - [[Imeum of Lueng Bata]]
 - [[Joannes Benedictus van Heutsz|J. B. van Heutsz]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[Lhokseumawe]]
 - [[Panglima Polem]]
 - [[Pedirse]]

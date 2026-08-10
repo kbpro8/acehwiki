@@ -4,7 +4,7 @@ aliases: ["Atjeh-Gajo weapon-scabbard glue", "buffalo-milk curd glue", "dadih gl
 
 tags: ["achehnese", "concept", "craft", "gajo", "technology"]
 ---
-**Getah dadih** (literally "dadih-glue"; the *getah* or gum/resin of *dadih*, the curdled buffalo-milk of northern Sumatra) is the adhesive prepared by the Atjehnese and the Gayo from curdled buffalo-milk, used (among other purposes) for gluing the two halves of weapon-scabbards together. The preparation and use of *getah dadih* is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw ([[1956]])|*De Karbouw* ([[1956]])]] (p. 124) — citing [[J. F. K. van Hasselt|Van Hasselt]]'s *Volksbeschrijving* (pp. 31, 374 vg.), [[Kreemer's De Maleier en zijn karbouw ([[1907]])|Kreemer's *De Maleier en zijn karbouw*]] (p. 956), and [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. I, pp. 333 vg.).
+**Getah dadih** (literally "dadih-glue"; the *getah* or gum/resin of *dadih*, the curdled buffalo-milk of northern Sumatra) is the adhesive prepared by the Atjehnese and the Gayo from curdled buffalo-milk, used (among other purposes) for gluing the two halves of weapon-scabbards together. The preparation and use of *getah dadih* is recorded in [[J. Kreemer|Kreemer]]'s [[Kreemer's De Karbouw (1956)|*De Karbouw* ([[1956]])]] (p. 124) — citing [[J. F. K. van Hasselt|Van Hasselt]]'s *Volksbeschrijving* (pp. 31, 374 vg.), [[Kreemer's De Maleier en zijn karbouw ([[1907]])|Kreemer's *De Maleier en zijn karbouw*]] (p. 956), and [[Kreemer's Atjeh (1922-23)|Kreemer's *Atjeh*]] (vol. I, pp. 333 vg.).
 
 ## Preparation and use
 The *getah dadih* passage in *De Karbouw* (p. 124) reads:
@@ -18,7 +18,7 @@ The preparation steps are:
 5. **Application**: among the Atjehers and the Gajos, the adhesive is generally used (among other purposes) for gluing the two halves of weapon-scabbards together.
 
 ## Significance
-*Getah dadih* is significant for the encyclopedia of [[Acheh]] history as a documented instance of the technological exploitation of buffalo-milk beyond its direct dietary use — the conversion of the curdled-milk product into a durable adhesive for craft purposes. The use of *getah dadih* for weapon-scabbards documents the integration of the buffalo into the craft-technological complex of the Atjehnese and Gayo peoples, alongside the buffalo's better-documented roles in agriculture, ritual, and exchange. The adhesive is documented in [[J. F. K. van Hasselt|Van Hasselt]]'s *Volksbeschrijving* (pp. 31, 374 vg.), in [[Kreemer's De Maleier en zijn karbouw ([[1907]])|Kreemer's *De Maleier en zijn karbouw*]] (p. 956), and in [[Kreemer's Atjeh ([[1922]]-23)|Kreemer's *Atjeh*]] (vol. I, pp. 333 vg.), and is re-cited in [[Kreemer's De Karbouw ([[1956]])|*De Karbouw*]] (p. 124) as one of the documents of the wider Atjeh-Gayo buffalo-milk complex.
+*Getah dadih* is significant for the encyclopedia of [[Acheh]] history as a documented instance of the technological exploitation of buffalo-milk beyond its direct dietary use — the conversion of the curdled-milk product into a durable adhesive for craft purposes. The use of *getah dadih* for weapon-scabbards documents the integration of the buffalo into the craft-technological complex of the Atjehnese and Gayo peoples, alongside the buffalo's better-documented roles in agriculture, ritual, and exchange. The adhesive is documented in [[J. F. K. van Hasselt|Van Hasselt]]'s *Volksbeschrijving* (pp. 31, 374 vg.), in [[Kreemer's De Maleier en zijn karbouw ([[1907]])|Kreemer's *De Maleier en zijn karbouw*]] (p. 956), and in [[Kreemer's Atjeh (1922-23)|Kreemer's *Atjeh*]] (vol. I, pp. 333 vg.), and is re-cited in [[Kreemer's De Karbouw (1956)|*De Karbouw*]] (p. 124) as one of the documents of the wider Atjeh-Gayo buffalo-milk complex.
 
 
 ## Sources
@@ -31,8 +31,8 @@ The preparation steps are:
 ## See Also
 - [[Atjehs buffalo vocabulary]]
 - [[Gajoland]]
-- [[Kreemer's Atjeh ([[1922]]-23)]]
-- [[Kreemer's De Karbouw ([[1956]])]]
+- [[Kreemer's Atjeh (1922-23)]]
+- [[Kreemer's De Karbouw (1956)]]
 - [[Kreemer's De Maleier en zijn karbouw ([[1907]])]]
 - [[Van Hasselt's Volksbeschrijving]]
 - [[dadih (Atjeh)]]
